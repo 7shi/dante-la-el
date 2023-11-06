@@ -926,7 +926,7 @@
 133 “O she compassionate, who succoured me,
 
 <table>
-<tr><td>Lemma:<br>Italian:<br>Meaning:</td><td>oh<br>Oh<br>oh</td><td>pietoso<br>pietosa<br>merciful</td><td>coloro<br>colei<br>she</td><td>che<br>che<br>who</td><td>mi<br>mi<br>me</td><td>soccorrere<br>soccorse<br>helped</td><td>!<br>!<br>!</td></tr>
+<tr><td>Lemma:<br>Italian:<br>Meaning:</td><td>oh<br>Oh<br>oh</td><td>pietoso<br>pietosa<br>merciful</td><td>coloro<br>colei<br>she</td><td>che<br>che<br>who</td><td>mi<br>mi<br>me</td><td>soccorrere<br>soccorse<br>helped</td></tr>
 </table>
 
 134 e te cortese ch'ubidisti tosto  
