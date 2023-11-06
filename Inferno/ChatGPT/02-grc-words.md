@@ -55,11 +55,11 @@
 </table>
 
 8 Ὦ μνήμη τ', ἐν ᾗ γέγραπται πάνθ' ὅσ' εἶδον,  
-8 Ô mněmē t', en hệ gégraptae pánth' hós' éìdon,  
+8 Ô mněmē t', en hệ gégraptae pánth' hós' éìdon,  
 8 O memory, in which all that I saw is written,
 
 <table>
-<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>ὦ<br>Ὦ<br>Ô<br>O</td><td>μνήμη<br>μνήμη<br>mněmē<br>memory</td><td>τε<br>τ'<br>t'<br>&nbsp;</td><td>ἐν<br>ἐν<br>en<br>in</td><td>ὅς<br>ᾗ<br>hệ<br>in which</td><td>γράφω<br>γέγραπται<br>gégraptae<br>is written</td><td>πᾶς<br>πάνθ'<br>pánth'<br>all</td><td>ὅς<br>ὅσ'<br>hós'<br>that which</td><td>ὁράω<br>εἶδον<br>éìdon<br>I saw</td></tr>
+<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>ὦ<br>Ὦ<br>Ô<br>O</td><td>μνήμη<br>μνήμη<br>mněmē<br>memory</td><td>τε<br>τ'<br>t'<br>&nbsp;</td><td>ἐν<br>ἐν<br>en<br>in</td><td>ὅς<br>ᾗ<br>hệ<br>which</td><td>γράφω<br>γέγραπται<br>gégraptae<br>is written</td><td>πᾶς<br>πάνθ'<br>pánth'<br>all</td><td>ὅς<br>ὅσ'<br>hós'<br>that</td><td>ὁράω<br>εἶδον<br>éìdon<br>I saw</td></tr>
 </table>
 
 9 Νῦν ἡ σὴ φανήσεται σεμνηγορία.  
@@ -83,7 +83,7 @@
 11 "Look at my worthy tell at once,
 
 <table>
-<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>ἰδού<br>Ἴδε<br>Íde<br>look at</td><td>ἐγώ<br>μου<br>mū<br>of mine</td><td>ὁ<br>τὴν<br>tḕn<br>the</td><td>ἄξιος<br>ἀξίαν<br>axían<br>worthy</td><td>εἰπώτι<br>εἴποτ'<br>eípot'<br>at once</td><td>ἀντέχω<br>ἀντέχει<br>antéchei<br>tell</td></tr>
+<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>ἰδού<br>Ἴδε<br>Íde<br>look at</td><td>ἐγώ<br>μου<br>mū<br>my</td><td>ὁ<br>τὴν<br>tḕn<br>the</td><td>ἄξιος<br>ἀξίαν<br>axían<br>worthy</td><td>εἰπώτι<br>εἴποτ'<br>eípot'<br>at once</td><td>ἀντέχω<br>ἀντέχει<br>antéchei<br>tell</td></tr>
 </table>
 
 12 „ Πρὶν εἰς τὴν δεινὴν προχωρήσω πορείαν.  
@@ -152,18 +152,18 @@
 
 20 „ Αὐτὸς γὰρ Ῥώμης τῆς σεμνῆς καὶ τοῦ Κράτους  
 20 „ Autòs gàr Rhǒmēs tês semnês caè tû Crátūs  
-20 For he himself was chosen father of revered Rome and Power
+20 For he himself father of revered Rome and Power
 
 <table>
 <tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>αὐτός<br>Αὐτὸς<br>Autòs<br>he himself</td><td>γάρ<br>γὰρ<br>gàr<br>for</td><td>Ῥώμη<br>Ῥώμης<br>Rhǒmēs<br>Rome</td><td>ὁ<br>τῆς<br>tês<br>of the</td><td>σεμνός<br>σεμνῆς<br>semnês<br>revered</td><td>καί<br>καὶ<br>caè<br>and</td><td>ὁ<br>τοῦ<br>tû<br>of the</td><td>Κράτος<br>Κράτους<br>Crátūs<br>Power</td></tr>
 </table>
 
 21 „ ᾙρέθη πατὴρ ἐν Οὐρανῶν αἰθέρι·  
-21 „ Hẹréthē patḕr en Ūranôn aethéri;  
-21 in the heavens in the sky.
+21 „ Hẹ̄réthē patḕr en Ūranôn aethéri;  
+21 was chosen in heavens' sky.
 
 <table>
-<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>αἱρέω<br>ᾙρέθη<br>Hẹréthē<br>was chosen</td><td>πατήρ<br>πατὴρ<br>patḕr<br>father</td><td>ἐν<br>ἐν<br>en<br>in</td><td>Οὐρανός<br>Οὐρανῶν<br>Ūranôn<br>of the heavens</td><td>αἰθήρ<br>αἰθέρι<br>aethéri<br>in the sky</td></tr>
+<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>αἱρέω<br>ᾙρέθη<br>Hẹ̄réthē<br>was chosen</td><td>πατήρ<br>πατὴρ<br>patḕr<br>father</td><td>ἐν<br>ἐν<br>en<br>in</td><td>Οὐρανός<br>Οὐρανῶν<br>Ūranôn<br>heavens'</td><td>αἰθήρ<br>αἰθέρι<br>aethéri<br>sky</td></tr>
 </table>
 
 22 „ Ῥώμη δὲ καὶ τὸ Κράτος, ἵν' ὀρθῶς εἴπω,  
@@ -983,11 +983,11 @@
 </table>
 
 124 „ Ἐν ᾧ τοιαῦται τρεῖς μάκαιραι Κυρίαι  
-124 „ En hộ toeáùtae tréìs mácaerae Cyríae  
+124 „ En hộ toeáùtae tréìs mácaerae Cyríae  
 124 In which such three blessed Ladies
 
 <table>
-<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>ἐν<br>Ἐν<br>En<br>in</td><td>ὅς<br>ᾧ<br>hộ<br>which</td><td>τοιοῦτος<br>τοιαῦται<br>toeáùtae<br>such</td><td>τρεῖς<br>τρεῖς<br>tréìs<br>three</td><td>μάκαρ<br>μάκαιραι<br>mácaerae<br>blessed</td><td>Κύριος<br>Κυρίαι<br>Cyríae<br>Ladies</td></tr>
+<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>ἐν<br>Ἐν<br>En<br>in</td><td>ὅς<br>ᾧ<br>hộ<br>which</td><td>τοιοῦτος<br>τοιαῦται<br>toeáùtae<br>such</td><td>τρεῖς<br>τρεῖς<br>tréìs<br>three</td><td>μάκαρ<br>μάκαιραι<br>mácaerae<br>blessed</td><td>Κύριος<br>Κυρίαι<br>Cyríae<br>Ladies</td></tr>
 </table>
 
 125 „ Ἐν τοῖς οὐρανοῖς ὑπὲρ σοῦ μεριμνῶσι,  
