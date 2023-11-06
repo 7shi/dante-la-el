@@ -408,7 +408,7 @@
 59 Of whom the fame still in the world endures,
 
 <table>
-<tr><td>Lemma:<br>Italian:<br>Meaning:</td><td>di<br>di<br>of</td><td>cui<br>cui<br>whose</td><td>il<br>la<br>the</td><td>fama<br>fama<br>fame</td><td>ancora<br>ancor<br>still</td><td>nel<br>nel<br>in</td><td>mondo<br>mondo<br>world</td><td>durare<br>dura<br>lasts</td></tr>
+<tr><td>Lemma:<br>Italian:<br>Meaning:</td><td>di<br>di<br>of</td><td>cui<br>cui<br>whose</td><td>il<br>la<br>the</td><td>fama<br>fama<br>fame</td><td>ancora<br>ancor<br>still</td><td>nel<br>nel<br>in the</td><td>mondo<br>mondo<br>world</td><td>durare<br>dura<br>lasts</td></tr>
 </table>
 
 60 e durerà quanto 'l mondo lontana,  
@@ -436,7 +436,7 @@
 63 Upon his way, that he has turned through terror,
 
 <table>
-<tr><td>Lemma:<br>Italian:<br>Meaning:</td><td>sì<br>sì<br>so</td><td>nel<br>nel<br>in</td><td>cammino<br>cammin<br>path</td><td>che<br>che<br>that</td><td>voltare<br>vòlt'è<br>turns</td><td>per<br>per<br>for</td><td>paura<br>paura<br>fear</td></tr>
+<tr><td>Lemma:<br>Italian:<br>Meaning:</td><td>sì<br>sì<br>so</td><td>nel<br>nel<br>in the</td><td>cammino<br>cammin<br>path</td><td>che<br>che<br>that</td><td>voltare<br>vòlt'è<br>turns</td><td>per<br>per<br>for</td><td>paura<br>paura<br>fear</td></tr>
 </table>
 
 64 e temo che non sia già sì smarrito,  
@@ -457,7 +457,7 @@
 66 From that which I have heard of him in Heaven.
 
 <table>
-<tr><td>Lemma:<br>Italian:<br>Meaning:</td><td>per<br>per<br>for</td><td>quel<br>quel<br>that</td><td>che<br>ch'<br>that</td><td>io<br>i'<br>I</td><td>avere<br>ho<br>have</td><td>di<br>di<br>of</td><td>lui<br>lui<br>him</td><td>nel<br>nel<br>in</td><td>cielo<br>cielo<br>heaven</td><td>udire<br>udito<br>heard</td></tr>
+<tr><td>Lemma:<br>Italian:<br>Meaning:</td><td>per<br>per<br>for</td><td>quel<br>quel<br>that</td><td>che<br>ch'<br>that</td><td>io<br>i'<br>I</td><td>avere<br>ho<br>have</td><td>di<br>di<br>of</td><td>lui<br>lui<br>him</td><td>nel<br>nel<br>in the</td><td>cielo<br>cielo<br>heaven</td><td>udire<br>udito<br>heard</td></tr>
 </table>
 
 67 Or movi, e con la tua parola ornata  
