@@ -11,7 +11,7 @@
 2 The dark air the living on the earth
 
 <table>
-<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>ὁ<br>Ὁ<br>Ho<br>the</td><td>μελανώδης<br>μελανώδης<br>melanǒdēs<br>dark</td><td>ἀήρ<br>ἀὴρ<br>aḕr<br>air</td><td>τὰ + ἐπί<br>τἀπὶ<br>ta'pì<br>the upon</td><td>γῆ<br>γῆς<br>gês<br>earth</td><td>ζάω<br>ζῶντα<br>zônta<br>living</td></tr>
+<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>ὁ<br>Ὁ<br>Ho<br>the</td><td>μελανώδης<br>μελανώδης<br>melanǒdēs<br>dark</td><td>ἀήρ<br>ἀὴρ<br>aḕr<br>air</td><td>τὰ ἐπί<br>τἀπὶ<br>ta'pì<br>the upon</td><td>γῆ<br>γῆς<br>gês<br>earth</td><td>ζάω<br>ζῶντα<br>zônta<br>living</td></tr>
 </table>
 
 3 Τῶν πόνων ἀπήλαυνεν· ἐγὼ δὲ μόνος  
@@ -579,7 +579,7 @@
 73 When I will be in the presence of my Lord,
 
 <table>
-<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>ὅτε<br>Ὅτ'<br>Hót'<br>when</td><td>εἰμί<br>ἔσομ'<br>ésom'<br>I will be</td><td>ἐνώπιον<br>ἐνώπιον<br>enǒpion<br>in the presence of</td><td>ὁ<br>τοὐμοῦ<br>tū'mû<br>my</td><td>Κύριος<br>Κυρίου<br>Cyríū<br>Lord</td></tr>
+<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>ὅτε<br>Ὅτ'<br>Hót'<br>when</td><td>εἰμί<br>ἔσομ'<br>ésom'<br>I will be</td><td>ἐνώπιον<br>ἐνώπιον<br>enǒpion<br>in the presence</td><td>τοῦ ἐμοῦ<br>τοὐμοῦ<br>tū'mû<br>of my</td><td>Κύριος<br>Κυρίου<br>Cyríū<br>Lord</td></tr>
 </table>
 
 74 „ Αὐτῷ συχνάκις περὶ σοῦ καλῶς λέξω.”—  
@@ -723,7 +723,7 @@
 91 I have become like this by divine grace,
 
 <table>
-<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>τοιοῦτος<br>Τοιάδ'<br>Toeád'<br>Like this</td><td>ἐγώ<br>ἐγὼ<br>egṑ<br>I</td><td>χάρις<br>χάριτι<br>cháriti<br>by grace</td><td>καθίστημι<br>κατέστην<br>catéstēn<br>I’ve become</td><td>θεῖος<br>θείᾳ<br>theíạ̄<br>divine, godly</td></tr>
+<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>τοιοῦτος<br>Τοιάδ'<br>Toeád'<br>Like this</td><td>ἐγώ<br>ἐγὼ<br>egṑ<br>I</td><td>χάρις<br>χάριτι<br>cháriti<br>by grace</td><td>καθίστημι<br>κατέστην<br>catéstēn<br>I’ve become</td><td>θεῖος<br>θείᾳ<br>theíạ̄<br>divine</td></tr>
 </table>
 
 92 „ Ὥστ' ἡ τληπάθει' ὑμῶν οὐδέν με βλάπτει,  
@@ -747,7 +747,7 @@
 94 In the heavens, the Lady is favorable,
 
 <table>
-<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>ἐν<br>Ἐν<br>En<br>In, within</td><td>οὐρανός<br>Οὐρανοῖς<br>Ūranóès<br>heavens</td><td>εὔνοος<br>εὐμενής<br>eumeněs<br>favorable</td><td>εἰμί<br>ἐστι<br>esti<br>is</td><td>κυρία<br>Κυρία<br>Cyría<br>Lady</td></tr>
+<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>ἐν<br>Ἐν<br>En<br>in</td><td>οὐρανός<br>Οὐρανοῖς<br>Ūranóès<br>heavens</td><td>εὔνοος<br>εὐμενής<br>eumeněs<br>favorable</td><td>εἰμί<br>ἐστι<br>esti<br>is</td><td>κυρία<br>Κυρία<br>Cyría<br>Lady</td></tr>
 </table>
 
 95 „ Οἰκτείρουσα τὸν ἄνδρα, πρὸς ὅν σε στέλλω,  
@@ -843,7 +843,7 @@
 106 Do not you hear now his pitiful lamentations?
 
 <table>
-<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>οὐκ<br>Οὐκ<br>Ūc<br>do you not</td><td>ἀκούω<br>ἀκούεις<br>acǔeis<br>hear</td><td>νῦν<br>νῦν<br>nŷn<br>now</td><td>αὐτός<br>αὐτοῦ<br>autû<br>his</td><td>ὁ<br>τοὺς<br>tū̀s<br>the</td><td>οἰκτρός<br>οἰκτροὺς<br>oectrū̀s<br>pitiable</td><td>θρῆνος<br>θρήνους<br>thrěnūs<br>lamentations</td></tr>
+<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>οὐκ<br>Οὐκ<br>Ūc<br>not</td><td>ἀκούω<br>ἀκούεις<br>acǔeis<br>you hear</td><td>νῦν<br>νῦν<br>nŷn<br>now</td><td>αὐτός<br>αὐτοῦ<br>autû<br>his</td><td>ὁ<br>τοὺς<br>tū̀s<br>the</td><td>οἰκτρός<br>οἰκτροὺς<br>oectrū̀s<br>pitiable</td><td>θρῆνος<br>θρήνους<br>thrěnūs<br>lamentations</td></tr>
 </table>
 
 107 „ Οὐχ ὁρᾷς αὐτὸν μαχόμενον θανάτῳ  
@@ -963,7 +963,7 @@
 121 What, therefore? Why, why are you staying?
 
 <table>
-<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>τί<br>Τί<br>Tí<br>what</td><td>ὁ<br>τὸ<br>tò<br>the</td><td>λοιπόν<br>λοιπόν<br>loepón<br>therefore</td><td>διά<br>διὰ<br>dià<br>why</td><td>τί<br>τί<br>tí<br>what</td><td>διά<br>διὰ<br>dià<br>why</td><td>τί<br>τί<br>tí<br>what</td><td>μένω<br>μένεις<br>méneis<br>are you staying?</td></tr>
+<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>τί<br>Τί<br>Tí<br>what</td><td>ὁ<br>τὸ<br>tò<br>the</td><td>λοιπόν<br>λοιπόν<br>loepón<br>therefore</td><td>διά<br>διὰ<br>dià<br>why</td><td>τί<br>τί<br>tí<br>what</td><td>διά<br>διὰ<br>dià<br>why</td><td>τί<br>τί<br>tí<br>what</td><td>μένω<br>μένεις<br>méneis<br>you stay</td></tr>
 </table>
 
 122 „ Πῶς εἶ τοσοῦτον ἄνανδρος τὴν καρδίαν;  
@@ -971,7 +971,7 @@
 122 How are you so unmanly in your heart?
 
 <table>
-<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>πῶς<br>Πῶς<br>Pôs<br>how</td><td>εἰμί<br>εἶ<br>éì<br>are you</td><td>τοσοῦτος<br>τοσοῦτον<br>tosûton<br>so much</td><td>ἄνανδρος<br>ἄνανδρος<br>ánandros<br>unmanly</td><td>ὁ<br>τὴν<br>tḕn<br>the</td><td>καρδία<br>καρδίαν<br>cardían<br>heart</td></tr>
+<tr><td>Lemma:<br>Greek:<br>Transliteration:<br>Meaning:</td><td>πῶς<br>Πῶς<br>Pôs<br>how</td><td>εἰμί<br>εἶ<br>éì<br>you are</td><td>τοσοῦτος<br>τοσοῦτον<br>tosûton<br>so much</td><td>ἄνανδρος<br>ἄνανδρος<br>ánandros<br>unmanly</td><td>ὁ<br>τὴν<br>tḕn<br>the</td><td>καρδία<br>καρδίαν<br>cardían<br>heart</td></tr>
 </table>
 
 123 „ Πῶς οὔτε τόλμην οὔτε θρασύτητ' ἔχεις,  
