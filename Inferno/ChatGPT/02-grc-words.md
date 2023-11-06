@@ -1,4 +1,5 @@
 1 Ἡ μὲν ἡμέρα παρήρχετο, καὶ πάντα  
+1 Hē mèn hēméra parěrcheto, caè pánta  
 1 The day passed away, and all
 
 <table>
@@ -6,6 +7,7 @@
 </table>
 
 2 Ὁ μελανώδης ἀὴρ τἀπὶ γῆς ζῶντα  
+2 Ho melanǒdēs aḕr ta'pì gês zônta  
 2 The dark air the living on the earth
 
 <table>
@@ -13,6 +15,7 @@
 </table>
 
 3 Τῶν πόνων ἀπήλαυνεν· ἐγὼ δὲ μόνος  
+3 Tôn pónōn apělaunen; egṑ dè mónos  
 3 Drove away of the labors; but I alone
 
 <table>
@@ -20,6 +23,7 @@
 </table>
 
 4 Ἡτοιμαζόμην ὑποστῆναι τὸ βάρος  
+4 Hētoemazómēn hypostênae tò báros  
 4 I was preparing to bear the burden
 
 <table>
@@ -27,6 +31,7 @@
 </table>
 
 5 Τῆς τε πορείας καὶ τοῦ ψυχικοῦ πάθους,  
+5 Tês te poreías caè tû psychicû páthūs,  
 5 Of the journey and the psychological passion,
 
 <table>
@@ -34,6 +39,7 @@
 </table>
 
 6 Ὅ νῦν ἡ πιστὴ μνήμη μου περιγράψει.  
+6 Hó nŷn hē pistḕ mněmē mū perigrápsei.  
 6 Who now, my faithful memory will describe.
 
 <table>
@@ -41,6 +47,7 @@
 </table>
 
 7 Ὦ Μοῦσαι, πνεῦμα θεῖον, νῦν βοηθεῖτε·  
+7 Ô Mûsae, pnéùma théìon, nŷn boēthéìte;  
 7 O Muses, divine spirit, now help;
 
 <table>
@@ -48,6 +55,7 @@
 </table>
 
 8 Ὦ μνήμη τ', ἐν ᾗ γέγραπται πάνθ' ὅσ' εἶδον,  
+8 Ô mněmē t', en hệ gégraptae pánth' hós' éìdon,  
 8 O memory, in which all that I saw is written,
 
 <table>
@@ -55,6 +63,7 @@
 </table>
 
 9 Νῦν ἡ σὴ φανήσεται σεμνηγορία.  
+9 Nŷn hē sḕ phaněsetae semnēgoría.  
 9 Now your solemn oratory will appear.
 
 <table>
@@ -62,6 +71,7 @@
 </table>
 
 10 “Ὁδηγέ μου ποιητά,” λέγειν ἠρξάμην,  
+10 “Hodēgé mū poeētá,” légein ērxámēn,  
 10 "Guide my poet," I began to say,
 
 <table>
@@ -69,6 +79,7 @@
 </table>
 
 11 “Ἴδε μου τὴν ἀξίαν εἴποτ' ἀντέχει,  
+11 “Íde mū tḕn axían eípot' antéchei,  
 11 "Look at my worthy tell at once,
 
 <table>
@@ -76,6 +87,7 @@
 </table>
 
 12 „ Πρὶν εἰς τὴν δεινὴν προχωρήσω πορείαν.  
+12 „ Prìn eis tḕn deinḕn prochōrěsō poreían.  
 12 Before I advance into the terrible journey.
 
 <table>
@@ -83,6 +95,7 @@
 </table>
 
 13 „ Σὺ λέγεις ἐλθεῖν τὸν τοῦ Σιλβίου πάππον,  
+13 „ Sỳ légeis elthéìn tòn tû Silbíū páppon,  
 13 You say to come the grandfather of Silvius,
 
 <table>
@@ -90,6 +103,7 @@
 </table>
 
 14 „ Ἔτ' ὄντα θνητόν, εἰς τὴν τῶν ἀθανάτων  
+14 „ Ét' ónta thnētón, eis tḕn tôn athanátōn  
 14 Still being mortal, into the land of the immortals,
 
 <table>
@@ -97,6 +111,7 @@
 </table>
 
 15 „ Χώραν ἔχοντα ζῶντος ἀνδρὸς αἰσθήσεις.  
+15 „ Chǒran échonta zôntos andròs aesthěseis.  
 15 Having the perceptions of a living man.
 
 <table>
@@ -104,6 +119,7 @@
 </table>
 
 16 „ Ἀλλ' εἴπερ ὁ κακίας ἐχθρὸς ἁπάσης  
+16 „ All' eíper ho cacías echthròs hapásēs  
 16 But if indeed the enemy of all evil
 
 <table>
@@ -111,6 +127,7 @@
 </table>
 
 17 „ Εὔνους ἦν αὐτῷ, φρονῶν καλὰ μεγάλα  
+17 „ Eúnūs ên autộ, phronôn calà megála  
 17 was to him goodwill, thinking noble and great,
 
 <table>
@@ -118,6 +135,7 @@
 </table>
 
 18 „ Ἐκβησόμεν' ἐξ αὐτοῦ, ποίου καὶ ποῖα,  
+18 „ Ecbēsómen' ex autû, poéū caè póèa,  
 18 departing from him, what kind and what kind
 
 <table>
@@ -125,6 +143,7 @@
 </table>
 
 19 „ Οὐ δοκεῖ τοῦτ' ἀπρεπὲς ἀνδρὶ φρονίμῳ.  
+19 „ Ū docéì tût' aprepès andrì phronímọ̄.  
 19 It does not seem unbecoming to a wise man this,
 
 <table>
@@ -132,6 +151,7 @@
 </table>
 
 20 „ Αὐτὸς γὰρ Ῥώμης τῆς σεμνῆς καὶ τοῦ Κράτους  
+20 „ Autòs gàr Rhǒmēs tês semnês caè tû Crátūs  
 20 For he himself was chosen father of revered Rome and Power
 
 <table>
@@ -139,6 +159,7 @@
 </table>
 
 21 „ ᾙρέθη πατὴρ ἐν Οὐρανῶν αἰθέρι·  
+21 „ Hẹréthē patḕr en Ūranôn aethéri;  
 21 in the heavens in the sky.
 
 <table>
@@ -146,6 +167,7 @@
 </table>
 
 22 „ Ῥώμη δὲ καὶ τὸ Κράτος, ἵν' ὀρθῶς εἴπω,  
+22 „ Rhǒmē dè caè tò Crátos, hín' orthôs eípō,  
 22 Rome and Power, so that I may say rightly,
 
 <table>
@@ -153,6 +175,7 @@
 </table>
 
 23 „ Προωρίσθησαν ὡς ἱερός τις τόπος,  
+23 „ Proōrísthēsan hōs hierós tis tópos,  
 23 were ordained as a certain sacred place,
 
 <table>
@@ -160,6 +183,7 @@
 </table>
 
 24 „ Ενθ' ὁ τοῦ Πέτρου διάδοχος ἐδρεύει.  
+24 „ Enth' ho tû Pétrū diádochos edreúei.  
 24 where the successor of Peter resides.
 
 <table>
@@ -167,6 +191,7 @@
 </table>
 
 25 „ Ἐκ τῆς πορείας, ἣν ἐξύμνησας, ταύτης  
+25 „ Ec tês poreías, hḕn exýmnēsas, taútēs  
 25 From the journey, which you praised, this
 
 <table>
@@ -174,6 +199,7 @@
 </table>
 
 26 „ Προκατέμαθεν ὅσ' ὑπῆρξεν αἰτία  
+26 „ Procatémathen hós' hypêrxen aetía  
 26 was displayed, whatever was the cause
 
 <table>
@@ -181,6 +207,7 @@
 </table>
 
 27 „ Τῆς νίκης αὑτοῦ καὶ τῆς Παπικῆς χλαίνης.  
+27 „ Tês nícēs hautû caè tês Papicês chlaénēs.  
 27 of his own victory and the Papal pallium.
 
 <table>
@@ -188,6 +215,7 @@
 </table>
 
 28 „ Ἦλθεν εἶτ' ἐκεῖ τῆς Ἐκλογῆς τὸ σκεῦος,  
+28 „ Êlthen éìt' ecéì tês Eclogês tò scéùos,  
 28 He came then from the election, the vessel,
 
 <table>
@@ -195,6 +223,7 @@
 </table>
 
 29 „ Ὅπως ἐνδυναμώσῃ τὴν πίστιν κείνην,  
+29 „ Hópōs endynamǒsẹ̄ tḕn pístin ceínēn,  
 29 so that he may strengthen that faith,
 
 <table>
@@ -202,6 +231,7 @@
 </table>
 
 30 „ Ἥτις ἔστ' ἀρχὴ τῆς σωτηρίου τρίβου.  
+30 „ Hětis ést' archḕ tês sōtēríū tríbū.  
 30 which is the beginning of the path to salvation.
 
 <table>
@@ -209,6 +239,7 @@
 </table>
 
 31 „ Ἀλλ' ἐγὼ πῶς ὑπάγω; τίς τ' ἐπιτρέπει;  
+31 „ All' egṑ pôs hypágō? tís t' epitrépei?  
 31 But how do I go? Who allows?
 
 <table>
@@ -216,6 +247,7 @@
 </table>
 
 32 „ Οὔκ εἰμι γὰρ Αἰνείας, οὐδέ γε Παῦλος·  
+32 „ Ǔc eimi gàr Aeneías, ūdé ge Páùlos;  
 32 For I am neither Aeneas nor Paul;
 
 <table>
@@ -223,6 +255,7 @@
 </table>
 
 33 „ Οὔτ' ἄλλος ἔμ' ἄξιον, οὔτ' ἐγὼ κρίνω.  
+33 „ Ǔt' állos ém' áxion, ǔt' egṑ crínō.  
 33 Neither another deems me worthy, nor do I judge.
 
 <table>
@@ -230,6 +263,7 @@
 </table>
 
 34 „ Ἐὰν οὖν ἐλθεῖν ἐγὼ συγκατανεύσω,  
+34 „ Eàn ûn elthéìn egṑ syncataneúsō,  
 34 If, therefore, I nod in agreement to come,
 
 <table>
@@ -237,6 +271,7 @@
 </table>
 
 35 „ Φοβοῦμαι μήπως μωρὸν ἔργον τολμήσω.  
+35 „ Phobûmae měpōs mōròn érgon tolměsō.  
 35 I fear lest I dare a foolish deed.
 
 <table>
@@ -244,6 +279,7 @@
 </table>
 
 36 „ Σοφὸς εἶ καὶ διορᾷς, εἰ καλῶς λέγω.”  
+36 „ Sophòs éì caè diorậs, ei calôs légō.”  
 36 You are wise and observe, if I speak well.
 
 <table>
@@ -251,6 +287,7 @@
 </table>
 
 37 Ὡς δ' εἴ τις ὅπερ ἤθελ' οὐκέτι θέλει,  
+37 Hōs d' eí tis hóper ěthel' ūcéti thélei,  
 37 Just as if someone who no longer wants what he wished,
 
 <table>
@@ -258,6 +295,7 @@
 </table>
 
 38 Καὶ διὰ νέους σκοποὺς ἀλλάσσων φρένα  
+38 Caè dià néūs scopū̀s allássōn phréna  
 38 and changing his mind through new aims,
 
 <table>
@@ -265,6 +303,7 @@
 </table>
 
 39 Τὴν πρᾶξιν, ἧς ἤρξατο, καταλιμπάνει,  
+39 Tḕn prâxin, hês ěrxato, catalimpánei,  
 39 he abandons the action he began.
 
 <table>
@@ -272,6 +311,7 @@
 </table>
 
 40 Τοιοῦτος ἤμην ἐν τῇ ζοφώδει ῥάχει·  
+40 Toeûtos ěmēn en tệ zophǒdei rháchei;  
 40 I was such on the gloomy cliff;
 
 <table>
@@ -279,6 +319,7 @@
 </table>
 
 41 Σκεφθεὶς γὰρ ἀπετράπην οὗπερ ἠρξάμην  
+41 Scephtheìs gàr apetrápēn hûper ērxámēn  
 41 For, reflecting, I turned away from what I began
 
 <table>
@@ -286,6 +327,7 @@
 </table>
 
 42 Ἐγχειρήματος τοσαύτῃ προθυμίᾳ.  
+42 Encheirěmatos tosaútẹ̄ prothymíạ̄.  
 42 of an undertaking with so much eagerness.
 
 <table>
@@ -293,6 +335,7 @@
 </table>
 
 43 “Εἰ καλῶς ἔγνων τὰ παρὰ σοῦ ῥηθέντα,”  
+43 “Ei calôs égnōn tà parà sû rhēthénta,”  
 43 "If I understood rightly what was spoken by you,"
 
 <table>
@@ -300,6 +343,7 @@
 </table>
 
 44 Ἀπήντησεν ἡ σκιὰ τοῦ μεγαθύμου,  
+44 Apěntēsen hē scià tû megathýmū,  
 44 the shadow of the great-hearted answered,
 
 <table>
@@ -307,6 +351,7 @@
 </table>
 
 45 “Τὴν σὴν ἀπηχρείωσε ψυχὴν ὁ φόβος,  
+45 “Tḕn sḕn apēchreíōse psychḕn ho phóbos,  
 45 "fear deprived your soul.
 
 <table>
@@ -314,6 +359,7 @@
 </table>
 
 46 „ Ὃς τὸν ἄνθρωπον συχνῶς οὕτω πιέζει,  
+46 „ Hòs tòn ánthrōpon sychnôs hǔtō piézei,  
 46 Who often oppresses man in such a way,
 
 <table>
@@ -321,6 +367,7 @@
 </table>
 
 47 „ Ὥστ' ἀποτρέπει παντὸς εὐγενοῦς ἔργου,  
+47 „ Hǒst' apotrépei pantòs eugenûs érgū,  
 47 so that he turns away from every noble deed,
 
 <table>
@@ -328,6 +375,7 @@
 </table>
 
 48 „ Ὡς ἵππον θέα ψευδὴς ἀφηνιάζει.  
+48 „ Hōs híppon théa pseudḕs aphēniázei.  
 48 as a false sight wearies the horse.
 
 <table>
@@ -335,6 +383,7 @@
 </table>
 
 49 „ Πρὸς ἀπαλλαγὴν τοῦ τοσούτου σου φόβου  
+49 „ Pròs apallagḕn tû tosǔtū sū phóbū  
 49 For relief from your fear,
 
 <table>
@@ -342,6 +391,7 @@
 </table>
 
 50 „ Ἐρῶ σοι, πόθεν καὶ τί μαθὼν ὧδ' ἦλθον,  
+50 „ Erô soe, póthen caè tí mathṑn hôd' êlthon,  
 50 I’ll tell you, why I came and what I’ve learned in this way,
 
 <table>
@@ -349,6 +399,7 @@
 </table>
 
 51 „ Ὅτ' ἐπὶ τοῖς σοῖς πρῶτον ἠχθέσθην πόνοις.  
+51 „ Hót' epì tóès sóès prôton ēchthésthēn pónoes.  
 51 when I was first burdened by labors upon your [sufferings].
 
 <table>
@@ -356,6 +407,7 @@
 </table>
 
 52 „ Ὄντα μεταξὺ τῶν ὧδε μετεώρων,  
+52 „ Ónta metaxỳ tôn hôde meteǒrōn,  
 52 Being among these celestial beings,
 
 <table>
@@ -363,6 +415,7 @@
 </table>
 
 53 „ Καλεῖ με γυνὴ καλὴ καὶ μακαρία,  
+53 „ Caléì me gynḕ calḕ caè macaría,  
 53 a beautiful and blessed woman calls me,
 
 <table>
@@ -370,6 +423,7 @@
 </table>
 
 54 „ Ἧς τὰς προσταγὰς προθύμως ᾐτησάμην.  
+54 „ Hês tàs prostagàs prothýmōs ẹ̄tēsámēn.  
 54 of whom I eagerly asked for her commands.
 
 <table>
@@ -377,6 +431,7 @@
 </table>
 
 55 „ Ὄμμασιν ἄστρων πλέον ἀκτινοβόλοις  
+55 „ Ómmasin ástrōn pléon actinobóloes  
 55 With eyes more radiating than the stars,
 
 <table>
@@ -384,6 +439,7 @@
 </table>
 
 56 „ Ἤρξατο λέγειν προσηνὴς καὶ γλυκεῖα,  
+56 „ Ěrxato légein prosēnḕs caè glycéìa,  
 56 she began to speak kindly and sweetly,
 
 <table>
@@ -391,6 +447,7 @@
 </table>
 
 57 „ Ἀγγελικῇ τῇ φωνῇ προσφθεγγομένη.”—  
+57 „ Angelicệ tệ phōnệ prosphthengoménē.”—  
 57 addressing me with an angelic voice.”—
 
 <table>
@@ -398,6 +455,7 @@
 </table>
 
 58 —“Ὦ κεχαριτωμένη ψυχὴ Μαντύας,  
+58 —“Ô cecharitōménē psychḕ Mantýas,  
 58 —"O favored soul of Mantua,
 
 <table>
@@ -405,6 +463,7 @@
 </table>
 
 59 „ Ἧς ἔτ' ἐν τῇ γῇ διατελεῖ τὸ κλέος,  
+59 „ Hês ét' en tệ gệ diateléì tò cléos,  
 59 of which glory still endures on the land,
 
 <table>
@@ -412,6 +471,7 @@
 </table>
 
 60 „ Διαμενεῖ τ' ἐφ' ὅσον τὸ πᾶν κινεῖται·  
+60 „ Diamenéì t' eph' hóson tò pân cinéìtae;  
 60 and will remain as long as everything is in motion.
 
 <table>
@@ -419,6 +479,7 @@
 </table>
 
 61 „ Φίλος τις ἐμός, ἀλλ' οὐ φίλος τῆς τύχης,  
+61 „ Phílos tis emós, all' ū phílos tês týchēs,  
 61 A certain friend of mine, but not a friend of fortune,
 
 <table>
@@ -426,6 +487,7 @@
 </table>
 
 62 „ Οὕτω κωλύετ' ἐν τοῖς ἐρήμοις τόποις  
+62 „ Hǔtō cōlýet' en tóès erěmoes tópoes  
 62 is hindered in such a way in deserted places
 
 <table>
@@ -433,6 +495,7 @@
 </table>
 
 63 „ Καθ' ὁδόν, ὥστ' ἐκ φόβου τρέπετ' ὀπίσω·  
+63 „ Cath' hodón, hǒst' ec phóbū trépet' opísō;  
 63 by the road so that he turns backward from fear.
 
 <table>
@@ -440,6 +503,7 @@
 </table>
 
 64 „ Καὶ δέος μήπως ἤδη παρεπλανήθη,  
+64 „ Caè déos měpōs ědē pareplaněthē,  
 64 And fearing lest he was already led astray,
 
 <table>
@@ -447,6 +511,7 @@
 </table>
 
 65 „ Κἀγὼ πρὸς ἐπαρωγὴν ἦλθον βραδέως,  
+65 „ Ca'gṑ pròs eparōgḕn êlthon bradéōs,  
 65 and I came slowly towards incitement,
 
 <table>
@@ -454,6 +519,7 @@
 </table>
 
 66 „ Ὡς ἐν οὐρανοῖς ἤκουσα περὶ τούτου.  
+66 „ Hōs en ūranóès ěcūsa perì tǔtū.  
 66 as I heard in the heavens about this.
 
 <table>
@@ -461,6 +527,7 @@
 </table>
 
 67 „ Ἄγε δὴ κινήθητι, σαῖς τ' εὐεπείαις  
+67 „ Áge dḕ ciněthēti, sáès t' euepeíaes  
 67 Come now, take action with your favorable conditions
 
 <table>
@@ -468,6 +535,7 @@
 </table>
 
 68 „ Καὶ πᾶσι τρόποις, οἷς δύναται σωθῆναι,  
+68 „ Caè pâsi trópoes, hóès dýnatae sōthênae,  
 68 in all ways by which you can be saved.
 
 <table>
@@ -475,6 +543,7 @@
 </table>
 
 69 „ Αὐτῷ βοήθει, κἀμοὶ συνεργὸς γίνου.  
+69 „ Autộ boěthei, ca'moè synergòs gínū.  
 69 Help yourself, and become a collaborator to me.
 
 <table>
@@ -482,6 +551,7 @@
 </table>
 
 70 „ Εἰμὶ Βεάτριξ, ἐγώ τε σ' ἀποστέλλω·  
+70 „ Eimì Beátrix, egǒ te s' apostéllō;  
 70 I am Beatrix, and I send you:
 
 <table>
@@ -489,6 +559,7 @@
 </table>
 
 71 „ Ἔρχομ' ἔνθεν μοι ποθητὸν ἐπιστρέψαι.  
+71 „ Érchom' énthen moe pothētòn epistrépsae.  
 71 I come from here to return what is longed for to me.
 
 <table>
@@ -496,6 +567,7 @@
 </table>
 
 72 „ Φίλτρον ἐκίνησέ με, λόγους τ' ἐμπνέει.  
+72 „ Phíltron ecínēsé me, lógūs t' empnéei.  
 72 A love potion moved me and inspires words.
 
 <table>
@@ -503,6 +575,7 @@
 </table>
 
 73 „ Ὅτ' ἔσομ' ἐνώπιον τοὐμοῦ Κυρίου,  
+73 „ Hót' ésom' enǒpion tū'mû Cyríū,  
 73 When I will be in the presence of my Lord,
 
 <table>
@@ -510,6 +583,7 @@
 </table>
 
 74 „ Αὐτῷ συχνάκις περὶ σοῦ καλῶς λέξω.”—  
+74 „ Autộ sychnácis perì sû calôs léxō.”—  
 74 I will often speak well about you to Him."—
 
 <table>
@@ -517,6 +591,7 @@
 </table>
 
 75 — “Ἡ μὲν ἐσιώπησεν, ἐγὼ δ' ἠρξάμην.”  
+75 — “Hē mèn esiǒpēsen, egṑ d' ērxámēn.”  
 75 — "She indeed was silent, but I began."
 
 <table>
@@ -524,6 +599,7 @@
 </table>
 
 76 “Ὦ δέσποινα, κάτοχε τοῦ μόνου δώρου,  
+76 “Ô déspoena, cátoche tû mónū dǒrū,  
 76 "O lady, possessor of the only gift,
 
 <table>
@@ -531,6 +607,7 @@
 </table>
 
 77 „ Δι' οὗπερ τἀνθρώπινον ἐξέχει γένος  
+77 „ Di' hûper ta'nthrǒpinon exéchei génos  
 77 through which the human race pours forth,
 
 <table>
@@ -538,6 +615,7 @@
 </table>
 
 78 „ Πάντων τῶν ἐν οὐρανῷ τῷ μειοτρόχῳ·  
+78 „ Pántōn tôn en ūranộ tộ meiotróchọ̄;  
 78 the race of all in the lesser heaven.
 
 <table>
@@ -545,6 +623,7 @@
 </table>
 
 79 „ Οὕτως εὐάρεστόν μοι τὸ πρόσταγμά σου,  
+79 „ Hǔtōs euárestón moe tò próstagmá sū,  
 79 In this way, your command is pleasing to me,
 
 <table>
@@ -552,6 +631,7 @@
 </table>
 
 80 „ Ὥστ' ἀμέσως ὑπείκων δοκῶ βραδύνειν.  
+80 „ Hǒst' amésōs hypeícōn docô bradýnein.  
 80 so that immediately, yielding, I seem to be slow.
 
 <table>
@@ -559,6 +639,7 @@
 </table>
 
 81 „ Οὐ χρῄζεις πέρα φράζειν τὰς σὰς ἐφέσεις·  
+81 „ Ū chrẹ̌zeis péra phrázein tàs sàs ephéseis;  
 81 You do not need to explain your commands.
 
 <table>
@@ -566,6 +647,7 @@
 </table>
 
 82 „ Ἀλλὰ λέγε μοι, πῶς κατέβης ἐνταῦθα  
+82 „ Allà lége moe, pôs catébēs entáùtha  
 82 But tell me, how did you descend here,
 
 <table>
@@ -573,6 +655,7 @@
 </table>
 
 83 „ Ἐν τῷ χαμηλῷ τούτῳ κέντρῳ, λιποῦσα  
+83 „ En tộ chamēlộ tǔtọ̄ céntrọ̄, lipûsa  
 83 in this humble center, having left
 
 <table>
@@ -580,6 +663,7 @@
 </table>
 
 84 „ Τὸν εὐρὺν χῶρον, ἔνθ' ἐπανελθεῖν θέλεις.”—  
+84 „ Tòn eurỳn chôron, énth' epanelthéìn théleis.”—  
 84 the wide space, where you want to return?”—
 
 <table>
@@ -587,6 +671,7 @@
 </table>
 
 85 — “Ἐπεὶ τὰ πάντ' εἰς βάθος εἰδέναι βούλει,  
+85 — “Epeì tà pánt' eis báthos eidénae bǔlei,  
 85 —"Since you want to know everything in depth,
 
 <table>
@@ -594,6 +679,7 @@
 </table>
 
 86 „ Ἐρῶ σοι βραχυεπῶς,” εἶπεν ἐκείνη,  
+86 „ Erô soe brachyepôs,” éìpen eceínē,  
 86 I will speak to you briefly," she said,
 
 <table>
@@ -601,6 +687,7 @@
 </table>
 
 87 “Ὡς οὐκ ἐνθάδε δειλιῶ καταβῆναι.  
+87 “Hōs ūc entháde deiliô catabênae.  
 87 "So that I don't hesitate to descend here.
 
 <table>
@@ -608,6 +695,7 @@
 </table>
 
 88 „ Ἐκεῖνα μόνα πᾶς ὀφείλει φοβεῖσθαι,  
+88 „ Ecéìna móna pâs opheílei phobéìsthae,  
 88 Everyone should fear only those things
 
 <table>
@@ -615,6 +703,7 @@
 </table>
 
 89 „ Ἅπερ δύναται προξενεῖν αὐτῷ βλάβην·  
+89 „ Háper dýnatae proxenéìn autộ blábēn;  
 89 which can cause harm to oneself.
 
 <table>
@@ -622,6 +711,7 @@
 </table>
 
 90 „ Οὐχὶ δὲ τἆλλα· ταῦτ' οὐ γὰρ φοβητέα.  
+90 „ Ūchì dè tâ'lla; táùt' ū gàr phobētéa.  
 90 But the other things: these are not to be feared.
 
 <table>
@@ -629,6 +719,7 @@
 </table>
 
 91 „ Τοιάδ' ἐγὼ χάριτι κατέστην θείᾳ,  
+91 „ Toeád' egṑ cháriti catéstēn theíạ̄,  
 91 I have become like this by divine grace,
 
 <table>
@@ -636,6 +727,7 @@
 </table>
 
 92 „ Ὥστ' ἡ τληπάθει' ὑμῶν οὐδέν με βλάπτει,  
+92 „ Hǒst' hē tlēpáthei' hymôn ūdén me bláptei,  
 92 so that the suffering of you does not harm me,
 
 <table>
@@ -643,6 +735,7 @@
 </table>
 
 93 „ Οὔτε φλὸξ τούτου τοῦ πυρὸς ἅπτεταί μου.  
+93 „ Ǔte phlòx tǔtū tû pyròs háptetaé mū.  
 93 neither does the flame of this fire touch me.
 
 <table>
@@ -650,6 +743,7 @@
 </table>
 
 94 „ Ἐν Οὐρανοῖς εὐμενής ἐστι Κυρία,  
+94 „ En Ūranóès eumeněs esti Cyría,  
 94 In the heavens, the Lady is favorable,
 
 <table>
@@ -657,6 +751,7 @@
 </table>
 
 95 „ Οἰκτείρουσα τὸν ἄνδρα, πρὸς ὅν σε στέλλω,  
+95 „ Oecteírūsa tòn ándra, pròs hón se stéllō,  
 95 having compassion for the man to whom I send you,
 
 <table>
@@ -664,6 +759,7 @@
 </table>
 
 96 „ Ὡς τὰς στυγερὰς ἄνω κάμπτουσα κρίσεις.  
+96 „ Hōs tàs stygeràs ánō cámptūsa críseis.  
 96 so that you may bend the hateful judgments above.
 
 <table>
@@ -671,6 +767,7 @@
 </table>
 
 97 „ Αὕτη Λουκίαν μετακαλεσαμένη,  
+97 „ Haútē Lūcían metacalesaménē,  
 97 She, having summoned Lucius,
 
 <table>
@@ -678,6 +775,7 @@
 </table>
 
 98 „ Εἶπε· ‘“Νῦν ὁ σὸς πιστὸς σοῦ χρείαν ἔχει·  
+98 „ Éìpe; ‘“Nŷn ho sòs pistòs sû chreían échei;  
 98 said, 'Now, your faithful one needs Him;
 
 <table>
@@ -685,6 +783,7 @@
 </table>
 
 99 „ Αὐτὸν ἐνθέρμως κἀγὼ συνίστημί σοι.”’  
+99 „ Autòn enthérmōs ca'gṑ synístēmí soe.”’  
 99 I fervently present Him to you.'"
 
 <table>
@@ -692,6 +791,7 @@
 </table>
 
 100 “Λουκία πάντων ἐχθρὰ σκληροκαρδίων  
+100 “Lūcía pántōn echthrà sclērocardíōn  
 100 "Lucius, the enemy of all hard-hearted,
 
 <table>
@@ -699,6 +799,7 @@
 </table>
 
 101 „ Εὐθὺς ἀνέστη, κ' εἰς τόπον ἦλθεν ὅπου  
+101 „ Euthỳs anéstē, c' eis tópon êlthen hópū  
 101 immediately arose and came to the place where
 
 <table>
@@ -706,6 +807,7 @@
 </table>
 
 102 „ Μετὰ τῆς Ῥαχὴλ καθήμην τῆς ἀρχαίας·  
+102 „ Metà tês Rhachḕl cathěmēn tês archaéas;  
 102 I sat with Rachel, the ancient one.
 
 <table>
@@ -713,6 +815,7 @@
 </table>
 
 103 „ Εἶπε· ‘“Βεάτριξ, ἀληθὴς θεῖος αἶνος,  
+103 „ Éìpe; ‘“Beátrix, alēthḕs théìos áènos,  
 103 He said, '”Beatrice, true divine praise,
 
 <table>
@@ -720,6 +823,7 @@
 </table>
 
 104 „ Πῶς οὐ βοηθεῖς τῷ σε πεφιληκότι,  
+104 „ Pôs ū boēthéìs tộ se pephilēcóti,  
 104 how do you not help the one who has loved you,
 
 <table>
@@ -727,6 +831,7 @@
 </table>
 
 105 „ Διὰ σέ τ' ἐξελθόντι τοῦ χύδην ὄχλου;  
+105 „ Dià sé t' exelthónti tû chýdēn óchlū?  
 105 and through you, having gone out of the crowd?
 
 <table>
@@ -734,6 +839,7 @@
 </table>
 
 106 „ Οὐκ ἀκούεις νῦν αὐτοῦ τοὺς οἰκτροὺς θρήνους;  
+106 „ Ūc acǔeis nŷn autû tū̀s oectrū̀s thrěnūs?  
 106 Do not you hear now his pitiful lamentations?
 
 <table>
@@ -741,6 +847,7 @@
 </table>
 
 107 „ Οὐχ ὁρᾷς αὐτὸν μαχόμενον θανάτῳ  
+107 „ Ūch horậs autòn machómenon thanátọ̄  
 107 Do you not see him fighting with death
 
 <table>
@@ -748,6 +855,7 @@
 </table>
 
 108 „ Ἐπὶ ποταμοῦ θαλάσσης δεινοτέρου;”’  
+108 „ Epì potamû thalássēs deinotérū?”’  
 108 on a river more terrible than the sea?”’
 
 <table>
@@ -755,6 +863,7 @@
 </table>
 
 109 “Οὐδείς ποτ' ἐν τῷ κόσμῳ θηρεύων κέρδος,  
+109 “Ūdeís pot' en tộ cósmọ̄ thēreúōn cérdos,  
 109 "No one ever within the world, hunting for gain,
 
 <table>
@@ -762,6 +871,7 @@
 </table>
 
 110 „ Ἢ βλάβην ἀποφεύγων, ἔδραμε τόσον,  
+110 „ Ḕ blábēn apopheúgōn, édrame tóson,  
 110 Or avoiding harm, ran so much,
 
 <table>
@@ -769,6 +879,7 @@
 </table>
 
 111 „ Ὁπόσον ὅτ' ἤκουσα τοιούτους λόγους.  
+111 „ Hopóson hót' ěcūsa toeǔtūs lógūs.  
 111 As much as when I heard such words.
 
 <table>
@@ -776,6 +887,7 @@
 </table>
 
 112 „ Ὧδε κατέβην ἐκ τῆς μακάρων ἕδρας,  
+112 „ Hôde catébēn ec tês macárōn hédras,  
 112 Here I came down from the blessed seat,
 
 <table>
@@ -783,6 +895,7 @@
 </table>
 
 113 „ Ἔχουσα πίστιν εἰς τὸ σὸν καλῶς λέγειν,  
+113 „ Échūsa pístin eis tò sòn calôs légein,  
 113 Having faith in speaking well of yours,
 
 <table>
@@ -790,6 +903,7 @@
 </table>
 
 114 „ Ὅπερ τιμᾷ σε καὶ τοὺς ἀκούσαντάς σου.”—  
+114 „ Hóper timậ se caè tū̀s acǔsantás sū.”—  
 114 Which honors you and those who heard you.”—
 
 <table>
@@ -797,6 +911,7 @@
 </table>
 
 115 —“Εἰποῦσα ταῦτα, τοὺς ὀφθαλμοὺς δακρύοις  
+115 —“Eipûsa táùta, tū̀s ophthalmū̀s dacrýoes  
 115 —”Having said these, with tears in her eyes,
 
 <table>
@@ -804,6 +919,7 @@
 </table>
 
 116 „ Πρός με λάμποντας προσέτρεψε, καὶ τοῦτο  
+116 „ Prós me lámpontas prosétrepse, caè tûto  
 116 Turned towards me shining, and this,
 
 <table>
@@ -811,6 +927,7 @@
 </table>
 
 117 „ Ἐπετάχυνεν ἐμὴν ἄφιξιν ὧδε.  
+117 „ Epetáchynen emḕn áphixin hôde.  
 117 Hastened my arrival here.
 
 <table>
@@ -818,6 +935,7 @@
 </table>
 
 118 „ Παρὰ σὲ δ' ἐλθών, ὡς προὔτρεψεν ἐκείνη,  
+118 „ Parà sè d' elthǒn, hōs prǔ'trepsen eceínē,  
 118 Having come from you, as she turned,
 
 <table>
@@ -825,6 +943,7 @@
 </table>
 
 119 „ Ἔσωσά σε τῆς θηρός, ἥτις τὴν ὄρους  
+119 „ Ésōsá se tês thērós, hětis tḕn órūs  
 119 I saved you from the beast, which the mountain,
 
 <table>
@@ -832,6 +951,7 @@
 </table>
 
 120 „ Τοῦ καλοῦ προσέλευσιν ἐκώλυέ σοι.  
+120 „ Tû calû proséleusin ecǒlyé soe.  
 120 Prevented the beautiful approach to you.
 
 <table>
@@ -839,6 +959,7 @@
 </table>
 
 121 „ Τί τὸ λοιπόν; διὰ τί, διὰ τί μένεις;  
+121 „ Tí tò loepón? dià tí, dià tí méneis?  
 121 What, therefore? Why, why are you staying?
 
 <table>
@@ -846,6 +967,7 @@
 </table>
 
 122 „ Πῶς εἶ τοσοῦτον ἄνανδρος τὴν καρδίαν;  
+122 „ Pôs éì tosûton ánandros tḕn cardían?  
 122 How are you so unmanly in your heart?
 
 <table>
@@ -853,6 +975,7 @@
 </table>
 
 123 „ Πῶς οὔτε τόλμην οὔτε θρασύτητ' ἔχεις,  
+123 „ Pôs ǔte tólmēn ǔte thrasýtēt' écheis,  
 123 How do you neither have courage nor boldness?
 
 <table>
@@ -860,6 +983,7 @@
 </table>
 
 124 „ Ἐν ᾧ τοιαῦται τρεῖς μάκαιραι Κυρίαι  
+124 „ En hộ toeáùtae tréìs mácaerae Cyríae  
 124 In which such three blessed Ladies
 
 <table>
@@ -867,6 +991,7 @@
 </table>
 
 125 „ Ἐν τοῖς οὐρανοῖς ὑπὲρ σοῦ μεριμνῶσι,  
+125 „ En tóès ūranóès hypèr sû merimnôsi,  
 125 In the heavens above you are concerned,
 
 <table>
@@ -874,6 +999,7 @@
 </table>
 
 126 „ Καλά σοι δ' οὑμοὶ προσυπισχνοῦνται λόγοι;”  
+126 „ Calá soe d' hūmoè prosypischnûntae lógoe?”  
 126 And do we promise good words to you?”
 
 <table>
@@ -881,6 +1007,7 @@
 </table>
 
 127 Ὥσπερ τἄνθος ἐκ πάγους νυκτίου κύπτει,  
+127 Hǒsper tá'nthos ec págūs nyctíū cýptei,  
 127 Just as a flower from a frosty place at night bends,
 
 <table>
@@ -888,6 +1015,7 @@
 </table>
 
 128 Καὶ μένει κλειστόν· ἡλίου δ' ἀνιόντος,  
+128 Caè ménei cleistón; hēlíū d' anióntos,  
 128 And remains closed; but with the rising of the sun,
 
 <table>
@@ -895,6 +1023,7 @@
 </table>
 
 129 Ἐπὶ τοῦ καυλοῦ διανοιχθὲν ὀρθοῦται·  
+129 Epì tû caulû dianoechthèn orthûtae;  
 129 Upon the stem, it opens and stands upright.
 
 <table>
@@ -902,6 +1031,7 @@
 </table>
 
 130 Οὕτως ἐμαυτὸν ἀναψυχθέντ' ᾐσθάνθην·  
+130 Hǔtōs emautòn anapsychthént' ẹ̄sthánthēn;  
 130 In this way, having refreshed myself, I felt,
 
 <table>
@@ -909,6 +1039,7 @@
 </table>
 
 131 Καὶ τοσοῦτον ἐν ἐμοὶ θάρσος ἐπῆλθεν,  
+131 Caè tosûton en emoè thársos epêlthen,  
 131 And so much confidence came to me within,
 
 <table>
@@ -916,6 +1047,7 @@
 </table>
 
 132 Ὥστ' ἀπεκρίθην ὡς ἄνθρωπος γενναῖος.  
+132 Hǒst' apecríthēn hōs ánthrōpos gennáèos.  
 132 So that I responded like a brave man.
 
 <table>
@@ -923,6 +1055,7 @@
 </table>
 
 133 “Ὦ ψυχὴ φιλέλεος, προστάτριά μου,  
+133 “Ô psychḕ philéleos, prostátriá mū,  
 133 “O friendly soul, my protector,
 
 <table>
@@ -930,6 +1063,7 @@
 </table>
 
 134 „ Καὶ σὺ φιλόφρων ὁ τάχος ὑπακούσας  
+134 „ Caè sỳ philóphrōn ho táchos hypacǔsas  
 134 And you, kind-hearted, quickly obeying
 
 <table>
@@ -937,6 +1071,7 @@
 </table>
 
 135 „ Οἷς αὐτὴ λόγοις πιστοῖς παρώτρυνέ σε!  
+135 „ Hóès autḕ lógoes pistóès parǒtryné se!  
 135 To which her faithful words encouraged you!
 
 <table>
@@ -944,6 +1079,7 @@
 </table>
 
 136 „ Οὕτω ταῖς σαῖς προτροπαῖς ἐν τῇ καρδίᾳ  
+136 „ Hǔtō táès sáès protropáès en tệ cardíạ̄  
 136 So in your exhortations within the heart,
 
 <table>
@@ -951,6 +1087,7 @@
 </table>
 
 137 „ Ενέσταξάς μοι πόθον τοῦ προχωρῆσαι,  
+137 „ Enéstaxás moe póthon tû prochōrêsae,  
 137 You inserted a desire in me to proceed,
 
 <table>
@@ -958,6 +1095,7 @@
 </table>
 
 138 „ Ὥστ' εἰς τὴν πρώτην πρόθεσιν ἐπανῆλθον.  
+138 „ Hǒst' eis tḕn prǒtēn próthesin epanêlthon.  
 138 So that I returned back to the first purpose.
 
 <table>
@@ -965,6 +1103,7 @@
 </table>
 
 139 „ Ἄγε δή, μία θέλησις ἡμῖν ἔστω·  
+139 „ Áge dě, mía thélēsis hēmîn éstō;  
 139 Come then, let there be one will for us;
 
 <table>
@@ -972,6 +1111,7 @@
 </table>
 
 140 „ Σύ μοι ποδηγός, σὺ κύριος, σύ τ' ἄρχων.”  
+140 „ Sý moe podēgós, sỳ cýrios, sý t' árchōn.”  
 140 You guide me, you are the master, and you are the ruler.”
 
 <table>
@@ -979,6 +1119,7 @@
 </table>
 
 141 Αὐτῷ ταῦτ' εἶπον· ὁ δ' ἔπειτα προέβη,  
+141 Autộ táùt' éìpon; ho d' épeita proébē,  
 141 I said these to him, and then he proceeded.
 
 <table>
@@ -986,6 +1127,7 @@
 </table>
 
 142 Ἐγὼ δ' εἰς τὴν ἀγρίαν ὁδὸν εἰσῆλθον.  
+142 Egṑ d' eis tḕn agrían hodòn eisêlthon.  
 142 But I entered into the wild road.
 
 <table>
