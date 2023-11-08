@@ -12,7 +12,7 @@ Ancient Greek
 
 * [Δάντου ο Αδής - Dante Alighieri - Google Books](https://books.google.gr/books?id=iMAFAAAAQAAJ)
 
-English (Carlyle revised)
+English (Carlyle edited by Oelsner)
 
 * [The Inferno of Dante Alighieri : Dante Alighieri, 1265-1321; Oelsner, Hermann, 1871- ed; Carlyle, John Aitken, 1801-1879, tr : Internet Archive](https://archive.org/details/infernoofdanteal00dantrich)
 
