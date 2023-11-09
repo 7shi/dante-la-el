@@ -1,6 +1,8 @@
 # dante-la-el
 
-Textualization of the Latin and Ancient Greek translations of Dante's Divine Comedy
+Textualization of the translations of Dante's Divine Comedy in Latin, Greek, and other languages.
+
+AI analysis and translation are also included.
 
 ## Source
 
