@@ -1,4 +1,4 @@
-This directory contains text processed from Bard's output.
+This directory contains experimental works using Google Bard.
 
 ### Warning
 
@@ -48,3 +48,7 @@ As for the translation of three-line poems, Longfellow's translation is highly f
 * https://www.gutenberg.org/ebooks/1004
 
 However, since some parts of the text differ from Dante's original when viewed line by line, I decided to modify Norton's translation.
+
+## Carlyle
+
+I thought Carlyle's literal translation was a suitable bridge to Italian. However, when I actually compared it to other translations, I decided that the wording was a bit dated and that Norton's was more appropriate.
