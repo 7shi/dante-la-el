@@ -4,6 +4,14 @@ This directory contains text processed from Bard's output.
 
 Some corrections have been made, but accuracy cannot be guaranteed.
 
+# Italian
+
+For the convenience of learning Italian from English, I have created a text that juxtaposes Dante's original text with a line split version of the English translation by Norton.
+
+* it-words
+
+The word analysis is by Bard and the log is attached, but is riddled with errors. It can be used as a guide to word correspondence, but should not be trusted.
+
 # English
 
 About the English translations included here.
@@ -27,7 +35,9 @@ I made two versions of Norton's translation with line breaks: a three-line versi
 
 I first created a three-line version, which I used as the basis for a one-line version. The three-line version simply adds line breaks, but does not alter the text; the one-line version rearranges the word order to conform the content to Dante's original text, but does not otherwise rewrite the text.
 
-These are intended to be a bridge to learning Italian. It is only a division of prose and is not intended to be altered into poetry.
+These are intended to be a bridge to learning Italian. 
+
+It is only a division of prose and is not intended to be altered into poetry.
 
 The splitting process from a three-line version to a one-line version was done by Bard and the log is attached. Final corrections were made manually.
 
