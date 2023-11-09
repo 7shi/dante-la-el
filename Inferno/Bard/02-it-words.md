@@ -30,7 +30,7 @@
 5 alike of the road and of the woe,
 
 <table>
-<tr><td>Lemma:<br>Italian:<br>Meaning:</td><td>sì<br>sì<br>yes</td><td>del<br>del<br>of</td><td>cammino<br>cammino<br>journey</td><td>e<br>e<br>and</td><td>sì<br>sì<br>yes</td><td>de la<br>de la<br>of the</td><td>pietà<br>pietate<br>pity</td></tr>
+<tr><td>Lemma:<br>Italian:<br>Meaning:</td><td>sì<br>sì<br>alike</td><td>del<br>del<br>of</td><td>cammino<br>cammino<br>journey</td><td>e<br>e<br>and</td><td>sì<br>sì<br>alike</td><td>de la<br>de la<br>of the</td><td>pietà<br>pietate<br>pity</td></tr>
 </table>
 
 6 che ritrarrà la mente che non erra.  
