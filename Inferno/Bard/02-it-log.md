@@ -1,5 +1,3 @@
-From: https://g.co/bard/share/9cc44a317ac1
-
 ## 1-3
 
     Please create a word-by-word table: column 1 for Italian, column 2 for lemma, column 3 for English. Lemma indicates the infinitive or singular form.

@@ -1,5 +1,3 @@
-From: https://chat.openai.com/share/4e99f599-9622-4d38-aed1-e5d41aabd66a
-
 ## 1-3
 
     Create a word-by-word table: column 1 for source language, column 2 for lemma, column 3 for English.
