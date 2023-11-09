@@ -16,7 +16,7 @@ The word analysis is by Bard and the log is attached, but is riddled with errors
 
 I am comparing several different translations here, but it is quicker to look at the file below.
 
-The comparison of Dante, Longfellow, Norton and Carlyle in Inferno Canto I.
+The comparison of Dante, Longfellow, Norton and Carlyle in Inferno Canto I and II.
 
 * [compare.md](https://github.com/7shi/dante-la-el/blob/main/Inferno/Bard/compare.md)
 
