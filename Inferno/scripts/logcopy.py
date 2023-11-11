@@ -1,4 +1,4 @@
-import sys, re, pyperclip
+import sys, os, re, pyperclip
 
 args = sys.argv[1:]
 i = 1
@@ -20,7 +20,7 @@ if len(args) != 1:
     print(f"Usage: python {sys.argv[0]} [-s start] [-t step] file")
     sys.exit(1)
 
-if seek:
+if seek and os.path.exists(args[0]):
     with open(args[0], "r", encoding="utf_8") as f:
         for line in f:
             if m := re.match(r"## (\d+)", line):
@@ -33,16 +33,23 @@ def chop(s):
             s = s[:-1]
     return s
 
+def writeline(f):
+    if step == 1:
+        print(f"## {i}", file=f)
+    else:
+        print(f"## {i}-{i+step-1}", file=f)
+
+
 file = args[0]
 while True:
-    print(f"## {i}-{i+2}", file=sys.stderr)
+    writeline(sys.stderr)
     p = chop(pyperclip.waitForNewPaste().replace("\r\n", "\n")).split("\n")
     print("log?")
     t = chop(pyperclip.waitForNewPaste().replace("\r\n", "\n")).split("\n")
     # fileに追記
     with open(file, "a", encoding="utf_8") as f:
         print(file=f)
-        print(f"## {i}-{i+2}", file=f)
+        writeline(f)
         print(file=f)
         for line in p:
             print("    " + line, file=f)

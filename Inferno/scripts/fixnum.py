@@ -4,7 +4,7 @@ start = 0
 step = 3
 
 args = sys.argv[1:]
-if args[0] == "-s":
+if len(args) >= 2 and args[0] == "-s":
     start = int(args[1])
     args = args[2:]
 
