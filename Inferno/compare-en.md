@@ -18,7 +18,7 @@ Midway upon the road of our life<br>
 I found myself within a dark wood,<br>
 for the right way had been missed.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Midway upon the road of our life I found myself within a dark wood, for the right way had been missed.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -39,7 +39,7 @@ Ah! how hard a thing it is to tell what<br>
 this wild and rough and dense wood was,<br>
 which in thought renews the fear!
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Ah! how hard a thing it is to tell what this wild and rough and dense wood was, which in thought renews the fear!
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -60,7 +60,7 @@ So bitter is it that death is little more.<br>
 But in order to treat of the good that there I found,<br>
 I will tell of the other things that I have seen there.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 So bitter is it that death is little more. But in order to treat of the good that there I found, I will tell of the other things that I have seen there.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -81,7 +81,7 @@ I cannot well recount how I entered it,<br>
 so full was I of slumber at that point<br>
 where I abandoned the true way.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 I cannot well recount how I entered it, so full was I of slumber at that point where I abandoned the true way.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -102,7 +102,7 @@ But after I had arrived at the foot of a hill,<br>
 where that valley ended<br>
 which had pierced my heart with fear,
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 But after I had arrived at the foot of a hill, where that valley ended which had pierced my heart with fear,
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -123,7 +123,7 @@ I looked on high, and saw its shoulders<br>
 clothed already with the rays of the planet<br>
 that leadeth men aright along every path.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 I looked on high, and saw its shoulders clothed already with the rays of the planet that leadeth men aright along every path.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -144,7 +144,7 @@ Then was the fear a little quieted<br>
 which in the lake of my heart had lasted<br>
 through the night that I passed so piteously.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Then was the fear a little quieted which in the lake of my heart had lasted through the night that I passed so piteously.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -165,7 +165,7 @@ And even as one who with spent breath,<br>
 issued out of the sea upon the shore,<br>
 turns to the perilous water and gazes,
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 And even as one who with spent breath, issued out of the sea upon the shore, turns to the perilous water and gazes,
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -186,7 +186,7 @@ so did my soul, which still was flying,<br>
 turn back to look again upon the pass<br>
 which never had a living person left.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 so did my soul, which still was flying, turn back to look again upon the pass which never had a living person left.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -207,7 +207,7 @@ After I had rested a little my weary body<br>
 I took my way again along the desert slope,<br>
 so that the firm foot was always the lower.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 After I had rested a little my weary body I took my way again along the desert slope, so that the firm foot was always the lower.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -228,7 +228,7 @@ And lo! almost at the beginning of the steep<br>
 a she-leopard, light and very nimble,<br>
 which was covered with a spotted coat.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 And lo! almost at the beginning of the steep a she-leopard, light and very nimble, which was covered with a spotted coat.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -249,7 +249,7 @@ And she did not move from before my face,<br>
 nay, rather hindered so my road<br>
 that to return I oftentimes had turned.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 And she did not move from before my face, nay, rather hindered so my road that to return I oftentimes had turned.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -273,7 +273,7 @@ and the Sun was mounting upward with those stars<br>
 that were with him when Love Divine<br>
 first set in motion those beautiful things;
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 The time was at the beginning of the morning, and the Sun was mounting upward with those stars that were with him when Love Divine first set in motion those beautiful things;
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -294,7 +294,7 @@ so that were occasion of good hope to me<br>
 concerning that wild beast with the dappled skin<br>
 the hour of the time and the sweet season.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 so that the hour of the time and the sweet season were occasion of good hope to me concerning that wild beast with the dappled skin.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -312,7 +312,7 @@ A lion's aspect which appeared to me.
 But not so that did not give me fear<br>
 the sight which appeared to me of a lion.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 But not so that the sight which appeared to me of a lion did not give me fear.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -333,7 +333,7 @@ He seemed to be coming against me,<br>
 with head high and with ravening hunger,<br>
 so that it seemed that the air was affrighted at him.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 He seemed to be coming against me, with head high and with ravening hunger, so that it seemed that the air was affrighted at him.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -354,7 +354,7 @@ And a she-wolf, who with all cravings<br>
 seemed laden in her meagreness,<br>
 and already had made many folk to live forlorn,
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 And a she-wolf, who with all cravings seemed laden in her meagreness, and already had made many folk to live forlorn,
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -375,7 +375,7 @@ That I the hope relinquished of the height.
 with the fear that came from sight of her,<br>
 that I lost hope of the height.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 —she caused me so much heaviness, with the fear that came from sight of her, that I lost hope of the height.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -396,7 +396,7 @@ And such as he is who gaineth willingly,<br>
 and the time arrives that makes him lose,<br>
 who in all his thoughts weeps and is sad,
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 And such as he is who gaineth willingly, and the time arrives that makes him lose, who in all his thoughts weeps and is sad,
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -417,7 +417,7 @@ Thrust me back thither where the sun is silent.
 that, coming on against me, little by little<br>
 was pushing me back thither where the Sun is silent.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 —such made me the beast without repose that, coming on against me, little by little was pushing me back thither where the Sun is silent.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -438,7 +438,7 @@ While I was falling back to the low place,<br>
 before mine eyes appeared<br>
 one who through long silence seemed hoarse.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 While I was falling back to the low place, before mine eyes appeared one who through long silence seemed hoarse.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -459,7 +459,7 @@ When I saw him in the great desert,<br>
 "Have pity on me!" I cried to him,<br>
 "whatso thou art, or shade or real man."
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 When I saw him in the great desert, “Have pity on me!” I cried to him, “whatso thou art, or shade or real man.”
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -480,7 +480,7 @@ He answered me: "Not man; man once I was,<br>
 and my parents were Lombards,<br>
 and Mantuans by country both.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 He answered me: “Not man; man once I was, and my parents were Lombards, and Mantuans by country both.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -501,7 +501,7 @@ I was born sub Julio, though late,<br>
 and I lived at Rome under the good Augustus,<br>
 in the time of the false and lying gods.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 I was born sub Julio, though late, and I lived at Rome under the good Augustus, in the time of the false and lying gods.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -522,7 +522,7 @@ Poet was I, and sang of that just<br>
 son of Anchises who came from Troy<br>
 after proud Ilion had been burned.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Poet was I, and sang of that just son of Anchises who came from Troy after proud Ilion had been burned.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -543,7 +543,7 @@ But thou, why returnest thou to so great annoy?<br>
 Why dost thou not ascend the delectable mountain<br>
 which is the source and cause of every joy?"
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 But thou, why returnest thou to so great annoy? Why dost thou not ascend the delectable mountain which is the source and cause of every joy?”
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -564,7 +564,7 @@ I made response to him with bashful forehead.
 which poureth forth so large a stream of speech?"<br>
 replied I to him with bashful front:
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 “Art thou then that Virgil and that fount which poureth forth so large a stream of speech?” replied I to him with bashful front:
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -585,7 +585,7 @@ That have impelled me to explore thy volume!
 I may the long seal avail me, and the great love,<br>
 which have made me search thy volume!
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 “O honor and light of the other poem I may the long seal avail me, and the great love, which have made me search thy volume!
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -606,7 +606,7 @@ Thou art my master and my author;<br>
 thou alone art he from whom I took<br>
 the fair style that hath done me honor.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Thou art my master and my author; thou alone art he from whom I took the fair style that hath done me honor.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -627,7 +627,7 @@ Behold the beast because of which I turned;<br>
 help me against her, famous sage,<br>
 for she makes any veins and pulses tremble."
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Behold the beast because of which I turned; help me against her, famous sage, for she makes any veins and pulses tremble.”
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -648,7 +648,7 @@ Responded he, when he beheld me weeping,<br>
 he replied, when he saw me weeping,<br>
 "if thou wishest to escape from this savage place;
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 “Thee it behoves to hold another course,” he replied, when he saw me weeping, “if thou wishest to escape from this savage place;
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -669,7 +669,7 @@ for this beast, because of which thou criest out,<br>
 lets not any one pass along her way,<br>
 but so hinders him that she kills him!
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 for this beast, because of which thou criest out, lets not any one pass along her way, but so hinders him that she kills him!
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -690,7 +690,7 @@ and she has a nature so malign and evil<br>
 that she never sates her greedy will,<br>
 and after food is hungrier than before.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 and she has a nature so malign and evil that she never sates her greedy will, and after food is hungrier than before.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -711,7 +711,7 @@ Many are the animals with which she wives,<br>
 and there shall be more yet, till the hound<br>
 shall come that will make her die of grief.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Many are the animals with which she wives, and there shall be more yet, till the hound shall come that will make her die of grief.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -732,7 +732,7 @@ He shall not feed on land or goods,<br>
 but wisdom and love and valor,<br>
 and his birthplace shall be between Feltro and Feltro.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 He shall not feed on land or goods, but wisdom and love and valor, and his birthplace shall be between Feltro and Feltro.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -753,7 +753,7 @@ Of that humble Italy shall he be the salvation,<br>
 for which the virgin Camilla died,<br>
 and Euryalus, Turnus and Nisus of their wounds.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Of that humble Italy shall he be the salvation, for which the virgin Camilla died, and Euryalus, Turnus and Nisus of their wounds.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -774,7 +774,7 @@ He shall hunt her through every town<br>
 till he shall have set her back in hell,<br>
 there whence envy first sent her forth.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 He shall hunt her through every town till he shall have set her back in hell, there whence envy first sent her forth.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -795,7 +795,7 @@ Wherefore I think and deem it for thy best<br>
 that thou follow me, and I will be thy guide,<br>
 and will lead thee hence through the eternal place
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Wherefore I think and deem it for thy best that thou follow me, and I will be thy guide, and will lead thee hence through the eternal place
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -816,7 +816,7 @@ where thou shalt hear the despairing shrieks,<br>
 shalt see the ancient spirits woeful<br>
 who each proclaim the second death.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 where thou shalt hear the despairing shrieks, shalt see the ancient spirits woeful who each proclaim the second death.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -837,7 +837,7 @@ And then thou shalt see those who are contented<br>
 in the fire, because they hope to come,<br>
 whenever it may be, to the blessed folk;
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 And then thou shalt see those who are contented in the fire, because they hope to come, whenever it may be, to the blessed folk;
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -858,7 +858,7 @@ to whom if thou wilt thereafter ascend,<br>
 then shall be a soul more worthy than I for that.<br>
 With her I will leave thee at my departure;
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 to whom if thou wilt thereafter ascend, then shall be a soul more worthy than I for that. With her I will leave thee at my departure;
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -879,7 +879,7 @@ for that Emperor who reigneth them above,<br>
 because I was rebellious to His law,<br>
 wills not that into His city any one should come through me.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 for that Emperor who reigneth them above, because I was rebellious to His law, wills not that into His city any one should come through me.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -900,7 +900,7 @@ In all parts He governs and them He reigns:<br>
 there in His city and His lofty seat.<br>
 O happy he whom thereto He elects!"
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 In all parts He governs and them He reigns: there in His city and His lofty seat. O happy he whom thereto He elects!”
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -921,7 +921,7 @@ And I to him, "Poet, I beseech thee<br>
 by that God whom thou didst not know,<br>
 in order that I may escape this ill and worse,
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 And I to him, “Poet, I beseech thee by that God whom thou didst not know, in order that I may escape this ill and worse,
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -942,7 +942,7 @@ that thou lead me thither whom thou now hast said,<br>
 so that I may see the gate of St. Peter,<br>
 and those whom thou makest so afflicted."
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 that thou lead me thither whom thou now hast said, so that I may see the gate of St. Peter, and those whom thou makest so afflicted.”
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -957,7 +957,7 @@ Then he moved on, and I behind him followed.
 <tr><td>Norton-1</td><td align="right">136</td><td>
 Then he moved on, and I behind him kept.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Then he moved on, and I behind him kept.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -983,7 +983,7 @@ The day was going, and the dusky air<br>
 was taking the living things that are on earth<br>
 from their fatigues, and I alone
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 The day was going, and the dusky air was taking the living things that are on earth from their fatigues, and I alone
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1004,7 +1004,7 @@ was preparing to sustain the war<br>
 alike of the road and of the woe,<br>
 which the mind that erreth not shall retrace.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 was preparing to sustain the war alike of the road, and of the woe which the mind that erreth not shall retrace.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1025,7 +1025,7 @@ O Muses, O lofty genius, now assist me!<br>
 O mind that didst inscribe that which I saw,<br>
 here shall thy nobility appear!
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 O Muses, O lofty genius, now assist me! O mind that didst inscribe that which I saw, here shall thy nobility appear!
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1046,7 +1046,7 @@ I began:—“Poet, that guidest me,<br>
 consider my virtue, if it is sufficient,<br>
 ere to the deep pass thou trustest me.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 I began:—“Poet, that guidest me, consider my virtue, if it is sufficient, ere to the deep pass thou trustest me.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1067,7 +1067,7 @@ Thou sayest that the parent of Silvius<br>
 while still corruptible, to the immortal<br>
 world went, and was there in the body.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Thou sayest that the parent of Silvius while still corruptible went to the immortal world and was there in the body.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1088,7 +1088,7 @@ Wherefore if the Adversary of every ill<br>
 was then courteous, thinking on the high effect<br>
 that should proceed from him, and on the Who and the What,
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Wherefore if the Adversary of every ill was then courteous, thinking on the high effect that should proceed from him, and on the Who and the What,
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1109,7 +1109,7 @@ not seemeth it unmeet to the man of understanding;<br>
 for he had been of revered Rome and of her empire<br>
 in the empyreal heaven for father chosen;
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 it seemeth not unmeet to the man of understanding; for in the empyreal heaven he had been chosen for father of revered Rome and of her empire;
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1130,7 +1130,7 @@ both which, to say truth indeed,<br>
 were ordained for the holy place<br>
 where the successor of the greater Peter hath his seat.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 both which (to say truth indeed) were ordained for the holy place where the successor of the greater Peter hath his seat.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1151,7 +1151,7 @@ Through this going, whereof thou givest him vaunt,<br>
 he learned things which were the cause<br>
 of his victory and of the papal mantle.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Through this going, whereof thou givest him vaunt, he learned things which were the cause of his victory and of the papal mantle.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1172,7 +1172,7 @@ Afterward the Chosen Vessel went thither<br>
 to bring thence comfort to that faith<br>
 which is the beginning of the way of salvation.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Afterward the Chosen Vessel went thither to bring thence comfort to that faith which is the beginning of the way of salvation.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1193,7 +1193,7 @@ But I, why go I thither? or who concedes it?<br>
 I am not Aeneas, I am not Paul;<br>
 me worthy of this, neither I nor others think;
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 But I, why go I thither? or who concedes it? I am not Aeneas, I am not Paul; me worthy of this, neither I nor others think;
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1214,7 +1214,7 @@ wherefore if I give myself up to go,<br>
 I fear lest the going may be mad.<br>
 Thou art wise, thou understandest better than I speak.”
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 wherefore if I give myself up to go, I fear lest the going may be mad. Thou art wise, thou understandest better than I speak.”
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1235,7 +1235,7 @@ And as is he who unwills what he willed,<br>
 and because of new thoughts changes his design,<br>
 so that he quite withdraws from beginning,
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 And as is he who unwills what he willed, and because of new thoughts changes his design, so that he quite withdraws from beginning,
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1256,7 +1256,7 @@ such I became on that dark hillside:<br>
 wherefore in my thought I abandoned the enterprise<br>
 which had been so hasty in the beginning.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 such I became on that dark hillside: wherefore in my thought I abandoned the enterprise which had been so hasty in the beginning.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1277,7 +1277,7 @@ Replied that shade of the Magnanimous,<br>
 replied that shade of the magnanimous one,<br>
 “thy soul is hurt by cowardice,
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 “If I have rightly understood thy speech,” replied that shade of the magnanimous one, “thy soul is hurt by cowardice,
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1298,7 +1298,7 @@ which oftentimes encumbereth a man<br>
 so that it turns him back from honorable enterprise,<br>
 as false seeing does a beast when it is startled.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 which oftentimes encumbereth a man so that it turns him back from honorable enterprise, as false seeing does a beast when it is startled.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1319,7 +1319,7 @@ In order that thou loose thee from this fear<br>
 I will tell thee wherefore I have come, and what I heard<br>
 at the first moment that I grieved for thee.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 In order that thou loose thee from this fear I will tell thee wherefore I have come, and what I heard at the first moment that I grieved for thee.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1340,7 +1340,7 @@ I was among those who are suspended,<br>
 and a Lady called me, so blessed and beautiful<br>
 that I besought her to command.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 I was among those who are suspended, and a Lady called me, so blessed and beautiful that I besought her to command.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1361,7 +1361,7 @@ Her eyes were more lucent than the star,<br>
 and she began to speak to me sweet and low,<br>
 with angelic voice, in her own tongue:
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Her eyes were more lucent than the star, and she began to speak to me sweet and low, with angelic voice, in her own tongue:
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1382,7 +1382,7 @@ And shall endure, long-lasting as the world;
 of whom the fame yet lasteth in the world,<br>
 and shall last so long as the world endureth!
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 ‘O courteous Mantuan soul, of whom the fame yet lasteth in the world, and shall last so long as the world endureth!
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1403,7 +1403,7 @@ a friend of mine and not of fortune<br>
 upon the desert hillside is so hindered<br>
 on his road that he has turned for fear,
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 a friend of mine and not of fortune upon the desert hillside is so hindered on his road that he has turned for fear,
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1424,7 +1424,7 @@ and I am afraid lest already he be so astray,<br>
 that I may have risen late to his succor,<br>
 through that which I have heard of him in heaven.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 and I am afraid, through that which I have heard of him in heaven, lest already he be so astray that I may have risen late to his succor.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1445,7 +1445,7 @@ Now do thou move, and with thy speech ornate,<br>
 and with whatever is needful for his deliverance,<br>
 assist him so that I may be consoled for him.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Now do thou move, and with thy speech ornate, and with whatever is needful for his deliverance, assist him so that I may be consoled for him.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1466,7 +1466,7 @@ I am Beatrice who make thee go.<br>
 I come from a place whither I desire to return.<br>
 Love moved me, and makes me speak.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 I am Beatrice who make thee go. I come from a place whither I desire to return. Love moved me, and makes me speak.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1487,7 +1487,7 @@ When I shall be before my Lord,<br>
 I will commend thee often unto Him.’<br>
 Then she was silent, and thereon I began:
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 When I shall be before my Lord, I will commend thee often unto Him.’ Then she was silent, and thereon I began:
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1508,7 +1508,7 @@ Within the heaven that has the lesser circles,
 the human race surpasseth all contained<br>
 within that heaven which hath the smallest circles!
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 ‘O Lady of Virtue, thou alone through whom the human race surpasseth all contained within that heaven which hath the smallest circles!
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1529,7 +1529,7 @@ so pleasing unto me is thy command<br>
 that to obey it, were it already done, were slow to me.<br>
 Thou hast no need further to open unto me thy will;
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 so pleasing unto me is thy command that to obey it, were it already done, were slow to me. Thou hast no need further to open unto me thy will;
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1550,7 +1550,7 @@ but tell me the cause why thou guardest not thyself<br>
 from descending down here into this centre,<br>
 from the ample place whither thou burnest to return.’
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 but tell me the cause why thou guardest not thyself from descending down here into this centre, from the ample place whither thou burnest to return.’
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1571,7 +1571,7 @@ Briefly will I relate,’ she answered me,<br>
 I will tell thee briefly,’ she replied to me,<br>
 ‘wherefore I fear not to come here within.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 ‘Since thou wishest to know so inwardly, I will tell thee briefly,’ she replied to me, ‘wherefore I fear not to come here within.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1592,7 +1592,7 @@ One ought to fear those things only<br>
 that have power of doing harm,<br>
 the others not, for they are not dreadful.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 One ought to fear those things only that have power of doing harm, the others not, for they are not dreadful.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1613,7 +1613,7 @@ I am made by God, thanks be to Him, such<br>
 that your misery toucheth me not,<br>
 nor doth the flame of this burning assail me.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 I am made by God, thanks be to Him, such that your misery toucheth me not, nor doth the flame of this burning assail me.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1634,7 +1634,7 @@ A gentle Lady is in heaven who hath pity<br>
 for this hindrance whereto I send thee,<br>
 so that stern judgment there above she breaketh.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 A gentle Lady is in heaven who hath pity for this hindrance whereto I send thee, so that stern judgment there above she breaketh.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1655,7 +1655,7 @@ She summoned Lucia in her request,<br>
 and said, “Thy faithful one now hath need<br>
 of thee, and unto thee I commend him.”
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 She summoned Lucia in her request, and said, “Thy faithful one now hath need of thee, and unto thee I commend him.”
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1676,7 +1676,7 @@ Lucia, the foe of every cruel one,<br>
 rose and came to the place where I was,<br>
 seated with the ancient Rachel.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Lucia, the foe of every cruel one, rose and came to the place where I was, seated with the ancient Rachel.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1697,7 +1697,7 @@ She said, “Beatrice, true praise of God,<br>
 why dost thou not succor him who so loved thee<br>
 that for thee he came forth from the vulgar throng?
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 She said, “Beatrice, true praise of God, why dost thou not succor him who so loved thee that for thee he came forth from the vulgar throng?
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1718,7 +1718,7 @@ Dost thou not hear the pity of his plaint?<br>
 Dost thou not see the death that combats him<br>
 beside the stream whereof the sea hath no vaunt?”
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Dost thou not hear the pity of his plaint? Dost thou not see the death that combats him beside the stream whereof the sea hath no vaunt?”
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1739,7 +1739,7 @@ In the world never were persons swift<br>
 to seek their good, and to fly their harm,<br>
 as I, after these words were uttered,
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 In the world never were persons swift to seek their good, and to fly their harm, as I, after these words were uttered,
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1760,7 +1760,7 @@ came here below, from my blessed seat,<br>
 putting my trust in thy upright speech,<br>
 which honors thee and them who have heard it.’
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 came here below, from my blessed seat, putting my trust in thy upright speech, which honors thee and them who have heard it.’
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1781,7 +1781,7 @@ After she had said this to me,<br>
 weeping she turned her lucent eyes,<br>
 whereby she made me more speedy in coming.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 After she had said this to me, weeping she turned her lucent eyes, whereby she made me more speedy in coming.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1802,7 +1802,7 @@ And I came to thee as she willed.<br>
 Thee have I delivered from that wild beast<br>
 that took from thee the short ascent of the beautiful mountain.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 And I came to thee as she willed. Thee have I delivered from that wild beast that took from thee the short ascent of the beautiful mountain.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1823,7 +1823,7 @@ What is it then? Why, why dost thou hold back?<br>
 why dost thou harbor such cowardice in thy heart?<br>
 why hast thou not daring and boldness,
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 What is it then? Why, why dost thou hold back? why dost thou harbor such cowardice in thy heart? why hast thou not daring and boldness,
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1844,7 +1844,7 @@ since three blessed Ladies<br>
 care for thee in the court of Heaven,<br>
 and my speech pledges thee such good?”
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 since three blessed Ladies care for thee in the court of Heaven, and my speech pledges thee such good?”
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1865,7 +1865,7 @@ As flowerets, by the chill of night<br>
 bent and closed, after the sun shines on them<br>
 straighten themselves all open on their stem,
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 As flowerets, bent and closed by the chill of night, after the sun shines on them straighten themselves all open on their stem,
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1886,7 +1886,7 @@ so I became with my weak virtue,<br>
 and such good daring hastened to my heart<br>
 that I began like one enfranchised:
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 so I became with my weak virtue, and such good daring hastened to my heart that I began like one enfranchised:
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1907,7 +1907,7 @@ The words of truth which she addressed to thee!
 and thou courteous who didst speedily obey<br>
 the true words that she addressed to thee!
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 “Oh compassionate she who succored me! and thou courteous who didst speedily obey the true words that she addressed to thee!
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1928,7 +1928,7 @@ Thou hast disposed my heart with desire<br>
 so of going by thy words,<br>
 that I have returned unto my first intent.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Thou by thy words hast so disposed my heart with desire of going, that I have returned unto my first intent.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1949,7 +1949,7 @@ Go on now, for one sole will is in us both:<br>
 Thou Leader, thou Lord, and thou Master.”<br>
 Thus I said to him; and when he had moved on,
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 Go on now, for one sole will is in us both: Thou Leader, thou Lord, and thou Master.” Thus I said to him; and when he had moved on,
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
@@ -1964,7 +1964,7 @@ I entered on the deep and savage way.
 <tr><td>Norton-1</td><td align="right">142</td><td>
 I entered along the deep and savage road.
 </td></tr>
-<tr><td>Norton</td><td></td><td>
+<tr><td>Norton-3</td><td></td><td>
 I entered along the deep and savage road.
 </td></tr>
 <tr><td>Carlyle</td><td></td><td>
