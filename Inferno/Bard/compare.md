@@ -13,6 +13,11 @@ MIDWAY upon the journey of our life<br>
 I found myself within a forest dark,<br>
 For the straightforward pathway had been lost.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">1<br>2<br>3</td><td>
+Midway upon the road of our life<br>
+I found myself within a dark wood,<br>
+for the right way had been missed.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 Midway upon the road of our life I found myself within a dark wood, for the right way had been missed.
 </td></tr>
@@ -28,6 +33,11 @@ che nel pensier rinova la paura!
 Ah me! how hard a thing it is to say<br>
 What was this forest savage, rough, and stern,<br>
 Which in the very thought renews the fear.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">4<br>5<br>6</td><td>
+Ah! how hard a thing it is to tell what<br>
+this wild and rough and dense wood was,<br>
+which in thought renews the fear!
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 Ah! how hard a thing it is to tell what this wild and rough and dense wood was, which in thought renews the fear!
@@ -45,6 +55,11 @@ So bitter is it, death is little more;<br>
 But of the good to treat, which there I found,<br>
 Speak will I of the other things I saw there.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">7<br>8<br>9</td><td>
+So bitter is it that death is little more.<br>
+But in order to treat of the good that there I found,<br>
+I will tell of the other things that I have seen there.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 So bitter is it that death is little more. But in order to treat of the good that there I found, I will tell of the other things that I have seen there.
 </td></tr>
@@ -60,6 +75,11 @@ che la verace via abbandonai.
 I cannot well repeat how there I entered,<br>
 So full was I of slumber at the moment<br>
 In which I had abandoned the true way.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">10<br>11<br>12</td><td>
+I cannot well recount how I entered it,<br>
+so full was I of slumber at that point<br>
+where I abandoned the true way.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 I cannot well recount how I entered it, so full was I of slumber at that point where I abandoned the true way.
@@ -77,6 +97,11 @@ But after I had reached a mountain's foot,<br>
 At that point where the valley terminated,<br>
 Which had with consternation pierced my heart,
 </td></tr>
+<tr><td>Norton-1</td><td align="right">13<br>14<br>15</td><td>
+But after I had arrived at the foot of a hill,<br>
+where that valley ended<br>
+which had pierced my heart with fear,
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 But after I had arrived at the foot of a hill, where that valley ended which had pierced my heart with fear,
 </td></tr>
@@ -92,6 +117,11 @@ che mena dritto altrui per ogne calle.
 Upward I looked, and I beheld its shoulders,<br>
 Vested already with that planet's rays<br>
 Which leadeth others right by every road.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">16<br>17<br>18</td><td>
+I looked on high, and saw its shoulders<br>
+clothed already with the rays of the planet<br>
+that leadeth men aright along every path.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 I looked on high, and saw its shoulders clothed already with the rays of the planet that leadeth men aright along every path.
@@ -109,6 +139,11 @@ Then was the fear a little quieted<br>
 That in my heart's lake had endured throughout<br>
 The night, which I had passed so piteously.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">19<br>20<br>21</td><td>
+Then was the fear a little quieted<br>
+which in the lake of my heart had lasted<br>
+through the night that I passed so piteously.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 Then was the fear a little quieted which in the lake of my heart had lasted through the night that I passed so piteously.
 </td></tr>
@@ -124,6 +159,11 @@ si volge a l’acqua perigliosa e guata,
 And even as he, who, with distressful breath,<br>
 Forth issued from the sea upon the shore,<br>
 Turns to the water perilous and gazes;
+</td></tr>
+<tr><td>Norton-1</td><td align="right">22<br>23<br>24</td><td>
+And even as one who with spent breath,<br>
+issued out of the sea upon the shore,<br>
+turns to the perilous water and gazes,
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 And even as one who with spent breath, issued out of the sea upon the shore, turns to the perilous water and gazes,
@@ -141,6 +181,11 @@ So did my soul, that still was fleeing onward,<br>
 Turn itself back to re-behold the pass<br>
 Which never yet a living person left.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">25<br>26<br>27</td><td>
+so did my soul, which still was flying,<br>
+turn back to look again upon the pass<br>
+which never had a living person left.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 so did my soul, which still was flying, turn back to look again upon the pass which never had a living person left.
 </td></tr>
@@ -156,6 +201,11 @@ sì che ’l piè fermo sempre era ’l più basso.
 After my weary body I had rested,<br>
 The way resumed I on the desert slope,<br>
 So that the firm foot ever was the lower.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">28<br>29<br>30</td><td>
+After I had rested a little my weary body<br>
+I took my way again along the desert slope,<br>
+so that the firm foot was always the lower.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 After I had rested a little my weary body I took my way again along the desert slope, so that the firm foot was always the lower.
@@ -173,6 +223,11 @@ And lo! almost where the ascent began,<br>
 A panther light and swift exceedingly,<br>
 Which with a spotted skin was covered o'er!
 </td></tr>
+<tr><td>Norton-1</td><td align="right">31<br>32<br>33</td><td>
+And lo! almost at the beginning of the steep<br>
+a she-leopard, light and very nimble,<br>
+which was covered with a spotted coat.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 And lo! almost at the beginning of the steep a she-leopard, light and very nimble, which was covered with a spotted coat.
 </td></tr>
@@ -188,6 +243,11 @@ ch’i’ fui per ritornar più volte vòlto.
 And never moved she from before my face,<br>
 Nay, rather did impede so much my way,<br>
 That many times I to return had turned.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">34<br>35<br>36</td><td>
+And she did not move from before my face,<br>
+nay, rather hindered so my road<br>
+that to return I oftentimes had turned.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 And she did not move from before my face, nay, rather hindered so my road that to return I oftentimes had turned.
@@ -207,6 +267,12 @@ And up the sun was mounting with those stars<br>
 That with him were, what time the Love Divine<br>
 At first in motion set those beauteous things;
 </td></tr>
+<tr><td>Norton-1</td><td align="right">37<br>38<br>39<br>40</td><td>
+The time was at the beginning of the morning,<br>
+and the Sun was mounting upward with those stars<br>
+that were with him when Love Divine<br>
+first set in motion those beautiful things;
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 The time was at the beginning of the morning, and the Sun was mounting upward with those stars that were with him when Love Divine first set in motion those beautiful things;
 </td></tr>
@@ -223,6 +289,11 @@ So were to me occasion of good hope,<br>
 The variegated skin of that wild beast,<br>
 The hour of time, and the delicious season;
 </td></tr>
+<tr><td>Norton-1</td><td align="right">41<br>42<br>43</td><td>
+so that were occasion of good hope to me<br>
+concerning that wild beast with the dappled skin<br>
+the hour of the time and the sweet season.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 so that the hour of the time and the sweet season were occasion of good hope to me concerning that wild beast with the dappled skin.
 </td></tr>
@@ -236,6 +307,10 @@ la vista che m’apparve d’un leone.
 <tr><td>Longfellow</td><td align="right">44<br>45</td><td>
 But not so much, that did not give me fear<br>
 A lion's aspect which appeared to me.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">44<br>45</td><td>
+But not so that did not give me fear<br>
+the sight which appeared to me of a lion.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 But not so that the sight which appeared to me of a lion did not give me fear.
@@ -253,6 +328,11 @@ He seemed as if against me he were coming<br>
 With head uplifted, and with ravenous hunger,<br>
 So that it seemed the air was afraid of him;
 </td></tr>
+<tr><td>Norton-1</td><td align="right">46<br>47<br>48</td><td>
+He seemed to be coming against me,<br>
+with head high and with ravening hunger,<br>
+so that it seemed that the air was affrighted at him.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 He seemed to be coming against me, with head high and with ravening hunger, so that it seemed that the air was affrighted at him.
 </td></tr>
@@ -268,6 +348,11 @@ e molte genti fé già viver grame,
 And a she-wolf, that with all hungerings<br>
 Seemed to be laden in her meagreness,<br>
 And many folk has caused to live forlorn!
+</td></tr>
+<tr><td>Norton-1</td><td align="right">49<br>50<br>51</td><td>
+And a she-wolf, who with all cravings<br>
+seemed laden in her meagreness,<br>
+and already had made many folk to live forlorn,
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 And a she-wolf, who with all cravings seemed laden in her meagreness, and already had made many folk to live forlorn,
@@ -285,6 +370,11 @@ She brought upon me so much heaviness,<br>
 With the affright that from her aspect came,<br>
 That I the hope relinquished of the height.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">52<br>53<br>54</td><td>
+—she caused me so much heaviness,<br>
+with the fear that came from sight of her,<br>
+that I lost hope of the height.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 —she caused me so much heaviness, with the fear that came from sight of her, that I lost hope of the height.
 </td></tr>
@@ -300,6 +390,11 @@ che ’n tutti suoi pensier piange e s’attrista;
 And as he is who willingly acquires,<br>
 And the time comes that causes him to lose,<br>
 Who weeps in all his thoughts and is despondent,
+</td></tr>
+<tr><td>Norton-1</td><td align="right">55<br>56<br>57</td><td>
+And such as he is who gaineth willingly,<br>
+and the time arrives that makes him lose,<br>
+who in all his thoughts weeps and is sad,
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 And such as he is who gaineth willingly, and the time arrives that makes him lose, who in all his thoughts weeps and is sad,
@@ -317,6 +412,11 @@ E'en such made me that beast withouten peace,<br>
 Which, coming on against me by degrees,<br>
 Thrust me back thither where the sun is silent.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">58<br>59<br>60</td><td>
+—such made me the beast without repose<br>
+that, coming on against me, little by little<br>
+was pushing me back thither where the Sun is silent.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 —such made me the beast without repose that, coming on against me, little by little was pushing me back thither where the Sun is silent.
 </td></tr>
@@ -332,6 +432,11 @@ chi per lungo silenzio parea fioco.
 While I was rushing downward to the lowland,<br>
 Before mine eyes did one present himself,<br>
 Who seemed from long-continued silence hoarse.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">61<br>62<br>63</td><td>
+While I was falling back to the low place,<br>
+before mine eyes appeared<br>
+one who through long silence seemed hoarse.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 While I was falling back to the low place, before mine eyes appeared one who through long silence seemed hoarse.
@@ -349,6 +454,11 @@ When I beheld him in the desert vast,<br>
 "Have pity on me," unto him I cried,<br>
 "Whiche'er thou art, or shade or real man!"
 </td></tr>
+<tr><td>Norton-1</td><td align="right">64<br>65<br>66</td><td>
+When I saw him in the great desert,<br>
+"Have pity on me!" I cried to him,<br>
+"whatso thou art, or shade or real man."
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 When I saw him in the great desert, “Have pity on me!” I cried to him, “whatso thou art, or shade or real man.”
 </td></tr>
@@ -364,6 +474,11 @@ mantoani per patrïa ambedui.
 He answered me: "Not man; man once I was,<br>
 And both my parents were of Lombardy,<br>
 And Mantuans by country both of them.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">67<br>68<br>69</td><td>
+He answered me: "Not man; man once I was,<br>
+and my parents were Lombards,<br>
+and Mantuans by country both.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 He answered me: “Not man; man once I was, and my parents were Lombards, and Mantuans by country both.
@@ -381,6 +496,11 @@ Sub Julio was I born, though it was late,<br>
 And lived at Rome under the good Augustus,<br>
 During the time of false and lying gods.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">70<br>71<br>72</td><td>
+I was born sub Julio, though late,<br>
+and I lived at Rome under the good Augustus,<br>
+in the time of the false and lying gods.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 I was born sub Julio, though late, and I lived at Rome under the good Augustus, in the time of the false and lying gods.
 </td></tr>
@@ -396,6 +516,11 @@ poi che ’l superbo Ilïón fu combusto.
 A Poet was I, and I sang that just<br>
 Son of Anchises, who came forth from Troy,<br>
 After that Ilion the superb was burned.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">73<br>74<br>75</td><td>
+Poet was I, and sang of that just<br>
+son of Anchises who came from Troy<br>
+after proud Ilion had been burned.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 Poet was I, and sang of that just son of Anchises who came from Troy after proud Ilion had been burned.
@@ -413,6 +538,11 @@ But thou, why goest thou back to such annoyance?<br>
 Why climb'st thou not the Mount Delectable,<br>
 Which is the source and cause of every joy?"
 </td></tr>
+<tr><td>Norton-1</td><td align="right">76<br>77<br>78</td><td>
+But thou, why returnest thou to so great annoy?<br>
+Why dost thou not ascend the delectable mountain<br>
+which is the source and cause of every joy?"
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 But thou, why returnest thou to so great annoy? Why dost thou not ascend the delectable mountain which is the source and cause of every joy?”
 </td></tr>
@@ -428,6 +558,11 @@ rispuos’io lui con vergognosa fronte.
 "Now, art thou that Virgilius and that fountain<br>
 Which spreads abroad so wide a river of speech?"<br>
 I made response to him with bashful forehead.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">79<br>80<br>81</td><td>
+"Art thou then that Virgil and that fount<br>
+which poureth forth so large a stream of speech?"<br>
+replied I to him with bashful front:
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 “Art thou then that Virgil and that fount which poureth forth so large a stream of speech?” replied I to him with bashful front:
@@ -445,6 +580,11 @@ che m’ ha fatto cercar lo tuo volume.
 Avail me the long study and great love<br>
 That have impelled me to explore thy volume!
 </td></tr>
+<tr><td>Norton-1</td><td align="right">82<br>83<br>84</td><td>
+"O honor and light of the other poem<br>
+I may the long seal avail me, and the great love,<br>
+which have made me search thy volume!
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 “O honor and light of the other poem I may the long seal avail me, and the great love, which have made me search thy volume!
 </td></tr>
@@ -460,6 +600,11 @@ lo bello stilo che m’ ha fatto onore.
 Thou art my master, and my author thou,<br>
 Thou art alone the one from whom I took<br>
 The beautiful style that has done honor to me.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">85<br>86<br>87</td><td>
+Thou art my master and my author;<br>
+thou alone art he from whom I took<br>
+the fair style that hath done me honor.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 Thou art my master and my author; thou alone art he from whom I took the fair style that hath done me honor.
@@ -477,6 +622,11 @@ Behold the beast, for which I have turned back;<br>
 Do thou protect me from her, famous Sage,<br>
 For she doth make my veins and pulses tremble."
 </td></tr>
+<tr><td>Norton-1</td><td align="right">88<br>89<br>90</td><td>
+Behold the beast because of which I turned;<br>
+help me against her, famous sage,<br>
+for she makes any veins and pulses tremble."
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 Behold the beast because of which I turned; help me against her, famous sage, for she makes any veins and pulses tremble.”
 </td></tr>
@@ -492,6 +642,11 @@ rispuose, poi che lagrimar mi vide,<br>
 "Thee it behoves to take another road,"<br>
 Responded he, when he beheld me weeping,<br>
 "If from this savage place thou wouldst escape;
+</td></tr>
+<tr><td>Norton-1</td><td align="right">91<br>92<br>93</td><td>
+"Thee it behoves to hold another course,"<br>
+he replied, when he saw me weeping,<br>
+"if thou wishest to escape from this savage place;
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 “Thee it behoves to hold another course,” he replied, when he saw me weeping, “if thou wishest to escape from this savage place;
@@ -509,6 +664,11 @@ Because this beast, at which thou criest out,<br>
 Suffers not any one to pass her way,<br>
 But so doth harass him, that she destroys him;
 </td></tr>
+<tr><td>Norton-1</td><td align="right">94<br>95<br>96</td><td>
+for this beast, because of which thou criest out,<br>
+lets not any one pass along her way,<br>
+but so hinders him that she kills him!
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 for this beast, because of which thou criest out, lets not any one pass along her way, but so hinders him that she kills him!
 </td></tr>
@@ -524,6 +684,11 @@ e dopo ’l pasto ha più fame che pria.
 And has a nature so malign and ruthless,<br>
 That never doth she glut her greedy will,<br>
 And after food is hungrier than before.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">97<br>98<br>99</td><td>
+and she has a nature so malign and evil<br>
+that she never sates her greedy will,<br>
+and after food is hungrier than before.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 and she has a nature so malign and evil that she never sates her greedy will, and after food is hungrier than before.
@@ -541,6 +706,11 @@ Many the animals with whom she weds,<br>
 And more they shall be still, until the Greyhound<br>
 Comes, who shall make her perish in her pain.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">100<br>101<br>102</td><td>
+Many are the animals with which she wives,<br>
+and there shall be more yet, till the hound<br>
+shall come that will make her die of grief.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 Many are the animals with which she wives, and there shall be more yet, till the hound shall come that will make her die of grief.
 </td></tr>
@@ -556,6 +726,11 @@ e sua nazion sarà tra feltro e feltro.
 He shall not feed on either earth or pelf,<br>
 But upon wisdom, and on love and virtue;<br>
 'Twixt Feltro and Feltro shall his nation be;
+</td></tr>
+<tr><td>Norton-1</td><td align="right">103<br>104<br>105</td><td>
+He shall not feed on land or goods,<br>
+but wisdom and love and valor,<br>
+and his birthplace shall be between Feltro and Feltro.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 He shall not feed on land or goods, but wisdom and love and valor, and his birthplace shall be between Feltro and Feltro.
@@ -573,6 +748,11 @@ Of that low Italy shall he be the saviour,<br>
 On whose account the maid Camilla died,<br>
 Euryalus, Turnus, Nisus, of their wounds;
 </td></tr>
+<tr><td>Norton-1</td><td align="right">106<br>107<br>108</td><td>
+Of that humble Italy shall he be the salvation,<br>
+for which the virgin Camilla died,<br>
+and Euryalus, Turnus and Nisus of their wounds.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 Of that humble Italy shall he be the salvation, for which the virgin Camilla died, and Euryalus, Turnus and Nisus of their wounds.
 </td></tr>
@@ -588,6 +768,11 @@ là onde ’nvidia prima dipartilla.
 Through every city shall he hunt her down,<br>
 Until he shall have driven her back to Hell,<br>
 There from whence envy first did let her loose.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">109<br>110<br>111</td><td>
+He shall hunt her through every town<br>
+till he shall have set her back in hell,<br>
+there whence envy first sent her forth.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 He shall hunt her through every town till he shall have set her back in hell, there whence envy first sent her forth.
@@ -605,6 +790,11 @@ Therefore I think and judge it for thy best<br>
 Thou follow me, and I will be thy guide,<br>
 And lead thee hence through the eternal place,
 </td></tr>
+<tr><td>Norton-1</td><td align="right">112<br>113<br>114</td><td>
+Wherefore I think and deem it for thy best<br>
+that thou follow me, and I will be thy guide,<br>
+and will lead thee hence through the eternal place
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 Wherefore I think and deem it for thy best that thou follow me, and I will be thy guide, and will lead thee hence through the eternal place
 </td></tr>
@@ -620,6 +810,11 @@ ch’a la seconda morte ciascun grida;
 Where thou shalt hear the desperate lamentations,<br>
 Shalt see the ancient spirits disconsolate,<br>
 Who cry out each one for the second death;
+</td></tr>
+<tr><td>Norton-1</td><td align="right">115<br>116<br>117</td><td>
+where thou shalt hear the despairing shrieks,<br>
+shalt see the ancient spirits woeful<br>
+who each proclaim the second death.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 where thou shalt hear the despairing shrieks, shalt see the ancient spirits woeful who each proclaim the second death.
@@ -637,6 +832,11 @@ And thou shalt see those who contented are<br>
 Within the fire, because they hope to come,<br>
 Whene'er it may be, to the blessed people;
 </td></tr>
+<tr><td>Norton-1</td><td align="right">118<br>119<br>120</td><td>
+And then thou shalt see those who are contented<br>
+in the fire, because they hope to come,<br>
+whenever it may be, to the blessed folk;
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 And then thou shalt see those who are contented in the fire, because they hope to come, whenever it may be, to the blessed folk;
 </td></tr>
@@ -652,6 +852,11 @@ con lei ti lascerò nel mio partire;
 To whom, then, if thou wishest to ascend,<br>
 A soul shall be for that than I more worthy;<br>
 With her at my departure I will leave thee;
+</td></tr>
+<tr><td>Norton-1</td><td align="right">121<br>122<br>123</td><td>
+to whom if thou wilt thereafter ascend,<br>
+then shall be a soul more worthy than I for that.<br>
+With her I will leave thee at my departure;
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 to whom if thou wilt thereafter ascend, then shall be a soul more worthy than I for that. With her I will leave thee at my departure;
@@ -669,6 +874,11 @@ Because that Emperor, who reigns above,<br>
 In that I was rebellious to his law,<br>
 Wills that through me none come into his city.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">124<br>125<br>126</td><td>
+for that Emperor who reigneth them above,<br>
+because I was rebellious to His law,<br>
+wills not that into His city any one should come through me.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 for that Emperor who reigneth them above, because I was rebellious to His law, wills not that into His city any one should come through me.
 </td></tr>
@@ -684,6 +894,11 @@ oh felice colui cu’ ivi elegge!".
 He governs everywhere, and there he reigns;<br>
 There is his city and his lofty throne;<br>
 O happy he whom thereto he elects!"
+</td></tr>
+<tr><td>Norton-1</td><td align="right">127<br>128<br>129</td><td>
+In all parts He governs and them He reigns:<br>
+there in His city and His lofty seat.<br>
+O happy he whom thereto He elects!"
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 In all parts He governs and them He reigns: there in His city and His lofty seat. O happy he whom thereto He elects!”
@@ -701,6 +916,11 @@ And I to him: "Poet, I thee entreat,<br>
 By that same God whom thou didst never know,<br>
 So that I may escape this woe and worse,
 </td></tr>
+<tr><td>Norton-1</td><td align="right">130<br>131<br>132</td><td>
+And I to him, "Poet, I beseech thee<br>
+by that God whom thou didst not know,<br>
+in order that I may escape this ill and worse,
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 And I to him, “Poet, I beseech thee by that God whom thou didst not know, in order that I may escape this ill and worse,
 </td></tr>
@@ -717,6 +937,11 @@ Thou wouldst conduct me there where thou hast said,<br>
 That I may see the portal of Saint Peter,<br>
 And those thou makest so disconsolate."
 </td></tr>
+<tr><td>Norton-1</td><td align="right">133<br>134<br>135</td><td>
+that thou lead me thither whom thou now hast said,<br>
+so that I may see the gate of St. Peter,<br>
+and those whom thou makest so afflicted."
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 that thou lead me thither whom thou now hast said, so that I may see the gate of St. Peter, and those whom thou makest so afflicted.”
 </td></tr>
@@ -728,6 +953,9 @@ Allor si mosse, e io li tenni dietro.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">136</td><td>
 Then he moved on, and I behind him followed.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">136</td><td>
+Then he moved on, and I behind him kept.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 Then he moved on, and I behind him kept.
@@ -750,6 +978,11 @@ Day was departing, and the embrowned air<br>
 Released the animals that are on earth<br>
 From their fatigues; and I the only one
 </td></tr>
+<tr><td>Norton-1</td><td align="right">1<br>2<br>3</td><td>
+The day was going, and the dusky air<br>
+was taking the living things that are on earth<br>
+from their fatigues, and I alone
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 The day was going, and the dusky air was taking the living things that are on earth from their fatigues, and I alone
 </td></tr>
@@ -765,6 +998,11 @@ che ritrarrà la mente che non erra.
 Made myself ready to sustain the war,<br>
 Both of the way and likewise of the woe,<br>
 Which memory that errs not shall retrace.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">4<br>5<br>6</td><td>
+was preparing to sustain the war<br>
+alike of the road and of the woe,<br>
+which the mind that erreth not shall retrace.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 was preparing to sustain the war alike of the road, and of the woe which the mind that erreth not shall retrace.
@@ -782,6 +1020,11 @@ O Muses, O high genius, now assist me!<br>
 O memory, that didst write down what I saw,<br>
 Here thy nobility shall be manifest!
 </td></tr>
+<tr><td>Norton-1</td><td align="right">7<br>8<br>9</td><td>
+O Muses, O lofty genius, now assist me!<br>
+O mind that didst inscribe that which I saw,<br>
+here shall thy nobility appear!
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 O Muses, O lofty genius, now assist me! O mind that didst inscribe that which I saw, here shall thy nobility appear!
 </td></tr>
@@ -797,6 +1040,11 @@ prima ch'a l'alto passo tu mi fidi.
 And I began: “Poet, who guidest me,<br>
 Regard my manhood, if it be sufficient,<br>
 Ere to the arduous pass thou dost confide me.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">10<br>11<br>12</td><td>
+I began:—“Poet, that guidest me,<br>
+consider my virtue, if it is sufficient,<br>
+ere to the deep pass thou trustest me.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 I began:—“Poet, that guidest me, consider my virtue, if it is sufficient, ere to the deep pass thou trustest me.
@@ -814,6 +1062,11 @@ Thou sayest, that of Silvius the parent,<br>
 While yet corruptible, unto the world<br>
 Immortal went, and was there bodily.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">13<br>14<br>15</td><td>
+Thou sayest that the parent of Silvius<br>
+while still corruptible, to the immortal<br>
+world went, and was there in the body.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 Thou sayest that the parent of Silvius while still corruptible went to the immortal world and was there in the body.
 </td></tr>
@@ -829,6 +1082,11 @@ ch'uscir dovea di lui, e 'l chi e 'l quale
 But if the adversary of all evil<br>
 Was courteous, thinking of the high effect<br>
 That issue would from him, and who, and what,
+</td></tr>
+<tr><td>Norton-1</td><td align="right">16<br>17<br>18</td><td>
+Wherefore if the Adversary of every ill<br>
+was then courteous, thinking on the high effect<br>
+that should proceed from him, and on the Who and the What,
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 Wherefore if the Adversary of every ill was then courteous, thinking on the high effect that should proceed from him, and on the Who and the What,
@@ -846,6 +1104,11 @@ To men of intellect unmeet it seems not;<br>
 For he was of great Rome, and of her empire<br>
 In the empyreal heaven as father chosen;
 </td></tr>
+<tr><td>Norton-1</td><td align="right">19<br>20<br>21</td><td>
+not seemeth it unmeet to the man of understanding;<br>
+for he had been of revered Rome and of her empire<br>
+in the empyreal heaven for father chosen;
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 it seemeth not unmeet to the man of understanding; for in the empyreal heaven he had been chosen for father of revered Rome and of her empire;
 </td></tr>
@@ -861,6 +1124,11 @@ u' siede il successor del maggior Piero.
 The which and what, wishing to speak the truth,<br>
 Were stablished as the holy place, wherein<br>
 Sits the successor of the greatest Peter.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">22<br>23<br>24</td><td>
+both which, to say truth indeed,<br>
+were ordained for the holy place<br>
+where the successor of the greater Peter hath his seat.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 both which (to say truth indeed) were ordained for the holy place where the successor of the greater Peter hath his seat.
@@ -878,6 +1146,11 @@ Upon this journey, whence thou givest him vaunt,<br>
 Things did he hear, which the occasion were<br>
 Both of his victory and the papal mantle.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">25<br>26<br>27</td><td>
+Through this going, whereof thou givest him vaunt,<br>
+he learned things which were the cause<br>
+of his victory and of the papal mantle.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 Through this going, whereof thou givest him vaunt, he learned things which were the cause of his victory and of the papal mantle.
 </td></tr>
@@ -893,6 +1166,11 @@ ch'è principio a la via di salvazione.
 Thither went afterwards the Chosen Vessel,<br>
 To bring back comfort thence unto that Faith,<br>
 Which of salvation’s way is the beginning.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">28<br>29<br>30</td><td>
+Afterward the Chosen Vessel went thither<br>
+to bring thence comfort to that faith<br>
+which is the beginning of the way of salvation.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 Afterward the Chosen Vessel went thither to bring thence comfort to that faith which is the beginning of the way of salvation.
@@ -910,6 +1188,11 @@ But I, why thither come, or who concedes it?<br>
 I not Aeneas am, I am not Paul,<br>
 Nor I, nor others, think me worthy of it.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">31<br>32<br>33</td><td>
+But I, why go I thither? or who concedes it?<br>
+I am not Aeneas, I am not Paul;<br>
+me worthy of this, neither I nor others think;
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 But I, why go I thither? or who concedes it? I am not Aeneas, I am not Paul; me worthy of this, neither I nor others think;
 </td></tr>
@@ -925,6 +1208,11 @@ Se' savio; intendi me' ch'i' non ragiono".
 Therefore, if I resign myself to come,<br>
 I fear the coming may be ill-advised;<br>
 Thou’rt wise, and knowest better than I speak.”
+</td></tr>
+<tr><td>Norton-1</td><td align="right">34<br>35<br>36</td><td>
+wherefore if I give myself up to go,<br>
+I fear lest the going may be mad.<br>
+Thou art wise, thou understandest better than I speak.”
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 wherefore if I give myself up to go, I fear lest the going may be mad. Thou art wise, thou understandest better than I speak.”
@@ -942,6 +1230,11 @@ And as he is, who unwills what he willed,<br>
 And by new thoughts doth his intention change,<br>
 So that from his design he quite withdraws,
 </td></tr>
+<tr><td>Norton-1</td><td align="right">37<br>38<br>39</td><td>
+And as is he who unwills what he willed,<br>
+and because of new thoughts changes his design,<br>
+so that he quite withdraws from beginning,
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 And as is he who unwills what he willed, and because of new thoughts changes his design, so that he quite withdraws from beginning,
 </td></tr>
@@ -957,6 +1250,11 @@ che fu nel cominciar cotanto tosta.
 Such I became, upon that dark hillside,<br>
 Because, in thinking, I consumed the emprise,<br>
 Which was so very prompt in the beginning.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">40<br>41<br>42</td><td>
+such I became on that dark hillside:<br>
+wherefore in my thought I abandoned the enterprise<br>
+which had been so hasty in the beginning.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 such I became on that dark hillside: wherefore in my thought I abandoned the enterprise which had been so hasty in the beginning.
@@ -974,6 +1272,11 @@ rispuose del magnanimo quell'ombra,<br>
 Replied that shade of the Magnanimous,<br>
 “Thy soul attainted is with cowardice,
 </td></tr>
+<tr><td>Norton-1</td><td align="right">43<br>44<br>45</td><td>
+“If I have rightly understood thy speech,”<br>
+replied that shade of the magnanimous one,<br>
+“thy soul is hurt by cowardice,
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 “If I have rightly understood thy speech,” replied that shade of the magnanimous one, “thy soul is hurt by cowardice,
 </td></tr>
@@ -989,6 +1292,11 @@ come falso veder bestia quand'ombra.
 Which many times a man encumbers so,<br>
 It turns him back from honoured enterprise,<br>
 As false sight doth a beast, when he is shy.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">46<br>47<br>48</td><td>
+which oftentimes encumbereth a man<br>
+so that it turns him back from honorable enterprise,<br>
+as false seeing does a beast when it is startled.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 which oftentimes encumbereth a man so that it turns him back from honorable enterprise, as false seeing does a beast when it is startled.
@@ -1006,6 +1314,11 @@ That thou mayst free thee from this apprehension,<br>
 I’ll tell thee why I came, and what I heard<br>
 At the first moment when I grieved for thee.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">49<br>50<br>51</td><td>
+In order that thou loose thee from this fear<br>
+I will tell thee wherefore I have come, and what I heard<br>
+at the first moment that I grieved for thee.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 In order that thou loose thee from this fear I will tell thee wherefore I have come, and what I heard at the first moment that I grieved for thee.
 </td></tr>
@@ -1021,6 +1334,11 @@ tal che di comandare io la richiesi.
 Among those was I who are in suspense,<br>
 And a fair, saintly Lady called to me<br>
 In such wise, I besought her to command me.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">52<br>53<br>54</td><td>
+I was among those who are suspended,<br>
+and a Lady called me, so blessed and beautiful<br>
+that I besought her to command.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 I was among those who are suspended, and a Lady called me, so blessed and beautiful that I besought her to command.
@@ -1038,6 +1356,11 @@ Her eyes where shining brighter than the Star;<br>
 And she began to say, gentle and low,<br>
 With voice angelical, in her own language:
 </td></tr>
+<tr><td>Norton-1</td><td align="right">55<br>56<br>57</td><td>
+Her eyes were more lucent than the star,<br>
+and she began to speak to me sweet and low,<br>
+with angelic voice, in her own tongue:
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 Her eyes were more lucent than the star, and she began to speak to me sweet and low, with angelic voice, in her own tongue:
 </td></tr>
@@ -1053,6 +1376,11 @@ e durerà quanto 'l mondo lontana,
 ‘O spirit courteous of Mantua,<br>
 Of whom the fame still in the world endures,<br>
 And shall endure, long-lasting as the world;
+</td></tr>
+<tr><td>Norton-1</td><td align="right">58<br>59<br>60</td><td>
+‘O courteous Mantuan soul,<br>
+of whom the fame yet lasteth in the world,<br>
+and shall last so long as the world endureth!
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 ‘O courteous Mantuan soul, of whom the fame yet lasteth in the world, and shall last so long as the world endureth!
@@ -1070,6 +1398,11 @@ A friend of mine, and not the friend of fortune,<br>
 Upon the desert slope is so impeded<br>
 Upon his way, that he has turned through terror,
 </td></tr>
+<tr><td>Norton-1</td><td align="right">61<br>62<br>63</td><td>
+a friend of mine and not of fortune<br>
+upon the desert hillside is so hindered<br>
+on his road that he has turned for fear,
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 a friend of mine and not of fortune upon the desert hillside is so hindered on his road that he has turned for fear,
 </td></tr>
@@ -1085,6 +1418,11 @@ per quel ch'i' ho di lui nel cielo udito.
 And may, I fear, already be so lost,<br>
 That I too late have risen to his succour,<br>
 From that which I have heard of him in Heaven.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">64<br>65<br>66</td><td>
+and I am afraid lest already he be so astray,<br>
+that I may have risen late to his succor,<br>
+through that which I have heard of him in heaven.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 and I am afraid, through that which I have heard of him in heaven, lest already he be so astray that I may have risen late to his succor.
@@ -1102,6 +1440,11 @@ Bestir thee now, and with thy speech ornate,<br>
 And with what needful is for his release,<br>
 Assist him so, that I may be consoled.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">67<br>68<br>69</td><td>
+Now do thou move, and with thy speech ornate,<br>
+and with whatever is needful for his deliverance,<br>
+assist him so that I may be consoled for him.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 Now do thou move, and with thy speech ornate, and with whatever is needful for his deliverance, assist him so that I may be consoled for him.
 </td></tr>
@@ -1117,6 +1460,11 @@ amor mi mosse, che mi fa parlare.
 Beatrice am I, who do bid thee go;<br>
 I come from there, where I would fain return;<br>
 Love moved me, which compelleth me to speak.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">70<br>71<br>72</td><td>
+I am Beatrice who make thee go.<br>
+I come from a place whither I desire to return.<br>
+Love moved me, and makes me speak.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 I am Beatrice who make thee go. I come from a place whither I desire to return. Love moved me, and makes me speak.
@@ -1134,6 +1482,11 @@ When I shall be in presence of my Lord,<br>
 Full often will I praise thee unto him.’<br>
 Then paused she, and thereafter I began:
 </td></tr>
+<tr><td>Norton-1</td><td align="right">73<br>74<br>75</td><td>
+When I shall be before my Lord,<br>
+I will commend thee often unto Him.’<br>
+Then she was silent, and thereon I began:
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 When I shall be before my Lord, I will commend thee often unto Him.’ Then she was silent, and thereon I began:
 </td></tr>
@@ -1149,6 +1502,11 @@ di quel ciel c' ha minor li cerchi sui,
 ‘O Lady of virtue, thou alone through whom<br>
 The human race exceedeth all contained<br>
 Within the heaven that has the lesser circles,
+</td></tr>
+<tr><td>Norton-1</td><td align="right">76<br>77<br>78</td><td>
+‘O Lady of Virtue, thou alone through whom<br>
+the human race surpasseth all contained<br>
+within that heaven which hath the smallest circles!
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 ‘O Lady of Virtue, thou alone through whom the human race surpasseth all contained within that heaven which hath the smallest circles!
@@ -1166,6 +1524,11 @@ So grateful unto me is thy commandment,<br>
 To obey, if ’twere already done, were late;<br>
 No farther need’st thou ope to me thy wish.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">79<br>80<br>81</td><td>
+so pleasing unto me is thy command<br>
+that to obey it, were it already done, were slow to me.<br>
+Thou hast no need further to open unto me thy will;
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 so pleasing unto me is thy command that to obey it, were it already done, were slow to me. Thou hast no need further to open unto me thy will;
 </td></tr>
@@ -1181,6 +1544,11 @@ de l'ampio loco ove tornar tu ardi".
 But the cause tell me why thou dost not shun<br>
 The here descending down into this centre,<br>
 From the vast place thou burnest to return to.’
+</td></tr>
+<tr><td>Norton-1</td><td align="right">82<br>83<br>84</td><td>
+but tell me the cause why thou guardest not thyself<br>
+from descending down here into this centre,<br>
+from the ample place whither thou burnest to return.’
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 but tell me the cause why thou guardest not thyself from descending down here into this centre, from the ample place whither thou burnest to return.’
@@ -1198,6 +1566,11 @@ dirotti brievemente", mi rispuose,<br>
 Briefly will I relate,’ she answered me,<br>
 ‘Why I am not afraid to enter here.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">85<br>86<br>87</td><td>
+‘Since thou wishest to know so inwardly,<br>
+I will tell thee briefly,’ she replied to me,<br>
+‘wherefore I fear not to come here within.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 ‘Since thou wishest to know so inwardly, I will tell thee briefly,’ she replied to me, ‘wherefore I fear not to come here within.
 </td></tr>
@@ -1213,6 +1586,11 @@ de l'altre no, ché non son paurose.
 Of those things only should one be afraid<br>
 Which have the power of doing others harm;<br>
 Of the rest, no; because they are not fearful.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">88<br>89<br>90</td><td>
+One ought to fear those things only<br>
+that have power of doing harm,<br>
+the others not, for they are not dreadful.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 One ought to fear those things only that have power of doing harm, the others not, for they are not dreadful.
@@ -1230,6 +1608,11 @@ God in his mercy such created me<br>
 That misery of yours attains me not,<br>
 Nor any flame assails me of this burning.
 </td></tr>
+<tr><td>Norton-1</td><td align="right">91<br>92<br>93</td><td>
+I am made by God, thanks be to Him, such<br>
+that your misery toucheth me not,<br>
+nor doth the flame of this burning assail me.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 I am made by God, thanks be to Him, such that your misery toucheth me not, nor doth the flame of this burning assail me.
 </td></tr>
@@ -1245,6 +1628,11 @@ sì che duro giudicio là sù frange.
 A gentle Lady is in Heaven, who grieves<br>
 At this impediment, to which I send thee,<br>
 So that stern judgment there above is broken.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">94<br>95<br>96</td><td>
+A gentle Lady is in heaven who hath pity<br>
+for this hindrance whereto I send thee,<br>
+so that stern judgment there above she breaketh.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 A gentle Lady is in heaven who hath pity for this hindrance whereto I send thee, so that stern judgment there above she breaketh.
@@ -1262,6 +1650,11 @@ In her entreaty she besought Lucia,<br>
 And said, “Thy faithful one now stands in need<br>
 Of thee, and unto thee I recommend him.”
 </td></tr>
+<tr><td>Norton-1</td><td align="right">97<br>98<br>99</td><td>
+She summoned Lucia in her request,<br>
+and said, “Thy faithful one now hath need<br>
+of thee, and unto thee I commend him.”
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 She summoned Lucia in her request, and said, “Thy faithful one now hath need of thee, and unto thee I commend him.”
 </td></tr>
@@ -1277,6 +1670,11 @@ che mi sedea con l'antica Rachele.
 Lucia, foe of all that cruel is,<br>
 Hastened away, and came unto the place<br>
 Where I was sitting with the ancient Rachel.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">100<br>101<br>102</td><td>
+Lucia, the foe of every cruel one,<br>
+rose and came to the place where I was,<br>
+seated with the ancient Rachel.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 Lucia, the foe of every cruel one, rose and came to the place where I was, seated with the ancient Rachel.
@@ -1294,6 +1692,11 @@ ch'uscì per te de la volgare schiera?
 Why succourest thou not him, who loved thee so,<br>
 For thee he issued from the vulgar herd?
 </td></tr>
+<tr><td>Norton-1</td><td align="right">103<br>104<br>105</td><td>
+She said, “Beatrice, true praise of God,<br>
+why dost thou not succor him who so loved thee<br>
+that for thee he came forth from the vulgar throng?
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 She said, “Beatrice, true praise of God, why dost thou not succor him who so loved thee that for thee he came forth from the vulgar throng?
 </td></tr>
@@ -1309,6 +1712,11 @@ su la fiumana ove 'l mar non ha vanto? -.
 Dost thou not hear the pity of his plaint?<br>
 Dost thou not see the death that combats him<br>
 Beside that flood, where ocean has no vaunt?”
+</td></tr>
+<tr><td>Norton-1</td><td align="right">106<br>107<br>108</td><td>
+Dost thou not hear the pity of his plaint?<br>
+Dost thou not see the death that combats him<br>
+beside the stream whereof the sea hath no vaunt?”
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 Dost thou not hear the pity of his plaint? Dost thou not see the death that combats him beside the stream whereof the sea hath no vaunt?”
@@ -1326,6 +1734,11 @@ Never were persons in the world so swift<br>
 To work their weal and to escape their woe,<br>
 As I, after such words as these were uttered,
 </td></tr>
+<tr><td>Norton-1</td><td align="right">109<br>110<br>111</td><td>
+In the world never were persons swift<br>
+to seek their good, and to fly their harm,<br>
+as I, after these words were uttered,
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 In the world never were persons swift to seek their good, and to fly their harm, as I, after these words were uttered,
 </td></tr>
@@ -1341,6 +1754,11 @@ ch'onora te e quei ch'udito l' hanno".
 Came hither downward from my blessed seat,<br>
 Confiding in thy dignified discourse,<br>
 Which honours thee, and those who’ve listened to it.’
+</td></tr>
+<tr><td>Norton-1</td><td align="right">112<br>113<br>114</td><td>
+came here below, from my blessed seat,<br>
+putting my trust in thy upright speech,<br>
+which honors thee and them who have heard it.’
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 came here below, from my blessed seat, putting my trust in thy upright speech, which honors thee and them who have heard it.’
@@ -1358,6 +1776,11 @@ After she thus had spoken unto me,<br>
 Weeping, her shining eyes she turned away;<br>
 Whereby she made me swifter in my coming;
 </td></tr>
+<tr><td>Norton-1</td><td align="right">115<br>116<br>117</td><td>
+After she had said this to me,<br>
+weeping she turned her lucent eyes,<br>
+whereby she made me more speedy in coming.
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 After she had said this to me, weeping she turned her lucent eyes, whereby she made me more speedy in coming.
 </td></tr>
@@ -1373,6 +1796,11 @@ che del bel monte il corto andar ti tolse.
 And unto thee I came, as she desired;<br>
 I have delivered thee from that wild beast,<br>
 Which barred the beautiful mountain’s short ascent.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">118<br>119<br>120</td><td>
+And I came to thee as she willed.<br>
+Thee have I delivered from that wild beast<br>
+that took from thee the short ascent of the beautiful mountain.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 And I came to thee as she willed. Thee have I delivered from that wild beast that took from thee the short ascent of the beautiful mountain.
@@ -1390,6 +1818,11 @@ What is it, then? Why, why dost thou delay?<br>
 Why is such baseness bedded in thy heart?<br>
 Daring and hardihood why hast thou not,
 </td></tr>
+<tr><td>Norton-1</td><td align="right">121<br>122<br>123</td><td>
+What is it then? Why, why dost thou hold back?<br>
+why dost thou harbor such cowardice in thy heart?<br>
+why hast thou not daring and boldness,
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 What is it then? Why, why dost thou hold back? why dost thou harbor such cowardice in thy heart? why hast thou not daring and boldness,
 </td></tr>
@@ -1405,6 +1838,11 @@ e 'l mio parlar tanto ben ti promette?".
 Seeing that three such Ladies benedight<br>
 Are caring for thee in the court of Heaven,<br>
 And so much good my speech doth promise thee?”
+</td></tr>
+<tr><td>Norton-1</td><td align="right">124<br>125<br>126</td><td>
+since three blessed Ladies<br>
+care for thee in the court of Heaven,<br>
+and my speech pledges thee such good?”
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 since three blessed Ladies care for thee in the court of Heaven, and my speech pledges thee such good?”
@@ -1422,6 +1860,11 @@ Even as the flowerets, by nocturnal chill,<br>
 Bowed down and closed, when the sun whitens them,<br>
 Uplift themselves all open on their stems;
 </td></tr>
+<tr><td>Norton-1</td><td align="right">127<br>128<br>129</td><td>
+As flowerets, by the chill of night<br>
+bent and closed, after the sun shines on them<br>
+straighten themselves all open on their stem,
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 As flowerets, bent and closed by the chill of night, after the sun shines on them straighten themselves all open on their stem,
 </td></tr>
@@ -1437,6 +1880,11 @@ ch'i' cominciai come persona franca:
 Such I became with my exhausted strength,<br>
 And such good courage to my heart there coursed,<br>
 That I began, like an intrepid person:
+</td></tr>
+<tr><td>Norton-1</td><td align="right">130<br>131<br>132</td><td>
+so I became with my weak virtue,<br>
+and such good daring hastened to my heart<br>
+that I began like one enfranchised:
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 so I became with my weak virtue, and such good daring hastened to my heart that I began like one enfranchised:
@@ -1454,6 +1902,11 @@ a le vere parole che ti porse!
 And courteous thou, who hast obeyed so soon<br>
 The words of truth which she addressed to thee!
 </td></tr>
+<tr><td>Norton-1</td><td align="right">133<br>134<br>135</td><td>
+“Oh compassionate she who succored me!<br>
+and thou courteous who didst speedily obey<br>
+the true words that she addressed to thee!
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 “Oh compassionate she who succored me! and thou courteous who didst speedily obey the true words that she addressed to thee!
 </td></tr>
@@ -1469,6 +1922,11 @@ ch'i' son tornato nel primo proposto.
 Thou hast my heart so with desire disposed<br>
 To the adventure, with these words of thine,<br>
 That to my first intent I have returned.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">136<br>137<br>138</td><td>
+Thou hast disposed my heart with desire<br>
+so of going by thy words,<br>
+that I have returned unto my first intent.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 Thou by thy words hast so disposed my heart with desire of going, that I have returned unto my first intent.
@@ -1486,6 +1944,11 @@ Now go, for one sole will is in us both,<br>
 Thou Leader, and thou Lord, and Master thou.”<br>
 Thus said I to him; and when he had moved,
 </td></tr>
+<tr><td>Norton-1</td><td align="right">139<br>140<br>141</td><td>
+Go on now, for one sole will is in us both:<br>
+Thou Leader, thou Lord, and thou Master.”<br>
+Thus I said to him; and when he had moved on,
+</td></tr>
 <tr><td>Norton</td><td></td><td>
 Go on now, for one sole will is in us both: Thou Leader, thou Lord, and thou Master.” Thus I said to him; and when he had moved on,
 </td></tr>
@@ -1497,6 +1960,9 @@ intrai per lo cammino alto e silvestro.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">142</td><td>
 I entered on the deep and savage way.
+</td></tr>
+<tr><td>Norton-1</td><td align="right">142</td><td>
+I entered along the deep and savage road.
 </td></tr>
 <tr><td>Norton</td><td></td><td>
 I entered along the deep and savage road.
