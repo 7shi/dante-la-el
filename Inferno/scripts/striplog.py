@@ -10,7 +10,10 @@ def read_table(lines, i):
         i += 1
         rows = [c.strip() for c in line.split("|")]
         if line[0] == "|":
-            rows = rows[1:-1]
+            if not rows[0]:
+                rows.pop(0)
+            if not rows[-1]:
+                rows.pop()
         ret.append(rows)
     if len(ret) < 3 or len(ret[1]) == 0 or len(ret[1][0]) < 2 or not ret[1][0].startswith("--"):
         print(f"{i}: table error", file=sys.stderr)
@@ -48,6 +51,8 @@ if __name__ == "__main__":
                     for table in tables[-1:] if last else tables:
                         print()
                         write_table(table)
+                    if len(tables) != 2:
+                        print(f"[{n}] {len(tables)} tables", file=sys.stderr)
                 else:
                     print(f"{i}: [{n}] no tables", file=sys.stderr)
             if m := re.match(r"## (\d+)", line):
@@ -57,8 +62,7 @@ if __name__ == "__main__":
                 print(f"## {n}")
             else:
                 n = 0
-            words = []
-            lines = []
+            tables = []
         elif line.startswith("|") or (t2 := "-|-" in line.replace(" ", "")):
             i -= 2 if t2 else 1
             # bak = i + 1

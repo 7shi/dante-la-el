@@ -4,20 +4,24 @@ args = sys.argv[1:]
 i = 1
 step = 3
 seek = True
+threshold = 1
 
 while len(args) >= 2:
-    if args[0] == "-s": # 開始行を指定
+    if args[0] == "-s": # Start
         i = int(args[1])
         seek = False
         args = args[2:]
-    elif args[0] == "-t": # stepを指定
+    elif args[0] == "-t": # sTep
         step = int(args[1])
         args = args[2:]
+    elif args[0] == "-2": # each 2 times
+        threshold = 2
+        args = args[1:]
     else:
         break
 
 if len(args) != 1:
-    print(f"Usage: python {sys.argv[0]} [-s start] [-t step] file")
+    print(f"Usage: python {sys.argv[0]} [-2] [-s start] [-t step] file")
     sys.exit(1)
 
 if seek and os.path.exists(args[0]):
@@ -33,27 +37,33 @@ def chop(s):
             s = s[:-1]
     return s
 
-def writeline(f):
+thr = 0
+def writeline(f, showThr=False):
     if step == 1:
-        print(f"## {i}", file=f)
+        s = f"## {i}"
     else:
-        print(f"## {i}-{i+step-1}", file=f)
-
+        s = f"## {i}-{i+step-1}"
+    if showThr and threshold > 1:
+        s += f" ({thr+1}/{threshold})"
+    print(s, file=f)
 
 file = args[0]
 while True:
-    writeline(sys.stderr)
+    writeline(sys.stderr, True)
     p = chop(pyperclip.waitForNewPaste().replace("\r\n", "\n")).split("\n")
     print("log?")
     t = chop(pyperclip.waitForNewPaste().replace("\r\n", "\n")).split("\n")
-    # fileに追記
     with open(file, "a", encoding="utf_8") as f:
-        print(file=f)
-        writeline(f)
+        if thr == 0:
+            print(file=f)
+            writeline(f)
         print(file=f)
         for line in p:
             print("    " + line, file=f)
         print(file=f)
         for line in t:
             print(line, file=f)
-    i += step
+    thr += 1
+    if thr == threshold:
+        i += step
+        thr = 0
