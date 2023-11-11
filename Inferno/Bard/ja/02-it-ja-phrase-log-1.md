@@ -1249,6 +1249,8 @@ https://www.gutenberg.org/ebooks/1012
 
 ## 103-105
 
+※ 作業を拒否されるため探りを入れる。
+
     単語を説明してください。
     Disse
 
@@ -1305,6 +1307,35 @@ https://www.gutenberg.org/ebooks/1012
 * **volgare schiera**：俗世、俗世的な生活。
 
 この詩は、ダンテの恋と信仰の深さを表す作品です。
+
+### ChatGPT
+
+※ 回答が不完全なため ChatGPT にも質問。
+
+    数語ごとのフレーズで区切って、日本語で意味を示してください。
+    Disse: - Beatrice, loda di Dio vera,
+    ché non soccorri quei che t'amò tanto,
+    ch'uscì per te de la volgare schiera?
+
+もちろんです。文章を数語ずつ分けて意味を説明します。
+
+1. "Disse:" - 言いました：
+2. "Beatrice," - ベアトリーチェ、
+3. "loda di Dio vera," - 真の神の賛美、
+4. "ché non soccorri" - どうして助けないのか
+5. "quei che t'amò tanto," - あなたをそんなに愛した人を
+6. "ch'uscì per te" - あなたのために出てきた
+7. "de la volgare schiera?" - 一般の群れから？
+
+```
+行ごとに日本語に翻訳してください。
+```
+
+もちろんです。
+
+1. "Disse: - Beatrice, loda di Dio vera," - 言いました: - ベアトリーチェ、真の神の賛美、
+2. "ché non soccorri quei che t'amò tanto," - なぜ、そんなに愛した人を助けないのですか
+3. "ch'uscì per te de la volgare schiera?" - あなたのために一般の群れから出てきた人を？
 
 ## 106-108
 
