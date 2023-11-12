@@ -1680,6 +1680,7 @@ I hope this is helpful. Let me know if you have any other questions.
     Please create a word-by-word table: column 1 for Italian, column 2 for lemma, column 3 for English. Lemma indicates the infinitive or singular form.
     Poscia che m'ebbe ragionato questo,
     li occhi lucenti lagrimando volse,
+    per che mi fece del venir più presto.
 
 | Italiano | Lemma | Inglese |
 |---|---|---|
@@ -1723,6 +1724,7 @@ I hope this is helpful. Let me know if you have any other questions.
     Please create a word-by-word table: column 1 for Italian, column 2 for lemma, column 3 for English. Lemma indicates the infinitive or singular form.
     E venni a te così com'ella volse:
     d'inanzi a quella fiera ti levai
+    che del bel monte il corto andar ti tolse.
 
 | Italiano | Lemma | Inglese |
 |---|---|---|
@@ -1771,6 +1773,7 @@ I hope this is helpful. Let me know if you have any other questions.
     Please create a word-by-word table: column 1 for Italian, column 2 for lemma, column 3 for English. Lemma indicates the infinitive or singular form.
     Dunque: che è perché, perché restai,
     perché tanta viltà nel core allette,
+    perché ardire e franchezza non hai,
 
 | Italiano | Lemma | Inglese |
 |---|---|---|
@@ -1814,6 +1817,7 @@ I hope this is helpful. Let me know if you have any other questions.
     Please create a word-by-word table: column 1 for Italian, column 2 for lemma, column 3 for English. Lemma indicates the infinitive or singular form.
     poscia che tai tre donne benedette
     curan di te ne la corte del cielo,
+    e 'l mio parlar tanto ben ti promette?".
 
 | Italiano | Lemma | Inglese |
 |---|---|---|
@@ -1862,6 +1866,7 @@ I hope this is helpful. Let me know if you have any other questions.
     Please create a word-by-word table: column 1 for Italian, column 2 for lemma, column 3 for English. Lemma indicates the infinitive or singular form.
     Quali fioretti dal notturno gelo
     chinati e chiusi, poi che 'l sol li 'mbianca,
+    si drizzan tutti aperti in loro stelo,
 
 | Italiano | Lemma | Inglese |
 |---|---|---|
@@ -1956,6 +1961,7 @@ I hope this is helpful. Let me know if you have any other questions.
     Please create a word-by-word table: column 1 for Italian, column 2 for lemma, column 3 for English. Lemma indicates the infinitive or singular form.
     "Oh pietosa colei che mi soccorse!
     e te cortese ch'ubidisti tosto
+    a le vere parole che ti porse!
 
 | Italiano | Lemma | English |
 |---|---|---|
@@ -2002,6 +2008,7 @@ I hope this is helpful. Let me know if you have any other questions.
     Please create a word-by-word table: column 1 for Italian, column 2 for lemma, column 3 for English. Lemma indicates the infinitive or singular form.
     Tu m' hai con disiderio il cor disposto
     sì al venir con le parole tue,
+    ch'i' son tornato nel primo proposto.
 
 | Italiano | Lemma | English |
 |---|---|---|
@@ -2047,6 +2054,7 @@ I hope this is helpful. Let me know if you have any other questions.
     Please create a word-by-word table: column 1 for Italian, column 2 for lemma, column 3 for English. Lemma indicates the infinitive or singular form.
     Or va, ch'un sol volere è d'ambedue:
     tu duca, tu segnore e tu maestro".
+    Così li dissi; e poi che mosso fue,
 
 | Italiano | Lemma | English |
 |---|---|---|
