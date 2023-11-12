@@ -1,5 +1,18 @@
 import sys, re
 
+def readlines(file):
+    with open(file, "r") as f:
+        return [line.strip() for line in f]
+
+def replace(s):
+    return s.replace("’", "'").replace("”", '"').replace("“", '"')
+
+def isletter(s):
+    return s.upper() != s.lower()
+
+def islower(s):
+    return isletter(s) and s.lower() == s
+
 def read_table(lines, i):
     ret = []
     type = lines[i][0] == "|"
@@ -51,6 +64,8 @@ def parse(file):
             i -= 2 if t2 else 1
             table, i = read_table(log, i)
             tables.append(table)
+    if tables:
+        ret[n] = tables
     return ret
 
 if __name__ == "__main__":
