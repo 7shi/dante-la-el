@@ -25,6 +25,34 @@ def write_table(table):
     for rows in table:
         print("|", " | ".join(rows), "|")
 
+def chop(s):
+    if s and s[-1] == "\n":
+        s = s[:-1]
+        if s and s[-1] == "\r":
+            s = s[:-1]
+    return s
+
+def parse(file):
+    ret = {}
+    with open(file, "r") as f:
+        log = [line.strip() for line in f]
+    i = 0
+    n = ""
+    tables = []
+    while i < len(log):
+        line = log[i]
+        i += 1
+        if line.startswith("##"):
+            if tables:
+                ret[n] = tables
+            n = line[2:].strip()
+            tables = []
+        elif line.startswith("|") or (t2 := "-|-" in line.replace(" ", "")):
+            i -= 2 if t2 else 1
+            table, i = read_table(log, i)
+            tables.append(table)
+    return ret
+
 if __name__ == "__main__":
     args = sys.argv[1:]
     last = False
@@ -36,36 +64,22 @@ if __name__ == "__main__":
         print(f"Usage: python {sys.argv[0]} [-l] log")
         sys.exit(1)
 
-    with open(args[0], "r") as f:
-        log = [line.strip() for line in f]
-
-    i = 0
-    n = 0
-    tables = []
-    while i < len(log):
-        line = log[i]
-        i += 1
-        if line.startswith("##"):
-            if n:
-                if tables:
-                    for table in tables[-1:] if last else tables:
-                        print()
-                        write_table(table)
-                    if len(tables) != 2:
-                        print(f"[{n}] {len(tables)} tables", file=sys.stderr)
-                else:
-                    print(f"{i}: [{n}] no tables", file=sys.stderr)
-            if m := re.match(r"## (\d+)", line):
-                n = int(m.group(1))
-                if tables:
-                    print()
-                print(f"## {n}")
+    data = parse(args[0])
+    nums = {int(m.group(1)): k for k in data.keys() if (m := re.match("(\d+)", k))}
+    first = True
+    for n in sorted(nums.keys()):
+        k = nums[n]
+        tables = data[k]
+        if tables:
+            if first:
+                first = False
             else:
-                n = 0
-            tables = []
-        elif line.startswith("|") or (t2 := "-|-" in line.replace(" ", "")):
-            i -= 2 if t2 else 1
-            # bak = i + 1
-            table, i = read_table(log, i)
-            if n:
-                tables.append(table)
+                print()
+            print(f"## {k}")
+            for t in tables:
+                print()
+                write_table(t)
+            if len(tables) != 2:
+                print(f"[{k}] {len(tables)} tables", file=sys.stderr)
+        else:
+            print(f"[{k}] no tables", file=sys.stderr)

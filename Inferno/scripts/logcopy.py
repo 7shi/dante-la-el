@@ -14,14 +14,14 @@ while len(args) >= 2:
     elif args[0] == "-t": # sTep
         step = int(args[1])
         args = args[2:]
-    elif args[0] == "-2": # each 2 times
-        threshold = 2
-        args = args[1:]
+    elif args[0] == "-h": # each 2 times
+        threshold = int(args[1])
+        args = args[2:]
     else:
         break
 
 if len(args) != 1:
-    print(f"Usage: python {sys.argv[0]} [-2] [-s start] [-t step] file")
+    print(f"Usage: python {sys.argv[0]} [-s start] [-t step] [-h threshold] file")
     sys.exit(1)
 
 if seek and os.path.exists(args[0]):
@@ -53,9 +53,11 @@ while True:
     p = chop(pyperclip.waitForNewPaste().replace("\r\n", "\n")).split("\n")
     print("log?")
     t = chop(pyperclip.waitForNewPaste().replace("\r\n", "\n")).split("\n")
+    ex = os.path.exists(file)
     with open(file, "a", encoding="utf_8") as f:
         if thr == 0:
-            print(file=f)
+            if ex:
+                print(file=f)
             writeline(f)
         print(file=f)
         for line in p:
