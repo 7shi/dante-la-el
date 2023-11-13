@@ -20,6 +20,14 @@ def isletter(s):
 def islower(s):
     return isletter(s) and s.lower() == s
 
+def strip_word(s):
+    excepts = "'’)"
+    while s and not (isletter(ch := s[0]) or ch in excepts):
+        s = s[1:]
+    while s and not (isletter(ch := s[-1]) or ch in excepts):
+        s = s[:-1]
+    return s
+
 def read_table(lines, i):
     ret = []
     type = lines[i][0] == "|"
@@ -28,13 +36,15 @@ def read_table(lines, i):
         if not line or (type and line[0] != "|") or (not type and not "|" in line):
             break
         i += 1
-        rows = [c.strip() for c in line.split("|")]
+        items = [c.strip() for c in line.split("|")]
         if line[0] == "|":
-            if not rows[0]:
-                rows.pop(0)
-            if not rows[-1]:
-                rows.pop()
-        ret.append(rows)
+            if not items[0]:
+                items.pop(0)
+            if not items[-1]:
+                items.pop()
+        if len(ret) == 1:
+            items = ["---"] * len(items)
+        ret.append(items)
     if len(ret) < 3 or len(ret[1]) == 0 or len(ret[1][0]) < 2 or not ret[1][0].startswith("--"):
         print(f"{i}: table error", file=sys.stderr)
         print(ret, file=sys.stderr)
@@ -42,8 +52,8 @@ def read_table(lines, i):
     return ret, i
 
 def write_table(table):
-    for rows in table:
-        print("|", " | ".join(rows), "|")
+    for items in table:
+        print("|", " | ".join(items), "|")
 
 def parse(file):
     ret = {}

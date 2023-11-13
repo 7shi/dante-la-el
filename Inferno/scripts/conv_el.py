@@ -84,7 +84,7 @@ while i < len(md):
                     print(f"{n} no match" + wd, "|", it1, file=sys.stderr)
                 else:
                     print()
-                    print("<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>")
+                    print("<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</td>")
                     for td in tds:
                         print(td)
                     print("</tr></table>")
