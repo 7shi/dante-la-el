@@ -2,7 +2,7 @@
 1 In the middle of the journey of our life  
 1 Στο μέσο του ταξιδιού της ζωής μας
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Nel<br>in<br>στο</td>
 <td>mezzo<br>middle<br>μέσο</td>
 <td>del<br>of<br>του</td>
@@ -16,7 +16,7 @@
 2 I found myself in a dark forest,  
 2 Βρέθηκα σε μια σκοτεινή ζούγκλα,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>mi<br>I<br>εγώ</td>
 <td>ritrovai<br>found myself<br>βρέθηκα</td>
 <td>per<br>in<br>σε</td>
@@ -29,7 +29,7 @@
 3 because the straight path was lost.  
 3 γιατί η ευθεία διαδρομή ήταν χαμένη.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ché<br>because<br>γιατί</td>
 <td>la<br>the<br>η</td>
 <td>diritta<br>straight<br>ευθεία</td>
@@ -42,7 +42,7 @@
 4 Ah, how hard it is to say what it was  
 4 Αχ, πόσο σκληρό είναι να πεις ποιο ήταν
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Ahi<br>Ah<br>Αχ</td>
 <td>quanto<br>how<br>πόσο</td>
 <td>a<br>to<br>να</td>
@@ -58,7 +58,7 @@
 5 this wild, rough, and strong forest  
 5 αυτή η άγρια, τραχιά και δυνατή ζούγκλα
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>esta<br>this<br>αυτή</td>
 <td>selva<br>forest<br>η ζούγκλα</td>
 <td>selvaggia<br>wild<br>άγρια</td>
@@ -72,7 +72,7 @@
 6 that in my thought renews the fear!  
 6 που στη σκέψη μου ανανεώνει τον φόβο!
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>che<br>that<br>που</td>
 <td>nel<br>in<br>στη</td>
 <td>pensier<br>thought<br>σκέψη</td>
@@ -85,7 +85,7 @@
 7 So bitter is it that death is but a little more bitter;  
 7 Τόσο πικρή είναι που ο θάνατος είναι λίγο πιο πικρός·
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Tant’è<br>So bitter is it<br>Τόσο πικρή είναι</td>
 <td>amara<br>bitter<br>πικρή</td>
 <td>che<br>that<br>που</td>
@@ -99,7 +99,7 @@
 8 But to treat of the good that I found there,  
 8 Αλλά για να μιλήσω για το καλό που βρήκα εκεί,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ma<br>but<br>αλλά</td>
 <td>per<br>to<br>για να</td>
 <td>trattar<br>treat of<br>μιλήσω για</td>
@@ -114,7 +114,7 @@
 9 I will tell of the other things that I saw there.  
 9 θα πω για τις άλλες πράγματα που είδα εκεί.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>dirò<br>I will tell<br>θα πω</td>
 <td>de<br>of<br>για</td>
 <td>l’altre<br>the other<br>τις άλλες</td>
@@ -129,7 +129,7 @@
 10 I cannot well retell how I entered there,  
 10 Δεν μπορώ να πω καλά πώς μπήκα εκεί,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Io<br>I<br>εγώ</td>
 <td>non<br>do not<br>δεν</td>
 <td>so<br>know<br>ξέρω</td>
@@ -145,7 +145,7 @@
 11 so full of sleep was I at that point  
 11 τόσο γεμάτος ύπνο ήμουν εκείνη τη στιγμή
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>tant’<br>so much<br>τόσο</td>
 <td>era<br>was<br>ήταν</td>
 <td>pien<br>full<br>γεμάτος</td>
@@ -160,7 +160,7 @@
 12 that I abandoned the true way.  
 12 που εγκατέλειψα την αληθινή διαδρομή.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>che<br>that<br>που</td>
 <td>la<br>the<br>την</td>
 <td>verace<br>true<br>αληθινή</td>
@@ -172,7 +172,7 @@
 13 But when I had arrived at the foot of a hill,  
 13 Αλλά όταν έφτασα στη βάση ενός λόφου,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Ma<br>But<br>Αλλά</td>
 <td>poi<br>then<br>μετά</td>
 <td>ch’<br>that<br>που</td>
@@ -190,7 +190,7 @@
 14 there where that valley ended  
 14 εκεί όπου τελείωσε αυτή η κοιλάδα
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>là<br>there<br>εκεί</td>
 <td>dove<br>where<br>όπου</td>
 <td>terminava<br>ended<br>τελείωσε</td>
@@ -202,7 +202,7 @@
 15 which had pierced my heart with fear,  
 15 που είχε διαπέρασε την καρδιά μου με φόβο,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>che<br>that<br>που</td>
 <td>m’<br>me<br>εμένα</td>
 <td>avea<br>had<br>είχε</td>
@@ -217,7 +217,7 @@
 16 I looked up and saw his shoulders  
 16 κοίταξα πάνω και είδα τους ώμους του
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>guardai<br>I looked<br>κοίταξα</td>
 <td>in<br>at<br>στο</td>
 <td>alto<br>up<br>πάνω</td>
@@ -232,7 +232,7 @@
 17 dressed already in the rays of the planet  
 17 ντυμένους ήδη στις ακτίνες του πλανήτη
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>vestite<br>dressed<br>ντυμένους</td>
 <td>già<br>already<br>ήδη</td>
 <td>de’<br>of the<br>των</td>
@@ -245,7 +245,7 @@
 18 that leads others straight for every street.  
 18 που οδηγεί τους άλλους ευθεία για κάθε δρόμο.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>che<br>that<br>που</td>
 <td>mena<br>leads<br>οδηγεί</td>
 <td>dritto<br>straight<br>ευθεία</td>
@@ -259,7 +259,7 @@
 19 Then the fear was a little quieted,  
 19 Τότε ο φόβος ηρέμησε λίγο,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Allor<br>Then<br>Τότε</td>
 <td>fu<br>was<br>ήταν</td>
 <td>la<br>the<br>η</td>
@@ -273,7 +273,7 @@
 20 that had lasted in the lake of my heart  
 20 που είχε κρατήσει στη λίμνη της καρδιάς μου
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>che<br>that<br>που</td>
 <td>nel<br>in the<br>στο</td>
 <td>lago<br>lake<br>λίμνη</td>
@@ -288,7 +288,7 @@
 21 the night that I passed with so much pity.  
 21 τη νύχτα που πέρασα με τόση λύπη.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>la<br>the<br>η</td>
 <td>notte<br>night<br>νύχτα</td>
 <td>ch’<br>that<br>που</td>
@@ -303,7 +303,7 @@
 22 And like one who, with weary breath,  
 22 Και όπως αυτός που, με κουρασμένη αναπνοή,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>E<br>And<br>Και</td>
 <td>come<br>like<br>όπως</td>
 <td>quei<br>that<br>αυτός</td>
@@ -317,7 +317,7 @@
 23 having emerged from the sea onto the shore,  
 23 βγήκε από τη θάλασσα στην όχθη,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>uscito<br>gone out<br>βγήκε</td>
 <td>fuor<br>out of<br>έξω από</td>
 <td>del<br>of the<br>του</td>
@@ -331,7 +331,7 @@
 24 turns to the dangerous water and looks at it,  
 24 στρέφεται στο επικίνδυνο νερό και το κοιτάζει,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>si<br>he<br>αυτός</td>
 <td>volge<br>turns<br>στρέφεται</td>
 <td>a<br>to<br>σε</td>
@@ -345,7 +345,7 @@
 25 So my soul, which was still fleeing,  
 25 Έτσι η ψυχή μου, που ακόμα έτρεχε,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>così<br>so<br>έτσι</td>
 <td>l’animo<br>soul<br>η ψυχή</td>
 <td>mio<br>my<br>μου</td>
@@ -357,7 +357,7 @@
 26 turned back to look at the step  
 26 γύρισε πίσω για να κοιτάξει το βήμα
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>si<br>he<br>αυτός</td>
 <td>volse<br>turned<br>γύρισε</td>
 <td>a<br>to<br>σε</td>
@@ -372,7 +372,7 @@
 27 that never left anyone alive.  
 27 που δεν άφησε ποτέ κανέναν ζωντανό.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>che<br>that<br>που</td>
 <td>non<br>not<br>δεν</td>
 <td>lasciò<br>left<br>άφησε</td>
@@ -386,7 +386,7 @@
 28 Then, after I had rested my weary body a little,  
 28 Τότε, αφού ξεκουράστηκα λίγο το κουρασμένο μου σώμα,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Poi<br>Then<br>Τότε</td>
 <td>ch’èi<br>that I had<br>που είχα</td>
 <td>posato<br>rested<br>ξεκούραση</td>
@@ -401,7 +401,7 @@
 29 I set out again along the deserted shore,  
 29 ξανάρχισα το δρόμο μου κατά μήκος της ερημικής ακτής,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ripresi<br>I took<br>πήρα</td>
 <td>via<br>way<br>δρόμο</td>
 <td>per<br>for<br>για</td>
@@ -414,7 +414,7 @@
 30 so that the foot that was planted was always the lowest.  
 30 έτσι που το πόδι που ήταν σταθερό ήταν πάντα το χαμηλότερο.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>sì<br>so<br>έτσι</td>
 <td>che<br>that<br>που</td>
 <td>’l<br>the<br>το</td>
@@ -431,7 +431,7 @@
 31 And behold, almost at the beginning of the steep ascent,  
 31 Και ιδού, σχεδόν στην αρχή της απότομης ανάβασης,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Ed<br>And<br>Και</td>
 <td>ecco<br>behold<br>ιδού</td>
 <td>quasi<br>almost<br>σχεδόν</td>
@@ -445,7 +445,7 @@
 32 a light and very swift leopard,  
 32 μια ελαφριά και πολύ γρήγορη λεοπάρδαλη,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>una<br>a<br>μια</td>
 <td>lonza<br>leopard<br>λεοπάρδαλη</td>
 <td>leggera<br>light<br>ελαφριά</td>
@@ -458,7 +458,7 @@
 33 that was covered with spotted fur;  
 33 που ήταν καλυμμένη με στίγματα τρίχωμα·
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>che<br>that<br>που</td>
 <td>di<br>of<br>από</td>
 <td>pel<br>fur<br>τρίχωμα</td>
@@ -471,7 +471,7 @@
 34 and did not part from before my face,  
 34 και δεν απομακρύνθηκε από μπροστά από το πρόσωπό μου,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>e<br>and<br>και</td>
 <td>non<br>not<br>όχι</td>
 <td>mi<br>me<br>εμένα</td>
@@ -486,7 +486,7 @@
 35 rather, it so hindered my journey,  
 35 μάλλον, εμπόδιζε τόσο το ταξίδι μου,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>anzi<br>rather<br>μάλλον</td>
 <td>’mpediva<br>prevented<br>εμπόδιζε</td>
 <td>tanto<br>so much<br>τόσο</td>
@@ -499,7 +499,7 @@
 36 that I was about to turn back many times.  
 36 που ήμουν έτοιμος να γυρίσω πίσω πολλές φορές.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ch’i’<br>that I<br>που</td>
 <td>fui<br>was<br>ήμουν</td>
 <td>per<br>to<br>για να</td>
@@ -513,7 +513,7 @@
 37 It was the beginning of the morning,  
 37 Ήταν η αρχή του πρωινού,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Temp’era<br>It was<br>Ήταν</td>
 <td>dal<br>from<br>από</td>
 <td>principio<br>beginning<br>αρχή</td>
@@ -525,7 +525,7 @@
 38 and the sun was rising with those stars  
 38 και ο ήλιος ανέβαινε με εκείνα τα αστέρια
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>e<br>and<br>και</td>
 <td>’l<br>the<br>το</td>
 <td>sol<br>sun<br>ήλιο</td>
@@ -541,7 +541,7 @@
 39 that were with him when the divine love  
 39 που ήταν μαζί του όταν η θεϊκή αγάπη
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ch’eran<br>that were<br>που ήταν</td>
 <td>con<br>with<br>με</td>
 <td>lui<br>him<br>αυτόν</td>
@@ -554,7 +554,7 @@
 40 moved first those beautiful things;  
 40 κίνησε πρώτα εκείνα τα όμορφα πράγματα·
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>mosse<br>moved<br>κίνησε</td>
 <td>di<br>from<br>από</td>
 <td>prima<br>first<br>πρώτα</td>
@@ -567,7 +567,7 @@
 41 so that it was a reason for me to hope well  
 41 έτσι που ήταν ένας λόγος για μένα να ελπίζω καλά
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>sì<br>so<br>έτσι</td>
 <td>ch’a<br>that<br>που</td>
 <td>bene<br>good<br>καλό</td>
@@ -580,7 +580,7 @@
 42 of that beast with the cheerful fur  
 42 από εκείνο το θηρίο με το χαρούμενο τρίχωμα
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>di<br>of<br>από</td>
 <td>quella<br>that<br>εκείνη</td>
 <td>fiera<br>beast<br>θηρίο</td>
@@ -594,7 +594,7 @@
 43 the hour of time and the sweet season;  
 43 την ώρα του χρόνου και την γλυκιά εποχή·
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>l'ora<br>the hour<br>την ώρα</td>
 <td>del<br>of the<br>της</td>
 <td>tempo<br>time<br>χρόνου</td>
@@ -608,7 +608,7 @@
 44 but not so that it did not give me fear  
 44 αλλά όχι τόσο που δεν μου έδωσε φόβο
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ma<br>but<br>αλλά</td>
 <td>non<br>not<br>όχι</td>
 <td>sì<br>so<br>τόσο</td>
@@ -623,7 +623,7 @@
 45 the sight of a lion that appeared to me.  
 45 η θέα ενός λιονταριού που μου φάνηκε.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>la<br>the<br>την</td>
 <td>vista<br>sight<br>θέα</td>
 <td>che<br>that<br>που</td>
@@ -636,7 +636,7 @@
 46 This seemed to be coming against me  
 46 Αυτό φαινόταν να έρχεται εναντίον μου
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Questi<br>this<br>αυτός</td>
 <td>parea<br>seemed<br>φαινόταν</td>
 <td>che<br>that<br>ότι</td>
@@ -649,7 +649,7 @@
 47 with a high head and with rabid hunger,  
 47 με υψηλό κεφάλι και με λυσσαλέα πείνα,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>con<br>with<br>με</td>
 <td>la<br>the<br>την</td>
 <td>test’alta<br>high head<br>υψηλό κεφάλι</td>
@@ -663,7 +663,7 @@
 48 so that it seemed that the air trembled of it.  
 48 έτσι ώστε φαινόταν ότι ο αέρας έτρεμε από αυτό.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>sì<br>so<br>έτσι ώστε</td>
 <td>che<br>that<br>ώστε</td>
 <td>parea<br>seemed<br>φαινόταν</td>
@@ -677,7 +677,7 @@
 49 And a she-wolf, laden with all desires  
 49 Και μια λύκαινα, φορτωμένη με όλες τις επιθυμίες
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Ed<br>And<br>Και</td>
 <td>una<br>a<br>μια</td>
 <td>lupa<br>she-wolf<br>λύκαινα</td>
@@ -691,7 +691,7 @@
 50 seemed in its thinness,  
 50 φαινόταν στη τη αδυναμία της,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>sembiava<br>seemed<br>φαινόταν</td>
 <td>carca<br>laden<br>φορτωμένη</td>
 <td>ne la<br>in its<br>στη</td>
@@ -703,7 +703,7 @@
 51 and had already made many people live miserably,  
 51 και είχε ήδη κάνει πολλούς ανθρώπους να ζουν άθλιους,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>e<br>and<br>και</td>
 <td>molte<br>many<br>πολλές</td>
 <td>genti<br>people<br>ανθρώπους</td>
@@ -717,7 +717,7 @@
 52 this gave me so much weight  
 52 αυτή μου έδωσε τόσο βάρος
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>questa<br>this<br>αυτή</td>
 <td>mi<br>me<br>εμένα</td>
 <td>porse<br>gave<br>έδωσε</td>
@@ -730,7 +730,7 @@
 53 with the fear that came out of her sight,  
 53 με τον φόβο που βγήκε από τη δική της όραση,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>con<br>with<br>με</td>
 <td>la<br>the<br>τη</td>
 <td>paura<br>fear<br>φόβο</td>
@@ -744,7 +744,7 @@
 54 that I lost the hope of the height.  
 54 που έχασα την ελπίδα του ύψους.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ch’io<br>that I<br>που εγώ</td>
 <td>perdei<br>lost<br>έχασα</td>
 <td>la<br>the<br>τη</td>
@@ -757,7 +757,7 @@
 55 And such is he who willingly acquires,  
 55 Και τέτοιος είναι αυτός που πρόθυμα αποκτά,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>E<br>And<br>Και</td>
 <td>qual<br>which<br>ποιος</td>
 <td>è<br>is<br>είναι</td>
@@ -771,7 +771,7 @@
 56 and the time comes that makes him lose it,  
 56 και έρχεται ο χρόνος που το κάνει να το χάσει,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>e<br>and<br>και</td>
 <td>giugne<br>reaches<br>φτάνει</td>
 <td>’l<br>the<br>τον</td>
@@ -786,7 +786,7 @@
 57 that in all his thoughts he cries and saddens;  
 57 που σε όλες τις σκέψεις του κλαίει και λυπάται·
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>che<br>that<br>που</td>
 <td>’n<br>in<br>σε</td>
 <td>tutti<br>all<br>όλους</td>
@@ -801,7 +801,7 @@
 58 such did the beast without peace make me,  
 58 τέτοιο έκανε το θηρίο χωρίς ειρήνη εμένα,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>tal<br>such<br>τέτοιο</td>
 <td>mi<br>me<br>εμένα</td>
 <td>fece<br>made<br>έκανε</td>
@@ -815,7 +815,7 @@
 59 that, coming towards me, little by little  
 59 που, ερχόμενος προς μένα, λίγο λίγο
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>che<br>that<br>που</td>
 <td>venendomi<br>coming to me<br>ερχόμενος σε μένα</td>
 <td>’ncontro<br>towards<br>προς</td>
@@ -829,7 +829,7 @@
 60 pushed me back to where the sun is silent.  
 60 με έσπρωξε πίσω εκεί όπου ο ήλιος σιωπά.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>mi<br>me<br>εμένα</td>
 <td>ripigneva<br>pushed back<br>έσπρωξε πίσω</td>
 <td>là<br>there<br>εκεί</td>
@@ -843,7 +843,7 @@
 61 While I was falling into a low place,  
 61 Ενώ έπεφτα σε ένα χαμηλό μέρος,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Mentre<br>While<br>Ενώ</td>
 <td>ch’i’<br>I<br>εγώ</td>
 <td>rovinava<br>was falling<br>έπεφτα</td>
@@ -856,7 +856,7 @@
 62 before my eyes was offered  
 62 μπροστά στα μάτια μου προσφέρθηκε
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>dinanzi<br>before<br>μπροστά</td>
 <td>a<br>to<br>στα</td>
 <td>li<br>the<br>τα</td>
@@ -871,7 +871,7 @@
 63 he who for long silence seemed weak.  
 63 αυτός που για μακρά σιωπή φαινόταν αδύναμος.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>chi<br>he who<br>αυτός που</td>
 <td>per<br>for<br>για</td>
 <td>lungo<br>long<br>μακρύ</td>
@@ -884,7 +884,7 @@
 64 When I saw this one in the great desert,  
 64 Όταν είδα αυτόν στο μεγάλο έρημο,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Quando<br>When<br>Όταν</td>
 <td>vidi<br>I saw<br>είδα</td>
 <td>costui<br>this one<br>αυτόν</td>
@@ -897,7 +897,7 @@
 65 "Have mercy on me", I shouted to him,  
 65 "Ελέησέ με", φώναξα στον αυτόν,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Miserere di me<br>Have mercy on me<br>Ελέησέ με</td>
 <td>gridai<br>I shouted<br>φώναξα</td>
 <td>a<br>to<br>στον</td>
@@ -908,7 +908,7 @@
 66 "whoever you are, or shadow or certain man!"  
 66 "όποιος και αν είσαι, ή σκιά ή σίγουρος άνθρωπος!"
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>qual che tu sii<br>whoever you are<br>όποιος και αν είσαι</td>
 <td>od<br>or<br>ή</td>
 <td>ombra<br>shadow<br>σκιά</td>
@@ -921,7 +921,7 @@
 67 He answered me: "Not man, I was once a man,  
 67 Μου απάντησε: "Δεν είμαι άνθρωπος, ήμουν κάποτε άνθρωπος,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Rispuosemi<br>He answered me<br>Μου απάντησε</td>
 <td>Non omo<br>Not man<br>Δεν είμαι άνθρωπος</td>
 <td>omo già fui<br>I was once a man<br>Ήμουν κάποτε άνθρωπος</td>
@@ -931,7 +931,7 @@
 68 and my parents were Lombards,  
 68 και οι γονείς μου ήταν Λομβαρδοί,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>e<br>and<br>και</td>
 <td>li<br>the<br>οι</td>
 <td>parenti<br>parents<br>γονείς</td>
@@ -944,7 +944,7 @@
 69 Mantuans by homeland both.  
 69 Μαντουάνοι και οι δύο από την πατρίδα τους.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>mantoani<br>Mantuans<br>Μαντουάνοι</td>
 <td>per<br>for<br>για</td>
 <td>patrïa<br>homeland<br>πατρίδα</td>
@@ -955,7 +955,7 @@
 70 I was born under Julius, even though it was late,  
 70 Γεννήθηκα υπό τον Ιούλιο, ακόμα κι αν ήταν αργά,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Nacqui<br>I was born<br>Γεννήθηκα</td>
 <td>sub<br>under<br>υπό</td>
 <td>Iulio<br>Julius<br>Ιουλίου</td>
@@ -969,7 +969,7 @@
 71 and I lived in Rome under the good Augustus  
 71 και έζησα στη Ρώμη υπό τον καλό Αύγουστο
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>e<br>and<br>και</td>
 <td>vissi<br>I lived<br>έζησα</td>
 <td>a<br>in<br>στην</td>
@@ -984,7 +984,7 @@
 72 in the time of the false and lying gods.  
 72 στον καιρό των ψευδών και ψεύτικων θεών.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>nel<br>in<br>στο</td>
 <td>tempo<br>time<br>χρόνο</td>
 <td>de<br>of<br>των</td>
@@ -999,7 +999,7 @@
 73 I was a poet, and I sang of that just  
 73 Ήμουν ποιητής, και έψαξα γι' αυτόν τον δίκαιο
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Poeta<br>Poet<br>Ποιητής</td>
 <td>fui<br>I was<br>ήμουν</td>
 <td>e<br>and<br>και</td>
@@ -1012,7 +1012,7 @@
 74 son of Anchises who came from Troy,  
 74 γιο του Άγχίσου που ήρθε από την Τροία,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>figliuol<br>son of<br>γιου</td>
 <td>d’Anchise<br>of Anchises<br>του Άγχίσου</td>
 <td>che<br>who<br>που</td>
@@ -1024,7 +1024,7 @@
 75 after the proud Ilium was burned.  
 75 αφού το υπερήφανο Ιλιον κάηκε.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>poi<br>then<br>τότε</td>
 <td>che<br>that<br>που</td>
 <td>’l<br>the<br>τον</td>
@@ -1038,7 +1038,7 @@
 76 But why do you return to so much boredom?  
 76 Αλλά γιατί επιστρέφεις σε τόσο πλήξη;
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Ma<br>But<br>Αλλά</td>
 <td>tu<br>you<br>εσύ</td>
 <td>perché<br>why<br>γιατί</td>
@@ -1052,7 +1052,7 @@
 77 why don't you climb the delightful mountain  
 77 γιατί δεν ανεβαίνεις στο ευχάριστο βουνό
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>perché<br>why<br>γιατί</td>
 <td>non<br>not<br>όχι</td>
 <td>sali<br>you climb<br>ανεβαίνεις</td>
@@ -1065,7 +1065,7 @@
 78 that is the beginning and cause of all joy?"  
 78 που είναι η αρχή και η αιτία όλης της χαράς;"
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ch’è<br>that is<br>που είναι</td>
 <td>principio<br>beginning<br>αρχή</td>
 <td>e<br>and<br>και</td>
@@ -1079,7 +1079,7 @@
 79 "Now are you that Virgil and that source  
 79 "Τώρα είσαι εκείνος ο Βιργίλιος και εκείνη η πηγή
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Or<br>Now<br>Τώρα</td>
 <td>se’<br>are you<br>είσαι</td>
 <td>tu<br>you<br>εσύ</td>
@@ -1094,7 +1094,7 @@
 80 that you spread of speaking so wide a river?",  
 80 που απλώνεις του να μιλάς τόσο πλατύ ποτάμι;",
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>che<br>that<br>που</td>
 <td>spandi<br>you spread<br>απλώνεις</td>
 <td>di<br>of<br>του</td>
@@ -1108,7 +1108,7 @@
 81 I answered him with ashamed face.  
 81 Απάντησα σε αυτόν με ντροπιασμένο μέτωπο.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>rispuos’io<br>I answered<br>απάντησα</td>
 <td>lui<br>him<br>σε αυτόν</td>
 <td>con<br>with<br>με</td>
@@ -1120,7 +1120,7 @@
 82 "O honor and light of the other poets,  
 82 "Ω τιμή και φως των άλλων ποιητών,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>O<br>O<br>Ω</td>
 <td>de<br>of<br>των</td>
 <td>li<br>the<br>των</td>
@@ -1135,7 +1135,7 @@
 83 May the long study and great love  
 83 Να με βοηθήσει το μακρύ μελέτη και η μεγάλη αγάπη
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>vagliami<br>help me<br>βοήθησέ με</td>
 <td>’l<br>the<br>το</td>
 <td>lungo<br>long<br>μακρύ</td>
@@ -1150,7 +1150,7 @@
 84 that has made me seek your volume.  
 84 που με έκανε να αναζητήσω τον τόμο σου.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>che<br>that<br>που</td>
 <td>m’<br>me<br>με</td>
 <td>ha<br>has<br>έχει</td>
@@ -1165,7 +1165,7 @@
 85 You are my teacher and my author,  
 85 Εσύ είσαι ο δάσκαλός μου και ο συγγραφέας μου,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Tu<br>You<br>Εσύ</td>
 <td>se’<br>are<br>είσαι</td>
 <td>lo<br>the<br>το</td>
@@ -1181,7 +1181,7 @@
 86 You are the only one from whom I took  
 86 Εσύ είσαι ο μόνος από τον οποίο πήρα
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>tu<br>you<br>εσύ</td>
 <td>se’<br>are<br>είσαι</td>
 <td>solo<br>only<br>μόνο</td>
@@ -1196,7 +1196,7 @@
 87 the beautiful style that has honored me.  
 87 το όμορφο στυλ που με έκανε να νιώσω τιμή.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>lo<br>the<br>το</td>
 <td>bello<br>beautiful<br>όμορφο</td>
 <td>stilo<br>style<br>στυλ</td>
@@ -1211,7 +1211,7 @@
 88 See the beast for whom I turned;  
 88 Δες το θηρίο για το οποίο γύρισα·
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Vedi<br>See<br>Δες</td>
 <td>la<br>the<br>τη</td>
 <td>bestia<br>beast<br>θηρίο</td>
@@ -1226,7 +1226,7 @@
 89 Help me from her, famous wise man,  
 89 Βοήθησέ με από αυτήν, διάσημο σοφό,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>aiutami<br>help me<br>βοήθησέ με</td>
 <td>da<br>from<br>από</td>
 <td>lei<br>her<br>αυτήν</td>
@@ -1238,7 +1238,7 @@
 90 that she makes my veins and wrists tremble."  
 90 που εκείνη κάνει τις φλέβες και τους καρπούς μου να τρέμουν."
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ch’ella<br>that she<br>που εκείνη</td>
 <td>mi<br>me<br>με</td>
 <td>fa<br>makes<br>κάνει</td>
@@ -1254,7 +1254,7 @@
 91 "It is necessary for you to keep another journey",  
 91 "Είναι απαραίτητο για εσένα να κρατήσεις άλλο ταξίδι",
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>A<br>To<br>Σε</td>
 <td>te<br>you<br>εσένα</td>
 <td>convien<br>it is necessary<br>είναι απαραίτητο</td>
@@ -1267,7 +1267,7 @@
 92 he replied, then that he saw me crying,  
 92 απάντησε, τότε που με είδε να κλαίω,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>rispuose<br>he replied<br>απάντησε</td>
 <td>poi<br>then<br>τότε</td>
 <td>che<br>that<br>που</td>
@@ -1280,7 +1280,7 @@
 93 "if you want to escape from this wild place;  
 93 "αν θέλεις να γλιτώσεις από αυτό το άγριο μέρος·
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>"se<br>if<br>αν</td>
 <td>vuo’<br>you want<br>θέλεις</td>
 <td>campar<br>to escape<br>να γλιτώσεις</td>
@@ -1293,7 +1293,7 @@
 94 because this beast, for which you cry,  
 94 επειδή αυτό το θηρίο, για το οποίο φωνάζεις,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ché<br>because<br>επειδή</td>
 <td>questa<br>this<br>αυτή</td>
 <td>bestia<br>beast<br>θηρίο</td>
@@ -1308,7 +1308,7 @@
 95 does not allow others to pass by its way,  
 95 δεν επιτρέπει σε άλλους να περάσουν από την οδό του,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>non<br>not<br>δεν</td>
 <td>lascia<br>leaves<br>αφήνει</td>
 <td>altrui<br>others<br>άλλους</td>
@@ -1323,7 +1323,7 @@
 96 but so much it impedes him that it kills him;  
 96 αλλά τόσο πολύ τον εμποδίζει που τον σκοτώνει·
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ma<br>but<br>αλλά</td>
 <td>tanto<br>so much<br>τόσο</td>
 <td>lo<br>him<br>τον</td>
@@ -1336,7 +1336,7 @@
 97 and has a nature so malicious and wicked,  
 97 και έχει μια φύση τόσο κακεντρεχή και πονηρή,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>e<br>and<br>και</td>
 <td>ha<br>has<br>έχει</td>
 <td>natura<br>nature<br>φύση</td>
@@ -1350,7 +1350,7 @@
 98 that never fills the greedy desire,  
 98 που ποτέ δεν γεμίζει την άπληστη επιθυμία,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>che<br>that<br>που</td>
 <td>mai<br>never<br>ποτέ</td>
 <td>non<br>not<br>δεν</td>
@@ -1364,7 +1364,7 @@
 99 and after the meal has more hunger than before.  
 99 και μετά το γεύμα έχει περισσότερη πείνα από πριν.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>e<br>and<br>και</td>
 <td>dopo<br>after<br>μετά</td>
 <td>’l<br>the<br>το</td>
@@ -1380,7 +1380,7 @@
 100 Many are the animals to which she marries,  
 100 Πολλοί είναι τα ζώα με τα οποία παντρεύεται,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Molti<br>many<br>πολλοί</td>
 <td>son<br>are<br>είναι</td>
 <td>li<br>the<br>οι</td>
@@ -1394,7 +1394,7 @@
 101 and more will still be, until the greyhound  
 101 και περισσότεροι θα είναι ακόμα, μέχρι το λυκόσκυλο
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>e<br>and<br>και</td>
 <td>più<br>more<br>περισσότεροι</td>
 <td>saranno<br>will be<br>θα είναι</td>
@@ -1409,7 +1409,7 @@
 102 will come, that will make her die with sorrow.  
 102 θα έρθει, που θα την κάνει να πεθάνει με θλίψη.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>verrà<br>will come<br>θα έρθει</td>
 <td>che<br>that<br>που</td>
 <td>la<br>her<br>τη</td>
@@ -1423,7 +1423,7 @@
 103 This one will not eat earth nor pewter,  
 103 Αυτός δεν θα τρώει γη ούτε κασσίτερο,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Questi<br>This one<br>Αυτός</td>
 <td>non<br>not<br>δεν</td>
 <td>ciberà<br>will eat<br>θα τρώει</td>
@@ -1436,7 +1436,7 @@
 104 but wisdom, love and virtue,  
 104 αλλά σοφία, αγάπη και αρετή,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ma<br>but<br>αλλά</td>
 <td>sapïenza<br>wisdom<br>σοφία</td>
 <td>amore<br>love<br>αγάπη</td>
@@ -1448,7 +1448,7 @@
 105 and his nation will be between felt and felt.  
 105 και η χώρα του θα είναι ανάμεσα σε feltro και feltro.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>e<br>and<br>και</td>
 <td>sua<br>his<br>τη</td>
 <td>nazion<br>nation<br>χώρα</td>
@@ -1463,7 +1463,7 @@
 106 Of that humble Italy will be health  
 106 Από αυτή την ταπεινή Ιταλία θα έρθει η υγεία
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Di<br>of<br>από</td>
 <td>quella<br>that<br>αυτή</td>
 <td>umile<br>humble<br>ταπεινή</td>
@@ -1476,7 +1476,7 @@
 107 for which died the virgin Camilla,  
 107 για την οποία πέθανε η παρθένος Καλλιρρόη,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>per<br>for<br>για</td>
 <td>cui<br>which<br>την οποία</td>
 <td>morì<br>died<br>πέθανε</td>
@@ -1489,7 +1489,7 @@
 108 Euryalus and Turnus and Nisus of wounds.  
 108 Ευρυάλας και Τυρνό και Νίσος από πληγές.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Eurialo<br>Euryalus<br>Ευρυάλας</td>
 <td>e<br>and<br>και</td>
 <td>Turno<br>Turnus<br>Τυρνό</td>
@@ -1503,7 +1503,7 @@
 109 This one will chase her through every town,  
 109 Αυτός θα κυνηγήσει τη ζήλια μέσα από κάθε πόλη,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Questi<br>This one<br>Αυτός</td>
 <td>la<br>her<br>τη</td>
 <td>caccerà<br>will chase<br>θα κυνηγήσει</td>
@@ -1516,7 +1516,7 @@
 110 until he will have returned her to hell,  
 110 μέχρι να την έχει επιστρέψει στον Άδη,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>fin<br>until<br>μέχρι</td>
 <td>che<br>that<br>που</td>
 <td>l’avrà<br>he will have<br>θα έχει</td>
@@ -1529,7 +1529,7 @@
 111 there from whence envy first separated her.  
 111 εκεί από όπου η ζήλια την είχε αποχωρίσει πρώτα.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>là<br>there<br>εκεί</td>
 <td>onde<br>from<br>από</td>
 <td>’nvidia<br>envy<br>η ζήλια</td>
@@ -1541,7 +1541,7 @@
 112 Therefore I think and discern for your good,  
 112 Επομένως σκέφτομαι και διακρίνω για το καλό σου,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Ond’<br>Therefore<br>Επομένως</td>
 <td>io<br>I<br>εγώ</td>
 <td>per<br>for<br>για</td>
@@ -1557,7 +1557,7 @@
 113 that you follow me, and I will be your guide,  
 113 ότι με ακολουθείς, και εγώ θα είμαι ο οδηγός σου,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>che<br>that<br>ότι</td>
 <td>tu<br>you<br>εσύ</td>
 <td>mi<br>me<br>με</td>
@@ -1573,7 +1573,7 @@
 114 and I will lead you from here to an eternal place;  
 114 και θα σε οδηγήσω από εδώ σε έναν αιώνιο τόπο·
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>e<br>and<br>και</td>
 <td>trarrotti<br>will lead you<br>θα σε οδηγήσω</td>
 <td>di<br>from<br>από</td>
@@ -1587,7 +1587,7 @@
 115 where you will hear the desperate cries,  
 115 όπου θα ακούσεις τις απελπισμένες κραυγές,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ove<br>where<br>όπου</td>
 <td>udirai<br>you will hear<br>θα ακούσεις</td>
 <td>le<br>the<br>τις</td>
@@ -1599,7 +1599,7 @@
 116 you will see the ancient grieving spirits,  
 116 θα δεις τα αρχαία πενθούντα πνεύματα,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>vedrai<br>you will see<br>θα δεις</td>
 <td>li<br>the<br>τους</td>
 <td>antichi<br>ancient<br>αρχαίους</td>
@@ -1611,7 +1611,7 @@
 117 who each cry to the second death;  
 117 που καθένας κραυγάζει για τον δεύτερο θάνατο·
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ch’a<br>who<br>που</td>
 <td>la<br>the<br>τη</td>
 <td>seconda<br>second<br>δεύτερη</td>
@@ -1624,7 +1624,7 @@
 118 and you will see people who are content  
 118 και θα δεις ανθρώπους που είναι ικανοποιημένοι
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>e<br>and<br>και</td>
 <td>vederai<br>you will see<br>θα δεις</td>
 <td>color<br>people<br>ανθρώπους</td>
@@ -1637,7 +1637,7 @@
 119 in the fire, because they hope to come  
 119 στη φωτιά, επειδή ελπίζουν να έρθουν
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>nel<br>in<br>στο</td>
 <td>foco<br>fire<br>φωτιά</td>
 <td>perché<br>because<br>επειδή</td>
@@ -1650,7 +1650,7 @@
 120 when they will come to the blessed people.  
 120 όταν θα έρθουν στις ευλογημένες ανθρώπους.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>quando<br>when<br>όταν</td>
 <td>che<br>that<br>που</td>
 <td>sia<br>is<br>είναι</td>
@@ -1664,7 +1664,7 @@
 121 To which, then, if you will want to ascend,  
 121 Στο οποίο, τότε, αν θέλεις να ανεβείς,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>A<br>To<br>Στο</td>
 <td>le<br>the<br>τις</td>
 <td>quai<br>which<br>τις οποίες</td>
@@ -1679,7 +1679,7 @@
 122 a soul will be more worthy of this than I am:  
 122 μια ψυχή θα είναι πιο αξιόλογη αυτό από εμένα·
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>anima<br>soul<br>ψυχή</td>
 <td>fia<br>will be<br>θα είναι</td>
 <td>a<br>to<br>σε</td>
@@ -1694,7 +1694,7 @@
 123 I will leave you with her at my departure;  
 123 Θα σε αφήσω μαζί της στην αναχώρησή μου·
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>con<br>with<br>με</td>
 <td>lei<br>her<br>αυτήν</td>
 <td>ti<br>you<br>εσένα</td>
@@ -1708,7 +1708,7 @@
 124 because that emperor who reigns there,  
 124 επειδή αυτός ο αυτοκράτορας που βασιλεύει εκεί,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>ché<br>because<br>επειδή</td>
 <td>quello<br>that<br>αυτός</td>
 <td>imperador<br>emperor<br>αυτοκράτορας</td>
@@ -1722,7 +1722,7 @@
 125 because I was rebellious to his law,  
 125 επειδή εγώ ήμουν επαναστατικός απέναντι στη δική του νομοθεσία,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>perch’i’<br>because I<br>επειδή εγώ</td>
 <td>fu’<br>was<br>ήμουν</td>
 <td>ribellante<br>rebellious<br>επαναστατικός</td>
@@ -1736,7 +1736,7 @@
 126 does not want that one comes to his city for me.  
 126 δεν θέλει να έρθει κανείς στην πόλη του για μένα.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>non vuol<br>does not want<br>δεν θέλει</td>
 <td>che<br>that<br>ότι</td>
 <td>’n<br>in<br>στο</td>
@@ -1751,7 +1751,7 @@
 127 In all parts he reigns and there he rules;  
 127 Σε όλα τα μέρη βασιλεύει και εκεί κυβερνά·
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>In<br>In<br>Σε</td>
 <td>tutte<br>all<br>όλες</td>
 <td>parti<br>parts<br>μέρη</td>
@@ -1765,7 +1765,7 @@
 128 there is his city and the high throne:  
 128 εκεί είναι η πόλη του και ο υψηλός θρόνος:
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>quivi<br>there<br>εκεί</td>
 <td>è<br>is<br>είναι</td>
 <td>la<br>the<br>η</td>
@@ -1780,7 +1780,7 @@
 129 oh happy he whom he elects there!"  
 129 ω ευτυχισμένος εκείνος τον οποίο εκλέγει εκεί!"
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>oh<br>oh<br>ω</td>
 <td>felice<br>happy<br>ευτυχισμένος</td>
 <td>colui<br>he<br>αυτός</td>
@@ -1793,7 +1793,7 @@
 130 And I to him: "Poet, I beseech you  
 130 Και εγώ σε αυτόν: "Ποιητή, σε παρακαλώ
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>E<br>And<br>Και</td>
 <td>io<br>I<br>εγώ</td>
 <td>a<br>to<br>σε</td>
@@ -1808,7 +1808,7 @@
 131 for that God whom you did not know,  
 131 για αυτόν τον Θεό που δεν γνώρισες,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>per<br>for<br>για</td>
 <td>quello<br>that<br>αυτόν</td>
 <td>Dio<br>God<br>τον Θεό</td>
@@ -1822,7 +1822,7 @@
 132 so that I may flee this evil and worse,  
 132 για να δραπετεύσω από αυτό το κακό και χειρότερο,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>acciò<br>so that<br>για να</td>
 <td>ch’io<br>that I<br>για να</td>
 <td>fugga<br>flee<br>δραπετεύσω</td>
@@ -1836,7 +1836,7 @@
 133 that you lead me there where you just said,  
 133 ότι εσύ με οδηγείς εκεί όπου τώρα είπες,
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>che<br>that<br>ότι</td>
 <td>tu<br>you<br>εσύ</td>
 <td>mi<br>me<br>με</td>
@@ -1850,7 +1850,7 @@
 134 yes so that I may see the gate of Saint Peter  
 134 ναι για να δω την πύλη του αγίου Πέτρου
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>sì<br>yes<br>ναι</td>
 <td>ch’io<br>that I<br>για να</td>
 <td>veggia<br>may see<br>δω</td>
@@ -1865,7 +1865,7 @@
 135 and those whom you make so sad."  
 135 και εκείνους τους οποίους εσύ κάνεις τόσο πολύ λυπημένους."
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>e<br>and<br>και</td>
 <td>color<br>those<br>εκείνους</td>
 <td>cui<br>whom<br>τους οποίους</td>
@@ -1879,7 +1879,7 @@
 136 Then he moved, and I kept behind him.  
 136 Τότε αυτός κινήθηκε, και εγώ κράτησα πίσω του.
 
-<table><tr><td>Italian:<br>English:<br>Modern Greek:</td>
+<table><tr><td><b>Italian:<br>English:<br>Modern Greek:</b></td>
 <td>Allor<br>Then<br>Τότε</td>
 <td>si<br>he<br>αυτός</td>
 <td>mosse<br>moved<br>κινήθηκε</td>
