@@ -64,7 +64,10 @@ while True:
             print("    " + line, file=f)
         print(file=f)
         for line in t:
-            print(line, file=f)
+            if m := re.match(r"#+(.*)", line):
+                print("**", m.group(1).strip(), "**" ,sep="", file=f)
+            else:
+                print(line, file=f)
     thr += 1
     if thr == threshold:
         i += step

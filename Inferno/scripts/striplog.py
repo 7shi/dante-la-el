@@ -1,8 +1,15 @@
 import sys, re
 
+def chop(s):
+    if s and s[-1] == "\n":
+        s = s[:-1]
+        if s and s[-1] == "\r":
+            s = s[:-1]
+    return s
+
 def readlines(file):
     with open(file, "r") as f:
-        return [line.strip() for line in f]
+        return [chop(line) for line in f]
 
 def replace(s):
     return s.replace("’", "'").replace("”", '"').replace("“", '"')
@@ -37,13 +44,6 @@ def read_table(lines, i):
 def write_table(table):
     for rows in table:
         print("|", " | ".join(rows), "|")
-
-def chop(s):
-    if s and s[-1] == "\n":
-        s = s[:-1]
-        if s and s[-1] == "\r":
-            s = s[:-1]
-    return s
 
 def parse(file):
     ret = {}
