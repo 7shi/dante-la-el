@@ -18,13 +18,13 @@ while line:
         print(line)
         t = greektrans.romanize(m.group(2))
         print(f"{m.group(1)}{t}")
-        while (line := chop(sys.stdin.readline())) and re.match(r"\d+ ", line):
-            print(line)
+        while (line := sys.stdin.readline()) and re.match(r"\d+ ", line):
+            print(chop(line))
     elif m := re.match(r"<table><tr><td>(.*)</td>", line):
         items = m.group(1).split("<br>")
-        items.insert(2, "<b>Transliteration:</b>")
+        items.insert(2, "Transliteration:")
         print("<table><tr><td>", "<br>".join(items), "</td>", sep="")
-        while (line := chop(sys.stdin.readline())) and (m := re.match(r"<td>(.*)</td>", line)):
+        while (line := sys.stdin.readline()) and (m := re.match(r"<td>(.*)</td>", line)):
             items = m.group(1).split("<br>")
             items.insert(2, greektrans.romanize(items[1]))
             print("<td>", "<br>".join(items), "</td>", sep="")

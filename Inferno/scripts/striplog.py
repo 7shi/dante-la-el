@@ -55,8 +55,9 @@ def write_table(table):
     for items in table:
         print("|", " | ".join(items), "|")
 
-def parse(file):
-    ret = {}
+def parse(file, ret=None):
+    if ret is None:
+        ret = {}
     with open(file, "r") as f:
         log = [line.strip() for line in f]
     i = 0
@@ -67,7 +68,9 @@ def parse(file):
         i += 1
         if line.startswith("##"):
             if tables:
-                ret[n] = tables
+                if n not in ret:
+                    ret[n] = []
+                ret[n] += tables
             n = line[2:].strip()
             tables = []
         elif line.startswith("|") or (t2 := "-|-" in line.replace(" ", "")):
@@ -75,25 +78,14 @@ def parse(file):
             table, i = read_table(log, i)
             tables.append(table)
     if tables:
-        ret[n] = tables
+        if n not in ret:
+            ret[n] = []
+        ret[n] += tables
     return ret
 
-if __name__ == "__main__":
-    args = sys.argv[1:]
-    last = False
-    if args and args[0] == "-l":
-        last = True
-        args = args[1:]
-
-    if len(args) != 1:
-        print(f"Usage: python {sys.argv[0]} [-l] log")
-        sys.exit(1)
-
-    data = parse(args[0])
-    nums = {int(m.group(1)): k for k in data.keys() if (m := re.match("(\d+)", k))}
+def write_tables(data, keys, *checks):
     first = True
-    for n in sorted(nums.keys()):
-        k = nums[n]
+    for k in keys:
         tables = data[k]
         if tables:
             if first:
@@ -104,7 +96,30 @@ if __name__ == "__main__":
             for t in tables:
                 print()
                 write_table(t)
-            if len(tables) != 2:
-                print(f"[{k}] {len(tables)} tables", file=sys.stderr)
+            if checks:
+                ok = False
+                for chk in checks:
+                    if chk == len(tables):
+                        ok = True
+                        break
+                if not ok:
+                    print(f"[{k}] {len(tables)} tables", file=sys.stderr)
         else:
             print(f"[{k}] no tables", file=sys.stderr)
+
+if __name__ == "__main__":
+    args = sys.argv[1:]
+    last = False
+    if args and args[0] == "-l":
+        last = True
+        args = args[1:]
+
+    if len(args) == 0:
+        print(f"Usage: python {sys.argv[0]} [-l] log1 [log2 ...]", file=sys.stderr)
+        sys.exit(1)
+
+    data = {}
+    for arg in args:
+        parse(arg, data)
+    nums = {int(m.group(1)): k for k in data.keys() if (m := re.match("(\d+)", k))}
+    write_tables(data, [nums[n] for n in sorted(nums.keys())], 2)

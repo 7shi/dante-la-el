@@ -6,6 +6,7 @@ args = sys.argv[1:]
 first = 1
 step = 1
 col = 2
+cja = -1
 while len(args) >= 2:
     if args[0] == "-s":
         step = int(args[1])
@@ -16,11 +17,14 @@ while len(args) >= 2:
     elif args[0] == "-f":
         first = int(args[1])
         args = args[2:]
+    elif args[0] == "-j":
+        cja = int(args[1])
+        args = args[2:]
     else:
         break
 
 if not (1 <= len(args) <= 2):
-    print(f"Usage: python {sys.argv[0]} [-s step] [-c column] [-f first] log-s [src]")
+    print(f"Usage: python {sys.argv[0]} [-s step] [-c column] [-f first] [-j column] log-s [src]")
     sys.exit(1)
 
 data = parse(args.pop(0))
@@ -33,7 +37,8 @@ else:
 # The first header should be modified manually.
 min_key = nums[min(nums.keys())]
 names = [h + ":" for h in data[min_key][0][0]]
-names[0], names[first] = names[first], names[0]
+if first:
+    names[0], names[first] = names[first], names[0]
 
 def fix(s, t):
     last = s[-1]
@@ -50,6 +55,12 @@ def fix(s, t):
         print(f'[{n+i}] case change: {e1} -> {t}', file=sys.stderr)
     return t
 
+def strip_word2(w, col):
+    if col + 1 != cja:
+        w = strip_word(w)
+    w = re.sub(r"[(（].*[）)]", "", w)
+    return re.sub(r"[,、].*", "", w).strip()
+
 # step 1: extract English lines (The correction should be completed here.)
 # step 2: make juxtaposition
 for n in range(1, max(nums) + 1, 3):
@@ -58,11 +69,14 @@ for n in range(1, max(nums) + 1, 3):
         continue
     title = nums[n]
     tables = data[title]
-    if tables and len(tables) == 2 and len(tables[1][0]) == 3:
+    if tables and len(tables) == 2 and len(tables[1][0]) >= 3:
         table = tables[1][2:]
         if step == 1:
             for i, items in enumerate(table):
-                print(fix(items[1], items[col]))
+                if col == cja:
+                    print(items[col])
+                else:
+                    print(fix(items[1], items[col]))
         elif step == 2:
             words = tables[0][2:]
             if not words:
@@ -79,12 +93,13 @@ for n in range(1, max(nums) + 1, 3):
                 print()
                 print("<table><tr><td><b>", "<br>".join(names), "</b></td>", sep="")
                 while words:
-                    ws = [strip_word(w) for w in words[0]]
+                    ws = [strip_word2(w, iw) for iw, w in enumerate(words[0])]
                     if w := ws[0]:
                         if (p := s.find(w)) < 0:
                             break
                         s = s[p + len(w):]
-                        ws[0], ws[first] = ws[first], w
+                        if first:
+                            ws[0], ws[first] = ws[first], w
                         print("<td>", "<br>".join(ws), "</td>", sep="")
                     else:
                         # print(f"{ln} no letter: {ws}", file=sys.stderr)
