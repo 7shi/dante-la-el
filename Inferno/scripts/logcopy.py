@@ -1,4 +1,4 @@
-import sys, os, re, pyperclip
+import sys, os, re, io, pyperclip
 
 args = sys.argv[1:]
 i = 1
@@ -25,8 +25,8 @@ if len(args) != 1:
     sys.exit(1)
 
 if seek and os.path.exists(args[0]):
-    with open(args[0], "r", encoding="utf_8") as f:
-        for line in f:
+    with open(args[0], "r", encoding="utf_8") as sio:
+        for line in sio:
             if m := re.match(r"## (\d+)", line):
                 i = int(m.group(1)) + step
 
@@ -54,20 +54,23 @@ while True:
     print("log?")
     t = chop(pyperclip.waitForNewPaste().replace("\r\n", "\n")).split("\n")
     ex = os.path.exists(file)
-    with open(file, "a", encoding="utf_8") as f:
+    # write to string buffer
+    with io.StringIO() as sio:
         if thr == 0:
             if ex:
-                print(file=f)
-            writeline(f)
-        print(file=f)
+                print(file=sio)
+            writeline(sio)
+        print(file=sio)
         for line in p:
-            print("    " + line, file=f)
-        print(file=f)
+            print("    " + line, file=sio)
+        print(file=sio)
         for line in t:
             if m := re.match(r"#+(.*)", line):
-                print("**", m.group(1).strip(), "**" ,sep="", file=f)
+                print("**", m.group(1).strip(), "**" ,sep="", file=sio)
             else:
-                print(line, file=f)
+                print(line, file=sio)
+        with open(file, "ab") as f:
+            f.write(sio.getvalue().encode("utf_8"))
     thr += 1
     if thr == threshold:
         i += step

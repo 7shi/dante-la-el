@@ -25,6 +25,7 @@ print("<table>")
 i = 1
 ln3 = 0
 length = len(texts[0])
+all3 = sum(int(len(text) != length) for text in texts) == 0
 while i <= length:
     step = 3 if type == 0 else (4 if i == 37 else 2 if i == 44 else 3)
     for j, text in enumerate(texts):
@@ -46,6 +47,8 @@ while i <= length:
             print(f'<tr><td>{names[j]}</td><td></td><td>')
             print(text[ln3])
             print("</td></tr>")
+    if all3:
+        print("<tr><td></td></tr>")
     i += step
     ln3 += 1
 print("</table>")
