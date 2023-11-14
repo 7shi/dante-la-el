@@ -9,8 +9,11 @@ Nel mezzo del cammin di nostra vita
 <tr><td>Norton-1</td><td align="right">1</td><td>
 Midway upon the road of our life
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">1</td><td>
+<tr><td>ChatGPT-1</td><td align="right">1</td><td>
 In the middle of the journey of our life
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">1</td><td>
+In the middle of the journey of our life,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">1</td><td>
 In the middle of the journey of our life
@@ -34,7 +37,10 @@ mi ritrovai per una selva oscura,
 <tr><td>Norton-1</td><td align="right">2</td><td>
 I found myself within a dark wood,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">2</td><td>
+<tr><td>ChatGPT-1</td><td align="right">2</td><td>
+I found myself in a dark forest,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">2</td><td>
 I found myself in a dark forest,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">2</td><td>
@@ -59,8 +65,11 @@ ché la diritta via era smarrita.
 <tr><td>Norton-1</td><td align="right">3</td><td>
 for the right way had been missed.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">3</td><td>
+<tr><td>ChatGPT-1</td><td align="right">3</td><td>
 because the right path was lost.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">3</td><td>
+because the straight way had been lost.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">3</td><td>
 because the straight way was lost
@@ -84,8 +93,11 @@ Ahi quanto a dir qual era è cosa dura
 <tr><td>Norton-1</td><td align="right">4</td><td>
 Ah! how hard a thing it is to tell what
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">4</td><td>
+<tr><td>ChatGPT-1</td><td align="right">4</td><td>
 Alas! How hard it is to say what it was
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">4</td><td>
+Ah, how hard it is to tell what that forest was,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">4</td><td>
 Alas, how hard it is to say what it was like!
@@ -109,8 +121,11 @@ esta selva selvaggia e aspra e forte
 <tr><td>Norton-1</td><td align="right">5</td><td>
 this wild and rough and dense wood was,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">5</td><td>
+<tr><td>ChatGPT-1</td><td align="right">5</td><td>
 this wild and rough and strong forest
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">5</td><td>
+that wild and rough and strong forest
 </td></tr>
 <tr><td>Bard-1</td><td align="right">5</td><td>
 this wild, harsh, and strong forest
@@ -134,8 +149,11 @@ che nel pensier rinova la paura!
 <tr><td>Norton-1</td><td align="right">6</td><td>
 which in thought renews the fear!
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">6</td><td>
+<tr><td>ChatGPT-1</td><td align="right">6</td><td>
 that renews the fear in thought!
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">6</td><td>
+that renews the fear in the thought!
 </td></tr>
 <tr><td>Bard-1</td><td align="right">6</td><td>
 that in the thought renews the fear!
@@ -159,8 +177,11 @@ Tant’è amara che poco è più morte;
 <tr><td>Norton-1</td><td align="right">7</td><td>
 So bitter is it that death is little more.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">7</td><td>
+<tr><td>ChatGPT-1</td><td align="right">7</td><td>
 So much it is bitter that little is more death;
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">7</td><td>
+So bitter it is that death is hardly more so;
 </td></tr>
 <tr><td>Bard-1</td><td align="right">7</td><td>
 It is so bitter that it is almost death;
@@ -184,8 +205,11 @@ ma per trattar del ben ch’i’ vi trovai,
 <tr><td>Norton-1</td><td align="right">8</td><td>
 But in order to treat of the good that there I found,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">8</td><td>
+<tr><td>ChatGPT-1</td><td align="right">8</td><td>
 but in order to discuss of the good that I found there,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">8</td><td>
+but to treat of the good that I found there,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">8</td><td>
 but to treat of the good which I found there,
@@ -209,8 +233,11 @@ dirò de l’altre cose ch’i’ v’ ho scorte.
 <tr><td>Norton-1</td><td align="right">9</td><td>
 I will tell of the other things that I have seen there.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">9</td><td>
+<tr><td>ChatGPT-1</td><td align="right">9</td><td>
 I will tell about the other things that I observed there.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">9</td><td>
+I will tell of the other things I saw there.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">9</td><td>
 I will tell of the other things which I saw there.
@@ -234,7 +261,10 @@ Io non so ben ridir com’i’ v’intrai,
 <tr><td>Norton-1</td><td align="right">10</td><td>
 I cannot well recount how I entered it,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">10</td><td>
+<tr><td>ChatGPT-1</td><td align="right">10</td><td>
+I do not know well how I entered there,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">10</td><td>
 I do not know well how I entered there,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">10</td><td>
@@ -259,8 +289,11 @@ tant’era pien di sonno a quel punto
 <tr><td>Norton-1</td><td align="right">11</td><td>
 so full was I of slumber at that point
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">11</td><td>
+<tr><td>ChatGPT-1</td><td align="right">11</td><td>
 so much it was full of sleep at that point
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">11</td><td>
+so full of sleep was I at that point
 </td></tr>
 <tr><td>Bard-1</td><td align="right">11</td><td>
 I was so full of sleep at that point
@@ -284,8 +317,11 @@ che la verace via abbandonai.
 <tr><td>Norton-1</td><td align="right">12</td><td>
 where I abandoned the true way.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">12</td><td>
+<tr><td>ChatGPT-1</td><td align="right">12</td><td>
 that I abandoned the true path.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">12</td><td>
+when I abandoned the true way.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">12</td><td>
 that I abandoned the true path
@@ -309,8 +345,11 @@ Ma poi ch’i’ fui al piè d’un colle giunto,
 <tr><td>Norton-1</td><td align="right">13</td><td>
 But after I had arrived at the foot of a hill,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">13</td><td>
+<tr><td>ChatGPT-1</td><td align="right">13</td><td>
 But then when I arrived at the foot of a hill,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">13</td><td>
+But after I was come to the foot of a hill,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">13</td><td>
 But then, when I had reached the foot of a hill,
@@ -334,8 +373,11 @@ là dove terminava quella valle
 <tr><td>Norton-1</td><td align="right">14</td><td>
 where that valley ended
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">14</td><td>
+<tr><td>ChatGPT-1</td><td align="right">14</td><td>
 where that valley ended,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">14</td><td>
+there where the valley terminated,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">14</td><td>
 there where that valley ended
@@ -359,8 +401,11 @@ che m’avea di paura il cor compunto,
 <tr><td>Norton-1</td><td align="right">15</td><td>
 which had pierced my heart with fear,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">15</td><td>
+<tr><td>ChatGPT-1</td><td align="right">15</td><td>
 which had filled my heart with fear,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">15</td><td>
+which had pierced my heart with fear,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">15</td><td>
 which had afflicted my heart with fear,
@@ -384,8 +429,11 @@ guardai in alto e vidi le sue spalle
 <tr><td>Norton-1</td><td align="right">16</td><td>
 I looked on high, and saw its shoulders
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">16</td><td>
+<tr><td>ChatGPT-1</td><td align="right">16</td><td>
 I looked up and saw his/her shoulders
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">16</td><td>
+I looked up and saw his shoulders
 </td></tr>
 <tr><td>Bard-1</td><td align="right">16</td><td>
 I looked up and saw his shoulders
@@ -409,8 +457,11 @@ vestite già de’ raggi del pianeta
 <tr><td>Norton-1</td><td align="right">17</td><td>
 clothed already with the rays of the planet
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">17</td><td>
+<tr><td>ChatGPT-1</td><td align="right">17</td><td>
 already dressed with the rays of the planet
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">17</td><td>
+already clothed with the rays of the planet
 </td></tr>
 <tr><td>Bard-1</td><td align="right">17</td><td>
 dressed already with the rays of the planet
@@ -434,8 +485,11 @@ che mena dritto altrui per ogne calle.
 <tr><td>Norton-1</td><td align="right">18</td><td>
 that leadeth men aright along every path.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">18</td><td>
+<tr><td>ChatGPT-1</td><td align="right">18</td><td>
 that leads others straight through every street.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">18</td><td>
+that guides others straight along every path.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">18</td><td>
 that leads straight to others through every street
@@ -459,8 +513,11 @@ Allor fu la paura un poco queta,
 <tr><td>Norton-1</td><td align="right">19</td><td>
 Then was the fear a little quieted
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">19</td><td>
+<tr><td>ChatGPT-1</td><td align="right">19</td><td>
 Then the fear became a little calm,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">19</td><td>
+Then the fear was a little quieted,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">19</td><td>
 Then the fear was a little quiet,
@@ -484,8 +541,11 @@ che nel lago del cor m’era durata
 <tr><td>Norton-1</td><td align="right">20</td><td>
 which in the lake of my heart had lasted
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">20</td><td>
+<tr><td>ChatGPT-1</td><td align="right">20</td><td>
 that in the lake of my heart had lasted,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">20</td><td>
+which had lasted in the lake of my heart
 </td></tr>
 <tr><td>Bard-1</td><td align="right">20</td><td>
 that in the lake of the heart it had lasted
@@ -509,8 +569,11 @@ la notte ch’i’ passai con tanta pieta.
 <tr><td>Norton-1</td><td align="right">21</td><td>
 through the night that I passed so piteously.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">21</td><td>
+<tr><td>ChatGPT-1</td><td align="right">21</td><td>
 the night that I spent with so much pity.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">21</td><td>
+the night I spent with so much pity.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">21</td><td>
 the night that I passed with so much pity.
@@ -534,8 +597,11 @@ E come quei che con lena affannata,
 <tr><td>Norton-1</td><td align="right">22</td><td>
 And even as one who with spent breath,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">22</td><td>
+<tr><td>ChatGPT-1</td><td align="right">22</td><td>
 And like those who with labored breath,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">22</td><td>
+And like one who, with weary breath,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">22</td><td>
 And as one who with exhausted breath,
@@ -559,8 +625,11 @@ uscito fuor del pelago a la riva,
 <tr><td>Norton-1</td><td align="right">23</td><td>
 issued out of the sea upon the shore,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">23</td><td>
+<tr><td>ChatGPT-1</td><td align="right">23</td><td>
 having emerged from the open sea to the shore,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">23</td><td>
+has come out of the sea onto the shore,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">23</td><td>
 has left the sea and reached the shore,
@@ -584,8 +653,11 @@ si volge a l’acqua perigliosa e guata,
 <tr><td>Norton-1</td><td align="right">24</td><td>
 turns to the perilous water and gazes,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">24</td><td>
+<tr><td>ChatGPT-1</td><td align="right">24</td><td>
 turns to the perilous water and watches,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">24</td><td>
+turns to the perilous water and gazes,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">24</td><td>
 turns to the dangerous water and gazes,
@@ -609,8 +681,11 @@ così l’animo mio, ch’ancor fuggiva,
 <tr><td>Norton-1</td><td align="right">25</td><td>
 so did my soul, which still was flying,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">25</td><td>
+<tr><td>ChatGPT-1</td><td align="right">25</td><td>
 thus my soul, which still fled,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">25</td><td>
+so my soul, which still was fleeing,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">25</td><td>
 so my soul, which was still fleeing,
@@ -634,8 +709,11 @@ si volse a retro a rimirar lo passo
 <tr><td>Norton-1</td><td align="right">26</td><td>
 turn back to look again upon the pass
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">26</td><td>
+<tr><td>ChatGPT-1</td><td align="right">26</td><td>
 turned back to look at the step
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">26</td><td>
+turned around to look back at the path
 </td></tr>
 <tr><td>Bard-1</td><td align="right">26</td><td>
 turned back to gaze at the passage
@@ -659,8 +737,11 @@ che non lasciò già mai persona viva.
 <tr><td>Norton-1</td><td align="right">27</td><td>
 which never had a living person left.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">27</td><td>
+<tr><td>ChatGPT-1</td><td align="right">27</td><td>
 that never left a living person.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">27</td><td>
+that never let any living person escape.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">27</td><td>
 that had never left any living person.
@@ -684,8 +765,11 @@ Poi ch’èi posato un poco il corpo lasso,
 <tr><td>Norton-1</td><td align="right">28</td><td>
 After I had rested a little my weary body
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">28</td><td>
+<tr><td>ChatGPT-1</td><td align="right">28</td><td>
 Then after I had rested my weary body a little,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">28</td><td>
+After I had rested my weary body a little,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">28</td><td>
 Then, after I had laid down my weary body for a little while,
@@ -709,8 +793,11 @@ ripresi via per la piaggia diserta,
 <tr><td>Norton-1</td><td align="right">29</td><td>
 I took my way again along the desert slope,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">29</td><td>
+<tr><td>ChatGPT-1</td><td align="right">29</td><td>
 I resumed my way along the deserted shore,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">29</td><td>
+I resumed the journey along the deserted shore,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">29</td><td>
 I resumed my journey along the deserted shore,
@@ -734,8 +821,11 @@ sì che ’l piè fermo sempre era ’l più basso.
 <tr><td>Norton-1</td><td align="right">30</td><td>
 so that the firm foot was always the lower.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">30</td><td>
+<tr><td>ChatGPT-1</td><td align="right">30</td><td>
 so that the steady foot was always the lower one.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">30</td><td>
+so that my firm foot was always the lower one.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">30</td><td>
 so that my fixed foot was always the lowest.
@@ -759,7 +849,10 @@ Ed ecco, quasi al cominciar de l’erta,
 <tr><td>Norton-1</td><td align="right">31</td><td>
 And lo! almost at the beginning of the steep
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">31</td><td>
+<tr><td>ChatGPT-1</td><td align="right">31</td><td>
+And behold, almost at the beginning of the slope,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">31</td><td>
 And behold, almost at the beginning of the slope,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">31</td><td>
@@ -784,8 +877,11 @@ una lonza leggera e presta molto,
 <tr><td>Norton-1</td><td align="right">32</td><td>
 a she-leopard, light and very nimble,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">32</td><td>
+<tr><td>ChatGPT-1</td><td align="right">32</td><td>
 a light and very nimble lynx,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">32</td><td>
+a light and very swift she-wolf,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">32</td><td>
 a light and very swift greyhound,
@@ -809,7 +905,10 @@ che di pel macolato era coverta;
 <tr><td>Norton-1</td><td align="right">33</td><td>
 which was covered with a spotted coat.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">33</td><td>
+<tr><td>ChatGPT-1</td><td align="right">33</td><td>
+that was covered with spotted fur;
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">33</td><td>
 that was covered with spotted fur;
 </td></tr>
 <tr><td>Bard-1</td><td align="right">33</td><td>
@@ -834,8 +933,11 @@ e non mi si partia dinanzi al volto,
 <tr><td>Norton-1</td><td align="right">34</td><td>
 And she did not move from before my face,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">34</td><td>
+<tr><td>ChatGPT-1</td><td align="right">34</td><td>
 and didn't leave me in front of its face,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">34</td><td>
+and it did not depart from before my face,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">34</td><td>
 and it did not depart from in front of my face,
@@ -859,8 +961,11 @@ anzi ’mpediva tanto il mio cammino,
 <tr><td>Norton-1</td><td align="right">35</td><td>
 nay, rather hindered so my road
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">35</td><td>
+<tr><td>ChatGPT-1</td><td align="right">35</td><td>
 instead it obstructed my path so much,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">35</td><td>
+indeed, it hindered so much my path,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">35</td><td>
 but it prevented my way so much,
@@ -884,8 +989,11 @@ ch’i’ fui per ritornar più volte vòlto.
 <tr><td>Norton-1</td><td align="right">36</td><td>
 that to return I oftentimes had turned.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">36</td><td>
+<tr><td>ChatGPT-1</td><td align="right">36</td><td>
 that I had to turn back multiple times.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">36</td><td>
+that I was forced to turn back several times.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">36</td><td>
 that I was about to turn back many times.
@@ -909,8 +1017,11 @@ Temp’era dal principio del mattino,
 <tr><td>Norton-1</td><td align="right">37</td><td>
 The time was at the beginning of the morning,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">37</td><td>
+<tr><td>ChatGPT-1</td><td align="right">37</td><td>
 Time was from the beginning of the morning,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">37</td><td>
+The time was the beginning of the morning,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">37</td><td>
 It was the beginning of the morning,
@@ -934,8 +1045,11 @@ e ’l sol montava ’n sù con quelle stelle
 <tr><td>Norton-1</td><td align="right">38</td><td>
 and the Sun was mounting upward with those stars
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">38</td><td>
+<tr><td>ChatGPT-1</td><td align="right">38</td><td>
 and the sun was rising up with those stars
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">38</td><td>
+and the sun was ascending with those stars
 </td></tr>
 <tr><td>Bard-1</td><td align="right">38</td><td>
 and the sun was rising with those stars,
@@ -959,8 +1073,11 @@ ch’eran con lui quando l’amor divino
 <tr><td>Norton-1</td><td align="right">39</td><td>
 that were with him when Love Divine
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">39</td><td>
+<tr><td>ChatGPT-1</td><td align="right">39</td><td>
 that were with him when the divine love
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">39</td><td>
+that were with it when divine love
 </td></tr>
 <tr><td>Bard-1</td><td align="right">39</td><td>
 which were with him when the divine love
@@ -984,8 +1101,11 @@ mosse di prima quelle cose belle;
 <tr><td>Norton-1</td><td align="right">40</td><td>
 first set in motion those beautiful things;
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">40</td><td>
+<tr><td>ChatGPT-1</td><td align="right">40</td><td>
 moved those beautiful things at first;
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">40</td><td>
+first set those beautiful things in motion;
 </td></tr>
 <tr><td>Bard-1</td><td align="right">40</td><td>
 so beautiful things moved at first;
@@ -1009,8 +1129,11 @@ sì ch’a bene sperar m’era cagione
 <tr><td>Norton-1</td><td align="right">41</td><td>
 so that were occasion of good hope to me
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">41</td><td>
+<tr><td>ChatGPT-1</td><td align="right">41</td><td>
 so that a good hope was the cause to me
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">41</td><td>
+so that the bright season and the pleasant time
 </td></tr>
 <tr><td>Bard-1</td><td align="right">41</td><td>
 that was the cause of my hope for good;
@@ -1034,8 +1157,11 @@ di quella fiera a la gaetta pelle
 <tr><td>Norton-1</td><td align="right">42</td><td>
 concerning that wild beast with the dappled skin
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">42</td><td>
+<tr><td>ChatGPT-1</td><td align="right">42</td><td>
 of that beast with the sleek skin
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">42</td><td>
+gave me occasion to hope well
 </td></tr>
 <tr><td>Bard-1</td><td align="right">42</td><td>
 of that spotted beast with the spotted skin;
@@ -1059,8 +1185,11 @@ l’ora del tempo e la dolce stagione;
 <tr><td>Norton-1</td><td align="right">43</td><td>
 the hour of the time and the sweet season.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">43</td><td>
+<tr><td>ChatGPT-1</td><td align="right">43</td><td>
 the hour of time and the sweet season;
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">43</td><td>
+about that beast with the speckled skin;
 </td></tr>
 <tr><td>Bard-1</td><td align="right">43</td><td>
 the hour of time and the sweet season;
@@ -1084,8 +1213,11 @@ ma non sì che paura non mi desse
 <tr><td>Norton-1</td><td align="right">44</td><td>
 But not so that did not give me fear
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">44</td><td>
+<tr><td>ChatGPT-1</td><td align="right">44</td><td>
 but not so that it didn't give me fear
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">44</td><td>
+but not so much that the sight of a lion
 </td></tr>
 <tr><td>Bard-1</td><td align="right">44</td><td>
 but not so that fear did not give me
@@ -1109,8 +1241,11 @@ la vista che m’apparve d’un leone.
 <tr><td>Norton-1</td><td align="right">45</td><td>
 the sight which appeared to me of a lion.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">45</td><td>
+<tr><td>ChatGPT-1</td><td align="right">45</td><td>
 the sight that appeared to me of a lion.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">45</td><td>
+did not give me fear.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">45</td><td>
 the sight that appeared to me of a lion.
@@ -1134,8 +1269,11 @@ Questi parea che contra me venisse
 <tr><td>Norton-1</td><td align="right">46</td><td>
 He seemed to be coming against me,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">46</td><td>
+<tr><td>ChatGPT-1</td><td align="right">46</td><td>
 This one seemed to come against me
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">46</td><td>
+He seemed to come against me,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">46</td><td>
 He seemed to come against me
@@ -1159,8 +1297,11 @@ con la test’alta e con rabbiosa fame,
 <tr><td>Norton-1</td><td align="right">47</td><td>
 with head high and with ravening hunger,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">47</td><td>
+<tr><td>ChatGPT-1</td><td align="right">47</td><td>
 with its high head and with furious hunger,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">47</td><td>
+with head held high and with ravenous hunger,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">47</td><td>
 with his head held high and with ravenous hunger,
@@ -1184,8 +1325,11 @@ sì che parea che l’aere ne tremesse.
 <tr><td>Norton-1</td><td align="right">48</td><td>
 so that it seemed that the air was affrighted at him.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">48</td><td>
+<tr><td>ChatGPT-1</td><td align="right">48</td><td>
 so that it seemed the air was trembling from it.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">48</td><td>
+so that it seemed that the air trembled with it.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">48</td><td>
 so that it seemed that the air did not tremble.
@@ -1209,7 +1353,10 @@ Ed una lupa, che di tutte brame
 <tr><td>Norton-1</td><td align="right">49</td><td>
 And a she-wolf, who with all cravings
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">49</td><td>
+<tr><td>ChatGPT-1</td><td align="right">49</td><td>
+And a she-wolf, which in all desires
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">49</td><td>
 And a she-wolf, which in all desires
 </td></tr>
 <tr><td>Bard-1</td><td align="right">49</td><td>
@@ -1234,8 +1381,11 @@ sembiava carca ne la sua magrezza,
 <tr><td>Norton-1</td><td align="right">50</td><td>
 seemed laden in her meagreness,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">50</td><td>
+<tr><td>ChatGPT-1</td><td align="right">50</td><td>
 seemed loaded in its thinness,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">50</td><td>
+seemed burdened in her thinness,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">50</td><td>
 seemed laden not in her thinness,
@@ -1259,8 +1409,11 @@ e molte genti fé già viver grame,
 <tr><td>Norton-1</td><td align="right">51</td><td>
 and already had made many folk to live forlorn,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">51</td><td>
+<tr><td>ChatGPT-1</td><td align="right">51</td><td>
 and had already made many people live wretchedly,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">51</td><td>
+and had already made many people live in misery,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">51</td><td>
 and made many people live sad,
@@ -1284,8 +1437,11 @@ questa mi porse tanto di gravezza
 <tr><td>Norton-1</td><td align="right">52</td><td>
 —she caused me so much heaviness,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">52</td><td>
+<tr><td>ChatGPT-1</td><td align="right">52</td><td>
 this offered me so much weightiness
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">52</td><td>
+she gave me so much heaviness
 </td></tr>
 <tr><td>Bard-1</td><td align="right">52</td><td>
 this gave me so much heaviness
@@ -1309,8 +1465,11 @@ con la paura ch’uscia di sua vista,
 <tr><td>Norton-1</td><td align="right">53</td><td>
 with the fear that came from sight of her,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">53</td><td>
+<tr><td>ChatGPT-1</td><td align="right">53</td><td>
 with the fear that came from its sight,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">53</td><td>
+with the fear that came from her sight,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">53</td><td>
 with the fear that came out of her sight
@@ -1334,8 +1493,11 @@ ch’io perdei la speranza de l’altezza.
 <tr><td>Norton-1</td><td align="right">54</td><td>
 that I lost hope of the height.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">54</td><td>
+<tr><td>ChatGPT-1</td><td align="right">54</td><td>
 that I lost the hope of the height.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">54</td><td>
+that I lost the hope of reaching the height.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">54</td><td>
 that I lost the hope of the height.
@@ -1359,8 +1521,11 @@ E qual è quei che volontieri acquista,
 <tr><td>Norton-1</td><td align="right">55</td><td>
 And such as he is who gaineth willingly,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">55</td><td>
+<tr><td>ChatGPT-1</td><td align="right">55</td><td>
 And like one who willingly acquires,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">55</td><td>
+And as one who gladly gains,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">55</td><td>
 And what is he who willingly buys,
@@ -1384,8 +1549,11 @@ e giugne ’l tempo che perder lo face,
 <tr><td>Norton-1</td><td align="right">56</td><td>
 and the time arrives that makes him lose,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">56</td><td>
+<tr><td>ChatGPT-1</td><td align="right">56</td><td>
 and reaches the time when he causes it to be lost,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">56</td><td>
+and reaches the time that makes him lose,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">56</td><td>
 and reaches the time that makes him lose,
@@ -1409,8 +1577,11 @@ che ’n tutti suoi pensier piange e s’attrista;
 <tr><td>Norton-1</td><td align="right">57</td><td>
 who in all his thoughts weeps and is sad,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">57</td><td>
+<tr><td>ChatGPT-1</td><td align="right">57</td><td>
 who in all his thoughts cries and becomes sad;
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">57</td><td>
+in all his thoughts weeps and becomes sad;
 </td></tr>
 <tr><td>Bard-1</td><td align="right">57</td><td>
 that in all his thoughts he cries and is sad;
@@ -1434,8 +1605,11 @@ tal mi fece la bestia sanza pace,
 <tr><td>Norton-1</td><td align="right">58</td><td>
 —such made me the beast without repose
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">58</td><td>
+<tr><td>ChatGPT-1</td><td align="right">58</td><td>
 such the beast without peace made me,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">58</td><td>
+so the beast without peace made me,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">58</td><td>
 such a beast without peace made me,
@@ -1459,8 +1633,11 @@ che, venendomi ’ncontro, a poco a poco
 <tr><td>Norton-1</td><td align="right">59</td><td>
 that, coming on against me, little by little
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">59</td><td>
+<tr><td>ChatGPT-1</td><td align="right">59</td><td>
 that, coming towards me, little by little
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">59</td><td>
+which, coming against me, little by little
 </td></tr>
 <tr><td>Bard-1</td><td align="right">59</td><td>
 that, coming to meet me, little by little,
@@ -1484,8 +1661,11 @@ mi ripigneva là dove ’l sol tace.
 <tr><td>Norton-1</td><td align="right">60</td><td>
 was pushing me back thither where the Sun is silent.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">60</td><td>
+<tr><td>ChatGPT-1</td><td align="right">60</td><td>
 pushed me there where the sun is silent.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">60</td><td>
+pushed me back to where the sun is silent.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">60</td><td>
 drove me back to the place where the sun is silent.
@@ -1509,8 +1689,11 @@ Mentre ch’i’ rovinava in basso loco,
 <tr><td>Norton-1</td><td align="right">61</td><td>
 While I was falling back to the low place,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">61</td><td>
+<tr><td>ChatGPT-1</td><td align="right">61</td><td>
 While I was falling in a low place,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">61</td><td>
+While I was falling to a low place,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">61</td><td>
 While I was falling into a low place,
@@ -1534,8 +1717,11 @@ dinanzi a li occhi mi si fu offerto
 <tr><td>Norton-1</td><td align="right">62</td><td>
 before mine eyes appeared
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">62</td><td>
+<tr><td>ChatGPT-1</td><td align="right">62</td><td>
 before my eyes was presented to me
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">62</td><td>
+before my eyes appeared
 </td></tr>
 <tr><td>Bard-1</td><td align="right">62</td><td>
 a man was offered to me before my eyes,
@@ -1559,8 +1745,11 @@ chi per lungo silenzio parea fioco.
 <tr><td>Norton-1</td><td align="right">63</td><td>
 one who through long silence seemed hoarse.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">63</td><td>
+<tr><td>ChatGPT-1</td><td align="right">63</td><td>
 one who, through long silence, seemed faint.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">63</td><td>
+someone who, through long silence, seemed weak.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">63</td><td>
 who by long silence seemed faint.
@@ -1584,8 +1773,11 @@ Quando vidi costui nel gran diserto,
 <tr><td>Norton-1</td><td align="right">64</td><td>
 When I saw him in the great desert,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">64</td><td>
+<tr><td>ChatGPT-1</td><td align="right">64</td><td>
 When I saw this man in the great desert,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">64</td><td>
+When I saw him in the great desert,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">64</td><td>
 When I saw him in the great desert,
@@ -1609,8 +1801,11 @@ When I saw him in the great desert,
 <tr><td>Norton-1</td><td align="right">65</td><td>
 "Have pity on me!" I cried to him,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">65</td><td>
+<tr><td>ChatGPT-1</td><td align="right">65</td><td>
 "Have mercy on me," I cried out to him,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">65</td><td>
+"Have mercy on me," I cried to him,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">65</td><td>
 "Have mercy on me", I cried to him,
@@ -1634,8 +1829,11 @@ When I saw him in the great desert,
 <tr><td>Norton-1</td><td align="right">66</td><td>
 "whatso thou art, or shade or real man."
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">66</td><td>
+<tr><td>ChatGPT-1</td><td align="right">66</td><td>
 "whoever you may be, whether shade or certain man!"
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">66</td><td>
+"whoever you are, shade or real man!"
 </td></tr>
 <tr><td>Bard-1</td><td align="right">66</td><td>
 "What are you, or shadow or man?"
@@ -1659,8 +1857,11 @@ Rispuosemi: "Non omo, omo già fui,
 <tr><td>Norton-1</td><td align="right">67</td><td>
 He answered me: "Not man; man once I was,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">67</td><td>
+<tr><td>ChatGPT-1</td><td align="right">67</td><td>
 I answered: "Not a man, I was once a man,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">67</td><td>
+He answered me: "Not a man, though I was once a man,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">67</td><td>
 He answered me: "Not man, I was man once,
@@ -1684,7 +1885,10 @@ e li parenti miei furon lombardi,
 <tr><td>Norton-1</td><td align="right">68</td><td>
 and my parents were Lombards,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">68</td><td>
+<tr><td>ChatGPT-1</td><td align="right">68</td><td>
+and my relatives were Lombards,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">68</td><td>
 and my relatives were Lombards,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">68</td><td>
@@ -1709,8 +1913,11 @@ mantoani per patrïa ambedui.
 <tr><td>Norton-1</td><td align="right">69</td><td>
 and Mantuans by country both.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">69</td><td>
+<tr><td>ChatGPT-1</td><td align="right">69</td><td>
 mantuan by homeland, both of them."
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">69</td><td>
+both Mantuans by homeland.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">69</td><td>
 mantuans by homeland both."
@@ -1734,8 +1941,11 @@ Nacqui sub Iulio, ancor che fosse tardi,
 <tr><td>Norton-1</td><td align="right">70</td><td>
 I was born sub Julio, though late,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">70</td><td>
+<tr><td>ChatGPT-1</td><td align="right">70</td><td>
 I was born under Julius, even though it was late,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">70</td><td>
+I was born under Julius, though it was late,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">70</td><td>
 I was born under Julius Caesar, even though it was late,
@@ -1759,8 +1969,11 @@ e vissi a Roma sotto ’l buono Augusto
 <tr><td>Norton-1</td><td align="right">71</td><td>
 and I lived at Rome under the good Augustus,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">71</td><td>
+<tr><td>ChatGPT-1</td><td align="right">71</td><td>
 and I lived in Rome under good Augustus
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">71</td><td>
+and I lived in Rome under the good Augustus
 </td></tr>
 <tr><td>Bard-1</td><td align="right">71</td><td>
 and I lived in Rome under the good Augustus,
@@ -1784,8 +1997,11 @@ nel tempo de li dèi falsi e bugiardi.
 <tr><td>Norton-1</td><td align="right">72</td><td>
 in the time of the false and lying gods.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">72</td><td>
+<tr><td>ChatGPT-1</td><td align="right">72</td><td>
 during the time of the false and deceitful gods.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">72</td><td>
+in the time of the false and deceitful gods.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">72</td><td>
 in the time of the false and lying gods.
@@ -1809,8 +2025,11 @@ Poeta fui, e cantai di quel giusto
 <tr><td>Norton-1</td><td align="right">73</td><td>
 Poet was I, and sang of that just
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">73</td><td>
+<tr><td>ChatGPT-1</td><td align="right">73</td><td>
 I was a poet, and I sang of that just
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">73</td><td>
+I was a poet, and I sang of that righteous
 </td></tr>
 <tr><td>Bard-1</td><td align="right">73</td><td>
 I was a poet, and I sang of that just
@@ -1834,7 +2053,10 @@ figliuol d’Anchise che venne di Troia,
 <tr><td>Norton-1</td><td align="right">74</td><td>
 son of Anchises who came from Troy
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">74</td><td>
+<tr><td>ChatGPT-1</td><td align="right">74</td><td>
+son of Anchises who came from Troy,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">74</td><td>
 son of Anchises who came from Troy,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">74</td><td>
@@ -1859,8 +2081,11 @@ poi che ’l superbo Ilïón fu combusto.
 <tr><td>Norton-1</td><td align="right">75</td><td>
 after proud Ilion had been burned.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">75</td><td>
+<tr><td>ChatGPT-1</td><td align="right">75</td><td>
 after the proud Ilion was burned.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">75</td><td>
+after proud Ilium was burned.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">75</td><td>
 after proud Ilium was burned.
@@ -1884,7 +2109,10 @@ Ma tu perché ritorni a tanta noia?
 <tr><td>Norton-1</td><td align="right">76</td><td>
 But thou, why returnest thou to so great annoy?
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">76</td><td>
+<tr><td>ChatGPT-1</td><td align="right">76</td><td>
+But why do you return to such trouble?
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">76</td><td>
 But why do you return to such trouble?
 </td></tr>
 <tr><td>Bard-1</td><td align="right">76</td><td>
@@ -1909,8 +2137,11 @@ perché non sali il dilettoso monte
 <tr><td>Norton-1</td><td align="right">77</td><td>
 Why dost thou not ascend the delectable mountain
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">77</td><td>
+<tr><td>ChatGPT-1</td><td align="right">77</td><td>
 why don't you climb the delightful mountain
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">77</td><td>
+Why do you not climb the delightful mountain
 </td></tr>
 <tr><td>Bard-1</td><td align="right">77</td><td>
 why don't you climb the delightful mountain?
@@ -1934,8 +2165,11 @@ ch’è principio e cagion di tutta gioia?".
 <tr><td>Norton-1</td><td align="right">78</td><td>
 which is the source and cause of every joy?"
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">78</td><td>
+<tr><td>ChatGPT-1</td><td align="right">78</td><td>
 which is the beginning and cause of all joy?"
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">78</td><td>
+that is the beginning and cause of all joy?"
 </td></tr>
 <tr><td>Bard-1</td><td align="right">78</td><td>
 that is the beginning and cause of all joy.
@@ -1959,8 +2193,11 @@ which is the beginning and cause of all joy? "
 <tr><td>Norton-1</td><td align="right">79</td><td>
 "Art thou then that Virgil and that fount
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">79</td><td>
+<tr><td>ChatGPT-1</td><td align="right">79</td><td>
 "Now are you that Virgil and that fountain
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">79</td><td>
+"Now are you that Virgil and that source
 </td></tr>
 <tr><td>Bard-1</td><td align="right">79</td><td>
 Now, are you that Virgil and that fountain
@@ -1984,8 +2221,11 @@ che spandi di parlar sì largo fiume?",
 <tr><td>Norton-1</td><td align="right">80</td><td>
 which poureth forth so large a stream of speech?"
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">80</td><td>
+<tr><td>ChatGPT-1</td><td align="right">80</td><td>
 that pour forth such a wide river of speech?"
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">80</td><td>
+that pours forth so broad a river of speech?"
 </td></tr>
 <tr><td>Bard-1</td><td align="right">80</td><td>
 that spreads such a wide river of speech?
@@ -2009,8 +2249,11 @@ rispuos’io lui con vergognosa fronte.
 <tr><td>Norton-1</td><td align="right">81</td><td>
 replied I to him with bashful front:
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">81</td><td>
+<tr><td>ChatGPT-1</td><td align="right">81</td><td>
 I answered him with a ashamed face.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">81</td><td>
+I answered him with a shamefaced brow.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">81</td><td>
 I answered him with a shameful forehead.
@@ -2034,7 +2277,10 @@ I answered him shamefully.
 <tr><td>Norton-1</td><td align="right">82</td><td>
 "O honor and light of the other poem
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">82</td><td>
+<tr><td>ChatGPT-1</td><td align="right">82</td><td>
+"O honor and light of the other poets,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">82</td><td>
 "O honor and light of the other poets,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">82</td><td>
@@ -2059,8 +2305,11 @@ vagliami ’l lungo studio e ’l grande amore
 <tr><td>Norton-1</td><td align="right">83</td><td>
 I may the long seal avail me, and the great love,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">83</td><td>
+<tr><td>ChatGPT-1</td><td align="right">83</td><td>
 the long study and the great love avails me
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">83</td><td>
+let the long study and the great love
 </td></tr>
 <tr><td>Bard-1</td><td align="right">83</td><td>
 help me, long study and great love
@@ -2084,8 +2333,11 @@ che m’ ha fatto cercar lo tuo volume.
 <tr><td>Norton-1</td><td align="right">84</td><td>
 which have made me search thy volume!
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">84</td><td>
+<tr><td>ChatGPT-1</td><td align="right">84</td><td>
 that has made me search for your volume.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">84</td><td>
+that made me search your volume avail me.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">84</td><td>
 that has made me seek your volume
@@ -2109,8 +2361,11 @@ Tu se’ lo mio maestro e ’l mio autore,
 <tr><td>Norton-1</td><td align="right">85</td><td>
 Thou art my master and my author;
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">85</td><td>
+<tr><td>ChatGPT-1</td><td align="right">85</td><td>
 You are my master and my author,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">85</td><td>
+You are my teacher and my author,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">85</td><td>
 You are my master and my author
@@ -2134,8 +2389,11 @@ tu se’ solo colui da cu’ io tolsi
 <tr><td>Norton-1</td><td align="right">86</td><td>
 thou alone art he from whom I took
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">86</td><td>
+<tr><td>ChatGPT-1</td><td align="right">86</td><td>
 you are the only one from whom I took
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">86</td><td>
+you alone are the one from whom I took
 </td></tr>
 <tr><td>Bard-1</td><td align="right">86</td><td>
 you are the only one from whom I took
@@ -2159,8 +2417,11 @@ lo bello stilo che m’ ha fatto onore.
 <tr><td>Norton-1</td><td align="right">87</td><td>
 the fair style that hath done me honor.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">87</td><td>
+<tr><td>ChatGPT-1</td><td align="right">87</td><td>
 the beautiful style that has honored me.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">87</td><td>
+the beautiful style that has brought me honor.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">87</td><td>
 the beautiful style that has made me honored
@@ -2184,8 +2445,11 @@ Vedi la bestia per cu’ io mi volsi;
 <tr><td>Norton-1</td><td align="right">88</td><td>
 Behold the beast because of which I turned;
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">88</td><td>
+<tr><td>ChatGPT-1</td><td align="right">88</td><td>
 See the beast because of which I turned;
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">88</td><td>
+See the beast for which I turned back;
 </td></tr>
 <tr><td>Bard-1</td><td align="right">88</td><td>
 See the beast through which I turned
@@ -2209,8 +2473,11 @@ aiutami da lei, famoso saggio,
 <tr><td>Norton-1</td><td align="right">89</td><td>
 help me against her, famous sage,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">89</td><td>
+<tr><td>ChatGPT-1</td><td align="right">89</td><td>
 help me from it, famous sage,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">89</td><td>
+help me from her, famous sage,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">89</td><td>
 help me from her, famous sage
@@ -2234,8 +2501,11 @@ ch’ella mi fa tremar le vene e i polsi".
 <tr><td>Norton-1</td><td align="right">90</td><td>
 for she makes any veins and pulses tremble."
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">90</td><td>
+<tr><td>ChatGPT-1</td><td align="right">90</td><td>
 because it makes my veins and pulses tremble."
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">90</td><td>
+for she makes my veins and pulses tremble."
 </td></tr>
 <tr><td>Bard-1</td><td align="right">90</td><td>
 that she makes my veins and wrists tremble
@@ -2259,8 +2529,11 @@ She makes my veins and wrists tremble."
 <tr><td>Norton-1</td><td align="right">91</td><td>
 "Thee it behoves to hold another course,"
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">91</td><td>
+<tr><td>ChatGPT-1</td><td align="right">91</td><td>
 "To you it is necessary to undertake another journey,"
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">91</td><td>
+"You must take a different journey,"
 </td></tr>
 <tr><td>Bard-1</td><td align="right">91</td><td>
 You must take another journey
@@ -2284,8 +2557,11 @@ rispuose, poi che lagrimar mi vide,
 <tr><td>Norton-1</td><td align="right">92</td><td>
 he replied, when he saw me weeping,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">92</td><td>
+<tr><td>ChatGPT-1</td><td align="right">92</td><td>
 he answered, after he saw me weeping,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">92</td><td>
+he replied, seeing me weep,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">92</td><td>
 he replied, when he saw me weeping,
@@ -2309,8 +2585,11 @@ He replied, then what tears he saw me,
 <tr><td>Norton-1</td><td align="right">93</td><td>
 "if thou wishest to escape from this savage place;
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">93</td><td>
+<tr><td>ChatGPT-1</td><td align="right">93</td><td>
 "if you want to escape from this wild place;"
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">93</td><td>
+"if you wish to escape from this wild place;
 </td></tr>
 <tr><td>Bard-1</td><td align="right">93</td><td>
 "if you want to survive this wild place;
@@ -2334,8 +2613,11 @@ ché questa bestia, per la qual tu gride,
 <tr><td>Norton-1</td><td align="right">94</td><td>
 for this beast, because of which thou criest out,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">94</td><td>
+<tr><td>ChatGPT-1</td><td align="right">94</td><td>
 because this beast, for which you cry,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">94</td><td>
+for this beast, for which you cry out,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">94</td><td>
 for this beast, for which you cry,
@@ -2359,8 +2641,11 @@ non lascia altrui passar per la sua via,
 <tr><td>Norton-1</td><td align="right">95</td><td>
 lets not any one pass along her way,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">95</td><td>
+<tr><td>ChatGPT-1</td><td align="right">95</td><td>
 does not let others pass through its way,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">95</td><td>
+does not allow anyone to pass along its way,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">95</td><td>
 does not let others pass by his way,
@@ -2384,8 +2669,11 @@ ma tanto lo ’mpedisce che l’uccide;
 <tr><td>Norton-1</td><td align="right">96</td><td>
 but so hinders him that she kills him!
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">96</td><td>
+<tr><td>ChatGPT-1</td><td align="right">96</td><td>
 but hinders it so much that it kills them;
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">96</td><td>
+but hinders him so much that it kills him;
 </td></tr>
 <tr><td>Bard-1</td><td align="right">96</td><td>
 but so much impedes him that he kills him;
@@ -2409,8 +2697,11 @@ e ha natura sì malvagia e ria,
 <tr><td>Norton-1</td><td align="right">97</td><td>
 and she has a nature so malign and evil
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">97</td><td>
+<tr><td>ChatGPT-1</td><td align="right">97</td><td>
 and has a nature so wicked and vile,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">97</td><td>
+and it has a nature so evil and malicious,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">97</td><td>
 and it has a nature so wicked and evil,
@@ -2434,8 +2725,11 @@ che mai non empie la bramosa voglia,
 <tr><td>Norton-1</td><td align="right">98</td><td>
 that she never sates her greedy will,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">98</td><td>
+<tr><td>ChatGPT-1</td><td align="right">98</td><td>
 that it never fills the craving desire,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">98</td><td>
+that it never satisfies its greedy desire,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">98</td><td>
 that it never fills its greedy desire,
@@ -2459,8 +2753,11 @@ e dopo ’l pasto ha più fame che pria.
 <tr><td>Norton-1</td><td align="right">99</td><td>
 and after food is hungrier than before.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">99</td><td>
+<tr><td>ChatGPT-1</td><td align="right">99</td><td>
 and after the meal has more hunger than before.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">99</td><td>
+and after the meal, it is hungrier than before.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">99</td><td>
 and after its food it has more hunger than before.
@@ -2484,8 +2781,11 @@ Molti son li animali a cui s’ammoglia,
 <tr><td>Norton-1</td><td align="right">100</td><td>
 Many are the animals with which she wives,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">100</td><td>
+<tr><td>ChatGPT-1</td><td align="right">100</td><td>
 Many are the animals with which it mates,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">100</td><td>
+Many are the animals with whom it mates,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">100</td><td>
 Many animals are married to him,
@@ -2509,8 +2809,11 @@ e più saranno ancora, infin che ’l veltro
 <tr><td>Norton-1</td><td align="right">101</td><td>
 and there shall be more yet, till the hound
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">101</td><td>
+<tr><td>ChatGPT-1</td><td align="right">101</td><td>
 and many more will be, until the greyhound
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">101</td><td>
+and there will be more still, until the greyhound
 </td></tr>
 <tr><td>Bard-1</td><td align="right">101</td><td>
 and more will be still, until the greyhound
@@ -2534,8 +2837,11 @@ verrà, che la farà morir con doglia.
 <tr><td>Norton-1</td><td align="right">102</td><td>
 shall come that will make her die of grief.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">102</td><td>
+<tr><td>ChatGPT-1</td><td align="right">102</td><td>
 comes, which will make her die with sorrow.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">102</td><td>
+comes, which will make her die in pain.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">102</td><td>
 will come, that he will make her die with grief.
@@ -2559,8 +2865,11 @@ Questi non ciberà terra né peltro,
 <tr><td>Norton-1</td><td align="right">103</td><td>
 He shall not feed on land or goods,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">103</td><td>
+<tr><td>ChatGPT-1</td><td align="right">103</td><td>
 This one will not feed on earth or pewter,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">103</td><td>
+He will not feed on land or metal,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">103</td><td>
 He will not eat earth nor pewter,
@@ -2584,7 +2893,10 @@ ma sapïenza, amore e virtute,
 <tr><td>Norton-1</td><td align="right">104</td><td>
 but wisdom and love and valor,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">104</td><td>
+<tr><td>ChatGPT-1</td><td align="right">104</td><td>
+but on wisdom, love, and virtue,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">104</td><td>
 but on wisdom, love, and virtue,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">104</td><td>
@@ -2609,7 +2921,10 @@ e sua nazion sarà tra feltro e feltro.
 <tr><td>Norton-1</td><td align="right">105</td><td>
 and his birthplace shall be between Feltro and Feltro.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">105</td><td>
+<tr><td>ChatGPT-1</td><td align="right">105</td><td>
+and his nation will be between felt and felt.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">105</td><td>
 and his nation will be between felt and felt.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">105</td><td>
@@ -2634,8 +2949,11 @@ Di quella umile Italia fia salute
 <tr><td>Norton-1</td><td align="right">106</td><td>
 Of that humble Italy shall he be the salvation,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">106</td><td>
+<tr><td>ChatGPT-1</td><td align="right">106</td><td>
 From that humble Italy will come salvation,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">106</td><td>
+From that humble Italy, salvation will come
 </td></tr>
 <tr><td>Bard-1</td><td align="right">106</td><td>
 The salvation of that humble Italy will be
@@ -2659,7 +2977,10 @@ per cui morì la vergine Cammilla,
 <tr><td>Norton-1</td><td align="right">107</td><td>
 for which the virgin Camilla died,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">107</td><td>
+<tr><td>ChatGPT-1</td><td align="right">107</td><td>
+for which the virgin Camilla died,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">107</td><td>
 for which the virgin Camilla died,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">107</td><td>
@@ -2684,8 +3005,11 @@ Eurialo e Turno e Niso di ferute.
 <tr><td>Norton-1</td><td align="right">108</td><td>
 and Euryalus, Turnus and Nisus of their wounds.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">108</td><td>
+<tr><td>ChatGPT-1</td><td align="right">108</td><td>
 Euryalus and Turnus and Nisus with wounds.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">108</td><td>
+and Eurialus, Turnus, and Nisus from wounds.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">108</td><td>
 Euryalus and Turnus and Nisus of wounds.
@@ -2709,8 +3033,11 @@ Questi la caccerà per ogne villa,
 <tr><td>Norton-1</td><td align="right">109</td><td>
 He shall hunt her through every town
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">109</td><td>
+<tr><td>ChatGPT-1</td><td align="right">109</td><td>
 This one will chase her through every town,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">109</td><td>
+He will chase her through every town,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">109</td><td>
 He will drive her away through every village,
@@ -2734,8 +3061,11 @@ fin che l’avrà rimessa ne lo ’nferno,
 <tr><td>Norton-1</td><td align="right">110</td><td>
 till he shall have set her back in hell,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">110</td><td>
+<tr><td>ChatGPT-1</td><td align="right">110</td><td>
 until he has placed her back in hell,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">110</td><td>
+until he has thrust her back into Hell,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">110</td><td>
 until he has put her back in hell,
@@ -2759,8 +3089,11 @@ là onde ’nvidia prima dipartilla.
 <tr><td>Norton-1</td><td align="right">111</td><td>
 there whence envy first sent her forth.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">111</td><td>
+<tr><td>ChatGPT-1</td><td align="right">111</td><td>
 where envy was first separated.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">111</td><td>
+from where envy first set her loose.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">111</td><td>
 there where envy first took her away.
@@ -2784,8 +3117,11 @@ Ond’io per lo tuo me’ penso e discerno
 <tr><td>Norton-1</td><td align="right">112</td><td>
 Wherefore I think and deem it for thy best
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">112</td><td>
+<tr><td>ChatGPT-1</td><td align="right">112</td><td>
 Wherefore I think and understand myself through your
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">112</td><td>
+Therefore, I think and discern better for your sake,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">112</td><td>
 Therefore, I think and discern through your face
@@ -2809,7 +3145,10 @@ che tu mi segui, e io sarò tua guida,
 <tr><td>Norton-1</td><td align="right">113</td><td>
 that thou follow me, and I will be thy guide,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">113</td><td>
+<tr><td>ChatGPT-1</td><td align="right">113</td><td>
+that you follow me, and I will be your guide,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">113</td><td>
 that you follow me, and I will be your guide,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">113</td><td>
@@ -2834,8 +3173,11 @@ e trarrotti di qui per loco etterno;
 <tr><td>Norton-1</td><td align="right">114</td><td>
 and will lead thee hence through the eternal place
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">114</td><td>
+<tr><td>ChatGPT-1</td><td align="right">114</td><td>
 and lead you from here to eternal place;
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">114</td><td>
+and lead you from here to the eternal place;
 </td></tr>
 <tr><td>Bard-1</td><td align="right">114</td><td>
 and I will draw you from here through an eternal place;
@@ -2859,7 +3201,10 @@ ove udirai le disperate strida,
 <tr><td>Norton-1</td><td align="right">115</td><td>
 where thou shalt hear the despairing shrieks,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">115</td><td>
+<tr><td>ChatGPT-1</td><td align="right">115</td><td>
+where you will hear the desperate cries,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">115</td><td>
 where you will hear the desperate cries,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">115</td><td>
@@ -2884,7 +3229,10 @@ vedrai li antichi spiriti dolenti,
 <tr><td>Norton-1</td><td align="right">116</td><td>
 shalt see the ancient spirits woeful
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">116</td><td>
+<tr><td>ChatGPT-1</td><td align="right">116</td><td>
+you will see the ancient suffering spirits,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">116</td><td>
 you will see the ancient suffering spirits,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">116</td><td>
@@ -2909,8 +3257,11 @@ ch’a la seconda morte ciascun grida;
 <tr><td>Norton-1</td><td align="right">117</td><td>
 who each proclaim the second death.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">117</td><td>
+<tr><td>ChatGPT-1</td><td align="right">117</td><td>
 who in the second death each one cries;
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">117</td><td>
+who cry out for the second death;
 </td></tr>
 <tr><td>Bard-1</td><td align="right">117</td><td>
 that each cries out to the second death
@@ -2934,7 +3285,10 @@ e vederai color che son contenti
 <tr><td>Norton-1</td><td align="right">118</td><td>
 And then thou shalt see those who are contented
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">118</td><td>
+<tr><td>ChatGPT-1</td><td align="right">118</td><td>
+and you will see those who are content
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">118</td><td>
 and you will see those who are content
 </td></tr>
 <tr><td>Bard-1</td><td align="right">118</td><td>
@@ -2959,8 +3313,11 @@ nel foco, perché speran di venire
 <tr><td>Norton-1</td><td align="right">119</td><td>
 in the fire, because they hope to come,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">119</td><td>
+<tr><td>ChatGPT-1</td><td align="right">119</td><td>
 in the fire, because they hope to come
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">119</td><td>
+in the fire because they hope to come
 </td></tr>
 <tr><td>Bard-1</td><td align="right">119</td><td>
 in the fire, because they hope to come
@@ -2984,8 +3341,11 @@ quando che sia a le beate genti.
 <tr><td>Norton-1</td><td align="right">120</td><td>
 whenever it may be, to the blessed folk;
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">120</td><td>
+<tr><td>ChatGPT-1</td><td align="right">120</td><td>
 whenever it may be to the blessed people.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">120</td><td>
+whenever it may be, to the blessed people.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">120</td><td>
 when they will be with the blessed people.
@@ -3009,8 +3369,11 @@ A le quai poi se tu vorrai salire,
 <tr><td>Norton-1</td><td align="right">121</td><td>
 to whom if thou wilt thereafter ascend,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">121</td><td>
+<tr><td>ChatGPT-1</td><td align="right">121</td><td>
 To the steps then if you will want to climb,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">121</td><td>
+To which, if you wish to ascend,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">121</td><td>
 To those people, if you will want to rise
@@ -3034,8 +3397,11 @@ anima fia a ciò più di me degna:
 <tr><td>Norton-1</td><td align="right">122</td><td>
 then shall be a soul more worthy than I for that.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">122</td><td>
+<tr><td>ChatGPT-1</td><td align="right">122</td><td>
 a soul will be more worthy of this than me:
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">122</td><td>
+there will be a soul more worthy than I:
 </td></tr>
 <tr><td>Bard-1</td><td align="right">122</td><td>
 the soul will be to that more worthy than me
@@ -3059,8 +3425,11 @@ con lei ti lascerò nel mio partire;
 <tr><td>Norton-1</td><td align="right">123</td><td>
 With her I will leave thee at my departure;
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">123</td><td>
+<tr><td>ChatGPT-1</td><td align="right">123</td><td>
 with her I will leave you in my departure;
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">123</td><td>
+with her, I will leave you when I depart;
 </td></tr>
 <tr><td>Bard-1</td><td align="right">123</td><td>
 with her I will leave in my departure;
@@ -3084,8 +3453,11 @@ ché quello imperador che là sù regna,
 <tr><td>Norton-1</td><td align="right">124</td><td>
 for that Emperor who reigneth them above,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">124</td><td>
+<tr><td>ChatGPT-1</td><td align="right">124</td><td>
 because that emperor who up there reigns,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">124</td><td>
+for the Emperor who reigns there above,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">124</td><td>
 because the emperor who reigns up there
@@ -3109,7 +3481,10 @@ perch’i’ fu’ ribellante a la sua legge,
 <tr><td>Norton-1</td><td align="right">125</td><td>
 because I was rebellious to His law,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">125</td><td>
+<tr><td>ChatGPT-1</td><td align="right">125</td><td>
+because I was rebellious to his law,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">125</td><td>
 because I was rebellious to his law,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">125</td><td>
@@ -3134,8 +3509,11 @@ non vuol che ’n sua città per me si vegna.
 <tr><td>Norton-1</td><td align="right">126</td><td>
 wills not that into His city any one should come through me.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">126</td><td>
+<tr><td>ChatGPT-1</td><td align="right">126</td><td>
 he does not want that into his city through me one comes.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">126</td><td>
+does not want anyone to come to his city for me.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">126</td><td>
 does not want that I come to his city
@@ -3159,8 +3537,11 @@ In tutte parti impera e quivi regge;
 <tr><td>Norton-1</td><td align="right">127</td><td>
 In all parts He governs and them He reigns:
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">127</td><td>
+<tr><td>ChatGPT-1</td><td align="right">127</td><td>
 In all parts he reigns and there rules;
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">127</td><td>
+He rules everywhere and governs there;
 </td></tr>
 <tr><td>Bard-1</td><td align="right">127</td><td>
 He rules in all parts and governs here.
@@ -3184,8 +3565,11 @@ quivi è la sua città e l’alto seggio:
 <tr><td>Norton-1</td><td align="right">128</td><td>
 there in His city and His lofty seat.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">128</td><td>
+<tr><td>ChatGPT-1</td><td align="right">128</td><td>
 there is his city and the high throne:
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">128</td><td>
+there is his city and his lofty throne:
 </td></tr>
 <tr><td>Bard-1</td><td align="right">128</td><td>
 here is his city and his high seat.
@@ -3209,8 +3593,11 @@ oh felice colui cu’ ivi elegge!".
 <tr><td>Norton-1</td><td align="right">129</td><td>
 O happy he whom thereto He elects!"
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">129</td><td>
+<tr><td>ChatGPT-1</td><td align="right">129</td><td>
 oh fortunate is he whom there he chooses!".
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">129</td><td>
+oh, happy is the one whom he chooses there!"
 </td></tr>
 <tr><td>Bard-1</td><td align="right">129</td><td>
 oh, happy is he whom he elects here!
@@ -3234,8 +3621,11 @@ E io a lui: "Poeta, io ti richeggio
 <tr><td>Norton-1</td><td align="right">130</td><td>
 And I to him, "Poet, I beseech thee
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">130</td><td>
+<tr><td>ChatGPT-1</td><td align="right">130</td><td>
 And I to him: "Poet, I implore you
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">130</td><td>
+And I to him: "Poet, I entreat you
 </td></tr>
 <tr><td>Bard-1</td><td align="right">130</td><td>
 And I said to him: "Poet, I beg you
@@ -3259,8 +3649,11 @@ per quello Dio che tu non conoscesti,
 <tr><td>Norton-1</td><td align="right">131</td><td>
 by that God whom thou didst not know,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">131</td><td>
+<tr><td>ChatGPT-1</td><td align="right">131</td><td>
 for that God whom you did not know,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">131</td><td>
+by that God whom you did not know,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">131</td><td>
 for that God whom you did not know
@@ -3284,7 +3677,10 @@ acciò ch’io fugga questo male e peggio,
 <tr><td>Norton-1</td><td align="right">132</td><td>
 in order that I may escape this ill and worse,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">132</td><td>
+<tr><td>ChatGPT-1</td><td align="right">132</td><td>
+so that I may escape this evil and worse,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">132</td><td>
 so that I may escape this evil and worse,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">132</td><td>
@@ -3309,8 +3705,11 @@ che tu mi meni là dov’or dicesti,
 <tr><td>Norton-1</td><td align="right">133</td><td>
 that thou lead me thither whom thou now hast said,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">133</td><td>
+<tr><td>ChatGPT-1</td><td align="right">133</td><td>
 lead me there where you said,
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">133</td><td>
+that you lead me to where you spoke of,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">133</td><td>
 that you lead me there where you said
@@ -3334,7 +3733,10 @@ sì ch’io veggia la porta di san Pietro
 <tr><td>Norton-1</td><td align="right">134</td><td>
 so that I may see the gate of St. Peter,
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">134</td><td>
+<tr><td>ChatGPT-1</td><td align="right">134</td><td>
+so that I may see the gate of Saint Peter
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">134</td><td>
 so that I may see the gate of Saint Peter
 </td></tr>
 <tr><td>Bard-1</td><td align="right">134</td><td>
@@ -3359,8 +3761,11 @@ e color cui tu fai cotanto mesti".
 <tr><td>Norton-1</td><td align="right">135</td><td>
 and those whom thou makest so afflicted."
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">135</td><td>
+<tr><td>ChatGPT-1</td><td align="right">135</td><td>
 and those whom you make so sad.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">135</td><td>
+and those whom you make so mournful."
 </td></tr>
 <tr><td>Bard-1</td><td align="right">135</td><td>
 and the people whom you make so sad"
@@ -3384,8 +3789,11 @@ Allor si mosse, e io li tenni dietro.
 <tr><td>Norton-1</td><td align="right">136</td><td>
 Then he moved on, and I behind him kept.
 </td></tr>
-<tr><td>ChatGPT</td><td align="right">136</td><td>
+<tr><td>ChatGPT-1</td><td align="right">136</td><td>
 Then he moved, and I followed him.
+</td></tr>
+<tr><td>ChatGPT-2</td><td align="right">136</td><td>
+Then he moved, and I kept pace with him.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">136</td><td>
 Then he moved, and I followed him.
