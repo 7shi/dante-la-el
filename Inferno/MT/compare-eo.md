@@ -21,6 +21,9 @@ En la mezo de la vojo de nia vivo
 <tr><td>Google</td><td align="right">1</td><td>
 En la mezo de nia vivovojaĝo
 </td></tr>
+<tr><td>Baidu</td><td align="right">1</td><td>
+En la mezo de nia viva vojaĝo
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">2</td><td>
 mi ritrovai per una selva oscura,
@@ -38,6 +41,9 @@ mi trovis min en malhela arbaro
 Mi trovis min en arbaro malhela,
 </td></tr>
 <tr><td>Google</td><td align="right">2</td><td>
+Mi trovis min en malluma arbaro,
+</td></tr>
+<tr><td>Baidu</td><td align="right">2</td><td>
 Mi trovis min en malluma arbaro,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
@@ -59,6 +65,9 @@ ché la diritta via era smarrita.
 <tr><td>Google</td><td align="right">3</td><td>
 ĉar la rekta vojo estis perdita.
 </td></tr>
+<tr><td>Baidu</td><td align="right">3</td><td>
+ĉar la direkta vojo estis perdita.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">4</td><td>
 Ahi quanto a dir qual era è cosa dura
@@ -77,6 +86,9 @@ Ho, kiom rakonti pri ĝi estas malfacila,
 </td></tr>
 <tr><td>Google</td><td align="right">4</td><td>
 Ve, estas malfacile diri, kiu ĝi estis
+</td></tr>
+<tr><td>Baidu</td><td align="right">4</td><td>
+Ho, kio tio estis? Estas malfacile.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">5</td><td>
@@ -97,6 +109,9 @@ kia foresta kaj sovaĝa kaj malforta estas ĉi tiu arbaro,
 <tr><td>Google</td><td align="right">5</td><td>
 ĉi tiu sovaĝa, kruda kaj forta arbaro
 </td></tr>
+<tr><td>Baidu</td><td align="right">5</td><td>
+Tiu saĝa kaj ruĝa arbaro estas forta.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">6</td><td>
 che nel pensier rinova la paura!
@@ -115,6 +130,9 @@ Kiu en la penso renovigas la timojn!
 </td></tr>
 <tr><td>Google</td><td align="right">6</td><td>
 tio renovigas timon en penso!
+</td></tr>
+<tr><td>Baidu</td><td align="right">6</td><td>
+kiu en la penso revivigas timon!
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">7</td><td>
@@ -135,6 +153,9 @@ Tio estas tiel maldolĉa ke ĝi estas preskaŭ morto;
 <tr><td>Google</td><td align="right">7</td><td>
 Ĝi estas tiel amara, ke ĝi estas malmulte pli ol morto;
 </td></tr>
+<tr><td>Baidu</td><td align="right">7</td><td>
+Tial amara, ke malmulto estas pli da morto;
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">8</td><td>
 ma per trattar del ben ch’i’ vi trovai,
@@ -153,6 +174,9 @@ Sed por paroli pri la bono kiun mi trovis tie,
 </td></tr>
 <tr><td>Google</td><td align="right">8</td><td>
 sed por diskuti pri la bono, kiun mi trovis tie,
+</td></tr>
+<tr><td>Baidu</td><td align="right">8</td><td>
+sed por trakti la bonon, kiun mi trovis tie,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">9</td><td>
@@ -173,6 +197,9 @@ Mi diros pri la aliaj aferoj kiujn mi vidis tie.
 <tr><td>Google</td><td align="right">9</td><td>
 Mi rakontos al vi pri la aliaj aferoj, kiujn mi rimarkis tie.
 </td></tr>
+<tr><td>Baidu</td><td align="right">9</td><td>
+Mi rakontos al vi pri la aliaj aferoj, kiujn mi havas provizojn por vi.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">10</td><td>
 Io non so ben ridir com’i’ v’intrai,
@@ -191,6 +218,9 @@ Mi ne scias bone diri kiel mi eniris,
 </td></tr>
 <tr><td>Google</td><td align="right">10</td><td>
 Mi ne scias kiel klarigi kiel mi enigis ĝin,
+</td></tr>
+<tr><td>Baidu</td><td align="right">10</td><td>
+Mi ne scias, kiel ridi pri tio.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">11</td><td>
@@ -211,6 +241,9 @@ Tiom mi estis plena de dormo en tiu momento
 <tr><td>Google</td><td align="right">11</td><td>
 li estis tiel dormema en tiu punkto
 </td></tr>
+<tr><td>Baidu</td><td align="right">11</td><td>
+Do plena de dormo en tiu momento
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">12</td><td>
 che la verace via abbandonai.
@@ -228,6 +261,9 @@ ke mi forlasis la veran vojon
 Kiam mi forlasis la veran vojon.
 </td></tr>
 <tr><td>Google</td><td align="right">12</td><td>
+ke mi forlasis la veran vojon.
+</td></tr>
+<tr><td>Baidu</td><td align="right">12</td><td>
 ke mi forlasis la veran vojon.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
@@ -249,6 +285,9 @@ Sed post kiam mi atingis la piedon de monteto,
 <tr><td>Google</td><td align="right">13</td><td>
 Sed tiam mi atingis la piedon de monteto,
 </td></tr>
+<tr><td>Baidu</td><td align="right">13</td><td>
+Sed tiam mi estis apud la piedo de monto, kiu venis,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">14</td><td>
 là dove terminava quella valle
@@ -267,6 +306,9 @@ Kie tiu valo finiĝis
 </td></tr>
 <tr><td>Google</td><td align="right">14</td><td>
 kie tiu valo finiĝis
+</td></tr>
+<tr><td>Baidu</td><td align="right">14</td><td>
+kie la valo finis
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">15</td><td>
@@ -287,6 +329,9 @@ Kiu havis min kun timon en la koro,
 <tr><td>Google</td><td align="right">15</td><td>
 ke mia rompita koro timis,
 </td></tr>
+<tr><td>Baidu</td><td align="right">15</td><td>
+ke mia koro timis,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">16</td><td>
 guardai in alto e vidi le sue spalle
@@ -305,6 +350,9 @@ Mi rigardis supre kaj vidis liajn ŝultrojn
 </td></tr>
 <tr><td>Google</td><td align="right">16</td><td>
 Mi rigardis supren kaj vidis lian dorson
+</td></tr>
+<tr><td>Baidu</td><td align="right">16</td><td>
+Mi rigardis supren kaj vidis liajn ŝultrojn
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">17</td><td>
@@ -325,6 +373,9 @@ Jam vestitaj per la radioj de la planedo
 <tr><td>Google</td><td align="right">17</td><td>
 jam vestite per la radioj de la planedo
 </td></tr>
+<tr><td>Baidu</td><td align="right">17</td><td>
+jam vestita en la radioj de la planedo
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">18</td><td>
 che mena dritto altrui per ogne calle.
@@ -343,6 +394,9 @@ Kiu gvidas homojn ĝuste laŭ ĉiu vojo.
 </td></tr>
 <tr><td>Google</td><td align="right">18</td><td>
 kiu kondukas aliajn rekte laŭ ĉiu strato.
+</td></tr>
+<tr><td>Baidu</td><td align="right">18</td><td>
+kiu direktas aliajn direkte al ogna kallo.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">19</td><td>
@@ -363,6 +417,9 @@ Tiam la timo estis iom trankviligita,
 <tr><td>Google</td><td align="right">19</td><td>
 Tiam la timo estis iom kvieta,
 </td></tr>
+<tr><td>Baidu</td><td align="right">19</td><td>
+Tiam estis timo iom simila,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">20</td><td>
 che nel lago del cor m’era durata
@@ -381,6 +438,9 @@ Kiu daŭris en la lago de la koro
 </td></tr>
 <tr><td>Google</td><td align="right">20</td><td>
 kiu daŭris en la lago de mia koro
+</td></tr>
+<tr><td>Baidu</td><td align="right">20</td><td>
+en la lago de mia koro
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">21</td><td>
@@ -401,6 +461,9 @@ La nokton kiun mi pasis kun tia pieco.
 <tr><td>Google</td><td align="right">21</td><td>
 la nokton, kiun mi pasigis kun tiom da kompato.
 </td></tr>
+<tr><td>Baidu</td><td align="right">21</td><td>
+La nokto, kiun mi pasis tiel afabla.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">22</td><td>
 E come quei che con lena affannata,
@@ -419,6 +482,9 @@ Kaj kiel tiu kiu kun laca spiro,
 </td></tr>
 <tr><td>Google</td><td align="right">22</td><td>
 Kaj kiel tiuj, kiuj kun senspira energio,
+</td></tr>
+<tr><td>Baidu</td><td align="right">22</td><td>
+Kaj kiel tiuj, kiuj estas deziraj,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">23</td><td>
@@ -439,6 +505,9 @@ Elirinta el la oceano al la bordo,
 <tr><td>Google</td><td align="right">23</td><td>
 venis el la oceano al la bordo,
 </td></tr>
+<tr><td>Baidu</td><td align="right">23</td><td>
+el la pelagiko al la lito,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">24</td><td>
 si volge a l’acqua perigliosa e guata,
@@ -457,6 +526,9 @@ Turnas sin al la danĝera akvo kaj rigardas,
 </td></tr>
 <tr><td>Google</td><td align="right">24</td><td>
 turnas sin al la danĝera akvo kaj rigardas,
+</td></tr>
+<tr><td>Baidu</td><td align="right">24</td><td>
+turnas al la danĝera kaj malproksima akvo,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">25</td><td>
@@ -477,6 +549,9 @@ Tiel la mia animo, kiu ankoraŭ fuĝis,
 <tr><td>Google</td><td align="right">25</td><td>
 do mia animo, kiu ankoraŭ fuĝis,
 </td></tr>
+<tr><td>Baidu</td><td align="right">25</td><td>
+do mia animo, kiu ankoraŭ forkuris,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">26</td><td>
 si volse a retro a rimirar lo passo
@@ -495,6 +570,9 @@ Turnis sin malantaŭen por rigardi la pason
 </td></tr>
 <tr><td>Google</td><td align="right">26</td><td>
 li returnis sin por admiri la ritmon
+</td></tr>
+<tr><td>Baidu</td><td align="right">26</td><td>
+Li revertis kaj rigardis la paŝon
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">27</td><td>
@@ -515,6 +593,9 @@ Kiu neniam lasis jam personon vivan.
 <tr><td>Google</td><td align="right">27</td><td>
 kiu neniam lasis homon vivanta.
 </td></tr>
+<tr><td>Baidu</td><td align="right">27</td><td>
+kiu neniam lasis homon vivan.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">28</td><td>
 Poi ch’èi posato un poco il corpo lasso,
@@ -533,6 +614,9 @@ Post kiam mi metis la korpon malstaran por iom,
 </td></tr>
 <tr><td>Google</td><td align="right">28</td><td>
 Post kiam mi iom ripozigis mian malfortan korpon,
+</td></tr>
+<tr><td>Baidu</td><td align="right">28</td><td>
+Tiam li malsuprenigis iom da korpo,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">29</td><td>
@@ -553,6 +637,9 @@ Mi rekomencis vojon laŭ la dezerta bordo,
 <tr><td>Google</td><td align="right">29</td><td>
 Mi denove ekiris laŭ la dezerta plaĝo,
 </td></tr>
+<tr><td>Baidu</td><td align="right">29</td><td>
+forprenita de la dezerta plago,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">30</td><td>
 sì che ’l piè fermo sempre era ’l più basso.
@@ -571,6 +658,9 @@ Tiel ke la piedo fiksita ĉiam estis la plej malalta.
 </td></tr>
 <tr><td>Google</td><td align="right">30</td><td>
 tiel ke la firma piedo estis ĉiam la plej malalta.
+</td></tr>
+<tr><td>Baidu</td><td align="right">30</td><td>
+Do la ankoraŭ piedo estis ĉiam la plej malsupra.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">31</td><td>
@@ -591,6 +681,9 @@ Kaj jen, preskaŭ ĉe la komenco de la deklivo,
 <tr><td>Google</td><td align="right">31</td><td>
 Kaj ĉi tie, preskaŭ komence de la grimpado,
 </td></tr>
+<tr><td>Baidu</td><td align="right">31</td><td>
+Kaj ĉi tie, preskaŭ en la komenco de la alarmo,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">32</td><td>
 una lonza leggera e presta molto,
@@ -609,6 +702,9 @@ Lonceto malpeza kaj tre rapida,
 </td></tr>
 <tr><td>Google</td><td align="right">32</td><td>
 malpeza lumbo, kiu pruntedonas multe,
+</td></tr>
+<tr><td>Baidu</td><td align="right">32</td><td>
+lumlumlumo kaj multe prunteprenas,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">33</td><td>
@@ -629,6 +725,9 @@ Kiu estis kovrita per makulita felo;
 <tr><td>Google</td><td align="right">33</td><td>
 kiu estis kovrita de makulaj haroj;
 </td></tr>
+<tr><td>Baidu</td><td align="right">33</td><td>
+kiu estis kovrita per pruntaj haroj;
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">34</td><td>
 e non mi si partia dinanzi al volto,
@@ -647,6 +746,9 @@ Kaj ĝi ne foriris de antaŭ mia vizaĝo,
 </td></tr>
 <tr><td>Google</td><td align="right">34</td><td>
 kaj ne foriru antaŭ mia vizaĝo,
+</td></tr>
+<tr><td>Baidu</td><td align="right">34</td><td>
+kaj ili ne foriris antaux mia vizaĝo,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">35</td><td>
@@ -667,6 +769,9 @@ Anstataŭe ĝi malhelpis tiel mian vojon,
 <tr><td>Google</td><td align="right">35</td><td>
 fakte ĝi multe malhelpis mian vojon,
 </td></tr>
+<tr><td>Baidu</td><td align="right">35</td><td>
+Vere li tiel maltrankviligis mian vojon,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">36</td><td>
 ch’i’ fui per ritornar più volte vòlto.
@@ -685,6 +790,9 @@ Ke mi estis por reiri pli multe da fojoj turnita.
 </td></tr>
 <tr><td>Google</td><td align="right">36</td><td>
 ĉar mi estis plurfoje turnita por reveni.
+</td></tr>
+<tr><td>Baidu</td><td align="right">36</td><td>
+Mi estis preskaŭ reveni plurfoje.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">37</td><td>
@@ -705,6 +813,9 @@ Tempo estis de la komenco de la mateno,
 <tr><td>Google</td><td align="right">37</td><td>
 La vetero estis ekde la komenco de la mateno,
 </td></tr>
+<tr><td>Baidu</td><td align="right">37</td><td>
+Ĝi estis de la komenco de la mateno,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">38</td><td>
 e ’l sol montava ’n sù con quelle stelle
@@ -723,6 +834,9 @@ Kaj la suno leviĝis supre kun tiuj steloj
 </td></tr>
 <tr><td>Google</td><td align="right">38</td><td>
 kaj la suno leviĝis supren kun tiuj steloj
+</td></tr>
+<tr><td>Baidu</td><td align="right">38</td><td>
+Kaj la suno levis kun tiuj steloj
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">39</td><td>
@@ -743,6 +857,9 @@ Kiuj estis kun li kiam la amo dia
 <tr><td>Google</td><td align="right">39</td><td>
 kiuj estis kun li kiam dia amo
 </td></tr>
+<tr><td>Baidu</td><td align="right">39</td><td>
+kiuj estis kun li kiam divina amo
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">40</td><td>
 mosse di prima quelle cose belle;
@@ -761,6 +878,9 @@ Movis unue tiujn belajn aĵojn;
 </td></tr>
 <tr><td>Google</td><td align="right">40</td><td>
 movas tiujn belajn aferojn unue;
+</td></tr>
+<tr><td>Baidu</td><td align="right">40</td><td>
+movigis tiujn belajn aferojn antaŭe;
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">41</td><td>
@@ -781,6 +901,9 @@ Tiel ke al bone esperi estis kaŭzo por mi
 <tr><td>Google</td><td align="right">41</td><td>
 tiel ke estis kialo por mi bone esperi
 </td></tr>
+<tr><td>Baidu</td><td align="right">41</td><td>
+Estis bona esperi
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">42</td><td>
 di quella fiera a la gaetta pelle
@@ -799,6 +922,9 @@ De tiu fiera al la gaja haŭto
 </td></tr>
 <tr><td>Google</td><td align="right">42</td><td>
 de tiu hela haŭto
+</td></tr>
+<tr><td>Baidu</td><td align="right">42</td><td>
+de tiu justeco al la gaetta pello
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">43</td><td>
@@ -819,6 +945,9 @@ La horo de la tempo kaj la dolĉa sezono;
 <tr><td>Google</td><td align="right">43</td><td>
 la horo de la tempo kaj la dolĉa sezono;
 </td></tr>
+<tr><td>Baidu</td><td align="right">43</td><td>
+la tempon de tempo kaj la dolca sezono;
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">44</td><td>
 ma non sì che paura non mi desse
@@ -837,6 +966,9 @@ Sed ne tiom, ke mi ne sentis timojn,
 </td></tr>
 <tr><td>Google</td><td align="right">44</td><td>
 sed tio ne timigis min
+</td></tr>
+<tr><td>Baidu</td><td align="right">44</td><td>
+Sed mi ne timas
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">45</td><td>
@@ -857,6 +989,9 @@ Kiam mi vidis la leonon.
 <tr><td>Google</td><td align="right">45</td><td>
 la vido, kiu aperis al mi de leono.
 </td></tr>
+<tr><td>Baidu</td><td align="right">45</td><td>
+la vido, kiu aperis al mi el leono.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">46</td><td>
 Questi parea che contra me venisse
@@ -875,6 +1010,9 @@ Tiu ŝajnis veni kontraŭ mi
 </td></tr>
 <tr><td>Google</td><td align="right">46</td><td>
 Ŝajnis, ke li venas kontraŭ mi
+</td></tr>
+<tr><td>Baidu</td><td align="right">46</td><td>
+Tio ŝajnis kontraŭ mi.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">47</td><td>
@@ -895,6 +1033,9 @@ Kun la kapo alta kaj kun furioza malsato,
 <tr><td>Google</td><td align="right">47</td><td>
 kun kapo alte kaj kun furioza malsato,
 </td></tr>
+<tr><td>Baidu</td><td align="right">47</td><td>
+kun la alta testo kaj kolera malsato,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">48</td><td>
 sì che parea che l’aere ne tremesse.
@@ -913,6 +1054,9 @@ Tiel ke ŝajnis, ke la aero tremas.
 </td></tr>
 <tr><td>Google</td><td align="right">48</td><td>
 tiom, ke ŝajnis, kvazaŭ la aero tremas.
+</td></tr>
+<tr><td>Baidu</td><td align="right">48</td><td>
+por ke la aero ŝajnis tremi.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">49</td><td>
@@ -933,6 +1077,9 @@ Kaj lupino, kiu ŝajnis esti ŝarĝita
 <tr><td>Google</td><td align="right">49</td><td>
 Kaj lupino, kiu sopiras ĉion
 </td></tr>
+<tr><td>Baidu</td><td align="right">49</td><td>
+Kaj lupo, kiu deziras ĉiujn
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">50</td><td>
 sembiava carca ne la sua magrezza,
@@ -951,6 +1098,9 @@ Per ĉiuj deziroj en sia maldikeco,
 </td></tr>
 <tr><td>Google</td><td align="right">50</td><td>
 ŝi ŝajnis ŝarĝita en sia maldikeco,
+</td></tr>
+<tr><td>Baidu</td><td align="right">50</td><td>
+Li aspektis kiel morto en sia mallumo,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">51</td><td>
@@ -971,6 +1121,9 @@ Kaj kiu jam faris multajn homojn vivi malfeliĉe,
 <tr><td>Google</td><td align="right">51</td><td>
 kaj multaj homoj jam faris mizeran vivon,
 </td></tr>
+<tr><td>Baidu</td><td align="right">51</td><td>
+kaj multaj nacioj jam vivis gramojn,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">52</td><td>
 questa mi porse tanto di gravezza
@@ -989,6 +1142,9 @@ Tiu metis al mi tiom da pezo
 </td></tr>
 <tr><td>Google</td><td align="right">52</td><td>
 ĉi tio alportis al mi tiom da problemoj
+</td></tr>
+<tr><td>Baidu</td><td align="right">52</td><td>
+tio donis al mi tiom da pezoj
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">53</td><td>
@@ -1009,6 +1165,9 @@ Kun la timo, kiu eliris el ŝia vizaĝo,
 <tr><td>Google</td><td align="right">53</td><td>
 kun la timo, kiu eliras el liaj okuloj,
 </td></tr>
+<tr><td>Baidu</td><td align="right">53</td><td>
+kun la timo, kiu eliras el sia okulo,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">54</td><td>
 ch’io perdei la speranza de l’altezza.
@@ -1027,6 +1186,9 @@ Ke mi perdis la esperon atingi la altecon.
 </td></tr>
 <tr><td>Google</td><td align="right">54</td><td>
 ke mi perdis esperon pri altajxoj.
+</td></tr>
+<tr><td>Baidu</td><td align="right">54</td><td>
+Mi perdis esperon pri altoj.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">55</td><td>
@@ -1047,6 +1209,9 @@ Kaj kiel tiu, kiu volonte akiras,
 <tr><td>Google</td><td align="right">55</td><td>
 Kaj kiu estas tiu, kiu volonte aĉetas,
 </td></tr>
+<tr><td>Baidu</td><td align="right">55</td><td>
+Kaj kio estas tio, kio volonte akceptas,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">56</td><td>
 e giugne ’l tempo che perder lo face,
@@ -1065,6 +1230,9 @@ Kaj alvenas la tempo, kiu lin perdas,
 </td></tr>
 <tr><td>Google</td><td align="right">56</td><td>
 kaj venos la tempo, kiu igos lin perdi,
+</td></tr>
+<tr><td>Baidu</td><td align="right">56</td><td>
+kaj giugne 'l tempo che perdere lo face,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">57</td><td>
@@ -1085,6 +1253,9 @@ Kiu en ĉiuj siaj pensoj ploras kaj malĝojas;
 <tr><td>Google</td><td align="right">57</td><td>
 kiu ploras kaj malgajiĝas en ĉiuj siaj pensoj;
 </td></tr>
+<tr><td>Baidu</td><td align="right">57</td><td>
+En ĉiuj liaj pensoj ploras kaj timas;
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">58</td><td>
 tal mi fece la bestia sanza pace,
@@ -1103,6 +1274,9 @@ Tial min faris la besto sen paco,
 </td></tr>
 <tr><td>Google</td><td align="right">58</td><td>
 la besto sen paco faris min tiel,
+</td></tr>
+<tr><td>Baidu</td><td align="right">58</td><td>
+Tial la besto faris min pacon,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">59</td><td>
@@ -1123,6 +1297,9 @@ Kia, venante al mi, iom post iom
 <tr><td>Google</td><td align="right">59</td><td>
 kiu, venante al mi, iom post iom
 </td></tr>
+<tr><td>Baidu</td><td align="right">59</td><td>
+tio, malpli malpli kontraŭ mi,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">60</td><td>
 mi ripigneva là dove ’l sol tace.
@@ -1141,6 +1318,9 @@ Min puŝis reen al kie la suno silentas.
 </td></tr>
 <tr><td>Google</td><td align="right">60</td><td>
 ĝi hantis min kie la suno silentas.
+</td></tr>
+<tr><td>Baidu</td><td align="right">60</td><td>
+Li reiris min, kie la suno silentis.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">61</td><td>
@@ -1161,6 +1341,9 @@ Dum mi ruiniĝis en malalta loko,
 <tr><td>Google</td><td align="right">61</td><td>
 Dum mi ruiniĝis en malalta loko,
 </td></tr>
+<tr><td>Baidu</td><td align="right">61</td><td>
+Dum li ruinis ĝin tie malsupre,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">62</td><td>
 dinanzi a li occhi mi si fu offerto
@@ -1179,6 +1362,9 @@ Antaŭ miaj okuloj sin prezentis
 </td></tr>
 <tr><td>Google</td><td align="right">62</td><td>
 ĝi estis proponita antaŭ miaj okuloj
+</td></tr>
+<tr><td>Baidu</td><td align="right">62</td><td>
+antaŭ iliaj okuloj li alportis sin al mi
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">63</td><td>
@@ -1199,6 +1385,9 @@ Kiu pro longa silento ŝajnis malforta.
 <tr><td>Google</td><td align="right">63</td><td>
 kiu dum longa silento ŝajnis malklara.
 </td></tr>
+<tr><td>Baidu</td><td align="right">63</td><td>
+kiu dum longa silento ŝajnis malluma.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">64</td><td>
 Quando vidi costui nel gran diserto,
@@ -1217,6 +1406,9 @@ Kiam mi vidis ĉi tiun en la granda dezerto,
 </td></tr>
 <tr><td>Google</td><td align="right">64</td><td>
 Kiam mi vidis ĉi tiun viron en la granda dezerto,
+</td></tr>
+<tr><td>Baidu</td><td align="right">64</td><td>
+Kiam mi vidis lin en la granda dezerto,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">65</td><td>
@@ -1237,6 +1429,9 @@ Kiam mi vidis ĉi tiun viron en la granda dezerto,
 <tr><td>Google</td><td align="right">65</td><td>
 "Kompatu min," mi kriis al li,
 </td></tr>
+<tr><td>Baidu</td><td align="right">65</td><td>
+"Miseraro de mi," mi kriis al li,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">66</td><td>
 "qual che tu sii, od ombra od omo certo!".
@@ -1255,6 +1450,9 @@ Kiam mi vidis ĉi tiun viron en la granda dezerto,
 </td></tr>
 <tr><td>Google</td><td align="right">66</td><td>
 "kio ajn vi estas, ombro aŭ viro!".
+</td></tr>
+<tr><td>Baidu</td><td align="right">66</td><td>
+"Kion vi estas, aŭ ombro aŭ certa homo!"
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">67</td><td>
@@ -1275,6 +1473,9 @@ Rispondis li al mi: "Ne homo, homo jam mi estis,
 <tr><td>Google</td><td align="right">67</td><td>
 Li respondis al mi: "Mi ne estas viro, mi jam estis viro,
 </td></tr>
+<tr><td>Baidu</td><td align="right">67</td><td>
+Respondu al mi: "Ne homo, homo, mi jam estis,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">68</td><td>
 e li parenti miei furon lombardi,
@@ -1294,9 +1495,12 @@ Kaj miaj gepatroj estis lombardoj,
 <tr><td>Google</td><td align="right">68</td><td>
 kaj miaj parencoj estis lombardoj,
 </td></tr>
+<tr><td>Baidu</td><td align="right">68</td><td>
+kaj miaj familioj estis Lombardoj,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">69</td><td>
-mantoani per patrïa ambedui.
+mantoani per patria ambedui.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">69</td><td>
 mantovanoj per patrujo ambaŭ."
@@ -1312,6 +1516,9 @@ Mantoanoj laŭ patrujo ambaŭ.
 </td></tr>
 <tr><td>Google</td><td align="right">69</td><td>
 Mantoanoj por sia patrujo ambaŭ.
+</td></tr>
+<tr><td>Baidu</td><td align="right">69</td><td>
+Mantuan por la hejmlando ambaŭ.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">70</td><td>
@@ -1332,6 +1539,9 @@ Mi naskiĝis sub Julio, kvankam malfrue,
 <tr><td>Google</td><td align="right">70</td><td>
 Mi naskiĝis sub Iulio, eĉ se estis malfrue,
 </td></tr>
+<tr><td>Baidu</td><td align="right">70</td><td>
+Mi naskiĝis sub Julio, kvankam ĝi malfruis,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">71</td><td>
 e vissi a Roma sotto ’l buono Augusto
@@ -1351,6 +1561,9 @@ Kaj vivis en Romo sub la bona Aŭgusto
 <tr><td>Google</td><td align="right">71</td><td>
 kaj mi vivis en Romo sub la bona Aŭgusto
 </td></tr>
+<tr><td>Baidu</td><td align="right">71</td><td>
+kaj loĝis en Romo sub la bona Augusto
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">72</td><td>
 nel tempo de li dèi falsi e bugiardi.
@@ -1368,6 +1581,9 @@ en la tempo de la falsaj kaj mensogantaj dioj.
 En la tempo de la dioj malveraj kaj mensogiloj.
 </td></tr>
 <tr><td>Google</td><td align="right">72</td><td>
+en la tempo de malveraj kaj mensogaj dioj.
+</td></tr>
+<tr><td>Baidu</td><td align="right">72</td><td>
 en la tempo de malveraj kaj mensogaj dioj.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
@@ -1389,6 +1605,9 @@ Poeto mi estis, kaj kantis pri tiu justa
 <tr><td>Google</td><td align="right">73</td><td>
 Poeto mi estis, kaj mi kantis pri tiu rajto
 </td></tr>
+<tr><td>Baidu</td><td align="right">73</td><td>
+Mi estis poeto, kaj mi kantis pri tiu justa
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">74</td><td>
 figliuol d’Anchise che venne di Troia,
@@ -1408,9 +1627,12 @@ Filo de Anĥizo, kiu venis de Trojo,
 <tr><td>Google</td><td align="right">74</td><td>
 filo de Anĥizo, kiu venis el Trojo,
 </td></tr>
+<tr><td>Baidu</td><td align="right">74</td><td>
+la filo de Anchisoj, kiu venis el Troj,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">75</td><td>
-poi che ’l superbo Ilïón fu combusto.
+poi che ’l superbo Ilión fu combusto.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">75</td><td>
 post kiam la aroganta Ilion estis bruligita.
@@ -1426,6 +1648,9 @@ Post kiam la superba Ilion estis bruligita.
 </td></tr>
 <tr><td>Google</td><td align="right">75</td><td>
 tiam la fiera Ilïón estis bruligita.
+</td></tr>
+<tr><td>Baidu</td><td align="right">75</td><td>
+Tiam la supera Ilion bruligis.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">76</td><td>
@@ -1446,6 +1671,9 @@ Sed kial vi revenas al tia malĝojo?
 <tr><td>Google</td><td align="right">76</td><td>
 Sed kial vi revenas al tia enuo?
 </td></tr>
+<tr><td>Baidu</td><td align="right">76</td><td>
+Kial vi denove tiel tediĝas?
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">77</td><td>
 perché non sali il dilettoso monte
@@ -1464,6 +1692,9 @@ Kial vi ne supreniras la deziratan monteton
 </td></tr>
 <tr><td>Google</td><td align="right">77</td><td>
 kial vi ne grimpas la ravan monton
+</td></tr>
+<tr><td>Baidu</td><td align="right">77</td><td>
+Kial vi ne supreniru la plezuran monton?
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">78</td><td>
@@ -1484,6 +1715,9 @@ Kiu estas komenco kaj kaŭzo de ĉia ĝojo?"
 <tr><td>Google</td><td align="right">78</td><td>
 kio estas la komenco kaj kaŭzo de ĉia ĝojo?".
 </td></tr>
+<tr><td>Baidu</td><td align="right">78</td><td>
+kiu estas la komenco kaj la kauzo de ĉiu ĝojo? "
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">79</td><td>
 "Or se’ tu quel Virgilio e quella fonte
@@ -1502,6 +1736,9 @@ Nun, ĉu vi estas tiu Virgilio kaj tiu fonto
 </td></tr>
 <tr><td>Google</td><td align="right">79</td><td>
 “Nun vi estas tiu Vergilio kaj tiu fonto
+</td></tr>
+<tr><td>Baidu</td><td align="right">79</td><td>
+"Nun se vi estas tiu Virgilo kaj tiu fonto
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">80</td><td>
@@ -1522,6 +1759,9 @@ Kiu disvastigas de parolado tiel grandan riveron?",
 <tr><td>Google</td><td align="right">80</td><td>
 kion vi diras pri parolado de tiom larĝa rivero?",
 </td></tr>
+<tr><td>Baidu</td><td align="right">80</td><td>
+Kion vi pensas, ke vi parolas ĝis nun? ',
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">81</td><td>
 rispuos’io lui con vergognosa fronte.
@@ -1540,6 +1780,9 @@ Mi respondis al li kun honta vizaĝo.
 </td></tr>
 <tr><td>Google</td><td align="right">81</td><td>
 Mi respondis al li kun honta sulkiĝo.
+</td></tr>
+<tr><td>Baidu</td><td align="right">81</td><td>
+Mi malhonore respondis al li.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">82</td><td>
@@ -1560,6 +1803,9 @@ O honoro kaj lumo de la aliaj poetoj
 <tr><td>Google</td><td align="right">82</td><td>
 "Ho honoro kaj lumo de la aliaj poetoj,
 </td></tr>
+<tr><td>Baidu</td><td align="right">82</td><td>
+"Aŭ el la aliaj poetoj honoras kaj lumon,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">83</td><td>
 vagliami ’l lungo studio e ’l grande amore
@@ -1578,6 +1824,9 @@ Pli valu la longan studon kaj la grandan amon
 </td></tr>
 <tr><td>Google</td><td align="right">83</td><td>
 Lasu min aprezi longan studon kaj grandan amon
+</td></tr>
+<tr><td>Baidu</td><td align="right">83</td><td>
+Donu al mi la longan studion kaj la grandan amon
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">84</td><td>
@@ -1598,6 +1847,9 @@ Kiu min faris serĉi vian volumon.
 <tr><td>Google</td><td align="right">84</td><td>
 kiu igis min serĉi vian volumon.
 </td></tr>
+<tr><td>Baidu</td><td align="right">84</td><td>
+Tio faris min serĉi vian volumon.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">85</td><td>
 Tu se’ lo mio maestro e ’l mio autore,
@@ -1616,6 +1868,9 @@ Vi estas mia majstro kaj mia aŭtoro,
 </td></tr>
 <tr><td>Google</td><td align="right">85</td><td>
 Vi estas mia instruisto kaj mia aŭtoro,
+</td></tr>
+<tr><td>Baidu</td><td align="right">85</td><td>
+Se vi estas mia majstro kaj mia aŭtoro,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">86</td><td>
@@ -1636,6 +1891,9 @@ Vi estas la sola el kiu mi prenis
 <tr><td>Google</td><td align="right">86</td><td>
 vi estas nur tiu, de kiu mi prenis
 </td></tr>
+<tr><td>Baidu</td><td align="right">86</td><td>
+Vi estas nur tiu, el kiu mi forigis
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">87</td><td>
 lo bello stilo che m’ ha fatto onore.
@@ -1654,6 +1912,9 @@ La belan stilon kiu min honoris.
 </td></tr>
 <tr><td>Google</td><td align="right">87</td><td>
 la bela grifelo, kiu honoris min.
+</td></tr>
+<tr><td>Baidu</td><td align="right">87</td><td>
+La bela stilo, kiu honoris min.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">88</td><td>
@@ -1674,6 +1935,9 @@ Vidu la beston, kiu min turnis;
 <tr><td>Google</td><td align="right">88</td><td>
 Vidu la beston, por kiu mi turnis min;
 </td></tr>
+<tr><td>Baidu</td><td align="right">88</td><td>
+Vidu la beston, pro kiu mi turnis;
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">89</td><td>
 aiutami da lei, famoso saggio,
@@ -1692,6 +1956,9 @@ Helpu min de ŝi, fama saĝulo,
 </td></tr>
 <tr><td>Google</td><td align="right">89</td><td>
 helpu min de ŝi, fama saĝulo,
+</td></tr>
+<tr><td>Baidu</td><td align="right">89</td><td>
+Helpu min kun ŝi, fama sago,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">90</td><td>
@@ -1712,9 +1979,12 @@ ke ŝi faras miajn vejnojn kaj polsojn tremi
 <tr><td>Google</td><td align="right">90</td><td>
 tio tremas miajn vejnojn kaj pojnojn."
 </td></tr>
+<tr><td>Baidu</td><td align="right">90</td><td>
+Ŝi tremigas miajn venojn kaj koletojn."
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">91</td><td>
-"A te convien tenere altro vïaggio",
+"A te convien tenere altro viaggio",
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">91</td><td>
 "Al vi devas fari alian vojaĝon",
@@ -1730,6 +2000,9 @@ Al vi devas teni alian vojaĝon,
 </td></tr>
 <tr><td>Google</td><td align="right">91</td><td>
 "Estas pli bone por vi daŭrigi vian vojaĝon",
+</td></tr>
+<tr><td>Baidu</td><td align="right">91</td><td>
+"Vi devas resti alia vojo."
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">92</td><td>
@@ -1750,6 +2023,9 @@ Li respondis, kiam li vidis min plori,
 <tr><td>Google</td><td align="right">92</td><td>
 li respondis, kiam li vidis min ploranta,
 </td></tr>
+<tr><td>Baidu</td><td align="right">92</td><td>
+Li respondis, tiam kiel larmoj li vidis min,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">93</td><td>
 "se vuo’ campar d’esto loco selvaggio;
@@ -1768,6 +2044,9 @@ Se vi volas saviĝi el ĉi tiu sovaĝa loko;
 </td></tr>
 <tr><td>Google</td><td align="right">93</td><td>
 “se vi volas eskapi el ĉi tiu sovaĝa loko;
+</td></tr>
+<tr><td>Baidu</td><td align="right">93</td><td>
+"se vuo' campar d'esto loco savage;
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">94</td><td>
@@ -1788,6 +2067,9 @@ ché questa bestia, per la qual tu gride,
 <tr><td>Google</td><td align="right">94</td><td>
 ĉar ĉi tiu besto, pro kiu vi krias,
 </td></tr>
+<tr><td>Baidu</td><td align="right">94</td><td>
+por tiu besto, pro kiu vi krias,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">95</td><td>
 non lascia altrui passar per la sua via,
@@ -1806,6 +2088,9 @@ Ne lasas alian pasi per sia vojo,
 </td></tr>
 <tr><td>Google</td><td align="right">95</td><td>
 ne lasas aliajn preterpasi lian vojon,
+</td></tr>
+<tr><td>Baidu</td><td align="right">95</td><td>
+ne permesas aliajn transiri en sia vojo,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">96</td><td>
@@ -1826,6 +2111,9 @@ Sed tiel ĝin malhelpas, ke ĝin mortigas;
 <tr><td>Google</td><td align="right">96</td><td>
 sed ĝi malhelpas lin tiom, ke ĝi mortigas lin;
 </td></tr>
+<tr><td>Baidu</td><td align="right">96</td><td>
+sed tiom, ke ĝi mortigas lin;
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">97</td><td>
 e ha natura sì malvagia e ria,
@@ -1844,6 +2132,9 @@ Kaj ĝi havas naturon tiel malbonan kaj malbonan,
 </td></tr>
 <tr><td>Google</td><td align="right">97</td><td>
 kaj havas tian malbonan kaj kruelan naturon,
+</td></tr>
+<tr><td>Baidu</td><td align="right">97</td><td>
+kaj havas tiel malbonan kaj malbonan naturon,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">98</td><td>
@@ -1864,6 +2155,9 @@ Ke ĝi neniam plenigas la avidan deziron,
 <tr><td>Google</td><td align="right">98</td><td>
 kiu neniam plenigas la sopiran deziron,
 </td></tr>
+<tr><td>Baidu</td><td align="right">98</td><td>
+kiu neniam malpurigas la deziro,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">99</td><td>
 e dopo ’l pasto ha più fame che pria.
@@ -1882,6 +2176,9 @@ Kaj post la manĝo ĝi havas pli da malsato ol antaŭe.
 </td></tr>
 <tr><td>Google</td><td align="right">99</td><td>
 kaj post la manĝo li estas pli malsata ol antaŭe.
+</td></tr>
+<tr><td>Baidu</td><td align="right">99</td><td>
+Post la manĝaĵo li pli malsatas ol antaŭe.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">100</td><td>
@@ -1902,6 +2199,9 @@ Multaj estas la bestoj kun kiuj ĝi parenas,
 <tr><td>Google</td><td align="right">100</td><td>
 Estas multaj bestoj al kiuj li edziĝas,
 </td></tr>
+<tr><td>Baidu</td><td align="right">100</td><td>
+Multaj estas la bestoj, al kiuj li edziĝas,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">101</td><td>
 e più saranno ancora, infin che ’l veltro
@@ -1920,6 +2220,9 @@ Kaj pli estos ankoraŭ, ĝis la veltro
 </td></tr>
 <tr><td>Google</td><td align="right">101</td><td>
 kaj ili estos eĉ pli, ĝis la veltro
+</td></tr>
+<tr><td>Baidu</td><td align="right">101</td><td>
+kaj pli estos, ĝis la veltro
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">102</td><td>
@@ -1940,6 +2243,9 @@ Venos, kiu ĝin faros morti kun doloro.
 <tr><td>Google</td><td align="right">102</td><td>
 venos, kiu mortos ŝin pro doloro.
 </td></tr>
+<tr><td>Baidu</td><td align="right">102</td><td>
+Li venos, kiu mortigos ŝin en agono.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">103</td><td>
 Questi non ciberà terra né peltro,
@@ -1959,9 +2265,12 @@ Li ne manĝos teron nek peltron,
 <tr><td>Google</td><td align="right">103</td><td>
 Ĉi tio ne manĝos teron aŭ peltron,
 </td></tr>
+<tr><td>Baidu</td><td align="right">103</td><td>
+Li ne manĝos teron nek pejxon,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">104</td><td>
-ma sapïenza, amore e virtute,
+ma sapienza, amore e virtute,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">104</td><td>
 sed je saĝo, amo kaj forto,
@@ -1977,6 +2286,9 @@ Sed saĝon, amon kaj virton,
 </td></tr>
 <tr><td>Google</td><td align="right">104</td><td>
 sed saĝeco, amo kaj virtoj,
+</td></tr>
+<tr><td>Baidu</td><td align="right">104</td><td>
+sed saĝeco, amo kaj virtuo,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">105</td><td>
@@ -1997,6 +2309,9 @@ Kaj lia nacio estos inter feltro kaj feltro.
 <tr><td>Google</td><td align="right">105</td><td>
 kaj lia nacio estos inter sentata kaj sentata.
 </td></tr>
+<tr><td>Baidu</td><td align="right">105</td><td>
+kaj lia nacio estos inter sento kaj sento.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">106</td><td>
 Di quella umile Italia fia salute
@@ -2015,6 +2330,9 @@ De tiu humila Italio estos savo
 </td></tr>
 <tr><td>Google</td><td align="right">106</td><td>
 Benoj al tiu humila Italujo
+</td></tr>
+<tr><td>Baidu</td><td align="right">106</td><td>
+De tiu malhumila Italia fia saluto
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">107</td><td>
@@ -2035,6 +2353,9 @@ Pro kiu mortis la virgulino Kamilo,
 <tr><td>Google</td><td align="right">107</td><td>
 pro kiu la virgulino Cammilla mortis,
 </td></tr>
+<tr><td>Baidu</td><td align="right">107</td><td>
+pro kiu mortis la virgulino Kamel,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">108</td><td>
 Eurialo e Turno e Niso di ferute.
@@ -2053,6 +2374,9 @@ Eŭriolo kaj Turno kaj Niso per vundoj.
 </td></tr>
 <tr><td>Google</td><td align="right">108</td><td>
 Euyalus kaj Turnus kaj Nisus de vundoj.
+</td></tr>
+<tr><td>Baidu</td><td align="right">108</td><td>
+Euryalo, Turno kaj Niso de vundoj.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">109</td><td>
@@ -2073,6 +2397,9 @@ Li forigos ŝin tra ĉiu vilaĝo,
 <tr><td>Google</td><td align="right">109</td><td>
 Li forpelos ŝin el ĉiu vilao,
 </td></tr>
+<tr><td>Baidu</td><td align="right">109</td><td>
+Li forpelos ŝin por ĉiu vilaĝo,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">110</td><td>
 fin che l’avrà rimessa ne lo ’nferno,
@@ -2091,6 +2418,9 @@ fin che l’avrà rimessa ne lo ’nferno,
 </td></tr>
 <tr><td>Google</td><td align="right">110</td><td>
 ĝis li remetos ŝin en inferon,
+</td></tr>
+<tr><td>Baidu</td><td align="right">110</td><td>
+ĝis li reiris ŝin en la mondo,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">111</td><td>
@@ -2111,6 +2441,9 @@ De kie la envio unue ĝin forigis.
 <tr><td>Google</td><td align="right">111</td><td>
 tie kie la envio unue foriras.
 </td></tr>
+<tr><td>Baidu</td><td align="right">111</td><td>
+Jen la unua festo komencas.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">112</td><td>
 Ond’io per lo tuo me’ penso e discerno
@@ -2129,6 +2462,9 @@ Tial mi por via bono pensas kaj distingas
 </td></tr>
 <tr><td>Google</td><td align="right">112</td><td>
 Do mi pensas kaj perceptas pro vi
+</td></tr>
+<tr><td>Baidu</td><td align="right">112</td><td>
+Do mi pensas kaj scias por vi mem
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">113</td><td>
@@ -2149,6 +2485,9 @@ Ke vi min sekvu, kaj mi estos via gvidanto,
 <tr><td>Google</td><td align="right">113</td><td>
 ke vi sekvu min, kaj mi estos via gvidilo,
 </td></tr>
+<tr><td>Baidu</td><td align="right">113</td><td>
+ke vi sekvu min, kaj mi estos via gvidanto,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">114</td><td>
 e trarrotti di qui per loco etterno;
@@ -2167,6 +2506,9 @@ Kaj elkonduros vin de ĉi tie per loko eterna;
 </td></tr>
 <tr><td>Google</td><td align="right">114</td><td>
 kaj prenita de ĉi tie al eterna loko;
+</td></tr>
+<tr><td>Baidu</td><td align="right">114</td><td>
+kaj foriris el ĝi al ekstera loko;
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">115</td><td>
@@ -2187,6 +2529,9 @@ Kie vi aŭdos la senesperajn kriojn,
 <tr><td>Google</td><td align="right">115</td><td>
 kie vi aŭdos la malesperajn kriojn,
 </td></tr>
+<tr><td>Baidu</td><td align="right">115</td><td>
+kie vi aŭdos la desperatajn kriojn,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">116</td><td>
 vedrai li antichi spiriti dolenti,
@@ -2205,6 +2550,9 @@ Vi vidos la antikvajn spiritojn malĝojajn,
 </td></tr>
 <tr><td>Google</td><td align="right">116</td><td>
 vi vidos la antikvajn malgajajn spiritojn,
+</td></tr>
+<tr><td>Baidu</td><td align="right">116</td><td>
+vi vidos la antikvajn malĝojajn spiritojn,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">117</td><td>
@@ -2225,6 +2573,9 @@ Kiuj al la dua morto ĉiu krias;
 <tr><td>Google</td><td align="right">117</td><td>
 ke ĉiuj krias pro la dua morto;
 </td></tr>
+<tr><td>Baidu</td><td align="right">117</td><td>
+ke ĉiu krias en la dua morto;
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">118</td><td>
 e vederai color che son contenti
@@ -2244,6 +2595,9 @@ Kaj vi vidos tiujn, kiuj estas kontentaj
 <tr><td>Google</td><td align="right">118</td><td>
 kaj vi vidos tiujn, kiuj estas feliĉaj
 </td></tr>
+<tr><td>Baidu</td><td align="right">118</td><td>
+kaj vi vidos kolorojn, kiuj estas feliĉaj
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">119</td><td>
 nel foco, perché speran di venire
@@ -2261,6 +2615,9 @@ en la fajro, ĉar ili esperas veni
 En la fajro, ĉar ili esperas veni
 </td></tr>
 <tr><td>Google</td><td align="right">119</td><td>
+en la fajro, ĉar ili esperas veni
+</td></tr>
+<tr><td>Baidu</td><td align="right">119</td><td>
 en la fajro, ĉar ili esperas veni
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
@@ -2282,6 +2639,9 @@ Kiam ajn al la feliĉaj popoloj.
 <tr><td>Google</td><td align="right">120</td><td>
 kiam ajn ĝi estas por la benataj homoj.
 </td></tr>
+<tr><td>Baidu</td><td align="right">120</td><td>
+kiam ĝi estas al la benata popolo.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">121</td><td>
 A le quai poi se tu vorrai salire,
@@ -2300,6 +2660,9 @@ Al kiuj poste se vi volas supreniri,
 </td></tr>
 <tr><td>Google</td><td align="right">121</td><td>
 Tiam se vi volas iri tien supren,
+</td></tr>
+<tr><td>Baidu</td><td align="right">121</td><td>
+Se vi volas iri supre,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">122</td><td>
@@ -2320,6 +2683,9 @@ Animo estos al tio pli degna:
 <tr><td>Google</td><td align="right">122</td><td>
 animo pli indas je tio ol mi:
 </td></tr>
+<tr><td>Baidu</td><td align="right">122</td><td>
+Mia animo estas pli valora ol mi.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">123</td><td>
 con lei ti lascerò nel mio partire;
@@ -2338,6 +2704,9 @@ Kun ŝi mi vin lasos en mia foriro;
 </td></tr>
 <tr><td>Google</td><td align="right">123</td><td>
 Mi lasos vin kun ŝi, kiam mi foriros;
+</td></tr>
+<tr><td>Baidu</td><td align="right">123</td><td>
+kun ŝi Mi forlasos vin en mia foriri;
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">124</td><td>
@@ -2358,6 +2727,9 @@ ché quello imperador che là sù regna,
 <tr><td>Google</td><td align="right">124</td><td>
 ĉar tiu imperiestro, kiu regas tie supre,
 </td></tr>
+<tr><td>Baidu</td><td align="right">124</td><td>
+por la imperiento, kiu reĝas tie,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">125</td><td>
 perch’i’ fu’ ribellante a la sua legge,
@@ -2376,6 +2748,9 @@ perch’i’ fu’ ribellante a la sua legge,
 </td></tr>
 <tr><td>Google</td><td align="right">125</td><td>
 ĉar mi estis malobeema kontraŭ lia leĝo,
+</td></tr>
+<tr><td>Baidu</td><td align="right">125</td><td>
+ĉar li rebelis kontraux sia leĝo,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">126</td><td>
@@ -2396,6 +2771,9 @@ Ne volas ke en lian urbon per mi oni venu.
 <tr><td>Google</td><td align="right">126</td><td>
 li ne volas, ke iu venu por mi en sian urbon.
 </td></tr>
+<tr><td>Baidu</td><td align="right">126</td><td>
+Li ne volas, ke lia urbo vekiĝu por mi.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">127</td><td>
 In tutte parti impera e quivi regge;
@@ -2414,6 +2792,9 @@ En ĉiuj partoj regas kaj tie li regas;
 </td></tr>
 <tr><td>Google</td><td align="right">127</td><td>
 En ĉiuj partoj li regas kaj regas tie;
+</td></tr>
+<tr><td>Baidu</td><td align="right">127</td><td>
+En ĉiuj partoj ĝi reĝas kaj reĝas tie;
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">128</td><td>
@@ -2434,6 +2815,9 @@ Tie estas lia urbo kaj la alta trono:
 <tr><td>Google</td><td align="right">128</td><td>
 tie estas Lia urbo kaj Lia alta trono;
 </td></tr>
+<tr><td>Baidu</td><td align="right">128</td><td>
+Kaj tie estas lia urbo kaj lia alta sido.
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">129</td><td>
 oh felice colui cu’ ivi elegge!".
@@ -2452,6 +2836,9 @@ Oh feliĉa tiu kiun li tie elektas!"
 </td></tr>
 <tr><td>Google</td><td align="right">129</td><td>
 ho feliĉa tiu, kiu tie elektas!".
+</td></tr>
+<tr><td>Baidu</td><td align="right">129</td><td>
+Feliĉa estas tiu, kiu elektas tie! "
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">130</td><td>
@@ -2472,6 +2859,9 @@ Kaj mi al li: "Poeto, mi vin petas
 <tr><td>Google</td><td align="right">130</td><td>
 Kaj mi al li: "Poeto, mi vokas vin
 </td></tr>
+<tr><td>Baidu</td><td align="right">130</td><td>
+Kaj mi diris al li, "Poeto, mi volas vin
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">131</td><td>
 per quello Dio che tu non conoscesti,
@@ -2490,6 +2880,9 @@ Pro tiu Dio kiun vi ne konis,
 </td></tr>
 <tr><td>Google</td><td align="right">131</td><td>
 pro tiu Dio, kiun vi ne konis,
+</td></tr>
+<tr><td>Baidu</td><td align="right">131</td><td>
+ĉar kion Dio vi ne sciis,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">132</td><td>
@@ -2510,6 +2903,9 @@ Por ke mi forfuĝu ĉi tiun malbonon kaj plie malbonan,
 <tr><td>Google</td><td align="right">132</td><td>
 por ke mi eskapu ĉi tiun malbonon kaj pli malbonan,
 </td></tr>
+<tr><td>Baidu</td><td align="right">132</td><td>
+por ke mi forkurigu tiun malbonon kaj malbonon,
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">133</td><td>
 che tu mi meni là dov’or dicesti,
@@ -2528,6 +2924,9 @@ Ke vi min konduku tien kie nun vi diris,
 </td></tr>
 <tr><td>Google</td><td align="right">133</td><td>
 ke vi konduku min kien vi diris nun,
+</td></tr>
+<tr><td>Baidu</td><td align="right">133</td><td>
+ke vi prenos min kien vi diris,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">134</td><td>
@@ -2548,6 +2947,9 @@ Por ke mi vidu la pordon de Sankta Petro
 <tr><td>Google</td><td align="right">134</td><td>
 por ke mi vidu la pordon de Sankta Petro
 </td></tr>
+<tr><td>Baidu</td><td align="right">134</td><td>
+por ke mi vidu la pordon de Santa Petro
+</td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">135</td><td>
 e color cui tu fai cotanto mesti".
@@ -2566,6 +2968,9 @@ Kaj tiujn kiun vi faras tiel malĝojajn."
 </td></tr>
 <tr><td>Google</td><td align="right">135</td><td>
 kaj kies koloro vi estas tiel malĝoja."
+</td></tr>
+<tr><td>Baidu</td><td align="right">135</td><td>
+kaj koloro, kiun vi tiel malĝojas."
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">136</td><td>
@@ -2586,5 +2991,7 @@ Tiam li moviĝis, kaj mi lin sekvis malantaŭe."
 <tr><td>Google</td><td align="right">136</td><td>
 Tiam li moviĝis, kaj mi sekvis lin.
 </td></tr>
-<tr><td></td><td></td><td></td></tr>
+<tr><td>Baidu</td><td align="right">136</td><td>
+Tiam li moviĝis, kaj mi starigis ilin malantaŭ.
+</td></tr>
 </table>

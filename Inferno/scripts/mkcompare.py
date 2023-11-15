@@ -44,6 +44,8 @@ i = 1
 lnx = 0
 length = len(texts[0])
 while i <= length:
+    if i > 1 and all_same:
+        print("<tr><td></td><td></td><td></td></tr>")
     step = steps[i] if i in steps else defstep
     for j, text in enumerate(texts):
         if len(text) != length:
@@ -64,8 +66,6 @@ while i <= length:
             print(f'<tr><td>{names[j]}</td><td></td><td>')
             print(text[lnx])
             print("</td></tr>")
-    if all_same:
-        print("<tr><td></td><td></td><td></td></tr>")
     i += step
     lnx += 1
 print("</table>")
