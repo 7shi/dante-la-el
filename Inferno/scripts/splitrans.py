@@ -13,10 +13,10 @@ def split_block(filename):
         if block:
             yield block
 
-def split_file_line(filename, split_size):
+def split_file_line(filename, split_size=0):
     block = ""
     for b in split_block(filename):
-        if len(block) + len(b) < split_size:
+        if split_size < 1 or len(block) + len(b) < split_size:
             if block:
                 block += "\n"
             block += b
@@ -34,7 +34,7 @@ if __name__ == '__main__':
 
     args = sys.argv[1:]
 
-    maximum = 4800
+    maximum = 0
     if len(args) >= 2 and args[0] == "-m":
         maximum = int(args[1])
         args = args[2:]
