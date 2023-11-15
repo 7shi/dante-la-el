@@ -44,7 +44,7 @@ i = 1
 lnx = 0
 length = len(texts[0])
 while i <= length:
-    if i > 1 and all_same:
+    if i > 1:
         print("<tr><td></td><td></td><td></td></tr>")
     step = steps[i] if i in steps else defstep
     for j, text in enumerate(texts):

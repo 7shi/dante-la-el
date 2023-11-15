@@ -24,6 +24,7 @@ Midway upon the road of our life I found myself within a dark wood, for the righ
 <tr><td>Carlyle</td><td></td><td>
 In the middle of the journey of our life I came to myself in a dark wood where the straight way was lost.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">4<br>5<br>6</td><td>
 Ahi quanto a dir qual era è cosa dura<br>
 esta selva selvaggia e aspra e forte<br>
@@ -45,6 +46,7 @@ Ah! how hard a thing it is to tell what this wild and rough and dense wood was, 
 <tr><td>Carlyle</td><td></td><td>
 Ah! how hard a thing it is to tell what a wild, and rough, and stubborn wood this was, which in my thought renews the fear!
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">7<br>8<br>9</td><td>
 Tant’è amara che poco è più morte;<br>
 ma per trattar del ben ch’i’ vi trovai,<br>
@@ -66,6 +68,7 @@ So bitter is it that death is little more. But in order to treat of the good tha
 <tr><td>Carlyle</td><td></td><td>
 So bitter is it, that scarcely more is death: but to treat of the good that I there found, I will relate the other things that I discerned.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">10<br>11<br>12</td><td>
 Io non so ben ridir com’i’ v’intrai,<br>
 tant’era pien di sonno a quel punto<br>
@@ -87,6 +90,7 @@ I cannot well recount how I entered it, so full was I of slumber at that point w
 <tr><td>Carlyle</td><td></td><td>
 I cannot rightly tell how I entered it, so full of sleep was I about the moment that I left the true way.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">13<br>14<br>15</td><td>
 Ma poi ch’i’ fui al piè d’un colle giunto,<br>
 là dove terminava quella valle<br>
@@ -108,6 +112,7 @@ But after I had arrived at the foot of a hill, where that valley ended which had
 <tr><td>Carlyle</td><td></td><td>
 But after I had reached the foot of a Hill there, where that valley ended, which had pierced my heart with fear,
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">16<br>17<br>18</td><td>
 guardai in alto e vidi le sue spalle<br>
 vestite già de’ raggi del pianeta<br>
@@ -129,6 +134,7 @@ I looked on high, and saw its shoulders clothed already with the rays of the pla
 <tr><td>Carlyle</td><td></td><td>
 I looked up and saw its shoulders already clothed with the rays of the Planet that leads men straight on every road.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">19<br>20<br>21</td><td>
 Allor fu la paura un poco queta,<br>
 che nel lago del cor m’era durata<br>
@@ -150,6 +156,7 @@ Then was the fear a little quieted which in the lake of my heart had lasted thro
 <tr><td>Carlyle</td><td></td><td>
 Then the fear was somewhat calmed, which had continued in the lake of my heart the night that I passed so piteously.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">22<br>23<br>24</td><td>
 E come quei che con lena affannata,<br>
 uscito fuor del pelago a la riva,<br>
@@ -171,6 +178,7 @@ And even as one who with spent breath, issued out of the sea upon the shore, tur
 <tr><td>Carlyle</td><td></td><td>
 And as he, who with panting breath has escaped from the deep sea to the shore, turns to the dangerous water and gazes:
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">25<br>26<br>27</td><td>
 così l’animo mio, ch’ancor fuggiva,<br>
 si volse a retro a rimirar lo passo<br>
@@ -192,6 +200,7 @@ so did my soul, which still was flying, turn back to look again upon the pass wh
 <tr><td>Carlyle</td><td></td><td>
 so my mind, which still was fleeing, turned back to see the pass that no one ever left alive.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">28<br>29<br>30</td><td>
 Poi ch’èi posato un poco il corpo lasso,<br>
 ripresi via per la piaggia diserta,<br>
@@ -213,6 +222,7 @@ After I had rested a little my weary body I took my way again along the desert s
 <tr><td>Carlyle</td><td></td><td>
 After I had rested my wearied body a short while, I took the way again along the desert strand, so that the right foot always was the lower.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">31<br>32<br>33</td><td>
 Ed ecco, quasi al cominciar de l’erta,<br>
 una lonza leggera e presta molto,<br>
@@ -234,6 +244,7 @@ And lo! almost at the beginning of the steep a she-leopard, light and very nimbl
 <tr><td>Carlyle</td><td></td><td>
 And behold, almost at the commencement of the steep, a Leopard, light and very nimble, which was covered with spotted hair.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">34<br>35<br>36</td><td>
 e non mi si partia dinanzi al volto,<br>
 anzi ’mpediva tanto il mio cammino,<br>
@@ -255,6 +266,7 @@ And she did not move from before my face, nay, rather hindered so my road that t
 <tr><td>Carlyle</td><td></td><td>
 And it went not from before my face; nay, so impeded my way, that I had often turned to go back.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">37<br>38<br>39<br>40</td><td>
 Temp’era dal principio del mattino,<br>
 e ’l sol montava ’n sù con quelle stelle<br>
@@ -279,6 +291,7 @@ The time was at the beginning of the morning, and the Sun was mounting upward wi
 <tr><td>Carlyle</td><td></td><td>
 The time was at the beginning of the morning; and the sun was mounting up with those stars, which were with him when Divine Love first moved those fair things:
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">41<br>42<br>43</td><td>
 sì ch’a bene sperar m’era cagione<br>
 di quella fiera a la gaetta pelle<br>
@@ -300,6 +313,7 @@ so that the hour of the time and the sweet season were occasion of good hope to 
 <tr><td>Carlyle</td><td></td><td>
 so that the hour of time and the sweet season caused me to have good hope of that animal with the gay skin;
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">44<br>45</td><td>
 ma non sì che paura non mi desse<br>
 la vista che m’apparve d’un leone.
@@ -318,6 +332,7 @@ But not so that the sight which appeared to me of a lion did not give me fear.
 <tr><td>Carlyle</td><td></td><td>
 yet not so, but that I feared at the sight, which appeared to me, of a Lion.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">46<br>47<br>48</td><td>
 Questi parea che contra me venisse<br>
 con la test’alta e con rabbiosa fame,<br>
@@ -339,6 +354,7 @@ He seemed to be coming against me, with head high and with ravening hunger, so t
 <tr><td>Carlyle</td><td></td><td>
 He seemed coming upon me with head erect, and furious hunger; so that the air seemed to have fear thereat;
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">49<br>50<br>51</td><td>
 Ed una lupa, che di tutte brame<br>
 sembiava carca ne la sua magrezza,<br>
@@ -360,6 +376,7 @@ And a she-wolf, who with all cravings seemed laden in her meagreness, and alread
 <tr><td>Carlyle</td><td></td><td>
 and a She-wolf, that looked full of all cravings in her leanness; and has ere now made many live in sorrow.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">52<br>53<br>54</td><td>
 questa mi porse tanto di gravezza<br>
 con la paura ch’uscia di sua vista,<br>
@@ -381,6 +398,7 @@ that I lost hope of the height.
 <tr><td>Carlyle</td><td></td><td>
 She brought such heaviness upon me with the terror of her aspect, that I lost the hope of ascending.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">55<br>56<br>57</td><td>
 E qual è quei che volontieri acquista,<br>
 e giugne ’l tempo che perder lo face,<br>
@@ -402,6 +420,7 @@ And such as he is who gaineth willingly, and the time arrives that makes him los
 <tr><td>Carlyle</td><td></td><td>
 And as one who is eager in gaining, and, when the time arrives that makes him lose, weeps and afflicts himself in all his thoughts:
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">58<br>59<br>60</td><td>
 tal mi fece la bestia sanza pace,<br>
 che, venendomi ’ncontro, a poco a poco<br>
@@ -423,6 +442,7 @@ was pushing me back thither where the Sun is silent.
 <tr><td>Carlyle</td><td></td><td>
 such that restless beast made me, which coming against me, by little and little drove me back to where the Sun is silent.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">61<br>62<br>63</td><td>
 Mentre ch’i’ rovinava in basso loco,<br>
 dinanzi a li occhi mi si fu offerto<br>
@@ -444,6 +464,7 @@ While I was falling back to the low place, before mine eyes appeared one who thr
 <tr><td>Carlyle</td><td></td><td>
 Whilst I was rushing downwards, there appeared before my eyes one who seemed hoarse from long silence.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">64<br>65<br>66</td><td>
 Quando vidi costui nel gran diserto,<br>
 "Miserere di me", gridai a lui,<br>
@@ -465,10 +486,11 @@ When I saw him in the great desert, “Have pity on me!” I cried to him, “wh
 <tr><td>Carlyle</td><td></td><td>
 When I saw him in the great desert, I cried: "Have pity on me, whate'er thou be, whether shade or veritable man!"
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">67<br>68<br>69</td><td>
 Rispuosemi: "Non omo, omo già fui,<br>
 e li parenti miei furon lombardi,<br>
-mantoani per patrïa ambedui.
+mantoani per patria ambedui.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">67<br>68<br>69</td><td>
 He answered me: "Not man; man once I was,<br>
@@ -486,6 +508,7 @@ He answered me: “Not man; man once I was, and my parents were Lombards, and Ma
 <tr><td>Carlyle</td><td></td><td>
 He answered me: "Not man, a man I once was; and my parents were Lombards, and both of Mantua by country.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">70<br>71<br>72</td><td>
 Nacqui sub Iulio, ancor che fosse tardi,<br>
 e vissi a Roma sotto ’l buono Augusto<br>
@@ -507,10 +530,11 @@ I was born sub Julio, though late, and I lived at Rome under the good Augustus, 
 <tr><td>Carlyle</td><td></td><td>
 I was born sub Julio, though it was late; and lived at Rome under the good Augustus, in the time of the false and lying Gods.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">73<br>74<br>75</td><td>
 Poeta fui, e cantai di quel giusto<br>
 figliuol d’Anchise che venne di Troia,<br>
-poi che ’l superbo Ilïón fu combusto.
+poi che ’l superbo Ilión fu combusto.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">73<br>74<br>75</td><td>
 A Poet was I, and I sang that just<br>
@@ -528,6 +552,7 @@ Poet was I, and sang of that just son of Anchises who came from Troy after proud
 <tr><td>Carlyle</td><td></td><td>
 A poet I was; and sang of that just son of Anchises, who came from Troy after proud Ilium was burnt.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">76<br>77<br>78</td><td>
 Ma tu perché ritorni a tanta noia?<br>
 perché non sali il dilettoso monte<br>
@@ -549,6 +574,7 @@ But thou, why returnest thou to so great annoy? Why dost thou not ascend the del
 <tr><td>Carlyle</td><td></td><td>
 But thou, why returnest thou to such disquiet? why ascendest not the delectable mountain, which is the beginning and the cause of all gladness?"
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">79<br>80<br>81</td><td>
 "Or se’ tu quel Virgilio e quella fonte<br>
 che spandi di parlar sì largo fiume?",<br>
@@ -570,6 +596,7 @@ replied I to him with bashful front:
 <tr><td>Carlyle</td><td></td><td>
 "Art thou then that Virgil, and that fountain which pours abroad so rich a stream of speech?" I answered him, with bashful front.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">82<br>83<br>84</td><td>
 "O de li altri poeti onore e lume,<br>
 vagliami ’l lungo studio e ’l grande amore<br>
@@ -591,6 +618,7 @@ which have made me search thy volume!
 <tr><td>Carlyle</td><td></td><td>
 "O glory, and light of other poets! May the long zeal avail me, and the great love, that made me search thy volume.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">85<br>86<br>87</td><td>
 Tu se’ lo mio maestro e ’l mio autore,<br>
 tu se’ solo colui da cu’ io tolsi<br>
@@ -612,6 +640,7 @@ Thou art my master and my author; thou alone art he from whom I took the fair st
 <tr><td>Carlyle</td><td></td><td>
 Thou art my master and my author; thou alone art he from whom I took the good style that hath done me honour.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">88<br>89<br>90</td><td>
 Vedi la bestia per cu’ io mi volsi;<br>
 aiutami da lei, famoso saggio,<br>
@@ -633,8 +662,9 @@ Behold the beast because of which I turned; help me against her, famous sage, fo
 <tr><td>Carlyle</td><td></td><td>
 See the beast from which I turned back; help me from her, thou famous sage; for she makes my veins and pulses tremble."
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">91<br>92<br>93</td><td>
-"A te convien tenere altro vïaggio",<br>
+"A te convien tenere altro viaggio",<br>
 rispuose, poi che lagrimar mi vide,<br>
 "se vuo’ campar d’esto loco selvaggio;
 </td></tr>
@@ -654,6 +684,7 @@ he replied, when he saw me weeping,<br>
 <tr><td>Carlyle</td><td></td><td>
 "Thou must take another road," he answered, when he saw me weeping, "if thou desirest to escape from this wild place:
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">94<br>95<br>96</td><td>
 ché questa bestia, per la qual tu gride,<br>
 non lascia altrui passar per la sua via,<br>
@@ -675,6 +706,7 @@ for this beast, because of which thou criest out, lets not any one pass along he
 <tr><td>Carlyle</td><td></td><td>
 because this beast, for which thou criest, lets not men pass her way; but so entangles that she slays them;
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">97<br>98<br>99</td><td>
 e ha natura sì malvagia e ria,<br>
 che mai non empie la bramosa voglia,<br>
@@ -696,6 +728,7 @@ and she has a nature so malign and evil that she never sates her greedy will, an
 <tr><td>Carlyle</td><td></td><td>
 and has a nature so perverse and vicious, that she never satiates her craving appetite; and after feeding, she is hungrier than before.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">100<br>101<br>102</td><td>
 Molti son li animali a cui s’ammoglia,<br>
 e più saranno ancora, infin che ’l veltro<br>
@@ -717,9 +750,10 @@ Many are the animals with which she wives, and there shall be more yet, till the
 <tr><td>Carlyle</td><td></td><td>
 The animals to which she weds herself are many; and will yet be more, until the Greyhound comes, that will make her die with pain.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">103<br>104<br>105</td><td>
 Questi non ciberà terra né peltro,<br>
-ma sapïenza, amore e virtute,<br>
+ma sapienza, amore e virtute,<br>
 e sua nazion sarà tra feltro e feltro.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">103<br>104<br>105</td><td>
@@ -738,6 +772,7 @@ He shall not feed on land or goods, but wisdom and love and valor, and his birth
 <tr><td>Carlyle</td><td></td><td>
 He will net feed on land or pelf, but on wisdom, and love, and manfulness; and his nation shall be between Feltro and Feltro.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">106<br>107<br>108</td><td>
 Di quella umile Italia fia salute<br>
 per cui morì la vergine Cammilla,<br>
@@ -759,6 +794,7 @@ Of that humble Italy shall he be the salvation, for which the virgin Camilla die
 <tr><td>Carlyle</td><td></td><td>
 He shall be the salvation of that low Italy, for which Camilla the virgin, Euryalus, and Turnus, and Nisus, died of wounds;
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">109<br>110<br>111</td><td>
 Questi la caccerà per ogne villa,<br>
 fin che l’avrà rimessa ne lo ’nferno,<br>
@@ -780,6 +816,7 @@ He shall hunt her through every town till he shall have set her back in hell, th
 <tr><td>Carlyle</td><td></td><td>
 he shall chase her through every city, till he have put her into Hell again; from which envy first set her loose.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">112<br>113<br>114</td><td>
 Ond’io per lo tuo me’ penso e discerno<br>
 che tu mi segui, e io sarò tua guida,<br>
@@ -801,6 +838,7 @@ Wherefore I think and deem it for thy best that thou follow me, and I will be th
 <tr><td>Carlyle</td><td></td><td>
 Wherefore I think and discern this for thy best, that thou follow me; and I will be thy guide, and lead thee hence through an eternal place,
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">115<br>116<br>117</td><td>
 ove udirai le disperate strida,<br>
 vedrai li antichi spiriti dolenti,<br>
@@ -822,6 +860,7 @@ where thou shalt hear the despairing shrieks, shalt see the ancient spirits woef
 <tr><td>Carlyle</td><td></td><td>
 where thou shalt hear the hopeless shrieks, shalt see the ancient spirits in pain, so that each calls for a second death;
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">118<br>119<br>120</td><td>
 e vederai color che son contenti<br>
 nel foco, perché speran di venire<br>
@@ -843,6 +882,7 @@ And then thou shalt see those who are contented in the fire, because they hope t
 <tr><td>Carlyle</td><td></td><td>
 and then thou shalt see those who are contented in the fire: for they hope to come, whensoever it be, amongst the blessed;
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">121<br>122<br>123</td><td>
 A le quai poi se tu vorrai salire,<br>
 anima fia a ciò più di me degna:<br>
@@ -864,6 +904,7 @@ to whom if thou wilt thereafter ascend, then shall be a soul more worthy than I 
 <tr><td>Carlyle</td><td></td><td>
 then to these, if thou desirest to ascend, there shall be a spirit worthier than I to guide thee; with her will I leave thee at my parting:
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">124<br>125<br>126</td><td>
 ché quello imperador che là sù regna,<br>
 perch’i’ fu’ ribellante a la sua legge,<br>
@@ -885,6 +926,7 @@ for that Emperor who reigneth them above, because I was rebellious to His law, w
 <tr><td>Carlyle</td><td></td><td>
 for that Emperor who reigns above, because I was rebellious to his law, wills not that I come into his city.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">127<br>128<br>129</td><td>
 In tutte parti impera e quivi regge;<br>
 quivi è la sua città e l’alto seggio:<br>
@@ -906,6 +948,7 @@ In all parts He governs and them He reigns: there in His city and His lofty seat
 <tr><td>Carlyle</td><td></td><td>
 In all parts he rules and there holds sway; there is his city, and his high seat: o happy whom he chooses for it!"
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">130<br>131<br>132</td><td>
 E io a lui: "Poeta, io ti richeggio<br>
 per quello Dio che tu non conoscesti,<br>
@@ -927,6 +970,7 @@ And I to him, “Poet, I beseech thee by that God whom thou didst not know, in o
 <tr><td>Carlyle</td><td></td><td>
 And I to him: "Poet, I beseech thee by that God whom thou knowest not: in order that I may escape this ill and worse,
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">133<br>134<br>135</td><td>
 che tu mi meni là dov’or dicesti,<br>
 sì ch’io veggia la porta di san Pietro<br>
@@ -948,6 +992,7 @@ that thou lead me thither whom thou now hast said, so that I may see the gate of
 <tr><td>Carlyle</td><td></td><td>
 lead me where thou now hast said, so that I may see the Gate of St Peter, and those whom thou makest so sad."
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">136</td><td>
 Allor si mosse, e io li tenni dietro.
 </td></tr>
@@ -989,6 +1034,7 @@ The day was going, and the dusky air was taking the living things that are on ea
 <tr><td>Carlyle</td><td></td><td>
 The day was departing, and the brown air taking the animals, that are on earth, from their toils; and I, one alone,
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">4<br>5<br>6</td><td>
 m'apparecchiava a sostener la guerra<br>
 sì del cammino e sì de la pietate,<br>
@@ -1010,6 +1056,7 @@ was preparing to sustain the war alike of the road, and of the woe which the min
 <tr><td>Carlyle</td><td></td><td>
 was preparing myself to bear the war both of the journey and the pity, which memory, that errs not, shall relate.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">7<br>8<br>9</td><td>
 O muse, o alto ingegno, or m'aiutate;<br>
 o mente che scrivesti ciò ch'io vidi,<br>
@@ -1031,6 +1078,7 @@ O Muses, O lofty genius, now assist me! O mind that didst inscribe that which I 
 <tr><td>Carlyle</td><td></td><td>
 O Muses, o high Genius, now help me! O Memory, that hast inscribed what I saw, here will be shewn thy nobleness.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">10<br>11<br>12</td><td>
 Io cominciai: "Poeta che mi guidi,<br>
 guarda la mia virtù s'ell'è possente,<br>
@@ -1052,8 +1100,9 @@ I began:—“Poet, that guidest me, consider my virtue, if it is sufficient, er
 <tr><td>Carlyle</td><td></td><td>
 I began: "Poet, who guidest me, look if there be worth in me sufficient, before thou trust me to the arduous passage.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">13<br>14<br>15</td><td>
-Tu dici che di Silvïo il parente,<br>
+Tu dici che di Silvio il parente,<br>
 corruttibile ancora, ad immortale<br>
 secolo andò, e fu sensibilmente.
 </td></tr>
@@ -1073,6 +1122,7 @@ Thou sayest that the parent of Silvius while still corruptible went to the immor
 <tr><td>Carlyle</td><td></td><td>
 Thou sayest that the father of Sylvius, while subject to corruption, went to the immortal world, and was there in body.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">16<br>17<br>18</td><td>
 Però, se l'avversario d'ogne male<br>
 cortese i fu, pensando l'alto effetto<br>
@@ -1094,6 +1144,7 @@ Wherefore if the Adversary of every ill was then courteous, thinking on the high
 <tr><td>Carlyle</td><td></td><td>
 But if the Adversary of all evil was propitious to him, considering the high effect, and who and what should come from him,
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">19<br>20<br>21</td><td>
 non pare indegno ad omo d'intelletto;<br>
 ch'e' fu de l'alma Roma e di suo impero<br>
@@ -1115,6 +1166,7 @@ it seemeth not unmeet to the man of understanding; for in the empyreal heaven he
 <tr><td>Carlyle</td><td></td><td>
 it seems not unfitting to an understanding mind: for in the empyreal heaven, he was chosen to be the father of generous Rome, and of her Empire;
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">22<br>23<br>24</td><td>
 la quale e 'l quale, a voler dir lo vero,<br>
 fu stabilita per lo loco santo<br>
@@ -1136,6 +1188,7 @@ both which (to say truth indeed) were ordained for the holy place where the succ
 <tr><td>Carlyle</td><td></td><td>
 both these, to say the truth, were established for the holy place, where the Successor of the greatest Peter sits.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">25<br>26<br>27</td><td>
 Per quest'andata onde li dai tu vanto,<br>
 intese cose che furon cagione<br>
@@ -1157,8 +1210,9 @@ Through this going, whereof thou givest him vaunt, he learned things which were 
 <tr><td>Carlyle</td><td></td><td>
 By this journey, for which thou honourest him, he learned things that were the causes of his victory, and of the Papal Mantle.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">28<br>29<br>30</td><td>
-Andovvi poi lo Vas d'elezïone,<br>
+Andovvi poi lo Vas d'elezione,<br>
 per recarne conforto a quella fede<br>
 ch'è principio a la via di salvazione.
 </td></tr>
@@ -1178,9 +1232,10 @@ Afterward the Chosen Vessel went thither to bring thence comfort to that faith w
 <tr><td>Carlyle</td><td></td><td>
 Afterwards, the Chosen Vessel went thither, to bring confirmation of that Faith which is the entrance to the way of salvation.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">31<br>32<br>33</td><td>
 Ma io, perché venirvi? o chi 'l concede?<br>
-Io non Enëa, io non Paulo sono;<br>
+Io non Enea, io non Paulo sono;<br>
 me degno a ciò né io né altri 'l crede.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">31<br>32<br>33</td><td>
@@ -1199,6 +1254,7 @@ But I, why go I thither? or who concedes it? I am not Aeneas, I am not Paul; me 
 <tr><td>Carlyle</td><td></td><td>
 But I, why go? or who permits it? I am not Aeneas, am not Paul; neither myself nor others deem me worthy of it.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">34<br>35<br>36</td><td>
 Per che, se del venire io m'abbandono,<br>
 temo che la venuta non sia folle.<br>
@@ -1220,6 +1276,7 @@ wherefore if I give myself up to go, I fear lest the going may be mad. Thou art 
 <tr><td>Carlyle</td><td></td><td>
 Wherefore, if I resign myself to go, I fear my going may prove foolish; thou art wise, and understandest better than I speak."
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">37<br>38<br>39</td><td>
 E qual è quei che disvuol ciò che volle<br>
 e per novi pensier cangia proposta,<br>
@@ -1241,8 +1298,9 @@ And as is he who unwills what he willed, and because of new thoughts changes his
 <tr><td>Carlyle</td><td></td><td>
 And as one who unwills what he willed, and with new thoughts changes his purpose, so that he wholly quits the thing commenced,
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">40<br>41<br>42</td><td>
-tal mi fec'ïo 'n quella oscura costa,<br>
+tal mi fec'io 'n quella oscura costa,<br>
 perché, pensando, consumai la 'mpresa<br>
 che fu nel cominciar cotanto tosta.
 </td></tr>
@@ -1262,6 +1320,7 @@ such I became on that dark hillside: wherefore in my thought I abandoned the ent
 <tr><td>Carlyle</td><td></td><td>
 such I made myself on that dim coast: for with thinking I wasted the enterprise, that had been so quick in its commencement.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">43<br>44<br>45</td><td>
 "S'i' ho ben la parola tua intesa",<br>
 rispuose del magnanimo quell'ombra,<br>
@@ -1283,8 +1342,9 @@ replied that shade of the magnanimous one,<br>
 <tr><td>Carlyle</td><td></td><td>
 "If I have rightly understood thy words," replied that shade of the Magnanimous, "thy soul is smit with coward fear,
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">46<br>47<br>48</td><td>
-la qual molte fïate l'omo ingombra<br>
+la qual molte fiate l'omo ingombra<br>
 sì che d'onrata impresa lo rivolve,<br>
 come falso veder bestia quand'ombra.
 </td></tr>
@@ -1304,6 +1364,7 @@ which oftentimes encumbereth a man so that it turns him back from honorable ente
 <tr><td>Carlyle</td><td></td><td>
 which oftentimes encumbers men, so that it turns them back from honoured enterprise; as false seeing does a startled beast.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">49<br>50<br>51</td><td>
 Da questa tema acciò che tu ti solve,<br>
 dirotti perch'io venni e quel ch'io 'ntesi<br>
@@ -1325,6 +1386,7 @@ In order that thou loose thee from this fear I will tell thee wherefore I have c
 <tr><td>Carlyle</td><td></td><td>
 To free thee from this dread, I will tell thee why I came, and what I heard in the first moment when I took pity of thee.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">52<br>53<br>54</td><td>
 Io era tra color che son sospesi,<br>
 e donna mi chiamò beata e bella,<br>
@@ -1346,6 +1408,7 @@ I was among those who are suspended, and a Lady called me, so blessed and beauti
 <tr><td>Carlyle</td><td></td><td>
 I was amongst them who are in suspense; and a Lady, so fair and blessed that I prayed her to command, called me.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">55<br>56<br>57</td><td>
 Lucevan li occhi suoi più che la stella;<br>
 e cominciommi a dir soave e piana,<br>
@@ -1367,6 +1430,7 @@ Her eyes were more lucent than the star, and she began to speak to me sweet and 
 <tr><td>Carlyle</td><td></td><td>
 Her eyes shone brighter than the stars; and she began soft and gentle to tell me with angelic voice, in her language:
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">58<br>59<br>60</td><td>
 "O anima cortese mantoana,<br>
 di cui la fama ancor nel mondo dura,<br>
@@ -1388,6 +1452,7 @@ and shall last so long as the world endureth!
 <tr><td>Carlyle</td><td></td><td>
 'O courteous Mantuan Spirit, whose fame still lasts in the world, and will last as long as Time!
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">61<br>62<br>63</td><td>
 l'amico mio, e non de la ventura,<br>
 ne la diserta piaggia è impedito<br>
@@ -1409,6 +1474,7 @@ a friend of mine and not of fortune upon the desert hillside is so hindered on h
 <tr><td>Carlyle</td><td></td><td>
 my friend, and not the friend of fortune, is so impeded in his way upon the desert shore, that he has turned back for terror;
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">64<br>65<br>66</td><td>
 e temo che non sia già sì smarrito,<br>
 ch'io mi sia tardi al soccorso levata,<br>
@@ -1430,6 +1496,7 @@ and I am afraid, through that which I have heard of him in heaven, lest already 
 <tr><td>Carlyle</td><td></td><td>
 and I fear he may already be so far astray, that I have risen too late for his relief, from what I heard of him in Heaven.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">67<br>68<br>69</td><td>
 Or movi, e con la tua parola ornata<br>
 e con ciò c' ha mestieri al suo campare,<br>
@@ -1451,6 +1518,7 @@ Now do thou move, and with thy speech ornate, and with whatever is needful for h
 <tr><td>Carlyle</td><td></td><td>
 Now go, and with thy ornate speech, and with what is necessary for his escape, help him so, that I may be consoled thereby.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">70<br>71<br>72</td><td>
 I' son Beatrice che ti faccio andare;<br>
 vegno del loco ove tornar disio;<br>
@@ -1472,6 +1540,7 @@ I am Beatrice who make thee go. I come from a place whither I desire to return. 
 <tr><td>Carlyle</td><td></td><td>
 I am Beatrice who send thee; I come from a place where I desire to return; love moved me, that makes me speak.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">73<br>74<br>75</td><td>
 Quando sarò dinanzi al segnor mio,<br>
 di te mi loderò sovente a lui".<br>
@@ -1493,6 +1562,7 @@ When I shall be before my Lord, I will commend thee often unto Him.’ Then she 
 <tr><td>Carlyle</td><td></td><td>
 When I shall be before my Lord, I oft will praise thee to him.' She was silent then, and I began:
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">76<br>77<br>78</td><td>
 "O donna di virtù sola per cui<br>
 l'umana spezie eccede ogne contento<br>
@@ -1514,6 +1584,7 @@ within that heaven which hath the smallest circles!
 <tr><td>Carlyle</td><td></td><td>
 'O Lady of virtue, through whom alone mankind excels all that is contained within the heaven which has the smallest circles!
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">79<br>80<br>81</td><td>
 tanto m'aggrada il tuo comandamento,<br>
 che l'ubidir, se già fosse, m'è tardi;<br>
@@ -1535,6 +1606,7 @@ so pleasing unto me is thy command that to obey it, were it already done, were s
 <tr><td>Carlyle</td><td></td><td>
 so grateful to me is thy command, that my obeying, were it done already, seems tardy; it needs not that thou more explain to me thy wish.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">82<br>83<br>84</td><td>
 Ma dimmi la cagion che non ti guardi<br>
 de lo scender qua giuso in questo centro<br>
@@ -1556,6 +1628,7 @@ but tell me the cause why thou guardest not thyself from descending down here in
 <tr><td>Carlyle</td><td></td><td>
 But tell me the cause, why thou forbearest not to descend into this centre here below from the spacious place, to which thou burnest to return.'
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">85<br>86<br>87</td><td>
 "Da che tu vuo' saver cotanto a dentro,<br>
 dirotti brievemente", mi rispuose,<br>
@@ -1577,6 +1650,7 @@ I will tell thee briefly,’ she replied to me,<br>
 <tr><td>Carlyle</td><td></td><td>
 'Since thou desirest to know thus far, I will tell thee briefly,' she replied, 'why I fear not to come within this place.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">88<br>89<br>90</td><td>
 Temer si dee di sole quelle cose<br>
 c' hanno potenza di fare altrui male;<br>
@@ -1598,6 +1672,7 @@ One ought to fear those things only that have power of doing harm, the others no
 <tr><td>Carlyle</td><td></td><td>
 Those things alone are to be feared that have the power of hurting; the others not, which are not fearful.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">91<br>92<br>93</td><td>
 I' son fatta da Dio, sua mercé, tale,<br>
 che la vostra miseria non mi tange,<br>
@@ -1619,6 +1694,7 @@ I am made by God, thanks be to Him, such that your misery toucheth me not, nor d
 <tr><td>Carlyle</td><td></td><td>
 I am made such by God, in his grace, that your misery does not touch me; nor the flame of this burning assail me.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">94<br>95<br>96</td><td>
 Donna è gentil nel ciel che si compiange<br>
 di questo 'mpedimento ov'io ti mando,<br>
@@ -1640,6 +1716,7 @@ A gentle Lady is in heaven who hath pity for this hindrance whereto I send thee,
 <tr><td>Carlyle</td><td></td><td>
 There is a noble Lady in Heaven who has such pity of this hindrance, for which I send thee, that she breaks the sharp judgment there on high.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">97<br>98<br>99</td><td>
 Questa chiese Lucia in suo dimando<br>
 e disse: - Or ha bisogno il tuo fedele<br>
@@ -1661,6 +1738,7 @@ She summoned Lucia in her request, and said, “Thy faithful one now hath need o
 <tr><td>Carlyle</td><td></td><td>
 She called Lucia, in her request, and said: "Now thy faithful one has need of thee; and I commend him to thee."
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">100<br>101<br>102</td><td>
 Lucia, nimica di ciascun crudele,<br>
 si mosse, e venne al loco dov'i' era,<br>
@@ -1682,6 +1760,7 @@ Lucia, the foe of every cruel one, rose and came to the place where I was, seate
 <tr><td>Carlyle</td><td></td><td>
 Lucia, enemy of all cruelty, arose and carne to the place where I was sitting with the ancient Rachel.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">103<br>104<br>105</td><td>
 Disse: - Beatrice, loda di Dio vera,<br>
 ché non soccorri quei che t'amò tanto,<br>
@@ -1703,6 +1782,7 @@ She said, “Beatrice, true praise of God, why dost thou not succor him who so l
 <tr><td>Carlyle</td><td></td><td>
 She said: "Beatrice, true praise of God; why helpest thou not him who loved thee so, that for thee he left the vulgar crowd?
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">106<br>107<br>108</td><td>
 Non odi tu la pieta del suo pianto,<br>
 non vedi tu la morte che 'l combatte<br>
@@ -1724,6 +1804,7 @@ Dost thou not hear the pity of his plaint? Dost thou not see the death that comb
 <tr><td>Carlyle</td><td></td><td>
 Hearest not thou the misery of his plaint? Seest thou not the death which combats him upon the river over which the sea has no boast?"
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">109<br>110<br>111</td><td>
 Al mondo non fur mai persone ratte<br>
 a far lor pro o a fuggir lor danno,<br>
@@ -1745,6 +1826,7 @@ In the world never were persons swift to seek their good, and to fly their harm,
 <tr><td>Carlyle</td><td></td><td>
 None on earth were ever swift to seek their good, or flee their hurt, as I, after these words were uttered,
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">112<br>113<br>114</td><td>
 venni qua giù del mio beato scanno,<br>
 fidandomi del tuo parlare onesto,<br>
@@ -1766,6 +1848,7 @@ came here below, from my blessed seat, putting my trust in thy upright speech, w
 <tr><td>Carlyle</td><td></td><td>
 to come from my blessed seat; confiding in thy noble speech, which honours thee, and them who have heard it.'
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">115<br>116<br>117</td><td>
 Poscia che m'ebbe ragionato questo,<br>
 li occhi lucenti lagrimando volse,<br>
@@ -1787,6 +1870,7 @@ After she had said this to me, weeping she turned her lucent eyes, whereby she m
 <tr><td>Carlyle</td><td></td><td>
 After saying this to me, she turned away her bright eyes weeping; by which she made me hasten more to come;
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">118<br>119<br>120</td><td>
 E venni a te così com'ella volse:<br>
 d'inanzi a quella fiera ti levai<br>
@@ -1808,6 +1892,7 @@ And I came to thee as she willed. Thee have I delivered from that wild beast tha
 <tr><td>Carlyle</td><td></td><td>
 and thus I came to thee, as she desired; took thee from before that savage beast, which bereft thee of the short way to the beautiful mountain.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">121<br>122<br>123</td><td>
 Dunque: che è perché, perché restai,<br>
 perché tanta viltà nel core allette,<br>
@@ -1829,6 +1914,7 @@ What is it then? Why, why dost thou hold back? why dost thou harbor such cowardi
 <tr><td>Carlyle</td><td></td><td>
 What is it then? why, why haltest thou? why lodgest in thy heart such coward fear? why art thou not bold and free.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">124<br>125<br>126</td><td>
 poscia che tai tre donne benedette<br>
 curan di te ne la corte del cielo,<br>
@@ -1850,6 +1936,7 @@ since three blessed Ladies care for thee in the court of Heaven, and my speech p
 <tr><td>Carlyle</td><td></td><td>
 when three such blessed Ladies care for thee in the court of Heaven, and my words promise thee so much good?"
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">127<br>128<br>129</td><td>
 Quali fioretti dal notturno gelo<br>
 chinati e chiusi, poi che 'l sol li 'mbianca,<br>
@@ -1871,6 +1958,7 @@ As flowerets, bent and closed by the chill of night, after the sun shines on the
 <tr><td>Carlyle</td><td></td><td>
 As flowerets, by the nightly chillness bended down and closed, erect themselves all open on their stems when the sun whitens them:
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">130<br>131<br>132</td><td>
 tal mi fec'io di mia virtude stanca,<br>
 e tanto buono ardire al cor mi corse,<br>
@@ -1892,6 +1980,7 @@ so I became with my weak virtue, and such good daring hastened to my heart that 
 <tr><td>Carlyle</td><td></td><td>
 thus I did, with my fainting courage; and so much good daring ran into my heart, that I began as one set free:
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">133<br>134<br>135</td><td>
 "Oh pietosa colei che mi soccorse!<br>
 e te cortese ch'ubidisti tosto<br>
@@ -1913,6 +2002,7 @@ the true words that she addressed to thee!
 <tr><td>Carlyle</td><td></td><td>
 "O compassionate she, who succoured me! and courteous thou, who quickly didst obey the true words that she gave thee!
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">136<br>137<br>138</td><td>
 Tu m' hai con disiderio il cor disposto<br>
 sì al venir con le parole tue,<br>
@@ -1934,6 +2024,7 @@ Thou by thy words hast so disposed my heart with desire of going, that I have re
 <tr><td>Carlyle</td><td></td><td>
 Thou hast disposed my heart with such desire to go, by what thou sayest, that I have returned to my first purpose.
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">139<br>140<br>141</td><td>
 Or va, ch'un sol volere è d'ambedue:<br>
 tu duca, tu segnore e tu maestro".<br>
@@ -1955,6 +2046,7 @@ Go on now, for one sole will is in us both: Thou Leader, thou Lord, and thou Mas
 <tr><td>Carlyle</td><td></td><td>
 Now go, for both have one will; thou guide, thou lord and master." Thus I spake to him; and he moving,
 </td></tr>
+<tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">142</td><td>
 intrai per lo cammino alto e silvestro.
 </td></tr>
