@@ -1,15 +1,20 @@
 import sys, re
 
 start = 0
-step = 3
+diff = 3
 
 args = sys.argv[1:]
-if len(args) >= 2 and args[0] == "-s":
-    start = int(args[1])
-    args = args[2:]
+
+while len(args) >= 2:
+    if args[0] == "-s":
+        start = int(args[1])
+        args = args[2:]
+    elif args[0] == "-d":
+        diff = int(args[1])
+        args = args[2:]
 
 if len(args) != 1:
-    print(f"Usage: python {sys.argv[0]} [-s start] file", file=sys.stderr)
+    print(f"Usage: python {sys.argv[0]} [-s start] [-d diff] file", file=sys.stderr)
     sys.exit(1)
 
 def chop(s):
@@ -26,13 +31,13 @@ with open(args[0], "r") as f:
             i = int(m.group(1))
             j = int(m.group(2))
             if i >= start:
-                i += step
-                j += step
+                i += diff
+                j += diff
             print(f"## {i}-{j}")
         elif m := re.match(r"## (\d+)", line):
             i = int(m.group(1))
             if i >= start:
-                i += step
+                i += diff
             print(f"## {i}")
         else:
             print(line)
