@@ -40,19 +40,21 @@ names = [h + ":" for h in data[min_key][0][0]]
 if first:
     names[0], names[first] = names[first], names[0]
 
-def fix(s, t):
+def fix(s, t, warn=True):
     last = s[-1]
     if not isletter(last) and isletter(t[-1]):
         t += last
-        print(f'[{n+i}] add "{last}": {t}', file=sys.stderr)
+        if warn:
+            print(f'[{n+i}] add "{last}": {t}', file=sys.stderr)
     itlt = isletter(s[0])
     enlt = isletter(t[0])
-    if itlt != enlt:
+    if warn and itlt != enlt:
         print(f'{n+i} it="{s[0]}", en="{t[0]}"', file=sys.stderr)
     if t[:2] != "I " and enlt and (itlw := islower(s[0])) != islower(t[0]):
         e1 = t[0]
         t = (e1.lower() if itlw else e1.upper()) + t[1:]
-        print(f'[{n+i}] case change: {e1} -> {t}', file=sys.stderr)
+        if warn:
+            print(f'[{n+i}] case change: {e1} -> {t}', file=sys.stderr)
     return t
 
 def strip_word2(w, col):
@@ -87,16 +89,13 @@ for n in range(1, max(nums) + 1, 3):
                     print()
                 source = ""
                 for j in range(1, len(items)):
-                    if src and j == col:
-                        t = src[ln - 1]
-                    elif j == 1 or j == cja:
-                        t = items[j]
-                    else:
-                        t = fix(source, items[j])
-                    spc = "  " if j < len(items) - 1 else ""
-                    print(f"{ln} {t}{spc}")
+                    t = src[ln - 1] if src and j == col else items[j]
                     if j == 1:
                         source = t
+                    elif j != cja:
+                        t = fix(source, t, False)
+                    spc = "  " if j < len(items) - 1 else ""
+                    print(f"{ln} {t}{spc}")
                 print()
                 print("<table><tr><td><b>", "<br>".join(names), "</b></td>", sep="")
                 while words:
