@@ -44,8 +44,8 @@ for i in range(1, tlen):
 
 def normalize(text):
     ret = ""
-    for ch in unicodedata.normalize("NFD", text.lower()):
-        if "a" <= ch <= "z":
+    for ch in text.lower():
+        if ch != ch.upper():
             ret += ch
         elif ord(ch) < 128 and not ret.endswith(" "):
             ret += " "

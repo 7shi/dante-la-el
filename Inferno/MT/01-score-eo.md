@@ -24,14 +24,14 @@
 |   16 | 0.125 | 1     | mi rigardis supren kaj vidis liajn ŝultrojn             |
 |   17 | 0.178 | 2     | jam vestitan de la radioj de la planedo,                |
 |   18 | 0.397 | 5     | kiu kondukas aliajn rekte laŭ ĉiu strato.               |
-|   19 | 0.322 | 4     | Tiam la timo estis iom trankviligita,                   |
+|   19 | 0.330 | 4     | Tiam la timo estis iom trankviligita,                   |
 |   20 | 0.396 | 2     | kiun en la lago de mia koro mi portis                   |
 |   21 | 0.192 | 5     | la nokton, kiun mi pasigis kun tiom da kompato.         |
 |   22 | 0.276 | 1     | Kaj kiel tiuj, kiuj kun laca spirado,                   |
 |   23 | 0.358 | 14    | elirinte ekstere el la maro al la bordo,                |
 |   24 | 0.112 | 245   | turnas sin al la danĝera akvo kaj rigardas,             |
 |   25 | 0.157 | 3     | tiel mia animo, kiu ankoraŭ fuĝis,                      |
-|   26 | 0.283 | 23    | sin turnis malantaŭen por rigardi la paŝon,             |
+|   26 | 0.287 | 23    | sin turnis malantaŭen por rigardi la paŝon,             |
 |   27 | 0.455 | 1     | kiu jam neniam lasis vivantan personon.                 |
 |   28 | 0.452 | 1     | Poste kiam mi iom ripozis la lakan korpon,              |
 |   29 | 0.389 | 1     | mi denove prenis la vojon tra la dezerta marbordo,      |
@@ -40,7 +40,7 @@
 |   32 | 0.523 | 1     | malpeza kaj tre rapida linseno,                         |
 |   33 | 0.300 | 34    | kiu estis kovrita per makulita felo;                    |
 |   34 | 0.208 | 3     | kaj ĝi ne foriĝis antaŭ mia vizaĝo,                     |
-|   35 | 0.368 | 1     | anstataŭ malhelpis tiom mian vojon,                     |
+|   35 | 0.373 | 2     | sed tiom malhelpis mian vojon,                          |
 |   36 | 0.438 | 3     | ke mi estis por reveni pli ofte sin turnis.             |
 |   37 | 0.249 | 1     | Estis tempo de la komenco de la mateno,                 |
 |   38 | 0.076 | 4     | Kaj la suno leviĝis supre kun tiuj steloj               |
@@ -55,32 +55,32 @@
 |   47 | 0.208 | 1     | kun alta kapo kaj kun furioza malsatego,                |
 |   48 | 0.152 | 24    | tiel, ke ŝajnis ke la aero tremas.                      |
 |   49 | 0.516 | 1     | Kaj unu lupo, kiu en ĉiuj deziroj                       |
-|   50 | 0.482 | 5     | ŝi ŝajnis ŝarĝita en sia maldikeco,                     |
+|   50 | 0.497 | 5     | ŝi ŝajnis ŝarĝita en sia maldikeco,                     |
 |   51 | 0.433 | 1     | kaj jam igis multajn homojn vivi mizeraj,               |
 |   52 | 0.368 | 3     | tiu donis al mi tiom da pezo                            |
 |   53 | 0.224 | 3     | kun la timo kiu eliris el ŝia vidaĵo                    |
 |   54 | 0.200 | 13    | ke mi perdis la esperon de la alteco.                   |
 |   55 | 0.201 | 124   | Kaj kiel tiu, kiu volonte akiras,                       |
 |   56 | 0.280 | 5     | kaj venos la tempo, kiu igos lin perdi,                 |
-|   57 | 0.524 | 4     | Kiu en ĉiuj siaj pensoj ploras kaj malĝojas;            |
+|   57 | 0.525 | 4     | Kiu en ĉiuj siaj pensoj ploras kaj malĝojas;            |
 |   58 | 0.598 | 1     | tia min faris la besto sen paco,                        |
-|   59 | 0.341 | 3     | ke, venante al mi, malmulte post malmulte,              |
+|   59 | 0.356 | 3     | ke, venante al mi, malmulte post malmulte,              |
 |   60 | 0.263 | 12    | puŝis min tien, kie la suno silentas.                   |
 |   61 | 0.151 | 45    | Dum mi ruiniĝis en malalta loko,                        |
 |   62 | 0.527 | 2     | antaŭ miaj okuloj prezentis sin                         |
 |   63 | 0.143 | 4     | Kiu pro longa silento ŝajnis malforta.                  |
 |   64 | 0.134 | 4     | Kiam mi vidis ĉi tiun en la granda dezerto,             |
 |   65 | 0.274 | 125   | "Compatu min," mi kriis al li,                          |
-|   66 | 0.312 | 1     | "kio ajn vi estas, aŭ ombro aŭ certa homo!".            |
+|   66 | 0.319 | 12    | "kio ajn vi estas, aŭ ombro aŭ certa homo!".            |
 |   67 | 0.330 | 3     | Li respondis al mi: "Ne homo, homo mi estis,            |
 |   68 | 0.190 | 125   | kaj miaj parencoj estis lombardoj,                      |
 |   69 | 0.278 | 1     | mantovanoj per patrujo ambaŭ."                          |
 |   70 | 0.148 | 2     | Mi naskiĝis sub Julio, kvankam estis malfrue,           |
-|   71 | 0.044 | 125   | kaj mi vivis en Romo sub la bona Augusto                |
+|   71 | 0.055 | 5     | kaj mi vivis en Romo sub la bona Aŭgusto                |
 |   72 | 0.242 | 1     | en la tempo de la malveraj kaj trompemaj dioj.          |
 |   73 | 0.271 | 13    | Mi estis poeto, kaj mi kantis pri tiu justa             |
-|   74 | 0.071 | 34    | filo de Anĥizo kiu venis de Trojo,                      |
-|   75 | 0.230 | 4     | Post kiam la superba Ilion estis bruligita.             |
+|   74 | 0.083 | 34    | filo de Anĥizo kiu venis de Trojo,                      |
+|   75 | 0.242 | 4     | Post kiam la superba Ilion estis bruligita.             |
 |   76 | 0.163 | 2     | Sed kial vi revenas al tiom da peno?                    |
 |   77 | 0.197 | 1     | kial vi ne supreniras la ĝojigan monton                 |
 |   78 | 0.111 | 4     | Kiu estas komenco kaj kaŭzo de ĉia ĝojo?"               |
@@ -113,9 +113,9 @@
 |  105 | 0.115 | 3     | kaj lia nacio estos inter felto kaj felto.              |
 |  106 | 0.461 | 4     | De tiu humila Italio estos savo                         |
 |  107 | 0.238 | 124   | pro kiu mortis la virgulino Kamilo,                     |
-|  108 | 0.263 | 3     | Eŭrialo kaj Turno kaj Niso de vundoj.                   |
+|  108 | 0.268 | 3     | Eŭrialo kaj Turno kaj Niso de vundoj.                   |
 |  109 | 0.326 | 1     | Tiu ĝin forpelos tra ĉiu vilaĝo,                        |
-|  110 | 0.307 | 3     | ĝis li remetos ŝin en la infero,                        |
+|  110 | 0.323 | 3     | ĝis li remetos ŝin en la infero,                        |
 |  111 | 0.407 | 5     | tie kie la envio unue foriras.                          |
 |  112 | 0.569 | 3     | Tial, mi pensas kaj distingas tra via vizaĝo            |
 |  113 | 0.212 | 13    | ke vi sekvas min, kaj mi estos via gvidanto,            |
@@ -128,7 +128,7 @@
 |  120 | 0.348 | 1     | kiam ajn al la feliĉaj homoj.                           |
 |  121 | 0.418 | 4     | Al kiuj poste se vi volas supreniri,                    |
 |  122 | 0.432 | 3     | la animo estos al tio pli digna ol mi                   |
-|  123 | 0.463 | 4     | Kun ŝi mi vin lasos en mia foriro;                      |
+|  123 | 0.471 | 14    | kun ŝi mi forlasos vin en mia forveturo;                |
 |  124 | 0.235 | 25    | ĉar tiu imperiestro, kiu regas tie supre,               |
 |  125 | 0.163 | 1     | ĉar mi estis ribela kontraŭ lia leĝo,                   |
 |  126 | 0.482 | 3     | ne volas ke mi venu al lia urbo                         |
@@ -147,60 +147,60 @@
 
 | Rank | Name      | Adopt |
 | ---: | --------- | ----: |
-|    1 | chatgpt   |    58 |
+|    1 | chatgpt   |    57 |
 |    2 | bard-t    |    38 |
 |    3 | bard      |    37 |
 |    4 | google    |    31 |
-|    5 | chatgpt-t |    22 |
+|    5 | chatgpt-t |    23 |
 
 # Distances
 
 |           | chatgpt-t | bard  | bard-t | google | MIX   |
 | --------- | --------: | ----: | -----: | -----: | ----: |
-| chatgpt   |     0.365 | 0.328 |  0.322 |  0.389 | 0.222 |
-| chatgpt-t |           | 0.395 |  0.395 |  0.434 | 0.334 |
-| bard      |           |       |  0.324 |  0.367 | 0.243 |
-| bard-t    |           |       |        |  0.391 | 0.265 |
+| chatgpt   |     0.366 | 0.329 |  0.323 |  0.390 | 0.224 |
+| chatgpt-t |           | 0.396 |  0.395 |  0.436 | 0.332 |
+| bard      |           |       |  0.325 |  0.368 | 0.244 |
+| bard-t    |           |       |        |  0.392 | 0.269 |
 | google    |           |       |        |        | 0.335 |
 
 ## chatgpt
 
 | Rank | Name      | Dist  |
 | ---: | --------- | ----: |
-|    1 | MIX       | 0.222 |
-|    2 | bard-t    | 0.322 |
-|    3 | bard      | 0.328 |
-|    4 | chatgpt-t | 0.365 |
-|    5 | google    | 0.389 |
+|    1 | MIX       | 0.224 |
+|    2 | bard-t    | 0.323 |
+|    3 | bard      | 0.329 |
+|    4 | chatgpt-t | 0.366 |
+|    5 | google    | 0.390 |
 
 ## chatgpt-t
 
 | Rank | Name      | Dist  |
 | ---: | --------- | ----: |
-|    1 | MIX       | 0.334 |
-|    2 | chatgpt   | 0.365 |
+|    1 | MIX       | 0.332 |
+|    2 | chatgpt   | 0.366 |
 |    3 | bard-t    | 0.395 |
-|    4 | bard      | 0.395 |
-|    5 | google    | 0.434 |
+|    4 | bard      | 0.396 |
+|    5 | google    | 0.436 |
 
 ## bard
 
 | Rank | Name      | Dist  |
 | ---: | --------- | ----: |
-|    1 | MIX       | 0.243 |
-|    2 | bard-t    | 0.324 |
-|    3 | chatgpt   | 0.328 |
-|    4 | google    | 0.367 |
-|    5 | chatgpt-t | 0.395 |
+|    1 | MIX       | 0.244 |
+|    2 | bard-t    | 0.325 |
+|    3 | chatgpt   | 0.329 |
+|    4 | google    | 0.368 |
+|    5 | chatgpt-t | 0.396 |
 
 ## bard-t
 
 | Rank | Name      | Dist  |
 | ---: | --------- | ----: |
-|    1 | MIX       | 0.265 |
-|    2 | chatgpt   | 0.322 |
-|    3 | bard      | 0.324 |
-|    4 | google    | 0.391 |
+|    1 | MIX       | 0.269 |
+|    2 | chatgpt   | 0.323 |
+|    3 | bard      | 0.325 |
+|    4 | google    | 0.392 |
 |    5 | chatgpt-t | 0.395 |
 
 ## google
@@ -208,17 +208,17 @@
 | Rank | Name      | Dist  |
 | ---: | --------- | ----: |
 |    1 | MIX       | 0.335 |
-|    2 | bard      | 0.367 |
-|    3 | chatgpt   | 0.389 |
-|    4 | bard-t    | 0.391 |
-|    5 | chatgpt-t | 0.434 |
+|    2 | bard      | 0.368 |
+|    3 | chatgpt   | 0.390 |
+|    4 | bard-t    | 0.392 |
+|    5 | chatgpt-t | 0.436 |
 
 ## MIX
 
 | Rank | Name      | Dist  |
 | ---: | --------- | ----: |
-|    1 | chatgpt   | 0.222 |
-|    2 | bard      | 0.243 |
-|    3 | bard-t    | 0.265 |
-|    4 | chatgpt-t | 0.334 |
+|    1 | chatgpt   | 0.224 |
+|    2 | bard      | 0.244 |
+|    3 | bard-t    | 0.269 |
+|    4 | chatgpt-t | 0.332 |
 |    5 | google    | 0.335 |

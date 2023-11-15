@@ -80,7 +80,7 @@
 |   72 | 0.131 | 3457     | in the time of the false and lying gods.          |
 |   73 | 0.235 | 28       | I was a poet, and I sang of that righteous        |
 |   74 | 0.129 | 123467   | son of Anchises who came from Troy,               |
-|   75 | 0.177 | 147      | after the proud Ilion was burned.                 |
+|   75 | 0.194 | 7        | after the proud Ilión was burned.                 |
 |   76 | 0.246 | 6        | But why do you return to such boredom?            |
 |   77 | 0.248 | 2        | Why do you not climb the delightful mountain      |
 |   78 | 0.056 | 14578    | which is the beginning and cause of all joy?"     |
@@ -147,9 +147,9 @@
 
 | Rank | Name      | Adopt |
 | ---: | --------- | ----: |
-|    1 | chatgpt   |    42 |
-|    2 | bard      |    42 |
-|    3 | bard-t    |    38 |
+|    1 | bard      |    42 |
+|    2 | chatgpt   |    41 |
+|    3 | bard-t    |    37 |
 |    4 | bing      |    36 |
 |    5 | google    |    35 |
 |    6 | chatgpt-t |    29 |
@@ -160,14 +160,14 @@
 
 |           | chatgpt-t | bard  | bard-t | deepl | google | bing  | baidu | MIX   | norton-1 |
 | --------- | --------: | ----: | -----: | ----: | -----: | ----: | ----: | ----: | -------: |
-| chatgpt   |     0.323 | 0.310 |  0.309 | 0.372 |  0.377 | 0.352 | 0.400 | 0.244 |    0.400 |
-| chatgpt-t |           | 0.334 |  0.336 | 0.416 |  0.391 | 0.393 | 0.423 | 0.287 |    0.376 |
-| bard      |           |       |  0.322 | 0.395 |  0.373 | 0.362 | 0.399 | 0.247 |    0.400 |
-| bard-t    |           |       |        | 0.363 |  0.401 | 0.379 | 0.405 | 0.262 |    0.391 |
-| deepl     |           |       |        |       |  0.419 | 0.370 | 0.392 | 0.305 |    0.398 |
-| google    |           |       |        |       |        | 0.328 | 0.376 | 0.320 |    0.453 |
+| chatgpt   |     0.323 | 0.310 |  0.309 | 0.372 |  0.377 | 0.352 | 0.401 | 0.244 |    0.400 |
+| chatgpt-t |           | 0.334 |  0.336 | 0.416 |  0.392 | 0.393 | 0.424 | 0.287 |    0.376 |
+| bard      |           |       |  0.322 | 0.395 |  0.374 | 0.362 | 0.399 | 0.247 |    0.400 |
+| bard-t    |           |       |        | 0.363 |  0.401 | 0.379 | 0.406 | 0.262 |    0.391 |
+| deepl     |           |       |        |       |  0.419 | 0.371 | 0.393 | 0.305 |    0.398 |
+| google    |           |       |        |       |        | 0.328 | 0.376 | 0.320 |    0.454 |
 | bing      |           |       |        |       |        |       | 0.345 | 0.279 |    0.434 |
-| baidu     |           |       |        |       |        |       |       | 0.326 |    0.474 |
+| baidu     |           |       |        |       |        |       |       | 0.327 |    0.474 |
 | MIX       |           |       |        |       |        |       |       |       |    0.363 |
 
 ## chatgpt
@@ -182,7 +182,7 @@
 |    6 | deepl     | 0.372 |
 |    7 | google    | 0.377 |
 |    8 | norton-1  | 0.400 |
-|    9 | baidu     | 0.400 |
+|    9 | baidu     | 0.401 |
 
 ## chatgpt-t
 
@@ -193,10 +193,10 @@
 |    3 | bard      | 0.334 |
 |    4 | bard-t    | 0.336 |
 |    5 | norton-1  | 0.376 |
-|    6 | google    | 0.391 |
+|    6 | google    | 0.392 |
 |    7 | bing      | 0.393 |
 |    8 | deepl     | 0.416 |
-|    9 | baidu     | 0.423 |
+|    9 | baidu     | 0.424 |
 
 ## bard
 
@@ -207,7 +207,7 @@
 |    3 | bard-t    | 0.322 |
 |    4 | chatgpt-t | 0.334 |
 |    5 | bing      | 0.362 |
-|    6 | google    | 0.373 |
+|    6 | google    | 0.374 |
 |    7 | deepl     | 0.395 |
 |    8 | baidu     | 0.399 |
 |    9 | norton-1  | 0.400 |
@@ -224,7 +224,7 @@
 |    6 | bing      | 0.379 |
 |    7 | norton-1  | 0.391 |
 |    8 | google    | 0.401 |
-|    9 | baidu     | 0.405 |
+|    9 | baidu     | 0.406 |
 
 ## deepl
 
@@ -232,9 +232,9 @@
 | ---: | --------- | ----: |
 |    1 | MIX       | 0.305 |
 |    2 | bard-t    | 0.363 |
-|    3 | bing      | 0.370 |
+|    3 | bing      | 0.371 |
 |    4 | chatgpt   | 0.372 |
-|    5 | baidu     | 0.392 |
+|    5 | baidu     | 0.393 |
 |    6 | bard      | 0.395 |
 |    7 | norton-1  | 0.398 |
 |    8 | chatgpt-t | 0.416 |
@@ -246,13 +246,13 @@
 | ---: | --------- | ----: |
 |    1 | MIX       | 0.320 |
 |    2 | bing      | 0.328 |
-|    3 | bard      | 0.373 |
+|    3 | bard      | 0.374 |
 |    4 | baidu     | 0.376 |
 |    5 | chatgpt   | 0.377 |
-|    6 | chatgpt-t | 0.391 |
+|    6 | chatgpt-t | 0.392 |
 |    7 | bard-t    | 0.401 |
 |    8 | deepl     | 0.419 |
-|    9 | norton-1  | 0.453 |
+|    9 | norton-1  | 0.454 |
 
 ## bing
 
@@ -263,7 +263,7 @@
 |    3 | baidu     | 0.345 |
 |    4 | chatgpt   | 0.352 |
 |    5 | bard      | 0.362 |
-|    6 | deepl     | 0.370 |
+|    6 | deepl     | 0.371 |
 |    7 | bard-t    | 0.379 |
 |    8 | chatgpt-t | 0.393 |
 |    9 | norton-1  | 0.434 |
@@ -272,14 +272,14 @@
 
 | Rank | Name      | Dist  |
 | ---: | --------- | ----: |
-|    1 | MIX       | 0.326 |
+|    1 | MIX       | 0.327 |
 |    2 | bing      | 0.345 |
 |    3 | google    | 0.376 |
-|    4 | deepl     | 0.392 |
+|    4 | deepl     | 0.393 |
 |    5 | bard      | 0.399 |
-|    6 | chatgpt   | 0.400 |
-|    7 | bard-t    | 0.405 |
-|    8 | chatgpt-t | 0.423 |
+|    6 | chatgpt   | 0.401 |
+|    7 | bard-t    | 0.406 |
+|    8 | chatgpt-t | 0.424 |
 |    9 | norton-1  | 0.474 |
 
 ## MIX
@@ -293,7 +293,7 @@
 |    5 | chatgpt-t | 0.287 |
 |    6 | deepl     | 0.305 |
 |    7 | google    | 0.320 |
-|    8 | baidu     | 0.326 |
+|    8 | baidu     | 0.327 |
 |    9 | norton-1  | 0.363 |
 
 ## norton-1
@@ -307,5 +307,5 @@
 |    5 | chatgpt   | 0.400 |
 |    6 | bard      | 0.400 |
 |    7 | bing      | 0.434 |
-|    8 | google    | 0.453 |
+|    8 | google    | 0.454 |
 |    9 | baidu     | 0.474 |
