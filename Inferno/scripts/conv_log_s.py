@@ -85,19 +85,26 @@ for n in range(1, max(nums) + 1, 3):
                 ln = n + i
                 if ln > 1:
                     print()
+                source = ""
                 for j in range(1, len(items)):
-                    t = src[ln - 1] if src and j == col else items[j]
+                    if src and j == col:
+                        t = src[ln - 1]
+                    elif j == 1 or j == cja:
+                        t = items[j]
+                    else:
+                        t = fix(source, items[j])
                     spc = "  " if j < len(items) - 1 else ""
                     print(f"{ln} {t}{spc}")
-                s = items[1]
+                    if j == 1:
+                        source = t
                 print()
                 print("<table><tr><td><b>", "<br>".join(names), "</b></td>", sep="")
                 while words:
                     ws = [strip_word2(w, iw) for iw, w in enumerate(words[0])]
                     if w := ws[0]:
-                        if (p := s.find(w)) < 0:
+                        if (p := source.find(w)) < 0:
                             break
-                        s = s[p + len(w):]
+                        source = source[p + len(w):]
                         if first:
                             ws[0], ws[first] = ws[first], w
                         print("<td>", "<br>".join(ws), "</td>", sep="")
