@@ -21,6 +21,9 @@ In the middle of the journey of our life
 <tr><td>Bard-2</td><td align="right">1</td><td>
 In the middle of the journey of our life
 </td></tr>
+<tr><td>DeepL</td><td align="right">1</td><td>
+In the midst of the journey of our life
+</td></tr>
 <tr><td>Google</td><td align="right">1</td><td>
 In the middle of our life's journey
 </td></tr>
@@ -48,6 +51,9 @@ I found myself in a dark wood
 </td></tr>
 <tr><td>Bard-2</td><td align="right">2</td><td>
 I found myself in a dark wood,
+</td></tr>
+<tr><td>DeepL</td><td align="right">2</td><td>
+I found myself through a forest dark,
 </td></tr>
 <tr><td>Google</td><td align="right">2</td><td>
 I found myself in a dark forest,
@@ -77,6 +83,9 @@ because the straight way was lost
 <tr><td>Bard-2</td><td align="right">3</td><td>
 Because the straight path was lost.
 </td></tr>
+<tr><td>DeepL</td><td align="right">3</td><td>
+For the straight way was lost.
+</td></tr>
 <tr><td>Google</td><td align="right">3</td><td>
 for the straight path was lost.
 </td></tr>
@@ -104,6 +113,9 @@ Alas, how hard it is to say what it was like!
 </td></tr>
 <tr><td>Bard-2</td><td align="right">4</td><td>
 Ah, how hard it is to tell what it was like,
+</td></tr>
+<tr><td>DeepL</td><td align="right">4</td><td>
+Ahi how hard it is to say what it was
 </td></tr>
 <tr><td>Google</td><td align="right">4</td><td>
 Alas, it's hard to say which one it was
@@ -133,6 +145,9 @@ this wild, harsh, and strong forest
 <tr><td>Bard-2</td><td align="right">5</td><td>
 This wild and harsh and strong wood,
 </td></tr>
+<tr><td>DeepL</td><td align="right">5</td><td>
+This forest wild and rugged and strong
+</td></tr>
 <tr><td>Google</td><td align="right">5</td><td>
 this wild, harsh and strong forest
 </td></tr>
@@ -160,6 +175,9 @@ that in the thought renews the fear!
 </td></tr>
 <tr><td>Bard-2</td><td align="right">6</td><td>
 That in thought renews the fear!
+</td></tr>
+<tr><td>DeepL</td><td align="right">6</td><td>
+That in thought rekindles fear!
 </td></tr>
 <tr><td>Google</td><td align="right">6</td><td>
 that renews fear in thought!
@@ -189,6 +207,9 @@ It is so bitter that it is almost death;
 <tr><td>Bard-2</td><td align="right">7</td><td>
 It is so bitter that it is almost death;
 </td></tr>
+<tr><td>DeepL</td><td align="right">7</td><td>
+So bitter is it that little is more death;
+</td></tr>
 <tr><td>Google</td><td align="right">7</td><td>
 It is so bitter that it is little more than death;
 </td></tr>
@@ -216,6 +237,9 @@ but to treat of the good which I found there,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">8</td><td>
 But in order to speak of the good that I found there,
+</td></tr>
+<tr><td>DeepL</td><td align="right">8</td><td>
+But to treat of the good that I found there,
 </td></tr>
 <tr><td>Google</td><td align="right">8</td><td>
 but to discuss the good I found there,
@@ -245,6 +269,9 @@ I will tell of the other things which I saw there.
 <tr><td>Bard-2</td><td align="right">9</td><td>
 I will tell of the other things that I saw there.
 </td></tr>
+<tr><td>DeepL</td><td align="right">9</td><td>
+I'll tell of the other things I have stored there.
+</td></tr>
 <tr><td>Google</td><td align="right">9</td><td>
 I will tell you about the other things I noticed there.
 </td></tr>
@@ -272,6 +299,9 @@ I do not know how to laugh as I entered
 </td></tr>
 <tr><td>Bard-2</td><td align="right">10</td><td>
 I do not know well to say how I entered,
+</td></tr>
+<tr><td>DeepL</td><td align="right">10</td><td>
+I cannot well tell how I entered it,
 </td></tr>
 <tr><td>Google</td><td align="right">10</td><td>
 I don't know how to explain how I entered it,
@@ -301,6 +331,9 @@ I was so full of sleep at that point
 <tr><td>Bard-2</td><td align="right">11</td><td>
 So much I was full of sleep in that moment
 </td></tr>
+<tr><td>DeepL</td><td align="right">11</td><td>
+So full of sleep was I at that point
+</td></tr>
 <tr><td>Google</td><td align="right">11</td><td>
 he was so sleepy at that point
 </td></tr>
@@ -328,6 +361,9 @@ that I abandoned the true path
 </td></tr>
 <tr><td>Bard-2</td><td align="right">12</td><td>
 When I abandoned the true way.
+</td></tr>
+<tr><td>DeepL</td><td align="right">12</td><td>
+That the true pathway I abandoned.
 </td></tr>
 <tr><td>Google</td><td align="right">12</td><td>
 that I abandoned the true path.
@@ -357,6 +393,9 @@ But then, when I had reached the foot of a hill,
 <tr><td>Bard-2</td><td align="right">13</td><td>
 But after I reached the foot of a hill,
 </td></tr>
+<tr><td>DeepL</td><td align="right">13</td><td>
+But when I was at the foot of a hill arrived,
+</td></tr>
 <tr><td>Google</td><td align="right">13</td><td>
 But then I reached the foot of a hill,
 </td></tr>
@@ -384,6 +423,9 @@ there where that valley ended
 </td></tr>
 <tr><td>Bard-2</td><td align="right">14</td><td>
 Where that valley ended
+</td></tr>
+<tr><td>DeepL</td><td align="right">14</td><td>
+There where that valley ended
 </td></tr>
 <tr><td>Google</td><td align="right">14</td><td>
 where that valley ended
@@ -413,6 +455,9 @@ which had afflicted my heart with fear,
 <tr><td>Bard-2</td><td align="right">15</td><td>
 Which had me with fear in the heart,
 </td></tr>
+<tr><td>DeepL</td><td align="right">15</td><td>
+Which with fear had compacted my heart,
+</td></tr>
 <tr><td>Google</td><td align="right">15</td><td>
 that my broken heart was afraid of,
 </td></tr>
@@ -440,6 +485,9 @@ I looked up and saw his shoulders
 </td></tr>
 <tr><td>Bard-2</td><td align="right">16</td><td>
 I looked up and saw his shoulders
+</td></tr>
+<tr><td>DeepL</td><td align="right">16</td><td>
+I looked upward, and saw its shoulders
 </td></tr>
 <tr><td>Google</td><td align="right">16</td><td>
 I looked up and saw his back
@@ -469,6 +517,9 @@ dressed already with the rays of the planet
 <tr><td>Bard-2</td><td align="right">17</td><td>
 Already dressed by the rays of the planet
 </td></tr>
+<tr><td>DeepL</td><td align="right">17</td><td>
+Clothed already with the rays of the planet
+</td></tr>
 <tr><td>Google</td><td align="right">17</td><td>
 already clothed in the rays of the planet
 </td></tr>
@@ -496,6 +547,9 @@ that leads straight to others through every street
 </td></tr>
 <tr><td>Bard-2</td><td align="right">18</td><td>
 Who guides men rightly along every path.
+</td></tr>
+<tr><td>DeepL</td><td align="right">18</td><td>
+Which leads upright others by every street.
 </td></tr>
 <tr><td>Google</td><td align="right">18</td><td>
 who leads others straight down every street.
@@ -525,6 +579,9 @@ Then the fear was a little quiet,
 <tr><td>Bard-2</td><td align="right">19</td><td>
 Then the fear was a little calmed,
 </td></tr>
+<tr><td>DeepL</td><td align="right">19</td><td>
+Then was the fear a little quenched,
+</td></tr>
 <tr><td>Google</td><td align="right">19</td><td>
 Then the fear was a little quiet,
 </td></tr>
@@ -553,6 +610,9 @@ that in the lake of the heart it had lasted
 <tr><td>Bard-2</td><td align="right">20</td><td>
 Which lasted in the lake of the heart
 </td></tr>
+<tr><td>DeepL</td><td align="right">20</td><td>
+Which in the lake of my heart had lasted
+</td></tr>
 <tr><td>Google</td><td align="right">20</td><td>
 which had lasted in the lake of my heart
 </td></tr>
@@ -579,6 +639,9 @@ the night I spent with so much pity.
 the night that I passed with so much pity.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">21</td><td>
+The night that I passed with such pity.
+</td></tr>
+<tr><td>DeepL</td><td align="right">21</td><td>
 The night that I passed with such pity.
 </td></tr>
 <tr><td>Google</td><td align="right">21</td><td>
@@ -609,6 +672,9 @@ And as one who with exhausted breath,
 <tr><td>Bard-2</td><td align="right">22</td><td>
 And like that one who with weary breath,
 </td></tr>
+<tr><td>DeepL</td><td align="right">22</td><td>
+And like those who with weary pace
+</td></tr>
 <tr><td>Google</td><td align="right">22</td><td>
 And like those who with breathless energy,
 </td></tr>
@@ -636,6 +702,9 @@ has left the sea and reached the shore,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">23</td><td>
 Having come out of the ocean to the shore,
+</td></tr>
+<tr><td>DeepL</td><td align="right">23</td><td>
+Coming out of the pelagus to the shore,
 </td></tr>
 <tr><td>Google</td><td align="right">23</td><td>
 came out of the ocean to the shore,
@@ -665,6 +734,9 @@ turns to the dangerous water and gazes,
 <tr><td>Bard-2</td><td align="right">24</td><td>
 Turns to the dangerous water and looks,
 </td></tr>
+<tr><td>DeepL</td><td align="right">24</td><td>
+Turns himself to the perilous and wary water,
+</td></tr>
 <tr><td>Google</td><td align="right">24</td><td>
 turns to the perilous water and gazes,
 </td></tr>
@@ -692,6 +764,9 @@ so my soul, which was still fleeing,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">25</td><td>
 Thus my soul, which still fled,
+</td></tr>
+<tr><td>DeepL</td><td align="right">25</td><td>
+So my soul, that still was fleeing,
 </td></tr>
 <tr><td>Google</td><td align="right">25</td><td>
 so my soul, which still fled,
@@ -721,6 +796,9 @@ turned back to gaze at the passage
 <tr><td>Bard-2</td><td align="right">26</td><td>
 Turned back to look at the passage
 </td></tr>
+<tr><td>DeepL</td><td align="right">26</td><td>
+Turned backward to gaze upon the passage
+</td></tr>
 <tr><td>Google</td><td align="right">26</td><td>
 he turned back to admire the pace
 </td></tr>
@@ -748,6 +826,9 @@ that had never left any living person.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">27</td><td>
 That never left a living person.
+</td></tr>
+<tr><td>DeepL</td><td align="right">27</td><td>
+Which never yet left a living person.
 </td></tr>
 <tr><td>Google</td><td align="right">27</td><td>
 which never left a person alive.
@@ -777,6 +858,9 @@ Then, after I had laid down my weary body for a little while,
 <tr><td>Bard-2</td><td align="right">28</td><td>
 After I had put the tired body down for a while,
 </td></tr>
+<tr><td>DeepL</td><td align="right">28</td><td>
+Then when I had laid the slack body a little,
+</td></tr>
 <tr><td>Google</td><td align="right">28</td><td>
 After I rested my limp body a little,
 </td></tr>
@@ -804,6 +888,9 @@ I resumed my journey along the deserted shore,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">29</td><td>
 I took the way again along the deserted shore,
+</td></tr>
+<tr><td>DeepL</td><td align="right">29</td><td>
+I resumed my way upon the deserted plain,
 </td></tr>
 <tr><td>Google</td><td align="right">29</td><td>
 I set off again along the deserted beach,
@@ -833,6 +920,9 @@ so that my fixed foot was always the lowest.
 <tr><td>Bard-2</td><td align="right">30</td><td>
 So that the fixed foot was always the lowest.
 </td></tr>
+<tr><td>DeepL</td><td align="right">30</td><td>
+So that my foot was always the lowest still.
+</td></tr>
 <tr><td>Google</td><td align="right">30</td><td>
 so that the firm foot was always the lowest.
 </td></tr>
@@ -860,6 +950,9 @@ And behold, almost at the beginning of the ascent,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">31</td><td>
 And behold, almost at the beginning of the slope,
+</td></tr>
+<tr><td>DeepL</td><td align="right">31</td><td>
+And behold, almost at the beginning of the steep,
 </td></tr>
 <tr><td>Google</td><td align="right">31</td><td>
 And here, almost at the beginning of the climb,
@@ -889,6 +982,9 @@ a light and very swift greyhound,
 <tr><td>Bard-2</td><td align="right">32</td><td>
 A light and very fast leopard,
 </td></tr>
+<tr><td>DeepL</td><td align="right">32</td><td>
+A loin light and lends much,
+</td></tr>
 <tr><td>Google</td><td align="right">32</td><td>
 a light loin that lends a lot,
 </td></tr>
@@ -916,6 +1012,9 @@ which was covered with spotted fur,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">33</td><td>
 Which was covered with spotted fur;
+</td></tr>
+<tr><td>DeepL</td><td align="right">33</td><td>
+Which of dappled hair was covered;
 </td></tr>
 <tr><td>Google</td><td align="right">33</td><td>
 which was covered in maculate hair;
@@ -945,6 +1044,9 @@ and it did not depart from in front of my face,
 <tr><td>Bard-2</td><td align="right">34</td><td>
 And it did not depart from before my face,
 </td></tr>
+<tr><td>DeepL</td><td align="right">34</td><td>
+And did not depart before my face,
+</td></tr>
 <tr><td>Google</td><td align="right">34</td><td>
 and don't leave in front of my face,
 </td></tr>
@@ -972,6 +1074,9 @@ but it prevented my way so much,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">35</td><td>
 Instead it hindered my way so much,
+</td></tr>
+<tr><td>DeepL</td><td align="right">35</td><td>
+Nay, it impeded so much my path,
 </td></tr>
 <tr><td>Google</td><td align="right">35</td><td>
 in fact it hindered my path a lot,
@@ -1001,6 +1106,9 @@ that I was about to turn back many times.
 <tr><td>Bard-2</td><td align="right">36</td><td>
 That I was for turning back more than once turned.
 </td></tr>
+<tr><td>DeepL</td><td align="right">36</td><td>
+That I was to return several times turned.
+</td></tr>
 <tr><td>Google</td><td align="right">36</td><td>
 for I was turned several times to return.
 </td></tr>
@@ -1028,6 +1136,9 @@ It was the beginning of the morning,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">37</td><td>
 It was time from the beginning of the morning,
+</td></tr>
+<tr><td>DeepL</td><td align="right">37</td><td>
+Time was from the beginning of the morning,
 </td></tr>
 <tr><td>Google</td><td align="right">37</td><td>
 The weather had been since the beginning of the morning,
@@ -1057,6 +1168,9 @@ and the sun was rising with those stars,
 <tr><td>Bard-2</td><td align="right">38</td><td>
 And the sun rose up with those stars
 </td></tr>
+<tr><td>DeepL</td><td align="right">38</td><td>
+And the sun was rising with those stars
+</td></tr>
 <tr><td>Google</td><td align="right">38</td><td>
 and the sun rose upwards with those stars
 </td></tr>
@@ -1084,6 +1198,9 @@ which were with him when the divine love
 </td></tr>
 <tr><td>Bard-2</td><td align="right">39</td><td>
 Who were with him when the divine love
+</td></tr>
+<tr><td>DeepL</td><td align="right">39</td><td>
+Who were with him when the love divine
 </td></tr>
 <tr><td>Google</td><td align="right">39</td><td>
 who were with him when divine love
@@ -1113,6 +1230,9 @@ so beautiful things moved at first;
 <tr><td>Bard-2</td><td align="right">40</td><td>
 First moved those beautiful things;
 </td></tr>
+<tr><td>DeepL</td><td align="right">40</td><td>
+Moved from before those beautiful things;
+</td></tr>
 <tr><td>Google</td><td align="right">40</td><td>
 moves those beautiful things first;
 </td></tr>
@@ -1140,6 +1260,9 @@ that was the cause of my hope for good;
 </td></tr>
 <tr><td>Bard-2</td><td align="right">41</td><td>
 So that to hope well was the reason for me
+</td></tr>
+<tr><td>DeepL</td><td align="right">41</td><td>
+So that to good hope was the cause for me
 </td></tr>
 <tr><td>Google</td><td align="right">41</td><td>
 so that it was a reason for me to hope well
@@ -1169,6 +1292,9 @@ of that spotted beast with the spotted skin;
 <tr><td>Bard-2</td><td align="right">42</td><td>
 Of that fierce one with the spotted skin
 </td></tr>
+<tr><td>DeepL</td><td align="right">42</td><td>
+Of that fair to the fair skin
+</td></tr>
 <tr><td>Google</td><td align="right">42</td><td>
 of that fair skin
 </td></tr>
@@ -1196,6 +1322,9 @@ the hour of time and the sweet season;
 </td></tr>
 <tr><td>Bard-2</td><td align="right">43</td><td>
 The hour of the time and the sweet season;
+</td></tr>
+<tr><td>DeepL</td><td align="right">43</td><td>
+The hour of time and the sweet season;
 </td></tr>
 <tr><td>Google</td><td align="right">43</td><td>
 the hour of time and the sweet season;
@@ -1225,6 +1354,9 @@ but not so that fear did not give me
 <tr><td>Bard-2</td><td align="right">44</td><td>
 But not so much that I did not feel fears,
 </td></tr>
+<tr><td>DeepL</td><td align="right">44</td><td>
+But not so that fear did not give me
+</td></tr>
 <tr><td>Google</td><td align="right">44</td><td>
 but it didn't scare me
 </td></tr>
@@ -1252,6 +1384,9 @@ the sight that appeared to me of a lion.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">45</td><td>
 When I saw the lion.
+</td></tr>
+<tr><td>DeepL</td><td align="right">45</td><td>
+The sight that appeared to me of a lion.
 </td></tr>
 <tr><td>Google</td><td align="right">45</td><td>
 the sight that appeared to me of a lion.
@@ -1281,6 +1416,9 @@ He seemed to come against me
 <tr><td>Bard-2</td><td align="right">46</td><td>
 That seemed to come against me
 </td></tr>
+<tr><td>DeepL</td><td align="right">46</td><td>
+This one seemed to come against me
+</td></tr>
 <tr><td>Google</td><td align="right">46</td><td>
 It seemed that he was coming against me
 </td></tr>
@@ -1308,6 +1446,9 @@ with his head held high and with ravenous hunger,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">47</td><td>
 With the head high and with furious hunger,
+</td></tr>
+<tr><td>DeepL</td><td align="right">47</td><td>
+With head'high and with rabid hunger,
 </td></tr>
 <tr><td>Google</td><td align="right">47</td><td>
 with head held high and with rabid hunger,
@@ -1337,6 +1478,9 @@ so that it seemed that the air did not tremble.
 <tr><td>Bard-2</td><td align="right">48</td><td>
 So that it seemed that the air trembled.
 </td></tr>
+<tr><td>DeepL</td><td align="right">48</td><td>
+So that it seemed as if the air trembled with it.
+</td></tr>
 <tr><td>Google</td><td align="right">48</td><td>
 so much so that it seemed as if the air was trembling.
 </td></tr>
@@ -1364,6 +1508,9 @@ And one wolf, that was laden with all cravings,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">49</td><td>
 And a she-wolf, who seemed to be loaded
+</td></tr>
+<tr><td>DeepL</td><td align="right">49</td><td>
+And a she-wolf, who of all lusts
 </td></tr>
 <tr><td>Google</td><td align="right">49</td><td>
 And a she-wolf, who craves everything
@@ -1393,6 +1540,9 @@ seemed laden not in her thinness,
 <tr><td>Bard-2</td><td align="right">50</td><td>
 With all desires in her thinness,
 </td></tr>
+<tr><td>DeepL</td><td align="right">50</td><td>
+Seemed dear in her leanness,
+</td></tr>
 <tr><td>Google</td><td align="right">50</td><td>
 she seemed laden in his thinness,
 </td></tr>
@@ -1420,6 +1570,9 @@ and made many people live sad,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">51</td><td>
 And who had already made many people live in misfortune,
+</td></tr>
+<tr><td>DeepL</td><td align="right">51</td><td>
+And many a people made already to live fat,
 </td></tr>
 <tr><td>Google</td><td align="right">51</td><td>
 and many people have already made miserable lives,
@@ -1449,6 +1602,9 @@ this gave me so much heaviness
 <tr><td>Bard-2</td><td align="right">52</td><td>
 That put on me so much of weight
 </td></tr>
+<tr><td>DeepL</td><td align="right">52</td><td>
+This one brought me so much of gravity
+</td></tr>
 <tr><td>Google</td><td align="right">52</td><td>
 this brought me so much trouble
 </td></tr>
@@ -1476,6 +1632,9 @@ with the fear that came out of her sight
 </td></tr>
 <tr><td>Bard-2</td><td align="right">53</td><td>
 With the fear that came out of her face,
+</td></tr>
+<tr><td>DeepL</td><td align="right">53</td><td>
+With the fear that went out of her sight,
 </td></tr>
 <tr><td>Google</td><td align="right">53</td><td>
 with the fear that goes out of sight of him,
@@ -1505,6 +1664,9 @@ that I lost the hope of the height.
 <tr><td>Bard-2</td><td align="right">54</td><td>
 That I lost the hope of reaching the height.
 </td></tr>
+<tr><td>DeepL</td><td align="right">54</td><td>
+That I lost hope of the height.
+</td></tr>
 <tr><td>Google</td><td align="right">54</td><td>
 that I lost hope of heights.
 </td></tr>
@@ -1532,6 +1694,9 @@ And what is he who willingly buys,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">55</td><td>
 And as is he who willingly acquires,
+</td></tr>
+<tr><td>DeepL</td><td align="right">55</td><td>
+And what is he who willingly acquires,
 </td></tr>
 <tr><td>Google</td><td align="right">55</td><td>
 And who is he who willingly buys,
@@ -1561,6 +1726,9 @@ and reaches the time that makes him lose,
 <tr><td>Bard-2</td><td align="right">56</td><td>
 And the time comes that makes him lose,
 </td></tr>
+<tr><td>DeepL</td><td align="right">56</td><td>
+And comes the time that he loses it,
+</td></tr>
 <tr><td>Google</td><td align="right">56</td><td>
 and the time arrives that will cause him to lose,
 </td></tr>
@@ -1588,6 +1756,9 @@ that in all his thoughts he cries and is sad;
 </td></tr>
 <tr><td>Bard-2</td><td align="right">57</td><td>
 Who in all his thoughts cries and saddens;
+</td></tr>
+<tr><td>DeepL</td><td align="right">57</td><td>
+Who in all his thoughts weeps and is distressed;
 </td></tr>
 <tr><td>Google</td><td align="right">57</td><td>
 who cries and becomes sad at every thought of him;
@@ -1617,6 +1788,9 @@ such a beast without peace made me,
 <tr><td>Bard-2</td><td align="right">58</td><td>
 So did the beast without peace make me,
 </td></tr>
+<tr><td>DeepL</td><td align="right">58</td><td>
+Such made me the beast without peace,
+</td></tr>
 <tr><td>Google</td><td align="right">58</td><td>
 the beast without peace made me like this,
 </td></tr>
@@ -1644,6 +1818,9 @@ that, coming to meet me, little by little,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">59</td><td>
 Who, coming to me, little by little
+</td></tr>
+<tr><td>DeepL</td><td align="right">59</td><td>
+Who, coming towards me, little by little
 </td></tr>
 <tr><td>Google</td><td align="right">59</td><td>
 who, coming towards me, little by little
@@ -1673,6 +1850,9 @@ drove me back to the place where the sun is silent.
 <tr><td>Bard-2</td><td align="right">60</td><td>
 Pushed me back to where the sun is silent.
 </td></tr>
+<tr><td>DeepL</td><td align="right">60</td><td>
+Turned me back to where the sun is silent.
+</td></tr>
 <tr><td>Google</td><td align="right">60</td><td>
 it haunted me where the sun is silent.
 </td></tr>
@@ -1700,6 +1880,9 @@ While I was falling into a low place,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">61</td><td>
 While I was falling into a low place,
+</td></tr>
+<tr><td>DeepL</td><td align="right">61</td><td>
+While I was ruining in a low place,
 </td></tr>
 <tr><td>Google</td><td align="right">61</td><td>
 While I was ruined in a low place,
@@ -1729,6 +1912,9 @@ a man was offered to me before my eyes,
 <tr><td>Bard-2</td><td align="right">62</td><td>
 Before my eyes appeared
 </td></tr>
+<tr><td>DeepL</td><td align="right">62</td><td>
+Before mine eyes was offered to me
+</td></tr>
 <tr><td>Google</td><td align="right">62</td><td>
 it was offered before my eyes
 </td></tr>
@@ -1756,6 +1942,9 @@ who by long silence seemed faint.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">63</td><td>
 Who by long silence seemed weak.
+</td></tr>
+<tr><td>DeepL</td><td align="right">63</td><td>
+Who for long silence seemed dim.
 </td></tr>
 <tr><td>Google</td><td align="right">63</td><td>
 who for a long silence seemed dim.
@@ -1785,6 +1974,9 @@ When I saw him in the great desert,
 <tr><td>Bard-2</td><td align="right">64</td><td>
 When I saw this man in the great desert,
 </td></tr>
+<tr><td>DeepL</td><td align="right">64</td><td>
+When I saw him in the great desert,
+</td></tr>
 <tr><td>Google</td><td align="right">64</td><td>
 When I saw this man in the great desert,
 </td></tr>
@@ -1812,6 +2004,9 @@ When I saw him in the great desert,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">65</td><td>
 "Have mercy on me," I cried to him,
+</td></tr>
+<tr><td>DeepL</td><td align="right">65</td><td>
+"Miserere of me," I cried to him,
 </td></tr>
 <tr><td>Google</td><td align="right">65</td><td>
 "Pity me," I cried to him,
@@ -1841,6 +2036,9 @@ When I saw him in the great desert,
 <tr><td>Bard-2</td><td align="right">66</td><td>
 "Whatever you are, shadow or man certainly!".
 </td></tr>
+<tr><td>DeepL</td><td align="right">66</td><td>
+"Whatever thou art, either shadow or man certain!"
+</td></tr>
 <tr><td>Google</td><td align="right">66</td><td>
 "whatever you are, shadow or man!".
 </td></tr>
@@ -1868,6 +2066,9 @@ He answered me: "Not man, I was man once,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">67</td><td>
 He answered me: "Not man, I was already a man,
+</td></tr>
+<tr><td>DeepL</td><td align="right">67</td><td>
+He answered me, "Non omo, omo already I was,
 </td></tr>
 <tr><td>Google</td><td align="right">67</td><td>
 He replied to me: "I am not a man, I was already a man,
@@ -1897,6 +2098,9 @@ and my parents were Lombards,
 <tr><td>Bard-2</td><td align="right">68</td><td>
 And my parents were Lombards,
 </td></tr>
+<tr><td>DeepL</td><td align="right">68</td><td>
+And my kinsmen were Lombards,
+</td></tr>
 <tr><td>Google</td><td align="right">68</td><td>
 and my relatives were Lombard,
 </td></tr>
@@ -1924,6 +2128,9 @@ mantuans by homeland both."
 </td></tr>
 <tr><td>Bard-2</td><td align="right">69</td><td>
 Mantuans by homeland both.
+</td></tr>
+<tr><td>DeepL</td><td align="right">69</td><td>
+Mantuans by patria both of them.
 </td></tr>
 <tr><td>Google</td><td align="right">69</td><td>
 Mantoans for their homeland both.
@@ -1953,6 +2160,9 @@ I was born under Julius Caesar, even though it was late,
 <tr><td>Bard-2</td><td align="right">70</td><td>
 I was born under Julius, even though it was late,
 </td></tr>
+<tr><td>DeepL</td><td align="right">70</td><td>
+Nacqui sub Iulio, even as late as it was,
+</td></tr>
 <tr><td>Google</td><td align="right">70</td><td>
 I was born sub Iulio, even if it was late,
 </td></tr>
@@ -1979,6 +2189,9 @@ and I lived in Rome under the good Augustus
 and I lived in Rome under the good Augustus,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">71</td><td>
+And lived in Rome under the good Augustus
+</td></tr>
+<tr><td>DeepL</td><td align="right">71</td><td>
 And lived in Rome under the good Augustus
 </td></tr>
 <tr><td>Google</td><td align="right">71</td><td>
@@ -2009,6 +2222,9 @@ in the time of the false and lying gods.
 <tr><td>Bard-2</td><td align="right">72</td><td>
 In the time of the false and lying gods.
 </td></tr>
+<tr><td>DeepL</td><td align="right">72</td><td>
+In the time of the false and lying gods.
+</td></tr>
 <tr><td>Google</td><td align="right">72</td><td>
 in the time of false and lying gods.
 </td></tr>
@@ -2036,6 +2252,9 @@ I was a poet, and I sang of that just
 </td></tr>
 <tr><td>Bard-2</td><td align="right">73</td><td>
 I was a poet, and I sang of that just
+</td></tr>
+<tr><td>DeepL</td><td align="right">73</td><td>
+Poet was I, and I sang of that righteous
 </td></tr>
 <tr><td>Google</td><td align="right">73</td><td>
 Poet I was, and I sang of that right
@@ -2065,6 +2284,9 @@ son of Anchises who came from Troy,
 <tr><td>Bard-2</td><td align="right">74</td><td>
 Son of Anchises, who came from Troy,
 </td></tr>
+<tr><td>DeepL</td><td align="right">74</td><td>
+Anchises' son, who came from Troy,
+</td></tr>
 <tr><td>Google</td><td align="right">74</td><td>
 son of Anchises who came from Troy,
 </td></tr>
@@ -2092,6 +2314,9 @@ after proud Ilium was burned.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">75</td><td>
 After the proud Ilion was burned.
+</td></tr>
+<tr><td>DeepL</td><td align="right">75</td><td>
+After the proud Ilion was fought.
 </td></tr>
 <tr><td>Google</td><td align="right">75</td><td>
 then the proud Ilïón was burned.
@@ -2121,6 +2346,9 @@ But why do you return to so much boredom?
 <tr><td>Bard-2</td><td align="right">76</td><td>
 But why do you return to such sorrow?
 </td></tr>
+<tr><td>DeepL</td><td align="right">76</td><td>
+But why dost thou return to such boredom?
+</td></tr>
 <tr><td>Google</td><td align="right">76</td><td>
 But why do you return to such boredom?
 </td></tr>
@@ -2149,6 +2377,9 @@ why don't you climb the delightful mountain?
 <tr><td>Bard-2</td><td align="right">77</td><td>
 Why do you not ascend the desired mountain
 </td></tr>
+<tr><td>DeepL</td><td align="right">77</td><td>
+Why dost thou not ascend the delightful mount
+</td></tr>
 <tr><td>Google</td><td align="right">77</td><td>
 why don't you climb the delightful mountain
 </td></tr>
@@ -2175,6 +2406,9 @@ that is the beginning and cause of all joy?"
 that is the beginning and cause of all joy.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">78</td><td>
+Which is the beginning and cause of all joy?"
+</td></tr>
+<tr><td>DeepL</td><td align="right">78</td><td>
 Which is the beginning and cause of all joy?"
 </td></tr>
 <tr><td>Google</td><td align="right">78</td><td>
@@ -2205,6 +2439,9 @@ Now, are you that Virgil and that fountain
 <tr><td>Bard-2</td><td align="right">79</td><td>
 "Now are you that Virgil and that fountain
 </td></tr>
+<tr><td>DeepL</td><td align="right">79</td><td>
+"Now art thou that Virgil and that fountain
+</td></tr>
 <tr><td>Google</td><td align="right">79</td><td>
 "Now you are that Virgil and that source
 </td></tr>
@@ -2232,6 +2469,9 @@ that spreads such a wide river of speech?
 </td></tr>
 <tr><td>Bard-2</td><td align="right">80</td><td>
 Which spreads from speech such a large river?"
+</td></tr>
+<tr><td>DeepL</td><td align="right">80</td><td>
+Who spread of speech so wide a river?"
 </td></tr>
 <tr><td>Google</td><td align="right">80</td><td>
 what do you say about speaking so wide a river?",
@@ -2261,6 +2501,9 @@ I answered him with a shameful forehead.
 <tr><td>Bard-2</td><td align="right">81</td><td>
 I answered him with a shameful face.
 </td></tr>
+<tr><td>DeepL</td><td align="right">81</td><td>
+I answered him with shameful brow.
+</td></tr>
 <tr><td>Google</td><td align="right">81</td><td>
 I replied to him with a shameful frown.
 </td></tr>
@@ -2288,6 +2531,9 @@ O honor and light of the other poets
 </td></tr>
 <tr><td>Bard-2</td><td align="right">82</td><td>
 "O of the other poets honor and light,
+</td></tr>
+<tr><td>DeepL</td><td align="right">82</td><td>
+"O of the other poets honour and light,
 </td></tr>
 <tr><td>Google</td><td align="right">82</td><td>
 "O honor and light of the other poets,
@@ -2317,6 +2563,9 @@ help me, long study and great love
 <tr><td>Bard-2</td><td align="right">83</td><td>
 May the long study and the great love
 </td></tr>
+<tr><td>DeepL</td><td align="right">83</td><td>
+Show me the long study and the great love
+</td></tr>
 <tr><td>Google</td><td align="right">83</td><td>
 Let me appreciate long study and great love
 </td></tr>
@@ -2344,6 +2593,9 @@ that has made me seek your volume
 </td></tr>
 <tr><td>Bard-2</td><td align="right">84</td><td>
 That has made me seek your volume be worth it.
+</td></tr>
+<tr><td>DeepL</td><td align="right">84</td><td>
+That made me seek thy volume.
 </td></tr>
 <tr><td>Google</td><td align="right">84</td><td>
 which made me look for your volume.
@@ -2373,6 +2625,9 @@ You are my master and my author
 <tr><td>Bard-2</td><td align="right">85</td><td>
 You are my master and my author,
 </td></tr>
+<tr><td>DeepL</td><td align="right">85</td><td>
+Thou art my master and my author,
+</td></tr>
 <tr><td>Google</td><td align="right">85</td><td>
 You are my teacher and my author,
 </td></tr>
@@ -2400,6 +2655,9 @@ you are the only one from whom I took
 </td></tr>
 <tr><td>Bard-2</td><td align="right">86</td><td>
 You are the only one from whom I took
+</td></tr>
+<tr><td>DeepL</td><td align="right">86</td><td>
+Thou art only the one from whom I took
 </td></tr>
 <tr><td>Google</td><td align="right">86</td><td>
 you are only the one from whom I took
@@ -2429,6 +2687,9 @@ the beautiful style that has made me honored
 <tr><td>Bard-2</td><td align="right">87</td><td>
 The beautiful style that has honored me.
 </td></tr>
+<tr><td>DeepL</td><td align="right">87</td><td>
+The beautiful style that did me honour.
+</td></tr>
 <tr><td>Google</td><td align="right">87</td><td>
 the beautiful stylus that did me honor.
 </td></tr>
@@ -2457,6 +2718,9 @@ See the beast through which I turned
 <tr><td>Bard-2</td><td align="right">88</td><td>
 See the beast from which I turned;
 </td></tr>
+<tr><td>DeepL</td><td align="right">88</td><td>
+See the beast for whom I turned me;
+</td></tr>
 <tr><td>Google</td><td align="right">88</td><td>
 See the beast for which I turned;
 </td></tr>
@@ -2483,6 +2747,9 @@ help me from her, famous sage,
 help me from her, famous sage
 </td></tr>
 <tr><td>Bard-2</td><td align="right">89</td><td>
+Help me from her, famous sage,
+</td></tr>
+<tr><td>DeepL</td><td align="right">89</td><td>
 Help me from her, famous sage,
 </td></tr>
 <tr><td>Google</td><td align="right">89</td><td>
@@ -2513,6 +2780,9 @@ that she makes my veins and wrists tremble
 <tr><td>Bard-2</td><td align="right">90</td><td>
 For she makes my veins and pulses tremble."
 </td></tr>
+<tr><td>DeepL</td><td align="right">90</td><td>
+For she makes my veins and wrists tremble."
+</td></tr>
 <tr><td>Google</td><td align="right">90</td><td>
 that makes my veins and wrists tremble."
 </td></tr>
@@ -2540,6 +2810,9 @@ You must take another journey
 </td></tr>
 <tr><td>Bard-2</td><td align="right">91</td><td>
 To you it is necessary to take another journey,
+</td></tr>
+<tr><td>DeepL</td><td align="right">91</td><td>
+"To thee it convieneth to hold other way."
 </td></tr>
 <tr><td>Google</td><td align="right">91</td><td>
 "It is better for you to continue your journey",
@@ -2569,6 +2842,9 @@ he replied, when he saw me weeping,
 <tr><td>Bard-2</td><td align="right">92</td><td>
 He replied, when he saw me weeping,
 </td></tr>
+<tr><td>DeepL</td><td align="right">92</td><td>
+He answered, then that he saw me weeping,
+</td></tr>
 <tr><td>Google</td><td align="right">92</td><td>
 he replied, when he saw me weeping,
 </td></tr>
@@ -2596,6 +2872,9 @@ He replied, then what tears he saw me,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">93</td><td>
 If you want to escape from this wild place;
+</td></tr>
+<tr><td>DeepL</td><td align="right">93</td><td>
+"if thou wilt camp from this wild place;
 </td></tr>
 <tr><td>Google</td><td align="right">93</td><td>
 "if you want to escape from this wild place;
@@ -2625,6 +2904,9 @@ for this beast, for which you cry,
 <tr><td>Bard-2</td><td align="right">94</td><td>
 For this beast, for which you cry,
 </td></tr>
+<tr><td>DeepL</td><td align="right">94</td><td>
+For this beast, for whom thou criest,
+</td></tr>
 <tr><td>Google</td><td align="right">94</td><td>
 because this beast, for which you cry out,
 </td></tr>
@@ -2652,6 +2934,9 @@ does not let others pass by his way,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">95</td><td>
 Does not allow another to pass by its way,
+</td></tr>
+<tr><td>DeepL</td><td align="right">95</td><td>
+Does not let others pass by his way,
 </td></tr>
 <tr><td>Google</td><td align="right">95</td><td>
 does not let others pass his way,
@@ -2681,6 +2966,9 @@ but so much impedes him that he kills him;
 <tr><td>Bard-2</td><td align="right">96</td><td>
 But so much it prevents it that it kills it;
 </td></tr>
+<tr><td>DeepL</td><td align="right">96</td><td>
+But so much 'mped him that he kills him;
+</td></tr>
 <tr><td>Google</td><td align="right">96</td><td>
 but it prevents him so much that it kills him;
 </td></tr>
@@ -2708,6 +2996,9 @@ and it has a nature so wicked and evil,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">97</td><td>
 And it has a nature so evil and wicked,
+</td></tr>
+<tr><td>DeepL</td><td align="right">97</td><td>
+And he hath such a wicked and righteous nature,
 </td></tr>
 <tr><td>Google</td><td align="right">97</td><td>
 and has such an evil and cruel nature,
@@ -2737,6 +3028,9 @@ that it never fills its greedy desire,
 <tr><td>Bard-2</td><td align="right">98</td><td>
 That it never fills the greedy desire,
 </td></tr>
+<tr><td>DeepL</td><td align="right">98</td><td>
+That he never empowers the covetous desire,
+</td></tr>
 <tr><td>Google</td><td align="right">98</td><td>
 that never fills the longing desire,
 </td></tr>
@@ -2764,6 +3058,9 @@ and after its food it has more hunger than before.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">99</td><td>
 And after the meal it has more hunger than before.
+</td></tr>
+<tr><td>DeepL</td><td align="right">99</td><td>
+And after his meal has more hunger than before.
 </td></tr>
 <tr><td>Google</td><td align="right">99</td><td>
 and after the meal he is hungrier than before.
@@ -2793,6 +3090,9 @@ Many animals are married to him,
 <tr><td>Bard-2</td><td align="right">100</td><td>
 Many are the animals with which it mates,
 </td></tr>
+<tr><td>DeepL</td><td align="right">100</td><td>
+Many are the animals to which he bewails,
+</td></tr>
 <tr><td>Google</td><td align="right">100</td><td>
 There are many animals to which he marries,
 </td></tr>
@@ -2820,6 +3120,9 @@ and more will be still, until the greyhound
 </td></tr>
 <tr><td>Bard-2</td><td align="right">101</td><td>
 And more will be still, until the greyhound
+</td></tr>
+<tr><td>DeepL</td><td align="right">101</td><td>
+And more shall they be, till the veltro
 </td></tr>
 <tr><td>Google</td><td align="right">101</td><td>
 and they will be even more, until the veltro
@@ -2849,6 +3152,9 @@ will come, that he will make her die with grief.
 <tr><td>Bard-2</td><td align="right">102</td><td>
 Will come, who will make it die with pain.
 </td></tr>
+<tr><td>DeepL</td><td align="right">102</td><td>
+Will come, that will make her die with grief.
+</td></tr>
 <tr><td>Google</td><td align="right">102</td><td>
 will come, which will make her die in pain.
 </td></tr>
@@ -2877,6 +3183,9 @@ He will not eat earth nor pewter,
 <tr><td>Bard-2</td><td align="right">103</td><td>
 This one will not eat earth or pelt,
 </td></tr>
+<tr><td>DeepL</td><td align="right">103</td><td>
+These shall not feed earth nor pewter,
+</td></tr>
 <tr><td>Google</td><td align="right">103</td><td>
 This will not feed on earth or pewter,
 </td></tr>
@@ -2903,6 +3212,9 @@ but on wisdom, love, and virtue,
 but wisdom, love, and virtue,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">104</td><td>
+But wisdom, love, and virtue,
+</td></tr>
+<tr><td>DeepL</td><td align="right">104</td><td>
 But wisdom, love, and virtue,
 </td></tr>
 <tr><td>Google</td><td align="right">104</td><td>
@@ -2933,6 +3245,9 @@ and his nation will be between felt and felt.
 <tr><td>Bard-2</td><td align="right">105</td><td>
 And his nation will be between felt and felt.
 </td></tr>
+<tr><td>DeepL</td><td align="right">105</td><td>
+And his nation shall be between felt and felt.
+</td></tr>
 <tr><td>Google</td><td align="right">105</td><td>
 and his nation will be between felt and felt.
 </td></tr>
@@ -2960,6 +3275,9 @@ The salvation of that humble Italy will be
 </td></tr>
 <tr><td>Bard-2</td><td align="right">106</td><td>
 Of that humble Italy will be salvation
+</td></tr>
+<tr><td>DeepL</td><td align="right">106</td><td>
+Of that humble Italy shall be health
 </td></tr>
 <tr><td>Google</td><td align="right">106</td><td>
 Blessings to that humble Italy
@@ -2989,6 +3307,9 @@ for which the virgin Camilla died,
 <tr><td>Bard-2</td><td align="right">107</td><td>
 For which died the virgin Camilla,
 </td></tr>
+<tr><td>DeepL</td><td align="right">107</td><td>
+For which the virgin Cammilla died,
+</td></tr>
 <tr><td>Google</td><td align="right">107</td><td>
 for which the virgin Cammilla died,
 </td></tr>
@@ -3016,6 +3337,9 @@ Euryalus and Turnus and Nisus of wounds.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">108</td><td>
 Euryale and Turnus and Nisus by wounds.
+</td></tr>
+<tr><td>DeepL</td><td align="right">108</td><td>
+Euryalus and Turno and Niso of wounds.
 </td></tr>
 <tr><td>Google</td><td align="right">108</td><td>
 Euryalus and Turnus and Nisus of wounds.
@@ -3045,6 +3369,9 @@ He will drive her away through every village,
 <tr><td>Bard-2</td><td align="right">109</td><td>
 This one will drive it out through every village,
 </td></tr>
+<tr><td>DeepL</td><td align="right">109</td><td>
+These shall chase her for ogne villa,
+</td></tr>
 <tr><td>Google</td><td align="right">109</td><td>
 He will chase her away from every villa,
 </td></tr>
@@ -3072,6 +3399,9 @@ until he has put her back in hell,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">110</td><td>
 Until it will be restored to Hell,
+</td></tr>
+<tr><td>DeepL</td><td align="right">110</td><td>
+Till he shall put her back into hell,
 </td></tr>
 <tr><td>Google</td><td align="right">110</td><td>
 until he has put her back in hell,
@@ -3101,6 +3431,9 @@ there where envy first took her away.
 <tr><td>Bard-2</td><td align="right">111</td><td>
 From where envy first expelled it.
 </td></tr>
+<tr><td>DeepL</td><td align="right">111</td><td>
+There whence she first departeth.
+</td></tr>
 <tr><td>Google</td><td align="right">111</td><td>
 there where envy first departs.
 </td></tr>
@@ -3128,6 +3461,9 @@ Therefore, I think and discern through your face
 </td></tr>
 <tr><td>Bard-2</td><td align="right">112</td><td>
 Therefore I for your good think and discern
+</td></tr>
+<tr><td>DeepL</td><td align="right">112</td><td>
+Whence I for thy me think and discern
 </td></tr>
 <tr><td>Google</td><td align="right">112</td><td>
 So I think and discern for your sake
@@ -3157,6 +3493,9 @@ that you follow me, and I will be your guide,
 <tr><td>Bard-2</td><td align="right">113</td><td>
 That you follow me, and I will be your guide,
 </td></tr>
+<tr><td>DeepL</td><td align="right">113</td><td>
+That thou follow me, and I will be thy guide,
+</td></tr>
 <tr><td>Google</td><td align="right">113</td><td>
 that you follow me, and I will be your guide,
 </td></tr>
@@ -3184,6 +3523,9 @@ and I will draw you from here through an eternal place;
 </td></tr>
 <tr><td>Bard-2</td><td align="right">114</td><td>
 And will lead you out of here by eternal place;
+</td></tr>
+<tr><td>DeepL</td><td align="right">114</td><td>
+And draw thee from thence to an eternal place;
 </td></tr>
 <tr><td>Google</td><td align="right">114</td><td>
 and taken from here to an eternal place;
@@ -3213,6 +3555,9 @@ where you will hear the desperate screams
 <tr><td>Bard-2</td><td align="right">115</td><td>
 Where you will hear the desperate screams,
 </td></tr>
+<tr><td>DeepL</td><td align="right">115</td><td>
+Where thou shalt hear the desperate cries,
+</td></tr>
 <tr><td>Google</td><td align="right">115</td><td>
 where you will hear the desperate cries,
 </td></tr>
@@ -3240,6 +3585,9 @@ you will see the ancient grieving spirits
 </td></tr>
 <tr><td>Bard-2</td><td align="right">116</td><td>
 You will see the ancient spirits sad,
+</td></tr>
+<tr><td>DeepL</td><td align="right">116</td><td>
+thou shalt see the ancient sorrowful spirits,
 </td></tr>
 <tr><td>Google</td><td align="right">116</td><td>
 you will see the ancient sorrowful spirits,
@@ -3269,6 +3617,9 @@ that each cries out to the second death
 <tr><td>Bard-2</td><td align="right">117</td><td>
 Who to the second death each cries;
 </td></tr>
+<tr><td>DeepL</td><td align="right">117</td><td>
+Who to the second death each cries out;
+</td></tr>
 <tr><td>Google</td><td align="right">117</td><td>
 that everyone cries out for the second death;
 </td></tr>
@@ -3297,6 +3648,9 @@ and you will see people who are content
 <tr><td>Bard-2</td><td align="right">118</td><td>
 And you will see those who are content
 </td></tr>
+<tr><td>DeepL</td><td align="right">118</td><td>
+And thou shalt see those who are contented
+</td></tr>
 <tr><td>Google</td><td align="right">118</td><td>
 and you will see those who are happy
 </td></tr>
@@ -3323,6 +3677,9 @@ in the fire because they hope to come
 in the fire, because they hope to come
 </td></tr>
 <tr><td>Bard-2</td><td align="right">119</td><td>
+In the fire, because they hope to come
+</td></tr>
+<tr><td>DeepL</td><td align="right">119</td><td>
 In the fire, because they hope to come
 </td></tr>
 <tr><td>Google</td><td align="right">119</td><td>
@@ -3353,6 +3710,9 @@ when they will be with the blessed people.
 <tr><td>Bard-2</td><td align="right">120</td><td>
 When that may be to the blessed peoples.
 </td></tr>
+<tr><td>DeepL</td><td align="right">120</td><td>
+Whenever it may be to the blessed peoples.
+</td></tr>
 <tr><td>Google</td><td align="right">120</td><td>
 whenever it is for the blessed people.
 </td></tr>
@@ -3380,6 +3740,9 @@ To those people, if you will want to rise
 </td></tr>
 <tr><td>Bard-2</td><td align="right">121</td><td>
 To which then if you will want to ascend,
+</td></tr>
+<tr><td>DeepL</td><td align="right">121</td><td>
+To whom then if thou wilt ascend,
 </td></tr>
 <tr><td>Google</td><td align="right">121</td><td>
 Then if you want to go up there,
@@ -3409,6 +3772,9 @@ the soul will be to that more worthy than me
 <tr><td>Bard-2</td><td align="right">122</td><td>
 A soul will be to this more worthy;
 </td></tr>
+<tr><td>DeepL</td><td align="right">122</td><td>
+Soul shall be to that more worthy than I:
+</td></tr>
 <tr><td>Google</td><td align="right">122</td><td>
 soul will be more worthy of this than me:
 </td></tr>
@@ -3436,6 +3802,9 @@ with her I will leave in my departure;
 </td></tr>
 <tr><td>Bard-2</td><td align="right">123</td><td>
 With her I will leave you in my departure;
+</td></tr>
+<tr><td>DeepL</td><td align="right">123</td><td>
+With her I will leave thee in my departure;
 </td></tr>
 <tr><td>Google</td><td align="right">123</td><td>
 I will leave you with her when I leave;
@@ -3465,6 +3834,9 @@ because the emperor who reigns up there
 <tr><td>Bard-2</td><td align="right">124</td><td>
 For that emperor who reigns up there,
 </td></tr>
+<tr><td>DeepL</td><td align="right">124</td><td>
+For that emperor who there above reigns,
+</td></tr>
 <tr><td>Google</td><td align="right">124</td><td>
 because that emperor who reigns up there,
 </td></tr>
@@ -3491,6 +3863,9 @@ because I was rebellious to his law,
 because I was rebellious to his law
 </td></tr>
 <tr><td>Bard-2</td><td align="right">125</td><td>
+Because I was rebellious to his law,
+</td></tr>
+<tr><td>DeepL</td><td align="right">125</td><td>
 Because I was rebellious to his law,
 </td></tr>
 <tr><td>Google</td><td align="right">125</td><td>
@@ -3521,6 +3896,9 @@ does not want that I come to his city
 <tr><td>Bard-2</td><td align="right">126</td><td>
 Does not want that to his city through me one comes.
 </td></tr>
+<tr><td>DeepL</td><td align="right">126</td><td>
+Wills not that to his city for me thou shouldst come.
+</td></tr>
 <tr><td>Google</td><td align="right">126</td><td>
 he doesn't want me to come to his city.
 </td></tr>
@@ -3548,6 +3926,9 @@ He rules in all parts and governs here.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">127</td><td>
 In all parts he rules and there he governs;
+</td></tr>
+<tr><td>DeepL</td><td align="right">127</td><td>
+In all parts he reigns, and there he rules;
 </td></tr>
 <tr><td>Google</td><td align="right">127</td><td>
 In all parts he reigns and reigns there;
@@ -3577,6 +3958,9 @@ here is his city and his high seat.
 <tr><td>Bard-2</td><td align="right">128</td><td>
 There is his city and the high throne;
 </td></tr>
+<tr><td>DeepL</td><td align="right">128</td><td>
+There is his city and his high seat:
+</td></tr>
 <tr><td>Google</td><td align="right">128</td><td>
 there is his city and his high seat:
 </td></tr>
@@ -3604,6 +3988,9 @@ oh, happy is he whom he elects here!
 </td></tr>
 <tr><td>Bard-2</td><td align="right">129</td><td>
 Oh happy he whom he there chooses!"
+</td></tr>
+<tr><td>DeepL</td><td align="right">129</td><td>
+O happy he who elects there!"
 </td></tr>
 <tr><td>Google</td><td align="right">129</td><td>
 oh happy he who chooses there!".
@@ -3633,6 +4020,9 @@ And I said to him: "Poet, I beg you
 <tr><td>Bard-2</td><td align="right">130</td><td>
 And I to him: "Poet, I beg you
 </td></tr>
+<tr><td>DeepL</td><td align="right">130</td><td>
+And I to him: "Poet, I pray thee
+</td></tr>
 <tr><td>Google</td><td align="right">130</td><td>
 And I to him: "Poet, I call upon you
 </td></tr>
@@ -3660,6 +4050,9 @@ for that God whom you did not know
 </td></tr>
 <tr><td>Bard-2</td><td align="right">131</td><td>
 For that God whom you did not know,
+</td></tr>
+<tr><td>DeepL</td><td align="right">131</td><td>
+For that God whom thou knewest not,
 </td></tr>
 <tr><td>Google</td><td align="right">131</td><td>
 for that God that you did not know,
@@ -3689,6 +4082,9 @@ so that I may flee this evil and worse
 <tr><td>Bard-2</td><td align="right">132</td><td>
 In order that I may flee this evil and worse,
 </td></tr>
+<tr><td>DeepL</td><td align="right">132</td><td>
+That I may escape this evil and worse,
+</td></tr>
 <tr><td>Google</td><td align="right">132</td><td>
 so that I escape this evil and worse,
 </td></tr>
@@ -3716,6 +4112,9 @@ that you lead me there where you said
 </td></tr>
 <tr><td>Bard-2</td><td align="right">133</td><td>
 That you lead me there where now you said,
+</td></tr>
+<tr><td>DeepL</td><td align="right">133</td><td>
+That thou bring me thither where now thou saidst,
 </td></tr>
 <tr><td>Google</td><td align="right">133</td><td>
 that you take me where you said now,
@@ -3745,6 +4144,9 @@ so that I may see the gate of Saint Peter
 <tr><td>Bard-2</td><td align="right">134</td><td>
 So that I may see the gate of Saint Peter
 </td></tr>
+<tr><td>DeepL</td><td align="right">134</td><td>
+That I may behold the door of Saint Peter
+</td></tr>
 <tr><td>Google</td><td align="right">134</td><td>
 so that I see the door of Saint Peter
 </td></tr>
@@ -3773,6 +4175,9 @@ and the people whom you make so sad"
 <tr><td>Bard-2</td><td align="right">135</td><td>
 And those whom you make so sad."
 </td></tr>
+<tr><td>DeepL</td><td align="right">135</td><td>
+And those to whom thou makest so much mischief."
+</td></tr>
 <tr><td>Google</td><td align="right">135</td><td>
 and the color of which you are so sad."
 </td></tr>
@@ -3800,6 +4205,9 @@ Then he moved, and I followed him.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">136</td><td>
 Then he moved, and I followed him behind.
+</td></tr>
+<tr><td>DeepL</td><td align="right">136</td><td>
+Then he moved, and I kept behind them.
 </td></tr>
 <tr><td>Google</td><td align="right">136</td><td>
 Then he moved, and I followed him.
