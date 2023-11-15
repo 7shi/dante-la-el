@@ -140,8 +140,8 @@ for i in range(tlen - 1):
     print("|", spname(i), end=" |")
     for j in range(1, tlen):
         sp = " " * (len(spnames[j]) + 1)
-        d = 0
         if i < j:
+            d = 0
             for k in range(t0len):
                 d += dist(textsnorm[i][k], textsnorm[j][k]) ** 2
             d = math.sqrt(d / t0len)
