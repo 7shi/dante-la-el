@@ -29,7 +29,7 @@ Scripts for comparing results. The main purpose is to examine ways to generate s
 
 | Script | Example | Description |
 |--------|---------|-------------|
-|[mkcompare.py](https://github.com/7shi/dante-la-el/blob/main/scripts/mkcompare.py)|[compare-en.md](https://github.com/7shi/dante-la-el/blob/main/Inferno/compare-en.md)|Multiple translation results are juxtaposed.|
+|[mkcompare.py](https://github.com/7shi/dante-la-el/blob/main/scripts/mkcompare.py)|[compare-en.md](https://github.com/7shi/dante-la-el/blob/main/Inferno/compare-en.md)|Juxtapose multiple translations.|
 |[score.py](https://github.com/7shi/dante-la-el/blob/main/scripts/score.py)|[01-score-en.md](https://github.com/7shi/dante-la-el/blob/main/Inferno/MT/01-en-score.md)<br>[01-en-mix.txt](https://github.com/7shi/dante-la-el/blob/main/Inferno/MT/en/01-en-mix.txt)|Calculate scores and generate a mixed translation.|
 
 The score is calculated based on the edit distance between multiple translations. It is not a direct indication of the quality of a translation, but it does give an indication of how average a translation is in the population. The most average lines are adopted to generate a mixed translation.
