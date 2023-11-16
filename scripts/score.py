@@ -75,9 +75,9 @@ for i in range(t0len):
                 continue
             tk = textsnorm[k][i]
             d += dist(tj, tk) ** 2
-        d2 = math.sqrt(d / (tlen - 1))
-        dists1[j] += d2
-        ds.append(d2)
+        d /= tlen - 1
+        dists1[j] += d
+        ds.append(math.sqrt(d))
     mn = min(ds)
     ns = ""
     k = -1

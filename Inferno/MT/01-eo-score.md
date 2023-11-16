@@ -158,12 +158,12 @@
 
 | Rank | Name      | Dist  |
 | ----:| --------- | -----:|
-|    1 | bard      | 0.581 |
-|    2 | chatgpt   | 0.583 |
-|    3 | bard-t    | 0.586 |
-|    4 | google    | 0.602 |
-|    5 | chatgpt-t | 0.615 |
-|    6 | baidu-f   | 0.626 |
+|    1 | bard      | 0.368 |
+|    2 | chatgpt   | 0.368 |
+|    3 | bard-t    | 0.373 |
+|    4 | google    | 0.398 |
+|    5 | chatgpt-t | 0.414 |
+|    6 | baidu-f   | 0.425 |
 
 # Distances
 
