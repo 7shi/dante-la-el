@@ -15,6 +15,8 @@ nums = {int(m.group(1)): k for k in data.keys() if (m := re.match("(\d+)", k))}
 
 lines = [l for line in readlines(args[1]) if (l := line.strip())]
 
+print("| Line | Italian | English | Japanrse |")
+print("| ----:| ------- | ------- | -------- |")
 for n in nums.keys():
     k = nums[n]
     e = n
@@ -36,6 +38,6 @@ for n in nums.keys():
             print(f"Error [{n}]: {t} | {src}", file=sys.stderr)
             src = ""
             break
-        print(f"{n}\t{t}\t{row[1]}\t{row[2]}")
+        print(f"| {n} | {t} | {row[1]} | {row[2]} |")
     if src:
         print(f"Left [{n}]: {src}", file=sys.stderr)
