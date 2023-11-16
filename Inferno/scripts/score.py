@@ -59,11 +59,12 @@ def dist(a, b):
 print("# Mix")
 print()
 print("|", " | ".join([f"{i+1:{len(n)}}" for i, n in enumerate(snames)]), "|")
-print("|", " | ".join(["-" * (len(n) - 1) + ":" for n in snames]), "|")
+print("| ", "| ".join(["-" * len(n) + ":" for n in snames]), "|", sep="")
 print("|", " | ".join(snames), "|")
 
 sels  = [0 for _ in texts]
 logs = []
+dists1 = [0 for _ in range(tlen)]
 for i in range(t0len):
     ds = []
     for j in range(tlen):
@@ -74,7 +75,9 @@ for i in range(t0len):
                 continue
             tk = textsnorm[k][i]
             d += dist(tj, tk) ** 2
-        ds.append(math.sqrt(d / (tlen - 1)))
+        d2 = math.sqrt(d / (tlen - 1))
+        dists1[j] += d2
+        ds.append(d2)
     mn = min(ds)
     ns = ""
     k = -1
@@ -91,7 +94,7 @@ mlen = max(len(line) for line in mixed)
 alen = max(len("Adopt"), tlen)
 print()
 print(f"| Line | Dist  | {'Adopt':{alen}} | {'Text':{mlen}} |")
-print(f"| ---: | ----: | {'-' * alen} | {'-' * mlen} |")
+print(f"| ----:| -----:| {'-' * alen} | {'-' * mlen} |")
 for i, (mn, ns, line) in enumerate(logs):
     print(f"| {i+1:4} | {mn:.3f} | {ns:{alen}} | {line:{mlen}} |")
 
@@ -101,14 +104,24 @@ if output_fn:
             print(line, file=f)
 
 print()
-print("## Ranking")
+print("## Number of Adopted")
 print()
 print(f"| Rank | {'Name':{snlen}} | Adopt |")
-print(f"| ---: | {'-' * snlen} | ----: |")
+print(f"| ----:| {'-' * snlen} | -----:|")
 scores = list(enumerate(sels))
 scores.sort(key=lambda x: x[1], reverse=True)
 for r, (i, score) in enumerate(scores):
     print(f"| {r+1:4} | {spname(i)} | {score:5} |")
+
+print()
+print("## Distance from Others")
+print()
+print(f"| Rank | {'Name':{snlen}} | Dist  |")
+print(f"| ----:| {'-' * snlen} | -----:|")
+scores = list(enumerate([math.sqrt(d / t0len) for d in dists1]))
+scores.sort(key=lambda x: x[1])
+for r, (i, score) in enumerate(scores):
+    print(f"| {r+1:4} | {spname(i)} | {score:.3f} |")
 
 print()
 print("# Distances")
@@ -134,8 +147,8 @@ for n in snames:
     length = max(5, len(n))
     spnames.append(f"{n:{length}}")
 print("|", " " * snlen, "|", " | ".join(spnames[1:]), "|")
-print("|", "-" * snlen, "|", " | ".join("-" * (len(spn) - 1) + ":" for spn in spnames[1:]), "|")
-dists = [[0 for _ in range(tlen)] for _ in range(tlen)]
+print("| ", "-" * snlen, " | ", "| ".join("-" * len(spn) + ":" for spn in spnames[1:]), "|", sep="")
+dists2 = [[0 for _ in range(tlen)] for _ in range(tlen)]
 for i in range(tlen - 1):
     print("|", spname(i), end=" |")
     for j in range(1, tlen):
@@ -146,8 +159,8 @@ for i in range(tlen - 1):
                 d += dist(textsnorm[i][k], textsnorm[j][k]) ** 2
             d = math.sqrt(d / t0len)
             print(f"{d:{len(sp)}.3f}", end=" |")
-            dists[i][j] = d
-            dists[j][i] = d
+            dists2[i][j] = d
+            dists2[j][i] = d
         else:
             print(sp, end=" |")
     print()
@@ -157,8 +170,8 @@ for i in range(tlen):
     print("##", snames[i])
     print()
     print(f"| Rank | {'Name':{snlen}} | Dist  |")
-    print(f"| ---: | {'-' * snlen} | ----: |")
-    scores = [(j, d) for j, d in enumerate(dists[i]) if i != j]
+    print(f"| ----:| {'-' * snlen} | -----:|")
+    scores = [(j, d) for j, d in enumerate(dists2[i]) if i != j]
     scores.sort(key=lambda x: x[1])
     for r, (j, score) in enumerate(scores):
         print(f"| {r+1:4} | {spname(j)} | {score:.3f} |")

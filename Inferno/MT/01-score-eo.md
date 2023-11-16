@@ -1,11 +1,11 @@
 # Mix
 
-|    1 |      2 |       3 |         4 |      5 |     6 |
-| ---: | -----: | ------: | --------: | -----: | ----: |
-| bard | bard-t | chatgpt | chatgpt-t | google | baidu |
+|    1 |      2 |       3 |         4 |      5 |       6 |
+| ----:| ------:| -------:| ---------:| ------:| -------:|
+| bard | bard-t | chatgpt | chatgpt-t | google | baidu-f |
 
 | Line | Dist  | Adopt  | Text                                                    |
-| ---: | ----: | ------ | ------------------------------------------------------- |
+| ----:| -----:| ------ | ------------------------------------------------------- |
 |    1 | 0.289 | 123    | En la mezo de la vojo de nia vivo                       |
 |    2 | 0.207 | 56     | Mi trovis min en malluma arbaro,                        |
 |    3 | 0.133 | 35     | ĉar la rekta vojo estis perdita.                        |
@@ -143,87 +143,98 @@
 |  135 | 0.305 | 2      | Kaj tiujn kiun vi faras tiel malĝojajn."                |
 |  136 | 0.253 | 35     | Tiam li moviĝis, kaj mi sekvis lin.                     |
 
-## Ranking
+## Number of Adopted
 
 | Rank | Name      | Adopt |
-| ---: | --------- | ----: |
+| ----:| --------- | -----:|
 |    1 | chatgpt   |    42 |
 |    2 | bard-t    |    40 |
 |    3 | bard      |    34 |
 |    4 | google    |    30 |
 |    5 | chatgpt-t |    26 |
-|    6 | baidu     |    18 |
+|    6 | baidu-f   |    18 |
+
+## Distance from Others
+
+| Rank | Name      | Dist  |
+| ----:| --------- | -----:|
+|    1 | bard      | 0.581 |
+|    2 | chatgpt   | 0.583 |
+|    3 | bard-t    | 0.586 |
+|    4 | google    | 0.602 |
+|    5 | chatgpt-t | 0.615 |
+|    6 | baidu-f   | 0.626 |
 
 # Distances
 
-|           | bard-t | chatgpt | chatgpt-t | google | baidu | MIX   |
-| --------- | -----: | ------: | --------: | -----: | ----: | ----: |
-| bard      |  0.325 |   0.329 |     0.396 |  0.368 | 0.412 | 0.252 |
-| bard-t    |        |   0.323 |     0.395 |  0.392 | 0.420 | 0.272 |
-| chatgpt   |        |         |     0.366 |  0.390 | 0.422 | 0.248 |
-| chatgpt-t |        |         |           |  0.436 | 0.468 | 0.341 |
-| google    |        |         |           |        | 0.402 | 0.313 |
-| baidu     |        |         |           |        |       | 0.367 |
+|           | bard-t | chatgpt | chatgpt-t | google | baidu-f | MIX   |
+| --------- | ------:| -------:| ---------:| ------:| -------:| -----:|
+| bard      |  0.325 |   0.329 |     0.396 |  0.368 |   0.412 | 0.252 |
+| bard-t    |        |   0.323 |     0.395 |  0.392 |   0.420 | 0.272 |
+| chatgpt   |        |         |     0.366 |  0.390 |   0.422 | 0.248 |
+| chatgpt-t |        |         |           |  0.436 |   0.468 | 0.341 |
+| google    |        |         |           |        |   0.402 | 0.313 |
+| baidu-f   |        |         |           |        |         | 0.367 |
 
 ## bard
 
 | Rank | Name      | Dist  |
-| ---: | --------- | ----: |
+| ----:| --------- | -----:|
 |    1 | MIX       | 0.252 |
 |    2 | bard-t    | 0.325 |
 |    3 | chatgpt   | 0.329 |
 |    4 | google    | 0.368 |
 |    5 | chatgpt-t | 0.396 |
-|    6 | baidu     | 0.412 |
+|    6 | baidu-f   | 0.412 |
 
 ## bard-t
 
 | Rank | Name      | Dist  |
-| ---: | --------- | ----: |
+| ----:| --------- | -----:|
 |    1 | MIX       | 0.272 |
 |    2 | chatgpt   | 0.323 |
 |    3 | bard      | 0.325 |
 |    4 | google    | 0.392 |
 |    5 | chatgpt-t | 0.395 |
-|    6 | baidu     | 0.420 |
+|    6 | baidu-f   | 0.420 |
 
 ## chatgpt
 
 | Rank | Name      | Dist  |
-| ---: | --------- | ----: |
+| ----:| --------- | -----:|
 |    1 | MIX       | 0.248 |
 |    2 | bard-t    | 0.323 |
 |    3 | bard      | 0.329 |
 |    4 | chatgpt-t | 0.366 |
 |    5 | google    | 0.390 |
-|    6 | baidu     | 0.422 |
+|    6 | baidu-f   | 0.422 |
 
 ## chatgpt-t
 
 | Rank | Name      | Dist  |
-| ---: | --------- | ----: |
+| ----:| --------- | -----:|
 |    1 | MIX       | 0.341 |
 |    2 | chatgpt   | 0.366 |
 |    3 | bard-t    | 0.395 |
 |    4 | bard      | 0.396 |
 |    5 | google    | 0.436 |
-|    6 | baidu     | 0.468 |
+|    6 | baidu-f   | 0.468 |
 
 ## google
 
 | Rank | Name      | Dist  |
-| ---: | --------- | ----: |
+| ----:| --------- | -----:|
 |    1 | MIX       | 0.313 |
 |    2 | bard      | 0.368 |
 |    3 | chatgpt   | 0.390 |
 |    4 | bard-t    | 0.392 |
-|    5 | baidu     | 0.402 |
+|    5 | baidu-f   | 0.402 |
 |    6 | chatgpt-t | 0.436 |
 
-## baidu
+## baidu-f
 
 | Rank | Name      | Dist  |
-| ---: | --------- | ----: |
+| ----:| --------- | -----:|
 |    1 | MIX       | 0.367 |
 |    2 | google    | 0.402 |
 |    3 | bard      | 0.412 |
@@ -234,10 +245,10 @@
 ## MIX
 
 | Rank | Name      | Dist  |
-| ---: | --------- | ----: |
+| ----:| --------- | -----:|
 |    1 | chatgpt   | 0.248 |
 |    2 | bard      | 0.252 |
 |    3 | bard-t    | 0.272 |
 |    4 | google    | 0.313 |
 |    5 | chatgpt-t | 0.341 |
-|    6 | baidu     | 0.367 |
+|    6 | baidu-f   | 0.367 |
