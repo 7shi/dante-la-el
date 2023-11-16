@@ -1,6 +1,6 @@
 This directory contains experimental works using Google Bard.
 
-See for log conversion:
+See below for log conversion:
 
 * [scripts/REAEME.md](https://github.com/7shi/dante-la-el/blob/main/scripts/README.md)
 
