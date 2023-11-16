@@ -1,4 +1,4 @@
-Here you will find fragments of machine-translated text and material comparing them to AI-generated translations.
+Here are some machine-translated texts and materials comparing them to AI-generated translations.
 
 Scores are not necessarily a direct indication of superiority. See below for more information:
 
