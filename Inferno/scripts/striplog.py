@@ -109,17 +109,25 @@ def write_tables(data, keys, *checks):
 
 if __name__ == "__main__":
     args = sys.argv[1:]
+
+    check = 2
     last = False
-    if args and args[0] == "-l":
-        last = True
-        args = args[1:]
+    while args:
+        if args[0] == "-l":
+            last = True
+            args = args[1:]
+        elif len(args) >= 2 and args[0] == "-c":
+            check = int(args[1])
+            args = args[2:]
+        else:
+            break
 
     if len(args) == 0:
-        print(f"Usage: python {sys.argv[0]} [-l] log1 [log2 ...]", file=sys.stderr)
+        print(f"Usage: python {sys.argv[0]} [-l] [-c check] log1 [log2 ...]", file=sys.stderr)
         sys.exit(1)
 
     data = {}
     for arg in args:
         parse(arg, data)
     nums = {int(m.group(1)): k for k in data.keys() if (m := re.match("(\d+)", k))}
-    write_tables(data, [nums[n] for n in sorted(nums.keys())], 2)
+    write_tables(data, [nums[n] for n in sorted(nums.keys())], check)

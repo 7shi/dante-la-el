@@ -12,7 +12,7 @@ data = {}
 for arg in args:
     parse(arg, data)
 nums = {int(m.group(1)): k for k in data.keys() if (m := re.match("(\d+)", k))}
-for i, n in enumerate(nums.keys()):
+for n in nums.keys():
     k = nums[n]
     for table in data[k]:
         for row in table[2:]:
