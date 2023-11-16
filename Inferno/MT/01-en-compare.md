@@ -1,7 +1,3 @@
-# Inferno
-
-## Canto I
-
 <table>
 <tr><td>Dante</td><td align="right">1</td><td>
 Nel mezzo del cammin di nostra vita
