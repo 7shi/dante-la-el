@@ -111,19 +111,15 @@ if __name__ == "__main__":
     args = sys.argv[1:]
 
     check = 2
-    last = False
-    while args:
-        if args[0] == "-l":
-            last = True
-            args = args[1:]
-        elif len(args) >= 2 and args[0] == "-c":
+    while len(args) >= 2:
+        if args[0] == "-c":
             check = int(args[1])
             args = args[2:]
         else:
             break
 
     if len(args) == 0:
-        print(f"Usage: python {sys.argv[0]} [-l] [-c check] log1 [log2 ...]", file=sys.stderr)
+        print(f"Usage: python {sys.argv[0]} [-c check] log1 [log2 ...]", file=sys.stderr)
         sys.exit(1)
 
     data = {}

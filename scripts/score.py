@@ -24,6 +24,8 @@ for arg in args:
         texts.append([l for line in f if (l := line.strip())])
 
 def abbrev_name(name):
+    if (m := re.match(r"(.*?)/(\w+)(.*)", name)):
+        name = f"{m.group(2)}-{m.group(1)}{m.group(3)}"
     if (m := re.match(r"[^-]+-(.*)\.[^.]+$", name)):
         name = m.group(1)
         if (m := re.match(r"([^-]+-.)", name)):
