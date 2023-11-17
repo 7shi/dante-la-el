@@ -8,7 +8,7 @@ if args and args[0] == '-t':
     args = args[1:]
 
 if args:
-    print('Usage: python3 number.py [-t]', file=sys.stderr)
+    print(f"Usage: python3 {sys.argv[0]} [-t]", file=sys.stderr)
     sys.exit()
 
 n = 1
