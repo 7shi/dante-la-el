@@ -1,3 +1,11 @@
+Directly under this directory is textualized data from books. The subdirectories have experimental data from AI and machine translation (MT).
+
+# Summary of Text
+
+The Longfellow's English translation is summarized by Claude. See below for more information:
+
+* [Claude/](https://github.com/7shi/dante-la-el/tree/main/Inferno/Claude)
+
 # English
 
 I am comparing several different translations here, but it is quicker to look at the file below.
