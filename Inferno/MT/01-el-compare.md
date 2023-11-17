@@ -43,7 +43,7 @@ mi ritrovai per una selva oscura,
 βρέθηκα σε ένα σκοτεινό δάσος,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">2</td><td>
-Βρέθηκα σε μια σκοτεινή ζούγκλα,
+βρέθηκα σε μια σκοτεινή ζούγκλα,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">2</td><td>
 βρέθηκα σε μια σκοτεινή έρημο,
@@ -186,7 +186,7 @@ che nel pensier rinova la paura!
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">7</td><td>
-Tant’è amara che poco è più morte;
+Tant’ è amara che poco è più morte;
 </td></tr>
 <tr><td>MIX</td><td align="right">7</td><td>
 Τόσο πικρή που λίγο είναι περισσότερο θάνατος.
@@ -229,7 +229,7 @@ ma per trattar del ben ch’i’ vi trovai,
 αλλά για να μιλήσω για το καλό που βρήκα εδώ,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">8</td><td>
-Αλλά για να μιλήσω για το καλό που βρήκα εκεί,
+αλλά για να μιλήσω για το καλό που βρήκα εκεί,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">8</td><td>
 αλλά για να μιλήσω για το καλό που βρήκα εκεί,
@@ -248,7 +248,7 @@ ma per trattar del ben ch’i’ vi trovai,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">9</td><td>
-dirò de l’altre cose ch’i’ v’ ho scorte.
+dirò de l’altre cose ch’i’ v’ho scorte.
 </td></tr>
 <tr><td>MIX</td><td align="right">9</td><td>
 θα πω για τα άλλα πράγματα που είδα εκεί.
@@ -279,7 +279,7 @@ dirò de l’altre cose ch’i’ v’ ho scorte.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">10</td><td>
-Io non so ben ridir com’i’ v’intrai,
+Io non so ben ridir com’ i’ v’intrai,
 </td></tr>
 <tr><td>MIX</td><td align="right">10</td><td>
 Δεν ξέρω να πω καλά πώς μπήκα εκεί,
@@ -310,7 +310,7 @@ Io non so ben ridir com’i’ v’intrai,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">11</td><td>
-tant’era pien di sonno a quel punto
+tant’ era pien di sonno a quel punto
 </td></tr>
 <tr><td>MIX</td><td align="right">11</td><td>
 Ήταν τόσο γεμάτος ύπνο σε εκείνο το σημείο
@@ -756,7 +756,7 @@ così l’animo mio, ch’ancor fuggiva,
 έτσι και η ψυχή μου, που ακόμα έφευγε,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">25</td><td>
-Έτσι η ψυχή μου, που ακόμα έτρεχε,
+έτσι η ψυχή μου, που ακόμα έτρεχε,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">25</td><td>
 Έτσι, η ψυχή μου, που ακόμα έτρεπε,
@@ -1116,7 +1116,7 @@ ch’i’ fui per ritornar più volte vòlto.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">37</td><td>
-Temp’era dal principio del mattino,
+Temp’ era dal principio del mattino,
 </td></tr>
 <tr><td>MIX</td><td align="right">37</td><td>
 Ήταν από την αρχή του πρωινού,
@@ -1426,7 +1426,7 @@ Questi parea che contra me venisse
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">47</td><td>
-con la test’alta e con rabbiosa fame,
+con la test’ alta e con rabbiosa fame,
 </td></tr>
 <tr><td>MIX</td><td align="right">47</td><td>
 με ψηλό κεφάλι και με θυμωμένη πείνα,
@@ -1984,7 +1984,7 @@ Quando vidi costui nel gran diserto,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">65</td><td>
-"Miserere di me", gridai a lui,
+«Miserere di me», gridai a lui,
 </td></tr>
 <tr><td>MIX</td><td align="right">65</td><td>
 «Ελέησέ με», του φώναξα,
@@ -2015,7 +2015,7 @@ Quando vidi costui nel gran diserto,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">66</td><td>
-"qual che tu sii, od ombra od omo certo!".
+«qual che tu sii, od ombra od omo certo!».
 </td></tr>
 <tr><td>MIX</td><td align="right">66</td><td>
 "Ό,τι κι αν είσαι, σκιά ή άνθρωπος!
@@ -2046,7 +2046,7 @@ Quando vidi costui nel gran diserto,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">67</td><td>
-Rispuosemi: "Non omo, omo già fui,
+Rispuosemi: «Non omo, omo già fui,
 </td></tr>
 <tr><td>MIX</td><td align="right">67</td><td>
 Μου απάντησε: "Όχι άνθρωπος, άνθρωπος ήμουν ήδη,
@@ -2058,7 +2058,7 @@ Rispuosemi: "Non omo, omo già fui,
 Μου απάντησε: "Όχι άνθρωπος, κάποτε ήμουν άνθρωπος,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">67</td><td>
-Μου απάντησε: "Δεν είμαι άνθρωπος, ήμουν κάποτε άνθρωπος,
+Μου απάντησε: "Δεν είμαι άνθρωπος, ήμουν κάποτε άνθρωπος"
 </td></tr>
 <tr><td>Bard-2</td><td align="right">67</td><td>
 Μου απάντησε: "Δεν είμαι άνθρωπος, άνθρωπος ήμουν κάποτε,
@@ -2108,7 +2108,7 @@ e li parenti miei furon lombardi,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">69</td><td>
-mantoani per patria ambedui.
+mantoani per patrïa ambedui.
 </td></tr>
 <tr><td>MIX</td><td align="right">69</td><td>
 Μαντουάνοι και οι δύο από την πατρίδα τους.
@@ -2120,7 +2120,7 @@ mantoani per patria ambedui.
 και οι δύο με πατρίδα τους ήταν Μαντούα.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">69</td><td>
-Μαντουάνοι και οι δύο από την πατρίδα τους.
+μαντουάνοι και οι δύο από την πατρίδα τους.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">69</td><td>
 και οι δύο από τη Μάντουα."
@@ -2294,7 +2294,7 @@ figliuol d’Anchise che venne di Troia,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">75</td><td>
-poi che ’l superbo Ilión fu combusto.
+poi che ’l superbo Ilïón fu combusto.
 </td></tr>
 <tr><td>MIX</td><td align="right">75</td><td>
 αφού κάηκε το περήφανο Ίλιον.
@@ -2387,7 +2387,7 @@ perché non sali il dilettoso monte
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">78</td><td>
-ch’è principio e cagion di tutta gioia?".
+ch’è principio e cagion di tutta gioia?».
 </td></tr>
 <tr><td>MIX</td><td align="right">78</td><td>
 Ποια είναι η αρχή και η αιτία όλης της χαράς; "
@@ -2399,7 +2399,7 @@ ch’è principio e cagion di tutta gioia?".
 που είναι η αρχή και η αιτία όλης της χαράς;"
 </td></tr>
 <tr><td>Bard-1</td><td align="right">78</td><td>
-που είναι η αρχή και η αιτία όλης της χαράς;"
+που είναι η αρχή και η αιτία όλης της χαράς.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">78</td><td>
 που είναι αρχή και αιτία όλης της χαράς;
@@ -2418,7 +2418,7 @@ ch’è principio e cagion di tutta gioia?".
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">79</td><td>
-"Or se’ tu quel Virgilio e quella fonte
+«Or se’ tu quel Virgilio e quella fonte
 </td></tr>
 <tr><td>MIX</td><td align="right">79</td><td>
 «Τώρα είσαι αυτός ο Βιργίλιος και εκείνη η πηγή
@@ -2449,7 +2449,7 @@ ch’è principio e cagion di tutta gioia?".
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">80</td><td>
-che spandi di parlar sì largo fiume?",
+che spandi di parlar sì largo fiume?»,
 </td></tr>
 <tr><td>MIX</td><td align="right">80</td><td>
 που απλώνεις του να μιλάς τόσο πλατύ ποτάμι;",
@@ -2461,7 +2461,7 @@ che spandi di parlar sì largo fiume?",
 που χύνεις έναν τόσο πλατύ ποταμό με λόγια;",
 </td></tr>
 <tr><td>Bard-1</td><td align="right">80</td><td>
-που απλώνεις του να μιλάς τόσο πλατύ ποτάμι;",
+που απλώνεις του να μιλάς τόσο πλατύ ποτάμι;"
 </td></tr>
 <tr><td>Bard-2</td><td align="right">80</td><td>
 που χύνει τόσο μεγάλο ρεύμα ομιλίας;",
@@ -2480,7 +2480,7 @@ che spandi di parlar sì largo fiume?",
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">81</td><td>
-rispuos’io lui con vergognosa fronte.
+rispuos’ io lui con vergognosa fronte.
 </td></tr>
 <tr><td>MIX</td><td align="right">81</td><td>
 Του απάντησα με ντροπιασμένο μέτωπο.
@@ -2492,7 +2492,7 @@ rispuos’io lui con vergognosa fronte.
 του απάντησα εγώ με ντροπιασμένη μορφή.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">81</td><td>
-Απάντησα σε αυτόν με ντροπιασμένο μέτωπο.
+απάντησα σε αυτόν με ντροπιασμένο μέτωπο.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">81</td><td>
 απάντησα εγώ σε αυτόν με ντροπιασμένη όψη.
@@ -2511,7 +2511,7 @@ rispuos’io lui con vergognosa fronte.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">82</td><td>
-"O de li altri poeti onore e lume,
+«O de li altri poeti onore e lume,
 </td></tr>
 <tr><td>MIX</td><td align="right">82</td><td>
 "Ω τιμή και φως των άλλων ποιητών,
@@ -2554,7 +2554,7 @@ vagliami ’l lungo studio e ’l grande amore
 η μακροχρόνια μου μελέτη και η μεγάλη αγάπη
 </td></tr>
 <tr><td>Bard-1</td><td align="right">83</td><td>
-Να με βοηθήσει το μακρύ μελέτη και η μεγάλη αγάπη
+να με βοηθήσει το μακρύ μελέτη και η μεγάλη αγάπη που με έκανε να αναζητήσω τον τόμο σου
 </td></tr>
 <tr><td>Bard-2</td><td align="right">83</td><td>
 ας μου ωφελήσουν η μακρά μελέτη και η μεγάλη αγάπη
@@ -2573,7 +2573,7 @@ vagliami ’l lungo studio e ’l grande amore
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">84</td><td>
-che m’ ha fatto cercar lo tuo volume.
+che m’ha fatto cercar lo tuo volume.
 </td></tr>
 <tr><td>MIX</td><td align="right">84</td><td>
 που με έκανε να αναζητήσω τον όγκο σου.
@@ -2647,7 +2647,7 @@ tu se’ solo colui da cu’ io tolsi
 είσαι μόνο εκείνος από τον οποίο έπαιρνα
 </td></tr>
 <tr><td>Bard-1</td><td align="right">86</td><td>
-Εσύ είσαι ο μόνος από τον οποίο πήρα
+εσύ είσαι ο μόνος από τον οποίο πήρα
 </td></tr>
 <tr><td>Bard-2</td><td align="right">86</td><td>
 εσύ είσαι μόνος εκείνος από τον οποίο πήρα
@@ -2666,7 +2666,7 @@ tu se’ solo colui da cu’ io tolsi
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">87</td><td>
-lo bello stilo che m’ ha fatto onore.
+lo bello stilo che m’ha fatto onore.
 </td></tr>
 <tr><td>MIX</td><td align="right">87</td><td>
 το όμορφο στυλ που με τίμησε.
@@ -2740,7 +2740,7 @@ aiutami da lei, famoso saggio,
 βοήθησέ με να το αποφύγω, επιφανής σοφέ,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">89</td><td>
-Βοήθησέ με από αυτήν, διάσημο σοφό,
+βοήθησέ με από αυτήν, διάσημο σοφό,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">89</td><td>
 βοήθησέ με από αυτό, διάσημος σοφός,
@@ -2759,7 +2759,7 @@ aiutami da lei, famoso saggio,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">90</td><td>
-ch’ella mi fa tremar le vene e i polsi".
+ch’ella mi fa tremar le vene e i polsi».
 </td></tr>
 <tr><td>MIX</td><td align="right">90</td><td>
 Γιατί κάνει τις φλέβες και τους καρπούς μου να τρέμουν.
@@ -2790,7 +2790,7 @@ ch’ella mi fa tremar le vene e i polsi".
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">91</td><td>
-"A te convien tenere altro viaggio",
+«A te convien tenere altro vïaggio»,
 </td></tr>
 <tr><td>MIX</td><td align="right">91</td><td>
 "Σε πρέπει να κρατήσεις ένα άλλο ταξίδι",
@@ -2802,7 +2802,7 @@ ch’ella mi fa tremar le vene e i polsi".
 "Πρέπει να ακολουθήσεις άλλο δρόμο",
 </td></tr>
 <tr><td>Bard-1</td><td align="right">91</td><td>
-"Είναι απαραίτητο για εσένα να κρατήσεις άλλο ταξίδι",
+"Είναι απαραίτητο για εσένα να κρατήσεις άλλο ταξίδι"
 </td></tr>
 <tr><td>Bard-2</td><td align="right">91</td><td>
 "Σε σένα πρέπει να ακολουθήσεις άλλο ταξίδι",
@@ -2852,7 +2852,7 @@ rispuose, poi che lagrimar mi vide,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">93</td><td>
-"se vuo’ campar d’esto loco selvaggio;
+«se vuo’ campar d’esto loco selvaggio;
 </td></tr>
 <tr><td>MIX</td><td align="right">93</td><td>
 "αν θέλεις να ξεφύγεις από αυτό το άγριο μέρος·
@@ -3193,7 +3193,7 @@ Questi non ciberà terra né peltro,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">104</td><td>
-ma sapienza, amore e virtute,
+ma sapïenza, amore e virtute,
 </td></tr>
 <tr><td>MIX</td><td align="right">104</td><td>
 αλλά σοφία, αγάπη και αρετή,
@@ -3441,7 +3441,7 @@ là onde ’nvidia prima dipartilla.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">112</td><td>
-Ond’io per lo tuo me’ penso e discerno
+Ond’ io per lo tuo me’ penso e discerno
 </td></tr>
 <tr><td>MIX</td><td align="right">112</td><td>
 Γι' αυτό σκέφτομαι και διακρίνω για το καλό σου,
@@ -3763,7 +3763,7 @@ anima fia a ciò più di me degna:
 η ψυχή θα είναι πιο αξιόλογη από μένα γι' αυτό:
 </td></tr>
 <tr><td>Bard-1</td><td align="right">122</td><td>
-μια ψυχή θα είναι πιο αξιόλογη αυτό από εμένα·
+μια ψυχή θα είναι πιο αξιόλογη από αυτό από ό,τι εγώ:
 </td></tr>
 <tr><td>Bard-2</td><td align="right">122</td><td>
 θα υπάρχει ψυχή πιο αξιόλογη γι' αυτό:
@@ -3794,7 +3794,7 @@ con lei ti lascerò nel mio partire;
 με αυτήν θα σε αφήσω κατά την αναχώρησή μου.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">123</td><td>
-Θα σε αφήσω μαζί της στην αναχώρησή μου·
+θα σε αφήσω μαζί της στην αναχώρησή μου·
 </td></tr>
 <tr><td>Bard-2</td><td align="right">123</td><td>
 μαζί της θα σε αφήσω στο φευγιό μου;
@@ -3844,7 +3844,7 @@ ché quello imperador che là sù regna,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">125</td><td>
-perch’i’ fu’ ribellante a la sua legge,
+perch’ i’ fu’ ribellante a la sua legge,
 </td></tr>
 <tr><td>MIX</td><td align="right">125</td><td>
 επειδή ήμουν επαναστάτης ενάντια στον νόμο του,
@@ -3949,7 +3949,7 @@ quivi è la sua città e l’alto seggio:
 εκεί είναι η πόλη του και ο υψηλός θρόνος:
 </td></tr>
 <tr><td>Bard-1</td><td align="right">128</td><td>
-εκεί είναι η πόλη του και ο υψηλός θρόνος:
+εκεί είναι η πόλη του και ο υψηλός θρόνος·
 </td></tr>
 <tr><td>Bard-2</td><td align="right">128</td><td>
 εκεί είναι η πόλη του και ο ψηλό θρόνος του:
@@ -3968,7 +3968,7 @@ quivi è la sua città e l’alto seggio:
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">129</td><td>
-oh felice colui cu’ ivi elegge!".
+oh felice colui cu’ ivi elegge!».
 </td></tr>
 <tr><td>MIX</td><td align="right">129</td><td>
 Ω, ευτυχισμένος αυτός που το εκλέγει εκεί!"
@@ -3999,7 +3999,7 @@ oh felice colui cu’ ivi elegge!".
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">130</td><td>
-E io a lui: "Poeta, io ti richeggio
+E io a lui: «Poeta, io ti richeggio
 </td></tr>
 <tr><td>MIX</td><td align="right">130</td><td>
 Και εγώ του λέω: "Ποιητή, σε παρακαλώ
@@ -4092,7 +4092,7 @@ acciò ch’io fugga questo male e peggio,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">133</td><td>
-che tu mi meni là dov’or dicesti,
+che tu mi meni là dov’ or dicesti,
 </td></tr>
 <tr><td>MIX</td><td align="right">133</td><td>
 να με οδηγήσεις εκεί που είπες τώρα,
@@ -4154,7 +4154,7 @@ sì ch’io veggia la porta di san Pietro
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">135</td><td>
-e color cui tu fai cotanto mesti".
+e color cui tu fai cotanto mesti».
 </td></tr>
 <tr><td>MIX</td><td align="right">135</td><td>
 και εκείνους στους οποίους κάνεις τόσο λυπημένους».
@@ -4166,7 +4166,7 @@ e color cui tu fai cotanto mesti".
 και αυτούς που τους κάνεις τόσο λυπημένους".
 </td></tr>
 <tr><td>Bard-1</td><td align="right">135</td><td>
-και εκείνους τους οποίους εσύ κάνεις τόσο πολύ λυπημένους."
+και εκείνους τους οποίους εσύ κάνεις τόσο πολύ λυπημένους.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">135</td><td>
 και εκείνους που κάνεις τόσο λυπημένους".

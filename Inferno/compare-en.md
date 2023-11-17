@@ -48,9 +48,9 @@ Ah! how hard a thing it is to tell what a wild, and rough, and stubborn wood thi
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">7<br>8<br>9</td><td>
-Tant’è amara che poco è più morte;<br>
+Tant’ è amara che poco è più morte;<br>
 ma per trattar del ben ch’i’ vi trovai,<br>
-dirò de l’altre cose ch’i’ v’ ho scorte.
+dirò de l’altre cose ch’i’ v’ho scorte.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">7<br>8<br>9</td><td>
 So bitter is it, death is little more;<br>
@@ -70,8 +70,8 @@ So bitter is it, that scarcely more is death: but to treat of the good that I th
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">10<br>11<br>12</td><td>
-Io non so ben ridir com’i’ v’intrai,<br>
-tant’era pien di sonno a quel punto<br>
+Io non so ben ridir com’ i’ v’intrai,<br>
+tant’ era pien di sonno a quel punto<br>
 che la verace via abbandonai.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">10<br>11<br>12</td><td>
@@ -268,7 +268,7 @@ And it went not from before my face; nay, so impeded my way, that I had often tu
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">37<br>38<br>39<br>40</td><td>
-Temp’era dal principio del mattino,<br>
+Temp’ era dal principio del mattino,<br>
 e ’l sol montava ’n sù con quelle stelle<br>
 ch’eran con lui quando l’amor divino<br>
 mosse di prima quelle cose belle;
@@ -335,7 +335,7 @@ yet not so, but that I feared at the sight, which appeared to me, of a Lion.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">46<br>47<br>48</td><td>
 Questi parea che contra me venisse<br>
-con la test’alta e con rabbiosa fame,<br>
+con la test’ alta e con rabbiosa fame,<br>
 sì che parea che l’aere ne tremesse.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">46<br>47<br>48</td><td>
@@ -467,8 +467,8 @@ Whilst I was rushing downwards, there appeared before my eyes one who seemed hoa
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">64<br>65<br>66</td><td>
 Quando vidi costui nel gran diserto,<br>
-"Miserere di me", gridai a lui,<br>
-"qual che tu sii, od ombra od omo certo!".
+«Miserere di me», gridai a lui,<br>
+«qual che tu sii, od ombra od omo certo!».
 </td></tr>
 <tr><td>Longfellow</td><td align="right">64<br>65<br>66</td><td>
 When I beheld him in the desert vast,<br>
@@ -488,9 +488,9 @@ When I saw him in the great desert, I cried: "Have pity on me, whate'er thou be,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">67<br>68<br>69</td><td>
-Rispuosemi: "Non omo, omo già fui,<br>
+Rispuosemi: «Non omo, omo già fui,<br>
 e li parenti miei furon lombardi,<br>
-mantoani per patria ambedui.
+mantoani per patrïa ambedui.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">67<br>68<br>69</td><td>
 He answered me: "Not man; man once I was,<br>
@@ -534,7 +534,7 @@ I was born sub Julio, though it was late; and lived at Rome under the good Augus
 <tr><td>Dante</td><td align="right">73<br>74<br>75</td><td>
 Poeta fui, e cantai di quel giusto<br>
 figliuol d’Anchise che venne di Troia,<br>
-poi che ’l superbo Ilión fu combusto.
+poi che ’l superbo Ilïón fu combusto.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">73<br>74<br>75</td><td>
 A Poet was I, and I sang that just<br>
@@ -556,7 +556,7 @@ A poet I was; and sang of that just son of Anchises, who came from Troy after pr
 <tr><td>Dante</td><td align="right">76<br>77<br>78</td><td>
 Ma tu perché ritorni a tanta noia?<br>
 perché non sali il dilettoso monte<br>
-ch’è principio e cagion di tutta gioia?".
+ch’è principio e cagion di tutta gioia?».
 </td></tr>
 <tr><td>Longfellow</td><td align="right">76<br>77<br>78</td><td>
 But thou, why goest thou back to such annoyance?<br>
@@ -576,9 +576,9 @@ But thou, why returnest thou to such disquiet? why ascendest not the delectable 
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">79<br>80<br>81</td><td>
-"Or se’ tu quel Virgilio e quella fonte<br>
-che spandi di parlar sì largo fiume?",<br>
-rispuos’io lui con vergognosa fronte.
+«Or se’ tu quel Virgilio e quella fonte<br>
+che spandi di parlar sì largo fiume?»,<br>
+rispuos’ io lui con vergognosa fronte.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">79<br>80<br>81</td><td>
 "Now, art thou that Virgilius and that fountain<br>
@@ -598,9 +598,9 @@ replied I to him with bashful front:
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">82<br>83<br>84</td><td>
-"O de li altri poeti onore e lume,<br>
+«O de li altri poeti onore e lume,<br>
 vagliami ’l lungo studio e ’l grande amore<br>
-che m’ ha fatto cercar lo tuo volume.
+che m’ha fatto cercar lo tuo volume.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">82<br>83<br>84</td><td>
 "O, of the other poets honor and light,<br>
@@ -622,7 +622,7 @@ which have made me search thy volume!
 <tr><td>Dante</td><td align="right">85<br>86<br>87</td><td>
 Tu se’ lo mio maestro e ’l mio autore,<br>
 tu se’ solo colui da cu’ io tolsi<br>
-lo bello stilo che m’ ha fatto onore.
+lo bello stilo che m’ha fatto onore.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">85<br>86<br>87</td><td>
 Thou art my master, and my author thou,<br>
@@ -644,7 +644,7 @@ Thou art my master and my author; thou alone art he from whom I took the good st
 <tr><td>Dante</td><td align="right">88<br>89<br>90</td><td>
 Vedi la bestia per cu’ io mi volsi;<br>
 aiutami da lei, famoso saggio,<br>
-ch’ella mi fa tremar le vene e i polsi".
+ch’ella mi fa tremar le vene e i polsi».
 </td></tr>
 <tr><td>Longfellow</td><td align="right">88<br>89<br>90</td><td>
 Behold the beast, for which I have turned back;<br>
@@ -664,9 +664,9 @@ See the beast from which I turned back; help me from her, thou famous sage; for 
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">91<br>92<br>93</td><td>
-"A te convien tenere altro viaggio",<br>
+«A te convien tenere altro vïaggio»,<br>
 rispuose, poi che lagrimar mi vide,<br>
-"se vuo’ campar d’esto loco selvaggio;
+«se vuo’ campar d’esto loco selvaggio;
 </td></tr>
 <tr><td>Longfellow</td><td align="right">91<br>92<br>93</td><td>
 "Thee it behoves to take another road,"<br>
@@ -753,7 +753,7 @@ The animals to which she weds herself are many; and will yet be more, until the 
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">103<br>104<br>105</td><td>
 Questi non ciberà terra né peltro,<br>
-ma sapienza, amore e virtute,<br>
+ma sapïenza, amore e virtute,<br>
 e sua nazion sarà tra feltro e feltro.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">103<br>104<br>105</td><td>
@@ -818,7 +818,7 @@ he shall chase her through every city, till he have put her into Hell again; fro
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">112<br>113<br>114</td><td>
-Ond’io per lo tuo me’ penso e discerno<br>
+Ond’ io per lo tuo me’ penso e discerno<br>
 che tu mi segui, e io sarò tua guida,<br>
 e trarrotti di qui per loco etterno;
 </td></tr>
@@ -907,7 +907,7 @@ then to these, if thou desirest to ascend, there shall be a spirit worthier than
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">124<br>125<br>126</td><td>
 ché quello imperador che là sù regna,<br>
-perch’i’ fu’ ribellante a la sua legge,<br>
+perch’ i’ fu’ ribellante a la sua legge,<br>
 non vuol che ’n sua città per me si vegna.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">124<br>125<br>126</td><td>
@@ -930,7 +930,7 @@ for that Emperor who reigns above, because I was rebellious to his law, wills no
 <tr><td>Dante</td><td align="right">127<br>128<br>129</td><td>
 In tutte parti impera e quivi regge;<br>
 quivi è la sua città e l’alto seggio:<br>
-oh felice colui cu’ ivi elegge!".
+oh felice colui cu’ ivi elegge!».
 </td></tr>
 <tr><td>Longfellow</td><td align="right">127<br>128<br>129</td><td>
 He governs everywhere, and there he reigns;<br>
@@ -950,7 +950,7 @@ In all parts he rules and there holds sway; there is his city, and his high seat
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">130<br>131<br>132</td><td>
-E io a lui: "Poeta, io ti richeggio<br>
+E io a lui: «Poeta, io ti richeggio<br>
 per quello Dio che tu non conoscesti,<br>
 acciò ch’io fugga questo male e peggio,
 </td></tr>
@@ -972,9 +972,9 @@ And I to him: "Poet, I beseech thee by that God whom thou knowest not: in order 
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">133<br>134<br>135</td><td>
-che tu mi meni là dov’or dicesti,<br>
+che tu mi meni là dov’ or dicesti,<br>
 sì ch’io veggia la porta di san Pietro<br>
-e color cui tu fai cotanto mesti".
+e color cui tu fai cotanto mesti».
 </td></tr>
 <tr><td>Longfellow</td><td align="right">133<br>134<br>135</td><td>
 Thou wouldst conduct me there where thou hast said,<br>
@@ -1014,7 +1014,7 @@ Then he moved; and I kept on behind him.
 
 <table>
 <tr><td>Dante</td><td align="right">1<br>2<br>3</td><td>
-Lo giorno se n'andava, e l'aere bruno<br>
+Lo giorno se n’andava, e l’aere bruno<br>
 toglieva li animai che sono in terra<br>
 da le fatiche loro; e io sol uno
 </td></tr>
@@ -1036,7 +1036,7 @@ The day was departing, and the brown air taking the animals, that are on earth, 
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">4<br>5<br>6</td><td>
-m'apparecchiava a sostener la guerra<br>
+m’apparecchiava a sostener la guerra<br>
 sì del cammino e sì de la pietate,<br>
 che ritrarrà la mente che non erra.
 </td></tr>
@@ -1058,8 +1058,8 @@ was preparing myself to bear the war both of the journey and the pity, which mem
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">7<br>8<br>9</td><td>
-O muse, o alto ingegno, or m'aiutate;<br>
-o mente che scrivesti ciò ch'io vidi,<br>
+O muse, o alto ingegno, or m’aiutate;<br>
+o mente che scrivesti ciò ch’io vidi,<br>
 qui si parrà la tua nobilitate.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">7<br>8<br>9</td><td>
@@ -1080,9 +1080,9 @@ O Muses, o high Genius, now help me! O Memory, that hast inscribed what I saw, h
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">10<br>11<br>12</td><td>
-Io cominciai: "Poeta che mi guidi,<br>
-guarda la mia virtù s'ell'è possente,<br>
-prima ch'a l'alto passo tu mi fidi.
+Io cominciai: «Poeta che mi guidi,<br>
+guarda la mia virtù s’ell’ è possente,<br>
+prima ch’a l’alto passo tu mi fidi.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">10<br>11<br>12</td><td>
 And I began: “Poet, who guidest me,<br>
@@ -1102,7 +1102,7 @@ I began: "Poet, who guidest me, look if there be worth in me sufficient, before 
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">13<br>14<br>15</td><td>
-Tu dici che di Silvio il parente,<br>
+Tu dici che di Silvïo il parente,<br>
 corruttibile ancora, ad immortale<br>
 secolo andò, e fu sensibilmente.
 </td></tr>
@@ -1124,9 +1124,9 @@ Thou sayest that the father of Sylvius, while subject to corruption, went to the
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">16<br>17<br>18</td><td>
-Però, se l'avversario d'ogne male<br>
-cortese i fu, pensando l'alto effetto<br>
-ch'uscir dovea di lui, e 'l chi e 'l quale
+Però, se l’avversario d’ogne male<br>
+cortese i fu, pensando l’alto effetto<br>
+ch’uscir dovea di lui, e ’l chi e ’l quale
 </td></tr>
 <tr><td>Longfellow</td><td align="right">16<br>17<br>18</td><td>
 But if the adversary of all evil<br>
@@ -1146,9 +1146,9 @@ But if the Adversary of all evil was propitious to him, considering the high eff
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">19<br>20<br>21</td><td>
-non pare indegno ad omo d'intelletto;<br>
-ch'e' fu de l'alma Roma e di suo impero<br>
-ne l'empireo ciel per padre eletto:
+non pare indegno ad omo d’intelletto;<br>
+ch’e’ fu de l’alma Roma e di suo impero<br>
+ne l’empireo ciel per padre eletto:
 </td></tr>
 <tr><td>Longfellow</td><td align="right">19<br>20<br>21</td><td>
 To men of intellect unmeet it seems not;<br>
@@ -1168,9 +1168,9 @@ it seems not unfitting to an understanding mind: for in the empyreal heaven, he 
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">22<br>23<br>24</td><td>
-la quale e 'l quale, a voler dir lo vero,<br>
+la quale e ’l quale, a voler dir lo vero,<br>
 fu stabilita per lo loco santo<br>
-u' siede il successor del maggior Piero.
+u’ siede il successor del maggior Piero.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">22<br>23<br>24</td><td>
 The which and what, wishing to speak the truth,<br>
@@ -1190,7 +1190,7 @@ both these, to say the truth, were established for the holy place, where the Suc
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">25<br>26<br>27</td><td>
-Per quest'andata onde li dai tu vanto,<br>
+Per quest’ andata onde li dai tu vanto,<br>
 intese cose che furon cagione<br>
 di sua vittoria e del papale ammanto.
 </td></tr>
@@ -1212,9 +1212,9 @@ By this journey, for which thou honourest him, he learned things that were the c
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">28<br>29<br>30</td><td>
-Andovvi poi lo Vas d'elezione,<br>
+Andovvi poi lo Vas d’elezïone,<br>
 per recarne conforto a quella fede<br>
-ch'è principio a la via di salvazione.
+ch’è principio a la via di salvazione.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">28<br>29<br>30</td><td>
 Thither went afterwards the Chosen Vessel,<br>
@@ -1234,9 +1234,9 @@ Afterwards, the Chosen Vessel went thither, to bring confirmation of that Faith 
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">31<br>32<br>33</td><td>
-Ma io, perché venirvi? o chi 'l concede?<br>
-Io non Enea, io non Paulo sono;<br>
-me degno a ciò né io né altri 'l crede.
+Ma io, perché venirvi? o chi ’l concede?<br>
+Io non Enëa, io non Paulo sono;<br>
+me degno a ciò né io né altri ’l crede.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">31<br>32<br>33</td><td>
 But I, why thither come, or who concedes it?<br>
@@ -1256,9 +1256,9 @@ But I, why go? or who permits it? I am not Aeneas, am not Paul; neither myself n
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">34<br>35<br>36</td><td>
-Per che, se del venire io m'abbandono,<br>
+Per che, se del venire io m’abbandono,<br>
 temo che la venuta non sia folle.<br>
-Se' savio; intendi me' ch'i' non ragiono".
+Se’ savio; intendi me’ ch’i’ non ragiono».
 </td></tr>
 <tr><td>Longfellow</td><td align="right">34<br>35<br>36</td><td>
 Therefore, if I resign myself to come,<br>
@@ -1300,8 +1300,8 @@ And as one who unwills what he willed, and with new thoughts changes his purpose
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">40<br>41<br>42</td><td>
-tal mi fec'io 'n quella oscura costa,<br>
-perché, pensando, consumai la 'mpresa<br>
+tal mi fec’ ïo ’n quella oscura costa,<br>
+perché, pensando, consumai la ’mpresa<br>
 che fu nel cominciar cotanto tosta.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">40<br>41<br>42</td><td>
@@ -1322,9 +1322,9 @@ such I made myself on that dim coast: for with thinking I wasted the enterprise,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">43<br>44<br>45</td><td>
-"S'i' ho ben la parola tua intesa",<br>
-rispuose del magnanimo quell'ombra,<br>
-"l'anima tua è da viltade offesa;
+«S’i’ ho ben la parola tua intesa»,<br>
+rispuose del magnanimo quell’ ombra,<br>
+«l’anima tua è da viltade offesa;
 </td></tr>
 <tr><td>Longfellow</td><td align="right">43<br>44<br>45</td><td>
 “If I have well thy language understood,”<br>
@@ -1344,9 +1344,9 @@ replied that shade of the magnanimous one,<br>
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">46<br>47<br>48</td><td>
-la qual molte fiate l'omo ingombra<br>
-sì che d'onrata impresa lo rivolve,<br>
-come falso veder bestia quand'ombra.
+la qual molte fïate l’omo ingombra<br>
+sì che d’onrata impresa lo rivolve,<br>
+come falso veder bestia quand’ ombra.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">46<br>47<br>48</td><td>
 Which many times a man encumbers so,<br>
@@ -1367,7 +1367,7 @@ which oftentimes encumbers men, so that it turns them back from honoured enterpr
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">49<br>50<br>51</td><td>
 Da questa tema acciò che tu ti solve,<br>
-dirotti perch'io venni e quel ch'io 'ntesi<br>
+dirotti perch’ io venni e quel ch’io ’ntesi<br>
 nel primo punto che di te mi dolve.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">49<br>50<br>51</td><td>
@@ -1432,9 +1432,9 @@ Her eyes shone brighter than the stars; and she began soft and gentle to tell me
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">58<br>59<br>60</td><td>
-"O anima cortese mantoana,<br>
+“O anima cortese mantoana,<br>
 di cui la fama ancor nel mondo dura,<br>
-e durerà quanto 'l mondo lontana,
+e durerà quanto ’l mondo lontana,
 </td></tr>
 <tr><td>Longfellow</td><td align="right">58<br>59<br>60</td><td>
 ‘O spirit courteous of Mantua,<br>
@@ -1454,9 +1454,9 @@ and shall last so long as the world endureth!
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">61<br>62<br>63</td><td>
-l'amico mio, e non de la ventura,<br>
+l’amico mio, e non de la ventura,<br>
 ne la diserta piaggia è impedito<br>
-sì nel cammin, che vòlt'è per paura;
+sì nel cammin, che vòlt’ è per paura;
 </td></tr>
 <tr><td>Longfellow</td><td align="right">61<br>62<br>63</td><td>
 A friend of mine, and not the friend of fortune,<br>
@@ -1477,8 +1477,8 @@ my friend, and not the friend of fortune, is so impeded in his way upon the dese
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">64<br>65<br>66</td><td>
 e temo che non sia già sì smarrito,<br>
-ch'io mi sia tardi al soccorso levata,<br>
-per quel ch'i' ho di lui nel cielo udito.
+ch’io mi sia tardi al soccorso levata,<br>
+per quel ch’i’ ho di lui nel cielo udito.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">64<br>65<br>66</td><td>
 And may, I fear, already be so lost,<br>
@@ -1499,8 +1499,8 @@ and I fear he may already be so far astray, that I have risen too late for his r
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">67<br>68<br>69</td><td>
 Or movi, e con la tua parola ornata<br>
-e con ciò c' ha mestieri al suo campare,<br>
-l'aiuta sì ch'i' ne sia consolata.
+e con ciò c’ha mestieri al suo campare,<br>
+l’aiuta sì ch’i’ ne sia consolata.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">67<br>68<br>69</td><td>
 Bestir thee now, and with thy speech ornate,<br>
@@ -1520,7 +1520,7 @@ Now go, and with thy ornate speech, and with what is necessary for his escape, h
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">70<br>71<br>72</td><td>
-I' son Beatrice che ti faccio andare;<br>
+I’ son Beatrice che ti faccio andare;<br>
 vegno del loco ove tornar disio;<br>
 amor mi mosse, che mi fa parlare.
 </td></tr>
@@ -1543,8 +1543,8 @@ I am Beatrice who send thee; I come from a place where I desire to return; love 
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">73<br>74<br>75</td><td>
 Quando sarò dinanzi al segnor mio,<br>
-di te mi loderò sovente a lui".<br>
-Tacette allora, e poi comincia' io:
+di te mi loderò sovente a lui”.<br>
+Tacette allora, e poi comincia’ io:
 </td></tr>
 <tr><td>Longfellow</td><td align="right">73<br>74<br>75</td><td>
 When I shall be in presence of my Lord,<br>
@@ -1564,9 +1564,9 @@ When I shall be before my Lord, I oft will praise thee to him.' She was silent t
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">76<br>77<br>78</td><td>
-"O donna di virtù sola per cui<br>
-l'umana spezie eccede ogne contento<br>
-di quel ciel c' ha minor li cerchi sui,
+“O donna di virtù sola per cui<br>
+l’umana spezie eccede ogne contento<br>
+di quel ciel c’ha minor li cerchi sui,
 </td></tr>
 <tr><td>Longfellow</td><td align="right">76<br>77<br>78</td><td>
 ‘O Lady of virtue, thou alone through whom<br>
@@ -1586,9 +1586,9 @@ within that heaven which hath the smallest circles!
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">79<br>80<br>81</td><td>
-tanto m'aggrada il tuo comandamento,<br>
-che l'ubidir, se già fosse, m'è tardi;<br>
-più non t'è uo' ch'aprirmi il tuo talento.
+tanto m’aggrada il tuo comandamento,<br>
+che l’ubidir, se già fosse, m’è tardi;<br>
+più non t’è uo’ ch’aprirmi il tuo talento.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">79<br>80<br>81</td><td>
 So grateful unto me is thy commandment,<br>
@@ -1610,7 +1610,7 @@ so grateful to me is thy command, that my obeying, were it done already, seems t
 <tr><td>Dante</td><td align="right">82<br>83<br>84</td><td>
 Ma dimmi la cagion che non ti guardi<br>
 de lo scender qua giuso in questo centro<br>
-de l'ampio loco ove tornar tu ardi".
+de l’ampio loco ove tornar tu ardi”.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">82<br>83<br>84</td><td>
 But the cause tell me why thou dost not shun<br>
@@ -1630,9 +1630,9 @@ But tell me the cause, why thou forbearest not to descend into this centre here 
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">85<br>86<br>87</td><td>
-"Da che tu vuo' saver cotanto a dentro,<br>
-dirotti brievemente", mi rispuose,<br>
-"perch'i' non temo di venir qua entro.
+“Da che tu vuo’ saver cotanto a dentro,<br>
+dirotti brievemente”, mi rispuose,<br>
+“perch’ i’ non temo di venir qua entro.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">85<br>86<br>87</td><td>
 ‘Since thou wouldst fain so inwardly discern,<br>
@@ -1653,8 +1653,8 @@ I will tell thee briefly,’ she replied to me,<br>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">88<br>89<br>90</td><td>
 Temer si dee di sole quelle cose<br>
-c' hanno potenza di fare altrui male;<br>
-de l'altre no, ché non son paurose.
+c’hanno potenza di fare altrui male;<br>
+de l’altre no, ché non son paurose.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">88<br>89<br>90</td><td>
 Of those things only should one be afraid<br>
@@ -1674,9 +1674,9 @@ Those things alone are to be feared that have the power of hurting; the others n
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">91<br>92<br>93</td><td>
-I' son fatta da Dio, sua mercé, tale,<br>
+I’ son fatta da Dio, sua mercé, tale,<br>
 che la vostra miseria non mi tange,<br>
-né fiamma d'esto 'ncendio non m'assale.
+né fiamma d’esto ’ncendio non m’assale.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">91<br>92<br>93</td><td>
 God in his mercy such created me<br>
@@ -1697,7 +1697,7 @@ I am made such by God, in his grace, that your misery does not touch me; nor the
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">94<br>95<br>96</td><td>
 Donna è gentil nel ciel che si compiange<br>
-di questo 'mpedimento ov'io ti mando,<br>
+di questo ’mpedimento ov’ io ti mando,<br>
 sì che duro giudicio là sù frange.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">94<br>95<br>96</td><td>
@@ -1719,8 +1719,8 @@ There is a noble Lady in Heaven who has such pity of this hindrance, for which I
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">97<br>98<br>99</td><td>
 Questa chiese Lucia in suo dimando<br>
-e disse: - Or ha bisogno il tuo fedele<br>
-di te, e io a te lo raccomando -.
+e disse:—Or ha bisogno il tuo fedele<br>
+di te, e io a te lo raccomando—.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">97<br>98<br>99</td><td>
 In her entreaty she besought Lucia,<br>
@@ -1741,8 +1741,8 @@ She called Lucia, in her request, and said: "Now thy faithful one has need of th
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">100<br>101<br>102</td><td>
 Lucia, nimica di ciascun crudele,<br>
-si mosse, e venne al loco dov'i' era,<br>
-che mi sedea con l'antica Rachele.
+si mosse, e venne al loco dov’ i’ era,<br>
+che mi sedea con l’antica Rachele.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">100<br>101<br>102</td><td>
 Lucia, foe of all that cruel is,<br>
@@ -1762,9 +1762,9 @@ Lucia, enemy of all cruelty, arose and carne to the place where I was sitting wi
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">103<br>104<br>105</td><td>
-Disse: - Beatrice, loda di Dio vera,<br>
-ché non soccorri quei che t'amò tanto,<br>
-ch'uscì per te de la volgare schiera?
+Disse:—Beatrice, loda di Dio vera,<br>
+ché non soccorri quei che t’amò tanto,<br>
+ch’uscì per te de la volgare schiera?
 </td></tr>
 <tr><td>Longfellow</td><td align="right">103<br>104<br>105</td><td>
 “Beatrice” said she, “the true praise of God,<br>
@@ -1785,8 +1785,8 @@ She said: "Beatrice, true praise of God; why helpest thou not him who loved thee
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">106<br>107<br>108</td><td>
 Non odi tu la pieta del suo pianto,<br>
-non vedi tu la morte che 'l combatte<br>
-su la fiumana ove 'l mar non ha vanto? -.
+non vedi tu la morte che ’l combatte<br>
+su la fiumana ove ’l mar non ha vanto?—.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">106<br>107<br>108</td><td>
 Dost thou not hear the pity of his plaint?<br>
@@ -1808,7 +1808,7 @@ Hearest not thou the misery of his plaint? Seest thou not the death which combat
 <tr><td>Dante</td><td align="right">109<br>110<br>111</td><td>
 Al mondo non fur mai persone ratte<br>
 a far lor pro o a fuggir lor danno,<br>
-com'io, dopo cotai parole fatte,
+com’ io, dopo cotai parole fatte,
 </td></tr>
 <tr><td>Longfellow</td><td align="right">109<br>110<br>111</td><td>
 Never were persons in the world so swift<br>
@@ -1830,7 +1830,7 @@ None on earth were ever swift to seek their good, or flee their hurt, as I, afte
 <tr><td>Dante</td><td align="right">112<br>113<br>114</td><td>
 venni qua giù del mio beato scanno,<br>
 fidandomi del tuo parlare onesto,<br>
-ch'onora te e quei ch'udito l' hanno".
+ch’onora te e quei ch’udito l’hanno”.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">112<br>113<br>114</td><td>
 Came hither downward from my blessed seat,<br>
@@ -1850,7 +1850,7 @@ to come from my blessed seat; confiding in thy noble speech, which honours thee,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">115<br>116<br>117</td><td>
-Poscia che m'ebbe ragionato questo,<br>
+Poscia che m’ebbe ragionato questo,<br>
 li occhi lucenti lagrimando volse,<br>
 per che mi fece del venir più presto.
 </td></tr>
@@ -1872,8 +1872,8 @@ After saying this to me, she turned away her bright eyes weeping; by which she m
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">118<br>119<br>120</td><td>
-E venni a te così com'ella volse:<br>
-d'inanzi a quella fiera ti levai<br>
+E venni a te così com’ ella volse:<br>
+d’inanzi a quella fiera ti levai<br>
 che del bel monte il corto andar ti tolse.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">118<br>119<br>120</td><td>
@@ -1894,7 +1894,7 @@ and thus I came to thee, as she desired; took thee from before that savage beast
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">121<br>122<br>123</td><td>
-Dunque: che è perché, perché restai,<br>
+Dunque: che è? perché, perché restai,<br>
 perché tanta viltà nel core allette,<br>
 perché ardire e franchezza non hai,
 </td></tr>
@@ -1918,7 +1918,7 @@ What is it then? why, why haltest thou? why lodgest in thy heart such coward fea
 <tr><td>Dante</td><td align="right">124<br>125<br>126</td><td>
 poscia che tai tre donne benedette<br>
 curan di te ne la corte del cielo,<br>
-e 'l mio parlar tanto ben ti promette?".
+e ’l mio parlar tanto ben ti promette?».
 </td></tr>
 <tr><td>Longfellow</td><td align="right">124<br>125<br>126</td><td>
 Seeing that three such Ladies benedight<br>
@@ -1939,7 +1939,7 @@ when three such blessed Ladies care for thee in the court of Heaven, and my word
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">127<br>128<br>129</td><td>
 Quali fioretti dal notturno gelo<br>
-chinati e chiusi, poi che 'l sol li 'mbianca,<br>
+chinati e chiusi, poi che ’l sol li ’mbianca,<br>
 si drizzan tutti aperti in loro stelo,
 </td></tr>
 <tr><td>Longfellow</td><td align="right">127<br>128<br>129</td><td>
@@ -1960,9 +1960,9 @@ As flowerets, by the nightly chillness bended down and closed, erect themselves 
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">130<br>131<br>132</td><td>
-tal mi fec'io di mia virtude stanca,<br>
+tal mi fec’ io di mia virtude stanca,<br>
 e tanto buono ardire al cor mi corse,<br>
-ch'i' cominciai come persona franca:
+ch’i’ cominciai come persona franca:
 </td></tr>
 <tr><td>Longfellow</td><td align="right">130<br>131<br>132</td><td>
 Such I became with my exhausted strength,<br>
@@ -1982,8 +1982,8 @@ thus I did, with my fainting courage; and so much good daring ran into my heart,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">133<br>134<br>135</td><td>
-"Oh pietosa colei che mi soccorse!<br>
-e te cortese ch'ubidisti tosto<br>
+«Oh pietosa colei che mi soccorse!<br>
+e te cortese ch’ubidisti tosto<br>
 a le vere parole che ti porse!
 </td></tr>
 <tr><td>Longfellow</td><td align="right">133<br>134<br>135</td><td>
@@ -2004,9 +2004,9 @@ the true words that she addressed to thee!
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">136<br>137<br>138</td><td>
-Tu m' hai con disiderio il cor disposto<br>
+Tu m’hai con disiderio il cor disposto<br>
 sì al venir con le parole tue,<br>
-ch'i' son tornato nel primo proposto.
+ch’i’ son tornato nel primo proposto.
 </td></tr>
 <tr><td>Longfellow</td><td align="right">136<br>137<br>138</td><td>
 Thou hast my heart so with desire disposed<br>
@@ -2026,8 +2026,8 @@ Thou hast disposed my heart with such desire to go, by what thou sayest, that I 
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">139<br>140<br>141</td><td>
-Or va, ch'un sol volere è d'ambedue:<br>
-tu duca, tu segnore e tu maestro".<br>
+Or va, ch’un sol volere è d’ambedue:<br>
+tu duca, tu segnore e tu maestro».<br>
 Così li dissi; e poi che mosso fue,
 </td></tr>
 <tr><td>Longfellow</td><td align="right">139<br>140<br>141</td><td>

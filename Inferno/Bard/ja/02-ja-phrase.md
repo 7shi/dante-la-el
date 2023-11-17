@@ -1,4 +1,4 @@
-1 Lo giorno se n'andava, e l'aere bruno  
+1 Lo giorno se n’andava, e l’aere bruno  
 1 日は去り、そして暗い空気は
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -22,7 +22,7 @@
 <td>e io sol uno<br>そして私は一人だけ</td>
 </tr></table>
 
-4 m'apparecchiava a sostener la guerra  
+4 m’apparecchiava a sostener la guerra  
 4 戦いに耐える準備をしていた、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -48,7 +48,7 @@
 <td>la mente che non erra<br>誤りのない精神</td>
 </tr></table>
 
-7 O muse, o alto ingegno, or m'aiutate;  
+7 O muse, o alto ingegno, or m’aiutate;  
 7 ミューズたちよ、高き才能よ、今、私を助けてくれ。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -58,7 +58,7 @@
 <td>m'aiutate<br>私を助けてくれ</td>
 </tr></table>
 
-8 o mente che scrivesti ciò ch'io vidi,  
+8 o mente che scrivesti ciò ch’io vidi,  
 8 私が見たものを書き記した精神よ、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -75,7 +75,7 @@
 <td>la tua nobilitate<br>あなたの高貴さ</td>
 </tr></table>
 
-10 Io cominciai: "Poeta che mi guidi,  
+10 Io cominciai: «Poeta che mi guidi,  
 10 私は言い始めた。「私を導く詩人よ、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -84,7 +84,7 @@
 <td>Poeta che mi guidi<br>私を導く詩人よ</td>
 </tr></table>
 
-11 guarda la mia virtù s'ell'è possente,  
+11 guarda la mia virtù s’ell’ è possente,  
 11 私の力がどれほど強いかを見てください、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -93,7 +93,7 @@
 <td>s'ell'è possente<br>どれほど強いか</td>
 </tr></table>
 
-12 prima ch'a l'alto passo tu mi fidi.  
+12 prima ch’a l’alto passo tu mi fidi.  
 12 高みへの道に私を導く前に。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -102,7 +102,7 @@
 <td>tu mi fidi<br>私を導く</td>
 </tr></table>
 
-13 Tu dici che di Silvio il parente,  
+13 Tu dici che di Silvïo il parente,  
 13 あなたは言います、シルウィウスの父が、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -130,7 +130,7 @@
 <td>fu sensibilmente<br>感覚的だ</td>
 </tr></table>
 
-16 Però, se l'avversario d'ogne male  
+16 Però, se l’avversario d’ogne male  
 16 しかし、もしもすべての悪の敵が
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -138,7 +138,7 @@
 <td>se l'avversario d'ogne male<br>すべての悪の敵が</td>
 </tr></table>
 
-17 cortese i fu, pensando l'alto effetto  
+17 cortese i fu, pensando l’alto effetto  
 17 彼に親切だったのなら、その高貴な効果を思いながら、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -147,7 +147,7 @@
 <td>pensando l'alto effetto<br>その高貴な効果を思いながら</td>
 </tr></table>
 
-18 ch'uscir dovea di lui, e 'l chi e 'l quale  
+18 ch’uscir dovea di lui, e ’l chi e ’l quale  
 18 彼から生まれるはずだったもの、そして彼が誰で、何者であるか
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -155,7 +155,7 @@
 <td>e 'l chi e 'l quale<br>そして彼が誰で、何者であるか</td>
 </tr></table>
 
-19 non pare indegno ad omo d'intelletto;  
+19 non pare indegno ad omo d’intelletto;  
 19 賢い者には無価値に思えません。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -164,7 +164,7 @@
 <td>ad omo d'intelletto<br>賢い者に</td>
 </tr></table>
 
-20 ch'e' fu de l'alma Roma e di suo impero  
+20 ch’e’ fu de l’alma Roma e di suo impero  
 20 彼は魂のローマとその帝国の
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -172,7 +172,7 @@
 <td>de l'alma Roma e di suo impero<br>魂のローマとその帝国の</td>
 </tr></table>
 
-21 ne l'empireo ciel per padre eletto:  
+21 ne l’empireo ciel per padre eletto:  
 21 天の帝国で父として選ばれました。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -180,7 +180,7 @@
 <td>per padre eletto<br>父として選ばれた</td>
 </tr></table>
 
-22 la quale e 'l quale, a voler dir lo vero,  
+22 la quale e ’l quale, a voler dir lo vero,  
 22 そのローマとその帝国は、真実を語るならば、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -199,7 +199,7 @@
 <td>lo loco santo<br>聖なる場所</td>
 </tr></table>
 
-24 u' siede il successor del maggior Piero.  
+24 u’ siede il successor del maggior Piero.  
 24 偉大なペトロの継承者が座る場所として。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -208,7 +208,7 @@
 <td>il successor del maggior Piero<br>偉大なペトロの継承者</td>
 </tr></table>
 
-25 Per quest'andata onde li dai tu vanto,  
+25 Per quest’ andata onde li dai tu vanto,  
 25 この旅によって、あなたは彼に賞賛を与えています、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -234,7 +234,7 @@
 <td>del papale ammanto<br>教皇の権威の</td>
 </tr></table>
 
-28 Andovvi poi lo Vas d'elezione,  
+28 Andovvi poi lo Vas d’elezïone,  
 28 その後、選ばれし器はそこへ行きました、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -253,7 +253,7 @@
 <td>a quella fede<br>信仰</td>
 </tr></table>
 
-30 ch'è principio a la via di salvazione.  
+30 ch’è principio a la via di salvazione.  
 30 救いの道の始まりです。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -262,7 +262,7 @@
 <td>a la via di salvazione<br>救いの道</td>
 </tr></table>
 
-31 Ma io, perché venirvi? o chi 'l concede?  
+31 Ma io, perché venirvi? o chi ’l concede?  
 31 でも、なぜここに来なければならないのですか？誰が許してくれるのですか？
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -272,7 +272,7 @@
 <td>o chi 'l concede?<br>誰が許してくれるのか？</td>
 </tr></table>
 
-32 Io non Enea, io non Paulo sono;  
+32 Io non Enëa, io non Paulo sono;  
 32 私はアエネーアースでもパウロでもありません。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -282,7 +282,7 @@
 <td>non Paulo<br>パウロではない</td>
 </tr></table>
 
-33 me degno a ciò né io né altri 'l crede.  
+33 me degno a ciò né io né altri ’l crede.  
 33 私も他の人も、私がそれにふさわしいとは思いません。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -294,7 +294,7 @@
 <td>né altri 'l crede<br>他の人もそれを信じない</td>
 </tr></table>
 
-34 Per che, se del venire io m'abbandono,  
+34 Per che, se del venire io m’abbandono,  
 34 そのため、私が来ることを諦めたなら、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -311,7 +311,7 @@
 <td>non sia folle<br>愚かなことにならないか</td>
 </tr></table>
 
-36 Se' savio; intendi me' ch'i' non ragiono".  
+36 Se’ savio; intendi me’ ch’i’ non ragiono».  
 36 あなたは賢明です。私が言わなくても承知しています。」
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -347,7 +347,7 @@
 <td>tutto si tolle<br>すべて取り消す</td>
 </tr></table>
 
-40 tal mi fec'io 'n quella oscura costa,  
+40 tal mi fec’ ïo ’n quella oscura costa,  
 40 同じように、私はその暗い海岸でそうした、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -355,7 +355,7 @@
 <td>'n quella oscura costa<br>その暗い海岸で</td>
 </tr></table>
 
-41 perché, pensando, consumai la 'mpresa  
+41 perché, pensando, consumai la ’mpresa  
 41 なぜなら、考えることで、私はその事業を消費してしまった、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -373,7 +373,7 @@
 <td>cotanto tosta<br>とても意欲的だった</td>
 </tr></table>
 
-43 "S'i' ho ben la parola tua intesa",  
+43 «S’i’ ho ben la parola tua intesa»,  
 43 「もし私があなたの言葉を正しく理解したのなら」
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -383,7 +383,7 @@
 <td>intesa<br>理解した</td>
 </tr></table>
 
-44 rispuose del magnanimo quell'ombra,  
+44 rispuose del magnanimo quell’ ombra,  
 44 高貴なその影は答えた、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -392,7 +392,7 @@
 <td>quell'ombra<br>その影</td>
 </tr></table>
 
-45 "l'anima tua è da viltade offesa;  
+45 «l’anima tua è da viltade offesa;  
 45 「あなたの魂は臆病さによって傷ついている。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -400,7 +400,7 @@
 <td>è da viltade offesa<br>臆病さによって傷ついている</td>
 </tr></table>
 
-46 la qual molte fiate l'omo ingombra  
+46 la qual molte fïate l’omo ingombra  
 46 卑劣さは、しばしば人を覆う、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -409,7 +409,7 @@
 <td>l'omo ingombra<br>人を覆う</td>
 </tr></table>
 
-47 sì che d'onrata impresa lo rivolve,  
+47 sì che d’onrata impresa lo rivolve,  
 47 そのため、人は高潔な事業から引き返す、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -418,7 +418,7 @@
 <td>lo rivolve<br>引き返す</td>
 </tr></table>
 
-48 come falso veder bestia quand'ombra.  
+48 come falso veder bestia quand’ ombra.  
 48 偽りの幻影が獣を脅かすように。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -435,7 +435,7 @@
 <td>acciò che tu ti solve<br>あなたが解放されるために</td>
 </tr></table>
 
-50 dirotti perch'io venni e quel ch'io 'ntesi  
+50 dirotti perch’ io venni e quel ch’io ’ntesi  
 50 私が来た理由と、私が聞いたことをあなたに話す、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -506,7 +506,7 @@
 <td>in sua favella<br>彼女の言葉で</td>
 </tr></table>
 
-58 "O anima cortese mantoana,  
+58 “O anima cortese mantoana,  
 58 『ああ、優雅なマントヴァの魂よ。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -523,7 +523,7 @@
 <td>ancor nel mondo dura<br>まだ世界で続く</td>
 </tr></table>
 
-60 e durerà quanto 'l mondo lontana,  
+60 e durerà quanto ’l mondo lontana,  
 60 世界が存在する限り続くことでしょう。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -532,7 +532,7 @@
 <td>quanto 'l mondo lontana<br>世界が離れるほど</td>
 </tr></table>
 
-61 l'amico mio, e non de la ventura,  
+61 l’amico mio, e non de la ventura,  
 61 私の友人は、運命ではなく、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -548,7 +548,7 @@
 <td>è impedito<br>阻まれる</td>
 </tr></table>
 
-63 sì nel cammin, che vòlt'è per paura;  
+63 sì nel cammin, che vòlt’ è per paura;  
 63 その道を、恐怖によって引き返しました。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -566,7 +566,7 @@
 <td>che non sia già sì smarrito<br>彼が既にそれほど道に迷ったこと</td>
 </tr></table>
 
-65 ch'io mi sia tardi al soccorso levata,  
+65 ch’io mi sia tardi al soccorso levata,  
 65 私が助けに行くのが遅すぎたのではないかと、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -575,7 +575,7 @@
 <td>levata<br>駆けつけた</td>
 </tr></table>
 
-66 per quel ch'i' ho di lui nel cielo udito.  
+66 per quel ch’i’ ho di lui nel cielo udito.  
 66 彼について私が天国で聞いたことによれば。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -596,7 +596,7 @@
 <td>con la tua parola ornata<br>あなたの美しい言葉で</td>
 </tr></table>
 
-68 e con ciò c' ha mestieri al suo campare,  
+68 e con ciò c’ha mestieri al suo campare,  
 68 そして彼が生きるために必要なもので、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -604,7 +604,7 @@
 <td>ciò c' ha mestieri al suo campare<br>彼の生存に必要なもの</td>
 </tr></table>
 
-69 l'aiuta sì ch'i' ne sia consolata.  
+69 l’aiuta sì ch’i’ ne sia consolata.  
 69 彼を助けて、私が慰められるように。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -612,7 +612,7 @@
 <td>sì ch'i' ne sia consolata<br>私が慰められるように</td>
 </tr></table>
 
-70 I' son Beatrice che ti faccio andare;  
+70 I’ son Beatrice che ti faccio andare;  
 70 私はベアトリーチェです。あなたが旅立つようにしました。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -650,7 +650,7 @@
 <td>al segnor mio<br>私の主の前で</td>
 </tr></table>
 
-74 di te mi loderò sovente a lui".  
+74 di te mi loderò sovente a lui”.  
 74 私はあなたをしばしば彼に褒め称えるでしょう。』
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -660,7 +660,7 @@
 <td>a lui<br>彼に</td>
 </tr></table>
 
-75 Tacette allora, e poi comincia' io:  
+75 Tacette allora, e poi comincia’ io:  
 75 その後、彼女は黙り、私は話し始めた。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -670,7 +670,7 @@
 <td>comincia' io<br>私は始めた</td>
 </tr></table>
 
-76 "O donna di virtù sola per cui  
+76 “O donna di virtù sola per cui  
 76 『おお、唯一の徳を持つ女性よ。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -679,7 +679,7 @@
 <td>sola per cui<br>彼女だけが</td>
 </tr></table>
 
-77 l'umana spezie eccede ogne contento  
+77 l’umana spezie eccede ogne contento  
 77 あなたによって人類は、すべての内に秘めることを超えます、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -688,7 +688,7 @@
 <td>ogne contento<br>すべての内に秘めることを</td>
 </tr></table>
 
-78 di quel ciel c' ha minor li cerchi sui,  
+78 di quel ciel c’ha minor li cerchi sui,  
 78 小さい円を持つ天の、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -696,7 +696,7 @@
 <td>c' ha minor li cerchi sui<br>小さい円を持つ</td>
 </tr></table>
 
-79 tanto m'aggrada il tuo comandamento,  
+79 tanto m’aggrada il tuo comandamento,  
 79 あなたの命令は私をとても喜ばせます。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -705,7 +705,7 @@
 <td>il tuo comandamento<br>あなたの命令</td>
 </tr></table>
 
-80 che l'ubidir, se già fosse, m'è tardi;  
+80 che l’ubidir, se già fosse, m’è tardi;  
 80 もしすでに命令されていたとしても、私には私には遅すぎます。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -714,7 +714,7 @@
 <td>m'è tardi<br>私には遅すぎる</td>
 </tr></table>
 
-81 più non t'è uo' ch'aprirmi il tuo talento.  
+81 più non t’è uo’ ch’aprirmi il tuo talento.  
 81 あなたの才能を私に開く必要はありません。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -743,7 +743,7 @@
 <td>in questo centro<br>この中心に</td>
 </tr></table>
 
-84 de l'ampio loco ove tornar tu ardi".  
+84 de l’ampio loco ove tornar tu ardi”.  
 84 あなたが戻ることを願っている広い場所から。』
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -751,7 +751,7 @@
 <td>ove tornar tu ardi<br>あなたが戻ることを願っている場所</td>
 </tr></table>
 
-85 "Da che tu vuo' saver cotanto a dentro,  
+85 “Da che tu vuo’ saver cotanto a dentro,  
 85 『あなたがそれほど深く知りたいのなら
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -763,7 +763,7 @@
 <td>a dentro<br>内側に</td>
 </tr></table>
 
-86 dirotti brievemente", mi rispuose,  
+86 dirotti brievemente”, mi rispuose,  
 86 簡単に話しましょう。』私に答えた、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -772,7 +772,7 @@
 <td>mi rispuose<br>私に答えました</td>
 </tr></table>
 
-87 "perch'i' non temo di venir qua entro.  
+87 “perch’ i’ non temo di venir qua entro.  
 87 『なぜ私がここに来ることを恐れないのか。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -791,7 +791,7 @@
 <td>di sole quelle cose<br>唯一のそれらの事柄</td>
 </tr></table>
 
-89 c' hanno potenza di fare altrui male;  
+89 c’hanno potenza di fare altrui male;  
 89 他人に害を及ぼす力を持っているもの。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -803,7 +803,7 @@
 <td>male<br>悪い</td>
 </tr></table>
 
-90 de l'altre no, ché non son paurose.  
+90 de l’altre no, ché non son paurose.  
 90 他は恐れません、恐ろしくないので。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -813,7 +813,7 @@
 <td>non son paurose<br>恐ろしくはない</td>
 </tr></table>
 
-91 I' son fatta da Dio, sua mercé, tale,  
+91 I’ son fatta da Dio, sua mercé, tale,  
 91 神の慈悲によって、私はそのような存在にされました。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -833,7 +833,7 @@
 <td>non mi tange<br>私を傷つけない</td>
 </tr></table>
 
-93 né fiamma d'esto 'ncendio non m'assale.  
+93 né fiamma d’esto ’ncendio non m’assale.  
 93 この炎は私を攻撃しません。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -852,7 +852,7 @@
 <td>che si compiange<br>同情する</td>
 </tr></table>
 
-95 di questo 'mpedimento ov'io ti mando,  
+95 di questo ’mpedimento ov’ io ti mando,  
 95 私があなたを送ったこの障害に、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -881,7 +881,7 @@
 <td>in suo dimando<br>彼女の要求で</td>
 </tr></table>
 
-98 e disse: - Or ha bisogno il tuo fedele  
+98 e disse:—Or ha bisogno il tuo fedele  
 98 言いました。【今、あなたに忠実な者は必要としています、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -890,7 +890,7 @@
 <td>il tuo fedele<br>- あなたに忠実な者</td>
 </tr></table>
 
-99 di te, e io a te lo raccomando -.  
+99 di te, e io a te lo raccomando—.  
 99 あなたを、そして私はあなたに彼を推薦します。】
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -907,7 +907,7 @@
 <td>di ciascun crudele<br>すべての残酷な人々の</td>
 </tr></table>
 
-101 si mosse, e venne al loco dov'i' era,  
+101 si mosse, e venne al loco dov’ i’ era,  
 101 私がいた場所にやって来ました、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -916,7 +916,7 @@
 <td>al loco dov'i' era<br>私がいた場所に</td>
 </tr></table>
 
-102 che mi sedea con l'antica Rachele.  
+102 che mi sedea con l’antica Rachele.  
 102 古代のラケルと一緒に座っていた場所に。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -924,7 +924,7 @@
 <td>con l'antica Rachele<br>古いラケルと一緒に</td>
 </tr></table>
 
-103 Disse: - Beatrice, loda di Dio vera,  
+103 Disse:—Beatrice, loda di Dio vera,  
 103 彼女は言いました。【ベアトリーチェ、神の真の誉れ、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -933,7 +933,7 @@
 <td>loda di Dio vera<br>真の神の誉れ</td>
 </tr></table>
 
-104 ché non soccorri quei che t'amò tanto,  
+104 ché non soccorri quei che t’amò tanto,  
 104 なぜ、あなたをとても愛した人を助けないのですか、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -943,7 +943,7 @@
 <td>che t'amò tanto<br>あなたをとても愛した</td>
 </tr></table>
 
-105 ch'uscì per te de la volgare schiera?  
+105 ch’uscì per te de la volgare schiera?  
 105 あなたのために世俗的な民衆から出てきた人を？
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -961,7 +961,7 @@
 <td>la pieta del suo pianto<br>彼の嘆きの悲しみ</td>
 </tr></table>
 
-107 non vedi tu la morte che 'l combatte  
+107 non vedi tu la morte che ’l combatte  
 107 あなたは彼が戦う死が見えないのですか、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -971,7 +971,7 @@
 <td>che 'l combatte<br>彼と戦う</td>
 </tr></table>
 
-108 su la fiumana ove 'l mar non ha vanto? -.  
+108 su la fiumana ove ’l mar non ha vanto?—.  
 108 海も誇りを持てないような川の上で。】
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -997,7 +997,7 @@
 <td>a fuggir lor danno<br>彼らの損失を逃れるために</td>
 </tr></table>
 
-111 com'io, dopo cotai parole fatte,  
+111 com’ io, dopo cotai parole fatte,  
 111 私のように、そのような言葉を言った後で、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1022,7 +1022,7 @@
 <td>del tuo parlare onesto<br>あなたの正直な言葉を</td>
 </tr></table>
 
-114 ch'onora te e quei ch'udito l' hanno".  
+114 ch’onora te e quei ch’udito l’hanno”.  
 114 あなたと、あなたの言葉を聞いた人々を誉めるために。』
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1031,7 +1031,7 @@
 <td>quei ch'udito l' hanno<br>あなたの言葉を聞いた人々</td>
 </tr></table>
 
-115 Poscia che m'ebbe ragionato questo,  
+115 Poscia che m’ebbe ragionato questo,  
 115 彼女は私にこう語り終えると、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1057,7 +1057,7 @@
 <td>del venir più presto<br>早く来るように</td>
 </tr></table>
 
-118 E venni a te così com'ella volse:  
+118 E venni a te così com’ ella volse:  
 118 そして、彼女の望み通りに、私はあなたのところに来た。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1067,7 +1067,7 @@
 <td>così com'ella volse<br>彼女の望み通りに</td>
 </tr></table>
 
-119 d'inanzi a quella fiera ti levai  
+119 d’inanzi a quella fiera ti levai  
 119 あの野獣の前からあなたを救い出した、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1086,7 +1086,7 @@
 <td>ti tolse<br>あなたを妨げた</td>
 </tr></table>
 
-121 Dunque: che è perché, perché restai,  
+121 Dunque: che è? perché, perché restai,  
 121 では、なぜ、なぜ立ち止まったのか、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1134,7 +1134,7 @@
 <td>ne la corte del cielo<br>天の宮殿で</td>
 </tr></table>
 
-126 e 'l mio parlar tanto ben ti promette?".  
+126 e ’l mio parlar tanto ben ti promette?».  
 126 私の言葉があなたをこれほどまでに良い方向へと導くと約束しているのに。」
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1153,7 +1153,7 @@
 <td>dal notturno gelo<br>夜の霜に</td>
 </tr></table>
 
-128 chinati e chiusi, poi che 'l sol li 'mbianca,  
+128 chinati e chiusi, poi che ’l sol li ’mbianca,  
 128 うつむき閉じていた、太陽が輝き始めると、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1174,7 +1174,7 @@
 <td>in loro stelo<br>茎の中で</td>
 </tr></table>
 
-130 tal mi fec'io di mia virtude stanca,  
+130 tal mi fec’ io di mia virtude stanca,  
 130 そのような私の弱さを乗り越え、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1192,7 +1192,7 @@
 <td>al cor mi corse<br>私の心に沸き起こった</td>
 </tr></table>
 
-132 ch'i' cominciai come persona franca:  
+132 ch’i’ cominciai come persona franca:  
 132 私は、自由な人間のように語り始めた。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1201,7 +1201,7 @@
 <td>come persona franca<br>自由な人間のように</td>
 </tr></table>
 
-133 "Oh pietosa colei che mi soccorse!  
+133 «Oh pietosa colei che mi soccorse!  
 133 「おお、私を助けてくれた慈悲深い女性よ！
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1211,7 +1211,7 @@
 <td>che mi soccorse<br>私を助けてくれた</td>
 </tr></table>
 
-134 e te cortese ch'ubidisti tosto  
+134 e te cortese ch’ubidisti tosto  
 134 そして、すぐに応えてくれた優しいあなたよ、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1229,7 +1229,7 @@
 <td>che ti porse<br>あなたが彼女に伝えた。</td>
 </tr></table>
 
-136 Tu m' hai con disiderio il cor disposto  
+136 Tu m’hai con disiderio il cor disposto  
 136 あなたは私の心を熱望で準備させました、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1249,7 +1249,7 @@
 <td>con le parole tue<br>あなたの言葉によって</td>
 </tr></table>
 
-138 ch'i' son tornato nel primo proposto.  
+138 ch’i’ son tornato nel primo proposto.  
 138 最初の決意に戻りました。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1258,7 +1258,7 @@
 <td>nel primo proposto<br>最初の決意に戻った</td>
 </tr></table>
 
-139 Or va, ch'un sol volere è d'ambedue:  
+139 Or va, ch’un sol volere è d’ambedue:  
 139 さあ、行きましょう。私たちの意思は一つです。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1267,7 +1267,7 @@
 <td>ch'un sol volere è d'ambedue<br>私たちの意思は一つだ</td>
 </tr></table>
 
-140 tu duca, tu segnore e tu maestro".  
+140 tu duca, tu segnore e tu maestro».  
 140 あなたは、私の導き手であり、主人であり、師です。」
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>

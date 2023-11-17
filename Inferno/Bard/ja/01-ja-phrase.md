@@ -55,7 +55,7 @@
 <td>la paura<br>恐怖</td>
 </tr></table>
 
-7 Tant’è amara che poco è più morte;  
+7 Tant’ è amara che poco è più morte;  
 7 それは死そのものと同じくらい苦いものだった；
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -75,24 +75,24 @@
 <td>del ben ch’i’ vi trovai<br>私がそこで見つけた善</td>
 </tr></table>
 
-9 dirò de l’altre cose ch’i’ v’ ho scorte.  
+9 dirò de l’altre cose ch’i’ v’ho scorte.  
 9 そこで現れた他のものについて話そう。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
 <td>dirò<br>私は言うだろう</td>
-<td>de l’altre cose ch’i’ v’ ho scorte<br>私がそこで見た他の事柄</td>
+<td>de l’altre cose ch’i’ v’ho scorte<br>私がそこで見た他の事柄</td>
 </tr></table>
 
-10 Io non so ben ridir com’i’ v’intrai,  
+10 Io non so ben ridir com’ i’ v’intrai,  
 10 どうやってそこに入ったのかはわからない、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
 <td>Io<br>私は</td>
 <td>non so ben ridir<br>私はうまく言い表せない</td>
-<td>com’i’ v’intrai<br>私がどのようにそこに入ったか</td>
+<td>com’ i’ v’intrai<br>私がどのようにそこに入ったか</td>
 </tr></table>
 
-11 tant’era pien di sonno a quel punto  
+11 tant’ era pien di sonno a quel punto  
 11 その時、私は眠気に満ちていた、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -327,7 +327,7 @@
 <td>più volte vòlto<br>何度も向きを変えた</td>
 </tr></table>
 
-37 Temp’era dal principio del mattino,  
+37 Temp’ era dal principio del mattino,  
 37 それは朝が始まる瞬間で、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -411,7 +411,7 @@
 <td>che contra me venisse<br>私に向かって来るように思われた</td>
 </tr></table>
 
-47 con la test’alta e con rabbiosa fame,  
+47 con la test’ alta e con rabbiosa fame,  
 47 頭を高く上げ、猛烈な空腹を抱えながら、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -560,31 +560,30 @@
 <td>nel gran diserto<br>大砂漠で</td>
 </tr></table>
 
-65 "Miserere di me", gridai a lui,  
+65 «Miserere di me», gridai a lui,  
 65 「私を憐れんでください」と私は彼に向かって叫んだ、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
-<td>"Miserere di me"<br>私を憐れんでください</td>
+<td>Miserere di me<br>私を憐れんでください</td>
 <td>gridai<br>叫んだ</td>
 <td>a lui<br>彼に</td>
 </tr></table>
 
-66 "qual che tu sii, od ombra od omo certo!".  
+66 «qual che tu sii, od ombra od omo certo!».  
 66 「あなたが誰であろうと、影であろうと、本当の人間であろうと」。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
 <td>qual che tu sii<br>あなたが何であれ</td>
-<td>od<br>または</td>
-<td>ombra<br>影</td>
+<td>od ombra<br>または影</td>
 <td>od omo certo<br>または人間</td>
 </tr></table>
 
-67 Rispuosemi: "Non omo, omo già fui,  
+67 Rispuosemi: «Non omo, omo già fui,  
 67 彼はこう答えた。「私は人間ではない、私はかつて人間だった、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
 <td>Rispuosemi<br>彼は私に答えた</td>
-<td>"Non omo<br>私は人間ではない</td>
+<td>Non omo<br>私は人間ではない</td>
 <td>omo già fui<br>かつて人間だった</td>
 </tr></table>
 
@@ -670,7 +669,7 @@
 <td>il dilettoso monte<br>楽しい山</td>
 </tr></table>
 
-78 ch’è principio e cagion di tutta gioia?".  
+78 ch’è principio e cagion di tutta gioia?».  
 78 すべての喜びの源であり、原因である山に？
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -679,7 +678,7 @@
 <td>e cagion di tutta gioia<br>すべての喜びの原因</td>
 </tr></table>
 
-79 "Or se’ tu quel Virgilio e quella fonte  
+79 «Or se’ tu quel Virgilio e quella fonte  
 79 「あなたはウェルギリウスでしょうか、あの源、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -688,7 +687,7 @@
 <td>e quella fonte<br>そしてその泉</td>
 </tr></table>
 
-80 che spandi di parlar sì largo fiume?",  
+80 che spandi di parlar sì largo fiume?»,  
 80 これほど広大な言葉の川が湧き出るほどの？」
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -697,7 +696,7 @@
 <td>sì largo fiume<br>広い流れ</td>
 </tr></table>
 
-81 rispuos’io lui con vergognosa fronte.  
+81 rispuos’ io lui con vergognosa fronte.  
 81 私は恥ずかしそうな顔で答えた。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -705,7 +704,7 @@
 <td>con vergognosa fronte<br>恥ずかしそうな顔で</td>
 </tr></table>
 
-82 "O de li altri poeti onore e lume,  
+82 «O de li altri poeti onore e lume,  
 82 「おお、他の詩人たちの名誉と光よ、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -724,7 +723,7 @@
 <td>e ’l grande amore<br>大きな愛</td>
 </tr></table>
 
-84 che m’ ha fatto cercar lo tuo volume.  
+84 che m’ha fatto cercar lo tuo volume.  
 84 あなたの作品を何度も読み返した私を。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -750,12 +749,12 @@
 <td>da cu’ io tolsi<br>私が彼から取った</td>
 </tr></table>
 
-87 lo bello stilo che m’ ha fatto onore.  
+87 lo bello stilo che m’ha fatto onore.  
 87 私に名誉を与えてくれた美しい文体を。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
 <td>lo bello stilo<br>美しいスタイル</td>
-<td>che m’ ha fatto onore<br>私を称えてくれた</td>
+<td>che m’ha fatto onore<br>私を称えてくれた</td>
 </tr></table>
 
 88 Vedi la bestia per cu’ io mi volsi;  
@@ -776,14 +775,14 @@
 <td>famoso saggio<br>有名な賢者</td>
 </tr></table>
 
-90 ch’ella mi fa tremar le vene e i polsi".  
+90 ch’ella mi fa tremar le vene e i polsi».  
 90 私の血管と血を震わせる獣から」。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
 <td>ch’ella mi fa tremar le vene e i polsi<br>彼女は私の静脈と手首を震わせます。</td>
 </tr></table>
 
-91 "A te convien tenere altro vïaggio",  
+91 «A te convien tenere altro vïaggio»,  
 91 「別の道を行くべきだ」、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -801,7 +800,7 @@
 <td>poi che lagrimar mi vide<br>私が泣くのを見たとき</td>
 </tr></table>
 
-93 "se vuo’ campar d’esto loco selvaggio;  
+93 «se vuo’ campar d’esto loco selvaggio;  
 93 「この荒れ果てた場所から逃れたいのなら；
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -982,7 +981,7 @@
 <td>prima dipartilla<br>彼女を離れた</td>
 </tr></table>
 
-112 Ond’io per lo tuo me’ penso e discerno  
+112 Ond’ io per lo tuo me’ penso e discerno  
 112 だから、それがあなたにとって最善だと思う、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1097,7 +1096,7 @@
 <td>che là sù regna<br>天国に君臨している</td>
 </tr></table>
 
-125 perch’i’ fu’ ribellante a la sua legge,  
+125 perch’ i’ fu’ ribellante a la sua legge,  
 125 私がその掟に背いたために、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1135,7 +1134,7 @@
 <td>e l’alto seggio<br>高い座</td>
 </tr></table>
 
-129 oh felice colui cu’ ivi elegge!".  
+129 oh felice colui cu’ ivi elegge!».  
 129 ああ、そこで選ばれた人は幸いだ！」
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1146,7 +1145,7 @@
 <td>elegge<br>選ぶ</td>
 </tr></table>
 
-130 E io a lui: "Poeta, io ti richeggio  
+130 E io a lui: «Poeta, io ti richeggio  
 130 そして私は彼に言った、「詩人よ、お願いします。
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
@@ -1174,14 +1173,14 @@
 <td>questo male e peggio<br>この悪とより悪いこと</td>
 </tr></table>
 
-133 che tu mi meni là dov’or dicesti,  
+133 che tu mi meni là dov’ or dicesti,  
 133 あなたが今言われたところへ、私を導いて下さい、
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>
 <td>che<br>だから</td>
 <td>tu<br>あなた</td>
 <td>mi meni<br>あなたは私を導く</td>
-<td>là dov’or dicesti<br>あなたが今言ったところへ</td>
+<td>là dov’ or dicesti<br>あなたが今言ったところへ</td>
 </tr></table>
 
 134 sì ch’io veggia la porta di san Pietro  
@@ -1193,7 +1192,7 @@
 <td>la porta di san Pietro<br>聖ペテロの門</td>
 </tr></table>
 
-135 e color cui tu fai cotanto mesti".  
+135 e color cui tu fai cotanto mesti».  
 135 そして、あなたが苦しんでいるとした人たちを。」
 
 <table><tr><td><b>イタリア語:<br>日本語:</b></td>

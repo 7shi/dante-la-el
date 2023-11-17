@@ -2829,7 +2829,7 @@ In these three lines, Dante reaffirms his loyalty to Virgil and declares that th
 
 Dante's words are significant because they show that he is now fully committed to his journey. He is no longer afraid or hesitant, and he trusts Virgil to guide him safely.
 
-## 142-144
+## 142
 
     Pleasse create a word-by-word table and a line-by-line table.
     142 intrai per lo cammino alto e silvestro.

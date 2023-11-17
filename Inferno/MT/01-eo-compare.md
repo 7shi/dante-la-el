@@ -37,7 +37,7 @@ mi retroviĝis en malluma arbaro,
 mi troviĝis en malluma arbaro,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">2</td><td>
-mi trovis min en malhela arbaro
+mi trovis min en malhela arbaro,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">2</td><td>
 Mi trovis min en arbaro malhela,
@@ -62,7 +62,7 @@ ché la diritta via era smarrita.
 ĉar la rektan vojon mi perdis.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">3</td><td>
-ĉar la ĝusta vojo estis perdita
+ĉar la ĝusta vojo estis perdita.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">3</td><td>
 Ĉar la ĝusta vojo estis perdita.
@@ -150,7 +150,7 @@ kiu en la penso revivigas timon!
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">7</td><td>
-Tant’è amara che poco è più morte;
+Tant’ è amara che poco è più morte;
 </td></tr>
 <tr><td>MIX</td><td align="right">7</td><td>
 Ĝi estas tiel amara, ke ĝi estas malmulte pli ol morto;
@@ -200,7 +200,7 @@ sed por trakti la bonon, kiun mi trovis tie,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">9</td><td>
-dirò de l’altre cose ch’i’ v’ ho scorte.
+dirò de l’altre cose ch’i’ v’ho scorte.
 </td></tr>
 <tr><td>MIX</td><td align="right">9</td><td>
 mi diros pri la aliaj aferoj kiujn mi vidis tie.
@@ -225,7 +225,7 @@ Mi rakontos al vi pri la aliaj aferoj, kiujn mi havas provizojn por vi.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">10</td><td>
-Io non so ben ridir com’i’ v’intrai,
+Io non so ben ridir com’ i’ v’intrai,
 </td></tr>
 <tr><td>MIX</td><td align="right">10</td><td>
 Mi ne scias bone diri kiel mi eniris,
@@ -237,7 +237,7 @@ Mi ne bone scias, kiel mi eniris tie,
 Mi ne scias bone rakonti, kiel mi tien eniris,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">10</td><td>
-Mi ne scias kiel ridi kiam mi eniris
+Mi ne scias kiel ridi kiam mi eniris,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">10</td><td>
 Mi ne scias bone diri kiel mi eniris,
@@ -250,7 +250,7 @@ Mi ne scias, kiel ridi pri tio.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">11</td><td>
-tant’era pien di sonno a quel punto
+tant’ era pien di sonno a quel punto
 </td></tr>
 <tr><td>MIX</td><td align="right">11</td><td>
 Tiom mi estis plena de dormo en tiu momento
@@ -287,7 +287,7 @@ ke mi forlasis la veran vojon.
 ke mi forlasis la vera vojo.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">12</td><td>
-ke mi forlasis la veran vojon
+ke mi forlasis la veran vojon.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">12</td><td>
 Kiam mi forlasis la veran vojon.
@@ -437,7 +437,7 @@ kiu rekte kondukas aliajn tra ĉiu strato.
 kiu rekte kondukas aliajn tra ĉiu vojo.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">18</td><td>
-kiu kondukas rekte aliluj tra ĉiu strato
+kiu kondukas rekte aliluj tra ĉiu strato.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">18</td><td>
 Kiu gvidas homojn ĝuste laŭ ĉiu vojo.
@@ -900,7 +900,7 @@ Mi estis preskaŭ reveni plurfoje.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">37</td><td>
-Temp’era dal principio del mattino,
+Temp’ era dal principio del mattino,
 </td></tr>
 <tr><td>MIX</td><td align="right">37</td><td>
 Ĝi estis de la komenco de la mateno,
@@ -1150,7 +1150,7 @@ Tio ŝajnis kontraŭ mi.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">47</td><td>
-con la test’alta e con rabbiosa fame,
+con la test’ alta e con rabbiosa fame,
 </td></tr>
 <tr><td>MIX</td><td align="right">47</td><td>
 kun alta kapo kaj furioza malsato,
@@ -1312,7 +1312,7 @@ kun la timon eliranta el ĝia vidon,
 per la timo, kiu eliris el ĝia vido,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">53</td><td>
-kun la timo kiu eliris el ŝia vidaĵo
+kun la timo kiu eliris el ŝia vidaĵo,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">53</td><td>
 Kun la timo, kiu eliris el ŝia vizaĝo,
@@ -1600,7 +1600,7 @@ Kiam mi vidis lin en la granda dezerto,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">65</td><td>
-"Miserere di me", gridai a lui,
+«Miserere di me», gridai a lui,
 </td></tr>
 <tr><td>MIX</td><td align="right">65</td><td>
 "Compatu min," mi kriis al li,
@@ -1625,7 +1625,7 @@ Kiam mi vidis lin en la granda dezerto,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">66</td><td>
-"qual che tu sii, od ombra od omo certo!".
+«qual che tu sii, od ombra od omo certo!».
 </td></tr>
 <tr><td>MIX</td><td align="right">66</td><td>
 "kio ajn vi estas, aŭ ombro aŭ certa homo!".
@@ -1650,7 +1650,7 @@ Kiam mi vidis lin en la granda dezerto,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">67</td><td>
-Rispuosemi: "Non omo, omo già fui,
+Rispuosemi: «Non omo, omo già fui,
 </td></tr>
 <tr><td>MIX</td><td align="right">67</td><td>
 Li respondis al mi: "Ne homo, homo mi estis,
@@ -1700,7 +1700,7 @@ kaj miaj familioj estis Lombardoj,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">69</td><td>
-mantoani per patria ambedui.
+mantoani per patrïa ambedui.
 </td></tr>
 <tr><td>MIX</td><td align="right">69</td><td>
 mantovanoj per patrujo ambaŭ."
@@ -1712,7 +1712,7 @@ mantovanoj per patrujo ambaŭ."
 ambaŭ mantovanoj de patrujo."
 </td></tr>
 <tr><td>Bard-1</td><td align="right">69</td><td>
-mantoanoj per patrujo ambaŭ."
+mantoanoj per patrujo ambaŭ.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">69</td><td>
 Mantoanoj laŭ patrujo ambaŭ.
@@ -1850,7 +1850,7 @@ la filo de Anchisoj, kiu venis el Troj,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">75</td><td>
-poi che ’l superbo Ilión fu combusto.
+poi che ’l superbo Ilïón fu combusto.
 </td></tr>
 <tr><td>MIX</td><td align="right">75</td><td>
 Post kiam la superba Ilion estis bruligita.
@@ -1925,7 +1925,7 @@ Kial vi ne supreniru la plezuran monton?
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">78</td><td>
-ch’è principio e cagion di tutta gioia?".
+ch’è principio e cagion di tutta gioia?».
 </td></tr>
 <tr><td>MIX</td><td align="right">78</td><td>
 Kiu estas komenco kaj kaŭzo de ĉia ĝojo?"
@@ -1937,7 +1937,7 @@ kiu estas komenco kaj kaŭzo de tuta ĝojo?"
 kiu estas komenco kaj kaŭzo de ĉia feliĉo?".
 </td></tr>
 <tr><td>Bard-1</td><td align="right">78</td><td>
-kiu estas la komenco kaj kaŭzo de tuta ĝojo?
+kiu estas la komenco kaj kaŭzo de tuta ĝojo?"
 </td></tr>
 <tr><td>Bard-2</td><td align="right">78</td><td>
 Kiu estas komenco kaj kaŭzo de ĉia ĝojo?"
@@ -1950,7 +1950,7 @@ kiu estas la komenco kaj la kauzo de ĉiu ĝojo? "
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">79</td><td>
-"Or se’ tu quel Virgilio e quella fonte
+«Or se’ tu quel Virgilio e quella fonte
 </td></tr>
 <tr><td>MIX</td><td align="right">79</td><td>
 Nun, ĉu vi estas tiu Virgilio kaj tiu fonto
@@ -1962,7 +1962,7 @@ Nun, ĉu vi estas tiu Virgilio kaj tiu fonto
 "Ĉu vi estas tiu Virgilio kaj tiu fonto",
 </td></tr>
 <tr><td>Bard-1</td><td align="right">79</td><td>
-Nun, ĉu vi estas tiu Virgilio kaj tiu fonto
+"Nun, ĉu vi estas tiu Virgilio kaj tiu fonto
 </td></tr>
 <tr><td>Bard-2</td><td align="right">79</td><td>
 "Nun ĉu vi estas tiu Virgilio kaj tiu fonto
@@ -1975,7 +1975,7 @@ Nun, ĉu vi estas tiu Virgilio kaj tiu fonto
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">80</td><td>
-che spandi di parlar sì largo fiume?",
+che spandi di parlar sì largo fiume?»,
 </td></tr>
 <tr><td>MIX</td><td align="right">80</td><td>
 kiu elverŝas tiel vastan riveron da parolo?"
@@ -1987,7 +1987,7 @@ kiu elverŝas tiel vastan riveron da parolo?"
 kiu elverŝas larĝan riveron de parolo?",
 </td></tr>
 <tr><td>Bard-1</td><td align="right">80</td><td>
-kiu disŝutas tiel vastan riveron de parolado?
+kiu disŝutas tiel vastan riveron de parolado?",
 </td></tr>
 <tr><td>Bard-2</td><td align="right">80</td><td>
 Kiu disvastigas de parolado tiel grandan riveron?",
@@ -2000,7 +2000,7 @@ Kion vi pensas, ke vi parolas ĝis nun? ',
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">81</td><td>
-rispuos’io lui con vergognosa fronte.
+rispuos’ io lui con vergognosa fronte.
 </td></tr>
 <tr><td>MIX</td><td align="right">81</td><td>
 Mi respondis al li kun honta vizaĝo.
@@ -2025,7 +2025,7 @@ Mi malhonore respondis al li.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">82</td><td>
-"O de li altri poeti onore e lume,
+«O de li altri poeti onore e lume,
 </td></tr>
 <tr><td>MIX</td><td align="right">82</td><td>
 "Vi estas la honoro kaj lumo de aliaj poetoj,
@@ -2037,7 +2037,7 @@ Mi malhonore respondis al li.
 "Vi estas la honoro kaj lumo de aliaj poetoj,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">82</td><td>
-O honoro kaj lumo de la aliaj poetoj
+"O honoro kaj lumo de la aliaj poetoj,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">82</td><td>
 "O de la aliaj poetoj honoro kaj lumo,
@@ -2075,7 +2075,7 @@ Donu al mi la longan studion kaj la grandan amon
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">84</td><td>
-che m’ ha fatto cercar lo tuo volume.
+che m’ha fatto cercar lo tuo volume.
 </td></tr>
 <tr><td>MIX</td><td align="right">84</td><td>
 kiu igis min serĉi vian volumon.
@@ -2087,7 +2087,7 @@ kiu min faris serĉi vian volumon.
 instigis min serĉi vian verkon."
 </td></tr>
 <tr><td>Bard-1</td><td align="right">84</td><td>
-kiu min faris serĉi vian volumon
+kiu min faris serĉi vian volumon.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">84</td><td>
 Kiu min faris serĉi vian volumon.
@@ -2112,7 +2112,7 @@ Vi estas mia instruisto kaj mia aŭtoro,
 Vi estas mia instruisto kaj mia aŭtoro,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">85</td><td>
-Vi estas mia majstro kaj mia aŭtoro
+Vi estas mia majstro kaj mia aŭtoro,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">85</td><td>
 Vi estas mia majstro kaj mia aŭtoro,
@@ -2150,7 +2150,7 @@ Vi estas nur tiu, el kiu mi forigis
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">87</td><td>
-lo bello stilo che m’ ha fatto onore.
+lo bello stilo che m’ha fatto onore.
 </td></tr>
 <tr><td>MIX</td><td align="right">87</td><td>
 la bela stilo, kiu honoris min.
@@ -2162,7 +2162,7 @@ la bela stilo, kiu honoris min.
 la belan stilon, kiu donis al mi honoro.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">87</td><td>
-la bela stilo, kiu faris min honorita
+la bela stilo, kiu faris min honorita.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">87</td><td>
 La belan stilon kiu min honoris.
@@ -2187,7 +2187,7 @@ Vidu la beston pro kiu mi turniĝis;
 Vi vidas la beston, kontraŭ kiu mi intencis;
 </td></tr>
 <tr><td>Bard-1</td><td align="right">88</td><td>
-Vidu la beston per kiu mi sin turnis
+Vidu la beston per kiu mi sin turnis;
 </td></tr>
 <tr><td>Bard-2</td><td align="right">88</td><td>
 Vidu la beston, kiu min turnis;
@@ -2212,7 +2212,7 @@ helpu min de ĝi, fama saĝulo,
 helpu min de ĝi, fama saĝulo,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">89</td><td>
-helpu min de ŝi, fama saĝulo
+helpu min de ŝi, fama saĝulo,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">89</td><td>
 Helpu min de ŝi, fama saĝulo,
@@ -2225,19 +2225,19 @@ Helpu min kun ŝi, fama sago,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">90</td><td>
-ch’ella mi fa tremar le vene e i polsi".
+ch’ella mi fa tremar le vene e i polsi».
 </td></tr>
 <tr><td>MIX</td><td align="right">90</td><td>
 Ĉar ŝi faras tremi miajn vejnojn kaj pulsojn".
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">90</td><td>
-ĉar ĝi faras, ke miaj vejnoj kaj pulsoj tremas".
+ĉar ĝi faras, ke miaj vejnoj kaj pulsoj tremas."
 </td></tr>
 <tr><td>ChatGPT-2</td><td align="right">90</td><td>
 ĉar ĝi faras tremi miajn veenojn kaj pulsojn."
 </td></tr>
 <tr><td>Bard-1</td><td align="right">90</td><td>
-ke ŝi faras miajn vejnojn kaj polsojn tremi
+ke ŝi faras miajn vejnojn kaj polsojn tremi."
 </td></tr>
 <tr><td>Bard-2</td><td align="right">90</td><td>
 Ĉar ŝi faras tremi miajn vejnojn kaj pulsojn".
@@ -2250,7 +2250,7 @@ tio tremas miajn vejnojn kaj pojnojn."
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">91</td><td>
-"A te convien tenere altro viaggio",
+«A te convien tenere altro vïaggio»,
 </td></tr>
 <tr><td>MIX</td><td align="right">91</td><td>
 "Al vi devas fari alian vojaĝon",
@@ -2262,7 +2262,7 @@ tio tremas miajn vejnojn kaj pojnojn."
 "Alia vojaĝo estas necesa por vi,"
 </td></tr>
 <tr><td>Bard-1</td><td align="right">91</td><td>
-Vi devas fari alian vojaĝon
+"Vi devas fari alian vojaĝon",
 </td></tr>
 <tr><td>Bard-2</td><td align="right">91</td><td>
 Al vi devas teni alian vojaĝon,
@@ -2300,7 +2300,7 @@ Li respondis, tiam kiel larmoj li vidis min,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">93</td><td>
-"se vuo’ campar d’esto loco selvaggio;
+«se vuo’ campar d’esto loco selvaggio;
 </td></tr>
 <tr><td>MIX</td><td align="right">93</td><td>
 Se vi volas saviĝi el ĉi tiu sovaĝa loko;
@@ -2575,7 +2575,7 @@ Li ne manĝos teron nek pejxon,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">104</td><td>
-ma sapienza, amore e virtute,
+ma sapïenza, amore e virtute,
 </td></tr>
 <tr><td>MIX</td><td align="right">104</td><td>
 sed saĝeco, amo kaj virtoj,
@@ -2775,7 +2775,7 @@ Jen la unua festo komencas.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">112</td><td>
-Ond’io per lo tuo me’ penso e discerno
+Ond’ io per lo tuo me’ penso e discerno
 </td></tr>
 <tr><td>MIX</td><td align="right">112</td><td>
 Tial, mi pensas kaj distingas tra via vizaĝo
@@ -2862,7 +2862,7 @@ kie vi aŭdos la malfeliĉajn krikojn,
 kie vi aŭdos la disesperajn kriojn,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">115</td><td>
-kie vi aŭdos la desperajn kriojn
+kie vi aŭdos la desperajn kriojn,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">115</td><td>
 Kie vi aŭdos la senesperajn kriojn,
@@ -2887,7 +2887,7 @@ vi vidos la malnovajn suferantajn spiritojn,
 vi vidos la antikvajn suferantajn spiritojn,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">116</td><td>
-vi vidos la antikvaj suferantajn spiritojn
+vi vidos la antikvaj suferantajn spiritojn,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">116</td><td>
 Vi vidos la antikvajn spiritojn malĝojajn,
@@ -2912,7 +2912,7 @@ kiuj en la dua morto ĉiu krias;
 kiuj al la dua morto ĉiuj krias;
 </td></tr>
 <tr><td>Bard-1</td><td align="right">117</td><td>
-ke ĉiu krias al la dua morto
+ke ĉiu krias al la dua morto;
 </td></tr>
 <tr><td>Bard-2</td><td align="right">117</td><td>
 Kiuj al la dua morto ĉiu krias;
@@ -3012,7 +3012,7 @@ Al la ŝtupoj poste se vi volos supreniri,
 Al tiuj, kiuj volos supreniri,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">121</td><td>
-Al tiuj homoj, se vi volus supreni
+Al tiuj homoj, se vi volus supreni,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">121</td><td>
 Al kiuj poste se vi volas supreniri,
@@ -3037,7 +3037,7 @@ animo estos pli inda por tio ol mi:
 fidela animo, pli digna ol mi:
 </td></tr>
 <tr><td>Bard-1</td><td align="right">122</td><td>
-la animo estos al tio pli digna ol mi
+la animo estos al tio pli digna ol mi:
 </td></tr>
 <tr><td>Bard-2</td><td align="right">122</td><td>
 Animo estos al tio pli degna:
@@ -3087,7 +3087,7 @@ ché quello imperador che là sù regna,
 ĉar tiu imperiestro, kiu regas tie supre,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">124</td><td>
-ĉar la imperiestro kiu regas supre
+ĉar la imperiestro kiu regas supre,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">124</td><td>
 Ĉar tiu imperiestro kiu tie supre regas,
@@ -3100,7 +3100,7 @@ por la imperiento, kiu reĝas tie,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">125</td><td>
-perch’i’ fu’ ribellante a la sua legge,
+perch’ i’ fu’ ribellante a la sua legge,
 </td></tr>
 <tr><td>MIX</td><td align="right">125</td><td>
 ĉar mi estis ribela kontraŭ lia leĝo,
@@ -3112,7 +3112,7 @@ perch’i’ fu’ ribellante a la sua legge,
 ĉar mi estis ribelanto kontraŭ lia leĝo,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">125</td><td>
-ĉar mi estis ribelema al lia leĝo
+ĉar mi estis ribelema al lia leĝo,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">125</td><td>
 Ĉar mi estis ribelanta al lia leĝo,
@@ -3137,7 +3137,7 @@ li ne volas, ke oni en sian urbon venu tra mi.
 ne permesas ke oni alvenu en lia urbo pro mi.
 </td></tr>
 <tr><td>Bard-1</td><td align="right">126</td><td>
-ne volas ke mi venu al lia urbo
+ne volas ke mi venu al lia urbo.
 </td></tr>
 <tr><td>Bard-2</td><td align="right">126</td><td>
 Ne volas ke en lian urbon per mi oni venu.
@@ -3200,19 +3200,19 @@ Kaj tie estas lia urbo kaj lia alta sido.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">129</td><td>
-oh felice colui cu’ ivi elegge!".
+oh felice colui cu’ ivi elegge!».
 </td></tr>
 <tr><td>MIX</td><td align="right">129</td><td>
 ho feliĉa estas tiu, kiun li elektas tie!".
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">129</td><td>
-ho feliĉa estas tiu, kiun li elektas tie!".
+ho feliĉa estas tiu, kiun li elektas tie!"
 </td></tr>
 <tr><td>ChatGPT-2</td><td align="right">129</td><td>
 feliĉa tiu, kiun li elektas tie!".
 </td></tr>
 <tr><td>Bard-1</td><td align="right">129</td><td>
-ho, feliĉa estas li, kiun li elektas ĉi tie!
+ho, feliĉa estas li, kiun li elektas ĉi tie!"
 </td></tr>
 <tr><td>Bard-2</td><td align="right">129</td><td>
 Oh feliĉa tiu kiun li tie elektas!"
@@ -3225,7 +3225,7 @@ Feliĉa estas tiu, kiu elektas tie! "
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">130</td><td>
-E io a lui: "Poeta, io ti richeggio
+E io a lui: «Poeta, io ti richeggio
 </td></tr>
 <tr><td>MIX</td><td align="right">130</td><td>
 Kaj mi al li: "Poeto, mi petas vin
@@ -3262,7 +3262,7 @@ por tiu Dio, kiun vi ne konis,
 per tiu Dio, kiun vi ne konis,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">131</td><td>
-por tiu Dio kiun vi ne konis
+por tiu Dio kiun vi ne konis,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">131</td><td>
 Pro tiu Dio kiun vi ne konis,
@@ -3287,7 +3287,7 @@ por ke mi forkuru ĉi tiun malbonon kaj pli malbonon,
 por ke mi forfuĝu tiun malbonon kaj pli malbonon,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">132</td><td>
-por ke mi forkuru tiu malbono kaj pli malbona
+por ke mi forkuru tiu malbono kaj pli malbona,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">132</td><td>
 Por ke mi forfuĝu ĉi tiun malbonon kaj plie malbonan,
@@ -3300,7 +3300,7 @@ por ke mi forkurigu tiun malbonon kaj malbonon,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">133</td><td>
-che tu mi meni là dov’or dicesti,
+che tu mi meni là dov’ or dicesti,
 </td></tr>
 <tr><td>MIX</td><td align="right">133</td><td>
 ke vi min konduku tien, kie vi diris,
@@ -3312,7 +3312,7 @@ gvidu min tien kie vi diris,
 ke vi min konduku tien, kie vi diris,
 </td></tr>
 <tr><td>Bard-1</td><td align="right">133</td><td>
-ke vi kondukas min tien kie vi diris
+ke vi kondukas min tien kie vi diris,
 </td></tr>
 <tr><td>Bard-2</td><td align="right">133</td><td>
 Ke vi min konduku tien kie nun vi diris,
@@ -3350,19 +3350,19 @@ por ke mi vidu la pordon de Santa Petro
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">135</td><td>
-e color cui tu fai cotanto mesti".
+e color cui tu fai cotanto mesti».
 </td></tr>
 <tr><td>MIX</td><td align="right">135</td><td>
 Kaj tiujn kiun vi faras tiel malĝojajn."
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">135</td><td>
-kaj tiujn kiujn vi faras tiom malĝojigaj.
+kaj tiujn kiujn vi faras tiom malĝojigaj."
 </td></tr>
 <tr><td>ChatGPT-2</td><td align="right">135</td><td>
 kaj tiujn, kiujn vi tiel malĝoje faras".
 </td></tr>
 <tr><td>Bard-1</td><td align="right">135</td><td>
-kaj la homojn kiujn vi faras tiom malĝojajn"
+kaj la homojn kiujn vi faras tiom malĝojajn."
 </td></tr>
 <tr><td>Bard-2</td><td align="right">135</td><td>
 Kaj tiujn kiun vi faras tiel malĝojajn."

@@ -75,11 +75,11 @@
 <td>paura<br>paura<br>fear</td>
 </tr></table>
 
-7 Tant’è amara che poco è più morte;  
+7 Tant’ è amara che poco è più morte;  
 7 So bitter is it that death is little more.
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
-<td>tanto<br>Tant’è<br>so much</td>
+<td>tanto<br>Tant’ è<br>so much</td>
 <td>amaro<br>amara<br>bitter</td>
 <td>che<br>che<br>that</td>
 <td>poco<br>poco<br>little</td>
@@ -89,7 +89,7 @@
 </tr></table>
 
 8 ma per trattar del ben ch’i’ vi trovai,  
-8 But in order to treat of the good that there I found,
+8 but in order to treat of the good that there I found,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>ma<br>ma<br>but</td>
@@ -102,7 +102,7 @@
 <td>trovare<br>trovai<br>found</td>
 </tr></table>
 
-9 dirò de l’altre cose ch’i’ v’ ho scorte.  
+9 dirò de l’altre cose ch’i’ v’ho scorte.  
 9 I will tell of the other things that I have seen there.
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -116,7 +116,7 @@
 <td>scorgere<br>scorte<br>seen</td>
 </tr></table>
 
-10 Io non so ben ridir com’i’ v’intrai,  
+10 Io non so ben ridir com’ i’ v’intrai,  
 10 I cannot well recount how I entered it,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -125,15 +125,15 @@
 <td>sapere<br>so<br>know</td>
 <td>bene<br>ben<br>well</td>
 <td>ridire<br>ridir<br>to say again</td>
-<td>come io<br>com’i’<br>how I</td>
+<td>come io<br>com’ i’<br>how I</td>
 <td>entrare<br>v’intrai<br>entered</td>
 </tr></table>
 
-11 tant’era pien di sonno a quel punto  
+11 tant’ era pien di sonno a quel punto  
 11 so full was I of slumber at that point
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
-<td>tanto era<br>tant’era<br>I was so</td>
+<td>tanto era<br>tant’ era<br>I was so</td>
 <td>pieno<br>pien<br>full</td>
 <td>di<br>di<br>of</td>
 <td>sonno<br>sonno<br>sleep</td>
@@ -231,7 +231,7 @@
 </tr></table>
 
 19 Allor fu la paura un poco queta,  
-19 Then was the fear a little quieted
+19 Then was the fear a little quieted,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>allora<br>Allor<br>then</td>
@@ -345,7 +345,7 @@
 </tr></table>
 
 28 Poi ch’èi posato un poco il corpo lasso,  
-28 After I had rested a little my weary body
+28 After I had rested a little my weary body,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>poi<br>Poi<br>then</td>
@@ -387,7 +387,7 @@
 </tr></table>
 
 31 Ed ecco, quasi al cominciar de l’erta,  
-31 And lo! almost at the beginning of the steep
+31 And lo! almost at the beginning of the steep,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>Ed<br>Ed<br>And</td>
@@ -423,7 +423,7 @@
 </tr></table>
 
 34 e non mi si partia dinanzi al volto,  
-34 And she did not move from before my face,
+34 and she did not move from before my face,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>e<br>e<br>and</td>
@@ -437,7 +437,7 @@
 </tr></table>
 
 35 anzi ’mpediva tanto il mio cammino,  
-35 nay, rather hindered so my road
+35 nay, rather hindered so my road,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>anzi<br>anzi<br>instead</td>
@@ -461,11 +461,11 @@
 <td>volto<br>vòlto<br>turned</td>
 </tr></table>
 
-37 Temp’era dal principio del mattino,  
+37 Temp’ era dal principio del mattino,  
 37 The time was at the beginning of the morning,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
-<td>essere<br>Temp’era<br>it was</td>
+<td>tempo essere<br>Temp’ era<br>it was</td>
 <td>dal<br>dal<br>from</td>
 <td>principio<br>principio<br>beginning</td>
 <td>di il<br>del<br>of the</td>
@@ -550,7 +550,7 @@
 </tr></table>
 
 44 ma non sì che paura non mi desse  
-44 But not so that did not give me fear
+44 but not so that did not give me fear
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>ma<br>ma<br>but</td>
@@ -587,13 +587,13 @@
 <td>venire<br>venisse<br>came</td>
 </tr></table>
 
-47 con la test’alta e con rabbiosa fame,  
+47 con la test’ alta e con rabbiosa fame,  
 47 with head high and with ravening hunger,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>con<br>con<br>with</td>
 <td>la<br>la<br>the</td>
-<td>testa alta<br>test’alta<br>high head</td>
+<td>testa alta<br>test’ alta<br>high head</td>
 <td>e<br>e<br>and</td>
 <td>con<br>con<br>with</td>
 <td>rabbioso<br>rabbiosa<br>angry</td>
@@ -731,7 +731,7 @@
 </tr></table>
 
 58 tal mi fece la bestia sanza pace,  
-58 —such made me the beast without repose
+58 —such made me the beast without repose,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>tale<br>tal<br>such</td>
@@ -819,7 +819,7 @@
 <td>deserto<br>diserto<br>desert</td>
 </tr></table>
 
-65 "Miserere di me", gridai a lui,  
+65 «Miserere di me», gridai a lui,  
 65 "Have pity on me!" I cried to him,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -831,7 +831,7 @@
 <td>lui<br>lui<br>him</td>
 </tr></table>
 
-66 "qual che tu sii, od ombra od omo certo!".  
+66 «qual che tu sii, od ombra od omo certo!».  
 66 "whatso thou art, or shade or real man."
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -846,7 +846,7 @@
 <td>certo<br>certo<br>certain</td>
 </tr></table>
 
-67 Rispuosemi: "Non omo, omo già fui,  
+67 Rispuosemi: «Non omo, omo già fui,  
 67 He answered me: "Not man; man once I was,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -935,7 +935,7 @@
 </tr></table>
 
 74 figliuol d’Anchise che venne di Troia,  
-74 son of Anchises who came from Troy
+74 son of Anchises who came from Troy,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>figlio<br>figliuol<br>son</td>
@@ -954,7 +954,7 @@
 <td>che<br>che<br>that</td>
 <td>il<br>’l<br>the</td>
 <td>superbo<br>superbo<br>proud</td>
-<td>Ilio<br>Ilïón<br>Ilium (Troy)</td>
+<td>Ilio<br>Ilïón<br>Ilium</td>
 <td>essere<br>fu<br>was</td>
 <td>combusto<br>combusto<br>burned</td>
 </tr></table>
@@ -973,7 +973,7 @@
 </tr></table>
 
 77 perché non sali il dilettoso monte  
-77 Why dost thou not ascend the delectable mountain
+77 why dost thou not ascend the delectable mountain
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>perché<br>perché<br>why</td>
@@ -984,7 +984,7 @@
 <td>monte<br>monte<br>mountain</td>
 </tr></table>
 
-78 ch’è principio e cagion di tutta gioia?".  
+78 ch’è principio e cagion di tutta gioia?».  
 78 which is the source and cause of every joy?"
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -997,7 +997,7 @@
 <td>gioia<br>gioia<br>joy</td>
 </tr></table>
 
-79 "Or se’ tu quel Virgilio e quella fonte  
+79 «Or se’ tu quel Virgilio e quella fonte  
 79 "Art thou then that Virgil and that fount
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -1011,7 +1011,7 @@
 <td>fonte<br>fonte<br>fountain</td>
 </tr></table>
 
-80 che spandi di parlar sì largo fiume?",  
+80 che spandi di parlar sì largo fiume?»,  
 80 which poureth forth so large a stream of speech?"
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -1024,19 +1024,19 @@
 <td>fiume<br>fiume<br>river</td>
 </tr></table>
 
-81 rispuos’io lui con vergognosa fronte.  
+81 rispuos’ io lui con vergognosa fronte.  
 81 replied I to him with bashful front:
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
-<td>rispondere<br>rispuos’io<br>I replied</td>
+<td>rispondere<br>rispuos’ io<br>I replied</td>
 <td>lui<br>lui<br>him</td>
 <td>con<br>con<br>with</td>
 <td>vergognoso<br>vergognosa<br>ashamed</td>
 <td>fronte<br>fronte<br>forehead</td>
 </tr></table>
 
-82 "O de li altri poeti onore e lume,  
-82 "O honor and light of the other poem
+82 «O de li altri poeti onore e lume,  
+82 "O honor and light of the other poem,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>o<br>O<br>O</td>
@@ -1063,7 +1063,7 @@
 <td>amore<br>amore<br>love</td>
 </tr></table>
 
-84 che m’ ha fatto cercar lo tuo volume.  
+84 che m’ha fatto cercar lo tuo volume.  
 84 which have made me search thy volume!
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -1106,7 +1106,7 @@
 <td>togliere<br>tolsi<br>took</td>
 </tr></table>
 
-87 lo bello stilo che m’ ha fatto onore.  
+87 lo bello stilo che m’ha fatto onore.  
 87 the fair style that hath done me honor.
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -1145,7 +1145,7 @@
 <td>saggio<br>saggio<br>wise man</td>
 </tr></table>
 
-90 ch’ella mi fa tremar le vene e i polsi".  
+90 ch’ella mi fa tremar le vene e i polsi».  
 90 for she makes any veins and pulses tremble."
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -1160,7 +1160,7 @@
 <td>polso<br>polsi<br>wrists</td>
 </tr></table>
 
-91 "A te convien tenere altro vïaggio",  
+91 «A te convien tenere altro vïaggio»,  
 91 "Thee it behoves to hold another course,"
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -1184,7 +1184,7 @@
 <td>vedere<br>vide<br>saw</td>
 </tr></table>
 
-93 "se vuo’ campar d’esto loco selvaggio;  
+93 «se vuo’ campar d’esto loco selvaggio;  
 93 "if thou wishest to escape from this savage place;
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -1237,7 +1237,7 @@
 </tr></table>
 
 97 e ha natura sì malvagia e ria,  
-97 and she has a nature so malign and evil
+97 and she has a nature so malign and evil,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>e<br>e<br>and</td>
@@ -1376,7 +1376,7 @@
 </tr></table>
 
 108 Eurialo e Turno e Niso di ferute.  
-108 and Euryalus, Turnus and Nisus of their wounds.
+108 And Euryalus, Turnus and Nisus of their wounds.
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>Eurialo<br>Eurialo<br>Eurialo</td>
@@ -1389,7 +1389,7 @@
 </tr></table>
 
 109 Questi la caccerà per ogne villa,  
-109 He shall hunt her through every town
+109 He shall hunt her through every town,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>questo<br>Questi<br>This one</td>
@@ -1423,11 +1423,11 @@
 <td>partire<br>dipartilla<br>sent her away</td>
 </tr></table>
 
-112 Ond’io per lo tuo me’ penso e discerno  
+112 Ond’ io per lo tuo me’ penso e discerno  
 112 Wherefore I think and deem it for thy best
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
-<td>onde<br>Ond’io<br>therefore</td>
+<td>onde<br>Ond’ io<br>therefore</td>
 <td>per<br>per<br>for</td>
 <td>il<br>lo<br>the</td>
 <td>tuo<br>tuo<br>your</td>
@@ -1453,7 +1453,7 @@
 </tr></table>
 
 114 e trarrotti di qui per loco etterno;  
-114 and will lead thee hence through the eternal place
+114 and will lead thee hence through the eternal place;
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>e<br>e<br>and</td>
@@ -1477,7 +1477,7 @@
 </tr></table>
 
 116 vedrai li antichi spiriti dolenti,  
-116 shalt see the ancient spirits woeful
+116 shalt see the ancient spirits woeful,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>vedere<br>vedrai<br>you will see</td>
@@ -1500,7 +1500,7 @@
 </tr></table>
 
 118 e vederai color che son contenti  
-118 And then thou shalt see those who are contented
+118 and then thou shalt see those who are contented
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>e<br>e<br>and</td>
@@ -1537,7 +1537,7 @@
 </tr></table>
 
 121 A le quai poi se tu vorrai salire,  
-121 to whom if thou wilt thereafter ascend,
+121 To whom if thou wilt thereafter ascend,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>a<br>A<br>to</td>
@@ -1565,7 +1565,7 @@
 </tr></table>
 
 123 con lei ti lascerò nel mio partire;  
-123 With her I will leave thee at my departure;
+123 with her I will leave thee at my departure;
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>con<br>con<br>with</td>
@@ -1590,11 +1590,11 @@
 <td>regnare<br>regna<br>reigns</td>
 </tr></table>
 
-125 perch’i’ fu’ ribellante a la sua legge,  
+125 perch’ i’ fu’ ribellante a la sua legge,  
 125 because I was rebellious to His law,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
-<td>perché io<br>perch’i’<br>because I</td>
+<td>perché io<br>perch’ i’<br>because I</td>
 <td>essere<br>fu’<br>was</td>
 <td>ribelle<br>ribellante<br>rebellious</td>
 <td>a<br>a<br>to</td>
@@ -1646,8 +1646,8 @@
 <td>seggio<br>seggio<br>throne</td>
 </tr></table>
 
-129 oh felice colui cu’ ivi elegge!".  
-129 O happy he whom thereto He elects!"
+129 oh felice colui cu’ ivi elegge!».  
+129 o happy he whom thereto He elects!"
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
 <td>oh<br>oh<br>oh</td>
@@ -1658,7 +1658,7 @@
 <td>eleggere<br>elegge<br>elects</td>
 </tr></table>
 
-130 E io a lui: "Poeta, io ti richeggio  
+130 E io a lui: «Poeta, io ti richeggio  
 130 And I to him, "Poet, I beseech thee
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -1698,7 +1698,7 @@
 <td>peggio<br>peggio<br>worse</td>
 </tr></table>
 
-133 che tu mi meni là dov’or dicesti,  
+133 che tu mi meni là dov’ or dicesti,  
 133 that thou lead me thither whom thou now hast said,
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>
@@ -1707,7 +1707,7 @@
 <td>mi<br>mi<br>me</td>
 <td>menare<br>meni<br>lead</td>
 <td>là<br>là<br>there</td>
-<td>dove ora<br>dov’or<br>where now</td>
+<td>dove ora<br>dov’ or<br>where now</td>
 <td>dire<br>dicesti<br>you said</td>
 </tr></table>
 
@@ -1725,7 +1725,7 @@
 <td>Pietro<br>Pietro<br>Peter</td>
 </tr></table>
 
-135 e color cui tu fai cotanto mesti".  
+135 e color cui tu fai cotanto mesti».  
 135 and those whom thou makest so afflicted."
 
 <table><tr><td><b>Lemma:<br>Italian:<br>English:</b></td>

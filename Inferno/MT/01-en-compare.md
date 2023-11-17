@@ -204,7 +204,7 @@ that in the thought revives fear!
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">7</td><td>
-Tant’è amara che poco è più morte;
+Tant’ è amara che poco è più morte;
 </td></tr>
 <tr><td>Norton-1</td><td align="right">7</td><td>
 So bitter is it that death is little more.
@@ -272,7 +272,7 @@ but to deal with the good that I found there,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">9</td><td>
-dirò de l’altre cose ch’i’ v’ ho scorte.
+dirò de l’altre cose ch’i’ v’ho scorte.
 </td></tr>
 <tr><td>Norton-1</td><td align="right">9</td><td>
 I will tell of the other things that I have seen there.
@@ -306,7 +306,7 @@ I'll tell you about the other things I have supplies for you.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">10</td><td>
-Io non so ben ridir com’i’ v’intrai,
+Io non so ben ridir com’ i’ v’intrai,
 </td></tr>
 <tr><td>Norton-1</td><td align="right">10</td><td>
 I cannot well recount how I entered it,
@@ -340,7 +340,7 @@ I don't know how to laugh about it.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">11</td><td>
-tant’era pien di sonno a quel punto
+tant’ era pien di sonno a quel punto
 </td></tr>
 <tr><td>Norton-1</td><td align="right">11</td><td>
 so full was I of slumber at that point
@@ -1224,7 +1224,7 @@ I was about to return several times.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">37</td><td>
-Temp’era dal principio del mattino,
+Temp’ era dal principio del mattino,
 </td></tr>
 <tr><td>Norton-1</td><td align="right">37</td><td>
 The time was at the beginning of the morning,
@@ -1564,7 +1564,7 @@ This seemed to be against me.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">47</td><td>
-con la test’alta e con rabbiosa fame,
+con la test’ alta e con rabbiosa fame,
 </td></tr>
 <tr><td>Norton-1</td><td align="right">47</td><td>
 with head high and with ravening hunger,
@@ -2176,7 +2176,7 @@ When I saw him in the great desert,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">65</td><td>
-"Miserere di me", gridai a lui,
+«Miserere di me», gridai a lui,
 </td></tr>
 <tr><td>Norton-1</td><td align="right">65</td><td>
 "Have pity on me!" I cried to him,
@@ -2210,7 +2210,7 @@ When I saw him in the great desert,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">66</td><td>
-"qual che tu sii, od ombra od omo certo!".
+«qual che tu sii, od ombra od omo certo!».
 </td></tr>
 <tr><td>Norton-1</td><td align="right">66</td><td>
 "whatso thou art, or shade or real man."
@@ -2244,7 +2244,7 @@ When I saw him in the great desert,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">67</td><td>
-Rispuosemi: "Non omo, omo già fui,
+Rispuosemi: «Non omo, omo già fui,
 </td></tr>
 <tr><td>Norton-1</td><td align="right">67</td><td>
 He answered me: "Not man; man once I was,
@@ -2312,7 +2312,7 @@ and my relatives were Lombards,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">69</td><td>
-mantoani per patria ambedui.
+mantoani per patrïa ambedui.
 </td></tr>
 <tr><td>Norton-1</td><td align="right">69</td><td>
 and Mantuans by country both.
@@ -2516,7 +2516,7 @@ the son of Anchises, who came from Troy,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">75</td><td>
-poi che ’l superbo Ilión fu combusto.
+poi che ’l superbo Ilïón fu combusto.
 </td></tr>
 <tr><td>Norton-1</td><td align="right">75</td><td>
 after proud Ilion had been burned.
@@ -2618,7 +2618,7 @@ Why don't you go up the pleasant mountain
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">78</td><td>
-ch’è principio e cagion di tutta gioia?".
+ch’è principio e cagion di tutta gioia?».
 </td></tr>
 <tr><td>Norton-1</td><td align="right">78</td><td>
 which is the source and cause of every joy?"
@@ -2652,7 +2652,7 @@ which is the beginning and cause of all joy? "
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">79</td><td>
-"Or se’ tu quel Virgilio e quella fonte
+«Or se’ tu quel Virgilio e quella fonte
 </td></tr>
 <tr><td>Norton-1</td><td align="right">79</td><td>
 "Art thou then that Virgil and that fount
@@ -2686,7 +2686,7 @@ which is the beginning and cause of all joy? "
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">80</td><td>
-che spandi di parlar sì largo fiume?",
+che spandi di parlar sì largo fiume?»,
 </td></tr>
 <tr><td>Norton-1</td><td align="right">80</td><td>
 which poureth forth so large a stream of speech?"
@@ -2720,7 +2720,7 @@ What do you think you're talking so far? ',
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">81</td><td>
-rispuos’io lui con vergognosa fronte.
+rispuos’ io lui con vergognosa fronte.
 </td></tr>
 <tr><td>Norton-1</td><td align="right">81</td><td>
 replied I to him with bashful front:
@@ -2754,7 +2754,7 @@ I answered him shamefully.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">82</td><td>
-"O de li altri poeti onore e lume,
+«O de li altri poeti onore e lume,
 </td></tr>
 <tr><td>Norton-1</td><td align="right">82</td><td>
 "O honor and light of the other poem
@@ -2822,7 +2822,7 @@ Give me the long study and the great love
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">84</td><td>
-che m’ ha fatto cercar lo tuo volume.
+che m’ha fatto cercar lo tuo volume.
 </td></tr>
 <tr><td>Norton-1</td><td align="right">84</td><td>
 which have made me search thy volume!
@@ -2924,7 +2924,7 @@ You are only the one from whom I removed
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">87</td><td>
-lo bello stilo che m’ ha fatto onore.
+lo bello stilo che m’ha fatto onore.
 </td></tr>
 <tr><td>Norton-1</td><td align="right">87</td><td>
 the fair style that hath done me honor.
@@ -3026,7 +3026,7 @@ Help me with her, famous sage,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">90</td><td>
-ch’ella mi fa tremar le vene e i polsi".
+ch’ella mi fa tremar le vene e i polsi».
 </td></tr>
 <tr><td>Norton-1</td><td align="right">90</td><td>
 for she makes any veins and pulses tremble."
@@ -3060,7 +3060,7 @@ She makes my veins and wrists tremble."
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">91</td><td>
-"A te convien tenere altro viaggio",
+«A te convien tenere altro vïaggio»,
 </td></tr>
 <tr><td>Norton-1</td><td align="right">91</td><td>
 "Thee it behoves to hold another course,"
@@ -3128,7 +3128,7 @@ He replied, then what tears he saw me,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">93</td><td>
-"se vuo’ campar d’esto loco selvaggio;
+«se vuo’ campar d’esto loco selvaggio;
 </td></tr>
 <tr><td>Norton-1</td><td align="right">93</td><td>
 "if thou wishest to escape from this savage place;
@@ -3502,7 +3502,7 @@ He will not eat earth or pewter,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">104</td><td>
-ma sapienza, amore e virtute,
+ma sapïenza, amore e virtute,
 </td></tr>
 <tr><td>Norton-1</td><td align="right">104</td><td>
 but wisdom and love and valor,
@@ -3774,7 +3774,7 @@ That's where the first party starts.
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">112</td><td>
-Ond’io per lo tuo me’ penso e discerno
+Ond’ io per lo tuo me’ penso e discerno
 </td></tr>
 <tr><td>Norton-1</td><td align="right">112</td><td>
 Wherefore I think and deem it for thy best
@@ -4216,7 +4216,7 @@ for the emperor who reigns there,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">125</td><td>
-perch’i’ fu’ ribellante a la sua legge,
+perch’ i’ fu’ ribellante a la sua legge,
 </td></tr>
 <tr><td>Norton-1</td><td align="right">125</td><td>
 because I was rebellious to His law,
@@ -4352,7 +4352,7 @@ And there is his city, and his high seat:
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">129</td><td>
-oh felice colui cu’ ivi elegge!".
+oh felice colui cu’ ivi elegge!».
 </td></tr>
 <tr><td>Norton-1</td><td align="right">129</td><td>
 O happy he whom thereto He elects!"
@@ -4386,7 +4386,7 @@ Happy is he who elects there! "
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">130</td><td>
-E io a lui: "Poeta, io ti richeggio
+E io a lui: «Poeta, io ti richeggio
 </td></tr>
 <tr><td>Norton-1</td><td align="right">130</td><td>
 And I to him, "Poet, I beseech thee
@@ -4488,7 +4488,7 @@ that I may flee this evil and worse,
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">133</td><td>
-che tu mi meni là dov’or dicesti,
+che tu mi meni là dov’ or dicesti,
 </td></tr>
 <tr><td>Norton-1</td><td align="right">133</td><td>
 that thou lead me thither whom thou now hast said,
@@ -4556,7 +4556,7 @@ so that I may see the door of Saint Peter
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">135</td><td>
-e color cui tu fai cotanto mesti".
+e color cui tu fai cotanto mesti».
 </td></tr>
 <tr><td>Norton-1</td><td align="right">135</td><td>
 and those whom thou makest so afflicted."

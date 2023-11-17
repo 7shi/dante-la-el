@@ -47,11 +47,11 @@
 <td>la paura<br>恐怖が蘇る</td>
 </tr></table>
 
-7 Tant’è amara che poco è più morte;  
+7 Tant’ è amara che poco è più morte;  
 7 それほど苦い、ほんの少しは死に近い
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
-<td>Tant’è amara<br>それほど苦い</td>
+<td>Tant’ è amara<br>それほど苦い</td>
 <td>che poco è più morte<br>ほんの少しは死に近い</td>
 </tr></table>
 
@@ -63,27 +63,27 @@
 <td>ch’i’ vi trovai<br>私が見つけたものを語るために</td>
 </tr></table>
 
-9 dirò de l’altre cose ch’i’ v’ ho scorte.  
+9 dirò de l’altre cose ch’i’ v’ho scorte.  
 9 他の事について語る、私が見たもの
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
 <td>dirò de l’altre cose<br>他の事について語る</td>
-<td>ch’i’ v’ ho scorte<br>私が見たもの</td>
+<td>ch’i’ v’ho scorte<br>私が見たもの</td>
 </tr></table>
 
-10 Io non so ben ridir com’i’ v’intrai,  
+10 Io non so ben ridir com’ i’ v’intrai,  
 10 私は正確には言えません、どのようにして入ったのか
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
 <td>Io non so ben ridir<br>私は正確には言えません</td>
-<td>com’i’ v’intrai<br>どのようにして入ったのか</td>
+<td>com’ i’ v’intrai<br>どのようにして入ったのか</td>
 </tr></table>
 
-11 tant’era pien di sonno a quel punto  
+11 tant’ era pien di sonno a quel punto  
 11 それほど眠かった、その時点で
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
-<td>tant’era pien di sonno<br>それほど眠かった</td>
+<td>tant’ era pien di sonno<br>それほど眠かった</td>
 <td>a quel punto<br>その時点で</td>
 </tr></table>
 
@@ -289,11 +289,11 @@
 <td>più volte vòlto<br>何度も回り返すことがあった</td>
 </tr></table>
 
-37 Temp’era dal principio del mattino,  
+37 Temp’ era dal principio del mattino,  
 37 朝のはじまりから
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
-<td>Temp’era dal principio<br>朝のはじまりから</td>
+<td>Temp’ era dal principio<br>朝のはじまりから</td>
 <td>del mattino<br>それまでの時間</td>
 </tr></table>
 
@@ -368,11 +368,11 @@
 <td>che contra me venisse<br>私に向かって来る</td>
 </tr></table>
 
-47 con la test’alta e con rabbiosa fame,  
+47 con la test’ alta e con rabbiosa fame,  
 47 頭を高く持ちながら、そして、激しい飢えを
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
-<td>con la test’alta<br>頭を高く持ちながら</td>
+<td>con la test’ alta<br>頭を高く持ちながら</td>
 <td>e con rabbiosa fame<br>そして</td>
 </tr></table>
 
@@ -512,7 +512,7 @@
 <td>nel gran diserto<br>大きな荒野で</td>
 </tr></table>
 
-65 "Miserere di me", gridai a lui,  
+65 «Miserere di me», gridai a lui,  
 65 "私を憐れんでください"と彼に叫んだ
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
@@ -520,7 +520,7 @@
 <td>gridai a lui<br>彼に叫んだ</td>
 </tr></table>
 
-66 "qual che tu sii, od ombra od omo certo!".  
+66 «qual che tu sii, od ombra od omo certo!».  
 66 "君が何者であろうとも、影であろうと、確かな人であろうとも"
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
@@ -529,7 +529,7 @@
 <td>od omo certo<br>確かな人であろうとも"</td>
 </tr></table>
 
-67 Rispuosemi: "Non omo, omo già fui,  
+67 Rispuosemi: «Non omo, omo già fui,  
 67 彼は答えた: "私は人ではなく、以前は人間でした、
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
@@ -616,7 +616,7 @@
 <td>il dilettoso monte<br>楽園の山を</td>
 </tr></table>
 
-78 ch’è principio e cagion di tutta gioia?".  
+78 ch’è principio e cagion di tutta gioia?».  
 78 それは全ての喜びの始まりであり、原因で、全ての喜びの原因なのか？
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
@@ -624,7 +624,7 @@
 <td>di tutta gioia<br>全ての喜びの原因なのか？</td>
 </tr></table>
 
-79 "Or se’ tu quel Virgilio e quella fonte  
+79 «Or se’ tu quel Virgilio e quella fonte  
 79 "さて、君はあのウィルギリウスか、そして、あの泉か
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
@@ -632,7 +632,7 @@
 <td>e quella fonte<br>そして</td>
 </tr></table>
 
-80 che spandi di parlar sì largo fiume?",  
+80 che spandi di parlar sì largo fiume?»,  
 80 君が広範な言葉を広げるあの大きな川のように？
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
@@ -640,15 +640,15 @@
 <td>sì largo fiume<br>あの大きな川のように？</td>
 </tr></table>
 
-81 rispuos’io lui con vergognosa fronte.  
+81 rispuos’ io lui con vergognosa fronte.  
 81 私は彼に答えた、恥ずかしい顔をして。
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
-<td>rispuos’io lui<br>私は彼に答えた</td>
+<td>rispuos’ io lui<br>私は彼に答えた</td>
 <td>con vergognosa fronte<br>恥ずかしい顔をして。</td>
 </tr></table>
 
-82 "O de li altri poeti onore e lume,  
+82 «O de li altri poeti onore e lume,  
 82 "ああ、他の詩人たちの栄光と灯りよ、
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
@@ -664,11 +664,11 @@
 <td>e ’l grande amore<br>大きな愛が</td>
 </tr></table>
 
-84 che m’ ha fatto cercar lo tuo volume.  
+84 che m’ha fatto cercar lo tuo volume.  
 84 私にもたらした君の作品を探し求めることを。
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
-<td>che m’ ha fatto<br>私にもたらした</td>
+<td>che m’ha fatto<br>私にもたらした</td>
 <td>cercar lo tuo volume<br>君の作品を探し求めることを。</td>
 </tr></table>
 
@@ -688,12 +688,12 @@
 <td>da cu’ io tolsi<br>私が借りた</td>
 </tr></table>
 
-87 lo bello stilo che m’ ha fatto onore.  
+87 lo bello stilo che m’ha fatto onore.  
 87 その美しいスタイル、そのスタイルは私に誇りをもたらした。
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
 <td>lo bello stilo<br>その美しいスタイル</td>
-<td>che m’ ha fatto onore<br>そのスタイルは私に誇りをもたらした。</td>
+<td>che m’ha fatto onore<br>そのスタイルは私に誇りをもたらした。</td>
 </tr></table>
 
 88 Vedi la bestia per cu’ io mi volsi;  
@@ -712,7 +712,7 @@
 <td>famoso saggio<br>有名な賢者よ</td>
 </tr></table>
 
-90 ch’ella mi fa tremar le vene e i polsi".  
+90 ch’ella mi fa tremar le vene e i polsi».  
 90 それが私にぞくぞくとさせる血管と脈動。
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
@@ -720,7 +720,7 @@
 <td>le vene e i polsi<br>血管と脈動。</td>
 </tr></table>
 
-91 "A te convien tenere altro vïaggio",  
+91 «A te convien tenere altro vïaggio»,  
 91 "君には他の旅を続ける必要がある"
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
@@ -736,7 +736,7 @@
 <td>poi che lagrimar mi vide<br>私が涙を流すのを見て</td>
 </tr></table>
 
-93 "se vuo’ campar d’esto loco selvaggio;  
+93 «se vuo’ campar d’esto loco selvaggio;  
 93 "もし生き残りたいなら、この荒野から出るべきだ。"
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
@@ -890,11 +890,11 @@
 <td>prima dipartilla<br>初めて分かれる。</td>
 </tr></table>
 
-112 Ond’io per lo tuo me’ penso e discerno  
+112 Ond’ io per lo tuo me’ penso e discerno  
 112 それゆえ、私はあなたのために考えますし、理解します
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
-<td>Ond’io per lo tuo me’ penso<br>それゆえ</td>
+<td>Ond’ io per lo tuo me’ penso<br>それゆえ</td>
 <td>e discerno<br>そして理解します</td>
 </tr></table>
 
@@ -993,11 +993,11 @@
 <td>che là sù regna<br>そこで統治しているから</td>
 </tr></table>
 
-125 perch’i’ fu’ ribellante a la sua legge,  
+125 perch’ i’ fu’ ribellante a la sua legge,  
 125 なぜなら私が彼の法に反抗者であったから
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
-<td>perch’i’ fu’ ribellante<br>なぜなら私が反抗者であったから</td>
+<td>perch’ i’ fu’ ribellante<br>なぜなら私が反抗者であったから</td>
 <td>a la sua legge<br>彼の法に対して</td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@
 <td>e l’alto seggio<br>高い王座がある。</td>
 </tr></table>
 
-129 oh felice colui cu’ ivi elegge!".  
+129 oh felice colui cu’ ivi elegge!».  
 129 ああ、幸せな者、そこを選ぶ者は。
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
@@ -1033,7 +1033,7 @@
 <td>cu’ ivi elegge<br>そこを選ぶ者は。</td>
 </tr></table>
 
-130 E io a lui: "Poeta, io ti richeggio  
+130 E io a lui: «Poeta, io ti richeggio  
 130 そして私は彼に言った："詩人、お願いします、
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
@@ -1057,12 +1057,12 @@
 <td>questo male e peggio<br>この悪とそれ以上悪くないように。</td>
 </tr></table>
 
-133 che tu mi meni là dov’or dicesti,  
+133 che tu mi meni là dov’ or dicesti,  
 133 あなたが言った場所に私を連れて行ってください、
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>
 <td>che tu mi meni<br>あなたが私を連れて行く</td>
-<td>là dov’or dicesti<br>あなたが以前に言った場所に</td>
+<td>là dov’ or dicesti<br>あなたが以前に言った場所に</td>
 </tr></table>
 
 134 sì ch’io veggia la porta di san Pietro  
@@ -1073,7 +1073,7 @@
 <td>la porta di san Pietro<br>聖ペトロの門</td>
 </tr></table>
 
-135 e color cui tu fai cotanto mesti".  
+135 e color cui tu fai cotanto mesti».  
 135 そしてあなたがそんなに悲しませている人々を。
 
 <table><tr><td><b>Italian:<br>Japanese:</b></td>

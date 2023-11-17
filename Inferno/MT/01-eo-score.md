@@ -17,7 +17,7 @@
 |    9 | 0.266 | 12     | mi diros pri la aliaj aferoj kiujn mi vidis tie.        |
 |   10 | 0.344 | 2      | Mi ne scias bone diri kiel mi eniris,                   |
 |   11 | 0.341 | 2      | Tiom mi estis plena de dormo en tiu momento             |
-|   12 | 0.053 | 1356   | ke mi forlasis la veran vojon                           |
+|   12 | 0.053 | 1356   | ke mi forlasis la veran vojon.                          |
 |   13 | 0.325 | 2      | Sed post kiam mi atingis la piedon de monteto,          |
 |   14 | 0.330 | 3      | tie kie tiu valo finiĝis,                               |
 |   15 | 0.612 | 6      | ke mia koro timis,                                      |
@@ -58,7 +58,7 @@
 |   50 | 0.512 | 5      | ŝi ŝajnis ŝarĝita en sia maldikeco,                     |
 |   51 | 0.478 | 3      | kaj jam igis multajn homojn vivi mizeraj,               |
 |   52 | 0.331 | 1      | tiu donis al mi tiom da pezo                            |
-|   53 | 0.219 | 1      | kun la timo kiu eliris el ŝia vidaĵo                    |
+|   53 | 0.219 | 1      | kun la timo kiu eliris el ŝia vidaĵo,                   |
 |   54 | 0.249 | 13     | ke mi perdis la esperon de la alteco.                   |
 |   55 | 0.208 | 5      | Kaj kiu estas tiu, kiu volonte aĉetas,                  |
 |   56 | 0.378 | 5      | kaj venos la tempo, kiu igos lin perdi,                 |
@@ -84,17 +84,17 @@
 |   76 | 0.299 | 1      | Sed kial vi revenas al tiel da enuigo?                  |
 |   77 | 0.199 | 3      | kial vi ne supreniras la ĝojigan monton                 |
 |   78 | 0.127 | 2      | Kiu estas komenco kaj kaŭzo de ĉia ĝojo?"               |
-|   79 | 0.080 | 12     | Nun, ĉu vi estas tiu Virgilio kaj tiu fonto             |
+|   79 | 0.080 | 12     | "Nun, ĉu vi estas tiu Virgilio kaj tiu fonto            |
 |   80 | 0.548 | 3      | kiu elverŝas tiel vastan riveron da parolo?"            |
 |   81 | 0.346 | 2      | Mi respondis al li kun honta vizaĝo.                    |
 |   82 | 0.578 | 4      | "Vi estas la honoro kaj lumo de aliaj poetoj,           |
 |   83 | 0.356 | 6      | Donu al mi la longan studion kaj la grandan amon        |
 |   84 | 0.217 | 5      | kiu igis min serĉi vian volumon.                        |
-|   85 | 0.147 | 12     | Vi estas mia majstro kaj mia aŭtoro                     |
+|   85 | 0.147 | 12     | Vi estas mia majstro kaj mia aŭtoro,                    |
 |   86 | 0.205 | 35     | vi estas nur tiu, de kiu mi prenis                      |
 |   87 | 0.278 | 36     | la bela stilo, kiu honoris min.                         |
 |   88 | 0.214 | 6      | Vidu la beston, pro kiu mi turnis;                      |
-|   89 | 0.102 | 125    | helpu min de ŝi, fama saĝulo                            |
+|   89 | 0.102 | 125    | helpu min de ŝi, fama saĝulo,                           |
 |   90 | 0.326 | 2      | Ĉar ŝi faras tremi miajn vejnojn kaj pulsojn".          |
 |   91 | 0.465 | 3      | "Al vi devas fari alian vojaĝon",                       |
 |   92 | 0.281 | 12     | li respondis, kiam li vidis min plori,                  |
@@ -120,23 +120,23 @@
 |  112 | 0.546 | 1      | Tial, mi pensas kaj distingas tra via vizaĝo            |
 |  113 | 0.183 | 6      | ke vi sekvu min, kaj mi estos via gvidanto,             |
 |  114 | 0.351 | 3      | kaj kondukos vin de ĉi tie al eterna loko;              |
-|  115 | 0.122 | 15     | kie vi aŭdos la desperajn kriojn                        |
+|  115 | 0.122 | 15     | kie vi aŭdos la desperajn kriojn,                       |
 |  116 | 0.183 | 4      | vi vidos la antikvajn suferantajn spiritojn,            |
-|  117 | 0.516 | 1      | ke ĉiu krias al la dua morto                            |
+|  117 | 0.516 | 1      | ke ĉiu krias al la dua morto;                           |
 |  118 | 0.237 | 23     | Kaj vi vidos tiujn, kiuj estas kontentaj                |
 |  119 | 0.026 | 12356  | en la fajro, ĉar ili esperas veni                       |
 |  120 | 0.376 | 24     | Kiam ajn al la feliĉaj popoloj.                         |
 |  121 | 0.468 | 2      | Al kiuj poste se vi volas supreniri,                    |
-|  122 | 0.427 | 1      | la animo estos al tio pli digna ol mi                   |
+|  122 | 0.427 | 1      | la animo estos al tio pli digna ol mi:                  |
 |  123 | 0.414 | 6      | kun ŝi Mi forlasos vin en mia foriri;                   |
 |  124 | 0.265 | 45     | ĉar tiu imperiestro, kiu regas tie supre,               |
 |  125 | 0.218 | 3      | ĉar mi estis ribela kontraŭ lia leĝo,                   |
 |  126 | 0.487 | 3      | li ne volas, ke oni en sian urbon venu tra mi.          |
 |  127 | 0.431 | 3      | En ĉiuj partoj li regas kaj tie regas;                  |
 |  128 | 0.149 | 5      | tie estas Lia urbo kaj Lia alta trono;                  |
-|  129 | 0.276 | 3      | ho feliĉa estas tiu, kiun li elektas tie!".             |
+|  129 | 0.276 | 3      | ho feliĉa estas tiu, kiun li elektas tie!"              |
 |  130 | 0.257 | 3      | Kaj mi al li: "Poeto, mi petas vin                      |
-|  131 | 0.213 | 134    | por tiu Dio kiun vi ne konis                            |
+|  131 | 0.213 | 134    | por tiu Dio kiun vi ne konis,                           |
 |  132 | 0.121 | 3      | por ke mi forkuru ĉi tiun malbonon kaj pli malbonon,    |
 |  133 | 0.304 | 4      | ke vi min konduku tien, kie vi diris,                   |
 |  134 | 0.078 | 25     | Por ke mi vidu la pordon de Sankta Petro                |
