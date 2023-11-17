@@ -211,3 +211,217 @@ Okay, thank you for clarifying. Here is a more detailed summary of Canto 11 of D
 - Virgil explains usury is a sin of violence against art and nature, which is less offensive to God than physical violence against others.
 
 - They continue descending as the canto comes to a close.
+
+## 12
+
+    This is a translation of Dante's Divine Comedy Inferno Canto 12. Please summarize it.
+
+Here is a summary of the key events in Canto 12 of Dante's Inferno:
+
+- Dante and Virgil descend into the seventh circle of Hell, where the violent are punished. The terrain is treacherous.
+
+- They encounter the Minotaur, who gnaws at himself in anger. Virgil taunts him and they continue on. 
+
+- Virgil explains this circle did not exist until after Christ's death, when it collapsed into creation.
+
+- They reach the river Phlegethon, filled with boiling blood where the violent are immersed according to their sins. 
+
+- Centaurs patrol the banks, shooting arrows at any sinners who emerge too far from the river. 
+
+- Three centaurs approach, but Virgil negotiates safe passage, identifying Chiron and two others.
+
+- Chiron assigns Nessus as their guide across the boiling blood river.
+
+- Nessus identifies tyrants and murderers immersed in the blood, including Alexander the Great and Dionysius I of Syracuse. 
+
+- Dante sees sinners immersed up to their eyebrows. Nessus says they grow more shallow as the river approaches the center.
+
+- He identifies traitors immersed in the boiling blood before turning back across the river.
+
+## 13
+
+    This is a translation of Dante's Divine Comedy Inferno Canto 13. Please summarize it.
+
+Here is a summary of the key events in Canto 13 of Dante's Inferno:
+
+- Dante and Virgil enter a wood filled with black, twisted trees that are actually souls of the violent transformed into tortured plants.
+
+- Dante breaks off a branch thinking it's a tree, but hears cries of pain as it bleeds and speaks. 
+
+- The tree-soul explains it was once a man who served Frederick II faithfully but was betrayed by a courtier and committed suicide, transforming into a tree.
+
+- Virgil asks if any souls imprisoned in the trees are ever freed, and the tree says after death they are assigned here by Minos, transformed into trees and fed upon by Harpies, but will reclaim their bodies after judgment. 
+
+- Two naked, bloody souls run past, chased by black hounds that tear one apart. 
+
+- One identifies the other as Jacopo da Sant' Andrea of Padua, whose bleeding branches speak of betraying his city.
+
+- Dante feels pity for the suffering souls trapped in tree form in this wretched forest of the violent.
+
+## 14
+
+    This is a translation of Dante's Divine Comedy Inferno Canto 14. Please summarize it.
+
+Here is a summary of the key events in Inferno Canto 14:
+
+- Dante gathers up the bleeding branches of the tree that contains the soul of Jacopo da Sant' Andrea, feeling pity for its suffering.
+
+- They reach the third ring of the seventh circle, a hot desert where violent sinners lie on the burning sand or walk endlessly. 
+
+- Flakes of fire fall slowly like snow, tormenting the souls. Dante sees Capaneus, one of the kings who besieged Thebes, lying scornfully on the sand unaffected by the flames.
+
+- Virgil rebukes Capaneus for his arrogance. He explains Capaneus was killed by Zeus's lightning bolt for scorning the gods.
+
+- They reach a red river formed by the tears of a giant Old Man of Crete. The river flows into Cocytus at the bottom of Hell.
+
+- Dante asks why the river appears only here. Virgil explains it's because they've only circled partway down through Hell's cone. 
+
+- Dante also asks about Lethe. Virgil says it's outside the walls of Dis where souls bathe after repenting their sins.
+
+- They prepare to leave the burning desert, walking along the cool margins of the river.
+
+## 15
+
+    This is a translation of Dante's Divine Comedy Inferno Canto 15. Please summarize it.
+
+Here is a summary of the key events in Inferno Canto 15:
+
+- Dante and Virgil walk along the edge of the burning sand, protected by the mist from the nearby river. Dante compares the embankments to those built to hold back rivers in Flanders and Padua.
+
+- A group shades gaze and whisper as they pass. One recognizes Dante - it's his old teacher Brunetto Latini.
+
+- Brunetto asks to speak with Dante. He says any who pause in their walking are punished by staying 100 years, but he will briefly walk back with Dante. 
+
+- Dante shows reverence to his old master who helped nurture his talents. Brunetto asks why Dante is in Hell.
+
+- Dante explains he lost his way in life but has been guided back by Virgil. Brunetto praises Dante's potential for glory if he follows his calling.  
+
+- However, he warns Dante that Florence, descended from wicked Fesole, will oppose him out of envy of his virtues. He advises Dante to avoid their vices.
+
+- Dante pledges his good conscience against Fortune's wheel. Brunetto gives Dante a veiled prophecy of exile, and introduces him to fellow sinners - clerks, men of letters, and homosexuals.
+
+- Brunetto takes his leave, comparing himself to a winner of the Verona race, and runs back to rejoin the other sinners.
+
+## 16
+
+    This is a translation of Dante's Divine Comedy Inferno Canto 16. Please summarize it.
+
+Here is a summary of the key events in Inferno Canto 16:
+
+- Dante hears a waterfall ahead. Three shades approach, moving in a wheel, asking Dante to identify himself as he travels safely through Hell.
+
+- One is Guidoguerra, another Tegghiaio Aldobrandi, and the third Jacopo Rusticucci - all esteemed Florentines. Their bodies are burned and scarred by flames. 
+
+- Dante longs to embrace them but is prevented by the fire. He tells them he comes from Florence and seeks the fruits of virtue, not vice. 
+
+- They request news of Florence and if citizens still honor valor and courtesy. Dante praises past virtue but says Florence now breeds pride and excess.
+
+- The sinners break their wheel, seeming to fly away swiftly at Dante's satisfying response. 
+
+- Dante and Virgil approach the waterfall formed by the river Acquacheta on the outskirts of Florence before sinking underground.
+
+- Virgil casts Dante's cord into the abyss, saying something will rise to it. Dante sees a figure swimming up that makes his heart marvel.
+
+## 17
+
+    This is a translation of Dante's Divine Comedy Inferno Canto 17. Please summarize it.
+
+Here is a summary of the key events in Inferno Canto 17:
+
+- Virgil points out the monster Geryon, who has a benign human face but a serpentine body covered in knotted scales and shields. His tail is poisonous. 
+
+- They approach the usurers sitting on the sand near Geryon. Dante does not recognize them, but sees they each have a pouch around their neck bearing symbolic colors and crests. 
+
+- One identifies himself as Vitaliano del Dente of Padua and says his neighbor will be Giovanni di Buiamonte, a Florentine usurer. 
+
+- Dante quickly leaves them and finds Virgil, who has mounted Geryon, a winged beast who will transport them down to the eighth circle.
+
+- Dante hesitantly mounts in front of Virgil, who encourages and protects him as Geryon takes off and begins circling downward. 
+
+- Dante is terrified looking down into the abyss and seeing the fires and hearing screams below.
+
+- They make many rounds downward before Geryon deposits them at the edge of the eigth circle and speeds away.
+
+## 18
+
+    This is a translation of Dante's Divine Comedy Inferno Canto 18. Please summarize it.
+
+Here is a summary of the key events in Inferno Canto 18:
+
+- Dante and Virgil enter Malebolge, the eighth circle of Hell, divided into ten concentric ditches.
+
+- In the first ditch, demons scourge the panderers and seducers. Dante recognizes Venedico Caccianemico, who recounts selling his sister to the Marquis. 
+
+- Many other Bolognese are here, so many their dialect permeates this ditch.
+
+- A demon whips Venedico for pimping as Dante moves on. 
+
+- On a ridge between ditches, Virgil points out the pander Jason and other deceivers in the second ditch.
+
+- In the third ditch, Dante sees flatterers immersed in human excrement. He recognizes the flatterer Alessio Interminei of Lucca.
+
+- Virgil then points out Thais, a shameless prostitute who flattered her lover, as a model of this sin.
+
+- Dante's vision of the third ditch satisfies his curiosity and they prepare to move on.
+
+## 19
+
+    This is a translation of Dante's Divine Comedy Inferno Canto 19. Please summarize it.
+
+Here is a summary of the key events in Inferno Canto 19:
+
+- Dante indicts the simonists, those who sell church offices and sacraments for money, calling them corrupt disciples.
+
+- In the third ditch, he sees their feet sticking out of holes in the rock as their upper bodies are hidden inside. Their soles are on fire.
+
+- Dante asks about one sinner writhing more than the others - it is Pope Boniface VIII. 
+
+- Mistaking Dante for someone else, Boniface admits his simony and predicts the coming of another corrupt pope.
+
+- Dante condemns Boniface for his greed, abuse of power, and moral failings, citing Constantine's donation as the church's downfall. 
+
+- He praises his guide Virgil who protected him while he rebuked the pope.
+
+- They move on to the fourth ditch, where Dante sees it is filled with diviners and astrologers. Virgil carries Dante carefully between ditches along the dangerous path.
+
+## 20
+
+    This is a translation of Dante's Divine Comedy Inferno Canto 20. Please summarize it.
+
+Here is a summary of the key events in Inferno Canto 20:
+
+- Dante sees the diviners and astrologers in the fourth ditch, with their heads twisted around backwards. 
+
+- Virgil explains their contorted shapes and identifies famous mythological and historical diviners, including Amphiaraus, Tiresias, Aruns, and Manto.
+
+- Manto was the daughter of Tiresias who founded Mantua after fleeing Thebes. Virgil recounts the city's mythical origins.
+
+- Dante asks if Virgil recognizes any noteworthy sinners. Virgil points out the Greek augur Calchas from the Trojan War, the magician Michael Scott, the astrologer Guido Bonatti, the shoemaker Asdente, and others. 
+
+- Virgil reminds Dante that night is falling and they must continue on, having passed through the hemisphere of land and nearing the ocean. The canto ends as they walk on through the Malebolge.
+
+## 11-20
+
+    Please summarize Canto 11 through 20 for each Canto in sentence form, not bullet points.
+
+Here are one-sentence summaries for Cantos 11 through 20 of Dante's Inferno:
+
+Canto 11: Dante and Virgil enter the sixth circle of heretics and see the tomb of Pope Anastasius; Virgil explains the layout of Hell and its sins.
+
+Canto 12: Dante sees the Minotaur and the river of blood where the violent are punished, with Centaurs guarding the banks; Nessus guides them across.
+
+Canto 13: In a forest where suicides have become trees, Dante breaks a branch causing it to bleed and speak of its human past.
+
+Canto 14: Dante meets Brunetto Latini and other sodomites, praises Florence's past, and moves on quickly at Virgil's urging. 
+
+Canto 15: Virgil points out the monster Geryon who will transport them down to fraud; Dante sees usurers including one from Padua.
+
+Canto 16: Dante speaks with three noble Florentines punished for violence; they request news of their city before running off swiftly.
+
+Canto 17: Virgil shows Dante the fraud Geryon in human, beast and serpentine forms, as they pass usurers on the way down.
+
+Canto 18: In the Malebolge, Dante sees panderers whipped including Venedico Caccianemico; Virgil identifies other deceivers.
+
+Canto 19: Dante rebukes Pope Boniface VIII for simony where the corrupt popes are punished upside-down in holes.
+
+Canto 20: Virgil points out famous soothsayers and diviners with heads twisted backward for wanting to see too far ahead.
