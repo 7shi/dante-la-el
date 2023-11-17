@@ -2111,7 +2111,7 @@ e li parenti miei furon lombardi,
 mantoani per patrïa ambedui.
 </td></tr>
 <tr><td>MIX</td><td align="right">69</td><td>
-Μαντουάνοι και οι δύο από την πατρίδα τους.
+μαντουάνοι και οι δύο από την πατρίδα τους.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">69</td><td>
 μαντούαν για πατρίδα, και οι δύο.
@@ -2452,7 +2452,7 @@ ch’è principio e cagion di tutta gioia?».
 che spandi di parlar sì largo fiume?»,
 </td></tr>
 <tr><td>MIX</td><td align="right">80</td><td>
-που απλώνεις του να μιλάς τόσο πλατύ ποτάμι;",
+που απλώνεις του να μιλάς τόσο πλατύ ποτάμι;"
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">80</td><td>
 που χύνεις τόσο ευρύ ποταμό μιλώντας;";
@@ -2731,7 +2731,7 @@ Vedi la bestia per cu’ io mi volsi;
 aiutami da lei, famoso saggio,
 </td></tr>
 <tr><td>MIX</td><td align="right">89</td><td>
-Βοήθησέ με από αυτήν, διάσημο σοφό,
+βοήθησέ με από αυτήν, διάσημο σοφό,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">89</td><td>
 βοήθησέ με από αυτή, διάσημε σοφέ,
@@ -3754,7 +3754,7 @@ A le quai poi se tu vorrai salire,
 anima fia a ciò più di me degna:
 </td></tr>
 <tr><td>MIX</td><td align="right">122</td><td>
-μια ψυχή θα είναι πιο αξιόλογη αυτό από εμένα·
+η ψυχή θα είναι πιο αξιόλογη από μένα γι' αυτό:
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">122</td><td>
 μια ψυχή θα είναι περισσότερο αξίζουσα από εμένα:

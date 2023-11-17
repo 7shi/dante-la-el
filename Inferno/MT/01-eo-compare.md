@@ -278,7 +278,7 @@ Do plena de dormo en tiu momento
 che la verace via abbandonai.
 </td></tr>
 <tr><td>MIX</td><td align="right">12</td><td>
-ke mi forlasis la veran vojon
+ke mi forlasis la veran vojon.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">12</td><td>
 ke mi forlasis la veran vojon.
@@ -1303,7 +1303,7 @@ tio donis al mi tiom da pezoj
 con la paura ch’uscia di sua vista,
 </td></tr>
 <tr><td>MIX</td><td align="right">53</td><td>
-kun la timo kiu eliris el ŝia vidaĵo
+kun la timo kiu eliris el ŝia vidaĵo,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">53</td><td>
 kun la timon eliranta el ĝia vidon,
@@ -1953,7 +1953,7 @@ kiu estas la komenco kaj la kauzo de ĉiu ĝojo? "
 «Or se’ tu quel Virgilio e quella fonte
 </td></tr>
 <tr><td>MIX</td><td align="right">79</td><td>
-Nun, ĉu vi estas tiu Virgilio kaj tiu fonto
+"Nun, ĉu vi estas tiu Virgilio kaj tiu fonto
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">79</td><td>
 "Nun vi estas tiu Vergilio kaj tiu fonto
@@ -2103,7 +2103,7 @@ Tio faris min serĉi vian volumon.
 Tu se’ lo mio maestro e ’l mio autore,
 </td></tr>
 <tr><td>MIX</td><td align="right">85</td><td>
-Vi estas mia majstro kaj mia aŭtoro
+Vi estas mia majstro kaj mia aŭtoro,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">85</td><td>
 Vi estas mia instruisto kaj mia aŭtoro,
@@ -2203,7 +2203,7 @@ Vidu la beston, pro kiu mi turnis;
 aiutami da lei, famoso saggio,
 </td></tr>
 <tr><td>MIX</td><td align="right">89</td><td>
-helpu min de ŝi, fama saĝulo
+helpu min de ŝi, fama saĝulo,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">89</td><td>
 helpu min de ĝi, fama saĝulo,
@@ -2853,7 +2853,7 @@ kaj foriris el ĝi al ekstera loko;
 ove udirai le disperate strida,
 </td></tr>
 <tr><td>MIX</td><td align="right">115</td><td>
-kie vi aŭdos la desperajn kriojn
+kie vi aŭdos la desperajn kriojn,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">115</td><td>
 kie vi aŭdos la malfeliĉajn krikojn,
@@ -2903,7 +2903,7 @@ vi vidos la antikvajn malĝojajn spiritojn,
 ch’a la seconda morte ciascun grida;
 </td></tr>
 <tr><td>MIX</td><td align="right">117</td><td>
-ke ĉiu krias al la dua morto
+ke ĉiu krias al la dua morto;
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">117</td><td>
 kiuj en la dua morto ĉiu krias;
@@ -3028,7 +3028,7 @@ Se vi volas iri supre,
 anima fia a ciò più di me degna:
 </td></tr>
 <tr><td>MIX</td><td align="right">122</td><td>
-la animo estos al tio pli digna ol mi
+la animo estos al tio pli digna ol mi:
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">122</td><td>
 animo estos pli inda por tio ol mi:
@@ -3203,7 +3203,7 @@ Kaj tie estas lia urbo kaj lia alta sido.
 oh felice colui cu’ ivi elegge!».
 </td></tr>
 <tr><td>MIX</td><td align="right">129</td><td>
-ho feliĉa estas tiu, kiun li elektas tie!".
+ho feliĉa estas tiu, kiun li elektas tie!"
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">129</td><td>
 ho feliĉa estas tiu, kiun li elektas tie!"
@@ -3253,7 +3253,7 @@ Kaj mi diris al li, "Poeto, mi volas vin
 per quello Dio che tu non conoscesti,
 </td></tr>
 <tr><td>MIX</td><td align="right">131</td><td>
-por tiu Dio kiun vi ne konis
+por tiu Dio kiun vi ne konis,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">131</td><td>
 por tiu Dio, kiun vi ne konis,
