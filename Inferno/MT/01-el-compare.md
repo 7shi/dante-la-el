@@ -2,6 +2,9 @@
 <tr><td>Dante</td><td align="right">1</td><td>
 Nel mezzo del cammin di nostra vita
 </td></tr>
+<tr><td>MIX</td><td align="right">1</td><td>
+Στη μέση του ταξιδιού της ζωής μας
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">1</td><td>
 Στο μέσο του ταξιδιού της ζωής μας
 </td></tr>
@@ -29,6 +32,9 @@ Nel mezzo del cammin di nostra vita
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">2</td><td>
 mi ritrovai per una selva oscura,
+</td></tr>
+<tr><td>MIX</td><td align="right">2</td><td>
+βρέθηκα σε ένα σκοτεινό δάσος,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">2</td><td>
 βρέθηκα μέσα σε ένα σκοτεινό δάσος,
@@ -58,6 +64,9 @@ mi ritrovai per una selva oscura,
 <tr><td>Dante</td><td align="right">3</td><td>
 ché la diritta via era smarrita.
 </td></tr>
+<tr><td>MIX</td><td align="right">3</td><td>
+γιατί ο ευθείας δρόμος χάθηκε.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">3</td><td>
 επειδή η ευθεία διαδρομή ήταν χαμένη.
 </td></tr>
@@ -85,6 +94,9 @@ ché la diritta via era smarrita.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">4</td><td>
 Ahi quanto a dir qual era è cosa dura
+</td></tr>
+<tr><td>MIX</td><td align="right">4</td><td>
+Αχ, πόσο δύσκολο είναι να πω ποια ήταν
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">4</td><td>
 Ω, πόσο δύσκολο είναι να πεις τι ήταν
@@ -114,6 +126,9 @@ Ahi quanto a dir qual era è cosa dura
 <tr><td>Dante</td><td align="right">5</td><td>
 esta selva selvaggia e aspra e forte
 </td></tr>
+<tr><td>MIX</td><td align="right">5</td><td>
+Αυτό το άγριο και τραχύ και δυνατό δάσος
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">5</td><td>
 αυτό το άγριο και τραχύ και ισχυρό δάσος
 </td></tr>
@@ -141,6 +156,9 @@ esta selva selvaggia e aspra e forte
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">6</td><td>
 che nel pensier rinova la paura!
+</td></tr>
+<tr><td>MIX</td><td align="right">6</td><td>
+που στο νου ανανεώνει τον φόβο!
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">6</td><td>
 που ανανεώνει τον φόβο στη σκέψη!
@@ -170,6 +188,9 @@ che nel pensier rinova la paura!
 <tr><td>Dante</td><td align="right">7</td><td>
 Tant’è amara che poco è più morte;
 </td></tr>
+<tr><td>MIX</td><td align="right">7</td><td>
+Τόσο πικρή που λίγο είναι περισσότερο θάνατος.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">7</td><td>
 Τόσο πικρή που λίγο είναι περισσότερο από το θάνατο;
 </td></tr>
@@ -197,6 +218,9 @@ Tant’è amara che poco è più morte;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">8</td><td>
 ma per trattar del ben ch’i’ vi trovai,
+</td></tr>
+<tr><td>MIX</td><td align="right">8</td><td>
+αλλά για να μιλήσω για το καλό που βρήκα εκεί,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">8</td><td>
 αλλά για να μιλήσω για το καλό που βρήκα εκεί,
@@ -226,6 +250,9 @@ ma per trattar del ben ch’i’ vi trovai,
 <tr><td>Dante</td><td align="right">9</td><td>
 dirò de l’altre cose ch’i’ v’ ho scorte.
 </td></tr>
+<tr><td>MIX</td><td align="right">9</td><td>
+θα πω για τα άλλα πράγματα που είδα εκεί.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">9</td><td>
 θα πω για τα άλλα πράγματα που είδα εκεί.
 </td></tr>
@@ -253,6 +280,9 @@ dirò de l’altre cose ch’i’ v’ ho scorte.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">10</td><td>
 Io non so ben ridir com’i’ v’intrai,
+</td></tr>
+<tr><td>MIX</td><td align="right">10</td><td>
+Δεν ξέρω να πω καλά πώς μπήκα εκεί,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">10</td><td>
 Εγώ δεν ξέρω καλά πώς μπήκα εκεί,
@@ -282,6 +312,9 @@ Io non so ben ridir com’i’ v’intrai,
 <tr><td>Dante</td><td align="right">11</td><td>
 tant’era pien di sonno a quel punto
 </td></tr>
+<tr><td>MIX</td><td align="right">11</td><td>
+Ήταν τόσο γεμάτος ύπνο σε εκείνο το σημείο
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">11</td><td>
 τόσο γεμάτος ύπνο σε εκείνο το σημείο
 </td></tr>
@@ -309,6 +342,9 @@ tant’era pien di sonno a quel punto
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">12</td><td>
 che la verace via abbandonai.
+</td></tr>
+<tr><td>MIX</td><td align="right">12</td><td>
+που εγκατέλειψα τον αληθινό δρόμο.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">12</td><td>
 που εγκατέλειψα τον αληθινό δρόμο.
@@ -338,6 +374,9 @@ che la verace via abbandonai.
 <tr><td>Dante</td><td align="right">13</td><td>
 Ma poi ch’i’ fui al piè d’un colle giunto,
 </td></tr>
+<tr><td>MIX</td><td align="right">13</td><td>
+Αλλά όταν έφτασα στους πρόποδες ενός λόφου
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">13</td><td>
 Αλλά μετά που έφτασα στο πόδι ενός λόφου,
 </td></tr>
@@ -365,6 +404,9 @@ Ma poi ch’i’ fui al piè d’un colle giunto,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">14</td><td>
 là dove terminava quella valle
+</td></tr>
+<tr><td>MIX</td><td align="right">14</td><td>
+εκεί όπου τελείωνε αυτή η κοιλάδα
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">14</td><td>
 εκεί όπου τελείωνε εκείνη η κοιλάδα
@@ -394,6 +436,9 @@ là dove terminava quella valle
 <tr><td>Dante</td><td align="right">15</td><td>
 che m’avea di paura il cor compunto,
 </td></tr>
+<tr><td>MIX</td><td align="right">15</td><td>
+που είχε διαπεράσει την καρδιά μου με φόβο,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">15</td><td>
 που είχε διαπεράσει την καρδιά μου με φόβο,
 </td></tr>
@@ -421,6 +466,9 @@ che m’avea di paura il cor compunto,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">16</td><td>
 guardai in alto e vidi le sue spalle
+</td></tr>
+<tr><td>MIX</td><td align="right">16</td><td>
+Κοίταξα ψηλά και είδα τους ώμους του,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">16</td><td>
 κοίταξα ψηλά και είδα τους ώμους του/της/του
@@ -450,6 +498,9 @@ guardai in alto e vidi le sue spalle
 <tr><td>Dante</td><td align="right">17</td><td>
 vestite già de’ raggi del pianeta
 </td></tr>
+<tr><td>MIX</td><td align="right">17</td><td>
+ήδη ντυμένους με τις ακτίνες του πλανήτη
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">17</td><td>
 ήδη ντυμένους με τις ακτίνες του πλανήτη
 </td></tr>
@@ -477,6 +528,9 @@ vestite già de’ raggi del pianeta
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">18</td><td>
 che mena dritto altrui per ogne calle.
+</td></tr>
+<tr><td>MIX</td><td align="right">18</td><td>
+που οδηγεί τους άλλους κατευθείαν σε κάθε δρόμο.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">18</td><td>
 που οδηγεί ευθεία σε άλλους μέσα από κάθε δρόμο.
@@ -506,6 +560,9 @@ che mena dritto altrui per ogne calle.
 <tr><td>Dante</td><td align="right">19</td><td>
 Allor fu la paura un poco queta,
 </td></tr>
+<tr><td>MIX</td><td align="right">19</td><td>
+Τότε ο φόβος ηρέμησε λίγο,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">19</td><td>
 Τότε ο φόβος ήταν λίγο ήρεμος,
 </td></tr>
@@ -533,6 +590,9 @@ Allor fu la paura un poco queta,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">20</td><td>
 che nel lago del cor m’era durata
+</td></tr>
+<tr><td>MIX</td><td align="right">20</td><td>
+στη λίμνη της καρδιάς μου
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">20</td><td>
 που στη λίμνη της καρδιάς μου είχε διαρκέσει
@@ -562,6 +622,9 @@ che nel lago del cor m’era durata
 <tr><td>Dante</td><td align="right">21</td><td>
 la notte ch’i’ passai con tanta pieta.
 </td></tr>
+<tr><td>MIX</td><td align="right">21</td><td>
+τη νύχτα που πέρασα με τόσο έλεος.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">21</td><td>
 τη νύχτα που πέρασα με τόσο έλεος.
 </td></tr>
@@ -589,6 +652,9 @@ la notte ch’i’ passai con tanta pieta.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">22</td><td>
 E come quei che con lena affannata,
+</td></tr>
+<tr><td>MIX</td><td align="right">22</td><td>
+Και όπως αυτός που με κουρασμένη ανάσα
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">22</td><td>
 Και όπως εκείνοι που, με ανασασμένος προσπαθώντας να αναπνεύσει,
@@ -618,6 +684,9 @@ E come quei che con lena affannata,
 <tr><td>Dante</td><td align="right">23</td><td>
 uscito fuor del pelago a la riva,
 </td></tr>
+<tr><td>MIX</td><td align="right">23</td><td>
+βγαίνει έξω από τη θάλασσα στην ακτή,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">23</td><td>
 βγαίνουν έξω από τη θάλασσα στην ακτή,
 </td></tr>
@@ -645,6 +714,9 @@ uscito fuor del pelago a la riva,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">24</td><td>
 si volge a l’acqua perigliosa e guata,
+</td></tr>
+<tr><td>MIX</td><td align="right">24</td><td>
+στρέφεται προς το επικίνδυνο νερό και κοιτάζει,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">24</td><td>
 γυρίζει προς το επικίνδυνο νερό και κοιτάει,
@@ -674,6 +746,9 @@ si volge a l’acqua perigliosa e guata,
 <tr><td>Dante</td><td align="right">25</td><td>
 così l’animo mio, ch’ancor fuggiva,
 </td></tr>
+<tr><td>MIX</td><td align="right">25</td><td>
+έτσι η ψυχή μου, που ακόμα έφευγε,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">25</td><td>
 έτσι η ψυχή μου, που ακόμα έφευγε,
 </td></tr>
@@ -701,6 +776,9 @@ così l’animo mio, ch’ancor fuggiva,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">26</td><td>
 si volse a retro a rimirar lo passo
+</td></tr>
+<tr><td>MIX</td><td align="right">26</td><td>
+γύρισε πίσω για να κοιτάξει το βήμα
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">26</td><td>
 στράφηκε προς τα πίσω για να κοιτάξει το βήμα
@@ -730,6 +808,9 @@ si volse a retro a rimirar lo passo
 <tr><td>Dante</td><td align="right">27</td><td>
 che non lasciò già mai persona viva.
 </td></tr>
+<tr><td>MIX</td><td align="right">27</td><td>
+που δεν άφησε ποτέ κανέναν ζωντανό.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">27</td><td>
 που δεν είχε ήδη αφήσει ποτέ κανέναν ζωντανό.
 </td></tr>
@@ -757,6 +838,9 @@ che non lasciò già mai persona viva.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">28</td><td>
 Poi ch’èi posato un poco il corpo lasso,
+</td></tr>
+<tr><td>MIX</td><td align="right">28</td><td>
+Αφού ξεκούρασα λίγο το κούρασμένο σώμα μου,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">28</td><td>
 Μετά που είχα ξεκουραστεί λίγο το κουρασμένο σώμα μου,
@@ -786,6 +870,9 @@ Poi ch’èi posato un poco il corpo lasso,
 <tr><td>Dante</td><td align="right">29</td><td>
 ripresi via per la piaggia diserta,
 </td></tr>
+<tr><td>MIX</td><td align="right">29</td><td>
+ξανάρχισα το δρόμο μου κατά μήκος της ερημικής ακτής,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">29</td><td>
 συνέχισα τον δρόμο μου κατά μήκος της ερημικής ακτής,
 </td></tr>
@@ -813,6 +900,9 @@ ripresi via per la piaggia diserta,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">30</td><td>
 sì che ’l piè fermo sempre era ’l più basso.
+</td></tr>
+<tr><td>MIX</td><td align="right">30</td><td>
+έτσι ώστε το σταθερό πόδι να ήταν πάντα το χαμηλότερο.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">30</td><td>
 έτσι ώστε το σταθερό πόδι να ήταν πάντα το χαμηλότερο.
@@ -842,6 +932,9 @@ sì che ’l piè fermo sempre era ’l più basso.
 <tr><td>Dante</td><td align="right">31</td><td>
 Ed ecco, quasi al cominciar de l’erta,
 </td></tr>
+<tr><td>MIX</td><td align="right">31</td><td>
+Και ιδού, σχεδόν στην αρχή της πλαγιάς...
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">31</td><td>
 Και ιδού, σχεδόν στην αρχή του λόφου,
 </td></tr>
@@ -869,6 +962,9 @@ Ed ecco, quasi al cominciar de l’erta,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">32</td><td>
 una lonza leggera e presta molto,
+</td></tr>
+<tr><td>MIX</td><td align="right">32</td><td>
+μια ελαφριά και πολύ γρήγορη λεοπάρδαλη,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">32</td><td>
 ένας ελαφρύς και πολύ γρήγορος λύγκας,
@@ -898,6 +994,9 @@ una lonza leggera e presta molto,
 <tr><td>Dante</td><td align="right">33</td><td>
 che di pel macolato era coverta;
 </td></tr>
+<tr><td>MIX</td><td align="right">33</td><td>
+που ήταν καλυμμένο με ωχρά μαλλιά.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">33</td><td>
 που ήταν καλυμμένος με κηλίδες.
 </td></tr>
@@ -925,6 +1024,9 @@ che di pel macolato era coverta;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">34</td><td>
 e non mi si partia dinanzi al volto,
+</td></tr>
+<tr><td>MIX</td><td align="right">34</td><td>
+και δεν αναχωρούσε μπροστά από το πρόσωπό μου,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">34</td><td>
 και δεν αναχωρούσε μπροστά από το πρόσωπό μου,
@@ -954,6 +1056,9 @@ e non mi si partia dinanzi al volto,
 <tr><td>Dante</td><td align="right">35</td><td>
 anzi ’mpediva tanto il mio cammino,
 </td></tr>
+<tr><td>MIX</td><td align="right">35</td><td>
+αλλά εμπόδιζε τόσο το δρόμο μου,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">35</td><td>
 αντίθετα, εμπόδιζε τον δρόμο μου τόσο πολύ,
 </td></tr>
@@ -981,6 +1086,9 @@ anzi ’mpediva tanto il mio cammino,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">36</td><td>
 ch’i’ fui per ritornar più volte vòlto.
+</td></tr>
+<tr><td>MIX</td><td align="right">36</td><td>
+που ήμουν έτοιμος να γυρίσω πολλές φορές.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">36</td><td>
 που ήμουν έτοιμος να γυρίσω πολλές φορές.
@@ -1010,6 +1118,9 @@ ch’i’ fui per ritornar più volte vòlto.
 <tr><td>Dante</td><td align="right">37</td><td>
 Temp’era dal principio del mattino,
 </td></tr>
+<tr><td>MIX</td><td align="right">37</td><td>
+Ήταν από την αρχή του πρωινού,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">37</td><td>
 Ο χρόνος ήταν από την αρχή του πρωινού,
 </td></tr>
@@ -1037,6 +1148,9 @@ Temp’era dal principio del mattino,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">38</td><td>
 e ’l sol montava ’n sù con quelle stelle
+</td></tr>
+<tr><td>MIX</td><td align="right">38</td><td>
+και ο ήλιος ανέβαινε με εκείνα τα αστέρια
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">38</td><td>
 και ο ήλιος ανέβαινε ψηλά με αυτά τα αστέρια
@@ -1066,6 +1180,9 @@ e ’l sol montava ’n sù con quelle stelle
 <tr><td>Dante</td><td align="right">39</td><td>
 ch’eran con lui quando l’amor divino
 </td></tr>
+<tr><td>MIX</td><td align="right">39</td><td>
+που ήταν μαζί του όταν η θεϊκή αγάπη
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">39</td><td>
 που ήταν μαζί του όταν η θεία αγάπη
 </td></tr>
@@ -1093,6 +1210,9 @@ ch’eran con lui quando l’amor divino
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">40</td><td>
 mosse di prima quelle cose belle;
+</td></tr>
+<tr><td>MIX</td><td align="right">40</td><td>
+κίνησε πρώτα αυτά τα όμορφα πράγματα·
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">40</td><td>
 κίνησε πρώτα αυτά τα όμορφα πράγματα·
@@ -1122,6 +1242,9 @@ mosse di prima quelle cose belle;
 <tr><td>Dante</td><td align="right">41</td><td>
 sì ch’a bene sperar m’era cagione
 </td></tr>
+<tr><td>MIX</td><td align="right">41</td><td>
+έτσι ώστε να είχα καλό λόγο να ελπίζω
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">41</td><td>
 έτσι ώστε να είχα καλό λόγο να ελπίζω
 </td></tr>
@@ -1149,6 +1272,9 @@ sì ch’a bene sperar m’era cagione
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">42</td><td>
 di quella fiera a la gaetta pelle
+</td></tr>
+<tr><td>MIX</td><td align="right">42</td><td>
+από εκείνο το θηρίο με το χαρούμενο τρίχωμα
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">42</td><td>
 για εκείνο το θηρίο με τη χαρούμενη επιδερμίδα.
@@ -1178,6 +1304,9 @@ di quella fiera a la gaetta pelle
 <tr><td>Dante</td><td align="right">43</td><td>
 l’ora del tempo e la dolce stagione;
 </td></tr>
+<tr><td>MIX</td><td align="right">43</td><td>
+την ώρα του χρόνου και την γλυκιά εποχή·
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">43</td><td>
 η ώρα του χρόνου και η γλυκιά εποχή·
 </td></tr>
@@ -1205,6 +1334,9 @@ l’ora del tempo e la dolce stagione;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">44</td><td>
 ma non sì che paura non mi desse
+</td></tr>
+<tr><td>MIX</td><td align="right">44</td><td>
+αλλά όχι τόσο που να μην μου έδινε φόβο
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">44</td><td>
 αλλά όχι τόσο ώστε ο φόβος να μη μου έδινε
@@ -1234,6 +1366,9 @@ ma non sì che paura non mi desse
 <tr><td>Dante</td><td align="right">45</td><td>
 la vista che m’apparve d’un leone.
 </td></tr>
+<tr><td>MIX</td><td align="right">45</td><td>
+Το θέαμα που μου φάνηκε λιοντάρι.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">45</td><td>
 τη θέα που μου εμφανίστηκε ενός λέοντος.
 </td></tr>
@@ -1261,6 +1396,9 @@ la vista che m’apparve d’un leone.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">46</td><td>
 Questi parea che contra me venisse
+</td></tr>
+<tr><td>MIX</td><td align="right">46</td><td>
+Αυτό φαινόταν να έρχεται εναντίον μου
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">46</td><td>
 Αυτός φαινόταν να έρχεται εναντίον μου
@@ -1290,6 +1428,9 @@ Questi parea che contra me venisse
 <tr><td>Dante</td><td align="right">47</td><td>
 con la test’alta e con rabbiosa fame,
 </td></tr>
+<tr><td>MIX</td><td align="right">47</td><td>
+με ψηλό κεφάλι και με θυμωμένη πείνα,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">47</td><td>
 με το κεφάλι ψηλά και με θυμωμένη πείνα,
 </td></tr>
@@ -1317,6 +1458,9 @@ con la test’alta e con rabbiosa fame,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">48</td><td>
 sì che parea che l’aere ne tremesse.
+</td></tr>
+<tr><td>MIX</td><td align="right">48</td><td>
+έτσι ώστε φαινόταν σαν να έτρεμε ο αέρας.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">48</td><td>
 έτσι ώστε φαινόταν ότι ο αέρας τρόμαζε.
@@ -1346,6 +1490,9 @@ sì che parea che l’aere ne tremesse.
 <tr><td>Dante</td><td align="right">49</td><td>
 Ed una lupa, che di tutte brame
 </td></tr>
+<tr><td>MIX</td><td align="right">49</td><td>
+Και μια λύκαινα, που σε όλες τις επιθυμίες
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">49</td><td>
 Και μια λύκαινα, που σε όλες τις επιθυμίες
 </td></tr>
@@ -1373,6 +1520,9 @@ Ed una lupa, che di tutte brame
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">50</td><td>
 sembiava carca ne la sua magrezza,
+</td></tr>
+<tr><td>MIX</td><td align="right">50</td><td>
+φαινόταν φορτωμένη στη λεπτότητά της,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">50</td><td>
 φαινόταν φορτωμένη στη λεπτότητά της,
@@ -1402,6 +1552,9 @@ sembiava carca ne la sua magrezza,
 <tr><td>Dante</td><td align="right">51</td><td>
 e molte genti fé già viver grame,
 </td></tr>
+<tr><td>MIX</td><td align="right">51</td><td>
+και έκανε πολλούς ανθρώπους να ζουν ήδη δύσκολες ζωές,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">51</td><td>
 και έκανε πολλούς ανθρώπους να ζουν ήδη δύσκολες ζωές,
 </td></tr>
@@ -1429,6 +1582,9 @@ e molte genti fé già viver grame,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">52</td><td>
 questa mi porse tanto di gravezza
+</td></tr>
+<tr><td>MIX</td><td align="right">52</td><td>
+αυτή μου έδωσε τόσο πολλή βαρύτητα
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">52</td><td>
 αυτή μου έδωσε τόσο πολλή βαρύτητα
@@ -1458,6 +1614,9 @@ questa mi porse tanto di gravezza
 <tr><td>Dante</td><td align="right">53</td><td>
 con la paura ch’uscia di sua vista,
 </td></tr>
+<tr><td>MIX</td><td align="right">53</td><td>
+με τον φόβο που βγαίνει από τα μάτια του,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">53</td><td>
 με το φόβο που βγαίνει από την όρασή της,
 </td></tr>
@@ -1485,6 +1644,9 @@ con la paura ch’uscia di sua vista,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">54</td><td>
 ch’io perdei la speranza de l’altezza.
+</td></tr>
+<tr><td>MIX</td><td align="right">54</td><td>
+που έχασα την ελπίδα του ύψους.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">54</td><td>
 που έχασα την ελπίδα του ύψους.
@@ -1514,6 +1676,9 @@ ch’io perdei la speranza de l’altezza.
 <tr><td>Dante</td><td align="right">55</td><td>
 E qual è quei che volontieri acquista,
 </td></tr>
+<tr><td>MIX</td><td align="right">55</td><td>
+Και τι είναι αυτό που πρόθυμα αποκτά,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">55</td><td>
 Και αυτός που ευχαρίστως αποκτά,
 </td></tr>
@@ -1541,6 +1706,9 @@ E qual è quei che volontieri acquista,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">56</td><td>
 e giugne ’l tempo che perder lo face,
+</td></tr>
+<tr><td>MIX</td><td align="right">56</td><td>
+και έρχεται ο χρόνος που το κάνει να το χάσει,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">56</td><td>
 και φτάνει τον χρόνο που τον κάνει να το χάσει,
@@ -1570,6 +1738,9 @@ e giugne ’l tempo che perder lo face,
 <tr><td>Dante</td><td align="right">57</td><td>
 che ’n tutti suoi pensier piange e s’attrista;
 </td></tr>
+<tr><td>MIX</td><td align="right">57</td><td>
+που σε όλες τις σκέψεις του κλαίει και λυπάται·
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">57</td><td>
 που σε όλες του τις σκέψεις κλαίει και λυπάται;
 </td></tr>
@@ -1597,6 +1768,9 @@ che ’n tutti suoi pensier piange e s’attrista;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">58</td><td>
 tal mi fece la bestia sanza pace,
+</td></tr>
+<tr><td>MIX</td><td align="right">58</td><td>
+τέτοιο με έκανε το θηρίο χωρίς ειρήνη,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">58</td><td>
 τέτοιο με έκανε το θηρίο χωρίς ειρήνη,
@@ -1626,6 +1800,9 @@ tal mi fece la bestia sanza pace,
 <tr><td>Dante</td><td align="right">59</td><td>
 che, venendomi ’ncontro, a poco a poco
 </td></tr>
+<tr><td>MIX</td><td align="right">59</td><td>
+που ερχόμενος προς το μέρος μου σιγά σιγά
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">59</td><td>
 που, έρχοντάς μου εναντίον, λίγο λίγο
 </td></tr>
@@ -1653,6 +1830,9 @@ che, venendomi ’ncontro, a poco a poco
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">60</td><td>
 mi ripigneva là dove ’l sol tace.
+</td></tr>
+<tr><td>MIX</td><td align="right">60</td><td>
+με έσπρωξε πίσω εκεί όπου ο ήλιος σιωπά.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">60</td><td>
 με επέστρεφε εκεί όπου ο ήλιος σιωπά.
@@ -1682,6 +1862,9 @@ mi ripigneva là dove ’l sol tace.
 <tr><td>Dante</td><td align="right">61</td><td>
 Mentre ch’i’ rovinava in basso loco,
 </td></tr>
+<tr><td>MIX</td><td align="right">61</td><td>
+Ενώ κατέστρεφα σε ένα χαμηλό μέρος,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">61</td><td>
 Ενώ έπεφτα σε ένα χαμηλό μέρος,
 </td></tr>
@@ -1709,6 +1892,9 @@ Mentre ch’i’ rovinava in basso loco,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">62</td><td>
 dinanzi a li occhi mi si fu offerto
+</td></tr>
+<tr><td>MIX</td><td align="right">62</td><td>
+μπροστά στα μάτια μου προσφέρθηκε
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">62</td><td>
 μπροστά στα μάτια μου, μου προσφέρθηκε
@@ -1738,6 +1924,9 @@ dinanzi a li occhi mi si fu offerto
 <tr><td>Dante</td><td align="right">63</td><td>
 chi per lungo silenzio parea fioco.
 </td></tr>
+<tr><td>MIX</td><td align="right">63</td><td>
+που για μια μακρά σιωπή φαινόταν θολή.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">63</td><td>
 αυτός που, μέσα από μια μακρά σιωπή, φαινόταν ασθενής.
 </td></tr>
@@ -1765,6 +1954,9 @@ chi per lungo silenzio parea fioco.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">64</td><td>
 Quando vidi costui nel gran diserto,
+</td></tr>
+<tr><td>MIX</td><td align="right">64</td><td>
+Όταν είδα αυτόν στη μεγάλη έρημο,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">64</td><td>
 Όταν είδα αυτόν στη μεγάλη έρημο,
@@ -1794,6 +1986,9 @@ Quando vidi costui nel gran diserto,
 <tr><td>Dante</td><td align="right">65</td><td>
 "Miserere di me", gridai a lui,
 </td></tr>
+<tr><td>MIX</td><td align="right">65</td><td>
+«Ελέησέ με», του φώναξα,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">65</td><td>
 "Έλεος για μένα", φώναξα σε αυτόν,
 </td></tr>
@@ -1821,6 +2016,9 @@ Quando vidi costui nel gran diserto,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">66</td><td>
 "qual che tu sii, od ombra od omo certo!".
+</td></tr>
+<tr><td>MIX</td><td align="right">66</td><td>
+"Ό,τι κι αν είσαι, σκιά ή άνθρωπος!
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">66</td><td>
 "Ποιος είσαι, είτε σκιά είτε βέβαιος άνθρωπος!"
@@ -1850,6 +2048,9 @@ Quando vidi costui nel gran diserto,
 <tr><td>Dante</td><td align="right">67</td><td>
 Rispuosemi: "Non omo, omo già fui,
 </td></tr>
+<tr><td>MIX</td><td align="right">67</td><td>
+Μου απάντησε: "Όχι άνθρωπος, άνθρωπος ήμουν ήδη,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">67</td><td>
 Μου απάντησε: "Όχι άνθρωπος, κάποτε ήμουν άνθρωπος,
 </td></tr>
@@ -1877,6 +2078,9 @@ Rispuosemi: "Non omo, omo già fui,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">68</td><td>
 e li parenti miei furon lombardi,
+</td></tr>
+<tr><td>MIX</td><td align="right">68</td><td>
+και οι συγγενείς μου ήταν Λομβαρδοί,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">68</td><td>
 και οι συγγενείς μου ήταν Λομβαρδοί,
@@ -1906,6 +2110,9 @@ e li parenti miei furon lombardi,
 <tr><td>Dante</td><td align="right">69</td><td>
 mantoani per patria ambedui.
 </td></tr>
+<tr><td>MIX</td><td align="right">69</td><td>
+Μαντουάνοι και οι δύο από την πατρίδα τους.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">69</td><td>
 μαντούαν για πατρίδα, και οι δύο.
 </td></tr>
@@ -1933,6 +2140,9 @@ Mantoani per patria Ambedui.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">70</td><td>
 Nacqui sub Iulio, ancor che fosse tardi,
+</td></tr>
+<tr><td>MIX</td><td align="right">70</td><td>
+Γεννήθηκα υπό τον Ιούλιο, ακόμα κι αν ήταν αργά,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">70</td><td>
 Γεννήθηκα κάτω από τον Ιούλιο, αν και ήταν αργά,
@@ -1962,6 +2172,9 @@ Nacqui sub Iulio, ancor che fosse tardi,
 <tr><td>Dante</td><td align="right">71</td><td>
 e vissi a Roma sotto ’l buono Augusto
 </td></tr>
+<tr><td>MIX</td><td align="right">71</td><td>
+και έζησα στη Ρώμη υπό τον καλό Αύγουστο
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">71</td><td>
 και έζησα στη Ρώμη κάτω από τον καλό Αύγουστο
 </td></tr>
@@ -1989,6 +2202,9 @@ e vissi a Roma sotto ’l buono Augusto
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">72</td><td>
 nel tempo de li dèi falsi e bugiardi.
+</td></tr>
+<tr><td>MIX</td><td align="right">72</td><td>
+Στην εποχή των ψεύτικων και ψεύτικων θεών.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">72</td><td>
 στην περίοδο των ψεύτικων και απατεών θεών.
@@ -2018,6 +2234,9 @@ nel tempo de li dèi falsi e bugiardi.
 <tr><td>Dante</td><td align="right">73</td><td>
 Poeta fui, e cantai di quel giusto
 </td></tr>
+<tr><td>MIX</td><td align="right">73</td><td>
+Ήμουν ποιητής και τραγούδησα για αυτόν το δίκαιο
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">73</td><td>
 Ήμουν ποιητής και τραγούδησα για αυτόν το δίκαιο
 </td></tr>
@@ -2045,6 +2264,9 @@ Poeta fui, e cantai di quel giusto
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">74</td><td>
 figliuol d’Anchise che venne di Troia,
+</td></tr>
+<tr><td>MIX</td><td align="right">74</td><td>
+γιος του Αγχίση που ήρθε από την Τροία,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">74</td><td>
 γιος του Αγχίση που ήρθε από την Τροία,
@@ -2074,6 +2296,9 @@ figliuol d’Anchise che venne di Troia,
 <tr><td>Dante</td><td align="right">75</td><td>
 poi che ’l superbo Ilión fu combusto.
 </td></tr>
+<tr><td>MIX</td><td align="right">75</td><td>
+αφού κάηκε το περήφανο Ίλιον.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">75</td><td>
 μετά το καμένο υπερήφανο Ίλιο.
 </td></tr>
@@ -2101,6 +2326,9 @@ poi che ’l superbo Ilión fu combusto.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">76</td><td>
 Ma tu perché ritorni a tanta noia?
+</td></tr>
+<tr><td>MIX</td><td align="right">76</td><td>
+Αλλά γιατί επιστρέφεις σε τόσο πλήξη;
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">76</td><td>
 Αλλά γιατί επιστρέφεις σε τόση κόπο;
@@ -2130,6 +2358,9 @@ Ma tu perché ritorni a tanta noia?
 <tr><td>Dante</td><td align="right">77</td><td>
 perché non sali il dilettoso monte
 </td></tr>
+<tr><td>MIX</td><td align="right">77</td><td>
+γιατί δεν ανεβαίνεις στο ευχάριστο βουνό
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">77</td><td>
 γιατί δεν ανεβαίνεις το ευχάριστο βουνό
 </td></tr>
@@ -2157,6 +2388,9 @@ perché non sali il dilettoso monte
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">78</td><td>
 ch’è principio e cagion di tutta gioia?".
+</td></tr>
+<tr><td>MIX</td><td align="right">78</td><td>
+Ποια είναι η αρχή και η αιτία όλης της χαράς; "
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">78</td><td>
 που είναι η αρχή και αιτία όλης της χαράς;".
@@ -2186,6 +2420,9 @@ ch’è principio e cagion di tutta gioia?".
 <tr><td>Dante</td><td align="right">79</td><td>
 "Or se’ tu quel Virgilio e quella fonte
 </td></tr>
+<tr><td>MIX</td><td align="right">79</td><td>
+«Τώρα είσαι αυτός ο Βιργίλιος και εκείνη η πηγή
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">79</td><td>
 "Τώρα, είσαι εκείνος ο Βιργίλιος και εκείνη η πηγή
 </td></tr>
@@ -2213,6 +2450,9 @@ ch’è principio e cagion di tutta gioia?".
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">80</td><td>
 che spandi di parlar sì largo fiume?",
+</td></tr>
+<tr><td>MIX</td><td align="right">80</td><td>
+που απλώνεις του να μιλάς τόσο πλατύ ποτάμι;",
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">80</td><td>
 που χύνεις τόσο ευρύ ποταμό μιλώντας;";
@@ -2242,6 +2482,9 @@ che spandi di parlar sì largo fiume?",
 <tr><td>Dante</td><td align="right">81</td><td>
 rispuos’io lui con vergognosa fronte.
 </td></tr>
+<tr><td>MIX</td><td align="right">81</td><td>
+Του απάντησα με ντροπιασμένο μέτωπο.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">81</td><td>
 απάντησα σε αυτόν με ντροπαλό πρόσωπο.
 </td></tr>
@@ -2269,6 +2512,9 @@ rispuos’io lui con vergognosa fronte.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">82</td><td>
 "O de li altri poeti onore e lume,
+</td></tr>
+<tr><td>MIX</td><td align="right">82</td><td>
+"Ω τιμή και φως των άλλων ποιητών,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">82</td><td>
 "Ω τιμή και φως των άλλων ποιητών,
@@ -2298,6 +2544,9 @@ rispuos’io lui con vergognosa fronte.
 <tr><td>Dante</td><td align="right">83</td><td>
 vagliami ’l lungo studio e ’l grande amore
 </td></tr>
+<tr><td>MIX</td><td align="right">83</td><td>
+Δείξε μου τη μακρά μελέτη και τη μεγάλη αγάπη
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">83</td><td>
 μπορεί να αξίζει η μακρύς μελέτη και η μεγάλη αγάπη
 </td></tr>
@@ -2325,6 +2574,9 @@ vagliami ’l lungo studio e ’l grande amore
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">84</td><td>
 che m’ ha fatto cercar lo tuo volume.
+</td></tr>
+<tr><td>MIX</td><td align="right">84</td><td>
+που με έκανε να αναζητήσω τον όγκο σου.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">84</td><td>
 που με έκανε να ψάξω τον τόμο σου.
@@ -2354,6 +2606,9 @@ che m’ ha fatto cercar lo tuo volume.
 <tr><td>Dante</td><td align="right">85</td><td>
 Tu se’ lo mio maestro e ’l mio autore,
 </td></tr>
+<tr><td>MIX</td><td align="right">85</td><td>
+Εσύ είσαι ο δάσκαλός μου και ο συγγραφέας μου,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">85</td><td>
 Εσύ είσαι ο δάσκαλός μου και ο συγγραφέας μου,
 </td></tr>
@@ -2381,6 +2636,9 @@ Tu se’ lo mio maestro e ’l mio autore,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">86</td><td>
 tu se’ solo colui da cu’ io tolsi
+</td></tr>
+<tr><td>MIX</td><td align="right">86</td><td>
+Είσαι ο μόνος από τον οποίο πήρα
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">86</td><td>
 εσύ είσαι μόνος εκείνος από τον οποίο πήρα
@@ -2410,6 +2668,9 @@ tu se’ solo colui da cu’ io tolsi
 <tr><td>Dante</td><td align="right">87</td><td>
 lo bello stilo che m’ ha fatto onore.
 </td></tr>
+<tr><td>MIX</td><td align="right">87</td><td>
+το όμορφο στυλ που με τίμησε.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">87</td><td>
 το όμορφο στυλ που με τίμησε.
 </td></tr>
@@ -2437,6 +2698,9 @@ lo bello stilo che m’ ha fatto onore.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">88</td><td>
 Vedi la bestia per cu’ io mi volsi;
+</td></tr>
+<tr><td>MIX</td><td align="right">88</td><td>
+Δες το θηρίο για το οποίο στράφηκα·
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">88</td><td>
 Δες το θηρίο για το οποίο στράφηκα·
@@ -2466,6 +2730,9 @@ Vedi la bestia per cu’ io mi volsi;
 <tr><td>Dante</td><td align="right">89</td><td>
 aiutami da lei, famoso saggio,
 </td></tr>
+<tr><td>MIX</td><td align="right">89</td><td>
+Βοήθησέ με από αυτήν, διάσημο σοφό,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">89</td><td>
 βοήθησέ με από αυτή, διάσημε σοφέ,
 </td></tr>
@@ -2493,6 +2760,9 @@ aiutami da lei, famoso saggio,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">90</td><td>
 ch’ella mi fa tremar le vene e i polsi".
+</td></tr>
+<tr><td>MIX</td><td align="right">90</td><td>
+Γιατί κάνει τις φλέβες και τους καρπούς μου να τρέμουν.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">90</td><td>
 γιατί με κάνει να τρέμουν οι φλέβες και οι καρποί μου.
@@ -2522,6 +2792,9 @@ ch’ella mi fa tremar le vene e i polsi".
 <tr><td>Dante</td><td align="right">91</td><td>
 "A te convien tenere altro viaggio",
 </td></tr>
+<tr><td>MIX</td><td align="right">91</td><td>
+"Σε πρέπει να κρατήσεις ένα άλλο ταξίδι",
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">91</td><td>
 "Σε πρέπει να κρατήσεις ένα άλλο ταξίδι",
 </td></tr>
@@ -2549,6 +2822,9 @@ ch’ella mi fa tremar le vene e i polsi".
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">92</td><td>
 rispuose, poi che lagrimar mi vide,
+</td></tr>
+<tr><td>MIX</td><td align="right">92</td><td>
+Απάντησε, τότε με είδε να κλαίω,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">92</td><td>
 απάντησε, όταν με είδε να κλαίω,
@@ -2578,6 +2854,9 @@ rispuose, poi che lagrimar mi vide,
 <tr><td>Dante</td><td align="right">93</td><td>
 "se vuo’ campar d’esto loco selvaggio;
 </td></tr>
+<tr><td>MIX</td><td align="right">93</td><td>
+"αν θέλεις να ξεφύγεις από αυτό το άγριο μέρος·
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">93</td><td>
 "αν θες να ξεφύγεις από αυτό το άγριο μέρος;
 </td></tr>
@@ -2605,6 +2884,9 @@ rispuose, poi che lagrimar mi vide,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">94</td><td>
 ché questa bestia, per la qual tu gride,
+</td></tr>
+<tr><td>MIX</td><td align="right">94</td><td>
+Για αυτό το θηρίο, για το οποίο φωνάζεις,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">94</td><td>
 επειδή αυτό το θηρίο, για το οποίο κραυγάζεις,
@@ -2634,6 +2916,9 @@ ché questa bestia, per la qual tu gride,
 <tr><td>Dante</td><td align="right">95</td><td>
 non lascia altrui passar per la sua via,
 </td></tr>
+<tr><td>MIX</td><td align="right">95</td><td>
+δεν αφήνει τους άλλους να περάσουν από το δρόμο του,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">95</td><td>
 δεν επιτρέπει σε άλλους να περάσουν από τον δρόμο του,
 </td></tr>
@@ -2661,6 +2946,9 @@ non lascia altrui passar per la sua via,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">96</td><td>
 ma tanto lo ’mpedisce che l’uccide;
+</td></tr>
+<tr><td>MIX</td><td align="right">96</td><td>
+αλλά το εμποδίζει τόσο πολύ που τον σκοτώνει;
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">96</td><td>
 αλλά το εμποδίζει τόσο πολύ που τον σκοτώνει;
@@ -2690,6 +2978,9 @@ ma tanto lo ’mpedisce che l’uccide;
 <tr><td>Dante</td><td align="right">97</td><td>
 e ha natura sì malvagia e ria,
 </td></tr>
+<tr><td>MIX</td><td align="right">97</td><td>
+"και έχει φύση τόσο κακή και πονηρή,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">97</td><td>
 και έχει μια τόσο πονηρή και σκληρή φύση,
 </td></tr>
@@ -2717,6 +3008,9 @@ e ha natura sì malvagia e ria,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">98</td><td>
 che mai non empie la bramosa voglia,
+</td></tr>
+<tr><td>MIX</td><td align="right">98</td><td>
+που ποτέ δεν γεμίζει την άπληστη επιθυμία,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">98</td><td>
 που ποτέ δεν γεμίζει τη λαχταριστή επιθυμία,
@@ -2746,6 +3040,9 @@ che mai non empie la bramosa voglia,
 <tr><td>Dante</td><td align="right">99</td><td>
 e dopo ’l pasto ha più fame che pria.
 </td></tr>
+<tr><td>MIX</td><td align="right">99</td><td>
+Και μετά το γεύμα πεινάει περισσότερο από πριν.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">99</td><td>
 και μετά το γεύμα έχει περισσότερη πείνα από πριν.
 </td></tr>
@@ -2773,6 +3070,9 @@ e dopo ’l pasto ha più fame che pria.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">100</td><td>
 Molti son li animali a cui s’ammoglia,
+</td></tr>
+<tr><td>MIX</td><td align="right">100</td><td>
+Πολλά είναι τα ζώα με τα οποία παντρεύεται,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">100</td><td>
 Πολλά είναι τα ζώα που συνδυάζονται με αυτό,
@@ -2802,6 +3102,9 @@ Molti son li animali a cui s’ammoglia,
 <tr><td>Dante</td><td align="right">101</td><td>
 e più saranno ancora, infin che ’l veltro
 </td></tr>
+<tr><td>MIX</td><td align="right">101</td><td>
+Και περισσότερα θα είναι, μέχρι το Βέλτρο
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">101</td><td>
 και θα υπάρχουν περισσότερα μέχρι να έρθει το γκρίζο σκυλί
 </td></tr>
@@ -2829,6 +3132,9 @@ e più saranno ancora, infin che ’l veltro
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">102</td><td>
 verrà, che la farà morir con doglia.
+</td></tr>
+<tr><td>MIX</td><td align="right">102</td><td>
+θα έρθει, που θα την κάνει να πεθάνει με θλίψη.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">102</td><td>
 που θα την κάνει να πεθάνει με πόνο.
@@ -2858,6 +3164,9 @@ verrà, che la farà morir con doglia.
 <tr><td>Dante</td><td align="right">103</td><td>
 Questi non ciberà terra né peltro,
 </td></tr>
+<tr><td>MIX</td><td align="right">103</td><td>
+Αυτός δεν θα τρώει γη ούτε κασσίτερο,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">103</td><td>
 Αυτός δεν θα τρέφει ούτε γη ούτε κασσίτερο,
 </td></tr>
@@ -2885,6 +3194,9 @@ Questi non ciberà terra né peltro,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">104</td><td>
 ma sapienza, amore e virtute,
+</td></tr>
+<tr><td>MIX</td><td align="right">104</td><td>
+αλλά σοφία, αγάπη και αρετή,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">104</td><td>
 αλλά με σοφία, αγάπη και αρετή,
@@ -2914,6 +3226,9 @@ ma sapienza, amore e virtute,
 <tr><td>Dante</td><td align="right">105</td><td>
 e sua nazion sarà tra feltro e feltro.
 </td></tr>
+<tr><td>MIX</td><td align="right">105</td><td>
+και το έθνος του θα είναι μεταξύ φελτρού και φελτρού.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">105</td><td>
 και το έθνος του θα είναι μεταξύ φελτρού και φελτρού.
 </td></tr>
@@ -2941,6 +3256,9 @@ e sua nazion sarà tra feltro e feltro.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">106</td><td>
 Di quella umile Italia fia salute
+</td></tr>
+<tr><td>MIX</td><td align="right">106</td><td>
+Από εκείνη την ταπεινή Ιταλία θα έρθει η σωτηρία,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">106</td><td>
 Από εκείνη την ταπεινή Ιταλία θα έρθει η σωτηρία,
@@ -2970,6 +3288,9 @@ Di quella umile Italia fia salute
 <tr><td>Dante</td><td align="right">107</td><td>
 per cui morì la vergine Cammilla,
 </td></tr>
+<tr><td>MIX</td><td align="right">107</td><td>
+για την οποία πέθανε η παρθένα Καμίλα,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">107</td><td>
 για την οποία πέθανε η παρθένος Καμίλλα,
 </td></tr>
@@ -2997,6 +3318,9 @@ per cui morì la vergine Cammilla,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">108</td><td>
 Eurialo e Turno e Niso di ferute.
+</td></tr>
+<tr><td>MIX</td><td align="right">108</td><td>
+Ευρυάλας και Τυρνό και Νίσος από πληγές.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">108</td><td>
 Ευρυάλος, Τούρνος και Νίσος από τραύματα.
@@ -3026,6 +3350,9 @@ Euryalo και Turno και Niso πληγών.
 <tr><td>Dante</td><td align="right">109</td><td>
 Questi la caccerà per ogne villa,
 </td></tr>
+<tr><td>MIX</td><td align="right">109</td><td>
+Αυτός θα την κυνηγήσει από κάθε πόλη,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">109</td><td>
 Αυτός θα την κυνηγήσει μέσα από κάθε χωριό,
 </td></tr>
@@ -3053,6 +3380,9 @@ Questi la caccerà per ogne villa,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">110</td><td>
 fin che l’avrà rimessa ne lo ’nferno,
+</td></tr>
+<tr><td>MIX</td><td align="right">110</td><td>
+μέχρι να την ξαναφέρει στην Κόλαση,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">110</td><td>
 μέχρι να την ξαναβάλει μέσα στην κόλαση,
@@ -3082,6 +3412,9 @@ fin che l’avrà rimessa ne lo ’nferno,
 <tr><td>Dante</td><td align="right">111</td><td>
 là onde ’nvidia prima dipartilla.
 </td></tr>
+<tr><td>MIX</td><td align="right">111</td><td>
+εκεί όπου η ζήλια πρώτα αποχωρίζεται.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">111</td><td>
 εκεί όπου η ζήλια πρώτα αποχωρίζεται.
 </td></tr>
@@ -3109,6 +3442,9 @@ là onde ’nvidia prima dipartilla.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">112</td><td>
 Ond’io per lo tuo me’ penso e discerno
+</td></tr>
+<tr><td>MIX</td><td align="right">112</td><td>
+Γι' αυτό σκέφτομαι και διακρίνω για το καλό σου,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">112</td><td>
 Επομένως, σκέφτομαι περισσότερο για το χάρη σου και διακρίνω,
@@ -3138,6 +3474,9 @@ Ond’io per lo tuo me’ penso e discerno
 <tr><td>Dante</td><td align="right">113</td><td>
 che tu mi segui, e io sarò tua guida,
 </td></tr>
+<tr><td>MIX</td><td align="right">113</td><td>
+ότι με ακολουθείς, και εγώ θα είμαι ο οδηγός σου,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">113</td><td>
 ότι με ακολουθείς, και θα είμαι οδηγός σου,
 </td></tr>
@@ -3165,6 +3504,9 @@ che tu mi segui, e io sarò tua guida,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">114</td><td>
 e trarrotti di qui per loco etterno;
+</td></tr>
+<tr><td>MIX</td><td align="right">114</td><td>
+και θα σε οδηγήσω από εδώ σε έναν αιώνιο τόπο·
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">114</td><td>
 και θα σε οδηγήσω από εδώ σε αιώνια μέρη.
@@ -3194,6 +3536,9 @@ e trarrotti di qui per loco etterno;
 <tr><td>Dante</td><td align="right">115</td><td>
 ove udirai le disperate strida,
 </td></tr>
+<tr><td>MIX</td><td align="right">115</td><td>
+όπου θα ακούσεις τις απελπισμένες κραυγές,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">115</td><td>
 όπου θα ακούσεις τις απελπισμένες κραυγές,
 </td></tr>
@@ -3221,6 +3566,9 @@ ove udirai le disperate strida,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">116</td><td>
 vedrai li antichi spiriti dolenti,
+</td></tr>
+<tr><td>MIX</td><td align="right">116</td><td>
+Θα δεις τα αρχαία θλιμμένα πνεύματα...
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">116</td><td>
 θα δεις τα αρχαία πνεύματα που υποφέρουν,
@@ -3250,6 +3598,9 @@ vedrai li antichi spiriti dolenti,
 <tr><td>Dante</td><td align="right">117</td><td>
 ch’a la seconda morte ciascun grida;
 </td></tr>
+<tr><td>MIX</td><td align="right">117</td><td>
+Ότι όλοι φωνάζουν για τον δεύτερο θάνατο.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">117</td><td>
 που κραυγάζουν για τον δεύτερο θάνατο.
 </td></tr>
@@ -3277,6 +3628,9 @@ ch’a la seconda morte ciascun grida;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">118</td><td>
 e vederai color che son contenti
+</td></tr>
+<tr><td>MIX</td><td align="right">118</td><td>
+και θα δεις αυτούς που είναι ικανοποιημένοι,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">118</td><td>
 και θα δεις αυτούς που είναι ικανοποιημένοι,
@@ -3306,6 +3660,9 @@ e vederai color che son contenti
 <tr><td>Dante</td><td align="right">119</td><td>
 nel foco, perché speran di venire
 </td></tr>
+<tr><td>MIX</td><td align="right">119</td><td>
+στη φωτιά, γιατί ελπίζουν να έρθουν
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">119</td><td>
 στη φωτιά, επειδή ελπίζουν να έλθουν
 </td></tr>
@@ -3333,6 +3690,9 @@ nel foco, perché speran di venire
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">120</td><td>
 quando che sia a le beate genti.
+</td></tr>
+<tr><td>MIX</td><td align="right">120</td><td>
+όποτε θα είναι για τους ευλογημένους ανθρώπους.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">120</td><td>
 όταν έλθει η ώρα για τους ευλογημένους ανθρώπους.
@@ -3362,6 +3722,9 @@ quando che sia a le beate genti.
 <tr><td>Dante</td><td align="right">121</td><td>
 A le quai poi se tu vorrai salire,
 </td></tr>
+<tr><td>MIX</td><td align="right">121</td><td>
+Στις οποίες μετά, αν θέλεις να ανέβεις,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">121</td><td>
 Σε αυτές, μετά αν θελήσεις να ανέβεις,
 </td></tr>
@@ -3389,6 +3752,9 @@ A le quai poi se tu vorrai salire,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">122</td><td>
 anima fia a ciò più di me degna:
+</td></tr>
+<tr><td>MIX</td><td align="right">122</td><td>
+μια ψυχή θα είναι πιο αξιόλογη αυτό από εμένα·
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">122</td><td>
 μια ψυχή θα είναι περισσότερο αξίζουσα από εμένα:
@@ -3418,6 +3784,9 @@ anima fia a ciò più di me degna:
 <tr><td>Dante</td><td align="right">123</td><td>
 con lei ti lascerò nel mio partire;
 </td></tr>
+<tr><td>MIX</td><td align="right">123</td><td>
+Μαζί της θα σε αφήσω στην αναχώρησή μου.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">123</td><td>
 με αυτήν θα σε αφήσω στον αναχώρησή μου;
 </td></tr>
@@ -3445,6 +3814,9 @@ con lei ti lascerò nel mio partire;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">124</td><td>
 ché quello imperador che là sù regna,
+</td></tr>
+<tr><td>MIX</td><td align="right">124</td><td>
+γιατί εκείνος ο αυτοκράτορας που βασιλεύει εκεί πάνω,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">124</td><td>
 γιατί εκείνος ο αυτοκράτορας που βασιλεύει εκεί πάνω,
@@ -3474,6 +3846,9 @@ ché quello imperador che là sù regna,
 <tr><td>Dante</td><td align="right">125</td><td>
 perch’i’ fu’ ribellante a la sua legge,
 </td></tr>
+<tr><td>MIX</td><td align="right">125</td><td>
+επειδή ήμουν επαναστάτης ενάντια στον νόμο του,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">125</td><td>
 επειδή ήμουν ανταρσιώτης στον νόμο του,
 </td></tr>
@@ -3501,6 +3876,9 @@ perch’i’ fu’ ribellante a la sua legge,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">126</td><td>
 non vuol che ’n sua città per me si vegna.
+</td></tr>
+<tr><td>MIX</td><td align="right">126</td><td>
+δεν θέλει να έρθει κανείς στην πόλη του για μένα.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">126</td><td>
 δε θέλει να έρθει κανείς στην πόλη του για μένα.
@@ -3530,6 +3908,9 @@ non vuol che ’n sua città per me si vegna.
 <tr><td>Dante</td><td align="right">127</td><td>
 In tutte parti impera e quivi regge;
 </td></tr>
+<tr><td>MIX</td><td align="right">127</td><td>
+Σε όλα τα μέρη βασιλεύει και εκεί κυβερνά·
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">127</td><td>
 Σε όλα τα μέρη κυβερνά και εκεί διοικεί·
 </td></tr>
@@ -3557,6 +3938,9 @@ In tutte parti impera e quivi regge;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">128</td><td>
 quivi è la sua città e l’alto seggio:
+</td></tr>
+<tr><td>MIX</td><td align="right">128</td><td>
+εκεί είναι η πόλη του και ο ψηλό θρόνος του:
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">128</td><td>
 εκεί είναι η πόλη του και η ψηλή έδρα·
@@ -3586,6 +3970,9 @@ quivi è la sua città e l’alto seggio:
 <tr><td>Dante</td><td align="right">129</td><td>
 oh felice colui cu’ ivi elegge!".
 </td></tr>
+<tr><td>MIX</td><td align="right">129</td><td>
+Ω, ευτυχισμένος αυτός που το εκλέγει εκεί!"
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">129</td><td>
 ω, ευτυχισμένος είναι αυτός που επιλέγει να είναι εκεί!".
 </td></tr>
@@ -3613,6 +4000,9 @@ oh felice colui cu’ ivi elegge!".
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">130</td><td>
 E io a lui: "Poeta, io ti richeggio
+</td></tr>
+<tr><td>MIX</td><td align="right">130</td><td>
+Και εγώ του λέω: "Ποιητή, σε παρακαλώ
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">130</td><td>
 Και εγώ του λέω: "Ποιητά, σε ζητώ
@@ -3642,6 +4032,9 @@ E io a lui: "Poeta, io ti richeggio
 <tr><td>Dante</td><td align="right">131</td><td>
 per quello Dio che tu non conoscesti,
 </td></tr>
+<tr><td>MIX</td><td align="right">131</td><td>
+για εκείνον τον Θεό που δεν γνώριζες,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">131</td><td>
 για εκείνον το Θεό που δεν ήξερες,
 </td></tr>
@@ -3669,6 +4062,9 @@ per quello Dio che tu non conoscesti,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">132</td><td>
 acciò ch’io fugga questo male e peggio,
+</td></tr>
+<tr><td>MIX</td><td align="right">132</td><td>
+για να ξεφύγω από αυτό το κακό και το χειρότερο,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">132</td><td>
 ώστε να δραπετεύσω αυτό το κακό και το χειρότερο,
@@ -3698,6 +4094,9 @@ acciò ch’io fugga questo male e peggio,
 <tr><td>Dante</td><td align="right">133</td><td>
 che tu mi meni là dov’or dicesti,
 </td></tr>
+<tr><td>MIX</td><td align="right">133</td><td>
+να με οδηγήσεις εκεί που είπες τώρα,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">133</td><td>
 έτσι ώστε να με οδηγήσεις εκεί όπου είπες,
 </td></tr>
@@ -3725,6 +4124,9 @@ che tu mi meni là dov’or dicesti,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">134</td><td>
 sì ch’io veggia la porta di san Pietro
+</td></tr>
+<tr><td>MIX</td><td align="right">134</td><td>
+Για να δω την πόρτα του Αγίου Πέτρου...
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">134</td><td>
 ώστε να δω την πύλη του Αγίου Πέτρου
@@ -3754,6 +4156,9 @@ sì ch’io veggia la porta di san Pietro
 <tr><td>Dante</td><td align="right">135</td><td>
 e color cui tu fai cotanto mesti".
 </td></tr>
+<tr><td>MIX</td><td align="right">135</td><td>
+και εκείνους στους οποίους κάνεις τόσο λυπημένους».
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">135</td><td>
 και αυτούς που κάνεις τόσο λυπημένους.".
 </td></tr>
@@ -3781,6 +4186,9 @@ e color cui tu fai cotanto mesti".
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">136</td><td>
 Allor si mosse, e io li tenni dietro.
+</td></tr>
+<tr><td>MIX</td><td align="right">136</td><td>
+Τότε σηκώθηκε και τον ακολούθησα πίσω.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">136</td><td>
 Τότε κινήθηκε, και εγώ τον κράτησα πίσω.

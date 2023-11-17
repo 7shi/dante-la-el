@@ -2,6 +2,9 @@
 <tr><td>Dante</td><td align="right">1</td><td>
 Nel mezzo del cammin di nostra vita
 </td></tr>
+<tr><td>MIX</td><td align="right">1</td><td>
+En la mezo de la vojo de nia vivo
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">1</td><td>
 En la mezo de la vojo de nia vivo
 </td></tr>
@@ -23,6 +26,9 @@ En la mezo de nia viva vojaĝo
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">2</td><td>
 mi ritrovai per una selva oscura,
+</td></tr>
+<tr><td>MIX</td><td align="right">2</td><td>
+Mi trovis min en malluma arbaro,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">2</td><td>
 mi retroviĝis en malluma arbaro,
@@ -46,6 +52,9 @@ Mi trovis min en malluma arbaro,
 <tr><td>Dante</td><td align="right">3</td><td>
 ché la diritta via era smarrita.
 </td></tr>
+<tr><td>MIX</td><td align="right">3</td><td>
+ĉar la rekta vojo estis perdita.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">3</td><td>
 ĉar la rekta vojo estis perdita.
 </td></tr>
@@ -67,6 +76,9 @@ ché la diritta via era smarrita.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">4</td><td>
 Ahi quanto a dir qual era è cosa dura
+</td></tr>
+<tr><td>MIX</td><td align="right">4</td><td>
+Ho, kiom malfacile estas diri, kia ĝi estis!
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">4</td><td>
 Ho ve! Kiom malfacila estas diri kio estis
@@ -90,6 +102,9 @@ Ho, kio tio estis? Estas malfacile.
 <tr><td>Dante</td><td align="right">5</td><td>
 esta selva selvaggia e aspra e forte
 </td></tr>
+<tr><td>MIX</td><td align="right">5</td><td>
+ĉi tiu sovaĝa, kruda kaj forta arbaro
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">5</td><td>
 tiu sovaĝa kaj malmola kaj forta arbaro
 </td></tr>
@@ -111,6 +126,9 @@ Tiu saĝa kaj ruĝa arbaro estas forta.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">6</td><td>
 che nel pensier rinova la paura!
+</td></tr>
+<tr><td>MIX</td><td align="right">6</td><td>
+Kiu en la penso renovigas la timojn!
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">6</td><td>
 ke en la penso renovigas la timon!
@@ -134,6 +152,9 @@ kiu en la penso revivigas timon!
 <tr><td>Dante</td><td align="right">7</td><td>
 Tant’è amara che poco è più morte;
 </td></tr>
+<tr><td>MIX</td><td align="right">7</td><td>
+Ĝi estas tiel amara, ke ĝi estas malmulte pli ol morto;
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">7</td><td>
 Tiel multe estas amara, ke malmulte estas pli ol morto;
 </td></tr>
@@ -155,6 +176,9 @@ Tial amara, ke malmulto estas pli da morto;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">8</td><td>
 ma per trattar del ben ch’i’ vi trovai,
+</td></tr>
+<tr><td>MIX</td><td align="right">8</td><td>
+sed por diskuti pri la bono, kiun mi trovis tie,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">8</td><td>
 sed por diskuti pri la bono, kiun mi tie trovis,
@@ -178,6 +202,9 @@ sed por trakti la bonon, kiun mi trovis tie,
 <tr><td>Dante</td><td align="right">9</td><td>
 dirò de l’altre cose ch’i’ v’ ho scorte.
 </td></tr>
+<tr><td>MIX</td><td align="right">9</td><td>
+mi diros pri la aliaj aferoj kiujn mi vidis tie.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">9</td><td>
 mi diros pri la aliaj aferoj, kiujn mi tie rimarkis.
 </td></tr>
@@ -199,6 +226,9 @@ Mi rakontos al vi pri la aliaj aferoj, kiujn mi havas provizojn por vi.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">10</td><td>
 Io non so ben ridir com’i’ v’intrai,
+</td></tr>
+<tr><td>MIX</td><td align="right">10</td><td>
+Mi ne scias bone diri kiel mi eniris,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">10</td><td>
 Mi ne bone scias, kiel mi eniris tie,
@@ -222,6 +252,9 @@ Mi ne scias, kiel ridi pri tio.
 <tr><td>Dante</td><td align="right">11</td><td>
 tant’era pien di sonno a quel punto
 </td></tr>
+<tr><td>MIX</td><td align="right">11</td><td>
+Tiom mi estis plena de dormo en tiu momento
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">11</td><td>
 tiom estis plena je dormo je tiu punkto
 </td></tr>
@@ -243,6 +276,9 @@ Do plena de dormo en tiu momento
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">12</td><td>
 che la verace via abbandonai.
+</td></tr>
+<tr><td>MIX</td><td align="right">12</td><td>
+ke mi forlasis la veran vojon
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">12</td><td>
 ke mi forlasis la veran vojon.
@@ -266,6 +302,9 @@ ke mi forlasis la veran vojon.
 <tr><td>Dante</td><td align="right">13</td><td>
 Ma poi ch’i’ fui al piè d’un colle giunto,
 </td></tr>
+<tr><td>MIX</td><td align="right">13</td><td>
+Sed post kiam mi atingis la piedon de monteto,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">13</td><td>
 Sed poste kiam mi al piedo de monteto alvenis,
 </td></tr>
@@ -287,6 +326,9 @@ Sed tiam mi estis apud la piedo de monto, kiu venis,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">14</td><td>
 là dove terminava quella valle
+</td></tr>
+<tr><td>MIX</td><td align="right">14</td><td>
+tie kie tiu valo finiĝis,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">14</td><td>
 tie kie tiu valo finiĝis,
@@ -310,6 +352,9 @@ kie la valo finis
 <tr><td>Dante</td><td align="right">15</td><td>
 che m’avea di paura il cor compunto,
 </td></tr>
+<tr><td>MIX</td><td align="right">15</td><td>
+ke mia koro timis,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">15</td><td>
 kiu min timigis kaj min embarasis,
 </td></tr>
@@ -331,6 +376,9 @@ ke mia koro timis,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">16</td><td>
 guardai in alto e vidi le sue spalle
+</td></tr>
+<tr><td>MIX</td><td align="right">16</td><td>
+mi rigardis supren kaj vidis liajn ŝultrojn
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">16</td><td>
 mi rigardis supren kaj vidis liajn ŝultrojn
@@ -354,6 +402,9 @@ Mi rigardis supren kaj vidis liajn ŝultrojn
 <tr><td>Dante</td><td align="right">17</td><td>
 vestite già de’ raggi del pianeta
 </td></tr>
+<tr><td>MIX</td><td align="right">17</td><td>
+jam vestitan de la radioj de la planedo,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">17</td><td>
 kiuj jam estis vestitaj de la radioj de la planedo
 </td></tr>
@@ -375,6 +426,9 @@ jam vestita en la radioj de la planedo
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">18</td><td>
 che mena dritto altrui per ogne calle.
+</td></tr>
+<tr><td>MIX</td><td align="right">18</td><td>
+kiu kondukas aliajn rekte laŭ ĉiu strato.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">18</td><td>
 kiu rekte kondukas aliajn tra ĉiu strato.
@@ -398,6 +452,9 @@ kiu direktas aliajn direkte al ogna kallo.
 <tr><td>Dante</td><td align="right">19</td><td>
 Allor fu la paura un poco queta,
 </td></tr>
+<tr><td>MIX</td><td align="right">19</td><td>
+Tiam la timo estis iom trankviligita,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">19</td><td>
 Tiam estis la timo iom trankvila,
 </td></tr>
@@ -419,6 +476,9 @@ Tiam estis timo iom simila,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">20</td><td>
 che nel lago del cor m’era durata
+</td></tr>
+<tr><td>MIX</td><td align="right">20</td><td>
+kiun en la lago de mia koro mi portis
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">20</td><td>
 kiu en la lago de mia koro daŭris al mi,
@@ -442,6 +502,9 @@ en la lago de mia koro
 <tr><td>Dante</td><td align="right">21</td><td>
 la notte ch’i’ passai con tanta pieta.
 </td></tr>
+<tr><td>MIX</td><td align="right">21</td><td>
+la nokto kiun mi pasigis kun tiel da kompato.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">21</td><td>
 la nokto, kiam mi pasigis kun tiom da kompato.
 </td></tr>
@@ -463,6 +526,9 @@ La nokto, kiun mi pasis tiel afabla.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">22</td><td>
 E come quei che con lena affannata,
+</td></tr>
+<tr><td>MIX</td><td align="right">22</td><td>
+Kaj kiel tiuj, kiuj kun laca spirado,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">22</td><td>
 Kaj kiel tiuj, kiuj kun laca spirado,
@@ -486,6 +552,9 @@ Kaj kiel tiuj, kiuj estas deziraj,
 <tr><td>Dante</td><td align="right">23</td><td>
 uscito fuor del pelago a la riva,
 </td></tr>
+<tr><td>MIX</td><td align="right">23</td><td>
+Elirinta el la oceano al la bordo,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">23</td><td>
 elirinte ekstere el la maro al la bordo,
 </td></tr>
@@ -507,6 +576,9 @@ el la pelagiko al la lito,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">24</td><td>
 si volge a l’acqua perigliosa e guata,
+</td></tr>
+<tr><td>MIX</td><td align="right">24</td><td>
+Turnas sin al la danĝera akvo kaj rigardas,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">24</td><td>
 turnas sin al la danĝera akvo kaj observas,
@@ -530,6 +602,9 @@ turnas al la danĝera kaj malproksima akvo,
 <tr><td>Dante</td><td align="right">25</td><td>
 così l’animo mio, ch’ancor fuggiva,
 </td></tr>
+<tr><td>MIX</td><td align="right">25</td><td>
+tiel mia animo, kiu ankoraŭ fuĝis,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">25</td><td>
 tiel mia animo, kiu ankoraŭ forkuris,
 </td></tr>
@@ -551,6 +626,9 @@ do mia animo, kiu ankoraŭ forkuris,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">26</td><td>
 si volse a retro a rimirar lo passo
+</td></tr>
+<tr><td>MIX</td><td align="right">26</td><td>
+sin turnis malantaŭen por rigardi la paŝon
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">26</td><td>
 sin turniĝis malantaŭ por rigardi la paŝon
@@ -574,6 +652,9 @@ Li revertis kaj rigardis la paŝon
 <tr><td>Dante</td><td align="right">27</td><td>
 che non lasciò già mai persona viva.
 </td></tr>
+<tr><td>MIX</td><td align="right">27</td><td>
+kiu neniam lasis homon vivan.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">27</td><td>
 kiu jam neniam lasis vivantan personon.
 </td></tr>
@@ -595,6 +676,9 @@ kiu neniam lasis homon vivan.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">28</td><td>
 Poi ch’èi posato un poco il corpo lasso,
+</td></tr>
+<tr><td>MIX</td><td align="right">28</td><td>
+Post kiam mi iom ripozigis mian malfortan korpon,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">28</td><td>
 Poste kiam mi iom ripozis la lakan korpon,
@@ -618,6 +702,9 @@ Tiam li malsuprenigis iom da korpo,
 <tr><td>Dante</td><td align="right">29</td><td>
 ripresi via per la piaggia diserta,
 </td></tr>
+<tr><td>MIX</td><td align="right">29</td><td>
+Mi rekomencis vojon laŭ la dezerta bordo,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">29</td><td>
 mi denove prenis la vojon tra la dezerta marbordo,
 </td></tr>
@@ -639,6 +726,9 @@ forprenita de la dezerta plago,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">30</td><td>
 sì che ’l piè fermo sempre era ’l più basso.
+</td></tr>
+<tr><td>MIX</td><td align="right">30</td><td>
+tiel ke la firma piedo estis ĉiam la plej malalta.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">30</td><td>
 tiel ke la firma piedo ĉiam estis la malpli alta.
@@ -662,6 +752,9 @@ Do la ankoraŭ piedo estis ĉiam la plej malsupra.
 <tr><td>Dante</td><td align="right">31</td><td>
 Ed ecco, quasi al cominciar de l’erta,
 </td></tr>
+<tr><td>MIX</td><td align="right">31</td><td>
+Kaj jen, preskaŭ ĉe la komenco de la krutaĵo,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">31</td><td>
 Kaj jen, preskaŭ ĉe la komenco de la krutaĵo,
 </td></tr>
@@ -683,6 +776,9 @@ Kaj ĉi tie, preskaŭ en la komenco de la alarmo,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">32</td><td>
 una lonza leggera e presta molto,
+</td></tr>
+<tr><td>MIX</td><td align="right">32</td><td>
+malpeza kaj tre rapida linseno,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">32</td><td>
 malpeza kaj tre rapida linseno,
@@ -706,6 +802,9 @@ lumlumlumo kaj multe prunteprenas,
 <tr><td>Dante</td><td align="right">33</td><td>
 che di pel macolato era coverta;
 </td></tr>
+<tr><td>MIX</td><td align="right">33</td><td>
+kiu estis kovrita per makulita felo;
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">33</td><td>
 kiu havis makulitan pelon;
 </td></tr>
@@ -727,6 +826,9 @@ kiu estis kovrita per pruntaj haroj;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">34</td><td>
 e non mi si partia dinanzi al volto,
+</td></tr>
+<tr><td>MIX</td><td align="right">34</td><td>
+kaj ĝi ne foriĝis antaŭ mia vizaĝo,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">34</td><td>
 kaj ne forlasis min antaŭ la vizaĝo,
@@ -750,6 +852,9 @@ kaj ili ne foriris antaux mia vizaĝo,
 <tr><td>Dante</td><td align="right">35</td><td>
 anzi ’mpediva tanto il mio cammino,
 </td></tr>
+<tr><td>MIX</td><td align="right">35</td><td>
+sed tiom malhelpis mian vojon,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">35</td><td>
 anstataŭ malhelpis tiom mian vojon,
 </td></tr>
@@ -771,6 +876,9 @@ Vere li tiel maltrankviligis mian vojon,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">36</td><td>
 ch’i’ fui per ritornar più volte vòlto.
+</td></tr>
+<tr><td>MIX</td><td align="right">36</td><td>
+ke mi estis por reveni pli ofte sin turnis.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">36</td><td>
 ke mi estis por reveni pli fojojn turniĝis.
@@ -794,6 +902,9 @@ Mi estis preskaŭ reveni plurfoje.
 <tr><td>Dante</td><td align="right">37</td><td>
 Temp’era dal principio del mattino,
 </td></tr>
+<tr><td>MIX</td><td align="right">37</td><td>
+Ĝi estis de la komenco de la mateno,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">37</td><td>
 Estis tempo de la komenco de la mateno,
 </td></tr>
@@ -815,6 +926,9 @@ La vetero estis ekde la komenco de la mateno,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">38</td><td>
 e ’l sol montava ’n sù con quelle stelle
+</td></tr>
+<tr><td>MIX</td><td align="right">38</td><td>
+Kaj la suno leviĝis supre kun tiuj steloj
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">38</td><td>
 kaj la suno leviĝis supren kun tiuj steloj,
@@ -838,6 +952,9 @@ Kaj la suno levis kun tiuj steloj
 <tr><td>Dante</td><td align="right">39</td><td>
 ch’eran con lui quando l’amor divino
 </td></tr>
+<tr><td>MIX</td><td align="right">39</td><td>
+kiuj estis kun li kiam la dia amo
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">39</td><td>
 kiuj estis kun li kiam la dia amo
 </td></tr>
@@ -859,6 +976,9 @@ kiuj estis kun li kiam divina amo
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">40</td><td>
 mosse di prima quelle cose belle;
+</td></tr>
+<tr><td>MIX</td><td align="right">40</td><td>
+movis unue tiujn belajn aferojn;
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">40</td><td>
 movis unue tiujn belajn aferojn;
@@ -882,6 +1002,9 @@ movigis tiujn belajn aferojn antaŭe;
 <tr><td>Dante</td><td align="right">41</td><td>
 sì ch’a bene sperar m’era cagione
 </td></tr>
+<tr><td>MIX</td><td align="right">41</td><td>
+tiel ke estis kialo por mi bone esperi
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">41</td><td>
 tiel ke bona espero estis la kialo al mi
 </td></tr>
@@ -903,6 +1026,9 @@ Estis bona esperi
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">42</td><td>
 di quella fiera a la gaetta pelle
+</td></tr>
+<tr><td>MIX</td><td align="right">42</td><td>
+De tiu fiera al la gaja haŭto
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">42</td><td>
 de tiu besto kun la gracia haŭto
@@ -926,6 +1052,9 @@ de tiu justeco al la gaetta pello
 <tr><td>Dante</td><td align="right">43</td><td>
 l’ora del tempo e la dolce stagione;
 </td></tr>
+<tr><td>MIX</td><td align="right">43</td><td>
+la horo de tempo kaj la dolĉa sezono;
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">43</td><td>
 la horo de la tempo kaj la dolĉa sezono;
 </td></tr>
@@ -947,6 +1076,9 @@ la tempon de tempo kaj la dolca sezono;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">44</td><td>
 ma non sì che paura non mi desse
+</td></tr>
+<tr><td>MIX</td><td align="right">44</td><td>
+sed ne tiel ke timo ne donis al mi
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">44</td><td>
 sed ne tiel, ke timo ne donus al mi
@@ -970,6 +1102,9 @@ Sed mi ne timas
 <tr><td>Dante</td><td align="right">45</td><td>
 la vista che m’apparve d’un leone.
 </td></tr>
+<tr><td>MIX</td><td align="right">45</td><td>
+la vidaĵo kiu aperis al mi de leono.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">45</td><td>
 la vidaĵo, kiu montriĝis al mi de leono.
 </td></tr>
@@ -991,6 +1126,9 @@ la vido, kiu aperis al mi el leono.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">46</td><td>
 Questi parea che contra me venisse
+</td></tr>
+<tr><td>MIX</td><td align="right">46</td><td>
+Tiu ŝajnis veni kontraŭ mi
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">46</td><td>
 Ĉi tiu ŝajnis veni kontraŭ mi
@@ -1014,6 +1152,9 @@ Tio ŝajnis kontraŭ mi.
 <tr><td>Dante</td><td align="right">47</td><td>
 con la test’alta e con rabbiosa fame,
 </td></tr>
+<tr><td>MIX</td><td align="right">47</td><td>
+kun alta kapo kaj furioza malsato,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">47</td><td>
 kun alta kapo kaj kun furioza malsatego,
 </td></tr>
@@ -1035,6 +1176,9 @@ kun la alta testo kaj kolera malsato,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">48</td><td>
 sì che parea che l’aere ne tremesse.
+</td></tr>
+<tr><td>MIX</td><td align="right">48</td><td>
+Tiel ke ŝajnis, ke la aero tremas.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">48</td><td>
 tiel, ke ŝajnis, ke la aero tremis pro ĝi.
@@ -1058,6 +1202,9 @@ por ke la aero ŝajnis tremi.
 <tr><td>Dante</td><td align="right">49</td><td>
 Ed una lupa, che di tutte brame
 </td></tr>
+<tr><td>MIX</td><td align="right">49</td><td>
+Kaj lupo, kiu deziras ĉiujn
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">49</td><td>
 Kaj unu lupo, kiu en ĉiuj deziroj
 </td></tr>
@@ -1079,6 +1226,9 @@ Kaj lupo, kiu deziras ĉiujn
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">50</td><td>
 sembiava carca ne la sua magrezza,
+</td></tr>
+<tr><td>MIX</td><td align="right">50</td><td>
+ŝi ŝajnis ŝarĝita en sia maldikeco,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">50</td><td>
 ŝajnis ŝarĝita en ĝia malgraseco,
@@ -1102,6 +1252,9 @@ Li aspektis kiel morto en sia mallumo,
 <tr><td>Dante</td><td align="right">51</td><td>
 e molte genti fé già viver grame,
 </td></tr>
+<tr><td>MIX</td><td align="right">51</td><td>
+kaj jam igis multajn homojn vivi mizeraj,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">51</td><td>
 kaj jam igis multajn homojn vivi mizeraj,
 </td></tr>
@@ -1123,6 +1276,9 @@ kaj multaj nacioj jam vivis gramojn,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">52</td><td>
 questa mi porse tanto di gravezza
+</td></tr>
+<tr><td>MIX</td><td align="right">52</td><td>
+tiu donis al mi tiom da pezo
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">52</td><td>
 ĉi tiu prezentiĝis tiom de graveco
@@ -1146,6 +1302,9 @@ tio donis al mi tiom da pezoj
 <tr><td>Dante</td><td align="right">53</td><td>
 con la paura ch’uscia di sua vista,
 </td></tr>
+<tr><td>MIX</td><td align="right">53</td><td>
+kun la timo kiu eliris el ŝia vidaĵo
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">53</td><td>
 kun la timon eliranta el ĝia vidon,
 </td></tr>
@@ -1167,6 +1326,9 @@ kun la timo, kiu eliras el sia okulo,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">54</td><td>
 ch’io perdei la speranza de l’altezza.
+</td></tr>
+<tr><td>MIX</td><td align="right">54</td><td>
+ke mi perdis la esperon de la alteco.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">54</td><td>
 ke mi perdis la esperon de la alteco.
@@ -1190,6 +1352,9 @@ Mi perdis esperon pri altoj.
 <tr><td>Dante</td><td align="right">55</td><td>
 E qual è quei che volontieri acquista,
 </td></tr>
+<tr><td>MIX</td><td align="right">55</td><td>
+Kaj kiu estas tiu, kiu volonte aĉetas,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">55</td><td>
 Kaj kiel tiu, kiu volonte akiras,
 </td></tr>
@@ -1211,6 +1376,9 @@ Kaj kio estas tio, kio volonte akceptas,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">56</td><td>
 e giugne ’l tempo che perder lo face,
+</td></tr>
+<tr><td>MIX</td><td align="right">56</td><td>
+kaj venos la tempo, kiu igos lin perdi,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">56</td><td>
 kaj venas la tempo, kiam li igas ĝin esti perdita,
@@ -1234,6 +1402,9 @@ kaj giugne 'l tempo che perdere lo face,
 <tr><td>Dante</td><td align="right">57</td><td>
 che ’n tutti suoi pensier piange e s’attrista;
 </td></tr>
+<tr><td>MIX</td><td align="right">57</td><td>
+Kiu en ĉiuj siaj pensoj ploras kaj malĝojas;
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">57</td><td>
 kiu en ĉiuj siaj pensoj ploras kaj malgajigas;
 </td></tr>
@@ -1255,6 +1426,9 @@ En ĉiuj liaj pensoj ploras kaj timas;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">58</td><td>
 tal mi fece la bestia sanza pace,
+</td></tr>
+<tr><td>MIX</td><td align="right">58</td><td>
+Tial min faris la besto sen paco,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">58</td><td>
 tia min faris la besto sen paco,
@@ -1278,6 +1452,9 @@ Tial la besto faris min pacon,
 <tr><td>Dante</td><td align="right">59</td><td>
 che, venendomi ’ncontro, a poco a poco
 </td></tr>
+<tr><td>MIX</td><td align="right">59</td><td>
+ke, venante al mi, malmulte post malmulte,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">59</td><td>
 ke, veninte al mi, malmulte post malmulte
 </td></tr>
@@ -1299,6 +1476,9 @@ tio, malpli malpli kontraŭ mi,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">60</td><td>
 mi ripigneva là dove ’l sol tace.
+</td></tr>
+<tr><td>MIX</td><td align="right">60</td><td>
+puŝis min tien, kie la suno silentas.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">60</td><td>
 puŝis min tien, kie la suno silentas.
@@ -1322,6 +1502,9 @@ Li reiris min, kie la suno silentis.
 <tr><td>Dante</td><td align="right">61</td><td>
 Mentre ch’i’ rovinava in basso loco,
 </td></tr>
+<tr><td>MIX</td><td align="right">61</td><td>
+Dum mi ruiniĝis en malalta loko,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">61</td><td>
 Dum mi faladis en malalta loko,
 </td></tr>
@@ -1343,6 +1526,9 @@ Dum li ruinis ĝin tie malsupre,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">62</td><td>
 dinanzi a li occhi mi si fu offerto
+</td></tr>
+<tr><td>MIX</td><td align="right">62</td><td>
+antaŭ miaj okuloj prezentis sin
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">62</td><td>
 antaŭe al miaj okuloj prezentiĝis al mi
@@ -1366,6 +1552,9 @@ antaŭ iliaj okuloj li alportis sin al mi
 <tr><td>Dante</td><td align="right">63</td><td>
 chi per lungo silenzio parea fioco.
 </td></tr>
+<tr><td>MIX</td><td align="right">63</td><td>
+Kiu pro longa silento ŝajnis malforta.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">63</td><td>
 kiu tra longa silento ŝajnis malforta.
 </td></tr>
@@ -1387,6 +1576,9 @@ kiu dum longa silento ŝajnis malluma.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">64</td><td>
 Quando vidi costui nel gran diserto,
+</td></tr>
+<tr><td>MIX</td><td align="right">64</td><td>
+Kiam mi vidis ĉi tiun en la granda dezerto,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">64</td><td>
 Kiam mi vidis tiun ĉi viron en la granda dezerto,
@@ -1410,6 +1602,9 @@ Kiam mi vidis lin en la granda dezerto,
 <tr><td>Dante</td><td align="right">65</td><td>
 "Miserere di me", gridai a lui,
 </td></tr>
+<tr><td>MIX</td><td align="right">65</td><td>
+"Compatu min," mi kriis al li,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">65</td><td>
 "Compatu min," mi kriis al li,
 </td></tr>
@@ -1431,6 +1626,9 @@ Kiam mi vidis lin en la granda dezerto,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">66</td><td>
 "qual che tu sii, od ombra od omo certo!".
+</td></tr>
+<tr><td>MIX</td><td align="right">66</td><td>
+"kio ajn vi estas, aŭ ombro aŭ certa homo!".
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">66</td><td>
 "kio ajn vi estas, aŭ ombro aŭ certa homo!".
@@ -1454,6 +1652,9 @@ Kiam mi vidis lin en la granda dezerto,
 <tr><td>Dante</td><td align="right">67</td><td>
 Rispuosemi: "Non omo, omo già fui,
 </td></tr>
+<tr><td>MIX</td><td align="right">67</td><td>
+Li respondis al mi: "Ne homo, homo mi estis,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">67</td><td>
 Mi respondis: "Ne homo, mi iam estis homo,
 </td></tr>
@@ -1475,6 +1676,9 @@ Respondu al mi: "Ne homo, homo, mi jam estis,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">68</td><td>
 e li parenti miei furon lombardi,
+</td></tr>
+<tr><td>MIX</td><td align="right">68</td><td>
+kaj miaj parencoj estis lombardoj,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">68</td><td>
 kaj miaj parencoj estis lombardoj,
@@ -1498,6 +1702,9 @@ kaj miaj familioj estis Lombardoj,
 <tr><td>Dante</td><td align="right">69</td><td>
 mantoani per patria ambedui.
 </td></tr>
+<tr><td>MIX</td><td align="right">69</td><td>
+mantovanoj per patrujo ambaŭ."
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">69</td><td>
 mantovanoj per patrujo ambaŭ."
 </td></tr>
@@ -1519,6 +1726,9 @@ Mantuan por la hejmlando ambaŭ.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">70</td><td>
 Nacqui sub Iulio, ancor che fosse tardi,
+</td></tr>
+<tr><td>MIX</td><td align="right">70</td><td>
+Mi naskiĝis sub Julio, kvankam estis malfrue,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">70</td><td>
 Mi naskiĝis sub Julio, kvankam estis malfrua,
@@ -1542,6 +1752,9 @@ Mi naskiĝis sub Julio, kvankam ĝi malfruis,
 <tr><td>Dante</td><td align="right">71</td><td>
 e vissi a Roma sotto ’l buono Augusto
 </td></tr>
+<tr><td>MIX</td><td align="right">71</td><td>
+kaj mi vivis en Romo sub la bona Augusto
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">71</td><td>
 kaj mi vivis en Romo sub la bona Augusto
 </td></tr>
@@ -1563,6 +1776,9 @@ kaj loĝis en Romo sub la bona Augusto
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">72</td><td>
 nel tempo de li dèi falsi e bugiardi.
+</td></tr>
+<tr><td>MIX</td><td align="right">72</td><td>
+en la tempo de malveraj kaj mensogaj dioj.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">72</td><td>
 en la tempo de la malveraj kaj trompemaj dioj.
@@ -1586,6 +1802,9 @@ en la tempo de malveraj kaj mensogaj dioj.
 <tr><td>Dante</td><td align="right">73</td><td>
 Poeta fui, e cantai di quel giusto
 </td></tr>
+<tr><td>MIX</td><td align="right">73</td><td>
+Mi estis poeto, kaj mi kantis pri tiu justa
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">73</td><td>
 Mi estis poeto, kaj mi kantis pri tiu justa
 </td></tr>
@@ -1607,6 +1826,9 @@ Mi estis poeto, kaj mi kantis pri tiu justa
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">74</td><td>
 figliuol d’Anchise che venne di Troia,
+</td></tr>
+<tr><td>MIX</td><td align="right">74</td><td>
+filo de Anĥizo, kiu venis el Trojo,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">74</td><td>
 filo de Anchises, kiu venis de Trojo,
@@ -1630,6 +1852,9 @@ la filo de Anchisoj, kiu venis el Troj,
 <tr><td>Dante</td><td align="right">75</td><td>
 poi che ’l superbo Ilión fu combusto.
 </td></tr>
+<tr><td>MIX</td><td align="right">75</td><td>
+Post kiam la superba Ilion estis bruligita.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">75</td><td>
 post kiam la aroganta Ilion estis bruligita.
 </td></tr>
@@ -1651,6 +1876,9 @@ Tiam la supera Ilion bruligis.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">76</td><td>
 Ma tu perché ritorni a tanta noia?
+</td></tr>
+<tr><td>MIX</td><td align="right">76</td><td>
+Sed kial vi revenas al tiel da enuigo?
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">76</td><td>
 Sed kial vi revenas al tiom da ĉagreno?
@@ -1674,6 +1902,9 @@ Kial vi denove tiel tediĝas?
 <tr><td>Dante</td><td align="right">77</td><td>
 perché non sali il dilettoso monte
 </td></tr>
+<tr><td>MIX</td><td align="right">77</td><td>
+kial vi ne supreniras la ĝojigan monton
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">77</td><td>
 kial vi ne supreniras la ĝojigan monton
 </td></tr>
@@ -1695,6 +1926,9 @@ Kial vi ne supreniru la plezuran monton?
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">78</td><td>
 ch’è principio e cagion di tutta gioia?".
+</td></tr>
+<tr><td>MIX</td><td align="right">78</td><td>
+Kiu estas komenco kaj kaŭzo de ĉia ĝojo?"
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">78</td><td>
 kiu estas komenco kaj kaŭzo de tuta ĝojo?"
@@ -1718,6 +1952,9 @@ kiu estas la komenco kaj la kauzo de ĉiu ĝojo? "
 <tr><td>Dante</td><td align="right">79</td><td>
 "Or se’ tu quel Virgilio e quella fonte
 </td></tr>
+<tr><td>MIX</td><td align="right">79</td><td>
+Nun, ĉu vi estas tiu Virgilio kaj tiu fonto
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">79</td><td>
 "Nun vi estas tiu Vergilio kaj tiu fonto
 </td></tr>
@@ -1739,6 +1976,9 @@ Nun, ĉu vi estas tiu Virgilio kaj tiu fonto
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">80</td><td>
 che spandi di parlar sì largo fiume?",
+</td></tr>
+<tr><td>MIX</td><td align="right">80</td><td>
+kiu elverŝas tiel vastan riveron da parolo?"
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">80</td><td>
 kiu elverŝas tiel vastan riveron da parolo?"
@@ -1762,6 +2002,9 @@ Kion vi pensas, ke vi parolas ĝis nun? ',
 <tr><td>Dante</td><td align="right">81</td><td>
 rispuos’io lui con vergognosa fronte.
 </td></tr>
+<tr><td>MIX</td><td align="right">81</td><td>
+Mi respondis al li kun honta vizaĝo.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">81</td><td>
 mi respondis al li kun hontiga vizaĝo.
 </td></tr>
@@ -1783,6 +2026,9 @@ Mi malhonore respondis al li.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">82</td><td>
 "O de li altri poeti onore e lume,
+</td></tr>
+<tr><td>MIX</td><td align="right">82</td><td>
+"Vi estas la honoro kaj lumo de aliaj poetoj,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">82</td><td>
 "Ho de la aliaj poetoj honoro kaj lumo,
@@ -1806,6 +2052,9 @@ O honoro kaj lumo de la aliaj poetoj
 <tr><td>Dante</td><td align="right">83</td><td>
 vagliami ’l lungo studio e ’l grande amore
 </td></tr>
+<tr><td>MIX</td><td align="right">83</td><td>
+Donu al mi la longan studion kaj la grandan amon
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">83</td><td>
 valoras al mi la longa studo kaj la granda amo
 </td></tr>
@@ -1827,6 +2076,9 @@ Donu al mi la longan studion kaj la grandan amon
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">84</td><td>
 che m’ ha fatto cercar lo tuo volume.
+</td></tr>
+<tr><td>MIX</td><td align="right">84</td><td>
+kiu igis min serĉi vian volumon.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">84</td><td>
 kiu min faris serĉi vian volumon.
@@ -1850,6 +2102,9 @@ Tio faris min serĉi vian volumon.
 <tr><td>Dante</td><td align="right">85</td><td>
 Tu se’ lo mio maestro e ’l mio autore,
 </td></tr>
+<tr><td>MIX</td><td align="right">85</td><td>
+Vi estas mia majstro kaj mia aŭtoro
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">85</td><td>
 Vi estas mia instruisto kaj mia aŭtoro,
 </td></tr>
@@ -1871,6 +2126,9 @@ Se vi estas mia majstro kaj mia aŭtoro,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">86</td><td>
 tu se’ solo colui da cu’ io tolsi
+</td></tr>
+<tr><td>MIX</td><td align="right">86</td><td>
+vi estas nur tiu, de kiu mi prenis
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">86</td><td>
 vi estas nur tiu, de kiu mi prenis
@@ -1894,6 +2152,9 @@ Vi estas nur tiu, el kiu mi forigis
 <tr><td>Dante</td><td align="right">87</td><td>
 lo bello stilo che m’ ha fatto onore.
 </td></tr>
+<tr><td>MIX</td><td align="right">87</td><td>
+la bela stilo, kiu honoris min.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">87</td><td>
 la bela stilo, kiu honoris min.
 </td></tr>
@@ -1915,6 +2176,9 @@ La bela stilo, kiu honoris min.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">88</td><td>
 Vedi la bestia per cu’ io mi volsi;
+</td></tr>
+<tr><td>MIX</td><td align="right">88</td><td>
+Vidu la beston, pro kiu mi turnis;
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">88</td><td>
 Vidu la beston pro kiu mi turniĝis;
@@ -1938,6 +2202,9 @@ Vidu la beston, pro kiu mi turnis;
 <tr><td>Dante</td><td align="right">89</td><td>
 aiutami da lei, famoso saggio,
 </td></tr>
+<tr><td>MIX</td><td align="right">89</td><td>
+helpu min de ŝi, fama saĝulo
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">89</td><td>
 helpu min de ĝi, fama saĝulo,
 </td></tr>
@@ -1959,6 +2226,9 @@ Helpu min kun ŝi, fama sago,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">90</td><td>
 ch’ella mi fa tremar le vene e i polsi".
+</td></tr>
+<tr><td>MIX</td><td align="right">90</td><td>
+Ĉar ŝi faras tremi miajn vejnojn kaj pulsojn".
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">90</td><td>
 ĉar ĝi faras, ke miaj vejnoj kaj pulsoj tremas".
@@ -1982,6 +2252,9 @@ tio tremas miajn vejnojn kaj pojnojn."
 <tr><td>Dante</td><td align="right">91</td><td>
 "A te convien tenere altro viaggio",
 </td></tr>
+<tr><td>MIX</td><td align="right">91</td><td>
+"Al vi devas fari alian vojaĝon",
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">91</td><td>
 "Al vi devas fari alian vojaĝon",
 </td></tr>
@@ -2003,6 +2276,9 @@ Al vi devas teni alian vojaĝon,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">92</td><td>
 rispuose, poi che lagrimar mi vide,
+</td></tr>
+<tr><td>MIX</td><td align="right">92</td><td>
+li respondis, kiam li vidis min plori,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">92</td><td>
 li respondis, post kiam li vidis min plorantan,
@@ -2026,6 +2302,9 @@ Li respondis, tiam kiel larmoj li vidis min,
 <tr><td>Dante</td><td align="right">93</td><td>
 "se vuo’ campar d’esto loco selvaggio;
 </td></tr>
+<tr><td>MIX</td><td align="right">93</td><td>
+Se vi volas saviĝi el ĉi tiu sovaĝa loko;
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">93</td><td>
 "se vi volas foriri de ĉi tiu sovaĝa loko;
 </td></tr>
@@ -2047,6 +2326,9 @@ Se vi volas saviĝi el ĉi tiu sovaĝa loko;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">94</td><td>
 ché questa bestia, per la qual tu gride,
+</td></tr>
+<tr><td>MIX</td><td align="right">94</td><td>
+ĉar tiu besto, pro kiu vi krias,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">94</td><td>
 ĉar tiu besto, pro kiu vi krias,
@@ -2070,6 +2352,9 @@ por tiu besto, pro kiu vi krias,
 <tr><td>Dante</td><td align="right">95</td><td>
 non lascia altrui passar per la sua via,
 </td></tr>
+<tr><td>MIX</td><td align="right">95</td><td>
+ne lasas alian pasi tra sia vojo,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">95</td><td>
 ne permesas aliajn pasi tra ĝia vojo,
 </td></tr>
@@ -2091,6 +2376,9 @@ ne permesas aliajn transiri en sia vojo,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">96</td><td>
 ma tanto lo ’mpedisce che l’uccide;
+</td></tr>
+<tr><td>MIX</td><td align="right">96</td><td>
+sed tiom malhelpas lin ke li mortigas lin;
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">96</td><td>
 sed tiom multe ĝin malhelpas, ke ĝi mortigas ilin;
@@ -2114,6 +2402,9 @@ sed tiom, ke ĝi mortigas lin;
 <tr><td>Dante</td><td align="right">97</td><td>
 e ha natura sì malvagia e ria,
 </td></tr>
+<tr><td>MIX</td><td align="right">97</td><td>
+kaj havas tiel malbonan kaj malbonan naturon,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">97</td><td>
 kaj havas tiel malbonan kaj malnoblan naturon,
 </td></tr>
@@ -2135,6 +2426,9 @@ kaj havas tiel malbonan kaj malbonan naturon,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">98</td><td>
 che mai non empie la bramosa voglia,
+</td></tr>
+<tr><td>MIX</td><td align="right">98</td><td>
+Ke ĝi neniam plenigas la avidan deziron,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">98</td><td>
 ke ĝi neniam plenigas la avidan deziro,
@@ -2158,6 +2452,9 @@ kiu neniam malpurigas la deziro,
 <tr><td>Dante</td><td align="right">99</td><td>
 e dopo ’l pasto ha più fame che pria.
 </td></tr>
+<tr><td>MIX</td><td align="right">99</td><td>
+Kaj post la manĝo ĝi havas pli da malsato ol antaŭe.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">99</td><td>
 kaj post la manĝo ĝi havas pli da malsato ol antaŭe.
 </td></tr>
@@ -2179,6 +2476,9 @@ Post la manĝaĵo li pli malsatas ol antaŭe.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">100</td><td>
 Molti son li animali a cui s’ammoglia,
+</td></tr>
+<tr><td>MIX</td><td align="right">100</td><td>
+Multaj estas la bestoj, al kiuj li edziĝas,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">100</td><td>
 Multaj estas la bestoj, kun kiuj ĝi gepartnerecas,
@@ -2202,6 +2502,9 @@ Multaj estas la bestoj, al kiuj li edziĝas,
 <tr><td>Dante</td><td align="right">101</td><td>
 e più saranno ancora, infin che ’l veltro
 </td></tr>
+<tr><td>MIX</td><td align="right">101</td><td>
+kaj pli estos, ĝis la veltro
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">101</td><td>
 kaj ankoraŭ pli estos, ĝis la grauhundo
 </td></tr>
@@ -2223,6 +2526,9 @@ kaj pli estos, ĝis la veltro
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">102</td><td>
 verrà, che la farà morir con doglia.
+</td></tr>
+<tr><td>MIX</td><td align="right">102</td><td>
+venos, kiu faros ŝin morti kun malĝojo.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">102</td><td>
 venos, kiu faros ŝin morti kun malĝojo.
@@ -2246,6 +2552,9 @@ Li venos, kiu mortigos ŝin en agono.
 <tr><td>Dante</td><td align="right">103</td><td>
 Questi non ciberà terra né peltro,
 </td></tr>
+<tr><td>MIX</td><td align="right">103</td><td>
+Ĉi tiu ne manĝos teron nek pelton,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">103</td><td>
 Tiu ne nutros teron aŭ laton,
 </td></tr>
@@ -2267,6 +2576,9 @@ Li ne manĝos teron nek pejxon,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">104</td><td>
 ma sapienza, amore e virtute,
+</td></tr>
+<tr><td>MIX</td><td align="right">104</td><td>
+sed saĝeco, amo kaj virtoj,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">104</td><td>
 sed je saĝo, amo kaj forto,
@@ -2290,6 +2602,9 @@ sed saĝeco, amo kaj virtuo,
 <tr><td>Dante</td><td align="right">105</td><td>
 e sua nazion sarà tra feltro e feltro.
 </td></tr>
+<tr><td>MIX</td><td align="right">105</td><td>
+kaj lia nacio estos inter felto kaj felto.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">105</td><td>
 kaj ĝia nacio estos inter felto kaj felto.
 </td></tr>
@@ -2311,6 +2626,9 @@ kaj lia nacio estos inter sento kaj sento.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">106</td><td>
 Di quella umile Italia fia salute
+</td></tr>
+<tr><td>MIX</td><td align="right">106</td><td>
+De tiu humila Italio estos savo
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">106</td><td>
 De tiu malgranda Italio venos sano,
@@ -2334,6 +2652,9 @@ De tiu malhumila Italia fia saluto
 <tr><td>Dante</td><td align="right">107</td><td>
 per cui morì la vergine Cammilla,
 </td></tr>
+<tr><td>MIX</td><td align="right">107</td><td>
+Pro kiu mortis la virgulino Kamilo,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">107</td><td>
 pro kiu mortis la virgulino Kamilo,
 </td></tr>
@@ -2355,6 +2676,9 @@ pro kiu mortis la virgulino Kamel,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">108</td><td>
 Eurialo e Turno e Niso di ferute.
+</td></tr>
+<tr><td>MIX</td><td align="right">108</td><td>
+Eŭrialo kaj Turno kaj Niso de vundoj.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">108</td><td>
 Eŭrialo kaj Turno kaj Niso vunditaj.
@@ -2378,6 +2702,9 @@ Euryalo, Turno kaj Niso de vundoj.
 <tr><td>Dante</td><td align="right">109</td><td>
 Questi la caccerà per ogne villa,
 </td></tr>
+<tr><td>MIX</td><td align="right">109</td><td>
+Tiu ĝin forpelos tra ĉiu vilaĝo,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">109</td><td>
 Tiu ĝin forpelos tra ĉiu vilaĝo,
 </td></tr>
@@ -2399,6 +2726,9 @@ Li forpelos ŝin por ĉiu vilaĝo,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">110</td><td>
 fin che l’avrà rimessa ne lo ’nferno,
+</td></tr>
+<tr><td>MIX</td><td align="right">110</td><td>
+ĝis li remetos ŝin en la infero,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">110</td><td>
 ĝis li ĝin redonos en la inferno,
@@ -2422,6 +2752,9 @@ fin che l’avrà rimessa ne lo ’nferno,
 <tr><td>Dante</td><td align="right">111</td><td>
 là onde ’nvidia prima dipartilla.
 </td></tr>
+<tr><td>MIX</td><td align="right">111</td><td>
+tie kie la envio unue foriras.
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">111</td><td>
 tie, kie envio unua disiĝis.
 </td></tr>
@@ -2443,6 +2776,9 @@ Jen la unua festo komencas.
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">112</td><td>
 Ond’io per lo tuo me’ penso e discerno
+</td></tr>
+<tr><td>MIX</td><td align="right">112</td><td>
+Tial, mi pensas kaj distingas tra via vizaĝo
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">112</td><td>
 Pro tio mi pensas kaj komprenas min tra via
@@ -2466,6 +2802,9 @@ Do mi pensas kaj scias por vi mem
 <tr><td>Dante</td><td align="right">113</td><td>
 che tu mi segui, e io sarò tua guida,
 </td></tr>
+<tr><td>MIX</td><td align="right">113</td><td>
+ke vi sekvu min, kaj mi estos via gvidanto,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">113</td><td>
 ke vi sekvas min, kaj mi estos via gvidanto,
 </td></tr>
@@ -2487,6 +2826,9 @@ ke vi sekvu min, kaj mi estos via gvidanto,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">114</td><td>
 e trarrotti di qui per loco etterno;
+</td></tr>
+<tr><td>MIX</td><td align="right">114</td><td>
+kaj kondukos vin de ĉi tie al eterna loko;
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">114</td><td>
 kaj kondukos vin de ĉi tie al eterna loko;
@@ -2510,6 +2852,9 @@ kaj foriris el ĝi al ekstera loko;
 <tr><td>Dante</td><td align="right">115</td><td>
 ove udirai le disperate strida,
 </td></tr>
+<tr><td>MIX</td><td align="right">115</td><td>
+kie vi aŭdos la desperajn kriojn
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">115</td><td>
 kie vi aŭdos la malfeliĉajn krikojn,
 </td></tr>
@@ -2531,6 +2876,9 @@ kie vi aŭdos la desperatajn kriojn,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">116</td><td>
 vedrai li antichi spiriti dolenti,
+</td></tr>
+<tr><td>MIX</td><td align="right">116</td><td>
+vi vidos la antikvajn suferantajn spiritojn,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">116</td><td>
 vi vidos la malnovajn suferantajn spiritojn,
@@ -2554,6 +2902,9 @@ vi vidos la antikvajn malĝojajn spiritojn,
 <tr><td>Dante</td><td align="right">117</td><td>
 ch’a la seconda morte ciascun grida;
 </td></tr>
+<tr><td>MIX</td><td align="right">117</td><td>
+ke ĉiu krias al la dua morto
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">117</td><td>
 kiuj en la dua morto ĉiu krias;
 </td></tr>
@@ -2575,6 +2926,9 @@ ke ĉiu krias en la dua morto;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">118</td><td>
 e vederai color che son contenti
+</td></tr>
+<tr><td>MIX</td><td align="right">118</td><td>
+Kaj vi vidos tiujn, kiuj estas kontentaj
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">118</td><td>
 kaj vi vidos tiujn, kiuj estas kontentaj
@@ -2598,6 +2952,9 @@ kaj vi vidos kolorojn, kiuj estas feliĉaj
 <tr><td>Dante</td><td align="right">119</td><td>
 nel foco, perché speran di venire
 </td></tr>
+<tr><td>MIX</td><td align="right">119</td><td>
+en la fajro, ĉar ili esperas veni
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">119</td><td>
 en la fajro, ĉar ili esperas veni
 </td></tr>
@@ -2619,6 +2976,9 @@ en la fajro, ĉar ili esperas veni
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">120</td><td>
 quando che sia a le beate genti.
+</td></tr>
+<tr><td>MIX</td><td align="right">120</td><td>
+Kiam ajn al la feliĉaj popoloj.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">120</td><td>
 kiam ajn al la feliĉaj homoj.
@@ -2642,6 +3002,9 @@ kiam ĝi estas al la benata popolo.
 <tr><td>Dante</td><td align="right">121</td><td>
 A le quai poi se tu vorrai salire,
 </td></tr>
+<tr><td>MIX</td><td align="right">121</td><td>
+Al kiuj poste se vi volas supreniri,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">121</td><td>
 Al la ŝtupoj poste se vi volos supreniri,
 </td></tr>
@@ -2663,6 +3026,9 @@ Se vi volas iri supre,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">122</td><td>
 anima fia a ciò più di me degna:
+</td></tr>
+<tr><td>MIX</td><td align="right">122</td><td>
+la animo estos al tio pli digna ol mi
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">122</td><td>
 animo estos pli inda por tio ol mi:
@@ -2686,6 +3052,9 @@ Mia animo estas pli valora ol mi.
 <tr><td>Dante</td><td align="right">123</td><td>
 con lei ti lascerò nel mio partire;
 </td></tr>
+<tr><td>MIX</td><td align="right">123</td><td>
+kun ŝi Mi forlasos vin en mia foriri;
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">123</td><td>
 kun ŝi mi forlasos vin en mia forveturo;
 </td></tr>
@@ -2707,6 +3076,9 @@ kun ŝi Mi forlasos vin en mia foriri;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">124</td><td>
 ché quello imperador che là sù regna,
+</td></tr>
+<tr><td>MIX</td><td align="right">124</td><td>
+ĉar tiu imperiestro, kiu regas tie supre,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">124</td><td>
 ĉar tiu imperiestro, kiu supre regas,
@@ -2730,6 +3102,9 @@ por la imperiento, kiu reĝas tie,
 <tr><td>Dante</td><td align="right">125</td><td>
 perch’i’ fu’ ribellante a la sua legge,
 </td></tr>
+<tr><td>MIX</td><td align="right">125</td><td>
+ĉar mi estis ribela kontraŭ lia leĝo,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">125</td><td>
 ĉar mi estis ribela kontraŭ lia leĝo,
 </td></tr>
@@ -2751,6 +3126,9 @@ perch’i’ fu’ ribellante a la sua legge,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">126</td><td>
 non vuol che ’n sua città per me si vegna.
+</td></tr>
+<tr><td>MIX</td><td align="right">126</td><td>
+li ne volas, ke oni en sian urbon venu tra mi.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">126</td><td>
 li ne volas, ke oni en sian urbon venu tra mi.
@@ -2774,6 +3152,9 @@ Li ne volas, ke lia urbo vekiĝu por mi.
 <tr><td>Dante</td><td align="right">127</td><td>
 In tutte parti impera e quivi regge;
 </td></tr>
+<tr><td>MIX</td><td align="right">127</td><td>
+En ĉiuj partoj li regas kaj tie regas;
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">127</td><td>
 En ĉiuj partoj li regas kaj tie regas;
 </td></tr>
@@ -2795,6 +3176,9 @@ En ĉiuj partoj ĝi reĝas kaj reĝas tie;
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">128</td><td>
 quivi è la sua città e l’alto seggio:
+</td></tr>
+<tr><td>MIX</td><td align="right">128</td><td>
+tie estas Lia urbo kaj Lia alta trono;
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">128</td><td>
 tie estas lia urbo kaj la alta trono:
@@ -2818,6 +3202,9 @@ Kaj tie estas lia urbo kaj lia alta sido.
 <tr><td>Dante</td><td align="right">129</td><td>
 oh felice colui cu’ ivi elegge!".
 </td></tr>
+<tr><td>MIX</td><td align="right">129</td><td>
+ho feliĉa estas tiu, kiun li elektas tie!".
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">129</td><td>
 ho feliĉa estas tiu, kiun li elektas tie!".
 </td></tr>
@@ -2839,6 +3226,9 @@ Feliĉa estas tiu, kiu elektas tie! "
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">130</td><td>
 E io a lui: "Poeta, io ti richeggio
+</td></tr>
+<tr><td>MIX</td><td align="right">130</td><td>
+Kaj mi al li: "Poeto, mi petas vin
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">130</td><td>
 Kaj mi al li: "Poeto, mi petas vin
@@ -2862,6 +3252,9 @@ Kaj mi diris al li, "Poeto, mi volas vin
 <tr><td>Dante</td><td align="right">131</td><td>
 per quello Dio che tu non conoscesti,
 </td></tr>
+<tr><td>MIX</td><td align="right">131</td><td>
+por tiu Dio kiun vi ne konis
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">131</td><td>
 por tiu Dio, kiun vi ne konis,
 </td></tr>
@@ -2883,6 +3276,9 @@ pro tiu Dio, kiun vi ne konis,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">132</td><td>
 acciò ch’io fugga questo male e peggio,
+</td></tr>
+<tr><td>MIX</td><td align="right">132</td><td>
+por ke mi forkuru ĉi tiun malbonon kaj pli malbonon,
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">132</td><td>
 por ke mi forkuru ĉi tiun malbonon kaj pli malbonon,
@@ -2906,6 +3302,9 @@ por ke mi forkurigu tiun malbonon kaj malbonon,
 <tr><td>Dante</td><td align="right">133</td><td>
 che tu mi meni là dov’or dicesti,
 </td></tr>
+<tr><td>MIX</td><td align="right">133</td><td>
+ke vi min konduku tien, kie vi diris,
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">133</td><td>
 gvidu min tien kie vi diris,
 </td></tr>
@@ -2927,6 +3326,9 @@ ke vi prenos min kien vi diris,
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">134</td><td>
 sì ch’io veggia la porta di san Pietro
+</td></tr>
+<tr><td>MIX</td><td align="right">134</td><td>
+Por ke mi vidu la pordon de Sankta Petro
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">134</td><td>
 por ke mi povu vidi la pordon de Sankta Petro
@@ -2950,6 +3352,9 @@ por ke mi vidu la pordon de Santa Petro
 <tr><td>Dante</td><td align="right">135</td><td>
 e color cui tu fai cotanto mesti".
 </td></tr>
+<tr><td>MIX</td><td align="right">135</td><td>
+Kaj tiujn kiun vi faras tiel malĝojajn."
+</td></tr>
 <tr><td>ChatGPT-1</td><td align="right">135</td><td>
 kaj tiujn kiujn vi faras tiom malĝojigaj.
 </td></tr>
@@ -2971,6 +3376,9 @@ kaj koloro, kiun vi tiel malĝojas."
 <tr><td></td><td></td><td></td></tr>
 <tr><td>Dante</td><td align="right">136</td><td>
 Allor si mosse, e io li tenni dietro.
+</td></tr>
+<tr><td>MIX</td><td align="right">136</td><td>
+Tiam li moviĝis, kaj mi sekvis lin.
 </td></tr>
 <tr><td>ChatGPT-1</td><td align="right">136</td><td>
 Tiam li moviĝis, kaj mi sekvis lin.
