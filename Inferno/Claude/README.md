@@ -1,4 +1,4 @@
-Longfellow summary by Claude.
+Here are the summary of Longfellow by Claude and its Japanese translation by DeepL.
 
 Prompt:
 
