@@ -1,15 +1,23 @@
 import sys
 
-if len(sys.argv) < 2:
-    print('Usage: python3 number.py FILE', FILE=sys.stderr)
+args = sys.argv[1:]
+
+trema = False
+if args and args[0] == '-t':
+    trema = True
+    args = args[1:]
+
+if args:
+    print('Usage: python3 number.py [-t]', file=sys.stderr)
     sys.exit()
 
-with open(sys.argv[1]) as f:
-    n = 1
-    for line in f:
-        line = line.strip()
-        if line:
-            print(n, line)
-            if n % 3 == 0:
-                print()
-            n = n + 1
+n = 1
+while (line := sys.stdin.readline()):
+    line = line.strip()
+    if line:
+        if trema:
+            line = line.replace('ä', 'a').replace('ë', 'e').replace('ï', 'i').replace('ö', 'o').replace('ü', 'u')
+        print(n, line)
+        if n % 3 == 0:
+            print()
+        n = n + 1
