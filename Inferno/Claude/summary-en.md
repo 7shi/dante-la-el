@@ -223,3 +223,80 @@ Virgil points out famous soothsayers and diviners with heads twisted backward fo
 - Manto was the daughter of Tiresias who founded Mantua after fleeing Thebes. Virgil recounts the city's mythical origins.
 - Dante asks if Virgil recognizes any noteworthy sinners. Virgil points out the Greek augur Calchas from the Trojan War, the magician Michael Scott, the astrologer Guido Bonatti, the shoemaker Asdente, and others.
 - Virgil reminds Dante that night is falling and they must continue on, having passed through the hemisphere of land and nearing the ocean. The canto ends as they walk on through the Malebolge.
+
+## Canto 21
+
+Dante and Virgil encounter demonic Malebranche who toss a corrupt politician into boiling pitch. One demon approaches to attack but Virgil rebukes him, so they are allowed to continue, guarded by some demons.
+
+- Dante and Virgil encounter demonic Malebranche as they descend further into hell
+- The Malebranche are demons that guard the fifth pouch of the eighth circle, reserved for corrupt politicians
+- The demons eagerly torment the corrupt politicians, whom they have immersed in boiling pitch
+- As Dante and Virgil arrive, the demons toss one of the corrupt politicians, an unnamed Navarrese counselor, into the boiling pitch
+- One of the demons, Malacoda, approaches Virgil threateningly, but Virgil stands his ground and rebukes him
+- Malacoda allows them to continue, but assigns a group of demons led by Barbariccia to escort them safely across the boiling pitch
+- As they move forward, Dante glimpses the gruesome scene of the demons tormenting the corrupt politicians immersed in the boiling pitch
+- He feels great pity for their suffering, despite their sins
+
+## Canto 22
+
+Dante sees sinners immersed in boiling pitch. One sinner tells his story of corruption and treachery before being seized by demons. Dante feels sympathy for the suffering sinners.
+
+- Dante sees a group of sinners immersed in boiling pitch as punishment for graft and corruption
+- The sinners are guarded by the demonic Malebranche who torture them with grappling hooks if they try to escape the pitch
+- One sinner emerges from the pitch and tells his story before being seized by the demons
+- He was an associate of King Thibaut II who practiced graft and sold public offices
+- The demons torture him with hooks as punishment before allowing him to submerge again
+- Another sinner emerges whom Dante recognizes as Friar Gomita, known for accepting bribes
+- Gomita names others who suffer with him before he is forced back into the pitch
+- Dante feels great pity and sympathy seeing the suffering sinners, despite their corruption in life
+- He compares the demons' cruelty to the sinners to dogs attacking a thief
+- Virgil counsels Dante not to feel sympathy, for divine justice is being served
+- They continue moving forward, with Dante so disturbed he lags behind Virgil
+
+## Canto 23
+
+Dante and Virgil move silently, reminded of Aesop's fable of the frog and mouse. They encounter hypocritical friars suffering in hell and talk to two from Bologna. One crucified sinner tells his story.
+
+- Dante and Virgil walk on silently, compared to two friars traveling along their path
+- This reminds Dante of the fable of the frog and mouse, about a careless partnership
+- They come upon a new group of hypocritical sinners - the hypocrites wear leaden cloaks
+- Two friars from Bologna, Catalano and Loderingo, approach and speak to Dante
+- Catalano explains they advised the Pharisees to crucify Christ - for this they suffer
+- Nearby, Dante sees a crucified sinner - it's Caiaphas, who also counseled the Pharisees
+- Caiaphas confirms his sins and mentions others who suffer the same fate
+- Dante sees the hypocrites wear gilded lead cloaks, beautiful outside but heavy within
+- This symbolizes their outward piety concealing inner corruption
+- One sinner mentions how he takes bribes from Don Michael Zanche
+- Hearing this corruption, Virgil storms off angrily and Dante follows swiftly
+
+## Canto 24
+
+Dante sees a sinner transfixed by a demon. The sinner, Vanni Fucci, was a thief who wrongly blamed others. He prophesies political strife in Pistoia and Florence before being attacked by snakes.
+
+- Dante sees a sinner transfixed by a demon's spear and burned to ash, then revived to suffer again
+- The sinner is Vanni Fucci, a thief who falsely blamed others for his crime
+- Vanni prophesies strife between the Black and White Guelphs in Pistoia and Florence
+- Enraged, he blasphemes God with an obscene gesture
+- Serpents wrap around Vanni and muzzle him to silence his blasphemy
+- Dante reveals he knew Vanni as a bloody and wrathful man when alive
+- Vanni admits he stole sacramental items from a church and blamed another
+- He says this is why he suffers here, though his prophecy gives him some joy
+- Vanni names other sinners present - including Cianfa who will appear soon
+- Before saying more, snakes and demons arrive to torment Vanni again
+
+## Canto 25
+
+Dante sees sinners transformed into reptiles and attacked by snakes and a demon. Three sinners morph into hybrid creatures in bizarre transformations as punishment for thievery. Dante struggles to describe the strange mutations.
+
+- Dante sees sinners transformed into strange reptile and animal shapes as punishment for thievery
+- Some are hybrid creatures, merging human and animal features in bizarre, unnatural ways
+- The sinners are attacked and bitten by snakes as they run terrified across the pit
+- Three Florentine thieves undergo metamorphosis into hybrid forms, blending into one creature
+- It has two heads, four hybrid limbs, and its features constantly morph and transform
+- The creature splits into a two-headed serpent and wounded figure writhing in pain
+- Dante admits his difficulty describing the bizarre transformations
+- The mutations are so alien that Dante questions whether they actually occurred
+- The hybrid creature transforms again - one head becomes a muzzle, the other more human
+- Dante cites examples from Ovid but states these mutations exceed even mythology
+- In the end, the two sinners exchange natures and appearances in their merged form
+- Dante is left mystified but says he truly witnessed it, strange as it was
