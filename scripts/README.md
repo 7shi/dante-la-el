@@ -29,8 +29,8 @@ Scripts for comparing results. The main purpose is to examine ways to generate s
 
 | Script | Example | Description |
 |--------|---------|-------------|
-|[mkcompare.py](https://github.com/7shi/dante-la-el/blob/main/scripts/mkcompare.py)|[compare-en.md](https://github.com/7shi/dante-la-el/blob/main/Inferno/compare-en.md)|Juxtapose multiple translations.|
-|[score.py](https://github.com/7shi/dante-la-el/blob/main/scripts/score.py)|[01-score-en.md](https://github.com/7shi/dante-la-el/blob/main/Inferno/MT/01-en-score.md)<br>[01-en-mix.txt](https://github.com/7shi/dante-la-el/blob/main/Inferno/MT/en/01-en-mix.txt)|Calculate scores and generate a mixed translation.|
+|[make_compare.py](https://github.com/7shi/dante-la-el/blob/main/scripts/make_compare.py)|[compare-en.md](https://github.com/7shi/dante-la-el/blob/main/Inferno/compare-en.md)|Juxtapose multiple translations.|
+|[make_score.py](https://github.com/7shi/dante-la-el/blob/main/scripts/make_score.py)|[01-score-en.md](https://github.com/7shi/dante-la-el/blob/main/Inferno/MT/01-en-score.md)<br>[01-en-mix.txt](https://github.com/7shi/dante-la-el/blob/main/Inferno/MT/en/01-en-mix.txt)|Calculate scores and generate a mixed translation.|
 
 The score is calculated based on the edit distance between multiple translations. It is not a direct indication of the quality of a translation, but it does give an indication of how average a translation is in the population. The most average lines are adopted to generate a mixed translation.
 
@@ -42,7 +42,7 @@ Scripts to assist with manual tasks that are difficult to automate.
 |--------|-------------|
 |[copy_adjnl.py](https://github.com/7shi/dante-la-el/blob/main/scripts/copy_adjnl.py)|Insert spaces for line breaks in quoted text to accommodate differences in Markdown specifications. Monitor the clipboard and automatically modify copied text.|
 |[copy_append.py](https://github.com/7shi/dante-la-el/blob/main/scripts/copy_append.py)|Monitor the clipboard to automatically retrieve copied text.|
-|[mk31.py](https://github.com/7shi/dante-la-el/blob/main/scripts/mk31.py)|The prose of the source text and the translation, which is split into three lines, are lined up to instruct the AI to split the latter. Used in [Norton](https://github.com/7shi/dante-la-el/tree/main/Inferno/Bard/en-norton).|
+|[make_31.py](https://github.com/7shi/dante-la-el/blob/main/scripts/make_31.py)|The prose of the source text and the translation, which is split into three lines, are lined up to instruct the AI to split the latter. Used in [Norton](https://github.com/7shi/dante-la-el/tree/main/Inferno/Bard/en-norton).|
 |[splitrans.py](https://github.com/7shi/dante-la-el/blob/main/scripts/splitrans.py)|Split sentences to be translated by machine translation with character limit. Copying the translation will automatically proceed to the next step.|
 
 # Others
