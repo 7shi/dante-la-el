@@ -383,3 +383,52 @@ Dante encounters falsifiers and counterfeiters suffering from horrific diseases 
 - Dante is ashamed to be caught up in their petty argument instead of moving on
 - Virgil says not to be ashamed, as anyone could be drawn into such an argument
 - He urges Dante to avoid pointless disputes and move forward when able
+
+## Canto 31
+
+Dante and Virgil enter the 9th circle of Hell, a frozen lake with sinners trapped in the ice, and pass giants including Nimrod and Antaeus before descending further.
+
+- Dante and Virgil enter the 9th circle of Hell, reserved for traitors. It is a frozen lake called Cocytus.
+- They see the giant Nimrod, whose pride led him to try to build the Tower of Babel. He speaks an unintelligible language. 
+- They see the giant Ephialtes, who revolted against the Olympian gods. He is chained up as punishment.
+- Dante wants to see the giant Briareus, but Virgil says they will see Antaeus instead, who is unchained and can place them at the bottom of Hell's pit.
+- Antaeus was known for his strength and killed lions. Virgil flatters him to convince him to lower them into the final circle of Hell.
+- Antaeus grasps Virgil and Dante in his hands and lowers them down into the pit of Cocytus, where Lucifer and Judas are trapped in ice.
+
+## Canto 32
+
+In the final round of the 9th circle, Dante speaks with sinners including Bocca and Ugolino who are completely encased in ice for their acts of betrayal. 
+
+- Dante and Virgil descend into the final round of Hell, Judecca, where traitors are completely encased in ice.
+- Sinners are frozen in contorted positions with their heads bent downward and tears frozen on their faces.
+- Dante accidentally kicks the head of Bocca degli Abati, who betrayed the Florentines at the Battle of Montaperti. 
+- Bocca won't reveal his name, so Dante grabs his hair and threatens him until he confesses.
+- Bocca names other traitors frozen in Judecca - Buoso da Duera, Tesauro dei Beccheria, Gianni de' Soldanieri, Ganelon, and Tebaldello Zambrasi.
+- Dante sees two sinners frozen together while one gnaws the skull of the other in hatred - Count Ugolino and Archbishop Ruggieri, whose betrayal led to Ugolino's imprisonment and children's starvation. 
+- Dante asks Ugolino to explain why he is gnawing Ruggieri in revenge.
+
+## Canto 33
+
+Ugolino tells the tragic tale of how he and his sons were starved to death in prison by the betrayal of Archbishop Ruggieri, whom Ugolino now gnaws in revenge.
+
+- Count Ugolino tells how he was imprisoned and starved to death along with his sons by Archbishop Ruggieri.
+- Ugolino dreamed of Ruggieri hunting and killing his sons, then waking to hear them cry for food. 
+- His sons died of starvation one by one over several days while Ugolino could do nothing. 
+- Ugolino gnaws Ruggieri's skull in revenge for this cruel betrayal.
+- Dante condemns Pisa for punishing Ugolino's innocent sons so cruelly. 
+- Dante and Virgil see more sinners encased in ice, unable to weep though filled with grief.
+- Friar Alberigo explains that sometimes a soul's body is taken over by a demon before death if they commit betrayal. 
+- Alberigo claims his soul is in Hell though his body lives on, and points out Branca D'Oria as another example.
+- Dante refuses to remove Alberigo's ice, saying traitors like him deserve no courtesy. He condemns the Genoese as vicious and unvirtuous.
+
+## Canto 34
+
+Dante sees Satan frozen up to his waist at the center of Hell, and climbs down his body to reach the core of the earth and emerge on the other side at the base of Mount Purgatory.
+
+- Dante sees Satan frozen waist-deep in ice, flapping his wings to create the cold winds of Cocytus.
+- Satan has three faces - one red, one pale yellow, one black. Under each face he chews on a sinner - Judas, Brutus, and Cassius.
+- Virgil and Dante climb down Satan's furry sides and legs to reach the center of the earth and pass through to the other hemisphere.
+- They emerge at the base of Mount Purgatory, which rose up when Satan fell from Heaven into the Southern hemisphere. 
+- Passing through a crevice in the rock, they begin ascending Mount Purgatory to leave Hell behind.
+- Virgil explains to Dante that they've passed the center point and are now in the Southern hemisphere directly opposite Jerusalem. Night is falling as they enter Purgatory.
+- The section ends as they prepare to climb the mountain and purge their sins to reach Paradise.
