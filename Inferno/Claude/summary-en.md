@@ -300,3 +300,86 @@ Dante sees sinners transformed into reptiles and attacked by snakes and a demon.
 - Dante cites examples from Ovid but states these mutations exceed even mythology
 - In the end, the two sinners exchange natures and appearances in their merged form
 - Dante is left mystified but says he truly witnessed it, strange as it was
+
+## Canto 26
+
+Dante and Virgil descend to the eighth circle and find Ulysses and Diomedes punished among the fraudulent counselors; Ulysses recounts his final voyage where he went beyond the Pillars of Hercules but was sunk at sea.
+
+- Dante and Virgil descend to the eighth circle of Hell, where fraudsters are punished
+- They see flames containing Ulysses and Diomedes, punished for their role in the Trojan War
+- Ulysses tells the story of his final voyage after leaving Circe
+- He convinced his men to journey beyond the known world, past the Pillars of Hercules
+- They sailed into uncharted waters but were sunk by a whirlwind before reaching land
+- Ulysses says this act of overreaching hubris and thirst for knowledge doomed him
+- Themes include fraud, deception, ambition exceeding human limits
+- Ulysses' journey critiques pushing beyond moral bounds for selfish/prideful reasons
+- Inclusion of Trojan War figures allows critique of their duplicity and trickery
+- Explores how fraud distorts reason and virtue, leading to punishment
+- Reflects on epic themes of war, glory, forbidden knowledge leading to tragedy
+
+## Canto 27
+
+The souls of Guido da Montefeltro and Pier da Medicina speak to Dante, the former telling how he offered fraudulent advice to Pope Boniface VIII and the latter prophesying the betrayal and drowning of two men.
+
+- Another flame appears, making confused noises like a bellowing bull
+- It is the soul of Guido da Montefeltro, who speaks to Dante
+- Guido recounts his life as a military strategist and advisor known for his cunning
+- He later became a Franciscan friar to repent for his sins
+- But Pope Boniface VIII convinced him to advise betraying a city, assuring absolution
+- After death, St. Francis came for Guido but a devil took him to Hell instead
+- The devil says Guido can't be absolved since he counseled sin while intending to repent later
+- In Hell, Minos judged Guido as a thief and he is punished in the eighth circle
+- Guido warns that no one ever returns from Hell to the living world above
+- After finishing his story, Guido's flame departs with laments and writhing motions
+- Dante and Virgil continue their journey, passing over another bridge
+
+## Canto 28
+
+Dante witnesses mutilated souls who are being punished for schism and sowing scandal; one asks about Dante's identity and after learning he is alive, tells him to warn a heretic friar.
+
+- Dante sees mutilated sinners in the ninth circle who sowed scandal and schism
+- One sinner shows his ripped open chest and says they are split apart by a devil
+- The sinner asks about Dante's identity; Virgil explains he's guiding Dante through Hell
+- Over 100 sinners stop to look at Dante in amazement
+- One tells Dante to warn a heretical friar on earth about an impending attack
+- Another with a cut throat identifies himself as Pier da Medicina
+- He prophesies two men from Fano will drown from a tyrant's betrayal
+- Another sinner points out Mosca dei Lamberti, who incited violence in Florence
+- Dante then sees a headless torso carrying its severed head
+- The head identifies itself as Bertran de Born, who stirred up a revolt against a king
+- For dividing father and son, Bertran's head is now split from his body
+- Overall, punished are those who created deep divisions between others
+
+## Canto 29
+
+Virgil urges Dante not to linger looking at gruesome sights as their time is short; Dante sees his relative Geri del Bello among the souls but does not speak to him before arriving at the final chasm of falsifiers.
+
+- Dante is distracted by the gruesome sights of mutilated sinners
+- Virgil urges him to move on, as little time remains to see everything
+- Dante explains he was fixed on a spirit he recognizes as his relative Geri
+- Virgil says he saw Geri threaten Dante but not speak to him
+- Dante feels pity for his unavenged relative
+- They arrive at the final chasm over the falsifiers and counterfeiters
+- Dante hears lamentations like a horrible hospital of diseases
+- He sees sinners covered in scabs, constantly scratching themselves
+- Two sinners lean on each other, tearing their skin with their nails
+- Virgil asks them if any are Italian, and they say they are from Arezzo and Siena
+- One admits he joked about flying and was burned for heresy, wrongly blamed for alchemy
+- The other says he falsified metals and identifies inhabitants of Siena known for excess
+- He reveals he is the alchemist Capocchio, skilled at aping nature
+
+## Canto 30
+
+Dante encounters falsifiers and counterfeiters suffering from horrific diseases while they tear at their own bodies; he speaks with two alchemists from Italy and witnesses the petty argument between Potiphar's wife and Sinon the Greek.
+
+- Dante sees two sinners running naked and biting each other like beasts
+- One is Gianni Schicchi who impersonated a dead man to falsify his will
+- The other is Myrrha, who committed incest with her father by disguising herself
+- They see a sinner bloated with dropsy, parched with thirst amid the rain
+- He is Master Adam, who counterfeited coins and is punished with eternal thirst
+- Two sinners lie side by side, steaming like hands in winter; they are falsifiers
+- One is Potiphar's wife who falsely accused Joseph; the other is Sinon the Greek
+- The two bicker and trade insults about their lies until Virgil rebukes Dante
+- Dante is ashamed to be caught up in their petty argument instead of moving on
+- Virgil says not to be ashamed, as anyone could be drawn into such an argument
+- He urges Dante to avoid pointless disputes and move forward when able
