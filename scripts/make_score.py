@@ -1,4 +1,5 @@
-import sys, math, re, unicodedata, Levenshtein
+import sys, math, re, Levenshtein
+from striplog import write_table
 
 args = sys.argv[1:]
 
@@ -32,10 +33,7 @@ def abbrev_name(name):
             name = m.group(1)
     return name
 
-snames = [abbrev_name(arg) for arg in args]
-snlen = max(len(arg) for arg in snames)
-def spname(i):
-    return f"{snames[i]:{snlen}}"
+anames = [abbrev_name(arg) for arg in args]
 
 tlen = len(texts)
 t0len = len(texts[0])
@@ -58,12 +56,11 @@ textsnorm = [[normalize(line) for line in text] for text in texts]
 def dist(a, b):
     return Levenshtein.distance(a, b) / max(len(a), len(b))
 
-print("# Mix")
+print("# MIX")
 print()
-print("|", " | ".join([f"{i+1:{len(n)}}" for i, n in enumerate(snames)]), "|")
-print("| ", "| ".join(["-" * len(n) + ":" for n in snames]), "|", sep="")
-print("|", " | ".join(snames), "|")
-
+write_table([anames, [], [i + 1 for i in range(len(anames))]],
+            fit=True, right=list(range(len(anames))))
+print()
 sels  = [0 for _ in texts]
 logs = []
 dists1 = [0 for _ in range(tlen)]
@@ -89,17 +86,11 @@ for i in range(t0len):
             sels[j] += 1
             if k < 0:
                 k = j
-    logs.append((mn, ns, texts[k][i]))
+    logs.append([i + 1, f"{mn:.3f}", ns, texts[k][i]])
+write_table([["Line", "Dist", "Adopt", "Text"], []] + logs,
+            fit=True, right=[0, 1])
 
-mixed = [line for _, _, line in logs]
-mlen = max(len(line) for line in mixed)
-alen = max(len("Adopt"), tlen)
-print()
-print(f"| Line | Dist  | {'Adopt':{alen}} | {'Text':{mlen}} |")
-print(f"| ----:| -----:| {'-' * alen} | {'-' * mlen} |")
-for i, (mn, ns, line) in enumerate(logs):
-    print(f"| {i+1:4} | {mn:.3f} | {ns:{alen}} | {line:{mlen}} |")
-
+mixed = [log[3] for log in logs]
 if output_fn:
     with open(output_fn, "w") as f:
         for line in mixed:
@@ -108,28 +99,25 @@ if output_fn:
 print()
 print("## Number of Adopted")
 print()
-print(f"| Rank | {'Name':{snlen}} | Adopt |")
-print(f"| ----:| {'-' * snlen} | -----:|")
 scores = list(enumerate(sels))
 scores.sort(key=lambda x: x[1], reverse=True)
-for r, (i, score) in enumerate(scores):
-    print(f"| {r+1:4} | {spname(i)} | {score:5} |")
+write_table([["Rank", "Name", "Adopt"], []] +
+            [[r + 1, anames[i], score] for r, (i, score) in enumerate(scores)],
+            fit=True, right=[0, 2])
 
 print()
 print("## Distance from Others")
 print()
-print(f"| Rank | {'Name':{snlen}} | Dist  |")
-print(f"| ----:| {'-' * snlen} | -----:|")
 scores = list(enumerate([math.sqrt(d / t0len) for d in dists1]))
 scores.sort(key=lambda x: x[1])
-for r, (i, score) in enumerate(scores):
-    print(f"| {r+1:4} | {spname(i)} | {score:.3f} |")
+write_table([["Rank", "Name", "Dist"], []] +
+            [[r + 1, anames[i], f"{score:.3f}"] for r, (i, score) in enumerate(scores)],
+            fit=True, right=[0, 2])
 
 print()
 print("# Distances")
 print()
-
-snames.append("MIX")
+anames.append("MIX")
 texts.append(mixed)
 textsnorm.append([normalize(line) for line in mixed])
 for target in targets:
@@ -138,42 +126,31 @@ for target in targets:
         if t0len != len(lines):
             print(f"Error: `{target}` has different line length")
             sys.exit(1)
-        snames.append(abbrev_name(target))
+        anames.append(abbrev_name(target))
         texts.append(lines)
         textsnorm.append([normalize(line) for line in lines])
-
-snlen = max(len(arg) for arg in snames)
 tlen = len(texts)
-spnames = []
-for n in snames:
-    length = max(5, len(n))
-    spnames.append(f"{n:{length}}")
-print("|", " " * snlen, "|", " | ".join(spnames[1:]), "|")
-print("| ", "-" * snlen, " | ", "| ".join("-" * len(spn) + ":" for spn in spnames[1:]), "|", sep="")
-dists2 = [[0 for _ in range(tlen)] for _ in range(tlen)]
+dists2 = [[0] * tlen for _ in range(tlen)]
 for i in range(tlen - 1):
-    print("|", spname(i), end=" |")
     for j in range(1, tlen):
-        sp = " " * (len(spnames[j]) + 1)
         if i < j:
             d = 0
             for k in range(t0len):
                 d += dist(textsnorm[i][k], textsnorm[j][k]) ** 2
             d = math.sqrt(d / t0len)
-            print(f"{d:{len(sp)}.3f}", end=" |")
             dists2[i][j] = d
             dists2[j][i] = d
-        else:
-            print(sp, end=" |")
-    print()
+write_table([[""] + anames[1:], []] +
+            [[anames[i]] + [f"{dists2[i][j]:.3f}" if i < j else "" for j in range(1, tlen)]
+                            for i in range(0, tlen - 1)],
+            fit=True, right=list(range(1, tlen + 1)))
 
 for i in range(tlen):
     print()
-    print("##", snames[i])
+    print("##", anames[i])
     print()
-    print(f"| Rank | {'Name':{snlen}} | Dist  |")
-    print(f"| ----:| {'-' * snlen} | -----:|")
     scores = [(j, d) for j, d in enumerate(dists2[i]) if i != j]
     scores.sort(key=lambda x: x[1])
-    for r, (j, score) in enumerate(scores):
-        print(f"| {r+1:4} | {spname(j)} | {score:.3f} |")
+    write_table([["Rank", "Name", "Dist"], []] +
+                [[r + 1, anames[j], f"{d:.3f}"] for r, (j, d) in enumerate(scores)],
+                fit=True, right=[0, 2])

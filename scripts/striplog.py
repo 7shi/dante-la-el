@@ -51,9 +51,35 @@ def read_table(lines, i):
         sys.exit(1)
     return ret, i
 
-def write_table(table):
-    for items in table:
-        print("|", " | ".join(items), "|")
+def write_table(table, fit=False, right=[], file=sys.stdout):
+    widths = []
+    cols = len(table[0])
+    if fit:
+        widths = [max(3, *[len(str(row[i])) for j, row in enumerate(table) if j != 1])
+                  for i in range(cols)]
+    for row, items in enumerate(table):
+        if row == 1:
+            seps = []
+            for col in range(cols):
+                if fit:
+                    if col in right:
+                        seps.append("-" * (widths[col] + 1) + ":")
+                    else:
+                        seps.append("-" * (widths[col] + 2))
+                else:
+                    seps.append(items[col] + ":" if col in right else items[col])
+            print("|", "|".join(seps), "|", sep="", file=file)
+        else:
+            items2 = []
+            for col in range(cols):
+                if fit:
+                    if col in right:
+                        items2.append(str(items[col]).rjust(widths[col]))
+                    else:
+                        items2.append(str(items[col]).ljust(widths[col]))
+                else:
+                    items2.append(str(items[col]))
+            print("|", " | ".join(items2), "|", file=file)
 
 def parse(file, ret=None):
     if ret is None:
