@@ -13,7 +13,7 @@ Therefore, the main process is tentative at this time.
 | No. | Script | Process |
 |----:|--------|---------|
 |1|(manually)|AI chat to get the information we need. Results are output in tabular format whenever possible, as this is useful for formatting later.|
-|2|[logcopy.py](https://github.com/7shi/dante-la-el/blob/main/scripts/logcopy.py)|This is a script that automatically records the chat logs as we manually copy them. If we could ask questions via the API, there would be no need for such a thing, but due to billing reasons, we provide one like this.|
+|2|[copy_log.py](https://github.com/7shi/dante-la-el/blob/main/scripts/copy_log.py)|This is a script that automatically records the chat logs as we manually copy them. If we could ask questions via the API, there would be no need for such a thing, but due to billing reasons, we provide one like this.|
 |3|[striplog.py](https://github.com/7shi/dante-la-el/blob/main/scripts/striplog.py)|Extract tables from chat logs. Manual modifications are made to the extracted tables.<br>This script can be referenced as a library. If detailed post-processing is required, this can be referenced to create a custom script.|
 |4|[replace_tr.py](https://github.com/7shi/dante-la-el/blob/main/scripts/replace_tr.py)|When the AI quotes the original text, punctuation and other characters may change slightly. This script will replace the sentences in the table.|
 |5|[conv_log_s.py](https://github.com/7shi/dante-la-el/blob/main/scripts/conv_log_s.py)|Generate translations and word tables from tables. A simple error check is performed, which is then used as a reference for manual correction.|

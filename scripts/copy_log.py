@@ -27,7 +27,9 @@ if len(args) != 1:
 if seek and os.path.exists(args[0]):
     with open(args[0], "r", encoding="utf_8") as sio:
         for line in sio:
-            if m := re.match(r"## (\d+)", line):
+            if m := re.match(r"## \d+-(\d+)", line):
+                i = int(m.group(1)) + 1
+            elif m := re.match(r"## (\d+)", line):
                 i = int(m.group(1)) + step
 
 def chop(s):
