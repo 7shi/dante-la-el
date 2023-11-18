@@ -1,3 +1,41 @@
+# Inferno
+
+    This is a translation of Dante's Divine Comedy Inferno. This is in the public domain. Please summarize in bullet points.
+
+Here is a high-level summary of Dante's Inferno:
+
+- It is the first part of Dante's 14th-century epic poem Divine Comedy, which chronicles Dante's imaginary journey through Hell, Purgatory, and Paradise. 
+
+- The Inferno describes Dante's descent into Hell, guided by the poet Virgil. Hell is depicted as nine concentric circles of increasing punishments.
+
+- Dante enters the first circle of Hell, Limbo, which contains virtuous pagans and unbaptized babies. The second through fifth circles are for the lustful, gluttons, hoarders/wasters, and the wrathful.
+
+- The lower circles are for heretics, violent ones, fraudsters, and traitors. Satan lies trapped in ice at the deepest point of Hell. 
+
+- Each circle's punishments are contrapasso - designed to mirror or resemble the sins being punished. Sinners endure eternally ironic fates. 
+
+- The work is highly imaginative, symbolic and vivid in its imagery. It helped establish the Christian afterlife and particularly Hell in popular imagination.
+
+The Inferno has had an immense influence on art, culture, and literature over the centuries since its publication.
+
+    Please summarize in sentences, not bullet points, and in about 500 words.
+
+Here is a 500 word summary of Dante's Inferno:
+
+Dante's Inferno is the first part of his epic 14th-century poem Divine Comedy. It chronicles Dante's imaginary journey through the nine circles of Hell, guided by the Roman poet Virgil. The Inferno vividly depicts Hell as an elaborately organized realm where sinners suffer eternal, ironic punishments that mirror their crimes.
+
+The Inferno begins with Dante lost in a dark forest, allegorically representing sin. He is attacked by beasts but rescued by Virgil, who says Dante's late beloved Beatrice in Heaven sent him. Virgil says Dante's only path is a journey through Hell. They enter Hell's first circle, Limbo, home to virtuous pagans and unbaptized babies. It is a somber rather than gruesome place. 
+
+In the second circle, the lustful are blown violently back and forth by strong winds, symbolic of their lack of self-control in life. In the third circle, the gluttons must lie in mud, symbolic of their overindulgence. The fourth circle houses the greedy and squanderers, who joust with heavy boulders. The wrathful battle each other in the muddy Styx river in the fifth circle. 
+
+In the lower circles, the sins and punishments grow increasingly vile and inhuman. Heretics are trapped in fiery tombs in the sixth circle. The violent are immersed in Phlegethon's boiling blood river in the seventh. In the eighth, various fraudsters are imprisoned in 10 ditches. 
+
+The traitorous reside in the ninth circle's four zones: Caina for those treacherous to family, Antenora for betrayers of country, Ptolomea for betrayers of guests, and Judecca for betrayers of lords and benefactors. Satan himself is trapped waist-deep in ice here. After climbing down Satan's body, Dante and Virgil emerge to see the stars again.
+
+Dante peoples Hell's varied topography - full of cliffs, rivers, ditches, gorges and chasms - with an imaginative array of specific sinners, many named. The punishments are elaborately, even fiendishly conceived to be contrapasso, symbolically mirroring or resembling the sin. Vivid sensory descriptions make Hell feel palpably real.
+
+Inferno established key Christian conceptions of Hell that persisted for centuries in art and culture. Dante's richly symbolic descriptions, imaginative landscapes, and cast of specific sinners had an immense influence on Western imagery of the afterlife. The work remains a profoundly creative vision of divine justice.
+
 ## 1
 
     This is a translation of Dante's Divine Comedy Inferno Canto 1. Please summarize it.

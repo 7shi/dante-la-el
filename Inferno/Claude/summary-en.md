@@ -1,5 +1,19 @@
 # Inferno
 
+Dante's Inferno is the first part of his epic 14th-century poem Divine Comedy. It chronicles Dante's imaginary journey through the nine circles of Hell, guided by the Roman poet Virgil. The Inferno vividly depicts Hell as an elaborately organized realm where sinners suffer eternal, ironic punishments that mirror their crimes.
+
+The Inferno begins with Dante lost in a dark forest, allegorically representing sin. He is attacked by beasts but rescued by Virgil, who says Dante's late beloved Beatrice in Heaven sent him. Virgil says Dante's only path is a journey through Hell. They enter Hell's first circle, Limbo, home to virtuous pagans and unbaptized babies. It is a somber rather than gruesome place. 
+
+In the second circle, the lustful are blown violently back and forth by strong winds, symbolic of their lack of self-control in life. In the third circle, the gluttons must lie in mud, symbolic of their overindulgence. The fourth circle houses the greedy and squanderers, who joust with heavy boulders. The wrathful battle each other in the muddy Styx river in the fifth circle. 
+
+In the lower circles, the sins and punishments grow increasingly vile and inhuman. Heretics are trapped in fiery tombs in the sixth circle. The violent are immersed in Phlegethon's boiling blood river in the seventh. In the eighth, various fraudsters are imprisoned in 10 ditches. 
+
+The traitorous reside in the ninth circle's four zones: Caina for those treacherous to family, Antenora for betrayers of country, Ptolomea for betrayers of guests, and Judecca for betrayers of lords and benefactors. Satan himself is trapped waist-deep in ice here. After climbing down Satan's body, Dante and Virgil emerge to see the stars again.
+
+Dante peoples Hell's varied topography - full of cliffs, rivers, ditches, gorges and chasms - with an imaginative array of specific sinners, many named. The punishments are elaborately, even fiendishly conceived to be contrapasso, symbolically mirroring or resembling the sin. Vivid sensory descriptions make Hell feel palpably real.
+
+Inferno established key Christian conceptions of Hell that persisted for centuries in art and culture. Dante's richly symbolic descriptions, imaginative landscapes, and cast of specific sinners had an immense influence on Western imagery of the afterlife. The work remains a profoundly creative vision of divine justice.
+
 ## Canto 1
 
 The narrator finds himself lost in a dark forest and encounters a leopard, a lion, and a she-wolf that impede his progress. He then meets the spirit of the Roman poet Virgil, who says he has been sent to guide the narrator on a journey through the afterlife. Virgil explains that the she-wolf represents greed and avarice, and that someday a prophesied hero will come who will defeat the she-wolf. Virgil agrees to guide the narrator through Hell and Purgatory, but says he cannot enter Heaven because he was a pagan. The narrator begs Virgil to lead him on this journey so he can see Hell and Purgatory and hopefully make his way to Heaven. Virgil agrees and they set off together.
