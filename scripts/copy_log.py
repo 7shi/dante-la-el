@@ -41,7 +41,9 @@ def chop(s):
 
 thr = 0
 def writeline(f, showThr=False):
-    if step == 1:
+    if step < 1:
+        s = "##"
+    elif step == 1:
         s = f"## {i}"
     else:
         s = f"## {i}-{i+step-1}"
