@@ -19,14 +19,14 @@ https://www.gutenberg.org/ebooks/1012
 
 **原文**
 
-> Nel mezzo del cammin di nostra vita
-> mi ritrovai per una selva oscura,
+> Nel mezzo del cammin di nostra vita  
+> mi ritrovai per una selva oscura,  
 > ché la diritta via era smarrita.
 
 **翻訳**
 
-> 我が人生の半ばにして、
-> われは暗き森の中を迷い、
+> 我が人生の半ばにして、  
+> われは暗き森の中を迷い、  
 > 正しい道を失っていた。
 
 **フレーズ分解**
