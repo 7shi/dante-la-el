@@ -5,16 +5,16 @@ Nel mezzo del cammin di nostra vita
 <tr><td>MIX</td><td align="right">1</td><td>
 Στη μέση του ταξιδιού της ζωής μας
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">1</td><td>
+<tr><td>ChatGPT</td><td align="right">1</td><td>
 Στο μέσο του ταξιδιού της ζωής μας
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">1</td><td>
+<tr><td>ChatGPT-t</td><td align="right">1</td><td>
 Στη μέση του δρόμου της ζωής μας
 </td></tr>
-<tr><td>Bard-1</td><td align="right">1</td><td>
+<tr><td>Bard</td><td align="right">1</td><td>
 Στο μέσο του ταξιδιού της ζωής μας
 </td></tr>
-<tr><td>Bard-2</td><td align="right">1</td><td>
+<tr><td>Bard-t</td><td align="right">1</td><td>
 Στο μέσον του δρόμου της ζωής μας
 </td></tr>
 <tr><td>DeepL</td><td align="right">1</td><td>
@@ -36,16 +36,16 @@ mi ritrovai per una selva oscura,
 <tr><td>MIX</td><td align="right">2</td><td>
 βρέθηκα σε ένα σκοτεινό δάσος,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">2</td><td>
+<tr><td>ChatGPT</td><td align="right">2</td><td>
 βρέθηκα μέσα σε ένα σκοτεινό δάσος,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">2</td><td>
+<tr><td>ChatGPT-t</td><td align="right">2</td><td>
 βρέθηκα σε ένα σκοτεινό δάσος,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">2</td><td>
+<tr><td>Bard</td><td align="right">2</td><td>
 βρέθηκα σε μια σκοτεινή ζούγκλα,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">2</td><td>
+<tr><td>Bard-t</td><td align="right">2</td><td>
 βρέθηκα σε μια σκοτεινή έρημο,
 </td></tr>
 <tr><td>DeepL</td><td align="right">2</td><td>
@@ -67,16 +67,16 @@ ché la diritta via era smarrita.
 <tr><td>MIX</td><td align="right">3</td><td>
 γιατί ο ευθείας δρόμος χάθηκε.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">3</td><td>
+<tr><td>ChatGPT</td><td align="right">3</td><td>
 επειδή η ευθεία διαδρομή ήταν χαμένη.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">3</td><td>
+<tr><td>ChatGPT-t</td><td align="right">3</td><td>
 επειδή ο ευθύς δρόμος είχε χαθεί.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">3</td><td>
+<tr><td>Bard</td><td align="right">3</td><td>
 γιατί η ευθεία διαδρομή ήταν χαμένη.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">3</td><td>
+<tr><td>Bard-t</td><td align="right">3</td><td>
 γιατί η ευθεία οδός ήταν χαμένη.
 </td></tr>
 <tr><td>DeepL</td><td align="right">3</td><td>
@@ -98,16 +98,16 @@ Ahi quanto a dir qual era è cosa dura
 <tr><td>MIX</td><td align="right">4</td><td>
 Αχ, πόσο δύσκολο είναι να πω ποια ήταν
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">4</td><td>
+<tr><td>ChatGPT</td><td align="right">4</td><td>
 Ω, πόσο δύσκολο είναι να πεις τι ήταν
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">4</td><td>
+<tr><td>ChatGPT-t</td><td align="right">4</td><td>
 Αχ, πόσο δύσκολο είναι να πεις ποιο ήταν αυτό το πράγμα,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">4</td><td>
+<tr><td>Bard</td><td align="right">4</td><td>
 Αχ, πόσο σκληρό είναι να πεις ποιο ήταν
 </td></tr>
-<tr><td>Bard-2</td><td align="right">4</td><td>
+<tr><td>Bard-t</td><td align="right">4</td><td>
 Αχ, πόσο δύσκολο είναι να πω ποια ήταν
 </td></tr>
 <tr><td>DeepL</td><td align="right">4</td><td>
@@ -129,16 +129,16 @@ esta selva selvaggia e aspra e forte
 <tr><td>MIX</td><td align="right">5</td><td>
 Αυτό το άγριο και τραχύ και δυνατό δάσος
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">5</td><td>
+<tr><td>ChatGPT</td><td align="right">5</td><td>
 αυτό το άγριο και τραχύ και ισχυρό δάσος
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">5</td><td>
+<tr><td>ChatGPT-t</td><td align="right">5</td><td>
 αυτό το άγριο και σκληρό δάσος
 </td></tr>
-<tr><td>Bard-1</td><td align="right">5</td><td>
+<tr><td>Bard</td><td align="right">5</td><td>
 αυτή η άγρια, τραχιά και δυνατή ζούγκλα
 </td></tr>
-<tr><td>Bard-2</td><td align="right">5</td><td>
+<tr><td>Bard-t</td><td align="right">5</td><td>
 αυτή η άγρια, τραχιά και δυνατή έρημος
 </td></tr>
 <tr><td>DeepL</td><td align="right">5</td><td>
@@ -160,16 +160,16 @@ che nel pensier rinova la paura!
 <tr><td>MIX</td><td align="right">6</td><td>
 που στο νου ανανεώνει τον φόβο!
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">6</td><td>
+<tr><td>ChatGPT</td><td align="right">6</td><td>
 που ανανεώνει τον φόβο στη σκέψη!
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">6</td><td>
+<tr><td>ChatGPT-t</td><td align="right">6</td><td>
 που ανανεώνει τον φόβο στη σκέψη!
 </td></tr>
-<tr><td>Bard-1</td><td align="right">6</td><td>
+<tr><td>Bard</td><td align="right">6</td><td>
 που στη σκέψη μου ανανεώνει τον φόβο!
 </td></tr>
-<tr><td>Bard-2</td><td align="right">6</td><td>
+<tr><td>Bard-t</td><td align="right">6</td><td>
 που στο νου ανανεώνει τον φόβο!
 </td></tr>
 <tr><td>DeepL</td><td align="right">6</td><td>
@@ -191,16 +191,16 @@ Tant’ è amara che poco è più morte;
 <tr><td>MIX</td><td align="right">7</td><td>
 Τόσο πικρή που λίγο είναι περισσότερο θάνατος.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">7</td><td>
+<tr><td>ChatGPT</td><td align="right">7</td><td>
 Τόσο πικρή που λίγο είναι περισσότερο από το θάνατο;
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">7</td><td>
+<tr><td>ChatGPT-t</td><td align="right">7</td><td>
 Είναι τόσο πικρό που λίγο έλλειπε να είναι θάνατος·
 </td></tr>
-<tr><td>Bard-1</td><td align="right">7</td><td>
+<tr><td>Bard</td><td align="right">7</td><td>
 Τόσο πικρή είναι που ο θάνατος είναι λίγο πιο πικρός·
 </td></tr>
-<tr><td>Bard-2</td><td align="right">7</td><td>
+<tr><td>Bard-t</td><td align="right">7</td><td>
 Είναι τόσο πικρή που είναι λίγο περισσότερο από θάνατος·
 </td></tr>
 <tr><td>DeepL</td><td align="right">7</td><td>
@@ -222,16 +222,16 @@ ma per trattar del ben ch’i’ vi trovai,
 <tr><td>MIX</td><td align="right">8</td><td>
 αλλά για να μιλήσω για το καλό που βρήκα εκεί,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">8</td><td>
+<tr><td>ChatGPT</td><td align="right">8</td><td>
 αλλά για να μιλήσω για το καλό που βρήκα εκεί,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">8</td><td>
+<tr><td>ChatGPT-t</td><td align="right">8</td><td>
 αλλά για να μιλήσω για το καλό που βρήκα εδώ,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">8</td><td>
+<tr><td>Bard</td><td align="right">8</td><td>
 αλλά για να μιλήσω για το καλό που βρήκα εκεί,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">8</td><td>
+<tr><td>Bard-t</td><td align="right">8</td><td>
 αλλά για να μιλήσω για το καλό που βρήκα εκεί,
 </td></tr>
 <tr><td>DeepL</td><td align="right">8</td><td>
@@ -253,16 +253,16 @@ dirò de l’altre cose ch’i’ v’ho scorte.
 <tr><td>MIX</td><td align="right">9</td><td>
 θα πω για τα άλλα πράγματα που είδα εκεί.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">9</td><td>
+<tr><td>ChatGPT</td><td align="right">9</td><td>
 θα πω για τα άλλα πράγματα που είδα εκεί.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">9</td><td>
+<tr><td>ChatGPT-t</td><td align="right">9</td><td>
 θα σας πω και για τα άλλα πράγματα που είδα εδώ.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">9</td><td>
+<tr><td>Bard</td><td align="right">9</td><td>
 θα πω για τις άλλες πράγματα που είδα εκεί.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">9</td><td>
+<tr><td>Bard-t</td><td align="right">9</td><td>
 θα πω για τα άλλα πράγματα που είδα εκεί.
 </td></tr>
 <tr><td>DeepL</td><td align="right">9</td><td>
@@ -284,16 +284,16 @@ Io non so ben ridir com’ i’ v’intrai,
 <tr><td>MIX</td><td align="right">10</td><td>
 Δεν ξέρω να πω καλά πώς μπήκα εκεί,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">10</td><td>
+<tr><td>ChatGPT</td><td align="right">10</td><td>
 Εγώ δεν ξέρω καλά πώς μπήκα εκεί,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">10</td><td>
+<tr><td>ChatGPT-t</td><td align="right">10</td><td>
 Δεν ξέρω πώς να περιγράψω πώς μπήκα εδώ,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">10</td><td>
+<tr><td>Bard</td><td align="right">10</td><td>
 Δεν μπορώ να πω καλά πώς μπήκα εκεί,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">10</td><td>
+<tr><td>Bard-t</td><td align="right">10</td><td>
 Δεν ξέρω να πω καλά πώς μπήκα εκεί,
 </td></tr>
 <tr><td>DeepL</td><td align="right">10</td><td>
@@ -315,16 +315,16 @@ tant’ era pien di sonno a quel punto
 <tr><td>MIX</td><td align="right">11</td><td>
 Ήταν τόσο γεμάτος ύπνο σε εκείνο το σημείο
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">11</td><td>
+<tr><td>ChatGPT</td><td align="right">11</td><td>
 τόσο γεμάτος ύπνο σε εκείνο το σημείο
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">11</td><td>
+<tr><td>ChatGPT-t</td><td align="right">11</td><td>
 ήμουν τόσο κουρασμένος εκείνη τη στιγμή
 </td></tr>
-<tr><td>Bard-1</td><td align="right">11</td><td>
+<tr><td>Bard</td><td align="right">11</td><td>
 τόσο γεμάτος ύπνο ήμουν εκείνη τη στιγμή
 </td></tr>
-<tr><td>Bard-2</td><td align="right">11</td><td>
+<tr><td>Bard-t</td><td align="right">11</td><td>
 τόσο πολύ ήμουν γεμάτος από ύπνο εκείνη τη στιγμή
 </td></tr>
 <tr><td>DeepL</td><td align="right">11</td><td>
@@ -346,16 +346,16 @@ che la verace via abbandonai.
 <tr><td>MIX</td><td align="right">12</td><td>
 που εγκατέλειψα τον αληθινό δρόμο.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">12</td><td>
+<tr><td>ChatGPT</td><td align="right">12</td><td>
 που εγκατέλειψα τον αληθινό δρόμο.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">12</td><td>
+<tr><td>ChatGPT-t</td><td align="right">12</td><td>
 που εγκατέλειψα τον πραγματικό δρόμο.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">12</td><td>
+<tr><td>Bard</td><td align="right">12</td><td>
 που εγκατέλειψα την αληθινή διαδρομή.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">12</td><td>
+<tr><td>Bard-t</td><td align="right">12</td><td>
 που εγκατέλειψα την αληθινή οδό.
 </td></tr>
 <tr><td>DeepL</td><td align="right">12</td><td>
@@ -377,16 +377,16 @@ Ma poi ch’i’ fui al piè d’un colle giunto,
 <tr><td>MIX</td><td align="right">13</td><td>
 Αλλά όταν έφτασα στους πρόποδες ενός λόφου
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">13</td><td>
+<tr><td>ChatGPT</td><td align="right">13</td><td>
 Αλλά μετά που έφτασα στο πόδι ενός λόφου,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">13</td><td>
+<tr><td>ChatGPT-t</td><td align="right">13</td><td>
 Αλλά όταν έφτασα στην πλάγια επιφάνεια ενός λόφου,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">13</td><td>
+<tr><td>Bard</td><td align="right">13</td><td>
 Αλλά όταν έφτασα στη βάση ενός λόφου,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">13</td><td>
+<tr><td>Bard-t</td><td align="right">13</td><td>
 Αλλά αφού έφτασα στο πόδι ενός λόφου,
 </td></tr>
 <tr><td>DeepL</td><td align="right">13</td><td>
@@ -408,16 +408,16 @@ là dove terminava quella valle
 <tr><td>MIX</td><td align="right">14</td><td>
 εκεί όπου τελείωνε αυτή η κοιλάδα
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">14</td><td>
+<tr><td>ChatGPT</td><td align="right">14</td><td>
 εκεί όπου τελείωνε εκείνη η κοιλάδα
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">14</td><td>
+<tr><td>ChatGPT-t</td><td align="right">14</td><td>
 εκεί όπου τελείωνε αυτή η κοιλάδα
 </td></tr>
-<tr><td>Bard-1</td><td align="right">14</td><td>
+<tr><td>Bard</td><td align="right">14</td><td>
 εκεί όπου τελείωσε αυτή η κοιλάδα
 </td></tr>
-<tr><td>Bard-2</td><td align="right">14</td><td>
+<tr><td>Bard-t</td><td align="right">14</td><td>
 εκεί όπου τελείωνε αυτή η κοιλάδα
 </td></tr>
 <tr><td>DeepL</td><td align="right">14</td><td>
@@ -439,16 +439,16 @@ che m’avea di paura il cor compunto,
 <tr><td>MIX</td><td align="right">15</td><td>
 που είχε διαπεράσει την καρδιά μου με φόβο,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">15</td><td>
+<tr><td>ChatGPT</td><td align="right">15</td><td>
 που είχε διαπεράσει την καρδιά μου με φόβο,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">15</td><td>
+<tr><td>ChatGPT-t</td><td align="right">15</td><td>
 που είχε καρφώσει την καρδιά μου με φόβο,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">15</td><td>
+<tr><td>Bard</td><td align="right">15</td><td>
 που είχε διαπέρασε την καρδιά μου με φόβο,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">15</td><td>
+<tr><td>Bard-t</td><td align="right">15</td><td>
 που μου είχε πλημμυρίσει την καρδιά με φόβο,
 </td></tr>
 <tr><td>DeepL</td><td align="right">15</td><td>
@@ -470,16 +470,16 @@ guardai in alto e vidi le sue spalle
 <tr><td>MIX</td><td align="right">16</td><td>
 Κοίταξα ψηλά και είδα τους ώμους του,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">16</td><td>
+<tr><td>ChatGPT</td><td align="right">16</td><td>
 κοίταξα ψηλά και είδα τους ώμους του/της/του
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">16</td><td>
+<tr><td>ChatGPT-t</td><td align="right">16</td><td>
 Κοίταξα ψηλά και είδα τους ώμους του,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">16</td><td>
+<tr><td>Bard</td><td align="right">16</td><td>
 κοίταξα πάνω και είδα τους ώμους του
 </td></tr>
-<tr><td>Bard-2</td><td align="right">16</td><td>
+<tr><td>Bard-t</td><td align="right">16</td><td>
 Κοίταξα ψηλά και είδα τους ώμους του
 </td></tr>
 <tr><td>DeepL</td><td align="right">16</td><td>
@@ -501,16 +501,16 @@ vestite già de’ raggi del pianeta
 <tr><td>MIX</td><td align="right">17</td><td>
 ήδη ντυμένους με τις ακτίνες του πλανήτη
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">17</td><td>
+<tr><td>ChatGPT</td><td align="right">17</td><td>
 ήδη ντυμένους με τις ακτίνες του πλανήτη
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">17</td><td>
+<tr><td>ChatGPT-t</td><td align="right">17</td><td>
 ήδη ντυμένους με τη λάμψη του πλανήτη
 </td></tr>
-<tr><td>Bard-1</td><td align="right">17</td><td>
+<tr><td>Bard</td><td align="right">17</td><td>
 ντυμένους ήδη στις ακτίνες του πλανήτη
 </td></tr>
-<tr><td>Bard-2</td><td align="right">17</td><td>
+<tr><td>Bard-t</td><td align="right">17</td><td>
 ήδη ντυμένους με τους ακτινοβολίες του πλανήτη
 </td></tr>
 <tr><td>DeepL</td><td align="right">17</td><td>
@@ -532,16 +532,16 @@ che mena dritto altrui per ogne calle.
 <tr><td>MIX</td><td align="right">18</td><td>
 που οδηγεί τους άλλους κατευθείαν σε κάθε δρόμο.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">18</td><td>
+<tr><td>ChatGPT</td><td align="right">18</td><td>
 που οδηγεί ευθεία σε άλλους μέσα από κάθε δρόμο.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">18</td><td>
+<tr><td>ChatGPT-t</td><td align="right">18</td><td>
 που καθοδηγεί κανέναν ευθεία σε κάθε δρόμο.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">18</td><td>
+<tr><td>Bard</td><td align="right">18</td><td>
 που οδηγεί τους άλλους ευθεία για κάθε δρόμο.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">18</td><td>
+<tr><td>Bard-t</td><td align="right">18</td><td>
 που οδηγεί τους άλλους σωστά σε κάθε δρόμο.
 </td></tr>
 <tr><td>DeepL</td><td align="right">18</td><td>
@@ -563,16 +563,16 @@ Allor fu la paura un poco queta,
 <tr><td>MIX</td><td align="right">19</td><td>
 Τότε ο φόβος ηρέμησε λίγο,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">19</td><td>
+<tr><td>ChatGPT</td><td align="right">19</td><td>
 Τότε ο φόβος ήταν λίγο ήρεμος,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">19</td><td>
+<tr><td>ChatGPT-t</td><td align="right">19</td><td>
 Τότε ο φόβος ηρέμησε λίγο,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">19</td><td>
+<tr><td>Bard</td><td align="right">19</td><td>
 Τότε ο φόβος ηρέμησε λίγο,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">19</td><td>
+<tr><td>Bard-t</td><td align="right">19</td><td>
 Τότε η φόβο λίγο ηρέμησε,
 </td></tr>
 <tr><td>DeepL</td><td align="right">19</td><td>
@@ -594,16 +594,16 @@ che nel lago del cor m’era durata
 <tr><td>MIX</td><td align="right">20</td><td>
 στη λίμνη της καρδιάς μου
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">20</td><td>
+<tr><td>ChatGPT</td><td align="right">20</td><td>
 που στη λίμνη της καρδιάς μου είχε διαρκέσει
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">20</td><td>
+<tr><td>ChatGPT-t</td><td align="right">20</td><td>
 που είχε διαρκέσει στη λίμνη της καρδιάς μου
 </td></tr>
-<tr><td>Bard-1</td><td align="right">20</td><td>
+<tr><td>Bard</td><td align="right">20</td><td>
 που είχε κρατήσει στη λίμνη της καρδιάς μου
 </td></tr>
-<tr><td>Bard-2</td><td align="right">20</td><td>
+<tr><td>Bard-t</td><td align="right">20</td><td>
 που στο υγρό του καρδιάς μου είχε διαρκέσει
 </td></tr>
 <tr><td>DeepL</td><td align="right">20</td><td>
@@ -625,16 +625,16 @@ la notte ch’i’ passai con tanta pieta.
 <tr><td>MIX</td><td align="right">21</td><td>
 τη νύχτα που πέρασα με τόσο έλεος.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">21</td><td>
+<tr><td>ChatGPT</td><td align="right">21</td><td>
 τη νύχτα που πέρασα με τόσο έλεος.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">21</td><td>
+<tr><td>ChatGPT-t</td><td align="right">21</td><td>
 τη νύχτα που πέρασα με τόση έλεος.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">21</td><td>
+<tr><td>Bard</td><td align="right">21</td><td>
 τη νύχτα που πέρασα με τόση λύπη.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">21</td><td>
+<tr><td>Bard-t</td><td align="right">21</td><td>
 η νύχτα που πέρασα με τόση λύπη.
 </td></tr>
 <tr><td>DeepL</td><td align="right">21</td><td>
@@ -656,16 +656,16 @@ E come quei che con lena affannata,
 <tr><td>MIX</td><td align="right">22</td><td>
 Και όπως αυτός που με κουρασμένη ανάσα
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">22</td><td>
+<tr><td>ChatGPT</td><td align="right">22</td><td>
 Και όπως εκείνοι που, με ανασασμένος προσπαθώντας να αναπνεύσει,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">22</td><td>
+<tr><td>ChatGPT-t</td><td align="right">22</td><td>
 Και όπως αυτός που, με δυσκολία στην αναπνοή,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">22</td><td>
+<tr><td>Bard</td><td align="right">22</td><td>
 Και όπως αυτός που, με κουρασμένη αναπνοή,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">22</td><td>
+<tr><td>Bard-t</td><td align="right">22</td><td>
 Και όπως αυτός που με ταλαιπωρημένη αναπνοή,
 </td></tr>
 <tr><td>DeepL</td><td align="right">22</td><td>
@@ -687,16 +687,16 @@ uscito fuor del pelago a la riva,
 <tr><td>MIX</td><td align="right">23</td><td>
 βγαίνει έξω από τη θάλασσα στην ακτή,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">23</td><td>
+<tr><td>ChatGPT</td><td align="right">23</td><td>
 βγαίνουν έξω από τη θάλασσα στην ακτή,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">23</td><td>
+<tr><td>ChatGPT-t</td><td align="right">23</td><td>
 βγαίνει έξω από τη θάλασσα στην ακτή,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">23</td><td>
+<tr><td>Bard</td><td align="right">23</td><td>
 βγήκε από τη θάλασσα στην όχθη,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">23</td><td>
+<tr><td>Bard-t</td><td align="right">23</td><td>
 βγήκε από τον ωκεανό στην ακτή,
 </td></tr>
 <tr><td>DeepL</td><td align="right">23</td><td>
@@ -718,16 +718,16 @@ si volge a l’acqua perigliosa e guata,
 <tr><td>MIX</td><td align="right">24</td><td>
 στρέφεται προς το επικίνδυνο νερό και κοιτάζει,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">24</td><td>
+<tr><td>ChatGPT</td><td align="right">24</td><td>
 γυρίζει προς το επικίνδυνο νερό και κοιτάει,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">24</td><td>
+<tr><td>ChatGPT-t</td><td align="right">24</td><td>
 γυρίζει προς το επικίνδυνο νερό και το παρακολουθεί,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">24</td><td>
+<tr><td>Bard</td><td align="right">24</td><td>
 στρέφεται στο επικίνδυνο νερό και το κοιτάζει,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">24</td><td>
+<tr><td>Bard-t</td><td align="right">24</td><td>
 γυρνά στο επικίνδυνο νερό και κοιτάζει,
 </td></tr>
 <tr><td>DeepL</td><td align="right">24</td><td>
@@ -749,16 +749,16 @@ così l’animo mio, ch’ancor fuggiva,
 <tr><td>MIX</td><td align="right">25</td><td>
 έτσι η ψυχή μου, που ακόμα έφευγε,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">25</td><td>
+<tr><td>ChatGPT</td><td align="right">25</td><td>
 έτσι η ψυχή μου, που ακόμα έφευγε,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">25</td><td>
+<tr><td>ChatGPT-t</td><td align="right">25</td><td>
 έτσι και η ψυχή μου, που ακόμα έφευγε,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">25</td><td>
+<tr><td>Bard</td><td align="right">25</td><td>
 έτσι η ψυχή μου, που ακόμα έτρεχε,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">25</td><td>
+<tr><td>Bard-t</td><td align="right">25</td><td>
 Έτσι, η ψυχή μου, που ακόμα έτρεπε,
 </td></tr>
 <tr><td>DeepL</td><td align="right">25</td><td>
@@ -780,16 +780,16 @@ si volse a retro a rimirar lo passo
 <tr><td>MIX</td><td align="right">26</td><td>
 γύρισε πίσω για να κοιτάξει το βήμα
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">26</td><td>
+<tr><td>ChatGPT</td><td align="right">26</td><td>
 στράφηκε προς τα πίσω για να κοιτάξει το βήμα
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">26</td><td>
+<tr><td>ChatGPT-t</td><td align="right">26</td><td>
 γύρισε πίσω για να κοιτάξει το βήμα
 </td></tr>
-<tr><td>Bard-1</td><td align="right">26</td><td>
+<tr><td>Bard</td><td align="right">26</td><td>
 γύρισε πίσω για να κοιτάξει το βήμα
 </td></tr>
-<tr><td>Bard-2</td><td align="right">26</td><td>
+<tr><td>Bard-t</td><td align="right">26</td><td>
 γύρισε πίσω να κοιτάξει το πέρασμα
 </td></tr>
 <tr><td>DeepL</td><td align="right">26</td><td>
@@ -811,16 +811,16 @@ che non lasciò già mai persona viva.
 <tr><td>MIX</td><td align="right">27</td><td>
 που δεν άφησε ποτέ κανέναν ζωντανό.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">27</td><td>
+<tr><td>ChatGPT</td><td align="right">27</td><td>
 που δεν είχε ήδη αφήσει ποτέ κανέναν ζωντανό.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">27</td><td>
+<tr><td>ChatGPT-t</td><td align="right">27</td><td>
 που δεν άφησε ποτέ κανέναν ζωντανό.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">27</td><td>
+<tr><td>Bard</td><td align="right">27</td><td>
 που δεν άφησε ποτέ κανέναν ζωντανό.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">27</td><td>
+<tr><td>Bard-t</td><td align="right">27</td><td>
 που δεν άφησε ποτέ ζωντανό άνθρωπο.
 </td></tr>
 <tr><td>DeepL</td><td align="right">27</td><td>
@@ -842,16 +842,16 @@ Poi ch’èi posato un poco il corpo lasso,
 <tr><td>MIX</td><td align="right">28</td><td>
 Αφού ξεκούρασα λίγο το κούρασμένο σώμα μου,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">28</td><td>
+<tr><td>ChatGPT</td><td align="right">28</td><td>
 Μετά που είχα ξεκουραστεί λίγο το κουρασμένο σώμα μου,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">28</td><td>
+<tr><td>ChatGPT-t</td><td align="right">28</td><td>
 Αφού ξεκούρασα λίγο το κούρασμένο σώμα μου,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">28</td><td>
+<tr><td>Bard</td><td align="right">28</td><td>
 Τότε, αφού ξεκουράστηκα λίγο το κουρασμένο μου σώμα,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">28</td><td>
+<tr><td>Bard-t</td><td align="right">28</td><td>
 Αφού ξεκουράστηκα λίγο το κουρασμένο σώμα μου,
 </td></tr>
 <tr><td>DeepL</td><td align="right">28</td><td>
@@ -873,16 +873,16 @@ ripresi via per la piaggia diserta,
 <tr><td>MIX</td><td align="right">29</td><td>
 ξανάρχισα το δρόμο μου κατά μήκος της ερημικής ακτής,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">29</td><td>
+<tr><td>ChatGPT</td><td align="right">29</td><td>
 συνέχισα τον δρόμο μου κατά μήκος της ερημικής ακτής,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">29</td><td>
+<tr><td>ChatGPT-t</td><td align="right">29</td><td>
 ξανάρχισα το δρόμο κατά την έρημη ακτή,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">29</td><td>
+<tr><td>Bard</td><td align="right">29</td><td>
 ξανάρχισα το δρόμο μου κατά μήκος της ερημικής ακτής,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">29</td><td>
+<tr><td>Bard-t</td><td align="right">29</td><td>
 ξανάρχισα το δρόμο μου για την έρημη όχθη,
 </td></tr>
 <tr><td>DeepL</td><td align="right">29</td><td>
@@ -904,16 +904,16 @@ sì che ’l piè fermo sempre era ’l più basso.
 <tr><td>MIX</td><td align="right">30</td><td>
 έτσι ώστε το σταθερό πόδι να ήταν πάντα το χαμηλότερο.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">30</td><td>
+<tr><td>ChatGPT</td><td align="right">30</td><td>
 έτσι ώστε το σταθερό πόδι να ήταν πάντα το χαμηλότερο.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">30</td><td>
+<tr><td>ChatGPT-t</td><td align="right">30</td><td>
 ώστε το πόδι μου να είναι πάντα το πιο χαμηλό.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">30</td><td>
+<tr><td>Bard</td><td align="right">30</td><td>
 έτσι που το πόδι που ήταν σταθερό ήταν πάντα το χαμηλότερο.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">30</td><td>
+<tr><td>Bard-t</td><td align="right">30</td><td>
 έτσι ώστε το πόδι που ήταν σταθερό να ήταν πάντα το χαμηλότερο.
 </td></tr>
 <tr><td>DeepL</td><td align="right">30</td><td>
@@ -935,16 +935,16 @@ Ed ecco, quasi al cominciar de l’erta,
 <tr><td>MIX</td><td align="right">31</td><td>
 Και ιδού, σχεδόν στην αρχή της πλαγιάς...
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">31</td><td>
+<tr><td>ChatGPT</td><td align="right">31</td><td>
 Και ιδού, σχεδόν στην αρχή του λόφου,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">31</td><td>
+<tr><td>ChatGPT-t</td><td align="right">31</td><td>
 Και ιδού, σχεδόν στην αρχή του ανηφορικού,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">31</td><td>
+<tr><td>Bard</td><td align="right">31</td><td>
 Και ιδού, σχεδόν στην αρχή της απότομης ανάβασης,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">31</td><td>
+<tr><td>Bard-t</td><td align="right">31</td><td>
 Και να, σχεδόν στην αρχή της πλαγιάς,
 </td></tr>
 <tr><td>DeepL</td><td align="right">31</td><td>
@@ -966,16 +966,16 @@ una lonza leggera e presta molto,
 <tr><td>MIX</td><td align="right">32</td><td>
 μια ελαφριά και πολύ γρήγορη λεοπάρδαλη,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">32</td><td>
+<tr><td>ChatGPT</td><td align="right">32</td><td>
 ένας ελαφρύς και πολύ γρήγορος λύγκας,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">32</td><td>
+<tr><td>ChatGPT-t</td><td align="right">32</td><td>
 ένα γρήγορο και πολύ επιδέξιο λυγκίσιο,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">32</td><td>
+<tr><td>Bard</td><td align="right">32</td><td>
 μια ελαφριά και πολύ γρήγορη λεοπάρδαλη,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">32</td><td>
+<tr><td>Bard-t</td><td align="right">32</td><td>
 μια λεοπάρδαλη ελαφριά και πολύ γρήγορη,
 </td></tr>
 <tr><td>DeepL</td><td align="right">32</td><td>
@@ -997,16 +997,16 @@ che di pel macolato era coverta;
 <tr><td>MIX</td><td align="right">33</td><td>
 που ήταν καλυμμένο με ωχρά μαλλιά.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">33</td><td>
+<tr><td>ChatGPT</td><td align="right">33</td><td>
 που ήταν καλυμμένος με κηλίδες.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">33</td><td>
+<tr><td>ChatGPT-t</td><td align="right">33</td><td>
 που ήταν καλυμμένο με λεκέδες τρίχας.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">33</td><td>
+<tr><td>Bard</td><td align="right">33</td><td>
 που ήταν καλυμμένη με στίγματα τρίχωμα·
 </td></tr>
-<tr><td>Bard-2</td><td align="right">33</td><td>
+<tr><td>Bard-t</td><td align="right">33</td><td>
 που ήταν καλυμμένη με λεκέδες τρίχας;
 </td></tr>
 <tr><td>DeepL</td><td align="right">33</td><td>
@@ -1028,16 +1028,16 @@ e non mi si partia dinanzi al volto,
 <tr><td>MIX</td><td align="right">34</td><td>
 και δεν αναχωρούσε μπροστά από το πρόσωπό μου,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">34</td><td>
+<tr><td>ChatGPT</td><td align="right">34</td><td>
 και δεν αναχωρούσε μπροστά από το πρόσωπό μου,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">34</td><td>
+<tr><td>ChatGPT-t</td><td align="right">34</td><td>
 Και δεν άφηνε μπροστά στο πρόσωπό μου,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">34</td><td>
+<tr><td>Bard</td><td align="right">34</td><td>
 και δεν απομακρύνθηκε από μπροστά από το πρόσωπό μου,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">34</td><td>
+<tr><td>Bard-t</td><td align="right">34</td><td>
 και δεν μου έφευγε από μπροστά από το πρόσωπο,
 </td></tr>
 <tr><td>DeepL</td><td align="right">34</td><td>
@@ -1059,16 +1059,16 @@ anzi ’mpediva tanto il mio cammino,
 <tr><td>MIX</td><td align="right">35</td><td>
 αλλά εμπόδιζε τόσο το δρόμο μου,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">35</td><td>
+<tr><td>ChatGPT</td><td align="right">35</td><td>
 αντίθετα, εμπόδιζε τον δρόμο μου τόσο πολύ,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">35</td><td>
+<tr><td>ChatGPT-t</td><td align="right">35</td><td>
 αλλά εμπόδιζε τόσο το δρόμο μου,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">35</td><td>
+<tr><td>Bard</td><td align="right">35</td><td>
 μάλλον, εμπόδιζε τόσο το ταξίδι μου,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">35</td><td>
+<tr><td>Bard-t</td><td align="right">35</td><td>
 αλλά εμπόδιζε τόσο το δρόμο μου,
 </td></tr>
 <tr><td>DeepL</td><td align="right">35</td><td>
@@ -1090,16 +1090,16 @@ ch’i’ fui per ritornar più volte vòlto.
 <tr><td>MIX</td><td align="right">36</td><td>
 που ήμουν έτοιμος να γυρίσω πολλές φορές.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">36</td><td>
+<tr><td>ChatGPT</td><td align="right">36</td><td>
 που ήμουν έτοιμος να γυρίσω πολλές φορές.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">36</td><td>
+<tr><td>ChatGPT-t</td><td align="right">36</td><td>
 ώστε γύριζα πίσω πολλές φορές.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">36</td><td>
+<tr><td>Bard</td><td align="right">36</td><td>
 που ήμουν έτοιμος να γυρίσω πίσω πολλές φορές.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">36</td><td>
+<tr><td>Bard-t</td><td align="right">36</td><td>
 που ήμουν έτοιμος να γυρίσω πίσω περισσότερες φορές.
 </td></tr>
 <tr><td>DeepL</td><td align="right">36</td><td>
@@ -1121,16 +1121,16 @@ Temp’ era dal principio del mattino,
 <tr><td>MIX</td><td align="right">37</td><td>
 Ήταν από την αρχή του πρωινού,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">37</td><td>
+<tr><td>ChatGPT</td><td align="right">37</td><td>
 Ο χρόνος ήταν από την αρχή του πρωινού,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">37</td><td>
+<tr><td>ChatGPT-t</td><td align="right">37</td><td>
 Ήταν η ώρα από την αρχή του πρωινού,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">37</td><td>
+<tr><td>Bard</td><td align="right">37</td><td>
 Ήταν η αρχή του πρωινού,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">37</td><td>
+<tr><td>Bard-t</td><td align="right">37</td><td>
 Ήταν ώρα από την αρχή του πρωινού,
 </td></tr>
 <tr><td>DeepL</td><td align="right">37</td><td>
@@ -1152,16 +1152,16 @@ e ’l sol montava ’n sù con quelle stelle
 <tr><td>MIX</td><td align="right">38</td><td>
 και ο ήλιος ανέβαινε με εκείνα τα αστέρια
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">38</td><td>
+<tr><td>ChatGPT</td><td align="right">38</td><td>
 και ο ήλιος ανέβαινε ψηλά με αυτά τα αστέρια
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">38</td><td>
+<tr><td>ChatGPT-t</td><td align="right">38</td><td>
 και ο ήλιος ανατείλαινε με εκείνα τα αστέρια
 </td></tr>
-<tr><td>Bard-1</td><td align="right">38</td><td>
+<tr><td>Bard</td><td align="right">38</td><td>
 και ο ήλιος ανέβαινε με εκείνα τα αστέρια
 </td></tr>
-<tr><td>Bard-2</td><td align="right">38</td><td>
+<tr><td>Bard-t</td><td align="right">38</td><td>
 και ο ήλιος ανέβαινε ψηλά με εκείνα τα αστέρια
 </td></tr>
 <tr><td>DeepL</td><td align="right">38</td><td>
@@ -1183,16 +1183,16 @@ ch’eran con lui quando l’amor divino
 <tr><td>MIX</td><td align="right">39</td><td>
 που ήταν μαζί του όταν η θεϊκή αγάπη
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">39</td><td>
+<tr><td>ChatGPT</td><td align="right">39</td><td>
 που ήταν μαζί του όταν η θεία αγάπη
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">39</td><td>
+<tr><td>ChatGPT-t</td><td align="right">39</td><td>
 που ήταν μαζί του όταν η θεία αγάπη
 </td></tr>
-<tr><td>Bard-1</td><td align="right">39</td><td>
+<tr><td>Bard</td><td align="right">39</td><td>
 που ήταν μαζί του όταν η θεϊκή αγάπη
 </td></tr>
-<tr><td>Bard-2</td><td align="right">39</td><td>
+<tr><td>Bard-t</td><td align="right">39</td><td>
 που ήταν μαζί του όταν ο θεϊκός έρωτας
 </td></tr>
 <tr><td>DeepL</td><td align="right">39</td><td>
@@ -1214,16 +1214,16 @@ mosse di prima quelle cose belle;
 <tr><td>MIX</td><td align="right">40</td><td>
 κίνησε πρώτα αυτά τα όμορφα πράγματα·
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">40</td><td>
+<tr><td>ChatGPT</td><td align="right">40</td><td>
 κίνησε πρώτα αυτά τα όμορφα πράγματα·
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">40</td><td>
+<tr><td>ChatGPT-t</td><td align="right">40</td><td>
 κίνησε για πρώτη φορά αυτά τα όμορφα πράγματα.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">40</td><td>
+<tr><td>Bard</td><td align="right">40</td><td>
 κίνησε πρώτα εκείνα τα όμορφα πράγματα·
 </td></tr>
-<tr><td>Bard-2</td><td align="right">40</td><td>
+<tr><td>Bard-t</td><td align="right">40</td><td>
 κίνησε πρώτα εκείνα τα όμορφα πράγματα·
 </td></tr>
 <tr><td>DeepL</td><td align="right">40</td><td>
@@ -1245,16 +1245,16 @@ sì ch’a bene sperar m’era cagione
 <tr><td>MIX</td><td align="right">41</td><td>
 έτσι ώστε να είχα καλό λόγο να ελπίζω
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">41</td><td>
+<tr><td>ChatGPT</td><td align="right">41</td><td>
 έτσι ώστε να είχα καλό λόγο να ελπίζω
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">41</td><td>
+<tr><td>ChatGPT-t</td><td align="right">41</td><td>
 Έτσι, είχα λόγο να ελπίζω ότι
 </td></tr>
-<tr><td>Bard-1</td><td align="right">41</td><td>
+<tr><td>Bard</td><td align="right">41</td><td>
 έτσι που ήταν ένας λόγος για μένα να ελπίζω καλά
 </td></tr>
-<tr><td>Bard-2</td><td align="right">41</td><td>
+<tr><td>Bard-t</td><td align="right">41</td><td>
 έτσι ώστε η ώρα του χρόνου και η γλυκιά εποχή
 </td></tr>
 <tr><td>DeepL</td><td align="right">41</td><td>
@@ -1276,16 +1276,16 @@ di quella fiera a la gaetta pelle
 <tr><td>MIX</td><td align="right">42</td><td>
 από εκείνο το θηρίο με το χαρούμενο τρίχωμα
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">42</td><td>
+<tr><td>ChatGPT</td><td align="right">42</td><td>
 για εκείνο το θηρίο με τη χαρούμενη επιδερμίδα.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">42</td><td>
+<tr><td>ChatGPT-t</td><td align="right">42</td><td>
 το δέρμα του αυτού του θηρίου ήταν περίκλειστο
 </td></tr>
-<tr><td>Bard-1</td><td align="right">42</td><td>
+<tr><td>Bard</td><td align="right">42</td><td>
 από εκείνο το θηρίο με το χαρούμενο τρίχωμα
 </td></tr>
-<tr><td>Bard-2</td><td align="right">42</td><td>
+<tr><td>Bard-t</td><td align="right">42</td><td>
 της εκείνης της άγριας με το χαρούμενο τρίχωμα
 </td></tr>
 <tr><td>DeepL</td><td align="right">42</td><td>
@@ -1307,16 +1307,16 @@ l’ora del tempo e la dolce stagione;
 <tr><td>MIX</td><td align="right">43</td><td>
 την ώρα του χρόνου και την γλυκιά εποχή·
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">43</td><td>
+<tr><td>ChatGPT</td><td align="right">43</td><td>
 η ώρα του χρόνου και η γλυκιά εποχή·
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">43</td><td>
+<tr><td>ChatGPT-t</td><td align="right">43</td><td>
 από την ώρα του χρόνου και τη γλυκειά εποχή,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">43</td><td>
+<tr><td>Bard</td><td align="right">43</td><td>
 την ώρα του χρόνου και την γλυκιά εποχή·
 </td></tr>
-<tr><td>Bard-2</td><td align="right">43</td><td>
+<tr><td>Bard-t</td><td align="right">43</td><td>
 ήταν αιτία να ελπίζω για καλό,
 </td></tr>
 <tr><td>DeepL</td><td align="right">43</td><td>
@@ -1338,16 +1338,16 @@ ma non sì che paura non mi desse
 <tr><td>MIX</td><td align="right">44</td><td>
 αλλά όχι τόσο που να μην μου έδινε φόβο
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">44</td><td>
+<tr><td>ChatGPT</td><td align="right">44</td><td>
 αλλά όχι τόσο ώστε ο φόβος να μη μου έδινε
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">44</td><td>
+<tr><td>ChatGPT-t</td><td align="right">44</td><td>
 αλλά όχι τόσο ώστε να μην μου προκαλέσει φόβο
 </td></tr>
-<tr><td>Bard-1</td><td align="right">44</td><td>
+<tr><td>Bard</td><td align="right">44</td><td>
 αλλά όχι τόσο που δεν μου έδωσε φόβο
 </td></tr>
-<tr><td>Bard-2</td><td align="right">44</td><td>
+<tr><td>Bard-t</td><td align="right">44</td><td>
 αλλά όχι τόσο που να μην μου έδινε φόβο
 </td></tr>
 <tr><td>DeepL</td><td align="right">44</td><td>
@@ -1369,16 +1369,16 @@ la vista che m’apparve d’un leone.
 <tr><td>MIX</td><td align="right">45</td><td>
 Το θέαμα που μου φάνηκε λιοντάρι.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">45</td><td>
+<tr><td>ChatGPT</td><td align="right">45</td><td>
 τη θέα που μου εμφανίστηκε ενός λέοντος.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">45</td><td>
+<tr><td>ChatGPT-t</td><td align="right">45</td><td>
 η όραση που εμφανίστηκε ενώπιόν μου, ενός λιονταριού.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">45</td><td>
+<tr><td>Bard</td><td align="right">45</td><td>
 η θέα ενός λιονταριού που μου φάνηκε.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">45</td><td>
+<tr><td>Bard-t</td><td align="right">45</td><td>
 η όψη που μου εμφανίστηκε ενός λιονταριού.
 </td></tr>
 <tr><td>DeepL</td><td align="right">45</td><td>
@@ -1400,16 +1400,16 @@ Questi parea che contra me venisse
 <tr><td>MIX</td><td align="right">46</td><td>
 Αυτό φαινόταν να έρχεται εναντίον μου
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">46</td><td>
+<tr><td>ChatGPT</td><td align="right">46</td><td>
 Αυτός φαινόταν να έρχεται εναντίον μου
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">46</td><td>
+<tr><td>ChatGPT-t</td><td align="right">46</td><td>
 Αυτός φαινόταν να έρχεται εναντίον μου
 </td></tr>
-<tr><td>Bard-1</td><td align="right">46</td><td>
+<tr><td>Bard</td><td align="right">46</td><td>
 Αυτό φαινόταν να έρχεται εναντίον μου
 </td></tr>
-<tr><td>Bard-2</td><td align="right">46</td><td>
+<tr><td>Bard-t</td><td align="right">46</td><td>
 Αυτός φαινόταν να έρχεται εναντίον μου
 </td></tr>
 <tr><td>DeepL</td><td align="right">46</td><td>
@@ -1431,16 +1431,16 @@ con la test’ alta e con rabbiosa fame,
 <tr><td>MIX</td><td align="right">47</td><td>
 με ψηλό κεφάλι και με θυμωμένη πείνα,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">47</td><td>
+<tr><td>ChatGPT</td><td align="right">47</td><td>
 με το κεφάλι ψηλά και με θυμωμένη πείνα,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">47</td><td>
+<tr><td>ChatGPT-t</td><td align="right">47</td><td>
 με υψηλό κεφάλι και με οργισμένη πείνα,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">47</td><td>
+<tr><td>Bard</td><td align="right">47</td><td>
 με υψηλό κεφάλι και με λυσσαλέα πείνα,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">47</td><td>
+<tr><td>Bard-t</td><td align="right">47</td><td>
 με το κεφάλι ψηλά και με άγρια πείνα,
 </td></tr>
 <tr><td>DeepL</td><td align="right">47</td><td>
@@ -1462,16 +1462,16 @@ sì che parea che l’aere ne tremesse.
 <tr><td>MIX</td><td align="right">48</td><td>
 έτσι ώστε φαινόταν σαν να έτρεμε ο αέρας.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">48</td><td>
+<tr><td>ChatGPT</td><td align="right">48</td><td>
 έτσι ώστε φαινόταν ότι ο αέρας τρόμαζε.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">48</td><td>
+<tr><td>ChatGPT-t</td><td align="right">48</td><td>
 έτσι ώστε φαινόταν ότι τον αέρα τον ταρακούνησε.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">48</td><td>
+<tr><td>Bard</td><td align="right">48</td><td>
 έτσι ώστε φαινόταν ότι ο αέρας έτρεμε από αυτό.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">48</td><td>
+<tr><td>Bard-t</td><td align="right">48</td><td>
 έτσι ώστε φαινόταν ότι ο αέρας έτρεμε.
 </td></tr>
 <tr><td>DeepL</td><td align="right">48</td><td>
@@ -1493,16 +1493,16 @@ Ed una lupa, che di tutte brame
 <tr><td>MIX</td><td align="right">49</td><td>
 Και μια λύκαινα, που σε όλες τις επιθυμίες
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">49</td><td>
+<tr><td>ChatGPT</td><td align="right">49</td><td>
 Και μια λύκαινα, που σε όλες τις επιθυμίες
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">49</td><td>
+<tr><td>ChatGPT-t</td><td align="right">49</td><td>
 Και μια λύκαινα, που από όλες τις επιθυμίες
 </td></tr>
-<tr><td>Bard-1</td><td align="right">49</td><td>
+<tr><td>Bard</td><td align="right">49</td><td>
 Και μια λύκαινα, φορτωμένη με όλες τις επιθυμίες
 </td></tr>
-<tr><td>Bard-2</td><td align="right">49</td><td>
+<tr><td>Bard-t</td><td align="right">49</td><td>
 Και μια λύκαινα, που φαινόταν να είναι φορτωμένη με όλες τις επιθυμίες
 </td></tr>
 <tr><td>DeepL</td><td align="right">49</td><td>
@@ -1524,16 +1524,16 @@ sembiava carca ne la sua magrezza,
 <tr><td>MIX</td><td align="right">50</td><td>
 φαινόταν φορτωμένη στη λεπτότητά της,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">50</td><td>
+<tr><td>ChatGPT</td><td align="right">50</td><td>
 φαινόταν φορτωμένη στη λεπτότητά της,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">50</td><td>
+<tr><td>ChatGPT-t</td><td align="right">50</td><td>
 φαινόταν να φορτωμένη στη λεπτότητά της,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">50</td><td>
+<tr><td>Bard</td><td align="right">50</td><td>
 φαινόταν στη τη αδυναμία της,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">50</td><td>
+<tr><td>Bard-t</td><td align="right">50</td><td>
 στη λεπτή της σιλουέτα,
 </td></tr>
 <tr><td>DeepL</td><td align="right">50</td><td>
@@ -1555,16 +1555,16 @@ e molte genti fé già viver grame,
 <tr><td>MIX</td><td align="right">51</td><td>
 και έκανε πολλούς ανθρώπους να ζουν ήδη δύσκολες ζωές,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">51</td><td>
+<tr><td>ChatGPT</td><td align="right">51</td><td>
 και έκανε πολλούς ανθρώπους να ζουν ήδη δύσκολες ζωές,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">51</td><td>
+<tr><td>ChatGPT-t</td><td align="right">51</td><td>
 και έχει κάνει πολλούς ανθρώπους να ζήσουν άθλια,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">51</td><td>
+<tr><td>Bard</td><td align="right">51</td><td>
 και είχε ήδη κάνει πολλούς ανθρώπους να ζουν άθλιους,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">51</td><td>
+<tr><td>Bard-t</td><td align="right">51</td><td>
 και έκανε πολλούς ανθρώπους να ζήσουν δυστυχισμένους,
 </td></tr>
 <tr><td>DeepL</td><td align="right">51</td><td>
@@ -1586,16 +1586,16 @@ questa mi porse tanto di gravezza
 <tr><td>MIX</td><td align="right">52</td><td>
 αυτή μου έδωσε τόσο πολλή βαρύτητα
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">52</td><td>
+<tr><td>ChatGPT</td><td align="right">52</td><td>
 αυτή μου έδωσε τόσο πολλή βαρύτητα
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">52</td><td>
+<tr><td>ChatGPT-t</td><td align="right">52</td><td>
 αυτή μου έδωσε τόσο μεγάλο βάρος
 </td></tr>
-<tr><td>Bard-1</td><td align="right">52</td><td>
+<tr><td>Bard</td><td align="right">52</td><td>
 αυτή μου έδωσε τόσο βάρος
 </td></tr>
-<tr><td>Bard-2</td><td align="right">52</td><td>
+<tr><td>Bard-t</td><td align="right">52</td><td>
 αυτή μου έδωσε τόσο βάρος
 </td></tr>
 <tr><td>DeepL</td><td align="right">52</td><td>
@@ -1617,16 +1617,16 @@ con la paura ch’uscia di sua vista,
 <tr><td>MIX</td><td align="right">53</td><td>
 με τον φόβο που βγαίνει από τα μάτια του,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">53</td><td>
+<tr><td>ChatGPT</td><td align="right">53</td><td>
 με το φόβο που βγαίνει από την όρασή της,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">53</td><td>
+<tr><td>ChatGPT-t</td><td align="right">53</td><td>
 με τον φόβο που βγαίνει από την όψη της,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">53</td><td>
+<tr><td>Bard</td><td align="right">53</td><td>
 με τον φόβο που βγήκε από τη δική της όραση,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">53</td><td>
+<tr><td>Bard-t</td><td align="right">53</td><td>
 με τον φόβο που έβγαινε από την εμφάνισή της,
 </td></tr>
 <tr><td>DeepL</td><td align="right">53</td><td>
@@ -1648,16 +1648,16 @@ ch’io perdei la speranza de l’altezza.
 <tr><td>MIX</td><td align="right">54</td><td>
 που έχασα την ελπίδα του ύψους.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">54</td><td>
+<tr><td>ChatGPT</td><td align="right">54</td><td>
 που έχασα την ελπίδα του ύψους.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">54</td><td>
+<tr><td>ChatGPT-t</td><td align="right">54</td><td>
 ώστε έχασα την ελπίδα για το υψηλότερο.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">54</td><td>
+<tr><td>Bard</td><td align="right">54</td><td>
 που έχασα την ελπίδα του ύψους.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">54</td><td>
+<tr><td>Bard-t</td><td align="right">54</td><td>
 που έχασα την ελπίδα της ύψωσης.
 </td></tr>
 <tr><td>DeepL</td><td align="right">54</td><td>
@@ -1679,16 +1679,16 @@ E qual è quei che volontieri acquista,
 <tr><td>MIX</td><td align="right">55</td><td>
 Και τι είναι αυτό που πρόθυμα αποκτά,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">55</td><td>
+<tr><td>ChatGPT</td><td align="right">55</td><td>
 Και αυτός που ευχαρίστως αποκτά,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">55</td><td>
+<tr><td>ChatGPT-t</td><td align="right">55</td><td>
 Και όπως αυτός που αποκτά με χαρά,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">55</td><td>
+<tr><td>Bard</td><td align="right">55</td><td>
 Και τέτοιος είναι αυτός που πρόθυμα αποκτά,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">55</td><td>
+<tr><td>Bard-t</td><td align="right">55</td><td>
 Και όπως αυτός που επιθυμεί να αποκτήσει κάτι,
 </td></tr>
 <tr><td>DeepL</td><td align="right">55</td><td>
@@ -1710,16 +1710,16 @@ e giugne ’l tempo che perder lo face,
 <tr><td>MIX</td><td align="right">56</td><td>
 και έρχεται ο χρόνος που το κάνει να το χάσει,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">56</td><td>
+<tr><td>ChatGPT</td><td align="right">56</td><td>
 και φτάνει τον χρόνο που τον κάνει να το χάσει,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">56</td><td>
+<tr><td>ChatGPT-t</td><td align="right">56</td><td>
 και έρχεται ο καιρός που το χάνει,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">56</td><td>
+<tr><td>Bard</td><td align="right">56</td><td>
 και έρχεται ο χρόνος που το κάνει να το χάσει,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">56</td><td>
+<tr><td>Bard-t</td><td align="right">56</td><td>
 και φτάνει ο χρόνος που το κάνει να το χάσει,
 </td></tr>
 <tr><td>DeepL</td><td align="right">56</td><td>
@@ -1741,16 +1741,16 @@ che ’n tutti suoi pensier piange e s’attrista;
 <tr><td>MIX</td><td align="right">57</td><td>
 που σε όλες τις σκέψεις του κλαίει και λυπάται·
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">57</td><td>
+<tr><td>ChatGPT</td><td align="right">57</td><td>
 που σε όλες του τις σκέψεις κλαίει και λυπάται;
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">57</td><td>
+<tr><td>ChatGPT-t</td><td align="right">57</td><td>
 που σε όλες του τις σκέψεις κλαίει και θλίβεται,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">57</td><td>
+<tr><td>Bard</td><td align="right">57</td><td>
 που σε όλες τις σκέψεις του κλαίει και λυπάται·
 </td></tr>
-<tr><td>Bard-2</td><td align="right">57</td><td>
+<tr><td>Bard-t</td><td align="right">57</td><td>
 που σε όλες τις σκέψεις του κλαίει και λυπάται,
 </td></tr>
 <tr><td>DeepL</td><td align="right">57</td><td>
@@ -1772,16 +1772,16 @@ tal mi fece la bestia sanza pace,
 <tr><td>MIX</td><td align="right">58</td><td>
 τέτοιο με έκανε το θηρίο χωρίς ειρήνη,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">58</td><td>
+<tr><td>ChatGPT</td><td align="right">58</td><td>
 τέτοιο με έκανε το θηρίο χωρίς ειρήνη,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">58</td><td>
+<tr><td>ChatGPT-t</td><td align="right">58</td><td>
 έτσι με έκανε η άτακτη θηρίο χωρίς ειρήνη,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">58</td><td>
+<tr><td>Bard</td><td align="right">58</td><td>
 τέτοιο έκανε το θηρίο χωρίς ειρήνη εμένα,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">58</td><td>
+<tr><td>Bard-t</td><td align="right">58</td><td>
 Τόσο με ταλαιπώρησε η άγρια θηρίο,
 </td></tr>
 <tr><td>DeepL</td><td align="right">58</td><td>
@@ -1803,16 +1803,16 @@ che, venendomi ’ncontro, a poco a poco
 <tr><td>MIX</td><td align="right">59</td><td>
 που ερχόμενος προς το μέρος μου σιγά σιγά
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">59</td><td>
+<tr><td>ChatGPT</td><td align="right">59</td><td>
 που, έρχοντάς μου εναντίον, λίγο λίγο
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">59</td><td>
+<tr><td>ChatGPT-t</td><td align="right">59</td><td>
 που, έρχοντας προς εμένα, σιγά-σιγά
 </td></tr>
-<tr><td>Bard-1</td><td align="right">59</td><td>
+<tr><td>Bard</td><td align="right">59</td><td>
 που, ερχόμενος προς μένα, λίγο λίγο
 </td></tr>
-<tr><td>Bard-2</td><td align="right">59</td><td>
+<tr><td>Bard-t</td><td align="right">59</td><td>
 που, ερχόμενο εναντίον μου, σιγά σιγά
 </td></tr>
 <tr><td>DeepL</td><td align="right">59</td><td>
@@ -1834,16 +1834,16 @@ mi ripigneva là dove ’l sol tace.
 <tr><td>MIX</td><td align="right">60</td><td>
 με έσπρωξε πίσω εκεί όπου ο ήλιος σιωπά.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">60</td><td>
+<tr><td>ChatGPT</td><td align="right">60</td><td>
 με επέστρεφε εκεί όπου ο ήλιος σιωπά.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">60</td><td>
+<tr><td>ChatGPT-t</td><td align="right">60</td><td>
 με έσπρωχνε προς εκεί όπου ο ήλιος σιωπά.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">60</td><td>
+<tr><td>Bard</td><td align="right">60</td><td>
 με έσπρωξε πίσω εκεί όπου ο ήλιος σιωπά.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">60</td><td>
+<tr><td>Bard-t</td><td align="right">60</td><td>
 με έσπρωχνε εκεί όπου ο ήλιος σβήνει.
 </td></tr>
 <tr><td>DeepL</td><td align="right">60</td><td>
@@ -1865,16 +1865,16 @@ Mentre ch’i’ rovinava in basso loco,
 <tr><td>MIX</td><td align="right">61</td><td>
 Ενώ κατέστρεφα σε ένα χαμηλό μέρος,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">61</td><td>
+<tr><td>ChatGPT</td><td align="right">61</td><td>
 Ενώ έπεφτα σε ένα χαμηλό μέρος,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">61</td><td>
+<tr><td>ChatGPT-t</td><td align="right">61</td><td>
 Καθώς κατευθυνόμουν προς ένα χαμηλό μέρος,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">61</td><td>
+<tr><td>Bard</td><td align="right">61</td><td>
 Ενώ έπεφτα σε ένα χαμηλό μέρος,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">61</td><td>
+<tr><td>Bard-t</td><td align="right">61</td><td>
 Ενώ κατέρρεα σε χαμηλό μέρος,
 </td></tr>
 <tr><td>DeepL</td><td align="right">61</td><td>
@@ -1896,16 +1896,16 @@ dinanzi a li occhi mi si fu offerto
 <tr><td>MIX</td><td align="right">62</td><td>
 μπροστά στα μάτια μου προσφέρθηκε
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">62</td><td>
+<tr><td>ChatGPT</td><td align="right">62</td><td>
 μπροστά στα μάτια μου, μου προσφέρθηκε
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">62</td><td>
+<tr><td>ChatGPT-t</td><td align="right">62</td><td>
 μπροστά στα μάτια μου εμφανίστηκε
 </td></tr>
-<tr><td>Bard-1</td><td align="right">62</td><td>
+<tr><td>Bard</td><td align="right">62</td><td>
 μπροστά στα μάτια μου προσφέρθηκε
 </td></tr>
-<tr><td>Bard-2</td><td align="right">62</td><td>
+<tr><td>Bard-t</td><td align="right">62</td><td>
 μπροστά στα μάτια μου παρουσιάστηκε
 </td></tr>
 <tr><td>DeepL</td><td align="right">62</td><td>
@@ -1927,16 +1927,16 @@ chi per lungo silenzio parea fioco.
 <tr><td>MIX</td><td align="right">63</td><td>
 που για μια μακρά σιωπή φαινόταν θολή.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">63</td><td>
+<tr><td>ChatGPT</td><td align="right">63</td><td>
 αυτός που, μέσα από μια μακρά σιωπή, φαινόταν ασθενής.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">63</td><td>
+<tr><td>ChatGPT-t</td><td align="right">63</td><td>
 αυτός που με την μακρά σιωπή του φαινόταν αδύναμος.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">63</td><td>
+<tr><td>Bard</td><td align="right">63</td><td>
 αυτός που για μακρά σιωπή φαινόταν αδύναμος.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">63</td><td>
+<tr><td>Bard-t</td><td align="right">63</td><td>
 κάποιος που από πολύ σιωπή φαινόταν θολός.
 </td></tr>
 <tr><td>DeepL</td><td align="right">63</td><td>
@@ -1958,16 +1958,16 @@ Quando vidi costui nel gran diserto,
 <tr><td>MIX</td><td align="right">64</td><td>
 Όταν είδα αυτόν στη μεγάλη έρημο,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">64</td><td>
+<tr><td>ChatGPT</td><td align="right">64</td><td>
 Όταν είδα αυτόν στη μεγάλη έρημο,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">64</td><td>
+<tr><td>ChatGPT-t</td><td align="right">64</td><td>
 Όταν τον είδα σε αυτήν την ερημιά,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">64</td><td>
+<tr><td>Bard</td><td align="right">64</td><td>
 Όταν είδα αυτόν στο μεγάλο έρημο,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">64</td><td>
+<tr><td>Bard-t</td><td align="right">64</td><td>
 Όταν είδα αυτόν τον άνθρωπο στην έρημο,
 </td></tr>
 <tr><td>DeepL</td><td align="right">64</td><td>
@@ -1989,16 +1989,16 @@ Quando vidi costui nel gran diserto,
 <tr><td>MIX</td><td align="right">65</td><td>
 «Ελέησέ με», του φώναξα,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">65</td><td>
+<tr><td>ChatGPT</td><td align="right">65</td><td>
 "Έλεος για μένα", φώναξα σε αυτόν,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">65</td><td>
+<tr><td>ChatGPT-t</td><td align="right">65</td><td>
 "Ελέησον με", του φώναξα,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">65</td><td>
+<tr><td>Bard</td><td align="right">65</td><td>
 "Ελέησέ με", φώναξα στον αυτόν,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">65</td><td>
+<tr><td>Bard-t</td><td align="right">65</td><td>
 "Μοιράσου τη μοίρα μου", φώναξα σε αυτόν,
 </td></tr>
 <tr><td>DeepL</td><td align="right">65</td><td>
@@ -2020,16 +2020,16 @@ Quando vidi costui nel gran diserto,
 <tr><td>MIX</td><td align="right">66</td><td>
 "Ό,τι κι αν είσαι, σκιά ή άνθρωπος!
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">66</td><td>
+<tr><td>ChatGPT</td><td align="right">66</td><td>
 "Ποιος είσαι, είτε σκιά είτε βέβαιος άνθρωπος!"
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">66</td><td>
+<tr><td>ChatGPT-t</td><td align="right">66</td><td>
 "οποιοσδήποτε κι αν είσαι, σκιά ή σίγουρα άνθρωπος!".
 </td></tr>
-<tr><td>Bard-1</td><td align="right">66</td><td>
+<tr><td>Bard</td><td align="right">66</td><td>
 "όποιος και αν είσαι, ή σκιά ή σίγουρος άνθρωπος!"
 </td></tr>
-<tr><td>Bard-2</td><td align="right">66</td><td>
+<tr><td>Bard-t</td><td align="right">66</td><td>
 "όποιος κι αν είσαι, σκιά ή άνθρωπος σίγουρα!".
 </td></tr>
 <tr><td>DeepL</td><td align="right">66</td><td>
@@ -2051,16 +2051,16 @@ Rispuosemi: «Non omo, omo già fui,
 <tr><td>MIX</td><td align="right">67</td><td>
 Μου απάντησε: "Όχι άνθρωπος, άνθρωπος ήμουν ήδη,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">67</td><td>
+<tr><td>ChatGPT</td><td align="right">67</td><td>
 Μου απάντησε: "Όχι άνθρωπος, κάποτε ήμουν άνθρωπος,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">67</td><td>
+<tr><td>ChatGPT-t</td><td align="right">67</td><td>
 Μου απάντησε: "Όχι άνθρωπος, κάποτε ήμουν άνθρωπος,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">67</td><td>
+<tr><td>Bard</td><td align="right">67</td><td>
 Μου απάντησε: "Δεν είμαι άνθρωπος, ήμουν κάποτε άνθρωπος"
 </td></tr>
-<tr><td>Bard-2</td><td align="right">67</td><td>
+<tr><td>Bard-t</td><td align="right">67</td><td>
 Μου απάντησε: "Δεν είμαι άνθρωπος, άνθρωπος ήμουν κάποτε,
 </td></tr>
 <tr><td>DeepL</td><td align="right">67</td><td>
@@ -2082,16 +2082,16 @@ e li parenti miei furon lombardi,
 <tr><td>MIX</td><td align="right">68</td><td>
 και οι συγγενείς μου ήταν Λομβαρδοί,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">68</td><td>
+<tr><td>ChatGPT</td><td align="right">68</td><td>
 και οι συγγενείς μου ήταν Λομβαρδοί,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">68</td><td>
+<tr><td>ChatGPT-t</td><td align="right">68</td><td>
 και οι συγγενείς μου ήταν Λομβαρδοί,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">68</td><td>
+<tr><td>Bard</td><td align="right">68</td><td>
 και οι γονείς μου ήταν Λομβαρδοί,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">68</td><td>
+<tr><td>Bard-t</td><td align="right">68</td><td>
 και οι συγγενείς μου ήταν Λομβαρδοί,
 </td></tr>
 <tr><td>DeepL</td><td align="right">68</td><td>
@@ -2113,16 +2113,16 @@ mantoani per patrïa ambedui.
 <tr><td>MIX</td><td align="right">69</td><td>
 μαντουάνοι και οι δύο από την πατρίδα τους.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">69</td><td>
+<tr><td>ChatGPT</td><td align="right">69</td><td>
 μαντούαν για πατρίδα, και οι δύο.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">69</td><td>
+<tr><td>ChatGPT-t</td><td align="right">69</td><td>
 και οι δύο με πατρίδα τους ήταν Μαντούα.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">69</td><td>
+<tr><td>Bard</td><td align="right">69</td><td>
 μαντουάνοι και οι δύο από την πατρίδα τους.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">69</td><td>
+<tr><td>Bard-t</td><td align="right">69</td><td>
 και οι δύο από τη Μάντουα."
 </td></tr>
 <tr><td>DeepL</td><td align="right">69</td><td>
@@ -2144,16 +2144,16 @@ Nacqui sub Iulio, ancor che fosse tardi,
 <tr><td>MIX</td><td align="right">70</td><td>
 Γεννήθηκα υπό τον Ιούλιο, ακόμα κι αν ήταν αργά,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">70</td><td>
+<tr><td>ChatGPT</td><td align="right">70</td><td>
 Γεννήθηκα κάτω από τον Ιούλιο, αν και ήταν αργά,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">70</td><td>
+<tr><td>ChatGPT-t</td><td align="right">70</td><td>
 Γεννήθηκα κάτω από τον Ιούλιο, αν και ήταν αργά,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">70</td><td>
+<tr><td>Bard</td><td align="right">70</td><td>
 Γεννήθηκα υπό τον Ιούλιο, ακόμα κι αν ήταν αργά,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">70</td><td>
+<tr><td>Bard-t</td><td align="right">70</td><td>
 Γεννήθηκα υπό τον Ιούλιο, ακόμα κι αν ήταν αργά
 </td></tr>
 <tr><td>DeepL</td><td align="right">70</td><td>
@@ -2175,16 +2175,16 @@ e vissi a Roma sotto ’l buono Augusto
 <tr><td>MIX</td><td align="right">71</td><td>
 και έζησα στη Ρώμη υπό τον καλό Αύγουστο
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">71</td><td>
+<tr><td>ChatGPT</td><td align="right">71</td><td>
 και έζησα στη Ρώμη κάτω από τον καλό Αύγουστο
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">71</td><td>
+<tr><td>ChatGPT-t</td><td align="right">71</td><td>
 και έζησα στη Ρώμη κατά την εποχή του καλού Αύγουστου,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">71</td><td>
+<tr><td>Bard</td><td align="right">71</td><td>
 και έζησα στη Ρώμη υπό τον καλό Αύγουστο
 </td></tr>
-<tr><td>Bard-2</td><td align="right">71</td><td>
+<tr><td>Bard-t</td><td align="right">71</td><td>
 και έζησα στη Ρώμη υπό τον καλό Αύγουστο
 </td></tr>
 <tr><td>DeepL</td><td align="right">71</td><td>
@@ -2206,16 +2206,16 @@ nel tempo de li dèi falsi e bugiardi.
 <tr><td>MIX</td><td align="right">72</td><td>
 Στην εποχή των ψεύτικων και ψεύτικων θεών.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">72</td><td>
+<tr><td>ChatGPT</td><td align="right">72</td><td>
 στην περίοδο των ψεύτικων και απατεών θεών.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">72</td><td>
+<tr><td>ChatGPT-t</td><td align="right">72</td><td>
 κατά τη διάρκεια των ψεύτικων και απατηλών θεών.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">72</td><td>
+<tr><td>Bard</td><td align="right">72</td><td>
 στον καιρό των ψευδών και ψεύτικων θεών.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">72</td><td>
+<tr><td>Bard-t</td><td align="right">72</td><td>
 στον καιρό των θεών ψευδών και ψευτών
 </td></tr>
 <tr><td>DeepL</td><td align="right">72</td><td>
@@ -2237,16 +2237,16 @@ Poeta fui, e cantai di quel giusto
 <tr><td>MIX</td><td align="right">73</td><td>
 Ήμουν ποιητής και τραγούδησα για αυτόν το δίκαιο
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">73</td><td>
+<tr><td>ChatGPT</td><td align="right">73</td><td>
 Ήμουν ποιητής και τραγούδησα για αυτόν το δίκαιο
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">73</td><td>
+<tr><td>ChatGPT-t</td><td align="right">73</td><td>
 Ήμουν ποιητής και τραγούδησα για εκείνον τον δίκαιο
 </td></tr>
-<tr><td>Bard-1</td><td align="right">73</td><td>
+<tr><td>Bard</td><td align="right">73</td><td>
 Ήμουν ποιητής, και έψαξα γι' αυτόν τον δίκαιο
 </td></tr>
-<tr><td>Bard-2</td><td align="right">73</td><td>
+<tr><td>Bard-t</td><td align="right">73</td><td>
 Ποιητής ήμουν, και έψαλλα για εκείνον τον δίκαιο
 </td></tr>
 <tr><td>DeepL</td><td align="right">73</td><td>
@@ -2268,16 +2268,16 @@ figliuol d’Anchise che venne di Troia,
 <tr><td>MIX</td><td align="right">74</td><td>
 γιος του Αγχίση που ήρθε από την Τροία,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">74</td><td>
+<tr><td>ChatGPT</td><td align="right">74</td><td>
 γιος του Αγχίση που ήρθε από την Τροία,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">74</td><td>
+<tr><td>ChatGPT-t</td><td align="right">74</td><td>
 γιο του Αγχίση που ήρθε από την Τροία,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">74</td><td>
+<tr><td>Bard</td><td align="right">74</td><td>
 γιο του Άγχίσου που ήρθε από την Τροία,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">74</td><td>
+<tr><td>Bard-t</td><td align="right">74</td><td>
 γιο του Άνχισα που ήρθε από την Τροία,
 </td></tr>
 <tr><td>DeepL</td><td align="right">74</td><td>
@@ -2299,16 +2299,16 @@ poi che ’l superbo Ilïón fu combusto.
 <tr><td>MIX</td><td align="right">75</td><td>
 αφού κάηκε το περήφανο Ίλιον.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">75</td><td>
+<tr><td>ChatGPT</td><td align="right">75</td><td>
 μετά το καμένο υπερήφανο Ίλιο.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">75</td><td>
+<tr><td>ChatGPT-t</td><td align="right">75</td><td>
 μετά την καταστροφή του υπερήφανου Ιλίου."
 </td></tr>
-<tr><td>Bard-1</td><td align="right">75</td><td>
+<tr><td>Bard</td><td align="right">75</td><td>
 αφού το υπερήφανο Ιλιον κάηκε.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">75</td><td>
+<tr><td>Bard-t</td><td align="right">75</td><td>
 αφού το υπερήφανο Ιλιον κάηκε.
 </td></tr>
 <tr><td>DeepL</td><td align="right">75</td><td>
@@ -2330,16 +2330,16 @@ Ma tu perché ritorni a tanta noia?
 <tr><td>MIX</td><td align="right">76</td><td>
 Αλλά γιατί επιστρέφεις σε τόσο πλήξη;
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">76</td><td>
+<tr><td>ChatGPT</td><td align="right">76</td><td>
 Αλλά γιατί επιστρέφεις σε τόση κόπο;
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">76</td><td>
+<tr><td>ChatGPT-t</td><td align="right">76</td><td>
 Αλλά εσύ, γιατί επιστρέφεις σε τόσο πόνο;
 </td></tr>
-<tr><td>Bard-1</td><td align="right">76</td><td>
+<tr><td>Bard</td><td align="right">76</td><td>
 Αλλά γιατί επιστρέφεις σε τόσο πλήξη;
 </td></tr>
-<tr><td>Bard-2</td><td align="right">76</td><td>
+<tr><td>Bard-t</td><td align="right">76</td><td>
 Αλλά εσύ γιατί επιστρέφεις σε τόσο κόπο;
 </td></tr>
 <tr><td>DeepL</td><td align="right">76</td><td>
@@ -2361,16 +2361,16 @@ perché non sali il dilettoso monte
 <tr><td>MIX</td><td align="right">77</td><td>
 γιατί δεν ανεβαίνεις στο ευχάριστο βουνό
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">77</td><td>
+<tr><td>ChatGPT</td><td align="right">77</td><td>
 γιατί δεν ανεβαίνεις το ευχάριστο βουνό
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">77</td><td>
+<tr><td>ChatGPT-t</td><td align="right">77</td><td>
 Γιατί δεν ανεβαίνεις τον ευχάριστο λόφο,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">77</td><td>
+<tr><td>Bard</td><td align="right">77</td><td>
 γιατί δεν ανεβαίνεις στο ευχάριστο βουνό
 </td></tr>
-<tr><td>Bard-2</td><td align="right">77</td><td>
+<tr><td>Bard-t</td><td align="right">77</td><td>
 γιατί δεν ανεβαίνεις τον χαριτωμένο λόφο
 </td></tr>
 <tr><td>DeepL</td><td align="right">77</td><td>
@@ -2392,16 +2392,16 @@ ch’è principio e cagion di tutta gioia?».
 <tr><td>MIX</td><td align="right">78</td><td>
 Ποια είναι η αρχή και η αιτία όλης της χαράς; "
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">78</td><td>
+<tr><td>ChatGPT</td><td align="right">78</td><td>
 που είναι η αρχή και αιτία όλης της χαράς;".
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">78</td><td>
+<tr><td>ChatGPT-t</td><td align="right">78</td><td>
 που είναι η αρχή και η αιτία όλης της χαράς;"
 </td></tr>
-<tr><td>Bard-1</td><td align="right">78</td><td>
+<tr><td>Bard</td><td align="right">78</td><td>
 που είναι η αρχή και η αιτία όλης της χαράς.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">78</td><td>
+<tr><td>Bard-t</td><td align="right">78</td><td>
 που είναι αρχή και αιτία όλης της χαράς;
 </td></tr>
 <tr><td>DeepL</td><td align="right">78</td><td>
@@ -2423,16 +2423,16 @@ ch’è principio e cagion di tutta gioia?».
 <tr><td>MIX</td><td align="right">79</td><td>
 «Τώρα είσαι αυτός ο Βιργίλιος και εκείνη η πηγή
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">79</td><td>
+<tr><td>ChatGPT</td><td align="right">79</td><td>
 "Τώρα, είσαι εκείνος ο Βιργίλιος και εκείνη η πηγή
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">79</td><td>
+<tr><td>ChatGPT-t</td><td align="right">79</td><td>
 "Εσύ τώρα είσαι εκείνος ο Βιργίλιος και εκείνη η πηγή
 </td></tr>
-<tr><td>Bard-1</td><td align="right">79</td><td>
+<tr><td>Bard</td><td align="right">79</td><td>
 "Τώρα είσαι εκείνος ο Βιργίλιος και εκείνη η πηγή
 </td></tr>
-<tr><td>Bard-2</td><td align="right">79</td><td>
+<tr><td>Bard-t</td><td align="right">79</td><td>
 "Είσαι τώρα αυτός ο Βιργίλιος και αυτή η πηγή
 </td></tr>
 <tr><td>DeepL</td><td align="right">79</td><td>
@@ -2454,16 +2454,16 @@ che spandi di parlar sì largo fiume?»,
 <tr><td>MIX</td><td align="right">80</td><td>
 που απλώνεις του να μιλάς τόσο πλατύ ποτάμι;"
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">80</td><td>
+<tr><td>ChatGPT</td><td align="right">80</td><td>
 που χύνεις τόσο ευρύ ποταμό μιλώντας;";
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">80</td><td>
+<tr><td>ChatGPT-t</td><td align="right">80</td><td>
 που χύνεις έναν τόσο πλατύ ποταμό με λόγια;",
 </td></tr>
-<tr><td>Bard-1</td><td align="right">80</td><td>
+<tr><td>Bard</td><td align="right">80</td><td>
 που απλώνεις του να μιλάς τόσο πλατύ ποτάμι;"
 </td></tr>
-<tr><td>Bard-2</td><td align="right">80</td><td>
+<tr><td>Bard-t</td><td align="right">80</td><td>
 που χύνει τόσο μεγάλο ρεύμα ομιλίας;",
 </td></tr>
 <tr><td>DeepL</td><td align="right">80</td><td>
@@ -2485,16 +2485,16 @@ rispuos’ io lui con vergognosa fronte.
 <tr><td>MIX</td><td align="right">81</td><td>
 Του απάντησα με ντροπιασμένο μέτωπο.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">81</td><td>
+<tr><td>ChatGPT</td><td align="right">81</td><td>
 απάντησα σε αυτόν με ντροπαλό πρόσωπο.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">81</td><td>
+<tr><td>ChatGPT-t</td><td align="right">81</td><td>
 του απάντησα εγώ με ντροπιασμένη μορφή.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">81</td><td>
+<tr><td>Bard</td><td align="right">81</td><td>
 απάντησα σε αυτόν με ντροπιασμένο μέτωπο.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">81</td><td>
+<tr><td>Bard-t</td><td align="right">81</td><td>
 απάντησα εγώ σε αυτόν με ντροπιασμένη όψη.
 </td></tr>
 <tr><td>DeepL</td><td align="right">81</td><td>
@@ -2516,16 +2516,16 @@ rispuos’ io lui con vergognosa fronte.
 <tr><td>MIX</td><td align="right">82</td><td>
 "Ω τιμή και φως των άλλων ποιητών,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">82</td><td>
+<tr><td>ChatGPT</td><td align="right">82</td><td>
 "Ω τιμή και φως των άλλων ποιητών,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">82</td><td>
+<tr><td>ChatGPT-t</td><td align="right">82</td><td>
 "Εσύ, η τιμή και το φως των άλλων ποιητών,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">82</td><td>
+<tr><td>Bard</td><td align="right">82</td><td>
 "Ω τιμή και φως των άλλων ποιητών,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">82</td><td>
+<tr><td>Bard-t</td><td align="right">82</td><td>
 "Ω τιμή και φως των άλλων ποιητών,
 </td></tr>
 <tr><td>DeepL</td><td align="right">82</td><td>
@@ -2547,16 +2547,16 @@ vagliami ’l lungo studio e ’l grande amore
 <tr><td>MIX</td><td align="right">83</td><td>
 Δείξε μου τη μακρά μελέτη και τη μεγάλη αγάπη
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">83</td><td>
+<tr><td>ChatGPT</td><td align="right">83</td><td>
 μπορεί να αξίζει η μακρύς μελέτη και η μεγάλη αγάπη
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">83</td><td>
+<tr><td>ChatGPT-t</td><td align="right">83</td><td>
 η μακροχρόνια μου μελέτη και η μεγάλη αγάπη
 </td></tr>
-<tr><td>Bard-1</td><td align="right">83</td><td>
+<tr><td>Bard</td><td align="right">83</td><td>
 να με βοηθήσει το μακρύ μελέτη και η μεγάλη αγάπη που με έκανε να αναζητήσω τον τόμο σου
 </td></tr>
-<tr><td>Bard-2</td><td align="right">83</td><td>
+<tr><td>Bard-t</td><td align="right">83</td><td>
 ας μου ωφελήσουν η μακρά μελέτη και η μεγάλη αγάπη
 </td></tr>
 <tr><td>DeepL</td><td align="right">83</td><td>
@@ -2578,16 +2578,16 @@ che m’ha fatto cercar lo tuo volume.
 <tr><td>MIX</td><td align="right">84</td><td>
 που με έκανε να αναζητήσω τον όγκο σου.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">84</td><td>
+<tr><td>ChatGPT</td><td align="right">84</td><td>
 που με έκανε να ψάξω τον τόμο σου.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">84</td><td>
+<tr><td>ChatGPT-t</td><td align="right">84</td><td>
 που με έκανεν να ψάξω τον όγκο σου.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">84</td><td>
+<tr><td>Bard</td><td align="right">84</td><td>
 που με έκανε να αναζητήσω τον τόμο σου.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">84</td><td>
+<tr><td>Bard-t</td><td align="right">84</td><td>
 που με έκαναν να αναζητήσω το βιβλίο σου."
 </td></tr>
 <tr><td>DeepL</td><td align="right">84</td><td>
@@ -2609,16 +2609,16 @@ Tu se’ lo mio maestro e ’l mio autore,
 <tr><td>MIX</td><td align="right">85</td><td>
 Εσύ είσαι ο δάσκαλός μου και ο συγγραφέας μου,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">85</td><td>
+<tr><td>ChatGPT</td><td align="right">85</td><td>
 Εσύ είσαι ο δάσκαλός μου και ο συγγραφέας μου,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">85</td><td>
+<tr><td>ChatGPT-t</td><td align="right">85</td><td>
 Είσαι ο δάσκαλός μου και ο δημιουργός μου,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">85</td><td>
+<tr><td>Bard</td><td align="right">85</td><td>
 Εσύ είσαι ο δάσκαλός μου και ο συγγραφέας μου,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">85</td><td>
+<tr><td>Bard-t</td><td align="right">85</td><td>
 Εσύ είσαι ο δάσκαλός μου και ο δημιουργός μου,
 </td></tr>
 <tr><td>DeepL</td><td align="right">85</td><td>
@@ -2640,16 +2640,16 @@ tu se’ solo colui da cu’ io tolsi
 <tr><td>MIX</td><td align="right">86</td><td>
 Είσαι ο μόνος από τον οποίο πήρα
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">86</td><td>
+<tr><td>ChatGPT</td><td align="right">86</td><td>
 εσύ είσαι μόνος εκείνος από τον οποίο πήρα
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">86</td><td>
+<tr><td>ChatGPT-t</td><td align="right">86</td><td>
 είσαι μόνο εκείνος από τον οποίο έπαιρνα
 </td></tr>
-<tr><td>Bard-1</td><td align="right">86</td><td>
+<tr><td>Bard</td><td align="right">86</td><td>
 εσύ είσαι ο μόνος από τον οποίο πήρα
 </td></tr>
-<tr><td>Bard-2</td><td align="right">86</td><td>
+<tr><td>Bard-t</td><td align="right">86</td><td>
 εσύ είσαι μόνος εκείνος από τον οποίο πήρα
 </td></tr>
 <tr><td>DeepL</td><td align="right">86</td><td>
@@ -2671,16 +2671,16 @@ lo bello stilo che m’ha fatto onore.
 <tr><td>MIX</td><td align="right">87</td><td>
 το όμορφο στυλ που με τίμησε.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">87</td><td>
+<tr><td>ChatGPT</td><td align="right">87</td><td>
 το όμορφο στυλ που με τίμησε.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">87</td><td>
+<tr><td>ChatGPT-t</td><td align="right">87</td><td>
 το όμορφο ύφος που μου έδωσε τιμή.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">87</td><td>
+<tr><td>Bard</td><td align="right">87</td><td>
 το όμορφο στυλ που με έκανε να νιώσω τιμή.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">87</td><td>
+<tr><td>Bard-t</td><td align="right">87</td><td>
 το όμορφο στιλ που μου έχει κάνει δόξα.
 </td></tr>
 <tr><td>DeepL</td><td align="right">87</td><td>
@@ -2702,16 +2702,16 @@ Vedi la bestia per cu’ io mi volsi;
 <tr><td>MIX</td><td align="right">88</td><td>
 Δες το θηρίο για το οποίο στράφηκα·
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">88</td><td>
+<tr><td>ChatGPT</td><td align="right">88</td><td>
 Δες το θηρίο για το οποίο στράφηκα·
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">88</td><td>
+<tr><td>ChatGPT-t</td><td align="right">88</td><td>
 Δες το θηρίο προς το οποίο γύρισα,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">88</td><td>
+<tr><td>Bard</td><td align="right">88</td><td>
 Δες το θηρίο για το οποίο γύρισα·
 </td></tr>
-<tr><td>Bard-2</td><td align="right">88</td><td>
+<tr><td>Bard-t</td><td align="right">88</td><td>
 Δες το θηρίο για το οποίο στράφηκα πίσω,
 </td></tr>
 <tr><td>DeepL</td><td align="right">88</td><td>
@@ -2733,16 +2733,16 @@ aiutami da lei, famoso saggio,
 <tr><td>MIX</td><td align="right">89</td><td>
 βοήθησέ με από αυτήν, διάσημο σοφό,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">89</td><td>
+<tr><td>ChatGPT</td><td align="right">89</td><td>
 βοήθησέ με από αυτή, διάσημε σοφέ,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">89</td><td>
+<tr><td>ChatGPT-t</td><td align="right">89</td><td>
 βοήθησέ με να το αποφύγω, επιφανής σοφέ,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">89</td><td>
+<tr><td>Bard</td><td align="right">89</td><td>
 βοήθησέ με από αυτήν, διάσημο σοφό,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">89</td><td>
+<tr><td>Bard-t</td><td align="right">89</td><td>
 βοήθησέ με από αυτό, διάσημος σοφός,
 </td></tr>
 <tr><td>DeepL</td><td align="right">89</td><td>
@@ -2764,16 +2764,16 @@ ch’ella mi fa tremar le vene e i polsi».
 <tr><td>MIX</td><td align="right">90</td><td>
 Γιατί κάνει τις φλέβες και τους καρπούς μου να τρέμουν.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">90</td><td>
+<tr><td>ChatGPT</td><td align="right">90</td><td>
 γιατί με κάνει να τρέμουν οι φλέβες και οι καρποί μου.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">90</td><td>
+<tr><td>ChatGPT-t</td><td align="right">90</td><td>
 γιατί με κάνει να τρέμουν οι φλέβες και τα καρπούζια".
 </td></tr>
-<tr><td>Bard-1</td><td align="right">90</td><td>
+<tr><td>Bard</td><td align="right">90</td><td>
 που εκείνη κάνει τις φλέβες και τους καρπούς μου να τρέμουν."
 </td></tr>
-<tr><td>Bard-2</td><td align="right">90</td><td>
+<tr><td>Bard-t</td><td align="right">90</td><td>
 γιατί μου κάνει να τρέμουν τα αγγεία και τα μπράτσα μου".
 </td></tr>
 <tr><td>DeepL</td><td align="right">90</td><td>
@@ -2795,16 +2795,16 @@ ch’ella mi fa tremar le vene e i polsi».
 <tr><td>MIX</td><td align="right">91</td><td>
 "Σε πρέπει να κρατήσεις ένα άλλο ταξίδι",
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">91</td><td>
+<tr><td>ChatGPT</td><td align="right">91</td><td>
 "Σε πρέπει να κρατήσεις ένα άλλο ταξίδι",
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">91</td><td>
+<tr><td>ChatGPT-t</td><td align="right">91</td><td>
 "Πρέπει να ακολουθήσεις άλλο δρόμο",
 </td></tr>
-<tr><td>Bard-1</td><td align="right">91</td><td>
+<tr><td>Bard</td><td align="right">91</td><td>
 "Είναι απαραίτητο για εσένα να κρατήσεις άλλο ταξίδι"
 </td></tr>
-<tr><td>Bard-2</td><td align="right">91</td><td>
+<tr><td>Bard-t</td><td align="right">91</td><td>
 "Σε σένα πρέπει να ακολουθήσεις άλλο ταξίδι",
 </td></tr>
 <tr><td>DeepL</td><td align="right">91</td><td>
@@ -2826,16 +2826,16 @@ rispuose, poi che lagrimar mi vide,
 <tr><td>MIX</td><td align="right">92</td><td>
 Απάντησε, τότε με είδε να κλαίω,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">92</td><td>
+<tr><td>ChatGPT</td><td align="right">92</td><td>
 απάντησε, όταν με είδε να κλαίω,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">92</td><td>
+<tr><td>ChatGPT-t</td><td align="right">92</td><td>
 απάντησε, όταν με είδε να κλαίω,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">92</td><td>
+<tr><td>Bard</td><td align="right">92</td><td>
 απάντησε, τότε που με είδε να κλαίω,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">92</td><td>
+<tr><td>Bard-t</td><td align="right">92</td><td>
 απάντησε, αφού με είδε να κλαίω,
 </td></tr>
 <tr><td>DeepL</td><td align="right">92</td><td>
@@ -2857,16 +2857,16 @@ rispuose, poi che lagrimar mi vide,
 <tr><td>MIX</td><td align="right">93</td><td>
 "αν θέλεις να ξεφύγεις από αυτό το άγριο μέρος·
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">93</td><td>
+<tr><td>ChatGPT</td><td align="right">93</td><td>
 "αν θες να ξεφύγεις από αυτό το άγριο μέρος;
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">93</td><td>
+<tr><td>ChatGPT-t</td><td align="right">93</td><td>
 "αν θέλεις να ξεφύγεις από αυτό το άγριο μέρος·
 </td></tr>
-<tr><td>Bard-1</td><td align="right">93</td><td>
+<tr><td>Bard</td><td align="right">93</td><td>
 "αν θέλεις να γλιτώσεις από αυτό το άγριο μέρος·
 </td></tr>
-<tr><td>Bard-2</td><td align="right">93</td><td>
+<tr><td>Bard-t</td><td align="right">93</td><td>
 "αν θέλεις να γλιτώσεις από αυτό το άγριο μέρος·
 </td></tr>
 <tr><td>DeepL</td><td align="right">93</td><td>
@@ -2888,16 +2888,16 @@ ché questa bestia, per la qual tu gride,
 <tr><td>MIX</td><td align="right">94</td><td>
 Για αυτό το θηρίο, για το οποίο φωνάζεις,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">94</td><td>
+<tr><td>ChatGPT</td><td align="right">94</td><td>
 επειδή αυτό το θηρίο, για το οποίο κραυγάζεις,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">94</td><td>
+<tr><td>ChatGPT-t</td><td align="right">94</td><td>
 γιατί αυτό το θηρίο, για το οποίο φωνάζεις,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">94</td><td>
+<tr><td>Bard</td><td align="right">94</td><td>
 επειδή αυτό το θηρίο, για το οποίο φωνάζεις,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">94</td><td>
+<tr><td>Bard-t</td><td align="right">94</td><td>
 γιατί αυτό το θηρίο, για το οποίο φωνάζεις,
 </td></tr>
 <tr><td>DeepL</td><td align="right">94</td><td>
@@ -2919,16 +2919,16 @@ non lascia altrui passar per la sua via,
 <tr><td>MIX</td><td align="right">95</td><td>
 δεν αφήνει τους άλλους να περάσουν από το δρόμο του,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">95</td><td>
+<tr><td>ChatGPT</td><td align="right">95</td><td>
 δεν επιτρέπει σε άλλους να περάσουν από τον δρόμο του,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">95</td><td>
+<tr><td>ChatGPT-t</td><td align="right">95</td><td>
 δεν αφήνει κανέναν άλλο να περάσει από τον δρόμο της,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">95</td><td>
+<tr><td>Bard</td><td align="right">95</td><td>
 δεν επιτρέπει σε άλλους να περάσουν από την οδό του,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">95</td><td>
+<tr><td>Bard-t</td><td align="right">95</td><td>
 δεν αφήνει κανέναν να περάσει από το δρόμο του,
 </td></tr>
 <tr><td>DeepL</td><td align="right">95</td><td>
@@ -2950,16 +2950,16 @@ ma tanto lo ’mpedisce che l’uccide;
 <tr><td>MIX</td><td align="right">96</td><td>
 αλλά το εμποδίζει τόσο πολύ που τον σκοτώνει;
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">96</td><td>
+<tr><td>ChatGPT</td><td align="right">96</td><td>
 αλλά το εμποδίζει τόσο πολύ που τον σκοτώνει;
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">96</td><td>
+<tr><td>ChatGPT-t</td><td align="right">96</td><td>
 αλλά τον εμποδίζει τόσο πολύ που τον σκοτώνει.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">96</td><td>
+<tr><td>Bard</td><td align="right">96</td><td>
 αλλά τόσο πολύ τον εμποδίζει που τον σκοτώνει·
 </td></tr>
-<tr><td>Bard-2</td><td align="right">96</td><td>
+<tr><td>Bard-t</td><td align="right">96</td><td>
 αλλά τόσο τον εμποδίζει που τον σκοτώνει·
 </td></tr>
 <tr><td>DeepL</td><td align="right">96</td><td>
@@ -2981,16 +2981,16 @@ e ha natura sì malvagia e ria,
 <tr><td>MIX</td><td align="right">97</td><td>
 "και έχει φύση τόσο κακή και πονηρή,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">97</td><td>
+<tr><td>ChatGPT</td><td align="right">97</td><td>
 και έχει μια τόσο πονηρή και σκληρή φύση,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">97</td><td>
+<tr><td>ChatGPT-t</td><td align="right">97</td><td>
 Και έχει μια τόσο κακή και πονηρή φύση,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">97</td><td>
+<tr><td>Bard</td><td align="right">97</td><td>
 και έχει μια φύση τόσο κακεντρεχή και πονηρή,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">97</td><td>
+<tr><td>Bard-t</td><td align="right">97</td><td>
 "και έχει φύση τόσο κακή και πονηρή,
 </td></tr>
 <tr><td>DeepL</td><td align="right">97</td><td>
@@ -3012,16 +3012,16 @@ che mai non empie la bramosa voglia,
 <tr><td>MIX</td><td align="right">98</td><td>
 που ποτέ δεν γεμίζει την άπληστη επιθυμία,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">98</td><td>
+<tr><td>ChatGPT</td><td align="right">98</td><td>
 που ποτέ δεν γεμίζει τη λαχταριστή επιθυμία,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">98</td><td>
+<tr><td>ChatGPT-t</td><td align="right">98</td><td>
 που ποτέ δεν ικανοποιεί την επιθυμία της,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">98</td><td>
+<tr><td>Bard</td><td align="right">98</td><td>
 που ποτέ δεν γεμίζει την άπληστη επιθυμία,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">98</td><td>
+<tr><td>Bard-t</td><td align="right">98</td><td>
 που ποτέ δεν γεμίζει την ακόρεστη επιθυμία του,
 </td></tr>
 <tr><td>DeepL</td><td align="right">98</td><td>
@@ -3043,16 +3043,16 @@ e dopo ’l pasto ha più fame che pria.
 <tr><td>MIX</td><td align="right">99</td><td>
 Και μετά το γεύμα πεινάει περισσότερο από πριν.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">99</td><td>
+<tr><td>ChatGPT</td><td align="right">99</td><td>
 και μετά το γεύμα έχει περισσότερη πείνα από πριν.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">99</td><td>
+<tr><td>ChatGPT-t</td><td align="right">99</td><td>
 και μετά το γεύμα έχει περισσότερη πείνα από πριν.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">99</td><td>
+<tr><td>Bard</td><td align="right">99</td><td>
 και μετά το γεύμα έχει περισσότερη πείνα από πριν.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">99</td><td>
+<tr><td>Bard-t</td><td align="right">99</td><td>
 και μετά το γεύμα έχει περισσότερη πείνα από πριν.
 </td></tr>
 <tr><td>DeepL</td><td align="right">99</td><td>
@@ -3074,16 +3074,16 @@ Molti son li animali a cui s’ammoglia,
 <tr><td>MIX</td><td align="right">100</td><td>
 Πολλά είναι τα ζώα με τα οποία παντρεύεται,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">100</td><td>
+<tr><td>ChatGPT</td><td align="right">100</td><td>
 Πολλά είναι τα ζώα που συνδυάζονται με αυτό,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">100</td><td>
+<tr><td>ChatGPT-t</td><td align="right">100</td><td>
 Υπάρχουν πολλά άλλα ζώα με τα οποία συνδυάζεται,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">100</td><td>
+<tr><td>Bard</td><td align="right">100</td><td>
 Πολλοί είναι τα ζώα με τα οποία παντρεύεται,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">100</td><td>
+<tr><td>Bard-t</td><td align="right">100</td><td>
 Πολλά είναι τα ζώα με τα οποία παντρεύεται,
 </td></tr>
 <tr><td>DeepL</td><td align="right">100</td><td>
@@ -3105,16 +3105,16 @@ e più saranno ancora, infin che ’l veltro
 <tr><td>MIX</td><td align="right">101</td><td>
 Και περισσότερα θα είναι, μέχρι το Βέλτρο
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">101</td><td>
+<tr><td>ChatGPT</td><td align="right">101</td><td>
 και θα υπάρχουν περισσότερα μέχρι να έρθει το γκρίζο σκυλί
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">101</td><td>
+<tr><td>ChatGPT-t</td><td align="right">101</td><td>
 και θα υπάρξουν ακόμα περισσότερα, μέχρι ο κυνηγόσκυλος
 </td></tr>
-<tr><td>Bard-1</td><td align="right">101</td><td>
+<tr><td>Bard</td><td align="right">101</td><td>
 και περισσότεροι θα είναι ακόμα, μέχρι το λυκόσκυλο
 </td></tr>
-<tr><td>Bard-2</td><td align="right">101</td><td>
+<tr><td>Bard-t</td><td align="right">101</td><td>
 και περισσότερα θα είναι ακόμα, μέχρι να έρθει ο λύκος,
 </td></tr>
 <tr><td>DeepL</td><td align="right">101</td><td>
@@ -3136,16 +3136,16 @@ verrà, che la farà morir con doglia.
 <tr><td>MIX</td><td align="right">102</td><td>
 θα έρθει, που θα την κάνει να πεθάνει με θλίψη.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">102</td><td>
+<tr><td>ChatGPT</td><td align="right">102</td><td>
 που θα την κάνει να πεθάνει με πόνο.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">102</td><td>
+<tr><td>ChatGPT-t</td><td align="right">102</td><td>
 να έρθει και να τον καταστρέψει με πόνο.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">102</td><td>
+<tr><td>Bard</td><td align="right">102</td><td>
 θα έρθει, που θα την κάνει να πεθάνει με θλίψη.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">102</td><td>
+<tr><td>Bard-t</td><td align="right">102</td><td>
 που θα την κάνει να πεθάνει με πόνο."
 </td></tr>
 <tr><td>DeepL</td><td align="right">102</td><td>
@@ -3167,16 +3167,16 @@ Questi non ciberà terra né peltro,
 <tr><td>MIX</td><td align="right">103</td><td>
 Αυτός δεν θα τρώει γη ούτε κασσίτερο,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">103</td><td>
+<tr><td>ChatGPT</td><td align="right">103</td><td>
 Αυτός δεν θα τρέφει ούτε γη ούτε κασσίτερο,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">103</td><td>
+<tr><td>ChatGPT-t</td><td align="right">103</td><td>
 Αυτός δεν θα τρώει γη ή χαλκό,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">103</td><td>
+<tr><td>Bard</td><td align="right">103</td><td>
 Αυτός δεν θα τρώει γη ούτε κασσίτερο,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">103</td><td>
+<tr><td>Bard-t</td><td align="right">103</td><td>
 Αυτός δεν θα φάει γη ούτε κασσίτερο,
 </td></tr>
 <tr><td>DeepL</td><td align="right">103</td><td>
@@ -3198,16 +3198,16 @@ ma sapïenza, amore e virtute,
 <tr><td>MIX</td><td align="right">104</td><td>
 αλλά σοφία, αγάπη και αρετή,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">104</td><td>
+<tr><td>ChatGPT</td><td align="right">104</td><td>
 αλλά με σοφία, αγάπη και αρετή,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">104</td><td>
+<tr><td>ChatGPT-t</td><td align="right">104</td><td>
 αλλά σοφία, αγάπη και αρετή,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">104</td><td>
+<tr><td>Bard</td><td align="right">104</td><td>
 αλλά σοφία, αγάπη και αρετή,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">104</td><td>
+<tr><td>Bard-t</td><td align="right">104</td><td>
 αλλά σοφία, αγάπη και αρετή,
 </td></tr>
 <tr><td>DeepL</td><td align="right">104</td><td>
@@ -3229,16 +3229,16 @@ e sua nazion sarà tra feltro e feltro.
 <tr><td>MIX</td><td align="right">105</td><td>
 και το έθνος του θα είναι μεταξύ φελτρού και φελτρού.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">105</td><td>
+<tr><td>ChatGPT</td><td align="right">105</td><td>
 και το έθνος του θα είναι μεταξύ φελτρού και φελτρού.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">105</td><td>
+<tr><td>ChatGPT-t</td><td align="right">105</td><td>
 και η κοινότητά του θα είναι μεταξύ φελτρού και φελτρού."
 </td></tr>
-<tr><td>Bard-1</td><td align="right">105</td><td>
+<tr><td>Bard</td><td align="right">105</td><td>
 και η χώρα του θα είναι ανάμεσα σε feltro και feltro.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">105</td><td>
+<tr><td>Bard-t</td><td align="right">105</td><td>
 και η καταγωγή του θα είναι ανάμεσα σε φελτρού και φελτρού.
 </td></tr>
 <tr><td>DeepL</td><td align="right">105</td><td>
@@ -3260,16 +3260,16 @@ Di quella umile Italia fia salute
 <tr><td>MIX</td><td align="right">106</td><td>
 Από εκείνη την ταπεινή Ιταλία θα έρθει η σωτηρία,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">106</td><td>
+<tr><td>ChatGPT</td><td align="right">106</td><td>
 Από εκείνη την ταπεινή Ιταλία θα έρθει η σωτηρία,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">106</td><td>
+<tr><td>ChatGPT-t</td><td align="right">106</td><td>
 Από αυτήν την ταπεινή Ιταλία θα προέλθει σωτηρία,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">106</td><td>
+<tr><td>Bard</td><td align="right">106</td><td>
 Από αυτή την ταπεινή Ιταλία θα έρθει η υγεία
 </td></tr>
-<tr><td>Bard-2</td><td align="right">106</td><td>
+<tr><td>Bard-t</td><td align="right">106</td><td>
 Για εκείνη την ταπεινή Ιταλία θα είναι σωτηρία,
 </td></tr>
 <tr><td>DeepL</td><td align="right">106</td><td>
@@ -3291,16 +3291,16 @@ per cui morì la vergine Cammilla,
 <tr><td>MIX</td><td align="right">107</td><td>
 για την οποία πέθανε η παρθένα Καμίλα,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">107</td><td>
+<tr><td>ChatGPT</td><td align="right">107</td><td>
 για την οποία πέθανε η παρθένος Καμίλλα,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">107</td><td>
+<tr><td>ChatGPT-t</td><td align="right">107</td><td>
 για την οποία πέθανε η παρθένος Καμίλλα,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">107</td><td>
+<tr><td>Bard</td><td align="right">107</td><td>
 για την οποία πέθανε η παρθένος Καλλιρρόη,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">107</td><td>
+<tr><td>Bard-t</td><td align="right">107</td><td>
 για την οποία πέθανε η παρθένα Κάμελλα,
 </td></tr>
 <tr><td>DeepL</td><td align="right">107</td><td>
@@ -3322,16 +3322,16 @@ Eurialo e Turno e Niso di ferute.
 <tr><td>MIX</td><td align="right">108</td><td>
 Ευρυάλας και Τυρνό και Νίσος από πληγές.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">108</td><td>
+<tr><td>ChatGPT</td><td align="right">108</td><td>
 Ευρυάλος, Τούρνος και Νίσος από τραύματα.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">108</td><td>
+<tr><td>ChatGPT-t</td><td align="right">108</td><td>
 οι Ευρυάλος, ο Τούρνος και ο Νίσος από τραύματα.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">108</td><td>
+<tr><td>Bard</td><td align="right">108</td><td>
 Ευρυάλας και Τυρνό και Νίσος από πληγές.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">108</td><td>
+<tr><td>Bard-t</td><td align="right">108</td><td>
 ο Ευρύλοχος και ο Τυρνό και ο Νίσος από πληγές.
 </td></tr>
 <tr><td>DeepL</td><td align="right">108</td><td>
@@ -3353,16 +3353,16 @@ Questi la caccerà per ogne villa,
 <tr><td>MIX</td><td align="right">109</td><td>
 Αυτός θα την κυνηγήσει από κάθε πόλη,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">109</td><td>
+<tr><td>ChatGPT</td><td align="right">109</td><td>
 Αυτός θα την κυνηγήσει μέσα από κάθε χωριό,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">109</td><td>
+<tr><td>ChatGPT-t</td><td align="right">109</td><td>
 Αυτός θα την καταδιώξει σε κάθε χωριό,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">109</td><td>
+<tr><td>Bard</td><td align="right">109</td><td>
 Αυτός θα κυνηγήσει τη ζήλια μέσα από κάθε πόλη,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">109</td><td>
+<tr><td>Bard-t</td><td align="right">109</td><td>
 Αυτός θα την κυνηγήσει από κάθε πόλη,
 </td></tr>
 <tr><td>DeepL</td><td align="right">109</td><td>
@@ -3384,16 +3384,16 @@ fin che l’avrà rimessa ne lo ’nferno,
 <tr><td>MIX</td><td align="right">110</td><td>
 μέχρι να την ξαναφέρει στην Κόλαση,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">110</td><td>
+<tr><td>ChatGPT</td><td align="right">110</td><td>
 μέχρι να την ξαναβάλει μέσα στην κόλαση,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">110</td><td>
+<tr><td>ChatGPT-t</td><td align="right">110</td><td>
 μέχρι να την έχει ξαναβάλει στην κόλαση,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">110</td><td>
+<tr><td>Bard</td><td align="right">110</td><td>
 μέχρι να την έχει επιστρέψει στον Άδη,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">110</td><td>
+<tr><td>Bard-t</td><td align="right">110</td><td>
 μέχρι να την ξαναφέρει στην Κόλαση,
 </td></tr>
 <tr><td>DeepL</td><td align="right">110</td><td>
@@ -3415,16 +3415,16 @@ là onde ’nvidia prima dipartilla.
 <tr><td>MIX</td><td align="right">111</td><td>
 εκεί όπου η ζήλια πρώτα αποχωρίζεται.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">111</td><td>
+<tr><td>ChatGPT</td><td align="right">111</td><td>
 εκεί όπου η ζήλια πρώτα αποχωρίζεται.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">111</td><td>
+<tr><td>ChatGPT-t</td><td align="right">111</td><td>
 εκεί όπου η φθόνος πρώτα χωρίζεται.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">111</td><td>
+<tr><td>Bard</td><td align="right">111</td><td>
 εκεί από όπου η ζήλια την είχε αποχωρίσει πρώτα.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">111</td><td>
+<tr><td>Bard-t</td><td align="right">111</td><td>
 από όπου η ζήλια την απομάκρυνε πρώτα.
 </td></tr>
 <tr><td>DeepL</td><td align="right">111</td><td>
@@ -3446,16 +3446,16 @@ Ond’ io per lo tuo me’ penso e discerno
 <tr><td>MIX</td><td align="right">112</td><td>
 Γι' αυτό σκέφτομαι και διακρίνω για το καλό σου,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">112</td><td>
+<tr><td>ChatGPT</td><td align="right">112</td><td>
 Επομένως, σκέφτομαι περισσότερο για το χάρη σου και διακρίνω,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">112</td><td>
+<tr><td>ChatGPT-t</td><td align="right">112</td><td>
 Γι' αυτό σκέφτομαι και συμπεραίνω
 </td></tr>
-<tr><td>Bard-1</td><td align="right">112</td><td>
+<tr><td>Bard</td><td align="right">112</td><td>
 Επομένως σκέφτομαι και διακρίνω για το καλό σου,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">112</td><td>
+<tr><td>Bard-t</td><td align="right">112</td><td>
 Γι' αυτό σκέφτομαι και διακρίνω για το καλό σου,
 </td></tr>
 <tr><td>DeepL</td><td align="right">112</td><td>
@@ -3477,16 +3477,16 @@ che tu mi segui, e io sarò tua guida,
 <tr><td>MIX</td><td align="right">113</td><td>
 ότι με ακολουθείς, και εγώ θα είμαι ο οδηγός σου,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">113</td><td>
+<tr><td>ChatGPT</td><td align="right">113</td><td>
 ότι με ακολουθείς, και θα είμαι οδηγός σου,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">113</td><td>
+<tr><td>ChatGPT-t</td><td align="right">113</td><td>
 ότι με ακολουθείς, και θα είμαι ο οδηγός σου,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">113</td><td>
+<tr><td>Bard</td><td align="right">113</td><td>
 ότι με ακολουθείς, και εγώ θα είμαι ο οδηγός σου,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">113</td><td>
+<tr><td>Bard-t</td><td align="right">113</td><td>
 ότι πρέπει να με ακολουθήσεις, και εγώ θα είμαι ο οδηγός σου,
 </td></tr>
 <tr><td>DeepL</td><td align="right">113</td><td>
@@ -3508,16 +3508,16 @@ e trarrotti di qui per loco etterno;
 <tr><td>MIX</td><td align="right">114</td><td>
 και θα σε οδηγήσω από εδώ σε έναν αιώνιο τόπο·
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">114</td><td>
+<tr><td>ChatGPT</td><td align="right">114</td><td>
 και θα σε οδηγήσω από εδώ σε αιώνια μέρη.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">114</td><td>
+<tr><td>ChatGPT-t</td><td align="right">114</td><td>
 και θα σε οδηγήσω μακριά από εδώ σε αιώνιο τόπο·
 </td></tr>
-<tr><td>Bard-1</td><td align="right">114</td><td>
+<tr><td>Bard</td><td align="right">114</td><td>
 και θα σε οδηγήσω από εδώ σε έναν αιώνιο τόπο·
 </td></tr>
-<tr><td>Bard-2</td><td align="right">114</td><td>
+<tr><td>Bard-t</td><td align="right">114</td><td>
 και θα σε βγάσω από εδώ για έναν αιώνιο τόπο.
 </td></tr>
 <tr><td>DeepL</td><td align="right">114</td><td>
@@ -3539,16 +3539,16 @@ ove udirai le disperate strida,
 <tr><td>MIX</td><td align="right">115</td><td>
 όπου θα ακούσεις τις απελπισμένες κραυγές,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">115</td><td>
+<tr><td>ChatGPT</td><td align="right">115</td><td>
 όπου θα ακούσεις τις απελπισμένες κραυγές,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">115</td><td>
+<tr><td>ChatGPT-t</td><td align="right">115</td><td>
 εκεί θα ακούσεις τα απελπιστικά κλάματα,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">115</td><td>
+<tr><td>Bard</td><td align="right">115</td><td>
 όπου θα ακούσεις τις απελπισμένες κραυγές,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">115</td><td>
+<tr><td>Bard-t</td><td align="right">115</td><td>
 όπου θα ακούσεις τις απελπισμένες κραυγές,
 </td></tr>
 <tr><td>DeepL</td><td align="right">115</td><td>
@@ -3570,16 +3570,16 @@ vedrai li antichi spiriti dolenti,
 <tr><td>MIX</td><td align="right">116</td><td>
 Θα δεις τα αρχαία θλιμμένα πνεύματα...
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">116</td><td>
+<tr><td>ChatGPT</td><td align="right">116</td><td>
 θα δεις τα αρχαία πνεύματα που υποφέρουν,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">116</td><td>
+<tr><td>ChatGPT-t</td><td align="right">116</td><td>
 θα δεις τα παλιά πνεύματα των πονεμένων,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">116</td><td>
+<tr><td>Bard</td><td align="right">116</td><td>
 θα δεις τα αρχαία πενθούντα πνεύματα,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">116</td><td>
+<tr><td>Bard-t</td><td align="right">116</td><td>
 θα δεις τους αρχαίους πονεμένους πνεύματα,
 </td></tr>
 <tr><td>DeepL</td><td align="right">116</td><td>
@@ -3601,16 +3601,16 @@ ch’a la seconda morte ciascun grida;
 <tr><td>MIX</td><td align="right">117</td><td>
 Ότι όλοι φωνάζουν για τον δεύτερο θάνατο.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">117</td><td>
+<tr><td>ChatGPT</td><td align="right">117</td><td>
 που κραυγάζουν για τον δεύτερο θάνατο.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">117</td><td>
+<tr><td>ChatGPT-t</td><td align="right">117</td><td>
 που κραυγάζουν για το δεύτερο θάνατο·
 </td></tr>
-<tr><td>Bard-1</td><td align="right">117</td><td>
+<tr><td>Bard</td><td align="right">117</td><td>
 που καθένας κραυγάζει για τον δεύτερο θάνατο·
 </td></tr>
-<tr><td>Bard-2</td><td align="right">117</td><td>
+<tr><td>Bard-t</td><td align="right">117</td><td>
 που όλοι φωνάζουν για τη δεύτερη θάνατο;
 </td></tr>
 <tr><td>DeepL</td><td align="right">117</td><td>
@@ -3632,16 +3632,16 @@ e vederai color che son contenti
 <tr><td>MIX</td><td align="right">118</td><td>
 και θα δεις αυτούς που είναι ικανοποιημένοι,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">118</td><td>
+<tr><td>ChatGPT</td><td align="right">118</td><td>
 και θα δεις αυτούς που είναι ικανοποιημένοι,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">118</td><td>
+<tr><td>ChatGPT-t</td><td align="right">118</td><td>
 και θα δεις αυτούς που είναι ευτυχείς
 </td></tr>
-<tr><td>Bard-1</td><td align="right">118</td><td>
+<tr><td>Bard</td><td align="right">118</td><td>
 και θα δεις ανθρώπους που είναι ικανοποιημένοι
 </td></tr>
-<tr><td>Bard-2</td><td align="right">118</td><td>
+<tr><td>Bard-t</td><td align="right">118</td><td>
 και θα δεις αυτούς που είναι ικανοποιημένοι
 </td></tr>
 <tr><td>DeepL</td><td align="right">118</td><td>
@@ -3663,16 +3663,16 @@ nel foco, perché speran di venire
 <tr><td>MIX</td><td align="right">119</td><td>
 στη φωτιά, γιατί ελπίζουν να έρθουν
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">119</td><td>
+<tr><td>ChatGPT</td><td align="right">119</td><td>
 στη φωτιά, επειδή ελπίζουν να έλθουν
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">119</td><td>
+<tr><td>ChatGPT-t</td><td align="right">119</td><td>
 στη φωτιά, γιατί ελπίζουν να έρθουν
 </td></tr>
-<tr><td>Bard-1</td><td align="right">119</td><td>
+<tr><td>Bard</td><td align="right">119</td><td>
 στη φωτιά, επειδή ελπίζουν να έρθουν
 </td></tr>
-<tr><td>Bard-2</td><td align="right">119</td><td>
+<tr><td>Bard-t</td><td align="right">119</td><td>
 στη φωτιά, γιατί ελπίζουν να έρθουν
 </td></tr>
 <tr><td>DeepL</td><td align="right">119</td><td>
@@ -3694,16 +3694,16 @@ quando che sia a le beate genti.
 <tr><td>MIX</td><td align="right">120</td><td>
 όποτε θα είναι για τους ευλογημένους ανθρώπους.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">120</td><td>
+<tr><td>ChatGPT</td><td align="right">120</td><td>
 όταν έλθει η ώρα για τους ευλογημένους ανθρώπους.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">120</td><td>
+<tr><td>ChatGPT-t</td><td align="right">120</td><td>
 όποτε θα είναι για τους ευλογημένους ανθρώπους.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">120</td><td>
+<tr><td>Bard</td><td align="right">120</td><td>
 όταν θα έρθουν στις ευλογημένες ανθρώπους.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">120</td><td>
+<tr><td>Bard-t</td><td align="right">120</td><td>
 κάποια στιγμή στις ευτυχισμένες ψυχές.
 </td></tr>
 <tr><td>DeepL</td><td align="right">120</td><td>
@@ -3725,16 +3725,16 @@ A le quai poi se tu vorrai salire,
 <tr><td>MIX</td><td align="right">121</td><td>
 Στις οποίες μετά, αν θέλεις να ανέβεις,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">121</td><td>
+<tr><td>ChatGPT</td><td align="right">121</td><td>
 Σε αυτές, μετά αν θελήσεις να ανέβεις,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">121</td><td>
+<tr><td>ChatGPT-t</td><td align="right">121</td><td>
 Στα οποία μετά θέλεις να αναρριχηθείς,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">121</td><td>
+<tr><td>Bard</td><td align="right">121</td><td>
 Στο οποίο, τότε, αν θέλεις να ανεβείς,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">121</td><td>
+<tr><td>Bard-t</td><td align="right">121</td><td>
 Στις οποίες μετά, αν θέλεις να ανέβεις,
 </td></tr>
 <tr><td>DeepL</td><td align="right">121</td><td>
@@ -3756,16 +3756,16 @@ anima fia a ciò più di me degna:
 <tr><td>MIX</td><td align="right">122</td><td>
 η ψυχή θα είναι πιο αξιόλογη από μένα γι' αυτό:
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">122</td><td>
+<tr><td>ChatGPT</td><td align="right">122</td><td>
 μια ψυχή θα είναι περισσότερο αξίζουσα από εμένα:
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">122</td><td>
+<tr><td>ChatGPT-t</td><td align="right">122</td><td>
 η ψυχή θα είναι πιο αξιόλογη από μένα γι' αυτό:
 </td></tr>
-<tr><td>Bard-1</td><td align="right">122</td><td>
+<tr><td>Bard</td><td align="right">122</td><td>
 μια ψυχή θα είναι πιο αξιόλογη από αυτό από ό,τι εγώ:
 </td></tr>
-<tr><td>Bard-2</td><td align="right">122</td><td>
+<tr><td>Bard-t</td><td align="right">122</td><td>
 θα υπάρχει ψυχή πιο αξιόλογη γι' αυτό:
 </td></tr>
 <tr><td>DeepL</td><td align="right">122</td><td>
@@ -3787,16 +3787,16 @@ con lei ti lascerò nel mio partire;
 <tr><td>MIX</td><td align="right">123</td><td>
 Μαζί της θα σε αφήσω στην αναχώρησή μου.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">123</td><td>
+<tr><td>ChatGPT</td><td align="right">123</td><td>
 με αυτήν θα σε αφήσω στον αναχώρησή μου;
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">123</td><td>
+<tr><td>ChatGPT-t</td><td align="right">123</td><td>
 με αυτήν θα σε αφήσω κατά την αναχώρησή μου.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">123</td><td>
+<tr><td>Bard</td><td align="right">123</td><td>
 θα σε αφήσω μαζί της στην αναχώρησή μου·
 </td></tr>
-<tr><td>Bard-2</td><td align="right">123</td><td>
+<tr><td>Bard-t</td><td align="right">123</td><td>
 μαζί της θα σε αφήσω στο φευγιό μου;
 </td></tr>
 <tr><td>DeepL</td><td align="right">123</td><td>
@@ -3818,16 +3818,16 @@ ché quello imperador che là sù regna,
 <tr><td>MIX</td><td align="right">124</td><td>
 γιατί εκείνος ο αυτοκράτορας που βασιλεύει εκεί πάνω,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">124</td><td>
+<tr><td>ChatGPT</td><td align="right">124</td><td>
 γιατί εκείνος ο αυτοκράτορας που βασιλεύει εκεί πάνω,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">124</td><td>
+<tr><td>ChatGPT-t</td><td align="right">124</td><td>
 Γιατί ο αυτοκράτορας που βασιλεύει εκεί ψηλά,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">124</td><td>
+<tr><td>Bard</td><td align="right">124</td><td>
 επειδή αυτός ο αυτοκράτορας που βασιλεύει εκεί,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">124</td><td>
+<tr><td>Bard-t</td><td align="right">124</td><td>
 Γιατί εκείνος ο αυτοκράτορας που βασιλεύει εκεί ψηλά,
 </td></tr>
 <tr><td>DeepL</td><td align="right">124</td><td>
@@ -3849,16 +3849,16 @@ perch’ i’ fu’ ribellante a la sua legge,
 <tr><td>MIX</td><td align="right">125</td><td>
 επειδή ήμουν επαναστάτης ενάντια στον νόμο του,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">125</td><td>
+<tr><td>ChatGPT</td><td align="right">125</td><td>
 επειδή ήμουν ανταρσιώτης στον νόμο του,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">125</td><td>
+<tr><td>ChatGPT-t</td><td align="right">125</td><td>
 επειδή ήμουν επαναστάτης εναντίον του νόμου του,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">125</td><td>
+<tr><td>Bard</td><td align="right">125</td><td>
 επειδή εγώ ήμουν επαναστατικός απέναντι στη δική του νομοθεσία,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">125</td><td>
+<tr><td>Bard-t</td><td align="right">125</td><td>
 επειδή επαναστάτησα ενάντια στον νόμο του,
 </td></tr>
 <tr><td>DeepL</td><td align="right">125</td><td>
@@ -3880,16 +3880,16 @@ non vuol che ’n sua città per me si vegna.
 <tr><td>MIX</td><td align="right">126</td><td>
 δεν θέλει να έρθει κανείς στην πόλη του για μένα.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">126</td><td>
+<tr><td>ChatGPT</td><td align="right">126</td><td>
 δε θέλει να έρθει κανείς στην πόλη του για μένα.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">126</td><td>
+<tr><td>ChatGPT-t</td><td align="right">126</td><td>
 δε θέλει να έρχεται κανείς στην πόλη του εξ ονόματός μου.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">126</td><td>
+<tr><td>Bard</td><td align="right">126</td><td>
 δεν θέλει να έρθει κανείς στην πόλη του για μένα.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">126</td><td>
+<tr><td>Bard-t</td><td align="right">126</td><td>
 δεν θέλει να έρθει κανείς στην πόλη του μέσω εμού.
 </td></tr>
 <tr><td>DeepL</td><td align="right">126</td><td>
@@ -3911,16 +3911,16 @@ In tutte parti impera e quivi regge;
 <tr><td>MIX</td><td align="right">127</td><td>
 Σε όλα τα μέρη βασιλεύει και εκεί κυβερνά·
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">127</td><td>
+<tr><td>ChatGPT</td><td align="right">127</td><td>
 Σε όλα τα μέρη κυβερνά και εκεί διοικεί·
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">127</td><td>
+<tr><td>ChatGPT-t</td><td align="right">127</td><td>
 Εκεί κυριαρχεί παντού και εκεί καθορίζει,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">127</td><td>
+<tr><td>Bard</td><td align="right">127</td><td>
 Σε όλα τα μέρη βασιλεύει και εκεί κυβερνά·
 </td></tr>
-<tr><td>Bard-2</td><td align="right">127</td><td>
+<tr><td>Bard-t</td><td align="right">127</td><td>
 Σε όλες τις περιοχές βασιλεύει και εκεί κυβερνά,
 </td></tr>
 <tr><td>DeepL</td><td align="right">127</td><td>
@@ -3942,16 +3942,16 @@ quivi è la sua città e l’alto seggio:
 <tr><td>MIX</td><td align="right">128</td><td>
 εκεί είναι η πόλη του και ο ψηλό θρόνος του:
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">128</td><td>
+<tr><td>ChatGPT</td><td align="right">128</td><td>
 εκεί είναι η πόλη του και η ψηλή έδρα·
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">128</td><td>
+<tr><td>ChatGPT-t</td><td align="right">128</td><td>
 εκεί είναι η πόλη του και ο υψηλός θρόνος:
 </td></tr>
-<tr><td>Bard-1</td><td align="right">128</td><td>
+<tr><td>Bard</td><td align="right">128</td><td>
 εκεί είναι η πόλη του και ο υψηλός θρόνος·
 </td></tr>
-<tr><td>Bard-2</td><td align="right">128</td><td>
+<tr><td>Bard-t</td><td align="right">128</td><td>
 εκεί είναι η πόλη του και ο ψηλό θρόνος του:
 </td></tr>
 <tr><td>DeepL</td><td align="right">128</td><td>
@@ -3973,16 +3973,16 @@ oh felice colui cu’ ivi elegge!».
 <tr><td>MIX</td><td align="right">129</td><td>
 Ω, ευτυχισμένος αυτός που το εκλέγει εκεί!"
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">129</td><td>
+<tr><td>ChatGPT</td><td align="right">129</td><td>
 ω, ευτυχισμένος είναι αυτός που επιλέγει να είναι εκεί!".
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">129</td><td>
+<tr><td>ChatGPT-t</td><td align="right">129</td><td>
 Ω, ευτυχισμένος αυτός που το εκλέγει εκεί!"
 </td></tr>
-<tr><td>Bard-1</td><td align="right">129</td><td>
+<tr><td>Bard</td><td align="right">129</td><td>
 ω ευτυχισμένος εκείνος τον οποίο εκλέγει εκεί!"
 </td></tr>
-<tr><td>Bard-2</td><td align="right">129</td><td>
+<tr><td>Bard-t</td><td align="right">129</td><td>
 ευτυχισμένος αυτός που τον εκλέγει εκεί!".
 </td></tr>
 <tr><td>DeepL</td><td align="right">129</td><td>
@@ -4004,16 +4004,16 @@ E io a lui: «Poeta, io ti richeggio
 <tr><td>MIX</td><td align="right">130</td><td>
 Και εγώ του λέω: "Ποιητή, σε παρακαλώ
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">130</td><td>
+<tr><td>ChatGPT</td><td align="right">130</td><td>
 Και εγώ του λέω: "Ποιητά, σε ζητώ
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">130</td><td>
+<tr><td>ChatGPT-t</td><td align="right">130</td><td>
 Και εγώ του λέω: "Ποιητά, σε παρακαλώ,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">130</td><td>
+<tr><td>Bard</td><td align="right">130</td><td>
 Και εγώ σε αυτόν: "Ποιητή, σε παρακαλώ
 </td></tr>
-<tr><td>Bard-2</td><td align="right">130</td><td>
+<tr><td>Bard-t</td><td align="right">130</td><td>
 Και εγώ του λέω: "Ποιητή, σε παρακαλώ
 </td></tr>
 <tr><td>DeepL</td><td align="right">130</td><td>
@@ -4035,16 +4035,16 @@ per quello Dio che tu non conoscesti,
 <tr><td>MIX</td><td align="right">131</td><td>
 για εκείνον τον Θεό που δεν γνώριζες,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">131</td><td>
+<tr><td>ChatGPT</td><td align="right">131</td><td>
 για εκείνον το Θεό που δεν ήξερες,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">131</td><td>
+<tr><td>ChatGPT-t</td><td align="right">131</td><td>
 για εκείνον το Θεό που δεν γνώριζες,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">131</td><td>
+<tr><td>Bard</td><td align="right">131</td><td>
 για αυτόν τον Θεό που δεν γνώρισες,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">131</td><td>
+<tr><td>Bard-t</td><td align="right">131</td><td>
 για εκείνον τον Θεό που δεν γνώρισες,
 </td></tr>
 <tr><td>DeepL</td><td align="right">131</td><td>
@@ -4066,16 +4066,16 @@ acciò ch’io fugga questo male e peggio,
 <tr><td>MIX</td><td align="right">132</td><td>
 για να ξεφύγω από αυτό το κακό και το χειρότερο,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">132</td><td>
+<tr><td>ChatGPT</td><td align="right">132</td><td>
 ώστε να δραπετεύσω αυτό το κακό και το χειρότερο,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">132</td><td>
+<tr><td>ChatGPT-t</td><td align="right">132</td><td>
 ώστε να αποφύγω αυτό το κακό και το χειρότερο,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">132</td><td>
+<tr><td>Bard</td><td align="right">132</td><td>
 για να δραπετεύσω από αυτό το κακό και χειρότερο,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">132</td><td>
+<tr><td>Bard-t</td><td align="right">132</td><td>
 για να μπορέσω να ξεφύγω από αυτό το κακό και το χειρότερο,
 </td></tr>
 <tr><td>DeepL</td><td align="right">132</td><td>
@@ -4097,16 +4097,16 @@ che tu mi meni là dov’ or dicesti,
 <tr><td>MIX</td><td align="right">133</td><td>
 να με οδηγήσεις εκεί που είπες τώρα,
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">133</td><td>
+<tr><td>ChatGPT</td><td align="right">133</td><td>
 έτσι ώστε να με οδηγήσεις εκεί όπου είπες,
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">133</td><td>
+<tr><td>ChatGPT-t</td><td align="right">133</td><td>
 να με οδηγήσεις εκεί όπου μόλις είπες,
 </td></tr>
-<tr><td>Bard-1</td><td align="right">133</td><td>
+<tr><td>Bard</td><td align="right">133</td><td>
 ότι εσύ με οδηγείς εκεί όπου τώρα είπες,
 </td></tr>
-<tr><td>Bard-2</td><td align="right">133</td><td>
+<tr><td>Bard-t</td><td align="right">133</td><td>
 να με οδηγήσεις εκεί που είπες τώρα,
 </td></tr>
 <tr><td>DeepL</td><td align="right">133</td><td>
@@ -4128,16 +4128,16 @@ sì ch’io veggia la porta di san Pietro
 <tr><td>MIX</td><td align="right">134</td><td>
 Για να δω την πόρτα του Αγίου Πέτρου...
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">134</td><td>
+<tr><td>ChatGPT</td><td align="right">134</td><td>
 ώστε να δω την πύλη του Αγίου Πέτρου
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">134</td><td>
+<tr><td>ChatGPT-t</td><td align="right">134</td><td>
 ώστε να δω την πόρτα του Αγίου Πέτρου
 </td></tr>
-<tr><td>Bard-1</td><td align="right">134</td><td>
+<tr><td>Bard</td><td align="right">134</td><td>
 ναι για να δω την πύλη του αγίου Πέτρου
 </td></tr>
-<tr><td>Bard-2</td><td align="right">134</td><td>
+<tr><td>Bard-t</td><td align="right">134</td><td>
 για να δω την πύλη του Αγίου Πέτρου
 </td></tr>
 <tr><td>DeepL</td><td align="right">134</td><td>
@@ -4159,16 +4159,16 @@ e color cui tu fai cotanto mesti».
 <tr><td>MIX</td><td align="right">135</td><td>
 και εκείνους στους οποίους κάνεις τόσο λυπημένους».
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">135</td><td>
+<tr><td>ChatGPT</td><td align="right">135</td><td>
 και αυτούς που κάνεις τόσο λυπημένους.".
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">135</td><td>
+<tr><td>ChatGPT-t</td><td align="right">135</td><td>
 και αυτούς που τους κάνεις τόσο λυπημένους".
 </td></tr>
-<tr><td>Bard-1</td><td align="right">135</td><td>
+<tr><td>Bard</td><td align="right">135</td><td>
 και εκείνους τους οποίους εσύ κάνεις τόσο πολύ λυπημένους.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">135</td><td>
+<tr><td>Bard-t</td><td align="right">135</td><td>
 και εκείνους που κάνεις τόσο λυπημένους".
 </td></tr>
 <tr><td>DeepL</td><td align="right">135</td><td>
@@ -4190,16 +4190,16 @@ Allor si mosse, e io li tenni dietro.
 <tr><td>MIX</td><td align="right">136</td><td>
 Τότε σηκώθηκε και τον ακολούθησα πίσω.
 </td></tr>
-<tr><td>ChatGPT-1</td><td align="right">136</td><td>
+<tr><td>ChatGPT</td><td align="right">136</td><td>
 Τότε κινήθηκε, και εγώ τον κράτησα πίσω.
 </td></tr>
-<tr><td>ChatGPT-2</td><td align="right">136</td><td>
+<tr><td>ChatGPT-t</td><td align="right">136</td><td>
 Τότε ανακινήθηκε, και εγώ τον ακολούθησα.
 </td></tr>
-<tr><td>Bard-1</td><td align="right">136</td><td>
+<tr><td>Bard</td><td align="right">136</td><td>
 Τότε αυτός κινήθηκε, και εγώ κράτησα πίσω του.
 </td></tr>
-<tr><td>Bard-2</td><td align="right">136</td><td>
+<tr><td>Bard-t</td><td align="right">136</td><td>
 Τότε σηκώθηκε και τον ακολούθησα πίσω.
 </td></tr>
 <tr><td>DeepL</td><td align="right">136</td><td>
