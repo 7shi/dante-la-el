@@ -51,7 +51,9 @@ Scripts to assist with manual tasks that are difficult to automate.
 |--------|-------------|
 |[extract_line.py](https://github.com/7shi/dante-la-el/blob/main/scripts/extract_line.py)|Extract lines from a table.|
 |[extract_phrase.py](https://github.com/7shi/dante-la-el/blob/main/scripts/extract_phrase.py)|Extract phrases from the table. Check if the original text has not been changed.|
+|[fix_eo.py](https://github.com/7shi/dante-la-el/blob/main/scripts/fix_eo.py)|Convert x-convention to circumflex (^).|
 |[fix_grc.py](https://github.com/7shi/dante-la-el/blob/main/scripts/fix_grc.py)|Ancient Greek quotation marks at the beginning of lines are also applied to the translation.|
 |[fix_num.py](https://github.com/7shi/dante-la-el/blob/main/scripts/fixnum.py)|Corrected auto-numbered log section numbers.|
 |[greco_roman.py](https://github.com/7shi/dante-la-el/blob/main/scripts/greco_roman.py)|Transliteration of Ancient Greek into Latin characters using [greektrans](https://github.com/7shi/greektrans).|
 |[number.py](https://github.com/7shi/dante-la-el/blob/main/scripts/number.py)|Add line numbers to the text.|
+|[rm_trema.py](https://github.com/7shi/dante-la-el/blob/main/scripts/rm_trema.py)|Remove trema (¨) from the text.|
