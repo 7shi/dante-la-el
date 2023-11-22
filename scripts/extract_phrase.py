@@ -25,11 +25,13 @@ for n in nums.keys():
     table = data[k][0]
     rows = table[2:]
     src = lines[n - 1]
+    output = True
     while rows:
         row = rows.pop(0)
         if not src and n < e:
             src = lines[n]
             n += 1
+            output = True
         t = row[0]
         if (p := src.find(t)) >= 0:
             t = src[:p + len(t)]
@@ -38,6 +40,11 @@ for n in nums.keys():
             print(f"Error [{n}]: {t} | {src}", file=sys.stderr)
             src = ""
             break
-        print(f"| {n} | {t} | {row[1]} | {row[2]} |")
+        if output:
+            print(f"| {n} | {t} | {row[1]} | {row[2]} |")
+            output = False
+        else:
+            nsp = " " * len(str(n))
+            print(f"| {nsp} | {t} | {row[1]} | {row[2]} |")
     if src:
         print(f"Left [{n}]: {src}", file=sys.stderr)
