@@ -16,7 +16,7 @@ nums = {int(m.group(1)): k for k in data.keys() if (m := re.match("(\d+)", k))}
 lines = [l for line in readlines(args[1]) if (l := line.strip())]
 
 print("| Line | Italian | English | Japanrse |")
-print("| ----:| ------- | ------- | -------- |")
+print("|-----:|---------|---------|----------|")
 for n in nums.keys():
     k = nums[n]
     e = n
