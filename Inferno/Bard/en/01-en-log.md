@@ -52,8 +52,8 @@ Studying Italian with the Divine Comedy can be a challenging but rewarding exper
 
 **English translation:**
 
-In the middle of the journey of our life,
-I found myself in a dark forest,
+In the middle of the journey of our life,  
+I found myself in a dark forest,  
 Because I had lost the straight path.
 
 ## 4-6
@@ -90,8 +90,8 @@ Because I had lost the straight path.
 
 **English translation:**
 
-Oh, how difficult it is to describe
-This wild, harsh, and strong forest,
+Oh, how difficult it is to describe  
+This wild, harsh, and strong forest,  
 Which renews the fear in my thought!
 
 Note that the word "esta" is an archaic form of "questo" (this).
@@ -131,8 +131,8 @@ Note that the word "esta" is an archaic form of "questo" (this).
 
 **English translation:**
 
-It is so bitter that death is but little more;
-But to treat of the good that I found there,
+It is so bitter that death is but little more;  
+But to treat of the good that I found there,  
 I will tell of the other things that I saw there.
 
 Note that the word "i’" is a contraction of "io" (I).
@@ -167,8 +167,8 @@ Note that the word "i’" is a contraction of "io" (I).
 
 **English translation:**
 
-I cannot well tell you how I entered there,
-So full of sleep was I at that point
+I cannot well tell you how I entered there,  
+So full of sleep was I at that point  
 That I abandoned the true path.
 
 Note that the word "v’intrai" is a contraction of "vi entrai" (I entered there).
@@ -206,8 +206,8 @@ Note that the word "v’intrai" is a contraction of "vi entrai" (I entered there
 
 **English translation:**
 
-But when I arrived at the foot of a hill,
-There where that valley ended
+But when I arrived at the foot of a hill,  
+There where that valley ended  
 Which had pierced my heart with fear,
 
 Note that the word "m’avea" is a contraction of "mi aveva" (had me).
@@ -245,8 +245,8 @@ Note that the word "m’avea" is a contraction of "mi aveva" (had me).
 
 **English translation:**
 
-I looked up and saw its shoulders
-Already clothed with the rays of the planet
+I looked up and saw its shoulders  
+Already clothed with the rays of the planet  
 That leads others straight through every road.
 
 Note that the word "altrui" is a third-person pronoun meaning "others."
@@ -284,8 +284,8 @@ Note that the word "altrui" is a third-person pronoun meaning "others."
 
 **English translation:**
 
-Then the fear was somewhat quieted,
-Which had lasted in the lake of my heart
+Then the fear was somewhat quieted,  
+Which had lasted in the lake of my heart  
 The night that I spent with such pity.
 
 Note that the word "pieta" can also mean "compassion" or "mercy" in this context.
@@ -323,8 +323,8 @@ Note that the word "pieta" can also mean "compassion" or "mercy" in this context
 
 **English translation:**
 
-And as he who with panting breath,
-Having gone out of the ocean to the shore,
+And as he who with panting breath,  
+Having gone out of the ocean to the shore,  
 Turns to the dangerous water and looks at it,
 
 Note that the word "pelago" can also mean "sea" or "gulf."
@@ -359,8 +359,8 @@ Note that the word "pelago" can also mean "sea" or "gulf."
 
 **English translation:**
 
-Thus my soul, which still fled,
-Turned behind to look again at the passage
+Thus my soul, which still fled,  
+Turned behind to look again at the passage  
 That never yet left anyone alive.
 
 Note that the word "passo" can also mean "step" or "footprint" in this context.
@@ -401,8 +401,8 @@ Note that the word "passo" can also mean "step" or "footprint" in this context.
 
 **English translation:**
 
-Then, when I had rested my weary body a little,
-I resumed my way along the deserted shore,
+Then, when I had rested my weary body a little,  
+I resumed my way along the deserted shore,  
 So that my right foot was always the lowest.
 
 In this passage, Dante is describing how he began to ascend the mountain of Hell. He had been overcome with fear and despair, but after resting for a while, he found the courage to continue on his journey. He walked along the shore of the river Acheron, which separates the living from the dead. As he walked, he kept his right foot on the ground, as if to remind himself that he was still alive.
@@ -437,8 +437,8 @@ In this passage, Dante is describing how he began to ascend the mountain of Hell
 
 **English translation:**
 
-And behold, almost at the beginning of the slope,
-A leopard light and very quick,
+And behold, almost at the beginning of the slope,  
+A leopard light and very quick,  
 That was covered with spotted fur;
 
 This passage describes the first of the three beasts that Dante encounters on his journey through Hell. The leopard is a symbol of lust, and its appearance represents the temptation that Dante must overcome in order to continue his journey. The leopard is described as being light and quick, which suggests that it is difficult to resist. The spotted fur also suggests that lust is a complex and multifaceted sin.
@@ -476,8 +476,8 @@ This passage describes the first of the three beasts that Dante encounters on hi
 
 **English translation:**
 
-And it did not part from before my face,
-Instead it prevented my journey so much,
+And it did not part from before my face,  
+Instead it prevented my journey so much,  
 That I was about to turn back many times.
 
 In this passage, Dante describes how the leopard prevented him from continuing his journey. The leopard was so close to Dante that it blocked his path. This suggests that lust is a powerful temptation that can be difficult to resist. Dante was even tempted to turn back and give in to his lust.
@@ -516,8 +516,8 @@ The phrase "più volte vòlto" can be translated as "many times turned." This su
 
 **Translation:**
 
-It was the beginning of the morning,
-And the sun was rising with those stars
+It was the beginning of the morning,  
+And the sun was rising with those stars  
 That were with him when the divine love
 
 This passage describes the time of day when Dante begins his journey through Hell. It was early in the morning, and the sun was rising. This suggests that Dante's journey is a new beginning, and that he is hopeful for the future. The stars that accompany the sun are a symbol of hope and guidance. They suggest that Dante will not be alone on his journey, and that he will have divine assistance.
@@ -555,8 +555,8 @@ The phrase "l'amor divino" can be translated as "the divine love." This is a ref
 
 **Translation:**
 
-The beautiful things moved first,
-So that the beast with the gay skin
+The beautiful things moved first,  
+So that the beast with the gay skin  
 Was a cause for me to hope well.
 
 This passage continues the description of the time of day when Dante begins his journey through Hell. The beautiful things that Dante refers to are the rising sun and the accompanying stars. These things gave Dante hope for the future and helped him to overcome the temptation of the leopard.
@@ -596,8 +596,8 @@ The phrase "di quella fiera a la gaetta pelle" can be translated as "of that bea
 
 **Translation:**
 
-The hour of the time and the sweet season;
-But not so much that fear did not give me
+The hour of the time and the sweet season;  
+But not so much that fear did not give me  
 The sight that appeared to me of a lion.
 
 This passage continues the description of Dante's journey through Hell. The hour of the time and the sweet season are a reference to the beautiful things that Dante saw at the beginning of his journey. These things gave him hope for the future, but they were not enough to overcome the fear that he felt when he saw the lion.
@@ -638,8 +638,8 @@ The word "paura" can be translated as "fear." This suggests that Dante was deepl
 
 **Translation:**
 
-> This one seemed to come against me
-> With his head high and angry hunger,
+> This one seemed to come against me  
+> With his head high and angry hunger,  
 > So that it seemed that the air trembled.
 
 This passage describes the appearance of the lion. The lion is described as having a high head and angry hunger. This suggests that the lion is arrogant and aggressive. The phrase "sì che parea che l'aere ne tremesse" can be translated as "so that it seemed that the air trembled." This suggests that the lion's presence was so powerful that it even caused the air to tremble.
@@ -678,7 +678,7 @@ The lion's appearance represents the temptation of pride. Pride is a powerful si
 
 **Translation:**
 
-> And a she-wolf, that seemed laden with all desires
+> And a she-wolf, that seemed laden with all desires  
 > In her leanness, and made many people live miserably,
 
 This passage describes the third and final beast that Dante encounters on his journey through Hell. The she-wolf is a symbol of avarice, and its appearance represents the temptation that Dante must overcome in order to continue his journey.
@@ -732,8 +732,8 @@ Overall, I think that the second version of the translation is more accurate and
 
 Translation:
 
-This offered me so much of weight,
-With the fear that came out of her sight,
+This offered me so much of weight,  
+With the fear that came out of her sight,  
 That I lost the hope of the height.
 
 The speaker is describing the feeling of being overwhelmed with fear and hopelessness.
@@ -773,8 +773,8 @@ The speaker is describing the feeling of being overwhelmed with fear and hopeles
 
 Translation:
 
-And like one who willingly acquires,
-And the time comes that makes him lose it,
+And like one who willingly acquires,  
+And the time comes that makes him lose it,  
 Who in all his thoughts cries and saddens;
 
 This passage is describing the feeling of loss and regret. The speaker is comparing himself to someone who has lost something they valued. The use of the word "volentieri" (willingly) suggests that the loss was unexpected or unwanted. The speaker's thoughts are filled with sadness and regret.
@@ -812,8 +812,8 @@ This passage is describing the feeling of loss and regret. The speaker is compar
 
 Translation:
 
-Such made me the beast without peace,
-That coming towards me, little by little,
+Such made me the beast without peace,  
+That coming towards me, little by little,  
 Pushed me back there where the sun is silent.
 
 The speaker is describing the beast as a symbol of fear and despair. The beast is "without peace" and it pushes the speaker back to a place where the sun is silent, suggesting a place of darkness and death.
@@ -853,8 +853,8 @@ This passage is also significant because it introduces the theme of the journey.
 
 **Translation:**
 
-While I was falling into a low place,
-Before my eyes was offered to me
+While I was falling into a low place,  
+Before my eyes was offered to me  
 Someone who seemed weak from long silence.
 
 **Summary table:**
@@ -901,8 +901,8 @@ This passage introduces the character of Virgil, who will be Dante's guide throu
 
 **Translation:**
 
-64 When I saw this one in the great desert,
-65 "Have mercy on me," I cried to him,
+64 When I saw this one in the great desert,  
+65 "Have mercy on me," I cried to him,  
 66 "whether you are a shadow or a certain man!"
 
 **Line-by-line table:**
@@ -955,8 +955,8 @@ The word "diserto" (desert) is significant because it suggests a place of isolat
 
 **Translation:**
 
-He replied to me, "Not a man, but a man I once was,
-And my parents were Lombards,
+He replied to me, "Not a man, but a man I once was,  
+And my parents were Lombards,  
 Both from Mantua."
 
 In these lines, Virgil reveals his identity to Dante. He tells Dante that he was once a man, and that his parents were from Mantua in Lombardy. This is a significant passage because it establishes Virgil as a credible guide for Dante. Virgil is a scholar and a poet, and he has a deep understanding of the human condition. He is also familiar with the geography of Hell, which will be essential for Dante's journey.
@@ -1021,8 +1021,8 @@ I hope this is helpful!
 
 **Translation:**
 
-I was born under Julius Caesar, even though it was late,
-And I lived in Rome under the good Augustus
+I was born under Julius Caesar, even though it was late,  
+And I lived in Rome under the good Augustus  
 In the time of the false and lying gods.
 
 **Line-by-line table:**
@@ -1075,8 +1075,8 @@ I hope this is helpful!
 
 **Translation:**
 
-I was a poet, and I sang of that just
-Son of Anchises who came from Troy,
+I was a poet, and I sang of that just  
+Son of Anchises who came from Troy,  
 After proud Ilium was burned.
 
 **Line-by-line table:**
@@ -1136,8 +1136,8 @@ I hope this is helpful!
 
 **Translation:**
 
-But you, why do you return to so much boredom?
-Why don't you climb the delightful mountain
+But you, why do you return to so much boredom?  
+Why don't you climb the delightful mountain  
 That is the beginning and cause of all joy?"
 
 In these lines, Virgil asks Dante why he is returning to Hell. He suggests that Dante should be climbing Mount Purgatory, which is the path to salvation.
@@ -1191,8 +1191,8 @@ The phrase "principio e cagion di tutta gioia" (beginning and cause of all joy) 
 
 **Translation:**
 
-"Now are you that Virgil and that fountain
-That spreads of speaking so wide river?"
+"Now are you that Virgil and that fountain  
+That spreads of speaking so wide river?"  
 I replied to him with ashamed forehead.
 
 In these lines, Dante expresses his awe and admiration for Virgil. He calls Virgil "quel Virgilio" (that Virgil), which suggests that he is referring to the famous poet of ancient Rome. He also calls Virgil "quella fonte" (that fountain), which suggests that Virgil is a source of great wisdom and inspiration.
@@ -1247,9 +1247,9 @@ The phrase "con vergognosa fronte" (with ashamed forehead) suggests that Dante i
 
 **Translation:**
 
-"O honor and light of the other poets,
-May the long study and the great love
-That has made me seek your volume
+"O honor and light of the other poets,  
+May the long study and the great love  
+That has made me seek your volume  
 Be of use to me."
 
 In these lines, Dante addresses Virgil as "O de li altri poeti onore e lume" (O honor and light of the other poets). This is a high compliment, and it suggests that Dante considers Virgil to be one of the greatest poets of all time.
@@ -1305,8 +1305,8 @@ The phrase "che m’ ha fatto cercar lo tuo volume" (that has made me seek your 
 
 **Translation:**
 
-"You are my teacher and my author,
-You are only he from whom I took
+"You are my teacher and my author,  
+You are only he from whom I took  
 The beautiful style that has made me honor."
 
 In these lines, Dante expresses his deep gratitude to Virgil. He says that Virgil is his teacher and his inspiration. He owes his success as a poet to Virgil's guidance and instruction.
@@ -1361,8 +1361,8 @@ The lines "Tu se’ lo mio maestro e ’l mio autore" (You are my teacher and my
 
 **Translation:**
 
-"See the beast for whom I turned;
-Help me from her, famous wise man,
+"See the beast for whom I turned;  
+Help me from her, famous wise man,  
 For she makes me tremble my veins and wrists."
 
 In these lines, Dante is begging Virgil for help. He is terrified of the beast, and he knows that he cannot defeat it on his own. He is asking Virgil to use his wisdom and power to protect him.
@@ -1413,8 +1413,8 @@ These lines are important because they show Dante's vulnerability and his need f
 
 **Translation:**
 
-"It is necessary for you to take another journey,"
-He replied, when he saw me weeping,
+"It is necessary for you to take another journey,"  
+He replied, when he saw me weeping,  
 "if you wish to live in this savage place;
 
 In these lines, Virgil tells Dante that he must take a different path if he wants to escape from Hell. The path that Dante is currently on is leading him to destruction.
@@ -1467,8 +1467,8 @@ The lines "se vuo’ campar d’esto loco selvaggio" (if you wish to live in thi
 
 **Translation:**
 
-"Because this beast, for which you cry,
-Does not let anyone pass through its way,
+"Because this beast, for which you cry,  
+Does not let anyone pass through its way,  
 But so much it prevents him that it kills him;"
 
 In these lines, Virgil explains to Dante that the beast he is afraid of is a dangerous creature that will not let anyone pass through its way. The beast is a symbol of sin and temptation, and it represents the obstacles that Dante must overcome in order to find salvation.
@@ -1522,8 +1522,8 @@ The phrase "ma tanto lo ’mpedisce che l’uccide" (but so much it prevents him
 
 **Translation:**
 
-"And it has a nature so wicked and evil,
-That it never fills the greedy desire,
+"And it has a nature so wicked and evil,  
+That it never fills the greedy desire,  
 And after the meal it has more hunger than before."
 
 In these lines, Virgil further describes the beast as a creature with a wicked and insatiable nature. The beast is always hungry, and it is never satisfied. This makes it a particularly dangerous opponent for Dante, who is already struggling with his own sins and temptations.
