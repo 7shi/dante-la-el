@@ -12,13 +12,13 @@
 
 Sure, here is the result in three lines of English:
 
-Lo giorno se n'andava, e l'aere bruno
+Lo giorno se n'andava, e l'aere bruno  
 The day was going, and the dusky air
 
-toglieva li animai che sono in terra
+toglieva li animai che sono in terra  
 was taking the living things that are on earth
 
-da le fatiche loro; e io sol uno
+da le fatiche loro; e io sol uno  
 from their fatigues, and I alone
 
 ## 4-6
@@ -33,13 +33,13 @@ from their fatigues, and I alone
 
 Sure, here is the result in three lines of English:
 
-m'apparecchiava a sostener la guerra
-I was preparing to sustain the war
- 
-sì del cammino e sì de la pietate,
-alike of the road, and of the woe
- 
-che ritrarrà la mente che non erra.
+m'apparecchiava a sostener la guerra  
+I was preparing to sustain the war  
+   
+sì del cammino e sì de la pietate,  
+alike of the road, and of the woe  
+   
+che ritrarrà la mente che non erra.  
 which the mind that erreth not shall retrace.
 
 ## 7-9
@@ -54,13 +54,13 @@ which the mind that erreth not shall retrace.
 
 Sure, here is the result in three lines of English:
 
-O muse, o alto ingegno, or m'aiutate;
-O Muses, O lofty genius, now assist me!
- 
-o mente che scrivesti ciò ch'io vidi,
-O mind that didst inscribe that which I saw,
- 
-qui si parrà la tua nobilitate.
+O muse, o alto ingegno, or m'aiutate;  
+O Muses, O lofty genius, now assist me!  
+   
+o mente che scrivesti ciò ch'io vidi,  
+O mind that didst inscribe that which I saw,  
+   
+qui si parrà la tua nobilitate.  
 here shall thy nobility appear!
 
 ## 10-12
@@ -75,13 +75,13 @@ here shall thy nobility appear!
 
 Sure, here is the result in three lines of English:
 
-Io cominciai: "Poeta che mi guidi,
-I began: “Poet, that guidest me,
- 
-guarda la mia virtù s'ell'è possente,
-consider my virtue, if it is sufficient,
- 
-prima ch'a l'alto passo tu mi fidi.
+Io cominciai: "Poeta che mi guidi,  
+I began: “Poet, that guidest me,  
+   
+guarda la mia virtù s'ell'è possente,  
+consider my virtue, if it is sufficient,  
+   
+prima ch'a l'alto passo tu mi fidi.  
 ere to the deep pass thou trustest me.”
 
 ## 13-15
@@ -96,13 +96,13 @@ ere to the deep pass thou trustest me.”
 
 Sure, here is the result in three lines of English:
 
-Tu dici che di Silvïo il parente,
-Thou sayest that the parent of Silvius
- 
-corruttibile ancora, ad immortale
-while still corruptible, to the immortal
- 
-secolo andò, e fu sensibilmente.
+Tu dici che di Silvïo il parente,  
+Thou sayest that the parent of Silvius  
+   
+corruttibile ancora, ad immortale  
+while still corruptible, to the immortal  
+   
+secolo andò, e fu sensibilmente.  
 world went, and there in the body was.
 
 ## 16-18
@@ -117,13 +117,13 @@ world went, and there in the body was.
 
 Sure, here's the result in three lines of English:
 
-Però, se l'avversario d'ogne male
-Wherefore if the Adversary of every ill
- 
-cortese i fu, pensando l'alto effetto
-was then courteous, thinking on the high effect
- 
-ch'uscir dovea di lui, e 'l chi e 'l quale
+Però, se l'avversario d'ogne male  
+Wherefore if the Adversary of every ill  
+   
+cortese i fu, pensando l'alto effetto  
+was then courteous, thinking on the high effect  
+   
+ch'uscir dovea di lui, e 'l chi e 'l quale  
 that should proceed from him, and on the Who and the What.
 
 ## 19-21
