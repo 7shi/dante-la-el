@@ -54,6 +54,16 @@ The narrator is hesitant about embarking on the journey through the afterlife, f
 
 Virgil explains that Beatrice spoke to the saint Lucia about helping the narrator, who then told Rachel, and the three of them petitioned God to allow Virgil to come to the narrator's aid. Virgil says he is not afraid to go through Hell because he is a spirit and cannot be harmed by the flames. With this encouragement, the narrator agrees to continue, feeling renewed commitment and courage to undertake the journey through the Inferno with Virgil as his guide.
 
+## 1-2
+
+    Please summarize Canto 1 and 2 for each Canto in sentence form, not bullet points.
+
+Here are sentence summaries of Cantos 1 and 2:
+
+Canto 1: Lost in a dark forest, Dante is terrified by three beasts until the spirit of the Roman poet Virgil appears and encourages Dante to overcome his fear so Virgil can guide him on a journey through the afterlife to reach spiritual enlightenment.
+
+Canto 2: Dante follows Virgil but has doubts about his worthiness for the journey until Virgil assures Dante he was sent by Heavenly messengers to help him, restoring Dante's confidence so he resolutely continues despite the arduous path ahead.
+
 ## 3
 
     This is a translation of Dante's Divine Comedy Inferno Canto 3. Please summarize it.
