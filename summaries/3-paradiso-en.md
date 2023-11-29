@@ -8,7 +8,7 @@ Arriving in the Sun's glowing orb, Dante meets the doctors of wisdom Thomas Aqui
 
 In Saturn's contemplative sphere, Dante speaks with ascetics like St. Benedict and St. Peter Damian. Among the celestial ladder of saints and angels in the Fixed Stars' shining realm, Dante is examined by St. Peter on faith before meeting the heavenly founder Adam. In the Primum Mobile's wheeling dance binding the cosmos, Dante beholds radiant angelic hierarchies adoring the light of God. Through the mystic Empyrean heaven of pure light and God's immanent presence, Dante passes enormous angelic choirs singing glories to the Virgin Mary with saints and Adam's blessed progeny. His vision climaxes with transcendentuniversal Truth when Dante gazes into infinite eternal Love, the Light moved by Its own goodness binding the order underlying all creation's multiplicity, the ultimate origin, purpose and bliss underpinning Dante's supreme poetic vision.
 
-## 1
+## Canto 1
 
 The poet calls upon Apollo for inspiration and recounts a vision of ascending into the heavenly sphere of Paradise, guided by his beloved Beatrice, who urges him to gratefully fix his sights upon God.
 
@@ -23,7 +23,7 @@ The poet calls upon Apollo for inspiration and recounts a vision of ascending in
 - She says all things have an order reflecting divine purpose
 - The poet should not wonder at his ascent more than at a stream descending a mountain
 
-## 2
+## Canto 2
 
 The poet tells how some of his followers voyage with him while warning others to turn back, then describes arriving in the sphere of the Moon with Beatrice where he struggles to comprehend the magnificent sights.
 
@@ -38,7 +38,7 @@ The poet tells how some of his followers voyage with him while warning others to
 - The mingling of virtue makes the light differ across stars and planets  
 - Beatrice says this causes the differing darkness and brightness, not dense matter
 
-## 3
+## Canto 3
 
 The poet beholds visions of souls prompting him to speak before Beatrice explains they broke vows but now abide happily in Paradise, and though she encourages him to listen, his intense distraction makes focusing difficult.  
 
@@ -53,7 +53,7 @@ The poet beholds visions of souls prompting him to speak before Beatrice explain
 - Piccarda was forced back into secular life but in spirit kept her nun's vows 
 - She points out another who was also forced to leave convent then vanishes singing
 
-## 4
+## Canto 4
 
 Struggling internally between questions, the poet falls silent before Beatrice elucidates spiritual placement in the heavens and how violence against vows may be mitigated by fear, reconciling an apparent contradiction.
 
@@ -68,7 +68,7 @@ Struggling internally between questions, the poet falls silent before Beatrice e
 - The poet is overflowing with gratitude for Beatrice's wisdom dispelling doubts
 - He humbly asks one more question about compensating for broken vows
 
-## 5
+## Canto 5
 
 Answering the poet's earnest query, Beatrice discusses the inestimable value of free will in vows made with the divine, argues against substitutions without knowing the spiritual trade-offs involved, and admonishes Christians to soberly consider holy pacts, lest they merit mockery.  
 
@@ -83,7 +83,7 @@ Answering the poet's earnest query, Beatrice discusses the inestimable value of 
 - The poet sees countless blessed souls drawing near full of joy
 - One spirit invites the poet's questions then grows too bright to see
 
-## 6
+## Canto 6
 
 Justinian speaks to Dante about the history and significance of the Roman empire and its legacy, criticizing opposing political factions in 4 sentences.  
 
@@ -98,7 +98,7 @@ Justinian speaks to Dante about the history and significance of the Roman empire
 - Heavenly rewards match earthly merits; diversity makes harmony in spheres
 - Romeo of Villeneuve served Raymond Berenger loyally but was treated poorly
 
-## 7
+## Canto 7
 
 Beatrice explains the justice of divine vengeance for Adam's sin and redemption through Christ's sacrifice, saying that God freely gives goodness which spurns envy.  
 
@@ -114,7 +114,7 @@ Beatrice explains the justice of divine vengeance for Adam's sin and redemption 
 - She explains how matter and the elements derive from God's creation
 - From this Dante can contemplate resurrection, as human flesh was specially made
 
-## 8
+## Canto 8
 
 Dante ascends to Venus and encounters the spirit of Charles Martel who criticizes the greed and poor rule of leaders, while Dante wonders how sweet origins yield bitter outcomes.
 
@@ -129,7 +129,7 @@ Dante ascends to Venus and encounters the spirit of Charles Martel who criticize
 - He explains how natures differ, producing a Solon here, a Xerxes there
 - But forced vocations oppose nature's foundation, harming society and religion      
 
-## 9
+## Canto 9
 
 Cunizza and Rahab appear in the Venus sphere, the former prophesying conflicts among Italian cities, the latter criticizing Rome’s neglect of the Gospels for earthly power.  
 
@@ -144,7 +144,7 @@ Cunizza and Rahab appear in the Venus sphere, the former prophesying conflicts a
 - The Pope and Cardinals ignore Christ's steps focused on laws and earthly power
 - Rome's holy sites will soon be freed from this spiritual adultery
 
-## 10
+## Canto 10
 
 Dante gazes on the profound art of the cosmic order from the Sun, encounters wise theologians praising divine grace and vision, then hears spirits beautifully singing of joyful wisdom beyond comprehension.
 
@@ -159,7 +159,7 @@ Dante gazes on the profound art of the cosmic order from the Sun, encounters wis
 - Isidore, Bede, Richard, Siger are hailed for theology and teaching
 - These lights sing wonderfully of divine joy beyond comprehension
 
-## 11
+## Canto 11
 
 Dante reflects on the pointlessness of worldly pursuits compared to heavenly bliss, then hears an elucidating spirit speak of the Church's guides Francis of Assisi and his complete devotion to spiritual poverty and love.  
 
@@ -174,7 +174,7 @@ Dante reflects on the pointlessness of worldly pursuits compared to heavenly bli
 - St. Francis set the Church back on course like St. Peter, but his present-day followers have strayed from his example of poverty and humility.
 - The spirit implies the failures of some Franciscans do not diminish St. Francis' holy legacy.
 
-## 12
+## Canto 12
 
 Dante beholds bright rings of spinning spirits that pause to have one praise spiritual leader Dominic, who combatted heresy and steered the Church aright by his order though his modern followers drift.
 
@@ -189,7 +189,7 @@ Dante beholds bright rings of spinning spirits that pause to have one praise spi
 - Still, Dominic's initial holy intentions and influence remain, the spirit argues.
 - It praises Dominic so highly thanks in part to the words of Thomas Aquinas.
 
-## 13
+## Canto 13
 
 Attempting to help Dante visualize splendid concentric spirit rings, a light explains perfect infusion of God's Light in Christ and Mary beyond all else, while Solomon had peerless wisdom for a king though all have different gifts.  
 
@@ -204,7 +204,7 @@ Attempting to help Dante visualize splendid concentric spirit rings, a light exp
 - Judge slowly, as the thorn bears the rose or ships sink at harbor despite smooth sailing.
 - The judgments of God may raise up sinners and humble the pious unlike human eyes can tell.
 
-## 14
+## Canto 14
 
 Spirits rejoice singing that resurrected they will intensify in vision and brightness, seen after by Dante amid a galaxy-like cross and cacophony of sublime beauty beyond description.
 
@@ -219,7 +219,7 @@ Spirits rejoice singing that resurrected they will intensify in vision and brigh
 - The intersecting lights make angelic music, compared to varied strings blending harmoniously. 
 - Dante hears a call to "Arise and conquer!" but focuses too raptly on the sights to grasp the hymn.
 
-## 15
+## Canto 15
 
 A spirit asks how Dante could deny the silent spirits' prayer before describing Florence's former temperance and families intact, Cacciaguida's own baptism and martyrdom, and the Church's fault enabling the city's worsened leadership.
 
@@ -234,7 +234,7 @@ A spirit asks how Dante could deny the silent spirits' prayer before describing 
 - He followed Emperor Conrad against the Church's corruption that now enables Florence's bad leadership.  
 - But Cacciaguida finds heavenly peace, and shares more with Dante about his origins.
 
-## 16
+## Canto 16
 
 Dante asks his ancestor Cacciaguida about his origins and family history in a proud Florence which has now declined morally due to the mixing of people over time.  
 
@@ -249,7 +249,7 @@ Dante asks his ancestor Cacciaguida about his origins and family history in a pr
 - Florence was once harmonious, unified under the lily banner, before later troubles
 - Cacciaguida implies Florence's golden age has passed due to infiltration of outsiders
 
-## 17
+## Canto 17
 
 Cacciaguida prophecies and encourages Dante regarding the injustice and exile he will face from Florence, urging him to write freely without fear or desire for fame.
 
@@ -264,7 +264,7 @@ Cacciaguida prophecies and encourages Dante regarding the injustice and exile he
 - Even if his words offend at first, they will nourish people later like vital medicine
 - Cacciaguida says Dante only sees famous souls because the obscure provide no context
 
-## 18
+## Canto 18
 
 Beatrice directs Dante's gaze to lights dancing in heaven, forming shapes of crusaders and warriors like Joshua, before spelling a Latin exhortation to justice as guidance for rulers.  
 
@@ -279,7 +279,7 @@ Beatrice directs Dante's gaze to lights dancing in heaven, forming shapes of cru
 - Dante says the clergy act nothing like the bibilical martyrs and disciples  
 - He implies today's leaders can justify their greed by dismissing religion altogether
 
-## 19
+## Canto 19
 
 Dante observes a giant eagle comprised of righteous souls that speaks of embodying divine justice, judges failures among contemporary Christian kings, and declares limits on human comprehension of God's judgment.
 
@@ -294,7 +294,7 @@ Dante observes a giant eagle comprised of righteous souls that speaks of embodyi
 - States like Hungary, Navarre, and Naples receive some praise
 - The eagle accuses Cyprus' king of deviations from goodness like other bad leaders
 
-## 20
+## Canto 20
 
 Dante sees holy souls glowing in the shape of an eye inside the eagle, including biblical figures plus pagans like Ripheus the Trojan whose faith and virtue merited salvation, before the eagle explains the mysteries of predestination.
 
@@ -313,7 +313,7 @@ Dante sees holy souls glowing in the shape of an eye inside the eagle, including
 - It declares the mystery of predestination beyond human comprehension
 - The eagle compares itself to a lutanist accompanying a singer (the eye-souls) with harmony
 
-## 21
+## Canto 21
 
 Dante ascends to the seventh heaven below the Sun, where Beatrice warns gazing at her radiance could incinerate him, and he speaks with the soul of St. Benedict about divine service. 
 
@@ -329,7 +329,7 @@ Dante ascends to the seventh heaven below the Sun, where Beatrice warns gazing a
 - Many shining souls descend, revolving and growing brighter
 - A loud cry shakes Dante, thunderously overwhelming him
 
-## 22
+## Canto 22
 
 Beatrice comforts Dante and shows him righteous vengeance before directing his sight to shining spinning souls including St. Benedict's, who decries corruption in the church.
 
@@ -347,7 +347,7 @@ Beatrice comforts Dante and shows him righteous vengeance before directing his s
 - Dante sees the order and beauty of the planets and stars
 - Beatrice's eyes draw Dante's gaze again as he ascends
 
-## 23
+## Canto 23
 
 Eagerly anticipating heaven, Dante sees hosts singing glory to Christ led by the intense brightness of Divine Wisdom and Power uniting realms, and Beatrice unveils her holy smile.
 
@@ -366,7 +366,7 @@ Eagerly anticipating heaven, Dante sees hosts singing glory to Christ led by the
 - Dante sees the reward of those who sowed good deeds on earth now in heaven
 - Christ triumphs with both old and new councils under him and Mary in glory
 
-## 24
+## Canto 24
 
 Angels spin singing the Virgin Mary’s praises while the illuminated soul of St. Peter examines Dante on faith, approving his beliefs firmly rooted in Scripture and miracles.  
 
@@ -384,7 +384,7 @@ Angels spin singing the Virgin Mary’s praises while the illuminated soul of St
 - The Gospel message sparked and expands his faith like a flaming star
 - The joyful dancing lights sing and circle round Dante three times at his profession
 
-## 25
+## Canto 25
 
 St. James queries Dante on hope he defines by evidence of unseen glory before dancing lights possibly representing Adam and John the Baptist indicate only two souls ascended bodily.
 
@@ -399,7 +399,7 @@ St. James queries Dante on hope he defines by evidence of unseen glory before da
 - The heavenly lights quiet at Beatrice's breath
 - Though beside Beatrice, her form invisible to Dante in Heaven
 
-## 26
+## Canto 26
 
 Dante's vision of God's divine light is restored and he explains how his love and understanding are aimed toward the highest Good and influenced by philosophy, authorities, the world's creation, Christ's sacrifice, and all faithfuls' hope.  
 
@@ -414,7 +414,7 @@ Dante's vision of God's divine light is restored and he explains how his love an
 - Adam tells of being in Eden, the cause of his exile, and the first language he spoke.
 - Adam explains truths about human nature and changes in language over humanity's history.
 
-## 27
+## Canto 27
 
 The paradise erupts in glorious holy song with one spirit decrying recent popes' corruption, turning the heavens crimson, before prophesying aid will come through divine storms to set right humanity's path.
 
@@ -429,7 +429,7 @@ The paradise erupts in glorious holy song with one spirit decrying recent popes'
 - She says someone will come soon to set to rights the corrupt ways of humanity. 
 - Dire political storms are prophesied to restore the proper path of humanity's voyage.
 
-## 28
+## Canto 28
 
 Beatrice explains to Dante the swiftly spinning concentric circles around God, the variety of angels singing praises, and how the perfection of the heavens contrasts with confused philosophizing on Earth.
 
@@ -444,7 +444,7 @@ Beatrice explains to Dante the swiftly spinning concentric circles around God, t
 - Beatrice notes differences between theologians Dionysius and Gregory in categorizing angelic orders.
 - What seemed obscure about angels on Earth was visible to Gregory here in the divine realm.
 
-## 29
+## Canto 29
 
 Beatrice recounts God unfolding into angelic creation outside time, with matter, form and existence flowing forth instantly in hierarchy, though some then fell through pride seen in Lucifer still.
 
@@ -457,7 +457,7 @@ Beatrice recounts God unfolding into angelic creation outside time, with matter,
 - Indulgences multiply from popes and priests fattening themselves without justification, straying from the right path.  
 - Angels multiply reflecting God's light infinitely in diverse splendors of fervid or tepid love back toward the eternal primal unity.
 
-## 30
+## Canto 30
 
 Beatrice says Dante has reached Heaven's intellectual light and will see angels and blessed souls as one, before blinding light surrounds him and he sees divine sights he struggles to relate.  
 
@@ -471,7 +471,7 @@ Beatrice says Dante has reached Heaven's intellectual light and will see angels 
 - In the center yellow rose of Heaven sits the Emperor Henry's soul already crowned for when he will come rule Italy and redress it.  
 - Beatrice prophesies the corrupt pope Boniface VIII will not long walk the same path as Henry and will be damned below.
 
-## 31
+## Canto 31
 
 Dante sees the heavenly rose of blessed souls, flying singing angels, brilliant smiling sights, and appeals for them to look kindly on turbulent Earth.
 
@@ -486,7 +486,7 @@ Dante sees the heavenly rose of blessed souls, flying singing angels, brilliant 
 - In the distance a pacific oriflamme banner glows brighter than the rest with a thousand joyful angels of varying kinds.
 - At the center Dante sees a beautiful smiling being that shares gladness with all the saints, beyond his power to imagine or utter.
 
-## 32
+## Canto 32
 
 An Old Man indicates heavenly circles and tells Dante that he sent Beatrice, who smiles at Dante from across far distances between realms of being.  
 
@@ -499,7 +499,7 @@ An Old Man indicates heavenly circles and tells Dante that he sent Beatrice, who
 - Dante asks who the fiery angel is; Bernard names Gabriel, chief in grace. He names the rose's highest – Adam, Peter, Moses, Anna, Lucy. 
 - Before thought can stray, Bernard proposes praying for heavenly grace to penetrate the divine light to the depth Dante can, starting holy prayer.
 
-## 33
+## Canto 33
 
 Saint Bernard prays to Mary about nobility given human nature through God becoming man, seeking grace for Dante to see the Highest Pleasure before relating his vision of circles unified in God's depth.
 
