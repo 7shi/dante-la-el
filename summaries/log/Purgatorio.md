@@ -303,7 +303,6 @@ Here are summary bullet points for Purgatorio Canto 11:
 - Omberto explains he was arrogant in life and is now paying the price in Purgatory until God is satisfied.
 - Another sinner, Oderisi the illuminator, recognizes Dante and speaks of the fickleness of fame and reputation, using examples of artists like Cimabue and Giotto.
 - Oderisi mentions Provenzan Salvani who is also purging in Purgatory. In life, Salvani humbled himself in public in Siena to help a friend, which released him from Purgatory.
-
 - The passage shows souls purging their sins through contrapasso, while reflecting on themes like humility, reputation, fame, and sacrifice for others.
 
 ## 12
