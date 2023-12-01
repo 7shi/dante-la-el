@@ -1,4 +1,4 @@
-# Inferno Norton Split Test 1
+# Inferno Norton Split 3 Test 1
 
     This is Dante's Inferno Canto 3 in the public domain.
 
@@ -198,7 +198,7 @@ Line|Italian|English
 5|né lo profondo inferno li riceve, ch’alcuna gloria i rei avrebber d’elli». E io: «Maestro, che è tanto greve|nor doth the depth of Hell receive them, because the damned would have some glory from them.” And I, “Master, what is so grievous
 6|a lor che lamentar li fa sì forte?». Rispuose: «Dicerolti molto breve.|to them, that makes them lament so bitterly?” He answered, “I will tell thee very briefly.
 
-# Inferno Norton Split Test 2
+# Inferno Norton Split 3 Test 2
 
     This is Dante's Inferno Canto 3. This is in the public domain.
 
