@@ -3,9 +3,13 @@ import sys, re
 from striplog import *
 
 args = sys.argv[1:]
+num = False
+if args and args[0] == "-n":
+    num = True
+    args = args[1:]
 
 if not args:
-    print(f"Usage: python {sys.argv[0]} md", file=sys.stderr)
+    print(f"Usage: python {sys.argv[0]} [-n] md", file=sys.stderr)
     sys.exit(1)
 
 data = {}
@@ -17,4 +21,7 @@ for n in nums.keys():
     for table in data[k]:
         for row in table[2:]:
             if re.match("\d+$", row[0]):
-                print(row[0], row[2])
+                if num:
+                    print(row[0], row[1])
+                else:
+                    print(row[1])
