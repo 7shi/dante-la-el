@@ -28,8 +28,8 @@ Norton's translation is prose, but, as the author wrote, faithful to Dante's ori
 
 I made two versions of Norton's translation with line breaks: a three-line version and a one-line version.
 
-* en-norton-3
-* en-norton-1
+* en-norton/xx-3
+* en-norton/xx-1
 
 I first created a three-line version, which I used as the basis for a one-line version. The three-line version simply adds line breaks, but does not alter the text; the one-line version rearranges the word order to conform the content to Dante's original text, but does not otherwise rewrite the text.
 
