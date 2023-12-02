@@ -58,8 +58,7 @@ def dist(a, b):
 
 print("# MIX")
 print()
-write_table([anames, [], [i + 1 for i in range(len(anames))]],
-            fit=True, right=list(range(len(anames))))
+write_table([[chr(65 + i) for i in range(len(anames))], [], anames], fit=True)
 print()
 sels  = [0 for _ in texts]
 logs = []
@@ -78,15 +77,15 @@ for i in range(t0len):
         dists1[j] += d
         ds.append(math.sqrt(d))
     mn = min(ds)
-    ns = ""
+    ad = ""
     k = -1
     for j in range(len(texts)):
         if ds[j] - mn < 0.001:
-            ns += str(j + 1)
+            ad += chr(65 + j)
             sels[j] += 1
             if k < 0:
                 k = j
-    logs.append([i + 1, f"{mn:.3f}", ns, texts[k][i]])
+    logs.append([i + 1, f"{mn:.3f}", ad, texts[k][i]])
 write_table([["Line", "Dist", "Adopt", "Text"], []] + logs,
             fit=True, right=[0, 1])
 

@@ -85,7 +85,7 @@ def parse(file, ret=None):
     if ret is None:
         ret = {}
     with open(file, "r") as f:
-        log = [line.strip() for line in f]
+        log = [line.rstrip() for line in f]
     i = 0
     n = ""
     tables = []
@@ -99,9 +99,13 @@ def parse(file, ret=None):
                 ret[n] += tables
             n = line[2:].strip()
             tables = []
-        elif line.startswith("|") or (t2 := "-|-" in line.replace(" ", "")):
+        elif line.startswith("|") or (not line.startswith(" ") and (t2 := re.search(r"-:? *\| *:?-", line))):
             i -= 2 if t2 else 1
-            table, i = read_table(log, i)
+            try:
+                table, i = read_table(log, i)
+            except:
+                print(f"{i}: {line}", file=sys.stderr)
+                raise
             tables.append(table)
     if tables:
         if n not in ret:
@@ -129,7 +133,7 @@ def write_tables(data, keys, *checks):
                         ok = True
                         break
                 if not ok:
-                    print(f"[{k}] {len(tables)} tables", file=sys.stderr)
+                    print(f"[{k}] {len(tables)} table(s)", file=sys.stderr)
         else:
             print(f"[{k}] no tables", file=sys.stderr)
 
