@@ -22,3 +22,7 @@ English (Carlyle's translation edited by Oelsner)
 
 * https://latindiscussion.org/threads/dante-divina-commedia-inferno-i.16133/
 * https://italia.codigoro.discussioni.narkive.com/6tCRMXuo/daniele-storia
+
+Italian
+
+* [La Divina Commedia di Dante: Complete by Dante Alighieri | Project Gutenberg](https://www.gutenberg.org/ebooks/1000)
