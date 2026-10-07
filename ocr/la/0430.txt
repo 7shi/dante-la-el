@@ -1,0 +1,4 @@
+The image is mostly blank, but contains some text.
+
+1.  **Top right corner (vertically oriented text):** The faint, vertically oriented text appears to spell out **VERUS**.
+2.  **Bottom right corner (watermark):** The clear, horizontally oriented text says **Digitized by Google**.

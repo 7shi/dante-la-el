@@ -1,0 +1,11 @@
+Based on the provided images, there is **almost no Latin text** visible.
+
+The large majority of the image is blank white space.
+
+The only discernible characters that *could* be part of the original document are:
+*   A parenthesis pair in the top right corner: **( )**
+
+The text "Digitized by Google" at the bottom right is a watermark from the digitization process and is not part of the original document's content, nor is it in Latin. The vertical line on the left seems to be a scanning artifact or a very faint margin line.
+
+Therefore, the transcription of the visible Latin text is:
+**( )**

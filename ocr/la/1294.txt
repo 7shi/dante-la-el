@@ -1,0 +1,3 @@
+The text visible at the bottom of the image, written in Latin, is:
+
+**cum textu originali**

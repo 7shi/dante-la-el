@@ -1,0 +1,20 @@
+[project]
+name = "dante-la-el"
+version = "0.1.0"
+description = "Textualization of the translations of Dante's Divine Comedy in Latin, Greek, and other languages, with AI analysis and translation"
+readme = "README.md"
+authors = [
+    { name = "7shi", email = "7shi@live.jp" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "google-genai>=2.28.0",
+    "llm7shi",
+    "pdf2image>=1.17.0",
+    "pillow>=12.3.0",
+    "pypdf2>=3.0.1",
+    "tqdm>=4.70.1",
+]
+
+[tool.uv.sources]
+llm7shi = { git = "https://github.com/7shi/llm7shi.git" }

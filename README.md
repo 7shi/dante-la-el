@@ -18,6 +18,10 @@ English (Carlyle's translation edited by Oelsner)
 
 * [The Inferno of Dante Alighieri : Dante Alighieri, 1265-1321; Oelsner, Hermann, 1871- ed; Carlyle, John Aitken, 1801-1879, tr : Internet Archive](https://archive.org/details/infernoofdanteal00dantrich)
 
+## OCR
+
+[ocr/](ocr/) contains the scanned page images of the Latin (`la/`), Ancient Greek (`grc/`), and English/Italian (`en/`) sources, their transcriptions (`.txt`) made with Gemini, and the scripts used to produce them. See [ocr/README.md](ocr/README.md) for details.
+
 ## References
 
 * https://latindiscussion.org/threads/dante-divina-commedia-inferno-i.16133/

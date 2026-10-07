@@ -1,0 +1,4 @@
+The visible text is:
+**III**
+
+There is also a watermark at the bottom right that says "Digitized by Google", which is not Latin. The other dark areas in the bottom left appear to be page artifacts, not text.

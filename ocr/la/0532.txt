@@ -1,0 +1,9 @@
+Based on the original image and the provided crops, there are very faint markings visible.
+
+In the top right corner, running vertically, the letters appear to be:
+**Mat. 2.**
+
+In the bottom left corner, the Google digitization watermark is visible:
+**Digitized by Google**
+
+The text "Mat. 2." is likely an abbreviation for "Matthew 2", referring to the second chapter of the Gospel of Matthew in the Bible. While it's a reference to a biblical text, the text itself is not written in Latin on this page, but rather an abbreviation *about* a Latin (or often translated) source.

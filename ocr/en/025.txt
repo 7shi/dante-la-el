@@ -1,0 +1,42 @@
+*Overhead text, partially obscured:*
+OVERHEAD
+
+*Map 1: Northern and Central Italy*
+FELTRO
+Lake Garda
+Verona
+Venice
+River Piave
+River Po
+Milan
+Cremona
+Mantua
+River Adige
+River Po
+Ferrara
+Bologna
+Ravenna
+Modena
+Genoa
+Gulf of Genoa
+Lucca
+Pisa
+Florence
+Rimini
+Monte Marino
+S. Agata Feltria
+Macerata Feltria
+Urbino
+River Arno
+River Ombrone
+
+*Map 2: Mediterranean Sea, Southern France and Italy*
+Marseilles
+R. Magra
+Florence
+Mediterranean Sea
+R. Ebro
+
+*Caption below maps:*
+In illustration of Dante's method of geographical description
+(see "Inferno," i. 105; "Paradiso." ix. 82-93).
