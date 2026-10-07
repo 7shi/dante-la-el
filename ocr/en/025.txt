@@ -1,6 +1,3 @@
-*Overhead text, partially obscured:*
-OVERHEAD
-
 *Map 1: Northern and Central Italy*
 FELTRO
 Lake Garda
@@ -23,7 +20,7 @@ Lucca
 Pisa
 Florence
 Rimini
-Monte Marino
+Monte San Marino
 S. Agata Feltria
 Macerata Feltria
 Urbino

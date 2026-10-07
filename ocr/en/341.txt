@@ -1,6 +1,6 @@
 CANTO XXIX 329
 
-tell [us] if there be any Latian among these who The [Marginal: *Falsifiers*]
+tell [us] if there be any Latian among these who
 are here within; so may thy nails eternally
 suffice thee for that work.”
 “Latians are we, whom thou seest so disfigured
@@ -22,8 +22,8 @@ live under many suns,
 tell me who ye are, and of what people
 your ugly and disgusting punishment frighten
 you from revealing yourselves to me.”
-“I was of Arezzo,” replied the one, “and Albero Griffolino’s
-of Siena had me burned; but what I died for [Marginal: *Narrative*]
+“I was of Arezzo,” replied the one, “and Albero
+of Siena had me burned; but what I died for
 does not bring me here.
 ’Tis true, I said to him, speaking in jest : ‘I
 could raise myself through the air in flight’;
@@ -34,3 +34,6 @@ me be burned by one who had him for a son.
 But to the last budget of the ten, for the
 alchemy that I practised in the world, Minoe,
 who may not err, condemned me.”
+
+The Falsifiers
+Griffolino’s Narrative

@@ -1,5 +1,3 @@
-Here is the transcription of the text from the image. The text is in Italian (specifically, the old Tuscan dialect of Dante Alighieri).
-
 302 INFERNO
 
 Cerchio Poscia che il foco alquanto ebbe rugghiato 58
@@ -33,6 +31,6 @@ Quando mi vidi giunto in quella parte 79
 Lo principe de' nuovi Farisei, 85
          avendo guerra presso a Laterano,
          e non con Saracin, nè con Giudei,
-         chè caiscun suo nimico era Cristiano, 88
+         chè ciascun suo nimico era Cristiano, 88
          e nessuno era stato a vincer Acri,
          nè mercatante in terra di Soldano ;

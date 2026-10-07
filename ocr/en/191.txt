@@ -18,8 +18,8 @@ The text in the image is as follows:
 *   RAVENNA
 *   Cesena
 *   RIMINI
-*   S. Beneddeto
-*   Verruchie
+*   S. Benedetto
+*   Verruchio
 *   FLORENCE
 *   R. Arno
 *   R. Tiber
