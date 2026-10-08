@@ -5,6 +5,9 @@ Musurus's Greek verse translation of Dante's *Inferno*, published in London by
 Williams and Norgate in 1882. The Greek title is *Δάντου ὁ Ἅδης*. Publication
 details appear in [001.txt](001.txt) and [003.txt](003.txt).
 
+See [INDEX.md](INDEX.md) for the structure of the book and the mapping from
+cantos and notes to page files.
+
 ## Language and style
 
 My impression is that this is a nineteenth-century classicizing literary text,
