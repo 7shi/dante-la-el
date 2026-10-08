@@ -10,7 +10,7 @@ Latin
 
 * [Fratris Iohannis de Serravalle ... translatio et comentum totius libri - Dante Alighieri - Google Books](https://books.google.com/books?id=rt8_AQAAMAAJ)
 
-Ancient Greek
+Ancient Greek (a nineteenth-century literary translation closely modeled on Classical Greek)
 
 * [Δάντου ο Αδής - Dante Alighieri - Google Books](https://books.google.gr/books?id=iMAFAAAAQAAJ)
 
