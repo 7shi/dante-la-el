@@ -1,7 +1,4 @@
-**Clearly legible text:**
-First Edition, December 1900
-Second Edition, May 1901
-Third Edition, December 1902
-Fourth Edition, December 1903
+```markdown
 
-Faint text appears above and below this list, but it is too indistinct to verify from the image and may be show-through.
+```
+

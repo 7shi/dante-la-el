@@ -134,7 +134,7 @@ Transcribed directly from printed page 402 ([`412.txt`](412.txt)), cross-referen
 ## Verification Notes and Anomalies
 
 1. **Heading & Text Verification**:
-   - Every file mapping was verified against actual headings, argument openers, verse text, and running headers in `ocr/en/*.txt`.
+   - Every file mapping was verified against actual headings, argument openers, verse text, and running headers in `ocr/en-oelsner/*.txt`.
    - Running headers on even pages consistently read `[page] INFERNO` alongside circle/subdivision labels (e.g. `Cerchio`, `Bolgia`, `Cocito`), while odd pages read `CANTO [NUM] [page]`.
 2. **Missing Leaf Between `396.txt` and `397.txt`**:
    - File [`396.txt`](396.txt) contains printed page 384 (Italian vv. 19–49).

@@ -1,35 +1,4 @@
-198 INFERNO
-Cerchio E mentre ch' io laggiù con l'occhio cerco, 115
-VIII. vidi un col capo sì di merda lordo,
-Bolgia 2 che non parea s' era laico o cherco.
-Quei mi sgridò: “Perchè se’ tu sì ingordo 118
-di rigurardar più me, che gli altri brutti?”
-Ed io a lui: “Perchè, se ben ricordo, 121
-già t' ho veduto coi capelli asciutti,
-e sei Alessio Interminei da Lucca:
-però t' adocchio più che gli altri tutti.”
-Ed egli allor, battendosi la zucca: 124
-“Quaggiù m' hanno sommerso le lusinghe,
-ond' io non ebbi mai la lingua stucca.”
-Appresso ciò lo duca: “Fa che pinghe,” 127
-mi disse, “il viso un poco più avante,
-sì che la faccia ben con gli occhi attinghe
-di quella sozza e scapigliata fante, 130
-che là si graffia con l'unghie merdose,
-ed or s' accoscia, ed ora è in piede stante.
-Taide è, la puttana che rispose 133
-al drudo suo, quando disse: ‘Ho io grazie
-grandi appo te?’ ‘Anzi, meravigliose.’
-E quinci sien le nostre viste sazie.” 136
+```markdown
 
-1. Malebolge, literally, Evil Pouches.
-6. See below, Canto xxxii. 1, sqq.
-28-33. The first Jubilee of the Roman Church was
-instituted by Boniface VIII. in the year 1300. The
-ponte is the bridge of Castello Sant' Angelo, so-called
-from the castle that stood at one end of it, while the
-monte is either Mt. Janiculum, or, more probably, the
-Monte Giordano.
-40-63. Venedico de' Caccianemici, whose father,
-Alberto, was head of the Guelfs of Bologna. In politics
-he adhered to the family tradition and was a follower of
+```
+

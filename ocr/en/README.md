@@ -1,35 +1,53 @@
 # English and Italian text
 
-This directory contains page images and proofread OCR transcriptions of
-*The Inferno of Dante Alighieri* in The Temple Classics (London: J. M. Dent &
-Co., 1903), with the Italian text edited by H. Oelsner and the English prose
-translation by John Aitken Carlyle. Publication details appear in
-[008.txt](008.txt) and [011.txt](011.txt).
+This directory contains page images and OCR transcriptions (not yet
+proofread) of John A. Carlyle's *Dante's Divine Comedy: The Inferno. A Literal
+Prose Translation, with the Text of the Original Collated from the Best
+Editions, and Explanatory Notes*, fifth edition (London: George Bell & Sons,
+1889; printed at the Chiswick Press). The title page is [009.png](009.png).
+
+This is Carlyle's own text: the prefaces to the first (1848), second (1867),
+and third editions are reprinted in [011.txt](011.txt)–[019.txt](019.txt).
+The later edition revised by H. Oelsner is in [../en-oelsner/](../en-oelsner/).
+
+The scanned copy carries the bookplate of Bertrand and Alys Russell
+([002.png](002.png)).
 
 Each `.png` has its transcription in the `.txt` with the same name
-(`001.png`, `001.txt`, ... `416.txt`).
+(`001.png`, `001.txt`, ... `514.txt`).
 
-## Index
+## Source
 
-See [INDEX.md](INDEX.md) for the structure of the book and the mapping from
-cantos, appendices, and plates to page files.
+* [Dante's divine comedy : the inferno, a literal prose translation, with the text of the original collated from the best editions and explanatory notes - MacSphere](http://hdl.handle.net/11375/14640)
+  (McMaster University Library; also `https://doi.org/10.71548/2741`)
 
-## Layout
+The repository metadata gives only Dante as author and 1889 as the date; the
+translator, edition, and publisher above are taken from the title page.
 
-The main text is printed on facing pages: the Italian text on even printed
-pages and the English translation on odd printed pages. Each canto begins with
-an argument (summary) and ends with notes.
+## Notes on the transcriptions
 
-The file number is the printed page number plus 12 up to printed page 384
-([396.txt](396.txt)). The leaf with printed pages 385–386 in Canto XXXIV is
-missing from the scan, so from printed page 387 ([397.txt](397.txt)) onward
-the offset is 10.
+The `.txt` files are the raw output of GLM-OCR. Pages without text (blank
+pages, plates) may contain only an empty Markdown code block, and pages with
+little text may be misread.
+
+## Plan
+
+The English translation is printed as running paragraphs above the Italian
+text. It is planned to be rearranged into a line-by-line alignment with the
+Italian, using these as references:
+
+* [../en-oelsner/](../en-oelsner/): the Temple Classics edition, whose English
+  is aligned with the Italian tercet by tercet. Its wording differs in places
+  (e.g. "the firm foot" here vs. "the right foot" there), so its text cannot be
+  reused as is.
+* [Inferno/01-en-carlyle.txt](../../Inferno/01-en-carlyle.txt) and
+  [Inferno/02-en-carlyle.txt](../../Inferno/02-en-carlyle.txt): Cantos I–II
+  already rearranged by hand, one tercet per line, from the Oelsner text.
 
 ## Credits
 
 | Step | Model |
 |---|---|
-| OCR | Gemini 2.5 Flash (see [Makefile](../Makefile)) |
-| Proofreading | GPT-6 Luna |
-| Index ([INDEX.md](INDEX.md)) | Gemini 3.8 Flash |
-| Final check | Claude Opus 5.5 |
+| OCR | GLM-OCR via Ollama v0.23.4 (see [Makefile](../Makefile)) |
+
+Later versions of Ollama loop on this model, so v0.23.4 was used.

@@ -1,8 +1,4 @@
-THE
-TEMPLE
-CLASSICS
+```markdown
 
-Edited by
-ISRAEL
-GOLLANCZ
-M.A.
+```
+
