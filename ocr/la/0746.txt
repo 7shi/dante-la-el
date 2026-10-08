@@ -1,8 +1,5 @@
-**Page Header:**
 692
 PURGATORII
-
-**Main Latin Text (Right Column):**
 
 20 Ergo michi dicas, pro Deo, quid sic vos sfogliat;
 Non facias me dicere, dum ego miror,
@@ -31,8 +28,6 @@ Boni doloris qui Deo nos reconiungit,
 28 Qualiter ad istam partem venisti tu adhuc ?
 Ego credebam te reperire ibi infra,
 Ubi tempus pro tempore restauratur.
-
-**Footnotes / Annotations (Below Main Text, Latin):**
 
 Ergo michi dicas, pro Deo, idest pro amore Dei, quid
 sic vos sfogliat, idest cruciat, vel macras facit, vel scarnat;

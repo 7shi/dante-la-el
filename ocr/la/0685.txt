@@ -1,68 +1,58 @@
-**CAPITULUM DECIMUOCTAVUM**
-
-**Italian Text (Left Column)**
+CAPITULUM DECIMUOCTAVUM
 
 15 Chè [se] amor è a noi di fuor offerto,
-   E l'anima non va con altro piede,
-   Se (¹) dritta o torta va, non è suo merto.
+E l'anima non va con altro piede,
+Se (¹) dritta o torta va, non è suo merto.
 16 Et elli a me: Quanto ragion (²) qui vede
-   Dir ti posso; da indi in là m'aspetta
-   Pur a Beatrice, ch'è opra di fede.
+Dir ti posso; da indi in là m'aspetta
+Pur a Beatrice, ch'è opra di fede.
 17 Ogni forma sostantial che secta
-   È da (³) materia, et è con lei unita,
-   Specifica virtù, à 'n sè collecta,
+È da (³) materia, et è con lei unita,
+Specifica virtù, à 'n sè collecta,
 18 La qual senz'operar non è sentita,
-   Nè si dimostra ma (⁴) che per effecto
-   Come per verdi frondi in pianta vita.
+Nè si dimostra ma (⁴) che per effecto
+Come per verdi frondi in pianta vita.
 19 Però, là onde vegna l'intellecto
-   De le prime notitie, homo non sape,
-   Et è prima appetibile l'effecto,
+De le prime notitie, homo non sape,
+Et è prima appetibile l'effecto,
 20 Che son in voi, sì come studio in ape
-   Di far lo mele; e questa prima vogla
-   Merto di lode o di biasmo non cape.
+Di far lo mele; e questa prima vogla
+Merto di lode o di biasmo non cape.
 21 Hor, perch'a questa ogn'altra sì raccola,
-   N'è la virtù innata che consiglia,
-   Et è l'assenso di tener la sogla.
+N'è la virtù innata che consiglia,
+Et è l'assenso di tener la sogla.
 22 Quest'è 'l principio, là onde si pigla
-   Ragion di meritar in voi, secondo
-   Che buoni e rei amor accogle e vigla.
+Ragion di meritar in voi, secondo
+Che buoni e rei amor accogle e vigla.
 
 (¹) adunque — (²) senza fede — (³) al. di — (⁴) se non.
-
----
-
-**Latin Text (Right Column)**
 
 631
 
 15 Quia si amor est extra nobis oblatus,
-   Et anima non vadit cum alio pede,
-   Si recte vel indirecte vadit, non est suum meritum.
+Et anima non vadit cum alio pede,
+Si recte vel indirecte vadit, non est suum meritum.
 16 Et ipse ad me: Quantum ratio hic videt
-   Dicere tibi possum ego; ultra hoc expecta
-   Solum a Beatrice, quia est opera fidei.
+Dicere tibi possum ego; ultra hoc expecta
+Solum a Beatrice, quia est opera fidei.
 17 Omnis forma substantialis, que est secta
-   Et habet materiam, et est cum ipsa unita,
-   Specificam virtutem habet in se collectam,
+Et habet materiam, et est cum ipsa unita,
+Specificam virtutem habet in se collectam,
 18 Que sine operatione non sentitur,
-   Nec ostenditur nunquam nisi per effectum,
-   Sicut per virides frondes in planta viva.
+Nec ostenditur nunquam nisi per effectum,
+Sicut per virides frondes in planta viva.
 19 Ergo, unde veniunt intellectus
-   Primarum noticiarum, homo non scit,
-   Et est primo appetibilis affectus,
+Primarum noticiarum, homo non scit,
+Et est primo appetibilis affectus,
 20 Que sunt in nobis, sicut studium in apibus
-   Ad faciendum mel; et ista prima voluntas
-   Meritum laudis vel vituperii non capit.
+Ad faciendum mel; et ista prima voluntas
+Meritum laudis vel vituperii non capit.
 21 Omnis alia recolligitur super ista,
-   Innata virtus que consulit
-   Et habet assensum retinendi introyttum.
+Innata virtus que consulit
+Et habet assensum retinendi introyttum.
 22 Et istud est principium, unde sumitur
-   Causa merendi in vobis, secundum
-   Quod bonos et pravos amores accolligit et distinguit.
-
----
-
-**Prose Text (Bottom Section)**
+Causa merendi in vobis, secundum
+Quod bonos et pravos amores accolligit et distinguit.
 
 tuli, in qua auctor movet questionem, que oritur ex solu-
 tione supradicte quæstionis, vel ex declaratione supradicti
@@ -77,7 +67,7 @@ supponis quod omnis amor venit de foris, et anima non
 movetur aliunde nisi ab amore, nec movetur alio pede
 pede amoris: et sic vitia et virtutes non sunt in potestate
 nostra, et sic anima non meretur nec demeretur.
-   Tua verba et meum simplex ingenium, respondí ad
+Tua verba et meum simplex ingenium, respondí ad
 eum, michi amorem discooperuerunt, idest declaraverunt
 quid est amor: sed hoc me feçit ad dubitandum magis
 pregnautem: quia si amor est extra nos oblatus, idest de
@@ -85,7 +75,7 @@ foris venit et causatur, et anima non vadit cum alio
 pede, idest non operatur nisi cum amore, si recte vel in-
 directe vadit, idest si bene vel male operatur, non est suum
 meritum. idest non debet sibi imputari.
-   Et ipse ad me, scilicet dixit: Quantum ratio hic videt,
+Et ipse ad me, scilicet dixit: Quantum ratio hic videt,
 respondet Virgilius dicens, quantum ratio naturalis potest
 comprehendere, scilicet per scientiam humanam, dicere tibi
 

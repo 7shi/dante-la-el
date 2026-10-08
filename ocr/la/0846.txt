@@ -1,6 +1,1 @@
-Based on the provided image and crops:
-
-The only visible text on the page is a watermark in the bottom right corner that reads:
-**Digitized by Google**
-
-This text is in **English**, not Latin. There is no other discernible text written in Latin or any other language on the page; it appears to be a blank page from a digitized document.
+(blank page)

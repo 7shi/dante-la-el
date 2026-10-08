@@ -1,8 +1,4 @@
-Here is the transcription of the text from the image:
-
-**Left Column (Italian)**
-
-**CAPITULUM TRICESIMUM**
+CAPITULUM TRICESIMUM
 
 ⁴² Allhora el monetier¹: Così si squarcia ²
 La bocha tua per dir mal come suole;
@@ -26,13 +22,10 @@ Me tucta via, e non mel credea fare.
 Disse 'l maestro ⁷, che 'l tuo ⁸ non è stato;
 Però d'ogni tristitia ti disgrava ⁹:
 
----
 ¹ maestro Adamo — ² s'apre — ³ riempie — ⁴ la fonte — ⁵ corruccio — ⁶ rivolta — ⁷ Virgilio — ⁸ difecto — ⁹ scaricati.
 
-**Right Column (Latin)**
-
-**CAPITULUM TRICESIMUM**
-**373**
+CAPITULUM TRICESIMUM
+373
 
 ⁴² Tunc monetarius: Ita dillaniatur
 Os tum propter suum malum sicut solet;
@@ -56,10 +49,7 @@ Et me semper non facere id credebam.
 Dixit magister, quam tuus fuerit;
 Ideo de omni verecundia te exoneres:
 
----
 ¹⁰ stat:
-
-**Commentary (Below Main Columns, Latin)**
 
 tibi crepat, dixit Grecus, lingua, et aqua marcida, idest
 putrida, quod venter, idest tuus, ante oculos tibi se assepit,

@@ -1,6 +1,3 @@
-Here is the transcription of the Latin text from the image:
-
-**Left Column (Main Text):**
 CAPITULUM DECIMUMNONUM
 ⁶¹ Sicut avaritia extinxit omni bono
 Nostrum amorem, unde operari perditum est,
@@ -24,7 +21,6 @@ Bene potes videre quare sic ratiocinor.
 Quia tua mansio meum planctum disagiat,
 Cum quo maturo id quod tu dixisti.
 
-**Right Column (Commentary/Explanation):**
 Sicut avaritia extinxit cuilibet bono nostrum amorem,
 idest propter avaritiam nullum bonum, intelligendum
 supple, dileximus, unde operare perditum est; sic iustitia

@@ -1,7 +1,6 @@
-**CAPITULUM VICESIMUMQUARTUM**
+CAPITULUM VICESIMUMQUARTUM
 1101
 
-**[Left Column - Italian]**
 15 Ma perchè questo regno ha facti civi
 Per la verace fede, a gloriarla,
 Di lei parlar è buon ch'a lui arrivi.
@@ -21,7 +20,6 @@ L'acqua di fuor del mio interno fonte.
 Comincia'io, dell'alto primo pilo,
 Faccia li miei concepti esser expressi.
 
-**[Right Column - Latin]**
 15 Sed quia istud regnum vos fecit vivos
 Propter veracem fidem, ad glorificandum ipsam,
 De ipsa loqui est bonum quod ad illum arrives.
@@ -41,9 +39,6 @@ Aquam extra meum internum fontem.
 Incepi ego, ab alto primo polo,
 Faciat meos conceptos bene expressos.
 
----
-
-**[Prose Commentary Below Left Column]**
 tu fuisti fundamentum Ecclesie, et tenes claves celi, cuius
 gaudium Christus tulit in terram, ideo tenta, proba, eum
 et examina, sicut tibi placet: idest non oportet quod ego
@@ -70,7 +65,6 @@ propter veracem fidem, ad glorificandum ipsam,
 fidem, de ipsa loqui est bonum quod ad illum arrives.
 attingas.
 
-**[Prose Commentary Below Right Column]**
 habeat vires ad respondendum argumentis faciendis in
 oppositum. Sic faciebat hic Dantes, auditis verbis Beatriceis.
 Sicut bacalaurius se armat, idest providet sibi, et non

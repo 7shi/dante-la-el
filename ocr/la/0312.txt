@@ -1,6 +1,3 @@
-Here is the transcription of the text from the image, separated by columns:
-
-**Column 1 (Italian Text)**
 258
 INFERNI
 ³⁴ Et io (¹): Maestro, e tuoi ragionamenti
@@ -28,7 +25,6 @@ Hora vorrebbe, ma tardi si pente.
 (¹) dixi a Virgilio. — (²) ragionamenti. — (³) non accenderebbero mia fede. — (⁴) altro augure. — (⁵) Ysola. — (⁶) de la nave
 imperiale. — (⁷) in II Eneydos. — (⁸) al inteso.
 
-**Column 2 (Latin Text & Commentary)**
 INFERNI
 ³⁴ Et ego: Magister, tua ratiocinia
 Michi sunt ita certa, et apprehendunt ita meam
@@ -80,7 +76,6 @@ Euripilus, dederunt et signaverunt punctum, quia erant
 ambo augures. Sic Virgilius dicit in libro suo, quod Dantes
 bene sciebat totum.
 
-**Column 3 (Latin Commentary Continued)**
 Ille alter, qui in ilibus est ita modicus, Michael Scotto
 fuit, qui vero de magicis artibus scivit ludum. Iste Mi-
 chael fuit astrologus Frederici; fuit mirabilis phisicus, et

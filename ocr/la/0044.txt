@@ -1,3 +1,0 @@
-After reviewing the original image and the provided crops, I can confirm that there is **no Latin text** present in the image.
-
-The only discernible text is the watermark at the bottom right corner, which reads: "Digitized by Google". This is in English, not Latin.

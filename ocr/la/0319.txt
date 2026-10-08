@@ -1,4 +1,4 @@
-**CAPITULUM VICESIMÚM PRIMÚM**
+CAPITULUM VICESIMÚM PRIMÚM
 
 ¹⁷ Híc nactatur aliter quam in Serchio;
 Quare si tu non vis de nostris graffiis,
@@ -20,9 +20,7 @@ Quia alias fui ad talem baractam.
 Et quam cito pervenit super ripam sextam,
 Oportuit eum habere securam frontem.
 
-**Commentary:**
-
-Lo buono maestro. *Bonus magister*: hec est tertia
+Lo buono maestro. Bonus magister: hec est tertia
 pars huius capituli, in qua auctor ostendit, quando ipsi
 pervenerunt ad istos demones sine offensa. Primo tamen
 Virgilius voluit experiri; et Dantes abscondit se, interdum,
@@ -31,9 +29,9 @@ Et dixit magister auctori: Si me videres male tractari, non
 timeas, quia ego novi mores istorum, quia alias practicavi
 cum eis.
 
-Sequitur in textu. *Bonus magister*: Ad hoc ut non appa-
+Sequitur in textu. Bonus magister: Ad hoc ut non appa-
 reat quod sis hic tu, dixit, infra te absconde post unum
-scopulum, *schegium*, qui aliquod schel[m]um, idest repara-
+scopulum, schegium, qui aliquod schel[m]um, idest repara-
 culum, te habeat; vel quia aliqua offensio te non habeat:
 et pro nulla offensa, que michi fiat, non timeas tu; quia
 ego habeo res contas, idest manifestas, claras, vel notas,

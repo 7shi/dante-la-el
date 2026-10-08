@@ -1,4 +1,3 @@
-**Column 1 (Italian)**
 CAPITULUM SEXTUMDECIMUM
 1015
 ³⁷ O qual’io vidi quei che son disfatti
@@ -20,7 +19,6 @@ Buon cittadino Guida et Infangato.
 Nel piccol cerchio s’entrava per porta,
 Che si nomava da quei de la Pera.
 
-**Column 2 (Latin, Main Text)**
 CAPITULUM SEXTUMDECIMUM
 1015
 ³⁷ O quales ego vidi illos qui sunt destructi
@@ -42,10 +40,6 @@ Bonus civis Guido et Infangatus.
 In parvum circulum intrabatur per portam,
 Que nominabatur ab illis de la Pera.
 
----
-**Footnotes (Latin)**
-
-**Column 1**
 Calfucicorum. Cippus, idest stirps, de quo nati sunt Calfucji,
 iam erat grandis, et iam erant tracti, idest assumpti, ad
 curules, idest ad officia, Sicci et Arrigucii. Curule erant
@@ -80,7 +74,6 @@ multum contra ipsum auctorem, ne unquam rediret in
 Florentiam. Et de istis auctor dicit, quod ipsi indragantur,
 idest fiunt sicut dracones, contra illos qui fugiunt a facie
 
-**Column 2**
 eorum; sed fiunt sicut agnus mansuctus, respectu illorum
 qui resistunt eis, vel dant illis pecuniam: ita quod, propter
 pecuniam, de draconibus fiunt agni. Transcurata, idest male

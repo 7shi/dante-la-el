@@ -1,8 +1,5 @@
-Here is the transcription of the provided image:
+156
 
-Page: 156
-
-**Left Column (Italian):**
 ⁶ Lo mio maestro inver lei gridò: Forse
 Tu credi che qui sia 'l duca (¹) d'Atheue,
 Che su nel mondo la morte ti porse?
@@ -16,10 +13,8 @@ Che gir non sa, e qua e là saltella;
 E quello (⁵) accorto gridò: Corri al varco;
 Mentre ch'è 'n furia, è buon che ti cale.
 
-**Footnotes for Left Column:**
 (¹) Theseo. — (²) contra te. — (³) Adriana. — (⁴) hora. — (⁵) al. quelli; Virgilio.
 
-**Right Column (Latin - main text):**
 ⁶ Sapiens meus versus ipsum clamavit: Forte
 Tu credis quod hic sit dux Athenarum,
 Qui superius in mundo mortem tibi porrexit?
@@ -33,7 +28,6 @@ Qui ire nescit, sed huc et illuc saltellat;
 Et ille cautus clamavit: Curre ad transitum:
 Interim quod est in furia, est bonum quod tu te cales.
 
-**Lower Left Column (Latin Commentary):**
 mixtis, et fecit preparari unam magnam clavam, idest
 mazzam, sive maleum; demum dedit isti Theseo hec, et
 unum globurn de filo, dicens: Hoc filum alligabis carceri
@@ -76,7 +70,6 @@ cum sotiis meis. Utrum autem sit possibile, quod ex uno
 tauro et una femina speciei humane nascatur tale mon-
 strum, intelligentibus relinquo.
 
-**Lower Right Column (Latin Commentary):**
 Modo ad textum: que, scilicet infamia, fuit concepta in
 falsa vaccha: idest, que apparebat vaccha vera et non erat;
 et quando vidit nos, scilicet ille Minotaurus, semetipsum

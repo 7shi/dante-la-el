@@ -1,7 +1,3 @@
-Here is the transcription of the text from the image:
-
-**Left Column (Italian):**
-
 878
 
 36 E sì come ciascun a noi venia,
@@ -26,8 +22,6 @@ Here is the transcription of the text from the image:
     Nel primo lume, e che dagl'ochi traggi;
     Perchè ei corruscan sì, come tu ridi;
 
-**Right Column (Latin):**
-
 PARADISI
 
 36 Et statim sicut quelibet ad nos veniebat,
@@ -51,12 +45,6 @@ PARADISI
 42 Ego video bene sicut tu annidas
     In proprio lumine, quod ab oculis trahis;
     Eo quia coruscat statim, sicut tu rides;
-
----
-
-**Bottom Section (Commentary):**
-
-**Left Column (Italian Commentary):**
 
 id est in piscina, in qua sunt multi et varii pisces, si ali-
 quid proiicitur in aqua, subito pisces veniunt ad superfi-
@@ -88,8 +76,6 @@ leges; nam ipse leges, que erant in variis et magnis volumi-
 nibus, reduxit ad certum numerum et ad certa volumina
 redegit.
 
-**Right Column (Latin Commentary):**
-
 Et per te videbis, quomodo ab istis michi erat in desi-
 derium audire eorum conditiones, statim quod oculis meis
 fuerunt manifesti.
@@ -120,5 +106,3 @@ coruscat, idest resplendet, statim sicut tu rides. Idest bene
 video, quod tu es lucidus et splendens, et quomodo tu in-
 volvis in lumine tuo, sicut sol in suo. ita quod non per-
 mictit videre se.
-
-Digitized by Google

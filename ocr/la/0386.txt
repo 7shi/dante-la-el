@@ -1,9 +1,3 @@
-Here is the transcription of the Latin text from the image. The original image contains text in both Italian and Latin. I have transcribed all text, labeling the language where appropriate.
-
-**Page Number:** 332
-
-**Left Column (Italian - Poetic Text):**
-
 9 Se tu pur mo in questo mondo ceco (1)
 Caduto se' di quella dolce
 Latina (2), ond'io tucta mia colpa reco;
@@ -23,14 +17,8 @@ Ma nel paese (13) nulla hor vi lassai.
 L'Aquila da Polenta là si cova,
 Sì che Cervia ricuopre co'suo'vanni (14).
 
-**Left Column (Italian - Footnotes):**
-
 (1) dell'Inferno. — (2) Italia. — (3) da Monte Feltro. — (4) dell'Alpe. — (5) fiume. — (6) nasce. — (7) Dante. — (8) Virgilio. — (9) risponde hora. — (10) e non greco come quelli di sopra. — (11) come seguita. — (12) in cotesta fiamma. — (13) al. ma palese
 nessuna guerra hor vi lassai. — (14) hale.
-
----
-
-**Right Column (Latin - Title & Poetic Text):**
 
 INFERNI
 
@@ -53,13 +41,7 @@ Sed in publico nullam nunc ibi dimisi.
 Aquila de Polenta eam covat,
 Ita quod Cerviam recooperit suis vannis.
 
-**Right Column (Latin - Footnotes):**
-
 (1) fluuio. — (2) nas. — (3) dante. — (4) virgilius. — (5) loquitur. — (6) sequitur. — (7) ibidem. — (8) patenter.
-
----
-
-**Left Column (Latin - Commentary):**
 
 Si tu primus nunc in istum carcerem cecum cecidisti
 ab illa dulci terra, idest Romandiola (et illa quæstio facta
@@ -92,10 +74,6 @@ annis sui successores: et sic circum illum montem sunt
 multa castra, quorum ipse comes fuit dominus, et sui suc-
 cessores similiter. Modo illa civitas Sancti Leonis est sub
 dominio magnifici domini mei Karoli de Maletestis, domini
-
----
-
-**Right Column (Latin - Commentary):**
 
 Arrimini, etc. Ista civitas Sancti Leonis bene est in Roman-
 diola, et in comitatu istius civitatis Sancti Leonis est unum

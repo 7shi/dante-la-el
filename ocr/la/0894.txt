@@ -1,7 +1,3 @@
-Here is the transcription of the provided image:
-
-**Left Column (Original Text - Italian):**
-
 18 Ella sorrise (¹) alquanto, e poi (²): S'ell'erra (³)
 L'opinion (⁴), mi disse (⁵), de'mortali (⁶),
 Dove (⁷) chiare (⁸) di senso (⁹) non disserra (¹⁰),
@@ -18,7 +14,6 @@ L'argomentar (³⁶) che li farò (³⁷) avverso (³⁸).
 Lumi (⁴¹) , li quali (⁴²) nel quale e nel quanto (⁴³)
 Notar (⁴⁴) si posson per diversi volti (⁴⁵).
 
----
 (¹) sogghignò Beatrice — (²) rispose — (³) se ella erra — (⁴) grossa — (⁵) Beatrice — (⁶) rozi — (⁷) in quelle cose — (⁸) la —
 (⁹) sentimenti corporali — (¹⁰) non apre — (¹¹) certamente e chiaramente — (¹²) ferire — (¹³) le saette — (¹⁴) di maraviglia —
 (¹⁵) oggimai — (¹⁶) seguitante e sentimenti corporei — (¹⁷) tu Dante — (¹⁸) humana — (¹⁹) l'apprensiva — (²⁰) tu Dante —
@@ -27,8 +22,6 @@ Notar (⁴⁴) si posson per diversi volti (⁴⁵).
 (³¹) affogato — (³²) falsa sententia — (³³) l'opinione tua — (³⁴) tu — (³⁵) intenderai diligentemente — (³⁶) l'explication degl'ar-
 gomenti — (³⁷) a la tua opinione — (³⁸) contra — (³⁹) el cielo stellato — (⁴⁰) a voi huomini — (⁴¹) stelle — (⁴²) le quali stelle —
 (⁴³) ne la qualità e quantità loro — (⁴⁴) comprhender — (⁴⁵) per diverse apparentie loro.
-
-**Right Column (Commentary - Latin):**
 
 18 Ipsa subrisit aliquantulum, et postea: Si errat
 Opinio mortalium, michi dixit,
@@ -46,7 +39,6 @@ Argumenta que ego faciam adversus illud.
 Lumina, in quibus, in quali et in quanto,
 Notari possunt diversi vultus.
 
----
 nebula, sive macula que est in luna, cum in nullo alio
 corpore celesti videatur aliquod simile, dicens: Que sunt
 illa signa nigra, que sunt in luna? quid est, vel que est
@@ -76,20 +68,17 @@ rationis, ammodo, idest non deberes admirari. Postea retro
 sensus videas; idest percipe quod ratio, scilicet vestra,
 habet curtas, idest breves, alas.
 
----
 Sed dic michi illud quod tu a te cogitas. idest opinionem
 tuam. Quid sentis in hoc? Et ego, scilicet dixi: Quidquid
 apparet hic superius diversum, credo quod illud faciunt
 corpora rara et densa; idest credo quod raritas et den-
 sitas sint causa istius nebule, sive macule, que est in luna.
 
----
 Et ipsa, scilicet Beatrix, dixit: Certe, satis videbis sub-
 mersum in falso credere tuum, idest non esse verum. sed
 si bene, si bene auscultas argumenta, que ego faciam ad-
 versus illud, scilicet tuum, credere.
 
----
 Modo incipit Beatrix ostendere. quod raritas et densitas
 non sint cause macule lune; et incipit multum a longe
 hoc ostendere, dicens, quod spera octava. idest firmamen-

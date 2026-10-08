@@ -1,63 +1,45 @@
-Here is the transcription of the provided image:
-
-**Page Header:** CAPITULUM DECIMUMNONUM
-**Page Number:** 1049
-
----
-
-**Left Column (Italian Poem)**
+CAPITULUM DECIMUMNONUM
+1049
 
 25 E tutti suo’ voler (¹) et acti (²) buoni
-   Son, in quanto ragion humana vede,
-   Senza peccato in vita o in sermoni.
+Son, in quanto ragion humana vede,
+Senza peccato in vita o in sermoni.
 26 Muore non baptizato e senza fede:
-   Ov’è questa giustitia che’l condanna?
-   Ov’è la colpa sua, sed (³) ei non crede?
+Ov’è questa giustitia che’l condanna?
+Ov’è la colpa sua, sed (³) ei non crede?
 27 Or tu chi se’, che vuoi seder a seranna,
-   Per giudicar di lungi mille migla
-   Colla veduta corta d’una spanna?
+Per giudicar di lungi mille migla
+Colla veduta corta d’una spanna?
 28 Certo a colui che meco s’assottigla,
-   Se la Scrittura sopra voi non fosse,
-   Da dubitar sarebbe a maraviglia.
+Se la Scrittura sopra voi non fosse,
+Da dubitar sarebbe a maraviglia.
 29 O terreni animali, o menti grosse!
-   La prima volontà, che è per sè buona,
-   Da sè,ch’è sommo ben,mai non si mosse.
+La prima volontà, che è per sè buona,
+Da sè,ch’è sommo ben,mai non si mosse.
 30 Cotanto è giusto, quant’a lei consuona;
-   Nullo creato ben a sè la tira,
-   Ma essa, radiando, lui cagiona.
-
----
-
-**Right Column (Latin Poem)**
+Nullo creato ben a sè la tira,
+Ma essa, radiando, lui cagiona.
 
 25 Et omnes sue voluntates et actus boni
-   Sunt, quantum humana ratio videt,
-   Sine peccato in vita et in sermonibus.
+Sunt, quantum humana ratio videt,
+Sine peccato in vita et in sermonibus.
 26 Moritur non baptizatus, et sine fide:
-   Ubi est iustitia que ipsum condempnat?
-   Ubi est culpa sua, si ipse non credit?
+Ubi est iustitia que ipsum condempnat?
+Ubi est culpa sua, si ipse non credit?
 27 O tu qui es, qui vis sedere in cathedra
-   Propter iudicare a longe per mille milliaria
-   Cum visione curta unius palmi?
+Propter iudicare a longe per mille milliaria
+Cum visione curta unius palmi?
 28 Certe illi qui mecum se subtilizat,
-   Si Scriptura supra vos non esset,
-   Dubitandum esset et mirum.
+Si Scriptura supra vos non esset,
+Dubitandum esset et mirum.
 29 O terrena animalia, o mentes grossas!
-   Prima voluntas, que per se est bona,
-   A se, que est summum bonum, nunquam se movit.
+Prima voluntas, que per se est bona,
+A se, que est summum bonum, nunquam se movit.
 30 In tantum est iustum, in quantum ei consonat;
-   Nullum creatum ad se illam trahit,
-   Sed ipsa, radiando, ipsum causat.
-
----
-
-**Footnotes (below poem):**
+Nullum creatum ad se illam trahit,
+Sed ipsa, radiando, ipsum causat.
 
 (¹) voluntates — (²) operationes — (³) si ille.
-
----
-
-**Lower Left Column (Latin Commentary)**
 
 Moritur non baptizatus et sine fide: ubi est ista iustitia
 que ipsum condempnat? ubi est culpa sua, si ipse non
@@ -89,10 +71,6 @@ clarant Deum esse iustum, et quod non debeant perqui-
 rere illa que Deus non vult quod homines sciant. Vere
 unus parvus dominus habet pro malo a servo suo, quando
 
----
-
-**Lower Right Column (Latin Commentary)**
-
 servus vult plus scire de factis domini, quam ipse dominus
 vult, seu velit; et reprehenditur et dicitur sibi: Non queras
 ultra: quid habes tu plus querere? Faciendum est ergo de
@@ -122,6 +100,4 @@ terra ad tenendum balsamum et ad tenendum urinam: et
 hoc, quia quod vult, in potestate sua est; nec expedit vasis
 dicere, Cur sic facis? Sic nec debet Christianus dicere, Cur,
 
----
-
-**Bottom Page Number:** 132
+132

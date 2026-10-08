@@ -1,6 +1,4 @@
-The requested Latin text from the image is transcribed below, preserving line breaks and noting the line numbers for the main text:
-
-**Page 224**
+224
 INFERNI
 
 40 Iam sentiebam ad manum dexteram gurgitem
@@ -22,10 +20,6 @@ A suo magistro, dedignatus et fellus:
 Prope prope deformem rocciam,
 Et, dehoneratis nostris personis,
 Se deleg[u]avit, sicut a corda coccha.
-
----
-
-**Commentary Section (Latin)**
 
 aquarum, parvus ventus me movet. Iam sentiebam ad ma-
 num dexteram gurgitem facere sub nobis orribile stro-

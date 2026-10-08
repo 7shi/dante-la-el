@@ -1,8 +1,3 @@
-Here is the transcription of the text from the provided image:
-
-**Main Text (Poem):**
-
-**Left Column (Italian):**
 34 Veramente horamai saranno nude
     Le mie parole, quanto converrassi
     Quelle scovrir alla tua vogla rude.
@@ -28,7 +23,6 @@ Here is the transcription of the text from the provided image:
     Decte li son per me, e son sicura
     Che 'l fiume Lethe non gle le nascose (¹⁶).
 
-**Right Column (Latin):**
 34 Vere ammodo erunt nuda
     Verba mea, quantum erit conveniens
     Illa discooperire tue visioni rudi.
@@ -54,15 +48,9 @@ Here is the transcription of the text from the provided image:
     Acta sunt per me, et sum secura
     Quod aqua Lethes illud ei non abscondit.
 
-**Footnotes:**
 (¹) splendente — (²) neri — (³) fiume — (⁴) fiume — (⁵) derivarsi — (⁶) que' due fiumi — (⁷) d'assieme — (⁸) lenti — (⁹) divide —
 (¹⁰) fonte — (¹¹) si dilungha — (¹²) da Beatrice — (¹³) in questo — (¹⁴) si disciogle — (¹⁵) Mathelda — (¹⁶) tolse de la memoria.
 
----
-
-**Commentary:**
-
-**Left Column:**
 Vere ammodo erunt nuda mea verba quantum erit con-
 veniens illa scooperire, idest declarare, tue visioni rudi,
 idest grosse.
@@ -87,7 +75,6 @@ sub foliis viridibus et ramis nigris supra suos rivos fri-
 gidos Alpes portat.
 —
 
-**Right Column:**
 Ante ipsos Eufratem et Tigrim videre michi apparuit
 exire de uno fonte, et quasi amicos recedere pigros: quia
 quando amici separantur ab invicem, proficiscentes a longe,

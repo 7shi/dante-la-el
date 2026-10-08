@@ -1,7 +1,3 @@
-Here is the transcription of the Latin text from the image:
-
-**Top Section (Main Text):**
-
 8 Postea ex omni latere ipsius mihi apparuit
 Unum nesciebam quod album, subtus
 Paullatim unum aliud alteri exivit.
@@ -17,12 +13,6 @@ Nisi solum alas suas infra lictora tam lontana.
 12 Videas quomodo habet illas erectas versus cœlum,
 Tractando aierem cum eternis pennis,
 Que non mutantur sicut pilus mortalis.
-
----
-
-**Bottom Section (Commentary - Latin only):**
-
-**Left Column:**
 
 Lucentius: idest splendididus. Hoc est satis
 conforme veritati, quia quanto res magis appropinquat
@@ -60,8 +50,6 @@ Magister meus adhuc non fecit verbum, quousque primi
 albi aperuerunt alas (vult dicere, quod homo sapiens non
 iudicat a longe, idest cum ignorantia, donec comprehendat
 et cognoscat et bene discernat, quia sepe sensus decipitur),
-
-**Right Column:**
 
 tunc quod bene cognovit galeoctum, idest nauclerium con-
 ductorem illius navis. Ideo dicitur, in textu, non fecit moc-

@@ -1,15 +1,6 @@
-Here is the transcription of the text from the provided image:
-
-**Page Header:**
 196
 INFERNI
-___________________________________________________________
 
----
-
-**Left Column (Italian Poetic Text and Latin Commentary)**
-
-**Poetic Text (Italian):**
 ²¹ Chè quello ingrato popolo maligno,
 Che discese di Fiesole ab antico,
 E tien ancor del monte e del macigno,
@@ -20,10 +11,8 @@ Si disconvien tractar (¹) el dolce fico.
 Gente avara, invidiosa e superba:
 Da' lor costumi fa' che tu ti forbi.
 
-**Footnotes:**
 (¹) al. fructar. — (²) fiorentini ciechi.
 
-**Commentary Text (Latin):**
 liberum arbitrium, per quod tu posses aliter facere, si
 bene, in vita pulchra, idest temporali, in qua te novi, ego
 potui coniecturare. Iste fuit bonus astrologus. Dicit si; quia
@@ -42,11 +31,6 @@ populus quia non conveniunt cum moribus Dantis, conveniunt,
 propter suam amaritudinem, cum ficubus dulcibus. Vel dic,
 quod quamvis Florentia
 
----
-
-**Right Column (Latin Poetic Text and Latin Commentary)**
-
-**Poetic Text (Latin):**
 ²¹ Sed ille ingratus populus malignus,
 Qui descendit a Fexulis ab antiquo,
 Et tenet adhuc de monte et macigno,
@@ -57,7 +41,6 @@ Dedecat fructificare dulcem ficum.
 Gentem avaram, invidam et superbam:
 Ab eorum moribus fac quod te abstergas.
 
-**Commentary Text (Latin):**
 pro maiori parte sit fundata, sive situata, in plano, tamen
 aliqua, et satis bene magna, pars, est super monte, sicut
 ultra Arnum versus Sanctum Georgium, et super

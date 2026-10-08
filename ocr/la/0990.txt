@@ -1,8 +1,5 @@
-Here is the transcription of the text from the image:
+936
 
-**Page 936**
-
-**Left Column (Italian Poem)**
 16 E se le fantasie nostre son basse
    A tanta altezza, non è maraviglia,
    Chè sopra 'l sol non fu occhio ch'andasse.
@@ -25,8 +22,7 @@ Here is the transcription of the text from the image:
    Far di noi centro, e di sè far corona,
    Più dolci in voce che in vista lucenti.
 
-**Right Column (Latin Poem)**
-**PARADISI**
+PARADISI
 16 Et si phantasie nostre sunt infirme
    Ad tantam altitudinem, non est mirum,
    Quia super solem non fuit oculus qui iret.
@@ -49,18 +45,12 @@ Here is the transcription of the text from the image:
    Facere de nobis centrum, et de se facere coronam,
    Magis dulces in voce quam in vista.
 
----
-
-**Commentary Section (Latin)**
-
-**First Paragraph (Top-left commentary):**
 Et si phantasie nostre sunt infirme, si pro quia, ad tantam
 altitudinem, idest ad describendam ipsam Beatricem, et fa-
 miliam spirituum qui sunt hic in isto celo Solis, non est
 mirum, quia supra solem non fuit oculus qui iret; idest, non
 est corpus lucidius sole, nec oculus potest ire supra ipsum.
 
-**Second Paragraph (Top-right commentary):**
 Iam vult auctor describere quartam familiam, idest posi-
 tam in quarta spera, scilicet solis, et animas excellentiores;
 ideo dicit: Talis erat ibi quarta familia alti Patris, qui, sci-
@@ -71,7 +61,6 @@ logorum, quomodo ipse generat Filium de sua substantia
 eternali genitura, et spirat Spiritum Sanctum cum Filio
 equaliter et eternaliter, etc.; que sunt duo puncta altissima.
 
-**Third Paragraph (Middle-left commentary):**
 Et Beatrix incepit: Regratiare. E Beatrice comenzo:
 Regrazia: hec est tertia pars huius capituli, in qua Beatrix
 docet auctorem de regratiando Deo, et cetera, et describit in ge-
@@ -81,7 +70,6 @@ solari. Et Beatrix incepit, scilicet dicere michi: Regratiare,
 lorum, scilicet Deo, qui illuminat angelos et accendit, qui
 ad istum sensibilem te elevavit per suam gratiam.
 
-**Fourth Paragraph (Middle-right commentary, continuing to bottom-right):**
 Cor mortalis, hominis scilicet, non fuit unquam ita de-
 gestum, idest dispositum, ad devotionem, et reddendum se
 Deo, cum omni sua gratuitate tantum festinum, sicut ad
@@ -101,7 +89,6 @@ Sacrae Theologie et Cardinalis, quod plus profecit in scientia
 iuxta Crucifixum devote orando, quam in studio speculando.
 Idem dicit Beatus Augustinus.
 
-**Fifth Paragraph (Bottom-left commentary):**
 Nec sibi, scilicet Beatrici, displicuit, quod ego ita devote
 regratiaver Deo, quod ipsius Beatricis obliviscerer ad tem-
 pus; sed de ea re risit, quia splendor oculorum suorum
@@ -109,7 +96,6 @@ ridentium meam mentem unitam in plures res divisit, idest
 disposuit ad intuendum plures animas ibi in sole beati-
 ficatas.
 
-**Sixth Paragraph (Bottom-right commentary, incomplete):**
 Ego vidi plures fulgores vivos, idest plures animas ful-
 gentes, et vincentes, scilicet alios splentores (quia propter
 excellentiam scientie eorum vincebant alios), facere de

@@ -1,7 +1,3 @@
-Here is the transcription of the text from the image:
-
-**[Main Text - Left Column - Italian]**
-
 CAPITULUM SEPTIMUM
 
 ¹ Posciachè l'accoglienze honeste e liete
@@ -16,8 +12,6 @@ Così rispose allora el duca mio.
 
 (¹) furono.
 
-**[Main Text - Right Column - Latin]**
-
 ¹ Postquam accollctiones honeste et lete
 Fuerunt iterate tribus et quatuor vicibus,
 Sordellus se traxit, et dixit: Vos qui estis?
@@ -27,8 +21,6 @@ Fuerunt ossa mea per Octavianum sepulta.
 ³ Ego sum Virgilius; et propter nullum alium defectum
 Celum perdidi, quam quia non habui fidem.
 Sic respondit tunc dux meus.
-
-**[Commentary - Left Column - Italian]**
 
 Postquam accollctiones honeste. Poscia che l'acco-
 glienze honeste: istud est septimum capitulum istius Purga-
@@ -58,8 +50,6 @@ Priusquam solis paucum;
 Prima che il poco sole,
 
 auctor ponit et nominat in speciali aliquos istorum.
-
-**[Commentary - Right Column - Latin]**
 
 Prima pars est satis clara, in qua dicit: Postquam ac-
 collectiones fuerunt reiterate, quia pluries se salutarunt,

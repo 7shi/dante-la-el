@@ -1,8 +1,5 @@
-**Top Right Corner:** 257
+CAPITULUM VICESIMUM
 
-**CAPITULUM VICESIMUM**
-
-**Left Column (Italian Poem):**
 ₂₈ Quindi passand'o la vergine cruda (¹)
 Vidde terra nel mezzo del pantano,
 Senza cultura, e d'habitanti nuda.
@@ -24,7 +21,6 @@ La verità nulla menzogna (¹⁰) frodi (¹¹).
 
 (¹) solitaria. — (²) senza anima. — (³) di Mantova. — (⁴) Mantho. — (⁵) al la chiamar. — (⁶) dopo, non prima. — (⁷) vel stultitia. — (⁸) narrare la origine. — (⁹) Mantova. — (¹⁰) bugia. — (¹¹) inganni.
 
-**Right Column (Latin Poem):**
 ₂₈ Illac transeundo illa virgo cruda
 Vidit terram in medio paludis,
 Sine cultura et habitantibus nudam.
@@ -45,12 +41,9 @@ A Pinamonte deceptionem reciperet.
 Originari meam terram aliter,
 Veritatem nullum mendacium fraudet.
 
-**Prose Commentary (Latin):**
-
-**Left Column:**
 sive paludem facit illam lamam, idest vallem, que desiccatur
 sepe in estate; et aqua marcet, et facit malum aierem et
-inficit, et solet in estate aliquando esse *grama*, idest fetida.
+inficit, et solet in estate aliquando esse grama, idest fetida.
 
 Illac transeundo illa virgo cruda, idest nunquam voluit
 habere virum, vidit terram in medio paludis, sine cul-
@@ -81,7 +74,6 @@ malitiosus homo de Pinamontis, qui se fingebat fore ami-
 cum dicti domini comitis Alberti, domini Mantue, accessit
 ad dictum dominum, et dixit ei: Domine, audio et sentio,
 
-**Right Column:**
 quod magna dissensi) est in istos nobiles et populares. et
 timendum est ne insurgant populares et interticiant no-
 biles; et quia vos favetis nobilibus, sic etiam interficient
@@ -105,7 +97,7 @@ fuit civitas Mantue, que primo erat
 plena populo; tunc fuit plurimum attenuata.
 
 Iam fuerunt gentes sue intus spissiores; idest erat maior
-populus, prius quam *mattia*, idest fatuitas, illorum de Ca-
+populus, prius quam mattia, idest fatuitas, illorum de Ca-
 salodis, a Pinamonte deceptionem reciperet.
 
 Ideo te assenno, idest moneo, quod si unquam tu audis
@@ -113,5 +105,3 @@ originari meam terram aliter, idest civitatem Mantue, ve-
 ritatem subaudi, vel dicas, [vel] nullum mendacium fraudet:
 idest nullo mendacio fraudari te permietas; idest si aliquis
 diceret, meam terram aliter originem traxisse, non credas.
-
-**Bottom Right:** 33

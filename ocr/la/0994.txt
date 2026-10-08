@@ -1,11 +1,5 @@
-Here is the transcription of the text from the image:
-
----
-
-**Page 940**
-**PARADISI**
-
-**Left Column (Italian Poetry)**
+940
+PARADISI
 
 40 Nell'altra piccioletta luce ride
     Quello advocato de' tempi Crystiani,
@@ -31,10 +25,6 @@ Here is the transcription of the text from the image:
 
 (¹) luce.
 
----
-
-**Right Column (Latin Poetry)**
-
 40 In alia parvula luce ridet
     Ille advocatus templorum Christianorum,
     De cuius latino Augustinus sibi providit.
@@ -56,10 +46,6 @@ Here is the transcription of the text from the image:
 46 Ipsa est lux eterna Sigerii,
     Qui, legendo in vico straminum,
     Syllogizavit invidiosa vera.
-
----
-
-**Bottom Left (Latin Commentary)**
 
 In alia parvula luce ridet ille advocatus templorum
 Christianorum, de cuius latino Augustinus sibi providit.
@@ -90,10 +76,6 @@ loicus, philosophus, theologus, aritmeticus, geometer, astro-
 logus et musicus. Hic composuit libros de Trinitate, de Conso-
 latione, et de Consolatione; fuit [iuris]consultus romanus,
 habens uxorem sanctam, duos filios sanctos. Hic tempore
-
----
-
-**Bottom Right (Latin Commentary)**
 
 Theodorici, quia ipse defendebat Rempublicam Romanam,
 non erat in gratia Imperatoris, et sibi impositum falso

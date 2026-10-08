@@ -1,8 +1,4 @@
-Here is the transcription of the text from the image:
-
-**Page 716**
-
-**Left Column (Italian - Purgatorio XXV)**
+716
 
 29 Senza restarsi, per sè stessa cade
    Mirabilmente all'una delle rive;
@@ -29,8 +25,6 @@ Here is the transcription of the text from the image:
    E gl'altri affecti, l'ombra si sfigura;
    E quest'è la cagion di che tu miri.
 
-**Right Column (Latin - Purgatorii)**
-
 29 Sine firmare se, per seipsam cadit
    Mirabiliter ad unam riparum;
    Ibi cognoscit prius suas stratas.
@@ -56,10 +50,6 @@ Here is the transcription of the text from the image:
    Et alii effectus, umbra se figurat;
    Et ista est causa de qua tu miraris.
 
----
-
-**Bottom Left Commentary (Italian, with Latin terms)**
-
 Modo vult dicere auctor, quod anima, quando separatur
 a corpore, mox, sine morosa dilatione, vel vadit ad dampna-
 tionem, vel ad Purgatorium, vel ad celum, et subito scit
@@ -84,8 +74,6 @@ illa forma nova, qua induitur anima, talis illa forma sequi-
 tur postea animam quocumque vadat, nova, sicut flamma
 sequitur ignem qui illam facit. Et quia per talem formam
 anima videtur, ideo vocatur umbra; et ex hinc procedunt
-
-**Bottom Right Commentary (Latin)**
 
 omnia que inde possunt apprehendi per illam formam.
 per tale corpus fictum sic factum. Anime rident, plo-

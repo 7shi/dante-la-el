@@ -1,7 +1,6 @@
 288
 INFERNI
 
-**Left Column (Italian):**
 ²² Di fuor dorate son, sì che gl'abbagla;
 Ma dentro pionbo tutto, e grave tanto,
 Che Federigo (¹) le mectea (²) di pagla (³).
@@ -23,7 +22,6 @@ E poi secondo 'l suo passo procedi (⁹).
 
 (¹) Imperator. — (²) a dannati. — (³) a rispetto di quelle. — (⁴) sinistra. — (⁵) di passo. — (⁶) l'opere sue. — (⁷) a me. — (⁸) a me. — (⁹) va.
 
-**Right Column (Latin):**
 ²² Extra deaurate sunt, ita quod eos offuscat;
 Sed intus omnes de plumbo, et graves tantum,
 Quod Fredericus eas mictebat de paleis.
@@ -45,7 +43,7 @@ Et postmodum secundum suum passum procedas.
 
 Ista gens est picta et deaurata, quia solum in apparentia,
 et non existentia, stat vita ypocritarum. Et dicitur ypocrisis
-ab *ypos*, quod est super, et *crisis*, quod est aurum, quasi
+ab ypos, quod est super, et crisis, quod est aurum, quasi
 res super deaurata, quia ypocrite intus sunt mali, et exte-
 rius apparent boni. Solum in superficie est eorum bonitas,
 et tamen gloria ypocrite est ad instar puncti. Vadunt sem-
@@ -92,7 +90,7 @@ idest respectu istarum.
 —
 Nunc exclamat auctor: O in eternum faticose mante
 (vocativi casus)! idest, o laboriose mantelle! Nos vertimus
-nos adhuc, *pur*, ad manum sinistram cum eis simul, in-
+nos adhuc, pur, ad manum sinistram cum eis simul, in-
 tenti ad tristem planctum. O in eternum faticose! idest,
 vos ypocrite, habentes pro vobis ipsis tale mantellum. Ad
 tristem planctum; quia apud Evangelium, Matthei sexto,
@@ -100,7 +98,7 @@ ypocrite sunt tristes. Sed propter pondus, illa gens fessa
 veniebat ita plane, quod eramus novi de sotietate ad omnem
 motum cruris, idest ad omnem passum, Dantes faciebat septem.
 —
-Perch'io io al duca mio: *Ex quo ego duci meo*: ista
+Perch'io io al duca mio: Ex quo ego duci meo: ista
 est tertia pars huius capituli, in qua describuntur duo
 moderni spiritus. Notandum est hic, quod tempore Boni-
 faci octavi surrexerunt quidam bene divites et nobiles viri,

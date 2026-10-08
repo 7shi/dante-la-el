@@ -1,10 +1,6 @@
-Here's the transcription of the provided image:
-
-**Page Header:**
 714
 PURGATORII
 
-**Left Column (Italian - Dante's Purgatorio):**
 20 Hor sì spiega, figluol (¹), hor si distende
 La virtù ch'è del cor del generante,
 Dove natura a tutte membra intende:
@@ -16,7 +12,6 @@ Dall'anima el possibile intelletto,
 Perchè da lui non vide organo assumpto.
 (¹) o.
 
-**Right Column (Latin - Poem Commentary/Translation):**
 20 Nunc explicatur, fili, nunc extenditur
 Virtus que [est] a corde generantis,
 Ubi natura omnibus membris intendit:
@@ -27,7 +22,6 @@ Quod sapientiorem te fecit errare;
 Ab animali possibili intellectum,
 Quia ab eo non vidit organum assumptum.
 
-**Left Column (Latin Commentary below Italian poem):**
 Adhuc, digestus, descendit ubi est pulchrius tacere quam
 dicere, idest ad membra genitalia, vel melius ad testiculos;
 et inde postea genit, idest stillat, super alium sanguinem
@@ -72,7 +66,6 @@ insistendum.
 Sed qualiter de animali efficitur infans. Ma come
 d'animal: hec est tertia pars huius capituli, in qua po-
 
-**Right Column (Latin Commentary below Latin poem):**
 nitur productio anime intellective. Vult dicere, quod anima
 intellectiva sic fit: quod factis membris omnibus et finitis,
 saltem corde, epate, et cerebro. motor primus super tanta

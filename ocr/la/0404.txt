@@ -1,9 +1,5 @@
-Here is the transcription of the Latin text from the image:
-
-**Page Header:**
 INFERNI
 
-**Main Latin Text (Poem - right column):**
 ³⁸ Ego remansi ad respiciendum stuolum,
 Et vidi rem quod ego timerem,
 Sine maiori probacione, recitare illam solus;
@@ -21,10 +17,8 @@ Et ille mirabatur nos, et dicebat: Heu michi!
 Et erant duo in uno, et unus in duobus;
 Quomodo potest hoc esse, ille scit qui sic gubernat.
 
-**Latin Glosses for Italian Text (Footnotes below poem):**
 (¹) appositio. — (²) corazzina. — (³) suo. — (⁴) pendente. — (⁵) sua. — (⁶) modo. — (⁷) capo. — (⁸) Dio.
 
-**Latin Commentary (Prose - bottom section):**
 Sed ego remansi ad respiciendum stuolum, idest multi-
 tudinem illarum animarum; et vidi rem, scilicet unam, quod
 ego timerem, sine maiori probacione, recitare illam solus.

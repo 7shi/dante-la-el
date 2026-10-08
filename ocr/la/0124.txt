@@ -1,6 +1,4 @@
-**Page 70**
-
-**Italian Text (Left Column)**
+70
 
 ⁴² Vidi Camilla e la Pantasylea
 Dall'altra parte, vidi el re Latino,
@@ -11,8 +9,6 @@ E solo in parte vidi el Saladino.
 ⁴⁴ Poi che 'nnalzai un poco più le cigla,
 Vidi 'l maestro di color che sanno,
 Seder tra phylosophica famigla.
-
-**Latin Text (Right Column)**
 
 INFERNI
 ⁴² Vidi Camillam et Pantasileam
@@ -25,17 +21,13 @@ Et solum in parte vidi Saladinum.
 Vidi magistrum illorum qui sciunt
 Sedere intra philosophicam familiam.
 
-**Commentary (Below the poetic stanzas)**
-
-**Left Column (Italian Commentary)**
-
 et habuit victoriam de Pompeo. Fuit illustrissimus et pri-
 mus qui dominatus est Urbi. Habebat oculos sicut avis
 qui dicitur grifo, vel sicut falco.
 
-*Vidi Camillam et Pantasileam ex altera parte,
+Vidi Camillam et Pantasileam ex altera parte,
 vidi regem Latinum, qui cum Lavinia sua filia sede-
-bat*: de Camilla dictum est in primo capitulo, que fuit
+bat: de Camilla dictum est in primo capitulo, que fuit
 filia regis Methabi, regis civitatis Primeverni, civitatis Ma-
 ritime prope regnum Apulie versus partes Rome; que Cam-
 milla fuit strenua in armis, et venit in adiutorium Turni
@@ -69,14 +61,12 @@ catur nunc Terra Nova. Hic habuit filiam nomine Lavinam,
 que hic sedebat cum suo patre. De hiis dictum fuit supra
 satis.
 
-*Vidi illum [Brutum], qui expulsit Tarquinum, Lu-
+Vidi illum [Brutum], qui expulsit Tarquinum, Lu-
 cretiam, Iuliam, Martiam, Corneliam, et solum in una
-parte vidi Saladinum*: nunc auctor extendit se ad Roma-
+parte vidi Saladinum: nunc auctor extendit se ad Roma-
 nos. Iste Brutus vocabatur prius Lucius Iunius. Fuit de
 stirpe Tarquini Superbi; sed quia Tarquinus interfecit fra-
 trem carnalem istius Bruti, ipse Brutus, ut salvaret se et
-
-**Right Column (Latin Commentary)**
 
 fratrem suum ulcisceretur, finxit se dementem, reliquit
 omnes opes, et ibat sicut animal brutum: inde fuit vocatus
@@ -113,9 +103,9 @@ sed Babilonie Egipti: fuit vir strenuus, et multa
 opera commendabilia fecit; et quia pauci Saraceni sunt
 viri aut fuerunt probi, ideo ponit eum solum.
 
-Poi ch'innalzai. *Postquam elevavi cilia, vidi magi-
+Poi ch'innalzai. Postquam elevavi cilia, vidi magi-
 strum [eorum] qui sciunt, sedentem intra familiam phi-
-losophicam*: ista est sexta pars huius capituli, in qua per
+losophicam: ista est sexta pars huius capituli, in qua per
 excellentiam vult commendare philosophiam et philosophos;
 ideo dicit: Postquam elevavi oculos, scilicet intellectuales.
 Hec elevatio oculorum denotat excellentiam philosophie

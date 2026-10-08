@@ -1,6 +1,3 @@
-Here is the transcription of the Latin text from the image:
-
-```
 317
 CAPITULUM VICESIMU OCTAVUM
 
@@ -54,4 +51,3 @@ Vercelle fuit una civitas in Lombardic confinibus. Marcabò
 fuit bastita, quam fecerunt Veneti prope Ravennam, quando
 habebant guerram cum Ferrariensibus: et loquitur sic.
 quia iste Pierus seminaverat scandala in Ravenna.
-```

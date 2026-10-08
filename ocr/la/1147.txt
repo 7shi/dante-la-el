@@ -1,5 +1,3 @@
-**Left Column (Italian Poem)**
-
 33 Qualunque melodia più dolce sona
 Quaggiù, e più a sè l'anima tira,
 Parrebbe nube che squarciata tona,
@@ -24,8 +22,6 @@ Là dov'io era ancor non m'appariva.
 40 Però non ebber gl'ochi mie' potenza
 Di seguitar la coronata fiamma,
 Che si levò appresso sua semenza.
-
-**Right Column (Latin Translation of Poem)**
 
 CAPITULUM VICESIMUMTERTIUM
 1093
@@ -54,8 +50,6 @@ Ubi ego eram adhuc non apparebat.
 Sequi coronatam flammam,
 Que surrexit prope suum semen.
 
-**Commentary (Left Column, below Italian Poem)**
-
 Quecumque melodia que magis dulciter sonat hic inferius,
 scilicet in mundo, et que plus animam ad se trahit (nam
 cantus dulcis trahit ad se animam audientis, et auctor
@@ -82,8 +76,6 @@ Sic circulata melodia sigillabatur, et omnia alia lumina
 faciebant sonare nomen Marie. Ex hiis vult dicere auctor,
 quod Christus ascendebat in celum, et Maria mater eius
 
-**Commentary (Right Column, below Latin Translation)**
-
 sequebatur eum aliquantulum, quousque ipse Christus in-
 travit celum nonum; tunc Virgo Maria sequuta est eum.
 Ista dulcis melodia fuerunt Doctores sacre Theologie. seu
@@ -108,4 +100,3 @@ Ideo non habuerunt oculi mei potentiam sequi corona-
 tam flammam, idest Virginem Mariam, vel Christum, que
 surrexit prope suum semen.
 —
-Digitized by Google

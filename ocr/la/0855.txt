@@ -1,4 +1,3 @@
-**Column 1 (Italian)**
 ⁸⁰¹
 ⁴⁰ Dapoi vidi avventarsi nella cuna
    Del triumphal vehiculo una volpe (¹),
@@ -12,7 +11,6 @@
 
 (¹) heresia — (²) ne’sacri concilii — (³) Theologia — (⁴) volto — (⁵) fuga — (⁶) per fin all’incendio — (⁷) Constantino — (⁸) ne la Chiesa — (⁹) richa.
 
-**Column 2 (Latin)**
 CAPITULUM TRICESIMUMSECUNDUM
 ⁴⁰ Postea vidi adventari in cunam
    Triumphalis vehiculi unam vulpem,
@@ -66,7 +64,6 @@ hereticos.
 Postea vidi adventari, idest saltare, in cunạm triumphalis
 vehiculi, idest currus, unam vulpem, idest astutiam here-
 
-**Column 3 (Latin)**
 tice pravitatis, que omnis pastus boni, idest omnis bone
 doctrine, apparebat, idest videbatur, ieiuna.
 

@@ -1,7 +1,3 @@
-Here is the transcription of the Latin text from the provided image:
-
-**Left Column (Italian Poem and Latin Commentary)**
-
 810
 PURGATORII
 
@@ -59,8 +55,6 @@ gere et fuit expulsus de Paradiso. Existimat: considerat.
 Dormit ingenium tuum, si non existimat, idest si non
 intelligit, propter singularem causam esse excelsam ipsam
 tantum, et sic transversam in summitate.
-
-**Right Column (Latin Poem and Latin Commentary)**
 
 21 Propter mordere illam, in pena et in desiderio
    Quinque millibus annis et pluribus anima prima

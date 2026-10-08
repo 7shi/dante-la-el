@@ -1,6 +1,4 @@
-**CAPITULUM VICESIMUM**
-
-**Italian (Left Column)**
+CAPITULUM VICESIMUM
 
 ¹³ Colui che luce in mezzo per pupilla,
 Fu el cantor dello Spirito Santo.
@@ -17,9 +15,7 @@ Di questa dolce vita e della opposta (³).
 
 (¹) Trayano imperadore — (²) vedova — (³) infernale.
 
-**Latin (Right Column)**
-
-**1059**
+1059
 
 ¹³ Ille qui lucet in medio pro pupilla,
 Fuit cantor Spiritus Sancti,
@@ -28,14 +24,12 @@ Qui archam transtulit de villa in villam:
 In quanto effectu fuit suum consilium,
 Propter remunerationem, que est tantumdem.
 ¹⁵ De quinque, qui michi faciunt circulum per su-
-   [percilium,
+[percilium,
 Ille, qui plus rostro michi adheret,
 Viduam consolatus est de filio:
 ¹⁶ Nunc cognoscit quantum carum constat
 Non sequi Christum, propter experientiam
 Istius dulcis vite et opposite.
-
-**Prose (Left Column)**
 
 romanorum, et imposuit ei nomen Constantinopolim, idest
 civitatem Constantini; et secundum opinionem auctoris,
@@ -80,8 +74,6 @@ dictum est satis in capitulo precedenti: Carlo; iste fuit
 Karolus Cioctus, filius Karoli primi, et fuit pater regis
 Ruberti et Sancti Ludovici. Iste fecit guerram de foris
 et lictoribus insule Cicilie, et male tractabat eam; sicut rex
-
-**Prose (Right Column)**
 
 Fredericus de intus male tractavit eandem insulam Cicilie.
 Alia anima erat anima Ryphei Troyani. Hic Rypheus mi-

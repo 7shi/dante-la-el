@@ -1,6 +1,5 @@
-*CAPITULUM DECIMUMNONUM*
+CAPITULUM DECIMUMNONUM
 
-**Italian (Left Column):**
 ¹³ Et io: Tanto m’è bello, quant’a te piace:
 Tu se’signor (¹), e sai ch’io non mi parto
 Dal tuo voler, e sai quel che si tace.
@@ -17,7 +16,6 @@ Comincia’io a dir, se puoi, fa’mocto (⁸).
 Lo perfido assassin, che, poi ch’è ficto (⁹),
 Richiama lui (¹⁰), per che la morte cessa (¹¹).
 
-**Latin (Right Column):**
 243
 ¹³ Et ego: Tantum michi est pulchrum, quantum tibi
 placet: Tu es dominus, et scis quod ego non recedo [placet:]
@@ -35,12 +33,8 @@ Incepi ego dicere, si potes, loquaris.
 Perfidum assassinum, qui postquam est fictus,
 Revocat illum, ut mors cesset.
 
-**Footnotes (below main text):**
 (¹) mic. — (²) al. si mi. — (³) al. foro. — (⁴) al. torcea. — (⁵) qualunqe. — (⁶) el capo. — (⁷) palo in terra. — (⁸) parlami. — (⁹) propaginato in terra. — (¹⁰) Frate confessore. — (¹¹) si differisca alquanto.
 
-**Commentary (Lower Part of Page):**
-
-**Italian Commentary (left column):**
 ronatus. Misit unum consortem suum, cardinalem, scilicet
 dominum Latinum, sic vocatum, et fecit ipsum domi-
 Bononie. Iste fuit primus notorius symoniacus, de quo ha-
@@ -58,26 +52,25 @@ necessaria. scilicet quod portaretur a Virgilio, quia stan-
 tantum a longe ubi erat, supra pontem, non potuisset
 dire illum nec intelligere, nec ab ipso intelligi.
 
-*Et ego: Tantum michi pulchrum est:* idest, tantum
-volo, quantum tibi placet. *Tu es dominus; tu scis quod*
-*ego non discedo a velle tuo. et scis id quod tacetur.* Sci-
+Et ego: Tantum michi pulchrum est: idest, tantum
+volo, quantum tibi placet. Tu es dominus; tu scis quod
+ego non discedo a velle tuo. et scis id quod tacetur. Sci-
 licet: licet non dicam tibi. tu scis quod ego volo, et quod
 michi bonum est.
 
-*Tune venimus in arginem, sive aggerem. quartum, idest*
+Tune venimus in arginem, sive aggerem. quartum, idest
 in ripam quartam. scilicet que dividit tertiam vallem a
 quarta: volvimus nos ad manum sinistram inferius, in fun-
-dum *foracchiatum*, idest multis foraminibus transforatum,
-et *artum*; et *bonus magister adhuc me ab sua anca*, idest
-tybia, non deposuit. donec me conduxit ad *ructum*, idest
-ad foramen. illius, qui sic plangebat cum *zancha*, idest
+dum foracchiatum, idest multis foraminibus transforatum,
+et artum; et bonus magister adhuc me ab sua anca, idest
+tybia, non deposuit. donec me conduxit ad ructum, idest
+ad foramen. illius, qui sic plangebat cum zancha, idest
 plantis. Ubi autem alii plangunt cum manibus, idest per-
 cutiendo manus, isti cum pedibus se percutiunt et cruciant.
 Sed notetur exordium quod auctor facit, volens sibi com-
-placere. dum dicit: *Quiscumque tu sis. qui sursum tenes*
+placere. dum dicit: Quiscumque tu sis. qui sursum tenes
 inferius, idest partem superiorem, sicut est caput, tenes
 
-**Latin Commentary (right column):**
 subtus (partem nobiliorem submersam sub tenet). et pedes,
 viliorem partem, tenes versus celum, o anima tristis, sicut
 palum commissa, idest plantata, cepi ego dicere, si potes,
@@ -85,11 +78,11 @@ fac mottum, idest loquere; quia non videbatur verisimile
 quod posset loqui sic stando cum capite subtus in foramine.
 
 Nunc ponit auctor dispositionem. quomodo morabatur et
-expectabat, comparative dicens: *Ego stabam sicut Frater,*
+expectabat, comparative dicens: Ego stabam sicut Frater,
 idest confessor, qui confitetur, idest
-*nem perfidi assassini* (assassinus est ille, qui occidit ho-
+nem perfidi assassini (assassinus est ille, qui occidit ho-
 mines pro pecunia); qui. scilicet perfidus assassinus. post-
-*quest iam plantatus, revocat illum*. idest
+quest iam plantatus, revocat illum. idest
 confessorem, ut mors cesset. idest tardetur. Similitudo bona.
 Sicut iam quando caput assassini est in fovea immissum,
 aud confortaandum ipsum, et ille revocat

@@ -1,10 +1,6 @@
-Here is the transcription of the Latin text from the image:
-
-**[Page Header]**
 CAPITULUM TRICESIMUMPRIMUM
 789
 
-**[Main Text - Left Column]**
 37 Merrenti agl'occhi suoi; ma nel giocondo
 Lume ch'è dentro aguzeran li tuoi
 Le tre di là, che miran (¹) più profondo.
@@ -31,7 +27,6 @@ Negl'altri, gl'altri tre si fero avanti,
 Danzando a lor angelico choribo.
 (¹) di noi — (²) o — (³) al. cheta.
 
-**[Main Text - Right Column]**
 37 Ducemus te ad oculos suos; sed in iocundum
 Lumen quod intus acuent tuos,
 Tres sunt ulteriores, que respiciunt magis profunde.
@@ -57,7 +52,6 @@ Qui, satiando de se, sitibundos reddit;
 In actibus, alie tres se fecerunt ante,
 Corizando ad earum angelicam naturam.
 
-**[Lower Section - Left Column]**
 clesia triumphanti sumus stelle; priusquam Beatrix de-
 scenderet ad mundum, idest ante adventum Filii Dei, fuimus
 ordinate sibi pro suis ancillis, idest in servitium Sacre
@@ -83,7 +77,6 @@ iam tibi traxit sua arma, idest a quibus processerunt sa-
 gipte, que incenderunt amorem.
 —
 
-**[Lower Section - Right Column]**
 Quando auctor incepit considerare et speculari in oculis
 Beatricis. totus mutatus est; ideo sequitur in textu: Mille
 desideria. plusquam flamma calida, strinxerunt oculos, scil-
@@ -109,4 +102,3 @@ Interim quod plena stupore et leta, anima gustabat de
 illo cibo, qui satiando de se sitibundos reddit (quia talis
 divinus cibus satiat et semper tenet avidos cibatos, quia
 non fastidiat unquam), se demonstrando de altiori tribu
-Digitized by Google

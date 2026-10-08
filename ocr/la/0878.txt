@@ -1,10 +1,7 @@
-Here is the transcription of the Latin text from the image:
+824
 
-**[Page 824]**
+PARADISI
 
-**PARADISI**
-
-**Left Column (Italian)**
 ¹⁰ Sì rade volte, padre (¹), se ne coglie (²),
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Per triumphare (³) o Cesare o poeta (⁴),
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Colpa (⁵) e vergogna dell'humane voglie (⁶),
@@ -22,7 +19,6 @@ o altri nella gloria del cielo — (⁵) appositive — (⁶) volontà e desider
 hic quod de minimis pervenitur ad maxima — (¹⁷) doppo a me Dante — (¹⁸) che non sono le mie preghiere et orationi — (¹⁹) per altri —
 (²⁰) cioè Apollo honorato in Cyrra.
 
-**Right Column (Latin)**
 ¹⁰ Ita raro, pater, colliguntur,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pro triumphando vel Cesare vel poeta,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Culpa et verecundia est humanarum voluntatum,
@@ -33,7 +29,6 @@ hic quod de minimis pervenitur ad maxima — (¹⁷) doppo a me Dante — (¹⁸
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forsan retro me cum melioribus vocibus
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deprecabuntur, ad hoc ut Cirra respondeat.
 
-**Bottom Left Column (Latin Prose)**
 lauro coronari; quod cedet sibi, Apollini, ad honorem et
 decorem, idest erit ad honorem scientie poetice.
 
@@ -74,7 +69,6 @@ etiam gloria scientiarum. Et ita Rome. Sed modo non re-
 peritur quispiam, qui, propter facta armorum aut scien-
 tiarum, mereatur coronari et tamen deberet esse opposi-
 
-**Bottom Right Column (Latin Prose)**
 tum; quia quando reperitur aliquis avidus scientie poetice,
 deberet fieri magnum gaudium, quia hoc procederet a no-
 bilitate humanarum voluntatum), quod parere letitiam su-

@@ -1,5 +1,3 @@
-**Column 1 (Italian)**
-
 194
 INFERNI
 7 Guardar l'un l'altro sotto nuova luna;
@@ -23,8 +21,6 @@ Farol, se piace a costui, chè vo seco.
 
 (¹) dell'ago. — (²) del vestimento. — (³) o.
 
-**Column 2 (Latin)**
-
 INFERNI
 7 Respicere unus alium sub nova luna;
 Et ita versus nos acuebant supercilia,
@@ -44,8 +40,6 @@ Redeas retro et permicte ire tracciam.
 12 Ego dixi ad eum: Quantum possum, vos precor;
 Et si vultis quod vobiscum sedeam,
 Faciam, si placeat isti, quia vado secum.
-
-**Column 3 (Latin Commentary)**
 
 mus une aciei animarum, que veniebant prope aggerem,
 et quelibet nos respiciebat, sicut consuevit de sero respi-
@@ -82,8 +76,6 @@ matam, quia erat brusciata, idest combusta. Quasi dicat:
 Virtus facit adhuc se cognosci, quantumcumque sit in ho-
 mine involuto in vitiis, si habet aliquam singularem vir-
 tutem et excellentem.
-
-**Column 4 (Latin Commentary)**
 
 Inclinando meam ad suam faciem, respondi: Estis vos
 hic, ser Brunecte? idest, in tam turpi loco et penoso? Nota

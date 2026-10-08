@@ -1,7 +1,5 @@
-**Page Number:**
 198
 
-**Main Text (Latin Column):**
 INFERNI
 
 ^27 Si esset tota plena mea petitio,
@@ -27,8 +25,6 @@ Dextram se volvit retro, et respexit me;
 Postea dixit: Bene auscultat qui illam notat.
 
 (¹) remormori.
-
-**Commentary Text (Latin):**
 
 Se fosse piena. Si esset plena tota mea petitio: hec
 est tertia pars huius capituli, in qua ponitur responsio
@@ -81,5 +77,3 @@ volvit retro, et respexit me; postea, idest deinde, dixit: Bene
 auscultat, qui illam notat. Idest: Ista est magna laus et
 commendatio, quam das tibi; et bene facies sic facere.
 Quasi dicat: Non dixisti hoc secundo.
-
-Digitized by Google

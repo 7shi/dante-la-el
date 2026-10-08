@@ -1,56 +1,50 @@
-Here is the transcription of the provided image:
-
-**Left Column (Top):**
 610
 PURGATORII
 
 ²⁸ Però, se 'l mondo presente (¹) disvia (²),
-   In voi è la cagion, in voi si chieggia,
-   Et io te ne sarò hor vera spia (³).
+In voi è la cagion, in voi si chieggia,
+Et io te ne sarò hor vera spia (³).
 ²⁹ Esce di mano a lui (⁴), che la vagheggia
-   Prima che sia, a guisa di fanciulla
-   Che piangendo e ridendo pargoleggia.
+Prima che sia, a guisa di fanciulla
+Che piangendo e ridendo pargoleggia.
 ³⁰ L'anima semplicetta, che sa nulla (⁵),
-   Salvo che, mossa da lieto Factore,
-   Volentier torna a ciò che la trastulla (⁶).
+Salvo che, mossa da lieto Factore,
+Volentier torna a ciò che la trastulla (⁶).
 ³¹ Di piccol ben (⁷) prima sente sapore;
-   Quivi (⁸) s'inganna, e dietro ad esso (⁹) corre,
-   Se guida (¹⁰) o freno (¹¹) non torce suo amore.
+Quivi (⁸) s'inganna, e dietro ad esso (⁹) corre,
+Se guida (¹⁰) o freno (¹¹) non torce suo amore.
 ³² Onde convenne (¹²) leggie per fren (¹³) porre;
-   Convenne rege (¹⁴) haver, che discernesse
-   De la vera città (¹⁵) almen la torre.
+Convenne rege (¹⁴) haver, che discernesse
+De la vera città (¹⁵) almen la torre.
 ³³ Le leggi son (¹⁶), ma chi pon mano ad esse?
-   Nullo; però che 'l pastor (¹⁷) che precede
-   Ruminar può (¹⁸), ma non ha l'unghie fesse (¹⁹).
+Nullo; però che 'l pastor (¹⁷) che precede
+Ruminar può (¹⁸), ma non ha l'unghie fesse (¹⁹).
 
-**Left Column (Footnotes):**
 (¹) mundani homines — (²) da le virtù — (³) declaratione — (⁴) a Dio — (⁵) la quale non sa alcuna cosa — (⁶) li dà dilecto —
 (⁷) temporale — (⁸) In quel ben temporale — (⁹) ben temporale — (¹⁰) ragione — (¹¹) legge — (¹²) a Dio — (¹³) freno — (¹⁴) rationem —
 (¹⁵) di vita eterna — (¹⁶) divine et humane — (¹⁷) prelato — (¹⁸) bene loqui — (¹⁹) discretionem boni et mali.
 
-**Right Column (Top):**
 PURGATORII
 
 ²⁸ Ergo, si mundus presens deviat,
-   In vobis est causa, in vobis queratur,
-   Et ego tibi de hoc ero nunc explorator.
+In vobis est causa, in vobis queratur,
+Et ego tibi de hoc ero nunc explorator.
 ²⁹ Exit de manu illius, qui illam intuetur,
-   Priusquam sit, ad similitudinem puelle
-   Que plorando et ridendo pargolezzat,
+Priusquam sit, ad similitudinem puelle
+Que plorando et ridendo pargolezzat,
 ³⁰ Anima simplex, que nihil scit,
-   Salvo quod, mota ab alto Factore,
-   Libenter redit ad id quod eam solatiatur.
+Salvo quod, mota ab alto Factore,
+Libenter redit ad id quod eam solatiatur.
 ³¹ Parvi boni primo sentit saporem;
-   Ibi decipitur, et retro illud currit,
-   Si dux vel frenum non torquet suum amorem.
+Ibi decipitur, et retro illud currit,
+Si dux vel frenum non torquet suum amorem.
 ³² Unde convenit legem pro freno ponere;
-   Convenit regem habere, qui discernat
-   Vere civitatis saltem turrim.
+Convenit regem habere, qui discernat
+Vere civitatis saltem turrim.
 ³³ Leges sunt, sed quis ponit manus ad illas?
-   Nullus; eo quia pastor qui precedit,
-   Ruminari potest, sed non habet ungulas fixas.
+Nullus; eo quia pastor qui precedit,
+Ruminari potest, sed non habet ungulas fixas.
 
-**Bottom Left Section (Commentary):**
 Modo Marcus declarat auctori, unde provenit quod mun-
 dus sit ita pravus, dicens: Ergo si mundus pravus deviat
 idest a via bonorum morum et virtutum, in vobis est causa,
@@ -75,7 +69,6 @@ ibi decipitur et retro illud, scilicet parvum bonum, currit,
 idest corrigit, vel dirigit, suum amorem. Anima pueri,
 etiam in ventre matris, incipit sentire res sensibiles, et sic
 
-**Bottom Right Section (Commentary):**
 in lacte nutritur et statim delectatur in rebus sensibilibus:
 Et sic libenter pueri sequuntur sensibilia, et sic
 deviaut a via morum, nec illam ingrediuntur, nisi habeant
@@ -104,5 +97,3 @@ pla ponere. Modo vult dicere hic Marcus. quod prelati bene
 possunt ruminari, et bene ruminantur, idest bene predi-
 cant et dicunt; sed non bene operantur, nec dant bona
 exempla populis et suis subditis.
-
-Digitized by Google

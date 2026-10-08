@@ -1,59 +1,51 @@
-The image contains text in two languages: Italian on the left column (main text) and Latin on the right column (translation/commentary) and for all the footnotes.
-
-Here is the transcription:
-
-**Page Header:**
 140 INFERNI
 
-**Main Text (Left Column - Italian):**
 37 Allor, come di mia colpa compuncto,
-   Diss'io: Or direte a quel caduto
-   Che 'l nato suo è co'vivi ancor giunto (¹).
+Diss'io: Or direte a quel caduto
+Che 'l nato suo è co'vivi ancor giunto (¹).
 38 E s'io fui dianzi a la risposta muto,
-   Diteli ch'io 'l fei, perch'io pensava
-   Già nell'errore che m'avete soluto.
+Diteli ch'io 'l fei, perch'io pensava
+Già nell'errore che m'avete soluto.
 39 E già 'l maestro mio mi richiamava:
-   Perch'io pregai lo spirito più vaccio
-   Che mi dicesse chi con lui stava.
+Perch'io pregai lo spirito più vaccio
+Che mi dicesse chi con lui stava.
 40 Dissèmi: Qui con più di mille giaccio:
-   Qua dentro è 'l secondo Federigo,
-   E 'l cardinale, e degl'altri mi taccio.
+Qua dentro è 'l secondo Federigo,
+E 'l cardinale, e degl'altri mi taccio.
 41 Indi s'ascose: et io inver l'antico
-   Poeta volsi e passi, ripensando
-   A quel parlar che mi parea nimico.
+Poeta volsi e passi, ripensando
+A quel parlar che mi parea nimico.
 42 Et el si mosse; e poi così andando,
-   Mi disse: Perchè se' così smarrito?
-   Et io li satisfeci al suo dimando.
+Mi disse: Perchè se' così smarrito?
+Et io li satisfeci al suo dimando.
 43 La mente tua conservi quel ch'hai udito
-   Incontr'a te, ne cominciò quel saggio,
-   Et hor attende qui: e drizzò 'l dito.
+Incontr'a te, ne cominciò quel saggio,
+Et hor attende qui: e drizzò 'l dito.
 
-**(¹) al co' vivi congiunto.**
+(¹) al co' vivi congiunto.
 
-**Main Text (Right Column - Latin):**
 37 Tunc, tamquam vita culpa compunctus,
-   Dixi: Or dicetis illi qui cecidit, quod suus natus
-   Est inter vivos adhuc coniunctus.
+Dixi: Or dicetis illi qui cecidit, quod suus natus
+Est inter vivos adhuc coniunctus.
 38 Et si ego fui ante responsum mutus,
-   Facias scire ei quod feci, quia cogitabam
-   Iam in errore quem michi solvistis.
+Facias scire ei quod feci, quia cogitabam
+Iam in errore quem michi solvistis.
 39 Et iam magister meus me revocabat:
-   Ex quo ego rogavi spiritum magis cito,
-   Quod michi diceret qui cum eo stabant.
+Ex quo ego rogavi spiritum magis cito,
+Quod michi diceret qui cum eo stabant.
 40 Dixit michi: Hic plusquam cum mille iaceo:
-   Hic intus est secundus Fredericus,
-   Et cardinalis, et de aliis taceo.
+Hic intus est secundus Fredericus,
+Et cardinalis, et de aliis taceo.
 41 Postea se abscondit, et ego versus antiquum
-   Poetam volvi passus, recogitando ad illum sermonem
-   Qui michi apparebat inimicus.
+Poetam volvi passus, recogitando ad illum sermonem
+Qui michi apparebat inimicus.
 42 Ipse se movit; et postea sic eundo,
-   Michi dixit: Quare es tu ita territus?
-   Et ego ei satisfeci ad suam requisitionem.
+Michi dixit: Quare es tu ita territus?
+Et ego ei satisfeci ad suam requisitionem.
 43 Mens tua conservet illud quod audisti
-   Contra te, michi mandavit ille sapiens,
-   Et nunc attendas hic: et direxit digitum.
+Contra te, michi mandavit ille sapiens,
+Et nunc attendas hic: et direxit digitum.
 
-**Commentary/Footnotes (Left Column - Latin):**
 rem a longe melius quam de propinquo: licet nulla res
 possit videri nisi cum debita distantia. Nam sensibile, po-
 situm supra sensum, corrumpit sensum, idest non permittit
@@ -84,12 +76,10 @@ ille cecidit in sepulchrum, ex eo quod Dantes nec dedit
 responsionem cito, ideo Dantes fuit compunctus, idest com-
 paxus illi domino Cavalcanti.
 
-**Commentary/Footnotes (Right Column - Latin):**
 Ideo sequitur in textu: Tunc, sic de mea culpa compun-
 ctus, dixi, scilicet Farinate: Dicetis illi qui cecidit, scilicet
 domino Cavalcanti, quod suus natus, scilicet filius, adhuc
 cum vivis est coniunctus, idest habitat; idest vivit.
-—
 Et si fui ante responsionem mutus, idest si non respondi
 sibi, indicate sibi quod hoc feci quoniam cogitabam in
 errore, idest dubio, quod michi iam solvistis. Et iam ma-
@@ -101,16 +91,12 @@ fuit imperator, etc. Dicitur secundus ad differentiam Fre-
 derici Barbarusse, qui fuit imperator Alamanus primus.
 Et cardinalis, scilicet dominus Octavianus, de quo suffi-
 cienter superius fuit dictum. Et de aliis taceo.
-—
 Demum abscondit se; et ego versus antiquum poetam,
 scilicet Virgilium, verti passus, recogitando illam loquu-
 tionem que michi videbatur inimica, idest quam predixit
 michi Dominus Farinata de exilio meo futuro; et ipse,
 scilicet Virgilius, se movit.
-—
 Demum, sic eundo, michi dixit: Quare tu es ita territus?
 Et ego satisfeci petitioni sue, idest dixi causam mei ter-
 roris. Mens tua conservet illud quod audivisti contra te,
 idest tibi contrarium, scilicet exilium. Sic precepit michi
-
-Digitized by Google

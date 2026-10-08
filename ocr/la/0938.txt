@@ -1,7 +1,3 @@
-Here is the transcription of the text from the image:
-
-**Left Column (Italian - Dante Alighieri's Paradiso):**
-
 7 Io li credetti, e ciò che 'n suo'fede era
 Veggìo hora chiaro, sì come tu vedi,
 Ch'ogni contradition è falsa e vera.
@@ -20,8 +16,6 @@ E chi'l s'appropria, e chi a lui s'oppone.
 12 Vedi quanta virtù l'ha facto degno
 Di reverentia; e cominciò d'allora
 Che Pallante morì per dargli regno.
-
-**Right Column (Latin - Commentary on Dante's Paradiso):**
 
 7 Ego ei credidi, et id quod in sua fide erat
 Video ego nunc clare, sicut tu vides
@@ -42,19 +36,13 @@ Et hii qui sibi illud appropriant, et qui ei se con-
 Reverentia; et incepit ab eo tempore
 Quo Pallas mortuus est ut daret sibi regnum.
 
-***
-
-**Bottom Left (Italian/Latin Commentary):**
-
 querebam: sed benedictus Agapitus, qui fuit summus pa-
 stor, ad fidem sinceram me direxit cum verbis suis, sci-
 licet doctrina.
----
 Ego ei credidi, et id quod in sua fide erat, video ego
 nunc, sicut tu vides omnem contradictionem falsam et
 veram, idest omnis contradictionis unam partem esse ve-
 ram et aliam falsam.
----
 Statim quod cum Ecclesia movi pedes, idest quod fui
 catholicus et fidelis Ecclesie, Deo in me pro gratia placuit
 inspirare altum laborem. et totum illi, scilicet labori, me
@@ -62,8 +50,7 @@ dedi; et meo Bellisario (est nomen proprium Bellisarius)
 commendavi arma, cui dextera celi fuit ita coniuncta, idest
 favorabilis, quod signum fuit quod ego deberem quiescere,
 idest desistere ab armis et vacare circa leges.
----
-*Or, nunc:* hec est secunda pars huius capituli, in quo
+Or, nunc: hec est secunda pars huius capituli, in quo
 auctor respondit et redarguit tam Gebellinos quam Guel-
 fos, qui se opponunt et contradicunt signo aquile, fa-
 ciendo bonam et longam disgressionem, ostendendo magna
@@ -80,8 +67,6 @@ Regnum Romanorum obtinuit totum universum; non sic
 fuit de aliis regnis, nec tot mirabilia operata sunt Deus
 in illis regnis, sicut in regno Romano. Sub regno et
 in regno Romanorum Christus natus est; totum universum
-
-**Bottom Right (Latin Commentary):**
 
 stetit sub uno monarcha, sub Augusto; sub illo mundus fuit
 redemptus, et Christus crucifixus; et cetera multa, et quasi
@@ -111,10 +96,8 @@ aquila), ad hoc ut videas cum quanta ratione, idest cum
 nulla, moventur, scilicet homines, contra sacrosanctum
 signum, hii qui sibi illud appropriant, scilicet Gebellini, et
 qui ei se contraponunt, scilicet Guelfi.
----
 Vide quanta virtus ipsum, scilicet signum, fecit dignum
 reverentia; et incepit ab eo tempore quo Pallas mortuus
 est ut daret sibi signum, sicut dictum fuit aliqualiter in
 primo capitulo Inferni.
 Quando Eneas applicuit ad fauces Tyberinas, subito fecit
-Digitized by Google

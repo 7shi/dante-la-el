@@ -1,8 +1,6 @@
-**Top Section**
 CAPITULUM QUINTUMDECIMUM
 197
 
-**Left Column (Italian Poem)**
 ²⁴ La tua fortuna tanto ben ti serba,
 Che l'una parte e l'altra (¹) haverà fame
 Di te: ma fia lungo dal becco l'herba.
@@ -15,7 +13,6 @@ Fu facto el nido (²) di malitia tanta.
 
 (¹) guelfa e ghibellina. — (²) Firenze.
 
-**Right Column (Latin Translation of Poem)**
 ²⁴ Tua fortuna tantum honorem tibi servat,
 Quod utraque pars habebit famem
 De te: sed longe erit ab ore herba.
@@ -26,9 +23,6 @@ Si adhuc surgit aliqua in ipsarum fimo,
 Illorum Romanorum, qui ibi remanserunt, quando
 Fuit factus nidus malitie tante.
 
----
-
-**Left Column (Prose)**
 sanum optime. Sed Potestas Florentie cum suo exercitu
 noluit intrare civitatem Pisarum, sicut preceptum fuerat
 sibi; sed fallentes et malefactores puniebat in campo. Po-
@@ -73,7 +67,6 @@ omnes sumus ceci; Florentini sunt ceci. Et sic inolevit et
 crevit hoc proverbium: Florentini ceci. Vere, vere, Floren-
 tini odierna die possunt dici videntes, et Pisani ceci, quia
 
-**Right Column (Prose)**
 Florentini subiugaverunt Pisanos; quod est unum mirum
 in Ytalia. Modo ser Brunectus, memor hystorie de co-
 lumpnis, dicit de Florentinis: Vetus fama in mundo vocat

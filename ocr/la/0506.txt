@@ -1,9 +1,5 @@
-Here is the transcription of the text from the image:
+452
 
-**Page Number:**
-152
-
-**Main Text - Italian (Left Column)**
 34 Ond’io ch’era hor a la marina volto
 Dove l’acqua di Tevere s’insala,
 Benignamente fui da lui raccolto
@@ -17,7 +13,6 @@ Che mi solea quetar tutte mie voglie,
 L’anima mia, che, colla mia persona
 Venendo qui, è affannata tanto.
 
-**Main Text - Latin (Right Column)**
 PURGATORII
 34 Unde ego, qui eram nunc ad marinam revolutus,
 Ubi aqua Tyberis efficitur salsa,
@@ -32,7 +27,6 @@ Qui solebat quietare cunctas meas voluntates,
 Animam meam, quæ, cum sua persona
 Veniendo huc, est fatigata tantum.
 
-**Commentary - Italian (Left Column)**
 ista verba dixit Casella. tunc erat decimoctava dies martii
 illius anni; ita quod a tribus mensibus Deus benigne
 recepit omnes peccatores redeuntes ad penitentiam.
@@ -72,7 +66,6 @@ artis canendi, ut recrearetur ipse auctor, quia erat fati-
 gatus et fastiditus eundo per Infernum. Dicit, in amoroso
 cantu; quia Casella maxime de amore faciebat cantilenas
 
-**Commentary - Latin (Right Column)**
 et canebat. Vult Aristotiles in Ethicis, quod homines ope-
 rantes egent aliquando recreari, et maxime duo genera
 operantium, scilicet iuvenes et melanconici, quorum phan-

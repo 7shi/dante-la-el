@@ -1,9 +1,6 @@
-Here is the transcription of the Latin text from the image:
+CAPITULUM VICESIMUMNONUM
+767
 
-**CAPITULUM VICESIMUMNONUM**
-**767**
-
-**[Poetic Section]**
 41 Tres domine in circulum, ad destram rotam,
     Veniebant corizando: una tantum rubea,
     Quod vix foret intra ignem nota;
@@ -23,7 +20,6 @@ Here is the transcription of the Latin text from the image:
     Illius summi Ypocratis, qui naturam
     Animalibus fecit que ipsa habet magis cara.
 
-**[Prose/Commentary Section]**
 Purgatorio. Iste quatuor reguntur a prudentia, que prece-
 debat. Dicit Aristotiles in Ethicis, quod prudentia est recta
 ratio agibilium; nam prudentia potest esse sine aliis, sed

@@ -1,35 +1,28 @@
-Here is the transcription of the Latin text from the image:
-
-**Page Header**
 CAPITULUM DUODECIMUM
 965
 
-**Main Text (Right Column)**
 30 Et ad sedem, quæ iam fuit benigna
-    Plus pauperibus iustis, non pro ipsa,
-    Sed propter illum qui sedet et tralignat,
+Plus pauperibus iustis, non pro ipsa,
+Sed propter illum qui sedet et tralignat,
 31 Non dispensare duo et tria pro sex,
-    Non fortunam primæ vacantis,
-    Non decimas quæ sunt pauperum Dei,
+Non fortunam primæ vacantis,
+Non decimas quæ sunt pauperum Dei,
 32 Petivit; sed contra mundum errantem
-    Licentiam pugnandi pro semine
-    A quo fasciantur vigintiquatuor plantæ.
+Licentiam pugnandi pro semine
+A quo fasciantur vigintiquatuor plantæ.
 33 Postea cum doctrina et cum voluntate simul
-    Officii apostolici se movit,
-    Quasi torrens quem alta vena premit;
+Officii apostolici se movit,
+Quasi torrens quem alta vena premit;
 34 Et in stipites hereticos percussit
-    Impetus suus vivacius ibi,
-    Ubi resistentiæ erant grossiores.
+Impetus suus vivacius ibi,
+Ubi resistentiæ erant grossiores.
 35 De eo facti fuerunt quamplures diversi rivi,
-    Unde hortus catholicus rigatur,
-    Ita quod sui arbusculi stant vivaciores.
+Unde hortus catholicus rigatur,
+Ita quod sui arbusculi stant vivaciores.
 36 Si talis fuit una rota bigæ,
-    Super qua sancta Ecclesia se defendit,
-    Et vincit in campo suam civilem brigam,
+Super qua sancta Ecclesia se defendit,
+Et vincit in campo suam civilem brigam,
 
-**Commentary Section (Latin)**
-
-**First Part (Left Column)**
 Et ad sedem, quæ iam fuit benigna plus pauperibus
 iustis, non pro ipsa, idest non defectu ipsius sedis, sed
 propter illum qui sedet et tralignat, idest deviat, delirat, et
@@ -51,7 +44,6 @@ Testamenti; sed ego dico quod debent dici vigintiquatuor
 animæ, quæ sunt in illis duabus coronis, ut supra dictum
 doctores solemnes.
 
-**Second Part (Right Column, Top)**
 et in stipites hereticos percussit, idest hereticos persecutus
 est, impetus suus vivacius ibi, idest audacius, vel amplius,
 ubi resistentiæ erant grossiores, idest ubi heretici erant
@@ -65,7 +57,6 @@ quidam Sancti Francisci, qui magnates, potentes ac divites,
 dimictunt et pertranseunt, et solum contra pauperes et
 impotentes procedunt.
 
-**Third Part (Right Column, Middle)**
 De eo facti fuerunt quamplures diversi rivi; idest de
 quamplures optimi Religiosi, unde, idest ex
 tribus, hortus catholicus rigatur, idest Ecclesia catholica;
@@ -73,7 +64,6 @@ ita quod sui arbusculi, idest plantulæ, idest viatores catho-
 lici, stant vivaciores. Vel dic: Arbuscule, idest Fratres Pre-
 dicatores, stant vivaciores, idest firmiores in fide.
 
-**Fourth Part (Right Column, Bottom)**
 Postea cum doctrina et cum voluntate simul offi-
 ciis (idest habuit auctoritatem prædicandi, quod est offi-
 cium apostolicum) se movit, quasi torrens quem alta vena

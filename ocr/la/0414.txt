@@ -1,5 +1,3 @@
-**Latin Text (Right Column):**
-
 INFERNI
 
 23 Quidam super ventrem, quidam super humeros,
@@ -26,10 +24,6 @@ INFERNI
 30 Dic michi si aliquis latinus est inter istos
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qui sunt hic intro, si unguis tibi duret
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eternaliter ad istud opus.
-
-***
-
-**Latin Commentary (Right Column, Below Main Text):**
 
 Quidam super ventrem, quidam super humeros, unus alterius iacebat, et quidam supinus, idest illi, qui transmutabatur per illum tristem callem, idest miserum. Aliqui ibant brancoloni, idest tenebant manus et pedes, in circa euntes.
 

@@ -1,6 +1,5 @@
-**CAPITULUM SEXTUM**
+CAPITULUM SEXTUM
 
-**Left Column (Poem-like text):**
 ¹⁶ Onde Torquato e Quintio, che dal cyrro
 Neglecto fu nomato, e Deci, e Fabi
 Ebber la gloria (¹) che volentier mirro.
@@ -9,7 +8,6 @@ Che dietro ad Annibale passaro
 L'alpestre rocce, Po, di che tu labi.
 (¹) al. fama.
 
-**Right Column (Poem-like text, Latin translation):**
 ¹⁶ Unde Torquatus et Quintius, qui a cirro
 Neglecto nominatus, Decii et Fabii
 Habuerunt famam quam libenter mirr[o].
@@ -17,7 +15,6 @@ Habuerunt famam quam libenter mirr[o].
 Qui retro Hannibalem transierunt
 Alpestres rupes, Pade, de quibus tu laberis.
 
-**Main Body Text - Left Column:**
 gno aquile contra istum Brennum, qui veniebat omnia
 devastando versus Romam. Iste Brennus scivit ita facere,
 quod ipse obsedit exercitum romanum cum suo con-
@@ -64,7 +61,6 @@ victor ivit cum signo aquile; et sic multi Romani. cum
 exercitibus, cum signo aquile, iverunt contra multos prin-
 cipes et contra multa collegia, et victores extiterunt.
 
-**Main Body Text - Right Column:**
 mius, quia fuit vocatus Cincinnatus, idest arruffatus ca-
 pillis, quia a cirro, idest capillo neglecto, quia ipse negli-
 gebat capillos, quia nunquam illos ornabat, fuit nomatus,
@@ -115,8 +111,4 @@ runt cum Hannibale, intrando Ytaliam transeunte per Alpes
 montium, de quibus, o tu, Pade (apostro-
 fando ad illum fluvium), laberis, idest oriris, sive fluis.
 
-**Bottom of Page - Left Column:**
 Unde Torquatus et Quintius (binomius fuit, imo trino-
-
-**Bottom of Page - Right Column:**
-Digitized by Google

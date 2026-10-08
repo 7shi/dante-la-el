@@ -1,10 +1,6 @@
-Here is the transcription of the text from the image:
-
-**[Page Header]**
 CAPITULUM TRICESIMUMSECUNDUM
 803
 
-**[Left Column - Italian Poem]**
 ⁵⁰ Sicura, come rocha in alto monte,
     Seder sovr'esso (¹) una puctana (²) sciolta (³)
     M'apparve colle ciglia intorno pronte (⁴).
@@ -18,7 +14,6 @@ CAPITULUM TRICESIMUMSECUNDUM
     Disciolse'l mostro(⁷), e trassel per la selva (⁸)
     Alla puctana et alla nuova belva.
 
-**[Right Column - Latin Poem]**
 ⁵⁰ Secura, quasi rocca in alto monte,
     Sedere super ipso una meretrix dissoluta
     Michi apparuit cum superciliis circum pintis.
@@ -33,11 +28,9 @@ CAPITULUM TRICESIMUMSECUNDUM
     Tantum, quod sol[um] de ipso michi fecit scutum
     Ad meretricem et ad novam beluam.
 
-**[Annotations]**
 (¹) carro — (²), la corte romana — (³) libera — (⁴) ochi arditi come di meretrice — (⁵), re di Francia — (⁶) ad Italia la puctana —
 (⁷) el carro della Chiesa — (⁸) Francia.
 
-**[Main Prose]**
 unum cornu, figurant quatuor vitia mortalia, quæ offen-
 dunt solum Deum. Decem cornua figurant et significant
 transgressores decem preceptorum Decalogi.

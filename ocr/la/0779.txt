@@ -1,6 +1,4 @@
-**CAPITULUM VICESIMUMSEXTVM**
-
-**Latin Poem (Right Column):**
+CAPITULUM VICESIMUMSEXTVM
 
 ¹⁶ Una gens vadit, et alia venit,
     Et redeunt lacrymando ad primus planctus,
@@ -24,12 +22,8 @@
     Qui estis vos, et que est illa turba
     Que vadit retro vestra terga?
 
-**(Footnotes below the poem):**
+(Footnotes below the poem):
 (¹) Dante — (²) a dicere eis — (³) corpus — (⁴) quod est caelum Empyreum — (⁵) amplum — (⁶) de scripturis.
-
----
-
-**Latin Prose Commentary:**
 
 regione aquilonari, volarent pars, et pars versus
 partes scilicet meridionales, ubi est maxima copia arene

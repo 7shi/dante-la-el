@@ -1,10 +1,5 @@
-Here is the transcription of the Latin text from the image:
-
-**Page Number:** 1045
-
-**Title:** CAPITULUM DECIMUMNONUM
-
-**Main Text (Right Column):**
+CAPITULUM DECIMUMNONUM
+1045
 
 3 Et illud quod michi convenit retrahere nunc,
 Non portavit vox unquam, nec scripsit incaustum,
@@ -25,10 +20,6 @@ Exibat solummodo unus sonus de illa ymagine;
 8 Unde ego prope: O perpetui flores
 Eterne letitie, qui solummodo unum
 Apparere michi facitis omnes vestros odores,
-
----
-
-**Commentary Text (Right Column):**
 
 in celo exaltatus ad istam gloriam, que excedit omnem
 desiderium; idest quicumque desiderat bonum, cum pervenit

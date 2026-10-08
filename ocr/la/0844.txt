@@ -1,10 +1,4 @@
-The document contains text in two languages: Italian and Latin. The main poetic text is presented in parallel, with the left column being Italian and the right column being Latin. The footnotes and the extensive commentary below are in Latin.
-
----
-
-**Page 790**
-
-**[Left Column - Italian Text]**
+790
 
 45 Volge, (¹) Beatrice, volge gl'occhi santi,
 46 Era la sua canzon, al tuo fedele (²),
@@ -20,7 +14,6 @@ The document contains text in two languages: Italian and Latin. The main poetic 
 &nbsp;&nbsp;&nbsp;&nbsp;Là dove armonizzando el ciel t'adombra,
 &nbsp;&nbsp;&nbsp;&nbsp;Quando nell'aere aperto ti solvesti (⁶)?
 
-**[Right Column - Latin Text]**
 PVRGATORII
 
 45 Converte, Beatrix, converte oculos sanctos,
@@ -37,15 +30,8 @@ PVRGATORII
 &nbsp;&nbsp;&nbsp;&nbsp;Ubi armonizando celum te adumbrat,
 &nbsp;&nbsp;&nbsp;&nbsp;Quando in aierem apertum te dissolvisti?
 
----
-
-**[Footnotes]**
 
 (¹) o — (²) Dante — (³) nascondi — (⁴) al. cisterna — ⁵) descrivere — (⁶) demonstrasti.
-
----
-
-**[Commentary - Latin Text]**
 
 in actibus, alic tres, scilicet virtutes Theologice, se fecerunt
 ante, corizando ad earum angelicam coream; idest cantando

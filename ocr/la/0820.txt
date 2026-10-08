@@ -1,6 +1,5 @@
 766
 
-**Italian Text (Left Column)**
 35 E quali troverai nelle sue carte,
     Tali eran quivi, salvo ch'alle penne
     Giovanni è meco, e da lui si diparte.
@@ -20,7 +19,6 @@
     Per oration della Terra devota,
     Quando fu Giove arcanamente giusto (⁸).
 
-**Latin Text (Right Column)**
 PURGATORII
 35 Et quales ipsas reperies in suis cartis,
     Tales erant ibi, excepto quod ad pennas
@@ -40,8 +38,6 @@ PURGATORII
 40 Ille solis, qui deviaudo fuit combustus,
     Propter orationem Terre devote,
     Quando fuit Iuppiter ita arcane iustus.
-
-**Footnotes**
 
 (¹) hala — (²), le sue penne — (³) d’oro — (⁴) havea — (⁵) membra — (⁶) carro — (⁷) carro, dico — (⁸) contra Phetonte.
 

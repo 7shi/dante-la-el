@@ -1,7 +1,3 @@
-Here is the transcription of the text from the image:
-
-**[Column 1 - Italian Text]**
-
 CAPITULUM DECIMUMOCTAVUM
 
 ²Nel drieto mezzo del campo maligno
@@ -31,8 +27,6 @@ Di là con noi, ma con passi maggiori.
 
 (¹) al. ivi.
 
-**[Column 2 - Latin Poetic Text]**
-
 CAPITULUM DECIMUMOCTAVUM
 
 ²In recto medio campi maligni
@@ -59,8 +53,6 @@ De quibus prima bolgia erat repleta.
 ⁹In fundo erant nudi peccatores:
 A medio citra veniebant versus vultum;
 Et ultra nobiscum, et cum passibus maioribus.
-
-**[Column 3 - Latin Commentary Text]**
 
 229
 

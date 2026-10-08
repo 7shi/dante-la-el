@@ -1,9 +1,5 @@
-Here is the transcription of the text from the image:
-
-**[Header]**
 292 INFERNI
 
-**[Left Column - Italian Text]**
 45 Rispose adunque (¹): Più che tu non speri
 S'appressa un saxo, che da la gran cerchia
 Si muove, e varca tucti e vallon fieri,
@@ -21,10 +17,8 @@ Turbat'um poco d'ira nel sembiante:
 Ond'io dagl'incarcati (³) mi partii,
 Dietro a le poste (⁴) de le care piante (⁵).
 
-**[Left Column Footnotes]**
 (¹) Frate Catelano. — (²) Catelano disse. — (³) ipocriti. — (⁴) pedate. — (⁵) di Virgilio.
 
-**[Right Column - Latin Text]**
 45 Respondit ergo: Plusquam credas
 Appropinquat unum saxum, quod a magno circulo
 Se movit, et transit omnes vallones feros,
@@ -42,15 +36,14 @@ Turbatus aliqualiter ex ira in aspectu:
 Unde ego ab honeratis me removi,
 Retro vestigia cararum plantarum.
 
-**[Bottom Footnote Block - Left]**
 Respondet, scilicet Frater Cathellanus, ergo: Plusquam
 credas, appropinquat unum saxum, quod a magno circulo
 se movet, et transit omnes vallones feros, idest feroces,
 excepto quam istud ruptum, et non cooperit cum. Ascen-
 dere poteritis sursum per istam ruinam, quæ iacet in costa,
 idest pendet, et fundum superat, idest supereminet.
-Incipit Frater Cathellanus a longe, dicens: *Da la gran
-cerchia*, a magno circulo, ubi incipiunt arcus pontium,
+Incipit Frater Cathellanus a longe, dicens: Da la gran
+cerchia, a magno circulo, ubi incipiunt arcus pontium,
 supple, est una fractura, sive ruptura; et inter omnia loca.
 iste arcus sextus est valde disruptus, et fractus, licet alii
 pontes non sint disrupti: idest a principio pontium est istud
@@ -65,12 +58,11 @@ elevata, sicut unus pons disruptus. Et tamen Malacoda di-
 xerat, quod non erat possibile quod transirent quam hunc
 passum; et in hoc fuit mentitus.
 
-**[Bottom Footnote Block - Right]**
 Audiens hoc Virgilius, indignatus fuit de mendacio Ma-
 lacode, et tunc dixit: Ergo mendacium fuit nobis dictum.
 Dux stetit sicut illi, quibus fuit via male ostensa et cum
 periculo; et aliquantulum capite demisso, postea dixit:
-Male narrabat opportunitatem, *la bisogna*, idest opportu-
+Male narrabat opportunitatem, la bisogna, idest opportu-
 nitatem, ille qui peccatores uncinat, idest Malacoda.
 Auctor facit quod Frater Cathellanus dicit veritatem, et
 ultra hoc bona verba. Et Frater, scilicet ait: Ego audivi

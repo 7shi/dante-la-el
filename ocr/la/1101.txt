@@ -1,5 +1,5 @@
-**Column 1 (Main Text - Italian):**
-CAPITULUM DECIMMONUM
+CAPITULUM DECIMUMNONUM
+1047
 ¹⁶ E ciò fa certo, che 'l primo Superbo,
 Che fu la somma d’ogni creatura,
 Per non aspectar lume, cadde acerbo:
@@ -13,7 +13,6 @@ Di che tutte le cose son ripiene,
 Tanto, che’l suo principio non discerna
 Molto di là da quel che gl’è parvente.
 
-**Column 2 (Main Text - Latin):**
 ¹⁶ Et hoc facit certum, quod primus Superbus,
 Qui fuit summa omnium creaturarum,
 Propter non expectare lumen, cecidit acerbus:
@@ -27,12 +26,7 @@ De quibus omnes res sunt replete,
 Quod suum principium non discernat
 Multo ulterius illo quod sibi apparet.
 
-**Column 3 (Page Number):**
-1017
 
----
-
-**Column 1 (Lower Text - Italian):**
 est proportio; ita quod humana fragilitas non potest, etiam
 in quantumcunque minimam partem ipsius summi boni.
 Et dicit auctor, et bene, quod non est possibile, nec un-
@@ -77,13 +71,11 @@ xit tantum, idest fecit tot species et figuras, occultum et ma-
 nifestum, aliquas nobis notas, aliquas et plures nobis ob-
 scuras, occultas et incognitas, non poterat suum valorem,
 
-**Column 2 (Lower Text - Latin):**
 idest suas perfectiones, ita facere impressum, idest ita co-
 municare creaturis in toto universo, quod aliquid ibi di-
 minueretur; nec potuit suum valorem sic tantum et taliter
 imprimere in universo, quin in suo Verbo non remaneret
 per infinitum excessum.
----
 Et hoc facit certum, idest ex hoc certe apparet, quod
 primus Superbus, idest Lucifer, qui fuit summa omnium
 creaturarum, propter non expectare (idest quia hoc non
@@ -115,7 +107,6 @@ potest comprehendi: quia ipse est infinitus, et omnis crea-
 tura est finita, et finiti ad infinitum nulla est proportio
 rationalis; et ideo nulla creatura potest ad plenum com-
 prehendere Deum.
----
 Igitur vestra virtus, scilicet intellectiva, vel scientia ve-
 stra humana, quæ convenit, idest quam oportet, esse ali-
 quis radiorum mentis, scilicet divinæ, de quibus, scilicet

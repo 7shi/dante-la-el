@@ -1,8 +1,4 @@
-Here is the transcription of the text from the image:
-
-**Left Column (Italian):**
-
-**CAPITULUM UNDECIMUM**
+CAPITULUM UNDECIMUM
 
 10 De'violenti el primo cerchio è tucto:
 Ma perchè si fa forza a tre persone,
@@ -28,8 +24,6 @@ E spregiando natura e sua bontade:
 17 E però lo minor giron suggella
 Del segno suo Sogdoma e Chaorsa
 E chi, spregiando Dio, col cuor favella.
-
-**Right Column (Latin):**
 
 147
 
@@ -58,8 +52,6 @@ Et spernendo naturam et suam bonitatem:
 Signo suo Sodomam et Caorsam
 Et qui, spernendo Deum, cum corde loquitur.
 
-**Side Commentary (Italian):**
-
 sunt natura et ars: sic dupliciter in seipsum; offendere, vel
 violentare propriam personam, vel res proprias, sicut dissi-
 pare bona propria: consimiliter in proximum dupliciter;
@@ -82,8 +74,6 @@ primus, idest circulus per diversas acies.
 Modo venit ad violentiam, que infertur ab homine in pro-
 pria persona; et dicit: Potest homo habere manum violen-
 tam in seipsum, scilicet semetipsum interficiendo; et in suis,
-
-**Side Commentary (Latin):**
 
 idest illa dissipando; et ideo in secundo girone oportet
 quod peniteat sine utilitate (sine utilitate, senza prode,

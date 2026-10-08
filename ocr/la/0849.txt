@@ -1,37 +1,26 @@
-Here is the transcription of the text from the image:
-
-**Page Header**
 CAPITULUM TRICESIMUMSECUNDUM                                                                                                           795
 
-**Poetic Text (Left: Italian, Right: Latin Commentary)**
+⁴ La disposition ch’a veder èe    ⁴ Dispositio que ad videndum est
+Negl’occhi pur testè dal sol percossi,    In oculis solum nunc a sole percussis,
+Senza la vista alquanto esser mi fe;    Sine videre aliquantulum me esse fecit;
+⁵ Ma poi che poco el viso riformossi,    ⁵ Sed postquam aliquantulum visus se reformavit,
+Io dico poco per rispecto al molto    Ego dico parum respectu ad multum
+Sensibile, onde a forza mi rimossi,    Sensibile, unde propter vim me removi,
+⁶ Viddi sul braccio destro esser rivolto    ⁶ Vidi in brachio dextro esse conversum
+Lo glorioso esercito, e tornarsi,    Gloriosum exercitum, et redire
+Col sole e colle septe fiamme al volto.    Cum sole et cum septem flammis advolutum.
+⁷ Come socto li scudi per salvarsi    ⁷ Sicut sub scutis pro se salvanda
+Volgesi schiera, e sè gira col segno,    Volvit se acies, et se regirat cum signo,
+Prima che possa tucta in sè mutarsi;    Priusquam possit tota se mutare;
+⁸ Quella militia del celeste regno,    ⁸ Illa militia celestis regni,
+Che procedeva, tucta trapassonne    Que procedebat, tota pertransivit
+Pria che piegasse al carro el primo le-    Priusquam plicaret currus primum lignum.
+⁹ Indi alle rote si tornar le donne, [gno (1).    ⁹ Inde ad rotas redierunt domine,
+E’l gryfon mosse el benedicto carcho,    Et grifo movit benedictum onus,
+Sì che però nulla penna crollonne.    Ita quod postmodum nullam pennam morit.
 
-| Italian (Dante's Original)                                | Latin Commentary                                      |
-| :--------------------------------------------------------- | :------------------------------------------------------ |
-| ⁴ La disposition ch’a veder èe                             | ⁴ Dispositio que ad videndum est                       |
-| Negl’occhi pur testè dal sol percossi,                     | In oculis solum nunc a sole percussis,                |
-| Senza la vista alquanto esser mi fe;                       | Sine videre aliquantulum me esse fecit;               |
-| ⁵ Ma poi che poco el viso riformossi,                       | ⁵ Sed postquam aliquantulum visus se reformavit,      |
-| Io dico poco per rispecto al molto                        | Ego dico parum respectu ad multum                     |
-| Sensibile, onde a forza mi rimossi,                       | Sensibile, unde propter vim me removi,                |
-| ⁶ Viddi sul braccio destro esser rivolto                   | ⁶ Vidi in brachio dextro esse conversum               |
-| Lo glorioso esercito, e tornarsi,                         | Gloriosum exercitum, et redire                        |
-| Col sole e colle septe fiamme al volto.                   | Cum sole et cum septem flammis advolutum.             |
-| ⁷ Come socto li scudi per salvarsi                         | ⁷ Sicut sub scutis pro se salvanda                    |
-| Volgesi schiera, e sè gira col segno,                     | Volvit se acies, et se regirat cum signo,             |
-| Prima che possa tucta in sè mutarsi;                      | Priusquam possit tota se mutare;                      |
-| ⁸ Quella militia del celeste regno,                        | ⁸ Illa militia celestis regni,                        |
-| Che procedeva, tucta trapassonne                           | Que procedebat, tota pertransivit                     |
-| Pria che piegasse al carro el primo le-                   | Priusquam plicaret currus primum lignum.              |
-| ⁹ Indi alle rote si tornar le donne, [gno (1).            | ⁹ Inde ad rotas redierunt domine,                     |
-| E’l gryfon mosse el benedicto carcho,                     | Et grifo movit benedictum onus,                       |
-| Sì che però nulla penna crollonne.                        | Ita quod postmodum nullam pennam morit.               |
-
-**Footnote**
+Footnote
 (1) el temone.
-
----
-
-**Prose Commentary (Latin)**
 
 nymphe, que erant ad custodiam currus cum Beatrice,
 exclamaverunt ad ipsum dicentes: Tu nimis fixe respicis

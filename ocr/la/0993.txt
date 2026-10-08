@@ -1,8 +1,3 @@
-The image contains text in two columns: the left column is in Italian, and the right column, including all footnotes, is in Latin.
-
-Here is the transcription:
-
-**Left Column (Italian Main Text):**
 34 Se tu di tutti gl'altri esser vuo' certo,
 35 Dirieto al mio parlar ti vien col viso
 36 Girando su per lo beato serto.
@@ -22,11 +17,6 @@ Here is the transcription:
 50 Che, giù in carne, più adentro vide
 51 L'angelica natura e 'l ministero.
 
----
-
-**Right Column (Latin Main Text and Footnotes):**
-
-**Main Text:**
 CAPITULUM DECIMUM
 939
 
@@ -49,7 +39,6 @@ CAPITULUM DECIMUM
 50 Quod, inferius in carne, magis intrinsece vidit
 51 Angelicam naturam et ministerium.
 
-**Footnotes:**
 virginum fuerunt martyrizate, et in cuius ecclesia metro-
 politana sunt corpora et capita trium Magorum, sive Regum,
 qui primitus Christum adoraverunt. Civitas Colonie fuit

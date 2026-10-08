@@ -1,6 +1,4 @@
-**CAPITULUM UNDECIMUM**
-
-**Italian Text (Left Column)**
+CAPITULUM UNDECIMUM
 
 ¹ O Padre nostro, che ne'cieli stai,
 Non circumscripto, ma per più amore
@@ -42,8 +40,6 @@ Di render grazie al tuo sommo (¹) vapore.
 *ratione sui status et potentie.*
 *Antequam veniatur ad litteram, notandum est quod*
 *superbia ponitur a sapientibus maximum vitiorum et radix*
-
-**Latin Text (Right Column)**
 
 ¹ Pater noster, qui in celis stas,
 Non circumscriptus, sed ex maiori amore

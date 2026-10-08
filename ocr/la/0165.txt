@@ -1,37 +1,29 @@
-**CAPITULUM OCTAVUM**
+CAPITULUM OCTAVUM
+111
 
-**Original Text (Italian) & Translation (Latin)**
+³ Io mi rivolsi al mar di tutto senno:	³ Et ego me volvi ad mare totius sensus,
+Questo (¹) , dissi, che dice (²) ? e che risponde	[Et] dixi: Istud quid dixit? et quid respondet
+Quell' altro fuoco? e chi son quei che 'l	Ille alter ignis? et qui sunt illi qui eum fecerunt?
+⁴ Et elli a me: Su per le sucide onde	⁴ Et ipse ad me: Super putridas undas
+Già bene scorger puoi quel che s'aspetta,	Iam potes discernere illud quod expectatur,
+Se 'l fumo del pantan nol ti (³) nasconde.	Si fumus paludis hoc tibi non abscondit.
+⁵ Corda non pinse mai da sè saetta,	⁵ Corda non pinxit unquam a se sagittam,
+Che sì corresse via per l'aer snella,	Que sic curreret ultra per aierem levis,
+Come vidi una nave piccioletta (⁴)	Sicut ego vidi unam navim parvulam
+⁶ Venir per l'acqua verso noi in quella,	⁶ Venire per aquam versus nos in illa hora,
+Sotto 'l governo d'un sol galeoto,	Sub gubernatione unius soli galeotti,
+Che gridava: Or se' giunta, anima fella!	Qui clamabat: Nunc es deprehensa, anima misera!
+⁷ Flegias, Flegias, tu gridi hor a voto,	⁷ Flegias, Flegias, tu clamas in vacuum,
+Disse lo mio signor, ch'a questa volta	Dixit meus dominus: ista vice
+Più non ci havrai che sol passando il loto.	Plus non habebis nos quam pertranseundo lutum.
+⁸ Qual è colui che grande inganno ascolta	⁸ Qualis ille qui magnam deceptionem auscultat
+Che li sia facto, e poi se ne rammarca (⁵) ,	Que sibi fiat, et postmodum de illa conqueritur,
+Così Flegias fe' nell'ira accolta.	Talem se fecit Flegias in ira apprehensa.
+⁹ Lo duca mio discese ne la barca,	⁹ Dux meus descendit in barcham;
+E poi mi fece intrar a presso a lui;	Et postea me fecit intrare prope eum;
+E sol quando fu (⁶) dentro, parve carca.	Et solum quando fui intus, apparuit onerata.
 
-| Italian Original | Latin Translation |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ³ Io mi rivolsi al mar di tutto senno: | ³ Et ego me volvi ad mare totius sensus, |
-| Questo (¹) , dissi, che dice (²) ? e che risponde | [Et] dixi: Istuð quid dixit? et quid respondet |
-| Quell' altro fuoco? e chi son quei che 'l | Ille alter ignis? et qui sunt illi qui eum fecerunt? |
-| ⁴ Et elli a me: Su per le sucide onde | ⁴ Et ipse ad me: Super putridas undas |
-| Già bene scorger puoi quel che s'aspetta, | Iam potes discernere illud quod expectatur, |
-| Se 'l fumo del pantan nol ti (³) nasconde. | Si fumus paludis hoc tibi non abscondit. |
-| ⁵ Corda non pinse mai da sè saetta, | ⁵ Corda non pinxit unquam a se sagittam, |
-| Che sì corresse via per l'aer snella, | Que sic curreret ultra per aierem levis, |
-| Come vidi una nave piccioletta (⁴) | Sicut ego vidi unam navim parvulam |
-| ⁶ Venir per l'acqua verso noi in quella, | ⁶ Venire per aquam versus nos in illa hora, |
-| Sotto 'l governo d'un sol galeoto, | Sub gubernatione unius soli galeotti, |
-| Che gridava: Or se' giunta, anima fella! | Qui clamabat: Nunc es deprehensa, anima misera! |
-| ⁷ Flegias, Flegias, tu gridi hor a voto, | ⁷ Flegias, Flegias, tu clamas in vacuum, |
-| Disse lo mio signor, ch'a questa volta | Dixit meus dominus: ista vice |
-| Più non ci havrai che sol passando il loto. | Plus non habebis nos quam pertranseundo lutum. |
-| ⁸ Qual è colui che grande inganno ascolta | ⁸ Qualis ille qui magnam deceptionem auscultat |
-| Che li sia facto, e poi se ne rammarca (⁵) , | Que sibi fiat, et postmodum de illa conqueritur, |
-| Così Flegias fe' nell'ira accolta. | Talem se fecit Flegias in ira apprehensa. |
-| ⁹ Lo duca mio discese ne la barca, | ⁹ Dux meus descendit in barcham; |
-| E poi mi fece intrar a presso a lui; | Et postea me fecit intrare prope eum; |
-| E sol quando fu (⁶) dentro, parve carca. | Et solum quando fui intus, apparuit onerata. |
-
----
 ¹ fuoco. — ² significa. — ³ al. non tel. — ⁴ al. picholetta. — ⁵ lamenta — ⁶ fui.
-
----
-
-**Commentary (Latin)**
 
 ad pedes turris alte, oculi nostri iverunt sursum ad sum-
 mitatem. scilicet turris: superius inspexerunt. Ego dico
@@ -52,8 +44,6 @@ in maribus navem, ne videatur; sic fumus pantani abscon-
 debat unum nautam venientem.
 
 Corda: scilicet balista, nunquam impulit, sive pinxit.
-
----
 
 ad Infernum. quia superbia est initium omnis peccati
 teste Salomone. Navis est parva: sic vita superbi moðicum

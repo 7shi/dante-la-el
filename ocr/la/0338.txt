@@ -1,7 +1,4 @@
-**Title:**
 CAPITULUM VICESIMUMTERTIUM
-
-**Left Column (Italian and Latin Text):**
 
 ¹ Taciti, soli, e senza compagnia (¹),
 N'andavàn l'un dinanzi e l'altro dopo (²),
@@ -19,19 +16,19 @@ quod dividitur in quatuor partes. In quarum prima auctor
 describit suum cogitatum super rixa duorum demonum
 supra tacta.
 In secunda, que incipit:
-    Laggiù trovammo;
-    Ibi inferius reperimus,
+Laggiù trovammo;
+Ibi inferius reperimus,
 
 auctor describit penam ypocritarum in generali.
 In tertia, que incipit ibi:
-    Perch'io al duca mio;
-    Ex quo ego duci meo,
+Perch'io al duca mio;
+Ex quo ego duci meo,
 
 auctor describit in specialiduo spiritus modernos, qui enor-
 miter peccarunt in ypocrisi.
 In quarta, que incipit ibi:
-    Io comenzai, Frati, i vostri mali;
-    Ego incepi, Fratres, vestra mala,
+Io comenzai, Frati, i vostri mali;
+Ego incepi, Fratres, vestra mala,
 
 describuntur aliqui antiqui spiritus, radix et fundamen-
 tum ypocrisis qui fuerunt.
@@ -40,8 +37,6 @@ dere, quomodo ipse et Virgilius pervenerunt de quinta
 bolgia ad sextam, dicit: Taciti, soli, sine sotietate; ad de-
 notandum quomodo erant intenti ad novam fictionem, quam
 erant facturi, meditando et speculando, et speculationem
-
-**Right Column (Latin Text):**
 
 ¹ Taciti, soli, sine sotietate,
 Ibamus unus ante et alter post,

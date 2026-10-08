@@ -1,11 +1,8 @@
-Here is the transcription of the Latin text from the image:
-
-**Header:**
 CAPITULUM VICESIMUMTERTIUM
+691
 
-**Main Text (Right Column):**
 ¹³ Iam eram in admirandum quid eos affamat,
-Proter causam adhuc non manifestam
+Propter causam adhuc non manifestam
 Eorum macredinis et eorum tristis squame;
 ¹⁴ Et ecce de profundo capitis
 Volvit ad me oculos una umbra, et respexit me fixe,
@@ -14,9 +11,9 @@ Postea clamavit fortiter: Qualis gratia est ista?
 Sed in voce sua michi fuit patefactum
 Id quod aspectus in se occultaverat.
 ¹⁶ Favilla ista, loquela, totam michi reaccendit
-Meam cognitionem et permulatum labium,
+Meam cognitionem et permutatum labium,
 Et recognovi faciem Foresis.
-¹⁷ De! ne contendas ad ex[s][cca]tam scabiem,
+¹⁷ De! ne contendas ad ex[s]i[cca]tam scabiem,
 Que me decolorat, rogabat, pellem,
 Nec ad defectum carnis quem ego habeam;
 ¹⁸ Sed dicas michi verum de te, et que sunt ille
@@ -25,9 +22,6 @@ Ne remaneas quin loquaris.
 ¹⁹ Facies tua, quam ego fui lacrymatus iam mortuam,
 Michi dat plangendi nunc non minorem dolorem,
 Respondi ego ad eum, videndo ipsam ita tortam
-
-**Commentary Section (Latin, below main text):**
-(Note: The commentary section on the left column contains a mix of Italian and Latin, while the right column is primarily Latin. I have transcribed the Latin portions.)
 
 extenuaret, generando famem, idest appetitum, et ille, sci-
 licet odor, aquarum, nesciendo qualiter?
@@ -72,7 +66,7 @@ fuit valde temperatus, et de vitiis iuvenilibus corripuit se,
 et factus est notabilis homo. Nam vitium gule plus trans-
 formavit hominis effigiem quam mors.
 
-De! ne contendas ad ex[s][cca]tam scabiem, idest non
+De! ne contendas ad ex[s]i[cca]tam scabiem, idest non
 respicias ad macredinem meam, que michi decolorat, fo-
 gat, pellem, nec ad defectum carnis quem ego habeam;
 sed dicas michi verum de te, idest qui tu sis, et que sunt

@@ -1,6 +1,6 @@
-Here is the transcription of the Latin text:
+1227
+CANTICA PARADISI
 
-**Column 1:**
 Et io, subintelligitur Dantes, respondi, vel subjunxi: *Ciò*
 *che n'appar quassù diverso, credo che 'l fanno e corpi*
 *rari e densi*. Idest id quod in celo videtur alterius coloris
@@ -62,7 +62,6 @@ sitas corporum esset causa diversitatis splendorum octave
 spere, sicut supra dixisti, sequeretur quod in eis esset una
 sola virtus et influentia, maior et minor, et equalis, etc.
 
-**Column 2:**
 CANTICA PARADISI
 1227
 secundum magnitudinem et parvitatern et equalitatem fo-
@@ -112,8 +111,3 @@ turbinis lune, interrogo, si tota raritas illa est per totum
 corpus lune ab una superficie ad aliam, aut parum est
 intus, et inde sequitur densitas. Non potes dicere quod sit
 per totum corpus lune, quia quando eclypsatur sol, vide-
-
----
-***Note on formatting:***
-*   Text in italics, such as *Ciò che n'appar quassù diverso, credo che 'l fanno e corpi rari e densi*, indicates direct quotes from the Italian text that the Latin commentary is explaining or referring to.
-*   The original image has some lines that are slightly cut off or faded at the very bottom right of the second column, but the meaning is clear from the context.

@@ -1,12 +1,7 @@
-Here is the transcription of the Latin text from the image, along with the Italian text from the left column for context:
+[Header] CAPITULUM OCTAVUM
 
----
+911
 
-**[Header]** CAPITULUM OCTAVUM
-
-**[Page Number]** 911
-
-**[Left Column - Italian]**
 ¹² Noi ci volgiàn co' principi celesti
 D'un giro, e d'un girare, e d'una sete,
 A' quali tu nel mondo già dicesti:
@@ -29,7 +24,6 @@ Molto sarà di mal, che non sarebbe.
 Che mi raggia dintorno, e me nasconde
 Quasi animal di sua seta fasciato.
 
-**[Right Column - Latin]**
 ¹² Nos volvímur cum principibus cœlestibus
 De uno modo, de uno gyrare, et de una siti,
 Quibus de mundo dixisti iam:
@@ -53,10 +47,6 @@ Multum erit male, quod non fuisset.
 Quæ radiat circum, et me abscondit
 Quasi animal sua seta fasciatum.
 
----
-
-**[Commentary - Left Column - Latin]**
-
 Euro: Eurus est ventus orientalis ibi in partibus illis. Vult
 dicere Karolus, quod fui[sse]t etiam rex Trinærie, si non
 fuisset malum dominium quod fecit ibi avus suus, scilicet
@@ -77,10 +67,6 @@ luminum, magis propinquum nobis. et solum incepit, sci-
 licet dicere: Omnes sumus presti, idest citi, sive parati, ad
 tuam complacentiam, sive ad tuum placere, ad hoc ut de
 nobis gaudeas et ut tibi proficiat.
-
----
-
-**[Commentary - Right Column - Latin]**
 
 quod ad tibi complacendum non erit nobis minus dulce
 aliquantulum quietis; idest, licet gaudeamus et delectemur
@@ -111,7 +97,3 @@ me abscondit, quasi animal sua seta fasciatum, idest oc-
 cultatum, vel coopertum. Nam animal quod facit sericum,
 absconditur in seta. Vel potest dici: Eritius, vel porcus spi-
 nosus, absconditur in sua seta, idest in suis setis, sive spinis.
-
----
-**[Footer]**
-Digitized by Google

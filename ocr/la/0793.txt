@@ -1,10 +1,7 @@
-Here is the transcription of the Latin text from the image:
+739
 
-Page: 739
+CAPITULUM VICESIMUMSEPTIMUM
 
-**CAPITULUM VICESIMUMSEPTIMUM**
-
-**Right Column (Poetic lines 30-35):**
 ³⁰ Modicum ibi apparebat de die;
 Sed per illum modicum videbam ego stellas,
 Earum solito altiores et maiores.
@@ -24,9 +21,6 @@ Pulchras manus ad faciendum michi unum sertum.
 Sed mea soror Rachel nunquam recedit
 A suo almiraglio, et sedet tota die.
 
----
-
-**Left Column (First Prose Block):**
 sed, veniente meridie, quia tunc aer calidus valde est, pa-
 stor reducit eas ad umbram, et ibi stant ruminando manse
 et mansuete, ruminando quidquid prius comederant. Vult
@@ -46,7 +40,6 @@ non spargat, idest dividat, vel dampnificet; tales eramus
 omnes tres tunc, ego sicut capra et ipsi sicut pastores,
 fasciati, idest circumdati hinc et inde, a grupta.
 
-**Right Column (First Prose Block):**
 Sic admirando. Si rimirando: hec est tertia pars
 huius capituli, in qua auctor narrat sompnium suum, quod
 fecit in matutina hora, qua hora communiter sunt vera
@@ -59,9 +52,6 @@ quod ipsa apparet semper ardere
 scilicet stellas, me apprehendit sompnus, qui sepe, ante-
 quam factum sit, scit nova.
 
----
-
-**Left Column (Second Prose Block):**
 Et quia scala erat cavata in saxo, sive excisa, inde pa-
 rum videre poterant de celo. Sed tamen aliquid de ipso
 videbant, et stellas aliquas inspiciebant, quas apprehen-
@@ -71,7 +61,6 @@ rat ad meram virtutem, quam nunc melius cognoscebat.
 Modicum apparebat ibi de die, sed per illum modicum
 videbam ego stellas earum solito altiores et maiores.
 
-**Right Column (Second Prose Block):**
 In hora, credo, in qua orientis prius radiavit in monte
 Citharea; scilicet planeta Venus, qui precedit de so-
 le. [posito tempore sompnii, nunc ponitur sompnium, quod tale],
@@ -81,9 +70,6 @@ vel planitiem, colligendo flores; et dicebat: Sciat, quicumque
 petit nomen meum, quod ego sum Lya, et vado movendo
 in circum pulchras manus ad faciendum michi unum sertum.
 
----
-
-**Right Column (Third Prose Block):**
 Ut michi placeam ad speculum hic me orno; sed mea
 soror Rachel nunquam recedit a suo almiraglio, idest pul-
 chro intuitu, et sedet tota die.

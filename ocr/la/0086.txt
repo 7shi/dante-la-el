@@ -1,8 +1,5 @@
-Here is the transcription of the Latin text from the image:
+32
 
-Page: 32
-
-**Left Column (Original Text)**
 23 Risposemi: Non huomo, huomo già fui;
 E li parenti miei furo Lombardi,
 Mantovani per patria ambodui.
@@ -19,7 +16,6 @@ Ch'è principio e cagion di tutta gioia?
 Che spandi di parlar sì largo fiume?
 Rispos'io a lui con vergognosa fronte.
 
-**Right Column (Latin Translation)**
 INFERNI
 23 Respondit michi: Non homo, homo alias fui,
 Et parentes mei fuerunt Lombardi,
@@ -37,7 +33,6 @@ Qui est principium et causa omnis iocunditatis?
 Qui effundis eloquii tam largum flumen?
 Respondi sibi cum verecunda fronte.
 
-**Left Column (Annotations)**
 Anima separata non habet instrumenta nisi per modum
 qui tractabitur in Purgatorio, et qualiter tactum est in
 sexto preambulo. Confessatur se nunc non esse hominem,
@@ -75,7 +70,6 @@ Dicit textus: Natus sub Iulio, adhuc licet tarde: hic acci-
 pitur tarde, quando non bona hora. Homo, quando non
 habet quod vult, videtur tardasse. Et sic hic accipitur, quod
 
-**Right Column (Annotations)**
 Virgilius voluisset esse tempore Christi, quia fuisset sal-
 vatus. Tamen textus non videtur bene clarus. Quando dicit
 tarde, apparet quod melius staret textus, si diceret nimis

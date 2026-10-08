@@ -1,10 +1,6 @@
-Here is the transcription of the provided image:
-
-**[Top Header]**
 CAPITULUM QUINTUM
 487
 
-**[Left Column - Italian Text]**
 39 Ivi (¹) la valle, come 'l dì fu spento,
 Da Prato Magno al gran giogo coperse
 Di nebbia, e 'l giel di sopra fece intento
@@ -28,10 +24,8 @@ Siena mi fe' (⁵), e disfecmi maremma (⁶),
 Salsi colui (⁷) che innanellata pria (⁸),
 Disposando, m'havea con la sua gemma.
 
-**[Left Column - Italian Footnotes]**
 (¹) al quivi — (²) sopportò o ricebbe. — (³) loto e sassi — (⁴) intorno. — (⁵) nacqui a Siena — (⁶) e fui morta in — (⁷) marito mio — (⁸) che m'havea dato l'anello.
 
-**[Right Column - Latin Text]**
 39 Inde vallem, sicut dies fuit extinctus,
 Prati Magni et grande iugum cooperuit
 Nubibus, et cælum desuper fecit intentum
@@ -55,7 +49,6 @@ Sene me fecerunt, et disfécit me Mariptima:
 Scit ille qui, annulatam prius,
 Desponsaverat me cum sua gemma.
 
-**[Commentary - Latin Prose]**
 ...litare, quod istos vapores potest convertere in pluviam, sicut
 fecit. Modo, quia ipse fecit pluviam magnam, in tantum quod
 plurima aqua descendit in illum torrentem, vocatum Archia-
@@ -85,7 +78,6 @@ aier in aquam est conversum. Pluvia cecidit, et ad fossata
 venit, de ipsa scilicet pluvia, id quod terra non substulit,
 idest non absorbuit, idest non absorbere potuit.
 
-**[Right Column - Latin Prose, continued]**
 Et statim quod ad rivos grandes se convenit versus flu-
 men regale, idest Arnum, tantum velociter ruit, quod nihil
 illud retinuit.

@@ -1,6 +1,5 @@
-**CAPITULUM SEXTUM**
+CAPITULUM SEXTUM
 
-**Italian (Left Column):**
 ¹ Poscia che Constantin l'aquila volse
 Contra 'l corso del ciel, ch'ella seguio
 Dietro all'antico che Lavina tolse,
@@ -11,7 +10,6 @@ Vicino a'monti de'quai prima usciò;
 Governo 'l mondo lì di mano in mano,
 E si cangiando, in su la mia pervenne.
 
-**Latin (Right Column):**
 ¹ Postquam Constantinus aquilam vertit
 Contra cursum celi, quod ipsam sequutum est
 Retro antiquum qui Lavinam accepit,
@@ -22,11 +20,6 @@ Vicina montibus de quibus primitus exivit;
 Gubernavit mundum ibi de manu in manum,
 Et sic cambiando, super mea pervenit.
 
----
-
-**Commentary / Prose Text (Below the Poems):**
-
-**Left Column:**
 Postquam Constantinus. Posciachè Constantino: hoc
 est sextum capitulum huius Paradisi, in quo spiritus Iu-
 stiniani imperatoris respondet interrogationibus, quas sibi
@@ -56,7 +49,6 @@ Primo igitur, continuando dicta dicendis, auctor ponit
 quomodo Iustinianus Imperator pandit seipsum, etc. No-
 tandum est hic quod Eneas, veniens de Troya, postquam
 
-**Right Column:**
 fuit destructa, Romam veniebat cum cursu solis, qui pro-
 cedit ab oriente, gyrat per meridiem, et vadit ad occiden-
 tem: sic veniens Eneas de Troya ad fauces Tyberinas, et
@@ -85,5 +77,3 @@ dens ad Constantinopolim, ad faciendum illam civitatem ibi
 et ad habitandum ibi, portans secum signum aquile, volvit
 aquilam contra solis cursum; quia dum itur, sive per mare,
 sive per terram, de Roma usque Constantinopolim, [est] de
-
-Digitized by Google

@@ -1,5 +1,3 @@
-**Main Latin Text:**
-
 CAPITULUM QUINTUM
 
 ¹⁶ O anima, que vadis ut sis leta
@@ -24,10 +22,7 @@ De mundo in mundum, queri a me se facit.
 De beneficio tuo sine iuramento,
 Dummodo velle non posse non recidat.
 
-**Footnote:**
 (¹) impotentia — (²) impedisea.
-
-**Latin Commentary/Annotation below the main text:**
 
 Iam oportet mutare thema et de alia materia tractare.
 O anima que vadis ut sis leta, idest ad celum, ut efficiaris

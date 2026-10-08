@@ -1,50 +1,44 @@
-**CAPITULUM DECIMUMOCTAVUM**
-
-**Italian Text (Left Column)**
+CAPITULUM DECIMUMOCTAVUM
 
 25 E come augelli (¹) surti di riviera,
-    Quasi congratulando a lor pasture,
-    Fanno di sè hor tonda hor altra schiera;
+Quasi congratulando a lor pasture,
+Fanno di sè hor tonda hor altra schiera;
 26 Sì dentro a’lumi sancte creature
-    Volitando cantavan, e faceansi
-    Hor D, hor I, hor L, in sue figure.
+Volitando cantavan, e faceansi
+Hor D, hor I, hor L, in sue figure.
 27 Pria cantando a sua nota moveansi;
-    Poi, doventando l’un di questi segni,
-    Un poco s’arrestavan e taceansi.
+Poi, doventando l’un di questi segni,
+Un poco s’arrestavan e taceansi.
 28 O diva Pegasea, che l’ingegni
-    Fai gloriosi, e rendili longevi,
-    Et essi teco le cittadi e’ regni,
+Fai gloriosi, e rendili longevi,
+Et essi teco le cittadi e’ regni,
 29 Illustrami di te, sì ch’io rilevi
-    Le lor figure com’io l’ò concepte
-    Paia tua possa in questi versi brevi.
+Le lor figure com’io l’ò concepte
+Paia tua possa in questi versi brevi.
 
 (¹) al. uccelli
 
-**Latin Text (Right Column)**
-
-**CAPITULUM DECIMUMOCTAVUM**
+CAPITULUM DECIMUMOCTAVUM
 
 1037
 
 25 Quia sicut aves surte de riparia,
-    Quasi congratulando earum pasturis,
-    Faciunt de se nunc rotundam nunc longam aciem,
+Quasi congratulando earum pasturis,
+Faciunt de se nunc rotundam nunc longam aciem,
 26 Sic intra lumen sancte creature
-    Volitando cantabant, et fiebant
-    Nunc D, nunc I, nunc L, suis figuris.
+Volitando cantabant, et fiebant
+Nunc D, nunc I, nunc L, suis figuris.
 27 Prius cantando ad suam notam se movebant;
-    Postea, deveniendo unum istorum signorum,
-    Aliquantulum se firmabant et tacebant.
+Postea, deveniendo unum istorum signorum,
+Aliquantulum se firmabant et tacebant.
 28 O diva Pegasea, que ingenia
-    Facis gloriosa, et reddis illa longeva,
-    Et ipsa tecum civitates et regna,
+Facis gloriosa, et reddis illa longeva,
+Et ipsa tecum civitates et regna,
 29 Illustra me de te sic, quod ego relevem
-    Earum figuras, prout ego illas concepi;
-    Appareat tua potentia in istis versibus brevibus.
+Earum figuras, prout ego illas concepi;
+Appareat tua potentia in istis versibus brevibus.
 
----
-
-**Additional Latin Text (Lower Part of Page)**
+Additional Latin Text (Lower Part of Page)
 
 duarum tantum ut n, rotunda ut o, et sic de aliis; ita ex di-
 versis versionibus, pertractationibus, dilatationibus in motu
@@ -78,7 +72,6 @@ unum; iustitiam, duo; qui, tria; iudicatis, quatuor; terram,
 quinque), idest dum efficiebantur unum istorum quinque
 signorum, sive terminorum, aliqualiter se firmabant et
 tacebant.
----
 O diva Pegasea, que ingenia facis gloriosa; idest, o ars
 poetica (que dicitur Pegasea a Pegaseo equo); et reddis
 illa, scilicet ingenia, longeva (quia propter poeticam de-
@@ -102,7 +95,6 @@ non sunt; sic est de Corinto in Grecia; sic illustra me
 de te, ita quod ego relevem, idest apte describam, vel exprimam,
 earum figuras, prout ego illas concepi; appareat tua potentia in istis
 versibus brevibus.
----
 Quia sicut aves surte, idest que surrexerunt, de riparia,
 quasi congratulando earum pasturis, idest pascuis; faciunt
 de se nunc rotundam, nunc longam aciem; sic intra lumen,
@@ -111,5 +103,3 @@ volitando cantabant, et fiebant, idest efficiebantur
 di, idest ista littera di, nunc i, nunc l in suis figuris.
 Prius, cantando, ad suam notam se movebant; postea,
 deveniendo unum istorum signorum, scilicet terminorum
-
-Digitized by Google

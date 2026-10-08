@@ -1,10 +1,5 @@
-Here is the transcription of the provided image:
-
-**Page Header:**
 44
 INFERNI
-
-**Left Column (Italian Original):**
 
 ²² E temo che non sia già sì smarrito,
 Ch'io mi sia tardi al soccorso levata,
@@ -33,8 +28,6 @@ Perch'io non temo di venir qua entro.
 
 (¹) Paradiso. — (²) desidero. — (³) divino. — (⁴) a venire.
 
-**Right Column (Latin Translation):**
-
 ²² Et timeo quod non sit ita devius,
 Quod tarde ego ad succursum surrexi,
 Propter id quod de eo in cælo audivi.
@@ -60,9 +53,9 @@ Ab amplo loco, ad quem redire tu ardes.
 Dicam tibi breviter, michi respondit,
 Quare ego non timeo venire huc intro.
 
-**Bottom Section (Footnotes/Explanations):**
+Bottom Section (Footnotes/Explanations):
 
-**Left Section:**
+Left Section:
 Et themo: dolet de periculo. in quo est Dantes. Idest,
 video ipsum iam dispositum ad retrocedendum ad vitia; et
 forte non poterit retrahi ab ipsis, et forte nimis tardavi
@@ -92,7 +85,7 @@ Quando io serroe: (ut cito ego venirem ad te, dixit
 Virgilius Danti. Quando ero ante Deum, qui est Dominus
 meus dixit Virgilio Beatrix) laudabo me de te. Ecce quod
 
-**Right Section:**
+Right Section:
 sepe Theologia utitur scientiis naturalibus, [ut presentes]
 res vilipenderentur, et intelligantur invisibiles. (I ad Rom.):
 Per ea quæ facta sunt. intellecta conspiciuntur, etc.

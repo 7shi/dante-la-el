@@ -1,8 +1,5 @@
-Here is the transcription of the provided image:
+CAPITULUM OCTAVUM
 
-**CAPITULUM OCTAVUM**
-
-**Italian Text (Left Column)**
 36 Se ciò non fusse, el ciel, che tu cammine,
    Producerrebbe sì gli suoi effecti,
    Che non sarebben arti, ma ruine;
@@ -30,7 +27,6 @@ Here is the transcription of the provided image:
 
 (¹) più — (²) Dedalo — (³) Ycaro.
 
-**Latin Text (Right Column)**
 36 Si hoc non esset, celum, quod tu itineras,
    Produceret ita suos effectus,
    Quod non essent artes, sed ruine;
@@ -55,9 +51,6 @@ Here is the transcription of the provided image:
    Cere mortali, facit bene suam artem,
    Sed non distinguit unum ab alio hospitio.
 
----
-
-**Latin Commentary (Left Column)**
 Si hoc non esset, scilicet celum, quod tu itineras, pro-
 duceret ita suos effectus, quod non essent artes, sed ruine;
 idest opera nature essent a casu et a fortuna.
@@ -84,7 +77,6 @@ quam quod vivat ut animal brutum.
 Et potest esse, si inferius, idest in mundo inferiori, non
 vivitur diverse, sive diversimode, per diversa officia, scilicet
 
-**Latin Commentary (Right Column)**
 quod civilitas sit? Non certe, si magister vester, scilicet
 Aristotiles, qui composuit Ethicam, Yconomicam et Poli-
 ticam, scilicet libros morales qui docent civilitatem, bene

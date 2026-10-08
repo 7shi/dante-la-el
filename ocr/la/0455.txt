@@ -1,5 +1,3 @@
-**Latin Text Transcription:**
-
 CAPITULUM TRICESIMUMTERTIUM
 
 4 Ego nescio quis tu es, nec per quem modum
@@ -19,8 +17,6 @@ Audies, et scies si me offendit.
 8 Breve pertugio intus in muda
 Que propter me habet tytulum famis,
 In quo adhuc oportet quod alii claudantur.
-
----
 
 Ego nescio quis tu sis, nec per quem modum veneris ad
 hunc locum; sed Florentinus michi assimilaris. m'assem-

@@ -1,12 +1,9 @@
-Here is the transcription of the Latin text from the image:
-
-**[Page Number]**
 80
 
-**[Header]**
+[Header]
 INFERNI
 
-**[Main Latin Text]**
+[Main Latin Text]
 ²² Helenam vidi, propter quam tantum pravum
 Tempus se volvit, et vidi grandem Achillem,
 Qui propter amorem ad finem debellatus est.
@@ -23,7 +20,6 @@ Et videntur sic ad ventum esse leves.
 Propinquiores nobis; et tunc tu illos roga
 Pro amore qui eos ducit; et ipsi venient.
 
-**[Lower Commentary Section - Left Column]**
 Pigmalion, germanus Didonis, in venando propter avaritam
 interfecit. Quapropter, combusto corpore ipsius Sichei, ut
 non sibi maritetur, ipsa Dido collegit cineres corporis
@@ -58,7 +54,6 @@ fuit filius Priami; fuit mirabilis in amore mulierum. Et sic
 Virgilius ostendit hic auctori plusquam mille umbras, que
 propter amorem recesserunt a corporibus suis.
 
-**[Lower Commentary Section - Right Column]**
 E poi che ebbi il mio doctore udito. Et postquam
 audivi doctorem meum: hec est quarta pars huius capi-
 tuli, in qua, postquam Virgilius ostenderat auctori spiritus

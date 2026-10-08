@@ -2,7 +2,7 @@ PREAMBULA
 13
 regni, tune componit librum reprensivum talium vitiorum. Tertius stilus est co-
 media, que tractat de rebus infimis et plebeis, cum suo stilo baxo et humili; et
-dicitur comedia a *comos* grece, latine vero cauda, vel villa; quia licet comedia
+dicitur comedia a comos grece, latine vero cauda, vel villa; quia licet comedia
 incipiat a tristibus, finit tamen in letis. Iste liber Dantis potest dici tragedia,
 quia tractat de magnis rebus et letis, scilicet de Summis Pontificibus, Imperato-
 ribus, Regibus, Cardinalibus, Ducibus, Marchionibus, Civitatibus et Episcopis, etc.

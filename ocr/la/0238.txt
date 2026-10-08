@@ -1,6 +1,3 @@
-The transcription of the Latin text from the provided images is as follows:
-
-**Top Right (Latin Translation)**
 INFERNI
 15 Ego incepi: Magister, tu qui vincis
 Cunctas res, preter quam demones duros,
@@ -21,7 +18,6 @@ Vocando: Bone Vulcane, adiuua, adiuua;
 Et me sagiptet cum tota sua vi,
 Non posset habere de hoc vindictam alacrem.
 
-**Bottom Left (Latin Commentary)**
 Io commerzai. Ego incepi: scilicet dicere: ista est se-
 cunda pars huius capituli, in qua tractatur de uno spiritu
 antiquo, superbo. Dicit textus: Io, ego, incepi, scilicet di-
@@ -48,7 +44,6 @@ bana), iste Capaneus fortitert et acerrime. Nemo resistebat
 sibi, in tantum quod ascendit muros ciuitatis et proiiciebat menia
 ad terram. Et semper loquens, dicebat: Thebani, inuocate
 
-**Bottom Right (Latin Commentary)**
 Deos vestros, Herculem et Bachum, protectores vestros,
 qui non poterunt resistere michi. Interdum descendit unum
 fulgur et fulminauit eum, et adhuc semicocctus volebat eum
@@ -72,7 +67,6 @@ Deus ignis. Ille facit sagiptas Deo. Alii sunt fabri,
 Vulcane. A muta: alternatim. Ethena dicitur Mun-
 gibellus: vulgariter dicitur focina nigra; sic vulgariter
 vocatur.
----
 In Thessalia, in una contrata, que vocatur Flegra, fuit
 facta magna pugna gigantium. Ibi congregatis multis gi-
 gantibus, recipiebant montes et ponebant unum super

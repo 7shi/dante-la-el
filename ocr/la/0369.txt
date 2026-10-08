@@ -1,5 +1,3 @@
-Here is the transcription of the Latin text from the image:
-
 CAPITULUM VICESIMUMQUINTUM
 315
 
@@ -52,7 +50,7 @@ fui. Sic vidi ego septimam zavorram mutari et transmutari,
 idest de serpente in hominem et de homine in serpentem.
 Et hic me excuset novitas, si in alba re lingua aborrat,
 idest variat.
-* Zavorra proprie est arena maris cum parvis lapillis,
+Zavorra proprie est arena maris cum parvis lapillis,
 quam aliquando naute ponunt in navibus, quando non sunt
 onerate: et vocat istum locum zavorram, idest arenam,
 in qua serpentes saltant in Libia, stant in arena. Excusat se

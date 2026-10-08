@@ -1,6 +1,5 @@
-**CAPITULUM DECIMUMNONUM**
+CAPITULUM DECIMUMNONUM
 
-**Left Column (Italian - for context):**
 ³⁷ E tai chrystiani dannerà l'Etyòpe,
 Quando si partiranno e due collegi,
 L'uno in eterno richo, l'altro inòpe.
@@ -22,7 +21,6 @@ Che mai valor non cognobbe nè volle.
 
 (¹) al. quando — (²) Chrysto — (³) di Crysto, cioè peccati humani.
 
-**Right Column (Latin - main transcription):**
 ³⁷ Et talem christianum dampnabit Ethiops,
 Quando separabuntur duo collegia,
 Unum in eternum dives, aliud inops.
@@ -42,9 +40,6 @@ Ita, quod non potest sufferre infra suam metam.
 Illius de Hyspania, et illius de Bohemia,
 Qui unquam valorem non agnovit nec voluit.
 
----
-
-**Commentary (Latin footnotes):**
 Et talem Christianum dampnabit Ethiops, quando sepa-
 rabuntur duo collegia, hedorum et agnorum, in die iudicii:
 unum in eternum dives, scilicet agnorum salvandorum;

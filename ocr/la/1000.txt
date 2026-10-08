@@ -1,8 +1,5 @@
-The transcription of the text is as follows:
+946
 
-**Page 946**
-
-**Left Column (Original Italian)**
 8 Tu dubbi, et hai voler che si ricerna
     In sì aperta e sì distesa lingua
     Lo dicer mio, che 'l tuo sentir discerna,
@@ -22,9 +19,6 @@ The transcription of the text is as follows:
     L'altro per sapienza in terra fue
     Di cherubica luce uno splendore.
 
----
-
-**Right Column (Latin Translation)**
 PARADISI
 
 8 Tu dubitas, et habes voluntatem quod recernatur
@@ -47,11 +41,6 @@ PARADISI
     Alter propter sapientiam in terra fuit
     Cherubica lucis unus splendor.
 
----
-
-**Footnotes/Commentary (Latin)**
-
-**Left Column**
 Tu dubitas, et habes voluntatem quod recernatur [San-
 ctus Thomas dicit, quod ipse respiciens in Deo, tamquam
 in speculo in quo omnia relucent, videbat clare cogitamina
@@ -84,7 +73,6 @@ cum suis duobus Ordinibus, qui diu floruerunt sanctitate
 et exemplis. Nam sacerdotes seculares et etiam monaci,
 qui primo in magna perfectione conserveraverunt Ecclesiam
 
-**Right Column**
 Dei, quasi defecerant in multis, saltem in annuntiatione
 verbi Dei: ideo tunc Deus introduxit in mundum illos
 duos Ordines, ad conservationem Ecclesiae sancte Dei. Et

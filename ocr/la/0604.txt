@@ -1,7 +1,6 @@
-**Page Number:** 550
-**Title:** PURGATORII
+550
+PURGATORII
 
-**Left Column (Italian - main text):**
 33 Così à tolto l'un (¹) all'altro Guido
 La gloria de la lingua; e forse è nato
 Chi l'uno e l'altro caccerà del nido.
@@ -18,11 +17,9 @@ Al cerchio (⁷) che più tardi in cielo è torto (⁸).
 Dinanzi a me, Toscana sono tutta,
 Et hor à pena in Siena sì (¹¹) pispigla.
 
-**Left Column (Italian - footnotes):**
 (¹) Guido. — ², separi. (³) al. avanti che lasciassi. — (⁴) idest, antequam exires de pueritia. — (⁵) ch'è, ò, alla eternità. —
 (⁶) octava sfera. — (⁷) voluto. — (⁸) Provenzan Salvani. — (⁹) per lo gran peso che porta. — (¹⁰) al. sen.
 
-**Left Column (Italian - commentary below footnotes):**
 Sic subripuit unus alteri Guidoni gloriam lingue; et
 forsan est natus, qui utrumque expellet de nido.
 Notandum est hic quod etiam, modicum ante tempus
@@ -58,7 +55,6 @@ Hoc sit dictum ad solatium.
 
 Prosequitur auctor suam exclamationem, dicens: Non est
 
-**Right Column (Latin - main text):**
 33 Sic subripuit unus alteri Guidoni
 Gloriam lingue; et forsan est natus
 Qui utrumque expellet de nido.
@@ -75,7 +71,6 @@ Ad circulum qui tardius in celo torquetur. [ciliorum
 Ante me, in Tuscia sonuit tota,
 Et nunc in Senis vix de eo quis loquitur,
 
-**Right Column (Latin - commentary):**
 mundanus rumor aliud quam unus flatus venti, qui ali-
 quando venit hinc, et aliquando venit inde, et mutat nomen
 quia mutat latus.

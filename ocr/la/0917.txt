@@ -1,6 +1,5 @@
-**CAPITULUM QUARTUM**
+CAPITULUM QUARTUM
 
-**[Left Column - Italian/Vulgar Latin Text]**
 ⁹ Queste son question che nel tuo velle
 Punctano egualmente; e però pria
 Tracterò quella che più ha di felle.
@@ -14,7 +13,6 @@ Nè hanno all'esser loro più e men anni;
 E differentemente han dolce vita,
 Per sentir più e men l'eterno spiro.
 
-**[Right Column - Latin Text]**
 863
 ⁹ Iste sunt questiones, que in tuo velle
 Pungunt equaliter; et ideo prius
@@ -29,7 +27,6 @@ Nec habent ad esse suum plures sive pauciores annos;
 Et differrenter habent dulcem vitam,
 Quia sentiunt plus et minus eternam spirationem.
 
-**[Left Column - Commentary Text]**
 sonam, qua ratione merendi, scilicet in illa persona vio-
 lentata, demit mensuram, idest diminuit meritum? Ecce
 primum dubium. Si bona persona, faciens opus meritorium,
@@ -43,7 +40,6 @@ personarum [sunt hic], tu dubitas si opinio Platonis est
 vera, que ponebat animas decisas a stellis, venientes ad
 corpora, et demum, mortuis corporibus, ipsas redire ad
 stellas a quibus fuerunt decise.
-––––––––––––––––––––––
 Iste sunt questiones, que in tuo velle pungunt, idest pre-
 munt, equaliter; et ideo prius tractabo illam, que tractat
 de opinione Platonis, que plus habet fellis, idest falsitatis.
@@ -72,7 +68,6 @@ bent, ita quod scampna omnium sanctorum sunt in celo
 empyreo; nec diutius erunt in celo empyreo Seraphim, aut
 Virgo Maria, aut Sanctus Ioannes, quam isti spiritus qui
 
-**[Right Column - Commentary Text]**
 sunt in celo lune. Ita quod, quoad celum in quo stant, et
 quoad durationem, omnes Sancti equaliter se habent, non
 beatior alio et altior in beatitudine. Isti spiritus osten-
@@ -111,5 +106,3 @@ inclinarent homines ad bene vel ad male agendum, licet
 nullo modo necessitent aut necessitatem non necessa-
 ratum est in decimosexto capitulo Purgatorii, forsan in
 aliquod verum intraret opinio sua et in parte esset vera.
-
-Digitized by Google

@@ -1,12 +1,1 @@
-Based on the provided image, the discernible text is very minimal and appears to be a page or scanning artifact rather than a full page of Latin text.
-
-The only clear textual element that could be interpreted as part of a document is:
-
-1.  **Top left corner:**
-    *   `VOL. I.` (or `VoI. I.`)
-
-Additionally, there is a watermark:
-2.  **Bottom right corner:**
-    *   `Digitized by Google`
-
-The rest of the image is blank or shows scanning artifacts along the right edge that do not form coherent text. Therefore, the only relevant Latin text extracted is "VOL. I.".
+(blank page)

@@ -1,4 +1,3 @@
-**Left Column:**
 CAPITULUM QUARTUM
 
 ³ E però, quando s'ode cosa o vede,
@@ -47,7 +46,6 @@ est contra illum errorem, qui credit quod una anima super
 aliam accendatur. Et ideo, quando auditur res, vel vi-
 detur
 
-**Right Column:**
 469
 ³ Et ideo, quando auditur res vel videtur,
 Que teneat fortiter ad se animam conversam,

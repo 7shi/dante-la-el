@@ -1,59 +1,56 @@
-**1038**
-**PARADISI**
+1038
+PARADISI
 
-**Left Column (Italian Poetic Text)**
 30 Mostrarsi adonque in cinque volte septe
-  Vocali e consonanti; ond’io notai
-  Le parti sì come mi parven decte.
+Vocali e consonanti; ond’io notai
+Le parti sì come mi parven decte.
 31 Diligite iustitiam, e primai
-  Fur verbo e nome di tutto ’l dipincto;
-  Qui iudicatis terram, fur sezai.
+Fur verbo e nome di tutto ’l dipincto;
+Qui iudicatis terram, fur sezai.
 32 Poscia nell’Emme del vocabol quinto
-  Rimascr ordinati, sì che Iove
-  Parea d’argento lì d’oro distincto.
+Rimascr ordinati, sì che Iove
+Parea d’argento lì d’oro distincto.
 33 E vidi scender l’altre luci dove
-  Era ’l colmo dell’Emme, e lì quetarsi
-  Cantando, credo, el ben ch’a sè le muove.
+Era ’l colmo dell’Emme, e lì quetarsi
+Cantando, credo, el ben ch’a sè le muove.
 34 Poi, come nel perchuoter de’ceppi arsi
-  Surgono innumerabili faville,
-  Onde gli stolti soglon augurarsi,
+Surgono innumerabili faville,
+Onde gli stolti soglon augurarsi,
 35 Risurger parver quindi più di mille
-  Luci, e salir qual assai e qual poco,
-  Sì come ’l Sol, che l’accende, sortille:
+Luci, e salir qual assai e qual poco,
+Sì come ’l Sol, che l’accende, sortille:
 36 E, quietata ciascuna in suo loco,
-  La testa e ’l collo d’un’aquila vidi
-  Rappresentar a quel distincto foco.
+La testa e ’l collo d’un’aquila vidi
+Rappresentar a quel distincto foco.
 37 Quel che dipinge lì non ha chi’l guidi,
-  Ma esso guida, e da lui si rammenta
-  Quella virtù ch’è forma per li nidi.
+Ma esso guida, e da lui si rammenta
+Quella virtù ch’è forma per li nidi.
 
-**Right Column (Latin Poetic Text)**
 30 Monstraverunt se in quinquies septem
-  Vocales et consonantes; ego notavi
-  Partes, sicut apparuerunt dicte.
+Vocales et consonantes; ego notavi
+Partes, sicut apparuerunt dicte.
 31 Diligite iustitiam, prima
-  Fuerunt nomen et verbum totius depicti;
-  Qui iudicatis terram, fuerunt ultima.
+Fuerunt nomen et verbum totius depicti;
+Qui iudicatis terram, fuerunt ultima.
 32 Postea in M vocabuli quinti
-  Remanserunt ordinate ita, quod Iuppiter
-  Apparebat argentum ibi ab auro distinctum.
+Remanserunt ordinate ita, quod Iuppiter
+Apparebat argentum ibi ab auro distinctum.
 33 Et vidi descendere alias luces ubi
-  Erat culmen M, et ibi quietari
-  Cantando, credo, bonum quod ad se illas movet.
+Erat culmen M, et ibi quietari
+Cantando, credo, bonum quod ad se illas movet.
 34 Postea, sicut in percussione cioccorum ardentium
-  Surgunt innumerabiles faville,
-  Unde stulti solent se augurari,
+Surgunt innumerabiles faville,
+Unde stulti solent se augurari,
 35 Resurgere apparuerunt inde pluries mille
-  Luces, et ascendere aliqua satis aliqua modicum,
-  Sicut Sol, qui eas accendit, illas sortitur:
+Luces, et ascendere aliqua satis aliqua modicum,
+Sicut Sol, qui eas accendit, illas sortitur:
 36 Et, queta quelibet in suo loco,
-  Caput et collum unius aquile vidi
-  Representari ad illum distinctum focum.
+Caput et collum unius aquile vidi
+Representari ad illum distinctum focum.
 37 Ille qui pinxit ibi non habet qui eum conducat,
-  Sed ipse ducit, et ab ipso reminiscitur
-  Illa virtus que format per nidos.
+Sed ipse ducit, et ab ipso reminiscitur
+Illa virtus que format per nidos.
 
-**Left Column (Latin Prose Commentary)**
 Monstrarunt se, idest illi spiritus, in quinquies septem
 vocales et consonantes, scilicet litterae; ego notavi partes
 sicut michi apparuerunt dicte, idest vise sunt.
@@ -80,7 +77,6 @@ servaverunt iustitiam.
 Postea, sicut in percussione cioccorum et cipporum, vel
 torris accensi, surgunt innumerabiles faville, unde stulti
 
-**Right Column (Latin Prose Commentary)**
 solent se augurari (nota quod quando unus torres igni-
 tus ex una parte percutitur, exeunt faville quasi innume-
 rabiles; et aliqui fatui, idest homines stulti, qui utuntur

@@ -1,4 +1,3 @@
-**Column 1**
 718 PURGATORII
 
 in illis libris habemus quidquid habemus de fide. Bini
@@ -46,7 +45,6 @@ qui apparebant in humili gestu. Sunt quatuor Doctores,
 scilicet Augustinus, Hieronymus, Gregorius et Ambrosius.
 Augustinus fuit malleus hereticorum in disputationibus:
 
-**Column 2**
 Ieronimus excellentissimus in hystoriis, Ambrosius optimus
 predicator, Gregorius fuit excellens in moralitatibus. Au-
 gustinus fuit Chartaginensis, de Barbaria, sive de Ieconis.
@@ -92,5 +90,3 @@ seria proveniebat ab inobedientia comedentis de fructu, etc.
 nam non oportuisset hominem militare nec laborare. nisi
 Eva peccasset: ita quod omnis nostra miseria proveniebat
 ab inobedientia primorum parentum, etc.
-
-Digitized by Google

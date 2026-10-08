@@ -1,7 +1,7 @@
 CAPITULI VICESIMIQUINTI SUMMARIUM
 
-In capitulo vicesimoquinto, quod incipit: *In fine*,
-vel ad finem, *verborum suorum*, auctor tractat de
+In capitulo vicesimoquinto, quod incipit: In fine,
+vel ad finem, verborum suorum, auctor tractat de
 duabus aliis speciebus furti et latrocinii. Secunda
 species latrocinii est opposita prime: quia prima
 species est, quando fur, vel latro, non habet a na-
@@ -33,5 +33,3 @@ Minotauro, de quo dicunt, quod erat homo et
 bos, non homo, non bos: erat uterque, neuterque.
 Sic hic factum est de isto Angelo et serpente, ipsum
 mordente.
-
-Digitized by Google

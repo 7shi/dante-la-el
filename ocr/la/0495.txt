@@ -1,5 +1,3 @@
-**Left Column (Italian Main Text):**
-
 34 Questa isoletta intorno ad imo ad imo,
 Laggiù colà dove la batte l'onda,
 Porta de' giunchi sopra 'l molle limo.
@@ -21,10 +19,6 @@ Cognobbi el tremolar de la marina.
 
 (¹) al. seguirai. — (²) al. fuggea.
 
----
-
-**Right Column (Latin Main Text):**
-
 34 Ista insolecta circum ad ymum ad ymum,
 Infra ibi ubi illam percutit unda,
 Portat de iuncis super molli limo.
@@ -43,10 +37,6 @@ Ista planities suos terminos infimos.
 39 Alba vincebat horam matutinam
 Que fugiebat ante, ita quod de longinquo
 Cognovi tremulare marine.
-
----
-
-**Bottom Left Column (Latin Commentary):**
 
 stat in loco humili et basso, nec habet nodum, et declinat
 ad terram veniente aqua, et sol veniens erigit illum; idest
@@ -77,10 +67,6 @@ Nulla alia planta, que faceret frondem, vel induresceret,
 non potest habere vitam, idest durare, vel habere augmen-
 tum, vel crescere. ex eo quia percussionibus non secundat,
 idest obedit, idest non potest sustinere percussionem. Quasi
-
----
-
-**Bottom Right Column (Latin Commentary):**
 
 dicat: Nulla alia virtus est sufficiens ad eundum ad Pur-
 gatorium, nisi humilitas, que flectitur, plicatur.

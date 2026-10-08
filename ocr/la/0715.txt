@@ -1,5 +1,3 @@
-**Left Column (Italian Text)**
-
 43 Quando sentii, come cosa che cada,
 Tremar lo monte: onde mi prese un gielo,
 Qual prender suol colui ch’a morte vada.
@@ -18,8 +16,6 @@ Finchè ’l tremar cessò, et io ’l compresi.
 48 Poi ripigliammo nostro cammin sancto,
 Guardando l’ombre che giacean per terra,
 Tornate già in su l’usato pianto.
-
-**Right Column (Latin Text)**
 
 CAPITULUM VICESIMUM
 661
@@ -43,10 +39,7 @@ Quousque tremere cessavit, et ille completus est.
 Respiciendo umbras que iacebant per terram,
 Reversas iam ad consuetum planctum.
 
-**Footnotes**
 (¹) insula — (²) Phebo e Diana — (³) da presso — (⁴) Luc. II° cap.
-
-**Text Below Columns (Left Side)**
 
 rabile accidens, quod fuit tale. Venit terremotus terribilis,
 dum sic starent; et fuit terremotus talis, quod totus mons
@@ -72,8 +65,6 @@ Archipelago in Gretia, sic dicta), postquam Latona in ea
 faceret nidum ad parturiendum duos oculos celi. Fingunt
 etiam luna vocatur Delia, idest nata in Delos. Scribit
 Macrobius de Saturnalibus, quod Delos sit mundus insta-
-
-**Text Below Columns (Right Side)**
 
 bilis, que est una insula in medio aquarum. Latona fuit
 materia informis, sive chaos, sive yle, ex qua facti fuerunt

@@ -1,10 +1,6 @@
-Here is the transcription of the provided image:
-
-**[Page Header]**
 1194
 PARADISI
 
-**[Italian Poem - Left Column]**
 6 E dal septomo grado in giù, sì come
 Infino ad esso, succedon Hebree,
 Dirimendo del fior tutte le chiome;
@@ -30,7 +26,6 @@ Et altri fin quaggiù di giro in giro.
 Che l'un e l'altro aspecto della fede
 Egualmente empierà questo giardino.
 
-**[Latin Poem - Right Column]**
 6 Et a septimo gradu infra, sicut
 Usque ad ipsas, succedunt Hebreæ,
 Dirimendo de flore omnes comas;
@@ -56,7 +51,6 @@ Et alii usque huc de gyro in gyrum.
 Quia uno et alio aspectu fidei
 Equaliter implebit istud viridarium.
 
-**[Commentary - Left Column]**
 propter dolorem falli, scilicet peccati, quod commisit cum
 Bersabea, alias uxore Urie, dixit de crimine, Miserere mei,
 scilicet illum psalmum, potes tu videre, scilicet iam, sic de
@@ -85,7 +79,6 @@ venit, habuerunt visum, idest illi qui crediderunt Christum
 venisse.
 —
 
-**[Commentary - Right Column]**
 Et sicut hinc gloriosum scampnum domine celi, idest
 Virginis Marie, et illa scampna sub ipso tantam cernam,
 idest ordinem, vel electionem, faciunt; sic contra illud, sci-
@@ -114,4 +107,3 @@ mum est quod nemo salvatur nisi in fide Christi; secun-
 dum, quod numerus predestinatorum de veteri Testamento
 est equalis numero salvandorum de novo Testamento.
 —
-Digitized by Google

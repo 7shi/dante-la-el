@@ -1,7 +1,3 @@
-Here is the transcription of the provided image:
-
-**Left Column (Italian Poem)**
-
 CAPITULUM TRICESIMUMPRIMUM
 12 Piangendo dixi: Le presenti cose (¹)
 Col falso lor piacer volser miei passi,
@@ -22,12 +18,7 @@ Muover dovieti (⁹) mia carne sepolta (¹⁰).
 Piacer, quanto le belle membra in ch’io
 Rinchiusa fui, che son in terra sparte (¹¹).
 
-**(Footnotes for Italian column):**
 (¹) temporali — (²) o Beatrice — (³) sarebbe — (⁴) Dio — (⁵) si sa — (⁶) foro conscientie e sacramentale. — (⁷) meglio — (⁸) così — (⁹) ti doveva — (¹⁰) el corpo morto — (¹¹) da Doctori.
-
----
-
-**Right Column (Latin Poem)**
 
 CAPITULUM TRICESIMUMPRIMUM
 12 Plangendo dixi: Presentes res
@@ -50,12 +41,7 @@ Complacentiam tantam, quantum pulchra mea
 [membra in quibus
 Reclusa fui ego et que sunt in terram sparsa.
 
-**(Footnotes for Latin column):**
 (³) sarebbe — (⁴) Dio — (⁵) si sa — (⁶) foro conscientie et sacramentale. — ⁷ meglo —
-
----
-
-**Prose Text (Latin Commentary)**
 
 rialiter, licet tunc debuissem cogitare de morte et non
 delectari in rebus mundanis, tamen ipse [mundus] cum

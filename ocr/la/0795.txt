@@ -1,7 +1,3 @@
-Here is the transcription of the provided image:
-
-**Left Column (Italian Poetic Text)**
-
 37 E già, per li splendori antelucani,
     Che tanto a' peregrin surgon più grati,
     Quanto tornando albergan men lontani,
@@ -17,8 +13,6 @@ Here is the transcription of the provided image:
 41 Tanto voler sopra voler mi venne
     Dell' esser su, ch'ad ogni passo poi
     Al volo mio sentia crescer le penne.
-
-**Right Column (Latin Poetic Text & Page Number)**
 
 CAPITULUM VICESIMUMSEPTIMUM
 741
@@ -38,10 +32,6 @@ CAPITULUM VICESIMUMSEPTIMUM
 41 Tantum velle supra velle michi venit
     Esse sursum, quod ad omnem
     Ad volandum michi sentiebam crescere pennas.
-
----
-
-**Latin Prose Commentary (flowing from Right to Left Column)**
 
 scilicet in ortu solis, sive modicum ante, scilicet quando
 iam sunt aliqui splendores, precedentes ortum solis, qui
@@ -106,5 +96,3 @@ lippos. Domina Mathylda floruit in millesimo ducentesimo sexa-
 gesimo quinto, honestissima, sicut ego legi in quodam an-
 tiquo libro, dum essem Mantue millesimo quadragintesimo
 decimo cum magnifico meo domino Carolo de Malatestis.
-
----

@@ -1,7 +1,3 @@
-Here is the transcription of the Latin text from the image, along with the original Italian and its corresponding Latin translation at the top.
-
-**Original Italian (Left Column)**
-
 966
 PARADISI
 
@@ -26,10 +22,6 @@ Ch'un la fugge, e l'altro la coarta.
 
 (¹) rota, Francesco.
 
----
-
-**Latin Translation (Right Column)**
-
 PARADISI
 
 37 Bene deberet tibi satis esse patefacta
@@ -50,10 +42,6 @@ Ubi legeret: Ego sum illud quod soleo esse.
 42 Sed non erit de Casali, neque de Aquasparta,
 Unde veniunt tales ad Scripturam,
 Quod unus illam fugit et alius eam coartat.
-
----
-
-**Commentary (Left Column, under Italian)**
 
 habens duas rotas, per quam bigam figuratur Ecclesia
 sancta Dei militans, ut dictum est in Purgatorio capitulo
@@ -85,10 +73,6 @@ teriori dolii quando evacuatur, et habet causare bonitatem
 vini repositi in dolio. Modo volendo diffamare Fratres, dicit
 dominus Bonaventura, quod nunc est in dolio vini Sancti
 Francisci muffa, ubi tempore Beati Francisci erat optima
-
----
-
-**Commentary (Right Column, under Latin translation)**
 
 grumma. Vult dicere modo quod est fetor in Ordine Sancti
 Francisci, ubi solebat esse odor.

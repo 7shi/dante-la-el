@@ -1,7 +1,0 @@
-Based on the provided image and its crops, there is **no Latin text visible** on the page.
-
-The only text present is the watermark at the bottom right corner, which reads:
-
-**Digitized by Google**
-
-This watermark is in English and indicates that the image was digitized by Google, rather than being part of the original document's content.

@@ -1,5 +1,3 @@
-**Left Column:**
-
 CAPITULUM DUODECIMUM
 
 ⁶ Che fu concepta ne la falsa vaccha:
@@ -25,7 +23,7 @@ tum bona via; sed cum difficultate tamen quis ascenderet.
 Volens igitur auctor hic facere unam comparationem ad
 describendum locum, per quem debebat descendere in cir-
 culum violentorum, dicit sic: Qualis est illa ruina, que in
-*flũo*, idest in latere rupis, sive in costa, sive in clivo,
+flũo, idest in latere rupis, sive in costa, sive in clivo,
 citra Tridentum, Adicem, idest fluvium Adicis, percussit, vel
 propter terremotum, vel propter substentamentum ruina-
 tum, idest propter defectum substentaculi, idest funda-
@@ -33,14 +31,14 @@ menti; que, scilicet ruina, a summitate montis, idest rupis,
 unde movit se, idest unde incipit ruinare usque ad planum,
 idest usque ad lectum fluvii; [e] così, [est] sic roccia, idest
 ripa discoscésa, idest ruinata [quod] aliquam viam daret,
-idest preberet, et *chi su fosse*, idest ambulantibus per eam
+idest preberet, et chi su fosse, idest ambulantibus per eam
 talis illius buracti erat descensus, sive clivitas buracti,
 idest circuli, qui erat burus obscurus. Adaptat similitudi-
 nem ad propositum.
 
-In *puncto*, idest in principio illius introy tus, *locche*,
-idest coste, *infamia Crete*, idest Minotaurus, erat *di-
-stensa*: vocat hic auctor Minotaurum, infamiam Crete, idest
+In puncto, idest in principio illius introy tus, locche,
+idest coste, infamia Crete, idest Minotaurus, erat di-
+stensa: vocat hic auctor Minotaurum, infamiam Crete, idest
 illius insule Crete, sive Cretensis.
 Hic notanda est una hystoria talis, que partim fuit vera,
 partim est fictio. In insula Crete, que est insula opulentis-
@@ -59,8 +57,6 @@ rum; qui ita proficiebat in studio, quod omnes scolares
 excedebat. Quare, propter invidiam sue subtilitatis, semel
 de una turri fuit proiectus, et sic mortuus. Pater suus,
 sciens hoc, congregato maximo exercitu, ivit contra Athenas
-
-**Right Column:**
 
 155
 

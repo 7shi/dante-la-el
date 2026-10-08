@@ -1,6 +1,5 @@
-**CAPITULUM VICESIMUMNONUM**
+CAPITULUM VICESIMUMNONUM
 
-**Left Column (Italian):**
 ^Poi cominciò: Io dico, non dimando,
 Quel che tu vuoi udir, perch'io l'ò visto
 Ove s'appuneta ogn'ubi (¹) et ogni quan-
@@ -13,7 +12,6 @@ S'aperse in nove amor l'etterno Amore(³).
 
 (¹) spazio, o luogo — (²) tempo — (³) Dio.
 
-**Right Column (Latin):**
 1157
 
 ^Postea incepit: Ego dico, non interrogo,
@@ -27,9 +25,6 @@ Extra omne aliud comprehendere, sicut [s]ibi
 [placuit,
 Aperuit [se] in novem amores eternus Amor.
 
----
-
-**Left Column (Commentary):**
 que [est] in occidente, subito occidit: et sic Cenit quasi in
 instanti pertransijt, et modicum, quasi nihil, durat. Tam mo-
 dicum stetit Beatrix, ex quo dixerat ea quæ dixii in capitulo
@@ -71,7 +66,6 @@ ubi, idest in Deo, in quo apponuntur, idest terminantur
 omne ubi, idest omnis locus, et omne quando, idest omne
 tempus.
 
-**Right Column (Commentary):**
 Tria dubia erant in mente auctoris circa naturam an-
 gelicam: ubi, idest in quo loco, et quando, idest in quo
 tempore, et quomodo, fuit creata natura angelica; que tria

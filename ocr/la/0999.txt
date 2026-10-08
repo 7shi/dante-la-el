@@ -1,6 +1,4 @@
-**CAPITULUM UNDECIMUM**
-
-**Italian Text (Left Column):**
+CAPITULUM UNDECIMUM
 
 2 Chi dietro ad iura, e chi ad aphorysmi
 Sen giva, e chi seguendo sacerdotio,
@@ -20,8 +18,6 @@ Incominciar, facendosi più mera:
 7 Così com'io del suo raggio risplendo,
 Sì, riguardando ne la luce eterna,
 E tuoi pensier, ond' io cagion apprendo.
-
-**Latin Text (Right Column):**
 
 945
 
@@ -47,10 +43,6 @@ Incipere se facere magis claram:
 7 Sic sicut ego de suo radio resplendeo,
 Sic, respiciendo in lucem eternam,
 Tua cogitamina, unde rationem apprehendo.
-
----
-
-**Commentary (Bottom Section):**
 
 Modo incipit in particulari loqui de istis octo exercitiis,
 et primo: Quidam retro iura canonica et civilia (que sunt

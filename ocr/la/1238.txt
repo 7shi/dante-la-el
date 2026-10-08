@@ -1,48 +1,38 @@
-Here is the transcription of the provided image. Note that the left column of poetic text is in Italian, while the right column of poetic text and the entire commentary below are in Latin.
-
-**Page Header:**
 1184 PARADISI
 
----
-
-**Left Column (Poetic Text - Italian):**
 20 Uno intendea, et altro mi rispose:
-    Credea veder Beatrice, e vidi un sene
-    Vestito colle genti gloriose.
+Credea veder Beatrice, e vidi un sene
+Vestito colle genti gloriose.
 21 Diffuso era per gl'ochi e per le gene
-    Di benigna letitia, in acto pio,
-    Quale a tenero padre si conviene.
+Di benigna letitia, in acto pio,
+Quale a tenero padre si conviene.
 22 E, Dov'è ella? subito diss' io.
-    Ond'elli: A terminar el tuo desiro
-    Mosse Beatrice me del luogo mio;
+Ond'elli: A terminar el tuo desiro
+Mosse Beatrice me del luogo mio;
 23 E se riguardi su nel terzo giro
-    Dal sommo grado, tu la rivedrai
-    Nel trono che suoi merti le sortiro.
+Dal sommo grado, tu la rivedrai
+Nel trono che suoi merti le sortiro.
 24 Senza risponder gl'ochi su levai,
-    E vidi lei, che si facea corona,
-    Riflectendo da sè gl'eterni rai (`!`).
-    (`!`) ragì.
+E vidi lei, che si facea corona,
+Riflectendo da sè gl'eterni rai (!).
+(!) ragì.
 
-**Right Column (Poetic Text - Latin):**
 20 Unum intendebam, et aliud michi respondit:
-    Credebam videre Beatricem, et vidi unum senem
-    Vestitum cum gentibus gloriosis.
+Credebam videre Beatricem, et vidi unum senem
+Vestitum cum gentibus gloriosis.
 21 Diffusus erat per oculos et per genas
-    Benigna letitia, in actu pio,
-    Qualis eterno Patri est conveniens.
+Benigna letitia, in actu pio,
+Qualis eterno Patri est conveniens.
 22 Et, Ubi est ipsa? subito dixi ego.
-    Unde ipse: Ad terminandum tuum desiderium
-    Movet Beatrix me de loco meo;
+Unde ipse: Ad terminandum tuum desiderium
+Movet Beatrix me de loco meo;
 23 Et si respicis sursum in tertium gyrum
-    Summi gradus, tu eam videbis
-    In trono quem sua merita sibi sortita sunt.
+Summi gradus, tu eam videbis
+In trono quem sua merita sibi sortita sunt.
 24 Sine responso oculos sursum levavi,
-    Et vidi ipsam, que sibi faciebat coronam,
-    Reflectendo a se eternos radios.
+Et vidi ipsam, que sibi faciebat coronam,
+Reflectendo a se eternos radios.
 
----
-
-**Bottom Left Column (Prose Commentary - Latin):**
 descrivit apparitionem unius senis maximi et contemplativi,
 et ascensum Beatricis ad suum scampnum. Et primo dicit,
 quod iam respexerat et viderat formam totalem generalem,
@@ -71,7 +61,6 @@ fixe; et volvebam me cum voluntate recæcensa, credens
 videre Beatricem propter [petere] meam dominam de rebus,
 de quibus mens mea erat suspensa, idest ego dubitabam.
 
-**Bottom Right Column (Prose Commentary - Latin):**
 quem videre et ad ipsum pervenire non poterat, nisi me-
 diante Virgine Maria, intercedente pro ista gratia obti-
 nenda; et ad ipsam beatam et gloriosam Virginem Ma-
@@ -106,6 +95,3 @@ sunt vel assignaverunt, idest meritorie acquisierunt.
 
 Sine responso oculos sursum levavi, idest erexi, et vidi
 ipsam, que sibi faciebat coronam, reflectendo a se eternos
-
-**Footer:**
-Digitized by Google

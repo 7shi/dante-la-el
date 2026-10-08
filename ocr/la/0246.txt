@@ -1,8 +1,4 @@
-Here is the transcription of the provided image, which appears to be a page from a text with an Italian original (left column) and a Latin translation/commentary (right column), followed by further Latin commentary.
-
-**CAPITULUM QUINTUMDECIMUM**
-
-**Italian Original (left column):**
+CAPITULUM QUINTUMDECIMUM
 
 ¹ Hora cen porta l'un de' duri margini,
 E 'l fumo del ruscel di sopra aduggia
@@ -15,8 +11,6 @@ Fanno lo schermo, perchè'l mar si fuggia;
 Per difender lor ville e lor castelli,
 Anzi che Chiarentana el caldo senta;
 
-**Latin Translation/Commentary (right column):**
-
 ¹ Nunc nos portat unus ex duris marginibus,
 Et fumus rivuli desuper adumbrat
 Ita, quod ab igne salvat aquam et aggeres.
@@ -26,10 +20,6 @@ Faciunt eorum defensiones, ad hoc ut mare fugiat;
 ³ Et quales Paduani iuxta Brentam,
 Ut defendant suas villas et sua castella,
 Antequam Clarentana calorem sentiat;
-
----
-
-**Further Latin Commentary (below the main columns):**
 
 Nunc nos portat. Ora cen porta l'un de' du[r]i: istud est
 quintumdecimum capitulum huius Inferni, in quo auctor

@@ -1,4 +1,3 @@
-**Main Text (Left Column - Italian):**
 29 Ond'elli a me: Sì tosto m'ha condotto
 A ber lo dolce assentio de'martiri
 La Nella mia (¹) col suo pianger dirocto.
@@ -18,9 +17,8 @@ Cui quest'hora non sarà molto antica,
 Alle sfacciate donne fiorentine
 L'andar mostrando colle poppe 'l pecto.
 
-**(¹) donna — (²) circolo — (³) al. degl'altri, et melius — (⁴) tanto.**
+(¹) donna — (²) circolo — (³) al. degl'altri, et melius — (⁴) tanto.
 
-**Main Text (Right Column - Latin):**
 29 Unde ipse ad me: Ita cito me conduxit
 Ad bibendum dulce absintium martyriorum
 Nella mea cum suo planctu dirupto.
@@ -40,7 +38,6 @@ Cui non erit ista hora multum antiqua,
 Audacibus mulieribus florentinis
 Ire monstrando cum mammis pectus.
 
-**Footnotes (Left Column - Italian):**
 prius fuit posse in te finitum peccandi, priusquam subve-
 niret hora boni doloris, qui Deo nos remaritat, idest re-
 conjungit (quasi dicat, tu fuisti peccator gulosus, et valde
@@ -76,7 +73,6 @@ est magis sola, idest solitaria. Quasi dicens: In Florentia
 sunt pauce vidue bone et mulieres: quasi dicat auctor Bar-
 bagiam, pronomen.
 
-**Footnotes (Right Column - Latin):**
 Notandum est quod Sardinia insula fuit habitata per Sa-
 racenos et infideles, et Saraceni ibi dominabantur: tamen
 Ianuenses expugnabant Saracenos, et acquisierunt eandem

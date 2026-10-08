@@ -1,7 +1,5 @@
-**PARADISI**
-**838**
-
-**Left Column - Italian Poem with Latin/Italian Footnotes**
+PARADISI
+838
 
 7 La concreata (¹) et perpetua (²) sete (³)
   Del deiforme (⁴) regno (⁵) cen'portava (⁶)
@@ -27,8 +25,6 @@
 (³⁸) noi, Beatrice e me — (³⁹) chiara e splendente — (⁴⁰) densa — (⁴¹) corpolenta — (⁴²) tersa — (⁴³) pietra pretiosa — (⁴⁴) nel quale —
 (⁴⁵) sole — (⁴⁶) reverberasse e suoi razi.
 
-**Right Column - Latin Translation of Poem**
-
 7 Concreata et perpetua sitis
   Deiformis regni nos portabat
   Veloces quasi sicut cœlum videtis.
@@ -45,9 +41,7 @@
   Lucida, spissa, solida et polita,
   Quasi adamas quod a sole feritur.
 
-**Left Column - Latin Commentary**
-
-**Concreata et perpetua sitis.** La concreata et perpetua
+Concreata et perpetua sitis. La concreata et perpetua
 sete: hec est secunda pars huius capituli, in qua auctor
 ostendit, quomodo intravit lunam, et quomodo fuit
 Deo, qui conduxit eum ad talem locum; quod fecit de
@@ -64,7 +58,7 @@ et amor immensus) nos portabat veloces, alias velociter,
 quasi sicut celum videte, quoad volvitur in vigintiqua-
 tuor horis, motu raptus, scilicet diurno.
 
-**Modo ostenditur actus Beatricis, quem fecit.** Beatrix
+Modo ostenditur actus Beatricis, quem fecit. Beatrix
 versus sursum, idest respiciebat, et ego in eam respiciebam,
 et forsan in tantum in quantum una sagipta, que escit,
 idest ad terram cadit, quando non impellitur, et volat, et
@@ -74,8 +68,6 @@ tenet cordam, quando balista est protensa, vocatur apud
 Ytalicos nuce, idest nux. Vult dicere in tanto spatio, quanto
 sagipta a balista currit per aierem, in tanto appulisse me
 vidi venisse, ubi mirabilis res michi torsit visum, idest
-
-**Right Column - Latin Commentary**
 
 ad me suam faciem convertit; et ideo illa, scilicet Bea-
 trix, cui non poterat mea cura esse absconsa, conversa ad

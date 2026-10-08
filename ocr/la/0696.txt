@@ -1,7 +1,6 @@
 642
 PURGATORII
 
-**Italian Text (Left Column)**
 7 Io son, cantava, io son dolce serena,
 Ch’e marinari in mezzo mar dismago;
 Tanto son di piacer ad udir piena.
@@ -21,7 +20,6 @@ Quel (¹⁰) mi sveglò col puzzo che n’uscìa.
 Voci (¹¹) come dicesse: Surigi e vieni,
 Troviàn la porta per la qual tu entre.
 
-**Latin Text (Right Column)**
 7 Ego sum, cantabat, ego sum dulcis syrena,
 Que nautas in medio mari dismago;
 Tantum sum de placere ad sentiendum plena.
@@ -42,11 +40,9 @@ Et interdum quedam vox vocavit ac si diceret:
 [Surge et veni,
 Reperiamus portam per quam tu intres.
 
-**Footnotes**
 (¹) quieto — (²) Philosophia, vel ratio — (³) cum indignatione — (⁴) quella donna — (⁵) Virgilio — (⁶) donna — (⁷) femmina
 balba — (⁸) l’apparentia sua — (⁹) l’existentia sua — (¹⁰) ventre — (¹¹) diè voce.
 
-**Latin Commentary (Left Column)**
 atque profert cantando. Postquam ipsa, scilicet femina, ser-
 monem dissolverat, incipiebat cantare [ita], idest dulciter in
 Tantum, quod cum pena ab ea meum intentum, idest cogi-
@@ -76,7 +72,6 @@ Modo introducitur una alia femina. que est recta ratio,
 quam vocat dominam, ubi priorem solum vocavit feminam:
 que femina secunda, scilicet recta ratio, erat totum per
 
-**Latin Commentary (Right Column)**
 oppositum facta prime; erit enim sancta, velox: que fecit
 primam confusam, idest ostendit, illam primam feminam
 deformem, esse confundendam, spernendam, abiiciendam;
@@ -106,5 +101,3 @@ occhi al buon Virgilio: ista est secunda pars huius ca-
 pituli, in qua auctor describit apparitionem angeli, que
 purgavit cum a vitio accidie. Ego, scilicet auctor, volens
 fugere vitium avaritiæ, volvi oculos ad bonum Virgilium
-
-Digitized by Google

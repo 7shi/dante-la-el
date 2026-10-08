@@ -1,6 +1,4 @@
-**CAPITULUM TRICESIMUMPRIMUM**
-
-**Left Column (Italian):**
+CAPITULUM TRICESIMUMPRIMUM
 
 ¹ Una medesma lingua (¹) pria mi morse (²),
 Sì che mi tinse (³) l'una e l'altra guancia,
@@ -25,8 +23,6 @@ Facemmo adoncha;
 Fecimus igitur longius iter.
 
 fit mentio de uno alio Gigante, de quo poete loquuntur, scilicet Fialte.
-
-**Right Column (Latin):**
 
 ¹ Unamet lingua et eadem prius me momordit,
 Ita quod tinxit unam et aliam genam,

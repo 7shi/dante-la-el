@@ -1,6 +1,3 @@
-Here is the transcription of the Latin text from the image:
-
-**Left Column:**
 916
 ⁴¹ Quinci adivien che Esau si disparte
 Per seme da Iacob, e vien Quirino (¹)
@@ -24,7 +21,6 @@ Onde la traccia vostra è fuor di strada.
 
 (¹) Romulo.
 
-**Right Column:**
 PARADISI
 ⁴¹ Hinc evenit quod Esau recedit
 Per semen a Iacob, et venit Quirinus
@@ -46,7 +42,6 @@ Talem qui est natus ad cingendum sibi ensem,
 Et facitis regem de tali qui est ad sermocinandum:
 Unde iter vestrum est extra stratam.
 
-**Commentary (Left Column):**
 bene suam artem, idest bene influit; sed non distinguit
 unum ab alio hospitio. Homines, in quibus natura, sive
 influemtia, operatur, dicuntur et sunt hospitia illius artis,
@@ -58,7 +53,6 @@ nobilis, sicut ita infundit in corpore ignobilis: ita quod in infundendo non
 facit differentiam inter filios regum, nobilium et ignobilium. Ita agit in uno
 sicut in alio.
 
-**Commentary (Right Column):**
 Nunc illud quod tibi erat retro, idest ignotum, est tibi
 ante, idest notum, et declaratum, per dicta mea; sed ut
 scias quod de te michi prodest, idest quod gaudeo de con-

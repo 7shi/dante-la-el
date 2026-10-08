@@ -1,9 +1,5 @@
-Here is the transcription of the provided image:
 
-**[Top Section - Verse Comparison]**
-
-**[Left Column - Italian Verse]**
-732
+752
 PURGATORII
 ¹⁷ Tu mi fai rimembrar, dove e qual era
 Proserpyna nel tempo che perdecte
@@ -29,7 +25,6 @@ Che l'alta terra senza seme gicta.
 
 (¹) abbassi — (²) d'alzare a me.
 
-**[Right Column - Latin Verse]**
 PURGATORII
 ¹⁷ Tu facis me reminisci, ubi et qualis erat
 Proserpina in tempore in quo perdidit illam
@@ -52,8 +47,6 @@ A filio, extra omnem morem suum.
 ²³ Ipsa ridebat ab alia ripa recta,
 Trahendo plures colores cum suis manibus,
 Quos alta terra sine semine emictit.
-
-**[Bottom Section - Latin Prose Commentary]**
 
 ego possim intelligere quod tu cantas, idest ut possim
 pervenire ad statum virtuosum.
@@ -108,4 +101,3 @@ nibus, quos alta terra, idest hortus delitiarum, qui est in
 alto et sublimi loco, sine semine proiicit, idest emictit, sive
 producit.
 —
-Digitized by Google

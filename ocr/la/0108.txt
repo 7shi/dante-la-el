@@ -1,6 +1,3 @@
-Here is the transcription of the text from the image:
-
-**Left Column (Italian)**
 54
 INFERNI
 
@@ -28,7 +25,6 @@ Com’io discerno per lo fiocho lume.
 
 (¹) quella. — (²) o.
 
-**Right Column (Latin)**
 INFERNI
 
 19 Et retro eum veniebat ita longa tracta
@@ -53,11 +49,10 @@ Quare ego dixi: Magister nunc michi concedas,
 Facit eas transeundi videri ita promptas,
 Prout ego discerno per obscurum lumen.
 
-**Bottom Commentary**
+Bottom Commentary
 
 Gran tracta: idest tam magna multitudo gentium: quod
 ego non credidissem: sive putassem tot esse mortuos.
----
 Isti ribaldi trahunt omnes ad unum signum: distin-
 ctio de ipsis nulla commode fieri potest. Alii autem spiritus
 damnati, licet fecerint mala multa, tamen fuerunt alterius
@@ -90,12 +85,10 @@ nuere papatum, etc. Sed ille, de quo loquitur auctor, fuit
 Esau, primogenitus Isahae, qui propter unam scutellam
 lentis renuit primogenituram, uti habetur GENESEOS.
 cap. [XXV].
----
 Subito intellexi et certus fui quod hec erat secta capti-
 vorum miserorum, displicentium Deo et amicis suis.
 alias amicis. Et a inimici soi, et inimicis suis. Nec boni.
 nec mali volunt talibus sotiari.
----
 Isti infelices, qui nunquam fuerunt vivi: idest, qui
 nihil notabile in vita, sive viventes, fecerunt, erant nudi et
 stimulati multum a musconibus et vespis, qui erant ibi.
@@ -113,6 +106,5 @@ tempore estivo molestat animalia; et cum nil
 aliquid tamen de ipsa dictum est ad exemplar
 aliquorum, qui forsan, propter hoc, auditis hiis, se aliqua-
 tenus emendabunt.
----
 E poie ch’a reguardar ultra mi diedi. Et postquam
 ultra perspexi: ista est quarta pars huius capituli, in qua

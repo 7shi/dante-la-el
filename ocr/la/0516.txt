@@ -1,44 +1,39 @@
-Here is the transcription of the provided text:
-
 462
 
-**Italian (left column):**
 ³¹ Restaro, e trasser sè indietro alquanto;
-    E tutti gl'altri che venian appresso,
-    Non sapendo 'l perchè, fenno altrettanto.
+E tutti gl'altri che venian appresso,
+Non sapendo 'l perchè, fenno altrettanto.
 ³² Senza vostra domanda io vi confesso,
-    Che quest'è corp' human che voi vedete,
-    Perchè 'l lume del sol in terra è fesso.
+Che quest'è corp' human che voi vedete,
+Perchè 'l lume del sol in terra è fesso.
 ³³ Non vi maravigliate; ma credete,
-    Che non senza virtù che dal ciel vegna,
-    Cerchi di soperchiar questa parete.
+Che non senza virtù che dal ciel vegna,
+Cerchi di soperchiar questa parete.
 ³⁴ Così 'l maestro. E quella gente degna:
-    Tornate, disse, intrate 'nnanzi dunque,
-    Co' dossi de le man facendo insegna.
+Tornate, disse, intrate 'nnanzi dunque,
+Co' dossi de le man facendo insegna.
 ³⁵ Et un di loro incominciò: Chiunque
-    Tu se', così andando, volgi 'l viso,
-    Pon mente se di là mi vedest'unque.
+Tu se', così andando, volgi 'l viso,
+Pon mente se di là mi vedest'unque.
 
-**Latin (right column):**
 PURGATORII
 
 ³¹ Restiterunt, et traxerunt se retro aliquantulum;
-    Et omnes alii qui veniebant prope,
-    Nesciéndo causam, fecerunt tantumdem.
+Et omnes alii qui veniebant prope,
+Nesciéndo causam, fecerunt tantumdem.
 ³² Sine vestra interrogatione ego vobis confiteor,
-    Quod istud est corpus humanum quod vos videtis,
-    Propter quod lumen solis in terra est fixum.
+Quod istud est corpus humanum quod vos videtis,
+Propter quod lumen solis in terra est fixum.
 ³³ Ne miremini; sed credatis,
-    Quod non sine virtute que a celo veniat,
-    Querit superare vestram parietem.
+Quod non sine virtute que a celo veniat,
+Querit superare vestram parietem.
 ³⁴ Sic magister. Et illa gens digna:
-    Redeatis, dixit, intretis ante igitur,
-    Cum dorsis manuum faciendo nobis signum.
+Redeatis, dixit, intretis ante igitur,
+Cum dorsis manuum faciendo nobis signum.
 ³⁵ Et unus de ipsis incepit: Quicumque
-    Tu es, sic eundo, volve visum,
-    Pone mentem, si illinc me vidisti unquam.
+Tu es, sic eundo, volve visum,
+Pone mentem, si illinc me vidisti unquam.
 
-**Latin Commentary (bottom section, left column then right column):**
 umbra mei erat apud griptam, steterunt et traxerunt se
 retro aliquantulum, et omnes alii, qui venibant prope, ne-
 sciendo causam, fecerunt tantumdem, idest fecerunt, sicut

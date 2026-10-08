@@ -1,6 +1,3 @@
-Here is the transcription of the provided image:
-
-**Left Column (Italian Poem):**
 CAPITULUM QUINTUM
 16 Quest' ultima già mai non si cancella,
 Se non servata, et intorno di lei
@@ -24,7 +21,6 @@ Satisfar non si può con altra spesa.
 Siate fedeli, et a ciò far non bieci,
 Come fe' Yepte a la suo'prima mancia;
 
-**Right Column (Latin Poem):**
 875
 CAPITULUM QUINTUM
 16 Ista ultima nunquam cancellatur,
@@ -49,7 +45,6 @@ Satisfieri non potest cum alia expensa.
 Sitis fideles, ad hoc faciendum, non bieci,
 Sicut Iopte ad suam primam manciam;
 
-**Left Column (Latin Commentary):**
 Ista ultima, obligatio sive convenientia scilicet, nunquam
 cancellatur, idest dissolvitur (quia nunquam remittitur,
 nisi illud, quod promisisti, perficiatur; materia tamen voti
@@ -78,7 +73,6 @@ tionem; ideo necessarium fuit Hebreis solum offerre,
 quam ista oblatio permutaretur, sicut scire debes, scilicet
 tu Dantes, qui es theologus, et qui studuisti bene Bibliam.
 
-**Right Column (Latin Commentary):**
 Alia pars voti scilicet, que propter materiam, idest pro
 materia, tibi est aperta, potest bene esse talis, quod non
 fallitur, esto quod in aliam materiam commutetur, vel con-

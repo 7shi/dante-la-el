@@ -1,5 +1,3 @@
-**Left Column (Italian):**
-
 40 Ma guarda fisso là, e disvitic[c]hia
 Col viso quel che vien sotto quei sassi:
 Già scorger puoi come ciascun si pichia.
@@ -22,8 +20,6 @@ Vidd'io color, quando posi ben cura.
 Secondo ch'avien più e men adosso.
 E qual più patientia havea negl'acti,
 Piangendo parea dicer: Più non posso.
-
-**Right Column (Latin Verse):**
 
 CAPITULUM DECIMUM
 541
@@ -49,8 +45,6 @@ Vidi illos, quando posui bene curam.
 Secundum quod habebant plus et minus in dorso.
 Et ille qui maiorem patientiam habebat in actibus,
 Plangendo apparebat dicere: Plus non possum.
-
-**Latin Commentary:**
 
 inclinat. ita quod mei oculi, scilicet, quod prius, habuerunt
 quaestionem, scilicet in se (verba sunt Virgilii), quia du-

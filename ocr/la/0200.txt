@@ -1,13 +1,10 @@
-Here is the transcription of the Latin text from the image, including the main text columns and the commentary column. The numbers correspond to the line numbers in the original poem.
+146
 
-**Page 146**
-
-**Left Column (Italian Original)**
 3 D'un grande avello, ov'io vidi una scritta
 Che diceva: Anastasio papa guardo,
 Lo qual trasse Fotin della via dritta.
 4 Lo nostro scender convien esser tardo,
-Sicchè s'ausi pria um poco el senso
+Sicchè s'ausi pria un poco el senso
 Al tristo fiato, e poi non fie riguardo.
 5 Così (¹) 'l maestro. Et io (²): Alcun compenso,
 Diss'io lui, trova che 'l tempo non passi
@@ -25,7 +22,6 @@ O con forza o con frode altrui contrista.
 Più spiace a Dio; e però stan di sucto
 Li frodolenti, e più dolor gl'assale.
 
-**Right Column (Latin Translation/Paraphrase)**
 3 Unius grandis sepulture, ubi ego vidi unam scri-
 pturam
 Que dicebat: Anastasium papam custodio,
@@ -49,12 +45,8 @@ Vel cum vi vel cum fraude alios facit tristes.
 Plus displicet Deo; et ideo stant inferius
 Fraudulenti, et maior dolor eos aggreditur.
 
----
-**Footnotes for Main Text Columns:**
 (¹) disse a me. — (²) dissi a lui. — (³) Vedi ch'a ciò penso. — (⁴) al. pur. — (⁵) pecchato. — (⁶) di Dio contra e peccatori. — (⁷) e el fine.
 
----
-**Commentary Column (Latin)**
 Quem extraxit Fotinus de via recta: Fotinus fuit gre-
 cus, de civitate Thessalonica, ad cuius civitatis cives scripsit
 Apostolus Paulus epistolam, que intitulatur ad Thessalo-
@@ -71,7 +63,6 @@ rum, qui cepit Romam tempore Boetii honorabilis.
 Fetor erat hic: procedebat de valle illa, idest de Inferno,
 in quo sunt stercora plurima. Erat pix bulliens: erant
 serpentes putridi.
-___
 Figliuolo meo. Fili mi: ista est secunda pars, in qua
 auctor facit distinctionem; que distinctio fuit necessaria,
 quia aliter materia remanebat valde confusa. Dicit igitur:
@@ -82,7 +73,6 @@ continent in se multos circulos. Dicit diminutive
 propter ordinem rythmorū.
 De gradu in gradum: idest unus continetur, et unus
 est sub alio.
-___
 Tutti: idest omnes, sunt pleni spiritibus maledictis.
 Sed ut postea tibi sufficiat solum visio, idest videre,
 intende quomodo et quare sunt constricti: et incipit a
@@ -93,7 +83,6 @@ iniuria, ingiuria: idest facit iniuriam fini; et omnis
 finis talis, aut violenter, vel fraudulenter, alium contristat,
 aut acquirit, scilicet facit hominem odiosum penes Deum;
 per violentiam, vel per fraudem.
-___
 Sed quia fraus est malum proprium hominis, plus di-
 splicet Deo, et ideo stant inferius fraudulenti, et
 maius dolor eos aggreditur. Violentia est triplex, idest fit.

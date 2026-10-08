@@ -1,8 +1,4 @@
-Here is the transcription of the Latin text from the image:
-
-**Left Column (Italian Poem with footnotes):**
 66
------
 21 Et altri assai (¹) ; e feceli beati:
 Ma vo'che sappi che, dinanzi ad essi,
 Spiriti umani non eran salvati.
@@ -21,7 +17,6 @@ Che dal modo degl'altri li diparte?
 
 (¹) al. molti. — (²) al. c'han cotanta.
 
-**Right Column (Latin Translation/Commentary):**
 INFERNI
 
 21 Et alios multos ; et fecit eos beatos:
@@ -40,7 +35,7 @@ Quod honorabilem gentem possidebat ille locus.
 Isti qui sunt, qui habent tantam honorabilitatem,
 Que a modo aliorum illos dividit?
 
-**Left Bottom Commentary (Latin Prose):**
+Left Bottom Commentary (Latin Prose):
 Dan et Neptalim: isti fuerunt nati. idest filii sui Israel,
 sive Iacob.
 Sed in textu habetur: Per cui tanto fe'. Per quam
@@ -75,11 +70,10 @@ dies pauci. pro amore quo diligebat Rachelem. Ita quod
 pro Rachele servivit quatuordecim annis; et ideo dicit:
 Cum Rachele, pro qua tantum fecit: idest tandiu servivit.
 
-—
 Et alios multos, et fecit beates; et volo quod scias quo-
 modo ante istos nullus spiritus humanus fuerat salvatus.
 
-**Right Bottom Commentary (Latin Prose):**
+Right Bottom Commentary (Latin Prose):
 Non dimictebamus iter: hec est quarta
 pars huius capituli, in qua auctor describit hospitium sa-
 pientie, et cum quatuor magnis poetis intrat in ipsum
@@ -92,12 +86,10 @@ silvam continuo. Et declarans se de ea silva loqueretur,
 dicit: Ista est silva spissa, non arboribus, sed compresso-
 rum spirituum.
 
-—
 Non erat longa nostra via a sompno: idest, post
 quam sopitus intraveram Infernum dormiendo: idest. post so-
 pitum me excitavit. Due littere. vel duplex littera re-
 
-—
 Quando ego vidi unum ignem: idest, unam facem lucidam,
 qui emispitirium tenebrarum vincebat. Hec fax, sive iste
 ignis. est celeberrima fama istorum sapientum et illustrium
@@ -108,7 +100,6 @@ infra se habet: idest totum spatium, quod est supra
 terram. Vincebat: quia virtus et fama istorum vincit emi-
 spitirium tenebrarum. idest ignorantie, sive ignorantiam.
 
-—
 A longe adhuc eramus modicum: sed nec sic, quin
 bene discernerem, quod honorabilior gens erat in illo loco.
 O tu, qui honoras scientiam et artes: s.ilicet. tu. Virgili.
@@ -120,5 +111,3 @@ sunt in lumine modo predicto.
 Isti qui sunt, qui tantum honorantur, quos a modo
 et moribus illorum distinguis? Sic facit in sexto Eneydos.
 qui viros illustres et sapientes posuit in campis Elysis.
-
-Digitized by Google

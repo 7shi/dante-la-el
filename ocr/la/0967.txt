@@ -1,6 +1,5 @@
 CAPITULUM OCTAVUM
 
-**Left Column (Italian):**
 25 Se mala signoria, che sempre accora
     Li populi subtecti, non havesse
     Mosso Palermo (¹) a gridar: Mora, mora.
@@ -21,7 +20,6 @@ CAPITULUM OCTAVUM
     Perchè 'l discerni rimirando in Dio.
 (¹), città di Sicilia.
 
-**Right Column (Latin):**
 913
 25 Si malum dominium, quod semper accorat
     Populos subiectos, non commovisset
@@ -42,11 +40,6 @@ CAPITULUM OCTAVUM
     Et hoc gratum est michi plus, et etiam istud carum,
     Ad hoc ut ego discernam, respiciendo in Deum.
 
----
-
-**Commentary (below main text):**
-
-**Left Column:**
 Omnes iste partes et regiones, scilicet provincia Provin-
 tie, regnum Ungarie, regnum Cicilie, regnum insule Cicilie,
 expectassent me, et reges descendentes a me, pro regibus
@@ -57,7 +50,6 @@ per accorat, idest corda accendit vel inflammat, populos
 subiectos, non commovisset Palermum, bonam civitatem in
 insula Cicilie, ad clamandum, scilicet contra Karolu
 mum avum istius: Moriatur, moriatur.
----
 Et si meus, scilicet rex Rubertus, frater carnalis, hoc
 actenderet, avaram paupertatem Cathalonie iam fugeret,
 id est expelleret a se aliquos suos officiales de Cathalonia,
@@ -70,16 +62,13 @@ suo regno (quia sicut nauta regit barcam, idest naviculam,
 sic rex regit regnum suum), onerate, idest aggravate, col-
 lectis et gravaminibus, pluris oneris non imponatur, idest,
 non tantum, nedum plus, regnum aggravetur.
----
 Sua natura, idest fratris mei regis Ruberti, qui de larga
 parca, idest avara, idest de largo patri et liberali, Karolo
 scilicet Ciocto, patre meo, parca, idest avara, descendit,
 idest genita fuit, haberet necesse de tali militia, idest de
 tali milite vel rege, que, scilicet militia, non curaret, non
 vellet, mictere in archa, idest reponere in bursia.
----
 
-**Right Column:**
 Perch'io dissi: Io credo. Ex quo ego dixi: Ego credo:
 hec est tertia pars huius capituli, in qua auctor movet
 unam questionem ipsi anime, scilicet Karoli Martello,

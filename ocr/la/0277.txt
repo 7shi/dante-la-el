@@ -1,10 +1,6 @@
-Here is the transcription of the Latin text from the image:
-
-**Top of the page:**
 CAPITULUM DECIMURSEPTIMUM
 223
 
-**Main Text (Right Column):**
 27 Nec quando Icarus miser renes
 Sensit spennari propter calidam ceram,
 Clamante patre ad eum: Malam viam tenes;
@@ -15,11 +11,6 @@ Omnem visionem, excepta illius fere.
 Rotat et descendit, sed non perpendo,
 Nisi a visu, et deorsum me raventat.
 
----
-
-**Commentary Section (Two Columns):**
-
-**Left Column:**
 Tandem Iupiter, pietate motus, propter orationes Terre, ac-
 cepit unum fulgurem, et fulminavit Phetonthem, et interfecit
 eum: qui de celo cecidit mortuus in fluvium Padi, circa
@@ -64,7 +55,6 @@ sunt penne; et ale, sive remigium alarum, evanuerunt; et
 cecidit Icarus in mari, et, sufocatus, mortuus [est]. Unde
 ex tunc, illud mare vocatum est mare Icarum. Dedalus
 
-**Right Column:**
 vero, fugiens Mynoa regna, applicuit ad antrum Sibille
 prope Neapolim per decem milliaria, et ibi fecit illos la-
 bores, sive laboreria, de quibus loquitur Virgilius in prin-

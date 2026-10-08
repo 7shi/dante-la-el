@@ -1,14 +1,6 @@
-The requested text from the image is transcribed below.
-
-**Page Header:**
 CAPITULUM TERTIUMDECIMUM
 979
 
----
-
-**Main Text Block:**
-
-**Left Column (Italian):**
 37 Con questa distinctione prend'el mio decto,
 E così puote star con quel che credi
 Del primo padre (1), e del nostro Dilecto (2).
@@ -30,7 +22,6 @@ E quali andavan e no sapean dove.
 
 (1) Adam — (2) Chrysto
 
-**Right Column (Latin):**
 37 Cum ista distinctione apprehende dictum meum,
 Et sic potest stare cum illo quod credis
 De patre nostro, et nostro Dilecto.
@@ -50,11 +41,6 @@ Qui piscatur pro vero et non habet artem.
 Parmenides, Mellisius, et Brissius et multi
 Qui ibant et nesciebant quomodo ibant.
 
----
-
-**Commentary Section:**
-
-**Left Commentary Column:**
 Unde, si id quod dixi, scilicet quod dixi superius, quando
 dixi, Non surrexit secundus, et istud, idest quod modo dico,
 notes, regalis prudentie est et illud videre addiscas, in
@@ -88,7 +74,6 @@ tum, dum blada sunt adhuc in herba; nam sepe sic fallitur.
 Sunt nempe aliqui arbores, que tota yeme ostendunt se vi-
 rides, et in hestate desiccantur, et albefiunt in summita-
 
-**Right Commentary Column:**
 tibus. Et alique naves prospere maria transirent, et tamen
 dum intrant fauces fluviorum, venientes ad portum, pereunt
 et submerguntur. Ideo nec est faciliter iudicandum de sa-

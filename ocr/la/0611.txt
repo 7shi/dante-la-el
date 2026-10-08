@@ -1,6 +1,6 @@
 CAPITULUM DUODECIMUM
 
-**557**
+557
 
 Io m'era mosso, e seguia volentieri
 Del mio maestro e passi, et amendue
@@ -40,10 +40,8 @@ Quantum per viam foris montem super est.
 Plusquam alia creatura, sursum de celo ad inf[e]ra
 Fulgurando descendere ab uno latere.
 
----
 (¹) sculpto e scripto. — (²) ymago cum litteris hic est, etc. — (³) in illo loco. — (⁴) piatosi. — (⁵) stimulando eos ad fletum. — (⁶) in illo pavimento. — (⁷) Lucifero. — (⁸) al. cascar.
 
----
 auctor loquitur hic more Aristotelis, qui dicit, quod ratio
 est pedagogus passionis, ita quod ratio est talis in refre-
 nando passiones et sensus, qualis est pedagogus refrenans

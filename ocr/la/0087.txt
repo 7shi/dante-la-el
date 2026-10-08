@@ -1,5 +1,3 @@
-**Page 33 - Left Column (Italian):**
-
 ^(28) O degl'altri poeti honore e lume,
 Vaglami 'l lungo studio e 'l grande amore,
 Che fatto m'ha cercar el tuo volume.
@@ -22,8 +20,6 @@ E doppo 'l pasto ha più fame che pria.
 E più saranno ancor, infin che 'l Veltro
 Verrà, che la farà morir con doglia.
 
-**Page 33 - Right Column (Latin):**
-
 ^(28) O aliorum poetarum honor et lumen,
 Valeat michi longum studium et magnus amor,
 Qui fecit me querere tuum volumen.
@@ -45,8 +41,6 @@ Et post pastum plus famescit quam prius.
 ^(34) Multa sunt animalia quibus uxoratur,
 Et plura erunt adhuc, quousque Velter
 Veniet, qui eam faciet mori cum dolore.
-
-**Commentary - Left Column:**
 
 Cum reverecunda fronte: quasi dicat Dantes: Tu fuisti
 ita excellens, quod prope te verecundor stare, sicut vilis
@@ -79,8 +73,6 @@ respondet Virgilius, idest ratio, Danti: Aliud iter te.
 Quasi dicens: Tu reverteris ad vallem, idest ad viam vir-
 tuosam; hoc iter non est bonum ad evadendum bestiam;
 
-**Commentary - Right Column:**
-
 sed oportet te ire super montem, idest per viam virtuosam.
 si liberari cupis; etc.
 
@@ -112,5 +104,3 @@ homines fiunt avari, quousque venerit veltrus, idest canis.
 qui eam faciet mori cum dolore.
 
 5
-
-Digitized by Google

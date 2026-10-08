@@ -1,12 +1,4 @@
-The image contains a page from a book, likely an old edition, with two columns of text. The left column is in an older form of Italian, and the right column is in Latin. Both columns seem to be a translation/commentary of a poetic text (possibly Dante's Purgatorio, given the header). Footnotes are shared for both poetic texts. Below the main text, there is prose commentary, also split into two columns (Italian on the left, Latin on the right).
-
-Here is the transcription:
-
-**Page Header:** PURGATORII
-
----
-
-**Left Column (Italian Poetic Text):**
+PURGATORII
 
 622
 
@@ -32,13 +24,8 @@ Dall'odio proprio son le cose tute (⁸):
 E per sè stante, alcun esser dal primo (⁹),
 Da quel (¹⁰) odiar ogni affecto è deciso.
 
-**Footnotes (shared for both columns):**
 (¹) o — (²) libero — (³) al. e tu 'l sai — (⁴) quia nimis vel parum diligit quod diligere debet — (⁵) debba — (⁶) adopera —
 (⁷) peccato — (⁸) sicure — (⁹) naturale, idest a Deo — (¹⁰) Dio; quia nemo potest odire seipsum, ergo nec Deum a quo habet esse.
-
----
-
-**Right Column (Latin Poetic Text):**
 
 PURGATORII
 
@@ -63,10 +50,6 @@ Ab odio proprio res sunt tute:
 ³⁷ Sed quia intelligi non potest divisum
 Et per se stans aliquid esse a primo,
 Ab illo odire omnis effectus est decisus.
-
----
-
-**Bottom Left Column (Italian Commentary):**
 
 dirigitur ad malum, scilicet obiectum, vel quando cum
 maiori vel minori quam debeat, currit in bonum, contra
@@ -96,10 +79,6 @@ poralia bona amantur plus vel minus quam mercantur.
 Dum est in prima bona directus, id est in summum bo-
 num, sive Deum, et in secunda bona, idest res temporales,
 seipsum mensurat, esse non potest causa male delecta-
-
----
-
-**Bottom Right Column (Latin Commentary):**
 
 tionis; sed quando ad malum, idest obiectum quod non
 est bona res, torquetur, idest non ratione vadit, vel cum

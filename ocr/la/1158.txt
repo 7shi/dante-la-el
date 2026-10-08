@@ -1,7 +1,3 @@
-Here is the transcription of the provided image:
-
-**Left Column (Italian Text)**
-
 1104
 
 ³⁴ Et io: (¹) La prova, che 'l ver mi dischiude,
@@ -25,8 +21,6 @@ Che all'ultime fronde appressavamo,
 
 (¹) risposi — (²) e miracoli — (³) a le quali opere — (⁴) dicas — (⁵) facte e vere — (⁶) te Deum laudamus.
 
-**Right Column (Latin Text)**
-
 PARADISI
 
 ³⁴ Et ego. Probatio, que michi verum dissolvit,
@@ -47,8 +41,6 @@ In melodia que ibi superius laudatur.
 ³⁹ Et ille Baro, qui sic de ramo in ramum,
 Examinando, iam traxerat me,
 Quod ultimis frondibus appropinquabamus,
-
-**Additional Latin Commentary (Bottom Right)**
 
 Et ego, scilicet, dixi: Probatio, que michi verum dissolvit,
 idest discooperit, sunt opera sequuta, ad que natura non
@@ -115,5 +107,3 @@ laudatur.
 
 Et ille Baro, qui sic de ramo in ramum, idest de passu
 in passum, sive de parte in partem, examinando. iam
-
-Digitized by Google

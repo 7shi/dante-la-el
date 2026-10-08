@@ -1,6 +1,3 @@
-Here is the transcription of the Latin text from the image:
-
-**Right Column (Latin):**
 PARADISI
 ⁹ Nunc tibi apparebit, si hinc arguis,
 Altum valorem voti esse talem,
@@ -25,7 +22,6 @@ Sine retentione intellexisse.
 Istius sacrificii: una est illa
 De qua fit, alia est convenientia.
 
-**Bottom Latin Commentary:**
 observandum nec implendum; sicut [si] quis voveret Deo
 commictere adulterium, vel homicidium, vel furtum, si libe-
 raret eum ab infirmitate, etc., quia in malis promissis fides

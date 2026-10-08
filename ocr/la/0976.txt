@@ -1,10 +1,6 @@
-Here is the transcription of the Latin text from the image:
-
-**Page Number and Title:**
 922
 PARADISI
 
-**Latin Poetry Column (Right Column):**
 8 Unde lux que erat adhuc michi nova,
 De suo profundo, unde ipsa prius cantabat,
 Sequuta est, sicut ille cui benefacere prodest:
@@ -27,9 +23,6 @@ Grandis fama remansit, et, priusquam moriatur,
 Videas si homo fieri debet excellens,
 Ita quod aliam vitam prima relinquat!
 
-**Latin Commentary Section (Below the Poetry):**
-
-**Left Commentary Column:**
 Unde lux, que erat adhuc michi nova (quia nondum erat
 adhuc sibi nota), de suo profundo, unde ipsa prius canta-
 bat, sequuta est sic, scilicet loquendo. Sicut ille, cui bene
@@ -60,7 +53,6 @@ homo, tyrannus pessimus; fuit magnus in Marchia Tervi-
 sina, fuit dominus Tervisi, Padue, Mantue, Brixie; et ausus
 fuit velle dominare in Mediolano, et ivit ut intraret domi-
 
-**Right Commentary Column:**
 nium: non potuit obtinere; sed rediens, captus fuit et tru-
 cidatus viliter. Iste fuit maximus homicida, effusor sangui-
 nis: pluusquam quinquaginta millia hominum interfecit; in

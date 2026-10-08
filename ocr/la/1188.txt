@@ -1,48 +1,39 @@
-Here is the transcription of the Latin text from the provided image:
-
-**Page Number:**
 1134
 
-**Title:**
+Title:
 PARADISI
 
-**Main Text (Latin Poem):**
-
 10 De illo colore, quo, propter solem adversum,
-    Nubes depinguntur de sero et de mane,
-    Vidi ego tunc totum celum conspersum:
+Nubes depinguntur de sero et de mane,
+Vidi ego tunc totum celum conspersum:
 
 11 Et sicut domina honesta, que permanet
-    De se secura, et propter alterius defectum,
-    Solum auscultando, timida efficitur;
+De se secura, et propter alterius defectum,
+Solum auscultando, timida efficitur;
 
 12 Sic Beatrix transmutavit similitudinem,
-    Et talis eclipsis credo quod in celo fuit,
-    Quando passa fuit suprema Potentia.
+Et talis eclipsis credo quod in celo fuit,
+Quando passa fuit suprema Potentia.
 
 13 Postea processerunt verba sua
-    Cum voce a se tantum transmutata,
-    Quod in apparentia non mutavit se plus:
+Cum voce a se tantum transmutata,
+Quod in apparentia non mutavit se plus:
 
 14 Non fuit sponsa Christi educata
-    De sanguine Lini, illius Cleti,
-    Ut illa esset ad acquisitionem auri usitata;
+De sanguine Lini, illius Cleti,
+Ut illa esset ad acquisitionem auri usitata;
 
 15 Sed propter acquisitum istius vivere leti
-    Et Sixtus et Pius, Calixtus et Urbanus
-    Sparserunt sanguinem post multum fletum.
+Et Sixtus et Pius, Calixtus et Urbanus
+Sparserunt sanguinem post multum fletum.
 
 16 Non fuit nostra intentio, quod ad dexteram manum
-    Nostrorum successorum pars sederet,
-    Pars ad aliam, populi christiani;
-
-**Commentary (Below Main Text):**
+Nostrorum successorum pars sederet,
+Pars ad aliam, populi christiani;
 
 Petri est Vaeticanum. Vaeticanum est quasi quinta pars
 navis Ecclesie Sancti Petri in Roma, ubi sunt sepulture
 plurium summorum Pontificum.
-
-**Left Column of Commentary:**
 
 Nota quod sepe, oriente sole de mane et occidente de
 sero, propter vapores grossos, qui interponuntur inter vi-
@@ -69,8 +60,6 @@ celum conspersum. Hic auctor fingit, omnes illos spiritus
 fuisse effectos rubeos.
 
 Nunc depingit transcolorationem Beatricis per compa-
-
-**Right Column of Commentary:**
 
 rationem unius domine, que in se bona est, tamen vere-
 tur de defectibus aliarum malarum mulierum. Et

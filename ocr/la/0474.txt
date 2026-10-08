@@ -1,7 +1,6 @@
-**Page 420**
-**INFERNI**
+420
+INFERNI
 
-**[Left Column - Italian Poem]**
 ⁴⁵ Lo duca et io per quel cammino ascoso
 Entrammo a ritornar nel chiaro mondo:
 E senza cura haver d'alcun riposo
@@ -10,7 +9,6 @@ Tanto ch'io vidi delle cose belle
 Che porta 'l ciel, per un pertuso tondo,
 E quindi escimmo a riveder le stelle.
 
-**[Right Column - Latin Poem]**
 ⁴⁵ Dux et ego per illud iter absconsum
 Intravimus ad redeundum in clarum mundum:
 Et sine cura habendi aliquam quietem
@@ -19,7 +17,6 @@ Tantum quod ego vidi de rebus pulchris
 Quas portat celum, per unum foramen rotundum,
 Et hac exivimus ad revidendum stellas.
 
-**[Left Column - Prose Text]**
 Dux et ego per illud iter absconsum, quia nullum est ibi
 lumen, intravimus ad redeundum in clarum mundum; et
 sine cura habendi aliquam quietem (nam semper cum la-
@@ -33,7 +30,6 @@ dum celum volvitur, volvuntur simul et stelle in eo fixe;
 per unum foramen rotundum, idest per quod ultimo exi-
 verunt.
 
-**[Right Column - Prose Text]**
 quousque fuerunt extra, et pervenerunt ad superficiem al-
 terius terre alterius emispirii.
 Nota quod sicut opposite sunt vie ad diversos et oppo-
@@ -54,14 +50,12 @@ libro. Amen, Amen, Amen.
 Explicit ultimum capitulum, idest tricesimumquartum.
 huius Inferni.
 
-**[Left Column - Bottom Prose Text]**
 Et quinde, idest inde, exivimus ad revidendum stellas.
 Factis responsionibus a Virgilio ipsi Danti super duabus
 questionibus, de quibus Dantes petierat a Virgilio, ipsi
 ambulaverunt per illud foramen, volendo exire de illa
 obscuritate, sine aliqua quiete; idest nullibi quieverunt,
 
-**[Bottom Latin Text Block]**
 Qui scripsit scribat (¹), semper cum lumine vivat (²):
 Vivat et hic felix cum multo tempore fenx:
 Hinc videat Chrystum qui librum scripserit istum.

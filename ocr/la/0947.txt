@@ -1,14 +1,7 @@
-Here is the transcription of the text from the image:
-
-**Page Number:**
 893
 
-**Chapter Title:**
 CAPITULUM SEXTUM
 
----
-
-**Left Column (Italian):**
 45 Quattro figl'ebbe, e ciascuna regina,
 Ramondo Berlingher, e ciò li fece
 Romeo persona humil et peregrina.
@@ -20,7 +13,6 @@ E se 'l mondo sapesse 'l cuor ch'egli ebbe
 Mendicando suo'vita a frusto a frusto,
 Assai lo loda e più lo loderebbe.
 
-**Right Column (Latin):**
 45 Quatuor filias habuit, et quamlibet reginam,
 Raymundus Beringerius, et hoc sibi fecit
 Romeus, persona humilis et peregrina.
@@ -32,9 +24,6 @@ Et si mundus sciret cor quod ipse habuit,
 Mendicando suam vitam ad frustum ad frustum,
 Satis eum laudat et plus eum laudaret.
 
----
-
-**Lower Text Block (Latin Commentary):**
 Quatuor filias habuit, et quamlibet reginam, Raymundus
 Beringerius, et hoc sibi fecit Romeus, persona humilis et
 peregrina. Et postmodum movebant illum, scilicet comitem

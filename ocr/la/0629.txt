@@ -1,8 +1,5 @@
-**CAPITULUM TERTIUMDECIMUM**
+CAPITULUM TERTIUMDECIMUM
 
-**Main Text**
-
-**Italian (Left Column)**
 (Gl’occhi, diss’io, mi fieno ancor qui tolti (¹)
 Ma piccol tempo, chè poca è l’offesa (²)
 Facta (³) per esser con invidia volti (⁴).
@@ -27,7 +24,6 @@ Che spera in Thelamone (¹⁶), e perderalli
 Più di speranza, ch’a trovar Dyana;
 Ma più vi perderanno gl’amıniralli (¹⁷).
 
-**Latin (Right Column)**
 45 Oculi, diri ego, erunt michi adhuc hic sublati;
 Sed pauco tempore, quia pauca est offensa
 Facta ut essent cum invidia conversi.
@@ -52,14 +48,10 @@ Que sperat in Thalamone, et perdet ibi
 Plus spei, quam ad reperiendum Dyanam;
 Sed plus ibi amictent admiralii.
 
-**Footnotes / Commentary**
-
-**Mixed Italian and Latin (Left Column)**
 (¹) cuceliti come a voi. — (²) mia della invidia. — (³) da me. — (⁴) contra il proximo. — (⁵) de la superbia. — (⁶) de’ sassi. —
 (⁷) benchè non lo porti ancora. — (⁸) invidiosi. — (⁹) tra'superbi. — (¹⁰) a purgarti. — (¹¹) ne posi. — (¹²) m’à condocto quassù. —
 (¹³) postula a me. — (¹⁴) desideri. — (¹⁵) di Sanesi. — (¹⁶) porto di mare. — (¹⁷) del porto. qui ibi morientur.
 
-**Latin (Right Column)**
 Et auctor confitetur peccata sua, ut det exemplum aliis,
 dicens: Post mortem meam veniam ad Purgatorium et
 purgabot: sed parum stabo hic, idest in isto circulo, quia

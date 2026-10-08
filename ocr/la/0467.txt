@@ -1,10 +1,7 @@
-Here is the transcription of the text from the image:
-
-**413**
+413
 
 CAPITULUM TRICESIMUMQUARTUM
 
-**[Italian Poem - Left Column]**
 4 Già era (e con paura el mecto in metro) (¹)
 Lá dove l'ombre tuct'eran coperte (²),
 E trasparean (³) come festuca in vetro.
@@ -27,7 +24,6 @@ Qual io divenni, d'uno e d'altro privo (¹⁹).
 Da mezzo 'l pecto uscia fuor de la ghiaccia;
 E più (²⁰) con un gigante io (²¹) mi convengo (²²),
 
-**[Latin Commentary/Translation - Right Column]**
 4 Iam eram (et cum timore id pono in metro)
 Ubi umbre erant omnes coo-
 perte, et transparebant sicut festuca in vitro.
@@ -49,12 +45,9 @@ Qualis ego deveni, uno et alio privatus.
 A medio pectore exibat extra glaciem;
 Et plus cum uno gigante ego me convenio,
 
-**[Italian Footnotes - Left Column, below main text]**
 (¹) rima. — (²) ne la ghiaccia. — (³) in quella ghiaccia. — (⁴) ombre. — (⁵) ne la ghiaccia. — (⁶) levate. — (⁷) sta erta. — (⁸) altra. —
 (⁹) sta erta. — (¹⁰) piegata. — (¹¹) al al viso. — (¹²) rivolta. — (¹³) Virgilio. — (¹⁴) Lucifero. — (¹⁵) già. — (¹⁶) similitudine di Dio. —
 (¹⁷) o. — (¹⁸) a descriverlo. — (¹⁹) de la morte e de la vita privato. — (²⁰) che lui. — (²¹) Dante. — (²²) m'assomiglio.
-
-**[Latin Commentary - Right Column, continuous explanations]**
 
 Cum timore, idest cum timore (parentesis est). Idest ille
 erant tecte sub glacie et diversimode: alique iacebant;
@@ -91,7 +84,6 @@ Christus in Evangelio vocat eum principem mundi: venit
 enim princeps mundi huius: quia pro magna parte mali
 homines sunt subiecti sibi, quia qui fecit peccatum servus
 
-**[Italian Commentary - Left Column, separate section below footnotes]**
 Quando noi fummo. Quando nos fuimus: hec est se-
 cunda pars huius capituli, in qua describitur rex et domi-
 nus Inferni. Hic est Lucifer. Iste fuit, secundum opinionem

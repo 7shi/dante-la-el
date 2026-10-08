@@ -1,4 +1,3 @@
-**Main Text (Left Column):**
 21 Piangevis' entro l'arte, perch'è morta
 E Deidamya ancor si duol d'Achille,
 E del Palladio pena vi si porta.
@@ -17,7 +16,6 @@ Perch'e fur Greci, forse del tuo decto.
 
 (¹) o. — (²) aspectar. — (³) negatione. — (⁴) taccia. — (⁵) schifi.
 
-**Main Text (Right Column):**
 CAPITULUM VICESIMUMSEXTVM
 21 Plangitur ibidem ars, ex qua mortua
 Diademia adhuc dolet de Achille,
@@ -35,7 +33,6 @@ Sed fac quod tua lingua se abstineat.
 Id quod tu vis: quia ipsi essent schivi,
 Quoniam fuerunt Greci, forte de tuo dictu.
 
-**Commentary Section (Left Column):**
 Nota quod tempore Ilii, quinti regis Troye, cecidit de
 celo una ymago super arcem Palladis; qua reperta, Tro-
 yani voluerunt scire quid hec ymago significaret; et con-
@@ -74,7 +71,6 @@ gionibus, et galea, et hiis que spectant ad virum, ille esset
 Achilles. Tunc Ulixes finxit se mercatorem et portabat
 mercantias ad vendendum; et portabat iocalia pertinentia
 
-**Commentary Section (Right Column):**
 ad viros, et ad mulieres etiam. Sic pro mulieribus bran-
 sias, serta aliqua, instrumenta ad filandum, etc.; enses,
 lanceas, et huiusmodi, pro viris. Et perveniens ad Aschiru.

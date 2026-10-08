@@ -1,13 +1,7 @@
-The following is the transcription of the Latin text from the image, along with the Italian poetic text for context, as it appears in the original image.
+883
 
-**Page Number:** 883
-
-**Title:**
 CAPITULUM SEXTUM
 
----
-
-**Poetic Text (Left Column - Italian):**
 4 Cesare fui, e son Iustiniano,
 Che, per voler del primo amor ch'io sento,
 D'entro le leggi trassi el troppo e'l vano:
@@ -18,7 +12,6 @@ Credeva, e di tal fede era contento;
 Sommo pastore, a la fede sincera
 Mi dirizzò co'le parole sue.
 
-**Poetic Text (Right Column - Latin):**
 4 Cesar fui, et sum Iustinianus,
 Qui, propter velle de divino amore quem sentio,
 Ex legibus traxi nimium et vanum:
@@ -29,9 +22,6 @@ Credebam, et de tali fide eram contentus;
 Summus pastor, ad fidem sinceram
 Me direxit cum verbis suis.
 
----
-
-**Prose Text (Left Column):**
 occidente in orientem. Et tunc itur contra cursum solis,
 cum cursus solis ab oriente in occidentem semper sit. Tunc
 ad textum.
@@ -63,7 +53,6 @@ et sic cambiando de persona in personam, super mea, scil-
 licet manu, pervenit, idest ego fui factus Imperator, et
 aquila venit ad manus meas.
 
-**Prose Text (Right Column):**
 Imperatores romani fuerunt Christiani. Verum est quod
 Iulianus apostatavit. Aquila dicitur avis Dei, quia fuit, se-
 cundum poetas, consecrata Iovi. Iuppiter est planeta ma-
@@ -84,7 +73,6 @@ nature, scilicet divina et humana; qui audiens informationem
 Pape Agapiti, conversus est, et recte ac fideliter credidit,
 sicut credere tenebatur.
 
-**Prose Text (Left Column - Continued):**
 Cesar fui, Imperator scilicet, et sum Iustinianus, qui,
 propter velle de divino amore quem sentio, ex legibus
 traxi nimium et vanum. Vere iste Iustinianus fuit ita
@@ -100,7 +88,6 @@ stantinum Imperatorem fuerunt triginta sex Imperatores,
 quorum nullus fuit Christianus nisi Philippus, quem De-
 cius interfecit Verone. A Iustiniano vero usque nunc, omnes
 
-**Prose Text (Right Column - Continued):**
 Florentiam composuit hoc opus tam
 notandum est, quod, ut hic dicit auctor,
 cum signo aquile, ex quo cum Enea venit
@@ -130,7 +117,7 @@ modo in Christo sint due nature, scilicet divina et humana;
 qui audiens informationem Pape Agapiti, conversus est, et
 recte ac fideliter credidit, sicut credere tenebatur.
 
-**Final Paragraph (Prose):**
+Final Paragraph (Prose):
 Et priusquam ad operam ego essem attentus, unam na-
 turam, scilicet tantum humanam, in Christo esse, non plu-
 res, credebam; et de tali fide eram contentus, et ultra non

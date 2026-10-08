@@ -1,6 +1,4 @@
-**CAPITULUM TRICESIMUMTERTIUM**
-
-**Italian Text (Left Column):**
+CAPITULUM TRICESIMUMTERTIUM
 
 ⁴³ E perchè tu più volentier mi rade
 Le 'nvetriate (¹) lagrime dal volto,
@@ -25,8 +23,6 @@ Non era giuncto ancora Michel Zanche,
 Nel corpo suo et un suo proximano (¹⁷),
 Che 'l tradimento insieme con lui fece.
 
-**Latin Text (Right Column):**
-
 ⁴⁰⁷
 ⁴³ Et ad hoc ut libentius michi radas
 Invitriatas lacrymas a vultu,
@@ -50,17 +46,9 @@ Non pervenerat adhuc Michael Zancha,
 In corpore suo et unius sui proximi,
 Qui prodicionem simul cum eo fecit.
 
----
-
-**Footnotes (Below Main Text):**
-
-**Italian Footnotes (Left):**
-
 (¹) ghiacciate. — (²) fa tradimento a' suoi consorti e parenti. — (³) muove. — (⁴) a lui constituito da Dio. — (⁵) fornito. —
 (⁶) anima. — (⁷) come tu vedi. — (⁸) pozzo e centro de la terra. — (⁹) appare ancora. — (¹⁰) suo. — (¹¹) nel mondo. — (¹²) dell'anima
 dico. — (¹³) a me. — (¹⁴) sta nella ghiaccia. — (¹⁵) Branca d'Oria. — (¹⁶) in suo luogo. — (¹⁷) parente.
-
-**Latin Footnotes (Right):**
 
 Et ad hoc ut tu libentius michi radas invitriatas lacrymas, idest ad modum vitri factas, sive congelatas, a vultu,
 idest ab oculis meis, scias quod quam cito anima tradit,

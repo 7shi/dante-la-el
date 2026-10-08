@@ -29,7 +29,7 @@ Quartum preambulum est, quod poetarum triplex stilus reperitur, qui sunt:
 tragedia, sathyra et comedia. Tragedia est que tractat de rebus altis et magnis
 cum superbo, idest alto, stilo, sicut sunt subversiones regnorum et provintiarum,
 diluvia, strages; quo stilo tragdico usi sunt Homerus, Virgilius, Lucanus et
-Statius. Et dicitur tragedia a *tragos* grece, quod latine sonat sicut yrcus: nam
+Statius. Et dicitur tragedia a tragos grece, quod latine sonat sicut yrcus: nam
 yrcus habet faciem et partes anteriores pulchras, habet aspectum ab ante letum
 et pulchrum; sed cum pertransiit, post se dimittit fetorem magnum ex parte
 caude. Similiter facit tragedia, quae incipit a letis et excelsis et magnis sta-
@@ -37,5 +37,3 @@ tibus, tandem finit in tristibus valde magnis. Sathyra dicitur secundus stilus,
 qui est reprensivus vitiorum: hoc stilo usi sunt Horatius, Persius, Iuvenalis;
 et dicitur sathyra a saturitate, quia poeta saturatus vitiis aliquorum, idest habens
 plenam notitiam vitiorum et malorum morum alicuius hominis, civitatis, vel
-
-Digitized by Google

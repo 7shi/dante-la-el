@@ -1,10 +1,7 @@
-Here is the transcription of the Latin text from the image:
-
 CAPITULI DUODECIMI SUMMARIUM
-___
 
-In duodecimo capitulo, quod incipit: *Locus per*
-*quem descendere, etc.*, auctor describit locum per
+In duodecimo capitulo, quod incipit: Locus per
+quem descendere, etc., auctor describit locum per
 quem descenderunt infra, intrantes primum circu-
 lum violentorum. Ille locus erat unus descensus,
 ubi erant lapides ruinati, et in introy-tu erat Mi-
@@ -42,7 +39,5 @@ sanguine bullienti, bene convenit tyrampnis, qui
 delectantur in effusione sanguinis humani; et se-
 cundum quod fuerunt plus et minus crudeles, sic
 plus et minus sunt immersi in isto sanguine.
-
-***
 
 20

@@ -1,6 +1,3 @@
-Here is the transcription of the text from the image:
-
-**Left Column (Italian Poem)**
 290
 32 Et io allor: Io fui nato e cresciuto
 Sopra 'l bel fiume d'Arno a la gran villa (¹),
@@ -21,7 +18,6 @@ Ch'ancor sì par dintorno dal Guardingo (¹³).
 Ma più non dissi (¹⁴): ch' (¹⁵) agl'ochi (¹⁶)
 Un, crocifixo in terra con tre pali. [m'occorse
 
-**Right Column (Latin Poem)**
 INFERNI
 32 Et ego ad eos: Ego fui natus ed adultus
 Supra pulchrum flumen Arni in grandi villa,
@@ -42,7 +38,6 @@ Quod adhuc apparet circum Gardingum.
 Sed plus non dixi : quia ante oculos michi occurrit
 Unus, crucifixus in terra cum tribus palis.
 
-**Left Column Commentary (Latin Prose)**
 Et ego a l eos: Ego sum natus et adultus super pulchrum
 flumen Arni in grandi villa (hic loquitur auctor more Gal-
 licorum, qui vocant civitates, villas); ego nunquam fui ypo-
@@ -71,7 +66,6 @@ lingus, idest solitarius, idest prudens, pro conservanda sua
 pace; et fuimus tales, quod adhuc apparet circum Gar-
 dingum.
 
-**Right Column Commentary (Latin Prose)**
 Dictum est quod Gardingum est locus in Florentia, ubi
 est palatium Communitatis. Isti duo Fratres reputabantur
 ab uno et eorum, antequam intraret talem Religionem.
@@ -102,7 +96,6 @@ stus crucifixus fuit, princeps sacerdotum erat Cayphas, qui
 in consilio dixit de Christo: Expedit nobis ut unus mo-
 riatur homo pro populo, et non tota gens pereat. Qui dixit
 
-**Footnotes (Italian)**
 (¹) città di Firenze. — (²) di loro. — (³) gialle d'oro di fori. — (⁴) dentro. — (⁵) noi che le portiamo. — (⁶) chiamati cavalieri
 della Vergine Maria. — (⁷) chiamato. — (⁸) altro. — (⁹) chiamati. — (¹⁰) Fiorenza. — (¹¹) solitario e di buona vita. — (¹²) di Firenze. —
 (¹³) contrada di Firenze. — (¹⁴) che le predecte parole. — (¹⁵) perchè. — (¹⁶) miei.

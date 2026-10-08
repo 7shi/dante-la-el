@@ -1,7 +1,4 @@
-Here is the transcription of the Latin text from the provided image:
-
-**Top Right Column (Latin Poem):**
-**CAPITULUM TRICESIMUMPRIMUM**
+CAPITULUM TRICESIMUMPRIMUM
 3 Erat mea virtus tantum confusa,
    Quod vox se movit, et prius extincta est
    Quam ab organis suis esset exclusa.
@@ -24,7 +21,6 @@ Here is the transcription of the Latin text from the provided image:
    Reperisti, ex quo transire ulterius
    Deberes te sic expoliare spem?
 
-**Bottom Left Commentary (Latin):**
 Dantes autem voluit respondere; sed non potuit, quia
 defecit sibi vox, que fuit extincta antequam exiret de suis
 organis, scilicet labiis, dentibus, palato, guture, et pul-
@@ -51,7 +47,6 @@ vel alio modo.
 Etiam quando arcus vel balista propter nimiam exten-
 sionem frangitur, quando ex[tra] locum corda ponit[ur],
 
-**Bottom Right Commentary (Latin):**
 tunc cum minori fuga, sive magis lente, hasta signum tan-
 git. Ita accidebat hic auctori, quia non potuit plena voce
 formare verba pre dolore et confusione. Sicut balista fran-

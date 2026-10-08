@@ -1,10 +1,6 @@
-Here is the transcription of the provided image:
-
-**[Page Header]**
 CAPITULUM VICESIMUSEXTUM
 727
 
-**[Italian Text - Left Column]**
 ³⁰ Hor sai nostr'acti, e di che fummo rei;
 Se forse a nome vuoi saper chi semo,
 Tempo non è di dire, e non saprei.
@@ -20,7 +16,6 @@ Rime d'amor usar dolci e leggiadre:
 
 ⁽¹⁾ pentirmi — ⁽²⁾ de la morte — ⁽³⁾ padre.
 
-**[Latin Text - Right Column]**
 ³⁰ Nunc scis nostros actus, et de quo fuimus rei;
 Si forsan nomine vis scire qui fuimus,
 Tempus non est dicendi, et non scirem.
@@ -34,7 +29,6 @@ Talis deveni ego, sed non ad tantum insurgo,
 Meum et aliorum meorum meliorum, qui unquam
 Rithymis amoris usi sunt dulcibus et pulchris:
 
-**[Commentary - Left Column]**
 legem (quæ vult quod hermaphroditæ eligant sibi sexum, quo
 volunt, et illo uti possunt, sed ab alio debent absti-
 nendo [sicut] bestiæ appetitum, in obprobrium nostrum,
@@ -73,7 +67,6 @@ Thebas, et indigentes aqua, sitiebant nimis. A casu ista
 Ysiphile iverat ad campos et prata ad solatium, secum
 ferens filium regis, quem nutriebat. Isti septem reges, si-
 
-**[Commentary - Right Column]**
 tientes. ignorantes ubi esset aqua, tandem inventam istam
 Ysiphilem, interrogaverunt ubi esset
 fons: ipsa, derelictio filio regis, quem nutriebat, inter her-

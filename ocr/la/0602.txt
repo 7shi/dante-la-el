@@ -1,7 +1,3 @@
-The transcription of the Latin text from the image is as follows:
-
-**Main Poetic Text (Right Column):**
-
 PURGATORII
 21 Antiquus sanguis et opera nobilia meorum maiorum
 Me fecerunt ita arrogantem,
@@ -22,11 +18,6 @@ Se torsit sub pondere quod eos impedit,
 Tenendo oculos cum labore fixos
 Ad me, qui totus inclinatus cum ipso ibam.
 
----
-
-**Commentary/Notes (Below the main text, structured in columns):**
-
-*(Left Column, first block)*:
 rant magni domini, in tantum quod omni die anni pote-
 rant locum mutare et hospitium, et esse in suo proprio
 dominio. Isti comites magni Gebellini fuerunt; ideo Se-
@@ -42,11 +33,9 @@ Sed loquitur honeste, laudans suos; et dicit quod duo fue-
 runt causa superbie sue, scilicet nobilitas sanguinis et
 proba opera suorum antecessorum.
 
-*(Right Column, first block)*:
-differentia. **Fante**: idest pedes armiger, qui fuit ad pugnam
+differentia. Fante: idest pedes armiger, qui fuit ad pugnam
 illam in Campanatico.
 
-*(Left Column, second block)*:
 Antiquus sanguis et opera nobilia meorum maiorum, me
 fecerunt ita arrogantem, idest superbiam, quod non respi-
 ciendo ad communem matrem, omnes homines habui in
@@ -64,8 +53,7 @@ et in terram pariter revertemur. Tertio modo dici potest,
 et bene; idest, non cogitando quod omnes nascimur ex viro
 et femina, et eodem modo, et quantum ad nationem non est
 
-*(Right Column, second block)*:
-**Ego sum Ubertus**: et non solum michi dampnum su-
+Ego sum Ubertus: et non solum michi dampnum su-
 perbia facit, quia omnes consortes, idest consanguineos
 traxit ipsa secum in malum annum, idest ex mea causa
 et superbia; unde convenit, idest oportet, quod istud pon-
@@ -73,8 +61,7 @@ dus portem propter eam, scilicet superbiam, tantum quod
 Deo satisfaciam, postquam ego id non feci inter vivos, hic
 inter mortuos.
 
-*(Right Column, third block)*:
-**Auscultando inclinavi**: hec est
+Auscultando inclinavi: hec est
 tertia pars huius capituli, in qua ponitur alius spiritus qui
 fuit valde superbus, non ex nobilitate, sed ex excellentia
 sue artis. Iste fuit de civitate Eugubii. que est in Tuscia.
@@ -86,7 +73,7 @@ arte vituperabat. Ista ars miniandi vocatur Parisius allu-
 minare, vel allumare. Hic spiritus portabat etiam pondus
 suum, et ibat mirabiliter versus terram inclinatus. Hic vidit
 Dantem et cognovit eum, et e converso.
-**Auscultando inclinavi infra faciem**: et unus de ipsis, non
+Auscultando inclinavi infra faciem: et unus de ipsis, non
 iste qui loquebatur, se torsit sub pondere, quod eos impedijt,
 nec permictit, subaudi eos, libere ambulare; et vidit me et
 cognovit me et vocabat, scilicet me, tenendo oculos cum

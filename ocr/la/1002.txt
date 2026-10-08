@@ -1,7 +1,4 @@
-Here is the transcription of the Latin text from the image:
-
-**Main Text (Right Column)**
-
+918
 18 Ideo qui de loco illo facit verba
 Non dicat Assisium, quia diceret breve,
 Sed Orientem, si proprie dicere vult.
@@ -17,8 +14,6 @@ Postea de die in diem illam fortius amavit.
 22 Ista, privata de primo marito,
 Mille centum annis et pluribus despecta et obscura
 Usque ad istum stetit sine invito;
-
-**Commentary Text (Left Column)**
 
 Ideo qui de loco isto facit mentionem, verba, non dicat
 Assisium, quia diceret breve, idest nimis modicum; idest,
@@ -58,8 +53,6 @@ confirmavit regulam eamdem. Ipse Sanctus Franciscus si-
 tiebat martyrium pro fide Iesu Christi, et ivit ad praesen-
 tiam Soldani Babylonie. credens martyrizari: sed non
 
-**Commentary Text (Right Column)**
-
 placuit Deo ut ipse ibi martirizaretur; et quia non fru-
 stificabat ibi in terra Sarracenorum ad convertendum po-
 pulum, rediit in Ytaliam. Tandem, biennio ante mortem
@@ -97,4 +90,3 @@ Ista, scilicet paupertas, privata de primo marito, scilicet
 Christo, qui fuit pauperrimus, mille centum annis et plu-
 ribus, septuaginta novem scilicet (millesimo ducentesimo
 septimo anno Domini Sanctus Franciscus incepit Ordinem
-Digitized by Google.

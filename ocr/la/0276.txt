@@ -1,6 +1,3 @@
-Here is the transcription of the Latin text from the image:
-
-**Right Column (Top Section):**
 INFERNI
 33 Et dixit: O Gerion, move te ammodo;
 Rotas largas fac, et descende paullatim:
@@ -15,7 +12,6 @@ Et cum brachiis aerem recolvit.
 Quando Fethonth dereliquit frena,
 Quare coelum, sicut apparet, adhuc arsum fuit:
 
-**Left Column (Bottom Section - Commentary):**
 idest ascendi, cum brachiis me avvinxit, idest cinxit, et me
 sustinuit. Ad aliud punctum, vel dubium, forte: idest ma-
 gnum et profundum dubium. Michi subveniebat, idest me
@@ -59,7 +55,6 @@ rem raccolsit, idest attraxit.
 Ad intelligendum duas comparationes hic positas, opor-
 tet notare duas hystorias, quarum una ponitur in principio
 
-**Right Column (Bottom Section - Commentary):**
 secundi libri Metamorphoseos Ovidii, alia in principio sexti
 Eneydos. Prima est hec. Semel Phetontth, filius Phebi, dei
 Solis, fuit esprobratus ab Epaphone, quod ipse non erat

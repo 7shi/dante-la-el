@@ -1,6 +1,6 @@
-**CAPITULUM UNDECIMUM**
+951
+CAPITULUM UNDECIMUM
 
-**Left Column (Italian)**
 34 E poi che, per la sete del martiro,
 Ne la presenza del Soldan superba
 Predicò Chrysto e gl’altri che ‘l seguiro;
@@ -20,7 +20,6 @@ E comandò che l’amasser di fede;
 Muover si volse, tornand’ al suo regno,
 Et al suo corpo non volse altra bara.
 
-**(Lower section of Italian commentary)**
 (conceßit ipsi Beato Francesco omnem suam petitionem)
 sancta voluntas istius archimandrite, idest principis gre-
 gis. Dicitur autem archimandrita ab *archos*, idest princeps. et
@@ -53,8 +52,6 @@ flumina. scilicet inter Arnum. de quo dictum est supra, et
 Tyberim, de quo etiam dictum est sepe. In isto monte. dum
 oraret Sanctus Franciscus biennio ante mortem suam, quo-
 
-**Right Column (Latin)**
-951
 CAPITULUM UNDECIMUM
 
 34 Et postquam, propter sitim martyrii,
@@ -76,7 +73,6 @@ Et mandavit quod amarent eam fideliter;
 Movere se voluit, redeundo ad suum regnum,
 Et suo corpori noluit aliam baram.
 
-**(Lower section of Latin commentary)**
 dam mane, circa festum Exaltationis Sanctae Crucis, vidit
 species unius Seraphim habentis sex alas; et tunc divi-
 nitus per Christum, in specie Seraphim apparentem, im-

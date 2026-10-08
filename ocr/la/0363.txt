@@ -1,9 +1,3 @@
-The text is presented in two columns. The left column is in Italian, and the right column is in Latin. The footnotes for the Italian text are provided below the main Italian text.
-
----
-
-**Left Column (Italian)**
-
 CAPITULUM VICESIMUMQUINTUM
 ³⁰⁹
 
@@ -28,10 +22,6 @@ Infin dove comincia nostra labbia.
 
 (¹) o. — (²) mani. — (³) o. — (⁴) ordini. — (⁵) arderti. — (⁶) tuoi cittadini. — (⁷) Capaneo. — (⁸) Vanni predetto. — (⁹) Chacho. — (¹⁰) superbo Vanni.
 
----
-
-**Right Column (Latin)**
-
 CAPITULUM VICESIMUMQUINTUM
 ³⁰⁹
 
@@ -53,12 +43,6 @@ Clamando: Ubi est, ubi est acerbus?
 ⁷ Non credo quod Mariptima tot habeat,
 Quot biscias, idest viperas, ipse habebat supra dorso,
 Usque ad locum ubi incipit nostrum labium.
-
----
-
-**Lower Sections (Commentary)**
-
-**Left Column (Italian/Latin mixed, likely Italian commentary with Latin citations/terms)**
 
 auctori, que supra scripta sunt, ipse fecit ficas cum amba-
 bus manibus. In fine suorum verborum manus extulit, idest
@@ -93,8 +77,6 @@ staret et firmion.
 Ay, Pistorium, Pistorium, quare non stantias, idest,
 cum instantia queris, vel deliberas et censes, annihi-
 
-**Right Column (Latin)**
-
 incinerari) subaudi, sicut modo fecit Vannes Fucci, civis
 tuus), ita quod plus, idest ulterius, non dures, postquam in
 male operando semen tuum superas? Aliqui dicunt, quod se-
@@ -125,5 +107,3 @@ acerbus, idest Vannes Fucci?
 —
 Maripiima non credo ego quod tot habeat, quot bestias,
 idest viperas, sive serpentes, ipse habebat super dorso
-
-Digitized by Google

@@ -1,5 +1,3 @@
-Here is the transcription of the Latin text from the image:
-
 CAPITULUM QUARTUMDECIMUM
 
 ³⁴ Quando in Bononia unus Faber ralignatur?
@@ -21,7 +19,6 @@ Et multa gens, ut non efficiatur prava?
 Et male facit Castrocardium, et peius Comium,
 Que ad producendum tales filios se non immiscent.
 
-[Beneath the Latin poem, a Latin explanation starts:]
 
 Iam auctor facit mentionem de quinto illustri viro, de
 Fabro Bonomiensi. In Bononia fuit unus bonus homo, vir
@@ -81,4 +78,4 @@ erant consimiles predictis multi, in quo adhuc sunt multi
 probi viri in armis: que ad producendum tales filios, idest
 males, non s’immiscent, idest studet.
 
-[Page number:] 74
+74

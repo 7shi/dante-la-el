@@ -1,43 +1,38 @@
-Here is the transcription of the text from the image:
-
-**[Top Left - Italian Text]**
 CAPITULUM SEXTUMDECIMUM
 ²⁵Se tu rigardi Luni et Orbisagla
-   Come son ite, e come se ne vanno
-   Dirieto a esse Chiusi e Sinigaglia,
+Come son ite, e come se ne vanno
+Dirieto a esse Chiusi e Sinigaglia,
 ²⁶Udir come le schiatte si disfanno,
-   Non ti parrà cosa nuova nè forte,
-   Poscia che le cittadi termin hanno.
+Non ti parrà cosa nuova nè forte,
+Poscia che le cittadi termin hanno.
 ²⁷Le vostre cose tucte hanno lor morte,
-   Sì come voi; ma celasi in alcuna
-   Che dura molto, e le vite son corte.
+Sì come voi; ma celasi in alcuna
+Che dura molto, e le vite son corte.
 ²⁸E come nel voltar del ciel la luna
-   Cuopre e discuopre e liti senza posa
-   Così fa di Firenze la fortuna:
+Cuopre e discuopre e liti senza posa
+Così fa di Firenze la fortuna:
 ²⁹Perchè non de'(¹) parer mirabil cosa
-   Ciò ch'io dirò degl' altri Fiorentini,
-   Di cui la fama nel tempo è nascosa.
-   (¹) debba.
+Ciò ch'io dirò degl' altri Fiorentini,
+Di cui la fama nel tempo è nascosa.
+(¹) debba.
 
-**[Top Right - Latin Text]**
 1013
 ²⁵Si tu respicis Lunim et Urbisaliam
-   Quomodo iverunt, et quomodo vadunt
-   Retro illum Clusium et Senogallium;
+Quomodo iverunt, et quomodo vadunt
+Retro illum Clusium et Senogallium;
 ²⁶Audire quomodo stirpes destruuntur,
-   Non apparebit tibi nova res nec fortis,
-   Postquam civitates earum terminum habent.
+Non apparebit tibi nova res nec fortis,
+Postquam civitates earum terminum habent.
 ²⁷Omnes res vestræ habent earum mortem,
-   Sicut vos; sed celatur in aliquibus,
-   Quæ durant multum, et vitæ sunt breves.
+Sicut vos; sed celatur in aliquibus,
+Quæ durant multum, et vitæ sunt breves.
 ²⁸Et sicut revolutio cœli et lunæ
-   Cooperit et discooperit litora sine quiete,
-   Sic facit de Florentia fortuna:
+Cooperit et discooperit litora sine quiete,
+Sic facit de Florentia fortuna:
 ²⁹Quare non debet apparere mirabilis res
-   Quicquid ego dicam de aliis Florentinis,
-   Unde est fama in tempore absconsa.
+Quicquid ego dicam de aliis Florentinis,
+Unde est fama in tempore absconsa.
 
-**[Bottom - Latin Commentary]**
 Si tu respicis Lunim et Urbisaliam: hec est tertia pars huius
 capituli, in qua dominus Cacciaguida recitat multas fami-
 lias antiquas civitatis Florentie, que tunc, tempore suo, erant
@@ -48,7 +43,7 @@ tates aliquæ fuerant magnæ, quæ modo sunt quasi nihil, de
 quibus nominat quatuor. Quarum una vocabatur Luni, que
 erat nobilis et magna civitas inter Tusciam et territorium
 Ianuanense, supra flumen quod vocatur Magra, quod flumen
-divi´dit Tusciam a [territorio] Ianuanensi; modo nihil est nisi
+dividit Tusciam a [territorio] Ianuanensi; modo nihil est nisi
 unum pulchrum oppidum, quod est ibi de prope, quod vo-
 catur Sarzana. Alia civitas, quam nominat, est Urbisalia;
 est in marchia Anchomana inter Maceratam et Tolenti-

@@ -1,10 +1,7 @@
-Here is the transcription of the Latin text from the image:
+72
 
-**Page 72**
+INFERNI
 
-**INFERNI**
-
-**Left Column (Italian text, not transcribed as per request to focus on Latin, but present in the image):**
 49 Io non posso tractar di tutti a pieno;
 Però che sì mi caccia el lungo tema,
 Che molte volte al facto el dir vien meno.
@@ -14,7 +11,6 @@ Fuor de la queta ('), nell'aer che trema;
 E vengo in luogo, ove non è che luca.
 (¹) Limbo quieto.
 
-**Right Column (Main Latin Text):**
 49 Ego non possum retrahere de omnibus ad plenum;
 Ex eo quia sic me impellit longum thema,
 Quod multoties factum dicto deficit.
@@ -23,9 +19,6 @@ Per aliam viam me ducit sapiens dux,
 Extra quietum in aierem qui tremit;
 Et venio in partem, ubi non est quid luceat.
 
----
-
-**Left Column (Latin Commentary):**
 libro De viris illustribus, quod fuit sanctus, et ponit eum
 in Paradiso. Augustinus dicit quasi oppositum: inquit enim
 Augustinus de Seneca: Quod agebat, reprehendebat; quod
@@ -48,7 +41,6 @@ et phisicus; composuit multos libros notabiles: Metaphisi-
 cam, De animalibus, sive naturis animalium, De naturali-
 bus, etc. Averrois fuit tempore Avicennæ: emulus suus,
 
-**Right Column (Latin Commentary):**
 semper fuit conatus deprimere dicta sua. Ideo dicit textus:
 Euclidem geometram, scilicet vidi, et Ptholomeum, Hipocra-
 tem, Avicennam et Galienum, Averroim, qui magnum co-

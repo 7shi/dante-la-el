@@ -1,6 +1,5 @@
-**CAPITULUM VICESIMOOCTAVUM**
-
-**Left Column (Latin Poetry/Prose):**
+753
+CAPITULUM VICESIMOOCTAVUM
 
 24 Tre passi ci facea 'l fiume lontani (¹);
 Ma Hellesponto, dove 'l passò Xerse,
@@ -20,8 +19,6 @@ Ad ogni tua question tanto che basti.
 
 (¹) L'un dall'altro — (²) Xerse, dico — (³) superbie — (⁴) Paradiso terrestre — (⁵) che — (⁶) dicas.
 
-**Right Column (Latin Poetry/Prose):**
-
 24 Tribus passibus nos faciebat flumen longinquos;
 Nunquam Hellespontum, ubi transivit Xerxes,
 Adhuc frenum omnibus audaciis humanis,
@@ -37,10 +34,6 @@ Qui potest disnebrare vestrum intellectum.
 28 Et tu, qui es ante, et me rogasti,
 Dicas si aliud vis dicere, quia veni festina
 Ad omnem tuam questionem tantum quod sufficiat.
-
----
-
-**Lower Latin Commentary:**
 
 Tribus passibus nos faciebat flumen longinquos (inter
 auctorem et illam dominam erat flumen Lethes, quod non

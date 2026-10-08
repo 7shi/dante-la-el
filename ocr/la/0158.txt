@@ -1,8 +1,7 @@
-**Page 104**
+104
 
-**INFERNI**
+INFERNI
 
-**Left Column (Italian):**
 ²⁸ Perch'una gente impera, et altra(¹) langue,
 Sequendo lo iudicio di costei,
 Che sta occulto, com'in herba l'augue.
@@ -15,7 +14,6 @@ Sì spesso (³) vien chi vicenda consegue.
 
 (¹) al. e l'altra. — (²) al. saver. — (³) tanto.
 
-**Right Column (Latin):**
 ²⁸ Ex quo una gens imperat, et alia languet,
 Sequendo iuditum istius,
 Quod est occultum nobis, sicut in herba anguis.
@@ -26,7 +24,6 @@ Suum regnum, sicut sua alii Dii.
 Necessitas eam facit esse velocem;
 Tam cito venit quod varietatem consequitur.
 
-**Commentary (Left Column - Italian):**
 Nota; ita quod nostra consilia nec remedia, valent, nec
 possunt, contra hanc influentiam.
 Notandum tamen, quod ista influentia non habet domi-
@@ -71,7 +68,6 @@ veniunt nobis ignorantibus. Hoc enim facit fortuna: quando
 credis et speras esse in meliori statu, tunc eris in peiori;
 et e converso.
 
-**Commentary (Right Column - Latin):**
 Quare una gens imperat, scilicet dominatur, et alia lan-
 guet, id est est subdita, scilicet iuditum istius, que latet
 velut anguis in erba, scilicet quod prius mordet quam vi-

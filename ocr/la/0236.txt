@@ -1,7 +1,3 @@
-Here is the transcription of the text from the image:
-
-**Left Column (Italian)**
-
 182
 ⁴ La dolorosa selva là (¹) ghirlanda
 Dintorno, come 'l tristo fosso ad essa:
@@ -24,8 +20,6 @@ Ma più al duol havea la lingua sciolta.
 
 (1) al. l'è, i. est sibi. — (2) era una. — (3) quella rena libica.
 
-**Right Column (Latin)**
-
 INFERNI
 ⁴ Dolorosa silva illam circuit,
 Sicut fovea tristis ipsam,
@@ -46,17 +40,15 @@ Et altera ibat continue.
 Et illa plus que iacebat ad tormentum,
 Sed plus ad dolorem habebat linguam solutam.
 
-**Latin Commentary (Left Column below poem)**
-
 Dolorosa silva inghrilandat, idest circuit illam are-
 nam in circum; sicut fossatum triste, ipsam, idest sicut
-silva circumdatur a valle sanguinis. *Fossum triste:* idest
+silva circumdatur a valle sanguinis. Fossum triste: idest
 vallis sanguinis, tristis, quia ibi nullus habuit amorem ad
-corpus, quando semetipsos interfecerunt. *Inghrilanda:*
+corpus, quando semetipsos interfecerunt. Inghrilanda:
 est modus certi. Hic firmavimus passus a randam a
 randam, idest radenter, quia ibi prope fecimus residentiam.
 
-*Spazzum:* idest spatium, sive illa planities, erat una
+Spazzum: idest spatium, sive illa planities, erat una
 arena arida et spissa, non alterius foggie, idest manerici,
 facta, quam illa quæ fuit a pedibus Catonis iam soppressa,
 idest scalpicata.
@@ -74,12 +66,10 @@ quia de luxuria sodomitæ nullus provenit fructus. Ultra hoc,
 flammæ extrinsece sunt concupiscentie et ardores, qui mo-
 vent exterius istam talem flammam. Calor, qui est in
 arena, est calor intrinsecus, qui movet istum
-intemperatum. Unde dicit: *lo spazzo:* spatium est totus
+intemperatum. Unde dicit: lo spazzo: spatium est totus
 locus contentus intra istum circulum. Comparatione
 dicit istam arenam dicens, non alterius manerici
 quam illa.
-
-**Latin Commentary (Right Column below poem)**
 
 Loquitur hic de illa arena, quæ est in Libia, in partibus
 Africæ, in Barbaria, per quam transivit Cato. Post conflictum
@@ -98,16 +88,16 @@ lectualibus in ista speculatione; idest, ista pena est tam
 iuste data, ut quilibet, qui legit hec que scribo, caveat sibi
 ab hoc vitio plusquam a morte.
 
-*Animarum nudarum vidi multos greges, que plora-*
-*bant omnes satis misere:* videbatur eis imposita lex
+Animarum nudarum vidi multos greges, que plora-
+bant omnes satis misere: videbatur eis imposita lex
 diversa: fingit quod diversæ erant acies animarum hic
 punitariim: una acies semper currebat per arenam; se-
-cunda iacebat; tertia sedebat. *Diversa lex,* idest conditione.
+cunda iacebat; tertia sedebat. Diversa lex, idest conditione.
 Iam incipit a peiori.
 
-*Supina iacebat in terra aliqua gens:* ista talis est illa,
-quæ facit violentiam in persona Dei. *Alia raccolta sedebat,*
+Supina iacebat in terra aliqua gens: ista talis est illa,
+quæ facit violentiam in persona Dei. Alia raccolta sedebat,
 sive sartor, quando, sedendo, suit remisse propter ardorem:
-ista gens erat feneratorum. *Alia ibat continue ambulando;*
+ista gens erat feneratorum. Alia ibat continue ambulando;
 et ista tertia erat sodomitarum. Sic igitur auctor ordinat is-
 tos; nam quosdam ponit iacentes

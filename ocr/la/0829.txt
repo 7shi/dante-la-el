@@ -1,8 +1,7 @@
-**CAPITULUM TRICESIMUM**
+CAPITULUM TRICESIMUM
 
 775
 
-**Left Column (Poetry)**
 14 Tosto che nella luce mi percosse
     L'alta virtù, che già m'havea trafict
     Prima che fuor di puerizia (¹) fosse,
@@ -28,7 +27,6 @@
     Quando mi volsi al suon del nome mio,
     Che di necessità qui si registra,
 
-**Right Column (Poetry)**
 14 Statim quod in visu me percussit
     Alta virtus, que me iam transfixerat
     Priusquam ego extra pueritiam essem,
@@ -54,11 +52,9 @@
     Quando me volvi ad sonum nominis mei,
     Quod ex necessitate hic registratur,
 
-**Footnotes**
 (¹) mia — (²) perchè era partito — (³) allora: — (⁴) o — (⁵) o — (⁶) o — (⁷) tuo — (⁸) dico — (⁹) dogla che quella di Virgilio —
 (¹⁰) navi — (¹¹) gl'inannima.
 
-**Left Column (Prose Commentary)**
 Statim quod in visu me percussit alta virtus, que iam
 me transfixerat (quia tantum fuit Dantes philocaptus de
 Beatricis, quod existens adhuc novem annorum, obvians sibi
@@ -83,7 +79,6 @@ tot delitiis, et in loco tantarum delitiarum, et in loco tam
 delectabili, non profuit quin absentia Virgilii michi exor-
 queret lacrymas. Hoc dicit ad denotandum, quod est valde
 
-**Right Column (Prose Commentary)**
 difficile discere a scientiis naturalibus et humanitus ad-
 inventis, et ire ad scientias divinas. Nec omne illud dele-
 mentum quod perdidit Eva, valuit, idest, tenuit genas meas

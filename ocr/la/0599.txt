@@ -1,8 +1,6 @@
-**Page 515**
+Page 515
 
 CAPITULUM UNDECIMUM
-
-**Italian Text (Left Column)**
 
 3 Vegna ver noi la pace del tuo regno,
 Chè noi, ad essa (¹) non potiàn (²) da noi
@@ -19,8 +17,6 @@ Benigno, e non guardar al nostro merto.
 7 Nostra virtù, che di leggier s'adona (⁴),
 Non sperimentar (⁵)coll'antico adversaro,
 Ma libera da lui, che sì la sprona.
-
-**Latin Text (Right Column)**
 
 3 Veniat versus nos pax tui regni,
 Quia nos ad ipsam non possumus
@@ -39,8 +35,6 @@ Non experiaris cum antiquo adversario,
 Sed libera nos ab illo, qui sic nos spronat.
 
 (¹) pace. — (²) al. possiam. — (³) possibilità. (⁴) si veuçe. — (⁵) Noli probare.
-
-**Commentary Text (Bottom Section)**
 
 per potentiam, essentiam, præsentiam? Dicendum est quod
 sie; ideo auctor glossat dictum sic: Non circumscriptus.

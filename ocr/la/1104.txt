@@ -1,6 +1,4 @@
-Here is the transcription of the Latin text from the image:
-
-**PARADISI**
+PARADISI
 
 ³¹ Qualis supra nidum regyratur,
 &nbsp;&nbsp;&nbsp;&nbsp;Postquam pavit ciconia filios,
@@ -22,12 +20,8 @@ Here is the transcription of the Latin text from the image:
 &nbsp;&nbsp;&nbsp;&nbsp;Qui erunt in iudicio satis minus prope
 &nbsp;&nbsp;&nbsp;&nbsp;Eum, quam talis qui non cognovit Christum:
 
-__________
-
 revendos, quia sub signo Aquile fuerunt Romani domini
 mundi, quia sub tali signo vicerunt totum mundum.
-
-__________
 
 *Ipsum reincepit: Ad istud regnum*. Esso ricominciò:
 id est ista quarta pars huius capituli, in
@@ -48,8 +42,6 @@ istud regnum, ascendit unquam qui non crediderit in ligno,
 idest quod esset crucifixus: ita quod ad salutem hominum
 necesse est credere in Christum, vel venturum, sicut ante
 Christianismum, vel in iam Crucifixum.
-
-__________
 
 *Modo vult dicere, quod non sufficit esse baptizatum et ha-
 bere nomen Christianitatis, sed oportere facere opera Christi.

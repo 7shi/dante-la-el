@@ -1,9 +1,5 @@
-Here is the transcription of the Latin text:
-
-**Top Right Corner:**
 437
 
-**Main Body (Right Column):**
 CAPITULUM PRIMUM
 7 Pulcher planeta qui ad amandum confortat,
 Faciebat ridere totum Orientem,
@@ -24,7 +20,6 @@ Qua maior non debetur patri ab aliquo filio.
 Portabat, suos capillos similiter,
 De quibus cadebat ad pectus dupla lixta.
 
-**Commentary Section (Left Column):**
 extra auram mortuam, idest infernalem, que michi tristari
 fecerat oculos et pectus: nam aura Inferni conturbaverat
 sibi oculos, sicut sepe finxit in Inferno.
@@ -59,7 +54,6 @@ notat auctor, quod nos christiani, qui sumus occidentales,
 sumus sine illis virtutibus moralibus; dicit nos fore privatos
 videre illas.
 
-**Commentary Section (Right Column):**
 Gaudere, idest letari, videbatur, apparebat, celum, de
 istis flammulis, idest splendoribus. O, idest dico, septem-
 trionalem viduum situm, postquam privatus es videre illas.
