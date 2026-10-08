@@ -91,3 +91,12 @@ Proofreading follows the printed source: historical spellings, unusual wording,
 and apparent errors in the original are preserved rather than silently
 modernized or corrected. The notes also contain Latin, Italian, French, Arabic,
 and Hebrew, so the directory's `grc` label does not describe every passage.
+
+## Credits
+
+| Step | Model |
+|---|---|
+| OCR | Gemini 2.5 Flash (see [Makefile](../Makefile)) |
+| Proofreading | GPT-6.1 Sol |
+| Index ([INDEX.md](INDEX.md)) | Gemini 3.8 Flash |
+| Final check | Claude Opus 5.5 |

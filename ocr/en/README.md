@@ -24,3 +24,12 @@ The file number is the printed page number plus 12 up to printed page 384
 ([396.txt](396.txt)). The leaf with printed pages 385–386 in Canto XXXIV is
 missing from the scan, so from printed page 387 ([397.txt](397.txt)) onward
 the offset is 10.
+
+## Credits
+
+| Step | Model |
+|---|---|
+| OCR | Gemini 2.5 Flash (see [Makefile](../Makefile)) |
+| Proofreading | GPT-6 Luna |
+| Index ([INDEX.md](INDEX.md)) | Gemini 3.8 Flash |
+| Final check | Claude Opus 5.5 |

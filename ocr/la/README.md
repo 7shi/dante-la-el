@@ -26,3 +26,18 @@ number is the printed page number plus 6. The main body is numbered from 1 to
 1236; the file number is the printed page number plus 54. No pages are
 missing or duplicated. Blank pages are transcribed as empty files or
 `(blank page)`.
+
+## Credits
+
+| Step | Model |
+|---|---|
+| OCR | Gemini 2.5 Flash (see [Makefile](../Makefile)) |
+| Proofreading | GPT-6 Luna |
+| Index ([INDEX.md](INDEX.md)) | Gemini 3.8 Flash |
+| Final check | Claude Opus 5.5 |
+
+In the final check, [0106.txt](0106.txt), [0314.txt](0314.txt), and
+[0553.txt](0553.txt) were retranscribed from the images by Claude Opus 5.5.
+[0379.txt](0379.txt), [0574.txt](0574.txt), [0671.txt](0671.txt), and
+[1249.txt](1249.txt) were OCRed again with Gemini 2.5 Flash and proofread by
+Gemini 3.8 Flash.
