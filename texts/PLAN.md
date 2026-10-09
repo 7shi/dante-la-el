@@ -88,7 +88,7 @@ Front matter and the index use the same page markers and footnote labels. Roman 
    - Pages without footnotes (`078`, `087`, `088`, `143`, `200`, `331`, `452`, `457`) and pages with only a continued note (`454`, `456`).
    - Hyphenated words across pages, in prose (about 26 cases) and in notes (`084`→`085`, `233`→`234`, `281`→`282`).
    - Lines starting with a number followed by a period inside footnotes, which must not be taken as verse notes.
-3. **Verify**: the number of verses per canto matches the standard text; every footnote of `ocr/` appears once.
+3. **Verify**: the verse lines of each canto are compared line by line with the Italian text of [dante-corpus](https://github.com/7shi/dante-corpus) (`src/inferno/NN.txt`, one verse per line). For `texts/en` all 4,720 lines align; the five lines below 0.75 similarity (letters only, accents removed) are readings of this edition (e.g. XXIII 63 *in Cologna* / *in Clugnì*), not misplaced lines. Every footnote of `ocr/` appears once.
 4. **Footnote markers**: restore them canto by canto against the page images (can be delegated, then spot-checked).
 
 
