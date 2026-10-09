@@ -41,6 +41,10 @@ follow these conventions:
   number.
 * Small capitals in running text are written in uppercase; the first word of a
   canto is written in normal case.
+* Quotation marks and apostrophes are curly (`“ ” ‘ ’`), as printed. They are
+  not balanced artificially: a quotation running over several paragraphs opens
+  each paragraph and closes only at the end, and quotations that continue
+  across pages are left open on the page.
 * Blank pages are marked `[Blank page]`, and the covers `[Cover]`.
 
 ## Plan
