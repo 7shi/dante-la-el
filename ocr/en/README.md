@@ -16,6 +16,11 @@ The scanned copy carries the bookplate of Bertrand and Alys Russell
 Each `.png` has its transcription in the `.txt` with the same name
 (`001.png`, `001.txt`, ... `514.txt`).
 
+## Index
+
+See [INDEX.md](INDEX.md) for the structure of the book and the mapping from
+the front matter, cantos, and back matter to page files.
+
 ## Source
 
 * [Dante's divine comedy : the inferno, a literal prose translation, with the text of the original collated from the best editions and explanatory notes - MacSphere](http://hdl.handle.net/11375/14640)
@@ -67,6 +72,7 @@ Italian, using these as references:
 |---|---|
 | OCR | GLM-OCR via Ollama v0.23.4 (see [Makefile](../Makefile)) |
 | Proofreading | Gemini 3.8 Flash |
+| Index ([INDEX.md](INDEX.md)) | Gemini 3.8 Flash |
 | Final check | Claude Opus 5.5 |
 
 Later versions of Ollama loop on this model, so v0.23.4 was used.
