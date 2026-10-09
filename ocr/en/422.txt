@@ -1,8 +1,8 @@
-fist: it sounded like a drum; and Master Adam smote him in the face with his arm, that did not seem less hard, saying to him: "Though I am kept from moving by my weighty limbs, I have an arm free for such necessity." Thereat he answered: "When thou wast going to the fire, thou hadst it not so ready; but as ready, and more, when thou wast coining." And he of the dropsy: "In this thou sayest true; but thou wast not so true a witness there, when questioned of the truth at Troy."
-
+fist: it sounded like a drum; and Master Adam smote him in the face with his arm, that did not seem less hard, saying to him: "Though I am kept from moving by my weighty limbs, I have an arm free for such necessity." Thereat he answered: "When thou wast going to the fire, thou hadst it not so ready; but as ready, and more, when thou wast coining."
+And he of the dropsy: "In this thou sayest true; but thou wast not so true a witness there, when questioned of the truth at Troy."
 "If I spoke false, thou too didst falsify the coin," said
 
-Col pugno gli percosse l'epa croia.
+Col pugno gli percosse l' epa croia.
 Quella sonò, come fosse un tamburo:
 E mastro Adamo gli percosse il volto
 Col braccio suo, che non parve men duro,
@@ -15,10 +15,10 @@ Ma sì e più l' avei quando coniavi.
 E l' idropico: Tu di' ver di questo;
 Ma tu non fosti sì ver testimonio,
 Là 've del ver fosti a Troia richiesto.
-S' io dissi false, e tu falsasti il conio,
+S' io dissi falso, e tu falsasti il conio,
 
 that, too, by such a despicable hireling coiner.
+
 1 "Not less hard" and swollen than his rigid paunch.
 2 Lit.: "Though to move is taken away from me, by the limbs that are heavy," &c.
 3 Thou hadst a ready arm for coining, indeed; and wast bound and burnt for it.
-

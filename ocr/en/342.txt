@@ -11,7 +11,7 @@ Su per lo scoglio prendemmo la via,
 Ch' era ronchioso, stretto e malagevole,
 Ed erto più assai che quel di pria.
 Parlando andava per non parer fievole,
-Onde una voce uscio dall' altro fosso,
+Onde una voce uscìo dall' altro fosso,
 A parole formar disconvenevole.
 Non so che disse, ancor che sovra il dosso
 Fossi dell' arco già, che varca quivi;
@@ -19,6 +19,5 @@ Ma chi parlava ad ira parea mosso.
 Io era volto in giù; ma gli occhi vivi
 Non potean ire al fondo per l' oscuro:
 
-1. Spoke as I went on.
-2. Confused with rage.
-
+1 Spoke as I went on.
+2 Confused with rage.

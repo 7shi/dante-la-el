@@ -1,8 +1,8 @@
 # English and Italian text
 
-This directory contains page images and OCR transcriptions (not yet
-proofread) of John A. Carlyle's *Dante's Divine Comedy: The Inferno. A Literal
-Prose Translation, with the Text of the Original Collated from the Best
+This directory contains page images and proofread OCR transcriptions of
+John A. Carlyle's *Dante's Divine Comedy: The Inferno. A Literal Prose
+Translation, with the Text of the Original Collated from the Best
 Editions, and Explanatory Notes*, fifth edition (London: George Bell & Sons,
 1889; printed at the Chiswick Press). The title page is [009.png](009.png).
 
@@ -26,9 +26,22 @@ translator, edition, and publisher above are taken from the title page.
 
 ## Notes on the transcriptions
 
-The `.txt` files are the raw output of GLM-OCR. Pages without text (blank
-pages, plates) may contain only an empty Markdown code block, and pages with
-little text may be misread.
+The GLM-OCR output was proofread against the page images. The transcriptions
+follow these conventions:
+
+* The print is followed as is, including spellings and accents that differ
+  from modern editions of Dante; only damaged type is written as the intended
+  letter.
+* Prose is one paragraph per line, and Italian verse is one line per verse,
+  without blank lines between tercets. Blocks (prose, verse, verse notes,
+  footnotes) are separated by blank lines.
+* Running heads, page numbers, verse numbers, and footnote reference marks in
+  the body are omitted. Footnotes are written as `1 text...` at the end of the
+  page; a footnote continued from the previous page comes first, without a
+  number.
+* Small capitals in running text are written in uppercase; the first word of a
+  canto is written in normal case.
+* Blank pages are marked `[Blank page]`, and the covers `[Cover]`.
 
 ## Plan
 
@@ -49,5 +62,7 @@ Italian, using these as references:
 | Step | Model |
 |---|---|
 | OCR | GLM-OCR via Ollama v0.23.4 (see [Makefile](../Makefile)) |
+| Proofreading | Gemini 3.8 Flash |
+| Final check | Claude Opus 5.5 |
 
 Later versions of Ollama loop on this model, so v0.23.4 was used.

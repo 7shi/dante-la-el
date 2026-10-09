@@ -3,7 +3,7 @@ could return to the world, this flame should shake no more. But since none ever 
 "I was a man of arms; and then became a Cordelier, hoping, thus girt, to make amends. And certainly my hope were come in full, but for the Great Priest, may ill befall him! who brought me back to my first sins: and how and why, I wish thee to hear from me. Whilst I was the form of bones and pulp, which my mother gave me, my deeds were not those of the lion, but of the fox.
 
 A persona che mai tornasse al mondo,
-Questa flamma staria senza più scosse:
+Questa fiamma staria senza più scosse:
 Ma perciocchè giammai di questo fondo
 Non tornò vivo alcun, s' io odo il vero,
 Senza tema d' infamia ti rispondo.
@@ -21,4 +21,3 @@ Non furon leonine, ma di volpe.
 2 "Cordelier:" or monk, girt with the Cord of St. Francis.
 3 Or, "had been fulfilled:" I should have been in Heaven instead of here.
 4 Pope Boniface VIII.
-
