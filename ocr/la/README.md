@@ -24,8 +24,8 @@ Italian essay by the editors.
 The front matter is numbered in Roman numerals from V to XLVIII; the file
 number is the printed page number plus 6. The main body is numbered from 1 to
 1236; the file number is the printed page number plus 54. No pages are
-missing or duplicated. Blank pages are transcribed as empty files or
-`(blank page)`.
+missing or duplicated. Blank pages are transcribed as
+`[Blank page]`.
 
 ## Credits
 

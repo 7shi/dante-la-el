@@ -20,7 +20,7 @@ The relationship between file numbers (`NNN.txt`) and printed book page numbers 
    - [286.txt](286.txt) is the blank verso of page 265 ([p. 266]).
    - [287.txt](287.txt) is the section half-title for the Notes: *ΣΗΜΕΙΩΣΕΙΣ.* ([p. 267]).
    - [288.txt](288.txt) is the blank verso of the half-title ([p. 268]).
-   - Both [286.txt](286.txt) and [288.txt](288.txt) contain no printed text and their transcriptions are intentionally empty.
+   - Both [286.txt](286.txt) and [288.txt](288.txt) contain no printed text and are transcribed as `[Blank page]`.
 4. **Explanatory Endnotes: *Σημειώσεις* ([289.txt](289.txt)–[351.txt](351.txt))**:
    - Printed pages 269 through 331.
    - **Uniform Offset: +20** (`file_number = printed_page + 20`).
@@ -106,7 +106,7 @@ The notes are collected in a single continuous scholarly commentary following th
 
 | Section | Printed Pages | File Range | Content / Selected Topics |
 |---|---|---|---|
-| **Half-Title Leaf** | [pp. 267–268] | [287.txt](287.txt)–[288.txt](288.txt) | Recto: *ΣΗΜΕΙΩΣΕΙΣ.* ([287.txt](287.txt)); Verso: Blank ([288.txt](288.txt), empty file) |
+| **Half-Title Leaf** | [pp. 267–268] | [287.txt](287.txt)–[288.txt](288.txt) | Recto: *ΣΗΜΕΙΩΣΕΙΣ.* ([287.txt](287.txt)); Verso: Blank ([288.txt](288.txt), `[Blank page]`) |
 | **Notes to Cantos I–IV** | pp. 269–275 | [289.txt](289.txt)–[295.txt](295.txt) | Dante's age in 1300; biblical citations (Jeremiah); political and moral interpretations of the three beasts; the Greyhound (*Veltro*); Christ's descent to Limbo; the noble castle. |
 | **Notes to Cantos V–VIII** | pp. 275–283 | [295.txt](295.txt)–[303.txt](303.txt) | Paolo and Francesca with Old French romance citations; Ciacco and the White/Black Guelf feuds in Florence; Plutus/Pluto and Dis; Fortune and celestial intelligences; Filippo Argenti. |
 | **Notes to Cantos IX–XII** | pp. 283–290 | [303.txt](303.txt)–[310.txt](310.txt) | The Furies and Medusa; Farinata and Epicurean heresy; Emperor Frederick II; Pope Anastasius II; classification of sins based on Aristotle and Cicero; the Centaurs and Phlegethon. |
@@ -125,10 +125,10 @@ The notes are collected in a single continuous scholarly commentary following th
    - The offset between the scanned file number and printed book page is strictly **+20** throughout:
      `file_number = printed_page + 20`
    - This holds from printed page 1 ([021.txt](021.txt)) through the final printed page 331 ([351.txt](351.txt)). No scanned pages are missing or duplicated in this digitisation.
-2. **Blank Leaves / Empty Transcriptions**:
+2. **Blank Leaves**:
    - [286.txt](286.txt) corresponds to unnumbered page [266] (the blank verso following the end of Canto XXXIV).
    - [288.txt](288.txt) corresponds to unnumbered page [268] (the blank verso of the *ΣΗΜΕΙΩΣΕΙΣ* half-title).
-   - Both files are intentionally blank with 0 bytes, exactly reflecting the printed volume.
+   - Both files are transcribed as `[Blank page]`, reflecting the printed volume.
 3. **Running Header Typographical Error in Notes**:
    - On printed page 278 ([298.txt](298.txt)), the running header reads `Εἰς ᾨδὴν Ε΄.` (Canto V), but the text on this page is the commentary on Canto VI (discussing Ciacco, the White and Black Guelfs, and line 73). Commentary on Canto VII begins on page 279 ([299.txt](299.txt)).
 4. **Dual Errata Lists**:

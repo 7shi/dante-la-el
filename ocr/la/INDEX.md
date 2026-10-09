@@ -13,7 +13,7 @@ The volume contains an explicit printed index: **INDEX** on printed pages 1235�
 The relationship between scanned file numbers (`NNNN.txt`) and printed page numbers is completely uniform throughout the entire volume across two pagination systems:
 
 1. **Unpaginated Front Matter ([0001.txt](0001.txt)–[0010.txt](0010.txt))**:
-   - Library leaves, half-titles, full title page (Prato, 1891), and Diocesan Imprimatur.
+   - Front cover, library leaves, half-titles, full title page (Prato, 1891), and Diocesan Imprimatur.
 2. **Roman-Paginated Front Matter ([0011.txt](0011.txt)–[0054.txt](0054.txt))**:
    - Numbered with Roman numerals from p. V through p. XLVIII.
    - **Uniform Offset: +6** (`file_number = roman_page_number + 6`).
@@ -22,8 +22,8 @@ The relationship between scanned file numbers (`NNNN.txt`) and printed page numb
    - **Uniform Offset: +54** (`file_number = printed_page_number + 54`).
    - Every single printed page from 1 to 1236 is present with zero missing, duplicated, or misordered leaves.
 4. **Blank Versos and Section Transitions**:
-   - 63 files in `ocr/la/` have empty transcriptions (0 bytes or blank).
-   - All 63 correspond exactly to legitimate unpaginated leaves, half-title versos, or blank versos preceding rectos where each new Canto starts. Every Canto begins on an odd-numbered recto.
+   - 62 files in `ocr/la/` are blank pages, transcribed as `[Blank page]`.
+   - All 62 correspond exactly to legitimate unpaginated leaves, half-title versos, or blank versos preceding rectos where each new Canto starts. Every Canto begins on an odd-numbered recto.
 5. **Back Matter ([1291.txt](1291.txt)–[1296.txt](1296.txt))**:
    - Unpaginated library date leaf, barcode label ([1293.txt](1293.txt)), and endpapers.
 
@@ -35,8 +35,8 @@ Offset for Roman pages V–XLVIII is strictly **+6** (`file_number = roman_page 
 
 | Item / Section | Printed Page | File | Description |
 |---|---|---|---|
-| Shelfmark Flyleaf | — | [0001.txt](0001.txt) | Blank flyleaf recto |
-| Bookplate | — | [0002.txt](0002.txt) | Stanford University Libraries bookplate: *Gift of Mrs. Timothy Hopkins* |
+| Front Cover | — | [0001.txt](0001.txt) | Front cover binding, transcribed as `[Cover]` |
+| Bookplate | — | [0002.txt](0002.txt) | Front pastedown (marbled paper) with bookplate *Ex Libris Giorgio Fanan* |
 | Flyleaf Verso | — | [0003.txt](0003.txt) | Blank verso |
 | Shelfmark Leaf | — | [0004.txt](0004.txt) | Handwritten library shelfmark: `B - IV° - 3` |
 | Flyleaf Verso | — | [0005.txt](0005.txt) | Blank verso |
@@ -224,9 +224,9 @@ Offset for printed pages 1217–1236 is strictly **+54** (`file_number = printed
    - **Arabic main body (pp. 1–1236)**: Strictly offset **+54** (`file_number = printed_page + 54`).
    - Across all 1,236 numbered pages and 1,296 scanned files, there are **zero omitted, duplicated, or misordered pages**.
 
-2. **Catalog of Blank Pages (63 files)**:
-   - All 63 empty/blank files in `ocr/la/` correspond to intentional book design elements:
-     - Front unpaginated flyleaves and half-title versos: [0001.txt](0001.txt), [0003.txt](0003.txt), [0005.txt](0005.txt), [0006.txt](0006.txt), [0008.txt](0008.txt).
+2. **Catalog of Blank Pages (62 files)**:
+   - All 62 blank-page files in `ocr/la/` correspond to intentional book design elements:
+     - Front unpaginated flyleaves and half-title versos: [0003.txt](0003.txt), [0005.txt](0005.txt), [0006.txt](0006.txt), [0008.txt](0008.txt).
      - Front matter half-title versos: [0012.txt](0012.txt) (p. VI), [0044.txt](0044.txt) (p. XXXVIII).
      - Section half-title versos: [0056.txt](0056.txt) (p. 2), [0058.txt](0058.txt) (p. 4), [0872.txt](0872.txt) (p. 818), [1272.txt](1272.txt) (p. 1218).
      - Blank versos preceding rectos where each new Canto or section starts:

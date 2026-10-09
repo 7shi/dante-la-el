@@ -13,7 +13,7 @@ The physical book contains no formal printed Table of Contents for the individua
 The relationship between file numbers (`NNN.txt`) and printed book page numbers is characterized by two distinct offsets due to a omitted scanning leaf:
 
 1. **Front Matter (`001.txt`–`013.txt`)**:
-   - Library leaves, half-title, frontispiece, title page, and Seneca epigraph (unpaginated).
+   - Front cover, library leaves, half-title, frontispiece, title page, and Seneca epigraph (unpaginated).
 2. **Main Text and Notes: Cantos I through XXXIV early portion (`014.txt`–`396.txt`)**:
    - Printed pages 2 through 384.
    - **Offset: +12** (`file_number = printed_page + 12`).
@@ -31,7 +31,7 @@ The relationship between file numbers (`NNN.txt`) and printed book page numbers 
 
 | Item | Printed Page | File | Description |
 |---|---|---|---|
-| Spine / Library Label | — | [`001.txt`](001.txt) | UC-NRLF classification label `$B 257 410` |
+| Front Cover | — | [`001.txt`](001.txt) | Front cover binding (with UC-NRLF classification label `$B 257 410`), transcribed as `[Cover]` |
 | Bookplate | — | [`002.txt`](002.txt) | University of California Library, Gift of Henry Morse Stephens |
 | Bookplate Verso | — | [`003.txt`](003.txt) | Blank / offset |
 | Flyleaf | — | [`004.txt`](004.txt) | Blank leaf |

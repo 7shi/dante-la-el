@@ -82,7 +82,7 @@ careful comparison with the images.
 
 Some transcriptions omitted words or entire lines. Others added English
 explanations, Markdown formatting, or descriptions of scanning watermarks.
-Pages 286 and 288 contain no book text; their transcriptions are empty. Visible
+Pages 286 and 288 contain no book text; they are transcribed as `[Blank page]`. Visible
 library stamps are retained as Greek text: `ΠΑΝΕΠΙΣΤΗΜΙΟ ΚΡΗΤΗΣ` (University of
 Crete) on several pages, including [001.txt](001.txt), and `ΒΙΒΛΙΟΘΗΚΗ ΙΩΑΝΝΟΥ
 ΚΑΛΙΤΣΟΥΝΑΚΗ` on [004.txt](004.txt) and the final page.
