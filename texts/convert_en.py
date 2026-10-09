@@ -134,6 +134,7 @@ class Page:
         self.notes = []  # list of [number, paragraphs]; paragraph = list of lines
         self.cont = []  # paragraphs continuing the previous page's last note
         self.tail = []  # blocks after the notes (closing lines)
+        self.refs = []  # note numbers referenced in the text
 
 
 def title_case(s):
@@ -290,7 +291,26 @@ def render_notes(page):
     return out
 
 
+SUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
+
+
+def note_refs(page, text):
+    """Turn superscript note markers (¹, ²…) into footnote references."""
+    label = (page_label(page.n) or "").strip("[]")
+
+    def ref(m):
+        n = int(m.group().translate(SUP))
+        page.refs.append(n)
+        return f"[^{label}-{n}]"
+    return re.sub(r"[⁰¹²³⁴⁵⁶⁷⁸⁹]+", ref, text)
+
+
 def render_page(page, verse_no=None):
+    out = render_content(page, verse_no)
+    return [out[0]] + [x if x.startswith("[^") else note_refs(page, x) for x in out[1:]]
+
+
+def render_content(page, verse_no):
     out = [marker(page.n)]
     for level, text in page.headings:
         out.append("#" * level + " " + text)
@@ -315,6 +335,17 @@ def render_page(page, verse_no=None):
     return out
 
 
+def check_refs(pages, errors, missing):
+    for p in pages:
+        nums = [x[0] for x in p.notes]
+        if sorted(p.refs) != sorted(set(p.refs)) or not set(p.refs) <= set(nums):
+            errors.append(f"{p.n:03d}: note markers {p.refs}, notes {nums}")
+        elif nums and not p.refs:
+            missing.append(f"{p.n:03d}")
+        elif set(p.refs) != set(nums):
+            errors.append(f"{p.n:03d}: note markers {p.refs}, notes {nums}")
+
+
 def write(num, slug, parts):
     path = DST / f"{num:03d}-{slug}.md"
     path.write_text("\n\n".join(parts) + "\n", encoding="utf-8")
@@ -327,13 +358,15 @@ def is_blank(n):
 def main():
     DST.mkdir(parents=True, exist_ok=True)
     num = 0
+    errors = []
+    missing = []  # pages whose note markers are not restored yet
     for slug, rng in FRONT:
         num += 1
         pages = [parse_plain(n, i == 0) for i, n in enumerate(rng)]
         link_pages(pages)
         write(num, slug, [x for p in pages for x in render_page(p)])
+        check_refs(pages, errors, missing)
 
-    errors = []
     for c, (first, last) in enumerate(CANTO_PAGES, 1):
         num += 1
         arg = parse_plain(first, True)
@@ -344,6 +377,7 @@ def main():
         parts += render_page(arg)
         for p in body:
             parts += render_page(p, verse_no)
+        check_refs([arg] + body, errors, missing)
         if verse_no[0] != VERSES[c - 1]:
             errors.append(f"canto {c}: {verse_no[0]} verses, expected {VERSES[c - 1]}")
         for p in body:
@@ -361,6 +395,8 @@ def main():
         print("ERROR", e)
     for u in UNDECIDED:
         print("HYPHEN", u)
+    if missing:
+        print("NO MARKERS", len(missing), "pages:", " ".join(missing))
 
 
 if __name__ == "__main__":
