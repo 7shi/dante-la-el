@@ -1,0 +1,41 @@
+<!-- (005) -->
+
+THE INFERNO.
+
+<!-- (006) -->
+
+[Frontispiece: portrait of Dante Alighieri]
+
+<!-- (009) -->
+
+DANTE’S DIVINE COMEDY:
+
+THE INFERNO.
+
+A Literal Prose Translation,
+
+WITH
+
+THE TEXT OF THE ORIGINAL COLLATED FROM THE BEST EDITIONS, AND EXPLANATORY NOTES.
+
+BY
+
+JOHN A. CARLYLE, M.D.
+
+O degli altri poeti onore e lume,\
+Vagliami il lungo studio e il grande amore,\
+Che m’ han fatto cercar lo tuo volume.
+
+Infern. i. 82-4.
+
+FIFTH EDITION.
+
+LONDON: GEORGE BELL & SONS, YORK STREET,\
+COVENT GARDEN.
+
+1889.
+
+<!-- (010) -->
+
+CHISWICK PRESS:—C. WHITTINGHAM AND CO., TOOKS COURT,\
+CHANCERY LANE.

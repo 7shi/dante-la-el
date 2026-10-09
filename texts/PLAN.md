@@ -81,7 +81,7 @@ Front matter and the index use the same page markers and footnote labels. Roman 
 
 ### Procedure
 
-1. **Script** (`scripts/` or `texts/`): from INDEX.md's page ranges, classify the blocks on each page (prose, verse, verse notes `^\d+\. `, footnotes `^\d+ `, unnumbered continuation), and write the files with page markers, verse indentation and numbers, footnote labels, and merged continuations.
+1. **Script**: [`convert_en.py`](convert_en.py) (`uv run texts/convert_en.py`). It classifies the blocks on each page (prose, verse, verse notes `^\d+\. `, footnotes `^\d+ `, unnumbered continuation), telling Italian verse from short English lines by common function words, and writes the files with page markers, verse indentation and numbers, footnote labels, and merged continuations. It checks the verse count of each canto against the standard text and the footnote numbering of each page, and lists the hyphen joins it could not decide from the vocabulary.
 2. **Irregularities to check by hand** (found during the investigation):
    - Tercets are sometimes separated by blank lines against the `ocr/en` convention (`062`, `069`, `070`, `080`, `081`, …). The script should not depend on blank lines inside the verse; the inconsistencies can be fixed in `ocr/` first.
    - Notes containing blank lines (multi-paragraph notes, quoted verse such as Milton in `060`, `061`, `282`) must not be split into separate notes: a block without a leading number belongs to the preceding note.

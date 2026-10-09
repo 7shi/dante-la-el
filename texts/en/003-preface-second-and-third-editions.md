@@ -1,0 +1,15 @@
+<!-- p. [xiii] (019) -->
+
+# Preface to the Second Edition
+
+In this Second Edition the Translation is carefully revised, and the Italian Text freed from two or three errors of the First Edition.
+
+The greater part of the Purgatorio had been translated when the Inferno was first “sent forth, complete in itself, by way of experiment;” and the experiment has been successful in the best sense. All strangers as well as friends, for whose opinion the Translator has most respect, have urged him to complete the translation of the whole. Other occupations have hitherto stood in the way; but he now hopes to send forth the two remaining volumes, Purgatorio and Paradiso, in regular succession, regretting only that all three volumes, as he wished, were not published at once in 1849.
+
+J. A. C.
+
+September 1867.
+
+# Preface to the Third Edition
+
+This Third Edition is a careful reprint of the Second, and is issued at a price that will bring it within the reach of a wider circle of readers.
