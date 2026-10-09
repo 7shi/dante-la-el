@@ -1,7 +1,7 @@
 # Index of Giovanni da Serravalle's Translation and Commentary on Dante's *Divine Comedy*
 
 **Source**: *Fratris Iohannis de Serravalle Ordinis Minorum Episcopi et Principis Firmani Translatio et Comentum Totius Libri Dantis Aldigherii cum Textu Italico Fratris Bartholomaei a Colle eiusdem Ordinis nunc primum in lucem editum*, edited by Fr. Marcellino da Civezza and Fr. Teofilo Domenichelli. Prato: Ex Officina Libraria Marcelli Vestri, 1891.  
-**Digitization**: Stanford University Libraries (copy gifted by Mrs. Timothy Hopkins, shelfmark `B - IV° - 3`, barcode `3 6105 012 188 566`).  
+**Digitization**: Stanford University Libraries, digitized by Google (bookplate *Ex Libris Giorgio Fanan*, shelfmark `B - IV° - 3`, barcode `3 6105 00028 7107`).  
 **Volume Characteristics**: A monumental scholarly edition comprising 1,296 scanned pages. It contains Giovanni da Serravalle's 1416–1417 line-by-line Latin translation of and Latin commentary (*Comentum*) on Dante's entire *Divine Comedy*, commissioned during the Council of Constance by Cardinal Amideus of Saluzzo and the English bishops Nicholas Buduich (Bath and Wells) and Robert Hallam (Salisbury). Alongside the Latin text, it provides the Italian verse text attributed to Bartholomew of Colle (*Bartholomaeus a Colle*), extensive modern Italian editorial essays following each Canto, historical documents, and Bartholomew's Latin commentary fragments.
 
 ---
@@ -211,7 +211,7 @@ Offset for printed pages 1217–1236 is strictly **+54** (`file_number = printed
 | **Appendix Text** | Frater Bartholomaeus a Colle | pp. 1219–1234 | [1273.txt](1273.txt)–[1288.txt](1288.txt) | Latin commentary fragments on the *Paradiso* by Bartholomew of Colle; concludes on p. 1233 ([1287.txt](1287.txt)); p. 1234 blank ([1288.txt](1288.txt)) |
 | **Volume Index** | *INDEX* | pp. 1235–1236 | [1289.txt](1289.txt)–[1290.txt](1290.txt) | Printed table of contents of the entire edition, listing front matter, cantos, and editorial essays |
 | **End Flyleaf** | Library Matter | — | [1291.txt](1291.txt)–[1292.txt](1292.txt) | Blank flyleaf |
-| **Barcode Slip** | Stanford University | — | [1293.txt](1293.txt) | Library barcode label: `3 6105 012 188 566` |
+| **Barcode Slip** | Stanford University | — | [1293.txt](1293.txt) | Library barcode label: `3 6105 00028 7107` |
 | **Endpapers** | Binding | — | [1294.txt](1294.txt)–[1296.txt](1296.txt) | Blank binder leaves |
 
 ---
