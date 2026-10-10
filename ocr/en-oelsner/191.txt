@@ -3,7 +3,7 @@ FERRARA
 R. Volane
 Volane'
 Comacchio
-R. Reno
+R. Rheno
 R. Savena
 Bologna
 Imola
@@ -15,7 +15,7 @@ FORLI
 RAVENNA
 Cesena
 RIMINI
-S. Benedetto
+S. Beneddeto
 Verruchio
 FLORENCE
 R. Arno

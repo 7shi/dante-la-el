@@ -1,4 +1,4 @@
-**INFERNO**
+INFERNO
 
 THIS Ninth and Last, or frozen Circle, lowest part
 of the Universe, and farthest remote from the
@@ -12,8 +12,7 @@ country" (Pietro di Dante, &c.), is filled with those
 who have been guilty of treachery against their native
 land. Dante finds many of his own countrymen,
 
-Cerchio IX. S' io avessi le rime aspre e chiocce,
-Cocito
+**Cerchio IX. Cocito** S' io avessi le rime aspre e chiocce,
 come si converrebbe al tristo buco,
 sopra il qual pontan tutte l' altre rocce,
 io premerei di mio concetto il suco

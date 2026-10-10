@@ -1,4 +1,4 @@
-**INFERNO**
+INFERNO
 
 THE numberless Shadows of discord and bloody strife
 have filled the Poet's eyes with tears; and he still
@@ -10,11 +10,10 @@ pointing with angry gesture, and then departing in
 the crowd (1-37). From the arch of the Tenth Chasm,
 Dante now hears the wailings of a new class of sinners,
 
-Cerchio La molta gente e le diverse piaghe
-VIII. avean le luci mie sì inebriate,
-Cammino che dello stare a piangere eran vaghe;
-alla
-Bolgia ¹⁰ ma Virgilio mi disse: “Che pur guate?
+**Cerchio VIII. Cammino alla Bolgia 10** La molta gente e le diverse piaghe
+avean le luci mie sì inebriate,
+che dello stare a piangere eran vaghe;
+ma Virgilio mi disse: “Che pur guate?
 perchè la vista tua pur sì soffolge
 laggiù tra l' ombre triste smozzicate?
 Tu non hai fatto sì all' altre bolge;

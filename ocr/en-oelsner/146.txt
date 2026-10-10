@@ -1,4 +1,4 @@
-**INFERNO**
+INFERNO
 
 THE Second Round, or ring, of the Seventh Circle;
 the dismal mystic Wood of Self-murderers. The
@@ -11,9 +11,9 @@ Vigne, is one of the suicides; and he tells Dante what
 had made him destroy himself, and also in what manner
 the souls are converted into those uncouth trees (31-108).
 
-Cerchio Non era ancor di là Nesso arrivato,
-VII. quando noi ci mettemmo per un bosco,
-Girone 2 che da nessun sentiero era segnato.
+**Cerchio VII. Girone 2** Non era ancor di là Nesso arrivato,
+quando noi ci mettemmo per un bosco,
+che da nessun sentiero era segnato.
 Non frondi verdi, ma di color fosco;
 non rami schietti, ma nodosi e involti;
 non pomi v' eran, ma stecchi con tosco.
@@ -32,4 +32,4 @@ mi cominciò a dire, "e sarai, mentre
 che tu verrai nell' orribil sabbione.
 Però riguarda bene, e sì vedrai
 cose che torrien fede al mio sermone."
-²³⁴
+134

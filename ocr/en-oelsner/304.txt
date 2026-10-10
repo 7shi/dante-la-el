@@ -1,9 +1,9 @@
 292
 INFERNO
 
-Cerchio Lo maggior corno della fiamma antica
-VIII. cominciò a crollarsi mormorando,
-Bolgia 8 pur come quella cui vento affatica.
+**Cerchio VIII. Bolgia 8** Lo maggior corno della fiamma antica
+cominciò a crollarsi mormorando,
+pur come quella cui vento affatica.
 Indi la cima qua e là menando,
 come fosse la lingua che parlasse,
 gittò voce di fuori e disse : “Quando
@@ -24,7 +24,8 @@ fin nel Marrocco, e l’ isola de’ Sardi,
 e l’ altre che quel mare intorno bagna.
 Io e i compagni eravam vecchi e tardi,
 quando venimmo a quella foce stretta,
-ov’ Ercole segnò li suoi riguardi, acciocchè l’uom più oltre non si metta ;
+ov’ Ercole segnò li suoi riguardi,
+acciocchè l’uom più oltre non si metta ;
 dalla man destra mi lasciai Sibilia,
 dall’ altra già m’ avea lasciata Setta.
 ‘O frati,’ dissi, ‘che per cento milia
