@@ -4,7 +4,7 @@
 
 In this brief sketch of the Position and Form of Dante’s Hell and his Journey through it, I avoid the usual conjectures, and state nothing but what is warranted by his own authority, quoting it for the sake of all faithful students, as follows:
 
-Our Earth rests “forever fixed and stable” in the Centre of Dante’s universe (Conv. Tr. iii. c. 5), and the Heavens with their Planets and Stars go revolving round
+Our Earth rests “forever fixed and stable” in the Centre of Dante’s universe (Conv. Tr. iii. c. 5), and the Heavens[^xli-1] with their Planets and Stars go revolving round
 
 [^xli-1]: These Heavens with their inhabitants form the proper subject of the Paradiso. But Dante also enumerates them in the second Treatise and fourth chapter of his Convito, or Banquet; and mentions the order in which they come—following the Ancient Astronomical System, which makes our Earth stand motionless in the Centre. The Heavens, he tells us, are Ten in number. Of these, the first with regard to our Earth is the Heaven of the Moon, “which has the smallest circles” (Inf. ii. 78), or includes the smallest space in its revolutions, and moves slowest; the second, of Mercury; the third, of Venus; the fourth, of the Sun, which also is regarded as a “Planet” (Inf. i. 17); the fifth, of Mars; the sixth, of Jupiter; the seventh, of Saturn; the eighth, of the Stars proper; the ninth, or Primum Mobile, is the “Crystalline, that is, the diaphanous, or quite transparent Heaven, which is not discernible except by the motion it gives” to the other eight Heavens that it includes. Beyond, or “outside of all these,” he adds, “Catholics place the Empyreal Heaven, that is to say, Heaven of flame, or luminous Heaven; and represent it as being immoveable,” &c. It is also the “divinest Heaven, the Heaven of rest,” or peculiar abode of the Almighty: of which our own Milton thus speaks:
 
@@ -53,7 +53,7 @@ that are met with lower down. Crowds of guilty souls are seen assembling, in rap
 
 By supernatural means Dante is transported across the Stream. Gazing round, he finds himself upon the very “edge of the Abyss,” and is led down by his Guide (iv. 13, &c.) into the First Circle, or Limbo, which contains the Heathen men, women, and children who lived without Baptism or Christianity. Virgil delicately rouses his attention as they enter: “Thou askest not what spirits are these thou seest?” &c. The great ancient Poets come forth to meet them, and receive Dante as one of their number. And from “a place open, luminous, and high,” the ancient Heroes and Sages are significantly shewn to him, face to face; and he “is exalted, or grows higher, by having seen them.” Cæsar is there—an Emperor with harness on, and with falcon eyes; and Saladin, apart and solitary.
 
-On descending to the Second Circle, Dante finds Minos the Infernal Judge stationed at its entrance, for the reason given in the Argument to canto v. This circle is the place of Francesca.
+On descending to the Second Circle, Dante finds Minos the Infernal Judge stationed at its entrance, for the reason given in the Argument to canto v. This circle is the place of Francesca.[^xlv-1]
 
 Dante is carried, again by supernatural agency, from
 
