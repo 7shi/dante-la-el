@@ -7,7 +7,7 @@ The page-by-page transcriptions in `ocr/{dir}/NNN.txt` are reorganized into sect
 | Directory | Status |
 |---|---|
 | `texts/en/` | Done: converted, verified against dante-corpus, footnote markers restored on every page. |
-| `texts/en-oelsner/` | Not started. |
+| `texts/en-oelsner/` | Done: `ocr/` normalized (labels, paragraph breaks) and converted; Italian verified against dante-corpus, English against `texts/en`. |
 | `texts/la/` | Not started; the missing Italian column must be retranscribed in `ocr/la/` first. |
 | `texts/grc/` | Not started. |
 
@@ -103,7 +103,7 @@ Front matter and the index use the same page markers and footnote labels. Roman 
 
 ## `texts/en-oelsner/` — Temple Classics edition (`ocr/en-oelsner/`, 1903)
 
-Structure reference: [`ocr/en-oelsner/INDEX.md`](../ocr/en-oelsner/INDEX.md). The leaf with pp. 385–386 (Canto XXXIV) is missing from the scan.
+Done. Contents and reading notes: [`en-oelsner/README.md`](en-oelsner/README.md). Structure reference: [`ocr/en-oelsner/INDEX.md`](../ocr/en-oelsner/INDEX.md). The leaf with pp. 385–386 (Canto XXXIV) is missing from the scan.
 
 ### Files
 
@@ -122,22 +122,27 @@ Excluded: `001`–`006`, `009`, `012`, `413`–`416`.
 
 ### Layout
 
-- **Facing pages**: Italian on even pages, English on odd pages, aligned tercet by tercet. Pages stay in order (Italian page, then English page), so each spread reads as Italian followed by its English.
-- **Argument**: printed across the tops of the first spread (p. 2 and p. 3). It is kept as one `## Argument` at the head of the file with the `p. 3` marker inside it, and the Italian of p. 2 follows. This is the one place where print order is relaxed, because splitting the summary around 21 verses would break it.
-- **Verse**: tercets with lines 2–3 indented, as in `texts/en`. The printed tercet numbers (`(7)`, `(10)`, …, at the first line of each tercet) are kept as `<!-- 7 -->` comments.
+- **Spreads**: Italian on even pages, English on odd pages, aligned tercet by tercet; each English page translates exactly the tercets of the facing Italian page. Markdown cannot set the two pages side by side, so a spread is read band by band: what is printed across the top of both pages, then the Italian page, then the English page, then what is printed across the bottom of both pages. A page that appears in a second band gets its marker again with the band named (`<!-- p. 2 (014), text -->`, `<!-- p. 10 (022), notes -->`).
+- **Argument**: printed across the top of the first spread (p. 2 and p. 3). It comes first, under `## Argument` (not printed; the book has no heading), with both page markers, followed by the text band of the same spread.
+- **Verse**: tercets with lines 2–3 indented, as in `texts/en`. The printed tercet numbers (`4`, `7`, … at the first line of each tercet) are transcribed inconsistently in `ocr/` (at the line end, as `(7)`, as superscripts, as a column after the verse, sometimes misplaced or misread), so the script removes them and computes them by counting lines from the start of the canto, and prints them as plain numbers at the line end (`… fianco 4`), as in the book; the text has no numbers that they could be confused with. The canto's last line, set alone, is translated in the last English tercet paragraph.
 - **English**: one paragraph per tercet, as printed.
-- **Marginal labels** (`Proemio`, `Selva oscura`, `Dante`, `The Leopard`) are printed text and are kept, as a bold label at the start of the line or paragraph they stand beside (`**Il Colle** Ma poi ch' io fui …`).
-- **Notes** are endnotes keyed to verse numbers (`73-75. …`), printed after the canto. They stay as plain paragraphs under the printed `NOTES` heading (`## Notes`); no footnote syntax.
-- **Maps, plates, tables** are kept where they are printed, with their transcribed text.
-- **Missing leaf**: `<!-- pp. 385–386 missing from the scan -->` between `396` and `397`.
+- **Marginal labels** are the editor's sidenotes, not part of the text: on the Italian pages the place in Hell (`Proemio`, `Vestibolo`, `Cerchio VIII. Bolgia 3`, repeated at the top of each page) and occasional scenes (`Selva oscura`, `Il Colle`); on the English pages the subject or speaker (`Dante and Virgil`, `The Leopard`, `Charon`). They are kept out of the text as machine-readable comments at the end of the verse line or English paragraph they stand beside (`… giunto, 13 <!-- label: Il Colle -->`), one comment per label, including the repetitions at the top of each page. Their rendering can be changed later by processing these comments.
+- **Notes** are keyed to verse numbers (`73-75. …`) and begin right after the canto's last verse, running across the bottoms of the remaining pages and over whole pages. The book prints no heading for them (`NOTES` is only the running head of the pages of notes); `## Notes` is added at their start, after the text band of the spread where they begin. They stay plain paragraphs, no footnote syntax. A paragraph running over a page is joined on the earlier page.
+- **Maps, plates, tables** are kept where they are printed, with their transcribed text line by line. The *Section of Malebolge* diagram on p. 272 (`284`) has no text.
+- **Missing leaf**: `<!-- pp. 385–386 missing from the scan -->` between `396` (p. 384, Italian vv. 19–51 of Canto XXXIV) and `397` (p. 387, English vv. 52–84).
 
 ### Conversion notes for `ocr/en-oelsner/`
 
-- Lines are broken as printed, with line-end hyphenation (`de-` / `serted`, `014`); the script joins them.
-- Running heads and page numbers are transcribed (`CANTO I` on `015`, page number `2` at the end of `014`); the script removes them. Some are misread (`CANTO I II` on `023`, `206 INFERNO` for 266 on `278`), so they are recognized by position (first and last line of the page), not by an exact pattern.
-- Marginal labels are marked `**…**` on the Italian pages but run into the line on the English pages (`I [came Dante` / `to] myself` on `015`; `017`). The English ones are misreadings for the script's purpose and are corrected in `ocr/` to the Italian pages' form.
-- The `NOTES` heading is often merged with the page number (`12 NOTES` on `024`), and only 28 of the 34 cantos have it in the transcription; the investigation names `047`, `091`, `101`, `111`, `201`, `392` as pages where the notes begin without it. Check these against the images.
-- Unlike `ocr/en`, italics are transcribed as `*…*` (146 files). They are kept as they are.
+- Script: [`convert_en_oelsner.py`](convert_en_oelsner.py) (`uv run texts/convert_en_oelsner.py`). It is separate from `convert_en.py`: the two books share little beyond hyphen handling and title case.
+- Lines are broken as printed, with line-end hyphenation (`de-` / `serted`, `014`); the script joins them, deciding with a word list from `ocr/en-oelsner` and `ocr/en` (the same translation), from which the fragments of hyphenated words are excluded, and lists the undecided cases. The cases decided by hand against the images and `ocr/en` are in `HYPHEN_FIXED` (`re-erected`, `father-in-law`, `praiseworthy`, …); an undecided case that looks like no word (`ap-` / `have`) is a misreading to correct in `ocr/`.
+- Running heads and page numbers are transcribed (`CANTO I` on `015`, `8` / `INFERNO` on two lines on `020`, page number `2` at the end of `014`), and so are the printer's signature marks at the foot of some pages (`B` on `029`, `2 C` on `411`); the script removes them. Some heads are misread (`CANTO I II` on `023`, `206 INFERNO` for 266 on `278`, `V. NOTES` on `284`), so they are recognized by position (first lines and last line of the page), not by an exact pattern.
+- `ocr/` is normalized so that the script can tell the layers apart (all against the images; delegated, then checked):
+  - Marginal labels: written once, whole, as `**Label**` at the start of the line where the label begins. In the transcription they had run into the line ends on the English pages (`I [came Dante` / `to] myself` on `015`), stood unmarked at the line start or on lines of their own on most Italian pages (`Cerchio` / `VIII.` / `Bolgia 3`), or were set bold only in places.
+  - Other bold (drop capitals, first words, running heads) is removed.
+  - English paragraph breaks (Argument, tercets, notes) are blank lines; they were missing on most pages, which made the tercets impossible to tell apart.
+  - Transcriber's notes that are not printed (`Line numbers on the right:`, `*Side notes*:` with a list of the labels, `*Map 1: …*`, `*Caption below maps:*`, marker asterisks in the genealogical tables) are deleted; `[Blank page]` stays, as the pages it marks are not converted.
+- Checks: the words of each normalized page are compared with the previous version (only `**`, label moves, and blank lines may differ); the Italian lines are compared with dante-corpus (labels left in the line or misread lines show up as mismatches); the English is compared with `texts/en` (Carlyle's own edition of the same translation), where every difference must be an Oelsner revision (`[came to]`) or a variant, not a stray label; the number of English paragraphs on each page is compared with the number of tercets that begin on the facing Italian page (one fewer on a canto's last page). The script reports as errors a canto whose verse count is wrong, a numbered note among the English tercets, and a note running over from an Italian page whose continuation is not found on the English page; on a canto's last page a missing paragraph break otherwise lets the next note fill the last tercet's place unnoticed. It lists note paragraphs that start after an unfinished sentence and English pages whose notes start without a verse number (normally a continued note). The first note paragraph of a page after a finished sentence is a new paragraph unless the page is in `NOTE_CONTINUED` (flush left in the image, `189`, `356`); the pages checked as new paragraphs are in `NOTE_NEW`.
+- Unlike `ocr/en`, italics are transcribed, mostly as `*…*` and on some pages as `_…_`. They are kept as they are, except on `411`, which is printed in italics with the names in roman; the transcription marked a few sentences at random, so the marks were removed there.
 
 ## `texts/la/` — Serravalle's translation and commentary (`ocr/la/`, 1891)
 
@@ -210,10 +215,11 @@ Excluded: `004`, `008`, `020`, `286`, `288`, and the library stamps transcribed 
 
 ## Delegated work
 
-Investigation and page-by-page corrections in `ocr/` may be delegated to another agent, but its reports are not reliable: earlier reports contained wrong lists (blank pages of `la`), invented examples (Greek text in the `grc` report), and markup not in `ocr/` (italics). Check every claim against the files, verify edits mechanically where possible (e.g. that only the intended characters were inserted), and open the images only for doubtful places.
+Investigation and page-by-page corrections in `ocr/` may be delegated to another agent, but its reports are not reliable: earlier reports contained wrong lists (blank pages of `la`), invented examples (Greek text in the `grc` report), and markup not in `ocr/` (italics). Check every claim against the files, verify edits mechanically where possible (e.g. that only the intended characters were inserted), and open the images only for doubtful places. In the `en-oelsner` normalization the delegate also changed what it was told to leave alone (it deleted blank lines between the Argument, the verse, and the notes on the Italian pages, and moved labels to the wrong line), so compare the whole page, blank lines included, not only the intended kind of edit.
 
 ## Order of work
 
 1. `texts/en`: write the conversion script and generate the files. **Done.**
-2. Extend the script for `en-oelsner` and `grc` (line joining, hyphenation, running heads), correcting the misreadings listed above in `ocr/`, one directory at a time.
-3. `la`: retranscribe the missing Italian column in `ocr/la/`, then convert.
+2. `texts/en-oelsner`: normalize `ocr/`, write the conversion script, and generate the files. **Done.**
+3. `texts/grc`: the same, correcting the misreadings listed above in `ocr/`.
+4. `la`: retranscribe the missing Italian column in `ocr/la/`, then convert.
