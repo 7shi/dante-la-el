@@ -2,6 +2,15 @@
 
 The page-by-page transcriptions in `ocr/{dir}/NNN.txt` are reorganized into section files `texts/{dir}/{03d}-{title}.md`, where `{dir}` is the `ocr/` directory name (`en`, `en-oelsner`, `la`, `grc`).
 
+## Status
+
+| Directory | Status |
+|---|---|
+| `texts/en/` | Done: converted, verified against dante-corpus, footnote markers restored on every page. |
+| `texts/en-oelsner/` | Not started. |
+| `texts/la/` | Not started; the missing Italian column must be retranscribed in `ocr/la/` first. |
+| `texts/grc/` | Not started. |
+
 ## General policy
 
 - **Follow the book.** Each file corresponds to a section of the printed book, in book order, and the content inside a file keeps the order in which it is printed. Nothing is moved into a different place for convenience (for example, all notes gathered at the end of a canto).
@@ -17,7 +26,7 @@ The page-by-page transcriptions in `ocr/{dir}/NNN.txt` are reorganized into sect
 
 ## `texts/en/` — Carlyle's edition (`ocr/en/`, 1889)
 
-Structure reference: [`ocr/en/INDEX.md`](../ocr/en/INDEX.md). Transcription conventions: [`ocr/en/README.md`](../ocr/en/README.md).
+Done. Contents and reading notes: [`en/README.md`](en/README.md). Structure reference: [`ocr/en/INDEX.md`](../ocr/en/INDEX.md). Transcription conventions: [`ocr/en/README.md`](../ocr/en/README.md).
 
 ### Files
 
@@ -81,9 +90,9 @@ Front matter and the index use the same page markers and footnote labels. Roman 
 
 ### Procedure
 
-1. **Script**: [`convert_en.py`](convert_en.py) (`uv run texts/convert_en.py`). It classifies the blocks on each page (prose, verse, verse notes `^\d+\. `, footnotes `^\d+ `, unnumbered continuation), telling Italian verse from short English lines by common function words, and writes the files with page markers, verse indentation and numbers, footnote labels, and merged continuations. It checks the verse count of each canto against the standard text and the footnote numbering of each page, and lists the hyphen joins it could not decide from the vocabulary.
-2. **Irregularities to check by hand** (found during the investigation):
-   - Tercets are sometimes separated by blank lines against the `ocr/en` convention (`062`, `069`, `070`, `080`, `081`, …). The script should not depend on blank lines inside the verse; the inconsistencies can be fixed in `ocr/` first.
+1. **Script**: [`convert_en.py`](convert_en.py) (`uv run texts/convert_en.py`). It classifies the blocks on each page (prose, verse, verse notes `^\d+\. `, footnotes `^\d+ `, unnumbered continuation), telling Italian verse from short English lines by common function words, and writes the files with page markers, verse indentation and numbers, footnote labels, and merged continuations. It checks the verse count of each canto against the standard text, the footnote numbering of each page, and that every note is referenced once from its page, and lists the hyphen joins it could not decide from the vocabulary (8 cases, all checked).
+2. **Irregularities found during the investigation**, all handled by the script:
+   - Tercets are sometimes separated by blank lines against the `ocr/en` convention (`062`, `069`, `070`, `080`, `081`, …). The script does not depend on blank lines inside the verse.
    - Notes containing blank lines (multi-paragraph notes, quoted verse such as Milton in `060`, `061`, `282`) must not be split into separate notes: a block without a leading number belongs to the preceding note.
    - Pages without footnotes (`078`, `087`, `088`, `200`, `331`, `452`, `457`) and pages with only a continued note (`454`, `456`).
    - Hyphenated words across pages, in prose (about 26 cases) and in notes (`084`→`085`, `233`→`234`, `281`→`282`).
@@ -201,6 +210,6 @@ Excluded: `004`, `008`, `020`, `286`, `288`, and the library stamps transcribed 
 
 ## Order of work
 
-1. `texts/en`: write the conversion script and generate the files.
+1. `texts/en`: write the conversion script and generate the files. **Done.**
 2. Extend the script for `en-oelsner` and `grc` (line joining, hyphenation, running heads), correcting the misreadings listed above in `ocr/`, one directory at a time.
 3. `la`: retranscribe the missing Italian column in `ocr/la/`, then convert.

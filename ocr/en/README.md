@@ -40,9 +40,10 @@ follow these conventions:
 * Prose is one paragraph per line, and Italian verse is one line per verse,
   without blank lines between tercets. Blocks (prose, verse, verse notes,
   footnotes) are separated by blank lines.
-* Running heads, page numbers, verse numbers, and footnote reference marks in
-  the body are omitted. Footnotes are written as `1 text...` at the end of the
-  page; a footnote continued from the previous page comes first, without a
+* Running heads, page numbers, and verse numbers are omitted. Footnote
+  reference marks in the body are written as superscript digits where they
+  are printed (`wood;²`). Footnotes are written as `1 text...` at the end of
+  the page; a footnote continued from the previous page comes first, without a
   number.
 * Small capitals in running text are written in uppercase; the first word of a
   canto is written in normal case.
