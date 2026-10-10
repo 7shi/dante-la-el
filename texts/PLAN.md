@@ -9,7 +9,7 @@ The page-by-page transcriptions in `ocr/{dir}/NNN.txt` are reorganized into sect
 | `texts/en/` | Done: converted, verified against dante-corpus, footnote markers restored on every page. |
 | `texts/en-oelsner/` | Done: `ocr/` normalized (labels, paragraph breaks) and converted; Italian verified against dante-corpus, English against `texts/en`. |
 | `texts/la/` | Not started; the missing Italian column must be retranscribed in `ocr/la/` first. |
-| `texts/grc/` | Not started. |
+| `texts/grc/` | Next: plan in *Procedure for `grc`*. |
 
 ## General policy
 
@@ -204,22 +204,40 @@ Excluded: `004`, `008`, `020`, `286`, `288`, and the library stamps transcribed 
 ### Layout
 
 - **Canto**: heading `# ᾨδὴ Α΄` (as printed, `ΩΔΗ Α΄.`), then the printed argument as a plain paragraph (no `## Argument`, since the book prints none), then the verse.
-- **Verse**: twelve-syllable lines, not set in tercets and not indented (`022.png`). They stay one per line with hard line breaks. The printed line numbers (every 5th line, transcribed at the start of the line) move to `<!-- 5 -->` comments at the line end.
+- **Verse**: twelve-syllable lines, not set in tercets and not indented (`022.png`). They stay one per line with hard line breaks. The translation is line for line: Greek line *n* renders Italian verse *n*, so every canto has exactly the verse count of the Italian (136, 142, …). The printed line numbers (every 5th line, at the start of the line) are transcribed there, but some are misplaced or misread (`35` before `30` on `038`); as in `texts/en` and `texts/en-oelsner`, the script removes them, computes the numbers by counting lines, and prints every 5th at the line end (`… στυγήρης, 5`). The removed numbers are kept for checking.
 - **Notes**: one file, as printed: a continuous back section in which a canto's notes can start in the middle of a page (`292`, `293`, `299`). Per-canto headings (`Εἰς ᾨδὴν Α΄.`) become `##`. Notes are paragraphs keyed to line numbers. The few asterisk footnotes inside the notes (`289`, `343`) use `[^{page}-{n}]` labels.
 
 ### Conversion notes for `ocr/grc/`
 
-- Running heads with page numbers are transcribed (`2 ΩΔΗ Α΄` on `022`); the script removes them.
-- Prose (argument, prologue, notes) is broken as printed, with line-end hyphenation (`τριακονταπενταε-` / `τῆς`, `289`); the script joins it. Verse lines are kept as they are.
+- Running heads with page numbers are transcribed in several forms: `2 ΩΔΗ Α΄` (`022`), `ΩΔΗ Α΄.` / `3` on two lines (`023`), `ΩΔΗ Γ΄. 19` (`039`); on the notes pages the head names the canto whose notes the page carries (`272` / `Εἰς ᾨδὴν Α΄.` on `292`, `Εἰς ᾨδὴν Β΄. 273` on `293`), which looks like the per-canto heading `Εἰς ᾨδὴν Β΄.` printed in the middle of `292`. Heads are recognized by position (the first lines of the page), as in `en-oelsner`. Printer's signature marks at the foot of some pages (`Β΄ 2` on `023`) are removed too.
+- The argument is not always separated from the verse by a blank line (`075`). The printed table of contents (`009`–`013`) repeats every argument, so the script can find where the argument ends by comparing with it, and report a canto whose argument differs.
+- Prose (argument, prologue, notes) is broken as printed, with line-end hyphenation (`τριακονταπενταε-` / `τῆς`, `289`); the script joins it, with a word list from `ocr/grc` and a list of undecided cases, as for `en-oelsner`. Verse lines are kept as they are; the quotation marks that open continued speech at the line start (`„ Ἔλαχον`, `038`) are printed and stay.
+- Notes: each note starts with its line number and an indented first line (`105. Δηλαδὴ …`, `292.png`). The transcription separates them by blank lines on some pages (`289`) and not on others (`292`), so the script starts a note at a line beginning with a line number and a period; lines inside a note that begin with a number (`15)· ἁρπαγεὶς …`, `292`) must not match, and unnumbered paragraphs inside a note are reported for checking against the images. A note continued on the next page is joined to its start.
 - The script drops the library stamps: `ΠΑΝΕΠΙΣΤΗΜΙΟ ΚΡΗΤΗΣ` (last line of `001`) and `ΒΙΒΛΙΟΘΗΚΗ` / `ΙΩΑΝΝΟΥ` / `ΚΑΛΙΤΣΟΥΝΑΚΗ` (between `ΤΕΛΟΣ ΤΩΝ ΣΗΜΕΙΩΣΕΩΝ.` and the printer's line on `351`).
+
+### Procedure for `grc`
+
+1. **Script** `convert_grc.py`: page reading (heads, signature marks, stamps), the canto files (argument, verse, computed line numbers), the notes file (per-canto headings, notes split by number, page joins, the asterisk footnotes), and the front matter (prologue, table of contents and corrigenda line by line).
+2. **Verse checks**, reported by the script as errors: the line count of each canto against the Italian verse count; each printed line number against the position of its line, which locates an extra or missing line between two numbers (a rough count shows differences in 22 of the 34 cantos, mostly of one or two lines, partly caused by the rough counting itself); each argument against the table of contents.
+3. **Corrections in `ocr/grc/`**, against the images: missing or doubled verse lines, misplaced or misread line numbers (only where they hide a misplaced line; the numbers themselves are not used), argument/verse separation, misreadings found by the checks. If the cantos with errors are many, delegate them in batches (see Delegated work) with the error list as input; verify the result with the script's checks and the whole-page comparison.
+4. **Notes checks**: every canto has its `Εἰς ᾨδὴν …` heading in order; the note numbers inside each canto increase and do not exceed its verse count; the list of unnumbered note paragraphs is checked against the images.
+5. Generate the files, write `texts/grc/README.md` like the other books, update `texts/README.md` and the Status here. Commit `ocr/grc` and `texts` separately.
 
 ## Delegated work
 
 Investigation and page-by-page corrections in `ocr/` may be delegated to another agent, but its reports are not reliable: earlier reports contained wrong lists (blank pages of `la`), invented examples (Greek text in the `grc` report), and markup not in `ocr/` (italics). Check every claim against the files, verify edits mechanically where possible (e.g. that only the intended characters were inserted), and open the images only for doubtful places. In the `en-oelsner` normalization the delegate also changed what it was told to leave alone (it deleted blank lines between the Argument, the verse, and the notes on the Italian pages, and moved labels to the wrong line), so compare the whole page, blank lines included, not only the intended kind of edit.
 
+How the delegation is run (via herdr, to the agent `la-el-codex`; replies go to `la-el-claude`):
+
+- Write the task to a file and send one short prompt naming it. Do not poll; the reply arrives as a prompt. Hold corrections for the next task file instead of sending them while the agent works.
+- Every task file says: write only the listed files and the report (`tmp/herdr-report-<task>.md`); no commit, push, delete, or rename; stay inside the repository; **no subagents** (their tool calls need manual approval, and herdr drops the agent's name when they run); no git commands that change the repository or use the network (`git diff` / `git status` are fine); questions go back as a prompt, then stop; reply once when done.
+- Batches of about ten cantos, after a trial batch of three. Each batch repeats the lessons of the previous ones with page examples.
+- Report format: one line per page with the result (labels, paragraph counts, inserted text), then the unusual findings. Tell the agent explicitly not to correct the print and not to fix misreadings it notices, only to list them; then follow every listed item up.
+- If herdr shows no name for an agent, list again; the name can drop without the session changing. Restore it with `herdr agent rename <pane> <name>`.
+
 ## Order of work
 
 1. `texts/en`: write the conversion script and generate the files. **Done.**
 2. `texts/en-oelsner`: normalize `ocr/`, write the conversion script, and generate the files. **Done.**
-3. `texts/grc`: the same, correcting the misreadings listed above in `ocr/`.
+3. `texts/grc`: see *Procedure for `grc`* above. **Next.**
 4. `la`: retranscribe the missing Italian column in `ocr/la/`, then convert.
