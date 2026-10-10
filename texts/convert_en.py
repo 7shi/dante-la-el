@@ -339,7 +339,7 @@ def render_content(page, verse_no):
             verse_no[0] += 1
             text = line if i % 3 == 0 else "&emsp;" + line
             if (i + 1) % 5 == 0:
-                text += f" <!-- {i + 1} -->"
+                text += f" {i + 1}"
             lines.append(text)
         out.append("\\\n".join(lines))
     out.extend(esc(l) for l in page.vnotes)

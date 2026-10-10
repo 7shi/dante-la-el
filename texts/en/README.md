@@ -8,7 +8,7 @@ These files are generated from the proofread page transcriptions in [`ocr/en/`](
 
 - **Pages**: every printed page starts with a comment such as `<!-- p. 2 (056) -->`: the printed page number (`[1]` if not printed, Roman numerals in the front matter) and the scan, `ocr/en/056.png`.
 - **Order**: as on the page: English prose, then the Italian verse, the verse notes (`40\. …`), and the footnotes.
-- **Verse**: tercets with the second and third lines indented; every fifth line carries its number as a comment (`<!-- 5 -->`). The text follows this edition, which differs in places from modern editions.
+- **Verse**: tercets with the second and third lines indented; every fifth line ends with its number, as printed (`… muova, 5`). The text follows this edition, which differs in places from modern editions.
 - **Footnotes**: labelled by page and printed number, `[^2-1]` for note 1 on p. 2. A note continued on the next page is joined to its start. Three notes whose reference mark is missing in the print (pp. 78, 179, 375) are referenced at the place they belong.
 - **Not transcribed**: italics, and the physical copy's bookplate, blank pages, and the publisher's catalogue at the end.
 
