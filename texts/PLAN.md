@@ -98,7 +98,7 @@ Front matter and the index use the same page markers and footnote labels. Roman 
    - Hyphenated words across pages, in prose (about 26 cases) and in notes (`084`→`085`, `233`→`234`, `281`→`282`).
    - Lines starting with a number followed by a period inside footnotes, which must not be taken as verse notes.
 3. **Verify**: the verse lines of each canto are compared line by line with the Italian text of [dante-corpus](https://github.com/7shi/dante-corpus) (`src/inferno/NN.txt`, one verse per line). For `texts/en` all 4,720 lines align; the five lines below 0.75 similarity (letters only, accents removed) are readings of this edition (e.g. XXIII 63 *in Cologna* / *in Clugnì*), not misplaced lines. Every footnote of `ocr/` appears once.
-4. **Footnote markers**: restored on every page with notes, checked by the script (each note referenced once on its page) and by spot checks against the images. Three notes have no printed marker and are added by the script (pp. 78, 179, 375).
+4. **Footnote markers**: restored on every page with notes, checked by the script (each note referenced once on its page), by confirming that removing the superscript digits from `ocr/en/` gives back the previous text (nothing else changed), and by spot checks against the images. Three notes have no printed marker and are added by the script (pp. 78, 179, 375).
 
 
 ## `texts/en-oelsner/` — Temple Classics edition (`ocr/en-oelsner/`, 1903)
@@ -161,7 +161,7 @@ Structure reference: [`ocr/la/INDEX.md`](../ocr/la/INDEX.md). The volume covers 
 | `109-appendix.md` | Appendix: Bartholomaeus a Colle | `1271`, `1273`–`1287` |
 | `110-index.md` | INDEX (the printed table of contents) | `1289`, `1290` |
 
-The canto ranges come from INDEX.md. The script takes them from there; the blank-page lists in the investigation report contradict INDEX.md and are not used. Blank pages (62, all `[Blank page]`) and `0001`–`0006`, `1291`–`1296` are excluded. Slugs use the English cantica names, as the policy requires. Section titles of the front matter are left in the original language where there is no plain English equivalent (`notizie-preliminari`, `documenta`).
+The canto ranges and blank pages come from INDEX.md; lists of blank versos compiled elsewhere contradicted it and are not used. Blank pages (62, all `[Blank page]`) and `0001`–`0006`, `1291`–`1296` are excluded. Slugs use the English cantica names, as the policy requires. Section titles of the front matter are left in the original language where there is no plain English equivalent (`notizie-preliminari`, `documenta`).
 
 ### Layout
 
@@ -206,7 +206,11 @@ Excluded: `004`, `008`, `020`, `286`, `288`, and the library stamps transcribed 
 
 - Running heads with page numbers are transcribed (`2 ΩΔΗ Α΄` on `022`); the script removes them.
 - Prose (argument, prologue, notes) is broken as printed, with line-end hyphenation (`τριακονταπενταε-` / `τῆς`, `289`); the script joins it. Verse lines are kept as they are.
-- The script drops the library stamps on `001` and `351`.
+- The script drops the library stamps: `ΠΑΝΕΠΙΣΤΗΜΙΟ ΚΡΗΤΗΣ` (last line of `001`) and `ΒΙΒΛΙΟΘΗΚΗ` / `ΙΩΑΝΝΟΥ` / `ΚΑΛΙΤΣΟΥΝΑΚΗ` (between `ΤΕΛΟΣ ΤΩΝ ΣΗΜΕΙΩΣΕΩΝ.` and the printer's line on `351`).
+
+## Delegated work
+
+Investigation and page-by-page corrections in `ocr/` may be delegated to another agent, but its reports are not reliable: earlier reports contained wrong lists (blank pages of `la`), invented examples (Greek text in the `grc` report), and markup not in `ocr/` (italics). Check every claim against the files, verify edits mechanically where possible (e.g. that only the intended characters were inserted), and open the images only for doubtful places.
 
 ## Order of work
 
