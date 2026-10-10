@@ -42,6 +42,7 @@ MID_HEADINGS = {"PREFACE TO THE THIRD EDITION."}
 ADDED_MARKERS = {
     132: ("malignant shores.", "malignant shores.²"),
     233: ("Accorso; also", "Accorso;¹ also"),
+    429: ("its way, directed", "its way,¹ directed"),
 }
 
 # Pages printed without a page number (besides the Argument pages).
