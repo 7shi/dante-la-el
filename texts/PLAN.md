@@ -72,7 +72,7 @@ Ahi quanto a dir qual era è cosa dura\
 - **Verse**: the print sets each tercet with the 2nd and 3rd lines indented and no blank line between tercets (see `062.png`). This is reproduced with `&emsp;` indentation and hard line breaks (`\`) inside one block per page. The printed verse numbers (every 5th line, omitted in `ocr/`) are computed by counting lines from the start of the canto and added as `<!-- 5 -->` comments, which also checks that no verse is missing.
 - **Verse notes** (`1. Bruno, brown, …`, printed below the verse) are kept as a paragraph after the verse block, unchanged.
 - **Footnotes** keep the book's per-page numbering. Labels are `[^{page}-{n}]` (`[^8-2]` = note 2 on p. 8), so they don't collide and still identify the printed note. Definitions follow their page's verse, as at the foot of the page. A note continued on the next page (the unnumbered block at the top of that page's notes) is appended to its definition on the starting page, joining any hyphenated word (`promi-` / `nent`, `084`→`085`).
-- **Footnote markers** in the prose were omitted in `ocr/`. They are restored by looking at the page images (`[^8-2]` after `author.` on p. 8). Until a page is done, its notes are defined but not referenced.
+- **Footnote markers** in the prose were omitted in `ocr/`. They are restored in `ocr/` as superscript digits at the printed position (`author.²` on p. 8, as already on `148`), which the script turns into references (`[^8-2]`). A marker missing in the print itself (note 2 on p. 78, `132`) is added by the script (`ADDED_MARKERS`), not in `ocr/`. The script lists pages whose notes are not referenced yet.
 - **Italics** in the print (titles, Latin and Italian quotations in notes) are not transcribed in `ocr/` and are not added in this pass.
 
 ### Other files
@@ -85,7 +85,7 @@ Front matter and the index use the same page markers and footnote labels. Roman 
 2. **Irregularities to check by hand** (found during the investigation):
    - Tercets are sometimes separated by blank lines against the `ocr/en` convention (`062`, `069`, `070`, `080`, `081`, …). The script should not depend on blank lines inside the verse; the inconsistencies can be fixed in `ocr/` first.
    - Notes containing blank lines (multi-paragraph notes, quoted verse such as Milton in `060`, `061`, `282`) must not be split into separate notes: a block without a leading number belongs to the preceding note.
-   - Pages without footnotes (`078`, `087`, `088`, `143`, `200`, `331`, `452`, `457`) and pages with only a continued note (`454`, `456`).
+   - Pages without footnotes (`078`, `087`, `088`, `200`, `331`, `452`, `457`) and pages with only a continued note (`454`, `456`).
    - Hyphenated words across pages, in prose (about 26 cases) and in notes (`084`→`085`, `233`→`234`, `281`→`282`).
    - Lines starting with a number followed by a period inside footnotes, which must not be taken as verse notes.
 3. **Verify**: the verse lines of each canto are compared line by line with the Italian text of [dante-corpus](https://github.com/7shi/dante-corpus) (`src/inferno/NN.txt`, one verse per line). For `texts/en` all 4,720 lines align; the five lines below 0.75 similarity (letters only, accents removed) are readings of this edition (e.g. XXIII 63 *in Cologna* / *in Clugnì*), not misplaced lines. Every footnote of `ocr/` appears once.

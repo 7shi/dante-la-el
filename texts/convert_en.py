@@ -38,6 +38,9 @@ INDEX = ("index-of-proper-names", [477] + list(range(479, 487)))
 # Headings printed in the middle of a page.
 MID_HEADINGS = {"PREFACE TO THE THIRD EDITION."}
 
+# Note markers missing in the print, added so that the note is referenced: page -> (text, marker).
+ADDED_MARKERS = {132: ("malignant shores.", "²")}
+
 # Pages printed without a page number (besides the Argument pages).
 UNNUMBERED = {11, 19, 21, 32, 47, 477, 479} | {first for first, _ in CANTO_PAGES}
 
@@ -74,7 +77,12 @@ def marker(n):
 
 
 def read_page(n):
-    return (SRC / f"{n:03d}.txt").read_text(encoding="utf-8").strip()
+    text = (SRC / f"{n:03d}.txt").read_text(encoding="utf-8").strip()
+    if n in ADDED_MARKERS:
+        old, sup = ADDED_MARKERS[n]
+        assert text.count(old) == 1, n
+        text = text.replace(old, old + sup)
+    return text
 
 
 def blocks(text):
