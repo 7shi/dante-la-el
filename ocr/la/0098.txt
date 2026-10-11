@@ -53,9 +53,6 @@ Ab amplo loco, ad quem redire tu ardes.
 Dicam tibi breviter, michi respondit,
 Quare ego non timeo venire huc intro.
 
-Bottom Section (Footnotes/Explanations):
-
-Left Section:
 Et themo: dolet de periculo. in quo est Dantes. Idest,
 video ipsum iam dispositum ad retrocedendum ad vitia; et
 forte non poterit retrahi ab ipsis, et forte nimis tardavi
@@ -85,7 +82,6 @@ Quando io serroe: (ut cito ego venirem ad te, dixit
 Virgilius Danti. Quando ero ante Deum, qui est Dominus
 meus dixit Virgilio Beatrix) laudabo me de te. Ecce quod
 
-Right Section:
 sepe Theologia utitur scientiis naturalibus, [ut presentes]
 res vilipenderentur, et intelligantur invisibiles. (I ad Rom.):
 Per ea quæ facta sunt. intellecta conspiciuntur, etc.

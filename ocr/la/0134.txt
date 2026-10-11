@@ -1,9 +1,7 @@
 80
 
-[Header]
 INFERNI
 
-[Main Latin Text]
 ²² Helenam vidi, propter quam tantum pravum
 Tempus se volvit, et vidi grandem Achillem,
 Qui propter amorem ad finem debellatus est.
