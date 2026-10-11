@@ -8,7 +8,7 @@ The page-by-page transcriptions in `ocr/{dir}/NNN.txt` are reorganized into sect
 |---|---|
 | `texts/en/` | Done: converted, verified against dante-corpus, footnote markers restored on every page. |
 | `texts/en-oelsner/` | Done: `ocr/` normalized (labels, paragraph breaks) and converted; Italian verified against dante-corpus, English against `texts/en`. |
-| `texts/la/` | Next: the missing Italian column must be retranscribed in `ocr/la/` first. |
+| `texts/la/` | In progress: `ocr/la/` is being completed before conversion (missing verse columns, commentary checked against an independent GLM-OCR), batch by batch; transcriber's notes deleted. |
 | `texts/grc/` | Done: converted; verse counts, line numbers, and arguments checked by the script; misreadings found by a syllable count corrected in `ocr/`. |
 
 ## General policy
@@ -179,9 +179,70 @@ Each canto has the Latin *Summarium*, then pages with the verse in two columns a
 
 ### Conversion notes for `ocr/la/`
 
-- **The Italian verse column is missing from many pages.** Of the canto pages with numbered tercets, 255 contain both columns and 199 only the Latin (`0083` has only the Latin; the image shows both). The missing column is missing text, so it is transcribed again in `ocr/` before conversion. Pages without numbered tercets (738) need a check of how their verse is numbered (`0099` has line numbers instead).
+- **A verse column is missing from many pages.** Recounted over the 1022 text pages of the cantos (from the Latin-and-*Comentum* column of INDEX.md, essays excluded), classifying each verse tercet as Italian or Latin by its similarity to dante-corpus and by Latin/Italian function words:
+
+  | Verse block in `ocr/` | Pages |
+  |---|---|
+  | both columns, same number of lines | 374 |
+  | both columns, line counts differ (a partly missing column, or a runover/last line counted apart) | 49 |
+  | Latin only: the Italian is missing (`0082`, `0083`) | 396 |
+  | Italian only: the Latin is missing (`0088`, `0096`, `0200`) | 83 |
+  | no verse: *Summarium* pages (100) and pages of commentary only (16) | 116 |
+  | verse not recognized (`0940`, `1038`, `1107`: columns run together or broken; `1112`: the verse is not transcribed at all) | 4 |
+
+  Of the 14,233 lines, about 7,300 Italian and 1,100 Latin lines are missing. All the images checked show both columns. The missing text is transcribed in `ocr/` before conversion, the Latin as well as the Italian. The earlier count (255 / 199 / 738) recognized only some of the number notations, so most verse pages fell into “no numbered tercets”.
+- **Tercet numbers** are printed at the first line of each tercet in both columns (`0082.png`), but are transcribed in many notations: superscripts (`¹²`), plain digits (`12`), `^(28)` (`0087`), `^11`, `<sup>11</sup>`, subscripts (`₂₈`, `0311`), and misread (`80`–`83` for `30`–`33` on `0099`: these are tercet numbers, not line numbers). The print sometimes omits a number in one column (`0099`: Italian tercets 32 and 33 have none, the Latin has them). As in the other books, the script removes them and computes the numbers by counting, keeping the transcribed ones for checking.
+- **Verse layout in `ocr/`**: normally the Italian block, a blank line, then the Latin block (`0081`, `0086`); on some pages the two columns are set side by side in one line, separated by a tab or spaces (`0165`, `0449`, `0627`) or by a single space (`1038`). A line too long for the column ends with its last word on a line of its own, opened by `[` (`[datur.`, `0200.png` `[pturam`); the transcription keeps it as a line starting with `[`.
+- **Verse glosses**: the Italian lines carry gloss markers (`Questi (¹) non ciberà`) explained in one line under the verse (`(¹) costui. — (²) sarà.`, `0088`); they are part of the print and stay.
+- **Transcriber's notes** that are not printed (`[Header]`, `Left Page:`, `Bottom Section (Footnotes/Explanations):`, `Additional Latin Text (Lower Part of Page)`, `[Decorative element]` for an ornament) are deleted in `ocr/` (done, 17 pages: `0076`, `0098`, `0108`, `0120`, `0134`, `0144`, `0160`, `0187`, `0234`, `0330`, `0357`, `0435`, `0779`, `0849`, `0958`, `0965`, `1091`); only the note lines and the blank lines they left were removed. Left for the conversion: the two figures of Paradiso XXXII, where the position words describe the drawing (`*Top Left:* Locus in quo …` under `[Diagram]` on `1247`, set after the right column although printed in the left; the table with `*Superior pars*` on `1245`). On `0330` the transcription gives the left column (Italian verse, then its commentary) before the right one (Latin verse, commentary), with the running head `INFERNI` repeated; the verse batch brings the Latin block up after the Italian.
+- **Commentary**: the transcription of the prose is much less reliable than it looks. A trial on Inferno I (`0079`–`0091`), aligning `ocr/la` word by word with an independent GLM-OCR of the same pages, found 247 differing places (about 19 a page, almost none on `0079`, `0080`); of the 39 on `0088` checked against the image, about 25 are errors of `ocr/la`, the rest of GLM-OCR. The errors of `ocr/la`:
+  - dropped text, from words and lines (`0088`: `significatum per terram; quia de`, `etates auream … Metamorphoseos; etc.`, `clericorum et`, `Summum`; `0099`: `homines minus sapientes, quod pexime fuit factum, quod`) to a whole column (`0085`: the left column of the commentary, about 25 lines, is not transcribed);
+  - words replaced by others (`0088`: `illam` for `ita eveniet una`, `honorem` for `amicabiles`, `malos` for `malignos`, `quemadmodum` for `quem aliquando`), and glosses misread (`0200`: `(³) Vedi ch'a ciò penso.` for `(³) disse a me.`);
+  - rare forms replaced by common ones, as in `grc` (`0088`: `inimicantur` for `nimicantur`, `diversimode` for `diversimmode`, `quædam` for `quedam`, `natiuitas` for `nativitas`).
+
+  GLM-OCR is not a reference by itself: it misreads too (`Feltrio`, `alli`, `euro`), joins the lines of a paragraph, drops the Latin verse column, and on some pages drops text that `ocr/la` has (`0089`, `0090`). Over the 1,230 pages of prose (about 65,000 lines, 3.7 million characters, 600,000 words; 106 pages are transcribed with paragraphs on one line) the same rate gives some 20,000–25,000 differing places and on the order of 10,000 errors of `ocr/la`.
+- **The Italian of this edition differs from dante-corpus** (`0082`: `Et quanto dir qual era` for *Ahi quanto a dir qual era*, `Tant'è amara che poco è più morte`), so the corpus can locate and check lines but is never a source for them.
 - Lines are broken as printed, with line-end hyphenation (`dividi-` / `tur`, `0081`); the script joins them.
 - `CAPITULUM PRIMUM` at the top of most pages is the running head (with the page number on `0083.png`); on a canto's first text page (`0081`) it may be the printed heading. Check against the images.
+
+### Procedure for `la`
+
+0. **Preprocessing** (done, committed separately): the transcriber's notes are deleted (see above).
+1. **Survey** (done; numbers above). Check scripts in `tmp/la-checks/` (not in the repository):
+   - `survey3.py` with `an9.py` / `an10.py` / `an11.py` reads the verse block at the top of each canto text page (up to the first prose paragraph, skipping running heads, page numbers, and the gloss line), splits it into tercets, classifies each as Italian or Latin, and reports per page: both columns / Latin only / Italian only / line counts differing / not recognized, with the Italian lines located in dante-corpus. It writes the work list of each batch.
+   - `align.py` aligns `ocr/la` pages with another transcription word by word (line-end hyphens joined, accents and `æ`/`œ` normalized) and lists the runs found on one side only (dropped text) and the differing words (`uv run python tmp/la-checks/align.py [-v] ocr/la/glm-ocr 0079 0080 …`).
+2. **Batches**: a trial of Inferno I–III, then 10–11 cantos each, kept within the canticas. The same batches serve the verse and the commentary. Each batch is OCRed with GLM-OCR first (step 3); when its OCR is finished, its delegation starts (step 4), while the next batch is OCRed.
+
+   | Batch | Section | Scans | Pages (blank ones skipped) |
+   |---|---|---|---|
+   | 1 | Inferno I–III (trial) | `0079`–`0114` | 36 |
+   | 2 | Inferno IV–XIII | `0115`–`0232` | 114 |
+   | 3 | Inferno XIV–XXIII | `0233`–`0348` | 109 |
+   | 4 | Inferno XXIV–XXXIV | `0349`–`0478` | 125 |
+   | 5 | *Preambula* to Purgatorio, Purgatorio I–XI | `0479`–`0608` | 127 |
+   | 6 | Purgatorio XII–XXII | `0609`–`0740` | 125 |
+   | 7 | Purgatorio XXIII–XXXIII | `0741`–`0870` | 125 |
+   | 8 | PARADISUS half-title, Paradiso I–XI | `0871`–`1010` | 136 |
+   | 9 | Paradiso XII–XXII | `1011`–`1140` | 125 |
+   | 10 | Paradiso XXIII–XXXIII | `1141`–`1270` | 124 |
+   | 11 | Front matter (`0007`–`0078`), appendix and index (`1271`–`1290`); prose only | | 84 |
+
+   Each canto batch has 55–65 pages with verse to complete (the trial: 15).
+3. **Independent OCR** with GLM-OCR (the model used for `ocr/en`), run by the user per batch: `make batchN` in `ocr/la/glm-ocr/` ([Makefile](../ocr/la/glm-ocr/Makefile)) writes `ocr/la/glm-ocr/NNNN.txt` (done for `0079`–`0092`). The output is shown while it runs, as GLM-OCR sometimes runs away in a loop; Ctrl+C stops make and keeps the unfinished page, which is deleted before the batch is run again (make skips the pages already present). About one minute a page, two hours a batch. The output is a means of checking only: paragraphs on one line, no Latin verse, its own misreadings.
+4. **Delegation of each batch** to `la-el-codex` (see Delegated work), one task file covering both:
+   - the missing verse, from the work list of step 1 (below);
+   - the commentary: the differences between `ocr/la` and GLM-OCR listed by `align.py` (page, the two readings, the context), each checked against the image and corrected in `ocr/la` where `ocr/la` is wrong; text missing from `ocr/la` (as on `0085`) is transcribed from the image in its place, with the line breaks of the print. Where GLM-OCR has a common form against a rare one in `ocr/la`, or both agree against the image, the image decides; nothing is taken over from GLM-OCR unchecked.
+
+   For the verse, the task file lists the pages with what is missing on each, and says:
+   - Transcribe only from the image. Do not copy from dante-corpus, other editions, or memory: this edition's Italian differs (`0082`), and copying replaces its forms with common ones, as the OCR did in `grc`.
+   - Write the missing column as a block of its own: the Italian block first, a blank line, the Latin block, each line as printed. Each tercet starts with its printed number, in the notation the existing column of the page uses; where the print has no number (`0099`), none is added. Gloss markers `(¹)` stay where printed, and the gloss line stays (or is added, if missing) under the verse as one line, notes separated by ` — `. A runover word goes on its own line starting with `[`, after the line it belongs to. No italics or other markup.
+   - Pages whose two columns are run together on one line (`0165`, `1038`) are rewritten into the two blocks, the words unchanged. Transcriber's notes (above) are deleted.
+   - Change nothing else: in the commentary only the listed places, and the running heads and the blank lines stay as they are. Misreadings noticed elsewhere are not fixed but listed in the report with page, line, the transcription, and the image reading.
+   - Report: one line per page (`0082: Italian tercets 2–5 added, 12 lines; commentary 7 of 12 places corrected, 1 line added`), then the doubtful readings and the pages that did not fit the list.
+5. **Verification of each batch**: rerun the check script: every page has both columns with equal line counts, the tercet numbers of the two columns agree, and each canto's Italian lines cover the corpus count (Inferno I: 136). Compare each page with its previous version line by line, blank lines included: only the verse block and the listed commentary places may change. Rerun `align.py`: a listed difference that remains must be one where the image confirmed `ocr/la`. Align the added Italian lines with dante-corpus and open the image only for lines that differ (a difference may be this edition's reading or a transcription error, especially where the added line agrees with the corpus against the image). Stage the files that pass; fix small errors directly, send larger ones back with the next batch.
+6. **Script** `convert_la.py`, after all batches: page reading (running heads, page numbers, the canto headings, the *Summarium*), the verse interleaved per tercet with computed numbers (the transcribed ones checked against them), the glosses, the commentary in two columns with `---` separators, the essays with their footnotes, and the front matter and appendix. Line-end hyphens are joined with a word list from `ocr/la`, undecided cases listed, as in `grc`.
+7. **Checks**, reported by the script as errors: the line count of each canto in both languages against the Italian verse count; the transcribed tercet numbers against the computed ones; each Italian line against dante-corpus (lines below a similarity threshold listed and checked against the images, as readings of this edition or misreadings to correct in `ocr/`).
+8. Correct the misreadings found in `ocr/la/` against the images; generate the files; write `texts/la/README.md`, update `texts/README.md` and the Status here. Commit `ocr/la` and `texts` separately, after all of `la` is done.
 
 ## `texts/grc/` — Musurus's Greek translation (`ocr/grc/`, 1882)
 
@@ -256,4 +317,4 @@ How the delegation is run (via herdr, to the agent `la-el-codex`; replies go to 
 1. `texts/en`: write the conversion script and generate the files. **Done.**
 2. `texts/en-oelsner`: normalize `ocr/`, write the conversion script, and generate the files. **Done.**
 3. `texts/grc`: see *Procedure for `grc`* above. **Done.**
-4. `la`: retranscribe the missing Italian column in `ocr/la/`, then convert. **Next.**
+4. `la`: complete `ocr/la/` (missing verse columns, commentary checked against GLM-OCR) batch by batch, then convert; see *Procedure for `la`* above. **In progress.**
