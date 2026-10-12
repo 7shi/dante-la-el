@@ -312,10 +312,10 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
 - `ocr/la_check.py FIRST LAST [-v] [-o OUT]`: tercet numbers (order, every third line,
   continuity across pages) and the section rules of the images against the blank lines
   (the rule count often misses right-column and page-end rules: look at a listed page).
-- Survey of the verse blocks (texts/PLAN.md, step 1), in `tmp/la-checks/` (not in the
-  repository, with local paths): `survey3.py`, `an9.py`–`an11.py`, `lang.py`,
-  `worklist.py`, with `pages9.json`, `pages10.json`, `survey3.json`. Whether they are
-  needed depends on the method for batch 3+.
+- `ocr/la_survey.py [--cantos | --work FIRST LAST] [-o OUT]`: the survey of the verse
+  blocks (texts/PLAN.md, step 1): which pages lack the Italian or the Latin column, per
+  page, per canto, or as the work list of a batch. It reads dante-corpus as a dependency
+  in `../dante-corpus` (README.md).
 
 Working data in `tmp/`: `la-tess/` (Tesseract's words for 0079–0232), `la-markup/` (the
 paid markup answers for 0195–0208; keep), `la-mark2/` (the work directory of 0195–0208:
