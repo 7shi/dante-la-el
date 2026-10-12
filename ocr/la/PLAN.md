@@ -59,7 +59,7 @@ The work so far is committed in five steps:
 - Keep the print, misprints included (see "Suspected misprints"). Only damaged letters are
   restored (`ungu'atas` → `ungulatas`, 0143).
 - Commits: `ocr/la` separately from `texts`.
-- Temporary scripts take `-o OUT` and are run with `uv run`; no shell redirection.
+- Python is run with `uv run`. Scripts for delegates take `-o OUT`, and their task files use no shell redirection (a redirect asks for approval each time).
 - No local paths in repository files.
 - Delegate tasks forbid subagents and any git command that changes the repository or uses
   the network (see texts/PLAN.md, "Delegated work").
