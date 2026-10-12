@@ -300,15 +300,30 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
 
 ## Next steps
 
-1. (done: the scripts promoted into `ocr/`, see Workflow above.)
-2. (done for 0209–0232, 0115, 0141; 0128 and 0140 are blank.) The letter-by-letter
-   question for 0079–0103.
+1. (done: the scripts promoted into `ocr/`; 0209–0232, 0115, 0141 by the markup method;
+   0128 and 0140 are blank.)
+2. **0079–0103 letter by letter** (decided 2026-10-13), by the markup method in
+   `tmp/la-mark4/` (GLM-OCR and Tesseract are present for all of them):
+   - the user runs `uv run ocr/la_markup.py -m gpt-6-luna --save-usage -o tmp/la-mark4/markup $(seq -f %04g 79 103)`;
+   - `la_markprep.py tmp/la-mark4 PAGES -t tmp/la-tess` (a page whose marks do not give
+     `ocr/la` stops it: compare and fix the page, e.g. a trailing blank line as on 0214);
+     check the differences the markup reports as missed;
+   - test `la_markdecide.py --fake`, delete the fake answers, then the user runs it with
+     `-m gpt-6-luna --save-usage`;
+   - `la_markresolve.py`; decide `review.tsv` in `mine.tsv` (commas from the context, every
+     model change checked in the image, letters where the model and Tesseract differ
+     checked when the model would change `ocr/la` or the reading is doubtful) and
+     `fixes.tsv`; the word diff of `out/` against `ocr/la`; `--write`; `la_check.py`;
+     commit the pages, then PLAN.
 3. The rule/blank-line pass for 0079–0103 and 0209–0232, including 0225's trailing `—` line
-   and the blank before `Similiter sicut illi` on 0228.
-4. Final checks: `la_check.py` (tercets, rules); search for `æ`, accents and `—`; line counts.
+   and the blank before `Similiter sicut illi` on 0228 (blank lines only at printed rules,
+   see Conventions; `la_check.py` lists the pages to look at).
+4. Final checks: `la_check.py` (tercets, rules); search for `æ`, accents and `—`; line counts;
+   the page-head order (page number, blank, running head) over 0079–0232.
 5. `texts/convert_la.py` (normalizing `’`), the READMEs, texts/PLAN.md (status, a pointer
    here), and the commits.
-6. Then decide whether batch 3+ uses the same method.
+6. Then decide whether batch 3+ uses the same method (run `tmp/tess.py` first;
+   `ocr/la_survey.py --work FIRST LAST` gives the verse work list).
 
 ## Tools
 
