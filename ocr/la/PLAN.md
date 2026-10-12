@@ -99,7 +99,8 @@ The work so far is committed in four steps:
   - at a section gap without a rule (0155);
   - after an indented lemma pair (0164, 0208);
   - not at a column change unless a rule stands there;
-  - page-end rules are listed in `tmp/la-checks/pageend-rules.txt`.
+  - page-end rules: 0097, 0099, 0107 (right column, after `scilicet,`), 0110 (right,
+    after `influentia.`), 0121 (right, after `invicem.`).
 - **Gloss line `(¹) …`**: under the Italian block or under the Latin block (11+ pages have
   it under the Latin block); `convert_la.py` must accept both.
 - **Curly `’`**: left in `ocr/la`, normalized by `convert_la.py`.
@@ -199,19 +200,11 @@ uv run ocr/la_markresolve.py WORK -t TESS                 # routes; review.tsv; 
 ```
 
 The paid calls are run by the user; saved answers are reused, so a rerun asks only for
-what is missing. The steps below were developed with scripts in `tmp/la-checks/`, merged
-into these: `markpost.py` + `marklocate.py` → `la_markprep.py` (with the `1`/`1.` tercet
-number rule added); `markdecide.py` → `la_markdecide.py` (1× crops only; the answers named
-by a hash of the readings, not by the mark's index); `colrule.py` + `markroute.py` +
-`markapply.py` → `la_markresolve.py` (a model decision that changes `ocr/la` waits for a
-confirmation in `mine.tsv`). Checked on 0195–0208: the merged scripts give the committed
-pages exactly.
+what is missing. To re-check saved markup answers after `ocr/la` has changed, run
+`la_markup.py -r 0` on a copy of WORK/markup (no call is made; the marked pages are
+rewritten). Checked on 0195–0208: the scripts give the committed pages exactly.
 
 ### Step 1: markup (`ocr/la_markup.py`) — done for 0195–0208
-
-```sh
-uv run ocr/la_markup.py -m MODEL -o tmp/la-markup --save-usage PAGE...
-```
 
 - The LLM returns only a JSON list of differences (`line`, `end_line`, `ocr`, `glm`,
   `after`); the script places them, so it cannot alter the text.
@@ -219,139 +212,73 @@ uv run ocr/la_markup.py -m MODEL -o tmp/la-markup --save-usage PAGE...
   hyphens after a letter and spacing around apostrophes ignored). On problems, a fixing call
   sends only the problem places; `-r` caps the calls a page (default 2). A rerun resumes from
   the saved answers (`NNNN.json`, `NNNN.r2.json`, …, all kept).
-- Result for 0195–0208 (model `gpt-6-luna`): all 14 pages pass, 355 marks.
-- Re-checked against the current `ocr/la` (`markcheck.py` on a copy, 2026-10-13): the edits
-  of commit 3 removed 6 marks (0200 `Aliquod`; 0202 `philantropia`, `imbursat:`, `sotios`;
-  0204 `vostr'arte`, `Methaphi-`) and changed only spacing on 0196: 349 marks. Output:
-  `tmp/la-mark2/markup/`.
+- 0195–0208 (model `gpt-6-luna`; answers in `tmp/la-markup/`): all 14 pages pass, 355 marks;
+  349 after the edits of commit 3 (re-checked with `-r 0`).
 
-### Step 2: trivial marks (`tmp/la-checks/markpost.py`) — done for 0195–0208
+### Step 2: trivial marks (`ocr/la_markprep.py`) — done for 0195–0208
 
-Resolves to the left side, without the image:
+Resolved to the left side without the image: page numbers and running heads, tercet numbers
+(A only or `1`/`1.`, on blocks whose numbers are in order), signature marks, `Digitized by
+Google`, spacing next to apostrophes and after punctuation and line-end hyphens (a space
+between two words, `quanto lor` / `quantolor`, is not ignored; a mid-line hyphen, 0207
+`introy-tu`, is kept), `'`/`’`, `(¹)`/`(1)`, and the same text placed differently.
 
-- A-only page numbers and running heads (lines 1–3) and B-only `Digitized by Google`;
-- A-only tercet numbers (digits at the start of a line of a verse block), only on pages where
-  `tercets.py` reports nothing;
-- A-only signature marks (the digits of the last line), only when the page 8 before or after
-  ends with the number before or after (0151 `13` … 0239 `24`);
-- differences only in spaces next to an apostrophe, spaces after punctuation, and a
-  line-end hyphen on the left (against a hyphen, a space or nothing on the right). A space
-  between two words (`quanto lor` / `quantolor`) goes to the image; a mid-line hyphen on the
-  left (0207 `introy-tu`) is kept;
-- `'` against `’`, `(¹)` against `(1)`;
-- an A-only and a B-only mark with the same text (a line placed differently, such as the
-  gloss line of 0204).
+0195–0208: 155 of 349 resolved, 194 left.
 
-0195–0208 (349 marks, narrowed rules, 2026-10-13): 143 resolved (54 tercet numbers, 2
-signatures, 31 spacing, 32 notes, 15 heads, 6 moved, 2 quotes, 1 Google), 206 left. Against
-the first rules only `quanto lor` changed (now left for the image); `tercets.py` reports
-nothing for 0195–0208. Output: `tmp/la-mark2/post/` and `post.log`; the answers in
-`tmp/la-markup/` are not touched. (The first run, 144 of 355, is in `tmp/la-markup-post/`.)
+### Step 3: image decisions (`ocr/la_markprep.py`, `ocr/la_markdecide.py`)
 
-### Step 3: image decisions — located for 0195–0208; deciding written, to be measured
+**Locating**: line mapping by pixel profiles failed on pages with verse blocks. Instead,
+the words around a mark are looked up in Tesseract's word boxes: every context word votes
+for the place (near words weigh more, the mark's own words little: on 0200 the `ocr/la`
+gloss repeats a verse line, and matching it sent the crop to the verse); the context is
+widened (6, 15, 30 words) while the place is not clear; an ambiguous place is settled by
+the order of the located marks around it. The crop is the printed line with its
+neighbours, at the scan's own resolution. 0195–0208: all but 3 located, all at the right
+place in the crops checked.
 
-**Locating** (`tmp/la-checks/marklocate.py`): line mapping by pixel profiles failed on pages
-with verse blocks. Instead, the words around a mark (the left sides) are looked up in
-Tesseract's word boxes:
+**Why crops at 1×**: a model shrinks a whole page (about 1900×2800) to roughly half its
+width. A crop keeps the scan's pixels; enlarging (3×, or the word alone at 8×) did not help.
 
-- every context word votes for the place of the mark; near words weigh more, the mark's own
-  words little (0200: the `ocr/la` gloss repeats a verse line, `Vedi ch'a ciò penso.`, and
-  matching it sent the crop to the verse);
-- the context is widened (6, 15, 30 words) while the place is not clear; an ambiguous place
-  is settled by the order of the located marks around it;
-- the crop is the printed line with its neighbours, at the scan's own resolution, widened
-  along the row (Tesseract may cut a line into pieces) and 60 px at the sides (tercet
-  numbers it missed).
+**Deciding**: one call per mark with a new `Client` (llm7shi 0.24.0, `images=`): the crop,
+the passage with the place as `⟦…⟧`, the two readings in an order fixed by a hash, so the
+side is not given away; the model writes the print first, then chooses.
 
-0195–0208: 208 of 211 located (0195:19, 0203:50 and the end of the 0203:52 passage not).
-An alignment check of the Tesseract line flags 20 (verse rows, runover lines, broken
-words); all 20 and a random sample of 30 of the rest were at the right place in the crops.
-Output: `tmp/la-markcrops/` (crops and `locate.tsv`); `marksheet.py` stacks crops into
-sheets for looking through them. Re-run on the 206 marks of the narrowed step 2
-(`tmp/la-mark2/crops/`, `locate.tsv`): 202 located, the same boxes as before; not located
-0195:19, 0203:50, 0203:52 (`order`: 0203:49).
-
-**Why crops**: a model shrinks a whole page (about 1900×2800) to roughly half its width, and
-the tail of a semicolon (a few pixels) is lost. A crop keeps the scan's pixels. Enlarging
-beyond them adds no information; whether it still helps the model is to be measured. What
-the scan itself has lost cannot be recovered by any crop: such places are answered
-"unreadable" and decided otherwise.
-
-**Deciding** (`tmp/la-checks/markdecide.py`): one small call per mark, through llm7shi
-0.24.0 (`images=`), a new `Client` per mark so that images do not pile up in the history:
-
-- input: the crop (1×, or enlarged with `-k`), the passage around the place with the place
-  shown as `⟦…⟧` (8 words a side, left sides), and the two readings as "Reading 1/2" in an
-  order fixed by a hash of the mark, so the side (ocr/la or GLM-OCR) is not given away;
-- answer: the printed text first (`reading`), then `1`, `2`, `neither`, `unreadable`,
-  `wrong place`; mapped back to `left`/`right` in the TSV;
-- not asked: marks not located and A-only runs over a line or more than 8 words (GLM-OCR's
-  dropped passages: 4 on 0195–0208);
-- each answer saved as `PAGE-LINE-K.kK.MODEL.json` and reused on a rerun; `--fake` answers
-  without calling (`.fake.json`); `-n` caps the new calls, `--only` lists the marks to ask.
-
-Tested with `--fake` on 0195–0208 (199 questions; the hash puts side 1 on the left 103
-times) and on the labelled set; the `images=` path (a `Path` at 1×, bytes at 3×) checked
-through llm7shi's message conversion. No paid call yet.
-
-**Labelled set** (`tmp/la-label/`, by `labsample.py` from `mkmarks.py` against
-`314883d` for 0104–0194; the left side is the checked text, so the right answer is always
-`left`): short marks (one line, ≤3 words a side), sampled by class with seed 1: colon 40,
-comma 15 (a dot read in the scan; the "commas" convention, so `right` may be the scan's
-truth), punct 30, letters 50; 133 located (`lablocate.tsv`, `labcrops/`). Plus the 15
-suspected misprints above as `{{printed|expected}}` (`labm/`), to measure whether the model
-reports the print. Scored by `markscore.py LABELS.tsv DECIDE.tsv... -o OUT`.
-
-**Measured** (model `gpt-6-luna`, 2026-10-13; answers in `tmp/la-label/ans/`, scores in
-`tmp/la-label/score-*.txt`):
+**Measured** on labelled marks of 0104–0194 (the corrections of commit 1; model
+`gpt-6-luna`, 2026-10-13; answers in `tmp/la-label/ans/`):
 
 | Set | Result |
 |---|---|
-| letters, 1× | 45/48; wrong: `flammæ` for printed `flamme`, and in 0108 the print had neither side (`riconoscuto`, fixed in `ocr/la`) |
-| punct, 1× | 24/28; wrong: an accent added (`solvitís`); the rest are conventions (`³⁶`/`36`, `'`/`’`, the line-end hyphen of a paragraph-per-line page) |
-| comma, 1× | 9/14; the other 5 read the dot that the scan shows (the commas convention) |
-| colon, 1× / 3× / 8× tight crop | 33/40, 32/40, 36/40; every error a faint semicolon tail read as `:`; the answers change between runs |
-| misprints, 1× / 8× / 8× without passage | 9/15, 9/15, 7/15: the model reads the common form (`Dedit` for printed `Ledit`, `nova` for `nora`) |
+| letters | 45/48; wrong: `flammæ` for printed `flamme`, and in 0108 the print had neither side (`riconoscuto`, fixed in `ocr/la`) |
+| punct | 24/28; wrong: an accent added (`solvitís`); the rest are conventions |
+| comma | 9/14; the other 5 read the dot that the scan shows (the commas convention) |
+| colon, 1× / 3× / 8× | 33/40, 32/40, 36/40; every error a faint semicolon tail read as `:` |
+| misprints, 1× / 8× / 8× without passage | 9/15, 9/15, 7/15: the model reads the common form (`Dedit` for printed `Ledit`) |
 
-The 8× crops (`tightcrop.py`: the word, enlarged by nearest neighbour) and `--no-passage`
-did not help; they are kept only as a record. A context rule for `:`/`;` (naive Bayes on
-the neighbouring words, trained on 0104–0194, cross-validated by page) is right 70% of the
-time, 87% for the 23% it is most sure of; it called all 4 true colons of the colon set `;`.
+A context rule for `:`/`;` (naive Bayes on the neighbouring words, trained on 0104–0194,
+cross-validated by page) is right 70% of the time.
 
-**Decided routes** for the marks left after step 2:
+### Step 4: routes and resolving (`ocr/la_markresolve.py`) — done for 0195–0208
 
 | Mark | Decided by |
 |---|---|
 | `:` against `;` only | the context rule; no image, no model; errors accepted |
 | `.` against `,` only | la-el-claude, from the context (no image) |
-| letters | the model (1× crop) and Tesseract's word: taken when both pick the same side; else la-el-claude in the image (labelled: 46 of 63 taken, 1 of them wrong) |
+| letters | the model and Tesseract's word: taken when both pick the same side; else la-el-claude in the image |
 | other punctuation, accents | the model; when it picks the side with an added accent, la-el-claude in the image |
-| not located; GLM-OCR's dropped passages | la-el-claude in the image |
+| one side only, not located, dropped passages, the model's `neither` | la-el-claude in the image |
+| any model decision that changes `ocr/la` | confirmed by la-el-claude in the image (`mine.tsv`) |
 
-### Step 4: apply and verify — done for 0195–0208
+0195–0208 (`tmp/la-mark2/`): rule 6, model 174 asked, 112 taken (80 of them keeping
+`ocr/la`, unchecked); to la-el-claude 82. Of the model's 32 changes, 7 were wrong (0202
+`eo` and 0208 `eos` read `co`, `cos`; five tercet numbers given a dot the print lacks; the
+`1`/`1.` rule now resolves these). Compared with la-el-claude's reading of the 94 marks it
+was shown, the model differed in 27 (about a third): mostly normalizing (`rispettivi` for
+printed `respettivi`, `Anmodo`, `corum`, `quizzant`), and Tesseract shares GLM-OCR's c/e
+errors (`Tune`, `adhue`, `co`).
 
-`tmp/la-checks/markroute.py` routes the marks (`route.tsv`); la-el-claude's decisions go
-into `mine.tsv` (`left`, `right`, or `text:` with the printed text), replacements after
-resolving into `fixes.tsv`; `tmp/la-checks/markapply.py` resolves them into
-`tmp/la-mark2/out/`, then the pages are copied to `ocr/la` and the word diff is checked.
-
-0195–0208 (206 marks after step 2): rule 6, model 174 asked; taken from the model 112
-(the `left` ones unchecked, as decided); to la-el-claude 82 (comma 6, one-sided or not
-located 20, model and Tesseract differing 33, accent added 21, model `neither` 8). Every
-decision that changes `ocr/la` was checked in the image: of the model's 32, 7 were wrong
-and reverted (0202 `eo` and 0208 `eos` read `co`, `cos`; five 0208 tercet numbers given a
-dot that the print lacks).
-
-What the check showed:
-- In la-el-claude's share the model was wrong in about a third of the letter marks,
-  mostly by normalizing (`rispettivi` for printed `respettivi`, `Anmodo`, `corum`,
-  `quizzant`, `illuc`); Tesseract shares GLM-OCR's c/e errors (`Tune`, `adhue`, `co`), so
-  agreement of the two is not proof, and the `right` decisions must all be checked.
-- GLM-OCR's dropped passages hid ocr/la errors (0203: `Nonne quid` for `Numquid`,
-  `consilia tione`, two commas), and ocr/la dropped words at a line start that GLM-OCR has
-  (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`).
-- Tercet numbers written `1.` by GLM-OCR against `1` are not trivial in step 2 yet: add
-  them to the `number` rule.
+Beyond the marks: GLM-OCR's dropped passages hid `ocr/la` errors (0203: `Nonne quid` for
+`Numquid`, `consilia tione`, two commas), and `ocr/la` dropped words at a line start that
+GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fixes.tsv`.
 
 ### Known limits
 
@@ -373,40 +300,23 @@ What the check showed:
    question for 0079–0103.
 3. The rule/blank-line pass for 0079–0103 and 0209–0232, including 0225's trailing `—` line
    and the blank before `Similiter sicut illi` on 0228.
-4. Final checks: tercets, rules; search for `æ`, accents and `—`; line counts.
+4. Final checks: `la_check.py` (tercets, rules); search for `æ`, accents and `—`; line counts.
 5. `texts/convert_la.py` (normalizing `’`), the READMEs, texts/PLAN.md (status, a pointer
    here), and the commits.
 6. Then decide whether batch 3+ uses the same method.
 
 ## Tools
 
-In `tmp/la-checks/` (not in the repository), all run with `uv run`, output with `-o`:
+- `ocr/la_markup.py`, `la_markprep.py`, `la_markdecide.py`, `la_markresolve.py`: the method
+  above.
+- `ocr/la_check.py FIRST LAST [-v] [-o OUT]`: tercet numbers (order, every third line,
+  continuity across pages) and the section rules of the images against the blank lines
+  (the rule count often misses right-column and page-end rules: look at a listed page).
+- Survey of the verse blocks (texts/PLAN.md, step 1), in `tmp/la-checks/` (not in the
+  repository, with local paths): `survey3.py`, `an9.py`–`an11.py`, `lang.py`,
+  `worklist.py`, with `pages9.json`, `pages10.json`, `survey3.json`. Whether they are
+  needed depends on the method for batch 3+.
 
-- **Markup**: `markcheck.py OUTDIR PAGE -o OUT` (re-checks saved answers without the LLM;
-  it rewrites `OUTDIR/PAGE.txt`, so run it on a copy), `markstats.py DIR PAGE... -o OUT`
-  (classifies the marks), `markpost.py`, `marklocate.py`, `marksheet.py`, `markdecide.py`
-  (above).
-- **Measuring the decisions**: `labsample.py DIR PAGE... -d OUTDIR -n CLASS=N... -o OUT.tsv`
-  (samples labelled marks by class), `markscore.py` (above).
-- **Images**: `ov.py` (1/3 overview with 0.05 ticks), `mag.py PAGE TOP BOTTOM LEFT RIGHT -k K`
-  (zoom), `strips.py` (full-resolution strips), `thirds.py` (0.8 scale; not reliable for
-  `:`/`;`), `vcrop.py`.
-- **GLM-OCR comparison**: `align.py`, `realdiff.py` (ignores brackets, so `qu[em]libet` was
-  missed), `onesided.py`, `laverse.py`, `glmverse.py`.
-- **Structure**: `tercets.py`, `rules.py` (often misses right-column rules), `ruleshots.py`,
-  `setblanks.py`, `gaps.py` (`columns()`/`lines()`), `pageend-rules.txt`.
-- **Edits and diffs**: `fix.py`, `subs.py PAGE OLD NEW` (a unique replacement), `worddiff.py
-  BASE PAGE... -o`, `colons.py BASE PAGE... -o`, `glmchk.py WD -o`, `vsbase.py`, `own.py`,
-  `added.py`, `unlisted.py`.
-- **Checking edits against a base** (used for commit 3): `mkmarks.py BASE PAGE... -d DIR -o
-  OUT.tsv` (the changes as `{{new|old}}` marks, classed as `wdclass.py` does, so that
-  `marklocate.py` crops them), `blockdiff.py DIR PAGE... -o` (large added blocks aligned with
-  GLM-OCR, only the differing words listed), `zoomsheet.py LIST.tsv -o` (crops of listed
-  words, enlarged, in one sheet), `wordcrop.py`.
-- **Survey and work lists** (texts/PLAN.md, step 1): `survey3.py`, `an9.py`–`an11.py`,
-  `lang.py`, `worklist.py`, with `pages9.json`, `pages10.json`, `survey3.json`.
-
-Working data in `tmp/`: `la-markup/` (the paid LLM answers; keep), `la-markup-post/`,
-`la-tess/` (now also 0104–0194), `la-markcrops/` (first run), `la-mark2/` (0195–0208 after
-commit 3: `markup/`, `post/`, `crops/`, `locate.tsv`), `la-label/` (the labelled set; paid
-answers go in `la-label/ans/`; keep).
+Working data in `tmp/`: `la-tess/` (Tesseract's words for 0079–0232), `la-markup/` (the
+paid markup answers for 0195–0208; keep), `la-mark2/` (the work directory of 0195–0208:
+answers, decisions, fixes), `la-label/` (the labelled set: paid answers and scores).
