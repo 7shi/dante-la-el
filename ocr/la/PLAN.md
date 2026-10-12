@@ -186,6 +186,27 @@ reading on the left, the GLM-OCR reading on the right, one side empty for text f
 side only. The text outside the marks is `ocr/la` unchanged, so resolving every mark to its
 left side gives the page back exactly.
 
+**Workflow** (the scripts in `ocr/`; WORK is a work directory in `tmp/`, TESS the directory
+of Tesseract's `PAGE.tsv` files, e.g. `tmp/la-tess`):
+
+```sh
+uv run ocr/la_markup.py -m MODEL -o WORK/markup PAGE...   # paid: the marks
+uv run ocr/la_markprep.py WORK PAGE... -t TESS            # steps 2-3: trivial marks, crops, ask.txt
+uv run ocr/la_markdecide.py WORK -m MODEL                 # paid: the model's verdicts
+uv run ocr/la_markresolve.py WORK -t TESS                 # routes; review.tsv; WORK/out/
+# la-el-claude decides review.tsv in the images into WORK/mine.tsv (and WORK/fixes.tsv),
+# then reruns la_markresolve.py, checks the word diff of WORK/out/, and adds --write
+```
+
+The paid calls are run by the user; saved answers are reused, so a rerun asks only for
+what is missing. The steps below were developed with scripts in `tmp/la-checks/`, merged
+into these: `markpost.py` + `marklocate.py` → `la_markprep.py` (with the `1`/`1.` tercet
+number rule added); `markdecide.py` → `la_markdecide.py` (1× crops only; the answers named
+by a hash of the readings, not by the mark's index); `colrule.py` + `markroute.py` +
+`markapply.py` → `la_markresolve.py` (a model decision that changes `ocr/la` waits for a
+confirmation in `mine.tsv`). Checked on 0195–0208: the merged scripts give the committed
+pages exactly.
+
 ### Step 1: markup (`ocr/la_markup.py`) — done for 0195–0208
 
 ```sh
@@ -347,9 +368,7 @@ What the check showed:
 
 ## Next steps
 
-1. Promote into `ocr/` the scripts of the method that stay in use: `markpost.py`, `marklocate.py`, `markdecide.py`, `colrule.py`, `markroute.py` and
-   `markapply.py` (Tesseract's command in the docstrings without local paths). The
-   measuring tools (`tightcrop.py`, `labsample.py`, `markscore.py`) stay in `tmp/`.
+1. (done: the scripts promoted into `ocr/`, see Workflow above.)
 2. The same for 0209–0232, 0115, 0141 (and 0128, 0140); then the letter-by-letter
    question for 0079–0103.
 3. The rule/blank-line pass for 0079–0103 and 0209–0232, including 0225's trailing `—` line
