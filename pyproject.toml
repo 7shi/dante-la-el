@@ -8,13 +8,16 @@ authors = [
 ]
 requires-python = ">=3.13"
 dependencies = [
+    "dante-corpus",
     "google-genai>=2.28.0",
     "llm7shi>=0.24.0",
     "pdf2image>=1.17.0",
     "pillow>=12.3.0",
     "pypdf2>=3.0.1",
+    "rapidfuzz>=3.14.6",
     "tqdm>=4.70.1",
 ]
 
 [tool.uv.sources]
 llm7shi = { git = "https://github.com/7shi/llm7shi.git" }
+dante-corpus = { path = "../dante-corpus", editable = true }

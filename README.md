@@ -25,6 +25,18 @@ English (Carlyle's literal prose translation, with the Italian text)
 
 [ocr/](ocr/) contains the scanned page images of the Latin (`la/`), Ancient Greek (`grc/`), and English/Italian (`en/` for Carlyle's own edition, `en-oelsner/` for Oelsner's edition) sources, their OCR transcriptions (`.txt`), and the scripts used to produce them. See [ocr/README.md](ocr/README.md) for details.
 
+## Dependency
+
+Some of the checks read the Italian text of [dante-corpus](https://github.com/7shi/dante-corpus) through its API, as an editable path dependency (`../dante-corpus`), so both repositories must share one parent directory:
+
+```bash
+git clone https://github.com/7shi/dante-corpus.git
+git clone https://github.com/7shi/dante-la-el.git
+make -C dante-corpus
+cd dante-la-el
+uv sync
+```
+
 ## References
 
 * https://latindiscussion.org/threads/dante-divina-commedia-inferno-i.16133/
