@@ -18,7 +18,7 @@ by batches; this file records where that method got to and the method that repla
 
 ## State (2026-10-12)
 
-The work so far is committed in four steps:
+The work so far is committed in five steps:
 
 1. **Checked pages** (`f4f5b28`).
 2. **Outlier fixes** (`eadde5b`).
@@ -33,16 +33,17 @@ The work so far is committed in four steps:
    the text they did not touch is as unproofread as before.
 4. **Markup method on 0195–0208** (`3cf7bad`, 2026-10-13; also `410ace9` for 0108 and 0175):
    see step 4 below.
+5. **Markup method on 0209–0232, 0115, 0141** (`c9d1cc1`, 2026-10-13): the same.
 
 | Scans | State | Commit |
 |---|---|---|
 | `0079`–`0103` | Verse completed and the GLM-OCR differences resolved (batch 1, by la-el-codex), checked by la-el-claude; the later delegate edits checked (commit 3). Not proofread letter by letter; the rule/blank-line pass is not done. | 1, 3 |
 | `0104`–`0194` | Proofread letter by letter (by la-el-agy, chunks c6–c12); every change checked by la-el-claude in the images. 0162 and 0172 are blank pages. Exceptions below. | 1 |
-| `0115`, `0141` | The delegate's small edits checked; the pages are not proofread. | 3 |
+| `0115`, `0141` | The delegate's small edits checked; the two-OCR marks resolved by the markup method (no change). | 3, 5 |
 | `0128`, `0140` | Not changed by the delegate, not checked in the images. | — |
 | `0195`–`0208` | Two passes by la-el-codex (c13, c13b) plus fixes by la-el-claude (0197 `Ammodo`, `circulecto`; 0201 `[in]`, `qu[em]libet`; 0204 `nobilia` ×2; 0208 blank lines after the indented lemma pairs); the edits checked (commit 3). The two-OCR marks resolved by the markup method (steps 1–4), every change checked in the image. Text that both OCRs read alike is not checked. | 3, 4 |
 | `0108`, `0175` | `riconoscuto` and the space before a semicolon fixed (found while measuring). | 4 |
-| `0209`–`0232` | Verse completed (batch 2) and the GLM-OCR differences followed (c4; c5 for 0209–0220, line by line), by la-el-codex; the edits checked (commit 3). Not proofread. | 3 |
+| `0209`–`0232` | Verse completed (batch 2) and the GLM-OCR differences followed (c4; c5 for 0209–0220, line by line), by la-el-codex; the edits checked (commit 3). The two-OCR marks resolved by the markup method, every change checked in the image (0214: a trailing blank line dropped; 0227: the running head cut to `CAPITULU` restored with the page number, its duplicate before the Latin verse removed). Text that both OCRs read alike is not checked. | 3, 5 |
 | `0239`, `0263`, `0287`, `0357`, `0472`, `0513`, `0546`, `0561`, `0562` | Whole columns, verse blocks or footnotes missing from `ocr/la`, found by the GLM-OCR outlier check and restored from the images. The rest of these pages is not proofread. | 2 |
 | other pages | Not touched since the transcriber's notes were deleted (commit `029b55c`). | — |
 
@@ -276,6 +277,17 @@ was shown, the model differed in 27 (about a third): mostly normalizing (`rispet
 printed `respettivi`, `Anmodo`, `corum`, `quizzant`), and Tesseract shares GLM-OCR's c/e
 errors (`Tune`, `adhue`, `co`).
 
+0209–0232, 0115, 0141 (`tmp/la-mark3/`): 231 trivial marks resolved, rule 20, model 338
+asked, 207 taken (all keeping `ocr/la`, unchecked); to la-el-claude 190 (34 commas, 156 in
+the image or from the model's answer). Of the 18 changes the model and Tesseract agreed on,
+3 were wrong (`si` for printed `sì`, `denota re'tur` for `denota[re]tur`, `codem`). Where
+Tesseract disagreed, the model picked GLM-OCR's side 17 times, rightly only twice
+(`fui[t]`, `decimo.`); the others were misreadings (`staute`, `Molo`, `Nibil`, `soffliò`,
+`introtyu`). Both OCRs wrong: 0220 `ecclissi`. Also fixed: 0227 `dicat: Tu` (a difference
+the markup missed), 0231 `dicebat,`, 0232 `E sì che`. The markup left 6 differences
+unmarked (`la_markup.py` reports them as missed); 5 were artefacts of marks across a
+line-end hyphen.
+
 Beyond the marks: GLM-OCR's dropped passages hid `ocr/la` errors (0203: `Nonne quid` for
 `Numquid`, `consilia tione`, two commas), and `ocr/la` dropped words at a line start that
 GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fixes.tsv`.
@@ -296,7 +308,7 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
 ## Next steps
 
 1. (done: the scripts promoted into `ocr/`, see Workflow above.)
-2. The same for 0209–0232, 0115, 0141 (and 0128, 0140); then the letter-by-letter
+2. (done for 0209–0232, 0115, 0141; 0128 and 0140 are blank.) The letter-by-letter
    question for 0079–0103.
 3. The rule/blank-line pass for 0079–0103 and 0209–0232, including 0225's trailing `—` line
    and the blank before `Similiter sicut illi` on 0228.
@@ -319,4 +331,5 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
 
 Working data in `tmp/`: `la-tess/` (Tesseract's words for 0079–0232), `la-markup/` (the
 paid markup answers for 0195–0208; keep), `la-mark2/` (the work directory of 0195–0208:
-answers, decisions, fixes), `la-label/` (the labelled set: paid answers and scores).
+answers, decisions, fixes), `la-mark3/` (the same for 0209–0232, 0115, 0141, with its
+paid markup answers in `markup/`), `la-label/` (the labelled set: paid answers and scores).
