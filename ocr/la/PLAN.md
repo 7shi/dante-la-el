@@ -326,8 +326,10 @@ time, 87% for the 23% it is most sure of; it called all 4 true colons of the col
 
 1. 0195–0208: apply the decided routes to the 206 marks (`tmp/la-mark2/`): a routing
    script, the model calls for the letter and punctuation marks (1×), la-el-claude's
-   decisions, then step 4. Then promote `marklocate.py` and `markdecide.py` into `ocr/`
-   (Tesseract's command in the docstring without local paths).
+   decisions, then step 4. Then promote into `ocr/` the scripts of the method that stay in
+   use: `markpost.py`, `marklocate.py`, `markdecide.py`, `colrule.py`, `markroute.py` and
+   the apply step (Tesseract's command in the docstrings without local paths). The
+   measuring tools (`tightcrop.py`, `labsample.py`, `markscore.py`) stay in `tmp/`.
 2. The same for 0209–0232, 0115, 0141 (and 0128, 0140); then the letter-by-letter
    question for 0079–0103.
 3. The rule/blank-line pass for 0079–0103 and 0209–0232, including 0225's trailing `—` line
