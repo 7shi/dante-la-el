@@ -49,14 +49,9 @@ The work so far is committed in five steps:
 
 ### Found during the check of commit 3, outside the edits (to do)
 
-- 0091: `sedes:`, `habuisti;`, `infernales:`, `dixisti:` look like `sedes;`, `habuisti:`,
-  `infernales;`, `dixisti;` in the scan (committed in commit 1); decide at 3×.
 - 0085:81: one file line holds two printed lines (`magnanimus … et` / `hoc opus nobile
   fecit.`).
 - 0231: the running head stands before the page number.
-- Commas kept where the scan shows a dot (the open "commas" convention): 0089 `crescens,`,
-  `octo,`; 0211 `alta,`; 0213 `plectitur,`, `scorta,`; 0224 `Imperatoris,`; 0231 `dicunt,`
-  (an edit to `dicunt.` was reverted for consistency).
 - 0208:63 `ruinosum`: the scan shows `rainosum`; taken as a damaged `u`.
 
 ## Standing rules
@@ -91,7 +86,8 @@ The work so far is committed in five steps:
   disagreement of the two OCRs is decided by a context rule, not the image (see step 3):
   the edition uses `:` also as a stop stronger than `;` (`…ad peccandum: et hoc…`, 35
   times `: et` in 0104–0194), so the choice cannot be fixed by sentence structure, and it
-  matters little to the text.
+  matters little to the text. Applied also to 0091 (`sedes;`, `infernales;` changed;
+  `habuisti;`, `dixisti:` kept), where the scan seemed to show the other mark.
 - **Commas**: a dot that should be a comma, with the comma tail lost in the scan, is
   taken as a comma (0112 and others; GLM-OCR also reads commas there). Decided from the
   context: a dot inside a running sentence is a comma.
