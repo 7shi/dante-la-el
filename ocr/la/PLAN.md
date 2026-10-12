@@ -84,12 +84,15 @@ The work so far is committed in three steps:
   verse word goes on its own line starting with `[`.
 - **Punctuation**: no space before `:` or `;`. Apostrophe spacing as in the file. No accents
   added that the scan does not show.
-- **Colon or semicolon**: decided only on a crop at full resolution, enlarged; a semicolon
-  has a clear comma tail. A `:`→`;` change that GLM-OCR also reads as `;` was always right;
-  one where GLM-OCR keeps `:` was wrong in most cases (c10: 5 of 7).
-- **Commas**: a dot that should be a comma, with the comma tail lost in the scan, was
-  accepted as a comma (0112 and others; GLM-OCR also reads commas there). Open to the
-  user's decision.
+- **Colon or semicolon**: in commits 1–3 decided on a crop at full resolution, enlarged; a
+  semicolon has a comma tail, often faint. From the markup method on, a `:`/`;`
+  disagreement of the two OCRs is decided by a context rule, not the image (see step 3):
+  the edition uses `:` also as a stop stronger than `;` (`…ad peccandum: et hoc…`, 35
+  times `: et` in 0104–0194), so the choice cannot be fixed by sentence structure, and it
+  matters little to the text.
+- **Commas**: a dot that should be a comma, with the comma tail lost in the scan, is
+  taken as a comma (0112 and others; GLM-OCR also reads commas there). Decided from the
+  context: a dot inside a running sentence is a comma.
 - **Blank lines**:
   - at each printed rule;
   - at a section gap without a rule (0155);
@@ -167,8 +170,9 @@ before it, with the suspicious items checked in the images.
     (the commit 2 pages above). `ocr/la` 1240 (no commentary) and 1286 (ends at
     `(Genesis`) look incomplete and are not fixed.
 - **Tesseract** (`tesseract PAGE.png OUT -l lat+ita tsv`, run locally): used only for the
-  word boxes, to locate a place in the image. Its readings are poor and are not a third
-  vote, though they are shown with the crop.
+  word boxes, to locate a place in the image. Its readings are poor in general, but it does
+  not normalize spellings (13 of the 15 suspected misprints read as printed), so for the
+  letter marks of step 3 its word is a second vote beside the model.
 
 ## The method: two-OCR markup, then image decisions
 
@@ -273,12 +277,31 @@ truth), punct 30, letters 50; 133 located (`lablocate.tsv`, `labcrops/`). Plus t
 suspected misprints above as `{{printed|expected}}` (`labm/`), to measure whether the model
 reports the print. Scored by `markscore.py LABELS.tsv DECIDE.tsv... -o OUT`.
 
-Measure first (paid; run by the user): the labelled set at 1×, the 40 colons at 3×
-(`--only tmp/la-label/colon.txt -k 3`), and the misprints.
+**Measured** (model `gpt-6-luna`, 2026-10-13; answers in `tmp/la-label/ans/`, scores in
+`tmp/la-label/score-*.txt`):
 
-**What stays with la-el-claude** (in the harness, looking at the images): the marks not
-located, GLM-OCR's dropped passages (A-only over several lines; they need several crops),
-and the answers `neither`, `unreadable`, `wrong place`. Expected about one in ten.
+| Set | Result |
+|---|---|
+| letters, 1× | 45/48; wrong: `flammæ` for printed `flamme`, and in 0108 the print had neither side (`riconoscuto`, fixed in `ocr/la`) |
+| punct, 1× | 24/28; wrong: an accent added (`solvitís`); the rest are conventions (`³⁶`/`36`, `'`/`’`, the line-end hyphen of a paragraph-per-line page) |
+| comma, 1× | 9/14; the other 5 read the dot that the scan shows (the commas convention) |
+| colon, 1× / 3× / 8× tight crop | 33/40, 32/40, 36/40; every error a faint semicolon tail read as `:`; the answers change between runs |
+| misprints, 1× / 8× / 8× without passage | 9/15, 9/15, 7/15: the model reads the common form (`Dedit` for printed `Ledit`, `nova` for `nora`) |
+
+The 8× crops (`tightcrop.py`: the word, enlarged by nearest neighbour) and `--no-passage`
+did not help; they are kept only as a record. A context rule for `:`/`;` (naive Bayes on
+the neighbouring words, trained on 0104–0194, cross-validated by page) is right 70% of the
+time, 87% for the 23% it is most sure of; it called all 4 true colons of the colon set `;`.
+
+**Decided routes** for the marks left after step 2:
+
+| Mark | Decided by |
+|---|---|
+| `:` against `;` only | the context rule; no image, no model; errors accepted |
+| `.` against `,` only | la-el-claude, from the context (no image) |
+| letters | the model (1× crop) and Tesseract's word: taken when both pick the same side; else la-el-claude in the image (labelled: 46 of 63 taken, 1 of them wrong) |
+| other punctuation, accents | the model; when it picks the side with an added accent, la-el-claude in the image |
+| not located; GLM-OCR's dropped passages | la-el-claude in the image |
 
 ### Step 4: apply and verify (to write)
 
@@ -301,9 +324,10 @@ and the answers `neither`, `unreadable`, `wrong place`. Expected about one in te
 
 ## Next steps
 
-1. 0195–0208: (done: re-checked markup, narrowed step 2, decision script written.) Measure
-   the decisions on the labelled set (1×, colons 3×, misprints); choose the model and the
-   scale; decide the 206 marks (`tmp/la-mark2/`); apply; check the leftovers in the images.
+1. 0195–0208: apply the decided routes to the 206 marks (`tmp/la-mark2/`): a routing
+   script, the model calls for the letter and punctuation marks (1×), la-el-claude's
+   decisions, then step 4. Then promote `marklocate.py` and `markdecide.py` into `ocr/`
+   (Tesseract's command in the docstring without local paths).
 2. The same for 0209–0232, 0115, 0141 (and 0128, 0140); then the letter-by-letter
    question for 0079–0103.
 3. The rule/blank-line pass for 0079–0103 and 0209–0232, including 0225's trailing `—` line
