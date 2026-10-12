@@ -1,29 +1,51 @@
-CAPITULUM DECIMUM
 133
 
-^ Gens, quæ per sepulchra iacet,
+CAPITULUM DECIMUM
+
+³ La gente, che per li sepolchri giace,
+Potrebbesi veder? già son levati
+Tutti e coperchi, e nessun guardia face.
+⁴ Et elli a me: Tutti saran serrati,
+Quando di Iosaphat qui torneranno
+Coi corpi che lassù hanno lassati.
+⁵ Suo cimiterio da questa parte hanno
+Con Epycuro tutti e suoi seguaci,
+Che l'anima col corpo morta fanno.
+⁶ Però alla dimanda che mi faci
+Quinc'entro satisfacto sarai tosto,
+Et al desio ancor che tu mi taci.
+⁷ Et io: Buon duca (¹), non tengo riposto (²)
+A te mio cor, se non per dicer poco;
+E tu m'hai non pur mo a ciò disposto.
+⁸ O Tosco, che per la città del foco
+Vivo ten vai così parlando honesto,
+Piaciati d'arrestar (³) in questo loco.
+
+(¹) al. maestro — (²) celato — (³) fermarti alquanto.
+
+³ Gens, que per sepulchra iacet,
 Posset ne videri? Iam sunt deposita
 Omnia cooperimenta, et nullus custodiam facit.
-^ Et ipse ad me: Omnia erunt clausa,
+⁴ Et ipse ad me: Omnia erunt clausa,
 Quando a Josaphat huc redibunt
-Cum corporibus quæ superius dimiserunt.
-^ Suum cimiterium ab ista parte habent
+Cum corporibus que superius dimiserunt.
+⁵ Suum cimiterium ab ista parte habent
 Cum Epicuro omnes sui sequaces,
 Qui animam cum corpore mortuam faciunt.
-^ Ideo interrogationi quam michi facis
+⁶ Ideo interrogationi quam michi facis
 Hic intus satisfiet tibi cito,
 Et desiderio adhuc quod tu michi taces.
-^ Et ego: Bone dux, non teneo repositum
+⁷ Et ego: Bone dux, non teneo repositum
 Tibi meum cor, nisi ut dicam paucum;
 Et tu me non solum nunc ad hoc disposuisti.
-^ O Tusce, qui per civitatem ignis
+⁸ O Tusce, qui per civitatem ignis
 Vivus vadis sic loquendo honeste,
 Placeat tibi sistere te in isto loco.
 
-Gentem, quæ per sepulchra iacet, possem ne videre? Iam
-sunt elevata omnia copercula, et nemo custodiam
+Gentem, que per sepulchra iacet, possem ne videre? Iam
+sunt elevata omnia copercula, et nemo custodiam facit;
 idest, nemo illorum nos respicit; vel aliter et melius, nullus
-custodit, qui nos impendiat, quia sepulchra sunt aperta,
+custodit, qui nos impediat, quia sepulchra sunt aperta,
 ideo apparet quod bene possent videri.
 
 Et ille, scilicet magister, michi, supple dixit: Omnia erunt
@@ -46,12 +68,13 @@ bere omnes species, totum volumen non suffecisset; ideo
 eligit periculosiorem heresim, scilicet illorum, qui pone-
 bant animam mori cum corpore: que opinio est necdum
 contra Theologiam, sed etiam contra omnem philosophiam,
-scilicet contra platonicam, aristotelicam. Omnes hi posuerunt animam im-
+et etiam contra paganicam opinionem, scilicet contra pla-
+tonicam, aristotelicam. Omnes hi posuerunt animam im-
 mortalem. ut dicit Tullius in libro de Natura Deorum. Hoc
 presupposito, statim sequitur quod sit dare Infernum, etc.
 
 Sed si anima moreretur cum corpore, statim sequeretur
-quod non esset Infernum, nec Purgatorium, nec Paradisus,
+quod non esset Infernus, nec Purgatorium, nec Paradisus,
 nisi in hoc mundo; et tunc labor ad describendum Infernum
 Paradisumque esset ex toto vanus. et sic totum opus au-
 ctoris esset vanum; ideo precipue dampnat hanc opinionem
@@ -61,7 +84,7 @@ sequaces, qui cum corpore animam mortuam faciunt. Ista
 est igitur species heresis.
 
 Ideo petitioni quam michi facis, hic intus satisfiet
-cito et desiderio adhuc quod tu taces. Tu petis scire
+cito et desider[i]o adhuc quod tu taces. Tu petis scire
 de istis: statim videbis: et desiderio, idest, non solum
 quod petis, habebis: sed etiam quod habes in mente, scies.
 
@@ -79,4 +102,4 @@ O Tusce, qui per civitatem ignis vivus vadis sic loquendo
 honeste, placeat tibi morari in hoc loco. Notandum quod
 iste spiritus modernus erat anima unius magni militis Flo-
 rentini, animosi et strenui, scilicet dominus Farinata de
-Uberlis, et fuit princeps partis gebelline quantum ad mun-
+Ubertis, et fuit princeps partis gebelline quantum ad mun-

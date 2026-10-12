@@ -1,12 +1,14 @@
+84
+
 INFERNI
 
 ⁴² Ma s'a conoscere la prima radice
 Del nostr'amor tu hai cotanto affecto,
 Dirò (¹) come colui (²) che piange e dice.
 ⁴³ Noi leggiavam un giorno per dilecto
-Di Lancillotto, com'amor lo strinse:
-Soli eravamo e senz'alcun sospetto.
-⁴⁴ Per più fiate gl'occhi ci sospinse
+Di Lancilotto, com'amor lo strinse:
+Soli eravamo e senz'alcun sospecto.
+⁴⁴ Per più fiate gl' ochi ci sospinse
 Quella lectura, e scolorocci el viso:
 Ma sol un punto fu quel che ci vinse.
 ⁴⁵ Quando leggemmo el desiato riso
@@ -22,20 +24,18 @@ E caddi, come corpo morto cade.
 
 (¹) al. farò. — (²) al. colei.
 
-INFERNI
-
 ⁴² Sed si ad cognoscendam primam radicem
 Nostri amoris tu habes tantum affectum,
-Dicam sicut ille qui plangit et dicit.
+Faciam sicut ille qui plangit et dicit.
 ⁴³ Nos legebamus una die propter delectationem
-De Lancellacto, sicut amor illum strinxit:
+De Lancellocto, sicut amor illum strinxit:
 Soli eramus sine aliqua suspicione.
 ⁴⁴ Per plures vices oculos michi impulit
 Illa lectura, et decoloravit nobis visum:
 Sed solum unus punctus fuit ille qui nos vicit.
 ⁴⁵ Quando legimus desideratum risum
 Osculari a tanto amante,
-Iste, qui numquam a me dividetur,
+Iste, qui nunquam a me dividetur,
 ⁴⁶ Os meum osculatus est totus tremens:
 Galeoctus fuit liber et qui illum scripsit:
 Illo die plus non legimus ulterius.
@@ -47,44 +47,46 @@ Et cecidi, sicut corpus mortuum cadit.
 Sed si cognoscere primam radicem nostri amoris,
 habes tantum affectum, dicam sicut ille qui, plorando,
 dicit. Nos legebamus una die ad delectationem, idest ad
-solatium, de Lancellacto, quomodo amor ipsum strinxit:
-id est librum, idest auctoritatem delectabilium, habere
+solatium, de Lancellocto, quomodo amor ipsum strinxit:
+dicit quod lectura librorum delectabilium habet incitare
 ad amorem.
 Soli eramus absque ulla suspicione. Soli: habilitas
 facit homines fures et latrones, et feminas meretrices.
-Pluribus vicibus nobis oculos suspenxit illa lectura:
+
+Pluribus vicibus nobis oculos suspinxit illa lectura:
 idest fecit nos elevare oculos de libro, et respicere unus
-alium. Et decoloravit os: idest pallidos nos efficiens
+alium. Et decoloravit visum: idest pallidos nos efficiens
 per verecundiam, quia verecundia facit pallidos homines.
 
 Sed solus unus punctus nos vicit, quando legimus de-
 sideratum risum: scilicet illam Genevram ridentem, quia
-Genevra risit quando Lancellactus osculatus fuit eam ordi-
+Genevra risit quando Lancelloctus osculatus fuit eam ordi-
 natione Galeocti.
-Esse osculatum a tanto amante, hic qui a me nun-
+Esse osculatam a tanto amante, hic qui a me nun-
 quam fuit divisus: etiam nunc in morte.
+
 Os meum osculatus fuit totus tremens: pro vere-
 cundia.
 
 Galeoctus fuit liber et qui eum scripsit: mediator
 huius amoris, non fuit inter nos nisi ille liber, quem lege-
-bamus: quia si liber non fuisset factus, non legissimus
-eum et si non legissimus, non venissemus ad hoc.
-Galeoctus: idest sicut Galeoctus fuit leno inter Lancel-
+bamus: quia si liber non fuisset factus, non legissemus
+eum; et si non legissemus, non venissemus ad hoc.
+Galeoctus; idest sicut Galeoctus fuit leno inter Lancel-
 loctum et Genevram, sic iste liber inter nos.
 
 Dum unus spiritus, scilicet Francisce, hec dixit, alter
 plorabat, scilicet Paulus.
-Ita quod ex pietate: idest de conpassione ego defeci ac
-si morerer; et cecidi sicut mortuum corpus cadit.
+Ita quod de pietate: idest de compaxione ego defeci ac
+si morirer, et cecidi sicut mortuum corpus cadit.
 Notandum est hic, quod realiter hoc evenit Danti semel.
-Nam si captus amore Beatricis, sive Bicis, amasie sue, ut
-dictum fuit in uno preambolorum, ivit ad unum locum,
+Dantes, captus amore Beatricis, sive Bicis, amasie sue, ut
+dictum fuit in uno preambulorum, ivit ad unum locum,
 ubi erat curia, idest ubi multi erant congregati, tam viri
 quam mulieres. In illa curia erat Beatrix, sive Bice, ama-
 sia sua; volebat eam videre. Dum iret super scalas, a casu
 obviavit in scalis ipsi Beatrici, quam videndo, maxima
-puncture amoris percussus fuit. Unde passus fuit taliter
+punctura amoris percussus fuit. Unde paxus fuit taliter
 sincopim, quod cecidit in terram quasi mortuus, et fuit
 portatus ad lectum et positus super ipsum; et antequam
 rediret ad se et revivisceret, idest resentiret se, oportuit

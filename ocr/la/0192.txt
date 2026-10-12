@@ -1,4 +1,5 @@
 138
+
 INFERNI
 
 ³² De! se riposi mai nostra semenza,
@@ -6,7 +7,7 @@ Prega'io lui, solvetemi quel nodo,
 Che qui ha inviluppata mia sentenza.
 
 ³² De! si quiescat amodo vestrum semen,
-Rogavi ego eum, solvitís michi illum nodum,
+Rogavi ego eum, solvitis michi illum nodum,
 Qui hic implicavit meam sententiam.
 
 de Aldigheriis de Florentia, de qua domo Aldigheriorum
@@ -39,19 +40,21 @@ relinquere Romam et fugere extra Ytaliam, tunc ipse Scipio
 evaginavit ensem dicens: Quicumque plus dixerit de relin-
 quenda Roma, sentiet hunc ensem. Et sicut Scipio fuit tunc
 causa liberationis civitatis romane, sic dominus Farinata
-fuit causa magne stragis [sanguinis] Florentinorum apud Montemaperti
+fuit, hic in Hempolim, causa liberationis civitatis Florentie.
+Et sic sicut dominus Farinata fuit causa magne stragis
+et effusionis [sanguinis] Florentinorum apud Montemaperti
 et apud fluvium Arbie; sic hic fuit causa salutis civitatis
 Florentie. De primo ipse reputabat se habere causam sic
 faciendi, quia erat exul et expulsus de Florentia cum tota
 parte gebellina. Quarto, est notandum quod totum illud
 spatium, quod est circum circa palatium civitatis Florentie,
 erat plenum domibus illorum de Ubertis, que domus omnes
-fuerant dextructe. Preter illas domus, de quibus factum
-est palatium illud Communitatis, et inter illas domus, erat
+fuerunt dextructe. Preter illas domus, de quibus factum
+est palatium illud Comunitatis, et inter illas domus, erat
 illa ecclesia, que adhuc dicitur ecclesia Sancti Petri in
 Schiragio. In illa ecclesia Sancti Petri in Schiragio datur
 sacramentum omnibus officialibus, scilicet Capitaneo, Po-
-testati, Executori, intrantibus in Florentiam ad sua uffìcia
+testati, Executori, intrantibus in Florentiam ad sua ufficia
 exercenda; et semper datur sacramentum de nunquam
 parcendo illis de domo Ubertorum, de nunquam reducendo
 aliquem ipsorum in civitatem. Istis dictis, poterit bene in-
@@ -60,7 +63,6 @@ Adhuc est notandum, quod primus rex romanorum de
 Theutonicis fuit Fredericus Barbarussa. Iste genuit unum
 filium, nomine Henricum, qui, cessantibus omnibus ma-
 sculis de domo Roberti Guiscardi, quorum ultimus fuit rex
-
 bonus Gulielmus rex Sicilie; de ipso non remansit nisi una
 sua filia, nomine Constantia, que fuit monialis Ordinis Sancte
 Clare in monasterio Panormitane civitatis; tandem cum
@@ -74,20 +76,20 @@ tribus annis. Hic fuit magnus inimicus Ecclesie, quam per-
 sequutus fuit pluribus annis; et maxime tempore bone me-
 morie pape Alexandri III, quem papam profugum per mun-
 dum et incognitum oportuit fugere; qui postea fuit inventus
-et cognitus Venetiis in ecclesia Sancte Marie della Caritate,
+et cognitus Venetiis in ecclesia sancte Marie della Caritate,
 qui, adiutorio Iesu Christi et dominii Venetorum, repositus
 fuit in sede sua. Hic Fredericus, qui fuit tam magnus ini-
 micus Ecclesie Sancte Dei, persecutor romane curie, fecit
-variari Mediolanum, sive civitatem Mediolani, et seminari sal
+arari Mediolanum, sive civitatem Mediolani, et seminari sal
 in eadem. Fecit multa mala; et quia pater suus, rex Hen-
 ricus, filius Frederici primi, scilicet Barbarusse, fuit quasi
 religiosus, fuit adeo bonus homo, quod amplius religiosus
 quam rex proclamatus, et mater sua, domina Constantia,
-monialis, hinc exiit proverbium illud: Quod Antichristus
+fuit monialis, hinc exiit proverbiam illud: Quod Antichristus
 nasci debet ex religioso et moniali, quia Fredericus secun-
-dus, tam malus homo, persecutor Ecclesie, fuit filius ilius
+dus, tam malus homo, persecutor Ecclesie, fuit filius illius
 boni regis Henrici, viventis religiose, et domine Constantie,
-boni regis Gulielmi, olim monialis Ordinis Sancte Clare
+filie boni regis Guilielmi, olim monialis Ordinis Sancte Clare
 de Palermo, sive de Panormo, ex precepto pape extracte vi
 de monasterio et desponsate dicto regi Henrico. Hic Frede-
 ricus secundus habuit quinque filios strenuissimos in armis,
@@ -98,19 +100,19 @@ nuissimus. Habuit primum filium primogenitum Henricum,
 quem constituit regem in Alamania; qui cum patri in
 aliquibus contradiceret, et nollet obedire patri, captus et
 carceratus obiit. In loco eius a patre suo subrogatus fuit
-Corradus, secundus ipsius Frederici secundi; filius iste Cor-
-radus fuit pater Corradini, quem fecit decapitari Ka-
+Conradus, secundus genitus ipsius Frederici secundi; qui
+Conradus fuit pater Conradini, quem fecit decapitari Ka-
 rolus primus. Qui Karolus primus, vocatus a papa Clemente,
 intravit Ytaliam, et post multa bella, apud Beneventum
 dedit conflictum regi Manfredo regi Sicilie, filio naturali
 dicti regis Frederici secundi. Habuit tertio Manfredum spu-
 rium filium, pulcherrimum statura et corpore, strenuum in
 armis, quem pater suus instituit regem Sicilie. Habuit quarto
-Conradum, quem instituit vicarium suum in Lombardia, qui
+Hentium, quem instituit vicarium suum in Lombardia, qui
 tandem mortuus fuit in carceribus civitatis Bononie. Habuit
 quinto Octonem, qui fuit a Venetis captus in mari cum se-
 ptuaginta galeis. Hic Fredericus secundus [fuit] magnus do-
 minus et attemptavit dominium universi; et vere ipse fuit
-dominus quasi totius Ytalie, Alamannie, Sardinie, Corsice,
+dominus quasi totius Ytalie, Alamanie, Sardinie, Corsice.
 Surie et Judee, et regnavit in millesimo ducentesimo quadra-
 gesimo: fuit maximus Gebellinus, persecutor partis guelfe.
