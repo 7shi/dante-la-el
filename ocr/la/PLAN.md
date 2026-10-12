@@ -49,9 +49,6 @@ The work so far is committed in five steps:
 
 ### Found during the check of commit 3, outside the edits (to do)
 
-- 0085:81: one file line holds two printed lines (`magnanimus … et` / `hoc opus nobile
-  fecit.`).
-- 0231: the running head stands before the page number.
 - 0208:63 `ruinosum`: the scan shows `rainosum`; taken as a damaged `u`.
 
 ## Standing rules
