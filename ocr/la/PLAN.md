@@ -304,12 +304,12 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
    0128 and 0140 are blank.)
 2. **0079–0103 letter by letter** (decided 2026-10-13), by the markup method in
    `tmp/la-mark4/` (GLM-OCR and Tesseract are present for all of them):
-   - the user runs `uv run ocr/la_markup.py -m gpt-6-luna --save-usage -o tmp/la-mark4/markup $(seq -f %04g 79 103)`;
+   - the user runs `uv run ocr/la_markup.py -m gpt-6-luna -o tmp/la-mark4/markup $(seq -f %04g 79 103)`;
    - `la_markprep.py tmp/la-mark4 PAGES -t tmp/la-tess` (a page whose marks do not give
      `ocr/la` stops it: compare and fix the page, e.g. a trailing blank line as on 0214);
      check the differences the markup reports as missed;
    - test `la_markdecide.py --fake`, delete the fake answers, then the user runs it with
-     `-m gpt-6-luna --save-usage`;
+     `-m gpt-6-luna`;
    - `la_markresolve.py`; decide `review.tsv` in `mine.tsv` (commas from the context, every
      model change checked in the image, letters where the model and Tesseract differ
      checked when the model would change `ocr/la` or the reading is doubtful) and
