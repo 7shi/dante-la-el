@@ -7,7 +7,7 @@ Tal, ch'ogni vista ne sarebbe schiva.
 Di qua da Trento l'Adice (¹) percosse
 O per tremuoto, o per sostegno manco;
 3 Che da cima del monte, onde si mosse,
-Al piano è sì la roccia disconsesa,
+Al piano è sì la roccia disconscesa,
 Ch'alcuna via darebbe a chi su fosse;
 4 Cotal di quel burrato era la scesa.
 E in su la punta de la rotta laccha
@@ -22,7 +22,7 @@ In tantum, quod omnis visio esset fastidita.
 2 Qualis est illa ruina, que in flanco
 Circa Tridentum Adigem percussit
 Vel propter terremotum vel propter substentationis
-[defectum:
+[defectum;
 3 Quia a summitate montis, unde se movit,
 Ad planitiem est ita roccia prerupta,
 Quod aliquam viam daret illi qui superius esset;
@@ -55,7 +55,7 @@ ponit aliquos violentos famosos. Primo describit auctor pas-
 sum, per quem debebant descendere in istum circulum vio-
 lentorum. Et si capitulum precedens fuit difficile, istud est
 magis.
-Dicit igitur quod locus, per quem transire in descensu
+Dicit igitur quod lucus, per quem transire in descensu
 eos oportet, erat alpestris, idest asper et difficilis. Ad bene
 intelligendum, nota quod, si tu esses in alpibus (alpes
 sunt silve et loca aspera super cacumina montium), et ibi
