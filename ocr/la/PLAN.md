@@ -18,7 +18,7 @@ by batches; this file records where that method got to and the method that repla
 
 ## State (2026-10-12)
 
-The work so far is committed in three steps:
+The work so far is committed in four steps:
 
 1. **Checked pages** (`f4f5b28`).
 2. **Outlier fixes** (`eadde5b`).
@@ -31,6 +31,8 @@ The work so far is committed in three steps:
    them were corrected (17 places, listed in the commit message), and 17 changes of
    apostrophe spacing were reverted to the file's spacing. Only the edits were checked:
    the text they did not touch is as unproofread as before.
+4. **Markup method on 0195–0208** (`3cf7bad`, 2026-10-13; also `410ace9` for 0108 and 0175):
+   see step 4 below.
 
 | Scans | State | Commit |
 |---|---|---|
@@ -38,7 +40,8 @@ The work so far is committed in three steps:
 | `0104`–`0194` | Proofread letter by letter (by la-el-agy, chunks c6–c12); every change checked by la-el-claude in the images. 0162 and 0172 are blank pages. Exceptions below. | 1 |
 | `0115`, `0141` | The delegate's small edits checked; the pages are not proofread. | 3 |
 | `0128`, `0140` | Not changed by the delegate, not checked in the images. | — |
-| `0195`–`0208` | Two passes by la-el-codex (c13, c13b) plus fixes by la-el-claude (0197 `Ammodo`, `circulecto`; 0201 `[in]`, `qu[em]libet`; 0204 `nobilia` ×2; 0208 blank lines after the indented lemma pairs); the edits checked (commit 3). Not proofread: sampled columns showed about 1 error in 15–20 lines. The test bed of the markup method (steps 1–2 done; step 3: located, the decision script written, its measurement waiting). | 3 |
+| `0195`–`0208` | Two passes by la-el-codex (c13, c13b) plus fixes by la-el-claude (0197 `Ammodo`, `circulecto`; 0201 `[in]`, `qu[em]libet`; 0204 `nobilia` ×2; 0208 blank lines after the indented lemma pairs); the edits checked (commit 3). The two-OCR marks resolved by the markup method (steps 1–4), every change checked in the image. Text that both OCRs read alike is not checked. | 3, 4 |
+| `0108`, `0175` | `riconoscuto` and the space before a semicolon fixed (found while measuring). | 4 |
 | `0209`–`0232` | Verse completed (batch 2) and the GLM-OCR differences followed (c4; c5 for 0209–0220, line by line), by la-el-codex; the edits checked (commit 3). Not proofread. | 3 |
 | `0239`, `0263`, `0287`, `0357`, `0472`, `0513`, `0546`, `0561`, `0562` | Whole columns, verse blocks or footnotes missing from `ocr/la`, found by the GLM-OCR outlier check and restored from the images. The rest of these pages is not proofread. | 2 |
 | other pages | Not touched since the transcriber's notes were deleted (commit `029b55c`). | — |
@@ -49,8 +52,6 @@ The work so far is committed in three steps:
   `infernales;`, `dixisti;` in the scan (committed in commit 1); decide at 3×.
 - 0085:81: one file line holds two printed lines (`magnanimus … et` / `hoc opus nobile
   fecit.`).
-- 0199:47 `circulum:` (print `circulum,`?) and 0205:46 `orizontam` (print `orizzontam`):
-  also among the markup marks of 0195–0208.
 - 0231: the running head stands before the page number.
 - Commas kept where the scan shows a dot (the open "commas" convention): 0089 `crescens,`,
   `octo,`; 0211 `alta,`; 0213 `plectitur,`, `scorta,`; 0224 `Imperatoris,`; 0231 `dicunt,`
@@ -127,6 +128,9 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0167 | 5 | `persona orgoglosa` | `orgogliosa` | Possibly the manuscript's spelling (cf. `Figluol`). |
 | 0177 | 84 | `ad sinistrum fiancum` | `flancum` | The image shows the `fi` ligature; GLM-OCR and the earlier file had `flancum`. |
 | 0188 | 62 | `honeste, honorabilis:` | `honorabiliter` | The sense (adverbs) needs `honorabiliter`. |
+| 0204 | 41 | `te volre:` | `volve` | Italic lemma (Latin verse `te volve`); `r` for `v`, as 0154. |
+| 0205 | 34 | `aranzare` | `avanzare` | Italic lemma; `r` for `v`. |
+| 0208 | 58 | `quod lucus,` | `locus` | The sense needs `locus`. |
 | 0189 | 54–55 | `re-` / `spondidi sibi` | `respondi` | Italic lemma; the Latin verse 17 has `Respondi`. |
 
 ## What the delegation taught
@@ -303,11 +307,30 @@ time, 87% for the 23% it is most sure of; it called all 4 true colons of the col
 | other punctuation, accents | the model; when it picks the side with an added accent, la-el-claude in the image |
 | not located; GLM-OCR's dropped passages | la-el-claude in the image |
 
-### Step 4: apply and verify (to write)
+### Step 4: apply and verify — done for 0195–0208
 
-- Resolve the marks from the decisions into `ocr/la`; check that no `{{` is left.
-- Re-run `tercets.py`, `rules.py` and the GLM-OCR diffs.
-- Commit the checked pages.
+`tmp/la-checks/markroute.py` routes the marks (`route.tsv`); la-el-claude's decisions go
+into `mine.tsv` (`left`, `right`, or `text:` with the printed text), replacements after
+resolving into `fixes.tsv`; `tmp/la-checks/markapply.py` resolves them into
+`tmp/la-mark2/out/`, then the pages are copied to `ocr/la` and the word diff is checked.
+
+0195–0208 (206 marks after step 2): rule 6, model 174 asked; taken from the model 112
+(the `left` ones unchecked, as decided); to la-el-claude 82 (comma 6, one-sided or not
+located 20, model and Tesseract differing 33, accent added 21, model `neither` 8). Every
+decision that changes `ocr/la` was checked in the image: of the model's 32, 7 were wrong
+and reverted (0202 `eo` and 0208 `eos` read `co`, `cos`; five 0208 tercet numbers given a
+dot that the print lacks).
+
+What the check showed:
+- In la-el-claude's share the model was wrong in about a third of the letter marks,
+  mostly by normalizing (`rispettivi` for printed `respettivi`, `Anmodo`, `corum`,
+  `quizzant`, `illuc`); Tesseract shares GLM-OCR's c/e errors (`Tune`, `adhue`, `co`), so
+  agreement of the two is not proof, and the `right` decisions must all be checked.
+- GLM-OCR's dropped passages hid ocr/la errors (0203: `Nonne quid` for `Numquid`,
+  `consilia tione`, two commas), and ocr/la dropped words at a line start that GLM-OCR has
+  (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`).
+- Tercet numbers written `1.` by GLM-OCR against `1` are not trivial in step 2 yet: add
+  them to the `number` rule.
 
 ### Known limits
 
@@ -324,11 +347,8 @@ time, 87% for the 23% it is most sure of; it called all 4 true colons of the col
 
 ## Next steps
 
-1. 0195–0208: apply the decided routes to the 206 marks (`tmp/la-mark2/`): a routing
-   script, the model calls for the letter and punctuation marks (1×), la-el-claude's
-   decisions, then step 4. Then promote into `ocr/` the scripts of the method that stay in
-   use: `markpost.py`, `marklocate.py`, `markdecide.py`, `colrule.py`, `markroute.py` and
-   the apply step (Tesseract's command in the docstrings without local paths). The
+1. Promote into `ocr/` the scripts of the method that stay in use: `markpost.py`, `marklocate.py`, `markdecide.py`, `colrule.py`, `markroute.py` and
+   `markapply.py` (Tesseract's command in the docstrings without local paths). The
    measuring tools (`tightcrop.py`, `labsample.py`, `markscore.py`) stay in `tmp/`.
 2. The same for 0209–0232, 0115, 0141 (and 0128, 0140); then the letter-by-letter
    question for 0079–0103.
