@@ -208,8 +208,8 @@ Each canto has the Latin *Summarium*, then pages with the verse in two columns a
 ### Procedure for `la`
 
 0. **Preprocessing** (done, committed separately): the transcriber's notes are deleted (see above).
-1. **Survey** (done; numbers above). Check scripts in `tmp/la-checks/` (not in the repository):
-   - `survey3.py` with `an9.py` / `an10.py` / `an11.py` reads the verse block at the top of each canto text page (up to the first prose paragraph, skipping running heads, page numbers, and the gloss line), splits it into tercets, classifies each as Italian or Latin, and reports per page: both columns / Latin only / Italian only / line counts differing / not recognized, with the Italian lines located in dante-corpus. It writes the work list of each batch.
+1. **Survey** (done; numbers above):
+   - [`ocr/la_survey.py`](../ocr/la_survey.py) reads the verse block at the top of each canto text page (up to the first prose paragraph, skipping running heads, page numbers, and the gloss line), splits it into tercets, classifies each as Italian or Latin, and reports per page: both columns / Latin only / Italian only / line counts differing / not recognized, with the Italian lines located in dante-corpus (read as a dependency in `../dante-corpus`, see the [README](../README.md)). `--cantos` sums it up per canto, `--work FIRST LAST` writes the work list of a batch.
    - `align.py` aligned `ocr/la` pages with GLM-OCR word by word and listed the dropped text and the differing words. It was removed when the delegation stopped; the two-OCR markup (`ocr/la_markup.py`, see [ocr/la/PLAN.md](../ocr/la/PLAN.md)) replaces it.
 2. **Batches**: a trial of Inferno I–III, then 10–11 cantos each, kept within the canticas. The same batches serve the verse and the commentary. Each batch is OCRed with GLM-OCR first (step 3); when its OCR is finished, its delegation starts (step 4), while the next batch is OCRed.
 
