@@ -291,6 +291,11 @@ and the answers `neither`, `unreadable`, `wrong place`. Expected about one in te
 - Errors shared by both OCRs (`Anmodo`, `circuleto`) are not marked. Proposed checks: a
   lexicon check (a rare form one or two letters from a common one, across all of `ocr/la`)
   and a lemma check (an italic lemma in the commentary against the Latin verse of the page).
+- Italics are not transcribed: the quotations (lemmas) in the commentary are printed in
+  italics, but neither `ocr/la` nor GLM-OCR marks them (GLM-OCR has `*…*` on one page
+  only). They are not looked for in the images (too many to check): whether a passage of
+  the commentary is a quotation is to be decided from the text alone (e.g. matched
+  against the verse of the page, as the lemma check above), later.
 - Line breaks and the Latin verse block are not covered by the markup (GLM-OCR joins lines
   and drops the Latin verse). They need a line-count check per column.
 
