@@ -1,6 +1,6 @@
 INFERNI
 
-2 Et quanto dir qual era è cosa dura,
+2 Et quanto dir qual era è cosa dura
 Esta selva selvaggia et aspra e forte,
 Che nel pensier rinova la paura.
 3 Tant'è amara che poco è più morte;
@@ -9,9 +9,9 @@ Dirrò de l'altre cose ch'i' v'ho scorte.
 4 Io non so ben ridir com'i' v'entrai;
 Tant'era pien di sonno in su quel punto,
 Che la verace via abbandonai.
-5 Ma po' ch'i' fui al piè d'un colle giunto,
+5 Ma po' ch'i' fui al pie'd'un colle giunto,
 Là ove terminava quella valle,
-Che m'avea di paura il cor compunto,
+Che m'havea di paura il cor compunto,
 
 2 Hey, quantum, ad dicendum qualis erat, est res dura,
 Ista silva silvestris et aspera et fortis,
@@ -66,7 +66,6 @@ currente.
 Narrat causam quare vult narrare de tali silva, sive
 vita vitiosa, dicendo de bonis, que reperit in illa. Que sunt
 illa bona? Dicit quod est divina iustitia et etiam humana,
-
 conversio sepe peccatorum, abiectio peccatorum, et con-
 versio ad virtutes.
 
@@ -76,10 +75,10 @@ Posset quis sibi dicere: Cur fuisti tam demens, quod
 talem silvam, idest vitam vitiosam, intrasti? Respondet,
 quod erat sompnolentus in illo puncto. Sed quis sompnus
 erat iste? Dicunt Platonici, ponentes animas nostras esse
-demonias, vel Caledemon, idest demonium bonum, plenum
+demonia, vel Caledemon, idest demonium bonum, plenum
 scientia, vel Kacchodemon, idest demonium peximum, ple-
-num nescientia, venientia ad corpora nostra, quod dum ve-
-niunt, obliviscuntur omnium, et patiuntur oblivionem et
+num scientia, venientia ad corpora nostra, quod dum ve-
+niunt, obliviscuntur omnium et patiuntur oblivionem et
 letargum. Que opinio non valet.
 Alii dicerent, quod hic sompnus esset ignorantia, in qua
 nostra anima primo fit et creatur, cum sit in primo sui
@@ -104,6 +103,6 @@ vitiorum, que est ampla, ducens ad mortem. Dicit Virgilius
 in sexto Eneydos: Facilis descensus Averni. etc., sed ad
 superos remeare, hic labor est.
 Mons, per quem ascendere est difficile, est penitentia, et
-via virtutum figurat; sicut vallis, descensum ad centrum.
+viam virtutum figurat; sicut vallis, descensum ad centrum.
 Hic collis terminabat illam vallem, quia inter virtutem
 et vitium non est dare medium.

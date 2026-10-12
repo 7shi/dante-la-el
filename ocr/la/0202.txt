@@ -2,13 +2,35 @@
 
 INFERNI
 
+¹⁸ La froda, ond'ogni consciencia è morsa,
+Può l'huom usar in quei che 'n lui si fida,
+Et in quel che fidanza non imborsa (¹).
+¹⁹ Questo modo dirieto par ch'uccida
+Pur lo vinchio (²) d'amor che fa natura;
+Onde nel cerchio secondo s'annida
+²⁰ Ipocrisia, lusinghe e chi affactura,
+Falsità, ladroneggio e symonia,
+Ruffian, baracti e simile lordura.
+²¹ Per quest'amore l'altro amor s'oblia
+Che fa natura, e quel ch'è poi aggiuncto,
+Di che la fede spetial si cria:
+²² Onde nel cerchio minor, dov'è il puncto
+Dell'universo in su che (³) Dite siede,
+Qualunque trade in eterno è consuncto.
+²³ Et io: Maestro, assai chiaro procede
+La tua ragione, et assai ben distingue
+Questo baracto e 'l popol che possiede.
+²⁴ Ma di': Di quei che la (⁴) palude pingue
+Che mena 'l vento e che batte la pioggia,
+E che si scontran con sì aspre lingue,
+
 18 Fraude, a qua omnis conscientia mordetur,
 Potest homo uti in illo qui de eo confidat,
-Et in illo qui fidem non imburssat.
+Et in illo qui fidem non imbursat.
 19 Iste modus secundus videtur quod occidat
 Solummodo vinculum amoris quod facit natura;
 Unde in circulo secundo se anidat,
-20 Ypocrisia, adulaciones et qui habet facturam,
+20 Ypocrisis, adulaciones et qui habet facturam,
 Falsitas, latrocinium et symonia,
 Lenones, baractarii et similis turpitudo.
 21 Per alium modum illius amoris obliviscitur
@@ -19,13 +41,13 @@ Universi in quo sedet Dites,
 Quicumque prodit in eternum est consumptus.
 23 Et ego: Magister, satis clare procedit
 Tua ratio, et satis bene distinguit
-Istud baractrum et populum qui illud possidet.
+Istud baratrum et populum qui illud possidet.
 24 Sed dic michi: Illi de palude pingui
-Quos ducit ventus et quos percuntit pluvia,
+Quos ducit ventus et quos percutit pluvia,
 Et qui ad invicem sibi obviant cum tam asperis
 [linguis,
 
-(¹) al. in sul qual. — (²) al. della.
+(¹) i. che non si fida in lui. — (²) vinculo. — (³) al. in sul qual. — (⁴) al. della.
 
 sunt res Dei; una filia, scilicet natura; alia neptis, scilicet
 ars. Caorsa est una civitas in Gallia, que vulgariter dicitur
@@ -35,18 +57,28 @@ rarios Caorsos. De illa civitate fuit Papa Ioannes vigesi-
 mus secundus. Hic trahitur materia violentorum.
 
 Col core favella: modo notandum est, quod fraus, de qua
-tractatur admodò, non committitur sine remorsu conscien-
+tractatur admodo, non commictitur sine remorsu conscien-
 tie; [quia] nunquam fit sine deliberatione. Violentia autem,
-non committitur duobus modis, vel quando tu de-
+sicut fraus, commictitur duobus modis; vel quando tu de-
 cipis unum hominem, cui tu debes esse fidelis naturaliter,
-vel quando tu tuum obligas te esse fidelem cuiquam
-homini, ymo omni homini (philantropia est nomen grecum,
-quia quumque homo homini, procedens a natura, quia
-omne animal diligit simile sibi); et qui non solum debes
-esse fidelis a natura, sed etiam ex aliqua pro-
-missione tibi facta: quia si tu promittis
-
-patrem, vel dominum suum. Secunda fraude utuntur illi,
+quia omnis homo ex philantropia tenetur esse fidelis suo
+proximo, ymo omni homini (philantropia est nomen grecum,
+idest quedam affectio humana, procedens a natura; quia
+omne animal diligit simile sibi); vel quando tu decipis
+hominem, cui non solum debes esse fidelis a natura, sed
+etiam ex aliqua promissione sibi facta: quia si tu promictis
+fidem alicui homini, dupliciter sibi obligaris; primo, ex na-
+turali amore, secundo, ex promissione sibi facta. Modo
+frangere fidem primo modo dictam est fraus; sed frangere
+fidem secundo modo dictam est duplex fraus, sicut duplex
+fides frangitur. Nunc dicit auctor: Fraus, a qua omnis
+conscientia mordetur: ipsa, scilicet fraude, potest homo
+uti cum illo qui in ipsum confidit, idest cui fidem promisit,
+et etiam cum illo fidem non imbursat: idest non promisit
+fidem. Prima fraude utuntur illi, qui decipiunt sotios, qui-
+bus promiserunt fidem aliquo modo; sicut qui decipit com-
+patrem, vel dominum suum.
+Secunda fraude utuntur illi,
 qui decipiunt homines, quibus tamen non promiserunt ali-
 quid de novo, idest non tenentur ultra debitum nature.
 Ista secunda fraus solummodo videtur occidere, sive solu-
@@ -70,7 +102,7 @@ inferiori, ubi est punctus universi, idest punitur, super
 quem, dicis, sedet, alias fedet. Quia tales sunt proditores,
 ideo puniuntur in illo loco, ubi sunt maiores pene.
 
-E io maestro. Et ego magister: ista est tertia pars
+E io maiestro. Et ego magister: ista est tertia pars
 huius capituli, ubi auctor movet Virgilio talem questionem,
 primo captando benevolentiam cum laudibus; et dicit: Ma-
 gister, satis bene et clare procedis: tua ratio est bona, idest
