@@ -143,6 +143,8 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0189 | 54–55 | `re-` / `spondidi sibi` | `respondi` | Italic lemma; the Latin verse 17 has `Respondi`. |
 | 0131 | 53 | `qui fuit iustus` / `index,` | `iudex` | A turned `u`; GLM-OCR and Tesseract read `index` too. |
 | 0181 | 106 | `heretici iu archis` | `in` | A turned `n`. |
+| 0111 | 67 | `Racto:` | `Rapto` | Italic lemma of the Italian verse 34 (`Rapto che 'nteser`); no descender of `p`. Cf. 0107 `racta`: possibly the edition's spelling. |
+| 0125 | 90 | `Orpheum, Iulium,` | `Tullium` | Italic lemma; the Latin verse 47 has `Tullium` with a full `T`; the lemma's capital has no crossbar. |
 
 ## What the delegation taught
 
@@ -329,7 +331,8 @@ letters (`valit`, `vulta`). Where Tesseract disagreed, the model picked GLM-OCR'
 times, rightly twice (`descendi`, `Thesyphone`). From the image beyond the two sides: 0116
 `segondo`, 0174 `conce-⏎perat`, 0150 `medesimo` not printed. In the italic lemmas the
 letters `r`/`v`, `t`/`l` and `c`/`e` are often hard to tell; they were decided by the
-sense (0111 `Rapto`, which may be printed `Racto`, and 0125 `Tulium` kept).
+sense, and doubtful ones against the verse they quote on the same page (0111 `Racto`,
+0125 `Iulium`: printed so, unlike the verse; listed as suspected misprints).
 
 Rules, blank lines and line ends on 0104–0208, after the marks: the blank lines around the
 quotations that open each part of a commentary were mostly wrong (before instead of after,
@@ -372,8 +375,13 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
    - `la_markresolve.py`; decide `review.tsv` in `mine.tsv` (commas from the context, every
      model change checked in the image, letters where the model and Tesseract differ
      checked when the model would change `ocr/la` or the reading is doubtful) and
-     `fixes.tsv`; the word diff of `out/` against `ocr/la`; `--write`; `la_check.py`;
-     commit the pages, then PLAN.
+     `fixes.tsv`; a doubtful letter in an italic lemma is compared with the verse it quotes
+     on the same page (Italian or Latin) and with that verse's letter shapes: the verse
+     tells the intended word, the image decides the printed letter, and a lemma printed
+     unlike its verse is kept and listed in "Suspected misprints" (0111 `Racto`, 0125
+     `Iulium`); the word diff of `out/` against `ocr/la`, where a dot taken from the image
+     before a lowercase word is a comma by the convention (0127 `compagnia,`); `--write`;
+     `la_check.py`; commit the pages, then PLAN.
 3. (done: the rule/blank-line pass for 0079–0103 and 0209–0232, `cf35bb3`. Found on the
    way, for step 4: page heads out of order or incomplete on 0083 (no `29`), 0085, 0086
    (`INFERNI` before the Latin verse), 0097, 0210 (no `INFERNI`), 0215 (no `161`), 0216
