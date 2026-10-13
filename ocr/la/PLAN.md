@@ -18,7 +18,7 @@ by batches; this file records where that method got to and the method that repla
 
 ## State (2026-10-12)
 
-The work so far is committed in six steps:
+The work so far is committed in seven steps:
 
 1. **Checked pages** (`f4f5b28`).
 2. **Outlier fixes** (`eadde5b`).
@@ -36,16 +36,18 @@ The work so far is committed in six steps:
 5. **Markup method on 0209–0232, 0115, 0141** (`c9d1cc1`, 2026-10-13): the same.
 6. **Markup method on 0079–0103** (`91a4c39`, 2026-10-13), then the printed lines
    (`611a5dc`): the same, and the line ends compared with Tesseract's.
+7. **Rules and blank lines on 0079–0103 and 0209–0232** (`cf35bb3`): every page `la_check.py`
+   listed looked at in the image.
 
 | Scans | State | Commit |
 |---|---|---|
-| `0079`–`0103` | Verse completed and the GLM-OCR differences resolved (batch 1, by la-el-codex), checked by la-el-claude; the later delegate edits checked (commit 3). The two-OCR marks resolved by the markup method, every change checked in the image (0084: five passages `ocr/la` had dropped; 0079: signature `4`). Line ends compared with Tesseract's: 0083 and 0094 broken into printed lines, 0092's broken words joined. Text that both OCRs read alike is not checked; the rule/blank-line pass is not done. | 1, 3, 6 |
+| `0079`–`0103` | Verse completed and the GLM-OCR differences resolved (batch 1, by la-el-codex), checked by la-el-claude; the later delegate edits checked (commit 3). The two-OCR marks resolved by the markup method, every change checked in the image (0084: five passages `ocr/la` had dropped; 0079: signature `4`). Line ends compared with Tesseract's: 0083 and 0094 broken into printed lines, 0092's broken words joined. Text that both OCRs read alike is not checked. Blank lines checked against the rules (step 7). | 1, 3, 6, 7 |
 | `0104`–`0194` | Proofread letter by letter (by la-el-agy, chunks c6–c12); every change checked by la-el-claude in the images. 0162 and 0172 are blank pages. Exceptions below. | 1 |
 | `0115`, `0141` | The delegate's small edits checked; the two-OCR marks resolved by the markup method (no change). | 3, 5 |
 | `0128`, `0140` | Not changed by the delegate, not checked in the images. | — |
 | `0195`–`0208` | Two passes by la-el-codex (c13, c13b) plus fixes by la-el-claude (0197 `Ammodo`, `circulecto`; 0201 `[in]`, `qu[em]libet`; 0204 `nobilia` ×2; 0208 blank lines after the indented lemma pairs); the edits checked (commit 3). The two-OCR marks resolved by the markup method (steps 1–4), every change checked in the image. Text that both OCRs read alike is not checked. | 3, 4 |
 | `0108`, `0175` | `riconoscuto` and the space before a semicolon fixed (found while measuring). | 4 |
-| `0209`–`0232` | Verse completed (batch 2) and the GLM-OCR differences followed (c4; c5 for 0209–0220, line by line), by la-el-codex; the edits checked (commit 3). The two-OCR marks resolved by the markup method, every change checked in the image (0214: a trailing blank line dropped; 0227: the running head cut to `CAPITULU` restored with the page number, its duplicate before the Latin verse removed). Text that both OCRs read alike is not checked. | 3, 5 |
+| `0209`–`0232` | Verse completed (batch 2) and the GLM-OCR differences followed (c4; c5 for 0209–0220, line by line), by la-el-codex; the edits checked (commit 3). The two-OCR marks resolved by the markup method, every change checked in the image (0214: a trailing blank line dropped; 0227: the running head cut to `CAPITULU` restored with the page number, its duplicate before the Latin verse removed). Text that both OCRs read alike is not checked. Blank lines checked against the rules (step 7). | 3, 5, 7 |
 | `0239`, `0263`, `0287`, `0357`, `0472`, `0513`, `0546`, `0561`, `0562` | Whole columns, verse blocks or footnotes missing from `ocr/la`, found by the GLM-OCR outlier check and restored from the images. The rest of these pages is not proofread. | 2 |
 | other pages | Not touched since the transcriber's notes were deleted (commit `029b55c`). | — |
 
@@ -95,10 +97,13 @@ The work so far is committed in six steps:
 - **Blank lines**:
   - at each printed rule;
   - at a section gap without a rule (0155);
-  - after an indented lemma pair (0164, 0208);
+  - after an indented lemma pair or quotation (0164, 0208, 0094, 0095, 0222), not before it;
   - not at a column change unless a rule stands there;
+  - before a signature mark at the page foot;
+  - not inside a verse quotation of an essay (0220);
   - page-end rules: 0097, 0099, 0107 (right column, after `scilicet,`), 0110 (right,
-    after `influentia.`), 0121 (right, after `invicem.`).
+    after `influentia.`), 0121 (right, after `invicem.`): not written (no blank, no `—`;
+    0225's `—` line dropped).
 - **Gloss line `(¹) …`**: under the Italian block or under the Latin block (11+ pages have
   it under the Latin block); `convert_la.py` must accept both.
 - **Curly `’`**: left in `ocr/la`, normalized by `convert_la.py`.
@@ -337,9 +342,10 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
      checked when the model would change `ocr/la` or the reading is doubtful) and
      `fixes.tsv`; the word diff of `out/` against `ocr/la`; `--write`; `la_check.py`;
      commit the pages, then PLAN.
-3. The rule/blank-line pass for 0079–0103 and 0209–0232, including 0225's trailing `—` line
-   and the blank before `Similiter sicut illi` on 0228 (blank lines only at printed rules,
-   see Conventions; `la_check.py` lists the pages to look at).
+3. (done: the rule/blank-line pass for 0079–0103 and 0209–0232, `cf35bb3`. Found on the
+   way, for step 4: page heads out of order or incomplete on 0083 (no `29`), 0085, 0086
+   (`INFERNI` before the Latin verse), 0097, 0210 (no `INFERNI`), 0215 (no `161`), 0216
+   (no `162`), 0219, 0223 (no `169`), 0230. 0127 has no signature in the print.)
 4. Final checks: `la_check.py` (tercets, rules); search for `æ`, accents and `—`; line counts;
    the line ends against Tesseract's over 0104–0232 (done for 0079–0103); the page-head
    order (page number, blank, running head) over 0079–0232.
