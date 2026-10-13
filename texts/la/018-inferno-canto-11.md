@@ -32,15 +32,21 @@ In su la extremità d'un'alta ripa. In extremitate alte ripe: hoc est undecimum 
 
 In secunda, que incipit ibi:
 
-Figliuolo mio; Fili mi, intra illa saxa, auctor facit generalem distinctionem omnium circulorum Inferni, ostendendo quomodo in quolibet ponitur aliquod vitium.
+Figliuolo mio; Fili mi, intra illa saxa,
+
+auctor facit generalem distinctionem omnium circulorum Inferni, ostendendo quomodo in quolibet ponitur aliquod vitium.
 
 In tertia, que incipit ibi:
 
-E io maiestro; Et ego magister, satis clare movet auctor unam questionem Virgilio circa predictam materiam.
+E io maiestro; Et ego magister,
+
+satis clare movet auctor unam questionem Virgilio circa predictam materiam.
 
 In quarta, que incipit ibi:
 
-Anchora un poco; Adhuc unum modicum, tangit unum aliud dubium circa eamdem materiam ipsi Virgilio.
+Anchora un poco; Adhuc unum modicum,
+
+tangit unum aliud dubium circa eamdem materiam ipsi Virgilio.
 
 Redeundo ad primam partem, dico quod auctor, tangendo materiam sequentem, retangit aliqualiter materiam precedentem. Fingit quod hic invenit unum aggerem durum et altum, sive arginem, sive yma[r]ginem, vel limitem, ad denotandum difficultatem et profunditatem materie pertractande.
 
@@ -272,9 +278,7 @@ Ista est tertia species. Violentia, que infertur in Deum, est gravior. Bonitatem
 
 sunt res Dei; una filia, scilicet natura; alia neptis, scilicet ars. Caorsa est una civitas in Gallia, que vulgariter dicitur Caturgium. In ista civitate omnes sunt usurarii, et cives faciunt maximas usuras; et inde auctor denominat usurarios Caorsos. De illa civitate fuit Papa Ioannes vigesimus secundus. Hic trahitur materia violentorum.
 
-Col core favella: modo notandum est, quod fraus, de qua tractatur admodo, non commictitur sine remorsu conscientie; [quia] nunquam fit sine deliberatione. Violentia autem, sicut fraus, commictitur duobus modis; vel quando tu decipis unum hominem, cui tu debes esse fidelis naturaliter, quia omnis homo ex philantropia tenetur esse fidelis suo proximo, ymo omni homini (philantropia est nomen grecum, idest quedam affectio humana, procedens a natura; quia omne animal diligit simile sibi); vel quando tu decipis hominem, cui non solum debes esse fidelis a natura, sed etiam ex aliqua promissione sibi facta: quia si tu promictis fidem alicui homini, dupliciter sibi obligaris; primo, ex naturali amore, secundo, ex promissione sibi facta. Modo frangere fidem primo modo dictam est fraus; sed frangere fidem secundo modo dictam, est duplex fraus, sicut duplex fides frangitur. Nunc dicit auctor: Fraus, a qua omnis conscientia mordetur: ipsa, scilicet fraude, potest homo uti cum illo qui in ipsum confidit, idest cui fidem promisit, et etiam cum illo fidem non imbursat: idest non promisit fidem. Prima fraude utuntur illi, qui decipiunt sotios, quibus promiserunt fidem aliquo modo; sicut qui decipit compatrem, vel dominum suum.
-
-Secunda fraude utuntur illi, qui decipiunt homines, quibus tamen non promiserunt aliquid de novo, idest non tenentur ultra debitum nature. Ista secunda fraus solummodo videtur occidere, sive solvere, vinculum amoris procedentis a natura; ideo in circulo secundo anidatur, idest in nido ponitur; subaudi ponitur.
+Col core favella: modo notandum est, quod fraus, de qua tractatur admodo, non commictitur sine remorsu conscientie; [quia] nunquam fit sine deliberatione. Violentia autem, sicut fraus, commictitur duobus modis; vel quando tu decipis unum hominem, cui tu debes esse fidelis naturaliter, quia omnis homo ex philantropia tenetur esse fidelis suo proximo, ymo omni homini (philantropia est nomen grecum, idest quedam affectio humana, procedens a natura; quia omne animal diligit simile sibi); vel quando tu decipis hominem, cui non solum debes esse fidelis a natura, sed etiam ex aliqua promissione sibi facta: quia si tu promictis fidem alicui homini, dupliciter sibi obligaris; primo, ex naturali amore, secundo, ex promissione sibi facta. Modo frangere fidem primo modo dictam est fraus; sed frangere fidem secundo modo dictam, est duplex fraus, sicut duplex fides frangitur. Nunc dicit auctor: Fraus, a qua omnis conscientia mordetur: ipsa, scilicet fraude, potest homo uti cum illo qui in ipsum confidit, idest cui fidem promisit, et etiam cum illo fidem non imbursat: idest non promisit fidem. Prima fraude utuntur illi, qui decipiunt sotios, quibus promiserunt fidem aliquo modo; sicut qui decipit compatrem, vel dominum suum. Secunda fraude utuntur illi, qui decipiunt homines, quibus tamen non promiserunt aliquid de novo, idest non tenentur ultra debitum nature. Ista secunda fraus solummodo videtur occidere, sive solvere, vinculum amoris procedentis a natura; ideo in circulo secundo anidatur, idest in nido ponitur; subaudi ponitur.
 
 Modo auctor nominat multas species istius prime fraudis, que sunt ypocrisis, adulatio, incantatio, scilicet ars magica, falsitas, latrocinium, symonia, lenocinium, baractaria et similia opera fraudulenta. Lordura: scilicet similes fraudes.
 

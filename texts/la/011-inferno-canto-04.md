@@ -30,7 +30,7 @@ Ruppeme l'alto sompno. Rupit michi altum sompnum in capite: istud est quartum ca
 
 In secunda, que incipit ibi:
 
-Quivi secondo ch'io per ascultare; Hic secundum quod ego propter auscultare,
+Quivi segondo ch'io per ascultare; Hic secundum quod ego propter auscultare,
 
 describitur pena illorum, qui sunt in isto circulo, in generali.
 
@@ -62,7 +62,7 @@ Ad primam partem redeundo, dico quod in illa auctor ponit introytum circuli prim
 
 Et oculum quietatum in circum volvi: idest, erexi vires intellectus.
 
-Sicut persona, que ex vi excitaretur, rectus levatus, fixe respexi, ut cognoscerem locum in quo essem: iam scribit locum, ubi se reperit excitatum. Hic utitur colore, de quo dictum est in uno preambulorum, quod ad decurtandum verba et tractatum adbreviandum, aliquando utitur sompno, in quo sopitus dormivit; sed excitatus, invenit se in ripa vallis dolorose, in anteriori parte vallis, idest super
+Sicut persona, que ex vi excitaretur, rectus levatus, fixe respexi, ut cognoscerem locum in quo essem: iam scribit locum, ubi se reperit excitatum. Hic utitur colore, de quo dictum est in uno preambulorum, quod, ad decurtandum verba et tractatum adbreviandum, aliquando utitur sompno, in quo sopitus dormivit; sed excitatus, invenit se in ripa vallis dolorose, in anteriori parte vallis, idest super
 
 <!-- p. 63 (0117) -->
 
@@ -260,7 +260,7 @@ Gravem dolorem sensi, quando intellexi: scilicet, magistrum sic loquentem, quia 
 
 Sic, igitur, defectus, quem habuit in fide, fuit principalis causa sue dampnationis.
 
-Iterum dubitatur adhuc, si verum est quod sic sit, quod pena dampni sit minor omnibus. Dicendum, quod sic: quia omnes, qui habent penam sensus, habent etiam penam dampni: sed non e contra.
+Iterum dubitatur adhuc, si verum est quod sic sit, quod pena dampni sit minor omnibus. Dicendum, quod sic: quia omnes, qui habent penam sensus, habent etiam penam dampni; sed non e contra.
 
 Dimme, maiestro. Dic michi, magister: ista est tertia pars huius capituli, in qua auctor facit unam petitionem Virgilio, ut certificaretur de fide christiana. Dic michi, magister, dic michi, domine: sic cepi ego, volens esse certus de illa fide, que vincit omnem errorem. Iste locus solebat habere multas gentes, que modo non videntur esse hic.
 
@@ -332,7 +332,7 @@ Non lasciavam. Non dimictebamus iter: hec est quarta pars huius capituli, in qua
 
 Nondum erat longa nostra via a sompno: idest, postquam sopitus intravi Infernum dormiendo; idest, post sonum, qui me excitavit. Due littere, vel duplex littera reperitur.
 
-Quando vidi unum ignem: idest, unam facem lucidam, que emispirium tenebrarum vincebat. Hec fax, sive iste ignis, est celeberrima fama istorum sapientum et illustrium virorum, qui sunt in hoc circulo, qui meruerunt vivere in celeb[e]rrima fama, etiam corpore mortui. Emispirium est spatium totum, quod homo, ubicumque existit, supra se et circumquaque [habet]: idest totum spatium, quod est supra terram. Vincebat: quia virtus et fama istorum vincit emispirium tenebrarum, idest ignorantie, sive ignorantium.
+Quando vidi unum ignem: idest, unam facem lucidam, que emispirium tenebrarum vincebat. Hec fax, sive iste ignis, est celeberrima fama istorum sapientum et illustrium virorum, qui sunt in hoc circulo, qui meruerunt vivere in celeberrima fama, etiam corpore mortui. Emispirium est spatium totum, quod homo, ubicumque existit, supra se et circumquaque [habet]: idest totum spatium, quod est supra terram. Vincebat: quia virtus et fama istorum vincit emispirium tenebrarum, idest ignorantie, sive ignorantium.
 
 A longe adhuc eramus modicum: sed nec sic, quin bene discernerem, quod honorabilior gens erat in illo loco. O tu, qui honoras scientiam et artes: scilicet, tu, Virgili, qui scivisti scientias et artes. Large loquendo, idem sunt: stricte loquendo, secus esset dicendum: viri, qui non fuerunt illustres, nec scientifici, sunt in tenebris: et quando fuerunt digni fama, sed una virtuosi et illustres, digni fama, sunt in lumine modo predicto.
 
@@ -392,7 +392,7 @@ Isti qui sunt, qui tantum honorantur, quos a modo et moribus illorum distinguis?
 
 Et ipse, scilicet magister, dixit michi: Honorata nominanza: fama, scilicet, que de ipsis sonat supra in vita serena, gratiam acquirit in celo, que sic eos conditionat. Che sì li avanza: idest facit eis vantagium.
 
-Notandum est hic, quod aliqui, secundum propriam famam, multa opera de genere bonorum fecerunt, sicut fecerunt plurimi Romani: et ideo, habita fama, premiati sunt, nec ulterius habent expectare, quia receperunt mercedem suam, dicente Christo (Matth. VI cap.): aliqui, amore Dei, multa opera bona fecerunt; et hii habent famam et premia in celo.
+Notandum est hic, quod aliqui, secundum propriam famam, multa opera de genere bonorum fecerunt, sicut fecerunt plurimi Romani; et ideo, habita fama, premiati sunt, nec ulterius habent expectare, quia receperunt mercedem suam, dicente Christo (MATTH. VI cap.): aliqui, amore Dei, multa opera bona fecerunt; et hii habent famam et premia in celo.
 
 Interdum vox fuit audita, que dixit: Honorate altissimum poetam: ecce magnus honor fuit exhibitus Virgilio. Umbra sua revertitur, que recesserat: supple, iverat ad succurrendum Danti de mandato Beatricis.
 
@@ -410,7 +410,7 @@ Quia quilibet istorum mecum convenit in nomine, quod sonavit vox sola: idest ill
 
 ³² Così vid'io adunar la bella scola\
 &emsp;Di quei signor dell'altissimo canto,\
-&emsp;Che sopra gl'altri (¹), com'aquila, vola.
+&emsp;Che sopra gl'altri. (¹), com'aquila, vola.
 
 ³² Sic vidi adunari pulchram scolam\
 &emsp;Illorum dominorum altissimi cantus,\
@@ -452,7 +452,7 @@ Quia quilibet istorum mecum convenit in nomine, quod sonavit vox sola: idest ill
 &emsp;Per septe porti entrai con questi savi;\
 &emsp;Giugnemmo (⁵) in prato di fresca verdura (⁶).
 
-³⁷ Per hunc transivimus, tanquam per terram duram;\
+³⁷ Per hunc transivimus, tamquam per terram duram;\
 &emsp;Per septem portas intravi cum istis sapientibus;\
 &emsp;Pervenimus in pratum recentis viriditatis.
 
@@ -464,9 +464,7 @@ Qui super alios, sicut aquila, volant: aquila videt subtilius omnibus aliis avib
 
 Postquam fuerunt loquuti ad invicem aliquantulum, reverterunt se ad me, salutando et signo salutis. Et Magister meus de hoc subrisit: idest, habuit carum.
 
-Sed illi me honoraverunt: ad denotandum, quod isti duo, Virgilius et Dantes, essent et sunt duo lumina poetarum: Virgilius in litterali sermone, [Dantes] in materno. Et ultra salutes quas michi dederunt, posuerunt me in numero ipsorum quinque; ita quod fui sextus inter tantum sensum, idest sapientiam, sive scientiam. Aliqui volunt dicere, quod Dantes hic se vituperat, dicens: Fui sextus. Quia, tempore Dantis, erat unus fatuus in Florentia, vocatus Sextus: ita quod Dantes, vilificando se, dicit quod fuit Sextus: idest: Qualis vilis est Sextus fatuus in Florentia, talis ego fui inter istos sapientes. Sed sic dicentes, latrant contra lunam. Ymo dicendum est, quod Dantes laudat se hic, dicens, quod isti fuerunt quinque optimi poete meliores et nobiliores qui sint; et ego iuxta eos fui sextus. Et si dicatur, quod laus in ore proprio sordescit: dicendum, non semper. Sicut Eneas dicebat de se: Sum pius Eneas. Preterea, quod Dantes se sextum fuisse intelligat de numero senario, patet pro tanto quia dicit in fine capituli:
-
-La sesta compagnia in duo si scema; Societas sex in duos minuitur.
+Sed illi me honoraverunt: ad denotandum, quod isti duo, Virgilius et Dantes, essent et sunt duo lumina poetarum: Virgilius in litterali sermone, [Dantes] in materno. Et ultra salutes quas michi dederunt, posuerunt me in numero ipsorum quinque; ita quod fui sextus inter tantum sensum, idest sapientiam, sive scientiam. Aliqui volunt dicere, quod Dantes hic se vituperat, dicens: Fui sextus. Quia, tempore Dantis, erat unus fatuus in Florentia, vocatus Sextus: ita quod Dantes, vilificando se, dicit quod fuit Sextus: idest: Qualis vilis est Sextus fatuus in Florentia, talis ego fui inter istos sapientes. Sed sic dicentes, latrant contra lunam. Ymo dicendum est, quod Dantes laudat se hic, dicens, quod isti fuerunt quinque optimi poete meliores et nobiliores qui sint; et ego iuxta eos fui sextus. Et si dicatur, quod laus in ore proprio sordescit: dicendum, non semper. Sicut Eneas dicebat de se: Sum pius Eneas. Preterea, quod Dantes se sextum fuisse intelligat de numero senario, patet pro tanto quia dicit in fine capituli: La sesta compagnia in duo si scema; Societas sex in duos minuitur.
 
 Così andammo infino alla lumera. Sic ivimus usque ad lumeram, idest facem, loquendo res, sive de rebus, de quibus hic tacere est pulchrum, sicut erat loqui ubi eram. Vult dicere: Quod erat honestum loqui inter poetas paganos, nunc inter christianos est pulchrum tacere. Sepe contigit, quod aliqua loqui in uno loco et tempore est pulchrum; et in alio loco et alio tempore, esset turpe talia loqui. Sic in nuptiis et magnis conviviis aliqua solatiosa, honesta tamen, esset decens loqui, que in obsequiis mortuorum loqui, esset valde indecens. Preterea inter plebeios et ignorantes loqui nimis alta, sicut de substantiis separatis a materia, et de distinctione personarum in divinis, de relationibus, de notionibus, de constituentibus personas in divinis, esset valde indecens; sicut inter maximos theologos et subtilissimos sapientes loqui de vilibus, ut de laqueis ad capiendum pisces, vel de modo assandi carnes in coquina, vel mundandi domum, vel dealbandi pannos, non bene conveniret.
 
@@ -500,7 +498,7 @@ Venimus apud unum nobile castrum, septies circumdatum muris altis: idest, septem
 &emsp;Mihi fuerunt monstrati spiritus magni,\
 &emsp;Quos in videndo in me ipso exulto.
 
-⁴¹ Io vidi Electra con molti compagni,\
+⁴¹ Io vidi Electra com molti compagni,\
 &emsp;Tra quai cognobbi Hector et Enea,\
 &emsp;Cesare armato cogl'ochi grifagni.
 
@@ -594,13 +592,13 @@ Poi ch'innalzai. Postquam elevavi cilia, vidi magistrum [eorum] qui sciunt, sede
 &emsp;Hipocratem, Avicennam et Galienum,\
 &emsp;Averoim, qui magnum comentum fecit.
 
-separatis: et habet ethicam, yconomicam et politicam, que sunt matres legum, decretorum, decretalium, et omnium bonorum statutorum: habet etiam phisicam, que mater est omnis medicine. Et quia Aristotiles fuit summus philosophorum, cuius opera et libros totus orbis veneratur, ideo auctor vocat eum magistrum scientium et sapientum, et fingit ipsum sedere, quia sedere est actus doctoris et magistri, in medio philosophorum.
+separatis: et habet ethicam, yconomicam et politicam, que sunt matres legum, decretorum, decretalium, et omnium honorum statutorum: habet etiam phisicam, que mater est omnis medicine. Et quia Aristotiles fuit summus philosophorum, cuius opera et libros totus orbis veneratur, ideo auctor vocat eum magistrum scientium et sapientum, et fingit ipsum sedere, quia sedere est actus doctoris et magistri, in medio philosophorum.
 
 Omnes philosophi hunc inspiciunt: scilicet, Aristotilem. Omnes eum honorant tamquam precipuum. Hic vidi Socratem et Platonem, qui ante omnes alios plus Aristotili propinquant: quasi dicant alii philosophi: Quidquid philosophie habemus, a te habemus et accipimus. Socrates fuit magister Platonis, et Plato fuit magister Aristotilis. Socrates fuit maximus ethicus, Plato maximus metaphisicus, Aristotiles maximus phisicus et metaphisicus et ethicus.
 
 Democritum, qui mundum a casu ponit, Diogenem, Anaxagoram et Thalem, Empedoclem, Heraclitum et Zenonem: supple, vidi. Omnes isti fuerunt magni phisici. Democritus dixit, mundum fuisse factum a casu et a fortuna regi. Diogenes dilexit paupertatem valde: nunquam voluit habere domum, sed habebat unum dolium; de die stabat ad solem, de nocte vol[v]ebat dolium illud super caput suum. Anaxagoras posuit chaos confusum, litem et amicitiam, fore causas rerum generabilium et corruptibilium. Thales fuit primus philosophus, qui cepit in Grecia philosophari. De omnibus istis fecit mentionem Aristotiles, vel in primo Phisicorum, vel in secundo de Anima, vel in primo Metaphisice, vel in primo Ethicorum. De Tali dicit Aristotiles in Ethicis, quod spernebatur quasi ab omnibus [quia] spernebat divitias. Ipse vero, volens se iustificare, dixit multitudini magne hominum: Vultis quod ostendam vobis, quomodo, si vellem, possiderem multas divitias? Ipse scivit videre, per suam philosophiam et astrologiam, quod per duos annos esset maxima copia et abundantia olei. Accepit magnam quantitatem pecunie mutuo. Infra illos duos annos emit maximam quantitatem olei. Vidit etiam, quod postmodum bene per sex annos nihil posset recolligi de oleo nec de olivis, celo sic influente. Tunc fuit magna caristia olei. Et ipse habens multum de oleo, vendidit in caro foro, et recepit maximam pecuniam, quam in publico ostendit omnibus, dicens: Ecce ego per philosophiam novi tempus abundantie et caristie; scivi congregare pecunias et divitias; vos autem non. Et ecce sum dives, habeo aurum, et vos indigetis. Sed absit quod velim aurum. Et reddidit eis pecuniam, quam ipsi dederant sibi pro oleo, dicens: Habete oleum et pecuniam. Ipse vero rediit ad paupertatem suam. Empedocles fuit de Sicilia, magnus philosophus et poeta, qui voluit omnino inquirere causam ignis Ethene; et ibi stans tali exercitio, a fumo fuit suffocatus. Eraclitus fuit magnus orator; loquebatur multum obscure: Eraclitus, idest Erracus, obscurus, tenebrosus. Zeno fuit philosophus grecus. De hoc multa loquitur Valerius Maximus, qui audiens de Falere, magno tyranno Sicilie, etc.
 
-Et vidi bonum congregatorem de quali: idest, de qualitatibus; Diascoridem dico, et vidi Orpheum, Tulium, Linum et Senecam moralem: Diascorides fuit magnus medicus; composuit librum operum; ab ipso sumpserunt Serapio et Galienus principia sua, etc. Et habetur in textu: Buono accoglitore, bonus congregator, idest qui bene recolligit proprietates rerum in uno volumine. Habetur in textu: l'e quale: idest de quali, idest de qualitatibus rerum. Exponit se auctor, dicens: Diascoride dico.
+Et vidi bonum congregatorem de quali: idest, de qualitatibus; Diascoridem dico, et vidi Orpheum, Tulium, Linum et Senecam moralem: Diascorides fuit magnus medicus; composuit librum operum; ab ipso sumpserunt Serapio et Galienus principia sua, etc. Et habetur in textu: Buono accoglitore, bonus congregator, idest qui bene recolligit proprietates rerum in uno volumine. Habetur in textu: Le quale: idest de quali, idest de qualitatibus rerum. Exponit se auctor, dicens: Diascoride dico.
 
 Orpheus fuit Theologus et poeta antiquus. Dicit Augustinus, in libro de Civitate Dei, quod tres fuerunt poete, qui tractaverunt de qualitatibus Deorum; Orpheus scilicet, Linus et Museus, quorum duos tangit hic Dantes. Aliqui ignorantes dicunt, quod hic, ubi habetur Linus, deberet esse Illavus; quod non est verum, licet Illavus fecerit comentum super librum Lini. Tullius fuit de Arpino, civitate Campanie Rome: fuit illustris orator, ut bene apparet in tot libris per ipsum compositis. Composuit libros De Natura Deorum, De Tusculanis questionibus, De Rethorica, etc. Seneca fuit poeta moralis, magister Neronis, a quo fuit interemptus. Composuit Epistolas ad Lucillum, ad Paulinum, Tragedias, De clementia, De quatuor virtutibus, De remediis utriusque fortune. Fuit tempore apostolorum Petri et Pauli; scripsit Epistolam ad Paulum. De isto Seneca Ieronimus dicit in
 
@@ -654,15 +652,15 @@ impara dal suo maestro chi siano gli spiriti ivi confinati; gli spiriti che, vis
 
 Che è porta della fede che tu credi.
 
-Non a caso, ripetiamo, l'Alighieri è così sollecito di mostrare quali sian le sue credenze, e l'integrezza con cui le professava; da che, pur troppo, fosse a que' dì in Firenze una setta d'increduli, tra'quali Farinata degli Uberti e Cavalcante Cavalcanti, i quali avevano aderito al materialismo e all'ateismo; compagnia che lo spaventava, e la cui sorte finale gli metteva ribrezzo ed orrore.
+Non a caso, ripetiamo, l'Alighieri è così sollecito di mostrare quali sian le sue credenze, e l'integrezza con cui le professava; da che, pur troppo, fosse a que' dì in Firenze una setta d'increduli, tra'quali Farinata degli Uberti e Cavalcante Cavalcanti, i quali avevano aderito al materialismo e all'ateismo; compagnia, che lo spaventava, e la cui sorte finale gli metteva ribrezzo ed orrore.
 
 La sua fede, dunque, fu quella in cui si entra per il battesimo, vale a dire per la ricostituzione dell'uomo, fatta in Cristo e per Cristo, la quale di suo ordinamento ci viene conferita per il lavacro battesimale; fede che San Paolo (EPHES. II) compendiava in quelle parole: Unus Dominus, una Fides, unum Baptisma, le quali sono la somma del Cattolicismo.
 
-Inaugurava Gesù Cristo la sua divina missione, aprendo appunto questa porta con ricevere egli stesso il battesimo, che instituiva per noi; atto onde confermava la sua consacrazione a sacerdote eterno dell'umanità, che egli era venuto a redimere. Quella solenne cerimonia, là in riva al Giordano, ne fu la manifestazione e la festa. Difatti, siccome una festa, cioè una comunicazione col mondo superiore, descrissero quel prodigio i quattro Evangelisti. Mentre Gesù usciva dall'acqua, si apriva il cielo, e ne scendeva lo Spirito Santo, come in forma visibile d'una colomba, che si fermava sopra di lui; e si udì una voce che disse: Questo è il mio figliuolo diletto, nel quale mi compiaccio. Fu questa una sensibile apparizione, in cui e per cui si manifestò agli intelletti l'interiore vita di Dio, cioè la Trinità: il Padre, che consacra; il Figliuolo, che è consacrato; lo Spirito Santo, che è sostanza e frutto della consacrazione. Quell'aprirsi agli occhi del corpo il seno del cielo visibile, fu un segno dell'aprirsi agli intelletti il seno di Dio, l'interna generazione, la vita divina interiore, che è la Trinità. La Trinità è vita, è generazione, è l'atto interno ed eterno, ed eternamente nuovo, pel quale e nel quale sussistono il Padre, il Figliuolo e il loro Amore, e son tutti e tre un Dio solo. In quel momento venne fatta all'umanità questa rivelazione esplicita; rivelazione che, per il battesimo, viene a ciascun di noi ripetuta, ed è per ciascun di noi, e per tutti, la porta della fede, della teologia, della grande e vera scienza, la quale comincia da Dio e in Dio ha il suo compimento. L'Alighieri, con quelle parole
+Inaugurava Gesù Cristo la sua divina missione, aprendo appunto questa porta con ricevere egli stesso il battesimo, che instituiva per noi; atto onde confermava la sua consacrazione a sacerdote eterno dell'umanità, che egli era venuto a redimere. Quella solenne cerimonia, là in riva al Giordano, ne fu la manifestazione e la festa. Difatti, siccome una festa, cioè una comunicazione col mondo superiore, descrissero quel prodigio i quattro Evangelisti. Mentre Gesù usciva dall'acqua, si apriva il cielo, e ne scendeva lo Spirito Santo, come in forma visibile d'una colomba, che si fermava sopra di lui; e si udì una voce che disse: Questo è il mio figliuolo diletto, nel quale mi compiaccio. Fu questa una sensibile apparizione, in cui e per cui si manifestò agli intelletti l'interiore vita di Dio, cioè la Trinità: il Padre, che consacra; il Figliuolo, che è consacrato; lo Spirito Santo, che è sostanza e frutto della consacrazione. Quell'aprirsi agli occhi del corpo il seno del cielo visibile, fu un segno dell'aprirsi agli intelletti il seno di Dio, l'interna generazione, la vita divina interiore, che è la Trinità. La Trinità è vita, è generazione, è l'atto interno ed eterno, ed eternamente nuovo, pel quale e nel quale sussistono il Padre, il Figliuolo e il loro Amore, e son tutti e tre un Dio solo. In quel momento venne fatta all'umanità questa rivelazione esplicita; rivelazione, che, per il battesimo, viene a ciascun di noi ripetuta, ed è per ciascun di noi, e per tutti, la porta della fede, della teologia, della grande e vera scienza, la quale comincia da Dio e in Dio ha il suo compimento. L'Alighieri, con quelle parole
 
 . . . . . Non ebber battesmo,\
 Che è porta della fede che tu credi,
 
 formolava l'immensa dottrina teologica, che nel battesimo ha il suo fondamento, e su cui poggia ogni altro sapere.
 
-Non senza perchè abbiam toccato di questo punto nel presente canto dell'Inferno. Alcuni anni fa, un letterato di Francia, che si professava non credente, ricorreva, qui in Roma, a quel profondo conoscitore, che fu, della Divina Commedia, Michelangiolo Caetani, Duca di Sermoneta, per riceverne consiglio ed indirizzo nello studio e nell'intelligenza della medesima; e n'ebbe in risposta, che quello studio tornava per lui assolutamente impossibile, da che fosse uscito della fede che Dante tanto solennemente aveva professata, e a cui è fondamento il battesimo. Avemmo dallo stesso Caetani l'aneddoto e il nome del letterato, che erasi a lui rivolto. Ed è veramente così, che, fuori di questa fede, l'immortal Poema non presenta più bellezze di sorta: ma si riduce ad un congegno di favole più ridicole di quelle del paganesimo: poichè queste contenevano, tutte, qualche accenno alla rivelazione, con cui il mondo ebbe principio e che poi fu rinnovata e compita in Cristo e nella sua Chiesa; laddove, tolta la fede, nella cui ispirazione e riverenza Dante tolse a descrivere tutto l'universo, cioè la creazione, la redenzione e la finalità oltremondana, di sostanziale nel suo Poema non resta che il nulla.
+Non senza perchè abbiam toccato di questo punto nel presente canto dell'Inferno. Alcuni anni fa, un letterato di Francia, che si professava non credente, ricorreva, qui in Roma, a quel profondo conoscitore, che fu, della Divina Commedia, Michelangiolo Caetani, Duca di Sermoneta, per riceverne consiglio ed indirizzo nello studio e nell'intelligenza della medesima; e n'ebbe in risposta, che quello studio tornava per lui assolutamente impossibile, da che fosse uscito della fede che Dante tanto solennemente aveva professata, e a cui è fondamento il battesimo. Avemmo dallo stesso Caetani l'aneddoto e il nome del letterato, che erasi a lui rivolto. Ed è veramente così, che, fuori di questa fede, l'immortal Poema non presenta più bellezze di sorta; ma si riduce ad un congegno di favole più ridicole di quelle del paganesimo: poichè queste contenevano, tutte, qualche accenno alla rivelazione, con cui il mondo ebbe principio e che poi fu rinnovata e compita in Cristo e nella sua Chiesa; laddove, tolta la fede, nella cui ispirazione e riverenza Dante tolse a descrivere tutto l'universo, cioè la creazione, la redenzione e la finalità oltremondana, di sostanziale nel suo Poema non resta che il nulla.

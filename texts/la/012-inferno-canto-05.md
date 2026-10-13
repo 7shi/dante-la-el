@@ -26,23 +26,31 @@ In quinto capitulo, quod incipit: Sic descendimus, auctor ponit secundum circulu
 
 (¹) al. cigna.
 
-Cosi discesi del cerchio primaio. Sic descendit de circulo primo in secundum: istud est quintum capitulum Inferni, in quo auctor ponit penam peccatorum carnalium luxuriosorum, ibi ponendo multos spiritus antiquos, et tandem duos novos. Quod quidem capitulum dividitur in quinque partes, in quarum prima describitur introytus in secundum circulum et ad iudicem Inferni.
+Cosi discesi del cerchio primaio. Sic descendi de circulo primo in secundum: istud est quintum capitulum Inferni, in quo auctor ponit penam peccatorum carnalium luxuriosorum, ibi ponendo multos spiritus antiquos, et tandem duos novos. Quod quidem capitulum dividitur in quinque partes, in quarum prima describitur introytus in secundum circulum et ad iudicem Inferni.
 
 In secunda, que incipit ibi:
 
-Ora s'incomenza le dolente note; Nunc incipiunt dolentes note, ponitur in generali pena luxuriosorum.
+Ora s'incomenza le dolente note; Nunc incipiunt dolentes note,
+
+ponitur in generali pena luxuriosorum.
 
 In tertia, que incipit ibi:
 
-La prima de cuye tu voie, Prima illarum de qua tu vis scire nova, fit expressa mentio de spiritibus antiquis.
+La prima de cuye tu voie, Prima illarum de qua tu vis scire nova,
+
+fit expressa mentio de spiritibus antiquis.
 
 In quarta, que incipit ibi:
 
-E poi che io ebbi il mio dottore, ec.; Postquam audivi doctorem meum, tractatur de duobus spiritibus modernis.
+E poi che io ebbi il mio dottore, ec.; Postquam audivi doctorem meum,
+
+tractatur de duobus spiritibus modernis.
 
 In quinta, que incipit ibi:
 
-Poi me revolsi a lui; Postmodum verti me, petit ab illis duobus spiritibus modernis unam questionem. Diviso capitulo, notandum est, quod sicut luxuriosi homines et philocapti, vitio luxurie dediti, nunquam sunt in quiete, sed semper sunt in continuo motu, semper vexantur, nunc sunt in uno loco, nunc in alio, nunc cantant, nunc plorant, nunc rident, nunc suspirant, nunc respiciunt ad finestras, nunc vadunt ad nundinas ad videndum amasiam, nunc ad ecclesias, nunc ad indulgentias, nunc ad nuptias, nunc ad astiludia, et sic nunquam quiescunt; sic fingit auctor quod hic, in isto secundo circulo Inferni, aier tremit, est ventus impetuosus, qui transportat spiritus per aierem tenebrosum, luridum et obscurum, sicut et in hoc mundo philocapti sunt ceci, nec vident lumen cum intellectu, non discernunt honorem a verecundia, proficuum a nocivo, nec credunt consulentibus eis et corrigentibus eos, propter amorem in quo sunt submersi; qui amor fingitur a poetis cecus; qui spiritus sine fine sic molestantur ab illo vento, sine spe diminutionis talis pene. His dictis, ad expositionem prime partis.
+Poi me revolsi a lui; Postmodum verti me,
+
+petit ab illis duobus spiritibus modernis unam questionem. Diviso capitulo, notandum est, quod sicut luxuriosi homines et philocapti, vitio luxurie dediti, nunquam sunt in quiete, sed semper sunt in continuo motu, semper vexantur, nunc sunt in uno loco, nunc in alio, nunc cantant, nunc plorant, nunc rident, nunc suspirant, nunc respiciunt ad finestras, nunc vadunt ad nundinas ad videndum amasiam, nunc ad ecclesias, nunc ad indulgentias, nunc ad nuptias, nunc ad astiludia, et sic nunquam quiescunt; sic fingit auctor quod hic, in isto secundo circulo Inferni, aier tremit, est ventus impetuosus, qui transportat spiritus per aierem tenebrosum, luridum et obscurum, sicut et in hoc mundo philocapti sunt ceci, nec vident lumen cum intellectu, non discernunt honorem a verecundia, proficuum a nocivo, nec credunt consulentibus eis et corrigentibus eos, propter amorem in quo sunt submersi; qui amor fingitur a poetis cecus; qui spiritus sine fine sic molestantur ab illo vento, sine spe diminutionis talis pene. His dictis, ad expositionem prime partis.
 
 Cosi: idest sic, scilicet cum solo Virgilio, descendi de circulo primo, qui dicitur Limbus, in secundum, qui minorem locum cingit, quia continet minorem locum, ut supra in uno preambulo dictum est. Auctor fingit quod Infernus sit amplus in introytu; postea gradatim est angustior; et quanto circulus Inferni est minus distans a celo, tanto ibi est minor pena; quanto remotior, tanto ibi est maior pena; ita quod circulus minor maiorem penam continet, et tanto maiorem dolorem et planctum et plura vae.
 
@@ -83,7 +91,7 @@ Modo in introytu stat iudex Inferni, qui habet cognoscere de peccatis et culpis 
 &emsp;Dimictendo actum tanti offitii,
 
 ⁷ Guarda com'entri, e di cui tu ti fide:\
-&emsp;Non t'inganni (³) l'ampiezza dell'entrare.\
+&emsp;Non t'inganni (³) l'empiezza dell'entrare.\
 &emsp;E 'l duca mio a lui: Perchè pur gride?
 
 ⁷ Respice quomodo intras, et de quo confidis:\
@@ -108,11 +116,11 @@ Modo in introytu stat iudex Inferni, qui habet cognoscere de peccatis et culpis 
 
 (¹) al. li va. — (²) al. lui. — (³) al. non ti vinca. — (⁴) al. grande.
 
-Mynos: notandum hystorialiter, quomodo fuit quidam rex in insula Cretensi vocatus Mynos, qui fuit iustus iudex, et primo dedit leges Cretensibus, per quas leges Cretenses optime regebantur. Mynos fingitur rex Inferni, sicut fuit iustus et cognitor peccatorum in insula Crete, sive Candie. Sed Mynos moraliter est conscientia, que mictit omnes animas ad Infernum. Conscientia sola deputat se ad penam. Si quis debet condempnari in mundo, hoc debet fieri a iusto iudice. nec est iustior iudex quam propria conscientia, quia melius cognoscit peccatum. Mynos interpretatur minans penas, vel minans nos, idest conducens, vel minans nobis penam.
+Mynos: notandum hystorialiter, quomodo fuit quidam rex in insula Cretensi vocatus Mynos, qui fuit iustus index, et primo dedit leges Cretensibus, per quas leges Cretenses optime regebantur. Mynos fingitur rex Inferni, sicut fuit iustus et cognitor peccatorum in insula Crete, sive Candie. Sed Mynos moraliter est conscientia, que mictit omnes animas ad Infernum. Conscientia sola deputat se ad penam. Si quis debet condempnari in mundo, hoc debet fieri a iusto iudice, nec est iustior iudex quam propria conscientia, quia melius cognoscit peccatum. Mynos interpretatur minans penas, vel minans nos, idest conducens, vel minans nobis penam.
 
 Stat Mynos horribiliter regnans, examinat culpas in introytu: scilicet, Inferni, vel istius secundi circuli. Iste est actus boni iudicis examinare culpas. Iudicat et mandat secundum quod conveniebat.
 
-Dico quod quando anima male nata: idest illius qui moritur sine contritione: ideo male nata est, scilicet ad dampnationem.
+Dico quod quando anima male nata: idest illius qui moritur sine contritione; ideo male nata est, scilicet ad dampnationem.
 
 Venit ante ipsum: scilicet Mynoxem: tota confitetur; et ille cognitor peccatorum, videt quis locus Inferni est pro ipsa, idest debeatur sibi iuste.
 
@@ -190,7 +198,7 @@ Or, idest nunc, incipiunt pene luxuriosorum. Prima est planctus. Philocapti prim
 
 A me sentiri: iam veni ad locum, ubi multus planctus me percutit.
 
-Ego veni in locum omnis lucis mutum: idest privatum; ibi sunt mugitus, sicut in mari tempestuoso, si concutitur a contrariis ventis.
+Ego veni in locum omnis lucis mutum: idest privatum: ibi sunt mugitus, sicut in mari tempestuoso, si concutitur a contrariis ventis.
 
 Bufera infernalis: idest ventus impetuosus, turbinosus, circumvolutus. In lingua lombardica est ventus spirans, descendentibus nubibus a celo, in quibus homo, in alpibus, vel silvis, vel campania, extra habitationes hominum, circumducitur et vexatur.
 
@@ -392,7 +400,7 @@ Si essemus amici regis universi, idest Dei, nos rogaremus ipsum pro tua pace, ex
 
 ³² Di quel ch'udire e che parlar vi piace\
 &emsp;Noi udiremo e parleremo a voi,\
-&emsp;Per fin che 'l vento, come fa, ci tace (¹).
+&emsp;Per fin che 'l vento, come fa, ci tace (²).
 
 ³² De eo quod audire et quod loqui tibi placet\
 &emsp;Nos audiemus et loquemur vobis,\
@@ -599,7 +607,7 @@ Quantunque gradi vuol che giù sia messa.
 
 In questo inesorabile giudicatore alle anime malnate, la cui figura atterrisce, il Poeta senza dubbio volle allegoricamente figurare la coscienza, che ciascuna di quelle anime, sciolta, per la separazione dal corpo, dai rapporti sensibili col presente universo, e tutta incentrata in sè stessa e negli oggetti intellettuali del proprio pensiero, avrà dell'essere suo morale, quivi d'un tratto vedendo chiaramente ciò che per lo innanzi le distrazioni, e l'affetto fuorviato e indebolito nella moltiplicità delle cose sensibili, le tolsero di vedere finchè stette nella presente vita: cioè lo stato suo interiore, la somma de'meriti e de'demeriti acquistati e la condizione novella, in cui entra e durerà eterna: donde quel verme roditore che, a detta di Cristo, non morirà mai, e che eternamente ripeterà quel che appunto sarà lo strazio eterno di quell'anima sventurata.
 
-Nessuna vita è così potente come quella dello spirito, nè in esso perisce totalmente un solo de'suoi atti spirituali: ma tutti, in quanto all'effetto, si perpetuano nella perenne sostanza di lui. Essi, nella vita di là, fuori delle vicissitudini del tempo e dello spazio, rivivendo a un tratto in tutta l'intensità con cui già si compirono, vi si eternano; così i buoni come i cattivi, ove questi da precedente riprovazione non siano stati annullati: il che non essendo avvenuto nell'anima che trapassò fuori della grazia divina, questi prevalgono a quelli, e di necessità, in cotesta novella sua condizione, ne nasce tal contrasto di morte, che l'orribile ringhiare di Minos, per cui un solo istante di tregua e di pace addiventa impossibile, ne è la propria espressione. Imperocchè la coscienza del bene, senza di cui non sarebbe conoscibile il male, costringerà l'intelletto, come avviene anche di presente, alla necessaria riprovazione di questo, in corrispondenza del giudizio divino, di cui la nostra coscienza non è che il riflesso. Essa è come un mare, in cui si specchia la serenità del cielo, se le acque ne siano quiete e tranquille: ma che, messo in tempesta, svela la profondità de'proprii abissi e incute terrore.
+Nessuna vita è così potente come quella dello spirito, nè in esso perisce totalmente un solo de'suoi atti spirituali; ma tutti, in quanto all'effetto, si perpetuano nella perenne sostanza di lui. Essi, nella vita di là, fuori delle vicissitudini del tempo e dello spazio, rivivendo a un tratto in tutta l'intensità con cui già si compirono, vi si eternano; così i buoni come i cattivi, ove questi da precedente riprovazione non siano stati annullati: il che non essendo avvenuto nell'anima che trapassò fuori della grazia divina, questi prevalgono a quelli, e di necessità, in cotesta novella sua condizione, ne nasce tal contrasto di morte, che l'orribile ringhiare di Minos, per cui un solo istante di tregua e di pace addiventa impossibile, ne è la propria espressione. Imperocchè la coscienza del bene, senza di cui non sarebbe conoscibile il male, costringerà l'intelletto, come avviene anche di presente, alla necessaria riprovazione di questo, in corrispondenza del giudizio divino, di cui la nostra coscienza non è che il riflesso. Essa è come un mare, in cui si specchia la serenità del cielo, se le acque ne siano quiete e tranquille: ma che, messo in tempesta, svela la profondità de'proprii abissi e incute terrore.
 
 Tale pervertimento della coscienza dipende unicamente dal libero nostro arbitrio, che compenetrasi con l'intelletto ed è la cima dello spirito, come ne è la radice; e però, in quanto morale, la coscienza consiste nel possesso della somma degli atti liberi, de'quali l'uomo sa di esser padrone, e che con diritto possono e si debbono a lui sovranamente attribuire. Ciascun di noi lo sa, ciascun lo sente: nè alcuno potrebbe mai nasconderselo, neppur in questa vita: ma di là sarà intuizione di un punto, sarà un giudizio inseparabile dallo spirito, che senza più possibile mutazione condannerà inesorabilmente ed eternamente sè stesso. Nessuna figura, per verità, potrebbe trovarsi più espressiva, e farcelo anticipatamente sentire, quanto il terribile Minos dell'Alighieri, che domina eternamente il secondo cerchio dell'abisso, e quivi eternamente ringhiando, affissa il feroce sguardo sopra ogni anima che arriva, costringendola col solo mirarla a confessar, tremando, tutte le proprie colpe; dopo di che, col ripetuto cingersi che egli fa della coda, indica quanti gradi essa deve scendere nell'abisso.
 
