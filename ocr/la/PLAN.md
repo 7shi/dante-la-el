@@ -397,7 +397,7 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
    between glosses are not reproduced. texts/README.md, texts/PLAN.md and
    texts/la/README.md updated.)
 6. (done: 0104–0194 by the markup method, `tmp/la-mark5/`; rules, blank lines and line ends
-   on 0104–0208; step 8, `2005e58`. `texts/la/` to be regenerated.)
+   on 0104–0208; step 8, `2005e58`. `texts/la/` regenerated, `ca3e885`.)
 7. Then decide whether batch 3+ uses the same method (run `tmp/tess.py` first;
    `ocr/la_survey.py --work FIRST LAST` gives the verse work list).
 
