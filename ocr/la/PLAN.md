@@ -357,8 +357,13 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
    `la_check.py` still reports 0131 and 0165 (a Latin line starting with a printed `[`,
    `[Dicunt …]`, `[Et] dixi`, taken for a runover word) and 0100 (no numbers in 0099's
    print): not errors.)
-5. `texts/convert_la.py` (normalizing `’`), the READMEs, texts/PLAN.md (status, a pointer
-   here), and the commits.
+5. (done: `texts/convert_la.py` and `texts/la/008`–`020`, `996ff89`. It normalizes `’`,
+   interleaves the verse per tercet with counted numbers (only 0099's two unprinted Italian
+   numbers are reported), joins runover words and line-end hyphens (the unbroken form in
+   `ocr/la` wins; the rare joined forms are listed), and splits the commentary into
+   paragraphs by short sentence-final lines, since `ocr/la` keeps no indents; the rules
+   between glosses are not reproduced. texts/README.md, texts/PLAN.md and
+   texts/la/README.md updated.)
 6. Then decide whether batch 3+ uses the same method (run `tmp/tess.py` first;
    `ocr/la_survey.py --work FIRST LAST` gives the verse work list).
 
