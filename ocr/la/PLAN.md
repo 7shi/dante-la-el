@@ -16,9 +16,9 @@ by batches; this file records where that method got to and the method that repla
 - Batch 3 onward (`0233`–`1290`) is on hold until the method below has been proven on
   batches 1–2.
 
-## State (2026-10-12)
+## State (2026-10-13)
 
-The work so far is committed in seven steps:
+The work so far is committed in eight steps:
 
 1. **Checked pages** (`f4f5b28`).
 2. **Outlier fixes** (`eadde5b`).
@@ -38,14 +38,16 @@ The work so far is committed in seven steps:
    (`611a5dc`): the same, and the line ends compared with Tesseract's.
 7. **Rules and blank lines on 0079–0103 and 0209–0232** (`cf35bb3`): every page `la_check.py`
    listed looked at in the image.
+8. **Markup method on 0104–0194; rules, blank lines and line ends on 0104–0208** (`2005e58`,
+   2026-10-13; the scripts' fix for marks with line breaks in `3d70144`): see step 4 below.
 
 | Scans | State | Commit |
 |---|---|---|
 | `0079`–`0103` | Verse completed and the GLM-OCR differences resolved (batch 1, by la-el-codex), checked by la-el-claude; the later delegate edits checked (commit 3). The two-OCR marks resolved by the markup method, every change checked in the image (0084: five passages `ocr/la` had dropped; 0079: signature `4`). Line ends compared with Tesseract's: 0083 and 0094 broken into printed lines, 0092's broken words joined. Text that both OCRs read alike is not checked. Blank lines checked against the rules (step 7). | 1, 3, 6, 7 |
-| `0104`–`0194` | Proofread letter by letter (by la-el-agy, chunks c6–c12); every change checked by la-el-claude in the images. 0162 and 0172 are blank pages. Exceptions below. | 1 |
+| `0104`–`0194` | Proofread letter by letter (by la-el-agy, chunks c6–c12); every change checked by la-el-claude in the images. 0162 and 0172 are blank pages. Exceptions below. The two-OCR marks resolved by the markup method, every change checked in the image (step 8). Text that both OCRs read alike is not checked beyond the letter-by-letter pass. Blank lines checked against the rules, line ends compared with Tesseract's (step 8). | 1, 8 |
 | `0115`, `0141` | The delegate's small edits checked; the two-OCR marks resolved by the markup method (no change). | 3, 5 |
 | `0128`, `0140` | Not changed by the delegate, not checked in the images. | — |
-| `0195`–`0208` | Two passes by la-el-codex (c13, c13b) plus fixes by la-el-claude (0197 `Ammodo`, `circulecto`; 0201 `[in]`, `qu[em]libet`; 0204 `nobilia` ×2; 0208 blank lines after the indented lemma pairs); the edits checked (commit 3). The two-OCR marks resolved by the markup method (steps 1–4), every change checked in the image. Text that both OCRs read alike is not checked. | 3, 4 |
+| `0195`–`0208` | Two passes by la-el-codex (c13, c13b) plus fixes by la-el-claude (0197 `Ammodo`, `circulecto`; 0201 `[in]`, `qu[em]libet`; 0204 `nobilia` ×2; 0208 blank lines after the indented lemma pairs); the edits checked (commit 3). The two-OCR marks resolved by the markup method (steps 1–4), every change checked in the image. Text that both OCRs read alike is not checked. Blank lines checked against the rules, line ends compared with Tesseract's (step 8: 0196 and 0199 blank lines, 0202 a printed line rejoined). | 3, 4, 8 |
 | `0108`, `0175` | `riconoscuto` and the space before a semicolon fixed (found while measuring). | 4 |
 | `0209`–`0232` | Verse completed (batch 2) and the GLM-OCR differences followed (c4; c5 for 0209–0220, line by line), by la-el-codex; the edits checked (commit 3). The two-OCR marks resolved by the markup method, every change checked in the image (0214: a trailing blank line dropped; 0227: the running head cut to `CAPITULU` restored with the page number, its duplicate before the Latin verse removed). Text that both OCRs read alike is not checked. Blank lines checked against the rules (step 7). | 3, 5, 7 |
 | `0239`, `0263`, `0287`, `0357`, `0472`, `0513`, `0546`, `0561`, `0562` | Whole columns, verse blocks or footnotes missing from `ocr/la`, found by the GLM-OCR outlier check and restored from the images. The rest of these pages is not proofread. | 2 |
@@ -98,9 +100,12 @@ The work so far is committed in seven steps:
   - at each printed rule;
   - at a section gap without a rule (0155);
   - after an indented lemma pair or quotation (0164, 0208, 0094, 0095, 0222), not before it;
-  - not at a column change unless a rule stands there;
+    this includes the quotations that open each part of a chapter's commentary (0104, 0116,
+    0130, 0152, 0186, 0199);
+  - not at a column change unless a rule stands there (0138, 0177, 0187, 0194);
   - before a signature mark at the page foot;
-  - not inside a verse quotation of an essay (0220);
+  - in an essay, before and after a quotation (0102, 0220), but not inside a verse quotation
+    (0220; 0150, broken by `quando`, `e`), nor inside a sentence (0196);
   - page-end rules: 0097, 0099, 0107 (right column, after `scilicet,`), 0110 (right,
     after `influentia.`), 0121 (right, after `invicem.`): not written (no blank, no `—`;
     0225's `—` line dropped).
@@ -136,6 +141,8 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0205 | 34 | `aranzare` | `avanzare` | Italic lemma; `r` for `v`. |
 | 0208 | 58 | `quod lucus,` | `locus` | The sense needs `locus`. |
 | 0189 | 54–55 | `re-` / `spondidi sibi` | `respondi` | Italic lemma; the Latin verse 17 has `Respondi`. |
+| 0131 | 53 | `qui fuit iustus` / `index,` | `iudex` | A turned `u`; GLM-OCR and Tesseract read `index` too. |
+| 0181 | 106 | `heretici iu archis` | `in` | A turned `n`. |
 
 ## What the delegation taught
 
@@ -308,6 +315,31 @@ the hyphen back inside a word, and a check of every line end against Tesseract's
 whose last word Tesseract reads only inside a line) found four more wrong breaks (0083,
 0084, 0099, 0101); its other hits were Tesseract joining the two columns.
 
+0104–0194 (`tmp/la-mark5/`; the markup answers copied from `la-mark4/markup/` and re-checked
+with `-r 0`, new answers for 0106, 0107, 0131, 0193, whose lines had changed): 775 trivial
+marks resolved, rule 49 (20 changes), model 655 taken (all keeping `ocr/la`, unchecked), to
+la-el-claude 772 (162 commas, 138 accents GLM-OCR dropped, 139 one-sided, mostly the Latin
+verse GLM-OCR drops or moves). These pages had been proofread letter by letter, and the
+model's changes were mostly wrong. Where Tesseract agreed with it (48), 24 were right: printed
+forms (`tamquam`, `com`, `l'empiezza`, `ille`, `nedum`, `honorum`, `celeberrima`,
+`epicur[e]is`, `Le quale`, `Sic[vt]`), punctuation and the small capitals of `MATTH.`, and
+two turned letters (`index`, `iu`, kept as suspected misprints); the others were italic
+letters misread (`rides`, `tolus`, `tuli`, `multum`, `dirersa`, `correvin`) or damaged
+letters (`valit`, `vulta`). Where Tesseract disagreed, the model picked GLM-OCR's side 52
+times, rightly twice (`descendi`, `Thesyphone`). From the image beyond the two sides: 0116
+`segondo`, 0174 `conce-⏎perat`, 0150 `medesimo` not printed. In the italic lemmas the
+letters `r`/`v`, `t`/`l` and `c`/`e` are often hard to tell; they were decided by the
+sense (0111 `Rapto`, which may be printed `Racto`, and 0125 `Tulium` kept).
+
+Rules, blank lines and line ends on 0104–0208, after the marks: the blank lines around the
+quotations that open each part of a commentary were mostly wrong (before instead of after,
+13 pages), and a few stood at column changes without a rule; `la_check.py`'s rules matched
+to the file's lines found no missing blank line. Line ends: the check of every line end
+against Tesseract's gave too many false hits here (144); instead, the three words around
+each line break were looked up in Tesseract's lines, and a break inside one of its lines was
+looked at: one wrong break, 0202 (`patrem, vel dominum suum. Secunda fraude utuntur illi,`
+is one printed line).
+
 Beyond the marks: GLM-OCR's dropped passages hid `ocr/la` errors (0203: `Nonne quid` for
 `Numquid`, `consilia tione`, two commas), and `ocr/la` dropped words at a line start that
 GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fixes.tsv`.
@@ -364,7 +396,9 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
    paragraphs by short sentence-final lines, since `ocr/la` keeps no indents; the rules
    between glosses are not reproduced. texts/README.md, texts/PLAN.md and
    texts/la/README.md updated.)
-6. Then decide whether batch 3+ uses the same method (run `tmp/tess.py` first;
+6. (done: 0104–0194 by the markup method, `tmp/la-mark5/`; rules, blank lines and line ends
+   on 0104–0208; step 8, `2005e58`. `texts/la/` to be regenerated.)
+7. Then decide whether batch 3+ uses the same method (run `tmp/tess.py` first;
    `ocr/la_survey.py --work FIRST LAST` gives the verse work list).
 
 ## Tools
@@ -383,4 +417,4 @@ Working data in `tmp/`: `la-tess/` (Tesseract's words for 0079–0232), `la-mark
 paid markup answers for 0195–0208; keep), `la-mark2/` (the work directory of 0195–0208:
 answers, decisions, fixes), `la-mark3/` (the same for 0209–0232, 0115, 0141, with its
 paid markup answers in `markup/`), `la-mark4/` (the same for 0079–0103; its `markup/` holds
-the user's paid answers for 0079–0344, prepared ahead: keep), `la-label/` (the labelled set: paid answers and scores).
+the user's paid answers for 0079–0344, prepared ahead: keep), `la-mark5/` (the same for 0104–0194), `la-label/` (the labelled set: paid answers and scores).
