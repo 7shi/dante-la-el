@@ -169,7 +169,7 @@ def resolve_trivial(p, t):
         l, r = m.groups()
         ls = t.rfind("\n", 0, m.start()) + 1
         le = t.find("\n", m.end()); le = len(t) if le < 0 else le
-        line = t[:m.start()].count("\n") + 1
+        line = M.mark_line(t, m)
         whole = m.start() == ls and m.end() == le
         if not r and "\n" not in l and whole and line <= 3 and HEAD.fullmatch(l):
             why[k] = "head"
@@ -193,7 +193,7 @@ def resolve_trivial(p, t):
     for k, m in enumerate(marks):
         out += t[pos:m.start()] + (m.group(1) if k in why else m.group(0)); pos = m.end()
     out += t[pos:]
-    log = [(t[:marks[k].start()].count("\n") + 1, w, *marks[k].groups()) for k, w in sorted(why.items())]
+    log = [(M.mark_line(t, marks[k]), w, *marks[k].groups()) for k, w in sorted(why.items())]
     return out, log
 
 
@@ -379,7 +379,7 @@ def locate_page(p, t, tw, cropdir):
             box = crop(im, tw, i0, i1, cropdir / png)
             near = " ".join(w["text"] for w in tw[max(0, i0 - 2):i1 + 3])[:200]
         rows.append([p, str(line), status, how, "/".join(str(f[1]) for f in found),
-                     ",".join(map(str, box)), l.replace("\n", "⏎")[:60], r[:60], near, png])
+                     ",".join(map(str, box)), l.replace("\n", "⏎")[:60], r.replace("\n", "⏎")[:60], near, png])
     return rows
 
 

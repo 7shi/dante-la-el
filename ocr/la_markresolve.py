@@ -187,7 +187,7 @@ def main():
         text, pos, todo = "", 0, 0
         for k, (m, f, (rt, decision, mv, tv, note)) in enumerate(
                 zip(marks, locs[p], route(p, t, locs[p], model[p], tw, rule))):
-            l, r = m.groups(); line = t[:m.start()].count("\n") + 1
+            l, r = m.groups(); line = M.mark_line(t, m)
             cells = [p, str(line), str(k), klass(l, r), l.replace("\n", "⏎"), r.replace("\n", "⏎")]
             if rt == "model" and decision == "right": rt, note = "check", "changes ocr/la"
             rows.append("\t".join(cells + [rt, decision, mv, tv, note]))

@@ -116,7 +116,7 @@ def main():
             m = pages[p][int(k)]
             t = m.string
             l, r = m.groups()
-            assert t[:m.start()].count("\n") + 1 == int(line), name
+            assert M.mark_line(t, m) == int(line), name
             key = mark_name(p, line, l, r)
             ans = w / "ans" / f"{key}.{tag}.json"
             sw = swapped(key)

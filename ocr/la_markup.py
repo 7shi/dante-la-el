@@ -38,6 +38,12 @@ USAGE_PATH = None
 MARK = re.compile(r"\{\{([^{}|]*)\|([^{}|]*)\}\}")
 
 
+def mark_line(t, m):
+    """The ocr/la line of mark m of the marked page t: counted on the left sides, since a
+    right side may hold line breaks."""
+    return MARK.sub(lambda x: x.group(1), t[:m.start()]).count("\n") + 1
+
+
 class Difference(BaseModel):
     line: int = Field(description="number of the OCR A line where the difference starts")
     end_line: int = Field(description="for a run of whole OCR A lines missing from B (such "
