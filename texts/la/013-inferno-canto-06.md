@@ -374,9 +374,7 @@ Hic: idest, in fine dictorum verborum ponit finem lacrymabili sono.
 
 Et ego adhuc: supple, dixi sibi: Volo quod tu me doceas, et quod de ampliori loquutione facias michi donum: idest, quod ulterius mecum loquaris.
 
-Farinata et Thygnao, qui fuerunt digni sic: idest.
-
-multum.
+Farinata et Thygnao, qui fuerunt digni sic: idest, multum.
 
 Iacobus Rusticutius, Henricus et Musca, et alii, qui ad bene operandum ingenia posuerunt, dic michi ubi sunt; et fac ut cognoscam eos, quoniam magnum desiderium habeo sciendi si in celo habent gloriam, aut penis infernalibus cruciantur.
 

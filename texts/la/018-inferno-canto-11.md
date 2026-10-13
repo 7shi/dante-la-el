@@ -50,9 +50,9 @@ tangit unum aliud dubium circa eamdem materiam ipsi Virgilio.
 
 Redeundo ad primam partem, dico quod auctor, tangendo materiam sequentem, retangit aliqualiter materiam precedentem. Fingit quod hic invenit unum aggerem durum et altum, sive arginem, sive yma[r]ginem, vel limitem, ad denotandum difficultatem et profunditatem materie pertractande.
 
-In extremitate unius alte ripe: quem scilicet limitem. faciebant magne petre scisse in circulum, venimus super crudeliorem stipam: in circulum, quia illi lapides erant circulares et spirici, sicut omnes circuli ibi positi. Stipam: super crudeliorem penam. Notandum hic, sicut dicit Aristotiles, omne multiplex equivocum, nisi distinguatur, esse principium ignorantie nostre. Hoc dico propter illud quod supra dictum est. Stipa: idest circundat et firmat.
+In extremitate unius alte ripe: quem scilicet limitem, faciebant magne petre scisse in circulum, venimus super crudeliorem stipam: in circulum, quia illi lapides erant circulares et spirici, sicut omnes circuli ibi positi. Stipam: super crudeliorem penam. Notandum hic, sicut dicit Aristotiles, omne multiplex equivocum, nisi distinguatur, esse principium ignorantie nostre. Hoc dico propter illud quod supra dictum est. Stipa: idest circundat et firmat.
 
-Stipa, stia: idest stet: et hic neutro horum modorum accipitur Stipa. Hic, in hoc loco, stipa est nomen, idest cavea in longobardico ydiomate. Cavea, in qua stant capones, et etiam alie aves, dicitur stia. Stia igitur est idem quod cavea: sic hic accipitur. quod omnes anime, que sunt hic, in istis circulis, sunt in stia, idest recluse in stia, sive carcere. Igitur stipa, idest carcer. Et sic exponatur textus: Venimus super crudeliorem stipam, idest crudeliorem carcerem, vel reclusionem.
+Stipa, stia: idest stet: et hic neutro horum modorum accipitur Stipa. Hic, in hoc loco, stipa est nomen, idest cavea in longobardico ydiomate. Cavea, in qua stant capones, et etiam alie aves, dicitur stia. Stia igitur est idem quod cavea: sic hic accipitur, quod omnes anime, que sunt hic, in istis circulis, sunt in stia, idest recluse in stia, sive carcere. Igitur stipa, idest carcer. Et sic exponatur textus: Venimus super crudeliorem stipam, idest crudeliorem carcerem, vel reclusionem.
 
 E quivi: et hic propter horribilem soperchium, idest excessum fetoris, quem profundus abyssi eicit, adhesimus retro, ad unum coperculum unius magni avelli, idest sepulchri; ubi vidi unam scriptam, idest scripturam, que dicebat: Anestasius Papa.
 
@@ -434,11 +434,11 @@ Notanda sunt hic aliqua, quorum primum est, quare natura et ars dicantur res Dei
 
 accipit a divino intellectu et a sua arte; et si tu bene tuam Phisicam notas, tu invenies non post multas cartas, idest in secundo libro, quod ars vestra, quantum potest, illam, scilicet naturam, ymitatur, sicut discipulus magistrum: ita quod vestra ars Deo est quasi neptis.
 
-De istis rebus, si tu revocas tibi ad mentem principium libri Genesis. oportuit accipere suam viam, et aranzare gentem, idest multiplicari gentem.
+De istis rebus, si tu revocas tibi ad mentem principium libri Genesis, oportuit accipere suam viam, et aranzare gentem, idest multiplicari gentem.
 
 Et quia usura viam aliam tenet, quia vult usura, quod danarius producat danarium et multiplicet, etc.; per se naturam, per suam sequacem, idest artem, despicit, postea quam in aliud ponit spem, idest alio modo procedit.
 
-Sed admodum sequere me: iam describit tempus per stellas. Vult dicere quod fit dies. Quia ire michi placet: et pisces. [qui] sunt signum in quo stat Sol de mense februarii, guizzant: idest se movent, idest currunt, super orizzontam; et currus. idest Ursa maior, totus supra Torum, idest ventum meridionalem, iacet.
+Sed admodum sequere me: iam describit tempus per stellas. Vult dicere quod fit dies. Quia ire michi placet: et pisces. [qui] sunt signum in quo stat Sol de mense februarii, guizzant: idest se movent, idest currunt, super orizzontam; et currus, idest Ursa maior, totus supra Torum, idest ventum meridionalem, iacet.
 
 Et balzo: idest passus per quem debebant intrare.
 

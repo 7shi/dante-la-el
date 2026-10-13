@@ -296,7 +296,7 @@ Bella: idest pulchra, quia habet pulchrum subiectum, idest Deum, et divinam esse
 
 Et tam erat imperiosa, quod ego ipsam requisivi, ut michi preciperet. Describit eam ab oculis.
 
-Lucivan gli occhi suoy: oculi Beatricis. scilicet Theologie, sunt contemplatio et speculatio summi boni, primi entis, etc., et sunt ita perspicaces, quod transcendunt celos. vadunt usque ad supremam maiestatem.
+Lucivan gli occhi suoy: oculi Beatricis, scilicet Theologie, sunt contemplatio et speculatio summi boni, primi entis, etc., et sunt ita perspicaces, quod transcendunt celos, vadunt usque ad supremam maiestatem.
 
 Incepit michi loqui suaviter et plane: Scriptura sacra utitur latino plano et suavi, non superbo, sicut faciunt poete. Dicit Sanctus Ieronimus, quod aliquando videbatur sibi sermo divinus incultus, sed postmodum apparuit sibi valde suavis.
 
@@ -306,7 +306,7 @@ O anima corteze mantuana: idest, o tu, Virgili, qui fuisti res curialis: de te f
 
 Modo narrat et petit.
 
-Amicus meus et non fortune: idest, Dantes nunquam. propter multa commoda et incommoda que habuit, dimisit studium Theologie.
+Amicus meus et non fortune: idest, Dantes nunquam, propter multa commoda et incommoda que habuit, dimisit studium Theologie.
 
 Nel diserto ascensu: impeditur sic in itinere, quod iam se vertit pro timore.
 
@@ -378,7 +378,7 @@ Nel diserto ascensu: impeditur sic in itinere, quod iam se vertit pro timore.
 
 (¹) Paradiso. — (²) desidero. — (³) divino. — (⁴) a venire.
 
-Et themo: dolet de periculo. in quo est Dantes. Idest, video ipsum iam dispositum ad retrocedendum ad vitia; et forte non poterit retrahi ab ipsis, et forte nimis tardavi ad te venire.
+Et themo: dolet de periculo, in quo est Dantes. Idest, video ipsum iam dispositum ad retrocedendum ad vitia; et forte non poterit retrahi ab ipsis, et forte nimis tardavi ad te venire.
 
 Per quello che io de luy in cielo ò odito: nam anime beate vident in Deo res et modos rerum, sicut in claro speculo, etiam entia futura. Nam in Deo vidi quomodo iste, scilicet Dantes, stetit in vitiis bene viginti quinque annis; iam forte fecit nodum, nec se emendabit.
 
@@ -544,13 +544,13 @@ Non odi: non audis tu, quasi dicens: Dolet et penitet. Fiumana: idest, in valle 
 
 Nunquam fuerunt persone tam veloces ad faciendum quod sibi prodest, vel ad fugiendum dampnum suum, sicut ego post hec verba sancta veni ego huc inferius.
 
-Ego Beatrix de meo beato scanno: confidens de tua locutione honesta, idest in eloquentia tua pulcherrima, que te honorat, scilicet Virgilium, et illos qui eam audierunt. sicut Dantem, Statium, Ioannem Virgilii, qui fuit contemporaneus Dantis. Et sic cepit Beatrix lacrymari. Planctus est actus rethoricus, suavissimus et commotivus animorum; ideo dicit: Venio ad te.
+Ego Beatrix de meo beato scanno: confidens de tua locutione honesta, idest in eloquentia tua pulcherrima, que te honorat, scilicet Virgilium, et illos qui eam audierunt, sicut Dantem, Statium, Ioannem Virgilii, qui fuit contemporaneus Dantis. Et sic cepit Beatrix lacrymari. Planctus est actus rethoricus, suavissimus et commotivus animorum; ideo dicit: Venio ad te.
 
 Postquam talia dixerat michi: sic loquitur Virgilius Danti.
 
 Et ipsa oculos lacrymosos revolvit; quare me fecit prompliorem ad veniendum ad te: et sicut ipsa voluit, veni ad te, eripiens te ab illa fera, idest lupa, de via vitiorum, maxime de via avaritie.
 
-Que ad pulchrum montem breviter te abstulit: breviter. quia adhuc Dantes paucum spatium per ascensum iverat.
+Que ad pulchrum montem breviter te abstulit: breviter, quia adhuc Dantes paucum spatium per ascensum iverat.
 
 Doncha che è? Ergo quare desistis? hec est ultima, sive quinta pars principalis, in qua apparet bonus effectus succursus Virgilii, scilicet quomodo Virgilius cum honestis verbis et pulchris rationibus abstulerit dubium Dante et suspitionem de mente, ostendendo quomodo sit habilis ad istud opus perficiendum; et ponitur actio gratiarum, quam fecit Dantes ipsi Virgilio.
 
@@ -614,7 +614,7 @@ in hoc opere, ex quo tu habes advocatos tales et coadiutores in celo et in terra
 
 El mio parlare: quasi dicens: Etiam habes istam prerogativam: feci tibi viam, quia ante te tractavi de Inferno in sexto meo libro Eneydos; que res dabit tibi magnam viam.
 
-Quale i fioricti: modo per nobilem comparationem demonstrat Dantes suam reductionem et virium resumptionem ad opus faciendum. Vult dicere ita: Michi contigit, sicut contingit floribus primeveris, qui, adveniente nocte, curvantur ad terram, clauduntur. Veniente postmodum sole, aperiuntur et eriguntur. Sic evenit michi fesso in virtute mea. Et tanta bona audacia redit michi ad cor, quod sic cepi loqui, sicut persona secura. Dantes proprie est iste flos; nam tempore Arietis. idest primeveris, cepit hoc opus; ideo est flos, scilicet intellectus florens. Frigus noctis est timor lupe; idest avaritie.
+Quale i fioricti: modo per nobilem comparationem demonstrat Dantes suam reductionem et virium resumptionem ad opus faciendum. Vult dicere ita: Michi contigit, sicut contingit floribus primeveris, qui, adveniente nocte, curvantur ad terram, clauduntur. Veniente postmodum sole, aperiuntur et eriguntur. Sic evenit michi fesso in virtute mea. Et tanta bona audacia redit michi ad cor, quod sic cepi loqui, sicut persona secura. Dantes proprie est iste flos; nam tempore Arietis, idest primeveris, cepit hoc opus; ideo est flos, scilicet intellectus florens. Frigus noctis est timor lupe; idest avaritie.
 
 Stelo: idest, crure.
 

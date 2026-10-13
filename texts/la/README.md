@@ -4,7 +4,7 @@
 
 These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/la/) by [`convert_la.py`](../convert_la.py); see [`ocr/la/INDEX.md`](../../ocr/la/INDEX.md) for the volume and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/la/` and run `uv run texts/convert_la.py`.
 
-**Only Inferno I–XIII are converted so far** (scans `0079`–`0232`). Their transcription has been checked against the print letter by letter ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md)); the rest of `ocr/la/` is not yet completed, and the front matter, the other cantos and the appendix will follow.
+**Only Inferno I–XIII are converted so far** (scans `0079`–`0232`). Their transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits); the rest of `ocr/la/` is not yet completed, and the front matter, the other cantos and the appendix will follow.
 
 ## Reading the files
 
