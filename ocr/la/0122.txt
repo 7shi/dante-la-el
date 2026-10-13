@@ -4,7 +4,7 @@ INFERNI
 
 ³² Così vid'io adunar la bella scola
 Di quei signor dell'altissimo canto,
-Che sopra gl'altri (¹), com'aquila, vola.
+Che sopra gl'altri. (¹), com'aquila, vola.
 ³³ Poi ch'ebber ragionato insieme alquanto,
 Volsersi a me con salutevol cenno;
 E 'l mio maestro sorrise di tanto.
@@ -38,7 +38,7 @@ Prout erat loqui illic ubi eram.
 ³⁶ Venimus ad pedes unius nobilis castelli,
 Septies circumdati altis muris,
 Defensi circum ab uno pulchro flumicolo.
-³⁷ Per hunc transivimus, tanquam per terram duram;
+³⁷ Per hunc transivimus, tamquam per terram duram;
 Per septem portas intravi cum istis sapientibus;
 Pervenimus in pratum recentis viriditatis.
 
@@ -72,7 +72,6 @@ dicatur, quod laus in ore proprio sordescit: dicendum, non
 semper. Sicut Eneas dicebat de se: Sum pius Eneas. Pre-
 terea, quod Dantes se sextum fuisse intelligat de numero
 senario, patet pro tanto quia dicit in fine capituli:
-
 La sesta compagnia in duo si scema;
 Societas sex in duos minuitur.
 
