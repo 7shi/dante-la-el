@@ -346,9 +346,17 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
    way, for step 4: page heads out of order or incomplete on 0083 (no `29`), 0085, 0086
    (`INFERNI` before the Latin verse), 0097, 0210 (no `INFERNI`), 0215 (no `161`), 0216
    (no `162`), 0219, 0223 (no `169`), 0230. 0127 has no signature in the print.)
-4. Final checks: `la_check.py` (tercets, rules); search for `æ`, accents and `—`; line counts;
-   the line ends against Tesseract's over 0104–0232 (done for 0079–0103); the page-head
-   order (page number, blank, running head) over 0079–0232.
+4. (done: the final checks, `27524e4`, `ec93079`. Page heads: numbers added on 15 pages,
+   order fixed on 4, `INFERNI` added on 0210 and moved on 0086; the pages without a head
+   are chapter openings, summaries, essays, blank pages and the chapter-end pages 0080
+   and 0198. No `æ`; `—` only in gloss lines and 0081 `EXPOSITIO LIBRI. —`; accents: 0201
+   `pòne`, 0092 `nè`, `sè` as the book's grave accents (`Bréholles` on 0232 stays). Line
+   ends: lines over 68 characters outside the essays and gloss lines found two more pages
+   of paragraph lines, 0131 and 0193, broken into printed lines (a check of every line end
+   against Tesseract's lines gave too many false hits where Tesseract joins the columns).
+   `la_check.py` still reports 0131 and 0165 (a Latin line starting with a printed `[`,
+   `[Dicunt …]`, `[Et] dixi`, taken for a runover word) and 0100 (no numbers in 0099's
+   print): not errors.)
 5. `texts/convert_la.py` (normalizing `’`), the READMEs, texts/PLAN.md (status, a pointer
    here), and the commits.
 6. Then decide whether batch 3+ uses the same method (run `tmp/tess.py` first;
