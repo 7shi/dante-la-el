@@ -7,7 +7,7 @@ Mantovani per patria ambodui.
 E vixi a Roma sotto'l buon Augusto,
 Al tempo delli Dei falsi e bugiardi.
 25 Poeta fui, e cantai di quel iusto
-Figliuol d'Anchyse che venne di Troya,
+Figluol d'Anchyse che venne di Troya,
 Poi che 'l superbo Ylion fu combusto.
 26 Ma tu perchè mi vieni a tanta noia?
 Perchè non sali al dilectoso monte,
@@ -55,7 +55,7 @@ Pompeium, et habuit omnia officia romana, propter quod
 dictum fuit, Cesar erat omnia, ipse Cesar non vixit nisi
 tribus annis cum dimidio. Sed post ipsum regnavit Octa-
 vianus Cesar Augustus, et imperavit quinquaginta septem
-annis, cuius imperii anno quadragesimo secundo natus est
+annis; cuius imperii anno quadragesimo secundo natus est
 Christus. Quando Octavianus mortuus est, Christus erat
 quindecim annorum. Octaviano successit Tyberius, cuius
 imperii anno quintodecimo Christus cepit predicare, et de-
@@ -67,7 +67,7 @@ salvatus. Tunc, vivente Virgilio et moriente, Dii falsi cole-
 bantur. Vixit sub Augusto, ad cuius laudem fecit librum
 Eneydos, ut dictum est in tertio preambulo.
 Dicit textus: Natus sub Iulio, adhuc licet tarde: hic acci-
-pitur tarde, quando non bona hora. Homo, quando non
+pitur tarde, quando non est bona hora. Homo, quando non
 habet quod vult, videtur tardasse. Et sic hic accipitur, quod
 
 Virgilius voluisset esse tempore Christi, quia fuisset sal-
@@ -77,7 +77,7 @@ cito natus sum. Quidquid sit, dicendum est, quod tarde hic
 accipitur quando non bona hora; et aliter sententia non
 esset bona.
 
-Poeta fui: declarat se a professione, asserens se poetam
+Poeta fui: declarat se a profexione, asserens se poetam
 fuisse. Et cantavi de illo iusto filio Anchisis, idest de
 Enea, de quo, ut sepe dictum est, cantavit et fecit librum
 Eneydos. Sed nota, quod dum [dicit] Eneam fuisse iustum,

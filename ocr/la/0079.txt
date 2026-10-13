@@ -48,7 +48,7 @@ Hic prophetat auctor de isto duce venturo, et se-
 quitur opinionem Albumanzar in libro de Coniun-
 ctionibus planetarum. Hic veltrus inimicatur lupis:
 idest ille bonus dominus non cibabitur auro, aut
-peltró; sed suus cibus erunt sapientia, amor et vir-
+peltro; sed suus cibus erunt sapientia, amor et vir-
 tus. Hic veltrus interficiet lupam, et reducet eam
 ad Infernum, unde invidia illam primitus extra-
 xit. Et dicit, subiungendo, auctori: Ad evadendum
@@ -57,4 +57,4 @@ viam tenere; et si vis me sequi, liberabo te et
 ducam per regnum dolentium, ubi videbis spiritus
 antiquos dolentes, nec unquam sperantes a penis
 
-1
+4
