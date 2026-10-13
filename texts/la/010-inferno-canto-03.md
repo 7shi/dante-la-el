@@ -494,7 +494,7 @@ Et ille anime, que erant lasse: idest fesse et nude, cambiaverunt, idest mutaver
 
 Batter i denti: propter rabiem desperationis.
 
-Rapto: idest cito, blasphemabant Deum et suos genitores, humanam speciem, locum, tempus, semen eorum seminis et eorum nasciture.
+Racto: idest cito, blasphemabant Deum et suos genitores, humanam speciem, locum, tempus, semen eorum seminis et eorum nasciture.
 
 Loquitur hic auctor more Ysaye prophete, dicentis: Blasphemant regem, speciem humanam: potius voluissent esse de specie brutorum, quorum anime moriuntur cum corporibus.
 
