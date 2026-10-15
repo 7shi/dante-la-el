@@ -285,7 +285,7 @@ Ma no[n] sì che paura. Sed non tamen quin pavorem michi daret aspectus leonis: 
 &emsp;Que multas gentes iam male vivere coegit.
 
 ¹⁸ Questa mi porse tanto di gravezza,\
-&emsp;Per la paura, ch'uscìa di sua vista,\
+&emsp;Per la paura, ch'uscia di sua vista,\
 &emsp;Ch'i' perdei la speranza dell'altezza.
 
 ¹⁸ Ista michi porrexit tantum gravedinis\
