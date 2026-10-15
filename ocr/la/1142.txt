@@ -18,22 +18,6 @@ Altro vorrebbe, e sperando s'appaga.
 
 (¹) l'uccello — (²) de' suoi figliuoli — (³) fatiche — (⁴) dolci e leggieri.
 
-Sicut avis inter amatas frondes. Come l'aucello in-
-tra l'amate fronde: hoc est vicesimumtertium capitulum
-huius Paradisi, in quo auctor describit figuraliter Eccle-
-siam triumphantem. Et dividitur in quatuor partes. In
-prima quarum auctor introducit Beatricem. que invitat
-eum ad contemplandum illam militiam que hic apparet.
-In secunda parte. que incipit ibi:
-Qualis in pleniluniis serenis;
-Quale nei plenilunii sereni,
-auctor describit principem et ducem huius exercitus trium-
-phalis.
-In tertia parte, que incipit ibi:
-Quare facies mea ita te;
-Perchè la faccia mia,
-describitur militia, que sequitur illum ducem.
-
 ¹ Sicut avis, inter amatas frondes,
 Quieta ad nidum suorum dulcium natorum
 In nocte, que res nobis abscondit,
@@ -49,6 +33,22 @@ Sub qua [sol] monstrat minorem festinantiam;
 ⁵ Ita quod videns ego illam suspensam et vagam,
 Feci me qualis est ille, qui desiderando
 Aliud vellet, et sperando quietatur.
+
+Sicut avis inter amatas frondes. Come l'aucello in-
+tra l'amate fronde: hoc est vicesimumtertium capitulum
+huius Paradisi, in quo auctor describit figuraliter Eccle-
+siam triumphantem. Et dividitur in quatuor partes. In
+prima quarum auctor introducit Beatricem. que invitat
+eum ad contemplandum illam militiam que hic apparet.
+In secunda parte. que incipit ibi:
+Qualis in pleniluniis serenis;
+Quale nei plenilunii sereni,
+auctor describit principem et ducem huius exercitus trium-
+phalis.
+In tertia parte, que incipit ibi:
+Quare facies mea ita te;
+Perchè la faccia mia,
+describitur militia, que sequitur illum ducem.
 
 In quarta parte, que incipit ibi:
 Regale mantum omnium voluminum;
