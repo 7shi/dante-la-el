@@ -81,22 +81,22 @@ scilicet celi regina, stant iste due, scilicet
 Rachael et Beatrix.
 
 [Diagram]
-*Top Left:* Locus in quo
+Top Left: Locus in quo
 stant illi salvati
 de antiquo testamen-
 to, qui suis meritis,
 mediante passione Chris-
 ti, ascenderunt istuc.
-*Top Right:* Locus in quo stant
+Top Right: Locus in quo stant
 salvati de novo
 testamento, qui suis
 meritis, mediante
 passione Christi
 ascenderunt istuc.
-*Bottom Left:* Locus parvulorum
+Bottom Left: Locus parvulorum
 innocentium de
 veteri testamento
-*Bottom Right:* Locus parvulorum
+Bottom Right: Locus parvulorum
 innocentium de
 novo testamento
 

@@ -1,6 +1,6 @@
 PURGATORII
 
-9 *Itur in Sanctum Leonem, et descenditur in Nolim;
+9 Itur in Sanctum Leonem, et descenditur in Nolim;
 Ascenditur in Biasmantuan et in Cacumem,
 Cum pedibus: sed hic convenit quod homo volet;
 10 Dico cum alis levibus et cum plumis
@@ -9,7 +9,7 @@ Qui spem michi dabat et faciebat lumen.
 11 Nos ascendebamus per intra unum saxum ruptum,
 Et ex omni latere nos stringebat extremum,
 Et manus et pedes volvebant subtus.
-12 *Quando nos fuimus super orlum supremum
+12 Quando nos fuimus super orlum supremum
 Alte ripe, in discooperta piaggia:
 Magister mi, dixi ego, quam viam faciemus?
 13 Et ipse ad me: Nullus tuus passus cadat;

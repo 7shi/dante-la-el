@@ -1,7 +1,7 @@
 CAPITULUM OCTAVUM
 515
 
-17 * Tempus erat iam quod aier nigrefiebat,
+17 Tempus erat iam quod aier nigrefiebat,
 Sed non sic, quin inter suos oculos et meos
 Non declararetur id quod prius [s]errabatur.
 18 Versus me se fecit, et ego versus illum me feci:
@@ -41,7 +41,7 @@ propriam patriam.
 Nulla pulchra salutatio inter nos tacuit: postea interro-
 gavit: Quantum est quod tu venisti ad pedes montis per
 longinquas aquas? Nam isti invicem, scilicet auctor et
-Ninus, fecerunt sibi caripendia amicabilia. Atque *lontane:*
+Ninus, fecerunt sibi caripendia amicabilia. Atque lontane:
 iudex Ninus putabat Dantem esse portatum ab angelo per
 navem, etc.
 
