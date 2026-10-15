@@ -79,8 +79,13 @@ In this order (decided with the user, 2026-10-15):
    dante-corpus text in the prompt. The crops of the Italian can hold the edge of the Latin
    column (tercet numbers, first letters, e.g. 0709, 1090): the prompt says to leave it out.
    - **Trial first**: crop the Italian column of checked pages (0079–0232, both columns
-     present; `la_versecrop.py` needs an option to crop a column that the file has),
-     transcribe, and measure against `ocr/la`; then all pages.
+     present), transcribe, and measure against `ocr/la`; then all pages. Prepared: the
+     crops of the Italian of 0079–0232 are in `tmp/la-verse/trial/crops/` (121 pages; 0119,
+     0188, 0215, 0231 counted differently; 0215 and 0231 looked at: fine, 0231 has specks
+     at the left edge); the trial (paid, by the user), then the measure:
+     `uv run ocr/la_verseread.py tmp/la-verse/trial/crops -m gpt-6-luna` (add `-n 5` for a
+     first look), then `uv run ocr/la_verseread.py tmp/la-verse/trial/crops -m gpt-6-luna --check`
+     (no calls once answered). All pages: `uv run ocr/la_verseread.py tmp/la-verse/crops -m gpt-6-luna`.
 2. **Verse check**: compare each transcription with GLM-OCR, which reads the Italian verse
    (as a check only); decide the disagreements in the image, as in the markup method (a
    crop per place, the model's verdict, la-el-claude for what changes the text). dante-corpus
@@ -607,10 +612,16 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
 - `ocr/la_check.py FIRST LAST [-v] [-o OUT]`: tercet numbers (order, every third line,
   continuity across pages) and the section rules of the images against the blank lines
   (the rule count often misses right-column and page-end rules: look at a listed page).
-- `ocr/la_versecrop.py PAGE... -t TESS -o OUTDIR`: crops the verse column missing from a
-  page (found from the other column's lines in Tesseract's words and the blank band
-  between the columns), for its transcription; `crops.tsv` lists the boxes and the line
-  counts to look at (Remaining work, item 1).
+- `ocr/la_versecrop.py PAGE... -t TESS -o OUTDIR [-c it|la]`: crops the verse column
+  missing from a page (found from the other column's lines in Tesseract's words and the
+  blank band between the columns), for its transcription; `crops.tsv` lists the boxes and
+  the line counts to look at (Remaining work, item 1). `-c` crops that column also where
+  the file has it (the trial).
+- `ocr/la_verseread.py CROPS [PAGE...] -m MODEL [-n N] [--fake] [--check]`: transcribes
+  each crop with a model, from the image only (tercet number and text of each line apart;
+  superscripts and `(¹)` written by the script): `CROPS/read/PAGE.txt`, the answers
+  `PAGE.MODEL.json` reused on a rerun. `--check` compares with the same column of
+  `ocr/la` (`read/check.txt`).
 - `ocr/la_survey.py [--cantos | --work FIRST LAST] [-o OUT]`: the survey of the verse
   blocks (texts/PLAN.md, step 1): which pages lack the Italian or the Latin column, per
   page, per canto, or as the work list of a batch. It reads dante-corpus as a dependency

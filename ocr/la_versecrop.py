@@ -1,6 +1,6 @@
 """Crop the verse column missing from an ocr/la page, for its transcription from the image.
 
-    la_versecrop.py PAGE... -t TESS -o OUTDIR
+    la_versecrop.py PAGE... -t TESS -o OUTDIR [-c it|la]
 
 A canto page prints the verse at the top in two columns, the Italian on the left and the
 Latin on the right. For a page whose file has only one of them (la_survey.py: Italian or
@@ -14,7 +14,10 @@ the other column can come in (tercet numbers, first letters). The lines of the f
 OUTDIR/crops.tsv lists for each page: the missing column (it, la), the box (x0 y0 x1 y1), the
 verse lines of the file, how many of them were found in Tesseract's words, the printed lines
 Tesseract has in the box, and a status: ok, or what to look at (few lines found, line
-counts differ, no verse block)."""
+counts differ, no verse block).
+
+With -c, that column is cropped even where the file has it, located by the lines of the
+other column (for a trial of the transcription on pages whose verse is checked)."""
 
 import argparse
 import collections
@@ -42,10 +45,30 @@ def tess_words(path):
     return out
 
 
-def verse_lines(p):
-    """The verse lines of the file's block: no gloss lines, runover words or heads."""
+def verse_groups(p):
+    """The verse lines of the file's block, by group of lines between blank lines (the
+    Italian block, the Latin block), each with its language (it, la): no gloss lines,
+    runover words or heads."""
     lines = (ROOT / f"{p}.txt").read_text(encoding="utf-8").splitlines()
-    return [lines[i] for i in S.verse_block(lines) if S.keep(lines[i])]
+    groups, prev = [], None
+    for i in S.verse_block(lines):
+        if prev is None or i > prev + 1: groups.append([])
+        prev = i
+        if S.keep(lines[i]): groups[-1].append(lines[i])
+    return [("la" if statistics.mean(S.latin_score(l) for l in g) > 0 else "it", g)
+            for g in groups if g]
+
+
+def verse_lines(p, column=None):
+    """The lines that locate the column to crop, and that column: without `column`, all the
+    verse lines (one column in the file) and the other column; with it, the lines of the
+    other column."""
+    groups = verse_groups(p)
+    if column is None:
+        verse = [l for _, g in groups for l in g]
+        if not verse: return [], ""
+        return verse, "it" if statistics.mean(S.latin_score(l) for l in verse) > 0 else "la"
+    return [l for lang, g in groups if lang != column for l in g], column
 
 
 def find_line(line, words, used):
@@ -79,10 +102,9 @@ def gutter(im, left, right, y0, y1):
     return left + int(0.3 * w) + k
 
 
-def crop_page(p, tessdir, outdir):
-    verse = verse_lines(p)
-    if not verse: return [p, "", "", len(verse), 0, 0, "no verse block"]
-    missing = "it" if statistics.mean(S.latin_score(l) for l in verse) > 0 else "la"
+def crop_page(p, tessdir, outdir, column=None):
+    verse, missing = verse_lines(p, column)
+    if not verse: return [p, missing, "", 0, 0, 0, "no verse block"]
     words = tess_words(tessdir / f"{p}.tsv")
     if not words: return [p, missing, "", len(verse), 0, 0, "no Tesseract words"]
     im = Image.open(ROOT / f"{p}.png")
@@ -134,11 +156,13 @@ def main():
     ap.add_argument("pages", nargs="+", help="page numbers, e.g. 0237 0238")
     ap.add_argument("-t", "--tessdir", type=Path, required=True, help="Tesseract's PAGE.tsv files")
     ap.add_argument("-o", "--outdir", type=Path, required=True, help="crops and crops.tsv")
+    ap.add_argument("-c", "--column", choices=["it", "la"],
+                    help="crop this column, also where the file has it (default: the missing one)")
     a = ap.parse_args()
     a.outdir.mkdir(parents=True, exist_ok=True)
     rows = [["page", "missing", "box", "verse", "found", "tess", "status"]]
     for p in a.pages:
-        rows.append(crop_page(p, a.tessdir, a.outdir))
+        rows.append(crop_page(p, a.tessdir, a.outdir, a.column))
         print("\t".join(map(str, rows[-1])), file=sys.stderr)
     (a.outdir / "crops.tsv").write_text("\n".join("\t".join(map(str, r)) for r in rows) + "\n",
                                        encoding="utf-8")
