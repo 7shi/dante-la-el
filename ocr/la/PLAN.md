@@ -57,6 +57,19 @@ italic lemmas against the verse of their page, and a lexicon check, are proposed
 - **Markup answers to redo**: the pages whose lines change (`tmp/la-verse-missing.txt`,
   386 pages: the 337 without the Italian, 0836, and the 48 with a moved Latin block) were
   moved, all their files, into `tmp/la-markup/bak/`; `tmp/la-markup/` holds the other 848.
+- **Markup of the 48 pages with a moved Latin block** (paid, by the user, default rounds):
+  re-checked with `-r 0`: 207 differences missed in 43 pages (44 spacing only); without
+  0598, about 3–4 a page, as on the other pages (left to the extra round, item 5).
+- **Italics written `*…*`** (Gemini's italics; the convention does not transcribe them):
+  0598 had 53 commentary lines wrapped in `*…*`, and the model's entries removing a `*`
+  could not be placed (two on a line). Every `*` was removed from `ocr/la` (114 pages, 475
+  lines, `tmp/la-italic-strip.txt`; only `*`, and a space left doubled or leading on two
+  lines, 0569, 0691), except the printed ones: 1193 `* * *`, 1254 `Quia(*)`; and 0611
+  `* Ego me moveram`, a misread tercet number (GLM-OCR `4`), left for the verse check.
+  Their markup is redone: the answers of the 89 pages not already among the 386, and
+  0598's second set (as `bak/0598-2.*`), were moved to `bak/`. The pages to mark are now
+  `tmp/la-markup-redo.txt` (475: 47 done, 90 ready in `tmp/la-markup-ready.txt`, 338 after
+  the verse).
 
 Data ready (in `tmp/`, not in git; see "Tools"):
 
@@ -93,11 +106,11 @@ In this order (decided with the user, 2026-10-15):
    is not a reason to change. 0836 (Latin, one page): la-el-claude checks it in the image.
    Then insert the blocks (Italian block, gloss line, Latin block; see the conventions) and
    run `la_check.py` (tercets) until it reports only known exceptions.
-3. **Markup of the 386 pages** (paid) of `tmp/la-verse-missing.txt`, as procedure step 2,
-   with the default rounds (the extra round of item 5 is for all pages together). The 48
-   pages with a moved Latin block (`tmp/la-verse-moved.txt`) have both columns and can be
-   marked before items 1–2:
-   `uv run ocr/la_markup.py -m gpt-6-luna -o tmp/la-markup $(cat tmp/la-verse-moved.txt)`;
+3. **Markup of the 475 pages** (paid) of `tmp/la-markup-redo.txt`, as procedure step 2,
+   with the default rounds (the extra round of item 5 is for all pages together). Done:
+   the 48 with a moved Latin block, except 0598. The 90 pages of the italics fix that do
+   not wait for the verse can be marked now:
+   `uv run ocr/la_markup.py -m gpt-6-luna -o tmp/la-markup $(cat tmp/la-markup-ready.txt)`;
    the other 338 after the verse is inserted.
 4. **Pages that stop `la_markprep.py`**: 0063 `{et}`, 0727 `{dicit}`, 0822 `{firmaret}`,
    0399 a `}}` line, 0458 and 1245 `|` (in `ocr/la`): check in the image and fix `ocr/la`
