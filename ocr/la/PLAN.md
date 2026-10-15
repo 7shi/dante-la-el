@@ -102,14 +102,25 @@ italic lemmas against the verse of their page, and a lexicon check, are proposed
     `dietrò`, which it reported itself as unsure (a speck above the `o`, not an accent:
     the file's `dietro` stands). Read independently: its apostrophe spacing and number
     forms differ from the file's.
-- **Verse inserted** (Remaining work, items 1–2; not committed yet): batches 1–2 of
+- **Verse inserted** (Remaining work, items 1–2): batches 1–2 of
   la-el-agy, 50 pages (0237–0390, the first 50 Italian pages of `crops.tsv`), 920 lines,
   5 words not as printed, all found by the check and fixed: 0273 `Ch'havea` (`C'havea`),
   0284 `dirieto` (`dirietro`), 0378 `departii` (`dipartii`), 0378 `mornorando` and 0390
   `ninico` (`mormorando`, `nimico`: an `m` whose worn first stem it took for an `n`, with
   a stroke-width argument in its report). No accent, punctuation or tercet number wrong.
   Its notes of "unsure" or "measured" letters are not a sign of a right reading: look at
-  them. Batch 3 (0397–0459, `tmp/herdr-task-verse5.md`) sent.
+  them.
+  Batch 3 (0397–0459, `tmp/herdr-task-verse5.md`), 25 pages, 495 lines: 2 not as printed,
+  0404 a comma left out after `paura`, 0423 `[su` for the printed misprint `[sn`. Its
+  report named a `d[e]lle` on 0397 that is in no file and no print: the report is not
+  evidence. GLM-OCR reads a worn `e` as `c` (`ciclo`, `Ch'ci`, `mici`, `Briarco`): the
+  scan's `Briareo` (0437) kept. Latin blocks: 0459 `52`–`58` for `32`–`38`; runover words
+  not marked (0425 `[unciam,`, 0448 `[nanciam.`, `[maneat.`, misread as `nantiam`,
+  `maneant`); 0459 `congeletur`; a blank line in the Latin block where the Italian has a
+  runover line (0404, 0423, 0455, 0456, 0459). 0447's `[Et veniet semper, ex gelatis
+  aquis].` is a whole line supplied in brackets: `la_verseinsert.py` takes `[` followed by
+  a lowercase letter as a runover, other `[` lines as verse; `la_check.py` still reports
+  its tercet 25 off by one (known exception).
   The Latin blocks of these pages (unchecked OCR) needed: numbers made superscript;
   numbers missing though printed (0295, 0307, 0317, 0385 all; 0329 one; 0369 a `"` for
   `44`), misread (0277 `27` for `37`) or a line off (0252, 0289); a stray blank line in
@@ -156,7 +167,7 @@ In this order (decided with the user, 2026-10-15):
    - **Batches**: 25 Italian pages each, in the order of `crops.tsv`; the task of batch N
      is `tmp/herdr-task-verse{N+2}.md` (the previous one with the new pages, and the
      words of the last batch that were not as printed), the report
-     `tmp/herdr-report-verse{N+2}.md`. Done: batches 1–2 (State); batch 3 sent.
+     `tmp/herdr-report-verse{N+2}.md`. Done: batches 1–3, 75 pages (State); batch 4 next (Italian pages 76–100 of `crops.tsv`).
 2. **Verse check**, after each batch of item 1 (la-el-claude, by script first): compare
    each transcription with GLM-OCR, which reads the Italian verse (as a check only), and
    its tercet numbers with those of the Latin column of the page; look in the image only at

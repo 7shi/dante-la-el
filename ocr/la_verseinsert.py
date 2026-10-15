@@ -28,7 +28,8 @@ LANUM = re.compile(r"^\^?([⁰¹²³⁴⁵⁶⁷⁸⁹]{1,3}|\d{1,3})\.? +(?=\S)
 
 def counted(l):
     t = l.strip()
-    return (S.keep(l) and not S.is_head(l) and not t.startswith("[") and t.upper() != t
+    runover = re.match(r"\[[a-zà-ù]", t)  # 0447 `[Et veniet …]`: a whole line supplied
+    return (S.keep(l) and not S.is_head(l) and not runover and t.upper() != t
             and not re.fullmatch(r"\(\W*\)", t))  # 0309 `(...)`
 
 
