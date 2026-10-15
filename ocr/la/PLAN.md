@@ -121,6 +121,19 @@ italic lemmas against the verse of their page, and a lexicon check, are proposed
   aquis].` is a whole line supplied in brackets: `la_verseinsert.py` takes `[` followed by
   a lowercase letter as a runover, other `[` lines as verse; `la_check.py` still reports
   its tercet 25 off by one (known exception).
+- **`la_check.py 0233 0460` after batch 3** (2026-10-16; not looked at one by one, to be
+  cleared in the batch procedure, step 1): 32 pages report (it = Italian, la = Latin).
+  - A numbering gap or disorder within the page: 0240 it (27 then 30), 0251 it (25 then
+    28), 0264 it/la (35 then 38), 0331 la (18, 11, 20), 0333 it (48 reports, every tercet
+    3 apart: numbers likely by 3s), 0373 it/la (5 then 7), 0416 it/la (35 then 39), 0417
+    it (45 then 48), 0433 it/la (5 then 4).
+  - Numbers not every 3rd line: 0328 la, 0340 la, 0391 it/la (24 reports), 0392 la, 0402
+    it/la (12 reports); 0447 la (known exception, above).
+  - Start not following the previous page (the cause can be on either page; a page with no
+    verse block, e.g. 0449 in the tab layout, breaks the chain): 0240, 0252, 0253, 0254,
+    0265, 0284, 0312, 0319, 0323 la, 0334, 0335 it, 0340 la, 0351, 0353, 0355, 0356,
+    0392, 0403, 0416, 0421 it, 0433, 0450. Among them the inserted pages 0252, 0284,
+    0403, 0421, 0450: their own numbers were checked against the scan at insertion.
   The Latin blocks of these pages (unchecked OCR) needed: numbers made superscript;
   numbers missing though printed (0295, 0307, 0317, 0385 all; 0329 one; 0369 a `"` for
   `44`), misread (0277 `27` for `37`) or a line off (0252, 0289); a stray blank line in
