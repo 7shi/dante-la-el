@@ -88,7 +88,12 @@ In this order (decided with the user, 2026-10-15):
    is not a reason to change. 0836 (Latin, one page): la-el-claude checks it in the image.
    Then insert the blocks (Italian block, gloss line, Latin block; see the conventions) and
    run `la_check.py` (tercets) until it reports only known exceptions.
-3. **Markup of the 386 pages** (paid) of `tmp/la-verse-missing.txt`, as procedure step 2.
+3. **Markup of the 386 pages** (paid) of `tmp/la-verse-missing.txt`, as procedure step 2,
+   with the default rounds (the extra round of item 5 is for all pages together). The 48
+   pages with a moved Latin block (`tmp/la-verse-moved.txt`) have both columns and can be
+   marked before items 1–2:
+   `uv run ocr/la_markup.py -m gpt-6-luna -o tmp/la-markup $(cat tmp/la-verse-moved.txt)`;
+   the other 338 after the verse is inserted.
 4. **Pages that stop `la_markprep.py`**: 0063 `{et}`, 0727 `{dicit}`, 0822 `{firmaret}`,
    0399 a `}}` line, 0458 and 1245 `|` (in `ocr/la`): check in the image and fix `ocr/la`
    (0458 and 0727 are among the 386, fix them before item 3); 0021 `||`, 0344 and 0467
