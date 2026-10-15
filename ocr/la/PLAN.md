@@ -7,13 +7,16 @@ conversion notes, `convert_la.py`) is planned in [texts/PLAN.md](../../texts/PLA
 here. That plan's delegation by batches was the first method; this file records where it got
 to and the method that replaced it.
 
-**Goal**: complete `ocr/la` batch by batch (batches 3–10, `0233`–`1270`, then the front
-matter and appendix, batch 11) and convert each into `texts/la/`.
+**Goal**: complete the rest of `ocr/la` (`0233`–`1296`, and the front matter `0001`–`0078`)
+and convert it into `texts/la/`. The verse and the paid steps of the markup method
+(procedure, steps 1–4) now run over all these pages at once; the review and the steps after
+it (5–11) go batch by batch (batches 3–10, `0233`–`1270`, then the front matter and
+appendix, batch 11).
 
-**A new session starts here**: read "State", then follow "Procedure for a batch" from its
-first step. The conventions and rules below are settled: apply them, do not ask again.
+**A new session starts here**: read "State" and "Remaining work", and go on from the first
+open item. The conventions and rules below are settled: apply them, do not ask again.
 
-## State (2026-10-13)
+## State (2026-10-15)
 
 **Batches 1–2 (`0079`–`0232`, Inferno I–XIII) are complete**, and the procedure below is
 established on them. `texts/la/008`–`020` are converted from them.
@@ -31,17 +34,75 @@ Not covered (see "Known limits"): text that both OCRs read alike and wrongly (00
 for printed `territ` was found by chance); italics are not transcribed. A full check of the
 italic lemmas against the verse of their page, and a lexicon check, are proposed, not done.
 
-**Next: batch 3 (`0233`–`0348`, Inferno XIV–XXIII)**, in a new session. Its first step is a
-decision to take with the user: how to complete the missing verse columns (step 1 below).
-`la_survey.py --work 233 348` lists 57 pages with verse problems, 46 of them with a whole
-column missing.
+**The rest (2026-10-14/15)**:
 
-Data ready for batch 3 and beyond (in `tmp/`, not in git; see "Tools"):
+- **Markup** (paid, by the user) done for every page (`0001`–`1296`, 1234 pages without
+  the 62 blank ones). Re-checked with `-r 0` (in a work directory `tmp/la-mark6/`, since
+  deleted): 3843 differences reported as missed in 841 pages (890 of them spacing only),
+  far more than on batches 1–2; 0941's answer is not valid JSON.
+- **`la_markprep.py`** ran over 1074 pages (21371 questions for the model): fixed for a
+  page file without a final newline (306 pages; the ending of `ocr/la` is kept), a vote
+  peak outside Tesseract's words, and superscript digits taken for a signature. Nine pages
+  stop it, because `{`, `}` or `|` in a text break the `{{…|…}}` marks (Remaining work,
+  item 4).
+- **Verse, misplaced Latin blocks** (by la-el-agy, checked): of the 74 pages that
+  `la_survey.py` gave as Latin missing, 48 had the Latin block elsewhere on the page and it
+  was moved (whole lines only; checked: the non-blank lines of each page are the same set);
+  25 had it in place (`la_survey.py` false positives: glosses written `(^1)` or run over two
+  lines end its verse block early, e.g. 0262, 0345); only 0836 lacks the Latin.
+- **Verse, crops**: `ocr/la_versecrop.py` cropped the missing column of the 337 pages
+  without the Italian and of 0836 (`tmp/la-verse/crops/`, `crops.tsv`); the crops whose
+  line counts differed were checked by la-el-agy and la-el-claude, and the script fixed
+  (bottom lines lost, the Italian cut where the two columns overlap, 0625).
+- **Markup answers to redo**: the pages whose lines change (`tmp/la-verse-missing.txt`,
+  386 pages: the 337 without the Italian, 0836, and the 48 with a moved Latin block) were
+  moved, all their files, into `tmp/la-markup/bak/`; `tmp/la-markup/` holds the other 848.
+
+Data ready (in `tmp/`, not in git; see "Tools"):
 
 - `tmp/la-tess/`: Tesseract's word boxes for every page (`0001`–`1296`);
 - `ocr/la/glm-ocr/`: GLM-OCR for every page (committed);
-- `tmp/la-mark4/markup/`: the user's paid markup answers for 0079–0437 (keep; copy them
-  into a batch's work directory, step 2).
+- `tmp/la-markup/`: the store of the user's paid markup answers, the latest set per page
+  (848 pages; keep). See "Markup answers";
+- `tmp/la-verse-missing.txt` (the 386 pages whose markup is to be redone),
+  `tmp/la-verse-italian-missing.txt` (337), `tmp/la-verse-latin-missing.txt` (the 74 pages
+  of the Latin step), `tmp/la-verse-inplace.txt` (the 25 false positives);
+- `tmp/la-verse/crops/`: the crops of the missing verse columns.
+
+## Remaining work
+
+In this order (decided with the user, 2026-10-15):
+
+1. **Verse transcription** (paid, `gpt-6-luna`): a new script sends each crop of
+   `tmp/la-verse/crops/` and asks for the verse of the column as printed, line by line
+   (tercet numbers, gloss marks `(¹)`, runover words `[…`), from the image only: no
+   dante-corpus text in the prompt. The crops of the Italian can hold the edge of the Latin
+   column (tercet numbers, first letters, e.g. 0709, 1090): the prompt says to leave it out.
+   - **Trial first**: crop the Italian column of checked pages (0079–0232, both columns
+     present; `la_versecrop.py` needs an option to crop a column that the file has),
+     transcribe, and measure against `ocr/la`; then all pages.
+2. **Verse check**: compare each transcription with GLM-OCR, which reads the Italian verse
+   (as a check only); decide the disagreements in the image, as in the markup method (a
+   crop per place, the model's verdict, la-el-claude for what changes the text). dante-corpus
+   only points at places to look at: this edition's forms differ from it, and a difference
+   is not a reason to change. 0836 (Latin, one page): la-el-claude checks it in the image.
+   Then insert the blocks (Italian block, gloss line, Latin block; see the conventions) and
+   run `la_check.py` (tercets) until it reports only known exceptions.
+3. **Markup of the 386 pages** (paid) of `tmp/la-verse-missing.txt`, as procedure step 2.
+4. **Pages that stop `la_markprep.py`**: 0063 `{et}`, 0727 `{dicit}`, 0822 `{firmaret}`,
+   0399 a `}}` line, 0458 and 1245 `|` (in `ocr/la`): check in the image and fix `ocr/la`
+   (0458 and 0727 are among the 386, fix them before item 3); 0021 `||`, 0344 and 0467
+   `$^{(1)}$` in GLM-OCR's side: make `la_markup.py` keep such text out of the marks, or fix
+   the marked page by hand; 0941: no valid answer, call again.
+5. **One more markup round** (paid, before the model decisions): rerun `la_markup.py` with
+   `-r 3` on all pages, so that the pages with missed differences get a fixing call (the
+   pages that pass make no call). Check what is still missed.
+6. **Model decisions** (paid): a new work directory over all pages, `la_markprep.py`, then
+   `la_markdecide.py` (procedure, steps 3–4).
+7. **Batches 3–11**: procedure steps 5–11, batch by batch.
+
+Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
+`` `Quei gloriosi …` ``), a transcription artifact to remove in their batches.
 
 ## Procedure for a batch
 
@@ -56,23 +117,25 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
 `tmp/la-tess`. Paid calls are run by the user: give them the command, and test with
 `--fake` first. Python is run with `uv run`.
 
-1. **Verse** (open for batch 3: decide the method with the user). `ocr/la_survey.py --work
-   FIRST LAST` lists the pages whose Italian or Latin column is missing or whose numbers are
-   wrong. Batches 1–2 were completed by delegation (texts/PLAN.md, "Procedure for `la`",
-   step 4, and "What the delegation taught" below); open-ended delegation is not to be
-   repeated. The markup method does not cover the Latin verse (GLM-OCR drops it), so the
-   verse must be complete, transcribed from the images only, before step 2. Then
-   `la_check.py FIRST LAST` (tercets) must report nothing but known exceptions.
+1. **Verse**: done over all pages at once for 0233–1296 (Remaining work, items 1–2).
+   `ocr/la_survey.py --work FIRST LAST` lists the pages whose Italian or Latin column is
+   missing or whose numbers are wrong (it has false positives: "State"). Batches 1–2 were
+   completed by delegation (texts/PLAN.md, "Procedure for `la`", step 4, and "What the
+   delegation taught" below); open-ended delegation is not to be repeated. The markup method
+   does not cover the Latin verse (GLM-OCR drops it), so the verse must be complete,
+   transcribed from the images only, before step 2. Then `la_check.py FIRST LAST`
+   (tercets) must report nothing but known exceptions.
 2. **Markup** (paid). Copy the saved answers of the batch's pages from
-   `tmp/la-mark4/markup/` into `WORK/markup/` and re-check them against the current
+   `tmp/la-markup/` into `WORK/markup/` and re-check them against the current
    `ocr/la` without calls: `uv run ocr/la_markup.py -r 0 -m gpt-6-luna -o WORK/markup
    PAGES`. A page whose lines have changed fails: delete its copied answers, and the user
    runs `uv run ocr/la_markup.py -m gpt-6-luna -o WORK/markup PAGES` (only the missing
-   pages are called). Check the differences it reports as missed.
+   pages are called). Check the differences it reports as missed. Then move the pages
+   with new answers back into `tmp/la-markup/` (see "Markup answers").
 3. **Prepare**: `uv run ocr/la_markprep.py WORK PAGES -t TESS` resolves the trivial marks,
    locates the rest in the image and writes the crops and `ask.txt`. A page whose marks do
-   not give `ocr/la` back stops it: compare and fix the page (e.g. a trailing blank line,
-   0214).
+   not give `ocr/la` back stops it: compare and fix the page (`{`, `}` or `|` in a text;
+   the page's final newline or blank lines are no longer a cause).
 4. **Model decisions** (paid): test `uv run ocr/la_markdecide.py WORK --fake`, delete the
    fake answers (`WORK/ans/*.fake.json`), then the user runs
    `uv run ocr/la_markdecide.py WORK -m gpt-6-luna` (about 1100 questions for 85 pages; a
@@ -250,8 +313,26 @@ rewritten). Checked on 0195–0208: the scripts give the committed pages exactly
   hyphens after a letter and spacing around apostrophes ignored). On problems, a fixing call
   sends only the problem places; `-r` caps the calls a page (default 2). A rerun resumes from
   the saved answers (`NNNN.json`, `NNNN.r2.json`, …, all kept).
-- 0195–0208 (model `gpt-6-luna`; answers in `tmp/la-markup/`): all 14 pages pass, 355 marks;
-  349 after the edits of commit 3 (re-checked with `-r 0`).
+- 0195–0208 (model `gpt-6-luna`; these first answers are now in `tmp/la-markup/bak/`): all
+  14 pages pass, 355 marks; 349 after the edits of commit 3 (re-checked with `-r 0`).
+
+### Markup answers (`tmp/la-markup/`)
+
+The paid answers are kept in one place, `tmp/la-markup/`, the latest set per page
+(`NNNN.json`, `NNNN.rK.json`, `NNNN.txt`; the latest is the set whose newest file is
+newest). A batch copies its pages from there into `WORK/markup/` (step 2) and, after new
+calls, moves each new page back as a whole set: a page already in `tmp/la-markup/` is first
+moved, all its files, into `tmp/la-markup/bak/`, so that older `.rK.json` files do not mix
+with the new set.
+
+On 2026-10-15 the user's markup of 0755–1296 was added (1234 pages), and the 386 pages
+of `tmp/la-verse-missing.txt`, whose lines change with the verse, were moved to `bak/`: 848
+pages are left.
+
+Consolidated on 2026-10-14 from `la-mark3/markup/`, `la-mark4/markup/`, `la-mark5/markup/`
+and `la-markup/`: 0079–0754 (650 pages; 0104–0194 from `la-mark5`, the rest from
+`la-mark4`). The first answers for 0195–0208 went to `bak/`. The older sets left in
+`la-mark3/markup/` (26 pages) and `la-mark4/markup/` (0104–0194) are superseded.
 
 ### Trivial marks (`ocr/la_markprep.py`; step 3)
 
@@ -318,6 +399,8 @@ Results per batch: see "History".
   only). They are not looked for in the images (too many to check): whether a passage of
   the commentary is a quotation is to be decided from the text alone (e.g. matched
   against the verse of the page, as the lemma check above), later.
+- `la_survey.py` ends a page's verse block at a gloss line it does not recognize (`(^1)`,
+  or a gloss run over two lines), and then reports the Latin as missing (25 pages, "State").
 - Line breaks and the Latin verse block are not covered by the markup (GLM-OCR joins lines
   and drops the Latin verse): the verse is completed before the markup (procedure, step 1),
   and line breaks are checked by `la_lines.py` (step 8).
@@ -519,6 +602,10 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
 - `ocr/la_check.py FIRST LAST [-v] [-o OUT]`: tercet numbers (order, every third line,
   continuity across pages) and the section rules of the images against the blank lines
   (the rule count often misses right-column and page-end rules: look at a listed page).
+- `ocr/la_versecrop.py PAGE... -t TESS -o OUTDIR`: crops the verse column missing from a
+  page (found from the other column's lines in Tesseract's words and the blank band
+  between the columns), for its transcription; `crops.tsv` lists the boxes and the line
+  counts to look at (Remaining work, item 1).
 - `ocr/la_survey.py [--cantos | --work FIRST LAST] [-o OUT]`: the survey of the verse
   blocks (texts/PLAN.md, step 1): which pages lack the Italian or the Latin column, per
   page, per canto, or as the work list of a batch. It reads dante-corpus as a dependency
@@ -528,10 +615,10 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
 - `texts/convert_la.py`: `ocr/la` to `texts/la/` (procedure, step 11).
 
 Working data in `tmp/` (not in git; keep all, `tmp/bak/` is the user's): `la-tess/`
-(Tesseract's words for every page), `la-markup/` (the paid markup answers for 0195–0208),
-`la-mark2/` (the work directory of 0195–0208: answers, decisions, fixes), `la-mark3/` (the
-same for 0209–0232, 0115, 0141, with its paid markup answers in `markup/`), `la-mark4/`
-(the same for 0079–0103; its `markup/` holds the user's paid answers for 0079–0437,
-prepared ahead), `la-mark5/` (the same for 0104–0194; its `mine.tsv`, `fixes.tsv` and
+(Tesseract's words for every page), `la-markup/` (the paid markup answers, the latest set
+per page, 848 pages; see "Markup answers"), `la-verse/` (the verse crops) and the page lists
+`la-verse-*.txt` (see "State"), `la-mark2/` (the work directory of 0195–0208:
+answers, decisions, fixes), `la-mark3/` (the same for 0209–0232, 0115, 0141), `la-mark4/`
+(the same for 0079–0103), `la-mark5/` (the same for 0104–0194; its `mine.tsv`, `fixes.tsv` and
 `route.tsv` are examples of the decisions), `la-label/` (the labelled set: paid answers and
 scores).
