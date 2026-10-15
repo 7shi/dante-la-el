@@ -152,12 +152,14 @@ def last_number(p):
     f = Path(f"{M.ROOT}/{p:04}.txt")
     if not f.exists(): return None
     rest = [x for x in f.read_text(encoding="utf-8").split("\n") if x.strip()]
-    return int(rest[-1]) if rest and rest[-1].strip().isdigit() else None
+    return int(rest[-1]) if rest and rest[-1].strip().isdecimal() else None
 
 
 def resolve_trivial(p, t):
     """The page with the trivial marks resolved, and (line, rule, left, right) of each."""
     plain = (M.ROOT / f"{p}.txt").read_text(encoding="utf-8")
+    # la_markup.py ends a page with one newline; keep the ending of ocr/la instead
+    t = t.rstrip("\n") + plain[len(plain.rstrip("\n")):]
     marks = list(M.MARK.finditer(t))
     assert M.MARK.sub(lambda m: m.group(1), t) == plain, f"{p}: the marks do not give ocr/la"
     blocks = verse_blocks(plain)
@@ -176,7 +178,7 @@ def resolve_trivial(p, t):
         elif m.start() == ls and digits.fullmatch(l) and line in verse and \
                 (not r or r == l.translate(SUP) + "."):
             why[k] = "number"
-        elif not r and whole and line == nlines and l.isdigit() and \
+        elif not r and whole and line == nlines and l.isdecimal() and \
                 (last_number(int(p) - 8) == int(l) - 1 or last_number(int(p) + 8) == int(l) + 1):
             why[k] = "signature"
         elif not l and r.strip() == "Digitized by Google":
@@ -243,6 +245,7 @@ def refine(p, before, inside, tw):
             return sim(inside[0], tw[i]["n"]) + 0.5 * sim(before[-1] if before else "",
                                                           tw[i - 1]["n"] if i else "")
         return sim(before[-1] if before else "", tw[i - 1]["n"] if i else "")
+    p = min(max(p, 0), len(tw) - 1)  # a peak can fall outside the words
     cand = range(max(0, p - 3), min(len(tw), p + 4))
     return max(cand, key=lambda i: (score(i), -abs(i - p)))
 
