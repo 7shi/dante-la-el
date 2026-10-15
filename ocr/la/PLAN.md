@@ -96,6 +96,12 @@ italic lemmas against the verse of their page, and a lexicon check, are proposed
     `gl` are still often modernized (`tucto`, `periglo`); the `viddi` example was
     over-applied (3 printed `vidi` read `viddi`). The prompt cannot hold the model off the
     modern text much further.
+  - **la-el-agy** (`tmp/herdr-task-verse2.md`, the crops only, no text of the pages) on 5
+    of these pages (0169 0188 0200 0202 0227, 111 lines, `tmp/la-verse/agy/`): letters 0,
+    punctuation 0, tercet numbers 0 (Luna, third prompt: 25, 1, 14); one accent, 0200
+    `dietrò`, which it reported itself as unsure (a speck above the `o`, not an accent:
+    the file's `dietro` stands). Read independently: its apostrophe spacing and number
+    forms differ from the file's.
 
 Data ready (in `tmp/`, not in git; see "Tools"):
 
@@ -125,16 +131,22 @@ In this order (decided with the user, 2026-10-15):
      `uv run ocr/la_verseread.py tmp/la-verse/trial/crops -m gpt-6-luna` (add `-n 5` for a
      first look), then `uv run ocr/la_verseread.py tmp/la-verse/trial/crops -m gpt-6-luna --check`
      (no calls once answered). All pages: `uv run ocr/la_verseread.py tmp/la-verse/crops -m gpt-6-luna`.
-   - **Trial done** (State). On hold (the user, 2026-10-15): the proposal to drop the
-     `viddi` example from the third prompt and run the 338 pages with it (an estimated 400
-     letter disagreements to decide in item 2); the other 101 trial pages are not rerun.
-2. **Verse check**: compare each transcription with GLM-OCR, which reads the Italian verse
-   (as a check only); decide the disagreements in the image, as in the markup method (a
-   crop per place, the model's verdict, la-el-claude for what changes the text). dante-corpus
-   only points at places to look at: this edition's forms differ from it, and a difference
-   is not a reason to change. 0836 (Latin, one page): la-el-claude checks it in the image.
-   Then insert the blocks (Italian block, gloss line, Latin block; see the conventions) and
-   run `la_check.py` (tercets) until it reports only known exceptions.
+   - **Trial done** (State). Decided (the user, 2026-10-15): the verse of the 338 pages
+     (`tmp/la-verse/crops/`: 337 Italian, 0836 Latin) is transcribed by **la-el-agy**, not
+     by Luna, in batches of 20–30 pages, with the task of `tmp/herdr-task-verse2.md` (the
+     crops only; no text of the pages, of GLM-OCR or of the poem; superscript tercet
+     numbers, `(¹)`, runover lines `[`; letters it is unsure of in the report), into
+     `tmp/la-verse/agy/PAGE.txt`. 0836 needs the Latin wording of the rules. The Luna
+     answers and `la_verseread.py` stay as they are (not used further).
+2. **Verse check**, after each batch of item 1 (la-el-claude, by script first): compare
+   each transcription with GLM-OCR, which reads the Italian verse (as a check only), and
+   its tercet numbers with those of the Latin column of the page; look in the image only at
+   the disagreements and at the letters la-el-agy reported unsure (a crop per place).
+   dante-corpus only points at places to look at: this edition's forms differ from it, and
+   a difference is not a reason to change. 0836 (Latin, no GLM-OCR reading of the verse):
+   checked in the image. Then insert the blocks (Italian block, gloss line, Latin block;
+   see the conventions) and run `la_check.py` (tercets) until it reports only known
+   exceptions.
 3. **Markup of the 475 pages** (paid) of `tmp/la-markup-redo.txt`, as procedure step 2,
    with the default rounds (the extra round of item 5 is for all pages together). Done:
    137 (the 48 with a moved Latin block and the 90 of `tmp/la-markup-ready.txt`, 0598 in
