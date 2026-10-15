@@ -102,6 +102,21 @@ italic lemmas against the verse of their page, and a lexicon check, are proposed
     `dietrò`, which it reported itself as unsure (a speck above the `o`, not an accent:
     the file's `dietro` stands). Read independently: its apostrophe spacing and number
     forms differ from the file's.
+- **Verse inserted** (Remaining work, items 1–2; not committed yet): batches 1–2 of
+  la-el-agy, 50 pages (0237–0390, the first 50 Italian pages of `crops.tsv`), 920 lines,
+  5 words not as printed, all found by the check and fixed: 0273 `Ch'havea` (`C'havea`),
+  0284 `dirieto` (`dirietro`), 0378 `departii` (`dipartii`), 0378 `mornorando` and 0390
+  `ninico` (`mormorando`, `nimico`: an `m` whose worn first stem it took for an `n`, with
+  a stroke-width argument in its report). No accent, punctuation or tercet number wrong.
+  Its notes of "unsure" or "measured" letters are not a sign of a right reading: look at
+  them. Batch 3 (0397–0459, `tmp/herdr-task-verse5.md`) sent.
+  The Latin blocks of these pages (unchecked OCR) needed: numbers made superscript;
+  numbers missing though printed (0295, 0307, 0317, 0385 all; 0329 one; 0369 a `"` for
+  `44`), misread (0277 `27` for `37`) or a line off (0252, 0289); a stray blank line in
+  the block (0320, 0367); a runover word at the end of the next line (0329 `[corruscet.`);
+  0321 tercets 31–32 with commentary text mixed in (rewritten from the scan); 0389 a gloss
+  line `¹ parlare.` without its blank line. 0309 keeps its `(...)` line (no gloss line
+  written).
 
 Data ready (in `tmp/`, not in git; see "Tools"):
 
@@ -138,6 +153,10 @@ In this order (decided with the user, 2026-10-15):
      numbers, `(¹)`, runover lines `[`; letters it is unsure of in the report), into
      `tmp/la-verse/agy/PAGE.txt`. 0836 needs the Latin wording of the rules. The Luna
      answers and `la_verseread.py` stay as they are (not used further).
+   - **Batches**: 25 Italian pages each, in the order of `crops.tsv`; the task of batch N
+     is `tmp/herdr-task-verse{N+2}.md` (the previous one with the new pages, and the
+     words of the last batch that were not as printed), the report
+     `tmp/herdr-report-verse{N+2}.md`. Done: batches 1–2 (State); batch 3 sent.
 2. **Verse check**, after each batch of item 1 (la-el-claude, by script first): compare
    each transcription with GLM-OCR, which reads the Italian verse (as a check only), and
    its tercet numbers with those of the Latin column of the page; look in the image only at
@@ -147,6 +166,21 @@ In this order (decided with the user, 2026-10-15):
    checked in the image. Then insert the blocks (Italian block, gloss line, Latin block;
    see the conventions) and run `la_check.py` (tercets) until it reports only known
    exceptions.
+   - **How** (batches 1–2): `uv run tmp/la-verse/vcheck.py PAGES` (in `tmp/`, not in git)
+     aligns each line with GLM-OCR's lines and lists the word differences, and compares
+     the tercet numbers and line count with the Latin block; `-t` compares with
+     Tesseract's words in the crop instead, for the pages whose GLM-OCR has no Italian
+     verse (about a quarter). Most differences are OCR noise (gloss marks, `'l`, accents
+     GLM-OCR drops: `sì`/`si`, `Così`/`Cosi`, taken as la-el-agy reads them). The letter
+     differences, about 20 a batch: `uv run tmp/la-verse/vshow.py OUT.png PAGE:WORD[:la]
+     ...` stacks the printed lines in one image (`:la`, the Latin column), a 4× crop of
+     the word where unclear. Fix `tmp/la-verse/agy/PAGE.txt`, then
+     `uv run ocr/la_verseinsert.py PAGES -d tmp/la-verse/agy -n`: it lists every Latin
+     number it would add or change, and pages whose Latin line count differs (fix the
+     Latin block first, in the image); look at the changed numbers in the image, then
+     run it without `-n`. `la_check.py` over the range: the reports on the inserted pages
+     (a stray blank line in a block, a gloss line taken as verse); those on other pages
+     are for the batch procedure.
 3. **Markup of the 475 pages** (paid) of `tmp/la-markup-redo.txt`, as procedure step 2,
    with the default rounds (the extra round of item 5 is for all pages together). Done:
    137 (the 48 with a moved Latin block and the 90 of `tmp/la-markup-ready.txt`, 0598 in
@@ -674,6 +708,10 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
   superscripts and `(¹)` written by the script): `CROPS/read/PAGE.txt`, the answers
   `PAGE.MODEL.json` reused on a rerun. `--check` compares with the same column of
   `ocr/la` (`read/check.txt`).
+- `ocr/la_verseinsert.py PAGE... -d DIR [-n]`: inserts the checked Italian verse
+  (`DIR/PAGE.txt`) before the page's Latin block; the Latin tercet numbers made
+  superscript and set to the Italian's line by line, every number added or changed
+  listed (to check in the image); a page whose Latin line count differs is left as it is.
 - `ocr/la_survey.py [--cantos | --work FIRST LAST] [-o OUT]`: the survey of the verse
   blocks (texts/PLAN.md, step 1): which pages lack the Italian or the Latin column, per
   page, per canto, or as the work list of a batch. It reads dante-corpus as a dependency
