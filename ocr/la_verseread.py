@@ -59,11 +59,19 @@ Transcribe it line by line, exactly as printed.
 - `text`: the line exactly as printed, letter by letter. Do not correct anything, and do
   not complete the text from a known edition.
 - This edition does not follow the modern text of the poem, and you may know the poem:
-  do not let that guide you. It has old spellings: an h at the start of a word or after a
-  consonant, single consonants where a modern text doubles them and double ones where it
-  has a single one, e or i, o or u, ct for tt, and accents where a modern text has none or
-  none where it has one; and misprints. Read every word from the print, not from memory,
-  and never replace it by the form you know.
+  do not let that guide you. Read every word from the print, not from memory, and never
+  replace it by the form you know. Its spellings are old and regular; write them so:
+  - `gl` before a vowel, with no `i`: `figlo`, `vogla`, `ciglo`, `fogle` (not figlio,
+    voglia, ciglio, foglie);
+  - `ct` where modern Italian has `tt` or `t`: `decto`, `pecto`, `puncto`, `facto`,
+    `sospecto` (not detto, petto, punto, fatto, sospetto);
+  - single consonants where a modern text doubles them: `ochi`, `nochier`, `boche`,
+    `aqua`; and double ones where it has one: `viddi`;
+  - `h` kept: `huom`, `havea`, `trahendo`; `y` kept: `abysso`, `Chyron`;
+  - `m` before a vowel or at the end of a word where modern Italian has `n`: `um`;
+  - accents where a modern text has none (`Sì` at the start of a line), none where it
+    has one (`pieta`);
+  - misprints, as printed.
 - Accents (à è é ì ò ù): they are small; look at each vowel for one, and write it where
   the print has it, only there. Apostrophes, capitals and punctuation as printed. No space
   is added or removed around an apostrophe. A colon is two round dots; a semicolon has a dot

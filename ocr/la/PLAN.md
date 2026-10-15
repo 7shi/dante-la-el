@@ -70,13 +70,39 @@ italic lemmas against the verse of their page, and a lexicon check, are proposed
   0598's second set (as `bak/0598-2.*`), were moved to `bak/`. The pages to mark are now
   `tmp/la-markup-redo.txt` (475: 47 done, 90 ready in `tmp/la-markup-ready.txt`, 338 after
   the verse).
+- **Markup of the 90 ready pages** (paid, by the user, default rounds): re-checked with
+  `-r 0`: 351 differences missed in 62 pages (132 spacing only), 72 entries not placed in
+  38 pages. Most are on two pages: 1023 (82, GLM-OCR drops the space after punctuation)
+  and 1277 (57, the two OCRs break and bound the text differently; 8 not placed; look at it
+  after the extra round). 0598: 0 not placed (56 before the italics fix), 1 missed. No `*`
+  entry is left anywhere. Left to the extra round, item 5.
+- **Verse transcription, trial** (`la_verseread.py`, paid, by the user) on the Italian of
+  the 121 checked pages, measured with `--check` against `ocr/la` (differences counted by
+  word; "caught": GLM-OCR has the file's reading, not the model's, so the verse check
+  would find it; "missed": GLM-OCR reads as the model):
+  - First prompt, 5 pages: 9 wrong lines of 66, mostly the modern text of the poem
+    (`havea→avea`, `aqua→acqua`, `diserta→deserta`, `ochi→occhi`) and `Sì→Si`. It also
+    showed that 0085 `uscìa` had an accent the scan does not show (`940cfce`, now `uscia`).
+  - Second prompt (warns against the modern text, asks for each accent), 121 pages: 334
+    lines of 1755 differ; by word: letters 206 (165 caught, 16 missed), punctuation 55
+    (41, 13), accents 32 (19, 9), tercet numbers 53. The model writes the modern spelling
+    systematically: `gl`+vowel made `gli` (`figlo`, `vogla`), `ct` made `tt` (`decto`,
+    `puncto`), single consonants doubled (`ochi`, `nochier`); `viddi→vidi`, `um→un`.
+    Tercet numbers: the small superscripts are often misread, a run shifted on 0137
+    (36→30); take them from the Latin column of the page when inserting.
+  - Third prompt (the edition's spellings with examples), on the 20 pages with the most
+    differences (their second answers in `read/bak/`, with `read/bak/check-v2.txt`):
+    letters 94 → 62 (45 caught, 8 missed), punctuation 10 → 8, accents 3 → 4. `ct` and
+    `gl` are still often modernized (`tucto`, `periglo`); the `viddi` example was
+    over-applied (3 printed `vidi` read `viddi`). The prompt cannot hold the model off the
+    modern text much further.
 
 Data ready (in `tmp/`, not in git; see "Tools"):
 
 - `tmp/la-tess/`: Tesseract's word boxes for every page (`0001`–`1296`);
 - `ocr/la/glm-ocr/`: GLM-OCR for every page (committed);
 - `tmp/la-markup/`: the store of the user's paid markup answers, the latest set per page
-  (848 pages; keep). See "Markup answers";
+  (896 pages; keep). See "Markup answers";
 - `tmp/la-verse-missing.txt` (the 386 pages whose markup is to be redone),
   `tmp/la-verse-italian-missing.txt` (337), `tmp/la-verse-latin-missing.txt` (the 74 pages
   of the Latin step), `tmp/la-verse-inplace.txt` (the 25 false positives);
@@ -99,6 +125,9 @@ In this order (decided with the user, 2026-10-15):
      `uv run ocr/la_verseread.py tmp/la-verse/trial/crops -m gpt-6-luna` (add `-n 5` for a
      first look), then `uv run ocr/la_verseread.py tmp/la-verse/trial/crops -m gpt-6-luna --check`
      (no calls once answered). All pages: `uv run ocr/la_verseread.py tmp/la-verse/crops -m gpt-6-luna`.
+   - **Trial done** (State). On hold (the user, 2026-10-15): the proposal to drop the
+     `viddi` example from the third prompt and run the 338 pages with it (an estimated 400
+     letter disagreements to decide in item 2); the other 101 trial pages are not rerun.
 2. **Verse check**: compare each transcription with GLM-OCR, which reads the Italian verse
    (as a check only); decide the disagreements in the image, as in the markup method (a
    crop per place, the model's verdict, la-el-claude for what changes the text). dante-corpus
@@ -108,10 +137,8 @@ In this order (decided with the user, 2026-10-15):
    run `la_check.py` (tercets) until it reports only known exceptions.
 3. **Markup of the 475 pages** (paid) of `tmp/la-markup-redo.txt`, as procedure step 2,
    with the default rounds (the extra round of item 5 is for all pages together). Done:
-   the 48 with a moved Latin block, except 0598. The 90 pages of the italics fix that do
-   not wait for the verse can be marked now:
-   `uv run ocr/la_markup.py -m gpt-6-luna -o tmp/la-markup $(cat tmp/la-markup-ready.txt)`;
-   the other 338 after the verse is inserted.
+   137 (the 48 with a moved Latin block and the 90 of `tmp/la-markup-ready.txt`, 0598 in
+   both); the other 338 after the verse is inserted.
 4. **Pages that stop `la_markprep.py`**: 0063 `{et}`, 0727 `{dicit}`, 0822 `{firmaret}`,
    0399 a `}}` line, 0458 and 1245 `|` (in `ocr/la`): check in the image and fix `ocr/la`
    (0458 and 0727 are among the 386, fix them before item 3); 0021 `||`, 0344 and 0467
