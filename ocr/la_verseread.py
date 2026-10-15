@@ -14,7 +14,7 @@ made twice.
 
 --check compares each transcription with the block of the same column in ocr/la (pages
 whose file has it: the trial on checked pages), the tercet numbers' form (superscript or
-not) and the apostrophes (’ ') ignored, and writes CROPS/read/check.txt: the lines that
+not), the apostrophes (’ ') and the spaces around them ignored, and writes CROPS/read/check.txt: the lines that
 differ, and per page the lines read, the lines of the file and the lines that differ."""
 
 import argparse
@@ -56,11 +56,17 @@ Transcribe it line by line, exactly as printed.
 - One entry per printed line, top to bottom.
 - `number`: the small number printed before the first line of a tercet, in plain digits;
   empty for the other lines.
-- `text`: the line exactly as printed, letter by letter: the spellings of this edition
-  differ from modern editions; keep them, and keep misprints. Do not correct anything, and
-  do not complete the text from a known edition.
-- Accents (à è é ì ò ù), apostrophes, capitals and punctuation as printed. No space is
-  added or removed around an apostrophe. A colon is two round dots; a semicolon has a dot
+- `text`: the line exactly as printed, letter by letter. Do not correct anything, and do
+  not complete the text from a known edition.
+- This edition does not follow the modern text of the poem, and you may know the poem:
+  do not let that guide you. It has old spellings: an h at the start of a word or after a
+  consonant, single consonants where a modern text doubles them and double ones where it
+  has a single one, e or i, o or u, ct for tt, and accents where a modern text has none or
+  none where it has one; and misprints. Read every word from the print, not from memory,
+  and never replace it by the form you know.
+- Accents (à è é ì ò ù): they are small; look at each vowel for one, and write it where
+  the print has it, only there. Apostrophes, capitals and punctuation as printed. No space
+  is added or removed around an apostrophe. A colon is two round dots; a semicolon has a dot
   above a comma.
 - A small raised number in brackets after a word is a gloss mark: write it as (1), (2), in
   its place in the line, with a space before it.
@@ -99,8 +105,9 @@ def file_column(p, column):
 
 
 def key(l):
-    """A line for comparison: tercet numbers plain, apostrophes straight, spaces single."""
-    return " ".join(l.translate(UNSUP).replace("’", "'").split())
+    """A line for comparison: tercet numbers plain, apostrophes straight, spaces single,
+    none around an apostrophe (its spacing is left as in the file)."""
+    return re.sub(r" ?' ?", "'", " ".join(l.translate(UNSUP).replace("’", "'").split()))
 
 
 def check(p, read, column):
