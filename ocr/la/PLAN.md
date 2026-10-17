@@ -373,7 +373,7 @@ In this order (decided with the user, 2026-10-15):
        (State). The verse of all 338 pages is in.
      - **Commits**: batches 4–10 were committed together after batch 10 (the user,
        2026-10-17); batches 11–14 and 0836 in `4c6f2f5`.
-     - **Next**: item 4's 0458 and 0727, then item 3. In any later verse check, look at every
+     - **Next**: item 3 (item 4's 0458 and 0727 are fixed). In any later verse check, look at every
        apostrophe written with a space; the print sets the gaps both ways.
 2. **Verse check**, after each batch of item 1 (la-el-claude, by script first): compare
    each transcription with GLM-OCR, which reads the Italian verse (as a check only), and
@@ -404,10 +404,13 @@ In this order (decided with the user, 2026-10-15):
 3. **Markup of the 475 pages** (paid) of `tmp/la-markup-redo.txt`, as procedure step 2,
    with the default rounds (the extra round of item 5 is for all pages together). Done:
    137 (the 48 with a moved Latin block and the 90 of `tmp/la-markup-ready.txt`, 0598 in
-   both); the other 338 after the verse is inserted.
+   both); the other 338 (`tmp/la-markup-verse.txt`), whose verse and gloss lines are now
+   in: their old answers no longer fit, so they are called afresh into `tmp/la-mark6/`.
 4. **Pages that stop `la_markprep.py`**: 0063 `{et}`, 0727 `{dicit}`, 0822 `{firmaret}`,
    0399 a `}}` line, 0458 and 1245 `|` (in `ocr/la`): check in the image and fix `ocr/la`
-   (0458 and 0727 are among the 386, fix them before item 3); 0021 `||`, 0344 and 0467
+   (0458 and 0727, among the 338 of item 3, fixed on 2026-10-18: 0727 `[dicit]` as printed;
+   0458's commentary, whose two columns were run together line by line, retyped from the
+   scan); 0021 `||`, 0344 and 0467
    `$^{(1)}$` in GLM-OCR's side: make `la_markup.py` keep such text out of the marks, or fix
    the marked page by hand; 0941: no valid answer, call again.
 5. **One more markup round** (paid, before the model decisions): rerun `la_markup.py` with
