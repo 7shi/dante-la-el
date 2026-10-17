@@ -207,7 +207,71 @@ italic lemmas against the verse of their page, and a lexicon check, are proposed
   `43`, `Istud`, `corrosit`; 0945 `parti,` and `artem` joined to their lines (not runovers),
   `Que`, `parva`, `nostre letitie` (no `æ` in the print); 0946 `addul[c]escit`, `vita,`,
   `Provintiales`, `[cere alterius.`; 0966 numbers `19`–`24`, `stetissem`, `que`.
-- **Gloss lines missing** (found 2026-10-17): of the 218 inserted pages whose Italian has
+  Batch 11 (0987–1078, `tmp/herdr-task-verse13.md`), 25 pages, 462 lines: 2 words and 2
+  elision spaces not as printed: 1054 `simiglianze` for the printed `simiglanze` (the
+  edition's `gl`), 1042 `miei` for the printed `mici` (see "Suspected misprints"); 1042
+  `m'accors' io` for `m' accors' io`, 1045 `degl' ochi` for `degl'ochi`. Also kept as printed:
+  1053 `s'àdempia` (a grave on the `a`, see "Suspected misprints"), 1039 `nôi`, 1053
+  `se' tanto` (gap as narrow as most). Latin blocks: 1053 numbers `16`–`24` (one less in the
+  OCR); 1041 `[corporum;` (no closing bracket in the print). `la_check.py 0983 1078`: the
+  batch's pages are clean but for reports caused by neighbouring pages outside the batches:
+  1053 (1052's Latin ends at 9), 1063 (1062), 1068 (1064–1066 with plain numbers, 1067
+  `²⁵Se` without a space).
+  Batch 12 (1079–1144, `tmp/herdr-task-verse14.md`), 25 pages, 486 lines: 4 words not as
+  printed: 1137 `trascorso` (printed `transcorso`), 1144 `uscìo` (`usciò`), 1126 `[tisso,`
+  (`[fisso,`, the `fi` ligature); and the gaps at apostrophes, which the print sets both
+  ways: 6 elisions written spaced though tight in print (1080 `a'tuoi`, 1087 `perch'io`,
+  1114 `buon'intention`, 1124 `Dentr'al`, 1126 `Prompt'al`, 1129 `Dintorn'a`), 1137
+  `dov' è` written tight, and 22 of the 47 `'l`/`'n` written with a space before though
+  tight in print (`che'l`, `e'l`, `fece'l`, `Che'n`, `le'ntendi`, …). All 47 were looked
+  at, and in batch 11 likewise (3 of 22 tight: 0988 `Fusse'l`, 1018 `Chè'l … che'n`, 1045
+  `senza'ntender`, fixed in `ocr/la`). **Not looked at in batches 1–10**: la-el-agy may have
+  written `'l` with a space where the print is tight (vcheck ignores spaces). Latin
+  blocks: 1089 numbers `14`–`18` (none in the OCR), `Guilhielmum`, `visio` and `signatum`
+  without the OCR's comma and full stop; 1090 tercet 23's first line added (`Taliter fuit
+  in oculis meis, quando fui volutus,`), `Propter`, `exponeret`. `la_check.py 1079 1150`:
+  clean but for 1134 (1132 `^ Oppresso` and 1133's numbers, outside the batches).
+  Batch 13 (1145–1230, `tmp/herdr-task-verse15.md`), 25 pages, 443 lines: 1 word not as
+  printed, 1230 `Allora` (printed `Allhora`); of the 49 lines with a spaced apostrophe,
+  13 gaps tight in print (`che'l`, `Vagheggia'l`, `ma'l`, `come'l`, `Gonfia'l`, `e'l`,
+  1193 `ch'e`, 1201 `de'haver`, 1226 `dagl'odori`, …); its tight `'l` (1148 `parte'l`,
+  1229 `Quant'è'l`, 1167 `tutto'l`, 1145 `s'aperse'l`) are tight in print. Also as
+  printed: 1180 `mici`, 1157 `transcorsa`, `Perche`. Latin blocks: 1148 tercets 41–43
+  rewritten from the scan (runovers `[flammatur:`, `[patefactus.` on their own lines; the
+  first two lines of 43, `Inde remansere …`, were missing; the print's italic reads like
+  `remunsere`); 1188 `Title:` and the blank lines between tercets removed; 1191 number
+  `28`. `la_check.py 1140 1234`: clean but for 1167 (1166 has no Latin numbers, outside
+  the batches).
+  Batch 14 (1235–1265, `tmp/herdr-task-verse16.md`), 12 pages, 223 lines, the last Italian
+  batch: no letter wrong; 4 gaps at apostrophes not as printed (1252 `Tutt' è` written
+  tight; 1252 `negl'ochi`, `cogl'ochi`, 1261 `doppo'l` written spaced). 1252's last
+  tercet was cut by the crop and read in the full page. Latin blocks: 1235 `[rem et
+  florem,` on its own line; 1252 the blank lines between tercets removed, tercet 39 added
+  (missing; a stray `39` stood before the commentary's `Sed venias ammodo.`), `Honerare`;
+  1261 a wrong `16` on the second line of 15 removed, numbers `16`–`21` one less.
+  `la_check.py 1231 1270`: clean.
+  **0836** (Latin, `tmp/herdr-task-verse17.md`), 6 lines: as printed. Inserted under the
+  gloss line by hand (`la_verseinsert.py` handles only a missing Italian); the Italian
+  block's indentation stripped, `Volgendo'l` tight as printed. The commentary had the right
+  column (`solito, ostendit … cum acie.`) before the end of the left one (`ostendit quomodo
+  fuit lotus … suo more`): moved, whole lines. Left to the markup: words and two lines the
+  OCR dropped (`Statio non erat ex illa parte fluminis, in qua iste exercitus`, `nobiles
+  Romani semper feriebant cum cuspide ensis. Ista`), `taglo`, `predecto`, `decto`,
+  `Beatricis`, `supplicaverunt`.
+- **Gaps at apostrophes, batches 1–10** (2026-10-18): all 478 lines of 0237–0982 with a
+  spaced apostrophe (elision or `'l`/`'n`, not the truncations `se'`, `de'`, …, the
+  `TRUNC` list of the scratch lister) looked at in the image: 128 places not as printed,
+  fixed in `ocr/la` and `tmp/la-verse/agy/` (`tmp/la-verse/apos-fixes-b1-10.tsv`), in 87
+  pages. Most `'l`/`'n` written spaced though tight (`che'l`, `e'l`, `Disse'l`, `fra'l`,
+  `se'ntendi`), also `fa'che`, `co'ghiottoni`, `va'via`, `trov'una`, `Perch'un`; four the
+  other way (0540 `Quell' humido`, 0777 `l' homero`, 0928 `c' hai`, found by chance:
+  tight-written elisions were not listed); two letters: 0615 `lo 'inviarci`, 0789
+  `lo'intesi` (both written `'nt…`/`'nv…` without the printed `i`).
+- **Gloss lines missing** (listed again 2026-10-18, `tmp/la-gloss-missing.tsv` by
+  `tmp/la-verse/glosslist.py`): of the inserted pages whose verse has gloss marks, 125 have
+  no gloss line and 14 lack some marks in it (0242, 0375, 0435, 0436, 0448, 0450, 0615,
+  0635, 0653, 0727, 0753, 0794, 1253, 1260: the second printed line dropped, it seems).
+  Found 2026-10-17: of the 218 inserted pages whose Italian has
   gloss marks, 175 have no gloss line `(¹) …` in `ocr/la` (e.g. 0881, 0966 `(⁴) gigante.`),
   though it is printed under the verse: GLM-OCR and the old file dropped it, and the verse
   task leaves it out. texts/PLAN.md says the gloss line is added if missing (Remaining work).
@@ -260,18 +324,13 @@ In this order (decided with the user, 2026-10-15):
      is `tmp/herdr-task-verse{N+2}.md` (the previous one with the new pages, and the
      words of the last batch that were not as printed), the report
      `tmp/herdr-report-verse{N+2}.md`.
-     - **Done**: batches 1–10, 250 pages (`0237`–`0982`, State).
-     - **Remaining**: 88 pages (87 Italian, 1 Latin `0836`):
-       - Batch 11 (rows 251–275): `0987`–`1078` (25 Italian pages).
-       - Batch 12 (rows 276–300): `1079`–`1144` (25 Italian pages).
-       - Batch 13 (rows 301–325): `1145`–`1230` (25 Italian pages).
-       - Batch 14 (rows 326–337): `1235`–`1265` (12 Italian pages, end of Italian).
-       - Latin `0836` (row 338): 1 Latin page (task with Latin transcription rules).
+     - **Done**: batches 1–14, all 337 Italian pages (`0237`–`1265`, State).
+     - **Done too**: Latin `0836` (row 338), and the gaps at apostrophes of batches 1–10
+       (State). The verse of all 338 pages is in.
      - **Commits**: batches 4–10 were committed together after batch 10 (the user,
        2026-10-17). Batches 11–14 and 0836: as the user decides.
-     - **Next**: write `tmp/herdr-task-verse13.md` for batch 11 (the task of batch 10 with
-       the new pages, and 0976 `Cimisa` as the word not as printed), send it to la-el-agy,
-       then the verse check as below.
+     - **Next**: the gloss lines (below). In any later verse check, look at every
+       apostrophe written with a space; the print sets the gaps both ways.
 2. **Verse check**, after each batch of item 1 (la-el-claude, by script first): compare
    each transcription with GLM-OCR, which reads the Italian verse (as a check only), and
    its tercet numbers with those of the Latin column of the page; look in the image only at
@@ -297,7 +356,8 @@ In this order (decided with the user, 2026-10-15):
      (a stray blank line in a block, a gloss line taken as verse); those on other pages
      are for the batch procedure.
    - **Gloss lines** (open, State): add the printed gloss line under the Italian block of
-     the inserted pages that lack it (175 after batch 10; list them again after batch 14),
+     the inserted pages that lack it (`tmp/la-gloss-missing.tsv`: 125 without one, 14 with
+     marks missing from it, 2026-10-18),
      transcribed from the image (a crop of the line under the verse), before item 3.
 3. **Markup of the 475 pages** (paid) of `tmp/la-markup-redo.txt`, as procedure step 2,
    with the default rounds (the extra round of item 5 is for all pages together). Done:
@@ -494,6 +554,8 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0111 | 67 | `Racto:` | `Rapto` | Italic lemma of the Italian verse 34 (`Rapto che 'nteser`); no descender of `p`. Cf. 0107 `racta`: possibly the edition's spelling. |
 | 0125 | 90 | `Orpheum, Iulium,` | `Tullium` | Italic lemma; the Latin verse 47 has `Tullium` with a full `T`; the lemma's capital has no crossbar. |
 | 0976 | 14 | `Cimisa fui chiamata` | `Cunisa` | Italian verse; an `i` dot right after `C` and five stems before `s` (Tesseract `Cimisa`, GLM-OCR `Cinisa`); the commentary has `Cunizza`. |
+| 1042 | 11 | `Agl' ochi mici,` | `miei` | Italian verse; a clear `c` (GLM-OCR `mici` too). |
+| 1053 | 23 | `s'àdempia` | `s'adempia` | Italian verse; a grave accent over the `a` (Tesseract `s'àdempia`). |
 
 ## The method: two-OCR markup, then image decisions
 
