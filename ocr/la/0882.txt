@@ -1,21 +1,37 @@
 PARADISI
 
-^(27) Visum fuit michi tunc tantum de celo accensum
-A flamma solis, quod pluvia et flumen
+²⁷ Parvemi (¹) tanto (²) allor (³) del cielo acceso (⁴)
+De la fiamma (⁵) del sol (⁶), che pioggia (⁷) o
+[fiume (⁸)
+Laco (⁹) non fece (¹⁰) alcun tanto disteso (¹¹).
+²⁸ La novità del suono (¹²) e 'l grande lume (¹³)
+Di lor cagion (¹⁴) m'acceseno (¹⁵) un disio
+Mai non sentito (¹⁶) di cotanto (¹⁷) acume (¹⁸).
+²⁹ Ond'ella (¹⁹), che vedeva me (²⁰) com'io (²¹),
+A quietarmi (²²) l'animo (²³) commosso (²⁴),
+Pria (²⁵) ch'a domandar (²⁶), la bocha (²⁷) aprio (²⁸).
+³⁰ E cominciò (²⁹): Tu stesso (³⁰) ti fai grosso (³¹)
+Col (³²) falso ymaginar (³³), sì che (³⁴) non vedi
+Ciò che vedresti (³⁵), se l'havessi scosso (³⁶).
+³¹ Tu (³⁷) non se' in terra (³⁸), sì come tu credi (³⁹);
+Mai fulgure (⁴⁰), fuggendo (⁴¹)'l primo sito (⁴²),
+Non corre (⁴³) come tu ch'adesso (⁴⁴) riedi (⁴⁵).
 
-^(28) Lacum non fecerunt aliquem tantum extensum.
-Novitas cantus et grande lumen
+²⁷ Visum fuit michi tunc tantum de celo accensum
+A flamma solis, quod pluvia et flumen
+Lacum non fecerunt aliquem tantum extensum.
+²⁸ Novitas cantus et grande lumen
 De eorum causis michi accenderunt unum de-
-        [siderium.
-^(29) Quo nunquam censcram aliquod tanti acuminis.
-Unde ipsa, que videbat me sicut egomet,
+[siderium,
+Quo nunquam censeram aliquod tanti acuminis.
+²⁹ Unde ipsa, que videbat me sicut egomet,
 Ad quietandum animum meum commotum,
 Priusquam ego ad interrogandum, apperuit os
-^(30) Et incepit: Tumet te facis grossum
-        [suum,
+[suum,
+³⁰ Et incepit: Tumet te facis grossum
 Cum falsa ymaginatione, ita quod non vides
 Id quod videres si illam haberes excussam.
-^(31) Tu non es in terra, sicut tu credis,
+³¹ Tu non es in terra, sicut tu credis,
 Sed fulgur fugiens a proprio situ,
 Non cucurrit unquam, sicut tu nunc redis.
 

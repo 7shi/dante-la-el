@@ -38,7 +38,7 @@ def check_tercets(first, last):
                  and sum(len(l) for l in b) / len(b) < 75 and not b[0].startswith("(")]
         for k, b in enumerate(verse[:2]):
             lang = "both" if "\t" in "".join(b) else "it" if k == 0 else "la"
-            lines = [l for l in b if not l.startswith("[")]
+            lines = [l for l in b if not (l.startswith("[") and "]" not in l)]
             nums = [(i, int(TERCET.match(l)[1].translate(SUP).rstrip("."))) for i, l in enumerate(lines) if TERCET.match(l)]
             if not nums: continue
             off = nums[0][0] % 3

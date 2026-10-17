@@ -28,7 +28,7 @@ LANUM = re.compile(r"^\^?([⁰¹²³⁴⁵⁶⁷⁸⁹]{1,3}|\d{1,3})\.? +(?=\S)
 
 def counted(l):
     t = l.strip()
-    runover = re.match(r"\[[a-zà-ù]", t)  # 0447 `[Et veniet …]`: a whole line supplied
+    runover = t.startswith("[") and "]" not in t  # 0447 `[Et veniet …]`, 0639 `[L]a …`
     return (S.keep(l) and not S.is_head(l) and not runover and t.upper() != t
             and not re.fullmatch(r"\(\W*\)", t))  # 0309 `(...)`
 
@@ -39,16 +39,18 @@ def insert(p, src):
     block = S.verse_block(lines)
     la = [i for i in block if counted(lines[i])]
     nums = [m[1].translate(UNSUP) if (m := ITNUM.match(l)) else None
-            for l in it if not l.startswith("[")]
+            for l in it if not (l.startswith("[") and "]" not in l)]
     if not la: return None, [f"{p}: no Latin verse block"]
     if len(la) != len(nums):
         return None, [f"{p}: Latin {len(la)} lines, Italian {len(nums)}: left as it is"]
     notes = []
+    for i in block:
+        lines[i] = lines[i].lstrip()
     for i, n in zip(la, nums):
         l = lines[i]
         m = LANUM.match(l)
         old = m[1].translate(UNSUP) if m else None
-        body = l[m.end():] if m else l
+        body = l[m.end():].lstrip() if m else l
         lines[i] = f"{n.translate(SUP)} {body}" if n else body
         if old != n: notes.append(f"{p}: Latin number {old or '-'} -> {n or '-'}: {body[:50]}")
     first = la[0]

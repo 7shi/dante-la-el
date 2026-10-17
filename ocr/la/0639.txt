@@ -1,5 +1,24 @@
 CAPITULUM QUARTUMDECIMUM
 
+³⁴ Quando in Bologna un Fabro si ralligna?
+Quando in Faenza un Bernardin di Fosco,
+Verga gentil di picciola gramigna?
+³⁵ Non ti maraviglar, s'io piango (¹), Tosco,
+Quand'io rimembro con Guido da Prato
+Ugholin d'Azzo, che vivette nosco;
+³⁶ Federigo Tignoso e sua brigata;
+[L]a casa Traversara, e gl'Anastagi;
+E l'una gente e l'altra è dirietata (²);
+³⁷ Le donne e'chavalier, gl'affanni e gl'agi,
+Che ne 'nvogliava amor e cortesia,
+Là dove e cuor son facti sì malvagi.
+³⁸ O Brettinoro, che non fuggi via,
+Poi che gita se n'è la mia famigla,
+E molta gente, per non esser ria?
+³⁹ Ben fa Bagnacaval, che non rifigla,
+E mal fa Castracaro, e peggio Conio,
+Che di figlar tai conti più s'impigla.
+
 ³⁴ Quando in Bononia unus Faber ralignatur?
 Quando in Faventia unus Bernardinus de Fusco,
 Virga gentilis parve gramine?
@@ -11,6 +30,7 @@ Domus Traversarie, et Anastasiorum;
 Et utraque gens exheredata;
 ³⁷ Dominarum et militum, laborum atque otiorum,
 Que in voluntatem nostram inducebant honorem et
+[curialitatem,
 Ibi ubi corda facta sunt ita maligna.
 ³⁸ O Bertennorium, quare non fugis tu per viam,
 Postquam recessit tua familia,
