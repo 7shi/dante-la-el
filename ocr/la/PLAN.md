@@ -268,9 +268,53 @@ italic lemmas against the verse of their page, and a lexicon check, are proposed
   tight-written elisions were not listed); two letters: 0615 `lo 'inviarci`, 0789
   `lo'intesi` (both written `'nt…`/`'nv…` without the printed `i`).
 - **Gloss lines missing** (listed again 2026-10-18, `tmp/la-gloss-missing.tsv` by
-  `tmp/la-verse/glosslist.py`): of the inserted pages whose verse has gloss marks, 125 have
-  no gloss line and 14 lack some marks in it (0242, 0375, 0435, 0436, 0448, 0450, 0615,
-  0635, 0653, 0727, 0753, 0794, 1253, 1260: the second printed line dropped, it seems).
+  `tmp/la-verse/glosslist.py`): of the inserted pages whose verse has gloss marks, 201 have
+  no gloss line and 22 lack some marks in it (223 pages, `tmp/la-gloss/pages.txt`). A first
+  count (125 and 14) missed the marks `¹²³` (not in the range `⁰-⁹`) and took verse lines
+  beginning with a mark for gloss lines. The gloss lines in place are often OCR noise
+  (0237 `(¹) al. peró. — (⁶) meglo.` for seven glosses), so all 223 pages are transcribed
+  anew: `tmp/la-gloss/glosscrop.py` cut the band under the verse, full width
+  (`tmp/la-gloss/crops/`); la-el-agy transcribes it in 5 batches of 45
+  (`tmp/herdr-task-gloss1.md`, into `tmp/la-gloss/agy/`); the new lines replace the old.
+  Check: `tmp/la-gloss/gcheck.py` lists the words found in no other reading of the band
+  (Tesseract, GLM-OCR, old gloss lines; accents ignored) and gloss numbers that differ from
+  the verse marks; `tmp/la-gloss/gshow.py` stacks crops of them. Insert:
+  `tmp/la-gloss/ginsert.py PAGES [-n]` (old gloss lines replaced where they stand, else the
+  lines after the Italian block, with a blank line before).
+  - **Batch 1** (0237–0421, 45 pages, 69 lines): 4 words fixed in the scan (0414
+    `affrectasi`, 0403 `segnita`, 0421 `doventata`, 0242 `dell'Inferno` tight); 0397
+    `do', i. dove` read with a broken `o` (as 0421). Printed: 0276 `(³)` for the verse's
+    `(²)`; 0295 `³)` without `(`. Inserted (6 pages had old gloss lines, replaced);
+    `la_check.py 0237 0421` tercet reports unchanged.
+  - **Batch 2** (0423–0602, 45 pages): 4 fixed in the scan (0457 `tigluoli`, 0458
+    `ov'entra` tight, 0502 and 0592 `³)` as printed); accents checked against Tesseract
+    (`così`, `aprì` printed). `ginsert.py` first took 0503's `In exitu Israel de Egypto`
+    (also a Latin line) for the end of the Italian block; fixed (the first match of the last
+    verse line), 0503 redone from HEAD, all 90 placements checked; the script now skips a
+    page already done and refuses an old run holding a tercet number or too long. Inserted;
+    `la_check.py 0423 0602` tercet reports unchanged.
+  - **Batch 3** (0605–0754, 45 pages): fixed in the scan 0710 `figluol` (the `ﬁ` ligature,
+    read `t`; batch 2's 0457 `tigluoli` was the same misreading of mine, now `figluoli`), 0714
+    `sì`, 0748 `dell'Inferno` tight, 0746 `(⁵)` (faint bracket). Printed: 0640 `(³)` and 0733
+    `(⁹)` repeated. `ginsert.py` took commentary paragraphs beginning `(1)` (0615) for old
+    gloss lines: an old run must now be close to the new lines (token_set_ratio ≥ 50). Old
+    gloss lines it missed (beginning `— (¹)`, or under the Latin block with no blank line)
+    were deleted by hand after a scan of the 135 pages: 0321, 0600, 0635, 0712, 0754.
+  - **Batch 4** (0755–1016, 45 pages; blocks up to 12 lines, 0899 beyond the band, read in
+    the full page): 0882 `dell'acre` as printed (misprint). **Gloss numbers are written
+    `(n)` always**: a bracket lost in print is worn type (a trace shows on most), so `³)`,
+    `(³`, bare `⁶` were made `(³)`, `(⁶)` (0295, 0502, 0592, 0733, 0831, 0832, 0837, 0841,
+    0842, 0851, 0853, 0931; in `ocr/la` too for those inserted). Accents on `i` (dot or
+    stroke) are hard to tell at this resolution; la-el-agy's reading kept where unclear.
+    Inserted; `la_check.py 0755 1016` tercet reports unchanged.
+  - **Batch 5** (1019–1264, 43 pages): no word to fix; printed and kept: 1190 `Çapricorno`,
+    1230 `Symoniaco[s] cº. 19`, 1259 `de'Beati` tight, 1260 `dell' Inferno` spaced. Old
+    line left on 1236 (beginning `— (³)`) deleted by hand. `la_check.py 1019 1265` tercet
+    reports unchanged.
+  - **Result**: all 223 pages have their gloss block once (2–12 lines); the gloss numbers
+    match the verse marks except the printed slips 0276 `(³)` for `(²)`, 0640 `(³)` twice,
+    0733 `(⁹)` twice. `glosslist.py` still lists 22 pages as "part": its count reads only
+    lines beginning with a mark, and these glosses run over a line break.
   Found 2026-10-17: of the 218 inserted pages whose Italian has
   gloss marks, 175 have no gloss line `(¹) …` in `ocr/la` (e.g. 0881, 0966 `(⁴) gigante.`),
   though it is printed under the verse: GLM-OCR and the old file dropped it, and the verse
@@ -328,8 +372,8 @@ In this order (decided with the user, 2026-10-15):
      - **Done too**: Latin `0836` (row 338), and the gaps at apostrophes of batches 1–10
        (State). The verse of all 338 pages is in.
      - **Commits**: batches 4–10 were committed together after batch 10 (the user,
-       2026-10-17). Batches 11–14 and 0836: as the user decides.
-     - **Next**: the gloss lines (below). In any later verse check, look at every
+       2026-10-17); batches 11–14 and 0836 in `4c6f2f5`.
+     - **Next**: item 4's 0458 and 0727, then item 3. In any later verse check, look at every
        apostrophe written with a space; the print sets the gaps both ways.
 2. **Verse check**, after each batch of item 1 (la-el-claude, by script first): compare
    each transcription with GLM-OCR, which reads the Italian verse (as a check only), and
@@ -355,10 +399,8 @@ In this order (decided with the user, 2026-10-15):
      run it without `-n`. `la_check.py` over the range: the reports on the inserted pages
      (a stray blank line in a block, a gloss line taken as verse); those on other pages
      are for the batch procedure.
-   - **Gloss lines** (open, State): add the printed gloss line under the Italian block of
-     the inserted pages that lack it (`tmp/la-gloss-missing.tsv`: 125 without one, 14 with
-     marks missing from it, 2026-10-18),
-     transcribed from the image (a crop of the line under the verse), before item 3.
+   - **Gloss lines**: done (2026-10-18, State): the 223 pages of `tmp/la-gloss/pages.txt`
+     have the gloss lines transcribed from the image, in place of the old ones.
 3. **Markup of the 475 pages** (paid) of `tmp/la-markup-redo.txt`, as procedure step 2,
    with the default rounds (the extra round of item 5 is for all pages together). Done:
    137 (the 48 with a moved Latin block and the 90 of `tmp/la-markup-ready.txt`, 0598 in
