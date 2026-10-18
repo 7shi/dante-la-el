@@ -76,6 +76,13 @@ italic lemmas against the verse of their page, and a lexicon check, are proposed
   and 1277 (57, the two OCRs break and bound the text differently; 8 not placed; look at it
   after the extra round). 0598: 0 not placed (56 before the italics fix), 1 missed. No `*`
   entry is left anywhere. Left to the extra round, item 5.
+- **Markup of the 338 verse pages** (paid, by the user, default rounds, 2026-10-18; 0831
+  retyped instead, item 3): the answers of the 337 moved from `tmp/la-mark6/markup/`
+  (deleted when empty) into `tmp/la-markup/`. Re-checked with `-r 0`: 1011 differences
+  missed in 284 pages (316 spacing only), 279 entries not placed in 162 pages; 102 are
+  long blocks (a paragraph on one side only or out of order, 69 pages, most on 1191: 6;
+  0309, 0779, 0882: 3), a sign that `ocr/la` may be broken there as 0831 was. Left to the
+  extra round, item 5; look at the long blocks after it.
 - **Verse transcription, trial** (`la_verseread.py`, paid, by the user) on the Italian of
   the 121 checked pages, measured with `--check` against `ocr/la` (differences counted by
   word; "caught": GLM-OCR has the file's reading, not the model's, so the verse check
@@ -373,7 +380,7 @@ In this order (decided with the user, 2026-10-15):
        (State). The verse of all 338 pages is in.
      - **Commits**: batches 4–10 were committed together after batch 10 (the user,
        2026-10-17); batches 11–14 and 0836 in `4c6f2f5`.
-     - **Next**: item 3 (item 4's 0458 and 0727 are fixed). In any later verse check, look at every
+     - **Next**: item 4's rest, then item 5 (items 3 and 4's 0458, 0727 done). In any later verse check, look at every
        apostrophe written with a space; the print sets the gaps both ways.
 2. **Verse check**, after each batch of item 1 (la-el-claude, by script first): compare
    each transcription with GLM-OCR, which reads the Italian verse (as a check only), and
@@ -406,6 +413,17 @@ In this order (decided with the user, 2026-10-15):
    137 (the 48 with a moved Latin block and the 90 of `tmp/la-markup-ready.txt`, 0598 in
    both); the other 338 (`tmp/la-markup-verse.txt`), whose verse and gloss lines are now
    in: their old answers no longer fit, so they are called afresh into `tmp/la-mark6/`.
+   0831's fixing call was refused by OpenAI ("flagged as potentially violating our usage
+   policy"; a false flag on the commentary); the user marked it with `gemini-3.8-flash`
+   instead. Its marks showed the commentary broken (a paragraph lost, the rest out of
+   order, the page head reversed), so 0831 was retyped from the scan by la-el-claude
+   (2026-10-18; damaged letters restored: `appropinquant`, `Foroiulianas`, `domina`) and
+   leaves the markup method: done; its gemini answers are kept in `tmp/la-markup/bak2/`
+   (the older ones in `bak/`), none in `tmp/la-markup/`. A page refused this
+   way stops the run; the user marks it with another model. When the run is done, the
+   answers in `tmp/la-mark6/markup/` move into `tmp/la-markup/`, and the
+   further steps (item 5 on) work on `tmp/la-markup/`. Done (State).
+   All 475 are now marked.
 4. **Pages that stop `la_markprep.py`**: 0063 `{et}`, 0727 `{dicit}`, 0822 `{firmaret}`,
    0399 a `}}` line, 0458 and 1245 `|` (in `ocr/la`): check in the image and fix `ocr/la`
    (0458 and 0727, among the 338 of item 3, fixed on 2026-10-18: 0727 `[dicit]` as printed;
