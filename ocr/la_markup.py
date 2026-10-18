@@ -38,6 +38,13 @@ USAGE_PATH = None
 MARK = re.compile(r"\{\{([^{}|]*)\|([^{}|]*)\}\}")
 
 
+def clean_glm(s):
+    """GLM-OCR's LaTeX superscripts `$^{(1)}$` as `(1)` and its stray `|` dropped (0021,
+    0344, 0467): a mark cannot hold `{`, `}` or `|`. Applied to the text and to the `glm`
+    of every entry, saved answers included."""
+    return re.sub(r"\$\^\{([^{}]*)\}\$", r"\1", s).replace("|", "")
+
+
 def mark_line(t, m):
     """The ocr/la line of mark m of the marked page t: counted on the left sides, since a
     right side may hold line breaks."""
@@ -261,6 +268,7 @@ def review(ocr, glm, diffs):
     Return the marked text, the entries kept for the next round (those placed, except on
     the lines where B still does not come out right), the problems, and their description
     for the LLM."""
+    diffs = [d.model_copy(update={"glm": clean_glm(d.glm)}) for d in diffs]
     marked, placed, unplaced = place(ocr, diffs)
     rest = missed(marked, glm)
     bad = set().union(*(r[4] for r in rest))
@@ -292,7 +300,7 @@ def mark_page(client, page, outdir, rounds):
     resumed with only the fixing calls still needed. A fixing call that leaves the same
     problems ends the page, so no call is repeated in vain."""
     ocr = (ROOT / f"{page}.txt").read_text(encoding="utf-8").rstrip("\n")
-    glm = (ROOT / "glm-ocr" / f"{page}.txt").read_text(encoding="utf-8")
+    glm = clean_glm((ROOT / "glm-ocr" / f"{page}.txt").read_text(encoding="utf-8"))
     numbered = "\n".join(f"{i}: {l}" for i, l in enumerate(ocr.split("\n"), 1))
     prompts = ["OCR A:\n" + numbered, "OCR B:\n" + glm, PROMPT]
     answers = sorted(outdir.glob(f"{page}.*json"), key=lambda p: (len(p.name), p.name))

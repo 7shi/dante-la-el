@@ -380,7 +380,7 @@ In this order (decided with the user, 2026-10-15):
        (State). The verse of all 338 pages is in.
      - **Commits**: batches 4–10 were committed together after batch 10 (the user,
        2026-10-17); batches 11–14 and 0836 in `4c6f2f5`.
-     - **Next**: item 4's rest, then item 5 (items 3 and 4's 0458, 0727 done). In any later verse check, look at every
+     - **Next**: item 5 (items 3 and 4 done). In any later verse check, look at every
        apostrophe written with a space; the print sets the gaps both ways.
 2. **Verse check**, after each batch of item 1 (la-el-claude, by script first): compare
    each transcription with GLM-OCR, which reads the Italian verse (as a check only), and
@@ -424,13 +424,20 @@ In this order (decided with the user, 2026-10-15):
    answers in `tmp/la-mark6/markup/` move into `tmp/la-markup/`, and the
    further steps (item 5 on) work on `tmp/la-markup/`. Done (State).
    All 475 are now marked.
-4. **Pages that stop `la_markprep.py`**: 0063 `{et}`, 0727 `{dicit}`, 0822 `{firmaret}`,
-   0399 a `}}` line, 0458 and 1245 `|` (in `ocr/la`): check in the image and fix `ocr/la`
-   (0458 and 0727, among the 338 of item 3, fixed on 2026-10-18: 0727 `[dicit]` as printed;
-   0458's commentary, whose two columns were run together line by line, retyped from the
-   scan); 0021 `||`, 0344 and 0467
-   `$^{(1)}$` in GLM-OCR's side: make `la_markup.py` keep such text out of the marks, or fix
-   the marked page by hand; 0941: no valid answer, call again.
+4. **Pages that stop `la_markprep.py`**: done (2026-10-18) but for 0941's call.
+   - In `ocr/la`, checked in the image: 0727 `[dicit]`, 0063 `[et]`, 0822 `[firmaret]`
+     (printed brackets); 0399's `}}` line is the signature `44`; 0458's commentary and
+     0035's footnote, whose two columns were run together line by line with `|`, put
+     column after column (0458 retyped from the scan); 1245's figure, a `|` table with
+     headings not printed, written as `[figure]` and its labels (conventions), and the
+     blank line at its column change removed.
+   - GLM-OCR's side (0021 `|Firenze`, 0344 and 0467 `$^{(1)}$`): `la_markup.py` cleans the
+     GLM-OCR text and the `glm` of every entry, saved answers included (`clean_glm`).
+   - The marked pages of these 9 were rewritten from their saved answers (`-r 0`); no
+     marked page in `tmp/la-markup/` holds an unparsed `{{`/`}}` now, and `la_markprep.py`
+     runs through them. 1245 has 8 differences missed (its figure), left to item 5.
+   - 0941: its only answer was cut off (invalid JSON); moved to `tmp/la-markup/bak2/`, so
+     item 5's run calls it afresh.
 5. **One more markup round** (paid, before the model decisions): rerun `la_markup.py` with
    `-r 3` on all pages, so that the pages with missed differences get a fixing call (the
    pages that pass make no call). Check what is still missed.
@@ -583,6 +590,10 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
 - **Gloss line `(¹) …`**: under the Italian block or under the Latin block (11+ pages have
   it under the Latin block); `convert_la.py` must accept both.
 - **Curly `’`**: left in `ocr/la`, normalized by `convert_la.py`.
+- **Figures**: a line `[figure]` where the figure stands, then each printed label on a
+  line of its own (column after column, top to bottom), a blank line after; headings
+  that are not printed are not added (1245). 1044 (`[diagram]` in a line) and 1247
+  (`[Diagram]`, `Top Left:`) are to be brought to this form in their batches.
 
 ## Suspected misprints
 
