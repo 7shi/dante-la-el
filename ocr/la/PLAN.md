@@ -424,7 +424,7 @@ In this order (decided with the user, 2026-10-15):
    answers in `tmp/la-mark6/markup/` move into `tmp/la-markup/`, and the
    further steps (item 5 on) work on `tmp/la-markup/`. Done (State).
    All 475 are now marked.
-4. **Pages that stop `la_markprep.py`**: done (2026-10-18) but for 0941's call.
+4. **Pages that stop `la_markprep.py`**: done (2026-10-18); 0941 is called in item 5.
    - In `ocr/la`, checked in the image: 0727 `[dicit]`, 0063 `[et]`, 0822 `[firmaret]`
      (printed brackets); 0399's `}}` line is the signature `44`; 0458's commentary and
      0035's footnote, whose two columns were run together line by line with `|`, put
@@ -437,10 +437,23 @@ In this order (decided with the user, 2026-10-15):
      marked page in `tmp/la-markup/` holds an unparsed `{{`/`}}` now, and `la_markprep.py`
      runs through them. 1245 has 8 differences missed (its figure), left to item 5.
    - 0941: its only answer was cut off (invalid JSON); moved to `tmp/la-markup/bak2/`, so
-     item 5's run calls it afresh.
+     item 5's run calls it afresh. The cause was in the sources (2026-10-18): GLM-OCR
+     ended in a loop (`fluis.` then `usus…` for 640 characters, then `gend` from the
+     scan's watermark), cut in `glm-ocr/0941.txt`; and `ocr/la` had lost and mixed lines
+     in both commentary columns (`Epirri, et intravit …` and the `Fabii …` lines lost,
+     `trino-`/`mius` split apart), so 0941 was retyped from the scan by la-el-claude
+     (gloss line set off by blank lines; dots inside sentences written as commas). Against
+     GLM-OCR only its misreadings are left (`Ipsse`, `Deciiis`, `tune`, …).
 5. **One more markup round** (paid, before the model decisions): rerun `la_markup.py` with
-   `-r 3` on all pages, so that the pages with missed differences get a fixing call (the
-   pages that pass make no call). Check what is still missed.
+   `-r 1` on all pages, so that the pages with missed differences get one more fixing call
+   (the pages that pass make no call; `-r` counts the calls of this run only, the saved
+   answers aside, so `-r 3` would allow three more). Check what is still missed. The pages:
+   `tmp/la-markup-all.txt` (1233: every page with GLM-OCR but 0831, which is out of the
+   method; 0941 is called afresh):
+   `uv run ocr/la_markup.py -r 1 -m gpt-6-luna -o tmp/la-markup $(cat tmp/la-markup-all.txt)`.
+   Run in three in parallel: `tmp/la-markup-all-00.txt`, `-01`, `-02` (411 pages each).
+   Then: `-r 0` on a copy for the counts (State), the long blocks (69 pages, item 3) in
+   the image, 1245's figure.
 6. **Model decisions** (paid): a new work directory over all pages, `la_markprep.py`, then
    `la_markdecide.py` (procedure, steps 3–4).
 7. **Batches 3–11**: procedure steps 5–11, batch by batch.
