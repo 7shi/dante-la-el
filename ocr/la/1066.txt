@@ -1,56 +1,105 @@
-1012                                         PARADISI
+1012
 
-20 Se la gente, ch'al mondo più traligna,       20 Si gens, que in mundo magis tralignat,
-Non fusse stata a' Cesari noverca,              Non fuisset Cesari noverca,
-Ma, come madre al suo figlio, benigna,          Sed, sicut mater suo filio, benigna,
-21 Tal facto è Fiorentino, e cambia e merca,       21 Talis factus est Florentinus, et cambi[a]t et mercatur,
-Che si sarebbe volto a Semifonti,               Qui convertisset se ad Symofontem,
-Là dov'andava l'avolo a la cerca.               Quo ibat avus meus ad inquisitionem.
-22 Sariasí Montemurlo ancor de' conti;            22 Esset Mons Murulus adhuc comitum;
-Sariensi e Cerchi del pivier d'Acrone,          Essent circuli in piverio Acchonis,
-E forse in Valdigrieve e Buondalmonti.          Et forsan in valle Grevi Bondelmontes.
-23 Sempre la confusion de le persone              23 Semper confusio personarum
-Principio fu del mal de le cittade,             Principium fuit mali civitatis,
-Come del vostro(¹) il cibo che s'appone.        Sicut de vestro cibus qui supraponitur.
-24 E cieco thoro più avaccio cade                 24 Et cecus taurus citius cadit
-Che cieco agnello, e molte volte tagla          Quam cecus agnus, et multoties incidit
-Più e meglo una che le cinque spade.            Plus et melius unus quam quinque enses.
+PARADISI
 
+²⁰ Se la gente, ch'al mondo più traligna,
+Non fusse stata a' Cesari noverca,
+Ma, come madre al suo figlo, benigna,
+²¹ Tal facto è Fiorentino, e cambia e merca,
+Che si sarebbe volto a Semifonti,
+Là dov'andava l'avolo a la cerca.
+²² Sariasi Montemurlo ancor de' conti;
+Sariensi e Cerchi del pivier d'Acrone,
+E forse in Valdigrieve e Buondalmonti.
+²³ Sempre la confusion de le persone
+Principio fu del mal de le cittade,
+Come del vostro(¹) il cibo che s'appone.
+²⁴ E cieco thoro più avaccio cade
+Che cieco agnello, e molte volte tagla
+Più e meglo una che le cinque spade.
 (¹) male è principio.
+²⁰ Si gens, que in mundo magis tralignat,
+Non fuisset Cesari noverca,
+Sed, sicut mater suo filio, benigna,
+²¹ Talis factus est Florentinus, et cambi[a]t et mercatur,
+Qui convertisset se ad Symofontem,
+Quo ibat avus meus ad inquisitionem.
+²² Esset Mons Murlus adhuc comitum;
+Essent circuli in piverio Acchonis,
+Et forsan in valle Grevi Bondelmontes.
+²³ Semper confusio personarum
+Principium fuit mali civitatis,
+Sicut de vestro cibus qui supraponitur.
+²⁴ Et cecus taurus citius cadit
+Quam cecus agnus, et multoties incidit
+Plus et melius unus quam quinque enses.
 
-confines, idest extra, quam habere, idest intus, ipsas ad   Que intervenerunt ex defectu pastorum Ecclesie, maxime
-substituendum putredinem Villani (nomen proprium fuit      Bonifacii octavi, qui misit Karolum Sineterra, sub nomine
-unius doctoris iuris, malus homo) de Guglione (nomen        pacifícandi civitatem, et ipse divisit civitatem amplius
-unius ville) et illius de Signa (hic fuit unus alter iurista. quam erat: unde comites perdiderunt Montem Murulum,
-cuius nomen non ponitur hic, et ille fuit de Signa: est    qui comites fuerunt expulsi et perdiderunt illud castrum,
-unum oppidum prope Florentiam per septem miliaria), qui    scilicet Montem Murulum; et tunc venerunt illi de Circulis,
-iam pro baractare, idest ad faciendam baractariam, habet    de Cierchiis, qui erant rustici de plebania Acchonis (nomen
-oculum acutum.                                              proprium unius plebis); et illi de Bondelmontibus venerunt
-de Valle Grevi (est unus fluvius, qui vocatur Grevi, et vallis
-dicítur Vallis Grevis; et de illa valle venerunt, de [illa], Bon-
+confines, idest extra, quam habere, idest intus, ipsas ad
+substituendum putredinem Villani (nomen proprium fuit
+unius doctoris iuris, malus homo) de Guglione (nomen
+unius ville) et illius de Signa (hic fuit unus alter iurista,
+cuius nomen non ponitur hic, et ille fuit de Signa: est
+unum oppidum prope Florentiam per septem miliaria), qui
+iam pro baractare, idest ad faciendam baractariam, habet
+oculum acutum.
 
-Si gens, que in mundo magis tralignat, idest degenerat,     delmontes ad civitatem Florentie); erant rurales, et facti
-idest pastores Ecclesie. non fuisset Cesari, idest Impera-  sunt cives et nobiles cives. Ideo dicit textus: Esset Mons
-tori, noverca, sed sicut mater suo filio benigna, talis factus Murulus, idest illud castrum, adhuc comitum, scilicet Guidii
-est Florentinus, et cambi[a]t et mercatur, qui convertisset (vocantur comites Guidii); essent Circuli, idest illi de domo
-se ad Symofontem, quo ivit avus meus ad inquisitionem.      Circulorum, in piverio, sive in plebania, Acchonis (nomen
-Symofonte est unum, vel erat tempore auctoris, unum rus:    proprium); et forsan in Valle Grevi Bondelmontes: idest
-et hoc dicit ad faciendam custodiam in circum; vel          domo Bondelmontibus adhuc essent rurales, et es-
-quia in die Veneris sancta avus domini C'acciaguide faciebat sella valle, scilicet Grevi.
-circum. quia ibat ad illum rus, sive ad ecclesiam illius
+Si gens, que in mundo magis tralignat, idest degenerat,
+idest pastores Ecclesie, non fuisset Cesari, idest Impera-
+tori, noverca, sed sicut mater suo filio benigna, talis factus
+est Florentinus, et cambi[a]t et mercatur, qui convertisset
+se ad Symofontem, quo ivit avus meus ad inquisitionem.
+Symofonte est unum, vel erat tempore auctoris, unum rus:
+versus illud ibatur ad faciendum custodiam in circum; vel
+quia in die Veneris sancta avus domini Cacciaguide faciebat
+circum, quia ibat ad illum rus, sive ad ecclesiam illius
 ruris, et visitabat alias ecclesias multas. Vult dicere auctor
-in effectu, quod si gens illa, que tralignat, idest degenerat, Modo dicit auctor, quod confusio et commixtio persona-
-scilicet pastores Ecclesie, qui degenerant a Sanctis Patribus rum, maxime forensium, principiavit malum in civitatibus,
-qui fuerunt boni, non fuisset in discordia cum Imperatore, sicut cibus qui superponitur super cibum indigestum. Et
-cuius pastores Ecclesie debent esse mater et ipsi sunt no-  dicit auctor, respondens cuidam quasi tacite (quia posset
-verca, Florentia non esset ita divisa. Quia Papa accepit    querere: Nunquam crevit potentia civitatis ex mul-
-Imperator reputatur gebellinus: et sic                       tplicatione tot civium?), dicit quod sepe cecus taurus
-Guelfi, expellentes Gebellinos. receperunt multos rusticos   cadit citius quam cecus agnus, et aliquando magis in-
-runt civitatem loco illorum expulso-                        cius cum bona manu et forti, quam quinque enses.
-confusio personarum principium fuit mali civitatis.
-Ex quo auctor tetigit unum inconveniens, scilicet quod       vestro malo, vel infírmitate vestra, cibus qui super-
-rustici sunt commixti civibus, modo tangit aliud adhuc       ponitur, scilicet cibus indigesto; et cecus taurus citius cadit
-maius, scilicet quod nobiliores sunt expulsi de Florentia    quam cecus agnus; et multoties plus incidit et melius unus,
-propter rusticos advenientes, et propter divisiones civitatis. ensis, quam quinque enses. Vult dicere quod vali-
+in effectu, quod si gens illa, que tralignat, idest degenerat,
+scilicet pastores Ecclesie, qui degenerant a Sanctis Patribus
+qui fuerunt boni, non fuisset in discordia cum Imperatore,
+cuius pastores Ecclesie debent esse mater et ipsi sunt no-
+verca, Florentia non esset ita divisa. Quia Papa accepit
+partem guelfam, Imperator reputatur gebellinus: et sic
+Guelfi, expellentes Gebellinos, receperunt multos rusticos
+de comitatu, ut replerent civitatem loco illorum expulso-
+rum; qui rustici facti sunt Florentini, et cambiant, et mer-
+catantur, qui irent ad Symofontem, idest ad illud rus, et
+ibi starent, et non starent in Florentia.
+
+Ex quo auctor tetigit unum inconveniens, scilicet quod
+rustici sunt commixti civibus, modo tangit aliud adhuc
+maius, scilicet quod nobiliores sunt expulsi de Florentia
+propter rusticos advenientes, et propter divisiones civitatis.
+Que intervenerunt ex defectu pastorum Ecclesie, maxime
+Bonifacii octavi, qui misit Karolum Sineterra, sub nomine
+pacificandi civitatem, et ipse divisit civitatem amplius
+quam erat: unde comites perdiderunt Montem Murlum,
+qui comites fuerunt expulsi et perdiderunt illud castrum,
+scilicet Montem Murlum; et tunc venerunt illi de Circulis,
+de Cierchiis, qui erant rustici de plebania Acchonis (nomen
+proprium unius plebis); et illi de Bondelmontibus venerunt
+de Valle Grevi (est unus fluvius, qui vocatur Grevi, et vallis
+dicitur Vallis Grevis; et de illa valle venerunt, de [illa], Bon-
+delmontes ad civitatem Florentie); erant rurales, et facti
+sunt cives et nobiles cives. Ideo dicit textus: Esset Mons
+Murlus, idest illud castrum, adhuc comitum, scilicet Guidi
+(vocantur comites Guidi); essent Circuli, idest illi de domo
+Circulorum, in piverio, sive in plebania, Acchonis (nomen
+proprium); et forsan in Valle Grevi Bondelmontes: idest.
+illi de domo Bondelmontibus adhuc essent rurales, et es-
+sent in illa valle, scilicet Grevi.
+
+Modo dicit auctor, quod confusio et commixtio persona-
+rum, maxime forensium, principiavit malum in civitatibus,
+sicut cibus qui superponitur super cibum indigestum. Et
+dicit auctor, respondendo cuidam quasi tacite (quia posset
+quis dicere: Nunquam crevit potentia civitatis ex mul-
+tiplicatione tot civium?), dicit quod sepe cecus taurus
+cadit citius quam cecus agnus, et aliquando magis in-
+cidit unus cum bona manu et forti, quam quinque enses.
+Semper confusio personarum principium fuit mali civitatis,
+sicut de vestro malo, vel infirmate vestra, cibus qui super-
+ponitur, scilicet cibo indigesto; et cecus taurus citius cadit
+quam cecus agnus; et multoties plus incidit et melius unus,
+scilicet ensis, quam quinque enses. Vult dicere quod vali-
 dior et subtilior erat Florentia tunc temporis cum paucis
-civibus, quam modo sit cum malis et multis.
+et bonis civibus, quam modo sit cum malis et multis.

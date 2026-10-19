@@ -83,6 +83,16 @@ italic lemmas against the verse of their page, and a lexicon check, are proposed
   long blocks (a paragraph on one side only or out of order, 69 pages, most on 1191: 6;
   0309, 0779, 0882: 3), a sign that `ocr/la` may be broken there as 0831 was. Left to the
   extra round, item 5; look at the long blocks after it.
+- **Extra markup round** (item 5, `-r 1` on the 1233 pages, paid, by the user,
+  2026-10-18; no page refused): re-checked with `-r 0`: 2604 differences missed in 735
+  pages (757 spacing only), 549 entries not placed in 316 pages. 0941: 3 missed (GLM-OCR
+  misreadings), 1245: 2. The long blocks showed that `ocr/la` has **lost text** on many
+  pages, as on 0831 and 0941: a word check found 164 pages where GLM-OCR has runs of 15+
+  words that `ocr/la` lacks (24183 words; 95 pages over 100 words, 18 with verse lost),
+  `tmp/la-lost-blocks.tsv`. Seen in the image: 0907 (the left commentary column lost, and
+  `vult beatos homines` written `que sunt beati homines`), 0940 (the Italian verse, the
+  left commentary column and most of the last paragraph lost); 0709 has 356 words of
+  GLM-OCR's 794. Retyped in item 6.
 - **Verse transcription, trial** (`la_verseread.py`, paid, by the user) on the Italian of
   the 121 checked pages, measured with `--check` against `ocr/la` (differences counted by
   word; "caught": GLM-OCR has the file's reading, not the model's, so the verse check
@@ -380,7 +390,7 @@ In this order (decided with the user, 2026-10-15):
        (State). The verse of all 338 pages is in.
      - **Commits**: batches 4–10 were committed together after batch 10 (the user,
        2026-10-17); batches 11–14 and 0836 in `4c6f2f5`.
-     - **Next**: item 5 (items 3 and 4 done). In any later verse check, look at every
+     - **Next**: item 6 (items 3–5 done). In any later verse check, look at every
        apostrophe written with a space; the print sets the gaps both ways.
 2. **Verse check**, after each batch of item 1 (la-el-claude, by script first): compare
    each transcription with GLM-OCR, which reads the Italian verse (as a check only), and
@@ -453,10 +463,255 @@ In this order (decided with the user, 2026-10-15):
    `uv run ocr/la_markup.py -r 1 -m gpt-6-luna -o tmp/la-markup $(cat tmp/la-markup-all.txt)`.
    Run in three in parallel: `tmp/la-markup-all-00.txt`, `-01`, `-02` (411 pages each).
    Then: `-r 0` on a copy for the counts (State), the long blocks (69 pages, item 3) in
-   the image, 1245's figure.
-6. **Model decisions** (paid): a new work directory over all pages, `la_markprep.py`, then
-   `la_markdecide.py` (procedure, steps 3–4).
-7. **Batches 3–11**: procedure steps 5–11, batch by batch.
+   the image, 1245's figure. Done (2026-10-18, State): the long blocks led to item 6.
+6. **Pages with lost text** (decided with the user, 2026-10-18): the 164 pages of
+   `tmp/la-lost-blocks.tsv` are retyped from the scan by **la-el-agy**, page by page,
+   into `tmp/la-retype/agy/PAGE.txt`, from the image alone (no text of the page, of
+   GLM-OCR or of the poem), with the conventions below; first a trial batch of 6
+   (`tmp/herdr-task-retype1.md`), then batches of 10 in page order. Each batch is checked
+   by la-el-claude by script against GLM-OCR and the old `ocr/la` (every word that
+   differs from both, every block one of them lacks, the verse with `la_check.py`), in the
+   image where they disagree; then the page replaces `ocr/la/PAGE.txt`, its markup
+   answers move to `tmp/la-markup/bak3/`, and it is marked afresh (paid, by the user;
+   default rounds, then `-r 1` as in item 5). The list came from a word check: runs of 15
+   words or more of GLM-OCR found nowhere in `ocr/la` (3-word shingles, digits left out);
+   no page of batches 1–2 is on it. Check script: `uv run tmp/la-retype/rcheck.py PAGES
+   -o OUT` (blocks one side lacks; each word differing from GLM-OCR, with the old file's
+   reading). The front matter on the list (0046, 0048–0050, papal documents, 0048 with
+   paragraphs repeated) is left for a batch of its own, with its own layout rules.
+   - **Trial** (0296 0512 0709 0907 0940 1240, 2026-10-19): complete (word counts within
+     a few of GLM-OCR's), every difference with GLM-OCR checked in the image: one slip
+     (1240 `Christe.`, fixed); `la_check.py` tercets clean. In `ocr/la`; their answers in
+     `bak3/`; markup to call (paid).
+   - **Batch 2** (`tmp/herdr-task-retype2.md`): 0237 0238 0250 0261 0264 0266 0271 0272
+     0275 0278: complete; not as printed: 0264 `Aquaquicta` (×3, printed `Aquaquieta`),
+     0272 the lemma `Torciendo:` written as the verse's `Torcendo`, 0278 `e 'l` (fixed).
+     Right where GLM-OCR differs: 0250 `Fiexul-` (commentary; the verse `Fexulis`), 0261
+     `Bellinzo-`/`n[us]`, 0264 `discoscexa` (Latin verse). In `ocr/la`, answers in `bak3/`.
+   - **Batch 3** (`tmp/herdr-task-retype3.md`): 0303 0307 0309 0317 0319 0329 0330 0339
+     0356 0367: complete; not as printed: 0330 `porosumi`, 0367 `trafictò`, 0319
+     `schegiam` (fixed). In `ocr/la`, answers in `bak3/`.
+   - **Batch 4** (`tmp/herdr-task-retype4.md`): 0373 0375 0378 0380 0390 0401 0405 0407
+     0414 0420: complete; not as printed: 0420 `liuto`, `Thebanarum` (printed `linto`,
+     `Thebenarum`), 0390 `Babilone`, 0373 `Ch'è`, 0405 `su' 'l` (printed `su''l`), 0375
+     `mostra 'l` (fixed). In `ocr/la`, answers in `bak3/`. `la_check.py` finds fewer
+     rules than printed on many pages (0380: 2 of 4); the blank lines were checked in
+     the image where they differ.
+   - **Markup of batches 1–4** (36 pages, `tmp/la-retype/done1.txt`–`done4.txt`; paid,
+     by the user, `-r 3`, 2026-10-19): re-checked with `-r 0`: 40 differences missed in
+     18 pages (15 spacing only), 3 entries not placed; the 4 long ones are GLM-OCR's
+     block order (0709, 1240) and gloss line placed elsewhere (0375), not lost text.
+   - **Batch 5** (`tmp/herdr-task-retype5.md`): 0423 0424 0435 0438 0445 0448 0460 0463
+     0468 0505: complete; paragraphs indented with spaces and some gloss dashes written
+     `--` (both normalized), 0505's head in print order and 0463's letter-spaced (put in
+     the usual form); not as printed: 0423 `commutandum` (printed `commutundum`) and
+     punctuation at phrase ends (0423, 0435, 0460, 0505, 9 places), apostrophe gaps
+     (0445, 0460, 0468, 0505), 0468 `,Si`, 0445 caron for the breve of `Pĭetrapana`
+     (fixed). Kept as printed: 0438 `fainam`, 0460 `Cloco`, 0423 `[sn`. In `ocr/la`,
+     answers in `bak3/`; `la_check.py`'s extra rule on 0424, 0435, 0448, 0460 is the
+     page-end rule. Markup (paid, by the user, `-r 3`, `done5.txt`) re-checked with `-r 0`:
+     9 differences missed in 6 pages, 2 entries not placed (0445); the long ones are
+     GLM-OCR's gloss lines placed elsewhere (0423, 0445, 0468) and its Latin verse block
+     (0460). 0438 ends `et sic` at the scan's cut edge (GLM-OCR `sicus.`), kept.
+   - **Batch 6** (`tmp/herdr-task-retype6.md`): 0511 0514 0524 0535 0536 0548 0551 0589
+     0594 0596: complete, form right; 20 places not as printed (fixed), most of them
+     punctuation (periods as commas, commas left out or added, 0596 `separarsene:`),
+     words made like the other column (0524 Italian `Cachume` written `Cacume`, 0514
+     `Quant'um`, 0548 `discordiis` with `ï`), apostrophe gaps (0551, 0594, 0596, 0536),
+     and the rule at the foot of the left column not written (0524, 0536). Kept as
+     printed: 0511 `demacrat`, `deior`, `miglor`; 0548 `mariptimas`; 0596 `uon`, `cio`,
+     `sublimita` (an essay page without page number). In `ocr/la`, answers in `bak3/`
+     (`done6.txt`); `la_check.py`'s extra rule on 0589 is the page-end rule. Markup
+     (paid, by the user, `-r 3`) re-checked with `-r 0`: 15 differences missed in 6
+     pages, 1 entry not placed (0524); the long ones are GLM-OCR's Latin verse block
+     (0524, 0535), the rest GLM-OCR's spacing and splits; 0596 `ciò` checked in the image.
+   - **Batch 7** (`tmp/herdr-task-retype7.md`): 0599 0601 0605 0615 0623 0641 0647 0649
+     0650 0661: complete, form right; 11 places not as printed (fixed): periods written as
+     commas (0601 `oportet.`, 0605 `siccentur.`, 0615 `diei.`, 0641 `invidi.`,
+     `deglutire.`, `rebus.`), 0623 `Com poco` (written `Con`), 0641 `ideo dicit`
+     (capitalized), 0647 `girat' era` (gap) and `radiis` (written with `ï`), 0599 a gloss
+     dash not printed between (³) and (⁴). Kept as printed: 0650 `super eis` in the verse
+     and `eas` in the commentary, `duo`/`due`. In `ocr/la`, answers in `bak3/`
+     (`done7.txt`); `la_check.py`'s extra rule on 0649 is the page-end rule. Markup
+     (paid, by the user, `-r 3`) re-checked with `-r 0`: 6 differences missed in 5 pages,
+     none not placed; the long one is GLM-OCR's Latin verse block (0650), 0641 its gloss
+     line placed elsewhere, the rest GLM-OCR's splits and misreadings at line ends.
+   - **Batch 8** (`tmp/herdr-task-retype8.md`): 0666 0679 0699 0701 0708 0712 0714 0715
+     0721 0723: complete, form right; 9 places not as printed (fixed): 0699 verse `havete`
+     (written `avete`), punctuation (0701 `avaritiam:`, 0723 `terra:`, 0721 `elegerit.`),
+     apostrophe gaps (0701 `puo'saper`, 0721 `cho'buon`, 0679 `de'volatili, de'quadrupedi`
+     like the page's other `de'`, without a gap; 0715 `Ond' intender` with one). Kept as
+     printed: 0666 `Couradus` (commentary), 0708 `Quèste`, `pubblicaret`, 0721 `figla`,
+     `sorpiendo`; 0679 is an essay page (`L'AMORE VITA DELL'UNIVERSO`, signature 79). In
+     `ocr/la`, answers in `bak3/` (`done8.txt`); `la_check.py`'s extra rule on 0666, 0699,
+     0701, 0721, 0723 is the page-end rule; it misses one rule on 0708, 0714, 0715. Markup
+     (paid, by the user, `-r 3`) re-checked with `-r 0`: 17 differences missed in 5 pages,
+     1 entry not placed (0666); the long ones are GLM-OCR's verse and gloss blocks placed
+     elsewhere (0666, 0699, 0708, 0721), the rest its joins of words broken at line ends
+     (0679 `del-`/`l'accordo`, `que-`/`st'ora`) and misreadings.
+   - **Batch 9** (`tmp/herdr-task-retype9.md`): 0726 0747 0755 0757 0765 0767 0768 0792
+     0795 0828: complete; 0755's verse written without its tercet numbers (15–20, both
+     columns, added). 18 other places not as printed (fixed): apostrophe gaps written where
+     none is printed (0747 `de'martiri`, `Co'suoi`, `co'sospiri`, 0765 `all'acto`,
+     `l'andar`, 0768 `quest'è`, 0792 `Che'l`, `che'n`) and left out where printed (0795
+     `a' peregrin`, 0828 `m' apparve`); punctuation (periods written as commas: 0765
+     `ego.`, `exempla.`, 0768 `marinus.`, 0828 `dicatur.`, `nube.`; colons as semicolons:
+     0765 `recolligit:`, 0767 `humani:`, `coctura:`; 0726 verse `fiamma,` without its
+     comma). Kept as printed: 0726 `calide, et` (comma set low), 0747 `Bardaggia`, 0755
+     `di's'io`, `intellecto`, 0765 `mirar`, 0757 `Or va' ,`, `(³,` on 0726 and 0828. In
+     `ocr/la`, answers in `bak3/` (`done9.txt`); `la_check.py` counts agree after 0755's
+     numbers (it misses one rule on 0726 and 0828 and sees the page-end rule). Markup
+     (paid, by the user, `-r 3`) re-checked with `-r 0`: 11 differences missed in 8 pages,
+     4 entries not placed (0757, 0765), all GLM-OCR's: its Latin verse and gloss blocks
+     placed elsewhere (0757, 0828), words it joined or split at line ends (0757 `in-`/
+     `ceperunt`, `inisto`, 0768, 0792), and misreadings (0765 `Tune`, 0767 `-oresm`).
+   - **Batch 10** (`tmp/herdr-task-retype10.md`): 0832 0839 0851 0856 0863 0877 0901 0906
+     0912 0917: complete, tercet numbers and apostrophes right; the page head written on
+     one line on 0877, 0906, 0917 (put in the usual form), 0877 two gloss dashes `--`.
+     10 places not as printed (fixed): 0832 `provam` (written `probam`), 0877 `pre-`/
+     `mictit` (written `mittit`), 0863 `Frantie` (written `Francie`), 0832 gloss `⁴)`
+     printed without its opening bracket; punctuation (0839 `iudice.`, 0863
+     `resurgerent.`, 0906 `essent,`, 0917 `posita:`, 0901 `platonica :` with a space).
+     Kept as printed: 0912 `quïeta`, `E'`, 0917 `Seraphin`/`Serafin`; 0901 and 0912
+     are essay pages. In `ocr/la`, answers in `bak3/` (`done10.txt`); `la_check.py`
+     misses one rule on 0832 and finds a spurious one below the page on 0839. Markup
+     (paid, by the user, `-r 3`) re-checked with `-r 0`: 2 differences missed, none not
+     placed; both at words broken at line ends (0856 `Testa-`/`menta` next to
+     `Testamento`, where `-r 0` dropped the wrong entry; 0912 `azione,`).
+   - **Batch 11** (`tmp/herdr-task-retype11.md`; sent again to a new la-el-agy session
+     after an OS crash, its partial files kept in `tmp/la-retype/agy-crash11/`): 0919 0921
+     0922 0923 0930 0954 0968 0987 0988 0989: complete, page heads and tercet numbers
+     right. 32 places not as printed (fixed), mostly punctuation: 20 periods written as
+     commas or left out (0921 `caritatem.`, 0922 `hic.`, `sacra.`, `unda.`, 0930 `Ammon.`,
+     `plorare.`, `faciendo.`, `Israel.`, `ducit.`, `fatua.`, 0954 `animam.`, `ingenium.`,
+     0968 `oppositum.`, `carum.`, `potest.`, `virtutem.`, 0987 `dividitur.`, `planete.`,
+     `Cancrum.`, 0989 `conveniebat.`), colons as semicolons (0930 `Agamennon:`,
+     `dirigit:`); apostrophe gaps written where none is printed (0919 `suo'malitia`,
+     `de'mortali`, 0921 `ha'l`, `fe'di`, 0923 `vo'saper`, 0989 `m'accors'`, `ch'er'entro`,
+     `entra'mi`); letters (0922 `undecumque`, 0954 `influentie`). Kept as printed: 0923
+     `se 'l`, 0988 `t' ò`, `ond' io so' facto`, 0989 `accors' io`. In `ocr/la`, answers in
+     `bak3/` (`done11.txt`); `la_check.py`'s extra rule on 0930, 0954, 0989 is the
+     page-end rule; it misses one rule on 0922 and 0968. Markup (paid, by the user,
+     `-r 3`) re-checked with `-r 0`: 5 differences missed in 5 pages, 4 entries not
+     placed (0954, 0968, 0987, 0988), all GLM-OCR's or the answer's: 0921's Latin verse
+     block placed elsewhere, 0922 `Grecivolebant` joined, 0987 `duodecim signa: ibi sunt`
+     left out by GLM-OCR, 0954 an entry overlapping the one before, 0968 `diverse` twice
+     on its line, 0988 an answer reading `septentrio-` for the printed `septemptrio-`.
+   - **Batch 12** (`tmp/herdr-task-retype12.md`): 0992 1001 1005 1006 1015 1016 1029 1032
+     1040 1041: complete; paragraphs indented with four spaces on 1029, 1032, 1040 (17
+     lines, unindented). 21 places not as printed (fixed): periods written as commas or
+     left out (0992 `modernum.`, `crescit).`, `Theologia.`, `Renum.`, 1005 `potenti.`,
+     `predicavit.`, 1006 `capituli.`, 1015 `facem.`), colons as semicolons (1006
+     `Dominicus:`, 1040 `corporis:`, `qualificationem:`), commas left out (1016
+     `invicem),`, `fecit,`, 1029 verse `secondo,`), apostrophe gaps left out (0992
+     `s' infiora`, 1006 `com' el`, `ch' esser`), 1040 `udii` twice (written `udiì`), 1029
+     `animam` (its `m` broken; reported as a misprint `aninam`), 1032 `┴.` (written `┴ .`).
+     1032's two small figures in the text are written `┴` and `X` (the printed shapes, in
+     `lineam rectam ut hic, ┴.` and `sicut hic, X.`). Kept as printed: 1029
+     `scientia … fe-`/`cundata`, 1041 `scientiticorum`, 1040 verse `luce` against the
+     commentary's `voce`. In `ocr/la`, answers in `bak3/` (`done12.txt`); `la_check.py`
+     misses one rule on 0992, 1006, 1040 and 1015's signature blank, and sees the page-end
+     rule on 1016. Markup (paid, by the user, `-r 3`) re-checked with `-r 0`: 3
+     differences missed, none not placed, all at GLM-OCR's joins (1006 `periperolem` for
+     `per iperbolem`, 1016 `can-`/`taverant`, 1032 `solem-`/`pnitatibus`).
+   - **Batch 13** (`tmp/herdr-task-retype13.md`): 1043 1047 1052 1054 1066 1078 1080 1089
+     1097 1099: complete, no indentation; 1047 an essay page (two title lines), 1097 a
+     summary page (`CAPITULI DECIMINONI SUMMARIUM`, the old file's `DECIMNONI` was wrong),
+     where a blank line at the column change, with no rule printed, was removed. 23 places
+     not as printed (fixed): periods written as commas (1043 `Sol.`, `suum.`, 1054 `me.`,
+     `posse.`, `Deo.`, 1066 `idest.`, 1080 `care.`, 1089 `cordula.`, 1097 `facit.`, 1099
+     `deitate.`, `quelibet.`), colons as semicolons (1052 `intellexisse:`, `posuit:`, 1066
+     `rus:`, 1078 `concordare:`), 1043 `anime;` and 1052 `mea,` swapped; apostrophe gaps
+     (1052 `agl' ochi`, `noll' intesi` left out, 1054 `ne'mortali` written); 1099 verse
+     `scripse` (written `scrisse`), 1066 `Imperatori` with a Cyrillic `г`, 1099 the
+     misprint `elementia` (written `clementia`). Kept as printed: 1052 `intel-`/`xisse`,
+     1066 `infirmate`. In `ocr/la`, answers in `bak3/` (`done13.txt`); `la_check.py` sees the page-end rule on 1066 and
+     1078 and misses 1099's gap between sections. Markup (paid, by the user, `-r 3`)
+     re-checked with `-r 0`: 11 differences missed in 8 pages, 1 entry not placed (1052);
+     the text was right at each (1054 `supple,` and `etc ,`, printed so, checked in the
+     image): GLM-OCR's Latin verse blocks placed elsewhere (1043, 1078), its joins at line
+     ends (1052 `intel-`/`xisse`, 1099 `hysto-`/`[riam`) and misreadings (1047, 1066,
+     1097).
+   - **Batch 14** (`tmp/herdr-task-retype14.md`): 1104 1112 1114 1123 1143 1145 1148 1155
+     1165 1175: complete, no indentation, rules and blank lines right. 45 places not as
+     printed (fixed): 30 periods written as commas (14 on 1175, 7 on 1148), 7 colons as
+     semicolons (1104 `crucifixus:`, 1112 `equitate:`, 1155 `nem:`, `etc.:`, `videtur:`,
+     1175 `extinctus:`, `loqui:`), 1148 `affectus` (comma added) and `Virginis,` (comma
+     left out), apostrophe gaps (1104 `fe’ e`, 1114 `buon’ intention`, `gl’ è` left out,
+     1123 `agl’ochi`, 1175 `s’appunta`, `agl’occhi` written). The page heads of 1165 and
+     1175, printed `CAPITULUM … 1111` on one line, put as title and number on two lines
+     (as on 73 other pages); 1165's broken gloss mark `(¹,` written `(¹)`. The text with
+     no other reading (1114, 1143, 1155, 1165) checked in the image. In `ocr/la`, answers
+     in `bak3/` (`done14.txt`); `la_check.py` misses a rule on 1114, 1143, 1155 and 1165.
+     Markup (paid, by the user, `-r 3`) re-checked with `-r 0`: 8 differences missed in 5
+     pages, 5 entries not placed (1112, 1143, 1155, 1165); the text was right at each:
+     GLM-OCR's Latin verse block placed elsewhere (1112) and a paragraph run into the
+     verse (1114), its joins at line ends (1104 `dam-`, 1112 `progeni-`, 1143 `spe-`/`ra-
+     rum`, `ha-`, 1155 `con-`/`cepi.`).
+   - **Batch 15** (`tmp/herdr-task-retype15.md`): 1176 1187 1189 1190 1191 1192 1193 1211
+     1214 1218: complete, no indentation. On 1189–1193 every rule was written as a line
+     `—` (the report called them blank lines): turned into blank lines, 1193's rule at the
+     foot of the left column added; the blank lines then checked against the image on all
+     ten pages (1192's three right-column section gaps have no visible rule). 29 places
+     not as printed (fixed): 13 periods written as commas or left out, 1192 `varias:`,
+     `totum:` and 1214 `Deo;` swapped, 1214 `tantum,`; 12 spellings changed (1218
+     `disgressi` ×4, `disgressio-`, `impinguat`, `impinguatur`, `illam`; 1176 `angusto`;
+     1189 `opportet`, `corrupit`; 1193 `quinus`). Broken gloss marks (1190, 1192, 1193
+     `²)`) written whole. The text with no other reading (1190, 1191, 1214) checked in the
+     image. In `ocr/la`, answers in `bak3/` (`done15.txt`); `la_check.py` misses rules on
+     1176, 1190, 1193 and 1211 and 1192's gaps.
+     Markup (paid, by the user, `-r 3`) re-checked with `-r 0`: 14 differences missed in 7
+     pages, 2 entries not placed (1176, 1193); the text was right at each (1176
+     `quecumque` one word in the image): GLM-OCR's Latin verse blocks placed elsewhere
+     (1187, 1193), its runover `[cinto` (1193), its lost `c` (1187 `cambi[a]-`, 1211
+     `cambiando`) and spacing (1211), its joins at line ends (1189 `Chri-`/`stiani`, 1190
+     `vice-`, 1193 `dele-`, 1218 `vi-`/`giliis`).
+   - **Batch 16** (`tmp/herdr-task-retype16.md`): 1223 1224 1226 1231 1235 1236 1238 1247
+     1259 1277: complete, no indentation, rules as blank lines. 1247's Latin verse was not
+     as printed (a translation of the Italian: `tam pulchra est ad pedes suos`, `subtus`,
+     `prout`, `Sarram, Rebeccam`, `cantoris, qui pro dolore`, …): its 8 lines retyped from
+     the image; a blank line put before its `[figure]` (as on 1245). 24 places not as
+     printed (fixed): 9 periods written as commas, 4 colons as semicolons, 6 apostrophe
+     gaps, 1224 `metaphorice,`, 1236 a stray mark before `gnum`, 1277 `gubernas` without
+     accent. The report's glosses for 1223, 1226, 1235 and 1238 do not match the files
+     (the files are right). 1231 is the essay `IL LUME DI GLORIA` (Italian, one column).
+     The text with no other reading (1223, 1236) is in the Tesseract words. In `ocr/la`,
+     answers in `bak3/` (`done16.txt`); `la_check.py` misses one rule each on 1235
+     and 1236, and 1226's gap before `Et etiam` has no rule.
+     Markup (paid, by the user, `-r 3`) re-checked with `-r 0`: 10 differences missed in 4
+     pages, 1 entry not placed (1247 `beccha`, a line-end split); the text was right at
+     each: GLM-OCR's spacing (1223 `de mones`, 1231 `,cioè`, 1238 `Deum;quem`, 1247
+     `(¹), che`), its lost or doubled letters (1231 `dell'infinite`, 1238 `medidiante`,
+     1247 `Rebecha` ×2, a lost `Deus,`) and 1238's gloss mark `(')`.
+   - **Batch 17** (`tmp/herdr-task-retype17.md`): 1280 1281 1283 1285 (commentary only, no
+     rules): complete, no indentation. 11 places not as printed (fixed): 1280 `dicit.`,
+     `videbuntur,`, `doverion`, `Com' aqua`; 1283 `rinfonde`, `mictit`; 1285 `viginti`,
+     `intellectu.`; and three italic `v` read as `r` or a tick (1283 `ritrovi`, 1285
+     `vedute`, `diverse`: this italic `v` looks like `r` in the scan, as in `rimuovi`,
+     `vetro`, `Rivolto` that were written with `v`). Kept as printed: 1281 `omuibus`,
+     `splendolum`, 1285 `caasantur`; 1281 `Notar` (damaged italic, GLM-OCR and Tesseract
+     read `Notur`). In `ocr/la`, answers in `bak3/` (`done17.txt`).
+     Markup (paid, by the user, `-r 3`) re-checked with `-r 0`: 3 differences missed in 3
+     pages, 1 entry not placed (1281, overlapping); the text was right at each: GLM-OCR's
+     `ruro` (1281) and `to tum` (1283); on 1285 a wrong entry (`ostendere.`, the print has
+     `,`), which the re-check dropped.
+   - **Batch 18** (`tmp/herdr-task-retype18.md`): the front matter 0046 0048 0049 0050
+     (papal documents in two columns), with its own layout: number and `DOCUMENTA` as
+     printed, `Doc. N.` and its date on two lines between blank lines, the source note on
+     its own line, a row of dots `. . . . .`: complete (Doc. 2 end to Doc. 19 start), no
+     indentation, word counts within a few of GLM-OCR's. 2 places not as printed (fixed):
+     0049 `nolumus` (written `volumus`), 0048 `qualiacumque,fecerint` (no space in the
+     print). Kept as printed: 0049 `inibitionem`, `(Ibid.` without its bracket, 0050
+     `excomunicari`. In `ocr/la`, answers in `bak3/` (`done18.txt`).
+     Markup (paid, by the user, `-r 3`) re-checked with `-r 0`: 4 differences missed in 3
+     pages, none not placed. Two were dot runs written wrong, fixed after the markup: 0048
+     `illi... qui` (a printed ellipsis, not a row of dots) and 0050 `eadem. . . . . .` (a
+     period, then the dots); their answers no longer place on those lines (1 entry each),
+     left for item 7. The others: 0048 `qualiacumque,fecerint` as printed, 0049 GLM-OCR's
+     `nuliatenus` against the dot rows. With this batch the retyping of item 6 is done.
+7. **Model decisions** (paid), after item 6: a new work directory over all pages,
+   `la_markprep.py`, then `la_markdecide.py` (procedure, steps 3–4).
+8. **Batches 3–11**: procedure steps 5–11, batch by batch.
 
 Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``), a transcription artifact to remove in their batches.

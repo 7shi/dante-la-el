@@ -1,3 +1,5 @@
+384
+
 INFERNI
 
 ³⁸ Noi procedemmo più avanti allocta,
@@ -8,7 +10,7 @@ Che fece Scipion (³) di gloria reda (⁴),
 Quando Hannybal co' suoi diede le spalle (⁵),
 ⁴⁰ Recasti già (⁶) mille leon per preda,
 E che se fussi stato all'alta guerra
-De tuo' fratei (⁷), ancor par che si creda,
+De tuo'fratei (⁷), ancor par che si creda,
 ⁴¹ Ch'havrebber vincto (⁸) e figli della terra (⁹);
 Mettine giù (¹⁰) (e non ten vegna schifo)
 Dove Coccyto (¹¹) la freddura (¹²) serra.
@@ -19,9 +21,12 @@ Però ti china, e non torcer el grifo.
 Ch'ei vive, e lunga vita ancor aspecta,
 Se 'nnanzi tempo gratia a sè nol chiama.
 
+(¹) misure così dette. — (²) d'Affrica. — (³) affricano. — (⁴) herede. — (⁵) si fuggì. — (⁶) dalla caccia. — (⁷) Giganti. —
+(⁸) gli Dei. — (⁹) e Giganti. — (¹⁰) noi nel pozzo. — (¹¹) fiume infernale. — (¹²) del ghiaccio. — (¹³) fama.
+
 ³⁸ Nos processimus tunc ulterius,
 Et venimus ad Antheum, qui bene quinque alis,
-Sine capite, exibạt extra gruptam.
+Sine capite, exibat extra gruptam.
 ³⁹ O tu, qui in fortunata valle
 Que fecit Scipionem glorie heredem,
 Quando Hannibal cum suis dederunt terga,
@@ -29,7 +34,7 @@ Quando Hannibal cum suis dederunt terga,
 Et qui si fuisses in alta guerra
 Tuorum fratrum, adhuc apparet quod credatur,
 ⁴¹ Quod victoriam habuissent filii terre;
-(Pone nos infra (non tibi veniat schifum)
+Pone nos infra (non tibi veniat schifum)
 Ubi Cocitus a frigore clauditur.
 ⁴² Non facias nos ire ad Titium aut Typhum:
 Hic potest dare de illo quod hic appetitur:
@@ -38,35 +43,60 @@ Ideo inclina te, et non torqueas grifum.
 Quia vivit, et longam vitam adhuc expectat,
 Si ante tempus gratia ad se non vocaverit ipsum.
 
-(1) misure così dette. — (2) d'Affrica. — (3) affricano. — (4) herede. — (5) si fuggi. — (6) dalla caccia. — (7) Giganti. —
-(8) gli Dei. — (9) e Giganti. — (10) noi nel pozzo. — (11) fiume infernale. — (12) del ghiaccio. — (13) fama.
+se crollasset, vel si se movisset modicum, accepisset michi
+vitam, idest privasset me vita. Vel dicas dotta, idest timor:
+quasi dicat: Solus timor me occidisset, nisi vidissem vin-
+cula: si ego non vidissem retortuosas, scilicet catenas, quia
+catena habet annulos retortuosos.
 
 Nos processimus ultra: hec est quarta pars huius ca-
 pituli, in qua fit mentio de alio gigante, scilicet Antheo,
 soluto. Nos processimus ulterius tunc et venimus ad An-
 theum, qui bene quinque alis (ala est mensura, sicut
 canna in Florentia: sic vocatur in Flandria et in Anglia),
-sine, idest excepto, capite, exibạt extra gruptam, idest ri-
+sine, idest excepto, capite, exibat extra gruptam, idest ri-
 pam, vel putheum. Modo ecce pulchram orationem factam
 Antheo, idest ad Antheum.
 
 O tu, qui in fortunata valle que fecit Scipionem glorie
 heredem, quando Annibal cum suis dederunt terga, idest
-adhuc appare,ret quod credatur (nota quod prope Uticam
-civitạtem, que est in Africa, est vallis que vocatur Vallis
+habuerunt conflictum, reportasti iam mille leones pro
+preda; et qui si fuisses in alta guerra tuorum fratrum,
+adhuc appareret quod credatur (nota quod prope Uticam
+civitatem, que est in Africa, est vallis que vocatur Vallis
 Bragade. Tale nomen vallis sumitur a nomine unius fluvii,
 qui fluit per illam vallem, qui fluvius vocatur Bragade. In
 illa valle Marcus Regulus dedit unum magnum conflictum
 Cartaginensibus: sed in eadem valle ille maximus Scipio
 Africanus dedit conflictum Annibali: in eadem valle vicit
-Scipio Africanus, fortis homo: derobabạt omnes transeuntes
+Sifacem confederatum Annibali, et in hac valle Scipio acqui-
+sivit magnam gloriam propter victorias, quas in ipsa ha-
+buit. In hac valle dominabatur iste Antheus: nam Antheus
+fuit Africanus, fortis homo: derobabat omnes transeuntes
 illac. Dicit Pomponius quod suis temporibus ostendebatur
+unus clipeus, qui fuerat istius Anthei, quem quasi homo
+nullus poterat movere, nedum non ferre. Dicit textus: Mille
+leones portabat pro preda: hoc potuit faciliter esse, quia
+in partibus illis sunt multi leones: sed melius potest dici,
+quod mille potentes ipse vicit: et licet etiam sit falsum
+quod mille potentes devicerat, potest dici quod hoc dictum
+fuit hic ad captandum benevolentiam. Ideo ista vallis di-
+citur fortunata, propter tot victorias per Romanos in ipsa
+habitas. Falsum est etiam quod si Antheus fuisset cum
+aliis Gigantibus, credendum esset quod Gigantes habuis-
+sent de diis victoriam: sed hoc etiam dicitur ad captandum
+benevolentiam ipsius Anthei. Sic aliquando est bene lici-
+tum blandiri tyrampnis), quod victoriam habuissent filii
+terre (idest Gigantes, idest superbi, qui nihil, nisi terrena,
+sapiunt), pone nos infra, non tibi veniat cyfum, idest non de-
+digneris, ubi Cocitus, fluvius Inferni frigidissimus, a frigore
+clauditur, idest congelatur. Cocitus interpretatur luctus.
 
 Non facias nos ire ad Titium, aut ad Typhum. Hi sunt
 duo alii Gigantes. Hic potest dare de illo quod hic appe-
 titur, bramatur, scilicet fama. Ideo inclina te, et non tor-
 queas gryfum, idest musum, idest os, vel faciem. Adhuc
-potest in mundo reddere famam, quia vivit et longam
+tibi potest in mundo reddere fainam, quia vivit et longam
 vitam adhuc expectat. Hic prophetat, sicut evenit, quia
 Dantes, postquam hunc librum incepit, vixit viginti uno
 annis. Videtur quod fama desideretur. Unde dicit quod
@@ -75,20 +105,3 @@ pulchrum Achillis, dixit: O beate iuvenis, qui habuisti talem
 tubam ad dicendum tua facta, scilicet Homerum! Quasi
 dicens: Heu michi, quia meo tempore nullus est, qui de-
 scribat gesta mea, que mererentur magnam famam, et sic
-
-unus clipeus, qui fuerat istius Anthei, quem quasi homo
-nullus poterạt movere, nedum non ferre. Dicit textus: Mille
-leones portabạt pro preda: hoc potuit faciliter esse, quia
-in partibus illis sunt multi leones: sed melius potest dici,
-quod mille potentes vicerat, potest dici quod hoc dictu
-fuit hic ad captandum benevolentiam ipsius vallis di-
-citur fortunata, propter tot victorias per Romanos in ipsa
-habitas. Falsum est etiam quod si Antheus fuisset cum
-Gigantibus, credendum esset quod Gigantes habuis-
-sent de diis victoriam: sed hoc etiam dicitur ad captandum
-benevolentiam ipsius Anthei. Sic aliquando est bene lici-
-tum blandiri tyrannis), quod victoriam habuissent filii
-terre (idest Gigantes, idest superbi, qui nihil, nisi terrena,
-cupiunt), pone nos infra, non tibi veniat cyfum, idest non de-
-digneris, ubi Cocitus, fluvius Inferni frigidissimus, a frigore
-clauditur, idest congelatur. Cocitus interpretatur luctus.

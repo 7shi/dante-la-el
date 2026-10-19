@@ -1,3 +1,7 @@
+774
+
+PURGATORII
+
 ⁸ Io vidi già nel cominciar del giorno
 La parte oriental tutta rosata (¹),
 E l' altro ciel di bel sereno addorno,
@@ -6,7 +10,7 @@ Sì che per temperanza di vapori
 L'occhio la sostenea lunga fiata (²):
 ¹⁰ Così dentr' una nuvola di fiori,
 Che dalle mani angeliche saliva,
-E ricidea in giù dentr'e di fuori,
+E ricidea in giù dentr' e di fuori,
 ¹¹ Sovra candido vel (³) cincto d'uliva
 Donna m' apparve, socto verde manto,
 Vestito di color di fiamma viva.
@@ -17,7 +21,7 @@ Non era di stupor, tremando, affranto,
 Per occulta virtù che da lei mosse,
 D'antico amor sentì la gran potenza.
 
-(¹) al. arrossata — (²) per buono spatio di tempo — (³) velo.
+(¹) al. arrossata — (²) per buono spatio di tempo — (³, velo.
 
 ⁸ Ego vidi iam in principio diei
 Partem orientalem totam rosatam,
@@ -38,26 +42,58 @@ Non erat ex stupore, tremendo, fractus,
 Propter occultam virtutem que ab ea movit,
 Antiqui amoris sensi[t] grandem potentiam.
 
+darent lilia plenis manibus; idest, libri conditi et compilati
+per sanctos viros, prophetas, et doctores, et dicta florida
+sanctorum, de[n]tur copiose: in medio talium florum, idest
+librorum Biblie et Sanctorum Patrum [et] Doctorum, repe-
+ritur ista domina.
+
+Ego vidi iam. Io vidi già: ista est secunda pars istius
+capituli, in qua describitur apparitio Beatricis. Nota quod
+propter vapores grossos et spissos, qui aliquando sunt in
+aiere, maxime de sero vel de mane, radii solares, penetrantes
+per illos, ita comparantur, ut per illos respiciendo possit
+satis bene intueri solem aliquis. Modo aliquando auctor
+sic vidit in oriente solem oriri, quod propter tales vapores,
+intermedios inter ipsum videntem et solem, satis bene vidit
+solem, esto quod residuum celi esset serenum; et sic par-
+tem orientalem rubeam vidit auctor, quia radii solares, sic
+penetrantes tales vapores, efficiunt quamdam rubedinem in
+dictis vaporibus, de quibus fit quasi una nubes. Consimi-
+liter dicit auctor, quod vidit intra unam nubem florum
+cadentium de manibus angelorum, unam dominam, haben-
+tem candidum velum in capite, supra velum erat sertum
+de oliva, indutam tunica rubea et circumdatam mantello
+viridi. Quam videns, quia diu steterat sine sua presentia,
+subito spiritus ipsius auctoris, propter quamdam virtutem
+occultam, ab illa domina [procedentem], perterritus de an-
+tiquo amore, quia alio tempore dilexit eamdem dominam,
+sensit quamdam vim. Hanc dilexit dum esset novem an-
+norum, et ipsa octo, que vocata fuit Bici, sive Beatrix, filia
+domini Fulchi de Portenariis, nobili domo de Florentia.
+Dilexit eam igitur antequam exiret de pueritia, que durat
+usque ad tertiumdecimum annum.
+Ego vidi iam in principio diei, idest recordor iam me
 vidisse (quando erat pulchrum serenum [vidi] partem orien-
 talem rubeam, sole oriente, et bene poteram pati radios
 eius propter vapores grossos, qui contemperabant illos quos
-exhalabant partem orientalem totam rosatam, idest rubicun-
+velabant) partem orientalem totam rosatam, idest rubicun-
 dam, et aliud celum, idest alias partes celi, pulchra sere-
 nitate adornum, idest ornatum, et faciem solis nasci, idest
-primum apparere interdum [propter] vapores grossos, qui
+oriri, umbratam (scilicet [propter] vapores grossos, qui
 erant in aiere inter solem visum et me videntem), ita quod
-propter temperantiam vaporum (scilicet propter radios solis
+propter temperantiam vaporum, oculus, scilicet meus, ipsum,
 scilicet solem, substinebat longo tempore, idest spatio: sic
-intra unam nubem florum, que a manibus angelicis ascen-
-debat sursum, idest scilicet, quasi proiecta a manibus an-
-gelorum, et recadebat infra intra et extra (quasi dicatur:
+infra unam nubem florum, que a manibus angelicis ascen-
+debat sursum, idest saliebat, quasi proiecta a manibus an-
+gelorum, et recadebat infra intra et extra (quasi dicatur.
 quod ista domina non potest perfecte videri nisi sub qua-
 dam nube. idest figura), super candido velo, cincta oliva,
-domina michi apparuit, sub viridi manto, idest mantello
-viridi, vestita colore flamme vive. ista erat velata velo albo, quod
+domina michi apparuit, sub viridi manto, idest mantello,
+vestita colore flamme vive. Ista erat velata velo albo, quod
 significat fidem puram; circumdata mantello viridi, figu-
-rante spem vivacem et durantem; et vestita tunica rubea,
-quod ostendit caritatem; et supra sertum habebat
+rante spem vivacem et durantem; vestita tunica rubea,
+denotante accensam caritatem; et supra sertum habebat
 de ramo olive, figurante pacem, amorem, dilectionem per-
 fectam.
 
@@ -66,6 +102,6 @@ cum sua presentia, scilicet animo et desiderio (sed non rea-
 liter, quia decem anni erant quod Beatrix moriebatur, sed
 semper interdum animo et corde erat cum ipsa) non erat ex
 stupore, tremendo, fractus, idest non poteram ex stupore
-interrupte, sine oculorum habendo maiorem cognitionem pro-
-pter occultam virtutem que ab ea movit, antiqui amoris
-senti[t] grandem potentiam.
+resilire, sine oculorum habendo maiorem cognitionem pro-
+pter occultam virtutem, que ab ea movet, antiqui amoris
+sensi grandem potentiam.

@@ -1,4 +1,5 @@
 1182
+
 PARADISI
 
 ⁹ Questo sicuro e gaudioso regno,
@@ -8,12 +9,12 @@ Viso et amor havea tutto ad un segno.
 Scintillando a lor vista sì li appaga,
 Guarda quaggiù a la nostra procella.
 ¹¹ Se e barbari, venendo da tal plaga,
-Che ciascun giorno d'Elyce si cuopra (¹),
+Che ciascun giorno d'Elyce si cuopra(¹),
 Rotante col suo figlo (²) ond'ell'è vaga,
 ¹² Veggendo Roma e l'ardua sua opra
 Stupefaciensi, quando Laterano (³)
 A le cose mortali andò di sopra;
-¹³ Io, Dante, ch'al (⁴) divino dall'umano,
+¹³ Io, Dante, ch' al (⁴) divino dall'umano,
 All'eterno dal tempo era venuto,
 E (⁵) di Firenze in popol (⁶) iusto e sano,
 ¹⁴ Di che stupor dovea esser compluto!
@@ -23,7 +24,7 @@ Libito non udir e starmi muto.
 (¹) di tramontana, Ursa — (²) Archade el quale è nella stella Boote — (³) Palazo imperiale di Roma — (⁴) che al. —
 (⁵) et era venuto — (⁶) di beati.
 
-⁹ Istiud securum et gaudiosum regnum,
+⁹ Istud securum et gaudiosum regnum,
 Frequens in gente antiqua et novella,
 Visum et amorem habebat totum ad unum signum.
 ¹⁰ O trina lux, que in unica stella
@@ -42,32 +43,67 @@ Et de Florentie populo iusto et sano,
 Certe inter ipsum et gaudium michi faciebat
 Libitum non audire et stare mutum.
 
+punctum, et inter flores. Et causa est, quia lux divina est
+penetrans per universum, secundum quod est dignum, quod
+nihil potest esse sibi obstans. Idest: divina lux penetrat se-
+cundum qualitatem recipientis, ita quod divina gratia dif-
+funditur secundum qualitatem ipsam recipientem. Etiam
+tantum fuit [dictum] in principio primi capituli huius Pa-
+radisi.
+
+Iam imponit auctor finem prime parti, ostendens quod
+tam angeli, quam spiritus humani, respiciebant et amabant
+unum et idem signum, idest unum Deum, et dicit: Istud
+securum (ad differentiam regnorum mundi, [qui] sunt cum
+timore et cum suspicione ac tremore; iuxta illud Senece,
+tragedia secunda in Tieste, Dum excelsus fui, nunquam
+pavere destiti) [et gaudiosum regnum] frequens, idest ple-
+num, in gente antiqua et novella, visum et amorem habebat
+totum ad unum signum, scilicet Deum.
+
+O trina lux, que in unica stella. O trina luce, che
+in unica stella: hec est secunda pars huius capituli, in
+qua auctor describit orationem suam et facit. Nam auctor
+erat in celo et in ultima spera, ubi summa felicitas osten-
+ditur: qua visa, recordatur miseriarum quas reliquit in
+mundo; quia reliquerat fames, guerras, discordias et mala
+quasi infinita, et erat iam in loco gaudio pleno et bona
+letitia; et ideo orans dicit: O trina lux (scilicet persona-
+liter, quia essentialiter non est nisi una), que in unica
+stella, idest natura, vel essentia, vel in uno Deo, vel flore,
+sive uno puncto, sintillando, idest sintillas tui amoris mi-
+ctendo, ad eorum, scilicet beatorum, visionem, eos quietas,
+idest beatificas, respice infra ad nostram procellam, idest
+ad tempestatem nostram, que est maior quam sint pro-
 celle, idest tempestates, maris. Sic orabat Boetius. primo
-de Consolatione, cantu sexto, quando dicebat: Quatimur
+de Consolatione, cantu sexto, quando dicebat: Quo celum
 regis immensum, firma stabiles federe terras. Quatimur
 sale fortune.
 
 Iam vult ostendere dispositionem suam, quam habuit
 quando conductus fuit in tot gaudia et inter tot delecta-
 tiones, et dicit quod erat totus stupefactus et in stupore
-et in admiratione positus; et modo respiciebat
+conversus et in admiratione positus; et modo respiciebat
 ad unam rem, modo ad aliam, convertendo se hinc inde;
-et eveniebat sibi hic sicut eveniebant barbaris et extraneis
+et eveniebat sibi hic sicut eveniebat barbaris et extraneis
 nationibus, quando veniebant Romam. Tunc quando ipsa
 Roma erat in flore, et quando Roma habebat statum ma-
-gnum et triumphabatur per universum et dominabatur toti
+gnum et triumphabat per universum et dominabatur toti
 orbi, tunc in Roma erant edificia magna, alta et mirabilia,
-quibus homines speculabantur, et videndo admiraban-
-tur, maxime illi qui non viderant similia; et qui in suis
-partibus non habent pulchra edificia nec notabilia, sed
-habent viles, sicut sunt Goti, Dacii, qui sunt quasi sub
-nivibus. et ha-
-bent vilia, sicut sunt illi qui habitant Tanam.
-Hii. venientes Romam, respiciebant hinc inde, modo ad
+in quibus homines speculabantur, et videndo admiraban-
+tur, maxime illi qui non viderant similia; et super omnes
+illi qui veniebant de longinquo Romam, et qui in suis
+partibus non habent pulchra edificia nec notabilia, sicut
+barbari qui habitant sub transmontana in partibus aqui-
+lonaribus et septemtrionalibus, quia communiter tales non
+habent pulchra edificia, sed habent habitationes satis viles,
+sicut sunt Goti, Dacii, qui sunt quasi sub nivibus. et ha-
+bitacula habent vilia, sicut sunt illi qui habitant Tanam.
+Hii, venientes Romam, respiciebant hinc inde, modo ad
 domus altas et magna edificia, modo ad pallatia, modo
 ad arcus triumphales, modo ad ydola, modo ad sepulchra,
-modo ad Coliserum, modo ad Termas Diocletianas, modo
+modo ad Coliseum, modo ad Termas Diocletianas, modo
 ad Capitolium: et notanter loquitur de illis qui omni die
 cooperiuntur de Elice. Nota quod Elice, alio nomine Ca-
 listone, fuit una nympha Dyane, quam violavit Iuppiter,
-ex qua genuit Archadem filium. Ista Calistone stelliticata
+ex qua genuit Archandem filium. Ista Calistone stellificata

@@ -1,13 +1,14 @@
-1227
 CANTICA PARADISI
+1227
 
-Et io, subintelligitur Dantes, respondi, vel subjunxi: Ciò
-che n'appar quassù diverso, credo che 'l fanno e corpi
+Et io, subintelligitur Dantes, respondi, vel subiunxi: Ciò
+che n'appar quassù diverso, credo che'l fanno e corpi
 rari e densi. Idest id quod in celo videtur alterius coloris
 quam celum, faciunt corpora rara et densa. Hoc est: celum
 ubi rarum est, stellas ostendit, quia splendor celi cristal-
 lini, quod est primum mobile, trascendit, seu penetrat, ra-
 ritatem octave spere, idest celi siderei, et sic ostendit
+radios et apparet stella; ubi vero est densum, ostendit
 colorem celi, quia splendor non penetrat. Et sic illud idem
 credo de luna, que in aliqua parte est clara, scilicet ubi est
 densa, et in alia parte est obscura, seu umbrosa, videlicet
@@ -22,7 +23,7 @@ apparent nobis stelle; quem splendorem primum mobile
 habet a celo Empyreo, quod totum est lux et amor, ut
 dicitur infra, in cantu vigesimoseptimo. Et ut ostendat hanc
 opinionem esse falsam, auctor fingit esse suam. Et non
-solum in illo celo, sed etiam in omnibus inferioribus illo,
+solum in illo celo, sed etiam in omuibus inferioribus illo,
 qui sunt de rariori materia quam spera octava. Quod
 probat, quia non impediunt nobis visionem octave spere,
 quam quidem nullatenus videremus, si inferiores essent
@@ -34,7 +35,7 @@ densa, non resplendet nec apparet ibi stella. Et hec est
 auctoris opinio, ut ipse fingit, ut ostendat postea veritatem
 secundum Beatricem, idest Sacram Theologiam, que hanc
 damnat opinionem. Unde sequitur, Et ella, etc. Ponit Beatri-
-cem damnautem opinionem suam, ac dicit, certo assai, etc.
+cem damnantem opinionem suam, ac dicit, certo assai, etc.
 ut patet in textu clare.
 La spera octava, etc. Hic incipit argumentatio Beatri-
 cis, idest Theologie, contra opinionem Dantis, in qua dicit
@@ -46,9 +47,9 @@ videri esse diverse in qualitate splendoris earum, quia una
 est splendidior altera; et etiam in qualitate, quia una est
 maior altera. Unde dicit: La spera octava (idest celum
 sidereum, in quo stelle sunt fixe, quod est octavum a celo
-lune, quia celi planetarum sunt septem, et illud superius
-primo mobili) mi dimostra molti lumi, idest multas stellas
-luminosas, li quali nel quale e nel quanto Nobil si posson
+lune, quia celi planetarum sunt septem, et illud superius,
+ergo octavum) vi dimostra molti lumi, idest multas stellas
+luminosas, li quali nel quale e nel quanto Notar si posson
 per diversi volti, idest que stelle possunt comprehendi
 esse diverse per diversas apparentias earum et in quali-
 tate splendorum et in quantitate corporum, quia quedam
@@ -60,12 +61,9 @@ retur. Dicit sic: Octava spera habet multas stellas diversas,
 ut predictum est, ab invicem. Si igitur sola raritas et den-
 sitas corporum esset causa diversitatis splendorum octave
 spere, sicut supra dixisti, sequeretur quod in eis esset una
-sola virtus et influentia, maior et minor, et equalis, etc.
-
-CANTICA PARADISI
-1227
-secundum magnitudinem et parvitatern et equalitatem fo-
-raminarum rarorum. Et hoc falsum est, ut ostendit effectus,
+sola virtus et influentia, maior et minor, et equalis, etc.,
+secundum magnitudinem et parvitatem et equalitatem fo-
+raminum rarorum. Et hoc falsum est, ut ostendit effectus,
 quia diversi sunt effectus quos celum nobis inferius pro-
 ducit; ergo diverse sunt virtutes et influentie celorum. Quod
 diversi sunt eorum effectus patet in herbis et plantis, que
@@ -73,26 +71,40 @@ habent diversas virtutes, et diverse virtutes sunt fructus,
 idest effectus principiorum formalium; ergo principia for-
 malia diversa sunt et non unum; et sic ex falsitate con-
 sequentis arguit falsitatem antecedentis. Et consequentia
-probatur ex hoc, quia virtus descenderet per illa fo-
+probatur ex hoc, quia virtus que descenderet per illa fo-
 ramina rara, esset una, maior, minor et equalis, secundum
-magnitudinem, parvitatern et equalitatem illorum forami-
-num, et illud esset infusa a primo mobili, cuius
+magnitudinem, parvitatem et equalitatem illorum forami-
+num, secundum quod esset infusa a primo mobili, cuius
 virtus influeret per illa foramina plus et minus et equa-
-liter ut dictum est. Ait ergo, Se raro e denso, idest si ra-
+liter, ut dictum est. Ait ergo, Se raro e denso, idest si ra-
 ritas et densitas celestium corporum, ciò facesser tanto,
 idest sola essent causa, et non alia, diversitatis virtutum,
-qua habent celestia corpora ad influendum nobis inferius,
+quas habent celestia corpora ad influendum nobis inferius,
 sequeretur istud, videlicet quod una sola virtus, scilicet
 mundo influenda, esset in omnibus celestibus corporibus
-equaliter distributa, scilicet secundum
-magnitudinem, parvitatern et equalitatem raritatem diverse.
+plus et minus, vel equaliter distributa, scilicet secundum
+magnitudinem, parvitatem et equalitatem raritatis diverse.
 Et istud esse non potest, quia si virtutes que habent prin-
 cipia formalia, sunt diverse, oportet et ipsa principia esse
-diversa; unde sequitur, virtù diverse esser conviegnon
-forinal, idest oportet diversos effectus
-producí a principiis formalibus, sicut apparet
+diversa; unde sequitur, virtù diverse esser convegnon
+fructi de'principii formali, idest oportet diversos effectus
+produci a principiis formalibus, sicut diversos fructos a di-
+versis arboribus; e quei, fuor ch'uno, seguiterenno a tua
+ragion destructi: idest illa omnia principia formalia, uno
+solo excepto, idest Deo, qui est formale principium omnium
+rerum, a quo creata sunt principia formalia, etc., vel ex-
+cepto mobile primo, aut non essent, aut in vanum forent
+creata secundum rationem tuam, seu opinionem, que dicit
+quod rarum et densum causant omnem diversitatem in cor-
+poribus celestibus. Deus enim [est] formale omnium rerum
+principium sine principio, quia eternus, creavit celestia
+corpora, in quibus suam influxit virtutem, que licet una sit
+et infinita, omnes alias comprehendens, distribuit tamen
+illam per illa corpora secundum species et formas eorum
+diversas. Et sic creavit principia formalia secunda, diver-
+sificata secundum eorum formas specificas, sicut apparet
 in diversis effectibus, qui causantur ab illis. Ita quod non
-diversitas corporum celestium caussetur
+potest dici quod diversitas corporum celestium causetur
 solum a raritate et densitate eorum, secundum auctoris
 opinionem, quia sequeretur inconveniens quod ostensum
 est, et quod Deus fecisset celos et stellas in vanum et an-

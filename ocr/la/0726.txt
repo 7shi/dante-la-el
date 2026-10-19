@@ -1,4 +1,5 @@
 672
+
 PURGATORII
 
 ³² Al mio ardor fur seme le faville,
@@ -23,13 +24,13 @@ Negl'ochi, ove 'l sembiante più si ficcha.
 Diss'ei, perchè la tua faccia testeso (⁷)
 Un lampeggiar di riso dimostrommi?
 
-(¹) eleggerei — (²) anno — (³) Dante — (⁴) di Statio — (⁵) da la quale — (⁶) finischa — (⁷) hora.
+(¹) eleggerei — (²) anno — (³, Dante — (⁴) di Statio — (⁵) da la quale — (⁶) finischa — (⁷) hora.
 
 ³² Meo ardori fuerunt semen faville,
 Que me calefecerunt de divina flamma,
 Unde sunt illuminati plusquam mille;
 ³³ Eneydos dico, que mamma
-Fuit michi, nutrix et fuit michi poetando:
+Fuit michi, nutrix et fuit michi poetando;
 Sine ipsa non firmavi pondus dragme.
 ³⁴ Et ut vixissem in mundo quando
 Vixit Virgilius, assentirem unum solem
@@ -38,52 +39,68 @@ Plusquam debeam meo exire de banno.
 Cum viso qui, tacendo, dixit: Taceas:
 Sed non potest totum virtus quod vult;
 ³⁶ Quia risus et planctus sunt ita sequaces
-Ad passionem cui quilibet applicatur,
+Ad paxionem cui quilibet applicatur,
 Quod minus sequuntur voluntates nec plus veraces.
-³⁷ Ego tamen subrisi, sicut homo qui ammicat;
+³⁷ Ego tamen subrisi, sicut homo qui amiccat;
 Ex quo umbra tacuit, et me respexit
 In oculis, ubi effigies magis figitur.
 ³⁸ Et si tantum laborem simul assumas,
 Dixit, quare tua facies nunc
-Unum lampiggiare risuus michi monstravit?
+Unum lampiggiare risus michi monstravit?
 
-Achilleyos deficiat. Sed hoc intelligitur de gestis Domitiani:
+Achilleydos deficiat. Sed hoc intelligitur de gestis Domitiani:
 quia iam disposuerat facere unum librum poeticum de ge-
 stis Domitiani; et ista erat secunda salma, quam non per-
 fecit, licet inceperit illam. Prima salma fuit pondus illorum
-duorum librorum, scilicet Thebaydos et Achilleyos. Aliqui
+duorum librorum, scilicet Thebaydos et Achilleydos. Aliqui
 dicunt quod in circulis sunt due salme, onerantes istas
-animas, peccatum avaritis primum, et peccatum prodiga-
-litatis; ita quod prodigalitas est secunda salma, cum qua
-cecidit, scilicet in peccatum prodigalitatis. de cuius prodi-
+animas, peccatum avaritie primum, et peccatum prodigali-
+tatis; ita quod prodigalitas est secunda salma, cum qua
+cecidit, scilicet in peccatum prodigalitatis, de cuius prodi-
 galitate in sequentibus tractabitur.
 
-Meo ardori fuerunt semen faville. que me calefecerunt
-de divina flamma. unde sunt illuminati plusquam mille.
-(dicta Virgilii sunt faville calide et resplendentes). Dicit
+Meo ardori fuerunt semen faville, que me calefecerunt
+de divina flamma, unde sunt illuminati plusquam mille
+(dicta Virgilii sunt faville calide, et resplendentes. Dicit
 hic magister Benvenutus de Ymola, qui bene scripsit super
 Dantem, quod in textu istius ternarii, non debet dici semen,
-faville, idest diminute et vacue. Multi
-sunt illuminati a dictis Virgilii, quias libri Virgilii fecerunt
-multos valentes. Dragma est species ponderis satis parvi.
+sed debet dici, sceme faville, idest diminute et vacue. Multi
+sunt illuminati a dictis Virgilii, qui[a] libri Virgilii fecerunt
+multos valentes. Dragma est species ponderis satis parvi);
 Eneydos dico, que mamma, idest mater, michi fuit, nutrix
 et fuit michi poetando: sine ipsa non firmavi pondus dragme.
 Vult dicere quod sine dictis libris Eneydos Virgilii, nunquam
 fecit aliquid, idest modo loquendi et ordine omnino. Sta-
-tius fuit coronatus propter[r]equi Virgilium: ideo dicitur
+tius fuit coronatus [propter] sequi Virgilium: ideo dicitur
 ab aliquibus, quod Statius fuit scimia Virgilii, etc.
 
-Et ut vixissem in mundo. quando vixit Virgilius, assenti-
+Et ut vixissem in mundo, quando vixit Virgilius, assenti-
 rem unum solem, idest unum annum, plusquam debeam
+meo exire de banno, idest plusquam deberem stare in isto
+exilio, idest in ista pena: idest adhuc eligerem [stare] in
+hoc loco penoso.
 
-Ego tamen subrisi. Io pure subrisi : hec est quarta
+Volverunt Virgilium ad me ista verba cum viso, qui, ta-
+cendo, dixit: Taceas; sed non potest totum virtus quod vult.
+Idest, etiam homo sapiens non potest refrenare voluntatem;
+scilicet homo non potest facere quod abstineat se a risu, sive
+a ridendo vel a plangendo. Quia risus et planctus sunt ita
+sequaces, sive tantum ad paxionem quilibet applicatur,
+quod minus sequitur voluntates, nec plus veraces ad pas-
+sionem scilicet Risus et planctus:[risus] sequitur gaudium,
+et planctus dolorem sive tristitiam. Nec plus veraces: idest
+quando tu habes magnam materiam ridendi vel plangendi,
+non potes abstinere quin rideas vel plores. Anima, voluntas
+prudens, vellet refrenare risum vel planctum et non potest.
+
+Ego tamen subrisi. Io pure subrisi: hec est quarta
 pars huius capituli, in qua auctor manifestat Statio Virgi-
 lium. Ego tamen subrisi (quasi dicat, quod non est de more
-meo raro Dantes ridebat, quod [est], ut dicit Ioannes Boc-
-catius). sicut homo qui signum facit, scilicet nutum, cum
+meo: raro Dantes ridebat, quod [est], ut dicit Ioannes Boc-
+catius), sicut homo qui signum facit, scilicet nutum, cum
 facie; ex quo umbra tacuit, et me respexit in oculis, ubi
 effigies magis figitur, idest ubi apparentia eius, quod non
 vult dicere vel demonstrare, apparet.
 
-Statius cepit aliquain suspitionem de risu Dantis : ideo
-coniurat Dantem ipsum dicens : Et si tantum, supple quan-
+Statius cepit aliquam suspitionem de risu Dantis; ideo
+coniurat Dantem ipsum dicens: Et si tantum, supple quan-
