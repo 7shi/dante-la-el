@@ -119,7 +119,7 @@ italic lemmas against the verse of their page, and a lexicon check, are proposed
     stands). Read independently: its apostrophe spacing and number forms differ from the
     file's.
 - **Verse inserted** (Remaining work, items 1–2): batches 1–2 of
-  la-el-agy, 50 pages (0237–0390, the first 50 Italian pages of `crops.tsv`), 920 lines,
+  la-el-agy, 50 pages (0237–0390, the first 50 Italian pages in page order), 920 lines,
   5 words not as printed, all found by the check and fixed: 0273 `Ch'havea` (`C'havea`),
   0284 `dirieto` (`dirietro`), 0378 `departii` (`dipartii`), 0378 `mornorando` and 0390
   `ninico` (`mormorando`, `nimico`: an `m` whose worn first stem it took for an `n`, with
@@ -367,7 +367,7 @@ In this order (decided with the user, 2026-10-15):
      `(¹)`, runover lines `[`; letters it is unsure of in the report). 0836 needs the Latin
      wording of the rules. The Luna answers and `la_verseread.py` stay as they are (not used
      further).
-   - **Batches**: 25 Italian pages each, in the order of `crops.tsv`; each task is the
+   - **Batches**: 25 Italian pages each, in page order; each task is the
      previous one with the new pages and the words of the last batch that were not as
      printed ([DELEGATION.md](DELEGATION.md)).
      - **Done**: batches 1–14, all 337 Italian pages (`0237`–`1265`, State).
@@ -1019,7 +1019,7 @@ Results per batch: see "History".
     `(Genesis`) look incomplete and are not fixed.
 - **Tesseract** (`ocr/la/tesseract/`, committed; run with its [Makefile](tesseract/Makefile),
   `-l lat+ita`, only the words kept, in the columns block_num, par_num, line_num, left, top,
-  width, height, text; moved from `tmp/la-tess` on 2026-10-20): used only for the word
+  width, height, text): used only for the word
   boxes, to locate a place in the image. Its readings are poor in general, but it does
   not normalize spellings (13 of the 15 suspected misprints read as printed), so for the
   letter marks of the image decisions its word is a second vote beside the model.
@@ -1229,7 +1229,6 @@ paid markup answers, the latest set per page; see "Markup answers") and `la-mark
 directory of item 7 over all pages, with the paid model decisions). The paid answers cost
 money to make again: keep `la-markup/` and `la-mark7/` until step 7 is done for every batch;
 the method reads them nowhere after it (later checks are against the images), so they may be
-deleted then. The work directories of batches 1–2 (`la-mark2/`–`la-mark5/`) were deleted on
-2026-10-20, their results being in `ocr/la` and the history above. The other files in `tmp/`
-(crops, page lists, scratch scripts and delegated output of finished items) are not used by
-the remaining work.
+deleted then. Everything in `tmp/` but `tmp/bak/` is temporary: the data of finished
+items were deleted on 2026-10-20 (their results are in `ocr/la` and the history above), and
+what is left is deleted when no longer used, each time after asking the user.
