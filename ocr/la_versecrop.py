@@ -39,9 +39,9 @@ def tess_words(path):
     out = []
     for row in path.read_text(encoding="utf-8").splitlines()[1:]:
         f = row.split("\t")
-        if len(f) < 12 or f[0] != "5" or not f[11].strip(): continue
-        x, y, w, h = map(int, f[6:10])
-        out.append(dict(n=S.norm(f[11]), box=(x, y, x + w, y + h), line=tuple(map(int, f[1:5]))))
+        if len(f) < 8 or not f[7].strip(): continue
+        x, y, w, h = map(int, f[3:7])
+        out.append(dict(n=S.norm(f[7]), box=(x, y, x + w, y + h), line=tuple(map(int, f[0:3]))))
     return out
 
 

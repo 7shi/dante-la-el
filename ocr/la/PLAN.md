@@ -343,8 +343,9 @@ italic lemmas against the verse of their page, and a lexicon check, are proposed
   line `¹ parlare.` without its blank line. 0309 keeps its `(...)` line (no gloss line
   written).
 
-Data: `ocr/la/glm-ocr/` (GLM-OCR for every page, committed); the working data in `tmp/`
-(Tesseract's words, the paid answers) are listed under "Tools".
+Data: `ocr/la/glm-ocr/` (GLM-OCR for every page) and `ocr/la/tesseract/` (Tesseract's word
+boxes for every page), both committed; the working data in `tmp/` (the paid answers) are
+listed under "Tools".
 
 ## Remaining work
 
@@ -705,7 +706,7 @@ PAGES=$(for n in $(seq FIRST LAST); do p=$(printf %04d $n); grep -qx '\[Blank pa
 ```
 
 WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
-`tmp/la-tess`. Paid calls are run by the user: give them the command, and test with
+`ocr/la/tesseract`. Paid calls are run by the user: give them the command, and test with
 `--fake` first. Python is run with `uv run`.
 
 1. **Verse**: done over all pages at once for 0233–1296 (Remaining work, items 1–2).
@@ -887,7 +888,7 @@ side only. The text outside the marks is `ocr/la` unchanged, so resolving every 
 left side gives the page back exactly.
 
 **Workflow** (the scripts in `ocr/`; WORK is a work directory in `tmp/`, TESS the directory
-of Tesseract's `PAGE.tsv` files, e.g. `tmp/la-tess`):
+of Tesseract's `PAGE.tsv` files, `ocr/la/tesseract`):
 
 ```sh
 uv run ocr/la_markup.py -m MODEL -o WORK/markup PAGE...   # paid: the marks
@@ -1016,8 +1017,10 @@ Results per batch: see "History".
   - The same check found pages where `ocr/la` lacks a column, a verse block or footnotes
     (the commit 2 pages above). `ocr/la` 1240 (no commentary) and 1286 (ends at
     `(Genesis`) look incomplete and are not fixed.
-- **Tesseract** (`tesseract PAGE.png OUT -l lat+ita tsv`, run locally): used only for the
-  word boxes, to locate a place in the image. Its readings are poor in general, but it does
+- **Tesseract** (`ocr/la/tesseract/`, committed; run with its [Makefile](tesseract/Makefile),
+  `-l lat+ita`, only the words kept, in the columns block_num, par_num, line_num, left, top,
+  width, height, text; moved from `tmp/la-tess` on 2026-10-20): used only for the word
+  boxes, to locate a place in the image. Its readings are poor in general, but it does
   not normalize spellings (13 of the 15 suspected misprints read as printed), so for the
   letter marks of the image decisions its word is a second vote beside the model.
 
@@ -1219,13 +1222,10 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
   blocks (texts/PLAN.md, step 1): which pages lack the Italian or the Latin column, per
   page, per canto, or as the work list of a batch. It reads dante-corpus as a dependency
   in `../dante-corpus` (README.md).
-- `tmp/tess.py RANGE [-o tmp/la-tess]` (not in git): runs Tesseract (Windows `tesseract.exe`
-  under WSL) for the word boxes; done for all pages.
 - `texts/convert_la.py`: `ocr/la` to `texts/la/` (procedure, step 11).
 
-Working data in `tmp/` (not in git, temporary; `tmp/bak/` is the user's): `la-tess/`
-(Tesseract's words for every page, made again with `tmp/tess.py`), `la-markup/` (the paid
-markup answers, the latest set per page; see "Markup answers") and `la-mark7/` (the work
+Working data in `tmp/` (not in git, temporary; `tmp/bak/` is the user's): `la-markup/` (the
+paid markup answers, the latest set per page; see "Markup answers") and `la-mark7/` (the work
 directory of item 7 over all pages, with the paid model decisions). The paid answers cost
 money to make again: keep `la-markup/` and `la-mark7/` until step 7 is done for every batch;
 the method reads them nowhere after it (later checks are against the images), so they may be

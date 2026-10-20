@@ -3,8 +3,8 @@
     la_markprep.py WORK PAGE... -t TESSDIR
 
 WORK/markup/PAGE.txt are the pages marked by `la_markup.py -o WORK/markup` ({{ocr|glm}}).
-TESSDIR/PAGE.tsv is Tesseract's word list of ocr/la/PAGE.png
-(`tesseract PAGE.png TESSDIR/PAGE -l lat+ita tsv`).
+TESSDIR/PAGE.tsv is Tesseract's word list of ocr/la/PAGE.png (`ocr/la/tesseract/`, made
+by its Makefile: block_num, par_num, line_num, left, top, width, height, text).
 
 1. Trivial marks are resolved to their left side (the ocr/la reading), without the image:
    - head:      A only, a whole line on lines 1-3: page number, running head;
@@ -79,10 +79,10 @@ def tess_words(path):
     out = []
     for row in open(path, encoding="utf-8").read().splitlines()[1:]:
         f = row.split("\t")
-        if len(f) < 12 or f[0] != "5" or not f[11].strip(): continue
-        x, y, w, h = map(int, f[6:10])
-        out.append(dict(text=f[11], n=norm(f[11]), box=(x, y, x + w, y + h),
-                        line=tuple(map(int, f[1:5]))))
+        if len(f) < 8 or not f[7].strip(): continue
+        x, y, w, h = map(int, f[3:7])
+        out.append(dict(text=f[7], n=norm(f[7]), box=(x, y, x + w, y + h),
+                        line=tuple(map(int, f[0:3]))))
     return out
 
 

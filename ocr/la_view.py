@@ -78,7 +78,7 @@ def cmd_word(a):
     for it in a.items:
         p, rx, *n = it.split(":"); n = int(n[0]) if n else 1
         rows = [r for r in csv.DictReader(open(Path(a.tess, f"{p}.tsv"), encoding="utf-8"), delimiter="\t", quoting=csv.QUOTE_NONE)
-                if r["level"] == "5" and re.search(rx, r["text"] or "")]
+                if re.search(rx, r["text"] or "")]
         if len(rows) < n: print(it, f"{len(rows)} hits"); continue
         r = rows[n - 1]; x, y, w, h = (int(r[k]) for k in ("left", "top", "width", "height"))
         im = Image.open(ROOT / f"{p}.png")

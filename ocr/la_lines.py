@@ -42,8 +42,8 @@ def tess_lines(tess, page):
     if not f.exists(): return lines
     for r in f.read_text(encoding="utf-8").splitlines()[1:]:
         c = r.split("\t")
-        if len(c) == 12 and c[0] == "5" and c[11].strip():
-            lines.setdefault((c[2], c[3], c[4]), []).append((c[11], int(c[6]), int(c[7]), int(c[8]), int(c[9])))
+        if len(c) == 8 and c[7].strip():
+            lines.setdefault((c[0], c[1], c[2]), []).append((c[7], int(c[3]), int(c[4]), int(c[5]), int(c[6])))
     return lines
 
 
