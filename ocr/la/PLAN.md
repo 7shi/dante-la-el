@@ -840,8 +840,8 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
 - **Curly `’`**: left in `ocr/la`, normalized by `convert_la.py`.
 - **Figures**: a line `[figure]` where the figure stands, then each printed label on a
   line of its own (column after column, top to bottom), a blank line after; headings
-  that are not printed are not added (1245). 1044 (`[diagram]` in a line) and 1247
-  (`[Diagram]`, `Top Left:`) are to be brought to this form in their batches.
+  that are not printed are not added (1245). 1044 (`[diagram]` in a line) is to be brought to this
+  form in its batch (1247 is in it since its retyping).
 
 ## Suspected misprints
 
