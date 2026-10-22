@@ -1,6 +1,6 @@
 """Decide the marks left by la_markprep.py and resolve them into the pages.
 
-    la_markresolve.py WORK -t TESSDIR [--write]
+    la_markresolve.py WORK -t TESSDIR [-p FIRST LAST] [--write]
 
 Reads WORK/post/ and WORK/locate.tsv (la_markprep.py), WORK/decide.tsv (la_markdecide.py,
 if present), and the hand-made WORK/mine.tsv and WORK/fixes.tsv (if present). Each mark
@@ -29,7 +29,8 @@ exactly once.
 
 Writes WORK/route.tsv (every mark), WORK/review.tsv (the marks still to decide by hand,
 with the reason and the crop), and WORK/out/PAGE.txt for each page whose marks are all
-decided; with --write also ocr/la/PAGE.txt."""
+decided; with --write also ocr/la/PAGE.txt. -p limits all of these to the pages FIRST-LAST
+(a batch), so that a work directory over many pages is resolved batch by batch."""
 
 import argparse
 import collections
@@ -164,6 +165,8 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("work", type=Path, help="the work directory of la_markprep.py")
     ap.add_argument("-t", "--tessdir", required=True, type=Path, help="Tesseract's PAGE.tsv files")
+    ap.add_argument("-p", "--pages", nargs=2, type=int, metavar=("FIRST", "LAST"),
+                    help="only the pages FIRST-LAST")
     ap.add_argument("--write", action="store_true", help="also write the finished pages to ocr/la")
     a = ap.parse_args()
     w = a.work
@@ -181,6 +184,7 @@ def main():
     review = ["page\tline\tk\tclass\tleft\tright\treason\tmodel\ttess\tcrop"]
     log, count = [], collections.Counter()
     for p in sorted(locs):
+        if a.pages and not a.pages[0] <= int(p) <= a.pages[1]: continue
         t = (w / "post" / f"{p}.txt").read_text(encoding="utf-8")
         marks = list(M.MARK.finditer(t))
         tw = tess_words(a.tessdir / f"{p}.tsv")
