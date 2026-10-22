@@ -92,6 +92,18 @@ italic lemmas against the verse of their page, and a lexicon check, are proposed
   `vult beatos homines` written `que sunt beati homines`), 0940 (the Italian verse, the
   left commentary column and most of the last paragraph lost); 0709 has 356 words of
   GLM-OCR's 794. Retyped in item 6.
+- **Model decisions** (item 7, done 2026-10-22) in `tmp/la-mark7/`, over 1083 pages
+  (0001–0078 and 0233–1296 without the blank pages and 0831). Markup: the answers of
+  `tmp/la-markup/` copied and re-checked with `-r 0`: no page failed, so no new paid
+  markup; 2244 differences missed in 664 pages (2604 before item 6), 411 entries not
+  placed in 254 pages (0048 and 0050 one each: their dot runs, fixed after the markup).
+  `la_markprep.py -t ocr/la/tesseract` stopped on no page: resolved 10559 (number 4230,
+  note 3458, quote 1570, head 785, spacing 195, moved 174, signature 88, google 59); left
+  31272 (located 27828, unlocated 1537, ambiguous 800, order 725, word 382); 22141 to ask
+  in 1070 pages. `la_markdecide.py -m gpt-6-luna` (paid, by the user; no question
+  refused, no invalid answer): 22032 questions (identical marks share an answer), all
+  22141 answered: left (`ocr/la`) 12794, right (GLM-OCR) 8097, neither 1133, wrong place
+  101, unreadable 16.
 - **Verse transcription, trial** (`la_verseread.py`, paid, by the user) on the Italian of
   the 121 checked pages, measured with `--check` against `ocr/la` (differences counted by
   word; "caught": GLM-OCR has the file's reading, not the model's, so the verse check
@@ -690,7 +702,8 @@ In this order (decided with the user, 2026-10-15):
      left for item 7. The others: 0048 `qualiacumque,fecerint` as printed, 0049 GLM-OCR's
      `nuliatenus` against the dot rows. With this batch the retyping of item 6 is done.
 7. **Model decisions** (paid), after item 6: a new work directory over all pages,
-   `la_markprep.py`, then `la_markdecide.py` (procedure, steps 3–4).
+   `la_markprep.py`, then `la_markdecide.py` (procedure, steps 3–4). Done (2026-10-22,
+   State): `tmp/la-mark7/`, 22141 marks decided.
 8. **Batches 3–11**: procedure steps 5–11, batch by batch.
 
 Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
