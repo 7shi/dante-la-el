@@ -707,6 +707,32 @@ In this order (decided with the user, 2026-10-15):
 8. **Batches 3–11**: procedure steps 5–11, batch by batch, with WORK = `tmp/la-mark7`
    (steps 2–4 done there for all pages in item 7) and `-p FIRST LAST` on
    `la_markresolve.py`, so that only the batch's pages are routed, reviewed and written.
+   - **Review in parts** (decided with the user, 2026-10-22): step 6 goes about 20 pages
+     at a time (e.g. 0254–0275 next); after each part, stop and report to the user (pages
+     done, marks decided, pages retyped, open points) before going on.
+   - **Batch 3** (0233–0348, 109 pages, 2166 marks in `review.tsv`), in progress: step 5
+     done; step 6 done for 0233–0253 (398 marks in
+     `WORK/mine.tsv`, corrections in `WORK/fixes.tsv`); `--write` not yet run.
+     What these pages showed:
+     - The old OCR of `ocr/la` here is poor: u/v and `ae`/`æ` normalized (`siluam`,
+       `flammæ`), words and lines lost, columns out of order; most marks go to GLM-OCR's
+       side, each still looked at in the crop.
+     - A page or column too broken for the marks is retyped from the scan: every mark of
+       it decided `left`, and one row of `fixes.tsv` replaces the old text by the retyped
+       one (0248 the whole page, 0253 the right commentary column; 0242's last two
+       paragraphs of the left column moved before the right column).
+     - Lost lines and words are put in as `text:` with `⏎` where the print breaks the
+       line, and a `fixes.tsv` row joins what then falls on the wrong line. An inserted
+       side has no surrounding spaces (`omnes{{|tales}} fuerunt`): write `text: tales`.
+       A removed word leaves two spaces: after each resolve, look for `  ` in `WORK/out/`
+       and fix them.
+     - Page heads out of order (0241, 0251: the page number after the running head; 0236,
+       0240: a running head inside the text) are put right in `fixes.tsv`.
+     - Tercet numbers not superscript (`27 Tra tutto …`) on 18 pages of the batch (0240,
+       0241, 0248, 0262, 0265, 0285, 0294, 0298, 0302, 0313, 0316, 0322, 0333, 0335,
+       0343, 0344, 0345, 0346; listed by `grep -cP '^\d+ \(?[A-Z]'`): 0240 and 0248 done
+       in the review, the others to make superscript at step 9, each checked in the image
+       (0240 printed `29` where the file had `27`).
 
 Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``), a transcription artifact to remove in their batches.
