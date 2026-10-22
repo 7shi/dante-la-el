@@ -781,8 +781,11 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
 6. **Review** every line of `review.tsv` into `WORK/mine.tsv` (`page line k decision note`;
    decision `left`, `right` or `text:…` with `⏎` for a line break) and corrections outside
    the marks into `WORK/fixes.tsv` (`page old new note`, the old text as in `WORK/out/`).
-   Views: `ocr/la_view.py context WORK [CLASS]` (each mark in its text), `review WORK
-   PAGE:K,…` (the crops), `word TESS PAGE:REGEX` (a place the crops missed). The rules,
+   Views: `ocr/la_view.py next WORK [N] -o OUT.png` (the next N marks not yet in
+   mine.tsv: their crops and contexts), `context WORK [CLASS]` (each mark in its text),
+   `review WORK PAGE:K,…` (the crops), `word TESS PAGE:REGEX` (a place the crops missed).
+   Decisions go in with `uv run ocr/la_mine.py WORK PAGE K[,K…]=DECISION[|NOTE] …` (the
+   line from review.tsv; a mark already decided stops it). The rules,
    from the experience of 0079–0232 (details in "The method"):
    - `comma`: from the context; a dot inside a running sentence is a comma.
    - accents GLM-OCR dropped (`sì`/`si`): keep `ocr/la`, but look at unusual ones.
@@ -939,7 +942,8 @@ uv run ocr/la_markup.py -m MODEL -o WORK/markup PAGE...   # paid: the marks
 uv run ocr/la_markprep.py WORK PAGE... -t TESS            # steps 2-3: trivial marks, crops, ask.txt
 uv run ocr/la_markdecide.py WORK -m MODEL                 # paid: the model's verdicts
 uv run ocr/la_markresolve.py WORK -t TESS [-p FIRST LAST] # routes; review.tsv; WORK/out/
-# la-el-claude decides review.tsv in the images into WORK/mine.tsv (and WORK/fixes.tsv),
+# la-el-claude decides review.tsv in the images into WORK/mine.tsv (la_view.py next,
+# la_mine.py; corrections in WORK/fixes.tsv),
 # then reruns la_markresolve.py, checks the word diff of WORK/out/, and adds --write
 ```
 
@@ -1241,8 +1245,10 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
 
 - `ocr/la_markup.py`, `la_markprep.py`, `la_markdecide.py`, `la_markresolve.py`: the markup
   method (procedure, steps 2–7).
-- `ocr/la_view.py review|context|word|strip`: views for the review and the checks
+- `ocr/la_view.py review|context|next|word|strip`: views for the review and the checks
   (steps 6, 8).
+- `ocr/la_mine.py WORK PAGE K=DECISION[|NOTE] …`: appends review decisions to
+  `WORK/mine.tsv` (step 6).
 - `ocr/la_lines.py FIRST LAST -t TESS [-o OUT]`: rules without a blank line, printed lines
   broken in two, dots before a lowercase word (step 8).
 - `ocr/la_check.py FIRST LAST [-v] [-o OUT]`: tercet numbers (order, every third line,
