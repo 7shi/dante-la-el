@@ -708,11 +708,16 @@ In this order (decided with the user, 2026-10-15):
    (steps 2–4 done there for all pages in item 7) and `-p FIRST LAST` on
    `la_markresolve.py`, so that only the batch's pages are routed, reviewed and written.
    - **Review in parts** (decided with the user, 2026-10-22): step 6 goes about 20 pages
-     at a time (e.g. 0254–0275 next); after each part, stop and report to the user (pages
+     at a time (0276–0298 next); after each part, stop and report to the user (pages
      done, marks decided, pages retyped, open points) before going on.
    - **Batch 3** (0233–0348, 109 pages, 2166 marks in `review.tsv`), in progress: step 5
-     done; step 6 done for 0233–0253 (398 marks in
+     done; step 6 done for 0233–0275 (820 marks in
      `WORK/mine.tsv`, corrections in `WORK/fixes.tsv`); `--write` not yet run.
+     In 0254–0275, 10 of 20 pages were retyped whole from the scan (0254, 0255, 0259,
+     0260, 0262, 0265, 0267, 0270, 0273, 0274; 0270 only put in column order): the old
+     OCR there runs commentary lines together, drops lines and words, and puts columns
+     and page heads out of order. On an essay page kept as one line per paragraph (0267),
+     blank lines go before and after each quotation.
      What these pages showed:
      - The old OCR of `ocr/la` here is poor: u/v and `ae`/`æ` normalized (`siluam`,
        `flammæ`), words and lines lost, columns out of order; most marks go to GLM-OCR's
@@ -785,7 +790,10 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
    mine.tsv: their crops and contexts), `context WORK [CLASS]` (each mark in its text),
    `review WORK PAGE:K,…` (the crops), `word TESS PAGE:REGEX` (a place the crops missed).
    Decisions go in with `uv run ocr/la_mine.py WORK PAGE K[,K…]=DECISION[|NOTE] …` (the
-   line from review.tsv; a mark already decided stops it). The rules,
+   line from review.tsv; a mark already decided stops it). A page too broken for its
+   marks: decide them all `left`, rerun step 5, retype the page from the scan and add
+   it with `uv run ocr/la_retype.py WORK PAGE FILE NOTE [--old PART]` (one fixes.tsv
+   row replacing the page, or the part in PART). The rules,
    from the experience of 0079–0232 (details in "The method"):
    - `comma`: from the context; a dot inside a running sentence is a comma.
    - accents GLM-OCR dropped (`sì`/`si`): keep `ocr/la`, but look at unusual ones.
@@ -1249,6 +1257,8 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
   (steps 6, 8).
 - `ocr/la_mine.py WORK PAGE K=DECISION[|NOTE] …`: appends review decisions to
   `WORK/mine.tsv` (step 6).
+- `ocr/la_retype.py WORK PAGE FILE NOTE [--old PART]`: a fixes.tsv row replacing a page
+  (or a part of it) of `WORK/out/` by its retyped text (step 6).
 - `ocr/la_lines.py FIRST LAST -t TESS [-o OUT]`: rules without a blank line, printed lines
   broken in two, dots before a lowercase word (step 8).
 - `ocr/la_check.py FIRST LAST [-v] [-o OUT]`: tercet numbers (order, every third line,
