@@ -708,11 +708,33 @@ In this order (decided with the user, 2026-10-15):
    (steps 2–4 done there for all pages in item 7) and `-p FIRST LAST` on
    `la_markresolve.py`, so that only the batch's pages are routed, reviewed and written.
    - **Review in parts** (decided with the user, 2026-10-22): step 6 goes about 20 pages
-     at a time (0276–0298 next); after each part, stop and report to the user (pages
+     at a time (0299–0320 next); after each part, stop and report to the user (pages
      done, marks decided, pages retyped, open points) before going on.
+   - **Parts retyped by la-el-agy** (decided with the user, 2026-10-22, from 0276 on): a
+     part's pages are retyped whole from the scan by la-el-agy ("Whole pages" in
+     [DELEGATION.md](DELEGATION.md), task series retype 19–), instead of deciding their
+     marks one by one. Each part is checked by script: every word of the retyped page
+     that differs from both `ocr/la` and GLM-OCR, and every passage both have that it
+     lacks, is looked at in the image. Without the image: a `.`/`,` difference where the
+     two OCRs agree goes by the comma rule (before a lowercase word a comma, before an
+     uppercase word a period); a `:`/`;` difference and an apostrophe gap where they agree
+     take the OCRs' reading. Then every mark of the page is decided `left` and the
+     checked page goes in with `la_retype.py`.
    - **Batch 3** (0233–0348, 109 pages, 2166 marks in `review.tsv`), in progress: step 5
-     done; step 6 done for 0233–0275 (820 marks in
+     done; step 6 done for 0233–0298 (1230 marks in
      `WORK/mine.tsv`, corrections in `WORK/fixes.tsv`); `--write` not yet run.
+     0276–0298 (21 pages, 410 marks) retyped by la-el-agy (retype 19): 159 places
+     against the two OCRs, about 130 looked at in the image; 25 places not as printed
+     fixed: `seis` for `scis` (5 times, 0297), `a se` for `à sè` (0276), `dimisit` for
+     `dimictit` (0278), `feggi`, `cic[r]chiis`, `vaneggiat` (0286, printed `feggia`,
+     `cie[r]chiis`, a broken `vineggiat`), `s'iniccat` for `s'imiccat` (0288), the gloss
+     line of 0297 (`mie`, `sì` for printed `mic`, `si`), `[infra,` for `[infra.` (0297);
+     colons written as semicolons (0277, 0279, 0298 twice), periods before an uppercase
+     word as commas (0279 `curro.`, 0295, 0298), 7 apostrophe gaps. Where both OCRs were
+     wrong it read right (`Tunc` for their `Tune`, `orizontem`, `pietam`, `Jason`,
+     `excomunicati`, `perchuote`, `qualunque`, `Çaccianimici`), and it put in the lost
+     lines and the superscript tercet numbers of 0285, 0294, 0298. Left as read:
+     0297 `forachiatum` (the italic fourth letter `a` or `u`).
      In 0254–0275, 10 of 20 pages were retyped whole from the scan (0254, 0255, 0259,
      0260, 0262, 0265, 0267, 0270, 0273, 0274; 0270 only put in column order): the old
      OCR there runs commentary lines together, drops lines and words, and puts columns
@@ -735,9 +757,10 @@ In this order (decided with the user, 2026-10-15):
        0240: a running head inside the text) are put right in `fixes.tsv`.
      - Tercet numbers not superscript (`27 Tra tutto …`) on 18 pages of the batch (0240,
        0241, 0248, 0262, 0265, 0285, 0294, 0298, 0302, 0313, 0316, 0322, 0333, 0335,
-       0343, 0344, 0345, 0346; listed by `grep -cP '^\d+ \(?[A-Z]'`): 0240 and 0248 done
-       in the review, the others to make superscript at step 9, each checked in the image
-       (0240 printed `29` where the file had `27`).
+       0343, 0344, 0345, 0346; listed by `grep -cP '^\d+ \(?[A-Z]'`): 0240, 0248, 0262,
+       0265, 0285, 0294 and 0298 done in the review or the retyping, the others to make
+       superscript at step 9, each checked in the image (0240 printed `29` where the file
+       had `27`).
 
 Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``), a transcription artifact to remove in their batches.
