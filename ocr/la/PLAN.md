@@ -704,7 +704,9 @@ In this order (decided with the user, 2026-10-15):
 7. **Model decisions** (paid), after item 6: a new work directory over all pages,
    `la_markprep.py`, then `la_markdecide.py` (procedure, steps 3–4). Done (2026-10-22,
    State): `tmp/la-mark7/`, 22141 marks decided.
-8. **Batches 3–11**: procedure steps 5–11, batch by batch.
+8. **Batches 3–11**: procedure steps 5–11, batch by batch, with WORK = `tmp/la-mark7`
+   (steps 2–4 done there for all pages in item 7) and `-p FIRST LAST` on
+   `la_markresolve.py`, so that only the batch's pages are routed, reviewed and written.
 
 Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``), a transcription artifact to remove in their batches.
@@ -745,8 +747,11 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
    fake answers (`WORK/ans/*.fake.json`), then the user runs
    `uv run ocr/la_markdecide.py WORK -m gpt-6-luna` (about 1100 questions for 85 pages; a
    rerun asks only what is missing).
-5. **Routes**: `uv run ocr/la_markresolve.py WORK -t TESS` writes `WORK/review.tsv`, the
-   marks left to la-el-claude.
+5. **Routes**: `uv run ocr/la_markresolve.py WORK -t TESS -p FIRST LAST` writes
+   `WORK/review.tsv`, the marks left to la-el-claude. `-p` keeps route.tsv, review.tsv,
+   `WORK/out/` and `--write` to the batch's pages (needed when WORK holds more pages than
+   the batch, as `tmp/la-mark7`); `mine.tsv` and `fixes.tsv` are keyed by page and hold
+   every batch's decisions.
 6. **Review** every line of `review.tsv` into `WORK/mine.tsv` (`page line k decision note`;
    decision `left`, `right` or `text:…` with `⏎` for a line break) and corrections outside
    the marks into `WORK/fixes.tsv` (`page old new note`, the old text as in `WORK/out/`).
@@ -769,7 +774,7 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
      (0084 `secundum`, `in vere`, `magis aliis`).
    - small capitals in uppercase, superscript tercet numbers, broken words joined on essay
      pages: the conventions below, whatever the model says.
-7. **Resolve**: rerun `la_markresolve.py WORK -t TESS` until `review.tsv` is empty; read the
+7. **Resolve**: rerun `la_markresolve.py WORK -t TESS -p FIRST LAST` until `review.tsv` is empty; read the
    word diff of `WORK/out/` against `ocr/la` (every change must be one decided above; a dot
    taken from the image before a lowercase word is a comma, 0127); then add `--write`.
 8. **Lines**: `uv run ocr/la_lines.py FIRST LAST -t TESS -o WORK/lines.txt` and look at each
@@ -907,7 +912,7 @@ of Tesseract's `PAGE.tsv` files, `ocr/la/tesseract`):
 uv run ocr/la_markup.py -m MODEL -o WORK/markup PAGE...   # paid: the marks
 uv run ocr/la_markprep.py WORK PAGE... -t TESS            # steps 2-3: trivial marks, crops, ask.txt
 uv run ocr/la_markdecide.py WORK -m MODEL                 # paid: the model's verdicts
-uv run ocr/la_markresolve.py WORK -t TESS                 # routes; review.tsv; WORK/out/
+uv run ocr/la_markresolve.py WORK -t TESS [-p FIRST LAST] # routes; review.tsv; WORK/out/
 # la-el-claude decides review.tsv in the images into WORK/mine.tsv (and WORK/fixes.tsv),
 # then reruns la_markresolve.py, checks the word diff of WORK/out/, and adds --write
 ```
