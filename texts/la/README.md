@@ -4,7 +4,7 @@
 
 These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/la/) by [`convert_la.py`](../convert_la.py); see [`ocr/la/INDEX.md`](../../ocr/la/INDEX.md) for the volume and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/la/` and run `uv run texts/convert_la.py`.
 
-**Only Inferno I–XIII are converted so far** (scans `0079`–`0232`). Their transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits); the rest of `ocr/la/` is not yet completed, and the front matter, the other cantos and the appendix will follow.
+**Only Inferno I–XXIII are converted so far** (scans `0079`–`0348`). Their transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits); the rest of `ocr/la/` is not yet completed, and the front matter, the other cantos and the appendix will follow.
 
 ## Reading the files
 
@@ -34,3 +34,13 @@ These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/
 | [018-inferno-canto-11.md](018-inferno-canto-11.md) | XI | [143]–[152] | In su l'extremità d'un'alta ripa, | *L'arte divina e l'arte umana* |
 | [019-inferno-canto-12.md](019-inferno-canto-12.md) | XII | [153]–[166] | Era lo loco, ov'a scender la riva | *I prodigi nella morte di Cristo* |
 | [020-inferno-canto-13.md](020-inferno-canto-13.md) | XIII | [167]–[178] | Non era ancor di là Nesso arrivato, | *Federico II* |
+| [021-inferno-canto-14.md](021-inferno-canto-14.md) | XIV | [179]–[189] | Poi che la carità del natio loco | *Il valore delle favole* |
+| [022-inferno-canto-15.md](022-inferno-canto-15.md) | XV | [191]–[201] | Hora cen porta l'un de' duri margini, | *Integrezza del sentimento morale in Dante* |
+| [023-inferno-canto-16.md](023-inferno-canto-16.md) | XVI | [203]–[213] | Già era in loco ove s'udia'l rimbombo | *Il cingolo di Dante* |
+| [024-inferno-canto-17.md](024-inferno-canto-17.md) | XVII | [215]–[225] | Ecco la fiera colla coda aguzza, | *La fiera descritta dal Poeta in questo canto* |
+| [025-inferno-canto-18.md](025-inferno-canto-18.md) | XVIII | [227]–[237] | Luogo è in Inferno, decto Malebolge, | *Seguita l'argomento della frode* |
+| [026-inferno-canto-19.md](026-inferno-canto-19.md) | XIX | [239]–250 | O Symon Mago, o miseri seguaci, | *Veri sentimenti dell'Alighieri rispetto a' pontefici vicarii di Gesù Cristo* |
+| [027-inferno-canto-20.md](027-inferno-canto-20.md) | XX | [251]–[260] | Di nuova pena mi convien far versi, | *Lo spiritismo* |
+| [028-inferno-canto-21.md](028-inferno-canto-21.md) | XXI | [261]–271 | Così di ponte in ponte, altro parlando | *Se sia possibile la diminuzione progressiva delle pene eterne* |
+| [029-inferno-canto-22.md](029-inferno-canto-22.md) | XXII | [273]–[282] | Io vidi già cavalier muover campo, | *Natura degli spiriti infernali* |
+| [030-inferno-canto-23.md](030-inferno-canto-23.md) | XXIII | [283]–[293] | Taciti, soli, e senza compagnia, | *L'ipocrisia* |

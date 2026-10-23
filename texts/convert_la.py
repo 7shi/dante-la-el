@@ -1,6 +1,6 @@
 """Convert ocr/la/NNNN.txt (Serravalle's translation and commentary, 1891) into texts/la/NNN-title.md.
 
-Only Inferno I–XIII (scans 0079–0232) are converted so far: the rest of ocr/la is not yet
+Only Inferno I–XXIII (scans 0079–0348) are converted so far: the rest of ocr/la is not yet
 completed (see ocr/la/PLAN.md). See PLAN.md for the layout. Run from the repository root:
 
     uv run texts/convert_la.py
@@ -21,14 +21,21 @@ VERSES = [136, 142, 136, 151, 142, 115, 130, 130, 133, 136, 115, 139, 151, 142, 
 # Cantos converted: (first scan, the scan of the essay, last scan), from INDEX.md.
 CANTOS = [(79, 92, 92), (93, 102, 102), (103, 114, 114), (115, 127, 128), (129, 139, 140),
           (141, 150, 150), (151, 161, 162), (163, 171, 172), (173, 183, 184), (185, 196, 196),
-          (197, 206, 206), (207, 220, 220), (221, 232, 232)]
+          (197, 206, 206), (207, 220, 220), (221, 232, 232), (233, 243, 244), (245, 255, 256),
+          (257, 267, 268), (269, 279, 280), (281, 291, 292), (293, 303, 304), (305, 314, 314),
+          (315, 324, 326), (327, 336, 336), (337, 347, 348)]
 FIRST_FILE = 8  # 008-inferno-canto-01.md (001–007 are the front matter, not converted yet)
 OFFSET = 54  # printed page = scan - 54
 
 ORDINALS = ["PRIMUM", "SECUNDUM", "TERTIUM", "QUARTUM", "QUINTUM", "SEXTUM", "SEPTIMUM",
-            "OCTAVUM", "NONUM", "DECIMUM", "UNDECIMUM", "DUODECIMUM", "TERTIUMDECIMUM"]
+            "OCTAVUM", "NONUM", "DECIMUM", "UNDECIMUM", "DUODECIMUM", "TERTIUMDECIMUM",
+            "QUARTUMDECIMUM", "QUINTUMDECIMUM", "SEXTUMDECIMUM", "DECIMUMSEPTIMUM",
+            "DECIMUMOCTAVUM", "DECIMUMNONUM", "VICESIMUM", "VICESIMUMPRIMUM",
+            "VICESIMUMSECUNDUM", "VICESIMUMTERTIUM"]
 GENITIVES = ["PRIMI", "SECUNDI", "TERTII", "QUARTI", "QUINTI", "SEXTI", "SEPTIMI", "OCTAVI",
-             "NONI", "DECIMI", "UNDECIMI", "DUODECIMI", "TERTIIDECIMI"]
+             "NONI", "DECIMI", "UNDECIMI", "DUODECIMI", "TERTIIDECIMI", "QUARTIDECIMI",
+             "QUINTIDECIMI", "SEXTIDECIMI", "DECIMISEPTIMI", "DECIMIOCTAVI", "DECIMINONI",
+             "VICESIMI", "VICESIMIPRIMI", "VICESIMISECUNDI", "VICESIMITERTII"]
 
 # The essays' titles as printed, in the case of INDEX.md (where it reads `angeli`, the print
 # has `ANGIOLI`).
@@ -46,6 +53,18 @@ ESSAYS = {
     "L'ARTE DIVINA E L'ARTE UMANA": "L'arte divina e l'arte umana",
     "I PRODIGI NELLA MORTE DI CRISTO": "I prodigi nella morte di Cristo",
     "FEDERICO II.": "Federico II",
+    "IL VALORE DELLE FAVOLE": "Il valore delle favole",
+    "INTEGREZZA DEL SENTIMENTO MORALE IN DANTE": "Integrezza del sentimento morale in Dante",
+    "IL CINGOLO DI DANTE": "Il cingolo di Dante",
+    "LA FIERA DESCRITTA DAL POETA IN QUESTO CANTO": "La fiera descritta dal Poeta in questo canto",
+    "SEGUITA L'ARGOMENTO DELLA FRODE": "Seguita l'argomento della frode",
+    "VERI SENTIMENTI DELL'ALIGHIERI RISPETTO A' PONTEFICI VICARII DI GESÙ CRISTO":
+        "Veri sentimenti dell'Alighieri rispetto a' pontefici vicarii di Gesù Cristo",
+    "LO SPIRITISMO": "Lo spiritismo",
+    "SE SIA POSSIBILE LA DIMINUZIONE PROGRESSIVA DELLE PENE ETERNE":
+        "Se sia possibile la diminuzione progressiva delle pene eterne",
+    "NATURA DEGLI SPIRITI INFERNALI": "Natura degli spiriti infernali",
+    "L' IPOCRISIA": "L'ipocrisia",
 }
 
 SUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
@@ -146,6 +165,9 @@ def read_page(n, errors):
     title = None
     if lines and re.fullmatch(r"[A-ZÀ-Ý' .]+", lines[0].strip()) and len(lines[0]) > 4:
         title = lines.pop(0).strip()
+        # an essay title printed on two lines (0303, 0324)
+        while lines and re.fullmatch(r"[A-ZÀ-Ý' .]+", lines[0].strip()) and len(lines[0]) > 4:
+            title += " " + lines.pop(0).strip()
     # signature mark: a number alone at the foot, after a blank line
     if len(lines) > 2 and re.fullmatch(r"\d+", lines[-1].strip()) and not lines[-2].strip():
         lines = lines[:-2]
