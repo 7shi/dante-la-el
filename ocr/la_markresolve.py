@@ -1,6 +1,6 @@
 """Decide the marks left by la_markprep.py and resolve them into the pages.
 
-    la_markresolve.py WORK -t TESSDIR [-p FIRST LAST] [--write]
+    la_markresolve.py WORK -t TESSDIR [-p FIRST LAST] [--light] [--write]
 
 Reads WORK/post/ and WORK/locate.tsv (la_markprep.py), WORK/decide.tsv (la_markdecide.py,
 if present), and the hand-made WORK/mine.tsv and WORK/fixes.tsv (if present). Each mark
@@ -21,11 +21,18 @@ A decision that changes ocr/la (`right`) taken from the model is `check` until c
 WORK/mine.tsv: the model reads common forms for misprints, and Tesseract shares GLM-OCR's
 c/e errors.
 
+With --light (the pages from 0400, where the text is read for sense at the end and obvious
+misprints are corrected then), a mark left open by these routes gets a default, route
+`light`: `check` takes the model's `right` (GLM-OCR, the model and Tesseract agree), unless
+it brings in a gloss mark in plain digits (`(1)`, GLM-OCR's way); an
+`image` mark keeps ocr/la (`left`), except text on one side only (a loss or a duplicated
+head) and the model's `right` that Tesseract does not share, which stay open with `text`.
+
 WORK/mine.tsv (page, line, k, decision, note) holds the decisions made by hand and
 overrides the others: `left`, `right`, or `text:` followed by the printed text (`⏎` for a
 line break). WORK/fixes.tsv (page, old, new, note) holds replacements made after the marks
-are resolved (`⏎` for a line break), for what the marks do not cover; each `old` must occur
-exactly once.
+are resolved (`⏎` for a line break, `⇥` for a tab), for what the marks do not cover; each
+`old` must occur exactly once.
 
 Writes WORK/route.tsv (every mark), WORK/review.tsv (the marks still to decide by hand,
 with the reason and the crop), and WORK/out/PAGE.txt for each page whose marks are all
@@ -161,12 +168,22 @@ def route(p, t, locs, model, tw, rule):
     return out
 
 
+def light(rt, cls, r, decision, mv, note):
+    """The default decision of --light for a mark left open, or "" to decide by hand."""
+    if rt == "check": return "" if re.search(r"\(\d+\)", r) else decision
+    if rt != "image" or cls == "onesided" or note == "passage": return ""
+    if note == "model and Tesseract differ" and mv.startswith("right "): return ""
+    return "left"
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("work", type=Path, help="the work directory of la_markprep.py")
     ap.add_argument("-t", "--tessdir", required=True, type=Path, help="Tesseract's PAGE.tsv files")
     ap.add_argument("-p", "--pages", nargs=2, type=int, metavar=("FIRST", "LAST"),
                     help="only the pages FIRST-LAST")
+    ap.add_argument("--light", action="store_true",
+                    help="defaults for the open check and image marks (see above)")
     ap.add_argument("--write", action="store_true", help="also write the finished pages to ocr/la")
     a = ap.parse_args()
     w = a.work
@@ -178,7 +195,8 @@ def main():
     mine = {(f["page"], int(f["k"])): f["decision"] for f in table(w / "mine.tsv")}
     fixes = collections.defaultdict(list)
     for f in table(w / "fixes.tsv"):
-        fixes[f["page"]].append((f["old"].replace("⏎", "\n"), f["new"].replace("⏎", "\n")))
+        un = lambda s: s.replace("⏎", "\n").replace("⇥", "\t")
+        fixes[f["page"]].append((un(f["old"]), un(f["new"])))
     rule = ColonRule()
     rows = ["page\tline\tk\tclass\tleft\tright\troute\tdecision\tmodel\ttess\tnote"]
     review = ["page\tline\tk\tclass\tleft\tright\treason\tmodel\ttess\tcrop"]
@@ -194,8 +212,10 @@ def main():
             l, r = m.groups(); line = M.mark_line(t, m)
             cells = [p, str(line), str(k), klass(l, r), l.replace("\n", "⏎"), r.replace("\n", "⏎")]
             if rt == "model" and decision == "right": rt, note = "check", "changes ocr/la"
+            if a.light and (p, k) not in mine and (d := light(rt, cells[3], r, decision, mv, note)):
+                rt, decision, note = "light", d, f"{rt}: {note}"
             rows.append("\t".join(cells + [rt, decision, mv, tv, note]))
-            final = mine.get((p, k), decision if rt in ("rule", "model") else "")
+            final = mine.get((p, k), decision if rt in ("rule", "model", "light") else "")
             count[(rt, "decided" if final else "open")] += 1
             text += t[pos:m.start()]; pos = m.end()
             if final == "left": text += l
