@@ -791,14 +791,27 @@ In this order (decided with the user, 2026-10-15):
        in the review or the retyping; 0241 to make superscript at step 9, each number
        checked in the image (0240 printed `29` where the file had `27`).
    - **Batch 4** (0349–0478; way A, decided with the user, 2026-10-23): step 6 done for
-     0349–0399 (in `WORK/mine.tsv` and `fixes.tsv`; nothing written to `ocr/la` yet). 20 of
+     0349–0399. 20 of
      45 pages retyped from the scan by la-el-claude (0349 0353 0354 0355 0363 0365 0369
      0376 0377 0381 0382 0384–0389 0391–0393): lines run together or out of order, lines
      lost, Italian and Latin swapped (0393), `[For lines …]` notes in the text (0392).
      0387 and 0388 are essay pages kept as one line per paragraph and were retyped line
      by line by mistake: join them back into paragraphs at step 8 (as 0347). 0383's
      signature is `42` (a worn `4`, as on 0399). 0395–0399 are la-el-opencode's retype 23
-     with its errors fixed (below).
+     with its errors fixed (below). 0400–0478 (76 pages with marks; 0408, 0430, 0452, 0478
+     blank, 0477 the PURGATORIUM title) by the low-cost way below, in four parts: 1859 marks
+     (`light` 767 over the batch), no page retyped by la-el-claude; losses put back from
+     the image on 0447, 0455, 0456, 0457 (two paragraphs), 0462 (its right column also
+     before the left), 0471 (two paragraphs); verse printed side by side split (0449, 0469);
+     page numbers inside the text moved into the head. 0467 was left pending and then
+     retyped by la-el-agy (item 10). Written to `ocr/la` (2026-10-24, 119 pages changed).
+     The step-9 checks found tercet numbers lost (0401, 0405, 0414, all of them; 0363 one),
+     misread (0350, 0455) or misplaced (0402), runovers (0461, 0466), a blank line inside
+     the verse (0432), and 0449's verse still side by side: its `fixes.tsv` row had tabs in
+     the text, which split the row's fields (`⇥` now stands for a tab in `fixes.tsv`).
+     Fixed and written again: `la_check.py` tercets, `la_seqcheck.py` (but `plain`) and
+     `la_lostcheck.py` give no hits. Plain-digit numbers and curly apostrophes are left (item
+     9, a later normalization).
    - **Delegation trials for whole-page retyping** (2026-10-23), against way B's la-el-agy
      (about 1.2 errors a page in retypes 19–21), each checked word by word against both
      OCRs and in the image:
@@ -836,7 +849,10 @@ In this order (decided with the user, 2026-10-15):
      1. Step 5, then a screen of the part: `la_lostcheck.py FIRST LAST -t TESS -d
         WORK/out` (`both` hits) and `la_seqcheck.py FIRST LAST -d WORK/out`.
      2. Step 6 by way A for the pages that are sound. A small loss (a line or two, found
-        by `la_lostcheck.py` or in a mark) is put in with `text:` as before.
+        by `la_lostcheck.py` or in a mark) is put in with `text:` as before. Step 5 runs
+        with `--light` (from 0400): the open `check` marks take the model's `right` and most
+        open `image` marks keep `ocr/la`, so only the rest is looked at; obvious misprints
+        are left for the final reading for sense, and plain-digit numbers stay (item 9).
      3. A page too broken for its marks (lines out of order or run together, columns
         mixed, more than a few lines lost) is **not retyped**: all its marks are decided
         `left|retype pending`, and the page goes into "Pages to retype" (item 10) with
@@ -846,7 +862,7 @@ In this order (decided with the user, 2026-10-15):
         for item 10. Step 8 (the image checks of `la_lines.py`) and step 11 (texts) wait
         for item 10, so that each batch is checked and converted once, with its retyped
         pages in. Commit each batch's `ocr/la` (step 10) when the user asks.
-     Batch 4 goes on from 0400; then batches 5–11.
+     Batch 4 done this way from 0400; then batches 5–11.
 
 9. **Plain digits for tercet numbers and gloss marks** (decided with the user,
    2026-10-24; waits until item 8 has written every batch, since `tmp/la-mark7`'s marks
@@ -868,7 +884,15 @@ In this order (decided with the user, 2026-10-15):
     with `la_lostcheck.py`, written to `ocr/la`; then steps 8 and 11 of each batch. The
     model decisions of these pages (`tmp/la-mark7`) are then unused. The list (page: what
     is wrong), filled in by item 8:
-    - (none yet)
+    - 0467: Italian verse with the runovers `[te (¹²).`, `[te (¹⁶),` on the following
+      tercet's line, a Latin verse line lost (`⁶ Quando nos fuimus tantum ante,`) and one
+      split (`coo-` / `perte`), the head after the page number; the commentary's first
+      paragraph partly lost and its two columns mixed (`la_lostcheck.py`: 2 runs).
+      Retyped early (2026-10-24, before item 9, superscript kept) by la-el-agy on its
+      higher model, Gemini 4 Argon (retype 25), and added to `tmp/la-mark7` by way B: 18 places against the two OCRs looked at,
+      the column order and the 4 rules (one worn, after `armes.`) checked in the image;
+      la-el-agy was right everywhere except 10 dots before a lowercase word, made commas.
+      `la_lostcheck.py`: none.
 
 Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``), a transcription artifact to remove in their batches.
