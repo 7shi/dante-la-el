@@ -813,7 +813,13 @@ In this order (decided with the user, 2026-10-15):
        (`tmp/la-retype23/opencode/`) with the 25 places fixed, and a speck read as an
        accent (0397 `vincerè`), are 0395–0399 in WORK (step 6 of way B: marks `left`,
        pages added with `la_retype.py`, `cmp` with `final/`).
-     Neither replaces la-el-agy for whole pages.
+     - la-el-opencode on Nemotron 3.5 Super VL (retype 24, 0400–0404, 2026-10-24): not
+       usable. About 50 word errors a page on 0400–0401 (`Proper`, `victoriariam`,
+       `capttus`, `--` for the em dash), a third to a half of 0402 and 0404 lost, and on
+       0403 commentary invented and repeated in place of the printed text; its report
+       called the pages confirmed. `la_lostcheck.py` showed it at once (46 `both` runs).
+       Nothing of it is used.
+     None of them replaces la-el-agy for whole pages.
    - **What the checks can see** (2026-10-24): Tesseract's own page layout is not reliable
      (on 0399 and 0376 its blocks span both commentary columns and run their lines
      together), and cutting the columns from the image by its rules was given up (dashed,
