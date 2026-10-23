@@ -791,13 +791,14 @@ In this order (decided with the user, 2026-10-15):
        in the review or the retyping; 0241 to make superscript at step 9, each number
        checked in the image (0240 printed `29` where the file had `27`).
    - **Batch 4** (0349–0478; way A, decided with the user, 2026-10-23): step 6 done for
-     0349–0394 (in `WORK/mine.tsv` and `fixes.tsv`; nothing written to `ocr/la` yet). 20 of
+     0349–0399 (in `WORK/mine.tsv` and `fixes.tsv`; nothing written to `ocr/la` yet). 20 of
      45 pages retyped from the scan by la-el-claude (0349 0353 0354 0355 0363 0365 0369
      0376 0377 0381 0382 0384–0389 0391–0393): lines run together or out of order, lines
      lost, Italian and Latin swapped (0393), `[For lines …]` notes in the text (0392).
      0387 and 0388 are essay pages kept as one line per paragraph and were retyped line
      by line by mistake: join them back into paragraphs at step 8 (as 0347). 0383's
-     signature is `42` (a worn `4`, as on 0399).
+     signature is `42` (a worn `4`, as on 0399). 0395–0399 are la-el-opencode's retype 23
+     with its errors fixed (below).
    - **Delegation trials for whole-page retyping** (2026-10-23), against way B's la-el-agy
      (about 1.2 errors a page in retypes 19–21), each checked word by word against both
      OCRs and in the image:
@@ -809,8 +810,9 @@ In this order (decided with the user, 2026-10-15):
        and reports them as printed (`aannullorum`, `scoppzato`, `Haliì`, `consintiente`),
        adds accents (`fé'`, `fòrato`, `Giù` for `Già`), normalizes (`merla` → `merda`,
        `stropiatus` → `stroppiatus`), and lost a tercet number and two commas. Its files
-       (`tmp/la-retype23/opencode/`) and the list of its errors make 0395–0399 cheap to
-       finish: fix the 25 places and add the pages with `la_retype.py`.
+       (`tmp/la-retype23/opencode/`) with the 25 places fixed, and a speck read as an
+       accent (0397 `vincerè`), are 0395–0399 in WORK (step 6 of way B: marks `left`,
+       pages added with `la_retype.py`, `cmp` with `final/`).
      Neither replaces la-el-agy for whole pages.
    - **What the checks can see** (2026-10-24): Tesseract's own page layout is not reliable
      (on 0399 and 0376 its blocks span both commentary columns and run their lines
@@ -838,7 +840,7 @@ In this order (decided with the user, 2026-10-15):
         for item 10. Step 8 (the image checks of `la_lines.py`) and step 11 (texts) wait
         for item 10, so that each batch is checked and converted once, with its retyped
         pages in. Commit each batch's `ocr/la` (step 10) when the user asks.
-     Batch 4 goes on from 0400 (0395–0399 from retype 23, as above); then batches 5–11.
+     Batch 4 goes on from 0400; then batches 5–11.
 
 9. **Plain digits for tercet numbers and gloss marks** (decided with the user,
    2026-10-24; waits until item 8 has written every batch, since `tmp/la-mark7`'s marks
