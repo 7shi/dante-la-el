@@ -712,17 +712,9 @@ In this order (decided with the user, 2026-10-15):
    - **Review in parts** (decided with the user, 2026-10-22): step 6 goes about 20 pages
      at a time; after each part, stop and report to the user (pages done, marks decided,
      pages retyped, open points) before going on.
-   - **Parts retyped by la-el-agy** (decided with the user, 2026-10-22, from 0276 on): a
-     part's pages are retyped whole from the scan by la-el-agy ("Whole pages" in
-     [DELEGATION.md](DELEGATION.md), task series retype 19–), instead of deciding their
-     marks one by one. Each part is checked by script: every word of the retyped page
-     that differs from both `ocr/la` and GLM-OCR, and every passage both have that it
-     lacks, is looked at in the image. A `.`/`,` difference goes by the comma rule (before
-     a lowercase word a comma, before an uppercase word a period), also where the image
-     shows a round dot (the commas convention; retypes 20 and 21 first took such dots as
-     periods, 30 places, turned back to commas in `WORK/fixes.tsv`); a `:`/`;` difference
-     and an apostrophe gap where the two OCRs agree take their reading. Then every mark of
-     the page is decided `left` and the checked page goes in with `la_retype.py`.
+   - **Parts retyped by la-el-agy** (decided with the user, 2026-10-22, from 0276 on):
+     way B of step 6, instead of way A, deciding the marks one by one (both in "Procedure
+     for a batch", step 6). Task series retype 19–.
    - **Batch 3** (0233–0348, 109 pages, 2166 marks in `review.tsv`): steps 5–9 and 11
      done (2026-10-23, `texts/la/021`–`030`). Step 6: all marks in
      `WORK/mine.tsv`, corrections in `WORK/fixes.tsv`. Step 7: the word diff of the
@@ -871,6 +863,71 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
      (0084 `secundum`, `in vere`, `magis aliis`).
    - small capitals in uppercase, superscript tercet numbers, broken words joined on essay
      pages: the conventions below, whatever the model says.
+
+   **Two ways of doing step 6**, both used on batch 3. Choose one with the user at the
+   start of each batch. The work goes in parts of about 20–25 pages, with a report to the
+   user after each part.
+
+   - **A. All by la-el-claude** (batch 3: 0233–0275, about 820 marks). Every mark is
+     decided as above, in its crop. A page too broken for its marks is retyped from the
+     scan by la-el-claude and added with `la_retype.py`. In 0254–0275 that was 10 pages out
+     of 20: the old OCR there runs lines together, drops lines and words, and mixes columns
+     and page heads. What it gives: every mark is seen, and no delegate errors need
+     checking. What it costs: all the image work falls on la-el-claude, and broken pages
+     are slow.
+   - **B. Pages retyped by la-el-agy** (batch 3: 0276–0347, retypes 19–21). Each page of a
+     part is retyped whole from the scan by la-el-agy ("Whole pages" in
+     [DELEGATION.md](DELEGATION.md)), and la-el-claude checks the result:
+     1. **Task**: `tmp/herdr-task-retypeNN.md`, made from the previous task. It holds the
+        rules of "Whole pages", the list of pages, the output directory
+        `tmp/la-retypeNN/agy/` and the report file `tmp/herdr-report-retypeNN.md`. It
+        gives feedback on the previous part's errors, with examples. It forbids
+        subagents, git changes and shell redirects. Send it with `herdr agent prompt`;
+        send nothing more until the reply comes.
+     2. **Copy**: put each page into `tmp/la-retypeNN/final/`, with leading spaces
+        stripped (la-el-agy indented verse lines in retype 20).
+     3. **Compare** each page word by word with `ocr/la` and GLM-OCR, by a script
+        ("Checking a batch" in DELEGATION.md). It joins hyphenated words and runovers,
+        then lists the words of la-el-agy found in neither reading. It also lists the
+        passages that both readings have and la-el-agy lacks: a lost line (0313).
+     4. **Decide in the image**: drop the hits that are only tercet or page numbers. Crop
+        the rest: for each hit, the Tesseract line most like la-el-agy's line. Look at
+        each crop, and zoom with `la_view.py word` where needed. A `.`/`,` difference goes
+        by the comma rule, also where the image shows a round dot (retypes 20–21 forgot
+        this: 30 places turned back to commas). A `:`/`;` difference or an apostrophe gap
+        takes the reading of the two OCRs when they agree.
+     5. **Fix**: write the fixes as a script of asserted replacements (page, old text,
+        new text, count) and apply it to `final/`.
+     6. **Add to WORK**: for each page, decide all of its marks `left`
+        (`K=$(awk -F'\t' -v p=$P '$1==p{print $3}' WORK/review.tsv | paste -sd,)`, then
+        `la_mine.py WORK $P "$K=left|retyped by la-el-agy (retypeNN)"`). Resolve
+        (step 5). Add each page with `la_retype.py WORK $P final/$P.txt NOTE`, resolve
+        again, and check that `WORK/out/$P.txt` is the same as `final/$P.txt` (`cmp`).
+     7. **Then steps 7–11**, as for A. Also look for what the comparison does not catch:
+        - an essay page kept as one line per paragraph but retyped line by line (0347);
+        - a runover placed after the wrong verse line (0312);
+        - a running head repeated inside the page (0249).
+
+     Measured on batch 3:
+
+     | Retype | Pages | Marks | Hits looked at | Fixes |
+     |---|---|---|---|---|
+     | 19 | 21 | 410 | about 130 | 25 |
+     | 20 | 24 | 482 | about 136 | 36 (one lost line) |
+     | 21 | 24 | 454 | 99 | 28 |
+
+     la-el-agy read many places right where both OCRs were wrong, and it put columns and
+     page heads in order. The same kinds of error came back part after part ("What
+     la-el-agy got wrong" in DELEGATION.md):
+     - dots and commas, colons and semicolons;
+     - spellings normalized;
+     - apostrophe gaps;
+     - indentation;
+     - one lost line.
+
+     What it costs: la-el-agy's time, plus about 100–160 crops per part for la-el-claude,
+     instead of the 400–500 marks of a part decided by A. The words that la-el-agy and
+     both OCRs read alike, and wrongly, are not checked. A has the same limit.
 7. **Resolve**: rerun `la_markresolve.py WORK -t TESS -p FIRST LAST` until `review.tsv` is empty; read the
    word diff of `WORK/out/` against `ocr/la` (every change must be one decided above; a dot
    taken from the image before a lowercase word is a comma, 0127); then add `--write`.
