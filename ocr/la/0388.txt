@@ -1,14 +1,16 @@
+334
+
 INFERNI
 
 ¹⁷ La città di Lamone e di Sancterno
 Conduce 'l lioncel del nido bianco,
 Che muta parte dalla state al verno.
 ¹⁸ E quella (¹) a cui Savio (²) bagna 'l fianco,
-Così com'ella s'è (³) tra'l piano e'l monte,
+Così com'ella s'è(³) tra'l piano e'l monte,
 Tra tyranni si vive in stato franco (⁴).
 ¹⁹ Hora chi se', ti prego che ne conte:
-Non esser duro (⁵) più ch'altro (⁶) sia stato (⁷),
-Se'l nome tuo nel mondo tegna fronte (⁸).
+Non esser duro(⁵) più ch'altro(⁶) sia stato(⁷),
+Se'l nome tuo nel mondo tegna fronte(⁸).
 ²⁰ Poscia che'l fuoco alquanto ebbe rughiato
 Al modo suo, l'acuta puncta mosse
 Di qua, di là, e poi diè cotal fiato (⁹):
@@ -20,7 +22,7 @@ Conducit leunculus de nido albo,
 Qui mutat partem ab estate ad yemem.
 ¹⁸ Et illa cui Savius balneat fiancum,
 Sic sicut ipsa sedet inter planiciem et montem,
-Inter tyramp[n]idem vivit et statum francum.
+Inter tyrampnidem vivit et statum francum.
 ¹⁹ Nunc quis es, te precor quod nobis narres:
 Non sis durus plusquam alius fuerit,
 Si nomen tuum in mundo tene[a]t frontem.
@@ -28,17 +30,83 @@ Si nomen tuum in mundo tene[a]t frontem.
 Modo suo, summitatem suam movit
 Hinc inde, et postea dedit talem flatum:
 
-Demum auctor transfert se ad civitates Faventie et Imola simul. Non nominat eas nomine proprio; sed nominat eas a nominibus fluviorum, quorum unus vocatur Lamone, qui currit per Faventiam; alter vocatur Santerno, qui fluit per Imolam. Iste Santernus antiquitus vocabatur Natrinus, secundum Plinium. Sciendum, quod Maginardus Paganus (fuit tale nomen suum) demissus a patre suo Paolo, qui vocato Pupillo, idest moriente patre, erat pupillus. Inter dominatum Imola et territorium Florentie est contracta que dicitur el Podere, idest possessio Paganorum. Pagani fuit una nobilis domus, que ibi possidebat multa castra; unde imaginans iste Paganus, quando dixit pupillum, inter dominium Ubaldino­rum, qui sunt nobiles in Alpibus, ex una parte, et ex alia dominium comitatum Guidonum, et alia parte erant tyrampnidis de Romandiola; ideo assignavit in tutorem dominium Florentie, sive Comune. Florentini propter habere illum passum, susceperunt curam pueri, et usque ad etatem adultam fideliter substinuerunt puerum; et propter istud beneficium Maginardus semper fuit obligatus Comuni Florentie: qui fuit etiam dominus Forlivii; sed tempore auctoris iam amiserat: ideo Dantes nihil dicit de eo. Nam Dantes ubique, extra Florentiam erat affectatus parti gebelline; sed in Florentia semper tenuit partem guelfam.
+Demum auctor transfert se ad civitates Faventie et
+Imole simul. Non nominat eas nomine proprio; sed no-
+minat eas a nominibus fluviorum, quorum unus vocatur
+Lamone, qui currit per Faventiam; alter vocatur Santerno,
+qui fluit per Imolam. Iste Santernus antiquitus vocabatur
+Natrinus, secundum Plinium. Sciendum, quod Maginardus
+Paganus (fuit tale nomen suum) demissus a patre suo Pa-
+gano, sic vocato, pupillus, idest moriente patre, erat pupil-
+lus. Modo inter comitatum Imole et territorium Florentie
+est contracta que dicitur el Podere, idest possessio Paga-
+norum. Pagani fuit una nobilis domus, que ibi possidebat
+multa castra; unde imaginans iste Paganus, quando di-
+mictebat filium suum pupillum, inter dominium Ubaldino-
+rum, qui sunt nobiles in Alpibus, ex una parte, et ex alia
+dominium comitum Guidonum, et alia parte erant tyrampni
+de Romandiola; ideo assignavit in tutorem dominium Flo-
+rentinum, idest civitatem Florentie, sive Comune. Florentini
+propter habere illum passum, susceperunt curam pueri, et
+usque ad etatem adultam fideliter substinuerunt puerum;
+et propter istud beneficium Maginardus semper fuit obli-
+gatus Comuni Florentie: qui fuit etiam dominus Forlivii;
+sed tempore auctoris iam amiserat: ideo Dantes nihil dicit
+de eo. Nam Dantes ubique, extra Florentiam erat affe-
+ctatus parti gebelline; sed in Florentia semper tenuit par-
+tem guelfam.
+Civitas Faventie, Alamonii, idest Faventia, et Santerni,
+idest Imola, conducit leunculos de nido albo, qui mutat
+partem ab estate ad yemem.
+Nota quod tunc temporis, quando auctor componebat
+opus istud, Maginardus de Suzinana dominabatur in civita-
+tibus Faventie et Imole. Arma illius Maginardi erat unus
+leunculus blavus, idest azzurrinus, in campo albo, et iste
+Maginardus tenebat in Alpibus partem gebellinam, et in
+Romandiola guelfam. Modo Alpes sunt ad partem estatis,
+idest ad meridiem; in Romandiola vero ille duo civitates,
+scilicet Faventie et Imole, sunt versus partem aquilonarem;
+quam partem auctor vocat yemem: ideo dicit quod leun-
+culus, idest Maginardus, qui habebat leunculum, scilicet
+azzurrinum in campo albo, conducit, idest regit, illas duas
+civitates; qui leunculus, scilicet Maginardus, mutat partem
+gebellinam, quam tenet in estate, idest in illis castris, que
+tenet ultra Alpes versus meridiem, ad yemem, idest in Fa-
+ventia et Imola, que sunt ad partem yemis, idest ad Aqui-
+lonem.
 
-Civitas Faventie, Alamoni, idest Faventia, et Santerni, idest Imola, conducit leunculus de nido albo, qui mutat partem ab estate ad yemem.
+Item nunc vertit se auctor ad Zesenam, iuxta quam fluit
+unum flumen, quod vocatur Savio, quod balneat muros
+civitatis Zesene. Ista civitas est sita, partim in colle, partim
+in plano; et tunc ista civitas regebatur a populo et non
+a tyrampnis, esto quod circumcirca ipsam esset dominium
+tyrampnorum. Ideo dicit auctor: Et illa, scilicet civitas,
+cui Savio, idest fluvius, balneat fianco, idest ilia, subaudi
+muros; sic, sicut ipsa sedet inter planitiem et montem, in-
+ter tyrampnidem vivit et statum franchum, idest securum,
+vel liberum.
 
-Nota quod tunc temporis, quando auctor componebat opus istud, Maginardus de Suzinnana dominabatur in civitatibus Faventie et Imola. Arma illius Maginardi erat unus leunculus blavus, idest azzurrinus, in campo albo, et iste Maginardus tenebat in Alpibus partem gebellinam, et in Romandiola vero ille duo civitates, scilicet Faventie et Imola, sunt versus partem aquilonarem; quam partem auctor vocat yemem: ideo dixit quod leunculus, idest Maginardus, qui habebat leunculum, scilicet azzurrinum in campo albo, conducit, idest regit, illas duas civitates; qui leunculus, scilicet Maginardus, mutat partem gebellinam, quam tenet in estate, idest in illis castris, que tenet ultra Alpes versus meridiem, ad yemem, idest in Faventia et Imola, que sunt ad partem yemis, idest ad Aquilonem.
+Nunc, quis es, te precor quod nobis narres: non sis durus
+plus quam alius fuerit, si nomen tuum in mundo teneat
+frontem, idest habeat famam, duret.
 
-Item nunc vertit se auctor ad Zesenam, iuxta quam fluit unum flumen, quod vocatur Savio. quod balneat muros civitatis Zesene. Ista civitas est sita, partim in colle, partim in plano; et tunc ista civitas regebatur a populo et non a tyrampnis, esto quod circumcirca ipsam esset dominium tyrampnorum. Ideo dixit auctor: Et illa, scilicet civitas, cui Savio, idest fluvius, balneat fianco, idest ilia, subaudi muros; sic, sicut ipsa sedet inter planitiem et montem, inter tyramp[n]idem vivit et statum franchum, idest securum, vel liberum.
-
-Nunc, quis es, te precor quod nobis narres: non sis durus plus quam alius fuerit, si nomen tuum in mundo teneat frontem, idest habeat famam, duret.
-
-Poscia che el fuoro. Postquam ignis: hec est tertia pars huius capituli, in qua auctor introducit istum spiritum ad manifestandum se et vitam suam.
-Postquam ignis aliquantulum rugit, murmuravit, modo suo, idest more, summitatem suam movit hinc inde, et postea dedit talem flatum, idest emisît talem vocem: Si ego crederem quod meum responsum esset, idest factum, persone, que unquam rediret ad mundum, ista flamma staret sine pluribus excussionibus, idest non plus loqueretur.
-Hic videtur, quod comes Guido nolit famam, ymo quod timeat: sic dixit: Ego crederem etc. Est et causa est, quia iste recedit ab infamia, idest relapsus est: postquam ceperat habitum Beati Francisci, et penituerat eum suorum peccatorum, et dederat se penitentie, rediit ad astutias suas; quod est sibi ad infamiam.
-Nota quod iste comes Guido in senectute sua habuit conscientiam; et ductus penitentia, intravit Religionem Beati Francisci, et bene se habebat et vivebat secundum Regulam Beati Francisci. Evenit quod papa Bonifatius octavus habebat guerram cum illis de Columpna, et sepe
+Poscia che el fuoco. Postquam ignis: hec est tertia
+pars huius capituli, in qua auctor introducit istum spiri-
+tum ad manifestandum se et vitam suam.
+Postquam ignis aliquantulum rugiit, murmuravit, modo
+suo, idest more, summitatem suam movit hinc inde, et po-
+stea dedit talem flatum, idest emisit talem vocem: Si ego
+crederem quod meum responsum esset, idest factum, per-
+sone, que unquam rediret ad mundum, ista flamma staret
+sine pluribus excussionibus, idest non plus loqueretur.
+Hic videtur, quod comes Guido nolit famam, ymo quod
+timeat: dic quod verum est. Et causa est, quia iste recidi-
+vavit, idest relapsus est: postquam ceperat habitum Beati
+Francisci, et penituerat eum suorum peccatorum, et de-
+derat se penitentie, rediit ad astutias suas; quod est sibi
+ad infamiam.
+Nota quod iste comes Guido in senectute sua habuit
+conscientiam; et ductus penitentia, intravit Religionem
+Beati Francisci, et bene se habebat et vivebat secundum
+Regulam Beati Francisci. Evenit quod papa Bonifatius
+octavus habebat guerram cum illis de Columpna, et sepe

@@ -1,4 +1,5 @@
 420
+
 INFERNI
 
 ⁴⁵ Lo duca et io per quel cammino ascoso
@@ -12,7 +13,7 @@ E quindi escimmo a riveder le stelle.
 ⁴⁵ Dux et ego per illud iter absconsum
 Intravimus ad redeundum in clarum mundum:
 Et sine cura habendi aliquam quietem
-⁴⁸ Ascendimus sursum, ipse primus et ego secundus,
+⁴⁶ Ascendimus sursum, ipse primus et ego secundus,
 Tantum quod ego vidi de rebus pulchris
 Quas portat celum, per unum foramen rotundum,
 Et hac exivimus ad revidendum stellas.
@@ -47,7 +48,7 @@ cornea, alia eburnea. Idest exitur de Inferno vel realiter.
 et hoc non accidit; vel intentionaliter et mentaliter, et
 hoc bene accidit. Laus Iesu Christo, completo isto primo
 libro. Amen, Amen, Amen.
-Explicit ultimum capitulum, idest tricesimumquartum.
+Explicit ultimum capitulum, idest tricesimumquartum,
 huius Inferni.
 
 Et quinde, idest inde, exivimus ad revidendum stellas.
@@ -57,9 +58,9 @@ ambulaverunt per illud foramen, volendo exire de illa
 obscuritate, sine aliqua quiete; idest nullibi quieverunt,
 
 Qui scripsit scribat (¹), semper cum lumine vivat (²):
-Vivat et hic felix cum multo tempore fenx:
+Vivat et hic felix cum multo tempore fenix:
 Hinc videat Chrystum qui librum scripserit istum.
-Qui legit hoc carmen lector respondeat amen.
+Qui legit hoc carmen lector respondea[t] amen.
 Scripsit (³), summe Deus, tibi (⁴) supplex Bartholomeus
 Collensis, minimus minimorum servus et imus,
 Chrysti sectator, Francisci lentus amator,

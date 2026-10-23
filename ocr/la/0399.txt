@@ -1,9 +1,10 @@
-CAPITULUM VICESIMUM OCTAVUM
-315
+345
+
+CAPITULUM VICESIMUMOCTAVUM
 
 ⁹ Tra le gambe pendevan le minugia (¹);
 La corata apparea (²), e'l triste sacco (³)
-Che sterco (⁴) fa di quel che si tranghugia (⁵).
+Che sterco(⁴) fa di quel che si tranghugia (⁵).
 ¹⁰ Mentre che'n lui veder tutto m'attacco,
 Guardommi, e colle man s'aperse'l pecto,
 Dicendo: Or vedi come mi dilacco (⁶):
@@ -14,19 +15,22 @@ Fesso nel volto dal mento al ciuffecto:
 Seminator di scandalo e di scisma
 Furon in vita; però son fessi così.
 ¹³ Un diavol è qua dietro che n'ascisma (⁸)
-Sì crudelmente, al taglio della spada
+Sì crudelmente, al taglo della spada
 Rimettendo ciascun di questa risma (⁹),
 ¹⁴ Quand'havian volto la dolente strada;
 Però che le ferite son richiuse
 Prima ch'altri dinanzi li rivada.
 
+(¹) budella. — (²) si vedea. — (³) ventre. — (⁴) al. merla. — (⁵) si mangia. — (⁶) dilanio. — (⁷) mio discipulo. — (⁸) tagla. —
+(⁹) compagnia.
+
 ⁹ Inter crura pendebant minugia;
 Corata apparebat, et tristis saccus
 Qui stercorem facit de eo quod comeditur.
 ¹⁰ Dum totus in eum ad videndum me dispono,
-Respexit me, et cum manibus aperuit sibi pectus,
-Dicendo: Or, nunc, videas qualiter ego me dilaccoro:
-¹¹ Videas quomodo stroppiatos est Machometus.
+Respexit me, et cum manibus apperuit sibi pectus,
+Dicendo: Or,nunc,videas qualiter ego me dilacco:
+¹¹ Videas quomodo stroppiatus est Machometus.
 Ante me vadit plorando Aly
 Fixus in vultu a mento usque ad cinciput:
 ¹² Et omnes alii, quos tu vides hic,
@@ -39,19 +43,17 @@ Remictendo quemlibet istius risme,
 Ex eo quia vulnera sunt reclusa
 Priusquam alter ad eum revertatur.
 
-(¹) budella. — (²) si vedea. — (³) ventre. — (⁴) al. merla. — (⁵) si mangia. — (⁶) dilanio. — (⁷) mio discipulo. — (⁸) taglia. — (⁹) compagnia.
-
 Inter crura pendebant minugia, idest viscera; corada
 apparebat [et] tristis saccus (tristis dicitur ab effectu, cum
-in eo putrefiant omnia, quae comeduntur; vel dicitur tristis a
-persona sustinente penam illam), qui stercorem facit de eo
-quod comeditur. Saccus, idest venter, sive stomachus, qui
-stercorem facit. Loquitur proprie auctor: stomachus coquit
-cibum, sicut lebes, et partem micit ad intestina, partem
-puram ad pulmonem, quae convertitur in sanguinem. Quasi
-dicat auctor: Scientia et doctrina, quae intravit in Macho-
+in eo putrefiant omnia, que comeduntur; vel dicitur tristis a
+persona, sustinente penam illam), qui stercorem facit de eo
+quod comeditur. Saccus, idest venter, sive stomacus, qui
+stercorem facit. Loquitur proprie auctor: stomacus coquit
+cibum, sicut lebes, et partem mictit ad intestina, partem
+puram ad pulmonem, que convertitur in sanguinem. Quasi
+dicat auctor: Scientia et doctrina, que intravit in Macho-
 metum, corrupit quasi totum mundum, totam Suriam, in
-suam falsam credulitatem, Ethiopiam, Armeniam et ma-
+suam falsam credulitatem, Ethiopiam, Armeniam pro ma-
 gna parte, etiam aliquam partem Indie, et pro maiori parte
 regiones orientales.
 Nota quod de isto Machometo sunt varie opiniones.
@@ -64,26 +66,27 @@ et recepit pro se maiorem partem. Aliqui dicunt, quod
 Machometus non fuit cardinalis, sed fuit discipulus car-
 dinalis; et quia cardinales, qui promiserant isti cardinali,
 magistro Machometi, papatum, non observaverunt pactum,
-sed suscepit in suum filium adoptivum et discipulum istum Machometum, qui erat
-optimæ indolis, astutus et prudens, et fecit nutrire sic et
-columbam, quod ipsa nunquam comedebat nisi super
-humeros Machometi, et ponebantur grana frumenti in au-
-gustum et dicitur quod illa erat Spiritus Sanctus, qui veniebat
-ad docendum Machometum, quae esset voluntas Dei et quod
+ideo iste cardinalis, turbatus, suscepit in suum filium ado-
+ptivum et discipulum istum Machometum, qui erat iuvenis
+optime indolis, astutus et prudens, et fecit nutriri sic et
+taliter columbam, quod ipsa nunquam comedebat nisi super
+humeros Machometi; et ponebantur grana frumenti in au-
+ribus Machometi, et columba comedebat illa grana: et di-
+xerunt populo, quod illa erat Spiritus Sanctus, qui veniebat
+ad docendum Machometum, que esset voluntas Dei et quod
 Deus elegerat ipsum Machometum pro salute populorum.
-
 Et postquam multi ceperunt credere sibi, ipse incepit com-
 ponere legem, tam de Testamento veteri quam de novo
 assumens plura et multa; et in lege concessit multa et
 multa placibilia nature, sicut coire ad beneplacitum, ha-
-bere plures uxores. Et multa concessit secundum concu-
-piscentiam et mundi grata, quae placent hominibus. Di-
-xit propheta se esse prophetam ad declarandum libros Moysis
-Hebraeis, et legem christianorum Christianis; et fuit ita
+bere plures uxores, et multa concessit secundum concu-
+piscentiam et mundi grata, que placent hominibus. Di-
+cebat se esse prophetam ad declarandum libros Moysis
+Hebreis, et legem christianorum Christianis; et fuit ita
 astutus, quod ipse fecit occidi omnes sapientes Arabie, ut
 nemo esset qui sciret detegere factum suum: et sic multi
-fuerunt; omnes ideo sunt fixi sic: scissi, idest divisi.
-Nota etiam quod Aly fuit patruus suus et de sua septa;
+iverunt post ipsum, sicut multi vadunt post concupiscentias.
+Nota etiam quod Aly fuit patruus suus et de sua septa:
 non tamen est ita fixus sicut Machometus, quia non fuit
 ita pravus sicut ipse.
 
@@ -91,14 +94,14 @@ Dum totus in eo ad videndum me dispono, respexit me
 et cum manibus sibi aperuit pectus, dicendo: Or, idest
 nunc, videas qualiter me dilacco, idest divido (hanc scis-
 suram fecerat ille dyabolus, qui scindit alios): videas quo-
-modo stroppiatos est Machometus: ante me vadit Aly plan-
-gens, fixus in vultu a mento usque ad cinciput, et omnes
+modo stropiatus est Machometus: ante me vadit Aly plan-
+gendo, fixus in vultu a mento usque ad cinciput, et omnes
 alii, quos tu vides hic, seminatores scandali et schysmatis
 fuerunt; omnes ideo sunt fixi sic: scissi, idest divisi.
 
 Unus dyabolus est hic retro, qui nos dividit, vel nos mo-
 ratur, ita crudeliter cum acie ensis, remictendo, idest re-
-ponendo, quemlibet istius risme, idest societatis (risma
+ponendo, quemlibet istius risme, idest sotietatis (risma
 proprie est quidam numerus cartarum de papiro; sed hic
 sumitur largo modo) vel ordinis, quando circuivimus do-
 lentem stratam; ex eo quia vulnera sunt reclusa priusquam
