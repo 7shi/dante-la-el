@@ -2,13 +2,13 @@
 
 INFERNI
 
-18 Et ei gridò (!): Se’ tu già costì ricto,
-Se’ tu già costì ricto, Bonifacio (²) ?
+¹⁸ Et ei gridò (¹): Se' tu già costì ricto,
+Se' tu già costì ricto, Bonifatio (²)?
 Di parecchi anni mi mentì lo scripto.
 
-(¹) colui, cioè papa Nicholao degl’Orsini. — (²) o Papa.
+(¹) colui, cioè papa Nicholao degl'Orsini. — (²) o Papa.
 
-18 Et ipse clamavit: Es tu iam ibi,
+¹⁸ Et ipse clamavit: Es tu iam ibi,
 Es tu iam ibi, Bonifati?
 De pluribus annis est michi mentita scriptura.
 
@@ -26,15 +26,15 @@ de Columpna. Unde facti sunt inimici sui; quos ipse capello
 privavit, et fecit quasi exterminari domum de Columpna,
 abstulit ab eis Penestrinum, et multa alia. Sed quia ipse
 Bonifatius vocavit Karolum de Frantia, qui dicebatur
-Sineterra, quia nullam habebat terram, promittens ei fa-
+Sineterra, quia nullam habebat terram, promictens ei fa-
 cere ipsum regem, et nunquam fecit; ideo rex Philippus,
-germanus istius Karoli. rex Frantie, factus est inimicus
+germanus istius Karoli, rex Frantie, factus est inimicus
 ipsius Bonifatii. Quod audiens dominus Sciarra, nobilis
 miles de Columpna, ivit ad regem Philippum, regem Frantie,
 et dixit ei: Si vis me iuvare et michi auxiliari, nos depo-
 nemus papam Bonifatium. Rex Philippus acceptavit, di-
 cens: Pete quidquid vis. Tunc ipse petiit pecunias et ho-
-mines armorum. Rex Philippus omnia concessit. Tune
+mines armorum. Rex Philippus omnia concessit. Tunc
 papa Bonifatius stabat et morabatur in Anania, civitate
 Campanie. Iste dominus Sciarra fecit tractatum cum ali-
 quibus de Anania, et dato ordine, ivit ad Ananiam et in-
@@ -47,7 +47,7 @@ preparavit se in pontificalibus cum omnibus suis cubicu-
 lariis, et ibi expectavit. Dominus Sciarra, subintrans et
 perveniens ad papam, dicebat pape: Renuntia papatum;
 renuntia omnino. Et ille dicebat: Papa moriar, Papa mo-
-riar. Tune dominus Sciarra duxit papam Romam, et tenebat
+riar. Tunc dominus Sciarra duxit papam Romam, et tenebat
 eum in una magna turri; et papa momordit manus suas:
 tandem, nolens comedere, fame periit et mortuus est. Iste
 dilexit tantum suos, quod, ad ditandum eos, fecit symoniam
@@ -60,35 +60,33 @@ gendum successorem istius adeo discordes, quod steterunt
 in conclavi per multos menses: nam inter eos erat secta
 Bonifatii, que inimicabatur regi Frantie; et erat ibi secta
 illorum de Columpna, et hii amicabantur regi Frantie. Unus
-Cardinalis de Prato, oppido pulchro, quod est solompne ca-
+Cardinalis de Prato, oppido pulchro, quod est solempne ca-
 strum prope Florentiam per decem milliaria, erat valde
-
-INFERNI
 
 prudens, et erat de Ordine Predicatorum; iste, videns
 tantam discordiam in electione, volvit se ad partem Bo-
-nifatii, dicens: Faciamus papam archiepiscopum Burdi-
-galensem, qui est inimicus regis Frantie, sicut de facto erat.
-Contenti quo facto iste Cardinalis subito occultissime
+nifatii, dicens: Faciamus papam archiepiscopum Burdiga-
+lensem, qui est inimicus regis Frantie; sicut de facto erat.
+Contenti quo facto, iste Cardinalis subito occultissime
 misit, dicendo et indicando omnia hec regi Frantie, signi-
 ficando sibi, quod ipse provideret ad facta sua. Rex Fran-
 tie bene intellexit: subito scripsit archiepiscopo Burdi-
 galensi, quod ipse veniret ad regem, quia etiam ipse rex
-versum ipsum archiepiscopum accederet, quasi ad factum
-suu. Archiepiscopus Burdigalensis, ignarus horum omnium,
+versus ipsum archiepiscopum accederet; quod et factum
+est. Archiepiscopus Burdigalensis, ignarus horum omnium,
 veniebat bene timide ad regem; sed etiam ivit rex versus
-illum. In una terra obviaverunt sibi invicem: et post multa,
+illum. In una terra obviaverunt sibi invicem; et post multa,
 rex Frantie dixit illi: Videte, domine archiepiscope: con-
-stati quod vos fuistis inimicus meus; sed spero quod
-de cetero bonus amicus meus, quia faciam vobis
+stat michi quod vos fuistis inimicus meus; sed spero quod
+eritis de cetero bonus amicus meus, quia faciam vobis
 unum servitium, propter quod eritis michi amicus, et bene
-mihi vultis, et ego ostendam vobis, quod papatus
+merito. Ego habeo modum et viam ad faciendum te papam:
 in mea potestate stat et est quod tu sis papa: si tu vis,
 promicte michi facere aliqua; ego faciam te papam. Tunc
 ille archiepiscopus dixit: Domine rex, talia nunquam merui;
 sed si hoc facere vultis, petite et fient omnia ad petitionem
 vestram. Tunc rex dixit: Volo reponas illos duos cardi-
-nales de Columpna, quos privavit Bonifatius, et cappel-
+nales de Columpna, quos privavit Bonifatius, ad cappel-
 lum; volo quod dimictas michi decimas per decem annos;
 volo quod transmutes tu papatum ad partes istas, et
 quod tu non stes in Ytalia; et quod facias tu cremari et
@@ -97,13 +95,14 @@ censura, et quod casses et adnihiles omnes processus factos
 contra me; et quod tu dampnes illum Bonifatium pro he-
 retico. Que omnia iste promisit facere, et omnia postmodum
 observavit, preter cremationem ossium Bonifatii et dam-
-pnationem in hereticum. Tune rex fecit cantari missam, et
-quod iste archiepiscopus omnia hec iuravit super
-corpus Christi. Tune, quando fuit totum factum publicatum.
+pnationem in hereticum. Tunc rex fecit cantari missam, et
+fecit quod iste archiepiscopus omnia hec iuravit super
+corpus Christi. Tunc, quando fuit totum factum publicatum,
 iste archiepiscopus, qui fuit Clemens, nunquam intravit
 Ytaliam; sed subito misit pro cardinalibus et transtulit
-papatum ad partes Frantie. et sic stetit usque ad Urbanum
+papatum ad partes Frantie, et sic stetit usque ad Urbanum
 sextum.
+
 Et ille clamavit: Es ne iam istic tu, es iam tu istic.
 Bonifati? De pluribus annis mentita est michi scriptura.
 Iste papa Nicolaus de Ursinis, qui erat hic, credebat quod

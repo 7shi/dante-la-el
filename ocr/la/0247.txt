@@ -1,3 +1,5 @@
+193
+
 CAPITULUM QUINTUMDECIMUM
 
 ⁴ A tal ymagine eran facti quelli,
@@ -8,7 +10,7 @@ Tanto, ch'io non havrei visto dov'era,
 Perch'io indietro rivolto mi fossi;
 ⁶ Quando incontrammo d'anime una schiera,
 Che venian sotto noi, e ciascheduna
-Ci riguardava, come suol da sera,
+Ci riguardava, come suol da sera
 
 ⁴ Ad talem ymaginem erant facti illi,
 Quamquam nec ita alti nec ita grossi,
@@ -27,17 +29,17 @@ modum venit estas in mensibus prescriptis, nives liquefiunt,
 aque habundant, fluvius crescit; et nisi illi de Padua, vel
 de territorio Paduano, facerent reparacula super ymargi-
 nes, sive super ripas, Brente, idest illius fluvii, aqua spar-
-gitur et flueret super sata et campos laboratos, et super
+geretur et flueret super sata et campos laboratos, et super
 villas, et destrueret omnia etiam castra, que sunt iuxta
-ipsum Brentam, idest illi Paduani faciunt
+ipsum Brentam, idest fluvium: ideo illi Paduani faciunt
 talia reparacula super Brentam, sive fluvium.
 Sed notandum est hic, quod ille fluvius Brenta crescit
-et habundat propter nives, qui liquefiunt tempore estivo;
+et habundat propter nives, que liquefiunt tempore estivo;
 sed fluxus in Flandria, vel alibi ubi sit, non propter nives,
 sed propter lunam, causatur. Ubi bene nota, quod luna
 potest in hoc assimilari lapidi magneti, sive calamite, quo-
 niam, sicut magnes attrahit ad se ferrum, sic luna trahit
-ad se, idest supra in aierem, humiditates: ita quod luna,
+ad se, idest supra in aierem, humiditates; ita quod luna,
 propter suam influentiam, habet magnam efficaciam super
 aquam, et maxime maris, quoniam est multa, in tantum
 quod bis in die naturali facit cedere aquam et recedere,
@@ -50,11 +52,12 @@ septemtrionem.
 Adhuc nota, quod luna causat fluxum sic. Luna bis in
 die habet aspectum rectum et perpendicularem ad fun-
 dum maris, et sic ad terram; et bis in die habet aspectum
-perpendicularem et directe, tunc radii lunares descendunt
+per transversum: quando luna habet aspectum ad fundum
+perpendiculariter et directe, tunc radii lunares descendunt
 ad fundum maris, et trahunt ad se vapores, et elevant a
-fundo maris tales vapores, qui vapores, dum sic elevantur,
+fundo maris tales vapores; qui vapores, dum sic elevantur,
 faciunt aquam tumescere, et aqua sic tumens exit terminos
-suos: quando vero luna habet aspectum ad fundum
+primos: quando vero luna habet aspectum ad fundum
 maris per transversum, tunc radii lunares non trahunt
 vapores, ymo dimictunt eos, et sic vapores revertuntur
 ad fundum; et tunc tumefacta aqua dimictit tumorem, et
@@ -72,39 +75,40 @@ vapores, qui in primis sex horis elevabantur, in hiis sex
 horis deprimuntur et revertuntur ad fundum. Iterum in
 aliis sex horis tertie quarte, luna habet aspectum per di-
 rectum; et tunc iterum vapores elevantur, et sic iterum
+aqua fluit. In aliis sex horis quarte quarte, quia luna
 habet aspectum per transversum, vapores descendunt et
-aqua influit. Sic igitur luna causat fluxum et reflu-
+sic aqua refluit. Sic igitur luna causat fluxum et reflu-
 xum maris. Sed quare est, et quomodo est, quod fluxus ali-
 quando est in meridie, aliquando in vesperis, aliquando in
-media die, et vana, sive meridiem et vesperos, aliquando
+medio, inter nonam, sive meridiem et vesperos, aliquando
 in occasu solis, et sic in omni mense, variantur fluxus et
 refluxus? Respondetur, quod sicut luna crescit et decrescit,
 sic variatur motus suus. Quando Luna est rotunda et plena,
-scilicet quintadecima, vel quartadecima, tunc obviam soli.
+scilicet quintadecima, vel quartadecima, tunc obviam soli,
 sole occidente, luna oritur; ita quod, quando luna est quin-
 tadecima, sole occidente, luna oritur: in sextadecima die
 lune, post occasum solis, ad unam horam orietur: in de-
-cima septima die lune, post occasum solis, tardabit luna
+cimaseptima die lune, post occasum solis, tardabit luna
 per duas horas noctis et amplius antequam oriatur: in
 decima vero octava die lune, post occasum solis, tardabit
 luna oriri quasi ad quartam horam noctis. Et sicut va-
 riatur tempore situs lune et occasus, sic variatur aspectus
-ad fundum maris; et sic variantur refluxus
-et fluxus maris. His dictis, ad textum proceditur.
-Qualiter Flamingi inter Guizantem et Bruggis, idest
-inter istas duas solemnes villas, timendo flotum, idest
+sui ad terram et fundum maris; et sic variantur refluxus
+et fluxus maris. Hiis dictis, ad textum proceditur.
+Qualiter Flamingi inter Guizantem et Brugis, idest
+inter istas duas solempnes villas, timendo fiotum, idest
 [faciunt] reparaculum, ut mare fugiat; et quales Paduani,
-id est, iuxta, Brentam, propter defendere suas villas
+longo, idest iuxta, Brentam, propter defendere suas villas
 et sua castella, antequam Clarentana, idest illa montana
-que sic vocatur Clarentana, calorem sentiat, id est, etatis.
+que sic vocatur Clarentana, calorem sentiat, idest estatis.
 Clarentana lombardice vulgariter, litteraliter Carintia; et
 ibi sunt et dominantur quidam duces, qui dicuntur duces
 Carintie. Notanter dicit textus: Antequam Carintia sentiat
 calorem; quia si illi Paduani expectarent quod nives lique-
 fierent, tunc non possent reparare. Ad talem ymaginem
-erant facti illi, quamquam non ita alti, nec sic grossi,
-qualis, id est quisquis, magister fecerit illos. Quasi dicat:
-Quicunque fecit illos, ille fuit magnus magister; nam ille
+erant facti illi; quamquam non ita alti, nec sic grossi,
+qualis, idest quisquis, magister fecerit illos. Quasi dicat:
+Quicumque fecit illos, ille fuit magnus magister; nam ille
 magister fuit Deus, qui fecit omnia superiora et infera,
 qui reddit penas et merita, sive premia.
 

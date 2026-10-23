@@ -11,7 +11,7 @@ Dove parlò de la rana e del topo:
 
 ¹ Taciti, soli, sine sotietate,
 Ibamus unus ante et alter post,
-Sicut Fratres Minores vadunt per viam.
+Sicut Fratres Minores vadunt per vium.
 ² Voluta erat super fabulam Exopi
 Mea cogitatio propter presentem rixam,
 Ubi locutus est de rana et de mure:
@@ -25,28 +25,24 @@ supra tacta.
 In secunda, que incipit:
 Laggiù trovammo;
 Ibi inferius reperimus,
-
 auctor describit penam ypocritarum in generali.
 In tertia, que incipit ibi:
 Perch'io al duca mio;
 Ex quo ego duci meo,
-
-auctor describit in specialiduo spiritus modernos, qui enor-
+auctor describit in speciali duos spiritus modernos, qui enor-
 miter peccarunt in ypocrisi.
 In quarta, que incipit ibi:
 Io comenzai, Frati, i vostri mali;
 Ego incepi, Fratres, vestra mala,
-
 describuntur aliqui antiqui spiritus, radix et fundamen-
 tum ypocrisis qui fuerunt.
-Primo igitur continuando dicta dicendis, volens osten-
+Primo igitur, continuando dicta dicendis, volens osten-
 dere, quomodo ipse et Virgilius pervenerunt de quinta
 bolgia ad sextam, dicit: Taciti, soli, sine sotietate; ad de-
 notandum quomodo erant intenti ad novam fictionem, quam
 erant facturi, meditando et speculando, et speculationem
-
-impediit societas; ideo erant taciti et soli (etiam clamores
-impediunt); vel soli, qui hucusque habuerunt sodalitum
+impedit societas; ideo erant taciti et soli (etiam clamores
+impediunt); vel soli, qui hucusque habuerunt sodalitium
 decem demonum, nunc non erant plus sotiati. Ibamus unus
 ante et alter post, sicut Fratres Minores vadunt per viam;
 tamen dignior, scilicet Virgilius, ibat ante ad passum.
@@ -61,12 +57,11 @@ catus Exopus, fecit unum librum ad informationem vite ci-
 vilis et humane, fingendo pulcherrimas fabulas, adeo [quod]
 Aristotiles facit mentionem de ipso. Inter alias fabulas
 ponit, quod semel mus voluit transire unum fluvium, et non
-potèrat, quia aqua erat profunda. Rana, videns murem per-
-plexum, ivit ad eum et obtulit se sibi, quia bene scit natare.
-Mus gavisus est et ascen-
-sit se ponens super ranam, et ligavit se filo, ne caderet et
-transporare eum ultra fluvium.
-Quando rana fuit in aqua profunda, volebat se
+poterat, quia aqua erat profunda. Rana, videns murem per-
+plexum, ivit ad eum et obtulit se sibi, quia bene scit natare,
+trasportare eum ultra fluvium. Mus gavisus est et ascen-
+dit, se ponens super ranam, et ligavit se filo, ne caderet et
+periret. Quando rana fuit in aqua profunda, volebat se
 immergere propter suffocare murem: mus conabatur ad
 oppositum, et rana nitebatur omnino immergi. Et dum
 rixarent, milius, volans super, et sic videns murem, de-

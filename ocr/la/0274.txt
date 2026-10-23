@@ -1,3 +1,5 @@
+220
+
 INFERNI
 
 ²¹ Poi, procedendo di mio sguardo el curro (¹),
@@ -31,7 +33,7 @@ Monstrando unam aucam albam sicut burrum.
 Signatum habebat suum sacculum album,
 Michi dixit: Quid facis tu in ista fossa?
 ²³ Ergo recede: et quia tu es vivus adhuc,
-Sciat quod meus vicinus Vitalianus
+Scias quod meus vicinus Vitalianus
 Sedebit hic apud meum sinistrum flancum.
 ²⁴ Cum istis Florentinis sum Paduanus;
 Spissis vicibus michi intronant aures,
@@ -48,19 +50,20 @@ Et dixit: Iam sis fortis et audax.
 
 Modo ponit alium civem florentinum, scilicet Gabrielem de
 Ubriachis, dicens: Postmodum, procedendo de meo sguardo,
-idest intuitu currum, idest currum meorum oculorum, vidi
-unam aliam, scilicet bursiam, sicut sanguinem rubeam,
+idest intuitu, currum, idest currum meorum oculorum, vidi
+unam aliam, scilicet bursiam, sicut sanguinem, rubeam,
 monstrando unam aucam albam, sive anserem blancum
 sicut burrum, idest butirum.
 
 Demum ostendit dominum Ioannem Baiamontem de
 Strovignis de Padua, dicens: Et unus, qui de una scrofa
 azuria, idest grossa, signatum habebat suum sacchettum
-album, idest bursiam albam, michi dixit: Quid facis
+album, idest suam bursiam albam, michi dixit: Quid facis
 tu in hac fossa? idest in ista arena, ubi sunt feneratores.
 Erat hic in loco valde basso, quia, in extremitate, quanto
 magis itur, tanto magis concavus locus reperitur. Quasi
-dicas ille tertius, qui loquitur cum auctore: Credis, forte,
+dicat ille tertius, qui loquitur cum auctore: Credis, forte,
+in hac fossa numerare omnes feneratores et usurarios? Non
 posses, certe, quia sumus hic quasi infiniti; nam vitium
 nostrum iam transivit ad mercatores, ad cansores, ad ar-
 tifices, et, quod detestandum est, ad sacerdotes et prelatos.
@@ -79,18 +82,21 @@ Cum istis Florentinis sum Paduanus: spissis, idest
 pluribus vicibus michi intronant, idest surdescunt, aures,
 clamando: Veniat miles supremus, qui portabit tascam,
 idest bursiam, cum tribus yrcis. Hic distorsit, idest in tor-
-tione in obliquum, vertit faciem, et foris traxit lin-
+tum, sive in obliquum, vertit faciem, et foris traxit lin-
 guam, sicut bos qui nasum leccat, idest lingit. Hoc dicit
-quia hic dominus Ioannes Baiamonte, qui loque-
+auctor, quia hic dominus Ioannes Baiamonte, qui loque-
 batur cum auctore, dum vivebat, hunc talem morem et
-actum, sive gestum, habuit, quia sepissime trahebat
-linguam et ponebat quasi ad nasum, nec a tali more
-potuerat abstinere.
+turpem actum, sive gestum, habuit, quia sepissime trahebat
+foris linguam et ponebat quasi ad nasum, nec a tali more
+poterat abstinere.
 
 Descripto sufficienter circulo violentorum, iam auctor
 vult describere descensum suum ad circulum fraudis; et
 continuans, dicit: Et ego timens, ne meum amplius stare
-(cum usurarariiis, supple) ipsum, scilicet Virgilium, cruciarer:
+(cum usurariis, supple) ipsum, scilicet Virgilium, cruciaret,
+qui me de pauco stare, idest pauca mora, habebat moni-
+tum, idest monuerat, redii retro ab animabus lapsis, idest
+fessis, sive cruciatis. Idest: non oportebat ibi plus stare,
 quia materia usure satis erat pertractata; ideo redii ad
 magistrum, qui cum Gerione me expectabat in extremitate
 descensus.
@@ -99,4 +105,5 @@ Nunc Virgilius incantat Dantem, quod non timeat, sed
 sit bene audax, et quando rediit ad magistrum, invenit
 eum iam ascendisse super groppam, idest super spatulas,
 sive renes, Gerionis; et quia, ne Gerion posset nocere Danti
-ipsam, quia ex parte capitis habebat caput benignum, sed
+cum cauda, veluit Virgilius quod Dantes sederet ante
+ipsum, quia ex parte capitis habebat caput benignum, sed

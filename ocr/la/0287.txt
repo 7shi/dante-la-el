@@ -18,10 +18,13 @@ Che prim'havea tutte l'altre ingannate (³).
 Tal colpa a tal martiro lui condanna;
 Et ancor di Medea si fa vendetta.
 
+(¹) animosità. — (²) dell'oro. — (³) riservando'l padre.
+
 ²⁸ Et bonus magister, sine mea petitione,
 Michi dixit: Intuere illum magnum qui venit,
 Et propter dolorem non videtur quod lacrymam
-²⁹ Quantum aspectum regalem adhuc retinet! [expandat:
+[expandat:
+²⁹ Quantum aspectum regalem adhuc retinet!
 Iason fuit ille, qui per cor et per sensum
 Cholchos de montone privavit.
 ³⁰ Ipse transivit per insulam Lenni,
@@ -34,10 +37,8 @@ Que prius omnes alias deceperat.
 Talis culpa ad tale martyrium ipsum condempnat;
 Et etiam de Medea fuit vindicta.
 
-(¹) animosità. — (²) dell'oro. — (³) riservando'l padre.
-
 Modo ponitur hic unus spiritus antiquus. Hic spiritus
-fuit Iasou, qui, audita fama de vellere aureo, quod erat
+fuit Iason, qui, audita fama de vellere aureo, quod erat
 in Cholchis (est enim una insula in Archipelago de numero
 Cicladarum, que vocatur Cholchis, in qua erat unus aries,
 qui faciebat vellus aureum), tunc Iason fecit fieri unam na-
@@ -49,8 +50,8 @@ ea, que infra scribuntur, que Statius scribit. Illi homines
 de insula Lenno, ante dextructionem Troye, iverunt contra
 insulam Tracie et regem eius, et steterunt pugnantes bene
 per tres annos; quos sepe uxores eorum revocaverunt.
-Nunquam voluerunt redire. Ista[m] hystoria[m] de h[iis], qui
-iverunt contra Traciam, Oratius bene ponit. hystoriam esse
+Nunquam voluerunt redire. Ista[m] hystoria[m] de hiis, qui
+iverunt contra Traciam, Oratius bene ponit, hystoriam esse
 veram. Poete tamen fingunt, quod isti homines de Lenno
 non volebant colere Venerem deam, sed colebant Martem.
 Demum, post tres annos, redibant isti de Lenno victores.
@@ -70,8 +71,9 @@ dando eis optima vina et inebriaverunt eos; et tunc de
 nocte, sopitos sompno et vino, omnes interfecerunt. Modo
 ista insula erat sine masculis; prope quam navigando Ia-
 son cum sotiis, applicuit ei insule Lenni. Mulieres, videntes
+
 navem, et nullam aliam viderant, posuerunt se super muros
-civitatis ad propugnacula pro defensione: quod videns Ia-
+civitatis ad propugnacula pro defensione: quod videns Ja-
 son, subito extraxit ramum ulive et ostendit signum pacis
 et amicitie. Quod videntes mulieres, aperuerunt eis portas
 et intraverunt, et steterunt ibi diu, et quilibet habebat
@@ -93,7 +95,7 @@ quod sic. Tunc dixit Medea: Tu nunquam posses acqui-
 rere, nisi tu scires modum, per quem; sed si tu vis pro-
 mictere michi recipere me in uxorem, ego docebo te
 viam, etc. Iason promisit sibi omnia, que ipsa Medea pe-
-tebat. Tunc ipsa docuit eum, quomodo oportebat cum primo
+tebat. Tunc ipsa docuit eum, quomodo oportebat eum primo
 preliari cum uno maximo serpente; et illo devicto (quod
 erat magnus labor ad faciendum), tunc oportebit ipsum ire
 ad silvam, et capere duos tauros feroces, indomitos, et
@@ -104,4 +106,5 @@ et nascerentur homines armati, feroces in armis; et cum
 quolibet illorum oportebat ipsum Iasonem pugnare et vin-
 cere omnes eos: quo facto, obtineret vellus aureum, et nullo
 modo aliter posset obtinere. Et subiunxit: Et ego docebo
+
 30

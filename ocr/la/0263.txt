@@ -28,7 +28,7 @@ Che si divalli giù nel basso lecto,
 Ch'è a Forlì di quel nome vacante,
 ³⁴ Rimbomba là sopra San Benedecto
 Dell'Alpe, per cader ad una scesa,
-Che dovria a mille fonti esser ricetto;
+Che dovria a mille fonti esser ricecto;
 
 ²⁶ Sic clamavi cum facie elevata:
 Et tres, qui hoc intellexerunt pro responso,
@@ -49,7 +49,8 @@ Ex quo magistro fuit visum recedere.
 ³¹ Ego eum sequebar, et modicum iveramus,
 Quod sonus aque erat nobis ita vicinus,
 Quod quamquam loquuti fuissemus, non essemus
-³² Sicut ille fluvius, qui habet proprium iter [auditi.
+[auditi.
+³² Sicut ille fluvius, qui habet proprium iter
 Prius a monte Veso versus orientem
 Ad sinistrum latus Appennini,
 ³³ Qui vocatur Aquaquieta superius, ante
@@ -101,6 +102,6 @@ cipitet in infimum lectum, et apud Forlivium illius nominis
 est vacans, resonat ibi supra Sanctum Benedictum de Al-
 pibus, ut cadat ad unum descensum, ubi debebat pro mille
 esse receptaculum. Vult dicere hic auctor, quod aqua huius
-rivi cadebat de alto in bassum, sive in ymam, cum sono
+rivi cadebat de alto in bassum, sive in ymum, cum sono
 grandi et confuso, sicut cadit una aqua in Romandiola in
 27
