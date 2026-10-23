@@ -19,7 +19,9 @@ open item. The conventions and rules below are settled: apply them, do not ask a
 ## State (2026-10-17)
 
 **Batches 1–2 (`0079`–`0232`, Inferno I–XIII) are complete**, and the procedure below is
-established on them. `texts/la/008`–`020` are converted from them.
+established on them. `texts/la/008`–`020` are converted from them. **Batch 3 (`0233`–`0348`,
+Inferno XIV–XXIII)** is complete too (2026-10-23; Remaining work, item 8), converted into
+`texts/la/021`–`030`.
 
 "Complete" means, for every page of 0079–0232 (0128, 0140, 0162, 0172 are blank):
 
@@ -708,21 +710,57 @@ In this order (decided with the user, 2026-10-15):
    (steps 2–4 done there for all pages in item 7) and `-p FIRST LAST` on
    `la_markresolve.py`, so that only the batch's pages are routed, reviewed and written.
    - **Review in parts** (decided with the user, 2026-10-22): step 6 goes about 20 pages
-     at a time (0299–0320 next); after each part, stop and report to the user (pages
-     done, marks decided, pages retyped, open points) before going on.
+     at a time; after each part, stop and report to the user (pages done, marks decided,
+     pages retyped, open points) before going on.
    - **Parts retyped by la-el-agy** (decided with the user, 2026-10-22, from 0276 on): a
      part's pages are retyped whole from the scan by la-el-agy ("Whole pages" in
      [DELEGATION.md](DELEGATION.md), task series retype 19–), instead of deciding their
      marks one by one. Each part is checked by script: every word of the retyped page
      that differs from both `ocr/la` and GLM-OCR, and every passage both have that it
-     lacks, is looked at in the image. Without the image: a `.`/`,` difference where the
-     two OCRs agree goes by the comma rule (before a lowercase word a comma, before an
-     uppercase word a period); a `:`/`;` difference and an apostrophe gap where they agree
-     take the OCRs' reading. Then every mark of the page is decided `left` and the
-     checked page goes in with `la_retype.py`.
-   - **Batch 3** (0233–0348, 109 pages, 2166 marks in `review.tsv`), in progress: step 5
-     done; step 6 done for 0233–0298 (1230 marks in
-     `WORK/mine.tsv`, corrections in `WORK/fixes.tsv`); `--write` not yet run.
+     lacks, is looked at in the image. A `.`/`,` difference goes by the comma rule (before
+     a lowercase word a comma, before an uppercase word a period), also where the image
+     shows a round dot (the commas convention; retypes 20 and 21 first took such dots as
+     periods, 30 places, turned back to commas in `WORK/fixes.tsv`); a `:`/`;` difference
+     and an apostrophe gap where the two OCRs agree take their reading. Then every mark of
+     the page is decided `left` and the checked page goes in with `la_retype.py`.
+   - **Batch 3** (0233–0348, 109 pages, 2166 marks in `review.tsv`): steps 5–9 and 11
+     done (2026-10-23, `texts/la/021`–`030`). Step 6: all marks in
+     `WORK/mine.tsv`, corrections in `WORK/fixes.tsv`. Step 7: the word diff of the
+     mark-decided pages read (the retyped pages' differences were checked against the
+     two OCRs), written to `ocr/la` (103 pages changed). Step 8: two blank lines at rules
+     added (0235), 0236's commentary rebroken where inserted text had run printed lines
+     together (also 0241, 0233 and 0251 at step 9), 24 dots before a lowercase word made
+     commas, 0347 (an essay kept as one line per paragraph, retyped line by line) joined
+     back into paragraphs. Step 9: tercet numbers 0251 `²⁶` and 0253 `³⁴`–`³⁸` (the file
+     had `²⁸`, `²⁴`–`²⁸`), 0241's numbers made superscript; page numbers added on 0242,
+     0247, 0249, 0253 (0249 `CAPITULO` for printed `CAPITULUM`); 0236's gloss markers made
+     superscript; 0265 a blank line after the left column's last rule. Step 11 found:
+     0249's running head repeated before the Latin verse (removed, as 0227), 0312's
+     runover `[fidem,` after the wrong line (moved after `ita meam`), and 0324's two-line
+     essay title split by a blank line (joined as on 0303; `convert_la.py` now joins a
+     title printed on two lines). The 14 remaining
+     `NO BLANK` hits of `la_lines.py` and the pages `la_check.py` lists with more rules
+     than blank lines were looked at: page-end rules or a short last line matched early.
+     0299–0322 (24 pages, 482 marks) retyped by la-el-agy (retype 20): 36 places not as
+     printed fixed, among them a lost line (0313, the first line of the right column),
+     dots before a lowercase word (20 times, later turned back to commas), 4 colons
+     written as semicolons, missing marks (`dispositus,`, `minus,`, `baractandum.`), letters
+     (`trageto`, `Veggio`, `recordar`, `malefice`, `desiït` for printed `tragecto`,
+     `Veggo`, `ricordar`, `malifice`, `desiit`), 3 apostrophe gaps where the print is
+     tight; verse lines indented with spaces (removed). Where both OCRs were wrong it read
+     right (`Virgllio`, `fixuras`, `DECIMUMNONUM`, `dïsse`, the column order of 0318 and
+     0321).
+     0323–0347 (24 pages without the blank 0326, 454 marks) retyped by la-el-agy (retype
+     21): 99 places against the two OCRs looked at in the image, 28 fixed (among them 10
+     dots before a lowercase word, later turned back to commas), 3 colons written as
+     semicolons, letters
+     (`contegnum`, `porossum`, `disfatiat`, `subtraxit`, `medium`, `figlio`,
+     `edipficaverunt`, `sfavillat`, `confinato` for printed `contegnam`, `porosum`,
+     `disfaciat`, `substraxit`, `medio`, `figlo`, `edificaverunt`, `favillat`,
+     `continato`), a space put before a footnote number where the print has none
+     (`cesso(⁴)`, `lungi(¹)`), 4 apostrophe gaps (`che'l`, `e'l`, `Onde'l`, `E'l`). No
+     line lost; the tercet numbers of 0333, 0335 and 0343–0346 put in superscript and
+     checked in the image.
      0276–0298 (21 pages, 410 marks) retyped by la-el-agy (retype 19): 159 places
      against the two OCRs, about 130 looked at in the image; 25 places not as printed
      fixed: `seis` for `scis` (5 times, 0297), `a se` for `à sè` (0276), `dimisit` for
@@ -757,10 +795,9 @@ In this order (decided with the user, 2026-10-15):
        0240: a running head inside the text) are put right in `fixes.tsv`.
      - Tercet numbers not superscript (`27 Tra tutto …`) on 18 pages of the batch (0240,
        0241, 0248, 0262, 0265, 0285, 0294, 0298, 0302, 0313, 0316, 0322, 0333, 0335,
-       0343, 0344, 0345, 0346; listed by `grep -cP '^\d+ \(?[A-Z]'`): 0240, 0248, 0262,
-       0265, 0285, 0294 and 0298 done in the review or the retyping, the others to make
-       superscript at step 9, each checked in the image (0240 printed `29` where the file
-       had `27`).
+       0343, 0344, 0345, 0346; listed by `grep -cP '^\d+ \(?[A-Z]'`): all but 0241 done
+       in the review or the retyping; 0241 to make superscript at step 9, each number
+       checked in the image (0240 printed `29` where the file had `27`).
 
 Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``), a transcription artifact to remove in their batches.
