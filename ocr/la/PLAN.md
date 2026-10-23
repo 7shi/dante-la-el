@@ -790,6 +790,77 @@ In this order (decided with the user, 2026-10-15):
        0343, 0344, 0345, 0346; listed by `grep -cP '^\d+ \(?[A-Z]'`): all but 0241 done
        in the review or the retyping; 0241 to make superscript at step 9, each number
        checked in the image (0240 printed `29` where the file had `27`).
+   - **Batch 4** (0349–0478; way A, decided with the user, 2026-10-23): step 6 done for
+     0349–0394 (in `WORK/mine.tsv` and `fixes.tsv`; nothing written to `ocr/la` yet). 20 of
+     45 pages retyped from the scan by la-el-claude (0349 0353 0354 0355 0363 0365 0369
+     0376 0377 0381 0382 0384–0389 0391–0393): lines run together or out of order, lines
+     lost, Italian and Latin swapped (0393), `[For lines …]` notes in the text (0392).
+     0387 and 0388 are essay pages kept as one line per paragraph and were retyped line
+     by line by mistake: join them back into paragraphs at step 8 (as 0347). 0383's
+     signature is `42` (a worn `4`, as on 0399).
+   - **Delegation trials for whole-page retyping** (2026-10-23), against way B's la-el-agy
+     (about 1.2 errors a page in retypes 19–21), each checked word by word against both
+     OCRs and in the image:
+     - la-el-codex (retype 22, 0350–0353, 0359): about 11 errors a page, spellings
+       modernized (`Meglo` → `Meglio`, `exinde` → `deinde`), apostrophe gaps added.
+     - la-el-opencode (retype 23, 0395–0399; GLM-5.3 cannot view images, GLM-5.3-Flash
+       can): 25 errors in 5 pages. The layout was right on every page (line and column
+       order, runovers, the gloss block, on two broken pages too), but it invents misprints
+       and reports them as printed (`aannullorum`, `scoppzato`, `Haliì`, `consintiente`),
+       adds accents (`fé'`, `fòrato`, `Giù` for `Già`), normalizes (`merla` → `merda`,
+       `stropiatus` → `stroppiatus`), and lost a tercet number and two commas. Its files
+       (`tmp/la-retype23/opencode/`) and the list of its errors make 0395–0399 cheap to
+       finish: fix the 25 places and add the pages with `la_retype.py`.
+     Neither replaces la-el-agy for whole pages.
+   - **What the checks can see** (2026-10-24): Tesseract's own page layout is not reliable
+     (on 0399 and 0376 its blocks span both commentary columns and run their lines
+     together), and cutting the columns from the image by its rules was given up (dashed,
+     worn and slanted rules, overlapping verse columns). `la_lostcheck.py` finds text
+     lost from a page (both OCRs have it, the file not), loosely and in any order: over
+     all pages, none in 0079–0348 and none in the reviewed 0349–0394, but 30 pages of
+     0349–0477 and 202 of 0478–1296 in the current `ocr/la`. It cannot see lines out of
+     order or run together (about half of batch 4's broken pages); two order checks
+     (place in GLM-OCR, adjacency of Tesseract's lines) were tried and gave too many false
+     hits. `la_seqcheck.py` adds the format checks `la_check.py` lacks.
+   - **From here to the last page, at low cost** (decided with the user, 2026-10-24):
+     finish every batch through step 7 without retyping pages; the retyping waits for
+     item 10. Per batch, in parts of about 20 pages with a report after each:
+     1. Step 5, then a screen of the part: `la_lostcheck.py FIRST LAST -t TESS -d
+        WORK/out` (`both` hits) and `la_seqcheck.py FIRST LAST -d WORK/out`.
+     2. Step 6 by way A for the pages that are sound. A small loss (a line or two, found
+        by `la_lostcheck.py` or in a mark) is put in with `text:` as before.
+     3. A page too broken for its marks (lines out of order or run together, columns
+        mixed, more than a few lines lost) is **not retyped**: all its marks are decided
+        `left|retype pending`, and the page goes into "Pages to retype" (item 10) with
+        what is wrong. Its `ocr/la` stays as it is.
+     4. Step 7 (`--write`) and the scripted checks of step 9 (`la_check.py`,
+        `la_seqcheck.py`, `la_lostcheck.py` on `ocr/la`); hits on pending pages are left
+        for item 10. Step 8 (the image checks of `la_lines.py`) and step 11 (texts) wait
+        for item 10, so that each batch is checked and converted once, with its retyped
+        pages in. Commit each batch's `ocr/la` (step 10) when the user asks.
+     Batch 4 goes on from 0400 (0395–0399 from retype 23, as above); then batches 5–11.
+
+9. **Plain digits for tercet numbers and gloss marks** (decided with the user,
+   2026-10-24; waits until item 8 has written every batch, since `tmp/la-mark7`'s marks
+   and `fixes.tsv` rows hold the superscript text and would no longer match): the tercet
+   numbers (`³ Se s'adunasse`) and the gloss marks (`(³)`) in `ocr/la` become plain digits
+   (`3 Se s'adunasse`, `(3)`), by a script, over all pages. The superscripts are where the
+   OCRs and the delegates err most (numbers lost on 0375, 0378, 0380, 0390; not superscript
+   on 0379 and on 25 pages of batches 1–2), and nothing needs them: `convert_la.py` counts
+   the tercet numbers and writes `texts/la` as before, `la_check.py` reads both forms.
+   With it: the conventions below, `la_seqcheck.py` (it reads only superscript blocks and
+   lists `(1)` as a leftover), the rules of "Whole pages" in DELEGATION.md. No line of
+   prose starts with a number followed by text (all 58 such lines outside full verse
+   blocks were looked at, 2026-10-24): they are verse lines, a barcode (1293), and page
+   heads run into the page number, to put on two lines in their batches (0070
+   `16 PREAMBULA`, 0496 `442 PURGATORII`, 0636, 0802, 0818, 1094, 1156, 1268).
+10. **Pages to retype** (after item 9, so that the retyped pages use plain digits): the
+    pages left `retype pending` in item 8 and those `la_lostcheck.py` lists, retyped from
+    the scan (by la-el-agy, way B, or by la-el-claude), checked against both OCRs and
+    with `la_lostcheck.py`, written to `ocr/la`; then steps 8 and 11 of each batch. The
+    model decisions of these pages (`tmp/la-mark7`) are then unused. The list (page: what
+    is wrong), filled in by item 8:
+    - (none yet)
 
 Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``), a transcription artifact to remove in their batches.
@@ -1381,6 +1452,14 @@ GLM-OCR has (0199 `Venimus super`, 0200 `Fili mi,`, 0202 `quo`): these go in `fi
 - `ocr/la_check.py FIRST LAST [-v] [-o OUT]`: tercet numbers (order, every third line,
   continuity across pages) and the section rules of the images against the blank lines
   (the rule count often misses right-column and page-end rules: look at a listed page).
+- `ocr/la_lostcheck.py FIRST LAST -t TESS [-g GLM] [-d DIR ...] [-n N] [-v] [-o OUT]`: text
+  lost from a page: runs of 4+ words of Tesseract and GLM-OCR found nowhere in the page
+  file, matched loosely (three-word runs, similarity 75) and in any order; `both` (the two
+  OCRs agree) is lost text, `tess`/`glm` mostly one OCR's noise. It does not see lines out
+  of order or run together. `-d` reads another directory first (e.g. `WORK/out`).
+- `ocr/la_seqcheck.py FIRST LAST [-d DIR ...] [-v] [-o OUT]`: per page, verse blocks whose
+  tercet numbers skip, Italian and Latin numbers that differ, plain-digit tercet numbers,
+  leftovers (`(1)`, `<sup>`, `[For `, a `—` line, double spaces), indented lines.
 - `ocr/la_versecrop.py PAGE... -t TESS -o OUTDIR [-c it|la]`: crops the verse column
   missing from a page (found from the other column's lines in Tesseract's words and the
   blank band between the columns), for its transcription; `crops.tsv` lists the boxes and
