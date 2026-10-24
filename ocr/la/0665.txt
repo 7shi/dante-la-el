@@ -1,3 +1,5 @@
+611
+
 CAPITULUM SEXTUMDECIMUM
 
 ³⁴ Perchè la gente (¹), che sua guida (²) vede
@@ -6,7 +8,7 @@ Di quel (⁶) si pasce, e più oltre non chiede.
 ³⁵ Ben puoi veder che la mala condocta (⁷)
 È la cagion che 'l mondo è facto reo,
 E non natura che in voi sia corrotta.
-³⁶ Soleva Roma, che'l buon mondo (⁸) feo (⁹),
+³⁶ Soleva Roma, che 'l buon mondo (⁸) feo (⁹),
 Due soli (¹⁰) haver, che (¹¹) l'una e l'altra strada
 Facean veder, e del mondo (¹²) e di Deo (¹³).
 ³⁷ L'un l'altro ha spento; et è giunta la spada
@@ -22,10 +24,14 @@ Prima che Federigo havesse briga:
 Per qualunque lassasse, per vergogna
 Di ragionar co'buoni o appressarsi (¹⁷).
 
+(¹) mondana — (²) prelato — (³) attendere — (⁴) gente -- (⁵) cupida — (⁶) ben temporale — (⁷) reggimento de' prelati --
+(⁸) al. che buon el mondo feo — (⁹) olim — (¹⁰) lumi — (¹¹) e quali due, papa et imperadore — (¹²) l'imperadore — (³) lo papa —
+(¹⁴) al fructo — (¹⁵) perchè — (¹⁶) al. per lo — (¹⁷) a'buoni.
+
 ³⁴ Ex quo gens, que suum ducem videt
 Solum ad illud bonum ferire unde ipsa est avida,
 De illo pascitur, et ulterius non querit.
-³⁵ Bene potes videre quod mala conductia
+³⁵ Bene potes videre quod mala conducta
 Est causa que mundum fecit reum,
 Et non natura que in vobis sit corrupta.
 ³⁶ Solebat Roma, que mundum bonum fecit,
@@ -44,34 +50,57 @@ Priusquam Fredericus haberet rixam:
 Quicumque dimicteret, propter verecundiam
 Ratiocinandi cum bonis vel appropinquari.
 
-(1) mondana — (2) prelato — (3) attendere — (4) gente — (5) cupida — (6) ben temporale — (7) reggimento de' prelati —
-(8) al che buon el mondo feo — (9) olim — (10) lumi — (11) e quali due, papa et imperadore — (12) l' imperadore — (13) lo papa —
-(14) al fructo — (15) perche — (16) al. per lo — (17) a' buoni.
+Nota etiam, quod Marcus vult dicere quod mala exem-
+pla, que dant pastores Ecclesie, sunt causa quod populi
+errent et male agant: qui videntes populi mala opera pre-
+latorum et eorum ad quos spectat alios corrigere, di-
+cunt: Sic facit Papa; sic faciunt Cardinales et Episcopi:
+quare nos non possumus similiter facere et amplius? Nos
+videmus quod prelati Ecclesie amant, querunt, divitias,
+sequuntur delectabilia. Aut sic facere bonum est, et ideo
+sic faciunt; et tunc nos debemus eos sequi, et facere si-
+militer sicut ipsi faciunt: vel sciunt quod cumulare pecu-
+nias, vacare delectationibus sensualitatis, est malum; sed
+quia ipsi sciunt quod Deus est tantum misericors, quod
+omnibus remictit, et ideo non abstinent, sic et similiter
+debemus sperare in misericordia divina, et similia operari.
+Bene dicit Aristoteles, et sic etiam dicit Augustinus, quod
+pastores et rectores deberent regere populos et dirigere,
+ymo pastores reddere rationem de tot animabus, quot de-
+derunt mala exempla, quibus fuerunt causa male operandi.
+Ex quo gens, que suum ducem videt solum ad illud
+bonum ferire, idest intendere, unde ipsa est avida, idest
+quod ipsa appetit, de illo pascitur et ulterius non querit.
+Bene potes videre quod mala conducta, idest malum re-
+gimen, est causa quod mundus facit malum, et non natura,
+que sit in omnibus.
 
+Solebat Roma, que bonum mundum fecit, idest bene
+mundum rexit, duos soles habere, idest directores, sive
 illuminatores, scilicet summum Pontificem et Imperatorem,
 qui, scilicet Papa et Imperator, utramque stratam, viam,
 scilicet spiritualem et temporalem, faciebant videre, idest
 demonstrabant, et mundi et Dei.
 
-Unus alium extinxit: et est coniunctus ensis cum pasto-
-rali, idest unus vult prosequi utramque officium; et unum
+Unus alium extinxit; et est coniunctus ensis cum pasto-
+rali, idest unus vult prosequi utrumque officium; et unum
 cum reliquo simul per vivam vim, videlicet, male convenit,
 idest oportet, quod vadat. Hoc hic dicitur propter papam
 Bonifacium octavum. Nam quando Albertus imperator fuit
 electus, misit in Ytaliam, volens venire ad recuperandum
-ipsam Ytaliam; sed Bonifacius papa preparavit se primo,
+ipsam Ytaliam. Sed Bonifacius papa preparavit se primo,
 ut summus pontifex paratur; deinde ensem cinxit sibi, et
 vocatis ambassiatoribus Imperatoris, dixit eis: Ego sum et
 volo esse utrumque, scilicet volo esse Papa et Imperator,
-eo quia iuncti unus alterum non timet. Si michi non credis.
-idest intuere bene, quia omnis herba co-
+eo quia iuncti unus alterum non timet. Si michi non credis,
+ponas mentem, idest intuere bene, quia omnis herba co-
 gnoscitur per semen; quia a fructibus eorum cognoscuntur
 tales, etc.
 
 Super patria. In sul paese: ista est quarta pars huius
 capituli, in qua predictus Marcus recitat auctori imita-
 tionem morum hominum de Lombardia, et iudicat de illis,
-quia fuit dictum est, aulicus, et habebat notitiam quasi
-totus Lombardie. Sed est nota quod inter Padum, fluvium
+quia fuit, ut dictum est, aulicus, et habebat notitiam quasi
+totius Lombardie. Sed nota quod inter Padum, fluvium
 magnum Lombardie, et Adicem fluvium, qui fluit per me-
 dium civitatis Verone, continetur Marchia Trivisina. Est
