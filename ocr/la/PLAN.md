@@ -812,7 +812,7 @@ In this order (decided with the user, 2026-10-15):
      Fixed and written again: `la_check.py` tercets, `la_seqcheck.py` (but `plain`) and
      `la_lostcheck.py` give no hits. Plain-digit numbers and curly apostrophes are left (item
      9, a later normalization).
-   - **Batch 5** (0479–0609, cantos I–XII of the Purgatorio; 2026-10-24) by the low-cost
+   - **Batch 5** (0479–0609, cantos I–XI of the Purgatorio and the summary of XII; 2026-10-24) by the low-cost
      way, in six parts of about 20 pages; 0532, 0554, 0608 blank, 0488 without marks.
      Besides the marks: losses put back from the image (0490, 0496, 0499, 0504, 0519,
      0522, 0540, 0558, 0559, 0591, 0592, 0595; 0603 eleven half-lost lines, 0600 a
@@ -884,7 +884,11 @@ In this order (decided with the user, 2026-10-15):
         for item 10, so that each batch is checked and converted once, with its retyped
         pages in. Commit each batch's `ocr/la` (step 10) when the user asks.
      Batch 4 done this way from 0400; batch 5 too, but with its broken pages retyped at
-     once by la-el-agy instead of left pending (see Batch 5); then batches 6–11.
+     once by la-el-agy instead of left pending (see Batch 5); then batches 6–11, each
+     ending before a canto summary page and retyping its broken pages the same way:
+     6 `0610`–`0728` (Purgatorio XII–XXI), 7 `0729`–`0846` (XXII–XXXI), 8 `0847`–`0960`
+     (XXXII–XXXIII, Paradiso I–VII), 9 `0961`–`1072` (VIII–XVI), 10 `1073`–`1184`
+     (XVII–XXVI), 11 `1185`–`1296` (XXVII–XXXIII and the end).
 
 9. **Plain digits for tercet numbers and gloss marks** (decided with the user,
    2026-10-24; waits until item 8 has written every batch, since `tmp/la-mark7`'s marks
