@@ -1,10 +1,11 @@
 429
+
 PREAMBULA
 
 et ultimi Rome, de primis regibus; qui sic coegit Lucretiam, que postmodum se
 interfecit. Sed certe, meo iudicio, laudabilius fuisset, si ipsa permisisset se in-
 terfici a Sexto Tarquinio et nullatenus consensisset, quam, post consensum vi
-factum, se interficere: cuius oppositum ipsa fecit. Ipsa consensît vi, tamen de-
+factum, se interficere: cuius oppositum ipsa fecit. Ipsa consensit vi, tamen de-
 mum se postmodum interfecit; quod non videtur michi laudabile, nihil certe.
 Tunc mulieri necessaria est virtus fortitudinis, que facit hominem constantem
 ad sustinendum terribilia et audiendum horribilia: sed omnium terribilius est
@@ -32,7 +33,7 @@ Apocalipsis: Et fugit terra ad conspectum eius. Nota quod illud foramen, per quo
 Virgilius et auctor exiverunt de Inferno, terminatur in ista terra elevata, sive
 in illo monte, et ideo non oportuit eos ire per navim; ita quod, exeuntes per illud
 foramen, invenerunt se in lictore maris in terra illa et ad illam terram: nisi
-per illud foramen nemo posset ire sine navi; quia illa terra facta est una insula.
+per illud foramen, nemo posset ire sine navi; quia illa terra facta est una insula.
 Et sicut Anglia, existens insula sicuti est, est sic circumdata mari, quod ad illam
 non est possibilis accessus sine adiutorio navis, nisi quis volaret, ita ad hanc
 terram sic elevatam sursum, ad istum montem, nemo venire potest nisi per

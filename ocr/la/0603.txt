@@ -1,5 +1,6 @@
-CAPITULUM UNDECIMUM
 549
+
+CAPITULUM UNDECIMUM
 
 ²⁷ O, diss’ io lui, non se’ tu Oderisi,
 L’honor d’Agobbio, e l’honor di quell’arte
@@ -16,13 +17,12 @@ Che, possendo peccar, mi volsi a Dio.
 ³¹ O vanagloria dell’humane posse,
 Com’ poco verde in sulla cima dura,
 Se non è giuneto dall’etati grosse!
-³² Credette Cimabù della pinctura
+³² Credette Cimabò della pinctura
 Tener el campo, et hor ha Giotto’l grido,
 Sì che la fama di colui è scura.
+
 (¹) o.
 
-CAPITULUM UNDECIMUM
-549
 ²⁷ O, dixi ego ad eum, nonne es tu Oderisius,
 Honor Eugubii, et honor illius artis
 Que alluminare vocatur in Parisius?
@@ -43,26 +43,28 @@ Tenere campum, et nunc habet Gioctus gridum,
 Ita quod fama illius est obscura.
 
 O, dixi ego ad eum, nonne es tu Oderisius, honor Egu-
-bii, et honor illius artis que alluminare vocatur in Parisius? Ubi
+bii, et honor illius artis que allumare vocatur in Parisius? Ubi
 nos Ytalici dicimus miniare, Parisius dicitur alluminare:
 quando liber est bene miniatus, Parisius dicitur bene allu-
 minatus. Tamen nos Ytalici melius et proprius loquimur.
 Unde dicitur miniare? a quodam colore nomine minio. Dicit
+Plinius, quod istud minium erat in tanto pretio, quod Scipio
+triumphans intravit Romam tinctus minio.
 
-Frater, dixit ipse, magis rident carte, idest splendent
+Frater, dixit ipse, magis rident carte, idest splendent,
 quas pennellegiat, idest cum pennello pingit, Francus Bo-
 noniensis: honor est totus suus, et meus in partem.
 
-Bene non fuissem ego ita curialis, dum ego vixi. propter
-grande desiderium illius excellentie, cui meum [cor?] in-
+Bene non fuissem ego ita curialis, dum ego vixi, propter
+grande desiderium illius excellentie, cui meum [cor] in-
 tendit in preterito.
 
 Hic accipitur vanagloria pro superbia, quia filia eius est.
-Aliqui diffamant hic auctorem, quia poterat ponere
+Aliqui diffamant hic auctorem, quia poterat ponere hic
 aliquos viros illustres et generosos, et ipse posuit hic ar-
-tistas et pictores. Dicendum quod optime fecit, quia, quan-
-tum superbiunt et vanagloriantur artiste, quanto ma-
-magni et illustres viri? quia tantus est appetitus lau-
+tistas et pictores. Dicendum quod optime fecit, quia, quando
+tantum superbiunt et vanagloriantur artiste, quanto magis
+magni et illustres viri? quia tantus est appetitus laudis
 et vanaglorie, quod etiam nimium nedum [magni, sed] parvi
 appetunt. De tali superbia hic solvitur fio, hic supple da
 penitentia: et adhuc hic non essem, nisi esset quod, potens
@@ -74,9 +76,9 @@ per etates grossas. Hic multi dixerunt multos errores, di-
 centes quod auctor per etates grossas intellexit homines
 valde illustres, artistas vero intelligebat per etates non
 grossas. Alii dicunt quod per etates grossas intellexit con-
-stellationes bonas. sub quibus vigent et florent notabiles
+stellationes bonas, sub quibus vigent et florent notabiles
 
-viri; sicut tempore Octaviani. quo viguerunt plurimi illu-
+viri; sicut tempore Octaviani, quo viguerunt plurimi illu-
 strissimi; sicut ipse Octavianus, in tanto principatu: quo
 etiam tempore Cicero et Virgilius. Aliter dicunt aliqui
 quod auctor intendit per etatem grossam, quod pauci il-
@@ -84,25 +86,25 @@ lustres viri florent, sed unus tantum, sicut accidebat tem-
 pore Alexandri, quo tempore floruit Aristotiles, et de
 nemine alio fit mentio, quia non erant tunc alii nisi Ari-
 stotiles tantum; et tunc debet dici, quod gloria mundana
-aliu in flore, nisi attingatur in hominibus
-Aristotiles habuisset concurrentem. vel
-ipse non accepisset culmen rote: sed
-quia nemo pro tunc claruit nisi ipse. ideo expulit omnes
-de campo, idest de fama. Et appellat
-grossas respectu precedentium. Aristo-
-nem de campo. Averroys non expulit
-Averroys habuit concurrentes. Aliqui di-
-loquitur hic per antifrasim, quia etates
-vigent grossi viri, nullatenus vana-
-t.
+non potest durare diu in flore, nisi attingatur in hominibus
+grossis. Nam si Aristotiles habuisset concurrentem, vel
+alium meliorem se, ipse non accepisset culmen rote: sed
+quia nemo pro tunc claruit nisi ipse, ideo expulit omnes
+predecessores suos de campo, idest de fama. Et appellat
+hic auctor etates grossas respectu precedentium. Aristo-
+tiles expulit Platonem de campo. Avverroys non expulit
+Aristotilem, quia Averroys habuit concurrentes. Aliqui di-
+cunt quod auctor loquitur hic per antifrasim, quia etates
+grosse, idest quando vigent grossi viri, nullatenus vana-
+gloria mundi durat.
 
 O vanagloria humanarum potentiarum, qualiter paucum
-viriditatis in summitate durat. nisi superveniatur, idest at-
+viriditatis in summitate durat, nisi superveniatur, idest at-
 tingatur, ab etatibus grossis!
 
 Credidit Cymabò (nomen proprium) in pictura tenere
 campum, idest omnes excedere, et nunc habet Gioctus
-gridum, idest clamorem. quia ipse omnes excedit, ita quod
+gridum, idest clamorem, quia ipse omnes excedit, ita quod
 fama illius est obscura.
 Notandum quod tempore auctoris erat unus pictor, ma-
 gister in arte pingendi, qui vocabatur Cymabò, qui suo

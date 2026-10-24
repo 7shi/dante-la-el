@@ -13,7 +13,8 @@ L'humana probitate: e questo vuole
 Quei (⁵) che la dà, perchè da lui si chiami.
 ⁴² Anco al nasuto vanno mie parole,
 Non men ch' all' altro Pier, che con lui
-Onde Pugla e Provenza già si duole. [canta,
+[canta,
+Onde Pugla e Provenza già si duole.
 
 ³⁹ Et si post ipsum remansisset rex
 Iuvenculus qui retro eum sedet,
@@ -26,7 +27,8 @@ Humana probitas: et istud vult
 Ille qui illam dat, ut ab eo denominetur.
 ⁴² Etiam ad nasutum vadunt verba mea,
 Non minus quam ad alterum Petrum, qui cum eo
-Unde Apulia et Provintia iam in se dolent. [cantat,
+[cantat,
+Unde Apulia et Provintia iam in se dolent.
 
 (¹) loro — (²) delle virtù — (³) di loro — (⁴) descendenti. — (⁵) quello Dio.
 
@@ -75,8 +77,6 @@ dente in descendentem: et non potest dici de aliis heredi-
 bus, scilicet don Iacobo, rege Cathalonie, et don Frederico,
 rege insule Cicilie.
 
-—
-
 Iacobus et Fredericus habent regna, idest de hereditate
 regnorum; de hereditate meliori, scilicet de virtutibus,
 que esset melior hereditas quam regnorum, nullus eorum,
@@ -84,8 +84,6 @@ scilicet dominorum, possidet: idest dato quod possideant
 regna, que fuerunt patris eorum, non possident virtutes
 paternas; tamen hereditas virtutum esset melior heredi-
 tate regnorum.
-
-—
 
 Nunc auctor ponit unum valde notabile dictum, scilicet:
 Licet hereditas bonorum temporalium transferatur a patre
@@ -100,8 +98,8 @@ fieri Deus, qui dat virtutem et probitatem, ut ab eo de-
 nominetur. Vult, secundum opinionem auctoris, Deus, quod
 virtutes recognoscantur ab ipso, et in hoc reputo auctorem
 satis bene dixisse. Sed adhuc melius ostendit Aristotiles,
-secundo Ethicorum, ubi dicit, quod virtutes non insunt
-nobis a natura, quia quod inest a natura reperitur in omni-
+secundo Ethicorum, ubi d'cit, quod virtutes non insunt
+nobis a natura, quia quod inest a natura, reperitur in omni-
 bus que participant talem naturam: et tunc si inesset ho-
 mini a natura, omnibus hominibus inesset; cuius oppositum
 videmus quasi pro maiori. Sed virtutes, scilicet morales,
@@ -111,8 +109,6 @@ iure, aut successione patris in filios, acquiritur virtus.
 Raro resurgit per ramos, idest per filios, qui sunt rami
 patris, humana probitas; et istud vult ille, scilicet Deus,
 qui illam dat, ut ab eo denominetur.
-
-—
 
 Etiam ad nasutum vadunt verba mea, idest ad Karo-
 lum primum, non minus quam ad alterum Petrum, idest
