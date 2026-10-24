@@ -832,6 +832,31 @@ In this order (decided with the user, 2026-10-15):
      `la_check.py` got `-d` to read the pages from `WORK/out` before they are written.
      Written to `ocr/la` (118 pages changed); step 9: no hits but 0545's bracketed tercet
      `[⁷ Vidi …]`, printed so.
+   - **Batch 6** (0610–0728, cantos XII–XXI of the Purgatorio; 2026-10-25) by the low-cost
+     way, in six parts of about 20 pages; 0620, 0644, 0680, 0692, 0704, 0718 blank.
+     Besides the marks (201 `fixes.tsv` rows): page numbers and heads, spaces, printed line
+     ends and short rules as before; losses put back from the image (0614, 0646 a line lost
+     and one written twice, 0720), gloss lines joined or moved before the Latin verse
+     (0628, 0634), runovers on their own line after their verse line, no blank line at a
+     column change without a rule (0653, 0693, 0702, 0705, 0716). The broken pages were
+     retyped at once, superscript kept: 0611 0612 0613 0625 0626 0627 0629 by la-el-agy
+     (retype 30, Gemini 3.8 Flash); the rest split three ways and run at the same time
+     (the task files are per agent; the `retype pending (retypeN)` notes in `mine.tsv`
+     carry the part numbers, not these, so they were replaced by page):
+     0635 0638 0643 0652 0659 0663 0664 0665 0672 0673 0674 by la-el-agy (retype 31),
+     0675 0676 0677 0683 0685 0686 0687 0688 0689 0690 0691 by la-el-agy2 (retype 32),
+     0694 0695 0696 0697 0698 0700 0703 0706 0707 0710 by la-el-agy3 (retype 33), all on
+     Gemini 3.8 Flash; 0711 0713 0717 0722 0724 0725 0727 by la-el-claude (retype 34),
+     since the three agents were busy. Every agy page had its lines there and in order;
+     13, 18 and 15 places were put right in retypes 31–33: colons written as semicolons,
+     spaces put before `:`, `;`, `?` or a gloss mark tight to its word, printed misprints
+     normalized (`diminuerà`, `loquutus`, `transcorso`, `Berlingerii`, `indicabant`) and
+     misprints invented (`Faciuut`, `llla`), accents added (`dualita`, `udi'`), apostrophe
+     gaps opened on the essay pages (0691, 0703), blank lines where no rule is printed.
+     Written to `ocr/la` (106 pages changed). Step 9: 0610's verse (a canto's first page)
+     still had blank lines between the tercets and its runovers in the line, retyped from
+     the scan and written again; then no hits but `plain` (0647, 0648 `13`, 0670 `3`) and
+     the rule counts of `la_check.py`, which miss worn rules.
    - **Delegation trials for whole-page retyping** (2026-10-23), against way B's la-el-agy
      (about 1.2 errors a page in retypes 19–21), each checked word by word against both
      OCRs and in the image:
@@ -922,6 +947,8 @@ In this order (decided with the user, 2026-10-15):
     - Batch 5's broken pages, retyped early in the same way (retypes 26–29, see item 8,
       Batch 5): 0538 0545 0549 0557 0560 0579 0583 0584 0593 0604. Done, but for steps 8
       and 11 with the batch.
+    - Batch 6's broken pages, retyped early in the same way (retypes 30–34, see item 8,
+      Batch 6): 46 pages from 0611 to 0727. Done, but for steps 8 and 11 with the batch.
 
 Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``), a transcription artifact to remove in their batches.
