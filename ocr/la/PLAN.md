@@ -812,6 +812,26 @@ In this order (decided with the user, 2026-10-15):
      Fixed and written again: `la_check.py` tercets, `la_seqcheck.py` (but `plain`) and
      `la_lostcheck.py` give no hits. Plain-digit numbers and curly apostrophes are left (item
      9, a later normalization).
+   - **Batch 5** (0479–0609, cantos I–XII of the Purgatorio; 2026-10-24) by the low-cost
+     way, in six parts of about 20 pages; 0532, 0554, 0608 blank, 0488 without marks.
+     Besides the marks: losses put back from the image (0490, 0496, 0499, 0504, 0519,
+     0522, 0540, 0558, 0559, 0591, 0592, 0595; 0603 eleven half-lost lines, 0600 a
+     paragraph run into one line and also misplaced), paragraphs moved (0515, 0528), tercet
+     numbers (0529 `88`–`95` for `38`–`45`, 0563, 0606), page heads (the page number, a blank
+     line, the head; numbers added, heads repeated before the Latin verse removed), and
+     the rule lines (`—`, `___`) made blank lines. In the light routes that keep `ocr/la`
+     where the model reads neither OCR, `ocr/la` was clearly corrupt in a few places, put
+     right from the image. The broken pages were not left pending this time but retyped at
+     once by la-el-agy (way B, superscript kept, decided with the user): 0538 (retype 26)
+     and 0545 0549 0557 0560 (retype 27) on Gemini 4 Argon, no letter or line errors;
+     0579 0583 0584 (retype 28) and 0593 0604 (retype 29) on Gemini 3.8 Flash (the user
+     switches the model by hand; Argon's quota is small), 4 errors in 5 pages (a speck
+     written `fosse, .`, a stray `est, .Tarpeya`, `atterent` and `s'affecta` for printed
+     `atterrent`, `s'affrecta`) and apostrophe gaps opened where both OCRs had none; the
+     column order and every line right on all of them, 0583's lost column top restored.
+     `la_check.py` got `-d` to read the pages from `WORK/out` before they are written.
+     Written to `ocr/la` (118 pages changed); step 9: no hits but 0545's bracketed tercet
+     `[⁷ Vidi …]`, printed so.
    - **Delegation trials for whole-page retyping** (2026-10-23), against way B's la-el-agy
      (about 1.2 errors a page in retypes 19–21), each checked word by word against both
      OCRs and in the image:
@@ -847,7 +867,8 @@ In this order (decided with the user, 2026-10-15):
      finish every batch through step 7 without retyping pages; the retyping waits for
      item 10. Per batch, in parts of about 20 pages with a report after each:
      1. Step 5, then a screen of the part: `la_lostcheck.py FIRST LAST -t TESS -d
-        WORK/out` (`both` hits) and `la_seqcheck.py FIRST LAST -d WORK/out`.
+        WORK/out` (`both` hits) and `la_seqcheck.py FIRST LAST -d WORK/out`; after the
+        fixes also `la_check.py FIRST LAST -d WORK/out -d ocr/la` (tercets).
      2. Step 6 by way A for the pages that are sound. A small loss (a line or two, found
         by `la_lostcheck.py` or in a mark) is put in with `text:` as before. Step 5 runs
         with `--light` (from 0400): the open `check` marks take the model's `right` and most
@@ -862,7 +883,8 @@ In this order (decided with the user, 2026-10-15):
         for item 10. Step 8 (the image checks of `la_lines.py`) and step 11 (texts) wait
         for item 10, so that each batch is checked and converted once, with its retyped
         pages in. Commit each batch's `ocr/la` (step 10) when the user asks.
-     Batch 4 done this way from 0400; then batches 5–11.
+     Batch 4 done this way from 0400; batch 5 too, but with its broken pages retyped at
+     once by la-el-agy instead of left pending (see Batch 5); then batches 6–11.
 
 9. **Plain digits for tercet numbers and gloss marks** (decided with the user,
    2026-10-24; waits until item 8 has written every batch, since `tmp/la-mark7`'s marks
@@ -893,6 +915,9 @@ In this order (decided with the user, 2026-10-15):
       the column order and the 4 rules (one worn, after `armes.`) checked in the image;
       la-el-agy was right everywhere except 10 dots before a lowercase word, made commas.
       `la_lostcheck.py`: none.
+    - Batch 5's broken pages, retyped early in the same way (retypes 26–29, see item 8,
+      Batch 5): 0538 0545 0549 0557 0560 0579 0583 0584 0593 0604. Done, but for steps 8
+      and 11 with the batch.
 
 Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``), a transcription artifact to remove in their batches.
@@ -1046,7 +1071,7 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
      changes without a rule, inside essay quotations: look at the pages with indented
      quotations.
 9. **Final checks**: `la_check.py FIRST LAST` (tercets and rule counts; known exceptions:
-   0100, 0131, 0165); page heads (page number, blank line, running head; add missing
+   0100, 0131, 0165, 0545); page heads (page number, blank line, running head; add missing
    numbers and heads); no `æ`; `—` only in gloss lines; accents as printed; lines over 68
    characters outside essays and gloss lines (paragraph lines to break at Tesseract's line
    ends).
