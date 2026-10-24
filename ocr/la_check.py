@@ -1,6 +1,9 @@
 """Structure checks of ocr/la pages: tercet numbers, and section rules against blank lines.
 
-    la_check.py FIRST LAST [-v] [-o OUT]
+    la_check.py FIRST LAST [-d DIR]... [-v] [-o OUT]
+
+-d reads the page files from DIR (repeatable, the first that has the page; default ocr/la),
+such as a work directory's out/ before it is written; the images stay in ocr/la.
 
 - tercets: in the Italian (first) and Latin (second) verse block of each page, a number
   must start every third verse line (runover lines `[…` do not count), the numbers must rise
@@ -22,6 +25,12 @@ ROOT = Path(__file__).resolve().parent / "la"
 SUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
 TERCET = re.compile(r"^([0-9]+\.?|[⁰¹²³⁴⁵⁶⁷⁸⁹]+) +(?=\S)")
 RULE_NUM = re.compile(r"^(?:[⁰¹²³⁴⁵⁶⁷⁸⁹]+|\d{1,2})\s")
+DIRS = [ROOT]
+
+
+def txt(page):
+    """The page file from the first of DIRS that has it, or None."""
+    return next((Path(d, f"{page}.txt") for d in DIRS if Path(d, f"{page}.txt").exists()), None)
 
 
 # ---- tercet numbers ----
@@ -29,8 +38,8 @@ RULE_NUM = re.compile(r"^(?:[⁰¹²³⁴⁵⁶⁷⁸⁹]+|\d{1,2})\s")
 def check_tercets(first, last):
     out, prev = [], {}
     for p in range(first, last + 1):
-        f = ROOT / f"{p:04}.txt"
-        if not f.exists(): continue
+        f = txt(f"{p:04}")
+        if f is None: continue
         text = f.read_text(encoding="utf-8")
         if re.search(r"^CAPITUL", text, re.M) and re.search(r"^(¹|1\.?) ", text, re.M): prev = {}
         paras = [b.split("\n") for b in re.split(r"\n\s*\n", text)]
@@ -104,7 +113,7 @@ def rules(im, a, b):
 def blanks(page):
     """Blank lines after the verse block, less those around a quoted line (a block of one or
     two lines after a line ending in `:`), which are not rules."""
-    L = (ROOT / f"{page}.txt").read_text(encoding="utf-8").rstrip("\n").split("\n")
+    L = txt(page).read_text(encoding="utf-8").rstrip("\n").split("\n")
     nums = [i for i, l in enumerate(L) if RULE_NUM.match(l)]
     start = 0
     if nums:
@@ -126,7 +135,7 @@ def check_rules(first, last, verbose):
     out = []
     for p in range(first, last + 1):
         page = f"{p:04}"
-        if not (ROOT / f"{page}.png").exists() or not (ROOT / f"{page}.txt").exists(): continue
+        if not (ROOT / f"{page}.png").exists() or txt(page) is None: continue
         im = Image.open(ROOT / f"{page}.png").convert("L")
         (la, lb), (ra, rb) = columns(im)
         rl, rr = rules(im, la, lb), rules(im, ra, rb)
@@ -139,9 +148,12 @@ def check_rules(first, last, verbose):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("first", type=int); ap.add_argument("last", type=int)
+    ap.add_argument("-d", "--dir", action="append",
+                    help="page files; repeatable, the first that has the page is read (default ocr/la)")
     ap.add_argument("-v", "--verbose", action="store_true", help="list every page with the rule positions")
     ap.add_argument("-o", "--output", help="write to this file instead of stdout")
     a = ap.parse_args()
+    if a.dir: DIRS[:] = a.dir
     out = ["# tercets"] + check_tercets(a.first, a.last) + ["", "# rules"] + check_rules(a.first, a.last, a.verbose)
     text = "\n".join(out) + "\n"
     if a.output: Path(a.output).write_text(text, encoding="utf-8")
