@@ -949,6 +949,32 @@ In this order (decided with the user, 2026-10-15):
       and 11 with the batch.
     - Batch 6's broken pages, retyped early in the same way (retypes 30–34, see item 8,
       Batch 6): 46 pages from 0611 to 0727. Done, but for steps 8 and 11 with the batch.
+    - Batch 5, queued 2026-10-25 (found by the light-kept audit, after the batch was
+      written): commentary lines run together, up to a whole paragraph on one line (0510,
+      0528, 0529, 0544, 0581), with the line ends around them shifted, so a line cannot just
+      be cut at Tesseract's line ends: 0501 0503 0509 0510 0516 0517 0518 0522 0525 0527
+      0528 0529 0530 0539 0542 0544 0555 0558 0563 0565 0567 0570 0571 0573 0580 0581
+      0588. Some also have words not as printed in those lines (0571 `minorem circulum
+      describit.` for `describit minorem circulum;`, 0501 `qui-` / `bus` for `quibus`) and
+      `æ` for printed `e` (0517 0518 0522 0529 0571). Their marks stay decided as they are
+      (most by the light route, so not in `mine.tsv`); a retype replaces the whole page
+      with `la_retype.py`. The pages of batch 5 that could be put right were rebroken at the
+      printed line ends and checked in the image (0479 0502 0537 0540 0550 0568 0578 0590),
+      and `æ` made `e` where printed so (0490 0504 0506 0507 0541 0543 0568 0578); the
+      preamble pages 0479–0486 are printed wide (lines up to about 83 characters).
+    - Batches 4 and 6, queued 2026-10-25 (the same audit, after they were written): 0350
+      0403 0404 0413 0415 0447 0449 0454 0455 0464 0470. Lines run together where
+      Tesseract reads across the two columns, so the rebreak cannot be checked against it
+      (0413, 0447, 0449, 0454, 0455; 0464 an essay page); a printed line lost (0404 `vene
+      esset cum rege Frantie, quod quidam miles venit ad`) or a paragraph lost (0470, after
+      `de In-`). The rest was put right and written (174 `fixes.tsv` rows): letters kept by
+      the light route (0400 also two half lines lost, `monitus ut`, `ravit. Iste habebat`),
+      run-together lines rebroken at the printed line ends (0349 0351 0361 0366 0368 0400
+      0411 0417 0421 0432 0434 0441 0443 0453 0461 0462 0465 0469 0473 0658; every changed
+      line's first and last words checked against Tesseract's line, the rest in the image),
+      words invented by `ocr/la` on the essay pages (0440 `la più` for `con sublimità`, 0429
+      `Assisa la` for `Assoluto padrone della`) and their accents, and `æ` made `e` (0433
+      0439 0450 0454 0614 0628 0634 0642 0653 0657 0681 0719).
 
 Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``), a transcription artifact to remove in their batches.
@@ -1089,7 +1115,41 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
      both OCRs read alike, and wrongly, are not checked. A has the same limit.
 7. **Resolve**: rerun `la_markresolve.py WORK -t TESS -p FIRST LAST` until `review.tsv` is empty; read the
    word diff of `WORK/out/` against `ocr/la` (every change must be one decided above; a dot
-   taken from the image before a lowercase word is a comma, 0127); then add `--write`.
+   taken from the image before a lowercase word is a comma, 0127). Before `--write`,
+   audit what the light route kept (below); then add `--write`.
+
+   **Light-kept marks.** `--light` keeps `ocr/la` for most open letter marks, and `ocr/la`
+   holds normalized or invented spellings (`solemni` for printed `solempni`, `Constantiæ`
+   for `Constantiam`, `continuavit` for `continuit`), so these pass unseen. Batch 7 had 18
+   such places in 0729–0808, batch 5 had 17 letter fixes in 0479–0609, batches 4 and 6
+   about 50 together (found 2026-10-25, after they were written). Batches 1–3 (0079–0348) ran
+   without `--light`, every mark decided by hand: there only the essay pages' accents were
+   wrong (23 places on 9 pages, `ocr/la` and `texts/la` corrected 2026-10-25); no lines run
+   together and no `æ`.
+   - `route.tsv` holds only the last `-p` range: resolve the batch's range first.
+   - List the letter marks the light route kept:
+     `awk -F'\t' 'NR>1 && $4=="letters" && $8=="left" && $7=="light"' WORK/route.tsv`.
+     Column 9 is the model's reading: `left '…'` agrees with `ocr/la`; take the rows
+     where it is `neither`, `wrong place` or `unreadable`.
+   - Drop the rows whose `ocr/la` text (column 5) is no longer in `WORK/out/PAGE.txt`
+     (already decided otherwise, or the page retyped). Crop the rest in the image
+     (the out line nearest the mark's line, or the Tesseract words) and correct what is
+     not as printed in `fixes.tsv`.
+   - Essay pages carry almost no marks, but `ocr/la` adds or drops accents there
+     (`volontà`, `sarà`, `può`, `dì` for printed `volonta`, `sara`, `puo`, `di`; on 0508 the
+     reverse, `proprieta` for `proprietà`). Align each out word with Tesseract's words, list
+     those whose accents differ from Tesseract's, and crop them. `ì` against `i` (`sì`,
+     `così`) and the direction of a grave or acute accent are at the edge of the scan's
+     resolution: correct only clear cases. List the other word differences too and look at
+     those where Tesseract reads a real word: `ocr/la` also rewrites phrases there (0440
+     `fu redenzione … dottrina la più inarrivabile` for printed `fu redentore … dottrina con
+     sublimità inarrivabile`).
+   - Lines over 72 characters outside the glosses are lines run together, with the line
+     ends around them shifted. Rebreak the paragraph at Tesseract's line ends only where
+     Tesseract reads the column by itself; check each changed line's first and last words
+     against Tesseract's line, and the paragraph in the image where it does not match. Queue
+     the page for a retype (item 10) where Tesseract runs the columns together.
+   - Resolve again and check that `WORK/out/` changed only on the corrected lines.
 8. **Lines**: `uv run ocr/la_lines.py FIRST LAST -t TESS -o WORK/lines.txt` and look at each
    hit in the image (`la_view.py strip PAGE:Y` for rules, `word` for the others):
    - `# rules`: a rule needs a blank line after the line above it (see the blank-line
