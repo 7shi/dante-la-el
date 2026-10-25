@@ -994,6 +994,26 @@ In this order (decided with the user, 2026-10-15):
       words invented by `ocr/la` on the essay pages (0440 `la più` for `con sublimità`, 0429
       `Assisa la` for `Assoluto padrone della`) and their accents, and `æ` made `e` (0433
       0439 0450 0454 0614 0628 0634 0642 0653 0657 0681 0719).
+    - The 38 pages queued for batches 4 and 5 above are retyped early (2026-10-25, before
+      item 9, superscript kept) by la-el-agy in one task (retype 40), while batch 8 goes on.
+      Added to `tmp/la-mark7` by way B and written: 262 places against the two OCRs, about
+      150 crops; 62 fixes. la-el-agy opened apostrophe gaps where none is printed (24:
+      `che'l`, `E'l`, `Va'via`, `de'tristi`), wrote `;` for a printed `:` (8) and commas
+      where none is printed (2), normalized spellings (`decomes`, `impullerunt`,
+      `amplexebatur`, `permicteret`, `montanea`, `guiucti`, `[s]fresiatur`, `reclausa`,
+      `Conscentie`, `loquutio-`), dropped an accent (0464 `più`) and put four page numbers
+      after the running head (0525 0527 0529 0539). No line lost (`la_lostcheck.py`: none
+      in both OCRs); `la_check.py` 349–609 clean. Done, but for steps 8 and 11 with the
+      batch.
+    - Batch 8's broken pages, retyped early in the same way while the batch goes on: 0849
+      0853 0854 0855 0858 0860 0861 0864 0866 0869 0879–0887 by la-el-agy2 (retype 41),
+      added to `tmp/la-mark7` by way B (not written yet: with the batch): 194 places, about
+      110 crops, 29 fixes (`;` for a printed `:` 3, apostrophe gaps 12, `quì`, `resultante`,
+      `appetiit`, `Eufraten`, `pescatore`, `Seraphin` for printed `qui`, `risultante`,
+      `appetivit`, `Eufratem`, `peschatore`, `Seraphim`). It read the printed misprints
+      `çondocti` (0853) and `iunocente` (0887) right, and the invented sentences of
+      `ocr/la` on 0855 and 0879 as printed. `la_lostcheck.py`: none in both OCRs. Queued
+      for retype 42: 0891–0900 0904 0905.
 
 Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``), a transcription artifact to remove in their batches.
