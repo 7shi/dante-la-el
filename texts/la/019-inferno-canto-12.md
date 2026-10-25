@@ -553,7 +553,7 @@ Dante, pertanto, non che temer di abbassarsi credendo a que' prodigi accaduti ne
 Così prendemmo via giù per lo scarco\
 Di quelle pietre, che spesso moviensi\
 Sotto i miei piedi per lo nuovo carco.\
-Io già pensando, e quei disse: Tu pensi\
+Io gia pensando, e quei disse: Tu pensi\
 Forse a questa rovina, che è guardata\
 Da quell'ira bestial ch'io ora spensi.\
 Or vo'che sappi che l'altra fiata\
