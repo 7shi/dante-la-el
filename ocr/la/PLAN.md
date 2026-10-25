@@ -897,6 +897,28 @@ In this order (decided with the user, 2026-10-15):
      earlier pages (0353 0355 0363 0365 0369 0411 0417 0421 0427 0433 0437 0439 0461 0469
      0471 0473 0591) was made number, blank line, head afterwards (in `ocr/la` and in
      `fixes.tsv`); batch 9 has it too (0963 0965 0981 0991 0995).
+   - **Batch 9** (0961–1072, cantos VIII–XVI of the Paradiso; 2026-10-26) by the low-cost
+     way; 1010, 1024, 1048 blank. 3137 marks (`light` 1418). The broken pages were retyped,
+     superscript kept, by way B (item 10): 0964 0975 0977 0980 by la-el-agy (retype 45),
+     0963 0965 0967 0969 0970 0971 0979 by la-el-agy2 (retype 46), 0981 0983 0985 0991 0993
+     0997–1000 by la-el-agy3 (retype 47), 1002 1003 1004 1008 1009 1011 1013 1014 1017–1020
+     by la-el-agy (retype 48), 1021 1023 1027 1028 1030 1031 1033 1035 1038 1039 by
+     la-el-agy2 (retype 49), 0972 0984 0996 1042 1044–1046 1050 1055–1057 1059 1060
+     1062–1065 1067 1069–1072 by la-el-agy3 (retype 50); 64 pages, the places put right
+     listed under item 10. Light-kept audit (step 7): on the pages not retyped, the kept
+     rows still in `out/` as printed (0976 `meae`, 0990 `Regrazia`, 1007 `scil cet` with a
+     broken `i`, 1040 `molestie`); the essay pages' accents checked (1036 `remove-`, 1047
+     `aggiungera` printed without the accent). Five pages not retyped had plain-digit
+     tercet numbers where small superscripts are printed (0990 0994 1007 1041 1058, 40
+     lines, made superscript), and 1058 two rules written `—` (made blank lines) and a
+     blank line at a column change with no rule (dropped). Written to `ocr/la` (106 pages
+     changed; 333 `fixes.tsv` rows for the batch, 64 of them whole retyped pages). Step 9:
+     `la_check.py`, `la_seqcheck.py` and `la_lostcheck.py` with none, after 1042's
+     tercet numbers were put back (la-el-agy3 had left all 14 out; the check of the
+     retypes against the OCRs skipped differences in tercet numbers alone). Every page
+     head is number, blank line, head. `la_retype.py` appends a row on each run, so a page
+     brought in again had chained rows; they were merged into one row per page (the
+     resolved pages unchanged).
    - **Delegation trials for whole-page retyping** (2026-10-23), against way B's la-el-agy
      (about 1.2 errors a page in retypes 19–21), each checked word by word against both
      OCRs and in the image:
@@ -1085,9 +1107,46 @@ In this order (decided with the user, 2026-10-15):
       potuit`, 0956's and 0957's right columns, 0959's `dopo il peccato` line) in order.
       `la_lostcheck.py`: none in both OCRs. The rest of
       the batch's pages are decided and fixed (0954 0955 0958; 0960 is blank).
+    - Batch 9's broken pages (2026-10-25/26), retyped in the same way and added to
+      `tmp/la-mark7` by way B (written with batch 9). Each retype had its lines there and in
+      order; the places not as printed, put right from the image:
+      - la-el-agy, retype 45 (0964 0975 0977 0980): 4 (commas left out at line ends 3,
+        `trigiuta` for printed `triginta`).
+      - la-el-agy2, retype 46 (0963 0965 0967 0969 0970 0971 0979): 25, most apostrophe
+        gaps opened where none is printed (20: `Vid' io`, `l' alta`, `Che 'l`, `vegg' io`,
+        `com' ogn' altra`, `Vuo' tu`, `a' generanti`), the printed misprint `cautatur`
+        corrected, `sermocinandam`, an accent added (`Sydonís`), a comma left out.
+      - la-el-agy3, retype 47 (0981 0983 0985 0991 0993 0997–1000): 9 (`Alcide` for printed
+        `Alcyde`, a backtick at a line end, apostrophe gaps 4, commas 3).
+      - la-el-agy, retype 48 (1002 1003 1004 1008 1009 1011 1013 1014 1017–1020): 16 and two
+        gloss lines moved under the Italian block (1019 1020): periods for commas (4),
+        apostrophe gaps (4), accents added (1008 `dì`, `può`, `però`; 1013 `Sì` for printed
+        `Si` twice),
+        `paralelli` for printed `parallelli` (2), a colon for a semicolon, a stray `'`.
+      - la-el-agy2, retype 49 (1021 1023 1027 1028 1030 1031 1033 1035 1038 1039): 12
+        (`Bonaventura` for printed `Buonaventura`, the misprint `palec` corrected, commas 5,
+        spaces before `:` and `?`), and gaps after truncations where the print has none
+        (5: `ne'concordi`, `de'sillogismi`, `da'romani`, `ne'quali` twice, `fe'subito`;
+        three of them first opened in the check by mistake, closed on re-check). It read `atfetto`, `admiuistrat`,
+        `planctata`, `deila`, `iuce`, `sapïenza` right.
+      - la-el-agy3, retype 50 (22 pages): 1045's Latin verse 40–42 written as a translation
+        of the Italian (`giga et cithara`, `una melodia`, `de alta laude`, `Resurge et
+        vince` for printed `gyga et harpa`, `unum melos`, `dulcis laus`, `Surge et vincas`;
+        8 lines retyped from the image), as on 1247; 1042's tercet numbers all left out and
+        a gloss mark tight to its word; spellings (`Aldagheriis` 2, `nobiltà`,
+        `Annuntiatione` 2, `solempnio-`, `Baronii`) and printed misprints corrected
+        (`mansuetus`, `alla` for printed `mansuctus`, `alia`); `;` for a printed `:` (7);
+        commas (3); apostrophe gaps opened where none is printed (5) and closed where one
+        is (3: 1042 `m' accors'`, `Agl' ochi`, `Ch' è`), and 19 gaps after truncations
+        opened where the print has none (`de'più`, `que'lumi`, `de'venti`, `se'tu`,
+        `ne'ritrosi` …); `Sì` for printed `Si`; a dot line short of its 13 dots; blank lines
+        around 1062's `que incipit` quotations (6, dropped); 1044's figure written
+        `[figure]` with its four `q` (a blank line put before it). It read the left column
+        of 1045 that `ocr/la` had lost, and `vincto`, `spechio`, `Vechio`, `Ucillatoio`,
+        `lictora`, `contitetur`, `niveitate`, `'ci` right.
 
-Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
-`` `Quei gloriosi …` ``), a transcription artifact to remove in their batches.
+Also seen: 0848, 0891 and 0999 had backticks in the text (0891 around its blocks,
+`` `Quei gloriosi …` ``); gone since their retyping.
 
 ## Procedure for a batch
 
@@ -1342,8 +1401,8 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
 - **Curly `’`**: left in `ocr/la`, normalized by `convert_la.py`.
 - **Figures**: a line `[figure]` where the figure stands, then each printed label on a
   line of its own (column after column, top to bottom), a blank line after; headings
-  that are not printed are not added (1245). 1044 (`[diagram]` in a line) is to be brought to this
-  form in its batch (1247 is in it since its retyping).
+  that are not printed are not added (1245). 1044 and 1247 are in this form since their
+  retyping.
 
 ## Suspected misprints
 
