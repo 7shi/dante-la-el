@@ -24,7 +24,7 @@ Michi se adhesit, et humerum obtulit.
 
 Obscuritas Inferni. Oscuro d'Inferno : istud est se-
 xtumdecimum capitulum huius Purgatorii, in quo tractatur
-de pena,per quam purgantur irosi et iracundi, sive in quo
+de pena, per quam purgantur irosi et iracundi, sive in quo
 purgatur vitium ire; et dividitur in quatuor partes. In
 quarum prima tractatur in generali de purgatione ire.
 In secunda. que incipit ibi:
@@ -69,4 +69,4 @@ nebra que erat in hoc loco. Dicit igitur: Buium, idest
 obscuritas, Inferni, et noctis private ab omni planeta sub
 paupere celo, quantum esse potest nubibus obtenebrate,
 idest obscurate, vel cooperta (nox, de sui natura, semper
-est obscura; sed quando nulla apparent sidera, tunc est 
+est obscura; sed quando nulla apparent sidera, tunc est
