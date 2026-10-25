@@ -893,9 +893,10 @@ In this order (decided with the user, 2026-10-15):
      0911 with a blank line between, 0865 without its number `811`) made number, blank
      line, head, and 0874 given its blank line after the number; then `la_check.py` with no
      tercet hits but 0861's printed bracket `[Mi disse … seco]` (read as a runover), and
-     `la_seqcheck.py` and `la_lostcheck.py` with none. The same head-first form is left on
+     `la_seqcheck.py` and `la_lostcheck.py` with none. The same head-first form on
      earlier pages (0353 0355 0363 0365 0369 0411 0417 0421 0427 0433 0437 0439 0461 0469
-     0471 0473 0591) and in batch 9 (0963 0965 0981 0991 0995).
+     0471 0473 0591) was made number, blank line, head afterwards (in `ocr/la` and in
+     `fixes.tsv`); batch 9 has it too (0963 0965 0981 0991 0995).
    - **Delegation trials for whole-page retyping** (2026-10-23), against way B's la-el-agy
      (about 1.2 errors a page in retypes 19–21), each checked word by word against both
      OCRs and in the image:
