@@ -1121,7 +1121,8 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
    **Light-kept marks.** `--light` keeps `ocr/la` for most open letter marks, and `ocr/la`
    holds normalized or invented spellings (`solemni` for printed `solempni`, `Constantiæ`
    for `Constantiam`, `continuavit` for `continuit`), so these pass unseen. Batch 7 had 18
-   such places in 0729–0808, batch 5 had 17 letter fixes in 0479–0609, batches 4 and 6
+   such places in 0729–0808 and, rechecked with the steps below, one more letter (0744
+   `carnium`), four run-together lines and one accent, batch 5 had 17 letter fixes in 0479–0609, batches 4 and 6
    about 50 together (found 2026-10-25, after they were written). Batches 1–3 (0079–0348) ran
    without `--light`, every mark decided by hand: there only the essay pages' accents were
    wrong (23 places on 9 pages, `ocr/la` and `texts/la` corrected 2026-10-25); no lines run
