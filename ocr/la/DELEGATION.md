@@ -12,7 +12,7 @@ herdr) 41 tasks on `ocr/la`, each written to a task file with a report file in r
 
 The task and report files (in `tmp/`) were deleted on 2026-10-20; this file keeps what is
 needed to write such a task again. The results of each batch (what was not as printed,
-what was fixed) are in [PLAN.md](PLAN.md) ("State" and "Remaining work", items 1–2, 6).
+what was fixed) are in [PLAN.md](PLAN.md) ("Record of the preparation" and "Remaining work", items 1–2, 6).
 
 ## How a task is sent
 

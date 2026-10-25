@@ -10,20 +10,38 @@ to and the method that replaced it.
 **Goal**: complete the rest of `ocr/la` (`0233`–`1296`, and the front matter `0001`–`0078`)
 and convert it into `texts/la/`. The verse and the paid steps of the markup method
 (procedure, steps 1–4) now run over all these pages at once; the review and the steps after
-it (5–11) go batch by batch (batches 3–10, `0233`–`1270`, then the front matter and
-appendix, batch 11).
+it (5–11) go batch by batch (batches 3–11, `0233`–`1296`, then the front matter).
 
 **A new session starts here**: read "State" and "Remaining work", and go on from the first
 open item. The conventions and rules below are settled: apply them, do not ask again.
 
-## State (2026-10-17)
+## State (2026-10-26)
 
-**Batches 1–2 (`0079`–`0232`, Inferno I–XIII) are complete**, and the procedure below is
-established on them. `texts/la/008`–`020` are converted from them. **Batch 3 (`0233`–`0348`,
-Inferno XIV–XXIII)** is complete too (2026-10-23; Remaining work, item 8), converted into
-`texts/la/021`–`030`.
+**Batches 1–3 (`0079`–`0348`, Inferno I–XXIII) are complete** and converted into
+`texts/la/008`–`030` (batch 3: Remaining work, item 8).
 
-"Complete" means, for every page of 0079–0232 (0128, 0140, 0162, 0172 are blank):
+**Batches 4–9 (`0349`–`1072`, Inferno XXIV to Paradiso XVI) are written** to `ocr/la`
+from the mark decisions (Remaining work, item 8; last commits `12fa3b8`, `8b62462`):
+
+- steps 5–7 and the scripted checks of step 9 done; `la_check.py`, `la_seqcheck.py` and
+  `la_lostcheck.py` over 0233–1072 give no hits but the known exceptions (Suspected
+  misprints, the printed brackets of 0545 and 0861);
+- the broken pages retyped from the scan by way B as each batch went (retypes 19–50,
+  mostly la-el-agy, la-el-agy2 and la-el-agy3), so no page of these batches is left
+  `retype pending` for item 10;
+- **not done**: step 8 (`la_lines.py`, the image checks of rules, line breaks and line
+  ends) and step 11 (`texts/convert_la.py`), which wait for item 10.
+
+**Batches 10–11 (`1073`–`1296`, Paradiso XVII to the end) and the front matter
+(`0001`–`0078`)**: the verse is in and the markup and model decisions are done for all
+their pages (`tmp/la-mark7`, items 1–7); steps 5–11 are open. `la_lostcheck.py` lists
+lost text (runs in both OCRs) on 49 pages of 1073–1296 and 6 of 0001–0078: these pages
+are expected to need retyping. Next: batch 10, item 8.
+
+Still to do after the batches: item 9 (plain digits), item 10 (steps 8 and 11 of batches
+4–11), the front matter.
+
+"Complete" means, for every page of batches 1–3 (blank pages aside):
 
 - both verse columns present, with their tercet numbers checked by `la_check.py`;
 - every disagreement of `ocr/la` with GLM-OCR resolved by the markup method, each change
@@ -35,327 +53,6 @@ Inferno XIV–XXIII)** is complete too (2026-10-23; Remaining work, item 8), con
 Not covered (see "Known limits"): text that both OCRs read alike and wrongly (0085 `terret`
 for printed `territ` was found by chance); italics are not transcribed. A full check of the
 italic lemmas against the verse of their page, and a lexicon check, are proposed, not done.
-
-**The rest (2026-10-14/15)**:
-
-- **Markup** (paid, by the user) done for every page (`0001`–`1296`, 1234 pages without
-  the 62 blank ones). Re-checked with `-r 0` (in a work directory, since
-  deleted): 3843 differences reported as missed in 841 pages (890 of them spacing only),
-  far more than on batches 1–2; 0941's answer is not valid JSON.
-- **`la_markprep.py`** ran over 1074 pages (21371 questions for the model): fixed for a
-  page file without a final newline (306 pages; the ending of `ocr/la` is kept), a vote
-  peak outside Tesseract's words, and superscript digits taken for a signature. Nine pages
-  stop it, because `{`, `}` or `|` in a text break the `{{…|…}}` marks (Remaining work,
-  item 4).
-- **Verse, misplaced Latin blocks** (by la-el-agy, checked): of the 74 pages that
-  `la_survey.py` gave as Latin missing, 48 had the Latin block elsewhere on the page and it
-  was moved (whole lines only; checked: the non-blank lines of each page are the same set);
-  25 had it in place (`la_survey.py` false positives: glosses written `(^1)` or run over two
-  lines end its verse block early, e.g. 0262, 0345); only 0836 lacks the Latin.
-- **Verse, crops**: `ocr/la_versecrop.py` cropped the missing column of the 337 pages
-  without the Italian and of 0836; the crops whose
-  line counts differed were checked by la-el-agy and la-el-claude, and the script fixed
-  (bottom lines lost, the Italian cut where the two columns overlap, 0625).
-- **Markup answers to redo**: the pages whose lines change (386 pages: the
-  337 without the Italian, 0836, and the 48 with a moved Latin block) were moved, all their
-  files, into `tmp/la-markup/bak/`; `tmp/la-markup/` held the other 848.
-- **Markup of the 48 pages with a moved Latin block** (paid, by the user, default rounds):
-  re-checked with `-r 0`: 207 differences missed in 43 pages (44 spacing only); without
-  0598, about 3–4 a page, as on the other pages (left to the extra round, item 5).
-- **Italics written `*…*`** (Gemini's italics; the convention does not transcribe them):
-  0598 had 53 commentary lines wrapped in `*…*`, and the model's entries removing a `*`
-  could not be placed (two on a line). Every `*` was removed from `ocr/la` (114 pages, 475
-  lines; only `*`, and a space left doubled or leading on two
-  lines, 0569, 0691), except the printed ones: 1193 `* * *`, 1254 `Quia(*)`; and 0611
-  `* Ego me moveram`, a misread tercet number (GLM-OCR `4`), left for the verse check.
-  Their markup is redone: the answers of the 89 pages not already among the 386, and
-  0598's second set (as `bak/0598-2.*`), were moved to `bak/`. The pages to mark were then
-  475 (47 done, 90 ready, 338 after the verse).
-- **Markup of the 90 ready pages** (paid, by the user, default rounds): re-checked with
-  `-r 0`: 351 differences missed in 62 pages (132 spacing only), 72 entries not placed in
-  38 pages. Most are on two pages: 1023 (82, GLM-OCR drops the space after punctuation)
-  and 1277 (57, the two OCRs break and bound the text differently; 8 not placed; look at it
-  after the extra round). 0598: 0 not placed (56 before the italics fix), 1 missed. No `*`
-  entry is left anywhere. Left to the extra round, item 5.
-- **Markup of the 338 verse pages** (paid, by the user, default rounds, 2026-10-18; 0831
-  retyped instead, item 3): the answers of the 337 moved from their work directory
-  (deleted when empty) into `tmp/la-markup/`. Re-checked with `-r 0`: 1011 differences
-  missed in 284 pages (316 spacing only), 279 entries not placed in 162 pages; 102 are
-  long blocks (a paragraph on one side only or out of order, 69 pages, most on 1191: 6;
-  0309, 0779, 0882: 3), a sign that `ocr/la` may be broken there as 0831 was. Left to the
-  extra round, item 5; look at the long blocks after it.
-- **Extra markup round** (item 5, `-r 1` on the 1233 pages, paid, by the user,
-  2026-10-18; no page refused): re-checked with `-r 0`: 2604 differences missed in 735
-  pages (757 spacing only), 549 entries not placed in 316 pages. 0941: 3 missed (GLM-OCR
-  misreadings), 1245: 2. The long blocks showed that `ocr/la` has **lost text** on many
-  pages, as on 0831 and 0941: a word check found 164 pages where GLM-OCR has runs of 15+
-  words that `ocr/la` lacks (24183 words; 95 pages over 100 words, 18 with verse lost).
-  Seen in the image: 0907 (the left commentary column lost, and
-  `vult beatos homines` written `que sunt beati homines`), 0940 (the Italian verse, the
-  left commentary column and most of the last paragraph lost); 0709 has 356 words of
-  GLM-OCR's 794. Retyped in item 6.
-- **Model decisions** (item 7, done 2026-10-22) in `tmp/la-mark7/`, over 1083 pages
-  (0001–0078 and 0233–1296 without the blank pages and 0831). Markup: the answers of
-  `tmp/la-markup/` copied and re-checked with `-r 0`: no page failed, so no new paid
-  markup; 2244 differences missed in 664 pages (2604 before item 6), 411 entries not
-  placed in 254 pages (0048 and 0050 one each: their dot runs, fixed after the markup).
-  `la_markprep.py -t ocr/la/tesseract` stopped on no page: resolved 10559 (number 4230,
-  note 3458, quote 1570, head 785, spacing 195, moved 174, signature 88, google 59); left
-  31272 (located 27828, unlocated 1537, ambiguous 800, order 725, word 382); 22141 to ask
-  in 1070 pages. `la_markdecide.py -m gpt-6-luna` (paid, by the user; no question
-  refused, no invalid answer): 22032 questions (identical marks share an answer), all
-  22141 answered: left (`ocr/la`) 12794, right (GLM-OCR) 8097, neither 1133, wrong place
-  101, unreadable 16.
-- **Verse transcription, trial** (`la_verseread.py`, paid, by the user) on the Italian of
-  the 121 checked pages, measured with `--check` against `ocr/la` (differences counted by
-  word; "caught": GLM-OCR has the file's reading, not the model's, so the verse check
-  would find it; "missed": GLM-OCR reads as the model):
-  - First prompt, 5 pages: 9 wrong lines of 66, mostly the modern text of the poem
-    (`havea→avea`, `aqua→acqua`, `diserta→deserta`, `ochi→occhi`) and `Sì→Si`. It also
-    showed that 0085 `uscìa` had an accent the scan does not show (`940cfce`, now `uscia`).
-  - Second prompt (warns against the modern text, asks for each accent), 121 pages: 334
-    lines of 1755 differ; by word: letters 206 (165 caught, 16 missed), punctuation 55
-    (41, 13), accents 32 (19, 9), tercet numbers 53. The model writes the modern spelling
-    systematically: `gl`+vowel made `gli` (`figlo`, `vogla`), `ct` made `tt` (`decto`,
-    `puncto`), single consonants doubled (`ochi`, `nochier`); `viddi→vidi`, `um→un`.
-    Tercet numbers: the small superscripts are often misread, a run shifted on 0137
-    (36→30); take them from the Latin column of the page when inserting.
-  - Third prompt (the edition's spellings with examples), on the 20 pages with the most
-    differences (their second answers in `read/bak/`, with `read/bak/check-v2.txt`):
-    letters 94 → 62 (45 caught, 8 missed), punctuation 10 → 8, accents 3 → 4. `ct` and
-    `gl` are still often modernized (`tucto`, `periglo`); the `viddi` example was
-    over-applied (3 printed `vidi` read `viddi`). The prompt cannot hold the model off the
-    modern text much further.
-  - **la-el-agy** (the crops only, no text of the pages; [DELEGATION.md](DELEGATION.md))
-    on 5 of these pages (0169 0188 0200 0202 0227, 111 lines): letters 0, punctuation 0,
-    tercet numbers 0 (Luna, third prompt: 25, 1, 14); one accent, 0200 `dietrò`, which it
-    reported itself as unsure (a speck above the `o`, not an accent: the file's `dietro`
-    stands). Read independently: its apostrophe spacing and number forms differ from the
-    file's.
-- **Verse inserted** (Remaining work, items 1–2): batches 1–2 of
-  la-el-agy, 50 pages (0237–0390, the first 50 Italian pages in page order), 920 lines,
-  5 words not as printed, all found by the check and fixed: 0273 `Ch'havea` (`C'havea`),
-  0284 `dirieto` (`dirietro`), 0378 `departii` (`dipartii`), 0378 `mornorando` and 0390
-  `ninico` (`mormorando`, `nimico`: an `m` whose worn first stem it took for an `n`, with
-  a stroke-width argument in its report). No accent, punctuation or tercet number wrong.
-  Its notes of "unsure" or "measured" letters are not a sign of a right reading: look at
-  them.
-  Batch 3 (0397–0459), 25 pages, 495 lines: 2 not as printed,
-  0404 a comma left out after `paura`, 0423 `[su` for the printed misprint `[sn`. Its
-  report named a `d[e]lle` on 0397 that is in no file and no print: the report is not
-  evidence. GLM-OCR reads a worn `e` as `c` (`ciclo`, `Ch'ci`, `mici`, `Briarco`): the
-  scan's `Briareo` (0437) kept. Latin blocks: 0459 `52`–`58` for `32`–`38`; runover words
-  not marked (0425 `[unciam,`, 0448 `[nanciam.`, `[maneat.`, misread as `nantiam`,
-  `maneant`); 0459 `congeletur`; a blank line in the Latin block where the Italian has a
-  runover line (0404, 0423, 0455, 0456, 0459). 0447's `[Et veniet semper, ex gelatis
-  aquis].` is a whole line supplied in brackets:  `la_verseinsert.py` takes `[` followed by
-  a lowercase letter as a runover, other `[` lines as verse; `la_check.py` still reports
-  its tercet 25 off by one (known exception).
-  Batch 4 (0468–0549), 25 pages, 466 lines: 4 not as printed,
-  0501 `Rïvidil` (`Rividil`: a smudged dot on `i`), 0527 `mío` (`mio`: the same), 0536
-  `calan do` (`calando`: a worn `d` bowl), 0539 `sopragjunto` (`sopragiunto`: a speck below
-  `i`). Conversely, the printed grave accents on `0501` `càgion`, `0507` `andavàn`, `sà`,
-  `0536` `Fàccianli` were rightly kept. Latin blocks: numbers added/fixed on 0494 (`28`–`33`),
-  0514 (`19`), 0535 (`8`→`3`), 0539 (`47`–`50`→`27`–`30`); 0505 `Si[c]`, a stray blank line
-  removed and `[cumque` added; 0527 `[facit.` moved before `31` and `_` stripped; 0535
-  `[gnum.` added; 0536 `[raucum;` put on its own line and `[verterunt,` fixed; 0547 missing
-  `vertice` added.
-  Batch 5 (0551–0615), 25 pages, 499 lines: 4 not as printed,
-  0557 `[perduto` and 0558 `[quante.` written inline at the end of the next line instead of
-  on their own line after the line they continue, 0600 `nòi` (`noi`: an interlinear speck),
-  0605 `Salvani` (`Selvani`). Printed grave accents on `0569` `Vèr`, `dèi`, `0580` `fòr`,
-  `0589` `salivàmmo`, `0600` `ànno` rightly kept. Latin blocks: 0558 numbers `12`–`13` and
-  missing `[me adhereo.` added; 0569 `[gradum,`, 0579 `[quantulum,`, 0593 `[me moveam:` put
-  on their own lines; 0579 missing `incendium` (`ymaginatum`) added; 0589 broken line
-  rejoined; 0601 `[transitus,` and `[est parcus.` fixed; 0605 `[explanas;`, `qui[a] fuit
-  presumptuosus`, `[ausus.`, `Priusquam` fixed and 4 garbled commentary lines at the end of
-  the verse block removed.
-  Batch 6 (0616–0677), 25 pages, 467 lines: 2 not as printed,
-  0617 `sospecciar` (`sospicciar`), 0634 `Si·sdebitò` (`Si sdebitò`: a work-up speck between
-  words), plus missing spaces before/after gloss marks on 8 pages. Printed turned `n` on
-  `0633` `iuver`, singular `0660` `fascia`, `0677` `ciascum`, and grave accents on `0617`
-  `montavàn`, `0640` `sapevàn`, `0647` `andavàn`, `0674` `Procacciàn`, `porrìa`, `0675`
-  `eravàn` rightly kept. `0639` `[L]a casa Traversara` starts with an inline bracket:
-  `la_verseinsert.py` and `la_check.py` now take `[` without `]` as a runover (`0625`
-  `[Santi.`) and `[` with `]` as verse (`0447` la, `0639` it). Latin blocks: numbers
-  added/fixed on 0625 (`15`–`17`), 0626 (`⁵²`→`²²`, spaces added), 0637 (`23`–`30`), 0653
-  (`42`); stray blank lines removed in 0625, 0651 (two), 0677, and a `_______` line after
-  the block made blank in 0674; runover lines fixed/added in 0625 (`[cessitatem,`), 0639
-  (`[curialitatem,`), 0653 (`[plicat?`), 0661 (`[ad varchum;`), 0667 (`[sapiente, dicis`).
-  Batch 7 (0687–0748), 25 pages, 484 lines: 2 not as printed,
-  0712 `ch'a 'l` (`ch'a'l`), 0732 `dùbitar` (`dubitar`: a faint speck under `più` on the
-  line above). Printed `0733` `insieine` (for `insieme`) and grave accents on `0701`
-  `perdèsi`, `0707`/`0721` `andavàn`, `0714` `accusiàn`, `Lodiàn`, `brigavàn`, `0721`
-  `volgèmo`, `0732` `pentèmi` rightly kept. Latin blocks: numbers fixed on 0701
-  (`⁶¹`–`⁶⁷`→`41`–`47`, plus missing blank line after header added) and 0735
-  (`⁸¹`–`⁸⁶`→`31`–`36`); stray blank line removed in 0736; `Etipse`→`Et ipse` and
-  `aduggíat`→`aduggiat` in 0709; runover lines fixed/added in 0688 (`niam.`→`[niam.`),
-  0699 (`[trem tibi`), 0714 (`[passim.`→`[passum.` on its own line), 0723 (`[locutus fui.`
-  and `[quitur.` on their own lines), 0746 (`[luntate.`).
-  Batch 8 (0753–0831), 25 pages, 470 lines: 4 apostrophe
-  spaces not as printed, 0792 `Che 'l` (`Che'l`), 0819 `quattr' animali`
-  (`quattr'animali`), 0828 `L' occhio` (`L'occhio`) and `dentr' e` (`dentr'e`; `l' altro`,
-  `dentr' una`, `m' apparve` on 0828 really are spaced). 0779's last line (`Che se ne va
-  dirieto a'vostri terghi?`), cut by the crop, was read from `ocr/la/0779.png`. Printed
-  `0753` `Dal Troso`, `0777` `usar` (for `uscir`), `0778` `intorno` (for `incontro`) and
-  `lor vita` (for `lor via`), `0780` `in se inurba` / `opbrobrio` / `partinci`, `0783`
-  Provençal lines (`Tam me bellis …`), `0792` `del mondo` (for `del monte`), `0828`
-  `ricidea`, `0830` `coine` (for `come`) rightly kept. `la_verseinsert.py` now also strips
-  leading indentation on the Latin verse block (`0755` onwards had 3–4 leading spaces on
-  non-numbered lines). Latin blocks: numbers added on 0778 (`9`–`15`), 0780 (`23`–`29`),
-  0783 (`41`–`47`), 0828 (`8`–`13`); missing blank line after header/page number added in
-  0757, 0778, 0809; 0753 `die`→`dic`; 0754 `seccba`→`seccha`, `[Lucca.`→`[Lucca,`; 0757
-  `Veniendò`→`Veniendo`; 0778 `mihi`→`nobis`, `Priùsquam`→`Priusquam`, `[cissem` and
-  `[fortunam.` on their own lines; 0782 `[obscurum.` on its own line; 0792 `[cta est,` on
-  its own line (`xi` removed); 0831 `^^777`→`777`, `Dominas`→`Domina`, `[rent:` on its own
-  line.
-  Batch 9 (0832–0911), 25 pages, 429 lines (entering Paradiso):
-  1 apostrophe space not as printed, 0910 `più ch' al` (`ch'al`); on re-check (2026-10-17),
-  0885 `lieto (⁸):` for the printed `lieto (⁸).` (no upper dot; end of the sentence). 0848
-  `Dee` and 0885 `lieto` (GLM-OCR `Dec`, `liceto`) kept: a worn hairline `e`. 0842's last line (`Fummo
-  ordinate a lei per sue ancelle.`), cut by the crop, was read from `ocr/la/0842.png`. On 0856,
-  tercet number 44 was omitted in print in the Italian verse (kept without number as printed,
-  Latin `⁴⁴` kept). Printed inline brackets on 0841 `me[n]`, 0851 `[non]`, 0867 `Eu[n]ce`, and
-  printed forms on `0905` `confexion`, `0910` `suo secta`, `rapitten`, `0886`/`0911` 1-line canto
-  endings rightly kept. Latin blocks: numbers added on 0881 (`22`–`26`), 0899 (`40`–`46`);
-  0832 `[finem,` added; 0837 blank line after header; 0838 `permictere` and `[ante?` fixed,
-  `_` removed; 0841 `_` removed; 0842 `[de]` and missing lines 2–3 of tercet 36 restored;
-  0848 backticks stripped and pipe table converted to Latin block; 0856 `Talis`, `celo`,
-  `quolibet` fixed, `[conem,` and `[frontem:` on their own lines; 0882 stray blank line removed,
-  numbers `²⁷`–`³¹`, `[siderium,` and `[suum,` fixed; 0899 `[faciunt.` added, `Respice`, `locum`,
-  `guadum.` fixed; 0905 blank line after `851`; 0907 numbers `¹⁶`–`²⁰`; 0908 `[tibundos.` added;
-  0909 `²⁸`, `incelat`, `[normam,` fixed; 0910 `[num usitati,` and `[tudinem,` on their own lines,
-  commentary removed; 0911 `⁴¹` fixed.
-  Batch 10 (0919–0982), 25 pages, 463 lines: 1 not as printed,
-  0976 `Cunisa` for the printed `Cimisa` (an `i` dot right after `C`, five stems before `s`;
-  its report said there was no dot; Tesseract reads `Cimisa`, GLM-OCR `Cinisa`; kept as
-  printed, see "Suspected misprints"). Its spaced elisions (`Ond' eran`, `t' ho`, `Ch' uscì`,
-  `fermalv' entro`, `m' havea`, `Dentr' al`, `veggi' hor`, `ch' i'`, `s' io`, `Com' uscir`,
-  `ch' a`) are spaced in print. Printed `0976` `[perto,`, `propinqua,`, `muoia,` (commas, not
-  GLM-OCR's dots). Latin blocks: 0922 `extinxit`, `amasii`, `Dixi`, `callefacit` and a stray
-  blank line removed; 0928 a blank line after the head, `[coperui,`, `Requirit`; 0933 number
-  `43`, `Istud`, `corrosit`; 0945 `parti,` and `artem` joined to their lines (not runovers),
-  `Que`, `parva`, `nostre letitie` (no `æ` in the print); 0946 `addul[c]escit`, `vita,`,
-  `Provintiales`, `[cere alterius.`; 0966 numbers `19`–`24`, `stetissem`, `que`.
-  Batch 11 (0987–1078), 25 pages, 462 lines: 2 words and 2
-  elision spaces not as printed: 1054 `simiglianze` for the printed `simiglanze` (the
-  edition's `gl`), 1042 `miei` for the printed `mici` (see "Suspected misprints"); 1042
-  `m'accors' io` for `m' accors' io`, 1045 `degl' ochi` for `degl'ochi`. Also kept as printed:
-  1053 `s'àdempia` (a grave on the `a`, see "Suspected misprints"), 1039 `nôi`, 1053
-  `se' tanto` (gap as narrow as most). Latin blocks: 1053 numbers `16`–`24` (one less in the
-  OCR); 1041 `[corporum;` (no closing bracket in the print). `la_check.py 0983 1078`: the
-  batch's pages are clean but for reports caused by neighbouring pages outside the batches:
-  1053 (1052's Latin ends at 9), 1063 (1062), 1068 (1064–1066 with plain numbers, 1067
-  `²⁵Se` without a space).
-  Batch 12 (1079–1144), 25 pages, 486 lines: 4 words not as
-  printed: 1137 `trascorso` (printed `transcorso`), 1144 `uscìo` (`usciò`), 1126 `[tisso,`
-  (`[fisso,`, the `fi` ligature); and the gaps at apostrophes, which the print sets both
-  ways: 6 elisions written spaced though tight in print (1080 `a'tuoi`, 1087 `perch'io`,
-  1114 `buon'intention`, 1124 `Dentr'al`, 1126 `Prompt'al`, 1129 `Dintorn'a`), 1137
-  `dov' è` written tight, and 22 of the 47 `'l`/`'n` written with a space before though
-  tight in print (`che'l`, `e'l`, `fece'l`, `Che'n`, `le'ntendi`, …). All 47 were looked
-  at, and in batch 11 likewise (3 of 22 tight: 0988 `Fusse'l`, 1018 `Chè'l … che'n`, 1045
-  `senza'ntender`, fixed in `ocr/la`). **Not looked at in batches 1–10**: la-el-agy may have
-  written `'l` with a space where the print is tight (vcheck ignores spaces). Latin
-  blocks: 1089 numbers `14`–`18` (none in the OCR), `Guilhielmum`, `visio` and `signatum`
-  without the OCR's comma and full stop; 1090 tercet 23's first line added (`Taliter fuit
-  in oculis meis, quando fui volutus,`), `Propter`, `exponeret`. `la_check.py 1079 1150`:
-  clean but for 1134 (1132 `^ Oppresso` and 1133's numbers, outside the batches).
-  Batch 13 (1145–1230), 25 pages, 443 lines: 1 word not as
-  printed, 1230 `Allora` (printed `Allhora`); of the 49 lines with a spaced apostrophe,
-  13 gaps tight in print (`che'l`, `Vagheggia'l`, `ma'l`, `come'l`, `Gonfia'l`, `e'l`,
-  1193 `ch'e`, 1201 `de'haver`, 1226 `dagl'odori`, …); its tight `'l` (1148 `parte'l`,
-  1229 `Quant'è'l`, 1167 `tutto'l`, 1145 `s'aperse'l`) are tight in print. Also as
-  printed: 1180 `mici`, 1157 `transcorsa`, `Perche`. Latin blocks: 1148 tercets 41–43
-  rewritten from the scan (runovers `[flammatur:`, `[patefactus.` on their own lines; the
-  first two lines of 43, `Inde remansere …`, were missing; the print's italic reads like
-  `remunsere`); 1188 `Title:` and the blank lines between tercets removed; 1191 number
-  `28`. `la_check.py 1140 1234`: clean but for 1167 (1166 has no Latin numbers, outside
-  the batches).
-  Batch 14 (1235–1265), 12 pages, 223 lines, the last Italian
-  batch: no letter wrong; 4 gaps at apostrophes not as printed (1252 `Tutt' è` written
-  tight; 1252 `negl'ochi`, `cogl'ochi`, 1261 `doppo'l` written spaced). 1252's last
-  tercet was cut by the crop and read in the full page. Latin blocks: 1235 `[rem et
-  florem,` on its own line; 1252 the blank lines between tercets removed, tercet 39 added
-  (missing; a stray `39` stood before the commentary's `Sed venias ammodo.`), `Honerare`;
-  1261 a wrong `16` on the second line of 15 removed, numbers `16`–`21` one less.
-  `la_check.py 1231 1270`: clean.
-  **0836** (Latin), 6 lines: as printed. Inserted under the
-  gloss line by hand (`la_verseinsert.py` handles only a missing Italian); the Italian
-  block's indentation stripped, `Volgendo'l` tight as printed. The commentary had the right
-  column (`solito, ostendit … cum acie.`) before the end of the left one (`ostendit quomodo
-  fuit lotus … suo more`): moved, whole lines. Left to the markup: words and two lines the
-  OCR dropped (`Statio non erat ex illa parte fluminis, in qua iste exercitus`, `nobiles
-  Romani semper feriebant cum cuspide ensis. Ista`), `taglo`, `predecto`, `decto`,
-  `Beatricis`, `supplicaverunt`.
-- **Gaps at apostrophes, batches 1–10** (2026-10-18): all 478 lines of 0237–0982 with a
-  spaced apostrophe (elision or `'l`/`'n`, not the truncations `se'`, `de'`, …, the
-  `TRUNC` list of the scratch lister) looked at in the image: 128 places not as printed,
-  fixed in `ocr/la` and in la-el-agy's files, in 87
-  pages. Most `'l`/`'n` written spaced though tight (`che'l`, `e'l`, `Disse'l`, `fra'l`,
-  `se'ntendi`), also `fa'che`, `co'ghiottoni`, `va'via`, `trov'una`, `Perch'un`; four the
-  other way (0540 `Quell' humido`, 0777 `l' homero`, 0928 `c' hai`, found by chance:
-  tight-written elisions were not listed); two letters: 0615 `lo 'inviarci`, 0789
-  `lo'intesi` (both written `'nt…`/`'nv…` without the printed `i`).
-- **Gloss lines missing** (listed again 2026-10-18 by a scratch script): of the
-  inserted pages whose verse has gloss marks, 201 have no gloss line and 22 lack some marks
-  in it (223 pages). A first
-  count (125 and 14) missed the marks `¹²³` (not in the range `⁰-⁹`) and took verse lines
-  beginning with a mark for gloss lines. The gloss lines in place are often OCR noise
-  (0237 `(¹) al. peró. — (⁶) meglo.` for seven glosses), so all 223 pages are transcribed
-  anew: a scratch script cut the band under the verse, full width; la-el-agy transcribed
-  it in 5 batches of 45 ([DELEGATION.md](DELEGATION.md)); the new lines replace the old.
-  Check (scratch scripts): the words found in no other reading of the band (Tesseract,
-  GLM-OCR, old gloss lines; accents ignored) and gloss numbers that differ from the verse
-  marks, each looked at in a crop. Insert: old gloss lines replaced where they stand, else
-  the lines after the Italian block, with a blank line before.
-  - **Batch 1** (0237–0421, 45 pages, 69 lines): 4 words fixed in the scan (0414
-    `affrectasi`, 0403 `segnita`, 0421 `doventata`, 0242 `dell'Inferno` tight); 0397
-    `do', i. dove` read with a broken `o` (as 0421). Printed: 0276 `(³)` for the verse's
-    `(²)`; 0295 `³)` without `(`. Inserted (6 pages had old gloss lines, replaced);
-    `la_check.py 0237 0421` tercet reports unchanged.
-  - **Batch 2** (0423–0602, 45 pages): 4 fixed in the scan (0457 `tigluoli`, 0458
-    `ov'entra` tight, 0502 and 0592 `³)` as printed); accents checked against Tesseract
-    (`così`, `aprì` printed). `ginsert.py` first took 0503's `In exitu Israel de Egypto`
-    (also a Latin line) for the end of the Italian block; fixed (the first match of the last
-    verse line), 0503 redone from HEAD, all 90 placements checked; the script now skips a
-    page already done and refuses an old run holding a tercet number or too long. Inserted;
-    `la_check.py 0423 0602` tercet reports unchanged.
-  - **Batch 3** (0605–0754, 45 pages): fixed in the scan 0710 `figluol` (the `ﬁ` ligature,
-    read `t`; batch 2's 0457 `tigluoli` was the same misreading of mine, now `figluoli`), 0714
-    `sì`, 0748 `dell'Inferno` tight, 0746 `(⁵)` (faint bracket). Printed: 0640 `(³)` and 0733
-    `(⁹)` repeated. `ginsert.py` took commentary paragraphs beginning `(1)` (0615) for old
-    gloss lines: an old run must now be close to the new lines (token_set_ratio ≥ 50). Old
-    gloss lines it missed (beginning `— (¹)`, or under the Latin block with no blank line)
-    were deleted by hand after a scan of the 135 pages: 0321, 0600, 0635, 0712, 0754.
-  - **Batch 4** (0755–1016, 45 pages; blocks up to 12 lines, 0899 beyond the band, read in
-    the full page): 0882 `dell'acre` as printed (misprint). **Gloss numbers are written
-    `(n)` always**: a bracket lost in print is worn type (a trace shows on most), so `³)`,
-    `(³`, bare `⁶` were made `(³)`, `(⁶)` (0295, 0502, 0592, 0733, 0831, 0832, 0837, 0841,
-    0842, 0851, 0853, 0931; in `ocr/la` too for those inserted). Accents on `i` (dot or
-    stroke) are hard to tell at this resolution; la-el-agy's reading kept where unclear.
-    Inserted; `la_check.py 0755 1016` tercet reports unchanged.
-  - **Batch 5** (1019–1264, 43 pages): no word to fix; printed and kept: 1190 `Çapricorno`,
-    1230 `Symoniaco[s] cº. 19`, 1259 `de'Beati` tight, 1260 `dell' Inferno` spaced. Old
-    line left on 1236 (beginning `— (³)`) deleted by hand. `la_check.py 1019 1265` tercet
-    reports unchanged.
-  - **Result**: all 223 pages have their gloss block once (2–12 lines); the gloss numbers
-    match the verse marks except the printed slips 0276 `(³)` for `(²)`, 0640 `(³)` twice,
-    0733 `(⁹)` twice. `glosslist.py` still lists 22 pages as "part": its count reads only
-    lines beginning with a mark, and these glosses run over a line break.
-  Found 2026-10-17: of the 218 inserted pages whose Italian has
-  gloss marks, 175 have no gloss line `(¹) …` in `ocr/la` (e.g. 0881, 0966 `(⁴) gigante.`),
-  though it is printed under the verse: GLM-OCR and the old file dropped it, and the verse
-  task leaves it out. texts/PLAN.md says the gloss line is added if missing (Remaining work).
-- **`la_check.py 0233 0915` after batch 9** (2026-10-16): tercets internal to all 25 pages of
-  batch 9 are clean (0856 reports 43 then 45 due to the printed omitted number 44).
-  The Latin blocks of 0233–0390 (unchecked OCR) needed: numbers made superscript;
-  numbers missing though printed (0295, 0307, 0317, 0385 all; 0329 one; 0369 a `"` for
-  `44`), misread (0277 `27` for `37`) or a line off (0252, 0289); a stray blank line in
-  the block (0320, 0367); a runover word at the end of the next line (0329 `[corruscet.`);
-  0321 tercets 31–32 with commentary text mixed in (rewritten from the scan); 0389 a gloss
-  line `¹ parlare.` without its blank line. 0309 keeps its `(...)` line (no gloss line
-  written).
 
 Data: `ocr/la/glm-ocr/` (GLM-OCR for every page) and `ocr/la/tesseract/` (Tesseract's word
 boxes for every page), both committed; the working data in `tmp/` (the paid answers) are
@@ -374,7 +71,7 @@ In this order (decided with the user, 2026-10-15):
      present), transcribe, and measure against `ocr/la`; then all pages. The crops of
      the Italian of 0079–0232 (121 pages) were transcribed with `ocr/la_verseread.py`
      (paid, by the user) and measured with its `--check`.
-   - **Trial done** (State). Decided (the user, 2026-10-15): the verse of the 338 pages
+   - **Trial done** (Record of the preparation). Decided (the user, 2026-10-15): the verse of the 338 pages
      (337 Italian, 0836 Latin) is transcribed by **la-el-agy**, not by Luna, in batches of
      20–30 pages, with the task of the trial ([DELEGATION.md](DELEGATION.md): the crops
      only; no text of the pages, of GLM-OCR or of the poem; superscript tercet numbers,
@@ -384,9 +81,9 @@ In this order (decided with the user, 2026-10-15):
    - **Batches**: 25 Italian pages each, in page order; each task is the
      previous one with the new pages and the words of the last batch that were not as
      printed ([DELEGATION.md](DELEGATION.md)).
-     - **Done**: batches 1–14, all 337 Italian pages (`0237`–`1265`, State).
+     - **Done**: batches 1–14, all 337 Italian pages (`0237`–`1265`, Record of the preparation).
      - **Done too**: Latin `0836` (row 338), and the gaps at apostrophes of batches 1–10
-       (State). The verse of all 338 pages is in.
+       (Record of the preparation). The verse of all 338 pages is in.
      - **Commits**: batches 4–10 were committed together after batch 10 (the user,
        2026-10-17); batches 11–14 and 0836 in `4c6f2f5`.
      - **Next**: item 6 (items 3–5 done). In any later verse check, look at every
@@ -412,7 +109,7 @@ In this order (decided with the user, 2026-10-15):
      image, then run it without `-n`. `la_check.py` over the range: the reports on the
      inserted pages (a stray blank line in a block, a gloss line taken as verse); those on
      other pages are for the batch procedure.
-   - **Gloss lines**: done (2026-10-18, State): the 223 pages
+   - **Gloss lines**: done (2026-10-18, Record of the preparation): the 223 pages
      have the gloss lines transcribed from the image, in place of the old ones.
 3. **Markup of the 475 pages** (paid), as procedure step 2,
    with the default rounds (the extra round of item 5 is for all pages together). Done:
@@ -428,7 +125,7 @@ In this order (decided with the user, 2026-10-15):
    (the older ones in `bak/`), none in `tmp/la-markup/`. A page refused this
    way stops the run; the user marks it with another model. When the run is done, the
    answers move into `tmp/la-markup/`, and the
-   further steps (item 5 on) work on `tmp/la-markup/`. Done (State).
+   further steps (item 5 on) work on `tmp/la-markup/`. Done (Record of the preparation).
    All 475 are now marked.
 4. **Pages that stop `la_markprep.py`**: done (2026-10-18); 0941 is called in item 5.
    - In `ocr/la`, checked in the image: 0727 `[dicit]`, 0063 `[et]`, 0822 `[firmaret]`
@@ -456,11 +153,11 @@ In this order (decided with the user, 2026-10-15):
    answers aside, so `-r 3` would allow three more). Check what is still missed. The pages:
    1233, every page with GLM-OCR but 0831, which is out of the method (0941 is called
    afresh), `uv run ocr/la_markup.py -r 1 -m gpt-6-luna -o tmp/la-markup PAGES`, run in
-   three in parallel (411 pages each). Then: `-r 0` on a copy for the counts (State), the
-   long blocks (69 pages, item 3) in the image, 1245's figure. Done (2026-10-18, State): the
+   three in parallel (411 pages each). Then: `-r 0` on a copy for the counts (Record of the preparation), the
+   long blocks (69 pages, item 3) in the image, 1245's figure. Done (2026-10-18, Record of the preparation): the
    long blocks led to item 6.
 6. **Pages with lost text** (decided with the user, 2026-10-18): the 164 pages of the
-   word check (State) are retyped from the scan by **la-el-agy**, page by page, from the
+   word check (Record of the preparation) are retyped from the scan by **la-el-agy**, page by page, from the
    image alone (no text of the page, of GLM-OCR or of the poem), with the conventions below;
    first a trial batch of 6 ([DELEGATION.md](DELEGATION.md)), then batches of 10 in page
    order. Each batch is checked by la-el-claude by script against GLM-OCR and the old
@@ -705,7 +402,7 @@ In this order (decided with the user, 2026-10-15):
      `nuliatenus` against the dot rows. With this batch the retyping of item 6 is done.
 7. **Model decisions** (paid), after item 6: a new work directory over all pages,
    `la_markprep.py`, then `la_markdecide.py` (procedure, steps 3–4). Done (2026-10-22,
-   State): `tmp/la-mark7/`, 22141 marks decided.
+   Record of the preparation): `tmp/la-mark7/`, 22141 marks decided.
 8. **Batches 3–11**: procedure steps 5–11, batch by batch, with WORK = `tmp/la-mark7`
    (steps 2–4 done there for all pages in item 7) and `-p FIRST LAST` on
    `la_markresolve.py`, so that only the batch's pages are routed, reviewed and written.
@@ -1163,7 +860,7 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
 
 1. **Verse**: done over all pages at once for 0233–1296 (Remaining work, items 1–2).
    `ocr/la_survey.py --work FIRST LAST` lists the pages whose Italian or Latin column is
-   missing or whose numbers are wrong (it has false positives: "State"). Batches 1–2 were
+   missing or whose numbers are wrong (it has false positives: "Record of the preparation"). Batches 1–2 were
    completed by delegation (texts/PLAN.md, "Procedure for `la`", step 4, and "What the
    delegation taught" below); open-ended delegation is not to be repeated. The markup method
    does not cover the Latin verse (GLM-OCR drops it), so the verse must be complete,
@@ -1563,7 +1260,7 @@ Results per batch: see "History".
   the commentary is a quotation is to be decided from the text alone (e.g. matched
   against the verse of the page, as the lemma check above), later.
 - `la_survey.py` ends a page's verse block at a gloss line it does not recognize (`(^1)`,
-  or a gloss run over two lines), and then reports the Latin as missing (25 pages, "State").
+  or a gloss run over two lines), and then reports the Latin as missing (25 pages, "Record of the preparation").
 - Line breaks and the Latin verse block are not covered by the markup (GLM-OCR joins lines
   and drops the Latin verse): the verse is completed before the markup (procedure, step 1),
   and line breaks are checked by `la_lines.py` (step 8).
@@ -1617,6 +1314,331 @@ before it, with the suspicious items checked in the images.
 - **Later narrow tasks** to la-el-agy (2026-10-15–20: the verse, the gloss lines and the
   retyped pages, from the images alone, each batch checked by script): how they were
   written, their rules and its errors are in [DELEGATION.md](DELEGATION.md).
+
+## Record of the preparation (items 1–7)
+
+The state of the pages before the batches of item 8 (2026-10-14 to 2026-10-22): the
+markup, the verse and gloss transcription, the model decisions. Items 1–7 of Remaining
+work refer here.
+
+- **Markup** (paid, by the user) done for every page (`0001`–`1296`, 1234 pages without
+  the 62 blank ones). Re-checked with `-r 0` (in a work directory, since
+  deleted): 3843 differences reported as missed in 841 pages (890 of them spacing only),
+  far more than on batches 1–2; 0941's answer is not valid JSON.
+- **`la_markprep.py`** ran over 1074 pages (21371 questions for the model): fixed for a
+  page file without a final newline (306 pages; the ending of `ocr/la` is kept), a vote
+  peak outside Tesseract's words, and superscript digits taken for a signature. Nine pages
+  stop it, because `{`, `}` or `|` in a text break the `{{…|…}}` marks (Remaining work,
+  item 4).
+- **Verse, misplaced Latin blocks** (by la-el-agy, checked): of the 74 pages that
+  `la_survey.py` gave as Latin missing, 48 had the Latin block elsewhere on the page and it
+  was moved (whole lines only; checked: the non-blank lines of each page are the same set);
+  25 had it in place (`la_survey.py` false positives: glosses written `(^1)` or run over two
+  lines end its verse block early, e.g. 0262, 0345); only 0836 lacks the Latin.
+- **Verse, crops**: `ocr/la_versecrop.py` cropped the missing column of the 337 pages
+  without the Italian and of 0836; the crops whose
+  line counts differed were checked by la-el-agy and la-el-claude, and the script fixed
+  (bottom lines lost, the Italian cut where the two columns overlap, 0625).
+- **Markup answers to redo**: the pages whose lines change (386 pages: the
+  337 without the Italian, 0836, and the 48 with a moved Latin block) were moved, all their
+  files, into `tmp/la-markup/bak/`; `tmp/la-markup/` held the other 848.
+- **Markup of the 48 pages with a moved Latin block** (paid, by the user, default rounds):
+  re-checked with `-r 0`: 207 differences missed in 43 pages (44 spacing only); without
+  0598, about 3–4 a page, as on the other pages (left to the extra round, item 5).
+- **Italics written `*…*`** (Gemini's italics; the convention does not transcribe them):
+  0598 had 53 commentary lines wrapped in `*…*`, and the model's entries removing a `*`
+  could not be placed (two on a line). Every `*` was removed from `ocr/la` (114 pages, 475
+  lines; only `*`, and a space left doubled or leading on two
+  lines, 0569, 0691), except the printed ones: 1193 `* * *`, 1254 `Quia(*)`; and 0611
+  `* Ego me moveram`, a misread tercet number (GLM-OCR `4`), left for the verse check.
+  Their markup is redone: the answers of the 89 pages not already among the 386, and
+  0598's second set (as `bak/0598-2.*`), were moved to `bak/`. The pages to mark were then
+  475 (47 done, 90 ready, 338 after the verse).
+- **Markup of the 90 ready pages** (paid, by the user, default rounds): re-checked with
+  `-r 0`: 351 differences missed in 62 pages (132 spacing only), 72 entries not placed in
+  38 pages. Most are on two pages: 1023 (82, GLM-OCR drops the space after punctuation)
+  and 1277 (57, the two OCRs break and bound the text differently; 8 not placed; look at it
+  after the extra round). 0598: 0 not placed (56 before the italics fix), 1 missed. No `*`
+  entry is left anywhere. Left to the extra round, item 5.
+- **Markup of the 338 verse pages** (paid, by the user, default rounds, 2026-10-18; 0831
+  retyped instead, item 3): the answers of the 337 moved from their work directory
+  (deleted when empty) into `tmp/la-markup/`. Re-checked with `-r 0`: 1011 differences
+  missed in 284 pages (316 spacing only), 279 entries not placed in 162 pages; 102 are
+  long blocks (a paragraph on one side only or out of order, 69 pages, most on 1191: 6;
+  0309, 0779, 0882: 3), a sign that `ocr/la` may be broken there as 0831 was. Left to the
+  extra round, item 5; look at the long blocks after it.
+- **Extra markup round** (item 5, `-r 1` on the 1233 pages, paid, by the user,
+  2026-10-18; no page refused): re-checked with `-r 0`: 2604 differences missed in 735
+  pages (757 spacing only), 549 entries not placed in 316 pages. 0941: 3 missed (GLM-OCR
+  misreadings), 1245: 2. The long blocks showed that `ocr/la` has **lost text** on many
+  pages, as on 0831 and 0941: a word check found 164 pages where GLM-OCR has runs of 15+
+  words that `ocr/la` lacks (24183 words; 95 pages over 100 words, 18 with verse lost).
+  Seen in the image: 0907 (the left commentary column lost, and
+  `vult beatos homines` written `que sunt beati homines`), 0940 (the Italian verse, the
+  left commentary column and most of the last paragraph lost); 0709 has 356 words of
+  GLM-OCR's 794. Retyped in item 6.
+- **Model decisions** (item 7, done 2026-10-22) in `tmp/la-mark7/`, over 1083 pages
+  (0001–0078 and 0233–1296 without the blank pages and 0831). Markup: the answers of
+  `tmp/la-markup/` copied and re-checked with `-r 0`: no page failed, so no new paid
+  markup; 2244 differences missed in 664 pages (2604 before item 6), 411 entries not
+  placed in 254 pages (0048 and 0050 one each: their dot runs, fixed after the markup).
+  `la_markprep.py -t ocr/la/tesseract` stopped on no page: resolved 10559 (number 4230,
+  note 3458, quote 1570, head 785, spacing 195, moved 174, signature 88, google 59); left
+  31272 (located 27828, unlocated 1537, ambiguous 800, order 725, word 382); 22141 to ask
+  in 1070 pages. `la_markdecide.py -m gpt-6-luna` (paid, by the user; no question
+  refused, no invalid answer): 22032 questions (identical marks share an answer), all
+  22141 answered: left (`ocr/la`) 12794, right (GLM-OCR) 8097, neither 1133, wrong place
+  101, unreadable 16.
+- **Verse transcription, trial** (`la_verseread.py`, paid, by the user) on the Italian of
+  the 121 checked pages, measured with `--check` against `ocr/la` (differences counted by
+  word; "caught": GLM-OCR has the file's reading, not the model's, so the verse check
+  would find it; "missed": GLM-OCR reads as the model):
+  - First prompt, 5 pages: 9 wrong lines of 66, mostly the modern text of the poem
+    (`havea→avea`, `aqua→acqua`, `diserta→deserta`, `ochi→occhi`) and `Sì→Si`. It also
+    showed that 0085 `uscìa` had an accent the scan does not show (`940cfce`, now `uscia`).
+  - Second prompt (warns against the modern text, asks for each accent), 121 pages: 334
+    lines of 1755 differ; by word: letters 206 (165 caught, 16 missed), punctuation 55
+    (41, 13), accents 32 (19, 9), tercet numbers 53. The model writes the modern spelling
+    systematically: `gl`+vowel made `gli` (`figlo`, `vogla`), `ct` made `tt` (`decto`,
+    `puncto`), single consonants doubled (`ochi`, `nochier`); `viddi→vidi`, `um→un`.
+    Tercet numbers: the small superscripts are often misread, a run shifted on 0137
+    (36→30); take them from the Latin column of the page when inserting.
+  - Third prompt (the edition's spellings with examples), on the 20 pages with the most
+    differences (their second answers in `read/bak/`, with `read/bak/check-v2.txt`):
+    letters 94 → 62 (45 caught, 8 missed), punctuation 10 → 8, accents 3 → 4. `ct` and
+    `gl` are still often modernized (`tucto`, `periglo`); the `viddi` example was
+    over-applied (3 printed `vidi` read `viddi`). The prompt cannot hold the model off the
+    modern text much further.
+  - **la-el-agy** (the crops only, no text of the pages; [DELEGATION.md](DELEGATION.md))
+    on 5 of these pages (0169 0188 0200 0202 0227, 111 lines): letters 0, punctuation 0,
+    tercet numbers 0 (Luna, third prompt: 25, 1, 14); one accent, 0200 `dietrò`, which it
+    reported itself as unsure (a speck above the `o`, not an accent: the file's `dietro`
+    stands). Read independently: its apostrophe spacing and number forms differ from the
+    file's.
+- **Verse inserted** (Remaining work, items 1–2): batches 1–2 of
+  la-el-agy, 50 pages (0237–0390, the first 50 Italian pages in page order), 920 lines,
+  5 words not as printed, all found by the check and fixed: 0273 `Ch'havea` (`C'havea`),
+  0284 `dirieto` (`dirietro`), 0378 `departii` (`dipartii`), 0378 `mornorando` and 0390
+  `ninico` (`mormorando`, `nimico`: an `m` whose worn first stem it took for an `n`, with
+  a stroke-width argument in its report). No accent, punctuation or tercet number wrong.
+  Its notes of "unsure" or "measured" letters are not a sign of a right reading: look at
+  them.
+  Batch 3 (0397–0459), 25 pages, 495 lines: 2 not as printed,
+  0404 a comma left out after `paura`, 0423 `[su` for the printed misprint `[sn`. Its
+  report named a `d[e]lle` on 0397 that is in no file and no print: the report is not
+  evidence. GLM-OCR reads a worn `e` as `c` (`ciclo`, `Ch'ci`, `mici`, `Briarco`): the
+  scan's `Briareo` (0437) kept. Latin blocks: 0459 `52`–`58` for `32`–`38`; runover words
+  not marked (0425 `[unciam,`, 0448 `[nanciam.`, `[maneat.`, misread as `nantiam`,
+  `maneant`); 0459 `congeletur`; a blank line in the Latin block where the Italian has a
+  runover line (0404, 0423, 0455, 0456, 0459). 0447's `[Et veniet semper, ex gelatis
+  aquis].` is a whole line supplied in brackets:  `la_verseinsert.py` takes `[` followed by
+  a lowercase letter as a runover, other `[` lines as verse; `la_check.py` still reports
+  its tercet 25 off by one (known exception).
+  Batch 4 (0468–0549), 25 pages, 466 lines: 4 not as printed,
+  0501 `Rïvidil` (`Rividil`: a smudged dot on `i`), 0527 `mío` (`mio`: the same), 0536
+  `calan do` (`calando`: a worn `d` bowl), 0539 `sopragjunto` (`sopragiunto`: a speck below
+  `i`). Conversely, the printed grave accents on `0501` `càgion`, `0507` `andavàn`, `sà`,
+  `0536` `Fàccianli` were rightly kept. Latin blocks: numbers added/fixed on 0494 (`28`–`33`),
+  0514 (`19`), 0535 (`8`→`3`), 0539 (`47`–`50`→`27`–`30`); 0505 `Si[c]`, a stray blank line
+  removed and `[cumque` added; 0527 `[facit.` moved before `31` and `_` stripped; 0535
+  `[gnum.` added; 0536 `[raucum;` put on its own line and `[verterunt,` fixed; 0547 missing
+  `vertice` added.
+  Batch 5 (0551–0615), 25 pages, 499 lines: 4 not as printed,
+  0557 `[perduto` and 0558 `[quante.` written inline at the end of the next line instead of
+  on their own line after the line they continue, 0600 `nòi` (`noi`: an interlinear speck),
+  0605 `Salvani` (`Selvani`). Printed grave accents on `0569` `Vèr`, `dèi`, `0580` `fòr`,
+  `0589` `salivàmmo`, `0600` `ànno` rightly kept. Latin blocks: 0558 numbers `12`–`13` and
+  missing `[me adhereo.` added; 0569 `[gradum,`, 0579 `[quantulum,`, 0593 `[me moveam:` put
+  on their own lines; 0579 missing `incendium` (`ymaginatum`) added; 0589 broken line
+  rejoined; 0601 `[transitus,` and `[est parcus.` fixed; 0605 `[explanas;`, `qui[a] fuit
+  presumptuosus`, `[ausus.`, `Priusquam` fixed and 4 garbled commentary lines at the end of
+  the verse block removed.
+  Batch 6 (0616–0677), 25 pages, 467 lines: 2 not as printed,
+  0617 `sospecciar` (`sospicciar`), 0634 `Si·sdebitò` (`Si sdebitò`: a work-up speck between
+  words), plus missing spaces before/after gloss marks on 8 pages. Printed turned `n` on
+  `0633` `iuver`, singular `0660` `fascia`, `0677` `ciascum`, and grave accents on `0617`
+  `montavàn`, `0640` `sapevàn`, `0647` `andavàn`, `0674` `Procacciàn`, `porrìa`, `0675`
+  `eravàn` rightly kept. `0639` `[L]a casa Traversara` starts with an inline bracket:
+  `la_verseinsert.py` and `la_check.py` now take `[` without `]` as a runover (`0625`
+  `[Santi.`) and `[` with `]` as verse (`0447` la, `0639` it). Latin blocks: numbers
+  added/fixed on 0625 (`15`–`17`), 0626 (`⁵²`→`²²`, spaces added), 0637 (`23`–`30`), 0653
+  (`42`); stray blank lines removed in 0625, 0651 (two), 0677, and a `_______` line after
+  the block made blank in 0674; runover lines fixed/added in 0625 (`[cessitatem,`), 0639
+  (`[curialitatem,`), 0653 (`[plicat?`), 0661 (`[ad varchum;`), 0667 (`[sapiente, dicis`).
+  Batch 7 (0687–0748), 25 pages, 484 lines: 2 not as printed,
+  0712 `ch'a 'l` (`ch'a'l`), 0732 `dùbitar` (`dubitar`: a faint speck under `più` on the
+  line above). Printed `0733` `insieine` (for `insieme`) and grave accents on `0701`
+  `perdèsi`, `0707`/`0721` `andavàn`, `0714` `accusiàn`, `Lodiàn`, `brigavàn`, `0721`
+  `volgèmo`, `0732` `pentèmi` rightly kept. Latin blocks: numbers fixed on 0701
+  (`⁶¹`–`⁶⁷`→`41`–`47`, plus missing blank line after header added) and 0735
+  (`⁸¹`–`⁸⁶`→`31`–`36`); stray blank line removed in 0736; `Etipse`→`Et ipse` and
+  `aduggíat`→`aduggiat` in 0709; runover lines fixed/added in 0688 (`niam.`→`[niam.`),
+  0699 (`[trem tibi`), 0714 (`[passim.`→`[passum.` on its own line), 0723 (`[locutus fui.`
+  and `[quitur.` on their own lines), 0746 (`[luntate.`).
+  Batch 8 (0753–0831), 25 pages, 470 lines: 4 apostrophe
+  spaces not as printed, 0792 `Che 'l` (`Che'l`), 0819 `quattr' animali`
+  (`quattr'animali`), 0828 `L' occhio` (`L'occhio`) and `dentr' e` (`dentr'e`; `l' altro`,
+  `dentr' una`, `m' apparve` on 0828 really are spaced). 0779's last line (`Che se ne va
+  dirieto a'vostri terghi?`), cut by the crop, was read from `ocr/la/0779.png`. Printed
+  `0753` `Dal Troso`, `0777` `usar` (for `uscir`), `0778` `intorno` (for `incontro`) and
+  `lor vita` (for `lor via`), `0780` `in se inurba` / `opbrobrio` / `partinci`, `0783`
+  Provençal lines (`Tam me bellis …`), `0792` `del mondo` (for `del monte`), `0828`
+  `ricidea`, `0830` `coine` (for `come`) rightly kept. `la_verseinsert.py` now also strips
+  leading indentation on the Latin verse block (`0755` onwards had 3–4 leading spaces on
+  non-numbered lines). Latin blocks: numbers added on 0778 (`9`–`15`), 0780 (`23`–`29`),
+  0783 (`41`–`47`), 0828 (`8`–`13`); missing blank line after header/page number added in
+  0757, 0778, 0809; 0753 `die`→`dic`; 0754 `seccba`→`seccha`, `[Lucca.`→`[Lucca,`; 0757
+  `Veniendò`→`Veniendo`; 0778 `mihi`→`nobis`, `Priùsquam`→`Priusquam`, `[cissem` and
+  `[fortunam.` on their own lines; 0782 `[obscurum.` on its own line; 0792 `[cta est,` on
+  its own line (`xi` removed); 0831 `^^777`→`777`, `Dominas`→`Domina`, `[rent:` on its own
+  line.
+  Batch 9 (0832–0911), 25 pages, 429 lines (entering Paradiso):
+  1 apostrophe space not as printed, 0910 `più ch' al` (`ch'al`); on re-check (2026-10-17),
+  0885 `lieto (⁸):` for the printed `lieto (⁸).` (no upper dot; end of the sentence). 0848
+  `Dee` and 0885 `lieto` (GLM-OCR `Dec`, `liceto`) kept: a worn hairline `e`. 0842's last line (`Fummo
+  ordinate a lei per sue ancelle.`), cut by the crop, was read from `ocr/la/0842.png`. On 0856,
+  tercet number 44 was omitted in print in the Italian verse (kept without number as printed,
+  Latin `⁴⁴` kept). Printed inline brackets on 0841 `me[n]`, 0851 `[non]`, 0867 `Eu[n]ce`, and
+  printed forms on `0905` `confexion`, `0910` `suo secta`, `rapitten`, `0886`/`0911` 1-line canto
+  endings rightly kept. Latin blocks: numbers added on 0881 (`22`–`26`), 0899 (`40`–`46`);
+  0832 `[finem,` added; 0837 blank line after header; 0838 `permictere` and `[ante?` fixed,
+  `_` removed; 0841 `_` removed; 0842 `[de]` and missing lines 2–3 of tercet 36 restored;
+  0848 backticks stripped and pipe table converted to Latin block; 0856 `Talis`, `celo`,
+  `quolibet` fixed, `[conem,` and `[frontem:` on their own lines; 0882 stray blank line removed,
+  numbers `²⁷`–`³¹`, `[siderium,` and `[suum,` fixed; 0899 `[faciunt.` added, `Respice`, `locum`,
+  `guadum.` fixed; 0905 blank line after `851`; 0907 numbers `¹⁶`–`²⁰`; 0908 `[tibundos.` added;
+  0909 `²⁸`, `incelat`, `[normam,` fixed; 0910 `[num usitati,` and `[tudinem,` on their own lines,
+  commentary removed; 0911 `⁴¹` fixed.
+  Batch 10 (0919–0982), 25 pages, 463 lines: 1 not as printed,
+  0976 `Cunisa` for the printed `Cimisa` (an `i` dot right after `C`, five stems before `s`;
+  its report said there was no dot; Tesseract reads `Cimisa`, GLM-OCR `Cinisa`; kept as
+  printed, see "Suspected misprints"). Its spaced elisions (`Ond' eran`, `t' ho`, `Ch' uscì`,
+  `fermalv' entro`, `m' havea`, `Dentr' al`, `veggi' hor`, `ch' i'`, `s' io`, `Com' uscir`,
+  `ch' a`) are spaced in print. Printed `0976` `[perto,`, `propinqua,`, `muoia,` (commas, not
+  GLM-OCR's dots). Latin blocks: 0922 `extinxit`, `amasii`, `Dixi`, `callefacit` and a stray
+  blank line removed; 0928 a blank line after the head, `[coperui,`, `Requirit`; 0933 number
+  `43`, `Istud`, `corrosit`; 0945 `parti,` and `artem` joined to their lines (not runovers),
+  `Que`, `parva`, `nostre letitie` (no `æ` in the print); 0946 `addul[c]escit`, `vita,`,
+  `Provintiales`, `[cere alterius.`; 0966 numbers `19`–`24`, `stetissem`, `que`.
+  Batch 11 (0987–1078), 25 pages, 462 lines: 2 words and 2
+  elision spaces not as printed: 1054 `simiglianze` for the printed `simiglanze` (the
+  edition's `gl`), 1042 `miei` for the printed `mici` (see "Suspected misprints"); 1042
+  `m'accors' io` for `m' accors' io`, 1045 `degl' ochi` for `degl'ochi`. Also kept as printed:
+  1053 `s'àdempia` (a grave on the `a`, see "Suspected misprints"), 1039 `nôi`, 1053
+  `se' tanto` (gap as narrow as most). Latin blocks: 1053 numbers `16`–`24` (one less in the
+  OCR); 1041 `[corporum;` (no closing bracket in the print). `la_check.py 0983 1078`: the
+  batch's pages are clean but for reports caused by neighbouring pages outside the batches:
+  1053 (1052's Latin ends at 9), 1063 (1062), 1068 (1064–1066 with plain numbers, 1067
+  `²⁵Se` without a space).
+  Batch 12 (1079–1144), 25 pages, 486 lines: 4 words not as
+  printed: 1137 `trascorso` (printed `transcorso`), 1144 `uscìo` (`usciò`), 1126 `[tisso,`
+  (`[fisso,`, the `fi` ligature); and the gaps at apostrophes, which the print sets both
+  ways: 6 elisions written spaced though tight in print (1080 `a'tuoi`, 1087 `perch'io`,
+  1114 `buon'intention`, 1124 `Dentr'al`, 1126 `Prompt'al`, 1129 `Dintorn'a`), 1137
+  `dov' è` written tight, and 22 of the 47 `'l`/`'n` written with a space before though
+  tight in print (`che'l`, `e'l`, `fece'l`, `Che'n`, `le'ntendi`, …). All 47 were looked
+  at, and in batch 11 likewise (3 of 22 tight: 0988 `Fusse'l`, 1018 `Chè'l … che'n`, 1045
+  `senza'ntender`, fixed in `ocr/la`). **Not looked at in batches 1–10**: la-el-agy may have
+  written `'l` with a space where the print is tight (vcheck ignores spaces). Latin
+  blocks: 1089 numbers `14`–`18` (none in the OCR), `Guilhielmum`, `visio` and `signatum`
+  without the OCR's comma and full stop; 1090 tercet 23's first line added (`Taliter fuit
+  in oculis meis, quando fui volutus,`), `Propter`, `exponeret`. `la_check.py 1079 1150`:
+  clean but for 1134 (1132 `^ Oppresso` and 1133's numbers, outside the batches).
+  Batch 13 (1145–1230), 25 pages, 443 lines: 1 word not as
+  printed, 1230 `Allora` (printed `Allhora`); of the 49 lines with a spaced apostrophe,
+  13 gaps tight in print (`che'l`, `Vagheggia'l`, `ma'l`, `come'l`, `Gonfia'l`, `e'l`,
+  1193 `ch'e`, 1201 `de'haver`, 1226 `dagl'odori`, …); its tight `'l` (1148 `parte'l`,
+  1229 `Quant'è'l`, 1167 `tutto'l`, 1145 `s'aperse'l`) are tight in print. Also as
+  printed: 1180 `mici`, 1157 `transcorsa`, `Perche`. Latin blocks: 1148 tercets 41–43
+  rewritten from the scan (runovers `[flammatur:`, `[patefactus.` on their own lines; the
+  first two lines of 43, `Inde remansere …`, were missing; the print's italic reads like
+  `remunsere`); 1188 `Title:` and the blank lines between tercets removed; 1191 number
+  `28`. `la_check.py 1140 1234`: clean but for 1167 (1166 has no Latin numbers, outside
+  the batches).
+  Batch 14 (1235–1265), 12 pages, 223 lines, the last Italian
+  batch: no letter wrong; 4 gaps at apostrophes not as printed (1252 `Tutt' è` written
+  tight; 1252 `negl'ochi`, `cogl'ochi`, 1261 `doppo'l` written spaced). 1252's last
+  tercet was cut by the crop and read in the full page. Latin blocks: 1235 `[rem et
+  florem,` on its own line; 1252 the blank lines between tercets removed, tercet 39 added
+  (missing; a stray `39` stood before the commentary's `Sed venias ammodo.`), `Honerare`;
+  1261 a wrong `16` on the second line of 15 removed, numbers `16`–`21` one less.
+  `la_check.py 1231 1270`: clean.
+  **0836** (Latin), 6 lines: as printed. Inserted under the
+  gloss line by hand (`la_verseinsert.py` handles only a missing Italian); the Italian
+  block's indentation stripped, `Volgendo'l` tight as printed. The commentary had the right
+  column (`solito, ostendit … cum acie.`) before the end of the left one (`ostendit quomodo
+  fuit lotus … suo more`): moved, whole lines. Left to the markup: words and two lines the
+  OCR dropped (`Statio non erat ex illa parte fluminis, in qua iste exercitus`, `nobiles
+  Romani semper feriebant cum cuspide ensis. Ista`), `taglo`, `predecto`, `decto`,
+  `Beatricis`, `supplicaverunt`.
+- **Gaps at apostrophes, batches 1–10** (2026-10-18): all 478 lines of 0237–0982 with a
+  spaced apostrophe (elision or `'l`/`'n`, not the truncations `se'`, `de'`, …, the
+  `TRUNC` list of the scratch lister) looked at in the image: 128 places not as printed,
+  fixed in `ocr/la` and in la-el-agy's files, in 87
+  pages. Most `'l`/`'n` written spaced though tight (`che'l`, `e'l`, `Disse'l`, `fra'l`,
+  `se'ntendi`), also `fa'che`, `co'ghiottoni`, `va'via`, `trov'una`, `Perch'un`; four the
+  other way (0540 `Quell' humido`, 0777 `l' homero`, 0928 `c' hai`, found by chance:
+  tight-written elisions were not listed); two letters: 0615 `lo 'inviarci`, 0789
+  `lo'intesi` (both written `'nt…`/`'nv…` without the printed `i`).
+- **Gloss lines missing** (listed again 2026-10-18 by a scratch script): of the
+  inserted pages whose verse has gloss marks, 201 have no gloss line and 22 lack some marks
+  in it (223 pages). A first
+  count (125 and 14) missed the marks `¹²³` (not in the range `⁰-⁹`) and took verse lines
+  beginning with a mark for gloss lines. The gloss lines in place are often OCR noise
+  (0237 `(¹) al. peró. — (⁶) meglo.` for seven glosses), so all 223 pages are transcribed
+  anew: a scratch script cut the band under the verse, full width; la-el-agy transcribed
+  it in 5 batches of 45 ([DELEGATION.md](DELEGATION.md)); the new lines replace the old.
+  Check (scratch scripts): the words found in no other reading of the band (Tesseract,
+  GLM-OCR, old gloss lines; accents ignored) and gloss numbers that differ from the verse
+  marks, each looked at in a crop. Insert: old gloss lines replaced where they stand, else
+  the lines after the Italian block, with a blank line before.
+  - **Batch 1** (0237–0421, 45 pages, 69 lines): 4 words fixed in the scan (0414
+    `affrectasi`, 0403 `segnita`, 0421 `doventata`, 0242 `dell'Inferno` tight); 0397
+    `do', i. dove` read with a broken `o` (as 0421). Printed: 0276 `(³)` for the verse's
+    `(²)`; 0295 `³)` without `(`. Inserted (6 pages had old gloss lines, replaced);
+    `la_check.py 0237 0421` tercet reports unchanged.
+  - **Batch 2** (0423–0602, 45 pages): 4 fixed in the scan (0457 `tigluoli`, 0458
+    `ov'entra` tight, 0502 and 0592 `³)` as printed); accents checked against Tesseract
+    (`così`, `aprì` printed). `ginsert.py` first took 0503's `In exitu Israel de Egypto`
+    (also a Latin line) for the end of the Italian block; fixed (the first match of the last
+    verse line), 0503 redone from HEAD, all 90 placements checked; the script now skips a
+    page already done and refuses an old run holding a tercet number or too long. Inserted;
+    `la_check.py 0423 0602` tercet reports unchanged.
+  - **Batch 3** (0605–0754, 45 pages): fixed in the scan 0710 `figluol` (the `ﬁ` ligature,
+    read `t`; batch 2's 0457 `tigluoli` was the same misreading of mine, now `figluoli`), 0714
+    `sì`, 0748 `dell'Inferno` tight, 0746 `(⁵)` (faint bracket). Printed: 0640 `(³)` and 0733
+    `(⁹)` repeated. `ginsert.py` took commentary paragraphs beginning `(1)` (0615) for old
+    gloss lines: an old run must now be close to the new lines (token_set_ratio ≥ 50). Old
+    gloss lines it missed (beginning `— (¹)`, or under the Latin block with no blank line)
+    were deleted by hand after a scan of the 135 pages: 0321, 0600, 0635, 0712, 0754.
+  - **Batch 4** (0755–1016, 45 pages; blocks up to 12 lines, 0899 beyond the band, read in
+    the full page): 0882 `dell'acre` as printed (misprint). **Gloss numbers are written
+    `(n)` always**: a bracket lost in print is worn type (a trace shows on most), so `³)`,
+    `(³`, bare `⁶` were made `(³)`, `(⁶)` (0295, 0502, 0592, 0733, 0831, 0832, 0837, 0841,
+    0842, 0851, 0853, 0931; in `ocr/la` too for those inserted). Accents on `i` (dot or
+    stroke) are hard to tell at this resolution; la-el-agy's reading kept where unclear.
+    Inserted; `la_check.py 0755 1016` tercet reports unchanged.
+  - **Batch 5** (1019–1264, 43 pages): no word to fix; printed and kept: 1190 `Çapricorno`,
+    1230 `Symoniaco[s] cº. 19`, 1259 `de'Beati` tight, 1260 `dell' Inferno` spaced. Old
+    line left on 1236 (beginning `— (³)`) deleted by hand. `la_check.py 1019 1265` tercet
+    reports unchanged.
+  - **Result**: all 223 pages have their gloss block once (2–12 lines); the gloss numbers
+    match the verse marks except the printed slips 0276 `(³)` for `(²)`, 0640 `(³)` twice,
+    0733 `(⁹)` twice. `glosslist.py` still lists 22 pages as "part": its count reads only
+    lines beginning with a mark, and these glosses run over a line break.
+  Found 2026-10-17: of the 218 inserted pages whose Italian has
+  gloss marks, 175 have no gloss line `(¹) …` in `ocr/la` (e.g. 0881, 0966 `(⁴) gigante.`),
+  though it is printed under the verse: GLM-OCR and the old file dropped it, and the verse
+  task leaves it out. texts/PLAN.md says the gloss line is added if missing (Remaining work).
+- **`la_check.py 0233 0915` after batch 9** (2026-10-16): tercets internal to all 25 pages of
+  batch 9 are clean (0856 reports 43 then 45 due to the printed omitted number 44).
+  The Latin blocks of 0233–0390 (unchecked OCR) needed: numbers made superscript;
+  numbers missing though printed (0295, 0307, 0317, 0385 all; 0329 one; 0369 a `"` for
+  `44`), misread (0277 `27` for `37`) or a line off (0252, 0289); a stray blank line in
+  the block (0320, 0367); a runover word at the end of the next line (0329 `[corruscet.`);
+  0321 tercets 31–32 with commentary text mixed in (rewritten from the scan); 0389 a gloss
+  line `¹ parlare.` without its blank line. 0309 keeps its `(...)` line (no gloss line
+  written).
 
 ## History of batches 1–2
 
