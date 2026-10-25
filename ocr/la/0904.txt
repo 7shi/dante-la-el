@@ -1,23 +1,24 @@
 CAPITULUM TERTIUM
 
 ¹ Quel sol (¹), che pria (²) d'amor (³) mi (⁴)
-[scaldo ’l pecto,
+[scaldò 'l pecto,
 Di bella verità (⁵) m'havea scoverto (⁶),
-Provando (⁷) e riprovando(⁸), dolce aspecto(⁹);
+Provando (⁷) e riprovando (⁸), dolce aspecto (⁹);
 ² Et io, per confexar correcto e certo
 Me stesso, tanto quanto si convenne,
 Levai el capo a profferir più erto.
 
-(¹) quel lume di Beatrice — (²) a puero — (³) suo — (⁴) a me Dante — (⁵) del turbine de la luna — (⁶) aperto — (⁷) per ragione — (⁸) al. falsa opinione mia — (⁹) risguardo et intelligentia.
+(¹) quel lume di Beatrice — (²) a puero — (³) suo — (⁴) a me Dante — (⁵) del turbine de la luua — (⁶) aperto — (⁷) per ragione —
+(⁸) al. falsa opinione mia — (⁹) risguardo et intelligentia.
 
-¹ Ille sol qui prius amore michi calefecit pectus,
+¹ Ille sol, qui prius amore michi callefecit pectus,
 De pulchra veritate michi discooperuerat,
 Probando et reprobando, dulcem aspectum;
 ² Et ego, propter confiteri correptus et certus
 Me ipsum, quantum michi fuit conveniens,
 Elevavi caput ad proferendum magis altum.
 
-Ille sol qui prius amore. Quel sole che pria d’amore:
+Ille sol qui prius amore. Quel sole che pria d'amore:
 istud est tertium capitulum huius Paradisi, in quo auctor
 tractat de spiritibus, qui sunt in celo lune et de conditio-
 nibus ipsorum. Dividitur autem istud capitulum in quatuor
@@ -26,7 +27,7 @@ rum beatificatarum in hoc corpore lune gratia honestatis
 et virginitatis.
 In secunda, que incipit ibi:
 Et ego ad umbram que michi;
-E io all’ombra che parea,
+E io all'ombra che parea,
 auctor loquitur in speciali cum una anima moderna, nota
 sibi in vita, que manifestat se sibi auctori.
 In tertia, que incipit ibi:
@@ -37,33 +38,31 @@ est, quod nascitur ex conditione istorum spirituum. Et ille
 spiritus solvit dubium.
 In quarta parte, que incipit ibi:
 Or sicut evenit quod unus cibus;
-Or siccom’elli addivene,
-illa umbra predicta prosequitur narrationem inceptam.
+Or siccom'elli addivene,
+illa umbra predicta prosequitur narrationem inceptam,
 et manifestat unam umbram, excellentissime dotatam vir-
 tute honestatis.
 Primo tamen auctor continuat dicta dicendis, inquiens
 quod Beatrix, que astrinxerat pectus eius auctoris cale-
 faciendo ipsum in amore, discooperuerat sibi veritatem de
 dubio prehabito, scilicet causa macule, que est in luna, pro-
-
 bando opinionem suam et reprobando contrariam. Et ex
-hoc Dantes erat declaratus de dubio, volebat regratiari
-de bona informatione. Iam elevaverat caput ad re-
-dendum gratia actionem; sed quia habuit subito unam
-aliam visionem, dimisit actionem gratiarum. Hystorialiter,
-verum est quod Beatrix, filia domini Fulchi de Portenariis,
-novem annorum traxit Dantem ad sui amorem, ut sepe
-dictum est; moraliter etiam, quia sacram Theologiam,
-quam figurat Beatricem, ipse auctor plurimum dilexit et
-ipsam studuit, didicit et in ea profecit, ut appareat in hoc
-opere.
+quo Dantes erat declaratus de dubio, volebat regratiari
+Beatrici de bona informatione. Iam elevaverat caput ad re-
+gratiandum; sed quia habuit subito unam aliam visionem,
+detinuit ipsum a gratiarum actione. Hystorialiter, verum
+fuit quod Beatrix, filia domini Fulchi de Portenariis, novem
+annorum, traxit Dantem ad sui amorem, ut sepe dictum
+est: moraliter etiam, quia sacram Theologiam, quam figurat
+hic per Beatricem, ipse auctor plurimum dilexit et ipsam
+studuit, didicit et in ea profecit, ut apparet in hoc opere.
 Et merito auctor hic Beatricem per solem figurat, quia
-ille sol est solus lucens, idest habens lucem per se et
+sicut sol est solus lucens, idest habens lucem per se et
 pro aliis illuminandis, sic sacra Theologia est sola lucens
-habens lucem et veritatem per se et pro aliis omnibus
+(idest habens lucem et veritatem per se et pro aliis omnibus
 scientiis, et fugat omnem heresim, ignorantiam et caligi-
 nem, et illuminat omnem mundum, idest hominem, qui est
-microcosmus, idest minor mundus), et lucens inter
+mundus microcosmus, idest minor mundus), et lucens inter
 omnes scientias seculares.
 Ille sol, qui prius amore michi calefecerat pectus, qui [est]
 Beatrix, que novem annorum traxit auctorem ad amorem,
@@ -75,5 +74,5 @@ atque famam: et ego propter confiteri ipsam Beatricem
 bene dixisse, correptus de meo errore et certus de veritate
 declarata, meipsum, quantum fuit michi conveniens, idest
 quantum potui, me ipsum volui confiteri; elevavi caput
-ad proferendum, idest ad reddendum gratiarum actiones
+ad proferendum, idest ad reddendum gratiarum actiones,
 magis altum.

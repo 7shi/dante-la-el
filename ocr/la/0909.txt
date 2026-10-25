@@ -1,3 +1,5 @@
+855
+
 CAPITULUM TERTIUM
 
 ²⁸ Sì che, come noi siam di sogla in sogla
@@ -14,7 +16,7 @@ E d'un altro riman ancor la gola,
 Che quel si chiere, e di quel si ringratia;
 ³² Così fec'io con acto e con parola,
 Per apprender da lei, qual fu la tela
-Onde non trasse infin al co' la spuola.
+Onde non trasse infin al co'la spuola.
 ³³ Perfecta vita et alto merto inciela
 Donna più su, mi disse, a la cui norma
 Nel vostro mondo giù si veste et vela;
@@ -41,10 +43,42 @@ Dominam magis supra, michi dixit, ad cuius
 [normam,
 In vestro mundo inferiori vestitur et velatur;
 
-Clarum fuit michi tunc, idest clare novi, sicut quo-
+nostra discordantia a voluntate illius, scilicet Dei, qui hic
+nos cernit, idest collocat sic (et sic isti non essent beati,
+quia non haberent quidquid vellent, nec essent conformes
+voluntati divine; quod est absurdum dicere. Augustinus
+ponit exemplum, quomodo, licet non omnes beati sint equa-
+liter beati, quia unus est beatior alio, tamen omnes con-
+tenti sunt. Exemplum de pluribus vasis, quorum unum sit
+plenum balsamo, aliud vino, aliud aqua: quodlibet est ple-
+num et contentum et plus non recipit; tamen unum est
+maioris valoris quam aliud); quod videbis non posse evenire
+in istis gyris, idest circulis celorum, si, pro quia, esse in ca-
+ritate est hic necesse, sicut de facto est, et si suam naturam,
+scilicet beatitudinis, vel esse, respicis (esse hic est genitivi
+casus); imo est formale ad istum beatum esse, tenere se
+intra divinam voluntatem, idest esse sibi conforme in vo-
+luntate, quia una efficiuntur nostre voluntates et ipse,
+scilicet Deus.
+
+Et sicut nos, scilicet spiritus hic beati, sumus de lumine
+in lumen, idest de circulo in circulum, sive de gradu in
+gradum, per istud regnum, omnibus regnum placet, sicut
+regi, scilicet Deo, qui in sua voluntate nos involvit, idest
+in suo velle.
+
+Et sua voluntas est nostra pax; ipsa est illud mare, idest
+finis (bona similitudo: quia [sicut] ad mare currunt aque,
+sic ad Deum tamquam finem totum movetur, idest omnia
+tendunt), ad quem totum movetur quod ipse creat et quod
+natura facit. Per creationem intelligitur anima, que crea-
+tur, quia de nihilo fit a Deo: quod natura facit, intelligitur
+omne ens naturale, etc.
+
+Clarum fuit michi tunc, idest clare novi, sicut, idest quo-
 modo, omne ubi, idest omnis locus, in celo, est Paradisus;
 etsi gratia, scilicet Dei, idest esto quod gratia Dei, summi
-boni de uno modo, idest equaliter, ibi non pluit. Nota quod
+boni, de uno modo, idest equaliter, ibi non pluit. Nota quod
 sicut omnes aque de mare recedunt, sive procedunt et ad
 mare tendunt, ita omnia creata et generata, a Deo tan-
 quam a causa effectiva procedunt, et ad ipsum tamquam
@@ -56,15 +90,15 @@ quarta pars huius capituli, in qua Piccarda prosequitur
 narrationem inceptam, et manifestat unam aliam um-
 bram, etc. Primo tamen dicit auctor, quod evenit sibi sicut
 accidit sedentibus ad mensam. Comesto primo ferculo re-
-luunt lissarum, idest bullitarum in aqua, adhuc est appe-
-titus ad aliud ferculum, et de primo ferculo regratiatur.
-Et de illo habent voluntatem habendi et come-
+rum lissarum, idest bullitarum in aqua, adhuc est appe-
+titus ad aliud ferculum, et de primo ferculo regratiantur
+preparanti, et de illo habent voluntatem habendi et come-
 dendi. Or sicut evenit, scilicet aliquando, quod unus cibus
 satiat, et de uno alio adhuc remanet voluntas, scilicet ap-
-petitus et desiderium, et ille queritur et de alio, scilicet
+petitus et desiderium, et ille queritur, et de alio, scilicet
 primo, regratiatur, scilicet homo; sic feci ego cum actu et
 cum verbo, propter apprehendere ab ea, scilicet Piccarda,
-que fuit tela, unde non traxit usque ad finem spola
+que fuit tela, unde non traxit usque ad finem spolam
 (spola est navicula cum qua texitur, in qua navicula stat
 filum trame), idest volebam scire ab ea que erat sententia
 quam inceperat, et non compleverat.
@@ -72,4 +106,4 @@ quam inceperat, et non compleverat.
 Modo dicit Piccarda de voto suo, quod fecerat et non
 compleverat, de Regula quam intraverat; et dicit: Perfecta
 vita, scilicet paupertatis voluntarie, obedientie et casti-
-tatis, et altum meritum, incelut, idest in celo stare facit,
+tatis, et altum meritum, incelat, idest in celo stare facit,
