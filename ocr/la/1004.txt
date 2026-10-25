@@ -1,11 +1,12 @@
 950
+
 PARADISI
 
 ²⁸ O ignota ricchezza, o ben ferace!
 Scalzasi Egidio, scalzasi Silvestro,
 Dietro allo sposo; sì la sposa piace.
 ²⁹ Indi sen va quel padre e quel maestro
-Co'la sua donna, e con quella famigla
+Co' la sua donna, e con quella famigla
 Che già legava l'humile capestro;
 ³⁰ Nè li gravò viltà di cuor le cigla,
 Per esser fi' di Pietro Bernardone,
@@ -48,9 +49,9 @@ certare, facti sunt vitiosi. Ideo dicit Iuvenalis: Nullum
 crimen abest Romanis, diligentibus divitias: quasi dicens:
 Omnia vitia, proditiones, in ipsis fuerunt. De paupertate
 exclamans auctor dicit: O ignote divitie, etc. Discalciavit
-se, scilicet propter paupertatem, Egidius secundus socius,
+se, scilicet propter paupertatem, Egidius secundus sotius,
 scilicet Sancti Francisci, discalciavit se Silvester, tertius
-socius Sancti Francisci, retro, idest post, sponsum, scilicet
+sotius Sancti Francisci, retro, idest post, sponsum, scilicet
 Sanctum Franciscum; ita sponsa, idest paupertas, placet
 vel placuit.
 
@@ -65,7 +66,7 @@ Non gravavit vilitas cordis ei supercilia, idest non fuit
 vilis corde, quamquam esset filius Petri Bernardonis (sic
 vocabatur pater Sancti Francisci), nec propter apparere
 despectus in admiratione (quia mirabiliter apparebat de-
-spectus Sanctus Franciscus); idest propter hoc non dimisit
+spectus Sanctus Franciscus); idest, propter hoc non dimisit
 quin iret ad summum pontificem sive Papam.
 
 Sed realiter, idest sicut unus rex aut filius regis, suam
@@ -79,9 +80,9 @@ ipsi Sancto Francisco privilegium, quo Ordo Sancti Fran-
 cisci habuit firmitatem. Sed postea Honorius tertius confir-
 mavit Regulam isti Beato Francisco; qui Honorius tertius
 successit Innocentio quarto. Demum Gregorius canonizavit
-Sanctum Franciscum iuxta illam antiphonam: Cœpit sub
+Sanctum Franciscum iuxta illam antiphonam: Cepit sub
 Innocentio, cursumque sub Honorio perfecit gloriosum;
-sicuti et hiis Gregorius, magnificavit amplius miraculis fa-
+succedit hiis Gregorius, magnificavit amplius miraculis fa-
 mosum.
 
 Postquam gens paupercula crevit, idest augmentari cepit,
@@ -89,8 +90,10 @@ retro, idest post, istum, scilicet Sanctum Franciscum, cuius
 mirabilis vita melius in gloria celi cantaretur (idest si
 Fratres Minores omnes, qui sunt in mundo, modo essent
 tales quales fuerunt illi, qui primo secuti sunt Sanctum
-Franciscum, melius et gloriosius cantaretur tam in celi de
-illo, scilicet Sancto Francisco, quam etiam in terris), de secunda corona
+Franciscum, melius et gloriosius cantaretur in gloria celi de
+illo, scilicet Sancto Francisco; qui[a], quanto plures Minores
+essent boni, tanto maiorem honorem haberet Sanctus Fran-
+ciscus, tam in celo quam etiam in terris), de secunda corona
 redimita fuit per Honorium (scilicet tertium, qui, cum esset
 summus pontifex, confirmavit, scilicet secundo, Regulam
 Sancti Francisci, quam ante et primo dederat Innocentius
@@ -100,8 +103,8 @@ prebuit ei benignum auditum, propter sompnium, vel visio-
 nem, quam habuit in sompniis nocte precedenti diem, qua
 Beatus Franciscus adiit presentiam eius. Nam dum dormiret
 papa Honorius, vidit in sompniis Ecclesiam Lateranensem
-ruinare et ad terram inclinari; sed quidam pauperculus et
+ruinare et ad terram inclinari: sed quidam pauperculus et
 quasi despectus homo, substentabat eam propriis humeris.
-Subito me-
+Quando Beatus Franciscus accessit coram papa, subito me-
 mor sompnii sive visionis sue, recte Beatus Franciscus ap-
 paruit sibi in effigie, quem viderat in visione, etc.; et subito
