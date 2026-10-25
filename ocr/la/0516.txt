@@ -1,12 +1,14 @@
 462
 
+PURGATORII
+
 ³¹ Restaro, e trasser sè indietro alquanto;
 E tutti gl'altri che venian appresso,
 Non sapendo 'l perchè, fenno altretanto.
-³² Senza vostra domanda io vi confesso,
+³² Senza vostra domanda io vi confesso.
 Che quest'è corp' human che voi vedete,
 Perchè 'l lume del sol in terra è fesso
-³³ Non vi maravigliate; ma credete,
+³³ Non vi maraviglate; ma credete,
 Che non senza virtù che dal ciel vegna,
 Cerchi di soperchiar questa parete.
 ³⁴ Così 'l maestro. E quella gente degna:
@@ -16,11 +18,9 @@ Co' dossi de le man facendo insegna.
 Tu se', così andando, volgi 'l viso,
 Pon mente se di là mi vedest'unque.
 
-PURGATORII
-
 ³¹ Restiterunt, et traxerunt se retro aliquantulum;
 Et omnes alii qui veniebant prope,
-Nesciéndo causam, fecerunt tantumdem.
+Nesciendo causam, fecerunt tantumdem.
 ³² Sine vestra interrogatione ego vobis confiteor,
 Quod istud est corpus humanum quod vos videtis,
 Propter quod lumen solis in terra est fixum.
@@ -45,13 +45,14 @@ solis in terra est fixum, idest divisum, scilicet propter
 umbram.
 
 Ne miremini, sed credatis, quod non sine virtute, que a
-celo veniat, querit superare vestram parietem, idest querit super circulum et locum, ubi vos estis. Non sine vir-
+celo veniat, querit superare vestram parietem, idest querit
+ire super circulum et locum, ubi vos estis. Non sine vir-
 tute: idest sine gratia divina, nullus potest de peccatis
-exire. Parietem: idest montancam, que stat sicut paries
+exire. Parietem: idest montaneam, que stat sicut paries
 circa istum circulum.
 
-Sic magister, scilicet. dixit; et illa gens digna, idest di-
-gnitate spirituali, Redeatis, dixit, intretis ante igitur, cum dorsis
+Sic magister, scilicet, dixit; et illa gens digna, idest di-
+gnitosa: Redeatis, dixit, intretis ante igitur, cum dorsis
 manuum faciendo nobis signum. Idest, quando ibitis per
 montem elevetis manus, ut videamus viam per quam itis.
 Moraliter vult dicere: Virgilius fecit viam cum calamo;
@@ -69,7 +70,6 @@ et Ecclesie occupabat iste rex Manfredus.
 Et pro intelligentia istius hystorie notandum est, quod,
 mortuo bono rege Guillelmo, ultimo rege Cicilie, de stirpe
 Ruberti Guiscardi, de sua progenie non remansit proles,
-
 nisi domina, soror Constantia, filia ipsius boni regis, mo-
 naca Ordinis Sancte Clare in monasterio civitatis Panormi,
 que fuit monaca ultra quadraginta annos, que fuit optima
@@ -79,11 +79,11 @@ quod Henricus, filius Frederici primi de Svevia Barbarusse,
 veniret ad regnum Cicilie et occuparet regnum sub obe-
 dientia Ecclesie: quod et factum est. Ultra hoc voluit papa,
 quod ista nobilis domina soror Constantia, filia quondam
-Bounguillelmi regis, extraheretur de monasterio et daretur
+Bonguillelmi regis, extraheretur de monasterio et daretur
 in uxorem isti Henrico: quod et factum est. Que cum esset
 quinquagintasex annorum, concepit et peperit unicum
 filium, scilicet Fredericum secundum, inimicum Ecclesie
-sancte Dei. qui fuit postmodum rex Cicilie, et imperator.
+sancte Dei, qui fuit postmodum rex Cicilie, et imperator,
 et filius et persecutor Ecclesie sancte Dei; qui genuit
 multos filios, inter quos unum filium habuit naturalem,
 sive spurium, nomine Manfredum, qui, ut dictum fuit su-
@@ -94,7 +94,7 @@ catus et inimicus pape et Ecclesie; et ibi fuit vulneratus
 duobus vulneribus mortalibus. Tamen, antequam morire-
 tur, penituit eum et recommendavit se Deo, et dixit cul-
 pam suam coram Deo, et sic mortuus est; et tandem fuit
-sepultus in capite pontis prope Beneventum. Et quando se
+sepultus in capite pontis prope Beneventum. Et quando se-
 peliebatur tamquam corpus excommunicatum, multi no-
 biles proiecerunt lapides super corpus, dicentes: Requiescat
 in pace. Tandem, de mandato Clementis pape, ossa sua

@@ -11,11 +11,11 @@ Là dove mio ingegno parea manco:
 ²⁷ Chè 'l mezzo cerchio del monte superno,
 Che si chiama Equator, in alcun'arte,
 E che sempre riman tra 'l sole e 'l verno,
-²⁸ Per la ragion che di',quinci si parte
+²⁸ Per la ragion che di', quinci si parte
 Verso septentrion, quando gl'Hebrei
 Vedevan lui verso la calda parte.
 ²⁹ Ma se a te piace, volentier saprei
-Quand'havemo ad andar, che'l poggio sale
+Quand'havemo ad andar, che 'l poggio sale
 Più che salir non posson gl'occhi miei.
 ³⁰ Et elli a me: Questa montagna è tale
 Che sempre al cominciar di sotto è grave,
@@ -33,7 +33,7 @@ Si intellectus tuus bene clare intuetur.
 ²⁶ Certe, magister mi, dixi ego, unquam
 Non vidi clare sicut nunc ego discerno,
 Ubi meum ingenium apparebat deficere:
-²⁷ Qui medius circulus motus superni,
+²⁷ Quia medius circulus motus superni,
 Qui vocatur Equator, in aliqua arte,
 Et qui semper remanet inter solem et yemem,
 ²⁸ Propter rationem que [dicta est a te], hinc recedit
@@ -42,26 +42,26 @@ Videbant illum versus callidam partem.
 ²⁹ Sed si tibi placet, libenter scirem
 Quantum debemus ire, quia podium ascendit
 Plusquam ascendere possint oculi mei.
-³⁰ Et ipse ad me: Ista montana est talis,
+³⁰ Et ipse ad me: Ista montanea est talis,
 Quod semper in principio inferius est gravis,
 Et quanto homo plus vadit sursum minus malum
 [facit.
 ³¹ Ideo quando ipsa apparebit tibi suavis
-Tantum, quod sursum ire sit tibi lere,
+Tantum, quod sursum ire sit tibi leve,
 Sicut ad secundam inferius ire per navim;
 ³² Tunc eris in fine istius semite:
 Ubi quiescere de labore tuo expectes.
 Plus non respondeo, et hoc scio pro certo.
 
 oppositus monti Syon) ita, quod ambo habent unum solum
-orizonta et diversa emispiria: unde est strata, idest ita
-loca, per quam male scivit currum trahere Phetont, videbis
+orizonta et diversa emispiria: unde est strata, idest intra
+que, per quam male scivit currum trahere Phetont, videbis
 quomodo isti convenit, idest quomodo istum oportet quod
-vadat ad unum, quando illi ad aliud latus, funco, idest
-foco, si intellectus tuus bene clare intuetur, idest discerno:
-oportet solem quandosque declinare versus polum antharti-
+vadat ad ymum, quando illi ad aliud latus, fianco, idest
+latus, si intellectus tuus bene clare intuitur. Quasi dicens:
+oportet solem quandoque declinare versus polum antharti-
 cum, sicut a Cancro usque ad Capricornium; quandoque ad
-polum arthicum, scilicet a Capricornio usque ad Cancerum.
+polum arthicum, scilicet a Capricorno usque ad Cancrum.
 
 Certe, magister mi, dixi ego, nunquam non vidi clare,
 sicut ego nunc discerno, ubi ingenium meum apparebat
@@ -73,30 +73,30 @@ sus septemtrionem, quando Hebrei videbant illum versus
 calidam partem, idest meridiem. Nota quod quando sol
 vadit ad dextram montis Purgatorii, vadit ad sinistram
 montis Syon, et e converso. Quando, ergo, Dantes esset in
-monte Syon ante meridiem con-
-versus ad orientem, sol percuteret cum ad partem dextram et
-causaret umbram ad partem sinistram. Modo ipse erat in monte Purgatorii, opposito monti Syon, stans
-conversus ad orientem ante meridiem. Ergo sequitur quod
-sol feriebat eum ad sinistram, causando umbram ad dextram;
-et non recogitans se esse
-
+monte Syon ante meridiem conversus ad orientem, sol per-
+cuteret eum ad partem dextram et causaret umbram ad
+partem sinistram. Modo ipse erat in monte Purgatorii, op-
+posito monti Syon, stans conversus ad orientem ante me-
+ridiem. Ergo sequitur quod sol feriebat eum ad sinistram,
+causando umbram ad dextram; et non recogitans se esse
 ibi, mirabatur quomodo feriebatur a sole ad sinistram par-
 tem. Circulus equatorialis, sive Equator, sive medius cir-
 culus, motus superni, semper remanet inter yemem et esta-
 tem, quia sunt diverse estates et diverse yemes apud di-
 versas gentes, sive apud diversa emispiria. Quando auctor
 dicit, quod Hebrei videbant illum versus calidam partem,
-ita poterat dicere de nobis, qui sumus in quinto, vel sexto climate, vel etiam in
-climate septimo; sed voluit dicere de Hebreis, quia locutus
-fuit de monte Syon, qui est in terra, quam possiderunt Hebrei. Loquitur de
-omnibus hiis, qui habitant in isto nostro emispirio superiori.
+ita poterat dicere de nobis, qui sumus in quinto, vel sexto
+climate, vel etiam in climate septimo; sed voluit dicere de
+Hebreis, quia locutus fuit de monte Syon, qui est in terra,
+quam possiderunt Hebrei. Loquitur de omnibus hiis, qui
+habitant in isto nostro emispirio superiori.
 
-[Sed si tibi placet. Ma se [ti] piace: ista est quarta
+[Sed] si tibi placet. Ma se [ti] piace: ista est quarta
 pars huius capituli, in qua punit homines naturaliter pigros.
 Primo tamen ponit auctor aliqua bene notanda, scilicet
 unam interrogationem, quam fecit Virgilio et responsio-
 nem eiusdem. Interrogatio fuit talis, scilicet: Si tibi placet,
-libenter scirem quantum debemus ire, scilicet adhuc: quia
+libenter scirem quantum debemus ire, scilicet adhuc; quia
 podium ascendit, idest mons est magis altus quam ego
 possim intueri, plusquam ascendere possunt oculi mei.
 
@@ -105,4 +105,5 @@ principio, scilicet ascensus, inferius est gravis, idest diffi-
 cilis; et quanto homo plus vadit sursum, minus facit ma-
 lum: et ideo quando ipsa, scilicet ascensus suus, apparebit
 tibi suavis, tantum quod sursum ire leve sit tibi, sicut ad
+
 60

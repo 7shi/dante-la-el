@@ -3,7 +3,7 @@ CAPITULUM DECIMUM
 ¹ Poi fummo dentro al soglo de la porta
 Che 'l mal amor dell'anima disusa,
 Perchè fa parer dritta la via torta,
-² Sonando la senti'esser richiusa (¹):
+² Sonando la senti' esser richiusa (¹):
 E s'io havessi gl'ochi volti ad essa (²),
 Qual fora stata al fallo degna scusa?
 
@@ -12,27 +12,31 @@ Qual fora stata al fallo degna scusa?
 ¹ Postquam fuimus intra summum porte,
 Que malum amorem ab animabus retrahit,
 Quia facit apparere rectam viam tortuosam,
-2 Sonando illam sensi esse reclusam:
+² Sonando illam sensi esse reclusam:
 Et si ego volvissem oculos meos ad illam,
 Qualis fuisset ad crimen digna excusatio?
 
 Postquam fuimus intra. Poi fummo dentro: istud est
 decimum capitulum huius Purgatorii, in quo tractat de
 primo circulo ipsius veri Purgatorii, in quo punitur primum
-mortale, idest generale, peccatum, scilicet superbia. Proutdictum fuit superius
-in principio libri, in uno preambulo-
+mortale, idest generale, peccatum, scilicet superbia. Prout
+dictum fuit superius in principio libri, in uno preambulo-
 rum, in Purgatorio sunt septem circuli, in quibus purgantur
 septem peccata capitalia. In primo et in inferiori purgatur
-superbia,et in capitulo isto ponitur pena qua purgantur superbi, vel hii qui fuerunt superbi in presenti vita. Divi-
-ditur autem istud capitulum in quatuor partes; in quarumprima, continuando dicta dicendis, ponit quomodo reclausa
+superbia, et in capitulo isto ponitur pena qua purgantur
+superbi, vel hii qui fuerunt superbi in presenti vita. Divi-
+ditur autem istud capitulum in quatuor partes; in quarum
+prima, continuando dicta dicendis, ponit quomodo reclausa
 fuit porta, postquam ipse intravit Purgatorium.
 In secunda parte, que incipit ibi:
+
 Nos ascendebamus;
 Noi salivàm,
 
 declarat de via per quam iverunt, ex quo fuerunt intra
 Purgatorium.
 In tertia, que incipit ibi:
+
 Illuc sursum non erant;
 Là su non era[n],
 
@@ -40,8 +44,10 @@ ponit plurima exempla, per que possunt addiscere superbi
 refrenare suam superbiam.
 In quarta ponit auctor penam generalem, qua puniuntur
 superbi, que incipit ibi:
+
 Dum me delectabar;
 Mentre io me delectava.
+
 
 Quantum ad primam partem, notandum quod, ut in se-
 quentibus apparebit, ab amore procedit omne peccatum
@@ -56,6 +62,7 @@ licitatem esse in rebus aliquibus, in quibus non est; et sic
 homo decipitur sepe. Talis amor punitur in Purgatorio
 intra portam, per quam intraverat iam auctor cum ma-
 gistro suo.
+
 Postquam fuimus intra summum porte, vel, sic, sogliam
 idest limen, que scilicet porta malum amorem, idest de-
 ceptivum, ab animabus, scilicet existentibus in Purgatorio,

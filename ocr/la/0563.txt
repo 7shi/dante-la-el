@@ -1,3 +1,5 @@
+509
+
 CAPITULUM SEPTIMUM
 
 ⁴³ Tant'è del seme suo minor la pianta,
@@ -5,7 +7,7 @@ Quanto, più che Beatrice e Margharita,
 Costanza di marito ancor si vanta.
 ⁴⁴ Vedete el re della semplice vita
 Seder là solo, Arrigho d'Inghilterra:
-Questi ha ne'regni suoi miglior uscita.
+Questi ha ne'regni suoi miglor uscita.
 ⁴⁵ Quel che più basso tra costor s'atterra,
 Guardando in suso, è Guglelmo marchese,
 Per cui Alexandria e la sua guerra
@@ -23,11 +25,11 @@ Propter quem Alexandria et sua guerra
 Facit plorare Montemferratum Canavesse.
 
 don Petrum, regem Arragonie, dictum patrem don Iacobi
-et don Frederici, qui cum eo cantant, idest concorditer, ut supra dictum est,
-unde Apulia et Provintia iam in se
+et don Frederici, qui cum eo cantant, idest concorditer, ut
+supra dictum est, unde Apulia et Provintia iam in se
 dolent; idest, filii et descendentes a Karolo primo ita de-
 generant in virtutibus a patre, sicut filii don Petri; pro-
-pter quam degenerationem Apulia. que est una bona pars
+pter quam degenerationem Apulia, que est una bona pars
 Cicilie, et Provintia, que successit Karolo propter uxorem
 suam, matrem Karoli secundi, que fuit filia comitis Pro-
 vintie, iam plorant, sive dolent, propter degenerationem
@@ -43,15 +45,15 @@ dominus Petrus fuit longe melior homo quam fuerunt filii,
 et filii sui fuerunt longe minus boni patre suo. Et idem
 accidebat Karolo primo et suis filiis. Demum nota quod
 Constantia, uxor regis don Petri, et mater dictorum filio-
-rum, fuit filia. ut dictum est, regis Manfredi, et vocabatur
+rum, fuit filia, ut dictum est, regis Manfredi, et vocabatur
 Constantia.
 Nota demum quod auctor loquitur hic aliquantulum per
-antifrasim, cum dicit tanto de semine suo planeta melior,
+antifrasim, cum dicit tanto de semine suo plancta melior,
 idest minus bona, quanto plusquam Beatrix et Margarita,
 Constantia de marito adhuc se vantat, idest gloriatur.
 Idest, tanto fuit melior Karolus primus quam suus filius
 et sui successores, quanto plus gloriatur, idest potest bene
-licite gloriari, Costantia de suo bono marito. rege don Petro,
+licite gloriari, Costantia de suo bono marito, rege don Petro,
 quam Beatrix et Margarita de suis maritis, qui erant filii
 regis don Petri, quia pater fuit longe melior filiis.
 
@@ -79,7 +81,7 @@ marchioni, cum sint peximi viri, ceperunt ipsum mar-
 chionem et posuerunt in carceribus, ubi mortuus est sine
 prole: quem mortuum unus Alexandrinus percussit, quia
 non poterat satiari de vindicta. Hic dicitur stare ad terram
-bassus, sive intimus, quia alii, de quibus dictum est, fuerunt
+bassus, sive infimus, quia alii, de quibus dictum est, fuerunt
 reges. Iste fuit marchio, propter cuius mortem secuta est
 magna guerra Astensibus, et maxime in una planitie ipsis
 subiecta, que vocatur Canavesse, et sic Alexandria habuit
