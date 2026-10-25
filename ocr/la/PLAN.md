@@ -874,6 +874,28 @@ In this order (decided with the user, 2026-10-15):
      pages). Step 9: 18 gloss marks tight to their word given a space (0744 0755 0757 0758
      0781 0804 0817), 0779's numbers put back; then no hits but the printed tercet numbers
      of 0758 and 0810 (Suspected misprints).
+   - **Batch 8** (0847–0960, the end of the Purgatorio and cantos I–VII of the Paradiso;
+     2026-10-25) by the low-cost way; 0870, 0872, 0888, 0960 blank, 0871 the PARADISUS
+     title. 3168 marks (`light` 1315). The broken pages were retyped at once, superscript
+     kept, by way B (item 10): 0849 0853 0854 0855 0858 0860 0861 0864 0866 0869 0879–0887
+     by la-el-agy2 (retype 41), 0891–0900 0904 0905 by la-el-agy (retype 42), 0909 0915
+     0916 0918 0920 0926–0929 by la-el-agy2 (retype 43), 0937 0938 0939 0942 0943 0945 0946
+     0951 0952 0953 0956 0957 0959 by la-el-agy3 (retype 44). Every page had its lines there
+     and in order; the places put right are listed under item 10. Light-kept audit (step
+     7): 62 kept rows still in `out/`, 16 on pages not retyped, cropped: the printed
+     misprint `tulli` (0850, the italic lemma; `ocr/la` had `tutti`) and a gloss bracket
+     broken in print (0851 `(³)`); on the six essay pages not retyped, two accents not
+     printed (0912 `cio`, 0934 `unita`), the rest of the word differences with GLM-OCR as
+     printed (0948 `sí` with an acute). Also 0875 and 0876 with plain-digit tercet numbers
+     and gloss marks (made superscript) and 0876 a line run into the next. Written to
+     `ocr/la` (103 pages changed; 322 `fixes.tsv` rows, 54 of them whole retyped pages).
+     Step 9: page heads with the number at the right written head first (0857 0867 0955,
+     0911 with a blank line between, 0865 without its number `811`) made number, blank
+     line, head, and 0874 given its blank line after the number; then `la_check.py` with no
+     tercet hits but 0861's printed bracket `[Mi disse … seco]` (read as a runover), and
+     `la_seqcheck.py` and `la_lostcheck.py` with none. The same head-first form is left on
+     earlier pages (0353 0355 0363 0365 0369 0411 0417 0421 0427 0433 0437 0439 0461 0469
+     0471 0473 0591) and in batch 9 (0963 0965 0981 0991 0995).
    - **Delegation trials for whole-page retyping** (2026-10-23), against way B's la-el-agy
      (about 1.2 errors a page in retypes 19–21), each checked word by word against both
      OCRs and in the image:
@@ -1007,13 +1029,61 @@ In this order (decided with the user, 2026-10-15):
       batch.
     - Batch 8's broken pages, retyped early in the same way while the batch goes on: 0849
       0853 0854 0855 0858 0860 0861 0864 0866 0869 0879–0887 by la-el-agy2 (retype 41),
-      added to `tmp/la-mark7` by way B (not written yet: with the batch): 194 places, about
+      added to `tmp/la-mark7` by way B (written with batch 8): 194 places, about
       110 crops, 29 fixes (`;` for a printed `:` 3, apostrophe gaps 12, `quì`, `resultante`,
       `appetiit`, `Eufraten`, `pescatore`, `Seraphin` for printed `qui`, `risultante`,
       `appetivit`, `Eufratem`, `peschatore`, `Seraphim`). It read the printed misprints
       `çondocti` (0853) and `iunocente` (0887) right, and the invented sentences of
-      `ocr/la` on 0855 and 0879 as printed. `la_lostcheck.py`: none in both OCRs. Queued
-      for retype 42: 0891–0900 0904 0905.
+      `ocr/la` on 0855 and 0879 as printed. `la_lostcheck.py`: none in both OCRs. 0891–0900
+      0904 0905 sent to la-el-agy (retype 42, 2026-10-25). Added to `tmp/la-mark7` by way B
+      (written with batch 8): about 170 places against the two OCRs, about 70
+      crops, 45 fixes: apostrophe gaps opened where the print has none (15: `de'mortali`,
+      `a'rivi`, `fa'che`, `ch'e'tre`, `ne'cieli`, `e'l` …), letters changed (`drieto` for
+      printed `dirieto` twice, `rifonde`, `sarebbono`, `nebule` for `nubecule`, `[ttat:` for
+      `[ctat:`), an apostrophe added (`ch'e'` for `ch'e`), a colon for a printed semicolon,
+      a comma added, gloss dashes written `--` (6), gloss marks tight to their words (4) and a
+      `(¹⁴),` for the broken `(¹⁴,`, a backtick at a line end, tercet numbers broken in
+      print (0895 `²⁴`, 0905 `⁵`) written as the digit seen, and blank lines where no rule
+      is printed (11, on 0891 0898 0904 0905). It read the printed misprints `omuium`,
+      `similitudiue`, `luua`, `callefecit` and the repeated `(²²)` right, the gloss line of
+      0892 that `ocr/la` had renumbered, and the lines `ocr/la` had lost or garbled (0895's
+      Latin verse, 0897's, 0905's right column) in order. `la_lostcheck.py`: none in both
+      OCRs. Sent to la-el-agy2 (retype 43,
+      2026-10-25): 0909 (the left commentary column lost, the page number missing), 0915
+      (verse indented, lines lost), 0916 (the running head inside the text, `ae` spellings,
+      plain tercet numbers), 0918 (sentences rewritten: `Luna pallos`, `Iuno castos`; line
+      ends moved), 0920 (a paragraph written twice), 0926 (two paragraphs lost), 0927 0929
+      (commentary run together and garbled), 0928 (every rule lost, three half lines lost).
+      Added to `tmp/la-mark7` by way B (written with batch 8): 60 places against
+      the two OCRs, about 45 crops, 7 fixes (apostrophe gaps 4: `e 'l`, `Se 'l`, `contr'al`,
+      `c' hai`; `textus:` for a printed `textus.`; `faceret` for the printed misprint
+      `faccret`; a blank line where no rule is printed). It read the printed `dammas`,
+      `sompniorum`, `exsitente`, `satisfatione` and `quómodo` right, and the commentary
+      that `ocr/la` had lost or garbled (0909's left column, 0927's right column) in order.
+      `la_lostcheck.py`: none in both OCRs. Sent to la-el-agy3 (retype 44, 2026-10-25): 0937 (line ends lost, words changed: `vigintiduas`,
+      `defendebant`; `Final Paragraph (Prose):` in the text), 0938 (the running head lost,
+      line ends lost, `Albæ, Iulius Silvius`, `filius Ascanio`), 0939 (line ends lost, lines
+      garbled), 0942 (the running head inside the text, a line lost, `fuit fuit`), 0943
+      (commentary run together and garbled: `con- suleas`, `stuolum`), 0945 (paragraphs out
+      of order, a line lost, `portavereunt`, `vadeunt`), 0946 (words lost inside lines,
+      `Meridius`, `adhortar`), 0951 (lines broken at other places than in print, words
+      changed: `de uno, scilicet cum uno visu`), 0952 (words changed: `mandatum` for
+      printed `preceptum`, `Galatus`), 0953 (lines garbled, `differeniter` for printed
+      `diversis respectibus`), 0956 (two paragraphs lost at the top of the right column),
+      0957 (lines left out as `[...]`), 0959 (an essay page, sentences rewritten). Added to
+      `tmp/la-mark7` by way B (written with batch 8): about 90 places against the
+      two OCRs, about 60 crops, 11 fixes and the indentation: the second and third verse
+      lines indented (137 lines on 0946 0951 0952 0953 0956 0957) and a gloss line started
+      with a space, apostrophe gaps (`e 'l`, `chi 'l`, `se 'l` where the OCRs agree on none;
+      `tutt'el` for the printed `tutt' el`), letters (`effuderunt` for `effunderunt`,
+      `pubblico` for `pubblicum`, `farìa` with an accent not printed), a word lost (`patuit`),
+      a comma for a printed period before a capital (`cooperante.`), the printed misprint
+      `fuitvel` spaced, and a blank line at a column change with no rule (0946). It read
+      `Scippio`, `sotiis`, `transcucurrerunt`, `amasia .` and the nine dots of 0959's
+      quotation right, and the text `ocr/la` had lost or garbled (0939's `sibi omnes quot
+      potuit`, 0956's and 0957's right columns, 0959's `dopo il peccato` line) in order.
+      `la_lostcheck.py`: none in both OCRs. The rest of
+      the batch's pages are decided and fixed (0954 0955 0958; 0960 is blank).
 
 Also seen: 0848, 0891 and 0999 have backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``), a transcription artifact to remove in their batches.
