@@ -857,6 +857,23 @@ In this order (decided with the user, 2026-10-15):
      still had blank lines between the tercets and its runovers in the line, retyped from
      the scan and written again; then no hits but `plain` (0647, 0648 `13`, 0670 `3`) and
      the rule counts of `la_check.py`, which miss worn rules.
+   - **Batch 7** (0729–0846, cantos XXII–XXXI of the Purgatorio; 2026-10-25) by the low-cost
+     way; 0740, 0786, 0798, 0824, 0846 blank. Besides the marks, as in batch 6, and the
+     light-kept audit (step 7). The broken pages were retyped at once, superscript kept:
+     0731 0733 0735 0736 0737 0743 0759 0766 0771 0779 by la-el-agy (retype 35); 0780 0781
+     0785 0788 by la-el-agy2 (retype 37); 0810 0812 0816 0819 0821 0827 0833 0834 0837 0838
+     0841 0843 by la-el-agy (retype 38); 0739 by la-el-agy (retype 39). Every page had its
+     lines there and in order; in retype 38, 20 places were put right (letters changed:
+     `avegna`, `corelarium`, `Penitentic`; `[deberet]` closed; a colon for a semicolon and
+     back; accents added and dropped; apostrophe gaps opened, gloss marks tight to the
+     word). The commas agy wrote for dots before a lowercase word are right (convention,
+     step 7): la-el-claude first put 21 of them back to dots from the image, then made
+     them commas again. Retype 35 had dropped all 14 tercet numbers of 0779, missed by the
+     retype check; `la_check.py` found it at step 9 (`0780 starts at 23`).
+     Written to `ocr/la` (110 pages changed; 580 `fixes.tsv` rows, 27 of them whole retyped
+     pages). Step 9: 18 gloss marks tight to their word given a space (0744 0755 0757 0758
+     0781 0804 0817), 0779's numbers put back; then no hits but the printed tercet numbers
+     of 0758 and 0810 (Suspected misprints).
    - **Delegation trials for whole-page retyping** (2026-10-23), against way B's la-el-agy
      (about 1.2 errors a page in retypes 19–21), each checked word by word against both
      OCRs and in the image:
@@ -949,6 +966,8 @@ In this order (decided with the user, 2026-10-15):
       and 11 with the batch.
     - Batch 6's broken pages, retyped early in the same way (retypes 30–34, see item 8,
       Batch 6): 46 pages from 0611 to 0727. Done, but for steps 8 and 11 with the batch.
+    - Batch 7's broken pages, retyped early in the same way (retypes 35, 37–39, see item 8,
+      Batch 7): 27 pages from 0731 to 0843. Done, but for steps 8 and 11 with the batch.
     - Batch 5, queued 2026-10-25 (found by the light-kept audit, after the batch was
       written): commentary lines run together, up to a whole paragraph on one line (0510,
       0528, 0529, 0544, 0581), with the line ends around them shifted, so a line cannot just
@@ -1270,6 +1289,10 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0976 | 14 | `Cimisa fui chiamata` | `Cunisa` | Italian verse; an `i` dot right after `C` and five stems before `s` (Tesseract `Cimisa`, GLM-OCR `Cinisa`); the commentary has `Cunizza`. |
 | 1042 | 11 | `Agl' ochi mici,` | `miei` | Italian verse; a clear `c` (GLM-OCR `mici` too). |
 | 1053 | 23 | `s'àdempia` | `s'adempia` | Italian verse; a grave accent over the `a` (Tesseract `s'àdempia`). |
+| 0758 | 17 | `³⁷ Poi si partì` | `³⁸` | Italian verse; the tercet before is `³⁷` too, the Latin column has `³⁸`. |
+| 0810 | 51 | `⁴⁵ Dabo tibi` | `⁴⁶` | Latin verse; the tercet before is `⁴⁵` too, the Italian column has `⁴⁶`. |
+| 0810 | 105 | `etatem anri` | `auri` | A turned `u` (the verse has `Etatem auri`). |
+| 0827 | 74 | `Oblibanum` | `Olibanum` | The image shows `Obl`; both OCRs read it so. |
 
 ## The method: two-OCR markup, then image decisions
 
