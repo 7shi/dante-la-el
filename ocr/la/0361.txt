@@ -23,7 +23,8 @@ appensate, sicut accidebat de istis quinque, quorum
 numerus ponitur in textu: scilicet Cianfa, Angelus,
 dominus Bosius de Donatis, et sui sotii. Omnes fue-
 runt cives Florentini. Et in isto capitulo auctor
-facit unam pulchram transformacionem, scilicet,quomodo ex uno serpente parvulo, qui momordit
+facit unam pulchram transformacionem, scilicet,
+quomodo ex uno serpente parvulo, qui momordit
 Angelum de Brunelischis, nobili domo de civitate
 Florentie, et ex ipso Angelo, factum est unum
 animal terribile, quod erat illa duo, scilicet serpens
@@ -32,4 +33,4 @@ lorum erat. Sic Virgilius et Ovidius fingunt de
 Minotauro, de quo dicunt, quod erat homo, erat
 bos, non homo, non bos: erat uterque, neuterque.
 Sic hic factum est de isto Angelo et serpente, ipsum
-mordente.
+mordente. 

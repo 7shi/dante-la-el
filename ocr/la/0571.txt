@@ -59,7 +59,9 @@ ubi stelle sunt tardiores, scilicet apud polum arthicum,
 sicut rota propinquior axi, ostelo, idest hostio vel habi-
 taculo suo. Nota quod in rota, que volvitur in sua axi,
 quanto in ea est aliqua pars propinquior centro, tanto
-tardius movetur et minorem circulum describit. et quanto remotior a centro et propinquior circumferentie, tanto velocius movetur et maiorem circulum describit. Modo stelle
+tardius movetur et describit minorem circulum; et quanto
+remotior a centro et propinquior circumferentie, tanto ve-
+locius movetur et maiorem circulum describit. Modo stelle
 propinquiores polo, tardius moventur quam remotiores.
 
 Et dux meus, scilicet dixit: Fili, quid illuc orsum respicis,

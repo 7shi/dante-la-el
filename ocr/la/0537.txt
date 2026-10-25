@@ -44,7 +44,7 @@ De mundo in mundum, queri a me se facit.
 De beneficio tuo sine iuramento,
 Dummodo velle non posse non recidat.
 
-(¹) impotentia — (²) impedisea.
+(¹) impotentia — (²) impedisca.
 
 Iam oportet mutare thema et de alia materia tractare.
 O anima que vadis ut sis leta, idest ad celum, ut efficiaris
@@ -86,7 +86,9 @@ vitaret ipse auctor peccata.
 
 Et unus incepit. E uno comenciò: hec est tertia pars
 huius capituli. Hic loquitur dominus, dominus Iacobus Cas-
-saro, de Fano, qui fuit homo solempnis, nobilis et doctor et miles, et fuit officialis, potestas, capitaneus in multis civitatibus: hic fuit interfectus, sicut dicetur. Nota quod,
+saro, de Fano, qui fuit homo solempnis, nobilis et doctor
+et miles, et fuit officialis, potestas, capitaneus in multis
+civitatibus: hic fuit interfectus, sicut dicetur. Nota quod,
 in millesimo tercentesimo, Azzo tertius, marchio Estensis,
 qui fuit potens et dives dominus Ferrarie, movit guerram
 contra civitatem Parme; et erat tunc dominus Regii, civi-
