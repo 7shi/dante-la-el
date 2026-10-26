@@ -4,13 +4,13 @@
 
 These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/la/) by [`convert_la.py`](../convert_la.py); see [`ocr/la/INDEX.md`](../../ocr/la/INDEX.md) for the volume and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/la/` and run `uv run texts/convert_la.py`.
 
-**Only Inferno I–XXIII are converted so far** (scans `0079`–`0348`). Their transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits); the rest of `ocr/la/` is not yet completed, and the front matter, the other cantos and the appendix will follow.
+**Only the Inferno is converted so far** (scans `0079`–`0476`). Their transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits); the rest of `ocr/la/` is not yet completed, and the front matter, the Purgatorio, the Paradiso and the appendix will follow.
 
 ## Reading the files
 
 - **Pages**: every printed page starts with a comment such as `<!-- p. 26 (0080) -->`: the printed page number (`[25]` if not printed) and the scan, `ocr/la/0080.png`.
 - **Headings**: as printed: `# Capituli Primi Summarium`, `# Capitulum Primum`, and the essay's title (`# La divina commedia`).
-- **Verse**: the Italian and the Latin columns interleaved per tercet, each starting with its number (`¹`), the second and third lines indented. The numbers are counted, not copied: the print omits two on p. 45 (Italian tercets 32 and 33 of canto II). A line too long for its column, printed at the right of the next line (`[togle.`), is joined to its line; the gloss line under the verse (`(¹) costui. — (²) sarà.`) follows the verse of its page. The Italian text is this edition's, which often differs from modern editions.
+- **Verse**: the Italian and the Latin columns interleaved per tercet, each starting with its number (`¹`), the second and third lines indented. The numbers are counted, not copied: the print omits two on p. 45 (Italian tercets 32 and 33 of canto II) and misnumbers one on p. [296] (Italian tercet 2 of canto XXIV printed as 3). A line too long for its column, printed at the right of the next line (`[togle.`), is joined to its line; the gloss line under the verse (`(¹) costui. — (²) sarà.`) follows the verse of its page. The Italian text is this edition's, which often differs from modern editions.
 - **Commentary**: the left column, then the right one, one printed paragraph per line. Paragraph ends are not marked in the transcription; a line that ends a sentence well short of the column width is taken as one, so a paragraph whose last line happens to be full runs on into the next. The short rules between the glosses are not reproduced. A paragraph that runs over a page is left split at the page marker; a word hyphenated across the page break is joined on the earlier page.
 - **Essays**: one paragraph per line, verse quotations line by line.
 - **Not transcribed**: italics (the commentary's lemmas are printed in italics), the ornaments, and the physical copy's blank pages.
@@ -44,3 +44,14 @@ These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/
 | [028-inferno-canto-21.md](028-inferno-canto-21.md) | XXI | [261]–271 | Così di ponte in ponte, altro parlando | *Se sia possibile la diminuzione progressiva delle pene eterne* |
 | [029-inferno-canto-22.md](029-inferno-canto-22.md) | XXII | [273]–[282] | Io vidi già cavalier muover campo, | *Natura degli spiriti infernali* |
 | [030-inferno-canto-23.md](030-inferno-canto-23.md) | XXIII | [283]–[293] | Taciti, soli, e senza compagnia, | *L'ipocrisia* |
+| [031-inferno-canto-24.md](031-inferno-canto-24.md) | XXIV | [295]–[305] | In quella parte del giovinetto anno, | *La vera gloria dell'uomo* |
+| [032-inferno-canto-25.md](032-inferno-canto-25.md) | XXV | [307]–[316] | Al fin delle parole sue el ladro | *Una considerazione sopra le prime due terzine di questo canto* |
+| [033-inferno-canto-26.md](033-inferno-canto-26.md) | XXVI | [317]–[328] | Ghode, Firenze, poi che se'sì grande, | *L'America* |
+| [034-inferno-canto-27.md](034-inferno-canto-27.md) | XXVII | [329]–[340] | Già era dricta in su la fiamma e queta, | *L'accentramento dello spirito in sè stesso nell'Inferno e Frate Guido da Montefeltro* |
+| [035-inferno-canto-28.md](035-inferno-canto-28.md) | XXVIII | [341]–[353] | Chi porria mai pur con parole sciolte | *L'unità del cattolicismo e la punizione delle scissure che lacerarono la Chiesa* |
+| [036-inferno-canto-29.md](036-inferno-canto-29.md) | XXIX | [355]–[364] | La molta gente e le diverse piaghe | *L'alchimia* |
+| [037-inferno-canto-30.md](037-inferno-canto-30.md) | XXX | [365]–[375] | Nel tempo che Iunone era crucciata | *I sogni* |
+| [038-inferno-canto-31.md](038-inferno-canto-31.md) | XXXI | [377]–[386] | Una medesma lingua pria mi morse, | *I giganti e la confusione delle lingue* |
+| [039-inferno-canto-32.md](039-inferno-canto-32.md) | XXXII | [387]–[397] | S'io avessi le rime aspre e chiocce, | *Il ghiaccio in fondo all'inferno* |
+| [040-inferno-canto-33.md](040-inferno-canto-33.md) | XXXIII | [399]–410 | La bocca sollevò dal fiero pasto | *I traditori* |
+| [041-inferno-canto-34.md](041-inferno-canto-34.md) | XXXIV | [411]–422 | Vexilla Regis prodeunt Inferni | *Satana* |

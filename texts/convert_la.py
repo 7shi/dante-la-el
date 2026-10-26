@@ -1,6 +1,6 @@
 """Convert ocr/la/NNNN.txt (Serravalle's translation and commentary, 1891) into texts/la/NNN-title.md.
 
-Only Inferno I–XXIII (scans 0079–0348) are converted so far: the rest of ocr/la is not yet
+Only the Inferno (scans 0079–0476) is converted so far: the rest of ocr/la is not yet
 completed (see ocr/la/PLAN.md). See PLAN.md for the layout. Run from the repository root:
 
     uv run texts/convert_la.py
@@ -23,7 +23,9 @@ CANTOS = [(79, 92, 92), (93, 102, 102), (103, 114, 114), (115, 127, 128), (129, 
           (141, 150, 150), (151, 161, 162), (163, 171, 172), (173, 183, 184), (185, 196, 196),
           (197, 206, 206), (207, 220, 220), (221, 232, 232), (233, 243, 244), (245, 255, 256),
           (257, 267, 268), (269, 279, 280), (281, 291, 292), (293, 303, 304), (305, 314, 314),
-          (315, 324, 326), (327, 336, 336), (337, 347, 348)]
+          (315, 324, 326), (327, 336, 336), (337, 347, 348), (349, 359, 360), (361, 370, 370),
+          (371, 382, 382), (383, 394, 394), (395, 407, 408), (409, 418, 418), (419, 429, 430),
+          (431, 440, 440), (441, 451, 452), (453, 463, 464), (465, 475, 476)]
 FIRST_FILE = 8  # 008-inferno-canto-01.md (001–007 are the front matter, not converted yet)
 OFFSET = 54  # printed page = scan - 54
 
@@ -31,11 +33,17 @@ ORDINALS = ["PRIMUM", "SECUNDUM", "TERTIUM", "QUARTUM", "QUINTUM", "SEXTUM", "SE
             "OCTAVUM", "NONUM", "DECIMUM", "UNDECIMUM", "DUODECIMUM", "TERTIUMDECIMUM",
             "QUARTUMDECIMUM", "QUINTUMDECIMUM", "SEXTUMDECIMUM", "DECIMUMSEPTIMUM",
             "DECIMUMOCTAVUM", "DECIMUMNONUM", "VICESIMUM", "VICESIMUMPRIMUM",
-            "VICESIMUMSECUNDUM", "VICESIMUMTERTIUM"]
+            "VICESIMUMSECUNDUM", "VICESIMUMTERTIUM", "VICESIMUMQUARTUM", "VICESIMUMQUINTUM",
+            "VICESIMUMSEXTUM", "VICESIMUMSEPTIMUM", "VICESIMUMOCTAVUM", "VICESIMUMNONUM",
+            "TRICESIMUM", "TRICESIMUMPRIMUM", "TRICESIMUMSECUNDUM", "TRICESIMUMTERTIUM",
+            "TRICESIMUMQUARTUM"]
 GENITIVES = ["PRIMI", "SECUNDI", "TERTII", "QUARTI", "QUINTI", "SEXTI", "SEPTIMI", "OCTAVI",
              "NONI", "DECIMI", "UNDECIMI", "DUODECIMI", "TERTIIDECIMI", "QUARTIDECIMI",
              "QUINTIDECIMI", "SEXTIDECIMI", "DECIMISEPTIMI", "DECIMIOCTAVI", "DECIMINONI",
-             "VICESIMI", "VICESIMIPRIMI", "VICESIMISECUNDI", "VICESIMITERTII"]
+             "VICESIMI", "VICESIMIPRIMI", "VICESIMISECUNDI", "VICESIMITERTII", "VICESIMIQUARTI",
+             "VICESIMIQUINTI", "VICESIMISEXTI", "VICESIMISEPTIMI", "VICESIMIOCTAVI",
+             "VICESIMINONI", "TRICESIMI", "TRICESIMIPRIMI", "TRICESIMISECUNDI", "TRICESIMITERTII",
+             "TRICESIMIQUARTI"]
 
 # The essays' titles as printed, in the case of INDEX.md (where it reads `angeli`, the print
 # has `ANGIOLI`).
@@ -65,12 +73,34 @@ ESSAYS = {
         "Se sia possibile la diminuzione progressiva delle pene eterne",
     "NATURA DEGLI SPIRITI INFERNALI": "Natura degli spiriti infernali",
     "L' IPOCRISIA": "L'ipocrisia",
+    "LA VERA GLORIA DELL'UOMO": "La vera gloria dell'uomo",
+    "UNA CONSIDERAZIONE SOPRA LE PRIME DUE TERZINE DI QUESTO CANTO":
+        "Una considerazione sopra le prime due terzine di questo canto",
+    "L'AMERICA": "L'America",
+    "L'ACCENTRAMENTO DELLO SPIRITO IN SÈ STESSO NELL'INFERNO E FRATE GUIDO DA MONTEFELTRO":
+        "L'accentramento dello spirito in sè stesso nell'Inferno e Frate Guido da Montefeltro",
+    "L'UNITÀ DEL CATTOLICISMO E LA PUNIZIONE DELLE SCISSURE CHE LACERARONO LA CHIESA":
+        "L'unità del cattolicismo e la punizione delle scissure che lacerarono la Chiesa",
+    "L'ALCHIMIA": "L'alchimia",
+    "I SOGNI": "I sogni",
+    "I GIGANTI E LA CONFUSIONE DELLE LINGUE": "I giganti e la confusione delle lingue",
+    "IL GHIACCIO IN FONDO ALL'INFERNO": "Il ghiaccio in fondo all'inferno",
+    "I TRADITORI": "I traditori",
+    "SATANA": "Satana",
 }
+
+# Tercet numbers misprinted (ocr/la/PLAN.md, Suspected misprints): (scan, column, tercet) -> printed.
+MISNUMBERED = {(350, "it", 2): 3}
 
 SUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
 TO_SUP = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
 NUMBER = re.compile(r"([⁰¹²³⁴⁵⁶⁷⁸⁹]+|\d+) ")  # a tercet number at the start of a verse line
-GLOSS = re.compile(r"\((?:[¹²³⁴⁵⁶⁷⁸⁹]|\d)\)")  # `(¹) costui. — (²) sarà.`
+GLOSS = re.compile(r"\((?:[¹²³⁴⁵⁶⁷⁸⁹]+|\d{1,2})\)")  # `(1) costui. — (2) sarà.`
+
+
+def sup_marks(line):
+    """Gloss marks in superscript, as in texts/la before ocr/la took plain digits: `(¹)`."""
+    return re.sub(r"\((\d{1,2})\)", lambda m: f"({m.group(1).translate(TO_SUP)})", line)
 
 
 def text_of(n):
@@ -200,7 +230,7 @@ def tercets(lines, n, where):
     `[` is the end of the line above, set on a line of its own (`[togle.`)."""
     out = []
     for l in lines:
-        if l.startswith("[") and len(l.split()) <= 2 and not l.endswith("]") and out:
+        if l.startswith("[") and sum(bool(re.search(WORD, w)) for w in GLOSS.sub("", l).split()) <= 2 and not l.endswith("]") and out:
             out[-1][1][-1] = join_lines([out[-1][1][-1], l[1:]], f"{n:04d}")
             RUNOVER.append(f"{n:04d} {where}: {out[-1][1][-1][-40:]}")
             continue
@@ -298,16 +328,17 @@ def convert_canto(c, errors):
                         errors.append(f"{n:04d}: the last line on a page of its own")
                     verse["it"][-1][2].extend(li)
                     verse["la"][-1][2].extend(ll)
-                    parts[-2] += "\\\n&emsp;" + esc(li[0])
-                    parts[-1] += "\\\n&emsp;" + esc(ll[0])
+                    parts[-2] += "\\\n&emsp;" + sup_marks(esc(li[0]))
+                    parts[-1] += "\\\n&emsp;" + sup_marks(esc(ll[0]))
                     continue
                 k = len(verse["it"]) + 1
                 verse["it"].append((n, ni, li))
                 verse["la"].append((n, nl, ll))
                 for lines_ in (li, ll):
-                    parts.append(f"{str(k).translate(TO_SUP)} " + "\\\n&emsp;".join(esc(l) for l in lines_))
+                    parts.append(f"{str(k).translate(TO_SUP)} "
+                                 + "\\\n&emsp;".join(sup_marks(esc(l)) for l in lines_))
             if gl:
-                parts.append(esc(join_lines(gl, f"{n:04d}")))
+                parts.append(sup_marks(esc(join_lines(gl, f"{n:04d}"))))
         body = [l for b in rest for l in b]
         width = column_width(body)
         for bi, b in enumerate(rest):
@@ -331,7 +362,7 @@ def convert_canto(c, errors):
         if lines != VERSES[c - 1]:
             errors.append(f"canto {c} {lang}: {lines} lines, expected {VERSES[c - 1]}")
         for k, (n, num, _) in enumerate(verse[lang], 1):
-            if num is not None and num != k:
+            if num is not None and num != k and MISNUMBERED.get((n, lang, k)) != num:
                 errors.append(f"{n:04d} {lang}: printed number {num} at tercet {k}")
             if num is None:
                 MISSING_NUMBER.append(f"{n:04d} {lang}: tercet {k}")
