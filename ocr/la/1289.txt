@@ -14,7 +14,7 @@ INFERNUS
 CAPITULUM I. . . . . . . . . » 25
 La divina commedia . . . . . » 38
 CAPITULUM II. . . . . . . . » 39
-Roma nel concetto di Dante . . » 48
+Roma nel concetto di Dante . » 48
 CAPITULUM III. . . . . . . . » 49
 L'inferno e l'amor divino. . . . » 60
 CAPITULUM IV. . . . . . . . » 61
@@ -41,11 +41,12 @@ CAPITULUM XIII. . . . . . . . » 167
 Federigo II. . . . . . . . . » 178
 CAPITULUM XIV. . . . . . . . » 179
 Il valore delle favole. . . . . . » 189
-
 CAPITULUM XV. . . . . . . . Pag. 191
 Integrezza del sentimento morale
 in Dante. . . . . . . . . . » 201
 CAPITULUM XVI. . . . . . . . » 203
+Il cingolo di Dante. . . . . . . » 213
+CAPITULUM XVII. . . . . . . . » 215
 La fiera descritta dal Poeta in
 questo canto . . . . . . . » 225
 CAPITULUM XVIII. . . . . . . . » 227
@@ -80,7 +81,6 @@ nizione delle scissure che lace-
 rarono la Chiesa . . . . . . » 353
 CAPITULUM XXIX. . . . . . . . » 355
 L'alchimia. . . . . . . . . . » 364
-
 CAPITULUM XXX. . . . . . . . Pag. 365
 I sogni. . . . . . . . . . . » 375
 CAPITULUM XXXI. . . . . . . . » 377
@@ -102,7 +102,7 @@ CAPITULUM II. . . . . . . . . » 445
 L'episodio di Casella e stato vero
 delle anime nel Purgatorio . . » 454
 CAPITULUM III. . . . . . . . . » 455
-La nostra scienza Gesu Cristo. . » 465
+La nostra scienza e Gesù Cristo. » 465
 CAPITULUM IV. . . . . . . . . » 467
 L'unità sostanziale dell'anima
 umana. . . . . . . . . . » 477
