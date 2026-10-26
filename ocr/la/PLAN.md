@@ -20,28 +20,24 @@ open item. The conventions and rules below are settled: apply them, do not ask a
 **Batches 1–3 (`0079`–`0348`, Inferno I–XXIII) are complete** and converted into
 `texts/la/008`–`030` (batch 3: Remaining work, item 8).
 
-**Batches 4–11 (`0349`–`1296`, Inferno XXIV to the end of the book) are written** to
-`ocr/la` from the mark decisions (Remaining work, item 8; batch 11 written 2026-10-26):
+**Batches 4–11 (`0349`–`1296`, Inferno XXIV to the end of the book) and the front matter
+(`0001`–`0078`) are written** to `ocr/la` from the mark decisions (Remaining work, item 8;
+batch 11 and the front matter written 2026-10-26):
 
-- steps 5–7 and the scripted checks of step 9 done; `la_check.py`, `la_seqcheck.py` and
-  `la_lostcheck.py` over 0233–1296 give no hits but the known exceptions (Suspected
-  misprints, the printed brackets of 0545 and 0861, 1293's barcode, the plain footnote
-  marks `(1)` of 1274 and 1282, Tesseract's noise and figure labels);
-- the broken pages retyped from the scan by way B as each batch went (retypes 19–58,
-  mostly la-el-agy, la-el-agy2 and la-el-agy3; from batch 10 la-el-agy alone; in batch
-  11 also 17 pages by la-el-claude), so no page of these batches is left `retype
-  pending` for item 10;
+- steps 5–7 and the scripted checks of step 9 done over every page of `tmp/la-mark7`;
+  `la_check.py`, `la_seqcheck.py` and `la_lostcheck.py` over 0001–0078 and 0233–1296 give
+  no hits but the known exceptions (Suspected misprints, the printed brackets of
+  0016–0019, 0021, 0022, 0035, 0545 and 0861, 1293's barcode, the plain footnote marks
+  `(1)` of 1274 and 1282, Tesseract's noise and figure labels);
+- the broken pages retyped from the scan as each batch went (retypes 19–58, mostly
+  la-el-agy, la-el-agy2 and la-el-agy3; in batch 11 also 17 pages by la-el-claude; in the
+  front matter 0051–0053 and 0065), so no page is left `retype pending` for item 10;
 - **not done**: step 8 (`la_lines.py`, the image checks of rules, line breaks and line
   ends) and step 11 (`texts/convert_la.py`), which wait for item 10.
 
-**The front matter (`0001`–`0078`)**: the markup and model decisions are done
-(`tmp/la-mark7`, items 1–7; 0046 and 0048–0050 retyped in batch 18 of item 6); steps 5–11
-are open. `la_lostcheck.py` lists lost text (runs in both OCRs) on 6 of its pages.
-
-**Next**: the front matter by item 8's way (steps 5–7 and the checks of step 9, in parts
-with a report after each, broken pages retyped by la-el-agy), so that every page of
-`tmp/la-mark7` is written; then item 9 (plain digits, by a script over all pages), then
-item 10 (the pages still to retype, then steps 8 and 11 of batches 4–11).
+**Next**: item 9 (plain digits for tercet numbers and gloss marks, by a script over all
+pages, now that every page of `tmp/la-mark7` is written), then item 10 (steps 8 and 11 of
+batches 4–11 and the front matter).
 
 "Complete" means, for every page of batches 1–3 (blank pages aside):
 
@@ -666,6 +662,33 @@ In this order (decided with the user, 2026-10-15):
      `la_seqcheck.py` only the footnote marks `(1)` of 1274 and 1282 (printed plain, like
      the footnotes of the front matter), `la_lostcheck.py` only Tesseract's noise and the
      figure labels of 1245 and 1247.
+   - **Front matter** (`0001`–`0078`, titles, dedication to Leo XIII, *Notizie
+     preliminari*, *Documenta*, *Comentum* half-title and incipit, Serravalle's
+     *Dedicatio* and *Preambula*, *Infernus* half-title; 2026-10-26) by the low-cost way,
+     in three parts (`0001`–`0028`, `0029`–`0054`, `0055`–`0078`); 0003 0005 0006 0008
+     0009 0011 0012 0044 0056 0058 0078 blank (0009 and 0044 empty in `ocr/la`), and 0046
+     0048–0050 retyped in batch 18 of item 6. 1322 marks (`light` 597). The broken pages
+     were retyped from the scan and added with `la_retype.py`: 0051–0053 (*Documenta*
+     pages with lost paragraphs and garbled lines) and 0065 (*Preambula* page 11, whose
+     39 printed lines were collapsed onto a single line). Smaller losses restored from the
+     scan by fixes: 0020 (`illanguidito`), 0029 (`exiguum atque indignum, anno ab
+     Incarnatione eiusdem Domini Iesu`), 0045 (`alicuius subventionis auxilio providere,
+     gratiamque facere spe-`, `ante acceptationem`, `quovis modo presumant, ac decernentes
+     ex tunc irritum et`, `Canonicorum iuribus,`), 0054 (`aliis, tam`, misplaced running
+     head removed), 0061 (`peccare boni, virtutis amore: oderunt` and lines 19–23
+     re-lined). Light-kept audit and scan checks: page heads put in the standard form
+     (`NUMBER\n\nHEAD`, letter-spacing removed on 0068 0071 0072 0076, missing numbers
+     added on 0017 0021 0023 0025 0071 0075, `DOCUMENTA` added on 0054), signature marks
+     kept after a blank line (`IV` on 0031, `V` on 0039, `2` on 0063, `3` on 0071),
+     spurious `ae`/`æ` made `e` where printed so (0024 0027 0029 0045 0068 0069),
+     markdown italics stripped on 0036, guillemet spacing and Italian accents verified in
+     *Notizie preliminari*, and printed spellings kept (`BUBWYCH`, `Episcope`, `dectractoriis`,
+     `prosumptuosum`, `conrespondentibus`, `dampnatos`, `aierem`, `esentialem`, `Theucro`,
+     `Ericteam`, `Tarquinus`, `spetialiter`, `Parisios`, `connoctativum, connoctans`,
+     `preventi`, `interpetrari`, `rythimis`, `principalius`). Written to `ocr/la` (57
+     pages changed). Step 9: `la_check.py` with no tercet hits, `la_seqcheck.py` only the
+     printed brackets of 0016–0019, 0021, 0022 and 0035, `la_lostcheck.py` with no `both`
+     hits.
    - **Delegation trials for whole-page retyping** (2026-10-23), against way B's la-el-agy
      (about 1.2 errors a page in retypes 19–21), each checked word by word against both
      OCRs and in the image:
