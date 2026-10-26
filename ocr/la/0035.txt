@@ -1,7 +1,8 @@
 XXIX
+
 NOTIZIE PRELIMINARI
 
-ommino ipse, scilicet auctor, voluit ignorari; tamen tale opusculum erit praefatio cuiuslibet capituli Libri
+omnino ipse, scilicet auctor, voluit ignorari; tamen tale opusculum erit prefatio cuiuslibet capituli Libri
 Dantis, insinuans totam sententiam et intentionem auctoris in Capitulis. Sed hystorie etc. sunt inveniende
 et querende in Comento.
 
@@ -19,10 +20,10 @@ segnato in cifre arabiche il numero progressivo. Con la prima colonna della prim
 si conchiude l'Inferno, e la seconda colonna è tutta in bianco, salvo che nel primo rigo si leggono le
 parole, Explicit Infernus Dantis, e nell'ultimo, Sequitur Purgatorium Dantis. Il qual Purgatorio corre
 dalla seconda pagina della carta 424 sino a tutta la faccia prima della carta 449 con l'intestazione,
-Incipit Purgatorium Dantis, primum capitulum eiusdem, e con la chiusa. Explicit Purgatorium Dantis.
+Incipit Purgatorium Dantis, primum capitulum eiusdem, e con la chiusa, Explicit Purgatorium Dantis.
 Ogni capitolo ha il numero d'ordine in arabico, ed in cima a molte pagine è l'accenno Purg. o Pu., o Pur.,
 cioè Purgatorium. A carte 450 comincia il Paradiso senza alcuna intestazione, e va sino ai tre primi
-righi della seconda colonna della seconda facciata della carta 474; poi viene l'Explicit translatio, etc.
+righi della seconda colonna della seconda faccia della carta 474; poi viene l'Explicit traslatio, etc.
 conforme si legge in questo libro a pagine 1214. Seguono tre fogli cartacei bianchi numerati, un altro
 in pergamena bianco, numerato, un altro pure in pergamena e anch'esso numerato, nel cui verso sono
 note varie di niuna importanza concernenti affari domestici: note che ricorrono ancor più numerose nel
@@ -35,10 +36,10 @@ come fosse cominciato a copiare quando il primo autografo era già scritto. È s
 mano, nè le correzioni furono opera dell'autore, nè rivide egli il manoscritto. Si scorge ciò dalla pagina
 seconda della carta 352, rispondente alla pagina 1193 di questo libro. Ivi, nel testo, doveva essere il circolo
 rappresentante la gradazione delle anime ne'cieli, per lo che l'amanuense si trovò impacciato nel se-
-guire, temendo che il senso rimanesse interrotto. Fatta un poco di riflessione, scrisse le parole seguenti,
+guitare, temendo che il senso rimanesse interrotto. Fatta un poco di riflessione, scrisse le parole seguenti,
 da noi omesse nel Commento per una ragione che è facile intendere, ma che diamo qui fedelmente: Hic
-nihil deficit; secure salta ad istud signum ✠. Bonum est notare hic istum circulum in folio seu latere se-
-quentis. E nel foglio seguente è il cerchio, e sotto, dopo la croce di richiamo, segue il Commento: In isto
+nihil deficit; secure salta ad istud signum †. Bonum est notare hic istum circulum in folio seu latere se-
+quenti. E nel foglio seguente è il cerchio, e sotto, dopo la croce di richiamo, segue il Commento: In isto
 ordine, etc. Queste espressioni d'incertezza, male si addirebbero all'autore dello scritto, nè, se egli avesse
 assistito la copia, si potrebbero agevolmente spiegare.
 
@@ -48,5 +49,5 @@ Il codice, insieme con l'altro, di cui diremo fra poco, fu tutto trascritto di m
 mento di Frate Bartolommeo, ne'quali avemmo aiuto dal
 Chier. Studente di Filosofia, Fr. Marcellino da Vezzano del-
 l'Oss. Prov. di Genova, che il Reverendissimo Padre Generale
-dell'Ordine, LUIGI DA PARMA, si compiacque associare a'nostri
+dell'Ordine, LVIGI DA PARMA, si compiacque associare a'nostri
 studj.

@@ -1,6 +1,8 @@
-PREAMBULA
 13
-regni, tune componit librum reprensivum talium vitiorum. Tertius stilus est co-
+
+PREAMBULA
+
+regni, tunc componit librum reprensivum talium vitiorum. Tertius stilus est co-
 media, que tractat de rebus infimis et plebeis, cum suo stilo baxo et humili; et
 dicitur comedia a comos grece, latine vero cauda, vel villa; quia licet comedia
 incipiat a tristibus, finit tamen in letis. Iste liber Dantis potest dici tragedia,
@@ -38,4 +40,3 @@ Dantes assumpserit Virgilium pro suo magistro in Inferno et Purgatorio, idest
 rationem; quia tamen naturalis ratio non sufficit nobis ad finem ultimum acqui-
 rere, quia ipsa a se non potest nec sufficit noscere cuncta nobis ad salutem
 necessaria, quia multa sunt fide firma tenenda, ad que non attingit ratio na-
-.

@@ -1,6 +1,6 @@
 18
 
-P R E A M B U L A
+PREAMBULA
 
 ipso Dante apud Matrem Iesu Christi, ut ipsa suis precibus impetraret ipsi
 Danti visionem perfectam Dei et Trinitatis, ut clare patet in ultimo capitulo
@@ -12,7 +12,7 @@ poetas et philosophos, etiam theologos, differentia est inter animam hominis,
 spiritum et umbram, etiam postquam separata est a corpore. Nam separata
 anima a corpore, non est proprie anima, quia non animat, quoniam ab animando
 anima dicitur anima: spiritus potest bene dici prout distinguitur a rebus cor-
-poreis: sed umbra est nomen connotativum, connotans membra apparentia, sic
+poreis: sed umbra est nomen connoctativum, connoctans membra apparentia, sic
 et taliter quod a duobus sensibus apprehenditur, scilicet visu [et] auditu; et tactu
 et olfactu non. Nam si quis amplecteretur unam animam a corpore separatam,
 etiam secundum opinionem poetarum, nihil stringeret, sed brachia redirent ad
@@ -22,7 +22,7 @@ tulo Purgatorii, quando voluit amplecti umbram Statii. Hanc materiam declarat
 Statius in vigesimo quinto Purgatorii, ubi vult quod anima, quam cito in Inferno
 vel Purgatorio est, subito, volente Deo et cooperante virtute activa, derelicta a
 generante in spermate, quam unit sibi anima rationalis, et quam secum portat
-dum a corpore separatur, anima fascias se aiere circumstante, et facit sibi unum
+dum a corpore separatur, anima fasciat se aiere circumstante, et facit sibi unum
 corpus fantasticum aiereum, ad similitudinem sui corporis a quo est exuta. Et
 videtur et est visibile tale corpus fantasticum; et loquitur et auditur, ita quod
 auditur loquens et videtur oculis: ab aliis sensibus non apprehenditur. Anima,
