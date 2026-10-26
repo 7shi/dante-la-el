@@ -3,13 +3,13 @@
     la_seqcheck.py FIRST LAST [-d DIR ...] [-v] [-o OUT]
 
 For each page file (the first DIR that has PAGE.txt; default ocr/la), the verse blocks are
-the blank-line separated blocks starting with a superscript tercet number. Listed:
+the blank-line separated blocks containing a tercet number (`1 `, `27 `). Listed:
 
 - `seq`: a block whose numbers do not run one by one (a number missing or wrong);
 - `it/la`: a page with two verse blocks (the Italian and the Latin) whose numbers differ;
-- `plain`: a tercet number in plain digits (`27 Tra tutto`), not superscript;
-- `leftover`: `(1)` gloss marks in plain digits, `<sup>`, `[For ` (a delegate's note), a
-  line of only `—` (a rule written as a dash), or a double space;
+- `sup`: a tercet number or gloss mark in superscript digits (`²⁷`, `(¹)`);
+- `leftover`: `<sup>`, `[For ` (a delegate's note), a line of only `—` (a rule written as
+  a dash), or a double space;
 - `indent`: a line starting with a space.
 
 la_check.py checks the tercet numbers across pages (every third line, continuity) and the
@@ -22,18 +22,17 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent / "la"
-SUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
 
 
 def check(text):
-    blocks = [b for b in text.split("\n\n") if re.match(r"[⁰¹²³⁴⁵⁶⁷⁸⁹]+ ", b)]
-    seqs = [[int(m.translate(SUP)) for m in re.findall(r"(?m)^([⁰¹²³⁴⁵⁶⁷⁸⁹]+) ", b)] for b in blocks]
+    blocks = [b for b in text.split("\n\n") if re.search(r"(?m)^\d+ \D", b)]
+    seqs = [[int(m) for m in re.findall(r"(?m)^(\d+) ", b)] for b in blocks]
     hits = []
     bad = [s for s in seqs if s != list(range(s[0], s[0] + len(s)))]
     if bad: hits.append(f"seq {bad}")
     if len(seqs) == 2 and seqs[0] != seqs[1]: hits.append(f"it/la {seqs}")
-    if re.search(r"(?m)^\d+ \(?[A-Z]", text): hits.append("plain")
-    if re.search(r"\(\d+\)|<sup>|\[For |^—$|  ", text, re.M): hits.append("leftover")
+    if re.search(r"(?m)^[⁰¹²³⁴⁵⁶⁷⁸⁹]+ |\([⁰¹²³⁴⁵⁶⁷⁸⁹]+[).,]", text): hits.append("sup")
+    if re.search(r"<sup>|\[For |^—$|  ", text, re.M): hits.append("leftover")
     if re.search(r"(?m)^ ", text): hits.append("indent")
     return [s[0] for s in seqs], hits
 
