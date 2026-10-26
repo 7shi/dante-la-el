@@ -1,7 +1,7 @@
 """Convert ocr/la/NNNN.txt (Serravalle's translation and commentary, 1891) into texts/la/NNN-title.md.
 
-Only the Inferno (scans 0079–0476) is converted so far: the rest of ocr/la is not yet
-completed (see ocr/la/PLAN.md). See PLAN.md for the layout. Run from the repository root:
+Only the Inferno and Purgatorio I–XI (scans 0079–0608) are converted so far: the rest of
+ocr/la is not yet completed (see ocr/la/PLAN.md). See PLAN.md for the layout. Run from the repository root:
 
     uv run texts/convert_la.py
 """
@@ -14,19 +14,35 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "ocr" / "la"
 DST = ROOT / "texts" / "la"
 
-# Verses per canto in the Inferno.
-VERSES = [136, 142, 136, 151, 142, 115, 130, 130, 133, 136, 115, 139, 151, 142, 124, 136, 136,
-          136, 133, 130, 139, 151, 148, 151, 151, 142, 136, 142, 139, 148, 145, 139, 157, 139]
+# Verses per canto (dante-corpus).
+VERSES = {
+    "inferno": [136, 142, 136, 151, 142, 115, 130, 130, 133, 136, 115, 139, 151, 142, 124, 136,
+                136, 136, 133, 130, 139, 151, 148, 151, 151, 142, 136, 142, 139, 148, 145, 139,
+                157, 139],
+    "purgatorio": [136, 133, 145, 139, 136, 151, 136, 139, 145, 139, 142, 136, 154, 151, 145,
+                   145, 139, 145, 145, 151, 136, 154, 133, 154, 139, 148, 142, 148, 154, 145,
+                   145, 160, 145],
+}
 
 # Cantos converted: (first scan, the scan of the essay, last scan), from INDEX.md.
-CANTOS = [(79, 92, 92), (93, 102, 102), (103, 114, 114), (115, 127, 128), (129, 139, 140),
-          (141, 150, 150), (151, 161, 162), (163, 171, 172), (173, 183, 184), (185, 196, 196),
-          (197, 206, 206), (207, 220, 220), (221, 232, 232), (233, 243, 244), (245, 255, 256),
-          (257, 267, 268), (269, 279, 280), (281, 291, 292), (293, 303, 304), (305, 314, 314),
-          (315, 324, 326), (327, 336, 336), (337, 347, 348), (349, 359, 360), (361, 370, 370),
-          (371, 382, 382), (383, 394, 394), (395, 407, 408), (409, 418, 418), (419, 429, 430),
-          (431, 440, 440), (441, 451, 452), (453, 463, 464), (465, 475, 476)]
-FIRST_FILE = 8  # 008-inferno-canto-01.md (001–007 are the front matter, not converted yet)
+CANTOS = {"inferno": [(79, 92, 92), (93, 102, 102), (103, 114, 114), (115, 127, 128),
+                      (129, 139, 140), (141, 150, 150), (151, 161, 162), (163, 171, 172),
+                      (173, 183, 184), (185, 196, 196), (197, 206, 206), (207, 220, 220),
+                      (221, 232, 232), (233, 243, 244), (245, 255, 256), (257, 267, 268),
+                      (269, 279, 280), (281, 291, 292), (293, 303, 304), (305, 314, 314),
+                      (315, 324, 326), (327, 336, 336), (337, 347, 348), (349, 359, 360),
+                      (361, 370, 370), (371, 382, 382), (383, 394, 394), (395, 407, 408),
+                      (409, 418, 418), (419, 429, 430), (431, 440, 440), (441, 451, 452),
+                      (453, 463, 464), (465, 475, 476)],
+          "purgatorio": [(487, 497, 498), (499, 508, 508), (509, 519, 520), (521, 531, 532),
+                         (533, 542, 542), (543, 553, 554), (555, 564, 564), (565, 574, 574),
+                         (575, 586, 586), (587, 596, 596), (597, 607, 608)]}
+# The first file of each cantica's cantos (001–007 are the front matter, not converted yet;
+# 042 is the Purgatorio's preambula).
+FIRST_FILE = {"inferno": 8, "purgatorio": 43}
+RUNNING_HEAD = {"inferno": "INFERNI", "purgatorio": "PURGATORII"}
+# Prose sections of one column: (file, first scan, last scan, the heading of the first page).
+PROSE = [("042-purgatorio-preambula.md", 477, 486, "PREAMBULA")]
 OFFSET = 54  # printed page = scan - 54
 
 ORDINALS = ["PRIMUM", "SECUNDUM", "TERTIUM", "QUARTUM", "QUINTUM", "SEXTUM", "SEPTIMUM",
@@ -87,6 +103,22 @@ ESSAYS = {
     "IL GHIACCIO IN FONDO ALL'INFERNO": "Il ghiaccio in fondo all'inferno",
     "I TRADITORI": "I traditori",
     "SATANA": "Satana",
+    "IL PURGATORIO NEL CONCETTO DI DANTE": "Il purgatorio nel concetto di Dante",
+    "L'EPISODIO DI CASELLA E STATO VERO DELLE ANIME NEL PURGATORIO":
+        "L'episodio di Casella e stato vero delle anime nel Purgatorio",
+    "LA NOSTRA SCIENZA E GESÙ CRISTO": "La nostra scienza e Gesù Cristo",
+    "L'UNITÀ SOSTANZIALE DELL'ANIMA UMANA": "L'unità sostanziale dell'anima umana",
+    "RELAZIONI CHE RESTANO TRA L'ANIMA E IL CORPO DOPO MORTE":
+        "Relazioni che restano tra l'anima e il corpo dopo morte",
+    "PERMANENZA DI AFFETTUOSE RELAZIONI FRA NOI E IL PURGATORIO":
+        "Permanenza di affettuose relazioni fra noi e il Purgatorio",
+    "LA GRAZIA": "La grazia",
+    "L'AVE MARIA DELLA SERA E IL DE PROFUNDIS": "L'Ave Maria della sera e il De Profundis",
+    "LA MISERICORDIA DIVINA SUPREMO PRINCIPIO DI SALUTE":
+        "La misericordia divina supremo principio di salute",
+    "CORRISPONDENZA TRA LA COLPA E L'ESPIAZIONE": "Corrispondenza tra la colpa e l'espiazione",
+    "L'UMANA MESTIZIA E IL NOSTRO SOSPIRO ALL'INFINITO":
+        "L'umana mestizia e il nostro sospiro all'Infinito",
 }
 
 # Tercet numbers misprinted (ocr/la/PLAN.md, Suspected misprints): (scan, column, tercet) -> printed.
@@ -235,8 +267,11 @@ def tercets(lines, n, where):
             RUNOVER.append(f"{n:04d} {where}: {out[-1][1][-1][-40:]}")
             continue
         m = NUMBER.match(l)
+        b = re.match(r"\[(\d+) ", l)  # a tercet in printed brackets (0545: `[7 Vidi`)
         if m:
             out.append((int(m.group(1).translate(SUP)), [l[m.end():]]))
+        elif b:
+            out.append((int(b.group(1)), ["[" + l[b.end():]]))
         elif out and len(out[-1][1]) < 3:
             out[-1][1].append(l)
         else:
@@ -267,8 +302,73 @@ def paragraphs(lines, width):
     return out
 
 
-def convert_canto(c, errors):
-    first, essay, last = CANTOS[c - 1]
+def add_paragraphs(parts, ps, n, carry):
+    """Append paragraphs (lists of printed lines); a word hyphenated across the page break
+    (carry: the index of the paragraph open at the end of the previous page) is joined on the
+    earlier page."""
+    for pi, p in enumerate(ps):
+        if carry is not None and pi == 0:
+            head = parts[carry]
+            if re.search(WORD + "-$", head):
+                m = re.match(r"(\S+)\s*(.*)", p[0])
+                parts[carry] = join_hyphen(head, m.group(1), f"{n:04d}")
+                p = [m.group(2)] + p[1:] if m.group(2) else p[1:]
+                if not p:
+                    continue
+        parts.append(esc(join_lines(p, f"{n:04d}")))
+
+
+def add_prose(parts, bs, n):
+    """An essay or a one-column prose page: paragraphs on one line each, verse quoted line by
+    line, printed lines joined into paragraphs."""
+    width = column_width([l for b in bs for l in b])
+    for b in bs:
+        if width > 120 and any(len(l) > 80 for l in b):
+            # paragraphs on one line each; a paragraph broken at a column change
+            # (no sentence end) is joined
+            cur = []
+            for l in b:
+                cur.append(l)
+                if re.search(r"[.?!:;»)]$", l):
+                    parts.append(esc(join_lines(cur, f"{n:04d}")))
+                    cur = []
+            if cur:
+                parts.append(esc(join_lines(cur, f"{n:04d}")))
+        elif len(b) > 1 and all(len(l) < width * 0.75 and not l.endswith("-") for l in b):
+            parts.append("\\\n".join(esc(l) for l in b))  # verse quoted in the essay
+        else:  # printed lines
+            parts.extend(esc(join_lines(p, f"{n:04d}")) for p in paragraphs(b, width))
+
+
+def convert_prose(first, last, heading, errors):
+    """A prose section of one column (the Purgatorio's preambula): the cantica's half-title,
+    then pages with the heading on the first and as the running head on the others."""
+    parts = []
+    carry = None
+    for n in range(first, last + 1):
+        if text_of(n).strip() == "[Blank page]":
+            continue
+        number, title, lines = read_page(n, errors)
+        parts.append(marker(n, number is not None))
+        if title and not lines:  # the half-title
+            parts.append("# " + title.capitalize())
+            continue
+        if title != heading:
+            errors.append(f"{n:04d}: heading {title!r}")
+        if number is None:
+            parts.append("# " + heading.capitalize())
+        bs = blocks(lines)
+        body = [l for b in bs for l in b]
+        width = column_width(body)
+        for bi, b in enumerate(bs):
+            add_paragraphs(parts, paragraphs(b, width), n, carry if bi == 0 else None)
+        carry = len(parts) - 1 if body and re.search(WORD + "-$", body[-1]) else None
+    return parts
+
+
+def convert_canto(cantica, c, errors):
+    first, essay, last = CANTOS[cantica][c - 1]
+    head = RUNNING_HEAD[cantica]
     parts = []
     verse = {"it": [], "la": []}  # (page, printed number, lines)
     carry = None  # the commentary paragraph open at the end of the previous page
@@ -289,31 +389,15 @@ def convert_canto(c, errors):
                 want = title  # the running head (also on an essay's second page)
             if want != title:
                 errors.append(f"{n:04d}: heading {title!r}")
-            if n >= essay and title != "INFERNI":
+            if n >= essay and title != head:
                 parts.append(f"# {ESSAYS.get(title, title)}")
             elif number is None:
                 parts.append("# " + " ".join(w.capitalize() for w in title.split()))
-            elif title not in ("INFERNI", f"CAPITULUM {ORDINALS[c - 1]}"):
+            elif title not in (head, f"CAPITULUM {ORDINALS[c - 1]}"):
                 errors.append(f"{n:04d}: running head {title!r}")
         bs = blocks(lines)
         if n >= essay:
-            width = column_width([l for b in bs for l in b])
-            for b in bs:
-                if width > 120 and any(len(l) > 80 for l in b):
-                    # paragraphs on one line each; a paragraph broken at a column change
-                    # (no sentence end) is joined
-                    cur = []
-                    for l in b:
-                        cur.append(l)
-                        if re.search(r"[.?!:;»)]$", l):
-                            parts.append(esc(join_lines(cur, f"{n:04d}")))
-                            cur = []
-                    if cur:
-                        parts.append(esc(join_lines(cur, f"{n:04d}")))
-                elif len(b) > 1 and all(len(l) < width * 0.75 and not l.endswith("-") for l in b):
-                    parts.append("\\\n".join(esc(l) for l in b))  # verse quoted in the essay
-                else:  # printed lines
-                    parts.extend(esc(join_lines(p, f"{n:04d}")) for p in paragraphs(b, width))
+            add_prose(parts, bs, n)
             continue
         it, la, gl, rest = split_verse(n, bs, errors)
         if it:
@@ -342,25 +426,15 @@ def convert_canto(c, errors):
         body = [l for b in rest for l in b]
         width = column_width(body)
         for bi, b in enumerate(rest):
-            ps = paragraphs(b, width)
-            for pi, p in enumerate(ps):
-                if carry is not None and bi == 0 and pi == 0:
-                    # a word hyphenated across the page break is joined on the earlier page
-                    head = parts[carry]
-                    if re.search(WORD + "-$", head):
-                        m = re.match(r"(\S+)\s*(.*)", p[0])
-                        parts[carry] = join_hyphen(head, m.group(1), f"{n:04d}")
-                        p = [m.group(2)] + p[1:] if m.group(2) else p[1:]
-                        if not p:
-                            continue
-                parts.append(esc(join_lines(p, f"{n:04d}")))
+            add_paragraphs(parts, paragraphs(b, width), n, carry if bi == 0 else None)
         last_line = body[-1] if body else ""
         carry = len(parts) - 1 if body and re.search(WORD + "-$", last_line) else None
     # tercet numbers: computed by counting, checked against the printed ones
     for lang in ("it", "la"):
         lines = sum(len(t[2]) for t in verse[lang])
-        if lines != VERSES[c - 1]:
-            errors.append(f"canto {c} {lang}: {lines} lines, expected {VERSES[c - 1]}")
+        if lines != VERSES[cantica][c - 1]:
+            errors.append(f"{cantica} {c} {lang}: {lines} lines,"
+                          f" expected {VERSES[cantica][c - 1]}")
         for k, (n, num, _) in enumerate(verse[lang], 1):
             if num is not None and num != k and MISNUMBERED.get((n, lang, k)) != num:
                 errors.append(f"{n:04d} {lang}: printed number {num} at tercet {k}")
@@ -375,10 +449,14 @@ MISSING_NUMBER = []
 def main():
     DST.mkdir(parents=True, exist_ok=True)
     errors = []
-    for c in range(1, len(CANTOS) + 1):
-        parts = convert_canto(c, errors)
-        path = DST / f"{FIRST_FILE + c - 1:03d}-inferno-canto-{c:02d}.md"
-        path.write_text("\n\n".join(parts) + "\n", encoding="utf-8")
+    for cantica, cantos in CANTOS.items():
+        for c in range(1, len(cantos) + 1):
+            parts = convert_canto(cantica, c, errors)
+            path = DST / f"{FIRST_FILE[cantica] + c - 1:03d}-{cantica}-canto-{c:02d}.md"
+            path.write_text("\n\n".join(parts) + "\n", encoding="utf-8")
+    for name, first, last, heading in PROSE:
+        parts = convert_prose(first, last, heading, errors)
+        (DST / name).write_text("\n\n".join(parts) + "\n", encoding="utf-8")
     for e in errors:
         print("ERROR", e)
     for x in MISSING_NUMBER:
