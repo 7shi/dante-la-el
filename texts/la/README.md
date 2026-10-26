@@ -4,7 +4,7 @@
 
 These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/la/) by [`convert_la.py`](../convert_la.py); see [`ocr/la/INDEX.md`](../../ocr/la/INDEX.md) for the volume and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/la/` and run `uv run texts/convert_la.py`.
 
-**Only the Inferno and Purgatorio I–XI are converted so far** (scans `0079`–`0608`). Their transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits); the rest of `ocr/la/` is not yet completed, and the front matter, the rest of the Purgatorio, the Paradiso and the appendix will follow.
+**Only the Inferno and Purgatorio I–XXI are converted so far** (scans `0079`–`0728`). Their transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits); the rest of `ocr/la/` is not yet completed, and the front matter, the rest of the Purgatorio, the Paradiso and the appendix will follow.
 
 ## Reading the files
 
@@ -74,3 +74,13 @@ The cantica opens with its half-title and Serravalle's *Preambula* to it, one co
 | [051-purgatorio-canto-09.md](051-purgatorio-canto-09.md) | IX | [521]–[532] | La concubina di Tytone antico | *La misericordia divina supremo principio di salute* |
 | [052-purgatorio-canto-10.md](052-purgatorio-canto-10.md) | X | [533]–[542] | Poi fummo dentro al soglo de la porta | *Corrispondenza tra la colpa e l'espiazione* |
 | [053-purgatorio-canto-11.md](053-purgatorio-canto-11.md) | XI | [543]–[553] | O Padre nostro, che ne'cieli stai, | *L'umana mestizia e il nostro sospiro all'Infinito* |
+| [054-purgatorio-canto-12.md](054-purgatorio-canto-12.md) | XII | [555]–[565] | Di pari, come buoi che vanno a giogo, | *L'umiltà principio d'ogni grandezza* |
+| [055-purgatorio-canto-13.md](055-purgatorio-canto-13.md) | XIII | [567]–[576] | Noi eravamo al sommo de la scala, | *Dolore, preghiera e amore nel Purgatorio* |
+| [056-purgatorio-canto-14.md](056-purgatorio-canto-14.md) | XIV | [577]–[589] | Chi è costui che 'l nostro monte cerchia, | *I beni terreni ed il bene eterno* |
+| [057-purgatorio-canto-15.md](057-purgatorio-canto-15.md) | XV | [591]–602 | Quanto, tra l'ultimar dell'hora terza | *Miserabile punizione che il Poeta dà al vizio dell'ira e profondo insegnamento che v'inchiuse* |
+| [058-purgatorio-canto-16.md](058-purgatorio-canto-16.md) | XVI | [603]–[614] | Buio d'inferno, e di nocte privata | *La liberta umana e la suprema sua legge* |
+| [059-purgatorio-canto-17.md](059-purgatorio-canto-17.md) | XVII | [615]–[625] | Ricorditi, lector, se mai nell'alpe | *L'amore vita dell'universo* |
+| [060-purgatorio-canto-18.md](060-purgatorio-canto-18.md) | XVIII | [627]–[637] | Posto havea fine al suo ragionamento | *Il cuore radice del pensiero* |
+| [061-purgatorio-canto-19.md](061-purgatorio-canto-19.md) | XIX | [639]–[649] | Nell'hora che non può 'l calor diurno | *Bassezza del vizio dell'accidia e sublimità del suo contrapposto, la fatica e il dolore* |
+| [062-purgatorio-canto-20.md](062-purgatorio-canto-20.md) | XX | [651]–[663] | Contra miglor voler, voler mal pugna; | *La salita delle anime al cielo* |
+| [063-purgatorio-canto-21.md](063-purgatorio-canto-21.md) | XXI | [665]–[674] | La sete natural che mai non satia, | *Nesso fra l'ordine di natura e il soprannaturale* |

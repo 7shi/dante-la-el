@@ -1,6 +1,6 @@
 """Convert ocr/la/NNNN.txt (Serravalle's translation and commentary, 1891) into texts/la/NNN-title.md.
 
-Only the Inferno and Purgatorio I–XI (scans 0079–0608) are converted so far: the rest of
+Only the Inferno and Purgatorio I–XXI (scans 0079–0728) are converted so far: the rest of
 ocr/la is not yet completed (see ocr/la/PLAN.md). See PLAN.md for the layout. Run from the repository root:
 
     uv run texts/convert_la.py
@@ -36,7 +36,10 @@ CANTOS = {"inferno": [(79, 92, 92), (93, 102, 102), (103, 114, 114), (115, 127, 
                       (453, 463, 464), (465, 475, 476)],
           "purgatorio": [(487, 497, 498), (499, 508, 508), (509, 519, 520), (521, 531, 532),
                          (533, 542, 542), (543, 553, 554), (555, 564, 564), (565, 574, 574),
-                         (575, 586, 586), (587, 596, 596), (597, 607, 608)]}
+                         (575, 586, 586), (587, 596, 596), (597, 607, 608), (609, 619, 620),
+                         (621, 630, 630), (631, 643, 644), (645, 655, 656), (657, 668, 668),
+                         (669, 679, 680), (681, 691, 692), (693, 703, 704), (705, 717, 718),
+                         (719, 728, 728)]}
 # The first file of each cantica's cantos (001–007 are the front matter, not converted yet;
 # 042 is the Purgatorio's preambula).
 FIRST_FILE = {"inferno": 8, "purgatorio": 43}
@@ -119,10 +122,26 @@ ESSAYS = {
     "CORRISPONDENZA TRA LA COLPA E L'ESPIAZIONE": "Corrispondenza tra la colpa e l'espiazione",
     "L'UMANA MESTIZIA E IL NOSTRO SOSPIRO ALL'INFINITO":
         "L'umana mestizia e il nostro sospiro all'Infinito",
+    "L'UMILTÀ PRINCIPIO D'OGNI GRANDEZZA": "L'umiltà principio d'ogni grandezza",
+    "DOLORE, PREGHIERA E AMORE NEL PURGATORIO": "Dolore, preghiera e amore nel Purgatorio",
+    "I BENI TERRENI ED IL BENE ETERNO": "I beni terreni ed il bene eterno",
+    "MISERABILE PUNIZIONE CHE IL POETA DÀ AL VIZIO DELL'IRA E PROFONDO INSEGNAMENTO CHE "
+    "V'INCHIUSE": "Miserabile punizione che il Poeta dà al vizio dell'ira e profondo insegnamento"
+                  " che v'inchiuse",
+    "LA LIBERTA UMANA E LA SUPREMA SUA LEGGE": "La liberta umana e la suprema sua legge",
+    "L'AMORE VITA DELL'UNIVERSO": "L'amore vita dell'universo",
+    "IL CUORE RADICE DEL PENSIERO": "Il cuore radice del pensiero",
+    "BASSEZZA DEL VIZIO DELL'ACCIDIA E SUBLIMITÀ DEL SUO CONTRAPPOSTO, LA FATICA E IL DOLORE":
+        "Bassezza del vizio dell'accidia e sublimità del suo contrapposto, la fatica e il dolore",
+    "LA SALITA DELLE ANIME AL CIELO": "La salita delle anime al cielo",
+    "NESSO FRA L'ORDINE DI NATURA E IL SOPRANNATURALE":
+        "Nesso fra l'ordine di natura e il soprannaturale",
 }
 
 # Tercet numbers misprinted (ocr/la/PLAN.md, Suspected misprints): (scan, column, tercet) -> printed.
 MISNUMBERED = {(350, "it", 2): 3}
+# Running heads misprinted: scan -> printed.
+MISPRINTED_HEAD = {710: "PURGATORI"}
 
 SUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
 TO_SUP = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
@@ -225,10 +244,10 @@ def read_page(n, errors):
         while lines and not lines[0].strip():
             lines.pop(0)
     title = None
-    if lines and re.fullmatch(r"[A-ZÀ-Ý' .]+", lines[0].strip()) and len(lines[0]) > 4:
+    if lines and re.fullmatch(r"[A-ZÀ-Ý' .,]+", lines[0].strip()) and len(lines[0]) > 4:
         title = lines.pop(0).strip()
         # an essay title printed on two lines (0303, 0324)
-        while lines and re.fullmatch(r"[A-ZÀ-Ý' .]+", lines[0].strip()) and len(lines[0]) > 4:
+        while lines and re.fullmatch(r"[A-ZÀ-Ý' .,]+", lines[0].strip()) and len(lines[0]) > 4:
             title += " " + lines.pop(0).strip()
     # signature mark: a number alone at the foot, after a blank line
     if len(lines) > 2 and re.fullmatch(r"\d+", lines[-1].strip()) and not lines[-2].strip():
@@ -262,7 +281,7 @@ def tercets(lines, n, where):
     `[` is the end of the line above, set on a line of its own (`[togle.`)."""
     out = []
     for l in lines:
-        if l.startswith("[") and sum(bool(re.search(WORD, w)) for w in GLOSS.sub("", l).split()) <= 2 and not l.endswith("]") and out:
+        if l.startswith("[") and sum(bool(re.search(WORD, w)) for w in GLOSS.sub("", l).split()) <= 3 and not l.endswith("]") and out:
             out[-1][1][-1] = join_lines([out[-1][1][-1], l[1:]], f"{n:04d}")
             RUNOVER.append(f"{n:04d} {where}: {out[-1][1][-1][-40:]}")
             continue
@@ -393,7 +412,7 @@ def convert_canto(cantica, c, errors):
                 parts.append(f"# {ESSAYS.get(title, title)}")
             elif number is None:
                 parts.append("# " + " ".join(w.capitalize() for w in title.split()))
-            elif title not in (head, f"CAPITULUM {ORDINALS[c - 1]}"):
+            elif title not in (head, f"CAPITULUM {ORDINALS[c - 1]}", MISPRINTED_HEAD.get(n)):
                 errors.append(f"{n:04d}: running head {title!r}")
         bs = blocks(lines)
         if n >= essay:
