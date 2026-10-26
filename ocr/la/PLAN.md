@@ -33,9 +33,11 @@ batch 11 and the front matter written 2026-10-26):
   la-el-agy, la-el-agy2 and la-el-agy3; in batch 11 also 17 pages by la-el-claude; in the
   front matter 0051–0053 and 0065), so no page is left `retype pending` for item 10;
 - **not done**: step 8 (`la_lines.py`, the image checks of rules, line breaks and line
-  ends) and step 11 (`texts/convert_la.py`), which wait for item 10.
+  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batch 4 done**
+  (2026-10-27, `texts/la/031`–`041`: the whole Inferno is converted).
 
-**Next**: item 10 (steps 8 and 11 of batches 4–11 and the front matter).
+**Next**: item 10, steps 8 and 11 of batch 5 (0479–0609), then batches 6–11 and the front
+matter.
 
 "Complete" means, for every page of batches 1–3 (blank pages aside):
 
@@ -960,6 +962,31 @@ In this order (decided with the user, 2026-10-15):
         accent over the `e` (a Latin word) written without it.
       la-el-claude's 17 retypes of batch 11 were checked only by itself (`cmp` with `out/`,
       the scripted checks, the accent check against Tesseract).
+    - **Steps 8 and 11, batch by batch** (from 2026-10-27; `la_lines.py` writes
+      `WORK/lines.txt` over the batch, the hits are looked at in the image and `ocr/la` is
+      edited directly):
+      - **Batch 4** (0349–0478): done, `texts/la/031`–`041`. Step 8: blank lines at 14
+        printed rules (most of the `NO BLANK` and `?` hits were page-end rules or lines
+        matched in the other column: a hit counts only when no blank line follows the line
+        within three lines, looked up by a scratch filter), 44 dots before a lowercase word
+        made commas, run-together or shifted lines rebroken at the printed line ends (0351
+        0416 0418 0424 0429 0444 0456 0475 0476), words lost put back (0412 `; ita unus
+        alchimista appodiatur`, 0471 `per quem ego`), letters (0412 `Ymum`, 0418 `felix`,
+        0426 `Leppo`, 0465 `tunc`), 0423's broken gloss mark `(1)`; page heads: page numbers
+        added on 7 pages whose number had been lost (0368 0425 0434 0436 0450 0457 0459),
+        the blank line after the number on 4, the running head on 0406 and 0416. Step 11
+        found: 0402's running head repeated before the Latin verse (removed, as 0249), 0417's
+        Italian tercet numbers `45`, `46` lost, the hyphen joins `ad per-`/`tenebram` (0469,
+        printed `ad perpetuam`), `peregri-`/`sotii` (0473, `peregrini`), `ani-`/`gentem
+        fascias` (0459, `aliam`/`gentem fasciat`), `actor` for printed `ctor` (0433, after
+        `au-` on 0432), `sequ[en]ti` for printed `sequ[ent]i` (0412), and **blank lines
+        inside a sentence at a column change** (24 pages; a blank line after a line-end
+        hyphen or before a lowercase line), which `la_lines.py` now lists (`# blanks`).
+        The same check over batches 1–3 found 16 more in batch 3 (removed, `texts/la/021`–`027`
+        regenerated) and 0252's left-column end set after the right column (moved).
+        Kept as printed: the gap after `que incipit ibi:` before the quotation on 0362, 0410,
+        0443, 0466 (a section gap, as 0258); `convert_la.py` now takes the printed `3` of
+        0350 (Suspected misprints) without an error.
 
 Also seen: 0848, 0891 and 0999 had backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``); gone since their retyping.
@@ -1146,9 +1173,14 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
    - `# breaks`: a printed line broken in two; join it;
    - `# dots`: make the dot a comma unless it ends an abbreviation (`i.`, `al.`, `GEN.`,
      `Purg.`) or a sentence;
+   - `# blanks`: a blank line inside a sentence, mostly at a column change: remove it
+     (verse blocks ending before the commentary, quotations and page-end signature marks
+     are listed too);
    - also blank lines at quotations (before or after, per the conventions), at column
      changes without a rule, inside essay quotations: look at the pages with indented
-     quotations.
+     quotations;
+   - page heads (number, blank line, running head) and the hyphen joins that `convert_la.py`
+     reports (`HYPHEN`): a join that makes no word often shows a lost or misread word.
 9. **Final checks**: `la_check.py FIRST LAST` (tercets and rule counts; known exceptions:
    0100, 0131, 0165, 0545); page heads (page number, blank line, running head; add missing
    numbers and heads); no `æ`; `—` only in gloss lines; accents as printed; lines over 68
@@ -1264,6 +1296,9 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0827 | 74 | `Oblibanum` | `Olibanum` | The image shows `Obl`; both OCRs read it so. |
 | 1182 | 5 | `57 Nel monte` | `47` | Italian verse; the page before ends at `46`, the Latin column has `47`. |
 | 1281 | 103 | `formas corum` | `eorum` | Commentary; the image shows `c`, and both OCRs read `corum`. |
+| 0389 | 105 | `duxi corum artes` | `eorum` | Commentary; the verse above has `eorum`; the image shows `c`. |
+| 0380 | 77–78 | `expendi-` / `distis` | `expendistis` | Commentary; a syllable repeated over the line break. |
+| 0423 | 15 | `[sn (12) rinverte` | `su` | Italian verse runover; the image shows `sn` (a turned `u`). |
 
 ## The method: two-OCR markup, then image decisions
 
