@@ -33,11 +33,12 @@ batch 11 and the front matter written 2026-10-26):
   la-el-agy, la-el-agy2 and la-el-agy3; in batch 11 also 17 pages by la-el-claude; in the
   front matter 0051–0053 and 0065), so no page is left `retype pending` for item 10;
 - **not done**: step 8 (`la_lines.py`, the image checks of rules, line breaks and line
-  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4 and 5
-  done** (2026-10-27, `texts/la/031`–`053`: the Inferno and Purgatorio I–XI).
+  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4–6
+  done** (2026-10-27, `texts/la/031`–`063`: the Inferno and Purgatorio I–XXI).
 
-**Next**: item 10, steps 8 and 11 of batch 6 (0610–0728), then batches 7–11 and the front
-matter.
+**Next**: item 10, steps 8 and 11 of batch 7 (0729–0846), then batches 8–11 and the front
+matter. Before step 8 of each batch, also run `la_lostcheck.py -n 5` and look at the runs of
+real words (batch 6 found two lost passages that way).
 
 "Complete" means, for every page of batches 1–3 (blank pages aside):
 
@@ -999,6 +1000,20 @@ In this order (decided with the user, 2026-10-15):
         and from the hyphen joins 0533 `vixis-`, `Po-`/`testate`, 0559 `voluntatem`, 0575
         `nigerri-`/`mus`, 0595 `dubi-`/`tavi`. `convert_la.py` reads the tercet in printed
         brackets of 0545 (`[7 Vidi`).
+      - **Batch 6** (0610–0728): done, `texts/la/054`–`063` (cantos XII–XXI). Step 8: text
+        lost in `ocr/la` put back from the scan: 0617's left column of the commentary (22
+        lines, `ternus et doga` … `clinati.`), 0639 six lines (`oriebantur questiones` …
+        `Tangatis de istis annulis quem vultis`), and in batch 5 a line of 0547 (`facere quis
+        se stallat`); found by `la_lostcheck.py -n 5`, keeping the runs of real words (those of
+        Tesseract alone too, which the default report passes over); 32 blank lines inside a
+        sentence removed, blank lines at 0636's rule and after 0706's quotation, 40 dots
+        before a lowercase word made commas, lines rebroken (0616 0633 0662 0728), 0610's
+        broken gloss mark `(3)`. Step 11 found: 0622's commentary run into the Latin verse
+        block (a blank line added), 0655's two-line essay title split by a blank line
+        (joined), and from the hyphen joins 0659 `ad`/`cecos` (no hyphen printed), 0651
+        `so-`/`pite`, 0621 `querebat`. `convert_la.py`: essay titles with a comma (0703),
+        runover lines of three words (0663 `[in sua cura.`, 0696 `[Surge et veni,`), 0710's
+        misprinted running head `PURGATORI`.
 
 Also seen: 0848, 0891 and 0999 had backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``); gone since their retyping.
@@ -1311,6 +1326,8 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0389 | 105 | `duxi corum artes` | `eorum` | Commentary; the verse above has `eorum`; the image shows `c`. |
 | 0380 | 77–78 | `expendi-` / `distis` | `expendistis` | Commentary; a syllable repeated over the line break. |
 | 0423 | 15 | `[sn (12) rinverte` | `su` | Italian verse runover; the image shows `sn` (a turned `u`). |
+| 0710 | 3 | `PURGATORI` | `PURGATORII` | Running head. |
+| 0652 | 75–76 | `Phsi-` / `strato` | `Pisistrato` | Commentary; both OCRs read `Phsi-`. |
 
 ## The method: two-OCR markup, then image decisions
 
