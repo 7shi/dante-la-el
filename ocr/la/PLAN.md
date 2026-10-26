@@ -1021,7 +1021,9 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
    - **B. Pages retyped by la-el-agy** (batch 3: 0276–0347, retypes 19–21). Each page of a
      part is retyped whole from the scan by la-el-agy ("Whole pages" in
      [DELEGATION.md](DELEGATION.md)), and la-el-claude checks the result:
-     1. **Task**: `tmp/herdr-task-retypeNN.md`, made from the previous task. It holds the
+     1. **Task**: `tmp/herdr-task-retypeNN.md`, made from
+        [TEMPLATE-RETYPE.md](TEMPLATE-RETYPE.md) (its comment says what to fill in; add a
+        new kind of error from the last retype to the template too). It holds the
         rules of "Whole pages", the list of pages, the output directory
         `tmp/la-retypeNN/agy/` and the report file `tmp/herdr-report-retypeNN.md`. It
         gives feedback on the previous part's errors, with examples. It forbids

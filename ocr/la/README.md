@@ -14,6 +14,11 @@ Each `.png` has its transcription in the `.txt` with the same name
 See [INDEX.md](INDEX.md) for the structure of the book and the mapping from
 the front matter, cantos, essays, and appendix to page files.
 
+## Retyping
+
+[TEMPLATE-RETYPE.md](TEMPLATE-RETYPE.md) is the template for a task that has a
+delegate agent retype pages from their images.
+
 ## Layout
 
 The book contains the whole *Comedy* (Inferno, Purgatorio, Paradiso). Each
