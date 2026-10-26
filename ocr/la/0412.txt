@@ -1,4 +1,5 @@
 358
+
 INFERNI
 
 13 Così parlammo infin al luogo primo
@@ -53,9 +54,10 @@ quibus coqui et coquinarii utuntur ad decoquendum ali-
 qua sic nobiliter, quod cibus, sicut sunt carnes, ponuntur
 in una tega, et alia postea supraponitur, et sic infra duas
 tegas res dequoquuntur. Ora, sicut una tega alteri appo-
-diatur hic alteri: et omnes isti alchimiste sunt tecti crustis
-lepre et scabie, et habent pruritum insatiabilem ad confricandum,
-et nunquam ces- sant scalpere, sive confricare, et cum ungulis manuum
+diatur; ita unus alchimista appodiatur hic alteri: et omnes
+isti alchimiste sunt tecti crustis lepre et scabie, et habent
+pruritum insatiabilem ad confricandum, et nunquam ces-
+sant scalpere, sive confricare, et cum ungulis manuum
 removent crustas, sive crostas, de carne, sicut removentur
 squame piscium. Allegoria est, quod sicut scabiosi et le-
 prosi corrupti sunt in pexima dispositione humorum, de
@@ -84,7 +86,8 @@ Così parlammo: sic loquuti fuimus usque ad locum pri-
 mum: qui, scilicet locus, scopuli, scilicet sequentis, aliam
 vallem monstrat, si plus luminis fuisset, totum ad ymum;
 idest unde tota alia vallis potuisset videri, si plus luminis
-ibi fuisset; quia ibi erat obscuritas. Ymmum, idest bassum.
+ibi fuisset; quia ibi erat obscuritas. Ymum, idest bassum.
+
 Quando nos fuimus super ultimo claustro Malibolgie,
 ita quod sui conversi poterant apparere visioni nostre,
 idest oculis nostris (loquitur methaphorice, quia sicut in

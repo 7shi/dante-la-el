@@ -82,11 +82,11 @@ quia hoc contingebat propter varietatem ipsorum, non pro-
 pter varietatem motus solis, quia ipsi in parvo spatio tem-
 poris transierunt de emispirio uno ad aliud, scilicet de
 emispirio poli arthici ad emispirium poli anthartici, oppo-
-situm isti: quia in emispirio nostro, antequam transirent.
+situm isti: quia in emispirio nostro, antequam transirent,
 erat circa noctem; ergo ipsis cito transeuntibus centrum
 terre ad aliud emispirium, cito cito fuit eis prope diem.
 Hec est responsio ad secundam questionem, qua quereba-
-tur quomodo in tam parvo spatio sol fecisset traghettum.
+tur quomodo in tam parvo spatio sol fecisset traghettum,
 cursum suum, a sero usque ad mane: non enim sol fecit
 traghettum, sed ipsi fecerunt traghettum quando transie-
 runt centrum terre et iverunt in modico spatio de emispirio
@@ -110,4 +110,4 @@ sed tu es mutatus.
 
 His dictis, nota quod Dantes hic asserit, quod ille homo,
 qui fuit consumptus, idest crucifixus, et qui vixit et natus
-est sine peccato, fuit Iesus Christus. qui assumpsit carnem
+est sine peccato, fuit Iesus Christus, qui assumpsit carnem

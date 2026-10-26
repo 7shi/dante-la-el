@@ -1,5 +1,7 @@
 362
 
+INFERNI
+
 38 Vero è ch'io dissi lui, parlando a giuoco,
 Io mi saprei levar per l'aere a volo.
 E quei, ch'havea vaghezza e senno poco,
@@ -49,7 +51,7 @@ Et Abbagliatum qui suum sensum protulit.
 
 Verum est quod ego ad eum loquendo iocose dixi: Ego
 scirem me levare per aierem ad volandum. Et ille, qui ha-
-bebat voluntatem, scilicet sciendi hoc facere, idest volare.
+bebat voluntatem, scilicet sciendi hoc facere, idest volare,
 et sensum paucum, quia erat parum prudens, voluit quod
 ego monstrarem sibi artem; et solum quia ego illum non
 feci Dedalum, me fecit comburi per talem, qui eum in filium
@@ -78,13 +80,13 @@ omnibus aliis nationibus, et quod nobilius loquuntur. De
 
 moribus relinquo ad presens: sed de loquela scio quod non
 est verum. Certe, lingua gallica est ytalicum idioma cor-
-ruptum: nam Iulius Cesar qui cepit vi armorum Galliam.
+ruptum: nam Iulius Cesar qui cepit vi armorum Galliam,
 quia loquebantur barbarice et inintelligibiliter, coegit eos
-ad loquendum ytalicum idioma; et ideo, quia non potuerunt addiscere
-perfecte idioma ytalicum, loquuntur sicut parvuli
-pueri ytalici. Ut volendo dicere: Si tu non permictis me stare, ego
-percutiam te cum baculo: dicunt: Si vus non mi lassé
-stare, gie ve donaré du baton. Unde si tu vis
+ad loquendum ytalicum idioma; et ideo, quia non potuerunt
+addiscere perfecte idioma ytalicum, loquuntur sicut parvuli
+pueri ytalici. Ut volendo dicere: Si tu non permictis me
+stare, ego percutiam te cum baculo: dicunt: Si vus non
+mi lassé stare, gie ve donaré du baton. Unde si tu vis
 loqui,gallice, loquere more infantium ytalicorum unius vel
 duorum annorum.
 
@@ -92,8 +94,8 @@ Alter leprosus, qui erat hic, fuit magister Capochius
 de Florentia, singularissimi ingenii. Fuit familiaris auctori
 in vita; et in Senarum civitate, propter falsificationem me-
 tallorum, fuit igne crematus. Sed nota quod circa tempus
-auctoris fuerunt in Senis duodecim iuvenes, divites valde, et sic
-remanserant ex ereditate paterna, qui fuerunt valde
+auctoris fuerunt in Senis duodecim iuvenes, divites valde,
+et sic remanserant ex ereditate paterna, qui fuerunt valde
 leves in animo; et volentes acquirere nomen et famam,
 quilibet illorum deposuit viginti millia florenorum, et fe-
 cerunt unam bursiam de istis, quos fatuissime distribue-
