@@ -14,7 +14,11 @@ Each hit is a place to look at in the image, not a correction.
   ending with a hyphen are skipped.
 - dots: a dot followed by a lowercase word (in the line or at the start of the next), the
   commas convention's candidates. Abbreviations (`etc.`, `al.`, `cap.`, `i.`, small-capital
-  references such as `GEN.`) are still listed: skip them by eye."""
+  references such as `GEN.`) are still listed: skip them by eye.
+- blanks: a blank line inside a sentence, most often at a column change, where no blank
+  line goes: after a line-end hyphen, or after a long line that ends without a stop when the
+  next line starts lowercase. A verse block ending before the commentary, a quotation, or a
+  page-end signature mark are also listed: skip them by eye."""
 
 import argparse
 import collections
@@ -101,13 +105,24 @@ def check_dots(page, t):
     return out
 
 
+def check_blanks(page, L):
+    out = []
+    for i in range(1, len(L) - 1):
+        a, b = L[i - 1], L[i + 1]
+        if L[i] or not a or not b or a.startswith("("): continue
+        if re.search(r"[^\W\d_]-$", a) or (len(a) > 45 and not re.search(r"[.?!:;»)\]]$", a)
+                                            and re.match(r"[a-zà-ù]", b)):
+            out.append(f"{page}:{i}\t{a[-40:]:>40} | {b[:40]}")
+    return out
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("first", type=int); ap.add_argument("last", type=int)
     ap.add_argument("-t", "--tessdir", required=True, help="Tesseract's PAGE.tsv files")
     ap.add_argument("-o", "--output", help="write to this file instead of stdout")
     a = ap.parse_args()
-    rules, breaks, dots = [], [], []
+    rules, breaks, dots, blanks = [], [], [], []
     for p in range(a.first, a.last + 1):
         page = f"{p:04}"
         if not (ROOT / f"{page}.txt").exists(): continue
@@ -115,8 +130,8 @@ def main():
         lines = tess_lines(a.tessdir, page)
         if lines and (ROOT / f"{page}.png").exists():
             rules += check_rules(page, L, lines); breaks += check_breaks(page, L, lines)
-        dots += check_dots(page, t)
-    out = ["# rules"] + rules + ["", "# breaks"] + breaks + ["", "# dots"] + dots
+        dots += check_dots(page, t); blanks += check_blanks(page, L)
+    out = ["# rules"] + rules + ["", "# breaks"] + breaks + ["", "# dots"] + dots + ["", "# blanks"] + blanks
     text = "\n".join(out) + "\n"
     if a.output: Path(a.output).write_text(text, encoding="utf-8")
     else: sys.stdout.write(text)
