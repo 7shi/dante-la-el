@@ -1,10 +1,12 @@
+1103
+
 CAPITULUM VICESIMUMQUARTUM
 
 ²⁷ Allora udi' (¹): Se quantunque s'acquista
 Giù per doctrina fusse così inteso,
 Non li haria luogo ingegno di sophysta.
 ²⁸ Così spirò da quello amore acceso;
-Indi subiunxe: Assai ben è transcorsa
+Indi subgiunxe: Assai ben è transcorsa
 D'esta moneta già la legha e 'l peso.
 ²⁹ Ma dimmi se tu l'hai ne la tua borsa.
 Ond'io (²): Sì ho, (³) sì (⁴) lucida e sì tonda,
@@ -23,33 +25,34 @@ Ogni (⁹) demonstration mi par obtusa.
 Proposition (¹²) che così ti conchiude,
 Perche l'hai tu per divina favella?
 
+(¹) udii — (²) risposi — (³) habeo — (⁴) ita — (⁵) m'he in forse — (⁶) veteris Testamenti — (⁷) novi Testamenti — (⁸) carte —
+(⁹) altra — (¹⁰) antiquum — (¹¹) et novum — (¹²) Testamentum.
+
 ²⁷ Tunc audivi: Si quantumcumque acquiritur
 Inferius per doctrinam esset ita intellectum,
-Non haberet ibi locum ingenium sophistæ.
-²⁸ Sic spiravit ab illo amore accenso,
+Non haberet ibi locum ingenium sophiste.
+²⁸ Sic spiravit ab illo amore accenso;
 Inde subiunxit: Satis bene est transcursa
 Istius monete iam liga et pondus.
 ²⁹ Sed dic michi si tu habes illam in tua bursia.
 Unde ego: Ita habeo, sic lucidam et ita rotundam,
 Quod in suo cuneo nihil michi in forsan ponitur.
 ³⁰ Prope hoc exivit de illa luce profunda
-Que ibi spléndebat: Istum carum iocale,
+Que ibi splendebat: Istum carum iocale,
 Super quo omnis virtus fundatur,
 ³¹ Unde tibi venit? Et ego: Larga pluvia
 Spiritus Sancti, que est diffusa
 Super veteribus et novis coriis,
-³² E[s]t syllogismus, qui michi illum conclusit
+³² E[s]t syllogismus, qui michi illam conclusit
 Acute sic, quod respectu illius
 Omnis demonstratio appareret michi obtusa.
 ³³ Ego audivi postea: Antiquam et novellam
 Propositionem que sic tibi concludit,
 Quare habes tu illam pro divina loquela?
 
-(1) audivi (2) respondi (3) habeo (4) ita (5) m'he in forse (6) veteris Testamenti (7) novi Testamenti (8) carte (9) altera (10) antiquum (11) et novum (12) Testamentum.
-
 Tunc audivi: Si quantumcumque acquiritur inferius per
 doctrinam, esset ita in intellectu, idest ita bene intellige-
-retur, non haberet ibi locum ingenium sophistæ.
+retur, non haberet ibi locum ingenium sophiste.
 
 Sic spiravit ab illo amore accenso, idest sic fuit dictum;
 inde subiunxit, scilicet Sanctus Petrus: Satis bene est
@@ -73,26 +76,26 @@ ego, scilicet respondens, dixi: Ita habeo, ita lucidam et ita
 rotundam, quod in suo cuneo nihil michi in forsan ponitur,
 idest nullo modo de ipsa dubito, imo sum certus.
 
-Prope hoc exivit de illa luce profunda, que ibi spléndebat:
-Istum carum iocale, scilicet fides, super qua omnis virtus
-fundatur. quia sub fide fundatur omnis virtus: nam sine
+Prope hoc exivit de illa luce profunda, que ibi splendebat:
+Istud carum iocale, scilicet fides, super qua omnis virtus
+fundatur, quia sub fide fundatur omnis virtus: nam sine
 fide nemo potest Deo placere (ad Hebreos undecimo); nulla
 virtus proficit sine fide. Et subiunxit Sanctus Petrus: Unde
 tibi venit, idest unde habuisti fidem istam? Et ego, supple
-dixi: Larga pluvia Spiritus Sancti. que est diffusa super
+dixi: Larga pluvia Spiritus Sancti, que est diffusa super
 veteribus et super novis coriis, idest super veteri et novo
 Testamento, quam pluviam, scilicet Sacram Scripturam,
-diximus, quam potui, diffusam in diversis partibus
-Biblie (coriis, idest cartis). E[s]t syllogismus, qui michi
-illam, scilicet fidem, conclusit acute, idest fixe, ita quod
-respectu illius omnis demonstratio, scilicet appareret clara,
-idest: ita perfecte credo, quod omnis res que demonstratur
-per rationem naturalem plus e[s]t clara, michi videtur ob-
+didici, sicut melius potui, diffusam in diversis partibus
+Biblie (coriis, idest cartis), e[s]t syllogismus, qui michi
+illam, scilicet fidem, concludit acute, idest fixe, ita quod
+respectu illius omnis demonstratio michi apparet obtusa.
+Idest: ita perfecte credo, quod omnis res que demonstratur
+per rationem naturalem plus c[l]ara, michi videtur ob-
 scura, respectu firmitatis huius fidei.
 
 Ego audivi postea, scilicet ab illo spiritu: Antiquam et
 novam propositionem, que sic tibi concludit, quare habes
-tu illam pro divina loquela? idest: quomodo scis tu quod
+tu illam pro divina loquela? idest, quomodo scis tu quod
 illa Scriptura sit Scriptura Spiritus Sancti? Idest, unde
 habes quod sit doctrina Dei et non sit una fictio? Grandis
 pluvia Spiritus Sancti est Testamentum antiquum; minor

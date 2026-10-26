@@ -1,9 +1,11 @@
-1040 PARADISI
+1040
 
-Ben puo' tu dire: Io ho fermo 'l desiro
+PARADISI
+
+⁴⁵ Ben puo'tu dire: Io ho fermo 'l desiro
 Sì a colui che volle viver solo,
 E che per salti (¹) fu tracto al martiro,
-Ch' io non cognosco el Pescatore(²) nè Polo (³).
+Ch'io non cognosco el Pescator (²) nè Polo (³).
 
 (¹) balli d'Herodiade — (²) Pietro — (³) Paolo.
 
@@ -24,7 +26,7 @@ tractus fuit ad martyrium (quia puelle saltanti Herodes
 dedit caput Ioannis Baptiste in disco, ita quod propter
 saltus puelle fuit martyrizzatus), quod ego non cognosco
 Piscatorem, idest Sanctum Petrum, nec Sanctum Paulum.
-Idest: tantum intendo ad florenum et ad avaritiam, quod
+Idest: tantum actendo ad florenum et ad avaritiam, quod
 non cogito, nedum de principibus Apostolorum, sed nec
 etiam de Deo, quia tota intentio mea est ad avaritiam et
 ad res mundanas.

@@ -1,12 +1,14 @@
 1104
 
+PARADISI
+
 ³⁴ Et io: (¹) La prova, che 'l ver mi dischiude,
 Son l'opere seguite (²), a che (³) natura
 Non scalda ferro mai, nè batte ancude.
-³⁵ Rispostò fummi: Dì (⁴), chi t'assicura
+³⁵ Risposto fummi: Di' (⁴), chi t'assicura
 Che quell'opere fosser? (⁵) Quel medesmo
 Che vuol provarsi, non altri, tel giura.
-³⁶ Se 'l mondo si rivolse al Chyrstianesmo,
+³⁶ Se 'l mondo si rivolse al Chrystianesmo,
 Diss'io, senza miracoli, quest'uno
 È tal, che gl'altri non son el centesmo;
 ³⁷ Chè tu entrasti povero e digiuno
@@ -21,16 +23,14 @@ Che all'ultime fronde appressavamo,
 
 (¹) risposi — (²) e miracoli — (³) a le quali opere — (⁴) dicas — (⁵) facte e vere — (⁶) te Deum laudamus.
 
-PARADISI
-
-³⁴ Et ego. Probatio, que michi verum dissolvit,
+³⁴ Et ego: Probatio, que michi verum dissolvit,
 Sunt opera sequuta, ad que natura non
 Calefecit ferrum unquam, nec percussit incudem.
 ³⁵ Responsum fuit michi: Dic, quid te securat
-Quod ille opera essent illud idem
+Quod illa opera essent illud idem
 Quod probat illud, si alius tibi non iuret.
 ³⁶ Si mundus convertit se ad Christianismum,
-Dixit ego, sine miraculis, hoc est unum
+Dixi ego, sine miraculis, hoc est unum
 Et tale, quod alia non sunt centesimum;
 ³⁷ Quia tu intrasti pauper et ieiunus
 In campum, ad seminandum bonam plantam,
@@ -38,19 +38,19 @@ Que fuit iam vitis, et nunc est facta dumus.
 ³⁸ Finito hoc, alta curia et sancta
 Resonuit per speras: Unum Deum laudamus,
 In melodia que ibi superius laudatur.
-³⁹ Et ille Baro, qui sic de ramo in ramum,
+³⁹ Et ille Baro qui sic de ramo in ramum,
 Examinando, iam traxerat me,
 Quod ultimis frondibus appropinquabamus,
 
 Et ego, scilicet, dixi: Probatio, que michi verum dissolvit,
 idest discooperit, sunt opera sequuta, ad que natura non
 calefecit ferrum unquam, nec percussit incudinem. Ista sunt
-opera, que natura nullo modo per se possent facere, sicut
+opera, que natura nullo modo per se posset facere, sicut
 suscitare mortuos et illuminare cecos, etc. Metaphora bona
-est, scilicet, quod natura non calefacit ferrum, nec percutit
+est, scilicet quod natura non calefacit ferrum, nec percutit
 incudinem, idest non operatur nec posset talia operari.
 
-Responsum michi fuit: D:c, quid te securat, quod illa
+Responsum michi fuit: Dic, quid te securat quod illa
 opera essent illud idem, quod probat illud, si alius tibi
 non iuret? Replicavit hic Sanctus Petrus, sicut cotidie fit.
 Vidisti unquam aliquem cecum illuminari, aut mortuum
@@ -68,14 +68,13 @@ fuerit, seu esse poterit, seu posset: omnia mira simul
 sumpta non equarentur solo huic. Nota quod meo videre
 tres sunt secte principales: Hebraica, Machometi et Chri-
 stiana. Inquiramus, secundum scripturas earumdem, que
-quid nimirum Machometi? Non certe,
-quia pessime fundata, quoniam multa
+est laudabilior aliis. Numquid secta Machometi? Non certe,
+quia pexime fundata, quoniam multa turpia, inhonesta et
 inconvenientia in ipsa reperiuntur. Evangelica nihil male,
-nihil turpe, nihil inhonestum precipiunt nec permictit. Lex
+nihil turpe, nihil inhonestum precipit nec permictit. Lex
 Machometi concedit tot uxores et multa delectabilia et
 consona sensualitati; ideo multum ampliata est et habet
-
-longam caudam. De Hebræa dicemus quid? nam melius
+longam caudam. De Hebrea dicemus quid? nam melius
 esset esse canem, quam esse Iudeum. Nam Plinius, magnus
 philosophus, scribens Traiano Imperatori, qui inducebat
 eum ut prosterneret ecclesias Christianorum, respondet
@@ -83,15 +82,15 @@ quod nihil invenit in eis nisi sanctum et bonum, et per
 hoc revocavit eum a malo proposito. Quere que gentes
 in toto mundo sunt et fuerunt valentiores. Certe fue-
 runt Greci et Latini, in moribus, in armis, et in sapientia
-excellentis; et tamen in istis crevit, fuit et est fides
-Christiana: sed perdita est in illis gentibus, que semper
+et in scientiis; et tamen in istis crevit, fuit et est fides
+christiana: sed perdita est in illis gentibus, que semper
 fuerunt viles et tristes, sicut ille de Arabia, India, Egipto,
 de quibus omnes illustres viri pagani trufantur. Inspi-
 ciantur Iuvenalis, Seneca, etc.
 
 Quia tu intrasti pauper in campum ad seminandum bo-
 nam plantam, que fuit iam vitis, et nunc est facta dumus.
-Quasi dicat: Tu, Petre, non violenter, sive violenter,
+Quasi dicat: Tu, Petre, non violentanter, sive violenter,
 vel fraudolenter, potuisti facere illam fidem, que est fer-
 tilis vitis, licet sit lambrusca, idest silvestris vitis, propter
 defectum modernorum pastorum.
@@ -106,4 +105,4 @@ cebat: Unum Deum laudamus; in melodia que ibi superius
 laudatur.
 
 Et ille Baro, qui sic de ramo in ramum, idest de passu
-in passum, sive de parte in partem, examinando. iam
+in passum, sive de parte in partem, examinando, iam
