@@ -1,4 +1,5 @@
 484
+
 PURGATORII
 
 23 Ond'io, che, solo, innanzi agl'altri parlo,
@@ -70,7 +71,6 @@ et, sicut dicit Titus Livius, iste Anthenor de Troya venit,
 navigando, ad montes Padue in Ytaliam, cum gente que
 fuit regis Philomene, eversa Troya. Montes paduani tunc
 dicebantur montes Euganei, et homines ibi habitantes, Eu-
-
 ganei; et erat ibi de propinquo una villa, dicta Engeganea,
 que in presenti dicitur Brugine, et ibi incepit edificare
 Anthenor. Tandem edificavit unam civitatem, quam vo-
