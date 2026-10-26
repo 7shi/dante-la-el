@@ -78,9 +78,9 @@ what was fixed) are in [PLAN.md](PLAN.md) ("Record of the preparation" and "Rema
 - **Apostrophe gaps**: a space after an apostrophe (or before `'l`, `'n`) only where the
   gap is as wide as the space between two words; the small white the apostrophe itself
   leaves is no space. Decide each one by itself.
-- Tercet numbers in superscript digits and a space (`¹⁶ Onde …`), on the first line of each
-  tercet; gloss marks `(¹)` with a space before (and after, if a word follows), always with
-  both brackets even where the print lost one.
+- Tercet numbers in plain digits and a space (`16 Onde …`), on the first line of each
+  tercet; gloss marks `(1)` in plain digits with a space before (and after, if a word
+  follows), always with both brackets even where the print lost one.
 - A runover word (`[` at the right end of the column, the end of a too long line) goes on
   its own line, right after the line it continues; an inline bracket (`par[t]eggiando`)
   stays in the line.
@@ -98,7 +98,7 @@ commentary and the edge of the other column; a line cut by the crop is read in
 spelling rule and has no gloss marks.
 
 **Gloss lines** (a band cut from the last verse lines into the commentary, full width):
-one file line per printed line, from the first `(¹)` to the last before the
+one file line per printed line, from the first `(1)` to the last before the
 rule, broken where the print breaks them; ` — ` (em dash, a space each side) between
 glosses, also where it is printed short or broken, but only where one is printed. The
 numbers (`3`/`5`/`8`/`6` look alike) are read one by one and written as printed even out of
@@ -158,7 +158,7 @@ with examples:
   rule was stressed, none where printed.
 - **Form**: indented paragraphs; rules written as `—`; the page head on one line; `--`
   for the gloss dash; tercet numbers left out of a whole page (0755); a runover word kept
-  inline; no space before `(¹)`.
+  inline; no space before `(1)`.
 - **Reports that do not match the files**: readings claimed that are not in the file,
   glosses and rule counts reported unlike the files. Only the files count.
 - Specks read as accents or diaeresis (`nòi`, `dùbitar`, `radiïs`), ligature `fi` read as

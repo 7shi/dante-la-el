@@ -25,19 +25,17 @@ open item. The conventions and rules below are settled: apply them, do not ask a
 batch 11 and the front matter written 2026-10-26):
 
 - steps 5–7 and the scripted checks of step 9 done over every page of `tmp/la-mark7`;
-  `la_check.py`, `la_seqcheck.py` and `la_lostcheck.py` over 0001–0078 and 0233–1296 give
-  no hits but the known exceptions (Suspected misprints, the printed brackets of
-  0016–0019, 0021, 0022, 0035, 0545 and 0861, 1293's barcode, the plain footnote marks
-  `(1)` of 1274 and 1282, Tesseract's noise and figure labels);
+  tercet numbers and gloss marks converted to plain digits across all pages (Remaining work,
+  item 9); `la_check.py`, `la_seqcheck.py` and `la_lostcheck.py` over 0001–1296 give no hits
+  but the known exceptions (Suspected misprints, the printed brackets of 0545 and 0861,
+  1293's barcode, Tesseract's noise and figure labels);
 - the broken pages retyped from the scan as each batch went (retypes 19–58, mostly
   la-el-agy, la-el-agy2 and la-el-agy3; in batch 11 also 17 pages by la-el-claude; in the
   front matter 0051–0053 and 0065), so no page is left `retype pending` for item 10;
 - **not done**: step 8 (`la_lines.py`, the image checks of rules, line breaks and line
   ends) and step 11 (`texts/convert_la.py`), which wait for item 10.
 
-**Next**: item 9 (plain digits for tercet numbers and gloss marks, by a script over all
-pages, now that every page of `tmp/la-mark7` is written), then item 10 (steps 8 and 11 of
-batches 4–11 and the front matter).
+**Next**: item 10 (steps 8 and 11 of batches 4–11 and the front matter).
 
 "Complete" means, for every page of batches 1–3 (blank pages aside):
 
@@ -761,6 +759,12 @@ In this order (decided with the user, 2026-10-15):
    blocks were looked at, 2026-10-24): they are verse lines, a barcode (1293), and page
    heads run into the page number, to put on two lines in their batches (0070
    `16 PREAMBULA`, 0496 `442 PURGATORII`, 0636, 0802, 0818, 1094, 1156, 1268).
+   - **Done** (2026-10-26): converted across all pages of `ocr/la` (897 pages changed), with
+     six fixes found by the updated checks (0427's runover `[stat:` misread as `¹⁰`,
+     0446's Latin tercet `15` and 1170's Italian tercet `38` added from the image, 0490's
+     and 0506's `PURGATORII` moved to the page head, 0794's double space); `la_seqcheck.py`,
+     DELEGATION.md, TEMPLATE-RETYPE.md and the conventions updated. `la_seqcheck.py 1 1296`
+     reports only the printed exceptions (`0099`, `0350`, `0545`, `0758`, `0810`, `1182`).
 10. **Pages to retype** (after item 9, so that the retyped pages use plain digits): the
     pages left `retype pending` in item 8 and those `la_lostcheck.py` lists, retyped from
     the scan (by la-el-agy, way B, or by la-el-claude), checked against both OCRs and
@@ -1027,8 +1031,8 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
      only GLM-OCR has are checked in the image and inserted as `text: word` or
      `text:⏎word`; check afterwards that an inserted word did not land on a line of its own
      (0084 `secundum`, `in vere`, `magis aliis`).
-   - small capitals in uppercase, superscript tercet numbers, broken words joined on essay
-     pages: the conventions below, whatever the model says.
+   - small capitals in uppercase, plain-digit tercet numbers and gloss marks, broken words
+     joined on essay pages: the conventions below, whatever the model says.
 
    **Two ways of doing step 6**, both used on batch 3. Choose one with the user at the
    start of each batch. The work goes in parts of about 20–25 pages, with a report to the
@@ -1180,8 +1184,8 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
   0102, 0150, 0161, 0171, 0196, 0206) stay so, with broken words joined (no `del- l'`); a
   paragraph broken by a column change keeps the break (0102 `mo-`, 0171 `per-`).
 - **Small capitals**: in uppercase (`EXPOSITIO LIBRI`, `IOHAN.`), as in ocr/en.
-- **Tercet numbers**: superscript, as printed; where the print has none (0099), none is
-  added.
+- **Tercet numbers**: plain digits (`1`, `2`, …), as printed; where the print has none
+  (0099), none is added.
 - **Brackets**: printed brackets stay as printed (`stet[era]t`, `qu[em]libet`). A runover
   verse word goes on its own line starting with `[`.
 - **Punctuation**: no space before `:` or `;`. Apostrophe spacing as in the file. No accents
@@ -1210,8 +1214,8 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
   - page-end rules: 0097, 0099, 0107 (right column, after `scilicet,`), 0110 (right,
     after `influentia.`), 0121 (right, after `invicem.`): not written (no blank, no `—`;
     0225's `—` line dropped).
-- **Gloss line `(¹) …`**: under the Italian block or under the Latin block (11+ pages have
-  it under the Latin block); `convert_la.py` must accept both.
+- **Gloss line `(1) …`**: in plain digits, under the Italian block or under the Latin block
+  (11+ pages have it under the Latin block); `convert_la.py` must accept both.
 - **Curly `’`**: left in `ocr/la`, normalized by `convert_la.py`.
 - **Figures**: a line `[figure]` where the figure stands, then each printed label on a
   line of its own (column after column, top to bottom), a blank line after; headings
@@ -1226,7 +1230,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | Page | Line | Printed | Expected | Note |
 |------|------|---------|----------|------|
 | 0113 | 62 | `Ledit ventum:` | `Dedit ventum:` | Lemma of the Latin verse `Terra lacrymosa dedit ventum`; the image shows an `L`, and GLM-OCR reads `Ledit` too. |
-| 0099 | 11, 14 | (no number) | `³²`, `³³` | The Italian tercets 32 and 33 have no number; the Latin column has `³²` and `³³`. |
+| 0099 | 11, 14 | (no number) | `32`, `33` | The Italian tercets 32 and 33 have no number; the Latin column has `32` and `33`. |
 | 0127 | 41, 82, 89 | `umanita`, `piu`, `finalita` | `umanità`, `più`, `finalità` | No accent visible in the scan, while other accents on the page (`è`, `poichè`) are clear. The file has the accents. |
 | 0133 | 53 | `de quibus nora tu vis scire` | `nova` | Italic lemma; the image shows `nora`; the Latin verse has `nova`. |
 | 0142 | 72 | `et regola et qualitas` | `regula` | Italic lemma; the image shows `regola` (the Italian form); the Latin verse has `Regula`. |
@@ -1253,11 +1257,12 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0976 | 14 | `Cimisa fui chiamata` | `Cunisa` | Italian verse; an `i` dot right after `C` and five stems before `s` (Tesseract `Cimisa`, GLM-OCR `Cinisa`); the commentary has `Cunizza`. |
 | 1042 | 11 | `Agl' ochi mici,` | `miei` | Italian verse; a clear `c` (GLM-OCR `mici` too). |
 | 1053 | 23 | `s'àdempia` | `s'adempia` | Italian verse; a grave accent over the `a` (Tesseract `s'àdempia`). |
-| 0758 | 17 | `³⁷ Poi si partì` | `³⁸` | Italian verse; the tercet before is `³⁷` too, the Latin column has `³⁸`. |
-| 0810 | 51 | `⁴⁵ Dabo tibi` | `⁴⁶` | Latin verse; the tercet before is `⁴⁵` too, the Italian column has `⁴⁶`. |
+| 0350 | 6 | `3 Quando la brina` | `2` | Italian verse; the first tercet is `1`, the Latin column has `2`. |
+| 0758 | 17 | `37 Poi si partì` | `38` | Italian verse; the tercet before is `37` too, the Latin column has `38`. |
+| 0810 | 51 | `45 Dabo tibi` | `46` | Latin verse; the tercet before is `45` too, the Italian column has `46`. |
 | 0810 | 105 | `etatem anri` | `auri` | A turned `u` (the verse has `Etatem auri`). |
 | 0827 | 74 | `Oblibanum` | `Olibanum` | The image shows `Obl`; both OCRs read it so. |
-| 1182 | 5 | `⁵⁷ Nel monte` | `⁴⁷` | Italian verse; the page before ends at `⁴⁶`, the Latin column has `⁴⁷`. |
+| 1182 | 5 | `57 Nel monte` | `47` | Italian verse; the page before ends at `46`, the Latin column has `47`. |
 | 1281 | 103 | `formas corum` | `eorum` | Commentary; the image shows `c`, and both OCRs read `corum`. |
 
 ## The method: two-OCR markup, then image decisions

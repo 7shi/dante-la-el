@@ -35,7 +35,6 @@ write only what the image shows. Notes per page:
   ibi:`) are followed by one blank line, with none before them.
 - PAGE: a title page: an ornamental band at the top (not written), then the title lines,
   each followed by one blank line, then the text.
-- PAGE: the tercet numbers may look like plain digits: write them in superscript.
 - PAGE: no blank line between tercets, although the print may space them.
 - PAGE: the canto ends on this page; an ornament at the end is not written.
 - PAGE: a word printed in an ornament (`FINIS`): a blank line, then the word; the ornament
@@ -81,7 +80,7 @@ the image.
 - Printed tercet numbers deleted (Italian or Latin verse), or a signature mark at the foot
   deleted. Every tercet of the verse has its number: count them.
 - Blank lines put between all the tercets of a page.
-- A gloss mark written tight to its word: `(¹)` always has a space before it.
+- A gloss mark written tight to its word: `(1)` always has a space before it.
 
 Reminders: check the first and last line of every column and at every crop boundary; no
 indentation; no blank line between tercets; enlarge every mark at a word's end; copy letters
@@ -101,15 +100,15 @@ Retype pages **PAGES** from their images alone, one page at a time.
 
 INFERNI
 
-⁷ Guardar l'un l'altro sotto nuova luna;
+7 Guardar l'un l'altro sotto nuova luna;
 E sì ver noi aguzzavan le cigla,
-Come 'l vechio sartor fa ne la cruna (¹).
-⁸ Sì adochiato da cotal famigla,
+Come 'l vechio sartor fa ne la cruna (1).
+8 Sì adochiato da cotal famigla,
 …
 
-(¹) dell'ago. — (²) del vestimento. — (³) o.
+(1) dell'ago. — (2) del vestimento. — (3) o.
 
-⁷ Respicere unus alium sub nova luna;
+7 Respicere unus alium sub nova luna;
 Et ita versus nos acuebant supercilia,
 …
 
@@ -161,10 +160,10 @@ zodiaci, cuius amplitudo extenditur duodecim gradibus, ita
 - **Apostrophe gaps**: a space after an apostrophe (or before `'l`, `'n`) only where the
   gap is as wide as the space between two words; the small white the apostrophe itself
   leaves is no space. Decide each one by itself.
-- Tercet numbers in superscript digits and a space (`¹⁶ Onde …`), on the first line of each
-  tercet, as printed (also in the Latin verse); gloss marks `(¹)` with a space before (and
-  after, if a word follows), always with both brackets. The gloss lines: ` — ` (em dash, a
-  space each side) between glosses, only where printed; never `--`.
+- Tercet numbers in plain digits and a space (`16 Onde …`), on the first line of each
+  tercet, as printed (also in the Latin verse); gloss marks `(1)` in plain digits with a
+  space before (and after, if a word follows), always with both brackets. The gloss lines:
+  ` — ` (em dash, a space each side) between glosses, only where printed; never `--`.
 - A runover word (`[` at the right end of the column, the end of a too long verse line)
   goes on its own line, right after the line it continues; an inline bracket
   (`par[t]eggiando`) stays in the line.
