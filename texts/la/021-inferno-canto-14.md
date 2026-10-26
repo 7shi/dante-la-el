@@ -50,9 +50,7 @@ Ora mi vien; Or veni post me, ponit subtiliter originem omnium fluminum infernal
 
 E io a lui: Se'l presente; Et ego illi, movet duo parva dubia Virgilio, circa premissa.
 
-Redeundo ad primum, auctor continuat finem capituli precedentis cum principio istius, dicens: Ex quo dominus Lottus de Alliis rogavit me, ut ego recolligerem membra
-
-sua dispersa, quia ipse erat de Florentia, sicut ego sum, volui facere quod ipse me rogavit, et feci.
+Redeundo ad primum, auctor continuat finem capituli precedentis cum principio istius, dicens: Ex quo dominus Lottus de Alliis rogavit me, ut ego recolligerem membra sua dispersa, quia ipse erat de Florentia, sicut ego sum, volui facere quod ipse me rogavit, et feci.
 
 Dicit igitur: Postquam caritas nativi loci strinxit me: idest ad colligendum membra domini Lotti, et readunavi frondes, idest membra dispersa, et reddidi ea sibi, qui erat iam fioco, idest raucus propter clamorem, hoc feci ex compaxione nativi loci.
 
@@ -442,9 +440,7 @@ Rea, sive Berecintia, la scelse: idest elegit: pro cuna: idest cunabulis: fida, 
 
 Dentro: intus, in monte, stat unus grandis, idest magnus, reglius, idest antiquus, qui vertit terga, le spalle, versus Damiatam (est una civitas in Egipto), et Romam respicit sicut suum speglium, idest speculum.
 
-Nota quod Damiata est una civitas in Egipto, in qua fuit lapidatus Yeronimus propheta. Iterum nota, quod, hoc dato, quod unus homo esset in illa silva et in illa montanea, que vocatur Yda, si verteret spatulas et renes versus Damiatam, facies eius staret versus Romam. Modo depingit hunc antiquum ad instar statue, quam sompniavit Nabuchodonosor, Danielis secundo capitulo, tali modo. Testa sua: idest caput suum, est fini, idest optimi auri: formata de puro argento sunt brachia, et pectus demum de rame usque ad furcata, idest ad tybias; inde deorsum est totum ferrum electum, excepto pede dextro, qui est de terra cocta; et stat super illum plusquam in alio erectus: quelibet pars, excepta aurea, est rupta, idest fixa: de una fixura, idest scissura, que lacrymas stillat: que accolte, idest adunate, forant, idest scindunt, illam gruptam. Cursus in hanc vallem se dirocciat, idest diruit: efficiunt Stygem, Acherontam et Flegetontam. Demum fluit deorsum per istam strictam docciam, idest fluentiam, vel iter, vel cursum, usque quo plus non descenditur, idest usque ad cen-
-
-trum; quia ultra centrum non est descensus. Facit Cochitum, qui fiet illud stagnum, quod tu videbis, et ideo hic non narratur.
+Nota quod Damiata est una civitas in Egipto, in qua fuit lapidatus Yeronimus propheta. Iterum nota, quod, hoc dato, quod unus homo esset in illa silva et in illa montanea, que vocatur Yda, si verteret spatulas et renes versus Damiatam, facies eius staret versus Romam. Modo depingit hunc antiquum ad instar statue, quam sompniavit Nabuchodonosor, Danielis secundo capitulo, tali modo. Testa sua: idest caput suum, est fini, idest optimi auri: formata de puro argento sunt brachia, et pectus demum de rame usque ad furcata, idest ad tybias; inde deorsum est totum ferrum electum, excepto pede dextro, qui est de terra cocta; et stat super illum plusquam in alio erectus: quelibet pars, excepta aurea, est rupta, idest fixa: de una fixura, idest scissura, que lacrymas stillat: que accolte, idest adunate, forant, idest scindunt, illam gruptam. Cursus in hanc vallem se dirocciat, idest diruit: efficiunt Stygem, Acherontam et Flegetontam. Demum fluit deorsum per istam strictam docciam, idest fluentiam, vel iter, vel cursum, usque quo plus non descenditur, idest usque ad centrum; quia ultra centrum non est descensus. Facit Cochitum, qui fiet illud stagnum, quod tu videbis, et ideo hic non narratur.
 
 Hic notanda sunt multa. Primo, quod iste antiquus, de quo loquitur auctor, est proprie illa statua, de qua sompniavit Nabuchodonosor, per quam statuam Deus voluit revelare decursum mundi presentis per figuram, sive statuam, unius hominis. Et merito; quia solum propter hominem mundus sic fluit.
 
