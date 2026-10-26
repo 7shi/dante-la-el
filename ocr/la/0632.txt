@@ -45,7 +45,6 @@ Poi fummo fatti soli,
 auctor, rediens ad principalem materiam invidie, ostendit
 frenum, quo refrenari debet et potest vitium invidie.
 Primo ergo auctor continuat dicta dicendis, dicens verba,
-
 que dicebat dominus Guido de[l] Duca de Bertenorio, sci-
 licet hec: Quis est iste, qui nostrum montem circuit, idest
 circumeundo perambulat, priusquam mors dederit sibi
@@ -58,8 +57,8 @@ invidi; nam auctor [de] se dicit quod fuit parum invidus.
 
 Modo isti Guidoni predicto respondet Raynerius de Cal-
 boli, dicens: Nescio qui sit; sed scio quod non est solus:
-interroga illum, tu qui vicinior es, idest propinquior, sibi.
-et dulciter ita, quod loquaris ad colum. vel colo. Isti duo
+interroga illum, tu qui vicinior es, idest propinquior, sibi,
+et dulciter ita, quod loquaris ad colum, vel colo. Isti duo
 spiritus notaverunt auctorem supra cum spiritu domine
 Sapie, et audierant quomodo auctor erat vivus et habebat
 oculos apertos; ideo dixit unus, quod non est solus. De isto
@@ -67,7 +66,7 @@ termino colo, dicunt aliqui quod auctor loquitur de colo
 prout est unus punctus. Nota quod ponuntur ista puncta.
 Coma, significans sententiam suspensam, sic dicendo: Si
 veneris ad me. Colus, significans sententiam perfectam, ut
-hic: Si veneris ad me. dabo tibi equum. Ponitur perio-
+hic: Si veneris ad me, dabo tibi equum. Ponitur perio-
 dus, significans clausulam claudendam, etc. [Quasi] velit
 dicere: Loquere ad colum; idest taliter ipse loquatur, quod
 sua sententia non sit suspensiva, sed perfecta. Sed non

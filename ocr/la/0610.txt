@@ -11,7 +11,7 @@ Quantunque può ciascun, pinger suo
 Co' la persona(2),avvegna ch'e pensieri(3)
 Mi rimanesseno inchinati e scemi.
 
-(1) de Oderisi. — (2) col corpo — (3. l'animo.
+(1) de Oderisi. — (2) col corpo — (3) l'animo.
 
 1 De pari, sicut boves qui vadunt ad iugum,
 Ibam ego cum illa anima onerata,
@@ -34,7 +34,7 @@ In secunda, que incipit:
 Vidi illum qui fuit nobilis creatus:
 Vidi colui che fu nobile creato,
 inducit sub brevitate multa exempla, ostendendo mirabiles
-effectus secutos ex superbia et vanagloria. et ille est opti-
+effectus secutos ex superbia et vanagloria, et ille est opti-
 mus modus refrenandi huius vitium.
 In tertia, que incipit ibi:
 Plus erat iam de monte;
@@ -43,16 +43,15 @@ auctor ostendit quomodo fuit purgatus a vitio superbie.
 In quarta parte, que incipit ibi:
 Sicut ad manum dexteram;
 Come a man destra,
-auctor describit ascensum suum in secundum circulum. in
+auctor describit ascensum suum in secundum circulum, in
 quo purgatur vitium invidie.
 Quantum ad primam partem auctor continuat dicta di-
-
 cendis. Nam superius, loquens cum Oderisio, miniatore,
 oportebat eum ire inclinatum propter posse loqui cum
 ipso Oderisio, qui propter pondus valde grave ibat valde
 versus terram inclinatus, et tantum inclinatus ibat Dantes,
 ita quod duo ibant pariter inclinati sicut boves sub iugo.
-De pari, idest pares, sicut boves, qui vadunt ad iugum.
+De pari, idest pares, sicut boves, qui vadunt ad iugum,
 ibam ego cum illa anima onerata, quousque sustulit, idest
 permisit, dulcis pedagogus, idest magister meus Virgilius.
 Pedagogus proprie est magister pueri, docens ipsum tam
@@ -65,7 +64,7 @@ non plus vadas ita inclinatus, loquens cum eo, et transiens,
 quia hic est bonum cum velo et cum remis, quantumcumque
 potest, quilibet impellat suam barcham (loquitur auctor
 methaphorice: sicut nauclerus, sive gubernator, barche,
-quando est in aliquo periculo. cum omnibus instrumentis,
+quando est in aliquo periculo, cum omnibus instrumentis,
 cum velo, cum remis, se iuvat; sic volebat Virgilius omni
 modo velociter. Bonam similitudinem posuit auctor di-
 cendo, quod ibant Oderisius et auctor pares sicut boves:

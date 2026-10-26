@@ -69,7 +69,6 @@ et omnium philosophorum bene sentientium. Unde hic est
 aliquantulum insistendum.
 Nota quod aliqua eveniunt in mundo de necessitate, que
 non possunt, iuxta opinionem philosophorum, impediri, sci-
-
 licet que habent predeterminatam causam, sicut sunt solis
 et lune versiones, sive revolutiones; et ita evenerunt semper
 et de necessitate. Aliqua non semper, sed frequenter, eve-
@@ -100,8 +99,8 @@ miatque benefactores, si celum violentaret homines ad
 bene faciendum vel male faciendum? Certe ad nihilum
 esset iustitia. Proterva est igitur illa opinio, que ponit
 celum disponere omnia inferiora de necessitate. Notandum
-est quod aliqui sunt motus in nobis, qui dicuntur primi, aliqui secundi.
-Primi dicuntur non esse in potestate nostra,
+est quod aliqui sunt motus in nobis, qui dicuntur primi,
+aliqui secundi. Primi dicuntur non esse in potestate nostra,
 quia proveniunt naturaliter: sicut, si primo videns magna
 pericula, serpentes, leones et horribilia, si talia michi di-
 splicent, hoc est naturaliter, nec est, [in] vidente talia pri-
