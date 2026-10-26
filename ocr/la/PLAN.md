@@ -20,27 +20,28 @@ open item. The conventions and rules below are settled: apply them, do not ask a
 **Batches 1–3 (`0079`–`0348`, Inferno I–XXIII) are complete** and converted into
 `texts/la/008`–`030` (batch 3: Remaining work, item 8).
 
-**Batches 4–10 (`0349`–`1184`, Inferno XXIV to Paradiso XXVI) are written** to `ocr/la`
-from the mark decisions (Remaining work, item 8; batch 9 in commits `12fa3b8`, `8b62462`,
-batch 10 written 2026-10-26):
+**Batches 4–11 (`0349`–`1296`, Inferno XXIV to the end of the book) are written** to
+`ocr/la` from the mark decisions (Remaining work, item 8; batch 11 written 2026-10-26):
 
 - steps 5–7 and the scripted checks of step 9 done; `la_check.py`, `la_seqcheck.py` and
-  `la_lostcheck.py` over 0233–1184 give no hits but the known exceptions (Suspected
-  misprints, the printed brackets of 0545 and 0861);
-- the broken pages retyped from the scan by way B as each batch went (retypes 19–54,
-  mostly la-el-agy, la-el-agy2 and la-el-agy3; from batch 10 la-el-agy alone), so no
-  page of these batches is left `retype pending` for item 10;
+  `la_lostcheck.py` over 0233–1296 give no hits but the known exceptions (Suspected
+  misprints, the printed brackets of 0545 and 0861, 1293's barcode, the plain footnote
+  marks `(1)` of 1274 and 1282, Tesseract's noise and figure labels);
+- the broken pages retyped from the scan by way B as each batch went (retypes 19–58,
+  mostly la-el-agy, la-el-agy2 and la-el-agy3; from batch 10 la-el-agy alone; in batch
+  11 also 17 pages by la-el-claude), so no page of these batches is left `retype
+  pending` for item 10;
 - **not done**: step 8 (`la_lines.py`, the image checks of rules, line breaks and line
   ends) and step 11 (`texts/convert_la.py`), which wait for item 10.
 
-**Batch 11 (`1185`–`1296`, Paradiso XXVII to the end) and the front matter
-(`0001`–`0078`)**: the verse is in and the markup and model decisions are done for all
-their pages (`tmp/la-mark7`, items 1–7); steps 5–11 are open. `la_lostcheck.py` lists
-lost text (runs in both OCRs) on 30 pages of 1185–1296 and 6 of 0001–0078: these pages
-are expected to need retyping. Next: batch 11, item 8.
+**The front matter (`0001`–`0078`)**: the markup and model decisions are done
+(`tmp/la-mark7`, items 1–7; 0046 and 0048–0050 retyped in batch 18 of item 6); steps 5–11
+are open. `la_lostcheck.py` lists lost text (runs in both OCRs) on 6 of its pages.
 
-Still to do after the batches: item 9 (plain digits), item 10 (steps 8 and 11 of batches
-4–11), the front matter.
+**Next**: the front matter by item 8's way (steps 5–7 and the checks of step 9, in parts
+with a report after each, broken pages retyped by la-el-agy), so that every page of
+`tmp/la-mark7` is written; then item 9 (plain digits, by a script over all pages), then
+item 10 (the pages still to retype, then steps 8 and 11 of batches 4–11).
 
 "Complete" means, for every page of batches 1–3 (blank pages aside):
 
@@ -637,6 +638,34 @@ In this order (decided with the user, 2026-10-15):
      its own line after its verse line) and `[fu chiaro]` had a `]` not printed; then
      `la_check.py` and `la_seqcheck.py` with only 1182's printed tercet number (Suspected
      misprints), `la_lostcheck.py` with none.
+   - **Batch 11** (1185–1296, cantos XXVII–XXXIII of the Paradiso, the essay `La
+     preghiera`, the *Fragmenta commentarii* and the index; 2026-10-26) by the low-cost
+     way, in five parts (1185–1209, 1210–1233, 1234–1257, 1258–1272, 1273–1296); 1232 1244
+     1256 1272 1288 1291 1292 1294–1296 blank. 3481 marks (`light` 1425). The broken pages
+     were retyped, superscript kept (item 10): by la-el-agy, way B, 1199 1200 1201 1203
+     (retype 55), 1217 1227 (retype 56), 1258 1262–1267 (retype 57), 1273–1276 1278 1279
+     1282 1284 1286 1287 (retype 58: every *Fragmenta* page not retyped in item 6, whose
+     `ocr/la` had lines lost, sentences rewritten and spellings normalized, `coeli`, `æ`;
+     1275 and 1286 a paragraph a line); by la-el-claude from the image and Tesseract's
+     lines, 1196 1219 1220 1221 1237 1239 1241 1245 1246 1248 1250–1255 1257 (1196 1220
+     1221 1245 1255 had a paragraph a line; part 3's 13 were done without asking, and the
+     user chose to keep them without a cross-check by la-el-agy). 40 pages; the places put
+     right in la-el-agy's under item 10. Smaller damage by fixes: blocks lost or rewritten
+     retyped from the image (1188, 1212, 1213, 1225, 1228; lines or words on 1195, 1204,
+     1209, 1210, 1216, 1229, 1234), the tercet numbers missing on 1189–1193 and 1210, page
+     heads, runovers, the quotation blank lines after `que incipit ibi:` (1198 1210 1222
+     1234 1246), glosses after the Latin verse moved between the blocks (1215 1242), about
+     35 unmarked dots before a lowercase word made commas. The pages retyped in item 6
+     (1277 1280 1281 1283 1285): the light route had put the OCRs' reading over the retype
+     in 4 places (`simigliante.`, `Notar`, `dictum`, the misprint `caasantur`), put back.
+     The index (1289 1290): two lines lost on 1289, `Capitulum` from the light route back in
+     capitals, blank lines at the column changes removed, `I N D E X` without the spaces,
+     `» 663`. 1287's `FINIS`, printed in an ornament, written after a blank line. Written to
+     `ocr/la` (98 pages changed; 369 `fixes.tsv` rows for the batch, 40 of them whole
+     retyped pages). Step 9: `la_check.py` only 1293's barcode taken for a tercet number,
+     `la_seqcheck.py` only the footnote marks `(1)` of 1274 and 1282 (printed plain, like
+     the footnotes of the front matter), `la_lostcheck.py` only Tesseract's noise and the
+     figure labels of 1245 and 1247.
    - **Delegation trials for whole-page retyping** (2026-10-23), against way B's la-el-agy
      (about 1.2 errors a page in retypes 19–21), each checked word by word against both
      OCRs and in the image:
@@ -891,6 +920,19 @@ In this order (decided with the user, 2026-10-15):
         otherwise. It read `argomento`, `pubblicationem`, `necessità`, `cosi`, `piu` (the
         OCRs had them otherwise), 1159's `fecit`, and the verse and commentary that
         `ocr/la` had out of order or lost on 1154 and 1166, right.
+    - Batch 11's broken pages (2026-10-26), by la-el-agy, retyped and added in the same way
+      (written with batch 11); after retype 54 each task named the last retype's errors.
+      - retype 55 (1199 1200 1201 1203): one error, 1201 `contempor` (twice) for printed
+        `contemplor`. 1199's broken `circu't` written `circuit` (the convention).
+      - retype 56 (1217 1227): 1227 `fluminum` for printed `fluminorum`, 1217 `Com'a'
+        Giuderi` for the tight `Com'a'Giuderi`.
+      - retype 57 (1258 1262–1267, canto XXXIII): one error, 1265 `igualmente` for printed
+        `equalmente`.
+      - retype 58 (the ten *Fragmenta* pages, commentary only): one error, 1284 `Bentro`
+        for printed `Dentro` (reported as a misprint). 1276's `mine` with a mark like an
+        accent over the `e` (a Latin word) written without it.
+      la-el-claude's 17 retypes of batch 11 were checked only by itself (`cmp` with `out/`,
+      the scripted checks, the accent check against Tesseract).
 
 Also seen: 0848, 0891 and 0999 had backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``); gone since their retyping.
@@ -1191,6 +1233,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0810 | 105 | `etatem anri` | `auri` | A turned `u` (the verse has `Etatem auri`). |
 | 0827 | 74 | `Oblibanum` | `Olibanum` | The image shows `Obl`; both OCRs read it so. |
 | 1182 | 5 | `⁵⁷ Nel monte` | `⁴⁷` | Italian verse; the page before ends at `⁴⁶`, the Latin column has `⁴⁷`. |
+| 1281 | 103 | `formas corum` | `eorum` | Commentary; the image shows `c`, and both OCRs read `corum`. |
 
 ## The method: two-OCR markup, then image decisions
 
