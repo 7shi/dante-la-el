@@ -54,9 +54,7 @@ Ed io disse al Poeta; Et ego dixi Po te,
 
 auctor facit unam exclamationem et irrisionem gentis senensis.
 
-Primo igitur auctor continuat dicta dicendis, ostendens
-
-magnam compaxionem, considerando varias plagas eorum, innuens tacite, quomodo sapientes homines, quando considerant varia mala, que eveniunt propter malas linguas, dolent quod tales lingue tot malorum sint cause.
+Primo igitur auctor continuat dicta dicendis, ostendens magnam compaxionem, considerando varias plagas eorum, innuens tacite, quomodo sapientes homines, quando considerant varia mala, que eveniunt propter malas linguas, dolent quod tales lingue tot malorum sint cause.
 
 Multa gens et diverse plage, idest multitudo gentium et diversitas linguarum, luces meas, idest oculos meos, ita inebriaverunt (metaphora est), quod stare ad plangendum erant vage, idest cupide, ex compaxione vulnerum.
 
