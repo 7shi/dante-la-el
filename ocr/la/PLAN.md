@@ -33,10 +33,10 @@ batch 11 and the front matter written 2026-10-26):
   la-el-agy, la-el-agy2 and la-el-agy3; in batch 11 also 17 pages by la-el-claude; in the
   front matter 0051–0053 and 0065), so no page is left `retype pending` for item 10;
 - **not done**: step 8 (`la_lines.py`, the image checks of rules, line breaks and line
-  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batch 4 done**
-  (2026-10-27, `texts/la/031`–`041`: the whole Inferno is converted).
+  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4 and 5
+  done** (2026-10-27, `texts/la/031`–`053`: the Inferno and Purgatorio I–XI).
 
-**Next**: item 10, steps 8 and 11 of batch 5 (0479–0609), then batches 6–11 and the front
+**Next**: item 10, steps 8 and 11 of batch 6 (0610–0728), then batches 7–11 and the front
 matter.
 
 "Complete" means, for every page of batches 1–3 (blank pages aside):
@@ -987,6 +987,18 @@ In this order (decided with the user, 2026-10-15):
         Kept as printed: the gap after `que incipit ibi:` before the quotation on 0362, 0410,
         0443, 0466 (a section gap, as 0258); `convert_la.py` now takes the printed `3` of
         0350 (Suspected misprints) without an error.
+      - **Batch 5** (0479–0609): done, `texts/la/042`–`053` (the preambula with the
+        PURGATORIUM half-title 0477, cantos I–XI; 0609, canto XII's *Summarium*, goes with
+        batch 6). Step 8: 0523's commentary retyped from the scan (the end of the left column
+        lost, the right column's text there garbled, the page number inside the text;
+        `la_lostcheck.py` had not listed it, the words being in the verse), 37 blank lines
+        inside a sentence removed, a blank line at the rule on 0548, 42 dots before a
+        lowercase word made commas, lines rebroken (0489 0506 0519 0547 0559 0576), page
+        numbers added on 9 pages, running heads on 0481 0495 0502. Step 11 found: 0585's
+        tercet 48 unnumbered in both columns (a page without a number is not read as verse),
+        and from the hyphen joins 0533 `vixis-`, `Po-`/`testate`, 0559 `voluntatem`, 0575
+        `nigerri-`/`mus`, 0595 `dubi-`/`tavi`. `convert_la.py` reads the tercet in printed
+        brackets of 0545 (`[7 Vidi`).
 
 Also seen: 0848, 0891 and 0999 had backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``); gone since their retyping.
