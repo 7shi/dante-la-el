@@ -72,7 +72,7 @@ Ovidius in libro Methamorphoseos libro secundo.
 Statim sicut de ipsis perpendi, scilicet umbris, ego illas
 extimando, specchiatis, idest speculatis, alias speculantibus,
 sembiatas, idest similes, ut viderem cuius essent, oculos
-retorsi. idest retro volvi; et non vidi ibi, idest cuius essent,
+retorsi, idest retro volvi; et non vidi ibi, idest cuius essent,
 et recucurri, idest reduxi, cum ipsis, scilicet oculis, anterius
 retro in lumine dulcis duxisse, idest conductricis, que
 subridendo ardebat in oculis sanctis.
@@ -103,4 +103,4 @@ soror carnalis domini Cursi de Donatis et Forensis. Hec
 nobilis fuit ita pulchra iuvencula, quod suo tempore non
 erat pulchrior in civitate Florentie. Fuit honestissima; et
 propter amorem virginitatis conservande, dum adhuc es-
-set valde puella. furtive, ignorantibus parentibus, et fugit
+set valde puella, furtive, ignorantibus parentibus, et fugit
