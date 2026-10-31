@@ -33,11 +33,11 @@ batch 11 and the front matter written 2026-10-26):
   la-el-agy, la-el-agy2 and la-el-agy3; in batch 11 also 17 pages by la-el-claude; in the
   front matter 0051–0053 and 0065), so no page is left `retype pending` for item 10;
 - **not done**: step 8 (`la_lines.py`, the image checks of rules, line breaks and line
-  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4–7
-  done** (batches 4–6 2026-10-27, batch 7 2026-11-01; `texts/la/031`–`073`: the Inferno and
-  Purgatorio I–XXXI).
+  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4–8
+  done** (batches 4–6 2026-10-27, batches 7–8 2026-11-01; `texts/la/031`–`082`: the Inferno,
+  the Purgatorio and Paradiso I–VII).
 
-**Next**: item 10, steps 8 and 11 of batch 8 (0847–0960), then batches 9–11 and the front
+**Next**: item 10, steps 8 and 11 of batch 9 (0961–1072), then batches 10–11 and the front
 matter. Before step 8 of each batch, also run `la_lostcheck.py -n 5` and look at the runs of
 real words (batch 6 found two lost passages that way).
 
@@ -1024,6 +1024,18 @@ In this order (decided with the user, 2026-10-15):
         printed), 0745's lemma `fo-`/`gabat` (a damaged `r` with an ink spot; the verse has
         `rogabat`), 0773 `sim-`/`beleggiate` (printed so, Suspected misprints).
         `convert_la.py`: no new case; 0736's gloss printed on three lines is joined as one.
+      - **Batch 8** (0847–0960): done, `texts/la/074`–`082` (Purgatorio XXXII–XXXIII, the
+        PARADISUS half-title 0871 and Paradiso I–VII). Step 8: 7 blank lines inside a sentence
+        removed, a blank line at the rule on 0883, 24 dots before a lowercase word made commas
+        (0932 `celi), de lumine, quod`), 0932's doubled dot `terram..`; `la_lostcheck.py -n 5`
+        found no run of real words. Step 11 found, from the hyphen joins: 0935 `vi-`/`ctoriarum`
+        (`ocr/la` had `ctariarum`), 0877's gloss `con-`/`templationem` (`ocr/la` had
+        `temptationem`), 0958 `complexio-`/`conibus` (printed so, Suspected misprints).
+        `convert_la.py`: the Paradiso (`PARADISI`, files from `076`), the half-title 0871 at the
+        head of canto 1 (its signature mark `103` removed) and `INCIPIT PARADISUS` above the
+        *Summarium* of 0873; 0868's `FINIT FELICITER PURGATORIUM.` and `EXPLICIT PURGATORIUM
+        DANTIS.` under the two verse columns, and the scribe's verses (`Qui scripsit scribat`)
+        kept line by line with their gloss line.
 
 Also seen: 0848, 0891 and 0999 had backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``); gone since their retyping.
@@ -1340,6 +1352,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0652 | 75–76 | `Phsi-` / `strato` | `Pisistrato` | Commentary; both OCRs read `Phsi-`. |
 | 0773 | 77–78 | `sim-` / `beleggiate` | `simboleggiate` | Essay; the image shows `e`. |
 | 0825 | 3 | `in isto tricesimo capitulo` | `In` | *Summarium*'s first word in lowercase, as printed. |
+| 0958 | 45–46 | `complexio-` / `conibus` | `complexionibus` | Commentary; a syllable lost over the line break. |
 
 ## The method: two-OCR markup, then image decisions
 
