@@ -15,38 +15,35 @@ it (5–11) go batch by batch (batches 3–11, `0233`–`1296`, then the front m
 **A new session starts here**: read "State" and "Remaining work", and go on from the first
 open item. The conventions and rules below are settled: apply them, do not ask again.
 
-## State (2026-11-01)
+## State (2026-11-01): complete
 
-**Batches 1–3 (`0079`–`0348`, Inferno I–XXIII) are complete** and converted into
-`texts/la/008`–`030` (batch 3: Remaining work, item 8).
+**All of `ocr/la` is complete** (`0001`–`1296`: the front matter, batches 1–11, the
+appendix and the index) and converted by `texts/convert_la.py` into `texts/la/001`–`110`,
+which cover the whole volume (scans `0007`–`1290`). Every item of "Remaining work" is done;
+nothing is pending.
 
-**Batches 4–11 (`0349`–`1296`, Inferno XXIV to the end of the book) and the front matter
-(`0001`–`0078`) are written** to `ocr/la` from the mark decisions (Remaining work, item 8;
-batch 11 and the front matter written 2026-10-26):
+- Batches 1–3 (`0079`–`0348`) were completed first (item 8, batch 3); batches 4–11 and the
+  front matter were written from the mark decisions (item 8; steps 5–7 and the scripted
+  checks of step 9 over every page of `tmp/la-mark7`), their broken pages retyped from the
+  scan as each batch went (retypes 19–58, mostly la-el-agy, la-el-agy2 and la-el-agy3; in
+  batch 11 also 17 pages by la-el-claude; in the front matter 0051–0053 and 0065).
+- Tercet numbers and gloss marks are plain digits across all pages (item 9), and
+  `texts/la` writes them so too.
+- Steps 8 (`la_lines.py` and the image checks) and 11 (`texts/convert_la.py`) were done for
+  every batch and the front matter (item 10; batches 4–6 2026-10-27, the rest 2026-11-01).
+- `la_check.py`, `la_seqcheck.py` and `la_lostcheck.py` over 0001–1296 give no hits but the
+  known exceptions (Suspected misprints, the printed brackets of 0545 and 0861, 1293's
+  barcode, Tesseract's noise and figure labels); `convert_la.py` reports no `ERROR` (its
+  `NO NUMBER` lines are the tercets 0099 leaves unnumbered in print).
 
-- steps 5–7 and the scripted checks of step 9 done over every page of `tmp/la-mark7`;
-  tercet numbers and gloss marks converted to plain digits across all pages (Remaining work,
-  item 9); `la_check.py`, `la_seqcheck.py` and `la_lostcheck.py` over 0001–1296 give no hits
-  but the known exceptions (Suspected misprints, the printed brackets of 0545 and 0861,
-  1293's barcode, Tesseract's noise and figure labels);
-- the broken pages retyped from the scan as each batch went (retypes 19–58, mostly
-  la-el-agy, la-el-agy2 and la-el-agy3; in batch 11 also 17 pages by la-el-claude; in the
-  front matter 0051–0053 and 0065), so no page is left `retype pending` for item 10;
-- **not done**: step 8 (`la_lines.py`, the image checks of rules, line breaks and line
-  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4–11
-  and the front matter done** (batches 4–6 2026-10-27, the rest 2026-11-01; `texts/la/001`–`110`).
+Open only as proposals (not part of the plan): the checks under "Not covered" below
+(italic lemmas against their verse, a lexicon check).
 
-**Item 10 is done** (2026-11-01): every batch and the front matter went through steps 8 and 11,
-and `texts/la/001`–`110` cover the whole volume. **Next**: nothing is pending; the checks
-proposed under "Not covered" below (italic lemmas against their verse, a lexicon check) remain
-proposals. Before step 8 of each batch, also run `la_lostcheck.py -n 5` and look at the runs of
-real words (batch 6 found two lost passages that way).
-
-"Complete" means, for every page of batches 1–3 (blank pages aside):
+"Complete" means, for every page (blank pages aside):
 
 - both verse columns present, with their tercet numbers checked by `la_check.py`;
-- every disagreement of `ocr/la` with GLM-OCR resolved by the markup method, each change
-  checked in the image (0104–0194 had also been proofread letter by letter before);
+- every disagreement of `ocr/la` with GLM-OCR resolved by the markup method against
+  the image (0104–0194 had also been proofread letter by letter before);
 - blank lines checked against the printed rules, line breaks against Tesseract's lines,
   and dots before a lowercase word made commas (`la_lines.py`);
 - the final checks (page heads, characters, accents, long lines) done.
@@ -87,8 +84,8 @@ In this order (decided with the user, 2026-10-15):
        (Record of the preparation). The verse of all 338 pages is in.
      - **Commits**: batches 4–10 were committed together after batch 10 (the user,
        2026-10-17); batches 11–14 and 0836 in `4c6f2f5`.
-     - **Next**: item 6 (items 3–5 done). In any later verse check, look at every
-       apostrophe written with a space; the print sets the gaps both ways.
+     - In any later verse check, look at every apostrophe written with a space; the print
+       sets the gaps both ways.
 2. **Verse check**, after each batch of item 1 (la-el-claude, by script first): compare
    each transcription with GLM-OCR, which reads the Italian verse (as a check only), and
    its tercet numbers with those of the Latin column of the page; look in the image only at
@@ -1267,7 +1264,12 @@ WORK is the batch's work directory (`tmp/la-markN/`, a new N per batch), TESS =
      changes without a rule, inside essay quotations: look at the pages with indented
      quotations;
    - page heads (number, blank line, running head) and the hyphen joins that `convert_la.py`
-     reports (`HYPHEN`): a join that makes no word often shows a lost or misread word.
+     reports (`HYPHEN`): a join that makes no word often shows a lost or misread word;
+   - lines over 68 characters (gloss lines and essays with a paragraph per line aside),
+     broken where Tesseract breaks them, and a hyphen line end before a blank line (normal
+     only before a page-end signature mark);
+   - `la_lostcheck.py FIRST LAST -t TESS -n 5`: look at the runs of real words, those of
+     Tesseract alone included (batch 6 found two lost passages that way).
 9. **Final checks**: `la_check.py FIRST LAST` (tercets and rule counts; known exceptions:
    0100, 0131, 0165, 0545); page heads (page number, blank line, running head; add missing
    numbers and heads); no `æ`; `—` only in gloss lines; accents as printed; lines over 68
