@@ -33,12 +33,11 @@ batch 11 and the front matter written 2026-10-26):
   la-el-agy, la-el-agy2 and la-el-agy3; in batch 11 also 17 pages by la-el-claude; in the
   front matter 0051–0053 and 0065), so no page is left `retype pending` for item 10;
 - **not done**: step 8 (`la_lines.py`, the image checks of rules, line breaks and line
-  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4–9
-  done** (batches 4–6 2026-10-27, batches 7–9 2026-11-01; `texts/la/031`–`091`: the Inferno,
-  the Purgatorio and Paradiso I–XVI).
+  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4–10
+  done** (batches 4–6 2026-10-27, batches 7–10 2026-11-01; `texts/la/031`–`101`: the
+  Inferno, the Purgatorio and Paradiso I–XXVI).
 
-**Next**: item 10, steps 8 and 11 of batch 10 (1073–1184), then batch 11 and the front
-matter. Before step 8 of each batch, also run `la_lostcheck.py -n 5` and look at the runs of
+**Next**: item 10, steps 8 and 11 of batch 11 (1185–1296), then the front matter. Before step 8 of each batch, also run `la_lostcheck.py -n 5` and look at the runs of
 real words (batch 6 found two lost passages that way).
 
 "Complete" means, for every page of batches 1–3 (blank pages aside):
@@ -1042,6 +1041,16 @@ In this order (decided with the user, 2026-10-15):
         words. Step 11 found, from the hyphen joins: 0994 `ad-`/`vocationibus` (`ocr/la` had
         `dibus`), 1053 `ven-`/`turum` (`tutum`), 1052 `intelle-`/`xisse` (`intel-`), and two
         printed so (Suspected misprints): 0999 `volupta-`/`bro`, 1031 `corrupti-`/`lium`.
+      - **Batch 10** (1073–1184): done, `texts/la/092`–`101` (Paradiso XVII–XXVI). Step 8: 12
+        blank lines inside a sentence removed, blank lines at six rules on 1129 (it had none),
+        44 dots before a lowercase word made commas (14 on 1175, whose comma tails are lost
+        throughout), 1171's run-together line rebroken, 1124's page number added;
+        `la_lostcheck.py -n 5` found no run of real words. Step 11 found: 1167's running head
+        set before its page number, so that its verse was not read (tercets 18–24 of canto
+        XXV missing), and 1051's page number lost (read as a second canto heading); the page
+        heads of a page with `CAPITULUM …` on its first line are now checked as well (none
+        else in batches 7–10). From the hyphen joins: 1135's lemma `sen-`/`bianza` (printed
+        so, Suspected misprints).
 
 Also seen: 0848, 0891 and 0999 had backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``); gone since their retyping.
@@ -1361,6 +1370,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0958 | 45–46 | `complexio-` / `conibus` | `complexionibus` | Commentary; a syllable lost over the line break. |
 | 0999 | 71–72 | `volupta-` / `bro` | `volutabro` | Commentary; the image shows `volupta-`. |
 | 1031 | 69–70 | `corrupti-` / `lium` | `corruptibilium` | Commentary; a syllable lost over the line break. |
+| 1135 | 73–74 | `sen-` / `bianza` | `sembianza` | Italic lemma; the verse has `sembianza`; the image shows `n`. |
 
 ## The method: two-OCR markup, then image decisions
 
