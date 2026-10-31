@@ -140,7 +140,7 @@ Di Silvio el parente: idest, Eneam, quia fuit pater filii, nati ex Lavina, filia
 
 Corructebele anchora: idest, in vita corporea. Ad immortale secolo: idest, ad Infernum, qui est seculum quod nunquam moritur. Virgilius dicit quod Eneas ivit ad Infernum (in sexto Eneydos), ad denotandum quod omnis princeps et rector gentium sapiens, debet ire cum mente ad Infernum, idest, considerare vitia et ipsa exterminare.
 
-Però se l'avversario d'omme male: si adversarius omnis mali, idest, Deus, dedit gratiam Enee eundi ad Infernum, hoc fecit propter effectum magnum provenientem ex tali itinere.
+Però se l'avversario d'omne male: si adversarius omnis mali, idest, Deus, dedit gratiam Enee eundi ad Infernum, hoc fecit propter effectum magnum provenientem ex tali itinere.
 
 E chi: scilicet in substantia. E il quale: scilicet in potentia. Idest, si tu, Virgili, finxisti Eneam ivisse ad Infernum, tu bene fecisti; nec hoc videtur iniustum alicui sane mentis, pensando quod Eneas fuit electus in celo empireo ad faciendum Romam, que habuit et habet tantum imperium et generale dominium. Roma fuit quidam effectus ipsius Enee; que Roma fuit electa pro loco sancto, scilicet
 

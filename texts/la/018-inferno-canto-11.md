@@ -434,7 +434,7 @@ Notanda sunt hic aliqua, quorum primum est, quare natura et ars dicantur res Dei
 
 accipit a divino intellectu et a sua arte; et si tu bene tuam Phisicam notas, tu invenies non post multas cartas, idest in secundo libro, quod ars vestra, quantum potest, illam, scilicet naturam, ymitatur, sicut discipulus magistrum: ita quod vestra ars Deo est quasi neptis.
 
-De istis rebus, si tu revocas tibi ad mentem principium libri Genesis, oportuit accipere suam viam, et aranzare gentem, idest multiplicari gentem.
+De istis rebus, si tu revocas tibi ad mentem principium libri Genesis, oportuit accipere suam viam, et avanzare gentem, idest multiplicari gentem.
 
 Et quia usura viam aliam tenet, quia vult usura, quod danarius producat danarium et multiplicet, etc.; per se naturam, per suam sequacem, idest artem, despicit, postea quam in aliud ponit spem, idest alio modo procedit.
 
