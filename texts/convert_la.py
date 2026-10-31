@@ -1,6 +1,6 @@
 """Convert ocr/la/NNNN.txt (Serravalle's translation and commentary, 1891) into texts/la/NNN-title.md.
 
-Only the Inferno and Purgatorio I–XXI (scans 0079–0728) are converted so far: the rest of
+Only the Inferno and Purgatorio I–XXXI (scans 0079–0846) are converted so far: the rest of
 ocr/la is not yet completed (see ocr/la/PLAN.md). See PLAN.md for the layout. Run from the repository root:
 
     uv run texts/convert_la.py
@@ -39,7 +39,9 @@ CANTOS = {"inferno": [(79, 92, 92), (93, 102, 102), (103, 114, 114), (115, 127, 
                          (575, 586, 586), (587, 596, 596), (597, 607, 608), (609, 619, 620),
                          (621, 630, 630), (631, 643, 644), (645, 655, 656), (657, 668, 668),
                          (669, 679, 680), (681, 691, 692), (693, 703, 704), (705, 717, 718),
-                         (719, 728, 728)]}
+                         (719, 728, 728), (729, 739, 740), (741, 750, 750), (751, 761, 762),
+                         (763, 773, 774), (775, 785, 786), (787, 797, 798), (799, 812, 812),
+                         (813, 823, 824), (825, 834, 834), (835, 845, 846)]}
 # The first file of each cantica's cantos (001–007 are the front matter, not converted yet;
 # 042 is the Purgatorio's preambula).
 FIRST_FILE = {"inferno": 8, "purgatorio": 43}
@@ -136,10 +138,24 @@ ESSAYS = {
     "LA SALITA DELLE ANIME AL CIELO": "La salita delle anime al cielo",
     "NESSO FRA L'ORDINE DI NATURA E IL SOPRANNATURALE":
         "Nesso fra l'ordine di natura e il soprannaturale",
+    "LA VIRTÙ DELLA GIUSTIZIA": "La virtù della giustizia",
+    "LA PIETÀ VERSO GLI ESTINTI, SPECIALMENTE NELLA VERA DONNA CRISTIANA":
+        "La pietà verso gli estinti, specialmente nella vera donna cristiana",
+    "PICCARDA DONATI E L'EROISMO DELLA VERGINITÀ": "Piccarda Donati e l'eroismo della verginità",
+    "L'APPARIZIONE DEGLI SPIRITI": "L'apparizione degli spiriti",
+    "LA PENA DEL FUOCO A PURGAZIONE DELLE COLPE DEL SENSO":
+        "La pena del fuoco a purgazione delle colpe del senso",
+    "L'EDEN IN CIMA ALLA MONTAGNA DANTESCA DEL PURGATORIO":
+        "L'Eden in cima alla montagna dantesca del Purgatorio",
+    "LA FONTANA DELL'EDEN": "La fontana dell'Eden",
+    "IL CARRO IMMAGINATO DAL POETA IN QUESTO CANTO E LA CHIESA":
+        "Il carro immaginato dal Poeta in questo canto e la Chiesa",
+    "LA VISIONE DI BEATRICE": "La visione di Beatrice",
+    "LA CONFESSIONE": "La confessione",
 }
 
 # Tercet numbers misprinted (ocr/la/PLAN.md, Suspected misprints): (scan, column, tercet) -> printed.
-MISNUMBERED = {(350, "it", 2): 3}
+MISNUMBERED = {(350, "it", 2): 3, (758, "it", 38): 37, (810, "la", 46): 45}
 # Running heads misprinted: scan -> printed.
 MISPRINTED_HEAD = {710: "PURGATORI"}
 
