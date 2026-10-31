@@ -33,11 +33,11 @@ batch 11 and the front matter written 2026-10-26):
   la-el-agy, la-el-agy2 and la-el-agy3; in batch 11 also 17 pages by la-el-claude; in the
   front matter 0051–0053 and 0065), so no page is left `retype pending` for item 10;
 - **not done**: step 8 (`la_lines.py`, the image checks of rules, line breaks and line
-  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4–8
-  done** (batches 4–6 2026-10-27, batches 7–8 2026-11-01; `texts/la/031`–`082`: the Inferno,
-  the Purgatorio and Paradiso I–VII).
+  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4–9
+  done** (batches 4–6 2026-10-27, batches 7–9 2026-11-01; `texts/la/031`–`091`: the Inferno,
+  the Purgatorio and Paradiso I–XVI).
 
-**Next**: item 10, steps 8 and 11 of batch 9 (0961–1072), then batches 10–11 and the front
+**Next**: item 10, steps 8 and 11 of batch 10 (1073–1184), then batch 11 and the front
 matter. Before step 8 of each batch, also run `la_lostcheck.py -n 5` and look at the runs of
 real words (batch 6 found two lost passages that way).
 
@@ -1036,6 +1036,12 @@ In this order (decided with the user, 2026-10-15):
         *Summarium* of 0873; 0868's `FINIT FELICITER PURGATORIUM.` and `EXPLICIT PURGATORIUM
         DANTIS.` under the two verse columns, and the scribe's verses (`Qui scripsit scribat`)
         kept line by line with their gloss line.
+      - **Batch 9** (0961–1072): done, `texts/la/083`–`091` (Paradiso VIII–XVI). Step 8: 9 blank
+        lines inside a sentence removed, 21 dots before a lowercase word made commas; no rule
+        without its blank line, no line rebroken; `la_lostcheck.py -n 5` found no run of real
+        words. Step 11 found, from the hyphen joins: 0994 `ad-`/`vocationibus` (`ocr/la` had
+        `dibus`), 1053 `ven-`/`turum` (`tutum`), 1052 `intelle-`/`xisse` (`intel-`), and two
+        printed so (Suspected misprints): 0999 `volupta-`/`bro`, 1031 `corrupti-`/`lium`.
 
 Also seen: 0848, 0891 and 0999 had backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``); gone since their retyping.
@@ -1353,6 +1359,8 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0773 | 77–78 | `sim-` / `beleggiate` | `simboleggiate` | Essay; the image shows `e`. |
 | 0825 | 3 | `in isto tricesimo capitulo` | `In` | *Summarium*'s first word in lowercase, as printed. |
 | 0958 | 45–46 | `complexio-` / `conibus` | `complexionibus` | Commentary; a syllable lost over the line break. |
+| 0999 | 71–72 | `volupta-` / `bro` | `volutabro` | Commentary; the image shows `volupta-`. |
+| 1031 | 69–70 | `corrupti-` / `lium` | `corruptibilium` | Commentary; a syllable lost over the line break. |
 
 ## The method: two-OCR markup, then image decisions
 
