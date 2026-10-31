@@ -60,8 +60,6 @@ vitrum et aquam et similia.
 Questo non è. Scilicet quod lumen radiorum solarium
 per corpus lune penetret inferius ad nos in eclypsi solis;
 ergo antecedens est falsum, scilicet quod corpus lune
-
-(1) Hic una linea recisa, inintelligibilis est.
 habeat raritatem aliquam penetrantem ab una superficie
 lune ad aliam.
 Però è da veder dell'altro. Idest, idcirco videndum nobis
@@ -120,3 +118,5 @@ solis ad nos, sed illam ulterius penetrarent ut vitrum.
 Quomodo autem speculum reddat id quod in eo represen-
 tatur, quere infra in fine huius tertie Cantice in primo folio,
 ubi littera B legitur et nota bene.
+
+(1) Hic una linea recisa, inintelligibilis est.
