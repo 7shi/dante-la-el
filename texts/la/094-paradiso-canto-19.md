@@ -8,19 +8,19 @@ In isto decimonono capitulo, quod incipit: Apparebat ante me ymago cum alis aper
 
 # Capitulum Decimumnonum
 
-¹ Parea dinanzi a me coll'hale aperte\
+1 Parea dinanzi a me coll'hale aperte\
 &emsp;La bella ymage, che nel dolce frui\
 &emsp;Liete faceva l'anime conserte.
 
-¹ Apparebat ante me cum alis apertis\
+1 Apparebat ante me cum alis apertis\
 &emsp;Pulchra ymago, que in dulci frui\
 &emsp;Letas faciebat animas consertas.
 
-² Parea ciascuna rubinetto, in cui\
+2 Parea ciascuna rubinetto, in cui\
 &emsp;Raggio di sol ardesse sì acceso,\
 &emsp;Che ne' miei ochi rinfrangesse lui.
 
-² Apparebat quelibet unus rubinectus, in quo\
+2 Apparebat quelibet unus rubinectus, in quo\
 &emsp;Arderet radius solis ita accensus,\
 &emsp;Quod in meis oculis refrangeret illum.
 
@@ -42,51 +42,51 @@ In prima igitur parte auctor consequitur morem suum, scilicet continuationem dic
 
 <!-- p. 1045 (1099) -->
 
-³ E quel che mi convien ritrar testeso,\
+3 E quel che mi convien ritrar testeso,\
 &emsp;Non portò voce mai, nè scripse onchiostro,\
 &emsp;Nè fu per fantasia giamai compreso;
 
-³ Et illud quod michi convenit retrahere nunc,\
+3 Et illud quod michi convenit retrahere nunc,\
 &emsp;Non portavit vox unquam, nec scripsit incaustum,\
 &emsp;Nec fuit per fantasiam unquam comprehensum;
 
-⁴ Ch'io vidi, et anco udii parlar lo rostro,\
+4 Ch'io vidi, et anco udii parlar lo rostro,\
 &emsp;E sonar ne la voce et Io e Mio,\
 &emsp;Quand'era nel concepto e Noi e Nostro.
 
-⁴ Quia ego vidi, et etiam audivi loqui rostrum,\
+4 Quia ego vidi, et etiam audivi loqui rostrum,\
 &emsp;Et sonare in voce et Ego et Meum,\
 &emsp;Quando erat in conceptu et Nos et Nostrum.
 
-⁵ E cominciò: Per esser giusto e pio\
+5 E cominciò: Per esser giusto e pio\
 &emsp;Son io qui exaltato a quella gloria,\
 &emsp;Che non si lassa vincer al desio;
 
-⁵ Et incepit: Propter esse iustum et pium\
+5 Et incepit: Propter esse iustum et pium\
 &emsp;Sum ego hic exaltatus ad istam gloriam,\
 &emsp;Que non permictit se vinci a desiderio;
 
-⁶ Et in terra lassai la mia memoria\
+6 Et in terra lassai la mia memoria\
 &emsp;Sì facta, che le genti lì malvage\
 &emsp;Commendan lei, ma non seguen l'hystoria.
 
-⁶ Et in terra dimisi meam memoriam\
+6 Et in terra dimisi meam memoriam\
 &emsp;Talem, quod gentes ibi maligne\
 &emsp;Commendant [ipsam], sed non sequuntur hystoriam,
 
-⁷ Così un sol calor di molte brage\
+7 Così un sol calor di molte brage\
 &emsp;Si fa sentir, come da molti amori\
 &emsp;Usciva sol un suon di quella ymage.
 
-⁷ Sic unus solus calor multarum prunarum\
+7 Sic unus solus calor multarum prunarum\
 &emsp;Facit se sentire, sic multorum amorum\
 &emsp;Exibat solummodo unus sonus de illa ymagine;
 
-⁸ Ond'io apresso: O perpetui fiori\
+8 Ond'io apresso: O perpetui fiori\
 &emsp;Dell'eterna letitia, che pur uno\
 &emsp;Parer mi fate tutti vostri odori,
 
-⁸ Unde ego prope: O perpetui flores\
+8 Unde ego prope: O perpetui flores\
 &emsp;Eterne letitie, qui solummodo unum\
 &emsp;Apparere michi facitis omnes vestros odores,
 
@@ -106,63 +106,63 @@ Unde ego prope. Ond'io appresso: hec est secunda
 
 <!-- p. 1046 (1100) -->
 
-⁹ Solvetemi, spirando, el gran digiuno\
+9 Solvetemi, spirando, el gran digiuno\
 &emsp;Che lungamente m'ha tenuto in fame,\
 &emsp;Non trovandoli 'n terra cibo alcuno.
 
-⁹ Solvatis michi, spirando, grande ieiunium\
+9 Solvatis michi, spirando, grande ieiunium\
 &emsp;Quod longo tempore tenuit me in fame,\
 &emsp;Non reperiendo ibi in terra cibum aliquem.
 
-¹⁰ Ben so io, se in cielo alto reame\
+10 Ben so io, se in cielo alto reame\
 &emsp;La divina iustitia fa suo spechio,\
 &emsp;Che 'l vostro non l'aprende col velame.
 
-¹⁰ Bene scio ego, quod si in celo alto regno\
+10 Bene scio ego, quod si in celo alto regno\
 &emsp;Divina iustitia facit suum speculum;\
 &emsp;Quod vestrum non apprehendit in velamine.
 
-¹¹ Sapete com'attento m'apparechio\
+11 Sapete com'attento m'apparechio\
 &emsp;Ad ascoltar; sapete quale è quello\
 &emsp;Dubi[o], che m'è digiun cotanto vechio.
 
-¹¹ Scitis quomodo attentum ego me paro\
+11 Scitis quomodo attentum ego me paro\
 &emsp;Ad auscultandum; vos scitis quale est istud\
 &emsp;Dubium, quod est michi ieiunium tantum vetus.
 
-¹² Quasi falcon ch'escendo (¹) di cappello,\
+12 Quasi falcon ch'escendo (1) di cappello,\
 &emsp;Muove la testa, e coll'hale si plaude,\
 &emsp;Vogla mostrando, e facendosi bello,
 
-¹² Sicut falco qui escit de cappello,\
+12 Sicut falco qui escit de cappello,\
 &emsp;Movet caput, et cum alis sibi applaudit,\
 &emsp;Voluntatem monstrando, et faciendo se pulchrum.
 
-¹³ Vid'io farsi quel segno, che di laude\
+13 Vid'io farsi quel segno, che di laude\
 &emsp;De la divina gratia era contesto,\
 &emsp;Con canti, quai si sa chi lassù gaude.
 
-¹³ Vidi ego sic fieri illud signum, quod de laude\
+13 Vidi ego sic fieri illud signum, quod de laude\
 &emsp;Divine gratie erat contextum,\
 &emsp;Cum cantibus, quos scit qui ibidem gaudet.
 
-¹⁴ Poi cominciò: Colui che volge 'l sexto\
+14 Poi cominciò: Colui che volge 'l sexto\
 &emsp;All'extremo del mondo, e dentro ad esso\
 &emsp;Distinxe tanto occulto e manifesto,
 
-¹⁴ Postea incepit: Ille qui volvit sextum\
+14 Postea incepit: Ille qui volvit sextum\
 &emsp;Ad extremum mundi, et intra ipsum\
 &emsp;Distinxit tantum occultum et manifestum,
 
-¹⁵ Non potèo suo valor sì fare impresso\
+15 Non potèo suo valor sì fare impresso\
 &emsp;In tutto l'universo, che 'l suo Verbo\
 &emsp;Non rimanesse in infinito excesso.
 
-¹⁵ Non poterat suum valorem ita facere impressum\
+15 Non poterat suum valorem ita facere impressum\
 &emsp;In toto universo, quin in suo Verbo\
 &emsp;Non remaneret per infinitum excessum.
 
-(¹) exeundo.
+(1) exeundo.
 
 pars huius capituli, in qua auctor proponit isti aquile unam difficilem questionem circa iustitiam divinam et dicit: O vos, qui estis perpetui flores, et tamen cum omnibus vestris odoribus representatis solum unum odorem, solvatis mihi unum dubium, super quo diu ieiunavi, idest cuius solutionem diu desideravi et non reperii declarantem me, quia bene scio quod divina iustitia non occultat aliquid vobis in aliquo velamine: vos scitis quod ego desidero scire veritatem de dubio.
 
@@ -180,35 +180,35 @@ Primo tamen ponitur infinitas divine potentie et fragilitas humani ingenii, et q
 
 <!-- p. 1047 (1101) -->
 
-¹⁶ E ciò fa certo, che 'l primo Superbo,\
+16 E ciò fa certo, che 'l primo Superbo,\
 &emsp;Che fu la somma d'ogni creatura,\
 &emsp;Per non aspectar lume, cadde acerbo:
 
-¹⁶ Et hoc facit certum, quod primus Superbus,\
+16 Et hoc facit certum, quod primus Superbus,\
 &emsp;Qui fuit summa omnium creaturarum,\
 &emsp;Propter non expectare lumen, cecidit acerbus:
 
-¹⁷ E quinci appare ch'ogni minor natura\
+17 E quinci appare ch'ogni minor natura\
 &emsp;È corto receptacol a quel bene,\
 &emsp;Che non ha fine e sè con sè misura.
 
-¹⁷ Et hinc apparet quomodo omnis creatura\
+17 Et hinc apparet quomodo omnis creatura\
 &emsp;Est curtum receptaculum illius boni,\
 &emsp;Quod non habet finem et se in se mensurat.
 
-¹⁸ Dunque vostra veduta, che conviene\
+18 Dunque vostra veduta, che conviene\
 &emsp;Esser alcun de' raggi de la mente\
 &emsp;Di che tutte le cose son ripiene,
 
-¹⁸ Igitur vestra virtus, que convenit\
+18 Igitur vestra virtus, que convenit\
 &emsp;Esse aliquis radiorum mentis\
 &emsp;De quibus omnes res sunt replete,
 
-¹⁹ Non può di sua natura esser possente\
+19 Non può di sua natura esser possente\
 &emsp;Tanto, che 'l suo principio non discerna\
 &emsp;Molto di là da quel che gl'è parvente.
 
-¹⁹ Non potest a sua natura tantum esse potens,\
+19 Non potest a sua natura tantum esse potens,\
 &emsp;Quod suum principium non discernat\
 &emsp;Multo ulterius illo quod sibi apparet.
 
@@ -224,43 +224,43 @@ Igitur vestra virtus, scilicet intellectiva, vel scientia vestra humana, que con
 
 <!-- p. 1048 (1102) -->
 
-²⁰ Però ne la iustitia sempiterna\
+20 Però ne la iustitia sempiterna\
 &emsp;La vista che riceve 'l vostro mondo,\
 &emsp;Com'ochio per lo mar, dentro s'interna;
 
-²⁰ Ideo in iustitia sempiterna\
+20 Ideo in iustitia sempiterna\
 &emsp;Vista quam recipit vester mundus,\
 &emsp;Sicut oculus per mare, intra internatur;
 
-²¹ Chè, benchè da la proda veggia 'l fondo,\
+21 Chè, benchè da la proda veggia 'l fondo,\
 &emsp;In pelago nol vede; e nondimeno\
 &emsp;È lì, ma cela lui l'esser profondo.
 
-²¹ Qui[a] quamquam de prora videat fundum,\
+21 Qui[a] quamquam de prora videat fundum,\
 &emsp;In pelago non videt, et nihilominus\
 &emsp;Est ibi, sed celat illum esse profundum.
 
-²² Lume non è, se non vien da sereno\
+22 Lume non è, se non vien da sereno\
 &emsp;Che non si turba mai, anzi è tenebra,\
 &emsp;O ombra de la carne, o suo veneno.
 
-²² Lumen non est, nisi sit a sereno\
+22 Lumen non est, nisi sit a sereno\
 &emsp;Quod non turbatur unquam, imo est tenebra,\
 &emsp;Vel umbra carnis, vel suum venenum.
 
-²³ Assai t'è mo' aperta la latebra,\
+23 Assai t'è mo' aperta la latebra,\
 &emsp;Che t'ascondeva la giustitia viva,\
 &emsp;Di che facevi question tanto crebra;
 
-²³ Satis aperta est tibi latebra,\
+23 Satis aperta est tibi latebra,\
 &emsp;Que tibi abscondebat iustitiam vivam,\
 &emsp;Ex quo faciebas questionem tantum crebram;
 
-²⁴ Chè tu dicevi: Un huom nasce a la riva\
+24 Chè tu dicevi: Un huom nasce a la riva\
 &emsp;Del Nilo, e quivi non è chi ragioni\
 &emsp;Di Chrysto, nè chi legga, nè chi scriva;
 
-²⁴ Quia tu dicebas: Unus homo nascitur ad ripam\
+24 Quia tu dicebas: Unus homo nascitur ad ripam\
 &emsp;Nili, et hic non est qui ratiocinetur\
 &emsp;De Christo, nec qui legat, nec qui scribat;
 
@@ -276,55 +276,55 @@ Et iam aquila ponit questionem in terminis. Quia tu dicebas, quod unus homo nasc
 
 <!-- p. 1049 (1103) -->
 
-²⁵ E tutti suo' voler (¹) et acti (²) buoni\
+25 E tutti suo' voler (1) et acti (2) buoni\
 &emsp;Son, in quanto ragion humana vede,\
 &emsp;Senza peccato in vita o in sermoni.
 
-²⁵ Et omnes sue voluntates et actus boni\
+25 Et omnes sue voluntates et actus boni\
 &emsp;Sunt, quantum humana ratio videt,\
 &emsp;Sine peccato in vita et in sermonibus.
 
-²⁶ Muore non baptizato e senza fede:\
+26 Muore non baptizato e senza fede:\
 &emsp;Ov'è questa giustitia che 'l condanna?\
-&emsp;Ov'è la colpa sua, sed (³) ei non crede?
+&emsp;Ov'è la colpa sua, sed (3) ei non crede?
 
-²⁶ Moritur non baptizatus, et sine fide:\
+26 Moritur non baptizatus, et sine fide:\
 &emsp;Ubi est iustitia que ipsum condempnat?\
 &emsp;Ubi est culpa sua, si ipse non credit?
 
-²⁷ Or tu chi se', che vuoi seder a sc[r]anna,\
+27 Or tu chi se', che vuoi seder a sc[r]anna,\
 &emsp;Per giudicar di lungi mille migla\
 &emsp;Colla veduta corta d'una spanna?
 
-²⁷ O tu qui es, qui vis sedere in cathedra\
+27 O tu qui es, qui vis sedere in cathedra\
 &emsp;Propter iudicare a longe per mille milliaria\
 &emsp;Cum visione curta unius palmi?
 
-²⁸ Certo a colui che meco s'assottigla,\
+28 Certo a colui che meco s'assottigla,\
 &emsp;Se la Scrittura sopra voi non fosse,\
 &emsp;Da dubitar sarebbe a maravigla.
 
-²⁸ Certe illi qui mecum se subtilizat,\
+28 Certe illi qui mecum se subtilizat,\
 &emsp;Si Scriptura supra vos non esset,\
 &emsp;Dubitandum esset et mirum.
 
-²⁹ O terreni animali, o menti grosse!\
+29 O terreni animali, o menti grosse!\
 &emsp;La prima volontà, che è per sè buona,\
 &emsp;Da sè, ch'è sommo ben, mai non si mosse.
 
-²⁹ O terrena animalia, o mentes grossas!\
+29 O terrena animalia, o mentes grossas!\
 &emsp;Prima voluntas, que per se est bona,\
 &emsp;A se, que est summum bonum, nunquam se movit.
 
-³⁰ Cotanto è giusto, quant'a lei consuona;\
+30 Cotanto è giusto, quant'a lei consuona;\
 &emsp;Nullo creato ben a sè la tira,\
 &emsp;Ma essa, radiando, lui cagiona.
 
-³⁰ In tantum est iustum, in quantum ei consonat;\
+30 In tantum est iustum, in quantum ei consonat;\
 &emsp;Nullum creatum ad se illam trahit,\
 &emsp;Sed ipsa, radiando, ipsum causat.
 
-(¹) voluntates — (²) operationes — (³) si ille.
+(1) voluntates — (2) operationes — (3) si ille.
 
 Moritur non baptizatus et sine fide: ubi est ista iustitia que ipsum condempnat? ubi est culpa sua, si ipse non credit? Nunc ille, qui talem questionem format, movetur, ex una parte, inde: Qui non crediderit, condempnabitur. Ex alia parte movetur ex hoc: Quia fecit quidquid fuit in se, nec potuit credere, quia non habuit informatorem, et pro eo non remansit, quare igitur dampnatur? Ista dubitatio hic aliter non solvitur, nisi quod nos mortales debemus stare in hoc, quod quidquid Deus facit reputemus fore [iustum], et licet nesciamus videre istam iustitiam; et certe non possumus ipsam a nobis videre, quia iudicia Dei abyssus multa; nos videmus pauca, et paucam vel nullam scientiam habemus; et ideo debemus credere quod Deus bene facit, et non querere quare sic fecit: quia cum curto et brevi videre, idest cum pauca scientia, non possumus a longe videri, nec archana iudicare.
 
@@ -338,55 +338,55 @@ In tanto est iustum, in quantum ei consonat (facit enim voluntas divina, sicut f
 
 <!-- p. 1050 (1104) -->
 
-³¹ Quale sovra'l suo nido si raggira,\
+31 Quale sovra'l suo nido si raggira,\
 &emsp;Poi ch'ha pasciuti la cicogna e figli,\
 &emsp;E come quei ch'è pasto la rimira;
 
-³¹ Qualis supra nidum regyratur,\
+31 Qualis supra nidum regyratur,\
 &emsp;Postquam pavit ciconia filios,\
 &emsp;Et qualis ille qui pastus est illam respicit;
 
-³² Cotal si fece, e su levò li cigli,\
+32 Cotal si fece, e su levò li cigli,\
 &emsp;La benedetta ymagine, che l'hali\
 &emsp;Movea sospinta da tanti consigli.
 
-³² Talis fuit facta, et ita levavi supercilia.\
+32 Talis fuit facta, et ita levavi supercilia.\
 &emsp;Benedicta ymago, que alas\
 &emsp;Michi impulerat ad tanta consilia.
 
-³³ Roteando cantava, e dicea: Quali\
+33 Roteando cantava, e dicea: Quali\
 &emsp;Son le mie note a te che non le'ntendi,\
 &emsp;Tal è'l iudicio eterno a voi mortali.
 
-³³ Roteando cantabat, et dicebat: Quales\
+33 Roteando cantabat, et dicebat: Quales\
 &emsp;Sunt mee note tibi qui illas non intelligis,\
 &emsp;Tale est iudicium eternum vobis mortalibus.
 
-³⁴ Poi seguitaro quei lucenti incendi\
+34 Poi seguitaro quei lucenti incendi\
 &emsp;Dello Spirito Sancto, ancor nel segno\
 &emsp;Che fe' e Romani al mondo reverendi.
 
-³⁴ Postea secuta sunt illa lucentia incendia\
+34 Postea secuta sunt illa lucentia incendia\
 &emsp;Spiritus Sancti, adhuc in signum\
 &emsp;Quod fecit Romanos mundo reverendos.
 
-³⁵ Esso ricominciò: A questo regno\
+35 Esso ricominciò: A questo regno\
 &emsp;Non sallì mai chi non credette a Chrysto,\
 &emsp;Nè pria nè poi che si chiavasse al legno.
 
-³⁵ Ipsum reincepit: Ad istud regnum\
+35 Ipsum reincepit: Ad istud regnum\
 &emsp;Non ascendit unquam qui non crediderit in Christum,\
 &emsp;Vel prius vel postea quod conclavaretur in ligno.
 
-³⁶ Ma vedi, molti gridan Chrysto, Chrysto,\
-&emsp;Che saran nel iudicio assai men prope (¹)\
-&emsp;A lui (²), che tal che non cognosce Chrysto:
+36 Ma vedi, molti gridan Chrysto, Chrysto,\
+&emsp;Che saran nel iudicio assai men prope (1)\
+&emsp;A lui (2), che tal che non cognosce Chrysto:
 
-³⁶ Sed videas, multi clamant Christum, Christum,\
+36 Sed videas, multi clamant Christum, Christum,\
 &emsp;Qui erunt in iudicio satis minus prope\
 &emsp;Eum, quam talis qui non cognovit Christum:
 
-(¹) presso — (²) Chrysto.
+(1) presso — (2) Chrysto.
 
 o Deus, non fecisti me Paulum, aut Alexandrum, aut Cesarem? Si unus dat unam rem magnam uni gratis, et alii parvam, quare ipse, qui habet parvam rem, debet conqueri? quia etiam ipse illam parvam rem habet de gratia); nullum creatum bonum ad se illam trahit (quia divina voluntas non trahitur ab obiecto extrinseco, sed movetur voluntas creata, cum ipsa voluntas divina sit causa omnium creaturarum), sed ipsa radiando, ipsum, scilicet creatum, causat, quod bonum creatum habeant homines.
 
@@ -402,55 +402,55 @@ Modo vult dicere, quod non sufficit esse baptizatum et habere nomen Christianita
 
 <!-- p. 1051 (1105) -->
 
-³⁷ E tai chrystiani dannerà l'Etyòpe,\
+37 E tai chrystiani dannerà l'Etyòpe,\
 &emsp;Quando si partiranno e due collegi,\
 &emsp;L'uno in eterno richo, l'altro inòpe.
 
-³⁷ Et talem christianum dampnabit Ethiops,\
+37 Et talem christianum dampnabit Ethiops,\
 &emsp;Quando separabuntur duo collegia,\
 &emsp;Unum in eternum dives, aliud inops.
 
-³⁸ Che potran dir li Persi a' vostri regi,\
-&emsp;Come (¹) vedranno quel volume (²) aperto,\
-&emsp;Nel qual si scriven tutti suoi (³) dispregi?
+38 Che potran dir li Persi a' vostri regi,\
+&emsp;Come (1) vedranno quel volume (2) aperto,\
+&emsp;Nel qual si scriven tutti suoi (3) dispregi?
 
-³⁸ Quid poterunt dicere Persi vestris regibus,\
+38 Quid poterunt dicere Persi vestris regibus,\
 &emsp;Quomodo videbunt illud volumen apertum,\
 &emsp;In quo scribuntur omnes sui despectus?
 
-³⁹ Lì si vedrà, tra l'opere d'Alberto.\
+39 Lì si vedrà, tra l'opere d'Alberto.\
 &emsp;Quella che tosto moverà la penna,\
 &emsp;Perchè 'l regno di Plaga fi' deserto:
 
-³⁹ Ibi videbitur, intra opera Alberti,\
+39 Ibi videbitur, intra opera Alberti,\
 &emsp;Illa que cito movebit pennam,\
 &emsp;Per quam regnum Prage erit desertum.
 
-⁴⁰ Lì si vedrà el duol che sopra Senna\
+40 Lì si vedrà el duol che sopra Senna\
 &emsp;Induce, falseggiando la moneta,\
 &emsp;Quei che morrà di colpo di cotenna.
 
-⁴⁰ Ibi videbitur dolus quem supra Sennam\
+40 Ibi videbitur dolus quem supra Sennam\
 &emsp;Inducit, falsificando monetam,\
 &emsp;Ille qui morietur de ictu cotenne.
 
-⁴¹ Lì si vedrà la superbia ch' asseta,\
+41 Lì si vedrà la superbia ch' asseta,\
 &emsp;Che fa lo Scotho e l'Inghilese folle\
 &emsp;Sì, che non può soffrir dentr'a sua meta.
 
-⁴¹ Ibi videbitur superbia que sitire facit,\
+41 Ibi videbitur superbia que sitire facit,\
 &emsp;Et facit Scotum et Anglicum fatuum\
 &emsp;Ita, quod non potest sufferre infra suam metam.
 
-⁴² Vedrassi la luxuria e 'l viver molle\
+42 Vedrassi la luxuria e 'l viver molle\
 &emsp;Di quel di Spagna, e di quel di Buemme,\
 &emsp;Che mai valor non cognobbe nè volle.
 
-⁴² Videbitur luxuria et vivere molle\
+42 Videbitur luxuria et vivere molle\
 &emsp;Illius de Hyspania, et illius de Bohemia,\
 &emsp;Qui unquam valorem non agnovit nec voluit.
 
-(¹) al. quando — (²) Chrysto — (³) di Crysto, cioè peccati humani.
+(1) al. quando — (2) Chrysto — (3) di Crysto, cioè peccati humani.
 
 Et talem Christianum dampnabit Ethiopus, quando separabuntur duo collegia, hedorum et agnorum, in die iudicii: unum in eternum dives, scilicet agnorum salvandorum; aliud inops, scilicet hedorum dampnandorum.
 
@@ -466,55 +466,55 @@ Modo increpat duos reges simul, scilicet Alphonsum regem Hispanie, sive Castelle
 
 <!-- p. 1052 (1106) -->
 
-⁴³ Vedrassi Ciotto di Ierusalemme\
+43 Vedrassi Ciotto di Ierusalemme\
 &emsp;Segnata con un I la sua bontate,\
 &emsp;Quando'l contrario segnerà un Emme.
 
-⁴³ Videbitur ad Cioctum Hierusalem\
+43 Videbitur ad Cioctum Hierusalem\
 &emsp;Signata cum uno I sua bonitas,\
 &emsp;Quando contrarium signabit unum M.
 
-⁴⁴ Vedrassi l'avaritia e la viltate\
-&emsp;Di quel che guarda l'Isola del foco (¹),\
+44 Vedrassi l'avaritia e la viltate\
+&emsp;Di quel che guarda l'Isola del foco (1),\
 &emsp;Ov' Anchise finì la lunga etate;
 
-⁴⁴ Videbitur avaritia et vilitas\
+44 Videbitur avaritia et vilitas\
 &emsp;Illius qui custodit Insulam foci,\
 &emsp;Ubi Anchises finivit longam etatem;
 
-⁴⁵ E, per dar ad intender quant'è poco,\
+45 E, per dar ad intender quant'è poco,\
 &emsp;La sua scriptura fien lettere mozze,\
 &emsp;Che noteranno molto in parvo loco.
 
-⁴⁵ Et, ad dandum intelligendum quantum est modica\
+45 Et, ad dandum intelligendum quantum est modica\
 &emsp;Sua scriptura, fient littere mozze,\
 &emsp;Que non tenebunt multum in parvo loco.
 
-⁴⁶ E parranno a ciascun l'opere sozze\
+46 E parranno a ciascun l'opere sozze\
 &emsp;Del barba e del fratel, che tanto egregia\
 &emsp;Nation e due corone han facte bozze.
 
-⁴⁶ Et apparebunt cuilibet opera turpia\
+46 Et apparebunt cuilibet opera turpia\
 &emsp;Patrui et patris, que tantum egregiam\
 &emsp;Nationem et duas coronas fecerunt bozzas.
 
-⁴⁷ E quel di Portogallo e di Novergia (²)\
+47 E quel di Portogallo e di Novergia (2)\
 &emsp;Lì si conosceranno, e quel di Rascia\
 &emsp;Che mal ha visto el cogno di Vinegia.
 
-⁴⁷ Et ille de Portugallia et de Novergia\
+47 Et ille de Portugallia et de Novergia\
 &emsp;Ibi cognoscentur, et ille de Rascia\
 &emsp;Qui male vidit conium Venetorum.
 
-⁴⁸ O beata Ungharia, se non si lasc[i]a\
+48 O beata Ungharia, se non si lasc[i]a\
 &emsp;Più malmenare! E beata Navarra,\
-&emsp;Se s'armasse del monte (³) che la fascia!
+&emsp;Se s'armasse del monte (3) che la fascia!
 
-⁴⁸ Et beatam Ungariam, si non se permictit\
+48 Et beatam Ungariam, si non se permictit\
 &emsp;Plus male duci! Et beatam Navarram,\
 &emsp;Si se armaret de monte qui illam fasciat!
 
-(¹) Sicilia — (²) al. Norvegia per la rima — (³) genti vicine.
+(1) Sicilia — (2) al. Norvegia per la rima — (3) genti vicine.
 
 Modo vadit ad Karolum Cioctum, filium Karoli primi, patrem regis Ruberti. Qui fuit curialis homo et liberalis: sed tot fuerunt sua vitia, quod pro una bona operatione quam fecit, fecit mille mala. Ideo, quando opus suum bonum scribitur per unum I, quod importat unum, peccata sua scribuntur per unum M, quod importaret mille. Reges Cicilie vocant se reges Hierusalem, quia Karolus primus cum fratre suo acquisivit Hierusalem. Videbitur ad Cioctum, scilicet regem Hierusalem, qui erat rex Cicilie, signata cum uno I, sua bonitas, quando contrarium signabit unum M.
 
@@ -528,17 +528,17 @@ Et beatam Ungariam, idest dico, si se non permictit plus male duci, quia habebat
 
 <!-- p. 1053 (1107) -->
 
-⁴⁹ E creder de' (¹) ciascun che già, per arra\
+49 E creder de' (1) ciascun che già, per arra\
 &emsp;Di questo, Nycosia e Famagosta\
 &emsp;Per la lor bestia si lamenti e garra,\
 &emsp;Che dal fianco dell'altre non si scosta.
 
-⁴⁹ Et credere debet quilibet quod iam, pro arra\
+49 Et credere debet quilibet quod iam, pro arra\
 &emsp;Istius, Nichosia et Famagusta\
 &emsp;Propter illarum bestiam lamententur et garriant,\
 &emsp;Quia a lateribus aliorum non deheret.
 
-(¹) debba.
+(1) debba.
 
 et beata[m] Navarra[m] (Navarra est pars Hispanie) idest dico, si se armaret de monte qui illam fasciat; ita quod haberet regem suum, et rex Francie se non impediret de Navarra.
 

@@ -8,23 +8,23 @@ In isto decimo capitulo, quod incipit: Postea fuimus intra, auctor, ex quo decla
 
 # Capitulum Decimum
 
-¹ Poi fummo dentro al soglo de la porta\
+1 Poi fummo dentro al soglo de la porta\
 &emsp;Che 'l mal amor dell'anima disusa,\
 &emsp;Perchè fa parer dritta la via torta,
 
-¹ Postquam fuimus intra summum porte,\
+1 Postquam fuimus intra summum porte,\
 &emsp;Que malum amorem ab animabus retrahit,\
 &emsp;Quia facit apparere rectam viam tortuosam,
 
-² Sonando la senti' esser richiusa (¹):\
-&emsp;E s'io havessi gl'ochi volti ad essa (²),\
+2 Sonando la senti' esser richiusa (1):\
+&emsp;E s'io havessi gl'ochi volti ad essa (2),\
 &emsp;Qual fora stata al fallo degna scusa?
 
-² Sonando illam sensi esse reclusam:\
+2 Sonando illam sensi esse reclusam:\
 &emsp;Et si ego volvissem oculos meos ad illam,\
 &emsp;Qualis fuisset ad crimen digna excusatio?
 
-(¹) la porta. — (²) per rea diviatione.
+(1) la porta. — (2) per rea diviatione.
 
 Postquam fuimus intra. Poi fummo dentro: istud est decimum capitulum huius Purgatorii, in quo tractat de primo circulo ipsius veri Purgatorii, in quo punitur primum mortale, idest generale, peccatum, scilicet superbia. Prout dictum fuit superius in principio libri, in uno preambulorum, in Purgatorio sunt septem circuli, in quibus purgantur septem peccata capitalia. In primo et in inferiori purgatur superbia, et in capitulo isto ponitur pena qua purgantur superbi, vel hii qui fuerunt superbi in presenti vita. Dividitur autem istud capitulum in quatuor partes; in quarum prima, continuando dicta dicendis, ponit quomodo reclausa fuit porta, postquam ipse intravit Purgatorium.
 
@@ -50,43 +50,43 @@ Postquam fuimus intra summum porte, vel, sic, sogliam idest limen, que scilicet 
 
 <!-- p. 535 (0589) -->
 
-³ Noi salivàmmo per una pietra fessa,\
+3 Noi salivàmmo per una pietra fessa,\
 &emsp;Che si movea d'una e d'altra parte,\
 &emsp;Sì come l'onda che fugge e s'appressa.
 
-³ Nos ascendebamus per unam petram scissam,\
+3 Nos ascendebamus per unam petram scissam,\
 &emsp;Que movebatur ab una et alia parte,\
 &emsp;Sicut unda que fugit et se propinquat.
 
-⁴ Qui si convien usar un poca d'arte,\
+4 Qui si convien usar un poca d'arte,\
 &emsp;Cominciò 'l duca mio, in accostarsi,\
 &emsp;Hor quinci hor quindi, al lato che si parte.
 
-⁴ Hic convenit uti aliquantulo artis,\
+4 Hic convenit uti aliquantulo artis,\
 &emsp;Incepit dux meus, inherendo,\
 &emsp;Nunc hinc nunc inde, lateri quod dividitur.
 
-⁵ E questo fece e nostri passi scarsi\
+5 E questo fece e nostri passi scarsi\
 &emsp;Tanto, che pria lo scemo de la luna\
 &emsp;Rigiunse al lecto suo per ricorcarsi,
 
-⁵ Et hoc fecit nostros passus tardos\
+5 Et hoc fecit nostros passus tardos\
 &emsp;Tantum, quod prius vacuitas lune\
 &emsp;Reiunxit ad lectum suum ut requiesceret,
 
-⁶ Che noi fussimo fuor di quella cuna.\
+6 Che noi fussimo fuor di quella cuna.\
 &emsp;Ma quando fummo liberi et aperti\
 &emsp;Su dove 'l monte indietro si raduna,
 
-⁶ Quam nos essemus extra crunam.\
+6 Quam nos essemus extra crunam.\
 &emsp;Sed quando fuimus liberi et aperti\
 &emsp;Sursum ubi mons retro se accumulat,
 
-⁷ Io stancato, et amendue incerti\
+7 Io stancato, et amendue incerti\
 &emsp;Di nostra via, restammo in su 'n un piano\
 &emsp;Solingo più che strade per diserti.
 
-⁷ Ego fatigatus, et ambo incerti\
+7 Ego fatigatus, et ambo incerti\
 &emsp;Nostre vie, resedimus in uno plano\
 &emsp;Solitario magis quam strate per deserta.
 
@@ -104,63 +104,63 @@ Sed quando fuimus liberi et aperti sursum ubi mons retro se accumulat, idest acc
 
 <!-- p. 536 (0590) -->
 
-⁸ Da la sua sponda, ove confina el vano,\
+8 Da la sua sponda, ove confina el vano,\
 &emsp;A piè dell'alta ripa, che pur sale,\
 &emsp;Misurebbe in tre volte un corpo humano;
 
-⁸ Ab illa sponda, ubi finit vacuum,\
+8 Ab illa sponda, ubi finit vacuum,\
 &emsp;Ad pedes alterius ripe, que semper tendit in altum,\
 &emsp;Mensuraret in tribus vicibus unum corpus humanum;
 
-⁹ E quanto l'ochio mio potea trhar d'hale\
+9 E quanto l'ochio mio potea trhar d'hale\
 &emsp;Hor dal sinistro et hor dal dextro fianco,\
 &emsp;Questa cornice mi parea cotale.
 
-⁹ Et quantum oculus meus poterat trahere de alis\
+9 Et quantum oculus meus poterat trahere de alis\
 &emsp;Nunc ad sinistrum et nunc ad dexterum latus,\
 &emsp;Ista cornix michi apparebat talis.
 
-¹⁰ Lassù non eran mossi e piè nostri anco,\
+10 Lassù non eran mossi e piè nostri anco,\
 &emsp;Quando conobbi quella ripa intorno,\
-&emsp;Che dietro (¹) di salita havea manco,
+&emsp;Che dietro (1) di salita havea manco,
 
-¹⁰ Illuc sursum non erant moti pedes nostri adhuc,\
+10 Illuc sursum non erant moti pedes nostri adhuc,\
 &emsp;Quando cognovi illam ripam in circum,\
 &emsp;Que recti ascensus habebat defectum,
 
-¹¹ Esser di marmo candido, et adorno\
+11 Esser di marmo candido, et adorno\
 &emsp;D'intagli sì, che non pur Policreto,\
 &emsp;Ma la natura lì havrebbe scorno.
 
-¹¹ Esse de marmore candido et ornato\
+11 Esse de marmore candido et ornato\
 &emsp;Ymaginibus ita, quod non Policretus,\
 &emsp;Sed natura ibi habuisset scornum.
 
-¹² L'angel che venne in terra col decreto\
+12 L'angel che venne in terra col decreto\
 &emsp;De la molt'anni lacrimata pace,\
 &emsp;Ch'aperse 'l ciel dal suo lungo divieto,
 
-¹² Angelus qui venit in terram cum decreto\
+12 Angelus qui venit in terram cum decreto\
 &emsp;De multis annis lacrymate pacis,\
 &emsp;Aperuit celum de sua longa prohibitione ;
 
-¹³ Dinanz'a noi (²) pareva sì verace\
+13 Dinanz'a noi (2) pareva sì verace\
 &emsp;Quivi intagliato in un acto suave,\
 &emsp;Che non sembiava ymagine che tace.
 
-¹³ Ante me apparebat ita verax\
+13 Ante me apparebat ita verax\
 &emsp;Ibi excisus in uno actu suavi,\
 &emsp;Quod non assimilabatur ymagini que tacet.
 
-¹⁴ Giurato si saria ch'el dicesse: Ave;\
+14 Giurato si saria ch'el dicesse: Ave;\
 &emsp;Perchè iv'era ymaginata quella,\
 &emsp;Ch'ad aprir l'alt'amor volse la chiave.
 
-¹⁴ Cum iuramento dici potuisset quod diceret: Ave;\
+14 Cum iuramento dici potuisset quod diceret: Ave;\
 &emsp;Quia ibi erat ymaginata illa,\
 &emsp;Que ad aperiendum altum amorem volvit clavim.
 
-(¹) al. dritto. — (²) al. dinanti a noi.
+(1) al. dritto. — (2) al. dinanti a noi.
 
 Ab illa sponda, idest parte, ubi finit vacuum, ad pedes alterius ripe, que semper tendit in altum, idest que semper ascendit, mensuraret in tribus vicibus unum corpus humanum, idest a ripa montis, ubi est illa via, ad ripam exteriorem, erant forte tres passus usque ad extremitatem exteriorem, ubi est confinium vacuum, quia non est paries post ripam: et quantum oculus meus poterat trahere de alis, idest respicere a longe, nunc ad sinistrum nunc ad dextrum latus, ista cornix, idest ripa, michi apparebat talis, sicut dictum est.
 
@@ -176,63 +176,63 @@ Cum iuramento dici potuisset, quod diceret: Ave; quia ibi erat ymaginata illa, s
 
 <!-- p. 537 (0591) -->
 
-¹⁵ Havea in acto impressa esta favella :\
+15 Havea in acto impressa esta favella :\
 &emsp;Ecce Ancilla Dei; propriamente,\
 &emsp;Come figura in cera si suggella.
 
-¹⁵ Et habebat in actu impressam istam loquelam :\
+15 Et habebat in actu impressam istam loquelam :\
 &emsp;Ecce Ancilla Dei; proprie,\
 &emsp;Sicut figura in cera sigillatur.
 
-¹⁶ Non tener pur ad un loco la mente,\
+16 Non tener pur ad un loco la mente,\
 &emsp;Disse 'l dolce maestro, che m'havea\
 &emsp;Da quella parte, ove 'l chuor ha la gente:
 
-¹⁶ Non teneas solum ad unum locum mentem,\
+16 Non teneas solum ad unum locum mentem,\
 &emsp;Dixit dulcis magister, qui me habebat\
 &emsp;Ab illa parte, unde cor habent gentes :
 
-¹⁷ Perch'io mi mossi col viso; e vedea,\
+17 Perch'io mi mossi col viso; e vedea,\
 &emsp;Dirieto da Maria, da quella costa\
 &emsp;Onde m'era colui che mi movea,
 
-¹⁷ Ex quo ego me movi cum visu; et videbam,\
+17 Ex quo ego me movi cum visu; et videbam,\
 &emsp;Retro Mariam, ab illa costa\
 &emsp;Unde michi erat ille qui me movebat.
 
-¹⁸ Un'altra storia ne la roccia imposta:\
+18 Un'altra storia ne la roccia imposta:\
 &emsp;Perch'io varcai Virgilio, e femi presso,\
 &emsp;Acciò che fusse agl'occhi miei disposta.
 
-¹⁸ Unam aliam hystoriam in rupe impositam:\
+18 Unam aliam hystoriam in rupe impositam:\
 &emsp;Ex quo ego pertransivi Virgilium, et feci me prope,\
 &emsp;Ad hoc ut esset oculis meis disposita.
 
-¹⁹ Era 'ntagliato lì nel marmo stesso\
+19 Era 'ntagliato lì nel marmo stesso\
 &emsp;El carro e' buoi trahendo l'Arca santa,\
-&emsp;Perchè (¹) si teme officio non commesso (²).
+&emsp;Perchè (1) si teme officio non commesso (2).
 
-¹⁹ Erat excisum ibi in marmore ipso\
+19 Erat excisum ibi in marmore ipso\
 &emsp;Currus et boves trahendo Archam sanctam,\
 &emsp;Propter quam timetúr officium non commissum.
 
-²⁰ Dinanzi parea gente; e tutta quanta\
-&emsp;Partita in septe chori, a due mie'sensi (³)\
-&emsp;Faceva l'un dir no (⁴), l'altro (⁵) sì, canta.
+20 Dinanzi parea gente; e tutta quanta\
+&emsp;Partita in septe chori, a due mie'sensi (3)\
+&emsp;Faceva l'un dir no (4), l'altro (5) sì, canta.
 
-²⁰ Ante apparebat gens; et tota\
+20 Ante apparebat gens; et tota\
 &emsp;Divisa in septem choros, duobus meis sensibus\
 &emsp;Faciebat dicere: Unus non, et alter ita, cantat.
 
-²¹ Similemente al fumo de gl'incensi\
+21 Similemente al fumo de gl'incensi\
 &emsp;Che v'era ymaginato, gl'ochi e 'l naso\
 &emsp;Et al sì et al no discordi fensi.
 
-²¹ Similiter ad fumum incensorum\
+21 Similiter ad fumum incensorum\
 &emsp;Qui erant ibi ymaginati, oculi et nasus\
 &emsp;Et ad ita et ad non discordes facti fuerunt.
 
-(¹) per la quale. — (²) propter Ozam dicta. — (³) audito e viso. — (⁴) l'audito. — (⁵) viso.
+(1) per la quale. — (2) propter Ozam dicta. — (3) audito e viso. — (4) l'audito. — (5) viso.
 
 altum amorem volvit clavem; idest ad incarnationem Verbi ministravit carnem Christo ex suo purissimo sanguine, cooperante Spiritu Sancto. Et habebat impressam istam loquelam: Ecce Ancilla Dei; proprie sicut figura in cera sigillatur, idest in sigillando imprimítur.
 
@@ -250,23 +250,23 @@ Similiter ad fumum incensorum, qui ibi erant ymaginati; oculi et nasus, et ad it
 
 <!-- p. 538 (0592) -->
 
-²² Lì procedeva (¹) el benedecto vaso (²),\
-&emsp;Treschando (³) alzato, l'humile Psalmista,\
+22 Lì procedeva (1) el benedecto vaso (2),\
+&emsp;Treschando (3) alzato, l'humile Psalmista,\
 &emsp;E più e men che re era 'n quel caso.
 
-²² Ibi procedebat benedictum vas,\
+22 Ibi procedebat benedictum vas,\
 &emsp;Tripudiando succinctus, humilis Psalmista,\
 &emsp;Et plus et minus erat quam rex in illo casu.
 
-²³ Di scontro effigiata, ad una vista (⁴)\
+23 Di scontro effigiata, ad una vista (4)\
 &emsp;D'un gran palagio, Micol ammirava,\
 &emsp;Sì come donna dispettosa e trista.
 
-²³ E contra effigiata stabat ad unam vistam\
+23 E contra effigiata stabat ad unam vistam\
 &emsp;Unius magni palatii Michol, respiciebat,\
 &emsp;Sicut domina despectosa et tristis.
 
-(¹) al. precedeva. — (²) l'Archa. — (³) al. danzando. — (⁴) loggia, o finestra.
+(1) al. precedeva. — (2) l'Archa. — (3) al. danzando. — (4) loggia, o finestra.
 
 Idest oculus iudicabat, quod illi sacerdotes cantabant, seu cantarent; sed auris [non] sic iudicabat, quia nihil audiebam: sic de fumo incensorum, oculus iudicabat quod fumus ascenderet de turibulis, que erant ibi sculpta; nasus non sic iudicabat, quia non odorabat talem fumum nec sentiebat.
 
@@ -280,79 +280,79 @@ Tunc Imperator dixit vidue: Faciam ergo omnino iustitiam et solvam debitum; quia
 
 <!-- p. 539 (0593) -->
 
-²⁴ Io mossi e piè del loco ov'io stava,\
+24 Io mossi e piè del loco ov'io stava,\
 &emsp;Per avvisar da presso un'altra storia\
 &emsp;Che dietro a Micol mi biancheggiava.
 
-²⁴ Ego movi me de loco ubi stabam,\
+24 Ego movi me de loco ubi stabam,\
 &emsp;Ut viderem de propinquo unam aliam hystoriam\
 &emsp;Que retro Michol michi albebat.
 
-²⁵ Quivi era storiata l'alta gloria\
+25 Quivi era storiata l'alta gloria\
 &emsp;Del roman principato, el cui valore\
 &emsp;Mosse Gregorio alla sua gran victoria:
 
-²⁵ Ibi erat hystoriata alta gloria\
+25 Ibi erat hystoriata alta gloria\
 &emsp;Romani principatus, cuius valor\
 &emsp;Movit Gregorium ad suam grandem victoriam:
 
-²⁶ Io dico di Trayano imperadore;\
+26 Io dico di Trayano imperadore;\
 &emsp;Et una vedovella gl'era al freno,\
 &emsp;Di lagrime atteggiata e di dolore.
 
-²⁶ Ego dico de Trayano Imperatore;\
+26 Ego dico de Trayano Imperatore;\
 &emsp;Et una viduella erat ad frenum eius,\
 &emsp;De lacrymis attigiata et de dolore.
 
-²⁷ Intorno a lui parea calcato e pieno\
-&emsp;Di cavalieri, e l'aquile (¹) nell'oro (²)\
+27 Intorno a lui parea calcato e pieno\
+&emsp;Di cavalieri, e l'aquile (1) nell'oro (2)\
 &emsp;Sovr'essi in vista al vento si movieno.
 
-²⁷ Coram eo apparebat cumulatum et plenum\
+27 Coram eo apparebat cumulatum et plenum\
 &emsp;De militibus, et aquile in auro\
 &emsp;Super ipsos in vista ad ventum movebantur.
 
-²⁸ La miserella infra tutti costoro\
+28 La miserella infra tutti costoro\
 &emsp;Parea dicer: Signore, fammi vendetta\
 &emsp;Del mio figlo ch'è morto, ond'io m'acchoro.
 
-²⁸ Illa miserella intra omnes istos\
+28 Illa miserella intra omnes istos\
 &emsp;Apparebat dicere: Domine, fac michi vindictam\
 &emsp;De meo filio qui est mortuus, unde ego crucior.
 
-²⁹ Et elli a lei risponder: Or m'aspecta\
+29 Et elli a lei risponder: Or m'aspecta\
 &emsp;Tanto ch'io torni. E quella: O signor mio,\
 &emsp;Come persona in cui dolor s'affrecta,
 
-²⁹ Et ipse ad eam respondere: Nunc te expecta\
+29 Et ipse ad eam respondere: Nunc te expecta\
 &emsp;Tantum quod ego revertar. Et illa: O domine mi,\
 &emsp;Sicut persona in quam dolor festinatur,
 
-³⁰ Se tu non torni? E quei: Chi fia dov'io,\
+30 Se tu non torni? E quei: Chi fia dov'io,\
 &emsp;La ti farà. Et ella: L'altrui bene\
 &emsp;A te che fia, se tu 'l metti in oblio?
 
-³⁰ Si tu non redis? Et ipse: Aliquis erit ubi ego:\
+30 Si tu non redis? Et ipse: Aliquis erit ubi ego:\
 &emsp;Illam tibi faciet. [Et illa:] Alterius bonum\
 &emsp;Ad te quid erit, si tu illud mictis in oblivionem?
 
-³¹ Ond'elli: Hor ti conforta, che convene\
+31 Ond'elli: Hor ti conforta, che convene\
 &emsp;Ch'io solva mio dover, anzi ch'io mova:\
 &emsp;Iustitia vuole, e pietà mi ritiene.
 
-³¹ Et ipse: Or conforteris, quia convenit\
+31 Et ipse: Or conforteris, quia convenit\
 &emsp;Quod ego solvam meum debitum, antequam ego me moveam:\
 &emsp;Iustitia vult, et pietas me retinet.
 
-³² Colui, che mai non vidde cosa nova,\
+32 Colui, che mai non vidde cosa nova,\
 &emsp;Produsse esto visibile parlare,\
 &emsp;Novello a noi, perchè qui non si trova.
 
-³² Ille, qui nunquam vidit rem novam,\
+32 Ille, qui nunquam vidit rem novam,\
 &emsp;Produxit istam visibilem loquelam,\
 &emsp;Novam nobis, quia hic non reperitur.
 
-(¹) nere. — (²) in campo d'oro.
+(1) nere. — (2) in campo d'oro.
 
 Ego movi me de loco ubi stabam, ut viderem de propinquo unam aliam hystoriam, que retro Michol [albebat].
 
@@ -370,63 +370,63 @@ Ille qui nunquam vidit rem novam, scilicet Deus cui nihil est novum, produxit is
 
 <!-- p. 540 (0594) -->
 
-³³ Mentr'io mi dilectava di guardare\
+33 Mentr'io mi dilectava di guardare\
 &emsp;L'ymagine di tante humilitadi\
-&emsp;E per lo fabro lor (¹) a veder care;
+&emsp;E per lo fabro lor (1) a veder care;
 
-³³ Dum ego delectabar respicere\
+33 Dum ego delectabar respicere\
 &emsp;Ymagines tantarum humilitatum,\
 &emsp;Et propter fabrum earum ad videndum caras;
 
-³⁴ Ecco di qua, ma fanno passi radi.\
+34 Ecco di qua, ma fanno passi radi.\
 &emsp;Mormorava'l Poeta, molte genti:\
 &emsp;Queste ne 'nvieranno agl'altri gradi.
 
-³⁴ Ecce abhinc, sed faciunt passus raros,\
+34 Ecce abhinc, sed faciunt passus raros,\
 &emsp;Murmurabat Poeta, multas gentes:\
 &emsp;Iste nos inviabunt ad altos gradus.
 
-³⁵ Gl'ochi miei che a mirar eran contenti,\
+35 Gl'ochi miei che a mirar eran contenti,\
 &emsp;Per veder novità, onde sono vaghi,\
 &emsp;Volgendosi ver lui, non furon lenti.
 
-³⁵ Oculi mei qui ad respiciendum erat contenti,\
+35 Oculi mei qui ad respiciendum erat contenti,\
 &emsp;Propter videndum novitates, unde sunt vagi,\
 &emsp;Ad volvendum se versus eum, non fuerunt lenti.
 
-³⁶ Non vo' però, lector, che tu ti smaghi\
+36 Non vo' però, lector, che tu ti smaghi\
 &emsp;Di buon proponimento, per udire\
 &emsp;Come Dio vuol che'l debito si paghi.
 
-³⁶ Nolo tamen, lector, quod tu desistas\
+36 Nolo tamen, lector, quod tu desistas\
 &emsp;A bono proposito, propter audiendo\
 &emsp;Quomodo Deus vult quod debitum solvatur.
 
-³⁷ Non attender la forma del martire:\
+37 Non attender la forma del martire:\
 &emsp;Pensa la succession; pensa ch', a peggio,\
 &emsp;Oltra la gran sententia non può ire.
 
-³⁷ Non attendas formam martyrii:\
+37 Non attendas formam martyrii:\
 &emsp;Cogita successionem; cogita quod, ad peius,\
 &emsp;Ultra grandem sententiam non potest iri.
 
-³⁸ Io cominciai: Maestro, quel ch'io veggio\
+38 Io cominciai: Maestro, quel ch'io veggio\
 &emsp;Muover a noi, non mi paion persone,\
 &emsp;E non so io che, nel veder, vaneggio.
 
-³⁸ Ego incepi: Magister, illud quod ego video\
+38 Ego incepi: Magister, illud quod ego video\
 &emsp;Venire ad nos, non michi apparent persone,\
 &emsp;Et nescio quid, ita in videre frustror.
 
-³⁹ Et elli a me: La grave conditione\
+39 Et elli a me: La grave conditione\
 &emsp;Di lor tormento a terra li rannichia\
 &emsp;Sì, ch'e miei ochi pria n'ebber tencione.
 
-³⁹ Et ipse ad me: Gravis conditio\
+39 Et ipse ad me: Gravis conditio\
 &emsp;Suorum tormentorum ad terram illos rannichiat\
 &emsp;Ita, quod mei oculi prius habuerunt questionem.
 
-(¹) opifice Dio.
+(1) opifice Dio.
 
 Dum me delectabar respicere. Mentre io me delectava: hec est quarta pars huius capituli, in qua auctor ponit penam generalem istorum, qui hic puniuntur. Nam hic puniuntur superbi. Pena talis est superborum. Nam quilibet portat unum saxum, idest lapidem, valde gravem, super collum retro; qui lapis propter suam gravedinem facit istos superbos inclinare versus terram plus et minus, secundum quod plus minus superbierunt in vita ista; et sic vadunt per illam viam ascendendo, quod vix possunt se movere. Nota moraliter quod superbus, si vult deponere superbiam, oportet ipsum inclinare caput tantum decline quantum se erexit; et ista est bene magna pena in presenti vita, quia sic facere reputatur in hoc mundo una vilitas, et sic se humiliantes reputantur viles, ymo vilissimi: tamen in rei veritate non est vilitas, sed virtuosissima operatio, sicut patuit in Theodosio Imperatore, volente intrare ecclesiam, ubi erat Sanctus Ambrosius. Qui accedens ad ipsum Imperatorem, euntem Mediolanum, dicens: Recede, ne intres ecclesiam, ut non macules templum Dei (qui ipse Imperator infra paucos dies fecerat fieri in civitate Bononie magnam cedem et stragem hominum), et ipse Imperator, qui dominabatur toti mundo, seu orbi, posuit funem ad collum, nec unquam, prostratus ad terram, inde surrexit, quousque Sanctus Ambrosius accessit et conciliavit ipsum Deo, videns humilitatem eius. Certe, istud fuit grave saxum ipsi Theodosio Imperatori. Similiter accidebat Frederico secundo, super cuius collum papa Alexander posuit pedem, dicens: Super aspidem et basiliscum ambulabis; conculcando scilicet. Notandum quod superbia etiam ponitur in Inferno et etiam in Purgatorio; sed aliter, et aliter: quia in Inferno eternaliter, hic in Purgatorio nonnisi ad tempus; quia nemo stabit in Purgatorio ultra diem iudicii. Dum me delectabar respicere ymagines tantarum humilitatum, et propter fabrum ipsarum, idest propter artificium ipsarum, ad videndum caras, idest acceptas: Ecce abhinc, idest ab ista parte, sed faciunt passus raros, idest tarde vadunt et moventur, murmurabat Poeta, scilicet Virgilius, multas gentes; isti nos inviabunt, idest conducent ad altos gradus, idest viam docebunt.
 
@@ -442,60 +442,60 @@ Et ipse ad me, scilicet dixit: Gravis conditio suorum tormentorum ad terram illo
 
 <!-- p. 541 (0595) -->
 
-⁴⁰ Ma guarda fisso là, e disvitic[c]hia\
+40 Ma guarda fisso là, e disvitic[c]hia\
 &emsp;Col viso quel che vien sotto quei sassi:\
 &emsp;Già scorger puoi come ciascun si pichia.
 
-⁴⁰ Sed respice fixe, et disviticules\
+40 Sed respice fixe, et disviticules\
 &emsp;Cum visu illum qui venit sub illis saxis:\
 &emsp;Iam discernere potes qualiter quilibet se picchiat.
 
-⁴¹ O superbi christian, miseri lassi,\
+41 O superbi christian, miseri lassi,\
 &emsp;Che, de la vista della mente infermi,\
 &emsp;Fidanza havete ne' ritrosi passi;
 
-⁴¹ O superbi christiani, o miseri lapsi,\
+41 O superbi christiani, o miseri lapsi,\
 &emsp;Qui, de visione mentis infirmi,\
 &emsp;Fiduciam habetis in retrogradis passibus;
 
-⁴² Non v'accorgete voi, che noi sian vermi\
+42 Non v'accorgete voi, che noi sian vermi\
 &emsp;Nati a formar l'angelica farfalla,\
 &emsp;Che vola a la giustitia senza schermi?
 
-⁴² Nonne perpenditis, quod nos sumus vermes\
+42 Nonne perpenditis, quod nos sumus vermes\
 &emsp;Nati ad formandum angelicam farfallam,\
 &emsp;Quae volat ad iustitiam sine scherme?
 
-⁴³ Di che l'animo vostro in alto galla?\
+43 Di che l'animo vostro in alto galla?\
 &emsp;Voi sete quasi anthomata in defecto,\
 &emsp;Si come verme, in cui formation falla.
 
-⁴³ Unde animus vester in altum gallat,\
+43 Unde animus vester in altum gallat,\
 &emsp;Postea estis quasi anthomatha in defectu,\
 &emsp;Sicut vermis, in quo formatio fallit?
 
-⁴⁴ Come, per sostener solaio o tecto,\
+44 Come, per sostener solaio o tecto,\
 &emsp;Per mensola talvolta una figura\
 &emsp;Si vede giugner le ginocchia al pecto,
 
-⁴⁴ Sicut, pro sustentando solarium vel tectum,\
+44 Sicut, pro sustentando solarium vel tectum,\
 &emsp;Pro mensola aliquando una figura\
 &emsp;Videtur coniungere genua ad pectus,
 
-⁴⁵ La qual fa del non ver vera rancura\
+45 La qual fa del non ver vera rancura\
 &emsp;Nascer a chi li vede; così facti\
 &emsp;Vidd'io color, quando posi ben cura.
 
-⁴⁵ Quae facit de non vero veram rancuram\
+45 Quae facit de non vero veram rancuram\
 &emsp;Nasci illis qui ipsos ride[n]t; sic factos\
 &emsp;Vidi illos, quando posui bene curam.
 
-⁴⁶ Ver'è che più e men eran contracti,\
+46 Ver'è che più e men eran contracti,\
 &emsp;Secondo ch'avien più e men adosso.\
 &emsp;E qual più patientia havea negl'acti,\
 &emsp;Piangendo parea dicer: Più non posso.
 
-⁴⁶ Verum est quod plus et minus erant contracti,\
+46 Verum est quod plus et minus erant contracti,\
 &emsp;Secundum quod habebant plus et minus in dorso.\
 &emsp;Et ille qui maiorem patientiam habebat in actibus,\
 &emsp;Plangendo apparebat dicere: Plus non possum.

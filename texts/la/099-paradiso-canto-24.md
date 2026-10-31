@@ -8,27 +8,27 @@ In isto vicesimoquarto capitulo, quod incipit: O sodalitium electum ad magnam ce
 
 # Capitulum Vicesimumquartum
 
-¹ O sodalitio electo a la gran cena\
+1 O sodalitio electo a la gran cena\
 &emsp;Del benedett'Agnel, el qual vi ciba\
 &emsp;Sì che la vostra vogla è sempre piena;
 
-¹ O sodalitie electe ad grandem cenam\
+1 O sodalitie electe ad grandem cenam\
 &emsp;Benedicti Agni, qui vos cibat\
 &emsp;Ita quod voluntas vestra semper est plena;
 
-² Se per gratia di Dio questi preliba\
+2 Se per gratia di Dio questi preliba\
 &emsp;Di quel che cade da la vostra mensa,\
 &emsp;Prima che morte tempo li prescriba,
 
-² Si per gratiam Dei iste prelibat\
+2 Si per gratiam Dei iste prelibat\
 &emsp;De illo quod cadit de vestra mensa,\
 &emsp;Priusquam mors tempus sibi prescribat,
 
-³ Ponete mente all'affection immensa,\
+3 Ponete mente all'affection immensa,\
 &emsp;E roratel alquanto: voi bevete\
 &emsp;Sempre nel fonte onde vien quel ch'ei pensa.
 
-³ Ponatis mentem ad affectionem [immensam],\
+3 Ponatis mentem ad affectionem [immensam],\
 &emsp;Et roretis illam aliquantulum: vos bibitis\
 &emsp;Semper de fonte unde venit illud quod ipse cogitat.
 
@@ -48,31 +48,31 @@ Finito hoc, alta curia; Finito questo, l'alta corte, auctor ponit quomodo tota c
 
 <!-- p. 1099 (1153) -->
 
-⁴ Così Beatrice. E quell'anime liete\
+4 Così Beatrice. E quell'anime liete\
 &emsp;Si fenno spere sopra fermi poli,\
 &emsp;Fiammando forte a guisa di comete.
 
-⁴ Sic Beatrix. Et ille anime lete\
+4 Sic Beatrix. Et ille anime lete\
 &emsp;Effecte sunt spere supra fixos polos,\
 &emsp;Flammeando, volute ad instar cometarum.
 
-⁵ E come cerchi in tempra d'horioli\
+5 E come cerchi in tempra d'horioli\
 &emsp;Si giran sì, che 'l primo, a chi pon mente,\
-&emsp;Quieto pare, e l'ultimo (¹) che voli;
+&emsp;Quieto pare, e l'ultimo (1) che voli;
 
-⁵ Et sicut circuli in temperamento horologiorum\
+5 Et sicut circuli in temperamento horologiorum\
 &emsp;Gyra[n]tur ita, quod primus, illi qui ponit mentem,\
 &emsp;Quietus apparet, et ultimus quod volet;
 
-⁶ Così quelle carole, differente-\
+6 Così quelle carole, differente-\
 &emsp;mente danzando, de la sua ricchezza\
 &emsp;Mi si faceano stimar veloci e lente.
 
-⁶ Sic ille carole, differenter\
+6 Sic ille carole, differenter\
 &emsp;Tripudiando, de suis divitiis\
 &emsp;Me faciebant extimare ipsas veloces et leves.
 
-(¹) pare.
+(1) pare.
 
 Apostolos, rogat eos ut temptent auctorem de sua affectione et de fide, etc.; et dicit); si per gratiam Dei (idest singularem sibi factam) iste, scilicet auctor, prelibat (idest pregustat, nam prelibare id est pregustare) de illo quod cadit de vestra mensa (mensa apostolica est doctrina, que est necessaria ad salutem, tam de fide, quam de spe, quam caritate, quam etiam de aliis), priusquam mors tempus sibi prescribat (idest antequam mors rapiat eum. Nota, quod prescriptio est alicuius rei possessio per tempus datum a iure cum bona fine; quia possessor male fidei nullo tempore prescribit. Tertio de Regulis iuris in sexto Bonifacii. Quando mors interficit hominem, tunc totum tempus post mortem eius dicitur prescriptum; ita quod Dantes ante mortem, ipse vivens in carne et vadens per Paradisum, prelibavit, idest pregustavit, de hiis que veniunt ex doctrina Apostolorum. Nam auctor supervixit, postquam fecit istud opus, viginti uno annis: opus fiebat millesimo tercentesimo, et ipse moriebatur millesimo tercentesimo vicesimoprimo: ita quod non prescripserat adhuc tempus ipsius auctoris, idest vite eius), ponatis mentem, idest respiciatis, ad affectionem immensam, scilicet quam habet auctor, et roretis, idest irrigate, illam, scilicet affectionem suam, aliquantulum, saltem parum, de rore suo: vos bibitis semper de fonte, unde venit illud quod ipse cogitat. Per hoc probat Beatrix, quod ipsi Apostoli poterant benefacere illud, quod ipsa ab ipsis petebat, quia vos bibitis de fonte divine gratie unde venit quod cogitat, idest ire et pervenire ad summam essentiam contemplandam.
 
@@ -82,71 +82,71 @@ Nota quod auctor ostendit in ista spera octava Ecclesiam triumphantem, propter h
 
 <!-- p. 1100 (1154) -->
 
-⁷ Di quella ch'io notai di più bellezza\
+7 Di quella ch'io notai di più bellezza\
 &emsp;Vid'io uscir un fuoco sì felice,\
 &emsp;Che nullo vi lassò di più chiarezza;
 
-⁷ De illa quam ego notavi pluris claritatis\
+7 De illa quam ego notavi pluris claritatis\
 &emsp;Vidi ego exire unum focum ita felicem,\
 &emsp;Quod nullum ibi dimisit maioris c[l]aritie;
 
-⁸ E tre fiate intorno a Beatrice\
+8 E tre fiate intorno a Beatrice\
 &emsp;Si volse con un canto tanto vivo,\
 &emsp;Che la mia fantasia non mel ridice;
 
-⁸ Et tribus vicibus se volvit circa Beatricem\
+8 Et tribus vicibus se volvit circa Beatricem\
 &emsp;Cum uno cantu ita divino,\
 &emsp;Quod mea fantasia illum michi non refert;
 
-⁹ Però salta la penna, e non lo scrivo,\
+9 Però salta la penna, e non lo scrivo,\
 &emsp;Chè 'l nostro ymaginar a cotai pieghe,\
 &emsp;Non che 'l parlar, è troppo color vivo.
 
-⁹ Ideo saltat penna, et illud non describo,\
+9 Ideo saltat penna, et illud non describo,\
 &emsp;Quia ymago nostra ad tales plicas,\
 &emsp;Nedum sermo, est nimis color vivus.
 
-¹⁰ O santa suora mia, che sì ne preghe\
+10 O santa suora mia, che sì ne preghe\
 &emsp;Devota, per lo tuo ardente affecto\
 &emsp;Di quella bella spera mi disleghe.
 
-¹⁰ O sancta soror mea, que sic me deprecaris\
+10 O sancta soror mea, que sic me deprecaris\
 &emsp;Devota, propter tuum ardentem affectum\
 &emsp;Ab illa pulchra spera me dissolvis.
 
-¹¹ Poscia fermato, el corpo benedecto\
+11 Poscia fermato, el corpo benedecto\
 &emsp;A la mia donna dirizzò lo spiro,\
 &emsp;Che favellò così, com'io ho detto.
 
-¹¹ Postea firmatus, focus benedictus\
+11 Postea firmatus, focus benedictus\
 &emsp;Ad meam dominam direxit spiramen,\
 &emsp;Quod loquutum fuit sic, sicut est dictum.
 
-¹² Et ella: O luce eterna del gran viro,\
+12 Et ella: O luce eterna del gran viro,\
 &emsp;A cui nostro Signor lassò le chiavi\
 &emsp;Che portò giù, di questo gaudio miro,
 
-¹² Et ipsa: O lux eterna grandis viri,\
+12 Et ipsa: O lux eterna grandis viri,\
 &emsp;Cui noster Dominus dimisit claves\
 &emsp;Quas ipse portavit infra, ab isto gaudio miro,
 
-¹³ Tempta costui di punti lievi e gravi,\
+13 Tempta costui di punti lievi e gravi,\
 &emsp;Come ti piace, intorno de la fede,\
 &emsp;Per la qual tu su per lo mar andavi.
 
-¹³ Tempta istum de punctis levibus et gravibus,\
+13 Tempta istum de punctis levibus et gravibus,\
 &emsp;Sicut tibi placet, circa fidem,\
 &emsp;Pro qua tu supra mare ibas.
 
-¹⁴ S'elli ama bene, bene spera e crede (¹),\
+14 S'elli ama bene, bene spera e crede (1),\
 &emsp;Non t'è occulto, perchè 'l viso hai quivi\
 &emsp;Dov'ogni cosa dipinta si vede.
 
-¹⁴ Si ipse amat bene, et bene sperat et credit,\
+14 Si ipse amat bene, et bene sperat et credit,\
 &emsp;Non est tibi occultum, eo quod visum habes ibi\
 &emsp;Ubi omnis res depicta videtur.
 
-(¹) bene.
+(1) bene.
 
 Modo introducit auctor Sanctum Petrum, in cuius lumine vidit maiorem claritatem, quomodo velut maior ignis qui esset ibi et felicior; qui tribus vicibus gyravit circa Beatricem cum tam dulci cantu, quem ipse auctor nescit describere. De illa quam ego, scilicet carola, notavi pluris, idest maioris, claritatis, vidi ego exire unum focum, idest ignem, ita felicem, quod nullum ibi dimisit maioris claritie, idest delectationis (iste fuit spiritus Sancti Petri); et tribus vicibus (idest ad honorem Trinitatis, vel trium virtutum theologicarum, de quibus debet examinari) se volvit circa Beatricem, cum uno cantu ita divo, quod mea fantasia illum michi non refert, idest non posset reminisci; ideo saltat penna, idest non describo, et illum non describo, quia ymago nostra ad tales plicas, nedum sermo, est nimis color vivus, idest non possum ymaginari, nedum scribere, illum tam dulcem cantum. Et hoc ostendit per talem comparationem. Quando pictor vult facere figuram, si vult facere bene plicas unius vestimenti, non potest facere cum colore vivo, idest puro; sed utitur colore mixto, et miscet multos colores, que mistura facit unum colorem ita vivum sicut esset purus. Vult ideo dicere, quod ille cantus fuit ita profundus, quod non posset describi ullo modo.
 
@@ -158,51 +158,51 @@ Si ipse amat bene; ecce de caritate: et bene sperat; ecce de spe: et bene credit
 
 <!-- p. 1101 (1155) -->
 
-¹⁵ Ma perchè questo regno ha facti civi\
+15 Ma perchè questo regno ha facti civi\
 &emsp;Per la verace fede, a gloriarla,\
 &emsp;Di lei parlar è buon ch'a lui arrivi.
 
-¹⁵ Sed quia istud regnum vos fecit vivos\
+15 Sed quia istud regnum vos fecit vivos\
 &emsp;Propter veracem fidem, ad glorificandum ipsam,\
 &emsp;De ipsa loqui est bonum quod ad illum arrives.
 
-¹⁶ E come 'l baccellier s'arma, e non parla,\
+16 E come 'l baccellier s'arma, e non parla,\
 &emsp;Finchè 'l maestro la question propone,\
 &emsp;Per aiutarla, e non per terminarla;
 
-¹⁶ Sicut bachalaurius se armat, et non loquitur,\
+16 Sicut bachalaurius se armat, et non loquitur,\
 &emsp;Quousque magister questionem proponit,\
 &emsp;Propter approbare illam, non propter determinare;
 
-¹⁷ Così m'armava io d'ogni ragione,\
+17 Così m'armava io d'ogni ragione,\
 &emsp;Mentre ch'ella dicea, per esser presto\
 &emsp;A tal querente et a tal profexione.
 
-¹⁷ Sic me armabam ego de omni ratione,\
+17 Sic me armabam ego de omni ratione,\
 &emsp;Interim quod ipsa dicebat, ut essem promptus\
 &emsp;Ad talem questionem et ad talem professionem.
 
-¹⁸ Di', buon chrystiano, facci manifesto\
+18 Di', buon chrystiano, facci manifesto\
 &emsp;Fede che è? Ond'io levai la fronte\
 &emsp;In quella luce onde spirava questo.
 
-¹⁸ Dic, bone christiane, fac te manifestum;\
+18 Dic, bone christiane, fac te manifestum;\
 &emsp;Fides quid est? Unde ego levavi frontem\
 &emsp;In illam lucem unde spirabat istud.
 
-¹⁹ Poi mi volsi a Beatrice, et ella prompte\
+19 Poi mi volsi a Beatrice, et ella prompte\
 &emsp;Sembianze femmi, perch'io spandessi\
 &emsp;L'acqua di fuor del mio interno fonte.
 
-¹⁹ Postea me volvi ad Beatricem, et ipsa promptas\
+19 Postea me volvi ad Beatricem, et ipsa promptas\
 &emsp;Similitudines fecit michi, ut ego expanderem\
 &emsp;Aquam extra meum internum fontem.
 
-²⁰ La gratia che mi dà ch'io mi confessi,\
+20 La gratia che mi dà ch'io mi confessi,\
 &emsp;Comincia'io, dell'alto primo pilo,\
 &emsp;Faccia li miei concepti esser expressi.
 
-²⁰ Gratia que michi dat quod ego confitear,\
+20 Gratia que michi dat quod ego confitear,\
 &emsp;Incepi ego, ab alto primo polo,\
 &emsp;Faciat meos conceptos bene expressos.
 
@@ -218,55 +218,55 @@ Postea me volvi ad Beatricem, idest recurri, et ipsa promptas similitudines feci
 
 <!-- p. 1102 (1156) -->
 
-²¹ E seguitai: Come 'l verace stilo\
-&emsp;Ne scripse, (¹) padre, del tuo caro frate (²),\
+21 E seguitai: Come 'l verace stilo\
+&emsp;Ne scripse, (1) padre, del tuo caro frate (2),\
 &emsp;Che misse teco Roma nel buon filo,
 
-²¹ Et secutus fui: Sicut verax stilus\
+21 Et secutus fui: Sicut verax stilus\
 &emsp;Nobis scripsit, pater, tui cari fratris,\
 &emsp;Qui misit tecum Romam in bono filo,
 
-²² Fede è substantia di cose sperate,\
+22 Fede è substantia di cose sperate,\
 &emsp;Et argomento delle non parventi;\
 &emsp;E questa par a me sua quiditate.
 
-²² Fides est substantia rerum sperandarum,\
+22 Fides est substantia rerum sperandarum,\
 &emsp;Et argumentum illarum non apparentium;\
 &emsp;Et ista apparet michi sua quidditas.
 
-²³ Allora udi' (³): Dirittamente senti,\
+23 Allora udi' (3): Dirittamente senti,\
 &emsp;Se ben intendi perch'ella si pose\
 &emsp;Tralle substantie, e poi tra gl'argomenti.
 
-²³ Tunc audivi ego: Recte sentis,\
+23 Tunc audivi ego: Recte sentis,\
 &emsp;Si bene intelligis quare ipsa respondit\
 &emsp;Inter substantias, et postea inter argumenta.
 
-²⁴ Et io appresso: Le profonde cose,\
+24 Et io appresso: Le profonde cose,\
 &emsp;Che mi largiscon qui la lor parvenza;\
 &emsp;Agl'ochi di laggiù son sì nascose,
 
-²⁴ Et ego prope: Profunde res,\
+24 Et ego prope: Profunde res,\
 &emsp;Que michi largiuntur hic earum apparentiam,\
 &emsp;Oculis inferioribus sunt ita absconse,
 
-²⁵ Che l'esser loro v'è (⁴) 'n sola credenza,\
+25 Che l'esser loro v'è (4) 'n sola credenza,\
 &emsp;Sopra la qual si fonda l'alta spene,\
-&emsp;E però di substanza prende intenza (⁵).
+&emsp;E però di substanza prende intenza (5).
 
-²⁵ Quod esse earum est ibi in sola credulitate,\
+25 Quod esse earum est ibi in sola credulitate,\
 &emsp;Supra qua fundatur alta spes;\
 &emsp;Et ideo de substantia apprehendunt intensam.
 
-²⁶ E da questa credenza ci conviene\
-&emsp;Sylogizar, senz'haver altra vista (⁶);\
-&emsp;Però intenza (⁷) d'argomento tiene.
+26 E da questa credenza ci conviene\
+&emsp;Sylogizar, senz'haver altra vista (6);\
+&emsp;Però intenza (7) d'argomento tiene.
 
-²⁶ Ab ista credulitate nos oportet\
+26 Ab ista credulitate nos oportet\
 &emsp;Sillogizare, sine habenda alia visione;\
 &emsp;Ideo intentionem argumenti tenet.
 
-(¹) o — (²) Paolo — (³) udii — (⁴) est ibi — (⁵) intentione — (⁶) ragione evidente — (⁷) intentione e forza.
+(1) o — (2) Paolo — (3) udii — (4) est ibi — (5) intentione — (6) ragione evidente — (7) intentione e forza.
 
 Et sequutus fui, scilicet in dicendo: Sicut verax stilus nobis scripsit, o pater, scilicet Sancte Petre, tui cari fratris, scilicet Sancti Pauli, qui misit, idest posuit, tecum Romam in bono filo; idest stilus, sive doctrina, Sancti Pauli, qui fuit tecum ad convertendum Romam ad Christianismum; nam uterque istorum, scilicet Sanctus Petrus et Paulus mortui sunt pro fide, et ipsi bene posuerunt Romam in bono stilo, idest in bona et recta via.
 
@@ -280,63 +280,63 @@ Notandum est, quod in omni bona diffinitione ponitur genus, quasi loco substanti
 
 <!-- p. 1103 (1157) -->
 
-²⁷ Allora udi' (¹): Se quantunque s'acquista\
+27 Allora udi' (1): Se quantunque s'acquista\
 &emsp;Giù per doctrina fusse così inteso,\
 &emsp;Non li haria luogo ingegno di sophysta.
 
-²⁷ Tunc audivi: Si quantumcumque acquiritur\
+27 Tunc audivi: Si quantumcumque acquiritur\
 &emsp;Inferius per doctrinam esset ita intellectum,\
 &emsp;Non haberet ibi locum ingenium sophiste.
 
-²⁸ Così spirò da quello amore acceso;\
+28 Così spirò da quello amore acceso;\
 &emsp;Indi subgiunxe: Assai ben è transcorsa\
 &emsp;D'esta moneta già la legha e 'l peso.
 
-²⁸ Sic spiravit ab illo amore accenso;\
+28 Sic spiravit ab illo amore accenso;\
 &emsp;Inde subiunxit: Satis bene est transcursa\
 &emsp;Istius monete iam liga et pondus.
 
-²⁹ Ma dimmi se tu l'hai ne la tua borsa.\
-&emsp;Ond'io (²): Sì ho, (³) sì (⁴) lucida e sì tonda,\
-&emsp;Che nel suo conio nulla mi s'inforsa (⁵).
+29 Ma dimmi se tu l'hai ne la tua borsa.\
+&emsp;Ond'io (2): Sì ho, (3) sì (4) lucida e sì tonda,\
+&emsp;Che nel suo conio nulla mi s'inforsa (5).
 
-²⁹ Sed dic michi si tu habes illam in tua bursia.\
+29 Sed dic michi si tu habes illam in tua bursia.\
 &emsp;Unde ego: Ita habeo, sic lucidam et ita rotundam,\
 &emsp;Quod in suo cuneo nihil michi in forsan ponitur.
 
-³⁰ Appresso uscì della luce profonda\
+30 Appresso uscì della luce profonda\
 &emsp;Che lì splendeva: Questa cara gioia,\
 &emsp;Sopra la qual ogni virtù si fonda,
 
-³⁰ Prope hoc exivit de illa luce profunda\
+30 Prope hoc exivit de illa luce profunda\
 &emsp;Que ibi splendebat: Istum carum iocale,\
 &emsp;Super quo omnis virtus fundatur,
 
-³¹ Onde ti venne? Et io: La larga ploia\
+31 Onde ti venne? Et io: La larga ploia\
 &emsp;Dello Spirito Sancto, ch'è diffusa\
-&emsp;In su le vecchie (⁶) e 'n su le nuove (⁷) chuoia (⁸),
+&emsp;In su le vecchie (6) e 'n su le nuove (7) chuoia (8),
 
-³¹ Unde tibi venit? Et ego: Larga pluvia\
+31 Unde tibi venit? Et ego: Larga pluvia\
 &emsp;Spiritus Sancti, que est diffusa\
 &emsp;Super veteribus et novis coriis,
 
-³² È el sylogismo, che me l'ha conchiusa\
+32 È el sylogismo, che me l'ha conchiusa\
 &emsp;Acutamente sì, che 'nverso d'ella\
-&emsp;Ogni (⁹) demonstration mi par obtusa.
+&emsp;Ogni (9) demonstration mi par obtusa.
 
-³² E[s]t syllogismus, qui michi illam conclusit\
+32 E[s]t syllogismus, qui michi illam conclusit\
 &emsp;Acute sic, quod respectu illius\
 &emsp;Omnis demonstratio appareret michi obtusa.
 
-³³ Io udi' poi: L'antica (¹⁰) e la novella (¹¹)\
-&emsp;Proposition (¹²) che così ti conchiude,\
+33 Io udi' poi: L'antica (10) e la novella (11)\
+&emsp;Proposition (12) che così ti conchiude,\
 &emsp;Perche l'hai tu per divina favella?
 
-³³ Ego audivi postea: Antiquam et novellam\
+33 Ego audivi postea: Antiquam et novellam\
 &emsp;Propositionem que sic tibi concludit,\
 &emsp;Quare habes tu illam pro divina loquela?
 
-(¹) udii — (²) risposi — (³) habeo — (⁴) ita — (⁵) m'he in forse — (⁶) veteris Testamenti — (⁷) novi Testamenti — (⁸) carte — (⁹) altra — (¹⁰) antiquum — (¹¹) et novum — (¹²) Testamentum.
+(1) udii — (2) risposi — (3) habeo — (4) ita — (5) m'he in forse — (6) veteris Testamenti — (7) novi Testamenti — (8) carte — (9) altra — (10) antiquum — (11) et novum — (12) Testamentum.
 
 Tunc audivi: Si quantumcumque acquiritur inferius per doctrinam, esset ita in intellectu, idest ita bene intelligeretur, non haberet ibi locum ingenium sophiste.
 
@@ -350,55 +350,55 @@ Ego audivi postea, scilicet ab illo spiritu: Antiquam et novam propositionem, qu
 
 <!-- p. 1104 (1158) -->
 
-³⁴ Et io: (¹) La prova, che 'l ver mi dischiude,\
-&emsp;Son l'opere seguite (²), a che (³) natura\
+34 Et io: (1) La prova, che 'l ver mi dischiude,\
+&emsp;Son l'opere seguite (2), a che (3) natura\
 &emsp;Non scalda ferro mai, nè batte ancude.
 
-³⁴ Et ego: Probatio, que michi verum dissolvit,\
+34 Et ego: Probatio, que michi verum dissolvit,\
 &emsp;Sunt opera sequuta, ad que natura non\
 &emsp;Calefecit ferrum unquam, nec percussit incudem.
 
-³⁵ Risposto fummi: Di' (⁴), chi t'assicura\
-&emsp;Che quell'opere fosser? (⁵) Quel medesmo\
+35 Risposto fummi: Di' (4), chi t'assicura\
+&emsp;Che quell'opere fosser? (5) Quel medesmo\
 &emsp;Che vuol provarsi, non altri, tel giura.
 
-³⁵ Responsum fuit michi: Dic, quid te securat\
+35 Responsum fuit michi: Dic, quid te securat\
 &emsp;Quod illa opera essent illud idem\
 &emsp;Quod probat illud, si alius tibi non iuret.
 
-³⁶ Se 'l mondo si rivolse al Chrystianesmo,\
+36 Se 'l mondo si rivolse al Chrystianesmo,\
 &emsp;Diss'io, senza miracoli, quest'uno\
 &emsp;È tal, che gl'altri non son el centesmo;
 
-³⁶ Si mundus convertit se ad Christianismum,\
+36 Si mundus convertit se ad Christianismum,\
 &emsp;Dixi ego, sine miraculis, hoc est unum\
 &emsp;Et tale, quod alia non sunt centesimum;
 
-³⁷ Chè tu entrasti povero e digiuno\
+37 Chè tu entrasti povero e digiuno\
 &emsp;In campo, a seminar la buona pianta,\
 &emsp;Che fu già vite, et hor è fatto pruno.
 
-³⁷ Quia tu intrasti pauper et ieiunus\
+37 Quia tu intrasti pauper et ieiunus\
 &emsp;In campum, ad seminandum bonam plantam,\
 &emsp;Que fuit iam vitis, et nunc est facta dumus.
 
-³⁸ Finito questo, l'alta corte sancta\
-&emsp;Risonò per le spere: Un Dio laudiamo (⁶),\
+38 Finito questo, l'alta corte sancta\
+&emsp;Risonò per le spere: Un Dio laudiamo (6),\
 &emsp;Ne la melode che lassù si canta.
 
-³⁸ Finito hoc, alta curia et sancta\
+38 Finito hoc, alta curia et sancta\
 &emsp;Resonuit per speras: Unum Deum laudamus,\
 &emsp;In melodia que ibi superius laudatur.
 
-³⁹ E quel Baron che sì di ramo in ramo,\
+39 E quel Baron che sì di ramo in ramo,\
 &emsp;Examinando, già tracto m'havea,\
 &emsp;Che all'ultime fronde appressavamo,
 
-³⁹ Et ille Baro qui sic de ramo in ramum,\
+39 Et ille Baro qui sic de ramo in ramum,\
 &emsp;Examinando, iam traxerat me,\
 &emsp;Quod ultimis frondibus appropinquabamus,
 
-(¹) risposi — (²) e miracoli — (³) a le quali opere — (⁴) dicas — (⁵) facte e vere — (⁶) te Deum laudamus.
+(1) risposi — (2) e miracoli — (3) a le quali opere — (4) dicas — (5) facte e vere — (6) te Deum laudamus.
 
 Et ego, scilicet, dixi: Probatio, que michi verum dissolvit, idest discooperit, sunt opera sequuta, ad que natura non calefecit ferrum unquam, nec percussit incudinem. Ista sunt opera, que natura nullo modo per se posset facere, sicut suscitare mortuos et illuminare cecos, etc. Metaphora bona est, scilicet quod natura non calefacit ferrum, nec percutit incudinem, idest non operatur nec posset talia operari.
 
@@ -414,67 +414,67 @@ Et ille Baro, qui sic de ramo in ramum, idest de passu in passum, sive de parte 
 
 <!-- p. 1105 (1159) -->
 
-⁴⁰ Ricominciò: La gratia che donnèa\
+40 Ricominciò: La gratia che donnèa\
 &emsp;Co' la tua mente, la bocha t'aperse\
 &emsp;Infin a qui, sì come aprir dovea;
 
-⁴⁰ Reiteravit: Gratia que dominatur\
+40 Reiteravit: Gratia que dominatur\
 &emsp;Cum tua mente, os tibi aperuit\
 &emsp;Usque nunc, sicut aperiri conveniebat;
 
-⁴¹ Sì ch'io approvo ciò che fuor emerse;\
+41 Sì ch'io approvo ciò che fuor emerse;\
 &emsp;Ma hor convien exprimer quel che credi,\
 &emsp;Et onde [al]la credenza tua s'offerse.
 
-⁴¹ Ita quod approbo quidquid foris emersit:\
+41 Ita quod approbo quidquid foris emersit:\
 &emsp;Sed nunc convenit exprimere illud quod credis,\
 &emsp;Et unde ad tuam credulitatem hoc provenit.
 
-⁴² O sancto padre e spirito, che vedi\
+42 O sancto padre e spirito, che vedi\
 &emsp;Ciò che credesti sì, che tu vincesti\
 &emsp;Ver lo Sepolchro più giovani piedi,
 
-⁴² O sancte pater et spiritus, qui vides hic\
+42 O sancte pater et spiritus, qui vides hic\
 &emsp;Quidquid credidisti ita, quod tu vicisti\
 &emsp;Versus Sepulchrum iuniores pedes,
 
-⁴³ Comincia'io, tu vuo' ch' io manifesti\
+43 Comincia'io, tu vuo' ch' io manifesti\
 &emsp;La forma qui del prompto creder mio,\
 &emsp;E anco la cagion di lui chiedesti.
 
-⁴³ Incepi ego, tu vis quod ego manifestem\
+43 Incepi ego, tu vis quod ego manifestem\
 &emsp;Formam hic prompti credere mei,\
 &emsp;Et etiam causam illius quesisti.
 
-⁴⁴ Et io rispondo: Ch' io credo in un Dio\
+44 Et io rispondo: Ch' io credo in un Dio\
 &emsp;Solo et eterno, che tutto 'l ciel move,\
 &emsp;Non moto, con amore e con desio;
 
-⁴⁴ Et ego respondeo: Quod ego credo in unum Deum\
+44 Et ego respondeo: Quod ego credo in unum Deum\
 &emsp;Solum et eternum, qui totum celum movet,\
 &emsp;Non motus, cum amore et desiderio;
 
-⁴⁵ Et a tal creder no[n] ho io pur prove\
+45 Et a tal creder no[n] ho io pur prove\
 &emsp;Physiche e metaphysiche, ma dalmi\
 &emsp;Anche la verità che quinci piove
 
-⁴⁵ Et ad tale credere non habeo solum probationes\
+45 Et ad tale credere non habeo solum probationes\
 &emsp;Phisicas et methaphisicas, sed dat michi\
 &emsp;Etiam veritas que hinc pluit
 
-⁴⁶ Per Moysè, per Propheti, e per Psalmi,\
+46 Per Moysè, per Propheti, e per Psalmi,\
 &emsp;Per l'Evangelio, e per voi che scriveste,\
 &emsp;Poi che l'ardente Spirto vi fece almi;
 
-⁴⁶ Per Moysen, per Psalmos, et per Prophetas,\
+46 Per Moysen, per Psalmos, et per Prophetas,\
 &emsp;Per Evangelium, et per vos qui scripsistis,\
 &emsp;Postquam ardens Spiritus vos fecit almos.
 
-⁴⁷ E credo in tre Persone eterne, e queste\
+47 E credo in tre Persone eterne, e queste\
 &emsp;Credo una essentia sì una e sì trina,\
 &emsp;Che soffera coniuncto Sono et Este.
 
-⁴⁷ Et credo in tres Personas eternas, et istas\
+47 Et credo in tres Personas eternas, et istas\
 &emsp;Credo unam essentiam ita unam et ita trinam,\
 &emsp;Quod sufferunt coniuncte Sunt et Est.
 
@@ -488,41 +488,41 @@ Et credo in tres Personas eternas, et istas credo unam essentiam ita unam et ita
 
 <!-- p. 1106 (1160) -->
 
-⁴⁸ Della profonda condiction divina,\
+48 Della profonda condiction divina,\
 &emsp;Ch'io tocco mo, la mente mi sigilla\
 &emsp;Più volte l'evangelica doctrina.
 
-⁴⁸ De profunda cognitione divina,\
+48 De profunda cognitione divina,\
 &emsp;Quam habeo tecum, mentem michi sigillat\
 &emsp;Pluries evangelica doctrina.
 
-⁴⁹ Quest'è il principio, quest'è la favilla\
+49 Quest'è il principio, quest'è la favilla\
 &emsp;Che si dilata in fiamma poi vivace,\
 &emsp;E, come stella in cielo, in me scintilla.
 
-⁴⁹ Istud est principium, ista est favilla;\
+49 Istud est principium, ista est favilla;\
 &emsp;Que dilatatur in flammam postea vivacem,\
 &emsp;Et, sicut stella in celo, in me scintillat.
 
-⁵⁰ Come 'l signor ch'ascolta quel che i piace,\
-&emsp;Da indi abbraccia'l servo (¹), gratulando\
-&emsp;Per la novella (²), tosto (³) che 'l si tace;
+50 Come 'l signor ch'ascolta quel che i piace,\
+&emsp;Da indi abbraccia'l servo (1), gratulando\
+&emsp;Per la novella (2), tosto (3) che 'l si tace;
 
-⁵⁰ Sicut dominus qui auscultat id quod sibi placet,\
+50 Sicut dominus qui auscultat id quod sibi placet,\
 &emsp;Deinde amplectitur servum, gratulando\
 &emsp;Propter novum, statim quod ipse tacet;
 
-⁵¹ Così, benedicendomi cantando,\
+51 Così, benedicendomi cantando,\
 &emsp;Tre volte cinse me, com'io mi tacqui,\
-&emsp;L'appostolico lume, a cui comando (⁴)\
-&emsp;Haveva (⁵) decto; sì nel dir li piacqui.
+&emsp;L'appostolico lume, a cui comando (4)\
+&emsp;Haveva (5) decto; sì nel dir li piacqui.
 
-⁵¹ Sic, benedicendo michi cantando\
+51 Sic, benedicendo michi cantando\
 &emsp;Tribus vicibus cinxit me, statim quod ego tacui,\
 &emsp;Apostolicum lumen, ad cuius mandatum\
 &emsp;Ego dixeram; ita in dicere sibi placui.
 
-(¹) suo — (²) narrata — (³) subito — (⁴) comandamento — (⁵) io Dante.
+(1) suo — (2) narrata — (3) subito — (4) comandamento — (5) io Dante.
 
 A profunda cognitione divina, quam habeo tecum, idest teneo, mentem michi sigillat pluries evangelica doctrina.
 

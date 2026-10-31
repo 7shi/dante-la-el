@@ -12,31 +12,31 @@ Mutii Scevole versum brachium suum; aliquando voluntas, licet nullo modo per se 
 
 # Capitulum Quartum
 
-¹ Intra duo cibi, distanti e moventi\
+1 Intra duo cibi, distanti e moventi\
 &emsp;D'un modo, pria si morrìa di fame,\
 &emsp;Che liber'huom l'un si recasse a'denti.
 
-¹ Intra duos cibos, distantes et moventes\
+1 Intra duos cibos, distantes et moventes\
 &emsp;Uno modo, moreretur fame prius,\
 &emsp;Quam liber homo unum deduceret ad dentes.
 
-² Sì si starebbe un agno intra duo brame\
+2 Sì si starebbe un agno intra duo brame\
 &emsp;Di fieri lupi egualmente temendo,\
 &emsp;Sì si starebbe un can intra duo dame.
 
-² Sic staret unus agnus intra duas bramas\
+2 Sic staret unus agnus intra duas bramas\
 &emsp;Ferorum luporum equaliter timendo,\
 &emsp;Sic staret unus canis intra duas dammas.
 
-³ Perch'io, s'i'mi taceva, me non riprendo,\
+3 Perch'io, s'i'mi taceva, me non riprendo,\
 &emsp;Da li miei dubbii egualmente sospinto,\
-&emsp;Poi ch'era necessario, nè (¹) commendo.
+&emsp;Poi ch'era necessario, nè (1) commendo.
 
-³ Ideo, si ego tacebam, me non reprehendo,\
+3 Ideo, si ego tacebam, me non reprehendo,\
 &emsp;A meis dubiis uno modo impulsus,\
 &emsp;Postquam erat necessarium; me commendo.
 
-(¹) neque.
+(1) neque.
 
 Intra duos cibos distantes. Intra dui cibi distanti: istud est quartum capitulum istius Paradisi, in quo auctor tractat duo dubia pulchra, orientia ex dictis in capitulo immediate precedenti. Et dividitur in quatuor partes. In quarum prima auctor describit dispositionem suam circa illa duo dubia, et proponit ipsa.
 
@@ -58,43 +58,43 @@ Ideo dicit ipse: Si tacebam, et de nullo illorum dubiorum petebam, non me repreh
 
 <!-- p. 862 (0916) -->
 
-⁴ Io mi tacea, e'l mio desir dipincto\
+4 Io mi tacea, e'l mio desir dipincto\
 &emsp;M' era nel viso, e 'l domandar con ello,\
 &emsp;Più chiaro assai, che nel parlar distincto.
 
-⁴ Ego tacebam, et meum desiderium depictum\
+4 Ego tacebam, et meum desiderium depictum\
 &emsp;Michi erat in visu, et petitio cum ipso,\
 &emsp;Multo plus calidum, quam propter sermonem distinctum.
 
-⁵ Fessi Beatrice, qual fe' Daniello,\
+5 Fessi Beatrice, qual fe' Daniello,\
 &emsp;Nabuchodonosor levando d'ira,\
 &emsp;Che l'avia facto ingiustamente fello.
 
-⁵ Tunc facta est Beatrix, sicut Daniel\
+5 Tunc facta est Beatrix, sicut Daniel\
 &emsp;Nabuchodonosori, levando eum ab ira,\
 &emsp;Que ipsum fecerat iniuste ferum.
 
-⁶ E disse: Io veggio ben come ti tira\
+6 E disse: Io veggio ben come ti tira\
 &emsp;Uno et altro desio; sì che tuo cura\
 &emsp;Sè stessa lega sì, che fuor non spira.
 
-⁶ Et dixit: Video bene sicut te trahit\
+6 Et dixit: Video bene sicut te trahit\
 &emsp;Unum et alium desiderium; ita quod tua cura\
 &emsp;Seipsam ligat ita, quod foras non spirat.
 
-⁷ Tu argomenti: Se 'l buon voler dura,\
+7 Tu argomenti: Se 'l buon voler dura,\
 &emsp;La violenza altrui per qual cagione\
 &emsp;Di meritar mi scema la misura?
 
-⁷ Tu arguis: Si bona voluntas durat,\
+7 Tu arguis: Si bona voluntas durat,\
 &emsp;Violentia alterius qua ratione\
 &emsp;Merendi demit mensuram michi?
 
-⁸ Ancor a dubitar ti dà cagione,\
+8 Ancor a dubitar ti dà cagione,\
 &emsp;Parer tornarsi l'anime a le stelle,\
 &emsp;Secondo la sententia di Platone.
 
-⁸ Adhuc ad dubitandum datur tibi causa,\
+8 Adhuc ad dubitandum datur tibi causa,\
 &emsp;Videre redire animas ad stellas,\
 &emsp;Secundum sententiam Platonis.
 
@@ -110,35 +110,35 @@ Tu arguis, scilicet sic: Si bona voluntas durat, idest in aliquo, violentia alte
 
 <!-- p. 863 (0917) -->
 
-⁹ Queste son question che nel tuo velle\
+9 Queste son question che nel tuo velle\
 &emsp;Punctano equalmente; e però pria\
 &emsp;Tracterò quella che più ha di felle.
 
-⁹ Iste sunt questiones, que in tuo velle\
+9 Iste sunt questiones, que in tuo velle\
 &emsp;Pungunt equaliter; et ideo prius\
 &emsp;Tractabo illam que plus habet fellis.
 
-¹⁰ De' Seraphin colui che più s'india,\
+10 De' Seraphin colui che più s'india,\
 &emsp;Moyses, Samuele, e quel Giovanni,\
 &emsp;Qual prender vuoi, dico, non Maria,
 
-¹⁰ De Seraphim ille qui plus deificatur,\
+10 De Seraphim ille qui plus deificatur,\
 &emsp;Moyses, Samuel, et ille Ioannes,\
 &emsp;Quem apprehendere vis, sic dico de Maria,
 
-¹¹ Non hanno in altro cielo e loro scanni,\
+11 Non hanno in altro cielo e loro scanni,\
 &emsp;Che quelli spirti che mo' t'appariro,\
 &emsp;Nè hanno all'esser loro più e men anni;
 
-¹¹ Non habent in alio celo eorum scampna,\
+11 Non habent in alio celo eorum scampna,\
 &emsp;Quam illi spiritus qui nunc tibi apparuerunt,\
 &emsp;Nec habent ad esse suum plures sive pauciores annos;
 
-¹² Ma tutti fanno bello el primo giro,\
+12 Ma tutti fanno bello el primo giro,\
 &emsp;E differentemente han dolce vita,\
 &emsp;Per sentir più e men l'eterno spiro.
 
-¹² Sed omnes faciunt pulchrum primum gyrum,\
+12 Sed omnes faciunt pulchrum primum gyrum,\
 &emsp;Et differenter habent dulcem vitam,\
 &emsp;Quia sentiunt plus et minus eternam spirationem.
 
@@ -150,47 +150,47 @@ De Seraphim ille qui plus deificatur. De' Serafin colui che [più] s'india: hec 
 
 <!-- p. 864 (0918) -->
 
-¹³ Qui si mostraro, non perchè sortita\
+13 Qui si mostraro, non perchè sortita\
 &emsp;Sia questa spera lor, ma per far segno\
 &emsp;De la celestial, che ha men salita.
 
-¹³ Hic se monstrarunt, non quia sortita\
+13 Hic se monstrarunt, non quia sortita\
 &emsp;Sit ista spera eis, sed ut facerent signum\
 &emsp;Celestis, que habet minorem ascensum.
 
-¹⁴ Così parlar conviensi al vostro ingegno,\
+14 Così parlar conviensi al vostro ingegno,\
 &emsp;Però che sol da sensato apprende\
 &emsp;Ciò ch'el fa poss[ci]a d'intellecto degno.
 
-¹⁴ Sic loqui convenit vestro ingenio,\
+14 Sic loqui convenit vestro ingenio,\
 &emsp;Ex eo quia solum a sensato apprehendit\
 &emsp;Id quod facit postea intellectu dignum.
 
-¹⁵ Per questo la Scriptura condescende\
+15 Per questo la Scriptura condescende\
 &emsp;A vostra facultate, e piede e mano\
 &emsp;Attribuisce a Dio, et altro intende;
 
-¹⁵ Propter hoc Scriptura condescendit\
+15 Propter hoc Scriptura condescendit\
 &emsp;Vestre facultati, et pedes et manus\
 &emsp;Attribuit Deo, et aliud intelligit;
 
-¹⁶ E santa Chiesa con aspecto humano (¹)\
+16 E santa Chiesa con aspecto humano (1)\
 &emsp;Ghabriel e Michel vi rappresenta,\
 &emsp;E l'altro che Thobbia rifece sano.
 
-¹⁶ Et sancta Ecclesia cum aspectu humano\
+16 Et sancta Ecclesia cum aspectu humano\
 &emsp;Gabrielem et Michaelem vobis representat,\
 &emsp;Et alium qui Tobiam refecit sanum.
 
-¹⁷ Quel che Tymeo dell'anime argomenta\
+17 Quel che Tymeo dell'anime argomenta\
 &emsp;Non è simile a ciò che qui si vede,\
 &emsp;Però che, com'ei dice, par ch'ei senta.
 
-¹⁷ Illud quod Thimeus de anima arguit,\
+17 Illud quod Thimeus de anima arguit,\
 &emsp;Non est simile huic quod hic videtur,\
 &emsp;Eo quod, sicut dicit, apparet sentire.
 
-(¹) effigie humana.
+(1) effigie humana.
 
 Sed si Plato sic tenuit, sicut verba sonant, sua opinio esset falsa et heretica. Ideo dicta Platonis, non bene intellecta, fuerunt causa ydolatrie, et a quibus mundus in magna parte fuit deceptus, quia propter hec dicta, Iuppiter, Mars, Sol, Venus coluntur pro Diis, ita quod opinio Platonis, credita pro vera, induxit homines in hunc errorem, quod ipsi inceperunt adorare planetas pro Diis. Videbant enim homines quod Saturnus faccret homines contemplativos; Iuppiter facit benignos; Mars bellicosos; Venus venereos; Appollo, sive Sol, sapientes; Mercurius colloquentes; Luna castos, etc.: et quia aliqui homines erant huiusmodi conditionis; quia Iuppiter, rex Crete, fuit magnus dominus et benignus, Saturnus valde contemplativus, Mavortius bellicosus, Appollo valde sapiens, Mercurius valde eloquens, Venus venerea, ideo colebantur, ex quo redierant ad stellas pro Diis cum ipsis stellis. De Seraphinis ille qui plus deificatur, idest in Deum transformatur, Moyses, Samuel (duo magni prophete; unus fuit dux populi Israel, conducens eum, scilicet populum Dei, per desertum, et per medium sicci maris Rubri, in terram promissionis, ut patet in libris Exodi, Numerorum, Levitici, Deuteronomii; alius fuit ultimus Iudicum, regentium populum Israel, ut in primo libro Regum), et ille Ioannes, quem apprehendere vis, idest Baptistam vel Evangelistam, sic dico de Maria, idest genitrice Domini Nostri Iesu Christi, non habent in alio celo eorum scampna, idest sedes, quam illi spiritus qui nunc tibi apparuerunt, sed in eodem, scilicet Empyreo, quia idem celum, scilicet Empyreum, est locus omnium; nec habet ad esse suum, idest ad durationem, plures, sive pauciores, annos (hoc est verum, quia in celo empyreo non est nox, nec ebdomada, nec mensis, nec annus, nec tempus, nec motus, quia tempus non est aliud quam mensura primi mobilis secundum prius et posterius, ut dicit Aristotiles in quarto libro Physicorum; idest omnes spiritus beati habent equalitatem in situ et in duratione); sed omnes, idest spiritus beati, faciunt pulchrum primum gyrum, idest celum empyreum et differenter habent dulcem vitam, scilicet eternam. Idest unus est beatior alio, quia sentiunt plus et minus eternam spirationem, idest divinam gratiam.
 
@@ -204,59 +204,59 @@ Illud, scilicet dictum, quod in Thimeo, scilicet quod dixit Plato in suo libro a
 
 <!-- p. 865 (0919) -->
 
-¹⁸ Dice che l'alma a la sua stella riede,\
+18 Dice che l'alma a la sua stella riede,\
 &emsp;Credendo quella quindi esser decisa,\
 &emsp;Quando natura per forma la diede.
 
-¹⁸ Dicit quod anima ad suam stellam redit,\
+18 Dicit quod anima ad suam stellam redit,\
 &emsp;Credendo illam inde esse decisam,\
 &emsp;Quando natura pro forma illam dedit.
 
-¹⁹ E forse sua sententia è d'altra guisa\
+19 E forse sua sententia è d'altra guisa\
 &emsp;Che la voce non suona, et esser puote\
 &emsp;Con intention da non esser decisa.
 
-¹⁹ Et forsan sua sententia est alterius intentionis,\
+19 Et forsan sua sententia est alterius intentionis,\
 &emsp;Quam ipsa sonet, et talis esse potest\
 &emsp;Cum intentione non deridenda.
 
-²⁰ S'elli intende tornar a queste ruote\
+20 S'elli intende tornar a queste ruote\
 &emsp;L'honor dell'influenzia e 'l biasmo, forse\
 &emsp;In alcun vero suo arco percuote.
 
-²⁰ Si ipse intelligit redire ad istas rotas\
+20 Si ipse intelligit redire ad istas rotas\
 &emsp;Honorem influentie et vituperium, forsan\
 &emsp;In aliquod verum suus arcus percutit.
 
-²¹ Questo principio male inteso torse\
+21 Questo principio male inteso torse\
 &emsp;Già tutto 'l mondo quasi, sì che Iove,\
 &emsp;Mercurio e Marte a nominar tracorse.
 
-²¹ Istud principium male intellectum torsit\
+21 Istud principium male intellectum torsit\
 &emsp;Iam totum mundum quasi, ita quod Iovem,\
 &emsp;Mercurium et Martem ad adorandum transcucurrit.
 
-²² L'altra dubitation che ti commuove\
+22 L'altra dubitation che ti commuove\
 &emsp;Ha men velen, però che suo'malitia\
 &emsp;Non ti porria menar da me altrove.
 
-²² Alia dubitatio que te commovet,\
+22 Alia dubitatio que te commovet,\
 &emsp;Habet plus veneni, ex eo quia sua malitia\
 &emsp;Non posset te deviare a me alio.
 
-²³ Parere ingiusta la nostra iustitia\
+23 Parere ingiusta la nostra iustitia\
 &emsp;Negl'occhi de'mortali, è argomento\
 &emsp;Di fede, e non d'heretica nequitia.
 
-²³ Apparere iniustam nostram iustitiam\
+23 Apparere iniustam nostram iustitiam\
 &emsp;In oculis mortalium, est argumentum\
 &emsp;Fidei, et non heretice pravitatis.
 
-²⁴ Ma perchè puote vostro accorgimento\
+24 Ma perchè puote vostro accorgimento\
 &emsp;Ben penetrare a questa veritate,\
 &emsp;Come desiri, ti farò contento.
 
-²⁴ Sed quia potest vestrum argumentum\
+24 Sed quia potest vestrum argumentum\
 &emsp;Bene penetrare ad istam veritatem,\
 &emsp;Sicut desideras, te faciam contentum.
 
@@ -276,47 +276,47 @@ Sed quia potest vestrum argumentum bene penetrare ad istam veritatem, sicut desi
 
 <!-- p. 866 (0920) -->
 
-²⁵ Se violenza è quando quei che pate\
+25 Se violenza è quando quei che pate\
 &emsp;Niente conferisce a quei che sforza,\
-&emsp;Non foran l'alme per questa (¹) scusate;
+&emsp;Non foran l'alme per questa (1) scusate;
 
-²⁵ Si violentia est quando ille qui patitur\
+25 Si violentia est quando ille qui patitur\
 &emsp;Nihil confert illi qui violentat,\
 &emsp;Non essent iste anime propter hoc excusate;
 
-²⁶ Chè volontà, se non vuol, non s'amorza,\
+26 Chè volontà, se non vuol, non s'amorza,\
 &emsp;Ma fa come natura face in fuoco,\
 &emsp;Se mille volte violenza el torza;
 
-²⁶ Quia voluntas, si non vult, nunquam mortificatur,\
+26 Quia voluntas, si non vult, nunquam mortificatur,\
 &emsp;Sed facit sicut natura facit in igne,\
 &emsp;Si millies violentia illum torqueat;
 
-²⁷ Però che, s'ella piega assai o poco,\
-&emsp;Segue la forza; e così queste (²) fero,\
-&emsp;Potendo ritornar nel santo luoco (³).
+27 Però che, s'ella piega assai o poco,\
+&emsp;Segue la forza; e così queste (2) fero,\
+&emsp;Potendo ritornar nel santo luoco (3).
 
-²⁷ Quare, si ipsa se plicat satis vel parum,\
+27 Quare, si ipsa se plicat satis vel parum,\
 &emsp;Sequitur violentiam; et sic iste fecerunt,\
 &emsp;Habentes potentiam redeundi ad sacrum locum.
 
-²⁸ Se fusse stato lor voler intero,\
+28 Se fusse stato lor voler intero,\
 &emsp;Come tenne Lorenzo in su la grada,\
-&emsp;E (⁴) fece Mutio (⁵) a la sua man severo,
+&emsp;E (4) fece Mutio (5) a la sua man severo,
 
-²⁸ Si fuisset earum voluntas integra,\
+28 Si fuisset earum voluntas integra,\
 &emsp;Sicut que tenuit Laurentium in crata,\
 &emsp;Et que fecit Mutium sue manui severum,
 
-²⁹ Così l'avria ripinte per la strada\
+29 Così l'avria ripinte per la strada\
 &emsp;Ond' eran tratte, come furo sciolte;\
 &emsp;Ma così salda vogla è troppo rada.
 
-²⁹ Sic eas repulisset per stratam\
+29 Sic eas repulisset per stratam\
 &emsp;Unde erant extracte, sicut fuerunt solute;\
 &emsp;Sed sic solida voluntas est nimis rara.
 
-(¹) al. essa — (²) Piccarda et Costanza — (³) al. fuoco — (⁴) come — (⁵) Scevola.
+(1) al. essa — (2) Piccarda et Costanza — (3) al. fuoco — (4) come — (5) Scevola.
 
 Ad intelligendum litteram sequentem, bonum est videre hic quod Aristotiles ponit in tertio Ethicorum, ubi tractat de voluntario et involuntario; unde potest haberi notitia de violentia que excusat, et que non. Dicit autem ibidem Aristotiles, quod violentum est illud quod venit a principio extrinseco ab illo qui facit, extrinsecus sic et taliter, quod violentatus in nullo consentit nec confert violentanti, ita quod patiens violentiam nihil consentit. Et dicit exemplum ipsemet sic. Si unus rapit virginem, que se defendere non potest, iste violavit istam. Lex vult quod ipse moriatur vel eam desponset. Iste non libenter desponsat, imo invite, quia cogitur a iudice; et iste consentit propter non mori. Lex non vult nisi iuste. Modo queritur, si matrimonium tenet, an non? Apparet quod non, quia matrimonium est consensus maris et femine, etc. per verba de presenti inter personas legitimas. Modo hic non est consensus; ergo non tenet. Dicendum est quod tenet, ex eo et pro eo, quod, ut vult lex, voluntas conditionata est voluntas: iste, ut evadat mortem, consensit voluntate conditionata; et matrimonium tenet. Ideo sciendum est, quod voluntas est duplex, vel dupliciter sumitur, scilicet conditionata et non conditionata, vel voluntas simpliciter et secundum quid, vel voluntas absoluta vel voluntas conditionata. Absoluta est illa, que nunquam et propter nullam causam consentit violentanti. Voluntas secundum quid, vel conditionata, est quando invite consensit violentanti propter fugere pericula maiora: sicut ille qui est in mari, in periculo submersionis, et habet mercimonias boni valoris; et propter evadere periculum mortis, consentit proiicere mercimonias in mari, tamen male libenter proiicit. Voluntas absoluta, nunquam flectens se, raro reperitur: bene tamen fuit reperta in Sancto Laurentio, qui, iubente Decio Imperatore romano, positus fuit in craticula et assatus, nunquam tamen consensit recedere a fide Christi. Reperta est etiam in Mutio Scevola, sive Marco, sive Cayo (hic trinomius fuit), de quo loquitur Valerius Maximus et Titus Livius in prima Deca, libro primo. Dum Porsenna, rex Clusii et totius Tuscie, obsedebat Romam propter reducere in suum statum Tarquinium Superbum, regem romanum ultimum de septem et Tarquinios, et in tantum astrinxerat Romam quod amplius non poterant resistere, iste Mutius Scevola, assumpto gladio, petiit licentiam a Senatu exeundi de civitate, vadens ad campum, ubi erat rex Porsenna. Obtenta licentia a Senatu, invenit Porsennam dantem stipendia suis, et vidit ibi cancellarium regis Porsenne, forsan melius indutum quam erat rex. Credens interficere regem Porsennam, occidit cancellarium suum et fugit; fugiens captus fuit, et examinatus quid voluit facere, dixit quod intentionis sue erat interficere regem Porsennam. Tunc allatus fuit ignis ut combureretur. Tunc dixit Mutius: Michi non est cura mori; indignum michi videbatur quod illi, qui solebant semper vincere, vincerentur. Et dixit: Civis romanus sum; Cayum Mutium nostri cives me vocant:
 
@@ -324,43 +324,43 @@ hostis, hostem occidere veni; nec michi minus animus est [ad] mortem, quam ad vi
 
 <!-- p. 867 (0921) -->
 
-³⁰ E per queste parole, se ricolte\
+30 E per queste parole, se ricolte\
 &emsp;L'hai come dèi, è l'argomento casso,\
 &emsp;Che t'havria facto noia ancor più volte.
 
-³⁰ Et propter ista verba, si recollegisti\
+30 Et propter ista verba, si recollegisti\
 &emsp;Bene sicut debes, est argumentum cassum,\
 &emsp;Quod tibi fecisset nocumentum adhuc pluries.
 
-³¹ Ma hor ti s'attraversa un altro passo\
+31 Ma hor ti s'attraversa un altro passo\
 &emsp;Dinanzi agli occhi tal, che per te stesso\
 &emsp;Non n'usciresti, pria saresti lasso.
 
-³¹ Sed nunc tibi obiicitur unus alius passus\
+31 Sed nunc tibi obiicitur unus alius passus\
 &emsp;Ante oculos ita, quod per te ipsum\
 &emsp;De illo non exires, prius esses lapsus.
 
-³² Io t'ho per certo ne la mente messo,\
+32 Io t'ho per certo ne la mente messo,\
 &emsp;Ch'alma beata non porrìa mentire,\
 &emsp;Però che sempre ha'l primo vero appresso:
 
-³² Ego tibi pro certo in mentem misi,\
+32 Ego tibi pro certo in mentem misi,\
 &emsp;Quod anima beata non potest mentiri,\
 &emsp;Eo quia semper prime veritati est propinqua:
 
-³³ E poi potesti da Piccarda udire,\
+33 E poi potesti da Piccarda udire,\
 &emsp;Che l'affection del vel Costanza tenne;\
 &emsp;Sì ch'ella par qui meco contraddire.
 
-³³ Et postmodum potuisti a Piccarda audire,\
+33 Et postmodum potuisti a Piccarda audire,\
 &emsp;Quod affectio veli Constantiam tenuit,\
 &emsp;Ita quod ipsa videtur hic mecum contradicere.
 
-³⁴ Spesse fiate già, frate, adivenne\
+34 Spesse fiate già, frate, adivenne\
 &emsp;Che, per fuggir periglo, contra grato\
 &emsp;Si fe'di quel che far non si convenne;
 
-³⁴ Sepe, frater, iam evenit\
+34 Sepe, frater, iam evenit\
 &emsp;Quod, propter fugere pericula, contra complacentiam\
 &emsp;Fuit factum illud quod fieri non conveniebat;
 
@@ -380,63 +380,63 @@ Sepe, frater (ecce quod Beatrix vocat hic Dantem fratrem), iam evenit quod, prop
 
 <!-- p. 868 (0922) -->
 
-³⁵ Come Almeone che, di ciò pregato\
-&emsp;Dal padre suo (¹), la propria madre (²) spense (³);\
+35 Come Almeone che, di ciò pregato\
+&emsp;Dal padre suo (1), la propria madre (2) spense (3);\
 &emsp;Per non perder pietà si fe' spiatato.
 
-³⁵ Sicut Almeon qui, rogatus de hoc\
+35 Sicut Almeon qui, rogatus de hoc\
 &emsp;A patre suo, propriam matrem extinxit,\
 &emsp;Propter non perdere pietatem se fecit impium.
 
-³⁶ A questo punto voglo che tu pense\
+36 A questo punto voglo che tu pense\
 &emsp;Che la forza al voler si meschia, e fanno\
 &emsp;Sì che scusar non si posson l'offense.
 
-³⁶ Isti punctui volo quod tu cogites\
+36 Isti punctui volo quod tu cogites\
 &emsp;Quia violentia voluntati se miscet, et faciunt\
 &emsp;Ita quod excusari non possunt offensione[s].
 
-³⁷ Vogla absoluta non consente al danno,\
+37 Vogla absoluta non consente al danno,\
 &emsp;Ma consentevi tanto, quanto teme,\
 &emsp;Se si ritrah[e], cader in più affanno.
 
-³⁷ Voluntas absoluta non consentit dampno,\
+37 Voluntas absoluta non consentit dampno,\
 &emsp;Sed consentit illi in tantum, quantum timet,\
 &emsp;Si se retrahit, cadere in maius affannum.
 
-³⁸ Però, quando Piccarda questo spreme,\
+38 Però, quando Piccarda questo spreme,\
 &emsp;De la vogla absoluta intende, et io\
-&emsp;Dell'altra (⁴), sì che 'l ver diciamo insieme.
+&emsp;Dell'altra (4), sì che 'l ver diciamo insieme.
 
-³⁸ Ergo, quando Piccarda illud exprimit,\
+38 Ergo, quando Piccarda illud exprimit,\
 &emsp;De voluntate soluta intelligit, et ego\
 &emsp;De alia, ita quod verum dicimus simul.
 
-³⁹ Cotal fu l'ondeggiar del sancto rio,\
+39 Cotal fu l'ondeggiar del sancto rio,\
 &emsp;Ch'uscì del fonte ond'ogni ver deriva;\
 &emsp;Tal pose in pace un et altro desio.
 
-³⁹ Talis fuit unda sancti rivi,\
+39 Talis fuit unda sancti rivi,\
 &emsp;Que exivit de fonte unde omne verum derivatur;\
 &emsp;Talis posuit in pace unum et aliud desiderium.
 
-⁴⁰ O manza dell'amante primo, o diva,\
+40 O manza dell'amante primo, o diva,\
 &emsp;Diss'io appresso, el cui parlar mi monda\
 &emsp;E scalda sì, che più e più mi avviva,
 
-⁴⁰ O amasia primi amasii, o diva,\
+40 O amasia primi amasii, o diva,\
 &emsp;Dixi ego statim, cuius sermo me inundat,\
 &emsp;Et callefacit ita, quod magis et magis me vivificat,
 
-⁴¹ Non è l'affection mia sì profonda,\
+41 Non è l'affection mia sì profonda,\
 &emsp;Che basti render voi gratia per gratia;\
 &emsp;Ma quei che vede e puote, a ciò risponda.
 
-⁴¹ Non est affectio mea tantum profunda,\
+41 Non est affectio mea tantum profunda,\
 &emsp;Que sufficiat ad reddendum vobis gratiam pro gratia;\
 &emsp;Sed ille qui videt et potest, huic rei satisfaciat.
 
-(¹) Amphiarao — (²) Eriphile — (³) occise — (⁴) conditionata.
+(1) Amphiarao — (2) Eriphile — (3) occise — (4) conditionata.
 
 scilicet de obediendo patri suo, se fecit impium. Nota hic, sicut Statius in sua Thebaydos dicit, [quod] Amphyrao, qui fuit rex et sacerdos, erat magnus augur, ut dictum fuit in vigesimo capitulo Inferni, et fuit unus de septem regibus qui obsederunt Thebas. Modo, quia erat augur, ipse precognovit quod si iret ad obsedendum Thebas, ipse debebat ibi mori, et tamen Greci volebant quod iret. Iste, volens evadere tale iter, fecit sibi unam habitationem subterraneam, et abscondit se ibi sub terra, et hoc nulli pandidit nisi Euripidi, uxori sue, precipiens sibi quod nulli panderet. Sed omne secretum in mulieris corde est spina semper pungens eam ad revelandum. Dum querebatur iste Amphyrao et non reperiebatur, venit Pollinices ad Euripidem, uxorem Amphyrai, portans sibi unum iocale pulchrum, scilicet monile, et dedit sibi, rogans eam, ut sibi vindicaret maritum suum Amphyraum; que propter donum fecit. Unde Amphyrao fuit repertus, et coactus ire et dare signum de inceptione itineris et bellandi, etc. Qui videns se compelli ad eundum, sciens se ibi infallibiliter moriturum, et eius mortis causam esse uxorem suam, vocavit filium suum Almeonem, sic nominatum, et rogavit eum ut faceret vindictam de morte sua. Adveniente in posterum nova de morte patris, Almeon, memor verborum patris sui, volens esse pius obediendo patri, interfecit matrem suam, que fuit causa mortis Amphyrai patris sui; et sic volens esse pius, factus est impius. Ecce non habebat voluntatem interficiendi matrem: tamen, ut obediret patri, interfecit matrem; et sic, propter non perdere pietatem, factus est impius.
 
@@ -452,57 +452,57 @@ Nunc auctor captat benivolentiam Beatricis, quam amasiam primi amatoris, idest S
 
 <!-- p. 869 (0923) -->
 
-⁴² Io veggio ben che già mai non si satia\
+42 Io veggio ben che già mai non si satia\
 &emsp;Nostro intellecto, se 'l ver non lo lustra,\
 &emsp;Di fuor dal quale nessun ver si spatia.
 
-⁴² Ego video bene quod nunquam satiatur\
+42 Ego video bene quod nunquam satiatur\
 &emsp;Intellectus noster, si verum illum non illustrat,\
 &emsp;Ultra quod nullum verum spatiatur.
 
-⁴³ Posasi in esso come fiera in lustra,\
+43 Posasi in esso come fiera in lustra,\
 &emsp;Tosto che giuncto l'ha: e giunger pollo;\
 &emsp;Se non, ciascun desio sarebbe frustra.
 
-⁴³ Quiescit in ipso sicut fera in lustro,\
+43 Quiescit in ipso sicut fera in lustro,\
 &emsp;Statim quod ad eum pervenit: et attingere eum potest;\
 &emsp;Aliter, quodlibet desiderium esset frustra.
 
-⁴⁴ Nasce per quello, a guisa di rampollo,\
+44 Nasce per quello, a guisa di rampollo,\
 &emsp;Appiè del vero, el dubio: et è natura,\
 &emsp;Ch'al sommo pinge noi di collo in collo.
 
-⁴⁴ Nascitur ab illo, ad instar rampolli,\
+44 Nascitur ab illo, ad instar rampolli,\
 &emsp;Apud verum, dubium; et habet naturam,\
 &emsp;Que ad summum impulit nos de colle in collem.
 
-⁴⁵ Questo m'invita, questo mi sicura,\
+45 Questo m'invita, questo mi sicura,\
 &emsp;Con riverenzia, donna, a dimandarvi\
 &emsp;D'un'altra verità che m'è obscura.
 
-⁴⁵ Istud me invitat, istud me securat,\
+45 Istud me invitat, istud me securat,\
 &emsp;Cum reverentia, o domina, ad interrogandum vos\
 &emsp;De una alia veritate, que michi est obscura.
 
-⁴⁶ Io vo'saper se l'huom può satisfarvi\
+46 Io vo'saper se l'huom può satisfarvi\
 &emsp;A voti manchi sì con altri beni,\
 &emsp;Ch'a la vostra statera non sien parvi.
 
-⁴⁶ Ego volo scire si homo potest satisfacere vobis,\
+46 Ego volo scire si homo potest satisfacere vobis,\
 &emsp;Votis non completis, ita cum aliis bonis,\
 &emsp;Quod vestre statere non sint parva.
 
-⁴⁷ Beatrice mi guardò cogli ochi pieni\
-&emsp;Di faville d'amor, con sì divini (¹),\
+47 Beatrice mi guardò cogli ochi pieni\
+&emsp;Di faville d'amor, con sì divini (1),\
 &emsp;Che, vinta mia virtù, diede le reni,\
 &emsp;E quasi me perdei cogl'ochi chini.
 
-⁴⁷ Beatrix me respexit cum oculis plenis\
+47 Beatrix me respexit cum oculis plenis\
 &emsp;Favillis amoris, et ita divinis,\
 &emsp;Quod, victa mea virtute, dedi renes,\
 &emsp;Et quasi me perdidi cum oculis inclinatis.
 
-(¹) ochi.
+(1) ochi.
 
 idest divinam; et merito, quia de Deo et a Deo est Sacra Theologia. Illa est que purgat et mundat omnes errores, et calefacit igne Spiritus Sancti, et vivificat, quia dat vitam. Ideo dixit Christus: Perscrutamini Scripturas, idest divinas, prophetarum, in quibus est vita; et Petrus: Verba vite habes: ad quem ibimus? Ioannis sexto capitulo. Et dicit auctor Beatrici: Ego non sufficio vobis regratiari; sed qui omnia potest, pro me reddat gratiarum actiones.
 

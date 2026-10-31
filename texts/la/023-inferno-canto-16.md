@@ -8,23 +8,23 @@ In sextodecimo capitulo, quod incipit: Iam eram in loco, ubi audiebatur, auctor 
 
 # Capitulum Sextumdecimum
 
-¹ Già era in loco ove s'udia'l rimbombo\
+1 Già era in loco ove s'udia'l rimbombo\
 &emsp;Dell'acqua che cadea nell'altro giro,\
 &emsp;Simil a quel che l'arnie fanno rombo;
 
-¹ Iam eram in loco ubi audiebatur sonus\
+1 Iam eram in loco ubi audiebatur sonus\
 &emsp;Aque que cadebat in alium girum,\
 &emsp;Similis illi quem arnie faciunt confusum;
 
-² Quando tre ombre insieme si partiro,\
-&emsp;Correndo, d'una turba (¹) che passava\
+2 Quando tre ombre insieme si partiro,\
+&emsp;Correndo, d'una turba (1) che passava\
 &emsp;Sotto la pioggia dell'aspro martiro.
 
-² Dum tres umbre simul recesserunt,\
+2 Dum tres umbre simul recesserunt,\
 &emsp;Currendo, de una turma que transibat\
 &emsp;Sub pluvia asperi martyrii.
 
-(¹) al. torma.
+(1) al. torma.
 
 Iam eram in loco. Già era in loco, dore: istud est decimumsextum capitulum Inferni, in quo auctor prosequitur materiam istius vitii detestabilis, ponendo tres spiritus illustres in multis virtutibus, qui fuerunt involuti in hoc vitio; et dividitur in quatuor partes. In quarum prima facit mentionem de dictis tribus spiritibus.
 
@@ -52,63 +52,63 @@ Quando tres umbre simul recesserunt, currendo, de una turba, idest acie, sub plu
 
 <!-- p. 205 (0259) -->
 
-³ Venian ver noi; e ciascuna gridava:\
-&emsp;Sostati (¹) tu, ch'all'abito ne sembri\
+3 Venian ver noi; e ciascuna gridava:\
+&emsp;Sostati (1) tu, ch'all'abito ne sembri\
 &emsp;Esser alcun di nostra terra prava.
 
-³ Veniebant versus nos; et quelibet clamabat:\
+3 Veniebant versus nos; et quelibet clamabat:\
 &emsp;Siste te, tu qui in habitu nobis appares\
 &emsp;Esse aliquis de nostra terra prava.
 
-⁴ Haymè, che piaghe vidi ne'lor membri\
+4 Haymè, che piaghe vidi ne'lor membri\
 &emsp;Recenti e vecchie da le fiamme incese!\
-&emsp;Ch'ancor men duol, purch'io me ne rimembri (²).
+&emsp;Ch'ancor men duol, purch'io me ne rimembri (2).
 
-⁴ Hei michi, quas plagas vidi in earum membris\
+4 Hei michi, quas plagas vidi in earum membris\
 &emsp;Recentes et antiquas a flammis incensas!\
 &emsp;Adhuc me dolet, solum quod de illis recorder.
 
-⁵ A le lor grida il mio doctor s'attese,\
+5 A le lor grida il mio doctor s'attese,\
 &emsp;Volse'l viso ver me, e disse: Aspecta,\
 &emsp;Chè a costor si vuol esser cortese:
 
-⁵ Ad eorum clamores meus doctor se attendit,\
+5 Ad eorum clamores meus doctor se attendit,\
 &emsp;Volvit visum versus me, et: Nunc expecta,\
 &emsp;Dixit, istis oportet esse curialis:
 
-⁶ E se non fusse el fuoco che saecta\
+6 E se non fusse el fuoco che saecta\
 &emsp;La natura del loco, io dicerei,\
 &emsp;Che meglo stesse a te, ch'a lor, la frecta.
 
-⁶ Et si non esset ignis quem sagiptat\
+6 Et si non esset ignis quem sagiptat\
 &emsp;Natura loci, ego dicerem,\
 &emsp;Quod convenientior esset tibi, quam eis, festinantia.
 
-⁷ Ricominciar, come noi ristemmo, ei\
+7 Ricominciar, come noi ristemmo, ei\
 &emsp;L'antico verso; e com'a noi fur giuncti,\
 &emsp;Fenno una rota di sè tutt'e trei.
 
-⁷ Reinceperunt, sicut nos resistimus, ipsi\
+7 Reinceperunt, sicut nos resistimus, ipsi\
 &emsp;Antiquum versum; et quando ad nos fuerunt appulsi,\
 &emsp;Fecerunt unam rotam omnes tres.
 
-⁸ Qual soglono e campion far nudi et uncti,\
+8 Qual soglono e campion far nudi et uncti,\
 &emsp;Avvisando lor presa e lor vantaggio,\
 &emsp;Prima che sien tra lor battuti e puncti;
 
-⁸ Qualem solebant facere campiones nudi et uncti,\
+8 Qualem solebant facere campiones nudi et uncti,\
 &emsp;Considerando eorum partem et eorum prerogatiram,\
 &emsp;Prius quam sint inter eos reverberati et puncti;
 
-⁹ E sì, rotando, ciascuno el visaggio\
+9 E sì, rotando, ciascuno el visaggio\
 &emsp;Drizzav'a me, sì che tra loro e'l collo\
 &emsp;Facean a piè continuo viaggio.
 
-⁹ Sic, rotando, quelibet visum\
+9 Sic, rotando, quelibet visum\
 &emsp;Dirigebat ad me, ita quod in contrarium collum\
 &emsp;Faciebat pedibus continuum viagium.
 
-(¹) fermati, o. — (²) ricordi.
+(1) fermati, o. — (2) ricordi.
 
 Volens ostendere auctor asperitatem pene istarum animarum, dolenter dicit: Ahimè, heu michi, quas plagas vidi in eorum membris recentes et antiquas, a flammis incensas: adhuc doleo solum quod de illis recordor; idest, recordando; idest sine dolore non possum referre plagas, idest cicatrices, que remanent de flammis; sicut quando fiunt vulnera in carne humana, curatis vulneribus, remanent cicatrices, idest signa vulnerum, scilicet arnie. De talibus peior est quasi verecundia quam dolor: dolebat dupliciter: primo, quia erant sui concives; secundo, quia isti fuerunt homines probissimi magnarum virtutum, in hoc tamen vitio involuti; ideo magis compatiebatur eis. Modo Virgilius, idest ratio, vult quod, licet isti fuerint vitiosi, audiantur tum propter probitatem, tum propter discere penas eorum, ut homines addiscant cavere a tali vitio. Ideo dicitur: Ad eorum clamores meus doctor se attendit, idest firmavit, volvit, visum versus me, et: Nunc expecta, dixit, istis oportet esse curialis. Idest: Debes uti cum eis curialitate, quia ipsi fuerunt curiales.
 
@@ -120,55 +120,55 @@ Nota quod auctor introducit ad loquendum unam rotam, unum tripudium, et circulum
 
 <!-- p. 206 (0260) -->
 
-¹⁰ E se miseria desto loco sollo\
+10 E se miseria desto loco sollo\
 &emsp;Rende in dispecto noi e nostri preghi,\
 &emsp;Cominciò l'uno, e'l tristo aspecto e brollo;
 
-¹⁰ Et si miseria huius loci solidi\
+10 Et si miseria huius loci solidi\
 &emsp;Redit in despectum nos et nostras preces,\
 &emsp;Incepit unus, et tristis aspectus incensus;
 
-¹¹ La nostra fama el tuo animo pieghi\
+11 La nostra fama el tuo animo pieghi\
 &emsp;A dirne chi tu se', che vivi piedi\
 &emsp;Così sicuro per l'Inferno freghi.
 
-¹¹ Fama nostra tuum animum plicet\
+11 Fama nostra tuum animum plicet\
 &emsp;Ad dicendum nobis quis tu es, qui vivos pedes\
 &emsp;Ita securus per Infernum fricas.
 
-¹² Questi, l'orma di cui pestar me (¹) vedi,\
+12 Questi, l'orma di cui pestar me (1) vedi,\
 &emsp;Tutto che nudo e dipelato vada,\
 &emsp;Fu di grado maggior che tu non credi.
 
-¹² Iste, vestigia cuius tu me scalpitare vides,\
+12 Iste, vestigia cuius tu me scalpitare vides,\
 &emsp;Quamquam nudus et depillatus vadat,\
 &emsp;Fuit maioris gradus quam tu credas.
 
-¹³ Nipote fu de la buona Gualdrada:\
+13 Nipote fu de la buona Gualdrada:\
 &emsp;Guidoguerra ebbe nome, et in sua vita\
 &emsp;Fece col senno assai e con la spada.
 
-¹³ Nepos fuit bone Guldrate:\
+13 Nepos fuit bone Guldrate:\
 &emsp;Guidoguerra fuit ei nomen, et in sua vita\
 &emsp;Fecit cum sapientia satis et cum ense.
 
-¹⁴ L'altro che presso a me la rena trita,\
+14 L'altro che presso a me la rena trita,\
 &emsp;È Teghiaio Aldobrandi, la cui voce\
-&emsp;Nel mondo su dovria (²) esser gradita.
+&emsp;Nel mondo su dovria (2) esser gradita.
 
-¹⁴ Alter qui prope me arenam terit,\
+14 Alter qui prope me arenam terit,\
 &emsp;Est Thygnaus de Aldobrandis, cuius vox\
 &emsp;In mundo superiori deberet esse gratuita.
 
-¹⁵ Et io, che posto so' con loro in croce (³),\
+15 Et io, che posto so' con loro in croce (3),\
 &emsp;Iacopo Rusticucci fui; e certo\
 &emsp;La fiera mogle più ch'altro mi noce.
 
-¹⁵ Et ego, qui positus sum in cruce cum ipsis,\
+15 Et ego, qui positus sum in cruce cum ipsis,\
 &emsp;Iacobus de Rusticutiis fui; et certe\
 &emsp;Fera mulier plusquam aliud michi nocet.
 
-(¹) al. ne. — (²) al. dovrebbe — (³) pena.
+(1) al. ne. — (2) al. dovrebbe — (3) pena.
 
 erunt muti, quia nullam excusationem habere poterunt, quia ipsi oppositum fecerunt, et ex eorum luxuria nihil genitum est. Nec in hoc vitio habetur finis, quia finis luxurie debet esse multiplicatio filiorum, ut salvetur species; cuius oppositum commictitur in hoc putrido vitio: et quia in hoc vitio non potest dari principium laudabile certe, nec finis, ideo auctor eos in circum ire per comparationem describit. Auctor circulationem istorum describit, dicens: Qualem, scilicet rotam, solebant facere campiones, idest in campo certantes, nudi et uncti, considerando eorum partem et illorum vantagium, idest prerogativam, priusquam sint inter seipsos batuti, idest verberati et puncti, idest antequam incipiant pugnare.
 
@@ -184,31 +184,31 @@ Ego qui positus sum cum ipsis in cruce: idest in tali martyrio, Iacobus Rusticut
 
 <!-- p. 207 (0261) -->
 
-¹⁶ S'io fossi stato dal loco coperto,\
+16 S'io fossi stato dal loco coperto,\
 &emsp;Gittato mi sarei tra loro disocto,\
-&emsp;E credo che 'l doctor (¹) l'havria sofferto.
+&emsp;E credo che 'l doctor (1) l'havria sofferto.
 
-¹⁶ Si ego fuissem ab igne coopertus,\
+16 Si ego fuissem ab igne coopertus,\
 &emsp;Proiecissem me inter eos infra,\
 &emsp;Et credo quod doctor illud sustulisset.
 
-¹⁷ Ma perch'io mi sarei bruciato e cocto,\
+17 Ma perch'io mi sarei bruciato e cocto,\
 &emsp;Vinse paura la mia buona vogla,\
 &emsp;Che di lor abbracciar mi facea ghiocto.
 
-¹⁷ Sed quia ego me incendissem et decoquissem,\
+17 Sed quia ego me incendissem et decoquissem,\
 &emsp;Vicit timor bonum voluntatem,\
 &emsp;Que amplexari illos faciebat me avidum.
 
-¹⁸ Poi cominciai: Non dispecto, ma dogla\
+18 Poi cominciai: Non dispecto, ma dogla\
 &emsp;La vostra condiction dentro mi fisse\
 &emsp;Tanto, che tardi tutta mi dispogla,
 
-¹⁸ Postmodum incepi: Non despectum, sed dolorem\
+18 Postmodum incepi: Non despectum, sed dolorem\
 &emsp;Vestra conditio intra me fixit\
 &emsp;In tantum, quod tarde tota inde exuitur,
 
-(¹) Virgilio.
+(1) Virgilio.
 
 aliud michi nocuit. Ad habendam notitiam horum trium, notentur infra dicenda. Otto quartus, dux Saxonie, fuit sanctus imperator et rex Romanorum, et intravit Ytaliam pro corona recipienda, et transivit per Florentiam, ubi fuit in festo Sancti Ioannis Baptiste, quod tam solempniter colitur et celebratur, sicut sciunt, qui in tali festo fuerunt Florentie, et illa die omnia pulchra ostenduntur. Dominus imperator cum magnis comitibus et baronibus ivit ad videndum festum, et inter alia pulchra que vidit, inter mulieres sedentes ad festum erat una pulcherrima domicella puella, nomine Guldrata, filia domini Bellenzoni de Ramignanis, sapientis militis. Imperator, videns tam pulchram puellam, quasi stupefactus de tam mirabili pulchritudine, dixit isti domino Bellinzono, ignorando quod illa esset filia sua: Que est illa puella tam pulchra? Ille humiliter respondit, dixit: Sancta corona, illa puella est filia unius, qui posset sic ordinare, quod vos obscularemini eam. Puella hoc audiens, quia virgo erat, pro verecundia facta fuit rubea in facie; tandem cum magna reverentia, facie inclinata ad terram, dixit: O pater dulcis, salva vestra reverentia et gratia, nunquam obsculabitur me nisi sponsus meus. Si prius placuerat puella imperatori, tunc propter talia verba [magis] placuit; et dixit domino Bellinzono patri puelle: Habet virum ista puella tua filia? Respondit: Serenissima corona, non. Tunc dixit imperator: Quare non maritas eam? Respondens dominus Bellinzon[us], dixit: Non potui, nec possum, quoniam non habeo dotes. Tunc imperator dixit: Ego volo maritare. Et erat cum imperatore, unus nobilis, nomine Guido, cui dixit imperator: [Audi]. Et extrahens ipse imperator de propriis digitis pulchrum annulum, dedit ipsum nobili viro Guidoni, dicens ei: Accipe hunc annulum et disponsa ipsam puellam. Et licet ille nobilis debuisset habere uxorem de nobiliori sanguine quam esset illa puella, tamen, volens obedire imperatori, disponsavit eam et fuit uxor eius. Tunc imperator dedit pro dote illi Guidoni illum Comitatum, qui vocatur Comitatus comituum Guidonum, et fecit eum comitem. Ista Guldrata ex suo viro, scilicet comite, noviter facto, scilicet Guidone, genuit comitem Guilielmum, qui Guilielmus comes genuit istum Guidonem Guerram comitem, de quo auctor loquitur hic; et dictus fuit Guidoguerra, quia fuit peritissimus in guerris. Hic fuit expulsus de Florentia, quia erat Guelfus, et exul de Florentia, adhesit Karolo primo, qui interfecit regem Manfredum et fuit rex Sicilie. Demum favore regis Karoli reintravit Florentiam, et expulsit Gebellinos de Florentia, qui nunquam redierunt: qui fuit sapiens et valens in armis. Alter, scilicet Thygnaus, describitur hic propter unum singulare et salubre consilium, quod dedit populo Florentie; sed non fuit auditus de tali consilio. Nam quando Senenses prodiderunt Florentinos, dum dominus Provintianus Silvanus obsidebat Montem Ilcinum, et propositum fuit in palatio et in consilio generali, utrum Florentini deberent capere talem pugnam, an non, multis et variis diversa dicentibus, partita vincebatur pro parte affirmativa, idest quod sic suscipere pugnam bonum est. Iste contrarium dicebat, quod nullo modo talis pugna sumeretur, et assignabat talem causam: Isti Senenses non possunt ultra istos duos menses tenere istas octingentas lancias Theuthonicorum quas nunc habent, quia non habent ad solvendum eis. Transactis istis duobus mensibus, Theuthonici recedent a Senensibus, et si nos voluerimus eos nobiscum, poterimus habere; ideo nullo modo capiamus nunc istam pugnam. Dum sic consulebat, fuit sibi inibitum, sub pena centum florenorum, quod de tali materia non plus loqueretur. Tunc ipse dixit, et centum ducatis solutis, et solvit. Et semper hortabatur, quod talis pugna non caperetur, quia videbat magnum dispendium imminere civitati ex hoc. Tunc sibi fuit inibitum sub pena capitis, quod non amplius loqueretur. Tunc suspirans: Caput perdere nolo; sed suspirabo. Et sic consilium suum non fuit auditum; et sicut ipse predixit, evenit magna strages, quia, ut dictum fuit superius, apud Montem Aperti interfecti fuerunt cives florentini quatuor millia in numero. Ideo dicitur in textu: Thygnaus Aldobrandi, cuius vox in mundo superiori deberet esse gratuita, idest deberet audiri et credi ei. Iacobus de Rusticutii fuit civis florentinus et bene curialis, homo bone prudentie et bene dilectus ab omnibus civibus florentinis, et fuit homo boni consilii. Habuit unam uxorem, nomine Beccham, brigosam, iracundam; semper tenebat totam domum in briga; semper dabat mala verba marito: unde turbatus, semel iuravit nunquam dormire cum ea. Tunc uxor dixit: Quare vovisti nunquam dormire cum aliqua muliere? Et tunc ille dixit: Sic iuro. Ideo dicitur in textu: Fera uxor plusquam aliud michi nocet.
 
@@ -216,63 +216,63 @@ Se io. Si ego fuissem: ista est tertia pars huius capituli, in qua ostendit auct
 
 <!-- p. 208 (0262) -->
 
-¹⁹ Tosto che questo mio signor (¹) mi disse\
+19 Tosto che questo mio signor (1) mi disse\
 &emsp;Parole, per le quali io mi pensai,\
 &emsp;Che qual voi sete, tal gente venisse.
 
-¹⁹ Quam cito iste meus dominus dixit\
+19 Quam cito iste meus dominus dixit\
 &emsp;Verba, propter que ego in me cogitavi,\
 &emsp;Quod quales vos estis, talis gens veniret.
 
-²⁰ Di vostra terra son; e sempre mai\
+20 Di vostra terra son; e sempre mai\
 &emsp;L'opre di voi e gl'honorati nomi\
 &emsp;Con affection ritrassi et ascoltai.
 
-²⁰ De vestra terra sum; et semper\
+20 De vestra terra sum; et semper\
 &emsp;Opera vestra et honorata nomina\
 &emsp;Cum affectione retraxi et auscultavi.
 
-²¹ Lascio lo fele, e vo'pei (²) dolci pomi\
-&emsp;Promessi a me per l'honora[n]do duca (³);\
-&emsp;Ma 'n fin al centro (⁴) pria convien ch'io tomi.
+21 Lascio lo fele, e vo'pei (2) dolci pomi\
+&emsp;Promessi a me per l'honora[n]do duca (3);\
+&emsp;Ma 'n fin al centro (4) pria convien ch'io tomi.
 
-²¹ Relinquo fel, et vado pro dulcibus pomis\
+21 Relinquo fel, et vado pro dulcibus pomis\
 &emsp;Promissis michi per veracem ducem;\
 &emsp;Sed usque ad centrum prius convenit quod ego tomem.
 
-²² Se lungamente l'anima conduca\
+22 Se lungamente l'anima conduca\
 &emsp;Le membra tue, rispose quelli allora,\
 &emsp;E se la fama tua doppo te luca,
 
-²² Si diu anima conducat\
+22 Si diu anima conducat\
 &emsp;Membra tua, respondit ille adhuc,\
 &emsp;Et si fama tua post te luceat,
 
-²³ Cortesia e valor, disse, dimora\
+23 Cortesia e valor, disse, dimora\
 &emsp;Ne la nostra città sì come sole,\
 &emsp;O se del tutto se n'è gita fora?
 
-²³ Curialitas et valor, dixit, morantur\
+23 Curialitas et valor, dixit, morantur\
 &emsp;In nostra civitate sicut solent,\
 &emsp;Vel si in totum inde recesserunt?
 
-²⁴ Chè Guiglelmo borsier, el quale si dole\
+24 Chè Guiglelmo borsier, el quale si dole\
 &emsp;Con noi per poco, e va là co'compagni,\
 &emsp;Assai ne cruccia co'le sue parole.
 
-²⁴ Quia Guilielmus bursarius, qui iam dolet\
+24 Quia Guilielmus bursarius, qui iam dolet\
 &emsp;De hoc nobiscum, et vadit ultra cum sotiis,\
 &emsp;Satis nos cruciat cum suis verbis.
 
-²⁵ La nuova gente (⁵), e subiti guadagni (⁶),\
-&emsp;Orgoglo (⁷) e dismisura (⁸) han generata,\
-&emsp;In te (⁹), Fiorenza, sì che (¹⁰) già ten piagni (¹¹).
+25 La nuova gente (5), e subiti guadagni (6),\
+&emsp;Orgoglo (7) e dismisura (8) han generata,\
+&emsp;In te (9), Fiorenza, sì che (10) già ten piagni (11).
 
-²⁵ Gens nova, et subita lucra,\
+25 Gens nova, et subita lucra,\
 &emsp;Arrogantiam et res ultra mensuram generarunt,\
 &emsp;O Florentia, in te, sic quod iam ex hoc plangis.
 
-(¹) Virgilio. — (²) al. per. — (³) Virgilio. — (⁴) de la terra. — (⁵) rusticità. — (⁶) avaritia. — (⁷) superbia. — (⁸) al. smisuranza, i. vanitates. — (⁹) o. — (¹⁰) taliter. — (¹¹) propter tuas partialitates.
+(1) Virgilio. — (2) al. per. — (3) Virgilio. — (4) de la terra. — (5) rusticità. — (6) avaritia. — (7) superbia. — (8) al. smisuranza, i. vanitates. — (9) o. — (10) taliter. — (11) propter tuas partialitates.
 
 istos tres spiritus, quia cupiebat ipsos amplecti, non vitia sua, sed virtutes suas, quia fuerunt multum notabiles viri. Dicit igitur: Si ego fuissem ab igne coopertus, proiecissem me inter eos infra. Et credo quod doctor illud substulisset; sed quia ego me incendissem, vicit timor meam bonam voluntatem, que amplexandi illos faciebat me avidum. Modo vult dicere: Vos fixe respexi: non despectus, quo vos abominarem, me tenuit; sed propter compaxionem, et non propter odium, destiti. Postmodum incepi: Non despectum, sed dolorem, vestra conditio intra fixit, in tantum quod tarde tota inde exuetur. De vestra terra sum et semper opera vestra et honorata nomina cum affectione retraxi et abscultavi; idest, licet sitis polluti in hoc vitio, has tamen virtutes vestras dilexi, diligo quoque, narro, narrabo.
 
@@ -284,79 +284,79 @@ Orgoglio, idest arrogantia; rusticana, villanesca; et superfluitas. Hic dolet au
 
 <!-- p. 209 (0263) -->
 
-²⁶ Così gridai co'la faccia levata:\
+26 Così gridai co'la faccia levata:\
 &emsp;E i tre, che ciò inteser per risposta,\
 &emsp;Guatar l'un l'altro, come al ver si guata.
 
-²⁶ Sic clamavi cum facie elevata:\
+26 Sic clamavi cum facie elevata:\
 &emsp;Et tres, qui hoc intellexerunt pro responso,\
 &emsp;Rexpexit unus alterum, sicut ad veritatem inspicitur.
 
-²⁷ Se l'altre volte sì poco ti costa,\
+27 Se l'altre volte sì poco ti costa,\
 &emsp;Risposer tutti, el satisfar altrui,\
 &emsp;Felice te, che sì parli a tua posta.
 
-²⁷ Si aliis vicibus ita parum tibi costat,\
+27 Si aliis vicibus ita parum tibi costat,\
 &emsp;Responderunt omnes, satisfacere alteri,\
 &emsp;Felicem te, si sic loqueris ad placitum tuum.
 
-²⁸ Però se campi d'esti luoghi bui,\
+28 Però se campi d'esti luoghi bui,\
 &emsp;E ritorni a veder le belle stelle,\
 &emsp;Quando ti gioverà dicer: Io fui,
 
-²⁸ Quare si evadas ab istis locis obscuris,\
+28 Quare si evadas ab istis locis obscuris,\
 &emsp;Et redeas ad revidendum pulchras stellas,\
 &emsp;Quando te delectabit dicere: Ego fui;
 
-²⁹ Fa'che di noi a le genti favelle.\
+29 Fa'che di noi a le genti favelle.\
 &emsp;Indi rupper la rota, et a fuggirsi\
 &emsp;Hale sembiar le gambe loro snelle.
 
-²⁹ Facias ut de nobis ad gentes loquaris.\
+29 Facias ut de nobis ad gentes loquaris.\
 &emsp;Inde ruperunt rotam, et ad fugiendum\
 &emsp;Visa sunt ale crura eorum velocia.
 
-³⁰ [Un Amen non saria potuto dirsi\
+30 [Un Amen non saria potuto dirsi\
 &emsp;Tosto così, com'ei furo spariti:\
 &emsp;Perchè al maestro parve di partirsi.]
 
-³⁰ Unum Amen non potuisset dici\
+30 Unum Amen non potuisset dici\
 &emsp;Ita cito, sicut ipsi disparuerunt:\
 &emsp;Ex quo magistro fuit visum recedere.
 
-³¹ Io li seguia, e poco eravam iti,\
-&emsp;Che'l suon dell'acqua n'era (¹) sì vicino,\
+31 Io li seguia, e poco eravam iti,\
+&emsp;Che'l suon dell'acqua n'era (1) sì vicino,\
 &emsp;Che per parlar saremmo a pena uditi.
 
-³¹ Ego eum sequebar, et modicum iveramus,\
+31 Ego eum sequebar, et modicum iveramus,\
 &emsp;Quod sonus aque erat nobis ita vicinus,\
 &emsp;Quod quamquam loquuti fuissemus, non essemus auditi.
 
-³² Come quel f[i]umo, c'ha proprio cammino\
+32 Come quel f[i]umo, c'ha proprio cammino\
 &emsp;Prima da monte volto inver levante\
 &emsp;Da la sinistra costa d'Apennino,
 
-³² Sicut ille fluvius, qui habet proprium iter\
+32 Sicut ille fluvius, qui habet proprium iter\
 &emsp;Prius a monte Veso versus orientem\
 &emsp;Ad sinistrum latus Appennini,
 
-³³ Che si chiama Acquaqueta su, davante (²)\
+33 Che si chiama Acquaqueta su, davante (2)\
 &emsp;Che si divalli giù nel basso lecto,\
 &emsp;Ch'è a Forlì di quel nome vacante,
 
-³³ Qui vocatur Aquaquieta superius, ante\
+33 Qui vocatur Aquaquieta superius, ante\
 &emsp;Quam se per valles precipitet in infimum lectum,\
 &emsp;Et apud Forlivium illius nominis est vacans,
 
-³⁴ Rimbomba là sopra San Benedecto\
+34 Rimbomba là sopra San Benedecto\
 &emsp;Dell'Alpe, per cader ad una scesa,\
 &emsp;Che dovria a mille fonti esser ricecto;
 
-³⁴ Resonat ibi supra Sanctum Benedictum\
+34 Resonat ibi supra Sanctum Benedictum\
 &emsp;De Alpibus, ut cadat ad unum descensum,\
 &emsp;Ubi debebat pro mille esse receptaculum;
 
-(¹) era a noi. — (²) al. suso avante.
+(1) era a noi. — (2) al. suso avante.
 
 Florentia est hic vocativi casus. Et tres, qui hoc intellexerunt pro responso, respexerunt unus alterum, sicut ad veritatem inspicitur, quasi dicant: Hoc verum. Et dicunt: Si aliis vicibus parum tibi costat, responderunt omnes, satisfacere alteri, felicem te, supple dicimus, si sic loqueris ad placitum tuum. Quare, si evadas ab istis locis obscuris, et redeas ad revidendum pulchras stellas, quando te delectabit dicere: Ego fui (quia quod durum fuit pati, dulce est reminisci: post coniurationem petunt gratiam ab auctore dicentes), facias ut de nobis ad gentes loquaris; idest de virtutibus nostris. Proinde rumpunt rotam, idest tripudium, et ad fugiendum visa sunt ale crura eorum, idest velociter cucurrerunt, velocia: Unum amen non potuisset dici ita cito, sicut ipsi disparuerunt, ex quo magistro fuit visum recedere.
 
@@ -368,19 +368,19 @@ Sicut ille fluvius, qui habet proprium iter, prius a monte Veso versus orientem 
 
 <!-- p. 210 (0264) -->
 
-³⁵ Così, da una ripa discoscesa,\
+35 Così, da una ripa discoscesa,\
 &emsp;Trovammo risonar quell'acqua tincta,\
 &emsp;Sì che 'n poc'hora havria l'orechie offesa.
 
-³⁵ Sic, inferius de una ripa discoscexa,\
+35 Sic, inferius de una ripa discoscexa,\
 &emsp;Invenimus resonare illam aquam tintam,\
 &emsp;Ita quod in pauca hora offendisset aures.
 
-³⁶ Io aveva una corda intorno cincta,\
+36 Io aveva una corda intorno cincta,\
 &emsp;E con essa pensai alcuna volta\
 &emsp;Prender la lonza a la pelle dipincta.
 
-³⁶ Ego habebam unam cordam cintam,\
+36 Ego habebam unam cordam cintam,\
 &emsp;Et cum ipsa cogitavi michi aliqua vice\
 &emsp;Capere leontiam ad pellem depictam.
 
@@ -392,47 +392,47 @@ Sic inferius de una ripa discoscesa, idest ruinosa, invenimus resonare illam aqu
 
 <!-- p. 211 (0265) -->
 
-³⁷ Poscia ch'io l'ebbi tutta da me sciolta,\
+37 Poscia ch'io l'ebbi tutta da me sciolta,\
 &emsp;Sì com'l duca m'havea comandato,\
 &emsp;Porsila a lui aggroppata et avolta.
 
-³⁷ Postquam ego habui totam a me solutam,\
+37 Postquam ego habui totam a me solutam,\
 &emsp;Sicut dux preceperat michi,\
 &emsp;Porrexi eam sibi agroppatam et involutam.
 
-³⁸ Onde si volse inver lo dextro lato,\
+38 Onde si volse inver lo dextro lato,\
 &emsp;Et alquanto dilungi dalla sponda\
 &emsp;La gittò giù in quell'alto burrato.
 
-³⁸ Unde ipse se volvit in dextrum latus,\
+38 Unde ipse se volvit in dextrum latus,\
 &emsp;Aliquantulum a longe a sponda\
 &emsp;Proiecit eam deorsum in alio burracto.
 
-³⁹ E pur convien che novità risponda,\
+39 E pur convien che novità risponda,\
 &emsp;Dicea in me medesmo, al nuovo cenno\
 &emsp;Che'l maestro coll'ochio sì seconda.
 
-³⁹ Oportet omnino quod novitas respondeat,\
+39 Oportet omnino quod novitas respondeat,\
 &emsp;Dicebam intra memetipsum, ad novum cennum\
 &emsp;Quod magister cum oculo secundat.
 
-⁴⁰ Hay! quanto cauti gl'huomini esser denno\
+40 Hay! quanto cauti gl'huomini esser denno\
 &emsp;Press'a color, che non veggion pur l'opra,\
 &emsp;Ma per entro e pensier miran con senno!
 
-⁴⁰ Ah! quantum cauti homines debent esse\
+40 Ah! quantum cauti homines debent esse\
 &emsp;Prope illos, qui non solum vident opera,\
 &emsp;Sed etiam per intra cogitamina intuentur cum sensu!
 
-⁴¹ El (¹) disse a me: Tosto verrà di sopra\
-&emsp;Ciò ch'io attendo (²) e (³) che'l tuo pensier sogna,\
+41 El (1) disse a me: Tosto verrà di sopra\
+&emsp;Ciò ch'io attendo (2) e (3) che'l tuo pensier sogna,\
 &emsp;Tosto convien ch'al tuo viso discopra.
 
-⁴¹ Et ipse dixit michi: Cito veniet superius\
+41 Et ipse dixit michi: Cito veniet superius\
 &emsp;Omne id quod ego attendo, et quod tuum cogitamen sompniat,\
 &emsp;Cito oportet quod tuo visui discooperiatur.
 
-(¹) al. Ei. — (²) aspecto. — (³) ciò.
+(1) al. Ei. — (2) aspecto. — (3) ciò.
 
 sublatam, idest repertam, sicut dux preceperat michi, porrexi eam sibi aggroppatam, idest nodatam et involutam. Iste textus est fortis ex omni latere. Pro intelligentia eius notandum est, quod auctor, volens describere Fraudem in generali, incipit a quodam speciali, sive singulari. Ideo ipse fingit, quod ipsemet auctor erat cinctus unam funem circa ilia; quam funem, de precepto Virgilii, disolvit, et Virgilio petenti dedit eam sibi: qui, scilicet Virgilius, proiecit eam cordam in barathro, idest in fosso, in quo cadebat illa aqua, de qua dictum est, sicut homo proiiceret hamum ad capiendum pisces; et sic cepit unum animal monstruosum, sicut depinget in principio capituli proximi.
 
@@ -448,41 +448,41 @@ Et ipse dixit michi: Cito veniet superius omne id quod ego attendo, idest expect
 
 <!-- p. 212 (0266) -->
 
-⁴² Sempr'a quel ver (¹) c'ha (²) faccia di menzogna\
+42 Sempr'a quel ver (1) c'ha (2) faccia di menzogna\
 &emsp;De' l' hom chiuder le labbra fin che el pote,\
 &emsp;Però che senza colpa fa vergogna;
 
-⁴² Semper illi vero quod habet faciem mendacii\
+42 Semper illi vero quod habet faciem mendacii\
 &emsp;Debet homo claudere os quantum potest,\
 &emsp;Quia sine culpa facit verecundiam;
 
-⁴³ Ma qui tacer non posso; per le note\
+43 Ma qui tacer non posso; per le note\
 &emsp;Di questa comedia, lector, ti giuro,\
 &emsp;S'elle non sien di lunga gratia vote,
 
-⁴³ Sed hic tacere non possum; et per notas\
+43 Sed hic tacere non possum; et per notas\
 &emsp;Istius comedie, lector, tibi iuro,\
 &emsp;Si non sint de longa gratia vacue,
 
-⁴⁴ Ch'io vidi per quell'aer grasso e scuro\
+44 Ch'io vidi per quell'aer grasso e scuro\
 &emsp;Venir notando una figura in suso,\
 &emsp;Maraviglosa ad ogni cuor sicuro,
 
-⁴⁴ Quod ego vidi per illum aierem grossum et obscurum\
+44 Quod ego vidi per illum aierem grossum et obscurum\
 &emsp;Venire natando unam figuram sursum,\
 &emsp;Mirabilem omni cordi securo,
 
-⁴⁵ Sì come torna colui che va giuso\
+45 Sì come torna colui che va giuso\
 &emsp;Talhor a solver l'ancora, c'haggrappa\
 &emsp;A scoglo o altro che nel mare è chiuso,\
 &emsp;Che'n su si stende, e da piè si rattrappa.
 
-⁴⁵ Sicut revertitur ille qui vadit deorsum\
+45 Sicut revertitur ille qui vadit deorsum\
 &emsp;Aliquando ad solvendum anchoram, que agrappat\
 &emsp;Scopulum vel aliud quod in mari est clausum,\
 &emsp;Qui sursum extenditur, et ad pedes se retrappat.
 
-(¹) vero — (²) che ha.
+(1) vero — (2) che ha.
 
 Semper illi vero, quod habet faciem mendacii, idest veritati, debet homo claudere labia, quantum potest, quia sine culpa facit verecundiam. Iste ternarius est valde doctrinativus. Vult dicere auctor: Aliqua veritas, que continet magnam difficultatem, in tantum quod apud audientes videtur quasi esse impossibile id quod dicitur, ad pronuntiandum talem veritatem, debet homo esse valde cautus in dicendo cum coloribus, quibus veritas illa sic ornetur, quod possit dari fides illa dicenti: vel homo debet illa tacere, quia sine culpa, idest licet verum sit quod dicitur, facit verecundiam; idest propter difficultatem reputatur mendacium, et sic dicens reputatur mendax. Hoc pro tanto dicit auctor: Nam quam cito Virgilius cepit trahere cordam ad se, trahebat cum corda unam mirabilem feram, talem et tantam, quod incredibile sit ad credendum illam fuisse talem. Tamen hic auctor excusat se, quia id quod dicturus est non crederetur. Et licet ita sit, sicut iam dictum est, tamen dicit se non posse tacere: Sed hic tacere non possum, quia oportet describere Fraudem per modum, qui cito explicabitur in proximo capitulo.
 

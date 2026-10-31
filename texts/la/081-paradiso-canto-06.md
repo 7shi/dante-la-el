@@ -10,27 +10,27 @@ Troya, que sita fuit in extremitate Europe; aliquas victorias habuerunt reges Si
 
 # Capitulum Sextum
 
-¹ Poscia che Constantin l'aquila volse\
+1 Poscia che Constantin l'aquila volse\
 &emsp;Contra 'l corso del ciel, ch'ella seguìo\
 &emsp;Dietro all'antico che Lavina tolse,
 
-¹ Postquam Constantinus aquilam vertit\
+1 Postquam Constantinus aquilam vertit\
 &emsp;Contra cursum celi, quod ipsam sequutum est\
 &emsp;Retro antiquum qui Lavinam accepit,
 
-² Cento e cent'anni e più l'ucel di Dio\
+2 Cento e cent'anni e più l'ucel di Dio\
 &emsp;Nell'extremo d'Europa si ritenne,\
 &emsp;Vicino a'monti de'quai prima uscìo;
 
-² Centum et centum annis et pluribus avis Dei\
+2 Centum et centum annis et pluribus avis Dei\
 &emsp;In extremo Europe se retinuit,\
 &emsp;Vicina montibus de quibus primitus exivit;
 
-³ E sotto l'ombra de le sacre penne\
+3 E sotto l'ombra de le sacre penne\
 &emsp;Governò 'l mondo lì di mano in mano,\
 &emsp;E sì cangiando, in su la mia pervenne.
 
-³ Et sub umbra sacrarum pennarum\
+3 Et sub umbra sacrarum pennarum\
 &emsp;Gubernavit mundum ibi de manu in manum,\
 &emsp;Et sic cambiando, super mea pervenit.
 
@@ -56,27 +56,27 @@ Primo igitur, continuando dicta dicendis, auctor ponit quomodo Iustinianus Imper
 
 <!-- p. 883 (0937) -->
 
-⁴ Cesare fui, e son Iustiniano,\
+4 Cesare fui, e son Iustiniano,\
 &emsp;Che, per voler del primo amor ch'io sento,\
 &emsp;D'entro le leggi trassi el troppo e'l vano:
 
-⁴ Cesar fui, et sum Iustinianus,\
+4 Cesar fui, et sum Iustinianus,\
 &emsp;Qui, propter velle de divino amore quem sentio,\
 &emsp;Ex legibus traxi nimium et vanum:
 
-⁵ E, pria ch'io all'opra fussi attento,\
+5 E, pria ch'io all'opra fussi attento,\
 &emsp;Una natura in Chrysto esser, non piue,\
 &emsp;Credeva, e di tal fede era contento;
 
-⁵ Et, priusquam ad operam ego essem actentus,\
+5 Et, priusquam ad operam ego essem actentus,\
 &emsp;Unam naturam in Christo esse, non plures,\
 &emsp;Credebam, et de tali fide eram contentus;
 
-⁶ Ma 'l benedetto Aghabito, che fue\
+6 Ma 'l benedetto Aghabito, che fue\
 &emsp;Sommo pastore, a la fede sincera\
 &emsp;Mi dirizzò co'le parole sue.
 
-⁶ Sed benedictus Agapitus, qui fuit\
+6 Sed benedictus Agapitus, qui fuit\
 &emsp;Summus pastor, ad fidem sinceram\
 &emsp;Me direxit cum verbis suis.
 
@@ -90,51 +90,51 @@ Et priusquam ad operam ego essem actentus, unam naturam, scilicet tantum humanam
 
 <!-- p. 884 (0938) -->
 
-⁷ Io li credetti, e ciò che 'n suo'fede era\
+7 Io li credetti, e ciò che 'n suo'fede era\
 &emsp;Veggio hora chiaro, sì come tu vedi,\
 &emsp;Ch'ogni contradition è falsa e vera.
 
-⁷ Ego ei credidi, et id quod in sua fide erat\
+7 Ego ei credidi, et id quod in sua fide erat\
 &emsp;Video ego nunc clare, sicut tu vides\
 &emsp;Omnem contradictionem falsam et veram.
 
-⁸ Tosto che co'la Chiesa mossi e piedi,\
+8 Tosto che co'la Chiesa mossi e piedi,\
 &emsp;A Dio per gratia piacque d'inspirarmi\
 &emsp;L'alto lavoro, e tutto a lui mi diedi;
 
-⁸ Statim quod cum Ecclesia movi pedes,\
+8 Statim quod cum Ecclesia movi pedes,\
 &emsp;Deo pro gratia placuit in me inspirare\
 &emsp;Altum laborem, et totum illi me dedi;
 
-⁹ Et al mio Bellisar commendai l'armi,\
+9 Et al mio Bellisar commendai l'armi,\
 &emsp;Cui la dextra del ciel fu sì congiunta,\
 &emsp;Che segno fu ch'io dovessi posarmi.
 
-⁹ Et meo Bellisario commendavi arma,\
+9 Et meo Bellisario commendavi arma,\
 &emsp;Cui dextera celi fuit ita coniuncta,\
 &emsp;Quod signum fuit quod ego deberem quiescere.
 
-¹⁰ Hor qui a la quistion prima s'appunta\
+10 Hor qui a la quistion prima s'appunta\
 &emsp;La mia risposta: ma la conditione\
 &emsp;Mi stringe a seguitar alcuna giunta;
 
-¹⁰ Or nunc ad questionem primam intendit\
+10 Or nunc ad questionem primam intendit\
 &emsp;Meum responsum: sed conditio\
 &emsp;Me stringit ad sequendum aliquam addictionem;
 
-¹¹ Perchè tu veggia con quanta ragione\
+11 Perchè tu veggia con quanta ragione\
 &emsp;Si muove contra 'l sacrosanto segno,\
 &emsp;E chi'l s'appropria, e chi a lui s'oppone.
 
-¹¹ Ad hoc ut videas cum quanta ratione\
+11 Ad hoc ut videas cum quanta ratione\
 &emsp;Moventur contra sacrumsanctum signum,\
 &emsp;Et hii qui sibi illud appropriant, et qui ei se contraponunt.
 
-¹² Vedi quanta virtù l'ha facto degno\
+12 Vedi quanta virtù l'ha facto degno\
 &emsp;Di reverentia; e cominciò d'allora\
 &emsp;Che Pallante morì per dargli regno.
 
-¹² Vide quanta virtus ipsum fecit dignum\
+12 Vide quanta virtus ipsum fecit dignum\
 &emsp;Reverentia; et incepit ab eo tempore\
 &emsp;Quo Pallas mortuus est ut daret sibi regnum.
 
@@ -152,19 +152,19 @@ Quando Eneas applicuit ad fauces Tyberinas, subito fecit
 
 <!-- p. 885 (0939) -->
 
-¹³ Tu sai che fece in Alba sua dimora\
+13 Tu sai che fece in Alba sua dimora\
 &emsp;Per trecent'anni et oltre, infino al fine\
 &emsp;Che tre e tre pugnar per lui ancora.
 
-¹³ Tu scis quod fecit in Alba suam moram\
+13 Tu scis quod fecit in Alba suam moram\
 &emsp;Per trecentos annos et amplius, usque ad finem\
 &emsp;Quousque tres et tres pugnaverunt pro ipso adhuc.
 
-¹⁴ Tu sai che fe', dal mal de le Sabine\
+14 Tu sai che fe', dal mal de le Sabine\
 &emsp;Al dolor di Lucretia, in sette regi,\
 &emsp;Vincendo intorno le genti vicine.
 
-¹⁴ Et scis quid fecit, a malo Sabinarum\
+14 Et scis quid fecit, a malo Sabinarum\
 &emsp;Ad dolorem Lucretie, in septem regibus,\
 &emsp;Vincendo circum gentes vicinas.
 
@@ -176,11 +176,11 @@ Et scis quod fecit, a malo Sabinarum ad dolorem Lucretie, in septem regibus, vin
 
 <!-- p. 886 (0940) -->
 
-¹⁵ Sai quel che fe', portato dagli egregi\
+15 Sai quel che fe', portato dagli egregi\
 &emsp;Romani contra Brenno, e contra Pyrrho,\
 &emsp;E contra gli altri principi e collegi:
 
-¹⁵ Scis quid ipsum fecit, portatum ab egregiis\
+15 Scis quid ipsum fecit, portatum ab egregiis\
 &emsp;Romanis contra Brennum, contra Pirrum,\
 &emsp;Contra alios principes et collegia:
 
@@ -192,23 +192,23 @@ Scis quid ipsum fecit portatum ab egregiis Romanis contra Brennum, contra Pirrum
 
 <!-- p. 887 (0941) -->
 
-¹⁶ Onde Torquato e Quintio, che dal cyrro\
+16 Onde Torquato e Quintio, che dal cyrro\
 &emsp;Neglecto fu nomato, e Deci, e Fabi\
-&emsp;Ebber la gloria (¹) che volentier mirro.
+&emsp;Ebber la gloria (1) che volentier mirro.
 
-¹⁶ Unde Torquatus et Quintius, qui a cirro\
+16 Unde Torquatus et Quintius, qui a cirro\
 &emsp;Neglecto nominatus, Decii et Fabii\
 &emsp;Habuerunt famam quam libenter mir[r]o.
 
-¹⁷ Esso atterrò l'argoglo delli Arabi,\
+17 Esso atterrò l'argoglo delli Arabi,\
 &emsp;Che dietro ad Annibale passaro\
 &emsp;L'alpestre rocce, Po, di che tu labi.
 
-¹⁷ Ipsum prostravit arrogantiam Arabum,\
+17 Ipsum prostravit arrogantiam Arabum,\
 &emsp;Qui retro Hannibalem transierunt\
 &emsp;Alpestres rupes, Pade, de quibus tu laberis.
 
-(¹) al. fama.
+(1) al. fama.
 
 aquile contra istum Brennum, qui veniebat omnia devastando versus Romam. Iste Brennus scivit ita facere, quod ipse obsedit exercitum romanum cum suo consule, qui erat dux exercitus romani: quo audito, Romani miserunt ad oraculum et consuluerunt Deos suos quomodo possent vincere Brennum. Responsum fuit eis, quod, querendo, invenirent illum qui comedebat super mensam ferream, intra menia Rome. Euntes nuntii Senatus per totam Romam, neminem invenerunt comedentem in mensa ferrea. Ad ultimum iverunt Transtyberim, et invenerunt Cincinnatum, qui arando suum parvum campum, extraxerat vomerem et comedebat in ipso vomere, qui de mandato Senatus ductus fuit ad Capitolium. Ipse vero commendavit familie sue boves suos cum quibus arabat et aratrum, et factus fuit dictator, eique impositum fuit quod ipsemet [iret] contra Brennum. Qui ivit, et feliciter prosperatus est, in tantum quod ipse obsedit campum Brenni, qui obsedebat exercitum romanum, primitus euntem cum duce, et debellavit Brennum cum exercitu suo, et liberavit ducem Romanorum et exercitum suum. Ille dux, qui male se rexit, petiit veniam a Cincinnato Quintio, qui ei pepercit, sed fecit ipsum transire sub iugo, quod erat magnum opprobrium. Iste stetit in dictatura per sexdecim dies, quousque liberavit civitatem romanam, que [erat] quasi victa ab isto, a Brenno. Transactis sexdecim diebus, reversus est ad campum suum et aratrum suum, et complevit sata ipsius. Ipse vocabatur nomine proprio Quintius, alio nomine vocabatur Cincinnatus a cincino, sive capillo, qui tunc voca[ba]tur cirrus; et a cirro, idest capillo, vocatus est Cincinnatus, quia ipse portabat capillos quam longos in facie et super faciem; et ibat sic incomptus cum capillis et inornatus, et inde vocatus est Cincinnatus, quasi arruffatus; sive incomptus capillis. Domus sua a diu vocabatur Mellia; sed locus in quo vicit Brennum, vocabatur Torquata: inde fuit vocatus Torquata, sicut Collactinus dicebatur a Collactia civitate, et sic domus sua vocata fuit Domus Torquata.
 
@@ -224,35 +224,35 @@ Nota quod Hannibal, filius Amilcar de Cartagine, venit in Ytaliam. Ipse duxit se
 
 <!-- p. 888 (0942) -->
 
-¹⁸ Soct'esso e giovanetti triunpharo\
+18 Soct'esso e giovanetti triunpharo\
 &emsp;Scipion e Pompeio, et a quel colle,\
 &emsp;Socto 'l qual tu nascesti, parve amaro.
 
-¹⁸ Sub ipso iuvenculi triumpharunt\
+18 Sub ipso iuvenculi triumpharunt\
 &emsp;Scippio et Pompeius, et illi colli,\
 &emsp;Sub quo tu natus fuisti, apparuit amarum.
 
-¹⁹ Poi, press'al tempo che tutt' el ciel volle\
+19 Poi, press'al tempo che tutt' el ciel volle\
 &emsp;Ridurre el mondo a suo modo sereno,\
 &emsp;Cesare per voler di Roma el tolle:
 
-¹⁹ Postmodum, prope tempus quo totum celum voluit\
+19 Postmodum, prope tempus quo totum celum voluit\
 &emsp;Reducere mundum ad suum modum serenum,\
 &emsp;Cesar de Roma volens ipsum tulit:
 
-²⁰ E quel che fe'da Varo infino a Reno,\
+20 E quel che fe'da Varo infino a Reno,\
 &emsp;Isara vide et Arar, e vide Senna,\
 &emsp;Et ogni valle onde 'l Rhodano è pieno.
 
-²⁰ Et id quod fecit a Varro usque ad Renum,\
+20 Et id quod fecit a Varro usque ad Renum,\
 &emsp;Ysarum vidit et Eram, et vidit Sennam,\
 &emsp;Et omnem vallem unde Rodanus est plenus.
 
-²¹ Quel che fe'poi ch'elli uscì di Ravenna,\
+21 Quel che fe'poi ch'elli uscì di Ravenna,\
 &emsp;E saltò Rubicon, fu di tal volo\
 &emsp;Che nol seguitaria lingua nè penna.
 
-²¹ Illud quod fecit postquam exivit de Ravenna,\
+21 Illud quod fecit postquam exivit de Ravenna,\
 &emsp;Et saltavit Rubiconem, fuit talis volatus\
 &emsp;Quod illum non sequeretur lingua nec penna.
 
@@ -268,39 +268,39 @@ Auctor incipit tangere principium belli civilis, postquam Cesar triumphaverat in
 
 <!-- p. 889 (0943) -->
 
-²² In vèr la Spagna rivoltò (¹) lo stuolo,\
+22 In vèr la Spagna rivoltò (1) lo stuolo,\
 &emsp;Poi vèr Durazzo e Pharsalia percosse\
-&emsp;Sì, che (²) 'l Nil caldo si sentì del dolo.
+&emsp;Sì, che (2) 'l Nil caldo si sentì del dolo.
 
-²² Versus Yspaniam revolvit stuolum,\
+22 Versus Yspaniam revolvit stuolum,\
 &emsp;Postmodum versus Duratium et Farsaliam percussit\
 &emsp;Ita, quod usque ad Nilum calidum senserunt dolorem.
 
-²³ Antandro e Simeonta, onde si mosse,\
+23 Antandro e Simeonta, onde si mosse,\
 &emsp;Rivide, e là dov'Hectore si cuba,\
 &emsp;E mal per Ptholomeo poscia si scosse:
 
-²³ Antandrum et Simeonta, unde se movit,\
+23 Antandrum et Simeonta, unde se movit,\
 &emsp;Revidit, et ubi Hector cubat,\
 &emsp;Et male pro Ptholomeo postea se excussit:
 
-²⁴ Indi discese fulgorando a Iuba;\
+24 Indi discese fulgorando a Iuba;\
 &emsp;Poi si rivolse nel vostro occidente,\
 &emsp;Ove sentì la pompeiana tuba.
 
-²⁴ Unde descendit fulgurando ad Iubam;\
+24 Unde descendit fulgurando ad Iubam;\
 &emsp;Unde se volvit in nostrum occidentem,\
 &emsp;Ubi sentiebat pompeianam tubam.
 
-²⁵ E ciò (³) che fe'col baiulo sequente,\
+25 E ciò (3) che fe'col baiulo sequente,\
 &emsp;Bruto con Cassio nell'inferno latra,\
 &emsp;E Modina e Perugia fu dolente.
 
-²⁵ De eo quod fecit cum baiulo sequenti,\
+25 De eo quod fecit cum baiulo sequenti,\
 &emsp;Brutus cum Cassio in Inferno latrat,\
 &emsp;Et Mutinam et Perusium fecit dolentes.
 
-(¹) al. rivolse — (²) al. ch'al — (³) quel.
+(1) al. rivolse — (2) al. ch'al — (3) quel.
 
 estis, etc. Post multa et multa, Cesar disposuit se ad transeundum Rubiconem: quod et fecit; et post huiusmodi transitum tot et tanta fecit, quod ipsa nec lingua dici nec penna possent scribi. Tunc Cesar adeptus fuit dominium Rome; et subito ivit versus Hispaniam, demum rediit versus Duratium (est una civitas in Albania, in fine maris Adriatici versus Austrum), demum percussit Farsaliam, et [aquila] fecit cum Cesare victoriam belli civilis et usque ad Nilum. Nilus est fluvius Egipti, qui fluit per Cairum et per Alexandriam, discurrit per partes calidas; et ibi interfectus fuit Ptholomeus, qui interfecerat Pompeium. Et tunc Cesar transivit per partes illas, ubi fuerat Troya, et vidit Antandrum (Antandrum est una parva insula prope Troyam), Simeontam (est flumen quod currebat per Troyam), unde istud signum se movit (ut dictum est in principio capituli), vidit etiam sepulchrum Hectoris. Inde de Egipto ivit in Libiam et ad dominium Iube regis, et ad illas partes confugerant reliquie que remanserant de bello civili. Demum rediit in occidentem, ubi erant duo filii Pompei. Versus Yspaniam revolvit exercitum, postmodum versus Duratium et Farsaliam percussit ita, quod usque ad Nilum calidum (est flumen in Egipto) senserunt dolorem, idest habitatores. Antandrum, insulam prope Troyam, et Simeonta (flumen est in Troya), unde se movit, idest signum aquile, revidit, et ubi Hector cubat, idest sepultus est, et male pro Ptholomeo postea [se] excussit (dicitur quod Cesari, appulenti in Troyam, ostensa fuit sepultura Hectoris, ubi diu stetit Cesar contemplans, scilicet probitatem eius); nam Ptholomeus, fugiens a facie Cesaris, in Nilo submersus fuit): unde descendit fulgurando, scilicet ad partes Libie, in Barbariam, in Affricam, ad Iubam (nam illuc se reduxerunt reliquie, que remanserunt Pompeio devicto in bello civili); inde se volvit in nostrum occidentem, idest in Hispaniam, ubi sentiebat Pompeianam tubam, quia ibi in Yspania erant adhuc duo filii Pompei.
 
@@ -308,67 +308,67 @@ Et modo Iustinianus descendit ad Imperatorem Octavianum, qui fuit secundus baiul
 
 <!-- p. 890 (0944) -->
 
-²⁶ Piangene ancor la trista Cleopatra,\
+26 Piangene ancor la trista Cleopatra,\
 &emsp;Che, fuggendoli innanzi, dal colubro\
 &emsp;La morte prese subitana et atra.
 
-²⁶ Plangit adhuc tristis Cleopatra,\
+26 Plangit adhuc tristis Cleopatra,\
 &emsp;Que, fugiendo ante ipsum, a colubro\
 &emsp;Mortem apprehendit subitam et atram.
 
-²⁷ Con costui corse infine al lito rubro;\
+27 Con costui corse infine al lito rubro;\
 &emsp;Con costui pose 'l mondo in tanta pace,\
 &emsp;Che fu serrato a Iano el suo delubro.
 
-²⁷ Cum isto cucurrit usque ad lictus rubrum;\
+27 Cum isto cucurrit usque ad lictus rubrum;\
 &emsp;Cum isto posuit mundum in tanta pace,\
 &emsp;Quod fuit clausum Iano suum delubrum.
 
-²⁸ Ma ciò che 'l segno che parlar mi face\
+28 Ma ciò che 'l segno che parlar mi face\
 &emsp;Fatt' havea prima, e poi era facturo,\
 &emsp;Per lo regno mortal, ch'a lui subiace,
 
-²⁸ Sed quidquid signum quod me loqui facit\
+28 Sed quidquid signum quod me loqui facit\
 &emsp;Fecerat prius, et postmodum erat facturum,\
 &emsp;Per regnum mortale, quod ei subiacet,
 
-²⁹ Doventa in apparenza poco e scuro,\
+29 Doventa in apparenza poco e scuro,\
 &emsp;Se in mano al terzo Cesare si mira\
 &emsp;Con ochio c[l]aro e con affecto puro;
 
-²⁹ Efficitur in apparentia aliquantulum obscurum,\
+29 Efficitur in apparentia aliquantulum obscurum,\
 &emsp;Si in manu tertii Cesaris respicitur\
 &emsp;Cum oculo claro et cum aspectu puro;
 
-³⁰ Chè la viva giustizia che mi spira\
+30 Chè la viva giustizia che mi spira\
 &emsp;Li concedette, in mano a quel ch'io dico,\
 &emsp;Gloria di far vendecta a la sua ira.
 
-³⁰ Quia divina iustitia que in me spirat\
+30 Quia divina iustitia que in me spirat\
 &emsp;Concessit, in manu ad illud quod dico,\
 &emsp;Gloriam faciendi vindictam de sua ira.
 
-³¹ Or qui t'ammira in ciò ch'io ti replico:\
+31 Or qui t'ammira in ciò ch'io ti replico:\
 &emsp;Poscia con Tyto a far vendetta corse\
 &emsp;De la vendetta del peccato antico.
 
-³¹ Hor, nunc, hic respice in eo quod tibi replico:\
+31 Hor, nunc, hic respice in eo quod tibi replico:\
 &emsp;Postea cum Tito ad faciendum vindictam cucurrit\
 &emsp;De vindicta peccati antiqui.
 
-³² E quando el dente longobardo morse\
+32 E quando el dente longobardo morse\
 &emsp;La sancta Chiesa, sotto le sue hali\
 &emsp;Carlomagno, vincendo, la soccorse.
 
-³² Et quando dens longobardus momordit\
+32 Et quando dens longobardus momordit\
 &emsp;Sanctam Ecclesiam, sub suis alis\
 &emsp;Karolus Magnus, vincendo, illi succurrit.
 
-³³ Hormai puoi iudicar di quei cotali,\
+33 Hormai puoi iudicar di quei cotali,\
 &emsp;Cui accusai di sopra, e de' lor falli,\
 &emsp;Che son cagion di tutti vostri mali.
 
-³³ Ammodo potes iudicare de illis talibus,\
+33 Ammodo potes iudicare de illis talibus,\
 &emsp;Quos ego accusavi superius, et de eorum defectibus,\
 &emsp;Qui sunt causa omnium vestrorum malorum.
 
@@ -386,59 +386,59 @@ Guelfi se opponunt ei et habent leonem vel lilia; et utraque pars male facit, qu
 
 <!-- p. 891 (0945) -->
 
-³⁴ L'un al pubblico segno e gigli gialli\
+34 L'un al pubblico segno e gigli gialli\
 &emsp;Oppone, e l'altro appropria quello a parte,\
 &emsp;Sì ch'è forte a veder chi più si falli.
 
-³⁴ Unus publico signo lilia fulva\
+34 Unus publico signo lilia fulva\
 &emsp;Apponit, et alter appropriat illud parti,\
 &emsp;Ita quod est forte ad videndum quis magis erret.
 
-³⁵ Faccian li Ghibellin, faccian lor arte\
+35 Faccian li Ghibellin, faccian lor arte\
 &emsp;Sott'altro segno; chè mal segue quello\
 &emsp;Sempre chi la iustitia e lui diparte;
 
-³⁵ Faciant Gebellini, faciant eorum artem\
+35 Faciant Gebellini, faciant eorum artem\
 &emsp;Sub alio signo; quia male illum sequuntur\
 &emsp;Semper quando iustitiam ab eo dividunt;
 
-³⁶ E non l'abbatta esto Karlo novello\
+36 E non l'abbatta esto Karlo novello\
 &emsp;Co'Guelfi suoi, ma tema gl'artigli\
 &emsp;Che a più alto leon già trasser vello.
 
-³⁶ Et nec ipsum prosternat iste Karolus novellus\
+36 Et nec ipsum prosternat iste Karolus novellus\
 &emsp;Cum Guelfis suis, sed timeat de unguibus\
 &emsp;Que altiori leoni traxerunt vellus.
 
-³⁷ Spesse fiate già pianser li figli\
+37 Spesse fiate già pianser li figli\
 &emsp;Per la colpa del padre, e non si creda\
 &emsp;Che Dio transmuti l'arme per suo' gigli.
 
-³⁷ Multoties iam planxerunt filii\
+37 Multoties iam planxerunt filii\
 &emsp;Propter culpam patris, et non credatur\
 &emsp;Quod Deus transmutet arma propter sua lilia.
 
-³⁸ Questa piccola stella si correda\
+38 Questa piccola stella si correda\
 &emsp;Di buoni spirti, che son stati activi\
 &emsp;Perchè honor et fama li succeda;
 
-³⁸ Ista parva stella ornatur\
+38 Ista parva stella ornatur\
 &emsp;Bonis spiritibus, qui fuerunt activi\
 &emsp;Ad hoc ut honor et fama eis succedat;
 
-³⁹ E quando li desiri poggian quivi\
+39 E quando li desiri poggian quivi\
 &emsp;Sì desiando, pur convien ch'e raggi\
 &emsp;Del vero amor in su poggin men vivi.
 
-³⁹ Et quando desideria appodiantur ibi,\
+39 Et quando desideria appodiantur ibi,\
 &emsp;Deviant ita, quod convenit quod radii\
 &emsp;Veri amoris sursum ascendant minus vivi.
 
-⁴⁰ Ma, nel commensurar de'nostri gaggi\
+40 Ma, nel commensurar de'nostri gaggi\
 &emsp;Col merto, è parte di nostra letitia,\
 &emsp;Perchè non li vedèn minor nè maggi.
 
-⁴⁰ Sed in commensuratione nostrorum gaggiorum,\
+40 Sed in commensuratione nostrorum gaggiorum,\
 &emsp;Quia meritum, est pars nostre letitie,\
 &emsp;Quia non videmus eos maiores nec minores.
 
@@ -456,35 +456,35 @@ Sed in commensuratione nostrorum gaggiorum, idest premiorum, quia meritum, est p
 
 <!-- p. 892 (0946) -->
 
-⁴¹ Quinci addolcisce la viva iustitia\
+41 Quinci addolcisce la viva iustitia\
 &emsp;In noi l'affecto sì, che non si puote\
 &emsp;Torcer giamai ad alcuna nequitia.
 
-⁴¹ Inde addul[c]escit divina iustitia\
+41 Inde addul[c]escit divina iustitia\
 &emsp;In nobis affectum ita, quod non potest\
 &emsp;Torqueri unquam ad aliquam nequitiam.
 
-⁴² Diverse voci fanno dolci note;\
+42 Diverse voci fanno dolci note;\
 &emsp;Così diversi scanni in nostra vita,\
 &emsp;Renden dolce armonia in queste rote.
 
-⁴² Diverse voces faciunt dulces notas;\
+42 Diverse voces faciunt dulces notas;\
 &emsp;Sic diversa scampna in nostra vita,\
 &emsp;Reddunt dulcem armoniam inter istas rotas.
 
-⁴³ E dentro a la presente margarita\
+43 E dentro a la presente margarita\
 &emsp;Luce la luce di Romeo, di cui\
 &emsp;Fu l'opra grande e bella mal gradita.
 
-⁴³ Et intra istam presentem margaritam\
+43 Et intra istam presentem margaritam\
 &emsp;Lucet lux Romei, cuius\
 &emsp;Opera fuit grandis et pulchra et male gratuita.
 
-⁴⁴ Ma e Provenzali, che fecer contra lui,\
+44 Ma e Provenzali, che fecer contra lui,\
 &emsp;Non hanno riso; e però mal cammina\
 &emsp;Qual si fa danno del ben fare altrui.
 
-⁴⁴ Sed Provintiales, qui fecerunt contra eum,\
+44 Sed Provintiales, qui fecerunt contra eum,\
 &emsp;Non riserunt; et ideo male itinerat\
 &emsp;Quicumque sibi facit dampnum propter benefacere alterius.
 
@@ -496,28 +496,28 @@ Et intra istam presentem margaritam. E dentro alla presente margarita: ista est 
 
 <!-- p. 893 (0947) -->
 
-⁴⁵ Quattro figl'ebbe, e ciascuna regina,\
+45 Quattro figl'ebbe, e ciascuna regina,\
 &emsp;Ramondo Berlingher, e ciò li fece\
 &emsp;Romeo persona humil et peregrina.
 
-⁴⁵ Quatuor filias habuit, et quamlibet reginam,\
+45 Quatuor filias habuit, et quamlibet reginam,\
 &emsp;Raymundus Beringerius, et hoc sibi fecit\
 &emsp;Romeus, persona humilis et peregrina.
 
-⁴⁶ E poi el mosser le parole biece\
+46 E poi el mosser le parole biece\
 &emsp;A domandar ragione a questo giusto,\
 &emsp;Che gl'assegnò septe e cinque per diece.
 
-⁴⁶ Et postmodum moverunt illum verba biecia\
+46 Et postmodum moverunt illum verba biecia\
 &emsp;Ad petendum rationem isti iusto,\
 &emsp;Qui sibi assignavit septem et quinque pro decem.
 
-⁴⁷ Indi partissi povero e vetusto;\
+47 Indi partissi povero e vetusto;\
 &emsp;E se'l mondo sapesse'l cuor ch'egli ebbe\
 &emsp;Mendicando suo'vita a frusto a frusto,\
 &emsp;Assai lo loda e più lo loderebbe.
 
-⁴⁷ Inde recessit pauper et vetustus;\
+47 Inde recessit pauper et vetustus;\
 &emsp;Et si mundus sciret cor quod ipse habuit,\
 &emsp;Mendicando suam vitam ad frustum ad frustum,\
 &emsp;Satis eum laudat et plus eum laudaret.

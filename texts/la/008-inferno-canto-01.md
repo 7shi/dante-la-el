@@ -16,11 +16,11 @@ talibus liberari. Demum ducam te per regnum illorum qui dolent in igne, et tamen
 
 # Capitulum Primum
 
-¹ Nel mezzo del camin di nostra vita\
+1 Nel mezzo del camin di nostra vita\
 &emsp;Mi trovai per una selva oscura,\
 &emsp;Che la dritta via era smarrita.
 
-¹ In medio itineris vite nostre\
+1 In medio itineris vite nostre\
 &emsp;Reperi me in una silva obscura,\
 &emsp;Cuius recta via erat devia.
 
@@ -80,35 +80,35 @@ Medium itineris vite nostre videtur esse spatium triginta annorum, secundum dict
 
 <!-- p. 28 (0082) -->
 
-² Et quanto dir qual era è cosa dura\
+2 Et quanto dir qual era è cosa dura\
 &emsp;Esta selva selvaggia et aspra e forte,\
 &emsp;Che nel pensier rinova la paura.
 
-² Hey, quantum, ad dicendum qualis erat, est res dura,\
+2 Hey, quantum, ad dicendum qualis erat, est res dura,\
 &emsp;Ista silva silvestris et aspera et fortis,\
 &emsp;Que in meditatione renovat pavorem.
 
-³ Tant'è amara che poco è più morte;\
+3 Tant'è amara che poco è più morte;\
 &emsp;Ma, per trattar del ben ch'i' vi trovai,\
 &emsp;Dirrò de l'altre cose ch'i' v'ho scorte.
 
-³ Tantum est amara quod ea vix amarior sit mors.\
+3 Tantum est amara quod ea vix amarior sit mors.\
 &emsp;Sed, ut tractem de bono quod in ea reperi,\
 &emsp;Dicam de aliis rebus quas in eadem percepi.
 
-⁴ Io non so ben ridir com'i' v'entrai;\
+4 Io non so ben ridir com'i' v'entrai;\
 &emsp;Tant'era pien di sonno in su quel punto,\
 &emsp;Che la verace via abbandonai.
 
-⁴ Ego nescirem bene dicere quomodo ipsam intravi;\
+4 Ego nescirem bene dicere quomodo ipsam intravi;\
 &emsp;Tantum eram plenus sompno in illo puncto,\
 &emsp;Quod veracem viam deserui.
 
-⁵ Ma po' ch'i' fui al pie'd'un colle giunto,\
+5 Ma po' ch'i' fui al pie'd'un colle giunto,\
 &emsp;Là ove terminava quella valle,\
 &emsp;Che m'havea di paura il cor compunto,
 
-⁵ Sed postquam ego ad pedes unius collis perveni,\
+5 Sed postquam ego ad pedes unius collis perveni,\
 &emsp;Ubi terminabatur illa vallis,\
 &emsp;Que ex timore meum cor compunxerat,
 
@@ -136,51 +136,51 @@ Mons, per quem ascendere est difficile, est penitentia, et viam virtutum figurat
 
 <!-- p. 29 (0083) -->
 
-⁶ Guarda'in alto, et vidi le sue spalle,\
+6 Guarda'in alto, et vidi le sue spalle,\
 &emsp;Vestite già di raggi del pianeta,\
 &emsp;Che mena dritt'altrui per ogni calle.
 
-⁶ Respexi in altum, et vidi illius terga\
+6 Respexi in altum, et vidi illius terga\
 &emsp;Vestita iam radiis planete,\
 &emsp;Qui ducit recte quoscumque per omnes calles.
 
-⁷ Allor fu la paura un poco queta,\
+7 Allor fu la paura un poco queta,\
 &emsp;Che nel lago del cor m'era durata\
 &emsp;La notte ch'i' passai con tanta pieta.
 
-⁷ Tunc timor aliquantulum quievit,\
+7 Tunc timor aliquantulum quievit,\
 &emsp;Qui in profundo cordis mei duraverat\
 &emsp;In nocte quam pertransivi cum tanta pietate.
 
-⁸ Et come quel, che con lena affannata,\
+8 Et come quel, che con lena affannata,\
 &emsp;Uscito fuor del pelago alla riva,\
 &emsp;Si volge a l'aqua perigliosa, et guata;
 
-⁸ Et quemadmodum ille, qui cum spiritu fatigato\
+8 Et quemadmodum ille, qui cum spiritu fatigato\
 &emsp;Egressus pelago ad ripam,\
 &emsp;Se volvit ad aquam periculosam, et respicit;
 
-⁹ Così l'animo mio, ch'ancor fuggiva,\
+9 Così l'animo mio, ch'ancor fuggiva,\
 &emsp;Si vols'a retro a rimirar lo passo,\
 &emsp;Che non lasciò giammai persona viva.
 
-⁹ Sic animus meus, qui adhuc fugiebat,\
+9 Sic animus meus, qui adhuc fugiebat,\
 &emsp;Se volvit retro ad respiciendum passum,\
 &emsp;Qui non dimisit unquam personam vivam.
 
-¹⁰ E riposato un poco el corpo lasso,\
+10 E riposato un poco el corpo lasso,\
 &emsp;Ripresi via per la piaggia diserta\
 &emsp;Sì ch'el piè fermo sempr'era 'l più basso.
 
-¹⁰ Postquam fuit quietatum corpus fessum,\
+10 Postquam fuit quietatum corpus fessum,\
 &emsp;Resumpsi viam per iugum desertum,\
 &emsp;Ita quod pes firmus semper erat inferior.
 
-¹¹ Et ecco, quasi al cominciar dell'erta,\
+11 Et ecco, quasi al cominciar dell'erta,\
 &emsp;Una lonza leggiera e presta molto,\
 &emsp;Che di pel maculato era coperta.
 
-¹¹ Et ecce, quasi in principio clivi,\
+11 Et ecce, quasi in principio clivi,\
 &emsp;Una leontia levis et velox multum,\
 &emsp;Quae pilo maculato erat cooperta.
 
@@ -212,39 +212,39 @@ Cooperta variis coloribus: sic luxuria variis modis occupat homines, maxime iuve
 
 <!-- p. 30 (0084) -->
 
-¹² E non mi si partia (¹) dinanzi al volto;\
+12 E non mi si partia (1) dinanzi al volto;\
 &emsp;Ma impediva tanto el mio cammino,\
 &emsp;Ch'io fui per ritornar più volte volto.
 
-¹² Et non recedebat ante vultum meum,\
+12 Et non recedebat ante vultum meum,\
 &emsp;Ymo impediebat tantum meum iter,\
 &emsp;Quod fui ut redirem pluries versus.
 
-¹³ Tempo era del principio del mattino;\
+13 Tempo era del principio del mattino;\
 &emsp;E 'l sol montava su con quelle stelle\
 &emsp;Ch'eran con lui, quando l'amor divino
 
-¹³ Tempus erat in principio matutini;\
+13 Tempus erat in principio matutini;\
 &emsp;Et sol ascendebat cum illis stellis\
 &emsp;Quae erant secum, quando amor divinus
 
-¹⁴ Mosse da prima quelle cose belle;\
+14 Mosse da prima quelle cose belle;\
 &emsp;Sì ch'a bene sperar m'eran cagione\
 &emsp;Di quella fiera la gaietta pelle,
 
-¹⁴ Movit primo illas res pulchras;\
+14 Movit primo illas res pulchras;\
 &emsp;Ita quod ad bene sperandum michi erat causa\
 &emsp;Illius fere iucunde pellis,
 
-¹⁵ L'hora del tempo e la dolce stagione:\
+15 L'hora del tempo e la dolce stagione:\
 &emsp;Ma non sì, che paura non mi desse\
 &emsp;La vista, che m'apparve d'un leone.
 
-¹⁵ Hora temporis, et dulcis disposicio:\
+15 Hora temporis, et dulcis disposicio:\
 &emsp;Sed non sic, quin pavorem michi daret\
 &emsp;Aspectus, qui michi apparuit unius leonis.
 
-(¹) al. tollia.
+(1) al. tollia.
 
 est levis et velox; sic est amor, qui statim in uno aspectu capit hominem. Leontia capiens feram, totum eius sanguinem sugit; sic amor totum hominem obcecat, ymo dementat.
 
@@ -272,59 +272,59 @@ Ma no[n] sì che paura. Sed non tamen quin pavorem michi daret aspectus leonis: 
 
 <!-- p. 31 (0085) -->
 
-¹⁶ Questi parea, che contra me venesse\
+16 Questi parea, che contra me venesse\
 &emsp;Co'la test'alta e con rabbiosa fame,\
 &emsp;Sì che parea che l'aer ne temesse:
 
-¹⁶ Iste videbatur, quod contra me veniret\
+16 Iste videbatur, quod contra me veniret\
 &emsp;Cum capite alto et cum rabida fame,\
 &emsp;Ita quod videbatur quod aier de co timeret:
 
-¹⁷ Et una lupa, che di tutte brame\
+17 Et una lupa, che di tutte brame\
 &emsp;Sembrava carca ne la sua magrezza,\
 &emsp;Che fe' già viver molte genti grame.
 
-¹⁷ Et una lupa, que est omnium avida,\
+17 Et una lupa, que est omnium avida,\
 &emsp;Apparebat onerata in sua macredine,\
 &emsp;Que multas gentes iam male vivere coegit.
 
-¹⁸ Questa mi porse tanto di gravezza,\
+18 Questa mi porse tanto di gravezza,\
 &emsp;Per la paura, ch'uscia di sua vista,\
 &emsp;Ch'i' perdei la speranza dell'altezza.
 
-¹⁸ Ista michi porrexit tantum gravedinis\
+18 Ista michi porrexit tantum gravedinis\
 &emsp;Cum pavore, qui exibat ex suo aspectu,\
 &emsp;Quod ego perdidi spem altitudinis.
 
-¹⁹ E qual è quel, che volentier acquista,\
+19 E qual è quel, che volentier acquista,\
 &emsp;E giunge 'l tempo, che perder lo face,\
 &emsp;Che 'n tutti suoi pensier piange e s'attrista;
 
-¹⁹ Et qualis est ille, qui libenter acquirit,\
+19 Et qualis est ille, qui libenter acquirit,\
 &emsp;Et venit tempus, quod perdere eum facit,\
 &emsp;Qui in omni sua cogitatione plorat et tristatur;
 
-²⁰ Tal fecie a me la bestia senza pace,\
+20 Tal fecie a me la bestia senza pace,\
 &emsp;Che venendomi 'ncontra, a poco a poco\
 &emsp;Mi ripingeva là, dove 'l sol tace.
 
-²⁰ Talem me fecit bestia sine pace,\
+20 Talem me fecit bestia sine pace,\
 &emsp;Que progrediendo michi obviam, paulatim\
 &emsp;Me impellebat in locum, ubi sol tacet.
 
-²¹ Mentre ch'io ruinava in basso loco,\
+21 Mentre ch'io ruinava in basso loco,\
 &emsp;Dinanti agl'ochi me si fu offerto,\
 &emsp;Chi per lungo silentio parea fioco.
 
-²¹ Dum ego ruinarem in ymum locum,\
+21 Dum ego ruinarem in ymum locum,\
 &emsp;Ante oculos michi fuit oblatus quidam,\
 &emsp;Qui longo silentio videbatur raucus.
 
-²² Quando vidi costui nel gran deserto:\
+22 Quando vidi costui nel gran deserto:\
 &emsp;Miserere di me, gridai a lui,\
 &emsp;Qual che tu sia, o ombra, o huomo certo.
 
-²² Quando vidi istum in grandi deserto,\
+22 Quando vidi istum in grandi deserto,\
 &emsp;Miserere mei, clamavi ad eum,\
 &emsp;Quicumque sis, sive umbra, sive homo certus.
 
@@ -350,43 +350,43 @@ Et affuit quidam: scilicet Virgilius, qui longo silentio incognitus erat; scilic
 
 <!-- p. 32 (0086) -->
 
-²³ Risposemi: Non huomo, huomo già fui;\
+23 Risposemi: Non huomo, huomo già fui;\
 &emsp;E li parenti miei furo Lombardi,\
 &emsp;Mantovani per patria ambodui.
 
-²³ Respondit michi: Non homo, homo alias fui,\
+23 Respondit michi: Non homo, homo alias fui,\
 &emsp;Et parentes mei fuerunt Lombardi,\
 &emsp;Mantuani patria ambo.
 
-²⁴ Nacqui sub Iulio, ancor che fusse tardi,\
+24 Nacqui sub Iulio, ancor che fusse tardi,\
 &emsp;E vixi a Roma sotto'l buon Augusto,\
 &emsp;Al tempo delli Dei falsi e bugiardi.
 
-²⁴ Natus fui sub Iulio, adhuc licet tarde,\
+24 Natus fui sub Iulio, adhuc licet tarde,\
 &emsp;Et vixi Rome sub bono Augusto,\
 &emsp;In tempore Deorum falsorum et mendacium.
 
-²⁵ Poeta fui, e cantai di quel iusto\
+25 Poeta fui, e cantai di quel iusto\
 &emsp;Figluol d'Anchyse che venne di Troya,\
 &emsp;Poi che 'l superbo Ylion fu combusto.
 
-²⁵ Poeta fui, et cantavi de illo iusto\
+25 Poeta fui, et cantavi de illo iusto\
 &emsp;Filio Anchise, qui venit a Troya,\
 &emsp;Postquam superbum Ilion fuit combustum,
 
-²⁶ Ma tu perchè mi vieni a tanta noia?\
+26 Ma tu perchè mi vieni a tanta noia?\
 &emsp;Perchè non sali al dilectoso monte,\
 &emsp;Ch'è principio e cagion di tutta gioia?
 
-²⁶ Sed tu quare redis ad tantum nocumentum?\
+26 Sed tu quare redis ad tantum nocumentum?\
 &emsp;Cur non ascendis delectabilem montem,\
 &emsp;Qui est principium et causa omnis iocunditatis?
 
-²⁷ Or se'tu quel Virgilio, e quella fonte,\
+27 Or se'tu quel Virgilio, e quella fonte,\
 &emsp;Che spandi di parlar sì largo fiume?\
 &emsp;Rispos'io a lui con vergognosa fronte.
 
-²⁷ O ne es tu ille Virgilius, et ille fons,\
+27 O ne es tu ille Virgilius, et ille fons,\
 &emsp;Qui effundis eloquii tam largum flumen?\
 &emsp;Respondi sibi cum verecunda fronte.
 
@@ -404,59 +404,59 @@ O ne es tu ille, Virgili? nunc Dantes incipit noscere rationem ipsam dirigentem,
 
 <!-- p. 33 (0087) -->
 
-²⁸ O degl'altri poeti honore e lume,\
+28 O degl'altri poeti honore e lume,\
 &emsp;Vaglami'l lungo studio e'l grande amore,\
 &emsp;Che fatto m'ha cercar el tuo volume.
 
-²⁸ O aliorum poetarum honor et lumen,\
+28 O aliorum poetarum honor et lumen,\
 &emsp;Valeat michi longum studium et magnus amor,\
 &emsp;Qui fecit me querere tuum volumen.
 
-²⁹ Tu se'lo mio maestro e'l mio autore;\
+29 Tu se'lo mio maestro e'l mio autore;\
 &emsp;Tu se'solo colui, a cui io tolsi\
 &emsp;Lo bello stilo, che m'ha facto honore.
 
-²⁹ Tu es meus magister et meus auctor,\
+29 Tu es meus magister et meus auctor,\
 &emsp;Tu es solus ille, a quo ego sumpsi\
 &emsp;Pulchrum stilum, qui me honoravit.
 
-³⁰ Vedi la bestia, per cui io mi volsi:\
+30 Vedi la bestia, per cui io mi volsi:\
 &emsp;Aiutami da lei, famoso e saggio,\
 &emsp;Ch'ella mi fa tremar le vene e polsi.
 
-³⁰ Videas bestiam, propter quam ego me volvi:\
+30 Videas bestiam, propter quam ego me volvi:\
 &emsp;Adiuva me ab ea, famosus et sapiens,\
 &emsp;Quia ipsa michi facit tremere venas et pulsos.
 
-³¹ A te convien tener altro viaggio,\
+31 A te convien tener altro viaggio,\
 &emsp;Rispose, poi che lagrimar mi vide,\
 &emsp;Se vuoi campar d'esto loco selvaggio:
 
-³¹ Te oportet tenere aliud iter,\
+31 Te oportet tenere aliud iter,\
 &emsp;Respondit michi, postquam lacrymari me vidit,\
 &emsp;Si evadere vis ab isto loco silvestri:
 
-³² Che questa bestia, per la qual tu gride,\
+32 Che questa bestia, per la qual tu gride,\
 &emsp;Non lass'altrui passar per la sua via,\
 &emsp;Ma tanto l'impedisce, che l'uccide:
 
-³² Quia illa bestia, propter quam tu clamas,\
+32 Quia illa bestia, propter quam tu clamas,\
 &emsp;Non permictit aliquem transire per suam viam,\
 &emsp;Sed tantum impedit ipsum, quod occidit:
 
-³³ Et ha natura sì malvagia e ria,\
+33 Et ha natura sì malvagia e ria,\
 &emsp;Che mai non empie la bramosa vogla,\
 &emsp;E doppo'l pasto ha più fame che pria.
 
-³³ Et habet naturam ita malignam et pravam,\
+33 Et habet naturam ita malignam et pravam,\
 &emsp;Quod nunquam implet avidam voluntatem,\
 &emsp;Et post pastum plus famescit quam prius.
 
-³⁴ Molti son gl'animali a cui s'ammogla,\
+34 Molti son gl'animali a cui s'ammogla,\
 &emsp;E più saranno ancor, infin che 'l Veltro\
 &emsp;Verrà, che la farà morir con dogla.
 
-³⁴ Multa sunt animalia quibus uxoratur,\
+34 Multa sunt animalia quibus uxoratur,\
 &emsp;Et plura erunt adhuc, quousque Velter\
 &emsp;Veniet, qui eam faciet mori cum dolore.
 
@@ -482,15 +482,15 @@ Multa sunt animalia, quibus hec: supple lupa, idest avaritia, uxoratur, idest fi
 
 <!-- p. 34 (0088) -->
 
-³⁵ Questi (¹) non ciberà terra nè peltro,\
+35 Questi (1) non ciberà terra nè peltro,\
 &emsp;Ma sapientia, amor e virtute,\
-&emsp;E sua nation fie (²) tra Feltro e Feltro.
+&emsp;E sua nation fie (2) tra Feltro e Feltro.
 
-³⁵ Iste non ciba[bi]tur terra nec peltro,\
+35 Iste non ciba[bi]tur terra nec peltro,\
 &emsp;Sed sapientia, amore et virtute;\
 &emsp;Et sua nativitas erit inter Feltrum et Feltrum.
 
-(¹) costui. — (²) sarà.
+(1) costui. — (2) sarà.
 
 Iste non ciba[bi]tur terra, nec peltro: idest iste canis non comedet nec aurum, significatum per terram; quia de terra, alterata a radiis solaribus, fit aurum, et fiunt alia metalla, ut vult Aristotiles in quarto Metheororum, et alii philosophi; nec peltrum: nec alia opera avaritie faciet, sed solummodo cibus istius canis erunt sapientia, amor et virtutes.
 
@@ -512,15 +512,15 @@ Unde invidia ipsam primo extraxit: hic notandum est, quod auctor in hoc loco seq
 
 <!-- p. 35 (0089) -->
 
-³⁶ Di quella humile (¹) Italia fie salute,\
+36 Di quella humile (1) Italia fie salute,\
 &emsp;Per cui morì la vergine Camilla,\
 &emsp;Eurialo, Turno e Niso di ferute:
 
-³⁶ Illius humilis Ytalie erit salus,\
+36 Illius humilis Ytalie erit salus,\
 &emsp;Propter quam mortua fuit virgo Cammilla,\
 &emsp;Eurialus, Turnus et Nisus ex vulneribus:
 
-(¹) bassa di sito.
+(1) bassa di sito.
 
 demum Adam ad peccandum, ad comedendum de ligno vetito: etc.: et sic peccavit genus humanum, et expulsum fuit de Paradiso terrestri in hunc mundum miserum: et ecce quod, propter peccatum primorum parentum, mors intravit in orbem terrarum; et ecce avaritiam quasi toti mundo dominari. Hanc avaritiam hic veltrus, secundum opinionem auctoris, reducet ad Infernum, unde primo invidia extraxit eam.
 
@@ -534,55 +534,55 @@ Aliqui dicunt, humilis Ytalia: humilis, idest fertilis, suavis, palpabilis, abun
 
 <!-- p. 36 (0090) -->
 
-³⁷ Questi (¹) la caccierà per ogni villa,\
+37 Questi (1) la caccierà per ogni villa,\
 &emsp;Fin che l'havrà rimessa nell'Inferno,\
 &emsp;Là onde invidia prima dipartilla.
 
-³⁷ Hic eam fugabit per omnem villam,\
+37 Hic eam fugabit per omnem villam,\
 &emsp;Donec eam remiserit in Infernum,\
 &emsp;Unde invidia primitus ipsam separavit.
 
-³⁸ Ond'io per lo tuo me' (²) penso e discerno,\
+38 Ond'io per lo tuo me' (2) penso e discerno,\
 &emsp;Che tu mi segui, et io sarò tua guida,\
 &emsp;E trarrotti di qui per luogo eterno,
 
-³⁸ Unde ego pro tuo meliori cogito et discerno,\
+38 Unde ego pro tuo meliori cogito et discerno,\
 &emsp;Quod tu me sequaris, et ego ero tuus dux,\
 &emsp;Et extraham te ab hinc per locum eternum,
 
-³⁹ Ove udirai le disperate strida\
+39 Ove udirai le disperate strida\
 &emsp;Di quelli antichi spiriti dolenti,\
 &emsp;Che la seconda morte ciascun grida.
 
-³⁹ Ubi audies desperatos stridores\
+39 Ubi audies desperatos stridores\
 &emsp;Illorum antiquorum spirituum dolentium,\
 &emsp;Quorum secundam mortem quilibet clamat.
 
-⁴⁰ E poi vedrai color, che son contenti\
+40 E poi vedrai color, che son contenti\
 &emsp;Nel fuoco, perchè speran di venire,\
 &emsp;Quandochesia, a le beate genti.
 
-⁴⁰ Et videbis illos qui sunt contenti\
+40 Et videbis illos qui sunt contenti\
 &emsp;In igne, quia sperant venire,\
 &emsp;Quandocumque, ad beatas gentes.
 
-⁴¹ Alle quai poi se tu vorrai salire,\
+41 Alle quai poi se tu vorrai salire,\
 &emsp;Anima fia di ciò più di me degna,\
 &emsp;Con lor ti lasserò nel mio partire:
 
-⁴¹ Ad quas postmodum, si tu voles ascendere,\
+41 Ad quas postmodum, si tu voles ascendere,\
 &emsp;Anima erit ad hoc me dignior;\
 &emsp;Cum ea te dimictam in meo recessu:
 
-⁴² Chè quello Imperador, che lassù regna,\
+42 Chè quello Imperador, che lassù regna,\
 &emsp;Perch'io fui ribellante alla sua legge,\
 &emsp;Non vuol che'n sua città per me si vegna.
 
-⁴² Quia ille imperator, qui ibi regnat,\
+42 Quia ille imperator, qui ibi regnat,\
 &emsp;Quia ego fui rebellis sue legi,\
 &emsp;Non vult quod ad suam civitatem per me veniatur.
 
-(¹) costui. — (²) meglio.
+(1) costui. — (2) meglio.
 
 ad fauces Tiberinas, de propinquo erat una parva civitas, que vocabatur Laurenta, propter unum laurum, arborem pulcherrimam, in eadem civitate existentem. Hic, in hac civitate, regnabat et erat rex unus nobilis homo, nomine Latinus, filius Fauni, nepos Pici, qui habebat uxorem reginam, nomine Amatam, ex qua genuerat solum unam filiam, nomine Lavinam, iam plenam nubilibus annis, idest quindecim annorum; et erat etatis ad maritandum. Quam Lavinam mater sua, regina Amata, promiserat regi Turno, regi Ardee, dare in uxorem; pater vero suus, scilicet Lavine, rex Latinus, voluit eam dare in uxorem Enee, sicut postmodum evenit. Ob quam causam fuit magna guerra et fuerunt multa prelia inter Eneam et sotios suos ex una parte, et regem Rutulorum et civitatem Ardee ex altera. Eneas in bello interfecit Turnum, ut patet in fine duodecimi libri Eneydos. Modo ad textum Dantis: ecce quod pro Italia mortui sunt ex vulneribus Cammilla, Eurialus et Nisus et Turnus.
 
@@ -600,33 +600,33 @@ Et assignat causam Virgilius, quare dimictet Dantem: quia ipse non potest intrar
 
 <!-- p. 37 (0091) -->
 
-⁴³ In tutte parti impera, e quivi regge;\
+43 In tutte parti impera, e quivi regge;\
 &emsp;Quivi è la sua città e l'alto seggio:\
 &emsp;O felice colui, che ivi elegge.
 
-⁴³ In cunctis partibus imperat, et ibi regnat;\
+43 In cunctis partibus imperat, et ibi regnat;\
 &emsp;Ibi est sua civitas et altum solium:\
 &emsp;O felicem illum, quem ibi eligit.
 
-⁴⁴ Et io a lui: Poeta, io ti richieggio\
+44 Et io a lui: Poeta, io ti richieggio\
 &emsp;Per quello Dio, che tu non conoscesti,\
 &emsp;Acciò ch'io fugga questo male e peggio,
 
-⁴⁴ Et ego ad eum: Poeta, ego te requiro,\
+44 Et ego ad eum: Poeta, ego te requiro,\
 &emsp;Et per illum Deum, quem tu non cognovisti,\
 &emsp;Ut ego fugiam hoc malum et peius,
 
-⁴⁵ Che tu [mi] meni là dove dicesti,\
+45 Che tu [mi] meni là dove dicesti,\
 &emsp;Sì ch'io veggia la porta di San Petro,\
-&emsp;E color, cui tu fai (¹) cotanto mesti,\
+&emsp;E color, cui tu fai (1) cotanto mesti,\
 &emsp;Allor si mosse, et io li tenni retro.
 
-⁴⁵ Quod tu me ducas quo nunc dixisti,\
+45 Quod tu me ducas quo nunc dixisti,\
 &emsp;Ita quod ego videam portam Sancti Petri,\
 &emsp;Et illos, quos tu facis tantum mestos.\
 &emsp;Tunc se movit, et ego tenui retro eum.
 
-(¹) al. ma prima quei che fai.
+(1) al. ma prima quei che fai.
 
 quia ipse Virgilius fuit rebellis legi divine; idest, non habuit fidem necessariam ad salutem. Et ideo imperator, regnans in Paradiso, non vult permictere ipsum Virgilium intrare in Paradisum, nec vult quod videat. Ille imperator ubique imperat et hic regit: hic est Christus Deus, qui regit universa; in sua civitate, idest in celo empireo, est sua sedes; et omnis electus ad illum locum felix est.
 

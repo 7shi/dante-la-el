@@ -8,23 +8,23 @@ In isto vicesimo capitulo, quod incipit: Contra melius velle, etc., auctor maled
 
 # Capitulum Vicesimum
 
-¹ Contra miglor voler, voler mal pugna;\
-&emsp;Ond'io contra 'l piacer mio, per piacerli (¹),\
-&emsp;Trassi dell'acqua non satia la spugna (²).
+1 Contra miglor voler, voler mal pugna;\
+&emsp;Ond'io contra 'l piacer mio, per piacerli (1),\
+&emsp;Trassi dell'acqua non satia la spugna (2).
 
-¹ Contra melius velle, velle male pugnat;\
+1 Contra melius velle, velle male pugnat;\
 &emsp;Unde contra placere meum, ut illi placerem,\
 &emsp;Traxi de aqua non satiam spongiam.
 
-² Mossimi (³), e 'l duca mio si mosse per li\
+2 Mossimi (3), e 'l duca mio si mosse per li\
 &emsp;Luoghi expediti pur lungo la roccia,\
-&emsp;Come si va per muro strecto a'merli (⁴);
+&emsp;Come si va per muro strecto a'merli (4);
 
-² Movi me, et dux meus se movit per illa\
+2 Movi me, et dux meus se movit per illa\
 &emsp;Loca expedita solum iuxta rocciam,\
 &emsp;Sicut itur per murum stricte apud merlos;
 
-(¹) al decto papa Adriano — (²) mio desiderio, quia plura loqui cum eo voluissem — (³) adunque di lì — (⁴) di terra.
+(1) al decto papa Adriano — (2) mio desiderio, quia plura loqui cum eo voluissem — (3) adunque di lì — (4) di terra.
 
 Contra melius velle. Contra meglior volere: istud est vicesimum capitulum huius Purgatorii, in quo, posita generali pena avarorum in precedenti capitulo, que purgatur hic, in hoc quinto circulo Purgatorii, auctor docet vitare propriam avaritiam. Quod capitulum dividitur in quatuor partes. In quarum prima auctor ponit multos bonos effectus largitatis et liberalitatis, que opponuntur avaritie, ita quod in ista prima parte laudatur liberalitas, opposita avaritie. In secunda, que incipit:
 
@@ -48,63 +48,63 @@ Movi me, scilicet recedens ab ipso papa Adriano, et dux meus se movit per illa l
 
 <!-- p. 653 (0707) -->
 
-³ Chè la gente che fonde a goccia a goccia\
+3 Chè la gente che fonde a goccia a goccia\
 &emsp;Per gl'ochi'l mal che tutto'l mondo occupa,\
 &emsp;Dall'altra parte in fuor troppo s'approccia.
 
-³ Quia gens que fundit ad guttam\
+3 Quia gens que fundit ad guttam\
 &emsp;Per oculos malum quod totum mundum occupat,\
 &emsp;Ab illa parte extra nimium appropinquat.
 
-⁴ Maladecta sia tu, (¹) antica lupa,\
+4 Maladecta sia tu, (1) antica lupa,\
 &emsp;Che più che tutte l'altre bestie hai preda,\
 &emsp;Per la tua fame senza fine cupa!
 
-⁴ Maledicaris tu, antiqua lupa,\
+4 Maledicaris tu, antiqua lupa,\
 &emsp;Que plusquam omnes alie bestie habes predam,\
 &emsp;Propter tuam famem sine fine cupam!
 
-⁵ O ciel, nel cui girar par che si creda\
+5 O ciel, nel cui girar par che si creda\
 &emsp;Le condiction di quaggiù transmutarsi,\
 &emsp;Quando verrà per cui questa disceda?
 
-⁵ O celum, in cuius motu apparet quod credatur\
+5 O celum, in cuius motu apparet quod credatur\
 &emsp;Conditiones inferiores transmutari,\
 &emsp;Quando veniet per quem ista discedat?
 
-⁶ Noi andavàn con passi lenti e scarsi,\
+6 Noi andavàn con passi lenti e scarsi,\
 &emsp;Et io attento all'ombre ch'io sentia\
 &emsp;Piatosamente pianger e lagnarsi;
 
-⁶ Nos ibamus cum passibus lentis et raris,\
+6 Nos ibamus cum passibus lentis et raris,\
 &emsp;Et ego attentus ad umbras quas sentiebam\
 &emsp;Pie plangere et lamentari;
 
-⁷ E per ventura udi': (²) dolce, Maria,\
+7 E per ventura udi': (2) dolce, Maria,\
 &emsp;Dinanzi a noi chiamar così nel pianto,\
 &emsp;Come fa donna che'n partorir sia;
 
-⁷ Et a casu audivi dulciter, Mariam,\
+7 Et a casu audivi dulciter, Mariam,\
 &emsp;Ante nos vocari ita in planctu,\
 &emsp;Sicut facit domina que in parturiendo sit;
 
-⁸ E (³) seguitar: Povera fusti tanto,\
-&emsp;Quanto si può veder per quell'hospitio (⁴),\
-&emsp;Dove ponesti 'l tuo portato santo (⁵).
+8 E (3) seguitar: Povera fusti tanto,\
+&emsp;Quanto si può veder per quell'hospitio (4),\
+&emsp;Dove ponesti 'l tuo portato santo (5).
 
-⁸ Et sequi: Pauper fuisti tantum,\
+8 Et sequi: Pauper fuisti tantum,\
 &emsp;Quantum videri potest per illud hospitium,\
 &emsp;Ubi deposuisti tuum portatum sanctum.
 
-⁹ Seguentemente intesi: O buon Fabritio (⁶),\
+9 Seguentemente intesi: O buon Fabritio (6),\
 &emsp;Con povertà volesti anzi virtute,\
 &emsp;Che gran ricchezza posseder con vitio.
 
-⁹ Subsequenter intellexi: O bone Fabriti,\
+9 Subsequenter intellexi: O bone Fabriti,\
 &emsp;Cum paupertate voluisti potius virtutem,\
 &emsp;Quam magnas divitias possidere cum vitio.
 
-(¹) o — (²) o — (³) udi' — (⁴) presepio — (⁵) Iesu — (⁶) romano.
+(1) o — (2) o — (3) udi' — (4) presepio — (5) Iesu — (6) romano.
 
 ad medium virtutis liberalitatis, sed semper steterunt in extremitatibus avaritie et illiberalitatis. Et sic oportebat auctorem cum duce ire valde strictos ad ripam, ne caderent deorsum. Ponitur talis comparatio. Sicut itur per murum apud merlos: quando homines vadunt super murum, cuius aliqua pars dat iter, alia pars semper eminet, ubi sunt merli; si illa pars que prebet iter, sit stricta, oportet qui vadunt per tale iter, vadant multum stricti, idest adherentes muro), quia gens que fundit ad guttam, idest stillat guttatim lacrymas per oculos, malum, scilicet commissum avaritie, quod totum [mundum] occupat (apparet auctori, quod avaritia mirabiliter occuparet homines mundanos), ab alia parte, scilicet in extremitate extra, nimium appropinquat.
 
@@ -122,39 +122,39 @@ Subsequenter intellexi: O bone Fabriti, cum paupertate voluisti potius virtutem,
 
 <!-- p. 654 (0708) -->
 
-¹⁰ Quèste parole m'eran sì piaciute,\
+10 Quèste parole m'eran sì piaciute,\
 &emsp;Ch'io mi trass'oltre, per aver certezza\
 &emsp;Di quello spirto onde parean venute.
 
-¹⁰ Ista verba ita michi placuerunt,\
+10 Ista verba ita michi placuerunt,\
 &emsp;Quod ego me traxi ultra, ut haberem notitiam\
 &emsp;Illius spiritus a quo apparebant venisse.
 
-¹¹ Esso (¹) parlava ancor de la larghezza\
+11 Esso (1) parlava ancor de la larghezza\
 &emsp;Che fece Nicholao a le pulzelle,\
 &emsp;Per condur ad honor sua giovanezza.
 
-¹¹ Ipse loquebatur adhuc de largitate et liberalitate\
+11 Ipse loquebatur adhuc de largitate et liberalitate\
 &emsp;Quam fecit Nicolaus virginibus,\
 &emsp;Ut conduceret ad honorem earum iuventutem.
 
-¹² O anima, che tanto ben favelle,\
+12 O anima, che tanto ben favelle,\
 &emsp;Dimmi chi fusti, dissi, e perchè sola\
 &emsp;Tu queste degne lode rinnovelle?
 
-¹² O anima, que tantum bene loqueris,\
+12 O anima, que tantum bene loqueris,\
 &emsp;Dic michi, que fuisti, et quare tu sola\
 &emsp;Istas dignas laudes renovas?
 
-¹³ Non fie senza mercè la tua parola,\
-&emsp;S'io ritorn' a fornir (²) el cammin corto\
+13 Non fie senza mercè la tua parola,\
+&emsp;S'io ritorn' a fornir (2) el cammin corto\
 &emsp;Di quella vita ch'al termine vola.
 
-¹³ Non erit sine mercede tuum verbum,\
+13 Non erit sine mercede tuum verbum,\
 &emsp;Si ego redeo ad complendum iter curtum\
 &emsp;Illius vite que ad terminum volat.
 
-(¹) spirito — (²) al. compier.
+(1) spirito — (2) al. compier.
 
 cum vitio. Iste Fabritius omnino sprevit et calcavit avaritiam: quod patet per unum exemplum de quo loquitur Valerius Maximus et Titus Livius. Hic Fabritius, homo romanus, fuit consul romanus, et tempore Pirri, regis Pirrotarum, obsidebat Tarantum. Illi Tarentini, videntes non posse resistere Romanis, putaverunt auro et argento corrumpere istum Fabritium consulem, mictentes sibi magnam copiam auri, et rogantes ipsum ut discederet inde ab obsidione: sciebant etenim ipsum fore pauperem. Quibus ipse respondit: Virtus dominorum intendit dominari habentibus aurum. Et sic, nec Pirrus nec Tarentini potuerunt ipsum corrumpere. Summum fuit auri non vinci veneno.
 
@@ -168,63 +168,63 @@ Notandum est hic quod hic spiritus erat anima Ugonis Ciappette, qui Ugo, secundu
 
 <!-- p. 655 (0709) -->
 
-¹⁴ Et elli (¹): Et io dirò, non per conforto\
+14 Et elli (1): Et io dirò, non per conforto\
 &emsp;Ch'io attenda di là, ma perchè tanta\
 &emsp;Gratia in te luce pria che sia morto.
 
-¹⁴ Et ipse: Ego dicam tibi, non propter confortationem\
+14 Et ipse: Ego dicam tibi, non propter confortationem\
 &emsp;Quam ego expectem illinc, sed quia tanta\
 &emsp;Gratia in te lucet priusquam sis mortuus.
 
-¹⁵ Io fui radice de la mala pianta,\
+15 Io fui radice de la mala pianta,\
 &emsp;Che la terra chrystiana tutta aduggia\
-&emsp;Sì, che buon fructo (²) rado se ne schianta.
+&emsp;Sì, che buon fructo (2) rado se ne schianta.
 
-¹⁵ Ego fui radix male plante,\
+15 Ego fui radix male plante,\
 &emsp;Que terram christianam aduggiat\
 &emsp;Ita, quod bonus fructus raro ex ea excipitur.
 
-¹⁶ Ma, se Doagio (³), Lilla (⁴), Guanto (⁵) e Bruggia (⁶)\
+16 Ma, se Doagio (3), Lilla (4), Guanto (5) e Bruggia (6)\
 &emsp;Potesser, tosto ne saria vendecta;\
-&emsp;Et io la chieggio a lui (⁷) che tutto giuggia (⁸).
+&emsp;Et io la chieggio a lui (7) che tutto giuggia (8).
 
-¹⁶ Sed, si Doagium, Lilla, Gandavum et Bruges\
+16 Sed, si Doagium, Lilla, Gandavum et Bruges\
 &emsp;Possent, cito de hoc esset vindicta;\
 &emsp;Et ego illam peto ab illo qui totum giugiat.
 
-¹⁷ Chiamato fui di là Ugo Ciappecta:\
-&emsp;Di me son nati e Filippi (⁹) e' Loygi (¹⁰),\
+17 Chiamato fui di là Ugo Ciappecta:\
+&emsp;Di me son nati e Filippi (9) e' Loygi (10),\
 &emsp;Per cui novellamente è Francia recta.
 
-¹⁷ Vocatus fui in mundo Ugo Ciappetta:\
+17 Vocatus fui in mundo Ugo Ciappetta:\
 &emsp;De me nati sunt Philippi et Ludovici,\
 &emsp;Per quos noviter Frantia est recta.
 
-¹⁸ Figluol io fu d'un becchar di Parygi.\
-&emsp;Quando li regi antichi (¹¹) venner meno\
-&emsp;Tutti, fuor ch'un (¹²) reducto in panni bigi,
+18 Figluol io fu d'un becchar di Parygi.\
+&emsp;Quando li regi antichi (11) venner meno\
+&emsp;Tutti, fuor ch'un (12) reducto in panni bigi,
 
-¹⁸ Filius fui unius macellarii de Parisius.\
+18 Filius fui unius macellarii de Parisius.\
 &emsp;Quando reges antiqui defecerunt\
 &emsp;Omnes, preter unum reductum in pannis grigiis,
 
-¹⁹ Trovami strecto ne le mani el freno\
+19 Trovami strecto ne le mani el freno\
 &emsp;Del governo del regno, e tanta possa\
-&emsp;Di nuovo acquisto (¹³), e sì d'amici pieno,
+&emsp;Di nuovo acquisto (13), e sì d'amici pieno,
 
-¹⁹ Reperi strictum in manibus meis frenum\
+19 Reperi strictum in manibus meis frenum\
 &emsp;Gubernationis regni, et tantam potentiam\
 &emsp;Nove acquisitionis, et ita amicis plenum,
 
-²⁰ Che a la corona vedova promossa (¹⁴)\
+20 Che a la corona vedova promossa (14)\
 &emsp;La testa di mio figlo fu, dal quale\
-&emsp;Cominciar di costor le sacrate ossa (¹⁵).
+&emsp;Cominciar di costor le sacrate ossa (15).
 
-²⁰ Quod ad coronam viduam promotum\
+20 Quod ad coronam viduam promotum\
 &emsp;Caput mei filii fuit, a quo\
 &emsp;Inceperunt istorum sacrata ossa.
 
-(¹) rispose — (²) mala pianta — (³) città — (⁴) città — (⁵) città — (⁶) città — (⁷) a Dio — (⁸) giudica — (⁹) re — (¹⁰) re — (¹¹) de domo Karoli Magni — (¹²) re — (¹³) tesoro — (¹⁴) al. permossa — (¹⁵) maladecte.
+(1) rispose — (2) mala pianta — (3) città — (4) città — (5) città — (6) città — (7) a Dio — (8) giudica — (9) re — (10) re — (11) de domo Karoli Magni — (12) re — (13) tesoro — (14) al. permossa — (15) maladecte.
 
 terras aliorum dominorum, sic Flandriam, Brabantiam, provintiam Provintie, et multa alia. Et dicit quod una verecundia magna cooperit minorem. Verecundia erat regibus Frantie, ab uno beccario descendisse: sed maior verecundia est, quod ipsi reges Frantie sunt tyrampni, et quod ex ipsis sint proditores; sicut ipse intendit dicere de Karolo Sineterra. Qui venit in Ytaliam, vocatus a domino Bonifacio octavo, et missus Florentiam pro reponenda civitate Florentie in bona pace: cuius oppositum fecit; quia quam cito intravit Florentiam cum fama faciendi bonam pacem inter cives, oppositum fecit. Nam subito adhesit parti Nigre; ideo introduxit dictum Cursium de Donatis, caput partis Nigre, per quem fugata fuit tota pars Alba, de qua erat Dantes, ipse auctor. Unde plurimi boni cives florentini fuerunt destructi; et sic rupta sunt viscera civitatis, propter cives destructos, qui erant viscera civitatis. Iste igitur Ugo Ciappetta dicebat, ille tantum, bona supradicta, tam de Virgine Maria, quam de Fabritio, quam etiam de Sancto Nicolao. Cui loquens auctor dicebat: O anima, que tantum bene loqueris, dic michi qui fuisti, et quare sola tu istas dignas laudes renovas: non erit sine mercede, idest premio, tuum verbum, si ego redeo, idest rediero, ad complendum iter curtum, idest breve, illius vite, que ad terminum volat, idest ad mortem. Nota quod vita prior habet terminum, idest mortem:
 
@@ -242,39 +242,39 @@ Filius fui unius macellarii parisiensis. Quando reges antiqui defecerunt omnes, 
 
 <!-- p. 656 (0710) -->
 
-²¹ Mentre che la gran dota Provenzale (¹)\
-&emsp;Al sangue mio non tolse la vergogna (²),\
-&emsp;Poco valea (³), ma pur non facea male (⁴).
+21 Mentre che la gran dota Provenzale (1)\
+&emsp;Al sangue mio non tolse la vergogna (2),\
+&emsp;Poco valea (3), ma pur non facea male (4).
 
-²¹ Quousque grandis dos Provintialis\
+21 Quousque grandis dos Provintialis\
 &emsp;Sanguini meo non abstulit verecundiam,\
 &emsp;Modicum valebat, sed tamen non faciebat malum.
 
-²² Lì cominciò con forza e con menzogna\
-&emsp;La sua rapina; e poscia, per amenda (⁵),\
+22 Lì cominciò con forza e con menzogna\
+&emsp;La sua rapina; e poscia, per amenda (5),\
 &emsp;Ponti e Normandia prese, e Guascogna.
 
-²² Ibi incepit cum vi et cum mendacio\
+22 Ibi incepit cum vi et cum mendacio\
 &emsp;Suam rapinam; et postea, pro emenda,\
 &emsp;Pontem et Normandiam cepit, et Vasconiam.
 
-²³ Karlo (⁶) venne in Italia, e, per vicenda (⁷),\
-&emsp;Victima fe' di Corradino (⁸); e poi\
-&emsp;Ripinse in ciel Thomaso (⁹), per emenda.
+23 Karlo (6) venne in Italia, e, per vicenda (7),\
+&emsp;Victima fe' di Corradino (8); e poi\
+&emsp;Ripinse in ciel Thomaso (9), per emenda.
 
-²³ Karolus venit in Ytaliam, et, propter emendationem,\
+23 Karolus venit in Ytaliam, et, propter emendationem,\
 &emsp;Victimam fecit de Corradino; et postmodum\
 &emsp;Repulit ad celum Thomam, propter emendationem.
 
-²⁴ Tempo vegg'io, non molto dipo'ancoi,\
-&emsp;Che tragge un altro Karlo (¹⁰) fuor di Francia,\
+24 Tempo vegg'io, non molto dipo'ancoi,\
+&emsp;Che tragge un altro Karlo (10) fuor di Francia,\
 &emsp;Per far conoscer meglo e sè e suoi.
 
-²⁴ Tempus video, non multum post adhuc,\
+24 Tempus video, non multum post adhuc,\
 &emsp;Quod trahit unum alium Karolum extra Frantiam,\
 &emsp;Ut faciat cognosci se et suos melius.
 
-(¹) affinità dei conti di Provenza — (²) della usurpatione del regno — (³) poteva el sangue mio — (⁴) quia humiliter vivebat — (⁵) hyronia est — (⁶) primo re di Sicilia e fratello di Loygi — (⁷) hyronia — (⁸) facendolo decapitare ingiustamente — (⁹) d'Aquino, facendolo venenar perchè non fosse papa — (¹⁰) decto Senzaterre, figluol de re Loygi.
+(1) affinità dei conti di Provenza — (2) della usurpatione del regno — (3) poteva el sangue mio — (4) quia humiliter vivebat — (5) hyronia est — (6) primo re di Sicilia e fratello di Loygi — (7) hyronia — (8) facendolo decapitare ingiustamente — (9) d'Aquino, facendolo venenar perchè non fosse papa — (10) decto Senzaterre, figluol de re Loygi.
 
 monachus: filius Ugonis venit ad regnum, propter adherentiam patris sui ad Ludovicum ultimum istius stirpis, sicut Tarquinius devenit ad regnum romanum, qui adhesit Ancho Marcho), reperi strictum in manibus meis frenum gubernationis, vel regiminis, regni, idest tantam potentiam nove acquisitionis, et ita amicis plenum, quod ad coronam viduam, idest privatam herede regali masculina, promotum [fuit] caput mei filii, a quo inceperunt istorum sacrata ossa idest maledicta, vel execrabilia, vel aliter quia reges Frantie unguntur et consecrantur.
 
@@ -288,31 +288,31 @@ Hiis dictis, iam auctor dicit de uno alio Karolo de domo Frantia, qui etiam veni
 
 <!-- p. 657 (0711) -->
 
-²⁵ Senz'arme n'esce, solo e co'la lancia (¹)\
-&emsp;Con la qual giostrò Giuda; e quella ponta(²)\
-&emsp;Sì, ch'a Firenze fa scoppiar la pancia (³).
+25 Senz'arme n'esce, solo e co'la lancia (1)\
+&emsp;Con la qual giostrò Giuda; e quella ponta(2)\
+&emsp;Sì, ch'a Firenze fa scoppiar la pancia (3).
 
-²⁵ Sine armis inde exit, et solum cum lancea\
+25 Sine armis inde exit, et solum cum lancea\
 &emsp;Cum qua hastilusit Iudas; et illam impingit\
 &emsp;Ita, quod Florentie facit crepare panciam.
 
-²⁶ Quindi non terra (⁴), ma peccato et onta\
+26 Quindi non terra (4), ma peccato et onta\
 &emsp;Guadagnerà, per sè tanto più grave,\
 &emsp;Quanto più lieve simil danno conta.
 
-²⁶ Inde non terram, sed peccatum et despectum\
+26 Inde non terram, sed peccatum et despectum\
 &emsp;Lucrabitur, pro se tanto plus grave,\
 &emsp;Quanto magis [leve] simile dampnum computat.
 
-²⁷ L'altro (⁵), che già uscì preso di nave,\
-&emsp;Veggio vender sua figla (⁶) e pacteggiarne,\
+27 L'altro (5), che già uscì preso di nave,\
+&emsp;Veggio vender sua figla (6) e pacteggiarne,\
 &emsp;Come fanno e corsali dell'altrui schiave.
 
-²⁷ Alium, qui exivit iam captus de navi,\
+27 Alium, qui exivit iam captus de navi,\
 &emsp;Video vendere suam filiam, et pacisci,\
 &emsp;Sicut pirate de aliis sclavis faciunt.
 
-(¹) avaritia e tradimento — (²) appogia — (³) quia Guelfis adhaesit et Ghibellinos expulit — (⁴) alcuna città — (⁵) Karlo III detto Zoppo, figluol di Karlo I — (⁶) al marchese Azzo.
+(1) avaritia e tradimento — (2) appogia — (3) quia Guelfis adhaesit et Ghibellinos expulit — (4) alcuna città — (5) Karlo III detto Zoppo, figluol di Karlo I — (6) al marchese Azzo.
 
 proditione; unde Florentia per ipsum passa fuit multa mala. De quo dicit, quod iste Karolus non acquiret terram aliquam, sed multa peccata commictet. Millesimo tercentesimo secundo, iste Karolus intravit Florentiam et ostendit vilitatem suam et suorum et avaritiam. Iste Karolus fuit frater Philippi Belli. Ipse punxit male Florentiam: nam tunc Florentia erat plena et populosa; iste fuit causa expulsionis multorum, maxime partis Albe, etc.: apud Deum acquisivit peccatum, apud homines despectus. Hic multum diffamatur ab auctore.
 
@@ -330,39 +330,39 @@ Alium, qui iam exivit captus de navi, scilicet Karolum secundum, sive Cioctum, v
 
 <!-- p. 658 (0712) -->
 
-²⁸ O avaritia, che puoi tu più farne,\
+28 O avaritia, che puoi tu più farne,\
 &emsp;Poscia ch'a'l mio sangue a te sì tracto,\
 &emsp;Che non si cura de la propria carne?
 
-²⁸ O avaritia, quid potes tu plus facere michi,\
+28 O avaritia, quid potes tu plus facere michi,\
 &emsp;Postquam sanguinem meum ad te ita traxisti,\
 &emsp;Quod non curat de propria carne?
 
-²⁹ E perchè paia el mal futuro e 'l facto (¹),\
-&emsp;Vegho in Anagna (²) entrar el Fiordaliso (³),\
-&emsp;E nel vicario suo (⁴) Chrysto esser capto (⁵).
+29 E perchè paia el mal futuro e 'l facto (1),\
+&emsp;Vegho in Anagna (2) entrar el Fiordaliso (3),\
+&emsp;E nel vicario suo (4) Chrysto esser capto (5).
 
-²⁹ Adhuc ut minus appareat malum futurum et factum,\
+29 Adhuc ut minus appareat malum futurum et factum,\
 &emsp;Video in Ananiam intrare alixium florem,\
 &emsp;Et in vicario suo Christum esse captum.
 
-³⁰ Veggiol un'altra volta esser deriso;\
+30 Veggiol un'altra volta esser deriso;\
 &emsp;Veggio rinnovellar l'aceto e 'l fele,\
-&emsp;E tra vivi (⁶) ladroni esser ucciso.
+&emsp;E tra vivi (6) ladroni esser ucciso.
 
-³⁰ Video ipsum iterum derideri,\
+30 Video ipsum iterum derideri,\
 &emsp;Video renovari acetum et fel,\
 &emsp;Et inter vivos latrones occidi.
 
-³¹ Veggio 'l nuovo Pilato (⁷) sì crudele,\
-&emsp;Che ciò nol satia, ma senza decreto (⁸)\
-&emsp;Porta nel tempio (⁹) le cupide vele (¹⁰).
+31 Veggio 'l nuovo Pilato (7) sì crudele,\
+&emsp;Che ciò nol satia, ma senza decreto (8)\
+&emsp;Porta nel tempio (9) le cupide vele (10).
 
-³¹ Video novum Pilatum et crudelem ita,\
+31 Video novum Pilatum et crudelem ita,\
 &emsp;Quod hoc eum non satiat, sed sine decreto\
 &emsp;Portat in templum cupida vela.
 
-(¹) passato — (²) città di Campagna — (³) el giglio, arma di Francia — (⁴) papa Bonifatio — (⁵) qui Bonifatius in Anania tribus diebus captus stetit a rege Philippo — (⁶) al. nuovi — (⁷) re Philippo — (⁸) de la Chiesa — (⁹) de' guerrieri de Rodi — (¹⁰) dell'avaritia.
+(1) passato — (2) città di Campagna — (3) el giglio, arma di Francia — (4) papa Bonifatio — (5) qui Bonifatius in Anania tribus diebus captus stetit a rege Philippo — (6) al. nuovi — (7) re Philippo — (8) de la Chiesa — (9) de' guerrieri de Rodi — (10) dell'avaritia.
 
 Nunc auctor exclamat contra avaritiam in persona Ugonis dicti, dicens: O avaritia, quid potes tu plus facere? (quasi dicat: Nil), postquam sanguinem meum ad te ita traxisti, quod non curat de propria carne?
 
@@ -376,55 +376,55 @@ Notandum est hic, quod tempore dicti Bonifacii erat Ordo Templariorum, qui Ordo 
 
 <!-- p. 659 (0713) -->
 
-³² O Signor mio (¹), quando sarò io lieto\
+32 O Signor mio (1), quando sarò io lieto\
 &emsp;A veder la vendecta, che nascosa\
 &emsp;Fa dolce l'ira tua nel tuo secreto?
 
-³² O Domine mi, quando ero ego letus\
+32 O Domine mi, quando ero ego letus\
 &emsp;Ad videndum vindictam, que absconsam\
 &emsp;Facit dulcem iram tuam in tuo secreto?
 
-³³ Ciò ch'io (²) dicea de quell'unica sposa (³)\
+33 Ciò ch'io (2) dicea de quell'unica sposa (3)\
 &emsp;Dello Spirito Sancto, e che ti fece\
 &emsp;Verso me volger per alcuna chiosa,
 
-³³ Id quod ego dicebam de illa unica sponsa\
+33 Id quod ego dicebam de illa unica sponsa\
 &emsp;Spiritus Sancti, que te fecit\
 &emsp;Versus me volvi propter aliquam rem,
 
-³⁴ Tanto è disposto (⁴) a tucta nostra prece,\
-&emsp;Quant'il dì dura; ma, quando s'annocta(⁵),\
-&emsp;Contrario suon prendiamo in quella vece(⁶).
+34 Tanto è disposto (4) a tucta nostra prece,\
+&emsp;Quant'il dì dura; ma, quando s'annocta(5),\
+&emsp;Contrario suon prendiamo in quella vece(6).
 
-³⁴ Tantum est repositum ad cunctas nostras preces,\
+34 Tantum est repositum ad cunctas nostras preces,\
 &emsp;Quantum dies durat; sed, quando noctescit,\
 &emsp;Contrarium sonum apprehendimus in illa vice.
 
-³⁵ Noi ripetiam Pigmalïone allocta,\
+35 Noi ripetiam Pigmalïone allocta,\
 &emsp;Cui traditor, ladrone e parricida\
 &emsp;Fece la vogla sua dell'oro ghiotta;
 
-³⁵ Nos repetimus Pigmalionem tunc,\
+35 Nos repetimus Pigmalionem tunc,\
 &emsp;Quem proditorem et latronem et patricidam\
 &emsp;Fecit voluntas sua auri avida;
 
-³⁶ E la miseria (⁷) dell'avaro Mida (⁸),\
-&emsp;Che seguì a la sua domanda ingorda (⁹),\
+36 E la miseria (7) dell'avaro Mida (8),\
+&emsp;Che seguì a la sua domanda ingorda (9),\
 &emsp;Per la qual sempre convien che si rida.
 
-³⁶ Et miseriam avari Mide,\
+36 Et miseriam avari Mide,\
 &emsp;Que secuta est ad suam petitionem importunam,\
 &emsp;Propter quod convenit quod semper rideatur.
 
-³⁷ Del folle Achor ciaschedun si ricorda,\
+37 Del folle Achor ciaschedun si ricorda,\
 &emsp;Come furò le spogle, sì che l'ira\
 &emsp;Di Iosue qui par ch'ancor lo morda.
 
-³⁷ De fatuo Acham quilibet postea recordatur,\
+37 De fatuo Acham quilibet postea recordatur,\
 &emsp;Qualiter furatus fuit spolia, ita quod ira\
 &emsp;Iosue hinc apparet quod adhuc illum remordeat.
 
-(¹) Dio — (²) Ugo Ciappetta — (³) Maria — (⁴) a noi da Dio -- (⁵) si fa nocte — (⁶) hora — (⁷) ripetiamo — (⁸) re di Lidia, vel Frigia — (⁹) che fece a Bacho, che ciò che tochasse si facesse oro, onde poi si moriva di fame e di sete.
+(1) Dio — (2) Ugo Ciappetta — (3) Maria — (4) a noi da Dio -- (5) si fa nocte — (6) hora — (7) ripetiamo — (8) re di Lidia, vel Frigia — (9) che fece a Bacho, che ciò che tochasse si facesse oro, onde poi si moriva di fame e di sete.
 
 O Domine mi, quando ero ego letus ad videndum vindictam, que absconsam facit dulcem iram tuam in tuo secreto? Ista littera est difficilis: pro qua intelligenda notandum est, quod quando aliquis recipit iniuriam ab aliquo, et videt de proximo vindictam, gaudet in mente sua. Ita facit Deus, qui noscit omnia futura. Tunc, quando Deus offenditur et ipse Deus prescit vindictam de proximo faciendam, in secreto, sive in arcano consilio, Dei, fit dulcis ira ipsius Dei, idest placatur.
 
@@ -440,47 +440,47 @@ Tertia hystoria ponitur in quinto capitulo Iosue, que est de Acham, homine sic v
 
 <!-- p. 660 (0714) -->
 
-³⁸ Indi accusiàn col marito Zaphyra;\
+38 Indi accusiàn col marito Zaphyra;\
 &emsp;Lodiàn li calci ch'ebbe Helyodoro;\
 &emsp;Et in infamia tutto il mondo gira
 
-³⁸ Inde accusamus cum coniuge Saphiram;\
+38 Inde accusamus cum coniuge Saphiram;\
 &emsp;Laudamus calces quos habuit Eliodorus,\
 &emsp;Et in infamiam totus mundus girat;
 
-³⁹ Polynestor (¹) ch'ancise Polydoro.\
-&emsp;Ultimamente ci si grida (²): O Crasso (³),\
-&emsp;Di' (⁴), tu che sai, di che sapore è l'oro.
+39 Polynestor (1) ch'ancise Polydoro.\
+&emsp;Ultimamente ci si grida (2): O Crasso (3),\
+&emsp;Di' (4), tu che sai, di che sapore è l'oro.
 
-³⁹ Polimestorem qui occidit Pollidorum.\
+39 Polimestorem qui occidit Pollidorum.\
 &emsp;Ultimo hic clamatur: O Crasse,\
 &emsp;Dic nobis, quia id scis, cuius saporis est aurum.
 
-⁴⁰ Thalor parla l'un (⁵) alto, e l'altro basso,\
+40 Thalor parla l'un (5) alto, e l'altro basso,\
 &emsp;Secondo l'affection ch'a dir ci sprona,\
 &emsp;Hor a maggiore et hor a minor passo.
 
-⁴⁰ Aliquando loquitur unus alte, et alter aliquando submisse,\
+40 Aliquando loquitur unus alte, et alter aliquando submisse,\
 &emsp;Secundum affectionem que ad dicendum nos incitat,\
 &emsp;Aliquando ad maiorem aliquando ad minorem passum.
 
-⁴¹ Però ch'al ben che 'l dì ci si ragiona,\
-&emsp;Dianzi sol (⁶) non era; ma qui presso\
+41 Però ch'al ben che 'l dì ci si ragiona,\
+&emsp;Dianzi sol (6) non era; ma qui presso\
 &emsp;Non alzava la voce altra persona.
 
-⁴¹ Ideo ad bonum qui hic in die ratiocinatur,\
+41 Ideo ad bonum qui hic in die ratiocinatur,\
 &emsp;Paulo ante non eram ego solus; sed hic prope\
 &emsp;Non elevabat vocem alia persona.
 
-⁴² Noi eravamo partiti già da esso,\
+42 Noi eravamo partiti già da esso,\
 &emsp;E brigavàn di soverchiar la strada\
 &emsp;Tanto, quanto 'l poter n'era permesso;
 
-⁴² Nos recesseramus iam ab illo,\
+42 Nos recesseramus iam ab illo,\
 &emsp;Et conabamur superare stratam\
 &emsp;Tanto, quanto posse nostro erat permissum;
 
-(¹) re di Tracia — (²) al. si gridiamo — (³) Marcho — (⁴) al. dilci — (⁵) di noi — (⁶) solo.
+(1) re di Tracia — (2) al. si gridiamo — (3) Marcho — (4) al. dilci — (5) di noi — (6) solo.
 
 Iste Acham, sive Achior, fuit furatus de anathemate, unde fuit postmodum lapidatus. Dum Iosue misisset gentes suas ad expugnandum unam civitatem Cananeorum, scilicet Ain, de precepto Dei dixit toti populo, quod nemo aliquid de spoliis inimicorum reciperet; sed omnia essent anathema, et comburerentur. Iste Acham, sive Achior, furatus fuit aliqua de spoliis, et abscondit. Altera die, vadens populus Dei ad bellum, fugatus est, et multi interfecti sunt a Cananeis. Tunc Iosue ivit et consuluit Deum, unde hoc evenerat, quia Deus promisit victoriam. Tunc dixit: Quoniam aliquis de populo furatus est de anathemate. Et missis sortibus, deventum est quod Acham, sive Achior, hoc fecerat; qui captus, confessus est furtum quod fecerat propter avaritiam, et lapidatus fuit et sepultus in una valle, que usque in hodiernum diem vocatur vallis Acham, sive Achior. Ideo dicit: De fatuo Acham, idest repetimus, quilibet, scilicet nostrum, recordatur, qualiter furatus fuit spolia, ita quod ira Iosue hinc apparet quod adhuc illum remordeat, quia in ira Iosue fecit ipsum lapidari.
 
@@ -498,55 +498,55 @@ Nos iam recesseramus. Nui eravam partiti: hec est quarta pars huius capituli, in
 
 <!-- p. 661 (0715) -->
 
-⁴³ Quando sentii, come cosa che cada,\
+43 Quando sentii, come cosa che cada,\
 &emsp;Tremar lo monte: onde mi prese un gielo,\
 &emsp;Qual prender suol colui ch'a morte vada.
 
-⁴³ Quando ego sensi, sicut res que cadat,\
+43 Quando ego sensi, sicut res que cadat,\
 &emsp;Tremere montem: unde me apprehendit unum gelu,\
 &emsp;Quale apprehendere solet illum qui [ad] mortem vadit.
 
-⁴⁴ Certo non si scotea sì forte Delo (¹),\
+44 Certo non si scotea sì forte Delo (1),\
 &emsp;Pria che Latona in lei facesse 'l nido\
-&emsp;A partorir li due ochi (²) del cielo.
+&emsp;A partorir li due ochi (2) del cielo.
 
-⁴⁴ Certe non excutiebatur ita fortiter Delos,\
+44 Certe non excutiebatur ita fortiter Delos,\
 &emsp;Priusquam Latona in ea faceret nidum\
 &emsp;Ad parturiendum duos oculos celi.
 
-⁴⁵ Poi cominciò da tutte parti el grido,\
+45 Poi cominciò da tutte parti el grido,\
 &emsp;Tal che 'l maestro inver di me si feo,\
 &emsp;Dicendo: Non dubiar, mentr'io ti guido.
 
-⁴⁵ Postea inceptus est ab omni parte unus clamor,\
+45 Postea inceptus est ab omni parte unus clamor,\
 &emsp;Ita quod magister versus me se fecit,\
 &emsp;Dicendo: Non dubites, dum ego te conduco.
 
-⁴⁶ Gloria in excelsis, tucti, Deo,\
-&emsp;Dicean, per quel che da vicin (³) compresi,\
+46 Gloria in excelsis, tucti, Deo,\
+&emsp;Dicean, per quel che da vicin (3) compresi,\
 &emsp;Ond' intender lo grido si poteo.
 
-⁴⁶ Gloria in excelsis, omnes, Deo,\
+46 Gloria in excelsis, omnes, Deo,\
 &emsp;Dicebant, propter id quod a vicinis comprehendi,\
 &emsp;Unde intelligi clamor potuit.
 
-⁴⁷ Noi stavamo immobili e sospesi,\
-&emsp;Com' e' pastori che pria udir quel canto(⁴),\
+47 Noi stavamo immobili e sospesi,\
+&emsp;Com' e' pastori che pria udir quel canto(4),\
 &emsp;Finchè 'l tremar cessò, et io 'l compresi.
 
-⁴⁷ Nos stabamus immobiles et suspensi,\
+47 Nos stabamus immobiles et suspensi,\
 &emsp;Sicut pastores qui prius audierunt illum cantum,\
 &emsp;Quousque tremere cessavit, et ille completus est.
 
-⁴⁸ Poi ripigliammo nostro cammin sancto,\
+48 Poi ripigliammo nostro cammin sancto,\
 &emsp;Guardando l'ombre che giacean per terra,\
 &emsp;Tornate già in su l'usato pianto.
 
-⁴⁸ Postea resumpsimus iter nostrum sanctum,\
+48 Postea resumpsimus iter nostrum sanctum,\
 &emsp;Respiciendo umbras que iacebant per terram,\
 &emsp;Reversas iam ad consuetum planctum.
 
-(¹) insula — (²) Phebo e Diana — (³) da presso — (⁴) Luc. II⁰ cap.
+(1) insula — (2) Phebo e Diana — (3) da presso — (4) Luc. II⁰ cap.
 
 accidens, quod fuit tale. Venit terremotus terribilis, dum sic starent; et fuit terremotus talis, quod totus mons visus est tremere; et post terremotum auditus est unus cantus cum magno rumore. Unde auctor multum timuit, et oportebat scire quid hoc esset, et quid hoc significaret. Dicit igitur auctor: Nos iam recesseramus ab illo, scilicet spiritu Ciappette, et conabamur superare stratam, idest cito transire, tanto quanto nostro posse erat permissum (quia Dantes non poterat ire ita leviter, sicut spiritus ibat; quia Dantes habebat corpus grave); quando ego sensi, sicut res que cadit, tremere montem, unde me apprehendit unum gelu, quale apprehendere solet illum qui ad mortem vadat, idest trahatur.
 
@@ -562,25 +562,25 @@ Postea resumpsimus iter nostrum sanctum, respiciendo umbras, que iacebant per te
 
 <!-- p. 662 (0716) -->
 
-⁴⁹ Nulla ignoranza mai con tanta guerra\
+49 Nulla ignoranza mai con tanta guerra\
 &emsp;Mi fe' desiderando di sapere,\
 &emsp;Se la memoria mia in ciò non erra,
 
-⁴⁹ Nulla ignorantia unquam cum tanta guerra\
+49 Nulla ignorantia unquam cum tanta guerra\
 &emsp;Me fecit avidum sciendi,\
 &emsp;Si memoria mea in hoc non errat,
 
-⁵⁰ Quanta pariemi allhor pensando havere:\
-&emsp;Nè per la frecta domandar era oso (¹),\
+50 Quanta pariemi allhor pensando havere:\
+&emsp;Nè per la frecta domandar era oso (1),\
 &emsp;Nè per me si potea cosa vedere:\
 &emsp;Così m'andava timido e pensoso.
 
-⁵⁰ Quantum apparebat michi nunc cogitando habere:\
+50 Quantum apparebat michi nunc cogitando habere:\
 &emsp;Nec propter festinantiam petere eram ausus,\
 &emsp;Nec per me ibi poterat res videri:\
 &emsp;Sic ibam timidus et cogitabundus.
 
-(¹) ardito.
+(1) ardito.
 
 ante. Terremotus ille et cantus ille fuerunt causa quod auctor habebat maximum desiderium sciendi quid hoc significaret. Nunquam ignoravit aliquid, quod ignorare tantum displiceret auctori, sicut hoc; et propter festinantiam auctor non erat ausus interrogare ducem suum, nec auctor sufficiebat sibi ipsi hoc cognoscere; et ideo ibat timidus et multum cogitans. Nulla ignorantia unquam cum tanta guerra me fecit avidum sciendi, si memoria mea in hoc non errat, quantum apparebat michi tunc cogitando habere; nec propter festinantiam petere eram ausus; nec per me ibi poterat res, scilicet aliqua, videri: sic ibam timidus et cogitabundus. Littera plana est, etc.
 

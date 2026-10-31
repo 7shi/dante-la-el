@@ -8,43 +8,43 @@ In isto decimotertio capitulo, quod incipit: Ymaginetur qui bene intelligere cup
 
 # Capitulum Tertiumdecimum
 
-¹ Imagini, chi ben intender cupe\
+1 Imagini, chi ben intender cupe\
 &emsp;Ciò ch'i' hor vidi, e ritegna l'ymage,\
 &emsp;Mentre ch'io dico, come ferma rupe,
 
-¹ Ymaginetur, qui bene intelligere cupit\
+1 Ymaginetur, qui bene intelligere cupit\
 &emsp;Illud quod ego nunc vidi, et retineat ymaginem,\
 &emsp;Dum ego dico, tamquam firma rupis,
 
-² Quindici stelle che 'n diverse plage\
+2 Quindici stelle che 'n diverse plage\
 &emsp;El ciel avvivan di tanto sereno,\
 &emsp;Che soverchia dell'arte ogni compage:
 
-² Quindecim stellas que in diversis plagis\
+2 Quindecim stellas que in diversis plagis\
 &emsp;Cœlum avivant de tanto sereno,\
 &emsp;Quod aeris superant omnem compositionem:
 
-³ Ymagini quel carro a cui el seno\
+3 Ymagini quel carro a cui el seno\
 &emsp;Basta del nostro cielo e nocte e giorno,\
 &emsp;Sì ch'al volger del temo non vien meno:
 
-³ Ymaginetur illum currum cui sinus\
+3 Ymaginetur illum currum cui sinus\
 &emsp;Sufficit nostri celi et nocte et die,\
 &emsp;Ita quod ad volutionem themonis non deficit:
 
-⁴ Ymagini la bocha di quel corno,\
+4 Ymagini la bocha di quel corno,\
 &emsp;Che si comincia in punta dello stelo,\
 &emsp;A cui la prima ruota va dintorno,
 
-⁴ Ymaginetur os illius cornu,\
+4 Ymaginetur os illius cornu,\
 &emsp;Quod incipitur in ore ostelli,\
 &emsp;Cui prima rota vadit in circum,
 
-⁵ Aver facti di sè duo segni in cielo,\
+5 Aver facti di sè duo segni in cielo,\
 &emsp;Qual fece la figluola di Mynoi\
 &emsp;Allora che sentì di morte el gielo;
 
-⁵ Fecisse de se duo signa in celo,\
+5 Fecisse de se duo signa in celo,\
 &emsp;Quale fecit filia Minoys\
 &emsp;Tunc quando ipsa sensit mortale gelu;
 
@@ -72,19 +72,19 @@ Circa primam partem, littera est difficilis per totum; sed auctor vult dicere in
 
 <!-- p. 973 (1027) -->
 
-⁶ E l'uno ver l'altro haver li raggi suoi,\
+6 E l'uno ver l'altro haver li raggi suoi,\
 &emsp;Et amendue girarsi per maniera,\
 &emsp;Che l'uno andasse al primo el'altro al poi:
 
-⁶ Et unum habere radios suos in alio,\
+6 Et unum habere radios suos in alio,\
 &emsp;Et ambo gyrari per modum,\
 &emsp;Quod unum iret ad primum et aliud ad sequens:
 
-⁷ Et havrà quasi l'ombra de la vera\
+7 Et havrà quasi l'ombra de la vera\
 &emsp;Constellazione, e doppia danza,\
 &emsp;Che circulava al punto dov'io era;
 
-⁷ Et habebit quasi umbram vere\
+7 Et habebit quasi umbram vere\
 &emsp;Constellationis, et duplicis coree,\
 &emsp;Que circuibat punctum ubi ego eram;
 
@@ -98,43 +98,43 @@ Ymaginetur, qui bene intelligere cupit (idest istas duas coronas et earum motum)
 
 <!-- p. 974 (1028) -->
 
-⁸ Poich' è tanto di là da nostra usanza,\
+8 Poich' è tanto di là da nostra usanza,\
 &emsp;Quanto di là dal muover de la Chiana\
 &emsp;Si muove 'l ciel che tutti gl' altri avanza.
 
-⁸ Ex quo tantum ultra nostrum usum,\
+8 Ex quo tantum ultra nostrum usum,\
 &emsp;Quantum ultra motum Chiane\
 &emsp;Movetur celum quod omnes alios superat.
 
-⁹ Lì si cantò non Bacho, non Peana,\
+9 Lì si cantò non Bacho, non Peana,\
 &emsp;Ma tre persone in divina natura,\
 &emsp;Et in una persona essa e l' humana.
 
-⁹ Ibi cantatum fuit non de Baccho, nec de Peana,\
+9 Ibi cantatum fuit non de Baccho, nec de Peana,\
 &emsp;Sed tres personas in divina natura,\
 &emsp;Et in una persona ipsam et humanam.
 
-¹⁰ Compiè 'l cantor a volger suo'misura,\
+10 Compiè 'l cantor a volger suo'misura,\
 &emsp;Et attesarsi a noi quei sancti lumi,\
 &emsp;Felicitando sè di cura in cura.
 
-¹⁰ Compleverunt cantum et motum in sua mensura,\
+10 Compleverunt cantum et motum in sua mensura,\
 &emsp;Et attenderunt ad nos illa sancta lumina,\
 &emsp;Felicitando se de cura in curam.
 
-¹¹ Ruppe el silenzio ne'concordi numi\
+11 Ruppe el silenzio ne'concordi numi\
 &emsp;Poscia la luce, in che mirabil vita\
 &emsp;Del Poverel di Dio narrata fumi,
 
-¹¹ Rupit silentium in concordibus numinibus\
+11 Rupit silentium in concordibus numinibus\
 &emsp;Postmodum lux, in qua mirabilis vita\
 &emsp;Pauperculi Dei michi narrata fuit,
 
-¹² E disse: Quando l'una pagla è trita,\
+12 E disse: Quando l'una pagla è trita,\
 &emsp;Quando la sua semenza è già riposta,\
 &emsp;A batter l' altra dolce amor m'invita.
 
-¹² Et dixit: Quando une palec sunt trite,\
+12 Et dixit: Quando une palec sunt trite,\
 &emsp;Quando suum semen est iam repositum,\
 &emsp;Ad tritandum alias dulcis amor me invitat.
 
@@ -152,55 +152,55 @@ Iam ponit exordium Sancti Thome, quando reincepit loqui, per quamdam comparation
 
 <!-- p. 975 (1029) -->
 
-¹³ Tu credi che nel pecto (¹), onde la costa\
-&emsp;Si trasse per formar la bella guancia (²),\
-&emsp;El cui palato (³) a tutto il mondo costa;
+13 Tu credi che nel pecto (1), onde la costa\
+&emsp;Si trasse per formar la bella guancia (2),\
+&emsp;El cui palato (3) a tutto il mondo costa;
 
-¹³ Tu credis quod in pectore, unde costa\
+13 Tu credis quod in pectore, unde costa\
 &emsp;Tracta fuit pro formanda pulchra gena,\
 &emsp;Cuius palatus toti mundo constat;
 
-¹⁴ Et in quel (⁴) che, forato da la lancia,\
+14 Et in quel (4) che, forato da la lancia,\
 &emsp;E poscia e prima tanto satisfece,\
 &emsp;Che d'ogni colpa vince la bilancia;
 
-¹⁴ Et in illo qui foratus fuit lancea,\
+14 Et in illo qui foratus fuit lancea,\
 &emsp;Et prius et postea tantum satisfecit,\
 &emsp;Quod omnis culpe vicit lancem;
 
-¹⁵ Quantunque a la natura humana lece\
+15 Quantunque a la natura humana lece\
 &emsp;Haver di lume, tutto fusse infuso\
-&emsp;Da quel valor (⁵) che l'un e l'altro fece:
+&emsp;Da quel valor (5) che l'un e l'altro fece:
 
-¹⁵ Quamtumcumque humane nature licet\
+15 Quamtumcumque humane nature licet\
 &emsp;Habere de lumine, totum esset infusum\
 &emsp;Ab illo valore qui utrumque fecit:
 
-¹⁶ E però ammiri a quel ch'io dissi suso,\
+16 E però ammiri a quel ch'io dissi suso,\
 &emsp;Quando narrai che non ebbe 'l secondo,\
 &emsp;El ben che ne la quinta luce è chiuso.
 
-¹⁶ Et postmodum respicis illud quod ego dixi superius,\
+16 Et postmodum respicis illud quod ego dixi superius,\
 &emsp;Quando narravi quod non habuit secundum\
 &emsp;Bonum quod in quinta luce est clausum.
 
-¹⁷ Or apri gl'ochi a quel ch'io ti rispondo,\
+17 Or apri gl'ochi a quel ch'io ti rispondo,\
 &emsp;E vedrai 'l tuo creder e 'l mio dire\
 &emsp;Nel vero farsi, come centro in tondo.
 
-¹⁷ Nunc aperi oculos ad id quod tibi respondeo,\
+17 Nunc aperi oculos ad id quod tibi respondeo,\
 &emsp;Et videbis tuum credere et meum dicere\
 &emsp;In vero fieri, sicut centrum in tundo.
 
-¹⁸ Ciò che non muore e ciò che può morire\
+18 Ciò che non muore e ciò che può morire\
 &emsp;Non è se non splendor di quella ydea\
 &emsp;Che parturisce, amando, el nostro Sire;
 
-¹⁸ Quidquid moritur et quidquid non potest mori\
+18 Quidquid moritur et quidquid non potest mori\
 &emsp;Non est nisi splendor illius ydee\
 &emsp;Quam parturit, amando, noster Dominus;
 
-(¹) di Adam — (²) di Eva — (³) gusto del cibo vetito — (⁴) pecto de Chrysto — (⁵) divino.
+(1) di Adam — (2) di Eva — (3) gusto del cibo vetito — (4) pecto de Chrysto — (5) divino.
 
 secundus; et amor divinus invitat Sanctum Thomam ad declarandum ipsum dubium Danti. Ideo dicit textus: Et dixit: Quando une palee unius aree sunt trite, quando suum semen iam est repositum, ad tritandum alias, idest ad declarandum aliud dubium, amor me invitat.
 
@@ -216,67 +216,67 @@ Nunc volens declarare intentionem suam, Sanctus Thomas incipit a longe, narrans 
 
 <!-- p. 976 (1030) -->
 
-¹⁹ Chè quella vera luce, che si mea\
+19 Chè quella vera luce, che si mea\
 &emsp;Dal suo lucente, che non si disuna\
 &emsp;Da lui, nè dall'amor che 'n lui s'intrea,
 
-¹⁹ Quia illa viva lux que se meat\
+19 Quia illa viva lux que se meat\
 &emsp;A suo lucente, [que] non dividitur\
 &emsp;Ab eo, nec ab amore suo qui intreatur,
 
-²⁰ Per sua bontade el suo raggiar aduna,\
+20 Per sua bontade el suo raggiar aduna,\
 &emsp;Quasi specchiato, in nove subsistentie,\
 &emsp;Eternalmente rimanendosi una.
 
-²⁰ Propter suam bonitatem suum radium adunat,\
+20 Propter suam bonitatem suum radium adunat,\
 &emsp;Quasi speculatus, in novas subsistentias,\
 &emsp;Eternaliter remanens una.
 
-²¹ Quindi descende all'ultime potentie\
+21 Quindi descende all'ultime potentie\
 &emsp;Giù d'acto in acto, tanto devenendo,\
 &emsp;Che più non fa che brevi contingentie.
 
-²¹ Inde descendit ad ultimas potentias\
+21 Inde descendit ad ultimas potentias\
 &emsp;Infra de actu in actum, [tantum] deveniendo,\
 &emsp;Quod plus non facit nisi breves contingentias.
 
-²² E queste contingentie esser intendo,\
+22 E queste contingentie esser intendo,\
 &emsp;Le cose generate, che produce\
 &emsp;Con seme e senza seme el ciel movendo.
 
-²² Et istas contingentias esse intelligo,\
+22 Et istas contingentias esse intelligo,\
 &emsp;Res generatas, quas producit\
 &emsp;Cum semine et sine semine celum se movens.
 
-²³ La cera di costoro, e chi la duce,\
+23 La cera di costoro, e chi la duce,\
 &emsp;Non sta d'un modo, e però socto 'l segno\
 &emsp;Ydeal poi più e men traluce:
 
-²³ Cera istorum, et quod illam ducit,\
+23 Cera istorum, et quod illam ducit,\
 &emsp;Non stat uniformiter, et ideo sub signo\
 &emsp;Ydeali plus et minus tralucet.
 
-²⁴ Ond'egl'avvien ch' un medesimo legno,\
+24 Ond'egl'avvien ch' un medesimo legno,\
 &emsp;Secondo spetie, e meglo e peggio fructa;\
 &emsp;E voi nascete con diverso ingegno.
 
-²⁴ Unde evenit quod unum et idem lignum\
+24 Unde evenit quod unum et idem lignum\
 &emsp;Secundum speciem, melius et peius fructificat;\
 &emsp;Et vos nascimini cum diverso et dispari ingenio.
 
-²⁵ Se fusse a punto la cera deducta,\
+25 Se fusse a punto la cera deducta,\
 &emsp;E fusse 'l cielo in sua virtù suprema,\
 &emsp;La luce del suggel parrebbe tutta.
 
-²⁵ Si esset punctualiter cera deducta,\
+25 Si esset punctualiter cera deducta,\
 &emsp;Et celum esset in sua virtute suprema,\
 &emsp;Lux sigilli appareret tota.
 
-²⁶ Ma la natura la dà sempre scema,\
+26 Ma la natura la dà sempre scema,\
 &emsp;Similemente operando all'artista,\
 &emsp;Che all'habito dell'arte ha man che trema.
 
-²⁶ Sed natura illam dat semper scemam,\
+26 Sed natura illam dat semper scemam,\
 &emsp;Similiter operando artiste,\
 &emsp;Qui habet habitum artis et manum que tremit.
 
@@ -284,27 +284,27 @@ sapientia divina, genita, que producitur, a Patre, scilicet gignitive a suo lumi
 
 <!-- p. 977 (1031) -->
 
-²⁷ Però se 'l caldo amor la chiara vista\
+27 Però se 'l caldo amor la chiara vista\
 &emsp;De la prima virtù dispone e segna,\
 &emsp;Tutta la perfection quivi s'acquista.
 
-²⁷ Ideo si calidi amoris clara visio\
+27 Ideo si calidi amoris clara visio\
 &emsp;A prima virtute disponit et signat,\
 &emsp;Tota perfectio ibi acquiritur.
 
-²⁸ Così fu facta già la terra degna\
+28 Così fu facta già la terra degna\
 &emsp;Di tutta l'animal perfectione;\
 &emsp;Così fu facta la Vergine pregna.
 
-²⁸ Sic fuit iam facta terra digna\
+28 Sic fuit iam facta terra digna\
 &emsp;Tota animali perfectione;\
 &emsp;Sic fuit facta Virgo pregnans.
 
-²⁹ Sì ch'io commendo tua oppinione,\
+29 Sì ch'io commendo tua oppinione,\
 &emsp;Che l'umana natura mai non fue,\
 &emsp;Nè fia qual fu in quelle due persone.
 
-²⁹ Ita quod ego commendo tuam opinionem,\
+29 Ita quod ego commendo tuam opinionem,\
 &emsp;Quod humana natura nunquam fuit,\
 &emsp;Nec erit qualis fuit in illis duobus.
 
@@ -326,59 +326,59 @@ Ita quod ego commendo, scilicet Thomas, tuam opinionem, quod humana natura nunqu
 
 <!-- p. 978 (1032) -->
 
-³⁰ Or, s'io non processi avanti piue,\
+30 Or, s'io non processi avanti piue,\
 &emsp;Dunque costui come fu senza pare?\
 &emsp;Comincerebber le parole tue.
 
-³⁰ Nunc si ego non procederem ulterius,\
+30 Nunc si ego non procederem ulterius,\
 &emsp;Quomodo iste fuit sine pari?\
 &emsp;Convincerent verba tua.
 
-³¹ Ma, perchè paia ben ciò che non pare,\
+31 Ma, perchè paia ben ciò che non pare,\
 &emsp;Pensa chi era e la cagion che 'l mosse,\
 &emsp;Quando fu decto, Chiede, a domandare.
 
-³¹ Sed, ad hoc ut appareat bene quod non apparet,\
+31 Sed, ad hoc ut appareat bene quod non apparet,\
 &emsp;Cogita quis erat et causam que ipsum movit,\
 &emsp;Quando fuit dictum: Pete ad impetrandum.
 
-³² Non ò parlato sì che tu non posse\
+32 Non ò parlato sì che tu non posse\
 &emsp;Ben veder ch'ei fu re che chiese senno,\
 &emsp;Acciò che re sofficiente fosse;
 
-³² Non fui loquutus ita quod tu non possis\
+32 Non fui loquutus ita quod tu non possis\
 &emsp;Bene videre quod ipse fuit rex qui petiit sapientiam,\
 &emsp;Ad hoc ut rex sufficiens esset;
 
-³³ Non per saper lo numero in che enno\
+33 Non per saper lo numero in che enno\
 &emsp;Li motor di quassù, o se necesse\
 &emsp;Con contingente mai necesse fenno;
 
-³³ Non propter scire numerum in quo sunt\
+33 Non propter scire numerum in quo sunt\
 &emsp;Motores superiores, et si necesse\
 &emsp;Cum contingenti unquam necesse fecerunt;
 
-³⁴ Non si est dare primum motum esse,\
+34 Non si est dare primum motum esse,\
 &emsp;O se di mezo cerchio far si puote\
 &emsp;Triangol sì ch'un recto non havesse.
 
-³⁴ Non si est dare primum [motum] esse,\
+34 Non si est dare primum [motum] esse,\
 &emsp;Vel si de medio circulo fieri potest\
 &emsp;Triangulus qui rectum unum non haberet.
 
-³⁵ Onde, se ciò ch'io dissi, e questo note,\
+35 Onde, se ciò ch'io dissi, e questo note,\
 &emsp;Regal prudenza è quel veder impari,\
 &emsp;In che lo stral d'intenzion mie percuote.
 
-³⁵ Unde, si id quod dixi et istud notes,\
+35 Unde, si id quod dixi et istud notes,\
 &emsp;Regalis prudentia est et illud videre addiscas,\
 &emsp;In quod strale mee condictionis percutit.
 
-³⁶ E, se al Surse drizi gl'ochi chiari,\
+36 E, se al Surse drizi gl'ochi chiari,\
 &emsp;Vedrai haver solamente rispecto\
 &emsp;A' re, che son molti, e' buon son rari.
 
-³⁶ Et si ad Surse dirigis oculos clare,\
+36 Et si ad Surse dirigis oculos clare,\
 &emsp;Videbis haberi solummodo respectum\
 &emsp;Ad reges, qui sunt multi, et boni sunt rari.
 
@@ -394,55 +394,55 @@ Non si est dare primum motum esse, idest si fuit dare principium motus, ita quod
 
 <!-- p. 979 (1033) -->
 
-³⁷ Con questa distinction prend'el mio decto,\
+37 Con questa distinction prend'el mio decto,\
 &emsp;E così puote star con quel che credi\
-&emsp;Del primo padre (¹), e del nostro Dilecto (²).
+&emsp;Del primo padre (1), e del nostro Dilecto (2).
 
-³⁷ Cum ista distinctione apprehende dictum meum,\
+37 Cum ista distinctione apprehende dictum meum,\
 &emsp;Et sic potest stare cum illo quod credis\
 &emsp;De patre nostro, et nostro Dilecto.
 
-³⁸ E questo ti sia sempre piombo a' piedi,\
+38 E questo ti sia sempre piombo a' piedi,\
 &emsp;Per farti muover lento, com'huom lasso,\
 &emsp;Et al sì et al no, che tu non vedi;
 
-³⁸ Et hoc tibi sit semper plumbum ad pedes,\
+38 Et hoc tibi sit semper plumbum ad pedes,\
 &emsp;Ut faciat te moveri lente, sicut homo lapsus,\
 &emsp;Et ad ita et ad non, que tu non vides.
 
-³⁹ Chè quello fra gli stolti ben è basso,\
+39 Chè quello fra gli stolti ben è basso,\
 &emsp;Che senza distinction afferma o nega,\
 &emsp;Nell'un così come nell'altro passo;
 
-³⁹ Quia ille inter stultos est bene infimus,\
+39 Quia ille inter stultos est bene infimus,\
 &emsp;Qui sine distinctione affirmat et negat,\
 &emsp;Sic in uno sicut in alio passu;
 
-⁴⁰ Perch' ell' incontra che più volte piega\
+40 Perch' ell' incontra che più volte piega\
 &emsp;La oppinion corrente a falsa parte,\
 &emsp;E poi l'affecto l'intellecto lega.
 
-⁴⁰ Ex quo evenit, quod pluries plicatur\
+40 Ex quo evenit, quod pluries plicatur\
 &emsp;Opinio currens in falsam partem,\
 &emsp;Et postea affectus intellectum ligat.
 
-⁴¹ Vie più che 'ndarno da riva si parte,\
+41 Vie più che 'ndarno da riva si parte,\
 &emsp;Perch'ei non torna tal qual ei si muove,\
 &emsp;Chi pesca per lo vero e non sa l'arte.
 
-⁴¹ Multo plus quam in vanum a ripa recedit,\
+41 Multo plus quam in vanum a ripa recedit,\
 &emsp;Qui non revertitur talis qualis ivit,\
 &emsp;Qui piscatur pro vero et non habet artem.
 
-⁴² E di ciò son al mondo aperte prove\
+42 E di ciò son al mondo aperte prove\
 &emsp;Parmenyde, Melliso, Bryso, e molti,\
 &emsp;E quali andavan e no sapean dove.
 
-⁴² Et de hoc sunt in mundo aperte probationes\
+42 Et de hoc sunt in mundo aperte probationes\
 &emsp;Parmenides, Mellisius, et Brissius et multi\
 &emsp;Qui ibant et nesciebant quomodo ibant.
 
-(¹) Adam — (²) Chrysto
+(1) Adam — (2) Chrysto
 
 Unde, si id quod dixi, scilicet quod dixi superius, quando dixi, Non surrexit secundus, et istud, idest quod modo dico, notes, regalis prudentie est et illud videre addiscas, in quod strale, idest sagipta, mee condictionis percutit. Et si ad surse, scilicet, Non surrexit secundus, sicut dixi superius, dirige[s] oculos tuos, videbis habere solummodo respectum ad reges, qui sunt multi, et boni sunt rari.
 
@@ -458,44 +458,44 @@ Et de hoc sunt in mundo aperte probationes Parmenides, Mellisius, Brissius, et m
 
 <!-- p. 980 (1034) -->
 
-⁴³ Sì fe' Sabellio et Arrio, e quelli stolti,\
+43 Sì fe' Sabellio et Arrio, e quelli stolti,\
 &emsp;Che furon come spade alle Scripture\
 &emsp;In render torti li diricti volti.
 
-⁴³ Sic fecit Sabellius, Arrius, et illi stulti,\
+43 Sic fecit Sabellius, Arrius, et illi stulti,\
 &emsp;Qui fuerunt sicut ensis ad Scripturas,\
 &emsp;In reddendo tortuosos rectos vultus.
 
-⁴⁴ Nè sien le genti ancor troppo sicure\
+44 Nè sien le genti ancor troppo sicure\
 &emsp;A giudicar, sì come quei che stima\
 &emsp;Le biade in campo pria che sien mature:
 
-⁴⁴ Non sint gentes nimis secure\
+44 Non sint gentes nimis secure\
 &emsp;Ad iudicandum, sicut ille qui extimat\
 &emsp;Blada in campo prius quam sit matura:
 
-⁴⁵ Ch'i' ho veduto tutto 'l verno prima\
+45 Ch'i' ho veduto tutto 'l verno prima\
 &emsp;El prun mostrarsi rigido e feroce,\
 &emsp;Poscia portar la rosa in su la cima;
 
-⁴⁵ Quia ego vidi in tota yeme prius\
+45 Quia ego vidi in tota yeme prius\
 &emsp;Prunum monstrare se rigidum et ferox,\
 &emsp;Portare rosam postea super summitatem.
 
-⁴⁶ E legno vidi già dricto e veloce\
+46 E legno vidi già dricto e veloce\
 &emsp;Correr el mar per tutto suo cammino,\
 &emsp;Perir alfine all'intrar de la foce.
 
-⁴⁶ Et lignum vidi iam rectum et velox\
+46 Et lignum vidi iam rectum et velox\
 &emsp;Currere in mari per totum suum iter,\
 &emsp;Periclitare ad finem et in introytu faucis.
 
-⁴⁷ Non creda donna Berta e ser Martino,\
+47 Non creda donna Berta e ser Martino,\
 &emsp;Per veder l'un furar, l'altro offerere,\
 &emsp;Vederli dentro al consiglio divino;\
 &emsp;Chè quel può surger, l'altro può cadere.
 
-⁴⁷ Non credat domina Berta et ser Martinus,\
+47 Non credat domina Berta et ser Martinus,\
 &emsp;Propter videre unum furari et alterum offerre,\
 &emsp;Videre eos intra consilium divinum;\
 &emsp;Quia ille potest surgere, et ille potest cadere.

@@ -14,19 +14,19 @@ Demum, hiis dictis de Sancto Dominico et de Ordine suo, ipse dominus Bonaventura
 
 # Capitulum Duodecimum
 
-¹ Sì tosto come l'ultima parola\
+1 Sì tosto come l'ultima parola\
 &emsp;La benedecta fiamma per dir tolse,\
 &emsp;A rotar cominciò la santa mola;
 
-¹ Quam cito ultimum verbum\
+1 Quam cito ultimum verbum\
 &emsp;Benedicta flamma per dicere tolsit,\
 &emsp;Rotare cepit sancta mola;
 
-² E nel suo giro tutta non si volse,\
+2 E nel suo giro tutta non si volse,\
 &emsp;Prima ch'un'altra d'un cerchio la chiuse,\
 &emsp;E moto a moto, e canto a canto, colse;
 
-² Et in suo gyro totam non se volvit\
+2 Et in suo gyro totam non se volvit\
 &emsp;Priusquam alia de gyro illam clausit,\
 &emsp;Et motum a motu, et cantum a cantu, colsit;
 
@@ -48,35 +48,35 @@ In prima igitur parte auctor premictit novam aciem animarum, que veniunt iuxta p
 
 <!-- p. 960 (1014) -->
 
-³ Canto, che tanto vince nostre muse,\
+3 Canto, che tanto vince nostre muse,\
 &emsp;Nostre syrene, in quelle dolci tube,\
 &emsp;Quanto primo splendor quel che rifuse.
 
-³ Cantum, qui tantum vincit nostras musas,\
+3 Cantum, qui tantum vincit nostras musas,\
 &emsp;Nostras syrenes, in illis dulcibus tubis,\
 &emsp;Quantum primus splendor illum qui refulsit.
 
-⁴ Come si volgen per tenera nube\
+4 Come si volgen per tenera nube\
 &emsp;Due archi pararelli e concolori,\
 &emsp;Quando Iunone a sua ancilla iube,
 
-⁴ Sicut volvuntur per teneram nubem\
+4 Sicut volvuntur per teneram nubem\
 &emsp;Duo arcus paralelli cum coloribus,\
 &emsp;Quando Iuno sue ancille iubet,
 
-⁵ Nascendo di quel d'entro quel di fuori,\
+5 Nascendo di quel d'entro quel di fuori,\
 &emsp;A guisa del parlar di quella vaga,\
 &emsp;Ch'amor consumpse come sol vapori;
 
-⁵ Nascendo de illo quod est intus illud quod est exterius,\
+5 Nascendo de illo quod est intus illud quod est exterius,\
 &emsp;Ad instar loquele illius vage,\
 &emsp;Quam amor consumpsit sicut sol vapores;
 
-⁶ E fanno qui la gente esser presaga,\
+6 E fanno qui la gente esser presaga,\
 &emsp;Per lo pacto che Dio con Noè pose,\
 &emsp;Del mondo che giamai più non s'allaga;
 
-⁶ Et faciunt hic gentem esse presagam,\
+6 Et faciunt hic gentem esse presagam,\
 &emsp;Propter fedus quod Deus cum Noe posuit,\
 &emsp;De mundo qui nunquam plus allagatur;
 
@@ -92,27 +92,27 @@ Modo vult dicere auctor: Sicut contingit quod in aiere causantur duo arcus, sive
 
 <!-- p. 961 (1015) -->
 
-⁷ Così di quelle sempiterne rose\
+7 Così di quelle sempiterne rose\
 &emsp;Volgeansi circa noi le due ghirlande,\
 &emsp;E sì l'extrema all'intima rispose.
 
-⁷ Sic ille sempiterne rose\
+7 Sic ille sempiterne rose\
 &emsp;Volvebantur circa nos duo serta,\
 &emsp;Et sic extrema ultime respondit.
 
-⁸ Poi che 'l tripudio e l'altra festa grande,\
+8 Poi che 'l tripudio e l'altra festa grande,\
 &emsp;Sì del cantare e sì del fiammeggiarsi\
 &emsp;Luce con luce gaudiose e blande,
 
-⁸ Postquam tripudium et aliud festum grande,\
+8 Postquam tripudium et aliud festum grande,\
 &emsp;Tum cantus et tum flammigiare\
 &emsp;Lux cum luce gaudiosa et blanda,
 
-⁹ Insieme al punto et al voler quetarsi,\
+9 Insieme al punto et al voler quetarsi,\
 &emsp;Pur come gl'ochi ch'al piacer ch'ei muove\
 &emsp;Conviene insieme chiudere e levarsi,
 
-⁹ Simul in puncto et in velle quieverunt,\
+9 Simul in puncto et in velle quieverunt,\
 &emsp;Ac sicut oculi quibus ad complacentiam que ipsos movet\
 &emsp;Convenit simul claudere et se levare,
 
@@ -126,47 +126,47 @@ Postquam tripudium. Poi ch'el tripudio: hec est secunda pars huius capituli, in 
 
 <!-- p. 962 (1016) -->
 
-¹⁰ Del cuor dell'una de le luci nuove\
+10 Del cuor dell'una de le luci nuove\
 &emsp;Si mosse voce, chell'ago a la stella\
 &emsp;Parer mi fece e volger a suo dove;
 
-¹⁰ De corde unius illorum luminum novorum\
+10 De corde unius illorum luminum novorum\
 &emsp;Se movet una vox, que acus ad stellam\
 &emsp;Apparere michi fecit volvendo me ad suum ubi;
 
-¹¹ E cominciò: L'amor che mi fa bella\
-&emsp;Mi tragge a ragionar dell'altro duca (¹),\
-&emsp;Per cui del mio (²) sì ben ci si favella.
+11 E cominciò: L'amor che mi fa bella\
+&emsp;Mi tragge a ragionar dell'altro duca (1),\
+&emsp;Per cui del mio (2) sì ben ci si favella.
 
-¹¹ Et incepit: Amor qui me facit pulchram\
+11 Et incepit: Amor qui me facit pulchram\
 &emsp;Inducit me ad ratiocinandum de alto duce,\
 &emsp;Propter quem de meo ita bene hic fabulatur.
 
-¹² Degno è che dov'è l'un l'altro s'induca,\
+12 Degno è che dov'è l'un l'altro s'induca,\
 &emsp;Sì che com'elli ad una militaro,\
 &emsp;Così la gloria lor insieme luca.
 
-¹² Dignum est quod ubi unus, alter reluceat,\
+12 Dignum est quod ubi unus, alter reluceat,\
 &emsp;Et sicut ipsi una militarunt,\
 &emsp;Sic gloria eorum simul luceat.
 
-¹³ L'exercito di Chrysto, che sì caro\
+13 L'exercito di Chrysto, che sì caro\
 &emsp;Costò a riarmar, dietro alla 'nsegna\
 &emsp;Si movea tardo, sospectoso e raro;
 
-¹³ Exercitus Christi, qui ita care\
+13 Exercitus Christi, qui ita care\
 &emsp;Constitit ad redeundum retro, post insignia\
 &emsp;Movebatur tardus, suspiciosus et rarus;
 
-¹⁴ Quando lo 'mperador che sempre regna,\
+14 Quando lo 'mperador che sempre regna,\
 &emsp;Provide a la militia ch'era in forse,\
 &emsp;Per sola gratia, e non per esser degna;
 
-¹⁴ Quando Imperator qui semper regnat,\
+14 Quando Imperator qui semper regnat,\
 &emsp;Providit militie que erat in forsan,\
 &emsp;Propter solam gratiam, et non ut esset digna;
 
-(¹) Domenico — (²) Duca Francesco.
+(1) Domenico — (2) Duca Francesco.
 
 est), sicut unus torrens impetuosus percussit stipites hereticos, audacius ibi ubi resistentia erat maior, idest ubi erant plures hereses et plures heretici. Ipse produxit multos rivos, idest Fratres Predicatores, ex quibus irrigatur hortus catholicus, idest Ecclesia Catholica, ita quod arbores sue sunt viridiores, sive vivaciores.
 
@@ -180,59 +180,59 @@ Exercitus Christi (idest Ecclesia, que dicitur exercitus, quia continue habet pr
 
 <!-- p. 963 (1017) -->
 
-¹⁵ E, come è decto, a sua sposa soccorse\
+15 E, come è decto, a sua sposa soccorse\
 &emsp;Con duo campioni, al cui far, al cui dire,\
 &emsp;Lo popolo sviato si raccorse.
 
-¹⁵ Et, sicut dixi, sue sponse succucurrit\
+15 Et, sicut dixi, sue sponse succucurrit\
 &emsp;Cum duobus campionibus, ad quorum facere et dicere\
 &emsp;Populus devius se reduxit.
 
-¹⁶ In quella parte, ove sorge ad aprire\
+16 In quella parte, ove sorge ad aprire\
 &emsp;Zephiro dolce le novelle fronde,\
 &emsp;Di che si vede Europa rivestire,
 
-¹⁶ In illa parte, ubi surgit ad aperiendum\
+16 In illa parte, ubi surgit ad aperiendum\
 &emsp;Zephyrus dulcis novellas frondes,\
 &emsp;De quibus videtur Europa revestiri,
 
-¹⁷ Non molto lungi al percuoter dell'onde,\
+17 Non molto lungi al percuoter dell'onde,\
 &emsp;Dietro a le quali, per la lunga foga,\
 &emsp;Lo sol talvolta ad ogn' hom si nasconde,
 
-¹⁷ Non multo longe a percussione undarum,\
+17 Non multo longe a percussione undarum,\
 &emsp;Retro quas, propter longam faucem,\
 &emsp;Sol aliquando omnibus hominibus se abscondit,
 
-¹⁸ Siede la fortunata Kaleroga,\
+18 Siede la fortunata Kaleroga,\
 &emsp;Sotto la protection del grande scudo,\
 &emsp;In che subiace el leone e subioga.
 
-¹⁸ Sedit fortunata Galaroga,\
+18 Sedit fortunata Galaroga,\
 &emsp;Sub protectione grandis scuti,\
 &emsp;In quo subiacet leo et subiugat.
 
-¹⁹ Dentro vi nacque l'amoroso drudo\
+19 Dentro vi nacque l'amoroso drudo\
 &emsp;De la fede chrystiana, el grande athleta,\
 &emsp;Benigno a'suoi et a' nimici crudo;
 
-¹⁹ Intus natus est amorosus drudus\
+19 Intus natus est amorosus drudus\
 &emsp;Ad fidem christianam, sanctus athletha,\
 &emsp;Benignus suis et inimicis crudus;
 
-²⁰ E come fu creata, fu repleta\
+20 E come fu creata, fu repleta\
 &emsp;L'anima sua di divina virtute,\
 &emsp;Che ne la madre lei fece propheta.
 
-²⁰ Et sicut fuit creata, fuit repleta\
+20 Et sicut fuit creata, fuit repleta\
 &emsp;Sic sua mens divina virtute,\
 &emsp;Quod in matre eam fecit prophetam.
 
-²¹ Poi che le sponsalitie fur compiute\
+21 Poi che le sponsalitie fur compiute\
 &emsp;Al sacro fonte fra lui e la fede,\
 &emsp;U' si dotar di mutua salute;
 
-²¹ Postquam sponsalitie fuerunt complete\
+21 Postquam sponsalitie fuerunt complete\
 &emsp;Ad sacrum fontem inter ipsum et fidem,\
 &emsp;Ubi se dotaverunt de mutua salute;
 
@@ -248,67 +248,67 @@ Postquam sponsalitie fuerunt complete ad sacrum fontem inter ipsum et fidem (qui
 
 <!-- p. 964 (1018) -->
 
-²² La donna, che per lui l'assenso diede,\
+22 La donna, che per lui l'assenso diede,\
 &emsp;Vide nel sonno lo mirabil fructo\
 &emsp;Ch'uscir dovea di lui e delli herede:
 
-²² Domina, que pro eo dedit assensum,\
+22 Domina, que pro eo dedit assensum,\
 &emsp;Vidit in sompno mirabilem fructum\
 &emsp;Qui exire debebat de eo et de sua herede:
 
-²³ E perchè fusse, qual era, constructo,\
+23 E perchè fusse, qual era, constructo,\
 &emsp;Quinci si mosse spirito a nomarlo\
 &emsp;Del possessivo di cui era tutto.
 
-²³ Et hoc ut esset, qualis erat, constructio,\
+23 Et hoc ut esset, qualis erat, constructio,\
 &emsp;Inde se movit spiritus ad nominandum eum\
 &emsp;De possessivo cuius erat totus.
 
-²⁴ Domenico fu decto; et io ne parlo\
+24 Domenico fu decto; et io ne parlo\
 &emsp;Sì come dell'agricola, che Chrysto\
 &emsp;Elesse all'orto suo per aiutarlo.
 
-²⁴ Dominicus habuit nomen; et ego de ipso loquor\
+24 Dominicus habuit nomen; et ego de ipso loquor\
 &emsp;Sicut de agricola, quem Christus\
 &emsp;Elegit ad hortum suum ut eum iuvaret.
 
-²⁵ Ben parve messo e famigliar di Chrysto;\
+25 Ben parve messo e famigliar di Chrysto;\
 &emsp;Chè'l primo amor che'n lui fu manifesto,\
 &emsp;Fu al primo consiglo che diè Chrysto.
 
-²⁵ Bene apparuit nuntius Christi et familiaris;\
+25 Bene apparuit nuntius Christi et familiaris;\
 &emsp;Quia primus amor qui in eo fuit manifestus,\
 &emsp;Fuit ad primum consilium quod dedit Christus.
 
-²⁶ Spesse fiate fu tacito e desto\
+26 Spesse fiate fu tacito e desto\
 &emsp;Trovato in terra dalla sua nutrice,\
 &emsp;Come dicesse: Io so' venuto a questo.
 
-²⁶ Sepe fuit tacitus et destus\
+26 Sepe fuit tacitus et destus\
 &emsp;Repertus in terra a sua nutrice,\
 &emsp;Ac si diceret: Ego veni ad istud.
 
-²⁷ O padre suo veramente Felice!\
+27 O padre suo veramente Felice!\
 &emsp;O madre sua veramente Iohanna,\
 &emsp;Se interpretata val come si dice!
 
-²⁷ O pater eius vere Felix!\
+27 O pater eius vere Felix!\
 &emsp;O mater sua vere Ioanna,\
 &emsp;Si interpretata valet quantum dicitur!
 
-²⁸ Non per lo mondo, per cui mo' s'affanna\
+28 Non per lo mondo, per cui mo' s'affanna\
 &emsp;Dirietro ad Hostiense et a Taddeo,\
 &emsp;Ma per amor della verace manna,
 
-²⁸ Non propter mundum, pro quo modo affaticantur\
+28 Non propter mundum, pro quo modo affaticantur\
 &emsp;Retro Hostiensem et Tadeum,\
 &emsp;Sed propter amorem veracis manne,
 
-²⁹ In picciol tempo gran doctor si feo,\
+29 In picciol tempo gran doctor si feo,\
 &emsp;Tal che si misse a circuir la vigna,\
 &emsp;Che tosto imbianca, se 'l vignaio è reo.
 
-²⁹ In pauco tempore grandis doctor fuit factus,\
+29 In pauco tempore grandis doctor fuit factus,\
 &emsp;In tantum, quod se misit ad circuendum vineam,\
 &emsp;Que cito albescit, si vinitor est pravus.
 
@@ -328,63 +328,63 @@ Non propter mundum, pro quo modo affaticantur, idest laborantur, idest homines l
 
 <!-- p. 965 (1019) -->
 
-³⁰ Et a la sede, che fu già benigna\
+30 Et a la sede, che fu già benigna\
 &emsp;Più a' poveri giusti, non per lei,\
 &emsp;Ma per colui che siede e traligna,
 
-³⁰ Et ad sedem, que iam fuit benigna\
+30 Et ad sedem, que iam fuit benigna\
 &emsp;Plus pauperibus iustis, non pro ipsa,\
 &emsp;Sed propter illum qui sedet et tralignat,
 
-³¹ Non dispensare o due o tre per sei,\
+31 Non dispensare o due o tre per sei,\
 &emsp;Non la fortuna del primo vacante,\
 &emsp;Non decimas que sunt pauperum Dei,
 
-³¹ Non dispensare duo et tria pro sex,\
+31 Non dispensare duo et tria pro sex,\
 &emsp;Non fortunam prime vacantis,\
 &emsp;Non decimas que sunt pauperum Dei,
 
-³² Adunando; ma contra el mondo errante\
+32 Adunando; ma contra el mondo errante\
 &emsp;Licentia di combatter per lo seme\
 &emsp;Di che si fascian ventiquattro piante.
 
-³² Petivit; sed contra mundum errantem\
+32 Petivit; sed contra mundum errantem\
 &emsp;Licentiam pugnandi pro semine\
 &emsp;A quo fasciantur vigintiquatuor plante.
 
-³³ Poi con doctrina e con volere inseme\
+33 Poi con doctrina e con volere inseme\
 &emsp;Coll'oficio apostolico si mosse,\
 &emsp;Quasi torrente ch'alta vena preme;
 
-³³ Postea cum doctrina et cum voluntate simul\
+33 Postea cum doctrina et cum voluntate simul\
 &emsp;Officii apostolici se movit,\
 &emsp;Quasi torrens quem alta vena premit;
 
-³⁴ E nelli sterpi heretici percosse\
+34 E nelli sterpi heretici percosse\
 &emsp;L'impeto suo più vivamente quivi,\
 &emsp;Ove le resistentie eran più grosse.
 
-³⁴ Et in stipites hereticos percussit\
+34 Et in stipites hereticos percussit\
 &emsp;Impetus suus vivacius ibi,\
 &emsp;Ubi resistentie erant grossiores.
 
-³⁵ Di lui si fecer poi diversi rivi,\
-&emsp;Onde l'orto (¹) catholico si riga,\
-&emsp;Sì ch' e suoi arboscelli (²) stan più vivi.
+35 Di lui si fecer poi diversi rivi,\
+&emsp;Onde l'orto (1) catholico si riga,\
+&emsp;Sì ch' e suoi arboscelli (2) stan più vivi.
 
-³⁵ De eo facti fuerunt quamplures diversi rivi,\
+35 De eo facti fuerunt quamplures diversi rivi,\
 &emsp;Unde hortus catholicus rigatur,\
 &emsp;Ita quod sui arbusculi stant vivaciores.
 
-³⁶ Se tal fu l'una ruota de la biga,\
+36 Se tal fu l'una ruota de la biga,\
 &emsp;In che la sancta Chiesa si difese,\
 &emsp;E vinse in campo la sua civil briga,
 
-³⁶ Si talis fuit una rota bige,\
+36 Si talis fuit una rota bige,\
 &emsp;Super qua sancta Ecclesia se defendit,\
 &emsp;Et vincit in campo suam civilem brigam,
 
-(¹) Ecclesia — (²) Ecclesie.
+(1) Ecclesia — (2) Ecclesie.
 
 Et ad sedem, que iam fuit benigna plus pauperiibus iustis, non pro ipsa, idest non defectu ipsius sedis, sed propter illum qui sedet et tralignat, idest deviat, delirat, et recedit a moribus Sanctorum Patrum; non dispensare duo et tria pro sex, idest quinque pro sex, idest non petiit dispensationem transeundi de uno Ordine ad alium, propter fugere iugum obedientie, vel ut melioretur; non fortunam prime vacantis (quia sepe accidit quod impetrans moritur antequam ille qui possidet; ideo auctor vocat fortunam illud expectare), non decimas que sunt pauperum Dei (idest hec non petiit, Sanctus Dominicus, nec impetravit a Papa), petivit (a Sede Apostolica, supple), sed contra mundum, idest homines errantes et hereticos, licentiam, scilicet impetravit, pugnandi, scilicet predicandi, disputandi pro semine, idest pro Verbo Dei, quod est semen, ut habetur in Evangelio, a quo fasciantur, idest vestiuntur, vigintiquatuor plante. Aliqui dicunt vigintiquatuor libri veteris Testamenti; sed ego dico quod debent dici vigintiquatuor anime, que sunt in illis duabus coronis, ut supra dictum est sepe, et inter illas vigintiquatuor animas sunt viginti doctores solempnes.
 
@@ -396,55 +396,55 @@ Si talis fuit una rota bige. Se tal fu l'una rota de la biga: ista est tertia pa
 
 <!-- p. 966 (1020) -->
 
-³⁷ Ben ti dovrebbe assai esser palese\
-&emsp;L'excellentia dell'altra (¹), di cui Thomma\
+37 Ben ti dovrebbe assai esser palese\
+&emsp;L'excellentia dell'altra (1), di cui Thomma\
 &emsp;Dinanzi al mio venir fu sì cortese.
 
-³⁷ Bene deberet tibi satis esse patefacta\
+37 Bene deberet tibi satis esse patefacta\
 &emsp;Excellentia alterius, de qua Thomas\
 &emsp;Ante meum venire fuit curialis.
 
-³⁸ Ma l'orbita, che fe' la parte somma\
+38 Ma l'orbita, che fe' la parte somma\
 &emsp;Da sua circunferentia, è derelicta,\
 &emsp;Sì che è la muffa dov'era la gromma.
 
-³⁸ Sed orbitas, quam fecit pars summa\
+38 Sed orbitas, quam fecit pars summa\
 &emsp;Sue circumferentie, est derelicta,\
 &emsp;Ita quod est muffa ubi erat grumma.
 
-³⁹ La sua famigla, che si mosse dricta\
+39 La sua famigla, che si mosse dricta\
 &emsp;Co' piedi a le sue orme, è tanto volta,\
 &emsp;Che quel dinanzi a quel dirieto gitta;
 
-³⁹ Sua familia, que se movit recta\
+39 Sua familia, que se movit recta\
 &emsp;Cum pedibus ad suas ormas, est tantum revoluta,\
 &emsp;Quod ille qui precedit ad illum qui sequitur proiicit;
 
-⁴⁰ Ma tosto s'avvedrà de la ricolta\
+40 Ma tosto s'avvedrà de la ricolta\
 &emsp;De la mala cultura, quando el gioglo\
 &emsp;Si lagnerà che l'archa li sia tolta.
 
-⁴⁰ Cito perpendetur de ricolta\
+40 Cito perpendetur de ricolta\
 &emsp;Male culture, quando lolium\
 &emsp;Lamentabitur quod archa sit sibi subrepta.
 
-⁴¹ Ben dico, chi cercasse a foglo a foglo\
+41 Ben dico, chi cercasse a foglo a foglo\
 &emsp;Nostro volume, ancor troverà carta\
 &emsp;U' leggerebbe: Io mi son quel ch'io soglo.
 
-⁴¹ Bene dico, quod si quis quereret de folio ad folium\
+41 Bene dico, quod si quis quereret de folio ad folium\
 &emsp;Nostrum volumen, adhuc reperiret cartam\
 &emsp;Ubi legeret: Ego sum illud quod soleo esse.
 
-⁴² Ma non fie da Casale, nè d'Aquasparta,\
+42 Ma non fie da Casale, nè d'Aquasparta,\
 &emsp;Là onde vegnan tali a la Scriptura,\
 &emsp;Ch'un la fugge, e l'altro la coarta.
 
-⁴² Sed non erit de Casali, neque de Aquasparta,\
+42 Sed non erit de Casali, neque de Aquasparta,\
 &emsp;Unde veniunt tales ad Scripturam,\
 &emsp;Quod unus illam fugit et alius eam coartat.
 
-(¹) rota, Francesco.
+(1) rota, Francesco.
 
 habens duas rotas, per quam bigam figuratur Ecclesia sancta Dei militans, ut dictum est in Purgatorio capitulo vigesimonono), super qua Ecclesia sancta se defendit et vincit in campo suam civilem brigam, idest suum civile bellum. Nam christiani heretici pugnant cum catholicis, et sic est civile bellum, cum omnes christiani sint, vel saltem deberent esse, cives unius civitatis, scilicet Hierusalem, que sursum est mater nostra.
 
@@ -462,43 +462,43 @@ Sed non erit de Casali neque de Aquasparta (Casali est unum oppidum in Pedemonti
 
 <!-- p. 967 (1021) -->
 
-⁴³ Io fui la vita di Buonaventura\
+43 Io fui la vita di Buonaventura\
 &emsp;Da Bagnoreio, che ne' grandi offici\
 &emsp;Sempre postposi la sinistra cura.
 
-⁴³ Ego sum vita Bonaventure\
+43 Ego sum vita Bonaventure\
 &emsp;De Balneo Regio, qui in magnis officiis\
 &emsp;Semper postposui sinistram curam.
 
-⁴⁴ Illuminato et Augustin son quici,\
+44 Illuminato et Augustin son quici,\
 &emsp;Che fur de' primi scalzi poverelli,\
 &emsp;Che nel capestro a Dio si fero amici.
 
-⁴⁴ Illuminatus et Augustinus sunt hic,\
+44 Illuminatus et Augustinus sunt hic,\
 &emsp;Qui fuerunt de primis discalciatis pauperculis,\
 &emsp;Qui in capistro Deo se fecerunt amicos.
 
-⁴⁵ Ugo de San Victore è qui con elli,\
+45 Ugo de San Victore è qui con elli,\
 &emsp;E Pietro Mangiatore, e Pietro Spano\
 &emsp;El qual giù luce in dodici libelli;
 
-⁴⁵ Hugo de Sancto Victore est hic cum ipsis,\
+45 Hugo de Sancto Victore est hic cum ipsis,\
 &emsp;Et Petrus Comestor, et Petrus Hispanus\
 &emsp;Qui iam lucet in duodecim libellis;
 
-⁴⁶ Natan propheta e 'l metropolitano\
+46 Natan propheta e 'l metropolitano\
 &emsp;Crysostimo, et Anselmo, e quel Donato\
 &emsp;Ch' a la prima arte degnò poner mano;
 
-⁴⁶ Nathan propheta, metropolitanus\
+46 Nathan propheta, metropolitanus\
 &emsp;Crisostomus, et Anselmus, et ille Donatus\
 &emsp;Qui prime arti dignatus est ponere manum;
 
-⁴⁷ Rabano è qui, e lucemi da lato\
+47 Rabano è qui, e lucemi da lato\
 &emsp;Il Calavrese abbate Ioachino,\
 &emsp;Di spirito prophetico dotato.
 
-⁴⁷ Rabanus est hic, et lucet michi prope\
+47 Rabanus est hic, et lucet michi prope\
 &emsp;Calabrensis Abbas Ioachinus,\
 &emsp;De spiritu prophetico dotatus.
 
@@ -516,12 +516,12 @@ Rabanus est hic (fuit frater Bede, magnus poeta et sufficiens in Sacra Pagina), 
 
 <!-- p. 968 (1022) -->
 
-⁴⁸ Ad inveggiar cotanto paladino\
+48 Ad inveggiar cotanto paladino\
 &emsp;Mi mosse la infiammata cortesia\
 &emsp;Di fra Tommaso, e ‘l discreto latino;\
 &emsp;E mosse meco questa compagnia.
 
-⁴⁸ Ad invidendum tanto palatino\
+48 Ad invidendum tanto palatino\
 &emsp;Movit me inflammata curialitas\
 &emsp;Fratris Thome, et discretum latinum;\
 &emsp;Et movit mecum istam sotietatem.

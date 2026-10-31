@@ -8,19 +8,19 @@ In isto vicesimoprimo capitulo, quod incipit: Sitis naturalis, que nunquam, etc.
 
 # Capitulum Vicesimumprimum
 
-¹ La sete natural che mai non satia,\
+1 La sete natural che mai non satia,\
 &emsp;Se non coll'acqua onde la femminetta\
 &emsp;Sammaritana dimandò la gratia,
 
-¹ Sitis naturalis que nunquam satiatur,\
+1 Sitis naturalis que nunquam satiatur,\
 &emsp;Nisi cum aqua cum qua muliercula\
 &emsp;Samaritana petiit gratiam,
 
-² Mi travaglava, e pungèmi la frecta\
+2 Mi travaglava, e pungèmi la frecta\
 &emsp;Per la 'mpacciata via dictr'al mio duca,\
 &emsp;E conduceami a la giusta vendecta.
 
-² Me movebat, et pungebat me festinantia\
+2 Me movebat, et pungebat me festinantia\
 &emsp;Per impeditam viam, retro meum ducem,\
 &emsp;Et condolebam iuste vindicte.
 
@@ -42,55 +42,55 @@ auctor manifestat Virgilium illi spiritui predicto. Primo tamen auctor continuat
 
 <!-- p. 667 (0721) -->
 
-³ Et ecco, sì come ne scrive Luca (¹)\
+3 Et ecco, sì come ne scrive Luca (1)\
 &emsp;Che Christo apparve a' due ch'eran in via,\
-&emsp;Già surto (²) fuor de la sepolcral buca,
+&emsp;Già surto (2) fuor de la sepolcral buca,
 
-³ Ecce, sicut scribit Lucas\
+3 Ecce, sicut scribit Lucas\
 &emsp;Quod Christus apparuit duobus qui erant in via,\
 &emsp;Iam resurgens a sepulchrali monumento,
 
-⁴ Ci apparve un'ombra, e dietro a noi venia,\
+4 Ci apparve un'ombra, e dietro a noi venia,\
 &emsp;Dal piè guardando la turba che giace;\
 &emsp;Nè ci addemmo di lei, sì parlò pria,
 
-⁴ Sic apparuit nobis una umbra, et retro nos veniebat,\
+4 Sic apparuit nobis una umbra, et retro nos veniebat,\
 &emsp;Ad pedes respiciendo turbam que iacet;\
 &emsp;Nec perpendimus de ea, ita locuta est prius,
 
-⁵ Dicendo (³): Frati miei, Dio vi dia pace.\
+5 Dicendo (3): Frati miei, Dio vi dia pace.\
 &emsp;Noi ci volgèmo subito, e Virgilio\
 &emsp;Rendè lui cenno che a ciò si conface.
 
-⁵ Dicens: Fratres mei, Deus vobis det pacem.\
+5 Dicens: Fratres mei, Deus vobis det pacem.\
 &emsp;Nos convertimus nos subito, et Virgilius\
 &emsp;Reddidit responsum quod tali dicto convenit.
 
-⁶ Poi cominciò (⁴): Nel beato concilio\
+6 Poi cominciò (4): Nel beato concilio\
 &emsp;Ti ponga in pace la verace corte,\
 &emsp;Che mi rilegha nell'eterno esilio.
 
-⁶ Postea incepit dicere: In beato concilio\
+6 Postea incepit dicere: In beato concilio\
 &emsp;Te ponat in pace verax curia,\
 &emsp;Que me religat in eterno exilio.
 
-⁷ Come! diss'elli, e parte (⁵) andavàn forte;\
+7 Come! diss'elli, e parte (5) andavàn forte;\
 &emsp;Se voi sete ombre che Dio su non degni,\
 &emsp;Chi v'à per la sua scala tante scorte?
 
-⁷ Quomodo! dixit ipse, et nos ibamus fortiter;\
+7 Quomodo! dixit ipse, et nos ibamus fortiter;\
 &emsp;Si vos estis umbre quas Deus superius non dignetur,\
 &emsp;Quis vos per suas scalas tantum conduxit?
 
-⁸ E 'l doctor mio (⁶): Se tu riguardi a'segni\
+8 E 'l doctor mio (6): Se tu riguardi a'segni\
 &emsp;Che questi porta e che l'angel profila,\
 &emsp;Ben vedrai che cho'buon convien che regni.
 
-⁸ Et doctor meus: Si tu respicis signa\
+8 Et doctor meus: Si tu respicis signa\
 &emsp;Que iste portat et que angelus profilat,\
 &emsp;Bene videbis quod cum bonis convenit quod regnet.
 
-(¹) cap. XXIV — (²) risuscitato — (³) o — (⁴) Virgilio — (⁵) al. per te — (⁶) Virgilio.
+(1) cap. XXIV — (2) risuscitato — (3) o — (4) Virgilio — (5) al. per te — (6) Virgilio.
 
 quem Christus fatigatus ex itinere, sedebat. Venit una mulier Samaritana, idest de Samaria, haurire aquam, a qua Christus petiit aquam ad bibendum. Cui dixit mulier Samaritana: Quomodo tu poscis a me aquam, cum Iudeus sis, et ego mulier Samaritana? Nam Samaritani non comunicabant cum Iudeis. Cui Christus dixit: O mulier, si scires donum Dei, et quis est qui a te petit aquam, forsan tu petisses ab eo. Cui dixit mulier: Neque unde haurias habes, et puteus altus est. Cui dixit Christus: Qui biberit ex hac aqua, sitiet iterum; sed qui biberit ex aqua quam ego ei dabo, non sitiet in eternum, sed fiet in eo fons aque salientis in vitam eternam. Quod intelligitur de gratia Dei gratum faciente.
 
@@ -108,55 +108,55 @@ Et doctor, supple ait: Si tu respicis signa que iste portat, idest peccata que d
 
 <!-- p. 668 (0722) -->
 
-⁹ Ma per colei (¹) che dì e nocte fila.\
+9 Ma per colei (1) che dì e nocte fila.\
 &emsp;Non gli havea tracto ancora la conochia,\
 &emsp;Che Cloto impone a ciascuno e compila,
 
-⁹ Sed quia illa que die ac nocte net,\
+9 Sed quia illa que die ac nocte net,\
 &emsp;Non ei adhuc traxerat pensum,\
 &emsp;Quod Cloto imponit cuilibet et compilat,
 
-¹⁰ L'anima sua, ch'è tua e mia sirochia,\
+10 L'anima sua, ch'è tua e mia sirochia,\
 &emsp;Venendo su non potea venir sola;\
 &emsp;Però ch'al nostro mondo non adochia.
 
-¹⁰ Anima sua, que est tua et mea soror,\
+10 Anima sua, que est tua et mea soror,\
 &emsp;Veniendo sursum, non poterat venire sola;\
 &emsp;Quia ad modum nostrum non respicit.
 
-¹¹ Ond'io fui tracto fuor dell'ampia gola\
+11 Ond'io fui tracto fuor dell'ampia gola\
 &emsp;D'Inferno, per mostrarli, e mostrerolli,\
-&emsp;Oltra, quanto'l potrà menar(²) mia scola.
+&emsp;Oltra, quanto'l potrà menar(2) mia scola.
 
-¹¹ Unde ego fui tractus extra amplam gulam\
+11 Unde ego fui tractus extra amplam gulam\
 &emsp;Inferni, ut sibi monstrem, et monstrabo,\
 &emsp;Ultra, quantum poterunt ducere mee scole.
 
-¹² Ma dimmi, se tu sai, perchè tai crolli\
+12 Ma dimmi, se tu sai, perchè tai crolli\
 &emsp;Diè dianzi 'l monte, e perchè tucto ad una\
 &emsp;Parve gridar infin a' suo' piè molli?
 
-¹² Sed dic michi, si tu scis, quare tales motus\
+12 Sed dic michi, si tu scis, quare tales motus\
 &emsp;Dedit paulo ante mons, et quare omnes simul\
 &emsp;Visi sunt clamare usque ad eius pedes molles?
 
-¹³ Sì mi diè, domandando, per la cuna\
+13 Sì mi diè, domandando, per la cuna\
 &emsp;Del mio desio, che pur colla speranza\
 &emsp;Fece allor la mia sete men digiuna.
 
-¹³ Sic michi dedit, interrogando, per crunam\
+13 Sic michi dedit, interrogando, per crunam\
 &emsp;Mei desiderii, quod solum michi cum spe\
 &emsp;Facta fuit mea sitis minus ieiuna.
 
-¹⁴ Quei cominciò: Cosa non è che sanza\
+14 Quei cominciò: Cosa non è che sanza\
 &emsp;Ordine senta la religïone\
 &emsp;De la montagna, o che sia fuor d'usanza.
 
-¹⁴ Ille incepit: Res non est quam sine\
+14 Ille incepit: Res non est quam sine\
 &emsp;Ordine sentiat religio\
 &emsp;Montanee, vel que sit extra usum.
 
-(¹) al. perchè lei, cioè Lachesis — (²) al. condur.
+(1) al. perchè lei, cioè Lachesis — (2) al. condur.
 
 Sed quia illa, que die ac nocte net, non ei adhuc traxerat pensum, quod Cloto imponit cuilibet et compilat (vult dicere quod adhuc non erant completi dies Dantis, quia adhuc vivebat vita presenti, sive istius mundi. Vult dicere Virgilius Statio: Vide: ego sum dampnatus; sed ille debet venire ad salvationem, nec ipse poterat venire huc sine duce, quia est adhuc cum onere corporis. Hic loquitur Poeta poetice. Finguntur tria [fata] a poetis, scilicet Cloto, Lachesis et Antrops. Cloto colum baiulat; Lachesis net; Antrops occat, fatum est influentia celi. Cloto e[s]t generatio, sive nativitas; Lachesis est tractus vite, Antrops est mors: Cloto est productio rerum de non esse ad esse; Lachesis est spatium vite; Antrops, sine conversione, est mors, a qua non est conversio, idest non conversio. Illa fata figurantur in figura trium feminarum, quarum prima stat in celo sine filare: alia filat; producitur et elongatur scilicet vita nostra, et volvitur de die in diem sicut filum circa fusum: Antrops facit ultimum nodum filo, quando [non] est plus de lino vel lana in colo. Vult dicere auctor, quod Lachesis adhuc habebat quod filaret de lino vel de lana, quia dies Dantis non erant completi), anima sua, que est tua et soror mea, veniendo sursum, non poterat venire sola, quia ad modum nostrum non adocchiat, idest non respicit. Aliqui dicunt hic, quod Virgilius dicit omnes animas esse sorores; sed sic esset nimis larga loquutio, quia create sunt ab uno et eodem Creatore, et esset talis colloquutio nimis a longe a sensu auctoris. Sed vult dicere Virgilius, quod anima Dantis est soror Virgilii anime et Statii, ratione dilectionis et professionis; nam auctor precipue dilexit istos duos poetas, scilicet Virgilium et Statium, magis quam alios auctores, et plus honoris fecit sibi: sed anima Dantis, quia est coniuncta corpori, adocchiat, idest respicit, sic nos; idest non videt oculo modo [nostro]. Oculus intellectualis videt subtilius quando anima est separata a corpore, quam quando est coniuncta.
 
@@ -172,63 +172,63 @@ Tunc respondens illa umbra dicebat, quod in illo monte nil eveniebat sine ordine
 
 <!-- p. 669 (0723) -->
 
-¹⁵ Libero è qui da ogni alteratione:\
+15 Libero è qui da ogni alteratione:\
 &emsp;Di quel che 'l ciel da sè in sè riceve\
 &emsp;Esser ci puote, e non d'altra cagione:
 
-¹⁵ Liberum est hic ab omni alteratione:\
+15 Liberum est hic ab omni alteratione:\
 &emsp;Illius quod celum a se in se recipit\
 &emsp;Esse hic potest, et non alterius, causa:
 
-¹⁶ Perchè non pioggia, non grandine, non neve\
+16 Perchè non pioggia, non grandine, non neve\
 &emsp;Non rugiada, non brina, più su cade,\
 &emsp;Che la scaletta di tre gradi breve.
 
-¹⁶ Ex quo non pluvia, nec grando, nec nix,\
+16 Ex quo non pluvia, nec grando, nec nix,\
 &emsp;Non ros, non pruina, plus supra cadit,\
 &emsp;Quam scalecta de tribus gradibus brevibus.
 
-¹⁷ Nuvole spesse non paion, nè rade,\
+17 Nuvole spesse non paion, nè rade,\
 &emsp;Nè corruscar, nè figla di Thaumante\
 &emsp;Che di là cangia soventi contrade.
 
-¹⁷ Nubes dempse non apparent, neque rare,\
+17 Nubes dempse non apparent, neque rare,\
 &emsp;Non corruscationes, non filia Thaumantis\
 &emsp;Que in mundo mutat sepe contratas.
 
-¹⁸ Seccho vapor non sorge più avante\
+18 Seccho vapor non sorge più avante\
 &emsp;Ch'al sommo de' tre gradi ch'io parlai,\
 &emsp;Dov'à il vicario di Pietro le piante.
 
-¹⁸ Siccus vapor non surgit magis ante\
+18 Siccus vapor non surgit magis ante\
 &emsp;Quam summitatem trium graduum de quibus locutus fui,\
 &emsp;Ubi habet vicarius Petri planetas.
 
-¹⁹ Trema forse più giù poco o assai;\
+19 Trema forse più giù poco o assai;\
 &emsp;Ma per vento che 'n terra si nasconda,\
 &emsp;Non so come, quassù non tremò mai:
 
-¹⁹ Tremit forsan magis infra parum vel satis;\
+19 Tremit forsan magis infra parum vel satis;\
 &emsp;Sed propter ventum qui in terra abscondatur,\
 &emsp;Nescio qualiter, hic sursum nunquam tremuit:
 
-²⁰ Tremaci quando alcun'anima monda\
+20 Tremaci quando alcun'anima monda\
 &emsp;Sentesi, sì che surga, o che si mova\
-&emsp;Per salir su, e tal grido (¹) seconda (²).
+&emsp;Per salir su, e tal grido (1) seconda (2).
 
-²⁰ Tremit hic quando aliqua anima munda\
+20 Tremit hic quando aliqua anima munda\
 &emsp;Sentiat se, que surgit, vel que se moveat\
 &emsp;Propter ascendere sursum, et talis clamor sequitur.
 
-²¹ Dell'immonditia solver si fa prova,\
+21 Dell'immonditia solver si fa prova,\
 &emsp;Che, tutt'è libero a mutar convento,\
 &emsp;L'alma sorpiendo, e di volar le giova.
 
-²¹ De [im]munditia solvenda fit experientia,\
+21 De [im]munditia solvenda fit experientia,\
 &emsp;Que, tota libera ad mutandum conventum,\
 &emsp;Anima sursum apprehenditur, et volare ei prodest.
 
-(¹) gloria eius. — (²) seguita.
+(1) gloria eius. — (2) seguita.
 
 Res non est, quam sine ordine sentiat religio montanee, vel que sit extra usum. Bene respondet Statius, quod terremotus, nulla alteratio, nec aliqua peregrina impressio, que accidunt in mundo superiori, possunt accidere ibi in Purgatorio murato: quia nec ros, pruina, aqua, nix, aut grando ibi esse possunt; sed causa venit aliunde. Quasi dicat: Hic non est casualis punctus, nec aliquid evenit sine deliberata causa. Bene dicit: In hac religione, quia ille anime, que hic puniuntur, sunt sub certa lege et religione, sicut sunt Religiosi in suis Ordinibus. Liberum est hic ab omni alteratione; illius quod celum a se in se recipit, esse hic potest, et non alterius, [causa], quia ab introitu Purgatorii murati supra nihil cadit de impressionibus illis, sicut sunt aqua, nix, etc. Ex quo non pluvia, non grando, non nix, non ros, non pruina, plus supra cadunt, quam scalecta de tribus gradibus brev[ibus].
 
@@ -242,55 +242,55 @@ De [im]munditia solvenda fit experientia, que, tota libera ad mutandum conventum
 
 <!-- p. 670 (0724) -->
 
-²² Prima vuol ben; ma non la lassa el tento,\
+22 Prima vuol ben; ma non la lassa el tento,\
 &emsp;Chè divina iustitia contra vogla,\
 &emsp;Come fu al peccar, pon al tormento.
 
-²² Prius vult bonum; sed postea dimictit desiderium,\
+22 Prius vult bonum; sed postea dimictit desiderium,\
 &emsp;Quia divina iustitia contra voluntatem,\
 &emsp;Sicut fuit ad peccandum, ponit ad tormentum.
 
-²³ Et io che son giaciuto a questa dogla\
+23 Et io che son giaciuto a questa dogla\
 &emsp;Cinquecent'anni e più, pur mo'sentii\
 &emsp;Libera volontà di miglior sogla.
 
-²³ Et ego qui iacui in isto dolore\
+23 Et ego qui iacui in isto dolore\
 &emsp;Quingentis annis et ultra, solum nunc sensi\
 &emsp;Liberam voluntatem melioris ascensus.
 
-²⁴ Però sentisti el terremoto, e pii\
+24 Però sentisti el terremoto, e pii\
 &emsp;Spiriti per lo monte render lode\
 &emsp;A quel Signor, che tosto su l'invii.
 
-²⁴ Ideo sentisti terremotum, et pios\
+24 Ideo sentisti terremotum, et pios\
 &emsp;Spiritus per montem reddere laudes\
 &emsp;Illi Domino, qui cito ipsos sursum conducat.
 
-²⁵ Così ne disse; e però che 'l si ghode\
+25 Così ne disse; e però che 'l si ghode\
 &emsp;Tanto del ber quant'è grande la sete,\
 &emsp;Nol saprei dir quanto mi fece prode.
 
-²⁵ Sic dixit ei; et quia homo gaudet\
+25 Sic dixit ei; et quia homo gaudet\
 &emsp;Tantum de potu, quantum grandis est sitis,\
 &emsp;Nescirem dicere quantum michi profuit.
 
-²⁶ E 'l savio duca: Omai veggio la rete\
+26 E 'l savio duca: Omai veggio la rete\
 &emsp;Che qui v'impigla, e come si scalappia,\
 &emsp;Perchè ci trema, e di che congaudete.
 
-²⁶ Et sapiens dux: Ammodo video rethe\
+26 Et sapiens dux: Ammodo video rethe\
 &emsp;Quod hic vos capit, et quomodo scalappiat,\
 &emsp;Quare hic tremit, et de quo congaudetis.
 
-²⁷ Hora chi foste (¹) piacciati ch'io sappia,\
+27 Hora chi foste (1) piacciati ch'io sappia,\
 &emsp;E, perchè cotanti secoli giaciuto\
 &emsp;Qui se', ne le parole tue mi cappia.
 
-²⁷ Nunc qui fuisti precor te ut sciam,\
+27 Nunc qui fuisti precor te ut sciam,\
 &emsp;Et quare per tot secula hic iacuisti,\
 &emsp;Per tua verba ego capiam.
 
-(¹) al. fosti.
+(1) al. fosti.
 
 Prius vult bonum; sed postea dimictit desiderium, quia divina iustitia, contra voluntatem, sicut fuit ad peccandum, ponit ad tormentum.
 
@@ -308,39 +308,39 @@ Nunc qui fuisti, precor te ut sciam, et quare per tot secula, idest annos, hic i
 
 <!-- p. 671 (0725) -->
 
-²⁸ Nel tempo che 'l buon Tyto (¹) coll'aiuto\
-&emsp;Del sommo rege (²) vendicò le fora (³)\
-&emsp;Ond'uscì 'l sangue (⁴) per Giuda (⁵) venduto,
+28 Nel tempo che 'l buon Tyto (1) coll'aiuto\
+&emsp;Del sommo rege (2) vendicò le fora (3)\
+&emsp;Ond'uscì 'l sangue (4) per Giuda (5) venduto,
 
-²⁸ In tempore quo bonus Titus cum adiutorio\
+28 In tempore quo bonus Titus cum adiutorio\
 &emsp;Summi regis vindicavit foramina,\
 &emsp;Unde exivit sanguis per Iudam venditus,
 
-²⁹ Col nome (⁶) che più dura e più honora\
-&emsp;Er'io di là, rispose quello spirto (⁷),\
+29 Col nome (6) che più dura e più honora\
+&emsp;Er'io di là, rispose quello spirto (7),\
 &emsp;Famoso assai, ma non con fede ancora.
 
-²⁹ Cum nomine quod plus durat et plus honorat\
+29 Cum nomine quod plus durat et plus honorat\
 &emsp;Eram ego in mundo, respondit ille spiritus,\
 &emsp;Famosus satis, sed non [cum] fide adhuc.
 
-³⁰ Tanto fu dolce mio vocale spirto,\
+30 Tanto fu dolce mio vocale spirto,\
 &emsp;Che, Tholosano, a sè mi trasse a Roma,\
 &emsp;Dove mertai le tempia ornar di mirto.
 
-³⁰ Tantum fuit dulce meum vocale spiramen,\
+30 Tantum fuit dulce meum vocale spiramen,\
 &emsp;Quod, Tholosanum, ad se me traxit Roma,\
 &emsp;Ubi merui tympora mea ornari mirto.
 
-³¹ Statio di là la gente ancor mi noma;\
-&emsp;Cantai di Thebe (⁸), e poi del grande Achylle (⁹),\
-&emsp;Ma caddi in via co'la seconda soma (¹⁰).
+31 Statio di là la gente ancor mi noma;\
+&emsp;Cantai di Thebe (8), e poi del grande Achylle (9),\
+&emsp;Ma caddi in via co'la seconda soma (10).
 
-³¹ Statium gens adhuc in mundo me nominat:\
+31 Statium gens adhuc in mundo me nominat:\
 &emsp;Cantavi de Thebis, et postea de grandi Achille,\
 &emsp;Sed cecidi in viam cum secunda salma.
 
-(¹) Imperadore — (²) Dio — (³) piaghe di Cristo — (⁴) di Christo — (⁵) Schariotho — (⁶) di poeta — (⁷) di Statio — (⁸) in Thebayde — (⁹) in Achylleide — (¹⁰) Achylleide.
+(1) Imperadore — (2) Dio — (3) piaghe di Cristo — (4) di Christo — (5) Schariotho — (6) di poeta — (7) di Statio — (8) in Thebayde — (9) in Achylleide — (10) Achylleide.
 
 Iam auctor describit tempus, quo iste Statius venit Romam; quod fuit tempore Titi et Vespasiani, qui fecerunt ultionem de morte Iesu Christi. Dicit se esse poetam. Et ad intelligentiam dicendorum, nota quod quadragesimo anno a paxione Christi, tempore Neronis, Iudea se rebellavit Romanis. Nero volens ulcisci de tali rebellione, et adhibito consilio in Senatu, consultum fuit et deliberatum, quod micteret Vespasianum, virum utique probissimum, prudentissimum militem, et valde virtuosum. Potentia Iudee erat bene magna, precipue in Hierusalem, que erat caput regni illius. Tunc iste Vespasianus cum magno exercitu supervenit in Hierusalem, et obsedit eam, et destruxit circumstantes civitates et castra circumiacentia. Et cum obsiderit civitatem Hierusalem cum magna prudentia, supervenit novum, quod Nero erat mortuus, et factus est in campo tumultus magnus, in quo tumultu omnes Romani, qui erant ibi, quasi tota nobilitas romane civitatis, [clamavit]: Vivat Imperator Vespasianus. Ipse, quia erat senex, nolebat acceptare. Tunc dixerunt: Nisi acceptas, interficiemus te. Quo audito, consensit eorum voluntati; et ibi, in obsidione dimisit filium suum Titum, virum utique non degenerantem a patre, virtuosum valde, etc. Ipse vero ivit Romam. Romani scientes quod erat in campo obsidionis Hierosolime, et scientes virtutem ipsius Vespasiani, approbaverunt quidquid actum fuerat in campo et receperunt eum in Imperatorem. Ipse vixit duodecim annis in Imperio, nisi duobus annis Titus. Ergo in campo remanens per multos menses, expugnavit Hierusalem, et fecit magnam stragem hominum, et vendi fecit quasi innumerabilem populum, et adimplevit prophetiam, quam Christus fecerat dum dixit: O Hierusalem, si scivisses et tu, etc., quia venient dies in te, et circumdabunt te inimici tui vallo, et coangustabunt te, et non relinquent in te lapidem super lapidem, eo quod non cognoveris tempus visitationis tue. Proculdubio vindicta fuit facta de morte Christi, et sic voluit Deus fieri. Non credo tamen, quod sic fuerit hac de causa a Romanis destructa civitas Hierosolime, idest quod amore Christi hoc fecerunt Romani: quia omnes Imperatores a Iulio Celso, sive Cesare, usque ad Constantinum, fuerunt, si rite memini, triginta Imperatores, quorum nemo fuit christianus, nisi Philippus: sed hoc fecerunt propter rebellionem quam fecerunt Iudei. Aliqui tamen dicunt, quod Vespasianus patiebatur infirmitatem in naribus, quod de ipsis exibant vespes, et quod fuit sibi dictum, quod si crederet in Christum, liberaretur; quod evenit. De hoc non est disputandum ad presens. Hoc verum est, quod Titus Vespasianus, idest filius Vespasiani, cum exercitu Romanorum destruxit Hierusalem; cuius tempore, sive cuius imperii tempore, iste Statius, oriundus de Tholosana civitate, qui fuit poeta magnus, composuit libros Thebaydos. Hic fuit tante fame, quod Romani voluerunt quod veniret; quo vento, et propter suum valorem et propter sua opera fuit coronatus mirto, ut valens et excellens poeta. Unde Romani quasi omnes dilexerunt eum, ita quod propter excellentiam sue sapientie ipse traxit omnes Romanos ad amorem suum. Nota quod poete coronabantur mirto et lauro, que arbores semper habent folia. Sunt arbores odorifere. Laurus nunquam fulminatur, ad denotandum quod nulla violentia potest vincere famam poetarum. Mirto est arbor valida et habet saporem amarum, ad denotandum acumen et ardorem ingenii poetici.
 
@@ -352,63 +352,63 @@ Statium gens adhuc in mundo me nominat: cantavi de Thebis in civitate Thebarum, 
 
 <!-- p. 672 (0726) -->
 
-³² Al mio ardor fur seme le faville,\
+32 Al mio ardor fur seme le faville,\
 &emsp;Che mi scaldar, de la divina fiamma,\
 &emsp;Onde son allumati più di mille;
 
-³² Meo ardori fuerunt semen faville,\
+32 Meo ardori fuerunt semen faville,\
 &emsp;Que me calefecerunt de divina flamma,\
 &emsp;Unde sunt illuminati plusquam mille;
 
-³³ Dell'Eneyde dico, la qual mamma\
+33 Dell'Eneyde dico, la qual mamma\
 &emsp;Fummi, e fummi nutrice poetando:\
 &emsp;Senz'essa non fei mai peso di dramma.
 
-³³ Eneydos dico, que mamma\
+33 Eneydos dico, que mamma\
 &emsp;Fuit michi, nutrix et fuit michi poetando;\
 &emsp;Sine ipsa non firmavi pondus dragme.
 
-³⁴ E per esser vixuto di là quando\
-&emsp;Vixe Virgilio, assentirei (¹) un sole (²)\
+34 E per esser vixuto di là quando\
+&emsp;Vixe Virgilio, assentirei (1) un sole (2)\
 &emsp;Più che non deggio al mio uscir di bando.
 
-³⁴ Et ut vixissem in mundo quando\
+34 Et ut vixissem in mundo quando\
 &emsp;Vixit Virgilius, assentirem unum solem\
 &emsp;Plusquam debeam meo exire de banno.
 
-³⁵ Volsen Virgilio a me (³) queste parole (⁴)\
+35 Volsen Virgilio a me (3) queste parole (4)\
 &emsp;Con viso che, tacendo, disse: Taci:\
 &emsp;Ma non può tucto la virtù che vuole;
 
-³⁵ Volverunt Virgilium ad me ista verba\
+35 Volverunt Virgilium ad me ista verba\
 &emsp;Cum viso qui, tacendo, dixit: Taceas:\
 &emsp;Sed non potest totum virtus quod vult;
 
-³⁶ Chè riso e pianto son tanto seguaci\
-&emsp;A la passion da che (⁵) ciascun si spiccha,\
+36 Chè riso e pianto son tanto seguaci\
+&emsp;A la passion da che (5) ciascun si spiccha,\
 &emsp;Che men seguen voler ne' più veraci.
 
-³⁶ Quia risus et planctus sunt ita sequaces\
+36 Quia risus et planctus sunt ita sequaces\
 &emsp;Ad paxionem cui quilibet applicatur,\
 &emsp;Quod minus sequuntur voluntates nec plus veraces.
 
-³⁷ Io pur sorrisi, come l'huom ch'amiccha;\
+37 Io pur sorrisi, come l'huom ch'amiccha;\
 &emsp;Perchè l'ombra si tacque, e riguardommi\
 &emsp;Negl'ochi, ove 'l sembiante più si ficcha.
 
-³⁷ Ego tamen subrisi, sicut homo qui amiccat;\
+37 Ego tamen subrisi, sicut homo qui amiccat;\
 &emsp;Ex quo umbra tacuit, et me respexit\
 &emsp;In oculis, ubi effigies magis figitur.
 
-³⁸ De! se tanto lavoro in ben assommi (⁶),\
-&emsp;Diss'ei, perchè la tua faccia testeso (⁷)\
+38 De! se tanto lavoro in ben assommi (6),\
+&emsp;Diss'ei, perchè la tua faccia testeso (7)\
 &emsp;Un lampeggiar di riso dimostrommi?
 
-³⁸ Et si tantum laborem simul assumas,\
+38 Et si tantum laborem simul assumas,\
 &emsp;Dixit, quare tua facies nunc\
 &emsp;Unum lampiggiare risus michi monstravit?
 
-(¹) eleggerei — (²) anno — (³) Dante — (⁴) di Statio — (⁵) da la quale — (⁶) finischa — (⁷) hora.
+(1) eleggerei — (2) anno — (3) Dante — (4) di Statio — (5) da la quale — (6) finischa — (7) hora.
 
 Achilleydos deficiat. Sed hoc intelligitur de gestis Domitiani: quia iam disposuerat facere unum librum poeticum de gestis Domitiani; et ista erat secunda salma, quam non perfecit, licet inceperit illam. Prima salma fuit pondus illorum duorum librorum, scilicet Thebaydos et Achilleydos. Aliqui dicunt quod in circulis sunt due salme, onerantes istas animas, peccatum avaritie primum, et peccatum prodigalitatis; ita quod prodigalitas est secunda salma, cum qua cecidit, scilicet in peccatum prodigalitatis, de cuius prodigalitate in sequentibus tractabitur.
 
@@ -424,65 +424,65 @@ Statius cepit aliquam suspitionem de risu Dantis; ideo coniurat Dantem ipsum dic
 
 <!-- p. 673 (0727) -->
 
-³⁹ Hor son io(¹) d'una parte(²) e d'altra(³) preso;\
-&emsp;L'una (⁴) mi fa tacer, l'altra (⁵) scongiura\
+39 Hor son io(1) d'una parte(2) e d'altra(3) preso;\
+&emsp;L'una (4) mi fa tacer, l'altra (5) scongiura\
 &emsp;Ch'io dica: ond'io sospiro, e sono inteso
 
-³⁹ Nunc sum ab alia parte et ab alia captus;\
+39 Nunc sum ab alia parte et ab alia captus;\
 &emsp;Una me facit tacere, alia adiurat\
 &emsp;Quod ego dicam: unde ego sospiro, et intelligo[r]
 
-⁴⁰ Dal mio maestro, e: Non haver paura,\
+40 Dal mio maestro, e: Non haver paura,\
 &emsp;Mi dice, di parlar; ma parla, e dilli\
-&emsp;Quel che dimanda con cotanta cura (⁶).
+&emsp;Quel che dimanda con cotanta cura (6).
 
-⁴⁰ A meo magistro, et: Non habeas pavorem,\
+40 A meo magistro, et: Non habeas pavorem,\
 &emsp;Michi dicit, loquendi; sed loquaris, et dicas ei\
 &emsp;Illud quod petit cum tanta cura.
 
-⁴¹ Ond'io a lui: Forse ti maravigli,\
-&emsp;(⁷) Antico spirto, del rider ch'io fei;\
-&emsp;Ma più ammiration (⁸) vo' (⁹) che ti pigli.
+41 Ond'io a lui: Forse ti maravigli,\
+&emsp;(7) Antico spirto, del rider ch'io fei;\
+&emsp;Ma più ammiration (8) vo' (9) che ti pigli.
 
-⁴¹ Unde ego: Forsan, quod tu miraris,\
+41 Unde ego: Forsan, quod tu miraris,\
 &emsp;Antique spiritus, de risu quem feci;\
 &emsp;Sed plus admirationis volo quod tu capias.
 
-⁴² Questi, che guida in alto gl'ochi miei,\
+42 Questi, che guida in alto gl'ochi miei,\
 &emsp;È quel Virgilio, dal qual tu toglesti\
-&emsp;Forse (¹⁰) a cantar degl'huomini e de' Dei.
+&emsp;Forse (10) a cantar degl'huomini e de' Dei.
 
-⁴² Iste, qui conducit in altum oculos meos,\
+42 Iste, qui conducit in altum oculos meos,\
 &emsp;Est ille Virgilius, a quo tu sumpsisti\
 &emsp;Fortiter ad cantandum de hominibus et diis.
 
-⁴³ Se cagion altra al mio rider credesti,\
-&emsp;Lassala per non vera; et esser credi (¹¹)\
-&emsp;Quelle parole che di lui (¹²) dicesti.
+43 Se cagion altra al mio rider credesti,\
+&emsp;Lassala per non vera; et esser credi (11)\
+&emsp;Quelle parole che di lui (12) dicesti.
 
-⁴³ Si causa ex alia meum risum credidisti,\
+43 Si causa ex alia meum risum credidisti,\
 &emsp;Dimicte eam tamquam non veram; et esse credas\
 &emsp;Illa verba que de eo dixisti.
 
-⁴⁴ Già s'inchinava ad abbracciar li piedi\
-&emsp;Al mio doctor; ma elli disse: (¹³) Frate,\
+44 Già s'inchinava ad abbracciar li piedi\
+&emsp;Al mio doctor; ma elli disse: (13) Frate,\
 &emsp;Non far, che tu se'ombra, et ombra vedi.
 
-⁴⁴ Iam se inclinabat ad amplectendum pedes\
+44 Iam se inclinabat ad amplectendum pedes\
 &emsp;Meo doctori; sed ipse dixit ei: Frater,\
 &emsp;Non facias, quia tu es umbra, et umbram vides.
 
-⁴⁵ Et ei surgendo: Or puo' (¹⁴) la quantitate\
+45 Et ei surgendo: Or puo' (14) la quantitate\
 &emsp;Comprender dell'amor ch'a te mi scalda,\
-&emsp;Quando dismento(¹⁵) nostra vanitate (¹⁶),\
-&emsp;Tractando l'ombre come cosa salda (¹⁷).
+&emsp;Quando dismento(15) nostra vanitate (16),\
+&emsp;Tractando l'ombre come cosa salda (17).
 
-⁴⁵ Et ipse surgendo: Nunc potes quantitatem\
+45 Et ipse surgendo: Nunc potes quantitatem\
 &emsp;Comprehendere amoris qui ad te me ardenter trahit,\
 &emsp;Quando ego obliviscor nostre vanitatis,\
 &emsp;Tractando umbras sicut rem solidam.
 
-(¹) Dante — (²) di Virgilio — (³) di Statio — (⁴) parte di Virgilio — (⁵) parte di Statio — (⁶) sollicitudine — (⁷) o — (⁸) maggiore ancora — (⁹) voglo — (¹⁰) al. forza — (¹¹) la cagione — (¹²) di Virgilio — (¹³) o — (¹⁴) puoi — (¹⁵) dismentico — (¹⁶) esser senza corpo — (¹⁷) corporea.
+(1) Dante — (2) di Virgilio — (3) di Statio — (4) parte di Virgilio — (5) parte di Statio — (6) sollicitudine — (7) o — (8) maggiore ancora — (9) voglo — (10) al. forza — (11) la cagione — (12) di Virgilio — (13) o — (14) puoi — (15) dismentico — (16) esser senza corpo — (17) corporea.
 
 cepisti, laborem simul assumas, idest compleas (dixit), quare tua facies nunc unum lampiggiare, idest unum lumen, risus michi monstravit? idest, quare risisti?
 

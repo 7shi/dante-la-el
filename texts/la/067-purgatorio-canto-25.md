@@ -8,19 +8,19 @@ In isto vicesimoquinto capitulo, quod incipit: Hora erat in qua ascendere noleba
 
 # Capitulum Vicesimumquintum
 
-¹ Or' era onde 'l salir non volea storpio,\
+1 Or' era onde 'l salir non volea storpio,\
 &emsp;Chè 'l sol haveva 'l cerchio di merigge\
 &emsp;Lasciato al Thauro, e la notte allo Scorpio.
 
-¹ Hora erat in qua ascensus nolebat disturbium,\
+1 Hora erat in qua ascensus nolebat disturbium,\
 &emsp;Quia sol iam circulum meridiei\
 &emsp;Dimiserat Thauro et noctem Scorpioni.
 
-² Perchè, come fa l'huom che non s'affligge,\
+2 Perchè, come fa l'huom che non s'affligge,\
 &emsp;Ma vassi alla via sua, che li appaia,\
 &emsp;Se di bisogno stimolo el trafigge;
 
-² Ex quo, sicut facit homo qui non se figit,\
+2 Ex quo, sicut facit homo qui non se figit,\
 &emsp;Et vadit ad viam suam, quidquid ei appareat,\
 &emsp;Si est necesse, si stimulus eum transfigit;
 
@@ -44,55 +44,55 @@ Modo ponitur dispositio auctoris. Ex quo, idest propter quid, sicut facit homo, 
 
 <!-- p. 711 (0765) -->
 
-³ Così entrammo noi per la callaia,\
+3 Così entrammo noi per la callaia,\
 &emsp;Uno innanz' altro, prendendo la scala\
 &emsp;Che per erteza el salitor dispaia.
 
-³ Ita intravimus nos per callariam,\
+3 Ita intravimus nos per callariam,\
 &emsp;Unus ante alium, prendendo scalam\
 &emsp;Que propter ertitudinem ascendentes dispares facit.
 
-⁴ E quale 'l cicognin che leva l'ala\
+4 E quale 'l cicognin che leva l'ala\
 &emsp;Per vogla di volar, e non s'attenta\
 &emsp;D'abbandonar lo nido, e giù la cala;
 
-⁴ Et sicut ciconia parva elevat alam\
+4 Et sicut ciconia parva elevat alam\
 &emsp;Propter voluntatem volandi, et non audet\
 &emsp;[Derelinquere nidum, et infra eam calat];
 
-⁵ Tal era io, con vogla accesa e spenta\
+5 Tal era io, con vogla accesa e spenta\
 &emsp;Di domandar, venendo infin all'acto\
 &emsp;Che fa colui ch' a dicer s'argomenta.
 
-⁵ Talis eram ego, cum voluntate accensa et extincta\
+5 Talis eram ego, cum voluntate accensa et extincta\
 &emsp;Interrogandi, veniendo usque ad actum\
 &emsp;Quem facit ille qui ad dicendum se argumentat.
 
-⁶ Non lassò, per l'andar che fusse racto,\
+6 Non lassò, per l'andar che fusse racto,\
 &emsp;Lo dolce padre mio, ma disse: Scoccha\
 &emsp;L'arco del dir, che 'nfin al ferro hai tracto.
 
-⁶ Non dimisit, propter iter quod esset festinum,\
+6 Non dimisit, propter iter quod esset festinum,\
 &emsp;Dulcis pater meus, sed dixit: Scocca\
 &emsp;Arcum dicendi, quem usque ad ferrum traxisti.
 
-⁷ Allor sicuramente apri' la bocha,\
-&emsp;E cominciai (¹): Come si può far magro\
+7 Allor sicuramente apri' la bocha,\
+&emsp;E cominciai (1): Come si può far magro\
 &emsp;Là dove l'huopo di mirar non toccha?
 
-⁷ Tunc secure apperui os meum,\
+7 Tunc secure apperui os meum,\
 &emsp;Et incepi: Quomodo potest fieri macredo\
 &emsp;Ubi opus nutriendi non tangit?
 
-⁸ Se t'amentassi (²) come Meleagro\
+8 Se t'amentassi (2) come Meleagro\
 &emsp;Si consumò al consumar d'un stizo,\
-&emsp;Non fora, disse (³), a te questo sì agro:
+&emsp;Non fora, disse (3), a te questo sì agro:
 
-⁸ Si memor esses sicut Meleager\
+8 Si memor esses sicut Meleager\
 &emsp;Comsumpsit se in consumptione unius torris,\
 &emsp;Non esset, dixit, ita tibi acrum:
 
-(¹) a dire — (²) ricordassi — (³) Virgilio, o Dante
+(1) a dire — (2) ricordassi — (3) Virgilio, o Dante
 
 appareat, supple non impedit eum quando vadit, si est necesse, scilicet urgens necessitas, si stimulus eum transfigit, idest cogit sic facere; ita, idest simili modo, intravimus nos, scilicet tres, Virgilius, Statius et ego, per callariam, idest per introytum, unus ante alium, prendendo scalam, que propter artitudinem ascendentes dispares facit. Callaria est via cavata et excisa in saxo. Scala est recta aliquibus gradibus: sed postea [quam] incepit ire in circulum, propter ertitudinem, idest stricturam, non potera[n]t bini nec trini incedere, sed oportebat eos ire unum post alium.
 
@@ -106,39 +106,39 @@ Respondet Virgilius in generali, ponens duo exempla, quorum unum est una fictio,
 
 <!-- p. 712 (0766) -->
 
-⁹ E se pensassi com' al vostro guizo\
-&emsp;Guiza dentr'allo spechio vostra ymage (¹),\
-&emsp;Ciò che par duro (²) ti parrebbe vizo (³):
+9 E se pensassi com' al vostro guizo\
+&emsp;Guiza dentr'allo spechio vostra ymage (1),\
+&emsp;Ciò che par duro (2) ti parrebbe vizo (3):
 
-⁹ Et, si cogitares quomodo vester guizzus\
+9 Et, si cogitares quomodo vester guizzus\
 &emsp;Guizzat intra speculum vestram ymaginem,\
 &emsp;Id quod apparet durum, tibi appareret vizzum:
 
-¹⁰ Ma perchè dentro a tuo voler t'adage,\
+10 Ma perchè dentro a tuo voler t'adage,\
 &emsp;Ecco qui Statio, et io lui chiam'e prego,\
 &emsp;Che sia hor sanator de le tue piage.
 
-¹⁰ Sed ad hoc ut intra voluntatem tuam\
+10 Sed ad hoc ut intra voluntatem tuam\
 &emsp;Quiescas, ecce Statius, et ego eum voco et precor,\
 &emsp;Quod ipse sit nunc sanator tuarum plagarum.
 
-¹¹ Se la veduta eterna li dislego,\
+11 Se la veduta eterna li dislego,\
 &emsp;Rispose Statio, là dove tu sie,\
 &emsp;Discolpi me non poterti far nego.
 
-¹¹ Si visionem eternam ei dislego vel dispiego,\
+11 Si visionem eternam ei dislego vel dispiego,\
 &emsp;Respondit Statius, ibi ubi tu sis,\
 &emsp;Excuset me non posse facere negum.
 
-¹² Poi cominciò (⁴): Se le parole mie,\
-&emsp;Figlo (⁵); la mente tua guarda e riceve,\
-&emsp;Lume ti fiero (⁶) al come che tu die.
+12 Poi cominciò (4): Se le parole mie,\
+&emsp;Figlo (5); la mente tua guarda e riceve,\
+&emsp;Lume ti fiero (6) al come che tu die.
 
-¹² Postea cepit: Si verba mea,\
+12 Postea cepit: Si verba mea,\
 &emsp;Fili, mens tua respicit et retinet,\
 &emsp;Lumen tibi erunt ad quod tu dicis.
 
-(¹) ymagine — (²) a te, Dante — (³) molle — (⁴) a dire Statio — (⁵) o — (⁶) saranno.
+(1) ymagine — (2) a te, Dante — (3) molle — (4) a dire Statio — (5) o — (6) saranno.
 
 erat factus vir bone indolis et magne fortitudinis. Plurimi iverunt venatum, inter quos Meleager fuit unus; et capto apro, sive porco, facta fuit contentio cuius debebat esse caput apri: avunculus suus volebat; tandem in contentione Meleager interfecit avunculum suum, germanum matris sue. Unde mater sua, sentiens se iniuriatam a filio suo, qui interfecit germanum, accepit torrem illum quem diligenter conservaverat diu, et posuit [in] igne; et sicut torres consumebatur, ita Meleager consumebatur: consumpto toto torre, mortuus fuit et consumptus Meleager.
 
@@ -152,63 +152,63 @@ Aliqui dicunt hic, quod ideo Virgilius imposuit Statio hunc laborem, ex eo quia 
 
 <!-- p. 713 (0767) -->
 
-¹³ Sangue perfecto, che poi non si beve\
+13 Sangue perfecto, che poi non si beve\
 &emsp;Dall'assetate vene, e sì rimane\
 &emsp;Quasi alimento ch'è di mensa leve,
 
-¹³ Sanguis perfectus, qui unquam non bibitur\
+13 Sanguis perfectus, qui unquam non bibitur\
 &emsp;A sitibundis venis, et sic remanet\
 &emsp;Quasi alimentum quod est mense levis,
 
-¹⁴ Prende nel cor a tucte membra humane\
+14 Prende nel cor a tucte membra humane\
 &emsp;Virtute informativa, come quello\
-&emsp;Ch'a farsi quello per le vene vane (¹).
+&emsp;Ch'a farsi quello per le vene vane (1).
 
-¹⁴ Apprehendit in corde omnibus membris humanis\
+14 Apprehendit in corde omnibus membris humanis\
 &emsp;Virtutem informativam, sicut ille\
 &emsp;Qui fieri potest per venas vanas.
 
-¹⁵ Ancor digesto scende ov'è più bello\
+15 Ancor digesto scende ov'è più bello\
 &emsp;Tacer che dir; e quindi poscia geme\
 &emsp;Sovr'altro sangue in natural vagello.
 
-¹⁵ Adhuc digestus descendit ubi est pulchrius\
+15 Adhuc digestus descendit ubi est pulchrius\
 &emsp;Tacere quam dicere; et inde postea gemit\
 &emsp;Super alium sanguinem in naturali vase.
 
-¹⁶ Ivi s'accogle l'uno e l'altro insieme,\
+16 Ivi s'accogle l'uno e l'altro insieme,\
 &emsp;L'un disposto a patir, e l'altro a fare,\
 &emsp;Per lo perfecto loco onde si preme;
 
-¹⁶ Ibi coagulatur et uterque simul,\
+16 Ibi coagulatur et uterque simul,\
 &emsp;Unus dispositus ad sustinendum, et alius ad faciendum,\
 &emsp;Propter perfectum locum ubi premitur;
 
-¹⁷ E giunto lui, comincia a operare,\
+17 E giunto lui, comincia a operare,\
 &emsp;Coagolando prima, e poi avviva\
 &emsp;Ciò che per sua matera fe' costare.
 
-¹⁷ Et, postquam pervenit et ipse, incipit operari,\
+17 Et, postquam pervenit et ipse, incipit operari,\
 &emsp;Coagulando prius, et postea vivificat\
 &emsp;Id quod per suam materiam fecit constare.
 
-¹⁸ L'anima facta alla virtute activa,\
+18 L'anima facta alla virtute activa,\
 &emsp;Qual d'una pianta, in tanto è differente\
 &emsp;Che quest'è in via, e quell'è già a riva:
 
-¹⁸ Anima facta virtus activa,\
+18 Anima facta virtus activa,\
 &emsp;Quasi unius planete, in tantum differentes,\
 &emsp;Quia ista est in via, et illa est iam ad ripam,
 
-¹⁹ Tant'ovra (²) poi, che già si muove e sente,\
+19 Tant'ovra (2) poi, che già si muove e sente,\
 &emsp;Come fungo marin; et indi imprende\
 &emsp;Ad organar le posse ond' è semente.
 
-¹⁹ Tantum operatur postea, quod iam movetur et consentit,\
+19 Tantum operatur postea, quod iam movetur et consentit,\
 &emsp;Sicut fungus marinus; et inde apprehendit\
 &emsp;Ad organandum potentias unde est semen.
 
-(¹) va — (²) opera.
+(1) va — (2) opera.
 
 Sanguis perfectus. Sangue perfetto: hec est secunda pars huius capituli, in qua Statius precibus Virgilii solvit questionem ab auctore propositam. Et ad intelligendum textum sequentem, qui est fortis in se et fortis in sententia, notanda sunt multa. Primo notandum, quod Statius primo declarabit productionem corporis humani: secundo declarabit productionem anime. Quantum ad primum ipse incipit a longe multum. Notandum etiam, quod cibus, quem comedimus, non solum semel decoquitur, sed pluries: primo, in orificio stomachi fit una coctura: semel decoquitur ibi cibus. Natura tunc talem cibum, sic ibi decoctum, dividit in duas partes, scilicet in grossiorem et subtiliorem: grossiorem mictit ad intestina, et fiunt feces ex illis; subtiliorem transmictit ad epar. Epar iterum decoquit istam partem sibi datam, et coctam dividit in duas partes, in subtiliorem et grossiorem: grossiorem transmictit ad visicam, et inde fit urina; subtiliorem vero mictit ad cor. Cor iterum decoquit partem sibi transmissam; demum dividit illam etiam in duas partes, scilicet grossiorem et subtiliorem: grossiorem partem cor, quod dominatur in corpore velut rex et preceptor et dispensator, mictit ad venas, ad membra scilicet omnia, prout opus est; subtilior remanet circa cor, sicut reliquie que remanent in mensa domini: et ista pars subtilior, que ibi apud cor remanet, que non convertitur in nutrimentum membrorum, fit sperma, quod fit a natura propter conservationem speciei. Sperma est superfluitas ultimi alimenti. Dicit Avicenna: Ille sanguis perfectus est superfluum in quanto, sed non in quolibet. Ille sanguis, exigente natura, descendit ad testiculos, sive ad membra genitalia, tam in masculis quam in feminis, et demum spargitur in naturali vase, scilicet in matrice, et ibi coniunguntur sperma masculinum et femininum et coagulantur, et fit quedam massa. Istud sperma, quia descendit a corde, ab ipso capit virtutem formativam ad omnia membra illius speciei. Potest dici homo, potentia, quia ex ipso fit corpus humanum, quod cum anima intellectiva fit homo; sicut ovum, potentia, dicitur gallina, quia ex illo nascitur gallina. Et quam cito sperma masculinum bene coniungitur feminino, quia masculinum habet virtutem activam, scilicet agendi, femininum habet virtutem passivam, scilicet patiendi; et dum est coniunctum facit constare femininum: quia in femina est sanguis menstruosus; et cum menstruum constat et non fluit, est signum impregnationis, non tamen semper, sed ut frequenter (sic dicit Avicenna et Gallienus). Et ista duo spermata sic ad invicem coniuncta et coagulata fiunt embrio, ex quo venit fetus. Demum illa virtus, derelicta a generante in spermate descendente et stillante a corde generantis, fit anima viva, scilicet vegetativa, que est extracta de potentia materie; et est similis anime planete, nisi quia ista, scilicet anima plante, est iam ad ripam, idest in facto esse, illa, scilicet anima vegetativa hominis, est in via, idest in fieri, quia adhuc restant multa: demum fit anima sensitiva.
 
@@ -216,31 +216,31 @@ Sanguis perfectus, ille scilicet qui non bibitur a venis, qui unquam non bibitur
 
 <!-- p. 714 (0768) -->
 
-²⁰ Hor si spiega, figluol (¹), hor si distende\
+20 Hor si spiega, figluol (1), hor si distende\
 &emsp;La virtù ch' è del cor del generante,\
 &emsp;Dove natura a tutte membra intende:
 
-²⁰ Nunc explicatur, fili, nunc extenditur\
+20 Nunc explicatur, fili, nunc extenditur\
 &emsp;Virtus que [est] a corde generantis,\
 &emsp;Ubi natura omnibus membris intendit:
 
-²¹ Ma, come d'animal divegna infante,\
+21 Ma, come d'animal divegna infante,\
 &emsp;Non vedi tu ancor: quest'è tal punto\
 &emsp;Che più savio di te fe' già errante;
 
-²¹ Sed, qualiter de animali efficitur infans,\
+21 Sed, qualiter de animali efficitur infans,\
 &emsp;Non vides tu adhuc: iste est talis punctus\
 &emsp;Quod sapientiorem te fecit errare;
 
-²² Sì che, per sua dottrina, fe' disgiunto\
+22 Sì che, per sua dottrina, fe' disgiunto\
 &emsp;Dall'anima el possibile intellecto,\
 &emsp;Perchè da lui non vide organo assumpto.
 
-²² Ita quod, per suam doctrinam, fecit disiunctum\
+22 Ita quod, per suam doctrinam, fecit disiunctum\
 &emsp;Ab animali possibilem intellectum,\
 &emsp;Quia ab eo non vidit organum assumptum.
 
-(¹) o.
+(1) o.
 
 Adhuc, digestus, descendit ubi est pulchrius tacere quam dicere, idest ad membra genitalia, vel melius ad testiculos; et inde postea gemit, idest stillat, super alium sanguinem in naturali vase, idest in matrice, que est quasi unum urinale habens os strictum.
 
@@ -254,55 +254,55 @@ Sed qualiter de animali efficitur infans. Ma come d'animal: hec est tertia pars 
 
 <!-- p. 715 (0769) -->
 
-²³ Apri la verità che viene al pecto,\
+23 Apri la verità che viene al pecto,\
 &emsp;E sappia che, sì tosto com'al feto\
 &emsp;L'articolar del cerchio è perfecto,
 
-²³ Aperias veritati que venit ad pectus,\
+23 Aperias veritati que venit ad pectus,\
 &emsp;Et scias quod anima quam cito sicut ad fetum\
 &emsp;Articulare cerebri est perfectum,
 
-²⁴ Lo motor primo (¹) a lui si volge lieto (²),\
+24 Lo motor primo (1) a lui si volge lieto (2),\
 &emsp;Sovra tant'arte di natura, e spira\
 &emsp;Spirito nuovo di virtù repleto,
 
-²⁴ Motor primus se volvit ad eum letus,\
+24 Motor primus se volvit ad eum letus,\
 &emsp;Supra tantam artem nature, et spirat\
 &emsp;Spiritum novum virtute repletum:
 
-²⁵ Che ciò che trova activo, quivi tira\
+25 Che ciò che trova activo, quivi tira\
 &emsp;In sua sostanza, e fassi un'alma sola,\
 &emsp;Che vive e sente, e sè in sè rigira.
 
-²⁵ Quidquid reperit ibi activum, trahit\
+25 Quidquid reperit ibi activum, trahit\
 &emsp;In suam substantiam, et efficitur una anima sola,\
 &emsp;Que vivit et sentit, et se in se regirat.
 
-²⁶ E perchè meno ammiri la parola,\
+26 E perchè meno ammiri la parola,\
 &emsp;Guarda 'l calor del sol che si fa vino,\
 &emsp;Giuncto ad humor che da la vite cola.
 
-²⁶ Et ad hoc ut minus mireris de verbo,\
+26 Et ad hoc ut minus mireris de verbo,\
 &emsp;Respice calorem solis qui efficitur vinum,\
 &emsp;Appositus humori qui de vite colat.
 
-²⁷ Quando Lachesi (³) non ha più del lino (⁴),\
+27 Quando Lachesi (3) non ha più del lino (4),\
 &emsp;Solvesi da la carne, et in virtute\
 &emsp;Ne porta seco l'humano e 'l divino.
 
-²⁷ Quando Lachesis non habet plus de lino,\
+27 Quando Lachesis non habet plus de lino,\
 &emsp;Solvitur a carne, et in virtute\
 &emsp;Portat secum humanum et divinum.
 
-²⁸ L'altre potenze tucte quante mute;\
+28 L'altre potenze tucte quante mute;\
 &emsp;Memoria, intelligentia, e volontate,\
 &emsp;In acto molto più che prima acute.
 
-²⁸ Alie potentie omnes sunt quasi mute;\
+28 Alie potentie omnes sunt quasi mute;\
 &emsp;Memoria, intelligentia, et voluntas,\
 &emsp;In actu multo plus acute.
 
-(¹) Dio — (²) al. leto — (³) Fata — (⁴) da filare.
+(1) Dio — (2) al. leto — (3) Fata — (4) da filare.
 
 se. Hiis dictis, nunc ad textum. Sed qualiter de animali efficitur infans, non vides tu adhuc: iste est talis punctus, quod sapientiorem te fecit iam errare, scilicet Averroym commentatorem; ita quod per suam doctrinam fecit (idest dixit, esse unum intellectum agentem in omnibus hominibus, et illum non esse formam, nec animam hominis) disiunctum ab animali possibilem intellectum, quia ab eo non vidit organum assumptum.
 
@@ -316,67 +316,67 @@ Alie potentie omnes mute, idest sunt, sicut sentire, vegetare, audire, videre, d
 
 <!-- p. 716 (0770) -->
 
-²⁹ Senza restarsi, per sè stessa cade\
+29 Senza restarsi, per sè stessa cade\
 &emsp;Mirabilmente all'una delle rive;\
 &emsp;Quivi conosce prima le sue strade.
 
-²⁹ Sine firmare se, per seipsam cadit\
+29 Sine firmare se, per seipsam cadit\
 &emsp;Mirabiliter ad unam riparum;\
 &emsp;Ibi cognoscit prius suas stratas.
 
-³⁰ Tosto che 'l loco lì lo certo scrive,\
+30 Tosto che 'l loco lì lo certo scrive,\
 &emsp;La virtù formativa raggia intorno,\
 &emsp;Così e quanto nelle membra vive;
 
-³⁰ Statim quod locus ibi eam circumscribit,\
+30 Statim quod locus ibi eam circumscribit,\
 &emsp;Virtus formativa radiat circum,\
 &emsp;Sic et quantum fecit in membris vivis;
 
-³¹ E come l'aere, quand'è ben piuorno,\
+31 E come l'aere, quand'è ben piuorno,\
 &emsp;Per l'altrui raggio che 'n sè si riflecte,\
 &emsp;Di diversi colori doventa adorno;
 
-³¹ Et sicut aier, quando est bene piornus,\
+31 Et sicut aier, quando est bene piornus,\
 &emsp;Per alterius radium qui in se reflectitur,\
 &emsp;Diversis coloribus devenit ornatus;
 
-³² Così l'aere vicin quivi si mecte\
+32 Così l'aere vicin quivi si mecte\
 &emsp;In quella forma che in lui suggella,\
 &emsp;Virtualmente all'alma che ristecte:
 
-³² Sic aier vicinus ibi immictitur\
+32 Sic aier vicinus ibi immictitur\
 &emsp;In illam formam quam in eo sigillat\
 &emsp;Virtualiter anima que resedit:
 
-³³ Simigliante poi alla fiammella\
+33 Simigliante poi alla fiammella\
 &emsp;Che segue 'l fuoco là umque si muta,\
 &emsp;Segu'allo spirto sua forma novella.
 
-³³ Et similis postea flammelle,\
+33 Et similis postea flammelle,\
 &emsp;Que sequitur ignem quocumque se mutat,\
 &emsp;Sequitur spiritum suum forma nova.
 
-³⁴ Però che quindi ha poscia sua paruta,\
+34 Però che quindi ha poscia sua paruta,\
 &emsp;È chiamat'ombra; e quivi organa poi\
 &emsp;Ciascun sentire infino alla veduta.
 
-³⁴ Ex eo quod inde habet postea suam apparentiam.\
+34 Ex eo quod inde habet postea suam apparentiam.\
 &emsp;Vocatur umbra; ed inde organizat postea\
 &emsp;Quemlibet sensum usque ad visum.
 
-³⁵ Quindi parliamo, e quindi ridian noi,\
+35 Quindi parliamo, e quindi ridian noi,\
 &emsp;Quindi facciam le lagrime e sospiri,\
 &emsp;Che per lo monte haver sentiti puoi.
 
-³⁵ Inde loquimur, et inde ridemus nos,\
+35 Inde loquimur, et inde ridemus nos,\
 &emsp;Inde facimus lacrymas et suspiria,\
 &emsp;Que per montem sentire potuisti.
 
-³⁶ Secondo che c'affiggono e desiri\
+36 Secondo che c'affiggono e desiri\
 &emsp;E gl'altri affecti, l'ombra si sfigura;\
 &emsp;E quest'è la cagion di che tu miri.
 
-³⁶ Secundum quod nos afficiunt desideria\
+36 Secundum quod nos afficiunt desideria\
 &emsp;Et alii affectus, umbra se figurat;\
 &emsp;Et ista est causa de qua tu miraris.
 
@@ -386,55 +386,55 @@ Modo vult dicere auctor, quod statim quando ista anima, separata a corpore, est 
 
 <!-- p. 717 (0771) -->
 
-³⁷ E già venuti all'ultima tortura (¹)\
+37 E già venuti all'ultima tortura (1)\
 &emsp;S'era per noi, e volti a la man destra,\
 &emsp;Et eravamo attenti ad altra cura.
 
-³⁷ Et iam ventum ad ultimam torturam\
+37 Et iam ventum ad ultimam torturam\
 &emsp;Erat per nos, et conversi ad manum dexteram,\
 &emsp;Et eramus attenti ad aliam curam.
 
-³⁸ Quivi la ripa fiamma in fuor balestra;\
+38 Quivi la ripa fiamma in fuor balestra;\
 &emsp;E la cornice spira fiato in suso,\
 &emsp;Che la riflecte, e via da lei sequestra;
 
-³⁸ Ibi ripa flammam foris balistat;\
+38 Ibi ripa flammam foris balistat;\
 &emsp;Et cornix spirat flatum in sursum,\
 &emsp;Qui eam reflectit, et viam ab ea sequestrat;
 
-³⁹ Ond'ir ne convenia dall'alto schiuso\
+39 Ond'ir ne convenia dall'alto schiuso\
 &emsp;Ad uno ad uno, et io temea el foco\
 &emsp;E quinci e quindi temea cader giuso.
 
-³⁹ Unde ire nobis conveniebat a latere excluso\
+39 Unde ire nobis conveniebat a latere excluso\
 &emsp;Unus post alium, et ego timebam focum\
 &emsp;Et hinc inde timebam cadere infra.
 
-⁴⁰ Lo Duca mio dicea: Per questo loco\
+40 Lo Duca mio dicea: Per questo loco\
 &emsp;Si vuol tener a gl'ochi strecto 'l freno,\
 &emsp;Però ch'errar potrebbesi per poco.
 
-⁴⁰ Dux meus dicebat: Per istum locum\
+40 Dux meus dicebat: Per istum locum\
 &emsp;Vult teneri oculis strictum frenum,\
 &emsp;Eo quod errari hic posset pro modico.
 
-⁴¹ Summe Deus clementie, nel seno\
+41 Summe Deus clementie, nel seno\
 &emsp;Al grand'ardor allhor udi' cantando,\
 &emsp;Che di volger mi fe' caler non meno:
 
-⁴¹ Summe Deus clementie, in sinu\
+41 Summe Deus clementie, in sinu\
 &emsp;Grandis ardoris tunc audivi cantando,\
 &emsp;Quod volvendi michi fecit desiderare non minus:
 
-⁴² E vidi spirti per la fiamma andando;\
+42 E vidi spirti per la fiamma andando;\
 &emsp;Perch'io guardava loro et a' mie' passi,\
-&emsp;Compartiva (²) la vist'a quando a quando.
+&emsp;Compartiva (2) la vist'a quando a quando.
 
-⁴² Et vidi spiritus per flammam eundo;\
+42 Et vidi spiritus per flammam eundo;\
 &emsp;Ex quo respiciebam ad eos et ad meos passus,\
 &emsp;Compartiendo visum ad quando ad quando.
 
-(¹) tormento de' purgati — (²) al. compartendo.
+(1) tormento de' purgati — (2) al. compartendo.
 
 Et iam ventum ad ultimam torturam. E già venuto all'ultima tortura: ista est quarta pars huius capituli, in qua auctor transit ad materiam luxurie. Sciendum est tamen primo, quod pena luxuriosorum est quod stant in igne ardentes et nec comburuntur, et ille ignis est valde afflictivus. Natura illius loci, sive circuli, in quo purgantur luxuriosi, spirat ignem maximi incendii; sed cornix per quam itur, spirat unam auram que refrigerat viam illam, in tantum quod illac bene quis potest transire. Sciendum est, quod hic in isto circulo, sicut in quocumque alio inferiori, est cornix una, per quam itur. Locus iste, per quem itur, est strictus valde: et ex una parte est precipitium, scilicet a parte foritica, scilicet exteriori; a parte interiori exit ignis: et ideo, propter viam strictam et propter periculum cadendi ex una parte et combustionis ex alia parte, oporteret quod auctor iret cum maxima prudentia, ne ex una parte caderet et ab alia parte combureretur. Nota quod ignis est debita pena luxuriosorum; quia sicut luxuriosi semper ardent desideriis carnis, nec refrigerium habent, ita bonum est quod in igne ardeant et puniantur. Et per talem viam oportet ire prudenter, quia difficile est caste et virginaliter vivere. Nota etiam quod, sicut ripa inferior in circulo gule ministrabat aquam, que tenebat virides frondes arboris et ingerebat voluntatem gulosis bibendi, qui tamen non poterant bibere; ita ista ripa, que est hic in septimo circulo, producit ignem ita incendiosum. Hic locus est ultimus tormentorum, quia cum altius ascenditur ultra istum circulum, itur postmodum in Paradisum terrestrem, sicut patebit; ideo vocatur ultima tortura. Virgilius consulebat hic auctori, quod ipse teneret oculos strictos ad frenum, quia faciliter hic erratur. Ideo animadvertant viatores ad peccatum luxurie, quod multum allicit peccatores. Hic cantant unum ympnum, quo ecclesia utitur die sabati ad nocturnum in ferialibus diebus, qui ympnus incipit, Summe Deus clementie, et infra, Lumbos iecurque morbidum adure igni congruo; accinti ut sint [perpetim] luxu remoto peximo: qui versus est de directo ad propositum ad fugiendum peccatum luxurie. Et ventum iam ad ultimam torturam (idest per nos, quia veneramus ad ultimum circulum, in quo punitur luxuria) erat per nos, et conversi ad manum dexteram, et eramus attenti ad aliam curam; idest, non plus loquebamur de questione predicta, sed attendebamus ad novam penam.
 
@@ -446,41 +446,41 @@ Nunc ponitur cantilena quam cantant isti luxuriosi in isto igne, scilicet, Summe
 
 <!-- p. 718 (0772) -->
 
-⁴³ Appresso al fine ch'a quell'hynno fassi,\
+43 Appresso al fine ch'a quell'hynno fassi,\
 &emsp;Gridavan alto: Virum non cognosco;\
 &emsp;Indi ricominciavan l'hynno bassi.
 
-⁴³ Prope finem qui in illo ymnpo fit,\
+43 Prope finem qui in illo ymnpo fit,\
 &emsp;Clamabant alte: Virum non cognosco;\
 &emsp;Inde reincipiebant ympnum submisse.
 
-⁴⁴ Finitol, anco gridavan: Al bosco (¹)\
-&emsp;Si tenne Dyana, et Elice caccionne (²),\
-&emsp;Che di Venere (³) havea sentito el tosco (⁴).
+44 Finitol, anco gridavan: Al bosco (1)\
+&emsp;Si tenne Dyana, et Elice caccionne (2),\
+&emsp;Che di Venere (3) havea sentito el tosco (4).
 
-⁴⁴ Finito illo, etiam clamabant: In nemore\
+44 Finito illo, etiam clamabant: In nemore\
 &emsp;Stetit Diana, et Elicem expulsit,\
 &emsp;Que Veneris senserat venenum.
 
-⁴⁵ Indi al cantar tornavan; indi donne\
+45 Indi al cantar tornavan; indi donne\
 &emsp;Gridavan, e mariti che fur casti,\
-&emsp;Come virtute e matrimonio imponne (⁵).
+&emsp;Come virtute e matrimonio imponne (5).
 
-⁴⁵ Inde ad cantandum redibant; inde donne\
+45 Inde ad cantandum redibant; inde donne\
 &emsp;Clamabant, et coniuges qui fuerunt casti,\
 &emsp;Sicut virtus et matrimonium imponit.
 
-⁴⁶ E questo modo credo che lor basti (⁶)\
+46 E questo modo credo che lor basti (6)\
 &emsp;Per tucto 'l tempo che 'l fuoco gl'abbrucia.\
 &emsp;Co[n] tal cura convien, con cotai pasti\
-&emsp;Che la piaga da sezzo (⁷) si ricucia (⁸).
+&emsp;Che la piaga da sezzo (7) si ricucia (8).
 
-⁴⁶ Et iste modus credo quod eis sufficiat\
+46 Et iste modus credo quod eis sufficiat\
 &emsp;Per totum tempus quo ignis eos adurit.\
 &emsp;Cum tali cura convenit, cum talibus passibus,\
 &emsp;Quod plaga de sezzo resuatur.
 
-(¹) ne le selve — (²) dal bosco — (³) de la luxuria — (⁴) el veleno — (⁵) impone a noi — (⁶) duri — (⁷) ultima — (⁸) si medichi e purghi e riserri.
+(1) ne le selve — (2) dal bosco — (3) de la luxuria — (4) el veleno — (5) impone a noi — (6) duri — (7) ultima — (8) si medichi e purghi e riserri.
 
 ad eos et ad meos passus, compartiendo visum a quando a quando, idest tempore, vel de passu ad passum; idest, modo respiciebam ad illas animas et ad ignem, aliquando respiciebam ad pedes ne caderem.
 

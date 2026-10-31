@@ -12,19 +12,19 @@ in decem circulectos, qui vocantur decem Malibolgie. Fides vero duplata, que rum
 
 # Capitulum Undecimum
 
-¹ In su l'extremità d'un'alta ripa,\
+1 In su l'extremità d'un'alta ripa,\
 &emsp;Che facea[n] gran pietre rotte in cerchio,\
 &emsp;Venimmo sopra più crudele stipa:
 
-¹ Super extremitatem unius alte ripe,\
+1 Super extremitatem unius alte ripe,\
 &emsp;Quam faciebant petre rupte in circulum,\
 &emsp;Venimus super crudeliorem stipam:
 
-² E quivi per l'horribile soperchio\
+2 E quivi per l'horribile soperchio\
 &emsp;Del puzzo, che 'l profondo abisso gitta,\
 &emsp;Ci raccostammo dietro ad un coperchio
 
-² Et ibi propter horribile superfluum\
+2 Et ibi propter horribile superfluum\
 &emsp;Fetoris, quem profunda abyssus emictit,\
 &emsp;Nos adhesimus retro prope unam cooperturam
 
@@ -60,63 +60,63 @@ Guardo: nomen civitatis eius, vel cognationis.
 
 <!-- p. 146 (0200) -->
 
-³ D'un grande avello, ov'io vidi una scritta\
+3 D'un grande avello, ov'io vidi una scritta\
 &emsp;Che diceva: Anastasio papa guardo,\
 &emsp;Lo qual trasse Fotin della via dritta.
 
-³ Unius grandis sepulture, ubi ego vidi unam scripturam\
+3 Unius grandis sepulture, ubi ego vidi unam scripturam\
 &emsp;Que dicebat: Anestasium papam custodio,\
 &emsp;Quem traxit Fotinus a via recta.
 
-⁴ Lo nostro scender convien esser tardo,\
+4 Lo nostro scender convien esser tardo,\
 &emsp;Sicchè s'ausi pria um poco el senso\
 &emsp;Al tristo fiato, e poi non fie riguardo.
 
-⁴ Noster descensus expedit quod sit tardus,\
+4 Noster descensus expedit quod sit tardus,\
 &emsp;Ita quod se assuescat aliquantulum prius sensus\
 &emsp;Tristi fetori, et postea non erit difficile.
 
-⁵ Così (¹) 'l maestro. Et io (²): Alcun compenso,\
+5 Così (1) 'l maestro. Et io (2): Alcun compenso,\
 &emsp;Diss'io lui, trova che 'l tempo non passi\
-&emsp;Perduto. Et elli (³): Vedi ch'a ciò penso.
+&emsp;Perduto. Et elli (3): Vedi ch'a ciò penso.
 
-⁵ Sic magister. Et ego: Aliquem compensum,\
+5 Sic magister. Et ego: Aliquem compensum,\
 &emsp;Dixi ego sibi, invenias, ut tempus non transeat\
 &emsp;Perditum. Et ipse: Videas quod ad hoc cogito.
 
-⁶ Figluol mio, dietro da cotesti sassi,\
+6 Figluol mio, dietro da cotesti sassi,\
 &emsp;Cominciò poi a dir, son tre cerchiecti\
 &emsp;Di grado in grado, come quei che lassi.
 
-⁶ Fili mi, inter illa saxa,\
+6 Fili mi, inter illa saxa,\
 &emsp;Incepit postea dicere, sunt tres circulecti\
 &emsp;De grado in gradum, sicut illi quos tu dimictis.
 
-⁷ Tutti son pien di spirti maladecti:\
-&emsp;Ma perchè poi ti basti più (⁴) la vista,\
+7 Tutti son pien di spirti maladecti:\
+&emsp;Ma perchè poi ti basti più (4) la vista,\
 &emsp;Intende come e perchè son constrecti.
 
-⁷ Omnes sunt pleni spiritibus maledictis:\
+7 Omnes sunt pleni spiritibus maledictis:\
 &emsp;Sed ut postea tibi sufficiat tantum visio,\
 &emsp;Intelligas quale et qualiter sunt constricti.
 
-⁸ Ogni malitia (⁵) che odio (⁶) in ciel acquista,\
-&emsp;Ingiuria el fine (⁷), et ogni fine tale\
+8 Ogni malitia (5) che odio (6) in ciel acquista,\
+&emsp;Ingiuria el fine (7), et ogni fine tale\
 &emsp;O con forza o con frode altrui contrista.
 
-⁸ De omni malitia que in celo odium acquirit,\
+8 De omni malitia que in celo odium acquirit,\
 &emsp;Iniuria est finis, et omnis finis talis\
 &emsp;Vel cum vi vel cum fraude alios facit tristes.
 
-⁹ Ma perchè froda è dell'huom proprio male,\
+9 Ma perchè froda è dell'huom proprio male,\
 &emsp;Più spiace a Dio; e però stan di sucto\
 &emsp;Li frodolenti, e più dolor gl'assale.
 
-⁹ Sed quia fraus est hominis proprium malum,\
+9 Sed quia fraus est hominis proprium malum,\
 &emsp;Plus displicet Deo; et ideo stant inferius\
 &emsp;Fraudulenti, et maior dolor eos aggreditur.
 
-(¹) disse a me. — (²) dissi a lui. — (³) disse a me. — (⁴) al. pur. — (⁵) pecchato. — (⁶) di Dio contra e peccatori. — (⁷) e el fine.
+(1) disse a me. — (2) dissi a lui. — (3) disse a me. — (4) al. pur. — (5) pecchato. — (6) di Dio contra e peccatori. — (7) e el fine.
 
 Quem extraxit Fotinus de via recta: Fotinus fuit grecus, de civitate Thessalonica, ad cuius civitatis cives scripsit Apostolus Paulus epistolam, que intitulatur ad Thessalonicenses. Et fuit episcopus Smirne, idest de le Smirne, de qua civitate fuit Homerus. Iste Fotinus, episcopus Smirne, fuit homo magne scientie: cecidit in errorem peximum, et dicebat quod Iesus Christus fuit filius carnalis Joseph et Virginis Marie, per modum matrimonii conceptus. Hic Fotinus traxit papam Anestasium de fide bona ad hunc errorem: qui, sine consensu cardinalium, errorem istum, credens bene facere, approbavit. Anestasius fuit papa natione Romanus, sed tempore Teodorici et[c.,] regis Gothorum, qui cepit Romam tempore Boetii honorabilis.
 
@@ -136,67 +136,67 @@ Sed quia fraus est malum proprium hominis, plus displicet Deo, et ideo stant inf
 
 <!-- p. 147 (0201) -->
 
-¹⁰ De'violenti el primo cerchio è tucto:\
+10 De'violenti el primo cerchio è tucto:\
 &emsp;Ma perchè si fa forza a tre persone,\
 &emsp;In tre gironi è distincto e constructo.
 
-¹⁰ Violentorum primus circulus est totus:\
+10 Violentorum primus circulus est totus:\
 &emsp;Sed quia fit violentia tribus personis,\
 &emsp;In tres girones est distinctus et constructus.
 
-¹¹ A Dio, a sè, al proximo si pòne\
+11 A Dio, a sè, al proximo si pòne\
 &emsp;Far forza, dico in loro et in lor cose,\
 &emsp;Come udirai con aperta ragione.
 
-¹¹ Deo, sibi, proximo potest\
+11 Deo, sibi, proximo potest\
 &emsp;Fieri violentia, dico in eos et in eorum res,\
 &emsp;Sicut audies cum aperta ratione.
 
-¹² Morte per forza e ferute doglose\
+12 Morte per forza e ferute doglose\
 &emsp;Nel proximo si dànno, e nel suo havere\
 &emsp;Ruine, incendii e collette dannose.
 
-¹² Mors violenta et vulnera dolorosa\
+12 Mors violenta et vulnera dolorosa\
 &emsp;In proximo dantur, et in suo avere\
 &emsp;Ruine, incendia et collecta dampnosa:
 
-¹³ Odi, omicidi, e ciascun che mal fere,\
+13 Odi, omicidi, e ciascun che mal fere,\
 &emsp;Guastatori, predon, tutti tormenta\
 &emsp;Lo giron primo per diverse schiere.
 
-¹³ Unde homicidas et quemlibet qui male ferit,\
+13 Unde homicidas et quemlibet qui male ferit,\
 &emsp;Vastatores et predones, omnes tormentat\
 &emsp;Giro primus per diversas acies.
 
-¹⁴ Puote huom haver in sè man violenta\
+14 Puote huom haver in sè man violenta\
 &emsp;E ne'suoi beni: e però nel secondo\
 &emsp;Giron convien che senza pro si penta
 
-¹⁴ Potest homo in se habere manum violentam\
+14 Potest homo in se habere manum violentam\
 &emsp;Et in sua bona: et ideo in secundo\
 &emsp;Girone oportet quod eos sine profecto peniteat
 
-¹⁵ Qualunque prima sè del vostro mondo,\
+15 Qualunque prima sè del vostro mondo,\
 &emsp;Biscazza e froda la sua facultade,\
 &emsp;E piange dove debba esser giocondo.
 
-¹⁵ Quicumque privat se de vestro mundo,\
+15 Quicumque privat se de vestro mundo,\
 &emsp;Dissipat et fundit suam facultatem,\
 &emsp;Et plangit ubi deberet esse iucundus.
 
-¹⁶ Puossi far forza nella deitade,\
+16 Puossi far forza nella deitade,\
 &emsp;Col cuor negando e bastemmiando quella,\
 &emsp;E spregiando natura e sua bontade:
 
-¹⁶ Potest fieri violentia deitati,\
+16 Potest fieri violentia deitati,\
 &emsp;Cum corde negando et blasphemando illam,\
 &emsp;Et spernendo naturam et suam bonitatem:
 
-¹⁷ E però lo minor giron suggella\
+17 E però lo minor giron suggella\
 &emsp;Del segno suo Sogdoma e Chaorsa\
 &emsp;E chi, spregiando Dio, col cuor favella.
 
-¹⁷ Et ideo minor girus sigillat\
+17 Et ideo minor girus sigillat\
 &emsp;Signo suo Sodomam et Caorsam\
 &emsp;Et qui, spernendo Deum, cum corde loquitur.
 
@@ -218,63 +218,63 @@ Ista est tertia species. Violentia, que infertur in Deum, est gravior. Bonitatem
 
 <!-- p. 148 (0202) -->
 
-¹⁸ La froda, ond'ogni consciencia è morsa,\
+18 La froda, ond'ogni consciencia è morsa,\
 &emsp;Può l'huom usar in quei che 'n lui si fida,\
-&emsp;Et in quel che fidanza non imborsa (¹).
+&emsp;Et in quel che fidanza non imborsa (1).
 
-¹⁸ Fraude, a qua omnis conscientia mordetur,\
+18 Fraude, a qua omnis conscientia mordetur,\
 &emsp;Potest homo uti in illo qui de eo confidat,\
 &emsp;Et in illo qui fidem non imbursat.
 
-¹⁹ Questo modo dirieto par ch'uccida\
-&emsp;Pur lo vinchio (²) d'amor che fa natura;\
+19 Questo modo dirieto par ch'uccida\
+&emsp;Pur lo vinchio (2) d'amor che fa natura;\
 &emsp;Onde nel cerchio secondo s'annida
 
-¹⁹ Iste modus secundus videtur quod occidat\
+19 Iste modus secundus videtur quod occidat\
 &emsp;Solummodo vinculum amoris quod facit natura;\
 &emsp;Unde in circulo secundo se anidat,
 
-²⁰ Ipocrisia, lusinghe e chi affactura,\
+20 Ipocrisia, lusinghe e chi affactura,\
 &emsp;Falsità, ladroneggio e symonia,\
 &emsp;Ruffian, baracti e simile lordura.
 
-²⁰ Ypocrisis, adulaciones et qui habet facturam,\
+20 Ypocrisis, adulaciones et qui habet facturam,\
 &emsp;Falsitas, latrocinium et symonia,\
 &emsp;Lenones, baractarii et similis turpitudo.
 
-²¹ Per quest'amore l'altro amor s'oblia\
+21 Per quest'amore l'altro amor s'oblia\
 &emsp;Che fa natura, e quel ch'è poi aggiuncto,\
 &emsp;Di che la fede spetial si cria:
 
-²¹ Per alium modum illius amoris obliviscitur\
+21 Per alium modum illius amoris obliviscitur\
 &emsp;Quem facit natura, et illius quod postea additur,\
 &emsp;Ex quibus fides specialis creatur:
 
-²² Onde nel cerchio minor, dov'è il puncto\
-&emsp;Dell'universo in su che (³) Dite siede,\
+22 Onde nel cerchio minor, dov'è il puncto\
+&emsp;Dell'universo in su che (3) Dite siede,\
 &emsp;Qualunque trade in eterno è consumcto.
 
-²² Ideo in circulo minori, ubi est punctus\
+22 Ideo in circulo minori, ubi est punctus\
 &emsp;Universi in quo sedet Dites,\
 &emsp;Quicumque prodit in eternum est consumptus.
 
-²³ Et io: Maestro, assai chiaro procede\
+23 Et io: Maestro, assai chiaro procede\
 &emsp;La tua ragione, et assai ben distingue\
 &emsp;Questo baracto e 'l popol che possiede.
 
-²³ Et ego: Magister, satis clare procedit\
+23 Et ego: Magister, satis clare procedit\
 &emsp;Tua ratio, et satis bene distinguit\
 &emsp;Istud baratrum et populum qui illud possidet.
 
-²⁴ Ma di': Di quei che la (⁴) palude pingue\
+24 Ma di': Di quei che la (4) palude pingue\
 &emsp;Che mena 'l vento e che batte la pioggia,\
 &emsp;E che si scontran con sì aspre lingue,
 
-²⁴ Sed dic michi: Illi de palude pingui\
+24 Sed dic michi: Illi de palude pingui\
 &emsp;Quos ducit ventus et quos percutit pluvia,\
 &emsp;Et qui ad invicem sibi obviant cum tam asperis linguis,
 
-(¹) i. che non si fida in lui. — (²) vinculo. — (³) al. in sul qual. — (⁴) al. della.
+(1) i. che non si fida in lui. — (2) vinculo. — (3) al. in sul qual. — (4) al. della.
 
 sunt res Dei; una filia, scilicet natura; alia neptis, scilicet ars. Caorsa est una civitas in Gallia, que vulgariter dicitur Caturgium. In ista civitate omnes sunt usurarii, et cives faciunt maximas usuras; et inde auctor denominat usurarios Caorsos. De illa civitate fuit Papa Ioannes vigesimus secundus. Hic trahitur materia violentorum.
 
@@ -288,63 +288,63 @@ E io maiestro. Et ego magister: ista est tertia pars huius capituli, ubi auctor 
 
 <!-- p. 149 (0203) -->
 
-²⁵ Perchè non dentro da la città roggia (¹)\
+25 Perchè non dentro da la città roggia (1)\
 &emsp;Son'ei puniti, se Dio gl'à in ira?\
-&emsp;E se non gl'à (²), perchè son a tal foggia?
+&emsp;E se non gl'à (2), perchè son a tal foggia?
 
-²⁵ Quare non infra civitatem igneam\
+25 Quare non infra civitatem igneam\
 &emsp;Sunt ipsi puniti, si Deus habet eos odio?\
 &emsp;Et si non habet eos, cur sunt ad talem qualitatem?
 
-²⁶ Et elli a me: Perchè tanto delira,\
+26 Et elli a me: Perchè tanto delira,\
 &emsp;Disse, lo ingegno tuo da quel che suole?\
-&emsp;Ovver la mente (³) dove altrove mira?
+&emsp;Ovver la mente (3) dove altrove mira?
 
-²⁶ Et ipse ad me: Quare tantum delirat,\
+26 Et ipse ad me: Quare tantum delirat,\
 &emsp;Dixit, ingenium tuum ab illo qui solet?\
 &emsp;Sive mens ad quem alium locum respirat?
 
-²⁷ Non ti rimembra (⁴) di quelle parole,\
+27 Non ti rimembra (4) di quelle parole,\
 &emsp;De le quai tua Ethica pertracta\
 &emsp;Le tre disposition che 'l ciel non vuole,
 
-²⁷ Nonne reminisceris illorum verborum,\
+27 Nonne reminisceris illorum verborum,\
 &emsp;Cum quibus tua Ethica pertractat\
 &emsp;Tres dispositiones quas celum non vult,
 
-²⁸ Incontinenza, malitia et la macta\
+28 Incontinenza, malitia et la macta\
 &emsp;Bestialitade? e come incontinenza\
 &emsp;Men Dio offende e biasmo men accacta?
 
-²⁸ Incontinentia, malitia et fatua\
+28 Incontinentia, malitia et fatua\
 &emsp;Bestialitas? et quomodo incontinentia\
 &emsp;Minus Deum offendit et minus infamie acquirit?
 
-²⁹ Se tu riguardi ben questa sentenza,\
+29 Se tu riguardi ben questa sentenza,\
 &emsp;E rechiti a la mente chi son quelli,\
 &emsp;Che su di fuor sostengnon penitenza,
 
-²⁹ Si tu respicis bene istam sententiam,\
+29 Si tu respicis bene istam sententiam,\
 &emsp;Et reducis ad mentem qui sunt illi,\
 &emsp;Qui sursum extra sustinent penitentiam,
 
-³⁰ Tu vedrai ben perchè da questi felli\
+30 Tu vedrai ben perchè da questi felli\
 &emsp;Son dipartiti, e perchè men crucciata\
 &emsp;La divina iustitia li martelli.
 
-³⁰ Tu videbis quare ab istis pravis\
+30 Tu videbis quare ab istis pravis\
 &emsp;Sunt divisi, et quare minus irata\
 &emsp;Divina iustitia eos cruciet.
 
-³¹ O sol che sani ogni vista turbata,\
+31 O sol che sani ogni vista turbata,\
 &emsp;Tu mi contenti sì, quando tu solvi,\
 &emsp;Che non men che saper, dubbiar m'agrata.
 
-³¹ O sol qui sanas omnem visionem turbatam,\
+31 O sol qui sanas omnem visionem turbatam,\
 &emsp;Tu me reddis contentum sic, quando tu solvis,\
 &emsp;Quod non minus quam scire dubitare est michi gratum.
 
-(¹) rossa et affocata. — (²) dio in ira. — (³) tua — (⁴) ricordi.
+(1) rossa et affocata. — (2) dio in ira. — (3) tua — (4) ricordi.
 
 declaratio, et satis bene distinguis istud baratrum, idest profunditatem, vel voraginem, et periculum quem poss[id]et, idest quem tenet; quia baratrum tenet et possidet huiusmodi populum dampnatum. Hec est questio; sed dic michi: illi de palude pingui, idest crassa, et quos ducit ventus, idest peccatores carnales, et quos percutit pluvia, idest gulosos, et illos qui sibi invicem obviant cum tam asperis linguis, idest avaros et prodigos, de quibus dictum fuit superius antequam intraremus civitatem istam muratam, quare non intra civitatem roventem, idest rubeam, sive ignitam sunt puniti, si Deus habet eos in ira? et si non habet, scilicet eos in ira, quare sunt ad talem fog[g]iam, idest modum, et quare substinent talem penam?
 
@@ -360,39 +360,39 @@ O sol: alias, o solus, qui sanas omnem visionem turbatam, tu me contentas tantum
 
 <!-- p. 150 (0204) -->
 
-³² Ancor um poco indietro ti rivolvi,\
-&emsp;Diss'io, la dove di' (¹) ch'usura offende\
+32 Ancor um poco indietro ti rivolvi,\
+&emsp;Diss'io, la dove di' (1) ch'usura offende\
 &emsp;La divina bontade, e 'l groppo solvi.
 
-³² Adhuc aliquantulum retro te revolvis,\
+32 Adhuc aliquantulum retro te revolvis,\
 &emsp;Dixi ego, ubi dicis quod uxura offendit\
 &emsp;Divinam bonitatem, et dubium solvas.
 
-³³ Phylosophia, mi disse, a chi la 'ntende,\
+33 Phylosophia, mi disse, a chi la 'ntende,\
 &emsp;Nota, non pur in una sola parte,\
 &emsp;Come natura lo suo corso prende
 
-³³ Philosophia, michi dixit, illi qui illam intelligit,\
+33 Philosophia, michi dixit, illi qui illam intelligit,\
 &emsp;Notat non solum in una parte,\
 &emsp;Quomodo natura suum cursum prehendit
 
-³⁴ Dal divino intellecto e da sua arte;\
+34 Dal divino intellecto e da sua arte;\
 &emsp;E se tu ben la tua Physica note,\
 &emsp;Tu troverai non doppo molte carte,
 
-³⁴ A divino intellectu et a sua arte;\
+34 A divino intellectu et a sua arte;\
 &emsp;Et si tu bene tuam Phisicam notas,\
 &emsp;Tu invenies non post multas carthas,
 
-³⁵ Che la vostr'arte e quella, quanto puote,\
+35 Che la vostr'arte e quella, quanto puote,\
 &emsp;Segue, come 'l maestro fa 'l discente,\
 &emsp;Sì che vostr'art'è a Dio quasi nepote.
 
-³⁵ Quod ars nostra illam, in quantum potest,\
+35 Quod ars nostra illam, in quantum potest,\
 &emsp;Sequitur, sicut magistrum facit discens,\
 &emsp;Ita quod ars vestra Deo est quasi neptis.
 
-(¹) dicas mihi.
+(1) dicas mihi.
 
 peccatores, qui cruciantur extra istam civitatem roggiam, idest rubeam, sive ignitam, peccaverunt per incontinentiam; sed illi, qui tormentantur intra civitatem istam, peccaverunt per malitiam et per stultam bestialitatem. De peccato malitie et stulta bestialitate pertractat Aristotiles primo Ethicorum. Nam stulta bestialitas opponitur sapientie, saltem prudentie.
 
@@ -406,28 +406,28 @@ Notanda sunt hic aliqua, quorum primum est, quare natura et ars dicantur res Dei
 
 <!-- p. 151 (0205) -->
 
-³⁶ Da queste cose, se ti rechi a mente\
+36 Da queste cose, se ti rechi a mente\
 &emsp;Lo Genesi dal principio, conviene\
 &emsp;Prender sua vita, et avanzar la gente.
 
-³⁶ Ab istis rebus, si tu tibi reducis bene ad mentem\
+36 Ab istis rebus, si tu tibi reducis bene ad mentem\
 &emsp;Genesis a principio, convenit\
 &emsp;Prendere suam vitam, et multiplicare gentem.
 
-³⁷ Ma perchè l'usurier altra via tiene,\
+37 Ma perchè l'usurier altra via tiene,\
 &emsp;Per sua natura, e per lo suo seguace\
 &emsp;Dispregia, poi ch'in altro pon la spene.
 
-³⁷ Et quia usurarius aliam viam tenet,\
+37 Et quia usurarius aliam viam tenet,\
 &emsp;Per se naturam, et per suam sequacem\
 &emsp;Despicit, postea qui in alio ponit spem.
 
-³⁸ Ma seguemi oramai, chè gir mi piace:\
+38 Ma seguemi oramai, chè gir mi piace:\
 &emsp;Ch'e pesci guizzan su per l'orizzonta,\
 &emsp;E 'l carro tutto sopra 'l Thauro giace,\
 &emsp;E 'l balzo vie la oltre si dismonta.
 
-³⁸ Sed sequaris me ammodo, quia ire michi placet:\
+38 Sed sequaris me ammodo, quia ire michi placet:\
 &emsp;Quia pisces guizzant super orizontem,\
 &emsp;Et currus totus supra Torum iacet,\
 &emsp;Et balzo ibi inferius est et inde descenditur.

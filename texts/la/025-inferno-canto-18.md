@@ -8,11 +8,11 @@ In capitulo decimoctavo, quod incipit: Locus est in Inferno dictus, sive vocatus
 
 # Capitulum Decimumoctavum
 
-¹ Luogo è in Inferno, decto Malebolge,\
+1 Luogo è in Inferno, decto Malebolge,\
 &emsp;Tutto di pietra e di color ferrigno,\
 &emsp;Come la cerchia che dintorno volge.
 
-¹ Locus est in Inferno, dictus Malibolgie,\
+1 Locus est in Inferno, dictus Malibolgie,\
 &emsp;Totus de petra et coloris ferrignus,\
 &emsp;Sicut circulus qui in circum volvit.
 
@@ -34,71 +34,71 @@ Locus [est] Inferni, dictus Malibolgie, totus de petra et coloris ferrigni, ides
 
 <!-- p. 229 (0283) -->
 
-² Nel dricto mezzo del campo maligno\
+2 Nel dricto mezzo del campo maligno\
 &emsp;Si gira un pozzo assai largo e profondo,\
 &emsp;Di cui a suo luogo dicerò l'ordigno.
 
-² In recto medio campi maligni\
+2 In recto medio campi maligni\
 &emsp;Vanegiat unus putheus satis largus et profundus,\
 &emsp;De quo suo loco dicetur ordo eius.
 
-³ Quel cinghio che riman adonque tondo,\
+3 Quel cinghio che riman adonque tondo,\
 &emsp;Tra'l pozzo e'l piè dell'alta ripa dura,\
 &emsp;Era distinto in diece valli 'l fondo.
 
-³ Ille circulus qui remanet ergo est profundus,\
+3 Ille circulus qui remanet ergo est profundus,\
 &emsp;Inter putheum et pedem ripe dure,\
 &emsp;Erat distinctus in decem valles in fundo.
 
-⁴ Quale, dove per guardia de le mura\
+4 Quale, dove per guardia de le mura\
 &emsp;Più e più fossi cingon e castelli,\
 &emsp;La parte dove sen rende sicura;
 
-⁴ Qualiter, ubi pro custodia murorum\
+4 Qualiter, ubi pro custodia murorum\
 &emsp;Plures et plures fosse cingunt castella,\
 &emsp;In parte ubi se reddunt minus secura;
 
-⁵ Cotal ymagin quivi (¹) facean quelli:\
+5 Cotal ymagin quivi (1) facean quelli:\
 &emsp;E come a tal fortezze di lor sogli\
 &emsp;De la ripa di fuor son ponticelli,
 
-⁵ Talem ymaginem hic faciebant illi:\
+5 Talem ymaginem hic faciebant illi:\
 &emsp;Et sicut a talibus fortaliciis ab ipsorum soliis\
 &emsp;Ad ripam de foris sunt ponticelli,
 
-⁶ Così da una de le roccie scogli\
+6 Così da una de le roccie scogli\
 &emsp;Eran, che ricidien argini e fossi\
 &emsp;Infin al pozzo, che i troncha e raccogli.
 
-⁶ Ita ab ymo roccie scopuli\
+6 Ita ab ymo roccie scopuli\
 &emsp;Movebantur, qui recidebant argines et fossata\
 &emsp;Usque ad putheum, qui dividit et recolligit.
 
-⁷ In questo luogo, dalla schena scossi\
+7 In questo luogo, dalla schena scossi\
 &emsp;Di Gerïon trovammoci: e'l Poeta\
 &emsp;Tenne a sinistra, et io dietro mi mossi.
 
-⁷ In isto loco, ab humeris depositi\
+7 In isto loco, ab humeris depositi\
 &emsp;Gerionis invenimus nos: et Poeta\
 &emsp;Ivit ad sinistram, et ego retro ipsum me movi.
 
-⁸ A la man dextra vidi nuova pieta:\
+8 A la man dextra vidi nuova pieta:\
 &emsp;Nuovi frustati e nuovi frustatori,\
 &emsp;Di che la prima bolgia era repleta.
 
-⁸ Ad manum dextram vidi novam pietam:\
+8 Ad manum dextram vidi novam pietam:\
 &emsp;Novum tormentum et novos frustatores,\
 &emsp;De quibus prima bolgia erat repleta.
 
-⁹ Nel fondo erano nudi e peccatori:\
+9 Nel fondo erano nudi e peccatori:\
 &emsp;Dal mezzo in qua ci venien verso'l volto;\
 &emsp;Di là con noi, ma con passi maggiori.
 
-⁹ In fundo erant nudi peccatores:\
+9 In fundo erant nudi peccatores:\
 &emsp;A medio citra veniebant versus vultum;\
 &emsp;Et ultra nobiscum, et cum passibus maioribus.
 
-(¹) al. ivi.
+(1) al. ivi.
 
 In recto medio campi maligni vanegiat (idest vanus est) unus putheus largus et profundus, de quo suo loco et suo tempore dicetur ordo eius. Ille circulus, qui remanet, ergo, est tondus, idest rotundus, inter putheum et pedem, idest principium, ripe dure, erat distinctus in decem valles in fundo.
 
@@ -112,55 +112,55 @@ Nunc auctor vult depingere et describere penam lenonum, que est talis. Per valle
 
 <!-- p. 230 (0284) -->
 
-¹⁰ Com'e Roman, per l'esercito molto,\
+10 Com'e Roman, per l'esercito molto,\
 &emsp;L'anno del Iubileo, su per lo ponte\
 &emsp;Fanno passar la gente modo tolto:
 
-¹⁰ Sicut Romani, propter exercitum multum,\
+10 Sicut Romani, propter exercitum multum,\
 &emsp;In anno Iubilei, super pontem\
 &emsp;Habent ad transeundum gentem modum toltum:
 
-¹¹ Che dall'un lato tutti hanno la fronte\
+11 Che dall'un lato tutti hanno la fronte\
 &emsp;Verso'l Castello, e vanno a Sancto Pietro;\
 &emsp;Dall'altra [s]ponda vanno verso'l monte.
 
-¹¹ Ab uno latere omnes habent frontem\
+11 Ab uno latere omnes habent frontem\
 &emsp;Versus Castellum, et vadunt ad Sanctum Petrum;\
 &emsp;Ab altera sponda vadunt versus montem.
 
-¹² Di qua, di là, su per lo saxo tetro,\
+12 Di qua, di là, su per lo saxo tetro,\
 &emsp;Vidi demon cornuti con gran ferze,\
 &emsp;Che li battien crudelmente dirietro.
 
-¹² Citra et ultra, supra saxum tetrum,\
+12 Citra et ultra, supra saxum tetrum,\
 &emsp;Vidi demones cornutos cum magnis ferzis,\
 &emsp;Qui percutiebant crudeliter retro.
 
-¹³ Hay, come facean lor levar le berze\
+13 Hay, come facean lor levar le berze\
 &emsp;A le prime percosse! già nessuno\
 &emsp;Le seconde aspectava, nè le terze.
 
-¹³ Ay, quomodo faciebant eos levare berzas\
+13 Ay, quomodo faciebant eos levare berzas\
 &emsp;Ad primas percuciones! iam nemo\
 &emsp;Secundas expectabat, nec tertias.
 
-¹⁴ Mentr'io andava, gl'ochi miei in uno\
-&emsp;Furon scontrati; ond'io tantosto (¹) dissi:\
+14 Mentr'io andava, gl'ochi miei in uno\
+&emsp;Furon scontrati; ond'io tantosto (1) dissi:\
 &emsp;Di già veder costui non son digiuno.
 
-¹⁴ Dum ibant, oculi mei in unum\
+14 Dum ibant, oculi mei in unum\
 &emsp;Obviaverunt; et ego subito dixi:\
 &emsp;Iam vidisse istum non sum ieiunus.
 
-¹⁵ Per ciò a figurarlo e piedi affissi:\
+15 Per ciò a figurarlo e piedi affissi:\
 &emsp;E'l dolce duca mio sì si ristette,\
-&emsp;Et assentì (²) ch'alquanto indietro gissi.
+&emsp;Et assentì (2) ch'alquanto indietro gissi.
 
-¹⁵ Ideo ad assicurandum ipsum pedes fixi:\
+15 Ideo ad assicurandum ipsum pedes fixi:\
 &emsp;Et dulcis dux meus restetit,\
 &emsp;Et assensit quod aliquantulum retro irem.
 
-(¹) al. sì tosto. — (²) al. e consentì.
+(1) al. sì tosto. — (2) al. e consentì.
 
 Cursum istorum describit per comparationem talem. Pro qua intelligenda, nota, quod in millesimo trecentesimo fuit annus Iubilei, idest generalis remissionis; et tantus populus ivit Romam, quod erat difficile transire per pontem Sancti Petri. Hic est notandum: per civitatem Rome transit et fluit unus pulcher et amenus fluvius, qui vocatur Tiberis, sive fluvius Tiberinus. Hic fluvius antiquo tempore vocabatur Albula; sed quia postmodum suffocatus fuit in eo unus rex Albanus, vocatus Tiberinus, ideo sic fuit vocatus. Vel aliter: in montibus, qui vocantur montes Cutuli, ubi oritur, sive nascitur, iste fluvius, sunt tres fontes, qui stant insimul propinqui, sic dispositi sicut unum T, idest sicut littera T; et quia fluit ab illis tribus fontibus, dicitur Tiberinus. Modo super Tiberim fluvium est unus pulcherrimus pons, qui dicitur pons Sancti Petri; et in capite pontis est illud castrum, tam nobile, quod vocatur castrum Sancti Angeli, quia, tempore Sancti Gregorii pape, dum fuit et urgebat tam magna pestis, apparuit unus Angelus cum ense et vagina; et tunc castrum illud vocatum fuit castrum Sancti Angeli. Modo tempore Iubilei, propter multitudinem transeuntium super pontem, multi cadebant de ponte. Fuit facta una divisio pontis: fuit factus paries in medio pontis, dividens pontem per medium in longitudinem; ita quod illi [qui] descendebant de Roma, et volebant ire ad Sanctum Petrum, tenebant vultum et faciem versus castrum Sancti Angeli; illi qui veniebant de burgo Sancti Petri, tenebant vultum et faciem versus montem Capitolii: nam, ultra pontem predictum, est burgum Sancti Petri, et est una bona civitas.
 
@@ -172,55 +172,55 @@ Mentre io andava. Dum ego ibam: ista est secunda pars huius capituli, in qua auc
 
 <!-- p. 231 (0285) -->
 
-¹⁶ E quel frustato celar si credette\
+16 E quel frustato celar si credette\
 &emsp;Chinando'l viso, ma poco li valse;\
 &emsp;Ch'io dissi: O tu che l'occhio a terra gette,
 
-¹⁶ Et ille frustatus se celare credidit\
+16 Et ille frustatus se celare credidit\
 &emsp;Inclinando visum, sed modicum profuit;\
 &emsp;Quia ego dixi: O tu qui oculum ad terram giptas,
 
-¹⁷ Se l'affection (¹) che porti non son false,\
-&emsp;Venetico (²) se'tu Caccianemico (³);\
+17 Se l'affection (1) che porti non son false,\
+&emsp;Venetico (2) se'tu Caccianemico (3);\
 &emsp;Ma che ti mena a sì pungenti Salse?
 
-¹⁷ Si factiones quas portas non sunt false,\
+17 Si factiones quas portas non sunt false,\
 &emsp;Venedicus es tu Caccianimicus;\
 &emsp;Sed qui [te] conducit ad sic pungentes Salsas?
 
-¹⁸ Et elli a me: Malvolentier lo dico;\
+18 Et elli a me: Malvolentier lo dico;\
 &emsp;Ma sforzami la tua chiara favella,\
 &emsp;Che mi fa sovvenir del mondo antico.
 
-¹⁸ Et ille michi: Male libenter dico;\
+18 Et ille michi: Male libenter dico;\
 &emsp;Sed cogit me tua clara loquela,\
 &emsp;Que me facit subvenire de mundo antiquo.
 
-¹⁹ Io son (⁴) colui che la Ghisolabella\
+19 Io son (4) colui che la Ghisolabella\
 &emsp;Condussi a far la vogla del marchese,\
-&emsp;Come su suona la sconcia novella (⁵).
+&emsp;Come su suona la sconcia novella (5).
 
-¹⁹ Ego fui ille qui Guisolabellam\
+19 Ego fui ille qui Guisolabellam\
 &emsp;Conduxi ad faciendum voluntatem marchionis,\
 &emsp;Sicut sonat turpis novella.
 
-²⁰ E non pur io (⁶) qui piango Bolognese:\
-&emsp;Anzi (⁷) n'è questo luogo tutto (⁸) pieno,\
+20 E non pur io (6) qui piango Bolognese:\
+&emsp;Anzi (7) n'è questo luogo tutto (8) pieno,\
 &emsp;Che tante lingue non son hor apprese
 
-²⁰ Et non solum ego hic ploro Bononiensis:\
+20 Et non solum ego hic ploro Bononiensis:\
 &emsp;Ymo iste locus est tam plenus,\
 &emsp;Quod tot lingue non sunt nunc apprese
 
-²¹ A dicer sipa (⁹) tra Savona e Reno:\
+21 A dicer sipa (9) tra Savona e Reno:\
 &emsp;Se di ciò vuoi fede o testimonio,\
 &emsp;Recati a mente el nostro avaro seno.
 
-²¹ Ad dicendum sipa inter Savonam et Renum:\
+21 Ad dicendum sipa inter Savonam et Renum:\
 &emsp;Et si de hoc probationem vel testimonium queris,\
 &emsp;Reduc tibi ad mentem nostrum avarum sinum.
 
-(¹) al. se le faction, et melius. — (²) no. pr. — (³) de' Caccianimici da Bologna. — (⁴) al. fui. — (⁵) nel modo quod de hoc facta fuit cantilena. — (⁶) solo. — (⁷) al. anco. — (⁸) al. tanto, et melius. — (⁹) sì.
+(1) al. se le faction, et melius. — (2) no. pr. — (3) de' Caccianimici da Bologna. — (4) al. fui. — (5) nel modo quod de hoc facta fuit cantilena. — (6) solo. — (7) al. anco. — (8) al. tanto, et melius. — (9) sì.
 
 dominus Opizo, marchio Ferrarie, erat philocaptus. Iste, ad complacendum marchioni, et propter donaria magna, que ipse marchio donavit isti domino Venedico, sic ordinavit, sicut leno miser, quod marchio habuit voluntatem suam et rem egit cum ista Guisolabella. Hunc dominum Venedicum Dantes noverat Bononie, dum esset ibi scolaris. Demum nota, quod super Bononiam est unus mons, super quem una ecclesia est Sancte Marie, que est in maxima devotione in populo bononiensi; super quem montem est unus locus, qui vocatur Salse, in quo campo solebant seppelliri illi, qui se suspendebant, et ubi seppelliebantur usurarii et excomunicati. Et quando quis vellet improperare uni in Bononia, diceret: Utinam tu seppelliaris ad Salsas, idest in illo campo, etc. Et tunc ad textum.
 
@@ -238,55 +238,55 @@ Ad intelligendum textum sequentem, nota quod prope Bononiam, extra civitatem, pe
 
 <!-- p. 232 (0286) -->
 
-²² Così parlando, 'l percosse un demonio\
+22 Così parlando, 'l percosse un demonio\
 &emsp;Con la sua scuriata, e disse: Via,\
 &emsp;Ruffian, qui non è femine da conio.
 
-²² Sic loquentem eum percussit unus demon\
+22 Sic loquentem eum percussit unus demon\
 &emsp;De suo flagello, et dixit: Vade vias,\
 &emsp;Leno, hic non sunt femine de conio.
 
-²³ Io mi raggiunsi con la scorta mia:\
+23 Io mi raggiunsi con la scorta mia:\
 &emsp;Poscia con pochi passi divenimmo,\
 &emsp;Dov' uno scoglo da la ripa uscia.
 
-²³ Ego me reunivi cum scorta mea:\
+23 Ego me reunivi cum scorta mea:\
 &emsp;Postea cum paucis passibus devenimus.\
 &emsp;Ubi unus scopulus de ripa exibat.
 
-²⁴ Assai leggiermente quel salimmo,\
+24 Assai leggiermente quel salimmo,\
 &emsp;E volti a dextra su per la sua scheggia,\
 &emsp;Da quelle cerchie eterne ci partimmo.
 
-²⁴ Satis leviter illum ascendimus,\
+24 Satis leviter illum ascendimus,\
 &emsp;Et versi ad dextram [super] suam schegiam,\
 &emsp;Ab istis circulis eternis recessimus.
 
-²⁵ Quando noi fummo là dove vaneggia\
+25 Quando noi fummo là dove vaneggia\
 &emsp;Di sotto, per dar passo agli sferzati,\
 &emsp;Lo duca disse: Attienti, e fa che feggia
 
-²⁵ Quando nos fuimus ubi vaneggiat\
+25 Quando nos fuimus ubi vaneggiat\
 &emsp;Deorsum, ad dandum passum inferzatis,\
 &emsp;Dux dixit: Attende, et fac quod figant
 
-²⁶ Lo viso in te di quest'altri malnati,\
+26 Lo viso in te di quest'altri malnati,\
 &emsp;A'quali non vedesti ancor la faccia,\
 &emsp;Però che son con noi insieme andati.
 
-²⁶ Visum in te de istis aliis male natis,\
+26 Visum in te de istis aliis male natis,\
 &emsp;Quorum adhuc non vidisti faciem,\
 &emsp;Quia ipsi nobiscum venerunt.
 
-²⁷ Del vecchio ponte guardavàn la traccia,\
+27 Del vecchio ponte guardavàn la traccia,\
 &emsp;Che venia verso noi dall'altra banda,\
-&emsp;E che la sferza similmente caccia (¹).
+&emsp;E che la sferza similmente caccia (1).
 
-²⁷ A veteri ponte respiciebam tractiam,\
+27 A veteri ponte respiciebam tractiam,\
 &emsp;Que veniebat versus nos ab alia banda,\
 &emsp;Et quam ferza similiter expellit.
 
-(¹) al. scaccia.
+(1) al. scaccia.
 
 est versus occidentem, qui vocatur Renus de Bononia, qui etiam distat per duo milliaria versus Mutinam. Inter istos duos fluvios est sita Bononia. Secundo nota, quod sipa est vocabulum proprie bononiense: sipa, idest sic. Quando Bononienses volunt dicere: Deus velit quod ego sim bonus, dicunt: Sipa. Et est vocabulum valde usitatum in ydiomate bononiense; et sepissime, eundo per civitatem Bononie, audies homines et mulieres dicentes: Sipa. Modo vult ostendere iste dominus Venedicus, quot Bononienses lenones sint hic in isto loco, dicens: Et non solum ego hic ploro bononiensis; ymo iste locus est tam plenus, quod tot lingue non sunt nunc apperse, idest aperte, ad dicendum sipa inter Savonam et Renum; idest illum fluvium, qui est ultra Bononiam versus Romandiolam per duo milliaria, et Renum, idest alium fluvium, qui [est] citra Bononiam versus occidentem. Idest: non sunt tot lingue, dicentes sipa in civitate Bononie, quot Bononienses sunt hic in hoc loco. Et dat causam, unde posset credere, dicens: Et si de hoc probationem, vel testimonium hoc queris, reduc tibi ad mentem nostrum avarum sinum.
 
@@ -300,77 +300,77 @@ Quando nos fuimus ubi vineggiat, idest ubi est locus vacuus, quia sub ponte est 
 
 <!-- p. 233 (0287) -->
 
-²⁸ Lo buon Maestro, senza mia dimanda,\
+28 Lo buon Maestro, senza mia dimanda,\
 &emsp;Mi disse: Guarda quel grande che viene,\
 &emsp;Che per dolor non par lagrime spanda:
 
-²⁸ Et bonus magister, sine mea petitione,\
+28 Et bonus magister, sine mea petitione,\
 &emsp;Michi dixit: Intuere illum magnum qui venit,\
 &emsp;Et propter dolorem non videtur quod lacrymam expandat:
 
-²⁹ Quant'aspecto real ancor ritiene!\
-&emsp;Quelli è Yason, che per cuor (¹) e per senno\
-&emsp;Li Colchi del monton (²) privati fene.
+29 Quant'aspecto real ancor ritiene!\
+&emsp;Quelli è Yason, che per cuor (1) e per senno\
+&emsp;Li Colchi del monton (2) privati fene.
 
-²⁹ Quantum aspectum regalem adhuc retinet!\
+29 Quantum aspectum regalem adhuc retinet!\
 &emsp;Iason fuit ille, qui per cor et per sensum\
 &emsp;Cholchos de montone privavit.
 
-³⁰ Costui passò per l'isola di Lenno,\
+30 Costui passò per l'isola di Lenno,\
 &emsp;Poi che l'ardite femmine e spiatate\
 &emsp;Tutti li maschi lor a morte denno.
 
-³⁰ Ipse transivit per insulam Lenni,\
+30 Ipse transivit per insulam Lenni,\
 &emsp;Postquam audaces femine spietate\
 &emsp;Omnes masculos earum morti tradiderunt.
 
-³¹ Ivi con segni e con parole ornate\
+31 Ivi con segni e con parole ornate\
 &emsp;Ysiphile ingannò, la giovinetta,\
-&emsp;Che prim'havea tutte l'altre ingannate (³).
+&emsp;Che prim'havea tutte l'altre ingannate (3).
 
-³¹ Ibi cum signis et cum verbis ornatis\
+31 Ibi cum signis et cum verbis ornatis\
 &emsp;Ysiphilem decepit, iuvenculam,\
 &emsp;Que prius omnes alias deceperat.
 
-³² Lasciolla quivi gravida e soletta:\
+32 Lasciolla quivi gravida e soletta:\
 &emsp;Tal colpa a tal martiro lui condanna;\
 &emsp;Et ancor di Medea si fa vendetta.
 
-³² Dimisit hic gravidam et solam:\
+32 Dimisit hic gravidam et solam:\
 &emsp;Talis culpa ad tale martyrium ipsum condempnat;\
 &emsp;Et etiam de Medea fuit vindicta.
 
-(¹) animosità. — (²) dell'oro. — (³) riservando'l padre.
+(1) animosità. — (2) dell'oro. — (3) riservando'l padre.
 
 Modo ponitur hic unus spiritus antiquus. Hic spiritus fuit Iason, qui, audita fama de vellere aureo, quod erat in Cholchis (est enim una insula in Archipelago de numero Cicladarum, que vocatur Cholchis, in qua erat unus aries, qui faciebat vellus aureum), tunc Iason fecit fieri unam navem, et cum multis, scilicet cum Hercule, cum Theseo, et multis aliis probis viris, intravit mare, tendens versus Cholchis. Transiverunt prope unam insulam, que vocatur Lenno (est etiam in Archipelago); in qua insula acciderunt ea, que infra scribuntur, que Statius scribit. Illi homines de insula Lenno, ante dextructionem Troye, iverunt contra insulam Tracie et regem eius, et steterunt pugnantes bene per tres annos; quos sepe uxores eorum revocaverunt. Nunquam voluerunt redire. Ista[m] hystoria[m] de hiis, qui iverunt contra Traciam, Oratius bene ponit, hystoriam esse veram. Poete tamen fingunt, quod isti homines de Lenno non volebant colere Venerem deam, sed colebant Martem. Demum, post tres annos, redibant isti de Lenno victores. Tunc Venus inspiravit omnibus mulieribus de Lenno, quia masculi spreverunt Venerem, ut venientes masculos et redeuntes victores interficerent omnes eos; et facto consilio, quelibet iuravit interficere suum maritum redeuntem, vel germanum, ita quod nullus masculus remaneret. In quo consilio interfuit Ysiphile, filia regis Thoantis, regis Lenni, qui erat iam antiquus, quem Ysiphile promisit aliis mulieribus etiam interficere. Et omnia que deliberaverunt, omnes fecerunt, preter Ysiphilem, que compassa patri, non interfecit eum. Et quomodo mulieres interfecerunt omnes masculos? Ecce: quia venientes et redeuntes cum victoria de Tracia susceperunt letanter, facientes solempnem cenam, dando eis optima vina et inebriaverunt eos; et tunc de nocte, sopitos sompno et vino, omnes interfecerunt. Modo ista insula erat sine masculis; prope quam navigando Iason cum sotiis, applicuit ei insule Lenni. Mulieres, videntes navem, et nullam aliam viderant, posuerunt se super muros civitatis ad propugnacula pro defensione: quod videns Jason, subito extraxit ramum ulive et ostendit signum pacis et amicitie. Quod videntes mulieres, aperuerunt eis portas et intraverunt, et steterunt ibi diu, et quilibet habebat bonam amasiam. Iason, qui erat filius regis, pulcherrimus corpore, astutus et prudens, strenuus in armis, recepit in amasiam Ysiphilem, filiam regis Thoantis, regis Lenni, qui disponsavit eam, et promisit sibi semper tenere in suam uxorem; et volens complere iter suum cum sotiis, dimictens Ysiphilem gravidam et pregnantem de duobus filiis, recessit inde, et applicuit ad Cholchis insulam pro vellere aureo acquirendo. Tunc fuit ibi rex Cholchis, qui habebat filiam pulcherrimam, nomine Medeam, que erat litterata, prudens, incantatrix demonum, magica; noverat omnes virtutes erbarum, ut habetur in alia Tragedia Senece. Hec Medea, viso Iasone, et audita fama eius, subito fuit philocapta de ipso Iasone, et habuit secretum colloquium cum eo, et dixit sibi: Tu vis vellus aureum? Qui respondit, quod sic. Tunc dixit Medea: Tu nunquam posses acquirere, nisi tu scires modum, per quem; sed si tu vis promictere michi recipere me in uxorem, ego docebo te viam, etc. Iason promisit sibi omnia, que ipsa Medea petebat. Tunc ipsa docuit eum, quomodo oportebat eum primo preliari cum uno maximo serpente; et illo devicto (quod erat magnus labor ad faciendum), tunc oportebit ipsum ire ad silvam, et capere duos tauros feroces, indomitos, et illos coniungere iugo, et cum aratro arare cum ipsis duobus tauris, et recipere dentes serpentis interfecti et seminare eos in terra arata; et subito de dentibus illis orirentur et nascerentur homines armati, feroces in armis; et cum quolibet illorum oportebat ipsum Iasonem pugnare et vincere omnes eos: quo facto, obtineret vellus aureum, et nullo modo aliter posset obtinere. Et subiunxit: Et ego docebo
 
 <!-- p. 234 (0288) -->
 
-³³ Con lui sen va chi da tal parte inganna:\
+33 Con lui sen va chi da tal parte inganna:\
 &emsp;E questo basti della prima valle\
-&emsp;Saper, e di color che'n se affanna (¹).
+&emsp;Saper, e di color che'n se affanna (1).
 
-³³ Cum ipso vadit qui a tali parte decipit:\
+33 Cum ipso vadit qui a tali parte decipit:\
 &emsp;Hec sufficiant de prima valle\
 &emsp;Scire, et de illis que in se assannat.
 
-³⁴ Già eravam dove lo stretto calle\
-&emsp;Coll'argine secondo s'incrocichia (²),\
-&emsp;E fa di quello a un altr'arco (³) spalle.
+34 Già eravam dove lo stretto calle\
+&emsp;Coll'argine secondo s'incrocichia (2),\
+&emsp;E fa di quello a un altr'arco (3) spalle.
 
-³⁴ Iam eramus ubi strictus callis\
+34 Iam eramus ubi strictus callis\
 &emsp;Cum argine secundo connectitur,\
 &emsp;Et facit de illo ad unum alium spatulas.
 
-³⁵ Quivi sentimmo gente che s'innichia (⁴)\
+35 Quivi sentimmo gente che s'innichia (4)\
 &emsp;Nell'altra bolgia, che col muso sbuffa,\
-&emsp;E sè medesma co' le palme picchia (⁵).
+&emsp;E sè medesma co' le palme picchia (5).
 
-³⁵ Hic sensimus gentem que s'innuscat\
+35 Hic sensimus gentem que s'innuscat\
 &emsp;In altera bolgia, et que cum muso scuffat,\
 &emsp;Et semetipsam cum palmis piccat.
 
-(¹) al. assanna — (²) in modum crucis iungitur. — (³) ponte — (⁴) s'ascondeno come in un nichio. — (⁵) perchuote.
+(1) al. assanna — (2) in modum crucis iungitur. — (3) ponte — (4) s'ascondeno come in un nichio. — (5) perchuote.
 
 cum carminibus meis et incantationibus sic et taliter facere, quod omnia succedent tibi ad nutum, si observaveris michi promissa. Quod et fecit. Omnibus feliciter expeditis, propter timorem patris Medee oportuit eos recedere occulte, et Medea portavit secum unum suum germanum parvunculum, octo annorum, hac de causa, dicens: Quia pater meus insequetur nos, ego interficiam hunc puerum germanum meum, et proiiciam frusta eius ad terram. Pater meus, videns mortuum filium, vacabit circa planctum et sic nos fugiemus. Et ita, sicut ipsa dixit, omnia evenerunt. Tamen, intrantes in mari, navigaverunt, nec redierunt per insulam Lenni, ubi ipse Iason promiserat Ysiphile, quam dimiserat pregnantem; sed rediit ad Argos, ad civitatem suam, et habuit in uxorem istam Medeam, ex qua genuit quatuor filios: quam in processu temporis etiam decepit, volens accipere aliam uxorem, ut narrat septima Tragedia Senece. Et sic Iason decepit Ysiphilem, et etiam decepit Medeam. Hic in isto loco tormentatur, quia fuit maximus leno ad decipiendum feminas, et ad inducendum eas ad faciendum voluntatem eius.
 
@@ -382,63 +382,63 @@ Iam eramus ubi strictus callis cum argine secundo, idest cum aggere secundo, se 
 
 <!-- p. 235 (0289) -->
 
-³⁶ Le ripe eran grommate d'una muffa\
-&emsp;Per l'alito (¹) di giù che vi s'appasta,\
+36 Le ripe eran grommate d'una muffa\
+&emsp;Per l'alito (1) di giù che vi s'appasta,\
 &emsp;Che cogl'ochi e col naso facea zuffa.
 
-³⁶ Ripe erant grumate de una muffa\
+36 Ripe erant grumate de una muffa\
 &emsp;Propter alitum de deorsum, qui sibi s'appastat,\
 &emsp;Que cum oculis et naso faciebat zuffam.
 
-³⁷ Lo fondo è cupo sì, che non ci basta\
+37 Lo fondo è cupo sì, che non ci basta\
 &emsp;L'ochio a veder senza montar al dosso\
 &emsp;Dell'arco, ove lo scoglo più soprasta.
 
-³⁷ Fundus est cupus ita, quod non sufficit oculus\
+37 Fundus est cupus ita, quod non sufficit oculus\
 &emsp;Ibi ad videndum nisi ascendatur dorsum\
 &emsp;Arcus, ubi scopulus plus suprastat.
 
-³⁸ Quivi venimmo, et ivi giù nel fosso\
+38 Quivi venimmo, et ivi giù nel fosso\
 &emsp;Vidi gente atufata in uno sterco,\
-&emsp;Che dall'human privati (²) parea mosso.
+&emsp;Che dall'human privati (2) parea mosso.
 
-³⁸ Huc venimus, et hinc deorsum in fossum\
+38 Huc venimus, et hinc deorsum in fossum\
 &emsp;Vidi gentem atufactam in uno stercore,\
 &emsp;Quod ab humanis privatis videbatur motum.
 
-³⁹ E mentr'io laggiù coll'ochio cerco,\
+39 E mentr'io laggiù coll'ochio cerco,\
 &emsp;Vidi un col capo sì di merda lordo,\
 &emsp;Che non parea s'era layco o cherco.
 
-³⁹ Et dum illuc cum oculo perquiro,\
+39 Et dum illuc cum oculo perquiro,\
 &emsp;Vidi unum cum capite sic de stercore lordum,\
 &emsp;Qui non apparebat si erat laycus vel clericus.
 
-⁴⁰ Quel mi sgridò: Perchè se' tu sì'ngordo\
+40 Quel mi sgridò: Perchè se' tu sì'ngordo\
 &emsp;Di riguardar più me, che gl'altri bructi?\
 &emsp;Et io a lui: Perchè, se ben ricordo,
 
-⁴⁰ Ille michi sgridavit: Quare tu es ita avidus\
+40 Ille michi sgridavit: Quare tu es ita avidus\
 &emsp;Respicere plus in me, quam in alios fedatos?\
 &emsp;Et ego illi: Quia, si bene recordor,
 
-⁴¹ Già t'ho veduto co' capelli asciucti,\
+41 Già t'ho veduto co' capelli asciucti,\
 &emsp;E se' Alexo Interminel da Lucha:\
 &emsp;Però t'adochio più che gl'altri tucti.
 
-⁴¹ Iam te vidi cum capillis siccis,\
+41 Iam te vidi cum capillis siccis,\
 &emsp;Et es Allexius de Interminellis de Lucca:\
 &emsp;Ideo te intueor plusquam omnes alios.
 
-⁴² Ond'elli (³) allor (⁴), battendosi la zucha:\
+42 Ond'elli (3) allor (4), battendosi la zucha:\
 &emsp;Quaggiù m'ànno sommerso le lusinghe,\
 &emsp;Ond'io non ebbi mai la lingua stucha.
 
-⁴² Et ille, percutiendo tunc sibi caput:\
+42 Et ille, percutiendo tunc sibi caput:\
 &emsp;Huc me submerserunt adulationes,\
 &emsp;Unde nunquam habui linguam satiam.
 
-(¹) puzza di merda. — (²) luoghi necessarii. — (³) al. Et elli. — (⁴) disse.
+(1) puzza di merda. — (2) luoghi necessarii. — (3) al. Et elli. — (4) disse.
 
 Ripe erant grommate, idest accasate. Grumma est illa pellicula, quam producit vinum in dolio, quando diu stetit in ipso, sicut grumma circum circa dolium ad intra stat. Ita stabant iste ripe; quia sicut vinum producit illam grummam; ita alitus, idest flatus, qui ascendit quasi fumus de stercore, producit illam grummam in ripis. De una muffa: muffa proprie est, quando in doliis, maxime in quibus stetit aqua, nascitur quasi una barba de pilis albis, et putridum odorem generat ad nasum. Propter alitum, idest fumum ascendentem de deorsum ad superius, qui ibi s'appastat, idest per modum paste se coniungit. Que cum oculis et naso faciebat zuffam, idest rissam et guerram; quia ipsa muffa erat ingrata, displicibilis et orribilis, tam sensui visus, quam naso, idest sensui olfatus.
 
@@ -452,33 +452,33 @@ Et dum illuc cum oculo perquiro, idest contemplor, quem possem hic locare, occur
 
 <!-- p. 236 (0290) -->
 
-⁴³ Appresso ciò lo (¹) duca: Fa che pinghe,\
+43 Appresso ciò lo (1) duca: Fa che pinghe,\
 &emsp;Mi disse, 'l viso un poco più avante,\
 &emsp;Sì che la faccia ben cogl'ochi attinghe
 
-⁴³ Prope hoc dux: Fac ut pingas,\
+43 Prope hoc dux: Fac ut pingas,\
 &emsp;Michi dixit, aliquantulum visum plus ante,\
 &emsp;Sic quod faciem bene cum oculis attingas
 
-⁴⁴ Di quella sozza scapegliata fante,\
+44 Di quella sozza scapegliata fante,\
 &emsp;Che là si graffia coll'unghie merdose,\
 &emsp;Et hor s'accoscia, et hor è 'n piede stante.
 
-⁴⁴ Illius turpis escapillate famule,\
+44 Illius turpis escapillate famule,\
 &emsp;Quia ipsa se dilacerat cum ungulis merdosis,\
 &emsp;Et nunc se restringit, et nunc in pedibus stat.
 
-⁴⁵ Tayda è la puctana che rispose\
-&emsp;Al drudo (²) suo, quando disse: Ho io gratie\
-&emsp;Grandi appo te (³)? Anzi (⁴) maravigliose.\
+45 Tayda è la puctana che rispose\
+&emsp;Al drudo (2) suo, quando disse: Ho io gratie\
+&emsp;Grandi appo te (3)? Anzi (4) maravigliose.\
 &emsp;E quinci sien le nostre viste sazie.
 
-⁴⁵ Taydis est meretrix, que respondit\
+45 Taydis est meretrix, que respondit\
 &emsp;Drudo suo, quando dixit: Habeo gratias\
 &emsp;Apud te magnas? Ymo mirabiles.\
 &emsp;Et ex hinc sint nostre visiones satie.
 
-(¹) al. appress'a questo 'l. — (²) amadore — (³) Tayda — (⁴) hai grazie appo me.
+(1) al. appress'a questo 'l. — (2) amadore — (3) Tayda — (4) hai grazie appo me.
 
 Huc me submerserunt adulationes, unde nunquam habui linguam stuccam, idest satiam: idest nunquam fui satius, sive satiatus, de blanditiis, quibus semper usus fui. Et hiis dictis, prope hec dixit: Fac ut pingas, michi dixit, aliquantulum visum plus ante, idest intuearis ulterius longius, sic, idest in tantum, quod faciem bene cum oculis attingas illius sozze, idest turpis, escapillate famule, idest habentis capillos incompositos, solutos, deturpatos, stercore involutos, quia ipsam se sgriffat, idest, dilacerat cum ungulis merdosis, idest stercorizatis; et nunc se accosciat, idest restringit, sedendo; et nunc in pedibus stante, idest stando. Iste est secundus spiritus, de quo auctor hic facit mentionem. Hic spiritus fuit una speciosissima mulier Thebana, idest de Thebis, que fuit adeo pulchra, quod de eius pulchritudine omnes admirabantur, et plurimi amore ipsius capiebantur. De ista femina scribit Valerius Maximus, et etiam Terentius in secundo suo libro, qui vocatur Eunuchus. Dicit Valerius quod propter pulchritudinem istius mulieris, que vocabatur Thays, Demostenes, tam sapiens homo, ivit ad domum istius femine, et in ostio invenit servam ipsius Thaydis, que dixit Demosteni: Quid queris? Qui dixit: Volo concubere cum domina tua. Tunc famula retulit Thaydi, domine sue, verba Demostenis. Cui Thays: Vade, et dic sibi, quod sum contenta; sed oportet quod solvat centum talenta. Sic retulit famula Demosteni. Tunc Demostenes: Nolo unquam emere tanti penitere; idest nolo tantum expendere, nec tantum pretium dare, pro uno penitere. Quasi dicens: Si hanc rem egero, oportebit me penitere de malo acto perpetrato; ideo nolo emere illud penitere tanto pretio. Terentius vero, in Eunucho, idest in secundo suo libro, qui vocatur Eunuchus, dicit quod hec Thays, meretrix Thebana, habebat duos amasios, idest dilectores; et ipsa illos diligebat, propter donaria que isti duo largiebantur sibi Thaydi. Horum unus vocabatur Fedria; alter vocabatur Traso. Videbatur etenim Trasoni, quod Fedria plus amaretur a Thayde quam ipse. Cogitavit facere unum magnum donum ipsi Thaydi, ad removendum eam a tam intenso amore, quo videbatur diligere Fedriam; et dixit iste Traso Thaydi: Si vis me perfecte diligere, et plusquam Fedriam, donabo tibi unam pulchram puellam virginem. Dixit: Si hoc donum feceris michi, te plusquam Fedriam diligam. Et tunc Traso vocavit unum suum amicum, maximum adulatorem, qui vocabatur Gnatus, cui tradidit istam virginem, dicens: Vide, amice; hac vice servias michi: vade cum tua pulchra et ornata loquela, et duc hanc virginem tecum; et ex parte mea presenta, dona, et da, eam Thaydi, et interroga eam, si propter hoc donum habeo gratiam magnam coram ea, et reporta. Hec omnia fecit Gnatus. Demum dixit: Bene, Thays, habet ne Traso gratiam apud te magnam propter donum? Respondit illa: Nedum magnam, sed maximam; maximas et ingentes gratias habet Traso apud me. Propter hec ultima verba dicit textus: Habeo ego gratias apud te magnas? Ymo mirabiles.
 

@@ -8,35 +8,35 @@ In isto vicesimoquinto capitulo, quod incipit: Si unquam contingat, auctor ponit
 
 # Capitulum Vicesimumquintum
 
-¹ Se mai continga che 'l poema sacro,\
+1 Se mai continga che 'l poema sacro,\
 &emsp;Al qual ha posto mano e cielo e terra,\
 &emsp;Sì che m'ha facto per più anni macro,
 
-¹ Si unquam contingat quod poema sacrum,\
+1 Si unquam contingat quod poema sacrum,\
 &emsp;Ad quod posuit manum celum et terra,\
 &emsp;Ita quod me fecit per multos annos macrum,
 
-² Vinca la crudeltà, che fuor mi serra\
+2 Vinca la crudeltà, che fuor mi serra\
 &emsp;Del bello ovil, dov'io dormi' agnello,\
 &emsp;Nimico a' lupi che li danno guerra;
 
-² Vincat crudelitatem, que extra me claudit\
+2 Vincat crudelitatem, que extra me claudit\
 &emsp;De pulchro ovili, ubi ego dormivi agnus,\
 &emsp;Inimicus lupis qui ei dant dampnum;
 
-³ Con altra voce omai, con altro vello,\
+3 Con altra voce omai, con altro vello,\
 &emsp;Ritornerò poeta, et in sul fonte\
 &emsp;Del mio baptesmo prenderò 'l cappello;
 
-³ Cum alia voce, et cum alio vellere,\
+3 Cum alia voce, et cum alio vellere,\
 &emsp;Redibo poeta, et super fonte[m]\
 &emsp;Mei baptismatis accipiam cappellum;
 
-⁴ Però che ne la Fede, che fa conte\
+4 Però che ne la Fede, che fa conte\
 &emsp;L'anime a Dio, quivi entrai, e poi\
 &emsp;Pietro per lei mi girò la fronte.
 
-⁴ Eo quia in Fidem, que facit manifestas\
+4 Eo quia in Fidem, que facit manifestas\
 &emsp;Animas Deo, intravi illuc, et postea\
 &emsp;Petrus propter ipsam michi gyrarit frontem.
 
@@ -54,63 +54,63 @@ auctor introducit unum alium spiritum, qui debet examinare ipsum auctorem de ter
 
 <!-- p. 1111 (1165) -->
 
-⁵ Indi si moss' un lume verso noi\
+5 Indi si moss' un lume verso noi\
 &emsp;Di quella spera, ond'uscì la primitia\
 &emsp;Che lasciò Chrysto ne' vicari suoi.
 
-⁵ Inde movit se vivum lumen versus nos\
+5 Inde movit se vivum lumen versus nos\
 &emsp;De illa spera, unde exivit primitia\
 &emsp;Quam dimisit Christus de vicariis suis.
 
-⁶ E la mia donna piena di letitia\
+6 E la mia donna piena di letitia\
 &emsp;Mi disse: Mira, mira, ecco'l Barone,\
 &emsp;Per cui laggiù si visita Gallitia.
 
-⁶ Et domina mea plena letitia\
+6 Et domina mea plena letitia\
 &emsp;Michi dixit: Respice, inspice, ecce Baro,\
 &emsp;Propter quem inferius visitatur Gallitia.
 
-⁷ Sì come quando 'l colombo si pone\
+7 Sì come quando 'l colombo si pone\
 &emsp;Press'al compagno, l'un all'altro pande,\
-&emsp;Girando e mormorando, l'intentione (¹);
+&emsp;Girando e mormorando, l'intentione (1);
 
-⁷ Sicut quando columbus se ponit\
+7 Sicut quando columbus se ponit\
 &emsp;Prope sotium, et unus et alter pandit,\
 &emsp;Gyrando et murmurando, affectionem;
 
-⁸ Così vidd'io l'un dall'altro grande\
+8 Così vidd'io l'un dall'altro grande\
 &emsp;Principe glorioso esser accolto,\
 &emsp;Laudando 'l cibo che lassù si prande.
 
-⁸ Sic ego vidi unum ab alio grandi\
+8 Sic ego vidi unum ab alio grandi\
 &emsp;Principe glorioso esse collectum,\
 &emsp;Laudando cibum qui ibi eos in prandio satiat.
 
-⁹ Ma poi che 'l gratular si fu asciolto,\
+9 Ma poi che 'l gratular si fu asciolto,\
 &emsp;Tacito coram me ciascun s'affixe,\
 &emsp;Ignito sì, che vinceva 'l mio volto.
 
-⁹ Sed postquam gratulari fuit solutum,\
+9 Sed postquam gratulari fuit solutum,\
 &emsp;Taciti coram me quilibet se fixit,\
 &emsp;Igniti ita, quod vincebant meum vultum.
 
-¹⁰ Ridendo allora Beatrice disse:\
+10 Ridendo allora Beatrice disse:\
 &emsp;Inclita vita, per cui l'allegrezza\
 &emsp;De la nostra basilica si scripse,
 
-¹⁰ Ridendo tum Beatrix, dixit:\
+10 Ridendo tum Beatrix, dixit:\
 &emsp;Inclita vita, propter cuius largitatem\
 &emsp;De nostra basilica fuit scriptum,
 
-¹¹ Fa'risonar la speme in questa altezza;\
+11 Fa'risonar la speme in questa altezza;\
 &emsp;Tu sai che tante volte la figuri,\
 &emsp;Quanto Iesu a t[r]e fe' più chiarezza.
 
-¹¹ Facias resonare spem in ista altitudine;\
+11 Facias resonare spem in ista altitudine;\
 &emsp;Tu scis quot vicibus illam figuras,\
 &emsp;Quot Iesus tribus fecit maiorem claritatem.
 
-(¹) al. l'affectione.
+(1) al. l'affectione.
 
 anima que est celestis, et corpus quod est terrestre; et in hoc opere animam auctoris et corpus et omnes vires suas auctor posuit, cum anima speculando, cum corpore scribendo, quamvis in hac vita unus labor non sit sine alio), ita quod me fecit per multos annos macrum (Dantes erat macer a natura, et propter labores et vigilias adhuc effectus est magis macer), vincat crudelitatem que extra me claudit (ecce quod iniuste detinebatur foris exul) de pulchro ovili, scilicet de Florentia, ubi ego dormivi agnus, inimicus lupis qui ei dant dampnum (idest ubi fui puer et innocens: et quia vocat se agnum, ideo vocat Florentiam ovile. Inimicus lupis, idest illis qui tenent civitatem in divisione. Dicit aliquos Florentinos lupos, propter avaritiam eorum, quam figuravit per lupam in primo capitulo Inferni), cum alia voce, idest, cum alio vellere, redibo poeta (quia quando recessit de Florentia erat iuvenculus, et tunc habebat vocem, balatum idest, veluti agnus et parvus puer; sed modo redibit cum al'a voce, idest eloquentia, et cum alio vellere, quia redibit corpore canus et mente, quia sapiens et maturus), et super fonte mei baptismatis apprehendam cappellum (idest coronam lauream, sicut coronantur poete: nunc ponit quare habet istam spem); eo quia per Fidem, que facit manifestas animas Deo (per Fidem fideles placent Deo) illuc intravi, et postea Petrus, scilicet Sanctus Apostolus, propter ipsam michi gyravit frontem; amplexando eum ter in gyrum, ut dictum est in fine capituli precedentis, laudando que dixerat.
 
@@ -126,55 +126,55 @@ Ridendo tunc Beatrix dixit. Ridendo allora Beatrice disse: hec est secunda pars 
 
 <!-- p. 1112 (1166) -->
 
-¹² Leva la testa, e fa' che t'assicuri;\
-&emsp;Chè ciò che vien quassù dal (¹) mortal mondo,\
+12 Leva la testa, e fa' che t'assicuri;\
+&emsp;Chè ciò che vien quassù dal (1) mortal mondo,\
 &emsp;Convien ch'a' nostri raggi si maturi.
 
-¹² Leva caput, et fac quod te secures;\
+12 Leva caput, et fac quod te secures;\
 &emsp;Quia quidquid venit huc de mortali mundo,\
 &emsp;Oportet quod ad nostros radios maturetur.
 
-¹³ Questo conforto del foco secondo\
-&emsp;Mi venne; ond'io levai gl'ochi a' monti (²),\
-&emsp;Che l'incurvaron (³) pria col troppo pondo (⁴).
+13 Questo conforto del foco secondo\
+&emsp;Mi venne; ond'io levai gl'ochi a' monti (2),\
+&emsp;Che l'incurvaron (3) pria col troppo pondo (4).
 
-¹³ Istud confortum de igne secundo\
+13 Istud confortum de igne secundo\
 &emsp;Michi venit; unde ego levavi oculos ad montes,\
 &emsp;Qui incurvaverunt prius cum nimio pondere.
 
-¹⁴ Poi che, per gratia, vuol che tu t'affronti\
+14 Poi che, per gratia, vuol che tu t'affronti\
 &emsp;El nostro Imperador, anzi la morte,\
 &emsp;Nell'aula più secreta de'suoi conti;
 
-¹⁴ Postquam, per gratiam, vult quod tu te affrontes\
+14 Postquam, per gratiam, vult quod tu te affrontes\
 &emsp;Noster Imperator, ante mortem,\
 &emsp;In aula magis secreta, cum suis comitibus;
 
-¹⁵ Sì che, veduto el ver di questa corte,\
-&emsp;La Speme (⁵), che laggiù ben v'innamora,\
+15 Sì che, veduto el ver di questa corte,\
+&emsp;La Speme (5), che laggiù ben v'innamora,\
 &emsp;In te et in altrui di ciò conforte;
 
-¹⁵ Ita quod, viso vero istius curie,\
+15 Ita quod, viso vero istius curie,\
 &emsp;Spem, que inferius bene in amore trahit,\
 &emsp;In te et in aliis de [hoc] horteris;
 
-¹⁶ Di' quel ch'ell'è? (⁶) e come se ne 'nfiora\
+16 Di' quel ch'ell'è? (6) e come se ne 'nfiora\
 &emsp;La mente tua? e di' onde a te venne?\
 &emsp;Così seguì 'l secondo lume ancora.
 
-¹⁶ Dicas quid ipsa est? dicas quomodo floret\
+16 Dicas quid ipsa est? dicas quomodo floret\
 &emsp;In mente tua? et dicas unde ad te venit?\
 &emsp;Sic sequutum est secundum lumen adhuc.
 
-¹⁷ E quella pia, che guidava le penne\
+17 E quella pia, che guidava le penne\
 &emsp;De le mie hale a così alto volo,\
-&emsp;Alla risposta così (⁷) mi prevenne.
+&emsp;Alla risposta così (7) mi prevenne.
 
-¹⁷ Et illa pia, que conduxit pennas\
+17 Et illa pia, que conduxit pennas\
 &emsp;Mearum alarum ad tam altum volatum,\
 &emsp;Ad responsum sic me prevenit.
 
-(¹) al. del — (²) alli Apostoli — (³) e quali piegarono e miei occhi — (⁴) gravità di lor doctrina — (⁵) al. spene — (⁶) die quid est spes — (⁷) come seguita.
+(1) al. del — (2) alli Apostoli — (3) e quali piegarono e miei occhi — (4) gravità di lor doctrina — (5) al. spene — (6) die quid est spes — (7) come seguita.
 
 ostendit, quomodo spiritus Sancti Iacobi apostoli, ad instantiam Beatricis, facit triplicem petitionem auctori; et ipsa Beatrix captat benivolentiam laudando et extollendo ipsum Sanctum Iacobum, in quo figuratur Spes. Et quia in sua Epistola canonica largiter loquutus est de Spe, dicens: Omne datum optimum et omne donum perfectum desursum est; ideo dicit textus: Ridendo tunc Beatrix dixit: Inclita vita, scilicet anima, Sancti Iacobi, propter cuius largitatem, idest liberalitatem scripture, de nostra, scilicet Ecclesia Dei triumphante, basilica fuit scriptum, facias resonare Spem, idest facias exprimi bene et sufficienter de Spe in ista altitudine, idest in isto celo: tu scis quot vicibus illam figuras, scilicet in canonica tua Epistola, quot Iesus, tribus, scilicet Apostolis, scilicet Petro, Iacobo scilicet et Ioanni Evangeliste, fecit maiorem caritatem. Omni vice qua legitur in Evangelio, quod Iesus in aliquo actu excellenti erat, semper vocabat istos tres apostolos prescriptos ad omnia secretiora, sicut patet in monte Tabor in transfiguratione, in oratione in orto, quando fuit captus, ut Petrus fieret habile fundamentum Ecclesie propter Fidem, Iacobus propter Spem, Ioannes propter Caritatem.
 
@@ -190,63 +190,63 @@ Modo verba sequentia, si dicerentur ab ipso auctore, viderentur quedam iactantia
 
 <!-- p. 1113 (1167) -->
 
-¹⁸ La Chiesa militante alcun figluolo\
+18 La Chiesa militante alcun figluolo\
 &emsp;Non ha con più speranza, com'è scripto\
 &emsp;Nel Sol che raggia tutto'l nostro stuolo;
 
-¹⁸ Ecclesia militans aliquem filium\
+18 Ecclesia militans aliquem filium\
 &emsp;Non habet cum maiori spe, sicut est scriptum\
 &emsp;In Sole qui radiat totum nostrum stuolum;
 
-¹⁹ Però gl'è conceduto che d'Egypto\
+19 Però gl'è conceduto che d'Egypto\
 &emsp;Vegna in Yerusalemme per vedere,\
 &emsp;Anzi che 'l militar li sia prescripto.
 
-¹⁹ Ideo est sibi concessum quod de Egipto\
+19 Ideo est sibi concessum quod de Egipto\
 &emsp;Veniat in Hierusalem propter videre,\
 &emsp;Antequam militare sit ei prescriptum.
 
-²⁰ Gl'altri due punti, che non per sapere\
+20 Gl'altri due punti, che non per sapere\
 &emsp;Son dimandati, ma perchè rapporti\
 &emsp;Quanto questa virtù t'è in piacere,
 
-²⁰ Alia duo puncta, que non propter scire\
+20 Alia duo puncta, que non propter scire\
 &emsp;Sunt petita, sed ut ipse reportet\
 &emsp;Quantum ista virtus est tibi [in] complacentia,
 
-²¹ A lui li lasso, a cui non saran forti,\
+21 A lui li lasso, a cui non saran forti,\
 &emsp;Nè di iactanza; et elli anco risponda,\
 &emsp;E la gratia di Dio ciò li conforti.
 
-²¹ Ei dimicto, quia non erunt sibi fortia\
+21 Ei dimicto, quia non erunt sibi fortia\
 &emsp;Nec iactantie; et ipse tibi ad hoc respondeat,\
 &emsp;Et gratia Dei hoc sibi comportet.
 
-²² Come 'l discente, ch'al doctor seconda,\
+22 Come 'l discente, ch'al doctor seconda,\
 &emsp;Prompto e libente, in quel ch'egl'è experto,\
 &emsp;Perchè la sua bontà si disnasconda:
 
-²² Sicut discens, qui doctorem sequitur,\
+22 Sicut discens, qui doctorem sequitur,\
 &emsp;Promptus et libens, in eo quod ipse est expertus,\
 &emsp;Ad hoc ut sua bonitas non abscondatur:
 
-²³ Speme (¹), diss' io, è un attender certo\
+23 Speme (1), diss' io, è un attender certo\
 &emsp;Di gloria futura, el qual produce\
 &emsp;Gratia divina e precedente merto.
 
-²³ Spes, dixi ego, est unum expectare certum\
+23 Spes, dixi ego, est unum expectare certum\
 &emsp;Illius glorie, quam producit\
 &emsp;Gratia divina et precedens meritum.
 
-²⁴ Da molte stelle mi vien questa luce;\
+24 Da molte stelle mi vien questa luce;\
 &emsp;Ma quei la distillò nel mio cor pria,\
 &emsp;Che fu sommo cantor del primo Duce.
 
-²⁴ A multis stellis venit michi ista lux;\
+24 A multis stellis venit michi ista lux;\
 &emsp;Sed illam instillavit in meum cor prius,\
 &emsp;Qui fuit summus cantor primi Ducis.
 
-(¹) al. spene
+(1) al. spene
 
 sed Beatrix dicit pro eo, ne Dantes videretur vanagloriari ex hiis: nam ista verba essent nimis magna iactantia in ore suo. Dicit ergo Beatrix: Et illa pia, que conduxit pennas mearum alarum ad tam altum volatum, ad responsum sic me prevenit, idest respondit pro me: Ecclesia militans aliquem filium non habet cum maiori spe, sicut est scriptum in Sole qui radiat totum nostrum stuolum, idest totam nostram aciem, vel sotietatem. Idest: in terra, in Ecclesia militante, que est una militia et unum certamen, idest ille defenderet Fidem et Spem contra omnes adversarios Fidei et Spei. Nota quod quilibet debet credere se de numero salvandorum. In sole: idest in Deo, habet respectum id ad quod dixit supra, quando vidit tot millia lucernarum, et solem, scilicet Deum, super omnes.
 
@@ -258,67 +258,67 @@ Sicut discens, idest discipulus, qui doctorem sequitur, promptus et libens, in e
 
 <!-- p. 1114 (1168) -->
 
-²⁵ Sperent in te, nella sua Theodia\
+25 Sperent in te, nella sua Theodia\
 &emsp;Dice a color che sanno el nome suo:\
 &emsp;E chi nol sa, s'elli ha fede mia?
 
-²⁵ Sperent in te, in sua Theodia\
+25 Sperent in te, in sua Theodia\
 &emsp;Dicunt illi qui sciunt nomen tuum:\
 &emsp;Et qui[s] nescit id, si habet fidem meam?
 
-²⁶ Tu mi stillasti collo stillar tuo\
+26 Tu mi stillasti collo stillar tuo\
 &emsp;Nell'epistola poi, sì ch'io son pieno,\
 &emsp;Et in altrui vostra pioggia ripluo.
 
-²⁶ Tu in me stillasti cum stillatione tua\
+26 Tu in me stillasti cum stillatione tua\
 &emsp;In epistolam postmodum, ita quod ego sum plenus,\
 &emsp;[Et] in aliis vestram pluviam repluo.
 
-²⁷ Mentr' io dicea, dentr'al vivo seno\
+27 Mentr' io dicea, dentr'al vivo seno\
 &emsp;Di quello incendio tremolava un lampo\
 &emsp;Subito e spesso, a guisa di baleno.
 
-²⁷ Interim quod ego dicebam, intra vivum sinum\
+27 Interim quod ego dicebam, intra vivum sinum\
 &emsp;Illius incendii tremulabat unus lampor\
 &emsp;Subitus et depressus, ad instar lampi.
 
-²⁸ Indi spirò: L'amor ond'io avvampo\
+28 Indi spirò: L'amor ond'io avvampo\
 &emsp;Ancor nella virtù, che mi seguette\
 &emsp;Infin la palma, e all'uscir del campo,
 
-²⁸ Inde spiravit: Amor, unde ego evampor\
+28 Inde spiravit: Amor, unde ego evampor\
 &emsp;Adhuc versus virtutem, que me sequuta est\
 &emsp;In palmam, et ad exitum campi,
 
-²⁹ Vuol ch'io respiri a te, che ti dilette\
+29 Vuol ch'io respiri a te, che ti dilette\
 &emsp;Di lei, et èmmi a grado che tu diche\
 &emsp;Quello che la Speranza ti promette.
 
-²⁹ Vult quod ego respiciam ad te, qui delectaris\
+29 Vult quod ego respiciam ad te, qui delectaris\
 &emsp;De ea, et est michi gratum quod tu dicas\
 &emsp;Illud quod Spes tibi promictit.
 
-³⁰ Et io: Le nuove e le Scripture antiche\
+30 Et io: Le nuove e le Scripture antiche\
 &emsp;Pongono 'l segno, et esso lo m'addita,\
 &emsp;Dell'anime che Dio s'ha facte amiche.
 
-³⁰ Et ego: Nove et Scripture antique\
+30 Et ego: Nove et Scripture antique\
 &emsp;Ponunt signum, et ipse michi digito demonstrant,\
 &emsp;Animarum quas Deus sibi fecit amicas.
 
-³¹ Dice Isaia, che ciascuna vestita\
+31 Dice Isaia, che ciascuna vestita\
 &emsp;Nella sua terra fie di doppia vesta,\
 &emsp;E la sua terra è questa dolce vita.
 
-³¹ Dicit Ysayas, quod quelibet vestita\
+31 Dicit Ysayas, quod quelibet vestita\
 &emsp;In sua terra erit de duplici veste,\
 &emsp;Et sua terra est ista dulcis vita.
 
-³² E 'l tuo fratello assai vie più digesta,\
+32 E 'l tuo fratello assai vie più digesta,\
 &emsp;Là dove tracta delle bianche stole,\
 &emsp;Questa revelation ci manifesta.
 
-³² Tuus frater multo plus digestam,\
+32 Tuus frater multo plus digestam,\
 &emsp;Ubi tractat de albis stolis,\
 &emsp;Istam revelationem nobis manifestat.
 
@@ -336,43 +336,43 @@ Iterum declarat de spe per dicta Sancti Ioannis Evangeliste in Apocalypsi, capit
 
 <!-- p. 1115 (1169) -->
 
-³³ E prima, presso al fin d'este parole,\
+33 E prima, presso al fin d'este parole,\
 &emsp;Sperent in te di sopra noi s'udì,\
 &emsp;A che risposer tutte le carole;
 
-³³ Et prius, et prope finem illorum verborum,\
+33 Et prius, et prope finem illorum verborum,\
 &emsp;Sperent in te supra nos fuit auditum,\
 &emsp;Quibus responderunt omnes carole;
 
-³⁴ Poscia tra esse un lume si schiarì,\
+34 Poscia tra esse un lume si schiarì,\
 &emsp;Tal che se'l Cancro havesse un tal cristallo,\
 &emsp;Lo verno havrebbe un mese d'un sol dì.
 
-³⁴ Postmodum inter ipsas unum lumen claruit,\
+34 Postmodum inter ipsas unum lumen claruit,\
 &emsp;Ita quod si Cancer haberet unum talem cristallum,\
 &emsp;Yems haberet unum mensem unius solius diei.
 
-³⁵ E come surge, e va, et entra in ballo\
+35 E come surge, e va, et entra in ballo\
 &emsp;Vergine lieta, sol per far honore\
 &emsp;Alla novitia, non per alcun fallo;
 
-³⁵ Et sicut surgit, et vadit, et intrat tripudium\
+35 Et sicut surgit, et vadit, et intrat tripudium\
 &emsp;Virgo leta, solum propter facere honorem\
 &emsp;Novitie, non pro aliquo defectu;
 
-³⁶ Così vidd'io lo schiarato splendore\
+36 Così vidd'io lo schiarato splendore\
 &emsp;Venir a due, che si volgean a rota,\
 &emsp;Qual conveniasi al lor ardente amore.
 
-³⁶ Sic vidi ego clarificatum splendorem\
+36 Sic vidi ego clarificatum splendorem\
 &emsp;Venire ad duos, qui se volvebant ad rotam,\
 &emsp;Qualiter conveniebat eorum ardenti amori.
 
-³⁷ Missesi lì nel canto e nella nota,\
+37 Missesi lì nel canto e nella nota,\
 &emsp;E la mia donna in lor tenea l'aspecto,\
 &emsp;Pur come sposa tacita et immota.
 
-³⁷ Misit se in cantum et notam,\
+37 Misit se in cantum et notam,\
 &emsp;Et mea domina tenebat in eos aspectum,\
 &emsp;Solum sicut sponsa tacita et immota.
 
@@ -388,51 +388,51 @@ Volvit se in cantum et in notam: et mea domina tenebat in eos aspectum, ac sicut
 
 <!-- p. 1116 (1170) -->
 
-³⁸ Questi è colui che giacque sopra 'l pecto\
+38 Questi è colui che giacque sopra 'l pecto\
 &emsp;Del nostro Pellicano, e questi fue\
 &emsp;D'in su la Croce al grande officio electo.
 
-³⁸ Hic est ille qui iacuit supra pectus\
+38 Hic est ille qui iacuit supra pectus\
 &emsp;Nostri Pellicani, et hic fuit\
 &emsp;De Cruce ad grande officium electus.
 
-³⁹ La donna mia così; nè però piue\
+39 La donna mia così; nè però piue\
 &emsp;Mostrò la vista sua di stare attenta\
 &emsp;Pos[ci]a, che prima, a le parole sue.
 
-³⁹ Domina mea [sic]; nec propter hoc plus movit\
+39 Domina mea [sic]; nec propter hoc plus movit\
 &emsp;Vistam suam stando actenta,\
 &emsp;Postea quam ante verba sua.
 
-⁴⁰ Qual' è colui ch' adochia e s' argomenta\
+40 Qual' è colui ch' adochia e s' argomenta\
 &emsp;Di veder eclypsar lo Sole um poco,\
 &emsp;Che per veder non vedente diventa;
 
-⁴⁰ Qualis est ille qui respicit et se argumentat\
+40 Qualis est ille qui respicit et se argumentat\
 &emsp;Videre eclipsari solem aliquantulum,\
 &emsp;Qui propter videre non videns efficitur;
 
-⁴¹ Tal mi fec' io a quell' ultimo foco,\
+41 Tal mi fec' io a quell' ultimo foco,\
 &emsp;Mentre che detto fu: Perchè t'abbagli\
 &emsp;Per veder cosa, che qui non ha loco?
 
-⁴¹ Talis effectus fui ad illum ultimum ignem,\
+41 Talis effectus fui ad illum ultimum ignem,\
 &emsp;Interim quod dictum fuit: Quare abbagliaris,\
 &emsp;Propter videnda re, que hic non habet locum?
 
-⁴² In terra è terra el mio corpo, e saragli\
+42 In terra è terra el mio corpo, e saragli\
 &emsp;Tanto cogl'altri, che 'l numero nostro\
 &emsp;Coll'eterno proposito s'agguagli.
 
-⁴² In terra est meum corpus, et ibi erit\
+42 In terra est meum corpus, et ibi erit\
 &emsp;Tantum cum aliis, quod numerus noster\
 &emsp;Cum eterno proposito adequetur.
 
-⁴³ Colle sue stole nel beato chiostro\
+43 Colle sue stole nel beato chiostro\
 &emsp;Son le due luci sole che salliro;\
 &emsp;E questo apporterai nel mondo vostro.
 
-⁴³ Cum duabus stolis in beato claustro\
+43 Cum duabus stolis in beato claustro\
 &emsp;Sunt due luces sole que ascenderunt;\
 &emsp;Et istud apportabis in mundum vestrum.
 
@@ -450,33 +450,33 @@ Cum duabus stolis, idest cum anima et corpore, in beato claustro sunt due luces 
 
 <!-- p. 1117 (1171) -->
 
-⁴⁴ A questa voce lo 'nfiammato giro\
+44 A questa voce lo 'nfiammato giro\
 &emsp;Si quetò con esso el dolce mischio,\
 &emsp;Che si facea nel suon del trino spiro,
 
-⁴⁴ Ad istam vocem inflammatus gyrus\
+44 Ad istam vocem inflammatus gyrus\
 &emsp;Sequutus est cum dulci mistura,\
 &emsp;Que efficiebatur in sono trini spiri,
 
-⁴⁵ Sì come, per cessar periglo o rischio,\
+45 Sì come, per cessar periglo o rischio,\
 &emsp;Li remi, pria nell'acqua ripercossi,\
 &emsp;Tutti si posan al sonar d'un fischio.
 
-⁴⁵ Sicut, pro cessando labore vel periculo,\
+45 Sicut, pro cessando labore vel periculo,\
 &emsp;Remi, prius in aquam percussi,\
 &emsp;Omnes quiescunt ad sonum unius sibili.
 
-⁴⁶ Hay! quanto ne la mente mi commossi,\
+46 Hay! quanto ne la mente mi commossi,\
 &emsp;Quando mi volsi per veder Beatrice,\
 &emsp;Per non poter vederla, bench'io fossi\
 &emsp;Presso di lei, e nel mondo felice (!)
 
-⁴⁶ Ay! quantum quantum in mente me commovi,\
+46 Ay! quantum quantum in mente me commovi,\
 &emsp;Quando me volvi propter videre Beatricem,\
 &emsp;Propter non posse videre, quamquam ego essem\
 &emsp;Prope illam, et in mundo felici!
 
-(¹) in Paradiso.
+(1) in Paradiso.
 
 Iam imponit finem. Ad istam vocem, inflammatus gyrus, scilicet illorum trium spirituum, idest circulus tripudiantium, sequutus est cum dulci mixtura, que efficiebatur in sono trini spiri, idest spiraminis, splendoris (ponit comparative, quomodo tota illa acies et sotietas fecit finem simul in uno istanti, per istum modum quem faciunt galeocti, idest navigantes in galea, cum remis: quia comito, idest illo officiali cui omnes habent [esse] obedientes, pulsanti unum fischium (fischium est unum parvum instrumentum quod ore pulsatur, et quod facit unum sonum valde acutum), tunc, audito sono illius fischii, omnes qui movent remos quiescunt et cessant a motu tali: qui comitus (est nomen officii in galea) sepe pulsat tale fischium, sive instrumentum, maxime quando intuetur aliquod periculum imminere in galea, ut scopulus vel aliud periculum), sicut, pro cessando labore vel periculo, remi prius in aqua repercussi, omnes quiescunt ad sonum unius sibili, idest fischii, sive instrumenti supple, sic cessaverunt isti spiritus a laboribus eorum.
 

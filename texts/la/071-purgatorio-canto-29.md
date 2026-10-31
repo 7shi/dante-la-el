@@ -8,11 +8,11 @@ In vicesimonono capitulo, quod incipit: Cantando sic[ut] domina philocapta, auct
 
 # Capitulum Vicesimumnonum
 
-¹ Cantando come donna innamorata,\
+1 Cantando come donna innamorata,\
 &emsp;Continuò col fin di sue parole:\
 &emsp;Beati, quorum tecta sunt peccata.
 
-¹ Cantando sicut domina amore capta,\
+1 Cantando sicut domina amore capta,\
 &emsp;Continuavit cum fine suorum verborum:\
 &emsp;Beati, quorum tecta sunt peccata.
 
@@ -40,63 +40,63 @@ Antiqui finxerunt quod omnes species rerum naturalium haberent suam Deam, propte
 
 <!-- p. 761 (0815) -->
 
-² E come nynphe che si givan sole (¹)\
-&emsp;Per le salvatiche ombre (²), desiando\
+2 E come nynphe che si givan sole (1)\
+&emsp;Per le salvatiche ombre (2), desiando\
 &emsp;Qual di veder qual di fuggir lo sole,
 
-² Et sicut nymphe que ibant sole\
+2 Et sicut nymphe que ibant sole\
 &emsp;Per silvestres umbras, desiderando\
 &emsp;Alique videre, alique fugere, solem;
 
-³ Allor si mosse contra 'l fiume, andando\
+3 Allor si mosse contra 'l fiume, andando\
 &emsp;Su per la riva, et io al par di lei,\
-&emsp;Picciol con picciol passo seguitando (³).
+&emsp;Picciol con picciol passo seguitando (3).
 
-³ Tunc se movit contra flumen eundo\
+3 Tunc se movit contra flumen eundo\
 &emsp;Super ripam, et ego par cum ea\
 &emsp;Parvum passum cum parvo sequendo.
 
-⁴ Non eran cento tra'suoi passi e miei,\
+4 Non eran cento tra'suoi passi e miei,\
 &emsp;Quando le ripe equalmente dier volta,\
 &emsp;Per modo ch'a levante mi rendei.
 
-⁴ Non erant adhuc centum inter suos passus et meos,\
+4 Non erant adhuc centum inter suos passus et meos,\
 &emsp;Quando ripe equaliter verse sunt,\
 &emsp;Per modum quod ad orientem ego me reddidi.
 
-⁵ Nè ancor fu così nostra via molta,\
+5 Nè ancor fu così nostra via molta,\
 &emsp;Quando la donna tucta a me si torse,\
-&emsp;Dicendo: Frate (⁴) mio, guarda et ascolta.
+&emsp;Dicendo: Frate (4) mio, guarda et ascolta.
 
-⁵ Non adhuc fuit sic via nostra multa,\
+5 Non adhuc fuit sic via nostra multa,\
 &emsp;Quando domina mea ad me se torsit,\
 &emsp;Dicendo: Frater mi, respice, et ausculta.
 
-⁶ Et ecco un lustro subito transcorse\
+6 Et ecco un lustro subito transcorse\
 &emsp;Da tutte parti per la gran foresta,\
 &emsp;Tal che di balenar mi messe in forse.
 
-⁶ Et ecce unum lustrum subito transcucurrit\
+6 Et ecce unum lustrum subito transcucurrit\
 &emsp;Ab omnibus partibus per grandem forestam,\
 &emsp;Taliter quod coruscationis me misit in forsan.
 
-⁷ Ma perchè 'l balenar, come vien, resta,\
+7 Ma perchè 'l balenar, come vien, resta,\
 &emsp;E quel durando più e più splendeva,\
 &emsp;Nel mio pensier dissi: Che cosa è questa?
 
-⁷ Sed quia coruscatio, sicut venit, restat,\
+7 Sed quia coruscatio, sicut venit, restat,\
 &emsp;Et illud durando magis et magis splendebat,\
 &emsp;In mea cogitatione dicebam: Que res est ista?
 
-⁸ Et una melodia dolce correva\
-&emsp;Per l'aura (⁵) luminosa; onde buon zelo\
-&emsp;Mi fe'riprender (⁶) l'ardimento d'Eva (⁷),
+8 Et una melodia dolce correva\
+&emsp;Per l'aura (5) luminosa; onde buon zelo\
+&emsp;Mi fe'riprender (6) l'ardimento d'Eva (7),
 
-⁸ Et unum melos dulce currebat\
+8 Et unum melos dulce currebat\
 &emsp;Per aierem luminosum; unde bonus zelus\
 &emsp;Me fecit reprehendere audaciam Eve,
 
-(¹) andavano — (²) selve — (³) al. misurando — (⁴) o — (⁵) al. l'aere — (⁶) accusare — (⁷) donna d'Adam.
+(1) andavano — (2) selve — (3) al. misurando — (4) o — (5) al. l'aere — (6) accusare — (7) donna d'Adam.
 
 fontibus; alique fugiebant solem, alique ibant ad fontes. Tunc ad textum. Cantando sicut domina amore capta, continuavit cum fine suorum verborum: Beati quorum tecta sunt peccata.
 
@@ -116,55 +116,55 @@ Modo describitur sonus suavis qui erat ibi. Et unum melos dulce currebat per aie
 
 <!-- p. 762 (0816) -->
 
-⁹ Che, là ove ubbidia la terra al cielo,\
-&emsp;Femina (¹) pur testè testè formata (²),\
+9 Che, là ove ubbidia la terra al cielo,\
+&emsp;Femina (1) pur testè testè formata (2),\
 &emsp;Non sofferse di star socto alcun velo;
 
-⁹ Quod, cui obediebat terra et celum,\
+9 Quod, cui obediebat terra et celum,\
 &emsp;Femina sola et solum nunc formata,\
 &emsp;Non sustulit stare sub aliquo velo;
 
-¹⁰ Sotto 'l qual (³), se devota fosse stata (⁴),\
+10 Sotto 'l qual (3), se devota fosse stata (4),\
 &emsp;Havrei quell'ineffabili delitie,\
-&emsp;Sentite prima (⁵), e più lunga fiata (⁶).
+&emsp;Sentite prima (5), e più lunga fiata (6).
 
-¹⁰ Sub quo, si devota stetisset,\
+10 Sub quo, si devota stetisset,\
 &emsp;Illas ineffabiles delitias\
 &emsp;Sensisset prius, et longiori tempore.
 
-¹¹ Mentr' io m' andava, tra tante primitie\
+11 Mentr' io m' andava, tra tante primitie\
 &emsp;Dell'etterno piacer, tutto sospeso,\
 &emsp;E desioso ancor a più letitie,
 
-¹¹ Dum ego ibam, inter tot primitias\
+11 Dum ego ibam, inter tot primitias\
 &emsp;Eterne complacentie, totus suspensus,\
 &emsp;Et desiderosus adhuc ad plures letitias,
 
-¹² Dinanzi a noi, tal quale un fuoco acceso,\
+12 Dinanzi a noi, tal quale un fuoco acceso,\
 &emsp;Così fe'l'aere, sotto e verdi rami,\
 &emsp;E 'l dolce suon per canti era già inteso.
 
-¹² Ante nos, taliter qualis est unus ignis accensus,\
+12 Ante nos, taliter qualis est unus ignis accensus,\
 &emsp;Sic fecit aier, sub virides ramos,\
 &emsp;Et dulcis sonus per cantum iam erat intellectus.
 
-¹³ O sacrosancte vergini (⁷), se fami,\
+13 O sacrosancte vergini (7), se fami,\
 &emsp;Freddi, o vigilie, mai per voi soffersi,\
 &emsp;Cagion mi sprona ch'io merzè vi chiami.
 
-¹³ O sacrosancte virgines, si famem vel sitim,\
+13 O sacrosancte virgines, si famem vel sitim,\
 &emsp;Frigus, vel vigilias, unquam pro vobis substuli,\
 &emsp;Causa me stimulat ut ad vos mercedem clamem.
 
-¹⁴ Hor convien ch' Elycona (⁸) per me versi,\
-&emsp;Et hora me aiuti col suo choro (⁹),\
-&emsp;Forti cose a pensar (¹⁰), mecter in versi (¹¹).
+14 Hor convien ch' Elycona (8) per me versi,\
+&emsp;Et hora me aiuti col suo choro (9),\
+&emsp;Forti cose a pensar (10), mecter in versi (11).
 
-¹⁴ Nunc convenit quod Elicona pro me versit,\
+14 Nunc convenit quod Elicona pro me versit,\
 &emsp;Eurania me adiuvet cum suo coro,\
 &emsp;Fortes res ad cogitandum, ponere in versibus.
 
-(¹) Eva — (²) da Dio — (³) velo — (⁴) Eva — (⁵) che hora, o allora — (⁶) che allora — (⁷) Muse — (⁸) fonte de le Muse — (⁹) de le Muse — (¹⁰) non che a scrivere — (¹¹) scrivere in rime.
+(1) Eva — (2) da Dio — (3) velo — (4) Eva — (5) che hora, o allora — (6) che allora — (7) Muse — (8) fonte de le Muse — (9) de le Muse — (10) non che a scrivere — (11) scrivere in rime.
 
 zelus (idest non causa murmurandi, vel detrahendi, sed solum ad [de]testandum malum: nam aliqui non bono zelo contra feminas, aliquando detrahunt: ego vero causa boni publici detestatus sum) me fecit reprehendere, alias resumere, audaciam Eve, que fuit ita audax, quod cui obediebat terra et celum, ipsa, scilicet Eva, femina sola et solum nunc formata, quia cito post creationem suam noviter, non sustulit stare sub aliquo velo, idest sub aliqua obedientia precepti Dei; sub quo si devota stetisset, illas ineffabiles delitias sensisset prius [et] in longiori tempore. Naturaliter femina non deberet esse audax, saltem sicut homo, propter frigiditatem sexus et virium; ideo videtur quod sit detestanda plus quam si prius [homo] peccasset, et quia [erat] sola quando comedit pomum. Tamen sotietas prestat audaciam; et tamen ipsa Eva fuit audacissima dum esset sola, et erexit cervices transgrediens mandatum Dei: nunc formata, non habens [antiquitatem] que prestare solet audaciam, quia subito post suum esse peccavit: non concepta in peccato, sicut alie femine, quia ipsa fuit sine peccato formata: ideo adhuc gravius peccavit, et presumpsit non obedire Deo. Cui celum et terra obediebant et omnia obediebant, ista rebellavit se; ideo merito detestatus sum eam. Ideo posita fuit sub potestate viri, et quod in dolore pareret filios, ut Genesis tertio capitulo habetur: ubi erat talis quod poterat non mori, modo necesse est ut moriatur.
 
@@ -176,55 +176,55 @@ Iam auctor, volens describere istam Ecclesiam, invocat merito, quia nedum in max
 
 <!-- p. 763 (0817) -->
 
-¹⁵ Poco più oltre septe arbori d'oro\
+15 Poco più oltre septe arbori d'oro\
 &emsp;Falsava nel parer un lungo tracto\
 &emsp;Del mezzo, ancor la terra tra noi e loro:
 
-¹⁵ Paucum ulterius septem arbores auri\
+15 Paucum ulterius septem arbores auri\
 &emsp;Falsificat in apparentia longus tractus\
 &emsp;Medietatis, adhuc inter nos et ipsas:
 
-¹⁶ E quando fui sì presso di lor facto,\
+16 E quando fui sì presso di lor facto,\
 &emsp;Che l'obliquo comun, che 'l senso inganna,\
 &emsp;Non perdea [per] distantia alcun suo acto;
 
-¹⁶ Sed quando ego fui ita prope eas factus,\
+16 Sed quando ego fui ita prope eas factus,\
 &emsp;Quod obiectum comune, quod sensum decipit,\
 &emsp;Non perdebat propter distantiam aliquem suum actum;
 
-¹⁷ La virtù ch'a ragion discorso ammanna,\
+17 La virtù ch'a ragion discorso ammanna,\
 &emsp;Sì com'elli eran candelabri accese,\
 &emsp;E nelle voci del cantar, Osanna.
 
-¹⁷ Virtus que rationabiliter discursum adducit,\
+17 Virtus que rationabiliter discursum adducit,\
 &emsp;Sicut ipsa erant candelabra apprehensa,\
 &emsp;Et in vocibus cantandi, Osanna.
 
-¹⁸ Di sopra fiammeggiava 'l bello arnese\
+18 Di sopra fiammeggiava 'l bello arnese\
 &emsp;Più chiar' assai, che luna per sereno\
-&emsp;Di mezza nocte nel suo mezzo mese (¹).
+&emsp;Di mezza nocte nel suo mezzo mese (1).
 
-¹⁸ Desuper flammificabat pulchrum arnese\
+18 Desuper flammificabat pulchrum arnese\
 &emsp;Clarius satis, quam luna per serenum\
 &emsp;De media nocte in suo medio mense.
 
-¹⁹ Io mi rivolsi d'ammiration pieno\
+19 Io mi rivolsi d'ammiration pieno\
 &emsp;Al buon Virgilio, et esso mi rispose\
-&emsp;Con vista (²) carca di stupor non meno (³).
+&emsp;Con vista (2) carca di stupor non meno (3).
 
-¹⁹ Ego me revolvi admiratione plenum\
+19 Ego me revolvi admiratione plenum\
 &emsp;Ad bonum Virgilium, et ipse michi respondit\
 &emsp;Cum apparentia onerata stupore non minus.
 
-²⁰ Indi rendei l'aspetto (⁴) all'altre cose,\
+20 Indi rendei l'aspetto (4) all'altre cose,\
 &emsp;Che si movien incontro a noi sì tardi,\
 &emsp;Che foran vincte da novelle spose.
 
-²⁰ Inde reddidi aspectum altis rebus,\
+20 Inde reddidi aspectum altis rebus,\
 &emsp;Que se movebant contra nos ita tarde,\
 &emsp;Quod fuissent victe a novellis sponsis.
 
-(¹) quando è piena — (²) non co' la lingua — (³) che 'l mio — (⁴) gl'occhi e la faccia.
+(1) quando è piena — (2) non co' la lingua — (3) che 'l mio — (4) gl'occhi e la faccia.
 
 Parnaso, sic dicto, dedicatus Musis. Nunc convenit, idest oportet, quod Elicona per me versit, idest faciat versus, pro me, vel exuberet; Eurania me adiuvet cum suo choro (idest, nunc oportet quod ego bibam de fonte illarum musarum, quia nunc [habeo] facere ultimum de potentia; ideo invoco Euraniam, idest celestem musam, sive de celestibus cantantem, quia materia celestis est ista, quam volo describere poetice in versibus: ideo tanto difficilior est, et difficilius est michi sic facere, quam si in prosa describerem) fortes res ad cogitandum ponere in versibus.
 
@@ -240,63 +240,63 @@ Inde reddi[di] aspectum altis rebus, idest ad illa candelabra me volvi, que se m
 
 <!-- p. 764 (0818) -->
 
-²¹ La donna mi sgridò: Perchè pur ardi\
+21 La donna mi sgridò: Perchè pur ardi\
 &emsp;Sì nell'aspecto delle vive luci,\
 &emsp;E ciò che vien dirieto a noi non guardi?
 
-²¹ Domina michi clamavit: Quare tantum ardes\
+21 Domina michi clamavit: Quare tantum ardes\
 &emsp;In aspectu vive lucis,\
 &emsp;Et id quod venit retro illas non respicis?
 
-²² Genti vid'io allhor, com'a' lor duci,\
+22 Genti vid'io allhor, com'a' lor duci,\
 &emsp;Venir appresso vestite di bianco;\
-&emsp;E tal candor di qua giammai non fuci (¹).
+&emsp;E tal candor di qua giammai non fuci (1).
 
-²² Gentes vidi ego tunc, sicut [ad] suos duces,\
+22 Gentes vidi ego tunc, sicut [ad] suos duces,\
 &emsp;Venire prope indutas de albo;\
 &emsp;Et talis candor in mundo nunquam fuit.
 
-²³ L'acqua imprendea dal sinistro fianco,\
-&emsp;E rendeami (²) la mia sinistra costa,\
+23 L'acqua imprendea dal sinistro fianco,\
+&emsp;E rendeami (2) la mia sinistra costa,\
 &emsp;S' i' riguardava in lei, come specchi anco.
 
-²³ Aqua representabat a sinistro latere,\
+23 Aqua representabat a sinistro latere,\
 &emsp;Et reddebat michi meam sinistram costam,\
 &emsp;Sic respiciebat in ea sicut in speculo adhuc.
 
-²⁴ Quando dalla mia riva ebbi tal posta,\
-&emsp;Che sol (³) el fiume mi facea distante,\
+24 Quando dalla mia riva ebbi tal posta,\
+&emsp;Che sol (3) el fiume mi facea distante,\
 &emsp;Per veder meglo, a' passi diedi sosta:
 
-²⁴ Quando ego a mea ripa habui talem positionem,\
+24 Quando ego a mea ripa habui talem positionem,\
 &emsp;Quod solum flumen me faciebat distantem,\
 &emsp;Ut melius viderem, pedibus dedi sostam,
 
-²⁵ E vidi le fiammelle andar davante,\
+25 E vidi le fiammelle andar davante,\
 &emsp;Lassando dietro a sè l'aer dipincto,\
 &emsp;E di tracti pennelli havean sembiante;
 
-²⁵ Et vidi flammulas ire ante\
+25 Et vidi flammulas ire ante\
 &emsp;Dimictendo retro se aierem pictum,\
 &emsp;Et tractuum penellorum habebant similitudines:
 
-²⁶ Sì che di sopra rimanea distincto\
+26 Sì che di sopra rimanea distincto\
 &emsp;Di septe liste, tucte in quei colori,\
-&emsp;Onde fa l'arco el sol (⁴), et Elya il cinto.
+&emsp;Onde fa l'arco el sol (4), et Elya il cinto.
 
-²⁶ De quibus ipse desuper remanebat distinctus\
+26 De quibus ipse desuper remanebat distinctus\
 &emsp;In septem listas, omnes in illis coloribus,\
 &emsp;Unde facit arcum sol, et Delia cinctum.
 
-²⁷ Questi ostendali indietro eran maggiori,\
+27 Questi ostendali indietro eran maggiori,\
 &emsp;Che la mia vista; e, quant'al mio aviso,\
-&emsp;Diece passi distavan (⁵) quei di fuori.
+&emsp;Diece passi distavan (5) quei di fuori.
 
-²⁷ Ista ostendalia retro erant maiora,\
+27 Ista ostendalia retro erant maiora,\
 &emsp;Quam visio mea; et, quantum ad meum videre,\
 &emsp;Decem passus distabant ab illis extra.
 
-(¹) ci fu — (²) representavami — (³) solo — (⁴) sole — (⁵) da noi.
+(1) ci fu — (2) representavami — (3) solo — (4) sole — (5) da noi.
 
 Domina michi, idest ad me, clamavit. La donna mi sgridò: hec est tertia pars huius capituli, in qua describitur in generali exercitus cum suis principibus. Dicit igitur: Domina michi, idest ad me clamavit: Quare tantum ardes ita effectu vive lucis, idest illorum vivorum splendorum, et id, quod venit retro illas, non respicis? Quasi dicat: Quare posuisti totum affectum in illis luminaribus, et non respicis ea que sequuntur? considera mirabiles effectus qui sequuntur et qui procedunt ex istis.
 
@@ -312,63 +312,63 @@ Ista ostendalia (ostendale proprie est vexillum Imperatorum: nam vicinus erat Im
 
 <!-- p. 765 (0819) -->
 
-²⁸ Socto così bel ciel, com' io diviso,\
+28 Socto così bel ciel, com' io diviso,\
 &emsp;Ventiquattro signor a due a due,\
 &emsp;Coronati venian di fiordaliso.
 
-²⁸ Sub ita pulchro celo, sicut ego diviso,\
+28 Sub ita pulchro celo, sicut ego diviso,\
 &emsp;Vigintiquatuor domini, bini et bini,\
 &emsp;Coronati veniebant floribus alixii.
 
-²⁹ Tucti cantavan: Benedecta tue\
+29 Tucti cantavan: Benedecta tue\
 &emsp;Ne le figle d'Adamo, e benedecte\
 &emsp;Sieno in eterno le bellezze tue.
 
-²⁹ Omnes cantabant: Benedicta tu\
+29 Omnes cantabant: Benedicta tu\
 &emsp;In filiis Ade, et benedicte\
 &emsp;Sint in eternum pulchritudines tue.
 
-³⁰ Poscia ch'e fiori e l'altre fresche herbette,\
+30 Poscia ch'e fiori e l'altre fresche herbette,\
 &emsp;A rimpetto di me dall'altra sponda,\
 &emsp;Libere fur da quelle genti electe;
 
-³⁰ Postquam flores et alie recentes herbule,\
+30 Postquam flores et alie recentes herbule,\
 &emsp;E contra ab alia sponda,\
 &emsp;Libere fuerunt ab illis gentibus electis;
 
-³¹ Siccome luce (¹) luce (²) in ciel seconda (³),\
-&emsp;Vennero presso allor (⁴) quattr'animali,\
+31 Siccome luce (1) luce (2) in ciel seconda (3),\
+&emsp;Vennero presso allor (4) quattr'animali,\
 &emsp;Coronati ciascun di verde fronda.
 
-³¹ Sicut lux lucem in celo secundat,\
+31 Sicut lux lucem in celo secundat,\
 &emsp;Venerunt prope eas quatuor animalia,\
 &emsp;Coronata quodlibet viridi fronde.
 
-³² Ognuno era pennuto di sei hali,\
+32 Ognuno era pennuto di sei hali,\
 &emsp;Le penne piene d'occhi; e gl'occhi d'Argo,\
 &emsp;Se fosser vivi, sarebber cotali.
 
-³² Quodlibet erat pennatum sex aliis,\
+32 Quodlibet erat pennatum sex aliis,\
 &emsp;Penne plene oculis; et oculi Argi,\
 &emsp;Si essent vivi, essent tales.
 
-³³ A descriver lor forma più non spargo\
-&emsp;Lingua (⁵), lector; ch'altra possa mi strigne\
-&emsp;Tanto, ch'a questa non posso esser largo (⁶).
+33 A descriver lor forma più non spargo\
+&emsp;Lingua (5), lector; ch'altra possa mi strigne\
+&emsp;Tanto, ch'a questa non posso esser largo (6).
 
-³³ Ad describendum eorum formas plures non spargo\
+33 Ad describendum eorum formas plures non spargo\
 &emsp;Rimas, o lector; quia alia expensa me stringit\
 &emsp;Tantum, quod ad istam non possum esse largus.
 
-³⁴ Ma legge Ezechiel, che le dipigne\
+34 Ma legge Ezechiel, che le dipigne\
 &emsp;Come le vidde dalla fredda parte\
 &emsp;Venire a lui con nube e con igne;
 
-³⁴ Sed lege Ezechielem, qui eas pingit\
+34 Sed lege Ezechielem, qui eas pingit\
 &emsp;Sicut eas vidit a frigida parte\
 &emsp;Venire cum vento, cum nube et cum igne;
 
-(¹) stella — (²) altra stella — (³) seguita — (⁴) al loro — (⁵) al. rime et melius — (⁶) prolixo nel dire.
+(1) stella — (2) altra stella — (3) seguita — (4) al loro — (5) al. rime et melius — (6) prolixo nel dire.
 
 Sub ita pulchro celo, sicut ego diviso, idest designo, vigintiquatuor domini, bini et bini, coronati veniebant floribus alixii. Isti vigintiquatuor sunt vigintiquatuor libri Biblie, in quibus comprehenditur quidquid de fide nostra habemus. Bini et bini, ad denotandum concordiam. Erant coronati liliis, propter puritatem fidei et sinceritatem eiusdem.
 
@@ -388,55 +388,55 @@ Sed lege Ezechielem, prophetam scilicet, qui eas pingit, idest describit, sicut 
 
 <!-- p. 766 (0820) -->
 
-³⁵ E quali troverai nelle sue carte,\
+35 E quali troverai nelle sue carte,\
 &emsp;Tali eran quivi, salvo ch'alle penne\
 &emsp;Giovanni è meco, e da lui si diparte.
 
-³⁵ Et quales ipsas reperies in suis cartis,\
+35 Et quales ipsas reperies in suis cartis,\
 &emsp;Tales erant ibi, excepto quod ad pennas\
 &emsp;Ioannes est mecum, et ab ipso descedit.
 
-³⁶ Lo spazo dentro a lor quattro contenne\
+36 Lo spazo dentro a lor quattro contenne\
 &emsp;Un carro, in su due rote, triumphale,\
 &emsp;Ch'al collo d'un grifon tirato venne.
 
-³⁶ Spatium intra, eorum quatuor, continuit\
+36 Spatium intra, eorum quatuor, continuit\
 &emsp;Unum currum triumphalem super duabus rotis,\
 &emsp;Qui a collo unius grifonis tractus venit.
 
-³⁷ Esso tendea su l'una (¹) e l'altr'hale\
+37 Esso tendea su l'una (1) e l'altr'hale\
 &emsp;Tra la mezzana e le tre e tre liste,\
 &emsp;Sì che nullo offendendo facea male.
 
-³⁷ Et ipse tendebat sursum utramque alam\
+37 Et ipse tendebat sursum utramque alam\
 &emsp;Inter mediam et tres et tres listas,\
 &emsp;Ita quod findendo nullum facieba[n]t malum.
 
-³⁸ Tanto salivan (²), che non eran viste;\
-&emsp;Le membra d'or (³) havea, quant'era ucello,\
-&emsp;E bianche (⁴) l'altre (⁵) di vermiglio miste.
+38 Tanto salivan (2), che non eran viste;\
+&emsp;Le membra d'or (3) havea, quant'era ucello,\
+&emsp;E bianche (4) l'altre (5) di vermiglio miste.
 
-³⁸ Tantum ascendebant, quod non erant vise;\
+38 Tantum ascendebant, quod non erant vise;\
 &emsp;Membra habebat aurea, quantum erat avis,\
 &emsp;Et alba alia rubeo mixta.
 
-³⁹ Non che Roma di carro così bello\
+39 Non che Roma di carro così bello\
 &emsp;Rallegrasse Africano, o ver Augusto,\
-&emsp;Ma quel (⁶) de[l] sol saria pover con ello;
+&emsp;Ma quel (6) de[l] sol saria pover con ello;
 
-³⁹ Nedum de curru tam pulchro Roma\
+39 Nedum de curru tam pulchro Roma\
 &emsp;Letificaret Africanum, sive Augustum,\
 &emsp;Sed ille solis esset pauper cum ipso;
 
-⁴⁰ Quel del sol (⁷), che sviando fu combusto,\
+40 Quel del sol (7), che sviando fu combusto,\
 &emsp;Per oration della Terra devota,\
-&emsp;Quando fu Giove arcanamente giusto (⁸).
+&emsp;Quando fu Giove arcanamente giusto (8).
 
-⁴⁰ Ille solis, qui deviando fuit combustus,\
+40 Ille solis, qui deviando fuit combustus,\
 &emsp;Propter orationem Terre devote,\
 &emsp;Quando fuit Iuppiter ita arcane iustus.
 
-(¹) hala — (²) le sue penne — (³) d'oro — (⁴) haveva — (⁵) membra — (⁶) carro — (⁷) carro, dico — (⁸) contra Phetonte.
+(1) hala — (2) le sue penne — (3) d'oro — (4) haveva — (5) membra — (6) carro — (7) carro, dico — (8) contra Phetonte.
 
 sic Ezechielis primo capitulo): et quales ipsas reperies in suis cartis, idest in libro suo, scilicet Ezechielis, tales erant ibi; excepto quod ad pennas Ioannes est mecum (ego teneo cum Ioanne), et ab ipso discedit. Nam Beatus Ioannes Evangelista in Apocalypsi, describens, non in omnibus dicit sicut Ezechiel, et ibi videtur differentia inter Ezechielem et Ioannem.
 
@@ -450,55 +450,55 @@ Nedum de curru tam pulchro [Roma] letificaret Africanum, scilicet Scipionem, siv
 
 <!-- p. 767 (0821) -->
 
-⁴¹ Tre donne in giro, della destra rota,\
+41 Tre donne in giro, della destra rota,\
 &emsp;Venian danzando: l'una tanto rossa,\
 &emsp;Ch'a pena fora dentr'al foco nota;
 
-⁴¹ Tres domine in circulum, ad destram rotam,\
+41 Tres domine in circulum, ad destram rotam,\
 &emsp;Veniebant corizando: una tantum rubea,\
 &emsp;Quod vix foret intra ignem nota;
 
-⁴² L'altr' era, come se le carni e l'ossa\
+42 L'altr' era, come se le carni e l'ossa\
 &emsp;Fossero state di smaraldo facte;\
 &emsp;La terza parea neve testè mossa.
 
-⁴² Alia erat, ac si caro et ossa\
+42 Alia erat, ac si caro et ossa\
 &emsp;Fuissent de smaragdo facta;\
 &emsp;Alia videbatur nix noviter mota.
 
-⁴³ Et hor parean dalla bianca tracte,\
+43 Et hor parean dalla bianca tracte,\
 &emsp;Hor dalla rossa, e dal canto di questa\
 &emsp;L'altre toglean l'andar tarde e racte.
 
-⁴³ Et aliquando videbantur ab alba tracte,\
+43 Et aliquando videbantur ab alba tracte,\
 &emsp;Aliquando a rubea, et a cantu istius\
 &emsp;Alie capiebant iter et tardum et velox.
 
-⁴⁴ Dalla sinistra quattro facean festa,\
+44 Dalla sinistra quattro facean festa,\
 &emsp;In porpora vestite, dietro al modo\
 &emsp;D'una di lor, ch'havea tre ochi in testa.
 
-⁴⁴ A sinistra quatuor faciebant festum,\
+44 A sinistra quatuor faciebant festum,\
 &emsp;Purpura vestite, retro modum\
 &emsp;Unius ipsarum, que habebat tres oculos in capite.
 
-⁴⁵ Appresso tutto lo pertracto nodo,\
+45 Appresso tutto lo pertracto nodo,\
 &emsp;Vidi due vecchi in habito dispari,\
-&emsp;Ma pari in acto lor honesto e sodo (¹).
+&emsp;Ma pari in acto lor honesto e sodo (1).
 
-⁴⁵ Apud totum pertractatum nodum,\
+45 Apud totum pertractatum nodum,\
 &emsp;Vidi duos senes in habitu dispares,\
 &emsp;Sed pares in actu honesto et solido.
 
-⁴⁶ L'un si mostrava alcun de famiglari\
-&emsp;Di quel sommo Ypochrate, che (²) natura\
-&emsp;Agl'animali (³) fe' ch'ella ha più cari.
+46 L'un si mostrava alcun de famiglari\
+&emsp;Di quel sommo Ypochrate, che (2) natura\
+&emsp;Agl'animali (3) fe' ch'ella ha più cari.
 
-⁴⁶ Unus se monstrabat aliquem de familiaribus\
+46 Unus se monstrabat aliquem de familiaribus\
 &emsp;Illius summi Ypocratis, qui naturam\
 &emsp;Animalibus fecit que ipsa habet magis cara.
 
-(¹) grave — (²) el quale — (³) agl' huomini.
+(1) grave — (2) el quale — (3) agl' huomini.
 
 totum mundum, in pace. Hic figurat Christum, qui dedit pacem toti mundo, dum pacificavit Deum et hominem Deo), sed ille solis (idest currus solis, quem describit Ovidius in principio in libro Methamorphoseos), esset pauper cum ipso, idest non appropinquaret in pulchritudine (ille, scilicet currus), solis, qui, deviando, fuit combustus, propter orationem Terre devote, quando fuit Iuppiter arcane iustus. Quia Phetonte nescivit conducere currum solis, tota terra ardebat; que ora[vi]t devote ad Iovem, qui fulminavit Phetontem, et currus fuit combustus et periit in Padu. Dicta fuit ista hystoria in secundo capitulo Inferni.
 
@@ -514,49 +514,49 @@ Unus se monstrabat aliquem de familiaribus ipsius summi Ypocratis, qui naturam a
 
 <!-- p. 768 (0822) -->
 
-⁴⁷ Mostrava l'altro la contraria cura\
+47 Mostrava l'altro la contraria cura\
 &emsp;Con una spada lucida et acuta,\
-&emsp;Tal che di qua (¹) dal rio mi fe'paura.
+&emsp;Tal che di qua (1) dal rio mi fe'paura.
 
-⁴⁷ Monstrabat alius contrariam curam\
+47 Monstrabat alius contrariam curam\
 &emsp;Cum uno ense lucido et acuto,\
 &emsp;Taliter quod citra flumen michi fecit pavorem.
 
-⁴⁸ Poi viddi quattro in humile paruta,\
+48 Poi viddi quattro in humile paruta,\
 &emsp;E dietro a tucti gl'altri un vecchio solo\
 &emsp;Venir, dormendo, co'la faccia arguta.
 
-⁴⁸ Postea vidi quatuor in humili apparentia,\
+48 Postea vidi quatuor in humili apparentia,\
 &emsp;Et retro omnes unum senem solum\
 &emsp;Venire, dormiendo, cum facie arguta.
 
-⁴⁹ E questi septe col primaio stuolo\
+49 E questi septe col primaio stuolo\
 &emsp;Eran habituati; ma di gigli\
 &emsp;D'intorno al capo non facevan brolo,
 
-⁴⁹ Et isti septem cum primo stuolo\
+49 Et isti septem cum primo stuolo\
 &emsp;Erant habituati; sed de liliis\
 &emsp;Super caput non faciebant brolum,
 
-⁵⁰ Anzi di rose e d'altri fior vermigli:\
-&emsp;Giurat' havria (²) poco lontan aspecto,\
+50 Anzi di rose e d'altri fior vermigli:\
+&emsp;Giurat' havria (2) poco lontan aspecto,\
 &emsp;Che tucti ardesser di sovra da' cigli:
 
-⁵⁰ Ymo de rosis et de aliis floribus rubeis:\
+50 Ymo de rosis et de aliis floribus rubeis:\
 &emsp;Ego iurassem, propter longissimum aspectum,\
 &emsp;Quod omnes arderent supra supercilia.
 
-⁵¹ E quando'l carro a me fu di rimpecto,\
-&emsp;Un tuon s'udì (³); e quelle genti degne\
-&emsp;Parver haver l'andar più (⁴) interdecto (⁵),\
+51 E quando'l carro a me fu di rimpecto,\
+&emsp;Un tuon s'udì (3); e quelle genti degne\
+&emsp;Parver haver l'andar più (4) interdecto (5),\
 &emsp;Fermandosi ivi colle prime insegne.
 
-⁵¹ Et quando currus fuit e contra me,\
+51 Et quando currus fuit e contra me,\
 &emsp;Unum tonitruum fuit auditum; et ille gentes digne,\
 &emsp;Visum fuit quod ulterius ire esset eis interdictum,\
 &emsp;Firmando se ibi cum primis insignis.
 
-(¹) etiandio — (²) al. giurato — (³) fu udito — (⁴) oltre — (⁵) vietato loro.
+(1) etiandio — (2) al. giurato — (3) fu udito — (4) oltre — (5) vietato loro.
 
 Modo describit septem viros: quorum duo sunt principes Apostolorum; quatuor sunt doctores, scilicet Augustinus, Hieronimus, Gregorius et Ambrosius. Isti ibant in humili apparatu, quia fuerunt glossatores. Postmodum venit unus senex, scilicet sanctus Bernardus. Videbatur dormire, quia fuit valde contemplativus et solitarius. Hic habet faciem argutam, scilicet sapientem et providam.
 

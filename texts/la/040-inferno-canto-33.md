@@ -8,31 +8,31 @@ In isto tricesimotertio capitulo, quod incipit: Os suum amovit a fero pastu, auc
 
 # Capitulum Tricesimumtertium
 
-¹ La bocca sollevò dal fiero pasto\
-&emsp;Quel peccator (¹), forbendola a' capelli\
-&emsp;Del capo (²), ch'elli avea di rieto guasto (³).
+1 La bocca sollevò dal fiero pasto\
+&emsp;Quel peccator (1), forbendola a' capelli\
+&emsp;Del capo (2), ch'elli avea di rieto guasto (3).
 
-¹ Os sublevavit a fero pastu\
+1 Os sublevavit a fero pastu\
 &emsp;Ille peccator, forbiendo illud ad capillos\
 &emsp;Capitis, quod ipse retro destruxerat.
 
-² Poi cominciò (⁴): Tu vuoi (⁵) ch'io rinnovelli (⁶)\
-&emsp;Disperato (⁷) dolor ch'el cor mi preme,\
-&emsp;Già pur (⁸) pensando, prima ch'io favelli (⁹).
+2 Poi cominciò (4): Tu vuoi (5) ch'io rinnovelli (6)\
+&emsp;Disperato (7) dolor ch'el cor mi preme,\
+&emsp;Già pur (8) pensando, prima ch'io favelli (9).
 
-² Postmodum incepit: Tu vis quod ego renovem\
+2 Postmodum incepit: Tu vis quod ego renovem\
 &emsp;Desperatum dolorem qui michi cor premit,\
 &emsp;Solummodo cogitando, priusquam de ipso loquar.
 
-³ Ma se le mie parole esser deen (¹⁰) seme,\
-&emsp;Che fructi infamia al traditor (¹¹) ch'io rodo,\
-&emsp;Parlar (¹²) e lagrimar (¹³) udrai (¹⁴) insieme.
+3 Ma se le mie parole esser deen (10) seme,\
+&emsp;Che fructi infamia al traditor (11) ch'io rodo,\
+&emsp;Parlar (12) e lagrimar (13) udrai (14) insieme.
 
-³ Sed si mea verba esse debent semen,\
+3 Sed si mea verba esse debent semen,\
 &emsp;Que fructificent infamiam proditori quem rodo,\
 &emsp;Loqui et lacrymari videbis me simul.
 
-(¹) conte Ugolino. — (²) dell'arcivescovo Ruggieri. — (³) roso co' denti. — (⁴) a parlar così. — (⁵) o Dante. — (⁶) di nuovo ti dica. — (⁷) che mi fe' disperare. — (⁸) solamente. — (⁹) co' la lingua el narri. — (¹⁰) debbano come tu promecti. — (¹¹) questo. — (¹²) me. — (¹³) me. — (¹⁴) tu Dante.
+(1) conte Ugolino. — (2) dell'arcivescovo Ruggieri. — (3) roso co' denti. — (4) a parlar così. — (5) o Dante. — (6) di nuovo ti dica. — (7) che mi fe' disperare. — (8) solamente. — (9) co' la lingua el narri. — (10) debbano come tu promecti. — (11) questo. — (12) me. — (13) me. — (14) tu Dante.
 
 La bocca sollevò dal fiero pasto. Os sublevavit a fero pastu: hoc est tricesimumtertium capitulum huius Inferni, in quo auctor continuat dicta dicendis, et maxime hystoriam istorum duorum dictorum, scilicet archiepiscopi Rogerii, et comitis Ugolini de Pisis, et de tertia specie proditorum et eorum pena. Dividitur autem hoc capitulum in quatuor partes. In quarum prima continuat dicta dicendis. In secunda parte, que incipit ibi.
 
@@ -54,47 +54,47 @@ Sed si mea verba esse debent semen, quod fructificet infamiam proditori, quem ro
 
 <!-- p. 401 (0455) -->
 
-⁴ Io non so chi tu se', nè per che modo\
+4 Io non so chi tu se', nè per che modo\
 &emsp;Venuto se' quaggiù; ma Fiorentino\
-&emsp;Mi sembri veramente, quand'io t'odo (¹).
+&emsp;Mi sembri veramente, quand'io t'odo (1).
 
-⁴ Ego nescio quis tu es, nec per quem modum\
+4 Ego nescio quis tu es, nec per quem modum\
 &emsp;Veneris ad hunc locum; sed Florentinus\
 &emsp;Michi assimilaris veraciter, quando te audio.
 
-⁵ Tu dei saper ch'i fui 'l conte Ugolino,\
-&emsp;E questi (²) è l'arcivescovo Ruggieri:\
-&emsp;Hor ti dirò perch'io (³) son tal vicino (⁴).
+5 Tu dei saper ch'i fui 'l conte Ugolino,\
+&emsp;E questi (2) è l'arcivescovo Ruggieri:\
+&emsp;Hor ti dirò perch'io (3) son tal vicino (4).
 
-⁵ Tu debes scire quod ego fui comes Ugolinus,\
+5 Tu debes scire quod ego fui comes Ugolinus,\
 &emsp;Et iste est archiepiscopus Rogerius:\
 &emsp;Or nunc dicam tibi quare ego sum ei ita malus vicinus.
 
-⁶ Che per l'effecto de' suoi ma' (⁵) pensieri,\
-&emsp;Fidandomi di lui, io fussi preso (⁶)\
-&emsp;E poscia morto, dir non è mestieri (⁷).
+6 Che per l'effecto de' suoi ma' (5) pensieri,\
+&emsp;Fidandomi di lui, io fussi preso (6)\
+&emsp;E poscia morto, dir non è mestieri (7).
 
-⁶ Quod per effectum suorum malorum cogitaminum,\
+6 Quod per effectum suorum malorum cogitaminum,\
 &emsp;Confidens me de isto, ego fuerim captus\
 &emsp;Et postea mortuus, dicere non oportet.
 
-⁷ Però quel (⁸) che non puoi haver inteso,\
-&emsp;Cioè, come la morte mia fu cruda (⁹),\
-&emsp;Udirai (¹⁰), e saperai (¹¹) se m'ha offeso.
+7 Però quel (8) che non puoi haver inteso,\
+&emsp;Cioè, come la morte mia fu cruda (9),\
+&emsp;Udirai (10), e saperai (11) se m'ha offeso.
 
-⁷ Ergo illud quod non potes intellexisse,\
+7 Ergo illud quod non potes intellexisse,\
 &emsp;Videlicet, quomodo mors mea fuit cruda,\
 &emsp;Audies, et scies si me offendit.
 
-⁸ Breve pertugio (¹²) dentro dalla muda (¹³)\
-&emsp;La qual per me (¹⁴) ha'l titol (¹⁵) della fame,\
-&emsp;E che convien ch'ancor altri rinchiuda (¹⁶),
+8 Breve pertugio (12) dentro dalla muda (13)\
+&emsp;La qual per me (14) ha'l titol (15) della fame,\
+&emsp;E che convien ch'ancor altri rinchiuda (16),
 
-⁸ Breve pertugium intus in muda\
+8 Breve pertugium intus in muda\
 &emsp;Que propter me habet tytulum famis,\
 &emsp;In quo adhuc oportet quod alii claudantur,
 
-(¹) parlare. — (²) ch'io rodo. — (³) La cagione perch'io. — (⁴) a lui. — (⁵) mali e gattivi. — (⁶) a tradimento in casa mia. — (⁷) perch'è noto a tucto'l mondo. — (⁸) le circostantie de la mia morte. — (⁹) crudele. — (¹⁰) prima da me. — (¹¹) da poi. — (¹²) piccola balestriera. — (¹³) torre di Pisa. — (¹⁴) per la mia morte. — (¹⁵) si chiama la torre della fame. — (¹⁶) al. si chiuda.
+(1) parlare. — (2) ch'io rodo. — (3) La cagione perch'io. — (4) a lui. — (5) mali e gattivi. — (6) a tradimento in casa mia. — (7) perch'è noto a tucto'l mondo. — (8) le circostantie de la mia morte. — (9) crudele. — (10) prima da me. — (11) da poi. — (12) piccola balestriera. — (13) torre di Pisa. — (14) per la mia morte. — (15) si chiama la torre della fame. — (16) al. si chiuda.
 
 Ego nescio quis tu sis, nec per quem modum veneris ad hunc locum; sed Florentinus michi assimilaris, m'assembri, veraciter, quando te audio.
 
@@ -112,71 +112,71 @@ Breve pertugio, idest foramen intus in Muda, idest turri vocata, vel in carcere,
 
 <!-- p. 402 (0456) -->
 
-⁹ M'havea mostrato per lo suo forame (¹)\
-&emsp;Più lume (²) già, quando feci 'l mal sonno (³),\
-&emsp;Che del futuro (⁴) mi squarciò (⁵) 'l velame (⁶).
+9 M'havea mostrato per lo suo forame (1)\
+&emsp;Più lume (2) già, quando feci 'l mal sonno (3),\
+&emsp;Che del futuro (4) mi squarciò (5) 'l velame (6).
 
-⁹ Michi monstraverat per suum foramen\
+9 Michi monstraverat per suum foramen\
 &emsp;Maius lumen iam, quando feci malum sompnium,\
 &emsp;Quod futuri michi dilaceravit velamen.
 
-¹⁰ Questi (⁷) pareva a me (⁸) maestro e donno,\
-&emsp;Cacciando el (⁹) lupo (¹⁰) e' lupaccini (¹¹) al (¹²) monte,\
-&emsp;Perch'e (¹³) Pisani veder Lucca non ponno (¹⁴).
+10 Questi (7) pareva a me (8) maestro e donno,\
+&emsp;Cacciando el (9) lupo (10) e' lupaccini (11) al (12) monte,\
+&emsp;Perch'e (13) Pisani veder Lucca non ponno (14).
 
-¹⁰ Iste apparebat michi magister et dominus\
+10 Iste apparebat michi magister et dominus\
 &emsp;Cacciando lupum et lupicinos ad montem,\
 &emsp;Unde Pisani videre Lucam non possunt.
 
-¹¹ Con cagne magre (¹⁵) studiose (¹⁶) e conte (¹⁷),\
+11 Con cagne magre (15) studiose (16) e conte (17),\
 &emsp;Gualandi con Sismondi e con Lanfranchi\
-&emsp;S'haveva (¹⁸) messi innanzi (¹⁹) da la fronte.
+&emsp;S'haveva (18) messi innanzi (19) da la fronte.
 
-¹¹ Cum canibus macris studiosis et contis,\
+11 Cum canibus macris studiosis et contis,\
 &emsp;Gualandis cum Sismundis et cum Lanfranchis\
 &emsp;Posuerat sibi ante frontem.
 
-¹² In picciol corso mi pareano stanchi\
-&emsp;El padre e' figli (²⁰), e coll'acute sane (²¹)\
+12 In picciol corso mi pareano stanchi\
+&emsp;El padre e' figli (20), e coll'acute sane (21)\
 &emsp;Mi parea veder lor fender li fianchi.
 
-¹² In parvo cursu michi apparebant fessi\
+12 In parvo cursu michi apparebant fessi\
 &emsp;Pater et filii, et cum acutis squamis\
 &emsp;Michi apparebat eis videre scindere flancos.
 
-¹³ Quando fui desto innanzi la dimane (²²),\
+13 Quando fui desto innanzi la dimane (22),\
 &emsp;Pianger sentii fra'l sonno e miei figliuoli,\
 &emsp;Ch'eran con meco, e dimandar del pane.
 
-¹³ Quando fui excitatus ante mane,\
+13 Quando fui excitatus ante mane,\
 &emsp;Plangere sensi infra sompnium meos filios,\
 &emsp;Qui erant mecum, et petere de pane.
 
-¹⁴ Ben se' crudele, se già non ti duoli (²³),\
-&emsp;Pensando che'l mio cor s'annunziava (²⁴):\
+14 Ben se' crudele, se già non ti duoli (23),\
+&emsp;Pensando che'l mio cor s'annunziava (24):\
 &emsp;E se non piangi, di che pianger suoli?
 
-¹⁴ Bene es crudelis, si tu iam non doles,\
+14 Bene es crudelis, si tu iam non doles,\
 &emsp;Cogitando illud quod michi et cordi meo annun-\
 &emsp;Et si non plangis, de quo plangere soles? [tiabatur:
 
-¹⁵ Già eran desti, e l'hora s'appressava\
-&emsp;Che'l cibo ne (²⁵) soleva esser addocto (²⁶),\
-&emsp;E per suo sogno ciascun (²⁷) dubitava:
+15 Già eran desti, e l'hora s'appressava\
+&emsp;Che'l cibo ne (25) soleva esser addocto (26),\
+&emsp;E per suo sogno ciascun (27) dubitava:
 
-¹⁵ Iam erant excitati, et hora appropinquabat\
+15 Iam erant excitati, et hora appropinquabat\
 &emsp;Qua cibus nobis solebat adduci,\
 &emsp;Et propter suum signum quilibet dubitabat:
 
-¹⁶ Et io sentii chiavar l'uscio di socto\
-&emsp;All'horribile torre (²⁸); ond'io guardai\
-&emsp;Nel viso a' miei figliuoi senza far mocto (²⁹).
+16 Et io sentii chiavar l'uscio di socto\
+&emsp;All'horribile torre (28); ond'io guardai\
+&emsp;Nel viso a' miei figliuoi senza far mocto (29).
 
-¹⁶ Et ego sensi clausum ostium inferius\
+16 Et ego sensi clausum ostium inferius\
 &emsp;Horribili turri; unde ego respexi\
 &emsp;In viso meorum filiorum sine facere verbum.
 
-(¹) piccola apertura. — (²) cioè l'alba o vero aurora. — (³) sogno. — (⁴) di quel che poi addivenne. — (⁵) aprì l'occultatione. — (⁶) arcivescovo. — (⁷) in sogno. — (⁸) signore e principale della caccia. — (⁹) al. un. — (¹⁰) cioè me. — (¹¹) e miei figlolini. — (¹²) verso. — (¹³) mediante lo qual monte. — (¹⁴) possono. — (¹⁵) popol minuto. — (¹⁶) desiderose. — (¹⁷) ammaestrate. — (¹⁸) l'arcivescovo — (¹⁹) e lui dietro portava la croce. — (²⁰) el lupo e lupaccini. — (²¹) de le cagne. — (²²) la mattina. — (²³) solo udendo questo. — (²⁴) dover venir per questo. — (²⁵) a noi. — (²⁶) portato. — (²⁷) di noi. — (²⁸) sopra decta. — (²⁹) parlare loro.
+(1) piccola apertura. — (2) cioè l'alba o vero aurora. — (3) sogno. — (4) di quel che poi addivenne. — (5) aprì l'occultatione. — (6) arcivescovo. — (7) in sogno. — (8) signore e principale della caccia. — (9) al. un. — (10) cioè me. — (11) e miei figlolini. — (12) verso. — (13) mediante lo qual monte. — (14) possono. — (15) popol minuto. — (16) desiderose. — (17) ammaestrate. — (18) l'arcivescovo — (19) e lui dietro portava la croce. — (20) el lupo e lupaccini. — (21) de le cagne. — (22) la mattina. — (23) solo udendo questo. — (24) dover venir per questo. — (25) a noi. — (26) portato. — (27) di noi. — (28) sopra decta. — (29) parlare loro.
 
 et in qua convenit, idest oportet, adhuc quod alii claudantur, michi monstraverat per suum foramen maius lumen, vel plus sui luminis, iam, quando feci malum sompnium, quod futuri michi dilucidavit velamen, idest aperuit michi ventura.
 
@@ -196,79 +196,79 @@ Et ego sensi chiavari, idest claudi, ostium inferius horribili turri; unde ego r
 
 <!-- p. 403 (0457) -->
 
-¹⁷ Io non piangeva; sì dentro (¹) impetrai (²):\
-&emsp;Piangevan elli (³); et Anselmuccio mio (⁴)\
-&emsp;Disse: Tu guardi sì (⁵), padre: che hai?
+17 Io non piangeva; sì dentro (1) impetrai (2):\
+&emsp;Piangevan elli (3); et Anselmuccio mio (4)\
+&emsp;Disse: Tu guardi sì (5), padre: che hai?
 
-¹⁷ Ego non plangebam; ita interius impetravi;\
+17 Ego non plangebam; ita interius impetravi;\
 &emsp;Plangebant ipsi; et Anselmucius meus\
 &emsp;Dicebat: Tu plangis sic, pater: quid habes?
 
-¹⁸ Perciò non lacrimai, nè rispos'io\
-&emsp;Tucto quel giorno, nè (⁶) la nocte apresso,\
-&emsp;Per fin che l'altro sol (⁷) nel mondo uscio (⁸).
+18 Perciò non lacrimai, nè rispos'io\
+&emsp;Tucto quel giorno, nè (6) la nocte apresso,\
+&emsp;Per fin che l'altro sol (7) nel mondo uscio (8).
 
-¹⁸ Ideo non lacrymatus fui, nec respondi ego\
+18 Ideo non lacrymatus fui, nec respondi ego\
 &emsp;Toto illo die, nec nocte supervenienti,\
 &emsp;Quousque alius sol in mundo exivit.
 
-¹⁹ Com'un poco di raggio (⁹) si fu messo\
-&emsp;Nel doloroso carcer, io (¹⁰) scorsi\
-&emsp;Per quattro visi (¹¹) el mio aspecto stesso;
+19 Com'un poco di raggio (9) si fu messo\
+&emsp;Nel doloroso carcer, io (10) scorsi\
+&emsp;Per quattro visi (11) el mio aspecto stesso;
 
-¹⁹ Sicut aliqualiter radius fuit immissus\
+19 Sicut aliqualiter radius fuit immissus\
 &emsp;In dolorosum carcerem, et ego perpendi\
 &emsp;Per quatuor visus meum aspectum eumdem;
 
-²⁰ Ambo le mani (¹²) per dolor mi morsi.\
-&emsp;Et ei (¹³), credendo (¹⁴) ch'io 'l fessi per vogla\
-&emsp;Di manicar, di subito levorsi (¹⁵),
+20 Ambo le mani (12) per dolor mi morsi.\
+&emsp;Et ei (13), credendo (14) ch'io 'l fessi per vogla\
+&emsp;Di manicar, di subito levorsi (15),
 
-²⁰ Ambas manus propter dolorem michi momordi;\
+20 Ambas manus propter dolorem michi momordi;\
 &emsp;Et ipsi, cogitantes quod ego facerem illud propter\
 &emsp;Manducandi, subito se erexerunt, [voluntatem
 
-²¹ E disser (¹⁶): Padre (¹⁷), assai ci fia men dogla,\
-&emsp;Se tu mangi di noi: tu ne (¹⁸) vestisti\
+21 E disser (16): Padre (17), assai ci fia men dogla,\
+&emsp;Se tu mangi di noi: tu ne (18) vestisti\
 &emsp;Queste misere carni, e tu le spogla.
 
-²¹ Et dixerunt: Pater, multo erit nobis minor dolor,\
+21 Et dixerunt: Pater, multo erit nobis minor dolor,\
 &emsp;Si tu comedis de nobis: tu nos vestisti\
 &emsp;Istam miseram carnem, et tu illam expolia.
 
-²² Queta' mi (¹⁹) allhora per non farli più tristi:\
+22 Queta' mi (19) allhora per non farli più tristi:\
 &emsp;L'un dì e l'altro stemmo come muti:\
-&emsp;Hai dura terra (²⁰), perchè non t'apristi?
+&emsp;Hai dura terra (20), perchè non t'apristi?
 
-²² [Quievi tunc ut non facerem eos magis tristes:\
+22 [Quievi tunc ut non facerem eos magis tristes:\
 &emsp;Illa die et altera stetimus omnes muti]:\
 &emsp;Ay dura terra, quare te non aperuisti?
 
-²³ Poscia che fummo al quarto dì venuti,\
-&emsp;Ghaddo (²¹) mi si gittò disteso (²²) a' piedi,\
-&emsp;E disse (²³): Padre (²⁴), perchè non m'aiuti (²⁵)?
+23 Poscia che fummo al quarto dì venuti,\
+&emsp;Ghaddo (21) mi si gittò disteso (22) a' piedi,\
+&emsp;E disse (23): Padre (24), perchè non m'aiuti (25)?
 
-²³ Postquam ad quartum diem pervenimus,\
+23 Postquam ad quartum diem pervenimus,\
 &emsp;Gaddus michi proiecit se extensum ad pedes,\
 &emsp;Dicendo: Pater mi, cur me non adiuvas?
 
-²⁴ Così morì (²⁶): e come tu mi vedi,\
-&emsp;Vidd'io li tre (²⁷) cascar ad uno ad uno (²⁸)\
+24 Così morì (26): e come tu mi vedi,\
+&emsp;Vidd'io li tre (27) cascar ad uno ad uno (28)\
 &emsp;Tra'l quinto e'l sesto dì: ond'io mi diedi
 
-²⁴ Sic mortuus est: et sicut tu vides,\
+24 Sic mortuus est: et sicut tu vides,\
 &emsp;Ita vidi eos cadere tres, unum post alium,\
 &emsp;Inter quartum diem et sextum: unde ego me dedi
 
-²⁵ Già cieco a brancolar (²⁹) sopra ciascuno (³⁰),\
-&emsp;E due dì li chiamai (³¹) poi che fur morti:\
-&emsp;Poscia (³²), più che'l dolor (³³), potè 'l digiuno (³⁴).
+25 Già cieco a brancolar (29) sopra ciascuno (30),\
+&emsp;E due dì li chiamai (31) poi che fur morti:\
+&emsp;Poscia (32), più che'l dolor (33), potè 'l digiuno (34).
 
-²⁵ Iam cecus ad abrancolandum supra quemlibet,\
+25 Iam cecus ad abrancolandum supra quemlibet,\
 &emsp;Et duobus diebus eos vocavi postquam fuerunt\
 &emsp;Postea, plusquam dolor, potuit ieiunium. [mortui:
 
-(¹) per tal modo. — (²) agghiadai come pietra. — (³) figluoli miei. — (⁴) figluolo. — (⁵) o. — (⁶) ancora. — (⁷) il sole. — (⁸) si levò. — (⁹) di sole. — (¹⁰) al. et io, et melius. — (¹¹) de' miei figluoli. — (¹²) mie. — (¹³) figliuoli miei. — (¹⁴) al. pensando. — (¹⁵) venendo a me inginochione. — (¹⁶) o. — (¹⁷) nostro. — (¹⁸) a noi. — (¹⁹) stemmi queto. — (²⁰) di Pisa. — (²¹) mio figluol minore. — (²²) per debilità. (²³) o. — (²⁴) mio. — (²⁵) che mi muoio di fame. — (²⁶) Ghaddo. — (²⁷) altri figluoli miei. — (²⁸) morti di fame. — (²⁹) colle braccia strascinare. — (³⁰) de' miei figluoli morti. — (³¹) per nome quando l'uno e quando l'altro. — (³²) da poi questo. — (³³) de' figliuoli. — (³⁴) la fame che atterrò ancora me.
+(1) per tal modo. — (2) agghiadai come pietra. — (3) figluoli miei. — (4) figluolo. — (5) o. — (6) ancora. — (7) il sole. — (8) si levò. — (9) di sole. — (10) al. et io, et melius. — (11) de' miei figluoli. — (12) mie. — (13) figliuoli miei. — (14) al. pensando. — (15) venendo a me inginochione. — (16) o. — (17) nostro. — (18) a noi. — (19) stemmi queto. — (20) di Pisa. — (21) mio figluol minore. — (22) per debilità. (23) o. — (24) mio. — (25) che mi muoio di fame. — (26) Ghaddo. — (27) altri figluoli miei. — (28) morti di fame. — (29) colle braccia strascinare. — (30) de' miei figluoli morti. — (31) per nome quando l'uno e quando l'altro. — (32) da poi questo. — (33) de' figliuoli. — (34) la fame che atterrò ancora me.
 
 Ego non plangebam; ita interius impetravi, idest induratus fui, sicut petra, ex dolore: plangebant ipsi, et Anselmucius meus (nomen unius suorum filiorum) dicebat: Tu plangis sic, pater: quid habes?
 
@@ -286,55 +286,55 @@ Sic, idest ibi, mortuus est, et sicut tu vides, idest tu Dantes vides nunc prese
 
 <!-- p. 404 (0458) -->
 
-²⁶ Quand'ebbe (¹) decto ciò, cho gl'ochi torti\
-&emsp;Riprese 'l teschio misero (²) coi denti (³),\
-&emsp;Che fur (⁴) all'osso (⁵), come (⁶) d'un can, forti.
+26 Quand'ebbe (1) decto ciò, cho gl'ochi torti\
+&emsp;Riprese 'l teschio misero (2) coi denti (3),\
+&emsp;Che fur (4) all'osso (5), come (6) d'un can, forti.
 
-²⁶ Postquam hoc dixit cum oculis tortuosis\
+26 Postquam hoc dixit cum oculis tortuosis\
 &emsp;Resumpsit teschium miserum cum dentibus,\
 &emsp;Qui perforant ossa, sicut unius canis fortis.
 
-²⁷ Hay Pisa, vituperio delle genti\
-&emsp;Del bel paese (⁷) là, dove 'l sì sona;\
-&emsp;Poich' e vicini (⁸) a te punir son lenti (⁹),
+27 Hay Pisa, vituperio delle genti\
+&emsp;Del bel paese (7) là, dove 'l sì sona;\
+&emsp;Poich' e vicini (8) a te punir son lenti (9),
 
-²⁷ Ay Pise, vituperium gentium\
+27 Ay Pise, vituperium gentium\
 &emsp;Pulcre regionis, ubi sonat;\
 &emsp;Postquam vicini ad te puniendum sunt lenti,
 
-²⁸ Muovasi (¹⁰) la Capraia (¹¹) e la Gorgona (¹²),\
-&emsp;E facin siepe (¹³) ad Arno (¹⁴) in su la foce (¹⁵),\
-&emsp;Sì ch' egl'anneghi in te ogni persona (¹⁶):
+28 Muovasi (10) la Capraia (11) e la Gorgona (12),\
+&emsp;E facin siepe (13) ad Arno (14) in su la foce (15),\
+&emsp;Sì ch' egl'anneghi in te ogni persona (16):
 
-²⁸ Moveat se Capraia et Gorgona,\
+28 Moveat se Capraia et Gorgona,\
 &emsp;Et faciant sepem in Arno super fauce,\
 &emsp;Ita quod ipse submergant in te omnem personam.
 
-²⁹ Chè se 'l conte Ugolino havea tal voce (¹⁷)\
-&emsp;D'haver tradito te delle castella (¹⁸),\
-&emsp;Non dovevi e figliol (¹⁹) por a tal croce (²⁰).
+29 Chè se 'l conte Ugolino havea tal voce (17)\
+&emsp;D'haver tradito te delle castella (18),\
+&emsp;Non dovevi e figliol (19) por a tal croce (20).
 
-²⁹ Quia si comes Ugolinus habebat vocem\
+29 Quia si comes Ugolinus habebat vocem\
 &emsp;Prodidisse te de castris tuis,\
 &emsp;Non debebas tu filios ponere ad talem crucem.
 
-³⁰ Innocenti li facea l'età (²¹) novella (²²),\
-&emsp;Novella Tebe, Ugoccione (²³) e 'l Brigata,\
-&emsp;E gl'altri due (²⁴) che 'l canto (²⁵) suso (²⁶) appella (²⁷).
+30 Innocenti li facea l'età (21) novella (22),\
+&emsp;Novella Tebe, Ugoccione (23) e 'l Brigata,\
+&emsp;E gl'altri due (24) che 'l canto (25) suso (26) appella (27).
 
-³⁰ Innocentes faciebat eos nova etas,\
+30 Innocentes faciebat eos nova etas,\
 &emsp;Nove Thebe, Uguccio et Brigata,\
 &emsp;Et alii duo quos cantus superius appellat.
 
-³¹ Noi passamm'oltre, dove la gelata (²⁸)\
-&emsp;Ruvidamente un'altra gente fascia (²⁹),\
+31 Noi passamm'oltre, dove la gelata (28)\
+&emsp;Ruvidamente un'altra gente fascia (29),\
 &emsp;Non volta in giù, ma tucta rinversata.
 
-³¹ Nos transiebamus ultra, ubi glacies\
+31 Nos transiebamus ultra, ubi glacies\
 &emsp;Rigide unam aliam gentem fasciat,\
 &emsp;Non volutam infra, sed totam sursum versam.
 
-(¹) el conte Ugolino. — (²) dell'arcivescovo. — (³) suoi. — (⁴) furono. — (⁵) di quel teschio. — (⁶) e denti. — (⁷) d' Italia. — (⁸) Fiorentini. — (⁹) di tanti excessi tuoi. — (¹⁰) contra di te. — (¹¹) isola. — (¹²) isola. — (¹³) riparo. — (¹⁴) fiume. — (¹⁵) ov'entra in mare. — (¹⁶) habitante in te. — (¹⁷) infamia. — (¹⁸) sue. — (¹⁹) figluoli suoi. — (²⁰) martirio di fame. — (²¹) puerile. — (²²) o. — (²³) cioè facea innocente. — (²⁴) Ghaddo ed Anselmuccio. — (²⁵) mio. — (²⁶) di sopra. — (²⁷) nomina. — (²⁸) ghiaccia. — (²⁹) involge.
+(1) el conte Ugolino. — (2) dell'arcivescovo. — (3) suoi. — (4) furono. — (5) di quel teschio. — (6) e denti. — (7) d' Italia. — (8) Fiorentini. — (9) di tanti excessi tuoi. — (10) contra di te. — (11) isola. — (12) isola. — (13) riparo. — (14) fiume. — (15) ov'entra in mare. — (16) habitante in te. — (17) infamia. — (18) sue. — (19) figluoli suoi. — (20) martirio di fame. — (21) puerile. — (22) o. — (23) cioè facea innocente. — (24) Ghaddo ed Anselmuccio. — (25) mio. — (26) di sopra. — (27) nomina. — (28) ghiaccia. — (29) involge.
 
 filiorum meorum, iam mortuorum; et tribus diebus, alias duobus, eos vocavi postquam fuerunt mortui: postea plus quam dolor, potuit ieiunium. Et in hoc aggravat penam suam, quia supervixit omnibus suis filiis, et effectus est cecus propter famem. Sed ultimo fames potuit plus quam dolor: nam dolor non potuit me occidere, sed fames sic. Unde nota, quod alacritas et gaudium, potius quam dolor, hominem extinguit.
 
@@ -352,63 +352,63 @@ Noi passammo. Nos transivimus ultra: ista est tertia pars huius capituli, in qua
 
 <!-- p. 405 (0459) -->
 
-³² Lo pianto stesso lì (¹) pianger non lascia (²);\
+32 Lo pianto stesso lì (1) pianger non lascia (2);\
 &emsp;E'l duol, che trova in su gl'ochi rintoppo,\
 &emsp;Si volge dentro a far crescer l'ambascia:
 
-³² Plantus ipse eos plangere non permicit,\
+32 Plantus ipse eos plangere non permicit,\
 &emsp;Et dolor, qui reperit super obstaculum,\
 &emsp;Se volvit retro ut faciat crescere angustiam:
 
-³³ Chè le lagrime prime fanno groppo (³),\
+33 Chè le lagrime prime fanno groppo (3),\
 &emsp;E, sì come visiere di cristallo,\
-&emsp;Riempien sott'al ciglio tucto'l coppo (⁴).
+&emsp;Riempien sott'al ciglio tucto'l coppo (4).
 
-³³ Quia lacryme prime faciunt groppum,\
+33 Quia lacryme prime faciunt groppum,\
 &emsp;Et, sicut viser[i]e cristalli,\
 &emsp;Replent subtus supercilia totum cuppum.
 
-³⁴ Et avegna che, sì come d'un callo,\
-&emsp;Per la freddura (⁵) ciascun sentimento (⁶)\
-&emsp;Cessato havesse del mio viso stallo (⁷),
+34 Et avegna che, sì come d'un callo,\
+&emsp;Per la freddura (5) ciascun sentimento (6)\
+&emsp;Cessato havesse del mio viso stallo (7),
 
-³⁴ Et quamquam, quod sic, sicut ex uno callo,\
+34 Et quamquam, quod sic, sicut ex uno callo,\
 &emsp;Propter frigiditatem quemlibet sensum\
 &emsp;Cessavisset a meo visu statio illa,
 
-³⁵ Già (⁸) mi parea sentir alquanto vento.\
-&emsp;Perch'io: Maestro mio (⁹), questo (¹⁰) chi muove?\
-&emsp;Non è quaggiù (¹¹) ogni vapore spento?
+35 Già (8) mi parea sentir alquanto vento.\
+&emsp;Perch'io: Maestro mio (9), questo (10) chi muove?\
+&emsp;Non è quaggiù (11) ogni vapore spento?
 
-³⁵ Iam mihi apparebat sentire aliquantulum venti.\
+35 Iam mihi apparebat sentire aliquantulum venti.\
 &emsp;Ex quo ego: Magister mi, istud quid movet?\
 &emsp;Non est hic omnis vapor extinctus?
 
-³⁶ Ond'elli a me: Avaccio sarai, dove\
+36 Ond'elli a me: Avaccio sarai, dove\
 &emsp;Di ciò ti farà l'ochio la risposta,\
-&emsp;Vedendo la cagion che 'l fiato piove (¹²).
+&emsp;Vedendo la cagion che 'l fiato piove (12).
 
-³⁶ Unde ipse ad me: Statim eris ibi, ubi\
+36 Unde ipse ad me: Statim eris ibi, ubi\
 &emsp;De hoc faciet tibi oculus responsum,\
 &emsp;Videndo causam a qua flatus fluit.
 
-³⁷ Et un de' tristi (¹³) della fredda crosta (¹⁴)\
-&emsp;Gridò a noi: O anime crudeli (¹⁵)\
-&emsp;Tanto, che data v'è l'ultima posta (¹⁶),
+37 Et un de' tristi (13) della fredda crosta (14)\
+&emsp;Gridò a noi: O anime crudeli (15)\
+&emsp;Tanto, che data v'è l'ultima posta (16),
 
-³⁷ Et unus de tristibus frigide croste\
+37 Et unus de tristibus frigide croste\
 &emsp;Clamavit: O anime crudeles!\
 &emsp;In tantum, quod data est vobis ultima posta,
 
-³⁸ Levatemi dal viso e duri veli,\
+38 Levatemi dal viso e duri veli,\
 &emsp;Sì ch'io sfoghi'l duol, che'l cor m'impregna,\
-&emsp;Un poco, pria che'l pianto si raggeli (¹⁷).
+&emsp;Un poco, pria che'l pianto si raggeli (17).
 
-³⁸ Ammovete a viso meo dura vela,\
+38 Ammovete a viso meo dura vela,\
 &emsp;Ita quod ego emictam dolorem, qui cor meum premit,\
 &emsp;Aliquantulum, priusquam plantus congeletur.
 
-(¹) in qual luogo. — (²) l'anime. — (³) si congelano. — (⁴) la concavità degl'occhi. — (⁵) grande. — (⁶) mio. — (⁷) fermezza. — (⁸) si. — (⁹) Virgilio. — (¹⁰) vento. — (¹¹) in questo centro de la terra. — (¹²) vento glcta. — (¹³) miseri. — (¹⁴) ghiaccia. — (¹⁵) piene di tradimenti. — (¹⁶) stanza de' traditori. — (¹⁷) raghiacci.
+(1) in qual luogo. — (2) l'anime. — (3) si congelano. — (4) la concavità degl'occhi. — (5) grande. — (6) mio. — (7) fermezza. — (8) si. — (9) Virgilio. — (10) vento. — (11) in questo centro de la terra. — (12) vento glcta. — (13) miseri. — (14) ghiaccia. — (15) piene di tradimenti. — (16) stanza de' traditori. — (17) raghiacci.
 
 de tertia specie, scilicet illorum, qui prodiderunt amicos et consanguineos ad propriam mensam. Pena est talis. Isti sunt in glacie, non stant suppini, sed voluti supra, idest tenent faciem et vultum versus sursum, extensi in glacie. Isti habent lacrymas glaciates, idest congelatas non super oculos in fosso; et iste lacryme congelate non mictunt exire foras alias lacrymas: et sic habent maiorem dolorem, ex eo quod non poterunt extra mictere lacrymas. Et ille lacryme stant super oculos, sicut viser[i]e de cristalli; et tunc illud totum spatium, quod est quasi unum fosssatum circum circa oculos, est plenum lacrymis congelatis: unde maxime affliguntur propter talem glaciem. Nos transivimus ultra, ubi glacies rigide unam aliam gentem fasciat, idest intra se tenet, non volutam infra, sed per totum sursum versam.
 
@@ -422,39 +422,39 @@ Et unus de tristibus frigide croste, idest frigide glaciei, clamavit ad nos: hec
 
 <!-- p. 406 (0460) -->
 
-³⁹ Perch'io a lui: Se vuoi ch'io ti sovvegna,\
+39 Perch'io a lui: Se vuoi ch'io ti sovvegna,\
 &emsp;Dimmi chi se'; e s'io non ti disbrigo,\
 &emsp;Al fondo della ghiaccia ir mi convegna.
 
-³⁹ Ex quo ego ad eum: Si vis quod ego tibi subveniam,\
+39 Ex quo ego ad eum: Si vis quod ego tibi subveniam,\
 &emsp;Dic michi qui fuisti; et si ego te non discooperio,\
 &emsp;Ad fundum glaciei ire michi conveniat.
 
-⁴⁰ Rispose adunque: Io son Frate Alberigo;\
+40 Rispose adunque: Io son Frate Alberigo;\
 &emsp;Io son quel delle fructa del mal orto,\
-&emsp;Che qui riprendo (¹) dactilo per figo (²).
+&emsp;Che qui riprendo (1) dactilo per figo (2).
 
-⁴⁰ Respondit igitur: Ego sum Frater Albericus;\
+40 Respondit igitur: Ego sum Frater Albericus;\
 &emsp;Ego sum ille de fructibus mali orti,\
 &emsp;Qui hic resumo dactilum pro ficu.
 
-⁴¹ O, diss'io lui, or se'tu ancor morto?\
+41 O, diss'io lui, or se'tu ancor morto?\
 &emsp;Et elli a me: Come 'l mio corpo stea\
-&emsp;Nel mondo su, nulla scientia porto (³).
+&emsp;Nel mondo su, nulla scientia porto (3).
 
-⁴¹ O, dixi ego ad eum, es ne tu adhuc mortuus?\
+41 O, dixi ego ad eum, es ne tu adhuc mortuus?\
 &emsp;Et ipse ad me: Sicut meum corpus stat\
 &emsp;In mundo supra, nullam scientiam porto.
 
-⁴² Cotal vantaggio ha questa Ptholomea (⁴),\
-&emsp;Che spesse volte l'anima ci cade (⁵)\
-&emsp;Innanzi ch'Antropos (⁶) mossa (⁷) li dea (⁸).
+42 Cotal vantaggio ha questa Ptholomea (4),\
+&emsp;Che spesse volte l'anima ci cade (5)\
+&emsp;Innanzi ch'Antropos (6) mossa (7) li dea (8).
 
-⁴² Talem prerogativam habet ista Ptholomea,\
+42 Talem prerogativam habet ista Ptholomea,\
 &emsp;Quod anima sepe hic cadit\
 &emsp;Antequam Antropos mortem det illi.
 
-(¹) ripiglo hora. — (²) fico. — (³) non so alcuna cosa. — (⁴) decta da Ptholomeo re. — (⁵) dentro. — (⁶) Fata. — (⁷) mutatione del corpo. — (⁸) al. dicit, morte li dea.
+(1) ripiglo hora. — (2) fico. — (3) non so alcuna cosa. — (4) decta da Ptholomeo re. — (5) dentro. — (6) Fata. — (7) mutatione del corpo. — (8) al. dicit, morte li dea.
 
 congelatas; ita quod ego emictam dolorem, quod cor meum impregnat, idest premit aliquantulum, priusquam plantus congeletur.
 
@@ -472,63 +472,63 @@ Talem prerogativam habet ista Ptholomea, quod sepe anima huc cadit, antequam Ant
 
 <!-- p. 407 (0461) -->
 
-⁴³ E perchè tu più volentier mi rade\
-&emsp;Le 'nvetriate (¹) lagrime dal volto,\
-&emsp;Sappi che tosto che l'anima trade (²),
+43 E perchè tu più volentier mi rade\
+&emsp;Le 'nvetriate (1) lagrime dal volto,\
+&emsp;Sappi che tosto che l'anima trade (2),
 
-⁴³ Et ad hoc ut libentius michi radas\
+43 Et ad hoc ut libentius michi radas\
 &emsp;Invitriatas lacrymas a vultu,\
 &emsp;Scias quod quam cito anima tradit,
 
-⁴⁴ Come fec'io, el corpo suo gl'è tolto\
-&emsp;Da un demonio, che poscia 'l governa (³)\
-&emsp;Mentre che 'l tempo suo (⁴) tucto sia volto (⁵).
+44 Come fec'io, el corpo suo gl'è tolto\
+&emsp;Da un demonio, che poscia 'l governa (3)\
+&emsp;Mentre che 'l tempo suo (4) tucto sia volto (5).
 
-⁴⁴ Sicut feci ego, corpus suum eripitur\
+44 Sicut feci ego, corpus suum eripitur\
 &emsp;Ab uno demonio, qui postea illud gubernat\
 &emsp;Usquequo tempus suum totum sit volutum.
 
-⁴⁵ Ella (⁶) ruina in sì facta (⁷) cisterna (⁸),\
-&emsp;E forse pare ancora (⁹) el corpo (¹⁰) suso (¹¹)\
-&emsp;Dell'ombra (¹²) che di qua dietro (¹³) mi verna (¹⁴).
+45 Ella (6) ruina in sì facta (7) cisterna (8),\
+&emsp;E forse pare ancora (9) el corpo (10) suso (11)\
+&emsp;Dell'ombra (12) che di qua dietro (13) mi verna (14).
 
-⁴⁵ Ipsa cadit in talem cisternam;\
+45 Ipsa cadit in talem cisternam;\
 &emsp;Et forsan apparet adhuc corpus superius\
 &emsp;Umbre que hic me retro vernat.
 
-⁴⁶ Tu 'l dei saper, se tu vien pur mo'giuso:\
+46 Tu 'l dei saper, se tu vien pur mo'giuso:\
 &emsp;Egl'è ser Branca d'Oria, e son più anni\
 &emsp;Poscia passati ch'ei fu qui rinchiuso.
 
-⁴⁶ Tu debes scire, si tu venis primo deorsum:\
+46 Tu debes scire, si tu venis primo deorsum:\
 &emsp;Ipse est Branchadoria, et sunt plures anni\
 &emsp;Postea transacti quod ipse fuit ita reclusus.
 
-⁴⁷ Io credo, dissi a lui, che tu m'inganni;\
+47 Io credo, dissi a lui, che tu m'inganni;\
 &emsp;Chè Branca d'Oria non morì unquanche,\
 &emsp;E mangia e beve e dorme e veste panni.
 
-⁴⁷ Ego credo, dixi ego ad eum, quod tu me decipis;\
+47 Ego credo, dixi ego ad eum, quod tu me decipis;\
 &emsp;Quia Branchadoria non est mortuus adhuc,\
 &emsp;Et comedit et bibit et dormit et vestit pannos.
 
-⁴⁸ Nel fosso su, diss'ei, di Male Branche,\
+48 Nel fosso su, diss'ei, di Male Branche,\
 &emsp;Là dove bolle la tenace pece,\
 &emsp;Non era giuncto ancora Michel Zanche,
 
-⁴⁸ In fossato, dixit ipse, Malebranche,\
+48 In fossato, dixit ipse, Malebranche,\
 &emsp;Ubi bullit tenax pix,\
 &emsp;Non pervenerat adhuc Michael Zancha,
 
-⁴⁹ Che quei (¹⁵) lassò un diavol, in sua vece (¹⁶),\
-&emsp;Nel corpo suo et un suo proximano (¹⁷),\
+49 Che quei (15) lassò un diavol, in sua vece (16),\
+&emsp;Nel corpo suo et un suo proximano (17),\
 &emsp;Che 'l tradimento insieme con lui fece.
 
-⁴⁹ Quando iste dimisit unum dyabolum, in sua vice,\
+49 Quando iste dimisit unum dyabolum, in sua vice,\
 &emsp;In corpore suo et unius sui proximi,\
 &emsp;Qui prodicionem simul cum eo fecit.
 
-(¹) ghiacciate. — (²) fa tradimento a' suoi consorti e parenti. — (³) muove. — (⁴) a lui constituito da Dio. — (⁵) fornito. — (⁶) anima. — (⁷) come tu vedi. — (⁸) pozzo e centro de la terra. — (⁹) appare ancora. — (¹⁰) suo. — (¹¹) nel mondo. — (¹²) dell'anima dico. — (¹³) a me. — (¹⁴) sta nella ghiaccia. — (¹⁵) Branca d'Oria. — (¹⁶) in suo luogo. — (¹⁷) parente.
+(1) ghiacciate. — (2) fa tradimento a' suoi consorti e parenti. — (3) muove. — (4) a lui constituito da Dio. — (5) fornito. — (6) anima. — (7) come tu vedi. — (8) pozzo e centro de la terra. — (9) appare ancora. — (10) suo. — (11) nel mondo. — (12) dell'anima dico. — (13) a me. — (14) sta nella ghiaccia. — (15) Branca d'Oria. — (16) in suo luogo. — (17) parente.
 
 Et ad hoc ut tu libentius michi radas invitriatas lacrymas, idest ad modum vitri factas, sive congelatas, a vultu, idest ab oculis meis, scias quod quam cito anima tradit, idest proditionem facit, sicut feci ego, corpus suum eripitur, idest divino iudicio, ab uno demonio, qui postea illud gubernat usquequo tempus suum totum sit volutum, idest usque ad finem vite sue, ordinatum per fata.
 
@@ -544,33 +544,33 @@ In fossato, dixit ipse, Malebranche, ubi bullit tenax pix, non pervenerat adhuc 
 
 <!-- p. 408 (0462) -->
 
-⁵⁰ Ma distende oggimai in qua la mano,\
+50 Ma distende oggimai in qua la mano,\
 &emsp;Apremi gl'occhi: et io non glel'apersi,\
-&emsp;E cortesia (¹) mi fece esser villano (²).
+&emsp;E cortesia (1) mi fece esser villano (2).
 
-⁵⁰ Sed extendas ammodo huc ad me manum,\
+50 Sed extendas ammodo huc ad me manum,\
 &emsp;Aperias michi oculos: et ego non aperui,\
 &emsp;Et curialitas fuit illi esse rusticum.
 
-⁵¹ Hay Genovesi, uomini diversi (³)\
+51 Hay Genovesi, uomini diversi (3)\
 &emsp;D'ogni costume, e pien d'ogni magagna,\
 &emsp;Perchè non sete voi dal mondo spersi?
 
-⁵¹ Ay Ianuenses, homines diversi\
+51 Ay Ianuenses, homines diversi\
 &emsp;Ab omni more, et pleni malitia,\
 &emsp;Quare non estis vos de mundo dispersi?
 
-⁵² Chè col peggiore spirto (⁴) di Romagna,\
-&emsp;Trovai di voi un tale (⁵), che per su'opra (⁶)\
-&emsp;In anima in Cocito (⁷) già si bagna,\
-&emsp;Et in corpo par vivo ancor di sopra (⁸).
+52 Chè col peggiore spirto (4) di Romagna,\
+&emsp;Trovai di voi un tale (5), che per su'opra (6)\
+&emsp;In anima in Cocito (7) già si bagna,\
+&emsp;Et in corpo par vivo ancor di sopra (8).
 
-⁵² Quia cum peiore spiritu Romandiole,\
+52 Quia cum peiore spiritu Romandiole,\
 &emsp;Reperi de vobis unum solum, qui suis operationibus\
 &emsp;In anima in Cocito iam balneatur,\
 &emsp;Et in corpore apparet vivus adhuc superius.
 
-(¹) di non servar fede a' traditori. — (²) contra di lui. — (³) dagl'altri huomini. — (⁴) di Frate Alberigo. — (⁵) così facto. — (⁶) tradimento. — (⁷) fiume infernale. — (⁸) nel mondo.
+(1) di non servar fede a' traditori. — (2) contra di lui. — (3) dagl'altri huomini. — (4) di Frate Alberigo. — (5) così facto. — (6) tradimento. — (7) fiume infernale. — (8) nel mondo.
 
 cum eo fecit. Dicitur quod iste fuit gener ipsius domini Branchadoria. Aliqui dicunt quod erat unus suus nepos, filius fratris sui. Sed hic est dubium: si Michael Zancha, socer domini Branchadoria, nondum erat mortuus, ergo non dominus Branchadoria fecerat proditionem; et sic nondum erat mortuus: ergo non dicebat verum iste spiritus, scilicet Frater Albericus. Dicitur hic quod quam cito unus talis proditor disponit et deliberat ex toto facere talem proditionem, apud Deum habetur pro facto, et incurrit illam penam. Modo dominus Branchadoria iam disposuerat, ordinaverat, et determinaverat, facere talem proditionem; et sic stat veritas dictorum Fratris Alberici.
 

@@ -8,39 +8,39 @@ In duodecimo capitulo, quod incipit: Locus per quem descendere, etc., auctor des
 
 # Capitulum Duodecimum
 
-¹ Era lo loco, ov'a scender la riva\
+1 Era lo loco, ov'a scender la riva\
 &emsp;Venimmo, alpestro, per quel ch'iv'er'anco,\
 &emsp;Tal, ch'ogni vista ne sarebbe schiva.
 
-¹ Erat locus, ubi ad descendendum ripam\
+1 Erat locus, ubi ad descendendum ripam\
 &emsp;Venimus, alpester, et propter id quod [ibi] erat etiam,\
 &emsp;In tantum, quod omnis visio esset fastidita.
 
-² Qual'è quella ruina, che nel fianco\
-&emsp;Di qua da Trento l'Adice (¹) percosse\
+2 Qual'è quella ruina, che nel fianco\
+&emsp;Di qua da Trento l'Adice (1) percosse\
 &emsp;O per tremuoto, o per sostegno manco;
 
-² Qualis est illa ruina, que in flanco\
+2 Qualis est illa ruina, que in flanco\
 &emsp;Circa Tridentum Adigem percussit\
 &emsp;Vel propter terremotum vel propter substentationis defectum;
 
-³ Che da cima del monte, onde si mosse,\
+3 Che da cima del monte, onde si mosse,\
 &emsp;Al piano è sì la roccia disconscesa,\
 &emsp;Ch'alcuna via darebbe a chi su fosse;
 
-³ Quia a summitate montis, unde se movit,\
+3 Quia a summitate montis, unde se movit,\
 &emsp;Ad planitiem est ita roccia prerupta,\
 &emsp;Quod aliquam viam daret illi qui superius esset;
 
-⁴ Cotal di quel burrato era la scesa.\
+4 Cotal di quel burrato era la scesa.\
 &emsp;E in su la punta de la rotta laccha\
-&emsp;L'infamia (²) di Creta (³) era discesa,
+&emsp;L'infamia (2) di Creta (3) era discesa,
 
-⁴ Talis illius buracti erat descensus.\
+4 Talis illius buracti erat descensus.\
 &emsp;Et in principio rupte lacche\
 &emsp;Infamia Crete erat distensa,
 
-(¹) fiume. — (²) Minotauro. — (³) isola.
+(1) fiume. — (2) Minotauro. — (3) isola.
 
 Era lo loco. Erat locus in quo, etc.: istud est dodicesimum capitulum Inferni, in quo auctor tractat de primo circulo huius civitatis, in quo punitur prima species violentie, que commictitur circa proximos et eorum res et bona, in persona et ere; quod dividitur in quatuor partes. In quarum prima ponitur introytus huius circuli et custos, qui ibi stat ad custodiendum passum illum.
 
@@ -66,15 +66,15 @@ Hic sunt notanda multa. Primo, de ruina inter Veronam et Tridentum. In partibus 
 
 <!-- p. 155 (0209) -->
 
-⁵ Che fu concepta ne la falsa vaccha:\
+5 Che fu concepta ne la falsa vaccha:\
 &emsp;E quando vide noi, sè stesso morse,\
-&emsp;Come colui cui ira (¹) dentro fiaccha.
+&emsp;Come colui cui ira (1) dentro fiaccha.
 
-⁵ Que fuit concepta in falsa vaccha:\
+5 Que fuit concepta in falsa vaccha:\
 &emsp;Et quando vidit nos, seipsam momordit,\
 &emsp;Sic[ut] ille quem ira intus frangit.
 
-(¹) al. quel cui l'ira.
+(1) al. quel cui l'ira.
 
 una ruina talis. [Est] unus fluvius magnus, qui vocatur Adex. Huius Adecis [aqua] fluit de montibus, qui dividunt Alamaniam ab Ytalia: fluit per Tridentum et vadit Veronam; demum prope Venetias fluit in mari Adriatico. Modo inter Tridentum et Veronam ille fluvius habet ripas altas valde, quia fluit inter montes altos: in una parte aliquando erant rupes alte, perpendiculariter directe, ita quod super illas nemo potuisset ascendere. Quadam vice, propter terremotum, aut propter corrosionem aque fluentis, ita defecit fundamentum illi rupi, quod ipsa rupis ruinavit sic et taliter, quod diu impedivit intrare aquam fluvii et illam ruinam. Iam homo posset ascendere ripam illam, et ire a pedibus usque ad summitatem montis, quod non esset multum bona via; sed cum difficultate tamen quis ascenderet. Volens igitur auctor hic facere unam comparationem ad describendum locum, per quem debebat descendere in circulum violentorum, dicit sic: Qualis est illa ruina, que in flancho, idest in latere rupis, sive in costa, sive in clivo, citra Tridentum, Adicem, idest fluvium Adicis, percussit, vel propter terremotum, vel propter substentamentum ruinatum, idest propter defectum substentaculi, idest fundamenti; que, scilicet ruina, a summitate montis, idest rupis, unde movit se, idest unde incipit ruinare usque ad planum, idest usque ad lectum fluvii; [è] cosi, [est] sic roccia, idest ripa discoscesa, idest ruinata [quod] aliquam viam daret, idest preberet, a chi su fosse, idest ambulantibus per eam; talis illius buracti erat descensus, sive clivitas buracti, idest circuli, qui erat burus obscurus. Adaptat similitudinem ad propositum.
 
@@ -84,39 +84,39 @@ Hic notanda est una hystoria talis, que partim fuit vera, partim est fictio. In 
 
 <!-- p. 156 (0210) -->
 
-⁶ Lo mio maestro inver lei gridò: Forse\
-&emsp;Tu credi che qui sia 'l duca (¹) d'Athene,\
+6 Lo mio maestro inver lei gridò: Forse\
+&emsp;Tu credi che qui sia 'l duca (1) d'Athene,\
 &emsp;Che su nel mondo la morte ti porse?
 
-⁶ Sapiens meus versus ipsum clamavit: Forte\
+6 Sapiens meus versus ipsum clamavit: Forte\
 &emsp;Tu credis quod hic sit dux Athenarum,\
 &emsp;Qui superius in mundo mortem tibi porrexit?
 
-⁷ Parteti, bestia, che questi non viene\
-&emsp;Ammaestrato (²) da la tua sorella (³),\
+7 Parteti, bestia, che questi non viene\
+&emsp;Ammaestrato (2) da la tua sorella (3),\
 &emsp;Ma vassi per veder le vostre pene.
 
-⁷ Recedas, bestia, quia iste non venit\
+7 Recedas, bestia, quia iste non venit\
 &emsp;Doctus a tua sorore,\
 &emsp;Sed vadit ut videat vestras penas.
 
-⁸ Qual è quel thoro che si lancia in quella (⁴)\
+8 Qual è quel thoro che si lancia in quella (4)\
 &emsp;C'ha ricevuto già 'l colpo mortale,\
 &emsp;Che gir non sa, e qua e là saltella;
 
-⁸ Qualis ille taurus qui se slaqueat in illo\
+8 Qualis ille taurus qui se slaqueat in illo\
 &emsp;Quo recepit iam ictum mortalem,\
 &emsp;Qui ire nescit, sed huc et illuc saltellat;
 
-⁹ Vidd'io lo Minotauro far cotale:\
-&emsp;E quello (⁵) accorto gridò: Corri al varco;\
+9 Vidd'io lo Minotauro far cotale:\
+&emsp;E quello (5) accorto gridò: Corri al varco;\
 &emsp;Mentre ch'è 'n furia, è buon che ti cale.
 
-⁹ Vidi ego Minotaurum se facere talem:\
+9 Vidi ego Minotaurum se facere talem:\
 &emsp;Et ille cautus clamavit: Curre ad transitum:\
 &emsp;Interim quod est in furia, est bonum quod tu te cales.
 
-(¹) Theseo. — (²) contra te. — (³) Adriana. — (⁴) hora. — (⁵) al. quelli; Virgilio.
+(1) Theseo. — (2) contra te. — (3) Adriana. — (4) hora. — (5) al. quelli; Virgilio.
 
 et fecit preparari unam magnam clavam, idest mazzam, sive maleum; demum dedit isti Theseo hec, et unum globum de filo, dicens: Hoc filum alligabis carceri in principio introytus, et sic, pergendo per laberintum, portans tecum istam clavam, et hos bollos grossos de pice et pilis, et filum semper tene: cum fueris ante Minotaurum, ipse aperiet os ad devorandum te: tunc tu proiicias unum bolum de istis; ipse devorabit: cum iterum aperuerit os, et tu proiicias alium; et sic tertio: quo facto, ipse laborabit ad deglutiendum hos tres bolos: tunc assumpta clava, percutias eum in capite, et interfice eum. Demum, sequens filum, retrocedens per viam, quam demonstrabit tibi filum, observa michi promissa. Sicque factum est; et omnia ad nutum successerunt. Tunc occulte Theseus, cum amasia sua Adriana, filia regis Mynois, et sua sorore Phedra, et cum sotiis suis, clam ascendit navem; et, propter festinantiam, non fuerunt memores naute mutare vela nigra in alba, et navigantes pervenerunt per mare prope Athenas, sic iam orto sole, stante Egeo, patre Thesei, et speculante reditum navis; qui videns vela nigra, putans filium suum, Theseum ducem, fore devoratum et mortuum a Minotauro, proiecit se in mari et submersus est ibi; unde postmodum fuit vocatum illud mare Egeum, et sic adhuc vocatur. Ista hystoria partim vera est, scilicet de morte Androgei, filii Mynois; sed de Minotauro credo quod sit fictio. Aliqui tamen dicunt contrarium, asserentes de Minotauro esse veram hystoriam, quod non credo: hoc bene assero, quod Mynos habuit unum filium ferocem, lascivum, dissolutum, sicut est taurus; qui fuit adeo crudelis, quod interficiebat homines ad solatium. De laberinto non est verum; sed sic est, quod in insula Crete unus est collis, sive mons, in quo cavatur aurum et foditur argentum; et a fodientibus aurum et argentum facta sunt multa diverticula, in quibus aliquando perduntur homines; et illa diverticula multa et multa vocantur laberintus. Et ego iam fui in laberinto cum multis sotiis; sed intravi cum duobus cereis accensis, et cum fune, quo intravi et exivi cum sotiis meis. Utrum autem sit possibile, quod ex uno tauro et una femina speciei humane nascatur tale monstrum, intelligentibus relinquo.
 
@@ -130,51 +130,51 @@ Nota quod, quando tyrampnus est [in] furia, bonum est
 
 <!-- p. 157 (0211) -->
 
-¹⁰ Così prendemmo via giù per lo scarcho\
+10 Così prendemmo via giù per lo scarcho\
 &emsp;Di quelle pietre, che spesso moviensi\
 &emsp;Sotto miei piedi per lo nuovo carcho.
 
-¹⁰ Sic cepimus viam super abrupta\
+10 Sic cepimus viam super abrupta\
 &emsp;Illorum lapidum, qui sepe se movebant\
 &emsp;Subtus meos pedes propter novum pondus.
 
-¹¹ Io già pensava; e quei disse: Tu pensi\
+11 Io già pensava; e quei disse: Tu pensi\
 &emsp;Fors'a quella ruina, ch'è guardata\
 &emsp;Da quell'ira bestial che hora spensi.
 
-¹¹ Ego i[b]am cogitando; et ille dixit: Tu cogitas\
+11 Ego i[b]am cogitando; et ille dixit: Tu cogitas\
 &emsp;Forsan in illa ruina, que est custodita\
 &emsp;Ab illa ira bestiali quam ego nunc estinxi.
 
-¹² Or vo che sappi, che l'altra fiata\
+12 Or vo che sappi, che l'altra fiata\
 &emsp;Ch'io discesi quaggiù nel basso Inferno,\
 &emsp;Questa roccia non era ancor cascata.
 
-¹² Or volo quod scias, quod alia vice\
+12 Or volo quod scias, quod alia vice\
 &emsp;Quod ego descendi huc in ymum Infernum,\
 &emsp;Ista roccia non erat adhuc ruinata.
 
-¹³ Ma certo poco pria, se ben discerno,\
+13 Ma certo poco pria, se ben discerno,\
 &emsp;Che venisse colui, che la gran preda\
 &emsp;Levò a Dite del cerchio superno,
 
-¹³ Sed certe paulo prius, si bene discerno,\
+13 Sed certe paulo prius, si bene discerno,\
 &emsp;Quam veniret ille, qui magnam predam\
 &emsp;Abstulit Diti de circulo superno,
 
-¹⁴ Da tutte parti l'alta valle feda\
+14 Da tutte parti l'alta valle feda\
 &emsp;Tremò sì, ch'io pensai che l'universo\
 &emsp;Sentisse amore, per lo qual ch'io creda
 
-¹⁴ Ex utraque parte alta vallis feda\
+14 Ex utraque parte alta vallis feda\
 &emsp;Tremuit ita, quod ego cogitavi quod universum\
 &emsp;Sentiret amorem, propter quem ego credam
 
-¹⁵ Più volte el mondo in chaos converso:\
+15 Più volte el mondo in chaos converso:\
 &emsp;Et in quel punto questa vecchia roccia\
 &emsp;Qui et altrove tal fece riverso.
 
-¹⁵ Pluries mundum in chaos conversum:\
+15 Pluries mundum in chaos conversum:\
 &emsp;Et in illo puncto ista antiqua roccia\
 &emsp;Hic et alibi talem fecit subversionem.
 
@@ -190,39 +190,39 @@ In chaos conversum: tangit opinionem Empedoclis et Anaxagore. Hi duo philosophi 
 
 <!-- p. 158 (0212) -->
 
-¹⁶ Ma ficca gl'ochi; chè a valle s'aproccia\
+16 Ma ficca gl'ochi; chè a valle s'aproccia\
 &emsp;La riviera dal sangue, in lo qual bolle\
 &emsp;Quel che per violenza in altrui noccia.
 
-¹⁶ Sed fige oculos ad infra, quia appropinquat\
+16 Sed fige oculos ad infra, quia appropinquat\
 &emsp;Riparia sanguinis, in qua bullit\
 &emsp;Quicumque per molestiam in alios noceat.
 
-¹⁷ O cieca cupidigia, ria e folle,\
+17 O cieca cupidigia, ria e folle,\
 &emsp;Che sì ci sproni nella vita corta,\
 &emsp;E nell'etterna poi sì mal c'immolle!
 
-¹⁷ O ceca cupiditas, o ira fatua,\
+17 O ceca cupiditas, o ira fatua,\
 &emsp;Que sic nos impellis in vitam tortuosam,\
 &emsp;Et in eterna postea ita male nos balneas!
 
-¹⁸ Io vidi un'ampia fossa in arco torta,\
-&emsp;Come colei (¹) che tutto 'l piano abbraccia,\
+18 Io vidi un'ampia fossa in arco torta,\
+&emsp;Come colei (1) che tutto 'l piano abbraccia,\
 &emsp;Secondo ch'avea detto la mia scorta:
 
-¹⁸ Ego vidi unam amplam foveam in arcum retortam,\
+18 Ego vidi unam amplam foveam in arcum retortam,\
 &emsp;Sicut illa que totum planum amplectitur,\
 &emsp;Secundum quod dixerat michi mea scorta:
 
-¹⁹ E tra 'l piè de la ripa et essa, in traccia\
+19 E tra 'l piè de la ripa et essa, in traccia\
 &emsp;Correan Centauri armati di saette,\
 &emsp;Come solean nel mondo andar a caccia.
 
-¹⁹ Et inter pedem ripe et ipsam, in tracciam\
+19 Et inter pedem ripe et ipsam, in tracciam\
 &emsp;Currebant Centauri armati sagiptis,\
 &emsp;[Sicut solebant in mundo ire ad venatum.
 
-(¹) al. quella.
+(1) al. quella.
 
 tota simul illa cera tunc dicitur stare in pace et in amore. Sed, si de illa cera fierent alique res variarum figurarum, ut de una parte fieret una candela, de alia fieret una impressio unius sigilli, fieret una ymago hominis, vel equi, vel etc.; tunc illa cera diceretur habere litem, quia ille partes essent ab invicem separate. Ita ymaginabantur Empedocles et Anaxagoras, quod omnia entia mundi aliquando revertebantur in invicem, ac si multe cere partes redirent in unam, et tunc esset chaos, et essent in amicitia. De tali chaos loquitur Ovidius in primo Metamorphoseos, ubi sic: Ante mare, ante terram et quod tegit omnia celum, unus erat toto nature vultus in orbe, quem dixere chaos; idest antiqui.
 
@@ -240,51 +240,51 @@ Molli: vulgare lombardicum: stare in aqua dicitur: Tu te molla, idest diu in aqu
 
 <!-- p. 159 (0213) -->
 
-²⁰ Vedendoci calar ciaschun ristette,\
+20 Vedendoci calar ciaschun ristette,\
 &emsp;E della schiera tre si dipartiro\
 &emsp;Con archi et hasticiuole prima elette.
 
-²⁰ Videndo nos descendere quisque substitit,\
+20 Videndo nos descendere quisque substitit,\
 &emsp;Et ex acie tres discesserunt]\
 &emsp;Cum archubus et asticiolis prius electis.
 
-²¹ E l'un gridò da lungi: A qual martiro\
+21 E l'un gridò da lungi: A qual martiro\
 &emsp;Venite voi, che scendete la costa?\
 &emsp;Ditel costinci; se non, l'arco tiro.
 
-²¹ Et unus clamavit a longe: Ad quod martyrium\
+21 Et unus clamavit a longe: Ad quod martyrium\
 &emsp;Venitis vos, qui descenditis costam?\
 &emsp;Dicite inde; sin autem, archum traho.
 
-²² Lo mio maestro disse: La risposta\
+22 Lo mio maestro disse: La risposta\
 &emsp;Farem noi a Chyron costà da presso:\
 &emsp;Mal fu la vogla tua sempre sì tosta.
 
-²² Meus magister dixit: Responsum\
+22 Meus magister dixit: Responsum\
 &emsp;Faciemus nos Chyroni istic prope:\
 &emsp;Male fuit voluntas tua semper ita cita.
 
-²³ Poi mi tentò, e disse: Quelli è Nesso,\
+23 Poi mi tentò, e disse: Quelli è Nesso,\
 &emsp;Che morì per la bella Deyanira,\
 &emsp;E fe' di sè la vendetta elli stesso:
 
-²³ Postea me temptavit, et dixit: Ille est Nexus,\
+23 Postea me temptavit, et dixit: Ille est Nexus,\
 &emsp;Qui mortuus fuit propter pulchram Deyaniram,\
 &emsp;Et fecit de se vindictam ipsemet:
 
-²⁴ E quel di mezzo, che 'l pecto si mira,\
+24 E quel di mezzo, che 'l pecto si mira,\
 &emsp;È'l gran Chyron, el qual nutrì Achille:\
 &emsp;Quell'altro è Folo, che fu sì pien d'ira.
 
-²⁴ Et ille medius, qui ad pectus sibi respicit,\
+24 Et ille medius, qui ad pectus sibi respicit,\
 &emsp;Est magnus Chyron, qui nutrivit Achillem:\
 &emsp;Alter est Follus, qui fuit ita plenus ira.
 
-²⁵ Dintorn'al fosso vanno a mille a mille,\
+25 Dintorn'al fosso vanno a mille a mille,\
 &emsp;Saettando qual'anima si svelle\
 &emsp;Del sangue, più che sua colpa sortille.
 
-²⁵ Circum foveam vadunt ad mille ad mille,\
+25 Circum foveam vadunt ad mille ad mille,\
 &emsp;Sagiptando quamcumque que se evellit\
 &emsp;De sanguine, plusquam sua culpa eam sortita fuerat.
 
@@ -302,19 +302,19 @@ Notandum, quod hic fit mentio de tribus Centauris signanter, scilicet de Nexo, C
 
 <!-- p. 160 (0214) -->
 
-²⁶ Noi ci appressammo a quelle fiere snelle:\
+26 Noi ci appressammo a quelle fiere snelle:\
 &emsp;Chyron prese uno strale, e con la cocha\
 &emsp;Fece la barba indietro a le mascelle.
 
-²⁶ Nos appropinquavimus illis feris levibus:\
+26 Nos appropinquavimus illis feris levibus:\
 &emsp;Chyron cepit unam sagiptam, et cum coccha\
 &emsp;Sibi fecit barbam retro maxillas.
 
-²⁷ Quando s'ebbe scoperta la gran bocha,\
+27 Quando s'ebbe scoperta la gran bocha,\
 &emsp;Disse a'compagni: Sete voi accorti,\
 &emsp;Che quel dirieto muove ciò ch'el tocha?
 
-²⁷ Quando sibi discooperuit magnum os,\
+27 Quando sibi discooperuit magnum os,\
 &emsp;Dixit sociis: Perpendidisti ne vos,\
 &emsp;Quod ille retro movet quidquid tangit?
 
@@ -328,71 +328,71 @@ Quando discooperuit magnum os, dixit sotiis: Perpendistis vos, sete voi accorti,
 
 <!-- p. 161 (0215) -->
 
-²⁸ Così non soglon fare e piè de' morti.\
+28 Così non soglon fare e piè de' morti.\
 &emsp;E'l mio buon duca, che già gl'er'al pecto\
 &emsp;Dove le due nature son consorti,
 
-²⁸ Sic non solent facere pedes mortuorum.\
+28 Sic non solent facere pedes mortuorum.\
 &emsp;Et meus bonus dux, qui iam erat sibi ad pectus\
 &emsp;Ubi due nature sunt consortes,
 
-²⁹ Rispose: Ben è vivo, e sì soletto,\
+29 Rispose: Ben è vivo, e sì soletto,\
 &emsp;Mostrarli mi convien la valle buia:\
 &emsp;Necessità lo'nduce, e non dilecto.
 
-²⁹ Respondit: Bene est vivus, et sic solus,\
+29 Respondit: Bene est vivus, et sic solus,\
 &emsp;Ostendere michi convenit ei vallem obscuram:\
 &emsp;Necessitas eum conducit, et non delectatio.
 
-³⁰ Tal si partì da cantar Alleluia,\
+30 Tal si partì da cantar Alleluia,\
 &emsp;Che mi commisse questo offitio novo;\
-&emsp;Non è ladron (¹), nè io (²) anima fuia.
+&emsp;Non è ladron (1), nè io (2) anima fuia.
 
-³⁰ Talis recessit a cantando Alleluia,\
+30 Talis recessit a cantando Alleluia,\
 &emsp;Que michi commisit istud officium novum;\
 &emsp;Non est latro, neque ego anima furiosa.
 
-³¹ Ma per quella virtù, per cu'io movo\
+31 Ma per quella virtù, per cu'io movo\
 &emsp;Li passi miei per sì selvaggia strada,\
 &emsp;Danne un de' tuoi, a cui noi siam a provo,
 
-³¹ Sed per illam virtutem, per quam ego moveo\
+31 Sed per illam virtutem, per quam ego moveo\
 &emsp;Passus meos per tam silvestrem stratam,\
 &emsp;Da nobis unum de tuis, cui nos simus pares,
 
-³² Sicchè ne mostri là dove si guada,\
+32 Sicchè ne mostri là dove si guada,\
 &emsp;E che porti costui in sulla groppa;\
 &emsp;Che non è spirto che per l'aer vada.
 
-³² Et qui nobis ostendat ubi gradatur,\
+32 Et qui nobis ostendat ubi gradatur,\
 &emsp;Et qui portet istum super dorso;\
 &emsp;Quia non est spiritus qui per aierem vadat.
 
-³³ Chyron si volse in sulla dextra poppa,\
+33 Chyron si volse in sulla dextra poppa,\
 &emsp;E disse a Nesso: Torna, e sì gli guida,\
 &emsp;E fa' cansar, s'altra schiera s'intoppa.
 
-³³ Chyron se volvit ad dexteram mammillam,\
+33 Chyron se volvit ad dexteram mammillam,\
 &emsp;Et dixit Nexo: Redeas, et eos conducas,\
 &emsp;Et fac cessare, si alia acies vobis obviat.
 
-³⁴ Hor ne movemmo colla scorta fida\
+34 Hor ne movemmo colla scorta fida\
 &emsp;Lungo la proda del bollor vermiglo,\
 &emsp;Dove e bolliti facean alte strida.
 
-³⁴ Tunc movimus nos cum scorta fida\
+34 Tunc movimus nos cum scorta fida\
 &emsp;Prope proram bulloris rubei,\
 &emsp;Ubi bulliti faciebant grandes stridores.
 
-³⁵ Vi vidi gente sotto in fin al ciglo;\
+35 Vi vidi gente sotto in fin al ciglo;\
 &emsp;E'l gran Centauro disse: E' son tiranni,\
 &emsp;Che dier nel sangue e nell'haver di piglo.
 
-³⁵ Ego vidi gentes subtus usque ad supercilium;\
+35 Ego vidi gentes subtus usque ad supercilium;\
 &emsp;Et grandis Centaurus dixit: Ipsi sunt tyrampni,\
 &emsp;Qui in sanguine et in ere posuerunt manum.
 
-(¹) costui. — (²) son.
+(1) costui. — (2) son.
 
 Et meus bonus dux, qui iam erat ad pectus, ubi due nature sunt consortes (quia in pectore Centaurorum, qui sunt equi usque ad pectus, et supra pectus sunt semihomines, dicte nature, scilicet humana et equina, sunt consortes, idest coniuncte), respondidit, scilicet magister, illi, scilicet Chyronti: Bene est vivus, et sic solus, ostendere sibi vallem buiam, idest obscuram, me oportet: necessitas conducit eum, et non delectatio. Quasi dicat Virgilius: Iste vivus est; sed non est homo violentus, qui effuderit cruorem humanum; sed venit propter addiscere, ad vestras expensas, modum vivendi, et docere alios, ut sit bona cautela ad non peccandum.
 
@@ -408,31 +408,31 @@ Ora ce movemo. Iam movimus nos: ista est quarta pars huius capituli, in qua nomi
 
 <!-- p. 162 (0216) -->
 
-³⁶ Quivi (¹) si piangon gli spietati damni:\
+36 Quivi (1) si piangon gli spietati damni:\
 &emsp;Qui è Alexandro, e Dyonisio fero,\
 &emsp;Che fer Sicilia haver dolorosi anni:
 
-³⁶ Hic planguntur impia dampna:\
+36 Hic planguntur impia dampna:\
 &emsp;Ibi est Alexander, et Dyonisius ferox,\
 &emsp;Qui fecerunt Siciliam habere dolorosos annos:
 
-³⁷ E quella fronte col capel sì nero\
+37 E quella fronte col capel sì nero\
 &emsp;È Azzolin; e quell'altro ch'è biondo,\
 &emsp;È Obizzo da Esti, el qual pel vero
 
-³⁷ Et illa frons que habet pilum ita nigrum\
+37 Et illa frons que habet pilum ita nigrum\
 &emsp;Est Ezzolinus; et ille alter qui est flavus,\
 &emsp;Est Opizzus Estensis, qui in veritate
 
-³⁸ Fu spento (²) dal figlastro su nel mondo.\
+38 Fu spento (2) dal figlastro su nel mondo.\
 &emsp;Allor mi volsi al Poeta; e quei disse:\
-&emsp;Questi (³) ti fia hor primo, et io secondo.
+&emsp;Questi (3) ti fia hor primo, et io secondo.
 
-³⁸ Fuit extinctus a previgno supra in mundo.\
+38 Fuit extinctus a previgno supra in mundo.\
 &emsp;Tunc me volvi ad poetam; et ipse michi dixit:\
 &emsp;Iste sit nunc tibi primus, et ego secundus.
 
-(¹) al. quici. — (²) morto. — (³) Nesso.
+(1) al. quici. — (2) morto. — (3) Nesso.
 
 Ego vidi sub, usque ad cilia, gentem, idest sub sanguine bullientem. Et magnus Centaurus, idest [Chyron], dixit: Illi sunt tyrampni, qui dederunt in sanguine et in arere, idest in bonis aliorum, de piglio; idest posuerunt manum in sanguinem et in bonis aliorum. Ecce quod tyrampni, qui magis fuerunt violenti, plus merguntur in sanguine, scilicet usque ad cilia, idest usque ad supra oculos.
 
@@ -444,19 +444,19 @@ Notandum, quod iste Ezzolinus fuit de uno castro comitatus Trevisii, quod vocatu
 
 <!-- p. 163 (0217) -->
 
-³⁹ Poco più oltre el Centauro s'affisse\
+39 Poco più oltre el Centauro s'affisse\
 &emsp;Sovr'una gente che 'n fin a la gola\
 &emsp;Pareva che del bulicame uscisse.
 
-³⁹ Paulo plus ante Centaurus se firmavit\
+39 Paulo plus ante Centaurus se firmavit\
 &emsp;Super unam gentem que usque ad gulam\
 &emsp;Apparebat quod de illo bullicame exiret.
 
-⁴⁰ Mostrocci un'ombra dall'un canto sola,\
+40 Mostrocci un'ombra dall'un canto sola,\
 &emsp;Dicendo: Colui fesse in grembo a Dio\
 &emsp;Lo cor che 'n su Tamisci ancor si cola.
 
-⁴⁰ Ostendit nobis umbram ab uno angulo solam,\
+40 Ostendit nobis umbram ab uno angulo solam,\
 &emsp;Dicendo: Ille scidit in gremio Dei\
 &emsp;Cor, quod super Tamisiam adhuc colitur.
 
@@ -468,47 +468,47 @@ Ostendit nobis unam umbram ex una parte solam, dicens: Illa fixit in gremio Dei 
 
 <!-- p. 164 (0218) -->
 
-⁴¹ Poi vidi gente, che di fuor dal rio\
+41 Poi vidi gente, che di fuor dal rio\
 &emsp;Tenea la testa et ancor tutto 'l casso:\
 &emsp;E di costoro assai riconobbi io.
 
-⁴¹ Postea vidi gentes, que extra rivum\
+41 Postea vidi gentes, que extra rivum\
 &emsp;Tenebant caput et etiam totum corpus:\
 &emsp;Et ex istis multos recognovi ego.
 
-⁴² Così a più a più (¹) si facea basso\
+42 Così a più a più (1) si facea basso\
 &emsp;Quel sangue sì, che cocea pur li piedi:\
 &emsp;E quindi fu del fosso el nostro passo.
 
-⁴² Sic ad plus ad plus efficiebatur infimus\
+42 Sic ad plus ad plus efficiebatur infimus\
 &emsp;Ille sanguis, qui cooperiebat solum pedes:\
 &emsp;Et ibi fuit fovee noster transitus.
 
-⁴³ Sì come tu da questa parte vedi\
+43 Sì come tu da questa parte vedi\
 &emsp;Lo bulicame che sempre si scema,\
 &emsp;Disse 'l Centauro, voglo che tu credi,
 
-⁴³ Et sicut tu ab ista parte vides\
+43 Et sicut tu ab ista parte vides\
 &emsp;Bullicame quod semper declinat,\
 &emsp;Dixit Centaurus, volo quod tu credas,
 
-⁴⁴ Che da quest'altra (²) più e più giù prema\
+44 Che da quest'altra (2) più e più giù prema\
 &emsp;Lo fondo suo, finchè si raggiugne\
 &emsp;Dove la tyrannia convien che gema.
 
-⁴⁴ Quod ab ista alia magis et magis inferius premat\
+44 Quod ab ista alia magis et magis inferius premat\
 &emsp;Fundum suum, quousque coniungatur\
 &emsp;Ubi tyrampnis convenit quod gemat.
 
-⁴⁵ La divina iustitia di qua pugne\
+45 La divina iustitia di qua pugne\
 &emsp;Quell'Athila che fu flagello in terra,\
 &emsp;E Pyrrho, e Sexto; in eterno mugne
 
-⁴⁵ Divina iustitia hinc pungit\
+45 Divina iustitia hinc pungit\
 &emsp;Illum Totilam qui fuit flagellum in terra;\
 &emsp;Et Pyrrum, et Sextum; in eternum mungit
 
-(¹) al. e più e più. — (²) parte.
+(1) al. e più e più. — (2) parte.
 
 Super cuius sepulchrum est una statua, que in manu sinistra tenet unam chartam, in qua scriptum est: Hoc cor, gladio scissum, do cui consanguineus suum, subaudi regi Riccardo, cuius erat affinis, ut vindictam faceret de tali morte. In manu dextera illa statua tenet piscidem illam auream. De morte istius Henrici nullam mentionem fecit rex Karolus, qui debuisset punire illum dominum Guidonem homicidam, tum propter homicidium, tum propter tempus et horam, in quibus fuit commissum tale homicidium. Et licet multe cause sint, propter quas diu fuit guerra inter nobilissimos reges Anglie et Frantie, tamen hoc homicidium non punitum fuit magna cum causa. Adhuc notandum quod, iuxta istam cappellam, in qua stat sepultura prescripta dicti Henrici, fluit fluvius unus pulcher et magnus, qui vocatur Tamisia; et communiter poete libenter denotant res a montibus, fontibus et fluviis. Et hic auctor, volens describere penas violentorum, declarat que sit illa anima, que sola stabat, dicens: Illa anima est illius, scilicet domini Guidonis, qui fixit, idest sciscit cor, quod supra Tamisiam colitur, idest videtur. Sic modo prescripto, Manfredus, de quo tactum est superius, filius Frederici secundi, fuit rex Sicilie tali modo, vel quia pater suus Imperator dedit sibi illud regnum; vel [quia], sic mortuo isto Frederico secundo, filius suus Conradus, quem suus pater instituerat dominum in Alamania, venit in Ytaliam, volens acquirere regnum paternum, quod et fecit. Veniens in Ytaliam, confirmavit regnum suum, nullis resistentibus sibi, nisi Neapolitanis, quos mirabiliter et crudeliter castigavit. Iste Manfredus, adstrictus, veneno extinxit germanum suum Conradum, et recepit per se regnum, quod tenuit usque quo fuit debellatus et interfectus per Karolum primum, factum de novo regem Sicilie a papa Clemente quarto. Iste Karolus dictus est primus propter eius filium, qui vocatus fuit Karolus secundus; qui Karolus secundus fuit pater Karoli Martello, Sancti Ludovici de Ordine Minorum, regis Roberti et domini Philippi, principis Taranti. Tempore istius Karoli, insula Sicilie fuit perdita, quam acquisiverunt reges Aragonie et adhuc tenent propter malos officiales gallicos, avaros et nimium aggravantes populum; quos predictus Karolus secundus miserat illuc ad regendum insulam Sicilie. Populi nimis aggravati in civitate Palermi, sive Panormi, insurrexerunt clamantes et dicentes: Moriantur, moriantur gallici! Tunc, in ista rebellione, fuit captus ille dominus Guido, comes de Mo[nfo]rt, qui interfecerat Henricum prescriptum; et positus in carceribus civitatis Palermi, mortuus fuit ibi valde miser, in captivitate.
 
@@ -522,17 +522,17 @@ Divina iustitia istac pungit: idest punit illum Attilam, qui fuit flagellum Dei 
 
 <!-- p. 165 (0219) -->
 
-⁴⁶ Le lagrime, che col bollor diserra\
+46 Le lagrime, che col bollor diserra\
 &emsp;A Rinier da Corneto, a Rinier Pazzo,\
 &emsp;Che fecero alle strade tanta guerra.\
-&emsp;Poi si rivolse (¹), e ripassossi (²) el guazzo (³).
+&emsp;Poi si rivolse (1), e ripassossi (2) el guazzo (3).
 
-⁴⁶ Lacrymas, quas cum bullore emictit\
+46 Lacrymas, quas cum bullore emictit\
 &emsp;Ad Ranerium de Corneto, ad Ranerium de Pazzis,\
 &emsp;Qui fecerunt stratis tantam guerram.\
 &emsp;Postea se convertit, et transivit aquazzonem.
 
-(¹) Nesso. — (²) tornando indietro. — (³) del sangue.
+(1) Nesso. — (2) tornando indietro. — (3) del sangue.
 
 Ibi sunt lacryme, quas bullor, idest bullitio, diserrat; idest cum impetu emictuntur; a Ranerio de Corneto et a Ranerio Pazzo, idest, procedunt, qui fecerunt stratis, idest viis, tantam guerram; idest, in viis derrobabant et interficiebant transeuntes.
 

@@ -10,31 +10,31 @@ Explicit Infernus, etc.
 
 # Capitulum Tricesimumquartum
 
-¹ Vexilla Regis prodeunt Inferni\
+1 Vexilla Regis prodeunt Inferni\
 &emsp;Verso di noi: però dinanzi mira,\
-&emsp;Disse 'l maestro mio (¹), se tu 'l discerni.
+&emsp;Disse 'l maestro mio (1), se tu 'l discerni.
 
-¹ Vexilla Regis prodeunt Inferni\
+1 Vexilla Regis prodeunt Inferni\
 &emsp;Versus nos: ergo ante te respice,\
 &emsp;Dixit magister meus, si tu discernis.
 
-² Come quand' una grossa nebbia spira,\
+2 Come quand' una grossa nebbia spira,\
 &emsp;O quando l'emisferio nostro annocta,\
-&emsp;Par di lungi (²) un mulin ch'al vento gira (³):
+&emsp;Par di lungi (2) un mulin ch'al vento gira (3):
 
-² Sicut quando una nebula grossa spirat,\
+2 Sicut quando una nebula grossa spirat,\
 &emsp;Vel quando emispirium nostrum anoctat,\
 &emsp;Apparet a longe unum molendinum quod ventus girat:
 
-³ Veder mi parve un tal dificio allocta:\
+3 Veder mi parve un tal dificio allocta:\
 &emsp;Or per lo vento mi ristrinsi retro\
-&emsp;Al duca mio, chè (⁴) non gl'era altra grocta.
+&emsp;Al duca mio, chè (4) non gl'era altra grocta.
 
-³ Videre michi apparuit unum tale dificium tunc:\
+3 Videre michi apparuit unum tale dificium tunc:\
 &emsp;Postea propter ventum retraxi me retro\
 &emsp;Ducem meum, quia ibi non erat alia grupta.
 
-(¹) Virgilio. — (²) da la lunga a vedere. — (³) si rivolge. — (⁴) perchè.
+(1) Virgilio. — (2) da la lunga a vedere. — (3) si rivolge. — (4) perchè.
 
 Vexilla regis prodeunt Inferni: istud est tricesimumquartum et ultimum capitulum huius Inferni, in quo auctor tractat de quarta specie proditionis, scilicet illorum qui prodiderunt dominos suos, quibus promiserunt fidem, et a quibus receperunt beneficia magna; quod quidem capitulum dividitur in quatuor partes. In quarum prima auctor describit formam regis Inferni, scilicet Luciferi. In secunda, que incipit ibi:
 
@@ -60,63 +60,63 @@ Fit una comparatio. Sicut quando una nebula grossa spirat, aut caliginosa, idest
 
 <!-- p. 413 (0467) -->
 
-⁴ Già era (e con paura el mecto in metro) (¹)\
-&emsp;Là dove l'ombre tuct'eran coperte (²),\
-&emsp;E trasparean (³) come festuca in vetro.
+4 Già era (e con paura el mecto in metro) (1)\
+&emsp;Là dove l'ombre tuct'eran coperte (2),\
+&emsp;E trasparean (3) come festuca in vetro.
 
-⁴ Iam eram (et cum timore id pono in metro)\
+4 Iam eram (et cum timore id pono in metro)\
 &emsp;Ubi umbre erant omnes cooperte,\
 &emsp;Et transparebant sicut festuca in vitro.
 
-⁵ Altre (⁴) stanno a giacer (⁵), altre stanno erte (⁶),\
-&emsp;Quella col capo (⁷), e quella (⁸) colle piante (⁹);\
-&emsp;Altra, com'arco (¹⁰), al collo (¹¹) e piè rinverte (¹²).
+5 Altre (4) stanno a giacer (5), altre stanno erte (6),\
+&emsp;Quella col capo (7), e quella (8) colle piante (9);\
+&emsp;Altra, com'arco (10), al collo (11) e piè rinverte (12).
 
-⁵ Alique sunt iacentes, alique stant recte,\
+5 Alique sunt iacentes, alique stant recte,\
 &emsp;Aliqua cum capite, et aliqua cum plantis;\
 &emsp;Alia, sicut arcus, ad vultum pedes convertit.
 
-⁶ Quando noi fummo facti tanto avante,\
-&emsp;Ch'al mio maestro (¹³) piacque di mostrarmi\
-&emsp;La creatura (¹⁴) ch'ebbe (¹⁵) el bel sembiante (¹⁶),
+6 Quando noi fummo facti tanto avante,\
+&emsp;Ch'al mio maestro (13) piacque di mostrarmi\
+&emsp;La creatura (14) ch'ebbe (15) el bel sembiante (16),
 
-⁶ Quando nos fuimus tantum ante,\
+6 Quando nos fuimus tantum ante,\
 &emsp;Quod meo magistro placuit michi monstrare\
 &emsp;Creaturam que habuit pulchram apparentiam,
 
-⁷ Dinanzi mi si tolse, e fe'restarmi:\
+7 Dinanzi mi si tolse, e fe'restarmi:\
 &emsp;Ecco Dite, dicendo, et ecco el loco,\
 &emsp;Dove convien che di fortezza t'armi.
 
-⁷ Ante me se removit, et fecit me stare:\
+7 Ante me se removit, et fecit me stare:\
 &emsp;Ecce Ditem, dicendo, ecce locum,\
 &emsp;Ubi oportet quod tu te de fortitudine armes.
 
-⁸ Com'io divenni allor gelato e fioco,\
-&emsp;Nol dimandar (¹⁷), lector, ch'io non lo scrivo,\
-&emsp;Però ch'ogni parlar (¹⁸) sarebbe poco.
+8 Com'io divenni allor gelato e fioco,\
+&emsp;Nol dimandar (17), lector, ch'io non lo scrivo,\
+&emsp;Però ch'ogni parlar (18) sarebbe poco.
 
-⁸ Sicut ego deveni tunc gelatus et raucus,\
+8 Sicut ego deveni tunc gelatus et raucus,\
 &emsp;Non interroges, o lector, quia illud non scribo,\
 &emsp;Ex eo quia omnis loquela esset pauca.
 
-⁹ Io non morii e non rimasi vivo:\
+9 Io non morii e non rimasi vivo:\
 &emsp;Pens'oggi mai per te, s'hai fior d'ingegno,\
-&emsp;Qual io divenni, d'uno e d'altro privo (¹⁹).
+&emsp;Qual io divenni, d'uno e d'altro privo (19).
 
-⁹ Ego non fui mortuus, nec remansi vivus:\
+9 Ego non fui mortuus, nec remansi vivus:\
 &emsp;Cogita ammodo intra te, si habes florem ingenii,\
 &emsp;Qualis ego deveni, uno et alio privatus.
 
-¹⁰ Lo 'mperador del doloroso regno\
+10 Lo 'mperador del doloroso regno\
 &emsp;Da mezzo'l pecto uscia fuor de la ghiaccia;\
-&emsp;E più (²⁰) con un gigante io (²¹) mi convegno (²²),
+&emsp;E più (20) con un gigante io (21) mi convegno (22),
 
-¹⁰ Imperator dolorosi regni\
+10 Imperator dolorosi regni\
 &emsp;A medio pectore exibat extra glaciem;\
 &emsp;Et plus cum uno gigante ego me convenio,
 
-(¹) rima. — (²) ne la ghiaccia. — (³) in quella ghiaccia. — (⁴) ombre. — (⁵) ne la ghiaccia. — (⁶) levate. — (⁷) sta erta. — (⁸) altra. — (⁹) sta erta. — (¹⁰) piegata. — (¹¹) al. al viso. — (¹²) rivolta. — (¹³) Virgilio. — (¹⁴) Lucifero. — (¹⁵) già. — (¹⁶) similitudine di Dio. — (¹⁷) o. — (¹⁸) a descriverlo. — (¹⁹) de la morte e de la vita privato. — (²⁰) che lui. — (²¹) Dante. — (²²) m'assomiglio.
+(1) rima. — (2) ne la ghiaccia. — (3) in quella ghiaccia. — (4) ombre. — (5) ne la ghiaccia. — (6) levate. — (7) sta erta. — (8) altra. — (9) sta erta. — (10) piegata. — (11) al. al viso. — (12) rivolta. — (13) Virgilio. — (14) Lucifero. — (15) già. — (16) similitudine di Dio. — (17) o. — (18) a descriverlo. — (19) de la morte e de la vita privato. — (20) che lui. — (21) Dante. — (22) m'assomiglio.
 
 Iam eram, et cum pavore id pono in metro, scilicet que nunc dicam, ubi, idest in loco ubi, umbre omnes erant cooperte, et transparebant sicut festuca in vetro, sive in vitro. Cum paura, idest cum timore (parentesis est). Idest ille erant tecte sub glacie et diversimode: alique iacebant, et alique stabant recte; alique cum capite desuper, alique cum plantis, sive pedibus; alique stabant sicut una semiluna, scilicet cum pedibus flexis ad vultum. Alique sunt iacentes, alique stant recte; aliqua cum capite, aliqua cum plantis, alia, sicut arcus, ad vultum pedes convertit.
 
@@ -132,47 +132,47 @@ Imperator dolorosi regni (quia Infernus est regnum omnis doloris, ubi Lucifer es
 
 <!-- p. 414 (0468) -->
 
-¹¹ Ch'e giganti(¹) non fan colle sue braccia (²):\
-&emsp;Vedi oggimai quant'esser de'(³) quel tucto\
-&emsp;Ch'a così facta parte (⁴) si confaccia (⁵).
+11 Ch'e giganti(1) non fan colle sue braccia (2):\
+&emsp;Vedi oggimai quant'esser de'(3) quel tucto\
+&emsp;Ch'a così facta parte (4) si confaccia (5).
 
-¹¹ Quam gigantes non faciunt cum suis brachiis:\
+11 Quam gigantes non faciunt cum suis brachiis:\
 &emsp;Cogita ammodo quantum debet esse illud totum\
 &emsp;Quod huiusmodi parti conveniat.
 
-¹² S' ei fu sì bello (⁶) com'egli è hor bructo (⁷),\
-&emsp;E contr' al suo Factor (⁸) alzò le cigla (⁹),\
-&emsp;Ben de' (¹⁰) da lui proceder (¹¹) ogni lucto.
+12 S' ei fu sì bello (6) com'egli è hor bructo (7),\
+&emsp;E contr' al suo Factor (8) alzò le cigla (9),\
+&emsp;Ben de' (10) da lui proceder (11) ogni lucto.
 
-¹² Si ipse fuit ita pulcher sicut ipse est nunc turpis,\
+12 Si ipse fuit ita pulcher sicut ipse est nunc turpis,\
 &emsp;Et contra suum Factorem elevavit supercilia,\
 &emsp;Bene debet ab eo procedere omnis luctus.
 
-¹³ O quanto parve a me gran maravigla,\
+13 O quanto parve a me gran maravigla,\
 &emsp;Quando viddi tre facce alla sua testa!\
 &emsp;L'una dinanzi, e quell'era vermigla;
 
-¹³ O quantum apparuit michi grande mirum\
+13 O quantum apparuit michi grande mirum\
 &emsp;Quando ego vidi tres facies suo capiti!\
 &emsp;Unam ante, et illa erat rubea;
 
-¹⁴ Dell'altre due, che s'aggiugneano a questa\
+14 Dell'altre due, che s'aggiugneano a questa\
 &emsp;Sovr'esso 'l mezzo di ciascuna spalla,\
-&emsp;E(¹²) s'aggiugneano al sommo della cresta(¹³);
+&emsp;E(12) s'aggiugneano al sommo della cresta(13);
 
-¹⁴ Alie due, que iungebantur isti\
+14 Alie due, que iungebantur isti\
 &emsp;Supra medium cuiuslibet spatule,\
 &emsp;Et se iungebant loco criste;
 
-¹⁵ La dextra mi parca tra bianca e gialla;\
-&emsp;La sinistra a veder era tal (¹⁴), quali\
-&emsp;Vegnon (¹⁵) di là (¹⁶) onde'l Nilo s'avvalla (¹⁷).
+15 La dextra mi parca tra bianca e gialla;\
+&emsp;La sinistra a veder era tal (14), quali\
+&emsp;Vegnon (15) di là (16) onde'l Nilo s'avvalla (17).
 
-¹⁵ Et dextera apparebat inter albam et fulvam;\
+15 Et dextera apparebat inter albam et fulvam;\
 &emsp;Sinistra ad videndum erat, quales\
 &emsp;Veniunt ab illa parte ubi Nilus in vallem descendit.
 
-(¹) non si convengono. — (²) co' la grandezza de le sue braccia. — (³) debba. — (⁴) de le braccia sue. — (⁵) proporzionalmente. — (⁶) ne la sua creatione. — (⁷) nell' Inferno. — (⁸) creatore Dio. — (⁹) el capo per superbia. — (¹⁰) debba. — (¹¹) per dolore. — (¹²) che. — (¹³) del capo. — (¹⁴) nera. — (¹⁵) le teste. — (¹⁶) d'Etyopia. — (¹⁷) descende.
+(1) non si convengono. — (2) co' la grandezza de le sue braccia. — (3) debba. — (4) de le braccia sue. — (5) proporzionalmente. — (6) ne la sua creatione. — (7) nell' Inferno. — (8) creatore Dio. — (9) el capo per superbia. — (10) debba. — (11) per dolore. — (12) che. — (13) del capo. — (14) nera. — (15) le teste. — (16) d'Etyopia. — (17) descende.
 
 est peccati; et alibi: Vos ex patre dyabolo estis. Lucifer est auctor omnium proditorum, sicut ipse fuit primus proditor, et qui prodidit dominum suum) a medio pectore exibat extra glaciem, et plus cum uno gigante ego me convenio, idest in magnitudine, quod gigantes, vel quam gigantes, non faciunt cum suis brachiis: cogita ammodo quantum debet esse illud totum, idest residuum, quod huiusmodi, vel tali, parti conveniat. Sententia est: quod brachia Luciferi erant ita magna, quod ipse Dantes, qui erat parvus homo, melius conveniebat cum brachiis maximi gigantis, quam gigas comparatus uni brachio illius imperatoris, idest convenientior, idest conformior. Sed quid est hoc dictum? Illa fuit bona fictio: brachia sunt ita magna, quod unum est in oriente, aliud in occidente; per que denotatur sua magna potentia, de qua dicit. Et ammodo dicet de pulchritudine.
 
@@ -184,63 +184,63 @@ O quantum apparuit michi grande mirum, quando ego vidi tres facies suo capiti! u
 
 <!-- p. 415 (0469) -->
 
-¹⁶ Socto ciascuna uscivan due grand'hali,\
+16 Socto ciascuna uscivan due grand'hali,\
 &emsp;Quante si convenia a tanto ucello;\
 &emsp;Vele di mar non vidi mai cotali.
 
-¹⁶ Sub qualibet exibant due grandes ale,\
+16 Sub qualibet exibant due grandes ale,\
 &emsp;Quantum conveniebant tante avi:\
 &emsp;Vela maris non vidi unquam talia.
 
-¹⁷ Non havean penne, ma di vispistrello\
+17 Non havean penne, ma di vispistrello\
 &emsp;Era lor modo; e quelle in su alzava,\
 &emsp;Sì che tre venti si movean da ello.
 
-¹⁷ Non habebant pennas, sed vespertilionis\
+17 Non habebant pennas, sed vespertilionis\
 &emsp;Erat earum modus; et illas sursum elevabat,\
 &emsp;Ita quod tres venti movebantur ab eo.
 
-¹⁸ Quindi Coccito tucto s'aggelava (¹):\
-&emsp;Con sei occhi piangeva, e con tre (²) menti\
-&emsp;Gocciava ‘l pianto (³) e sanguinosa bava.
+18 Quindi Coccito tucto s'aggelava (1):\
+&emsp;Con sei occhi piangeva, e con tre (2) menti\
+&emsp;Gocciava ‘l pianto (3) e sanguinosa bava.
 
-¹⁸ Inde Cocitus totus congelabatur:\
+18 Inde Cocitus totus congelabatur:\
 &emsp;Cum sex oculis plangebat, et per tria menta\
 &emsp;Guctabat planctum et sanguinolentem bavam.
 
-¹⁹ Da ogni bocha dirompea (⁴) coi denti\
-&emsp;Un peccatore, a guisa di maciulla (⁵)\
-&emsp;Sì che tre (⁶) ne facea così dolenti.
+19 Da ogni bocha dirompea (4) coi denti\
+&emsp;Un peccatore, a guisa di maciulla (5)\
+&emsp;Sì che tre (6) ne facea così dolenti.
 
-¹⁹ Ab omni ore disrumpebat cum dentibus\
+19 Ab omni ore disrumpebat cum dentibus\
 &emsp;Unum peccatorem, ad instar maciulle,\
 &emsp;Ita quod tres faciebat sic dolentes.
 
-²⁰ A quel dinanzi el morder era nulla,\
-&emsp;Verso (⁷) ‘l graffiar, che talvolta la schiena (⁸)\
-&emsp;Rimanea de la pelle tutta brulla (⁹).
+20 A quel dinanzi el morder era nulla,\
+&emsp;Verso (7) ‘l graffiar, che talvolta la schiena (8)\
+&emsp;Rimanea de la pelle tutta brulla (9).
 
-²⁰ Illi anteriori mordere nihil erat,\
+20 Illi anteriori mordere nihil erat,\
 &emsp;Respectu laniationis, ex qua aliquando renes\
 &emsp;Rema[ne]bant de pelle tote brulle.
 
-²¹ Quell'anima lassù c'ha maggior pena,\
+21 Quell'anima lassù c'ha maggior pena,\
 &emsp;Disse ‘l maestro, è Giuda Scariocto,\
-&emsp;Che ‘l capo à dentro (¹⁰), e fuor le ghambe mena.
+&emsp;Che ‘l capo à dentro (10), e fuor le ghambe mena.
 
-²¹ Illa anima superior que habet maiorem penam,\
+21 Illa anima superior que habet maiorem penam,\
 &emsp;Dixit magister, est Iudas Scariothi,\
 &emsp;Qui habet caput intro, et extra crura ducit.
 
-²² Degl'altri due c'hanno ‘l capo di socto,\
-&emsp;Quel che pende dal ceffo nero (¹¹) è Bruto (¹²);\
-&emsp;Vedi come si storce (¹³), e non fa mocto:
+22 Degl'altri due c'hanno ‘l capo di socto,\
+&emsp;Quel che pende dal ceffo nero (11) è Bruto (12);\
+&emsp;Vedi come si storce (13), e non fa mocto:
 
-²² De aliis duobus qui habent caput deorsum,\
+22 De aliis duobus qui habent caput deorsum,\
 &emsp;Ille qui pendet a nigra facie est Brutus;\
 &emsp;Vide quomodo se torquet, et non facit moctum:
 
-(¹) ghiacciava. — (²) al. e per tre; et melius. — (³) suo. — (⁴) fracassava. — (⁵) con che s'infrange el lino. — (⁶) peccatori. — (⁷) a comparatione del. — (⁸) al. schena. — (⁹) necta. — (¹⁰) a la bocha di Lucifero. — (¹¹) di Lucifero. — (¹²) Decio. — (¹³) per la pena.
+(1) ghiacciava. — (2) al. e per tre; et melius. — (3) suo. — (4) fracassava. — (5) con che s'infrange el lino. — (6) peccatori. — (7) a comparatione del. — (8) al. schena. — (9) necta. — (10) a la bocha di Lucifero. — (11) di Lucifero. — (12) Decio. — (13) per la pena.
 
 Sub qualibet, facie scilicet, exibant due grandes ale, quantum conveniebant tante avi: vela maris non vidi unquam talia, idest similia illis, vel talia quales erant ille. Vela currunt et ducunt naves per mare, et ita inspirationes et tentationes huius dyaboli discurrunt per mare huius mundi et ducunt ad naufragium sepissime homines. Non habebant pennas, sed vespertilionis erat earum modus, et illas sursum elevabat, sive elevat, ita quod tres venti movebantur ab eo. Non habebant pennas sicut aves habent, sed qualis est lanugo vespertilionis. Vespertilio, quia fuit proditor, aliis avibus fuit condempnatus ad perpetuam tenebram. Ita est Lucifer, qui presumpsit contra Deum creatorem suum. Nunquam apparet nisi de nocte, idest in tenebris, idest in peccatis, et condempnatus est ad perpetuam tenebram.
 
@@ -258,39 +258,39 @@ Illi anteriori mordere nihil erat respectu laniationis, verso el graffiare (graf
 
 <!-- p. 416 (0470) -->
 
-²³ Quell'altro è Cassio (¹), che par sì membruto.\
+23 Quell'altro è Cassio (1), che par sì membruto.\
 &emsp;Ma la nocte risurge; et horamai\
-&emsp;È da partire (²), chè tucto habbiam veduto (³).
+&emsp;È da partire (2), chè tucto habbiam veduto (3).
 
-²³ Et alter est Cassius, qui apparet ita membrutus.\
+23 Et alter est Cassius, qui apparet ita membrutus.\
 &emsp;Sed nox resurgit; ammodo\
 &emsp;Est recedendum, quia totum vidimus.
 
-²⁴ Com'allui piacque, el collo gl'avvignai (⁴);\
-&emsp;Et ei prese del tempo e (⁵) luogo poste:\
+24 Com'allui piacque, el collo gl'avvignai (4);\
+&emsp;Et ei prese del tempo e (5) luogo poste:\
 &emsp;E quando l'hale furo aperte assai,
 
-²⁴ Sicut ei placuit, collum ei advinxi;\
+24 Sicut ei placuit, collum ei advinxi;\
 &emsp;Et ipse sumpsit tempus et locum et postam:\
 &emsp;Et quando ale fuerunt aperte satis,
 
-²⁵ Appiglò se alle vellute coste (⁶);\
+25 Appiglò se alle vellute coste (6);\
 &emsp;Di vello in vello giù discese poscia\
-&emsp;Tra'l folto pelo e le gelate croste (⁷).
+&emsp;Tra'l folto pelo e le gelate croste (7).
 
-²⁵ Applicavit se vellutis costis;\
+25 Applicavit se vellutis costis;\
 &emsp;Et de vellere in vellus infra descendit et postea\
 &emsp;Inter fultum pilum et gelatas crostas.
 
-²⁶ Quando noi fummo là dove la coscia\
+26 Quando noi fummo là dove la coscia\
 &emsp;Si volge a puncto sul grosso dell'anche,\
 &emsp;Lo duca con fatica e con angoscia
 
-²⁶ Quando nos fuimus ibi ubi tibie\
+26 Quando nos fuimus ibi ubi tibie\
 &emsp;Volvuntur punctualiter super grosso naticarum,\
 &emsp;Dux cum labore et cum angustia
 
-(¹) Gaio. — (²) dell' Inferno. — (³), per fin al centro de la terra. — (⁴) abbracciai. — (⁵) del. — (⁶) di Lucifero. — (⁷) ghiacci.
+(1) Gaio. — (2) dell' Inferno. — (3), per fin al centro de la terra. — (4) abbracciai. — (5) del. — (6) di Lucifero. — (7) ghiacci.
 
 Ma la notte resurge omai. Sed nox resurgit ammodo:
 
@@ -310,71 +310,71 @@ Quando nos fuimus ibi, ubi tibie, idest ubi crura et tibie coniunguntur corpori,
 
 <!-- p. 417 (0471) -->
 
-²⁷ Volse la testa ov'elli havea le zanche,\
+27 Volse la testa ov'elli havea le zanche,\
 &emsp;Et aggrappossi al pel com'huom che sale,\
 &emsp;Sì che in Inferno io credea tornar anche.
 
-²⁷ Volvit caput ubi habebat crura,\
+27 Volvit caput ubi habebat crura,\
 &emsp;Et applicavit se ad pilum sicut homo qui ascendit,\
 &emsp;Ita quod in Infernum credebam redire iterum.
 
-²⁸ Attienti ben, chè per cotali schale,\
+28 Attienti ben, chè per cotali schale,\
 &emsp;Disse'l maestro, ansando com'huom lasso,\
-&emsp;Conviensi dipartir da ogni (¹) male.
+&emsp;Conviensi dipartir da ogni (1) male.
 
-²⁸ Teneas te bene, quia per tales scalas,\
+28 Teneas te bene, quia per tales scalas,\
 &emsp;Dixit magister, angustiando [tamquam homo fessus].\
 &emsp;Convenit quod discedatur a tantis malis.
 
-²⁹ Poi escì fuor per lo foro d'un sasso,\
-&emsp;E pose me in sull'orlo (²) a sedere:\
+29 Poi escì fuor per lo foro d'un sasso,\
+&emsp;E pose me in sull'orlo (2) a sedere:\
 &emsp;Appresso porseme l'accorto passo.
 
-²⁹ Postea exivit foras per foramen unius saxi,\
+29 Postea exivit foras per foramen unius saxi,\
 &emsp;Et posuit se super orlum ad sedendum:\
 &emsp;Postmodum porrexit michi accuratum passum.
 
-³⁰ Io leva' gl'occhi, e credecti vedere\
+30 Io leva' gl'occhi, e credecti vedere\
 &emsp;Lucifero com'io l'havea lasciato,\
 &emsp;E vidili le gambe in su tenere.
 
-³⁰ Ego elevavi oculos, et credidi videre\
+30 Ego elevavi oculos, et credidi videre\
 &emsp;Luciferum sicut ego illum dimiseram,\
 &emsp;Et vidi eum crura sursum tenere.
 
-³¹ Com'io divenni allhora travagliato,\
+31 Com'io divenni allhora travagliato,\
 &emsp;La gente grossa pensi, che non vede\
-&emsp;Qual è quel punto (³) ch'io havea passato.
+&emsp;Qual è quel punto (3) ch'io havea passato.
 
-³¹ Et si ego deveni tunc stupefactus,\
+31 Et si ego deveni tunc stupefactus,\
 &emsp;Gens grossa hoc cogitet, que non videt\
 &emsp;Qualis erat punctus per quem ego transiveram.
 
-³² Levati su, disse 'l maestro, in piede:\
+32 Levati su, disse 'l maestro, in piede:\
 &emsp;La via è lunga, e 'l cammino è malvagio,\
-&emsp;E già el sole a mezza terza riede (⁴).
+&emsp;E già el sole a mezza terza riede (4).
 
-³² Leva te sursum, dixit magister, in pedes:\
+32 Leva te sursum, dixit magister, in pedes:\
 &emsp;Via est longa, et iter est malignum,\
 &emsp;Et iam sol ad mediam tertiarum redit.
 
-³³ Non era camminata di palagio\
+33 Non era camminata di palagio\
 &emsp;Dov'eravamo, ma natural burella\
 &emsp;Ch'avea mal suolo, e di lume disagio.
 
-³³ Non erat camminata palatii\
+33 Non erat camminata palatii\
 &emsp;Ubi eramus, sed naturalis burella\
 &emsp;Que habebat malum solum, et luminis indigentiam.
 
-³⁴ Prima che dell'abisso mi divella,\
+34 Prima che dell'abisso mi divella,\
 &emsp;Maestro mio, diss'io quando fui dricto,\
-&emsp;A trarmi d'erro (⁵) un poco mi favella.
+&emsp;A trarmi d'erro (5) un poco mi favella.
 
-³⁴ Priùsquam de abysso me evellas,\
+34 Priùsquam de abysso me evellas,\
 &emsp;Magister mi, dixi, quando fui rectus,\
 &emsp;Ut trahas me de errore aliquantulum mihi loquaris.
 
-(¹) al. da tucto. — (²) di quel saxo. — (³) del centro. — (⁴) ritorna. — (⁵) d'errore.
+(1) al. da tucto. — (2) di quel saxo. — (3) del centro. — (4) ritorna. — (5) d'errore.
 
 grosso naticarum, vel natuun, dux cum labore et cum angustia volvit caput ubi habebat crura, vel pedes, et applicuit se ad pilum, sicut homo qui ascendit; ita quod in Infernum credebam venire iterum. Volvit caput: naturaliter et proprie loquitur. Dixit quod quando fuit in natica Luciferi, volvit se sub et supra. Presuppone quod terra circa centrum habeat foramen unum, quod transeat subtus, si habet rota: modo si aliquis iaceret unum lapidem, quam esset ad medium vie, idest in centro, ibi staret; quia si ultra iret, tunc sequeretur quod ascenderet naturaliter quod est impossibile, nisi motu violento impelleretur. Ergo ad propositum, si transibant centrum, oportebat de necessitate quod volverent caput, si volebant ire recti. Cum angustia: ad denotandum quod difficulter receditur a vitiis. Sale: quia ascendit.
 
@@ -394,47 +394,47 @@ Prima che de l'abisso me direlle. Priùsquam de abyssu me evellas: hec est quart
 
 <!-- p. 418 (0472) -->
 
-³⁵ Dov'è la ghiaccia? e questi (¹) com'è ficto\
+35 Dov'è la ghiaccia? e questi (1) com'è ficto\
 &emsp;Così socto sopra? e come in sì poca hora\
-&emsp;Da mane a sera ha facto el sol tragicto (²)?
+&emsp;Da mane a sera ha facto el sol tragicto (2)?
 
-³⁵ Ubi est glacies? et iste quomodo est fixus\
+35 Ubi est glacies? et iste quomodo est fixus\
 &emsp;Sic supra? et quomodo in sic modica hora\
 &emsp;A sero ad mane fecit sol traghettum?
 
-³⁶ Et elli a me: Tu ymagini anchora\
+36 Et elli a me: Tu ymagini anchora\
 &emsp;Esser di là dal centro, ov'io mi presi\
-&emsp;Al pel del vermo (³) reo che 'l mondo fora.
+&emsp;Al pel del vermo (3) reo che 'l mondo fora.
 
-³⁶ Et ipse ad me: Tu ymaginaris adhuc\
+36 Et ipse ad me: Tu ymaginaris adhuc\
 &emsp;Esse ultra centrum, ubi ego me applicavi\
 &emsp;Pilo vermis rei qui mundum perforat.
 
-³⁷ Di là (⁴) fosti cotanto, quanto scesi:\
-&emsp;Quando mi volsi, allhor (⁵) passasti 'l puncto\
-&emsp;Dal quale si traghon (⁶) d'ogni parte e pesi:
+37 Di là (4) fosti cotanto, quanto scesi:\
+&emsp;Quando mi volsi, allhor (5) passasti 'l puncto\
+&emsp;Dal quale si traghon (6) d'ogni parte e pesi:
 
-³⁷ Ex illa parte fuisti tanto tempore, quanto ego descendi:\
+37 Ex illa parte fuisti tanto tempore, quanto ego descendi:\
 &emsp;Quando me volvi, tu pertransivisti punctum\
 &emsp;Ad quod se trahunt ex omni parte pondera:
 
-³⁸ E se' or sotto l'hemysperio giuncto\
-&emsp;Ch'è opposito a quel (⁷) che la gran seccha\
+38 E se' or sotto l'hemysperio giuncto\
+&emsp;Ch'è opposito a quel (7) che la gran seccha\
 &emsp;Coverchia, e sotto 'l cui colmo consumpto
 
-³⁸ Et nunc sub emispirio pervenisti\
+38 Et nunc sub emispirio pervenisti\
 &emsp;Quod est contrapositum illi quod magnam sicci-\
 &emsp;Cooperit, et sub cuius culmine consumptus [tatem
 
-³⁹ Fu l'huom (⁸) che nacque [e visse] senza peccha:\
-&emsp;Tu hai (⁹) e piedi in su picciola spera (¹⁰)\
-&emsp;Che l'altra faccia (¹¹) fa della Giudeccha (¹²).
+39 Fu l'huom (8) che nacque [e visse] senza peccha:\
+&emsp;Tu hai (9) e piedi in su picciola spera (10)\
+&emsp;Che l'altra faccia (11) fa della Giudeccha (12).
 
-³⁹ Fuit homo qui natus est et vixit sine peccato:\
+39 Fuit homo qui natus est et vixit sine peccato:\
 &emsp;Tu habes pedes super parva spera\
 &emsp;Que aliam faciem facit de Giudeccha.
 
-(¹) Lucifero. — (²) transmutatione. — (³) di Lucifero. — (⁴) dal centro. — (⁵) al. tu. — (⁶) tirano, cavano, elevansi su. — (⁷) hemysperio. — (⁸) Chrysto. — (⁹) hora. — (¹⁰) rotondità di terra. — (¹¹) opposita. — (¹²) dov'è punito Giuda.
+(1) Lucifero. — (2) transmutatione. — (3) di Lucifero. — (4) dal centro. — (5) al. tu. — (6) tirano, cavano, elevansi su. — (7) hemysperio. — (8) Chrysto. — (9) hora. — (10) rotondità di terra. — (11) opposita. — (12) dov'è punito Giuda.
 
 Et quomodo sic in modica hora, a sero usque ad mane, fecit sol traghettum, idest cursum suum?
 
@@ -452,47 +452,47 @@ His dictis, nota quod Dantes hic asserit, quod ille homo, qui fuit consumptus, i
 
 <!-- p. 419 (0473) -->
 
-⁴⁰ Qui è da mane, quando di là è sera:\
-&emsp;E questi (¹) che ne fe' (²) scala col pelo (³),\
-&emsp;Fitto è anchora, sì come fict'era (⁴).
+40 Qui è da mane, quando di là è sera:\
+&emsp;E questi (1) che ne fe' (2) scala col pelo (3),\
+&emsp;Fitto è anchora, sì come fict'era (4).
 
-⁴⁰ Hic est mane, quando ibi est sero:\
+40 Hic est mane, quando ibi est sero:\
 &emsp;Et iste qui fecit nobis scalas cum pilo,\
 &emsp;Fixus est adhuc, sicut prius erat.
 
-⁴¹ Da questa parte (⁵) cadde giù dal cielo:\
+41 Da questa parte (5) cadde giù dal cielo:\
 &emsp;E la terra che pria di qua si sporse,\
-&emsp;Per paura di lui fe'del mar (⁶) velo (⁷),
+&emsp;Per paura di lui fe'del mar (6) velo (7),
 
-⁴¹ Ab ista parte de celo cecidit infra:\
+41 Ab ista parte de celo cecidit infra:\
 &emsp;Et terra que prius erat ab ista parte se porrexit,\
 &emsp;Propter pavorem ipsius fecit de mari velum,
 
-⁴² E venne all'emysperio nostro; e forse\
+42 E venne all'emysperio nostro; e forse\
 &emsp;Per fuggir lui lasciò qui luogo voto\
 &emsp;Quella ch'appar di qua, e su ricorse.
 
-⁴² Et venit ad emispirium nostrum; et forsam\
+42 Et venit ad emispirium nostrum; et forsam\
 &emsp;Propter fugere eum dimisit hic locum vacuum\
 &emsp;Illa que apparet hic, et sursum recucurrit.
 
-⁴³ Luogo è laggiù da Belzebub (⁸) remoto\
+43 Luogo è laggiù da Belzebub (8) remoto\
 &emsp;Tanto, quanto la tomba si distende,\
 &emsp;Che non per vista, ma per suono, è noto,
 
-⁴³ Locus est ibi inferius a Beelzebub remotus\
+43 Locus est ibi inferius a Beelzebub remotus\
 &emsp;Tantum, quantum tumba se extendit,\
 &emsp;Qui non per visum, sed per sonum auditur
 
-⁴⁴ D'un ruscelletto (⁹) che quivi discende\
+44 D'un ruscelletto (9) che quivi discende\
 &emsp;Per la bocha d'un saxo, ch'egli ha roso\
 &emsp;Col corso ch'egli avolge, e poco pende.
 
-⁴⁴ Unius rivuli qui ibi descendit\
+44 Unius rivuli qui ibi descendit\
 &emsp;Per foramen unius saxi, quod corrosit\
 &emsp;Cum cursu cum quo ipse currit, et modicum pendet.
 
-(¹) Lucifero. — (²) a noi fece. — (³) suo. — (⁴) prima. — (⁵) hemysperio dove siamo. — (⁶) mare. — (⁷) coprimento, scudo et obstacolo. — (⁸) Lucifero. — (⁹) fiumicello.
+(1) Lucifero. — (2) a noi fece. — (3) suo. — (4) prima. — (5) hemysperio dove siamo. — (6) mare. — (7) coprimento, scudo et obstacolo. — (8) Lucifero. — (9) fiumicello.
 
 nostram humanam in unitate suppositi sine peccato et sine crimine ullo. Hic fuit crucifixus propter redimere genus humanum, et crux fuit posita in monte Calvarie, qui videtur esse situs in medio terre habitabilis, iuxta illud: Operatus es salutem in medio terre.
 
@@ -510,20 +510,20 @@ Sed modo ymaginandum est, quod quando Dantes fecit istam questionem, sive istas 
 
 <!-- p. 420 (0474) -->
 
-⁴⁵ Lo duca et io per quel cammino ascoso\
+45 Lo duca et io per quel cammino ascoso\
 &emsp;Entrammo a ritornar nel chiaro mondo:\
 &emsp;E senza cura haver d'alcun riposo
 
-⁴⁵ Dux et ego per illud iter absconsum\
+45 Dux et ego per illud iter absconsum\
 &emsp;Intravimus ad redeundum in clarum mundum:\
 &emsp;Et sine cura habendi aliquam quietem
 
-⁴⁶ Salimmo su, ei primo et io 'l secondo,\
+46 Salimmo su, ei primo et io 'l secondo,\
 &emsp;Tanto ch'io vidi delle cose belle\
 &emsp;Che porta 'l ciel, per un pertuso tondo,\
 &emsp;E quindi escimmo a riveder le stelle.
 
-⁴⁶ Ascendimus sursum, ipse primus et ego secundus,\
+46 Ascendimus sursum, ipse primus et ego secundus,\
 &emsp;Tantum quod ego vidi de rebus pulchris\
 &emsp;Quas portat celum, per unum foramen rotundum,\
 &emsp;Et hac exivimus ad revidendum stellas.

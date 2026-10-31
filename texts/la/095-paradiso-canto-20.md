@@ -8,31 +8,31 @@ In isto vicesimo capitulo, quod incipit: Quando ille qui totum mundum illuminat,
 
 # Capitulum Vicesimum
 
-¹ Quando colui che tutto 'l mondo alluma\
+1 Quando colui che tutto 'l mondo alluma\
 &emsp;Dell'emisperio nostro si descende,\
 &emsp;Che 'l giorno d'ogni parte si consuma,
 
-¹ Quando ille qui totum mundum illuminat\
+1 Quando ille qui totum mundum illuminat\
 &emsp;De emispirio [nostro] descendit,\
 &emsp;Ex quo dies ab omni parte consumitur,
 
-² Lo ciel, che sol di lui prima s'accende,\
+2 Lo ciel, che sol di lui prima s'accende,\
 &emsp;Subitamente si rifà parvente\
 &emsp;Per molte luci, in che una risplende.
 
-² Celum, quod primo solum de eo accenditur,\
+2 Celum, quod primo solum de eo accenditur,\
 &emsp;Subito refit apparens\
 &emsp;Propter multas luces, que ibi resplendent.
 
-³ E quest'acto del ciel mi venne a mente,\
+3 E quest'acto del ciel mi venne a mente,\
 &emsp;Com 'l segno del mondo e de' suoi duci\
-&emsp;Nel benedecto rostro (¹) fu tacente;
+&emsp;Nel benedecto rostro (1) fu tacente;
 
-³ Et iste actus celi michi venit in mentem,\
+3 Et iste actus celi michi venit in mentem,\
 &emsp;Statim quod signum mundi et suorum ducum\
 &emsp;In benedicto rostro fuit tacens;
 
-(¹) dell'Aquila.
+(1) dell'Aquila.
 
 Quando ille qui totum mundum illuminat. Quando colui che tutto lo mundo illumina: istud est vicesimum capitulum istius Paradisi, in quo auctor introducit signum Aquile, quod recenset aliquos reges et dominos iustos, idest qui vixerunt cum recta iustitia in suis dominiis, sicut in capitulo precedenti recensuit reges iniustos et pravos. Dividitur autem istud capitulum in quatuor partes. In quarum prima auctor, continuans dicta dicendis, ponit dispositionem huius Aquile et spirituum constituentium illam Aquilam.
 
@@ -50,55 +50,55 @@ In prima parte auctor continuat dicta dicendis, quod contingit de Aquila, que si
 
 <!-- p. 1057 (1111) -->
 
-⁴ Però che tutte quelle vive luci,\
+4 Però che tutte quelle vive luci,\
 &emsp;Vie più lucenti, cominciaron canti\
 &emsp;Da mia memoria labili e caduci.
 
-⁴ Eo quia omnes ille vive luces,\
+4 Eo quia omnes ille vive luces,\
 &emsp;Multo plus lucidiores, inceperunt cantus\
 &emsp;A mea memoria labiles et caducos.
 
-⁵ O dolce amor, che di riso t'ammanti,\
+5 O dolce amor, che di riso t'ammanti,\
 &emsp;Quanto parevi ardente in quei favilli,\
 &emsp;Ch'avevan spirto sol di pensier sancti!
 
-⁵ O dulcis amor, qui de risu te ammantas,\
+5 O dulcis amor, qui de risu te ammantas,\
 &emsp;Quanto apparebas ardens in illis flaillis,\
 &emsp;Que habebant spiritum solum cogitationum sanctarum!
 
-⁶ Poscia che e chiari e lucidi lapilli,\
+6 Poscia che e chiari e lucidi lapilli,\
 &emsp;Ond' io vidi ingemmato el sexto lume,\
 &emsp;Poser silentio agl' angelici squilli,
 
-⁶ Postquam clari et lucidi lapilli,\
+6 Postquam clari et lucidi lapilli,\
 &emsp;Unde ego vidi ingemmatum sextum lumen,\
 &emsp;Posuerunt silentium angelicis quisquillis,
 
-⁷ Udir mi parve el mormorar d'un fiume,\
+7 Udir mi parve el mormorar d'un fiume,\
 &emsp;Che scende chiaro giù di pietra in pietra,\
 &emsp;Mostrando l'ubertà del suo chacume.
 
-⁷ Audire michi apparuit unum murmur fluminis,\
+7 Audire michi apparuit unum murmur fluminis,\
 &emsp;Quod descendit clarum infra de petra in petram,\
 &emsp;Monstrando ubertatem sui cacuminis.
 
-⁸ E come suono al collo de la cetra (¹)\
+8 E come suono al collo de la cetra (1)\
 &emsp;Prende sua forma, e sì com' al pertugio\
 &emsp;De la sampogna vento che penetra,
 
-⁸ Et sicut sonus ad collum cithare\
+8 Et sicut sonus ad collum cithare\
 &emsp;Apprehendit suam vim, et sicut in foramine\
 &emsp;Fistule ventus qui penetrat,
 
-⁹ Così, rimosso d'aspettar indugio,\
+9 Così, rimosso d'aspettar indugio,\
 &emsp;Quel mormorar dell'Aquila salissi\
 &emsp;Su per lo collo, come fusse bugio.
 
-⁹ Sic, remotum ab expectando dilationem,\
+9 Sic, remotum ab expectando dilationem,\
 &emsp;Illud murmurare aquile ascendit\
 &emsp;Sursum per collum, ac si esset perforatum.
 
-(¹) cythara.
+(1) cythara.
 
 minus: sic fit in celo; quia amor [qui] est ibi, dat spiritum bonum, idest vigorem ad cantandum. Tunc ad textum.
 
@@ -112,27 +112,27 @@ Postquam clari et lucidi lapilli. Poi i chiari e lucidi lapilli: ista est secund
 
 <!-- p. 1058 (1112) -->
 
-¹⁰ Fecesi voce quivi, e quindi uscissi\
+10 Fecesi voce quivi, e quindi uscissi\
 &emsp;Per lo suo becho in forma di parole,\
 &emsp;Quali aspectava el cuor ov'io le scripsi.
 
-¹⁰ Factum fuit vox ibi, et inde exivit\
+10 Factum fuit vox ibi, et inde exivit\
 &emsp;Per suum rostrum in formam verborum,\
 &emsp;Qualia expectabat cor ubi ego illa scripsi.
 
-¹¹ La parte in me, che vede e pate el sole\
+11 La parte in me, che vede e pate el sole\
 &emsp;Nell'aquile mortali, incominciommi,\
 &emsp;Hor fisamente riguardar si vuole;
 
-¹¹ Pars in me, que videt et patitur solem\
+11 Pars in me, que videt et patitur solem\
 &emsp;Per aquilam mortalem, incepit michi,\
 &emsp;Nunc fixe respici vult;
 
-¹² Perchè de' fuochi, ond'io figura fommi,\
+12 Perchè de' fuochi, ond'io figura fommi,\
 &emsp;Quelli, onde l'ochio in testa mi scintilla,\
 &emsp;Ei di tutti lor gradi son li sommi.
 
-¹² Quia de ignibus, unde ego figura efficior,\
+12 Quia de ignibus, unde ego figura efficior,\
 &emsp;Illi, unde oculus michi in capite sintillat,\
 &emsp;Totius eorum gradus sunt summi.
 
@@ -150,39 +150,39 @@ Alia anima fuit anima Constantini Imperatoris, qui fuit mundatus a lepra a Sanct
 
 <!-- p. 1059 (1113) -->
 
-¹³ Colui che luce in mezzo per pupilla,\
+13 Colui che luce in mezzo per pupilla,\
 &emsp;Fu el cantor dello Spirito Santo.\
 &emsp;Che l'archa transmutò di villa in villa:
 
-¹³ Ille qui lucet in medio pro pupilla,\
+13 Ille qui lucet in medio pro pupilla,\
 &emsp;Fuit cantor Spiritus Sancti,\
 &emsp;Qui archam transtulit de villa in villam:
 
-¹⁴ Hora conosce el merto del suo canto,\
+14 Hora conosce el merto del suo canto,\
 &emsp;In quanto effecto fu del suo consiglo,\
 &emsp;Per lo remunerar, ch'è altrettanto.
 
-¹⁴ Nunc cognoscit meritum sui cantus,\
+14 Nunc cognoscit meritum sui cantus,\
 &emsp;In quanto effectu fuit suum consilium,\
 &emsp;Propter remunerationem, que est tantumdem.
 
-¹⁵ De' cinque, che fan cerchio per lo ciglo,\
-&emsp;Colui (¹) che più al becho mi s'accosta,\
-&emsp;La poverella (²) consolò del figlo:
+15 De' cinque, che fan cerchio per lo ciglo,\
+&emsp;Colui (1) che più al becho mi s'accosta,\
+&emsp;La poverella (2) consolò del figlo:
 
-¹⁵ De quinque, qui michi faciunt circulum per supercilium,\
+15 De quinque, qui michi faciunt circulum per supercilium,\
 &emsp;Ille, qui plus rostro michi adheret,\
 &emsp;Viduam consolatus est de filio:
 
-¹⁶ Hora cognosce quanto caro costa\
+16 Hora cognosce quanto caro costa\
 &emsp;Non seguir Chrysto, per l'experientia\
-&emsp;Di questa dolce vita e della opposta (³).
+&emsp;Di questa dolce vita e della opposta (3).
 
-¹⁶ Nunc cognoscit quantum carum constat\
+16 Nunc cognoscit quantum carum constat\
 &emsp;Non sequi Christum, propter experientiam\
 &emsp;Istius dulcis vite et opposite.
 
-(¹) Trayano imperadore — (²) vedova — (³) infernale.
+(1) Trayano imperadore — (2) vedova — (3) infernale.
 
 romanorum, et imposuit ei nomen Constantinopolim, idest civitatem Constantini; et secundum opinionem auctoris, dos Ecclesie, quam ipse Constantinus dedit, est causa destructionis Christianitatis, licet ipse Constantinus habuerit bonam opinionem ad bene faciendum, quando Ecclesiam dotavit.
 
@@ -196,51 +196,51 @@ De quinque, scilicet spiritibus, qui michi faciunt supercilium, ille qui plus ro
 
 <!-- p. 1060 (1114) -->
 
-¹⁷ E quel che segue in la circunferentia,\
+17 E quel che segue in la circunferentia,\
 &emsp;Di che ragiono, per l'arco superno,\
 &emsp;Morte indugiò per vera penitentia:
 
-¹⁷ Et ille qui sequitur in circumferentia,\
+17 Et ille qui sequitur in circumferentia,\
 &emsp;De quo ratiocinor, per arcum supernum,\
 &emsp;Mortem distulit per veram penitentiam:
 
-¹⁸ Hora conosce che 'l iudicio eterno\
+18 Hora conosce che 'l iudicio eterno\
 &emsp;Non si transmuta, quando degno preco\
 &emsp;Fa crastino laggiù dell'hodierno.
 
-¹⁸ Nunc cognoscit quod iudicium eternum\
+18 Nunc cognoscit quod iudicium eternum\
 &emsp;Non transmutatur, quando digne preces\
 &emsp;Faciunt crastinum de odierno.
 
-¹⁹ L'altro che segue, co' le leggi, meco,\
+19 L'altro che segue, co' le leggi, meco,\
 &emsp;Sotto buon'intention che fe' mal fructo,\
 &emsp;Per ceder al Pastor si fece Greco:
 
-¹⁹ Alius qui sequitur, cum legibus, mecum,\
+19 Alius qui sequitur, cum legibus, mecum,\
 &emsp;Sub bona intentione que fecit malum fructum,\
 &emsp;Propter cedere Pastori, se fecit Grecum:
 
-²⁰ Hora cognosce come 'l mal, deducto\
+20 Hora cognosce come 'l mal, deducto\
 &emsp;Dal suo ben operar, non gl'è nocivo,\
 &emsp;Avegna che sia 'l mondo indi destructo.
 
-²⁰ Nunc cognoscit quomodo malum, deductum\
+20 Nunc cognoscit quomodo malum, deductum\
 &emsp;De suo bono operari, non est sibi nocivum,\
 &emsp;Quamquam sit mundus inde destructus.
 
-²¹ E quel che vedi nell'arco declivo\
+21 E quel che vedi nell'arco declivo\
 &emsp;Guiglelmo fu, cui quella terra plora\
 &emsp;Che piange Karlo e Federigo vivo:
 
-²¹ Et ille, quem vides in arcu declivi,\
+21 Et ille, quem vides in arcu declivi,\
 &emsp;Guilhelmus fuit, quem illa terra plorat\
 &emsp;Que plangit Karolum et Federicum vivum:
 
-²² Hora cognosce come s'innamora\
+22 Hora cognosce come s'innamora\
 &emsp;Lo ciel del giusto rege, et al sembiante\
 &emsp;Del suo fulgor lo fa veder ancora.
 
-²² Nunc cognoscit quomodo amore capitur\
+22 Nunc cognoscit quomodo amore capitur\
 &emsp;Celum de iusto rege, et ad signum\
 &emsp;Sui fulgoris illud facit videre etiam.
 
@@ -254,71 +254,71 @@ Et ille quem vides in arcu declivi, scilicet oculi. Guilhelmus fuit, quem illa t
 
 <!-- p. 1061 (1115) -->
 
-²³ Chi crederebbe giù nel mondo errante,\
+23 Chi crederebbe giù nel mondo errante,\
 &emsp;Che Rypheo Troyano in questo tondo\
 &emsp;Fusse la quinta de le luci sancte?
 
-²³ Quis crederet infra in mundo erranti,\
+23 Quis crederet infra in mundo erranti,\
 &emsp;Quod Rypheus Troyanus in isto rotundo\
 &emsp;Esset quinta lucium sanctarum?
 
-²⁴ Hora cognosce assai di quel che 'l mondo\
+24 Hora cognosce assai di quel che 'l mondo\
 &emsp;Veder non può de la divina gratia,\
 &emsp;Benchè sua vista non discerna 'l fondo.
 
-²⁴ Nunc cognoscit satis de illo quod mundus\
+24 Nunc cognoscit satis de illo quod mundus\
 &emsp;Videre non potest a divina gratia,\
 &emsp;Quamquam sua visio non discernat fundum.
 
-²⁵ Qual lodoletta che 'nn aere si spatia\
+25 Qual lodoletta che 'nn aere si spatia\
 &emsp;Prima cantando, e poi tace contenta\
 &emsp;Per l'ultima letitia che la satia;
 
-²⁵ Qualis alaudecta que in aiere spatiatur\
+25 Qualis alaudecta que in aiere spatiatur\
 &emsp;Prius cantando, postea tacet contenta\
 &emsp;De ultima dulcedine que illam satiat;
 
-²⁶ Tal mi sembiò l'ymago della 'mprenta\
+26 Tal mi sembiò l'ymago della 'mprenta\
 &emsp;Dell'eterno piacer, al cui desio\
 &emsp;Ciascuna cosa, quale ell'è, diventa.
 
-²⁶ Talis michi se assimilavit ymago impressionis\
+26 Talis michi se assimilavit ymago impressionis\
 &emsp;Eterne complacentie, ad cuius desiderium\
 &emsp;Quelibet res, qualis ipsa est, devenit.
 
-²⁷ Et avegna ch'io fussi al dubiar mio\
+27 Et avegna ch'io fussi al dubiar mio\
 &emsp;Lì quasi vetro al color che 'l veste,\
 &emsp;Tempo tacendo aspectar non patio;
 
-²⁷ Et quamquam esset dubitare meum\
+27 Et quamquam esset dubitare meum\
 &emsp;Liquidum vitrum colori qui ipsum vestit,\
 &emsp;Tempus expectare tacendo non est passum;
 
-²⁸ Ma de la bocha: Che cose son queste?\
+28 Ma de la bocha: Che cose son queste?\
 &emsp;Mi pinse co' la forza del suo peso;\
 &emsp;Perch'io di corruscar vidi gran feste.
 
-²⁸ Sed de ore: Que res sunt iste?\
+28 Sed de ore: Que res sunt iste?\
 &emsp;Michi impulit cum vi sui ponderis;\
 &emsp;Ex quo ego coruscationum vidi grandia festa.
 
-²⁹ Poi appresso, coll'ochio più acceso,\
+29 Poi appresso, coll'ochio più acceso,\
 &emsp;Lo benedecto segno mi rispose,\
 &emsp;Per non tenermi in ammirar sospeso:
 
-²⁹ Postmodum prope, cum oculo magis accenso,\
+29 Postmodum prope, cum oculo magis accenso,\
 &emsp;Benedictum signum michi respondit,\
 &emsp;Propter non tenere me in admiratione suspensum:
 
-³⁰ Io veggio che tu credi queste cose,\
+30 Io veggio che tu credi queste cose,\
 &emsp;Perch'io le dico, ma non vedi come;\
-&emsp;Sì che, se non (¹) credute (²), sono ascose.
+&emsp;Sì che, se non (1) credute (2), sono ascose.
 
-³⁰ Ego video quod tu credis istas res,\
+30 Ego video quod tu credis istas res,\
 &emsp;Quia ego illas dico, sed non vides quomodo;\
 &emsp;Ita quod, si creduntur, sunt absconse.
 
-(¹) al. son — (²) ben.
+(1) al. son — (2) ben.
 
 Quis crederet infra, in mundo erranti, quod Rypheus Troyanus, idest de Troya, in isto tundo, idest rotundo, esset quinta lucium, idest quinta lux, sanctarum? nunc cognoscit ipse Rypheus de illo, quod mundus videre non potest a divina gratia, quamquam sua visio non discernat fundum: idest, quia mundus credit aliquos esse in Inferno qui sunt in Paradiso, et e converso. De talibus mundus non potest videre fundum divine gratie, quia Deus salvat aliquos, de quibus nescit mundus quomodo, nec qualiter, nec quare: quia tales pagani possunt, Deo volente, habere aliquas inspirationes, quas mundus non cognoscit, que sunt sibi sufficientes ad salutem. Quidquid autem sit de isto Rypheo Troyano, nec ego assero quod sit salvus, nec puto auctorem velle talia dicere, quod velit dicere istum Rypheum Troyanum esse salvum; sed hoc dicit propter abissum iudiciorum divinorum, quia quilibet virtuosus et iustus paganus potest salvari, si Deo placeret, et salvabilis est sine fallo.
 
@@ -330,47 +330,47 @@ Postmodum prope, scilicet talia festa, idest subito post, cum oculo magis accens
 
 <!-- p. 1062 (1116) -->
 
-³¹ Fai come quei, che la cosa per nome\
+31 Fai come quei, che la cosa per nome\
 &emsp;Apprende bene; ma la sua quiditate\
 &emsp;Veder non puote, s'altri non la prome.
 
-³¹ Facis sicut ille, qui rem per nomen\
+31 Facis sicut ille, qui rem per nomen\
 &emsp;Apprehendit bene; sed suam quidditatem\
 &emsp;Videre non potest, si alius illam non promit.
 
-³² Regnum celorum violenza pate\
+32 Regnum celorum violenza pate\
 &emsp;Da caldo amor, e da viva speranza,\
 &emsp;Che vince la divina volontate;
 
-³² Regnum celorum vim patitur\
+32 Regnum celorum vim patitur\
 &emsp;A calido amore, et a viva spe,\
 &emsp;Que vincit divinam voluntatem;
 
-³³ Non a guisa che huom huomo sovranza,\
+33 Non a guisa che huom huomo sovranza,\
 &emsp;Ma vince lei, perchè vuol esser vinta,\
 &emsp;E vinta vince con sua benenanza.
 
-³³ Non ad instar quo homo hominem superat,\
+33 Non ad instar quo homo hominem superat,\
 &emsp;Sed vincit eam, quia vult vinci,\
 &emsp;Et victa vincit cum sua benignantia.
 
-³⁴ La prima vita (¹) del ciglo e la quinta (²)\
+34 La prima vita (1) del ciglo e la quinta (2)\
 &emsp;Ti fa maraviglar, perchè ne vedi\
 &emsp;La region degl'angeli dipinta.
 
-³⁴ Prima vita supercilii et quinta\
+34 Prima vita supercilii et quinta\
 &emsp;Te faciunt mirari, quia non vides\
 &emsp;Regionem angelorum depictam.
 
-³⁵ De' corpi suoi non uscir, come credi,\
+35 De' corpi suoi non uscir, come credi,\
 &emsp;Gentili, ma chrystiani, in ferma fede,\
-&emsp;Quel (³) de'passuri (⁴), e quel (⁵) de'passi piedi (⁶).
+&emsp;Quel (3) de'passuri (4), e quel (5) de'passi piedi (6).
 
-³⁵ De corporibus suis non exiverunt, sicut credis,\
+35 De corporibus suis non exiverunt, sicut credis,\
 &emsp;Gentiles, sed christiane, in firma fide,\
 &emsp;Illa de passuris, et illa de passis pedibus.
 
-(¹) Trayano — (²) Rypheo — (³) Rypheo — (⁴) piedi — (⁵) Trayano — (⁶) di Cristo.
+(1) Trayano — (2) Rypheo — (3) Rypheo — (4) piedi — (5) Trayano — (6) di Cristo.
 
 idest ipsa Aquila, propter non tenere me, idest ut non teneret me, in admiratione suspensum (quia Dantes admirabatur, quod illi duo spiritus essent ibi, qui fuerunt spiritus Paganorum; et maxime spiritus Trayani dabat admirationem, qui persecutus fuit Ecclesiam Christi; ideo dixit: Que res sunt iste, indigne fide et incredibiles, quod duo pagani sunt hic?): Ego video quod tu credis istas res, idest sicut bonus christianus, quia ego illas dico, sed non vides quomodo; ita quod, si creduntur, sunt absconse.
 
@@ -386,71 +386,71 @@ De corporibus suis non exiverunt, scilicet pagane, sicut tu credis, et gentiles,
 
 <!-- p. 1063 (1117) -->
 
-³⁶ Chè l'una dell'Inferno, u' non si riede\
+36 Chè l'una dell'Inferno, u' non si riede\
 &emsp;Giamai a ben voler, tornò all'ossa:\
-&emsp;E ciò [a] divina speme (¹) fu mercede;
+&emsp;E ciò [a] divina speme (1) fu mercede;
 
-³⁶ Quia una de Inferno, unde non reditur\
+36 Quia una de Inferno, unde non reditur\
 &emsp;Unquam ad bonam voluntatem, redivit ad ossa:\
 &emsp;Et hoc vive spei fuit merces;
 
-³⁷ Divina speme, che misse la possa\
-&emsp;Ne' prieghi facti a Dio (²) per suscitarla,\
+37 Divina speme, che misse la possa\
+&emsp;Ne' prieghi facti a Dio (2) per suscitarla,\
 &emsp;Sì che potesse sua vogla esser mossa.
 
-³⁷ Vive spei, que misit potentiam\
+37 Vive spei, que misit potentiam\
 &emsp;In precibus factis Deo pro illa resuscitanda,\
 &emsp;Ita quod posset ad suam voluntatem esse mota.
 
-³⁸ L'anima gloriosa, onde si parla,\
+38 L'anima gloriosa, onde si parla,\
 &emsp;Tornata ne la carne in che fu poco,\
 &emsp;Credette in lui che poteva aiutarla;
 
-³⁸ Anima gloriosa, unde loquitur,\
+38 Anima gloriosa, unde loquitur,\
 &emsp;Reversa ad carnem in qua fuit modicum,\
 &emsp;Credidit in eum qui poterat adiuvare illam;
 
-³⁹ E credendo s'accese in tanto foco\
+39 E credendo s'accese in tanto foco\
 &emsp;Di vero amor, che 'n la morte seconda\
 &emsp;Fu degna di venir a questo loco.
 
-³⁹ Et credendo accensa fuit in tanto igne\
+39 Et credendo accensa fuit in tanto igne\
 &emsp;Veri amoris, quod in morte secunda\
 &emsp;Fuit digna venire ad istum locum.
 
-⁴⁰ L'altra, per gratia che da sì profonda\
+40 L'altra, per gratia che da sì profonda\
 &emsp;Fontana stilla, che mai creatura\
 &emsp;Non pinse l'ochio infin a la prima onda,
 
-⁴⁰ Alia, per gratiam que a tam profundo\
+40 Alia, per gratiam que a tam profundo\
 &emsp;Fonte stillat, quod unquam creatura\
 &emsp;Non impulit [oculum] usque ad primam undam,
 
-⁴¹ Tutto suo amor laggiù pose a drictura;\
+41 Tutto suo amor laggiù pose a drictura;\
 &emsp;Perchè di gratia in gratia Dio gl'aperse\
 &emsp;L'ochio a la nostra redention futura:
 
-⁴¹ Totum suum amorem posuit infra ad rectitudinem;\
+41 Totum suum amorem posuit infra ad rectitudinem;\
 &emsp;Ex quo de gratia in gratiam Deus aperuit\
 &emsp;Oculum ad nostram redentionem futuram:
 
-⁴² Onde credette in quella, e non sofferse\
+42 Onde credette in quella, e non sofferse\
 &emsp;Da indi el puzzo più del Paganesmo,\
 &emsp;E riprendenne le genti perverse.
 
-⁴² Unde credidit in illam, et non sustulit\
+42 Unde credidit in illam, et non sustulit\
 &emsp;Ab inde putredinem plus Paganismi,\
 &emsp;Et reprehendit de illa gentes perversas.
 
-⁴³ Quelle tre donne li fur per baptesmo,\
+43 Quelle tre donne li fur per baptesmo,\
 &emsp;Che tu vedesti da la dextra rota,\
 &emsp;Dinanzi al baptezar più d'un millesmo.
 
-⁴³ Ille tres domine fuerunt ibi pro baptismate,\
+43 Ille tres domine fuerunt ibi pro baptismate,\
 &emsp;Quas tu vidisti ad dexteram rotam,\
 &emsp;Ante baptisma plus uno millesimo.
 
-(¹) speranza — (²) al. a lui.
+(1) speranza — (2) al. a lui.
 
 passis (in preterito) pedibus. Quia una de Inferno, scilicet anima Trayani, unde non reditur, idest de lege communi, unquam ad bonam voluntatem, redivit, idest resurrexit, ad ossa, idest ad corpus suum: et hoc vive spei, quam habuit Gregorius, ad Deum, sive in Deo, quando oravit pro ipsa, fuit merces, idest premium; vive spei, que misit, idest posuit, potentiam in precibus, Sancti Gregorii, factis Deo pro illa resuscitanda, ita quod posset, scilicet ipsa anima, ad suam voluntatem esse mota vel moveri.
 
@@ -462,57 +462,57 @@ Ille tres domine, scilicet virtutes theologice, sibi fuerunt pro baptismate, sci
 
 <!-- p. 1064 (1118) -->
 
-⁴⁴ O predestination, quanto remota\
+44 O predestination, quanto remota\
 &emsp;È la radice tua da quelli aspecti,\
 &emsp;Che la prima cagion non veggion tota!
 
-⁴⁴ O predestinatio, quantum remota\
+44 O predestinatio, quantum remota\
 &emsp;Est radix tua ab illis aspectibus\
 &emsp;Qui primam causam non vident totam!
 
-⁴⁵ E voi, o mortal (¹), tene[te]vi strecti\
+45 E voi, o mortal (1), tene[te]vi strecti\
 &emsp;A giudicar; chè noi, che Dio vedemo,\
 &emsp;Non conosciamo ancor tutti gl'electi;
 
-⁴⁵ Et vos, mortales, teneatis vos strictos\
+45 Et vos, mortales, teneatis vos strictos\
 &emsp;Ad iudicandum; quia nos, qui videmus Deum,\
 &emsp;Non cognoscimus adhuc omnes electos;
 
-⁴⁶ Et ènne (²) dolce così facto scemo,\
+46 Et ènne (2) dolce così facto scemo,\
 &emsp;Perche 'l ben nostro in questo ben s'affina,\
 &emsp;Che quel che vuole Dio e noi volemo.
 
-⁴⁶ Et nobis est dulcis talis diminutio,\
+46 Et nobis est dulcis talis diminutio,\
 &emsp;Quia bonum nostrum in illo bono affinatur,\
 &emsp;Quia illud quod Deus vult et nos volumus.
 
-⁴⁷ Così da quella ymagine divina,\
+47 Così da quella ymagine divina,\
 &emsp;Per farmi chiara la mia corta vista,\
 &emsp;Data mi fu suave medicina.
 
-⁴⁷ Sic ab illa ymagine divina,\
+47 Sic ab illa ymagine divina,\
 &emsp;Propter faciendam michi claram meam curtam vistam,\
 &emsp;Data fuit michi suavis medicina.
 
-⁴⁸ E com' a buon cantor buon cytharista\
+48 E com' a buon cantor buon cytharista\
 &emsp;Fa seguitar lo guizzo de la corda,\
 &emsp;In che più di piacer lo canto acquista;
 
-⁴⁸ Et sicut bonus cantor, bonus citharista,\
+48 Et sicut bonus cantor, bonus citharista,\
 &emsp;Facit sequi motum corde,\
 &emsp;In quo plus complacentie cantus acquirit;
 
-⁴⁹ Sì, mentre che parlo, sì mi ricorda\
+49 Sì, mentre che parlo, sì mi ricorda\
 &emsp;Ch'io vidi le due luci benedecte,\
 &emsp;Pur come batter d'ochi si concorda,\
 &emsp;Con le parole muover le fiammette.
 
-⁴⁹ Sic, dum ego loquor, ego recordor\
+49 Sic, dum ego loquor, ego recordor\
 &emsp;Quod ego vidi ibi duas luces benedictas,\
 &emsp;Eo modo sicut motus oculorum concordat,\
 &emsp;Cum verbis movere flammulas.
 
-(¹) al. e però, o mortali — (²) è a noi.
+(1) al. e però, o mortali — (2) è a noi.
 
 Modo auctor hic exclamat (ista, que ponit hic auctor de Trayano, satis habentur in scriptis: illa, que dicit de Rypheo, nunquam inveni, nisi in quantum Virgilius dicit de ipso in secundo libro Eneydos; sed dicta Virgilii valent, quantum valere possunt: tamen quod hic dicit auctor de ipso Rypheo, satis est possibile, tum quia misericordia Dei plena est terra, tum quia ille fuit valde virtuosus, et quia predestinatio Dei est profundissima): O predestinatio, quantum remota est radix tua ab illis aspectibus, scilicet mortalium, qui primam causam non vident totam. Radix: idest fundamentum.
 

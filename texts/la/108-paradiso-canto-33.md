@@ -8,23 +8,23 @@ In isto ultimo capitulo, Paradisi scilicet tricesimotertio, et ultimo totius lib
 
 # Capitulum Tricesimumtertium
 
-¹ Vergine Madre, figla del tuo Figlo,\
-&emsp;Humile et alta più che creatura (¹),\
+1 Vergine Madre, figla del tuo Figlo,\
+&emsp;Humile et alta più che creatura (1),\
 &emsp;Termine fisso d'eterno consiglo,
 
-¹ Virgo Mater, Filia tui Filii,\
+1 Virgo Mater, Filia tui Filii,\
 &emsp;Humilis et alta plus quam creatura,\
 &emsp;Terminus fixus eterni consilii,
 
-² Tu se'colei che l'humana natura\
+2 Tu se'colei che l'humana natura\
 &emsp;Nobilitasti sì, che'l suo Factore\
 &emsp;Non si sdegnò di farsi sua factura.
 
-² Tu es illa que humanam naturam\
+2 Tu es illa que humanam naturam\
 &emsp;Nobilitasti ita, quod suus Factor\
 &emsp;Non est dedignatus facere se suam facturam.
 
-(¹) alcuna pura.
+(1) alcuna pura.
 
 Virgo Mater, filia tui Filii. Vergene Madre, figlia del tuo Figlio: istud est capitulum tricesimumtertium et ultimum istius Paradisi, et centesimum et ultimum totius libri, in quo auctor prosequitur orationem, quam Sanctus Bernardus in precedenti capitulo dixit se velle incipere. Et dividitur hoc capitulum in quatuor partes. In quarum prima auctor describit orationem Sancti Bernardi et eius petitionem.
 
@@ -50,47 +50,47 @@ Quantum ad primam partem, primo Sanctus Bernardus, orando, dicit multas laudes d
 
 <!-- p. 1205 (1259) -->
 
-³ Nel ventre tuo si raccese l'amore,\
+3 Nel ventre tuo si raccese l'amore,\
 &emsp;Per lo cui caldo nell'eterna pace\
-&emsp;Così è germinato questo fiore (¹).
+&emsp;Così è germinato questo fiore (1).
 
-³ In ventre tuo fuit reaccensus amor,\
+3 In ventre tuo fuit reaccensus amor,\
 &emsp;Propter cuius calorem in eterna pace\
 &emsp;Sic est germinatus iste flos.
 
-⁴ Qui se'a noi meridiana face\
+4 Qui se'a noi meridiana face\
 &emsp;Di carità, e giuso, intra mortali,\
 &emsp;Se'di speranza fontana vivace.
 
-⁴ Hic es nobis meridiana fax\
+4 Hic es nobis meridiana fax\
 &emsp;Caritatis, et infra, inter mortales,\
 &emsp;Es spei fons vivax.
 
-⁵ Donna, se' tanto grande, e tanto vali,\
+5 Donna, se' tanto grande, e tanto vali,\
 &emsp;Che qual vuol gratia, et a te non ricorre,\
 &emsp;Sua desianza vuol volar senz'hali.
 
-⁵ Domina, es tantum grandis, et tantum vales,\
+5 Domina, es tantum grandis, et tantum vales,\
 &emsp;Quod quicumque vult gratiam, et ad te non recurrit,\
 &emsp;Suum desiderium vult volare sine alis.
 
-⁶ La tua benignità non pur soccorre\
+6 La tua benignità non pur soccorre\
 &emsp;A chi domanda, ma molte fiate\
 &emsp;Liberamente al domandar precorre.
 
-⁶ Tua benignitas non solum succurrit\
+6 Tua benignitas non solum succurrit\
 &emsp;Illi qui petit, sed multis vicibus\
 &emsp;Liberaliter petitionem precurrit.
 
-⁷ In te è misericordia, in te pietate,\
-&emsp;In te magnificenza, in te s'aduna (²)\
-&emsp;Quantunque in creatura (³) è di bontate.
+7 In te è misericordia, in te pietate,\
+&emsp;In te magnificenza, in te s'aduna (2)\
+&emsp;Quantunque in creatura (3) è di bontate.
 
-⁷ In te misericordia, in te pietas,\
+7 In te misericordia, in te pietas,\
 &emsp;In te est magnificentia, in te adunatur\
 &emsp;Quantum in creatura est bonitas.
 
-(¹) rosa predecta e collegio de' Beati — (²) si raccogle insieme — (³) alcuna.
+(1) rosa predecta e collegio de' Beati — (2) si raccogle insieme — (3) alcuna.
 
 ventre, cooperante Spiritu Sancto, de tuo purissimo sanguine; humilis et alta, humilis in propria reputatione, alta super omnem creaturam apud alios plusquam creatura; terminus fixus eterni consilii (demum ponit auctor laudes de ipsa Virgine, et primo quod ipsa nobilitavit humanam naturam, quia coniunxit humanitatem divinitati, dum Virgo concepit Deum et hominem), tu es illa, que humanam [naturam] nobilitasti ita, idest in tantum, quod suus, idest ipsius nature, factor, scilicet Deus, non dedignatus est facere se suam facturam.
 
@@ -106,63 +106,63 @@ Adhuc ponitur alia laus, complectens omnes virtutes. In te est misericordia (mis
 
 <!-- p. 1206 (1260) -->
 
-⁸ Or questi (¹), che dall'infima lacuna (²)\
+8 Or questi (1), che dall'infima lacuna (2)\
 &emsp;Dell'universo infin qui ha vedute\
 &emsp;Le vite spiritali ad una ad una,
 
-⁸ Nunc iste, qui ab infima lacuna\
+8 Nunc iste, qui ab infima lacuna\
 &emsp;Universi usque huc vidit\
 &emsp;Vitas spirituales unam post aliam,
 
-⁹ Supplica a te per gratia di virtute\
+9 Supplica a te per gratia di virtute\
 &emsp;Tanto, che possa cogl'ochi levarsi\
 &emsp;Più alto verso l'ultima salute.
 
-⁹ Supplicat tibi humiliter pro gratia virtutis\
+9 Supplicat tibi humiliter pro gratia virtutis\
 &emsp;Tantum, quod possit cum oculis se elevare\
 &emsp;Altius versus ultimam salutem.
 
-¹⁰ Et io, che mai per mio veder (³) non arsi\
+10 Et io, che mai per mio veder (3) non arsi\
 &emsp;Più ch'i' fo per lo suo, tutti mie' preghi\
 &emsp;Ti porgo, e pregho che non sieno scarsi,
 
-¹⁰ Et ego, qui unquam pro meo videre non arsi\
+10 Et ego, qui unquam pro meo videre non arsi\
 &emsp;Plusquam ego facio pro suo, omnes meas preces\
 &emsp;Tibi porrigo, et deprecor quod non sint scarse,
 
-¹¹ Perchè tu ogni nube li disleghi\
+11 Perchè tu ogni nube li disleghi\
 &emsp;Di sua mortalità co' prieghi tuoi,\
 &emsp;Sì che'l sommo piacer li si dispieghi.
 
-¹¹ Ad hoc ut omnis nubes dissolvatur\
+11 Ad hoc ut omnis nubes dissolvatur\
 &emsp;Sue mortalitatis cum precibus tuis,\
 &emsp;Ita quod summa complacentia ei explicetur.
 
-¹² Ancor ti prego, o Regina, che puoi\
+12 Ancor ti prego, o Regina, che puoi\
 &emsp;Ciò che tu vuoli, che conservi sani\
 &emsp;Doppo tanto veder, gl'affecti suoi.
 
-¹² Adhuc te precor, o Regina, que potes\
+12 Adhuc te precor, o Regina, que potes\
 &emsp;Quidquid tu vis, quod conserves ei sanes,\
 &emsp;Post tantum videre, affectus suos.
 
-¹³ Vinca tua guardia e movimenti humani:\
+13 Vinca tua guardia e movimenti humani:\
 &emsp;Vedi Beatrice con quanti beati\
-&emsp;Per li miei preghi ti chiuden le mani (⁴).
+&emsp;Per li miei preghi ti chiuden le mani (4).
 
-¹³ Vincat tua misericordia motiones humanas:\
+13 Vincat tua misericordia motiones humanas:\
 &emsp;Videas Beatricem cum quot beatis\
 &emsp;Propter meas preces tibi claudit manus.
 
-¹⁴ Gl'ochi (⁵) da Dio dilecti e venerati,\
-&emsp;Fissi nell'orator (⁶), ne (⁷) dimostraro\
-&emsp;Quanto e devoti preghi le (⁸) son grati.
+14 Gl'ochi (5) da Dio dilecti e venerati,\
+&emsp;Fissi nell'orator (6), ne (7) dimostraro\
+&emsp;Quanto e devoti preghi le (8) son grati.
 
-¹⁴ Oculi Dei dilecti et venerati,\
+14 Oculi Dei dilecti et venerati,\
 &emsp;Fixi in oratione, nobis demonstrarunt\
 &emsp;Quantum devote preces sunt sibi grate.
 
-(¹) costui cioè Dante — (²) profondità dell' Inferno — (³) contemplar — (⁴) serrano supplicando con meco — (⁵) de la Vergine Maria — (⁶) Bernardo — (⁷) al. mi — (⁸) a lei.
+(1) costui cioè Dante — (2) profondità dell' Inferno — (3) contemplar — (4) serrano supplicando con meco — (5) de la Vergine Maria — (6) Bernardo — (7) al. mi — (8) a lei.
 
 dat, etc. Hec quinque sunt consideranda in omnibus actionibus virtutum moralium), in te pietas, in te est magnificentia (que est cum magnis expensis, muneribus et donis, quia magnificentia circa magnos sumptos). Modo complectitur omnia opera virtutum: in te adunatur quantum in creatura est bonitas: ut virginitas, que [est] in spiritibus lunaribus; activitas et eloquentia, que est in spiritibus mercurialibus; in te est amor et caritas, que sunt in spiritibus venereis, sapientia; etc. de omnibus actibus virtutum, quos habent omnes illi qui sunt in omnibus speris.
 
@@ -178,63 +178,63 @@ Oculi Dei dilecti. Gli occhi de Dio dilecti: hec est secunda pars huius capituli
 
 <!-- p. 1207 (1261) -->
 
-¹⁵ Indi (¹) all'eterno lume (²) si drizzaro (³),\
-&emsp;Nel quale non si de'creder che s'in[v]ii (⁴)\
-&emsp;Per creatura (⁵) l'ochio tanto chiaro.
+15 Indi (1) all'eterno lume (2) si drizzaro (3),\
+&emsp;Nel quale non si de'creder che s'in[v]ii (4)\
+&emsp;Per creatura (5) l'ochio tanto chiaro.
 
-¹⁵ Inde ad eternum lumen se direxerunt,\
+15 Inde ad eternum lumen se direxerunt,\
 &emsp;In quod non debet credi quod eatur\
 &emsp;Per creaturam oculo tantum claro.
 
-¹⁶ Et io ch'al fine (⁶) di tutti e desii\
-&emsp;Appropinquava, sì com'io doveva (⁷),\
+16 Et io ch'al fine (6) di tutti e desii\
+&emsp;Appropinquava, sì com'io doveva (7),\
 &emsp;L'ardor del desiderio in me finii.
 
-¹⁶ Et ego qui ad finem omnium meorum desideriorum\
+16 Et ego qui ad finem omnium meorum desideriorum\
 &emsp;Appropinquabam, sicut ego debebam,\
 &emsp;Ardorem desiderii in me finivi.
 
-¹⁷ Bernardo m'accennava, e sorrideva (⁸),\
+17 Bernardo m'accennava, e sorrideva (8),\
 &emsp;Perch'io guardassi in suso; ma io era\
-&emsp;Già per me stesso tal qual ei voleva (⁹);
+&emsp;Già per me stesso tal qual ei voleva (9);
 
-¹⁷ Bernardus michi annuebat, [et] subridebat,\
+17 Bernardus michi annuebat, [et] subridebat,\
 &emsp;Ut ego respicerem sursum; sed ego eram\
 &emsp;Iam per me ipsum talis, qualem ille me volebat esse;
 
-¹⁸ Chè la mia vista, venendo sincera,\
+18 Chè la mia vista, venendo sincera,\
 &emsp;E più e più entrava per lo raggio\
 &emsp;Dell'alta luce, che da sè è vera.
 
-¹⁸ Quia visio mea, deveniendo sincera,\
+18 Quia visio mea, deveniendo sincera,\
 &emsp;Magis ac magis intrabat per radium\
 &emsp;Alte lucis, que a se est vera.
 
-¹⁹ Da quinci innanzi el mio veder fu maggio\
+19 Da quinci innanzi el mio veder fu maggio\
 &emsp;Che'l parlar mostra, ch'a tal vista cede,\
-&emsp;E cede la memoria a tant'oltraggio (¹⁰).
+&emsp;E cede la memoria a tant'oltraggio (10).
 
-¹⁹ Ab hinc in antea meum videre fuit maius\
+19 Ab hinc in antea meum videre fuit maius\
 &emsp;Quam sermo monstret, qui tali viste cedit,\
 &emsp;Et cedit memoria tanto excessui.
 
-²⁰ Qual è colui che sognando vede,\
+20 Qual è colui che sognando vede,\
 &emsp;E doppo'l sogno la passion impressa\
 &emsp;Rimane, e l'altro a la mente non riede;
 
-²⁰ Qualis est ille qui sompniando videt,\
+20 Qualis est ille qui sompniando videt,\
 &emsp;Et post sompnum passio impressa\
 &emsp;Remanet, et aliud a[d] mentem non reddit;
 
-²¹ Cotal son io, che quasi tutta cessa\
+21 Cotal son io, che quasi tutta cessa\
 &emsp;Mia vision, et ancor mi distilla\
 &emsp;Nel cuor 'l dolce che nacque da essa.
 
-²¹ Talis sum ego, quia tota cessat\
+21 Talis sum ego, quia tota cessat\
 &emsp;Mea visio, et adhuc michi instillat\
 &emsp;In corde dulce quod ab ipsa ortum fuit.
 
-(¹) da Bernardo — (²) a Dio — (³) gl'ochi di Maria — (⁴) s'intrometta — (⁵) altra alcuna — (⁶) a Dio — (⁷) al. vea — (⁸) al. dea — (⁹) al. lea — (¹⁰) oltra veder ch'io ebbi.
+(1) da Bernardo — (2) a Dio — (3) gl'ochi di Maria — (4) s'intrometta — (5) altra alcuna — (6) a Dio — (7) al. vea — (8) al. dea — (9) al. lea — (10) oltra veder ch'io ebbi.
 
 auxilio Virginis gloriose Dantes venit ad videndum Deum. Et quia Virgo Maria, loquente sic Bernardo, tenebat oculos fixos ad Bernardum et ad me, fuit hoc nobis signum exauditionis precum porrectarum. Oculi Dei (quia oculi Virginis Marie possunt dici oculi Dei, possessive), dilecti et venerati (quia oculi Virginis sunt venerabiles), fixi, idest fixe intuentes nos in oratione (dicit hic auctor Bernardum oratorem et merito, tum quia fuit optimus rethoricus, tum quia tunc precabatur et orabat ad Virginem), nobis demonstrarunt quantum devote preces sibi sunt grate. Idest, per hoc datur intelligi, quod Virgo volebat exaudire preces illas.
 
@@ -250,39 +250,39 @@ Quantus est Deus, et qualis sit sua memoria, vult ostendere per talem comparatio
 
 <!-- p. 1208 (1262) -->
 
-²² Così la neve al sol si disigilla,\
+22 Così la neve al sol si disigilla,\
 &emsp;Così al vento nelle fogle lievi\
-&emsp;Si perdea la sententia di Sybilla (¹).
+&emsp;Si perdea la sententia di Sybilla (1).
 
-²² Sicut nix ad solem liquefit,\
+22 Sicut nix ad solem liquefit,\
 &emsp;Sicut ad ventum in foliis levibus\
 &emsp;Sic perdebatur sententia Sibille.
 
-²³ O somma luce, che tanto ti lievi\
+23 O somma luce, che tanto ti lievi\
 &emsp;Da concepti mortal, a la mia mente\
 &emsp;Ripresta un poco di quel che parevi;
 
-²³ O summa lux, que tantum te ellevas\
+23 O summa lux, que tantum te ellevas\
 &emsp;A conceptibus mortalium, mee menti\
 &emsp;Iterum presta unum modicum de illo quod apparebas;
 
-²⁴ E fa'la lingua mia tanto possente,\
-&emsp;Ch'una favilla (²) sol de la tua gloria\
+24 E fa'la lingua mia tanto possente,\
+&emsp;Ch'una favilla (2) sol de la tua gloria\
 &emsp;Possa lassar alla futura gente;
 
-²⁴ Et facias linguam meam tantum potentem,\
+24 Et facias linguam meam tantum potentem,\
 &emsp;Quod unam favillam solum tue glorie\
 &emsp;Possim dimictere future genti;
 
-²⁵ Chè, per tornar alquanto a mia memoria,\
+25 Chè, per tornar alquanto a mia memoria,\
 &emsp;E per sonar un poco in questi versi,\
 &emsp;Più si conceperà di tua victoria.
 
-²⁵ Quia, propter redire aliquantulum ad meam memoriam,\
+25 Quia, propter redire aliquantulum ad meam memoriam,\
 &emsp;Et propter sonare aliquantulum in istis versibus,\
 &emsp;Plus concipietur de tua victoria.
 
-(¹) Chumea — (²) scintilla.
+(1) Chumea — (2) scintilla.
 
 recordor) tanto ultragio, idest eccessui. Qualis est ille, qui sompniando videt, et post sompnium passio impressa remanet, et aliud ad mentem non redit (idest recordatur se sompniasse, sed nullus illorum recordatur), talis sum ego. Optima comparatio: nam ista descriptio fuit tota una visio, ut ipse ostendit alibi, idest in Inferno. Nam multi habent mirabilia sompnia, et aliqui bene recordantur omnium; aliqui nisi in confuso; aliqui minime; aliqui gaudent in sompniis; aliqui tristantur. Scribit enim Rasis, magnus medicus, in quodam suo libro de medicina, qui dicitur Totum continens, quod semel quidam ivit ad eum, dicens: Succurre michi, quia male sto. Cui Rasis: Quid habes? Cui ille: Ego sepissime sompnio mirabilia, scilicet esse cum Deo, loqui cum ipso, videre angelos. Cui dixit Rasis: Hoc non provenit ex spiritu melancolico, imo hec [est] visio philosophica, que nedum est removenda, imo, si fieri posset, deberet augeri. Cur de hoc tristaris? Non debeo tibi dare remedium contra hoc. Talis fuit visio Dantis, etc. Talis fui ego, quia quasi tota cessat mea visio, et adhuc michi [di]stillat in corde dulce, idest dulcedinem, quod, scilicet dulce, ab ipsa, scilicet visione, ortum fuit. Idest, illa visio dedit michi delectationem gratissimam, que adhuc gratam consolationem michi reddit. Distillat: idest, dat dulcedinem.
 
@@ -296,55 +296,55 @@ O lector, tu vis videre bene, si in hac oratione auctor fuit bene exauditus, sci
 
 <!-- p. 1209 (1263) -->
 
-²⁶ Io credo, per l'acume ch'io soffersi\
+26 Io credo, per l'acume ch'io soffersi\
 &emsp;Del vivo raggio, ch'io sarei smarrito,\
 &emsp;Se gl'ochi miei da lui fusser aversi.
 
-²⁶ Ego credo, quod propter acumen quod ego sustuli\
+26 Ego credo, quod propter acumen quod ego sustuli\
 &emsp;Vivi radii, ego fuissem territus,\
 &emsp;Si oculi mei ab ipso fuissent adversi.
 
-²⁷ E mi ricorda ch'io fui più ardito\
-&emsp;Per questo a sostener tanto, ch'io vinsi (¹)\
-&emsp;L'aspecto mio col valor infinito (²).
+27 E mi ricorda ch'io fui più ardito\
+&emsp;Per questo a sostener tanto, ch'io vinsi (1)\
+&emsp;L'aspecto mio col valor infinito (2).
 
-²⁷ Ego recordor quod ego fui audacior\
+27 Ego recordor quod ego fui audacior\
 &emsp;Propter hoc ad substinendum tantum, quod ego coniunxi\
 &emsp;Aspectum meum cum valore infinito.
 
-²⁸ O abbondante gratia, ond'io presumpsi\
+28 O abbondante gratia, ond'io presumpsi\
 &emsp;Ficcar lo viso per la luce eterna,\
 &emsp;Tanto che la veduta vi consumpsi!
 
-²⁸ Oh habundans gratia, unde ego presumpsi\
+28 Oh habundans gratia, unde ego presumpsi\
 &emsp;Figere visum per lucem eternam,\
 &emsp;Tantum quod intuitum meum ego consumpsi!
 
-²⁹ Nel suo profondo vid'io che s'interna,\
+29 Nel suo profondo vid'io che s'interna,\
 &emsp;Legato con amor in un volume,\
 &emsp;Ciò che per l'universo si squaderna;
 
-²⁹ In suo profundo vidi ego quidquid internatur,\
+29 In suo profundo vidi ego quidquid internatur,\
 &emsp;Ligatum cum amore in uno volumine,\
 &emsp;Omne quod per universum extenditur;
 
-³⁰ Substantie et accidenti, e lor costume,\
+30 Substantie et accidenti, e lor costume,\
 &emsp;Quasi conflati insieme per tal modo,\
 &emsp;Che ciò ch'io dico è un semplice lume.
 
-³⁰ Substantie et accidentia, et eorum mores,\
+30 Substantie et accidentia, et eorum mores,\
 &emsp;Quasi conflata invicem per talem modum,\
 &emsp;Quod id quod ego dico est unum simplex lumen.
 
-³¹ La forma universal di questo nodo\
+31 La forma universal di questo nodo\
 &emsp;Credo ch'io vidi; perchè più di largo,\
 &emsp;Dicendo questo, mi sento ch'io ghodo.
 
-³¹ Formam universalem istius nodi\
+31 Formam universalem istius nodi\
 &emsp;Credo quod ego vidi; ex quo magis large,\
 &emsp;Dicendo istud, sentio quod ego gaudeo.
 
-(¹) congiunxi — (²) di Dio.
+(1) congiunxi — (2) di Dio.
 
 modus: fuisset enim unum trufum quidquid fecissent. Interdum mutaverunt domum, et iverunt ad habitandum aliam domum; et de libri incomplectione tristabantur nimis. Accidit quod habitantes in alia domo, Iacobus, filius auctoris, sompniavit una nocte, quod Dantes pater suus apparebat sibi albis indutus, totus candidus, et letus cum magno gaudio, et dicebat quod erat in gloria Dei. Et tunc dixit in sompniis filius suus Iacobus: O pater, ubi est tuum imperfectum opus? Et pater respondit ei: Fili, opus meum est perfectum; ideo quere in prima domo, ubi habitabamus quando eram vobiscum, et invenies completum libri, scilicet tredecim ultima capitula. Qui expergefactus a sompno, ipse Iacobus dixit fratri suo Petro: Sic et sic sompniavi. Petrus germanus trufatus est de sompnio. Dixit Iacobus: Subito de mane volo ire ad domum pro illo fine, et perquirere de fine et complemento istius operis. Tunc, facto mane, ambo iverunt ad illam domum; et perquirentes in multis locis, non invenerunt. Dixit Iacobus: Oportet perquirere omnia, quia indubie puto quod inveniemus: non sine causa habui istam visionem. Tunc iste Iacobus intravit sub lectum in quo solebat dormire Dantes, et in quadam fenestra post lectum reperit multas cedulas ligatas, que iam quasi incipiebant corrumpi; et erant omnia que continentur in tredecim ultimis capitulis istius Paradisi, cum litteris abbaci et abbaco; et breviter, cum magno labore reduxerunt opus ad perfectum finem. Ecce si Deus voluit quod istud opus esset ad profectum genti, future genti, et quod istud opus veniret ad lucem; quia quasi miraculose habitum fuit totum.
 
@@ -360,47 +360,47 @@ Formam universalem istius nodi credo quod ego vidi (nodi in quo sunt ligati in m
 
 <!-- p. 1210 (1264) -->
 
-³² Un punto solo m'è maggior letargo,\
+32 Un punto solo m'è maggior letargo,\
 &emsp;Che venticinque secoli all'impresa,\
-&emsp;Che fe'Neptuno a mirar l'ombra d'Argo (¹).
+&emsp;Che fe'Neptuno a mirar l'ombra d'Argo (1).
 
-³² Unus punctus solus est michi maior lethargus,\
+32 Unus punctus solus est michi maior lethargus,\
 &emsp;Quam vigintiquinque secula ad impressam,\
 &emsp;Quam fecit Netumpnus ad respiciendum oculos Argi.
 
-³³ Così la mente mia, tutta sospesa,\
+33 Così la mente mia, tutta sospesa,\
 &emsp;Mirava fixa immobile et attenta,\
 &emsp;E sempre di mirar faceasi accesa.
 
-³³ Sic mens mea, tota suspensa,\
+33 Sic mens mea, tota suspensa,\
 &emsp;Respiciebat fixe immobilis et actenta,\
 &emsp;Et semper ad respiciendum afficiebatur accensa.
 
-³⁴ A quella luce cotal si diventa,\
+34 A quella luce cotal si diventa,\
 &emsp;Che volgersi da lei per altro aspecto\
 &emsp;È impossibil che mai si consenta;
 
-³⁴ Ad illam lucem talis quilibet efficitur,\
+34 Ad illam lucem talis quilibet efficitur,\
 &emsp;Quia advertere se ab illa propter alium aspectum\
 &emsp;Est impossibile quod unquam consentiatur;
 
-³⁵ Però che 'l bene, ch'è del voler obiecto,\
+35 Però che 'l bene, ch'è del voler obiecto,\
 &emsp;Tutto s'accogle in lei, e fuor di quella\
 &emsp;È defectivo ciò ch'è lì perfecto.
 
-³⁵ Eo quia bonum, quod est voluntatis obiectum,\
+35 Eo quia bonum, quod est voluntatis obiectum,\
 &emsp;Totum colligitur in ea, et extra illam\
 &emsp;Est defectivum quidquid ibi est perfectum.
 
-³⁶ Omai sarà più corta mia favella,\
+36 Omai sarà più corta mia favella,\
 &emsp;Pur a quel ch'io ricordo, che d'un fante\
 &emsp;Che bagni ancor la lingua a la mammella.
 
-³⁶ Ammodo erit brevior mea loquela,\
+36 Ammodo erit brevior mea loquela,\
 &emsp;Solum ad illud quod ego recordor, quam unius infantis\
 &emsp;Qui balneet adhuc linguam mamille.
 
-(¹) nave prima.
+(1) nave prima.
 
 est idea, idest species, omnium rerum creabilium et possibilium); ex quo magis large, dicendo istud, scilicet sic, sentio quod ego gaudeo. Idest, loquendo large, non magis stringendo me, ego sentio me gaudio repletum.
 
@@ -414,35 +414,35 @@ Ammodo erit brevior mea loquela, solum ad illud quod ego recordor, quam unius in
 
 <!-- p. 1211 (1265) -->
 
-³⁷ Non perchè più ch'un semplice sembiante\
+37 Non perchè più ch'un semplice sembiante\
 &emsp;Fusse nel vivo lume ch'io mirava,\
 &emsp;Chè tal è sempre qual s'era davante;
 
-³⁷ Non quia plusquam una simplex apparentia\
+37 Non quia plusquam una simplex apparentia\
 &emsp;Esset in vivo lumine quod ego respiciebam,\
 &emsp;Quod tale est semper quale fuit ante;
 
-³⁸ Ma per la vista che savvalorava\
+38 Ma per la vista che savvalorava\
 &emsp;In me, guardando, una sola parvenza,\
 &emsp;Mutandom'io, a me si travaglava:
 
-³⁸ Sed propter visionem que valorabatur\
+38 Sed propter visionem que valorabatur\
 &emsp;In me, respiciendo, unam solam apparentiam,\
 &emsp;Mutans ego me, michi transmutabatur:
 
-³⁹ Nella profonda e chiara subsistenza\
+39 Nella profonda e chiara subsistenza\
 &emsp;Dell'alto lume parvemi tre giri\
 &emsp;Di tre colori e d'una contenenza;
 
-³⁹ In profunda et clara subsistentia\
+39 In profunda et clara subsistentia\
 &emsp;Alti luminis apparuerunt michi tres gyri\
 &emsp;Trium colorum et unius continentie;
 
-⁴⁰ E l'un dall'altro, come yr da yri,\
+40 E l'un dall'altro, come yr da yri,\
 &emsp;Parea reflexo, e 'l terzo parea foco\
 &emsp;Che quinci e quindi equalmente s'aspiri.
 
-⁴⁰ Et unus ab alio, sicut yris ab yride,\
+40 Et unus ab alio, sicut yris ab yride,\
 &emsp;Apparebat reflexus, et tertius apparebat ignis\
 &emsp;Qui hinc et inde equaliter spiretur.
 
@@ -454,39 +454,39 @@ In profunda et clara subsistentia. Nella chiara et profonda sussistenza: hec est
 
 <!-- p. 1212 (1266) -->
 
-⁴¹ O quant'è corto 'l dir, e quant' (¹) è fioco\
+41 O quant'è corto 'l dir, e quant' (1) è fioco\
 &emsp;Al mio concepto! e quest'a quel ch'io vidi,\
 &emsp;E tanto, che non basta a dicer poco.
 
-⁴¹ O quantum breve est dicere, et quomodo est raucum\
+41 O quantum breve est dicere, et quomodo est raucum\
 &emsp;Meo conceptui! et hoc, ad aliud quod vidi,\
 &emsp;Est tantum, quod non sufficit ad dicenduum parum.
 
-⁴² O luce eterna, che sola in te sidi,\
+42 O luce eterna, che sola in te sidi,\
 &emsp;Sola t'intendi, e da te intellecta\
 &emsp;Et intendente te a me arridi!
 
-⁴² O lux eterna, que sola in te sedes,\
+42 O lux eterna, que sola in te sedes,\
 &emsp;Sola te intelligis, et a te intellecta\
 &emsp;Et intelligens te michi arrides!
 
-⁴³ Quella circulation, che sì concepta\
+43 Quella circulation, che sì concepta\
 &emsp;Parea in te, come lume reflesso,\
 &emsp;Dagl'ochi miei alquanto circumspecta,
 
-⁴³ Illa circulatio, que est sic concepta\
+43 Illa circulatio, que est sic concepta\
 &emsp;Apparebat in te, sicut lumen reflexum,\
 &emsp;Ab oculis meis aliquantulum circumspecta;
 
-⁴⁴ Dentro da sè del suo colore stesso\
+44 Dentro da sè del suo colore stesso\
 &emsp;Mi parve pincta de la nostra effige:\
 &emsp;Perchè 'l mio viso in lei tutt'era messo.
 
-⁴⁴ Intra se a suo colore eodem\
+44 Intra se a suo colore eodem\
 &emsp;Michi apparebat picta de nostra ymagine:\
 &emsp;Ex quo meus visus in eam totus erat fixus.
 
-(¹) al. e com'è.
+(1) al. e com'è.
 
 quia illa humanitas non est unita in unitate suppositi nisi solummodo Filio Dei, ut qui est eternaliter Filius in divinitate, temporaliter sit Filius in humanitate; in quo Filio Dei humanato auctor figebat visum et ibi fixe intuebatur, nec poterat inde revolvere oculos, nec advertere, sed fixos in illa humanitate tenebat oculos, et accidebat sibi in tenendo fixos oculos in Trinitate, et maxime in persona humanata, se non posse advertere oculos ab illa. Sicut accidebat Archimenidi, qui tam fixe respiciebat in circulo quem volebat quadrare, quod permisit se interfici, stans ita occupatus, in respiciendo in circulo.
 
@@ -500,41 +500,41 @@ Illa circulatio (scilicet Sanctissima Trinitas trium personarum et unius essenti
 
 <!-- p. 1213 (1267) -->
 
-⁴⁵ Qual geometra che tutto s'affige\
+45 Qual geometra che tutto s'affige\
 &emsp;Per misurar lo cerchio, e non ritrova,\
 &emsp;Pensando, quel principio ond'elli indige;
 
-⁴⁵ Qualis geometra qui totum se fixerat\
+45 Qualis geometra qui totum se fixerat\
 &emsp;Pro mensurando circulo, et non invenit,\
 &emsp;Cogitando, illud principium unde indiget;
 
-⁴⁶ Tal era io a quella vista nova:\
+46 Tal era io a quella vista nova:\
 &emsp;Veder voleva, come si convenne\
 &emsp;L'ymago al cerchio, e come vi s'indova;
 
-⁴⁶ Talis eram ego ad illam vistam novam:\
+46 Talis eram ego ad illam vistam novam:\
 &emsp;Videre volebam, quomodo convenit\
 &emsp;Ymago ad circulum, et quomodo est ibi locus;
 
-⁴⁷ Ma non eran da ciò le proprie penne:\
+47 Ma non eran da ciò le proprie penne:\
 &emsp;Se non che la mia mente fu percossa\
 &emsp;Da un fulgore, in che sua vogla venne.
 
-⁴⁷ Sed non erant ad hoc proprie penne:\
+47 Sed non erant ad hoc proprie penne:\
 &emsp;Nisi mea mens fuit percussa\
 &emsp;Ab uno fulgore, in quem sua voluntas venit.
 
-⁴⁸ All'alta fantasia qui mancò possa:\
+48 All'alta fantasia qui mancò possa:\
 &emsp;Ma già volgea el mio desio e'l velle,\
-&emsp;Sì come rota ch'ugualmente (¹) è mossa,\
+&emsp;Sì come rota ch'ugualmente (1) è mossa,\
 &emsp;Amor che muove 'l cielo e l'altre stelle.
 
-⁴⁸ Alte phantasie hic defecit posse;\
+48 Alte phantasie hic defecit posse;\
 &emsp;Sed iam involvebat meum velle, [divinum] velle,\
 &emsp;Sicut rota que equaliter movetur,\
 &emsp;Amor qui movet solem et alias stellas.
 
-(¹) al. ch'equalmente.
+(1) al. ch'equalmente.
 
 in conceptu mentis apprehensa; sic, idest exili modo) apparebat in te, sicut lumen reflexum (propter productionem Filii et Spiritus Sancti), ab oculis meis aliqualiter circumspecta (idest exiliter, ut dictum est) intra se, divinitate, a suo colore eodem, idest a Filio, michi apparebat picta, idest vestita, de nostra imagine, idest humanitate, sive effigie humana: ex quo, idest quare, meus visus, oculus scilicet intellectus, in eam, scilicet humanitatem, totus erat fixus; idest, totaliter eram actentus ad illam humanitatem tunc, quia michi facilius erat intueri in humanitate et ipsam intelligere, quam divinitatem.
 
@@ -554,16 +554,16 @@ Et sic est finis.
 
 FINIT FELICITER TOTUM OPUS 1480.
 
-Qui scripsit scribat, semper cum lumine (¹) vivat:\
+Qui scripsit scribat, semper cum lumine (1) vivat:\
 Vivat et hic felix, ceu multo tempore fenix:\
 Hinc videat Chrystum, qui librum scripserit istum.\
 Qui legit hoc carmen, lector respondeat amen.\
-Scripsit, summe Deus (²), tibi supplex Bartholomeus\
+Scripsit, summe Deus (2), tibi supplex Bartholomeus\
 Collensis, minimus Minimorum servus et imus;\
 Chrysti sectator, Francisci lentus amator,\
 Qui me per Chrystum mundum commovit in istum.
 
-(¹) i. Deo, qui est lux vera — (²) ad tui laudem et honorem.
+(1) i. Deo, qui est lux vera — (2) ad tui laudem et honorem.
 
 [CONCLUSIO TRASLATIONIS LIBRI DANTIS]
 

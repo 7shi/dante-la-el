@@ -8,23 +8,23 @@ In isto quinto capitulo, quod incipit: Iam ego ab illis umbris recesseram, aucto
 
 # Capitulum Quintum
 
-¹ Io ero già da quell'ombre partito,\
+1 Io ero già da quell'ombre partito,\
 &emsp;E seguitava l'orme del mio duca,\
-&emsp;Quando dirieto a me drizzò (¹) el dito
+&emsp;Quando dirieto a me drizzò (1) el dito
 
-¹ Ego iam ab illis umbris recesseram,\
+1 Ego iam ab illis umbris recesseram,\
 &emsp;Et sequebar vestigia mei ducis,\
 &emsp;Quando retro me, dirigendo digitum,
 
-² Una, gridò: Ve' (²), che non par che luca\
+2 Una, gridò: Ve' (2), che non par che luca\
 &emsp;Lo raggio da sinistra a quel di sotto,\
 &emsp;E come vivo par che si conduca.
 
-² Una clamavit: Vide, quod non apparet quod luceat\
+2 Una clamavit: Vide, quod non apparet quod luceat\
 &emsp;Radius ad sinistram illius inferioris,\
 &emsp;Et tamquam vivus apparet quod se conducat.
 
-(¹) al. drizzando — (²) vedi.
+(1) al. drizzando — (2) vedi.
 
 Ego iam ab illis umbris recesseram. Io era già da quelle ombre partito: istud est quintum capitulum huius Purgatorii, in quo auctor tractat de quarta specie negligentie et pigritie illorum, qui neglexerunt et tardaverunt penitentiam usque ad mortem, occupati in armis, et qui fuerunt preuenti morte; quos tamen in morte penituit omnium suorum peccatorum. Et dividitur in quatuor partes. In quarum prima iterum auctor tangit aliquid de conditione ipsarum predictarum, continuando dicta dicendis. In secunda parte, que incipit ibi:
 
@@ -48,55 +48,55 @@ Primo igitur auctor, continuans dicta dicendis, dicit: Ego iam ab illis umbris r
 
 <!-- p. 481 (0535) -->
 
-³ E l'ochi rivolsi al suon di questo motto,\
+3 E l'ochi rivolsi al suon di questo motto,\
 &emsp;E vidile guardar per maravigla\
 &emsp;Pur me, pur me, e 'l lume ch'era rotto.
 
-³ Oculos revolvi ad sonum illius mocti,\
+3 Oculos revolvi ad sonum illius mocti,\
 &emsp;Et vidi illam respicere propter admirationem\
 &emsp;Solum me, solum me, et lumen quod erat ruptum.
 
-⁴ Perchè l'animo tuo tanto s'impigla,\
+4 Perchè l'animo tuo tanto s'impigla,\
 &emsp;Disse 'l maestro, che l'andare allenti?\
 &emsp;Che ti fa ciò che quivi si pispigla?
 
-⁴ Quare animus tuus tantum implicatur,\
+4 Quare animus tuus tantum implicatur,\
 &emsp;Dixit magister, quod iter alentas?\
 &emsp;Quid facit tibi id quod ibi s'impispiliat?
 
-⁵ Vien dietro a me, e lassa dir le genti;\
-&emsp;Sta'fermo (¹), come torre, che non crolla\
-&emsp;Giammai la (²) cima per soffiar de' venti.
+5 Vien dietro a me, e lassa dir le genti;\
+&emsp;Sta'fermo (1), come torre, che non crolla\
+&emsp;Giammai la (2) cima per soffiar de' venti.
 
-⁵ Veni retro me, et permicte dicere gentes;\
+5 Veni retro me, et permicte dicere gentes;\
 &emsp;Stes sicut turris firma, que non crollat\
 &emsp;Unquam summitatem propter sufflacionem ventorum.
 
-⁶ Chè sempre l'huom, in cui pensier rampolla\
+6 Chè sempre l'huom, in cui pensier rampolla\
 &emsp;Sovra pensier, da sè dilunga el segno,\
 &emsp;Perchè la foga l'un dell'altro insolla.
 
-⁶ Quia semper homo, in quo cogitamina rampollant\
+6 Quia semper homo, in quo cogitamina rampollant\
 &emsp;Supra cogitationes, a se longinquat signum,\
 &emsp;Quia foga unum a reliquo insollat.
 
-⁷ Che poteva io dir, se non: Io vegno?\
-&emsp;Dissilo, alquanto del color (³) consperso\
+7 Che poteva io dir, se non: Io vegno?\
+&emsp;Dissilo, alquanto del color (3) consperso\
 &emsp;Che fa l'uom di perdon talvolta degno.
 
-⁷ Quid poteram ego dicere, nisi: Ego venio?\
+7 Quid poteram ego dicere, nisi: Ego venio?\
 &emsp;Dixi illud, aliquantulum de colore conspersus\
 &emsp;Qui facit hominem de remissionem aliquando dignum.
 
-⁸ Intanto per la costa da traverso\
+8 Intanto per la costa da traverso\
 &emsp;Venian genti innanzi a noi um poco,\
 &emsp;Cantando Miserere a verso a verso.
 
-⁸ Et interim per montem ex transverso\
+8 Et interim per montem ex transverso\
 &emsp;Veniebant gentes ante nos aliquantulum,\
 &emsp;Cantando Miserere, miserere, ad versum ad versum.
 
-(¹) in proposito — (²) al. suo. — (³) rosso.
+(1) in proposito — (2) al. suo. — (3) rosso.
 
 Oculos revolvi ad sonum istius mocti, idest iocosi verbi, et vidi illam respicere, propter admirationem, solum me, solum me, et lumen, quod erat, idest radium solis, ruptum propter umbram. Nota quod ita contingebat auctori in vita presenti, quod omnes mirabantur de ipso propter scientiam suam, et quando ibat ad aliquam civitatem, omnes intuebantur eum et omnes eum digito monstrabant, et omnes laudabant eum et glorificabant eum. Unde aliqua vanagloria motus est, propter quam vanam gloriam Virgilius reprehendit eum sic dicens: Quare animus tuus tantum s'impigliat, idest implicatur, dixit magister, quod iter alentas, idest retardas? Quid facit tibi id quod ibi impispigliat, idest murmuratur? Impispigliare est obscure et confuse loqui, ita quod non possit bene intelligi. Quasi dicat Virgilius: Quando tu debes simpliciter ire ad virtutem, idest ad agendum virtuose, non debes vacare laudibus vanitatis, et curis vulgi. Idest: Quid prodest tibi, eunti ad virtuose agendum, illa murmuratio, sive ille laudes vulgares? Quasi dicat: Nihil prodest. Dicit Augustinus, de Civitate Dei: Virtutes habenti magna virtus est spernere gloriam. Et Titus in simili casu: Gloriam qui spreverat, veram gloriam adeptus est. Et sunt verba ad Paulum Emilium. Sed Persius videtur aliud dicere, dum inquit: Scire tuum, scire nihil est, nisi te scire hoc sciat alter; at [pulchrum est] digito monstrari et dicier: Hic est. Dicendum est quod Persius, sic dicens, loquitur ironice, scilicet de illis loquendo, qui querunt virtutes propter vanam gloriam. Proculdubio, in rei veritate, gloria sequitur sapientem, fugientem ipsam. Nemo debet querere gloriam a vulgo, quia vulgus signorat perfectionem, etc. Dicit Ieronimus, quod popularis aura est vile mancipium.
 
@@ -110,63 +110,63 @@ Et interim per montem ex transverso. Et intanto per la costa di traverso: ista e
 
 <!-- p. 482 (0536) -->
 
-⁹ Quando s'accorser ch'io non dava loco,\
+9 Quando s'accorser ch'io non dava loco,\
 &emsp;Per lo mio corpo, al trapassar de' raggi,\
 &emsp;Mutar el canto in un O lungo e roco;
 
-⁹ Quando perpenderunt quod ego non dabam locum,\
+9 Quando perpenderunt quod ego non dabam locum,\
 &emsp;Propter meum corpus, transitui radiorum,\
 &emsp;Mutaverunt eorum cantum in unum O longum et raucum;
 
-¹⁰ E due di loro in forma di messaggi\
+10 E due di loro in forma di messaggi\
 &emsp;Corsero inverso noi, e dimandarne:\
 &emsp;Di vostra condition fatene saggi.
 
-¹⁰ Et duo de ipsis in formam nunciorum\
+10 Et duo de ipsis in formam nunciorum\
 &emsp;Cucurrerunt contra nos, et interrogaverunt nos:\
 &emsp;De vestra conditione faciatis nos scientes.
 
-¹¹ E il mio maestro: Voi potete andarne,\
-&emsp;E ritrar (¹) a color che vi mandaro,\
+11 E il mio maestro: Voi potete andarne,\
+&emsp;E ritrar (1) a color che vi mandaro,\
 &emsp;Che 'l corpo di costui è vera carne.
 
-¹¹ Et magister meus: Vos potestis ire,\
+11 Et magister meus: Vos potestis ire,\
 &emsp;Et retrahere illis qui vos miserunt,\
 &emsp;Quod corpus istius est vera caro.
 
-¹² Se per veder la sua ombra restaro,\
+12 Se per veder la sua ombra restaro,\
 &emsp;Com'io avviso, assai è lor risposto:\
 &emsp;Fàccianli honor, et esser può lor caro.
 
-¹² Si propter videre suam umbram restiterunt,\
+12 Si propter videre suam umbram restiterunt,\
 &emsp;Sicut ego ymaginor, satis est eis responsum:\
 &emsp;Faciant sibi honorem, et esse potest eis carum.
 
-¹³ Vapori accesi non vid'io sì tosto\
+13 Vapori accesi non vid'io sì tosto\
 &emsp;Di mezza nocte mai fender sereno,\
 &emsp;Nè, sol calando, nuvole d'agosto,
 
-¹³ Vapores incensos non vidi ego ita cito\
+13 Vapores incensos non vidi ego ita cito\
 &emsp;In media nocte unquam findere serenum,\
 &emsp;Non solem descendentes nubes in augusto,
 
-¹⁴ Che color non tornasser suso in meno,\
+14 Che color non tornasser suso in meno,\
 &emsp;E giunti là, cogl' altri a noi dier volta,\
 &emsp;Come schiera che scorre senza freno.
 
-¹⁴ Quod illi non redirent sursum in minus,\
+14 Quod illi non redirent sursum in minus,\
 &emsp;Et postquam pervenerunt, cum aliis ad nos se converterunt,\
 &emsp;Sicut acies que currit sine freno.
 
-¹⁵ Questa gente, che viene (²) a noi, è molta,\
+15 Questa gente, che viene (2) a noi, è molta,\
 &emsp;E vengont'a pregar, disse 'l poeta;\
-&emsp;Però pur va' (³), e domandando ascolta.
+&emsp;Però pur va' (3), e domandando ascolta.
 
-¹⁵ Hec gens que ad nos premit, est multa,\
+15 Hec gens que ad nos premit, est multa,\
 &emsp;Et veniunt ad precandum te, dixit Poeta;\
 &emsp;Ideo nihilominus vade, et sic eundo ausculta.
 
-(¹) al. ridir. — (²) al. prieme — (³) al. tu.
+(1) al. ridir. — (2) al. prieme — (3) al. tu.
 
 in qua auctor tangit in generali de quarta specie, etc. Et interim, idest interdum, per montem ex transverso veniebant gentes ante nos aliquantulum, cantando Miserere, idest illum psalmum, ad versum ad versum, idest alternatim. Isti non veniebant per viam rectam, ubi erat auctor, sed ibant vagando, non habentes libertatem reperire ostium Purgatorii, et cantabant illum psalmum, quem fecit David quando commisit tam grande peccatum, tripartitum in proditionem, adulterium et homicidium, quando abusus fuit Bersabee, uxore Urie. Facto isto, et dicto psalmo, terra evomit David a se, in qua se quasi sepelierat ipse David. Quod [fuit signum] declarans, [quod Deus] misertus erat ipsi David. In secundo libro Regum.
 
@@ -182,63 +182,63 @@ Hec gens que ad nos premit, est multa, et veniunt ad precandum te, dixit Poeta: 
 
 <!-- p. 483 (0537) -->
 
-¹⁶ O anima, che vai per esser lieta\
+16 O anima, che vai per esser lieta\
 &emsp;Con quelle membra,co'le quai nascesti,\
 &emsp;Venian gridando, un poco el passo cheta.
 
-¹⁶ O anima, que vadis ut sis leta\
+16 O anima, que vadis ut sis leta\
 &emsp;Cum illis membris, cum quibus nata es,\
 &emsp;Veniebant clamando, aliquantulum passum quieta.
 
-¹⁷ Guarda, s'alcun di noi unque vedesti,\
+17 Guarda, s'alcun di noi unque vedesti,\
 &emsp;Sì che di lui di là novelle porti:\
 &emsp;De, perchè vai? de, perchè non t'arresti?
 
-¹⁷ Respice, si aliquem de nobis unquam vidisti,\
+17 Respice, si aliquem de nobis unquam vidisti,\
 &emsp;Ita quod de eo sursum nova portes:\
 &emsp;De, quare vadis? de, quare te non restas?
 
-¹⁸ Noi fummo tutti già per forza morti,\
+18 Noi fummo tutti già per forza morti,\
 &emsp;E peccatori infin all' ultim'hora:\
 &emsp;Quivi lume del ciel ne fece accorti
 
-¹⁸ Nos fuimus iam omnes per vim mortui,\
+18 Nos fuimus iam omnes per vim mortui,\
 &emsp;Et peccatores usque ad ultimam horam:\
 &emsp;Ibi lumen celi fecit nos cautos
 
-¹⁹ Sì che, pentendo e perdonando, fora\
+19 Sì che, pentendo e perdonando, fora\
 &emsp;Di vita uscimmo a Dio pacificati,\
 &emsp;Che del desio di sè veder n'accora.
 
-¹⁹ Ita quod, penitendo et parcendo, foras\
+19 Ita quod, penitendo et parcendo, foras\
 &emsp;Vitam exivimus Deo pacificati,\
 &emsp;Qui de desiderio se videndi nos corde animat.
 
-²⁰ Et io: Perchè ne' vostri visi guati,\
+20 Et io: Perchè ne' vostri visi guati,\
 &emsp;Non ricognosco alcun; ma s'a voi piace,\
 &emsp;Cosa ch'io possa, o spiriti bennati,
 
-²⁰ Et ego: Quamquam in vestris visibus respiciam,\
+20 Et ego: Quamquam in vestris visibus respiciam,\
 &emsp;Non cognosco aliquem; sed si vobis placet\
 &emsp;Res quam ego possim, o spiritus bene nati,
 
-²¹ Voi dite; ed io farò per quella pace,\
+21 Voi dite; ed io farò per quella pace,\
 &emsp;Che, dietro a' piedi di sì facta guida,\
 &emsp;Di mondo in mondo, cercar mi si face.
 
-²¹ Vos dicetis; et ego faciam per illam pacem,\
+21 Vos dicetis; et ego faciam per illam pacem,\
 &emsp;Que, retro pedes talis conductoris,\
 &emsp;De mundo in mundum, queri a me se facit.
 
-²² Et uno incominciò: Ciascun si fida\
+22 Et uno incominciò: Ciascun si fida\
 &emsp;Del benefitio tuo senza giurarlo,\
-&emsp;Purchè'l voler non possa (¹) non ricida (²).
+&emsp;Purchè'l voler non possa (1) non ricida (2).
 
-²² Et unus incepit: Quilibet se fidit\
+22 Et unus incepit: Quilibet se fidit\
 &emsp;De beneficio tuo sine iuramento,\
 &emsp;Dummodo velle non posse non recidat.
 
-(¹) impotentia — (²) impedisca.
+(1) impotentia — (2) impedisca.
 
 Iam oportet mutare thema et de alia materia tractare. O anima que vadis ut sis leta, idest ad celum, ut efficiaris leta, vadis ad salvationem (ecce quomodo loquitur et orat, ut captet benevolentiam auctoris et faciat eum pium versus se), cum illis membris cum quibus nata es, vel fuisti, veniebant clamando, aliquantulum passum quieta; idest allenta passum, vadas planius et morosius, paullatim.
 
@@ -252,39 +252,39 @@ Et unus incepit. E uno comenciò: hec est tertia pars huius capituli. Hic loquit
 
 <!-- p. 484 (0538) -->
 
-²³ Ond'io, che, solo, innanzi agl'altri parlo,\
+23 Ond'io, che, solo, innanzi agl'altri parlo,\
 &emsp;Ti prego, se mai vedi quel paese\
 &emsp;Che siede tra Romagna e quel di Karlo,
 
-²³ Unde ego, qui ante alios sum qui loquor,\
+23 Unde ego, qui ante alios sum qui loquor,\
 &emsp;Te precor, si unquam vides illam, paiesem,\
 &emsp;Que sedet inter Romandiolam et illam Karoli,
 
-²⁴ Che tu mi sia de'tuoi preghi cortese\
-&emsp;In Fano, sì che ben per me s'adori (¹),\
+24 Che tu mi sia de'tuoi preghi cortese\
+&emsp;In Fano, sì che ben per me s'adori (1),\
 &emsp;Pur ch'io possa purgar le gravi offese.
 
-²⁴ Quod tu michi sis de tuis precibus curialis\
+24 Quod tu michi sis de tuis precibus curialis\
 &emsp;In Fano, quod bene pro me oretur,\
 &emsp;Propter quas possim purgare crudas offensiones.
 
-²⁵ Quindi fu'io; ma li profondi fori,\
+25 Quindi fu'io; ma li profondi fori,\
 &emsp;Ond'uscì'l sangue, in sul qual io sedeva,\
-&emsp;Facti mi fur in grembo agl'Anthenori (²),
+&emsp;Facti mi fur in grembo agl'Anthenori (2),
 
-²⁵ Inde ego fui; sed profunda foramina,\
+25 Inde ego fui; sed profunda foramina,\
 &emsp;Unde exivit sanguis, super quo ego sedebam,\
 &emsp;Facta michi fuerunt in gremio Anthenoris,
 
-²⁶ Là dov'io più sicuro esser credeva:\
+26 Là dov'io più sicuro esser credeva:\
 &emsp;Quel da Esti el fe'far, che m'havea in ira\
 &emsp;Assai più là che dricto non voleva.
 
-²⁶ Ibi ubi credebam esse securior:\
+26 Ibi ubi credebam esse securior:\
 &emsp;Ille de Este fecit id fieri, qui me habebat in iram\
 &emsp;Satis plus [quam]rectum non volebat.
 
-(¹) si preghi Dio — (²) a' traditori miei.
+(1) si preghi Dio — (2) a' traditori miei.
 
 Gebellinis de Romandiola, et maxime cum Machinardo de Susinano, domino tunc Faventie. Qui Machinardus cum fortio et potentia omnium colligatorum ivit contra Imolam, civitatem Romandiole, quam subiugaverant Bononienses, expellentes inde dominium Ecclesie, et prostrarunt muros. Tunc Bononienses exiverunt ad campum contra Machinardum, et factum est bellum inter eos, et Bononienses erant victi sine magna strage, et Machinardus fuit victor et habuit et obtinuit Ymolam: et sic facta fuit pax inter omnes istos. Tunc marchio, tam verbis quam servitiis quam denariis, fecit sibi multos amicos in Bononia et magnam partem fecit sibi in Bononia; que pars dicebatur pars Marchisana, et fuit quasi in puncto habendi Bononiam. Tunc Bononienses, qui non erant amici marchionis, volentes hiis obviare, ceperunt convocare officiales severos et forte crudeles, qui non parcerent agentibus contra statum eorum: inter quos fuit vocatus iste dominus Iacobus de Cassaro, de Fano, qui erat rigidus, austerus et severus officialis, pro Potestate Bononie, et qui ivit, et multos iustitiavit et multos fecit mori de illis amicis marchionis. Et semper detrahendo dicebat marchioni: Ille proditor marchio de Esti. Unde, finito officio, ordinavit aliquos assassinos, qui insidiarentur ei et interficerent eum. Iste dominus Iacobus de Cassaro, completo suo officio, fuit vocatus Potestas Padue civitatis; qui acceptabat, et ibat transiens per Venetias, ubi illi servi marchionis, ordinati pro morte ipsius domini Iacobi, crediderunt eum interficere. Non potentes hoc facere Venetiis, sequuti sunt eum de Venetiis versus Paduam. Modo inter Venetias et Paduam est unum castrum, quod vocatur Oriacum, distans a Venetiis per decem milliaria et a Padua per quindecim: est tamen in territorio paduano. Demum est una villa inter Oriacum et Paduam, que Mira vocatur. Modo inter Oriacum et Miram fuit interfectus in pantano, sive in paludibus, iste dominus Iacobus; fuit vulneratus multis vulneribus et interfectus. Adhuc est notandum, quod auctor vocat hic Paduanos Anthenori: qui Anthenor fuit troyanus, et, sicut dicit Titus Livius, iste Anthenor de Troya venit, navigando, ad montes Padue in Ytaliam, cum gente que fuit regis Philomene, eversa Troya. Montes paduani tunc dicebantur montes Euganei, et homines ibi habitantes, Euganei; et erat ibi de propinquo una villa, dicta Engeganea, que in presenti dicitur Brugine, et ibi incepit edificare Anthenor. Tandem edificavit unam civitatem, quam vocavit Pactavum: nunc vero dicitur Padua. Et quia in territorio paduano fuit interfectus iste dominus Iacobus de Cassaro, dicit se interfectum in gremio Anthenorum, etc. Et unus incepit: Quilibet se fidit de beneficio tuo sine iuramento, dummodo velle non posse non recidat, idest quod impotentia non impediat bonum velle. Quasi dicat: Tu videris homo talis conditionis, quod tuo simplici verbo standum est, et ita credendum est tibi sicut uni instrumento. Et per hoc apparet quod homo notabilis et auctoritatis non debet uti iuramento nisi quando oportet et quando datur sibi sacramentum per habentem potestatem: et tunc licet, quia in sacramento invocatur Deus pro texte veritatis. Nam sacramentum est species religionis. Duo sunt que requiruntur ad omne opus rite faciendum, scilicet potentia que presupponit scientiam, et voluntas; que hic tanguntur, dum dicit: Dummodo velle non posse non recidat.
 
@@ -294,39 +294,39 @@ Inde ego fui; sed scilicet profunda foramina, unde exivit sanguis, super quo ego
 
 <!-- p. 485 (0539) -->
 
-²⁷ Ma s'io fossi fuggito in ver la Mira,\
+27 Ma s'io fossi fuggito in ver la Mira,\
 &emsp;Quando fui sopragiunto ad Oriaco,\
-&emsp;Anco sarei di là dove si spira (¹).
+&emsp;Anco sarei di là dove si spira (1).
 
-²⁷ Sed si ego fugissem versus Miram,\
+27 Sed si ego fugissem versus Miram,\
 &emsp;Quando ego fui superventus ad Oriacum,\
 &emsp;Adhuc essem illuc ubi spiratur.
 
-²⁸ Corsi al palude; e le cannucce e 'l braco\
+28 Corsi al palude; e le cannucce e 'l braco\
 &emsp;Mi piglar sì, ch'io caddi, e lì vid' io\
 &emsp;De le mie vene farsi in terra laco.
 
-²⁸ Cucurri ad paludem; et canule et cenum\
+28 Cucurri ad paludem; et canule et cenum\
 &emsp;Me apprehenderunt, ita quod ego cecidi, et ibi vidi ego\
 &emsp;De meis venis fieri in terra lacum.
 
-²⁹ Poi diss' un' altro: De, se quel desio,\
+29 Poi diss' un' altro: De, se quel desio,\
 &emsp;Si compia che ti tragge all'alto monte,\
-&emsp;Con pietà buona ancor aiuta el mio (²).
+&emsp;Con pietà buona ancor aiuta el mio (2).
 
-²⁹ Postea dixit unus alter: De, si illud desiderium\
+29 Postea dixit unus alter: De, si illud desiderium\
 &emsp;Adimpleatur quod te trahit ad altum montem,\
 &emsp;Cum bona pietate adiuva meum.
 
-³⁰ Io fui da Monte Feltro, io fui Buonconte:\
+30 Io fui da Monte Feltro, io fui Buonconte:\
 &emsp;Giovanna e gl'altri non han di me cura;\
 &emsp;Perch'io vo'tra costor con lieta fronte.
 
-³⁰ Ego fui de Monte Feretri, et sum Boncontes:\
+30 Ego fui de Monte Feretri, et sum Boncontes:\
 &emsp;Ioanna et alii non habent de me curam;\
 &emsp;Ex quo ego vado inter istos cum demissa fronte.
 
-(¹) vive. — (²) desio
+(1) vive. — (2) desio
 
 sanguinem fore sedem anime. Sepe dixit Moyses: Omnis enim anima carnis in sanguine est. Et hoc videtur esse verum; quia, effuso toto sanguine, in corpore anima non potest stare), facta michi fuerunt in gremio Anthenorum, idest in territorio Paduano (nota quod in paduana civitate, apud portam Sancti Stephani, et apud Ecclesiam Sancti Stephani, est unum sepulchrum de magno et pulchro lapide rubeo, in quo sunt ossa Anthenoris Troyani, qui fuit, salva eius reverentia, magnus proditor), ibi ubi magis securus me esse credebam (quia erat potestas Padue, et Paduam ibat, in territorioque Paduano erat). Ille Estensis, scilicet marchio, fecit ibi fieri, qui me habebat in iram satis plusquam rectum, idest ratio, non volebat; idest, magis quam debitum esset: quia si iustitiavi amicos suos in Bononia, ego feci hoc iuste. Quia propter hoc me habebat in iram, ratio hoc non exigebat.
 
@@ -340,71 +340,71 @@ Postea dixit unus alter: De, si illud desiderium adimpleatur, quod te trahit ad 
 
 <!-- p. 486 (0540) -->
 
-³¹ Et io a lui: Qual forza, o qual ventura,\
+31 Et io a lui: Qual forza, o qual ventura,\
 &emsp;Ti traviò sì fuor di Campaldino,\
 &emsp;Che non si seppe mai tua sepoltura?
 
-³¹ Et ego ad eum: Qualis vis, et qualis fortuna,\
+31 Et ego ad eum: Qualis vis, et qualis fortuna,\
 &emsp;Te deviavit ita extra Campeldinum,\
 &emsp;Quod scita nunquam fuit unquam tua sepultura?
 
-³² O, rispos'elli, a piè del Casentino\
+32 O, rispos'elli, a piè del Casentino\
 &emsp;Traversa un'acqua ch'à nome l'Archiano,\
 &emsp;Che sovra l'Hermo nasce in Appennino.
 
-³² O, respondit ipse, ad pedes Casentini,\
+32 O, respondit ipse, ad pedes Casentini,\
 &emsp;Pertransit una aqua que vocatur Archianum,\
 &emsp;Que supra Heremum nascitur in Appennino.
 
-³³ Dove 'l vocabol suo doventa vano\
+33 Dove 'l vocabol suo doventa vano\
 &emsp;Arriva'io forato ne la gola,\
 &emsp;Fuggendo a piedi e 'nsanguinando il piano.
 
-³³ Ubi vocabulum suum devenit vacuum\
+33 Ubi vocabulum suum devenit vacuum\
 &emsp;Apuli ego foratus in gula.\
 &emsp;Fugiendos pedes et sanguine fedans planum.
 
-³⁴ Quivi perdei la vista, e la parola\
+34 Quivi perdei la vista, e la parola\
 &emsp;Nel nome di Maria finii, e quivi\
 &emsp;Caddi, e rimase la mia carne sola.
 
-³⁴ Ibi perdidi visum, et loquelam\
+34 Ibi perdidi visum, et loquelam\
 &emsp;In nomine Marie finivi, et ibi\
 &emsp;Cecidi, et remansit mea caro sola.
 
-³⁵ Io dirò 'l vero, e tu 'l ridì tra vivi;\
+35 Io dirò 'l vero, e tu 'l ridì tra vivi;\
 &emsp;L'Angel di Dio mi prese, e quel d'Inferno\
 &emsp;Gridò: O tu del ciel, perchè mi privi?
 
-³⁵ Ego dico verum, et tu illud referas inter vivos;\
+35 Ego dico verum, et tu illud referas inter vivos;\
 &emsp;Angelus Dei me apprehendit, et ille de Inferno\
 &emsp;Clamabat: O tu de celo, quare me privas?
 
-³⁶ Tu te ne porti di costui l' etterno (¹)\
-&emsp;Per una lagrimetta che 'l mi (²) togle:\
-&emsp;Ma io farò dell'altro (³) altro governo.
+36 Tu te ne porti di costui l' etterno (1)\
+&emsp;Per una lagrimetta che 'l mi (2) togle:\
+&emsp;Ma io farò dell'altro (3) altro governo.
 
-³⁶ Tu tecum portas de isto eternum\
+36 Tu tecum portas de isto eternum\
 &emsp;Propter unam lacrymolam que eum michi illud tollit:\
 &emsp;Sed ego faciam de alio aliam gubernationem.
 
-³⁷ Ben sai come nell'haere si raccogle\
+37 Ben sai come nell'haere si raccogle\
 &emsp;Quell' humido vapor che 'n acqua riede,\
 &emsp;Tosto che sale dove freddo 'l cogle.
 
-³⁷ Bene scis quomodo in aëre congregatur\
+37 Bene scis quomodo in aëre congregatur\
 &emsp;Ille humidus vapor qui in aquam redit,\
 &emsp;Statim quod ascendit ubi frigus illum colligit.
 
-³⁸ Giunse quel mal voler, che pur mal chiede,\
+38 Giunse quel mal voler, che pur mal chiede,\
 &emsp;Coll'intelletto, e mosse'l fumo e 'l vento\
 &emsp;Per la virtù, che sua natura diede.
 
-³⁸ Iunxit illud malum velle, quod solum malum querit,\
+38 Iunxit illud malum velle, quod solum malum querit,\
 &emsp;Cum intellectu, et movit fumum et ventum\
 &emsp;Per virtutem, quam sua natura dedit.
 
-(¹) l'anima. — (²) al. che mel — (³) del corpo.
+(1) l'anima. — (2) al. che mel — (3) del corpo.
 
 Et ego ad eum: Qualis vis, sive qualis fortuna, te deviavit ita extra Campeldinum (est una planities in qua, vel campus in quo, fuit factum illud bellum), quod scita non fuit unquam tua sepultura?
 
@@ -416,65 +416,65 @@ Modo auctor in persona Boncontis dicit id quod fecit dyabolus sua potestate. Ben
 
 <!-- p. 487 (0541) -->
 
-³⁹ Ivi (¹) la valle, come 'l dì fu spento,\
+39 Ivi (1) la valle, come 'l dì fu spento,\
 &emsp;Da Prato Magno al gran giogo coperse\
 &emsp;Di nebbia, e 'l giel di sopra fece intento
 
-³⁹ Inde vallem, sicut dies fuit extinctus,\
+39 Inde vallem, sicut dies fuit extinctus,\
 &emsp;Prati Magni et grande iugum cooperuit\
 &emsp;Nubibus, et celum desuper fecit intentum
 
-⁴⁰ Sì, che 'l pregn'aere in acqua si converse:\
+40 Sì, che 'l pregn'aere in acqua si converse:\
 &emsp;La pioggia cadde, e a' fossati venne\
-&emsp;Di lei ciò, che la terra non sofferse (²):
+&emsp;Di lei ciò, che la terra non sofferse (2):
 
-⁴⁰ Ita, quod pregnans aëre in aquam est conversum:\
+40 Ita, quod pregnans aëre in aquam est conversum:\
 &emsp;Pluvia cecidit, et ad fossata venit,\
 &emsp;De ipsa id, quod terra non sustulit.
 
-⁴¹ E come a' rivi grandi si convenne,\
+41 E come a' rivi grandi si convenne,\
 &emsp;Ver lo fiume real tanto veloce\
 &emsp;Si ruinò, che nulla la ritenne.
 
-⁴¹ Et statim quod ad rivos grandes se convenit,\
+41 Et statim quod ad rivos grandes se convenit,\
 &emsp;Versus flumen regale tam velociter\
 &emsp;Ruit, quod nihil illud retinuit.
 
-⁴² Lo corpo mio gelato in su la foce\
+42 Lo corpo mio gelato in su la foce\
 &emsp;Trovò l'Archian rubesto; e quel sospinse\
 &emsp;Nell'altro, e sciolse al mio pecto la croce,
 
-⁴² Corpus meum gelatum super fauce\
+42 Corpus meum gelatum super fauce\
 &emsp;Reperuit Archianum rubestum; et illud impulit\
 &emsp;In Arnum, et solvit a meo pectore crucem,
 
-⁴³ Ch'io fe' di me quando 'l dolor mi vinse:\
+43 Ch'io fe' di me quando 'l dolor mi vinse:\
 &emsp;Voltommi per le ripe e per lo fondo,\
-&emsp;Poi di sua preda (³) mi coperse e cinse (⁴).
+&emsp;Poi di sua preda (3) mi coperse e cinse (4).
 
-⁴³ Quam michi feci quando dolor me vicit:\
+43 Quam michi feci quando dolor me vicit:\
 &emsp;Volvit me per ripas et per fundum,\
 &emsp;Demum de sua preda me cooperuit et cinxit.
 
-⁴⁴ De, quando tu sarai tornat' al mondo,\
+44 De, quando tu sarai tornat' al mondo,\
 &emsp;E riposato per la lungha via,\
 &emsp;Seguitò 'l terzo spirito al secondo,
 
-⁴⁴ De, quando reversus fueris ad mundum,\
+44 De, quando reversus fueris ad mundum,\
 &emsp;Et requieveris propter viam longam,\
 &emsp;Sequutus est tertius spiritus post secundum,
 
-⁴⁵ Ricordati di me, che son la Pia:\
-&emsp;Siena mi fe' (⁵), e disfemmi maremma (⁶),\
-&emsp;Salsi colui (⁷) che innanellata pria (⁸),\
+45 Ricordati di me, che son la Pia:\
+&emsp;Siena mi fe' (5), e disfemmi maremma (6),\
+&emsp;Salsi colui (7) che innanellata pria (8),\
 &emsp;Disposando, m'havea con la sua gemma.
 
-⁴⁵ Recorderis mei, quia sum Sapia:\
+45 Recorderis mei, quia sum Sapia:\
 &emsp;Sene me fecerunt, et disfécit me Mariptima:\
 &emsp;Scit ille qui, annulatam prius,\
 &emsp;Desponsaverat me cum sua gemma.
 
-(¹) al quivi — (²) sopportò o ricebbe. — (³) loto e sassi — (⁴) intorniò. — (⁵) nacqui a Siena — (⁶) e fui morta in — (⁷) marito mio — (⁸) che m'havea dato l'anello.
+(1) al quivi — (2) sopportò o ricebbe. — (3) loto e sassi — (4) intorniò. — (5) nacqui a Siena — (6) e fui morta in — (7) marito mio — (8) che m'havea dato l'anello.
 
 quod istos vapores potest convertere in pluviam, sicut fecit. Modo, quia ipse fecit pluviam magnam, in tantum quod plurima aqua descendit in illum torrentem, vocatum Archianum, in qua descendens cum impetu, inveniens corpus Boncontis in suis faucibus, impulit in Arnum, fluvium magnum. Et fluvius magnus, fortiter et impetuose fluens, traxit secum arbores et arenam, et cooperuit corpus Boncontis arena; et sic nunquam fuit scitum quomodo corpus Boncontis stetit.
 

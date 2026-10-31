@@ -8,31 +8,31 @@ In sexto capitulo, scilicet in illo, quod incipit: Quando separatur ludus, etc.,
 
 # Capitulum Sextum
 
-¹ Quando si parte 'l giuoco de la zara,\
+1 Quando si parte 'l giuoco de la zara,\
 &emsp;Colui che perde si riman dolente,\
 &emsp;Ripetendo le volte, e tristo impara:
 
-¹ Quando separatur ludus azare,\
+1 Quando separatur ludus azare,\
 &emsp;Ille qui perdit remanet dolens,\
 &emsp;Repetendo vices, tristis addiscit:
 
-² Coll'altro se ne va tutta la gente;\
-&emsp;Qual da (¹) dinanzi e qual dirieto el prende,\
+2 Coll'altro se ne va tutta la gente;\
+&emsp;Qual da (1) dinanzi e qual dirieto el prende,\
 &emsp;E qual dallato li si recha a mente;
 
-² Cum altero vadit tota gens;\
+2 Cum altero vadit tota gens;\
 &emsp;Quidam vadit ante, et quidam retro eum apprehendit,\
 &emsp;Et quidam a latere se reducit sibi ad mentem;
 
-³ El (²) non s'arresta, e questo e quello intende;\
+3 El (2) non s'arresta, e questo e quello intende;\
 &emsp;A cui porgela man, più non s'appressa;\
 &emsp;E così da la calcha si difende.
 
-³ Ille non se firmat, et istum et illum intelligit;\
+3 Ille non se firmat, et istum et illum intelligit;\
 &emsp;Ille cui porrigit manum, plus non facit pressuram;\
 &emsp;Et sic cum pressura se defendit.
 
-(¹) al. va. — (²) al. ei.
+(1) al. va. — (2) al. ei.
 
 Quando separatur. Quando se parte: istud est sextum capitulum huius Purgatorii, in quo auctor adhuc prosequitur materiam tactam in precedenti capitulo, scilicet de quarta specie negligentie, illorum qui tardaverunt penitere usque ad mortem et qui fuerunt preventi morte violenta. Quod quidem capitulum dividitur in quatuor partes. In quarum prima auctor, transcurrendo, perstringit aliquid de illis violenter mortuis, ostendendo eorum dispositionem versus ipsum et ipsius versus eos.
 
@@ -54,43 +54,43 @@ Quantum ad primam partem notandum, quod tres species ludorum communiter ponuntur
 
 <!-- p. 491 (0545) -->
 
-⁴ Tal era io in quella turba spessa,\
+4 Tal era io in quella turba spessa,\
 &emsp;Volgendo allora qua e là la faccia,\
 &emsp;E promettendo mi scioglea da essa.
 
-⁴ Talis eram ego in illa turba spissa,\
+4 Talis eram ego in illa turba spissa,\
 &emsp;Volvendo eis hinc et inde faciem,\
 &emsp;Et promictendo recedebam ab ipsa.
 
-⁵ Quiv'era l'Aretin, che da le braccia\
+5 Quiv'era l'Aretin, che da le braccia\
 &emsp;Fiere di Ghin di Tacho ebbe la morte,\
 &emsp;E l'altro ch'annegò fuggendo in caccia.
 
-⁵ Ibi erat Aretinus, qui a brachiis\
+5 Ibi erat Aretinus, qui a brachiis\
 &emsp;Feris Ghini Tacchi habuit mortem,\
 &emsp;Et alter qui submersus est fugiendo in fuga.
 
-⁶ Quivi pregava co' le mani sporte\
+6 Quivi pregava co' le mani sporte\
 &emsp;Federico Novello, e quel da Pisa\
 &emsp;Che fe' parer lo buon Marzucho forte.
 
-⁶ Ibi precabatur cum manibus iunctis\
+6 Ibi precabatur cum manibus iunctis\
 &emsp;Federicus Novellus, et ille de Pisis\
 &emsp;Qui aparere fecit bonum Marzuchum fortem.
 
-⁷ [Vidi cont'Orso, e l'anima divisa\
+7 [Vidi cont'Orso, e l'anima divisa\
 &emsp;Dal corpo suo per astio e per inveggia,\
 &emsp;Come dicea, non per colpa commisa];
 
-⁷ Vidi comitem Ursum, et animam divisam\
+7 Vidi comitem Ursum, et animam divisam\
 &emsp;A corpore suo propter odium et invidiam,\
 &emsp;Sicut dicebat, non propter culpam commissam,
 
-⁸ Pier de la Broccia dico: e qui proveggia,\
+8 Pier de la Broccia dico: e qui proveggia,\
 &emsp;Menar di qua, la donna di Brabante,\
 &emsp;Sì che però non sia di peggior greggia.
 
-⁸ Pierius de Broccia: et hinc provideat,\
+8 Pierius de Broccia: et hinc provideat,\
 &emsp;Dum est hic, domina de Brabantia,\
 &emsp;Ita quod postmodum non sit de peiori grege.
 
@@ -104,51 +104,51 @@ Nota hic quod quidam Pisanus, nomine Marzuchus de domo de Viscontis, de qua domo
 
 <!-- p. 492 (0546) -->
 
-⁹ Come libero fui da tutte quante\
+9 Come libero fui da tutte quante\
 &emsp;Quell'ombre, che pregar pur d'altri preghi,\
 &emsp;Sì che s'avacci lor divenir sante,
 
-⁹ Statim sicut fui liber ab omnibus illis\
+9 Statim sicut fui liber ab omnibus illis\
 &emsp;Umbris, que precabantur solum quod alter precetur,\
 &emsp;Ita quod abbrevietur earum devenire sanctas,
 
-¹⁰ Io cominciai: E'par che tu mi neghi,\
+10 Io cominciai: E'par che tu mi neghi,\
 &emsp;O luce mia, expresso in alcun testo,\
 &emsp;Che decreto del ciel oration pieghi;
 
-¹⁰ Ego incepi: Apparet quod michi neges,\
+10 Ego incepi: Apparet quod michi neges,\
 &emsp;O lux mea, expresse in aliquo textu,\
 &emsp;Quod decretum celi oratio plicet;
 
-¹¹ E questa gente prega pur di questo.\
+11 E questa gente prega pur di questo.\
 &emsp;Sarebbe adonque loro speme vana?\
 &emsp;O non m'è'l decto tuo ben manifesto?
 
-¹¹ Et ista gens precatur solum de hoc.\
+11 Et ista gens precatur solum de hoc.\
 &emsp;Esset igitur earum spes vana?\
 &emsp;Vel non est dictum tuum michi bene manifestum?
 
-¹² Et elli a me: La mia scriptura è piana,\
+12 Et elli a me: La mia scriptura è piana,\
 &emsp;E la speranza di costor non falla,\
 &emsp;Se ben si guarda co'la mente sana.
 
-¹² Et ipse ad me: Mea scriptura est plana,\
+12 Et ipse ad me: Mea scriptura est plana,\
 &emsp;Et spes illorum non fallitur,\
 &emsp;Si bene inspicitur cum mente sana.
 
-¹³ Chè cima di iudicio non s'avvalla,\
+13 Chè cima di iudicio non s'avvalla,\
 &emsp;Perchè foco d'amor compia in un puncto\
 &emsp;Ciò che dee satisfar chi qui si stalla:
 
-¹³ Quia summitas iudicii non inclinatur,\
+13 Quia summitas iudicii non inclinatur,\
 &emsp;Quamquam ignis amoris in uno puncto compleat\
 &emsp;Quidquid debet satisfacere quis se [hic] stallat:
 
-¹⁴ E là dov'io fermai cotesto puncto,\
+14 E là dov'io fermai cotesto puncto,\
 &emsp;Non s'ammendava, per pregar, defecto,\
 &emsp;Perchè 'l prego da Dio era disiuncto.
 
-¹⁴ Et ubi ego firmavi illum punctum,\
+14 Et ubi ego firmavi illum punctum,\
 &emsp;Non emendabatur, propter preces, defectus,\
 &emsp;Quia rogamen a Deo erat disiunctum.
 
@@ -164,55 +164,55 @@ Et ipse ad me, idest dixit: Mea scriptura est plana, et spes illorum non fallitu
 
 <!-- p. 493 (0547) -->
 
-¹⁵ Veramente a così alto sospecto\
+15 Veramente a così alto sospecto\
 &emsp;Non ti fermar, se quella nol ti dice,\
 &emsp;Che lume fia tra'l vero e l'intellecto.
 
-¹⁵ Vere in ista alta suspicione\
+15 Vere in ista alta suspicione\
 &emsp;Non firmeris, si illa tibi hoc non dicit,\
 &emsp;Que lumen erit inter verum et intellectum.
 
-¹⁶ Non so se'ntendi; dico di Beatrice:\
+16 Non so se'ntendi; dico di Beatrice:\
 &emsp;Tu la vedrai di sopra, in su la vetta\
 &emsp;Di questo monte, ridere e felice.
 
-¹⁶ Nescio si intelligis; ego dico de Beatrice:\
+16 Nescio si intelligis; ego dico de Beatrice:\
 &emsp;Tu illam videbis desuper, in vertice\
 &emsp;Istius montis, ridere et felicem.
 
-¹⁷ Et io al duca: Andiamo a maggior fretta;\
+17 Et io al duca: Andiamo a maggior fretta;\
 &emsp;Chè già non m'affatico, come dianzi;\
 &emsp;E vedi già che'l poggio l'ombra getta.
 
-¹⁷ Et ego: O bone dux, vadamus cum maiori festinantia:\
+17 Et ego: O bone dux, vadamus cum maiori festinantia:\
 &emsp;Quia iam non fatigor, sicut ante;\
 &emsp;Et vide ammodo quod podium umbram proiicit.
 
-¹⁸ Noi anderem con questo giorno innanzi,\
+18 Noi anderem con questo giorno innanzi,\
 &emsp;Rispose, quanto più potremo omai;\
 &emsp;Ma el fact'è d'altra forma che non stanzi.
 
-¹⁸ Nos ibimus cum ista die ante,\
+18 Nos ibimus cum ista die ante,\
 &emsp;Respondet, plus quantum poterimus ammodo;\
 &emsp;Sed factum est alterius forme quam tu stanties.
 
-¹⁹ Prima che sia di lassù, tornar vedrai\
+19 Prima che sia di lassù, tornar vedrai\
 &emsp;Colui che già si cuopre de la costa,\
 &emsp;Sì ch'e suoi raggi tu romper non fai.
 
-¹⁹ Priusquam sis illuc supra, redire videbis\
+19 Priusquam sis illuc supra, redire videbis\
 &emsp;Illum qui iam cooperitur a monte,\
 &emsp;Ita quod suos radios tu erumpere non facis.
 
-²⁰ Ma vedi là un'anima, che posta\
+20 Ma vedi là un'anima, che posta\
 &emsp;Sola soletta inverso noi riguarda,\
-&emsp;Quella ne 'nsegnerà la via più tosta (¹).
+&emsp;Quella ne 'nsegnerà la via più tosta (1).
 
-²⁰ Sed vide ibi unam animam, que ad postam\
+20 Sed vide ibi unam animam, que ad postam\
 &emsp;Sola solitaria versus nos respicit,\
 &emsp;Illa nos docebit viam breviorem.
 
-(¹) breve.
+(1) breve.
 
 sana; quia summítas iudicii non inclinatur, nec, supple, unum momentum divini iudicii potest deficere, quamquam quod homines in inferno puniuntur comprehenderit; igitur ignis amoris in uno puncto compleat quidquid debet satisfacere quis se stallat, idest quidquid, vel totum quod, satisfieri hic est iustum. Quasi dicat, quod ignis amoris supplet illud tempus, quod minuitur: et ubi ego firmavi illum punctum, non emendabatur, propter preces, defectus; idest ibi in Inferno ubi nulla est redemptio: ideo non possunt ibi preces, quia rogamem, scilicet illorum, a Deo erat disjunctum, idest divisum. Nota quod illa verba fuerunt dicta ad paganum, et fuerunt in Inferno. Sed hic est aliter: quia iste anime non sunt dampnate, sed sunt in loco sperande salutis.
 
@@ -230,75 +230,75 @@ Sed vide ibi unam animam, que ad postam, idest propositam, idest recte, sola sol
 
 <!-- p. 494 (0548) -->
 
-²¹ Venimmo a lei: O anima lombarda,\
+21 Venimmo a lei: O anima lombarda,\
 &emsp;Come ti stavi altiera e disdegnosa,\
 &emsp;E nel muover degl'ochi honesta e tarda!
 
-²¹ Venimus ad ipsam: O anima lombarda,\
+21 Venimus ad ipsam: O anima lombarda,\
 &emsp;Quomodo stabas altera et dedignans,\
 &emsp;Et in motu oculorum honesta et tarda!
 
-²² Ella non ci diceva alcuna cosa;\
+22 Ella non ci diceva alcuna cosa;\
 &emsp;Ma lasciavane gir, solo sguardando\
 &emsp;A guisa di leon quando si posa.
 
-²² Ipsa non dicebat nobis aliquam rem;\
+22 Ipsa non dicebat nobis aliquam rem;\
 &emsp;Sed permictebat nos ire, solum respiciendo,\
 &emsp;Ad similitudinem leonis quando pausat.
 
-²³ Pur Virgilio si trasse a lei, pregando\
+23 Pur Virgilio si trasse a lei, pregando\
 &emsp;Che ne mostrasse la miglor salita;\
 &emsp;E quella non rispose al suo dimando:
 
-²³ Demum Virgilius traxit se ad illam, deprecando\
+23 Demum Virgilius traxit se ad illam, deprecando\
 &emsp;Quod nobis monstraret meliorem ascensum;\
 &emsp;Sed illa non respondit sue petitioni:
 
-²⁴ Ma di nostro paese e de la vita\
+24 Ma di nostro paese e de la vita\
 &emsp;Ci chiese. E 'l dolce duca cominciava:\
 &emsp;Mantova... E l'ombra, in sè tutta romita,
 
-²⁴ Sed de nostra patria et de vita\
+24 Sed de nostra patria et de vita\
 &emsp;Nos requisivit. Et dulcis dux incipiebat:\
 &emsp;Mantua... Et umbra, tota in se heremita,
 
-²⁵ Sorse ver lui del loco ove pria stava,\
+25 Sorse ver lui del loco ove pria stava,\
 &emsp;Dicendo: O mantovan, io son Sordello\
 &emsp;Della tua terra. E l'un l'altro abbracciava.
 
-²⁵ Surrexit versus eum de loco ubi prius stabat,\
+25 Surrexit versus eum de loco ubi prius stabat,\
 &emsp;Dicens: O mantuane, ego sum Sordellus\
 &emsp;De tua terra. Et unus alterum amplectebatur.
 
-²⁶ Hay, serva Italia, e di dolor hostello,\
+26 Hay, serva Italia, e di dolor hostello,\
 &emsp;Nave senza nochier in gran tempesta,\
 &emsp;Non donna di provincie, ma bordello!
 
-²⁶ Ay, Ytaliam servam, doloris hospitium,\
+26 Ay, Ytaliam servam, doloris hospitium,\
 &emsp;Navem sine nauclerio in grandi tempestate,\
 &emsp;Non dominam provinciarum, sed postribulum!
 
-²⁷ Quell'anima gentil fu così presta,\
+27 Quell'anima gentil fu così presta,\
 &emsp;Sol per lo dolce suon della sua terra,\
 &emsp;Di far al cittadin suo quivi festa;
 
-²⁷ Illa anima gentilis fuit ita prompta,\
+27 Illa anima gentilis fuit ita prompta,\
 &emsp;Solum propter dulcem sonum sue terre,\
 &emsp;Ad faciendum suo civi ibi festum;
 
-²⁸ Et hora in te non stanno senza guerra\
+28 Et hora in te non stanno senza guerra\
 &emsp;Li vivi tuoi, e l'un l'altro si rode\
 &emsp;Di quei ch'un muro et una fossa serra.
 
-²⁸ Et nunc in te non stant sine guerra\
+28 Et nunc in te non stant sine guerra\
 &emsp;Vivi tui, et unus alterum corrodit\
 &emsp;Illorum quos unus murus et una fossa claudit.
 
-²⁹ Cerca, misera, intorno da le prode\
+29 Cerca, misera, intorno da le prode\
 &emsp;Le tue marine, e poi ti guarda in seno,\
 &emsp;S'alcuna parte in te di pace gode.
 
-²⁹ Queras, misera, circum circa tuas proras\
+29 Queras, misera, circum circa tuas proras\
 &emsp;Tuas mariptimas, et postea tibi respicias in sinum,\
 &emsp;Si aliqua pars in te de pace gaudet.
 
@@ -316,55 +316,55 @@ Queras, misera, circum tuas proras, idest tuos fines, vel tuas extremitates, tua
 
 <!-- p. 495 (0549) -->
 
-³⁰ Che val, perchè ti racconciasse (¹) 'l freno\
+30 Che val, perchè ti racconciasse (1) 'l freno\
 &emsp;Iustiniano, se la sella è vota?\
 &emsp;Senz'esso fora la vergogna meno.
 
-³⁰ Quid valet, quod tibi reformaret frenum\
+30 Quid valet, quod tibi reformaret frenum\
 &emsp;Iustinianus, si sella est vacua?\
 &emsp;Sine ipso esset verecundia minor.
 
-³¹ Hay, gente, che dovresti esser devota,\
-&emsp;E (²) lassar seder Cesare in la sella,\
+31 Hay, gente, che dovresti esser devota,\
+&emsp;E (2) lassar seder Cesare in la sella,\
 &emsp;Se ben intendi ciò che Dio ti nota!
 
-³¹ Ay, gentem, que deberes esse devota,\
+31 Ay, gentem, que deberes esse devota,\
 &emsp;Et permictere sedere Cesarem in sella,\
 &emsp;Si bene intelligis id quod Deus tibi notat!
 
-³² Guarda com'esta fiera è fatta fella,\
+32 Guarda com'esta fiera è fatta fella,\
 &emsp;Per non esser correpta dalli sproni,\
 &emsp;Poi che ponesti mano alla predella.
 
-³² Respice quomodo ista fera est facta fallax,\
+32 Respice quomodo ista fera est facta fallax,\
 &emsp;Propter non corrigi a calcaribus,\
 &emsp;Postquam [posuisti] manum ad predellam.
 
-³³ O Alberto Tedesco, ch'abbandoni\
+33 O Alberto Tedesco, ch'abbandoni\
 &emsp;Costei ch'è facta indomita e selvaggia,\
 &emsp;Che dovresti inforcare e suoi arcioni,
 
-³³ O Alberte Theutonice, qui derelinquis\
+33 O Alberte Theutonice, qui derelinquis\
 &emsp;Istam que est facta indomita et silvestris,\
 &emsp;Et deberes infurcare suos arciones,
 
-³⁴ Giusto iudicio dalle stelle caggia\
+34 Giusto iudicio dalle stelle caggia\
 &emsp;Sopra'l tuo sangue, e sia nuovo et aperto,\
 &emsp;Sì che 'l tuo successor temenza n'aggia:
 
-³⁴ Iustum iudicium a stellis cadat\
+34 Iustum iudicium a stellis cadat\
 &emsp;Supra tuum sanguinem, et sit novum et apertum,\
 &emsp;Ita quod tuus successor timorem de illo habeat:
 
-³⁵ Ch'avete tu e 'l tuo padre sofferto,\
+35 Ch'avete tu e 'l tuo padre sofferto,\
 &emsp;Per cupidigia di costà distrecti,\
 &emsp;Che 'l giardin dell'Imperio sia diserto.
 
-³⁵ Quia tu et pater tuus sustinuistis,\
+35 Quia tu et pater tuus sustinuistis,\
 &emsp;Propter cupiditatem istinc adstricti,\
 &emsp;Quod viridarium Imperii sit destructum.
 
-(¹) al. rassetasse 'l. — (²) dovresti.
+(1) al. rassetasse 'l. — (2) dovresti.
 
 in sinum, si aliqua pars in te de pace gaudet. Nam Ytalia est quasi insula, quia a tribus partibus habet mare: solum ex parte Alamanie coniuncta est terre firme. Ideo dixit mariptimas.
 
@@ -378,55 +378,55 @@ O Alberte Theutonice, qui derelinquis istam, que est facta indomita et silvestri
 
 <!-- p. 496 (0550) -->
 
-³⁶ Vien a veder Montechi e Cappellecti\
+36 Vien a veder Montechi e Cappellecti\
 &emsp;Monandi e Filippeschi, uom senza cura:\
 &emsp;Color già tristi, e questi con sospecti.
 
-³⁶ Veni ad videndum Monticulos et Capellectos\
+36 Veni ad videndum Monticulos et Capellectos\
 &emsp;Monaldos et Philippescos, homines sine cura:\
 &emsp;Illos iam tristes, et illos cum suspicionibus.
 
-³⁷ Vien, crudel, vieni, e vedi la pressura\
+37 Vien, crudel, vieni, e vedi la pressura\
 &emsp;De' tuoi gentili, e cura lor magagne,\
 &emsp;E vedrai Sancta Fior come si cura.
 
-³⁷ Veni crudelis, veni, et videas pressuram\
+37 Veni crudelis, veni, et videas pressuram\
 &emsp;Tuorum gentilium, et cura illorum crimina,\
 &emsp;Et videbis Sanctam Florem, quomodo curatur.
 
-³⁸ Vieni a veder la tua Roma, che piagne,\
+38 Vieni a veder la tua Roma, che piagne,\
 &emsp;Vedova, sola, e dì e nocte chiama:\
 &emsp;Cesare mio, perchè non m'accompagne?
 
-³⁸ Veni ad videndum tuam Romam, que plangit,\
+38 Veni ad videndum tuam Romam, que plangit,\
 &emsp;Vidua, sola, die ac nocte te vocat:\
 &emsp;O Cesar mi, cur me non sotias?
 
-³⁹ Vien a veder la gente quanto s'ama;\
+39 Vien a veder la gente quanto s'ama;\
 &emsp;E se nulla pietà di noi ti muove,\
 &emsp;A vergognar ti vien de la tua fama.
 
-³⁹ Veni ad videndum gentem quantum se amat;\
+39 Veni ad videndum gentem quantum se amat;\
 &emsp;Et si nulla de nobis pietas te movet,\
 &emsp;Ad verecundandum te venias de tua fama.
 
-⁴⁰ E se lecito m'è, o sommo Giove,\
+40 E se lecito m'è, o sommo Giove,\
 &emsp;Che fusti in terra per noi crucifisso,\
 &emsp;Son li giusti occhi tuoi rivolti altrove?
 
-⁴⁰ Et si licitum est michi, o summe Iupiter,\
+40 Et si licitum est michi, o summe Iupiter,\
 &emsp;Qui fuisti in terra pro nobis crucifixus.\
 &emsp;Sunt iusti oculi tui conversi alibi?
 
-⁴¹ O è preparation, che nell'abysso\
+41 O è preparation, che nell'abysso\
 &emsp;Del tuo consiglio fai, per alcun bene,\
-&emsp;In tutto dall'accorger nostro scisso? (¹)
+&emsp;In tutto dall'accorger nostro scisso? (1)
 
-⁴¹ Vel est preparatio, quam in abysso\
+41 Vel est preparatio, quam in abysso\
 &emsp;Tui consilii facis, pro aliquo bono,\
 &emsp;In totum a cognitione nostra divisa?
 
-(¹) separato.
+(1) separato.
 
 Iam descendit ad particularia mala, scilicet aliquas domos nobiles de Ytalia, scilicet Montecchi et Capellecti. Isti erant nobiles de Verona, et iste domus cum suis partialitatibus, expulerunt Azum Marchionem de Est, qui tunc dominabatur ibi in Verona. Sed ipse Azus adhesit Ezerino de Romano; et facto magno fortio, et congregato magno exercitu, ivit contra illos, et dedit eis conflictum et destruxit eos, et ibi stetit et ibi mortuus est. Monaldi et Philippeschi:isti fuerunt de domibus nobilibus de civitate Urbis Veteris, que fecit magnas partialitates.
 
@@ -444,55 +444,55 @@ Fit per auctorem hic una disiunctiva talis: Vel tu non curas de nobis, nec cogit
 
 <!-- p. 497 (0551) -->
 
-⁴² Chè le città d'Italia tutte piene\
-&emsp;Son di tyranni, et un Marcel (¹) doventa\
+42 Chè le città d'Italia tutte piene\
+&emsp;Son di tyranni, et un Marcel (1) doventa\
 &emsp;Ogni villan che par[t]eggiando viene.
 
-⁴² Quot civitates Ytalie omnes plene\
+42 Quot civitates Ytalie omnes plene\
 &emsp;Sunt tyrampnis, et unus Metellus devenit\
 &emsp;Omnis rusticus qui partialitates faciendo venit.
 
-⁴³ Fiorenze mia, ben puoi esser contenta\
-&emsp;D'esta (²) digression che non ti tocha,\
+43 Fiorenze mia, ben puoi esser contenta\
+&emsp;D'esta (2) digression che non ti tocha,\
 &emsp;Mercè del popol tuo che s'argomenta.
 
-⁴³ Florentia mea, bene potes esse contenta\
+43 Florentia mea, bene potes esse contenta\
 &emsp;De tali transgressione que te non tangit,\
 &emsp;Gratia populi tui qui se argumentat.
 
-⁴⁴ Molti han iustitia in cor, ma (³) tardi scocha,\
+44 Molti han iustitia in cor, ma (3) tardi scocha,\
 &emsp;Per non venir senza consiglo all'archo;\
 &emsp;Ma'l popol tuo l'ha in somma de la bocha.
 
-⁴⁴ Multi habent iustitiam in corde, et tarde schoccant,\
+44 Multi habent iustitiam in corde, et tarde schoccant,\
 &emsp;Propter non venire sine consilio ad arcum;\
 &emsp;Sed populus tuus illam habet in summo oris.
 
-⁴⁵ Molti rifiutan lo comune incarcho;\
+45 Molti rifiutan lo comune incarcho;\
 &emsp;Ma 'l popol tuo sollecito risponde\
 &emsp;Senza chiamar, e dice: Io mi sobbarcho.
 
-⁴⁵ Multi renuunt commune onus;\
+45 Multi renuunt commune onus;\
 &emsp;Sed populus tuus sollicitus respondet,\
 &emsp;Absque clamore: Ego me subarco.
 
-⁴⁶ Or ti fa lieta, chè tu hai ben donde:\
+46 Or ti fa lieta, chè tu hai ben donde:\
 &emsp;Tu richa, tu con pace, tu con senno.\
 &emsp;S'io dico 'l vero, l'effecto nol nasconde.
 
-⁴⁶ Ergo fac te letam, quia tu bene habes unde:\
+46 Ergo fac te letam, quia tu bene habes unde:\
 &emsp;Tu dives, tu cum pace, tu cum sapientia.\
 &emsp;Si dico verum, effectus id non abscondit.
 
-⁴⁷ Athene e Lacedemona che fenno\
+47 Athene e Lacedemona che fenno\
 &emsp;L'antiche leggi, e furon sì civili,\
-&emsp;Fecer al viver ben un pichol (⁴) cenno
+&emsp;Fecer al viver ben un pichol (4) cenno
 
-⁴⁷ Athene et Lacedemonie que fecerunt\
+47 Athene et Lacedemonie que fecerunt\
 &emsp;Antiquas leges, et fuerunt tam civiles,\
 &emsp;Fecerunt ad vivendum bene unum parvum cennum
 
-(¹) al. Metel. — (²) di questa. — (³) al. et. — (⁴) al. picciol.
+(1) al. Metel. — (2) di questa. — (3) al. et. — (4) al. picciol.
 
 scilicet quod tu non cogites de nobis, vel non cures: ergo secundum est dandum, idest quod tu facis hoc occulte, vel permictis, et secrete in eterno tuo consilio, quo permictis sepe fieri mala aliqua magna propter elicere ex illis aliquos bonos effectus. Iudicia Dei abyssus multa. Vel est preparatio quam in abysso, idest in profundo, vel secreto tui consilii, facias pro aliquo bono, in totum a cognitione nostra divisa, idest preparatio.
 
@@ -510,33 +510,33 @@ Athene et Lacedemonie, idest Athenienses et Lacedemonienses, que, idest qui, fec
 
 <!-- p. 498 (0552) -->
 
-⁴⁸ Verso di te che fai tanto sottili\
+48 Verso di te che fai tanto sottili\
 &emsp;Provedimenti, ch'a mezzo novembre\
 &emsp;Non giugne ciò che tu d'octobre fili.
 
-⁴⁸ Respectu tui, que facis tam subtilia\
+48 Respectu tui, que facis tam subtilia\
 &emsp;Providimenta, quod ad medium novembris\
 &emsp;Non pervenit id quod tu de octobri filas.
 
-⁴⁹ Quante volte nel tempo che rimembre,\
+49 Quante volte nel tempo che rimembre,\
 &emsp;Leggi, ed offici, e monete, e costume\
 &emsp;Hai tu mutato, e rinnovato membre!
 
-⁴⁹ Quot vicibus de tempore cuius ego reminiscor,\
+49 Quot vicibus de tempore cuius ego reminiscor,\
 &emsp;Legem, monetam, et officia, et mores\
 &emsp;Mutasti tu, et renovasti membra!
 
-⁵⁰ E se ben ti ricordi, e vedi lume,\
+50 E se ben ti ricordi, e vedi lume,\
 &emsp;Vedrai te simigliante a quella inferma,\
 &emsp;Che non può trovar posa in sulle piume,\
-&emsp;Ma con (¹) dar volta suo dolore scherma.
+&emsp;Ma con (1) dar volta suo dolore scherma.
 
-⁵⁰ Et si bene recordaris, et vides lumen,\
+50 Et si bene recordaris, et vides lumen,\
 &emsp;Videbis te similem illi infirme,\
 &emsp;Que non potest reperire quietem super plumis,\
 &emsp;Sed dando revolutionem suum dolorem mitigat.
 
-(¹) al. col.
+(1) al. col.
 
 tempore auctoris; ideo sic yronice loquitur. Nota quod Athene et Lacedemonie, due civitates in Gretia, fuerunt, ut dicit Titus Livius, in armis optime et in scientia, et habuerunt et fecerunt optimas leges. Athenienses habuerunt a Solone; Lacedemonienses habuerunt a Licurgo. Romani antiquitus bene per tercentos annos vixerunt sub propriis legibus; sed transactis illis annis, miserunt legationem pulcherrimam ad Gretiam, et habuerunt duodecim tabulas, super quibus fundate sunt leges. Vult dicere auctor, loquens yronice, quod leges Atheniensium et Lacedemonium modicum valent respectu legum, quas faciunt Florentini), respectu tui, que facis tantum subtilia providimenta, quod ad medium novembris non pervenit id quod tu de octobre filas, idest nes. Quasi dicat: Modicum durant providentia tua et decreta tua. Hoc probat sic per effectum.
 

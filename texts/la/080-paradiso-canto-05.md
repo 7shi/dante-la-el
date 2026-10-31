@@ -8,27 +8,27 @@ In isto quinto capitulo, quod incipit: Si ego [te] inflammo, etc., auctor ostend
 
 # Capitulum Quintum
 
-¹ S'io ti fiammeggio nel caldo d'amore\
+1 S'io ti fiammeggio nel caldo d'amore\
 &emsp;Di là dal modo che 'n terra si vede\
 &emsp;Sì che degli ochi tuoi vinco 'l valore,
 
-¹ Si ego te inflammo de calore amoris\
+1 Si ego te inflammo de calore amoris\
 &emsp;Ultra modum quo in terra videtur,\
 &emsp;Ita quod tue virtutis vinco valorem,
 
-² Non ti maraviglar; chè ciò procede\
+2 Non ti maraviglar; chè ciò procede\
 &emsp;Dal perfecto veder, che come apprende,\
 &emsp;Così nel ben appreso muove 'l piede.
 
-² Non mireris; quia hoc procedit\
+2 Non mireris; quia hoc procedit\
 &emsp;A perfecto videre, quod sicut apprehendit,\
 &emsp;Sic in bonum prope movet pedem.
 
-³ Io veggio ben sì come già risplende\
+3 Io veggio ben sì come già risplende\
 &emsp;Nell'intellecto tuo l'etterna luce,\
 &emsp;Che vista sola et sempre amore accende;
 
-³ Ego video bene sicut iam resplendet\
+3 Ego video bene sicut iam resplendet\
 &emsp;In intellectu tuo eterna lux,\
 &emsp;Que, visa, semper solum amorem accendit;
 
@@ -52,43 +52,43 @@ Ego, scilicet Beatrix, video bene sicut, idest quómodo, iam resplendet, idest m
 
 <!-- p. 873 (0927) -->
 
-⁴ E s'altra cosa vostro amor seduce,\
+4 E s'altra cosa vostro amor seduce,\
 &emsp;Non è, se non di quella alcun vestigio\
 &emsp;Mal cognosciuto, che quivi traluce.
 
-⁴ Et si alia res vestrum amorem seducit,\
+4 Et si alia res vestrum amorem seducit,\
 &emsp;Non est, nisi illius aliquod vestigium\
 &emsp;Male cognitum, quod ibi tralucet.
 
-⁵ Tu vo' saper, se con altro servigio,\
+5 Tu vo' saper, se con altro servigio,\
 &emsp;Per voto manco, si può render tanto,\
 &emsp;Che l'anima sicuri dal litigio.
 
-⁵ Tu vis scire, si cum alio servitio,\
+5 Tu vis scire, si cum alio servitio,\
 &emsp;Pro non adimpleto voto, potest reddi tantum,\
 &emsp;Quod animam securet a litigio.
 
-⁶ Sì cominciò Beatrice esto canto;\
+6 Sì cominciò Beatrice esto canto;\
 &emsp;E, sì com'huom che suo parlar non spezza,\
 &emsp;Continuò così 'l processo sancto:
 
-⁶ Sic incepit Beatrix istum cantum;\
+6 Sic incepit Beatrix istum cantum;\
 &emsp;Et, sicut homo qui suum sermonem non frangit,\
 &emsp;Continuavit sic processum sanctum.
 
-⁷ El maggior dono, che Dio per sua larghezza\
+7 El maggior dono, che Dio per sua larghezza\
 &emsp;Fesse creando, et a la sua bontate\
 &emsp;Più conformato, e quel che più apprezza,
 
-⁷ Maius bonum, quod Deus ex sua largitate\
+7 Maius bonum, quod Deus ex sua largitate\
 &emsp;Fecerit creando, et sue bonitati\
 &emsp;Magis conforme, et illud quod magis appretiat,
 
-⁸ Fu de la volontà la libertate,\
+8 Fu de la volontà la libertate,\
 &emsp;Di che le creature intelligenti,\
 &emsp;E tutte e sole, furo e son dotate.
 
-⁸ Fuit de voluntate libertas,\
+8 Fuit de voluntate libertas,\
 &emsp;De qua creature intelligentes,\
 &emsp;Omnes et sole, fuerunt et sunt doctate.
 
@@ -104,63 +104,63 @@ hec est secunda pars capituli huius, in qua ostendit si in voto potest dispensar
 
 <!-- p. 874 (0928) -->
 
-⁹ Hor ti parrà, se tu quinci argomenti,\
+9 Hor ti parrà, se tu quinci argomenti,\
 &emsp;L'alto valor del voto, se è sì facto,\
 &emsp;Che Dio consenta quando tu consenti;
 
-⁹ Nunc tibi apparebit, si hinc arguis,\
+9 Nunc tibi apparebit, si hinc arguis,\
 &emsp;Altum valorem voti esse talem,\
 &emsp;Quod Deus consentiat quando tu consentis;
 
-¹⁰ Chè, nel fermar tra Dio e l'huomo el pacto,\
+10 Chè, nel fermar tra Dio e l'huomo el pacto,\
 &emsp;Victima fassi di questo thesoro,\
 &emsp;Tal qual io dico, e fassi col suo acto.
 
-¹⁰ Quia in firmando inter Deum et hominem pacto,\
+10 Quia in firmando inter Deum et hominem pacto,\
 &emsp;Victima fit de isto thesauro,\
 &emsp;Talis qualem ego dico, et fit cum suo actu.
 
-¹¹ Dunque, che render puossi per ristoro?\
+11 Dunque, che render puossi per ristoro?\
 &emsp;Se credi ben usar quel c'hai offerto,\
 &emsp;Di mal tollecto vuo'far buon lavoro.
 
-¹¹ Ergo, quid reddi potest pro restauratione?\
+11 Ergo, quid reddi potest pro restauratione?\
 &emsp;Si credis bene uti illo quod abstulisti,\
 &emsp;De male ablatis vis facere bonum laborem.
 
-¹² Tu se' omai del maggior puncto certo;\
+12 Tu se' omai del maggior puncto certo;\
 &emsp;Ma, perchè Sancta Chiesa in ciò dispensa,\
-&emsp;Che par contr'al dover (¹) ch'io t'ho scoperto,
+&emsp;Che par contr'al dover (1) ch'io t'ho scoperto,
 
-¹² Tu es ammodo de maiori puncto certus;\
+12 Tu es ammodo de maiori puncto certus;\
 &emsp;Sed quia Sancta Ecclesia in hoc dispensat,\
 &emsp;Quod apparet contrarium veritati quam ego discoperui,
 
-¹³ Convienti ancor seder un poco a mensa,\
+13 Convienti ancor seder un poco a mensa,\
 &emsp;Però che 'l cibo rigido c' hai preso\
 &emsp;Richiede ancor aiuto a suo' dispensa.
 
-¹³ Convenit tibi adhuc sedere aliquantulum in mensa,\
+13 Convenit tibi adhuc sedere aliquantulum in mensa,\
 &emsp;Quia cibus rigidus quem sumpsisti,\
 &emsp;Requirit adiutorium ad tuam dispensam.
 
-¹⁴ Apre la mente a quel ch'io ti paleso,\
+14 Apre la mente a quel ch'io ti paleso,\
 &emsp;E fermalv' entro; chè non fa scienza,\
 &emsp;Senza lo ritener, havere inteso.
 
-¹⁴ Aperias mentem illi vero quod ego tibi pando,\
+14 Aperias mentem illi vero quod ego tibi pando,\
 &emsp;Et firma illud intra te; quia non facit scientiam,\
 &emsp;Sine retentione intellexisse.
 
-¹⁵ Due cose si convengon all'essentia\
+15 Due cose si convengon all'essentia\
 &emsp;Di questo sacrificio: l'una è quella\
 &emsp;Di che si fa, l'altr'è la convenenza.
 
-¹⁵ Due res conveniunt essentie\
+15 Due res conveniunt essentie\
 &emsp;Istius sacrificii; una est illa\
 &emsp;De qua fit, alia est convenientia.
 
-(¹) al. contraro al ver.
+(1) al. contraro al ver.
 
 observandum nec implendum; sicut [si] quis voveret Deo commictere adulterium, vel homicidium, vel furtum, si liberaret eum ab infirmitate, etc., quia in malis promissis fides non est servanda.
 
@@ -178,59 +178,59 @@ Due res conveniunt essentie istius sacrificii: una est illa, scilicet materia, d
 
 <!-- p. 875 (0929) -->
 
-¹⁶ Quest'ultima già mai non si cancella,\
+16 Quest'ultima già mai non si cancella,\
 &emsp;Se non servata, et intorno di lei\
 &emsp;Sì preciso di sopra si favella:
 
-¹⁶ Ista ultima nunquam cancellatur,\
+16 Ista ultima nunquam cancellatur,\
 &emsp;Nisi servata circa eam,\
 &emsp;Si suum pretium desuper non loquitur:
 
-¹⁷ Però necessità fu agl'Hebrei\
+17 Però necessità fu agl'Hebrei\
 &emsp;Pur l'offerir, per ben ch'alcuna offerta\
 &emsp;Si permutasse, come saper dei.
 
-¹⁷ Ideo necessarium fuit Hebreis\
+17 Ideo necessarium fuit Hebreis\
 &emsp;Solum offerre, quamquam ista oblatio\
 &emsp;Permutaretur, sicut scire debes.
 
-¹⁸ L'altra, che per materia t'è aperta,\
+18 L'altra, che per materia t'è aperta,\
 &emsp;Puote ben esser tal, che non si falla,\
 &emsp;Se con altra materia si converta.
 
-¹⁸ Alia, que propter materiam tibi est aperta,\
+18 Alia, que propter materiam tibi est aperta,\
 &emsp;Potest bene esse talis, quod non fallitur,\
 &emsp;Esto quod in aliam materiam commutetur.
 
-¹⁹ Ma non transmuti carco a la suo'spalla\
+19 Ma non transmuti carco a la suo'spalla\
 &emsp;Per suo arbitrio alcun, senza la volta\
 &emsp;E de la bianca chiave e de la gialla;
 
-¹⁹ Sed non permutet honus suo humero\
+19 Sed non permutet honus suo humero\
 &emsp;Pro suo arbitrio aliquis, sine volutione\
 &emsp;Et clavis albe et gialle;
 
-²⁰ Et ogni permutanza crede stolta,\
+20 Et ogni permutanza crede stolta,\
 &emsp;Se la cosa dimessa in la sorpresa,\
 &emsp;Come quattro nel sei, non è ricolta.
 
-²⁰ Et omnem permutationem credas stultam,\
+20 Et omnem permutationem credas stultam,\
 &emsp;Si res que dimictitur, ad eam que apponitur,\
 &emsp;Sicut quatuor in sex, non sit recollecta.
 
-²¹ Però qualunque cosa tanto pesa\
+21 Però qualunque cosa tanto pesa\
 &emsp;Per suo valor, che tragga ogni bilancia,\
 &emsp;Satisfar non si può con altra spesa.
 
-²¹ Ergo quecumque res tantum ponderat\
+21 Ergo quecumque res tantum ponderat\
 &emsp;Propter suum valorem, quod trahit omnem lancem,\
 &emsp;Satisfieri non potest cum alia expensa.
 
-²² Non prendan e mortali il voto a ciancia:\
+22 Non prendan e mortali il voto a ciancia:\
 &emsp;Siate fedeli, et a ciò far non bieci,\
 &emsp;Come fe'Yepte a la suo'prima mancia;
 
-²² Non capiant mortales igitur vota ad truffam:\
+22 Non capiant mortales igitur vota ad truffam:\
 &emsp;Sitis fideles, ad hoc faciendum, non bieci,\
 &emsp;Sicut Iepte ad suam primam manciam;
 
@@ -250,47 +250,47 @@ hec est tertia pars huius capituli, in qua Beatrix consilium salubre dat hominib
 
 <!-- p. 876 (0930) -->
 
-²³ Cui più si convenia dicer: Mal feci;\
+23 Cui più si convenia dicer: Mal feci;\
 &emsp;Che, servando, far peggio: e così stolto\
 &emsp;Ritrovar puoi el gran duca de Greci,
 
-²³ Cui conveniebat potius dicere: Male feci;\
+23 Cui conveniebat potius dicere: Male feci;\
 &emsp;Quam, servando, facere peius: et sic stultus\
 &emsp;Repertus fuit grandis dux Grecorum,
 
-²⁴ Onde pianse Ephygenia el suo bel volto,\
+24 Onde pianse Ephygenia el suo bel volto,\
 &emsp;E fe' pianger di sè li folli e savi,\
 &emsp;Ch'udir parlar di così facto colto.
 
-²⁴ Unde planxit Effigenia suum pulchrum vultum,\
+24 Unde planxit Effigenia suum pulchrum vultum,\
 &emsp;Et fecit de ipso plangere stultos et sapientes,\
 &emsp;Qui audierunt loqui de tam placibili vultu.
 
-²⁵ Siate, Chrystiani, a muovervi più gravi,\
-&emsp;Non siate come penna (¹) ad ogni vento,\
+25 Siate, Chrystiani, a muovervi più gravi,\
+&emsp;Non siate come penna (1) ad ogni vento,\
 &emsp;E non crediate ch'ogni acqua vi lavi.
 
-²⁵ Sitis, o Christiani, ad movendum vos magis graves,\
+25 Sitis, o Christiani, ad movendum vos magis graves,\
 &emsp;Non sitis sicut penna que agitatur ab omni vento,\
 &emsp;Et non credatis quod omnis aqua vos lavet.
 
-²⁶ Havete 'l nuovo e 'l vecchio Testamento,\
+26 Havete 'l nuovo e 'l vecchio Testamento,\
 &emsp;E 'l pastor de la Chiesa che vi guida;\
 &emsp;Questo vi basti a vostro salvamento.
 
-²⁶ Habetis vetus et novum Testamentum,\
+26 Habetis vetus et novum Testamentum,\
 &emsp;Et pastorem Ecclesie qui vos ducit;\
 &emsp;Hoc vobis sufficiat ad vestram salvationem.
 
-²⁷ Se mala cupidigia altro vi grida,\
+27 Se mala cupidigia altro vi grida,\
 &emsp;Huomini siate, e non pecore macte,\
 &emsp;Sì che 'l Giudeo di voi tra voi non rida.
 
-²⁷ Si mala cupiditas alio vos trahit,\
+27 Si mala cupiditas alio vos trahit,\
 &emsp;Sitis homines, et non pecora fatua,\
 &emsp;Ita quod Iudeus inter vos de vobis non rideat.
 
-(¹) al. fogla
+(1) al. fogla
 
 tamen notandum est, quod, quando fit super materia que non potest meliorari, tunc illud votum est indispensabile, sicut super voto continentie religiose. Vovendo quis religionem, vovet mentem suam religioni; ideo non potest permutari nisi in arctiorem religionem, in qua esset onus gravius religionis. Non capiant igitur mortales vota ad trufam, idest pro trufa, sive derisu et vilipendio; sitis fideles ad hoc, scilicet ad votum faciendum, non bieci, idest tortuosi, sicut, scilicet fuit, Iepte ad primam suam manciam, idest victoriam.
 
@@ -308,71 +308,71 @@ Si mala cupiditas alio vos trahit, idest si temptamini, sitis homines rationabil
 
 <!-- p. 877 (0931) -->
 
-²⁸ Non fate co'l'agnel (¹) che lassa el lacte\
+28 Non fate co'l'agnel (1) che lassa el lacte\
 &emsp;De la sua madre, e semplice e lascivo\
 &emsp;Seco medesmo a suo piacer combacte.
 
-²⁸ Non faciatis sicut agnus qui dimictit lac\
+28 Non faciatis sicut agnus qui dimictit lac\
 &emsp;Sue matris, et simplex et lascivus\
 &emsp;Secummet suam pacem pugnat.
 
-²⁹ Così Beatrice a me, com'io scrivo;\
+29 Così Beatrice a me, com'io scrivo;\
 &emsp;Poi si rivolse tucta disiante\
 &emsp;A quella parte ove 'l mondo è più vivo.
 
-²⁹ Sic Beatrix ad me, sicut ego scribo;\
+29 Sic Beatrix ad me, sicut ego scribo;\
 &emsp;Postmodum se convertit tota desiderans\
 &emsp;Ad illam partem ubi mundus est magis vivus.
 
-³⁰ Lo suo tacer e transmutar sembiante\
+30 Lo suo tacer e transmutar sembiante\
 &emsp;Poser silentio al mio cupido ingegno,\
 &emsp;Che già nuova question havea davante.
 
-³⁰ Sua taciturnitas et transmutare similitudinem\
+30 Sua taciturnitas et transmutare similitudinem\
 &emsp;Posuerunt silentium meo cupido ingenio,\
 &emsp;Quod iam novas questiones habebat ante.
 
-³¹ E sì come saetta, che nel segno\
+31 E sì come saetta, che nel segno\
 &emsp;Percuote pria che sia la corda queta,\
 &emsp;Così corremmo nel secondo regno.
 
-³¹ Et sicut sagipta, que in signum\
+31 Et sicut sagipta, que in signum\
 &emsp;Percutit priusquam corda sit quieta,\
 &emsp;Sic nos cucurrimus in secundum regnum.
 
-³² Quivi la donna mia vidi sì lieta,\
+32 Quivi la donna mia vidi sì lieta,\
 &emsp;Come nel lume di quel ciel si mise,\
 &emsp;Che più lucente se ne fe'l pianeta.
 
-³² Ibi dominam meam vidi ego ita letam,\
+32 Ibi dominam meam vidi ego ita letam,\
 &emsp;Statim quod in lumine illius se misit,\
 &emsp;Et lucidior de ea fuit factus ille planeta.
 
-³³ E se la stella si cambiò et rise,\
+33 E se la stella si cambiò et rise,\
 &emsp;Qual mi fec'io, che pur da mia natura\
 &emsp;Transmutabile son per tutte guise!
 
-³³ Et si stella ad stellam se permutavit et risit,\
+33 Et si stella ad stellam se permutavit et risit,\
 &emsp;Qualis fui ego factus, qui solum a mea natura\
 &emsp;Transmutabilis sum per omnes partes!
 
-³⁴ Com'in peschiera, che è tranquilla e pura,\
+34 Com'in peschiera, che è tranquilla e pura,\
 &emsp;Traggon e pesci a ciò che vien di fori,\
 &emsp;Per modo che lo stimin lor pastura;
 
-³⁴ Sicut in pischeria, que est tranquilla et pura,\
+34 Sicut in pischeria, que est tranquilla et pura,\
 &emsp;Trahunt pisces ad quidquid vident foris,\
 &emsp;Per modum quod ipsi existiment eorum pasturam;
 
-³⁵ Così vid'io più di mille splendori\
+35 Così vid'io più di mille splendori\
 &emsp;Trarsi ver noi; et in ciascun s'udia:\
 &emsp;Ecco chi crescerà li nostri amori.
 
-³⁵ Sic vidi ego bene plus quam mille splendores\
+35 Sic vidi ego bene plus quam mille splendores\
 &emsp;Trahere se versus nos; et in quolibet audiebatur:\
 &emsp;Ecce qui accrescet nostros amores.
 
-(¹) al. com'agnel
+(1) al. com'agnel
 
 Non faciatis sicut, supple facit, agnus, qui dimictit lac sue matris, et simplex et lascivus secummet suam pacem pugnat, quia nescit quod velit. Pulchra comparatio: quia sicut evenit agno lascivo, qui indiget cibo, tamen dimictit lac matris, saltans hinc inde, et cadens in faucibus lupi; sic evenit christianis qui recedunt ab Ecclesia matre sua, et vadunt huc illuc vagando, et sic incidunt in manibus dyaboli.
 
@@ -392,59 +392,59 @@ Modo per talem comparationem ostendit, quomodo vidit spiritus multos in isto pla
 
 <!-- p. 878 (0932) -->
 
-³⁶ E sì come ciascun a noi venia,\
+36 E sì come ciascun a noi venia,\
 &emsp;Vedeasi l'ombra piena di letitia\
 &emsp;Nel suo chiaro fulgor che da lei uscia.
 
-³⁶ Et statim sicut quelibet ad nos veniebat,\
+36 Et statim sicut quelibet ad nos veniebat,\
 &emsp;Videbatur umbra plena letitia\
 &emsp;In fulgore claro qui de ipso exibat.
 
-³⁷ Pensa, lector, se quel che qui s'initia\
+37 Pensa, lector, se quel che qui s'initia\
 &emsp;Non procedesse, come tu havresti\
 &emsp;Di più saper angosciosa caritia;
 
-³⁷ Cogita, lector, si illud quod hic initiatur\
+37 Cogita, lector, si illud quod hic initiatur\
 &emsp;Non procederet, quomodo tu haberes\
 &emsp;Pluris sciendi angustiosam caristiam;
 
-³⁸ E per te vederai, come da questi\
+38 E per te vederai, come da questi\
 &emsp;M'era 'n disio d'udir lor conditioni,\
 &emsp;Sì com'agl'ochi mi fur manifesti.
 
-³⁸ Et per te videbis quomodo ab istis\
+38 Et per te videbis quomodo ab istis\
 &emsp;Michi erat in desiderium audire eorum conditiones,\
 &emsp;Statim quod oculis meis fuerunt manifesti.
 
-³⁹ O bene nato, a cui veder li troni\
+39 O bene nato, a cui veder li troni\
 &emsp;Del triumpho eternal concede gratia,\
 &emsp;Prima che la militia s'abbandoni,
 
-³⁹ O bene nate, cui videre tronos\
+39 O bene nate, cui videre tronos\
 &emsp;Triumphi eternalis concedit gratia,\
 &emsp;Priusquam militia derelinquatur,
 
-⁴⁰ Del lume che per tutto 'l ciel si spatia,\
+40 Del lume che per tutto 'l ciel si spatia,\
 &emsp;Noi siamo accesi; e però, se desii\
 &emsp;Da noi chiarirti, a tuo voler ti satia.
 
-⁴⁰ De lumine quod per totum celum spatiatur,\
+40 De lumine quod per totum celum spatiatur,\
 &emsp;Nos sumus accensi; et ideo, si desideras\
 &emsp;De nobis clarificari, ad tuam complacentiam te satia.
 
-⁴¹ Così da un di quei spiriti pii\
+41 Così da un di quei spiriti pii\
 &emsp;Decto mi fu; e da Beatrice: Di', di'\
 &emsp;Sicuramente, e crede come a Dii.
 
-⁴¹ Sic ab uno illorum spirituum piorum\
+41 Sic ab uno illorum spirituum piorum\
 &emsp;Dictum michi fuit; et a Beatrice: Dic, dic\
 &emsp;Secure, et crede sicut Diis.
 
-⁴² Io veggio ben sì come tu t'annidi\
+42 Io veggio ben sì come tu t'annidi\
 &emsp;Nel primo lume, e che dagl'ochi traggi;\
 &emsp;Perchè ei corruscan sì, come tu ridi;
 
-⁴² Ego video bene sicut tu annidas\
+42 Ego video bene sicut tu annidas\
 &emsp;In proprio lumine, quod ab oculis trahis;\
 &emsp;Eo quia coruscat statim, sicut tu rides;
 
@@ -466,36 +466,36 @@ Ego video bene sicut, idest quomodo, tu te annidas, idest quiescis, in proprio l
 
 <!-- p. 879 (0933) -->
 
-⁴³ Ma non so chi tu se', nè perchè aggi,\
+43 Ma non so chi tu se', nè perchè aggi,\
 &emsp;Anima degna, el grado de la spera,\
 &emsp;Che si vela a' mortali con altrui raggi.
 
-⁴³ Sed nescio qui tu es, nec quare habeas,\
+43 Sed nescio qui tu es, nec quare habeas,\
 &emsp;Anima digna, gradum spere,\
 &emsp;Que velatur mortalibus cum alienis radiis.
 
-⁴⁴ Questo diss'io diricto a la lumera\
+44 Questo diss'io diricto a la lumera\
 &emsp;Che pria m' havea parlato, ond'ella fessi\
 &emsp;Lucente più assai di quel ch'ell'era.
 
-⁴⁴ Istud ego dixi versus lumen\
+44 Istud ego dixi versus lumen\
 &emsp;Quod prius loquutum erat, unde fecit ipsum se\
 &emsp;Lucidum magis multo plus eo quod erat.
 
-⁴⁵ Sì come 'l sol, che si cela elli stessi\
+45 Sì come 'l sol, che si cela elli stessi\
 &emsp;Per troppa luce, quando el caldo ha rose\
 &emsp;Le temperanze de'vapori spessi;
 
-⁴⁵ Sicut sol, qui se celat ipsemet\
+45 Sicut sol, qui se celat ipsemet\
 &emsp;Propter nimiam lucem, postquam calor corrosit\
 &emsp;Temperantias vaporum spissorum;
 
-⁴⁶ Per più letitia sì mi si nascose\
+46 Per più letitia sì mi si nascose\
 &emsp;Dentr' al suo raggio la figura sancta:\
 &emsp;E così chiusa chiusa mi rispose\
 &emsp;Nel modo che 'l seguente canto canta.
 
-⁴⁶ Propter maiorem letitiam se abscondit\
+46 Propter maiorem letitiam se abscondit\
 &emsp;Intra suum radium figura sancta:\
 &emsp;Et sic clausa clausa michi respondit\
 &emsp;Per modum quem sequens cantus cantat.

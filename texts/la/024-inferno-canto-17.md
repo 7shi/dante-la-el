@@ -8,15 +8,15 @@ In decimoseptimo capitulo, quod incipit: Ecce feram cum cauda acuta, auctor depi
 
 # Capitulum Decimumseptimum
 
-¹ Ecco la fiera colla coda aguzza,\
-&emsp;Che passa monti, e rompe (¹) muri et armi;\
+1 Ecco la fiera colla coda aguzza,\
+&emsp;Che passa monti, e rompe (1) muri et armi;\
 &emsp;Ecco colei che tutto 'l mondo appuzza:
 
-¹ Ecce feram cum cauda acuta,\
+1 Ecce feram cum cauda acuta,\
 &emsp;Que transit montes, et rumpit arma et muros;\
 &emsp;Ecce illam que totum mundum appuzzat:
 
-(¹) al. spezza.
+(1) al. spezza.
 
 Ecco la fiera con la coda. Ecce feram cum cauda acuta: istud est decimumseptimum capitulum huius Inferni, in quo auctor vult describere fraudem per figuram unius feri animalis et complere materiam violentie, scilicet loqui de usuris; et demum intrabit circulum fraudulentie. Quod quidem capitulum dividitur in quatuor partes. In quarum prima auctor describit in generali istam feram. In secunda, que incipit ibi:
 
@@ -44,55 +44,55 @@ Secundo, Gerion habet bustum serpentinum. Nullum animal est callidius serpente, 
 
 <!-- p. 217 (0271) -->
 
-² Sì cominciò lo mio duca a mostrarmi;\
+2 Sì cominciò lo mio duca a mostrarmi;\
 &emsp;Et accennolli che venisse a proda,\
 &emsp;Vicin al fin de' passeggiati marmi.
 
-² Sic cepit dux meus loqui michi;\
+2 Sic cepit dux meus loqui michi;\
 &emsp;Et accennavit quod ipsa veniret ad proram,\
 &emsp;Vicina ad finem de gradibus marmoreis.
 
-³ E quella sozza ymagine di froda\
+3 E quella sozza ymagine di froda\
 &emsp;Sen venne, et arrivò la testa e 'l busto;\
 &emsp;Ma 'n su la riva non trasse la coda.
 
-³ Et illa turpis ymago fraudis\
+3 Et illa turpis ymago fraudis\
 &emsp;Venit, et applicuit cum capite et busto;\
 &emsp;Sed supra ripam non extraxit caudam.
 
-⁴ La faccia sua era faccia d'huom giusto;\
+4 La faccia sua era faccia d'huom giusto;\
 &emsp;Tanto benign'havea di fuor la pelle,\
 &emsp;E d'un serpente tutto l'altro frusto.
 
-⁴ Facies sua erat facies hominis iusti;\
+4 Facies sua erat facies hominis iusti;\
 &emsp;Tantum benignam habebat de foris pellem,\
 &emsp;Et unius serpentis totum aliud bustum.
 
-⁵ Due branche avea pelose infin l'ascelle:\
+5 Due branche avea pelose infin l'ascelle:\
 &emsp;Lo dosso e 'l pecto et amendue le coste\
 &emsp;Depincti havea di nodi e di rotelle.
 
-⁵ Duas branchas habebat pilosas usque ad ascellas:\
+5 Duas branchas habebat pilosas usque ad ascellas:\
 &emsp;Dorsum, pectus et ambas duas costas\
 &emsp;Depictus habebat de nodis et rotellis.
 
-⁶ Con più color commesse e sopraposte\
+6 Con più color commesse e sopraposte\
 &emsp;Non fer mai drappi Tartari nè Turchi,\
-&emsp;Nè (¹) fur tai tele per Aragne imposte.
+&emsp;Nè (1) fur tai tele per Aragne imposte.
 
-⁶ Cum pluribus coloribus submissis et superpositis\
+6 Cum pluribus coloribus submissis et superpositis\
 &emsp;Nunquam fuerunt drappi tartari nec turci,\
 &emsp;Nec tales tele fuerunt per Araneam imposite.
 
-⁷ Come talvolta stanno a riva e burchi,\
+7 Come talvolta stanno a riva e burchi,\
 &emsp;Che parte sono in acqua e parte in terra,\
 &emsp;E come là tra gli Tedeschi glurchi
 
-⁷ Sicut aliquando stant ad ripam burchi,\
+7 Sicut aliquando stant ad ripam burchi,\
 &emsp;Partim stant in aqua et partim in terra,\
 &emsp;Et sicut inter Theuthonicos lurcos
 
-(¹) mai.
+(1) mai.
 
 neque enim est minima ars, in qua hodie non commictantur mille fraudes.
 
@@ -108,51 +108,51 @@ Postquam auctor depinxit Gerionem, nunc figurat modum veniendi Gerionis, dicens:
 
 <!-- p. 218 (0272) -->
 
-⁸ Lo bivero s'aseta a far sua guerra;\
+8 Lo bivero s'aseta a far sua guerra;\
 &emsp;Così la fiera pexima si stava\
 &emsp;Su l'orlo che, di pietra, el sabbion serra.
 
-⁸ Bivarus se assectat ad faciendum guerram;\
+8 Bivarus se assectat ad faciendum guerram;\
 &emsp;Sic fera pexima stabat\
 &emsp;Super extremitatem lapideam, que sabulon serrat.
 
-⁹ Nel vano tutta sua coda guizzava,\
+9 Nel vano tutta sua coda guizzava,\
 &emsp;Torcendo in su la velenosa forca\
 &emsp;Ch'a guisa di scorpion la puncta armava.
 
-⁹ In vano tota sua cauda guizzabat,\
+9 In vano tota sua cauda guizzabat,\
 &emsp;Revolvendo in tortum venenosam caudam\
 &emsp;Que, ad instar scorpionis, cuspide armabat.
 
-¹⁰ Lo duca disse: Hor convien che si torca\
+10 Lo duca disse: Hor convien che si torca\
 &emsp;La nostra via un poco infin a quella\
 &emsp;Bestia malvagia, che colà si corca.
 
-¹⁰ Dux dixit: Iam oportet quod se torceat\
+10 Dux dixit: Iam oportet quod se torceat\
 &emsp;Nostra via aliquantulum usque ad illam\
 &emsp;Bestiam malignam, que illic se collocat.
 
-¹¹ Però scendemmo a la dextra mammella,\
+11 Però scendemmo a la dextra mammella,\
 &emsp;E dieci passi femmo in sullo stremo,\
 &emsp;Per ben cessar la rena e la fiammella:
 
-¹¹ Ideo descendimus ad dexteram mammillam,\
+11 Ideo descendimus ad dexteram mammillam,\
 &emsp;Et decem passus fecimus super extremitatem,\
 &emsp;Ad bene cessandum arenam et flammellam:
 
-¹² E quando noi a lei venuti semo,\
+12 E quando noi a lei venuti semo,\
 &emsp;Poco più oltre veggio in su la rena\
 &emsp;Gente seder propinqua al luogo scemo.
 
-¹² Et quando nos ad ipsam venimus,\
+12 Et quando nos ad ipsam venimus,\
 &emsp;Modicum ulterius super arenam\
 &emsp;Video gentem sedere propinquam loco scemo.
 
-¹³ Quivi el maestro: Acciò che tutta piena\
+13 Quivi el maestro: Acciò che tutta piena\
 &emsp;Experientia d'esto giron porti,\
 &emsp;Mi disse, va', e vedi la lor mena.
 
-¹³ Hic magister: Ut totam plenam\
+13 Hic magister: Ut totam plenam\
 &emsp;Experientiam istius gironis portes,\
 &emsp;Michi dixit, vade, et vide suam menam.
 
@@ -172,63 +172,63 @@ Hic magister, idest dixit: Ut totam plenam experientiam istius gironis, idest ci
 
 <!-- p. 219 (0273) -->
 
-¹⁴ E tuoi ragionamenti sien là corti:\
+14 E tuoi ragionamenti sien là corti:\
 &emsp;Mentre che torni parlerò con questa,\
 &emsp;Che ne conceda e suoi humeri forti.
 
-¹⁴ Ratiocinationes tue sint illic breves:\
+14 Ratiocinationes tue sint illic breves:\
 &emsp;Quousque redieris, loquar cum ista,\
 &emsp;Ut nobis concedat suos humeros fortes.
 
-¹⁵ Così ancor su per l'extrema testa\
+15 Così ancor su per l'extrema testa\
 &emsp;Di quel septimo cerchio, tutto solo\
 &emsp;N'andai, dove sedea la gente mesta.
 
-¹⁵ Taliter adhuc super extremam testam\
+15 Taliter adhuc super extremam testam\
 &emsp;Illius scemi circuli, totus solus\
 &emsp;Ivi, ubi sedebat gens mesta.
 
-¹⁶ Per gl'ochi fuori scoppiano el lor duolo:\
+16 Per gl'ochi fuori scoppiano el lor duolo:\
 &emsp;Di qua di là soccorrean co'le mani,\
 &emsp;Quando a'vapori, e quando al caldo suolo.
 
-¹⁶ Per oculos foris exibat dolor:\
+16 Per oculos foris exibat dolor:\
 &emsp;Hac illac succurrebant cum manibus,\
 &emsp;Quandoque ad vapores, quandoque ad solum calidum.
 
-¹⁷ Non altrimenti fan di state e cani.\
+17 Non altrimenti fan di state e cani.\
 &emsp;Hor col ceffo hor col pie', quando son morsi\
 &emsp;Da pulci, o da mosconi, o da tafani.
 
-¹⁷ Non aliter faciunt in estate canes,\
+17 Non aliter faciunt in estate canes,\
 &emsp;Nunc cum ore, nunc cum pedibus, quando mordentur\
 &emsp;A muscis, pullicibus et tafanis.
 
-¹⁸ Poichè nel viso a certi (¹) gl'ochi (²) porsi (³),\
+18 Poichè nel viso a certi (1) gl'ochi (2) porsi (3),\
 &emsp;A'quali el doloroso foco casca,\
 &emsp;Non ne cognobbi alcun; ma io m'accorsi
 
-¹⁸ Postquam visum ad certa loca porrexi,\
+18 Postquam visum ad certa loca porrexi,\
 &emsp;In que dolorosus ignis cadit,\
 &emsp;Non cognovi aliquem eorum; sed ego perpendi
 
-¹⁹ Che dal collo a ciascun pend' (⁴) una tasca,\
+19 Che dal collo a ciascun pend' (4) una tasca,\
 &emsp;C'havea certo color e certo segno,\
-&emsp;E quindi par che l'orechie (⁵) si pasca.
+&emsp;E quindi par che l'orechie (5) si pasca.
 
-¹⁹ Quod a collo cuilibet pendebat una tasca,\
+19 Quod a collo cuilibet pendebat una tasca,\
 &emsp;Que habebat certum colorem et certum signum,\
 &emsp;Et ex hinc apparet quod oculus eorum pascatur.
 
-²⁰ E com'io riguardando tra lor vegno,\
+20 E com'io riguardando tra lor vegno,\
 &emsp;In una borsa gialla vidi azurro,\
 &emsp;Che d'un leone havea faccia e contegno.
 
-²⁰ Et sicut ego respiciendo inter illos veni,\
+20 Et sicut ego respiciendo inter illos veni,\
 &emsp;In una bursia gialla vidi azurium,\
 &emsp;Qui unius leonis habebat faciem et contegnum.
 
-(¹) di loro. — (²) miei. — (³) drizzai. — (⁴) al. pendeva. — (⁵) senza domandare.
+(1) di loro. — (2) miei. — (3) drizzai. — (4) al. pendeva. — (5) senza domandare.
 
 Ratiocinationes tue sint illic corte, idest breves: quousque tornes, idest redies, loquar cum ista, ut nobis [concedat] suos humeros fortes. Taliter adhuc super extremam testam, idest finem illius scemi, idest fossi, circuli, totus solus ivi, ubi sedebat gens mesta.
 
@@ -242,63 +242,63 @@ Unus istorum fuit civis florentinus, de domo de Gianfigliatiis. Domus de Gianfig
 
 <!-- p. 220 (0274) -->
 
-²¹ Poi, procedendo di mio sguardo el curro (¹),\
-&emsp;Vidin' un'altra (²) come sangue rossa,\
-&emsp;Ov'era (³) un'ocha bianca più che burro.
+21 Poi, procedendo di mio sguardo el curro (1),\
+&emsp;Vidin' un'altra (2) come sangue rossa,\
+&emsp;Ov'era (3) un'ocha bianca più che burro.
 
-²¹ Postmodum, procedendo de meo intuitu currum,\
+21 Postmodum, procedendo de meo intuitu currum,\
 &emsp;Vidi unam aliam sicut sanguine rubeam\
 &emsp;Monstrando unam aucam albam sicut burrum.
 
-²² Et un, che d'una scrofa azzurra e grossa\
+22 Et un, che d'una scrofa azzurra e grossa\
 &emsp;Segnat' havea 'l suo sachetto bianco,\
 &emsp;Mi disse: Che fai tu in questa fossa?
 
-²² Et unus, qui de una scrofa azurria et grossa\
+22 Et unus, qui de una scrofa azurria et grossa\
 &emsp;Signatum habebat suum sacculum album,\
 &emsp;Michi dixit: Quid facis tu in ista fossa?
 
-²³ Or te ne va': però che se' vivo anco (⁴),\
+23 Or te ne va': però che se' vivo anco (4),\
 &emsp;Sappi che 'l mio vicin Vitaliano\
 &emsp;Sederà qui dal mio sinistro fianco.
 
-²³ Ergo recede: et quia tu es vivus adhuc,\
+23 Ergo recede: et quia tu es vivus adhuc,\
 &emsp;Scias quod meus vicinus Vitalianus\
 &emsp;Sedebit hic apud meum sinistrum flancum.
 
-²⁴ Con questi Fiorentin son Padovano;\
+24 Con questi Fiorentin son Padovano;\
 &emsp;Spesse fiate m'intuonan gl'orechi,\
 &emsp;Gridando: Vegna el cavalier sovrano,
 
-²⁴ Cum istis Florentinis sum Paduanus;\
+24 Cum istis Florentinis sum Paduanus;\
 &emsp;Spissis vicibus michi intronant aures,\
 &emsp;Clamando: Veniat miles supremus,
 
-²⁵ Che recherà (⁵) la testa (⁶) con tre bechi:\
+25 Che recherà (5) la testa (6) con tre bechi:\
 &emsp;Qui distorse la faccia, e di fuor trasse\
 &emsp;La lingua, come bue che naso lechi.
 
-²⁵ Qui portabit tascam cum tribus yrcis:\
+25 Qui portabit tascam cum tribus yrcis:\
 &emsp;Hinc distorsit faciem, et foris traxit\
 &emsp;Linguam, sicut bos qui nasum lingit.
 
-²⁶ Et io, temendo che 'l più star crucciasse\
-&emsp;Quel (⁷) che di poco star m'avea monito,\
+26 Et io, temendo che 'l più star crucciasse\
+&emsp;Quel (7) che di poco star m'avea monito,\
 &emsp;Tornàmi indietro dall'anime lasse.
 
-²⁶ Et ego, timens ne meum stare cruciaret\
+26 Et ego, timens ne meum stare cruciaret\
 &emsp;Ipsum qui me de pauco stare habebat admonitum\
 &emsp;Redii retro ab animabus lapsis.
 
-²⁷ Trovai 'l duca mio ch'era salito\
+27 Trovai 'l duca mio ch'era salito\
 &emsp;Già 'n su la groppa del fiero animale;\
 &emsp;Disse a me: Or sia forte et ardito.
 
-²⁷ Inveni ducem meum qui iam ascenderat\
+27 Inveni ducem meum qui iam ascenderat\
 &emsp;Super groppam feri animalis,\
 &emsp;Et dixit: Iam sis fortis et audax.
 
-(¹) carro. — (²) borsa. — (³) al. iv'entro. — (⁴) ancora. — (⁵) ne la sua borsa. — (⁶) al. la tasca, — (⁷) Virgilio.
+(1) carro. — (2) borsa. — (3) al. iv'entro. — (4) ancora. — (5) ne la sua borsa. — (6) al. la tasca, — (7) Virgilio.
 
 Modo ponit alium civem florentinum, scilicet Gabrielem de Ubriachis, dicens: Postmodum, procedendo de meo sguardo, idest intuitu, currum, idest currum meorum oculorum, vidi unam aliam, scilicet bursiam, sicut sanguinem, rubeam, monstrando unam aucam albam, sive anserem blancum sicut burrum, idest butirum.
 
@@ -314,47 +314,47 @@ Nunc Virgilius incantat Dantem, quod non timeat, sed sit bene audax, et quando r
 
 <!-- p. 221 (0275) -->
 
-²⁸ Omai si scende per sì facte scale:\
+28 Omai si scende per sì facte scale:\
 &emsp;Monta dinanzi, ch'io vogl'esser mezzo,\
-&emsp;Sì che la coda (¹) non possa far male.
+&emsp;Sì che la coda (1) non possa far male.
 
-²⁸ Ammodo descenditur per tales scalas:\
+28 Ammodo descenditur per tales scalas:\
 &emsp;Ascende a parte ante, quia ego volo stare in medio,\
 &emsp;Ita ut cauda non possit tibi facere malum.
 
-²⁹ Qual è colui, ch'è sì presso al riprezzo\
+29 Qual è colui, ch'è sì presso al riprezzo\
 &emsp;De la quartana, c'ha già l'unghia morte,\
 &emsp;E trema tutto sol guardando el rezzo,
 
-²⁹ Qualis est ille, cui appropinquat riprezzum\
+29 Qualis est ille, cui appropinquat riprezzum\
 &emsp;Febris quartane, qui habet iam ungulas pallidas,\
 &emsp;Et tremit totus solum respiciendo rezzum,
 
-³⁰ Tal divenn'io a le parole porte;\
+30 Tal divenn'io a le parole porte;\
 &emsp;Ma vergogna mi fer le sue minacce,\
 &emsp;Che innanzi a buon signor fan servo forte.
 
-³⁰ Talis deveni ego ad verba porrecta;\
+30 Talis deveni ego ad verba porrecta;\
 &emsp;Sed verecundiam michi intulerunt mine sue,\
 &emsp;Que ante bonum dominum faciunt servum fortem.
 
-³¹ Io m'assettai in su quelle spal[l]acce:\
+31 Io m'assettai in su quelle spal[l]acce:\
 &emsp;Sì volli dir, ma la voce non venne\
 &emsp;Com'io credetti: Fa' che tu m'abbracce.
 
-³¹ Ego me ad sedendum posui super illas spallatias:\
+31 Ego me ad sedendum posui super illas spallatias:\
 &emsp;Et volui dicere, sed vox non venit\
 &emsp;Sicut credidi: Fac quod tu me amplexeris.
 
-³² Ma esso ch'altre volte mi sovvenne\
+32 Ma esso ch'altre volte mi sovvenne\
 &emsp;Ad alt[r]e sorti, tosto ch'io montai,\
 &emsp;Colle braccia mi cinse e mi sostenne:
 
-³² Sed ipse qui aliis vicibus michi subvenerat\
+32 Sed ipse qui aliis vicibus michi subvenerat\
 &emsp;In aliis punctis fortibus, quam cito ascendi,\
 &emsp;Cum brachiis me cinxit et me sustinuit:
 
-(¹) sua.
+(1) sua.
 
 caudam forcutam et venenosam; ideo Dantes in medio stetit, Virgilius ex parte caude. Inveni ducem meum qui iam ascenderat super groppam feri animalis; et dixit michi: Iam sis fortis et audax, ardito. Quasi dicat sibi: ascendendo talem belluam. Ammodo descenditur per tales scalas. Quasi dicat: Primo intrasti Infernum, aliquando per terram, aliquando per navim; in hoc loco descendes, non per terram, nec per navim, sed per unam belluam ita terribilem. Ascende a parte ante, quia ego volo stare in medio, scilicet inter te et caudam Gerionis, ita ut cauda non possit facere tibi malum. Vult dicere, quod homo, qui habet curam de aliquo, equitat super Gerionem, idest super fraudulentiam.
 
@@ -372,39 +372,39 @@ Sed ipse, scilicet Virgilius, qui aliis vicibus michi subvenerat in aliis puncti
 
 <!-- p. 222 (0276) -->
 
-³³ E disse (¹): Gerion, muoveti omai;\
+33 E disse (1): Gerion, muoveti omai;\
 &emsp;Le rote larghe, e lo scender sia poco:\
 &emsp;Pensa la nuova soma che tu hai.
 
-³³ Et dixit: O Gerion, move te ammodo;\
+33 Et dixit: O Gerion, move te ammodo;\
 &emsp;Rotas largas fac, et descende paullatim:\
 &emsp;Cogita novam salmam quam habes.
 
-³⁴ Come la navicella esce dal loco\
+34 Come la navicella esce dal loco\
 &emsp;Indietro indietro, sì quinci mi tolse;\
 &emsp;E poi che tutta si sentì a gioco,
 
-³⁴ Sicut navicula exit de loco\
+34 Sicut navicula exit de loco\
 &emsp;Retro se volvens, inde se tollit;\
 &emsp;Et postquam se sensit ad giocum,
 
-³⁵ Dov'era'l pecto, la coda rivolse,\
+35 Dov'era'l pecto, la coda rivolse,\
 &emsp;E quella tesa, com'anguilla, mosse,\
 &emsp;E co'le branche l'aere à sè ricolse.
 
-³⁵ Ubi erat pectus, caudam revolvit,\
+35 Ubi erat pectus, caudam revolvit,\
 &emsp;Et illam extendit, sicut anguilla movit,\
 &emsp;Et cum brachiis aierem recolsit.
 
-³⁶ Maggior paura non credo che fosse,\
+36 Maggior paura non credo che fosse,\
 &emsp;Quando Phetonte abbandonò li freni,\
-&emsp;Perchè'l ciel, come par, ancor si cosse (²):
+&emsp;Perchè'l ciel, come par, ancor si cosse (2):
 
-³⁶ Maiorem timorem non credo fuisse,\
+36 Maiorem timorem non credo fuisse,\
 &emsp;Quando Fethonth dereliquit frena,\
 &emsp;Quare celum, sicut apparet, adhuc arsum fuit:
 
-(¹) o. — (²) nonchè la terra.
+(1) o. — (2) nonchè la terra.
 
 idest ascendi, cum brachiis me avvinxit, idest cinxit, et me sustinuit. Ad aliud punctum, vel dubium, forte: idest magnum et profundum dubium. Michi subveniebat, idest me iuvabat. Avinxit: idest amplexus fuit me.
 
@@ -416,31 +416,31 @@ Ad intelligendum duas comparationes hic positas, oportet notare duas hystorias, 
 
 <!-- p. 223 (0277) -->
 
-³⁷ Nè quando Ycharo misero le reni\
+37 Nè quando Ycharo misero le reni\
 &emsp;Sentì spennar per la scaldata cera,\
-&emsp;Gridando'l padre (¹) a lui: Mala via tieni;
+&emsp;Gridando'l padre (1) a lui: Mala via tieni;
 
-³⁷ Nec quando Icarus miser renes\
+37 Nec quando Icarus miser renes\
 &emsp;Sensit spennari propter calidam ceram,\
 &emsp;Clamante patre ad eum: Malam viam tenes;
 
-³⁸ Che fu la mia, quando vidi ch'i' era\
+38 Che fu la mia, quando vidi ch'i' era\
 &emsp;Nell'aer, e d'ogni parte, vidi spenta\
 &emsp;Ogni veduta, fuor che della fiera.
 
-³⁸ Quam fuerit meus, quando vidi quod ego eram\
+38 Quam fuerit meus, quando vidi quod ego eram\
 &emsp;In aiere ex omni parte, [et] vidi extinctam\
 &emsp;Omnem visionem, excepta illius fere.
 
-³⁹ Ella sen va notando lenta lenta;\
-&emsp;Rota (²), e discendo, ma non me n'accorgo,\
+39 Ella sen va notando lenta lenta;\
+&emsp;Rota (2), e discendo, ma non me n'accorgo,\
 &emsp;Se non ch'al viso e di sotto mi venta.
 
-³⁹ Illa ibat natando lenta, lenta;\
+39 Illa ibat natando lenta, lenta;\
 &emsp;Rotat et descendit, sed non perpendo,\
 &emsp;Nisi a visu, et deorsum me raventat.
 
-(¹) Dedalo. — (²) al. roto.
+(1) Dedalo. — (2) al. roto.
 
 Tandem Iupiter, pietate motus, propter orationes Terre, accepit unum fulgurem, et fulminavit Phetonthem, et interfecit eum; qui de celo cecidit mortuus in fluvium Padi, circa principium eius. Hic Phetonth habebat aliquas sorores virgines, que iverunt ad locum, in quo ceciderat corpus Phetonthis, et tam diu ploraverunt, quousque converse sunt in fontes, et inde de fontibus illis tanta abundantia aquarum fluit, quod Padus est ita magnus fluvius; ideo dicit textus: Quando Phetonth reliquit frenos, quando fuit fulminatus. Secunda hystoria est ista. Postquam Theseus evasit de insula Crete, ducens secum Fedram [et] Adrianam, duas filias Mynois regis, interfecto Minotauro, pervenit ad aures et notitiam Mynois, quomodo, ex industria Dedali, Pasiphe in vaccha falsa fuerat impregnata; quare rex Mynos carceravit et posuit in carcere, in laberinto, carcere Minotauri, ipsum Dedalum, tam ingeniosum virum, cum filio suo Icaro: habebat etenim ipse Dedalus filium, nomine Icarum, utique sexdecim annorum. Dum autem staret pater, scilicet Dedalus, cum suo filio Icaro in carceribus (nec poterat inde evadere quovis modo), a quibusdam amicis suis occulte obtinuit taliter, quod habuit copiam de cera, de pice et de pennis aviorum anserum, et aliarum magnarum avium; et cum hiis fecit sibi et filio suo alas et remigium alarum, et sic disposuit posse volare et fugere de insula Crete, de manibus et dominio regis Mynois et venire prope Neapolim, ad partes Ytalie. Et antequam inciperet volare, docuit et magistravit filium Icarum, dicens: Fili mi, nos ad evadendum istum carcerem et eius miseriam, fugiemus hinc volando; sed oportet volare super mare per magnum spatium, et oportet cavere ne volemus nimis basse, idest prope aquam, quia tunc aier non substineret nos; nec etiam nimis alte, quia in altitudine aieris est tanta caliditas, quod cera et pix liquefieret, et sic caderent penne, et perderemus alas, et periremus. Ideo sequere me: nec altius, nec bassius voles, quam ego faciam. Quod filius promisit facere. Sed, incipientibus ipsis volare, infra paucum spatium, dum essent in alto mari, Icarus, puer insipiens, voluit ascendere versus celum ad videndum, et sic deviavit a patre. Cum appropinquaret ad partem superiorem aieris, pro nimio calore, qui ibi est, liquefacta fuit cera, similiter et pix; et sic dissolute sunt penne; et ale, sive remigium alarum, evanuerunt; et cecidit Icarus in mari, et, suffocatus, mortuus [est]. Unde, ex tunc, illud mare vocatum est mare Icarum. Dedalus vero, fugiens Mynoia regna, applicuit ad antrum Sibille prope Neapolim per decem milliaria, et ibi fecit illos labores, sive laboreria, de quibus loquitur Virgilius in principio sexti Eneydos.
 
@@ -454,52 +454,52 @@ Illa ibat natando lenta, lenta, idest paullatim: rotat, idest circum vadit et de
 
 <!-- p. 224 (0278) -->
 
-⁴⁰ Io sentia già da la man destra el gorgo\
+40 Io sentia già da la man destra el gorgo\
 &emsp;Far sotto noi un horribile stroscio;\
 &emsp;Per ch'io la testa giù cogl'ochi sporgo.
 
-⁴⁰ Iam sentiebam ad manum dexteram gurgitem\
+40 Iam sentiebam ad manum dexteram gurgitem\
 &emsp;Facere sub nobis horribile stroscium;\
 &emsp;Quare oculos deorsum et caput porrigo.
 
-⁴¹ Allor fu'io più timido allo scoscio:\
+41 Allor fu'io più timido allo scoscio:\
 &emsp;Però ch'io vidi fuochi, e sentii pianti;\
 &emsp;Ond'io tremando tutto mi raccoscio.
 
-⁴¹ Tunc ego fui magis timidus ad scoscium:\
+41 Tunc ego fui magis timidus ad scoscium:\
 &emsp;Quia ego vidi ignes, et sensi planctus;\
 &emsp;Unde ego tremendo totum me rescoscio.
 
-⁴² E vidi poi, che nol vedea davanti,\
+42 E vidi poi, che nol vedea davanti,\
 &emsp;Lo scender e'l girar per li gran mali\
 &emsp;Che s'appressavan da diversi canti.
 
-⁴² Et vidi postea, quod non videbam ante,\
+42 Et vidi postea, quod non videbam ante,\
 &emsp;Descensum et clamores propter magna mala\
 &emsp;Que appropinquabant ex diversis partibus.
 
-⁴³ Come 'l falcon ch'è stato assai in su l'hali,\
+43 Come 'l falcon ch'è stato assai in su l'hali,\
 &emsp;Che senza veder logoro o uccello,\
 &emsp;Fa dire al falconier: O mè! tu cali:
 
-⁴³ Sicut falco qui satis stetit in alis,\
+43 Sicut falco qui satis stetit in alis,\
 &emsp;Qui absque hoc quod videat logorum, [aut avem],\
 &emsp;Facit dicere falconerium: Heu michi! tu calas:
 
-⁴⁴ Discende lasso, onde si muove snello\
+44 Discende lasso, onde si muove snello\
 &emsp;Per cento rote, da lungi si pone\
 &emsp;Dal suo maestro, disdegnoso e fello:
 
-⁴⁴ Descendit lapsus, unde movebat se snellus\
+44 Descendit lapsus, unde movebat se snellus\
 &emsp;Per centum rotas, et a longe se ponit\
 &emsp;A suo magistro, dedignatus et fellus:
 
-⁴⁵ Così ne pose al fondo Gerione\
+45 Così ne pose al fondo Gerione\
 &emsp;A piè a piè della stalliata roccha,\
 &emsp;E, discarcate le nostre persone,\
 &emsp;Si dileguò, come da corda coccha.
 
-⁴⁵ Ita nos deposuit ad fundum Gerion\
+45 Ita nos deposuit ad fundum Gerion\
 &emsp;Prope prope deformem rocciam,\
 &emsp;Et, dehoneratis nostris personis,\
 &emsp;Se deleg[u]avit, sicut a corda coccha.

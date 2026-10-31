@@ -8,23 +8,23 @@ In isto vicesimosecundo capitulo, quod incipit: Iam erat angelus, auctor prosequ
 
 # Capitulum Vicesimumsecundum
 
-¹ Già era l'angel dietro a noi rimaso,\
-&emsp;L'Angel (¹) che n'havea volti al sexto giro,\
-&emsp;Avendomi dal viso un colpo raso (²):
+1 Già era l'angel dietro a noi rimaso,\
+&emsp;L'Angel (1) che n'havea volti al sexto giro,\
+&emsp;Avendomi dal viso un colpo raso (2):
 
-¹ Iam angelus retro nos remanserat,\
+1 Iam angelus retro nos remanserat,\
 &emsp;Angelus qui nos converterat ad sextum girum,\
 &emsp;Et iam a facie mea unum ictum abraserat:
 
-² E quei ch'anno a giustizia lor desiro,\
+2 E quei ch'anno a giustizia lor desiro,\
 &emsp;Decti n'avien, Beati, e le sue voci\
 &emsp;Con Sitio senza o i o forniro.
 
-² Et illi qui habent ad iustitiam eorum desiderium\
+2 Et illi qui habent ad iustitiam eorum desiderium\
 &emsp;Dixerunt, Beati, in suis vocibus,\
 &emsp;Consitio, sine alia re, et hoc compleverunt.
 
-(¹) dico — (²) una ferita di P.
+(1) dico — (2) una ferita di P.
 
 Iam angelus retro nos remanserat. Già era l'angelo di retro a noi rimaso: istud est vicesimumsecundum capitulum Purgatorii, in quo auctor tractat de materia prodigalitatis, et tendit versus materiam gule: quod dividitur in quatuor partes. In quarum prima Virgilius petit a Statio formam sue purgationis.
 
@@ -50,51 +50,51 @@ Ista litera est valde fortis: ideo oportet hic notare, quod auctor facit hic unu
 
 <!-- p. 677 (0731) -->
 
-³ Et io, più lieve che per altre foci,\
+3 Et io, più lieve che per altre foci,\
 &emsp;M'andava sì, che senz'alcun labore\
 &emsp;Seguiva in su li spiriti veloci:
 
-³ Et ego, plus levis quam per alias fauces,\
+3 Et ego, plus levis quam per alias fauces,\
 &emsp;Ibam ita, quod sine labore aliquo\
 &emsp;Sequebar sursum spiritus veloces:
 
-⁴ Quando Virgilio cominciò: Amore,\
+4 Quando Virgilio cominciò: Amore,\
 &emsp;Acceso da virtù, sempr'altro accese,\
 &emsp;Pur che la fiamma sua paresse fore.
 
-⁴ Quando Virgilius incepit: Amor,\
+4 Quando Virgilius incepit: Amor,\
 &emsp;Accensus virtute, semper aliud accendit,\
 &emsp;Dummodo flamma sua appareat foris.
 
-⁵ Onde, da hora che tra noi discese\
+5 Onde, da hora che tra noi discese\
 &emsp;Nel limbo dell'Inferno Iuvenale,\
 &emsp;Che la tua affection mi fe' palese,
 
-⁵ Unde, ab hora qua inter nos descendit\
+5 Unde, ab hora qua inter nos descendit\
 &emsp;In limbum Inferni Iuvenalis,\
 &emsp;Qui tuam affectionem michi patefecit,
 
-⁶ Mia benevolentia inverso te fu quale\
+6 Mia benevolentia inverso te fu quale\
 &emsp;Più strinse mai di non vista persona,\
 &emsp;Sì ch'or mi parran corte queste scale.
 
-⁶ Mea benivolentia versus te fuit talis\
+6 Mea benivolentia versus te fuit talis\
 &emsp;Qualis plus strinxit unquam non vise persone,\
 &emsp;Ita quod nunc nobis apparebunt breves iste scale.
 
-⁷ Ma dimmi, e come amico mi perdona,\
+7 Ma dimmi, e come amico mi perdona,\
 &emsp;Se troppa sicurtà m'allarga 'l freno,\
 &emsp;La pura fede in tucto mi scagiona:
 
-⁷ Sed dicas, et sicut amicus michi parcas,\
+7 Sed dicas, et sicut amicus michi parcas,\
 &emsp;Si nimia securitas michi ampliat frenum,\
 &emsp;Et sicut amicus ammodo michi ratiocineris:
 
-⁸ Come poteo trovar dentr'al tuo seno\
+8 Come poteo trovar dentr'al tuo seno\
 &emsp;Luogo avaritia, tra cotanto senno\
 &emsp;Di quanto, per tua cura, fosti pieno?
 
-⁸ Quomodo potuit reperire intra tuum senum\
+8 Quomodo potuit reperire intra tuum senum\
 &emsp;Locum avaritia, intra tantam sapientiam\
 &emsp;Quanta, propter tuam curam, fuisti plenus?
 
@@ -112,71 +112,71 @@ Nota quod quia Virgilius reperit Statium in circulo, ubi purgatur avaritia, cred
 
 <!-- p. 678 (0732) -->
 
-⁹ Queste parole Statio muover fenno\
+9 Queste parole Statio muover fenno\
 &emsp;Un poco a riso pria; poscia rispose:\
 &emsp;Ogni tuo dir d'amor m'è caro cenno.
 
-⁹ Ista verba Statium movere fecerunt\
+9 Ista verba Statium movere fecerunt\
 &emsp;Aliquantulum ad risum; postea respondit:\
 &emsp;Omne tuum dicere amoris est michi carum signum.
 
-¹⁰ Veramente più volte appaion cose,\
+10 Veramente più volte appaion cose,\
 &emsp;Che danno a dubitar falsa matera,\
 &emsp;Per le vere cagion che son nascose.
 
-¹⁰ Vere pluries apparent res,\
+10 Vere pluries apparent res,\
 &emsp;Que dant ad dubitandum falsam materiam,\
 &emsp;Propter veras rationes que sunt absconse.
 
-¹¹ La tua dimanda tuo creder m'avvera\
+11 La tua dimanda tuo creder m'avvera\
 &emsp;Esser, ch'io fossi avaro in la tua vita,\
 &emsp;Forse per quella cerchia dov'io era:
 
-¹¹ Tua petitio tuum credere michi averat\
+11 Tua petitio tuum credere michi averat\
 &emsp;Esse, quod ego fuerim avarus in alia vita,\
 &emsp;Forsan propter illum circulum ubi eram:
 
-¹² Or sappia che avaritia fu partita\
+12 Or sappia che avaritia fu partita\
 &emsp;Troppo da me; a questa dismisura\
-&emsp;E miglar (¹) di lunari (²) hanno punita.
+&emsp;E miglar (1) di lunari (2) hanno punita.
 
-¹² Nunc scias quod avaritia distans\
+12 Nunc scias quod avaritia distans\
 &emsp;Nimis a me fuit; et hanc malam mensuram\
 &emsp;Milliaria lunaria punierunt.
 
-¹³ E, se non fosse che drizzai mia cura,\
+13 E, se non fosse che drizzai mia cura,\
 &emsp;Quand'io intesi là dove tu chiame,\
 &emsp;Cruciato quasi all'umana natura:
 
-¹³ Et, nisi esset quod ego direxi meam curam,\
+13 Et, nisi esset quod ego direxi meam curam,\
 &emsp;Quando ego intellexi ibi ubi tu clamas,\
 &emsp;Iratus quasi ad humanam naturam:
 
-¹⁴ A che non rechi tu (³), o sacra fame\
+14 A che non rechi tu (3), o sacra fame\
 &emsp;Dell'oro, l'appetito de' mortali?\
 &emsp;Voltando sentirei le giostre grame.
 
-¹⁴ Quare non regis tu, o sacra fames\
+14 Quare non regis tu, o sacra fames\
 &emsp;Auri, appetitus mortalium?\
 &emsp;Volvendo sentirem hastiludia dolorosa.
 
-¹⁵ Allor m'accorsi che troppo aprir l'hali\
+15 Allor m'accorsi che troppo aprir l'hali\
 &emsp;Potean le mani a spender, e pentèmi\
 &emsp;Così di quel come degl'altri mali.
 
-¹⁵ Tunc perpendi quod nimis apperire alas\
+15 Tunc perpendi quod nimis apperire alas\
 &emsp;Poterant manus ad expendendum, et penituit me\
 &emsp;Ita illius sicut aliorum malorum.
 
-¹⁶ Quanti risorgeran cho' crini scemi,\
+16 Quanti risorgeran cho' crini scemi,\
 &emsp;Per ignoranza, che a questa pecca\
 &emsp;Tragge 'l pensier vivendo, nelli stremi!
 
-¹⁶ Quot resurgent cum crinibus scemis,\
+16 Quot resurgent cum crinibus scemis,\
 &emsp;Propter ignorantiam, que de isto peccato\
 &emsp;Subtrahit penitere vivendo et in extremis!
 
-(¹) migliaia — (²) di mesi — (³) al. pingi, vel spingi.
+(1) migliaia — (2) di mesi — (3) al. pingi, vel spingi.
 
 Modo ponitur effectus secutus ex dictis Virgilii, scilicet quidam risus. Ista verba Statium movere fecerunt aliquantulum ad risum prius, postea respondit: Omne tuum dictum amoris est michi gratum signum. Quasi dicat: Dic quidquid vis, quia non posses dicere quidquam quod non proveniret ex sinceritate amicitie.
 
@@ -190,55 +190,55 @@ Nunc exclamatur hic contra prodigos. Tunc perpendi quod nimis aperire alas poter
 
 <!-- p. 679 (0733) -->
 
-¹⁷ E sappi che la colpa, che rimbeccha\
+17 E sappi che la colpa, che rimbeccha\
 &emsp;Per dricta opposition alcun peccato\
 &emsp;Commesso, insieme qui suo veder secca.
 
-¹⁷ Et scias quod culpa, que rimbeccat\
+17 Et scias quod culpa, que rimbeccat\
 &emsp;Per rectam oppositionem aliquod peccatum\
 &emsp;Commissum, simul hic cum viridi desiccatur.
 
-¹⁸ Però, s'io son tra quella gente stato\
+18 Però, s'io son tra quella gente stato\
 &emsp;Che piange l'avaritia, per purgarmi,\
-&emsp;Per lo contrario (¹) suo m'è incontrato.
+&emsp;Per lo contrario (1) suo m'è incontrato.
 
-¹⁸ Ergo si ego inter illam gentem steti\
+18 Ergo si ego inter illam gentem steti\
 &emsp;Que plangit avaritiam, pro me purgando,\
 &emsp;Propter contrarium michi evenit.
 
-¹⁹ Or quando tu cantasti (²) le crude (³) armi\
-&emsp;De la doppia tristitia (⁴) di Yocasta (⁵),\
-&emsp;Disse 'l Cantor (⁶) de buccolici carmi (⁷),
+19 Or quando tu cantasti (2) le crude (3) armi\
+&emsp;De la doppia tristitia (4) di Yocasta (5),\
+&emsp;Disse 'l Cantor (6) de buccolici carmi (7),
 
-¹⁹ O[r] qui tu cantasti cruda arma\
+19 O[r] qui tu cantasti cruda arma\
 &emsp;De duplici tristitia Iocaste,\
 &emsp;Dixit Cantor buccolicorum carminum,
 
-²⁰ Per quel che Clyo (⁸) con teco lì tasta (⁹),\
+20 Per quel che Clyo (8) con teco lì tasta (9),\
 &emsp;Non par che ti facesse ancor fedele\
-&emsp;La fede (¹⁰), senza qual ben far non basta.
+&emsp;La fede (10), senza qual ben far non basta.
 
-²⁰ Propter illud quod tibi Clio tangit tecum (tasta),\
+20 Propter illud quod tibi Clio tangit tecum (tasta),\
 &emsp;Non apparet quod te faceret adhuc fidelem\
 &emsp;Fides, sine qua bonum facere non sufficit.
 
-²¹ Se così è, qual sole e quai candele\
+21 Se così è, qual sole e quai candele\
 &emsp;Ti stenebraron sì, che tu drizzasti\
 &emsp;Poscia dirieto al Pescator le vele?
 
-²¹ Si sic est, qualis sol, vel que candele\
+21 Si sic est, qualis sol, vel que candele\
 &emsp;Te extenebrarunt ita, quod tu direxisti\
 &emsp;Postea retro piscatorem vela?
 
-²² Et elli a lui: Tu prima m'inviasti\
+22 Et elli a lui: Tu prima m'inviasti\
 &emsp;Verso Parnaso a ber ne le sue grotte,\
 &emsp;E primo, verso Dio, m'illuminasti.
 
-²² Et ipse tunc: Tu me primo me inviasti\
+22 Et ipse tunc: Tu me primo me inviasti\
 &emsp;Versus Parnasum ad bibendum in suis gruptis,\
 &emsp;Et prius, prope Deum, me illuminasti.
 
-(¹) prodigalità — (²) o Statio — (³) crudeli — (⁴) Etyocle e Polinice — (⁵) lor madre — (⁶) Virgilio — (⁷) versi — (⁸) Musa — (⁹) tocha — (⁹) crystiana.
+(1) prodigalità — (2) o Statio — (3) crudeli — (4) Etyocle e Polinice — (5) lor madre — (6) Virgilio — (7) versi — (8) Musa — (9) tocha — (9) crystiana.
 
 cum crinibus scemis, idest diminutis, propter ignorantiam, que de isto peccato (quia non creditur esse peccatum) subtrahit penitere vivendo et in extremis! Nam prodigalitas laudatur saltem apud potentes, sicut contingebat de Alexandro.
 
@@ -256,71 +256,71 @@ Et ipse, scilicet Statius, supple dixit: Tunc prius me inviasti, idest in via du
 
 <!-- p. 680 (0734) -->
 
-²³ Facesti come quei che va di nocte,\
+23 Facesti come quei che va di nocte,\
 &emsp;Che porta'l lume dietro, e sè non giova,\
 &emsp;Ma doppo sè fa le persone docte,
 
-²³ Fecisti sicut ille qui vadit de nocte,\
+23 Fecisti sicut ille qui vadit de nocte,\
 &emsp;Qui portat lumen retro, et sibi non prodest,\
 &emsp;Sed post se facit personas doctas,
 
-²⁴ Quando dicesti: Secol si rinnuova;\
+24 Quando dicesti: Secol si rinnuova;\
 &emsp;Torna iustitia, e primo tempo humano;\
 &emsp;E progenie descende dal ciel nuova.
 
-²⁴ Quando dixisti: Seculum renovatur;\
+24 Quando dixisti: Seculum renovatur;\
 &emsp;Redít iustitia, et primum tempus humanum;\
 &emsp;Et progenies descendit de celo nova.
 
-²⁵ Per te poeta fui, per te chrystiano;\
+25 Per te poeta fui, per te chrystiano;\
 &emsp;Ma perchè veggi ben ciò ch'io disegno,\
 &emsp;A colorar distenderò la mano.
 
-²⁵ Per te poeta fui, per te christianus;\
+25 Per te poeta fui, per te christianus;\
 &emsp;Sed ut melius videas id quod ego designo,\
 &emsp;Ad colorandum ego extendam manum.
 
-²⁶ Già era 'l mondo tutto quanto pregno\
-&emsp;De la vera credenza (¹), seminata\
+26 Già era 'l mondo tutto quanto pregno\
+&emsp;De la vera credenza (1), seminata\
 &emsp;Per li messaggi dell'eterno regno;
 
-²⁶ Iam erat mundus totus pregnans\
+26 Iam erat mundus totus pregnans\
 &emsp;De vera credentia, seminata\
 &emsp;Per nuntios eterni regni;
 
-²⁷ E la parola tua sopra tochata\
+27 E la parola tua sopra tochata\
 &emsp;Si consonava a'nuovi predicanti,\
-&emsp;Ond'io a visitarli presi usata (²).
+&emsp;Ond'io a visitarli presi usata (2).
 
-²⁷ Et verbum tuum supra tactum\
+27 Et verbum tuum supra tactum\
 &emsp;Consonat novis predicantibus,\
 &emsp;Ex quo ego ad visitandum eos cepi consuetudinem.
 
-²⁸ Vennermi poi parendo tanto santi,\
+28 Vennermi poi parendo tanto santi,\
 &emsp;Che, quando Domitian li perseguecte,\
 &emsp;Senza mio lacrimar non fur lor pianti.
 
-²⁸ Apparuerunt michi postmodum tantum sancti,\
+28 Apparuerunt michi postmodum tantum sancti,\
 &emsp;Quod, quando Domitianus eos persecutus est,\
 &emsp;Sine meis lacrymis non fuerunt eorum planctus.
 
-²⁹ E mentre che di là per me si stecte,\
+29 E mentre che di là per me si stecte,\
 &emsp;Io li sovenni, e lor dricti costumi\
 &emsp;Fer dispregiarmi tutte l'altre secte:
 
-²⁹ Et dum ego in mundo steti,\
+29 Et dum ego in mundo steti,\
 &emsp;Ego eis subveni, et eorum recti mores\
 &emsp;Fecerunt me spernere omnes alias sectas:
 
-³⁰ E pria ch'io conducessi e Greci a' fiumi\
+30 E pria ch'io conducessi e Greci a' fiumi\
 &emsp;Di Thebe poetando, ebbi baptesmo:\
-&emsp;Ma per paura chiuso (³) chrystian fu'mi (⁴),
+&emsp;Ma per paura chiuso (3) chrystian fu'mi (4),
 
-³⁰ Et prius quam ego conducerem Grecos ad flumina\
+30 Et prius quam ego conducerem Grecos ad flumina\
 &emsp;Thebarum poetando, ego habui baptisma;\
 &emsp;Sed propter timorem clausus christianus fui,
 
-(¹) fede di Chrysto — (²) usanza — (³) secreto et occulto — (⁴) mi fui.
+(1) fede di Chrysto — (2) usanza — (3) secreto et occulto — (4) mi fui.
 
 non per suam scientiam, sed quia habuit a Sibilla predicta, et Virgilius allegat eam. Hieronimus tamen in prologo Biblie dicit oppositum, et trufatur quasi de sic dicentibus. Non est cura. Hic Dante tenet, quod Virgilius prophetavit de Christo.
 
@@ -340,55 +340,55 @@ Et prius quam ego ducerem Grecos ad flumina Thebarum poetando, habui ego baptism
 
 <!-- p. 681 (0735) -->
 
-³¹ Lungamente monstrando paganesmo:\
-&emsp;E questa tepidezza el quarto cerchio (¹)\
-&emsp;Cerchar mi fe' più che'l quarto centesmo (²).
+31 Lungamente monstrando paganesmo:\
+&emsp;E questa tepidezza el quarto cerchio (1)\
+&emsp;Cerchar mi fe' più che'l quarto centesmo (2).
 
-³¹ Longo tempore mostrando paganismum:\
+31 Longo tempore mostrando paganismum:\
 &emsp;Et iste tepor quartum circulum\
 &emsp;Querere me fecit plusquam quarto centesimo.
 
-³² Tu (³) dunque che levato m'hai il coperchio\
+32 Tu (3) dunque che levato m'hai il coperchio\
 &emsp;Che m'ascondeva quanto ben io dico,\
-&emsp;Mentre che del salir havian soperchio (⁴),
+&emsp;Mentre che del salir havian soperchio (4),
 
-³² Tu igitur, qui levasti michi coopertorium\
+32 Tu igitur, qui levasti michi coopertorium\
 &emsp;Quod michi abscondebat quantum bonum ego dico,\
 &emsp;Interim quod ascendendi habemus superfluum,
 
-³³ Dimmi dov'è Terentio nostro amico,\
+33 Dimmi dov'è Terentio nostro amico,\
 &emsp;Cecilio, Plauto, Varro, se lo sai,\
-&emsp;Dimmi se son dannati, et in qual vico (⁵).
+&emsp;Dimmi se son dannati, et in qual vico (5).
 
-³³ Dic michi ubi est Terentius noster antiquus,\
+33 Dic michi ubi est Terentius noster antiquus,\
 &emsp;Cecilio, Plauto et Varro, si tu scis,\
 &emsp;Dic michi si sunt dampnati, et in quo vico.
 
-³⁴ Costoro, e Persio, et io, et altri assai,\
-&emsp;Rispose (⁶) 'l duca mio (⁷), son, con quel Greco (⁸)\
-&emsp;Che le muse lattar più ch'altro (⁹) mai,
+34 Costoro, e Persio, et io, et altri assai,\
+&emsp;Rispose (6) 'l duca mio (7), son, con quel Greco (8)\
+&emsp;Che le muse lattar più ch'altro (9) mai,
 
-³⁴ Isti, et Persius, et ego, et alii multi,\
+34 Isti, et Persius, et ego, et alii multi,\
 &emsp;Respondit dux meus, sumus, cum illo Greco\
 &emsp;Quem musse lactaverunt plusquam alium unquam,
 
-³⁵ Nel primo cerchio del carcere cieco (¹⁰).\
-&emsp;Spesse fiate ragioniam del monte (¹¹),\
-&emsp;Ch'à (¹²) le nutrici nostre (¹³) sempre seco.
+35 Nel primo cerchio del carcere cieco (10).\
+&emsp;Spesse fiate ragioniam del monte (11),\
+&emsp;Ch'à (12) le nutrici nostre (13) sempre seco.
 
-³⁵ In primo circulo carceris ceci.\
+35 In primo circulo carceris ceci.\
 &emsp;Sepe ratiocinamur de monte,\
 &emsp;Qui habet memorias nostras semper secum.
 
-³⁶ Euripyde v'è nosco, et Antiphonte,\
+36 Euripyde v'è nosco, et Antiphonte,\
 &emsp;Symonide, Aghatone, et altri piue\
-&emsp;Greci che già di lauro ornar le fronte (¹⁴).
+&emsp;Greci che già di lauro ornar le fronte (14).
 
-³⁶ Euripides est nobiscum, ibi, et Antifons,\
+36 Euripides est nobiscum, ibi, et Antifons,\
 &emsp;Symonides, Agathon, et alii multi\
 &emsp;Greci qui iam de lauro ornaverunt frontem.
 
-(¹) su del Purgatorio — (²) più che quattrocento anni — (³) o Virgilio — (⁴) sommità — (⁵) circulo — (⁶) a Statio — (⁷) Virgilio — (⁸) Homero — (⁹) poeta — (¹⁰) dell'Inferno — (¹¹) Parnaso — (¹²) che ha — (¹³) Muse — (¹⁴) loro.
+(1) su del Purgatorio — (2) più che quattrocento anni — (3) o Virgilio — (4) sommità — (5) circulo — (6) a Statio — (7) Virgilio — (8) Homero — (9) poeta — (10) dell'Inferno — (11) Parnaso — (12) che ha — (13) Muse — (14) loro.
 
 propter timorem clausus, idest occultus, christianus fui longo tempore, scilicet extra monstrando paganismum, idest fidem paganorum; et iste tepor quartum circulum, idest accidie, querere me fecit plusquam quarto centesimo; idest quadringentis, vel plusquam quatuor [centum] annis celerat in circulo accidie, ubi purgatur talis torpor, idest pigritia, seu negligentia.
 
@@ -400,63 +400,63 @@ Euripides est ibi nobiscum, et Antifons, Symonides, Agathon et multi alii, idest
 
 <!-- p. 682 (0736) -->
 
-³⁷ Quivi si veggion, de le genti tue (¹),\
-&emsp;Antighone (²), Deifyle (³) et Argia,\
-&emsp;Et Hysmene (⁴) sì trista come fue.
+37 Quivi si veggion, de le genti tue (1),\
+&emsp;Antighone (2), Deifyle (3) et Argia,\
+&emsp;Et Hysmene (4) sì trista come fue.
 
-³⁷ Ibi videntur, de gentibus tuis,\
+37 Ibi videntur, de gentibus tuis,\
 &emsp;Anthigone, Deyfile et Argia,\
 &emsp;Et Ysmene ita tristis sicut fuit.
 
-³⁸ Vedesi quella (⁵) che mostrò (⁶) Langya (⁷);\
-&emsp;Evvi la figlia di Thyresia (⁸), e Thety (⁹),\
-&emsp;E co'le suore (¹⁰) sue Deydamia (¹¹).
+38 Vedesi quella (5) che mostrò (6) Langya (7);\
+&emsp;Evvi la figlia di Thyresia (8), e Thety (9),\
+&emsp;E co'le suore (10) sue Deydamia (11).
 
-³⁸ Videtur illa que monstravit [L]angiam;\
+38 Videtur illa que monstravit [L]angiam;\
 &emsp;Est ibi filia Thyrexie et Thetis,\
 &emsp;Et cum suis sororibus Dyademya.
 
-³⁹ Tacevansi amendue li poeti,\
+39 Tacevansi amendue li poeti,\
 &emsp;Di nuovo attenti a riguardar intorno,\
 &emsp;Liberi dal salir e da pareti;
 
-³⁹ Tacebant ambo illi poete,\
+39 Tacebant ambo illi poete,\
 &emsp;De novo attenti ad respiciendum circum,\
 &emsp;Liberi ab ascensu et parietibus;
 
-⁴⁰ E già le quattro ancelle eran del giorno\
-&emsp;Rimase indietro, et a la quinta el temo (¹²),\
+40 E già le quattro ancelle eran del giorno\
+&emsp;Rimase indietro, et a la quinta el temo (12),\
 &emsp;Drizzando pur in su l'ardente corno;
 
-⁴⁰ Et iam quatuor ancille diei\
+40 Et iam quatuor ancille diei\
 &emsp;Remanserant retro, et quinta erat [ad] themon,\
 &emsp;Dirigendo semper sursum ardens cornu;
 
-⁴¹ Quando 'l mio duca (¹³): Io credo ch'allo stremo\
+41 Quando 'l mio duca (13): Io credo ch'allo stremo\
 &emsp;Le dextre spalle volger ci convegna,\
 &emsp;Girando 'l monte come far solemo.
 
-⁴¹ Quando meus dux: Credo quod ad extremum\
+41 Quando meus dux: Credo quod ad extremum\
 &emsp;Dexteros humeros volvere nobis convenit,\
 &emsp;Circuendo montem sicut solemus.
 
-⁴² Così l'usanza fu lì nostra insegna,\
+42 Così l'usanza fu lì nostra insegna,\
 &emsp;E prendemmo la via con men sospetto\
-&emsp;Per l'assentir di quell'anima (¹⁴) degna.
+&emsp;Per l'assentir di quell'anima (14) degna.
 
-⁴² Sic consuetum fuit ibi nostrum signum,\
+42 Sic consuetum fuit ibi nostrum signum,\
 &emsp;Et apprehendimus viam cum minori suspitione\
 &emsp;Propter assensum illius anime digne.
 
-⁴³ Elli givan (¹⁵) dinanzi, et io solecto\
+43 Elli givan (15) dinanzi, et io solecto\
 &emsp;Dirieto, et ascoltava lor sermoni\
 &emsp;Che a poetar mi davano intellecto.
 
-⁴³ Ipsi ibant ante, et ego post eos solus,\
+43 Ipsi ibant ante, et ego post eos solus,\
 &emsp;Et auscultabam eorum sermones\
 &emsp;Qui ad poetandum dabant michi intellectum.
 
-(¹) delle quali scrivesti ne la Thebayde et Achylleide — (²) Filia Edyppi et Iocaste — (³) Filia Adastri regis — (⁴) Filia Edyppi et Iocaste — (⁵) Ysiphyle — (⁶) a li Greci — (⁷) fonte — (⁸) Manto — (⁹) Madre d'Achylle — (¹⁰) moniali — (¹¹) uxor Achyllis — (¹²) era el timone — (¹³) disse — (¹⁴) di Statio — (¹⁵) al. andavan.
+(1) delle quali scrivesti ne la Thebayde et Achylleide — (2) Filia Edyppi et Iocaste — (3) Filia Adastri regis — (4) Filia Edyppi et Iocaste — (5) Ysiphyle — (6) a li Greci — (7) fonte — (8) Manto — (9) Madre d'Achylle — (10) moniali — (11) uxor Achyllis — (12) era el timone — (13) disse — (14) di Statio — (15) al. andavan.
 
 Modo Virgilius vult nominare aliquas personas, de quibus Statius locutus fuit in suis libris, scilicet Thebaydos et Achilleydos. Ibi videntur, de gentibus tuis, idest de quibus tu scripsisti, Anthigone, Deyfile et Argia et Ysmene, ita tristis sicut fuit. Notandum est hic quod Anthigone fuit filia Edyppi, et soror ita fuit etiam Theoclis et Polinicis. Deyfile et Argia fuerunt filie regis Adrasti, una uxor Polinicis, et alia uxor Tydei sotii sui et cognati. Ysmene fuit etiam filia Edyppi, que supervixit et vidit omnes tristitias domus sue; ideo dicit textus: Ita tristis sicut fuit. Tristitie huius ponuntur a Statio in libro Thebaydos.
 
@@ -468,55 +468,55 @@ Sic consuetudo fuit ibi nostrum signum; et apprehendimus viam cum maiori suspici
 
 <!-- p. 683 (0737) -->
 
-⁴⁴ Ma tosto ruppe le dolci ragioni (¹)\
+44 Ma tosto ruppe le dolci ragioni (1)\
 &emsp;Un arbor che trovammo in mezza strada,\
 &emsp;Co' pomi ad odorar suavi e buoni.
 
-⁴⁴ Sed cito rupit dulcia ratiocinia\
+44 Sed cito rupit dulcia ratiocinia\
 &emsp;Una arbor quam reperimus in medio strate,\
 &emsp;Cum pomis ad odorandum suavibus et bonis.
 
-⁴⁵ E come abeto (²) in alto si digrada\
+45 E come abeto (2) in alto si digrada\
 &emsp;Di ramo in ramo, così quello ingiuso,\
-&emsp;Cred' io perchè persona su (³) non vada.
+&emsp;Cred' io perchè persona su (3) non vada.
 
-⁴⁵ Et sicut abies in altum degradatur\
+45 Et sicut abies in altum degradatur\
 &emsp;De ramo in ramum, ita illa deorsum,\
 &emsp;Credo ego ad hoc ut persona sursum non vadat.
 
-⁴⁶ Dal lato onde 'l cammin nostro era chiuso,\
-&emsp;Cadea dell'altra (⁴) roccia (⁵) un liquor (⁶) chiaro,\
-&emsp;E si spandea per le fogle (⁷) suso.
+46 Dal lato onde 'l cammin nostro era chiuso,\
+&emsp;Cadea dell'altra (4) roccia (5) un liquor (6) chiaro,\
+&emsp;E si spandea per le fogle (7) suso.
 
-⁴⁶ A latere, unde erat iter nostrum clausum,\
+46 A latere, unde erat iter nostrum clausum,\
 &emsp;Cadebat ab alta rupe unus liquor clarus,\
 &emsp;Et se spandebat per folia deorsum.
 
-⁴⁷ Li due poeti all'arbor s'appressaro;\
+47 Li due poeti all'arbor s'appressaro;\
 &emsp;Et una voce per entro le fronde\
 &emsp;Gridò: Di questo cibo havrete caro.
 
-⁴⁷ Duo poete ad arborem appropinquarunt;\
+47 Duo poete ad arborem appropinquarunt;\
 &emsp;Et una vox intra per frondes\
 &emsp;Clamavit: De isto cibo habebitis defectum.
 
-⁴⁸ Poi disse (⁸): Più pensava Maria (⁹), onde\
-&emsp;Fusser le nozze horrevoli et intere (¹⁰),\
-&emsp;Ch'alla sua bocha (¹¹), che per voi risponde (¹²).
+48 Poi disse (8): Più pensava Maria (9), onde\
+&emsp;Fusser le nozze horrevoli et intere (10),\
+&emsp;Ch'alla sua bocha (11), che per voi risponde (12).
 
-⁴⁸ Postea dixit: Plus cogitabat Maria, unde\
+48 Postea dixit: Plus cogitabat Maria, unde\
 &emsp;Nuptie essent honorabiles et integre,\
 &emsp;Quam ad suum os, quod pro vobis nunc respondet.
 
-⁴⁹ E le Romane antiche per lor bere\
-&emsp;Contente furon d'acqua (¹³); e Daniello (¹⁴)\
-&emsp;Dispregiò 'l cibo (¹⁵), et acquistò sapere.
+49 E le Romane antiche per lor bere\
+&emsp;Contente furon d'acqua (13); e Daniello (14)\
+&emsp;Dispregiò 'l cibo (15), et acquistò sapere.
 
-⁴⁹ Et Romane antique propter earum bibere\
+49 Et Romane antique propter earum bibere\
 &emsp;Contente fuerunt de aqua; et Daniel\
 &emsp;Sprevit cibum, et acquisivit sapientiam.
 
-(¹) ragionamenti loro — (²) arboro — (³) per esso — (⁴) al. alta — (⁵) ripa — (⁶) acqua — (⁷) al. frondi dell'arboro — (⁸) quella voce — (⁹) Vergine — (¹⁰) quando disse, Ioan, II., Vinum non habent — (¹¹) perbere o mangiare — (¹²) intercede in cielo — (¹³) sola — (¹⁴) Propheta con tre fanciulli — (¹⁵) regale.
+(1) ragionamenti loro — (2) arboro — (3) per esso — (4) al. alta — (5) ripa — (6) acqua — (7) al. frondi dell'arboro — (8) quella voce — (9) Vergine — (10) quando disse, Ioan, II., Vinum non habent — (11) perbere o mangiare — (12) intercede in cielo — (13) sola — (14) Propheta con tre fanciulli — (15) regale.
 
 Virgilius et Statius; ideo securius potuerunt sic eligere viam cum minori suspitione, idest dubio.
 
@@ -536,25 +536,25 @@ Consuetudo fuit romanis mulieribus abstinere a vino et bibere aquam; ideo dicit 
 
 <!-- p. 684 (0738) -->
 
-⁵⁰ Lo secol primo, quant'oro, fu bello (¹);\
+50 Lo secol primo, quant'oro, fu bello (1);\
 &emsp;Fe' saporose con fame le ghiande,\
-&emsp;E (²) nectare con sete ogni ruscello.
+&emsp;E (2) nectare con sete ogni ruscello.
 
-⁵⁰ Seculum primum, quantum aurum, fuit pulchrum;\
+50 Seculum primum, quantum aurum, fuit pulchrum;\
 &emsp;Fecit saporosas cum fame glandes,\
 &emsp;Et [nectar] cum siti omnem rivulum.
 
-⁵¹ Mele e locuste furon vivande,\
-&emsp;Che nutriro 'l Babtista (³) nel deserto;\
-&emsp;Perch'elli (⁴) è glorioso, e tanto grande\
-&emsp;Quanto per l'Evangelio (⁵) n'è (⁶) aperto.
+51 Mele e locuste furon vivande,\
+&emsp;Che nutriro 'l Babtista (3) nel deserto;\
+&emsp;Perch'elli (4) è glorioso, e tanto grande\
+&emsp;Quanto per l'Evangelio (5) n'è (6) aperto.
 
-⁵¹ Mel et locuste fuerunt fercula,\
+51 Mel et locuste fuerunt fercula,\
 &emsp;Que nutriverunt Baptistam in deserto;\
 &emsp;Ex quo ipse est gloriosus, et tam grandis\
 &emsp;Quantum per Evangelium nobis est apertum.
 
-(¹) al. quanto d'or fu bello — (²) fe' — (³) Giovanni — (⁵) al. ond'elli è — (⁶) Matth. XI cap. — (⁷) a noi è.
+(1) al. quanto d'or fu bello — (2) fe' — (3) Giovanni — (5) al. ond'elli è — (6) Matth. XI cap. — (7) a noi è.
 
 propheta, sprevit cibum et acquisivit sapientiam. Nota quod, ut habetur primo capitulo Danielis, Daniel, Azarias, Misael et Ananias, de genere regali Iudeorum, tempore captivitatis Babilonie, ducti fuerunt captivi in Babiloniam; quibus fecit rex Nabuchodonosor deputari cibaria delicata secundum morem gentium, in quibus Daniel noluit esse pollutus, sed comedit ligumina. Unde propter hoc Deus dedit sibi sapientiam et scientiam in omni interpretatione sompniorum, etc. Ideo dicit textus: Daniel sprevit cibum et acquisivit sapientiam. Ut etiam poete, et etiam comici, dicunt: Prima etas non curabat de cibis et potibus delicatis, sed fructus terre et arborum erat cibus eorum, et nectar erant rivuli aquarum. Unde dicit Boetius: Felix nimium prior etas, contempta fidelibus arvis.
 

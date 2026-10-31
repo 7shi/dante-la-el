@@ -8,23 +8,23 @@ In decimonono capitulo, quod incipit: O Symon Mage, auctor describit penam symon
 
 # Capitulum Decimumnonum
 
-¹ O Symon Mago, o miseri seguaci (¹),\
+1 O Symon Mago, o miseri seguaci (1),\
 &emsp;Che le cose di Dio, che di bontate\
 &emsp;Debbono esser spose, e voi, rapaci,
 
-¹ O Symon Mage, o miseri sequaces,\
+1 O Symon Mage, o miseri sequaces,\
 &emsp;Quia res Dei, que bonitatis\
 &emsp;Sponse debent esse, et vos, rapaces,
 
-² Per oro e per argento adulterate;\
+2 Per oro e per argento adulterate;\
 &emsp;Hor convien che per voi suoni la tromba,\
 &emsp;Però che nella terza bolgia state.
 
-² Propter aurum et argentum, adulteratis;\
+2 Propter aurum et argentum, adulteratis;\
 &emsp;Iam oportet quod propter vos pulsem tubam,\
 &emsp;Quia in tertia bolgia statis.
 
-(¹) suoi symoniaci.
+(1) suoi symoniaci.
 
 O Simon Mago. O Symon Mage: istud est decimumnonum capitulum huius Inferni, in quo auctor, postquam in capitulo precedenti tractavit de duabus speciebus fraudis, sive de lenocinio et adulatione, que puniuntur in duabus bolgis; et ista duo tractavit in uno solo capitulo, scilicet precedenti; modo in isto tractat de tertia bolgia, et de tertia specie fraudis, scilicet de symonia; symonia, que punitur in hac tertia bolgia. Et dividitur hoc capitulum in quatuor partes. In quarum prima describitur in generali pena symoniacorum.
 
@@ -48,39 +48,39 @@ Notandum est hic, quod, sicut mulier maritata, habens virum, si se dat aliis vir
 
 <!-- p. 241 (0295) -->
 
-³ Già eravamo a la seguente tomba\
+3 Già eravamo a la seguente tomba\
 &emsp;Montati, dello scoglo in quella parte,\
 &emsp;Ch'a puncto sopra 'l mezzo fondo piomba.
 
-³ Iam eramus ad sequentem tumbam\
+3 Iam eramus ad sequentem tumbam\
 &emsp;Ascendentes, de scopulo in illa parte,\
 &emsp;Que recte supra medium fossi piumbat.
 
-⁴ O somma sapientia (¹), quant'è l'arte\
-&emsp;Che mostri in cielo, in terra e nel mal mondo (²),\
-&emsp;E quanto giusta (³) tua virtù comparte!
+4 O somma sapientia (1), quant'è l'arte\
+&emsp;Che mostri in cielo, in terra e nel mal mondo (2),\
+&emsp;E quanto giusta (3) tua virtù comparte!
 
-⁴ O summa sapientia, quanta est ars\
+4 O summa sapientia, quanta est ars\
 &emsp;Quam demonstras in celo, in terra et in malo mundo,\
 &emsp;Et quantum iustitie tua virtus importat!
 
-⁵ Io viddi per le coste e per lo fondo\
-&emsp;Piena la pietra livida di fori (⁴)\
-&emsp;D'un largo tutti, e ciascun (⁵) era tondo.
+5 Io viddi per le coste e per lo fondo\
+&emsp;Piena la pietra livida di fori (4)\
+&emsp;D'un largo tutti, e ciascun (5) era tondo.
 
-⁵ Ego vidi per costas et per fundum\
+5 Ego vidi per costas et per fundum\
 &emsp;Plenam petram lividam de foraminibus\
 &emsp;Unius latitudinis omnia, et quodlibet erat rotundum.
 
-⁶ Non mi parean (⁶) men ampi (⁷) nè maggiori,\
-&emsp;Che quei che son nel mio bel Sangiovanni (⁸)\
-&emsp;Facti per luogo de' baptezatori (⁹);
+6 Non mi parean (6) men ampi (7) nè maggiori,\
+&emsp;Che quei che son nel mio bel Sangiovanni (8)\
+&emsp;Facti per luogo de' baptezatori (9);
 
-⁶ Non videbantur michi minus ampla nec maiora,\
+6 Non videbantur michi minus ampla nec maiora,\
 &emsp;Quam illa que sunt in meo pulchro Sancto Ioanne\
 &emsp;Facta pro loco baptizatorum;
 
-(¹) di Dio — (²) nell'Inferno. — (³) al. giusto, i. giustamente. — (⁴) forami ritondi. — (⁵) foro. — (⁶) quei fori. — (⁷) minori. — (⁸) chiesa di Firenze. — (⁹) sacerdoti, o altri che battezzano.
+(1) di Dio — (2) nell'Inferno. — (3) al. giusto, i. giustamente. — (4) forami ritondi. — (5) foro. — (6) quei fori. — (7) minori. — (8) chiesa di Firenze. — (9) sacerdoti, o altri che battezzano.
 
 magna quantitate pecunie, ivit ad Apostolos, promictens eis dictam quantitatem pecunie, si ipsi darent sibi virtutem faciendi illa miracula et suscitandi mortuos. Qui Sanctus Petrus apostolus dixit: Pecunia tua sit tecum in perditionem. Quare iste Symon indignatus, discessit ab Apostolis, factus inimicus eorum, et totius secte christianorum. Tandem, postea, mortuus fuit, cadens de aiere, sicut legitur in legenda ipsorum Apostolorum. Ab isto Symone ortum est hoc nomen symonia, quia ipse volebat emere gratiam Spiritus Sancti cum pecunia sua; et sic quilibet qui emit res sacras, dicitur symoniacus.
 
@@ -96,55 +96,55 @@ Facit comparationem talem. In Florentia, in ecclesia Sancti Ioannis Baptiste est
 
 <!-- p. 242 (0296) -->
 
-⁷ L'un de' quali, ancor non è molt'anni,\
+7 L'un de' quali, ancor non è molt'anni,\
 &emsp;Rupp'io per un che dentro v'annegava:\
-&emsp;E questo sia suggel (¹) ch'ogn'homo sganni (²).
+&emsp;E questo sia suggel (1) ch'ogn'homo sganni (2).
 
-⁷ Unum quorum, adhuc non sunt multi anni,\
+7 Unum quorum, adhuc non sunt multi anni,\
 &emsp;Rupi ego propter unum qui intus suffucabatur:\
 &emsp;Et istud est sigillum quod omnes homines sgannet
 
-⁸ Fuor della bocha a ciascun (³) soperchiava\
-&emsp;D'un peccator e piedi, e de le gambe (⁴)\
-&emsp;Infin al grosso (⁵), e l'altro (⁶) dentro (⁷) stava.
+8 Fuor della bocha a ciascun (3) soperchiava\
+&emsp;D'un peccator e piedi, e de le gambe (4)\
+&emsp;Infin al grosso (5), e l'altro (6) dentro (7) stava.
 
-⁸ Extra os cuilibet super[er]ant\
+8 Extra os cuilibet super[er]ant\
 &emsp;Unius peccatoris pedes, et crura\
 &emsp;Usque ad grossum, et totum reliquum intus stabat
 
-⁹ Le piante eran accese (⁸) a tutti intrambe (⁹);\
-&emsp;Per che sì forte guizzavan le giuncte (¹⁰),\
-&emsp;Che spezzat'haverien ritorte (¹¹) e strambe (¹²).
+9 Le piante eran accese (8) a tutti intrambe (9);\
+&emsp;Per che sì forte guizzavan le giuncte (10),\
+&emsp;Che spezzat'haverien ritorte (11) e strambe (12).
 
-⁹ Plante erant hiis omnibus accense ambo;\
+9 Plante erant hiis omnibus accense ambo;\
 &emsp;Quare tam fortiter movebantur,\
 &emsp;Quod fregissent ritortas et strambas.
 
-¹⁰ Qual suol al fiammeggiar de le cose uncte\
+10 Qual suol al fiammeggiar de le cose uncte\
 &emsp;Muoversi suso per l'extrema buccia;\
 &emsp;Tal era lì da' calcagni alle puncte.
 
-¹⁰ Qualiter solet flammiggiare rerum unctarum\
+10 Qualiter solet flammiggiare rerum unctarum\
 &emsp;Movere se super extremam bucciam;\
 &emsp;Taliter erat ibi a calcaneis usque ad punctas.
 
-¹¹ Chi è colui, maestro, che si cruccia,\
+11 Chi è colui, maestro, che si cruccia,\
 &emsp;Guizzando più che gl'altri suoi consorti,\
-&emsp;Diss'io, e cui più roggia (¹³) fiamma (¹⁴) succia?
+&emsp;Diss'io, e cui più roggia (13) fiamma (14) succia?
 
-¹¹ Quis est ille, magister, qui turbatur vel irascitur,\
+11 Quis est ille, magister, qui turbatur vel irascitur,\
 &emsp;Guizzando plus quam alii sui consortes,\
 &emsp;Dixi ego, et quem magis rubea flamma suggit?
 
-¹² Et elli (¹⁵) a me: Se tu vuo' ch'i' ti porti\
+12 Et elli (15) a me: Se tu vuo' ch'i' ti porti\
 &emsp;Laggiù per quella ripa che più giace,\
-&emsp;Da lui (¹⁶) saprai di sè e de' suoi torti (¹⁷).
+&emsp;Da lui (16) saprai di sè e de' suoi torti (17).
 
-¹² Et ipse ad me: Si tu vis quod te portem\
+12 Et ipse ad me: Si tu vis quod te portem\
 &emsp;Illuc [d]eorsum per illam ripam que plus iacet,\
 &emsp;Ab eo scies de se et de suis tortuosis rebus.
 
-(¹) segno. — (²) dichiari. — (³) foro. — (⁴) ancora. — (⁵) al polpaccio. — (⁶) tutto. — (⁷) al foro. — (⁸) di fuoco. — (⁹) amendue. — (¹⁰) le piante. — (¹¹) torques. — (¹²) di balestro. — (¹³) rossa. — (¹⁴) di fuoco. — (¹⁵) Virgilio — (¹⁶) medesmo. — (¹⁷) peccati.
+(1) segno. — (2) dichiari. — (3) foro. — (4) ancora. — (5) al polpaccio. — (6) tutto. — (7) al foro. — (8) di fuoco. — (9) amendue. — (10) le piante. — (11) torques. — (12) di balestro. — (13) rossa. — (14) di fuoco. — (15) Virgilio — (16) medesmo. — (17) peccati.
 
 in quadragesima, baptiza[ba]ntur. Sunt multi et multi; nec alibi baptizatur in Florentia, nisi in hoc loco: ideo sepe est compressio in baptizando. Oportet aliquando quod sacerdotes intrent intus in illum locum propter tumultum. Semel in uno Sabato Sancto erat tanta multitudo puerorum, qui portabantur, quod propter unum furiosum, qui indecenter comprimebat alios, unus puer erat ibi in aqua, qui suffucabatur, nisi quia Dantes, qui erat ibi, accepit unum maleum, et fregit lapidem, et sic liberavit puerum a suffucatione. Modo aliqui improperabant Danti, quod male fecerat, quia res sacras non debebat tangere. Ipse excusavit se, quod hoc non fecerat pro malo, sed solum ad liberandum puerum. Modo dicit textus de foraminibus illis. Non videbantur michi minus ampla, nec maiora, quam illa, que sunt in meo pulchro Sancto Ioanne, facta pro loco baptizatorum; unum quorum, scilicet foraminum, adhuc non sunt multi anni, rupi ego, propter unum qui intus suffucabatur: et istud sit sigillum quod omnes homines sgannet, idest de inganno trahat, idest declaret. Istud dictum potest sic intelligi: quia impugnabat[ur] quod fregeram cum maleo illum lapidem, et dicebatur quod non debebam facere, quia ad me non pertinebat, cum sim laycus, hoc quod dixi declaret omnes, quod ego non feci pro malo, ymo pie egi, laborando ad salvandum puerum illum, qui suffucabatur. Potest etiam aliter dici: Quia Florentie scitur publice, quod ego fregi illum lapidem; ideo si aliquis vellet gloriari falso, dicendo quod hunc librum, quem facio, et hoc opus, quod ego composui, fecerit ipse, sciant omnes, et non ignorent, quod ego fregi lapidem illum, composui istud opus.
 
@@ -158,47 +158,47 @@ Nota quod antequam esset papa, erat cardinalis optimi nominis et reputatus bone 
 
 <!-- p. 243 (0297) -->
 
-¹³ Et io: Tanto m'è bello, quant'a te piace:\
-&emsp;Tu se'signor (¹), e sai ch'io non mi parto\
+13 Et io: Tanto m'è bello, quant'a te piace:\
+&emsp;Tu se'signor (1), e sai ch'io non mi parto\
 &emsp;Dal tuo voler, e sai quel che si tace.
 
-¹³ Et ego: Tantum michi est pulchrum, quantum tibi placet:\
+13 Et ego: Tantum michi est pulchrum, quantum tibi placet:\
 &emsp;Tu es dominus, et scis quod ego non recedo\
 &emsp;A tuo velle, et scis etiam quod tacetur.
 
-¹⁴ Venimmo allora in sull'argine quarto\
+14 Venimmo allora in sull'argine quarto\
 &emsp;Volgendo; e discendemmo a mano stanca\
 &emsp;Laggiù nel fondo foracchiato et arto.
 
-¹⁴ Tunc venimus super aggerem quartum;\
+14 Tunc venimus super aggerem quartum;\
 &emsp;Vertimus nos, et descendimus ad manum sinistram\
 &emsp;Infra in fundum perforatum et arctum.
 
-¹⁵ Lo mio maestro ancor de la sua anca\
-&emsp;Non mi dispose, fin che (²) giunse al rocto (³)\
-&emsp;Di quel che sì piangeva (⁴) co'la zanca.
+15 Lo mio maestro ancor de la sua anca\
+&emsp;Non mi dispose, fin che (2) giunse al rocto (3)\
+&emsp;Di quel che sì piangeva (4) co'la zanca.
 
-¹⁵ Et bonus magister adhuc de tybia sua\
+15 Et bonus magister adhuc de tybia sua\
 &emsp;Non me deposuit, usquequo me iunxit apud ructum\
 &emsp;Illius qui sic plangebat cum crure.
 
-¹⁶ O qual che (⁵) se', che 'l di su (⁶) tien di socto,\
-&emsp;Anima trista, come pal (⁷) commessa,\
-&emsp;Comincia'io a dir, se puoi, fa' mocto (⁸).
+16 O qual che (5) se', che 'l di su (6) tien di socto,\
+&emsp;Anima trista, come pal (7) commessa,\
+&emsp;Comincia'io a dir, se puoi, fa' mocto (8).
 
-¹⁶ O qualiscumque es, qui partem superiorem tenes infra.\
+16 O qualiscumque es, qui partem superiorem tenes infra.\
 &emsp;Anima tristis, sicut lignum commissa,\
 &emsp;Incepi ego dicere, si potes, loquaris.
 
-¹⁷ Io stava come 'l Frate che confessa\
-&emsp;Lo perfido assassin, che, poi ch'è ficto (⁹),\
-&emsp;Richiama lui (¹⁰), per che la morte cessa (¹¹).
+17 Io stava come 'l Frate che confessa\
+&emsp;Lo perfido assassin, che, poi ch'è ficto (9),\
+&emsp;Richiama lui (10), per che la morte cessa (11).
 
-¹⁷ Ego stabam sicut Frater qui audit in confessione\
+17 Ego stabam sicut Frater qui audit in confessione\
 &emsp;Perfidum assassinum, qui postquam est fictus,\
 &emsp;Revocat illum, ut mors cesset.
 
-(¹) mic. — (²) al. si mi. — (³) al. foro. — (⁴) al. torcea. — (⁵) qualunque. — (⁶) el capo. — (⁷) palo in terra. — (⁸) parlami. — (⁹) propaginato in terra. — (¹⁰) Frate confessore. — (¹¹) si differisca alquanto.
+(1) mic. — (2) al. si mi. — (3) al. foro. — (4) al. torcea. — (5) qualunque. — (6) el capo. — (7) palo in terra. — (8) parlami. — (9) propaginato in terra. — (10) Frate confessore. — (11) si differisca alquanto.
 
 Misit unum consortem suum, cardinalem, scilicet dominum Latinum, sic vocatum, et fecit ipsum dominum Bononie. Iste fuit primus notorius symoniacus, de quo habeatur et legatur, qui cepit dare beneficia propter aurum et argentum et magna pretia. De hoc dicit textus: Quis est ille, magister, qui se sic cruciat, guizzando, agitando pedes, plusquam alii sui consortes, idest summi pontifices, dixi ego, et quem plus rossa, idest rubea, flamma succiat, idest suggit, cremat? Tunc Virgilius non dixit: Ille est talis, vel talis. Sed dixit: Si tu vis quod ego te portem deorsum per illam ripam, que plus iacet, idest pendet, ab ipso scies de se et suis tortis, idest de suis malis operibus tortuosis, idest non recte perpetratis. Ista fictio fuit hic necessaria, scilicet quod portaretur a Virgilio, quia stando tantum a longe ubi erat, supra pontem, non potuisset audire illum nec intelligere, nec ab ipso intelligi.
 
@@ -210,15 +210,15 @@ Nunc ponit auctor dispositionem, quomodo morabatur et expectabat, comparative di
 
 <!-- p. 244 (0298) -->
 
-¹⁸ Et ei gridò (¹): Se' tu già costì ricto,\
-&emsp;Se' tu già costì ricto, Bonifatio (²)?\
+18 Et ei gridò (1): Se' tu già costì ricto,\
+&emsp;Se' tu già costì ricto, Bonifatio (2)?\
 &emsp;Di parecchi anni mi mentì lo scripto.
 
-¹⁸ Et ipse clamavit: Es tu iam ibi,\
+18 Et ipse clamavit: Es tu iam ibi,\
 &emsp;Es tu iam ibi, Bonifati?\
 &emsp;De pluribus annis est michi mentita scriptura.
 
-(¹) colui, cioè papa Nicholao degl'Orsini. — (²) o Papa.
+(1) colui, cioè papa Nicholao degl'Orsini. — (2) o Papa.
 
 dicebant pueri: Summe pontifex, voluntas Iesu Christi est, quod tu renunties papatum, et quod tu vaces orationibus. Demum de nocte, cum arundinibus penetrantibus ad cameram pape, faciebat sic consimilia verba; in tantum quod papa Celestinus renuit papatum, ut dictum fuit in tertio capitulo. Facta renuntiatione, iste prequisivit voces a cardinalibus, in tantum quod fuit electus papa: et promiserat duobus cardinalibus de Columpna, scilicet domino Petro et domino Iacobo, transferre papatum in domum illorum de Columpna; sed nihil observavit de hiis, que promiserat illis de Columpna. Unde facti sunt inimici sui; quos ipse capello privavit, et fecit quasi exterminari domum de Columpna, abstulit ab eis Penestrinum, et multa alia. Sed quia ipse Bonifatius vocavit Karolum de Frantia, qui dicebatur Sineterra, quia nullam habebat terram, promictens ei facere ipsum regem, et nunquam fecit; ideo rex Philippus, germanus istius Karoli, rex Frantie, factus est inimicus ipsius Bonifatii. Quod audiens dominus Sciarra, nobilis miles de Columpna, ivit ad regem Philippum, regem Frantie, et dixit ei: Si vis me iuvare et michi auxiliari, nos deponemus papam Bonifatium. Rex Philippus acceptavit, dicens: Pete quidquid vis. Tunc ipse petiit pecunias et homines armorum. Rex Philippus omnia concessit. Tunc papa Bonifatius stabat et morabatur in Anania, civitate Campanie. Iste dominus Sciarra fecit tractatum cum aliquibus de Anania, et dato ordine, ivit ad Ananiam et intravit civitatem. Papa nihil timebat, quia habebat quingentos homines armorum. Dominus Sciarra de Columpna incepit facere tumultum in civitate. Tunc homines armorum pape fugerunt. Papa, videns se derelictum, intravit strictiorem et secretiorem cameram, quam habebat, et preparavit se in pontificalibus cum omnibus suis cubiculariis, et ibi expectavit. Dominus Sciarra, subintrans et perveniens ad papam, dicebat pape: Renuntia papatum; renuntia omnino. Et ille dicebat: Papa moriar, Papa moriar. Tunc dominus Sciarra duxit papam Romam, et tenebat eum in una magna turri; et papa momordit manus suas: tandem, nolens comedere, fame periit et mortuus est. Iste dilexit tantum suos, quod, ad ditandum eos, fecit symoniam et omnia inconvenientia, propter ditare eos.
 
@@ -228,71 +228,71 @@ Et ille clamavit: Es ne iam istic tu, es iam tu istic. Bonifati? De pluribus ann
 
 <!-- p. 245 (0299) -->
 
-¹⁹ Se'tu sì tosto di quello haver (¹) satio,\
-&emsp;Per lo qual (²) non temesti torre (³), a 'nganno (⁴)\
-&emsp;La bella donna (⁵), e poi di farne stratio?
+19 Se'tu sì tosto di quello haver (1) satio,\
+&emsp;Per lo qual (2) non temesti torre (3), a 'nganno (4)\
+&emsp;La bella donna (5), e poi di farne stratio?
 
-¹⁹ Es ita cito de illo ere satur,\
+19 Es ita cito de illo ere satur,\
 &emsp;Propter quod non timuisti recipere per deceptionem\
 &emsp;Pulchram dominam, et postmodum facere de illa derisum?
 
-²⁰ Tal mi fec'io (⁶), quai son color che stanno,\
+20 Tal mi fec'io (6), quai son color che stanno,\
 &emsp;Per non intender quel ch'è lor risposto,\
-&emsp;Quasi scornati (⁷), e risponder non sanno.
+&emsp;Quasi scornati (7), e risponder non sanno.
 
-²⁰ Talem me feci ego, quales sunt illi qui stant,\
+20 Talem me feci ego, quales sunt illi qui stant,\
 &emsp;Propter non intelligere id quod eis est responsum,\
 &emsp;Quasi derisi, et respondere nesciunt.
 
-²¹ E Virgilio mi disse: Dilli tosto,\
-&emsp;Non son colui (⁸), non son colui, che credi (⁹):\
-&emsp;Et io risposi (¹⁰) com'a me fu imposto (¹¹).
+21 E Virgilio mi disse: Dilli tosto,\
+&emsp;Non son colui (8), non son colui, che credi (9):\
+&emsp;Et io risposi (10) com'a me fu imposto (11).
 
-²¹ Tunc Virgilius dixit: Dicas sibi cito,\
+21 Tunc Virgilius dixit: Dicas sibi cito,\
 &emsp;Non sum ille, non sum ille, quem credis:\
 &emsp;Et ego respondi sicut michi fuit impositum.
 
-²² Perchè lo spirito tutti storse e piedi:\
+22 Perchè lo spirito tutti storse e piedi:\
 &emsp;Poi sospirando, con voce di pianto,\
 &emsp;Mi disse: Domque che a me richiedi?
 
-²² Ex quo spiritus totus distorsit pedes:\
+22 Ex quo spiritus totus distorsit pedes:\
 &emsp;Postea suspirando, et cum voce planctus,\
 &emsp;Michi dixit: Ergo, quid a me queris?
 
-²³ Se di saper ch'io sia ti cal cotanto,\
-&emsp;Che tu habbia però la ripa (¹²) scorsa,\
+23 Se di saper ch'io sia ti cal cotanto,\
+&emsp;Che tu habbia però la ripa (12) scorsa,\
 &emsp;Sappia ch'io fui vestito del gran manto:
 
-²³ Si scire quis ego sim tibi est cure tantum,\
+23 Si scire quis ego sim tibi est cure tantum,\
 &emsp;Quod tu propter hoc ripam cucurreris,\
 &emsp;Scias quod ego fui vestitus de grandi manto:
 
-²⁴ E veramente fui figluol dell'Orsa,\
-&emsp;Cupido sì, per avanzar (¹³) gl'orsacti (¹⁴),\
+24 E veramente fui figluol dell'Orsa,\
+&emsp;Cupido sì, per avanzar (13) gl'orsacti (14),\
 &emsp;Che su l'havere, e qui mi misi in borsa.
 
-²⁴ Et vere fui filius Urse,\
+24 Et vere fui filius Urse,\
 &emsp;Cupidus sic, ut ditarem ursactos,\
 &emsp;Quia superius es, et hic me misi in bursiam.
 
-²⁵ Di sotto al capo mio son gl'altri tracti,\
+25 Di sotto al capo mio son gl'altri tracti,\
 &emsp;Che precedecter me symoneggiando,\
-&emsp;Per la fessura de la pietra piacti (¹⁵).
+&emsp;Per la fessura de la pietra piacti (15).
 
-²⁵ Subtus caput meum sunt alii tracti,\
+25 Subtus caput meum sunt alii tracti,\
 &emsp;Qui precesserunt me symonizando,\
 &emsp;Per fixuras petre abyssi.
 
-²⁶ Laggiù chascherò io (¹⁶) altresì, quando\
-&emsp;Verrà colui (¹⁷) ch'io credea che tu fossi,\
-&emsp;Allhor ch'io feci (¹⁸) el subito dimando.
+26 Laggiù chascherò io (16) altresì, quando\
+&emsp;Verrà colui (17) ch'io credea che tu fossi,\
+&emsp;Allhor ch'io feci (18) el subito dimando.
 
-²⁶ Huc infra cadam ego etiam, quando\
+26 Huc infra cadam ego etiam, quando\
 &emsp;Veniet ille quem ego credebam quod tu esses,\
 &emsp;Tunc quando ego feci subitam interrogationem.
 
-(¹) thesoro de la Chiesa. — (²) al. per cui. — (³) toglere. — (⁴) con falsità et inganni. — (⁵) Chiesa romana. — (⁶) allora. — (⁷) dileggiati. — (⁸) cioè papa Clemente di Guascogna. — (⁹) tu. — (¹⁰) a lui. — (¹¹) da Virgllio. — (¹²) dell' Inferno. — (¹³) far richi e grandi — (¹⁴) gl' Orsini. — (¹⁵) appiattati. — (¹⁶) papa Nicholao. — (¹⁷) papa Bonifacio, successor mio nel papato. — (¹⁸) a te.
+(1) thesoro de la Chiesa. — (2) al. per cui. — (3) toglere. — (4) con falsità et inganni. — (5) Chiesa romana. — (6) allora. — (7) dileggiati. — (8) cioè papa Clemente di Guascogna. — (9) tu. — (10) a lui. — (11) da Virgllio. — (12) dell' Inferno. — (13) far richi e grandi — (14) gl' Orsini. — (15) appiattati. — (16) papa Nicholao. — (17) papa Bonifacio, successor mio nel papato. — (18) a te.
 
 Adhuc non rexerat nisi quinque annis et tribus mensibus: adhuc restabant duo anni et novem menses, quia moriebatur anno millesimo trecentesimo tertio. Ideo sequitur in textu: De pluribus annis, idest duobus et novem mensibus, scriptura mentita est michi. Hec verba Dantes non intelligebat, ymo fuit totus stupefactus. Et subiunxit papa Nicolaus: Es ne iam tam cito de illo avere, idest de illis divitiis, saturatus, propter quod, avere scilicet, non timuisti recipere cum deceptionibus pulchram dominam, idest Ecclesiam sanctam Dei, et postmodum de ipsa facere stratium, idest male tractare ipsam? Et quia Dantes non intelligebat eum, dicit: Tunc talem me feci, quales sunt illi qui stant propter non intendere, sive intelligere, id quod eis respondetur, quasi scornati, idest territi, sive decepti, et respondere nesciunt.
 
@@ -304,63 +304,63 @@ Et vere fui filius Urse, tam cupidus propter superhabere ursactos, idest ut abun
 
 <!-- p. 246 (0300) -->
 
-²⁷ Ma più è 'l tempo già ch'e piè mi cossi,\
+27 Ma più è 'l tempo già ch'e piè mi cossi,\
 &emsp;E ch'io son stato così sotto sopra,\
-&emsp;Ch'ei (¹) non starà piantato co' piè rossi:
+&emsp;Ch'ei (1) non starà piantato co' piè rossi:
 
-²⁷ Sed maius est tempus iam in quo pedes sunt michi cocti,\
+27 Sed maius est tempus iam in quo pedes sunt michi cocti,\
 &emsp;Ex quo ego steti sic sub supra,\
 &emsp;Quam illud quo ipse stabit plantatus cum pedibus rubeis:
 
-²⁸ Chè doppo lui verrà, di più layda opra,\
-&emsp;Di ver ponente (²) un pastor (³) senza legge,\
+28 Chè doppo lui verrà, di più layda opra,\
+&emsp;Di ver ponente (2) un pastor (3) senza legge,\
 &emsp;El qual convien che me e lui ricopra.
 
-²⁸ Quia post eum veniet, turpior opera,\
+28 Quia post eum veniet, turpior opera,\
 &emsp;Ab occidente unus Pastor sine lege,\
 &emsp;In tantum quod convenit quod me et illum recooperiat.
 
-²⁹ Nuovo Yason sarà, di cui si legge\
-&emsp;Ne' Machabei (⁴): e come a lui (⁵) fu molle\
-&emsp;Suo re (⁶), così fie lui (⁷) chi Francia regge.
+29 Nuovo Yason sarà, di cui si legge\
+&emsp;Ne' Machabei (4): e come a lui (5) fu molle\
+&emsp;Suo re (6), così fie lui (7) chi Francia regge.
 
-²⁹ Novus Iason erit, de quo legitur\
+29 Novus Iason erit, de quo legitur\
 &emsp;In libro Machabeorum: et sicut illi fuit mollis\
 &emsp;Suus rex, ita erit sibi qui Frantiam regit.
 
-³⁰ Io (⁸) non so s'io fui qui (⁹) troppo folle (¹⁰),\
-&emsp;Ch'io pur risposi lui (¹¹) in questo metro (¹²):\
-&emsp;De[h], hor mi di' (¹³) quanto thesoro volle (¹⁴)
+30 Io (8) non so s'io fui qui (9) troppo folle (10),\
+&emsp;Ch'io pur risposi lui (11) in questo metro (12):\
+&emsp;De[h], hor mi di' (13) quanto thesoro volle (14)
 
-³⁰ Ego nescio si ego fui hic nimis follis,\
+30 Ego nescio si ego fui hic nimis follis,\
 &emsp;Quod ego pur respondidi sibi ad istud metrum:\
 &emsp;De[h]or dicas michi quantum thesaurum voluit
 
-³¹ Nostro Signore (¹⁵) pria da Sancto Pietro,\
-&emsp;Che ponesse le chiavi in sua balìa (¹⁶)?\
+31 Nostro Signore (15) pria da Sancto Pietro,\
+&emsp;Che ponesse le chiavi in sua balìa (16)?\
 &emsp;Certo, non disse se non: Viemmi dietro.
 
-³¹ Noster Dominus prius a Sancto Petro,\
+31 Noster Dominus prius a Sancto Petro,\
 &emsp;Quam poneret claves in sua baylia?\
 &emsp;Certe non quesivit nisi: Tene me retro.
 
-³² Nè Pier nè gl'altri (¹⁷) tolsero a Mathia (¹⁸)\
-&emsp;Oro o argento, quando fu sortito (¹⁹)\
-&emsp;Al luogo che perdè l'anima ria (²⁰).
+32 Nè Pier nè gl'altri (17) tolsero a Mathia (18)\
+&emsp;Oro o argento, quando fu sortito (19)\
+&emsp;Al luogo che perdè l'anima ria (20).
 
-³² Nec Petrus nec alii quesierunt a Mathya\
+32 Nec Petrus nec alii quesierunt a Mathya\
 &emsp;Aurum et argentum, quando fuit sortitus\
 &emsp;In loco quem perdidit anima prava.
 
-³³ De[h] (²¹) hor ti sta', chè tu se' ben punito;\
-&emsp;E guarda ben la mal tolta (²²) moneta (²³),\
-&emsp;La qual ti fece contra Karlo (²⁴) ardito.
+33 De[h] (21) hor ti sta', chè tu se' ben punito;\
+&emsp;E guarda ben la mal tolta (22) moneta (23),\
+&emsp;La qual ti fece contra Karlo (24) ardito.
 
-³³ Ideo remaneas, quia tu es bene punitus;\
+33 Ideo remaneas, quia tu es bene punitus;\
 &emsp;Et custodias bene male ablatam monetam,\
 &emsp;Que esse te fecit contra Karolum audacem.
 
-(¹) al. ch'el. — (²) di Guascogna. — (³) papa Clemente quinto. — (⁴) lib. II. cap. 4. — (⁵) a Yason. — (⁶) Antyocho. — (⁷) a Clemente. — (⁸) Dante. — (⁹) in questo luogo. — (¹⁰) stolto. — (¹¹) a papa Nicholao. — (¹²) che seguita. — (¹³) o papa Nicholao. — (¹⁴) ricevere. — (¹⁵) Iesu Christo. — (¹⁶) potestà. — (¹⁷) Apostoli. — (¹⁸) apostolo. — (¹⁹) per sorte electo. — (²⁰) di Giuda. — (²¹) al. Però. — (²²) per symonia. — (²³) pecunia. — (²⁴) re di Sicilia.
+(1) al. ch'el. — (2) di Guascogna. — (3) papa Clemente quinto. — (4) lib. II. cap. 4. — (5) a Yason. — (6) Antyocho. — (7) a Clemente. — (8) Dante. — (9) in questo luogo. — (10) stolto. — (11) a papa Nicholao. — (12) che seguita. — (13) o papa Nicholao. — (14) ricevere. — (15) Iesu Christo. — (16) potestà. — (17) Apostoli. — (18) apostolo. — (19) per sorte electo. — (20) di Giuda. — (21) al. Però. — (22) per symonia. — (23) pecunia. — (24) re di Sicilia.
 
 Sed plus est temporis iam quod pedes cossi, idest decoxi, et quo steti sic subsuper, idest quo partem superiorem, scilicet caput, tenui subtus, quam non stabit plantatus, cum pedibus rubeis, idest ipse Bonifatius: quia papa Nicolaus steterat iam hic tali modo bene viginti annis, Bonifatius non stabit nisi duobus annis. Vult hic fingere, et fingit, quod unus papa symoniacus, qui ponitur sic in hoc loco, tantum sic stat quousque moriatur alter papa symoniacus. Assignat causam, quare tam modicum stabit hic Bonifatius, dicens: Quia post ipsum veniet de turpiori opere, idest maior symoniacus, de partibus ponentis, idest occidentis, unus pastor sine lege, talis, idest, quod oportet omnino ut ipsum Bonifatium, et me Nicolaum, cooperiat: idest erit maior symoniacus quam aliquis nostrum duorum. Dicitur de occidente, quia iste Vasco fuit, et Vasconia, respectu Ytalie, est pars occidentalis. Sine lege, quia oportebit ipsum facere, et sic faciet, quidquid placebit regi Frantie.
 
@@ -370,63 +370,63 @@ Ego nescio: hec est quarta pars huius capituli, in qua auctor reprehendit dictum
 
 <!-- p. 247 (0301) -->
 
-³⁴ E se non fosse ch'ancor lo mi vieta\
+34 E se non fosse ch'ancor lo mi vieta\
 &emsp;La reverentia delle somme chiavi,\
 &emsp;Che tu tenesti nella vita lieta,
 
-³⁴ Et si non esset quod adhuc michi vetat\
+34 Et si non esset quod adhuc michi vetat\
 &emsp;Reverentia summarum clavium,\
 &emsp;Quas tu tenuisti in vita leta,
 
-³⁵ Io userei (¹) parole assai più gravi;\
-&emsp;Chè la vostra (²) avaritia el mondo attrista,\
-&emsp;Calcando (³) e buoni e sollevando (⁴) e pravi.
+35 Io userei (1) parole assai più gravi;\
+&emsp;Chè la vostra (2) avaritia el mondo attrista,\
+&emsp;Calcando (3) e buoni e sollevando (4) e pravi.
 
-³⁵ Ego uterer verbis adhuc gravioribus;\
+35 Ego uterer verbis adhuc gravioribus;\
 &emsp;Quia vestra avaritia mundum tristem facit,\
 &emsp;Calcando bonos et sublevando pravos.
 
-³⁶ Di voi pastor (⁵) s'accorse (⁶) 'l Vangelista (⁷),\
-&emsp;Quando colei (⁸), che siede sopra l'acque (⁹),\
-&emsp;Puttaneggiar (¹⁰) coi re (¹¹) da lui fu vista:
+36 Di voi pastor (5) s'accorse (6) 'l Vangelista (7),\
+&emsp;Quando colei (8), che siede sopra l'acque (9),\
+&emsp;Puttaneggiar (10) coi re (11) da lui fu vista:
 
-³⁶ De vobis pastoribus previdit Evangelista,\
+36 De vobis pastoribus previdit Evangelista,\
 &emsp;Quando illa, que sedet super aquas,\
 &emsp;Meretricari cum regibus ab eo fuit visa:
 
-³⁷ Quella (¹²) che co'le septe teste (¹³) nacque,\
-&emsp;E da le dieci corna (¹⁴) ebbe argomento,\
-&emsp;Finchè virtute al suo marito (¹⁵) piacque.
+37 Quella (12) che co'le septe teste (13) nacque,\
+&emsp;E da le dieci corna (14) ebbe argomento,\
+&emsp;Finchè virtute al suo marito (15) piacque.
 
-³⁷ Illa que cum septem capitibus nata est,\
+37 Illa que cum septem capitibus nata est,\
 &emsp;A decem cornibus habuit argumentum,\
 &emsp;Quousque virtus suo marito placuit.
 
-³⁸ Facto v'havete Dio d'oro e d'argento;\
+38 Facto v'havete Dio d'oro e d'argento;\
 &emsp;E che altro è da voi all'ydolatre,\
-&emsp;Se non ch'elli (¹⁶) uno (¹⁷), e voi n'orate cento (¹⁸)?
+&emsp;Se non ch'elli (16) uno (17), e voi n'orate cento (18)?
 
-³⁸ [Vos Deum vobis fecistis de auro et argento;\
+38 [Vos Deum vobis fecistis de auro et argento;\
 &emsp;Quid aliud est inter vos et ydolatras,\
 &emsp;Nisi quod ipsi unum, et vos honoratis centum?]
 
-³⁹ Hay, Constantino, di quanto mal fu matre,\
-&emsp;Non la sua (¹⁹) conversion, ma quella dote\
-&emsp;Che da lui prese (²⁰) el primo richo patre (²¹)!
+39 Hay, Constantino, di quanto mal fu matre,\
+&emsp;Non la sua (19) conversion, ma quella dote\
+&emsp;Che da lui prese (20) el primo richo patre (21)!
 
-³⁹ Ay, Constantine, quot malorum fuit mater,\
+39 Ay, Constantine, quot malorum fuit mater,\
 &emsp;Non tua conversio, sed illa dos\
 &emsp;Quam a te suscepit primus dives pater!
 
-⁴⁰ E mentre li cantava cotai note,\
+40 E mentre li cantava cotai note,\
 &emsp;O ira o conscientia che 'l mordesse,\
-&emsp;Forte spinghava con ambo le piote (²²).
+&emsp;Forte spinghava con ambo le piote (22).
 
-⁴⁰ Et dum ego cantabam tales notas,\
+40 Et dum ego cantabam tales notas,\
 &emsp;Vel quod ira, vel quod conscientia, cum morderet,\
 &emsp;Fortiter spingabat cum ambabus plantis.
 
-(¹) al. ti direi. — (²) di voi pastori. — (³) tenendo sotto e subditi. — (⁴) a prelatione e dignità per symonia. — (⁵) avari. — (⁶) previde. — (⁷) Iohannes, Apoc. XVII. — (⁸) Chiesa romana. — (⁹) popoli, o carnalità. — (¹⁰) per symonia. — (¹¹) signor temporali. — (¹²) dico. — (¹³) septem spiritus dona, vel sacramenta. — (¹⁴) decem legis precepta. — (¹⁵) al papa. — (¹⁶) che quelli ydolatre. — (¹⁷) ydolo. — (¹⁸) quot sunt nummi per symoniam recepti. — (¹⁹) al. la tua. — (²⁰) al. da te prese. — (²¹) Sancto Silvestro. — (²²) piante.
+(1) al. ti direi. — (2) di voi pastori. — (3) tenendo sotto e subditi. — (4) a prelatione e dignità per symonia. — (5) avari. — (6) previde. — (7) Iohannes, Apoc. XVII. — (8) Chiesa romana. — (9) popoli, o carnalità. — (10) per symonia. — (11) signor temporali. — (12) dico. — (13) septem spiritus dona, vel sacramenta. — (14) decem legis precepta. — (15) al papa. — (16) che quelli ydolatre. — (17) ydolo. — (18) quot sunt nummi per symoniam recepti. — (19) al. la tua. — (20) al. da te prese. — (21) Sancto Silvestro. — (22) piante.
 
 Sanctus Mathias, ut patet in Actibus Apostolorum. Ideo stes ibis, idest remane, quia tu es bene, idest iuste, punitus: et custodi bene male ablatam monetam; idest, quam tulisti, sive acquisivisti, per symoniam; que te esse fecit audacem contra Karolum. Quia propter divitias, quas dederat suo nepoti, fuit ausus petere pro suo nepote filiam regis Karoli in uxorem; quia Karolus noluit dare, dicens: Licet habeat papa infulam de auro, non tamen est congruum, quod pro nepote suo habeat natam ex sanguine regum Frantie. Papa Nicolaus cepit facere guerram ipsi Karolo: et nisi mors supervenisset ipsi pape, ipse privasset regem suo regno.
 
@@ -436,41 +436,41 @@ Ay, Constantine, quanti mali tu fuisti mater, non tua conversio, quia per ipsam 
 
 <!-- p. 248 (0302) -->
 
-⁴¹ Io credo ben ch'al mio duca piacesse,\
+41 Io credo ben ch'al mio duca piacesse,\
 &emsp;Con sì contenta vogla sempre attese\
 &emsp;Al suon de le parole vere e spesse.
 
-⁴¹ Ego credo bene quod meo duci placuit,\
+41 Ego credo bene quod meo duci placuit,\
 &emsp;Cum ita contento labio semper auscultavit\
 &emsp;Sonum verborum verorum et expressorum.
 
-⁴² Però con ambo le braccia mi prese,\
-&emsp;E poi che tutto su mi s'ebbe (¹) al pecto,\
+42 Però con ambo le braccia mi prese,\
+&emsp;E poi che tutto su mi s'ebbe (1) al pecto,\
 &emsp;Rimontò per la via onde discese;
 
-⁴² Ideo cum ambobus brachiis me cepit,\
+42 Ideo cum ambobus brachiis me cepit,\
 &emsp;Et postquam totum me habuit ad pectus,\
 &emsp;Reascendit per viam unde descenderat;
 
-⁴³ Nè si stanchò d'havermi a sè distrecto,\
+43 Nè si stanchò d'havermi a sè distrecto,\
 &emsp;Sì men portò sopra 'l colmo dell'arco,\
-&emsp;Che fa dal quarto al quint'argin (²) tragecto.
+&emsp;Che fa dal quarto al quint'argin (2) tragecto.
 
-⁴³ Nec fessus fuit habere me apud se strictum,\
+43 Nec fessus fuit habere me apud se strictum,\
 &emsp;Quousque portavit me super culmen arcus,\
 &emsp;Qui a quarto ad quintum aggerem est traiectum.
 
-⁴⁴ Quivi soavemente spose (³) el carco;\
+44 Quivi soavemente spose (3) el carco;\
 &emsp;Salimmo per lo scoglo sconcio et erto,\
 &emsp;Che sarebbe a le capre duro varco:\
 &emsp;Indi un altro vallon mi fu scoverto.
 
-⁴⁴ Ibi suaviter disposuit onus,\
+44 Ibi suaviter disposuit onus,\
 &emsp;Suave propter scopulum vastum et arctum,\
 &emsp;Quod esset capris durus transitus:\
 &emsp;Inde una altera vallis fuit michi discooperta.
 
-(¹) al. mi tolse. — (²) argine. — (³) pose giù.
+(1) al. mi tolse. — (2) argine. — (3) pose giù.
 
 Ego bene credo, quod meo duci placueram: cum tam contento labio semper atesit, idest auscultavit, idest delectabiliter audivit, sonum verborum verorum, expressorum, idest que ego expressi; quia, quicumque me audivisset, cognovisset quod ego dixi verum et bene. Ideo cum ambobus brachiis me cepit; et postquam me habuit totum ad pectus suum, remontavit, idest reascendit, per viam, per quam descenderat. Nec fessus fuit habendo me strictum ad se; sic me portavit ad summum culmen arcus, qui a quarta, scilicet valle, ad quintum, scilicet ad circulum, arginem, sive aggerem, est traiectum, idest passus. Nam per ascensum, sicut primitus per descensum, Virgilius portavit Dantem: quia illa civitas erat nimis difficilis pro homine vivo, idest habente corpus; quod non sic fuisset, nec erat, pro uno spiritu. Hic in isto loco suaviter onus deposuit, idest me; suaviter per scopulum arctum et difficilem, et altum, qui esset capris, que leviter saltant, durus varcus, idest passus, vel transitus.
 

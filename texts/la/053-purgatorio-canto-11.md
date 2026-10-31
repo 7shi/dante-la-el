@@ -8,23 +8,23 @@ In isto undecimo capitulo, quod incipit: O Pater noster, qui in celis stas, prim
 
 # Capitulum Undecimum
 
-¹ O Padre nostro, che ne'cieli stai,\
+1 O Padre nostro, che ne'cieli stai,\
 &emsp;Non circumscripto, ma per più amore\
 &emsp;Che a'primi effetti di lassù tu hai,
 
-¹ Pater noster, qui in celis stas,\
+1 Pater noster, qui in celis stas,\
 &emsp;Non circumscriptus, sed ex maiori amore\
 &emsp;Quem primis effectibus superioribus tu habes,
 
-² Laudato sia 'l tuo nome e 'l tuo valore\
+2 Laudato sia 'l tuo nome e 'l tuo valore\
 &emsp;Da ogni creatura, com'è degno\
-&emsp;Di render gratie al tuo sommo (¹) vapore.
+&emsp;Di render gratie al tuo sommo (1) vapore.
 
-² Laudetur nomen tuum et tuus valor\
+2 Laudetur nomen tuum et tuus valor\
 &emsp;Ab omni creatura, sicut dignum est\
 &emsp;Reddi gratias summo vapori tuo.
 
-(¹) al. alto; al. dolce.
+(1) al. alto; al. dolce.
 
 Pater noster, qui in celis stas. O Padre nostro, che nel cielo stai: istud, undecimum capitulum huius Purgatorii, in quo auctor prosequitur materiam superborum purgandorum, in superiori capitulo pretactam, ponendo aliquos spiritus particulares, qui fuerunt multum superbi. Et dividitur istud capitulum in quatuor partes. In quarum prima auctor describit orationem dominicam, quam dicunt hic in Purgatorio.
 
@@ -52,93 +52,93 @@ Continuando igitur dicta dicendis, auctor, ut patebit infra, ponit orationem, pr
 
 <!-- p. 545 (0599) -->
 
-³ Vegna ver noi la pace del tuo regno,\
-&emsp;Chè noi, ad essa (¹) non potiàn (²) da noi,\
-&emsp;S'ella non vien, con tutto nostro ingegno(³).
+3 Vegna ver noi la pace del tuo regno,\
+&emsp;Chè noi, ad essa (1) non potiàn (2) da noi,\
+&emsp;S'ella non vien, con tutto nostro ingegno(3).
 
-³ Veniat versus nos pax tui regni,\
+3 Veniat versus nos pax tui regni,\
 &emsp;Quia nos ad ipsam non possumus a nobis,\
 &emsp;Si ipsa non venit, cum toto nostro ingenio.
 
-⁴ Come del suo buon voler gl'angeli tuoi\
+4 Come del suo buon voler gl'angeli tuoi\
 &emsp;Fan sacrificio a te, cantando osanna,\
 &emsp;Così faccian li homini de'suoi.
 
-⁴ Sicut de suo velle angeli tui\
+4 Sicut de suo velle angeli tui\
 &emsp;Faciunt sacrificium tibi, cantando osanna,\
 &emsp;Sic faciant homines de suis.
 
-⁵ Da'oggi a noi la quotidiana mannà,\
+5 Da'oggi a noi la quotidiana mannà,\
 &emsp;Senza la qual per quest'aspro deserto\
 &emsp;Indietro va chi più di gir s'affanna.
 
-⁵ Da nobis hodie cotidianum manna,\
+5 Da nobis hodie cotidianum manna,\
 &emsp;Sine quo per istud asperum desertum\
 &emsp;Retro vadit qui plus ire se fatigat.
 
-⁶ E come noi lo mal ch'abbian sofferto\
+6 E come noi lo mal ch'abbian sofferto\
 &emsp;Perdoniamo a ciascuno, e tu perdona\
 &emsp;Benigno, e non guardar al nostro merto.
 
-⁶ Et sicut nos malum quod sustinuimus\
+6 Et sicut nos malum quod sustinuimus\
 &emsp;Parcimus cuilibet, et tu parcas\
 &emsp;Benigne, et ne respicias ad nostrum meritum.
 
-⁷ Nostra virtù, che di leggier s'adona (⁴),\
-&emsp;Non spermentar (⁵) coll'antico adversaro,\
+7 Nostra virtù, che di leggier s'adona (4),\
+&emsp;Non spermentar (5) coll'antico adversaro,\
 &emsp;Ma libera da lui, che sì la sprona.
 
-⁷ Nostram virtutem, que leviter adonatur,\
+7 Nostram virtutem, que leviter adonatur,\
 &emsp;Non experiaris cum antiquo adversario,\
 &emsp;Sed libera nos ab illo, qui sic nos spronat.
 
-(¹) pace. — (²) al. possiam. — (³) possibilità. (⁴) si veuce. — (⁵) Noli probare.
+(1) pace. — (2) al. possiam. — (3) possibilità. (4) si veuce. — (5) Noli probare.
 
 per potentiam, essentiam, presentiam? Dicendum est quod sic; ideo auctor glossat dictum sic: Non circumscriptus. Sicut vult Aristoteles et sui expositores in quarto libro Phisicorum, Tractatu de loco, aliquid dicitur esse in loco circumscriptive, scilicet quando ultima superficies loci ambit ultimam corporis locati, quia locus est ultima superficies corporis locati, vel ambientis; et sic Deus nullibi est. Alio modo: aliquid est in loco diffinitive, quando aliqua res est in aliquo loco, sive in aliqua re, et ita est ibi quod est in omni parte talis rei; sicut anima est in corpore et in toto corpore, et est tota in toto et tota in qualibet eius parte, sed non extra illud corpus; et sic nullibi est Deus. Alio modo: aliquid est in loco taliter, quod est ibi et alibi et ubicumque; talis modus essendi in loco, non competit nisi soli deitati; quem modum essendi contulit Deus corpori Christi in sacramento altaris. Modo, ergo, sic est Deus ubique. Cur ergo dicitur: Qui es in celis? Dicendum, quoniam in celo empireo plus Deus se manifestat spiritibus ibi, ideo sic dicitur, etc.: ideo, non est ibi circumscriptus, sed propter ampliorem amorem quem habet ad primos effectus, scilicet ad angelos qui fuerunt primi effectus: quia in principio Deus creavit quatuor, scilicet primum celum empireum, naturam angelicam, primam materiam, et primum instans temporis. Modo a principio mundi Deus se ostendit clare spiritibus angelicis in celo empireo, et etiam modo spiritibus humanis illuc assumptis; ideo precipue dicitur Deus esse in celis: non autem circumscriptive continetur; hoc etenim non posset esse, cum Deus sit actus purus, res simplex, ymo res simplicissima. Sanctificetur nomen tuum, non quod de non sancto fiat sanctum, sed ut sanctissimum laudetur et conglorificetur. Veniat versus nos regnum tuum, secunda petitio est; quia prima fuit sanctificetur nomen tuum. Petunt igitur iste anime, ut regnum Patris veniat versus eas, quia creature non habent ex se ut possint ire versus regnum Dei, nisi preveniantur a gratia divina; quia, Nemo potest venire ad eum nisi Pater meus traxerit eum (in Evangelio Christi); ad denotandum quod nostra virtute non possumus ire, nisi nos preveniat regnum Dei, sive gratia sui regni. Sicut oculus noster videndo stellam in celo, non venit ad illam, sed stella venit, idest mictit speciem suam, ad oculum nostrum, sicut habe[n]t dicere perspectivi. Sicut de tuo velle, est tertia petitio, ubi Christus nos docet petere rem, sine qua non potest perveniri ad regnum Dei: quod nos faciamus, idest impleamus, voluntatem Dei, sicut angeli faciunt, qui nunquam errant, nec transgrediuntur voluntatem Dei, ita quod omnino illa faciamus que sunt de Dei beneplacito. Osanna ebraicum vocabulum est, quod sonat salvifica. Da nobis cotidianum manna (quarta petitio) quod est viaticum, sine quo nemo iret ad regnum Dei, et intelligitur tam de manna corporali quam etiam spirituali. Manna est quedam ros congelata, coloris albi, et est in gemmis sicut semina coriandri; sicut illud quod Deus pluit patribus nostris in deserto quadraginta annis; ita quod est manna corporale, sicut fuit illud; et est manna spirituale, sicut gratia divina et etiam corpus Christi in sacramento. Sine tali manna retrocedit qui plus ire versus regnum Dei nititur. Et sicut nos dimictimus, etc. quinta petitio; scilicet quod Deus parcat nobis, sicut nos pepercimus, vel parcimus, offendentibus nos. Sed nascitur hic dubium. Videtur quod nos precemur contra nos ipsos, dum nos non dimictimus debitoribus nostris. Aliqui dicunt, quod debet dici, non dimictimus, sed male. Dicunt alii quod dimictimus debet intelligi sicut dimictere debemus; quod bene potest stare. Sed melius est dicere sicut stat in oratione dominica, etiam licet non parceres; quia ista oratio non solum dicitur pro orante, sed etiam pro aliis, etc. Nostram virtutem non experiaris, etc., sexta petitio; scilicet quod Deus removeat magnum impedimentum eundi ad regnum Dei, scilicet temptationem. Non experiaris cum dyabolo potente multum, et virtus nostra leviter inclinatur. Sed libera, etc.
 
 <!-- p. 546 (0600) -->
 
-⁸ Quest' ultima preghiera, Signor caro,\
+8 Quest' ultima preghiera, Signor caro,\
 &emsp;Già non si fa per noi, chè non bisogna,\
 &emsp;Ma per color che dietro a noi restaro.
 
-⁸ Ista ultima deprecatio, o Domine care,\
+8 Ista ultima deprecatio, o Domine care,\
 &emsp;Iam non fit pro nobis, quia non oportet,\
 &emsp;Sed pro illis qui retro nos remanserunt.
 
-⁹ Così a sè e noi buona ramogna\
+9 Così a sè e noi buona ramogna\
 &emsp;Quell'ombre orando, andavan sott'l pondo,\
 &emsp;Simile a quel che talvolta si sogna,
 
-⁹ Sic sibi et nobis bonam ramognam\
+9 Sic sibi et nobis bonam ramognam\
 &emsp;Ille umbre orando, ibant sub pondere,\
 &emsp;Similes illi qui aliquando sompniat,
 
-¹⁰ Disparmente angosciate tutte a tondo,\
+10 Disparmente angosciate tutte a tondo,\
 &emsp;E lasse su per la prima cornice;\
-&emsp;Purgando la caligine (¹) del mondo.
+&emsp;Purgando la caligine (1) del mondo.
 
-¹⁰ Dispariter angustiate tote circum,\
+10 Dispariter angustiate tote circum,\
 &emsp;Et lapse super primam cornicem,\
 &emsp;Purgando caliginem de mundo.
 
-¹¹ Se di là sempre ben per noi si dice,\
-&emsp;Di qua che dir e far per lor si pote (²)\
+11 Se di là sempre ben per noi si dice,\
+&emsp;Di qua che dir e far per lor si pote (2)\
 &emsp;Da quei ch'ànno al voler buona radice?
 
-¹¹ Si ex illa parte bonum pro nobis semper dicitur,\
+11 Si ex illa parte bonum pro nobis semper dicitur,\
 &emsp;Ab ista quid dici et fieri pro illis potest\
 &emsp;De illis qui habent ad velle bonam radicem?
 
-¹² Ben si de'lor aitar lavar le note (³)\
+12 Ben si de'lor aitar lavar le note (3)\
 &emsp;Che portâr quinci, sì che mondi e lievi\
-&emsp;Possin escir delle stellate rote (⁴).
+&emsp;Possin escir delle stellate rote (4).
 
-¹² Bene debetur adiuvare illos levare notas\
+12 Bene debetur adiuvare illos levare notas\
 &emsp;Quas portaverunt hinc, ita quod mundi et leves\
 &emsp;Possint exire de stellatis rotis.
 
-(¹) al. le caligini. — (²) al. puote. — (³) macule, al. nuote. — (⁴) al. ruote.
+(1) al. le caligini. — (2) al. puote. — (3) macule, al. nuote. — (4) al. ruote.
 
 Pater noster, qui in celis stas, non circumscriptus (quia non potest circumscribi, cum sit res simplicissima), sed ex maiore amore, quam primis effectibus superioribus tu habes; laudetur nomen tuum et tuus valor, idest virtus, ab omni creatura; sicut dignum est reddi gratias summo vapori tuo. Veniat versus nos pax tui regni, quia nos ad ipsam non possumus, idest ire, a nobis, si ipsa non venit, cum toto nostro ingenio. Sicut de tuo velle, idest voluntate, angeli tui faciunt sacrificium, tibi cantando Osanna, idest Salvifica; sic faciant homines de suis, voluntatibus scilicet. Da nobis hodie cotidianum manna, tam corporale quam spirituale, subaudi, sine quo per istud asperum desertum, idest mundum presentem, retro vadit qui plus ire se fatigat. Et sicut nos malum quod substinuimus, idest substulimus, parcimus cuilibet, et tu parcas, scilicet nobis, benigne, et ne respicias ad nostrum meritum. Nostram virtutem, que leviter adonatur, idest faciliter et leviter vincitur et opprimitur, non experiaris, idest non patiaris experientiam facere, quia de levi vincetur, cum antiquo adversario, idest dyabolo, qui ab antiquo adversarius est generi humano. Sed libera nos ab illo, qui nos sic nos stimulat, idest impellit et incitat.
 
@@ -154,71 +154,71 @@ Bene debetur hoc, scilicet fieri, supple per nos, idest adiuvare eos levare nota
 
 <!-- p. 547 (0601) -->
 
-¹³ De! se iustitia e pietà (¹) vi disgrevi\
+13 De! se iustitia e pietà (1) vi disgrevi\
 &emsp;Tosto, sì che possiate muover l'hala,\
 &emsp;Che secondo 'l desio vostro vi lievi,
 
-¹³ De! si iustitia et pietas vos disgrevet\
+13 De! si iustitia et pietas vos disgrevet\
 &emsp;Cito, ita quod possitis movere alam,\
 &emsp;Que secundum desiderium vestrum vos levet,
 
-¹⁴ Mostrate da qual mano inver la scala\
+14 Mostrate da qual mano inver la scala\
 &emsp;Si va più corto; e se ci è più d'un varco,\
 &emsp;Quel ne insegnate che men erto cala:
 
-¹⁴ Monstretis a qua manu versus scalas\
+14 Monstretis a qua manu versus scalas\
 &emsp;Itur magis breve; et si est abhinc plusquam unus transitus,\
 &emsp;Illum nos docete qui minus alte calat:
 
-¹⁵ Chè questi che vien meco, per lo 'ncarco\
+15 Chè questi che vien meco, per lo 'ncarco\
 &emsp;De la carne d'Adamo, onde si veste,\
 &emsp;Al montar su contra sua vogla è parco.
 
-¹⁵ Quia iste qui venit mecum, propter onus\
+15 Quia iste qui venit mecum, propter onus\
 &emsp;Carnis Ade, unde vestitur,\
 &emsp;Ad ascendendum sursum contra suam voluntatem est parcus.
 
-¹⁶ Le lor parole, che rendero a queste\
+16 Le lor parole, che rendero a queste\
 &emsp;Che dett'havea colui cu'io seguiva,\
 &emsp;Non fur da cui venisser manifeste;
 
-¹⁶ Eorum verba, que reddiderunt istis\
+16 Eorum verba, que reddiderunt istis\
 &emsp;Que dixerat ille quem ego sequebar,\
 &emsp;Non fuerunt a quo venirent manifesta;
 
-¹⁷ Ma fu detto: A man dextra per la riva\
+17 Ma fu detto: A man dextra per la riva\
 &emsp;Con noi venite, e troverete 'l passo\
 &emsp;Possibil a salir persona viva.
 
-¹⁷ Sed fuit dictum: Ad manum dexteram per ripam\
+17 Sed fuit dictum: Ad manum dexteram per ripam\
 &emsp;Nobiscum venite, et invenietis passum\
 &emsp;Possibilem ad ascendendum a persona viva.
 
-¹⁸ E s'io non fussi impedito dal sasso,\
+18 E s'io non fussi impedito dal sasso,\
 &emsp;Che la cervice mia superba doma,\
 &emsp;Onde portar conviemmi el viso basso,
 
-¹⁸ Et si ego non essem impeditus a saxo,\
+18 Et si ego non essem impeditus a saxo,\
 &emsp;Qui cervicem meam superbam domat,\
 &emsp;Unde portare michi convenit visum demissum,
 
-¹⁹ Cotesti ch'ancor vive, e non si noma,\
+19 Cotesti ch'ancor vive, e non si noma,\
 &emsp;Guardere' io, per veder s'il conosco,\
 &emsp;E per farlo piatoso a questa soma.
 
-¹⁹ Illum qui adhuc vivit, et se non nominat,\
+19 Illum qui adhuc vivit, et se non nominat,\
 &emsp;Respicerem ego, ut viderem si illum cognosco,\
 &emsp;Et ut facerem eum pium ad istam salmam.
 
-²⁰ Io fui Latino, e nato d'un gran Tosco:\
+20 Io fui Latino, e nato d'un gran Tosco:\
 &emsp;Guglelmo Aldobrandesco fu mio padre:\
 &emsp;Non so se 'l nome suo giamai fu vosco.
 
-²⁰ Ego fui Latinus, et natus ab uno grandi Tusco:\
+20 Ego fui Latinus, et natus ab uno grandi Tusco:\
 &emsp;Guilielmus Aldobrandescus fuit meus pater:\
 &emsp;Nescio si nomen eius unquam fuit vobiscum.
 
-(¹) misericordia.
+(1) misericordia.
 
 De! si iustitia et pietate. De! si iustitia et pietà: hec est secunda pars huius capituli, in qua Virgilius petit a quadam umbra, ut doceat ei viam meliorem ascendendi. Nam hucusque non intraverunt cornicem, sed steterunt in illa via plana, ubi erant ille hystorie ymaginate ad pedem cornicis. Et quasi, Virgilius, coniurando, petit de via dicens: De! si iustitia et pietas vos disgravet, idest exoneret, sive alleviet cito, ita quod possitis movere alam (scilicet que vos portet sursum, idest voletis, quia anime purgate in Purgatorio subito volant ad celum), que secundum desiderium vestrum vos levet, idest extollat in altum (methaphorica loquutio est), monstretis a qua manu, scilicet dextra vel sinistra (sed semper tamen ad dextram itur per Purgatoriam, sicut per Infernum semper ad sinistram iverunt, etc.), versus scalas itur magis breve, idest brevius; et si abhinc est plus quam unus transitus, illum nos docete qui minus alte calat, idest descendit, vel declinat, qui est minus altus: qui[a] iste qui venit mecum, propter onus carnis Ade, unde, idest ex qua, vestitur, ad ascendendum sursum, contra suam voluntatem est parcus, idest avarus, idest vellet bene ire, sed non potest, quia caro non permictit. Quasi dicens: Habet bonum cor, sed non bonos pedes.
 
@@ -232,55 +232,55 @@ Notandum est quod iste spiritus fuit Uberti comitis de Saneta Flore ibi in Marip
 
 <!-- p. 548 (0602) -->
 
-²¹ L'antico sangue e l'opere leggiadre\
+21 L'antico sangue e l'opere leggiadre\
 &emsp;De'miei maggior mi fer sì arrogante,\
 &emsp;Che, non pensando a la comune madre,
 
-²¹ Antiquus sanguis et opera nobilia meorum maiorum\
+21 Antiquus sanguis et opera nobilia meorum maiorum\
 &emsp;Me fecerunt ita arrogantem,\
 &emsp;Quod, non respiciendo ad communem matrem,
 
-²² Ogn'homo ebbi in dispecto tanto avante\
+22 Ogn'homo ebbi in dispecto tanto avante\
 &emsp;Ch'io ne morii, come e Sanesi sanno,\
 &emsp;E sallo in Campagnatico ogni infante.
 
-²² Omnes homines habui in despectum ante\
+22 Omnes homines habui in despectum ante\
 &emsp;Quod ex illo mortuus fui, sicut Senenses sciunt,\
 &emsp;Et scit hoc in Campanatico omnis famulus.
 
-²³ Io son Omberto: e non pur a me danno\
+23 Io son Omberto: e non pur a me danno\
 &emsp;Superbia fa, chè tutti e miei consorti\
 &emsp;Ha ella tracto seco col malanno.
 
-²³ Ego sum Ubertus: et non solum dampnum michi\
+23 Ego sum Ubertus: et non solum dampnum michi\
 &emsp;Superbia fuit, quia omnes consortes meos\
 &emsp;Traxit ipsa secum in malum annum.
 
-²⁴ E qui convien ch'io questo peso porti\
+24 E qui convien ch'io questo peso porti\
 &emsp;Per lei, tanto ch'a Dio satisfaccia,\
 &emsp;Poi ch'io nol fei tra' vivi, qui tra' morti.
 
-²⁴ Unde convenit quod istud pondus portem\
+24 Unde convenit quod istud pondus portem\
 &emsp;Propter eam, tantum quod Deo satisfaciam,\
 &emsp;Postquam id non feci inter vivos, hic intra mortuos.
 
-²⁵ Ascoltando, chinai in giù la faccia;\
+25 Ascoltando, chinai in giù la faccia;\
 &emsp;Et un di lor, non quei che parlava,\
 &emsp;Si torse sotto 'l peso che gl' impaccia,
 
-²⁵ Auscultando, inclinavi infra faciem;\
+25 Auscultando, inclinavi infra faciem;\
 &emsp;Et unus eorum, non iste qui loquebatur,\
 &emsp;Se torsit sub pondere quod eos impedit,
 
-²⁶ E videmi e conobbemi e chiamava,\
+26 E videmi e conobbemi e chiamava,\
 &emsp;Tenendo gl'ochi con fatica fisi\
-&emsp;A me, che tutto chin (¹) con loro andava.
+&emsp;A me, che tutto chin (1) con loro andava.
 
-²⁶ Et vidit me et cognovit me et clamabat,\
+26 Et vidit me et cognovit me et clamabat,\
 &emsp;Tenendo oculos cum labore fixos\
 &emsp;Ad me, qui totus inclinatus cum ipso ibam.
 
-(¹) inchinato.
+(1) inchinato.
 
 magni domini, in tantum quod omni die anni poterant locum mutare et hospitium, et esse in suo proprio dominio. Isti comites magni Gebellini fuerunt; ideo Senenses paullatim consumpserant eos quasi in totum. Semel autem, dum gentes armigere Senensium equitarent ad Campanaticum, oppidum unum istorum comitum, Ubertus iste erat intra dictum oppidum; et indignatus stare intus inclusus, exivit foras ad bellum cum aliquibus peditibus, et non potens resistere inimicis, breviter ibi fuit occisus. Quasi dicat: Pater meus fuit ita honorabilis armiger et in armis et in sanguine, quod deberetis eum cognovisse. Sed loquitur honeste, laudans suos; et dicit quod duo fuerunt causa superbie sue, scilicet nobilitas sanguinis et proba opera suorum antecessorum.
 
@@ -296,55 +296,55 @@ Auscultando inclinavi infra faciem: et unus de ipsis, non iste qui loquebatur, s
 
 <!-- p. 549 (0603) -->
 
-²⁷ O, diss' io lui, non se' tu Oderisi,\
+27 O, diss' io lui, non se' tu Oderisi,\
 &emsp;L'honor d'Agobbio, e l'honor di quell'arte\
 &emsp;Ch'alluminar chiamata è in Parisi?
 
-²⁷ O, dixi ego ad eum, nonne es tu Oderisius,\
+27 O, dixi ego ad eum, nonne es tu Oderisius,\
 &emsp;Honor Eugubii, et honor illius artis\
 &emsp;Que alluminare vocatur in Parisius?
 
-²⁸ Frate, diss' elli, più ridon le carte\
+28 Frate, diss' elli, più ridon le carte\
 &emsp;Che pennelleggia Franco Bolognese:\
 &emsp;L'honor è tutt'hor suo, e mio in parte.
 
-²⁸ Frater, dixit ipse, magis rident carte\
+28 Frater, dixit ipse, magis rident carte\
 &emsp;Quas pennellegiat Francus Bononiensis:\
 &emsp;Honor est totus suus, et meus in parte.
 
-²⁹ Ben non sare' io stato sì cortese\
+29 Ben non sare' io stato sì cortese\
 &emsp;Mentre ch'io vissi, per lo gran desio\
 &emsp;Dell'excellentia, ove mio cor intese.
 
-²⁹ Bene non fuissem ego ita curialis\
+29 Bene non fuissem ego ita curialis\
 &emsp;Dum ego vixi, propter grande desiderium\
 &emsp;Illius excellentie, ubi meum cor intendebat.
 
-³⁰ Di tal superbia qui si paga el fio;\
+30 Di tal superbia qui si paga el fio;\
 &emsp;Et ancor non sare' io qui, se non fosse\
 &emsp;Che, possendo peccar, mi volsi a Dio.
 
-³⁰ De tali superbia hic solvitur fio;\
+30 De tali superbia hic solvitur fio;\
 &emsp;Et adhuc non essem hic, si non esset\
 &emsp;Quod, potens peccare, me converti ad Deum.
 
-³¹ O vanagloria dell'humane posse,\
+31 O vanagloria dell'humane posse,\
 &emsp;Com' poco verde in sulla cima dura,\
 &emsp;Se non è giuneto dall'etati grosse!
 
-³¹ O vanagloria humanarum potentiarum,\
+31 O vanagloria humanarum potentiarum,\
 &emsp;Quantum paucum viriditatis in summitate durat,\
 &emsp;Nisi superveniatur ab etatibus grossis!
 
-³² Credette Cimabò della pinctura\
+32 Credette Cimabò della pinctura\
 &emsp;Tener el campo, et hor ha Giotto'l grido,\
 &emsp;Sì che la fama di colui è scura.
 
-³² Credidit Cimabò in pictura\
+32 Credidit Cimabò in pictura\
 &emsp;Tenere campum, et nunc habet Gioctus gridum,\
 &emsp;Ita quod fama illius est obscura.
 
-(¹) o.
+(1) o.
 
 O, dixi ego ad eum, nonne es tu Oderisius, honor Egubii, et honor illius artis que allumare vocatur in Parisius? Ubi nos Ytalici dicimus miniare, Parisius dicitur alluminare: quando liber est bene miniatus, Parisius dicitur bene alluminatus. Tamen nos Ytalici melius et proprius loquimur. Unde dicitur miniare? a quodam colore nomine minio. Dicit Plinius, quod istud minium erat in tanto pretio, quod Scipio triumphans intravit Romam tinctus minio.
 
@@ -364,47 +364,47 @@ Notandum quod tempore auctoris erat unus pictor, magister in arte pingendi, qui 
 
 <!-- p. 550 (0604) -->
 
-³³ Così à tolto l'un (¹) all'altro Guido\
+33 Così à tolto l'un (1) all'altro Guido\
 &emsp;La gloria de la lingua; e forse è nato\
 &emsp;Chi l'uno e l'altro caccerà del nido.
 
-³³ Sic subripuit unus alteri Guidoni\
+33 Sic subripuit unus alteri Guidoni\
 &emsp;Gloriam lingue; et forsan est natus\
 &emsp;Qui utrumque expellet de nido.
 
-³⁴ Non è'l mondan romor altro ch'un fiato\
+34 Non è'l mondan romor altro ch'un fiato\
 &emsp;Di vento, ch'hor vien quinci, et hor vien quindi,\
 &emsp;E muta nome perchè muta lato.
 
-³⁴ Non est mundanus rumor aliud quam unus flatus\
+34 Non est mundanus rumor aliud quam unus flatus\
 &emsp;Venti, qui aliquando venit hinc et aliquando venit inde,\
 &emsp;Et mutat nomen quia mutat latus.
 
-³⁵ Che voce harai tu più, se vecchia scindi (²)\
+35 Che voce harai tu più, se vecchia scindi (2)\
 &emsp;Da te la carne, che se fussi morto\
-&emsp;Anzi che tu lasciassi (³) pappa o dindi (⁴),
+&emsp;Anzi che tu lasciassi (3) pappa o dindi (4),
 
-³⁵ Quam vocem habebis tu maiorem, si antiquam scindis,\
+35 Quam vocem habebis tu maiorem, si antiquam scindis,\
 &emsp;A te carnem, quam si esses mortuus\
 &emsp;Antequam tu dimicteres pappam vel dindum,
 
-³⁶ Pria che passin mill'anni? ch'è (⁵) più corto\
-&emsp;Spatio all'etterno (⁶), ch'un muover di cigla\
-&emsp;Al cerchio (⁷) che più tardi in cielo è torto (⁸).
+36 Pria che passin mill'anni? ch'è (5) più corto\
+&emsp;Spatio all'etterno (6), ch'un muover di cigla\
+&emsp;Al cerchio (7) che più tardi in cielo è torto (8).
 
-³⁶ Priusquam transeant mille anni? qui sunt brevius\
+36 Priusquam transeant mille anni? qui sunt brevius\
 &emsp;Spatium ad eternitatem, quam unus motus superciliorum\
 &emsp;Ad circulum qui tardius in celo torquetur.
 
-³⁷ Colui (⁹), che del cammin, sì poco pigla (¹⁰)\
+37 Colui (9), che del cammin, sì poco pigla (10)\
 &emsp;Dinanzi a me, Toschana sonò tutta,\
-&emsp;Et hor a pena in Siena si (¹¹) pispigla,
+&emsp;Et hor a pena in Siena si (11) pispigla,
 
-³⁷ Ille, qui de itinere ita paucum apprehendit\
+37 Ille, qui de itinere ita paucum apprehendit\
 &emsp;Ante me, in Tuscia sonuit tota,\
 &emsp;Et nunc in Senis vix de eo quis loquitur,
 
-(¹) Guido. — (²) separi. (³) al. avanti che lasciassi. — (⁴) idest, antequam exires de pueritia. — (⁵) che è. (⁶) alla eternità. — (⁷) octava sfera. — (⁸) voluto. — (⁹) Provenzan Salvani. — (¹⁰) per lo gran peso che porta. — (¹¹) al. sen.
+(1) Guido. — (2) separi. (3) al. avanti che lasciassi. — (4) idest, antequam exires de pueritia. — (5) che è. (6) alla eternità. — (7) octava sfera. — (8) voluto. — (9) Provenzan Salvani. — (10) per lo gran peso che porta. — (11) al. sen.
 
 Sic subripuit unus alteri Guidoni gloriam lingue; et forsan est natus, qui utrumque expellet de nido.
 
@@ -418,55 +418,55 @@ Ille qui de itinere. Colui che de camin: ista est quarta pars huius capituli, in
 
 <!-- p. 551 (0605) -->
 
-³⁸ Ond'era Sire (¹), quando fu destructa\
+38 Ond'era Sire (1), quando fu destructa\
 &emsp;La rabbia fiorentina, che superba\
-&emsp;Fu a quel tempo, sì com'hor è pucta (²).
+&emsp;Fu a quel tempo, sì com'hor è pucta (2).
 
-³⁸ Unde erat dominus, quando fuit destructa\
+38 Unde erat dominus, quando fuit destructa\
 &emsp;Rabies florentina, que superba\
 &emsp;Fuit illo tempore, sicut nunc est pucta.
 
-³⁹ La vostra nominanza è color d'herba,\
+39 La vostra nominanza è color d'herba,\
 &emsp;Che viene e va, e quei la discolora\
-&emsp;Per cui ell'esce de la terra acerba (³).
+&emsp;Per cui ell'esce de la terra acerba (3).
 
-³⁹ Vestra fama est color herbe,\
+39 Vestra fama est color herbe,\
 &emsp;Que vadit et que venit, et ille eam discolorat\
 &emsp;Per quem ipsa exit de terra acerba.
 
-⁴⁰ Et io a lui: El tuo ver dir m'incuora\
-&emsp;Ad humiltà, e gran tumor (⁴) m'appiani (⁵),\
-&emsp;Ma chi è quel (⁶) di cui (⁷) tu parlav'hora?
+40 Et io a lui: El tuo ver dir m'incuora\
+&emsp;Ad humiltà, e gran tumor (4) m'appiani (5),\
+&emsp;Ma chi è quel (6) di cui (7) tu parlav'hora?
 
-⁴⁰ Et ego ad ipsum: Tuum dictum verum me accorat\
+40 Et ego ad ipsum: Tuum dictum verum me accorat\
 &emsp;Bonam humilitatem, et grandem timorem michi explanas;\
 &emsp;Sed quis est ille de quo tu loqueris nunc?
 
-⁴¹ Quelli è, rispose, Provenzan (⁸) Selvani;\
+41 Quelli è, rispose, Provenzan (8) Selvani;\
 &emsp;Qui è, però che fu presumptuoso\
-&emsp;A rechar Siena tutta in le sue mani (⁹).
+&emsp;A rechar Siena tutta in le sue mani (9).
 
-⁴¹ Ille est, respondit, Provintianus Silvanus;\
+41 Ille est, respondit, Provintianus Silvanus;\
 &emsp;Et est hic, quifa fuit presumptuosus\
 &emsp;Ad reducendum Senas totas ad suas manus.
 
-⁴² Ito è così e va (¹⁰) senza riposo,\
+42 Ito è così e va (10) senza riposo,\
 &emsp;Poi che morì: cotal moneta rende\
-&emsp;A satisfar chi è di là troppo oso (¹¹).
+&emsp;A satisfar chi è di là troppo oso (11).
 
-⁴² Ivit sic et vadit sine quiete,\
+42 Ivit sic et vadit sine quiete,\
 &emsp;Postquam mortuus fuit: et talem monetam reddit\
 &emsp;Ad satisfaciendum qui est in alio mundo nimis ausus.
 
-⁴³ Et io (¹²): Se quello spirito ch'attende (¹³),\
-&emsp;Pria che si penta, l'orlo (¹⁴) de la vita,\
-&emsp;Quaggiù (¹⁵) dimora e quassù (¹⁶) non ascende,
+43 Et io (12): Se quello spirito ch'attende (13),\
+&emsp;Pria che si penta, l'orlo (14) de la vita,\
+&emsp;Quaggiù (15) dimora e quassù (16) non ascende,
 
-⁴³ Et ego ad eum: Si ille spiritus qui attendit,\
+43 Et ego ad eum: Si ille spiritus qui attendit,\
 &emsp;Priusquam eum peniteat, ad ultimum vite,\
 &emsp;Ibi infra moratur et huc sursum non ascendit,
 
-(¹) signore. — (²) meretrice per denari. — (³) presta. — (⁴) superbia. — (⁵) m'abbassi. — (⁶) al. quei. — (⁷) al. del qual. — (⁸) messere. — (⁹) al. alle. — (¹⁰) così. — (¹¹) ardito. — (¹²) dissi. — (¹³) che aspecta. — (¹⁴) lo estremo. — (¹⁵) fuori de la porta. — (¹⁶) a purgarsi.
+(1) signore. — (2) meretrice per denari. — (3) presta. — (4) superbia. — (5) m'abbassi. — (6) al. quei. — (7) al. del qual. — (8) messere. — (9) al. alle. — (10) così. — (11) ardito. — (12) dissi. — (13) che aspecta. — (14) lo estremo. — (15) fuori de la porta. — (16) a purgarsi.
 
 spiritus domini Provintiani Silvani de Senis. Nobilis homo fuit, et valens in armis, et in consilio probus; sed presumptuosus et audax, et fuit ille qui dedit conflictum Florentinis penes fluvium Arbie. Demum factus ex hoc arrogans, venit cum gentibus armorum super territorium Florentie, scilicet ad collem vallis Else, oppidum sic dictum, contra quem factus fuit per Florentinos capitaneus Gampretaldo, et venit contra eum cum gentibus Florentinorum et cum Guelfis. Tunc dictus dominus Provintianus Silvani cogitavit astute recedere, et non potuit; et preventus, habuit conflictum et interfectus fuit: cuius caput positum fuit super una lancea, et portatum Florentiam, et per totam civitatem circumductum.
 
@@ -484,41 +484,41 @@ Et ego ad eum, scilicet dixi: [Si] ille spiritus, qui attendit, expectat, priusq
 
 <!-- p. 552 (0606) -->
 
-⁴⁴ Se buona oration lui non aita,\
-&emsp;Prima che passi tempo quanto visse (¹),\
-&emsp;Come fu la venuta sua largita (²)?
+44 Se buona oration lui non aita,\
+&emsp;Prima che passi tempo quanto visse (1),\
+&emsp;Come fu la venuta sua largita (2)?
 
-⁴⁴ Si bona oratio cum non adiuvat,\
+44 Si bona oratio cum non adiuvat,\
 &emsp;Prius quam transeat tempus quantum vixit,\
 &emsp;Quomodo fuit adventus ei largitus?
 
-⁴⁵ Quando vivea più glorioso, disse,\
+45 Quando vivea più glorioso, disse,\
 &emsp;Liberamente nel campo di Siena,\
-&emsp;Ogni vergogna deposta (³), s'affisse (⁴):
+&emsp;Ogni vergogna deposta (3), s'affisse (4):
 
-⁴⁵ Quando vivebat magis gloriosus, dixit,\
+45 Quando vivebat magis gloriosus, dixit,\
 &emsp;Libere in campo Senarum,\
 &emsp;Omni verecundia deposita, se affixit:
 
-⁴⁶ E li (⁵) per trar l'amico suo (⁶) di pena,\
-&emsp;Che sostenea in la pregion di Karlo (⁷),\
-&emsp;Si condusse a tremar per ogni vena (⁸).
+46 E li (5) per trar l'amico suo (6) di pena,\
+&emsp;Che sostenea in la pregion di Karlo (7),\
+&emsp;Si condusse a tremar per ogni vena (8).
 
-⁴⁶ Ipse ut traheret amicum suum de pena,\
+46 Ipse ut traheret amicum suum de pena,\
 &emsp;Quam sustinebat in carcere Karoli,\
 &emsp;Se conduxit ad tremendum per omnem venam.
 
-⁴⁷ Più non dirò, e scuro so ch'io parlo;\
-&emsp;Ma poco tempo andrà, ch'e tuoi vicini (⁹)\
-&emsp;Faranno sì, che tu potrai chiosarlo (¹⁰).\
-&emsp;Quest'opera (¹¹) li tolse quei confini (¹²).
+47 Più non dirò, e scuro so ch'io parlo;\
+&emsp;Ma poco tempo andrà, ch'e tuoi vicini (9)\
+&emsp;Faranno sì, che tu potrai chiosarlo (10).\
+&emsp;Quest'opera (11) li tolse quei confini (12).
 
-⁴⁷ Plus non dicam, et obscure scio quod loquor;\
+47 Plus non dicam, et obscure scio quod loquor;\
 &emsp;Sed paucum tempus ibit, quod tui vicini\
 &emsp;Facient sic, quod tu poteris id glossare.\
 &emsp;Ista opera subtraxit sibi ista confinia.
 
-(¹) ut dicitur supra cap. 4º. — (²) concessa. — (³) remota. — (⁴) si depose. — (⁵) in quel luogo. — (⁶) chiamato Ginneta. — (⁷) che gl'havea poste di taglia dieci mila florini et in caso che non li pagasse in un mese, gli fosse taglata la testa. — (⁸) Vergognandosi accattar per lui. — (⁹) Fiorentini. — (¹⁰) cacciandoti di Firenze con gran vergogna. — (¹¹) humile. — (¹²) star fuor del Purgatorio.
+(1) ut dicitur supra cap. 4º. — (2) concessa. — (3) remota. — (4) si depose. — (5) in quel luogo. — (6) chiamato Ginneta. — (7) che gl'havea poste di taglia dieci mila florini et in caso che non li pagasse in un mese, gli fosse taglata la testa. — (8) Vergognandosi accattar per lui. — (9) Fiorentini. — (10) cacciandoti di Firenze con gran vergogna. — (11) humile. — (12) star fuor del Purgatorio.
 
 Quando vivebat magis gloriosus, dixit, libere in campo Senarum, omni verecundia deposita, se affixit, idest se firmavit in proposito suo: ipse ut traheret amicum de pena, quam sustinebat in carcere Karoli, [se] conduxit ad tremendum per omnem venam. Nam iste dominus Provintianus de Silvaniis habebat unum suum amicum civem Senensem, nomine Vigna, qui fuit captus cum Corradino, et erat in carceribus regis Karoli primi, qui debellavit Manfredum regem Siciliae et etiam Corradinum, quem decapitavit. Pro liberando suo amico, scilicet Vigna, iste dominus Provintianus solvit decem milia florenorum; et quia non habebat, posuit se in platea campi Senarum in uno thepeto, ad petendum elemosinam pro liberando suo amico, et sic in petendo elemosinam se humiliavit. Petere eleemosinam est quasi unum tremere et humiliare. Dicit Seneca, secundo De beneficiis:
 

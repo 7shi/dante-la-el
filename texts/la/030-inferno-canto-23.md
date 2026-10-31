@@ -8,23 +8,23 @@ In capitulo vicesimotertio, quod incipit: Taciti, soli, sine sotietate, auctor p
 
 # Capitulum Vicesimumtertium
 
-¹ Taciti, soli, e senza compagnia (¹),\
-&emsp;N'andavàn l'un dinanzi e l'altro dopo (²),\
+1 Taciti, soli, e senza compagnia (1),\
+&emsp;N'andavàn l'un dinanzi e l'altro dopo (2),\
 &emsp;Com'e Frati Minor vanno per via.
 
-¹ Taciti, soli, sine sotietate,\
+1 Taciti, soli, sine sotietate,\
 &emsp;Ibamus unus ante et alter post,\
 &emsp;Sicut Fratres Minores vadunt per vium.
 
-² Volto era in su la favola d'Esopo\
+2 Volto era in su la favola d'Esopo\
 &emsp;Lo mio pensier per la presente rissa,\
 &emsp;Dove parlò de la rana e del topo:
 
-² Voluta erat super fabulam Exopi\
+2 Voluta erat super fabulam Exopi\
 &emsp;Mea cogitatio propter presentem rixam,\
 &emsp;Ubi locutus est de rana et de mure:
 
-(¹) de le diece demonia. — (²) doppo.
+(1) de le diece demonia. — (2) doppo.
 
 Taciti, soli, sinza compagnia, sine sotietate: hoc est capitulum vicesimumtertium huius libri Inferni, in quo tractatur de ypocrisi, que est species fraudis mirabilis: quod dividitur in quatuor partes. In quarum prima auctor describit suum cogitatum super rixa duorum demonum supra tacta.
 
@@ -48,55 +48,55 @@ Hic nota, quod quidam poeta et philosophus de Asia, vocatus Exopus, fecit unum l
 
 <!-- p. 285 (0339) -->
 
-³ Che più non si pareggia mo et issa,\
+3 Che più non si pareggia mo et issa,\
 &emsp;Chè l'un coll'altro fa, se ben s'accoppia,\
 &emsp;Principio e fine co' la mente fissa.
 
-³ Quia plus non parificant se mo et issa,\
+3 Quia plus non parificant se mo et issa,\
 &emsp;Quorum unum cum alio facit, si bene copulatur\
 &emsp;Principium et finem cum mente fixa.
 
-⁴ E come l'un pensier da l'altro scoppia,\
+4 E come l'un pensier da l'altro scoppia,\
 &emsp;Così nacque di quello un altro poi,\
 &emsp;Che la prima paura mi fe' doppia.
 
-⁴ Et sicut una cogitatio ex altera pullulat,\
+4 Et sicut una cogitatio ex altera pullulat,\
 &emsp;Ita orta fuit ex illa una altera postea,\
 &emsp;Que primum timorem michi fecit duplum.
 
-⁵ Io già pensava: Se questi per noi\
+5 Io già pensava: Se questi per noi\
 &emsp;Sono scherniti, con danno e con beffa\
-&emsp;Sì facta, ch'assai credo che lor nòi (¹):
+&emsp;Sì facta, ch'assai credo che lor nòi (1):
 
-⁵ Ego cogitabam sic: Isti pro nobis\
+5 Ego cogitabam sic: Isti pro nobis\
 &emsp;Sunt delusi, cum dampno et verecundia,\
 &emsp;Et tali, quod ego credo quod eis displiceat:
 
-⁶ Se l'ira sopra 'l mal voler s'agueffa,\
+6 Se l'ira sopra 'l mal voler s'agueffa,\
 &emsp;E' ne verranno dietro più crudeli,\
 &emsp;Che cane a quella lievre che acceffa.
 
-⁶ Si ira super malo velle applicatur,\
+6 Si ira super malo velle applicatur,\
 &emsp;Ipsi venient super nos crudeliores,\
 &emsp;Quam canis versus illum leporem quem ipse acceffat.
 
-⁷ Già mi sentia tutti arricciar li peli\
+7 Già mi sentia tutti arricciar li peli\
 &emsp;Della paura, e stava indietro attento,\
-&emsp;Quando dissi: (²) Maestro, se non celi
+&emsp;Quando dissi: (2) Maestro, se non celi
 
-⁷ Iam michi sentiebam omnes erigi pilos\
+7 Iam michi sentiebam omnes erigi pilos\
 &emsp;Ex timore, et stabam retro intentus,\
 &emsp;Quando dixi: Magister, si non celas
 
-⁸ Te e me tostamente, io pavento\
+8 Te e me tostamente, io pavento\
 &emsp;Di Malebranche; noi gl'haviàn già dietro:\
 &emsp;Io gl'ymagino sì, che già gli sento.
 
-⁸ Te et me cito, ego habeo pavorem\
+8 Te et me cito, ego habeo pavorem\
 &emsp;De malis branchis; nos habemus iam eos retro:\
 &emsp;Ego ymaginor ita, quod iam illos sentio.
 
-(¹) rincresca. — (²) o.
+(1) rincresca. — (2) o.
 
 Ista pugna muris et rane fuit simillima rixe facte inter Alichinum et Calcabrinam, et tam in principio quam in fine conveniunt; ita quod Dantes, visa illa rixa duorum demonum, cogitabat de rixa rane et muris, descripta favolose per Exopum, que tantum in se conveniunt, sicut iste due dictiones, mo et issa.
 
@@ -108,55 +108,55 @@ Iam michi sentiebam omnes arricciare, idest erigi, pilos ex timore, et stabam re
 
 <!-- p. 286 (0340) -->
 
-⁹ Et ei: S'io fussi d'impiombato vetro,\
+9 Et ei: S'io fussi d'impiombato vetro,\
 &emsp;L'ymagine di fuor tua non trarrei\
 &emsp;Più tosto a me, che quella d'entro impetro.
 
-⁹ Et ille: Si esset de implumbato vitro\
+9 Et ille: Si esset de implumbato vitro\
 &emsp;Imago extra tua, non traherem\
 &emsp;Magis cito ad me, quam illam intra impetro.
 
-¹⁰ Pur mo veniano e tuoi pensier fra'miei\
+10 Pur mo veniano e tuoi pensier fra'miei\
 &emsp;Con simil acto e con simile faccia,\
 &emsp;Sì che d'intrambi un sol consiglo fei.
 
-¹⁰ Iam veniebant tue cogitationes intra meas\
+10 Iam veniebant tue cogitationes intra meas\
 &emsp;Cum simili actu et cum simili facie,\
 &emsp;Ita quod de ambobus nobis unum solum consilium feci.
 
-¹¹ Se gl'è che sì la dextra costa giaccia,\
+11 Se gl'è che sì la dextra costa giaccia,\
 &emsp;Che noi possiam nell'altra bolgia scendere,\
 &emsp;Noi fuggirem l'ymaginata caccia.
 
-¹¹ Si sic est quod sic dextra costa iaceat,\
+11 Si sic est quod sic dextra costa iaceat,\
 &emsp;Quod nos possimus in aliam bolgiam descendere,\
 &emsp;Nos fugiemus ymaginatam fugam.
 
-¹² Già non compiè di tal consiglo rendere\
+12 Già non compiè di tal consiglo rendere\
 &emsp;Ch'i' li vidi venir coll'hale tese,\
-&emsp;Non molto lungi(¹), per volerne prendere.
+&emsp;Non molto lungi(1), per volerne prendere.
 
-¹² Iam non complevit ille consilium reddere,\
+12 Iam non complevit ille consilium reddere,\
 &emsp;Quod ego vidi eos venire cum alis tensis,\
 &emsp;Non multum a longe, ut nos apprehenderent.
 
-¹³ Lo duca mio subito allor mi prese,\
+13 Lo duca mio subito allor mi prese,\
 &emsp;Come la madre ch'al romor è desta,\
 &emsp;Che vede presso a sè le fiamme accese,
 
-¹³ Dux meus cito me apprehendit,\
+13 Dux meus cito me apprehendit,\
 &emsp;Sicut mater que ad rumorem est excitata,\
 &emsp;Et videt prope se flammas accensas,
 
-¹⁴ Che prende 'l figlo e fugge senza resta,\
+14 Che prende 'l figlo e fugge senza resta,\
 &emsp;Havendo più di lui che di sè cura,\
 &emsp;Tanto che solo una camicia vesta:
 
-¹⁴ Que apprehendit filium et fugit et se non firmat,\
+14 Que apprehendit filium et fugit et se non firmat,\
 &emsp;Habendo magis de illo quam de se curam,\
 &emsp;In tantum quod solum unam camisiam vestiat:
 
-(¹) a noi.
+(1) a noi.
 
 pili eriguntur timenti et rigescunt, quia ymaginatio aliquando facit casum.
 
@@ -176,63 +176,63 @@ Iam sequitur remedium Virgilii, ubi dicitur: Dux meus cito me apprehendit, sicut
 
 <!-- p. 287 (0341) -->
 
-¹⁵ E giù del collo de la ripa dura\
+15 E giù del collo de la ripa dura\
 &emsp;Suppin si diede a la pendente roccia,\
 &emsp;Che l'un de' lati a l'altra bolgia tura.
 
-¹⁵ Et a colle ripe dure\
+15 Et a colle ripe dure\
 &emsp;Supinum se dedit ad pendentem rocciam,\
 &emsp;Que unum laterum alteri bolgie claudit.
 
-¹⁶ Non corse mai sì tosto acqua per doccia\
+16 Non corse mai sì tosto acqua per doccia\
 &emsp;A volger ruota di molin terragno,\
-&emsp;Quand'ella più verso le pale aproccia (¹),
+&emsp;Quand'ella più verso le pale aproccia (1),
 
-¹⁶ Non cucurrit unquam ita cito aqua per docciam\
+16 Non cucurrit unquam ita cito aqua per docciam\
 &emsp;Ad volvendum rotam molendini terrestris,\
 &emsp;Quando ipsa plus versus palatam appropinquat,
 
-¹⁷ Come 'l maestro mio per quel vivagno,\
+17 Come 'l maestro mio per quel vivagno,\
 &emsp;Portandosene me sopra 'l suo petto,\
 &emsp;Come suo figlo, e non come compagno.
 
-¹⁷ Sicut meus magister per illud vivagnum,\
+17 Sicut meus magister per illud vivagnum,\
 &emsp;Portando me secum supra suum pectus,\
 &emsp;Tamquam suum filium, non tamquam sotium.
 
-¹⁸ A piè (²) furo i piè suoi giunti al letto\
+18 A piè (2) furo i piè suoi giunti al letto\
 &emsp;Del fondo giù, ch'ei giunser in sul colle\
 &emsp;Sovr'esso noi: ma non gl'era sospetto;
 
-¹⁸ Vix pedes sui pervenerant ad lectum\
+18 Vix pedes sui pervenerant ad lectum\
 &emsp;Fundi inferioris, quod ipsi fuerunt supra collem\
 &emsp;Supra nos: sed ibi non erat suspicio;
 
-¹⁹ Chè l'alta Providentia che lor volle\
+19 Chè l'alta Providentia che lor volle\
 &emsp;Poner ministri della fossa quin[c]ta,\
 &emsp;Poter dipartirsi indi a tutti tolle.
 
-¹⁹ Quia alta Providentia que eos voluit\
+19 Quia alta Providentia que eos voluit\
 &emsp;Ponere ministros fosse quinte,\
 &emsp;Posse recedere inde omnibus subtrahit.
 
-²⁰ Laggiù trovammo una gente dipincta,\
-&emsp;Ch'andava (³) intorno assai con lenti passi\
+20 Laggiù trovammo una gente dipincta,\
+&emsp;Ch'andava (3) intorno assai con lenti passi\
 &emsp;Piangendo, e nel sembiante stanca e vincta.
 
-²⁰ Ibi inferius reperimus unam gentem depictam,\
+20 Ibi inferius reperimus unam gentem depictam,\
 &emsp;Que ibat circum satis cum lentis passibus\
 &emsp;Plangendo, et in apparentia fessam et victam.
 
-²¹ Elli havean cappe con cappucci bassi\
-&emsp;Dinanzi agl'ochi, facti ne la tagla (⁴)\
-&emsp;Che in Colonia (⁵) pe' monaci fassi (⁶):
+21 Elli havean cappe con cappucci bassi\
+&emsp;Dinanzi agl'ochi, facti ne la tagla (4)\
+&emsp;Che in Colonia (5) pe' monaci fassi (6):
 
-²¹ Ipsi habebant cappas cum caputiis demissis\
+21 Ipsi habebant cappas cum caputiis demissis\
 &emsp;Ante oculos, factas ad similitudinem illarum\
 &emsp;Que per monacos in Colonia fiunt:
 
-(¹) s'appressa. — (²) al. a pena. — (³) al. che giva. — (⁴) al. a quella tagla. — (⁵) città de Lamagna. — (⁶) dove portan gran cappucci.
+(1) s'appressa. — (2) al. a pena. — (3) al. che giva. — (4) al. a quella tagla. — (5) città de Lamagna. — (6) dove portan gran cappucci.
 
 solam interulam, sive camisiam, accipit filium, portans eum ut liberet. Que, mater scilicet, apprehendit filium, et fugit, habendo magis de illo quam de se curam, idest sollicitudinem, ut liberet filium suum ab igne, in tantum quod solum, vel solam, unam camisiam vestiat, subaudi se. Sic fecit Virgilius de Dante, et a colle ripe dure supinum se dedit, idest descendendo a summitate ad ymum, ad pendentem rocciam, idest rupem, que unum laterum, sive unum de lateribus, alteri bolgie claudit.
 
@@ -246,55 +246,55 @@ Ista est pena bene conveniens ypocritis. Sic isti ypocrite portant cappas et ves
 
 <!-- p. 288 (0342) -->
 
-²² Di fuor dorate son, sì che gl'abbagla;\
+22 Di fuor dorate son, sì che gl'abbagla;\
 &emsp;Ma dentro pionbo tutto, e grave tanto,\
-&emsp;Che Federigo (¹) le mectea (²) di pagla (³).
+&emsp;Che Federigo (1) le mectea (2) di pagla (3).
 
-²² Extra deaurate sunt, ita quod eos offuscat;\
+22 Extra deaurate sunt, ita quod eos offuscat;\
 &emsp;Sed intus omnes de plumbo, et graves tantum,\
 &emsp;Quod Fredericus eas mictebat de paleis.
 
-²³ O in etterno faticoso manto!\
-&emsp;Noi ci volgemmo ancor pur a man manca (⁴)\
+23 O in etterno faticoso manto!\
+&emsp;Noi ci volgemmo ancor pur a man manca (4)\
 &emsp;Con loro insieme, intenti al tristo pianto;
 
-²³ O in eternum faticose mante!\
+23 O in eternum faticose mante!\
 &emsp;Nos vertimus nos adhuc pur ad manum sinistram\
 &emsp;Cum eis simul, intenti ad tristem planctum;
 
-²⁴ Ma per lo peso quella gente stanca\
+24 Ma per lo peso quella gente stanca\
 &emsp;Venia sì pian, che noi eravan nuovi\
-&emsp;Di compagnia ad ogni muover d'anca (⁵).
+&emsp;Di compagnia ad ogni muover d'anca (5).
 
-²⁴ Sed propter pondus illa gens fessa\
+24 Sed propter pondus illa gens fessa\
 &emsp;Veniebat ita plane, quod nos eramus novi\
 &emsp;De sotietate ad omnem motum cruris.
 
-²⁵ Perch'io al duca mio: Fa'che tu trovi\
-&emsp;Alcun, che'l facto (⁶) e'l nome si cognosca,\
+25 Perch'io al duca mio: Fa'che tu trovi\
+&emsp;Alcun, che'l facto (6) e'l nome si cognosca,\
 &emsp;E gl'ochi tuoi andando intorno muovi.
 
-²⁵ Ex quo ego duci meo: Facias quod tu reperias\
+25 Ex quo ego duci meo: Facias quod tu reperias\
 &emsp;Aliquem, qui factum et nomen cognoscat,\
 &emsp;Et oculos sic eundo circum moveas.
 
-²⁶ Et un che 'ntese la parola tosca,\
+26 Et un che 'ntese la parola tosca,\
 &emsp;Dirieto a noi gridò: Tenete e piedi,\
 &emsp;Voi, che correte sì per l'aere fosca:
 
-²⁶ Et unus qui intellexit loquelam tuscam,\
+26 Et unus qui intellexit loquelam tuscam,\
 &emsp;Retro nos clamavit: Teneatis pedes,\
 &emsp;Vos, qui curritis sic per aierem obscurum:
 
-²⁷ Forse ch'havrai da me quel che tu chiedi.\
-&emsp;Onde'l duca si volse (⁷), e disse (⁸): Aspecta,\
-&emsp;E poi secondo 'l suo passo procedi (⁹).
+27 Forse ch'havrai da me quel che tu chiedi.\
+&emsp;Onde'l duca si volse (7), e disse (8): Aspecta,\
+&emsp;E poi secondo 'l suo passo procedi (9).
 
-²⁷ Forte quod habebis a me illud quod tu queris.\
+27 Forte quod habebis a me illud quod tu queris.\
 &emsp;Unde dux se volvit, et dixit: Expecta,\
 &emsp;Et postmodum secundum suum passum procedas.
 
-(¹) Imperator. — (²) a dannati. — (³) a rispetto di quelle. — (⁴) sinistra. — (⁵) di passo. — (⁶) l'opere sue. — (⁷) a me. — (⁸) a me. — (⁹) va.
+(1) Imperator. — (2) a dannati. — (3) a rispetto di quelle. — (4) sinistra. — (5) di passo. — (6) l'opere sue. — (7) a me. — (8) a me. — (9) va.
 
 Ista gens est picta et deaurata, quia solum in apparentia, et non existentia, stat vita ypocritarum. Et dicitur ypocrisis ab ypos, quod est super, et crisis, quod est aurum, quasi res super deaurata, quia ypocrite intus sunt mali, et exteri[us] apparent boni. Solum in superficie est eorum bonitas, et tamen gloria ypocrite est ad instar puncti. Vadunt semper lacrymantes, ut appareant devoti et lugere peccata hominum. Procurant habere faciem lividam, ut appareant abstinentes, ieiunantes et facientes penitentiam. Fingunt cilicium et circulos ferreos, ut appareant macerare corpus suum. Tenent caputia in oculis, ne oculi eorum videant vanitates. Vadunt plane, induti de plumbo, ut appareant graves.
 
@@ -310,39 +310,39 @@ Perchè io al duca mio. Ex quo ego duci meo: ista est tertia pars huius capituli
 
 <!-- p. 289 (0343) -->
 
-²⁸ Ristecti, et vidi due mostrar gran frecta,\
+28 Ristecti, et vidi due mostrar gran frecta,\
 &emsp;Nell'acto del lor viso, d'esser meco;\
 &emsp;Ma tardavali el carco e la via strecta.
 
-²⁸ Restiti, et vidi duos monstrare grandem festinantiam\
+28 Restiti, et vidi duos monstrare grandem festinantiam\
 &emsp;Animi, cum visu, esse mecum,\
 &emsp;Sed retardabat eos onus et via stricta.
 
-²⁹ Quando fur giuncti, assai coll'ochio bieco\
+29 Quando fur giuncti, assai coll'ochio bieco\
 &emsp;Mi rimiravan senza far parola:\
-&emsp;Poi si volseno a sè (¹), e dicean seco:
+&emsp;Poi si volseno a sè (1), e dicean seco:
 
-²⁹ Quando fuerunt ad me, satis cum oculo obliquo\
+29 Quando fuerunt ad me, satis cum oculo obliquo\
 &emsp;Me rexpexerunt sine aliquo verbo,\
 &emsp;Postea verterunt se ad invicem, et dicebant secum:
 
-³⁰ Questi (²) par vivo all'acto de la gola (³):\
+30 Questi (2) par vivo all'acto de la gola (3):\
 &emsp;E se son morti, per qual privilegio\
-&emsp;Vanno scoperti de la grave stola? (⁴)
+&emsp;Vanno scoperti de la grave stola? (4)
 
-³⁰ Iste apparet vivus ad actum gule:\
+30 Iste apparet vivus ad actum gule:\
 &emsp;Et si sunt mortui, ex quali privilegio\
 &emsp;Vadunt discooperti de gravi stola?
 
-³¹ Poi disse a me: O Tosco, ch'al collegio\
+31 Poi disse a me: O Tosco, ch'al collegio\
 &emsp;Dell'ypocriti tristi se' venuto,\
 &emsp;Dir chi tu se' non haver in dispregio.
 
-³¹ Postea dixerunt ad me: O Tusce, qui ad collegium\
+31 Postea dixerunt ad me: O Tusce, qui ad collegium\
 &emsp;Ypocritarum miserorum venisti,\
 &emsp;Dicas quis es tu, nec habeas nos in displicentiam.
 
-(¹) al. in sè. — (²) al. costui. — (³) per lo spirare. — (⁴) del piombo.
+(1) al. in sè. — (2) al. costui. — (3) per lo spirare. — (4) del piombo.
 
 qui volebant se occupare in servitio Dei et auxilio pupillorum et viduarum. Et aliqui eorum iverunt Romam ad papam Bonifacium, et petierunt ab ipso aliquem ordinem ad bene serviendum Deo. Qui bene perpendit, quod isti gaudebant otio: dedit eis, ut possent bene vivere in otio sancte contemplationis. Tunc papa concessit quod non ferrent arma, nec occuparentur in artibus nec in officiis, sed haberent curam de pupillis et viduis, et alios dedit articulos. Isti redierunt et edificaverunt monasteria, et maxime in Bononia: inter quos Fratres erant duo bononienses, quorum unus vocabatur Frater Cathellanus de Cathellanis, alter Frater Loderingus degli Andalò, et reputabantur inter alios excellentiores. Et quia isti gaudebant et habebant optimam [vitam], homines inceperunt hoc videre, et imposuerunt nomen eis iuxta vitam ipsorum, et vocaverunt eos Fratres Gaudentes; licet nomen quod habuerunt, scilicet ordinem eis a papa Bonifacio datum, esset quod dicebantur devoti et filii Virginis Marie. Isti duo Fratres fuerunt requisiti a Florentinis, quod deberent ire Florentiam ad morandum, ut sedarent partialitates magnas, que erant in Florentia. Tunc enim temporis, ex quo rex Manfredus, filius Frederici secundi, qui erat rex Sicilie, prope Beneventum fuit victus et interfectus a Karolo primo, omnes Gebellini de Ytalia male valuerunt et in Tuscia maxime. Guelfi, qui diu fuerant expulsi de Florentia, voluerunt redire, et, mediante dicto Karolo rege, erant multum potentes; et quia iste partes erat in Florentia, Florentini miserunt pro istis duobus Fratribus Gaudentibus, sive devotis Beate Marie Virginis, ut venirent Florentiam, et ibi morarentur ad sedandum partialitates pro bona pace populi et pro bono statu civitatis. Interdum isti venerunt Florentiam, steterunt ibi; Guelfi intraverunt Florentiam, et cum peximis provisionibus istorum Fratrum Gaudentium, scilicet Cathellani et Loderingi, Gebellini fuerunt expulsi de Florentia; et remanserunt multe domus vacue in Florentia, et etiam multe fuerunt destructe, et maxime in Gadingo (Gadingum est una contrata, ubi est ecclesia Sancti Petri in Schiragio, ubi erat domus illorum de Ubertis, qui erat caput partis gebelline): ita quod duo Fratres non fuerunt causa pacis populi Florentie, vel boni status, sed oppositum evenit. Nunc ad textum.
 
@@ -358,55 +358,55 @@ Postea dixerunt ad me: O Tusce, qui ad collegium ypocritarum miserorum venisti, 
 
 <!-- p. 290 (0344) -->
 
-³² Et io allor: Io fui nato e cresciuto\
-&emsp;Sopra 'l bel fiume d'Arno a la gran villa (¹),\
+32 Et io allor: Io fui nato e cresciuto\
+&emsp;Sopra 'l bel fiume d'Arno a la gran villa (1),\
 &emsp;E son col corpo ch'i' ho sempre havuto.
 
-³² Et ego ad eos: Ego fui natus ed adultus\
+32 Et ego ad eos: Ego fui natus ed adultus\
 &emsp;Supra pulchrum flumen Arni in grandi villa,\
 &emsp;Et sum cum corpore quod semper habui.
 
-³³ Ma voi chi sete, a cui tanto distilla,\
+33 Ma voi chi sete, a cui tanto distilla,\
 &emsp;Quant'io veggio, dolor su per le guance,\
 &emsp;E che pena è in voi che sì sfavilla?
 
-³³ Sed vos qui estis, quibus tantus distillat,\
+33 Sed vos qui estis, quibus tantus distillat,\
 &emsp;Quantum ego video, dolor infra per genas,\
 &emsp;Et que pena est in vobis que sic vos sfavillat?
 
-³⁴ E l'un (²) rispose: O me! le cappe rancie (³)\
-&emsp;Son di piombo (⁴) sì grosse, che li pesi\
-&emsp;Fan così cigolar le lor bilance (⁵).
+34 E l'un (2) rispose: O me! le cappe rancie (3)\
+&emsp;Son di piombo (4) sì grosse, che li pesi\
+&emsp;Fan così cigolar le lor bilance (5).
 
-³⁴ Et unus respondit ad me: Cappe rancie\
+34 Et unus respondit ad me: Cappe rancie\
 &emsp;Sunt de plumbo ita grosse, quod pondera\
 &emsp;Faciunt ita cicolare eorum bilantias.
 
-³⁵ Frati Gaudenti fummo, e Bolognesi (⁶),\
-&emsp;Io Catelano (⁷) e questi (⁸) Loderingo\
-&emsp;Nomati (⁹), e da tua terra (¹⁰) insieme presi,
+35 Frati Gaudenti fummo, e Bolognesi (6),\
+&emsp;Io Catelano (7) e questi (8) Loderingo\
+&emsp;Nomati (9), e da tua terra (10) insieme presi,
 
-³⁵ Fratres Gaudentes fuimus, et Bononienses,\
+35 Fratres Gaudentes fuimus, et Bononienses,\
 &emsp;Ego Cathellanus et ipse Loderingus\
 &emsp;Nominati, et ab una terra simul assumpti,
 
-³⁶ Come suol esser tolto un huom solingo (¹¹)\
-&emsp;Per conservar sua pace (¹²), e fummo tali,\
-&emsp;Ch'ancor si par dintorno dal Guardingo (¹³).
+36 Come suol esser tolto un huom solingo (11)\
+&emsp;Per conservar sua pace (12), e fummo tali,\
+&emsp;Ch'ancor si par dintorno dal Guardingo (13).
 
-³⁶ Sicut solet assumi unus homo solitarius\
+36 Sicut solet assumi unus homo solitarius\
 &emsp;Pro conservanda sua pace, et fuimus tales,\
 &emsp;Quod adhuc apparet circum Gardingum.
 
-³⁷ Io cominciai: O Frati, e vostri mali...\
-&emsp;Ma più non dissi (¹⁴): ch' (¹⁵) agl' ochi (¹⁶) m'occorse\
+37 Io cominciai: O Frati, e vostri mali...\
+&emsp;Ma più non dissi (14): ch' (15) agl' ochi (16) m'occorse\
 &emsp;Un, crocifixo in terra con tre pali.
 
-³⁷ Ego incepi: Fratres, vestra mala...\
+37 Ego incepi: Fratres, vestra mala...\
 &emsp;Sed plus non dixi: quia ante oculos michi occurrit\
 &emsp;Unus, crucifixus in terra cum tribus palis.
 
-(¹) città di Firenze. — (²) di loro. — (³) gialle d'oro di fori. — (⁴) dentro. — (⁵) noi che le portiamo. — (⁶) chiamati cavalieri della Vergine Maria. — (⁷) chiamato. — (⁸) altro. — (⁹) chiamati. — (¹⁰) Fiorenza. — (¹¹) solitario e di buona vita. — (¹²) di Firenze. — (¹³) contrada di Firenze. — (¹⁴) che le predecte parole. — (¹⁵) perchè. — (¹⁶) miei.
+(1) città di Firenze. — (2) di loro. — (3) gialle d'oro di fori. — (4) dentro. — (5) noi che le portiamo. — (6) chiamati cavalieri della Vergine Maria. — (7) chiamato. — (8) altro. — (9) chiamati. — (10) Fiorenza. — (11) solitario e di buona vita. — (12) di Firenze. — (13) contrada di Firenze. — (14) che le predecte parole. — (15) perchè. — (16) miei.
 
 Et ego ad eos: Ego sum natus et adultus super pulchrum flumen Arni, in grandi villa (hic loquitur auctor more Gallicorum, qui vocant civitates, villas): ego nunquam fui ypocrita, et sum cum corpore quod semper habui. Sed vos qui estis, quibus tantum distillat, quantum ego video, dolor infra per genas; et que pena est in vobis, que sic vos favillat, idest cruciat? Quia perpendebat auctor per actus exteriores, quod isti erant valde onerati, et ibant sicut unus sub nimio et inepto pondere totus tremens. Videntur disiungi. Et quis cogitaret quod isti, qui videntur sancti, sint adeo penati?
 
@@ -422,63 +422,63 @@ Nota quod tempore mortis Domini Nostri Iesu Christi, divisus erat summus pontifi
 
 <!-- p. 291 (0345) -->
 
-³⁸ Quando mi vide (¹), tutto si distorse,\
-&emsp;Soffiando ne la barba (²) con sospiri;\
-&emsp;E'l Frate (³) Catelan, ch'a ciò si accorse,
+38 Quando mi vide (1), tutto si distorse,\
+&emsp;Soffiando ne la barba (2) con sospiri;\
+&emsp;E'l Frate (3) Catelan, ch'a ciò si accorse,
 
-³⁸ Quando me vidit, totum se distorsit,\
+38 Quando me vidit, totum se distorsit,\
 &emsp;Sufflando in barbam suam cum suspiriis:\
 &emsp;Et Frater ille Cathellanus, qui de hoc perpendit,
 
-³⁹ Mi disse: Quel conficto (⁴), che tu miri,\
-&emsp;Consiglò e Farisei (⁵) che convenia\
-&emsp;Un huomo (⁶) por pel popolo a' martiri (⁷).
+39 Mi disse: Quel conficto (4), che tu miri,\
+&emsp;Consiglò e Farisei (5) che convenia\
+&emsp;Un huomo (6) por pel popolo a' martiri (7).
 
-³⁹ Michi dixit: Ille confictus, quem tu respicis,\
+39 Michi dixit: Ille confictus, quem tu respicis,\
 &emsp;Consuluit Phariseis, quomodo conveniebat\
 &emsp;Ponere unum hominem pro populo ad martyria.
 
-⁴⁰ Attraversato e nudo (⁸) è ne la via,\
+40 Attraversato e nudo (8) è ne la via,\
 &emsp;Come tu vedi, et è mestier che senta\
-&emsp;Qualunque (⁹) passa come pesa pria:
+&emsp;Qualunque (9) passa come pesa pria:
 
-⁴⁰ Transversus et nudus est in via,\
+40 Transversus et nudus est in via,\
 &emsp;Sicut tu vides, et est necesse quod sentiat\
 &emsp;Quemcumque transit sicut ponderat prius:
 
-⁴¹ Et a tal modo el socero suo (¹⁰) stenta\
-&emsp;In questa fossa (¹¹), e gl'altri del Concilio (¹²)\
-&emsp;Che fu per li Giudei mala sementa (¹³).
+41 Et a tal modo el socero suo (10) stenta\
+&emsp;In questa fossa (11), e gl'altri del Concilio (12)\
+&emsp;Che fu per li Giudei mala sementa (13).
 
-⁴¹ Et tali modo socer eius stentat\
+41 Et tali modo socer eius stentat\
 &emsp;In ista fovea, et alii de Consilio\
 &emsp;Qui fuerunt pro Iudeis malum semen.
 
-⁴² Allor vid'io maravigliar Virgilio (¹⁴)\
-&emsp;Sopra colui (¹⁵) ch'era steso (¹⁶) in croce\
-&emsp;Tanto vilmente nell'etterno exilio (¹⁷).
+42 Allor vid'io maravigliar Virgilio (14)\
+&emsp;Sopra colui (15) ch'era steso (16) in croce\
+&emsp;Tanto vilmente nell'etterno exilio (17).
 
-⁴² Tunc vidi ego admirari Virgilium\
+42 Tunc vidi ego admirari Virgilium\
 &emsp;Super illo qui erat extensus in cruce\
 &emsp;Tantum viliter in eterno exilio.
 
-⁴³ Poscia drizzò al Frate (¹⁸) cotal voce:\
-&emsp;Non vi dispiaccia, se vi lece (¹⁹), dirci\
+43 Poscia drizzò al Frate (18) cotal voce:\
+&emsp;Non vi dispiaccia, se vi lece (19), dirci\
 &emsp;S'alla man dextra giace alcuna foce,
 
-⁴³ Postea direxit ad Fratrem talem vocem:\
+43 Postea direxit ad Fratrem talem vocem:\
 &emsp;Non vobis displiceat, si vobis licet, dicere nobis,\
 &emsp;Si ad manum dexteram iacet aliqua faux,
 
-⁴⁴ Onde noi amendue possiamo uscirci\
-&emsp;Senza costrigner degl'angeli neri (²⁰),\
+44 Onde noi amendue possiamo uscirci\
+&emsp;Senza costrigner degl'angeli neri (20),\
 &emsp;Che vegnon d'esto fondo a dipartirci.
 
-⁴⁴ Unde nos ambo possimus hinc exire\
+44 Unde nos ambo possimus hinc exire\
 &emsp;Sine cogere de angelis nigris,\
 &emsp;Quod veniant ab isto fundo nos ad extrahendum.
 
-(¹) quel crocifixo. — (²) sua. — (³) al. e Frate. — (⁴) Cayphas. — (⁵) Iohannis XII cap. — (⁶) Chrysto Jesu. — (⁷) de la croce. — (⁸) al. e nud'è. — (⁹) di noi. — (¹⁰) Anna. — (¹¹) sexta. — (¹²) de' Giudei. — (¹³) per la loro destructione. — (¹⁴) la ragione. — (¹⁵) Cayphas. — (¹⁶) disteso. — (¹⁷) dell' inferno. — (¹⁸) Catelano. — (¹⁹) se v'è lecito. — (²⁰) de' diavoli.
+(1) quel crocifixo. — (2) sua. — (3) al. e Frate. — (4) Cayphas. — (5) Iohannis XII cap. — (6) Chrysto Jesu. — (7) de la croce. — (8) al. e nud'è. — (9) di noi. — (10) Anna. — (11) sexta. — (12) de' Giudei. — (13) per la loro destructione. — (14) la ragione. — (15) Cayphas. — (16) disteso. — (17) dell' inferno. — (18) Catelano. — (19) se v'è lecito. — (20) de' diavoli.
 
 verum, scilicet quod necesse erat, quod Christus moreretur pro salute humani generis, ne tota gens periret et iret ad Infernum. Sed non dixit Cayphas illa verba ad talem intentionem, sed ad ordinandum mortem Iesu Christi, et velut summus ypocrita talia dixit. Sub specie pietatis et sub pelle ovina, habebat rapacitatem lupinam; quia solum propter invidiam et avaritiam talia dixit, odiendo Christum. Modo iste Cayphas stat in terra, in cruce confixus, cum tribus palis, confodientibus ipsum in terra, sicut Christus fuit cruci affixus cum tribus clavis; et omnes hypocrite, euntes per talem viam, transibant super istum crucifixum. Et similiter suus socer stat tempore suo. Consilium quod dedit Cayphas, fuit malum semen pro Iudeis, quia propter scelus commissum in Christum civitas Hierusalem fuit destructa, et Iudei fuerunt, et adhuc sunt, per Dei gratiam, dispersi per mundum.
 
@@ -496,49 +496,49 @@ Nunc facit bonam fictionem auctor, loquens sicut quis solet loqui ad ypocritas: 
 
 <!-- p. 292 (0346) -->
 
-⁴⁵ Rispose adunque (¹): Più che tu non speri\
+45 Rispose adunque (1): Più che tu non speri\
 &emsp;S'appressa un saxo, che da la gran cerchia\
 &emsp;Si muove, e varca tucti e vallon fieri,
 
-⁴⁵ Respondit ergo: Plusquam credas\
+45 Respondit ergo: Plusquam credas\
 &emsp;Appropinquat unum saxum, quod a magno circulo\
 &emsp;Se movit, et transit omnes vallones feros,
 
-⁴⁶ Salvo che questo rocto, e nol coverchia:\
+46 Salvo che questo rocto, e nol coverchia:\
 &emsp;Montar potrete su per la ruina,\
 &emsp;Che giace in costa, e nel fondo soperchia.
 
-⁴⁶ Excepto quam istud ruptum, et non cooperit id:\
+46 Excepto quam istud ruptum, et non cooperit id:\
 &emsp;Ascendere poteritis sursum per istam ruinam,\
 &emsp;Que iacet in costa, et fundum superat.
 
-⁴⁷ Lo duca stette um poco a testa china,\
+47 Lo duca stette um poco a testa china,\
 &emsp;Poi disse: Mal cantava la bisogna\
 &emsp;Colui ch'e peccatori di qua uncina.
 
-⁴⁷ Dux stetit aliquantulum capite demisso,\
+47 Dux stetit aliquantulum capite demisso,\
 &emsp;Postea dixit: Male narrabat opportunitatem\
 &emsp;Ille qui peccatores ab illa parte aduncat.
 
-⁴⁸ E 'l Frate (²): Già dir udii a Bologna\
+48 E 'l Frate (2): Già dir udii a Bologna\
 &emsp;Del diavol vitii assai, tra quali udii\
 &emsp;Che gl'è bugiardo, e padre di menzogna.
 
-⁴⁸ Et Frater: Ego audivi iam dici Bononie\
+48 Et Frater: Ego audivi iam dici Bononie\
 &emsp;De dyabolo vitia multa, inter que audivi\
 &emsp;Quod ipse est mendax, et pater mendacii.
 
-⁴⁹ Appresso 'l duc' a gran passi sen gii\
+49 Appresso 'l duc' a gran passi sen gii\
 &emsp;Turbat'um poco d'ira nel sembiante:\
-&emsp;Ond'io dagl'incarcati (³) mi partii,\
-&emsp;Dietro a le poste (⁴) de le care piante (⁵).
+&emsp;Ond'io dagl'incarcati (3) mi partii,\
+&emsp;Dietro a le poste (4) de le care piante (5).
 
-⁴⁹ Post hoc dux magnis passibus [recessit],\
+49 Post hoc dux magnis passibus [recessit],\
 &emsp;Turbatus aliqualiter ex ira in aspectu:\
 &emsp;Unde ego ab honeratis me removi,\
 &emsp;Retro vestigia cararum plantarum.
 
-(¹) Frate Catelano. — (²) Catelano disse. — (³) ipocriti. — (⁴) pedate. — (⁵) di Virgilio.
+(1) Frate Catelano. — (2) Catelano disse. — (3) ipocriti. — (4) pedate. — (5) di Virgilio.
 
 Respondit, scilicet Frater Cathellanus, ergo: Plusquam credas, appropinquat unum saxum, quod a magno circulo se movet, et transit omnes vallones feros, idest feroces, excepto quam istud ruptum, et non cooperit eum. Ascendere poteritis sursum per istam ruinam, que iacet in costa, idest pendet, et fundum superat, idest supereminet.
 

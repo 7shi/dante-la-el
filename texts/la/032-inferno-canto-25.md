@@ -8,15 +8,15 @@ In capitulo vicesimoquinto, quod incipit: In fine, vel ad finem, verborum suorum
 
 # Capitulum Vicesimumquintum
 
-¹ Al fin delle parole sue el ladro (¹)\
+1 Al fin delle parole sue el ladro (1)\
 &emsp;Alzò le man con amendue le fiche,\
-&emsp;Dicendo: Tolle, (²) Dio, ch'a te le squadro.
+&emsp;Dicendo: Tolle, (2) Dio, ch'a te le squadro.
 
-¹ In fine omnium verborum suorum\
+1 In fine omnium verborum suorum\
 &emsp;Extulit manum ad celum cum ambabus ficubus,\
 &emsp;Clamando: Tolle, Deus, quia tibi illas squadro.
 
-(¹) Vanni predecto. — (²) o.
+(1) Vanni predecto. — (2) o.
 
 Al fine de [le] parole. In fine verborum: istud est vicesimumquintum capitulum huius Inferni, in quo auctor tractat [de] duabus aliis speciebus latrocinii, sive furti: quod quidem capitulum dividitur in quatuor partes. In quarum prima, in continuando dicta dicendis, prosequitur aliqualiter materiam pretactam de Vanne Fucci.
 
@@ -44,55 +44,55 @@ Demum notandum est, quod in hoc capitulo fit mentio de quinque malis furibus, si
 
 <!-- p. 309 (0363) -->
 
-² Da indi in qua mi fur le serpi amiche,\
+2 Da indi in qua mi fur le serpi amiche,\
 &emsp;Perch'una li s'avvolse allhor al collo,\
 &emsp;Quasi dicesse: Non vo'che più diche:
 
-² Ab eo tempore citra fuerunt michi serpentes amici,\
+2 Ab eo tempore citra fuerunt michi serpentes amici,\
 &emsp;Quia unus sibi se involvit ad collum,\
 &emsp;Ac si dicat: Nolo quod amplius dicas:
 
-³ Et un'altra a le braccia, e rilegollo\
+3 Et un'altra a le braccia, e rilegollo\
 &emsp;Ribiadendo sè stessa sì dinanzi,\
-&emsp;Che non potea con esse (¹) dar un crollo.
+&emsp;Che non potea con esse (1) dar un crollo.
 
-³ Et unus alter ad brachia, et eum religavit\
+3 Et unus alter ad brachia, et eum religavit\
 &emsp;Repercuciendo se ipsum ita ante,\
 &emsp;Quod non poterat dare cum ipsis unum crullum.
 
-⁴ Hay, Pistoia (²), Pistoia (³), che non estanzi(⁴)\
-&emsp;D'incenerarti (⁵), sì che più non duri,\
-&emsp;Poi che 'n mal far el seme tuo (⁶) avanzi?
+4 Hay, Pistoia (2), Pistoia (3), che non estanzi(4)\
+&emsp;D'incenerarti (5), sì che più non duri,\
+&emsp;Poi che 'n mal far el seme tuo (6) avanzi?
 
-⁴ Ay, Pistorium, Pistorium, quare non stantias\
+4 Ay, Pistorium, Pistorium, quare non stantias\
 &emsp;Incinerari, ita quod plus non dures,\
 &emsp;Postquam in male operando semen tuum superas?
 
-⁵ Per tutti e cerchi dell' Inferno scuri\
+5 Per tutti e cerchi dell' Inferno scuri\
 &emsp;Non vidi spirto in Dio tanto superbo,\
-&emsp;Non quel (⁷) che cadde a Thebe giù da'muri.
+&emsp;Non quel (7) che cadde a Thebe giù da'muri.
 
-⁵ Per cunctos circulos Inferni obscuri\
+5 Per cunctos circulos Inferni obscuri\
 &emsp;Spiritum non vidi in Deum tantum superbum,\
 &emsp;Non illum qui cecidit Thebis de muris.
 
-⁶ El (⁸) si partì, che non parlò più verbo:\
-&emsp;Et io vidi un Centauro (⁹) pien di rabbia\
-&emsp;Venir gridando: Ov'è, ov'è l'acerbo (¹⁰)?
+6 El (8) si partì, che non parlò più verbo:\
+&emsp;Et io vidi un Centauro (9) pien di rabbia\
+&emsp;Venir gridando: Ov'è, ov'è l'acerbo (10)?
 
-⁶ Ipse aufugit, quod non loquutus est amplius verbum:\
+6 Ipse aufugit, quod non loquutus est amplius verbum:\
 &emsp;Et ego vidi unum Centaurum plenum rabie\
 &emsp;Clamando: Ubi est, ubi est acerbus?
 
-⁷ Maremma non cred'io che tante n'abbia\
+7 Maremma non cred'io che tante n'abbia\
 &emsp;Bisce, quant'elli havea sopra la groppa,\
 &emsp;Infin dove comincia nostra labbia.
 
-⁷ Non credo quod Mariptima tot habeat,\
+7 Non credo quod Mariptima tot habeat,\
 &emsp;Quot biscias, idest viperas, ipse habebat supra dorso,\
 &emsp;Usque ad locum ubi incipit nostrum labium.
 
-(¹) o. — (²) mani. — (³) o. — (⁴) ordini. — (⁵) arderti. — (⁶) tuoi cittadini. — (⁷) Capaneo. — (⁸) Vanni predecto. — (⁹) Chacho. — (¹⁰) superbo Vanni.
+(1) o. — (2) mani. — (3) o. — (4) ordini. — (5) arderti. — (6) tuoi cittadini. — (7) Capaneo. — (8) Vanni predecto. — (9) Chacho. — (10) superbo Vanni.
 
 auctori, que supra scripta sunt, ipse fecit ficas cum ambabus manibus. In fine suorum verborum manus extulit, idest levavit, ad celum, cum ambabus ficis, dicendo: Tolle, idest accipe, Deus, quia tibi illas squadro, idest porrigo. Hoc fingit auctor ad denotandum, quod iste Vannes Fucci, nedum fuit latro et violentus, sed etiam magnus blasphemator Dei et Sanctorum. Fuit irosus, iratus, et habebat de more, quando erat iratus, de more suo peximo antiquato volvebat se ad blasphemandum Deum, faciendo sibi ficas, quasi diceret: O Deus, in tuo despectu feci et faciam hoc.
 
@@ -112,47 +112,47 @@ Mariptima non credo ego quod tot habeat, quot bestias, idest viperas, sive serpe
 
 <!-- p. 310 (0364) -->
 
-⁸ Sopra le spalle, dietro da la poppa (¹),\
+8 Sopra le spalle, dietro da la poppa (1),\
 &emsp;Coll'hali aperte li giaceva un draco,\
-&emsp;E quello (²) [affoca] qualunque s'intoppa.
+&emsp;E quello (2) [affoca] qualunque s'intoppa.
 
-⁸ Super spatulas, retro a tergo,\
+8 Super spatulas, retro a tergo,\
 &emsp;Cum alis apertis ibi iacebat unus draco,\
 &emsp;Et ille suffocat quemcumque cui obviat.
 
-⁹ Lo mio Maestro disse: Quelli è Chaco,\
-&emsp;Che sotto 'l saxo di monte Adventino(³)\
+9 Lo mio Maestro disse: Quelli è Chaco,\
+&emsp;Che sotto 'l saxo di monte Adventino(3)\
 &emsp;Di sangue fece spesse volte laco.
 
-⁹ Meus magister dixit: Ille est Caccus,\
+9 Meus magister dixit: Ille est Caccus,\
 &emsp;Qui sub saxo montis Aventini\
 &emsp;Sanguinis fecit sepe lacum.
 
-¹⁰ Non va (⁴) cho'suoi fratei (⁵) per un cammino,\
+10 Non va (4) cho'suoi fratei (5) per un cammino,\
 &emsp;Perchè lo furto fraudolento fece\
-&emsp;Del grande armento (⁶) che gl'era vicino:
+&emsp;Del grande armento (6) che gl'era vicino:
 
-¹⁰ Non vadit cum suis fratribus per unum iter,\
+10 Non vadit cum suis fratribus per unum iter,\
 &emsp;Propter furtum, quod fraudulenter fecit,\
 &emsp;Grandis armenti quod habuit vicinum:
 
-¹¹ Onde cessàr le sue opere (⁷) biece (⁸)\
+11 Onde cessàr le sue opere (7) biece (8)\
 &emsp;Socto la mazza d'Hercole, che forse\
-&emsp;Ne li diè cento(⁹), e non ne sentì diece(¹⁰).
+&emsp;Ne li diè cento(9), e non ne sentì diece(10).
 
-¹¹ Unde cessaverunt sua opera fallatia\
+11 Unde cessaverunt sua opera fallatia\
 &emsp;Sub clava Herculis, qui forsan\
 &emsp;Dedit sibi centum, et non sensit decem:
 
-¹² Mentre che sì parlava, et oltra scorse,\
+12 Mentre che sì parlava, et oltra scorse,\
 &emsp;Tre spiriti ne venner sotto noi,\
 &emsp;De'quai nè io nè 'l duca mio s'accorse,
 
-¹² Interim quod ipse loquebatur, et ipse transcurrit,\
+12 Interim quod ipse loquebatur, et ipse transcurrit,\
 &emsp;Et tres spiritus venerunt sub nobis,\
 &emsp;De quibus nec ego nec dux meus perpendit,
 
-(¹) cioè l'ultima parte. — (²) drago. — (³) di Roma. — (⁴) Chacho. — (⁵) Centauri. — (⁶) del re Evandro. — (⁷) furti. — (⁸) tortuose. — (⁹) mazzate. — (¹⁰) preoccupato de la morte.
+(1) cioè l'ultima parte. — (2) drago. — (3) di Roma. — (4) Chacho. — (5) Centauri. — (6) del re Evandro. — (7) furti. — (8) tortuose. — (9) mazzate. — (10) preoccupato de la morte.
 
 usque ad locum ubi incipit nostrum labium, idest usque ad os. Tota groppa erat plena serpentibus; ad denotandum tot malicias et varias huius.
 
@@ -172,71 +172,71 @@ Mentre che io. Interim quod ego: ista est secunda pars huius capituli, in qua tr
 
 <!-- p. 311 (0365) -->
 
-¹³ Se non quand'ei gridàr: Chi sete voi?\
+13 Se non quand'ei gridàr: Chi sete voi?\
 &emsp;Perchè nostra novella si ristecte,\
 &emsp;Et attendemmo pur ad essi poi.
 
-¹³ Nisi quando ipsi clamaverunt: Qui estis vos?\
+13 Nisi quando ipsi clamaverunt: Qui estis vos?\
 &emsp;Ex quo nostrum novum restitit,\
 &emsp;Et intendimus solum ad ipsos postmodum.
 
-¹⁴ Io non li conoscea; ma ei seguecte,\
+14 Io non li conoscea; ma ei seguecte,\
 &emsp;Come suol seguitar per alcun caso,\
 &emsp;Sì che nomar l'un l'altro convenecte,
 
-¹⁴ Ego ipsos non cognoscebam; sed sequutum est,\
+14 Ego ipsos non cognoscebam; sed sequutum est,\
 &emsp;Sicut sequi solet per aliquem casum,\
 &emsp;Quod unum nominare alium convenit,
 
-¹⁵ Dicendo: Cianfa dove sia rimaso?\
+15 Dicendo: Cianfa dove sia rimaso?\
 &emsp;Perch'io, acciò che 'l duca stesse attento,\
-&emsp;Mi posi 'l dito su dal mento al naso (¹).
+&emsp;Mi posi 'l dito su dal mento al naso (1).
 
-¹⁵ Dicendo: Ciamphe ubi remansit?\
+15 Dicendo: Ciamphe ubi remansit?\
 &emsp;Quare ego, ut dux staret attentus,\
 &emsp;Michi posui digitum a mento usque ad nasum.
 
-¹⁶ Se tu se'hor (²), lector, a creder lento\
+16 Se tu se'hor (2), lector, a creder lento\
 &emsp;Ciò ch'io dirò, non sarà maravigla,\
 &emsp;Che io, che 'l vidi, a pena el mi consento.
 
-¹⁶ Si tu es nunc, lector, ad credendum lentus\
+16 Si tu es nunc, lector, ad credendum lentus\
 &emsp;Id quod ego dicam, non erit mirum,\
 &emsp;Quia ego, qui illud vidi, vix michi illud consentio.
 
-¹⁷ Mentr'io tenea levate in lor le cigla,\
+17 Mentr'io tenea levate in lor le cigla,\
 &emsp;Et un serpente con sei piè si lancia\
 &emsp;Dinanzi all'uno, e tutto a lui s'appigla.
 
-¹⁷ Dum ego tenebam elevata in eos supercilia,\
+17 Dum ego tenebam elevata in eos supercilia,\
 &emsp;Ecce unus serpens cum sex pedibus saltat\
 &emsp;Ante unum, et totum se illi applicat
 
-¹⁸ Co'piè di mezzo gl'avvinse la pancia,\
-&emsp;E cogl'anterior (³) le braccia prese;\
+18 Co'piè di mezzo gl'avvinse la pancia,\
+&emsp;E cogl'anterior (3) le braccia prese;\
 &emsp;Poi gl'addentò e l'una e l'altra guancia:
 
-¹⁸ Cum pedibus de medio et avinxit panciam,\
+18 Cum pedibus de medio et avinxit panciam,\
 &emsp;Et cum anterioribus brachia apprehendit;\
 &emsp;Postea adentavit sibi utramque genam:
 
-¹⁹ Li deretani (⁴) a le cosce distese,\
-&emsp;E miseli la coda tr'amendue (⁵),\
-&emsp;E dietro per le ren (⁶) su la ritese.
+19 Li deretani (4) a le cosce distese,\
+&emsp;E miseli la coda tr'amendue (5),\
+&emsp;E dietro per le ren (6) su la ritese.
 
-¹⁹ Deretanos ad tybia extendit,\
+19 Deretanos ad tybia extendit,\
 &emsp;Et misit ei caudam inter ambo,\
 &emsp;Et retro per renes sursum illam retraxit.
 
-²⁰ Hellera abbarbicata mai non fue\
+20 Hellera abbarbicata mai non fue\
 &emsp;Ad arbor sì, come l'horribil fiera\
-&emsp;Per le sue membra (⁷) avviticchiò le sue:
+&emsp;Per le sue membra (7) avviticchiò le sue:
 
-²⁰ Edera abrachicata nunquam fuit\
+20 Edera abrachicata nunquam fuit\
 &emsp;Ad arborem sic, sicut horribilis fera\
 &emsp;Per alterius membra applicavit sua:
 
-(¹) cioè a la bocha. — (²) o. — (³) piedi. — (⁴) piedi. — (⁵) coscie. — (⁶) reni. — (⁷) al. per l'altrui.
+(1) cioè a la bocha. — (2) o. — (3) piedi. — (4) piedi. — (5) coscie. — (6) reni. — (7) al. per l'altrui.
 
 Interim, quod ipse, scilicet magister, loquebatur, et ipse, scilicet Centaurus, transcurrit, transfugit, tres spiritus venerunt sub nos, de quibus nec ego, nec dux meus, s'accorsit, idest perpendit (isti tres erant Angelus de Brunelischis, Bosius de Donatis, et Puccius Scianchatus), nisi quando ipsi clamaverunt: Qui estis vos? Ex quo nostrum novum restitit, idest quievit, et intendimus solum ad ipsos postmodum; idest non fuimus plus loquuti de Cacco.
 
@@ -254,71 +254,71 @@ Edera abbracciata, idest amplexata, nunquam fuit ad arborem sic, sicut horribili
 
 <!-- p. 312 (0366) -->
 
-²¹ Poi s'appicar, come di calda cera\
+21 Poi s'appicar, come di calda cera\
 &emsp;Fossero state, e meschiar lor colore;\
 &emsp;Nè l'un, nè l'altro già parea quel ch'era:
 
-²¹ Postmodum coniunxerunt se, sicut de cera calida\
+21 Postmodum coniunxerunt se, sicut de cera calida\
 &emsp;Fuissent, et miscuerunt eorum colorem;\
 &emsp;Nec unus nec alter apparebat illud quod erat:
 
-²² Come procede innanzi dall'ardore\
+22 Come procede innanzi dall'ardore\
 &emsp;Per lo papiro suso un color bruno,\
 &emsp;Che non è nero, et anco el bianco more.
 
-²² Sicut procedit ante ardorem\
+22 Sicut procedit ante ardorem\
 &emsp;Per papirum sursum unus color brunus,\
 &emsp;Qui non est niger, et albus moritur.
 
-²³ Gl'altri due e'riguardavano, e ciascuno\
+23 Gl'altri due e'riguardavano, e ciascuno\
 &emsp;Diceva: O me, Agnel, come ti muti!\
 &emsp;Vedi che già non se'nè due nè uno.
 
-²³ Alii duo respiciebant, et quilibet:\
+23 Alii duo respiciebant, et quilibet:\
 &emsp;Heu, Angele, quomodo tu mutaris!\
 &emsp;Videas quod iam non es nec duo nec unus.
 
-²⁴ Già eran li due capi un divenuti,\
+24 Già eran li due capi un divenuti,\
 &emsp;Quando n'apparve due figure miste\
 &emsp;In una faccia, ov'eran due perduti.
 
-²⁴ Iam duo capita unum devenerant,\
+24 Iam duo capita unum devenerant,\
 &emsp;Quando nobis apparuerunt due figure mixte\
 &emsp;In una fatie, ubi duo perditi.
 
-²⁵ Férsi le braccia due di quattro liste;\
+25 Férsi le braccia due di quattro liste;\
 &emsp;Le cosce co'le gambe, e 'l ventre e'l casso,\
 &emsp;Divenner membra che non fur mai viste.
 
-²⁵ Facta sunt brachia duo quatuor liste;\
+25 Facta sunt brachia duo quatuor liste;\
 &emsp;Coste cum cruribus, et venter et cassus,\
 &emsp;Devenerunt membra que nunquam fuerunt visa.
 
-²⁶ Ogni primaio aspecto quiv'era casso:\
+26 Ogni primaio aspecto quiv'era casso:\
 &emsp;Dov'in nessun l'ymagine perversa\
 &emsp;Pareva, e tal sen gi' con lenti passi.
 
-²⁶ Omnis primus aspectus ibi erat cassus:\
+26 Omnis primus aspectus ibi erat cassus:\
 &emsp;Duo et nullus ymago perversa\
 &emsp;Apparebat, et talis ivit cum lento passu.
 
-²⁷ Com'el ramarro, sotto la gran ferza\
-&emsp;De'dì canicolar, cangiando sepe (¹),\
+27 Com'el ramarro, sotto la gran ferza\
+&emsp;De'dì canicolar, cangiando sepe (1),\
 &emsp;Folgore par, se la via attraversa;
 
-²⁷ Sicut stellio, sub grandi ferza\
+27 Sicut stellio, sub grandi ferza\
 &emsp;Dierum canicularium, mutando sepes,\
 &emsp;Fulgur apparet, si viam transversat;
 
-²⁸ Così parea, venendo verso l'epe\
+28 Così parea, venendo verso l'epe\
 &emsp;Degl'altri due, un serpentello acceso,\
 &emsp;Livido e nero come gran di pepe.
 
-²⁸ Sic apparebat, veniendo versus epam\
+28 Sic apparebat, veniendo versus epam\
 &emsp;Aliorum duorum, unus serpentellus accensus,\
 &emsp;Lividus et niger sicut granum piperis.
 
-(¹) siepe.
+(1) siepe.
 
 Sicut, ergo, edera se involvit super arbores et coniungit, sic iste serpens sexquipes se involvit cum isto Angelo. Postmodum s'appicarunt, idest coniunxerunt se, sicut de cera calida fuissent, et miscuerunt eorum colorem: nec unus, nec alter, apparebat illud quod erat; quia homo non apparebat homo, nec serpens apparebat serpens. Homo erat albus, et serpens niger.
 
@@ -332,55 +332,55 @@ Idest, volens auctor procedere de tertia specie furti, ponit unam comparacionem.
 
 <!-- p. 313 (0367) -->
 
-²⁹ E quella parte (¹), ond'è prima preso\
+29 E quella parte (1), ond'è prima preso\
 &emsp;Nostro alimento, a l'un di lor trafisse;\
 &emsp;Onde quel cadde innanzi lui disteso.
 
-²⁹ Et in illa parte, unde prius sumitur\
+29 Et in illa parte, unde prius sumitur\
 &emsp;Nostrum alimentum, unum illorum transfixit;\
 &emsp;Postea cecidit infra ante eum extensus.
 
-³⁰ El traficto 'l mirò, ma nulla disse:\
+30 El traficto 'l mirò, ma nulla disse:\
 &emsp;Anzi co'piè fermati sbadiglava,\
 &emsp;Pur come sonno o febbre l'assalisse.
 
-³⁰ Ille transfixus illum respexit, sed nihil dixit:\
+30 Ille transfixus illum respexit, sed nihil dixit:\
 &emsp;Ymo cum pedibus firmis hiabat,\
 &emsp;Ita ut febris vel sompnus eum aggrederetur.
 
-³¹ Elli 'l serpente, e quei lui, riguardava:\
+31 Elli 'l serpente, e quei lui, riguardava:\
 &emsp;L'un per la piaga, e l'altro per la bocca,\
 &emsp;Fumava forte, e 'l fumo si scontrava.
 
-³¹ Ille serpentem, et serpens illum, respiciebat:\
+31 Ille serpentem, et serpens illum, respiciebat:\
 &emsp;Unus per plagam, et alter per os,\
 &emsp;Fumabant fortiter, et fumi sibi invicem obviabant.
 
-³² Taccia Lucano omai, là dove toccha\
+32 Taccia Lucano omai, là dove toccha\
 &emsp;Del misero Sabellio e di Massidio,\
 &emsp;Et attend' a udir quel ch'or si toccha.
 
-³² Taceat Lucanus ammodo, ibi ubi tangit\
+32 Taceat Lucanus ammodo, ibi ubi tangit\
 &emsp;De misero Sabell[i]o et de Nassidio,\
 &emsp;Et attendat illud quod nunc scoccatur.
 
-³³ Taccia di Cadmo e d'Arethusa Ovidio:\
-&emsp;Che se quello (²) in serpente, e quella (³) in fonte,\
-&emsp;Converta (⁴) poetando, io non l'invidio:
+33 Taccia di Cadmo e d'Arethusa Ovidio:\
+&emsp;Che se quello (2) in serpente, e quella (3) in fonte,\
+&emsp;Converta (4) poetando, io non l'invidio:
 
-³³ Taceat de Cadmo et de Arethusa Ovidius:\
+33 Taceat de Cadmo et de Arethusa Ovidius:\
 &emsp;Quia si illum in serpentem, et illum in fontem\
 &emsp;Convertit, poetando, ego ei non invideo:
 
-³⁴ Chè due nature mai a fronte a fronte\
+34 Chè due nature mai a fronte a fronte\
 &emsp;Non transmutò, sì ch'amendue le forme\
 &emsp;A cambiar lor matera fusser pronte.
 
-³⁴ Quoniam duas naturas unquam de fronte ad frontem,\
+34 Quoniam duas naturas unquam de fronte ad frontem,\
 &emsp;Non transmutavit, ita quod ambe forme\
 &emsp;Ad mutandum earum materiam essent ita prompte.
 
-(¹) la bocha. — (²) Cadmo. — (³) Arethusa. — (⁴) al. converti.
+(1) la bocha. — (2) Cadmo. — (3) Arethusa. — (4) al. converti.
 
 idest quando, viam attraversat, scilicet pertranseundo; sic apparebat, veniendo versus epam, idest panciam, scilicet Bosii de Donatis (lepam, vocabulum florentinum est, idest corpus circa umbilicum), aliorum duorum, Bosii et Puccii, unus serpentellus accensus, lividus, et niger sicut granum piperis. Et illa parte, scilicet in umbilico, unde prius sumitur nostrum alimentum, unum illorum, scilicet Bosium de Donatis, transfixit, idest momordit. Postea cecidit infra, ante eum extensus. Ille transfixus, idest vulneratus, illum, scilicet serpentem, respexit; sed nihil dixit. Hoc significat, quod latro, furando, bene videt quod vadit ad furcas, et nihil dicit, idest non se corrigit: tanta est affectio, quam habet ad habendum illa que furatur. Ymo cum pedibus firmis, idest pedibus firmatis, hiabat, sbadigliabat, idest hiabat, ita quod febris, vel sompnus, eum aggrederetur. Ille serpentem, et serpens illum, respiciebat: unus per plagam, et alios per os, fumabant fortiter, et fumus sibi invicem obviabant. Fumus, idest obscuritas, in qua latrones furantur. Umbilicus est unde primitus nostrum alimentum sumitur. Opinio physicorum et medicorum est, quod dum fetus est in ventre matris, non sumit alimentum per os, sed per umbilicum, mediante una vena, qua coniungitur matri; que vena inciditur quando fetus nascitur. Et bene fingit auctor, quod ibi incepit destructio istius, scilicet in umbilico, ubi primo sumpsit alimentum in ventre materno. Sompnus et febris est appetitus inordinatus habendi res alienas ex latrocinio. Talis appetitus dementat hominem, et aufert ab ipso rectitudinem rationis in tantum, quod ratio in tali homine pervertitur.
 
@@ -392,79 +392,79 @@ Taceat de Cadmo et de Arethusa Ovidius, quia, si illum in serpentem et illam in 
 
 <!-- p. 314 (0368) -->
 
-³⁵ Insieme si risposer a tai norme,\
+35 Insieme si risposer a tai norme,\
 &emsp;Che 'l serpente la coda in forca fesse,\
 &emsp;E 'l ferito ristrinse insieme l'orme.
 
-³⁵ Insìmul sic sibi responderunt in tali norma,\
+35 Insìmul sic sibi responderunt in tali norma,\
 &emsp;Quod serpens caudam in furcam fixit,\
 &emsp;Et vulneratus restrinxit simul vestigia.
 
-³⁶ Le gambe co'le cosce seco stesse\
+36 Le gambe co'le cosce seco stesse\
 &emsp;S'appiccàr sì, che 'n poco la giuntura\
 &emsp;Non facea segno alcun che si paresse.
 
-³⁶ Crura cum tybiis secummet\
+36 Crura cum tybiis secummet\
 &emsp;Se coniunxerunt sic, quod in brevi spatio iunctura\
 &emsp;Non faciebat signum aliquod quod appareret.
 
-³⁷ Toglea la coda fessa la figura\
+37 Toglea la coda fessa la figura\
 &emsp;Che si perdea ella, e la sua pelle\
 &emsp;Si facea molle, e quella dell'huom dura.
 
-³⁷ Tollebat cauda fixa figuram\
+37 Tollebat cauda fixa figuram\
 &emsp;Que perdebatur ibi, et sua pellis\
 &emsp;Efficiebatur mollis, et illa altera dura.
 
-³⁸ Le braccia ritraheva per l'ascelle,\
+38 Le braccia ritraheva per l'ascelle,\
 &emsp;E' duo piè de la fiera, ch'eran corti,\
 &emsp;Tant'allunghàr quant'accorciaro quelle.
 
-³⁸ Ego vidi intrare brachia per ascellas,\
+38 Ego vidi intrare brachia per ascellas,\
 &emsp;Et duos pedes fere, qui erant curti,\
 &emsp;Tantum elongari quantum breviabantur illa.
 
-³⁹ Poscia li piè dirieto, insieme attorti,\
+39 Poscia li piè dirieto, insieme attorti,\
 &emsp;Diventaron el membro che l'huom cela,\
 &emsp;E'l misero de'suoi n'havea due porti.
 
-³⁹ Demum pedes posteriores, insimul contorti,\
+39 Demum pedes posteriores, insimul contorti,\
 &emsp;Effecti sunt membrum quod homo celat,\
 &emsp;Et miser de suo duos porrexit.
 
-⁴⁰ Mentre che 'l fumo l'uno e l'altro vela\
+40 Mentre che 'l fumo l'uno e l'altro vela\
 &emsp;Di color nuovo, e genera 'l pel suso\
 &emsp;Dall'una parte, e dall'altra el dipela,
 
-⁴⁰ Dum fumus unum et reliquum celat\
+40 Dum fumus unum et reliquum celat\
 &emsp;Colore novo, generat pilum superius\
 &emsp;Per unam partem, et ab alia depilat,
 
-⁴¹ L'un si levò, e l'altro cadde giuso,\
-&emsp;Non torcendo però le lucerne (¹) empie,\
-&emsp;Sotto le qual (²) ciascun cambiava muso (³).
+41 L'un si levò, e l'altro cadde giuso,\
+&emsp;Non torcendo però le lucerne (1) empie,\
+&emsp;Sotto le qual (2) ciascun cambiava muso (3).
 
-⁴¹ Unus surrexit, et alter cecidit infra,\
+41 Unus surrexit, et alter cecidit infra,\
 &emsp;Non torquendo ideo lucernas impias,\
 &emsp;Sub quibus quilibet mutabat musum.
 
-⁴² Quel ch'era dietro, el trasse ver le tempie;\
+42 Quel ch'era dietro, el trasse ver le tempie;\
 &emsp;E di troppa materia che gl'advenne,\
 &emsp;Uscir gl'orechi de le gote scempie:
 
-⁴² Ille qui erat rectus, transit versus tympora;\
+42 Ille qui erat rectus, transit versus tympora;\
 &emsp;De nimia materia que ibi supervenit,\
 &emsp;Exierunt aures de genis simplicibus:
 
-⁴³ Ciò che non corse innanzi, si ritenne,\
+43 Ciò che non corse innanzi, si ritenne,\
 &emsp;Di quel soverchio fe' naso la faccia,\
 &emsp;E le labbra ingrossò quanto convenne.
 
-⁴³ Id quod non cucurrit, id retinuit,\
+43 Id quod non cucurrit, id retinuit,\
 &emsp;De illo superfluo fecit nasum faciei,\
 &emsp;Et labia ingrossavit quantum conveniens fuit.
 
-(¹) gli ochi. — (²) le quali. — (³) bocha.
+(1) gli ochi. — (2) le quali. — (3) bocha.
 
 Insimul, sic ibi: hec est quarta pars huius capituli.
 
@@ -474,65 +474,65 @@ Ille, qui erat rectus, id, idest musum, traxit versus tympora, idest fuit serpen
 
 <!-- p. 315 (0369) -->
 
-⁴⁴ Quel che giacea, innanzi el muso caccia,\
+44 Quel che giacea, innanzi el muso caccia,\
 &emsp;E gl'orecchi ritira per la testa,\
-&emsp;Come le corna face la lumaccia (¹):
+&emsp;Come le corna face la lumaccia (1):
 
-⁴⁴ Ille qui iacebat, os ante mictit,\
+44 Ille qui iacebat, os ante mictit,\
 &emsp;Et aures retraxit per caput,\
 &emsp;Sicut facit cornua limax:
 
-⁴⁵ E la lingua, ch'havea unita e presta\
+45 E la lingua, ch'havea unita e presta\
 &emsp;Prima a parlar, si fende, e la forchuta\
 &emsp;Indietro si richiude, e 'l fumo resta.
 
-⁴⁵ Et lingua, quam habebat prius unitam et promptam\
+45 Et lingua, quam habebat prius unitam et promptam\
 &emsp;Ad loquendum, dividitur, et forcuta\
 &emsp;In alio recluditur, et fumus restat.
 
-⁴⁶ L'anima, ch'era fiera divenuta,\
+46 L'anima, ch'era fiera divenuta,\
 &emsp;Suffolando fuggissi per la valle,\
 &emsp;E l'altro dietr'allui parlando sputa.
 
-⁴⁶ Anima, que fera devenerat,\
+46 Anima, que fera devenerat,\
 &emsp;Sufflando aufugit per vallem,\
 &emsp;Et alter retro eum spuit loquendo.
 
-⁴⁷ Poscia li volse le novelle spalle,\
+47 Poscia li volse le novelle spalle,\
 &emsp;E disse all'altro: Via, che Buoso corra,\
 &emsp;Com'ò fact'io, carpon, per questo calle.
 
-⁴⁷ Postea ad eum volvit novellas spatulas,\
+47 Postea ad eum volvit novellas spatulas,\
 &emsp;Et dixit ad alium: Ego volo quod Bosius currat,\
 &emsp;Sicut ego feci, carpando, per istum callem.
 
-⁴⁸ Così vid'io la septima zavorra\
+48 Così vid'io la septima zavorra\
 &emsp;Mutare e trasmutare; e qui mi scusi\
 &emsp;La novità, se fior la penna abhorra.
 
-⁴⁸ Sic vidi ego septimam zavorram\
+48 Sic vidi ego septimam zavorram\
 &emsp;Mutari et transmutari; et hic me excuset\
 &emsp;Novitas, si in aliqua re lingua aborrat.
 
-⁴⁹ Et avegna che gl'ochi miei confusi\
+49 Et avegna che gl'ochi miei confusi\
 &emsp;Fusser alquanto, e l'animo smagato,\
 &emsp;Non poter quei fuggirsi tanto chiusi,
 
-⁴⁹ Et quamquam oculi mei confusi\
+49 Et quamquam oculi mei confusi\
 &emsp;Essent aliquantulum, et animus smagatus,\
 &emsp;Non potuerunt tamen illi fugere tantum clausi,
 
-⁵⁰ Ch'io non conoscessi ben Puccio Sciancato:\
+50 Ch'io non conoscessi ben Puccio Sciancato:\
 &emsp;Et era sol quel che de' tre compagni,\
 &emsp;Che venner prima, non era mutato:\
 &emsp;L'altr'era quel che tu, Ghaville, piagni.
 
-⁵⁰ Quod non discernerem bene Puccium Scianchatum:\
+50 Quod non discernerem bene Puccium Scianchatum:\
 &emsp;Et erat ille qui solus de tribus sotiis,\
 &emsp;Qui venerunt prius, non erat mutatus:\
 &emsp;Alter erat ille quem tu, Gaville, plangis.
 
-(¹) Lumacha.
+(1) Lumacha.
 
 fatiei; et labia ingrossavit, quantum conveniens fuit. Ille qui iacebat, os antemictit, idest extendit (iste est homo serpens factus), et aures retrahit (quia homo habet aures magnas, serpens autem non) per caput, sicut facit cornua limax (coclea, secundum Tullium); et lingua, scilicet hominis, quam habebat prius unitam et promptam ad loquendum, dividitur, et forcuta in alio, idest homine serpente, recluditur, et fumus restat, idest desinit, ad denotandum quod transformacio est completa.
 

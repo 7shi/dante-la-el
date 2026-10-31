@@ -8,23 +8,23 @@ In isto quintodecimo capitulo, quod incipit: Benigna voluntas, in qua liquefit, 
 
 # Capitulum Quintumdecimum
 
-¹ Benigna volontà, in che si liqua\
+1 Benigna volontà, in che si liqua\
 &emsp;Sempre l'amor che drictamente spira,\
-&emsp;Come cupidità fa nell'iniqua (¹),
+&emsp;Come cupidità fa nell'iniqua (1),
 
-¹ Benigna voluntas, in qua liquefit\
+1 Benigna voluntas, in qua liquefit\
 &emsp;Semper amor qui recte spirat,\
 &emsp;Sicut cupiditas facit iniqua,
 
-² Silentio pose a quella dolce lira,\
+2 Silentio pose a quella dolce lira,\
 &emsp;E fece quietar le sancte corde,\
 &emsp;Che la dextra del ciel allenta e tira.
 
-² Silentium imposuit illi dulci lire,\
+2 Silentium imposuit illi dulci lire,\
 &emsp;Et fecit quietari sanctas cordas,\
 &emsp;Quas dextra celi remictit et trahit.
 
-(¹) voloutà.
+(1) voloutà.
 
 Benigna voluntas in qua liquescit. Benigna volonta[de] in che se liqua: istud est quintumdecimum capitulum huius Paradisi, in quo auctor, ex quo in precedenti tractavit in generali de animabus hic beatificatis, ponit unam animam illustrem, modernam, de turba animarum martialium, que recepit auctorem cum grandi letitia. Dividitur autem istud in quatuor partes. In quarum prima auctor ponit, quomodo una anima moderna recepit eum lete et gaudiose.
 
@@ -44,59 +44,59 @@ Benigna voluntas, in qua liquescit, idest clare liquet, seu apparet, semper amor
 
 <!-- p. 997 (1051) -->
 
-³ Come saranno a'giusti preghi sorde\
+3 Come saranno a'giusti preghi sorde\
 &emsp;Quelle substanze che, per darmi vogla\
 &emsp;Ch'io le pregassi, a tacer fur concorde?
 
-³ Quomodo erunt iustis precibus surde\
+3 Quomodo erunt iustis precibus surde\
 &emsp;Ille substantie que, ut darent michi voluntatem\
 &emsp;Quod ego ipsas rogarem, ad tacendum fuerunt
 
-⁴ Ben è che senza termine si dogla\
+4 Ben è che senza termine si dogla\
 &emsp;Chi, per amor di cosa che non duri\
 &emsp;Eternalmente, quell'amor si spogla.
 
-⁴ Bene est quod sine termino doleat\
+4 Bene est quod sine termino doleat\
 &emsp;Qui, propter amorem rei que non durat\
 &emsp;Eternaliter, illum amorem se expoliat.
 
-⁵ Quali per li seren tranquilli e puri\
+5 Quali per li seren tranquilli e puri\
 &emsp;Discorre ad hora ad hor subito fuoco,\
 &emsp;Movendo gl'ochi che si stan sicuri,
 
-⁵ Qualis per serena tranquilla et pura\
+5 Qualis per serena tranquilla et pura\
 &emsp;Transcurrit de hora in horam subitus ignis,\
 &emsp;Movendo oculos qui stabant securi,
 
-⁶ E pare stella che tramuti luoco,\
+6 E pare stella che tramuti luoco,\
 &emsp;Se non che dalla parte onde s'accende\
 &emsp;Nulla si perde, et esso dura poco;
 
-⁶ Et apparet stella que mutet locum,\
+6 Et apparet stella que mutet locum,\
 &emsp;Nisi quod a parte unde accenditur\
 &emsp;Nihil perditur, et ipse durat modicum;
 
-⁷ Tale, dal corno che 'n dextro si stende,\
+7 Tale, dal corno che 'n dextro si stende,\
 &emsp;Al piè di quella Croce corse un astro\
 &emsp;De la constellation che lì risplende;
 
-⁷ Tale, a cornu quod in dextram partem extenditur,\
+7 Tale, a cornu quod in dextram partem extenditur,\
 &emsp;Ad pedes illius Crucis cucurrit unum astrum\
 &emsp;A constellatione que ibi resplendit;
 
-⁸ Nè si partì la gemma dal suo nastro,\
+8 Nè si partì la gemma dal suo nastro,\
 &emsp;Ma per la lista radial transcorse,\
 &emsp;Che parve fuoco dietro ad alabastro.
 
-⁸ Non recessit gemma a suo nastro,\
+8 Non recessit gemma a suo nastro,\
 &emsp;Sed per vistam radialem transcucurrit,\
 &emsp;Quod apparuit [ignis] retro alabaustrum.
 
-⁹ Sì pia l'ombra d'Anchise si porse,\
+9 Sì pia l'ombra d'Anchise si porse,\
 &emsp;Se fede merta nostra maggior musa,\
 &emsp;Quando in Elysio del figlo s'accorse.
 
-⁹ Sic pia umbra Anchisis se porrexit,\
+9 Sic pia umbra Anchisis se porrexit,\
 &emsp;Si fidem meretur nostra musa maior,\
 &emsp;Quando in Elysio de filio perpendit.
 
@@ -114,55 +114,55 @@ Sic pia, idest taliter, umbra Anchise, patris Enee, se porrexit, idest exhibuit,
 
 <!-- p. 998 (1052) -->
 
-¹⁰ O sanguis meus! o super infusa\
+10 O sanguis meus! o super infusa\
 &emsp;Gratia Dei, sicut tibi, cui\
 &emsp;Bis unquam celi ianua reclusa!
 
-¹⁰ O sanguis meus, o super infusa\
+10 O sanguis meus, o super infusa\
 &emsp;Gratia Dei, sicut tibi, cui\
 &emsp;Bis [n]unquam celi ianua reclusa!
 
-¹¹ Così quel lume; ond'io attesi lui,\
+11 Così quel lume; ond'io attesi lui,\
 &emsp;Poscia rivolsi a la mia donna el viso,\
 &emsp;E quinci e quindi stupefacto fui;
 
-¹¹ Sic illud lumen; unde ego me firmavi ad illud,\
+11 Sic illud lumen; unde ego me firmavi ad illud,\
 &emsp;Postmodum revolvi ad meam dominam visum,\
 &emsp;Et hinc et inde stupefactus fui;
 
-¹² Chè dentro agl'ochi suoi ardeva un riso,\
+12 Chè dentro agl'ochi suoi ardeva un riso,\
 &emsp;Tal ch'io pensai co' miei toccar el fondo\
 &emsp;De la mia gratia e del mio paradiso.
 
-¹² Quia intra oculos suos ardebat unus risus,\
+12 Quia intra oculos suos ardebat unus risus,\
 &emsp;Taliter quod ego cogitavi cum meis ire ad fundum\
 &emsp;Mee gratie et mei paradisi.
 
-¹³ Indi, a udire et a veder giocondo,\
-&emsp;Giunse lo spirto al suo principio (¹) cose\
+13 Indi, a udire et a veder giocondo,\
+&emsp;Giunse lo spirto al suo principio (1) cose\
 &emsp;Ch'io noll'intesi, sì parlò profondo.
 
-¹³ Inde, ad audiendum et videndum iucundus,\
+13 Inde, ad audiendum et videndum iucundus,\
 &emsp;Adiunxit suo principio et ille spiritus res\
 &emsp;Quas ego non intellexi, ita loquutus fuit profunde.
 
-¹⁴ Nè per election mi si nascose,\
+14 Nè per election mi si nascose,\
 &emsp;Ma per necessità, chè 'l suo concepto\
 &emsp;Al segno de' mortal si soprapose.
 
-¹⁴ Non propter electionem michi se abscondit,\
+14 Non propter electionem michi se abscondit,\
 &emsp;Sed propter necessitatem, quia suus conceptus\
 &emsp;Signo mortalium se supra posuit.
 
-¹⁵ E quando l'arco dell'ardente affecto\
+15 E quando l'arco dell'ardente affecto\
 &emsp;Fu sì sfogato, che 'l parlar discese\
 &emsp;Inver lo segno del nostro intellecto;
 
-¹⁵ Et quando arcus ardentis affectus\
+15 Et quando arcus ardentis affectus\
 &emsp;Fuit ita evacuatus, quod sermo descendit\
 &emsp;Versus signum nostri intellectus;
 
-(¹) posto di sopra, o sanguis meus.
+(1) posto di sopra, o sanguis meus.
 
 ubi erat Anchises, pater suus fuit, fuit, scilicet Eneas, pie susceptus a patre suo, cum dulcibus verbis in Elysio; idest in campo Elysio, ubi, secundum opinionem Virgilii et Platonis, stant anime illustrium virorum: vocat hic auctor librum Virgilii suam maiorem Musam, quia ipse bene studuerat, sicut dictum est in Inferno), quando in Elysio de filio perpendit.
 
@@ -178,75 +178,75 @@ Et quando arcus ardentis affectus (arcus, idest sermo) fuit ita fogatus, idest e
 
 <!-- p. 999 (1053) -->
 
-¹⁶ La prima cosa che per me s'intese,\
+16 La prima cosa che per me s'intese,\
 &emsp;Benedecto sia tu, [fu], trino et uno,\
 &emsp;Che nel mio seme se' tanto cortese.
 
-¹⁶ Prima res que per me fuit intellecta,\
+16 Prima res que per me fuit intellecta,\
 &emsp;Benedicaris tu, fuit, trinus et unus,\
 &emsp;Qui in meo sanguine es tantum curialis.
 
-¹⁷ E segui[tò]: Grato e lontan digiuno,\
+17 E segui[tò]: Grato e lontan digiuno,\
 &emsp;Tracto leggendo del maggior volume\
 &emsp;Du' non si muta mai bianco nè bruno,
 
-¹⁷ Et sequutus est: Gratum et longum ieiunium,\
+17 Et sequutus est: Gratum et longum ieiunium,\
 &emsp;Tractum legendo de magno volumine\
 &emsp;Ubi non mutatur unquam album neque nigrum,
 
-¹⁸ Soluto hai, figlo, dentro a questo lume\
+18 Soluto hai, figlo, dentro a questo lume\
 &emsp;In che ti parlo, merzè di colei\
 &emsp;Ch'all'alto volo ti vestì le piume.
 
-¹⁸ Solvisti, fili, intra istud lumen\
+18 Solvisti, fili, intra istud lumen\
 &emsp;In quo ego tibi loquor, mercede illius\
 &emsp;Que ad altum volatum vestivit te plumas.
 
-¹⁹ Tu credi che a me tuo pensier mei\
+19 Tu credi che a me tuo pensier mei\
 &emsp;Da quel ch'è primo, così come raia\
 &emsp;Dall'un, se si conosce, el cinque e 'l sei.
 
-¹⁹ Tu credis quod ad me tua cogitatio meet\
+19 Tu credis quod ad me tua cogitatio meet\
 &emsp;Ab illo qui est primus, sic sicut radiat\
 &emsp;Ab uno, [si] cognoscitur, quinque et sex.
 
-²⁰ E però ch'io mi sia, nè perch'io paia\
+20 E però ch'io mi sia, nè perch'io paia\
 &emsp;Più gaudioso a te, non mi domandi,\
 &emsp;Che alcun altro in questa turba gaia.
 
-²⁰ Et ideo qui ego sim, et quare appaream\
+20 Et ideo qui ego sim, et quare appaream\
 &emsp;Magis gaudiosus tibi, me non interrogas,\
 &emsp;Quam aliquis alius in ista iucunda turba.
 
-²¹ Tu credi 'l vero, che minori e grandi\
+21 Tu credi 'l vero, che minori e grandi\
 &emsp;Di questa vita miran ne lo speglo,\
 &emsp;In che, prima che pensi, el pensier pandi.
 
-²¹ Tu credis verum, quod minores et grandes\
+21 Tu credis verum, quod minores et grandes\
 &emsp;Istius vite respiciunt in speculum,\
 &emsp;In quo, priusquam cogites, cogitationem pandis.
 
-²² Ma perchè 'l sacro amor, in che io veglo\
+22 Ma perchè 'l sacro amor, in che io veglo\
 &emsp;Com perpetua vi[s]ta, e che m'asseta\
 &emsp;Di dolce desiar, s'àdempia meglo,
 
-²² Sed ad hoc ut sacer amor, in quo ego vigilo\
+22 Sed ad hoc ut sacer amor, in quo ego vigilo\
 &emsp;Contemplando perpeduo, et qui me assidet, idest me\
 &emsp;De dulci desiderio, adimpleatur magis,
 
-²³ La voce tua sicura, balda e lieta\
+23 La voce tua sicura, balda e lieta\
 &emsp;Suoni la volontà, suoni 'l desio,\
 &emsp;A che la mia risposta è già decreta.
 
-²³ Vox tua secura, gaudens et leta\
+23 Vox tua secura, gaudens et leta\
 &emsp;Exprimat voluntatem, sonet desiderium,\
 &emsp;Ad quod meum responsum est iam decretum.
 
-²⁴ Io mi volsi a Beatrice, e quella u'dio\
+24 Io mi volsi a Beatrice, e quella u'dio\
 &emsp;Pria ch'io parlassi, et arrisommi un cenno\
 &emsp;Che fece crescer l'ali al voler mio.
 
-²⁴ Ego converti me ad Beatricem, et illa ad Deum,\
+24 Ego converti me ad Beatricem, et illa ad Deum,\
 &emsp;Priusquam ego loquerer, et arrosoruit unum\
 &emsp;Quod fecit crescere alas velle meo.
 
@@ -264,27 +264,27 @@ Hiis auditis, auctor volvit se ad Beatricem, quasi petens licentiam ab ipsa loqu
 
 <!-- p. 1000 (1054) -->
 
-²⁵ Poi cominciai così: L'affecto e 'l senno,\
+25 Poi cominciai così: L'affecto e 'l senno,\
 &emsp;Come la prima qualità n'apparse,\
 &emsp;D'un peso per ciascun di voi si fenno;
 
-²⁵ Postea incepi sic: Affectus et sensus,\
+25 Postea incepi sic: Affectus et sensus,\
 &emsp;Sicut prima equalitas michi apparuit,\
 &emsp;De uno pondere pro quolibet se fecerunt;
 
-²⁶ Però ch'al Sol, che v'allumò et arse\
+26 Però ch'al Sol, che v'allumò et arse\
 &emsp;Col caldo e co' la luce, èn sì equali,\
 &emsp;Che tutte simiglianze sono scarse.
 
-²⁶ Sed quia sol, qui vos illuminat et incendit\
+26 Sed quia sol, qui vos illuminat et incendit\
 &emsp;Cum calore et cum luce, sunt ita equales,\
 &emsp;Quod omnes similitudines sunt scarse.
 
-²⁷ Ma vogla et argomento ne'mortali,\
+27 Ma vogla et argomento ne'mortali,\
 &emsp;Per la cagion ch'a voi è manifesta,\
 &emsp;Diversamente son pennute in hali.
 
-²⁷ Sed voluntas et argumentum in mortalibus,\
+27 Sed voluntas et argumentum in mortalibus,\
 &emsp;Propter causam que in vobis est manifesta,\
 &emsp;Diversimode sunt pennata in alis.
 
@@ -302,51 +302,51 @@ Sed voluntas et argumentum, idest velle et posse, in mortalibus, propter causam 
 
 <!-- p. 1001 (1055) -->
 
-²⁸ Ond'io che so' mortal, mi sento in questa\
+28 Ond'io che so' mortal, mi sento in questa\
 &emsp;Disaguaglanza, e però non ringratio\
 &emsp;Se non col cuore a la paterna festa.
 
-²⁸ Unde ego qui sum mortalis, me sentio in ista\
+28 Unde ego qui sum mortalis, me sentio in ista\
 &emsp;Inequalitate; ideo non regratior\
 &emsp;Nisi cum corde paterne festivitati.
 
-²⁹ Ben supplico io a te, vivo topatio,\
+29 Ben supplico io a te, vivo topatio,\
 &emsp;Che questa gioia pretiosa ingemmi,\
 &emsp;Che tu mi facci del tuo nome satio.
 
-²⁹ Bene supplico ego tibi, vive topati,\
+29 Bene supplico ego tibi, vive topati,\
 &emsp;Quod illud iocale ingemmas,\
 &emsp;Ad hoc ut me facias de tuo nomine satiatum.
 
-³⁰ O fronda mia, in che io compiacemmi\
+30 O fronda mia, in che io compiacemmi\
 &emsp;Pure aspectando, io fui la tua radice:\
 &emsp;Cotal principio, rispondendo, femmi.
 
-³⁰ O frons mea, in qua ego michi complacui\
+30 O frons mea, in qua ego michi complacui\
 &emsp;Solum expectando, ego fui tua radix:\
 &emsp;Tale principium, respondendo, michi fecit.
 
-³¹ Poscia mi disse: Quel, da cui si dice\
+31 Poscia mi disse: Quel, da cui si dice\
 &emsp;Cognation tua, e che cent'anni e piue\
 &emsp;Girato ha 'l monte a la prima cornice,
 
-³¹ Postea michi dixit: Ille, a quo dicitur\
+31 Postea michi dixit: Ille, a quo dicitur\
 &emsp;Tua cognatio, et qui centum annis et pluribus\
 &emsp;Gyravit montem in prima cornice,
 
-³² Mio figlo fu, e tuo bisavol fue;\
+32 Mio figlo fu, e tuo bisavol fue;\
 &emsp;Ben si convien che la lunga fatica\
 &emsp;Tu li raccorci coll'opere tue.
 
-³² Meus filius fuit, et proavus tuus fuit:\
+32 Meus filius fuit, et proavus tuus fuit:\
 &emsp;Bene convenit quod longam faticam\
 &emsp;Tu illo abbrevies cum operibus tuis.
 
-³³ Fiorenza, dentro da la cerchia antica,\
+33 Fiorenza, dentro da la cerchia antica,\
 &emsp;Ond'ella togle ancora terza e nona,\
 &emsp;Si stava in pace, sobria e pudica.
 
-³³ Florentia, intra circulum antiquum,\
+33 Florentia, intra circulum antiquum,\
 &emsp;Unde ipsa capit adhuc tertiam et nonam,\
 &emsp;Stabat in pace, sobria et pudica.
 
@@ -362,55 +362,55 @@ Florentia, intra circulum antiquum, unde ipsa capit, idest sumit, adhuc tertiam 
 
 <!-- p. 1002 (1056) -->
 
-³⁴ Non havea catenella, non corona,\
+34 Non havea catenella, non corona,\
 &emsp;Non donne contigiate, non cinctura,\
 &emsp;Ch'a veder fusse più che la persona.
 
-³⁴ Non habebat catenellam, non coronam,\
+34 Non habebat catenellam, non coronam,\
 &emsp;Non dominas factas comitissas, non zonas\
 &emsp;Que essent ad videndum plusquam persona.
 
-³⁵ Non facea, nascendo, ancor paura\
+35 Non facea, nascendo, ancor paura\
 &emsp;La figl'al padre, chè 'l tempo e la dote\
 &emsp;Non fuggean quinci e quindi la misura.
 
-³⁵ Non faciebat, nascendo, adhuc timorem\
+35 Non faciebat, nascendo, adhuc timorem\
 &emsp;Filia patri, quia tempus et dotes\
 &emsp;Non fugiebant hinc et inde mensuram.
 
-³⁶ Non havea case di famigla vote;\
+36 Non havea case di famigla vote;\
 &emsp;Non v'era giuncto ancor Sardanapalo\
 &emsp;A mostrar ciò che 'n camera si puote.
 
-³⁶ Non habebat domos familiis vacuas;\
+36 Non habebat domos familiis vacuas;\
 &emsp;Non venerat illuc Sardanapalus\
 &emsp;Ad monstrandum quidquid in camera potest.
 
-³⁷ Non era vincto ancora Montemalo\
+37 Non era vincto ancora Montemalo\
 &emsp;Dal vostr' Uccellatoio, che, com'è vincto\
 &emsp;Nel montar su, così sarà nel calo.
 
-³⁷ Non erat adhuc Mons Malus victus\
+37 Non erat adhuc Mons Malus victus\
 &emsp;A vestro Ucillatoio, qui, sic[ut] est victus\
 &emsp;In ascensu, ita erit in descensu.
 
-³⁸ Bellincion Berti vid'io andar cincto\
+38 Bellincion Berti vid'io andar cincto\
 &emsp;Di chuoio e d'osso, e venir a lo spechio\
 &emsp;La donna sua senza 'l viso dipincto;
 
-³⁸ Bellinzonem Berti vidi ego ire cinctum\
+38 Bellinzonem Berti vidi ego ire cinctum\
 &emsp;De corio et osse, et venire a speculo\
 &emsp;Dominam suam sine visu picto;
 
-³⁹ E vidi quel de'Nerli e quel del Vechio\
+39 E vidi quel de'Nerli e quel del Vechio\
 &emsp;Esser contenti a la pelle scoperta,\
-&emsp;E le sue (¹) donne al fuso et al pennechio.
+&emsp;E le sue (1) donne al fuso et al pennechio.
 
-³⁹ Et vidi illum de Nerlis, et illum de Vechio\
+39 Et vidi illum de Nerlis, et illum de Vechio\
 &emsp;Esse contentos pelle discooperta,\
 &emsp;Et suas dominas fuso et penechio.
 
-(¹) al. le lor.
+(1) al. le lor.
 
 Non habebat catenellam, non coronam (omnia hec sunt ornamenta mulierum: catenelle fiunt de argento, quas moderno tempore portant mulieres ad collum; de corona est satis notum: non portabant tunc mulieres in Florentia coronas ad instar reginarum, sicut modo faciunt), non dominas comitissas (nam moderno tempore uxores carpentariorum, sartorum, portant coronas et videntur comitisse, et tunc dicuntur domine contessate, idest comitisse facte), non zonas que essent ad videndum plusquam persona, idest non habebant mulieres ornamenta plusquam deceret, et plusquam status ipsarum requireret.
 
@@ -426,63 +426,63 @@ Et vidi illum de Nerlis et illum de Vechio (isti erant de nobilibus domibus Flor
 
 <!-- p. 1003 (1057) -->
 
-⁴⁰ O fortunate! ciascuna era certa\
+40 O fortunate! ciascuna era certa\
 &emsp;De la sua sepultura, et ancor nulla\
 &emsp;Era per Francia nel lecto deserta.
 
-⁴⁰ O fortunatas! quelibet erat certa\
+40 O fortunatas! quelibet erat certa\
 &emsp;De sua sepultura, et adhuc nulla\
 &emsp;Erat per Frantiam in lecto deserta.
 
-⁴¹ L'una veglava a studio de la culla,\
+41 L'una veglava a studio de la culla,\
 &emsp;E consolando usava l'ydioma\
 &emsp;Che pria le madri e li padri trastulla;
 
-⁴¹ Una vigilabat ad studium cune,\
+41 Una vigilabat ad studium cune,\
 &emsp;Consolando utebatur ydiomathe\
 &emsp;Quo prius patres et matres alludunt;
 
-⁴² L'altra trhaendo a la rocha la chioma,\
+42 L'altra trhaendo a la rocha la chioma,\
 &emsp;Favoleggiava co' la sua famigla\
 &emsp;Dei Troyani, di Fiesole, e di Roma.
 
-⁴² Alia trahendo collo comam,\
+42 Alia trahendo collo comam,\
 &emsp;Confabulabatur cum sua familia\
 &emsp;De Troyanis, et de Fiesols, et de Roma.
 
-⁴³ Saria tenuta allor tal maravigla,\
+43 Saria tenuta allor tal maravigla,\
 &emsp;Una Cianghella, un Lapo Saltarello,\
 &emsp;Qual hor saria Cincinnato, o Cornigla.
 
-⁴³ Fuisset tunc tentum tale mirum,\
+43 Fuisset tunc tentum tale mirum,\
 &emsp;Una Cianguella, et unus Lapus Saltarellus,\
 &emsp;Quale esset nunc Cincinnatus et Cornilia.
 
-⁴⁴ A così riposato, a così bello,\
+44 A così riposato, a così bello,\
 &emsp;Viver di cittadini, a così fida\
 &emsp;Cittadinanza, a così dolce hostello,
 
-⁴⁴ In tam quieto et pulchro\
+44 In tam quieto et pulchro\
 &emsp;Vivere civium, et in tam fida\
 &emsp;Civilitate, et in tam dulci hospitio,
 
-⁴⁵ Maria mi die', chiamata in (¹) alte grida,\
+45 Maria mi die', chiamata in (1) alte grida,\
 &emsp;E nell'antico vostro Baptisteo\
 &emsp;Insieme fui chrystiano e Cacciaguida.
 
-⁴⁵ Maria me dedit, vocata in altis clamoribus,\
+45 Maria me dedit, vocata in altis clamoribus,\
 &emsp;Et in vestro antiquo Baptisterio\
 &emsp;Simul fui cristianus et Cacciaguida.
 
-⁴⁶ Moronto fu mio frate et Helyseo;\
+46 Moronto fu mio frate et Helyseo;\
 &emsp;Mia donna venne a me di Val di Pado,\
 &emsp;E quinci el sopranome tuo si feo.
 
-⁴⁶ Morontius fuit meus frater et Elyzeus;\
+46 Morontius fuit meus frater et Elyzeus;\
 &emsp;Mea uxor venit ad me de valle Padi,\
 &emsp;Et inde cognomen tuum factum fuit.
 
-(¹) al. ad.
+(1) al. ad.
 
 (quia portabant pelles non cum scarleto et panno serico), et suas dominas, idest uxores, fuso et penso, supple esse contentas. Fusum et pensum instrumenta sunt ad filandum, etc.
 
@@ -498,28 +498,28 @@ Morontus fuit meus frater, et Helyseus; mea uxor venit ad me de valle Padi, ides
 
 <!-- p. 1004 (1058) -->
 
-⁴⁷ Poi seguitai lo 'mperador Corrado,\
+47 Poi seguitai lo 'mperador Corrado,\
 &emsp;Et ei mi cinse de la sua militia,\
 &emsp;Tanto per ben oprar li venni in grado.
 
-⁴⁷ Postea sequutus fui imperatorem Conradum,\
+47 Postea sequutus fui imperatorem Conradum,\
 &emsp;Et ipse me cinxit de sua militia,\
 &emsp;Tantum pro bono operari deveni sibi gratus.
 
-⁴⁸ Dietro gl'andai incontro la nequitia\
+48 Dietro gl'andai incontro la nequitia\
 &emsp;Di quella gente, el cui popol usurpa,\
 &emsp;Per colpa de' pastor, nostra iustitia.
 
-⁴⁸ Retro ipsum ivi contra iniquitatem\
+48 Retro ipsum ivi contra iniquitatem\
 &emsp;Illius legis, cuius populus usurpat,\
 &emsp;Propter culpam pastorum, vestram iustitiam.
 
-⁴⁹ Quivi fu'io da quella gente turpa\
+49 Quivi fu'io da quella gente turpa\
 &emsp;Disviluppato dal mondo fallace,\
 &emsp;El cui amor molt'anime deturpa,\
 &emsp;E venni dal martirio a questa pace.
 
-⁴⁹ Ibi fui ego ab illa gente turpi\
+49 Ibi fui ego ab illa gente turpi\
 &emsp;Disvolutus a gente fallaci,\
 &emsp;Cuius amor multas animas deturpat,\
 &emsp;Et veni a martyrio ad istam pacem.

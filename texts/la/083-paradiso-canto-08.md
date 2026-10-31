@@ -12,35 +12,35 @@ et quia celi diversimode influunt, dum influunt ad bonum, utile esset quod homin
 
 # Capitulum Octavum
 
-¹ Solea creder lo mondo in suo periclo,\
+1 Solea creder lo mondo in suo periclo,\
 &emsp;Che la bella Ciprigna el folle amore\
 &emsp;Raggiasse, volta nel terzo epyciclo;
 
-¹ Solebat credere mundus in suo periculo,\
+1 Solebat credere mundus in suo periculo,\
 &emsp;Quod pulchra Ciprigna et fatuus amor\
 &emsp;Radiaret, voluta in tertio epiciculo;
 
-² Perchè non pur a lei faceano honore\
+2 Perchè non pur a lei faceano honore\
 &emsp;Di sacrificio e di votivo grido\
 &emsp;Le genti antiche nell'antico errore;
 
-² Quare non solum faciebant ei honorem\
+2 Quare non solum faciebant ei honorem\
 &emsp;De sacrificio et de votivo grido\
 &emsp;Antique gentes in antiquo errore;
 
-³ Ma Dyone honorarono et Cupido,\
+3 Ma Dyone honorarono et Cupido,\
 &emsp;Questa per madre sua, questo per figlo,\
 &emsp;E dicean che sedette in grembo a Dido;
 
-³ Sed Dyonem honorabant et Cupidinem,\
+3 Sed Dyonem honorabant et Cupidinem,\
 &emsp;Istam pro matre sua et illum pro filio,\
 &emsp;Et dicunt quod sedit in gremio Didonis;
 
-⁴ E da costei, ond'io principio piglo,\
+4 E da costei, ond'io principio piglo,\
 &emsp;Piglia[va]no el vocabol de la stella\
 &emsp;Che 'l sol vagheggia hor da poppa or da ciglo.
 
-⁴ Et ab ista, unde principium sumo,\
+4 Et ab ista, unde principium sumo,\
 &emsp;Capiebant vocabulum stelle\
 &emsp;Que solem procatur nunc a coppa nunc a ciglio.
 
@@ -68,27 +68,27 @@ Auctor ergo, primo, more solito, continuans dicta dicens, volens describere natu
 
 <!-- p. 909 (0963) -->
 
-⁵ Io non m'accorsi del salire in ella;\
+5 Io non m'accorsi del salire in ella;\
 &emsp;Ma d'esserv'entro mi fece assai fede\
 &emsp;La donna mia, ch'io vidi far più bella.
 
-⁵ Ego non perpendi ascendere in ipsam;\
+5 Ego non perpendi ascendere in ipsam;\
 &emsp;Sed quod essem in ea, michi dedit satis fidem\
 &emsp;Domina mea, quam vidi fieri pulchriorem.
 
-⁶ E come in fiamma favilla si vede,\
+6 E come in fiamma favilla si vede,\
 &emsp;E come in voce voce si discerne,\
 &emsp;Quand'una è ferma e l'altra va e viene;
 
-⁶ Et sicut in flamma favilla videtur,\
+6 Et sicut in flamma favilla videtur,\
 &emsp;Vel sicut in voce vox discernitur,\
 &emsp;Quando una est firma et alia vadit et redit;
 
-⁷ Vid'io in essa luce altre lucerne\
+7 Vid'io in essa luce altre lucerne\
 &emsp;Muoversi in giro più e men correnti,\
 &emsp;Al modo, credo, di lor viste eterne.
 
-⁷ Vidi ego in ipsa luce alias lucernas\
+7 Vidi ego in ipsa luce alias lucernas\
 &emsp;Moveri et gyrari plus et minus currentes,\
 &emsp;Ad modum, credo, earum visionum eternarum.
 
@@ -104,35 +104,35 @@ Modo auctor ponit apparitionem spirituum beatificatorum in ista stella, in duabu
 
 <!-- p. 910 (0964) -->
 
-⁸ Di fredda nube non disceser venti,\
+8 Di fredda nube non disceser venti,\
 &emsp;O visibili o no, tanto festini,\
 &emsp;Che non paresseno impediti e lenti
 
-⁸ De frigida nube non descenderunt venti,\
+8 De frigida nube non descenderunt venti,\
 &emsp;Visibiles vel non, tantum festini,\
 &emsp;Qui non apparerent impediti et lenti
 
-⁹ A chi havesse quei lumi divini\
+9 A chi havesse quei lumi divini\
 &emsp;Veduti a noi venir, lassando 'l giro\
 &emsp;Pria cominciato in gl'alti Seraphini.
 
-⁹ Illis qui illa lumina divina\
+9 Illis qui illa lumina divina\
 &emsp;Vidissent ad nos venire, dimictendo gyrum\
 &emsp;Prius inceptum in altis Seraphinis.
 
-¹⁰ E dietro a quei che più nanti appariro,\
+10 E dietro a quei che più nanti appariro,\
 &emsp;Sonava Osanna sì, che umqua poi\
 &emsp;Di riudir non fui senza disiro.
 
-¹⁰ Et intra illa que ante nobis apparuerunt,\
+10 Et intra illa que ante nobis apparuerunt,\
 &emsp;Sonabat Osanna ita, quod nunquam postea\
 &emsp;Revidendi non fui sine desiderio.
 
-¹¹ Indi si fece l'un più presso a noi,\
+11 Indi si fece l'un più presso a noi,\
 &emsp;E solo incominciò: Tutti siàn presti\
 &emsp;Al tuo piacer, perchè di noi ti gioi.
 
-¹¹ Inde fecit se unum magis propinquum nobis,\
+11 Inde fecit se unum magis propinquum nobis,\
 &emsp;Et solus incepit: Omnes sumus presti\
 &emsp;Ad tuam complacentiam, ad hoc ut de nobis gaudeas.
 
@@ -144,59 +144,59 @@ Inde fecit se unum magis. Inde fecesi l'un: ista est secunda pars huius capituli
 
 <!-- p. 911 (0965) -->
 
-¹² Noi ci volgiàn co' principi celesti\
+12 Noi ci volgiàn co' principi celesti\
 &emsp;D'un giro, e d'un girare, e d'una sete,\
 &emsp;A' quali tu nel mondo già dicesti:
 
-¹² Nos volvimur cum principibus celestibus\
+12 Nos volvimur cum principibus celestibus\
 &emsp;De uno modo, de uno gyrare, et de una siti,\
 &emsp;Quibus de mundo dixisti iam:
 
-¹³ Voi che 'ntendendo el terzo ciel movete;\
+13 Voi che 'ntendendo el terzo ciel movete;\
 &emsp;E siam sì pien d'amor, che per piacerti,\
 &emsp;Non fie men dolce um poca di quiete.
 
-¹³ Vos qui, intelligendo, tertium celum movetis;\
+13 Vos qui, intelligendo, tertium celum movetis;\
 &emsp;Et sumus ita pleni amore quod, ad tibi complacendum,\
 &emsp;Non erit minus dulce aliquantulum quietis.
 
-¹⁴ Poscia che gl'occhi miei si furo offerti\
+14 Poscia che gl'occhi miei si furo offerti\
 &emsp;A la mia donna reverenti, et essa\
 &emsp;Facti gl'avea di sè contenti e certi,
 
-¹⁴ Postquam oculi mei se obtulerunt\
+14 Postquam oculi mei se obtulerunt\
 &emsp;Domine mee reverentes, et ipsa\
 &emsp;Fecerat illos contentos de se et certos,
 
-¹⁵ Rivolsersi a la luce, che promessa\
+15 Rivolsersi a la luce, che promessa\
 &emsp;Tanto s'aveva, e dir: Chi sete vo[i]? [fu]e\
 &emsp;La voce mia di grande affecto impressa.
 
-¹⁵ Revolverunt se ad lucem, que promiserat\
+15 Revolverunt se ad lucem, que promiserat\
 &emsp;Se tantum, et dicere: Qui estis? fuit\
 &emsp;Vox mea, a grandi affectu impressa.
 
-¹⁶ E quanta e quale vid'io lei far piue\
+16 E quanta e quale vid'io lei far piue\
 &emsp;Per allegrezza nuova che s'accrebbe,\
 &emsp;Quando parlai, a le bellezze sue!
 
-¹⁶ Et tanto et taliter vidi ipsam fieri maiorem\
+16 Et tanto et taliter vidi ipsam fieri maiorem\
 &emsp;Propter gaudium novum quod crevit,\
 &emsp;Quando ego loquutus fui, gaudiis suis!
 
-¹⁷ Così facta (mi disse), el mondo m'ebbe\
+17 Così facta (mi disse), el mondo m'ebbe\
 &emsp;Giù poco tempo; e s'io fussi più stato,\
 &emsp;Molto sarà di mal, che non sarebbe.
 
-¹⁷ Talem, michi dixit, mundus me habuit\
+17 Talem, michi dixit, mundus me habuit\
 &emsp;Infra pauco tempore; et si maius fuisset,\
 &emsp;Multum erit male, quod non fuisset.
 
-¹⁸ La mia letitia me ti tien celato,\
+18 La mia letitia me ti tien celato,\
 &emsp;Che mi raggia dintorno, e me nasconde\
 &emsp;Quasi animal di sua seta fasciato.
 
-¹⁸ Mea letitia me tenet [t]ibi celatum,\
+18 Mea letitia me tenet [t]ibi celatum,\
 &emsp;Que radiat circum, et me abscondit\
 &emsp;Quasi animal sua seta fasciatum.
 
@@ -214,55 +214,55 @@ Mea letitia me tenet tibi celatum, que radiat circum et me abscondit, quasi anim
 
 <!-- p. 912 (0966) -->
 
-¹⁹ Assai m'amasti, et havesti ben donde;\
+19 Assai m'amasti, et havesti ben donde;\
 &emsp;Chè, s' io fussi giù stato, io ti mostrava\
-&emsp;Di mio amor più oltre che le fronde (¹).
+&emsp;Di mio amor più oltre che le fronde (1).
 
-¹⁹ Satis me amasti, et habuisti bene unde;\
+19 Satis me amasti, et habuisti bene unde;\
 &emsp;Quia, si ego inferius stetissem, ego tibi ostendebam\
 &emsp;De meo amore ultra quam frondes.
 
-²⁰ Quella sinistra riva che si lava\
+20 Quella sinistra riva che si lava\
 &emsp;Di Rhodono, poi che è mixto con Sorga,\
 &emsp;Per suo signor a tempo m'aspettava;
 
-²⁰ Illa sinistra ripa que balneatur\
+20 Illa sinistra ripa que balneatur\
 &emsp;De Erigdano, postquam est mixtus cum Sorga,\
 &emsp;Pro suo domino ad tempus me expectabat;
 
-²¹ E quel corno d'Ausonia, che s'imborga\
+21 E quel corno d'Ausonia, che s'imborga\
 &emsp;Di Bari, di Gaeta e di Crotona,\
 &emsp;Là dove'l Tronto e'l Verde in mare sgorga.
 
-²¹ Et illud cornu Auxonie, quod imborgatur\
+21 Et illud cornu Auxonie, quod imborgatur\
 &emsp;De Baro, de Gaieta et de Cathona,\
 &emsp;Unde Truntus et Viridis in mare sgorgantur.
 
-²² Fulgeami già in fronte la corona\
+22 Fulgeami già in fronte la corona\
 &emsp;Di quella terra che 'l Danubio riga\
 &emsp;Poi che le ripe tedesche abbandona.
 
-²² Fulgebat iam michi in fronte corona\
+22 Fulgebat iam michi in fronte corona\
 &emsp;Illius terre quam Danubius rigat\
 &emsp;Postquam ripas germanicas derelinquit.
 
-²³ E la bella Trinacria, che caliga\
-&emsp;Tra Pachino e Peloro, sopra 'l golfo (²)\
-&emsp;Che riceve da Euro (³) maggior briga,
+23 E la bella Trinacria, che caliga\
+&emsp;Tra Pachino e Peloro, sopra 'l golfo (2)\
+&emsp;Che riceve da Euro (3) maggior briga,
 
-²³ Et pulchra Trinacria, que caligat\
+23 Et pulchra Trinacria, que caligat\
 &emsp;Inter Pachinum et Pellorum, supra gulfum\
 &emsp;Que recipit ab Euro maiorem brigam,
 
-²⁴ Non per Typheo (⁴), ma per nascente solfo,\
+24 Non per Typheo (4), ma per nascente solfo,\
 &emsp;Attesi avrebbe li suoi regi ancora,\
 &emsp;Nati per me di Karlo e di Ridolfo;
 
-²⁴ Non propter Typh[e]um, sed propter nascens sulphur,\
+24 Non propter Typh[e]um, sed propter nascens sulphur,\
 &emsp;Attendisset suos reges adhuc,\
 &emsp;Natos ex me de Karolo et de Rodulpho;
 
-(¹) idest fructus — (²) adriatico — (³) scirocho — (⁴) gigante.
+(1) idest fructus — (2) adriatico — (3) scirocho — (4) gigante.
 
 Satis me amasti, et habuisti bene unde, scilicet quia ego te dilexi; quia si ego inferius stetissem et diutius vixissem, ego tibi ostendebam de meo amore ultra quam frondes: idest, fecissem tibi nedum bona verba, dicendo, sed optima, faciendo.
 
@@ -280,55 +280,55 @@ Modo assignat causam illius fumi, sive caliginis, removens fictionem poeticam, n
 
 <!-- p. 913 (0967) -->
 
-²⁵ Se mala signoria, che sempre accora\
+25 Se mala signoria, che sempre accora\
 &emsp;Li populi subiecti, non havesse\
-&emsp;Mosso Palermo (¹) a gridar: Mora, mora.
+&emsp;Mosso Palermo (1) a gridar: Mora, mora.
 
-²⁵ Si malum dominium, quod semper accorat\
+25 Si malum dominium, quod semper accorat\
 &emsp;Populos subiectos, non commovisset\
 &emsp;Palermum ad clamandum: Moriatur, moriatur.
 
-²⁶ E se mio frate questo antivedesse,\
+26 E se mio frate questo antivedesse,\
 &emsp;L'avara povertà di Catalogna\
 &emsp;Già fuggeria, perchè non l'offendesse;
 
-²⁶ Et si meus frater antevideret,\
+26 Et si meus frater antevideret,\
 &emsp;Avaram paupertatem Cathalonie\
 &emsp;Iam fugeret, ut illa ipsum non offenderet;
 
-²⁷ Chè veramente proveder bisogna\
+27 Chè veramente proveder bisogna\
 &emsp;Per lui, o per altrui, sì ch'a sua barca\
 &emsp;Carcata più di carco non si pogna.
 
-²⁷ Quia vere providere est necesse\
+27 Quia vere providere est necesse\
 &emsp;Per eum, vel per alium, ita quod sue barce\
 &emsp;Onerate pluris oneris non imponatur.
 
-²⁸ La sua natura, che di larga parca\
+28 La sua natura, che di larga parca\
 &emsp;Discese, havria mestier di tal militia\
 &emsp;Che non curasse di metter in arca.
 
-²⁸ Sua natura, que de larga parca\
+28 Sua natura, que de larga parca\
 &emsp;Descendit, haberet necesse de tali militia\
 &emsp;Que non curaret mictere in archa.
 
-²⁹ Però ch'io credo che l'alta letitia\
+29 Però ch'io credo che l'alta letitia\
 &emsp;Che'l tuo parlar m'infonde, o signor mio,\
 &emsp;Là u' ogni ben si termina e s'initia,
 
-²⁹ Ex quo ego dixi: Ego credo quod alta letitia\
+29 Ex quo ego dixi: Ego credo quod alta letitia\
 &emsp;Quam tuus sermo michi infundit, o domine mi,\
 &emsp;Ubi omne bonum initiatur et terminatur,
 
-³⁰ Per te si veggia, come la vegg'io;\
+30 Per te si veggia, come la vegg'io;\
 &emsp;Grata m'è più; et anco questo ò caro,\
 &emsp;Perchè 'l discerni rimirando in Dio.
 
-³⁰ Per te videatur, sicut ego illam video;\
+30 Per te videatur, sicut ego illam video;\
 &emsp;Et hoc gratum est michi plus, et etiam istud carum,\
 &emsp;Ad hoc ut ego discernam, respiciendo in Deum.
 
-(¹) città di Sicilia.
+(1) città di Sicilia.
 
 Omnes iste partes et regiones, scilicet provincia Provintie, regnum Ungarie, regnum Cicilie, regnum insule Cicilie, expectassent me, et reges descendentes a me, pro regibus suis, attendendissent suos reges natos ex me, sive per me de Karolo et Rodulpho (quia uxor sua fuit filia Rodulphi de Alamania Imperatoris), si malum dominium, quod semper accorat, idest corda accendit vel inflammat, populos subiectos, non commovisset Palermum, bonam civitatem in insula Cicilie, ad clamandum, scilicet contra Karolum primum avum istius: Moriatur, moriatur.
 
@@ -340,43 +340,43 @@ Perch'io dissi: Io credo. Ex quo ego dixi: Ego credo: hec est tertia pars huius 
 
 <!-- p. 914 (0968) -->
 
-³¹ Facto m'è lieto, e così mi fa' chiaro,\
+31 Facto m'è lieto, e così mi fa' chiaro,\
 &emsp;Poichè, parlando, a dubitar m'ài mosso,\
 &emsp;Com' uscir può di dolce seme amaro.
 
-³¹ Fecisti me letum, et sic me faci[a]s clarum,\
+31 Fecisti me letum, et sic me faci[a]s clarum,\
 &emsp;Postquam, loquendo, ad dubitandum me movisti,\
 &emsp;Quomodo esse potest de dulci semine amarum.
 
-³² Quest'io a lui. Et elli a me: S'io posso\
+32 Quest'io a lui. Et elli a me: S'io posso\
 &emsp;Mostrarti un vero, a quel che ne dimandi\
 &emsp;Terrai el viso come tieni el dosso.
 
-³² Hoc ego ad ipsum. Et ipse ad me: Si ego possum\
+32 Hoc ego ad ipsum. Et ipse ad me: Si ego possum\
 &emsp;Monstrare tibi unum verum, ad illud quod tu petis\
 &emsp;Tenebis visum sicut tenes dorsum.
 
-³³ Lo ben che tutto 'l regno che tu scandi\
+33 Lo ben che tutto 'l regno che tu scandi\
 &emsp;Volge e contenta, fa esser virtute\
 &emsp;Sua providenza in questi corpi grandi;
 
-³³ Bonum quod totum regnum quod tu scandis\
+33 Bonum quod totum regnum quod tu scandis\
 &emsp;Volvit et letificat, fecit esse virtutem\
 &emsp;Ex sua providentia in istis corporibus magnis;
 
-³⁴ E non pur le nature provedute\
+34 E non pur le nature provedute\
 &emsp;Son ne la mente che è da sè perfecta,\
 &emsp;Ma esse insieme co' la lor salute.
 
-³⁴ Et non solum nature provise\
+34 Et non solum nature provise\
 &emsp;Sunt in mente que est a se perfecta,\
 &emsp;Sed ipsa est simul cum earum salute.
 
-³⁵ Perchè quantunque questo arco saecta,\
+35 Perchè quantunque questo arco saecta,\
 &emsp;Disposto cade a proveduto fine,\
 &emsp;Sì come cosa in suo segno directa.
 
-³⁵ Et ideo quantumcumque iste arcus sagiptat,\
+35 Et ideo quantumcumque iste arcus sagiptat,\
 &emsp;Dispositum cadit ad previsum finem,\
 &emsp;Sicut res in suum signum directa.
 
@@ -394,71 +394,71 @@ Et ideo quantumcumque iste arcus sagiptat, idest ista influentia celorum operatu
 
 <!-- p. 915 (0969) -->
 
-³⁶ Se ciò non fusse, el ciel, che tu cammine,\
+36 Se ciò non fusse, el ciel, che tu cammine,\
 &emsp;Producerebbe sì gli suoi effecti,\
 &emsp;Che non sarebben arti, ma ruine;
 
-³⁶ Si hoc non esset, celum, quod tu itineras,\
+36 Si hoc non esset, celum, quod tu itineras,\
 &emsp;Produceret ita suos effectus,\
 &emsp;Quod non essent artes, sed ruine;
 
-³⁷ E ciò esser non può, se l'intellecti\
+37 E ciò esser non può, se l'intellecti\
 &emsp;Che muoven queste stelle non son manchi,\
 &emsp;E manco 'l primo che non gl'à perfecti.
 
-³⁷ Et hoc esse non potest, si intellectus\
+37 Et hoc esse non potest, si intellectus\
 &emsp;Qui movent istas stellas non sint defectivi,\
 &emsp;Et defectivus primus qui non fecit illos perfectos.
 
-³⁸ Vuo'tu che questo ver più ti s'imbianchi?\
-&emsp;Et io: Non già (¹), perchè impossibil veggio\
+38 Vuo'tu che questo ver più ti s'imbianchi?\
+&emsp;Et io: Non già (1), perchè impossibil veggio\
 &emsp;Che la natura, in quel che è huopo, stanchi.
 
-³⁸ Vis tu quod hoc verum plus tibi dealbetur?\
+38 Vis tu quod hoc verum plus tibi dealbetur?\
 &emsp;Et ego: Non iam, quia impossibile video\
 &emsp;Quod natura, in eo quod est necessarium, deficiat.
 
-³⁹ Ond'elli ancora: Or di', sarebbe el peggio\
+39 Ond'elli ancora: Or di', sarebbe el peggio\
 &emsp;Per l'huomo in terra se non fusse cive?\
 &emsp;Sì, rispos'io; e qui ragion non chieggio.
 
-³⁹ Unde ipse adhuc: Or dicas, esset peius\
+39 Unde ipse adhuc: Or dicas, esset peius\
 &emsp;Pro homine in terra si non esset civis?\
 &emsp;Sic, respondi ego; et hic rationem non quero.
 
-⁴⁰ E puot'elli esser, se giù non si vive\
+40 E puot'elli esser, se giù non si vive\
 &emsp;Diversamente per diversi uffici?\
 &emsp;Non, se 'l maestro vostro ben vi scrive.
 
-⁴⁰ Et potest esse, si inferius non vivitur\
+40 Et potest esse, si inferius non vivitur\
 &emsp;Diversimode per diversa officia?\
 &emsp;Non, si magister vester bene vobis scribit.
 
-⁴¹ Sì venne deducendo infine a quici;\
+41 Sì venne deducendo infine a quici;\
 &emsp;Poscia conchiuse: Dunque esser diverse\
 &emsp;Convien de' vostri effecti le radici:
 
-⁴¹ Sic venit deducendo hucusque;\
+41 Sic venit deducendo hucusque;\
 &emsp;Postea conclusit: Ergo esse diversas\
 &emsp;Oportet nostrorum affectuum radices;
 
-⁴² Per che un nasce Absalon e l'altro Xerse,\
-&emsp;L'altro Melchisedech, e l'altro quello (²)\
-&emsp;Che, volando per l'aere, el figlio (³) perse.
+42 Per che un nasce Absalon e l'altro Xerse,\
+&emsp;L'altro Melchisedech, e l'altro quello (2)\
+&emsp;Che, volando per l'aere, el figlio (3) perse.
 
-⁴² Quare unus nascitur Solon et alter Serses,\
+42 Quare unus nascitur Solon et alter Serses,\
 &emsp;Alter Melchisedech, et alter ille\
 &emsp;Qui, volando per aierem, filium perdidit.
 
-⁴³ La circular natura, ch'è suggello\
+43 La circular natura, ch'è suggello\
 &emsp;A la cera mortal, fa ben sua arte,\
 &emsp;Ma non distingue l'un dall'altr'ostello.
 
-⁴³ Circularis natura, que est sigillum\
+43 Circularis natura, que est sigillum\
 &emsp;Cere mortali, facit bene suam artem,\
 &emsp;Sed non distinguit unum ab alio hospitio.
 
-(¹) più — (²) Dedalo — (³) Ycaro.
+(1) più — (2) Dedalo — (3) Ycaro.
 
 Si hoc non esset, scilicet celum, quod tu itineras, produceret ita suos effectus, quod non essent artes, sed ruine; idest opera nature essent a casu et a fortuna.
 
@@ -478,57 +478,57 @@ Circularis natura, idest celestis, que est sigillum cere mortali, idest que impr
 
 <!-- p. 916 (0970) -->
 
-⁴⁴ Quinci adivien che Esau si disparte\
-&emsp;Per seme da Iacob, e vien Quirino (¹)\
+44 Quinci adivien che Esau si disparte\
+&emsp;Per seme da Iacob, e vien Quirino (1)\
 &emsp;Da sì vil padre, che si rende a Marte.
 
-⁴⁴ Hinc evenit quod Esau recedit\
+44 Hinc evenit quod Esau recedit\
 &emsp;Per semen a Iacob, et venit Quirinus\
 &emsp;A simili patre quod se reddit Marti.
 
-⁴⁵ Natura generata el suo cammino\
+45 Natura generata el suo cammino\
 &emsp;Simil farebbe sempre a'generanti,\
 &emsp;Se non vincesse il proveder divino.
 
-⁴⁵ Natura generata suum iter\
+45 Natura generata suum iter\
 &emsp;Simile faceret semper generantibus,\
 &emsp;Si non vinceret Providentia divina.
 
-⁴⁶ Hor quel che t'era dietro t'è davanti;\
+46 Hor quel che t'era dietro t'è davanti;\
 &emsp;Ma perchè sappi che di te mi giova,\
 &emsp;Un corelario voglio che t'ammanti.
 
-⁴⁶ Nunc illud quod erat tibi retro est tibi ante;\
+46 Nunc illud quod erat tibi retro est tibi ante;\
 &emsp;Sed ut scias quod de te michi prodest,\
 &emsp;Unum correlarium volo quod tu tibi vestias.
 
-⁴⁷ Sempre natura, se fortuna trova\
+47 Sempre natura, se fortuna trova\
 &emsp;Discorde a sè, com'ogn'altra semente\
 &emsp;Fuor di sua region, fa mala prova.
 
-⁴⁷ Semper natura, si fortunam invenit\
+47 Semper natura, si fortunam invenit\
 &emsp;Discordantem, sicut omne aliud semen\
 &emsp;Extra suam regionem, facit malam probam.
 
-⁴⁸ E, se 'l mondo laggiù ponesse mente\
+48 E, se 'l mondo laggiù ponesse mente\
 &emsp;Al fondamento che natura pone,\
 &emsp;Seguendo lui, havria buona la gente.
 
-⁴⁸ Et si mundus inferius perpenderet\
+48 Et si mundus inferius perpenderet\
 &emsp;Ad fundamentum quod natura ponit,\
 &emsp;Sequendo illud, haberet bonam gentem.
 
-⁴⁹ Ma voi torcete a la religione\
+49 Ma voi torcete a la religione\
 &emsp;Tal che fie nato a cingersi la spada,\
 &emsp;E fate re di tal che è da sermone;\
 &emsp;Onde la traccia vostra è fuor di strada.
 
-⁴⁹ Sed vos torquetis ad religionem\
+49 Sed vos torquetis ad religionem\
 &emsp;Talem qui est natus ad cingendum sibi ensem,\
 &emsp;Et facitis regem de tali qui est ad sermocinandum;\
 &emsp;Unde iter vestrum est extra stratam.
 
-(¹) Romulo.
+(1) Romulo.
 
 bene suam artem, idest bene influit; sed non distinguit unum ab alio hospitio. Homines, in quibus natura, sive influentia, operatur, dicuntur et sunt hospitia illius artis, que influit et producit diversos effectus; ideo illa natura non distinguit unum hospitium ab alio, idest ita influit in uno, sicut in alio. Ita infundit in corpore filii regis, sicut in corpore filii rustici; ita infundit in corpore nobilis, sicut ignobilis: ita quod in infundendo non facit differentiam inter filios regum, nobilium et ignobilium. Ita agit in uno sicut in alio.
 

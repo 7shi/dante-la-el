@@ -8,27 +8,27 @@ In isto capitulo vicesimonono, quod incipit: Multa gens et diverse plage, auctor
 
 # Capitulum Vicesimumnonum
 
-¹ La molta gente e le diverse piaghe\
+1 La molta gente e le diverse piaghe\
 &emsp;Havean le luci mie sì inebriate,\
 &emsp;Che dello star a pianger eran vaghe:
 
-¹ Multa gens et diverse plage\
+1 Multa gens et diverse plage\
 &emsp;Luces meas ita inebriarunt,\
 &emsp;Que stare ad plangendum erant vage:
 
-² Ma Virgilio mi disse: Che pur guate?\
+2 Ma Virgilio mi disse: Che pur guate?\
 &emsp;Perchè la vista tua pur si soffolge\
 &emsp;Laggiù fra l'ombre triste e smozzicate?
 
-² Sed Virgilius dixit michi: Quid pur respicis?\
+2 Sed Virgilius dixit michi: Quid pur respicis?\
 &emsp;Quare visio tua pur submergitur\
 &emsp;Ibi infra inter umbras tristes et detruncatas?
 
-³ Tu non hai facto sì all'altre bolge:\
+3 Tu non hai facto sì all'altre bolge:\
 &emsp;Pensa, se tu annoverar le credi,\
 &emsp;Che migla ventidue la valle volge;
 
-³ Tu non sic fecisti in aliis bolgiis:\
+3 Tu non sic fecisti in aliis bolgiis:\
 &emsp;Et cogita, si tu eas numerare credis,\
 &emsp;Quia milliaria vigintiduo vallem circuunt;
 
@@ -62,79 +62,79 @@ Sed Virgilius michi dixit: Quid pur, idest tantum, respicis? Quare visio tua, id
 
 <!-- p. 357 (0411) -->
 
-⁴ E già la luna è sotto e nostri piedi:\
+4 E già la luna è sotto e nostri piedi:\
 &emsp;Lo temp'è poco omai che n'è concesso,\
-&emsp;Et altro è da veder che tu non vedi (¹).
+&emsp;Et altro è da veder che tu non vedi (1).
 
-⁴ Et iam luna est sub pedibus nostris:\
+4 Et iam luna est sub pedibus nostris:\
 &emsp;Tempus est paucum ammodo quod nobis conces-\
 &emsp;Et aliud est videndum quod tu non vides. [sum est,
 
-⁵ Se tu havessi, rispos'io a[p]presso,\
+5 Se tu havessi, rispos'io a[p]presso,\
 &emsp;Atteso alla cagion perch'io guardava,\
 &emsp;Forse m'havresti ancor lo star dimesso.
 
-⁵ Si tu posuisses, respondi ego paulo ante,\
+5 Si tu posuisses, respondi ego paulo ante,\
 &emsp;Intentum ad causam propter quam ego respiciebam,\
 &emsp;Forsan adhuc michi stare ibi dimis[s]es.
 
-⁶ Per te (²) sen giva, et io dietro gl'andava,\
+6 Per te (2) sen giva, et io dietro gl'andava,\
 &emsp;Lo duca, già facendo la risposta,\
 &emsp;E sogiugnendo: Dentro a quella cava,
 
-⁶ Interim recedebat, et ego retro eum ibam,\
+6 Interim recedebat, et ego retro eum ibam,\
 &emsp;Ad ducem iam faciendo responsum,\
 &emsp;Et subiungendo: Intro in istam caveam,
 
-⁷ Dov'io tenea hor gli ochi sì apposta,\
+7 Dov'io tenea hor gli ochi sì apposta,\
 &emsp;Credo ch'un spirto del mio sangue piangha\
 &emsp;La colpa che laggiù cotanto costa.
 
-⁷ Ubi ego nunc tenebam oculos ita fixe,\
+7 Ubi ego nunc tenebam oculos ita fixe,\
 &emsp;Credo quod unus spiritus de meo sanguine plangat\
 &emsp;Culpam que ibi infra tantum constat.
 
-⁸ Però disse'l maestro: Non si frangha\
+8 Però disse'l maestro: Non si frangha\
 &emsp;Lo tuo pensier da qui'nanzi sovr'ello:\
-&emsp;Attende (³) ad altro, ed ello si rimanga (⁴);
+&emsp;Attende (3) ad altro, ed ello si rimanga (4);
 
-⁸ Tunc dixit magister: Non frangatur\
+8 Tunc dixit magister: Non frangatur\
 &emsp;Tua cogitatio deinceps ab illo:\
 &emsp;Attende ad aliud, et ipse ibi remaneat;
 
-⁹ Ch'io vidi a uno socto'l ponticello\
+9 Ch'io vidi a uno socto'l ponticello\
 &emsp;Mostrarti, e minacciar forte col dito,\
 &emsp;Et udii nominar Geri del Bello.
 
-⁹ Quia ego vidi eum ad pedem unius ponticelli\
+9 Quia ego vidi eum ad pedem unius ponticelli\
 &emsp;Ostendere te, et minari fortiter cum digito,\
 &emsp;Et audivi eum nominari Gieri de Bello.
 
-¹⁰ Tu eri allhor sì del tucto impedito\
+10 Tu eri allhor sì del tucto impedito\
 &emsp;Sovra colui che già tenne Altaforte,\
 &emsp;Che non guardasti in là; sì fu partito.
 
-¹⁰ Tu eras tunc ita in totum impeditus\
+10 Tu eras tunc ita in totum impeditus\
 &emsp;Super illum qui iam tenuit Altafortem,\
 &emsp;Quod non respexisti illuc; ipse discessit.
 
-¹¹ O duca mio, la violenta morte\
+11 O duca mio, la violenta morte\
 &emsp;Che non gl'è vendicata ancor, diss'io,\
 &emsp;Per alcun che dell'onta sia consorte,
 
-¹¹ O dux mi, violenta mors\
+11 O dux mi, violenta mors\
 &emsp;Que adhuc non est vindicata ei, dixi ego,\
 &emsp;Per aliquem qui de iniuria sit consors,
 
-¹² Fece lui disdegnoso; ond'ei sen gio\
+12 Fece lui disdegnoso; ond'ei sen gio\
 &emsp;Senza parlarmi, sì com'io stimo;\
 &emsp;Et in ciò m'ha ei facto a sè più pio.
 
-¹² Fecit eum indignantem; unde recessit\
+12 Fecit eum indignantem; unde recessit\
 &emsp;Sine loqui michi, prout ego existimo;\
 &emsp;Et in hoc me fecit ipse ad eum magis pium.
 
-(¹) al. credi. — (²) al. parte. — (³) tu. — (⁴) ne la malhora.
+(1) al. credi. — (2) al. parte. — (3) tu. — (4) ne la malhora.
 
 Etenim iam luna est sub pedibus nostris: tempus est parvum admodo, quod nobis concessum est; et aliud est videndum quod tu non vides. Auctor iam stetit diebus duobus et duabus noctibus cum dimidio in Inferno. Luna erat plena et opposita soli: ergo si erat plena, et erat sub pedibus, sequitur quod sol erat in medio celi: restat igitur quod erat meridies. Restabat igitur standum in Inferno solum medio die et una nocte.
 
@@ -150,31 +150,31 @@ Iste, de quo est sermo, fuit unus consanguineus Dantis, et vocabatur Gieri de Be
 
 <!-- p. 358 (0412) -->
 
-¹³ Così parlammo infin al luogo primo\
+13 Così parlammo infin al luogo primo\
 &emsp;Che dello scoglo l'altra valle mostra,\
 &emsp;Se più lume vi fosse, tucto ad imo.
 
-¹³ Sic locuti fuimus, usque ad locum primum\
+13 Sic locuti fuimus, usque ad locum primum\
 &emsp;Qui scopuli aliam vallem monstrat,\
 &emsp;Si plus luminis fuisset, totum ad ymmum.
 
-¹⁴ Quando noi fummo in su l'ultima chiostra\
+14 Quando noi fummo in su l'ultima chiostra\
 &emsp;Di Malebolge, sì ch'e suoi conversi\
 &emsp;Potean parere alla veduta nostra,
 
-¹⁴ Quando nos fuimus super ultimo claustro\
+14 Quando nos fuimus super ultimo claustro\
 &emsp;Malibolgie, ita quod sui conversi\
 &emsp;Poterant apparere visioni nostre,
 
-¹⁵ Lamenti saettaro in me diversi,\
-&emsp;Che di pietà (¹) ferrati avean li strali:\
+15 Lamenti saettaro in me diversi,\
+&emsp;Che di pietà (1) ferrati avean li strali:\
 &emsp;Ond'io gl'orechi colle man copersi.
 
-¹⁵ Lamenta sagiptaverunt in me diversa,\
+15 Lamenta sagiptaverunt in me diversa,\
 &emsp;Que de pietate habebant ferata spicula:\
 &emsp;Unde ego aures cum manibus cooperui.
 
-(¹) al. pianto.
+(1) al. pianto.
 
 de Florentia: unde ipse fuit frustatim truncatus et interfectus. Vult hic dicere auctor, quod naturaliter omnis homo tendit ad vindictam; sed aliquis magis, aliquis minus: sed magis Florentinus quam alius. Unde ille, qui hic punitur, fuerat iuste interfectus et tunc petebat vindictam; et Dantes videbatur naturaliter velle; sed a tali velle retrahebat eum Virgilius.
 
@@ -188,63 +188,63 @@ Quando nos fuimus super ultimo claustro Malibolgie, ita quod sui conversi potera
 
 <!-- p. 359 (0413) -->
 
-¹⁶ Qual dolor fora (¹), se delli spedali\
+16 Qual dolor fora (1), se delli spedali\
 &emsp;Di Val di Chiana, tra luglo e septembre,\
 &emsp;E di Maremma e di Sardigna e mali
 
-¹⁶ Qualis dolor esset, si de hospitalibus\
+16 Qualis dolor esset, si de hospitalibus\
 &emsp;Vallis Chiane, inter iulium et septembrem,\
 &emsp;Et Mariptime et Sardinie mala
 
-¹⁷ Fosser in una fossa tutti insembre;\
+17 Fosser in una fossa tutti insembre;\
 &emsp;Tal era quivi, e tal puzza n'usciva,\
 &emsp;Qual suol venir delle marcide membre.
 
-¹⁷ Essent in una fovea omnes simul;\
+17 Essent in una fovea omnes simul;\
 &emsp;Talis erat hic, et talis putredo inde exibat,\
 &emsp;Qualis solet exire de putrefactis membris.
 
-¹⁸ Noi discendemmo in sull'ultima riva\
+18 Noi discendemmo in sull'ultima riva\
 &emsp;Del lungo scoglo, pur a man sinistra,\
 &emsp;Et allor fu la mia vista più viva
 
-¹⁸ Nos descendimus super ultimam ripam\
+18 Nos descendimus super ultimam ripam\
 &emsp;Longi scopuli, semper ad manum sinistram,\
 &emsp;Et tunc fuit mea visio magis viva
 
-¹⁹ Qui vèr lo fondo (²), dove la ministra\
-&emsp;Dell'alto Sire (³), infallibil iustitia,\
+19 Qui vèr lo fondo (2), dove la ministra\
+&emsp;Dell'alto Sire (3), infallibil iustitia,\
 &emsp;Punisce el falsator che qui registra.
 
-¹⁹ Infra profundum, ubi ministra\
+19 Infra profundum, ubi ministra\
 &emsp;Alti Domini, infallibilis iustitia,\
 &emsp;Punit falsatores quos hic registrat.
 
-²⁰ Non credo ch'a veder maggior tristitia\
-&emsp;Fusse in Egyna (⁴) el popol tucto infermo,\
-&emsp;Quando fu l'aer sì pien di malitia (⁵),
+20 Non credo ch'a veder maggior tristitia\
+&emsp;Fusse in Egyna (4) el popol tucto infermo,\
+&emsp;Quando fu l'aer sì pien di malitia (5),
 
-²⁰ Non credo quod ad videndum maior tristitia\
+20 Non credo quod ad videndum maior tristitia\
 &emsp;Esset in Egina populum totum infirmum,\
 &emsp;Quando fuit aier ita plenus malitia,
 
-²¹ Che gl'animali infino a[l] picciol vermo\
-&emsp;Cascaron (⁶) tucti, e poi le genti antiche,\
-&emsp;Secondo ch'e Poeti (⁷) han per fermo,
+21 Che gl'animali infino a[l] picciol vermo\
+&emsp;Cascaron (6) tucti, e poi le genti antiche,\
+&emsp;Secondo ch'e Poeti (7) han per fermo,
 
-²¹ Quod animalia usque ad parvum vermem\
+21 Quod animalia usque ad parvum vermem\
 &emsp;Ceciderunt cuncta, et postea gentes antique,\
 &emsp;Secundum quod Poete habent pro firmo,
 
-²² Si ristorar (⁸) di seme di formiche;\
+22 Si ristorar (8) di seme di formiche;\
 &emsp;Ch'era a veder per quella scura valle\
-&emsp;Languir (⁹) li spirti per diverse biche (¹⁰).
+&emsp;Languir (9) li spirti per diverse biche (10).
 
-²² Restaurate sunt ex semine formicarum;\
+22 Restaurate sunt ex semine formicarum;\
 &emsp;Quam erat ad videndum per illam obscuram vallem\
 &emsp;Languere spiritus per diversas bichas.
 
-(¹) sarebbe. — (²) al. verso'l fondo. — (³) Signor Dio. — (⁴) città del re Eaco in Grecia. — (⁵) morbo. — (⁶) morti. — (⁷) Ovidius in VII circa finem. — (⁸) ripararono per Giove. — (⁹) lamentare. — (¹⁰) montoni.
+(1) sarebbe. — (2) al. verso'l fondo. — (3) Signor Dio. — (4) città del re Eaco in Grecia. — (5) morbo. — (6) morti. — (7) Ovidius in VII circa finem. — (8) ripararono per Giove. — (9) lamentare. — (10) montoni.
 
 corruptivum et infectum. Tertius est in Sardinia, insula Ytalie, que est in mari Mediterraneo. In illa insula, maxime in extremis lictoribus, ventus australis maxime inficit aierem.
 
@@ -256,71 +256,71 @@ Modo ponit comparationem fetoris. Nota, secundum Ovidium in octavo Metamorphoseo
 
 <!-- p. 360 (0414) -->
 
-²³ Qual sopra 'l ventre, e qual sopra le spalle,\
+23 Qual sopra 'l ventre, e qual sopra le spalle,\
 &emsp;L'un dell'altro giacea, e qual carpone\
-&emsp;Si tramutava (¹) per lo tristo calle.
+&emsp;Si tramutava (1) per lo tristo calle.
 
-²³ Quidam super ventrem, quidam super humeros,\
+23 Quidam super ventrem, quidam super humeros,\
 &emsp;Unus alterius iacebat, et quidam suppinus\
 &emsp;Transmutabatur per illum tristem callem.
 
-²⁴ Passo passo andavàn (²) senza sermone,\
+24 Passo passo andavàn (2) senza sermone,\
 &emsp;Guardando et ascoltando gl'ammalati,\
 &emsp;Che non potean levar su lor persone.
 
-²⁴ De passo in passum ibamus sine sermone,\
+24 De passo in passum ibamus sine sermone,\
 &emsp;Respiciendo et auscultando infirmos,\
 &emsp;Qui non poterant levare eorum personas.
 
-²⁵ Io vidi due seder a sè appoggiati,\
-&emsp;Com'a scaldar si posa tegla a tegla (³),\
+25 Io vidi due seder a sè appoggiati,\
+&emsp;Com'a scaldar si posa tegla a tegla (3),\
 &emsp;Dal capo a piè di scanze maculati:
 
-²⁵ Ego vidi duos sedere ad se appodiatos,\
+25 Ego vidi duos sedere ad se appodiatos,\
 &emsp;Sicut ad calefaciendum appodiatur tega cum tega,\
 &emsp;A capite usque ad pedes de squamis maculatos:
 
-²⁶ E non vidi già mai menare stregla\
-&emsp;Da ragazzo spectato (⁴) dal signorso (⁵),\
-&emsp;Nè da colui che mal volentier vegla (⁶);
+26 E non vidi già mai menare stregla\
+&emsp;Da ragazzo spectato (4) dal signorso (5),\
+&emsp;Nè da colui che mal volentier vegla (6);
 
-²⁶ Et non vidi unquam duci strelliam\
+26 Et non vidi unquam duci strelliam\
 &emsp;A famulo qui expectatur a domino suo,\
 &emsp;Nec ab illo qui male libenter vigilat;
 
-²⁷ Come ciascun menava spesso el morso\
+27 Come ciascun menava spesso el morso\
 &emsp;Dell'unghie sovra sè per la gran rabbia\
-&emsp;Del piczicor, che non ha più soccorso (⁷).
+&emsp;Del piczicor, che non ha più soccorso (7).
 
-²⁷ Sicut quilibet ducebat sepe morsum\
+27 Sicut quilibet ducebat sepe morsum\
 &emsp;Unguium supra se ex grandi rabie\
 &emsp;Fricationis, que non habet alium succursum.
 
-²⁸ Così traheva giù l'unghia la scabbia,\
-&emsp;Come coltel da scardova (⁸) le scagle,\
-&emsp;O d'altro pesce che più (⁹) larghe l'abbia.
+28 Così traheva giù l'unghia la scabbia,\
+&emsp;Come coltel da scardova (8) le scagle,\
+&emsp;O d'altro pesce che più (9) larghe l'abbia.
 
-²⁸ Ipsi trahebant sibi cum unguibus scabiem,\
+28 Ipsi trahebant sibi cum unguibus scabiem,\
 &emsp;Sicut cultellus disquamat scalghias,\
 &emsp;Vel alios pisces qui largiores illas habeant.
 
-²⁹ O tu che colle dita (¹⁰) ti dismagle,\
-&emsp;(¹¹) Cominciò 'l duca mio ad un di loro,\
-&emsp;E che fai d'esse (¹²) talvolta tanagle,
+29 O tu che colle dita (10) ti dismagle,\
+&emsp;(11) Cominciò 'l duca mio ad un di loro,\
+&emsp;E che fai d'esse (12) talvolta tanagle,
 
-²⁹ O tu qui cum digitis te dimalias,\
+29 O tu qui cum digitis te dimalias,\
 &emsp;Incepit dux meus uni ipsorum,\
 &emsp;Ita quod facis de ipsis aliquando forcipes,
 
-³⁰ Dimmi s'alcun latino è tra costoro\
+30 Dimmi s'alcun latino è tra costoro\
 &emsp;Che son quinc'entro, se l'unghia ti basti\
-&emsp;Etternalmente a cotesto lavoro (¹³).
+&emsp;Etternalmente a cotesto lavoro (13).
 
-³⁰ Dic michi si aliquis latinus est inter istos\
+30 Dic michi si aliquis latinus est inter istos\
 &emsp;Qui sunt hic intro, si unguis tibi duret\
 &emsp;Eternaliter ad istud opus.
 
-(¹) andava. — (²) noi. — (³) testo — (⁴) guardato — (⁵) suo — (⁶) et affectasi di striglare — (⁷) se non di gratarsi — (⁸) pesce — (⁹) che la scardova — (¹⁰) tue — (¹¹) a dire — (¹²) dita tue — (¹³) glorioso di grattarti.
+(1) andava. — (2) noi. — (3) testo — (4) guardato — (5) suo — (6) et affectasi di striglare — (7) se non di gratarsi — (8) pesce — (9) che la scardova — (10) tue — (11) a dire — (12) dita tue — (13) glorioso di grattarti.
 
 videndum per illam obscuram vallem languere spiritus per diversas bichas, idest acies et cumulos, sive per diversos montes accumulatos. Bicha proprie apud Tuscos est quidam cumulus frumenti, qui fit in campo quando frumentum est messum. Talis cumulus Arrimini vocatur meda, in Massa Trabaria vocatur barcha.
 
@@ -334,63 +334,63 @@ O tu, qui cum digitis te amallias, idest discorias, vel dilaceras, incepit dux m
 
 <!-- p. 361 (0415) -->
 
-³¹ Latin siam (¹) noi, che tu vedi sì guasti,\
-&emsp;Qui amendue, rispose l'un (²) piangendo:\
+31 Latin siam (1) noi, che tu vedi sì guasti,\
+&emsp;Qui amendue, rispose l'un (2) piangendo:\
 &emsp;Ma tu chi se', che di noi dimandasti?
 
-³¹ Latini sumus nos, quos tu vides ita destructos,\
+31 Latini sumus nos, quos tu vides ita destructos,\
 &emsp;Hic ambo, respondit unus plangendo:\
 &emsp;Sed tu quis es, qui de nobis interrogasti?
 
-³² E 'l duca (³) disse (⁴): Io son un che discendo\
-&emsp;Con questo vivo (⁵) giù di balzo in balzo,\
+32 E 'l duca (3) disse (4): Io son un che discendo\
+&emsp;Con questo vivo (5) giù di balzo in balzo,\
 &emsp;E dimostrar l'Inferno allui intendo.
 
-³² Et dux dixit: Ego sum unus qui descendo\
+32 Et dux dixit: Ego sum unus qui descendo\
 &emsp;Cum isto vivo infra de balzo in balzum,\
 &emsp;Et demonstrare ei Infernum intendo.
 
-³³ Allor (⁶) si ruppe lo comun (⁷) rincalzo (⁸);\
-&emsp;E tremando ciascun (⁹) a me si volse\
+33 Allor (6) si ruppe lo comun (7) rincalzo (8);\
+&emsp;E tremando ciascun (9) a me si volse\
 &emsp;Con altri che l'udiron di rimbalzo.
 
-³³ Tunc fuit ruptum commune rincalzum;\
+33 Tunc fuit ruptum commune rincalzum;\
 &emsp;Et tremendo quilibet ad me se volvit\
 &emsp;Cum aliis qui illud audierunt de rimbalzo.
 
-³⁴ Lo buon Maestro (¹⁰) a me tucto s'accolse,\
+34 Lo buon Maestro (10) a me tucto s'accolse,\
 &emsp;Dicendo: Di' a lor ciò che tu vuoli.\
-&emsp;Et io incominciai, poscia che volse (¹¹):
+&emsp;Et io incominciai, poscia che volse (11):
 
-³⁴ Bonus magister ad me totum se convertit,\
+34 Bonus magister ad me totum se convertit,\
 &emsp;Dicendo: Dicas ei[s] id quod tu vis.\
 &emsp;Et ego incepi, postquam ipse voluit:
 
-³⁵ Se la vostra memoria non s'imboli (¹²)\
+35 Se la vostra memoria non s'imboli (12)\
 &emsp;Nel primo mondo dell'humane menti,\
-&emsp;Ma s'ella viva doppo molti soli (¹³),
+&emsp;Ma s'ella viva doppo molti soli (13),
 
-³⁵ Si vestra memoria non s'imbolet\
+35 Si vestra memoria non s'imbolet\
 &emsp;In vestro mundo de humanis mentibus,\
 &emsp;Sed ipsa vivat sub multos soles,
 
-³⁶ Ditemi chi voi sete e di che genti:\
+36 Ditemi chi voi sete e di che genti:\
 &emsp;La vostra sconcia e fastidiosa pena\
 &emsp;Di palesarvi a me non vi spaventi.
 
-³⁶ Dicite michi qui vos estis et de quibus gentibus:\
+36 Dicite michi qui vos estis et de quibus gentibus:\
 &emsp;Vestra incomportabilis et fastidiosa pena\
 &emsp;Ut publicetis michi vos non terreat.
 
-³⁷ Io fui d'Arezzo, et Albero da Siena,\
-&emsp;Rispose l'un, (¹⁴) mi fe' metter (¹⁵) al fuoco;\
+37 Io fui d'Arezzo, et Albero da Siena,\
+&emsp;Rispose l'un, (14) mi fe' metter (15) al fuoco;\
 &emsp;Ma quel, perch'io morii, qui non mi mena.
 
-³⁷ Ego fui de Aretio, et Alberus de Senis,\
+37 Ego fui de Aretio, et Alberus de Senis,\
 &emsp;Respondit ille, me fecit micti in ignem;\
 &emsp;Sed illud, propter quod ego fui mortuus, huc me non conducit.
 
-(¹) al. sem — (²) cioè Capochio, o Grifolino. — (³) Virgilio. — (⁴) a colui. — (⁵) Dante. — (⁶) allhora. — (⁷) di color due. — (⁸) appoggiamento. — (⁹) di quelli due. — (¹⁰) Virgilio. — (¹¹) Virgilio. — (¹²) si tolla via. — (¹³) corsi di sole, cioè anni. — (¹⁴) di loro, Orsolino. — (¹⁵) ardere.
+(1) al. sem — (2) cioè Capochio, o Grifolino. — (3) Virgilio. — (4) a colui. — (5) Dante. — (6) allhora. — (7) di color due. — (8) appoggiamento. — (9) di quelli due. — (10) Virgilio. — (11) Virgilio. — (12) si tolla via. — (13) corsi di sole, cioè anni. — (14) di loro, Orsolino. — (15) ardere.
 
 procura herbas et succus, sive cineres, herbarum: idest, si Deus det tibi tantam gratiam, quod habeas bene ad laborandum.
 
@@ -404,63 +404,63 @@ Ego fui de Aretio, et Alberus de Senis, respondit ille, me fecit micti in ignem.
 
 <!-- p. 362 (0416) -->
 
-³⁸ Vero è ch'io dissi lui, parlando a giuoco,\
+38 Vero è ch'io dissi lui, parlando a giuoco,\
 &emsp;Io mi saprei levar per l'aere a volo.\
 &emsp;E quei, ch'havea vaghezza e senno poco,
 
-³⁸ Verum est quod ego ad eum, loquendo iocose, dixi:\
+38 Verum est quod ego ad eum, loquendo iocose, dixi:\
 &emsp;Ego scirem me levare per aierem ad volandum.\
 &emsp;Et ille, qui habebat voluntatem et sensum paucum,
 
-³⁹ Volle ch'io li mostrassi l'arte; e solo\
-&emsp;Perch'io nol feci Dedalo (¹), mi fece\
+39 Volle ch'io li mostrassi l'arte; e solo\
+&emsp;Perch'io nol feci Dedalo (1), mi fece\
 &emsp;Arder a tal, ch'io havea per figlolo.
 
-³⁹ Voluit quod ego monstrarem sibi artem; et solum\
+39 Voluit quod ego monstrarem sibi artem; et solum\
 &emsp;Quia ego non feci illum Dedalum, me fecit\
 &emsp;Comburi per talem, qui eum in filium retinebat.
 
-⁴⁰ Ma nell'ultima bolgia delle diece\
+40 Ma nell'ultima bolgia delle diece\
 &emsp;Me, per l'alchimia ch'io nel mondo usai,\
-&emsp;Dannò (²) Mynos, a cui fallar (³) non lece (⁴).
+&emsp;Dannò (2) Mynos, a cui fallar (3) non lece (4).
 
-⁴⁰ Sed in ultima bolgia de decem\
+40 Sed in ultima bolgia de decem\
 &emsp;Me, propter alchimiam qua usus sum in mundo,\
 &emsp;Dampnavit Mynos, cui fallere non licet.
 
-⁴¹ Et io dissi al Maestro: Or fu già mai\
+41 Et io dissi al Maestro: Or fu già mai\
 &emsp;Gente sì vana come la sanese?\
-&emsp;Certo non la francesca (⁵) sì dassai.
+&emsp;Certo non la francesca (5) sì dassai.
 
-⁴¹ Et ego dixi Poete: Or fuit nunquam\
+41 Et ego dixi Poete: Or fuit nunquam\
 &emsp;Gens ita vana sicut senensis?\
 &emsp;Certe non gallica ita prudens.
 
-⁴² Onde l'altro lebbroso (⁶), che m'intese,\
-&emsp;Rispose al decto mio: Tramene (⁷) Striccha,\
+42 Onde l'altro lebbroso (6), che m'intese,\
+&emsp;Rispose al decto mio: Tramene (7) Striccha,\
 &emsp;Che seppe far le temperate spese;
 
-⁴² Unus alter leprosus, qui me intellexit,\
+42 Unus alter leprosus, qui me intellexit,\
 &emsp;Respondit dicto meo: Excipias Striccam,\
 &emsp;Qui scivit facere temperatas expensas;
 
-⁴³ E Nicholò, che la costuma riccha\
+43 E Nicholò, che la costuma riccha\
 &emsp;Del gherofano prima discoperse\
 &emsp;Nell'orto dove tal seme s'appiccha;
 
-⁴³ Et Nycholaum, qui costumam divitem\
+43 Et Nycholaum, qui costumam divitem\
 &emsp;Garofali prius discooperuit\
 &emsp;In orto ubi tale semen applicatur;
 
-⁴⁴ E trane (⁸) la brigata, in che disperse\
-&emsp;Cascia (⁹) d'Asciano la vigna e la gran\
+44 E trane (8) la brigata, in che disperse\
+&emsp;Cascia (9) d'Asciano la vigna e la gran\
 &emsp;E l'Abbaglato suo senno proferse. [fronda,
 
-⁴⁴ Et excipe sotietatem, in qua dispersit\
+44 Et excipe sotietatem, in qua dispersit\
 &emsp;Caccia de Asciano vineam et grandem fundum,\
 &emsp;Et Abbagliatum qui suum sensum protulit.
 
-(¹) volare. — (²) condennò. — (³) errare — (⁴) non è lecito. — (⁵) la gente franciosa. — (⁶) Capochio. — (⁷) eccettuane — (⁸) exceptuane. — (⁹) al. Caccia.
+(1) volare. — (2) condennò. — (3) errare — (4) non è lecito. — (5) la gente franciosa. — (6) Capochio. — (7) eccettuane — (8) exceptuane. — (9) al. Caccia.
 
 Verum est quod ego ad eum loquendo iocose dixi: Ego scirem me levare per aierem ad volandum. Et ille, qui habebat voluntatem, scilicet sciendi hoc facere, idest volare, et sensum paucum, quia erat parum prudens, voluit quod ego monstrarem sibi artem; et solum quia ego illum non feci Dedalum, me fecit comburi per talem, qui eum in filium retinebat (forte non erat, licet episcopus crederet eum esse filium suum; quia sepe tales meretrices nesciunt quorum hominum sint filii tales expurii, etc. De Dedalo dictum est superius: fuit ille qui fecit sibi alas et filio suo Ycharo ad volandum. Hec hystoria habetur superius in capitulo duodecimo confuse). Sed in ultima bolgia de decem, me propter alchimiam, qua in mundo usus fui, dampnavit Mynos, cui fallere non licet, idest qui nunquam errat, idest quia nunquam potest decipi iuditium conscientie.
 
@@ -470,25 +470,25 @@ Alter leprosus, qui erat hic, fuit magister Capochius de Florentia, singularissi
 
 <!-- p. 363 (0417) -->
 
-⁴⁵ Ma perchè sappi (¹) che sì ti seconda\
-&emsp;Contr'a'Sanesi, aguzza ver me l'ochio (²),\
-&emsp;Sì che la faccia (³) ben ti si risponda (⁴):
+45 Ma perchè sappi (1) che sì ti seconda\
+&emsp;Contr'a'Sanesi, aguzza ver me l'ochio (2),\
+&emsp;Sì che la faccia (3) ben ti si risponda (4):
 
-⁴⁵ Sed ut tu scias quis te sic secundat\
+45 Sed ut tu scias quis te sic secundat\
 &emsp;Contra Senenses, acue versus me oculum,\
 &emsp;Ita quod facies mea bene tibi respondeat:
 
-⁴⁶ Sì (⁵) vedrai ch'io son l'ombra di Capochio,\
+46 Sì (5) vedrai ch'io son l'ombra di Capochio,\
 &emsp;Che falsai li metalli coll'alchimia,\
-&emsp;E te (⁶) ne de'ricordar, se ben t'adochio,\
+&emsp;E te (6) ne de'ricordar, se ben t'adochio,\
 &emsp;Com'io fui di natura buona scimia.
 
-⁴⁶ Et sic videbis quod ego sum umbra Capochii,\
+46 Et sic videbis quod ego sum umbra Capochii,\
 &emsp;Qui falsificavi metalla cum alchimia,\
 &emsp;Et tu debes de hoc recordari, si te bene respicio,\
 &emsp;Sicut ego fui nature bona simia.
 
-(¹) tu, o Dante. — (²) verso di me che son sanese. — (³) mia. — (⁴) rappresenti. — (⁵) così. — (⁶) e te, Dante.
+(1) tu, o Dante. — (2) verso di me che son sanese. — (3) mia. — (4) rappresenti. — (5) così. — (6) e te, Dante.
 
 Semel super Pontem Antiquum ad Arnum, in civitate Florentie, fecerunt unam cenam, et habuerunt decem fercula, et ad quodlibet ferculum proiiecebant totam mensam in fluvium Arni, mappas, tobalias, scutellas, inscisoria, platellas de argento. Et commiserunt innumeras fatuitates: et tamen omnes mortui sunt et finierunt miserrime et ad hospitalia.
 

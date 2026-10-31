@@ -10,23 +10,23 @@ Dra[ga]gnatium, Ciriaccum sannutum, Graffiacanem, Farfarellum et Rubican[t]em pa
 
 # Capitulum Vicesimumprimum
 
-¹ Così di ponte in ponte, altro parlando\
+1 Così di ponte in ponte, altro parlando\
 &emsp;Che la mia Comedia parlar non cura,\
 &emsp;Venimmo, e tenemmo el colmo, quando
 
-¹ Sic de ponte in pontem, aliud loquendo\
+1 Sic de ponte in pontem, aliud loquendo\
 &emsp;Quod mea Comedia cantare non curat,\
 &emsp;Venimus, et tenebamus culmen, quando
 
-² Ristemmo (¹) per veder altra fexura\
-&emsp;Di Malebolge, e gl' altri pianti vani (²);\
-&emsp;E vidila mirabilmente scura (³).
+2 Ristemmo (1) per veder altra fexura\
+&emsp;Di Malebolge, e gl' altri pianti vani (2);\
+&emsp;E vidila mirabilmente scura (3).
 
-² Resedimus ut videremus alteram fixuram\
+2 Resedimus ut videremus alteram fixuram\
 &emsp;Malibolgie, et altos planctus vanos;\
 &emsp;Et vidi illam mirabiliter obscuram.
 
-(¹) al. restammo. — (²) senza fructo. — (³) al. obscura.
+(1) al. restammo. — (2) senza fructo. — (3) al. obscura.
 
 Cosi di ponte in ponte. Sic de ponte in pontem: istud est vicesimumprimum capitulum Inferni, in quo auctor tractat de quinta specie fraudis, scilicet de baractaria. Baractaria hic non accipitur pro ludo taxillorum, non: pro vitio, quo baractarii utuntur, qui pro pecunia vendunt officia, vel negligunt iustitiam, et decipiunt dominos vel Comunitatem suam. Dividitur autem istud capitulum in quatuor partes. Quarum in prima describit, in generali, penam baractariorum.
 
@@ -48,71 +48,71 @@ Auctor vult modo describere penam baractariorum in generali, que est ista: quod 
 
 <!-- p. 263 (0317) -->
 
-³ Qual nell'arsena (¹) delli Venetiani\
+3 Qual nell'arsena (1) delli Venetiani\
 &emsp;Bolle nell'inverno la tenace pece,\
-&emsp;Per rimpalmar (²) li legni (³) lor non sani (⁴),
+&emsp;Per rimpalmar (2) li legni (3) lor non sani (4),
 
-³ Qualis in arsena Venetorum\
+3 Qualis in arsena Venetorum\
 &emsp;Bulit in yeme pix tenax,\
 &emsp;Ad rimpalmandum ligna eorum non sana,
 
-⁴ Che navigar non ponno, in quella vece (⁵)\
-&emsp;Chi fa suo legno (⁶) nuovo, e chi ristoppa\
-&emsp;Le coste a quel (⁷) che più viaggi fece;
+4 Che navigar non ponno, in quella vece (5)\
+&emsp;Chi fa suo legno (6) nuovo, e chi ristoppa\
+&emsp;Le coste a quel (7) che più viaggi fece;
 
-⁴ Quare navigare non possunt, et in illius vicem\
+4 Quare navigare non possunt, et in illius vicem\
 &emsp;Quidam facit suum lignum novum, et quidam ristoppat\
 &emsp;Costas illi quod plura viagia fecit;
 
-⁵ Chi ribacte da prora, e chi da poppa;\
+5 Chi ribacte da prora, e chi da poppa;\
 &emsp;Altri fan remi, et altri volgen sarte;\
 &emsp;Chi terzaruolo et artimon rintoppa:
 
-⁵ Quidam repercutiunt a prora, et quidam a puppi;\
+5 Quidam repercutiunt a prora, et quidam a puppi;\
 &emsp;Alteri faciunt remos, et alteri volvunt sartas;\
 &emsp;Quidam terzarolum et artimonem rintoppant:
 
-⁶ Tal, non per fuoco ma per divin'arte,\
+6 Tal, non per fuoco ma per divin'arte,\
 &emsp;Bollia laggiù una pegola spessa,\
 &emsp;Che 'nvescava la ripa d'ogni parte.
 
-⁶ Talis, non per ignem sed per divinam artem,\
+6 Talis, non per ignem sed per divinam artem,\
 &emsp;Bulliebat ibi inferius una pix spissa,\
 &emsp;Que inviscabat ripam ex omni parte.
 
-⁷ Io vedea lei (⁸), ma non vedea in essa\
+7 Io vedea lei (8), ma non vedea in essa\
 &emsp;Se non le bolle, che 'l bollor levava,\
 &emsp;Gonfiar, e riseder tutta compressa.
 
-⁷ Ego videbam ipsam, sed nondum videbam in ea\
+7 Ego videbam ipsam, sed nondum videbam in ea\
 &emsp;Aliud quam bulas quas bulor elevabat,\
 &emsp;Et inflare totum, et resedere compressam.
 
-⁸ Mentr'io laggiù fisamente guardava,\
+8 Mentr'io laggiù fisamente guardava,\
 &emsp;El duca mio, dicendo: Guarda, guarda,\
 &emsp;Mi trasse a sè del luogo ov'io stava.
 
-⁸ Dum illuc infra fixus respiciebam,\
+8 Dum illuc infra fixus respiciebam,\
 &emsp;Dux meus, dicendo: Cave, cave,\
 &emsp;Me traxit ad se a loco ubi ego stabam.
 
-⁹ Allor mi volsi come l'huom che tarda\
+9 Allor mi volsi come l'huom che tarda\
 &emsp;Di veder quel che li convien fuggire,\
 &emsp;E cui paura subita sgaglarda,
 
-⁹ Tunc me volvi sicut homo qui tardat\
+9 Tunc me volvi sicut homo qui tardat\
 &emsp;Videre illud quod ei convenit fugere,\
 &emsp;Et quem timor subitus enervat,
 
-¹⁰ Che, per veder, non indugia 'l partire:\
+10 Che, per veder, non indugia 'l partire:\
 &emsp;E vidi dietro a noi un diavol nero\
 &emsp;Correndo su per lo scoglo venire.
 
-¹⁰ Qui propter videre non differt recessum:\
+10 Qui propter videre non differt recessum:\
 &emsp;Et vidi retro nos unum dyabolum nigrum\
 &emsp;Currendo super illo scopulo venire.
 
-(¹) al. arzena. — (²) rappezar. — (³) navi. — (⁴) rocti. — (⁵) volta. — (⁶) nave. — (⁷) legno — (⁸) la pece.
+(1) al. arzena. — (2) rappezar. — (3) navi. — (4) rocti. — (5) volta. — (6) nave. — (7) legno — (8) la pece.
 
 Ad ostendendum qualis sit et quomodo stet ista pix, facit bonam comparationem de arsenata Venetorum, que est pulcrior de toto mundo. Arsenata est locus, ubi fiunt naves, galee, et ea que sunt necessaria in navibus. In ista arsenata sunt maximi lebetes et magna caldaria, in quibus ab igne calefit pix et bulit; que pix est necessaria ad resarciendum antiquas naves et etiam bituminandum novas. Tunc ad textum procedatur sic.
 
@@ -124,55 +124,55 @@ Dum illic infra fixus respiciebam, dux meus, dicendo,
 
 <!-- p. 264 (0318) -->
 
-¹¹ Hay, quant'egl' era nell'aspecto fero!\
+11 Hay, quant'egl' era nell'aspecto fero!\
 &emsp;E quanto mi parea nell' acto acerbo,\
 &emsp;Coll' hale aperte, sopra 'l piè leggero!
 
-¹¹ Ay, quantum ipse erat in aspectu ferus!\
+11 Ay, quantum ipse erat in aspectu ferus!\
 &emsp;Et quantum michi apparebat in actu acerbus,\
 &emsp;Cum alis apertis, et supra pedibus levis!
 
-¹² L'humero suo, ch'era acuto e superbo,\
+12 L'humero suo, ch'era acuto e superbo,\
 &emsp;Carcava un peccator con ambo l'anche,\
 &emsp;Al qual tenea de' piè gremito el nerbo.
 
-¹² Humerum suum, qui erat acutus et superbus,\
+12 Humerum suum, qui erat acutus et superbus,\
 &emsp;Onerabat unus peccator cum ambabus tibiis,\
 &emsp;Et ipse tenebat pedum gremitum nervum.
 
-¹³ Del nostro ponte, dïsse: O Malebranche (¹),\
-&emsp;Ecc' un degl' anziani di Sancta Zita (²):\
-&emsp;Mettetel socto, ch'io torno per anche (³)
+13 Del nostro ponte, dïsse: O Malebranche (1),\
+&emsp;Ecc' un degl' anziani di Sancta Zita (2):\
+&emsp;Mettetel socto, ch'io torno per anche (3)
 
-¹³ De nostro ponte, dixit: O Malebranche,\
+13 De nostro ponte, dixit: O Malebranche,\
 &emsp;Ecce unus de antianis Sancte Zite:\
 &emsp;Mictas eum infra, quia ego redeo pro aliis
 
-¹⁴ A quella terra che n'è ben fornita:\
+14 A quella terra che n'è ben fornita:\
 &emsp;Ognun v'è baractier, fuor che Buonturo;\
-&emsp;Del no, per li denar, vi si fa ita (⁴).
+&emsp;Del no, per li denar, vi si fa ita (4).
 
-¹⁴ Ad illam terram que de illis est bene fulsita:\
+14 Ad illam terram que de illis est bene fulsita:\
 &emsp;Quilibet est ibi baractarius, preter Bonturum;\
 &emsp;De non, pro denariis, fit ibi ita.
 
-¹⁵ Laggiù 'l gittò (⁵), e per lo scoglo duro\
+15 Laggiù 'l gittò (5), e per lo scoglo duro\
 &emsp;Si volse, e mai non fu mastino sciolto\
-&emsp;Con tanta fretta a seguitar lo furo (⁶).
+&emsp;Con tanta fretta a seguitar lo furo (6).
 
-¹⁵ Illuc infra eum proiecit, et per scopulum durum\
+15 Illuc infra eum proiecit, et per scopulum durum\
 &emsp;Se volvit, et nunquam fuit mastinus solutus\
 &emsp;Cum tanta festinantia ad persequendum furem.
 
-¹⁶ Quel s'attuffò, e tornò su col volto;\
-&emsp;Ma' dimon (⁷), che del ponte avean coperchio (⁸),\
-&emsp;Gridàr: Qui non ha luogo el Sancto Volto (⁹);
+16 Quel s'attuffò, e tornò su col volto;\
+&emsp;Ma' dimon (7), che del ponte avean coperchio (8),\
+&emsp;Gridàr: Qui non ha luogo el Sancto Volto (9);
 
-¹⁶ Ille se submersit, et redivit sursum cum vultu;\
+16 Ille se submersit, et redivit sursum cum vultu;\
 &emsp;Sed demones, qui de ponte habebant cooperturam,\
 &emsp;Clamaverunt: Hic non habet locum Sanctus Vultus:
 
-(¹) nome d'un altro diavolo. — (²) di Luccha. — (³) per più. — (⁴) si — (⁵) al. buctò. — (⁶) el ladro. — (⁷) le demonia. — (⁸) qui erant sub ponte. — (⁹) da Luccha.
+(1) nome d'un altro diavolo. — (2) di Luccha. — (3) per più. — (4) si — (5) al. buctò. — (6) el ladro. — (7) le demonia. — (8) qui erant sub ponte. — (9) da Luccha.
 
 Cave, cave, me traxit ad se, a loco ubi ego stabam. Tunc me volvi sicut homo, qui tardat videre illud, quod ei convenit, idest quod eum oportet, fugere, et quem timor subitus enervat, sgagliardat, idest impotentem viribus facit, sive exterrit; qui, propter videre, non differt recessum. Et vidi retro nos unum dyabolum nigrum, currendo, super illo scopulo venire.
 
@@ -190,55 +190,55 @@ Ille se submersit et redivit sursum cum vultu; sed demones, qui habebant de pont
 
 <!-- p. 265 (0319) -->
 
-¹⁷ Qui si nuota altrimenti che nel Serchio (¹);\
+17 Qui si nuota altrimenti che nel Serchio (1);\
 &emsp;Però se tu non vuoi de' nostri graffi,\
 &emsp;Non far sopra la pegola soperchio.
 
-¹⁷ Hic nactatur aliter quam in Serchio;\
+17 Hic nactatur aliter quam in Serchio;\
 &emsp;Quare si tu non vis de nostris graffiis,\
 &emsp;Non facias supra picem superfluum.
 
-¹⁸ Poi l'addentâr con più di cento raffi;\
-&emsp;Disser: Coverto (²) convien che tu balli,\
-&emsp;Sì che, se puoi, nascosamente accaffi (³).
+18 Poi l'addentâr con più di cento raffi;\
+&emsp;Disser: Coverto (2) convien che tu balli,\
+&emsp;Sì che, se puoi, nascosamente accaffi (3).
 
-¹⁸ Postmodum addentaverunt eum cum plusquam centum raffis:\
+18 Postmodum addentaverunt eum cum plusquam centum raffis:\
 &emsp;Dixerunt: Cooperte convenit quod hic tripudies,\
 &emsp;Ita quod, si potes, absconsus accaffes.
 
-¹⁹ Non altrimenti e chuochi a'lor vassalli (⁴)\
+19 Non altrimenti e chuochi a'lor vassalli (4)\
 &emsp;Fanno attufar nel mezzo la caldaia\
-&emsp;La carne cogl' uncin, perchè non galli (⁵).
+&emsp;La carne cogl' uncin, perchè non galli (5).
 
-¹⁹ Non aliter coqui suis vasallis\
+19 Non aliter coqui suis vasallis\
 &emsp;Faciunt submergi in medio caldarie\
 &emsp;Carnes cum uncis, ad hoc ut non galle[n]t.
 
-²⁰ Lo buon Maestro (⁶): Acciò che non si paia\
+20 Lo buon Maestro (6): Acciò che non si paia\
 &emsp;Che tu ci sia, mi disse, giù t'agguatta\
 &emsp;Dopp' un scheggion ch' alcun schermo t'haia.
 
-²⁰ Bonus magister: Ad hoc ut non appareat\
+20 Bonus magister: Ad hoc ut non appareat\
 &emsp;Quod tu sis hic, infra te absconde\
 &emsp;Post unum scopulum, quia aliqua offensio te non habeat.
 
-²¹ E per nulla offension che mi sia facta;\
+21 E per nulla offension che mi sia facta;\
 &emsp;Non temer tu, ch'i'ò le cose conte,\
 &emsp;Perch'altre volte fui a tal baracta.
 
-²¹ Et pro nulla offensione que michi fiat,\
+21 Et pro nulla offensione que michi fiat,\
 &emsp;Non timeas tu, quia ego habeo res manifestas,\
 &emsp;Quia alias fui ad talem baractam.
 
-²² Poscia passò di là di cò (⁷) del ponte,\
+22 Poscia passò di là di cò (7) del ponte,\
 &emsp;Ma come giunse in su la ripa sexta,\
 &emsp;Mestier li fu d'aver sicura fronte.
 
-²² Postea transivit ultra caput pontis,\
+22 Postea transivit ultra caput pontis,\
 &emsp;Et quam cito pervenit super ripam sextam,\
 &emsp;Oportuit eum habere securam frontem.
 
-(¹) fiume di Luccha. — (²) sotto la pegola. — (³) pigli e mocholelli, come se' usato nel mondo, vendendo gl'offitii. — (⁴) guatteri. (⁵) vada a galla. — (⁶) disse a me. — (⁷) di capo.
+(1) fiume di Luccha. — (2) sotto la pegola. — (3) pigli e mocholelli, come se' usato nel mondo, vendendo gl'offitii. — (4) guatteri. (5) vada a galla. — (6) disse a me. — (7) di capo.
 
 pontem, clamaverunt: Hic non habet locum Vultus Sanctus.
 
@@ -258,71 +258,71 @@ Nunc vero, per talem comparationem, ostendit auctor, quomodo ab istis demonibus 
 
 <!-- p. 266 (0320) -->
 
-²³ Con quel furor e con quella tempesta\
+23 Con quel furor e con quella tempesta\
 &emsp;Ch' escono e cani addosso al poverello,\
-&emsp;Che di subito chiede (¹) ove s'arresta;
+&emsp;Che di subito chiede (1) ove s'arresta;
 
-²³ Cum illo furore et cum illa tempestate,\
+23 Cum illo furore et cum illa tempestate,\
 &emsp;Quibus exeunt canes contra pauperculum,\
 &emsp;Qui statim querit ubi se restat;
 
-²⁴ Usciron quei (²) di socto al ponticello,\
-&emsp;E volser verso lui (³) tutti e runcigli.\
-&emsp;Ma ei gridò (⁴): Nessun di voi sia fello.
+24 Usciron quei (2) di socto al ponticello,\
+&emsp;E volser verso lui (3) tutti e runcigli.\
+&emsp;Ma ei gridò (4): Nessun di voi sia fello.
 
-²⁴ Exierunt illi extra ponticellum,\
+24 Exierunt illi extra ponticellum,\
 &emsp;Et volverunt contra eum omnes runcos.\
 &emsp;Sed ipse clamabat: Nullus vestrum sit follis.
 
-²⁵ Innanzi che l'uncin vostro mi pigli,\
+25 Innanzi che l'uncin vostro mi pigli,\
 &emsp;Traggasi avanti l'un di voi che m'oda;\
 &emsp;E poi d'arrunciglarmi si consigli.
 
-²⁵ Antequam uncus vester me capiat,\
+25 Antequam uncus vester me capiat,\
 &emsp;Trahat se ante unus vestrum qui me audiat;\
 &emsp;Et postea de runcare me consilium fiat.
 
-²⁶ Tucti gridaron: Vada Malacoda (⁵);\
-&emsp;Perch' un si mosse (⁶), e gl'altri (⁷) stetter fermi;\
+26 Tucti gridaron: Vada Malacoda (5);\
+&emsp;Perch' un si mosse (6), e gl'altri (7) stetter fermi;\
 &emsp;E venne a lui dicendo: Or che gli approda?
 
-²⁶ Omnes clamabant: Vadat Malacoda;\
+26 Omnes clamabant: Vadat Malacoda;\
 &emsp;Quare unus se movit, et alii steterunt firmi;\
 &emsp;Et venit ad eum dicendo: Quid tibi approdat?
 
-²⁷ Credi tu (⁸), Malacoda, qui vedermi\
+27 Credi tu (8), Malacoda, qui vedermi\
 &emsp;Esser venuto, disse 'l mio maestro,\
 &emsp;Sicuro già da tutti vostri schermi,
 
-²⁷ Credis tu, Malacoda, hic videre me\
+27 Credis tu, Malacoda, hic videre me\
 &emsp;Venisse, dixit meus magister,\
 &emsp;Securum iam ab omnibus vestris offensionibus,
 
-²⁸ Senza voler (⁹) divino e fato destro?\
+28 Senza voler (9) divino e fato destro?\
 &emsp;Lascian'andar, chè nel cielo è voluto\
-&emsp;Ch' io mostri altrui (¹⁰) questo cammin silvestro.
+&emsp;Ch' io mostri altrui (10) questo cammin silvestro.
 
-²⁸ Sine velle divino? non est permissum.\
+28 Sine velle divino? non est permissum.\
 &emsp;Permicte nos ire, quia sit voluntas in celo\
 &emsp;Quod ego monstrem alteri istud iter silvestre.
 
-²⁹ Allor li fu l'orgoglo sì caduto,\
+29 Allor li fu l'orgoglo sì caduto,\
 &emsp;Che si lassò cader l'uncino a' piedi,\
-&emsp;E disse (¹¹) agl' altri: Omai non sia feruto.
+&emsp;E disse (11) agl' altri: Omai non sia feruto.
 
-²⁹ Tunc arrogantia ei ita cecidit,\
+29 Tunc arrogantia ei ita cecidit,\
 &emsp;Quod ipse dimisit cadere uncum ad pedes,\
 &emsp;Et dixit aliis: Ammodo non feriatur.
 
-³⁰ E 'l mio maestro (¹²) a me: O tu, che siedi\
+30 E 'l mio maestro (12) a me: O tu, che siedi\
 &emsp;Tra gli scheggion del ponte guatto guatto,\
-&emsp;Sicuramente omai a me ti riedi (¹³).
+&emsp;Sicuramente omai a me ti riedi (13).
 
-³⁰ Et dux meus ad me: O tu, qui sedes\
+30 Et dux meus ad me: O tu, qui sedes\
 &emsp;Intra scopulos absconsus,\
 &emsp;Secure ammodo ad me tu redeas.
 
-(¹) la limosina. — (²) demoni. — (³) Virgilio. — (⁴) Virgilio. — (⁵) nomen demonis. — (⁶) solo Malacoda. — (⁷) tutti. — (⁸) o. — (⁹) al. valor. — (¹⁰) a Dante. — (¹¹) rivolto. — (¹²) disse. — (¹³) ritorna.
+(1) la limosina. — (2) demoni. — (3) Virgilio. — (4) Virgilio. — (5) nomen demonis. — (6) solo Malacoda. — (7) tutti. — (8) o. — (9) al. valor. — (10) a Dante. — (11) rivolto. — (12) disse. — (13) ritorna.
 
 Postea transivit ultra caput, idest summitatem pontis, et quam cito pervenit super ripam sextam, oportuit eum habere securam frontem.
 
@@ -338,71 +338,71 @@ Tunc ei orgoglium, idest arrogantia, ita cecidit, quod ipse dimisit cadere uncum
 
 <!-- p. 267 (0321) -->
 
-³¹ Perch'io mi mossi, et a lui venni rapto;\
+31 Perch'io mi mossi, et a lui venni rapto;\
 &emsp;E' diavoli si fecer tutti avanti,\
-&emsp;Sì ch'io temetti non tenesse[r] (¹) pacto.
+&emsp;Sì ch'io temetti non tenesse[r] (1) pacto.
 
-³¹ Ex quo me movi, et ad eum veni festinus;\
+31 Ex quo me movi, et ad eum veni festinus;\
 &emsp;Et dyaboli fecerunt se omnes ante,\
 &emsp;Ita quod ego timui ne tenerent pacta.
 
-³² Così vidd' io già temer li fanti\
+32 Così vidd' io già temer li fanti\
 &emsp;Ch'usciron patteggiati di Caprona,\
 &emsp;Vedendo sè tra nimici cotanti.
 
-³² Et sic vidi ego iam timere famulos\
+32 Et sic vidi ego iam timere famulos\
 &emsp;Qui exibant cum pactis initis de Caprona,\
 &emsp;Videndo se infra inimicos tot.
 
-³³ Io m'accostai con tutta la persona\
+33 Io m'accostai con tutta la persona\
 &emsp;Lungo 'l mio duca e non torcea gl'ochi\
-&emsp;Da la sembianza (²) lor ch'era non buona (³).
+&emsp;Da la sembianza (2) lor ch'era non buona (3).
 
-³³ Ego me hesi cum tota persona\
+33 Ego me hesi cum tota persona\
 &emsp;Prope meum ducem, et non torquebam oculos\
 &emsp;Ab apparentia ipsorum, que erat non bona.
 
-³⁴ E chinando li graffi (⁴): Vuoi ch'il tochi,\
+34 E chinando li graffi (4): Vuoi ch'il tochi,\
 &emsp;Dicea l'uno all'altro, in sul groppone?\
-&emsp;E rispondean (⁵): Sì, fa che gle l'accochi.
+&emsp;E rispondean (5): Sì, fa che gle l'accochi.
 
-³⁴ Ipsi inclinabant raffos, et: Vis quod ego eum tangam,\
+34 Ipsi inclinabant raffos, et: Vis quod ego eum tangam,\
 &emsp;Dicebat unus cum alio, super dorso?\
 &emsp;Ipsi respondebant: Ita facias quod ei accoches.
 
-³⁵ Ma quel demonio (⁶), che tenea sermone (⁷)\
+35 Ma quel demonio (6), che tenea sermone (7)\
 &emsp;Col duca mio, si volse tutto presto\
-&emsp;Dicendo: Posa, posa (⁸), (⁹) Scarmiglone (¹⁰).
+&emsp;Dicendo: Posa, posa (8), (9) Scarmiglone (10).
 
-³⁵ Sed ille demon, qui tenebat sermonem\
+35 Sed ille demon, qui tenebat sermonem\
 &emsp;Cum duce meo, se volvit totus festinus\
 &emsp;Et dixit: Quiesce, quiesce, Scarmiglione.
 
-³⁶ Poi disse a noi: Più oltre andar per questo\
+36 Poi disse a noi: Più oltre andar per questo\
 &emsp;Scoglo già non si può, però che giace\
 &emsp;Tutto spezzato al fondo l'arco sesto:
 
-³⁶ Postea dixit nobis: Ulterius iri per istum\
+36 Postea dixit nobis: Ulterius iri per istum\
 &emsp;Scopulum non potest, eo quia iacet\
 &emsp;Totus fractus in fundo arcus sextus:
 
-³⁷ E se l'andar avanti pur vi piace,\
+37 E se l'andar avanti pur vi piace,\
 &emsp;Andatevene su per questa grotta;\
 &emsp;Press'a un altro scoglo che via face.
 
-³⁷ Et si ire ante pur vobis placet,\
+37 Et si ire ante pur vobis placet,\
 &emsp;Vadatis super istam gruptam,\
 &emsp;Prope unum alium scopulum qui viam facit.
 
-³⁸ Hieri, più oltre cinqu'hore che quest'otta,\
+38 Hieri, più oltre cinqu'hore che quest'otta,\
 &emsp;Mille dugento con sexanta sei\
-&emsp;Anni fornì (¹¹), che qui la via fu rocta.
+&emsp;Anni fornì (11), che qui la via fu rocta.
 
-³⁸ Heri, magis ultra quinque horis, quam ista hora,\
+38 Heri, magis ultra quinque horis, quam ista hora,\
 &emsp;Mille ducenti cum sexaginta sex\
 &emsp;Anni compleverunt, quod hic via fuit rupta.
 
-(¹) servasser. — (²) apparenza. — (³) ma gattiva. — (⁴) loro. — (⁵) tutti. — (⁶) Malacoda. — (⁷) favellava. — (⁸) sta fermo. — (⁹) o. — (¹⁰) nomen demonis. — (¹¹) al. compiè.
+(1) servasser. — (2) apparenza. — (3) ma gattiva. — (4) loro. — (5) tutti. — (6) Malacoda. — (7) favellava. — (8) sta fermo. — (9) o. — (10) nomen demonis. — (11) al. compiè.
 
 Ex quo me movi, ad eum veni festinus, et dyaboli fecerunt se omnes ante, ita quod ego timui, quod non tenerent pactum. Et sic vidi ego iam timere famulos, qui exibant cum pactis initis de Caprona, castro, videndo se infra inimicos tot.
 
@@ -418,31 +418,31 @@ Heri, magis ultra quinque horis quam ista hora, mille ducenti cum sexaginta sex 
 
 <!-- p. 268 (0322) -->
 
-³⁹ Io mando verso là di questi miei,\
-&emsp;A riguardar s'alcun se ne sciorina (¹):\
+39 Io mando verso là di questi miei,\
+&emsp;A riguardar s'alcun se ne sciorina (1):\
 &emsp;Gite con lor, che non saranno rei.
 
-³⁹ Ego micto versus illam partem de istis meis,\
+39 Ego micto versus illam partem de istis meis,\
 &emsp;Ad revidendum si aliquis se sciorinat:\
 &emsp;Vadatis cum ipsis, quia non erunt vobis nocivi.
 
-⁴⁰ Thra'ti avanti (²), Alychino e (³) Calchabrina,\
-&emsp;Cominciò elli (⁴) a dir, e tu, (⁵) Cagnazzo;\
-&emsp;E Barbariccia guidi la decina (⁶).
+40 Thra'ti avanti (2), Alychino e (3) Calchabrina,\
+&emsp;Cominciò elli (4) a dir, e tu, (5) Cagnazzo;\
+&emsp;E Barbariccia guidi la decina (6).
 
-⁴⁰ Trahas te ante, Alichine et Calcabrine,\
+40 Trahas te ante, Alichine et Calcabrine,\
 &emsp;Incepit ipse dicere, et tu, Cagnazze;\
 &emsp;Et Barbaricia conducat decinam.
 
-⁴¹ Lybicoccho vegn' oltre, e Draghynazzo,\
+41 Lybicoccho vegn' oltre, e Draghynazzo,\
 &emsp;Cyriatto sannuto, e Graffiacane,\
 &emsp;E Farfarello, e Rubicante pazzo.
 
-⁴¹ Libichoccus veniat, et Drag[ag]natius,\
+41 Libichoccus veniat, et Drag[ag]natius,\
 &emsp;Ciriactus sannutus, et Graffiacane,\
 &emsp;Et Farfarellus et Rubicantes pazzus.
 
-(¹) di quelli che son ne la pece. — (²) o. — (³) o. — (⁴) Malacoda. — (⁵) o. — (⁶) dieci demoni.
+(1) di quelli che son ne la pece. — (2) o. — (3) o. — (4) Malacoda. — (5) o. — (6) dieci demoni.
 
 totus iste ternarius verus est, et Malacoda in toto isto ternario dixit verum. Textus fortis est et difficilis valde. Ista verba fuerunt dicta per Malacodam Danti et magistro suo in millesimo tercentesimo, de mense martii et die Sabati sancto, in undecima hora diei. Christus moriebatur in die Veneris sancta, secundum opinionem quam tenet auctor, in meridie. In meridie erat hora sexta (et hic non accipitur hora sexta, in horologio), de mense martii, existenti sole in ariete (dum est equinoctium, est vere meridies); qua hora, ut vult hic auctor, Christus expiravit. Et tunc fuit terremotus generalis, et in tali terremotu ista ruina facta fuit hic in hoc loco Inferni; et tunc fuit fractus arcus pontis sexti. Numera igitur annos a passione Christi usque ad Sabatum Sanctum de mense martii anni domini millesimi tercentesimi, qui sunt mille ducenti sexaginta sex. Istis mille ducentis [sexaginta] sex adde annos, quibus Christus vixit in hoc seculo, qui fuerunt triginta quatuor, sed non completi; scilicet, quia vixit triginta tribus annis et aliquibus mensibus ultra, illi menses plures computantur pro uno anno: et sic punctualiter, a nativitate Christi usque ad illum diem Sabati Sancti, fluxissent anni mille tercenti: a passione vero Christi fluxissent anni mille ducenti sexaginta sex. Tunc sic dicit textus.
 
@@ -456,49 +456,49 @@ Sequitur textus: Trahas te ante, idest venias coram me. Alichine et Calcabrina, 
 
 <!-- p. 269 (0323) -->
 
-⁴² Cercate intorno le boglenti pane;\
+42 Cercate intorno le boglenti pane;\
 &emsp;Costor sien salvi infin all'altro scheggio,\
 &emsp;Che tutto intero va sopra le tane.
 
-⁴² Queratis circum bullientes panas;\
+42 Queratis circum bullientes panas;\
 &emsp;Isti sint salvi usque ad alium scopulum,\
 &emsp;Qui totus integer vadit super tanas.
 
-⁴³ O me! maestro, che è quel ch'io veggio?\
+43 O me! maestro, che è quel ch'io veggio?\
 &emsp;Diss' io, de[h] senza scorta andianci soli,\
-&emsp;Se tu sa'ire, ch'io per me non la cheggio (¹).
+&emsp;Se tu sa'ire, ch'io per me non la cheggio (1).
 
-⁴³ Heu mihi! magister, quid est illud quod video?\
+43 Heu mihi! magister, quid est illud quod video?\
 &emsp;Dixi ego, deh sine scorta vadamus soli,\
 &emsp;Si tu scis ire, quia ego pro me illam non quero.
 
-⁴⁴ Se tu se' sì accorto come suoli,\
+44 Se tu se' sì accorto come suoli,\
 &emsp;Non vedi tu che digrignano e denti,\
 &emsp;E colle cigla ne minaccian duoli?
 
-⁴⁴ Si tu es providus, sicut soles,\
+44 Si tu es providus, sicut soles,\
 &emsp;Non vides tu quod digrignant dentes,\
 &emsp;Et cum superciliis nobis minantur dolores?
 
-⁴⁵ Et elli a me: Non vo'che tu paventi:\
+45 Et elli a me: Non vo'che tu paventi:\
 &emsp;Lassali digrignar pur a lor senno,\
-&emsp;Che fanno ciò per li lesi dolenti (²).
+&emsp;Che fanno ciò per li lesi dolenti (2).
 
-⁴⁵ Et ipse ad me: Volo quod non paveas:\
+45 Et ipse ad me: Volo quod non paveas:\
 &emsp;Permictas eos digrignare pur ad eorum sensum,\
 &emsp;Quia faciunt hoc propter miseros dolentes.
 
-⁴⁶ Per l'argine sinistro volta dienno;\
+46 Per l'argine sinistro volta dienno;\
 &emsp;Ma prim'havea a ciascun la lingua strecta\
 &emsp;Co'denti, verso 'l mio duca per cenno,\
 &emsp;Et elli havean del cul facto trombetta.
 
-⁴⁶ Per aggerem sinistrum voltam dederunt;\
+46 Per aggerem sinistrum voltam dederunt;\
 &emsp;Sed prius habebat quilibet linguam strictam\
 &emsp;Cum dentibus, versus eorum ducem pro cenno,\
 &emsp;Et ille fecerat de ano tubiculam.
 
-(¹) domando. — (²) al. meschin.
+(1) domando. — (2) al. meschin.
 
 Queratis circum bulientes pannas, idest bulientium in pice: isti sint salvi usque ad alium scopulum, qui totus integer vadit super tanas, idest foramina. Et in hoc mentitus est Malacoda; quia ille scopulus non erat integer. Auditis et visis ex nomine istis demonibus, auctor timuit, et merito, quia talia nomina sunt deformia et timorem incutientia. Ideo ribaldi in Ytalia imponunt sibi invicem turpia et terrentia nomina: ut Spogliachristo, idest expolians Christum; Malocompagno, idest malus sotius; Mittifuoco, idest ponens ignem; Magagnato, idest maculatus; Pelabarba, idest pilans barbam; Mostarda dispictato, idest sine pietate: Scaramuscia, idest bellum; Pigliavillani, idest capiens rusticum; Guastallarte, idest destruens artem; Scannacompagno, idest iugulans sotium; et huiusmodi.
 

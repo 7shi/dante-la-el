@@ -8,23 +8,23 @@ In vicesimo capitulo, quod incipit: De nova pena me oportet facere versus, etc.,
 
 # Capitulum Vicesimum
 
-¹ Di nuova pena mi convien far versi,\
+1 Di nuova pena mi convien far versi,\
 &emsp;E dar materia al ventesimo canto\
-&emsp;De la prima canzon (¹), ch'è de' sommersi (²).
+&emsp;De la prima canzon (1), ch'è de' sommersi (2).
 
-¹ De nova pena michi convenit facere versus,\
+1 De nova pena michi convenit facere versus,\
 &emsp;Et dare materiam vicesimo cantui\
 &emsp;Prime cantilene, que est de submersis.
 
-² Io era già disposto tutto quanto\
+2 Io era già disposto tutto quanto\
 &emsp;A riguardar nello scoperto fondo,\
 &emsp;Che si bagnava d'angoscioso pianto:
 
-² Ego eram iam dispositus totus\
+2 Ego eram iam dispositus totus\
 &emsp;Ad respiciendum in discoopertum fundum,\
 &emsp;Qui balneatur angustioso planctu:
 
-(¹) Cantica. — (²) nell' Inferno
+(1) Cantica. — (2) nell' Inferno
 
 De nova pena me oportet facere versus: istud est vicesimum capitulum Inferni, in quo auctor tractat de divinatoribus et auguribus; quod dividitur in quatuor partes. In quarum prima ponitur pena divinatorum in generali. In secunda, que incipit ibi:
 
@@ -44,55 +44,55 @@ Modo vult dicere auctor, quomodo erat totus dispositus, totum suum ingenium adpl
 
 <!-- p. 253 (0307) -->
 
-³ E vidi gente per lo vallon tondo\
+3 E vidi gente per lo vallon tondo\
 &emsp;Venir tacendo e lagrimando, al passo\
-&emsp;Come fanno letane (¹) in questo mondo.
+&emsp;Come fanno letane (1) in questo mondo.
 
-³ Et vidi gentes per vallem rotundam\
+3 Et vidi gentes per vallem rotundam\
 &emsp;Venire tacendo et lacrymando, ad passum,\
 &emsp;Sicut faciunt letanie in isto mundo.
 
-⁴ Come 'l viso mi scese in lor più basso,\
+4 Come 'l viso mi scese in lor più basso,\
 &emsp;Mirabilmente apparve esser travolto\
-&emsp;Ciascun tra 'l mento e 'l principio del casso (²):
+&emsp;Ciascun tra 'l mento e 'l principio del casso (2):
 
-⁴ Sicut visus descendit in eos magis ymus,\
+4 Sicut visus descendit in eos magis ymus,\
 &emsp;Mirabiliter apparuit esse transversum\
 &emsp;Quemlibet intra mentum et principium pectoris.
 
-⁵ Chè da le reni era tornato el volto,\
-&emsp;E indietro venir li convenia (³),\
+5 Chè da le reni era tornato el volto,\
+&emsp;E indietro venir li convenia (3),\
 &emsp;Per che 'l veder dinanzi era lor tolto.
 
-⁵ Quia apud renes redierat vultus,\
+5 Quia apud renes redierat vultus,\
 &emsp;Et retrorsum eis venire conveniebat,\
 &emsp;Quia videre ante erat eis sublatum.
 
-⁶ Forse per forza già di parlisia\
+6 Forse per forza già di parlisia\
 &emsp;Si travolse così alcun del tucto;\
 &emsp;Ma i' nol vidi, nè credo che sia.
 
-⁶ Forte per vim aliquando paralisis\
+6 Forte per vim aliquando paralisis\
 &emsp;Fuit transversus sic aliquis in totum;\
 &emsp;Sed ego non vidi, nec credo quod sit.
 
-⁷ Se Dio ti lassi, lector, prender fructo\
+7 Se Dio ti lassi, lector, prender fructo\
 &emsp;Di questo legger, pensa per te stesso,\
 &emsp;Com'io potea tener lo viso asciucto,
 
-⁷ Si tibi Deus concedat, lector, capere fructum\
+7 Si tibi Deus concedat, lector, capere fructum\
 &emsp;De tua lectione, cogita per te ipsum,\
 &emsp;Quomodo poteram tenere visum siccum,
 
-⁸ Quando la nostra ymagine da presso\
+8 Quando la nostra ymagine da presso\
 &emsp;Vidi sì torta, che 'l pianto degl'ochi\
 &emsp;Le natiche bagnava per lo fesso.
 
-⁸ Quando nostram ymaginem prope\
+8 Quando nostram ymaginem prope\
 &emsp;Vidi ita transversam, quod planctus oculorum\
 &emsp;Nates balneabat per fixuram.
 
-(¹) Litanie. — (²) corpo. — (³) era necessario.
+(1) Litanie. — (2) corpo. — (3) era necessario.
 
 Nunc describere intendit penam divinatorum in generali, que talis est: vadunt enim divinatores per fundum huius vallis lento passu (in circulo superiori currebant velociter) et vadunt gemendo, et ultra hoc, habent facies post terga. Vadunt lente: quia astrologi omnia faciunt secundum puncta previsa, et antequam veniant puncta, nihil facerent. Dicunt astrologi: Non vadas ad bellum, nisi dato tibi puncto; aliud non contrahas pactum cum vendente, vel emente, nisi in tali puncto, si vis ditari. Habent faciem retro: quia voluerunt nimis ultra de futuris videre, voluerunt usurpare ius Dei, ad quem, scilicet Deum, spectat scire futura. Lacrymantur ad passum: idest sicut mutatur passus, ita emictitur lacryma; nec est quasi aliqua ars, in qua artifices tam frequenter decipiantur; et hoc est propter difficultatem calculandi. Sepe astrologi mentiuntur; dicunt falsa: raro verum. Non dico quod ars in se sit falsa; sed astrologi dicunt falsum propter non bene calculare. Est autem etiam nimis difficile bene calculare. Et secundum quod varii astrologi, vel divinatores, plus vel minus, exercuerunt artem in hac vita, tanto plus vel minus, habent faciem retro retortam. Aliqui habent faciem super latus dextrum; aliqui super sinistrum; aliqui totaliter retro per medium schene, sive per medium dorsi a tergo. Hii emictunt lacrymas ex oculis, que descendunt per medium renum a tergo, transeuntes per mediam fixuram natum; et mulieres cooperiunt mammillas cum capillis et coma capillorum, et sic respiciunt retro, quia nimis voluerunt ante videre et ante tempus. Isti vadunt per istam quartam vallem taciti et paullatim, sicut vadunt populi post sacerdotes, qui vadunt cantando letaniam per civitatem et per plateas.
 
@@ -104,63 +104,63 @@ Si Deus concedat tibi, o lector, fructum capere de tua lectione, cogita per te i
 
 <!-- p. 254 (0308) -->
 
-⁹ Cert' io piangea, posato (¹) ad un de'rochi\
-&emsp;Del duro scoglo, sì che la mia scorta (²)\
-&emsp;Mi disse: Ancor se'tu degl'altri sciochi? (³)
+9 Cert' io piangea, posato (1) ad un de'rochi\
+&emsp;Del duro scoglo, sì che la mia scorta (2)\
+&emsp;Mi disse: Ancor se'tu degl'altri sciochi? (3)
 
-⁹ Certe ego plangebam, appodiatus uni ex scopulis\
+9 Certe ego plangebam, appodiatus uni ex scopulis\
 &emsp;Duri saxi, ita quod meus dux\
 &emsp;Michi dixit: Adhuc es tu de aliis insipientibus?
 
-¹⁰ Qui vive la pietà quand'è ben morta.\
+10 Qui vive la pietà quand'è ben morta.\
 &emsp;Chi è più scellerato che colui\
 &emsp;Ch'al iudicio divin compassion porta?
 
-¹⁰ Hic vivit pietas quando est bene mortua.\
+10 Hic vivit pietas quando est bene mortua.\
 &emsp;Quis est magis sceleratus quam ille\
 &emsp;Qui iudicio divino compatitur?
 
-¹¹ Drizza la testa, drizza, disse (⁴), a cui\
+11 Drizza la testa, drizza, disse (4), a cui\
 &emsp;S'aperse a gl'ochi de' Theban la terra,\
 &emsp;Perchè gridavan tutti: Dove rui,
 
-¹¹ Erige caput, erige, et vide illum, cui\
+11 Erige caput, erige, et vide illum, cui\
 &emsp;Aperta fuit ante oculos Thebanorum terra,\
 &emsp;Quare clamabant omnes: Quo ruis,
 
-¹² Amphyarao? perchè lassi la guerra?\
+12 Amphyarao? perchè lassi la guerra?\
 &emsp;E non restò di ruinar a valle\
 &emsp;Fin a Mynos, che ciaschedun afferra.
 
-¹² Amphyrae? quare dimictis guerram?\
+12 Amphyrae? quare dimictis guerram?\
 &emsp;Et non desiit ruere ad vallem\
 &emsp;Usque ad Mynoem, qui quemlibet afficit.
 
-¹³ Mira c'ha facto pecto delle spalle:\
+13 Mira c'ha facto pecto delle spalle:\
 &emsp;Perchè volse veder troppo davante,\
 &emsp;Indietro va e fa retroso calle.
 
-¹³ Respice, quod fecit de pectore spatulas:\
+13 Respice, quod fecit de pectore spatulas:\
 &emsp;Quia voluit videre nimis ante,\
 &emsp;Retro respicit, et facit transversum callem.
 
-¹⁴ Vedi Thyresia, che mutò sembiante (⁵),\
+14 Vedi Thyresia, che mutò sembiante (5),\
 &emsp;Quando di maschio femmina divenne,\
-&emsp;Cambiandosi (⁶) le membra tutte quante;
+&emsp;Cambiandosi (6) le membra tutte quante;
 
-¹⁴ Vide Tyresiam, qui mutavit similitudinem,\
+14 Vide Tyresiam, qui mutavit similitudinem,\
 &emsp;Quando de masculo femina devenit,\
 &emsp;Permutando membra sua omnia.
 
-¹⁵ E prima e poi ribatter li convenne\
+15 E prima e poi ribatter li convenne\
 &emsp;E due serpenti avvolti co' la verga,\
 &emsp;Che rihavesse le maschili penne.
 
-¹⁵ Et prius postea repercutere sibi convenit\
+15 Et prius postea repercutere sibi convenit\
 &emsp;Duos serpentes involutos cum virga,\
 &emsp;Quam rehaberet masculinas pennas.
 
-(¹) al. poggiato. — (²) Virgilio. — (³) stolti. — (⁴) Virgilio a me. — (⁵) costume. — (⁶) al. cangiandosi.
+(1) al. poggiato. — (2) Virgilio. — (3) stolti. — (4) Virgilio a me. — (5) costume. — (6) al. cangiandosi.
 
 Certe, ego plorabam, appodiatus uni ex scopulis duri saxi, ita quod meus dux michi dixit: Adhuc es tu de aliis insipientibus? Nunc vult auctor ostendere, quod non est aliquid, nedum faciendum, sed nec loquendum, quod sit contra iustitiam divinam et ordinationem, asserens tunc esse primum opus, congaudere iustitie divine, quando sic iuste punit, et iniquum sit compati punitis a Deo; ideo dicit: Hic vivit pietas, quando est bene mortua: quis est magis sceleratus, quam ille, qui iudicio divino compatitur? Quasi dicat: Nullus. Cum isti per divinum iudicium sint dampnati ad hanc penam, non debes eis compati quia secundum merita ipsorum et debite sint cruciati, quia hoc est facere contra divinum iudicium. Non videtur quod auctor adhuc tam dure doluerit in aliquibus punctis, sicut facit hic. Sed quare auctor ploraverit hic dolenter? Certe dolet, quia aliquando etiam ipse cepit astrologare, sicut patet in primo capitulo Inferni, in ultimo Purgatorii, et vicesimoseptimo Paradisi. Compatitur etiam Virgilio, qui fuit de talibus magnis astrologis.
 
@@ -174,47 +174,47 @@ Et, prius, postea, repercutere eum oportuit duos serpentes involutos cum virga, 
 
 <!-- p. 255 (0309) -->
 
-¹⁶ Arunthe è quei ch'al ventre li s'atterga (¹),\
-&emsp;Che ne' monti di Luni (²), dove ronca (³)\
+16 Arunthe è quei ch'al ventre li s'atterga (1),\
+&emsp;Che ne' monti di Luni (2), dove ronca (3)\
 &emsp;Lo Carrarese che di sotto alberga,
 
-¹⁶ Aronta est ille qui ad ventrem se attergat,\
+16 Aronta est ille qui ad ventrem se attergat,\
 &emsp;Qui in montibus Luni, ubi roncat\
 &emsp;Cararexe quod inferius hospitatur,
 
-¹⁷ Ebbe tra marmi bianchi la spilonca\
-&emsp;Per sua dimora; ond' a guardar (⁴) le stelle\
-&emsp;E 'l mar non gl'era la veduta tronca (⁵).
+17 Ebbe tra marmi bianchi la spilonca\
+&emsp;Per sua dimora; ond' a guardar (4) le stelle\
+&emsp;E 'l mar non gl'era la veduta tronca (5).
 
-¹⁷ Habuit inter albos marmores speluncam\
+17 Habuit inter albos marmores speluncam\
 &emsp;Pro sua statione; unde ad respiciendum stellas\
 &emsp;Et mare non erat sibi visio truncata.
 
-¹⁸ E quella che ricuopre le mammelle (⁶)\
+18 E quella che ricuopre le mammelle (6)\
 &emsp;Che tu non vedi, co' le trecce sciolte,\
 &emsp;Et ha di là ogni pelosa pelle,
 
-¹⁸ Et illa que recooperit mammas,\
+18 Et illa que recooperit mammas,\
 &emsp;Quas tu non vides, cum crinibus dissolutis,\
 &emsp;Et habet ex alia parte omnem pilosam pellem,
 
-¹⁹ Mantho fu, che cercò per terre molte,\
-&emsp;Poscia si pose là dove nacqu'io (⁷);\
+19 Mantho fu, che cercò per terre molte,\
+&emsp;Poscia si pose là dove nacqu'io (7);\
 &emsp;Ond'un poco mi piace che m'ascolte.
 
-¹⁹ Manto fuit, que perquisivit terras multas,\
+19 Manto fuit, que perquisivit terras multas,\
 &emsp;Postea se posuit ibi ubi ego natus fui;\
 &emsp;Unde uno modico michi placet quod me auscultes.
 
-²⁰ Poscia che 'l padre suo (⁸) di vita uscìo,\
-&emsp;E venne serva la città di Baco (⁹),\
-&emsp;Questa (¹⁰) gran tempo per el mondo gio.
+20 Poscia che 'l padre suo (8) di vita uscìo,\
+&emsp;E venne serva la città di Baco (9),\
+&emsp;Questa (10) gran tempo per el mondo gio.
 
-²⁰ Postea[quam] pater suus ex vita exivit,\
+20 Postea[quam] pater suus ex vita exivit,\
 &emsp;Et devenit serva civitas Bacchi,\
 &emsp;Ista per magnum tempus per mundum ivit.
 
-(¹) al. se li atterga. — (²) città destructa. — (³) divide. — (⁴) considerare. — (⁵) mozza e tolta. — (⁶) poppe. — (⁷) in patria, in qua natus fui. — (⁸) Thyresia sopra detto. — (⁹) Bacho, cioè Thebe. — (¹⁰) Mantho.
+(1) al. se li atterga. — (2) città destructa. — (3) divide. — (4) considerare. — (5) mozza e tolta. — (6) poppe. — (7) in patria, in qua natus fui. — (8) Thyresia sopra detto. — (9) Bacho, cioè Thebe. — (10) Mantho.
 
 reperit duos serpentes coeuntes, quos percussit cum virga; quibus percussis, effectus est femina. Et iterum, alio tempore, illac transiendo, iterum similiter eos reperit, quos etiam similiter percussit; et tunc reasumpsit abitum virilem, et factus est vir masculus. Allegorice Tyresias est tempus, quod sepe efficitur masculus, quando non producit; fit aliquando femina, quando terra producit et generat. Virga Tyresie sunt calor et frigus: quando Tyresia, idest tempus, coniungit calorem et humorem, sicut tempore veris prime, tunc est femina, quia tunc generat res et producit; sed tempore autumnali, tunc est masculus, quia coniunguntur humor et frigus; et tunc terra sterilis est: sic mutantur membra feminina in virilia tempore veris, et e contra; et sic mutationes temporum.
 
@@ -226,63 +226,63 @@ Ubi natus fui ego: ista est tertia pars huius capituli, in qua facit disgression
 
 <!-- p. 256 (0310) -->
 
-²¹ Suso in Italia bella giace un laco\
+21 Suso in Italia bella giace un laco\
 &emsp;A piè dell'Alpe, che serran Lamagna\
 &emsp;Sopra Tiralli, c'ha nome Benaco.
 
-²¹ Superius in Ytalia pulchra iacet unus lacus\
+21 Superius in Ytalia pulchra iacet unus lacus\
 &emsp;Apud montes, qui claudunt Alamaniam\
 &emsp;Supra Tyrallum, et vocatur Benachus.
 
-²² Per mille fonti e più, credo, si bagna\
+22 Per mille fonti e più, credo, si bagna\
 &emsp;Tra Gharda e Valcamonica et Appennino\
 &emsp;Dell'acqua che nel decto laco stagna.
 
-²² Per mille fontes et plures, credo, balneatur,\
+22 Per mille fontes et plures, credo, balneatur,\
 &emsp;Inter Gardam et Valcamonicam et Appenninum\
 &emsp;De aqua que in dicto lacu stagnat.
 
-²³ Luogo è nel mezzo là, dov' il Trentino\
+23 Luogo è nel mezzo là, dov' il Trentino\
 &emsp;Pastore, e quel di Brescia, e 'l Veronese\
 &emsp;Segnar porria, se fesse quel cammino.
 
-²³ Locus est in medio, ubi Tridentinus\
+23 Locus est in medio, ubi Tridentinus\
 &emsp;Pastor, et ille de Brixia, et Veronensis\
 &emsp;Signare posset, si faceret illud iter.
 
-²⁴ Siede Peschiera, forte e bello arnese (¹)\
+24 Siede Peschiera, forte e bello arnese (1)\
 &emsp;Da fronteggiar Bresciani e Bergamaschi,\
-&emsp;Ove la lama (²) intorno più discese.
+&emsp;Ove la lama (2) intorno più discese.
 
-²⁴ Sedet Pischeria, [pulchrum] et forte arnese\
+24 Sedet Pischeria, [pulchrum] et forte arnese\
 &emsp;Ad frontegiandum Brixienses et Pergamenses,\
 &emsp;Unde ripa circum magis descendit.
 
-²⁵ Quivi (³) convien che tutto quanto caschi\
+25 Quivi (3) convien che tutto quanto caschi\
 &emsp;Ciò che 'n grembo a Benaco star non pò,\
 &emsp;E fassi fiume giù per verdi paschi.
 
-²⁵ Ibi convenit quod totum cadat\
+25 Ibi convenit quod totum cadat\
 &emsp;Quidquid Benachi in gremio stare non potest,\
 &emsp;Et fit flumen per diversa pascua.
 
-²⁶ Tosto che l'acqua a correr mette cò (⁴),\
+26 Tosto che l'acqua a correr mette cò (4),\
 &emsp;Non più Benaco, ma Mencio, si chiama\
-&emsp;Fin a Governol, dove cade in Pò (⁵).
+&emsp;Fin a Governol, dove cade in Pò (5).
 
-²⁶ Quam cito ad currendum aqua mictit caput,\
+26 Quam cito ad currendum aqua mictit caput,\
 &emsp;Non plus Benachus, sed Mentius, vocatur\
 &emsp;Usque ad Gubernum, ubi cadit in Padum.
 
-²⁷ Non molto ha corso, che trov'una lama (⁶),\
+27 Non molto ha corso, che trov'una lama (6),\
 &emsp;Nella qual si distende in la paluda,\
-&emsp;E suol di state talhor esser grama (⁷).
+&emsp;E suol di state talhor esser grama (7).
 
-²⁷ Non multum fluit, quod reperit unam lamam,\
+27 Non multum fluit, quod reperit unam lamam,\
 &emsp;In qua se extendit in paludem,\
 &emsp;Et solet in estate aliquando esse grama.
 
-(¹) ornamento. — (²) valle. — (³) al. Ivi. — (⁴) capo. — (⁵) fiume. — (⁶) valle. — (⁷) inferma.
+(1) ornamento. — (2) valle. — (3) al. Ivi. — (4) capo. — (5) fiume. — (6) valle. — (7) inferma.
 
 Volens iam Virgilius describere principium Mantue, dicit, quod in Ytalia iacet unus lacus; et dans confines laci, dicit quod est inter Alpes Apenninas, que claudunt et dividunt Ytaliam ab Alamania et e converso, et super Tyrallum. Tyrallum est unum bonum oppidum, in quo sunt comites, qui dicuntur comites Tyralli. Nomen laci est Benachus (sic vocabatur antiquitus); qui lacus fit et procedit a mille fontibus. Lacus igitur situatur inter Alpes dictas et Gardam (Garda est unum pulcrum castrum comitatus civitatis Verone in littore lacus) et Valcamonicam. Valcamonica est una pulcherrima vallis, in qua sunt plura pulcherrima oppida et castra. In territorio Brixie per mille fontes oritur talis lacus: in medio istius laci est una parva insula [ubi] sunt confines comitatum civitatum Tridenti, Brixie et Veronensis. Verum est quod episcopi non possunt benedicere, signando, nisi in sua diocesi: modo si episcopi tres trium dictarum civitatum essent in illo parvo loco, quilibet posset benedicere, signando, quolibet stante in confine suo. Super istum lacum unum pulchrum oppidum est, quod vocatur Piscaria, unde potest homo intueri territorium Brixie et Bergami. De isto loco, qui est clivior omnium locorum circumdantium lacum, exit aqua de lacu, et fit unum flumen, currens per diversa prata. Et tunc illa aqua, egrediens de lacu, non habet amplius nomen laci, scilicet Benachus, sed vocatur Mentius, usque ad unum castrum, vocatum Gubernum, quod castrum est super ripam Padi, et ibi perdit nomen, ex quo fluit in Padum, maximum fluvium totius Ytalie. Modo fluente isto Me[n]tio a lacu usque ad Gubernum, non multum a longe erat et adhuc est una lama, idest unum pantanum, idest una palus, que multum se extendit et dilatat; tempore estivo efficit malum aierem, idest inficit aierem. Istac transeundo ista Manto, respexit ibi terram incultam et inhabitatam, ut non haberet consortium humanum: illic habitavit et exercuit artes suas magicas: ibi diu vixit, et ibi moriebatur, et sui amore et propter nomen eius vocatur modo civitas Mantue. Hiis dictis, veniamus ad textum.
 
@@ -290,55 +290,55 @@ Superius, in Ytalia pulchra, iacet unus lacus apud Alpes Appennini, que claudunt
 
 <!-- p. 257 (0311) -->
 
-²⁸ Quindi passando la vergine cruda (¹)\
+28 Quindi passando la vergine cruda (1)\
 &emsp;Vidde terra nel mezzo del pantano,\
 &emsp;Senza cultura, e d'habitanti nuda.
 
-²⁸ Illac transeundo illa virgo cruda\
+28 Illac transeundo illa virgo cruda\
 &emsp;Vidit terram in medio paludis,\
 &emsp;Sine cultura et habitantibus nudam.
 
-²⁹ Lì per fuggir ogni consortio humano,\
+29 Lì per fuggir ogni consortio humano,\
 &emsp;Ristette con suo'servi a far sue arti,\
-&emsp;E vixevi, e lassò suo corpo vano (²).
+&emsp;E vixevi, e lassò suo corpo vano (2).
 
-²⁹ Ibi, ut fugeret omne consortium humanum,\
+29 Ibi, ut fugeret omne consortium humanum,\
 &emsp;Stetit cum suis servis ad faciendum suam artem,\
 &emsp;Et vixit, et ibi dimisit suum corpus vanum.
 
-³⁰ Gl'homini poi, che 'ntorno erano sparti,\
+30 Gl'homini poi, che 'ntorno erano sparti,\
 &emsp;S'accolsero a quel luogo, ch'era forte\
 &emsp;Per lo pantan c'havea da tutte parti.
 
-³⁰ Homines postmodum, qui circum erant sparsi,\
+30 Homines postmodum, qui circum erant sparsi,\
 &emsp;Convenerunt ad illum locum, qui erat fortis\
 &emsp;Propter paludem quam habebat ex omnibus partibus.
 
-³¹ Fer la città (³) sopra quell'ossa morte;\
-&emsp;E per colei (⁴), che prima el luogo elesse,\
-&emsp;Mantoa l'appellar (⁵) senz'altra sorte.
+31 Fer la città (3) sopra quell'ossa morte;\
+&emsp;E per colei (4), che prima el luogo elesse,\
+&emsp;Mantoa l'appellar (5) senz'altra sorte.
 
-³¹ Fecerunt civitatem super illa ossa mortua;\
+31 Fecerunt civitatem super illa ossa mortua;\
 &emsp;Et propter illam, que primo locum ellegerat,\
 &emsp;Mantuam appellaverunt sine alia sorte.
 
-³² Già fur le genti sue dentro più spesse,\
-&emsp;Prima (⁶) che la mactia (⁷) di Casalodi\
+32 Già fur le genti sue dentro più spesse,\
+&emsp;Prima (6) che la mactia (7) di Casalodi\
 &emsp;Da Pinamonte inganno ricevesse.
 
-³² Iam fuerunt gentes sue intus spissiores,\
+32 Iam fuerunt gentes sue intus spissiores,\
 &emsp;Priusquam fatuitas illorum de Casalodis\
 &emsp;A Pinamonte deceptionem reciperet.
 
-³³ Però t'assenno, che se tu mai odi\
-&emsp;Originar (⁸) la mia terra (⁹) altrimenti,\
-&emsp;La verità nulla menzogna (¹⁰) frodi (¹¹).
+33 Però t'assenno, che se tu mai odi\
+&emsp;Originar (8) la mia terra (9) altrimenti,\
+&emsp;La verità nulla menzogna (10) frodi (11).
 
-³³ Ideo te moneo, quod si unquam, tu audis\
+33 Ideo te moneo, quod si unquam, tu audis\
 &emsp;Originari meam terram aliter,\
 &emsp;Veritatem nullum mendacium fraudet.
 
-(¹) solitaria. — (²) senza anima. — (³) di Mantova. — (⁴) Mantho. — (⁵) al. la chiamar. — (⁶) dopo, non prima. — (⁷) vel stultitia. — (⁸) narrar la origine. — (⁹) Mantova. — (¹⁰) bugia. — (¹¹) inganni.
+(1) solitaria. — (2) senza anima. — (3) di Mantova. — (4) Mantho. — (5) al. la chiamar. — (6) dopo, non prima. — (7) vel stultitia. — (8) narrar la origine. — (9) Mantova. — (10) bugia. — (11) inganni.
 
 sive paludem facit illam lamam, idest vallem, que desiccatur sepe in estate; et aqua marcet, et facit malum aierem et inficit, et solet in estate aliquando esse grama, idest fetida.
 
@@ -352,63 +352,63 @@ Ideo te assenno, idest moneo, quod si unquam tu audis originari meam terram alit
 
 <!-- p. 258 (0312) -->
 
-³⁴ Et io (¹): Maestro, e tuoi ragionamenti\
+34 Et io (1): Maestro, e tuoi ragionamenti\
 &emsp;Mi son sì certi, e prenden sì mia fede,\
-&emsp;Che gl'altri (²) mi sarian carboni spenti (³).
+&emsp;Che gl'altri (2) mi sarian carboni spenti (3).
 
-³⁴ Et ego: Magister, tua ratiocinia\
+34 Et ego: Magister, tua ratiocinia\
 &emsp;Michi sunt ita certa, et apprehendunt ita meam fidem,\
 &emsp;Quod alia michi essent carbones extincti.
 
-³⁵ Ma dimmi della gente che procede,\
+35 Ma dimmi della gente che procede,\
 &emsp;Se tu ne vedi alcun degno di nota;\
 &emsp;Che solo a ciò la mia mente risiede.
 
-³⁵ Sed dicas michi de gente que procedit,\
+35 Sed dicas michi de gente que procedit,\
 &emsp;Si tu vides aliquem dignum nota;\
 &emsp;Quia solum ad hoc mens mea refertur.
 
-³⁶ Allor mi disse: Quel, che dalla gota\
+36 Allor mi disse: Quel, che dalla gota\
 &emsp;Porge la barba in sulle spalle brune,\
 &emsp;Fu, quando Grecia fu di maschi vota,
 
-³⁶ Tunc dixit michi: Ille, qui a gena\
+36 Tunc dixit michi: Ille, qui a gena\
 &emsp;Porrigit barbam super spatulas nigras,\
 &emsp;Fuit quando Grecia fuit de masculis vacua,
 
-³⁷ Sì ch'apena rimaser per le cune;\
-&emsp;Augur'è, e diede 'l puncto con Calcanta (⁴)\
-&emsp;In Aulyde (⁵) a taglar la prima fune (⁶).
+37 Sì ch'apena rimaser per le cune;\
+&emsp;Augur'è, e diede 'l puncto con Calcanta (4)\
+&emsp;In Aulyde (5) a taglar la prima fune (6).
 
-³⁷ Ita quod vix remanserunt per cunas;\
+37 Ita quod vix remanserunt per cunas;\
 &emsp;Augur est, et dedit punctum cum Calcanta\
 &emsp;In Aulide ad incidendum primum funem.
 
-³⁸ Euripile ebbe nome, e così 'l canta\
-&emsp;L'alta mia tragedya in alcun loco (⁷):\
+38 Euripile ebbe nome, e così 'l canta\
+&emsp;L'alta mia tragedya in alcun loco (7):\
 &emsp;Ben lo sai tu, che la sai tutta quanta.
 
-³⁸ Euripilus fuit vocatus, et sic eum cantat\
+38 Euripilus fuit vocatus, et sic eum cantat\
 &emsp;Alta mea tragedia in aliquo loco:\
 &emsp;Bene hoc scis tu, qui illam scis totam.
 
-³⁹ Quell'altro che ne' fianchi è così poco,\
+39 Quell'altro che ne' fianchi è così poco,\
 &emsp;Michele Schoto fu, che veramente\
 &emsp;De le magyche fraudi seppe 'l g[i]uoco.
 
-³⁹ Ille alter qui in ilibus est ita modicus,\
+39 Ille alter qui in ilibus est ita modicus,\
 &emsp;Michael Scotto fuit, qui vere\
 &emsp;De magicis fraudibus scivit ludum.
 
-⁴⁰ Vedi Guido Bonatti, vedi Asdente,\
-&emsp;Ch'avere atteso (⁸) al chuoio et allo spago\
+40 Vedi Guido Bonatti, vedi Asdente,\
+&emsp;Ch'avere atteso (8) al chuoio et allo spago\
 &emsp;Hora vorrebbe, ma tardi si pente.
 
-⁴⁰ Vide Guidonem de Bonactis, vide Asdentem\
+40 Vide Guidonem de Bonactis, vide Asdentem\
 &emsp;Qui vacasse corio et spachui\
 &emsp;Nunc vellet, sed tarde eum penitet.
 
-(¹) dixi a Virgilio. — (²) ragionamenti. — (³) non accenderebbero mia fede. — (⁴) altro augure. — (⁵) Ysola. — (⁶) de la nave imperiale. — (⁷) in II Eneydos. — (⁸) al. inteso.
+(1) dixi a Virgilio. — (2) ragionamenti. — (3) non accenderebbero mia fede. — (4) altro augure. — (5) Ysola. — (6) de la nave imperiale. — (7) in II Eneydos. — (8) al. inteso.
 
 Ed io: Maiestro. Et ego: Magister, tua ratiocinia michi sunt ita certa, et apprehendunt ita meam fidem, quod alia michi essent carbones extincti; idest nihil essent respectu tuorum.
 
@@ -424,33 +424,33 @@ Vide Guidonem de Bonactis, vide Asdentem, qui vacasse corio et spachui nunc vell
 
 <!-- p. 259 (0313) -->
 
-⁴¹ Vedi le triste che lassaron l'ago,\
+41 Vedi le triste che lassaron l'ago,\
 &emsp;La spuola e 'l fuso, e fecersi divine;\
-&emsp;Fecer malie con herbe e con ymago (¹).
+&emsp;Fecer malie con herbe e con ymago (1).
 
-⁴¹ Vide miseras que dimiserunt acum,\
+41 Vide miseras que dimiserunt acum,\
 &emsp;Spolam et fusum, et fecerunt se divinatrices,\
 &emsp;Fecerunt malefic[i]a cum herbis et cum ymaginibus.
 
-⁴² Ma vienne omai, chè già tiene 'l confine\
-&emsp;D'amendue gl'emisperi, e tocha l'onda (²)\
+42 Ma vienne omai, chè già tiene 'l confine\
+&emsp;D'amendue gl'emisperi, e tocha l'onda (2)\
 &emsp;Sotto Sybilia, Cayno e le spine.
 
-⁴² Sed venias ammodo, quia iam tenet confinia\
+42 Sed venias ammodo, quia iam tenet confinia\
 &emsp;Amborum emispiriorum, et tangit undam\
 &emsp;Sub Sibiliam, Caym et spine.
 
-⁴³ E già hier nocte fu la luna tonda:\
+43 E già hier nocte fu la luna tonda:\
 &emsp;Ben ten de'ricordar, che non ti nocque\
 &emsp;Alcuna volta per la selva fonda.\
 &emsp;Sì mi parlava, et andavamo introcque.
 
-⁴³ Et iam heri de nocte fuit luna rotunda:\
+43 Et iam heri de nocte fuit luna rotunda:\
 &emsp;Bene debes recordari, quod tibi non nocuit\
 &emsp;Aliquando per silvam fundam.\
 &emsp;Sic loquebamur, et ibamus interdum.
 
-(¹) imagini. — (²) l'acqua del mare.
+(1) imagini. — (2) l'acqua del mare.
 
 magnus phisicus, medicus excellens: fecit optimum opus in astrologia, nec reperitur hodie opus melius in astrologia; quam hoc opus suum. Iste fuit astrologus domini comitis Guidonis, comitis Montisferetri, qui tunc erat dominus civitatis Forlivii. Iste Guido stabat in platea civitatis super campanile Sancti Mercurialis; comes Guido stabat armatus et in equo, in platea, et veniente puncto, percutiebat campanam; et tunc comes Guido ibat et semper victoriosus redibat. Asdentes fuit ciardo de Parma, qui solebat suere sotulares et scarpas cum spachu: fuit etiam propheta Frederici. Multi etenim sunt astrologi a natura: hoc sepe visum est in quibusdam mulierculis; unde autem hoc eveniat alibi dicetur.
 

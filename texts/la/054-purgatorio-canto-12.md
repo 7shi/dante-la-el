@@ -8,31 +8,31 @@ In isto duodecimo capitulo, quod incipit: De pari, sice pariter, sicut boves, au
 
 # Capitulum Duodecimum
 
-¹ Di pari, come buoi che vanno a giogo,\
-&emsp;N'andava io con quell'anima (¹) carcha,\
+1 Di pari, come buoi che vanno a giogo,\
+&emsp;N'andava io con quell'anima (1) carcha,\
 &emsp;Fin che 'l sofferse el dolce pedagogo.
 
-¹ De pari, sicut boves qui vadunt ad iugum,\
+1 De pari, sicut boves qui vadunt ad iugum,\
 &emsp;Ibam ego cum illa anima onerata,\
 &emsp;Quousque substulit dulcis pedagogus.
 
-² Ma quando disse: Lassa lui, e varcha,\
+2 Ma quando disse: Lassa lui, e varcha,\
 &emsp;Chè qui è buon co[n] la vela e co' remi,\
 &emsp;Quantunque può ciascun, pinger suo barcha:
 
-² Sed quando dixit: Dimicte eum, et transeas,\
+2 Sed quando dixit: Dimicte eum, et transeas,\
 &emsp;Quia hic est bonum et cum velo et cum remis,\
 &emsp;Quantumcumque potest, quilibet impellat suum barcham;
 
-³ Dritto, sì come andar vuolsi, rifemi\
-&emsp;Co' la persona(²),avvegna ch'e pensieri(³)\
+3 Dritto, sì come andar vuolsi, rifemi\
+&emsp;Co' la persona(2),avvegna ch'e pensieri(3)\
 &emsp;Mi rimanesseno inchinati e scemi.
 
-³ Rectum, sicut iri vult, refeci me\
+3 Rectum, sicut iri vult, refeci me\
 &emsp;Cum persona, quamquam cogitationes\
 &emsp;Michi remanerent inclinate et diminute.
 
-(¹) de Oderisi. — (²) col corpo — (³) l'animo.
+(1) de Oderisi. — (2) col corpo — (3) l'animo.
 
 De pari, sicut boves. De pari, come buoi: istud est capitulum duodecimum istius Purgatorii, in quo auctor dat certam optimam doctrinam ad refrenandum vitium superbie et vanaglorie eius filie. Et dividitur in quatuor partes. In quarum prima auctor ponit suam dispositionem ad illam materiam.
 
@@ -54,55 +54,55 @@ Sed quando dixit: Dimicte eum, scilicet Oderisium, idest non plus vadas ita incl
 
 <!-- p. 557 (0611) -->
 
-⁴ Io m'era mosso, e seguia volentieri\
+4 Io m'era mosso, e seguia volentieri\
 &emsp;Del mio maestro e passi, et amendue\
 &emsp;Già mostravam com'eravàn leggieri;
 
-⁴ Ego me moveram, et sequebar libenter\
+4 Ego me moveram, et sequebar libenter\
 &emsp;Mei magistri passus, et ambo\
 &emsp;Iam monstrabamus sicut eramus leves ;
 
-⁵ Et ei mi disse: Volgi gl'ochi in giue:\
+5 Et ei mi disse: Volgi gl'ochi in giue:\
 &emsp;Buon ti sarà, per tranquillar la via,\
 &emsp;Veder lo lecto delle piante tue.
 
-⁵ Quando michi dixit: Volve oculos infra:\
+5 Quando michi dixit: Volve oculos infra:\
 &emsp;Bonum tibi erit, pro tranquillanda via,\
 &emsp;Videre lectum planctarum tuarum.
 
-⁶ Come, perchè di lor memoria sia,\
+6 Come, perchè di lor memoria sia,\
 &emsp;Sovra e sepolti le tombe terragne\
-&emsp;Portan segnato (¹) quel ch'egl'era pria (²);
+&emsp;Portan segnato (1) quel ch'egl'era pria (2);
 
-⁶ Sicut, ad hoc ut de ipsis memoria sit,\
+6 Sicut, ad hoc ut de ipsis memoria sit,\
 &emsp;Super sepultis tumbe terranee\
 &emsp;Portant signatum id quod prius erat;
 
-⁷ Onde lì (³) molte volte se ne piagne\
+7 Onde lì (3) molte volte se ne piagne\
 &emsp;Per la punctura della rimembranza,\
-&emsp;Che solo a' pii (⁴) dà de le calcagne (⁵);
+&emsp;Che solo a' pii (4) dà de le calcagne (5);
 
-⁷ Unde ibi multoties complangitur\
+7 Unde ibi multoties complangitur\
 &emsp;Propter puncturam recordationis,\
 &emsp;Quod solum piis dat in calcaneis;
 
-⁸ Sì vid'io lì (⁶), ma di miglor sembianza,\
+8 Sì vid'io lì (6), ma di miglor sembianza,\
 &emsp;Secondo l'artificio, figurato\
 &emsp;Quanto per via fuor del monte avanza.
 
-⁸ Sic vidi ego ibi, sed de meliori similitudine,\
+8 Sic vidi ego ibi, sed de meliori similitudine,\
 &emsp;Secundum artificium, figuratum\
 &emsp;Quantum per viam foris montem super est.
 
-⁹ Vedea colui (⁷) che fu nobil creato\
+9 Vedea colui (7) che fu nobil creato\
 &emsp;Più ch'altra creatura, giù dal cielo\
-&emsp;Fulgureggiando scender (⁸) da un lato.
+&emsp;Fulgureggiando scender (8) da un lato.
 
-⁹ Videbam illum qui fuit nobilis creatus\
+9 Videbam illum qui fuit nobilis creatus\
 &emsp;Plusquam alia creatura, sursum de celo ad inf[e]ra\
 &emsp;Fulgurando descendere ab uno latere.
 
-(¹) sculpto e scripto. — (²) ymago cum litteris hic est, etc. — (³) in illo loco. — (⁴) piatosi. — (⁵) stimulando eos ad fletum. — (⁶) in illo pavimento. — (⁷) Lucifero. — (⁸) al. cascar.
+(1) sculpto e scripto. — (2) ymago cum litteris hic est, etc. — (3) in illo loco. — (4) piatosi. — (5) stimulando eos ad fletum. — (6) in illo pavimento. — (7) Lucifero. — (8) al. cascar.
 
 auctor loquitur hic more Aristotelis, qui dicit, quod ratio est pedagogus paxionis, ita quod ratio est talis in refrenando paxiones et sensus, qualis est pedagogus refrenans puerum. Hic dicit auctor, quod est bonum et utile cum omni speculatione promovere ingenium, quod assimilatur navi, sicut fuit dictum in uno preambulorum super Purgatorium; quoniam hic oportet speculari, agere cum ingenio, sicut faciunt naute tempore maris fortune et dum sunt in periculo: nam magna est difficultas deponere onus superbie); rectum, sicut iri vult, refeci me, idest erexi me, cum persona, quamquam cogitationes michi remanerent et inclinata et diminuta, scilicet cogitamina. Rectum me feci: sic enim decet hominem recte incedere, dicente Ovidio, primo Methamorphoseos: Pronaque cum spectent animalia cetera terram, Os homini sublime dedit, celumque videre Iussit [et rectos] ad sidera tollere vultus. Similem sententiam dicit Boetius. Similiter Iuvenalis. Galienus dicit, quod rectitudo arguit nobilitatem. Refeci me, scilicet erexi me, quamquam mens remanserit inclinata, scilicet propter verba que dixerat Oderisius, scilicet quod in brevi experiretur quid esset rogare.
 
@@ -114,39 +114,39 @@ Videbam illum, qui fuit nobilis creatus, alias nobilitatus, plusquam alia creatu
 
 <!-- p. 558 (0612) -->
 
-¹⁰ E vedea Bryareo, ficto (¹) dal telo (²)\
+10 E vedea Bryareo, ficto (1) dal telo (2)\
 &emsp;Celestial, giacer dall'altra parte\
 &emsp;Grave a la terra per lo mortal gielo.
 
-¹⁰ Videbam Bryareum, fixum a telo\
+10 Videbam Bryareum, fixum a telo\
 &emsp;Celestiali, stare ab alia parte,\
 &emsp;Gravem terre propter mortale gelu.
 
-¹¹ Vedea Tymbreo (³), vedea Pallade e Marte,\
-&emsp;Armati ancor, intorno al padre loro (⁴),\
+11 Vedea Tymbreo (3), vedea Pallade e Marte,\
+&emsp;Armati ancor, intorno al padre loro (4),\
 &emsp;Mirar le membra de' Giganti sparte.
 
-¹¹ Videbam Tymbreum, videbam Palladem et Martem,\
+11 Videbam Tymbreum, videbam Palladem et Martem,\
 &emsp;Armatos adhuc, coram patre ipsorum,\
 &emsp;Mirari membra Gigantum sparsa.
 
-¹² Vedea Nebroth a piè del gran lavoro (⁵),\
+12 Vedea Nebroth a piè del gran lavoro (5),\
 &emsp;Quasi smarrito, riguardar le genti\
-&emsp;Che in Semnaar (⁶) con lui superbe foro.
+&emsp;Che in Semnaar (6) con lui superbe foro.
 
-¹² Videbam Nembroth ad pedes magni edificii,\
+12 Videbam Nembroth ad pedes magni edificii,\
 &emsp;Quasi territum, et respicere gentes\
 &emsp;Que in Sennaar cum eo superbe fuerunt.
 
-¹³ O Nyobe, con che ochi dolenti\
-&emsp;Vedea io te segnata (⁷) in sulla strada\
-&emsp;Tra septe (⁸) e septe (⁹) tuo'figliuoli spenti (¹⁰)!
+13 O Nyobe, con che ochi dolenti\
+&emsp;Vedea io te segnata (7) in sulla strada\
+&emsp;Tra septe (8) e septe (9) tuo'figliuoli spenti (10)!
 
-¹³ O Niobe, cum quibus oculis dolentibus\
+13 O Niobe, cum quibus oculis dolentibus\
 &emsp;Videbam ego te signatam super strata\
 &emsp;Inter septem et septem tuos filios extinctos!
 
-(¹) conficto. — (²) Iovis fulmine. — (³) Apolline. — (⁴) Iove — (⁵) Torre Babilonica. — (⁶) campo, vel planitie — (⁷) scolpita. — (⁸) maschi. — (⁹) femmine. — (¹⁰) morti.
+(1) conficto. — (2) Iovis fulmine. — (3) Apolline. — (4) Iove — (5) Torre Babilonica. — (6) campo, vel planitie — (7) scolpita. — (8) maschi. — (9) femmine. — (10) morti.
 
 pars huius capituli, in qua ponuntur exempla superborum, ut alii inducantur ad humilitatem imitandum. Quarum prima est de Lucifero, qui, mox creatus, superbivit contra factorem suum et voluit esse similis Altissimo, quando dixit: In celum conscendam, et super astra celi exaltabo solium meum, et ero similis Altissimo (Ysaye quartodecimo capitulo); qui fuit, fulgurando, de celo expulsus et reclusus in profundo baratri. Cecidit igitur de celo ab uno latere, ab alio emispirio, idest inferiori.
 
@@ -164,39 +164,39 @@ Nota quod istud est aliud exemplum poeticum de superbia. Niobe fuit regina Theba
 
 <!-- p. 559 (0613) -->
 
-¹⁴ O Saul, come in sulla propria spada\
-&emsp;Quivi parevi morto in Gelboe (¹),\
+14 O Saul, come in sulla propria spada\
+&emsp;Quivi parevi morto in Gelboe (1),\
 &emsp;Che da poi non sentì pioggia o rogiada!
 
-¹⁴ O Saul, quomodo super proprio ense\
+14 O Saul, quomodo super proprio ense\
 &emsp;Ibi apparebas mortuus in Gelboe.\
 &emsp;Qui non sensit pluviam postea nec rorem!
 
-¹⁵ O folle Aragne, sì vedea io te\
-&emsp;Già mezzo ragno (²), trista in su li stracci\
-&emsp;Dell'opera (³) che male per te si fe'.
+15 O folle Aragne, sì vedea io te\
+&emsp;Già mezzo ragno (2), trista in su li stracci\
+&emsp;Dell'opera (3) che male per te si fe'.
 
-¹⁵ O follis Aragnes, sic videbam ego te\
+15 O follis Aragnes, sic videbam ego te\
 &emsp;Iam semiaraneam, tristem super stratia\
 &emsp;Opere que male per te fuit facta.
 
-¹⁶ O Roboam (⁴), già non par che minacci\
-&emsp;Quivi el tuo segno (⁵); ma pien di spavento\
-&emsp;Nel porta un carro (⁶), prima ch'altri el cacci.
+16 O Roboam (4), già non par che minacci\
+&emsp;Quivi el tuo segno (5); ma pien di spavento\
+&emsp;Nel porta un carro (6), prima ch'altri el cacci.
 
-¹⁶ O Roboam, iam non apparet quod mineris:\
+16 O Roboam, iam non apparet quod mineris:\
 &emsp;Ibi est tuum signum; sed plenum pavefactione\
 &emsp;Illud portat unus currus, sine quod alius illud impellat.
 
-¹⁷ Mostrava ancor lo duro pavimento,\
-&emsp;Come Almeon (⁷) a sua madre (⁸) fe' caro\
-&emsp;Parer lo sventurato adornamento (⁹).
+17 Mostrava ancor lo duro pavimento,\
+&emsp;Come Almeon (7) a sua madre (8) fe' caro\
+&emsp;Parer lo sventurato adornamento (9).
 
-¹⁷ Mostrabat adhuc durum pavimentum,\
+17 Mostrabat adhuc durum pavimentum,\
 &emsp;Quomodo Almeon sue matri fecit carum\
 &emsp;Apparere infortunatum ornamentum.
 
-(¹) monte. — (²) ragnolo. — (³) de la tela. — (⁴) fili Salomonis. — (⁵) sculptura. — (⁶) fugiendo a decem tribubus Israel. — (⁷) filius Amphyarai. — (⁸) Eryphile. — (⁹) promessoli da Argya, donna di Polinice, figlia d'Adastro.
+(1) monte. — (2) ragnolo. — (3) de la tela. — (4) fili Salomonis. — (5) sculptura. — (6) fugiendo a decem tribubus Israel. — (7) filius Amphyarai. — (8) Eryphile. — (9) promessoli da Argya, donna di Polinice, figlia d'Adastro.
 
 O Saul, quomodo super proprio ense ibi apparebas mortuus in Gelboe, scilicet monte sic dicto, qui non sensit pluviam postea nec rorem. Iste Saul fuit filius Cis, hominis sic dicti, de tribu Beniamin, una tribu Israel; qui Saul custodiebat asinas patris sui, quando Samuel unxit eum regem Israel de precepto Dei. Qui factus rex, statim superbivit in tantum quod ipse presumpsit impedire se de sacerdotio: propter hoc et propter superbiam suam recessit de eo spiritus Domini, et invasit eum spiritus nequam, et agitabat eum. Hic subiugavit sibi multos reges gentium, et vitiosus effectus est; et breviter, vadens contra Phylisteos in montes Gelboe, qui sunt prope montem Libani, fuit conflictus ipse et etiam filius suus Ionatas, et ipse fuit letaliter vulneratus, et ipsemet semetipsum interfecit propter conflictum huiusmodi. Et quia ipse Saul et filii eius et incliti Israel fuerunt interfecti in monte Gelboe, David maledixit illos montes, imprecans ut nec pluvia nec ros unquam descenderet super illos montes; et sic factum est a Domino Deo, et sic illi montes sunt sterilissimi.
 
@@ -210,39 +210,39 @@ Nota quod Amphyrao fuit nobilis augur, et potens, et strenuus in armis; et ipse 
 
 <!-- p. 560 (0614) -->
 
-¹⁸ Mostrava (¹) come e figli si gittaro (²)\
+18 Mostrava (1) come e figli si gittaro (2)\
 &emsp;Sovra Sennacheryb dentro del tempio,\
-&emsp;E come (³) morto lui quivi (⁴) lassaro.
+&emsp;E come (3) morto lui quivi (4) lassaro.
 
-¹⁸ Monstrabat adhuc quomodo filii sagiptarunt\
+18 Monstrabat adhuc quomodo filii sagiptarunt\
 &emsp;Supra Senacharib intra templum,\
 &emsp;Et sicut mortuum ipsum ibi dimiserunt.
 
-¹⁹ Mostrava la ruina e 'l crudo scempio\
-&emsp;Che fe'Thamyri(⁵), quando disse a Cyro(⁶):\
-&emsp;Sangue sitisti, et io di sangue t'empio (⁷).
+19 Mostrava la ruina e 'l crudo scempio\
+&emsp;Che fe'Thamyri(5), quando disse a Cyro(6):\
+&emsp;Sangue sitisti, et io di sangue t'empio (7).
 
-¹⁹ Monstrabat ruinam et grandem scempionem\
-&emsp;Quam fecit Thamir (¹), quando dixit Cyro (²):\
-&emsp;Sanguinem sitisti, et ego sanguine te impleo (³).
+19 Monstrabat ruinam et grandem scempionem\
+&emsp;Quam fecit Thamir (1), quando dixit Cyro (2):\
+&emsp;Sanguinem sitisti, et ego sanguine te impleo (3).
 
-²⁰ Mostrava come in rocta si fuggíro\
-&emsp;Gl'Assyri(⁸), poi che fu morto(⁹)Olopherne,\
-&emsp;Et anco (¹⁰) le reliquie (¹¹) del martiro.
+20 Mostrava come in rocta si fuggíro\
+&emsp;Gl'Assyri(8), poi che fu morto(9)Olopherne,\
+&emsp;Et anco (10) le reliquie (11) del martiro.
 
-²⁰ Monstrabat sicut in ruptam aufugerunt\
-&emsp;Assyrii, postquam fuit mortuus Olofernes (⁴),\
+20 Monstrabat sicut in ruptam aufugerunt\
+&emsp;Assyrii, postquam fuit mortuus Olofernes (4),\
 &emsp;Et adhuc reliquias martyríi.
 
-²¹ Vedeva Troya (¹²) in cenere (¹³) e caverne:\
-&emsp;O Ylion, come te (¹⁴) basso e vile (¹⁵)\
-&emsp;Mostrava el segno (¹⁶) che lí si discerne!
+21 Vedeva Troya (12) in cenere (13) e caverne:\
+&emsp;O Ylion, come te (14) basso e vile (15)\
+&emsp;Mostrava el segno (16) che lí si discerne!
 
-²¹ Videbam Troyam in cinerem et in cavernas:\
+21 Videbam Troyam in cinerem et in cavernas:\
 &emsp;O Ylion, quomodo te bassum et vile\
 &emsp;Monstrabat signum quod ibi discernitur!
 
-(¹) ancor. — (²) assaltandolo. — (³) mostrava — (⁴) in templo. — (⁵) regina Massagetarum. — (⁶) re di Persia. — (⁷) sanguinem sitisti? sanguinem bibe. — (⁸) Assyriorum gentes — (⁹) da Iudith. — (¹⁰) mostrava. — (¹¹) el suo capo taglato. — (¹²) mostrava. — (¹³) redacla. — (¹⁴) Ylion. — (¹⁵) ruinato e scarcato da Greci. — (¹⁶) la sculptura.
+(1) ancor. — (2) assaltandolo. — (3) mostrava — (4) in templo. — (5) regina Massagetarum. — (6) re di Persia. — (7) sanguinem sitisti? sanguinem bibe. — (8) Assyriorum gentes — (9) da Iudith. — (10) mostrava. — (11) el suo capo taglato. — (12) mostrava. — (13) redacla. — (14) Ylion. — (15) ruinato e scarcato da Greci. — (16) la sculptura.
 
 se Amphyrao sic per uxorem propalatum, et duci contra Thebas, ubi putabat pro certo se moriturum, sicut postmodum event, precepit filio suo Almeoni, sic vocato, quod ipse faceret vindictam. Almeon autem, audiens mortem matris, interfecit matrem postmodum suam, quia propalaverat eum, dum latebat. Ideo Almeon apparere matri sue ornamentum illud infelix, duru, quia eam interfecit.
 
@@ -260,63 +260,63 @@ Videbam Troyam in cinerem et in cavernas; o Ylion, quomodo te bassum, idest infi
 
 <!-- p. 561 (0615) -->
 
-²² Qual di pennel (¹) fu 'l maestro o di stile (²),\
+22 Qual di pennel (1) fu 'l maestro o di stile (2),\
 &emsp;Che ritrahesse l'ombre e gl'acti, quivi\
 &emsp;Mirar farebbe ogni 'ngegno sottile.
 
-²² Qualis fuit pennellus magistri vel stilus,\
+22 Qualis fuit pennellus magistri vel stilus,\
 &emsp;Qui retraheret umbras et tractus, qui erant ibi?\
 &emsp;Mirari facerent omne ingenium subtile.
 
-²³ Morti (³) li morti, e' vivi parean vivi:\
-&emsp;Non vide me' (⁴) di me chi vide 'l vero (⁵),\
+23 Morti (3) li morti, e' vivi parean vivi:\
+&emsp;Non vide me' (4) di me chi vide 'l vero (5),\
 &emsp;Quant' io calcai fin che chinato givi.
 
-²³ Mortui mortui, et vivi apparebant vivi:\
+23 Mortui mortui, et vivi apparebant vivi:\
 &emsp;Non vidit melius me qui vidit verum,\
 &emsp;Quantum ego calcavi quousquam inclinatus ivi.
 
-²⁴ Or superbite, e via col viso altero,\
+24 Or superbite, e via col viso altero,\
 &emsp;Figluoli d'Eva, e non chinate il volto,\
-&emsp;Sì che veggiate el vostro mal sentiero (⁶).
+&emsp;Sì che veggiate el vostro mal sentiero (6).
 
-²⁴ Superbite, igitur, et ultra cum visu altero,\
+24 Superbite, igitur, et ultra cum visu altero,\
 &emsp;Fili Eve, et non inclinetis visum,\
 &emsp;Ita quod videatis vestram viam malam semitam.
 
-²⁵ Più era già ver noi del monte volto,\
+25 Più era già ver noi del monte volto,\
 &emsp;E del cammin del sole assai più speso,\
 &emsp;Che non stimava l'animo non sciolto;
 
-²⁵ Plus erat iam de monte circuitum,\
+25 Plus erat iam de monte circuitum,\
 &emsp;Et de itinere solis satis plus expensum,\
 &emsp;Quam extimaret animus non solutus;
 
-²⁶ Quando colui che sempre innanzi atteso\
+26 Quando colui che sempre innanzi atteso\
 &emsp;Andava, cominciò: Drizza la testa;\
 &emsp;Non è più tempo d'ire sì sospeso.
 
-²⁶ Quum ille qui semper ante attentus\
+26 Quum ille qui semper ante attentus\
 &emsp;Ibat, incepit: Erige caput;\
 &emsp;Non est plus tempus ire sic suspensus.
 
-²⁷ Vedi colà un angel che s'appresta\
+27 Vedi colà un angel che s'appresta\
 &emsp;Per venir verso noi: vedi che torna\
 &emsp;Dal servigio del dì l'ancilla sexta.
 
-²⁷ Vide illic unum angelum qui se aprestat\
+27 Vide illic unum angelum qui se aprestat\
 &emsp;Pro veniendo versus nos: vide quod revertitur\
 &emsp;A servitio [diei] ancilla sexta.
 
-²⁸ Di riverenza el viso e gl'atti adorna (⁷),\
+28 Di riverenza el viso e gl'atti adorna (7),\
 &emsp;Sì ch'ei dilecti lo 'nviarci in suso:\
 &emsp;Pensa che questo dì mai non raggiorna.
 
-²⁸ De reverentia visum et actus orna,\
+28 De reverentia visum et actus orna,\
 &emsp;Ita quod eum delectet inviare nos sursum:\
 &emsp;Cogita quod iste dies nunquam regiornat.
 
-(¹) di pinctura. — (²) di sculptura. — (³) parean. — (⁴) meglo. — (⁵) di queste hystorie. — (⁶) via com' io vidi quella segnata di tanti casi di superbi. — (⁷) tu Dante.
+(1) di pinctura. — (2) di sculptura. — (3) parean. — (4) meglo. — (5) di queste hystorie. — (6) via com' io vidi quella segnata di tanti casi di superbi. — (7) tu Dante.
 
 Qualis fuit pennellus magistri, vel stilus, qui retraheret umbras et tractus, qui erant ibi? idest qualis magister, scilicet fuit, qui cum pennello, vel stilo, unquam retraxerat! Mirari facerent omne ingenium subtile. Idest nunquam fuit pictor, qui faceret ita pulchras ymagines.
 
@@ -332,71 +332,71 @@ De reverentia visum et actum orna, ita quod eum, scilicet delectet, inviare nos 
 
 <!-- p. 562 (0616) -->
 
-²⁹ Io era ben del suo ammonir uso,\
+29 Io era ben del suo ammonir uso,\
 &emsp;Pur di non perder tempo, sì che in quella\
 &emsp;Materia non potea parlarmi chiuso.
 
-²⁹ Ego eram bene de sua admonitione usus,\
+29 Ego eram bene de sua admonitione usus,\
 &emsp;Solum de non perdere tempus, ita quod in illa\
 &emsp;Materia non poterat michi loqui clausum.
 
-³⁰ A noi venia la creatura bella\
-&emsp;Bianco vestita, e (¹) ne la faccia quale\
+30 A noi venia la creatura bella\
+&emsp;Bianco vestita, e (1) ne la faccia quale\
 &emsp;Par tremolando mattutina stella.
 
-³⁰ Ad nos veniebat creatura pulchra\
+30 Ad nos veniebat creatura pulchra\
 &emsp;Albo induta, et in facie qualis\
 &emsp;Apparet tremulando matutina stella.
 
-³¹ Le braccia aperse, et indi aperse l'hale;\
+31 Le braccia aperse, et indi aperse l'hale;\
 &emsp;Disse: Venite; qui son presso e gradi,\
 &emsp;Et agevolmente omai si sale.
 
-³¹ Brachia aperuit, et inde aperuit alas;\
+31 Brachia aperuit, et inde aperuit alas;\
 &emsp;Dixit: Venite; huc sunt prope gradus,\
 &emsp;Et agiliter ammodo ascenditur.
 
-³² A questo annuntio vengon molto radi:\
+32 A questo annuntio vengon molto radi:\
 &emsp;O gente humana, per volar su nata,\
 &emsp;Perchè a poco vento così cadi?
 
-³² Ad hanc annuntiationem veniunt multi rari:\
+32 Ad hanc annuntiationem veniunt multi rari:\
 &emsp;O gens humana, pro volando sursum nata,\
 &emsp;Quare ad paucum tempus ita cadis!
 
-³³ Menocci ove la roccia era taglata;\
+33 Menocci ove la roccia era taglata;\
 &emsp;Bactemmi quivi l'hale per la fronte,\
 &emsp;Poi mi promise sicura l'andata.
 
-³³ Duxit nos ubi rupes erat scissa;\
+33 Duxit nos ubi rupes erat scissa;\
 &emsp;Ibi michi percussit cum alis frontem,\
 &emsp;Postmodum michi promisit securum introytum.
 
-³⁴ Come a man dextra, per salir al monte,\
-&emsp;Dove siede la chiesa (²) che soggioga\
-&emsp;La ben guidata (³) sopra Rubaconte,
+34 Come a man dextra, per salir al monte,\
+&emsp;Dove siede la chiesa (2) che soggioga\
+&emsp;La ben guidata (3) sopra Rubaconte,
 
-³⁴ Sicut ad manum dexteram, pro ascendendo montem,\
+34 Sicut ad manum dexteram, pro ascendendo montem,\
 &emsp;Ubi sedet ecclesia que subiugat\
 &emsp;Bene conductam supra Rubacontem,
 
-³⁵ Si rompe del montar l'ardita foga,\
+35 Si rompe del montar l'ardita foga,\
 &emsp;Per le scalee che si fer ad etade\
 &emsp;Ch'era sicuro el quaderno e la doga;
 
-³⁵ Rumpitur propter ascensum audax fuga,\
+35 Rumpitur propter ascensum audax fuga,\
 &emsp;Per scalas que facte fuerunt ad etatem\
 &emsp;Qua erat securus quaternus et doga;
 
-³⁶ Così s'allenta la ripa che cade\
+36 Così s'allenta la ripa che cade\
 &emsp;Quivi ben rapta da l'altro girone:\
 &emsp;Ma quinci e quindi l'altra pietra rade.
 
-³⁶ Sic allentatur ripa que cadit\
+36 Sic allentatur ripa que cadit\
 &emsp;Ibi bene ratta in alium gyronem:\
 &emsp;Sed hinc et inde alta petra radit.
 
-(¹) venia. — (²) di San Miniato. — (³) hyronice Firenze.
+(1) venia. — (2) di San Miniato. — (3) hyronice Firenze.
 
 Ego eram bene de sua admonitione usus, idest consuetus, solum de non perdere tempus, ita quod [in] illa materia non poterat michi loqui clausum, idest obscure.
 
@@ -412,63 +412,63 @@ Sicut ad manum dextram, pro ascendendo ad montem, ubi sedet, scilicet Sancti Min
 
 <!-- p. 563 (0617) -->
 
-³⁷ Poi volgemo ivi le nostre persone,\
+37 Poi volgemo ivi le nostre persone,\
 &emsp;Beati pauperes spiritu, voci\
 &emsp;Cantaron sì che nol diria sermone.
 
-³⁷ Nos volvimus nostras personas,\
+37 Nos volvimus nostras personas,\
 &emsp;Et: Beati pauperes spiritu, voces\
 &emsp;Cantarunt ita, quod id non diceret sermo.
 
-³⁸ Hay! quanto son diverse quelle voci\
+38 Hay! quanto son diverse quelle voci\
 &emsp;Dall'infernali; chè quivi per canti\
 &emsp;S'entra, e laggiù per lamenti feroci.
 
-³⁸ Ay! quantum sunt diverse ille voces\
+38 Ay! quantum sunt diverse ille voces\
 &emsp;Ab infernalibus, quas ibi per cantus\
 &emsp;Sentiebam, et ibi infra per lamenta ferocia.
 
-³⁹ Già montavàn su per li scaglon sancti,\
+39 Già montavàn su per li scaglon sancti,\
 &emsp;Et esser mi parea troppo pur lieve,\
 &emsp;Che per lo pian non mi parea davanti;
 
-³⁹ Iam ascendebamus super scalas sanctas,\
+39 Iam ascendebamus super scalas sanctas,\
 &emsp;Et esse michi apparebat magis levis,\
 &emsp;Quam per planum michi non apparebat ante;
 
-⁴⁰ Ond'io (¹): Maestro, di' (²), qual cosa greve\
+40 Ond'io (1): Maestro, di' (2), qual cosa greve\
 &emsp;Levata s'è da me, che nulla quasi\
 &emsp;Per me fatica andando si riceve?
 
-⁴⁰ Unde ego: Magister, dicas, qualis res gravis\
+40 Unde ego: Magister, dicas, qualis res gravis\
 &emsp;Elevata est a me, quod nihil quasi\
 &emsp;Per me laboris eundo recipitur?
 
-⁴¹ Rispose: Quando e P (³), che son rimasi\
+41 Rispose: Quando e P (3), che son rimasi\
 &emsp;Ancor nel volto tuo presso che stincti,\
 &emsp;Saranno, come l'un, del tutto rasi,
 
-⁴¹ Respondit: Quando alia P, que remanserunt\
+41 Respondit: Quando alia P, que remanserunt\
 &emsp;Adhuc in vultu tuo prope extincta,\
 &emsp;Erunt, sicut iam unum, in totum rasa,
 
-⁴² Fien li tuoi piè dal buon voler sì vincti,\
+42 Fien li tuoi piè dal buon voler sì vincti,\
 &emsp;Che non pur non fatica sentiranno,\
 &emsp;Ma fie dilecto lor esser su pincti.
 
-⁴² Erunt tui pedes a bono velle ita vincti,\
+42 Erunt tui pedes a bono velle ita vincti,\
 &emsp;Quod non solum laborem non sentient,\
 &emsp;Sed erit delectatio eis ire sursum.
 
-⁴³ Allor fec'io come color che vanno\
+43 Allor fec'io come color che vanno\
 &emsp;Con cosa in capo, non da lor saputa,\
 &emsp;Se non ch'e cenni altrui sospicciar fanno;
 
-⁴³ Tune feci ego sicut illi qui vadunt\
+43 Tune feci ego sicut illi qui vadunt\
 &emsp;Cum re in capite ab eis ignota,\
 &emsp;Nisi quod signa aliorum suspicari faciunt;
 
-(¹) dissi. — (²) dicas. — (³) Il testo ha piè.
+(1) dissi. — (2) dicas. — (3) Il testo ha piè.
 
 et doga. De securo quaterno dicit, quia tunc temporis, quando erant facte iste scale, erant mercatores boni et fideles, et non extrahebant aliquas cartas de quaternis eorum, in quibus scribuntur rationes eorum. Sed quidam mercator florentinus habebat quaternos, et ad decipiendum alios extraxit aliquas cartas de quaterno, et hoc fuit tempore Dantis, quo multa mala commissa sunt in Florentia. De doga, nota quod fit de ligno una mensura que vocatur sextarius, quo mensuratur frumentum et ligumina. Unus officialis de Florentia, qui erat de Chiaramontibus, extraxit unam dogam de sextario ad vendendum cum minori mensura frumentum: tamen, quando hoc factum fuit, cito fuit scitum, et ille officialis fuit decapitatus. Vult dicere auctor, quod erant meliores homines in Florentia, et melius regebatur ipsa civitas, quando fuerunt facte iste scale, quam tempore suo, idest auctoris.
 
@@ -490,25 +490,25 @@ Tune feci ego sicut illi qui vadunt cum re, scilicet aliqua, in capite, ab eis i
 
 <!-- p. 564 (0618) -->
 
-⁴⁴ Perchè la mano ad accerchiar (¹) s'aiuta,\
+44 Perchè la mano ad accerchiar (1) s'aiuta,\
 &emsp;E cerca e trova, e quell' offitio adempie\
 &emsp;Che non si può fornir per la veduta;
 
-⁴⁴ Propter quod manus ad accertandum se adiuvant,\
+44 Propter quod manus ad accertandum se adiuvant,\
 &emsp;Et querunt et inveniunt, et illud officium adimplent\
 &emsp;Quod non potest fulciri cum visione;
 
-⁴⁵ E con le dita de la dextra scempie\
-&emsp;Trovai pur (²) sei le lectere (³), che 'ncise\
-&emsp;Quel (⁴) de le chiavi a me sopra le tempie.\
+45 E con le dita de la dextra scempie\
+&emsp;Trovai pur (2) sei le lectere (3), che 'ncise\
+&emsp;Quel (4) de le chiavi a me sopra le tempie.\
 &emsp;A che guardando el mio duca sorrise.
 
-⁴⁵ Et cum digitis dextre simplicibus\
+45 Et cum digitis dextre simplicibus\
 &emsp;Reperi solum sex litteras, quas incisit\
 &emsp;Ille de clavibus michi super tympora:\
 &emsp;Ad quod respiciendo meus dux subrisit.
 
-(¹) a rivoltar intorno. — (²) di septe. — (³) li P. — (⁴) angelo.
+(1) a rivoltar intorno. — (2) di septe. — (3) li P. — (4) angelo.
 
 rem esse in capite suo, et non scitur ab eis; propter quod manus ad accertandum se adiuvant, et querunt et inveniunt, et illud officium adimplent, quod non potest fulciri, idest adimpleri, cum visione, idest cum oculis; et cum digitis dextre simplicibus reperi solum sex litteras, quas incisit, idest inscripsit, ille de clavibus, scilicet angelus, michi super tympora, idest super genas; ad quod, respiciendo, meus dux subrisit. In isto capitulo posita sunt exempla superborum, ut alii, casibus eorum, addiscant, non superbire, sed humiliari.
 

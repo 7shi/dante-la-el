@@ -12,11 +12,11 @@ nec ego sum ligatus a Mynoi; ideo bene possumus ire per has vias: hic querit lib
 
 # Capitulum Primum
 
-¹ Per correr meglior acqua alza le vele\
+1 Per correr meglior acqua alza le vele\
 &emsp;Omai la navicella del mio ingegno,\
 &emsp;Che lassa dietro a sè mar sì crudele.
 
-¹ Propter currere meliorem aquam elevat vela\
+1 Propter currere meliorem aquam elevat vela\
 &emsp;Ammodo navicula mei ingenii,\
 &emsp;Que dimictit retro se mare tam crudele.
 
@@ -52,47 +52,47 @@ que iustitia terret considerantes ipsam. Secunda aqua est melior, in qua fulget 
 
 <!-- p. 436 (0490) -->
 
-² E canterò di quel secondo regno,\
+2 E canterò di quel secondo regno,\
 &emsp;Dove l'humano spirito si purga,\
 &emsp;E del salir al ciel doventa degno.
 
-² Et cantabo de illo secundo regno,\
+2 Et cantabo de illo secundo regno,\
 &emsp;Ubi humanus spiritus purgatur,\
 &emsp;Et ascendendi in celum devenít dignus.
 
-³ Ma qui la morta poesya resurga,\
+3 Ma qui la morta poesya resurga,\
 &emsp;O sancte Muse, poi che vostro sono,\
 &emsp;E qui Calyope alquanto surga,
 
-³ Sed hic mortua poesis resurgat,\
+3 Sed hic mortua poesis resurgat,\
 &emsp;O sancte Muse, ex quo vester sum,\
 &emsp;Et hic Calliope aliquantulum surgat,
 
-⁴ Seguitando 'l mio canto con quel sono\
+4 Seguitando 'l mio canto con quel sono\
 &emsp;Di cui le Piche misere sentiro\
-&emsp;Lo colpo tal, che desperar (¹) perdono.
+&emsp;Lo colpo tal, che desperar (1) perdono.
 
-⁴ Sequendo meum cantum cum illo sono\
+4 Sequendo meum cantum cum illo sono\
 &emsp;De quo Pice misere senserunt\
 &emsp;Ictum mortalem, quod desperaverunt remissionem.
 
-⁵ Dolce color d'oriental zaphiro,\
+5 Dolce color d'oriental zaphiro,\
 &emsp;Che s'accogleva nel sereno aspecto\
 &emsp;Dal mezzo puro infin al primo giro,
 
-⁵ Dulcis color orientalis zaphiri,\
+5 Dulcis color orientalis zaphiri,\
 &emsp;Qui colligebatur in sereno aspectu\
 &emsp;Aeris puri usque ad primum girum,
 
-⁶ Agl'ochi miei ricominciò dilecto,\
+6 Agl'ochi miei ricominciò dilecto,\
 &emsp;Tosto che fuor uscii dell'aura morta,\
 &emsp;Che m'havea contristati gl'ochi e'l pecto.
 
-⁶ Oculis meis reincepit delectationem,\
+6 Oculis meis reincepit delectationem,\
 &emsp;Statim quod ego fui extra auram mortuam,\
 &emsp;Que michi tristari fecit oculos et pectus.
 
-(¹) desperarono.
+(1) desperarono.
 
 Et cantabo de illo secundo regno (ecce auctor aperit materiam, de qua vult loqui), ubi humanus spiritus purgatur et ascendendi in celum devenit, idest efficitur, dignus. Indignum etenim esset, quod res turpis, impura, sordida, et maculata, intraret, et staret in loco purissimo; ideo, si res est impura, oportet eam primo purgari, antequam vadat ad locum promissum. Dicit Aristotiles in libro de Pomo: Anima, que peccaverit et non fuerit purgata, nunquam redibit ad Creatorem suum. Idem dixit Pitagoras: idem dixit Plato.
 
@@ -104,55 +104,55 @@ Dulcis color orientalis zaphiri colligebatur in sereno aspectu aieris puri usque
 
 <!-- p. 437 (0491) -->
 
-⁷ Lo bel pianeto che ad amor conforta,\
+7 Lo bel pianeto che ad amor conforta,\
 &emsp;Faceva tucto rider l'Oriente,\
 &emsp;Velando e Pesci ch'erano in sua scorta.
 
-⁷ Pulcher planeta qui ad amandum confortat,\
+7 Pulcher planeta qui ad amandum confortat,\
 &emsp;Faciebat ridere totum Orientem,\
 &emsp;Velando Pisces qui erant in sua scorta.
 
-⁸ Io mi volsi a man dextra, e posi mente\
+8 Io mi volsi a man dextra, e posi mente\
 &emsp;A l'altro polo, e vidi quattro stelle\
 &emsp;Non viste mai fuor ch'a la prima gente,
 
-⁸ Ego me volvi ad manum dextram, et posui mentem\
+8 Ego me volvi ad manum dextram, et posui mentem\
 &emsp;Ad alium polum, et vidi quatuor stellas\
 &emsp;Non visas unquam preter quam a prima gente.
 
-⁹ Goder pareva el ciel di lor fiammelle.\
+9 Goder pareva el ciel di lor fiammelle.\
 &emsp;O septentrional vedovo sito,\
 &emsp;Poi che privato se' di veder quelle!
 
-⁹ Gaudere videbatur celum de illis flammellis.\
+9 Gaudere videbatur celum de illis flammellis.\
 &emsp;O septemtrionalem viduum situm,\
 &emsp;Postquam privatus es videre illas!
 
-¹⁰ Com'io dal loro sguardo fui partito,\
+10 Com'io dal loro sguardo fui partito,\
 &emsp;Un poco me volgendo all'altro polo,\
 &emsp;Là onde 'l carro già era sparito;
 
-¹⁰ Quam cito ab earum aspectu ego discessi,\
+10 Quam cito ab earum aspectu ego discessi,\
 &emsp;Aliquantulum me volvendo ad alium polum,\
 &emsp;Unde currus iam disparuerat;
 
-¹¹ Vidi presso di me un veglo (¹) solo,\
+11 Vidi presso di me un veglo (1) solo,\
 &emsp;Degno di tanta reverenza in vista,\
 &emsp;Che più non de' a padre alcun figluolo.
 
-¹¹ Vidi prope me unum vetus solum,\
+11 Vidi prope me unum vetus solum,\
 &emsp;Dignum tanta reverentia in aspectu,\
 &emsp;Qua maior non debetur patri ab aliquo filio.
 
-¹² Lunga la barba e di pel bianco mista\
+12 Lunga la barba e di pel bianco mista\
 &emsp;Portava, a' suoi capelli simiglante,\
 &emsp;De' quai cadeva al pecto doppia lista.
 
-¹² Longam barbam et pilo albo mixtam\
+12 Longam barbam et pilo albo mixtam\
 &emsp;Portabat, suos capillos similiter,\
 &emsp;De quibus cadebat ad pectus dupla lixta.
 
-(¹) Vecchio.
+(1) Vecchio.
 
 extra auram mortuam, idest infernalem, que michi tristari fecerat oculos et pectus: nam aura Inferni conturbaverat sibi oculos, sicut sepe finxit in Inferno.
 
@@ -170,71 +170,71 @@ Longam barbam et pilo albo mixtam portabat; suos capillos similiter, de quibus c
 
 <!-- p. 438 (0492) -->
 
-¹³ Li raggi de le quattro luci sante\
+13 Li raggi de le quattro luci sante\
 &emsp;Fregiavan sì la sua faccia di lume,\
 &emsp;Ch'i' 'l vedea come 'l sol fusse davante.
 
-¹³ Radii illius quadruplicis lucis sancte\
+13 Radii illius quadruplicis lucis sancte\
 &emsp;Ornabant ita faciem suam lumine,\
 &emsp;Quod ego eum videbam ac si sol esset ante.
 
-¹⁴ Chi sète voi, che 'ncontra al cieco fiume\
+14 Chi sète voi, che 'ncontra al cieco fiume\
 &emsp;Fuggit' havete la pregion eterna?\
-&emsp;Diss'ei (¹), movendo quelle honeste piume.
+&emsp;Diss'ei (1), movendo quelle honeste piume.
 
-¹⁴ Qui estis vos, qui contra cecum flumen\
+14 Qui estis vos, qui contra cecum flumen\
 &emsp;Fugistis carcerem eternum?\
 &emsp;Dixit ille, movendo illas honestas plumas.
 
-¹⁵ Chi v'à guidati? o che vi fu lucerna,\
+15 Chi v'à guidati? o che vi fu lucerna,\
 &emsp;Uscendo fuor de la profonda nocte\
 &emsp;Che sempre nera fa la valle inferna?
 
-¹⁵ Quis vos conduxit? quis fuit vobis lucerna,\
+15 Quis vos conduxit? quis fuit vobis lucerna,\
 &emsp;Excundo extra de profunda nocte\
 &emsp;Qui semper obscuram facit vallem infernam?
 
-¹⁶ Son le leggi d'abisso così rocte?\
+16 Son le leggi d'abisso così rocte?\
 &emsp;O è mutato in ciel nuovo consiglio,\
 &emsp;Che dannati venite a le mie grocte?
 
-¹⁶ Sunt leges abyssi ita rupte?\
+16 Sunt leges abyssi ita rupte?\
 &emsp;Vel est mutatum in celum novum consilium,\
 &emsp;Quod dampnati venitis ad meas gruptas?
 
-¹⁷ Lo duca mio allor mi diè di piglo,\
+17 Lo duca mio allor mi diè di piglo,\
 &emsp;E con parole e con mani e con cenni,\
 &emsp;Riverenti mi fe' le gambe e 'l ciglo.
 
-¹⁷ Dux meus tunc me cepit,\
+17 Dux meus tunc me cepit,\
 &emsp;Et cum verbis, cum manibus et cum cennis,\
 &emsp;Reverentia michi fecit crura et supercilia.
 
-¹⁸ Poscia rispose a lui: Da me non venni.\
+18 Poscia rispose a lui: Da me non venni.\
 &emsp;Donna scese dal ciel, per li cui preghi\
 &emsp;De la mia compagnia costui sovvenni.
 
-¹⁸ Postea respondit ad eum: A me non veni.\
+18 Postea respondit ad eum: A me non veni.\
 &emsp;Domina descendit de celo, propter cuius preces\
 &emsp;De mea societate isti subveni.
 
-¹⁹ Ma da che è tuo voler che più si spieghi\
+19 Ma da che è tuo voler che più si spieghi\
 &emsp;Di nostra condiction, com'ell'è vera,\
-&emsp;Esser non può che 'l mio (²) a te si nieghi.
+&emsp;Esser non può che 'l mio (2) a te si nieghi.
 
-¹⁹ Sed quia tuum velle est quod plus explicetur\
+19 Sed quia tuum velle est quod plus explicetur\
 &emsp;De nostra conditione, qualiter ipsa est vera,\
 &emsp;Esse non potest quod meum tibi denegatur.
 
-²⁰ Questi (³) non vide mai l'ultima sera,\
+20 Questi (3) non vide mai l'ultima sera,\
 &emsp;Ma per la sua follia le fu sì presso,\
 &emsp;Che molto poco tempo a volger era.
 
-²⁰ Iste non vidit unquam ultimum sero,\
+20 Iste non vidit unquam ultimum sero,\
 &emsp;Sed propter suos defectus fuit illi ita propinquus,\
 &emsp;Quod multo paucum tempus ad volvendum erat.
 
-(¹) al. diss' el. — (²) volere. — (³) costui.
+(1) al. diss' el. — (2) volere. — (3) costui.
 
 Radii illius quadruplicis lucis sancte frixiabant, idest irradiabant, vel ornabant, ita suam faciem lumine, quod ego eam videbam ac si sol esset ante, idest ibidem ante nos; quia Catho erat ibi ita splendidus et clarus, propter illas virtutes, sicut sol. Modo fiunt interrogationes per Cathonem Virgilio et auctori.
 
@@ -250,63 +250,63 @@ Iste non vidit unquam ultimum sero; idest non vidit finem ultimi diei; idest non
 
 <!-- p. 439 (0493) -->
 
-²¹ Sì com'io dissi, fui mandato ad esso\
+21 Sì com'io dissi, fui mandato ad esso\
 &emsp;Per suo campare, e non v'er'altra via\
 &emsp;Che questa per la qual io mi son messo.
 
-²¹ Sicut ego dixi, fui missus ad eum\
+21 Sicut ego dixi, fui missus ad eum\
 &emsp;Propter ipsum liberare, et non erat in hoc alia via\
 &emsp;Quam ista per quam ego me misi.
 
-²² Mostrata gl'ò tutta la gente ria;\
+22 Mostrata gl'ò tutta la gente ria;\
 &emsp;Et hor intendo mostrarli li spirti\
 &emsp;Che purgan sè sotto la tua balìa.
 
-²² Monstravi ei totum gentem ream,\
+22 Monstravi ei totum gentem ream,\
 &emsp;Et nunc intendo monstrare ei illos spiritus\
 &emsp;Qui purgantur sub tua balya.
 
-²³ Com'io l'ò tracto, saria lungo a dirti:\
+23 Com'io l'ò tracto, saria lungo a dirti:\
 &emsp;Dell'alto scende virtù che m'aiuta\
 &emsp;Conducerlo a vederti et ad udirti.
 
-²³ Quomodo ego eum traxi, esset longum dicere tibi:\
+23 Quomodo ego eum traxi, esset longum dicere tibi:\
 &emsp;De alto descendit virtus que me adiuvat\
 &emsp;Ducere eum ad videndum te et audiendum.
 
-²⁴ Or ti piaccia gradir la sua venuta:\
+24 Or ti piaccia gradir la sua venuta:\
 &emsp;Libertà va cercando, ch'è sì cara,\
-&emsp;Come sa chi (¹) per lei vita rifiuta.
+&emsp;Come sa chi (1) per lei vita rifiuta.
 
-²⁴ Nunc tibi placeat habere gratum suum adventum:\
+24 Nunc tibi placeat habere gratum suum adventum:\
 &emsp;Libertatem vadit querendo, que est ita cara,\
 &emsp;Sicut scit qui propter eam vitam refutat.
 
-²⁵ Tu sai, che non ti fu per lei amara\
+25 Tu sai, che non ti fu per lei amara\
 &emsp;In Utica la morte, ove lassasti\
-&emsp;La vesta ch'al gran dì sarà sì chiara (²).
+&emsp;La vesta ch'al gran dì sarà sì chiara (2).
 
-²⁵ Tu scis, quod non fuit tibi amara\
+25 Tu scis, quod non fuit tibi amara\
 &emsp;In Utica mors, ubi dimisisti\
 &emsp;Vestem que in grandi die erit ita cara.
 
-²⁶ Non son gl'edicti eterni per noi guasti:\
+26 Non son gl'edicti eterni per noi guasti:\
 &emsp;Chè questi vive, e Mynos me non lega;\
-&emsp;Ma son del cerchio (³) ove son gl'ochi casti
+&emsp;Ma son del cerchio (3) ove son gl'ochi casti
 
-²⁶ Non sunt edicta eterna propter nos destructa:\
+26 Non sunt edicta eterna propter nos destructa:\
 &emsp;Quia iste est vivus et Mynos me non ligat;\
 &emsp;Sed sum de circulo ubi sunt oculi casti
 
-²⁷ Di Martia tua, che 'n vista ancor ti prega,\
+27 Di Martia tua, che 'n vista ancor ti prega,\
 &emsp;O sancto pecto, che per tua la tegni:\
-&emsp;Per suo amore (⁴) adonque a noi ti piega.
+&emsp;Per suo amore (4) adonque a noi ti piega.
 
-²⁷ Marcie tue, que in apparencia adhuc te precatur,\
+27 Marcie tue, que in apparencia adhuc te precatur,\
 &emsp;O sacrum pectus, quod pro tua illam teneas:\
 &emsp;Propter suum amorem igitur ad nos te plica.
 
-(¹) tu. — (²) al. cara — (³) primo. — (⁴) al. per lo so amor.
+(1) tu. — (2) al. cara — (3) primo. — (4) al. per lo so amor.
 
 Sicut ego dixi, fui missus ad eum propter eum evadere, id est pro evasione sua; et non erat in hoc alia via, idest aliud remedium, quam ista, per quam ego me misi. Quasi dicat: Pro evasione sua oportebat, ipsum cognoscere vitia prius et penas eis convenientes, et habere notitiam de omni genere peccatorum.
 
@@ -324,55 +324,55 @@ Non sunt edicta eterna per nos destructa: quia iste est vivus et Mynos me non li
 
 <!-- p. 440 (0494) -->
 
-²⁸ Lascian'andar per li tuo'septe regni:\
-&emsp;Gratie (¹) riporterò di te a lei,\
+28 Lascian'andar per li tuo'septe regni:\
+&emsp;Gratie (1) riporterò di te a lei,\
 &emsp;Se d'esser mentovato laggiù degni.
 
-²⁸ Permicte nos ire per tua septem regna:\
+28 Permicte nos ire per tua septem regna:\
 &emsp;Gratias reportabo de te ad illam,\
 &emsp;Si nominari ibi inferius dignaris.
 
-²⁹ Martia piacque tanto agl'ochi mei,\
+29 Martia piacque tanto agl'ochi mei,\
 &emsp;Mentre ch'io fui di là, diss'elli allora,\
 &emsp;Che quante gratie volse da me, fei.
 
-²⁹ Marcia placuit tantum oculis meis,\
+29 Marcia placuit tantum oculis meis,\
 &emsp;Quousque ego fui ab illa parte, dixit ipse tunc\
 &emsp;Quod quantas gratias voluit a me, eidem feci.
 
-³⁰ Hor che di là dal mar io fo dimora,\
+30 Hor che di là dal mar io fo dimora,\
 &emsp;Più muover non mi può per quella legge\
 &emsp;Che facta fu quando me n'uscii fuora.
 
-³⁰ Nunc quod ultra malum flumen moratur,\
+30 Nunc quod ultra malum flumen moratur,\
 &emsp;Plus me movere non potest per illam legem\
 &emsp;Que facta fuit quando ego exivi foras.
 
-³¹ Ma se donna del ciel ti muove e regge\
+31 Ma se donna del ciel ti muove e regge\
 &emsp;Come tu di', non ci è mestier lusinghe:\
 &emsp;Basta sì ben che per lei me richegge.
 
-³¹ Si domina celi te movet et regit,\
+31 Si domina celi te movet et regit,\
 &emsp;Sicut tu dicis, non est hic opus blanditiis:\
 &emsp;Sufficiat tibi, quod pro ea me requiras.
 
-³² Va'dunque, e fa'che tu costui ricinghe\
+32 Va'dunque, e fa'che tu costui ricinghe\
 &emsp;D'un giunco schietto, e che li lavi el viso,\
 &emsp;Sì ch'ogni sucidume quindi stinghe:
 
-³² Vade igitur, et fac quod istum recingas\
+32 Vade igitur, et fac quod istum recingas\
 &emsp;Iunco, et quod ei laves visum,\
 &emsp;Ita quod omnem maculam ab eo extinguas:
 
-³³ Chè non si converria l'ochio sorpriso\
+33 Chè non si converria l'ochio sorpriso\
 &emsp;D'alcuna nebbia andar dinanzi al primo\
 &emsp;Ministro, che è di quei del Paradiso.
 
-³³ Quia non esset conveniens quod oculus suppressus\
+33 Quia non esset conveniens quod oculus suppressus\
 &emsp;Aliqua nebula iret ante primum\
 &emsp;Ministrum, qui est de illis Paradisi.
 
-(¹) al. gratia.
+(1) al. gratia.
 
 esse mater et habere filium; sed Catho non impregnabat eam. Ipsa petiit licentiam a Cathone accipiendi unum virum, non causa luxurie sed causa habendi filium, qui eam impregnaret. Catho annuit sibi, et dedit, seu concessit, licentiam. Ista ivit, et accepit alium virum. In processu temporis, mortuo illo viro, quem secundo acceperat, rediit ad Cathonem, rogans eum, ut eam reciperet et teneret eam pro sua, sic et taliter quod in sepulchro suo posset scribi Marcia Cathonis. Et sic factum est. Ideo dicit textus: Adhuc precatur quod pro tua illam teneas.
 
@@ -386,55 +386,55 @@ Sed si domina celi te movet et regit, sicut tu dicis, non est hic opus blanditii
 
 <!-- p. 441 (0495) -->
 
-³⁴ Questa isoletta intorno ad imo ad imo,\
+34 Questa isoletta intorno ad imo ad imo,\
 &emsp;Laggiù colà dove la batte l'onda,\
 &emsp;Porta de' giunchi sopra 'l molle limo.
 
-³⁴ Ista insolecta circum ad ymum ad ymum,\
+34 Ista insolecta circum ad ymum ad ymum,\
 &emsp;Infra ibi ubi illam percutit unda,\
 &emsp;Portat de iuncis super molli limo.
 
-³⁵ Null'altra pianta che facesse fronda,\
+35 Null'altra pianta che facesse fronda,\
 &emsp;O indurasse, vi può haver vita,\
 &emsp;Però ch'alle percosse non seconda.
 
-³⁵ Nulla alia planta que faceret frondem,\
+35 Nulla alia planta que faceret frondem,\
 &emsp;Vel induresceret, ibi potest habere vitam,\
 &emsp;Ex eo quia percussionibus non secundat.
 
-³⁶ Poscia non sia di qua vostra redita;\
+36 Poscia non sia di qua vostra redita;\
 &emsp;Lo sol vi mostrerà, che sorge omai,\
 &emsp;Prendere 'l monte a più lieve salita.
 
-³⁶ Postea non sit ab ista parte vester reditus;\
+36 Postea non sit ab ista parte vester reditus;\
 &emsp;Sol vobis monstrabit, qui surgit ammodo,\
 &emsp;Ad apprehendere montem ad leviorem ascensum.
 
-³⁷ Così sparì; et io su mi levai\
+37 Così sparì; et io su mi levai\
 &emsp;Senza parlare, e tutto mi ritrassi\
 &emsp;Al duca mio, e gl'occhi a lui drizzai.
 
-³⁷ Sic disparuit; et ego sursum me levans,\
+37 Sic disparuit; et ego sursum me levans,\
 &emsp;Sine loqui, et totum me retraxi\
 &emsp;Ad ducem meum, et oculos ad eum direxi.
 
-³⁸ El cominciò: Seguisce (¹) li miei passi:\
+38 El cominciò: Seguisce (1) li miei passi:\
 &emsp;Volgianci in dietro, che di qua declina\
 &emsp;Questa pianura a'sui termini bassi.
 
-³⁸ Ipse incepit: Fili, sequere meos passus:\
+38 Ipse incepit: Fili, sequere meos passus:\
 &emsp;Volvamus nos retro, quia ex ista parte declinat\
 &emsp;Ista planities suos terminos infimos.
 
-³⁹ L'alba vinceva l'hora mattutina\
-&emsp;Che fulgea (²) 'nanzi, sì che di lontano\
+39 L'alba vinceva l'hora mattutina\
+&emsp;Che fulgea (2) 'nanzi, sì che di lontano\
 &emsp;Cognobbi el tremolar de la marina.
 
-³⁹ Alba vincebat horam matutinam\
+39 Alba vincebat horam matutinam\
 &emsp;Que fugiebat ante, ita quod de longinquo\
 &emsp;Cognovi tremulare marine.
 
-(¹) al. seguirai. — (²) al. fuggea.
+(1) al. seguirai. — (2) al. fuggea.
 
 stat in loco humili et basso, nec habet nodum, et declinat ad terram veniente aqua, et sol veniens erigit illum; idest gratia Dei veniens erigit humilem. Iuncus bene plicatur, sed non rumpitur, sicut alii arbores resistentes. Lavatur visus auctori, idest intellectus abluitur, ne quid turpe remaneat, quia non esset conveniens, quod oculus suppressus, idest fedatus, vel deturpatus, aliqua nebula, iret ante primum ministrum, qui de illis est Paradisi. Vult dicere Cato, quia non convenit ire cum oculis maculatis ante custodem murati Purgatorii, quia ille custos, qui stat ad ianuam Purgatorii Murati, est angelus de Paradiso, qui stat ibi cum ense, et qui representat confessorem sacerdotem. Nunc Cato docet ubi incipitur humilitas.
 
@@ -452,57 +452,57 @@ Alba, idest adventus diei, vincebat horam matutinam, que fugiebat ante, ita quod
 
 <!-- p. 442 (0496) -->
 
-⁴⁰ Noi andavàm per lo solingo piano\
+40 Noi andavàm per lo solingo piano\
 &emsp;Com'huom che torna a la perduta strada,\
 &emsp;Che in fin ad essa li par ir invano.
 
-⁴⁰ Nos ibamus per solitarium planum\
+40 Nos ibamus per solitarium planum\
 &emsp;Sicut homo qui redit ad perditam stratam,\
 &emsp;Cui usque ad ipsam apparet ire in vanum.
 
-⁴¹ Quando noi fummo la du'(¹) la rogiada\
+41 Quando noi fummo la du'(1) la rogiada\
 &emsp;Pugna col sole, per essere in parte\
 &emsp;Dove adorezza, poco si dirada;
 
-⁴¹ Quando nos fuimus ubi ros\
+41 Quando nos fuimus ubi ros\
 &emsp;Pugnat cum sole, ex eo quia est in parte\
 &emsp;Ubi durities parum diradatur;
 
-⁴² Ambo le mani in sull'herbetta sparte\
+42 Ambo le mani in sull'herbetta sparte\
 &emsp;Suavemente el mio maestro pose;\
 &emsp;Ond'io che fui accorto di sua arte,
 
-⁴² Ambas manus super herbulas sparsas\
+42 Ambas manus super herbulas sparsas\
 &emsp;Suaviter meus magister posuit;\
 &emsp;Unde ego qui perpende di sua arte,
 
-⁴³ Porsi ver lui le guancie lagrimose;\
-&emsp;Ivi mi fece tutto discoperto (²)\
+43 Porsi ver lui le guancie lagrimose;\
+&emsp;Ivi mi fece tutto discoperto (2)\
 &emsp;Quel color che l'Inferno mi nascose.
 
-⁴³ Porrexi versus eum genas lacrymosas;\
+43 Porrexi versus eum genas lacrymosas;\
 &emsp;Ibi fecit mihi totum discoopertum\
 &emsp;Illum colorem quem Infernus in me absconderat.
 
-⁴⁴ Venimmo poi in sul lito deserto,\
+44 Venimmo poi in sul lito deserto,\
 &emsp;Che mai non vide navigar su' acque\
 &emsp;Huomo, che di tornar sia poscia experto.
 
-⁴⁴ Venimus postea super lictus desertum,\
+44 Venimus postea super lictus desertum,\
 &emsp;Cuius nunquam vidit navigare aquas\
 &emsp;Homo, qui de reditu postea sit expertus.
 
-⁴⁵ Quivi mi cinse sì com'altrui (³) piacque:\
+45 Quivi mi cinse sì com'altrui (3) piacque:\
 &emsp;O maravigla! chè qual egli scelse\
 &emsp;L'humile pianta, cotal si rinacque\
 &emsp;Subitamente là donde la svelse.
 
-⁴⁵ Ibi me cinxit sicut alteri placuit:\
+45 Ibi me cinxit sicut alteri placuit:\
 &emsp;O mirum! quod qualem ipse elegit\
 &emsp;Humilem plantam, talis ibi renata est\
 &emsp;Subito ibi ubi illam evulsit.
 
-(¹) dove. — (²) al. discoperto. — (³) a Catone.
+(1) dove. — (2) al. discoperto. — (3) a Catone.
 
 Nos ibamus per solitarium planum, sicut homo qui redit ad perditam stratam, idest viam, cui usque ad ipsam apparet ire in vanum. Peregrinus, qui erravit in via, vadit ad tempus in vanum; sed quando revertitur ad viam publicam, letatur. Solitarium planum dicitur, quia pauci recedunt a vitiis et vadunt per viam virtutis ad faciendum penitentiam. Nunc vult dicere, quod, quando Virgilius appulit ad locum canum, erbosum et plenum rore, volvit se ad Dantem, et tunc Dantes inclinavit se coram Virgilio: Virgilius cum manibus apertis collegit de rore, et lavit cum ipso rore oculos Dantis.
 

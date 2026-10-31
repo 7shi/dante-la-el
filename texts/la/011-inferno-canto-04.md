@@ -8,23 +8,23 @@ In quarto capitulo, quod incipit: Rupit michi altum sompnum in capite, auctor po
 
 # Capitulum Quartum
 
-¹ Ruppemi l'alto sonno ne la testa\
-&emsp;Un grieve (¹) tuono, sì ch'io mi riscossi,\
+1 Ruppemi l'alto sonno ne la testa\
+&emsp;Un grieve (1) tuono, sì ch'io mi riscossi,\
 &emsp;Come persona ch'è per forza desta:
 
-¹ Rupit michi altum sompnum [in capite]\
+1 Rupit michi altum sompnum [in capite]\
 &emsp;Unum grave tonitruum, ita quod ego me excussi,\
 &emsp;Sicut persona que per vim excitatur:
 
-² E l'ochio riposato intorno mossi,\
+2 E l'ochio riposato intorno mossi,\
 &emsp;Dricto levato, e fisso riguardai\
 &emsp;Per conoscere lo loco dov'io fossi.
 
-² Et oculum quietatum circum movi,\
+2 Et oculum quietatum circum movi,\
 &emsp;Rectus levatus, et firmus perspexi,\
 &emsp;Ut cognoscerem locum ubi essem.
 
-(¹) al. grave.
+(1) al. grave.
 
 Ruppeme l'alto sompno. Rupit michi altum sompnum in capite: istud est quartum capitulum, etc., de primo circulo Inferni, in quo ponit parvulos innocentes, et homines valentes et illustres, tam in armis quam in scientiis: et dividitur in sex partes. In quarum prima describit introytum et qualitatem huius primi circuli.
 
@@ -66,63 +66,63 @@ Sicut persona, que ex vi excitaretur, rectus levatus, fixe respexi, ut cognoscer
 
 <!-- p. 63 (0117) -->
 
-³ Vero è (¹) che 'n sulla proda mi trovai\
+3 Vero è (1) che 'n sulla proda mi trovai\
 &emsp;De la valle d'abisso dolorosa,\
-&emsp;Che tuoni accogle (²) d'infiniti guai.
+&emsp;Che tuoni accogle (2) d'infiniti guai.
 
-³ Verum est quod in prora me reperi\
+3 Verum est quod in prora me reperi\
 &emsp;Vallis abyssus dolorose,\
 &emsp;Que circum colligit infinitas lamentationes.
 
-⁴ Oscura era, profonda e tenebrosa,\
+4 Oscura era, profonda e tenebrosa,\
 &emsp;Tanto che, per ficcar lo viso al fondo,\
 &emsp;Io non vi discerneva alcuna cosa.
 
-⁴ Obscura, profunda erat et nebulosa,\
+4 Obscura, profunda erat et nebulosa,\
 &emsp;In tantum quod, quamquam figerem visum ad fundum,\
 &emsp;Ego non discernebam ibi aliquam rem.
 
-⁵ Or discendiam quaggiù nel cieco mondo,\
+5 Or discendiam quaggiù nel cieco mondo,\
 &emsp;Cominciò el poeta tutto smorto;\
 &emsp;Io sarò 'l primo, e tu sarai 'l secondo.
 
-⁵ Or descendamus huc in cecum mundum,\
+5 Or descendamus huc in cecum mundum,\
 &emsp;Incepit poeta totus pallidus;\
 &emsp;Ego ero primus, et tu eris secundus.
 
-⁶ Et io, che del color mi fui accorto,\
+6 Et io, che del color mi fui accorto,\
 &emsp;Dixi: Come verrò, se tu paventi,\
 &emsp;Che suoli al mio dubiar esser conforto?
 
-⁶ Et ego, qui de colore perpendi,\
+6 Et ego, qui de colore perpendi,\
 &emsp;Dixi: Quomodo veniam, si tu paves,\
 &emsp;Qui soles ad meum dubitare esse confortatio?
 
-⁷ Et elli a me: L'angoscia de le genti,\
+7 Et elli a me: L'angoscia de le genti,\
 &emsp;Che son quaggiù, nel viso mi dipigne\
-&emsp;Quella pietà, che tu per tema (³) senti.
+&emsp;Quella pietà, che tu per tema (3) senti.
 
-⁷ Et ad me: Angustia gentium,\
+7 Et ad me: Angustia gentium,\
 &emsp;Que sunt hic infra, in facie michi pingit\
 &emsp;Illam pietatem, quam tu pro timore sentis.
 
-⁸ Andian, che la via lunga ci sospigne.\
+8 Andian, che la via lunga ci sospigne.\
 &emsp;Così si messe e così mi fe' intrare\
 &emsp;Nel primo cerchio che l'abysso cigne.
 
-⁸ Eamus, quia via longa nos impellit.\
+8 Eamus, quia via longa nos impellit.\
 &emsp;Sic michi dixit et sic me fecit intrare\
 &emsp;In primum circulum, qui abyssum cingit.
 
-⁹ Quivi, secondo che per ascoltare,\
-&emsp;Non havea pianti (⁴), ma'che (⁵) di sospiri\
+9 Quivi, secondo che per ascoltare,\
+&emsp;Non havea pianti (4), ma'che (5) di sospiri\
 &emsp;Che l'aura eterna facevan tremare:
 
-⁹ Ibi, secundum quod pro auscultando,\
+9 Ibi, secundum quod pro auscultando,\
 &emsp;Non erat planctus, sed suspiria,\
 &emsp;Que aierem eternum faciebant tremere:
 
-(¹) verum dico. — (²) alte voci all'intorno, i. per circulos. — (³) paura. — (⁴) al. non eran pianti. — (⁵) se non.
+(1) verum dico. — (2) alte voci all'intorno, i. per circulos. — (3) paura. — (4) al. non eran pianti. — (5) se non.
 
 extremitatem ripe vallis dolorose, idest, plene omnibus peccatis et sceleribus. Ecce, si vellet, vigilando, describere quomodo ivit de una ripa in aliam, multam materiam haberet tractare et longa verba dicere; sed adbreviat: dormivit; dormiendo transivit ad aliam partem, non tractando spatia per que transivit.
 
@@ -146,55 +146,55 @@ Quivi. Hic: scilicet in isto circulo, secundum quod ego, auscultando, attendebam
 
 <!-- p. 64 (0118) -->
 
-¹⁰ Ciò avenia di (¹) duol senza martiri,\
+10 Ciò avenia di (1) duol senza martiri,\
 &emsp;Ch'avean le turbe, ch'eran molto grandi,\
 &emsp;D'infanti e di femmine e di viri.
 
-¹⁰ Et hoc veniebat a dolore sine martyriis,\
+10 Et hoc veniebat a dolore sine martyriis,\
 &emsp;Quem habebant turbe, que erant multe et magne,\
 &emsp;Infantium, mulierum et virorum.
 
-¹¹ Lo (²) buon maestro a me: Tu non domandi\
+11 Lo (2) buon maestro a me: Tu non domandi\
 &emsp;Che spiriti son questi che tu vedi?\
-&emsp;Or vo'che sappi, prima (³) che più andi,
+&emsp;Or vo'che sappi, prima (3) che più andi,
 
-¹¹ Bonus magister ad me: Tu non interrogas,\
+11 Bonus magister ad me: Tu non interrogas,\
 &emsp;Qui spiritus sunt isti quos tu vides?\
 &emsp;Or volo quod scias, antequam ulterius vadas,
 
-¹² Che non peccaro, e s'elli hanno (⁴) merzedi,\
+12 Che non peccaro, e s'elli hanno (4) merzedi,\
 &emsp;Non basta, perchè non ebber baptesmo,\
 &emsp;Ch'è parte de la fede che tu credi:
 
-¹² Quod ipsi non peccaverunt; et si habent mercedes,\
+12 Quod ipsi non peccaverunt; et si habent mercedes,\
 &emsp;Non sufficit, quia non habuerunt baptisma,\
 &emsp;Quod est pars fidei quam tu credis:
 
-¹³ E se furon dinanzi al Chrystianesmo,\
-&emsp;Non adorar (⁵) debitamente Dio;\
+13 E se furon dinanzi al Chrystianesmo,\
+&emsp;Non adorar (5) debitamente Dio;\
 &emsp;E di questi cotal son io medesmo.
 
-¹³ Et si fuerunt ante Christianismum,\
+13 Et si fuerunt ante Christianismum,\
 &emsp;Non adoraverunt debite Deum;\
 &emsp;Et de istibus talibus sum ego ipse.
 
-¹⁴ Per tal defecto (⁶), e non per altro (⁷) rio (⁸),\
+14 Per tal defecto (6), e non per altro (7) rio (8),\
 &emsp;Siamo dannati, e sol di tanto offesi,\
 &emsp;Che senza speme viviamo in desio.
 
-¹⁴ Propter talem defectum, et non propter aliud crimen,\
+14 Propter talem defectum, et non propter aliud crimen,\
 &emsp;Sumus perditi, et sumus a tanto offensi,\
 &emsp;Quod sine spe vivimus in desiderio.
 
-¹⁵ Gran duol mi prese 'l cor, quand'io lo intesi;\
+15 Gran duol mi prese 'l cor, quand'io lo intesi;\
 &emsp;Però che gente di molto valore\
 &emsp;Cognobbi, che in quel Limbo eran sospesi.
 
-¹⁵ Magnus dolor meum prendit cor, quando eum intellexi;\
+15 Magnus dolor meum prendit cor, quando eum intellexi;\
 &emsp;Ex eo quod gentes multi valoris\
 &emsp;Cognovi, que in illo Limbo erant suspense.
 
-(¹) al. per. — (²) al. el. — (³) al. avanti. — (⁴) al. e se gl'ebber. — (⁵) adorarono. — (⁶) di fede. — (⁷) al. e per null'altro. — (⁸) peccato.
+(1) al. per. — (2) al. el. — (3) al. avanti. — (4) al. e se gl'ebber. — (5) adorarono. — (6) di fede. — (7) al. e per null'altro. — (8) peccato.
 
 que aierem eternum faciebant tremere. Sicut suspirium sequitur desiderium, sic planctus sequitur dolorem: sicut igitur per auditum, non per visum, poterat comprehendere auctor, non erat planctus propter dolorem, sed suspiria propter desiderium.
 
@@ -216,47 +216,47 @@ Gravem dolorem sensi, quando intellexi: scilicet, magistrum sic loquentem, quia 
 
 <!-- p. 65 (0119) -->
 
-¹⁶ Dimmi, maestro mio, dimmi, signore,\
+16 Dimmi, maestro mio, dimmi, signore,\
 &emsp;Comincia'io a dir, per esser certo\
-&emsp;Di quella fede (¹), che vince ogni errore.
+&emsp;Di quella fede (1), che vince ogni errore.
 
-¹⁶ Dicas michi, magister mi, dicas michi, domine,\
+16 Dicas michi, magister mi, dicas michi, domine,\
 &emsp;Incepi ego, ad hoc ut certificarer\
 &emsp;De illa fide, que vincit omnem errorem;
 
-¹⁷ Uscicci mai alcuno, o per suo merto,\
+17 Uscicci mai alcuno, o per suo merto,\
 &emsp;O per altr[u]i, che poi fusse beato?\
 &emsp;E quei, che 'ntese 'l mio parlar coperto,
 
-¹⁷ Exivit hinc unquam aliquis ex suo merito,\
+17 Exivit hinc unquam aliquis ex suo merito,\
 &emsp;Vel ex alterius, qui postmodum esset beatus?\
 &emsp;Et ipse, qui intellexit meum sermonem coopertum,
 
-¹⁸ Rispose: Io era nuovo in questo stato,\
+18 Rispose: Io era nuovo in questo stato,\
 &emsp;Quando ci vidi venir un huom possente,\
 &emsp;Con segno di victoria coronato.
 
-¹⁸ Michi dixit: Ego eram novus in isto statu,\
+18 Michi dixit: Ego eram novus in isto statu,\
 &emsp;Quando huc vidi venire unum potentem,\
 &emsp;Cum signo victorie coronatum.
 
-¹⁹ Trassene l'ombra del primo parente,\
+19 Trassene l'ombra del primo parente,\
 &emsp;D'Abel suo figlo, e quella di Noe,\
-&emsp;Di (²) Moyse legista et ubbidiente;
+&emsp;Di (2) Moyse legista et ubbidiente;
 
-¹⁹ Traxit hinc umbram primi parentis,\
+19 Traxit hinc umbram primi parentis,\
 &emsp;Abel sui filii, et illam Noe,\
 &emsp;Moysis legiste et obedientis;
 
-²⁰ Abraham patriarca, e David re,\
-&emsp;Israel (³) col suo padre (⁴) e co'suoi nati (⁵),\
+20 Abraham patriarca, e David re,\
+&emsp;Israel (3) col suo padre (4) e co'suoi nati (5),\
 &emsp;E con Rachele, per cui tanto fe',
 
-²⁰ Abraham patriarcham, et David regem,\
+20 Abraham patriarcham, et David regem,\
 &emsp;Israelem cum patre, et cum suis natis,\
 &emsp;Et cum Rachele, pro qua tantum fecit,
 
-(¹) catholica. — (²) al. e di. — (³) Iacob. — (⁴) Ysaac. — (⁵) figluoli.
+(1) catholica. — (2) al. e di. — (3) Iacob. — (4) Ysaac. — (5) figluoli.
 
 Sic, igitur, defectus, quem habuit in fide, fuit principalis causa sue dampnationis.
 
@@ -280,47 +280,47 @@ Christus etiam extraxit Abraham de Limbo, patriarcham, David regem, Israel cum p
 
 <!-- p. 66 (0120) -->
 
-²¹ Et altri assai (¹); e feceli beati:\
+21 Et altri assai (1); e feceli beati:\
 &emsp;Ma vo'che sappi che, dinanzi ad essi,\
 &emsp;Spiriti humani non eran salvati.
 
-²¹ Et alios multos; et fecit eos beatos:\
+21 Et alios multos; et fecit eos beatos:\
 &emsp;Et volo quod scias quod, ante ipsos,\
 &emsp;Spiritus humani non erant salvati.
 
-²² Non lassavàn l'andar, perch'ei dicessi;\
+22 Non lassavàn l'andar, perch'ei dicessi;\
 &emsp;Ma passavàn la selva tuttavia,\
 &emsp;La selva, dico, di spiriti spessi.
 
-²² Non dimictebamus iter, quamquam ipse diceret,\
+22 Non dimictebamus iter, quamquam ipse diceret,\
 &emsp;Sed transiebamus silvam continuo,\
 &emsp;Silvam, dico, spirituum spissorum.
 
-²³ Non era lunga ancor la nostra via\
+23 Non era lunga ancor la nostra via\
 &emsp;Di qua dal sonno, quand'io vidi un foco\
 &emsp;Che l'emisperio di tenebre vincia.
 
-²³ Non erat longa adhuc nostra via\
+23 Non erat longa adhuc nostra via\
 &emsp;Citra sompnum, quando ego vidi unum ignem,\
 &emsp;Qui emispirium tenebrarum vincebat.
 
-²⁴ Di lungi v'eravamo ancor um poco,\
+24 Di lungi v'eravamo ancor um poco,\
 &emsp;Ma non sì ch'io non discernessi in parte,\
 &emsp;Ch'orrevol gente possedea quel loco.
 
-²⁴ A longe eramus adhuc modicum,\
+24 A longe eramus adhuc modicum,\
 &emsp;Sed non tantum, quin ego discernerem in partem,\
 &emsp;Quod honorabilem gentem possidebat ille locus.
 
-²⁵ O tu, c'honori ogni scienza et arte,\
-&emsp;Questi chi son, c'hanno tanta (²) honoranza,\
+25 O tu, c'honori ogni scienza et arte,\
+&emsp;Questi chi son, c'hanno tanta (2) honoranza,\
 &emsp;Che dal modo degl'altri li diparte?
 
-²⁵ O tu, qui honoras scientiam et artem,\
+25 O tu, qui honoras scientiam et artem,\
 &emsp;Isti qui sunt, qui habent tantam honorabilitatem,\
 &emsp;Que a modo aliorum illos dividit?
 
-(¹) al. molti. — (²) al. c'han cotanta.
+(1) al. molti. — (2) al. c'han cotanta.
 
 Dan et Neptalim: isti fuerunt nati, idest filii sui Israel, sive Iacob.
 
@@ -340,55 +340,55 @@ Isti qui sunt, qui tantum honorantur, quos a modo et moribus illorum distinguis?
 
 <!-- p. 67 (0121) -->
 
-²⁶ Et elli a me: L'honrata nominanza,\
+26 Et elli a me: L'honrata nominanza,\
 &emsp;Che di lor suona su, ne la tua vita,\
 &emsp;Gratia acquista in ciel, che sì gl'avanza.
 
-²⁶ Et ipse ad me: Honorata fama,\
+26 Et ipse ad me: Honorata fama,\
 &emsp;Que de eis sonat superius in tua vita,\
 &emsp;Gratiam acquirit in celo, que sic eos extollit.
 
-²⁷ Intanto voce fu per me udita:\
+27 Intanto voce fu per me udita:\
 &emsp;Honorate l'altissimo Poeta;\
 &emsp;L'ombra sua torna, ch'era dipartita.
 
-²⁷ Interim vox fuit per nos audita:\
+27 Interim vox fuit per nos audita:\
 &emsp;Honoretis altissimum poetam;\
 &emsp;Umbra sua redit, que recesserat.
 
-²⁸ Poi che (¹) la voce fu restata e queta,\
+28 Poi che (1) la voce fu restata e queta,\
 &emsp;Vidi quattro grand'ombre a noi venire;\
 &emsp;Sembianza havevan nè trista nè lieta.
 
-²⁸ Postquam vox desiit et quievit,\
+28 Postquam vox desiit et quievit,\
 &emsp;Vidi quatuor magnas umbras ad nos venire;\
 &emsp;Apparentiam habebant neque tristem neque letam.
 
-²⁹ Lo buon maestro cominciommi a dire:\
+29 Lo buon maestro cominciommi a dire:\
 &emsp;Mira colui, che tien la spada in mano,\
-&emsp;E vien inanz'a tre (²), sì come sire.
+&emsp;E vien inanz'a tre (2), sì come sire.
 
-²⁹ Bonus magister incepit dicere:\
+29 Bonus magister incepit dicere:\
 &emsp;Aspice illum cum illo ense in manu,\
 &emsp;Qui venit ante tres, tanquam dominus.
 
-³⁰ Quegli è Homero, poeta sovrano,\
+30 Quegli è Homero, poeta sovrano,\
 &emsp;L'altro è Oratio satyro, che viene,\
 &emsp;Ovidio el terzo, e l'ultimo è Lucano.
 
-³⁰ Ille est Homerus, poeta supremus,\
+30 Ille est Homerus, poeta supremus,\
 &emsp;Alter est Horatius sathyrus, qui venit,\
 &emsp;Ovidius est tertius, et ultimus Lucanus,
 
-³¹ Però che ciascun meco si conviene\
+31 Però che ciascun meco si conviene\
 &emsp;Nel nome, che sonò la voce sola,\
 &emsp;Fannomi honor; e di ciò fanno bene.
 
-³¹ Quia quilibet eorum mecum convenit\
+31 Quia quilibet eorum mecum convenit\
 &emsp;In nomine, quod sonavit vox sola,\
 &emsp;Faciunt michi honorem; et de hoc faciunt bene.
 
-(¹) al. quando. — (²) altri.
+(1) al. quando. — (2) altri.
 
 Et ipse, scilicet magister, dixit michi: Honorata nominanza: fama, scilicet, que de ipsis sonat supra in vita serena, gratiam acquirit in celo, que sic eos conditionat. Che sì li avanza: idest facit eis vantagium.
 
@@ -408,55 +408,55 @@ Quia quilibet istorum mecum convenit in nomine, quod sonavit vox sola: idest ill
 
 <!-- p. 68 (0122) -->
 
-³² Così vid'io adunar la bella scola\
+32 Così vid'io adunar la bella scola\
 &emsp;Di quei signor dell'altissimo canto,\
-&emsp;Che sopra gl'altri. (¹), com'aquila, vola.
+&emsp;Che sopra gl'altri. (1), com'aquila, vola.
 
-³² Sic vidi adunari pulchram scolam\
+32 Sic vidi adunari pulchram scolam\
 &emsp;Illorum dominorum altissimi cantus,\
 &emsp;Que super alios, prout aquila, volat.
 
-³³ Poi ch'ebber ragionato insieme alquanto,\
+33 Poi ch'ebber ragionato insieme alquanto,\
 &emsp;Volsersi a me con salutevol cenno;\
 &emsp;E 'l mio maestro sorrise di tanto.
 
-³³ Postquam ratiocinati fuerunt sibi aliquantulum,\
+33 Postquam ratiocinati fuerunt sibi aliquantulum,\
 &emsp;Volverunt se ad me cum salutabili nutu;\
 &emsp;Et meus magister subrisit de tanto.
 
-³⁴ E più d'honore assai ancor mi fenno,\
-&emsp;Ched ei (²) mi fecer de la loro schiera:\
+34 E più d'honore assai ancor mi fenno,\
+&emsp;Ched ei (2) mi fecer de la loro schiera:\
 &emsp;Sì ch'io fui sexto tra cotanto senno.
 
-³⁴ Et plus honoris adhuc satis michi fecerunt,\
+34 Et plus honoris adhuc satis michi fecerunt,\
 &emsp;Quod ipsi me fecerunt de eorum acie:\
 &emsp;Ita quod ego fui sextus intra tantum sensum.
 
-³⁵ Così n'andammo in fin alla lumera,\
+35 Così n'andammo in fin alla lumera,\
 &emsp;Parlando cose, che 'l tacer è bello,\
-&emsp;Sì com'era 'l parlar (³) colà dov'era.
+&emsp;Sì com'era 'l parlar (3) colà dov'era.
 
-³⁵ Sic ivimus usque ad lumeram,\
+35 Sic ivimus usque ad lumeram,\
 &emsp;Loquendo res, que tacere est pulchrum,\
 &emsp;Prout erat loqui illic ubi eram.
 
-³⁶ Venimmo (⁴) a piè d'un nobile castello,\
+36 Venimmo (4) a piè d'un nobile castello,\
 &emsp;Sette volte cerchiato d'alte mura,\
 &emsp;Difeso intorno d'un bel fiumicello.
 
-³⁶ Venimus ad pedes unius nobilis castelli,\
+36 Venimus ad pedes unius nobilis castelli,\
 &emsp;Septies circumdati altis muris,\
 &emsp;Defensi circum ab uno pulchro flumicolo.
 
-³⁷ Questo passammo, come terra dura:\
+37 Questo passammo, come terra dura:\
 &emsp;Per septe porti entrai con questi savi;\
-&emsp;Giugnemmo (⁵) in prato di fresca verdura (⁶).
+&emsp;Giugnemmo (5) in prato di fresca verdura (6).
 
-³⁷ Per hunc transivimus, tamquam per terram duram;\
+37 Per hunc transivimus, tamquam per terram duram;\
 &emsp;Per septem portas intravi cum istis sapientibus;\
 &emsp;Pervenimus in pratum recentis viriditatis.
 
-(¹) canti. — (²) al. ch'essi. — (³) bello. — (⁴) al. giugnemmo. — (⁵) al. venimmo. — (⁶) al. verzura.
+(1) canti. — (2) al. ch'essi. — (3) bello. — (4) al. giugnemmo. — (5) al. venimmo. — (6) al. verzura.
 
 Sic vidi adunari pulchram scolam: idest, collegium illorum dominorum de altissimo cantu, quia quilibet eorum scripsit alte secundum suam materiam: isti descripserunt excellenter.
 
@@ -474,39 +474,39 @@ Venimus apud unum nobile castrum, septies circumdatum muris altis: idest, septem
 
 <!-- p. 69 (0123) -->
 
-³⁸ Genti v'eran con ochi tardi e gravi,\
+38 Genti v'eran con ochi tardi e gravi,\
 &emsp;Di grande autorità ne'lor sembianti;\
 &emsp;Parlavan rado, con voci suavi.
 
-³⁸ Gentes ibi erant cum oculis tardis et gravibus,\
+38 Gentes ibi erant cum oculis tardis et gravibus,\
 &emsp;Magne auctoritatis in eorum apparentiis;\
 &emsp;Loquebantur raro, cum vocibus suavibus.
 
-³⁹ Trhaemmoci così dall'un de'canti,\
+39 Trhaemmoci così dall'un de'canti,\
 &emsp;In luogo aperto, luminoso et alto,\
 &emsp;Sì che veder si potean tutti quanti.
 
-³⁹ Traximus nos sic ad unum angulorum,\
+39 Traximus nos sic ad unum angulorum,\
 &emsp;In loco aperto, luminoso et alto,\
 &emsp;Ita quod videri poterant omnes.
 
-⁴⁰ Quivi (¹), diritto, sopr'al verde smalto,\
+40 Quivi (1), diritto, sopr'al verde smalto,\
 &emsp;Mi fur mostrati gli spiriti magni,\
 &emsp;Che del ve[de]re me stesso n'exalto.
 
-⁴⁰ Illic recte, supra viridem smaltum,\
+40 Illic recte, supra viridem smaltum,\
 &emsp;Mihi fuerunt monstrati spiritus magni,\
 &emsp;Quos in videndo in me ipso exulto.
 
-⁴¹ Io vidi Electra com molti compagni,\
+41 Io vidi Electra com molti compagni,\
 &emsp;Tra quai cognobbi Hector et Enea,\
 &emsp;Cesare armato cogl'ochi grifagni.
 
-⁴¹ Ego vidi Electram cum multis sotiis,\
+41 Ego vidi Electram cum multis sotiis,\
 &emsp;Inter quos cognovi Hectorem et Eneam,\
 &emsp;Cesarem armatum cum oculis grifagnis.
 
-(¹) al. colà.
+(1) al. colà.
 
 in circum ab uno pulchro flumello: idest parvo flumine. Iste fluvius est vanitas mundi fluxibilis, qui tamen defendit istud castrum, ne veniant ignorantes.
 
@@ -526,27 +526,27 @@ Ego vidi Electram cum multis sotiis, inter quos novi Hectorem et Eneam, Cesarem 
 
 <!-- p. 70 (0124) -->
 
-⁴² Vidi Camilla e la Pantasylea\
+42 Vidi Camilla e la Pantasylea\
 &emsp;Dall'altra parte, vidi el re Latino,\
 &emsp;Che con Lavina sua figla sedea.
 
-⁴² Vidi Cammillam et Pantasileam\
+42 Vidi Cammillam et Pantasileam\
 &emsp;Ex alia parte, vidi regem Latinum,\
 &emsp;Qui cum Lavina sua filia sedebat.
 
-⁴³ Vidi quel Bruto, che cacciò Tarquino,\
+43 Vidi quel Bruto, che cacciò Tarquino,\
 &emsp;Lucretia, Martia, Iulia e Cornigla,\
 &emsp;E solo in parte vidi el Saladino.
 
-⁴³ Vidi illum Brutum, qui expulit Tarquinum,\
+43 Vidi illum Brutum, qui expulit Tarquinum,\
 &emsp;Lucretiam, Iuliam, Martiam et Corneliam,\
 &emsp;Et solum in parte vidi Saladinum.
 
-⁴⁴ Poi che 'nnalzai un poco più le cigla,\
+44 Poi che 'nnalzai un poco più le cigla,\
 &emsp;Vidi 'l maestro di color che sanno,\
 &emsp;Seder tra phylosophica famigla.
 
-⁴⁴ Postquam paulo plus levavi supercilia,\
+44 Postquam paulo plus levavi supercilia,\
 &emsp;Vidi magistrum illorum qui sciunt\
 &emsp;Sedere intra philosophicam familiam.
 
@@ -560,35 +560,35 @@ Poi ch'innalzai. Postquam elevavi cilia, vidi magistrum [eorum] qui sciunt, sede
 
 <!-- p. 71 (0125) -->
 
-⁴⁵ Tutti lo miran, tutti honor li fanno.\
+45 Tutti lo miran, tutti honor li fanno.\
 &emsp;Quivi vid'io Socrate e Platone,\
 &emsp;Che 'nanzi gl'altri più presso li stanno:
 
-⁴⁵ Omnes eum respiciunt, omnes eum honorant.\
+45 Omnes eum respiciunt, omnes eum honorant.\
 &emsp;Ibi ego vidi Socratem et Platonem,\
 &emsp;Qui ante omnes propinquius illuc stant:
 
-⁴⁶ Democlyto, che 'l mondo a caso pone,\
+46 Democlyto, che 'l mondo a caso pone,\
 &emsp;Dyogenes, Anaxagora e Thale,\
 &emsp;Empedocles, Eraclito e Zenone:
 
-⁴⁶ Democritum, qui mundum ad casum ponit,\
+46 Democritum, qui mundum ad casum ponit,\
 &emsp;Diogenem, Anaxagoram et Thalem,\
 &emsp;Empedoclem, Heraclitum et Zenonem:
 
-⁴⁷ E vidi 'l buon accoglitor del quale,\
+47 E vidi 'l buon accoglitor del quale,\
 &emsp;Dyascoride dico; e vidi Horpheo,\
 &emsp;Tullio, e Lino, e Seneca morale:
 
-⁴⁷ Et vidi bonum collectorem de quo,\
+47 Et vidi bonum collectorem de quo,\
 &emsp;Diascoridem dico; et vidi Orpheum,\
 &emsp;Tullium, Linum et Senecam moralem:
 
-⁴⁸ Euclyde geometra e Ptolomeo,\
+48 Euclyde geometra e Ptolomeo,\
 &emsp;Ypocrate, Avicenna e Galieno,\
 &emsp;Averroys, che 'l gran comento feo.
 
-⁴⁸ Vidi [Euclidem] geometram et Ptholomeum,\
+48 Vidi [Euclidem] geometram et Ptholomeum,\
 &emsp;Hipocratem, Avicennam et Galienum,\
 &emsp;Averoim, qui magnum comentum fecit.
 
@@ -604,25 +604,25 @@ Orpheus fuit Theologus et poeta antiquus. Dicit Augustinus, in libro de Civitate
 
 <!-- p. 72 (0126) -->
 
-⁴⁹ Io non posso tractar di tutti a pieno;\
+49 Io non posso tractar di tutti a pieno;\
 &emsp;Però che sì mi caccia el lungo tema,\
 &emsp;Che molte volte al facto el dir vien meno.
 
-⁴⁹ Ego non possum retrahere de omnibus ad plenum;\
+49 Ego non possum retrahere de omnibus ad plenum;\
 &emsp;Ex eo quia sic me impellit longum thema,\
 &emsp;Quod multoties factum dicto deficit.
 
-⁵⁰ La sexta compagnia in due si scema;\
+50 La sexta compagnia in due si scema;\
 &emsp;Per altra via mi mena el savio duca,\
-&emsp;Fuor de la queta (¹), nell'aer che trema;\
+&emsp;Fuor de la queta (1), nell'aer che trema;\
 &emsp;E vengo in luogo, ove non è che luca.
 
-⁵⁰ Sexta societas in duobus diminuitur;\
+50 Sexta societas in duobus diminuitur;\
 &emsp;Per aliam viam me ducit sapiens dux,\
 &emsp;Extra quietum in aierem qui tremit;\
 &emsp;Et venio in partem, ubi non est quid luceat.
 
-(¹) Limbo quieto.
+(1) Limbo quieto.
 
 libro De viris illustribus, quod fuit sanctus, et ponit eum in Paradiso. Augustinus dicit quasi oppositum: inquit enim Augustinus de Seneca: Quod agebat, reprehendebat; quod colebat, arguebat; quod cupiebat, adorabat; ita quod ponit eum Augustinus quasi ypocritam. Dantes vero, videns hanc diversitatem inter Augustinum et Ieronimum, posuit eum hic in Limbo, et non in Paradiso, nec in Inferno penarum. Euclides: hic fuit tempore Platonis, et concurrens cum eo, maximus geometra. Ptholomeus fuit rex Egipti, magnus astrologus, et etiam geometra; quia male cepit calculare astrologus, nisi sciat geometriam. Hipocras medicus, fuit Grecus, de insula Coo, in Arcipelago. Avicenna fuit Hispanus de Cordoba civitate, unde fuit Lucanus. Lucanus dicitur quasi latinus, quia diu habitavit Rome; tamen oriundus fuit de Cordoba. Sic dicit epithaphium suum: Cordoba me genuit, rapuit Nero, prelia dixi. Galienus fuit de Pergamo, quod erat infra Troyam; Galienus fuit tempore Antonini Pii. Avicenna fuit quasi heri; fuit magnus metaphisicus et phisicus; composuit multos libros notabiles: Metaphisicam, De animalibus, sive naturis animalium, De naturalibus, etc. Averois fuit tempore Avicenne: emulus suus, semper fuit conatus deprimere dicta sua. Ideo dicit textus: Euclidem geometram, scilicet vidi, et Ptholomeum, Hipocratem, Avicennam et Galienum, Averoim, qui magnum comentum fecit. Hic quasi comentavit omnes libros Aristotilis.
 

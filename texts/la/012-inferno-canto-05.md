@@ -8,23 +8,23 @@ In quinto capitulo, quod incipit: Sic descendimus, auctor ponit secundum circulu
 
 # Capitulum Quintum
 
-¹ Così discesi del cerchio primaio\
-&emsp;Giù nel secondo, che men luogo vigna (¹),\
+1 Così discesi del cerchio primaio\
+&emsp;Giù nel secondo, che men luogo vigna (1),\
 &emsp;E tanto più dolor, che punge guaio.
 
-¹ Sic descendi de circulo primo\
+1 Sic descendi de circulo primo\
 &emsp;Infra secundum, qui minorem locum cingit,\
 &emsp;Et tanto plus doloris, quod pungit ad lamentationes.
 
-² Stavvi Mynos, horribilmente rigna:\
+2 Stavvi Mynos, horribilmente rigna:\
 &emsp;Examina le colpe nell'entrata,\
 &emsp;Giudica e manda, secondo ch'avigna.
 
-² Stat ibi Mynos horribiliter, et rugit:\
+2 Stat ibi Mynos horribiliter, et rugit:\
 &emsp;Examinat culpas in introytu,\
 &emsp;Iudicat et mandat, secundum quod invenit.
 
-(¹) al. cigna.
+(1) al. cigna.
 
 Cosi discesi del cerchio primaio. Sic descendi de circulo primo in secundum: istud est quintum capitulum Inferni, in quo auctor ponit penam peccatorum carnalium luxuriosorum, ibi ponendo multos spiritus antiquos, et tandem duos novos. Quod quidem capitulum dividitur in quinque partes, in quarum prima describitur introytus in secundum circulum et ad iudicem Inferni.
 
@@ -58,63 +58,63 @@ Modo in introytu stat iudex Inferni, qui habet cognoscere de peccatis et culpis 
 
 <!-- p. 77 (0131) -->
 
-³ Dico, che quando l'anima malnata\
-&emsp;Li vien (¹) dinanzi, tutta si confessa;\
-&emsp;E quel (²) conoscitor de le peccata
+3 Dico, che quando l'anima malnata\
+&emsp;Li vien (1) dinanzi, tutta si confessa;\
+&emsp;E quel (2) conoscitor de le peccata
 
-³ Dico, quod quando anima male nata\
+3 Dico, quod quando anima male nata\
 &emsp;Venit ante eum, tota se confitetur;\
 &emsp;Et ille cognitor peccatorum
 
-⁴ Vede qual luogo d'inferno è da essa:\
+4 Vede qual luogo d'inferno è da essa:\
 &emsp;Cignesi co'la coda tante volte,\
 &emsp;Quantunque gradi vuol che'n giù sia messa.
 
-⁴ Videt quem locum Inferni est ad eam:\
+4 Videt quem locum Inferni est ad eam:\
 &emsp;Cingit se cum cauda tot vicibus,\
 &emsp;Quot gradibus vult quod infra mictatur.
 
-⁵ Sempre dinanzi a lui ne stanno molte:\
+5 Sempre dinanzi a lui ne stanno molte:\
 &emsp;Vanno a vicenda ciascuna al iuditio;\
 &emsp;Dicono et odono, e poi in giù son volte.
 
-⁵ Semper ante ipsum stant multe:\
+5 Semper ante ipsum stant multe:\
 &emsp;Vadunt ad invicem quelibet ad iuditium;\
 &emsp;[Dicunt et audiunt, et sunt deorsum verse.]
 
-⁶ O tu, che vieni al doloroso hospitio,\
+6 O tu, che vieni al doloroso hospitio,\
 &emsp;Disse Mynos a me, quando mi vide,\
 &emsp;Lassando l'acto di cotanto offitio,
 
-⁶ O qui venis ad dolorosum hospitium,\
+6 O qui venis ad dolorosum hospitium,\
 &emsp;Dixit Mynos ad me, quando me vidit,\
 &emsp;Dimictendo actum tanti offitii,
 
-⁷ Guarda com'entri, e di cui tu ti fide:\
-&emsp;Non t'inganni (³) l'empiezza dell'entrare.\
+7 Guarda com'entri, e di cui tu ti fide:\
+&emsp;Non t'inganni (3) l'empiezza dell'entrare.\
 &emsp;E 'l duca mio a lui: Perchè pur gride?
 
-⁷ Respice quomodo intras, et de quo confidis:\
+7 Respice quomodo intras, et de quo confidis:\
 &emsp;Non te decipiat amplitudo introytus,\
 &emsp;Et dux meus ad eum: Quare pur clamas?
 
-⁸ Non impedire el suo fatal andare:\
+8 Non impedire el suo fatal andare:\
 &emsp;Vuolsi così colà, dove si puote\
 &emsp;Ciò che si vuole, e più non domandare.
 
-⁸ Non impedias suum fatale iter:\
+8 Non impedias suum fatale iter:\
 &emsp;Voluntas sic est illius illic, ubi ipse potest\
 &emsp;Quidquid ipse vult, et plus non petas.
 
-⁹ Hora comincian le dolenti note\
+9 Hora comincian le dolenti note\
 &emsp;A farmisi sentir: hor son venuto\
-&emsp;Là dove molto (⁴) pianto mi perchuote.
+&emsp;Là dove molto (4) pianto mi perchuote.
 
-⁹ Or incipiunt dolentes note\
+9 Or incipiunt dolentes note\
 &emsp;Et faciunt me sentire illas: or, nunc, veni ubi\
 &emsp;Multus planctus me percutit.
 
-(¹) al. li va. — (²) al. lui. — (³) al. non ti vinca. — (⁴) al. grande.
+(1) al. li va. — (2) al. lui. — (3) al. non ti vinca. — (4) al. grande.
 
 Mynos: notandum hystorialiter, quomodo fuit quidam rex in insula Cretensi vocatus Mynos, qui fuit iustus index, et primo dedit leges Cretensibus, per quas leges Cretenses optime regebantur. Mynos fingitur rex Inferni, sicut fuit iustus et cognitor peccatorum in insula Crete, sive Candie. Sed Mynos moraliter est conscientia, que mictit omnes animas ad Infernum. Conscientia sola deputat se ad penam. Si quis debet condempnari in mundo, hoc debet fieri a iusto iudice, nec est iustior iudex quam propria conscientia, quia melius cognoscit peccatum. Mynos interpretatur minans penas, vel minans nos, idest conducens, vel minans nobis penam.
 
@@ -142,55 +142,55 @@ ista est secunda pars huius capituli, etc.
 
 <!-- p. 78 (0132) -->
 
-¹⁰ Io venni in luogo d'ogni luce muto,\
+10 Io venni in luogo d'ogni luce muto,\
 &emsp;Che mugla, come fa mar per tempesta,\
 &emsp;Se da contrarii venti è combattuto.
 
-¹⁰ Et veni in locum omni luce mutum,\
+10 Et veni in locum omni luce mutum,\
 &emsp;Qui mugit, sicut facit mare propter tempestatem,\
 &emsp;Si a contrariis ventis debellatur.
 
-¹¹ La bufera infernal, che mai non resta,\
+11 La bufera infernal, che mai non resta,\
 &emsp;Mena li spirti co la sua rapina,\
 &emsp;Voltando e percotendo li molesta.
 
-¹¹ Bufera infernalis, que nunquam restat,\
+11 Bufera infernalis, que nunquam restat,\
 &emsp;Ducit spiritus cum sua rapina,\
 &emsp;Volvendo et percutiendo illos molestat.
 
-¹² Quando giungon (¹) davanti a la ruina,\
-&emsp;Quivi (²) le strida, e 'l compianto, e lamento,\
+12 Quando giungon (1) davanti a la ruina,\
+&emsp;Quivi (2) le strida, e 'l compianto, e lamento,\
 &emsp;Bastemmian quivi la virtù divina.
 
-¹² Quando perveniunt ante ruinam,\
+12 Quando perveniunt ante ruinam,\
 &emsp;Isti, stridoribus, cum planctu et lamentis,\
 &emsp;Blasphemant ibi virtutem divinam.
 
-¹³ Intesi, che a così facto tormento\
+13 Intesi, che a così facto tormento\
 &emsp;Eran dannati e peccator carnali,\
 &emsp;Che la ragion sommetteno al talento.
 
-¹³ Intellexi, quod ad tale tormentum\
+13 Intellexi, quod ad tale tormentum\
 &emsp;Erant dampnati peccatores carnales,\
 &emsp;Qui rationem submictunt talento.
 
-¹⁴ E come li stornei ne portan l'hali,\
+14 E come li stornei ne portan l'hali,\
 &emsp;Nel freddo tempo, a schiera larga e piena,\
 &emsp;Così quel fiato li spiriti mali
 
-¹⁴ Et quemadmodum sturni portantur alis,\
+14 Et quemadmodum sturni portantur alis,\
 &emsp;In frigido tempore, [in] aciem longam et plenam,\
 &emsp;Sic illo flatu spiritus mali
 
-¹⁵ Di qua, di là, di giù, di su, li mena:\
+15 Di qua, di là, di giù, di su, li mena:\
 &emsp;Nulla speranza li conforta mai,\
 &emsp;Non che di posa, ma di minor pena.
 
-¹⁵ Huc, illuc, sursum, et deorsum,\
+15 Huc, illuc, sursum, et deorsum,\
 &emsp;Illos ducit: nulla spes confortat unquam,\
 &emsp;Nedum quietis, sed nec minoris pene.
 
-(¹) al. vengon. — (²) al. quive.
+(1) al. vengon. — (2) al. quive.
 
 Nunc ponitur pena descripta peccatorum carnalium, quomodo transportantur a ventis impetuosis, percutiunt se invicem, una [anima] in aliam.
 
@@ -216,55 +216,55 @@ Hinc, illuc, superius, inferius, conducit; nulla spes unquam eos confortat: nunc
 
 <!-- p. 79 (0133) -->
 
-¹⁶ E come e gru van cantando (¹) lor lai,\
+16 E come e gru van cantando (1) lor lai,\
 &emsp;Di sè facendo in aer lunga riga;\
 &emsp;Così vid'io venir trahendo guai,
 
-¹⁶ Et tamquam grues vadunt cantando eorum lay,\
+16 Et tamquam grues vadunt cantando eorum lay,\
 &emsp;Faciendo in aiere de se longam rigam;\
 &emsp;Sic ego vidi venire, emictendo guay,
 
-¹⁷ Ombre portate da la decta briga:\
+17 Ombre portate da la decta briga:\
 &emsp;Perch'io dissi: Maestro, chi son quelle\
 &emsp;Ombre portate da la decta briga?
 
-¹⁷ Umbras portatas a dicta briga:\
+17 Umbras portatas a dicta briga:\
 &emsp;Ex quo ego dixi: Magister, que sunt ille\
 &emsp;Gentes, quas aier niger sic castigat?
 
-¹⁸ La prima di color, di cui novelle\
+18 La prima di color, di cui novelle\
 &emsp;Tu vuoi saper, mi disse quelli allocta,\
 &emsp;Fu imperadrice di molte favelle.
 
-¹⁸ Prima illarum, de quibus nova\
+18 Prima illarum, de quibus nova\
 &emsp;Tu vis scire, michi dixit ille tunc,\
 &emsp;Fuit imperatrix multorum ydiomatum.
 
-¹⁹ A vitio di lussuria fu sì rocta,\
+19 A vitio di lussuria fu sì rocta,\
 &emsp;Che libito fe' licito in sua legge,\
 &emsp;Per torre 'l biasmo in che era condocta.
 
-¹⁹ A vitio luxurie fuit ita rupta,\
+19 A vitio luxurie fuit ita rupta,\
 &emsp;Quod libitum fecit licitum in sua lege,\
 &emsp;Ut tolleret infamiam in qua erat corrupta.
 
-²⁰ Ella è Semyramis di cui si legge;\
-&emsp;Che succedette (²) a Nyno, e fu sua sposa:\
+20 Ella è Semyramis di cui si legge;\
+&emsp;Che succedette (2) a Nyno, e fu sua sposa:\
 &emsp;Tenne la terra, che 'l Soldan corregge.
 
-²⁰ Ipsa est Semiramys de qua legitur,\
+20 Ipsa est Semiramys de qua legitur,\
 &emsp;Quod successit Nino, et fuit sua sponsa:\
 &emsp;Tenuit terram, quam Soldanus corrigit.
 
-²¹ L'altr'è colei, che s'ancise amorosa,\
-&emsp;E ruppe fede al cener di Sycheo (³);\
+21 L'altr'è colei, che s'ancise amorosa,\
+&emsp;E ruppe fede al cener di Sycheo (3);\
 &emsp;L'altra è Cleopatra luxuriosa.
 
-²¹ Alia est illa, que se occidit amorosa\
+21 Alia est illa, que se occidit amorosa\
 &emsp;Et rupit fidem cineri Sichei;\
 &emsp;Altera est Cleopatra luxuriosa.
 
-(¹) al. cantando van. — (²) nell'imperio. — (³) secundum fictionem, non veritatem.
+(1) al. cantando van. — (2) nell'imperio. — (3) secundum fictionem, non veritatem.
 
 Et sicut grues cantando suos versus. I lor lay: talem vocem faciunt, faciendo de seipsis in aiere longam lineam; sic vidi venire clamando umbras transportatas a dicta briga, idest a dicto vento: propter quod dixi magistro: Que sunt ille gentes, quas niger aier sic castigat, idest tormentat?
 
@@ -278,43 +278,43 @@ L'altra è coleia. Alia est que se interfecit propter amorem, et rupit fidem cin
 
 <!-- p. 80 (0134) -->
 
-²² Helena vidi, per cui tanto reo\
+22 Helena vidi, per cui tanto reo\
 &emsp;Tempo voltossi, e vidi el grande Achylle,\
 &emsp;Che per amor al fine combatteo.
 
-²² Helenam vidi, propter quam tantum pravum\
+22 Helenam vidi, propter quam tantum pravum\
 &emsp;Tempus se volvit, et vidi grandem Achillem,\
 &emsp;Qui propter amorem ad finem debellatus est.
 
-²³ Vidi Paris, Tristano; e più di mille\
+23 Vidi Paris, Tristano; e più di mille\
 &emsp;Ombre mostrommi e nominommi a dito,\
 &emsp;Ch'amor di nostra vita dipartille.
 
-²³ Vidi Paridem, Tristanum; et plusquam mille\
+23 Vidi Paridem, Tristanum; et plusquam mille\
 &emsp;Umbras monstravit michi et nominavit digito,\
 &emsp;Quas amor a nostra vita separavit.
 
-²⁴ Poscia ch'io ebbi el mio doctor udito\
+24 Poscia ch'io ebbi el mio doctor udito\
 &emsp;Nomar l'antiche donne e'cavalieri,\
 &emsp;Pietà mi vinse, e fui quasi smarrito.
 
-²⁴ Postquam meum doctorem ego audivi\
+24 Postquam meum doctorem ego audivi\
 &emsp;Nominare antiquas dominas et milites,\
 &emsp;Pietas me movit, et fui quasi territus.
 
-²⁵ E cominciai: Poeta, volentieri\
+25 E cominciai: Poeta, volentieri\
 &emsp;Parlerei a quei due, che 'nsieme vanno,\
 &emsp;E paion sì al vento esser leggieri.
 
-²⁵ Postea incepi: Poeta, libenter\
+25 Postea incepi: Poeta, libenter\
 &emsp;Loquerer illis duobus, qui simul vadunt,\
 &emsp;Et videntur sic ad ventum esse leves.
 
-²⁶ Et elli a me: vedrai, quando saranno\
+26 Et elli a me: vedrai, quando saranno\
 &emsp;Più presso a noi; e tu allor li prega\
 &emsp;Per l'amor che li mena; et ei verranno.
 
-²⁶ Et ipse ad me: Videbis, quando erunt\
+26 Et ipse ad me: Videbis, quando erunt\
 &emsp;Propinquiores nobis; et tunc tu illos roga\
 &emsp;Pro amore qui eos ducit; et ipsi venient.
 
@@ -334,47 +334,47 @@ Et ipse: supple magister, dixit michi: Videbis quando erunt plus propinqui, et t
 
 <!-- p. 81 (0135) -->
 
-²⁷ Sì tosto come 'l vento a noi li piega,\
+27 Sì tosto come 'l vento a noi li piega,\
 &emsp;Muove la voce: O anime affannate,\
 &emsp;Venite a noi parlar, s'altri nol niega.
 
-²⁷ Quamprimum ventus ad nos eos plicat,\
+27 Quamprimum ventus ad nos eos plicat,\
 &emsp;Movi vocem: O anime affannate,\
 &emsp;Venite ad loquendum nobiscum, si aliquis non negat.
 
-²⁸ Quali colombe dal desio menate,\
+28 Quali colombe dal desio menate,\
 &emsp;Coll' hali aperte e ferme, al dolce nido\
 &emsp;Vengon per l'aere dal voler portate;
 
-²⁸ Quales columbe a desiderio vocate,\
+28 Quales columbe a desiderio vocate,\
 &emsp;Cum alis apertis firme, ad dulce nidum\
 &emsp;Veniunt per aierem a voluntate portate;
 
-²⁹ Cotali uscir de la schiera ov' è Dido,\
-&emsp;Forte piangendo (¹) per l'aer maligno,\
+29 Cotali uscir de la schiera ov' è Dido,\
+&emsp;Forte piangendo (1) per l'aer maligno,\
 &emsp;Sì forte fu l'affectuoso grido.
 
-²⁹ Tales exierunt ex acie ubi est Dido,\
+29 Tales exierunt ex acie ubi est Dido,\
 &emsp;Ad nos veniendo per aierem malignum,\
 &emsp;Ita fortis fuit affectuosus clamor.
 
-³⁰ O animal gratioso e benigno,\
+30 O animal gratioso e benigno,\
 &emsp;Che visitando vai per l'aere perso\
 &emsp;Noi che tingemmo el mondo di sanguigno;
 
-³⁰ O animal gratiosum et benignum,\
+30 O animal gratiosum et benignum,\
 &emsp;Qui visitando vadis per aierem perditum\
 &emsp;Nos qui tinximus mundum sanguine nostro;
 
-³¹ Se fusse amico el re dell'universo,\
+31 Se fusse amico el re dell'universo,\
 &emsp;Noi pregharemmo lui de la tua pace,\
 &emsp;Po' c' hai pietà del nostro mal perverso.
 
-³¹ Si essemus amici regis universi,\
+31 Si essemus amici regis universi,\
 &emsp;Nos rogaremus eum de tua pace,\
 &emsp;Postquam compateris nostro malo perverso.
 
-(¹) al. venendo a noi.
+(1) al. venendo a noi.
 
 Dantes hic istos, sicut de more fit ab aliquibus dicentibus alicui: Facias hoc servitium amore talis amasie tue.
 
@@ -398,39 +398,39 @@ Si essemus amici regis universi, idest Dei, nos rogaremus ipsum pro tua pace, ex
 
 <!-- p. 82 (0136) -->
 
-³² Di quel ch'udire e che parlar vi piace\
+32 Di quel ch'udire e che parlar vi piace\
 &emsp;Noi udiremo e parleremo a voi,\
-&emsp;Per fin che 'l vento, come fa, ci tace (²).
+&emsp;Per fin che 'l vento, come fa, ci tace (2).
 
-³² De eo quod audire et quod loqui tibi placet\
+32 De eo quod audire et quod loqui tibi placet\
 &emsp;Nos audiemus et loquemur vobis,\
 &emsp;Quousque ventus, sicut facit, nos quietat.
 
-³³ Siede la terra, dove nata foi,\
+33 Siede la terra, dove nata foi,\
 &emsp;Su la marina dove 'l Po discende\
 &emsp;Per haver pace co' seguaci soi.
 
-³³ Sedet terra, ubi nata fui,\
+33 Sedet terra, ubi nata fui,\
 &emsp;Super marina ubi Padus descendit\
 &emsp;Ut habeat pacem cum sequacibus suis.
 
-³⁴ Amor, ch'al cor gentil rapto s'apprende,\
+34 Amor, ch'al cor gentil rapto s'apprende,\
 &emsp;Prese costui de la bella persona\
 &emsp;Che mi fu tolta, e 'l mondo ancor m'offende.
 
-³⁴ Amor, qui cordi gentili ractus se apprehendit,\
+34 Amor, qui cordi gentili ractus se apprehendit,\
 &emsp;Cepit istum de pulchra persona\
 &emsp;Que fuit michi rapta, et modus adhuc me offendit.
 
-³⁵ Amor, ch'a nullo amato amar perdona,\
+35 Amor, ch'a nullo amato amar perdona,\
 &emsp;Mi prese di costui piacer sì forte,\
 &emsp;Che, come vedi, ancor non m'abbandona.
 
-³⁵ Amor, qui nullo amato amare parcit,\
+35 Amor, qui nullo amato amare parcit,\
 &emsp;Me cepit de isto placere tam fortiter,\
 &emsp;Qui, prout vides, adhuc me non deserit.
 
-(¹) al. si tace.
+(1) al. si tace.
 
 Dic quod audire et loqui nobis placet; nos audiemus et loquemur vobis, donec ventus, sicut facit, nunc tacet: idest quiescit; quia primo erat valde impetuosus, oportuit auctorem fingere quod ventus cessaret, ut posset loqui cum istis.
 
@@ -446,55 +446,55 @@ Amor, qui nullo amato parcit: quasi vellet dicere: Iste me amabat; ideo necesse 
 
 <!-- p. 83 (0137) -->
 
-³⁶ Amor condusse noi ad una morte:\
+36 Amor condusse noi ad una morte:\
 &emsp;Cayna attende chi vita ci spense.\
 &emsp;Queste parole da lor ci fur porte.
 
-³⁶ Amor conduxit nos ad unam mortem:\
+36 Amor conduxit nos ad unam mortem:\
 &emsp;Cayna expectat illum qui nos in vita extinxit.\
 &emsp;Ista verba ab eis nobis fuerunt porrecta.
 
-³⁷ Quand'io intesi (¹) quell' anime offense,\
+37 Quand'io intesi (1) quell' anime offense,\
 &emsp;Chinai 'l viso, e tanto el tenni basso,\
 &emsp;Finchè 'l Poeta mi disse: Che pense?
 
-³⁷ Postquam intellexi illas animas offensas,\
+37 Postquam intellexi illas animas offensas,\
 &emsp;Inclinavi vultum, et tantum tenui eum demissum,\
 &emsp;Quousque Magister michi dixit: Quid cogitas?
 
-³⁸ Et io risposi (²) cominciando: Hai (³) lasso,\
+38 Et io risposi (2) cominciando: Hai (3) lasso,\
 &emsp;Quanti dolci pensier, quanto desio\
 &emsp;Menò costor al doloroso passo!
 
-³⁸ Quando respondi, incepi: O lasso (verbum compaxionis),\
+38 Quando respondi, incepi: O lasso (verbum compaxionis),\
 &emsp;Quot dulcia cogitamina, quantum desiderium\
 &emsp;Duxit istos ad dolorosum passum!
 
-³⁹ Poi mi rivolsi a loro, e parlai io,\
+39 Poi mi rivolsi a loro, e parlai io,\
 &emsp;E cominciai: Francesca, e tuo' martiri\
 &emsp;A lagrimar mi fanno tristo e pio.
 
-³⁹ Postea me revolvi ad eos, et loquutus sum ego,\
+39 Postea me revolvi ad eos, et loquutus sum ego,\
 &emsp;Et incepi: Francisca, tua martyria\
 &emsp;Ad lacrymandum me faciunt tristem et pium.
 
-⁴⁰ Ma dimmi: al tempo de' dolci sospiri,\
+40 Ma dimmi: al tempo de' dolci sospiri,\
 &emsp;A che e come concedette amore,\
 &emsp;Che conosceste e dubbiosi desiri?
 
-⁴⁰ Sed dicas michi: In tempore dulcium suspiriorum,\
+40 Sed dicas michi: In tempore dulcium suspiriorum,\
 &emsp;Ad quid et quomodo concessit amor,\
 &emsp;Quod cognovistis dubia desideria?
 
-⁴¹ Et ella a me: Nessun maggior dolore,\
+41 Et ella a me: Nessun maggior dolore,\
 &emsp;Che ricordarsi del tempo felice\
 &emsp;Ne la miseria; e ciò sa 'l tuo doctore.
 
-⁴¹ Et illa ad me: Nullus maior dolor,\
+41 Et illa ad me: Nullus maior dolor,\
 &emsp;Quam recordari temporis felicis\
 &emsp;In miseria; et hoc scit tuus doctor.
 
-(¹) al. po' ch'ebbi inteso — (²) al. quand'io risposi. — (³) al. o.
+(1) al. po' ch'ebbi inteso — (2) al. quand'io risposi. — (3) al. o.
 
 excusatio meretricum dicentium: Non potui aliter facere; non eram saxea, non de diamante; ideo oportuit me sibi consentire.
 
@@ -522,57 +522,57 @@ Et hoc scit doctor tuus: quia Virgilius loquutus fuit de consimili re in sexto, 
 
 <!-- p. 84 (0138) -->
 
-⁴² Ma s'a conoscere la prima radice\
+42 Ma s'a conoscere la prima radice\
 &emsp;Del nostr'amor tu hai cotanto affecto,\
-&emsp;Dirò (¹) come colui (²) che piange e dice.
+&emsp;Dirò (1) come colui (2) che piange e dice.
 
-⁴² Sed si ad cognoscendam primam radicem\
+42 Sed si ad cognoscendam primam radicem\
 &emsp;Nostri amoris tu habes tantum affectum,\
 &emsp;Faciam sicut ille qui plangit et dicit.
 
-⁴³ Noi leggiavam un giorno per dilecto\
+43 Noi leggiavam un giorno per dilecto\
 &emsp;Di Lancilotto, com'amor lo strinse:\
 &emsp;Soli eravamo e senz'alcun sospecto.
 
-⁴³ Nos legebamus una die propter delectationem\
+43 Nos legebamus una die propter delectationem\
 &emsp;De Lancellocto, sicut amor illum strinxit:\
 &emsp;Soli eramus sine aliqua suspicione.
 
-⁴⁴ Per più fiate gl' ochi ci sospinse\
+44 Per più fiate gl' ochi ci sospinse\
 &emsp;Quella lectura, e scolorocci el viso:\
 &emsp;Ma sol un punto fu quel che ci vinse.
 
-⁴⁴ Per plures vices oculos michi impulit\
+44 Per plures vices oculos michi impulit\
 &emsp;Illa lectura, et decoloravit nobis visum:\
 &emsp;Sed solum unus punctus fuit ille qui nos vicit.
 
-⁴⁵ Quando leggemmo el desiato riso\
+45 Quando leggemmo el desiato riso\
 &emsp;Esser baciato da cotanto amante,\
 &emsp;Costui, che mai da me non fie diviso,
 
-⁴⁵ Quando legimus desideratum risum\
+45 Quando legimus desideratum risum\
 &emsp;Osculari a tanto amante,\
 &emsp;Iste, qui nunquam a me dividetur,
 
-⁴⁶ La bocha mi baciò tutto tremante:\
+46 La bocha mi baciò tutto tremante:\
 &emsp;Ghaleotto fu 'l libro e chi lo scrisse:\
 &emsp;Quel giorno più non vi legemmo avante.
 
-⁴⁶ Os meum osculatus est totus tremens:\
+46 Os meum osculatus est totus tremens:\
 &emsp;Galeoctus fuit liber et qui illum scripsit:\
 &emsp;Illo die plus non legimus ulterius.
 
-⁴⁷ Mentre che l'uno spirto questo disse,\
+47 Mentre che l'uno spirto questo disse,\
 &emsp;L'altro piangeva sì, che di pietade\
 &emsp;Io venni men così com'io morisse;\
 &emsp;E caddi, come corpo morto cade.
 
-⁴⁷ Interim quod unus spiritus istud dixit,\
+47 Interim quod unus spiritus istud dixit,\
 &emsp;Alter plangebat ita, quod ex pietate\
 &emsp;Ego defeci sic ac si morerer;\
 &emsp;Et cecidi, sicut corpus mortuum cadit.
 
-(¹) al. farò. — (²) al. colei.
+(1) al. farò. — (2) al. colei.
 
 Sed si cognoscere primam radicem nostri amoris, habes tantum affectum, dicam sicut ille qui, plorando, dicit. Nos legebamus una die ad delectationem, idest ad solatium, de Lancellocto, quomodo amor ipsum strinxit: dicit quod lectura librorum delectabilium habet incitare ad amorem.
 

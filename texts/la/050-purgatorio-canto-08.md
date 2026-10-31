@@ -8,31 +8,31 @@ In isto octavo capitulo, quod incipit: Iam erat hora, auctor prosequitur predict
 
 # Capitulum Octavum
 
-¹ Era già l'hora che volge 'l desio\
+1 Era già l'hora che volge 'l desio\
 &emsp;A'naviganti e 'ntenerisce 'l core,\
 &emsp;Lo dì ch'àn dicto e'dolci amici: A Dio;
 
-¹ Erat iam hora quae vertit desiderium\
+1 Erat iam hora quae vertit desiderium\
 &emsp;Navigantibus et tenerefacit cor,\
 &emsp;In die quo dixerunt dulcibus amicis: Ad Deum;
 
-² Così lo nuovo peregrin d'amore\
+2 Così lo nuovo peregrin d'amore\
 &emsp;Punge, se ode squilla di lontano,\
 &emsp;Che paia 'l giorno pianger che si more;
 
-² Et quod novus peregrinus amoris\
+2 Et quod novus peregrinus amoris\
 &emsp;Pungit se, si audit squillam a longe,\
 &emsp;Que appareat diem plorare qui moritur;
 
-³ Quand'io incominciai a render vano\
+3 Quand'io incominciai a render vano\
 &emsp;L'udire, et ammirar una dell'alme\
-&emsp;Surta, che (¹)l'ascoltar chiedea con mano.
+&emsp;Surta, che (1)l'ascoltar chiedea con mano.
 
-³ Quando ego incepi reddere vanum\
+3 Quando ego incepi reddere vanum\
 &emsp;Auditum, et admirari unam de animabus\
 &emsp;Que, sursum levata, auscultare petebat cum manu.
 
-(¹) la quale.
+(1) la quale.
 
 Erat iam hora. Era già l'ora: istud est octavum capitulum huius Purgatorii, in quo auctor, ex quo tractavit in precedenti de quinta specie negligentie, illorum qui tardaverunt penitere usque ad mortem, impediti propter dignitates, adhuc in illo vult prosequi de illis, quos invenit in isto circulo: et dividitur in quatuor partes. In quarum prima auctor describit orationem, quam dicunt ille anime, et effectum orationis.
 
@@ -52,55 +52,55 @@ Era già l'hora. Erat iam hora, que vertit desiderium navigantibus et tenerefaci
 
 <!-- p. 513 (0567) -->
 
-⁴ Ella giunse e levò ambo le palme,\
+4 Ella giunse e levò ambo le palme,\
 &emsp;Ficcando gl'ochi verso l'oriente,\
 &emsp;Come dicesse a Dio: D'altro non calme.
 
-⁴ Ipsa iunxit et levavit ambas manus,\
+4 Ipsa iunxit et levavit ambas manus,\
 &emsp;Figendo oculos versus orientem,\
 &emsp;Ac si diceret Deo: De alio non quero.
 
-⁵ Te lucis ante, sì devotamente\
+5 Te lucis ante, sì devotamente\
 &emsp;Gl'uscì di bocha, con sì dolci note,\
 &emsp;Che fece me a me uscir di mente.
 
-⁵ Te lucis ante, ita devote\
+5 Te lucis ante, ita devote\
 &emsp;Ex illius exivit ore, et cum tam dulcibus notis,\
 &emsp;Quod fecit me mei oblivisci.
 
-⁶ E l'altre poi dolcemente e devote\
+6 E l'altre poi dolcemente e devote\
 &emsp;Seguitar lei per tutto l'hynno intero,\
 &emsp;Havendo gl'ochi a le superne rote.
 
-⁶ Et alie postea dulciter et devote\
+6 Et alie postea dulciter et devote\
 &emsp;Secute sunt illam per totum ympnum integrum,\
 &emsp;Habendo oculos ad supernas rotas.
 
-⁷ Aguzza qui, lector, ben gl'ochi al vero (¹)\
+7 Aguzza qui, lector, ben gl'ochi al vero (1)\
 &emsp;Chè 'l velo è ben hor tanto sottile,\
 &emsp;Certo, che 'l trapassar dentro è leggiero.
 
-⁷ Acue hic, lector, bene oculos ad verum,\
+7 Acue hic, lector, bene oculos ad verum,\
 &emsp;Quia velum est nunc bene ita subtile,\
 &emsp;Certe, quod penetrare intro est leve.
 
-⁸ Io viddi quello exercito gentile\
+8 Io viddi quello exercito gentile\
 &emsp;Tacito poscia riguardare in sue,\
 &emsp;Quasi aspectando tacito et humile:
 
-⁸ Ego vidi illum exercitum gentilem\
+8 Ego vidi illum exercitum gentilem\
 &emsp;Tacitum postmodum respicere sursum,\
 &emsp;Quasi expectando pallidum et humilem:
 
-⁹ E vidi uscir dell'alto, e scender giue,\
+9 E vidi uscir dell'alto, e scender giue,\
 &emsp;Due angeli con due spade affocate,\
 &emsp;Tronche e private delle puncte sue.
 
-⁹ Et vidi exire de alto, et descendere deorsum,\
+9 Et vidi exire de alto, et descendere deorsum,\
 &emsp;Duos angelos cum duobus ensibus ignitis,\
 &emsp;Truncatis et privatis cuspidibus suis.
 
-(¹) Il manos. ha: e' l viso con la variante al. al.
+(1) Il manos. ha: e' l viso con la variante al. al.
 
 sic pulsatur de sero talis campana, quod sonus ille videtur quidem planctus diei cessantis), a longe, que apparet diem plorare qui moritur, idest quando sol occidit: idest, erat nox; quando ego incepi reddere vanum auditum, quia non plus audiebam cantum illarum animarum, que cantaverunt Salve Regina, et admirari unam de illis animabus, que, sursum levata, auscultare, idest ut auscultaretur, petebat cum signis manuum, cum manu. Surta, que surrexerat. Illa erat anima iudicis Nini de Gallura, qui cum suis manibus petebat silentium aliis, quia post Salve Regina, induxit illas animas in orationem, imponendo silentium manu.
 
@@ -116,63 +116,63 @@ Ecce quod exauditio facta est. Mictuntur protectores ad defendendum istas animas
 
 <!-- p. 514 (0568) -->
 
-¹⁰ Verdi, come fogl[i]ette pur mo' nate,\
+10 Verdi, come fogl[i]ette pur mo' nate,\
 &emsp;Eran in veste, che da verdi penne\
 &emsp;Percosse trahean dietro e ventilate.
 
-¹⁰ Virides, quasi foliuscule nunc noviter nate,\
+10 Virides, quasi foliuscule nunc noviter nate,\
 &emsp;Erant in apparentia, quas a viridibus pennis\
 &emsp;Percussas trahebant retro et ventilatas.
 
-¹¹ L'un poco sopra noi a star si venne,\
+11 L'un poco sopra noi a star si venne,\
 &emsp;E l'altro scese in l'opposita sponda,\
 &emsp;Sì che la gente in mezzo si contenne.
 
-¹¹ Unus supra nos aliquantulum ad standum venit,\
+11 Unus supra nos aliquantulum ad standum venit,\
 &emsp;Et alius descendit in oppositam partem,\
 &emsp;Ita quod gens in medio se continuit.
 
-¹² Ben discerneva in lor la testa bionda;\
-&emsp;Ma nelle faccie (¹) l'ochio (²) si smarria,\
+12 Ben discerneva in lor la testa bionda;\
+&emsp;Ma nelle faccie (1) l'ochio (2) si smarria,\
 &emsp;Come virtù ch'a troppo si confonda.
 
-¹² Bene discernebam in eis caput flavum;\
+12 Bene discernebam in eis caput flavum;\
 &emsp;Sed in faciebus oculus meus deviahat,\
 &emsp;Sicut virtus que a nimio confunditur.
 
-¹³ Ambo vegnon del grembo di Maria,\
+13 Ambo vegnon del grembo di Maria,\
 &emsp;Disse Sordello, a guardia della valle,\
-&emsp;Per lo serpente che verrà via via (³).
+&emsp;Per lo serpente che verrà via via (3).
 
-¹³ Ambo veniunt de gremio Marie,\
+13 Ambo veniunt de gremio Marie,\
 &emsp;Dixit Sordellus, ad custodiam vallis,\
 &emsp;Propter serpentem qui veniet statim.
 
-¹⁴ Ond'io che non sapea per qual calle (⁴),\
+14 Ond'io che non sapea per qual calle (4),\
 &emsp;Mi volsi 'ntorno, e stretto m'accostai\
-&emsp;Tutto gelato alle fidate spalle (⁵).
+&emsp;Tutto gelato alle fidate spalle (5).
 
-¹⁴ Unde ego qui nesciebam per quem callem,\
+14 Unde ego qui nesciebam per quem callem,\
 &emsp;Me volvi circum, et stricte me adhesi\
 &emsp;Totus gelatus apud fidos humeros.
 
-¹⁵ E Sordel disse: Avvalliamo omai\
+15 E Sordel disse: Avvalliamo omai\
 &emsp;Tra le grandi ombre, e parleremo ad esse:\
 &emsp;Gratioso lor fia vedervi assai.
 
-¹⁵ Et Sordellus dixit: Ad vallem descendamus ammodo\
+15 Et Sordellus dixit: Ad vallem descendamus ammodo\
 &emsp;Inter grandes umbras, et loquemur ad eas:\
 &emsp;Gratiosum erit eis videre nos satis.
 
-¹⁶ Solo tre passi credo ch'io scendesse,\
+16 Solo tre passi credo ch'io scendesse,\
 &emsp;E fui di sotto, e vidi un che mirava\
 &emsp;Pur me, come conoscer mi volesse.
 
-¹⁶ Solum per tres passus credo quod descendimus,\
+16 Solum per tres passus credo quod descendimus,\
 &emsp;Et fui infra, et vidi unum qui respiciebat,\
 &emsp;Ac si me cognoscere vellet.
 
-(¹) loro — (²) mio — (³) hor hora — (⁴) Dovesse venire el serpente — (⁵) di Virgilio.
+(1) loro — (2) mio — (3) hor hora — (4) Dovesse venire el serpente — (5) di Virgilio.
 
 Ponit colorem istorum angelorum dicens: Virides, quasi foliuscule nunc noviter nate, erant in apparentia, velin veste, quas a viridibus pennis percussas trahebant retro et ventilatas. Viriditas figurat spem, que miclit illos duos angelos illis animabus purgandis, et omnes vivunt cum spe ventilandi, idest gloriam.
 
@@ -190,71 +190,71 @@ Solum per tres passus credo quod descendimus, et fui infra, et vidi unum, qui re
 
 <!-- p. 515 (0569) -->
 
-¹⁷ Tempo era già che l'aere s'annerava,\
+17 Tempo era già che l'aere s'annerava,\
 &emsp;Ma non sì, che tra gli ochi suoi e' miei\
 &emsp;Non dichiarasser ciò che pria serrava.
 
-¹⁷ Tempus erat iam quod aier nigrefiebat,\
+17 Tempus erat iam quod aier nigrefiebat,\
 &emsp;Sed non sic, quin inter suos oculos et meos\
 &emsp;Non declararetur id quod prius [s]errabatur.
 
-¹⁸ Vèr me si fece, et io ver lui mi fei:\
-&emsp;(¹) Giudice Nino gentil, quanto mi piacque,\
+18 Vèr me si fece, et io ver lui mi fei:\
+&emsp;(1) Giudice Nino gentil, quanto mi piacque,\
 &emsp;Quando ti vidi non esser tra' rei!
 
-¹⁸ Versus me se fecit, et ego versus illum me feci:\
+18 Versus me se fecit, et ego versus illum me feci:\
 &emsp;Iudex Nine gentilis, quantum mihi placuit,\
 &emsp;Quod te vidi non esse intra reos!
 
-¹⁹ Nullo bel salutar tra noi si tacque;\
+19 Nullo bel salutar tra noi si tacque;\
 &emsp;Poi domandò: Quant'è che tu venisti\
 &emsp;A piè del monte per le lontan'acque?
 
-¹⁹ Nulla pulchra salu[t]atio inter nos tacuit;\
+19 Nulla pulchra salu[t]atio inter nos tacuit;\
 &emsp;Postea interrogauit: Quantum est quod tu venisti\
 &emsp;Ad pedes montis per longinquas aquas?
 
-²⁰ O, diss'io lui, per entro e luoghi tristi\
+20 O, diss'io lui, per entro e luoghi tristi\
 &emsp;Venni stamane, e sono in prima vita,\
 &emsp;Ancor che l'altra sì andando acquisti.
 
-²⁰ O, dixi ego ad eum, per intra loca tristia\
+20 O, dixi ego ad eum, per intra loca tristia\
 &emsp;Veni isto mane, et sum in prima vita,\
 &emsp;Quamquam aliam sic eundo acquiram.
 
-²¹ E come fu la mia risposta udita,\
+21 E come fu la mia risposta udita,\
 &emsp;Sordello et elli in dietro si raccolse,\
 &emsp;Come gente di subito smarrita.
 
-²¹ Et sicut fuit meum responsum auditum,\
+21 Et sicut fuit meum responsum auditum,\
 &emsp;Sordellus et ipse retro se collegerunt,\
 &emsp;Sicut gens de subito parefacta.
 
-²² L'uno a Virgilio, e l'altro ad un si volse\
+22 L'uno a Virgilio, e l'altro ad un si volse\
 &emsp;Che sedea lì, gridando: Su, Corrado,\
 &emsp;Vien a veder che Dio per gratia volse.
 
-²² Unus ad Virgilium, et alter ad me se voluit\
+22 Unus ad Virgilium, et alter ad me se voluit\
 &emsp;Qui sedebat ibi, clamando: Surge, Conrade,\
 &emsp;Veni ad videndum quid Deus per gratiam voluit.
 
-²³ Poi volti a me: Per quel singolar grado,\
+23 Poi volti a me: Per quel singolar grado,\
 &emsp;Che tu dèi a colui, che sì nasconde\
 &emsp;Lo suo primo, perchè che non gl'è guado,
 
-²³ Postea conversi ad me: Per illum singularem gradum,\
+23 Postea conversi ad me: Per illum singularem gradum,\
 &emsp;Quem tu debes illi, qui sic abscondit\
 &emsp;Suum primum, quia non est sibi gratum,
 
-²⁴ Quando sarai di là da le larghe onde,\
+24 Quando sarai di là da le larghe onde,\
 &emsp;Di' a Giovanna mia, che per me chiami\
 &emsp;Là dove agl'innocenti si risponde.
 
-²⁴ Quando eris ultra largas undas,\
+24 Quando eris ultra largas undas,\
 &emsp;Dicas Ioanne, quod pro me clamet\
 &emsp;Ibi ubi innocentibus respondetur.
 
-(¹) o
+(1) o
 
 Tempus erat iam quod aier nigrefiebat, sed non tantum, quin inter oculos suos et meos non declararetur id quod prius [s]errabatur. Quasi dicat: Licet esset nox, non tamen tam obscura, quin perpenderemus id quod prius latebat, antequam veniret illuc, quia recognoverunt se invicem.
 
@@ -272,27 +272,27 @@ Modo fit hic conversatio. Postea conversi ad me, scilicet dixerunt: Per illum si
 
 <!-- p. 516 (0570) -->
 
-²⁵ Non credo che la sua madre più m'ami,\
+25 Non credo che la sua madre più m'ami,\
 &emsp;Poscia che trasmutò le bianche bende,\
 &emsp;Le quai convien che, misero, ancor brami.
 
-²⁵ Non credo quod sua mater plus me amet,\
+25 Non credo quod sua mater plus me amet,\
 &emsp;Postquam transmutavit albas bendas,\
 &emsp;Quas convenit quod misera adhuc bramet.
 
-²⁶ Per lei assai di lei vi si comprende,\
+26 Per lei assai di lei vi si comprende,\
 &emsp;Quant'in femina foco d'amor dura,\
 &emsp;Se l'ochio o'l tacto spesso non l'accende.
 
-²⁶ Per ipsam satis de levi comprehenditur,\
+26 Per ipsam satis de levi comprehenditur,\
 &emsp;Quantum in femina ignis amoris duret,\
 &emsp;Si tactus vel oculus sepe illam non accendit.
 
-²⁷ Non le farà sì bella sepultura\
+27 Non le farà sì bella sepultura\
 &emsp;La vipra che li Melanesi accampa,\
 &emsp;Com'havria facto el gallo di Gallura.
 
-²⁷ Non ei faciet ita pulchram sepulturam\
+27 Non ei faciet ita pulchram sepulturam\
 &emsp;Vipera que Mediolanenses accampat,\
 &emsp;Sicut fecisset gallus de Gallura.
 
@@ -306,63 +306,63 @@ Non ei faciet ita pulchram sepulturam vipera, idest arma que Mediolanenses accam
 
 <!-- p. 517 (0571) -->
 
-²⁸ Così dicea, segnato della stampa\
+28 Così dicea, segnato della stampa\
 &emsp;Nel suo aspecto di quel dritto zelo,\
 &emsp;Che misuratamente el cuor avampa.
 
-²⁸ Sic dicebat, signatus de stampa\
+28 Sic dicebat, signatus de stampa\
 &emsp;In suo aspectu illius recti zeli,\
 &emsp;Que sine mensura corda avampat.
 
-²⁹ Gl'ochi miei ghiotti d'andar (¹) pur al cielo,\
+29 Gl'ochi miei ghiotti d'andar (1) pur al cielo,\
 &emsp;Pur là dove le stelle son più tarde,\
 &emsp;Sì come rota più presso allo stelo.
 
-²⁹ Oculi mei avidi ibant versus celum,\
+29 Oculi mei avidi ibant versus celum,\
 &emsp;Solum illuc ubi stelle sunt tardiores,\
 &emsp;Sicut rota propinquior ostello.
 
-³⁰ E'l duca mio (²): Figluol, che lassù guarde?\
+30 E'l duca mio (2): Figluol, che lassù guarde?\
 &emsp;Et io a lui: A quelle tre facelle,\
 &emsp;Di che 'l polo di qua tutto quanto arde
 
-³⁰ Et dux meus: Fili, quid illuc orsum respicis?\
+30 Et dux meus: Fili, quid illuc orsum respicis?\
 &emsp;Et ego ad eum: Ad illas tres facellas,\
 &emsp;De quibus polus abhinc totus ardet.
 
-³¹ Ond'elli a me: Le quattro chiare stelle\
+31 Ond'elli a me: Le quattro chiare stelle\
 &emsp;Che vedevi staman, son di là basse,\
 &emsp;E queste son salite ov'eran quelle.
 
-³¹ Et ipse ad me: Quatuor clare stelle\
+31 Et ipse ad me: Quatuor clare stelle\
 &emsp;Quas videbas isto mane, sunt ex alia parte infime,\
 &emsp;Et iste ascenderunt illuc ubi erant ille.
 
-³² Com'el parlava, e Sordello a sè 'l trasse\
+32 Com'el parlava, e Sordello a sè 'l trasse\
 &emsp;Dicendo: Vedi la 'l nostro adversaro;\
 &emsp;E drizzò 'l dito, perchè in là guardasse.
 
-³² Dum ego loquebar, et Sordellus ad se illum traxit,\
+32 Dum ego loquebar, et Sordellus ad se illum traxit,\
 &emsp;Dicendo: Videas ibi nostrum adversarium;\
 &emsp;Et direxit digitum, ut ego illum respi[ce]rem.
 
-³³ Da quella parte, onde non ha riparo\
+33 Da quella parte, onde non ha riparo\
 &emsp;La picciola vallea, era una biscia,\
 &emsp;Forse qual diede ad Eva el cibo amaro.
 
-³³ Ab illa parte, ubi non habet reparaculum\
+33 Ab illa parte, ubi non habet reparaculum\
 &emsp;Parva vallis, erat una vipera,\
 &emsp;Forte qualis dedit Eve cibum amarum.
 
-³⁴ Tra l'herba e' fiori venia la mala striscia,\
+34 Tra l'herba e' fiori venia la mala striscia,\
 &emsp;Volgendo ad hor ad hor la testa al dosso,\
 &emsp;Leccandol come bestia che si liscia.
 
-³⁴ Inter herbas et flores veniebat mala striscia,\
+34 Inter herbas et flores veniebat mala striscia,\
 &emsp;Volvendo de hora in horam caput ad dorsum,\
 &emsp;Lingendo se sicut bestia que se linit.
 
-(¹) al. n'andar — (²) al. a me.
+(1) al. n'andar — (2) al. a me.
 
 Sic dicebat, signatus de stampa, idest de impressione, in suo aspectu, illius recti zeli, idest amoris et caritatis, qui smisurate, idest immense, sive sine mensura, corda avampat, idest inflammat, ad bene amandum.
 
@@ -384,51 +384,51 @@ Inter herbas et flores mala striscia veniebat, quia inter delectationes et conso
 
 <!-- p. 518 (0572) -->
 
-³⁵ Io non vidi, e però dicer nol posso,\
+35 Io non vidi, e però dicer nol posso,\
 &emsp;Come mosser gl'astori celestiali,\
 &emsp;Ma vidi bene l'uno e l'altro mosso.
 
-³⁵ Ego non vidi, et ideo illud dicere non possum,\
+35 Ego non vidi, et ideo illud dicere non possum,\
 &emsp;Quomodo moverunt astores celestiales,\
 &emsp;Sed vidi bene unum [et] alterum motum.
 
-³⁶ Sentendo fender l'aer a le verdi hali,\
+36 Sentendo fender l'aer a le verdi hali,\
 &emsp;Fuggì 'l serpente, gl'angeli dier volta\
 &emsp;Suso a le poste e rivolando equali.
 
-³⁶ Sentiendo findere aierem virides alas,\
+36 Sentiendo findere aierem virides alas,\
 &emsp;Fugit serpens, et angeli dederunt voltam\
 &emsp;Sursum ad posita loca revolando equales.
 
-³⁷ L'ombra che s'era al Giudice raccolta,\
+37 L'ombra che s'era al Giudice raccolta,\
 &emsp;Quando chiamò, per tutto quello assalto\
 &emsp;Punto non fu da me guardare sciolta.
 
-³⁷ Umbra que ad Iudicem erat recollecta,\
+37 Umbra que ad Iudicem erat recollecta,\
 &emsp;Quando vocavit, ex toto illo congressu\
 &emsp;Nihil fuit a me loquela dissoluta.
 
-³⁸ Se la lucerna che ti mena in alto\
+38 Se la lucerna che ti mena in alto\
 &emsp;Truovi nel tuo arbitrio tanta cera,\
 &emsp;Quant'è mestier infin al sommo smalto,
 
-³⁸ Si lucerna que te ducit in altum\
+38 Si lucerna que te ducit in altum\
 &emsp;Reperiat in tuo arbitrio tantam ceram,\
 &emsp;Quanta est necesse usque ad viridem smaltum,
 
-³⁹ Cominciò ella, se novella vera\
+39 Cominciò ella, se novella vera\
 &emsp;Di Valdimagra, o di parte vicina,\
 &emsp;Sai, dill'a me che già grande là era.
 
-³⁹ Incepit illa, si novum verum\
+39 Incepit illa, si novum verum\
 &emsp;De Valle Magra, vel de parte vicina,\
 &emsp;Scis, dic illud michi qui iam grandis eram ibi.
 
-⁴⁰ Chiamato fui Currado Melespina:\
+40 Chiamato fui Currado Melespina:\
 &emsp;Non son l'antico, ma di lui discesi;\
 &emsp;A'mici portai l'amor che qui raffina.
 
-⁴⁰ Fui vocatus Conradus Malaspina:\
+40 Fui vocatus Conradus Malaspina:\
 &emsp;Non sum antiquus, sed ab eo descendi;\
 &emsp;Meis portavi amorem, qui hic reaffinatur.
 
@@ -446,57 +446,57 @@ Fui vocatus Conradus Malaspina, non antiquus, sed ab eo descendi; idest ab uno a
 
 <!-- p. 519 (0573) -->
 
-⁴¹ O, diss'io lui, per li vostri paesi\
+41 O, diss'io lui, per li vostri paesi\
 &emsp;Giamai non fui; ma du'si dimora\
 &emsp;Per tutta Europa, che non sien palesi?
 
-⁴¹ O, dixi ego ad eum, per vestras regiones\
+41 O, dixi ego ad eum, per vestras regiones\
 &emsp;Nunquam fui; sed ubi quis moratur\
 &emsp;Per totam Europam, quod ipsi non sunt publici?
 
-⁴² La fama che la vostra casa honora,\
+42 La fama che la vostra casa honora,\
 &emsp;Grida e'signori, e grida la contrada,\
 &emsp;Sì che ne sa chi non vi fu ancora.
 
-⁴² Fama[m], que vestram domum honorat,\
+42 Fama[m], que vestram domum honorat,\
 &emsp;Clamant domini, clamat contracta,\
 &emsp;Ita quod de vobis scit quis nunquam fuit ibi.
 
-⁴³ Et io vi giuro, s'io di sopra vada,\
+43 Et io vi giuro, s'io di sopra vada,\
 &emsp;Che vostra gente honrata non si sfregia\
 &emsp;Del pregio di bontade e della spada.
 
-⁴³ Et ego vobis iuro, si ego sursum vadam,\
+43 Et ego vobis iuro, si ego sursum vadam,\
 &emsp;Quod vestra gens honorata non sfregiatur\
 &emsp;De pretio burse et de ense.
 
-⁴⁴ Uso e natura sì la privilegia,\
+44 Uso e natura sì la privilegia,\
 &emsp;Che, perchè 'l capo reo lo mondo torcha,\
 &emsp;Sola va dritta, e'l mal cammin dispregia.
 
-⁴⁴ Usus et natura illos privilegiat,\
+44 Usus et natura illos privilegiat,\
 &emsp;Quia, quamquam caput reum mundum torqueat,\
 &emsp;Sola vadit recte, et malum iter despicit.
 
-⁴⁵ Et elli: Or va', che 'l sol non si ricorcha\
-&emsp;Sette volte nel lecto del (¹) Montone\
+45 Et elli: Or va', che 'l sol non si ricorcha\
+&emsp;Sette volte nel lecto del (1) Montone\
 &emsp;Con tutt'e quattro e pie' cuopre et inforcha,
 
-⁴⁵ Et ipse: Nunc vadas, quod sol non recumbet\
+45 Et ipse: Nunc vadas, quod sol non recumbet\
 &emsp;Septem vicibus in lecto quem Aries\
 &emsp;Cum omnibus quatuor pedibus cooperit et infurcat,
 
-⁴⁶ Che cotesta cortese opinione\
+46 Che cotesta cortese opinione\
 &emsp;Ti fie chiavata in mezzo de la testa\
 &emsp;Con maggior chiovi che d'altrui sermone;\
 &emsp;Se corso di giudicio non s'arresta.
 
-⁴⁶ Quod ista curialis opinio\
+46 Quod ista curialis opinio\
 &emsp;Tibi erit conclavata in medio capitis,\
 &emsp;Cum maioribus clavis quam alterius sermonis;\
 &emsp;Si cursus iudicii non restatur.
 
-(¹) al. che'l.
+(1) al. che'l.
 
 O, dixi ad eum, per vestras regiones, idest per vestra dominia, nunquam fui: sed ubi quis moratur (quasi dicat: nullibi) per totam Europam, quod ipsi non sint ibi publici, idest cogniti? Quasi dicat auctor: Ego sum de illis, qui nunquam fuerunt in vestro dominio: sed audivi de fama vestrum.
 

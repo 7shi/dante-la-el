@@ -8,19 +8,19 @@ In secundo capitulo, quod incipit: Dies declinabat, etc., Lo yorno se n'andava, 
 
 # Capitulum Secundum
 
-¹ Lo giorno se n'andava, e l'aer bruno\
+1 Lo giorno se n'andava, e l'aer bruno\
 &emsp;Tolleva gli animal, che sono in terra,\
 &emsp;Da le fatiche loro; et io sol uno
 
-¹ Dies descendebat, et aier brunus\
+1 Dies descendebat, et aier brunus\
 &emsp;Retrahebat animalia, que sunt in terra,\
 &emsp;A laboribus suis; et ego solus unus
 
-² M'apparecchiava a sostener la guerra\
+2 M'apparecchiava a sostener la guerra\
 &emsp;Sì del cammino e sì de la pietate,\
 &emsp;Che ritrarrà la mente, che non erra.
 
-² Me preparabam ad sustinendum guerram\
+2 Me preparabam ad sustinendum guerram\
 &emsp;Tum itineris et tum pietatis,\
 &emsp;Quam retractabit mens, que non errat.
 
@@ -56,55 +56,55 @@ De la pietate et de compaxione: tangit penam mentalem. Che ritrarrà: scilicet d
 
 <!-- p. 41 (0095) -->
 
-³ O Muse, o alto ingegno, hor m'aiutate;\
+3 O Muse, o alto ingegno, hor m'aiutate;\
 &emsp;O mente, che scrivesti ciò ch'io vidi,\
 &emsp;Qui si parrà la tua nobilitate.
 
-³ O Muse, o altum ingenium, nunc me invetis;\
+3 O Muse, o altum ingenium, nunc me invetis;\
 &emsp;O mens, que scripsisti quidquid vidi,\
 &emsp;Hic apparebit tua nobilitas.
 
-⁴ Io cominciai: Poeta (¹) che mi guidi,\
+4 Io cominciai: Poeta (1) che mi guidi,\
 &emsp;Guarda la mia virtù, s'ell'è possente,\
 &emsp;Prima ch'all'alto passo tu mi fidi.
 
-⁴ Ego incepi: Poeta qui me ducis,\
+4 Ego incepi: Poeta qui me ducis,\
 &emsp;Cerne virtutem meam, si est potens,\
 &emsp;Priusquam alto passui me confidas.
 
-⁵ Tu dici, che di Silvio el parente, (²)\
-&emsp;Corruptibile (³) ancora, ad immortale\
+5 Tu dici, che di Silvio el parente, (2)\
+&emsp;Corruptibile (3) ancora, ad immortale\
 &emsp;Secolo andò, e fu sensibilmente.
 
-⁵ Tu dicis, quod Silvii parens,\
+5 Tu dicis, quod Silvii parens,\
 &emsp;Corruptibilis adhuc, ad immortale\
 &emsp;Seculum ivit, et fuit ibi sensibiliter.
 
-⁶ Però se l'adversaro d'ogni male\
+6 Però se l'adversaro d'ogni male\
 &emsp;Cortese fu, pensando l'alto effecto,\
 &emsp;Ch'uscir dovea di lui, e chi, e quale,
 
-⁶ Quare si adversarius omnium malorum\
+6 Quare si adversarius omnium malorum\
 &emsp;Curialis sibi fuit, cogitando altum effectum,\
 &emsp;Qui exire debebat ex eo, quis et qualis,
 
-⁷ Non par indegno ad homo d'intellecto:\
+7 Non par indegno ad homo d'intellecto:\
 &emsp;Chè fu dell'alma Roma e di suo Impero\
 &emsp;Nell'Empyreo ciel per padre electo.
 
-⁷ Non videtur indignum homini intelligenti:\
+7 Non videtur indignum homini intelligenti:\
 &emsp;Cum fuerit alme Rome et sui Imperii\
 &emsp;In empireo celo per patrem electus.
 
-⁸ Lo qual, e'l quale, a voler dir lo vero,\
+8 Lo qual, e'l quale, a voler dir lo vero,\
 &emsp;Fu stabilito per lo luogo santo,\
 &emsp;U'siede el successor del maggior Piero.
 
-⁸ Que, et qualis, ad volendum dicere verum,\
+8 Que, et qualis, ad volendum dicere verum,\
 &emsp;Fuit stabilitum per locum sanctum\
 &emsp;Ubi sedet successor maioris Petri.
 
-(¹) o Virgilio. — (²) Enea. — (³) mortale.
+(1) o Virgilio. — (2) Enea. — (3) mortale.
 
 O musa: modo invocat more poetarum. Poete solent invocare unam Musarum, scilicet Euraniam, vel Calliopem, vel Erato, vel Clio. Sed iste invocat altiori modo, dicendo: O musa.
 
@@ -146,63 +146,63 @@ E chi: scilicet in substantia. E il quale: scilicet in potentia. Idest, si tu, V
 
 <!-- p. 42 (0096) -->
 
-⁹ Per questa andata, onde li dai tu vanto,\
+9 Per questa andata, onde li dai tu vanto,\
 &emsp;Intese cose, che furon cagione\
 &emsp;Di sua victoria e di papal amanto.
 
-⁹ Per istud iter, unde tu das sibi vantum,\
+9 Per istud iter, unde tu das sibi vantum,\
 &emsp;Intellexit res que fuerunt causa\
 &emsp;Sue victorie et papalis manti.
 
-¹⁰ Andovvi poi lo Vas d'electione,\
+10 Andovvi poi lo Vas d'electione,\
 &emsp;Per recarne conforto a quella fede,\
 &emsp;Ch'è principio a la via di salvatione.
 
-¹⁰ Fuit postea illuc Vas electionis,\
+10 Fuit postea illuc Vas electionis,\
 &emsp;Ut reportaret confortationem illius fidei,\
 &emsp;Que est principium ad viam salutis.
 
-¹¹ Ma io perchè andarvi? o chi 'l concede?\
+11 Ma io perchè andarvi? o chi 'l concede?\
 &emsp;Io non Enea, io non Paolo sono;\
 &emsp;Me degno a ciò nè io nè altri el crede.
 
-¹¹ Sed ego ad quid venire debeam? aut quis concedit?\
+11 Sed ego ad quid venire debeam? aut quis concedit?\
 &emsp;Ego non Eneas, non Paulus sum;\
 &emsp;Me dignum ad hoc neque ego, neque alter credit.
 
-¹² Perchè se del veder io m'abbandono,\
+12 Perchè se del veder io m'abbandono,\
 &emsp;Temo che la venuta non sia folle:\
-&emsp;Se'savio, intendi me' (¹) ch'io non ragiono.
+&emsp;Se'savio, intendi me' (1) ch'io non ragiono.
 
-¹² Quare si ad veniendum me dispono,\
+12 Quare si ad veniendum me dispono,\
 &emsp;Timeo ne adventus sit vanus:\
 &emsp;Si es sapiens, intelligis melius quam ego ratiociner.
 
-¹³ E quale è quel, (²) che disvuol ciò che volle,\
-&emsp;E per nuovi pensier cangia (³) proposta,\
+13 E quale è quel, (2) che disvuol ciò che volle,\
+&emsp;E per nuovi pensier cangia (3) proposta,\
 &emsp;Si che dal cominciar tutto si tolle;
 
-¹³ Et qualis est ille qui non vult quidquid voluit,\
+13 Et qualis est ille qui non vult quidquid voluit,\
 &emsp;Et propter novas cogitationes mutat propositum,\
 &emsp;Ita quod ab inceptis totum se tollit;
 
-¹⁴ Tal mi fec'io in quella scura costa:\
+14 Tal mi fec'io in quella scura costa:\
 &emsp;Si che, pensando, consumai la 'mpresa,\
 &emsp;Che fu nel cominciar cotanto tosta.
 
-¹⁴ Talem me feci ego in illa obscura costa;\
+14 Talem me feci ego in illa obscura costa;\
 &emsp;Quia, cogitando, consumpsi inceptum\
 &emsp;Qui in principio fuit tantum citus.
 
-¹⁵ Se io ho ben la tua parola intesa,\
+15 Se io ho ben la tua parola intesa,\
 &emsp;Rispose del magnanimo quell'ombra,\
 &emsp;L'anima tua è da viltà offesa:
 
-¹⁵ Si ego bene tuum verbum intellexi,\
+15 Si ego bene tuum verbum intellexi,\
 &emsp;Respondit magnanimi illius umbra,\
 &emsp;Anima tua est a vilitate offensa:
 
-(¹) i. meglo. — (²) al. quei. — (³) muta.
+(1) i. meglo. — (2) al. quei. — (3) muta.
 
 pro sacerdotio summo; in qua Roma sedere debet successor magni Petri, idest, quilibet Papa, qui est successor Petri, veri vicarii Christi. Hic notandum, quod Virgilius fingit in sexto Eneydos, Eneam ivisse ad Infernum; et descendit in campos Elisios, ubi invenit animam patris sui Anchisis; que anima docuit ipsum Eneam, quomodo erat facienda Roma et quomodo regenda: Tu regere, etc. populos memento; hec tibi artes pacisque imponere morem, parcere subiectis et debellare superbos. Predixit etiam, anima Anchisis, Enee suos descendentes et suos subcessores, et quomodo Roma adhuc veniret domina mundi, et quod esset civitas summi sacerdotii et summi imperii; et vult auctor dicere hic, quod hoc fuit in celo ordinatum, et quod Imperium Romanum fuit preordinatum a Deo, et quod tale Imperium fuit licitum, verum et iustum.
 
@@ -226,55 +226,55 @@ S'i' ò ben la tua parola: ista est tertia pars principalis, etc., in qua Virgil
 
 <!-- p. 43 (0097) -->
 
-¹⁶ La qual molte fiate l'homo ingombra,\
+16 La qual molte fiate l'homo ingombra,\
 &emsp;Sì che d'honrata impresa lo rivolve,\
 &emsp;Come falso veder bestia, quand'ombra.
 
-¹⁶ Que multoties hominem ingumbrat,\
+16 Que multoties hominem ingumbrat,\
 &emsp;Ita quod ab honorata inceptione eum revolvit,\
 &emsp;Sicut falsa visio bestiam, quando adumbrat.
 
-¹⁷ Da questa tema (¹) acciò che tu [ti] solve,\
+17 Da questa tema (1) acciò che tu [ti] solve,\
 &emsp;Dirotti, perch'io venni, e quel ch'io intesi\
-&emsp;Nel primo punto che di te mi dolve (²).
+&emsp;Nel primo punto che di te mi dolve (2).
 
-¹⁷ Ab isto timore igitur ut te solvas,\
+17 Ab isto timore igitur ut te solvas,\
 &emsp;Dicam tibi, quare veni et quid intellexi,\
 &emsp;In primo puncto, quando de te dolui.
 
-¹⁸ Io era tra color che son sospesi,\
+18 Io era tra color che son sospesi,\
 &emsp;E donna mi chiamò beata e bella,\
 &emsp;Tal che del domandar io la richiesi.
 
-¹⁸ Ego eram inter illos qui sunt suspensi,\
+18 Ego eram inter illos qui sunt suspensi,\
 &emsp;Et mulier me vocavit beata et pulchra,\
 &emsp;In tantum, quod ut preciperet eam requisivi.
 
-¹⁹ Lucevan gl'occhi suoi più che la stella;\
+19 Lucevan gl'occhi suoi più che la stella;\
 &emsp;E cominciommi a dir suave e piana,\
 &emsp;Con angelica voce in sua favella:
 
-¹⁹ Lucebant oculi eius plus quam stelle;\
+19 Lucebant oculi eius plus quam stelle;\
 &emsp;Et incepit michi dicere suavis et plana,\
 &emsp;Cum angelica voce, in sua loquela:
 
-²⁰ O anima cortese mantovana,\
+20 O anima cortese mantovana,\
 &emsp;Di cui la fama ancor nel mondo dura,\
 &emsp;E durerà quanto 'l mondo lontana:
 
-²⁰ O anima curialis mantuana,\
+20 O anima curialis mantuana,\
 &emsp;Cuius fama adhuc in mundo durat,\
 &emsp;Et durabit quousque mundus vigebit;
 
-²¹ L'amico mio, e non de la ventura,\
+21 L'amico mio, e non de la ventura,\
 &emsp;Ne la diserta piaggia è impedito\
 &emsp;Sì nel cammin, che volto è per paura:
 
-²¹ Amicus meus, et non fortune,\
+21 Amicus meus, et non fortune,\
 &emsp;In deserto colle est impeditus\
 &emsp;Ita in itinere, quod conversus est ex timore;
 
-(¹) i. timore. — (²) i. dolse.
+(1) i. timore. — (2) i. dolse.
 
 sit bene sufficiens ad opus inceptum perficere, et incipit a longe verba sua, dicens sic: Si bene notavi verba tua et rationes tuas.
 
@@ -312,71 +312,71 @@ Nel diserto ascensu: impeditur sic in itinere, quod iam se vertit pro timore.
 
 <!-- p. 44 (0098) -->
 
-²² E temo che non sia già sì smarrito,\
+22 E temo che non sia già sì smarrito,\
 &emsp;Ch'io mi sia tardi al soccorso levata,\
 &emsp;Per quel ch'i'ho di lui nel ciel udito.
 
-²² Et timeo quod non sit ita devius,\
+22 Et timeo quod non sit ita devius,\
 &emsp;Quod tarde ego ad succursum surrexi,\
 &emsp;Propter id quod de eo in celo audivi.
 
-²³ Muoveti, co'la tua parola ornata,\
+23 Muoveti, co'la tua parola ornata,\
 &emsp;E con ciò ch'è mestier a suo campare,\
 &emsp;L'aiuta sì, ch'io ne sia consolata.
 
-²³ Or move te, et cum tuo verbo ornato,\
+23 Or move te, et cum tuo verbo ornato,\
 &emsp;Et cum omnibus necessariis ad suam evasionem,\
 &emsp;Eum adiuva sic, quod de eo reddar consolata.
 
-²⁴ Io so' Beatrice, che ti faccio andare:\
-&emsp;Vegno del loco (¹), ove tornar desio (²);\
-&emsp;Amor (³) mi mosse (⁴), che mi fa parlare.
+24 Io so' Beatrice, che ti faccio andare:\
+&emsp;Vegno del loco (1), ove tornar desio (2);\
+&emsp;Amor (3) mi mosse (4), che mi fa parlare.
 
-²⁴ Ego sum Beatrix, que te facio ire;\
+24 Ego sum Beatrix, que te facio ire;\
 &emsp;Venio a loco, ad quem redire desidero;\
 &emsp;Amor me movit, qui me facit loqui.
 
-²⁵ Quando sarò dinanti al Signor mio,\
+25 Quando sarò dinanti al Signor mio,\
 &emsp;Di te mi loderò sovente a lui.\
 &emsp;Tacette allora, e poi comincia'io:
 
-²⁵ Quando ero coram Domino meo,\
+25 Quando ero coram Domino meo,\
 &emsp;De te me laudabo summe illi.\
 &emsp;Tacuit tunc, et postea incepi ego:
 
-²⁶ O donna di virtù, sola, per cui\
+26 O donna di virtù, sola, per cui\
 &emsp;L'humana spetie excede ogni contento\
 &emsp;Da quel ciel, c'ha minore e cerchi sui:
 
-²⁶ O Domina virtutum, sola, per quam\
+26 O Domina virtutum, sola, per quam\
 &emsp;Humana species excedit omne contentum\
 &emsp;Illius celi, quod habet minores circulos suos:
 
-²⁷ Tanto m'aggrada el tuo comandamento,\
+27 Tanto m'aggrada el tuo comandamento,\
 &emsp;Che l'ubbidir, se già fussi, m'è tardi;\
 &emsp;Più non t'è huopo aprirmi'l tuo talento.
 
-²⁷ Tantum michi est gratum tuum mandatum,\
+27 Tantum michi est gratum tuum mandatum,\
 &emsp;Quod obedire, si iam esset, [est] minus tarde;\
 &emsp;Plus non quero ut aperias michi tuum talentum.
 
-²⁸ Ma dimmi la cagion, che non ti guardi\
+28 Ma dimmi la cagion, che non ti guardi\
 &emsp;Dello scender quaggiù in questo centro\
 &emsp;Dall'ampio loco, ove tornar tu ardi.
 
-²⁸ Sed dicas michi causam, quare tibi\
+28 Sed dicas michi causam, quare tibi\
 &emsp;Non caveas a descendendo inferius in istud centrum,\
 &emsp;Ab amplo loco, ad quem redire tu ardes.
 
-²⁹ Da che tu vuoi saper cotanto adentro,\
+29 Da che tu vuoi saper cotanto adentro,\
 &emsp;Dirotti brevemente, mi rispose,\
 &emsp;Perch'io non temo di venir qua entro.
 
-²⁹ Ex quo tu vis scire tantum intrinsece,\
+29 Ex quo tu vis scire tantum intrinsece,\
 &emsp;Dicam tibi breviter, michi respondit,\
 &emsp;Quare ego non timeo venire huc intro.
 
-(¹) Paradiso. — (²) desidero. — (³) divino. — (⁴) a venire.
+(1) Paradiso. — (2) desidero. — (3) divino. — (4) a venire.
 
 Et themo: dolet de periculo, in quo est Dantes. Idest, video ipsum iam dispositum ad retrocedendum ad vitia; et forte non poterit retrahi ab ipsis, et forte nimis tardavi ad te venire.
 
@@ -406,35 +406,35 @@ Ma dimene la casione: modo Virgilius movet questionem Beatrici, scilicet: Quid e
 
 <!-- p. 45 (0099) -->
 
-³⁰ Temer si debbe sol di quelle cose\
+30 Temer si debbe sol di quelle cose\
 &emsp;C'hanno potenza di far altrui male:\
 &emsp;Dell'altre no, che non son paurose.
 
-³⁰ Timendum est solum de illis rebus\
+30 Timendum est solum de illis rebus\
 &emsp;Que habent potentiam faciendi hominibus malum,\
 &emsp;De aliis non, que non sunt pavorose.
 
-³¹ Io so'facta da Dio, sua merzè, tale,\
+31 Io so'facta da Dio, sua merzè, tale,\
 &emsp;Che la vostra miseria non mi tange,\
 &emsp;Nè fiamma d'esto incendio non m'assale.
 
-³¹ Ego sum facta a Deo, sua mercede, talis,\
+31 Ego sum facta a Deo, sua mercede, talis,\
 &emsp;Quod vestra miseria me non tangit,\
 &emsp;Neque flamma istius incendii non me aggreditur.
 
-³² Donna è gentil nel ciel, che si compiange\
+32 Donna è gentil nel ciel, che si compiange\
 &emsp;Di questo impedimento, ov'io ti mando,\
 &emsp;Sì che duro iudicio lassù frange.
 
-³² Domina est gentilis in celo, que complangit\
+32 Domina est gentilis in celo, que complangit\
 &emsp;Huic impedimento, ad quod te micto,\
 &emsp;Ita quod durum iuditium ibidem frangitur.
 
-³³ Questa chiese Lucia in suo dimando,\
+33 Questa chiese Lucia in suo dimando,\
 &emsp;E disse: hor' à bisogno el tuo fedele\
 &emsp;Di te, et io a te lo raccomando.
 
-³³ Ista petiit Luciam in sua petitione,\
+33 Ista petiit Luciam in sua petitione,\
 &emsp;Et dixit: Nunc indiget tuus fidelis\
 &emsp;Te, et ego tibi illum recommendo.
 
@@ -466,71 +466,71 @@ Et ego: scilicet Lucia, ipsum Dantem tibi Beatrici recommendo.
 
 <!-- p. 46 (0100) -->
 
-³⁴ Lucia, nimica di ciascun crudele,\
+34 Lucia, nimica di ciascun crudele,\
 &emsp;Si mosse, e venne al luogo dov'io era,\
 &emsp;Che mi sedea coll'antica Rachele.
 
-³⁴ Lucia, inimica cuiuslibet crudelis,\
+34 Lucia, inimica cuiuslibet crudelis,\
 &emsp;Se movit, et venit ad locum ubi ego eram,\
 &emsp;Que sedebam cum antiqua Rachele.
 
-³⁵ E disse: (¹) Beatrice, loda di Dio vera,\
+35 E disse: (1) Beatrice, loda di Dio vera,\
 &emsp;Che non soccorri quei che t'amò tanto,\
 &emsp;Ch'uscì per te de la volgare schiera?
 
-³⁵ Et dixit: Beatrix, laus Dei vera,\
+35 Et dixit: Beatrix, laus Dei vera,\
 &emsp;Cur non succurris illi qui te amavit tantum,\
 &emsp;Quod per te exivit de vulgari acie?
 
-³⁶ Non odi tu la pieta del suo pianto?\
+36 Non odi tu la pieta del suo pianto?\
 &emsp;Non vedi tu la morte che 'l combatte\
 &emsp;Su la fiumana, ond'el mar non à vanto?
 
-³⁶ Non audis tu pietatem sui plantus?\
+36 Non audis tu pietatem sui plantus?\
 &emsp;Non vides tu mortem que contra ipsum debellat\
 &emsp;In flumine, ubi mare se non extendit?
 
-³⁷ Al mondo non fur mai persone ratte\
+37 Al mondo non fur mai persone ratte\
 &emsp;A far lor pro, nè a fuggir lor danno,\
 &emsp;Com'io, doppo cotai parole fatte,
 
-³⁷ In mundo nunquam fuerunt persone festine\
+37 In mundo nunquam fuerunt persone festine\
 &emsp;Ad faciendum suum profectum, vel ad fugiendum\
 &emsp;Quomodo ego, post talia verba facta suum dampnum.
 
-³⁸ Scesi (²) quaggiù del mio beato scanno\
+38 Scesi (2) quaggiù del mio beato scanno\
 &emsp;Fidandomi nel tuo parlar honesto,\
 &emsp;Che onora te e quei ch'udito l'anno.
 
-³⁸ Veni ad hunc locum a meo beato scampno,\
+38 Veni ad hunc locum a meo beato scampno,\
 &emsp;Confidendo de tuo sermone honesto,\
 &emsp;Qui honorat te et illos qui eum audierunt.
 
-³⁹ Poscia che m'ebbe ragionato questo,\
+39 Poscia che m'ebbe ragionato questo,\
 &emsp;Gl'occhi lucenti lagrimando volse;\
-&emsp;Perchè (³) mi fece del venir più presto:
+&emsp;Perchè (3) mi fece del venir più presto:
 
-³⁹ Postquam michi ratiocinata fuit istud,\
+39 Postquam michi ratiocinata fuit istud,\
 &emsp;Oculos lucentes lacrymando volvit;\
 &emsp;Taliter quod fecit me ad veniendum magis promptum:
 
-⁴⁰ E venni a te così, com'ella volse;\
-&emsp;Dinanzi da la fiera (⁴) ti levai,\
+40 E venni a te così, com'ella volse;\
+&emsp;Dinanzi da la fiera (4) ti levai,\
 &emsp;Che del bel monte el corto andar ti tolse.
 
-⁴⁰ Et veni ad te sic, sicut ipsa voluit;\
+40 Et veni ad te sic, sicut ipsa voluit;\
 &emsp;Ante illam feram te eripui,\
 &emsp;Que pulchri montis breve iter tibi surripuit.
 
-⁴¹ Dunque che è? perchè, perchè restai?\
+41 Dunque che è? perchè, perchè restai?\
 &emsp;Perchè tanta viltà nel cuor allecte?\
 &emsp;Perchè ardir e franchezza non hai?
 
-⁴¹ Ergo quid dicis? quare desistis?\
+41 Ergo quid dicis? quare desistis?\
 &emsp;Quare tantam vilitatem in corde allicis?\
 &emsp;Quare audaciam et magnanimitatem non habes?
 
-(¹) o. — (²) al. venni. — (³) ob quod. — (⁴) al. a quella fiera.
+(1) o. — (2) al. venni. — (3) ob quod. — (4) al. a quella fiera.
 
 Venne lassù, dove eo era: idest, Lucia venit ad locum, ubi ego Beatrix eram cum antiqua Rachele, idest contemplatione. Et dixit michi: Beatrice, laus Dei vera.
 
@@ -558,57 +558,57 @@ Dicit igitur Virgilius: Quid est quod te possit impedire
 
 <!-- p. 47 (0101) -->
 
-⁴² Da po' che tai (¹) tre donne (²) benedecte\
+42 Da po' che tai (1) tre donne (2) benedecte\
 &emsp;Curan per te ne la corte del cielo,\
 &emsp;E'l mio parlar tanto ben ti promecte?
 
-⁴² Postquam tales tres domine benedicte\
+42 Postquam tales tres domine benedicte\
 &emsp;Curant de te in curia celesti,\
 &emsp;Et meum loqui tantum bonum tibi promictit?
 
-⁴³ Quali fioretti dal nocturno gielo\
+43 Quali fioretti dal nocturno gielo\
 &emsp;Chinati e chiusi, poi che'l sol gl'imbianca,\
 &emsp;Si drizzan tutti aperti in loro stelo;
 
-⁴³ Quales flosculi a nocturno gelo\
+43 Quales flosculi a nocturno gelo\
 &emsp;Demissi et clausi, postquam sole albent,\
 &emsp;Diriguntur omnes aperti in eorum statum;
 
-⁴⁴ Tal mi fec'io, di mia virtute stanca;\
+44 Tal mi fec'io, di mia virtute stanca;\
 &emsp;E tanto buon ardir al cuor mi corse,\
 &emsp;Ch'io cominciai come persona franca:
 
-⁴⁴ Talis effectus sum, in mea virtute fatigata;\
+44 Talis effectus sum, in mea virtute fatigata;\
 &emsp;Et tanta bona audacia ad cor meum confugit,\
 &emsp;Quod ego incepi tamquam persona magnanima:
 
-⁴⁵ O piatosa colei che mi soccorse,\
+45 O piatosa colei che mi soccorse,\
 &emsp;E tu cortese, ch'ubbidisti tosto\
 &emsp;A le vere parole che ti porse.
 
-⁴⁵ O piam illam que michi succurrit,\
+45 O piam illam que michi succurrit,\
 &emsp;Et te curialem, qui obedisti cito\
 &emsp;Veris verbis que tibi porrexit.
 
-⁴⁶ Tu m'ài con desiderio el cor disposto\
+46 Tu m'ài con desiderio el cor disposto\
 &emsp;Sì al venir, co'le parole tue,\
 &emsp;Ch'io son tornato nel primo proposto.
 
-⁴⁶ Tu cum desiderio cor meum disposuisti\
+46 Tu cum desiderio cor meum disposuisti\
 &emsp;Sic ad veniendum, cum verbis tuis,\
 &emsp;Quod ego redii ad primum propositum.
 
-⁴⁷ Or va, ch'un sol voler è d'amendue:\
+47 Or va, ch'un sol voler è d'amendue:\
 &emsp;Tu duca, tu signor e tu maestro.\
 &emsp;Così li dissi: e poi che mosso fue,\
 &emsp;Entrai per lo cammin alto e silvestro.
 
-⁴⁷ Or vade, quia unum solum velle est amborum:\
+47 Or vade, quia unum solum velle est amborum:\
 &emsp;Tu dux, tu dominus et tu magister.\
 &emsp;Sic sibi dixi; et postquam movit se,\
 &emsp;Intravi per iter altum et silvestre.
 
-(¹) tali. — (²) decte di sopra.
+(1) tali. — (2) decte di sopra.
 
 in hoc opere, ex quo tu habes advocatos tales et coadiutores in celo et in terra? Quare igitur et qua de causa desistis? Quare tantam vilitatem allecte, idest advocas, attrahis ad te? Quare habes tam modicum animi in corde tuo? Quare audaciam non habes, habens tot dominas in celo, que habent curam de te, et mea locutio tantum bonum tibi promictit? Iste tres domine, una [est] innominata, scilicet electio, sive predestinatio: alia est Lucia, idest divina gratia; alia est Beatrix, scilicet Theologia. Arguit sic Virgilius: Tu es Poeta, etc., ita quod mecum convenis in naturalibus, quod te audacem facere debet: ultra hoc tu habes Theologiam, quam nunquam habui ego: tu habes Luciam, quia tu es christianus, ego vero fui paganus: tu venisti tempore gratie, et ego fui ante. Ultra hoc, non est in me predestinatio, que est in te, sive de te. Superius posuit Virgilius quatuor dominas; sed Rachel non est de numero istarum, que sunt advocatrices Dantis; sed est illa, cum qua Beatrix se sedet.
 

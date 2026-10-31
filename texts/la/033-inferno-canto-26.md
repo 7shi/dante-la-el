@@ -8,27 +8,27 @@ In vicesimosexto capitulo, quod incipit: Gaude Florentia, ex quo es tam magna, e
 
 # Capitulum Vicesimumsextum
 
-¹ Ghode, Firenze, poi che se'sì grande,\
+1 Ghode, Firenze, poi che se'sì grande,\
 &emsp;Che per mar e per terra bacti l'hali,\
 &emsp;E per l'Inferno 'l tuo nome si spande.
 
-¹ Gaude, Florentia, ex quo es tam grandis,\
+1 Gaude, Florentia, ex quo es tam grandis,\
 &emsp;Quod per mare et per terram percutis alas,\
 &emsp;Et per Infernum tuum nomen expanditur.
 
-² Tra li ladron trovai cinque cotali\
+2 Tra li ladron trovai cinque cotali\
 &emsp;Tuoi cittadini, onde mi vien vergogna,\
 &emsp;E tu in grande honranza non ne sali.
 
-² Inter latrones reperi quinque tales\
+2 Inter latrones reperi quinque tales\
 &emsp;Tuos cives, unde venit michi verecundia,\
 &emsp;Et tu in grandem honorabilitatem non ascendis.
 
-³ Ma se press'al mattin del ver si sogna,\
+3 Ma se press'al mattin del ver si sogna,\
 &emsp;Tu sentirai, di qua da picciol tempo,\
 &emsp;Di quel che Prato, non ch'altri, t'agogna.
 
-³ Sed si prope matutinum verum sompniatur,\
+3 Sed si prope matutinum verum sompniatur,\
 &emsp;Tu senties, usque ad paucum tempus,\
 &emsp;Ea que nedum Pratum, sed alii tibi agognant.
 
@@ -62,39 +62,39 @@ Auctor reflectit se super visione sua generali, in qua previdit quidquid scripsi
 
 <!-- p. 319 (0373) -->
 
-⁴ E se già fosse, non saria per tempo:\
+4 E se già fosse, non saria per tempo:\
 &emsp;Così fuss'ei, da che pur esser dee;\
-&emsp;Chè più mi graverà, co' (¹) più m'attempo.
+&emsp;Chè più mi graverà, co' (1) più m'attempo.
 
-⁴ Et si iam esset, non esset tempestivum:\
+4 Et si iam esset, non esset tempestivum:\
 &emsp;Utinam nunc esset, ex quo infallanter esse debet;\
 &emsp;Quia plus gravat me, in quanto plus senesco.
 
-⁵ Noi ci partimmo, e su per le scalee,\
+5 Noi ci partimmo, e su per le scalee,\
 &emsp;Che 'l buior n'havea facti scender pria,\
 &emsp;Rimontò 'l mio maestro, e trasse mee.
 
-⁵ Nos inde discessimus, et super scalas,\
+5 Nos inde discessimus, et super scalas,\
 &emsp;Per quas fecerant nos borni ascendere prius,\
 &emsp;Reascendit dux meus, et traxit me.
 
-⁶ E proseguendo la solingha via\
+6 E proseguendo la solingha via\
 &emsp;Tralle scheggie e tra'rochi dello scoglo,\
 &emsp;Lo piè senza la man non si spedia.
 
-⁶ Et persequendo solitariam viam\
+6 Et persequendo solitariam viam\
 &emsp;Inter rupturas et runcos scopuli,\
 &emsp;Et pes sine manu non se expediebat.
 
-⁷ Allor mi dolsi, et hora mi ridoglo,\
+7 Allor mi dolsi, et hora mi ridoglo,\
 &emsp;Quando drizzo la mente a ciò ch'io vidi;\
 &emsp;E più lo 'ngegno afren[o] ch'io non soglo,
 
-⁷ Tunc dolui, et adhuc doleo iterum,\
+7 Tunc dolui, et adhuc doleo iterum,\
 &emsp;Quando dirigo mentem ad id quod vidi;\
 &emsp;Et plus ingenium refreno quam soleam,
 
-(¹) come.
+(1) come.
 
 quia fuit in mane, hora matutina; sed provenit ex profunda speculatione; michi videtur quod statim habebis de hiis, que tibi displicebunt, infra breve tempus, et que nedum illi qui sunt tibi vicini et tibi subiecti, qui te modicum diligunt et multum odiunt, subaudi, naturaliter, sed etiam illa, que longinqui tibi augurantur, sicut sunt Pisani, Senenses, Aretini.
 
@@ -114,23 +114,23 @@ Aliqui dicunt, quod, licet omnes anime humane sint eiusdem speciei et nature, ta
 
 <!-- p. 320 (0374) -->
 
-⁸ Perchè non corra, che virtù nol guidi;\
+8 Perchè non corra, che virtù nol guidi;\
 &emsp;Sì che se stella buona, o miglior cosa,\
-&emsp;M'ha dato'l ben, ch'i'(¹)stesso non l'invidi.
+&emsp;M'ha dato'l ben, ch'i'(1)stesso non l'invidi.
 
-⁸ Ut non currat, nisi virtus ipsum ducat;\
+8 Ut non currat, nisi virtus ipsum ducat;\
 &emsp;Ita quod si stella bona, vel melior res,\
 &emsp;Michi dedit bonum, quod ego michi ipse de illo non invideam.
 
-⁹ Come 'l villan, ch'al poggio si riposa,\
-&emsp;Nel tempo che colui(²)che'l mondo schiara,\
-&emsp;La faccia sua a noi tien men ascosa (³),
+9 Come 'l villan, ch'al poggio si riposa,\
+&emsp;Nel tempo che colui(2)che'l mondo schiara,\
+&emsp;La faccia sua a noi tien men ascosa (3),
 
-⁹ Quantas rusticus, qui in podio quiescit,\
+9 Quantas rusticus, qui in podio quiescit,\
 &emsp;In tempore quo ille, qui mundum clarificat,\
 &emsp;Faciem suam a nobis tenet minus absconsam,
 
-(¹) ch'io. — (²) el sole. — (³) cioè quando va più alto la state.
+(1) ch'io. — (2) el sole. — (3) cioè quando va più alto la state.
 
 negaret. Aliqui dicerent, quod una anima humana non excedit aliam in essentialibus, nec essentialiter; sed bene in naturalibus: et tunc isti habent ponere differentiam inter essentialia et naturalia; et bene potest hoc teneri gratia disputationis, et esset levius defendere hanc opinionem quam primam. Nec videtur inconveniens dicere et ponere, quod una humana anima habeat meliora naturalia quam alia. Et forte hoc non repugnaret dictis Aristotilis in libro Predicamentorum, ubi ponit de naturali potentia, vel impotentia. Et sic iste due opiniones haberent dicere, quod maior subtilitas ingenii unius anime, quam alterius, provenit a melioribus essentialibus, vel naturalibus. De accidentalibus, quod una anima est perfectior alia, hoc nemo negaret. Aliqui dicerent aliter, scilicet quod maior subtilitas ingenii provenit a constellatione, sub qua iste, vel ille, generatur, vel nascitur; et forte quod hanc opinionem tenerent aliqui astrologi. Alii dicerent, quod hoc provenit a molliori carne, vel duriori, sicut videtur velle innuere Aristotiles in secundo De anima, ubi dicit, molles carne, bene aptos; fortes autem carne, ineptos, supple, dicimus. Quia ista materia est subtilis et philosophica, bona est ; sed non sit modo presentis speculationis, sive ab anima hoc procedat, sive a corpore, cui coniungitur; quia sic est, quia per experientiam videmus, quod unus homo est subtilioris ingenii quam alter.
 
@@ -150,55 +150,55 @@ Quantas rusticus, qui in podio, idest colle, quiescit, in
 
 <!-- p. 321 (0375) -->
 
-¹⁰ Quando (¹) la mosca cede (²) alla zanzara (³),\
-&emsp;Lucciole vede già per la vallea (⁴),\
-&emsp;Forse colà dove vendemmia (⁵) o ara (⁶);
+10 Quando (1) la mosca cede (2) alla zanzara (3),\
+&emsp;Lucciole vede già per la vallea (4),\
+&emsp;Forse colà dove vendemmia (5) o ara (6);
 
-¹⁰ Sicut musca cedit siniphibus, et\
+10 Sicut musca cedit siniphibus, et\
 &emsp;Videt noctilucas infra per valles,\
 &emsp;Forte ibi ubi vindemiat et arat;
 
-¹¹ Di tante fiamme tutta risplendea\
+11 Di tante fiamme tutta risplendea\
 &emsp;L'octava bolgia, sì com'io m'accorsi,\
 &emsp;Tosto ch'io fui dove 'l fondo apparea.
 
-¹¹ De tantis flammis tota resplendebat\
+11 De tantis flammis tota resplendebat\
 &emsp;Octava bolgia, prout ego perpendi,\
 &emsp;Statim quod ego fui ubi fundus apparebat.
 
-¹² E qual colui (⁷) che si vengiò (⁸) cogl'orsi,\
-&emsp;Vidde 'l carro d'Elya (⁹) al suo partire,\
+12 E qual colui (7) che si vengiò (8) cogl'orsi,\
+&emsp;Vidde 'l carro d'Elya (9) al suo partire,\
 &emsp;Quand'e cavalli al ciel erti levorsi;
 
-¹² Et quemadmodum ille qui se vindicavit cum ursis,\
+12 Et quemadmodum ille qui se vindicavit cum ursis,\
 &emsp;Vidit currum Elye in discessu,\
 &emsp;Quando equi ad celum alti se levaverunt;
 
-¹³ Chè nol potea sì cogl'ochi seguire,\
+13 Chè nol potea sì cogl'ochi seguire,\
 &emsp;Che vedess'altro che la fiamma sola,\
-&emsp;Sì come nuvoletta, in su salire (¹⁰);
+&emsp;Sì come nuvoletta, in su salire (10);
 
-¹³ Quia illum non poterat ita cum oculis sequi,\
+13 Quia illum non poterat ita cum oculis sequi,\
 &emsp;Quin aliud videret quam flammam solam,\
 &emsp;Sicut unam nubeculam, sursum ascendere;
 
-¹⁴ Tal si movea ciascuna (¹¹) per la gola\
+14 Tal si movea ciascuna (11) per la gola\
 &emsp;Del fosso, che nessuna mostra'l furto,\
 &emsp;Et ogni fiamma un peccator invola.
 
-¹⁴ Taliter se movebat quelibet per gulam\
+14 Taliter se movebat quelibet per gulam\
 &emsp;Fossati, ita quod nulla monstrat furtum,\
 &emsp;Et omnis flamma unum peccatorem furatur.
 
-¹⁵ Io stava sovra 'l ponte a veder surto,\
-&emsp;Sì che s'io non havessi un rochion (¹²) preso,\
-&emsp;Caduto sarei giù senz' esser urto (¹³).
+15 Io stava sovra 'l ponte a veder surto,\
+&emsp;Sì che s'io non havessi un rochion (12) preso,\
+&emsp;Caduto sarei giù senz' esser urto (13).
 
-¹⁵ Ego stabam supra pontem ad videndum surtus,\
+15 Ego stabam supra pontem ad videndum surtus,\
 &emsp;Ita quod si non apprehendissem unum runcum,\
 &emsp;Cecidissem infra sine alio urtus.
 
-(¹) in su la sera. — (²) dà luogo. — (³) che vola di nocte. — (⁴) valle. — (⁵) ha vigne o campi. — (⁶) al. et ara. — (⁷) Helyseo — (⁸) e n. dicò. — (⁹) suo maestro. — (¹⁰) al. venire. — (¹¹) fiamma. — (¹²) saxo. — (¹³) urtato e spincto.
+(1) in su la sera. — (2) dà luogo. — (3) che vola di nocte. — (4) valle. — (5) ha vigne o campi. — (6) al. et ara. — (7) Helyseo — (8) e n. dicò. — (9) suo maestro. — (10) al. venire. — (11) fiamma. — (12) saxo. — (13) urtato e spincto.
 
 tempore, quo ille, idest sol, qui mundum clarificat, idest illuminat, faciem suam a nobis tenet minus absconsam (sol stat nobis minus absconsus de mense iunii, quia noctes sunt breviores); sicut musca cedit siniphibus, vel cinici, videt noctilucas (idest ciandulas, secundum Plinium De naturalibus) vel luculas, infra per valles, forte ibi ubi vindemiat et arat; de tantis flammis, idest tot, tota resplendebat octava bolgia, prout ego perpendi, statim quod ego fui ibi, ubi fundus apparebat, idest unde fundus videbatur. Fingit hic auctor, quod isti, qui habent tam alta ingenia, ad malum eis utentes, sunt, in Inferno, involuti in flammis igneis, ita quod velati sunt circumcirca, et nihil apparet de eis. Et ille flamme vadunt vagando, quia ingenium procedit a caliditate: nam qui sunt frigide complexionis, sunt memorosi; qui vero sunt calide complexionis, sunt ingeniosi: aliqui qui habent utrumque: ergo, isti bene stant in igne. Preterea ignis semper tendit in altum; ita isti astuti semper tendunt ad alta. Ignis etiam consumit et devorat quidquid invenit combustibile; ita vix aliquid potest resistere tali astutie, sive malitie, istis talibus. Non potentia Hectoris, non sapientia Priami, regis Troye, non tota Troya et aliorum, qui erant in adiutorio Troyanorum, potuerunt resistere astutie et malitie Ulixis.
 
@@ -210,47 +210,47 @@ Ego stabam supra pontem: ista est secunda pars huius capituli, in qua fit mentio
 
 <!-- p. 322 (0376) -->
 
-¹⁶ E 'l duca, che mi vide tanto atteso,\
-&emsp;Disse: Dentro dal fuoco(¹) stan li spirti:\
-&emsp;Ciascun si fascia di quel(²) ch'è inceso.
+16 E 'l duca, che mi vide tanto atteso,\
+&emsp;Disse: Dentro dal fuoco(1) stan li spirti:\
+&emsp;Ciascun si fascia di quel(2) ch'è inceso.
 
-¹⁶ Et dux meus, qui me vidit attentum,\
+16 Et dux meus, qui me vidit attentum,\
 &emsp;Dixit: Infra ignes sunt spiritus:\
 &emsp;Quilibet fasciatur eo quo incenditur.
 
-¹⁷ Maestro mio (³), rispos'io, per udirti\
+17 Maestro mio (3), rispos'io, per udirti\
 &emsp;Son io più certo; ma già m'er'avviso\
 &emsp;Che così fosse, e già volea dirti:
 
-¹⁷ Magister mi, respondi ego, te audiendo\
+17 Magister mi, respondi ego, te audiendo\
 &emsp;Sum ego certior; sed iam michi apparebat\
 &emsp;Quod sic esset, et iam volebam tibi dicere:
 
-¹⁸ Chi è in quel fuoco, che par sì diviso\
-&emsp;Di sopra (⁴), che par surger della pyra,\
-&emsp;Ove Etyocle col fratel (⁵) fu miso?
+18 Chi è in quel fuoco, che par sì diviso\
+&emsp;Di sopra (4), che par surger della pyra,\
+&emsp;Ove Etyocle col fratel (5) fu miso?
 
-¹⁸ Quis est in illo igne, qui venit sic divisus\
+18 Quis est in illo igne, qui venit sic divisus\
 &emsp;De supra, qui videtur surgere de pira,\
 &emsp;Ubi Theocles cum fratre fuit missus?
 
-¹⁹ Et elli a me: Là dentro si martira\
-&emsp;Ulixe e Dyomede, e così inseme (⁶)\
+19 Et elli a me: Là dentro si martira\
+&emsp;Ulixe e Dyomede, e così inseme (6)\
 &emsp;Alla vendetta vanno com'all'ira:
 
-¹⁹ Respondit michi: Ibi cruciantur\
+19 Respondit michi: Ibi cruciantur\
 &emsp;Ulixes et Diomedes, et sic simul\
 &emsp;Ad vindictam currunt sicut ad iram:
 
-²⁰ E dentro dalla lor fiamma si geme (⁷)\
-&emsp;L'agguato del caval, che fe'la porta (⁸)\
+20 E dentro dalla lor fiamma si geme (7)\
+&emsp;L'agguato del caval, che fe'la porta (8)\
 &emsp;Ond'uscì de Roman il gentil seme.
 
-²⁰ Et intra eorum flamma gemitur\
+20 Et intra eorum flamma gemitur\
 &emsp;Latibulum equi, qui fecit portam\
 &emsp;Unde exivit Romanorum gentile semen.
 
-(¹) al. da' fuochi et melius. — (²) fuoco. — (³) o Virgilio. — (⁴) ne la cima. — (⁵) suo Polinice. — (⁶) sieme. — (⁷) si piagne da loro. — (⁸) l'apertura.
+(1) al. da' fuochi et melius. — (2) fuoco. — (3) o Virgilio. — (4) ne la cima. — (5) suo Polinice. — (6) sieme. — (7) si piagne da loro. — (8) l'apertura.
 
 Ego stabam supra pontem ad videndum surto, idest erectus; idest adherebam cum pectore lateri pontis, et infra respiciebam, ita quod, si non me appodiassem, idest si non apprehendissem unum runcum, idest scopulum, cecidissem infra sine alio urto, idest impulsu; idest cecidissem, etiam si nullus me impullisset. Urto, sive urtare, proprie equorum, quando currunt unus versus alium, et percutiunt se invicem. Idem est de navibus, quando vadunt per aquam currentes, et una obviat alteri, et percutiunt se invicem.
 
@@ -262,47 +262,47 @@ Modo tangit auctor aliqua mala, que isti fecerunt, propter astutiam Ulixis, dice
 
 <!-- p. 323 (0377) -->
 
-²¹ Piangevis'entro l'arte, perch'è morta\
+21 Piangevis'entro l'arte, perch'è morta\
 &emsp;E Deidamya ancor si duol d'Achille,\
 &emsp;E del Palladio pena vi si porta.
 
-²¹ Plangitur ibidem ars, ex qua mortua\
+21 Plangitur ibidem ars, ex qua mortua\
 &emsp;Diademia adhuc dolet de Achille,\
 &emsp;Et Palladio ibi pena portatur.
 
-²² Se posson dentro da quelle faville\
-&emsp;Parlar, diss'io(¹), maestro, assai ten priego,\
+22 Se posson dentro da quelle faville\
+&emsp;Parlar, diss'io(1), maestro, assai ten priego,\
 &emsp;E riprego che 'l prego vagla mille,
 
-²² Si possunt intra illas favillas\
+22 Si possunt intra illas favillas\
 &emsp;Loqui, dixi ego, magister, satis te precor,\
 &emsp;Et i terum rogo quod unum rogamen valeat mille,
 
-²³ Che non mi faci dell'attender(²) niego (³),\
+23 Che non mi faci dell'attender(2) niego (3),\
 &emsp;Finchè la fiamma cornuta qua vegna:\
 &emsp;Vedi che per desio ver lei mi piego.
 
-²³ Quod non facias michi expectandi negationem,\
+23 Quod non facias michi expectandi negationem,\
 &emsp;Usquequo flamma cornuta huc veniat:\
 &emsp;Videas quod ex desiderio iam ad eam me plico.
 
-²⁴ Et elli a me: La tua preghiera è degna\
+24 Et elli a me: La tua preghiera è degna\
 &emsp;Di molta loda, et io però l'accepto;\
-&emsp;Ma fa'che la tua lingua si sostegna (⁴),
+&emsp;Ma fa'che la tua lingua si sostegna (4),
 
-²⁴ Et ipse ad me: Tue preces sunt digne\
+24 Et ipse ad me: Tue preces sunt digne\
 &emsp;Multa laude, et ideo illas accepto;\
 &emsp;Sed fac quod tua lingua se abstineat.
 
-²⁵ Lascia pur dir a me, ch'i'ho concepto\
-&emsp;Ciò che tu vuoi: ch'e sarebbeno schivi(⁵),\
+25 Lascia pur dir a me, ch'i'ho concepto\
+&emsp;Ciò che tu vuoi: ch'e sarebbeno schivi(5),\
 &emsp;Perch'e' fur Greci, forse del tuo decto.
 
-²⁵ Permictas me loqui, quia ego concepi\
+25 Permictas me loqui, quia ego concepi\
 &emsp;Id quod tu vis: quia ipsi essent schivi,\
 &emsp;Quoniam fuerunt Greci, forte de tuo dictu.
 
-(¹) o. — (²) aspectar. — (³) negatione. — (⁴) taccia. — (⁵) schifi.
+(1) o. — (2) aspectar. — (3) negatione. — (4) taccia. — (5) schifi.
 
 Nota quod tempore Ilii, quinti regis Troye, cecidit de celo una ymago super arcem Palladis; qua reperta, Troyani voluerunt scire quid hec ymago significaret; et consulto Apolline in suo templo, quod est in Gretia, habuerunt responsum, quod donec idolum duraret et esset in Troya, nunquam Troya posset perire. Et ideo semper stabant ducenti homines armati ad custodiendum istud idolum, quod vocabatur Palladium. Ulixes vero bene sciebat tale responsum Apollinis; qui scivit taliter facere, quod ipse furatus fuit istud Palladium: aliqui dicunt, quod cum pecuniis corrupit custodes, et sic habuit Palladium. Quo habito, ipse Ulixes fecit fieri equum Troyanum, de quo loquitur Virgilius in secundo Eneydos, quem finxit fieri fecisse pro restauratione ablationis Palladii, quia domina Pallas non permictebat Grecos recedere de partibus Troye, nec redire ad Gretiam. Fecit ergo astutia sua fieri Ulixes unum equum ligneum, in cuius alvo, sive ventre, stabant quingenti viri armati; et quia fuit tam magnus, non poterat intrare per portas murorum Troye: sed oportuit quod murus rumperetur per magnum spatium, et sic destructa fuit Troya. Modo iste equus fuit fabricatus propter astutiam Ulixis, qui hic ita punitur.
 
@@ -314,71 +314,71 @@ Et ipse ad me: Tue preces sunt digne multa laude, et ego ideo illas accepto. Sed
 
 <!-- p. 324 (0378) -->
 
-²⁶ Quando la fiamma fu venuta quivi,\
+26 Quando la fiamma fu venuta quivi,\
 &emsp;Dove parv'al mio duca tempo e loco,\
 &emsp;In questa forma lui parlar udivi.
 
-²⁶ Postquam flamma devenit illuc,\
+26 Postquam flamma devenit illuc,\
 &emsp;Quando visum fuit meo duci tempus et locus,\
 &emsp;In hac forma eum loqui audivi.
 
-²⁷ O voi, che sete due dentr'ad un foco,\
+27 O voi, che sete due dentr'ad un foco,\
 &emsp;S'ïo meritai di voi mentre ch'io vissi,\
-&emsp;S'io (¹) meritai di voi assai o poco,
+&emsp;S'io (1) meritai di voi assai o poco,
 
-²⁷ O vos, qui estis duo intra unum ignem,\
+27 O vos, qui estis duo intra unum ignem,\
 &emsp;Si merui de vobis quousque vixi,\
 &emsp;Si merui de vobis satis vel modicum,
 
-²⁸ Quando nel mondo gl'alti versi scripsi,\
+28 Quando nel mondo gl'alti versi scripsi,\
 &emsp;Non vi movete: ma l'un di voi dica\
-&emsp;Dove per lui perduto (²) a morir gissi (³).
+&emsp;Dove per lui perduto (2) a morir gissi (3).
 
-²⁸ Quando in mundo altos versus scripsi,\
+28 Quando in mundo altos versus scripsi,\
 &emsp;Non vos moveatis: sed unus vestrum dicat\
 &emsp;Ad quem locum per eum ad moriendum fuit iter factum.
 
-²⁹ Lo maggior corno della fiamma antica (⁴)\
+29 Lo maggior corno della fiamma antica (4)\
 &emsp;Cominciò a crollarsi mormorando,\
 &emsp;Pur come quella cui vento affatica.
 
-²⁹ Maius cornu flamme antique\
+29 Maius cornu flamme antique\
 &emsp;Cepit se movere murmurando,\
 &emsp;Eo modo quo illa que a vento fatigatur.
 
-³⁰ Indi la cima qua e là menando,\
-&emsp;Come fusse la lingua (⁵) che parlasse,\
+30 Indi la cima qua e là menando,\
+&emsp;Come fusse la lingua (5) che parlasse,\
 &emsp;Gictò la voce fuor, e disse: Quando
 
-³⁰ Inde cimam huc et illuc ducendo,\
+30 Inde cimam huc et illuc ducendo,\
 &emsp;Ac si esset lingua que loqueretur,\
 &emsp;Proiecit vocem extra, et dixit: Quando
 
-³¹ Mi dipartii da Cyrce, che sottrasse (⁶)\
+31 Mi dipartii da Cyrce, che sottrasse (6)\
 &emsp;Me più d'un anno là press'a Ghaeta,\
 &emsp;Prima che sì Enea là nominasse;
 
-³¹ Discessi a Circe, que subtraxit\
+31 Discessi a Circe, que subtraxit\
 &emsp;Me plus ab uno anno ibi prope Gaietam,\
 &emsp;Prius quam Eneas eam sic nominaret;
 
-³² Nè dolcezza di figlio (⁷), nè la pieta\
-&emsp;Del vecchio padre(⁸), nè 'l debito amore(⁹),\
-&emsp;El qual dovea Penelope (¹⁰) far lieta,
+32 Nè dolcezza di figlio (7), nè la pieta\
+&emsp;Del vecchio padre(8), nè 'l debito amore(9),\
+&emsp;El qual dovea Penelope (10) far lieta,
 
-³² Nec dulcedo filiorum, nec pietas\
+32 Nec dulcedo filiorum, nec pietas\
 &emsp;Antiqui patris, nec debitus amor,\
 &emsp;Qui debebat Penelopem facere letam,
 
-³³ Vincer poterono dentr'a me l'ardore\
-&emsp;Ch'io ebbi a divenir(¹¹) del mondo experto,\
-&emsp;E delli sensi humani (¹²) e del valore:
+33 Vincer poterono dentr'a me l'ardore\
+&emsp;Ch'io ebbi a divenir(11) del mondo experto,\
+&emsp;E delli sensi humani (12) e del valore:
 
-³³ Vincere potuerunt intra me ardorem\
+33 Vincere potuerunt intra me ardorem\
 &emsp;Quem habui ad veniendum de mundo expertum,\
 &emsp;Et de vitiis humanis et de valore:
 
-(¹) dico. — (²) in mare. — (³) andossi. — (⁴) stata lì gran tempo. — (⁵) sua. — (⁶) per suoi maleficii. — (⁷) mio Thelemaco. — (⁸) mio Laerte. — (⁹) matrimoniale. — (¹⁰) donna mia. — (¹¹) diventar. — (¹²) al. e de la vita umana.
+(1) dico. — (2) in mare. — (3) andossi. — (4) stata lì gran tempo. — (5) sua. — (6) per suoi maleficii. — (7) mio Thelemaco. — (8) mio Laerte. — (9) matrimoniale. — (10) donna mia. — (11) diventar. — (12) al. e de la vita umana.
 
 quia opportet quod cum illis loquar ego prius. Permicte me loqui, quia ego concepi id quod tu vis, quia ipsi essent schivi, idest indignarentur, quoniam fuerunt Greci, forte de tuo dictu.
 
@@ -392,39 +392,39 @@ Notandum, quod post excidium Troye, Ulixes, cupiens experiri omnia, et totum mun
 
 <!-- p. 325 (0379) -->
 
-³⁴ Ma messi me per l'alto mare (¹) aperto\
-&emsp;Sol con un legno (²) e con quella compagna(³)\
-&emsp;Picciola, co'la qual poi fui diserto (⁴).
+34 Ma messi me per l'alto mare (1) aperto\
+&emsp;Sol con un legno (2) e con quella compagna(3)\
+&emsp;Picciola, co'la qual poi fui diserto (4).
 
-³⁴ Sed misi me per altum mare et apertum\
+34 Sed misi me per altum mare et apertum\
 &emsp;Solum cum uno ligno et cum illa sotietate\
 &emsp;Parva, a qua non fui desertus.
 
-³⁵ L'un lito (⁵) e l'altro viddi infin la Spagna,\
-&emsp;Fin al Morocho (⁶), e l'isola de Sardi,\
+35 L'un lito (5) e l'altro viddi infin la Spagna,\
+&emsp;Fin al Morocho (6), e l'isola de Sardi,\
 &emsp;E l'altre che quel mar intorno bagna.
 
-³⁵ Utrumque latus vidi usque in Hyspaniam,\
+35 Utrumque latus vidi usque in Hyspaniam,\
 &emsp;Usque ad Marochium, et insulam Sardorum,\
 &emsp;Et alias quas illud mare circum balneat.
 
-³⁶ Io e compagni eravàn vecchi e tardi,\
-&emsp;Quando giugnemmo a quella foce strecta (⁷),\
-&emsp;Dov'Hercole segnò (⁸) co'suoi riguardi,
+36 Io e compagni eravàn vecchi e tardi,\
+&emsp;Quando giugnemmo a quella foce strecta (7),\
+&emsp;Dov'Hercole segnò (8) co'suoi riguardi,
 
-³⁶ Ego et sotii eramus antiqui et tardi,\
+36 Ego et sotii eramus antiqui et tardi,\
 &emsp;Quando venimus ad illam faucem strictam,\
 &emsp;Ubi Hercules signavit sua reguardia,
 
-³⁷ Acciò che l'huom più oltre non si mecta (⁹):\
-&emsp;Da la man dextra mi lassai Sibilia (¹⁰),\
-&emsp;Dall'altra (¹¹) già m'havea lassato Secta(¹²).
+37 Acciò che l'huom più oltre non si mecta (9):\
+&emsp;Da la man dextra mi lassai Sibilia (10),\
+&emsp;Dall'altra (11) già m'havea lassato Secta(12).
 
-³⁷ Ut homo ulterius se non ponat:\
+37 Ut homo ulterius se non ponat:\
 &emsp;Ad manum dexteram ibi dimisi Sibiliam,\
 &emsp;Ad aliam iam dimiseram Septam.
 
-(¹) Mediterraneo. — (²) nave. — (³) compagnia. — (⁴) perduto in mare. — (⁵) del decto mare. — (⁶) Marrochio. — (⁷) di Vibilterra. — (⁸) a Ghades. — (⁹) a navigare. — (¹⁰) città di Spagna. — (¹¹) mano sinistra. — (¹²) città di Barbaria.
+(1) Mediterraneo. — (2) nave. — (3) compagnia. — (4) perduto in mare. — (5) del decto mare. — (6) Marrochio. — (7) di Vibilterra. — (8) a Ghades. — (9) a navigare. — (10) città di Spagna. — (11) mano sinistra. — (12) città di Barbaria.
 
 unius magne mage, mulieris pulcherrime, que vocabatur domina Circes, et propter suam indicibilem pulchritudinem dicebatur filia Solis, et sic fingitur a poetis. Hec fuit maxima incantatrix: sciebat facere mirabilia cibaria, fercula, pocula, cum quibus convertebat homines in bestias et beluas, postea reducebat eosdem ad pristinam formam; et ideo in stabulis suis habebat diversa animalia. Hystoria in parte vera est, quod illa fuit insula; sed non est modo, quia circuit terra, et coniunxit se cum monte Circello; et modo non est insula, sed terra firma. In illa insula habitabat ista domina Circes, maxima meretrix, valde eloquens et sagax: que femina tam pulchritudine quam eloquentia dementabat homines, et convertebat eos quasi in bestias, etc. Hec insula erat, et est adhuc ille mons, inter Romam et Neapolim, quasi in medio: distat a Gaieta iste mons per triginta milliaria lombardica. In hac insula, cum ista domina Circe, stetit Ulixes, cum una galea et sua sotietate, per unum annum et amplius, ubi ipse Ulixes scivit se bene cavere a poculis domine Circis; sed non sic sciverunt se cavere sotii sui, quoniam quasi omnes conversi fuerunt in bestias: tamen, postmodum, ipse Ulixes scivit eos bene restaurare.
 
@@ -436,63 +436,63 @@ Marochium est regio in Hyspania, et est regum Saracenorum. Sardinia est in mari 
 
 <!-- p. 326 (0380) -->
 
-³⁸ O frati (¹), dissi (²), che per cento milia\
-&emsp;Perigli (³) sete giunti all'occidente,\
+38 O frati (1), dissi (2), che per cento milia\
+&emsp;Perigli (3) sete giunti all'occidente,\
 &emsp;A questa tanto picciola vigilia
 
-³⁸ O fratres, dixi, qui per centum millia\
+38 O fratres, dixi, qui per centum millia\
 &emsp;Pericula venistis ad occidentem,\
 &emsp;Huic tantum parve vigilie
 
-³⁹ De' vostri sensi, ch'è del rimanente,\
+39 De' vostri sensi, ch'è del rimanente,\
 &emsp;Non vogliate negar la sperienza,\
 &emsp;Dirieto al sol, del mondo senza gente.
 
-³⁹ Vestrorum sensuum, que est de residuo,\
+39 Vestrorum sensuum, que est de residuo,\
 &emsp;Ne velitis negare experientiam,\
 &emsp;Post solem, mundi sine gente.
 
-⁴⁰ Considerate la vostra semenza:\
+40 Considerate la vostra semenza:\
 &emsp;Facti non sete a viver come bruti,\
 &emsp;Ma per seguir virtù e conoscenza.
 
-⁴⁰ Considerate vestrum semen:\
+40 Considerate vestrum semen:\
 &emsp;Facti non fuistis ad vivendum tamquam bruta,\
 &emsp;Sed propter sequi virtutem et experientiam.
 
-⁴¹ Li miei compagni fec'io sì acuti,\
+41 Li miei compagni fec'io sì acuti,\
 &emsp;Con quest'oration picciola, al cammino,\
 &emsp;Ch'a pena poscia gl'havrei ritenuti.
 
-⁴¹ Meos sotios feci ego ita acutos,\
+41 Meos sotios feci ego ita acutos,\
 &emsp;Cum ista parva oratione, ad iter,\
 &emsp;Quod vix postea illos retinuissem.
 
-⁴² E, volta nostra poppa nel mattino,\
+42 E, volta nostra poppa nel mattino,\
 &emsp;De'remi facemm'hali al folle volo,\
 &emsp;Sempr'acquistando dal lato mancino.
 
-⁴² Et, versa nostra puppi versus matutinum,\
+42 Et, versa nostra puppi versus matutinum,\
 &emsp;De remis fecimus alas fatui volatui,\
 &emsp;Semper acquirendo ad latus sinistrum.
 
-⁴³ Tucte le stelle già dell'altro polo (⁴)\
-&emsp;Vedeàm la nocte, e 'l nostro(⁵) tanto basso,\
+43 Tucte le stelle già dell'altro polo (4)\
+&emsp;Vedeàm la nocte, e 'l nostro(5) tanto basso,\
 &emsp;Che non sorgea fuor del marin suolo.
 
-⁴³ Omnes stellas iam alterius poli\
+43 Omnes stellas iam alterius poli\
 &emsp;Videbam in nocte, et nostrum tantum infimum,\
 &emsp;Quod non surgebat extra marinum solum.
 
-⁴⁴ Cinque volte racceso, e tante (⁶) casso (⁷),\
+44 Cinque volte racceso, e tante (6) casso (7),\
 &emsp;Lo lum'era di socto della Luna,\
 &emsp;Poi ch'entrati eravam nell'alto passo,
 
-⁴⁴ Quinquies reaccensum, et totidem extinctum\
+44 Quinquies reaccensum, et totidem extinctum\
 &emsp;Lumen erat inferius in luna,\
 &emsp;Postquam intraveramus altum passum,
 
-(¹) miei. — (²) a compagni. — (³) pericoli. — (⁴) Antarthico. — (⁵) polo Arthico. — (⁶) volte. — (⁷) cioè cinque spento.
+(1) miei. — (2) a compagni. — (3) pericoli. — (4) Antarthico. — (5) polo Arthico. — (6) volte. — (7) cioè cinque spento.
 
 leucas gallicas, per centum quinquaginta milliaria lombardica. Sibilia est nobilis civitas in regno Castelle; civitas regalis est: alias dicitur Ispalensis. Iste mons est supra mare, et vocatur mons Gibeltarius. Istic, apud illum montem, incipit strictum Sibilie, quia inter montem Gibeltarium usque ad Barbariam non sunt nisi decem et octo milliaria lombardica, sive anglicana, que sunt eadem: et inter istud strictum mare Oceanum fluit ad mare Mediterraneum; quod postea elongatur versus oriens usque ad partes Sirie. Ab isto monte Gibeltario usque Romam mare vocatur Leoninum. Ex parte Barbarie est civitas Septe, que stat ex opposito Sibilie. Ita quod Ulixes, recedens de insula Circe, semper navigavit per mare Mediterraneum, quousque pervenit ad illud strictum: non debebat navigare ad manum sinistram quovis modo, quia non navigabile est illud versus sinistram quovis modo.
 
@@ -506,33 +506,33 @@ Quinquies reaccensum et totidem extinctum lumen erat inferius, idest in illo alt
 
 <!-- p. 327 (0381) -->
 
-⁴⁵ Quando n'apparve una montagna(¹) bruna\
+45 Quando n'apparve una montagna(1) bruna\
 &emsp;Per la distanza, e parvemi alta tanto,\
 &emsp;Quanto veduta mai n'havessi alcuna.
 
-⁴⁵ Quando nobis apparuit una montanea nigra\
+45 Quando nobis apparuit una montanea nigra\
 &emsp;Propter distantiam, et apparebat alta tantum,\
 &emsp;Quantum non videram adhuc aliquam.
 
-⁴⁶ Noi ci allegrammo, e tosto tornò in pianto;\
+46 Noi ci allegrammo, e tosto tornò in pianto;\
 &emsp;Chè de la nuova terra un turbo nacque,\
-&emsp;E percosse del legno(²) el primo canto(³):
+&emsp;E percosse del legno(2) el primo canto(3):
 
-⁴⁶ Nos tunc letati fuimus, sed cito conversum est in planctum;\
+46 Nos tunc letati fuimus, sed cito conversum est in planctum;\
 &emsp;Quia de nova terra unus turbo natus est,\
 &emsp;Et percussit ligni primum angulum:
 
-⁴⁷ Tre volte 'l fe'girar (⁴) con tucte l'acque,\
-&emsp;A la quarta(⁵) levar(⁶) la prora (⁷) in suso (⁸),\
-&emsp;E la poppa(⁹) andar (¹⁰) giù, com'altrui (¹¹) piacque,\
-&emsp;Tanto che 'l mar (¹²) fu sovra noi richiuso.
+47 Tre volte 'l fe'girar (4) con tucte l'acque,\
+&emsp;A la quarta(5) levar(6) la prora (7) in suso (8),\
+&emsp;E la poppa(9) andar (10) giù, com'altrui (11) piacque,\
+&emsp;Tanto che 'l mar (12) fu sovra noi richiuso.
 
-⁴⁷ Ter fecit ipsum circumduci cum totis aquis,\
+47 Ter fecit ipsum circumduci cum totis aquis,\
 &emsp;Quarta levare sursum puppim,\
 &emsp;Et proram ire deorsum, sicut alteri placuit,\
 &emsp;Quousque mare fuit supra nos reclusum.
 
-(¹) isola. — (²) nave. — (³) la prua. — (⁴) intorno. — (⁵) volta. — (⁶) fè. — (⁷) al. poppa. — (⁸) alto. — (⁹) al. la prora. — (¹⁰) fe'. — (¹¹) a Dio, quem noluit nominare ex indignatione. — (¹²) Oceano.
+(1) isola. — (2) nave. — (3) la prua. — (4) intorno. — (5) volta. — (6) fè. — (7) al. poppa. — (8) alto. — (9) al. la prora. — (10) fe'. — (11) a Dio, quem noluit nominare ex indignatione. — (12) Oceano.
 
 in altum passum, quando nobis apparuit una montanea nigra, idest bruna, propter distantiam. Illa erat mons Purgatorii, ad quem non potest iri; et illa erat alta tantum, quantum non videram adhuc aliquam.
 

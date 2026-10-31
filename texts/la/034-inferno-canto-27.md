@@ -8,31 +8,31 @@ In isto capitulo vicesimoseptimo, quod incipit: Iam flamma se erexerat, tractat 
 
 # Capitulum Vicesimumseptimum
 
-¹ Già era dricta in su la fiamma(¹)e queta(²),\
-&emsp;Per non dir più, e già da noi sen gia (³)\
-&emsp;Colla licenza del dolce Poeta (⁴);
+1 Già era dricta in su la fiamma(1)e queta(2),\
+&emsp;Per non dir più, e già da noi sen gia (3)\
+&emsp;Colla licenza del dolce Poeta (4);
 
-¹ Iam recta erat in sursum flamma et quieverat,\
+1 Iam recta erat in sursum flamma et quieverat,\
 &emsp;Ut plura non diceret, et iam a nobis recedebat\
 &emsp;Cum licentia dulcis Poete;
 
-² Quand'un'altra, che dietro a lei venia,\
-&emsp;Ne fece(⁵) volger gl'ochi alla sua cima,\
+2 Quand'un'altra, che dietro a lei venia,\
+&emsp;Ne fece(5) volger gl'ochi alla sua cima,\
 &emsp;Per un confuso suon che fuor n'uscia.
 
-² Quando una alia, que veniebat retro nos,\
+2 Quando una alia, que veniebat retro nos,\
 &emsp;Nos fecit volvere oculos ad suam summitatem,\
 &emsp;Propter unum confusum sonum qui inde exibat.
 
-³ Come 'l bue sicilian che muglò prima\
-&emsp;Col pianto di colui (⁶) (e ciò fu dricto (⁷))\
+3 Come 'l bue sicilian che muglò prima\
+&emsp;Col pianto di colui (6) (e ciò fu dricto (7))\
 &emsp;Che l'havea temperato con sua lima,
 
-³ Sicut bos siculus qui mugi[i]t primitus\
+3 Sicut bos siculus qui mugi[i]t primitus\
 &emsp;Cum planctu illius (et hoc fuit rectum)\
 &emsp;Qui eum temperaverat cum sua lima,
 
-(¹) d'Ulixe. — (²) al. cheta. — (³) partiva. — (⁴) Virgilio. — (⁵) a noi. — (⁶) di Perillo. — (⁷) giusto.
+(1) d'Ulixe. — (2) al. cheta. — (3) partiva. — (4) Virgilio. — (5) a noi. — (6) di Perillo. — (7) giusto.
 
 Iam recta erat sursum flamma, etc. Già era diretta in su la fiamma: istud est vicesimumseptimum capitulum huius Inferni, in quo auctor, ex quo tractavit in capitulo precedenti de una specie malitie, sive male astutie, qua homines in se, et propter se, et ratione sui, utuntur in dampnum aliorum, in hoc tractat de una alia specie malitie, seu male astutie, qua nonnulli utuntur, non in propriis factis, sed in alienis, scilicet in dando astuta, sive malitiosa, consilia, et docendo sagacitates in dampnum aliorum. Dividitur autem istud capitulum in quatuor partes. Quarum in prima parte auctor, continuans dicta dicendis, primo introducit unum spiritum modernum, qui fuit valde astutus.
 
@@ -60,47 +60,47 @@ Ad quod bene describendum, auctor facit unam comparacionem: ad cuius notitiam ha
 
 <!-- p. 331 (0385) -->
 
-⁴ Muglava con la voce dell'afflicto,\
+4 Muglava con la voce dell'afflicto,\
 &emsp;Sì che, con tucto che fosse di rame,\
-&emsp;Pur el (¹) pareva dal dolor traficto;
+&emsp;Pur el (1) pareva dal dolor traficto;
 
-⁴ Mugiebat primo cum voce afflicti,\
+4 Mugiebat primo cum voce afflicti,\
 &emsp;Ita quod, quamquam esset de ere,\
 &emsp;Tamen ipse apparebat de dolore transfixus;
 
-⁵ Così per non haver via nè forame\
+5 Così per non haver via nè forame\
 &emsp;Dal principio del fuoco, in suo linguaggio\
 &emsp;Si convertivan le parole grame.
 
-⁵ Sic quia non habebat viam [neque] foramen\
+5 Sic quia non habebat viam [neque] foramen\
 &emsp;A principio ignis, in suo linguaggio\
 &emsp;Convertebantur verba grama.
 
-⁶ Ma poscia ch'ebber colto lor viaggio\
+6 Ma poscia ch'ebber colto lor viaggio\
 &emsp;Su per la puncta, dandole quel guizzo\
 &emsp;Che dato havea la lingua in lor passaggio,
 
-⁶ Sed postquam captaverunt suum viagium\
+6 Sed postquam captaverunt suum viagium\
 &emsp;Super punctam, dando ei illum guizzum\
 &emsp;Quem dederat lingua in eorum passagio,
 
-⁷ Udimmo dire: O tu, a cu'io dirizzo\
-&emsp;La voce (²), e che parlavi mo lombardo,\
-&emsp;Dicendo(³): Hora ten va', non più t'adizzo(⁴);
+7 Udimmo dire: O tu, a cu'io dirizzo\
+&emsp;La voce (2), e che parlavi mo lombardo,\
+&emsp;Dicendo(3): Hora ten va', non più t'adizzo(4);
 
-⁷ Audivimus dici: O tu, cui ego dirigo\
+7 Audivimus dici: O tu, cui ego dirigo\
 &emsp;Vocem, et qui loquebaris nunc lombardice,\
 &emsp;Dicendo: Issa recede, et plus te non adizzo;
 
-⁸ Perch'io sia giuncto forse alquanto tardo,\
+8 Perch'io sia giuncto forse alquanto tardo,\
 &emsp;Non t'incresca ristar a parlar meco:\
 &emsp;Vedi che non rincresce a me, che ardo.
 
-⁸ Quamquam ego venerim forte aliquantulum tardus,\
+8 Quamquam ego venerim forte aliquantulum tardus,\
 &emsp;Non te tedeat remanere ad loquendum mecum:\
 &emsp;Videas quod non tedet me, et ardeo.
 
-(¹) bove. — (²) mia. — (³) ad Ulixe — (⁴) domando.
+(1) bove. — (2) mia. — (3) ad Ulixe — (4) domando.
 
 ibi fuit Agathocles, mirabilis tyrampnus, tam nequitia quam sagacitate; fuit etiam Dyonisius magnus et ferox, et Dyonisius, filius istius, adhuc peior patre; fuit etiam Faleris, crudelissimus inter alios. Hic habitabat in una civitate insule Sicilie, nomine Aggregento; qui omni die exquirebat et querebat nova genera tormentorum. Quapropter quidam subtilis faber, nomine Perillus, volens complacere dicto tyrampno, fecit unum bovem de rame, sive de ere, sive de metallo, qui videbatur vivus taurus: ita erat pulcher. In lateribus, sive in costis, fecit rimulam, que aperiebatur et firmabatur ita quod non disparebat, et istum donavit Faleri, dicens: Scio, domine, quod multi tentant exterminium vestrum et vestri dominii; unde, si quem reperieris, fac iniici in istum bovem, sive taurum, et suppone ignem: iste clamabit, et faciet sonum bovis, ita quod non te oportebit compati a fletu, audiendo vocem bovinam. Tunc Falleris, alias iniustissimus, iustissime fecit istum fabrum per illum primo experiri hanc penam. Tunc ad textum.
 
@@ -114,55 +114,55 @@ Redeundo ad primum comitem Guidonem antiquum, de quo hic loquitur auctor, dico q
 
 <!-- p. 332 (0386) -->
 
-⁹ Se tu pur mo in questo mondo ceco (¹)\
+9 Se tu pur mo in questo mondo ceco (1)\
 &emsp;Caduto se'di quella dolce terra\
-&emsp;Latina (²), ond'io tucta mia colpa reco;
+&emsp;Latina (2), ond'io tucta mia colpa reco;
 
-⁹ Si tu nunc primo in hunc mundum cecum\
+9 Si tu nunc primo in hunc mundum cecum\
 &emsp;Cecidisti ab illa dulci terra\
 &emsp;Latina, unde ego meam culpam reporto;
 
-¹⁰ Dimmi s'e Romagnoli han pace o guerra;\
-&emsp;Ch'io fui de'monti (³) là entro ad Urbino\
-&emsp;Nel giogo(⁴) da che 'l Tever(⁵) si disserra(⁶).
+10 Dimmi s'e Romagnoli han pace o guerra;\
+&emsp;Ch'io fui de'monti (3) là entro ad Urbino\
+&emsp;Nel giogo(4) da che 'l Tever(5) si disserra(6).
 
-¹⁰ Dic michi si Romandioli habent pacem vel guerram;\
+10 Dic michi si Romandioli habent pacem vel guerram;\
 &emsp;Quia ego fui de montibus ibi intra Urbinum\
 &emsp;Et iugum a quo Tyber se disserrat.
 
-¹¹ Io (⁷) era in giuso ancor attento e chino,\
-&emsp;Quando 'l mio duca(⁸) mi temptò di costa,\
-&emsp;Dicendo: Parla tu (⁹), questi è latino (¹⁰).
+11 Io (7) era in giuso ancor attento e chino,\
+&emsp;Quando 'l mio duca(8) mi temptò di costa,\
+&emsp;Dicendo: Parla tu (9), questi è latino (10).
 
-¹¹ Ego eram infra adhuc attentus et inclinatus,\
+11 Ego eram infra adhuc attentus et inclinatus,\
 &emsp;Quando dux meus temptavit me ad costam,\
 &emsp;Dicendo: Loquere tu, quia iste est latinus.
 
-¹² Et io, ch'avea già prompta la risposta,\
-&emsp;Senz'indugio a parlar incominciai (¹¹):\
-&emsp;O anima, che se'laggiù (¹²) nascosta,
+12 Et io, ch'avea già prompta la risposta,\
+&emsp;Senz'indugio a parlar incominciai (11):\
+&emsp;O anima, che se'laggiù (12) nascosta,
 
-¹² Et ego, qui habebam iam promptum responsum,\
+12 Et ego, qui habebam iam promptum responsum,\
 &emsp;Sine delatione loqui cepi:\
 &emsp;O anima, que es ibi infra absconsa,
 
-¹³ Romagna tua non è, e non fu mai,\
+13 Romagna tua non è, e non fu mai,\
 &emsp;Senza guerra ne'cuor de'suoi tyranni,\
-&emsp;Ma nel paese (¹³) nulla hor vi lassai.
+&emsp;Ma nel paese (13) nulla hor vi lassai.
 
-¹³ Romandiola tua non est, nec unquam fuit,\
+13 Romandiola tua non est, nec unquam fuit,\
 &emsp;Sine guerra, in corde suorum tyrampnorum,\
 &emsp;Sed in publico nullam nunc ibi dimisi.
 
-¹⁴ Ravenna sta com'è stat'è molt'anni:\
+14 Ravenna sta com'è stat'è molt'anni:\
 &emsp;L'Aquila da Polenta là si cova,\
-&emsp;Sì che Cervia ricuopre co'suo'vanni(¹⁴).
+&emsp;Sì che Cervia ricuopre co'suo'vanni(14).
 
-¹⁴ Ravenna stat sicut stetit per multos annos:\
+14 Ravenna stat sicut stetit per multos annos:\
 &emsp;Aquila de Polenta eam covat,\
 &emsp;Ita quod Cerviam recooperit suis vannis.
 
-(¹) dell'Inferno. — (²) Italia. — (³) da Monte Feltro. — (⁴) dell'Alpe. — (⁵) fiume. — (⁶) nasce — (⁷) Dante. — (⁸) Virgilio. — (⁹) risponde hora. — (¹⁰) e non greco come quelli di sopra. — (¹¹) come seguita. — (¹²) in cotesta fiamma. — (¹³) al. ma palese nessuna guerra hor vi lassai. — (¹⁴) hale.
+(1) dell'Inferno. — (2) Italia. — (3) da Monte Feltro. — (4) dell'Alpe. — (5) fiume. — (6) nasce — (7) Dante. — (8) Virgilio. — (9) risponde hora. — (10) e non greco come quelli di sopra. — (11) come seguita. — (12) in cotesta fiamma. — (13) al. ma palese nessuna guerra hor vi lassai. — (14) hale.
 
 Si tu primus nunc in istum carcerem cecum cecidisti ab illa dulci terra, idest Romandiola (et illa questio facta est diu et declarata, quod non est in tota Ytalia dultior pars, non est ullum frustrum terre dultioris, quam sit Romandiola; et causas assignarem, sed essem suspectus, quia sum de Romandiola etiam ego), latina, unde meam culpam totam reco, idest reporto; dic michi, si Romandioli habent pacem vel guerram, quia ego fui de montibus ibi intra Urbinum et iugum, a quo, idest unde, Tiber se disserra, idest descendit, vel oritur, sive emanat. Tangit locum sue originis et sui dominii et quasi confinia.
 
@@ -180,23 +180,23 @@ Primo igitur describit Ravennam, quia antiquitus fuit civitas regalis et nobilis
 
 <!-- p. 333 (0387) -->
 
-¹⁵ La terra (¹) che fe' già la lunga prova,\
-&emsp;E de'Franceschi sanguinoso muchio(²),\
+15 La terra (1) che fe' già la lunga prova,\
+&emsp;E de'Franceschi sanguinoso muchio(2),\
 &emsp;Sotto le branche verdi si ritrova.
 
-¹⁵ Terra, que iam fecit longam provam,\
+15 Terra, que iam fecit longam provam,\
 &emsp;Et de Franzigenis fecit sanguineum tumulum,\
 &emsp;Sub branchis viridibus reperitur.
 
-¹⁶ E'l mastin vecchio e'l nuovo da Veruchio,\
+16 E'l mastin vecchio e'l nuovo da Veruchio,\
 &emsp;Che fecen di Montagna el mal governo,\
 &emsp;Là dove soglon far de'denti suchio.
 
-¹⁶ Mastinus novus et vetus de Veruculo,\
+16 Mastinus novus et vetus de Veruculo,\
 &emsp;Qui fecerunt de Montagna malam gubernationem,\
 &emsp;Ubi solent facere e dentibus suggimentum.
 
-(¹) di Forli. — (²) fe' de Franciosi ch'eran col re Karlo.
+(1) di Forli. — (2) fe' de Franciosi ch'eran col re Karlo.
 
 unus dominus Guido de domo Polente, homo magne scientie et prudentie, qui semper dabat provisionem ipsi Danti; et demum, quando Dantes moriebatur, ille dictus dominus Guido fecit corpus ipsius Dantis in loco Fratrum Minorum de Ravenna honorifice sepeliri, et fecit ipse dominus Guido unum pulchrum sermonem in laudem auctoris.
 
@@ -214,39 +214,39 @@ Iam transfert se ad civitatem Arrimini, ubi tunc dominabantur Maletesta antiquus
 
 <!-- p. 334 (0388) -->
 
-¹⁷ La città di Lamone e di Sancterno\
+17 La città di Lamone e di Sancterno\
 &emsp;Conduce 'l lioncel del nido bianco,\
 &emsp;Che muta parte dalla state al verno.
 
-¹⁷ Civitas Allamoni et Santerni\
+17 Civitas Allamoni et Santerni\
 &emsp;Conducit leunculus de nido albo,\
 &emsp;Qui mutat partem ab estate ad yemem.
 
-¹⁸ E quella (¹) a cui Savio (²) bagna 'l fianco,\
-&emsp;Così com'ella s'è(³) tra'l piano e'l monte,\
-&emsp;Tra tyranni si vive in stato franco (⁴).
+18 E quella (1) a cui Savio (2) bagna 'l fianco,\
+&emsp;Così com'ella s'è(3) tra'l piano e'l monte,\
+&emsp;Tra tyranni si vive in stato franco (4).
 
-¹⁸ Et illa cui Savius balneat fiancum,\
+18 Et illa cui Savius balneat fiancum,\
 &emsp;Sic sicut ipsa sedet inter planiciem et montem,\
 &emsp;Inter tyrampnidem vivit et statum francum.
 
-¹⁹ Hora chi se', ti prego che ne conte:\
-&emsp;Non esser duro(⁵) più ch'altro(⁶) sia stato(⁷),\
-&emsp;Se'l nome tuo nel mondo tegna fronte(⁸).
+19 Hora chi se', ti prego che ne conte:\
+&emsp;Non esser duro(5) più ch'altro(6) sia stato(7),\
+&emsp;Se'l nome tuo nel mondo tegna fronte(8).
 
-¹⁹ Nunc quis es, te precor quod nobis narres:\
+19 Nunc quis es, te precor quod nobis narres:\
 &emsp;Non sis durus plusquam alius fuerit,\
 &emsp;Si nomen tuum in mundo tene[a]t frontem.
 
-²⁰ Poscia che'l fuoco alquanto ebbe rughiato\
+20 Poscia che'l fuoco alquanto ebbe rughiato\
 &emsp;Al modo suo, l'acuta puncta mosse\
-&emsp;Di qua, di là, e poi diè cotal fiato (⁹):
+&emsp;Di qua, di là, e poi diè cotal fiato (9):
 
-²⁰ Postquam ignis aliquantulum rugit\
+20 Postquam ignis aliquantulum rugit\
 &emsp;Modo suo, summitatem suam movit\
 &emsp;Hinc inde, et postea dedit talem flatum:
 
-(¹) città di Cisena. — (²) fiume. — (³) al. siede. — (⁴) in libertà. — (⁵) a noi. — (⁶) io. — (⁷) a te. — (⁸) fama. — (⁹) voce.
+(1) città di Cisena. — (2) fiume. — (3) al. siede. — (4) in libertà. — (5) a noi. — (6) io. — (7) a te. — (8) fama. — (9) voce.
 
 Demum auctor transfert se ad civitates Faventie et Imole simul. Non nominat eas nomine proprio; sed nominat eas a nominibus fluviorum, quorum unus vocatur Lamone, qui currit per Faventiam; alter vocatur Santerno, qui fluit per Imolam. Iste Santernus antiquitus vocabatur Natrinus, secundum Plinium. Sciendum, quod Maginardus Paganus (fuit tale nomen suum) demissus a patre suo Pagano, sic vocato, pupillus, idest moriente patre, erat pupillus. Modo inter comitatum Imole et territorium Florentie est contracta que dicitur el Podere, idest possessio Paganorum. Pagani fuit una nobilis domus, que ibi possidebat multa castra; unde imaginans iste Paganus, quando dimictebat filium suum pupillum, inter dominium Ubaldinorum, qui sunt nobiles in Alpibus, ex una parte, et ex alia dominium comitum Guidonum, et alia parte erant tyrampni de Romandiola; ideo assignavit in tutorem dominium Florentinum, idest civitatem Florentie, sive Comune. Florentini propter habere illum passum, susceperunt curam pueri, et usque ad etatem adultam fideliter substinuerunt puerum; et propter istud beneficium Maginardus semper fuit obligatus Comuni Florentie: qui fuit etiam dominus Forlivii; sed tempore auctoris iam amiserat: ideo Dantes nihil dicit de eo. Nam Dantes ubique, extra Florentiam erat affectatus parti gebelline; sed in Florentia semper tenuit partem guelfam.
 
@@ -266,63 +266,63 @@ Nota quod iste comes Guido in senectute sua habuit conscientiam; et ductus penit
 
 <!-- p. 335 (0389) -->
 
-²¹ S'io credessi che mia risposta fosse\
+21 S'io credessi che mia risposta fosse\
 &emsp;A persona che mai tornasse al mondo,\
-&emsp;Questa fiamma staria senza più scosse(¹):
+&emsp;Questa fiamma staria senza più scosse(1):
 
-²¹ Si ego crederem quod meum responsum esset\
+21 Si ego crederem quod meum responsum esset\
 &emsp;Persone que unquam rediret ad mundum,\
 &emsp;Ista flamma staret sine pluribus excussionibus:
 
-²² Ma però che già mai di questo fondo\
-&emsp;Non tornò (²) vivo alcun, s'i'odo el vero,\
-&emsp;Senza tema (³) d'infamia ti rispondo.
+22 Ma però che già mai di questo fondo\
+&emsp;Non tornò (2) vivo alcun, s'i'odo el vero,\
+&emsp;Senza tema (3) d'infamia ti rispondo.
 
-²² Sed quia nunquam de isto mundo\
+22 Sed quia nunquam de isto mundo\
 &emsp;Rediit aliquis vivus, si audio verum,\
 &emsp;Sine timore infamie tibi respondeo.
 
-²³ Io fui huom d'arme, e poi fui Cordelliero(⁴),\
-&emsp;Credendomi, sì cinto (⁵), far emenda:\
-&emsp;E certo 'l creder mio venia intero (⁶),
+23 Io fui huom d'arme, e poi fui Cordelliero(4),\
+&emsp;Credendomi, sì cinto (5), far emenda:\
+&emsp;E certo 'l creder mio venia intero (6),
 
-²³ Ego fui homo armorum, et postea fui Cordelerius,\
+23 Ego fui homo armorum, et postea fui Cordelerius,\
 &emsp;Credendo, sic cinctus, facere emendam:\
 &emsp;Et certe meum credere veniebat integrum,
 
-²⁴ Se non fosse 'l gran Prete (⁷), a cui mal\
+24 Se non fosse 'l gran Prete (7), a cui mal\
 &emsp;Che mi rimise nelle prime colpe; prenda.\
-&emsp;E come e quare(⁸), voglo che m'intenda.
+&emsp;E come e quare(8), voglo che m'intenda.
 
-²⁴ Nisi esset grandis Presbiter, quem mala apprehen-\
+24 Nisi esset grandis Presbiter, quem mala apprehen-\
 &emsp;Qui me remisit in primas culpas; dant.\
 &emsp;Et qualiter et quomodo, volo quod tu me intelligas.
 
-²⁵ Mentre ch'io forma fui d'ossa e di polpe,\
+25 Mentre ch'io forma fui d'ossa e di polpe,\
 &emsp;Che la madre mi diè, l'opere mie\
-&emsp;Non furon leonine (⁹), ma di volpe (¹⁰).
+&emsp;Non furon leonine (9), ma di volpe (10).
 
-²⁵ Dum ego forma fui de ossibus et pulpis,\
+25 Dum ego forma fui de ossibus et pulpis,\
 &emsp;Quam mater michi dedit, opera mea\
 &emsp;Non fuerunt leonina, set vulpina.
 
-²⁶ Gl'accorgimenti e le coperte vie\
+26 Gl'accorgimenti e le coperte vie\
 &emsp;Io seppi tucte; e sì menai lor arte,\
-&emsp;Ch'al fine de la terra el suon n'uscie (¹¹).
+&emsp;Ch'al fine de la terra el suon n'uscie (11).
 
-²⁶ Avisamenta et coopertas vias\
+26 Avisamenta et coopertas vias\
 &emsp;Ego scivi omnia; et ita duxi eorum artes,\
 &emsp;Quod ad fines terre sonus exivit.
 
-²⁷ Quando mi vidi giunto in quella parte\
+27 Quando mi vidi giunto in quella parte\
 &emsp;Di mia etade, ove ciascun dovrebbe\
 &emsp;Calar le vele e raccogler le sarte,
 
-²⁷ Quando me vidi devenisse in illam partem\
+27 Quando me vidi devenisse in illam partem\
 &emsp;Mee etatis, ubi quilibet deberet\
 &emsp;Deponere vela et colligere sartas,
 
-(¹) parlare. — (²) al mondo. — (³) paura. — (⁴) Frate Minore. — (⁵) de la corda. — (⁶) ad effecto. — (⁷) papa Bonifatio octavo. — (⁸) perchè. — (⁹) di fortezza corporale. — (¹⁰) d'astutia di mente. — (¹¹) per fama ch'io ebbi.
+(1) parlare. — (2) al mondo. — (3) paura. — (4) Frate Minore. — (5) de la corda. — (6) ad effecto. — (7) papa Bonifatio octavo. — (8) perchè. — (9) di fortezza corporale. — (10) d'astutia di mente. — (11) per fama ch'io ebbi.
 
 tentaverat expugnare Penestrinum, civitatem quamdam in Campania, valde fortem. Non potens, nec valens quovis modo expugnare, memor morum dicti comitis Guidonis, iam Fratris Ordinis Minorum, misit pro eo, qui reverenter accessit. Quo accersito, papa dixit ei: Doce me modum et viam, unde possim expugnare et habere Penestrinum. Iste comes Guido excusabat se, dicens: Pater Beatissime, ego dimisi mundum pro Deo: ego nollem reintrare mundum iterum. Tunc papa dixit: Tu debes et teneris facere id quod tibi precipimus: nos habemus claves celi et regni celorum: ex nunc te absolvimus ab omnibus peccatis tuis. Et sicut Constantinus leprosus petiit consilium, unde posset liberari a lepra sua; sic Bonifatius papa petiit ab isto comite, scilicet Fratre Guidone, quod posset habere intentum suum, scilicet expugnare et obtinere Penestrinum. Tandem iste dedit sibi consilium fraudulentum; scilicet quod faceret longa et larga pacta cum illis de Columpna, et habito intento, nihil observaret de promissis. Et sic factum est. Modo, secundum fictionem auctoris, iste comes, scilicet Frater Guido, nunquam fuit confessus de isto peccato, scilicet de consilio fraudulento. Tempore mortis sue, quando obiit, non fuit confessus, quia non credebat oportere confiteri, ex quo papa pepercerat sibi omnia peccata sua, que facturus erat circa materiam quesiti a papa. Sanctus Franciscus veniebat pro anima sua: sed unus dyabolus dixit Beato Francisco: Iste est meus, quia, ex quo consilium fraudulentum Bonifatio octavo dedit, et nunquam fuit confessus, nec unquam penituit eum, meus est, quia in peccato obiit mortali. Et sic dyabolus portavit spiritum istum ad istum locum penarum. Sed quia nunquam de isto fundo rediit aliquis, si audio verum, sine timore infamie, tibi respondeo: Ego fui homo armiger et postea fui Cordelerius, idest Frater Minor (sic vocant Gallici Fratres Minores, Cordelerios: sic dicuntur a cordula, qua cinguntur), credendo sic cinctus facere emendam, idest emendare me a peccatis meis. Et certe credere meum veniebat integrum, scilicet quod sic fuisset (audivi quod quidam solempnis homo de Maletestis, nomine dominus Pandolfus, habuit dicere: Comes Guido de Urbino factus est Frater Minor: caveamus ne fiat Guardianus Arrimini), nisi esset grandis presbiter, idest papa, quem male apprehendat, qui me remisit in primas culpas: et qualiter et quare volo quod tu me intelligas. Scilicet papa Bonifatius, quem mala apprehenderunt, quia miserrime moriebatur.
 
@@ -334,39 +334,39 @@ Quando me vidi devenisse in illam partem mee etatis, scilicet antique, ubi, ides
 
 <!-- p. 336 (0390) -->
 
-²⁸ Ciò che m'era piaciuto, allor m'increbbe;\
+28 Ciò che m'era piaciuto, allor m'increbbe;\
 &emsp;E pentuto e confesso mi rendei,\
-&emsp;Hay miser lasso (¹)! e giovato sarebbe (²).
+&emsp;Hay miser lasso (1)! e giovato sarebbe (2).
 
-²⁸ Quidquid prius michi placebat, tunc displicuit;\
+28 Quidquid prius michi placebat, tunc displicuit;\
 &emsp;Et penitentem et confessum me reddidi,\
 &emsp;Heu michi misero et lapso! et michi profuisset.
 
-²⁹ Ma el principe (³) de' nuovi Pharisei,\
-&emsp;Havendo guerra presso a Laterano (⁴),\
+29 Ma el principe (3) de' nuovi Pharisei,\
+&emsp;Havendo guerra presso a Laterano (4),\
 &emsp;E non con Saracini, nè con Giudei;
 
-²⁹ Princeps novorum Phariseorum,\
+29 Princeps novorum Phariseorum,\
 &emsp;Habens guerram prope Lateranum,\
 &emsp;Et non cum Saracenis, nec cum Iudeis;
 
-³⁰ Chè ciascun suo nimico (⁵) era chrystiano;\
-&emsp;E nessun (⁶) era stato a vincer Acri (⁷),\
+30 Chè ciascun suo nimico (5) era chrystiano;\
+&emsp;E nessun (6) era stato a vincer Acri (7),\
 &emsp;Nè mercatante in terra di Soldano;
 
-³⁰ Sed quilibet inimicus suus erat christianus;\
+30 Sed quilibet inimicus suus erat christianus;\
 &emsp;Et nullus steterat ad vincendum Acrim,\
 &emsp;Nec mercator in terra Soldani;
 
-³¹ Nè sommo offitio (⁸), nè gl'ordini sacri (⁹),\
-&emsp;Guardò in sè, nè in me quel capestro(¹⁰),\
-&emsp;Che solea far e suoi cincti(¹¹) più macri(¹²).
+31 Nè sommo offitio (8), nè gl'ordini sacri (9),\
+&emsp;Guardò in sè, nè in me quel capestro(10),\
+&emsp;Che solea far e suoi cincti(11) più macri(12).
 
-³¹ Nec summum officium, nec sacros ordines,\
+31 Nec summum officium, nec sacros ordines,\
 &emsp;Respexit in se, nec in me illud capistrum,\
 &emsp;Quod solebat facere suos cinctos macilentiores.
 
-(¹) me. — (²) a me. — (³) Bonifatio predecto. — (⁴) contra e Colonnesi. — (⁵) di casa Colonna. — (⁶) di loro. — (⁷) città di Soria. — (⁸) del Papato. — (⁹) del sacerdozio. — (¹⁰) corda. — (¹¹) Frati Minori. — (¹²) abstinenti e sobrii.
+(1) me. — (2) a me. — (3) Bonifatio predecto. — (4) contra e Colonnesi. — (5) di casa Colonna. — (6) di loro. — (7) città di Soria. — (8) del Papato. — (9) del sacerdozio. — (10) corda. — (11) Frati Minori. — (12) abstinenti e sobrii.
 
 idest, moraliter loquendo, dirigere cor versus Deum, et relinquere mundum (pulchra metaphora: bonus mercator nauticus, quando diu ivit per mundum, per tot incommoda, debet appetere velle venire ad portum salutis: ita homo antiquus debet cogitare de portu salutis, scilicet finire bene in gratia Dei, deponere scilicet vanam gloriam mundi et inflationes seculi presentis; quia, teste Salomone, Ecclesiastes primo capitulo: Vanitas vanitatum et omnia vanitas: ita quod conversio istius comitis fuit facta bono et recto corde: audivi quod iste comes Guido, dum erat Frater Minor, cum sacco ibat pro pane ostiatim per totam civitatem Ancone); id quod prius michi placebat, tunc displicuit, et penitentem et confessum me reddidi, idest reduxi me ad Deum, heu misero michi! et michi profuisset, nisi princeps novorum Phariseorum (vocat hic Papam novum principem novorum Phariseorum propter effectum operum malorum), habens guerram prope Lateranum, et non cum Saracenis, nec cum Iudeis (dicitur autem Phariseus a phares, quod est divisio, quia sacerdotes et pharisei, sive religiosi, divisi sunt et separati ab aliis hominibus, tam in victu quam in vestitu: preterea pharisei male interpretabantur legem Dei; sicut faciunt hodie plurimi sacerdotes) quod, idest sed, quilibet inimicus suus erat christianus, et nullus steterat ad vincendum Acrim, sive Achon, sive Ptolemaidam (est una civitas in Suria, distans a Ierusalem per sexaginta milliaria), nec mercator in terra Soldani. Contra illos, scilicet Saracenos, vel contra illos qui pugnaverunt contra Acrim, contra illos qui fecerant mercantias cum Christianis, scilicet qui venderent illos, licitum esset pugnare.
 
@@ -374,39 +374,39 @@ Nota quod in millesimo ducentesimo nonagesimo primo, civitas Acri, que antiquitu
 
 <!-- p. 337 (0391) -->
 
-³² Ma come Costantin (¹) chiese Silvestro\
-&emsp;Dentro a Syrapt (²) a guarir de la lebre (³),\
-&emsp;Così mi chiese questi (⁴) per maestro (⁵)
+32 Ma come Costantin (1) chiese Silvestro\
+&emsp;Dentro a Syrapt (2) a guarir de la lebre (3),\
+&emsp;Così mi chiese questi (4) per maestro (5)
 
-³² Sed sicut Constantinus quesivit ad Silvestrum\
+32 Sed sicut Constantinus quesivit ad Silvestrum\
 &emsp;Intra Siractim ad liberandum eum de lepra,\
 &emsp;Sic me quesivit iste in magistrum
 
-³³ A guarir de la sua superba febre:\
+33 A guarir de la sua superba febre:\
 &emsp;Dimandommi consiglio; et io tacetti,\
 &emsp;Perchè le sue parole parean ebre.
 
-³³ Ad deliberandum ipsum de superba febre:\
+33 Ad deliberandum ipsum de superba febre:\
 &emsp;Consuluit me; et ego tacui,\
 &emsp;Quia sua verba apparuerunt michi ebria.
 
-³⁴ E poi mi disse: Tuo cuor non sospecti;\
+34 E poi mi disse: Tuo cuor non sospecti;\
 &emsp;Fin hor t'absolvo, e tu m'insegna fare\
-&emsp;Sì come Penestrina(⁶) in terra gecti.
+&emsp;Sì come Penestrina(6) in terra gecti.
 
-³⁴ Et postea dixit michi: Tuum cor non suspicetur;\
+34 Et postea dixit michi: Tuum cor non suspicetur;\
 &emsp;Ex nunc te absolvo, et tu me doceas facere\
 &emsp;Quomodo Penestre ad terram prosternam.
 
-³⁵ Lo ciel poss'io serrare e disserrare (⁷),\
+35 Lo ciel poss'io serrare e disserrare (7),\
 &emsp;Come tu sai; però son due le chiavi,\
-&emsp;Che 'l mio antecessor(⁸) non ebbe care(⁹).
+&emsp;Che 'l mio antecessor(8) non ebbe care(9).
 
-³⁵ Celum ego possum claudere et aperire,\
+35 Celum ego possum claudere et aperire,\
 &emsp;Sicut tu scis; ideo sunt due claves,\
 &emsp;Quas meus antecessor non habuit caras.
 
-(¹) Imperadore. — (²) monte. — (³) lebbra. — (⁴) Bonifatio. — (⁵) medico. — (⁶) città di Campagna. — (⁷) clave non errante però. — (⁸) papa Celestino. — (⁹) ma rifiutolle.
+(1) Imperadore. — (2) monte. — (3) lebbra. — (4) Bonifatio. — (5) medico. — (6) città di Campagna. — (7) clave non errante però. — (8) papa Celestino. — (9) ma rifiutolle.
 
 Sed sicut Constantinus quesivit Silvestrum intra Siractim ad liberandum eum de lepra, sic me quesivit in magistrum, ad liberandum eum de sua superba febre. Consuluit me; et ego tacui, quia verba sua apparuerunt michi ebria, idest vana, stulta.
 
@@ -422,71 +422,71 @@ Et postea dixit michi: Tuum cor non suspicetur: ex nunc te absolvo; et tu doceas
 
 <!-- p. 338 (0392) -->
 
-³⁶ Allor mi pinser gl'argomenti(¹) gravi (²),\
-&emsp;Onde 'l tacer (³) mi fu avviso 'l peggio,\
+36 Allor mi pinser gl'argomenti(1) gravi (2),\
+&emsp;Onde 'l tacer (3) mi fu avviso 'l peggio,\
 &emsp;E dissi: Padre, da che tu mi lavi
 
-³⁶ Tunc me impulerunt argumenta gravia\
+36 Tunc me impulerunt argumenta gravia\
 &emsp;Ubi tacere meum fuit apprehendi peius,\
 &emsp;Et dixi: Pater, postquam tu me lavas
 
-³⁷ Di quel peccato, ove mo (⁴) cader deggio,\
-&emsp;Lunga(⁵) promessa coll'attender corto(⁶)\
-&emsp;Ti farà triumphar nell'alto (⁷) seggio (⁸).
+37 Di quel peccato, ove mo (4) cader deggio,\
+&emsp;Lunga(5) promessa coll'attender corto(6)\
+&emsp;Ti farà triumphar nell'alto (7) seggio (8).
 
-³⁷ Ab illo peccato, in quo nunc cadere debeo,\
+37 Ab illo peccato, in quo nunc cadere debeo,\
 &emsp;Longum promictere cum observacione brevi\
 &emsp;Te facient triumphare in alto solio.
 
-³⁸ Francesco (⁹) venne poi, com'io fui morto,\
-&emsp;Per me; ma un de'neri Cherubini (¹⁰)\
+38 Francesco (9) venne poi, com'io fui morto,\
+&emsp;Per me; ma un de'neri Cherubini (10)\
 &emsp;Li disse: Nol portar; non mi far torto:
 
-³⁸ Franciscus venit postmodum, statim quod fui mortuus,\
+38 Franciscus venit postmodum, statim quod fui mortuus,\
 &emsp;Pro me; et unus de nigris Cherubim\
 &emsp;Dixit: Non po[r]tes; non facias michi iniuriam:
 
-³⁹ Venir sen de'quaggiù(¹¹) tra'miei meschini(¹²),\
-&emsp;Perchè diede (¹³) 'l consiglo fraudolento,\
-&emsp;Dal qual in qua stato li so'a'crini (¹⁴);
+39 Venir sen de'quaggiù(11) tra'miei meschini(12),\
+&emsp;Perchè diede (13) 'l consiglo fraudolento,\
+&emsp;Dal qual in qua stato li so'a'crini (14);
 
-³⁹ Venire debet infra ad meos mischinos,\
+39 Venire debet infra ad meos mischinos,\
 &emsp;Ex eo quia dedit consilium fraudulentum,\
 &emsp;A quo usque nunc semper fui ad crines eius;
 
-⁴⁰ Ch'absolver non si può chi non si pente;\
-&emsp;Nè penter e voler (¹⁵) insieme puossi,\
+40 Ch'absolver non si può chi non si pente;\
+&emsp;Nè penter e voler (15) insieme puossi,\
 &emsp;Per la contradiction che nol consente.
 
-⁴⁰ Quia absolvi non potest ille quem non penitet;\
+40 Quia absolvi non potest ille quem non penitet;\
 &emsp;Nec penitere et velle insimul potest fieri,\
 &emsp;Propter contradictionem que non consentit.
 
-⁴¹ O me dolente! come mi riscossi,\
+41 O me dolente! come mi riscossi,\
 &emsp;Quando mi prese, dicendomi: Forse\
 &emsp;Tu non credevi ch'io loyco fossi!
 
-⁴¹ Heu michi dolens! quantum me excussi,\
+41 Heu michi dolens! quantum me excussi,\
 &emsp;Quando ipse me cepit, dicendo michi: Forsan\
 &emsp;Tu non cogitabas quod ego loycus essem!
 
-⁴² A Mynos(¹⁶) mi portò; e quelli(¹⁷) attorse\
+42 A Mynos(16) mi portò; e quelli(17) attorse\
 &emsp;Octo volte la coda al dosso duro,\
-&emsp;E poi per la gran rabbia la (¹⁸) si morse,
+&emsp;E poi per la gran rabbia la (18) si morse,
 
-⁴² Ad Mynoem me portavit; et ille me attorsit\
+42 Ad Mynoem me portavit; et ille me attorsit\
 &emsp;Octo vicibus caudam ad dorsum durum,\
 &emsp;Et postquam propter grandem rabiem illam momordit,
 
-⁴³ Disse: Quest'è de'rei del fuoco furo;\
+43 Disse: Quest'è de'rei del fuoco furo;\
 &emsp;Perch'io là dove vedi so'perduto,\
-&emsp;E sì vestito(¹⁹) andando mi raccuro(²⁰).
+&emsp;E sì vestito(19) andando mi raccuro(20).
 
-⁴³ Dixit: Iste est de reis ignis furi;\
+43 Dixit: Iste est de reis ignis furi;\
 &emsp;Ex quo ubi vides sum perditus,\
 &emsp;Et ira vestitus eundo me rancuro.
 
-(¹) suoi. — (²) in apparentia. — (³) e non consentirli. — (⁴) hora. — (⁵) grande. — (⁶) poco. — (⁷) al. sull'alto. — (⁸) sedia papale. — (⁹) sancto. — (¹⁰) demoni. — (¹¹) nell'Inferno. — (¹²) dannati. — (¹³) decte a papa Bonifatio. — (¹⁴) al capo. — (¹⁵) pechare. — (¹⁶) giudice dell'Inferno. — (¹⁷) Mynos. — (¹⁸) coda. — (¹⁹) di fuoco. — (²⁰) mi ravvegho, benchè tardi.
+(1) suoi. — (2) in apparentia. — (3) e non consentirli. — (4) hora. — (5) grande. — (6) poco. — (7) al. sull'alto. — (8) sedia papale. — (9) sancto. — (10) demoni. — (11) nell'Inferno. — (12) dannati. — (13) decte a papa Bonifatio. — (14) al capo. — (15) pechare. — (16) giudice dell'Inferno. — (17) Mynos. — (18) coda. — (19) di fuoco. — (20) mi ravvegho, benchè tardi.
 
 Tunc me impulerunt argumenta gravia, ubi tacere meum fuit apprehendi peius. Quia decreveram tacere, et non respondere: postquam respondi, et dedi sibi tale consilium, quod fuit sequutus, ideo sumpsi peius, quia melius per me tacuisse fuisset. Et dixi: Pater, postquam tu me lavas ab illo peccato, in quod nunc cadere debeo, longum promictere cum observatione brevi, idest multa promictere et pauca observare, te facient triumphare in alto solio, idest victoriam habebis.
 
@@ -500,25 +500,25 @@ Ad Mynoem, scilicet iudicem Inferni, me portavit; et ille attorsit, scilicet cin
 
 <!-- p. 339 (0393) -->
 
-⁴⁴ Quand'ebbe suo desir così compiuto,\
+44 Quand'ebbe suo desir così compiuto,\
 &emsp;La fiamma dolorando si partio,\
 &emsp;Torcendo e dibactendo 'l corno acuto.
 
-⁴⁴ Quando suum dictum ipse complevit,\
+44 Quando suum dictum ipse complevit,\
 &emsp;Flamma dolorando recessit,\
 &emsp;Torquendo hinc inde et percutiendo cornu acutum.
 
-⁴⁵ Noi passamm'oltre, el duca mio et io,\
+45 Noi passamm'oltre, el duca mio et io,\
 &emsp;Su per lo scoglo infin en su l'altr'arco,\
 &emsp;Che scuopre 'l fosso, in che si paga'l fio\
-&emsp;A quei che scommectendo(¹) acquistar'carco.
+&emsp;A quei che scommectendo(1) acquistar'carco.
 
-⁴⁵ Nos transivimus ultra, ego et dux meus,\
+45 Nos transivimus ultra, ego et dux meus,\
 &emsp;Super scopulum usque ad alium arcum,\
 &emsp;Qui cooperit fossum, in quo solvitur fio\
 &emsp;Ab hiis qui scomictendo onera acquirunt.
 
-(¹) facendo scisma, parti e divisioni.
+(1) facendo scisma, parti e divisioni.
 
 igne tamquam latrones, quia ille ignis furatur et abscondit animas. Ex quo, ubi vides ego sum perditus; et ita vestitus, idest tali flamma incensus, eundo me rancuro, idest doleo et lamentor. Quando suum dictum ipse complevit, flamma, dolorando, recessit, torquendo hinc et inde percutiendo cornu acutum.
 

@@ -8,27 +8,27 @@ In vicesimonono capitulo, quod incipit: Quando ambo filii Lathone, auctor proseq
 
 # Capitulum Vicesimumnonum
 
-¹ Quand'amendue e figli di Latona,\
+1 Quand'amendue e figli di Latona,\
 &emsp;Coverti del Monton e de la Libra,\
 &emsp;Fanno dell'orizzonte insieme zona,
 
-¹ Quando ambi filii Lathone,\
+1 Quando ambi filii Lathone,\
 &emsp;Cooperti de Ariete et de Libra,\
 &emsp;Faciunt de orizonte simul zonam,
 
-² Quant'è dal puncto ch'à 'l Cenyt in Libra,\
+2 Quant'è dal puncto ch'à 'l Cenyt in Libra,\
 &emsp;Infin che l'uno e l'altro da quel cincto,\
 &emsp;Cambiando l'emysperio, si delibra;
 
-² Quantum est a puncto qui Zenith in Libra,\
+2 Quantum est a puncto qui Zenith in Libra,\
 &emsp;Usquequo uterque ab illo cincto,\
 &emsp;Cambiando emispyrium, se deliberat;
 
-³ Tanto, col volto di riso dipincto,\
+3 Tanto, col volto di riso dipincto,\
 &emsp;Si tacque Beatrice, riguardando\
 &emsp;Fiso nel puncto che m'havea vineto.
 
-³ Tantum, cum vultu risu depicto,\
+3 Tantum, cum vultu risu depicto,\
 &emsp;Tacuit Beatrix, respiciendo\
 &emsp;Fixe in puncto qui me vicerat.
 
@@ -56,31 +56,31 @@ Redeundo ad primam partem, auctor primo continuat dicta dicendis; sed ante tangi
 
 <!-- p. 1157 (1211) -->
 
-⁴ Poi cominciò: Io dico, non dimando,\
+4 Poi cominciò: Io dico, non dimando,\
 &emsp;Quel che tu vuoi udir, perch'io l'ò visto\
-&emsp;Ove s'appuncta ogn'ubi (¹) et ogni quando (²);
+&emsp;Ove s'appuncta ogn'ubi (1) et ogni quando (2);
 
-⁴ Postea incepit: Ego dico, non interrogo,\
+4 Postea incepit: Ego dico, non interrogo,\
 &emsp;Illud quod tu vis audire, quia illud vidi\
 &emsp;Ubi apponuntur omne ubi et omne quando.
 
-⁵ Non per haver in sè di ben acquisto,\
+5 Non per haver in sè di ben acquisto,\
 &emsp;Ch'esser non può, ma perchè suo splendore\
 &emsp;Potesse, risplendendo, dir Subsisto,
 
-⁵ Non propter habere sibi de bono acquisitum,\
+5 Non propter habere sibi de bono acquisitum,\
 &emsp;Quod esse non potest, sed ad hoc ut suus splendor\
 &emsp;Posset, resplendendo, dicere, Ego subsisto,
 
-⁶ In sua eternità di tempo fore,\
+6 In sua eternità di tempo fore,\
 &emsp;Fuor d'ogn'altro comprender come piacque,\
-&emsp;S'aperse in nove amor l'etterno Amore (³).
+&emsp;S'aperse in nove amor l'etterno Amore (3).
 
-⁶ In ista eternitate extra tempus,\
+6 In ista eternitate extra tempus,\
 &emsp;Extra omne aliud comprehendere, sicut [s]ibi placuit,\
 &emsp;Aperuit [se] in novem amores eternus Amor.
 
-(¹) spatio, o luogo — (²) tempo — (³) Dio.
+(1) spatio, o luogo — (2) tempo — (3) Dio.
 
 que [est] in occidente, subito occidit; et sic Cenit quasi in istanti pertransit, et modicum, quasi nihil, durat. Tam modicum stetit Beatrix, ex quo dixerat ea que dixi in capitulo precedenti. Respexit in illum punctum, idest in Deum, qui punctus vicerat auctorem, idest quod auctor non poterat clare intueri illum propter nimium suum splendorem; et subito Beatrix, sic modicum intuens in illum punctum, cum vultu suo pleno risu, volvit se ad auctorem, dicens sibi illa que sequuntur. Nota etiam quod emispyrium est totum spatium quod est supra terram; ita quod sunt duo emispyria, unum sub terra et aliud supra terram. Cum celum sit rotundum, et terra sit rotunda, semper sub terra est medietas celi una, et alia supra terram. Dicit ergo auctor in textu: Quando duo filii Lathone, idest Sol et Luna, cooperti ab Ariete, scilicet Sol, et a Libra, scilicet Luna, faciunt de orizonte, idest circulo qui dividit terram in duas medietates, simul zonam, idest cingulum (quia ille circulus orizon cingit totam terram), quantum est a puncto, scilicet Cenit, qui Cenit, scilicet dicitur, in Libra (idest in equalitate illa, quia Sol et Luna sunt in orizonte), usquequo uterque, scilicet Sol et Luna, ab illo cinto, scilicet circulo, cambiando, idest mutando, emispyrium (quia tunc uterque habet idem emispyrium, sed subito, propter continuum motum celi, mutant emispyrium), se deliberat, idest recedit, ab illo orizonte, quod fit subito et quasi in instanti; tantum, scilicet modicum, cum vultu, risu, idest letitia, depicto, idest apparenti, tacuit Beatrix, idest non plus, respiciendo fixe in puncto, idest in Deo, qui per punctum illum figuratur, qui scilicet punctus me vicerat, idest obumbraverat, quia non potui clare intueri in illum propter excellentiam sui splendoris.
 
@@ -92,47 +92,47 @@ Modo vult Beatrix declarare quando fuit angelica natura, et vult dicere quod non
 
 <!-- p. 1158 (1212) -->
 
-⁷ Nè prima, quasi torpente, si giaque;\
+7 Nè prima, quasi torpente, si giaque;\
 &emsp;Chè nè pria nè poscia pre[ce]decte\
 &emsp;Lo discorrer di Dio sopra quest'acque.
 
-⁷ Nec prius, quasi torpens, iacuit;\
+7 Nec prius, quasi torpens, iacuit;\
 &emsp;Quia nec prius nec postea precessit\
 &emsp;Discurrere Dei super istas aquas.
 
-⁸ Forma e materia coniuncte e purecte\
+8 Forma e materia coniuncte e purecte\
 &emsp;Usciro ad esser che non havea fallo,\
 &emsp;Come d'arco tricorde tre saecte;
 
-⁸ Forma et materia coniuncte et purecte\
+8 Forma et materia coniuncte et purecte\
 &emsp;Exierunt ad esse, que non habebant defectum,\
 &emsp;Sicut ab arcu tricordo tres sagipte;
 
-⁹ E come [in] vetro, in ambra o in cristallo\
+9 E come [in] vetro, in ambra o in cristallo\
 &emsp;Raggio discende sì, che dal venire\
 &emsp;All'esser tutto non è intervallo;
 
-⁹ Et sicut in vitro, vel in ambra, vel in cristallo\
+9 Et sicut in vitro, vel in ambra, vel in cristallo\
 &emsp;Radius resplendet ita, quod a venire\
 &emsp;Ad esse totum non est intervallum;
 
-¹⁰ Così el triforme effecto dal suo sire (¹)\
+10 Così el triforme effecto dal suo sire (1)\
 &emsp;Nell'esser suo raggiò insieme tucto,\
 &emsp;Senza distinction nell'exordire.
 
-¹⁰ Sic triformis effectus a suo domino\
+10 Sic triformis effectus a suo domino\
 &emsp;Vult esse in suo radio insimul totus,\
 &emsp;Sine distensione in exordiri.
 
-¹¹ Concreato fu ordine e constructo\
+11 Concreato fu ordine e constructo\
 &emsp;Alle substant[i]e, e quelle furon cima\
 &emsp;Del mondo, in che puro acto fu producto.
 
-¹¹ Concreatus fuit ordo et constructus\
+11 Concreatus fuit ordo et constructus\
 &emsp;Ad substantias; et ille fuerunt summitates\
 &emsp;Mundi, in quibus [purus] actus fuit productus.
 
-(¹) signore
+(1) signore
 
 Iam Beatrix respondet cuidam tacite questioni. Posset quis dicere sibi: Antequam Deus crearet mundum, ne stabat in otio? erat otiosus, sive torpens? Dicit quod non, imo semper egit. Sed notandum est, quod Deus idealiter, eternaliter, produxit omnes creaturas, quia unico actu intellectus divinus producit Verbum et omnes ideas omnium rerum; ita quod, sicut Deus Pater nunquam incepit producere Verbum suum, quia eternaliter produxit, ita numquam incepit producere creaturas ydealiter, quia eternaliter produxit. Loquitur hic auctor more Sacre Scripture, que vocat creaturas aquas, ut patet Geneseos primo capitulo, ubi habetur: Et spiritus Domini ferebatur super aquas; idest creaturas. Ita auctor hic aquas ideas aquarum vocat, idest creaturarum, ita quod Deus nunquam precessit, idest nunquam incepit producere ideas aquarum, idest creaturarum. Tunc sic: Nec prius quasi torpens iacuit, idest stetit, quia nec prius nec postea precessit, idest incepit, discurrere Dei per istas aquas, idest ideas aquarum, idest creaturarum.
 
@@ -142,55 +142,55 @@ Adhuc addit auctor, quod ordo fuit concreatus rebus, dicens: Concreatus, idest s
 
 <!-- p. 1159 (1213) -->
 
-¹² Pura potentia tenne la parte ima;\
+12 Pura potentia tenne la parte ima;\
 &emsp;Nel mezzo strinse potentia con acto\
 &emsp;Tal vime, che già mai non si divima.
 
-¹² Puram potentiam tenuit pars yma;\
+12 Puram potentiam tenuit pars yma;\
 &emsp;In medio astrinxit potentiam cum actu\
 &emsp;Tale vimen, quod nunquam devimatur.
 
-¹³ Hieronimo vi scripse lungo tracto\
+13 Hieronimo vi scripse lungo tracto\
 &emsp;Di secoli, degl'angeli, creati\
 &emsp;Anzi che l'altro mondo fusse facto:
 
-¹³ Hieronimus nobis scripsit longum tractum\
+13 Hieronimus nobis scripsit longum tractum\
 &emsp;Seculorum, angelorum, creatorum\
 &emsp;Antequam alius mundus esset factus:
 
-¹⁴ Ma questo vero è scripto in molti lati\
+14 Ma questo vero è scripto in molti lati\
 &emsp;Dalli scriptori dello Spirito Sancto;\
 &emsp;E tu te n'avedrai, se ben agguati;
 
-¹⁴ Sed istud verum est scriptum in multis locis\
+14 Sed istud verum est scriptum in multis locis\
 &emsp;A scriptoribus Spiritus Sancti:\
 &emsp;Et tu de hoc perpendes, si bene respicis;
 
-¹⁵ Et anco la ragion lo vede alquanto,\
+15 Et anco la ragion lo vede alquanto,\
 &emsp;Chè non concederebbe che e motori\
 &emsp;Senza sua perfection fusser cotanto.
 
-¹⁵ Et etiam ratio illud videt aliquantulum,\
+15 Et etiam ratio illud videt aliquantulum,\
 &emsp;Que non concederet quod motores\
 &emsp;Sine sua perfectione essent tantum.
 
-¹⁶ Or sai tu quando e dove questi amori\
+16 Or sai tu quando e dove questi amori\
 &emsp;Furon creati, e come; sì che spenti\
 &emsp;Nel tuo desio son già tre ardori.
 
-¹⁶ Nunc scis tu ubi et quando isti amores\
+16 Nunc scis tu ubi et quando isti amores\
 &emsp;Fuerint creati, et quomodo; ita quod extincti\
 &emsp;In tuo desiderio iam sunt tres ardores.
 
-¹⁷ Nè giungeresti, noverando, a venti\
-&emsp;Sì tosto, come degl'angeli (¹) parte\
+17 Nè giungeresti, noverando, a venti\
+&emsp;Sì tosto, come degl'angeli (1) parte\
 &emsp;Turbò el subiecto de' vostri elementi.
 
-¹⁷ Nec deveniretur, numerando, ad viginti\
+17 Nec deveniretur, numerando, ad viginti\
 &emsp;Ita cito, sicut angelorum pars\
 &emsp;Turbavit subiectum vestrorum elementorum.
 
-(¹) reprobi.
+(1) reprobi.
 
 de ferro fit gladius, de pasta fit panis. Sic Deus non factus, est simplicissimus, purissimus actus; sicut etiam angeli sunt puri actus, non tamen sicut Deus.
 
@@ -208,47 +208,47 @@ Nec deveniretur. Ne veriesi: ista est secunda pars huius capituli, in qua ponitu
 
 <!-- p. 1160 (1214) -->
 
-¹⁸ L'altra (¹) rimase, e cominciò quest'arte,\
+18 L'altra (1) rimase, e cominciò quest'arte,\
 &emsp;Che tu discerni, con tanto dilecto,\
 &emsp;Che mai da circuir non si diparte.
 
-¹⁸ Alia pars remansit, et incepit istam artem,\
+18 Alia pars remansit, et incepit istam artem,\
 &emsp;Quam tu discernis, cum tanta delectatione,\
 &emsp;Quod nunquam a circumeundo recedit.
 
-¹⁹ Principio del cader fu 'l maladecto\
-&emsp;Superbir di colui, che tu vedesti (²)\
+19 Principio del cader fu 'l maladecto\
+&emsp;Superbir di colui, che tu vedesti (2)\
 &emsp;Da tutti e pesi del mondo constrecto.
 
-¹⁹ Principium casus fuit maledictum\
+19 Principium casus fuit maledictum\
 &emsp;Superbire illius, quem tu vidisti\
 &emsp;Ab omnibus ponderibus mundi constrictum.
 
-²⁰ Quelli, che vedi qui, furon modesti\
+20 Quelli, che vedi qui, furon modesti\
 &emsp;A riconoscer sè della bontate,\
 &emsp;Che gl'havea facti a tanto intender presti;
 
-²⁰ Illi, quos tu vides hic, fuerunt modesti\
+20 Illi, quos tu vides hic, fuerunt modesti\
 &emsp;Ad recognoscendum se a bonitate,\
 &emsp;Que ipsos fecerat ad tantum intelligendum prestos.
 
-²¹ Per che le viste lor furo exaltate\
+21 Per che le viste lor furo exaltate\
 &emsp;Con gratia illuminante, e con lor merto,\
 &emsp;Sì ch'hanno ferma e piena volontate.
 
-²¹ Propter quod eorum visus fuerunt exaltati\
+21 Propter quod eorum visus fuerunt exaltati\
 &emsp;Cum gratia illuminante, et cum eorum merito,\
 &emsp;Ita quod habent firmam et plenam voluntatem.
 
-²² E non voglo che dubbi, ma sia certo,\
+22 E non voglo che dubbi, ma sia certo,\
 &emsp;Che ricever la gratia è meritorio,\
 &emsp;Secondo che l'affecto l'è aperto.
 
-²² Et nolo quod tu dubites, sed sis certus,\
+22 Et nolo quod tu dubites, sed sis certus,\
 &emsp;Quod recipere gratiam est meritorium,\
 &emsp;Secundum quod affectus ei aperitur.
 
-(¹) parte degli electi — (²) in fundo Inferni.
+(1) parte degli electi — (2) in fundo Inferni.
 
 in pulchritudine, voluit adequari suo Creatori; ideo dixit, Ysaie decimo quarto capitulo: Ero similis Altissimo. Non vacavit ad recognoscendum beneficium Creatoris, nec alia quasi innumerabilia bona, que Deus contulerat sibi: solum ad equalitatem Dei erat appetitus suus. Et quia angeli sunt incorporei et non comprehendunt res per phantasmata, ideo non oportet quod discurrant per discursum sillogisticum ad cognoscendum, vel deliberandum; ideo subito iste Lucifer, [id]e[s]t Sathanas, cum suis satellitibus, rebellavit se Deo, et subito cecidit cum suis propter superbiam eorum et demersus est in profundum baratrum in centro terre, ad quem locum tendunt pondera universi, et ibi est constrictus ipse Sathanas. Notandum etiam, quod illi qui recognoverunt beneficium Creatoris, ceperunt laudare Deum, gyrare se circa deitatem, ipsam glorificando, et servire Deo; et sic recognoscentes Deum, et laudando ipsum, meruerunt gratiam Dei: cum qua iterum magis meruerunt in tantum, quod confirmati fuerunt in bono, et facti sunt impeccabiles per gratiam. Nec deveniretur, numerando, scilicet ab unitate, ad viginti ita cito, sicut angelorum pars turbavit subiectum vestrorum elementorum, idest terram, que est subiectum elementorum, idest in medio omnium sita, circa quam sunt elementa cetera.
 
@@ -262,63 +262,63 @@ Et nolo quod tu dubites, imo quod sis certus, quod recipere gratiam est meritori
 
 <!-- p. 1161 (1215) -->
 
-²³ Omai dintorno a questo consistorio\
+23 Omai dintorno a questo consistorio\
 &emsp;Puoi contemplar assai, se le parole\
 &emsp;Mie son ricolte, senz'altro aiutorio.
 
-²³ Ammodo circa istud consistorium\
+23 Ammodo circa istud consistorium\
 &emsp;Potest contemplari satis, si verba\
 &emsp;Mea sunt recollecta, sine alio adiutorio.
 
-²⁴ Ma, perchè in terra per le vostre scole\
+24 Ma, perchè in terra per le vostre scole\
 &emsp;Si legge che l'angelica natura\
 &emsp;È tal, che intende, si ricorda, e vole,
 
-²⁴ Sed, quia in terra per vestras scholas\
+24 Sed, quia in terra per vestras scholas\
 &emsp;Legitur quod angelica natura\
 &emsp;Est talis, quod ipsa intelligit, recordatur, et vult,
 
-²⁵ Ancor dirò, perchè tu veggi pura\
+25 Ancor dirò, perchè tu veggi pura\
 &emsp;La verità, che laggiù si confonde,\
 &emsp;Equivocando in sì facta lectura.
 
-²⁵ Adhuc dicam, ut tu videas puram\
+25 Adhuc dicam, ut tu videas puram\
 &emsp;Veritatem, que inferius confunditur,\
 &emsp;Equivocando in tali lectura.
 
-²⁶ Queste substantie (¹), perchè fur gioconde (²)\
-&emsp;De la faccia (³) di Dio, non volser viso\
+26 Queste substantie (1), perchè fur gioconde (2)\
+&emsp;De la faccia (3) di Dio, non volser viso\
 &emsp;Da essa, da cui nulla si nasconde:
 
-²⁶ Iste substantie, postquam fuerunt iocunde\
+26 Iste substantie, postquam fuerunt iocunde\
 &emsp;A facie Dei, non volverunt visum\
 &emsp;Ab ipsa, a qua nihil absconditur:
 
-²⁷ Però non hanno veder interciso\
+27 Però non hanno veder interciso\
 &emsp;Da nuovo obiecto, e però non bisogna\
 &emsp;Rememorar per concepto diviso.
 
-²⁷ Ideo non habent intercisum videre\
+27 Ideo non habent intercisum videre\
 &emsp;A novo obiecto, et ideo non oportet\
 &emsp;Rememorari per conceptus diffusos.
 
-²⁸ Sì che laggiù non dormendo si sogna,\
+28 Sì che laggiù non dormendo si sogna,\
 &emsp;Credendo e non credendo dicer vero;\
 &emsp;Ma nell'uno è più colpa e più vergogna.
 
-²⁸ Ita quod ibi inferius non dormiendo sompniatur,\
+28 Ita quod ibi inferius non dormiendo sompniatur,\
 &emsp;Credendo et non credendo dicere verum;\
 &emsp;Sed in uno est plus culpe et verecundie.
 
-²⁹ Voi non andate giù per un sentiero\
+29 Voi non andate giù per un sentiero\
 &emsp;Philosophando; tanto vi trasporta\
 &emsp;L'amor dell'apparenza e 'l suo pensiero,
 
-²⁹ Vos non itis inferius per unam semitam\
+29 Vos non itis inferius per unam semitam\
 &emsp;Philosophando; tanto vos transportat\
 &emsp;Amor spei et sua cogitatio.
 
-(¹) angeliche — (²) beate — (³) visione.
+(1) angeliche — (2) beate — (3) visione.
 
 Ammodo circa istud consistorium, idest circa materiam istam hic tactam, potes contemplari, scilicet a teipso, satis, si verba mea sunt recollecta, idest in mente tua bene intellecta, sine alio adiutorio.
 
@@ -330,19 +330,19 @@ Vos non itis inferius per unam semitam. Voi [non] andate giù per un sentiero: h
 
 <!-- p. 1162 (1216) -->
 
-³⁰ Et ancor questo quassù si comporta\
+30 Et ancor questo quassù si comporta\
 &emsp;Con men disdegno, che quando è postposta\
 &emsp;La divina Scriptura, o quando è torta.
 
-³⁰ Et adhuc hoc hic comportatur\
+30 Et adhuc hoc hic comportatur\
 &emsp;Cum minori indignatione, quam quando est posposita\
 &emsp;Sacra Scriptura, et quando est torta.
 
-³¹ Non vi si pensa quanto sangue costa\
+31 Non vi si pensa quanto sangue costa\
 &emsp;Seminarla nel mondo, e quanto piace\
 &emsp;Chi humilmente con essa s'accosta.
 
-³¹ Non cogitatur ibi, quantum sanguinem constat\
+31 Non cogitatur ibi, quantum sanguinem constat\
 &emsp;Seminare illam in mundo, et quantum placent\
 &emsp;Illi qui humiliter cum ipsa se conformant.
 
@@ -354,55 +354,55 @@ Non cogitatur ibi, idest apud tales predicatores, quantum sanguinem constat semi
 
 <!-- p. 1163 (1217) -->
 
-³² Per apparer ciascun s'ingegna, e face\
+32 Per apparer ciascun s'ingegna, e face\
 &emsp;Sue inventioni; e quelle son transcorse\
 &emsp;Da' predicanti, e 'l Vangelio si tace.
 
-³² Propter apparere quilibet ingenium exercet, et facit\
+32 Propter apparere quilibet ingenium exercet, et facit\
 &emsp;Suas inventiones; et ille sunt transcurse\
 &emsp;A predicantibus, et Evangelium tacetur.
 
-³³ Un dice che la luna si ritorse\
+33 Un dice che la luna si ritorse\
 &emsp;Ne la passion di Chrysto, e s'interpose,\
 &emsp;Perchè 'l lume del sol più non si porse:
 
-³³ Unus dicit quod luna se retorsit\
+33 Unus dicit quod luna se retorsit\
 &emsp;In passione Christi, et se interposuit,\
 &emsp;Ex quo lumen solis inferius non porrexit:
 
-³⁴ Et altri, che la luce si nascose\
+34 Et altri, che la luce si nascose\
 &emsp;Da sè; però agl'Ispani et a gl'Indi,\
 &emsp;Com'a'Giuderi, tal eclypsi rispose.
 
-³⁴ Et interim, quod lux se abscondit\
+34 Et interim, quod lux se abscondit\
 &emsp;A se; ideo Hyspanis et Indis,\
 &emsp;Sicut vides, eclipsatio respondit.
 
-³⁵ Non ha Firenze tanti Lapi e Bindi,\
+35 Non ha Firenze tanti Lapi e Bindi,\
 &emsp;Quante sì facte favole per anno\
 &emsp;In pergamo si gridan quinci e quindi;
 
-³⁵ Non habet Florentia tot Lappos et Bindos,\
+35 Non habet Florentia tot Lappos et Bindos,\
 &emsp;Quot huiusmodi fabule per annum\
 &emsp;In pulpito clamantur hinc inde;
 
-³⁶ Sì che le pecorelle, che non sanno,\
+36 Sì che le pecorelle, che non sanno,\
 &emsp;Tornan dal pasco pasciute di vento,\
 &emsp;E non le scusa non veder lor danno.
 
-³⁶ Ita quod ovicule, que nesciunt,\
+36 Ita quod ovicule, que nesciunt,\
 &emsp;Revertuntur a pascuis replete vento,\
 &emsp;Et non excusat ignorantia earum dampnum.
 
-³⁷ Non disse Chrysto al suo primo convento (¹):\
+37 Non disse Chrysto al suo primo convento (1):\
 &emsp;Andate, e predicate al mondo ciancie;\
 &emsp;Ma diede lor verace fondamento:
 
-³⁷ Non dixit Christus suo primo conventui:\
+37 Non dixit Christus suo primo conventui:\
 &emsp;Ite, et predicate in mundo trufas;\
 &emsp;Sed dedit ei verax fundamentum:
 
-(¹) apostolico.
+(1) apostolico.
 
 Propter apparere, idest amore apparentie, quilibet ingenium exercet, idest conatur, studet (idest ad apprehendendum multum componunt tractatus et quaternos replent, ut videantur dicere novas res), et facit suas inventiones: et ille sunt transcurse, idest sunt pertractate, a predicantibus; et Evangelium tacet, idest de Evangelio tacetur.
 
@@ -416,55 +416,55 @@ Non dixit Christus suo conventui, idest cetui Apostolorum et Discipulorum: Ite e
 
 <!-- p. 1164 (1218) -->
 
-³⁸ E quel tanto sonò ne le suo' guance (¹),\
+38 E quel tanto sonò ne le suo' guance (1),\
 &emsp;Sì ch'a pugnar, per accender la fede,\
 &emsp;Dell'Evangelio fero scudo e lance.
 
-³⁸ Et illud tantum insonuit in suis genis,\
+38 Et illud tantum insonuit in suis genis,\
 &emsp;Ita quod ad pugnandum, propter accendere fidem,\
 &emsp;De Evangelio fecerunt scuta et lanceas.
 
-³⁹ Hora si va con motti e con escede\
+39 Hora si va con motti e con escede\
 &emsp;A predicar; e pur che ben si rida,\
 &emsp;Gonfia 'l cappuccio, e più non si richiede.
 
-³⁹ Nunc itur cum moctis et cum scedis\
+39 Nunc itur cum moctis et cum scedis\
 &emsp;Ad predicandum; et solummodo quod rideant,\
 &emsp;Inflatur caputium, et plus non requiritur.
 
-⁴⁰ Ma tal uccel nel bechetto s'annida,\
+40 Ma tal uccel nel bechetto s'annida,\
 &emsp;Che se 'l vulgo 'l vedesse, vedrebbe\
 &emsp;La perdonanza di ch'el si confida;
 
-⁴⁰ Sed talis avis in bechecto nidificat,\
+40 Sed talis avis in bechecto nidificat,\
 &emsp;Quod si vulgus videret, videret\
 &emsp;Indulgentiam de qua ipsum confidit;
 
-⁴¹ Per cui tanta stultitia in terra crebbe,\
+41 Per cui tanta stultitia in terra crebbe,\
 &emsp;Che, senza pruova d'alcun testimonio,\
 &emsp;Ad ogni promission si correrebbe.
 
-⁴¹ Propter quod tanta stultitia in terra crevit,\
+41 Propter quod tanta stultitia in terra crevit,\
 &emsp;Ita et in tantum quod, sine probatione alicuius testis,\
 &emsp;Ad omnem promissionem cucurreretur.
 
-⁴² Di questo ingrassa 'l porco Sanct'Antonio,\
-&emsp;Et altr' (²) assai, che son peggio che porci,\
-&emsp;Pagando di moneta senza conio (³).
+42 Di questo ingrassa 'l porco Sanct'Antonio,\
+&emsp;Et altr' (2) assai, che son peggio che porci,\
+&emsp;Pagando di moneta senza conio (3).
 
-⁴² De isto impinguat porcum Sanctus Antonius,\
+42 De isto impinguat porcum Sanctus Antonius,\
 &emsp;Et alii multi, qui sunt plus quam porci,\
 &emsp;Solvendo de moneta sine conio.
 
-⁴³ Ma perchè siàn digressi assai, ritorci\
-&emsp;Gl'ochi horamai ver (⁴) la dritta strada,\
+43 Ma perchè siàn digressi assai, ritorci\
+&emsp;Gl'ochi horamai ver (4) la dritta strada,\
 &emsp;Sì che la via col tempo si raccorci.
 
-⁴³ Sed quia sumus di[s]gressi satis, retorque\
+43 Sed quia sumus di[s]gressi satis, retorque\
 &emsp;Oculos ammodo versus rectam stratam,\
 &emsp;Ita quod viam cum tempore abbrevies.
 
-(¹) del convento apostolico — (²) cerretani — (³) falsi privilegi — (⁴) verso.
+(1) del convento apostolico — (2) cerretani — (3) falsi privilegi — (4) verso.
 
 Et illud, scilicet Evangelium, tantum insonuit in suis genis, ita quod ad pugnandum propter accendere fidem, idest in cordibus audientium, de Evangelio fecerunt scuta, idest ad defendendum fidem, et lanceas, ad feriendum hereses, et hereticos, et infideles.
 
@@ -478,49 +478,49 @@ Sed quia sumus disgressi. Ma perchè siam disgressi: hec est quarta pars huius c
 
 <!-- p. 1165 (1219) -->
 
-⁴⁴ Questa natura sì oltra s'ingrada\
+44 Questa natura sì oltra s'ingrada\
 &emsp;In numero, che mai non fu loquela,\
 &emsp;Nè concepto mortal, che tanto vada.
 
-⁴⁴ Hec natura tantum ultra graduatur\
+44 Hec natura tantum ultra graduatur\
 &emsp;In numero, quod nunquam fuit loquela,\
 &emsp;Nec conceptus mortalis, qui tantum vadat.
 
-⁴⁵ E se tu guardi quel che si rivela\
-&emsp;Per Daniel, vedrai che 'n su' (¹) miglaia\
+45 E se tu guardi quel che si rivela\
+&emsp;Per Daniel, vedrai che 'n su' (1) miglaia\
 &emsp;Determinato numero si cela.
 
-⁴⁵ Et si tu respicis id quod revelatur\
+45 Et si tu respicis id quod revelatur\
 &emsp;Per Danielem, videbis quod super millia\
 &emsp;Determinatus numerus celatur.
 
-⁴⁶ La prima luce, che tutta la raia (²),\
+46 La prima luce, che tutta la raia (2),\
 &emsp;Per tanti modi in essa si ricepe,\
 &emsp;Quanti son gli splendori a che s'appaia.
 
-⁴⁶ Prima lux, que totam illam radiat,\
+46 Prima lux, que totam illam radiat,\
 &emsp;Per omnes modos in ipsa recipit[ur],\
 &emsp;Quot sunt splendores qui hic apparent.
 
-⁴⁷ Onde, però ch'all'acto che concepe\
+47 Onde, però ch'all'acto che concepe\
 &emsp;Segue l'effecto d'amare la dolcezza,\
 &emsp;Diversamente in essa ferve e tepe.
 
-⁴⁷ Unde, quia actus qui concipit\
+47 Unde, quia actus qui concipit\
 &emsp;Sequitur affectum [et] amandi dulcedinem,\
 &emsp;Diversimode in ipsa fervet et tepet.
 
-⁴⁸ Vedi l'excelso (³) omai e la larghezza\
+48 Vedi l'excelso (3) omai e la larghezza\
 &emsp;Dell'eterno valor, poscia che tanti\
-&emsp;Specoli facti s'à, in che si spezza (⁴),\
-&emsp;Un (⁵) permanendo, sì come davanti.
+&emsp;Specoli facti s'à, in che si spezza (4),\
+&emsp;Un (5) permanendo, sì come davanti.
 
-⁴⁸ Vide excelsum ammodo et largitatem\
+48 Vide excelsum ammodo et largitatem\
 &emsp;Eterni valoris, postquam tot\
 &emsp;Specula fecit sibi, in que frangitur,\
 &emsp;Unus manens in se, sicut ante erat.
 
-(¹) al. sui — (²) irradia — (³) l'altezza — (⁴) consuma — (⁵) uno e semplice.
+(1) al. sui — (2) irradia — (3) l'altezza — (4) consuma — (5) uno e semplice.
 
 Vult tangere numerum angelorum, dicens: Ista natura, hec natura, tam ultra graduatur, idest multiplicatur, in numero, quod unquam fuit loquela, nec conceptus mortalis, qui tantum vadat. Idest angeli sunt innumerabiles; non sunt infiniti, sed sunt tot quot non possunt dicere lingue mortalium.
 

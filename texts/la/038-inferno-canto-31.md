@@ -8,23 +8,23 @@ In isto tricesimoprimo capitulo, quod incipit: Vnamet lingua me momordit, etc., 
 
 # Capitulum Tricesimumprimum
 
-¹ Una medesma lingua (¹) pria mi morse (²),\
-&emsp;Sì che mi tinse (³) l'una e l'altra guancia,\
-&emsp;E poi la medicina (⁴) mi riporse.
+1 Una medesma lingua (1) pria mi morse (2),\
+&emsp;Sì che mi tinse (3) l'una e l'altra guancia,\
+&emsp;E poi la medicina (4) mi riporse.
 
-¹ Unamet lingua et eadem prius me momordit,\
+1 Unamet lingua et eadem prius me momordit,\
 &emsp;Ita quod tinxit unam et aliam genam,\
 &emsp;Et postea medicinam reporrexit.
 
-² Così od'io, che solea la lancia\
-&emsp;D'Achille e del suo padre (⁵) esser cagione\
+2 Così od'io, che solea la lancia\
+&emsp;D'Achille e del suo padre (5) esser cagione\
 &emsp;Prima di trista e poi di buona mancia.
 
-² Ita audio, quod solebat lancea facere\
+2 Ita audio, quod solebat lancea facere\
 &emsp;Achillis et sui patris, esse causa\
 &emsp;Priùs tristis et postea bone oblacionis.
 
-(¹) di Virgilio. — (²) riprese. — (³) di vergogna. — (⁴) consolatoria. — (⁵) Pelleo.
+(1) di Virgilio. — (2) riprese. — (3) di vergogna. — (4) consolatoria. — (5) Pelleo.
 
 Unamet et eadem lingua. Una medesma lingua: istud est tricesimumprimum capitulum huius Inferni, in quo, ex quo auctor est sufficienter expeditus de secundo circulo civitatis Inferni, distincto in decem vallones, sive Malibolgias, iam intendit tractare de tertio circulo Inferni, qui distinguitur in quatuor circulos, idest Anthenoram, Tholomeam, Caynam et Giudeccham: in quibus quatuor circulis punitur fraus maxima omnium aliarum, que rumpit ligamen nature, et etiam ligamen, vel vinculum, quod fit per amicitiam. Et dividitur istud capitulum in quatuor partes. Quarum in prima, continuans auctor dicta dicendis, tractat de Gigantibus, qui sunt deputati ad custodiam dicti circuli. Facit, sive ponit, primo, in generali, formam istorum Gigantium.
 
@@ -52,63 +52,63 @@ Una eadem lingua prius me momordit, idest reprehendit, ita quod tinxit unam et a
 
 <!-- p. 379 (0433) -->
 
-³ Noi demmo el dosso (¹) al misero vallone,\
+3 Noi demmo el dosso (1) al misero vallone,\
 &emsp;Su per la ripa che 'l cinghia dintorno,\
-&emsp;Attraversando senz'alcun sermone (²).
+&emsp;Attraversando senz'alcun sermone (2).
 
-³ Nos dedimus dorsum misero valloni,\
+3 Nos dedimus dorsum misero valloni,\
 &emsp;Super ripam que circumcingit eum,\
 &emsp;Procedendo sine aliquo sermone.
 
-⁴ Quiv'era men che nocte (³) e men che giorno,\
-&emsp;Sì che 'l viso (⁴) m'andava innanzi poco:\
-&emsp;Ma io sentii sonar un alto (⁵) corno,
+4 Quiv'era men che nocte (3) e men che giorno,\
+&emsp;Sì che 'l viso (4) m'andava innanzi poco:\
+&emsp;Ma io sentii sonar un alto (5) corno,
 
-⁴ Ibi erat minus quam nox et minus quam dies,\
+4 Ibi erat minus quam nox et minus quam dies,\
 &emsp;Ita quod visus ibat ante paullulum:\
 &emsp;Et ego sensi sonare unum altum cornu,
 
-⁵ Tanto ch'avrebbe ogni tuon facto fioco,\
-&emsp;Che (⁶), contra sè la sua via seguitando (⁷),\
+5 Tanto ch'avrebbe ogni tuon facto fioco,\
+&emsp;Che (6), contra sè la sua via seguitando (7),\
 &emsp;Dirizzò gl'occhi miei tutti ad un loco.
 
-⁵ In tantum quod fecisset omnem tonum raucum;\
+5 In tantum quod fecisset omnem tonum raucum;\
 &emsp;Qui, contra se suam viam sequendo,\
 &emsp;Dirigo oculos meos cunctos ad unum locum.
 
-⁶ Doppo la dolorosa rocta, quando\
-&emsp;Karlo Magno perdè la sancta gesta (⁸),\
+6 Doppo la dolorosa rocta, quando\
+&emsp;Karlo Magno perdè la sancta gesta (8),\
 &emsp;Non sonò sì terribilmente Horlando.
 
-⁶ Post dolorosum conflictum, quando\
+6 Post dolorosum conflictum, quando\
 &emsp;Karolus magnus perdidit sanctam gestam,\
 &emsp;Non sonuit ita terribiliter Orlandus.
 
-⁷ Poco portai in là volta la testa,\
+7 Poco portai in là volta la testa,\
 &emsp;Che mi parve veder molt'alte torri;\
-&emsp;Ond'io (⁹): Maestro, di', che terra è questa?
+&emsp;Ond'io (9): Maestro, di', che terra è questa?
 
-⁷ Pauco portavi versus illam partem volutum caput,\
+7 Pauco portavi versus illam partem volutum caput,\
 &emsp;Quod michi apparuit videre multas altas turres;\
 &emsp;Unde ego: Magister, dicas, que terra est ista?
 
-⁸ Et elli a me: Però che tu transcorri\
+8 Et elli a me: Però che tu transcorri\
 &emsp;Per le tenebre troppo da la lungi,\
 &emsp;Advien che poi nel 'maginar abhorri.
 
-⁸ Et ipse: Ex eo quod transcurris\
+8 Et ipse: Ex eo quod transcurris\
 &emsp;Per tenebras nimis a longe,\
 &emsp;Evenit quod postea in ymaginatione tu abhorris.
 
-⁹ Tu vedrai ben, se tu là ti congiungi,\
-&emsp;Quanto 'l senso (¹⁰) s'inganna di lontano:\
-&emsp;Però alquanto più te stesso pungi (¹¹).
+9 Tu vedrai ben, se tu là ti congiungi,\
+&emsp;Quanto 'l senso (10) s'inganna di lontano:\
+&emsp;Però alquanto più te stesso pungi (11).
 
-⁹ Tu videbis bene, si te tu ibi coniungis,\
+9 Tu videbis bene, si te tu ibi coniungis,\
 &emsp;Quantum sensus decipitur ex longinquo:\
 &emsp;Ideo aliquantulum plus te ipsum punge.
 
-(¹) volgemmo le spalle. — (²) con silentio. — (³) intra di e nocte. — (⁴) el vedere. — (⁵) d'alta voce, — (⁶) el quale corno. — (⁷) andando contra 'l suono. — (⁸) exercito de christiani. — (⁹) o Virgilio. — (¹⁰) corporeo. — (¹¹) sollecitati d'andare. (¹) tergum dedimus. — (²) cum silentio. — (³) intra noctis et diei. — (⁴) visus. — (⁵) alte vocis. — (⁶) illud cornu. — (⁷) contra sonum euntibus. — (⁸) exercitus Christianorum. — (⁹) vel Virgilio. — (¹⁰) per sensum. — (¹¹) ad percutiendum.
+(1) volgemmo le spalle. — (2) con silentio. — (3) intra di e nocte. — (4) el vedere. — (5) d'alta voce, — (6) el quale corno. — (7) andando contra 'l suono. — (8) exercito de christiani. — (9) o Virgilio. — (10) corporeo. — (11) sollecitati d'andare. (1) tergum dedimus. — (2) cum silentio. — (3) intra noctis et diei. — (4) visus. — (5) alte vocis. — (6) illud cornu. — (7) contra sonum euntibus. — (8) exercitus Christianorum. — (9) vel Virgilio. — (10) per sensum. — (11) ad percutiendum.
 
 ex reprehensione sibi facta per Virgilium, multum verecundabatur. Tamen Virgilius dixit, quod minor verecundia lavasset maius peccatum: et sic dedit sibi medelam.
 
@@ -126,63 +126,63 @@ Tu videbis bene, si ibi te coniungis, scilicet pervenies illuc, quantum sensus d
 
 <!-- p. 380 (0434) -->
 
-¹⁰ Poi caramente mi prese per mano,\
+10 Poi caramente mi prese per mano,\
 &emsp;E disse: Pria che noi siam più avanti,\
-&emsp;Acciò che 'l facto (¹) non ti paia strano,
+&emsp;Acciò che 'l facto (1) non ti paia strano,
 
-¹⁰ Postea care me apprehendit per manum,\
+10 Postea care me apprehendit per manum,\
 &emsp;Et dixit: Priusquam nos simus ulterius,\
 &emsp;Ad hoc ut factum minus tibi appareat extraneum,
 
-¹¹ Sappi che non son torri, ma Giganti;\
+11 Sappi che non son torri, ma Giganti;\
 &emsp;E son nel pozzo intorno dalla ripa\
 &emsp;Dall'ombilico in giuso tucti quanti.
 
-¹¹ Scias quod isti non [sunt] turres, sed Gigantes;\
+11 Scias quod isti non [sunt] turres, sed Gigantes;\
 &emsp;Et sunt in putheo circum ripam\
 &emsp;Ab umbelico infra omnes isti.
 
-¹² Come, quando la nebbia si dissipa,\
+12 Come, quando la nebbia si dissipa,\
 &emsp;Lo sguardo a poco a poco raffigura\
-&emsp;Ciò che cela'l vapor (²) che l'aere stipa (³);
+&emsp;Ciò che cela'l vapor (2) che l'aere stipa (3);
 
-¹² Sicut, quando nebula dissolvitur,\
+12 Sicut, quando nebula dissolvitur,\
 &emsp;Visus paullatim reaffigurat\
 &emsp;Id quod celat vapor et stipat;
 
-¹³ Così forando l'aere grossa e scura (⁴)\
-&emsp;Più e più appressando inver la sponda (⁵),\
-&emsp;Fuggemi (⁶) errore, e crescemi (⁷) paura (⁸).
+13 Così forando l'aere grossa e scura (4)\
+&emsp;Più e più appressando inver la sponda (5),\
+&emsp;Fuggemi (6) errore, e crescemi (7) paura (8).
 
-¹³ Sic perforando aierem grossum et obscurum,\
+13 Sic perforando aierem grossum et obscurum,\
 &emsp;Magis et magis appropinquando versus spondam,\
 &emsp;Fugit a me error, et supervenit michi pavor.
 
-¹⁴ Però che come in sulla cerchia tonda\
-&emsp;Monte Riggion (⁹) di torri si corona;\
+14 Però che come in sulla cerchia tonda\
+&emsp;Monte Riggion (9) di torri si corona;\
 &emsp;Così la proda, che 'l pozzo circonda.
 
-¹⁴ Quia sicut in circulo rotundo\
+14 Quia sicut in circulo rotundo\
 &emsp;Mons Region turribus coronatur;\
 &emsp;Sic prora, que putheum circumdat.
 
-¹⁵ Torreggiavan (¹⁰) di mezza la persona\
+15 Torreggiavan (10) di mezza la persona\
 &emsp;Gl'horribili Giganti, cui minaccia\
 &emsp;Giove dal cielo ancora, quando tona.
 
-¹⁵ Turrizabant de media persona\
+15 Turrizabant de media persona\
 &emsp;Horribiles Gigantes, quibus minatur\
 &emsp;Iupiter de celo adhuc, quando tonat.
 
-¹⁶ Et io scorgeva già d'alcun (¹¹) la faccia,\
-&emsp;Le spalle e 'l ventre (¹²), e del pecto (¹³) gran parte,\
+16 Et io scorgeva già d'alcun (11) la faccia,\
+&emsp;Le spalle e 'l ventre (12), e del pecto (13) gran parte,\
 &emsp;E per le coste giù ambo le braccia.
 
-¹⁶ Et ego discernebam iam alicuius faciem,\
+16 Et ego discernebam iam alicuius faciem,\
 &emsp;Humeros et pectus, et ventris grandis partem,\
 &emsp;Et per costas infra ambo brachia.
 
-(¹) che vedrai. — (²) de la nebbia. — (³) circonda, — (⁴) dell'Inferno. — (⁵) del pozzo. — (⁶) al. fuggimmi. — (⁷) al. crescemmi. — (⁸) de giganti ch'io vidi. — (⁹) Castel di Toscana. — (¹⁰) circondavano come torri. — (¹¹) gigante, cioè di Nebroth. — (¹²) al. el pecto. — (¹³) al. del ventre, et melius.
+(1) che vedrai. — (2) de la nebbia. — (3) circonda, — (4) dell'Inferno. — (5) del pozzo. — (6) al. fuggimmi. — (7) al. crescemmi. — (8) de giganti ch'io vidi. — (9) Castel di Toscana. — (10) circondavano come torri. — (11) gigante, cioè di Nebroth. — (12) al. el pecto. — (13) al. del ventre, et melius.
 
 Postea care (adverbialiter) me apprehendit per manum et dixit: Priusquam nos simus ulterius, ad hoc ut factum minus tibi appareat extraneum (ad confirmandum auctorem in opinione, et propter removere timorem, quia maius est sustentaculum et adiutrix [non esse] extraneum; idest [ut] non opporteat me plus tibi dicere), scias quod isti non sunt turres, sed Gigantes, et sunt in putheo circa ripam ab umbilico infra omnes isti.
 
@@ -196,63 +196,63 @@ Et ego discernebam iam. Ed io scorgeva già: ista est secunda pars huius capitul
 
 <!-- p. 381 (0435) -->
 
-¹⁷ Natura (¹) certo, quando lassò l'arte\
+17 Natura (1) certo, quando lassò l'arte\
 &emsp;Di sì facti animali, assai fe' bene,\
-&emsp;Per tor cotali exequutori (²) a Marte (³):
+&emsp;Per tor cotali exequutori (2) a Marte (3):
 
-¹⁷ Natura, certe, quando dimisit artem\
+17 Natura, certe, quando dimisit artem\
 &emsp;Talium animalium, satis bene fecit,\
 &emsp;Ut tolleret tales executores Marti:
 
-¹⁸ E s'ella (⁴) d'elephanti e di balene\
-&emsp;Non si pente (⁵), chi guarda soctilmente\
-&emsp;Più giusta (⁶) e più discreta la ne tiene:
+18 E s'ella (4) d'elephanti e di balene\
+&emsp;Non si pente (5), chi guarda soctilmente\
+&emsp;Più giusta (6) e più discreta la ne tiene:
 
-¹⁸ Et si ipsam elephantum et cetarum\
+18 Et si ipsam elephantum et cetarum\
 &emsp;Non penituit, qui respicit subtiliter\
 &emsp;Magis iustam et magis discretam eam tenet:
 
-¹⁹ Chè dove l'argomento della mente\
+19 Chè dove l'argomento della mente\
 &emsp;S'aggiugne al mal voler et alla possa,\
 &emsp;Nessun riparo vi può far la gente.
 
-¹⁹ Quia ubi argumentum mentis\
+19 Quia ubi argumentum mentis\
 &emsp;Adiungitur male voluntati et potentie,\
 &emsp;Nullum reparaculum ibi potest facere gens.
 
-²⁰ La faccia sua mi parea lunga e grossa,\
-&emsp;Come la pigna (⁷) di san Piero a Roma;\
-&emsp;Et a sua proportion (⁸) eran l'altr'ossa:
+20 La faccia sua mi parea lunga e grossa,\
+&emsp;Come la pigna (7) di san Piero a Roma;\
+&emsp;Et a sua proportion (8) eran l'altr'ossa:
 
-²⁰ Facies sua michi apparebat longa et grossa,\
+20 Facies sua michi apparebat longa et grossa,\
 &emsp;Sicut pinus Sancti Petri in Roma;\
 &emsp;Et ad suam proporcionem erant alia ossa:
 
-²¹ Sì che la ripa, ch'era perizoma (⁹)\
+21 Sì che la ripa, ch'era perizoma (9)\
 &emsp;Dal mezzo in giù, ne mostrava ben tanto\
 &emsp;Di sopra, che di giunger alla chioma
 
-²¹ Ita quod ripa, que erat perizoma\
+21 Ita quod ripa, que erat perizoma\
 &emsp;A medietate infra, nobis ostendebat bene tantum\
 &emsp;Desuper, quod attingere ad comam
 
-²² Tre Fregion (¹⁰) s'haverien dato mal vanto;\
+22 Tre Fregion (10) s'haverien dato mal vanto;\
 &emsp;Però ch'io ne vedea trenta gran palmi\
-&emsp;Dal luogo in giù, dov'huom s'affibia 'l manto (¹¹).
+&emsp;Dal luogo in giù, dov'huom s'affibia 'l manto (11).
 
-²² Tres Frixones male valuissent:\
+22 Tres Frixones male valuissent:\
 &emsp;Ex eo quia ego vidi triginta grandes palmas\
 &emsp;A loco infra, ubi affibulatur mantellus.
 
-²³ Raphel hay hameth zabi et almi,\
-&emsp;Cominciò a gridar la fiera bocha (¹²),\
+23 Raphel hay hameth zabi et almi,\
+&emsp;Cominciò a gridar la fiera bocha (12),\
 &emsp;Cui non si convenia più dolci salmi.
 
-²³ Raphel malbi ameth zabi [almy]\
+23 Raphel malbi ameth zabi [almy]\
 &emsp;Incepit clamare ferum os,\
 &emsp;Cui non conveniebant dulciores psalmi.
 
-(¹) Dio. — (²) combactitori. — (³) Dio della battagla. — (⁴) natura. — (⁵) come de Giganti. — (⁶) ragionevole. — (⁷) la pina. — (⁸) de la faccia. — (⁹) coprimento suo. — (¹⁰) huomini di grande statura. — (¹¹) dal mezzo del collo in fin all'ombellico. — (¹²) di Nenroth.
+(1) Dio. — (2) combactitori. — (3) Dio della battagla. — (4) natura. — (5) come de Giganti. — (6) ragionevole. — (7) la pina. — (8) de la faccia. — (9) coprimento suo. — (10) huomini di grande statura. — (11) dal mezzo del collo in fin all'ombellico. — (12) di Nenroth.
 
 et primo describit eum, quantum ad partem que apparebat. Et ego discernebam iam alicuius faciem, humeros et pectus, et ventris grandem partem, et per costas infra ambo brachia, quia erant ligati et brachia extensa. Hic interponitur bona sententia, que est, quod quando coniunguntur insimul potentia, ingenium, idest scientia, et mala voluntas, tunc nullum remedium potest adhiberi, sicut erat in Gigantibus, qui erant homines iam scientes: erant pexime voluntatis, et postea robustissimi corpore et maximi; ideo, ut Mars, idest deus belli, idest discordie, tales executores, idest preliatores, non habeat, natura optime fecit desinere producere tales Gigantes, qui sunt fortissimi et robustissimi corpore; sunt ingeniosi et pexime voluntatis: quod non contingit de elephantibus, nec de cetis grandibus; nam si elephantes et cete grandia habent magna et valida corpora, non habent ingenium, etc.
 
@@ -266,55 +266,55 @@ Ista verba sunt inintelligibilia, et pro inintelligibilibus hic habentur. Et lic
 
 <!-- p. 382 (0436) -->
 
-²⁴ E'l duca (¹) mio ver lui (²): Anima sciocha,\
-&emsp;Tienti (³) col corno, e con quel ti disfoga,\
+24 E'l duca (1) mio ver lui (2): Anima sciocha,\
+&emsp;Tienti (3) col corno, e con quel ti disfoga,\
 &emsp;Quand'ira o altra passion ti tocha.
 
-²⁴ Et dux meus versus eum: Anima insipiens,\
+24 Et dux meus versus eum: Anima insipiens,\
 &emsp;Tene te cum cornu, et cum illo te disfoges,\
 &emsp;Quando ira vel alia passio te tangit.
 
-²⁵ Cercati 'l collo, e troverai la soga (⁴)\
+25 Cercati 'l collo, e troverai la soga (4)\
 &emsp;Che 'l tien legato, o anima confusa,\
-&emsp;E vedi lui che 'l gran pecto ti toga (⁵).
+&emsp;E vedi lui che 'l gran pecto ti toga (5).
 
-²⁵ Quere tibi ad collum, et reperies sogam,\
+25 Quere tibi ad collum, et reperies sogam,\
 &emsp;Que tenet eum ligatum, o anima confusa,\
 &emsp;Et vide ipsum qui grande pectus tibi ornat.
 
-²⁶ Poi disse a me: Esso stesso s'accusa;\
-&emsp;Questi è Neuroth, per lo cui mal voto (⁶)\
+26 Poi disse a me: Esso stesso s'accusa;\
+&emsp;Questi è Neuroth, per lo cui mal voto (6)\
 &emsp;Pur un linguaggio nel mondo non s'usa.
 
-²⁶ Postea dixit ad me: Ipsemet se accusat;\
+26 Postea dixit ad me: Ipsemet se accusat;\
 &emsp;Iste est Nembroth, propter cuius malum cotum\
 &emsp;Solum unum ydioma in mundo non utitur.
 
-²⁷ Lascianlo stare, e non parliamo a voto (⁷):\
+27 Lascianlo stare, e non parliamo a voto (7):\
 &emsp;Chè così è a lui ciascun linguaggio,\
 &emsp;Come 'l suo ad altrui ch'a nullo è noto.
 
-²⁷ Dimictamus eum stare, et non loquamur ad votum:\
+27 Dimictamus eum stare, et non loquamur ad votum:\
 &emsp;Quia sic est apud eum quodlibet ydioma,\
 &emsp;Sicut suum aliis quod nulli est notum.
 
-²⁸ Facemmo adunque più lungo viaggio\
+28 Facemmo adunque più lungo viaggio\
 &emsp;Volti a sinistra; et al trar d'un balestro,\
-&emsp;Trovammo l'altro (⁸) assai più fiero e maggio.
+&emsp;Trovammo l'altro (8) assai più fiero e maggio.
 
-²⁸ Fecimus igitur longius iter\
+28 Fecimus igitur longius iter\
 &emsp;Conversi ad sinistram; et per iactum unius baliste,\
 &emsp;Reperiuimus alium multo fortiorem et maiorem.
 
-²⁹ A cinger lui (⁹), qual fusse'l maestro,\
+29 A cinger lui (9), qual fusse'l maestro,\
 &emsp;Non so io dire; ma e' tenea soccinto\
-&emsp;Dinanzi l'altro (¹⁰), e dietro el braccio destro,
+&emsp;Dinanzi l'altro (10), e dietro el braccio destro,
 
-²⁹ Ad cingendum eum, quicumque fuerit magister,\
+29 Ad cingendum eum, quicumque fuerit magister,\
 &emsp;Nescio ego dicere; sed ipse tenebat subcinctum\
 &emsp;Ante unum, et retro brachium dextrum,
 
-(¹) Virgilio. — (²) o. — (³) consolati. — (⁴) catena. — (⁵) cuopre. al. doga, i. dogla. — (⁶) desiderio. — (⁷) invano. — (⁸) gigante. — (⁹) incatenarlo. — (¹⁰) braccio manco.
+(1) Virgilio. — (2) o. — (3) consolati. — (4) catena. — (5) cuopre. al. doga, i. dogla. — (6) desiderio. — (7) invano. — (8) gigante. — (9) incatenarlo. — (10) braccio manco.
 
 Dei iudicio in edificio turris Babel, ut habetur Genesis undecimo.
 
@@ -336,71 +336,71 @@ Ad cingendum eum quicumque fuerit magister, nescio ego dicere; sed ipse tenebat 
 
 <!-- p. 383 (0437) -->
 
-³⁰ D'una catena, che 'l tenea avincto\
+30 D'una catena, che 'l tenea avincto\
 &emsp;Dal collo in giù, sì che su lo scoperto\
 &emsp;Si ravvolgea in fin al giro quinto.
 
-³⁰ De una catena, que tenebat eum avinctum\
+30 De una catena, que tenebat eum avinctum\
 &emsp;A collo infra, ita quod super discooperto\
 &emsp;Se revolvebat usque ad girum quintum.
 
-³¹ Questo (¹) superbo vuols'esser experto\
+31 Questo (1) superbo vuols'esser experto\
 &emsp;Di sua potentia contra 'l sommo Giove,\
 &emsp;Disse'l mio duca, ond'elli è con tal merto.
 
-³¹ Iste superbus voluit esse expertus\
+31 Iste superbus voluit esse expertus\
 &emsp;De sua potentia contra summum Iovem,\
 &emsp;Dixit meus dux, unde habet tale meritum.
 
-³² Fialthe ha nome; e fece le gran prove,\
+32 Fialthe ha nome; e fece le gran prove,\
 &emsp;Quand' e giganti fer paura a' Dei:\
-&emsp;Le braccia ch'ei menò (²), già mai non move.
+&emsp;Le braccia ch'ei menò (2), già mai non move.
 
-³² Fialtes est sibi nomen; et fecit grandes probitates,\
+32 Fialtes est sibi nomen; et fecit grandes probitates,\
 &emsp;Quando Gigantes fecerunt timorem diis:\
 &emsp;Brachia que ipse duxit, nunquam movet.
 
-³³ Et io a lui: S'esser può, io vorrei\
+33 Et io a lui: S'esser può, io vorrei\
 &emsp;Che dello smisurato Briareo\
 &emsp;Experientia havesser gl'ochi miei.
 
-³³ Et ego ad eum: Si esse potest, vellem\
+33 Et ego ad eum: Si esse potest, vellem\
 &emsp;Quod de immensurato Briareo\
 &emsp;Experientiam haberent oculi mei.
 
-³⁴ Ond'ei rispose: Tu vedrai Antheo\
+34 Ond'ei rispose: Tu vedrai Antheo\
 &emsp;Presso da qua, che parla, et è disciolto,\
-&emsp;Che ne (³) porrà nel fondo d'ogni reo (⁴).
+&emsp;Che ne (3) porrà nel fondo d'ogni reo (4).
 
-³⁴ Unde respondit ipse: Tu videbis Antheum\
+34 Unde respondit ipse: Tu videbis Antheum\
 &emsp;Prope huic, qui loquitur, et est solutus,\
 &emsp;Qui nos ponet in fundum omnis rei.
 
-³⁵ Quel (⁵) che tu vuoi veder, più là è molto,\
+35 Quel (5) che tu vuoi veder, più là è molto,\
 &emsp;Et è legato e facto come questo,\
 &emsp;Salvo che più feroce par nel volto.
 
-³⁵ Ille quem tu vis videre, est multum ulterius,\
+35 Ille quem tu vis videre, est multum ulterius,\
 &emsp;Et est ligatus et factus sicut iste,\
 &emsp;Salvo quod ferocior apparet in vultu.
 
-³⁶ Non fu tremuoto già tanto rubesto,\
+36 Non fu tremuoto già tanto rubesto,\
 &emsp;Che scotesse una torre così forte,\
 &emsp;Come Fyalthe a scuotersi fu presto.
 
-³⁶ Non fuit terremotus unquam ita rubestus,\
+36 Non fuit terremotus unquam ita rubestus,\
 &emsp;Qui excuteret unam turrim sic fortiter,\
 &emsp;Sicut Fialtes ad excuciendum se ita velox.
 
-³⁷ Allor temetti più che mai la morte,\
-&emsp;E non era (⁶) mestier più che la (⁷) docta,\
-&emsp;Se non havessi viste le ritorte (⁸).
+37 Allor temetti più che mai la morte,\
+&emsp;E non era (6) mestier più che la (7) docta,\
+&emsp;Se non havessi viste le ritorte (8).
 
-³⁷ Tunc timui ego plus quam unquam mortem,\
+37 Tunc timui ego plus quam unquam mortem,\
 &emsp;Nec erat ibi aliquid necessarium nisi momentum,\
 &emsp;Si non vidissem retortuosas.
 
-(¹) gigante. — (²) contra Dei. — (³) noi. — (⁴) dell'Inferno. — (⁵) Briareo. — (⁶) al. v'era — (⁷) al. quella. — (⁸) le catene.
+(1) gigante. — (2) contra Dei. — (3) noi. — (4) dell'Inferno. — (5) Briareo. — (6) al. v'era — (7) al. quella. — (8) le catene.
 
 sinistrum, et retro brachium dextrum, de una catena, que tenebat eum avinctum, idest strictum, vel circumdatum a collo infra, ita quod super discooperto se removebat que ad girum quintum: idest catena dabat quinque revolutiones circum circa. Girum: idest volution.
 
@@ -420,55 +420,55 @@ Tunc timui ego plus quam unquam mortem, quia inter tot pericula Inferni nunquam 
 
 <!-- p. 384 (0438) -->
 
-³⁸ Noi procedemmo più avanti allocta,\
-&emsp;E venimmo ad Antheo, che ben cinqu'alle (¹),\
+38 Noi procedemmo più avanti allocta,\
+&emsp;E venimmo ad Antheo, che ben cinqu'alle (1),\
 &emsp;Senza la testa, uscia fuor della grocta.
 
-³⁸ Nos processimus tunc ulterius,\
+38 Nos processimus tunc ulterius,\
 &emsp;Et venimus ad Antheum, qui bene quinque alis,\
 &emsp;Sine capite, exibat extra gruptam.
 
-³⁹ O tu, che nella fortunata valle (²)\
-&emsp;Che fece Scipion (³) di gloria reda (⁴),\
-&emsp;Quando Hannybal co' suoi diede le spalle (⁵),
+39 O tu, che nella fortunata valle (2)\
+&emsp;Che fece Scipion (3) di gloria reda (4),\
+&emsp;Quando Hannybal co' suoi diede le spalle (5),
 
-³⁹ O tu, qui in fortunata valle\
+39 O tu, qui in fortunata valle\
 &emsp;Que fecit Scipionem glorie heredem,\
 &emsp;Quando Hannibal cum suis dederunt terga,
 
-⁴⁰ Recasti già (⁶) mille leon per preda,\
+40 Recasti già (6) mille leon per preda,\
 &emsp;E che se fussi stato all'alta guerra\
-&emsp;De tuo'fratei (⁷), ancor par che si creda,
+&emsp;De tuo'fratei (7), ancor par che si creda,
 
-⁴⁰ Reportasti iam mille leones pro preda,\
+40 Reportasti iam mille leones pro preda,\
 &emsp;Et qui si fuisses in alta guerra\
 &emsp;Tuorum fratrum, adhuc apparet quod credatur,
 
-⁴¹ Ch'havrebber vincto (⁸) e figli della terra (⁹);\
-&emsp;Mettine giù (¹⁰) (e non ten vegna schifo)\
-&emsp;Dove Coccyto (¹¹) la freddura (¹²) serra.
+41 Ch'havrebber vincto (8) e figli della terra (9);\
+&emsp;Mettine giù (10) (e non ten vegna schifo)\
+&emsp;Dove Coccyto (11) la freddura (12) serra.
 
-⁴¹ Quod victoriam habuissent filii terre;\
+41 Quod victoriam habuissent filii terre;\
 &emsp;Pone nos infra (non tibi veniat schifum)\
 &emsp;Ubi Cocitus a frigore clauditur.
 
-⁴² Non ci far ire a Tytio nè a Tipho:\
-&emsp;Questi può dar di quel che qui si brama (¹³):\
+42 Non ci far ire a Tytio nè a Tipho:\
+&emsp;Questi può dar di quel che qui si brama (13):\
 &emsp;Però ti china, e non torcer el grifo.
 
-⁴² Non facias nos ire ad Titium aut Typhum:\
+42 Non facias nos ire ad Titium aut Typhum:\
 &emsp;Hic potest dare de illo quod hic appetitur:\
 &emsp;Ideo inclina te, et non torqueas grifum.
 
-⁴³ Ancor ti può nel mondo render fama;\
+43 Ancor ti può nel mondo render fama;\
 &emsp;Ch'ei vive, e lunga vita ancor aspecta,\
 &emsp;Se 'nnanzi tempo gratia a sè nol chiama.
 
-⁴³ Adhuc potest tibi in mundo reddere famam;\
+43 Adhuc potest tibi in mundo reddere famam;\
 &emsp;Quia vivit, et longam vitam adhuc expectat,\
 &emsp;Si ante tempus gratia ad se non vocaverit ipsum.
 
-(¹) misure così dette. — (²) d'Affrica. — (³) affricano. — (⁴) herede. — (⁵) si fuggì. — (⁶) dalla caccia. — (⁷) Giganti. — (⁸) gli Dei. — (⁹) e Giganti. — (¹⁰) noi nel pozzo. — (¹¹) fiume infernale. — (¹²) del ghiaccio. — (¹³) fama.
+(1) misure così dette. — (2) d'Affrica. — (3) affricano. — (4) herede. — (5) si fuggì. — (6) dalla caccia. — (7) Giganti. — (8) gli Dei. — (9) e Giganti. — (10) noi nel pozzo. — (11) fiume infernale. — (12) del ghiaccio. — (13) fama.
 
 se crollasset, vel si se movisset modicum, accepisset michi vitam, idest privasset me vita. Vel dicas dotta, idest timor: quasi dicat: Solus timor me occidisset, nisi vidissem vincula: si ego non vidissem retortuosas, scilicet catenas, quia catena habet annulos retortuosos.
 
@@ -480,49 +480,49 @@ Non facias nos ire ad Titium, aut ad Typhum. Hi sunt duo alii Gigantes. Hic pote
 
 <!-- p. 385 (0439) -->
 
-⁴⁴ Così disse 'l maestro: e quelli (¹) in frecta\
+44 Così disse 'l maestro: e quelli (1) in frecta\
 &emsp;La man distese, e prese 'l duca mio,\
 &emsp;Ond' Hercole sentì già grandi strecte.
 
-⁴⁴ Sic dixit magister: et ille festinus\
+44 Sic dixit magister: et ille festinus\
 &emsp;Manus extendit, et cepit ducem meum,\
 &emsp;Unde Hercules sensit magnam strectam.
 
-⁴⁵ Virgilio, quando prender si sentio,\
+45 Virgilio, quando prender si sentio,\
 &emsp;Mi disse: Facti 'n qua, sì ch'io ti prenda.\
-&emsp;Poi fece sì, ch'un fascio (²) er'elli (³) et io.
+&emsp;Poi fece sì, ch'un fascio (2) er'elli (3) et io.
 
-⁴⁵ Virgilius, quando sensit se prendere,\
+45 Virgilius, quando sensit se prendere,\
 &emsp;Dixit michi: Fac te huc, ut te apprehendam.\
 &emsp;Postea fecit sic, quod unum pondus eramus ipse et
 
-⁴⁶ Qual par a riguardar la Carisenda\
+46 Qual par a riguardar la Carisenda\
 &emsp;Socto 'l chinato, quando un nuvol vada\
 &emsp;Sovr'essa, sì ch'ella incontro penda;
 
-⁴⁶ Qualis apparuit ad respiciendum Carizendam\
+46 Qualis apparuit ad respiciendum Carizendam\
 &emsp;Sub inclinato, quando una nubes vadat\
 &emsp;Super ipsam ita, quod ipsa e contra pendeat;
 
-⁴⁷ Tal parve Antheo a me che stavo a bada\
+47 Tal parve Antheo a me che stavo a bada\
 &emsp;Di vederlo chinar, e fu tal hora\
 &emsp;Ch'avrei voluto gir per altra strada:
 
-⁴⁷ Talis apparuit Antheus michi qui stabam ad respi-\
+47 Talis apparuit Antheus michi qui stabam ad respi-\
 &emsp;Ut viderem eum inclinare, et fuit talis hora [ciendum\
 &emsp;Quod ego voluissem ire per aliam viam:
 
-⁴⁸ Ma lievemente al fondo, che divora\
+48 Ma lievemente al fondo, che divora\
 &emsp;Lucifero con Giuda, ci posoe;\
-&emsp;Nè sì chinato lì (⁴) fece dimora,\
+&emsp;Nè sì chinato lì (4) fece dimora,\
 &emsp;Ma com'arboro in nave si levoe.
 
-⁴⁸ Sed leviter ad fundum, qui devorat\
+48 Sed leviter ad fundum, qui devorat\
 &emsp;Luciferum cum Iuda, nos deposuit;\
 &emsp;Nec sic [inclinatus] ibi fecit moram\
 &emsp;Sed sic[ut] arbor in navi se leravit.
 
-(¹) Antheo. — (²) soma. — (³) era elli. — (⁴) in quel fondo.
+(1) Antheo. — (2) soma. — (3) era elli. — (4) in quel fondo.
 
 essem famosus. Qui si brama: hic appetitur, scilicet Inferno morali, ubi tyrampni desiderant magnam famam. Si ante tempus gratia ad se non vocaverit ipsum, idest gratia Dei non preveniret complementum annorum suorum. Per hoc vult innuere hic Dantes, quod Deus faceret magnam gratiam homini existenti in gratia, vocare ipsum aliam vitam, propter periculum recidivandi in peccatum; quia tunc Dantes erat optime dispositus, quia erat tempus et annus Iubilei.
 

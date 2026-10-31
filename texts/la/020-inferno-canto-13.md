@@ -8,31 +8,31 @@ In isto capitulo tertiodecimo, quod incipit: Nondum redierat Nexus, auctor ponit
 
 # Capitulum Tertiumdecimum
 
-¹ Non era ancor di là Nesso arrivato,\
+1 Non era ancor di là Nesso arrivato,\
 &emsp;Quando noi ci mettemmo per un bosco,\
-&emsp;Che da nessun sentier (¹) era segnato.
+&emsp;Che da nessun sentier (1) era segnato.
 
-¹ Nondum ad aliam partem Nexus pervenerat,\
+1 Nondum ad aliam partem Nexus pervenerat,\
 &emsp;Quando nos misimus nos per unum nemus,\
 &emsp;Quod a nulla semita erat signatum.
 
-² Non fronde verdi (²), ma di color fosco,\
-&emsp;Non rami (³) schietti, ma nodolosi e 'nvolti,\
+2 Non fronde verdi (2), ma di color fosco,\
+&emsp;Non rami (3) schietti, ma nodolosi e 'nvolti,\
 &emsp;Non pomi v' eran, ma stechi con tosco.
 
-² Non frons viridis, sed coloris obscura,\
+2 Non frons viridis, sed coloris obscura,\
 &emsp;Non rami pulchri, sed nodosi et retorti,\
 &emsp;Non poma ibi erant, sed spine cum veneno.
 
-³ Non àn sì aspri sterpi nè sì folti\
+3 Non àn sì aspri sterpi nè sì folti\
 &emsp;Quelle fiere selvaggie, che in odio hanno\
 &emsp;Tra Ciecina e Corneto e luoghi colti.
 
-³ Non habent ita asperos stipites nec ita fultos\
+3 Non habent ita asperos stipites nec ita fultos\
 &emsp;Ille fere silvestres, que odio habent\
 &emsp;Inter Cecinam et Cornetum loca culta.
 
-(¹) via — (²) v'eran — (³) v'eran
+(1) via — (2) v'eran — (3) v'eran
 
 Non era anchora di là Nesso arrivato. Nondum, transeundo, Nexus ad ripam pervenerat: istud est tertiumdecimum capitulum huius Inferni, in quo auctor tractat de pena violentorum, inferentium violentiam in semetipsos, in personam propriam, scilicet interficiendo se, et in sua bona, idest dissipando et dislapidando bona sua; et dividitur in quatuor partes. In quarum prima ponitur in generali pena dictorum violentorum. In secunda fit mentio de uno spiritu moderno, et ostenditur sua dampnatio; que secunda pars incipit ibi:
 
@@ -56,27 +56,27 @@ Quare arbor talis ponitur sicca, non viridis, hec est causa. Triplex anima ponit
 
 <!-- p. 169 (0223) -->
 
-⁴ Quivi le brutte Arpie lor nidi fanno,\
+4 Quivi le brutte Arpie lor nidi fanno,\
 &emsp;Che cacciar delle Strophade e Troyani\
 &emsp;Con tristo annunzio di futuro danno.
 
-⁴ Ibi putride Arpie suum nidum faciunt,\
+4 Ibi putride Arpie suum nidum faciunt,\
 &emsp;Que expulerunt ex Strophadis Troyanos\
 &emsp;Cum tristi presagio futuri dampni.
 
-⁵ Hali hanno late, colli e visi humani,\
+5 Hali hanno late, colli e visi humani,\
 &emsp;Piè con artigli, e pennuto 'l gran ventre:\
 &emsp;Fanno lamenti in su gl'alberi strani.
 
-⁵ Alas habent latas, colla et visus humanos,\
+5 Alas habent latas, colla et visus humanos,\
 &emsp;Pedes cum unguibus, et penutum grandem ventrem\
 &emsp;Faciunt lamenta super arboribus extraneis.
 
-⁶ E'l buon maestro: Prima che più entre,\
+6 E'l buon maestro: Prima che più entre,\
 &emsp;Sappi che se'nel secondo girone,\
 &emsp;Cominciò elli a dir, e sarai, mentre
 
-⁶ Et bonus magister: Priusquam ulterius intres,\
+6 Et bonus magister: Priusquam ulterius intres,\
 &emsp;Scias quod tu es in secundo girone,\
 &emsp;Michi incepit dicere, et eris, interim
 
@@ -94,59 +94,59 @@ Et bonus magister: Antequam, etc.: hec est secunda pars huius capituli, in qua t
 
 <!-- p. 170 (0224) -->
 
-⁷ Che tu verrai nell'horribil sabbione.\
+7 Che tu verrai nell'horribil sabbione.\
 &emsp;Però riguarda bene, e sì vedrai\
 &emsp;Cose, che torrien fede al mio sermone.
 
-⁷ Quod tu venies in horribilem saburram.\
+7 Quod tu venies in horribilem saburram.\
 &emsp;Ideo respicias bene, et sic videbis\
 &emsp;Res, que tollerent fidem meo sermoni.
 
-⁸ Io sentia d'ogni parte trar guai,\
+8 Io sentia d'ogni parte trar guai,\
 &emsp;E non vedea persona che 'l facesse;\
 &emsp;Perch'io tutto smarrito m'arrestai.
 
-⁸ Ego sentiebam ex omni parte trahere lamentaciones,\
+8 Ego sentiebam ex omni parte trahere lamentaciones,\
 &emsp;Et non videbam personam que illud faceret;\
 &emsp;Ex quo ego totus territus me restiti.
 
-⁹ Cred'io ch'ei credette ch'io credesse,\
+9 Cred'io ch'ei credette ch'io credesse,\
 &emsp;Che tante voci uscisser tra quei bronchi\
 &emsp;Da gente che per noi si nascondesse.
 
-⁹ Credo ego quod ipse credidit quod ego crederem,\
+9 Credo ego quod ipse credidit quod ego crederem,\
 &emsp;Quod tot voces exirent ex illis bronchis\
 &emsp;A gentibus que a nobis laterent.
 
-¹⁰ Però, disse 'l maestro, se tu tronchi\
+10 Però, disse 'l maestro, se tu tronchi\
 &emsp;Qualche fraschetta d'una de este piante,\
 &emsp;Li pensier c'hai si faran tutti monchi.
 
-¹⁰ Ideo, dixit magister, si tu truncas\
+10 Ideo, dixit magister, si tu truncas\
 &emsp;Aliquam frondulam ex una ex istis plantis,\
 &emsp;Cogitamina que habet fient omnia clara.
 
-¹¹ Allor pors'io la mano um poco avante,\
+11 Allor pors'io la mano um poco avante,\
 &emsp;E colsi un ramoscel da un gran pruno:\
 &emsp;E'l tronco suo gridò: Perchè mi schiante?
 
-¹¹ Tunc porrexi manum aliquantulum ante,\
+11 Tunc porrexi manum aliquantulum ante,\
 &emsp;Et elegi unum ramusculum ab uno grandi dumo:\
 &emsp;Et truncus clamavit: Quare me estirpas?
 
-¹² Da che facto fu poi di sangue bruno,\
+12 Da che facto fu poi di sangue bruno,\
 &emsp;Cominciò a gridar: Perchè mi sterpi?\
 &emsp;Non hai tu spirto di pietade alcuno?
 
-¹² Sed factus fui[t] postquam sanguine obscurus,\
+12 Sed factus fui[t] postquam sanguine obscurus,\
 &emsp;Incepit clamare: Quare me sterpis?\
 &emsp;Non habes tu spiritum pietatis aliquem?
 
-¹³ Huomini fummo, et hor siam facti sterpi:\
+13 Huomini fummo, et hor siam facti sterpi:\
 &emsp;Ben dovrebbe esser la tua man più pia,\
 &emsp;Se state fossimo anime di serpi.
 
-¹³ Homines fuimus, et nunc sumus facti stipites:\
+13 Homines fuimus, et nunc sumus facti stipites:\
 &emsp;Bene deberet esse tua manus magis pia,\
 &emsp;Si fuissemus anime serpentuum.
 
@@ -160,47 +160,47 @@ Notandum quod hec anima fuit spiritus domini Petri de Vineis, utriusque iuris do
 
 <!-- p. 171 (0225) -->
 
-¹⁴ Come d'un tizzo verde, ch'arso sia\
-&emsp;Dall'un de' lati, che dall'altro (¹) geme,\
+14 Come d'un tizzo verde, ch'arso sia\
+&emsp;Dall'un de' lati, che dall'altro (1) geme,\
 &emsp;E cigola per vento che va via;
 
-¹⁴ Sicut ab uno torre viridi, qui combustus sit\
+14 Sicut ab uno torre viridi, qui combustus sit\
 &emsp;Ab uno capitum, qui ab alio gemat,\
 &emsp;Et sibilat per ventum qui recedit;
 
-¹⁵ Sì della scheggia rotta usciva insieme\
+15 Sì della scheggia rotta usciva insieme\
 &emsp;Parole e sangue: ond'io lassai la cima\
-&emsp;Cadere (²), e stetti come huom che teme.
+&emsp;Cadere (2), e stetti come huom che teme.
 
-¹⁵ Sic de illo trunco exibant simul\
+15 Sic de illo trunco exibant simul\
 &emsp;Verba et sanguis: unde ego dimisi summitatem\
 &emsp;Cadere, et steti sicut homo qui timet.
 
-¹⁶ S'elli avesse potuto creder prima,\
-&emsp;Rispose 'l savio mio, (³) anima lesa,\
-&emsp;Ciò c'ha veduto pur (⁴) co'la mia rima,
+16 S'elli avesse potuto creder prima,\
+&emsp;Rispose 'l savio mio, (3) anima lesa,\
+&emsp;Ciò c'ha veduto pur (4) co'la mia rima,
 
-¹⁶ Si ipse potuisset credere prius,\
+16 Si ipse potuisset credere prius,\
 &emsp;Respondit sapiens meus, o anima lesa,\
 &emsp;Quidquid vidit cum meo rythimo,
 
-¹⁷ Non haverebbe in te la man distesa;\
+17 Non haverebbe in te la man distesa;\
 &emsp;Ma la cosa incredibile mi fece\
 &emsp;Indurlo ad opra, ch'a me stesso pesa.
 
-¹⁷ Non in te manum extendisset;\
+17 Non in te manum extendisset;\
 &emsp;Sed res incredibilis me fecit\
 &emsp;Inducere eum ad operam, cuius meipsum piget.
 
-¹⁸ Ma dilli chi tu se' (⁵), acciò che, 'nvece\
+18 Ma dilli chi tu se' (5), acciò che, 'nvece\
 &emsp;D'alcuna emenda, tua fama rinfreschi\
-&emsp;Nel mondo su, dove tornar li lece (⁶).
+&emsp;Nel mondo su, dove tornar li lece (6).
 
-¹⁸ Sed dicas sibi qui fuisti, ita quod, in recompensa\
+18 Sed dicas sibi qui fuisti, ita quod, in recompensa\
 &emsp;Alicuius emende, tuam famam recentem faciat\
 &emsp;In mundo superius, ad quem redire sibi licet.
 
-(¹) lato — (²) al. cascar — (³) o — (⁴) al. poi — (⁵) al. fusti — (⁶) licet
+(1) lato — (2) al. cascar — (3) o — (4) al. poi — (5) al. fusti — (6) licet
 
 et erui. Demum supervenerunt multa mala ipsi Imperatori, nec habebat pecunias, nec sciebat invenire modum ad habendum. Tunc fecit ipse Imperator sibi adduci et presentari ante, dictum dominum Petrum cecum; cui dixit Imperator: Vide, domine Petre, ex quo perdidi te amicum meum, invenerunt me multa mala; habeo guerras; non habeo pecunias ad solvendum hominibus armorum; nisi tu consulas michi, nescio quid agam. Tu solebas esse refugium meum: si possem tibi reddere unum oculorum, ego eruerem michi unum; sed omnia quecumque potero tibi facere grata, faciam; sed doce me quomodo possim et debeam facere. Tunc respondens Imperatori dominus Petrus, dixit: Domine Imperator, bene credo quod male lingue nocuerunt michi: regratior vestre Serenissime Maiestati. Ad habendum pecunias vobis necessarias, dabo modum. Vos habetis tantum dominium, tam latum, tam opulentum recipiendo.
 
@@ -216,79 +216,79 @@ Sed dic illi quis tu fuisti; ita quod, invece, idest pro cambio, alicuius emende
 
 <!-- p. 172 (0226) -->
 
-¹⁹ E 'l tronco: Sì con dolce dir m'adeschi,\
+19 E 'l tronco: Sì con dolce dir m'adeschi,\
 &emsp;Ch'io non posso tacer; e voi non gravi\
-&emsp;Perch'io um poco a ragionar (¹) m'inveschi.
+&emsp;Perch'io um poco a ragionar (1) m'inveschi.
 
-¹⁹ Et truncus: Ita cum dulci dicere me adescas,\
+19 Et truncus: Ita cum dulci dicere me adescas,\
 &emsp;Quod ego non possum tacere; et vos non gravet\
 &emsp;Quamquam ego aliquantulum ad recomendandum me invischiem,
 
-²⁰ Io son colui, che tenni ambo le chiavi\
+20 Io son colui, che tenni ambo le chiavi\
 &emsp;Del cor di Federigo, e che le volsi\
 &emsp;Serrando e disserrando sì suavi,
 
-²⁰ Ego sum ille, qui tenui ambas claves\
+20 Ego sum ille, qui tenui ambas claves\
 &emsp;Cordis Frederici, et qui eas volvi\
 &emsp;Claudendo et aperiendo ita suaves,
 
-²¹ Che dal secreto suo quasi ognun tolsi:\
+21 Che dal secreto suo quasi ognun tolsi:\
 &emsp;Fede portai al glorioso offitio,\
-&emsp;Tanto ch'io ne perdei li sensi (²) e polsi.
+&emsp;Tanto ch'io ne perdei li sensi (2) e polsi.
 
-²¹ Quod a secreto suo quasi omnes homines amovi:\
+21 Quod a secreto suo quasi omnes homines amovi:\
 &emsp;Fidem portavi glorioso offitio,\
 &emsp;In tantum quod ex illo perdidi venas et pulsus.
 
-²² La meretrice, che mai dall' hospitio\
-&emsp;Di Cesare non tolse (³) gl'ochi putti,\
+22 La meretrice, che mai dall' hospitio\
+&emsp;Di Cesare non tolse (3) gl'ochi putti,\
 &emsp;Morte comune delle corti e vitio,
 
-²² Meretrix, que nunquam ab hospitio\
+22 Meretrix, que nunquam ab hospitio\
 &emsp;Cesaris non torsit oculos puctos,\
 &emsp;Mors comunis et curiarum vitium,
 
-²³ Infiammò contro me gl'animi tutti;\
+23 Infiammò contro me gl'animi tutti;\
 &emsp;E gl'infiammati infiammar sì Augusto,\
 &emsp;Ch'e lieti honor tornaro in tristi lutti.
 
-²³ Inflammavit contra me animos cunctos;\
+23 Inflammavit contra me animos cunctos;\
 &emsp;Et inflammati inflammaverunt ita Augustum,\
 &emsp;Quod leti honores conversi sunt in tristes luctus.
 
-²⁴ L'animo mio, per disdegnoso gusto,\
+24 L'animo mio, per disdegnoso gusto,\
 &emsp;Credendo col morir fuggir disdegno,\
 &emsp;Ingiusto fece me contr'a me giusto.
 
-²⁴ Animus meus, propter dedignantem gustum,\
+24 Animus meus, propter dedignantem gustum,\
 &emsp;Credens moriendi fugere indignationem,\
 &emsp;Iniustum fecit me contra me iustum.
 
-²⁵ Per le nuove radici d'esto legno\
+25 Per le nuove radici d'esto legno\
 &emsp;Vi giuro che già mai non ruppi fede\
 &emsp;Al mio signor, che fu d'honor sì degno.
 
-²⁵ Per novas radices istius ligni\
+25 Per novas radices istius ligni\
 &emsp;Vobis iuro quod nunquam rupi fidem\
 &emsp;Meo domino, qui fuit honore ita dignus.
 
-²⁶ E se di voi alcun nel mondo riede,\
-&emsp;Conforti (⁴) la memoria mia, che giace\
+26 E se di voi alcun nel mondo riede,\
+&emsp;Conforti (4) la memoria mia, che giace\
 &emsp;Ancor del colpo che invidia le diede.
 
-²⁶ Et si vestrum aliquis ad mundum redit,\
+26 Et si vestrum aliquis ad mundum redit,\
 &emsp;Confortet memoriam meam, que iacet\
 &emsp;Adhuc de ictu quem invidia sibi dedit.
 
-²⁷ Un poco attese (⁵), e poi (⁶): Da ch'el si tace,\
+27 Un poco attese (5), e poi (6): Da ch'el si tace,\
 &emsp;Disse 'l Poeta a me, non perder l'hora;\
 &emsp;Ma parla, e chiede a lui se più ti piace.
 
-²⁷ Aliquantulum tacuit, et postmodum: Postquam ipse tacet,\
+27 Aliquantulum tacuit, et postmodum: Postquam ipse tacet,\
 &emsp;Dixit magister ad me, non perdas horam;\
 &emsp;Sed loquere, et queras ab eo si plus tibi placet.
 
-(¹) al. col parlar — (²) al. li sonni — (³) al. torse — (⁴) al. rinfreschi — (⁵) aspectò Virgilio — (⁶) disse.
+(1) al. col parlar — (2) al. li sonni — (3) al. torse — (4) al. rinfreschi — (5) aspectò Virgilio — (6) disse.
 
 Et truncus, idest stipes, scilicet respondit: Tam dulciter dictis m'adeschi, idest allicis cum escha, quod ego non possum tacere, et vos non gravet, licet ego unum modicum ad ratiocinandum me immischiem, idest involvam. Nihil poterat esse dultius isti infamato de proditione, quam [si] per oppositum ostenderetur. Sic in isto modo alliciebatur; sed ipse volens se excusare, dicit: Non tedeat vos ascultare, licet ego aliquantulum loquar longa verba.
 
@@ -304,67 +304,67 @@ Unum modicum expectavit: hec est tertia pars huius capituli, in qua ponit Virgil
 
 <!-- p. 173 (0227) -->
 
-²⁸ Ond'io a lui: Domandal tu ancora\
+28 Ond'io a lui: Domandal tu ancora\
 &emsp;Di quel che credi ch'a me satisfaccia;\
 &emsp;Ch'io non potrei: tanta pietà m'acchora.
 
-²⁸ Unde ego ad eum: Petas tu etiam\
+28 Unde ego ad eum: Petas tu etiam\
 &emsp;De eo quod credis quod michi satisfaciat;\
 &emsp;Quia ego non possum: tanta pietas me accorat.
 
-²⁹ Però ricominciò: Se l'huom ti faccia\
+29 Però ricominciò: Se l'huom ti faccia\
 &emsp;Liberamente ciò che 'l tuo dir prega,\
 &emsp;Spirito incarcerato, ancor ti piaccia
 
-²⁹ Ideo reincepit: Si homo tibi faciat\
+29 Ideo reincepit: Si homo tibi faciat\
 &emsp;Libere illud quod tuum dicere querit,\
 &emsp;Spiritus incarcerate, adhuc tibi placeat
 
-³⁰ Di dirne come l'anima si lega\
+30 Di dirne come l'anima si lega\
 &emsp;In questi nochi; e dinne, se tu puoi,\
 &emsp;S'alcuna mai da tal membra si spiega.
 
-³⁰ Dicere nobis qualiter anima ligatur\
+30 Dicere nobis qualiter anima ligatur\
 &emsp;In istis nodis; et dic nobis, si potes,\
 &emsp;Si aliqua unquam a talibus membris explicatur.
 
-³¹ Allor soffiò lo tronco forte, e poi\
+31 Allor soffiò lo tronco forte, e poi\
 &emsp;Si convertì quel vento in cotal voce:\
 &emsp;Brevemente sarà risposto a voi.
 
-³¹ Tunc sufflavit truncus fortiter, et postea\
+31 Tunc sufflavit truncus fortiter, et postea\
 &emsp;Conversus fuit ventus in talem vocem:\
 &emsp;Breviter erit responsum vobis.
 
-³² Quando si parte l'anima feroce\
+32 Quando si parte l'anima feroce\
 &emsp;Dal corpo ond'ella stessa s'è disvelta,\
 &emsp;Mynos la manda a la septima foce.
 
-³² Quando recedit anima ferox\
+32 Quando recedit anima ferox\
 &emsp;A corpore a quo ipsamet se emulsit,\
 &emsp;Mynos eam mictit ad septimam faucem.
 
-³³ Cade in la selva, e non gl'è parte scelta;\
+33 Cade in la selva, e non gl'è parte scelta;\
 &emsp;Ma là dove fortuna la balestra,\
 &emsp;Quivi germogla come gran di spelta;
 
-³³ Cadit in silvam, et non est ei pars electa;\
+33 Cadit in silvam, et non est ei pars electa;\
 &emsp;Sed illuc quo fortuna eam balistat,\
 &emsp;Ibi germinat sicut granum spelte;
 
-³⁴ Sorge in vermena et in pianta silvestra:\
+34 Sorge in vermena et in pianta silvestra:\
 &emsp;L'Arpie, pascendo poi delle sue fogle,\
 &emsp;Fanno dolor, et al dolor fenestra.
 
-³⁴ Surgit in vermen est plantam silvestrem:\
+34 Surgit in vermen est plantam silvestrem:\
 &emsp;Arpie, pascendo postea de suis foliis,\
 &emsp;Faciunt dolorem, et dolori fenestram.
 
-³⁵ Con l'altre, tornerem per nostre spogle,\
+35 Con l'altre, tornerem per nostre spogle,\
 &emsp;Ma non però ch'alcuna sen rivesta:\
 &emsp;Che non è giusto haver quel che huom si togle.
 
-³⁵ Sicut alie, veniemus pro nostris spoliis,\
+35 Sicut alie, veniemus pro nostris spoliis,\
 &emsp;Sed non tamen quod aliqua illis se vestiat:\
 &emsp;Quia non est iustum habere id quod sibi ipsi subtrahit.
 
@@ -380,47 +380,47 @@ Sicut alie anime, redibimus pro nostris spoliis, idest corporibus, non tamen quo
 
 <!-- p. 174 (0228) -->
 
-³⁶ Qui le strascinaremo, e per la mesta\
+36 Qui le strascinaremo, e per la mesta\
 &emsp;Selva saranno e nostri corpi appesi,\
 &emsp;Ciascun al prun dell'ombra sua molesta.
 
-³⁶ Hic ea per terram trahemus, et per mestam\
+36 Hic ea per terram trahemus, et per mestam\
 &emsp;Silvam erunt nostra corpora appensa,\
 &emsp;Quodlibet apud dumum umbre sue moleste.
 
-³⁷ Noi eravamo ancor al tronco attesi,\
+37 Noi eravamo ancor al tronco attesi,\
 &emsp;Credendo ch'altro ne volesse dire;\
 &emsp;Quando noi fummo d'un romor sorpresi,
 
-³⁷ Nos eramus adhuc ad truncum attenti,\
+37 Nos eramus adhuc ad truncum attenti,\
 &emsp;Credendo quod aliud nobis vellet dicere;\
 &emsp;Quando fuimus ab uno rumore superventi,
 
-³⁸ Similemente colui, che venire\
+38 Similemente colui, che venire\
 &emsp;Sente 'l porco in la[ca]ccia a sua posta,\
-&emsp;Ch'ode le bestie e le frasche stormire (¹).
+&emsp;Ch'ode le bestie e le frasche stormire (1).
 
-³⁸ Similiter illi, qui venire\
+38 Similiter illi, qui venire\
 &emsp;Sentit aprum ad venationem in sua posta,\
 &emsp;Qui audit bestias et frondes tremere.
 
-³⁹ Et ecco due dalla sinistra costa,\
+39 Et ecco due dalla sinistra costa,\
 &emsp;Nudi e graffiati, fuggendo sì forte,\
 &emsp;Che de la selva rompien ogni rosta.
 
-³⁹ Et ecce duo a sinistro latere,\
+39 Et ecce duo a sinistro latere,\
 &emsp;Nudi et exarati, fugiendo ita fortiter,\
 &emsp;Quod illius silve rumpebant omnem rostam.
 
-⁴⁰ E quel dinanzi (²): Accorre, accorre, morte.\
+40 E quel dinanzi (2): Accorre, accorre, morte.\
 &emsp;E l'altro, a cui pareva tardar troppo,\
-&emsp;Gridava (³): Lano, sì non furo accorte
+&emsp;Gridava (3): Lano, sì non furo accorte
 
-⁴⁰ Ille precedens: Or accurre, accurre, o mors.\
+40 Ille precedens: Or accurre, accurre, o mors.\
 &emsp;Et alter, cui videbatur tardare nimis,\
 &emsp;Clamabat: Lane, sic non fuerunt accurata
 
-(¹) far romore — (²) gridava — (³) o
+(1) far romore — (2) gridava — (3) o
 
 Sed notandum est, quod hic loquitur auctor de Inferno morali, et hic loquitur de morte morali et resurrectione morali: nam omnes vitiosi in aliis vitiis, et mortui in aliis vitiis, resurgere possunt; desperati autem non. Gulosus potest fieri temperatus, superbus humilis, luxuriosus castus, etc.; sed infelix qui desperat de gratia Dei, nunquam resurgit. Sic patuit in Cayn; ideo obstinatio est maximum peccatorum, ex qua sequitur peccatum finale impenitentie. Vel dic, et bene, quod desperatus habet dicere, quod si ipse cognovisset, vel ymaginatus fuisset, quod anima deberet reinduere carnem, et pati tot, tales et tantas penas, nunquam desperasset se.
 
@@ -440,43 +440,43 @@ Notandum est hic, quod in millesimo ducentesimo septuagesimo
 
 <!-- p. 175 (0229) -->
 
-⁴¹ Le gambe tue a le giostre del Toppo.\
+41 Le gambe tue a le giostre del Toppo.\
 &emsp;Ma perchè forse li fallìa la lena,\
 &emsp;Di sè e d'un cespuglo fece groppo.
 
-⁴¹ Crura tua hastiludiis Toppi.\
+41 Crura tua hastiludiis Toppi.\
 &emsp;Et postmodum, quia forsan deficiebat sibi anelitus,\
 &emsp;De se et de uno cespite fecit unum cumulum.
 
-⁴² Dirieto a lor era la selva piena\
+42 Dirieto a lor era la selva piena\
 &emsp;Di cagne nere, bramose e correnti,\
 &emsp;Come veltri ch'uscisser di catena.
 
-⁴² Post eos erat silva plena\
+42 Post eos erat silva plena\
 &emsp;Canibus nigris, avidis et currentibus,\
 &emsp;Sicut veltri qui exirent de cathena.
 
-⁴³ In quel che s'appiattò miser li denti,\
+43 In quel che s'appiattò miser li denti,\
 &emsp;E quel dilacerar a brano a brano;\
 &emsp;Poi sen portar quelle membra dolenti.
 
-⁴³ In illum qui se abscondit immiserunt dentes,\
+43 In illum qui se abscondit immiserunt dentes,\
 &emsp;Et illum lacerarunt membratim;\
 &emsp;Postmodum secum portaverunt illa membra dolentia.
 
-⁴⁴ Presem'allor la mia scorta per mano,\
+44 Presem'allor la mia scorta per mano,\
 &emsp;E menommi al cespuglo che piangea,\
 &emsp;Per le rotture sanguinenti, invano.
 
-⁴⁴ Cepit me tunc meus dux per manum,\
+44 Cepit me tunc meus dux per manum,\
 &emsp;Et duxit me ad cespitem qui plangebat,\
 &emsp;Propter rupturas sanguineas, in vanum.
 
-⁴⁵ O Iacomo, dicea, da Sancto Andrea,\
+45 O Iacomo, dicea, da Sancto Andrea,\
 &emsp;Che t'è giovato di me fare schermo?\
 &emsp;Che colpa ho io de la tua vita rea?
 
-⁴⁵ O Iacobe, dicebat, de Sancto Andrea,\
+45 O Iacobe, dicebat, de Sancto Andrea,\
 &emsp;Quid tibi profuit de me facere vilipendium?\
 &emsp;Quam culpam habeo ego de tua vita prava?
 
@@ -494,39 +494,39 @@ Audi verba planctus arbuscule: O Iacobe, dicebat, de Sancto Andrea, quid tibi pr
 
 <!-- p. 176 (0230) -->
 
-⁴⁶ Quando 'l maestro fu sovr'esso fermo,\
+46 Quando 'l maestro fu sovr'esso fermo,\
 &emsp;Disse: Chi fosti, che per tante puncte\
 &emsp;Soffi con sangue doloroso sermo?
 
-⁴⁶ Quando magister fuit supra ipsum firmus,\
+46 Quando magister fuit supra ipsum firmus,\
 &emsp;Dixit: Qui fuisti, qui per tot puncturas\
 &emsp;Sufflas cum sanguine dolorosum sermonem?
 
-⁴⁷ Et elli a noi: O anime, che giuncte\
+47 Et elli a noi: O anime, che giuncte\
 &emsp;Sete a veder lo stratio dishonesto,\
 &emsp;C'ha le mie fronde sì da me disgiuncte,
 
-⁴⁷ Et ipse ad nos: O anime, que appulse\
+47 Et ipse ad nos: O anime, que appulse\
 &emsp;Estis ad videndum dilacerationem inhonestam,\
 &emsp;Que habet membra mea sic a me disiuncta,
 
-⁴⁸ Raccoglietele al piè del tristo cesto;\
-&emsp;Io fui della città (¹) che nel Baptista (²)\
-&emsp;Mutò 'l primo padron (³): onde per questo
+48 Raccoglietele al piè del tristo cesto;\
+&emsp;Io fui della città (1) che nel Baptista (2)\
+&emsp;Mutò 'l primo padron (3): onde per questo
 
-⁴⁸ Recolligatis ea ad pedem tristis cespitis;\
+48 Recolligatis ea ad pedem tristis cespitis;\
 &emsp;Ego fui de civitate que in Baptistam\
 &emsp;Mutavit primum patronum: unde propter hoc
 
-⁴⁹ Sempre coll'arte (⁴) sua la farà trista:\
+49 Sempre coll'arte (4) sua la farà trista:\
 &emsp;Se non fusse che 'n sul passo d'Arno\
 &emsp;Di lui riman ancor alcuna vista,
 
-⁴⁹ Semper cum arte sua illam faciet tristem:\
+49 Semper cum arte sua illam faciet tristem:\
 &emsp;Et nisi esset quod super passum Arni\
 &emsp;Remanet adhuc ipsius aliqua effigies,
 
-(¹) Fiorenze — (²) Giovanni — (³) Marte — (⁴) de le discordie
+(1) Fiorenze — (2) Giovanni — (3) Marte — (4) de le discordie
 
 idest reparaculum, vel clipeum de me contra canes? Quasi dicat: Tibi non profuisti et michi plurimum nocuisti. Quam culpam habui de tua vita rea, idest mala? Quando magister fuit super ipsum firmus, dixit: Quis fuisti, qui per tot puncta sufflas cum sanguine dolorosum sermonem? Isti plorabant, et per rupturas, factas a dentibus canum, emictebant sanguinem.
 
@@ -538,12 +538,12 @@ Fuit diu aliqua opinio aliquorum, minus catholicorum, in Florentia, quod illa pa
 
 <!-- p. 177 (0231) -->
 
-⁵⁰ Que'cittadini che poi la rifondarno\
+50 Que'cittadini che poi la rifondarno\
 &emsp;Sovra 'l cener che d'Atthyla rimase,\
 &emsp;Havrebber facto lavorar indarno.\
 &emsp;Io fe'iubbetto a me de le mie case.
 
-⁵⁰ Illi cives qui postea illam refundaverunt\
+50 Illi cives qui postea illam refundaverunt\
 &emsp;Super cinerem qui de Attila remansit,\
 &emsp;Fecissent laborari in vanum.\
 &emsp;Ego feci iubbettum michi de meis domibus.

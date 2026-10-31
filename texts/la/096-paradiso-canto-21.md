@@ -8,39 +8,39 @@ Iam erant oculi mei fixi. In isto capitulo vicesimoprimo, auctor tractat de spir
 
 # Capitulum Vicesimumprimum
 
-¹ Già eran gl'ochi miei refixi al volto\
+1 Già eran gl'ochi miei refixi al volto\
 &emsp;Della mia donna, e l'animo con essi\
 &emsp;Da ogn'altro intento s'era tolto;
 
-¹ Iam erant oculi mei refixi ad vultum\
+1 Iam erant oculi mei refixi ad vultum\
 &emsp;Mee domine, et animus meus cum ipsis,\
 &emsp;Et ab alio intento eram remotus;
 
-² E quella non ridea: Ma, s'io ridessi,\
+2 E quella non ridea: Ma, s'io ridessi,\
 &emsp;Mi cominciò, tu ti faresti quale\
 &emsp;Semele fu, quando di cener fessi;
 
-² Et illa non ridebat: Sed, si ego riderem,\
+2 Et illa non ridebat: Sed, si ego riderem,\
 &emsp;Michi incepit, tu efficereris qualis\
 &emsp;Fuit Semele, quando de cinere fuit facta;
 
-³ Chè la bellezza mia, che per le scale\
-&emsp;Dell'eterno palazzo (¹) più s'accende,\
+3 Chè la bellezza mia, che per le scale\
+&emsp;Dell'eterno palazzo (1) più s'accende,\
 &emsp;Com'ài veduto, quanto più si sale,
 
-³ Quia pulchritudo mea, [que] per scalas\
+3 Quia pulchritudo mea, [que] per scalas\
 &emsp;Eterni palatii plus accenditur,\
 &emsp;Sicut vidisti, quanto plus ascenditur,
 
-⁴ Se non si temperasse, tanto splende,\
+4 Se non si temperasse, tanto splende,\
 &emsp;Che'l tuo mortal poter, al mio fulgore,\
 &emsp;Sarebbe fronda che trono scoscende.
 
-⁴ Si non temperaretur, tantum splendet,\
+4 Si non temperaretur, tantum splendet,\
 &emsp;Quod tuum mortale posse, ad suum fulgorem,\
 &emsp;Esset frons quam tonitruum sconscendit.
 
-(¹) al. palagio.
+(1) al. palagio.
 
 Iam erant oculi mei reflexi ad vultum. Già era[n] l'occhi mei refixi al volto: istud est vicesimumprimum capitulum huius Paradisi, in quo, finito tractatu animarum Iovialium in capitulo precedenti, ponit auctor et tractat de animabus saturnalibus, idest de illis que sunt beatificate in stella, sive planeta, Saturni. Quod dividitur in quatuor partes. In quarum prima auctor describit ascensum suum et Beatricis in Saturnum, et demirat[ur] signum quod apparet, scilicet, supra, unam scalam, et animas ibi repositas. In secunda parte, que incipit ibi:
 
@@ -66,39 +66,39 @@ Modo excusat se auctor, si non describit pulchritudinem excellentie Beatricis in
 
 <!-- p. 1069 (1123) -->
 
-⁵ Noi siam levati al septimo splendore (¹),\
+5 Noi siam levati al septimo splendore (1),\
 &emsp;Che sotto 'l pecto del Leone ardente\
 &emsp;Raggiò mo mixto giù del suo valore.
 
-⁵ Nos sumus elevati ad septimum splendorem,\
+5 Nos sumus elevati ad septimum splendorem,\
 &emsp;Qui sub pectore Leonis ardentis\
 &emsp;Radiat nunc mixtus de inferiori suo valore.
 
-⁶ Ficca dirieto agl'ochi tuoi la mente,\
+6 Ficca dirieto agl'ochi tuoi la mente,\
 &emsp;E fa'di quegli spechio a la figura,\
 &emsp;Che'n questo spechio ti sarà parvente.
 
-⁶ Fige retro oculos tuos mentem,\
+6 Fige retro oculos tuos mentem,\
 &emsp;Et facias de illis specula ad figuram,\
 &emsp;Que in isto speculo erit tibi presens.
 
-⁷ Qual sapesse qual'era la pastura\
+7 Qual sapesse qual'era la pastura\
 &emsp;Del viso mio nell'aspecto beato,\
 &emsp;Quando mi transmutai dall'altra cura,
 
-⁷ Qualis sciret qualis erat pastura\
+7 Qualis sciret qualis erat pastura\
 &emsp;Vultus mei in aspectu beato,\
 &emsp;Quando ego me transmutavi ad aliam curam,
 
-⁸ Cognoscerebbe quanto m'era grato\
+8 Cognoscerebbe quanto m'era grato\
 &emsp;Obbedir a la mia celeste scorta,\
 &emsp;Contrapesando l'un coll'altro lato.
 
-⁸ Cognosceret quantum erat michi gratum\
+8 Cognosceret quantum erat michi gratum\
 &emsp;Obedire mee celesti scorte,\
 &emsp;Contra ponderando unum cum alio latere.
 
-(¹) Saturno.
+(1) Saturno.
 
 ridebat. Causa est, quia Dantes non potuisset substinere, idest intueri, tantam pulchritudinem; quia dum Beatrix ascendebat per speras celi sursum, semper efficiebatur pulchrior et pulchrior. Modo, intrando in speram Saturni, adeo effecta erat pulchra, quod si ipsa risisset, apparuisset adeo pulchra, quod auctor non potuisset intueri in ipsam. Nota quod ista est bona fictio. Vult enim hic fingere vitam contemplativam, quam habent viri contemplativi in hac vita presenti. Vita etenim contemplativa est illa, que abstrahit quasi homines ex toto a rebus terrenis, et ab omni complacentia terrenarum rerum; et fiunt homines, qui sunt hic in carne, ex ea celibes, et vivunt in carne preter carnem: non loquuntur, non cogitant, nisi de celestibus. Saturnus enim ex sua proprietate, alias potestate, habet influere in hominibus abstinentiam, et contemplationem, et voluntatem vivendi solitarie. Opera autem contemplativorum non sunt clara viventibus carnaliter, quia contemplativi loquuntur cum Deo, sicut fecerunt Sancti Ioannes Baptista, Macharius, Antonius, Benedictus. Nota, quod hic ponitur una hystoria, fictio poetica, de Semele. Uxor Bachi, Dei vini, que vocabatur Semele, fuit una filiarum Cadmi, primi regis Thebarum et fundatoris ipsius civitatis Thebarum; que decepta a Iunone male consilianti sibi, Semele petiit a Iove, suo amasio, ut uteretur cum ea modo cum [quo] utebatur cum Iunone: quod sibi petenti Iovis concessit: quo facto, fuit fulminata et conversa in cinerem, et hoc evenit propter excessivum modum, etc. Ita etiam si risisset hic, in isto planeta. Beatrix, Dantes nullatenus potuisset substinere, propter excellentiam pulchritudinis que apparuisset in risu ipsius Beatricis.
 
@@ -112,59 +112,59 @@ Qualis, vel quiscumque, sciret qualis erat pastura vultus mei, idest oculorum me
 
 <!-- p. 1070 (1124) -->
 
-⁹ Dentr'al cristallo, che'l vocabol porta,\
+9 Dentr'al cristallo, che'l vocabol porta,\
 &emsp;Cerchiando'l mondo, del suo caro duce,\
 &emsp;Sotto cui giacque ogni militia morta,
 
-⁹ Intra cristallum, quod vocabulum portat,\
+9 Intra cristallum, quod vocabulum portat,\
 &emsp;Circuendo mundum, sui cari ducis,\
 &emsp;Sub quo iacuit omnis malitia mortua,
 
-¹⁰ Di color d'oro, in che raggio traluce,\
+10 Di color d'oro, in che raggio traluce,\
 &emsp;Vid'io uno scaleo erecto in suso\
 &emsp;Tanto, che nol seguiva la mia luce.
 
-¹⁰ Coloris aurei, in quo radius tralucet,\
+10 Coloris aurei, in quo radius tralucet,\
 &emsp;Vidi ego unum gradum erectum versus sursum\
 &emsp;Tantum, quod ipsum non sequebatur mea lux.
 
-¹¹ Vidi anco per li gradi scender giuso\
+11 Vidi anco per li gradi scender giuso\
 &emsp;Tanti splendor, ch'i' pensai ch'ogni lume\
 &emsp;Che par nel ciel, quindi fusse diffuso.
 
-¹¹ Vidi etiam per gradus descendere infra\
+11 Vidi etiam per gradus descendere infra\
 &emsp;Tot splendores, quod ego cogitavi quod omne bonum\
 &emsp;Quod apparet in celo, inde esset diffusum.
 
-¹² E come, per lo natural costume,\
+12 E come, per lo natural costume,\
 &emsp;Le pole insieme, al cominciar del giorno,\
 &emsp;Si muoveno a scaldar le fredde piume;
 
-¹² Et sicut, propter naturalem morem,\
+12 Et sicut, propter naturalem morem,\
 &emsp;Pole simul, in principio diei,\
 &emsp;Moventur ad calefaciendum frigidas alas;
 
-¹³ Poi altre vanno via senza ritorno,\
+13 Poi altre vanno via senza ritorno,\
 &emsp;Altre rivolgon sè, donde son mosse,\
 &emsp;Et altre roteando fan soggiorno;
 
-¹³ Postea alie recedunt sine reditu,\
+13 Postea alie recedunt sine reditu,\
 &emsp;Alie revolvunt se, unde se moverunt,\
 &emsp;Et alie roteando faciunt soggiornum;
 
-¹⁴ Tal modo parve a me che quivi fosse\
+14 Tal modo parve a me che quivi fosse\
 &emsp;In quello sfavillar che'nsieme venne,\
 &emsp;Sì come in certo grado si percosse;
 
-¹⁴ Talis modus visum michi fuit quod ibi esset\
+14 Talis modus visum michi fuit quod ibi esset\
 &emsp;In illo favillare quod insimul venit,\
 &emsp;Statim quod in certum gradum se percussit;
 
-¹⁵ E quel che presso più ci si ritenne,\
+15 E quel che presso più ci si ritenne,\
 &emsp;Si fe' sì chiaro, ch'io dicea pensando:\
 &emsp;Io veggio ben l'amor che tu m'accenne.
 
-¹⁵ Et illud quod propinquius me se retinuit,\
+15 Et illud quod propinquius me se retinuit,\
 &emsp;Fuit factum ita clarum, quod ego dicebam cogitando:\
 &emsp;Ego video bene, o amor, quod tu per signa invitas.
 
@@ -178,71 +178,71 @@ Et illud quod propinquius me. E quello che più presso a me: ista est secunda pa
 
 <!-- p. 1071 (1125) -->
 
-¹⁶ Ma quella, ond'io aspecto el come e'l quando\
+16 Ma quella, ond'io aspecto el come e'l quando\
 &emsp;Del dir e del tacer, si sta; ond'io\
 &emsp;Contra'l desio fo ben s'io non dimando.
 
-¹⁶ Sed illa, unde ego expecto quomodo et quando\
+16 Sed illa, unde ego expecto quomodo et quando\
 &emsp;Dicendi et tacendi, stat; unde ego\
 &emsp;Contra desiderium facio bene quod ego non interrogo.
 
-¹⁷ Perch'ella, che vedea el tacer mio\
+17 Perch'ella, che vedea el tacer mio\
 &emsp;Nel veder di Colui che tutto vede,\
 &emsp;Mi disse: Solve el tuo caldo desio.
 
-¹⁷ Ex quo ipsa, que videbat tacere meum\
+17 Ex quo ipsa, que videbat tacere meum\
 &emsp;In videre Illius qui totum videt,\
 &emsp;Michi dixit: Solve tuum calidum desiderium.
 
-¹⁸ Et io incominciai: La mia mercede\
+18 Et io incominciai: La mia mercede\
 &emsp;Non mi fa degno de la tua risposta;\
 &emsp;Ma per colei che 'l chieder mi concede,
 
-¹⁸ Et ego incepi: Mea merces\
+18 Et ego incepi: Mea merces\
 &emsp;Non me dignum facit de tuo responso;\
 &emsp;Sed propter illam que dicere michi concedit,
 
-¹⁹ Vita beata, che ti stai nascosta\
+19 Vita beata, che ti stai nascosta\
 &emsp;Dentr'alla tua letitia, fammi nota\
 &emsp;La cagion che sì presso mi t'accosta;
 
-¹⁹ Vita beata, que stas absconsa\
+19 Vita beata, que stas absconsa\
 &emsp;Intra tuam letitiam, fac michi notam causam\
 &emsp;Que ita prope me te posuit;
 
-²⁰ E di', perchè si tace in questa rota\
+20 E di', perchè si tace in questa rota\
 &emsp;La dolce symphonia di Paradiso,\
-&emsp;Che giù per l'altre (¹) suona sì devota.
+&emsp;Che giù per l'altre (1) suona sì devota.
 
-²⁰ Et dicas, quare tacetur in ista rota\
+20 Et dicas, quare tacetur in ista rota\
 &emsp;Dulcis simphonia Paradisi,\
 &emsp;Que inferius per alias sonat ita devota.
 
-²¹ Tu hai l'udir mortal, com'hai el viso,\
+21 Tu hai l'udir mortal, com'hai el viso,\
 &emsp;Rispose a me; onde qui non si canta\
 &emsp;Per quel che Beatrice non ha riso.
 
-²¹ Tu habes auditum mortalem, sicut visum,\
+21 Tu habes auditum mortalem, sicut visum,\
 &emsp;Respondit michi; quare hic non cantatur,\
 &emsp;Est quare Beatrix non risit.
 
-²² Giù per li gradi della scala santa\
+22 Giù per li gradi della scala santa\
 &emsp;Discesi tanto, sol per farti festa\
 &emsp;Col dir, e co'la luce che m'ammanta:
 
-²² Infra per gradus sancte scale\
+22 Infra per gradus sancte scale\
 &emsp;Descendi tantum, solum ad faciendum tibi festum\
 &emsp;Cum dicere, et cum luce que me ammantat:
 
-²³ Nè più amor mi fece esser più presta,\
+23 Nè più amor mi fece esser più presta,\
 &emsp;Chè più e tant'amor quinci su ferve,\
 &emsp;Sì come'l fiammeggiar ti manifesta.
 
-²³ Nec maior amor me fecit esse celeriorem,\
+23 Nec maior amor me fecit esse celeriorem,\
 &emsp;Quia amor et cantus hic sursum fervet,\
 &emsp;Sicut flammigiare tibi demonstrat.
 
-(¹) rote.
+(1) rote.
 
 propinquius me se retinuit, factum fuit ita clarum, quod ego dicebam, cogitando: Ego video bene, o amor, quod tu me per signa invitas. Quasi dicat: Ego perpendi statim quod volebat michi loqui.
 
@@ -260,87 +260,87 @@ Infra per gradus scale sancte, idest sanctarum scalarum, descendi tantum, solum 
 
 <!-- p. 1072 (1126) -->
 
-²⁴ Ma l'alta carità, che ci fa serve\
+24 Ma l'alta carità, che ci fa serve\
 &emsp;Prompt'al consiglo che'l mondo governa,\
 &emsp;Sorteggia qui, sì come tu observe.
 
-²⁴ Sed alta caritas, que facit nos servas\
+24 Sed alta caritas, que facit nos servas\
 &emsp;Promptas consilio quod mundum gubernat,\
 &emsp;Sortitur nos hic, sicut tu nunc servas.
 
-²⁵ Io veggio ben, diss'io, sacra lucerna,\
+25 Io veggio ben, diss'io, sacra lucerna,\
 &emsp;Come libero amor in questa corte\
 &emsp;Basta a seguir la providenza eterna:
 
-²⁵ Ego video bene, dixi ego, sacra lucerna,\
+25 Ego video bene, dixi ego, sacra lucerna,\
 &emsp;Quomodo liber amor in ista curia\
 &emsp;Sufficit ad sequendum providentiam eternam:
 
-²⁶ Ma quest'è quel, ch'a cerner mi par forte;\
+26 Ma quest'è quel, ch'a cerner mi par forte;\
 &emsp;Perchè predestinata fusti sola\
 &emsp;A quest'officio tra le tue consorte.
 
-²⁶ Sed istud est illud, quod ad cernendum michi apparet forte;\
+26 Sed istud est illud, quod ad cernendum michi apparet forte;\
 &emsp;Quare predestinata fuisti sola\
 &emsp;Ad istud officium inter tuas consortes.
 
-²⁷ Non venni prima all'ultima parola,\
+27 Non venni prima all'ultima parola,\
 &emsp;Che del suo mezzo fece'l lume centro,\
 &emsp;Girando sè come veloce mola.
 
-²⁷ Nec veni prius ad ultimum verbum,\
+27 Nec veni prius ad ultimum verbum,\
 &emsp;Quod de suo medio fecit illud lumen centrum,\
 &emsp;Volvens se sicut velox rota.
 
-²⁸ Rispose poi l'amor che v'era dentro:\
+28 Rispose poi l'amor che v'era dentro:\
 &emsp;Luce divina sopra me s'appunta,\
 &emsp;Penetrando per questa ond'io m'inventro;
 
-²⁸ Postea respondit amor qui erat ibi intus:\
+28 Postea respondit amor qui erat ibi intus:\
 &emsp;Lux divina supra me apponitur,\
 &emsp;Penetrando per istam in quam ego intrando transparo;
 
-²⁹ La cui virtù, col mio veder congiuncta,\
+29 La cui virtù, col mio veder congiuncta,\
 &emsp;Mi leva sopra me tanto, ch'io veggio\
 &emsp;La somma essenza de la quale è muncta.
 
-²⁹ Cuius virtus, in meo videre coniuncta,\
+29 Cuius virtus, in meo videre coniuncta,\
 &emsp;Me levat supra me in tantum, quod ego video\
 &emsp;Summam essentiam, a qua ipsa est coniuncta.
 
-³⁰ Quinci vien l'allegrezza ond'io fiammeggio,\
+30 Quinci vien l'allegrezza ond'io fiammeggio,\
 &emsp;Perchè [al]la vi[s]ta mia, quant'ell'è chiara,\
 &emsp;La chiarità de la fiamma pareggio.
 
-³⁰ Hinc venit gaudium unde flammeus efficior,\
+30 Hinc venit gaudium unde flammeus efficior,\
 &emsp;Ex quo visioni mee, quantum est clara,\
 &emsp;Claritatem flamme parifico.
 
-³¹ Ma quell'alma (¹) nel ciel che più si schiara,\
-&emsp;Quel seraphyn (²) che'n Dio più l'ochio à fisso,\
+31 Ma quell'alma (1) nel ciel che più si schiara,\
+&emsp;Quel seraphyn (2) che'n Dio più l'ochio à fisso,\
 &emsp;A la domanda tua non satisfara;
 
-³¹ Sed illa anima in celo que plus clarificatur,\
+31 Sed illa anima in celo que plus clarificatur,\
 &emsp;Illud seraphin quod plus in Deum oculum habet ficum,\
 &emsp;Petitioni tue [non] satisfaceret;
 
-³² Però ch'è sì involuto nell'abisso\
+32 Però ch'è sì involuto nell'abisso\
 &emsp;Dell'eterno statuto quel che chiedi,\
 &emsp;Che da ogni creata vi[s]ta è scisso.
 
-³² Quia ita ultra ponitur in abisso\
+32 Quia ita ultra ponitur in abisso\
 &emsp;Eterni statuti illud quod petis,\
 &emsp;Quod ab omni creatura vista est scissum.
 
-³³ Et al mondo mortal, quando tu riedi,\
+33 Et al mondo mortal, quando tu riedi,\
 &emsp;Questo rapporta, sì che non presumma\
 &emsp;A tanto segno più muover li piedi.
 
-³³ Et ad mundum mortalem, quando redis,\
+33 Et ad mundum mortalem, quando redis,\
 &emsp;Istud reporta, ita quod non presumant\
 &emsp;Ad tantum signum plus movere pedes.
 
-(¹) Maria. — (²) Michael.
+(1) Maria. — (2) Michael.
 
 quare iste spiritus appropinquat ad ipsum auctorem plus quam alii spiritus, qui sunt hic. Ad primam respondet, quod eadem de causa hic non cantatur, qua Beatrix non risit: quia aures sue humane erant sicut et oculi; ideo defecissent in excessu sensibilis. Ad aliam respondet modo, dicens, quod nec propter amorem, nec propter aliquid aliud, ipse tantum appropinquavit plusquam alii: causa autem quare sic venit, est quia Deus sortitur sic illos spiritus, quod sic moveantur et sic stent, sicut moti sunt illi spiritus et sicut steterunt; etiam si Dantes non fuisset ibi, ita ibi illi spiritus stetissent et venissent); nec maior amor me fecit celeriorem, scilicet promptiorem ad veniendum prope te; quia maior, scilicet meo, et tantus, scilicet quantus est meus, hic sursum fervet, scilicet ascendendo per paradisum, sicut flammiggiare tibi demonstrat, vel manifestat.
 
@@ -350,19 +350,19 @@ Ego video bene, dixi eo. Eo veggio ben, diss'io: hec est tertia pars huius capit
 
 <!-- p. 1073 (1127) -->
 
-³⁴ La mente, che qui luce, in terra fumma;\
+34 La mente, che qui luce, in terra fumma;\
 &emsp;Onde ragguarda come può laggiue\
 &emsp;Quel che non puote, poi che'l ciel l'assumma.
 
-³⁴ Mens, que hic lucet, in terra fumat;\
+34 Mens, que hic lucet, in terra fumat;\
 &emsp;Unde respicias quomodo potest fieri ibi inferius\
 &emsp;Illud quod non potest hic, quamquam celum illam assumat.
 
-³⁵ Sì mi prescripser le parole sue,\
+35 Sì mi prescripser le parole sue,\
 &emsp;Ch'io lassai la question, e me ritrassi\
 &emsp;A domandarlo humilmente chi fue.
 
-³⁵ Sic me pupugerunt verba sua,\
+35 Sic me pupugerunt verba sua,\
 &emsp;Quod ego dimisi questionem, et me retraxi\
 &emsp;Ad petendum eam humiliter que ipsa fuit.
 
@@ -380,47 +380,47 @@ Sed illa anima in celo, que plus clarificatur, illud seraphin quod plus in Deo o
 
 <!-- p. 1074 (1128) -->
 
-³⁶ Tra' due liti d'Italia surgon saxi,\
+36 Tra' due liti d'Italia surgon saxi,\
 &emsp;E non molto distanti a la mia patria,\
 &emsp;Tanto, ch'e tuoni assai suonan più bassi,
 
-³⁶ Inter duo lictora Ytalie surgunt saxa,\
+36 Inter duo lictora Ytalie surgunt saxa,\
 &emsp;Et non multum distantia a tua patria,\
 &emsp;Tantum, quod tonitrua sonant magis infime,
 
-³⁷ E fanno un gibbo, che si chiama Catria,\
+37 E fanno un gibbo, che si chiama Catria,\
 &emsp;Sotto lo qual consacrato è un hermo,\
-&emsp;Che suol esser disposto a sola latria (¹).
+&emsp;Che suol esser disposto a sola latria (1).
 
-³⁷ Et faciunt unum gibbum, qui vocatur Catria,\
+37 Et faciunt unum gibbum, qui vocatur Catria,\
 &emsp;De situ cui est consecratus unus heremus,\
 &emsp;Qui solet esse dispositus ad solam latriam.
 
-³⁸ Così ricominciommi el terzo sermo;\
+38 Così ricominciommi el terzo sermo;\
 &emsp;E poi, continuando, disse: Quivi\
 &emsp;Al servigio di Dio mi fei sì fermo,
 
-³⁸ Sic reincepit tertium sermonem;\
+38 Sic reincepit tertium sermonem;\
 &emsp;Et postea, continuando, dixit: Ibi\
 &emsp;Ad servitium Dei me feci ita firmum,
 
-³⁹ Che, pur con cibi di liquor d'olivi,\
+39 Che, pur con cibi di liquor d'olivi,\
 &emsp;Lievemente passava caldi e geli,\
 &emsp;Contento ne'pensier contemplativi.
 
-³⁹ Quod, solum cum cibis liquoris olivarum,\
+39 Quod, solum cum cibis liquoris olivarum,\
 &emsp;Leviter transibam calores et frigora,\
 &emsp;Contentus cogitationibus contemplativis.
 
-⁴⁰ Render solea quel chiostro a questi cieli\
+40 Render solea quel chiostro a questi cieli\
 &emsp;Fertilemente, et hor è facto vano,\
 &emsp;Sì che tosto convien che si riveli.
 
-⁴⁰ Reddere solebat illud claustrum istis celis\
+40 Reddere solebat illud claustrum istis celis\
 &emsp;Fertiliter, et nunc est factum vanum,\
 &emsp;Ita quod cito convenit quod relevetur.
 
-(¹) culto divino.
+(1) culto divino.
 
 quia ab omni creata vista, idest creata visione, est scissum, idest remotum.
 
@@ -440,60 +440,60 @@ Reddere solebat (hic conqueritur de suo monasterio, quod solebat esse sanctum, m
 
 <!-- p. 1075 (1129) -->
 
-⁴¹ In quel lu[o]go fu' io Pier Damiano;\
+41 In quel lu[o]go fu' io Pier Damiano;\
 &emsp;E Piero Peccator fui ne la casa\
 &emsp;Di Nostra Donna in sul lito Adriano.
 
-⁴¹ In illo loco fui ego Petrus Damianus;\
+41 In illo loco fui ego Petrus Damianus;\
 &emsp;Et Petrus Peccator fui in domo\
 &emsp;Nostre Domine super litore Adriano.
 
-⁴² Poca vita mortal m'era rimasa,\
+42 Poca vita mortal m'era rimasa,\
 &emsp;Quando fui chiesto e tratto a quel cappello,\
 &emsp;Che pur di male in peggio si travasa.
 
-⁴² Pauca vita mortalis michi remanserat,\
+42 Pauca vita mortalis michi remanserat,\
 &emsp;Quando fui quesitus et tractus ad illum cappellum,\
 &emsp;Qui semper de malo in peius transportatur.
 
-⁴³ Venne Cephas, e venne el gran Vasello\
+43 Venne Cephas, e venne el gran Vasello\
 &emsp;Dello Spirito Santo, magri e scalzi,\
 &emsp;Prendendo il cibo da qualunque ostello.
 
-⁴³ Venit Cephas, et venit grande Vas\
+43 Venit Cephas, et venit grande Vas\
 &emsp;Spiritus Sancti, macri et discalciati,\
 &emsp;Apprehendendo cibum a quocumque hospitio.
 
-⁴⁴ Hor voglon quinci e quindi chi rincalzi\
+44 Hor voglon quinci e quindi chi rincalzi\
 &emsp;Li moderni pastori, e chi li meni,\
 &emsp;Tanto son gravi, e chi dirieto gl'alzi.
 
-⁴⁴ Nunc volunt hinc inde qui recalcient\
+44 Nunc volunt hinc inde qui recalcient\
 &emsp;Moderni pastores, et qui eos ducant,\
 &emsp;Tantum sunt graves, et qui retro eos elevent.
 
-⁴⁵ Cuopron co' manti loro e palaphreni,\
+45 Cuopron co' manti loro e palaphreni,\
 &emsp;Sì che due bestie van sott'una pelle:\
 &emsp;O patientia, che tanto sostieni!
 
-⁴⁵ Cooperiunt de mantis eorum palafrenos,\
+45 Cooperiunt de mantis eorum palafrenos,\
 &emsp;Ita quod due bestie vadunt sub una pelle:\
 &emsp;O patientia, que tantum sustines!
 
-⁴⁶ A questa voce vid'io più fiammelle\
+46 A questa voce vid'io più fiammelle\
 &emsp;Di grado in grado scender e girarsi,\
 &emsp;Et ogni giro le facea più belle.
 
-⁴⁶ Ad istam vocem vidi ego plures flammellas\
+46 Ad istam vocem vidi ego plures flammellas\
 &emsp;De gradu in gradum descendere et gyrari,\
 &emsp;Et omnis gyrus illas faciebat pulchriores.
 
-⁴⁷ Dintorn'a questa venner e fermarsi,\
+47 Dintorn'a questa venner e fermarsi,\
 &emsp;E fer un grido di sì alto suono,\
 &emsp;Che non potrebbe qui assimigliarsi:\
 &emsp;Nè io lo 'ntesi, sì mi vinse el tuono.
 
-⁴⁷ Circa istam venerunt et quieverunt,\
+47 Circa istam venerunt et quieverunt,\
 &emsp;Et fecerunt unum clamorem tam alti soni,\
 &emsp;Quod non posset hic assimilari:\
 &emsp;Nec ego illum intellexi, ita me vicit tonitruum.

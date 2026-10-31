@@ -8,27 +8,27 @@ In isto tertio capitulo, quod incipit: Esto quod subita fuga, auctor vult proced
 
 # Capitulum Tertium
 
-¹ Advegna che la subitana fuga\
+1 Advegna che la subitana fuga\
 &emsp;Dispergesse color per la campagna,\
 &emsp;Rivolt' al monte, ove ragion ne fruga;
 
-¹ Quamquam subitanea fuga\
+1 Quamquam subitanea fuga\
 &emsp;Dispergeret istos per campaniam,\
 &emsp;Conversos ad montem, quo ratio eos frugat;
 
-² Io mi ristrinxi a la fida compagna:\
+2 Io mi ristrinxi a la fida compagna:\
 &emsp;E come sare'io senza lui corso?\
 &emsp;Chi mi havria tracto su per la montagna?
 
-² Ego restrinxi me ad fidam sotietatem:\
+2 Ego restrinxi me ad fidam sotietatem:\
 &emsp;Et quomodo ego sine illo cucurrissem?\
 &emsp;Quis me traxisset sursum per montaneam?
 
-³ El mi parea da sè stesso rimorso:\
+3 El mi parea da sè stesso rimorso:\
 &emsp;O dignitosa conscienzia e necta,\
 &emsp;Come t'è picciol fallo amaro morso!
 
-³ Ipse apparebat michi a se ipso remorsus:\
+3 Ipse apparebat michi a se ipso remorsus:\
 &emsp;O dignitosa conscientia et nitida,\
 &emsp;Quam tibi est parvus defectus amarus morsus!
 
@@ -50,51 +50,51 @@ Ipse apparebat michi a seipso remorsus, idest compunctus remorsu conscientie, et
 
 <!-- p. 457 (0511) -->
 
-⁴ Quando li piedi suoi lasciar la frecta,\
+4 Quando li piedi suoi lasciar la frecta,\
 &emsp;Che l'honestate ad ogni atto dismaga,\
 &emsp;La mente mia, che in prim'era ristrecta,
 
-⁴ Quando pedes sui dimiserunt festinantiam,\
+4 Quando pedes sui dimiserunt festinantiam,\
 &emsp;Que honestatem in omni actu demacrat,\
 &emsp;Mens mea, que erat prius restricta,
 
-⁵ L'intento rallargò, sì come vaga,\
+5 L'intento rallargò, sì come vaga,\
 &emsp;E diedi 'l viso mio incontr'al poggio,\
 &emsp;Che 'n verso 'l ciel più alto si dislaga.
 
-⁵ Intentum relarg[a]vit, sicut vaga,\
+5 Intentum relarg[a]vit, sicut vaga,\
 &emsp;Et dedi visum meum contra podium,\
 &emsp;Quod versus celum altius dilatatur.
 
-⁶ Lo sol, che dietro fiammeggiava roggio,\
+6 Lo sol, che dietro fiammeggiava roggio,\
 &emsp;Rotto m'era dinanzi a la figura,\
 &emsp;Ch'avea in me di suo'raggi l'appoggio.
 
-⁶ Sol, qui retro flammescebat rubeus,\
+6 Sol, qui retro flammescebat rubeus,\
 &emsp;Ruptus erat ante me ad figuram,\
 &emsp;Que habebat in me de suis radiis oppositionem.
 
-⁷ Io mi volsi dallato con paura\
+7 Io mi volsi dallato con paura\
 &emsp;D'esser abbandonato, quando vidi\
 &emsp;Solo dinanzi a me la terra oscura.
 
-⁷ Ego me volvi ad latus cum pavore\
+7 Ego me volvi ad latus cum pavore\
 &emsp;Derelinqui, quando ego vidi\
 &emsp;Solum ante me terram obscuram.
 
-⁸ E 'l mio conforto: Perchè pur diffidi,\
+8 E 'l mio conforto: Perchè pur diffidi,\
 &emsp;A dir mi cominciò tutto rivolto;\
 &emsp;Non credi tu me teco, e ch'io ti guidi?
 
-⁸ Et mea confortatio: Quare pur diffidis,\
+8 Et mea confortatio: Quare pur diffidis,\
 &emsp;Dicere cepit michi totus conversus;\
 &emsp;Non credis tu me tecum, et quod ego te ducam?
 
-⁹ Vesper' è già colà, dov'è sepolto\
+9 Vesper' è già colà, dov'è sepolto\
 &emsp;Lo corpo, dentr'al qual io facea ombra:\
 &emsp;Napoli l'à, e da Branditio è tolto.
 
-⁹ Vesperum est iam ibi, ubi est sepultum\
+9 Vesperum est iam ibi, ubi est sepultum\
 &emsp;Corpus, intra quod ego faciebam umbram:\
 &emsp;Neapolim habet illud, et a Brundusio est sublatum.
 
@@ -110,35 +110,35 @@ Et necdum auctor facit quod Virgilius solvat questionem illam, sed facit mention
 
 <!-- p. 458 (0512) -->
 
-¹⁰ Hora, se 'nnanzi a me nulla s'adombra,\
+10 Hora, se 'nnanzi a me nulla s'adombra,\
 &emsp;Non ti maraviglar più che de' cieli,\
 &emsp;Che l'uno all'altro raggio non ingombra,
 
-¹⁰ Nunc, si ante me nulla fit umbra,\
+10 Nunc, si ante me nulla fit umbra,\
 &emsp;Non mireris plusquam de celis,\
 &emsp;Quorum unum alteri radios non ingumbrat.
 
-¹¹ A sofferir tormenti, caldi e gieli\
+11 A sofferir tormenti, caldi e gieli\
 &emsp;Simili a corpi la virtù dispone,\
 &emsp;Che, come sia, non vuol ch'a noi si sveli.
 
-¹¹ Ad sufferendum tormenta, calores et frigora\
+11 Ad sufferendum tormenta, calores et frigora\
 &emsp;Similia corpora virtus disponit,\
 &emsp;Que, qualiter facit, non vult quod nobis disveletur.
 
-¹² Matto è chi spera che nostra ragione\
+12 Matto è chi spera che nostra ragione\
 &emsp;Possa transcorrer l' infinita via,\
 &emsp;Chè tien una sostantia in tre persone.
 
-¹² Insipiens est qui credit quod nostra ratio\
+12 Insipiens est qui credit quod nostra ratio\
 &emsp;Possit transcurrere infinitam viam,\
 &emsp;Que tenet unam substantiam in tribus personis.
 
-¹³ State contenti, humana gente, al quia;\
+13 State contenti, humana gente, al quia;\
 &emsp;Chè se possibil fusse veder tutto,\
 &emsp;Mestier non era partorir Maria;
 
-¹³ Sitis contente, humane gentes, ad quia;\
+13 Sitis contente, humane gentes, ad quia;\
 &emsp;Quoniam si potuissetis vidisse totum,\
 &emsp;Necesse non erat parere Mariam;
 
@@ -154,27 +154,27 @@ State contenti. Iam bene consulit humane genti Virgilius. Nota quod Aristotiles,
 
 <!-- p. 459 (0513) -->
 
-¹⁴ E desiar vedesti senza fructo\
+14 E desiar vedesti senza fructo\
 &emsp;Tai, che sarebbe lor desio quetato,\
 &emsp;Ch'etternalmente è dato lor per lucto.
 
-¹⁴ Et desiderare vidistis sine fructu\
+14 Et desiderare vidistis sine fructu\
 &emsp;Tales, quorum iam esset desiderium quietatum,\
 &emsp;Quod est eternaliter datum eis pro luctu.
 
-¹⁵ Io dico d'Aristotile, di Plato,\
+15 Io dico d'Aristotile, di Plato,\
 &emsp;E di molt'altri. E qui chinò la fronte;\
 &emsp;E più non disse, e parvemi turbato.
 
-¹⁵ Ego dico de Aristotile et de Platone,\
+15 Ego dico de Aristotile et de Platone,\
 &emsp;Et de multis aliis. Et hic inclinavit frontem;\
 &emsp;Et plus non dixit, et remansit turbatus.
 
-¹⁶ Noi divenimmo intanto a piè del monte:\
+16 Noi divenimmo intanto a piè del monte:\
 &emsp;Quivi trovammo la roccia sì erta,\
 &emsp;Che 'ndarno vi sarien le gambe pronte.
 
-¹⁶ Nos devenimus interim ad pedes montis:\
+16 Nos devenimus interim ad pedes montis:\
 &emsp;Hic reperuimus rupem tantum altam,\
 &emsp;Quod invanum ibi essent crura prompta.
 
@@ -194,63 +194,63 @@ Nos devenimus interim ad pedes montis: hic reperuimus rupem tantum altam, quod i
 
 <!-- p. 460 (0514) -->
 
-¹⁷ Tra Larice e Turbia la più diserta,\
+17 Tra Larice e Turbia la più diserta,\
 &emsp;La più remota via è una scala,\
-&emsp;Verso di quella (¹), agevole et aperta.
+&emsp;Verso di quella (1), agevole et aperta.
 
-¹⁷ Intra Lericem et Turpiam magis deserta,\
+17 Intra Lericem et Turpiam magis deserta,\
 &emsp;Magis silvestris via erat una scala,\
 &emsp;Respectu illius, agilis et aperta.
 
-¹⁸ Or chi sa da qual man la costa cala,\
+18 Or chi sa da qual man la costa cala,\
 &emsp;Disse 'l maestro mio, fermando 'l passo,\
 &emsp;Che 'nverso 'l ciel più alta si dissala?
 
-¹⁸ Or nunc quis scit ad quam manum ascensus declinat\
+18 Or nunc quis scit ad quam manum ascensus declinat\
 &emsp;Dixit magister meus, firmando passum,\
 &emsp;Ita quod possit ascendere qui vadit sine ala?
 
-¹⁹ E mentre che tenea el viso basso,\
-&emsp;Examinando (²) del cammin la mente,\
+19 E mentre che tenea el viso basso,\
+&emsp;Examinando (2) del cammin la mente,\
 &emsp;Et io mirava suso intorno al sasso,
 
-¹⁹ Et interim quod tenebat visum inclinatum,\
+19 Et interim quod tenebat visum inclinatum,\
 &emsp;Examinabat de itinere mentem,\
 &emsp;Et ego respiciebam sursum circa saxum,
 
-²⁰ Da man sinistra m'apparve una gente\
+20 Da man sinistra m'apparve una gente\
 &emsp;D'anime, che movean e piè ver noi,\
 &emsp;E non pareva: sì venivan lente.
 
-²⁰ Ad manum sinistram michi apparuit una gens\
+20 Ad manum sinistram michi apparuit una gens\
 &emsp;Animarum, que movebant pedes versus nos,\
 &emsp;Et non apparebant: ita movebantur lente.
 
-²¹ Leva, diss'io, maestro, gl'ochi tuoi:\
+21 Leva, diss'io, maestro, gl'ochi tuoi:\
 &emsp;Echo di qua chi ne darà consiglo,\
 &emsp;Se tu da te medesmo haver nol puoi.
 
-²¹ Leva, dixi ego, o magister, oculos tuos:\
+21 Leva, dixi ego, o magister, oculos tuos:\
 &emsp;Ecce abhinc quis nobis dabit consilium,\
 &emsp;Si tu a te ipso habere illud non potes.
 
-²² Guardò allora, e con libero ciglo (³)\
+22 Guardò allora, e con libero ciglo (3)\
 &emsp;Rispose: Andiamo in là, chè vengon piano;\
 &emsp;E tu ferma la speme, o dolce figlo.
 
-²² Respexit me nunc, et cum libero aspectu\
+22 Respexit me nunc, et cum libero aspectu\
 &emsp;Respondit: Vadamus illuc, quia ipsi veniunt lente;\
 &emsp;Et tu firma spem, dulcis fili.
 
-²³ Ancor era quel popol di lontano,\
-&emsp;Dico, dopo de' nostri (⁴) mille passi,\
+23 Ancor era quel popol di lontano,\
+&emsp;Dico, dopo de' nostri (4) mille passi,\
 &emsp;Quant'um buon gittator trarria con mano,
 
-²³ Adhuc erat ille populus longinquus,\
+23 Adhuc erat ille populus longinquus,\
 &emsp;Ego dico, post nostros per mille passus,\
 &emsp;Quantum unus bonus iactor proieceret cum manu,
 
-(¹) comparatione illius. — (²) al. examinava — (³) al. piglo — (⁴) passi.
+(1) comparatione illius. — (2) al. examinava — (3) al. piglo — (4) passi.
 
 fieri nisi uno modo. Ideo dicit Aristoteles, in secundo Ethicorum, quod ire ad medium non contingit nisi solum uno modo; recedere autem a medio contingit omnifarie. Et quantum erat difficilis accessus super illum montem, per quem oportuit Dantem ascendere cum duce suo Virgilio, ostendit per quamdam comparationem. Ad quam intelligendam nota, quod est una civitas in riparia Ianuensi versus orientem, que vocatur Lerice; est prope Portum Veneris per quinque milliaria ytalica. Alia civitas est in principio Provintie et in fine riparie Ianuensis, versus occidentem: sed civitas Ianue est quasi in medio istarum duorum civitatum, scilicet Lerice et Turpie: et omnes iste sunt in lictore maris Mediterranei, sive Leonis. Iam inter istas civitates est ita mala via et cum ascensu tam terribili, quod equi non possunt ascendere nec descendere propter mirabiles descensus et ascensus; sed sunt pexime. Adhuc dicit quod ista via, per quam erant ascensuri, erat deior, et magis aspera, et magis montuosa: ymo peior via, que est inter illas duas civitates, esset una scala aperta et agilis respectu istius.
 
@@ -268,59 +268,59 @@ Adhuc erat ille populus longinquus, ego dico post nostros per mille passus, quan
 
 <!-- p. 461 (0515) -->
 
-²⁴ Quando si strinser tutti a' duri massi\
+24 Quando si strinser tutti a' duri massi\
 &emsp;Dell'alta ripa, e stetter fermi e stretti,\
 &emsp;Com'a guardar, chi va dubiando, stassi.
 
-²⁴ Quando se strinxerunt omnes apud duras massas\
+24 Quando se strinxerunt omnes apud duras massas\
 &emsp;Alte ripe, et steterunt firmi et stricti,\
 &emsp;Sicut ad respiciendum, qui vadit dubitando, stat.
 
-²⁵ O ben finiti, e già spiriti eletti,\
+25 O ben finiti, e già spiriti eletti,\
 &emsp;Virgilio incominciò, per quella pace\
 &emsp;Ch'io credo che per voi tutti s'aspetti,
 
-²⁵ O bene finiti, o iam spiritus electi,\
+25 O bene finiti, o iam spiritus electi,\
 &emsp;Virgilius incepit, per illam pacem\
 &emsp;Quam ego credo quod per vos omnes expectetur,
 
-²⁶ Ditene, dove la montagna giace,\
+26 Ditene, dove la montagna giace,\
 &emsp;Sì che possibil sia l'andare in suso;\
 &emsp;Chè'l perder tempo a chi più sa, più spiace.
 
-²⁶ Dicite nobis, ubi montana iacet,\
+26 Dicite nobis, ubi montana iacet,\
 &emsp;Ita quod possibile sit ire sursum;\
 &emsp;Quia perdere tempus illi qui plus scit, plus displicet.
 
-²⁷ Come le pecorelle escon del chiuso\
+27 Come le pecorelle escon del chiuso\
 &emsp;Ad una, a due, a tre, et altre stanno\
 &emsp;Timidette atterrando l'ochio e 'l muso;
 
-²⁷ Sicut ovicule exeunt ex clauso\
+27 Sicut ovicule exeunt ex clauso\
 &emsp;Singule, bine, terne, et altere stant\
 &emsp;Timide atterranda oculum et caput;
 
-²⁸ E ciò che fa la prima, e l'altre fanno,\
+28 E ciò che fa la prima, e l'altre fanno,\
 &emsp;Addossandosi a lei, s'ella s'arresta.\
 &emsp;Semplici e chete, e lo perchè non sanno;
 
-²⁸ Et id quod una facit, et altere faciunt,\
+28 Et id quod una facit, et altere faciunt,\
 &emsp;Adherentes eidem, si illa se firmat,\
 &emsp;Simplices et quiete, et quare id faciunt nesciunt;
 
-²⁹ Si vid'io a venir muover la testa\
+29 Si vid'io a venir muover la testa\
 &emsp;Di quella mandria fortunata allotta,\
 &emsp;Pudica in faccia, e nell'andar honesta.
 
-²⁹ Sic vidi ego movere ad veniendum caput\
+29 Sic vidi ego movere ad veniendum caput\
 &emsp;Illius mandrie fortunate tunc,\
 &emsp;Pudice in facie, et in eundo honeste.
 
-³⁰ Come color dinanzi vider rotta\
+30 Come color dinanzi vider rotta\
 &emsp;La luce in terra dal mio dextro canto,\
 &emsp;Sì che l'ombr'era da me a la grotta,
 
-³⁰ Quam primum illi anteriores viderunt ruptam\
+30 Quam primum illi anteriores viderunt ruptam\
 &emsp;Lucem in terra a meo dextero latere,\
 &emsp;Ita quod umbra mei erat apud gruptam,
 
@@ -336,43 +336,43 @@ Quam primum illi anteriores viderunt ruptam lucem in terra, idest radium solis a
 
 <!-- p. 462 (0516) -->
 
-³¹ Restaro, e trasser sè indietro alquanto;\
+31 Restaro, e trasser sè indietro alquanto;\
 &emsp;E tutti gl'altri che venian appresso,\
 &emsp;Non sapendo 'l perchè, fenno altretanto.
 
-³¹ Restiterunt, et traxerunt se retro aliquantulum;\
+31 Restiterunt, et traxerunt se retro aliquantulum;\
 &emsp;Et omnes alii qui veniebant prope,\
 &emsp;Nesciendo causam, fecerunt tantumdem.
 
-³² Senza vostra domanda io vi confesso.\
+32 Senza vostra domanda io vi confesso.\
 &emsp;Che quest'è corp' human che voi vedete,\
 &emsp;Perchè 'l lume del sol in terra è fesso
 
-³² Sine vestra interrogatione ego vobis confiteor,\
+32 Sine vestra interrogatione ego vobis confiteor,\
 &emsp;Quod istud est corpus humanum quod vos videtis,\
 &emsp;Propter quod lumen solis in terra est fixum.
 
-³³ Non vi maraviglate; ma credete,\
+33 Non vi maraviglate; ma credete,\
 &emsp;Che non senza virtù che dal ciel vegna,\
 &emsp;Cerchi di soperchiar questa parete.
 
-³³ Ne miremini; sed credatis,\
+33 Ne miremini; sed credatis,\
 &emsp;Quod non sine virtute que a celo veniat,\
 &emsp;Querit superare vestram parietem.
 
-³⁴ Così 'l maestro. E quella gente degna:\
+34 Così 'l maestro. E quella gente degna:\
 &emsp;Tornate, disse, intrate 'nnanzi dunque,\
 &emsp;Co' dossi de le man facendo insegna.
 
-³⁴ Sic magister. Et illa gens digna:\
+34 Sic magister. Et illa gens digna:\
 &emsp;Redeatis, dixit, intretis ante igitur,\
 &emsp;Cum dorsis manuum faciendo nobis signum.
 
-³⁵ Et un di loro incominciò: Chiunque\
+35 Et un di loro incominciò: Chiunque\
 &emsp;Tu se', così andando, volgi 'l viso,\
 &emsp;Pon mente se di là mi vedest'unque.
 
-³⁵ Et unus de ipsis incepit: Quicumque\
+35 Et unus de ipsis incepit: Quicumque\
 &emsp;Tu es, sic eundo, volve visum,\
 &emsp;Pone mentem, si illinc me vidisti unquam.
 
@@ -392,51 +392,51 @@ Et pro intelligentia istius hystorie notandum est, quod, mortuo bono rege Guille
 
 <!-- p. 463 (0517) -->
 
-³⁶ Io mi volsi ver lui, e guarda' 'l fiso:\
+36 Io mi volsi ver lui, e guarda' 'l fiso:\
 &emsp;Biondo era e bello, e di gentil aspecto;\
 &emsp;Ma l'un de' cigli un colpo havea diviso.
 
-³⁶ Ego me volvi versus eum, et respexi fixus:\
+36 Ego me volvi versus eum, et respexi fixus:\
 &emsp;Flavus erat et pulcher, et gentilis aspectus;\
 &emsp;Sed unum de superciliis unus culpo diviserat.
 
-³⁷ Quando mi fui humilmente disdecto\
+37 Quando mi fui humilmente disdecto\
 &emsp;D'haverlo visto mai, ei disse: Or vedi.\
 &emsp;E mostrommi una piaga a sommo'l pecto.
 
-³⁷ Quando a me fuit humiliter disdictum\
+37 Quando a me fuit humiliter disdictum\
 &emsp;Non vidisse eum unquam, ipse dixit: Nunc videas.\
 &emsp;Et monstravit unam plagam in summo pectoris.
 
-³⁸ Poi sorridendo disse: Io son Manfredi,\
+38 Poi sorridendo disse: Io son Manfredi,\
 &emsp;Nipote di Costanza imperatrice:\
 &emsp;Ond'io ti prego, che, quando tu riedi,
 
-³⁸ Postea subridendo dixit: Ego sum Manfredus,\
+38 Postea subridendo dixit: Ego sum Manfredus,\
 &emsp;Nepos Constantie imperatricis:\
 &emsp;Ego te precor, quod, quando redis,
 
-³⁹ Vadi a mia bella figla, genitrice\
+39 Vadi a mia bella figla, genitrice\
 &emsp;Dell'honor di Sicilia e di Ragona,\
 &emsp;E dichi allei el ver, s'altro si dice.
 
-³⁹ Vadas ad meam filiam, genitricem\
+39 Vadas ad meam filiam, genitricem\
 &emsp;Honoris Sicilie et Arragonie,\
 &emsp;Et dicas illi verum, si aliud dicitur.
 
-⁴⁰ Poscia ch'io ebbi rotta la persona\
+40 Poscia ch'io ebbi rotta la persona\
 &emsp;Di due punte mortal, io mi rendei\
 &emsp;Piangendo a quei che volentier perdona.
 
-⁴⁰ Postquam ego habui ruptam personam\
+40 Postquam ego habui ruptam personam\
 &emsp;De duobus ictibus mortalibus, ego me reddidi\
 &emsp;Plangendo illi Domino qui libenter parcit.
 
-⁴¹ Horribil furon li peccati miei;\
+41 Horribil furon li peccati miei;\
 &emsp;Ma la bontà infinita ha sì gran braccia,\
 &emsp;Che prende ciò, che si rivolge a lei.
 
-⁴¹ Horribilia fuerunt peccata mea;\
+41 Horribilia fuerunt peccata mea;\
 &emsp;Sed bonitas infinita habet ita grandia brachia,\
 &emsp;Quod apprehendit quotquot convertitur ad illam.
 
@@ -450,65 +450,65 @@ Horribilia fuerunt peccata mea, sed bonitas infinita habet ita grandia brachia, 
 
 <!-- p. 464 (0518) -->
 
-⁴² Se 'l pastor di Cosenza, ch' a la caccia (¹)\
+42 Se 'l pastor di Cosenza, ch' a la caccia (1)\
 &emsp;Di me fu messo per Clemente allora,\
 &emsp;Havesse in Dio ben lecta questa faccia,
 
-⁴² Si pastor Conscentie, qui ad venationem\
+42 Si pastor Conscentie, qui ad venationem\
 &emsp;Mei fuit missus per Clementem tunc,\
 &emsp;In Deo bene legisset istam faciem,
 
-⁴³ L'ossa del corpo mio sarièn ancora\
-&emsp;In co (²) del ponte, presso a Benevento,\
+43 L'ossa del corpo mio sarièn ancora\
+&emsp;In co (2) del ponte, presso a Benevento,\
 &emsp;Sotto la guardia de la grave mora.
 
-⁴³ Ossa corporis mei essent adhuc\
+43 Ossa corporis mei essent adhuc\
 &emsp;In capite pontis, prope Beneventum,\
 &emsp;Sub custodia gravis more.
 
-⁴⁴ Hor le bagna la pioggia e muove 'l vento\
+44 Hor le bagna la pioggia e muove 'l vento\
 &emsp;Di fuor del Regno, quasi lungo 'l Verde,\
 &emsp;Ove le transmutò a lume spento.
 
-⁴⁴ Nunc illa balneat pluvia et movet ventus\
+44 Nunc illa balneat pluvia et movet ventus\
 &emsp;Extra Regnum, quasi prope Viride,\
 &emsp;Ubi illa transmutavit lumine extincto.
 
-⁴⁵ Per lor malediction sì non si perde,\
+45 Per lor malediction sì non si perde,\
 &emsp;Che non possa tornar l'etterno amore,\
 &emsp;Mentre che la speranza ha fior del verde.
 
-⁴⁵ Propter eorum maledictionem non perditur,\
+45 Propter eorum maledictionem non perditur,\
 &emsp;Quin possit reddi ad eternum amorem,\
 &emsp;Quousque spes habet florem viridem.
 
-⁴⁶ Vero è che qual in contumacia muore\
+46 Vero è che qual in contumacia muore\
 &emsp;Di santa Chiesa, ancor ch'al fin si penta,\
 &emsp;Star li convien da questa ripa in fuore
 
-⁴⁶ Verum est quod quis in contumacia moritur\
+46 Verum est quod quis in contumacia moritur\
 &emsp;Sancte Ecclesie, esto quod in fine eum peniteat,\
 &emsp;Stare ei convenit istam ripam foris
 
-⁴⁷ Per ogni tempo, che v'è stato, trenta\
+47 Per ogni tempo, che v'è stato, trenta\
 &emsp;In sua presumption, se tal decreto\
 &emsp;Più corto, per buon preghi, non diventa.
 
-⁴⁷ Pro omni tempore, quod ipse stetit, triginta\
+47 Pro omni tempore, quod ipse stetit, triginta\
 &emsp;In sua presumptione, si tale decretum\
 &emsp;Magis breve, propter bonas preces, non devenit.
 
-⁴⁸ Vedi horamai se tu mi puo' far lieto,\
+48 Vedi horamai se tu mi puo' far lieto,\
 &emsp;Rivelando a la mia buona Costanza\
 &emsp;Come m'hai visto, et anco esto divieto;\
 &emsp;Chè qui per quei di là molto s'avanza.
 
-⁴⁸ Vide ammodo si tu me potes facere letum,\
+48 Vide ammodo si tu me potes facere letum,\
 &emsp;Revelando me bone Constantie mee,\
 &emsp;Qualiter me vidisti, et etiam stare in deventum;\
 &emsp;Quia hic per illos de mundo multum superlucratur.
 
-(¹) al. traccia. — (²) capo.
+(1) al. traccia. — (2) capo.
 
 Sed [si] pastor, idest episcopus, Conscentie, idest illius civitatis, qui ad venationem mei, idest ad persecutionem, sive ad persequendum me, fuit missus per Clementem tunc, idest papam, in Deo bene legisset istam faciem, idest si scivisset quomodo sum salvatus, ossa corporis mei essent adhuc in capite pontis prope Beneventum sub custodia gravis more; idest adhuc essent in sepultura, in qua fui sepultus, et non exfossasset ea inde.
 

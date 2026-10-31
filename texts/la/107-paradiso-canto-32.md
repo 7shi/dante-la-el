@@ -26,15 +26,15 @@ Movetur unum dubium hic tale. Illi pueri, qui moriebantur ante usum rationis, no
 
 # Capitulum Tricesimumsecundum
 
-¹ Refecto (¹) a suo piacer quel contemplante (²),\
+1 Refecto (1) a suo piacer quel contemplante (2),\
 &emsp;Libero officio di doctor assumpse,\
 &emsp;E cominciò queste parole sante:
 
-¹ Affectum ad suum placitum ille contemplans,\
+1 Affectum ad suum placitum ille contemplans,\
 &emsp;Liberum officium doctoris assumpsit,\
 &emsp;Et incepit ista verba sancta:
 
-(¹) al. affecto — (²) Bernardo.
+(1) al. affecto — (2) Bernardo.
 
 Affectum ad suum placitum. L'affecto al suo piacere: istud est tricesimumsecundum capitulum istius Paradisi, in quo auctor, declarata forma Paradisi in capitulo precedenti in generali, declarat predictam formam particulariter. Et dividitur in quatuor partes. In quarum prima distinguit ipse auctor gradus ordinis, tam novi quam veteris Testamenti.
 
@@ -62,39 +62,39 @@ Primo igitur auctor distinguit ordinem beatorum, premictendo continuationem dict
 
 <!-- p. 1193 (1247) -->
 
-² La piaga, che Maria richiuse et unse,\
+2 La piaga, che Maria richiuse et unse,\
 &emsp;Quella ch'è tanto bella da' suo'piedi\
 &emsp;È colei che l' aperse e tanto punse.
 
-² Plagam, quam Maria reclusit et unxit,\
+2 Plagam, quam Maria reclusit et unxit,\
 &emsp;Illa que [est] tantum pulchra ad suos pedes\
 &emsp;Est illa que aperuit et que punxit.
 
-³ Nell'ordine che fanno e terzi sedi,\
+3 Nell'ordine che fanno e terzi sedi,\
 &emsp;Siede Rachel di sotto da costei,\
 &emsp;Con Beatrice, sì come tu vedi.
 
-³ In ordinem quem faciunt tertie sedes,\
+3 In ordinem quem faciunt tertie sedes,\
 &emsp;Sedet Rachael infra istam,\
 &emsp;Cum Beatrice, sicut tu vides.
 
-⁴ Sarra, Rebecha, Iudith, e colei\
-&emsp;Che fu bisava al cantor (¹),che, per dogla\
-&emsp;Del fallo (²), disse: Miserere mei.
+4 Sarra, Rebecha, Iudith, e colei\
+&emsp;Che fu bisava al cantor (1),che, per dogla\
+&emsp;Del fallo (2), disse: Miserere mei.
 
-⁴ Sarra[m], Rebeccha[m], Iudith, et illa[m]\
+4 Sarra[m], Rebeccha[m], Iudith, et illa[m]\
 &emsp;Que fuit proava cantori, qui, propter dolorem\
 &emsp;Falli, dixit: Miserere mei,
 
-⁵ Puoi tu veder così di sogla in sogla\
+5 Puoi tu veder così di sogla in sogla\
 &emsp;Giù digradar, com' io, ch'a proprio nome\
 &emsp;Vo per la rosa in giù di fogla in fogla.
 
-⁵ Potes tu videre sic de limine in limen\
+5 Potes tu videre sic de limine in limen\
 &emsp;Infra degradari, sicut ego, qui proprio nomine\
 &emsp;Vado per rosam infra de folio in folium.
 
-(¹) David — (²) peccato suo.
+(1) David — (2) peccato suo.
 
 et dicitur pulchra, quia plasmata fuit a Deo. Tertium gradum tenet Rachael, per quam figuratur vita contemplativa, cum qua sedet domina Beatrix, que est divina scientia, contemplativa ipsius Dei. Sub istis, in quarto gradu, stat Sarra; in quinto Rebeccha; in sexto Iudith; in septimo Ruth Moabitis. De Rachaele dictum fuit satis in secundo capitulo Inferni, que fuit uxor Iacob, sive Israel, ex qua ipse genuit Ioseph et Beniamin, pro qua servivit Laban socero suo quatuordecim annis; ideo per ipsam figuratur vita contemplativa. De Beatrice dictum est satis. Rebecha fuit uxor Ysaac, ex qua nati sunt Esau et Iacob. Iudith fuit illa bona vidua, que liberavit Bethuliam, oppidum Israel, per decapitationem Holofernis, principis militie regis Nabuchodonosor, regis Assiriorum, obsidentis Bethuliam, ut habetur per totum librum Iudith. Alia mulier fuit Ruth, ex qua Bo[o]z genuit Obeth, qui fuit avus David, qui propter delictum, quod commisit de uxore alie[n]a, Urie, fecit illum psalmum, Miserere mei, Deus, secundum magnam misericordiam tuam.
 
@@ -114,67 +114,67 @@ Sarra[m] in quarto scampno, Rebeccha[m] in quinto scampno, Iudith in sexto, Ruth
 
 <!-- p. 1194 (1248) -->
 
-⁶ E dal septomo grado in giù, sì come\
+6 E dal septomo grado in giù, sì come\
 &emsp;Infino ad esso, succedon Hebree,\
 &emsp;Dirimendo del fior tutte le chiome;
 
-⁶ Et a septimo gradu infra, sicut\
+6 Et a septimo gradu infra, sicut\
 &emsp;Usque ad ipsas, succedunt Hebree,\
 &emsp;Dirimendo de flore omnes comas;
 
-⁷ Perchè, secondo lo sguardo che fee\
+7 Perchè, secondo lo sguardo che fee\
 &emsp;La fede in Chrysto, queste son el muro\
 &emsp;A che si parten le sacre scalee.
 
-⁷ Quia, secundum intuitum qui fecit\
+7 Quia, secundum intuitum qui fecit\
 &emsp;Fidem ad Christum, iste est murus\
 &emsp;A quo dividuntur sacre scalee.
 
-⁸ Da questa parte, onde 'l fiore è maturo\
+8 Da questa parte, onde 'l fiore è maturo\
 &emsp;Di tutte le sue fogle, son assisi\
 &emsp;Quei che credetter in Chrysto venturo.
 
-⁸ Ab ista parte, unde flos est maturus\
+8 Ab ista parte, unde flos est maturus\
 &emsp;In omnibus suis foliis, sunt assisi\
 &emsp;Illi qui crediderunt in Christum venturum.
 
-⁹ Dall'altra parte, onde sono intercisi\
+9 Dall'altra parte, onde sono intercisi\
 &emsp;Devoti in semicirculo, si stanno\
 &emsp;Quei ch'a Chrysto venuto ebber li visi.
 
-⁹ Ab alia parte, unde sunt intercisi\
+9 Ab alia parte, unde sunt intercisi\
 &emsp;Devoti semicirculi, invicem stant\
 &emsp;Illi qui ad Christum postquam venit habuerunt visus.
 
-¹⁰ E come quinci el glorioso scanno\
+10 E come quinci el glorioso scanno\
 &emsp;De la donna del ciel, e gl'altri scanni\
 &emsp;Di sotto lui cotanta cerna fanno;
 
-¹⁰ Et sicut hinc gloriosum scampnum\
+10 Et sicut hinc gloriosum scampnum\
 &emsp;Domine celi, et alia scampna\
 &emsp;Sub ipso tantam cernam faciunt;
 
-¹¹ Così di contra quel del gran Giovanni,\
+11 Così di contra quel del gran Giovanni,\
 &emsp;Che sempre sancto el deserto e'l martiro\
 &emsp;Sofferse, e poi l'Inferno da due anni;
 
-¹¹ Sic contra illud magni Ioannis,\
+11 Sic contra illud magni Ioannis,\
 &emsp;Qui semper sanctus desertum et martyrium\
 &emsp;Sustulit, et postea Infernum per duos annos;
 
-¹² E sotto lui così cerne[r] sortiro\
+12 E sotto lui così cerne[r] sortiro\
 &emsp;Francesco, Benedecto et Augustino,\
 &emsp;Et altri fin quaggiù di giro in giro.
 
-¹² Et sub eo sic ordinem sortiti sunt\
+12 Et sub eo sic ordinem sortiti sunt\
 &emsp;Franciscus, Benedictus et Augustinus,\
 &emsp;Et alii usque huc de gyro in gyrum.
 
-¹³ Or mira l'alto proveder divino,\
+13 Or mira l'alto proveder divino,\
 &emsp;Che l'un e l'altro aspecto della fede\
 &emsp;Equalmente empierà questo giardino.
 
-¹³ Nunc respice altum videre divinum,\
+13 Nunc respice altum videre divinum,\
 &emsp;Quia uno et alio aspectu fidei\
 &emsp;Equaliter implebit istud viridarium.
 
@@ -194,85 +194,85 @@ Nunc respice altum, idest profundissimum, videre divinum, idest Providentiam div
 
 <!-- p. 1195 (1249) -->
 
-¹⁴ E sappi che dal grado in giù, che fiede\
+14 E sappi che dal grado in giù, che fiede\
 &emsp;A mezzo 'l tracto e le due distinctioni,\
 &emsp;Per nullo proprio merito si siede,
 
-¹⁴ Et scias quod a gradu inferiori, qui ferit\
+14 Et scias quod a gradu inferiori, qui ferit\
 &emsp;Ad medium tractum duarum discretionum,\
 &emsp;Propter nullum proprium meritum ibi sedent,
 
-¹⁵ Ma per altrui (¹) con certe condictioni;\
+15 Ma per altrui (1) con certe condictioni;\
 &emsp;Chè tutti questi son spiriti asciolti\
 &emsp;Prima ch'havesser vere electioni.
 
-¹⁵ Sed propter aliena cum certis conditionibus;\
+15 Sed propter aliena cum certis conditionibus;\
 &emsp;Quia omnes isti sunt spiritus soluti\
 &emsp;Priusquam haberent veras electiones.
 
-(¹) merito.
+(1) merito.
 
 Et scias quod a gradu in gradum. E sappi che del grado in giù: hec est secunda pars huius capituli, in qua auctor describit beatitudinem et gloriam parvulorum innocentium. Hic notandum est quod, sicut erat linea a supra ad infra, ita ymaginandum est, quod [erat] una linea per transversum, ita quod sunt sic in parte sinistra due partes, in quarum suprema sunt illi, qui propter sua merita illuc ascenderunt, et in alia sunt illi innocentes, qui illuc ascenderunt per gloriam, scilicet propter merita Christi et fidem parentum. Ita in parte dextra ubi sunt illi de Testamento novo, sicut in sinistra [ubi] sunt illi de Testamento veteri, sunt due partes; in quarum superiori sunt illi qui propter sua merita sunt illuc deportati, in inferiori sunt innocentes qui solum propter merita Christi et fidem Ecclesie sunt illic beati. Nota quod propter merita Christi omnes qui sunt salvati, habent salutem, quia Christus in cruce et in aliis suis laboribus meruit vitam eternam pro omnibus hominibus, qui erunt salvati de utroque Testamento. Sunt igitur in celo Empyreo quatuor partes: duo superiores, una a sinistris ubi sunt Sancti Patres antiqui veteris Testamenti, qui propter sua merita sunt ibi; alia a dextris, in qua etiam sunt illi de novo Testamento, qui etiam sunt ibi propter sua merita. Postea sunt due alie partes inferiores, una a sinistris in qua sunt parvuli innocentes, qui [propter merita Christi et fidem parentum sunt ibi; et una a dextris, in qua sunt parvuli innocentes; qui] etiam propter merita Christi et fidem Ecclesie sunt ibi. Et in qualibet istarum partium sunt gradus multi et multi, superiores et inferiores, ut patet in circulo descripto in precedenti folio. Et illi parvuli innocentes, qui sunt in istis duabus partibus inferioribus, tam a sinistris quam a dextris, qui sunt ibi propter merita Christi et fidem parentum, adhuc sunt ibi cum aliquibus conditionibus. Conditiones sunt vel fuerunt iste. In prima etate, conditio fuit cum innocentia fides parentum cum aliquibus oblationibus. Post primas duas etates, fuit conditio necessaria pro masculis cum innocentia circumcisio; sed in tempore gratie, idest in novo Testamento, cum innocentia et cum fide Ecclesie necessarius est baptismus Christi. Sed quia auctori videbatur, et bene, quod adhuc inter parvulos innocentes tam veteris quam novi Testamenti essent gradus, ita quod unus habet plus de gratia quam alter, hoc genuit in mente auctoris unum magnum dubium, unde hoc proveniebat, cum propter nullum meritum alicuius istorum ullus sit ibi. Merita Christi sunt equalia in se, fides parentum est equalis: unde provenit quod illorum parvulorum innocentium aliquis sit beatior alio? Hoc videtur quasi evenire a casu et a fortuna; quod male esset concedendum in celo, imo nullo modo. Dubitanti sic auctori Sanctus Bernardus offert se declaraturum illi dubium istud. Et primo totaliter negat omne casuale punctum, omnem casum, esse in celo, omnem fortunam; dicens, quod sicut non potest esse in illo beato regno sitis, neque fames, nec ulla tristitia, sic nec ullus punctus casualis aut ulla fortuna: quia quidquid est ibi, quod videtur ibi, quodlibet est sicut est stabilitum per eternam legem; et omnia hic sibi invicem respondent, sicut responderi debet ab annulo ad digitum, quia annulus non debet esse latior nec strictior quam sit digitus grossus vel subtilis. Sic isti parvuli sunt hic in celo sic collocati non sine causa sufficienti; esto quod unus sit gloriosior alio et beatior, et sic erit in eternum: quia Deus taliter consolatur, quietat, omnes qui sunt hic, quia nemo potest velle nisi illud quod habet et quod Deus vult eum habere. Sed ista que dicta sunt, valde bona sunt et perfecta; tamen auctor volebat scire causam, unde et propter quam istud evenit: quia illorum parvulorum innocentium, quorum nullus est ibi propter sua merita sed solum propter aliena, quare igitur unus est beatior alio; cum in aliis, scilicet qui propter sua merita sunt hic, maioritas et minoritas beatitudinis proveniat a maioribus meritis et pluribus, quod hic non evenit? Unde ergo est ista diversitas beatitudinis? Volens respondere Sanctus Bernardus, dat causam, dicens, quod Deus qui libere et in suo beneplacito creat animas illas, dotat diversimode et dat eis gratiam suam diversimode et inequaliter; et hoc solum facit, quia sic sibi placet facere, ita quod ipse Deus liberrime et cum suo beneplacito creat animas illas et creando dotat de gratia sua secundum plus et minus; et hoc solum ex hoc provenit, quia placet sibi sic facere: et cui dat plus de gratia sua, ipsa habet postea plus de beatitudine, quam illa anima cui dedit minus de sua gratia. Et hoc satis clare apparuit et claruit in illis duobus gemellis, scilicet Esau et Iacob, filiis Ysaac et Rebecche, qui preliati sunt in ventre matris, ut habetur in Genesi; de quibus ibi habetur, quod in ventre matris habuerunt iram remotam, quia Iacob tenebat Esau per pedem ne egrederetur extra matris corpus ante ipsum. Ideo digne ille innocens habet maiorem gloriam, qui a Deo in sua creatione habet plus de gratia divina. Et ad hoc considerandum debet nobis mortalibus sufficere effectus, idest notitia cum effectu. Nota quod, secundum Aristotilem primo Posteriorum, rerum possumus habere et acquirere notitiam ab effectu ipsarum aliquando, et aliquando per causam. Sed de ista materia istius dubii vult Sanctus Bernardus quod sufficiat nobis scire ab effectu, et non queramus scire per causam; et debemus nos mortales stare contenti de
 
 <!-- p. 1196 (1250) -->
 
-¹⁶ Ben te ne puoi accorger per li volti,\
+16 Ben te ne puoi accorger per li volti,\
 &emsp;Et anco per le voci puerili,\
 &emsp;Se tu gli guardi ben o se gl'ascolti.
 
-¹⁶ Bene potes de hoc perpendere propter vultus,\
+16 Bene potes de hoc perpendere propter vultus,\
 &emsp;Et etiam propter voces pueriles,\
 &emsp;Si tu bene eos respicis et si eos bene auscultas.
 
-¹⁷ Or dubi tu, e dubitando sili;\
+17 Or dubi tu, e dubitando sili;\
 &emsp;Ma io dissolverò 'l forte legame,\
 &emsp;In che ti stringon li pensier soctili.
 
-¹⁷ Nunc dubitas tu, et dubitando siles;\
+17 Nunc dubitas tu, et dubitando siles;\
 &emsp;Sed ego dissolvam forte ligamen,\
 &emsp;In quo te stringunt cogitationes subtiles.
 
-¹⁸ Dentro all'ampiezza di questo reame\
+18 Dentro all'ampiezza di questo reame\
 &emsp;Causal puncto non può haver sito,\
 &emsp;Se non come tristitia, o sete, o fame;
 
-¹⁸ Intra amplitudinem istius regni\
+18 Intra amplitudinem istius regni\
 &emsp;Casualis punctus non potest habere situm,\
 &emsp;Nisi sicut tristitia, vel sitis, vel fames:
 
-¹⁹ Chè per eterna legge è stabilito\
+19 Chè per eterna legge è stabilito\
 &emsp;Quantunque vedi, sì che giustamente\
 &emsp;Ci si risponde dall'anello al dito.
 
-¹⁹ Quia per eternam legem est stabilitum\
+19 Quia per eternam legem est stabilitum\
 &emsp;Quantumcumque vides, ita quod iuste hic\
 &emsp;Respondetur ab annulo ad digitum.
 
-²⁰ E però questa festinata gente\
-&emsp;A vera vita, non è sine (¹) causa\
+20 E però questa festinata gente\
+&emsp;A vera vita, non è sine (1) causa\
 &emsp;Entr' a sè qui più e men excellente.
 
-²⁰ Et ideo ista festinata gens\
+20 Et ideo ista festinata gens\
 &emsp;Ad veram vitam, non est sine causa,\
 &emsp;Et stabitur hic plus et minus excellenter.
 
-²¹ Lo Rege, per cui questo regno pausa\
+21 Lo Rege, per cui questo regno pausa\
 &emsp;In tanto amor et in tanto dilecto,\
 &emsp;Che nulla volontà è del più ausa,
 
-²¹ Rex, per quem istud regnum pausat\
+21 Rex, per quem istud regnum pausat\
 &emsp;In tanto amore et tanta delectatione,\
 &emsp;Quod nulla voluntas est amplius anxia,
 
-²² Le menti tutte nel suo lieto aspecto,\
+22 Le menti tutte nel suo lieto aspecto,\
 &emsp;Creando, a suo piacer di gratia dota\
 &emsp;Diversamente: e qui basti l'effecto.
 
-²² Mentes omnes in suo leto aspectu,\
+22 Mentes omnes in suo leto aspectu,\
 &emsp;Creando, ad suum placitum illas dotat\
 &emsp;Diversimode: et hic sufficiat effectus.
 
-(¹) al. senza.
+(1) al. senza.
 
 questione quia, et non querere in hac materia propter quid, idest causam. Hec materia de scire propter quia et propter quid, diffuse fuit tacta in Purgatorio et in capitulo tertio. Istis dictis ad textum procedatur.
 
@@ -290,79 +290,79 @@ Rex, per quem istud regnum, idest Deus, pausat, idest quietat, in tanto amore et
 
 <!-- p. 1197 (1251) -->
 
-²³ E ciò expresso e chiaro vi (¹) si nota\
-&emsp;Nella Scriptura Sancta, in quei gemelli (²)\
-&emsp;Che ne la madre (³) ebber l'ira commota (⁴).
+23 E ciò expresso e chiaro vi (1) si nota\
+&emsp;Nella Scriptura Sancta, in quei gemelli (2)\
+&emsp;Che ne la madre (3) ebber l'ira commota (4).
 
-²³ Et hoc expressum et clarum nobis notatur,\
+23 Et hoc expressum et clarum nobis notatur,\
 &emsp;In Sacra Scriptura, in illis gemellis\
 &emsp;Qui in matre habuerunt iram commotam.
 
-²⁴ Però, secondo el color de'capelli,\
+24 Però, secondo el color de'capelli,\
 &emsp;Di cotal gratia l'altissimo lume\
 &emsp;Degnamente convien che s'incapelli.
 
-²⁴ Ideo, secundum colorem capillorum,\
+24 Ideo, secundum colorem capillorum,\
 &emsp;De tali gratia altissimum lumen\
 &emsp;Digne convenit quod incapilletur.
 
-²⁵ Dumque, senza mercè di lor costume,\
+25 Dumque, senza mercè di lor costume,\
 &emsp;Locati son per gradi differenti,\
 &emsp;Sol differendo nel primiero acume.
 
-²⁵ Igitur, sine mercede eorum morum,\
+25 Igitur, sine mercede eorum morum,\
 &emsp;Locati sunt per gradus differentes,\
 &emsp;Solum differendo in primo acumine.
 
-²⁶ Bastava sì ne'secoli recenti\
+26 Bastava sì ne'secoli recenti\
 &emsp;Coll'innocenza, per haver salute,\
 &emsp;Solamente la fede de'parenti.
 
-²⁶ Sufficiebat eis in seculis recentibus\
+26 Sufficiebat eis in seculis recentibus\
 &emsp;Cum innocentia, [pro] habere salutem,\
 &emsp;Solummodo fides parentum.
 
-²⁷ Poi che le prime etadi fur compiute,\
+27 Poi che le prime etadi fur compiute,\
 &emsp;Convenne a'maschi l'innocenti penne,\
 &emsp;Per circumcider, acquistar virtute.
 
-²⁷ Postquam prime etates fuerunt complete,\
+27 Postquam prime etates fuerunt complete,\
 &emsp;Oportuit masculos ad innocentes pennas,\
 &emsp;Per circumcisionem, acquirere virtutem.
 
-²⁸ Ma, poi che 'l tempo de la gratia venne,\
-&emsp;Senza baptesmo (⁵) perfecto di Chrysto,\
-&emsp;Tal innocentia laggiù (⁶) si ritenne.
+28 Ma, poi che 'l tempo de la gratia venne,\
+&emsp;Senza baptesmo (5) perfecto di Chrysto,\
+&emsp;Tal innocentia laggiù (6) si ritenne.
 
-²⁸ Sed, postquam tempus gratie advenit,\
+28 Sed, postquam tempus gratie advenit,\
 &emsp;Sine baptismathe perfecto Christi,\
 &emsp;Talis innocentia inferius non fuit.
 
-²⁹ Riguarda omai ne la faccia di (⁷) Chrysto\
-&emsp;Più s'assomigla (⁸), chè (⁹) la sua chiarezza\
-&emsp;Sola (¹⁰) ti può disporre a veder Chrysto.
+29 Riguarda omai ne la faccia di (7) Chrysto\
+&emsp;Più s'assomigla (8), chè (9) la sua chiarezza\
+&emsp;Sola (10) ti può disporre a veder Chrysto.
 
-²⁹ Respice ammodo in faciem que Christo\
+29 Respice ammodo in faciem que Christo\
 &emsp;Plus assimilatur, nam illa claritas\
 &emsp;Sic te potest disponere ad videndum Christum.
 
-³⁰ Io vidi sopra lei tanta allegrezza\
+30 Io vidi sopra lei tanta allegrezza\
 &emsp;Piover, portata ne le menti sancte,\
 &emsp;Create a transvolar per quell'altezza,
 
-³⁰ Ego vidi supra ipsam tantam letitiam\
+30 Ego vidi supra ipsam tantam letitiam\
 &emsp;Pluere, portatam in eternas mentes,\
 &emsp;Creatas ad transvolandum per illam altitudinem,
 
-³¹ Che quantunqu'io havea visto davante,\
+31 Che quantunqu'io havea visto davante,\
 &emsp;Di tanta ammiration non mi sospese,\
 &emsp;Nè mi mostrò di Dio tanto sembiante.
 
-³¹ Quod quantumcumque ego videram ante,\
+31 Quod quantumcumque ego videram ante,\
 &emsp;In tantam admirationem non me suspendit,\
 &emsp;Nec michi monstravit de Deo tantum similitudinem.
 
-(¹) a voi — (²) Esau e Iacob — (³) in utero matris Rebecce — (⁴) a combattere insieme — (⁵) fluminis, flaminis, vel sanguinis — (⁶) nel Limbo — (⁷) al. ch'à — (⁸) cioè di Maria — (⁹) per che — (¹⁰) e non altra.
+(1) a voi — (2) Esau e Iacob — (3) in utero matris Rebecce — (4) a combattere insieme — (5) fluminis, flaminis, vel sanguinis — (6) nel Limbo — (7) al. ch'à — (8) cioè di Maria — (9) per che — (10) e non altra.
 
 Et hoc expressum et clarum vobis, scilicet mortalibus, notatur in Scriptura Sancta, scilicet in libro Genesis, in illis gemellis, scilicet Esau et Iacob, qui in matre habuerunt iram commotam.
 
@@ -380,71 +380,71 @@ Riguarda omai. Respice ammodo: hec est tertia pars huius capituli, in qua auctor
 
 <!-- p. 1198 (1252) -->
 
-³² E quello amor che primo lì discese,\
+32 E quello amor che primo lì discese,\
 &emsp;Cantando: Ave, Maria, gratia plena,\
 &emsp;Dinanzi a lei le sue hali distese.
 
-³² Et ille amor qui prius illuc descendit,\
+32 Et ille amor qui prius illuc descendit,\
 &emsp;Cantando: Ave, Maria, gratia plena,\
 &emsp;Ante eam suas alas extendit.
 
-³³ Rispose alla divina cantilena\
+33 Rispose alla divina cantilena\
 &emsp;Da tutte parti la beata corte,\
 &emsp;Sì ch' ogni vista sen fe' più serena.
 
-³³ Respondit ad divinam cantilenam\
+33 Respondit ad divinam cantilenam\
 &emsp;Ab omnibus partibus beata curia,\
 &emsp;Ita quod omnis aspectus fuit factus magis clarus.
 
-³⁴ O sancto Padre, che per me comporte\
+34 O sancto Padre, che per me comporte\
 &emsp;L'esser quaggiù, lassando 'l dolce loco\
 &emsp;Nel qual tu siedi per eterna sorte,
 
-³⁴ O sancte Pater, qui per me comportas\
+34 O sancte Pater, qui per me comportas\
 &emsp;Esse hic infra, dimictendo dulcem locum\
 &emsp;In quo tu sedes per eternam sortem,
 
-³⁵ Qual è quell'angel, che con tanto gioco\
+35 Qual è quell'angel, che con tanto gioco\
 &emsp;Guarda negl'ochi a la nostra Regina,\
 &emsp;Innamorato sì che par di foco?
 
-³⁵ Qualis est ille angelus, qui toto gaudio\
+35 Qualis est ille angelus, qui toto gaudio\
 &emsp;Respicit in oculis nostre Regine,\
 &emsp;Philocaptus ita quod apparet de igne?
 
-³⁶ Così ricorsi ancor a la doctrina\
+36 Così ricorsi ancor a la doctrina\
 &emsp;Di colui, ch' abbelliva di Maria,\
 &emsp;Come del sole stella mattutina.
 
-³⁶ Recucurri adhuc sic ad doctrinam\
+36 Recucurri adhuc sic ad doctrinam\
 &emsp;Illius, qui pulcher efficiebatur ex Maria,\
 &emsp;Sicut de sole stella matutina.
 
-³⁷ Et elli a me: Baldezza e leggiadria,\
+37 Et elli a me: Baldezza e leggiadria,\
 &emsp;Quant'esser puote in angel et in alma,\
 &emsp;Tutt' è in lui, e sì voliam che sia;
 
-³⁷ Et ille michi: Letitia et pulchritudo,\
+37 Et ille michi: Letitia et pulchritudo,\
 &emsp;Quanta esse potest in angelo et in anima,\
 &emsp;Tota est in eo, et sic volumus quod sit;
 
-³⁸ Perch' elli è quelli che portò la palma\
+38 Perch' elli è quelli che portò la palma\
 &emsp;Giù a Maria, quando 'l Figliuol di Dio\
-&emsp;Carcar si volse della nostra salma (¹).
+&emsp;Carcar si volse della nostra salma (1).
 
-³⁸ Quia ipse est ille, qui portavit palmam\
+38 Quia ipse est ille, qui portavit palmam\
 &emsp;Infra ad Mariam, quando Filius Dei\
 &emsp;Honerare se voluit de nostra salma.
 
-³⁹ Ma vienne omai cogl'ochi, sì com' io\
+39 Ma vienne omai cogl'ochi, sì com' io\
 &emsp;Andrò parlando, e nota e gran patrici\
 &emsp;Di questo imperio iustissimo e pio.
 
-³⁹ Sed venias ammodo cum oculis, sicut ego\
+39 Sed venias ammodo cum oculis, sicut ego\
 &emsp;Ibo loquendo, et nota grandes patritios\
 &emsp;Istius imperii iusti[ss]imi et pii.
 
-(¹) carne umana.
+(1) carne umana.
 
 Tunc auctor respiciens in faciem Marie, vidit maximam letitiam portatam a Sanctis, qui sunt ibi; et quidquid viderat ante, idest usque huc, auctor, [non] dederat sibi tantam causam admirationis. Et ecce tunc subito supervenit Gabriel angelus, salutans Virginem, dicens: Ave, Maria, gratia plena; et sic responderunt omnes angeli et spiritus, ita quod omnes erant in bona serenitate et in magna letitia. Riguarda omai, respice ammodo, in faciem que Christo plus assimilatur: nam illa claritas sic te potest disponere ad videndum Christum.
 
@@ -464,63 +464,63 @@ Sed venias ammodo. Ma vieni omai: hec est quarta pars huius capituli, in qua auc
 
 <!-- p. 1199 (1253) -->
 
-⁴⁰ Quei due che seggion lassù più felici,\
-&emsp;Per esser propinquissimi ad Augusta (¹),\
+40 Quei due che seggion lassù più felici,\
+&emsp;Per esser propinquissimi ad Augusta (1),\
 &emsp;Son d'esta rosa quasi due radici.
 
-⁴⁰ Illi duo qui sedent ibi supra plus felices,\
+40 Illi duo qui sedent ibi supra plus felices,\
 &emsp;Ut sunt propinquissimi Auguste,\
 &emsp;Sunt istius rose quasi duo radices.
 
-⁴¹ Colui che da sinixtra le s'aggiusta (²),\
-&emsp;È 'l padre (³), per lo cui ardito gusto\
+41 Colui che da sinixtra le s'aggiusta (2),\
+&emsp;È 'l padre (3), per lo cui ardito gusto\
 &emsp;L'humana spetie tanto amaro gusta.
 
-⁴¹ Ille qui ad sinistram iuxta eam stat,\
+41 Ille qui ad sinistram iuxta eam stat,\
 &emsp;Est pater, propter cuius audacem gustum\
 &emsp;Humana species tantum amarum gustat.
 
-⁴² Da dextra vedi quel Padre vetusto (⁴)\
+42 Da dextra vedi quel Padre vetusto (4)\
 &emsp;Di Sancta Chiesa, a cui Chrysto le chiavi\
 &emsp;Raccomandò di questo fior venusto.
 
-⁴² A dextris vides illum patrem vetustum\
+42 A dextris vides illum patrem vetustum\
 &emsp;Sancte Ecclesie, cui Christus claves\
 &emsp;Recommendavit istius floris venusti.
 
-⁴³ E quei (⁵) che vide tucti e tempi (⁶) gravi,\
-&emsp;Pria che morisse, della bella sposa (⁷)\
-&emsp;Che s'acquistò co'la lancia e co'chiavi (⁸),
+43 E quei (5) che vide tucti e tempi (6) gravi,\
+&emsp;Pria che morisse, della bella sposa (7)\
+&emsp;Che s'acquistò co'la lancia e co'chiavi (8),
 
-⁴³ Et ille qui vidit omnia tempora gravia,\
+43 Et ille qui vidit omnia tempora gravia,\
 &emsp;Priusquam moreretur, pulchre sponse\
 &emsp;Que acquisita fuit cum lancea et clavis,
 
-⁴⁴ Siede lunghesso (⁹); e lungo l'altro (¹⁰) posa\
-&emsp;Quel duca (¹¹), sotto cui vixe di manna\
-&emsp;La gente ingrata (¹²), mobile e retrosa.
+44 Siede lunghesso (9); e lungo l'altro (10) posa\
+&emsp;Quel duca (11), sotto cui vixe di manna\
+&emsp;La gente ingrata (12), mobile e retrosa.
 
-⁴⁴ Sedet iuxta eum; et prope alium quiescit\
+44 Sedet iuxta eum; et prope alium quiescit\
 &emsp;Ille dux, sub quo vixit de manna\
 &emsp;Gens ingrata, mobilis et retrorsa.
 
-⁴⁵ Di contro a Pietro vedi seder Anna,\
+45 Di contro a Pietro vedi seder Anna,\
 &emsp;Tanto contenta di mirar sua figla,\
 &emsp;Che non muove ochio per cantar Osanna.
 
-⁴⁵ E contra Petrum videas sedere Annam,\
+45 E contra Petrum videas sedere Annam,\
 &emsp;Tantum contenta de respiciendo suam filiam,\
 &emsp;Quod non movet oculos propter cantare Osanna.
 
-⁴⁶ E contr' al maggior padre di famigla\
+46 E contr' al maggior padre di famigla\
 &emsp;Siede Lucia, che mosse [la] tua donna,\
-&emsp;Quando chinavi (¹³), a ruinar, le cigla (¹⁴).
+&emsp;Quando chinavi (13), a ruinar, le cigla (14).
 
-⁴⁶ Et e contra maiorem patrem familie\
+46 Et e contra maiorem patrem familie\
 &emsp;Sedet Lucia, que movit tuam dominam,\
 &emsp;Quando inclinabas, ad ruinandum, supercilia.
 
-(¹) Maria — (²) appressa — (³) Adam — (⁴) Pietro — (⁵) quello Giovanni Evangelista — (⁶) discorsi — (⁷) Chiesa — (⁸) di Chrysto, — (⁹) Pietro — (¹⁰) Adam — (¹¹) Moise — (¹²) de'Giudei — (¹³) a la terra — (¹⁴) gl' ochi.
+(1) Maria — (2) appressa — (3) Adam — (4) Pietro — (5) quello Giovanni Evangelista — (6) discorsi — (7) Chiesa — (8) di Chrysto, — (9) Pietro — (10) Adam — (11) Moise — (12) de'Giudei — (13) a la terra — (14) gl' ochi.
 
 illustres. Dicit igitur hic Bernardus auctori: Respicias semper sicut tibi dicam, ut possis videre spiritus illustres. Sed venias ammodo cum oculis, scilicet respiciendo, sicut ego ibo loquendo, et nota grandes patritios (nota: patritii dicebantur antiquitus filii patrum et Consularium romanorum) istius imperii iustissimi et pii.
 
@@ -542,41 +542,41 @@ Et e contra maiorem patrem familie, scilicet Petrum, sedet Lucia, que significat
 
 <!-- p. 1200 (1254) -->
 
-⁴⁷ Ma perchè 'l tempo fugge, che t' assonna,\
+47 Ma perchè 'l tempo fugge, che t' assonna,\
 &emsp;Qui faren punto, come 'l buon sartore\
 &emsp;Che, com'elli ha del panno, fa la gonna;
 
-⁴⁷ Sed quia tempus fugit, quod te sompnolentum reddit,\
+47 Sed quia tempus fugit, quod te sompnolentum reddit,\
 &emsp;Hic faciemus punctum, sicut bonus sartor\
 &emsp;Qui, sicut habet de panno, facit gonnam;
 
-⁴⁸ E dirizzremo gl' ochi al primo Amore,\
+48 E dirizzremo gl' ochi al primo Amore,\
 &emsp;Sì che, guardando verso lui, penetri,\
-&emsp;Quant' è possibil (¹), per lo suo fulgore.
+&emsp;Quant' è possibil (1), per lo suo fulgore.
 
-⁴⁸ Et dirigemus oculos ad primum Amorem,\
+48 Et dirigemus oculos ad primum Amorem,\
 &emsp;Ita quod, respiciendo versus eum, penetres,\
 &emsp;Quantum est possibile, per suum fulgorem.
 
-⁴⁹ Veramente, non forse tu t' arretri (²),\
-&emsp;Movendo l'hali (³) tue, credend'oltrarti (⁴),\
-&emsp;Orando (⁵) gratia convien che s'impetri,
+49 Veramente, non forse tu t' arretri (2),\
+&emsp;Movendo l'hali (3) tue, credend'oltrarti (4),\
+&emsp;Orando (5) gratia convien che s'impetri,
 
-⁴⁹ Vere, ne forsan tu te retrahas,\
+49 Vere, ne forsan tu te retrahas,\
 &emsp;Movendo alas tuas, credendo procedere ultra,\
 &emsp;Orando gratia oportet quod impetretur,
 
-⁵⁰ Gratia (⁶) da quella che ben può aitarti;\
+50 Gratia (6) da quella che ben può aitarti;\
 &emsp;E tu mi segui coll' affectione,\
-&emsp;Sì che dal dicer mio el cor (⁷) non parti (⁸).\
-&emsp;E cominciò (⁹) questa (¹⁰) sancta oratione (¹¹).
+&emsp;Sì che dal dicer mio el cor (7) non parti (8).\
+&emsp;E cominciò (9) questa (10) sancta oratione (11).
 
-⁵⁰ Gratia ab illa que potest te adiuvare;\
+50 Gratia ab illa que potest te adiuvare;\
 &emsp;Et tu me sequeris cum affectione,\
 &emsp;Ita quod a dicere meo cor non discedat.\
 &emsp;Et incepit istam sanctam orationem.
 
-(¹) all'humana intelligentia — (²) al. non, idest sine dubio ti fai indietro, overo, corri a dietro — (³) l'ingegno — (⁴) andare innanzi co' la tua intelligentia — (⁵) adonque con oratione — (⁶) dico non tal quale, ma — (⁷) tuo — (⁸) separi — (⁹) Bernardo — (¹⁰) che seguita — (¹¹) alla Vergine Maria.
+(1) all'humana intelligentia — (2) al. non, idest sine dubio ti fai indietro, overo, corri a dietro — (3) l'ingegno — (4) andare innanzi co' la tua intelligentia — (5) adonque con oratione — (6) dico non tal quale, ma — (7) tuo — (8) separi — (9) Bernardo — (10) che seguita — (11) alla Vergine Maria.
 
 fuit satis dictum in secundo capitulo Inferni), que movit tuam dominam, scilicet Beatricem, quando inclinabas, ad ruendum, supercilia, idest caput.
 

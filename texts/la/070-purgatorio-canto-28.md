@@ -26,23 +26,23 @@ in illis libris habemus quidquid habemus de fide. Bini veniunt, ad denotandum co
 
 # Capitulum Vicesimumoctavum
 
-¹ Vago già di cerchar dentro e dintorno\
+1 Vago già di cerchar dentro e dintorno\
 &emsp;La divina foresta spessa e viva,\
 &emsp;Che gl'ochi temperava al nuovo giorno,
 
-¹ Vagus iam querendi intus et circum\
+1 Vagus iam querendi intus et circum\
 &emsp;Divinam forestam spissam et vivam,\
 &emsp;Que oculis temperabat novum diem,
 
-² Senza più aspettar lasciai la riva,\
+2 Senza più aspettar lasciai la riva,\
 &emsp;Prendendo la campagna lento lento\
-&emsp;Su per lo suol che d'ogni parte oliva (¹).
+&emsp;Su per lo suol che d'ogni parte oliva (1).
 
-² Sine ulterius expectare dimisi ripam,\
+2 Sine ulterius expectare dimisi ripam,\
 &emsp;Apprehendendo campaneam lente lente\
 &emsp;Super solum [quod] ex omni parte olebat.
 
-(¹) rendeva odore.
+(1) rendeva odore.
 
 Vagus iam querendi. Vago: istud est vicesimumoctavum capitulum huius Purgatorii, in quo auctor describit Paradisum delitiarum terrestrem. Dividitur in quatuor partes principales. In quarum prima describitur [conditio] Paradisi terrestris, quantum ad suas arbores, quantum ad ventum qui ibi regnat, quantum ad aves que ibi habitant cantant, quantum ad aquam que irrigat Paradisum.
 
@@ -64,55 +64,55 @@ Vagus, idest avidus, factus iam, scilicet propter verba Virgilii, querendi intus
 
 <!-- p. 750 (0804) -->
 
-³ Un' aura dolce (¹), senza mutamento (²)\
+3 Un' aura dolce (1), senza mutamento (2)\
 &emsp;Haver in sè, mi feria per la fronte,\
-&emsp;Non di più colpo (³) che soave vento;
+&emsp;Non di più colpo (3) che soave vento;
 
-³ Una aura dulcis, sine mutamento\
+3 Una aura dulcis, sine mutamento\
 &emsp;Habere in se, me feriebat per frontem,\
 &emsp;Non maioris ictus quam suavis venti;
 
-⁴ Per cui le fronde, tremolando prompte,\
+4 Per cui le fronde, tremolando prompte,\
 &emsp;Tucte quante piegavan alla parte\
-&emsp;U' (⁴) prima l'ombra gitta'l sancto monte:
+&emsp;U' (4) prima l'ombra gitta'l sancto monte:
 
-⁴ Propter quam tremulando frondes pinte\
+4 Propter quam tremulando frondes pinte\
 &emsp;Omnes plicabantur ad partem\
 &emsp;Ubi prius umbram proiicit sacer mons:
 
-⁵ Non però dal lor esser dricto sparte\
-&emsp;Tanto, che gl' augelecti (⁵) per le cime\
-&emsp;Lasciasser d'operar ogni lor arte (⁶);
+5 Non però dal lor esser dricto sparte\
+&emsp;Tanto, che gl' augelecti (5) per le cime\
+&emsp;Lasciasser d'operar ogni lor arte (6);
 
-⁵ Non tamen quod ab earum rectitudine essent sparse\
+5 Non tamen quod ab earum rectitudine essent sparse\
 &emsp;Tantum, quod avicule per summitates\
 &emsp;Dimicterent operari omnem suam artem;
 
-⁶ Ma con piena letitia l'hore prime,\
+6 Ma con piena letitia l'hore prime,\
 &emsp;Cantando, ricevean intra le fogle,\
-&emsp;Che tenean bordone (⁷) a le sue rime.
+&emsp;Che tenean bordone (7) a le sue rime.
 
-⁶ Sed cum plena letitia horas primas,\
+6 Sed cum plena letitia horas primas,\
 &emsp;Cantando, recipiebant intra folia,\
 &emsp;Que tenebant tenorem suis rithymis.
 
-⁷ Tal, qual di ramo in ramo si raccogle\
+7 Tal, qual di ramo in ramo si raccogle\
 &emsp;Per la pianetta, in sul lito de' Chiassi,\
 &emsp;Quand' Euro e Scirocco fuor disciogle.
 
-⁷ Talis, qualis de ramo in ramum colligitur,\
+7 Talis, qualis de ramo in ramum colligitur,\
 &emsp;Per pinetam, super littore Chiassii,\
 &emsp;Quando Eolus Eurum extra disciollit.
 
-⁸ Sì (⁸) m'havien trasportato e lenti passi\
+8 Sì (8) m'havien trasportato e lenti passi\
 &emsp;Dentro alla selva già tanto, ch'io\
-&emsp;Non potea riveder ond'io m'entrassi (⁹):
+&emsp;Non potea riveder ond'io m'entrassi (9):
 
-⁸ Iam me transportaverant lenti passus\
+8 Iam me transportaverant lenti passus\
 &emsp;Intra silvam antiquam tantum, quod ego\
 &emsp;Non poteram videre unde ego intrarem:
 
-(¹) ventarello — (²) continua — (³) violentia — (⁴) dove — (⁵) gli uccelletti — (⁶) di cantare — (⁷) tenore — (⁸) al. già — (⁹) prima.
+(1) ventarello — (2) continua — (3) violentia — (4) dove — (5) gli uccelletti — (6) di cantare — (7) tenore — (8) al. già — (9) prima.
 
 Una aura dulcis, idest levis, sine mutamento, idest magna[m] mutatione[m] habere in se, me feriebat per frontem, non maioris ictus quam suavis venti, propter quam, scilicet auram, frondes, tremulando prompte, omnes plicabantur ad partem, ubi prius umbram proiicit sacer mons, scilicet orientem; non tamen quod ab earum rectitudine essent sparse, idest nimis commote, sive separate tantum, quod avicule per summitates dimicterent operari omnem suam artem, idest cantandi, nidificandi; non impediebantur ab illo vento, sine fugere impetu venti. Iste ventulus suavis figurat turbationem mundanam, quam omnes virtuosi sciunt pacienter sufferire, nec propter illam discedunt a virtute.
 
@@ -124,71 +124,71 @@ Iam me transportaverant lenti passus intra silvam antiquam (quia primi parentes 
 
 <!-- p. 751 (0805) -->
 
-⁹ Et ecco più andar (¹) mi tolse (²) un rio,\
+9 Et ecco più andar (1) mi tolse (2) un rio,\
 &emsp;Che 'nver sinistra con sue picciol'onde\
 &emsp;Piegava l'herba che 'n sua riva uscio.
 
-⁹ Et ecce unus rivus ulterius ire michi subtraxit,\
+9 Et ecce unus rivus ulterius ire michi subtraxit,\
 &emsp;Qui versus sinistram cum suis parvis undis\
 &emsp;Plicabat herbam que in sua ripa exivit.
 
-¹⁰ Tucte l'acque che son di qua più monde (³),\
+10 Tucte l'acque che son di qua più monde (3),\
 &emsp;Parríano haver in sè mixtura alcuna,\
-&emsp;Verso di quella che nulla nasconde (⁴);
+&emsp;Verso di quella che nulla nasconde (4);
 
-¹⁰ Omnes aque que sunt in mundo magis munde,\
+10 Omnes aque que sunt in mundo magis munde,\
 &emsp;Viderentur in se habere mixturam aliquam,\
 &emsp;Respectu illius que nullam rem abscondit;
 
-¹¹ Avegnache si mova bruna bruna\
+11 Avegnache si mova bruna bruna\
 &emsp;Socto l'ombra perpetua, che mai\
 &emsp;Raggiar ivi non lascia sol nè luna.
 
-¹¹ Quamquam moveatur bruna bruna\
+11 Quamquam moveatur bruna bruna\
 &emsp;Sub umbra perpetua, que nunquam\
 &emsp;Permictit radiare solem ibi neque lunam.
 
-¹² Co' piè ristecti e cogl'occhi passai\
+12 Co' piè ristecti e cogl'occhi passai\
 &emsp;Di là dal fiumicel, per ammirare\
-&emsp;La gran varietà (⁵) de'freschi mai (⁶)
+&emsp;La gran varietà (5) de'freschi mai (6)
 
-¹² Cum pedibus steti et cum oculis transivi\
+12 Cum pedibus steti et cum oculis transivi\
 &emsp;Ultra fluviolum, propter admirari\
 &emsp;Grandem variationem recentium maiorum:
 
-¹³ E là m'apparve, sì com'elli appare\
+13 E là m'apparve, sì com'elli appare\
 &emsp;Subitamente cosa che desia\
 &emsp;Per maraviglia tutt'altro pensare,
 
-¹³ Et ibi michi apparuit, sicut aliquando apparet\
+13 Et ibi michi apparuit, sicut aliquando apparet\
 &emsp;Subito res que deviat\
 &emsp;Propter admirationem omne aliud cogitare,
 
-¹⁴ Una donna soletta, che si gia\
+14 Una donna soletta, che si gia\
 &emsp;Cantando e riscegliendo fior da fiore,\
 &emsp;Ond'era pincta tutta la sua via.
 
-¹⁴ Una domina sola que ibat\
+14 Una domina sola que ibat\
 &emsp;Cantando, et eligendo florem a flore,\
 &emsp;Unde erat picta tota sua via.
 
-¹⁵ De! bella donna, ch'a' raggi d'amore\
+15 De! bella donna, ch'a' raggi d'amore\
 &emsp;Ti scaldi, s'io voglo creder a'sembianti,\
 &emsp;Che soglon esser testimon del core,
 
-¹⁵ De! pulchra domina, que ad radios amoris\
+15 De! pulchra domina, que ad radios amoris\
 &emsp;Te calefacis, si ego volo credere signis,\
 &emsp;Que solent esse testimonia cordis,
 
-¹⁶ Vegnati vogla di trarti davanti,\
+16 Vegnati vogla di trarti davanti,\
 &emsp;Diss'io a lei, verso questa riviera,\
 &emsp;Tanto ch'io possa intender quel che canti.
 
-¹⁶ Veniat tibi voluntas trahere te ante,\
+16 Veniat tibi voluntas trahere te ante,\
 &emsp;Dixi ego ad eam, versus istam ripariam,\
 &emsp;Tantum quod ego possim intelligere quod tu cantas.
 
-(¹) oltra — (²) impedì — (³) nel nostro habitabile — (⁴) per la sua chiarezza — (⁵) al. variation — (⁶) arbori.
+(1) oltra — (2) impedì — (3) nel nostro habitabile — (4) per la sua chiarezza — (5) al. variation — (6) arbori.
 
 senes) tantum, quod ego non poteram revidere, idest locum, unde ego intrassem.
 
@@ -206,63 +206,63 @@ De! (dictio deprecativa) pulchra domina (ecce deprecatur ipsam), que ad radios a
 
 <!-- p. 752 (0806) -->
 
-¹⁷ Tu mi fai rimembrar, dove e qual era\
+17 Tu mi fai rimembrar, dove e qual era\
 &emsp;Proserpyna nel tempo che perdecte\
 &emsp;La madre lei, et ella primavera.
 
-¹⁷ Tu facis me reminisci, ubi et qualis erat\
+17 Tu facis me reminisci, ubi et qualis erat\
 &emsp;Proserpina in tempore in quo perdidit illam\
 &emsp;Mater, et illa tempus veris.
 
-¹⁸ Come si volge, colle piante strecte\
+18 Come si volge, colle piante strecte\
 &emsp;A terra et intra sè, donna che balli,\
 &emsp;E piede innanzi piede a pena mette,
 
-¹⁸ Sicut se volvit, cum plantis strictis\
+18 Sicut se volvit, cum plantis strictis\
 &emsp;Ad terram et intra se, domina que tripudiet,\
 &emsp;Et pedem ante pedem vix mictit,
 
-¹⁹ Volsesi in su' vermigli et in su' gialli\
+19 Volsesi in su' vermigli et in su' gialli\
 &emsp;Fioretti verso me, non altrimenti\
-&emsp;Che vergine che gl'ochi honesti avalli (¹);
+&emsp;Che vergine che gl'ochi honesti avalli (1);
 
-¹⁹ Volvit se super rubeos et super fulvos\
+19 Volvit se super rubeos et super fulvos\
 &emsp;Flosculos versus me, non aliter\
 &emsp;Quam virgo que oculos honestos inclinet;
 
-²⁰ E fece e preghi miei esser contenti,\
+20 E fece e preghi miei esser contenti,\
 &emsp;Sì appressando sè, che 'l dolce sono\
 &emsp;Venia a me co' suoi intendimenti.
 
-²⁰ Et fecit preces meas esse contentas,\
+20 Et fecit preces meas esse contentas,\
 &emsp;Se appropinquando ita, quod dulcis sonus\
 &emsp;Veniebat ad me cum suis intelligentiis.
 
-²¹ Tosto che fu là dove l'herbe sono\
+21 Tosto che fu là dove l'herbe sono\
 &emsp;Bagnate già dall'onde del bel fiume,\
-&emsp;Di levar (²) gl'ochi suoi mi fece dono.
+&emsp;Di levar (2) gl'ochi suoi mi fece dono.
 
-²¹ Statim quod fuit ibi ubi herbe sunt\
+21 Statim quod fuit ibi ubi herbe sunt\
 &emsp;Balneate iam ab undis pulchri fluminis,\
 &emsp;Levandi oculos suos michi fecit donum.
 
-²² Nè credo che splendesse tanto lume\
+22 Nè credo che splendesse tanto lume\
 &emsp;Sotto le cigla a Venere traficta\
 &emsp;Dal figlo, fuor di tucto suo costume.
 
-²² Non credo quod splenduerit tantum lumen\
+22 Non credo quod splenduerit tantum lumen\
 &emsp;Sub superciliis Veneri transfixe\
 &emsp;A filio, extra omnem morem suum.
 
-²³ Ella ridea dall'altra riva dricta,\
+23 Ella ridea dall'altra riva dricta,\
 &emsp;Trahendo più color co' le sue mani,\
 &emsp;Che l'alta terra senza seme gicta.
 
-²³ Ipsa ridebat ab alia ripa recta,\
+23 Ipsa ridebat ab alia ripa recta,\
 &emsp;Trahendo plures colores cum suis manibus,\
 &emsp;Quos alta terra sine semine emictit.
 
-(¹) abbassi — (²) d'alzare a me.
+(1) abbassi — (2) d'alzare a me.
 
 ego possim intelligere quod tu cantas, idest ut possim pervenire ad statum virtuosum.
 
@@ -280,47 +280,47 @@ Ipsa ridebat ab alia [ripa] recta, trahendo, idest eligendo, plures colores, ide
 
 <!-- p. 753 (0807) -->
 
-²⁴ Tre passi ci facea 'l fiume lontani (¹);\
+24 Tre passi ci facea 'l fiume lontani (1);\
 &emsp;Ma Hellesponto, dove 'l passò Xerse,\
-&emsp;Ancora freno (²) a tutti orgogli (³) humani,
+&emsp;Ancora freno (2) a tutti orgogli (3) humani,
 
-²⁴ Tribus passibus nos faciebat flumen longinquos;\
+24 Tribus passibus nos faciebat flumen longinquos;\
 &emsp;Nunquam Hellespontum, ubi transivit Xerxes,\
 &emsp;Adhuc frenum omnibus audaciis humanis,
 
-²⁵ Più odio da Leandro non sofferse,\
+25 Più odio da Leandro non sofferse,\
 &emsp;Per mareggiar intra Sesto et Habydo,\
 &emsp;Che quel da me per c'alor non s'aperse.
 
-²⁵ Maius odium ab Aleandro non sustulit,\
+25 Maius odium ab Aleandro non sustulit,\
 &emsp;Propter maregiare intra Sextum et Habidum,\
 &emsp;Quam illud a me, quia tunc non fuit apertum.
 
-²⁶ Voi sete nuovi, e forse perch'io rido,\
-&emsp;Cominciò ella, in questo luogo electo (⁴)\
+26 Voi sete nuovi, e forse perch'io rido,\
+&emsp;Cominciò ella, in questo luogo electo (4)\
 &emsp;All'humana natura per suo nido,
 
-²⁶ Vos estis novi, et forsan [quia] ego rideo,.\
+26 Vos estis novi, et forsan [quia] ego rideo,.\
 &emsp;Incepit illa, in isto loco electo\
 &emsp;Humane nature pro suo nido,
 
-²⁷ Maraviglando tieni alcun sospecto;\
+27 Maraviglando tieni alcun sospecto;\
 &emsp;Ma luce rende il salmo Delectasti,\
 &emsp;Che puote disnebbiar vostro intellecto.
 
-²⁷ Admirando tenet vos aliqua suspicio;\
+27 Admirando tenet vos aliqua suspicio;\
 &emsp;Sed lumen reddit psalmus Delectasti,\
 &emsp;Qui potest disnebiare vestrum intellectum.
 
-²⁸ E tu, che se' dinanzi, e (⁵) mi pregasti,\
-&emsp;Di' (⁶) s'altro vuoi udir, ch'io venni presta\
+28 E tu, che se' dinanzi, e (5) mi pregasti,\
+&emsp;Di' (6) s'altro vuoi udir, ch'io venni presta\
 &emsp;Ad ogni tua question tanto che basti.
 
-²⁸ Et tu, qui es ante, et me rogasti,\
+28 Et tu, qui es ante, et me rogasti,\
 &emsp;Dicas si aliud vis dicere, quia veni festina\
 &emsp;Ad omnem tuam questionem tantum quod sufficiat.
 
-(¹) l'un dall'altro — (²) Xerse, dico — (³) superbie — (⁴) Paradiso terrestro — (⁵) che — (⁶) dicas.
+(1) l'un dall'altro — (2) Xerse, dico — (3) superbie — (4) Paradiso terrestro — (5) che — (6) dicas.
 
 Tribus passibus nos faciebat flumen longinquos (inter auctorem et illam dominam erat flumen Lethes, quod non erat magis latum quam per tres passus): nunquam Hellespontum, ubi transivit Serses (adhuc frenum omnibus audaciis humanis), magis odium ab Aleandro non substulit, propter maregiare, propter impedimentum quod prestabat ipsi Alexandro quando volebat transire ad amasiam suam, intra Sextum (est una insula) et Habidum (alia insula), quam illud a me, scilicet illud flumen, quia tunc non fuit apertum.
 
@@ -334,31 +334,31 @@ Et tu qui es ante. E tu che se'dinanti: hec est tertia pars huius capituli, in q
 
 <!-- p. 754 (0808) -->
 
-²⁹ L'acqua, diss'io, e 'l suon della foresta\
+29 L'acqua, diss'io, e 'l suon della foresta\
 &emsp;Impugna dentro a me novella fede\
 &emsp;Di cosa, che udii contraria a questa.
 
-²⁹ Aqua, dixi ego, et sonus silve\
+29 Aqua, dixi ego, et sonus silve\
 &emsp;Inpugnant intra me novam fidem\
 &emsp;Rei, quam ego audivi contrariam isti.
 
-³⁰ Ond'ella: Io dicerò come procede\
-&emsp;Per sua ragion (¹) ciò che ammirar ti face,\
+30 Ond'ella: Io dicerò come procede\
+&emsp;Per sua ragion (1) ciò che ammirar ti face,\
 &emsp;E purgherò la nebbia che ti fiede.
 
-³⁰ Unde ipsa: Ego dicam qualiter procedit\
+30 Unde ipsa: Ego dicam qualiter procedit\
 &emsp;Propter suam causam, quomodo mirari te facit,\
 &emsp;Et purgabo nebulam que te ferit.
 
-³¹ Lo sommo ben (²), che sol esso a sè piace,\
-&emsp;Fe'l'huomo buono, e ben a questo luoco (³)\
-&emsp;Diede (⁴) per arra lui d'etterna pace.
+31 Lo sommo ben (2), che sol esso a sè piace,\
+&emsp;Fe'l'huomo buono, e ben a questo luoco (3)\
+&emsp;Diede (4) per arra lui d'etterna pace.
 
-³¹ Summum bonum, quod solum sibi placet,\
+31 Summum bonum, quod solum sibi placet,\
 &emsp;Fecit hominem bonum, et bene istum locum\
 &emsp;Dedit pro arra ei et eterne pacis.
 
-(¹) al. cagion — (²) Dio — (³) al. loco — (⁴) pose.
+(1) al. cagion — (2) Dio — (3) al. loco — (4) pose.
 
 ventus et sonus silve sunt hic; que videntur esse contra illa, que audivi a Statio et ab aliis, scilicet quod in isto, monte, supra illam partem ubi stat angelus cum ense, non possunt fieri peregrine impressiones; et tamen ista sunt hic. Hanc questionem solvit ista domina valde curialiter, dicens quod summum bonum, idest Deus, creans genus humanum, dedit ei istum locum pro arra, scilicet vite eterne pacis; sed prothoparentes, propter suam inobedientiam et sua peccata, fuerunt inde expulsi, et hec tanta solatia mutata sunt eis in angustias et planctus. Nam dixit Deus, Geneseos tertio capitulo, prothoparentibus: In sudore vultus tui vesceris pane; in dolore et tristitia paries filios, etc. Ut igitur exalationes et alterationes et peregrine impressiones, que causantur a calore, non possint nocere hominibus, ideo fecit istum montem ita altum, quod talia non possunt esse nec fieri hic, ab illo loco superius ubi est porta clausa Purgatorii. Ista pars aieris, que est hic, volvitur in circum, idest circulariter, ad motum celi, nec deficiet motus circularis, nisi rumperetur circulus in aliqua parte, quod est [im]possibile. In [illa] igitur altitudine, talis motus celi, movens arborem, percutit arbores et facit sonare ramos et folia, et tunc arbores mote inpregnant aierem et alterant aierem propinquum, et postea, rotando, sive circumvolvendo, excutit. Tunc terra, prout est bene disposita per se, quia habet in se virtutem seminalem, et mediante virtute celi et maxime solis, qui est pater omnium terrenascentium, concipit et producit ligna et herbulas diversarum virtutum. Et ex hoc dicto posset patere, quomodo in mundo superiori alique plante sine semine oriuntur: quia, florentibus arboribus in uno loco, flores alterant et inpregnant de eorum odore aierem circumstantem, et ventus movet illum aierem et portat ad alias partes; et sic ille aier sic inpregnatus inpregnat terram, et facit eam germinare. Consimiles arbores, et etiam flores, alteraverunt illum aierem. Sciendum est, quod hortus ille habet in se omnem virtutem seminalem, et in illo horto sunt plante et arbores, que non reperiuntur in isto mundo superiori. Scias etiam quod ista aqua, que est hic, non scaturit de vena, que restauretur, sive repleatur, ex vaporibus alteratis, sicut restaurantur flumina, que crescunt et diminuuntur propter pluvias, etc. Ista aqua ab influentia et voluntate divina venit, que tanta est et tanta renascitur, quanta exit et fluit et spergitur. Ista aqua dividitur in duos fluvios, quorum unus vocatur Lethes, idest oblivio, quia qui bibit de eius aqua obliviscitur omnium suorum peccatorum. Alius Eunce (hoc nomen fluvii nunquam vidi nec audivi nisi hic ab isto auctore), et dicitur Eunce ab eu, quod est bonum, et noys, quod est mens, quasi bona mens, idest recens memoria; quia, sicut Lethes facit oblivisci omnium peccatorum, ad que verus penitens non debet redire, sic Eunce reducit ad memoriam omnia bona, ita quod isti duo fluvii habent se per opposita. Ideo unus ad unam partem, alter ad aliam vadit.
 
@@ -372,71 +372,71 @@ Summum bonum, idest Deus, quod solum sibi placet, quia solus ipse seipsum intell
 
 <!-- p. 755 (0809) -->
 
-³² Per sua difalta qui dimorò poco;\
+32 Per sua difalta qui dimorò poco;\
 &emsp;Per sua difalta in pianto ed in affanno\
-&emsp;Cambiò honesto riso e dolce gioco (¹).
+&emsp;Cambiò honesto riso e dolce gioco (1).
 
-³² Propter suam difultam hic demoravit modicum;\
+32 Propter suam difultam hic demoravit modicum;\
 &emsp;Propter suum defectum in planctus et angustias\
 &emsp;Mutavit honestum risum et dulce iocum.
 
-³³ Perchè 'l turbar, che sotto di sè fanno\
+33 Perchè 'l turbar, che sotto di sè fanno\
 &emsp;L'exaltation dell'acqua e de la terra,\
 &emsp;Che, quanto posson, dietro al calor vanno,
 
-³³ Ut turbatio inferior, quam a se faciunt\
+33 Ut turbatio inferior, quam a se faciunt\
 &emsp;Exalationes aque et terre,\
 &emsp;Que, quantum possunt, retro calorem vadunt,
 
-³⁴ All'uomo non facesse alcuna guerra,\
+34 All'uomo non facesse alcuna guerra,\
 &emsp;Questo monte salio verso 'l ciel tanto,\
-&emsp;E liberonne da indi onde (²) si serra.
+&emsp;E liberonne da indi onde (2) si serra.
 
-³⁴ Homini non facerent aliquam guerram,\
+34 Homini non facerent aliquam guerram,\
 &emsp;Iste mons ascendit versus celum tantum,\
 &emsp;Et liberavit vos inde ubi serratur.
 
-³⁵ Hora, perchè 'n circuito tutto quanto\
+35 Hora, perchè 'n circuito tutto quanto\
 &emsp;L'aere si volge con la prima volta,\
 &emsp;Se non gl'è rocto el cerchio d'alcun canto;
 
-³⁵ Sed quia in circuitu totus volvitur\
+35 Sed quia in circuitu totus volvitur\
 &emsp;Aier cum prima rota,\
 &emsp;Nisi sibi esset ruptus circulus ab aliquo angulo;
 
-³⁶ In quest'altezza, che tuct' è disciolta\
+36 In quest'altezza, che tuct' è disciolta\
 &emsp;Nell'aer vivo, tal moto perchuote,\
 &emsp;E fa sonar la selva perch' è folta;
 
-³⁶ In ista altitudine, que tota est dissoluta\
+36 In ista altitudine, que tota est dissoluta\
 &emsp;In aiere vivo, percutit talis motus,\
 &emsp;Et facit sonare silvam que est fulta;
 
-³⁷ E la percossa pianta tanto puote,\
+37 E la percossa pianta tanto puote,\
 &emsp;Che della sua virtute l'aere impregna,\
 &emsp;E quella poi girando intorno schuote:
 
-³⁷ Et percussa planta tantum potest,\
+37 Et percussa planta tantum potest,\
 &emsp;Quod de sua virtute aierem impregnat,\
 &emsp;Et illam postea rotando in circum excutit:
 
-³⁸ E l'altra terra, secondo ch'è degna\
-&emsp;Per sè e per suo ciel (³), concepe e figla\
-&emsp;Di diverse virtù diverse legna (⁴).
+38 E l'altra terra, secondo ch'è degna\
+&emsp;Per sè e per suo ciel (3), concepe e figla\
+&emsp;Di diverse virtù diverse legna (4).
 
-³⁸ Et alta terra, secundum quod ipsa est digna\
+38 Et alta terra, secundum quod ipsa est digna\
 &emsp;Per se et per suum celum, concipit et producit\
 &emsp;Diversarum virtutum diversa ligna.
 
-³⁹ Non parrebbe di là poi maravigla,\
+39 Non parrebbe di là poi maravigla,\
 &emsp;Udito questo, quand'alcuna pianta\
-&emsp;Senza seme palese (⁵) vi s'appigla.
+&emsp;Senza seme palese (5) vi s'appigla.
 
-³⁹ Non appareret in mundo postea mirum,\
+39 Non appareret in mundo postea mirum,\
 &emsp;Viso hoc, quando aliqua plancta\
 &emsp;Sine semine manifesto ibi applicatur.
 
-(¹) redde singula singulis — (²) al. ove — (³) selva — (⁴) arbori — (⁵) manifesto.
+(1) redde singula singulis — (2) al. ove — (3) selva — (4) arbori — (5) manifesto.
 
 Propter suam diffaltam, idest propter suum defectum, hic demoravit, idest moratus est, modicum, paululum, (stetit minus quam sex horis homo in Paradiso terrestri); propter suum defectum in planctus et angustias mutavit honestum risum et dulce iocum, idest cecidit, et [in] omnes tristitias, ubi prius erat in omni gaudio.
 
@@ -452,71 +452,71 @@ Sed nota quod non est credendum quod ille mons vadat, sive attingat, circulum lu
 
 <!-- p. 756 (0810) -->
 
-⁴⁰ E saper dèi (¹) che la campagna sancta,\
+40 E saper dèi (1) che la campagna sancta,\
 &emsp;Ove tu se', d'ogni semente è piena,\
 &emsp;E fructo ha in sè che di là non si schianta.
 
-⁴⁰ Et scire debes quod campania sancta,\
+40 Et scire debes quod campania sancta,\
 &emsp;Ubi tu es, omni semine est plena,\
 &emsp;Et fructum habet in se qui in mundo non evellitur.
 
-⁴¹ L'acqua che vedi non surge di vena\
+41 L'acqua che vedi non surge di vena\
 &emsp;Che ristori'l vapor che 'l giel converta,\
 &emsp;Come fiume ch'aspecta e perde lena;
 
-⁴¹ Aqua quam vides non surgit de vena\
+41 Aqua quam vides non surgit de vena\
 &emsp;Quam restaurat vapor quem gelu convertat,\
 &emsp;Sicut fluvius qui expectat et perdit lenam;
 
-⁴² Ma esce di fontana salda e certa,\
+42 Ma esce di fontana salda e certa,\
 &emsp;Che tanto dal voler di Dio riprende,\
 &emsp;Quant' ella versa da due parti aperta.
 
-⁴² Sed exit de fonte solido et certo,\
+42 Sed exit de fonte solido et certo,\
 &emsp;Qui tantum voluntatis Dei reassumit,\
 &emsp;Quantum fluit a duabus partibus apertus.
 
-⁴³ Da questa parte con virtù discende,\
-&emsp;Che togl' altrui (²) memoria del peccato;\
-&emsp;Dall' altra (³), d'ogni ben facto la rende.
+43 Da questa parte con virtù discende,\
+&emsp;Che togl' altrui (2) memoria del peccato;\
+&emsp;Dall' altra (3), d'ogni ben facto la rende.
 
-⁴³ Ab ista parte cum virtute descendit,\
+43 Ab ista parte cum virtute descendit,\
 &emsp;Que subripit aliis memoriam peccati;\
 &emsp;Ab alia omnis boni facti reddit ipsam.
 
-⁴⁴ Quivi Lethe, così dall' altro lato\
-&emsp;Eunoe si chiama; e non adovra (⁴),\
+44 Quivi Lethe, così dall' altro lato\
+&emsp;Eunoe si chiama; e non adovra (4),\
 &emsp;Se quinci e quindi pria non è gustato.
 
-⁴⁴ Hinc Lethes, sic ab alio latere\
+44 Hinc Lethes, sic ab alio latere\
 &emsp;Eunoe vocatur; et non operatur,\
 &emsp;Si hinc et inde prius non est gustatus.
 
-⁴⁵ A tuct' altri sapori esto è di sovra:\
+45 A tuct' altri sapori esto è di sovra:\
 &emsp;E avegna ch'assai poss' esser satia\
 &emsp;La sete tua, bench'io più non ti scovra,
 
-⁴⁵ Omnes alios sapores iste est desuper:\
+45 Omnes alios sapores iste est desuper:\
 &emsp;Et ponamus quod satis posset esse satiata\
 &emsp;Sitis tua, quamquam ego ulterius non discooperiam,
 
-⁴⁶ Darotti un corelario ancor per gratia;\
+46 Darotti un corelario ancor per gratia;\
 &emsp;Nè credo che'l mio dir ti sia men caro,\
-&emsp;Se oltra promession (⁵) teco sì spatia (⁶).
+&emsp;Se oltra promession (5) teco sì spatia (6).
 
-⁴⁶ Dabo tibi unum corellarium adhuc per gratiam;\
+46 Dabo tibi unum corellarium adhuc per gratiam;\
 &emsp;Nec credo quod meum dictum sit tibi minus carum,\
 &emsp;Si ultra promissionem tibi per me spatiatur.
 
-⁴⁷ Quelli che anticamente poetaro\
+47 Quelli che anticamente poetaro\
 &emsp;L'età dell'oro e suo stato felice,\
-&emsp;Forse in Parnaso (⁷) esto loco sognaro (⁸).
+&emsp;Forse in Parnaso (7) esto loco sognaro (8).
 
-⁴⁷ Illi qui antiquitus poetarunt\
+47 Illi qui antiquitus poetarunt\
 &emsp;Etatem auri et suum statum felicem,\
 &emsp;Forsan in Parnaso istum locum signaverunt.
 
-(¹) debbi — (²) a li purgati — (³) parte — (⁴) adopera — (⁵) quel che t'è promesso, o debito — (⁶) si dilata el mio dire — (⁷) monte delle Muse — (⁸) poetizando.
+(1) debbi — (2) a li purgati — (3) parte — (4) adopera — (5) quel che t'è promesso, o debito — (6) si dilata el mio dire — (7) monte delle Muse — (8) poetizando.
 
 Et scire debes quod campania sancta, idest planities sacra, idest iste hortus delitiarum, ubi, idest in qua, tu es, omni semine est plena, et fructum habet in se qui in mundo non evellitur, idest nascitur, vel producitur. Quasi moraliter dicat: Alius fructus fit ab homine virtuoso, quam ab illo qui est involutus in vitiis.
 
@@ -534,25 +534,25 @@ Illi qui antiquitus poetarunt etatem anri et eius statum felicem in Parnaso, mon
 
 <!-- p. 757 (0811) -->
 
-⁴⁸ Qui fu innocente la prima radice (¹);\
+48 Qui fu innocente la prima radice (1);\
 &emsp;Qui primavera sempre et ogni fructo;\
 &emsp;Nectar è questo di che ciascun dice.
 
-⁴⁸ Hic fuit innocens humana radix;\
+48 Hic fuit innocens humana radix;\
 &emsp;Hic ver semper et omnis fructus;\
 &emsp;Nectar est istud de quo quilibet dicit.
 
-⁴⁹ Io mi rivolsi dietro allhora tucto\
-&emsp;A' miei poeti (²), e vidi che con riso\
+49 Io mi rivolsi dietro allhora tucto\
+&emsp;A' miei poeti (2), e vidi che con riso\
 &emsp;Udit' havean l'ultimo constructo:\
 &emsp;Poi alla bella donna tornai 'l viso.
 
-⁴⁹ Ego me converti retro tunc totum\
+49 Ego me converti retro tunc totum\
 &emsp;Ad meos poetas, et vidi quod cum risu\
 &emsp;Audierant ultimum constructum:\
 &emsp;Postmodum ad pulchram dominam converti faciem.
 
-(¹) al. l'umana, et melius — (²) Virgilio e Statio.
+(1) al. l'umana, et melius — (2) Virgilio e Statio.
 
 Hic fuit innocens humana radix, idest prothoparentum; hic ver, idest tempus veris, semper est et omnis fructus: nectar, idest claretum factum de vino cum speciebus, est istud, flumen supple, de quo quilibet dicit.
 

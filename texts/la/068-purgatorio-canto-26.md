@@ -8,11 +8,11 @@ In vicesimosexto capitulo, quod incipit: Dum sic per extremitatem cornicis, auct
 
 # Capitulum Vicesimumsextum
 
-¹ Mentre che sì per l'orlo, un anzi all'altro,\
+1 Mentre che sì per l'orlo, un anzi all'altro,\
 &emsp;Ci andavamo, e spesso 'l buon maestro\
 &emsp;Dicendo: Guarda; giovi, ch'io ti scaltro;
 
-¹ Dum sic per extremitatem, unus ante alium,\
+1 Dum sic per extremitatem, unus ante alium,\
 &emsp;Ibamus, et sepe bonus magister\
 &emsp;Dicebat michi: Caveas quod ego te scaltro;
 
@@ -34,63 +34,63 @@ Notandum est quod ipse due gentes sic euntes, una contra aliam, fuerunt peccator
 
 <!-- p. 723 (0777) -->
 
-² Feriami 'l sole in su l' homero destro,\
+2 Feriami 'l sole in su l' homero destro,\
 &emsp;Che già, raggiando, tucto l'occidente\
 &emsp;Mutava in bianco aspecto di cilestro:
 
-² Fericbat me sol super humerum dextrum,\
+2 Fericbat me sol super humerum dextrum,\
 &emsp;Qui iam, radiando, totum occidentem\
 &emsp;Mutabat in album aspectum celestrem:
 
-³ Et io facea coll'ombra più dolente\
+3 Et io facea coll'ombra più dolente\
 &emsp;Parer la fiamma; e pur a tanto inditio\
 &emsp;Vid'io molt'ombre, andando, poner mente.
 
-³ Et ego faciebam cum umbra magis roventem\
+3 Et ego faciebam cum umbra magis roventem\
 &emsp;Apparere flammam; et tamen ad tantum inditum\
 &emsp;Vidi ego multas umbras, eundo, ponere mentem.
 
-⁴ Questa fu la cagion che diede initio\
-&emsp;Lor a parlar di me; e cominciarsi (¹)\
+4 Questa fu la cagion che diede initio\
+&emsp;Lor a parlar di me; e cominciarsi (1)\
 &emsp;A dir: Colui non è corpo fictitio.
 
-⁴ Ista fuit causa que dedit initium\
+4 Ista fuit causa que dedit initium\
 &emsp;Os ad loquendum de me; et inceperunt\
 &emsp;Dicere: Ille non apparet corpus fictitium.
 
-⁵ Poi verso me, quanto potean farsi,\
+5 Poi verso me, quanto potean farsi,\
 &emsp;Certi si feron, sempre con riguardo\
-&emsp;Di non usar dove (²) non fusser arsi (³).
+&emsp;Di non usar dove (2) non fusser arsi (3).
 
-⁵ Postea versus me, quantum poterant facere se.\
+5 Postea versus me, quantum poterant facere se.\
 &emsp;Certi fecerunt se, et semper cum provisione\
 &emsp;Non exeundi ubi non essent combusti.
 
-⁶ O tu, che vai, non per esser più tardo,\
-&emsp;Ma forse (⁴) reverente, agl'altri dopo,\
+6 O tu, che vai, non per esser più tardo,\
+&emsp;Ma forse (4) reverente, agl'altri dopo,\
 &emsp;Risponde a me che 'n sete et in foco ardo.
 
-⁶ O tu, qui vadis, ut non sis magis tardus,\
+6 O tu, qui vadis, ut non sis magis tardus,\
 &emsp;Sed forsan reverens, post alios,\
 &emsp;Responde michi qui in siti et in igne ardeo.
 
-⁷ Non sol a me la tua risposta è huopo;\
+7 Non sol a me la tua risposta è huopo;\
 &emsp;Chè tutti questi n'hanno maggior sete\
 &emsp;Che d'acqua fredda d'Yndo o d'Etyopo.
 
-⁷ Non solum michi tuum responsum est opus;\
+7 Non solum michi tuum responsum est opus;\
 &emsp;Sed omnes isti habent de eo maiorem sitim\
 &emsp;Quam de aqua frigida Indus vel Ethiops.
 
-⁸ Dinne, come tu fai di te parete\
+8 Dinne, come tu fai di te parete\
 &emsp;Al sol, come se tu non fossi ancora\
-&emsp;Di morte entrato dentro da le rete (⁵).
+&emsp;Di morte entrato dentro da le rete (5).
 
-⁸ Dic nobis, quomodo est quod facis de te parietem\
+8 Dic nobis, quomodo est quod facis de te parietem\
 &emsp;Soli, ac si tu non esses adhuc\
 &emsp;Ingressus mortis intra rethe.
 
-(¹) fra loro — (²) in luogo — (³) purgati nel fuoco — (⁴) per esser — (⁵) reti.
+(1) fra loro — (2) in luogo — (3) purgati nel fuoco — (4) per esser — (5) reti.
 
 Ecce qualis hora erat tunc. Feriebat me sol super humerum dextrum, qui iam, radiando, totum occidentem mutabat in album aspectum cilestrum, idest azurinum: et ego faciebam cum umbra magis dolentem, alias roventem, rubeam, appareri, idest videri, flammam; et tamen ad tantum inditium vidi multas umbras, eundo, ponere mentem, idest respicere me, quia videbant, propter umbram, quam faciebat corpus auctoris, quod flamma habebat diversum colorem a solito, quia umbra non permietebat radios solis penetrari in flammam. Et illa umbra indicabat me esse vivum.
 
@@ -106,63 +106,63 @@ Dic nobis, quomodo est quod facis de te parietem, idest obstaculum, soli, ac si 
 
 <!-- p. 724 (0778) -->
 
-⁹ Sì mi parlava un d'essi, et io mi fora\
+9 Sì mi parlava un d'essi, et io mi fora\
 &emsp;Già manifesto, s'io non fussi atteso\
 &emsp;Ad altra novità ch'apparse allora;
 
-⁹ Sic nobis loquebatur unus ipsorum, et ego me fecissem\
+9 Sic nobis loquebatur unus ipsorum, et ego me fecissem\
 &emsp;Iam manifestum, si non fuissem intentus\
 &emsp;Ad aliam novitatem que apparuit tunc;
 
-¹⁰ Chè per lo mezzo del cammin acceso\
+10 Chè per lo mezzo del cammin acceso\
 &emsp;Venne gente col viso intorno a questa,\
 &emsp;La qual mi fece a rimirar sospeso.
 
-¹⁰ Quia per medium itineris igniti\
+10 Quia per medium itineris igniti\
 &emsp;Venit gens cum visu contra istam,\
 &emsp;Que me fecit ad respiciendum suspensum.
 
-¹¹ Lì veggio d'ogni parte farsi presta\
+11 Lì veggio d'ogni parte farsi presta\
 &emsp;Ciascun'ombra, e baciarsi una con una,\
 &emsp;Senza restar, contente a breve festa.
 
-¹¹ Ibi video ex omni parte fieri festinam\
+11 Ibi video ex omni parte fieri festinam\
 &emsp;Quamlibet umbram, et osculari unam cum alia,\
 &emsp;Sine quiete, contente brevi festo.
 
-¹² Così per entro loro schiera bruna\
+12 Così per entro loro schiera bruna\
 &emsp;S'amusa l'una coll'altra formica,\
 &emsp;Forse a spiar lor vita e lor fortuna.
 
-¹² Sic intra per earum aciem brunam\
+12 Sic intra per earum aciem brunam\
 &emsp;Musat una cum alia formica,\
 &emsp;Forsan ad explorandum earum viam et earum fortunam.
 
-¹³ Tosto che parton l'accoglienza amica,\
-&emsp;Prima che'l primo passo lì (¹) transcorra,\
+13 Tosto che parton l'accoglienza amica,\
+&emsp;Prima che'l primo passo lì (1) transcorra,\
 &emsp;Sopra gridar ciascuna s'affatica;
 
-¹³ Quam cito dividunt receptionem amicam,\
+13 Quam cito dividunt receptionem amicam,\
 &emsp;Priusquam [primus] passus eos transcurrat,\
 &emsp;Supra clamare quelibet laborat;
 
-¹⁴ La nuova gente: Sogdoma e Ghomorra;\
-&emsp;E l'altra (²): Ne la vacca entrò Pasyphe,\
-&emsp;Perchè'l torello (³) a sua luxuria corra.
+14 La nuova gente: Sogdoma e Ghomorra;\
+&emsp;E l'altra (2): Ne la vacca entrò Pasyphe,\
+&emsp;Perchè'l torello (3) a sua luxuria corra.
 
-¹⁴ Nova gens: Soddoma et Gomorra;\
+14 Nova gens: Soddoma et Gomorra;\
 &emsp;Et alia: In vaccam intravit Pasiphen,\
 &emsp;Ut taurellus ad suam luxuriam currat.
 
-¹⁵ Poi come gru, ch'alle montagne Riphe (⁴)\
-&emsp;Volasser parte, e parte inver l'arene (⁵),\
-&emsp;Queste del gielo, quelle del sol (⁶), schiphe;
+15 Poi come gru, ch'alle montagne Riphe (4)\
+&emsp;Volasser parte, e parte inver l'arene (5),\
+&emsp;Queste del gielo, quelle del sol (6), schiphe;
 
-¹⁵ Postea sicut grues, que ad montaneas Ripheas\
+15 Postea sicut grues, que ad montaneas Ripheas\
 &emsp;Volarent prius, et prius versus arenas,\
 &emsp;Iste gieli, ille solis, schife;
 
-(¹) al. si — (²) gente gridava — (³) el bel thoro. — (⁴) alte — (⁵) del mare. — (⁶) caldo.
+(1) al. si — (2) gente gridava — (3) el bel thoro. — (4) alte — (5) del mare. — (6) caldo.
 
 Sic michi loquebatur unus ipsorum, et ego me fecissem iam manifestum, si non fuissem intentus ad aliam novitatem, que apparuit tunc; quia per medium itineris accensi, idest igniti, venit gens cum visu, idest facie, contra istam, que me fecit ad respiciendum suspensum, idest admirationem, respiciendo, in me induxit.
 
@@ -178,63 +178,63 @@ Describit auctor per comparationem quarumdam avium, que dicuntur grues; que grue
 
 <!-- p. 725 (0779) -->
 
-¹⁶ L'una gente sen va, l'altra sen vene,\
+16 L'una gente sen va, l'altra sen vene,\
 &emsp;E tornan lagrimando a' primi canti,\
 &emsp;Et al gridar che più lor si convene:
 
-¹⁶ Una gens vadit, et alia venit,\
+16 Una gens vadit, et alia venit,\
 &emsp;Et redeunt lacrymando ad primus planctus,\
 &emsp;Et ad clamandum quod plus eis convenit:
 
-¹⁷ E raccostarsi a me, come davanti,\
+17 E raccostarsi a me, come davanti,\
 &emsp;Essi medesmi che m'havean pregato,\
 &emsp;Attenti ad ascoltar ne' lor sembianti.
 
-¹⁷ Et adherent michi, sicut ante,\
+17 Et adherent michi, sicut ante,\
 &emsp;Ipsimet qui me precati fuerant,\
 &emsp;Attoniti ad auscultandum in eorum aspectibus.
 
-¹⁸ Io (¹), che due volte havea visto lor grato,\
-&emsp;Incominciai (²): O anime sicure\
+18 Io (1), che due volte havea visto lor grato,\
+&emsp;Incominciai (2): O anime sicure\
 &emsp;D'haver quando che sia di pace stato,
 
-¹⁸ Ex quo ego, qui duabus vicibus videram eis gratum,\
+18 Ex quo ego, qui duabus vicibus videram eis gratum,\
 &emsp;Incepi: O anime affanate secure\
 &emsp;Habere quandoque pacis statum,
 
-¹⁹ Non son rimase acerbe nè mature\
+19 Non son rimase acerbe nè mature\
 &emsp;Le membra mie di là, ma son qui meco\
 &emsp;Col sangue suo e co'le sue giuncture.
 
-¹⁹ Non remanserunt acerba nec matura\
+19 Non remanserunt acerba nec matura\
 &emsp;Membra mea in mundo, sed sunt hic mecum\
 &emsp;Cum sanguine suo et etiam cum suis iuncturis.
 
-²⁰ Quinci su vo per non esser più cieco:\
+20 Quinci su vo per non esser più cieco:\
 &emsp;Donna è di sopra che n'acquista gratia,\
-&emsp;Perchè'l mortal (³) per vostro mondo reco.
+&emsp;Perchè'l mortal (3) per vostro mondo reco.
 
-²⁰ Hac sursum vado ut non sim amplius cecus:\
+20 Hac sursum vado ut non sim amplius cecus:\
 &emsp;Donna est superius que michi acquirit gratiam,\
 &emsp;Propter quam mortale per vestrum mundum porto.
 
-²¹ Ma se la vostra maggior vogla satia\
+21 Ma se la vostra maggior vogla satia\
 &emsp;Tosto divegna, sì che 'l ciel v'alberghi\
-&emsp;Che pien d'amore (⁴) e più ampio (⁵) si spatia,
+&emsp;Che pien d'amore (4) e più ampio (5) si spatia,
 
-²¹ Sed si vestra maior voluntas satia\
+21 Sed si vestra maior voluntas satia\
 &emsp;Cito veniat, ita quod celum vos hospitetur\
 &emsp;Quod plenum amoris et magis amplum spatiatur,
 
-²² Ditemi, acciò ch'ancor carte ne verghi (⁶),\
+22 Ditemi, acciò ch'ancor carte ne verghi (6),\
 &emsp;Chi sete voi, e chi è quella turba\
 &emsp;Che se ne va dirieto a'vostri terghi?
 
-²² Dicite michi, ita quod adhuc cartas virgem,\
+22 Dicite michi, ita quod adhuc cartas virgem,\
 &emsp;Qui estis vos, et que est illa turba\
 &emsp;Que vadit retro vestra terga?
 
-(¹) Dante — (²) a dir loro — (³) corpo — (⁴) el quale cielo Empireo — (⁵) amplo — (⁶) di scritture.
+(1) Dante — (2) a dir loro — (3) corpo — (4) el quale cielo Empireo — (5) amplo — (6) di scritture.
 
 regione aquilonari, volarent pars, et pars versus arenas, partes scilicet meridionales, ubi est maxima copia arene propter excellentiam caloris: iste geli, scilicet poli arthici, ille solis, idest partium meridionalium, schife, idest fastidite: una gens vadit, alia venit; et redeunt lacrymando ad primos cantus, scilicet Sodoma et Gomorra, et Pasiphe vaccam intravit, et ad clamandum quod plus eis convenit (iste gentes se sic osculantur, ad memoriam osculorum, que in pudore et in inhonestate dederunt in vita. Dicunt talia iste anime in vituperium sui et sue secte, et ex hinc verecundantur, et illa verecundia est pars penitentie earum et purgationis. Alie anime superius cantabant, Summe Deus clementie, ut dictum fuit in capitulo precedenti. Iste spiritus, qui tam diu locutus est cum auctore, erat spiritus Guidonis Guinizzelli de Bononia, qui fuit bonus dictator in vulgari, et fuit notus auctori in vita, cuius opera auctor multum laudat: bonus dictator, et fecit multa sonetia et cantilenas de amore): et adherent michi, sicut ante, ipsi qui me precati fuerunt, attoniti, idest territi, ad auscultandum in eorum aspectibus.
 
@@ -246,63 +246,63 @@ Modo auctor coniurat istas animas, ut indicent sibi, que anime sunt in illis dua
 
 <!-- p. 726 (0780) -->
 
-²³ Non altrimenti stupido si turba\
-&emsp;Lo montanaro, e rimirando ammuta (¹),\
+23 Non altrimenti stupido si turba\
+&emsp;Lo montanaro, e rimirando ammuta (1),\
 &emsp;Quando rozzo e selvatico in se inurba,
 
-²³ Non aliter stupefactus turbatur\
+23 Non aliter stupefactus turbatur\
 &emsp;Montanarius, et respiciendo obmutit,\
 &emsp;Quando rudis et rusticus se inurbat,
 
-²⁴ Che ciascun' ombra fece in sua paruta;\
+24 Che ciascun' ombra fece in sua paruta;\
 &emsp;Ma poi che furon di stupore scarche,\
 &emsp;Lo qual negl' alti cuor tosto si muta,
 
-²⁴ Quam quelibet umbra fecit in sua apparentia;\
+24 Quam quelibet umbra fecit in sua apparentia;\
 &emsp;Sed postquam fuerunt stupore exhonerate,\
 &emsp;Qui in altis cordibus cito mutatur,
 
-²⁵ Beato te, che de le nostre marche,\
-&emsp;Ricominciò colei che pria mi chiese (²),\
+25 Beato te, che de le nostre marche,\
+&emsp;Ricominciò colei che pria mi chiese (2),\
 &emsp;Per morir meglo sperienza imbarche!
 
-²⁵ Beatum te, qui per nostras marchas,\
+25 Beatum te, qui per nostras marchas,\
 &emsp;Reincepit illa que prius me requisivit,\
 &emsp;Ut moriaris melius experientiam imbarchas!
 
-²⁶ La gente, che non vien con noi, offese\
+26 La gente, che non vien con noi, offese\
 &emsp;Di ciò, per che già Cesar, triumphando,\
-&emsp;Regina (³), contro sè, chiamar s'intese;
+&emsp;Regina (3), contro sè, chiamar s'intese;
 
-²⁶ Gens, que non venit nobiscum, offendit\
+26 Gens, que non venit nobiscum, offendit\
 &emsp;Deum de eo, propter [quod] Cesar, triumphando,\
 &emsp;Reginam, contra se, clamare audivit;
 
-²⁷ Però si parton, Sogdoma gridando,\
+27 Però si parton, Sogdoma gridando,\
 &emsp;Rimproverando a sè, com' hai udito,\
-&emsp;Et aiutan l'arsura (⁴) vergognando.
+&emsp;Et aiutan l'arsura (4) vergognando.
 
-²⁷ Ideo recedit, Sodomam clamando,\
+27 Ideo recedit, Sodomam clamando,\
 &emsp;Improperando sibi, sicut audisti,\
 &emsp;Et adiuvant arsuram verecundando.
 
-²⁸ Nostro peccato fu hermafrodito;\
+28 Nostro peccato fu hermafrodito;\
 &emsp;Ma perchè non servammo humana legge,\
-&emsp;Seguendo come bestie l'appetito (⁵),
+&emsp;Seguendo come bestie l'appetito (5),
 
-²⁸ Nostrum peccatum fuit hermafroditarum;\
+28 Nostrum peccatum fuit hermafroditarum;\
 &emsp;Sed quia non servavimus humanam legem,\
 &emsp;Sequendo sicut bestie appetitum,
 
-²⁹ In opbrobrio di noi, per noi si legge,\
-&emsp;Quando partinci (⁶), el nome di colei (⁷)\
-&emsp;Che s'imbestiò nell'imbestiate scheggie (⁸).
+29 In opbrobrio di noi, per noi si legge,\
+&emsp;Quando partinci (6), el nome di colei (7)\
+&emsp;Che s'imbestiò nell'imbestiate scheggie (8).
 
-²⁹ In obrobrium, per nos legitur,\
+29 In obrobrium, per nos legitur,\
 &emsp;Quando recedimus, nomen illius\
 &emsp;Qui se imbestiavit in bestialia scheggia.
 
-(¹) doventa mutolo — (²) al. mi richiese — (³) e non re — (⁴) incendio loro — (⁵) nostro — (⁶) al. partianci — (⁷) di Pasyphe — (⁸) vacca di legno.
+(1) doventa mutolo — (2) al. mi richiese — (3) e non re — (4) incendio loro — (5) nostro — (6) al. partianci — (7) di Pasyphe — (8) vacca di legno.
 
 Audito quod Dantes erat vivus, omnes anime obstupuerunt et sunt facte stupide. Sic obstupescit rusticus, quando primo venit ad civitatem: qui in villis et ruribus usus est videre pecora, porcos, personas rusticas, indutas de vilissimo panno, discalceatas; et in civitatem primo veniens, videt apothecas pulcherrimas, res vendibiles, homines et mulieres optime indutos, et alia nobilia, unde obstupescit. Non aliter stupefactus turbatur montanarius, idest rusticus de montibus, et respiciendo obmutit, scilicet admirans, quando rudis et rusticus se inurbat, idest urbem intrat, quam quelibet umbra fecit, idest obstupuit, in sua apparentia; sed postquam fuerunt stupore exhonerate, qui scilicet stupor in altis cordibus cito mutatur, idest cessat (quasi dicat: Magnanimi cito deponunt stuporem, sed pusillanimi diu obstupescunt; et quia iste anime magnanime statim deposuerunt admirationem), Beatum te, idest dico, (felix, quem faciunt aliena pericula cautum), qui per nostras marchias, idest regiones, sive contratas, qui sunt inter montes et mare, reincepit, scilicet loqui, illa scilicet anima Guidonis Guinizzelli, que prius me requisivit, ut moriaris melius, supple quam nos fecerimus, experientiam imbarcas, idest in barca tua reponis; idest experiri vis. Imbarcas: idest reponis in barca tui ingenii.
 
@@ -312,39 +312,39 @@ Nostrum peccatum fuit hermafroditarum, idest habentium utrumque sexum; sed quia 
 
 <!-- p. 727 (0781) -->
 
-³⁰ Hor sai nostr'acti, e di che fummo rei;\
+30 Hor sai nostr'acti, e di che fummo rei;\
 &emsp;Se forse a nome vuoi saper chi semo,\
 &emsp;Tempo non è di dire, e non saprei.
 
-³⁰ Nunc scis nostros actus, et de quo fuimus rei;\
+30 Nunc scis nostros actus, et de quo fuimus rei;\
 &emsp;Si forsan nomine vis scire qui fuimus,\
 &emsp;Tempus non est dicendi, et non scirem.
 
-³¹ Farotti ben di me volere scemo:\
+31 Farotti ben di me volere scemo:\
 &emsp;Son Guido Guininzelli; e già mi purgo,\
-&emsp;Per ben dolermi (¹) prima ch'allo stremo (²).
+&emsp;Per ben dolermi (1) prima ch'allo stremo (2).
 
-³¹ Faciam bene de me tuum velle diminutum:\
+31 Faciam bene de me tuum velle diminutum:\
 &emsp;Sum Guido Guinizelli; et iam me purgo,\
 &emsp;Quia bene dolui prius quam ad extremum.
 
-³² Quali nella tristitia di Ligurgo\
+32 Quali nella tristitia di Ligurgo\
 &emsp;Si fer due figli a riveder la madre,\
 &emsp;Tal mi fec'io, ma non a tanto insurgo,
 
-³² Quales in tristitia Licurgi\
+32 Quales in tristitia Licurgi\
 &emsp;Devenerunt duo filii ad revidendum matrem,\
 &emsp;Talis deveni ego, sed non ad tantum insurgo,
 
-³³ Quand'i'odo nomar sè stesso el padre\
-&emsp;Mio e (³) de gl'altri miei miglor, che mai\
+33 Quand'i'odo nomar sè stesso el padre\
+&emsp;Mio e (3) de gl'altri miei miglor, che mai\
 &emsp;Rime d'amor usar dolci e leggiadre:
 
-³³ Quando ego audio nominare seipsum patrem\
+33 Quando ego audio nominare seipsum patrem\
 &emsp;Meum et aliorum meorum meliorum, qui unquam\
 &emsp;Rithymis amoris usi sunt dulcibus et pulchris:
 
-(¹) pentirmi — (²) de la morte — (³) padre.
+(1) pentirmi — (2) de la morte — (3) padre.
 
 legem (que vult quod hermafrodite eligant sibi sexum, quo volunt, et illo uti possunt, sed ab alio debent abstinere), sequendo [sicut] bestie appetitum, in obbrobrium nostrum, scilicet nostram verecundiam, per nos legitur, quando recedimus, nomen illius, scilicet Pasiphe, que se imbestiavit in bestialia scheggia, idest in bestialia ligna, idest vacca lignea. Ipsa Pasiphe demum peperit Minothaurum, ut dictum fuit in capitulo duodecimo Inferni.
 
@@ -354,63 +354,63 @@ Postea per unam pulchram comparationem ostendit auctor quantam letitiam habuit e
 
 <!-- p. 728 (0782) -->
 
-³⁴ E senza udir (¹) e dir (²), pensoso andai\
+34 E senza udir (1) e dir (2), pensoso andai\
 &emsp;Lunga fiata rimirando lui,\
 &emsp;Nè per lo fuoco in là più m'appressai.
 
-³⁴ Et sine audire et dicere, sequutus fui\
+34 Et sine audire et dicere, sequutus fui\
 &emsp;Longo tempore respiciendo eum,\
 &emsp;Nec per ignem ultra appropinquavi.
 
-³⁵ Poichè di riguardar pasciuto fui,\
+35 Poichè di riguardar pasciuto fui,\
 &emsp;Tucto m'offersi prompto al suo servigio,\
-&emsp;Coll'affermar (³) che fa creder altrui.
+&emsp;Coll'affermar (3) che fa creder altrui.
 
-³⁵ Postquam respiciendo pastus fui,\
+35 Postquam respiciendo pastus fui,\
 &emsp;Totum me obtuli promptum ad suum servitium,\
 &emsp;Cum confirmare quod facit credere alios.
 
-³⁶ Et elli a me: Tu lassi tal vestigio,\
+36 Et elli a me: Tu lassi tal vestigio,\
 &emsp;Per quel ch'i' odo, in me, e tanto chiaro,\
-&emsp;Che Lhete (⁴) nol può tor nè farlo bigio.
+&emsp;Che Lhete (4) nol può tor nè farlo bigio.
 
-³⁶ Et ipse ad me: Tu dimictis tale vestigium,\
+36 Et ipse ad me: Tu dimictis tale vestigium,\
 &emsp;Pro eo quod audio, in me, et tantum clarum,\
 &emsp;Quod Lethes non potest illud tollere nec facere obscurum.
 
-³⁷ Ma, se le tue parole hor ver giuraro,\
+37 Ma, se le tue parole hor ver giuraro,\
 &emsp;Dimmi, che è cagion perchè dimostri\
 &emsp;Nel dir e nel guardar havermi caro?
 
-³⁷ Sed, si tua verba nunc verum iuraverunt,\
+37 Sed, si tua verba nunc verum iuraverunt,\
 &emsp;Dic michi, que est causa propter quam demonstras\
 &emsp;In dicto et loquela habere me carum?
 
-³⁸ Et io a lui: Li dolci decti vostri,\
+38 Et io a lui: Li dolci decti vostri,\
 &emsp;Che, quanto durerà l'uso moderno,\
-&emsp;Faranno cari ancor e loro inchiostri (⁵).
+&emsp;Faranno cari ancor e loro inchiostri (5).
 
-³⁸ Et ego ad eum: Dulcia dicta vestra,\
+38 Et ego ad eum: Dulcia dicta vestra,\
 &emsp;Que, quanto durabit usus modernus,\
 &emsp;Facient cara adhuc illorum atramenta.
 
-³⁹ O frate, disse, questo ch'io ti cerno (⁶)\
-&emsp;Col dito, et additò un spirto innanzi (⁷),\
-&emsp;Fu miglor fabro di parlar materno (⁸).
+39 O frate, disse, questo ch'io ti cerno (6)\
+&emsp;Col dito, et additò un spirto innanzi (7),\
+&emsp;Fu miglor fabro di parlar materno (8).
 
-³⁹ O frater, dixit, ille quem nunc tibi demonstro\
+39 O frater, dixit, ille quem nunc tibi demonstro\
 &emsp;Cum digito, et additavit unum spiritum ante,\
 &emsp;Fuit melior faber eloquii materni.
 
-⁴⁰ Versi d'amore e prose di romanzi\
+40 Versi d'amore e prose di romanzi\
 &emsp;Soverchiò tucti; lassa dir li stolti,\
 &emsp;Che quei di Lemosi credon ch'avanzi.
 
-⁴⁰ Versibus amoris et prosis romantie\
+40 Versibus amoris et prosis romantie\
 &emsp;Superavit omnes; et permicte dicere stultos,\
 &emsp;Quia illum de Lemogio credo quod excedat.
 
-(¹) da lui — (²) a lui — (³) col giuramento — (⁴) fiume — (⁵) scritture — (⁶) dimostro — (⁷) a sè — (⁸) vulgare.
+(1) da lui — (2) a lui — (3) col giuramento — (4) fiume — (5) scritture — (6) dimostro — (7) a sè — (8) vulgare.
 
 Et sine audire et dicere, securus ivi longo tempore, respiciendo eum; idest, diu admirabar, quomodo talis et tantus homo fuerit involutus in tali vitio: nec per ignem ultra appropinquavi; idest, tamen non fui amplexatus ipsum, ne in illa pice intrarem.
 
@@ -428,63 +428,63 @@ Versibus amoris et prosis romantie superavit, idest excessit, omnes; et permicte
 
 <!-- p. 729 (0783) -->
 
-⁴¹ A voce (¹) più ch'a ver drizzan li volti (²),\
+41 A voce (1) più ch'a ver drizzan li volti (2),\
 &emsp;E così ferman sua oppinione\
-&emsp;Pria ch'arte (³) o ragion per lor s'ascolti.
+&emsp;Pria ch'arte (3) o ragion per lor s'ascolti.
 
-⁴¹ Ad vocem plusquam ad verum erexerunt vultus,\
+41 Ad vocem plusquam ad verum erexerunt vultus,\
 &emsp;Et sic firmarunt suam oppinionem\
 &emsp;Prius quam ars vel ratio per eos auscultetur.
 
-⁴² Così fer molti antichi di Guidone,\
+42 Così fer molti antichi di Guidone,\
 &emsp;Di grido in grido pur lui dando pregio,\
 &emsp;Finchè l'ha vincto el ver con più persone.
 
-⁴² Sic fecerunt multi antiqui de Guictone,\
+42 Sic fecerunt multi antiqui de Guictone,\
 &emsp;De clamore in clamorem solum dando ei pretium,\
 &emsp;Quousque eum veritas vicit cum pluribus personis.
 
-⁴³ Hor, se tu (⁴) hai sì ampio privilegio,\
-&emsp;Che lecito ti sia andar al chiostro (⁵),\
-&emsp;Nel quale è Chrysto abbate del collegio (⁶),
+43 Hor, se tu (4) hai sì ampio privilegio,\
+&emsp;Che lecito ti sia andar al chiostro (5),\
+&emsp;Nel quale è Chrysto abbate del collegio (6),
 
-⁴³ Nunc, si tu habes ita amplum privilegium,\
+43 Nunc, si tu habes ita amplum privilegium,\
 &emsp;Quod licitum tibi sit ire ad claustrum,\
 &emsp;In quo Christus est abbas collegii,
 
-⁴⁴ Falli (⁷) per me un dir d'un Pater nostro,\
+44 Falli (7) per me un dir d'un Pater nostro,\
 &emsp;Quanto bisogna a noi di questo mondo,\
 &emsp;Dove poter peccar non è più nostro.
 
-⁴⁴ Facias pro me unum dicere Pater Noster,\
+44 Facias pro me unum dicere Pater Noster,\
 &emsp;Quantum indigemus nos de isto mundo,\
 &emsp;Ubi posse peccare non est plus nostrum.
 
-⁴⁵ Poi, forse per dar luogo altrui (⁸) secondo,\
+45 Poi, forse per dar luogo altrui (8) secondo,\
 &emsp;Che presso havea, disparve per lo foco,\
 &emsp;Come per acqua'l pesce andando al fondo.
 
-⁴⁵ Postea, forsan propter dare locum alteri secundum,\
+45 Postea, forsan propter dare locum alteri secundum,\
 &emsp;Quem prope habebat, disparuit per focum,\
 &emsp;Sicut per aquam piscis eundo ad fundum.
 
-⁴⁶ Io mi feci al mostrato innanzi un poco,\
+46 Io mi feci al mostrato innanzi un poco,\
 &emsp;E dissi che'l suo nome al mio desire\
 &emsp;Apparecchiava gratioso loco.
 
-⁴⁶ Ego me feci ad illum, qui se monstraverat ante aliquantulum,\
+46 Ego me feci ad illum, qui se monstraverat ante aliquantulum,\
 &emsp;Et dixi quod suo nomini meum desiderium\
 &emsp;Preparaverat gratiosum locum.
 
-⁴⁷ El cominciò liberamente a dire:\
+47 El cominciò liberamente a dire:\
 &emsp;Tam me bellis vestre cortes deman,\
-&emsp;Ch'ie vus non pos (⁹) ne voil a vos courire.
+&emsp;Ch'ie vus non pos (9) ne voil a vos courire.
 
-⁴⁷ Ipse incepit libere dicere:\
+47 Ipse incepit libere dicere:\
 &emsp;Tantum michi placet vestra curialis petitio,\
 &emsp;Quod ego non possum nec volo cooperire.
 
-(¹) di popolazo — (²) loro — (³) che arte — (⁴) o Dante — (⁵) del Paradiso — (⁶) de' Beati — (⁷) al. fa li — (⁸) ad altri — (⁹) al. puos.
+(1) di popolazo — (2) loro — (3) che arte — (4) o Dante — (5) del Paradiso — (6) de' Beati — (7) al. fa li — (8) ad altri — (9) al. puos.
 
 Ad vocem plusquam ad veritatem erexerunt [vultus], et sic se firmant suam opinionem prius quam ars vel ratio per eos auscultetur. Vult dicere quod multi indicant illa que nesciunt, sed solum quia sic audierunt dici. Et hic error commictitur coctidie. Multi dicunt: Talis est valens et asserunt; et si interrogantur: Quomodo scis tu hoc? dicerent: Quia ego audivi a pluribus. Ergo, quia plures dicunt, sic est. Ego mallem credere uni dicenti plus et scienti veritatem, quam pluribus dicentibus idem et non scientibus. Debeo ego credere plus centum rusticis de poesi, quam Francisco Petrarche soli, qui fuit maximus poeta? Certe non: ideo fatui sunt, qui credunt vulgo ignoranti et non dant fidem sapienti.
 
@@ -500,25 +500,25 @@ Ipse, scilicet Arnaldus, respondens, incepit libere dicere: Tantum michi placet,
 
 <!-- p. 730 (0784) -->
 
-⁴⁸ Iem sunt Arnalt, che plor e vai cantan,\
+48 Iem sunt Arnalt, che plor e vai cantan,\
 &emsp;Con si tos ver la spassada follor,\
 &emsp;E vau giausen lo ior hesper denan.
 
-⁴⁸ Ego sum Raynaldus, qui ploro et vado cantando,\
+48 Ego sum Raynaldus, qui ploro et vado cantando,\
 &emsp;Sicut iam feci preterita peccata,\
 &emsp;Et vado gaudendo letus diem quem spero ante.
 
-⁴⁹ Ara vus preu per achella valor,\
+49 Ara vus preu per achella valor,\
 &emsp;Ch'e vus guida al son do l'eschalina,\
 &emsp;Sovegna vos a temps de ma dolor.\
-&emsp;Poscia (¹) s'ascose nel fuoco che li affina (²).
+&emsp;Poscia (1) s'ascose nel fuoco che li affina (2).
 
-⁴⁹ Nunc ego precor vos, per illam virtutem,\
+49 Nunc ego precor vos, per illam virtutem,\
 &emsp;Que conducit vos ad summum scalarum, quod\
 &emsp;Subveniat vobis in tempore de meis doloribus.\
 &emsp;Postea se abscondit in igne qui eos affinat.
 
-(¹) al. poi — (²) purga.
+(1) al. poi — (2) purga.
 
 Ego sum Arnaldus, qui ploro et vado cantando, sicut iam feci preterita peccata. Sic faciunt omnes qui sunt in Purgatorio, quia plorant propter penam peccatorum commissorum, et cantant propter iustitiam Dei, de qua contentantur, et propter gloriam quam expectant, de qua habenda iam sunt certi. Et vado gaudendo letus, scilicet contemplando diem, quem spero ante, idest de proximo spero habere.
 

@@ -8,19 +8,19 @@ In octavo capitulo, quod incipit: Ego dico, prosequitur materiam accidie, iracun
 
 # Capitulum Octavum
 
-¹ Io dico, seguitando, ch'assai prima\
+1 Io dico, seguitando, ch'assai prima\
 &emsp;Che noi fossimo a piè dell' alta torre,\
 &emsp;Gl'ochi n'andar per fin suso a la cima;
 
-¹ Ego dico, sequendo, quod longe prius\
+1 Ego dico, sequendo, quod longe prius\
 &emsp;Quam nos essemus ad pedes unius alte turris,\
 &emsp;Oculi nostri iverunt sursum ad summitatem;
 
-² Per due fiammette che lì vedemo porre,\
+2 Per due fiammette che lì vedemo porre,\
 &emsp;Et un'altra da lungi render cenno,\
 &emsp;Tanto ch'a pena 'l potea l'ochio torre.
 
-² Propter duas flammiculas quas vidimus ibi poni,\
+2 Propter duas flammiculas quas vidimus ibi poni,\
 &emsp;Et unam aliam a longe reddere signum,\
 &emsp;In tantum quod vix poterat oculus percipere.
 
@@ -54,63 +54,63 @@ E io dico: et ego dico quod satis antequam essemus
 
 <!-- p. 111 (0165) -->
 
-³ Io mi rivolsi al mar di tutto senno:\
-&emsp;Questo (¹), dissi, che dice (²)? e che risponde\
+3 Io mi rivolsi al mar di tutto senno:\
+&emsp;Questo (1), dissi, che dice (2)? e che risponde\
 &emsp;Quell' altro fuoco? e chi son quei che 'l fenno?
 
-³ Et ego me volvi ad mare totius sensus,\
+3 Et ego me volvi ad mare totius sensus,\
 &emsp;[Et] dixi: Istud quid dixit? et quid respondet\
 &emsp;Ille alter ignis? et qui sunt illi qui eum fecerunt?
 
-⁴ Et elli a me: Su per le sucide onde\
+4 Et elli a me: Su per le sucide onde\
 &emsp;Già bene scorger puoi quel che s'aspetta,\
-&emsp;Se 'l fumo del pantan nol ti (³) nasconde.
+&emsp;Se 'l fumo del pantan nol ti (3) nasconde.
 
-⁴ Et ipse ad me: Super putridas undas\
+4 Et ipse ad me: Super putridas undas\
 &emsp;Iam potes discernere illud quod expectatur,\
 &emsp;Si fumus paludis hoc tibi non abscondit.
 
-⁵ Corda non pinse mai da sè saetta,\
+5 Corda non pinse mai da sè saetta,\
 &emsp;Che sì corresse via per l'aer snella,\
-&emsp;Come vidi una nave piccioletta (⁴)
+&emsp;Come vidi una nave piccioletta (4)
 
-⁵ Corda non pinxit unquam a se sagittam,\
+5 Corda non pinxit unquam a se sagittam,\
 &emsp;Que sic curreret ultra per aierem levis,\
 &emsp;Sicut ego vidi unam navim parvulam
 
-⁶ Venir per l'acqua verso noi in quella,\
+6 Venir per l'acqua verso noi in quella,\
 &emsp;Sotto 'l governo d'un sol ghaleoto,\
 &emsp;Che gridava: Or se' giunta, anima fella!
 
-⁶ Venire per aquam versus nos in illa hora,\
+6 Venire per aquam versus nos in illa hora,\
 &emsp;Sub gubernatione unius soli galeotti,\
 &emsp;Qui clamabat: Nunc es deprehensa, anima misera!
 
-⁷ Flegias, Flegias, tu gridi hor a voto,\
+7 Flegias, Flegias, tu gridi hor a voto,\
 &emsp;Disse lo mio signor, ch'a questa volta\
 &emsp;Più non ci havrai che sol passando el loto.
 
-⁷ Flegias, Flegias, tu clamas in vacuum,\
+7 Flegias, Flegias, tu clamas in vacuum,\
 &emsp;Dixit meus dominus: ista vice\
 &emsp;Plus non habebis nos quam pertranseundo lutum.
 
-⁸ Qual è colui che grande inganno ascolta\
-&emsp;Che li sia facto, e poi se ne rammarca (⁵),\
+8 Qual è colui che grande inganno ascolta\
+&emsp;Che li sia facto, e poi se ne rammarca (5),\
 &emsp;Così Flegias fe' nell'ira accolta.
 
-⁸ Qualis ille qui magnam deceptionem auscultat\
+8 Qualis ille qui magnam deceptionem auscultat\
 &emsp;Que sibi fiat, et postmodum de illa conqueritur,\
 &emsp;Talem se fecit Flegias in ira apprehensa.
 
-⁹ Lo duca mio discese ne la barca,\
+9 Lo duca mio discese ne la barca,\
 &emsp;E poi mi fece intrar a presso a lui;\
-&emsp;E sol quando fu' (⁶) dentro, parve carca.
+&emsp;E sol quando fu' (6) dentro, parve carca.
 
-⁹ Dux meus descendit in barcham,\
+9 Dux meus descendit in barcham,\
 &emsp;Et postea me fecit intrare prope eum;\
 &emsp;Et solum quando fui intus, apparuit onerata.
 
-(¹) fuoco. — (²) significa. — (³) al. non tel. — (⁴) al. picholetta. — (⁵) lamenta — (⁶) fui.
+(1) fuoco. — (2) significa. — (3) al. non tel. — (4) al. picholetta. — (5) lamenta — (6) fui.
 
 ad pedes turris alte, oculi nostri iverunt sursum ad summitatem, scilicet turris: superius inspexerunt. Ego dico sequens, scilicet materiam quam dimiseram, quod antequam applicaremus ad pedes turris, respeximus superius ad summitatem, propter hoc, quia duas faces, sive facellas, vidimus positas ibi, et unam aliam a longe reddere signum, in tantum quod vix potui cum oculis videre.
 
@@ -128,55 +128,55 @@ Dux meus descendit in barcham; postea fecit me intrare cum ipso; et solum quando
 
 <!-- p. 112 (0166) -->
 
-¹⁰ Tosto che 'l duca et io nel legno fui,\
+10 Tosto che 'l duca et io nel legno fui,\
 &emsp;A seconda sen va l'antica prora\
 &emsp;Dell' acqua più che non suol con altrui.
 
-¹⁰ Quam cito dux et ego in ligno fui,\
+10 Quam cito dux et ego in ligno fui,\
 &emsp;Solcando vadit antiqua prora\
 &emsp;De aqua plusquam consuevit cum aliis.
 
-¹¹ Mentre noi correvàn la morta ghora,\
+11 Mentre noi correvàn la morta ghora,\
 &emsp;Dinanzi mi si fece un pien di fango,\
-&emsp;E disse: Chi se' tu che vieni anz'hora (¹)?
+&emsp;E disse: Chi se' tu che vieni anz'hora (1)?
 
-¹¹ Dum sic nos currebamus mortuam aquam,\
+11 Dum sic nos currebamus mortuam aquam,\
 &emsp;Ante me se fecit unus plenus luto,\
 &emsp;Et dixit: Quis est tu qui venis ante horam?
 
-¹² Et io a lui: S'io vengo, non rimango;\
+12 Et io a lui: S'io vengo, non rimango;\
 &emsp;Ma tu chi se', che sì se' facto bructo?\
 &emsp;Rispose: Vedi che son un che piango.
 
-¹² Et ego ad eum: Si venio non remaneo;\
+12 Et ego ad eum: Si venio non remaneo;\
 &emsp;Sed tu qui es, qui es ita factus turpis?\
 &emsp;Respondit: Videas quod sum unus qui plango.
 
-¹³ Ond'io a lui: Con piangere e con lucto,\
-&emsp;(²) Spirito maladetto, ti rimani:\
+13 Ond'io a lui: Con piangere e con lucto,\
+&emsp;(2) Spirito maladetto, ti rimani:\
 &emsp;Ch'io ti cognosco, ancor sia lordo tutto.
 
-¹³ Et ego ad eum: Cum planctu et cum luctu,\
+13 Et ego ad eum: Cum planctu et cum luctu,\
 &emsp;Spiritus maledicte, remaneas:\
 &emsp;Quia ego te cognosco, quamquam sis turpis totus.
 
-¹⁴ Allora stese al legno (³) ambo le mani:\
+14 Allora stese al legno (3) ambo le mani:\
 &emsp;Perchè 'l maestro accorto lo sospinse,\
-&emsp;Dicendo: Va' costà co' (⁴) gl'altri cani.
+&emsp;Dicendo: Va' costà co' (4) gl'altri cani.
 
-¹⁴ Tunc extendit ad lignum ambas manus:\
+14 Tunc extendit ad lignum ambas manus:\
 &emsp;Quare magister cautus ante impulit,\
 &emsp;Dicens: Vadas istuc cum aliis canibus.
 
-¹⁵ El (⁵) collo poi colle braccia mi cinse,\
+15 El (5) collo poi colle braccia mi cinse,\
 &emsp;Baciommi 'l volto, e disse: Alma sdegnosa,\
 &emsp;Benedetta colei che 'n te si cinse.
 
-¹⁵ Collum postmodum cum brachiis michi cinxit,\
+15 Collum postmodum cum brachiis michi cinxit,\
 &emsp;Osculatus est michi vultum, et dixit: Anima indignans,\
 &emsp;Benedicta sit illa que in te se cinxit.
 
-(¹) ante tempus. — (²) o. — (³) navicella. — (⁴) al. tra. — (⁵) al. lo.
+(1) ante tempus. — (2) o. — (3) navicella. — (4) al. tra. — (5) al. lo.
 
 Dantes erat cum corpore. Hoc est dictum, quia vita superbi, que sepe vacillat in se, firmatur virtute, sensu, sive ratione; sicut sepe fecit Aristotiles cum Alexandro. Sepe Aristotiles placavit Alexandrum, retrahendo ipsum a multis malis et erroribus.
 
@@ -198,63 +198,63 @@ Collum meum postmodum cum brachiis me magister cinxit; osculabatur michi vultum,
 
 <!-- p. 113 (0167) -->
 
-¹⁶ Quei fu al mondo persona orgoglosa:\
+16 Quei fu al mondo persona orgoglosa:\
 &emsp;Bontà non è che sua memoria fregi:\
-&emsp;Così s'è l'ombra sua (¹) qui furiosa.
+&emsp;Così s'è l'ombra sua (1) qui furiosa.
 
-¹⁶ Ille fuit in mundo persona iracunda:\
+16 Ille fuit in mundo persona iracunda:\
 &emsp;Bonitas non est que suam memoriam ornet:\
 &emsp;Ita umbra sua est hic furibunda.
 
-¹⁷ Molti si tengon hor lassù gran regi,\
+17 Molti si tengon hor lassù gran regi,\
 &emsp;Che qui staranno come porci in brago,\
 &emsp;Di sè lassando horribili dispregi!
 
-¹⁷ Quot se reputant nunc ibidem grandes reges,\
+17 Quot se reputant nunc ibidem grandes reges,\
 &emsp;Qui hic stabunt tamquam porci in luto,\
 &emsp;De se mictendo horribiles infamias!
 
-¹⁸ Ond'io: Maestro, molto sarei vago\
+18 Ond'io: Maestro, molto sarei vago\
 &emsp;Di vederlo attufarlo in questa broda,\
 &emsp;Prima che noi uscissimo del lago.
 
-¹⁸ Et ego: Magister, multum appeterem\
+18 Et ego: Magister, multum appeterem\
 &emsp;Videre illum submergi in isto luto,\
 &emsp;Priusquam nos exiremus lacum.
 
-¹⁹ Et elli a me: Avanti che la proda (²)\
+19 Et elli a me: Avanti che la proda (2)\
 &emsp;Ti si lassi veder, tu sarai satio;\
 &emsp;Di tal desio convien che tu goda.
 
-¹⁹ Et ipse ad me: Antequam prora\
+19 Et ipse ad me: Antequam prora\
 &emsp;Permictat se a te videri, tu eris satur;\
 &emsp;Tali desiderio erit expediens quod tu gaudeas.
 
-²⁰ Doppo ciò poco, viddi quello stratio\
+20 Doppo ciò poco, viddi quello stratio\
 &emsp;Far di costui a le fangose genti,\
-&emsp;Che (³) io ancor ne lodo e ne ringratio.
+&emsp;Che (3) io ancor ne lodo e ne ringratio.
 
-²⁰ Post hoc paullulum vidi tale vilipendium\
+20 Post hoc paullulum vidi tale vilipendium\
 &emsp;Fieri de isto a lutosis gentibus,\
 &emsp;Quod Deum usque nunc laudo et eidem regratior.
 
-²¹ Tutti gridavano: Ha Filippo Argenti:\
+21 Tutti gridavano: Ha Filippo Argenti:\
 &emsp;Ah fiorentino spirito bizzarro:\
-&emsp;Quel (⁴) sè medesmo si mordea (⁵) co'denti.
+&emsp;Quel (4) sè medesmo si mordea (5) co'denti.
 
-²¹ Omnes clamabant: Ad Philippum Argenti:\
+21 Omnes clamabant: Ad Philippum Argenti:\
 &emsp;Et Florentinus spiritus iracundus\
 &emsp;In se ipsum se rodebat cum dentibus.
 
-²² Quivi'l lassammo: chè più non ne narro:\
+22 Quivi'l lassammo: chè più non ne narro:\
 &emsp;Ma nell'orechie mi percosse un duolo,\
-&emsp;Perch'io (⁶) l'ochio (⁷) avanti intento (⁸) sbarro. (⁹)
+&emsp;Perch'io (6) l'ochio (7) avanti intento (8) sbarro. (9)
 
-²² Ibi eum dimisimus: de eo plus non narro,\
+22 Ibi eum dimisimus: de eo plus non narro,\
 &emsp;Quia aures meas percussit unus sonus,\
 &emsp;Ex quo ego ulterius oculos intentus immicto.
 
-(¹) come al mondo. — (²) del lago. — (³) le quali — (⁴) al. che — (⁵) al. rodea; al. volvea. — (⁶) per lo quale io. (⁷) al. ochi. — (⁸) al. intenti — (⁹) apro bene.
+(1) come al mondo. — (2) del lago. — (3) le quali — (4) al. che — (5) al. rodea; al. volvea. — (6) per lo quale io. (7) al. ochi. — (8) al. intenti — (9) apro bene.
 
 benedicta illa, que in te s'encense. Virgilius iustificat quidquid fecit hic Dantes cum isto superbo, faciendo sibi applausus. Alma sdegnosa: cape in bonam partem; idest; o anima, que habes [in] indignationem tales superbos. Quando aliqua mulier, pregnans est, [dicitur]: cingit se; in filio, scilicet, quem habet in ventre.
 
@@ -276,63 +276,63 @@ Sbarro: amplo.
 
 <!-- p. 114 (0168) -->
 
-²³ E 'l buon maestro disse: Omai, figliuolo,\
+23 E 'l buon maestro disse: Omai, figliuolo,\
 &emsp;S'appressa la città c'ha nome Dite,\
 &emsp;De' gravi cittadin, col grande stuolo.
 
-²³ Bonus magister dixit: Ammodo, fili,\
+23 Bonus magister dixit: Ammodo, fili,\
 &emsp;Appropinquat civitas que vocatur Dites,\
 &emsp;Cum gravibus civibus, et grandi stolo.
 
-²⁴ Et io: Maestro, già le sue meschite\
+24 Et io: Maestro, già le sue meschite\
 &emsp;Là entro certo per la valle scerno\
 &emsp;Vermigle, come se di fuoco escite
 
-²⁴ Et ego: Magister, suas meschitas\
+24 Et ego: Magister, suas meschitas\
 &emsp;Illuc deorsum certe in valle cerno\
 &emsp;Rubeas, ac si ignem egresse
 
-²⁵ Fosser. Et ei mi disse: El fuoco eterno\
-&emsp;Ch'entro l'affuoca (¹), le dimostra rosse,\
+25 Fosser. Et ei mi disse: El fuoco eterno\
+&emsp;Ch'entro l'affuoca (1), le dimostra rosse,\
 &emsp;Come tu vedi in questo basso Inferno.
 
-²⁵ Essent. Et ipse michi dixit: Ignis eternus,\
+25 Essent. Et ipse michi dixit: Ignis eternus,\
 &emsp;Qui intus eas ignitat, ostendit eas rubeas,\
 &emsp;Prout vides, in isto infimo Inferno.
 
-²⁶ Noi pur giugnemmo dentro all'altre fosse,\
+26 Noi pur giugnemmo dentro all'altre fosse,\
 &emsp;Che vallan quella terra sconsolata:\
 &emsp;Le mura mi parean che ferro fosse.
 
-²⁶ Nos pur pervenimus ad altas fossas,\
+26 Nos pur pervenimus ad altas fossas,\
 &emsp;Que vallant illam terram desolatam:\
 &emsp;Muri videbantur michi quod ferrum essent.
 
-²⁷ Non senza prima far grande girata,\
+27 Non senza prima far grande girata,\
 &emsp;Venimmo in parte, dove 'l nochier, forte,\
 &emsp;Uscite, ci gridò, qui è l'entrata.
 
-²⁷ Nec sine primo facere magnum circuitum,\
+27 Nec sine primo facere magnum circuitum,\
 &emsp;Venimus in locum, ubi nauclerius, fortis,\
 &emsp;Exeatis hinc, clamavit, hic est introytus.
 
-²⁸ Io vidi più di mille in sulle porte\
+28 Io vidi più di mille in sulle porte\
 &emsp;Da ciel piovuti, che stizzosamente\
 &emsp;Dicean: Chi è costui che senza morte
 
-²⁸ Et ego vidi plusquam mille super portas\
+28 Et ego vidi plusquam mille super portas\
 &emsp;Quos a celo pluit, qui dedignanter\
 &emsp;Dicebant: Quis est iste qui sine morte
 
-²⁹ Va per lo regno della morta gente?\
+29 Va per lo regno della morta gente?\
 &emsp;E 'l savio mio maestro fece segno\
 &emsp;Di voler lor parlar segretamente.
 
-²⁹ Vadit per regnum mortue gentis?\
+29 Vadit per regnum mortue gentis?\
 &emsp;Et sapiens meus magister fecit signum\
 &emsp;Velle eis loqui secrete.
 
-(¹) al. l'enfuocha.
+(1) al. l'enfuocha.
 
 Bonus magister dixit michi: Iam appropinquat civitas, vocata nomine Dite, cum civibus et grandi, idest magno, stuolo, idest numero. Ditis: idest magni demonis.
 
@@ -354,63 +354,63 @@ Ego vidi plusquam mille super portas, qui de celo ceciderunt, qui pluerunt de ce
 
 <!-- p. 115 (0169) -->
 
-³⁰ Allor chiusen un poco el gran disdegno,\
+30 Allor chiusen un poco el gran disdegno,\
 &emsp;E disser: Vien tu solo, e quei sen vada,\
 &emsp;Che sì sicuro entrò per questo regno.
 
-³⁰ Clauserunt tunc paullulum grandem indignationem,\
+30 Clauserunt tunc paullulum grandem indignationem,\
 &emsp;Et dixerunt: Venias tu solus, et ille recedat,\
 &emsp;Qui ita audax intravit per istud regnum.
 
-³¹ Sol si ritorni per la folle strada:\
+31 Sol si ritorni per la folle strada:\
 &emsp;Pruovi se sa; chè tu qui rimarrai,\
 &emsp;Che gl'ài scorta sì buia contrada.
 
-³¹ Solus redeat per turpem stratam:\
+31 Solus redeat per turpem stratam:\
 &emsp;Probet si scit; quia tu hic remanebis,\
 &emsp;Qui ei ostendisti ita obscuram contratam.
 
-³² Pensa, (¹) lector, s'io mi sconfortai (²)\
+32 Pensa, (1) lector, s'io mi sconfortai (2)\
 &emsp;Nel suon de le parole maladette:\
 &emsp;Che non credetti ritornarci mai.
 
-³² Cogita, lector, qualiter me [s]confortavi\
+32 Cogita, lector, qualiter me [s]confortavi\
 &emsp;In sono verborum maledictorum,\
 &emsp;Quod ego non credidi illic redire unquam.
 
-³³ O caro duca mio, che più di sette\
+33 O caro duca mio, che più di sette\
 &emsp;Volte m'ài sicurtà renduta, e tracto\
 &emsp;D'altro periglo che 'ncontro ci stette,
 
-³³ O care dux mi, qui plusquam septem\
+33 O care dux mi, qui plusquam septem\
 &emsp;Vices michi securitatem reddidisti, et traxisti\
 &emsp;Ab alio periculo quod contra me stetit,
 
-³⁴ Non mi lassar, diss'io, così disfacto:\
+34 Non mi lassar, diss'io, così disfacto:\
 &emsp;E se l'andar più oltre c'è negato,\
 &emsp;Ritroviam l'orme nostre insieme racto.
 
-³⁴ Non me dimictas, dixi ego, destructum:\
+34 Non me dimictas, dixi ego, destructum:\
 &emsp;Et si ulterius transire nobis denegatur,\
 &emsp;Reperiamus vestigia nostra simul cito.
 
-³⁵ E quel signor, che lì m'havea menato,\
+35 E quel signor, che lì m'havea menato,\
 &emsp;Mi disse: Non temer, che 'l nostro passo\
 &emsp;Non ci può tor alcun: da tal n'è dato.
 
-³⁵ Ille dominus, qui illuc me duxerat,\
+35 Ille dominus, qui illuc me duxerat,\
 &emsp;Michi dixit: Ne timeas, quia nostrum passum\
 &emsp;Non potest subripere nobis aliquis: a tali nobis datur.
 
-³⁶ Ma qui m'attende (³); e lo spirito lasso\
+36 Ma qui m'attende (3); e lo spirito lasso\
 &emsp;Conforta e ciba di speranza buona,\
 &emsp;Ch'io non ti lasserò nel mondo basso.
 
-³⁶ Sed hic me expectes; et spiritum fessum\
+36 Sed hic me expectes; et spiritum fessum\
 &emsp;Confortes et cibes spe bona,\
 &emsp;Quia te non dimictam in mundo infimo.
 
-(¹) o. — (²) al. sgomentai. — (³) m'aspecta.
+(1) o. — (2) al. sgomentai. — (3) m'aspecta.
 
 mortue gentis? Et sapiens meus magister signum fecit ipsis, velle secrete cum eis loqui. Tunc clauserunt modicum magnam indignationem, et dixerunt: Veni tu solus, et ille revertatur, qui sic audax intravit per istud magnum [regnum]. Solus revertatur per follem, idest temerariam, stratam, idest viam: probet, si scit; quia tu hic remanebis, qui eum conduxisti per tam buiam, idest obscuram, contratam. Ymagineris, lector, si ego diffisus fui in sono maledictorum verborum: unde non credidi unquam redire. Hic est notandum quod, sicut in uno preambulorum dixi, difficile est aliquando intelligere textum et litteram, quoniam ad perfectam notitiam littere habendam, sepe oportet ipsam intelligere in sensu litterali, aliquando in figurali, sive allegorico. Modo sciendum est, quod per Dantem intelligitur sensualitas: per Virgilium recta ratio naturalis: per demones mille et plusquam mille, moraliter intelliguntur vitia et scellera obstinatorum; allegorice, pro maximis difficultatibus describendis et pertractandis de ipsis vitiis et scelleribus. Per illum, qui de celo veniet, idest in adiutorium Danti et Virgilio, intelligitur Mercurius, qui, secundum poetas, est nuntius de celo veniens, deus eloquentie. Allegorice, iste qui veniet in adiutorium istis, intelligitur influentia celi, vel gratia Dei, vel succursus et adiutorium Beatricis, sacre scilicet Scripture. Adhuc notandum, quod non sciebat Dantes, nec Virgilius, quod ille celestis nuntius supplevit; idest quod non poterat sensualitas, nec ratio naturalis scire, quod gratia Dei supplevit. Iste nuntius portat virgam, idest potestatem, vel scientiam. Demum nota, quod, allegorice, licet Dantes haberet doctrinam Virgilii, scriptam in sexto Eneydos, et haberet scientiam etiam propriam, hoc non sufficiebat sibi ad perficiendum hoc opus, quod inceperat, scilicet describere vitia et virtutes poetice; et ubi sepe invenit puncta difficilia, cogitabat hoc opus deserere imperfectum: tamen, gratia Iesu Christi adiuvante, usque ad finem perduxit. Videbatur tamen quod Virgilius esset aptior ad hoc opus faciendum, quam Dantes, propter sextum Eneydos. Ideo dicitur: Hic, scilicet Virgilius, remaneat, et ille, scilicet Dantes, retrocedat, etc. Modo ad litteram.
 
@@ -422,65 +422,65 @@ Et ille dominus, qui illuc me duxerat, dixit: Ne timeas, quia hunc nostrum passu
 
 <!-- p. 116 (0170) -->
 
-³⁷ Così sen va, e quivi m'abbandona\
+37 Così sen va, e quivi m'abbandona\
 &emsp;Lo dolce padre, et io rimango in forse;\
 &emsp;E sì e no nel capo mi tenciona.
 
-³⁷ Sic recedit, et ibi me dereliquit\
+37 Sic recedit, et ibi me dereliquit\
 &emsp;Dulcis pater, et ego remaneo in suspenso;\
 &emsp;Quia sic et non in capite meo pugnant.
 
-³⁸ Udir non potti quello ch' a lor porse;\
+38 Udir non potti quello ch' a lor porse;\
 &emsp;Ma el non stette là con essi guari,\
 &emsp;Chè ciascheduno a prova si ritorse.
 
-³⁸ Audire non potui illud quod eis porrexit:\
+38 Audire non potui illud quod eis porrexit:\
 &emsp;Sed non stetit ibi cum eis multum,\
 &emsp;Quia quilibet intro ad experimentum recurrerat.
 
-³⁹ Chiuser le porte que'nostri adversari\
+39 Chiuser le porte que'nostri adversari\
 &emsp;Nel pecto al mio signor, che fuor rimase,\
 &emsp;E ritornossi a me con passi rari.
 
-³⁹ Clauserunt portas illi nostri adversarii\
+39 Clauserunt portas illi nostri adversarii\
 &emsp;In pectus mei domini, qui foris remansit,\
 &emsp;Et ipse se volvit ad me cum passibus raris.
 
-⁴⁰ E l'ochi (¹) a la terra, e le cigla havea rase\
+40 E l'ochi (1) a la terra, e le cigla havea rase\
 &emsp;D'ogni baldanza, e dicea ne'sospiri:\
 &emsp;Chi m'à negate le dolenti case?
 
-⁴⁰ Oculos ad terram, et supercilia habebat rasa\
+40 Oculos ad terram, et supercilia habebat rasa\
 &emsp;Omnis audacie, et dicebat in suspiriis:\
 &emsp;Quis michi negavit dolentes casas?
 
-⁴¹ Et a me disse: Tu, perch' io m' adiri,\
+41 Et a me disse: Tu, perch' io m' adiri,\
 &emsp;Non sbigottir, ch'io vincerò la prova,\
 &emsp;Qual ch'a la defension dentro s'aggiri.
 
-⁴¹ Et ad me dixit: Tu, quamquam ego irascar,\
+41 Et ad me dixit: Tu, quamquam ego irascar,\
 &emsp;Ne paveas, quod ego vincam pugnam,\
 &emsp;Quidquid ad defensionem intus circumvolvitur.
 
-⁴² Questa lor tracotanza non è nuova,\
-&emsp;Che già l'usaro a men (²) secreta porta,\
+42 Questa lor tracotanza non è nuova,\
+&emsp;Che già l'usaro a men (2) secreta porta,\
 &emsp;La qual senza serrame ancor si trova.
 
-⁴² Ista eorum immoralitas non est nova,\
+42 Ista eorum immoralitas non est nova,\
 &emsp;Quia iam usi fuerunt in minus secreta porta,\
 &emsp;Que sine clausura adhuc reperitur.
 
-⁴³ Sovr'essa vedesti tu la scripta morta;\
+43 Sovr'essa vedesti tu la scripta morta;\
 &emsp;E già di qua da lei discende l'erta,\
 &emsp;Passando per li cerchi senza scorta,\
 &emsp;Tal che per lui ne fia la terra aperta.
 
-⁴³ Super ipsam vidisti tu scriptam mortuam;\
+43 Super ipsam vidisti tu scriptam mortuam;\
 &emsp;Et iam citra eam descendit declivium,\
 &emsp;Transeundo per circulos, sine scorta,\
 &emsp;Talis per quem nobis erit terra aperta.
 
-(¹) haveva. — (²) i. a me in.
+(1) haveva. — (2) i. a me in.
 
 Sic ivit, et hic reliquit, dulcis pater: et ego remaneo in forse, idest in dubio, quia non et sic in capite meo tentionat; idest dubito, si revertatur an non.
 

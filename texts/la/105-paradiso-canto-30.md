@@ -8,43 +8,43 @@ In tricesimo capitulo, quod incipit: Forsan sex millia milliaria, etc., auctor d
 
 # Capitulum Tricesimum
 
-¹ Forse se' milia migla di lontano\
+1 Forse se' milia migla di lontano\
 &emsp;Ci ferve l'hora sexta, e questo mondo\
 &emsp;China già l'hombra quasi al lecto piano,
 
-¹ Forsan sex millibus milliaribus a longe\
+1 Forsan sex millibus milliaribus a longe\
 &emsp;Hic fervet hora sexta, et iste mundus\
 &emsp;Inclinat iam umbram ad latus planum,
 
-² Quando 'l mezzo del ciel, a noi profondo,\
+2 Quando 'l mezzo del ciel, a noi profondo,\
 &emsp;Comincia a farsi tal, ch'alcuna stella\
 &emsp;Perde 'l parere infin a questo fondo;
 
-² Quando celi medium, nobis profundum,\
+2 Quando celi medium, nobis profundum,\
 &emsp;Incipit fieri taliter, quod aliqua stella\
 &emsp;Perdit apparere usque ad istum fundum;
 
-³ E come vien la chiarissima ancella\
+3 E come vien la chiarissima ancella\
 &emsp;Del sol più oltre, così 'l ciel si chiude\
 &emsp;Di vista in vista infin a la più bella;
 
-³ Et sicut venit clarissima ancilla\
+3 Et sicut venit clarissima ancilla\
 &emsp;Solis magis ultra, ita clauditur celum\
 &emsp;De vista in vistam usque ad pulchriorem;
 
-⁴ Non altrimenti el triumpho, che lude\
+4 Non altrimenti el triumpho, che lude\
 &emsp;Sempre dintorno al puncto che mi vinse,\
 &emsp;Parendo inchiuso da quel ch'elli inchiude,
 
-⁴ Non aliter triumphus, qui ludit\
+4 Non aliter triumphus, qui ludit\
 &emsp;Semper circa punctum qui me vicit,\
 &emsp;Apparendo inclusus ab hiis qui eum includunt,
 
-⁵ A poc'a poco el mio veder distinse;\
+5 A poc'a poco el mio veder distinse;\
 &emsp;Perchè tornar cogl'ochi a Beatrice\
 &emsp;Nulla veder et amor mi costrinse.
 
-⁵ Paulatim meo visui se extinxit;\
+5 Paulatim meo visui se extinxit;\
 &emsp;Ex quo redire cum oculis ad Beatricem\
 &emsp;Et nihil videre amor me constrinxit.
 
@@ -72,39 +72,39 @@ Redeundo ad primam partem, auctor, continuando dicta dicendis, ponit disposition
 
 <!-- p. 1169 (1223) -->
 
-⁶ Se quanto infin a qui di lei si dice\
+6 Se quanto infin a qui di lei si dice\
 &emsp;Fusse conchiuso tutto in una loda,\
-&emsp;Poco sarebbe a fornir questa vice (¹).
+&emsp;Poco sarebbe a fornir questa vice (1).
 
-⁶ Si quantum usque huc de ea dicitur\
+6 Si quantum usque huc de ea dicitur\
 &emsp;Esset conclusum totum in una laude,\
 &emsp;Modicum esset ad fulciendum ista vice.
 
-⁷ La bellezza ch'io vidi si transmoda (²)\
+7 La bellezza ch'io vidi si transmoda (2)\
 &emsp;Non pur di là da noi, ma cert'io credo\
 &emsp;Che solo 'l suo Factor tutta la goda.
 
-⁷ Pulchritudo quam ego vidi se transmodat\
+7 Pulchritudo quam ego vidi se transmodat\
 &emsp;Non solum ultra nos, sed certe ego credo\
 &emsp;Quod solum suus Factor tota illa gaudeat.
 
-⁸ Da questo passo vinto mi concedo,\
-&emsp;Più che giamai da puncto di suo tema (³)\
-&emsp;Soprato (⁴) fusse comico o tragedo.
+8 Da questo passo vinto mi concedo,\
+&emsp;Più che giamai da puncto di suo tema (3)\
+&emsp;Soprato (4) fusse comico o tragedo.
 
-⁸ Ab isto passu victum me concedo,\
+8 Ab isto passu victum me concedo,\
 &emsp;Plusquam unquam a puncto sui thematis\
 &emsp;Superatus esset comicus vel tragedus.
 
-⁹ E, come sole in viso che più trema,\
+9 E, come sole in viso che più trema,\
 &emsp;Così lo rimembrar del dolce riso\
 &emsp;La mente mia da me medesmo scema.
 
-⁹ Sicut sol in visu qui magis tremit,\
+9 Sicut sol in visu qui magis tremit,\
 &emsp;Sic recordatio dulcis risus\
 &emsp;Mentem meam a memetipso scemat.
 
-(¹) fiata — (²) transcende — (³) materia — (⁴) avanzato.
+(1) fiata — (2) transcende — (3) materia — (4) avanzato.
 
 usque ad meridiem; alia usque ad sero, sive ad occasum solis. Volens describere disparitionem stellarum, que fit de mane, lucescente sole, tunc hora in qua fervet sol, scilicet hora sexta diei, que est meridies, distat ab ortu solis per sex horas: distante igitur sexta hora per sex millia milliarum ab ortu solis, erat tunc principium diei; et sic tunc stelle celi, una post aliam, disparuerunt omnes. Sicut tunc stelle disparent, sic hic disparuerunt omnes stelle, apparente Deo. Forsan sex millibus milliaribus [a longe] hic fervet hora sexta (quia hora sexta distat ab ortu solis per sex millia milliariorum, vel milliarium: quia ab ortu solis usque ad meridiem sunt sex hore, et in qualibet sol currit per mille milliaria, ergo sex millibus milliaribus de longinquo ab hortu solis fervet hora sexta), [et], tunc in ortu solis, iste mundus inferior inclinat iam umbram (inclinat, idest expellit, umbram, idest noctem, quia nox non est aliud quam umbra terre interposite inter nos et solem) ad latus planum, alias ad lectum (quia illa umbra vadit inferius, et quando fit hic superius dies, inferius fit nox), quando celi medium, nobis profundum, idest altissimum (quia in nostro emispyrio medium celi est profundissimum, idest altissimum), incipit fieri taliter, idest in tantum, quod aliqua stella perdit apparere, idest disparet, usque ad istum fundum, idest nobis disparet in nostro emispyrio, propter maius lumen, scilicet solis orientis; et sicut venit clarissima ancilla solis, idest prima hora diei (secundum aliquos aurora dicitur ancilla solis) magis ultra, ita clauditur celum de vista in vistam, idest de stella in stellam (idest celum disparet, quod videbatur tam clare apparentibus stellis, donec venit sol, qui est pulcherrimus stellarum), usque ad pulchriorem, idest usque ad solem, idest quousque sol oritur (modo adducit comparationem istam ad propositum: sicut sole apparente disparent omnes stelle, ita, apparente claro isto puncto, figurante Deum, omnes angeli disparuerunt); non aliter triumphus qui ludit, idest cetus angelorum, vel cori, semper circa punctum qui me vicit (nam ille punctus vicit auctorem, quia propter nimium splendorem oculi auctoris non poterant intendere in eum), apparendo inclusus, idest velatus, ab hiis, idest angelis, qui eum includunt, idest velant (angeli dicuntur triumphus, quia triumphaverunt contra illos demones qui ceciderunt, qui angeli videntur includere illum punctum, idest quia velant deitatem, et ipsi angeli non continent punctum illum, scilicet Deum, sed ab illo ipsi continentur), paulatim meo visui se extinxit, idest se abscondit, idest disparuit; ex quo redire cum oculis ad Beatricem et nihil videre amor me constrinxit. Angeli dicuntur ludere cum Deo, quia faciunt festum coram Deo, cantando, laudando, et glorificando.
 
@@ -114,47 +114,47 @@ Pulchritudo, quam ego vidi, scilicet hic, se transmodat, idest ultra modum vadit
 
 <!-- p. 1170 (1224) -->
 
-¹⁰ Dal primo giorno ch'io vidi 'l suo viso\
+10 Dal primo giorno ch'io vidi 'l suo viso\
 &emsp;In questa vita, infin a questa vista,\
 &emsp;Non è 'l seguir al mio cantar preciso;
 
-¹⁰ A prima die qua ego vidi suum visum\
+10 A prima die qua ego vidi suum visum\
 &emsp;In ista vita, usque ad istam vistam,\
 &emsp;Non sequeretur meum cantare precisum;
 
-¹¹ Ma hor convien che 'l mio seguir desista\
+11 Ma hor convien che 'l mio seguir desista\
 &emsp;Più dietro a sua bellezza, poetando,\
 &emsp;Com'all'ultimo suo ciascun artista.
 
-¹¹ Sed nunc oportet quod meum sequi desistat\
+11 Sed nunc oportet quod meum sequi desistat\
 &emsp;Plus post suam pulchritudinem, poetando,\
 &emsp;Sicut in ultimo suo quilibet artista.
 
-¹² Cotal, qual io la lasso a maggior bando\
+12 Cotal, qual io la lasso a maggior bando\
 &emsp;Che quel de la mia tuba, che deduce\
 &emsp;L'ardua sua materia terminando,
 
-¹² Talis, qualis ipsam dimicto maiori preconio\
+12 Talis, qualis ipsam dimicto maiori preconio\
 &emsp;Quam illud mee tube, que deducit\
 &emsp;Arduam suam materiam terminando,
 
-¹³ Con voce et acto d'expedito duce\
+13 Con voce et acto d'expedito duce\
 &emsp;Incominciò: Noi siamo usciti fore\
-&emsp;Del maggior corpo (¹) al ciel ch'à (²) pura luce;
+&emsp;Del maggior corpo (1) al ciel ch'à (2) pura luce;
 
-¹³ Cum actu et voce expediti ducis,\
+13 Cum actu et voce expediti ducis,\
 &emsp;Reincepit: Nos exivimus foris\
 &emsp;De maiori corpore ad celum quod est prima lux;
 
-¹⁴ Luce (³) intellectual piena d'amore,\
-&emsp;Amor (⁴) di vero ben pien di letitia,\
-&emsp;Le[ti]tia (⁵) che trascende ogni dolcore.
+14 Luce (3) intellectual piena d'amore,\
+&emsp;Amor (4) di vero ben pien di letitia,\
+&emsp;Le[ti]tia (5) che trascende ogni dolcore.
 
-¹⁴ Lux intellectualis plena amore,\
+14 Lux intellectualis plena amore,\
 &emsp;Amor veri boni plenus letitia,\
 &emsp;Letitia que transcendit omnem dulcedinem.
 
-(¹) cielo empyreo — (²) che ha — (³) dico — (⁴) dico — (⁵) dico.
+(1) cielo empyreo — (2) che ha — (3) dico — (4) dico — (5) dico.
 
 valde notabilis homo, accersivit Symonidem, philosophum et magnum poetam, cui dixit: Volo quod tu declares michi, quid sit Deus? Tunc ille, respondens, petiit spatium duorum dierum ad cogitandum de responsione facienda. Dati sunt ei duo dies. Vocavit eum rex, dixitque illi: Indica michi quid sit Deus. Ille adhuc petiit spatium quatuor dierum, et spatium quatuor dierum sibi concessum fuit. Post quatuor dies, petiit adhuc spatium octo; post octo, petiit spatium sexdecim dierum; post sexdecim dies, petiit spatium trigintaduo dierum. Tunc rex, putans se deludi, indignatus dixit: Cur me deludis? Respondens Symonides, dixit: Domine rex, ne mireris; quia quanto plus cogito, tanto minus invenio et plus efficior immemor. Et propter hec verba rex absolvit eum. Ergo bene confitetur hic auctor, se victum omnino esse; et si unquam aliquis poeta comicus vel tragedus fuit superatus ab aliquo themate, sic auctor dicit de se hic evenire, quia victus est ab isto puncto, dicens: Ab isto passu vinctum me concedo, plusquam unquam a puncto sui thematis seperatus, idest superatus esset, comicus vel tragedus (quid sit comicus vel tragedus, dictum est sepe, maxime in uno preambulorum in principio libri).
 
@@ -166,55 +166,55 @@ Talis, qualem ipsam dimicto. Cotal, quale la lascio: hec est secunda pars huius 
 
 <!-- p. 1171 (1225) -->
 
-¹⁵ Qui vederai (¹) l'una e l'altra militia\
+15 Qui vederai (1) l'una e l'altra militia\
 &emsp;Di Paradiso, e l'una in quelli aspecti,\
 &emsp;Che tu vedrai all'ultima iustitia.
 
-¹⁵ Hic videbis unam et aliam letitiam\
+15 Hic videbis unam et aliam letitiam\
 &emsp;Paradisi, et unam in illis aspectibus,\
 &emsp;Quos tu videbis in ultima iustitia.
 
-¹⁶ Come subito lampo che discepti\
+16 Come subito lampo che discepti\
 &emsp;Li spiriti visivi, sì che priva\
 &emsp;Dell'acto l'ochio di più forti obiecti;
 
-¹⁶ Sicut subitus lampus qui disceptet\
+16 Sicut subitus lampus qui disceptet\
 &emsp;Spiritus visivos, ita quod privat\
 &emsp;In actibus oculos fortiorum obiectorum;
 
-¹⁷ Così mi circumfulse luce viva,\
+17 Così mi circumfulse luce viva,\
 &emsp;E lasciommi fasciato di tal velo\
 &emsp;Del suo fulgor, che nulla m'appariva.
 
-¹⁷ Sic me circumfulsit lux viva,\
+17 Sic me circumfulsit lux viva,\
 &emsp;Et dimisit me fasciatum tali velo\
 &emsp;Sui fulgoris, quod nihil michi apparebat.
 
-¹⁸ Sempre l'amor, che queta questo cielo,\
+18 Sempre l'amor, che queta questo cielo,\
 &emsp;Accogle in sè così facta salute,\
 &emsp;Per far disposto a sua fiamma 'l candelo.
 
-¹⁸ Semper amor, qui stat in isto celo,\
+18 Semper amor, qui stat in isto celo,\
 &emsp;Colligit in se talem salutem,\
 &emsp;Ut faciat dispositam ad suam flammam candelam.
 
-¹⁹ Non fur più tosto dentro a me venute\
+19 Non fur più tosto dentro a me venute\
 &emsp;Queste parole brevi, ch'io compresi\
 &emsp;Me sormontar di sopra mia virtute;
 
-¹⁹ Non ita cito intra me venerunt\
+19 Non ita cito intra me venerunt\
 &emsp;Ista brevia verba, quod ego comprehendi\
 &emsp;Me sursum ascendisse supra meam virtutem;
 
-²⁰ E di novella vista mi raccesi\
-&emsp;Tale, che nulla luce è tanto mera (²),\
+20 E di novella vista mi raccesi\
+&emsp;Tale, che nulla luce è tanto mera (2),\
 &emsp;Che gl'ochi miei non si fusser difesi.
 
-²⁰ Et novella visione me reaccendi\
+20 Et novella visione me reaccendi\
 &emsp;Taliter, quod nulla lux est tantum mera,\
 &emsp;Quod oculi mei ab illa non se defendissent.
 
-(¹) al. vedra' tu — (²) pura.
+(1) al. vedra' tu — (2) pura.
 
 scilicet primo mobili subaudi, et venimus, idest intravimus, ad celum, scilicet Empyreum, quod est prima lux. Nam celum Empyreum est verus Paradisus. Non est corpus, nec corporale, nec sensibile, sed est celum intellectuale. Non est corpus rotundum, sicut sunt alii celi, et maxime nona spera, de qua nunc exierunt, sed est lux et amor divine gratie, qui se demonstrat spiritibus beatis. Dicit hic poeta, quod talis lux, que est celum Empyreum, est lux intellectualis, plena amore; qui amor est amor boni veri, plenus letitia; que, scilicet letitia, est letitia que transcendit omnem dulcorem, idest dulcedinem, idest omne gaudium et consolationem et delectationem.
 
@@ -226,55 +226,55 @@ Modo Beatrix declarat auctori, quare illa lux eum circumfulsit, dicens, quod opo
 
 <!-- p. 1172 (1226) -->
 
-²¹ E vidi lume in forma di riviera\
+21 E vidi lume in forma di riviera\
 &emsp;Fulgido di fulgori, intra due rive\
-&emsp;Dipincte (¹) di mirabil primavera.
+&emsp;Dipincte (1) di mirabil primavera.
 
-²¹ Et vidi lumen in formam riparie\
+21 Et vidi lumen in formam riparie\
 &emsp;Fluidum fulgoribus, intra duas ripas\
 &emsp;Depictas mirabili primo vere.
 
-²² Di tal fiumana uscian faville vive,\
+22 Di tal fiumana uscian faville vive,\
 &emsp;E d'ogni parte si mettean ne' fiori,\
 &emsp;Quasi rubino ch'oro circumscrive.
 
-²² De tali flumaria exibant faville vive,\
+22 De tali flumaria exibant faville vive,\
 &emsp;Et ab omni parte se mictebant in floribus,\
 &emsp;Qualis rubinus quem aurum circumscribit.
 
-²³ Poi, come inebbriate dagl'odori,\
+23 Poi, come inebbriate dagl'odori,\
 &emsp;Riprofondavan sè nel miro gurge;\
 &emsp;E s'una intrava, un'altra esciva fori.
 
-²³ Postea, sicut inebrietate ab odoribus,\
+23 Postea, sicut inebrietate ab odoribus,\
 &emsp;Reprofundabant se in mirum gurgitem;\
 &emsp;Quando una intrabat, alia exibat foras.
 
-²⁴ L'alto desio che mo t' infiamma et urge\
+24 L'alto desio che mo t' infiamma et urge\
 &emsp;D'haver notitia di ciò che tu vei,\
 &emsp;Tanto mi piace più quanto più turge.
 
-²⁴ Altum desiderium quod nunc te inflammat et urget,\
+24 Altum desiderium quod nunc te inflammat et urget,\
 &emsp;Ad habendum notitiam omnium que tu vides,\
 &emsp;Tanto michi placet quanto plus urget.
 
-²⁵ Ma di quest'acqua convien che tu bei,\
+25 Ma di quest'acqua convien che tu bei,\
 &emsp;Prima che tanta sete in te si satii.\
 &emsp;Così mi disse 'l sol degl'ochi miei.
 
-²⁵ Sed de ista aqua oportet quod tu bibas,\
+25 Sed de ista aqua oportet quod tu bibas,\
 &emsp;Priusquam tanta sitis in te satietur.\
 &emsp;Sic michi dixit sol oculorum meorum.
 
-²⁶ Anco subiunse: El fiume, e li topatii\
+26 Anco subiunse: El fiume, e li topatii\
 &emsp;Ch'entron et escon, e 'l rider dell'herbe,\
-&emsp;Son di lor vere (²) umbriferi prefatii:
+&emsp;Son di lor vere (2) umbriferi prefatii:
 
-²⁶ Et etiam subiunxit: Flumen, et topatii\
+26 Et etiam subiunxit: Flumen, et topatii\
 &emsp;Qui intrant et exeunt, in ridere herbarum,\
 &emsp;Sunt sui veri umbriferi prefatii:
 
-(¹) adornate — (²) Primavera.
+(1) adornate — (2) Primavera.
 
 Modo auctor describit celum Empyreum et curiam celestem, per talem comparationem duorum fluviorum, de alto descendentium inter ripas et dilatantium se in circum. Et vidi lumen in forma riparie, fluidum fulgoribus, inter duas ripas depictas mirabili primo vere, idest diversis generibus florum, vel floribus, quia ille ripe videbantur plene variis coloribus.
 
@@ -288,55 +288,55 @@ Et etiam subiunxit: Flumen et topatii, scilicet gratia divina et angeli, qui int
 
 <!-- p. 1173 (1227) -->
 
-²⁷ Non che da sè sian queste cose acerbe;\
+27 Non che da sè sian queste cose acerbe;\
 &emsp;Ma è difecto de la parte tua,\
-&emsp;Chè non hai viste ancor tanto superbe (¹).
+&emsp;Chè non hai viste ancor tanto superbe (1).
 
-²⁷ Non quod a se sint iste res acerbe;\
+27 Non quod a se sint iste res acerbe;\
 &emsp;Sed est defectus ex parte tua,\
 &emsp;Qui non habes vistas adhuc tantum superbas.
 
-²⁸ Non è fantin che sì subito rua\
+28 Non è fantin che sì subito rua\
 &emsp;Col volto verso 'l lacte, se si svegla\
 &emsp;Molto tardato dall'usanza sua,
 
-²⁸ Non est puer qui ita cito ruat\
+28 Non est puer qui ita cito ruat\
 &emsp;Cum vultu versus lac, si ipse excitetur\
 &emsp;Multum tardatus a sua consuetudine,
 
-²⁹ Come fec'io, per far migliori spegli\
+29 Come fec'io, per far migliori spegli\
 &emsp;Ancor degl'ochi, chinandomi all'onda\
 &emsp;Che si deriva, perchè vi s'immegli.
 
-²⁹ Quam feci ego, propter facere meliora specula\
+29 Quam feci ego, propter facere meliora specula\
 &emsp;Adhuc de oculis, inclinando me ad undam\
 &emsp;Que derivatur, ut melius ibi videatur.
 
-³⁰ E sì come di lei bever la gronda\
+30 E sì come di lei bever la gronda\
 &emsp;De le palpebre mie, così mi parve\
 &emsp;Di sua lunghezza doventata tonda.
 
-³⁰ Et statim quod de ea bibit gronda\
+30 Et statim quod de ea bibit gronda\
 &emsp;Palpebrarum mearum, ita cito michi apparuit\
 &emsp;De sua longinquitate devenisse ad rotunditatem.
 
-³¹ Poi, come gente stata socto larve (²),\
+31 Poi, come gente stata socto larve (2),\
 &emsp;Che par altra che prima, se si sveste\
 &emsp;La sembianza non sua in che disparve;
 
-³¹ Postea, sicut gens que stetit sub [l]arvis,\
+31 Postea, sicut gens que stetit sub [l]arvis,\
 &emsp;Que apparet alia quam prius, sicut se exuit\
 &emsp;Similitudinem non suam in qua disparuit;
 
-³² Così mi si cambiaro in maggior feste\
+32 Così mi si cambiaro in maggior feste\
 &emsp;Li fiori e le faville, sì ch'io vidi\
-&emsp;Ambo le corti (³) del ciel manifeste.
+&emsp;Ambo le corti (3) del ciel manifeste.
 
-³² Sic michi se cambiaverunt in maioribus festivitatibus\
+32 Sic michi se cambiaverunt in maioribus festivitatibus\
 &emsp;Flores et faville, ita quod ego vidi\
 &emsp;Ambas curias celi manifestas.
 
-(¹) alte e sublimi — (²) maschere — (³) d'angeli e d'anime beate.
+(1) alte e sublimi — (2) maschere — (3) d'angeli e d'anime beate.
 
 Posset quis movere talem questionem Beatrici, dicendo: Tu dicis michi quod illa que hic vides, sunt solum arra et figura illorum que tu postea es visurus. Si sum in Paradiso, cur ista video solum sub figura, et postea aliter? cur non video illa clare sicuti sunt? Respondit Beatrix isti obiectioni, dicens, non quod a se sint iste res acerbe, idest non mature, idest quin sint bene visibiles de sui natura, sed est defectus a parte tua, quia non habes vistas, idest visiones, scilicet oculos, adhuc tantum superbas, idest altas, sive acutas, sive claras.
 
@@ -348,55 +348,55 @@ Modo ostendit, quomodo ipse auctor vidit clare curiam celi per talem comparation
 
 <!-- p. 1174 (1228) -->
 
-³³ O divino splendor, per cu' io vidi\
+33 O divino splendor, per cu' io vidi\
 &emsp;L'alto triumpho del regno verace,\
 &emsp;Dammi virtù di dirlo com'io 'l vidi.
 
-³³ O splendor divine, per quem ego vidi\
+33 O splendor divine, per quem ego vidi\
 &emsp;Altum triumphum celi veracis,\
 &emsp;Da michi virtutem ad dicendum quomodo illum vidi.
 
-³⁴ Lume è lassù, che visibile face (¹)\
+34 Lume è lassù, che visibile face (1)\
 &emsp;Lo Creatore a quella creatura,\
 &emsp;Che solo in lui veder ha la sua pace;
 
-³⁴ Lumen est ibi, quod visibilem facit\
+34 Lumen est ibi, quod visibilem facit\
 &emsp;Creatorem illi creature,\
 &emsp;Que solum in eum videndo habet suam pacem;
 
-³⁵ E sè distende in circular figura\
+35 E sè distende in circular figura\
 &emsp;In tanto, che la sua circumferenza\
 &emsp;Sarebbe al sol troppo larga cinctura.
 
-³⁵ Et distenditur in circularem figuram\
+35 Et distenditur in circularem figuram\
 &emsp;In tantum, quod sua circumferentia\
 &emsp;Esset soli nimis larga zona.
 
-³⁶ Fassi di raggio tutta sua parvenza,\
+36 Fassi di raggio tutta sua parvenza,\
 &emsp;Reflexo al sommo del Mobile primo,\
 &emsp;Che prende quindi viver e potenza.
 
-³⁶ Exit de radio tota sua apparentia,\
+36 Exit de radio tota sua apparentia,\
 &emsp;Reflexo ad summum Mobilis primi,\
 &emsp;Quod apprehendit hinc vivere et potentiam.
 
-³⁷ E come clivo in acqua di suo imo\
+37 E come clivo in acqua di suo imo\
 &emsp;Si specchia quasi per vedersi adorno,\
 &emsp;Quand'è nel verde ogni fioretto opimo;
 
-³⁷ Et sicut clivus in aqua sui ymi\
+37 Et sicut clivus in aqua sui ymi\
 &emsp;Se speculatur quasi ut videat se ornatum,\
 &emsp;Quando est in viridi omnis flos opimus;
 
-³⁸ Sì soprastando al lume intorno intorno\
+38 Sì soprastando al lume intorno intorno\
 &emsp;Vidi spechiarsi più di mille fogle,\
 &emsp;Quante di noi lassù facte ritorno.
 
-³⁸ Sic suprastans, lumen circum circa\
+38 Sic suprastans, lumen circum circa\
 &emsp;Vidi ego speculari in plusquam millibus scioliis,\
 &emsp;Que a nobis sursum fecerunt regressum.
 
-(¹) facit.
+(1) facit.
 
 Ammodo auctor, volens procedere ad descriptionem curie celestis, invocat Deum, ut dignetur sibi prestare tantum de sua gratia, quod ipse possit equaliter de celesti curia describere, dicens: O splendor divine (vocativi casus), per quem ego [vidi] altum triumphum, idest Ecclesiam triumphantem, regni veracis, idest celi, da michi ad dicendum virtutem quomodo illum vidi, idest qualiter.
 
@@ -410,63 +410,63 @@ Iterum hic respondetur une tacite questioni, seu obiectioni. Posset quis dicere:
 
 <!-- p. 1175 (1229) -->
 
-³⁹ E se l'infimo grado in sè raccogle\
+39 E se l'infimo grado in sè raccogle\
 &emsp;Sì grande lume, quant'è la larghezza\
 &emsp;Di questa rosa nell'extreme fogle?
 
-³⁹ Et si infimus gradus in se recolligit\
+39 Et si infimus gradus in se recolligit\
 &emsp;Tam grande lumen, quanta est latitudo\
 &emsp;Istius rose in extremis foliis?
 
-⁴⁰ La vista mia nell'ampio e nell'altezza\
+40 La vista mia nell'ampio e nell'altezza\
 &emsp;Non si smarriva, ma tutto prendeva\
 &emsp;El quanto e'l quale di quella allegrezza.
 
-⁴⁰ Visio mea in amplitudine et altitudine\
+40 Visio mea in amplitudine et altitudine\
 &emsp;Non deviabat, sed totum apprehendebat\
 &emsp;Quale et quantum illius gaudii.
 
-⁴¹ Presso o lontano, lì, nè pon nè leva;\
+41 Presso o lontano, lì, nè pon nè leva;\
 &emsp;Chè dove Dio senza mezo governa,\
 &emsp;La legge natural nulla rileva.
 
-⁴¹ Propinquitas et longinquitas, ibi, non ponit nec demit;\
+41 Propinquitas et longinquitas, ibi, non ponit nec demit;\
 &emsp;Quia ubi Deus sine medio gubernat,\
 &emsp;Lex naturalis nihil relevat.
 
-⁴² Nel giallo de la rosa sempiterna,\
+42 Nel giallo de la rosa sempiterna,\
 &emsp;Che si dilata, digrada e redole\
 &emsp;Odor di lode al Sol che sempre verna,
 
-⁴² In fulvo rose sempiterne,\
+42 In fulvo rose sempiterne,\
 &emsp;Que per gradus dilatatur et redolel,\
 &emsp;Odor fit ad Solem qui semper vernat,
 
-⁴³ Qual (¹) è colui che tace e dicer vole,\
+43 Qual (1) è colui che tace e dicer vole,\
 &emsp;Mi trasse Beatrice, e disse: Mira\
-&emsp;Quant'è'l (²) convento de le bianche stole (³)!
+&emsp;Quant'è'l (2) convento de le bianche stole (3)!
 
-⁴³ Qualis est ille qui tacet et dicere vult,\
+43 Qualis est ille qui tacet et dicere vult,\
 &emsp;Me traxit Beatrix, et dixit: Respice\
 &emsp;Quantus est conventus albarum stolarum!
 
-⁴⁴ Vedi nostra città quant'ella gira!\
+44 Vedi nostra città quant'ella gira!\
 &emsp;Vedi li nostri scanni sì ripieni,\
 &emsp;Che poca gente più ci si desira.
 
-⁴⁴ Vide nostram civitatem, quantum ipsa circuit!\
+44 Vide nostram civitatem, quantum ipsa circuit!\
 &emsp;Vide nostra scampna ita repleta,\
 &emsp;Quod pauca gens hic anmodo desideratur.
 
-⁴⁵ E [in] quel gran seggio, a che tu gl'ochi tieni\
+45 E [in] quel gran seggio, a che tu gl'ochi tieni\
 &emsp;Per la corona che già v'è su posta,\
 &emsp;Prima che tu a queste nozze ceni,
 
-⁴⁵ Et in illa grandi sede, ad quam tu oculos tenes\
+45 Et in illa grandi sede, ad quam tu oculos tenes\
 &emsp;Propter coronam que iam supra illa est posita,\
 &emsp;Priusquam ad illas nuptias cenes,
 
-(¹) tale — (²) quanto è el — (³) de beati.
+(1) tale — (2) quanto è el — (3) de beati.
 
 et extensionis tante, quomodo potuisti ita clare videre illud? Respondetur dicendo, quod quamvis infimus gradus, idest extremitas, circumferentie illius floris, sive rose (quia in forma rose, ut patebit in principio sequentis capituli, apparebit quod [est] curia celestis), multum distaret a medio ubi erat punctus ille vivacissimus, scilicet Deus, quia distabat tantum quanta est latitudo et altitudo rose; tamen valde bene poteram videre, quia ubi distantia, vel propinquitas, non addit nec diminuit ad videndum (cuius ratio est, quia Deus ibi sine medio gubernat; et nihil ibi habet facere lex naturalis, que vult quod quando res visibilis est nimis ab oculo distans, oculus non possit illam videre) nec requiritur ad visionem corporalem debita distantia, nec nimis parva, nec nimis magna.
 
@@ -488,41 +488,41 @@ Et [in] illa grandi sede. E [in] quel gran seggio: ista est ultima, sive quarta,
 
 <!-- p. 1176 (1230) -->
 
-⁴⁶ Sederà l'alma, che fie giù augosta,\
+46 Sederà l'alma, che fie giù augosta,\
 &emsp;Dell'alto Arrigo, ch'a drizzar Italia\
 &emsp;Verrà in prima, ch'ella sia disposta.
 
-⁴⁶ Sedebit anima, que erit inferius augusta,\
+46 Sedebit anima, que erit inferius augusta,\
 &emsp;Alti Henrici, qui ad dirigendum Ytaliam\
 &emsp;Veniet primitus, antequam deponatur.
 
-⁴⁷ La cieca cupidigia, che v'ammalia,\
+47 La cieca cupidigia, che v'ammalia,\
 &emsp;Simili facti v'à al fantolino,\
 &emsp;Che muor di fame e caccia via la balia.
 
-⁴⁷ Ceca cupiditas, que vos amaliat,\
+47 Ceca cupiditas, que vos amaliat,\
 &emsp;Similes facit vos parvulo,\
 &emsp;Qui moritur fame et expellit nutricem.
 
-⁴⁸ E fia prefecto (¹) nel foro divino (²)\
-&emsp;Allhora tal, che 'n palese e 'n coverto (³)\
-&emsp;Non anderà con lui (⁴) per un cammino (⁵).
+48 E fia prefecto (1) nel foro divino (2)\
+&emsp;Allhora tal, che 'n palese e 'n coverto (3)\
+&emsp;Non anderà con lui (4) per un cammino (5).
 
-⁴⁸ Et fiet prefectus in foro divino\
+48 Et fiet prefectus in foro divino\
 &emsp;Tunc talis, qui palam et coopertus\
 &emsp;Non ibit ibi secum per unum iter.
 
-⁴⁹ Ma poco poi sarà da Dio sofferto (⁶)\
+49 Ma poco poi sarà da Dio sofferto (6)\
 &emsp;Nel sancto officio; chè sarà detruso\
-&emsp;Là dove Symon Mago (⁷) è per suo merto,\
-&emsp;E farà quel d'Alagna (⁸) andar più giuso (⁹).
+&emsp;Là dove Symon Mago (7) è per suo merto,\
+&emsp;E farà quel d'Alagna (8) andar più giuso (9).
 
-⁴⁹ Sed modicum postea adeo sustinebitur\
+49 Sed modicum postea adeo sustinebitur\
 &emsp;In sancto officio; quod erit detrusus\
 &emsp;Ibi ubi est Symon Magus propter sua merita,\
 &emsp;Et faciet illum de Anania intrare magis infra.
 
-(¹) papa Clemente — (²) ecclesiastico — (³) che in pubblico et in occulto — (⁴) col decto Imperador — (⁵) ma contrario — (⁶) el decto Clemente — (⁷) inter Symoniaco[s] cº. 19 inferni — (⁸) papa Bonifacio d'Alagna — (⁹) socto a lui.
+(1) papa Clemente — (2) ecclesiastico — (3) che in pubblico et in occulto — (4) col decto Imperador — (5) ma contrario — (6) el decto Clemente — (7) inter Symoniaco[s] cº. 19 inferni — (8) papa Bonifacio d'Alagna — (9) socto a lui.
 
 una sedes vacua, in qua expectabatur una anima illustris, scilicet Henrici de Lucemburgo. Notandum est hic, quod hoc dictum de ista sede vacua auctor fingit duobus de causis. Primo, quia iste fuit valentissimus homo, bonus avus istius imperatoris nostri: qui alias fuit satis parvus comes; fuit homo magnanimus, quasi infinite bonitatis. Iste paravit se, quam cito fuit electus Rex romanorum et Imperator, ad veniendum in Ytaliam, ad pacificandum ipsam et reformandum; sed fuit impeditus per summum Pontificem, ideo non minorem laudem meretur. Secundo, iste Henricus fuit amicissimus ipsius auctoris. Et [in] illa grandi sede, ad quam tu oculos tenes (nam auctor illam sedem pulcherrimam vacuam, quasi admirans, intuebatur fixe, in qua erat una corona cesaree maiestatis), propter coronam que iam supra illa est posita, priusquam ad istas nuptias cenes, idest priusquam moriaris, sedebit anima, que erit inferius, idest in mundo, augusta, idest Imperatoris, vel imperatrix, alti Henrici, idest virtuosissimi viri, qui ad dirigendum Ytaliam veniet, idest disponet se ad veniendum, primitus, antequam deponatur, idest antequam moriatur.
 

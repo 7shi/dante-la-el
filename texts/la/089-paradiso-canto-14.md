@@ -8,19 +8,19 @@ In isto quartodecimo capitulo, quod incipit: A centro ad circulum et a circulo a
 
 # Capitulum Quartumdecimum
 
-¹ Dal centro al cerchio, e dal cerchio al centro,\
+1 Dal centro al cerchio, e dal cerchio al centro,\
 &emsp;Muovesi l'acqua in un ritondo vaso,\
 &emsp;Secondo ch'è percossa fuor o dentro.
 
-¹ A centro ad circulum, et a circulo ad centrum,\
+1 A centro ad circulum, et a circulo ad centrum,\
 &emsp;Movetur aqua in uno rotundo vase,\
 &emsp;Secundum quod est percussum intus et foris.
 
-² Ne la mia mente fe'subito caso\
+2 Ne la mia mente fe'subito caso\
 &emsp;Questo ch'io dico, sì come si tacque\
 &emsp;La gloriosa vita di Tommaso,
 
-² In mente mea fecit subitum casum\
+2 In mente mea fecit subitum casum\
 &emsp;Istud quod ego dico, statim sicut tacuit\
 &emsp;Gloriosa vita Thome,
 
@@ -44,75 +44,75 @@ In mente mea fecit subito casum istud quod ego dico, statim sic[ut] tacuit glori
 
 <!-- p. 985 (1039) -->
 
-³ Per la similitudine che nacque\
+3 Per la similitudine che nacque\
 &emsp;Del suo parlar, e di quel di Beatrice,\
 &emsp;A cui sì cominciar, doppo lui, piacque:
 
-³ Propter similitudinem que orta est\
+3 Propter similitudinem que orta est\
 &emsp;De suo sermone et de illo Beatricis,\
 &emsp;Cui sic incipere, post eum, placuit:
 
-⁴ A costui fa mestier, e non vel dice\
+4 A costui fa mestier, e non vel dice\
 &emsp;Nè co' la voce nè pensando ancora,\
 &emsp;D'un altro vero andar a la radice.
 
-⁴ Isti est necessarium, et vobis non dicit\
+4 Isti est necessarium, et vobis non dicit\
 &emsp;Nec cum voce etiam nec cogitando,\
 &emsp;Alterius veri ire ad radicem.
 
-⁵ Diteli se la luce, onde s'infiora\
+5 Diteli se la luce, onde s'infiora\
 &emsp;Vostra substanzia, rimarrà con voi\
 &emsp;Eternalmente sì com' ell' è hora;
 
-⁵ Dicite ei si lux, unde floret\
+5 Dicite ei si lux, unde floret\
 &emsp;Vestra substantia, remanebit vobiscum\
 &emsp;Eternaliter sicut ipsa est nunc;
 
-⁶ E, se rimane, dite come, poi\
+6 E, se rimane, dite come, poi\
 &emsp;Che sarete visibili rifacti,\
 &emsp;Esser potrà ch'a veder non vi nôi.
 
-⁶ Et, si remanet, dicite quomodo, postquam\
+6 Et, si remanet, dicite quomodo, postquam\
 &emsp;Eritis visibiles iterum facti,\
 &emsp;Esse poterit quod visui non noceat vobis.
 
-⁷ Come da più letitia pincti e tracti\
+7 Come da più letitia pincti e tracti\
 &emsp;A la fiata quei che vanno a rota,\
 &emsp;Levan la voce, e rallegrano gl'acti;
 
-⁷ Sicut a maiori letitia impulsi et tracti\
+7 Sicut a maiori letitia impulsi et tracti\
 &emsp;Aliquando illi qui vadunt ad rotam,\
 &emsp;Elevant vocem, et letificant actus;
 
-⁸ Così all'oration prompta e devota\
+8 Così all'oration prompta e devota\
 &emsp;Li santi cerchi mostrar nuova gioia\
 &emsp;Nel torneare e ne la mira nota.
 
-⁸ Sic ad orationem promptam et devotam\
+8 Sic ad orationem promptam et devotam\
 &emsp;Sancti circuli monstraverunt novam iucunditatem,\
 &emsp;In circuitione et mirabili nota.
 
-⁹ Qual si lamenta perchè qui si muoia,\
+9 Qual si lamenta perchè qui si muoia,\
 &emsp;Per viver colassù, non vide quive\
 &emsp;Lo refrigerio dell'eterna ploia.
 
-⁹ Qui lamentantur quia hic moritur,\
+9 Qui lamentantur quia hic moritur,\
 &emsp;Propter non mori ibi, non vident [hic]\
 &emsp;Refrigerium eterne pluvie.
 
-¹⁰ Quell'uno due e tre che sempre vive,\
+10 Quell'uno due e tre che sempre vive,\
 &emsp;E regna sempre in tre e due et uno,\
 &emsp;Non circumscripto, e tutto circumscrive,
 
-¹⁰ Ille unus duo et tres, qui semper vivit,\
+10 Ille unus duo et tres, qui semper vivit,\
 &emsp;Et regnat semper in tribus, duobus et uno,\
 &emsp;Non circumscriptus, et totum circumscribit,
 
-¹¹ Tre volte era cantato da ciascuno\
+11 Tre volte era cantato da ciascuno\
 &emsp;Di quelli spirti con tal melodia,\
 &emsp;Ch'ad ogni merto saria giusto muno.
 
-¹¹ Ter cantatum erat a quolibet\
+11 Ter cantatum erat a quolibet\
 &emsp;Illorum spirituum cum tali melodia,\
 &emsp;Quod omni merito esset iustum munus.
 
@@ -122,47 +122,47 @@ Isti, scilicet Danti, est necessarium, et nobis, scilicet spiritibus beatis, non
 
 <!-- p. 986 (1040) -->
 
-¹² Et io udii ne la voce più dia\
+12 Et io udii ne la voce più dia\
 &emsp;Del minor cerchio una voce modesta,\
 &emsp;Forse qual fu dell'angelo a Maria,
 
-¹² Et ego audivi in luce magis diva\
+12 Et ego audivi in luce magis diva\
 &emsp;Minoris circuli unam vocem modestam,\
 &emsp;Forsan qualis fuit ab angelo ad Mariam,
 
-¹³ Risponder: Quanto fi' la lunga festa\
+13 Risponder: Quanto fi' la lunga festa\
 &emsp;Del Paradiso, tanto 'l nostro amore\
-&emsp;Sì (¹) raggierà dintorno a cotal vesta.
+&emsp;Sì (1) raggierà dintorno a cotal vesta.
 
-¹³ Respondere: Quantum erit longum festum\
+13 Respondere: Quantum erit longum festum\
 &emsp;Paradisi, tanto noster amor\
 &emsp;Radiabit circum talem vestem.
 
-¹⁴ La sua chiarezza seguirà l'ardore,\
+14 La sua chiarezza seguirà l'ardore,\
 &emsp;L'ardor la visione; e quella è tanta,\
 &emsp;Quant'ha di gratia sopra suo valore.
 
-¹⁴ Sua claritas sequetur ardorem,\
+14 Sua claritas sequetur ardorem,\
 &emsp;Ardor sequetur visionem; et illa est tanta,\
 &emsp;Quantum habet de gratia supra suum valorem.
 
-¹⁵ Come la carne gloriosa e santa\
+15 Come la carne gloriosa e santa\
 &emsp;Fie rivestita, la nostra persona\
 &emsp;Più grata fi' per esser tutta quanta.
 
-¹⁵ Sicut caro gloriosa et sancta\
+15 Sicut caro gloriosa et sancta\
 &emsp;Erit revestita, nostra persona\
 &emsp;Gratior erit quia erit tota.
 
-¹⁶ Perchè s'accrescerà ciò che ne dona\
+16 Perchè s'accrescerà ciò che ne dona\
 &emsp;Di gratuito lume el sommo Bene;\
 &emsp;Lume ch'a lui veder ne conditiona:
 
-¹⁶ Quia augebitur quidquid nobis donat\
+16 Quia augebitur quidquid nobis donat\
 &emsp;Gratuiti luminis summum bonum;\
 &emsp;Lumen quod ad videndum eum nos conditionat:
 
-(¹) taliter.
+(1) taliter.
 
 Ecce comparationem pulchram. Sicut a maiori letitia impulsi et tracti aliquando illi, qui vadunt ad rotam, idest tripudiant, elevant vocem ad replicationem primi versus et letificant actus; sic ad orationem, idest oris rationem, promptam et devotam, scilicet Beatricis, sancti circuli, idest anime sancte circulariter mote, monstraverunt novam iucunditatem in circuitione, idest tripudio circulariter facto, et mirabili nota, idest dulci.
 
@@ -178,63 +178,63 @@ Sicut, pro quando, caro gloriosa, idest glorificata et sancta, erit revestita, i
 
 <!-- p. 987 (1041) -->
 
-¹⁷ Onde la vision crescer conviene,\
-&emsp;Crescer (¹) l'ardor che da quella s'accende,\
-&emsp;Crescer (²) lo raggio che da esso viene.
+17 Onde la vision crescer conviene,\
+&emsp;Crescer (1) l'ardor che da quella s'accende,\
+&emsp;Crescer (2) lo raggio che da esso viene.
 
-¹⁷ Unde visionem crescere convenit,\
+17 Unde visionem crescere convenit,\
 &emsp;Crescere ardorem qui de illa descendit,\
 &emsp;Crescere radium qui ab ipso venit.
 
-¹⁸ Ma sì come carbon che fiamma rende,\
+18 Ma sì come carbon che fiamma rende,\
 &emsp;E per vivo candor quella soverchia\
 &emsp;Sì, che la sua parvenza si difende;
 
-¹⁸ Sed sicut carbo qui flammam reddit,\
+18 Sed sicut carbo qui flammam reddit,\
 &emsp;Et propter unum candorem illam superat\
 &emsp;Ita, quod suam apparentiam defendit;
 
-¹⁹ Così questo fulgor, che già ne cerchia,\
+19 Così questo fulgor, che già ne cerchia,\
 &emsp;Fie vincto in apparenza da la carne\
 &emsp;Che tutto dì la terra ricoperchia;
 
-¹⁹ Sic iste fulgor, qui iam nos circuit,\
+19 Sic iste fulgor, qui iam nos circuit,\
 &emsp;Erit victus in apparentia a carne\
 &emsp;Que tota a terra cooperitur;
 
-²⁰ Nè potrà tanta luce affaticarne,\
+20 Nè potrà tanta luce affaticarne,\
 &emsp;Chè gli organi del corpo saran forti\
 &emsp;A tutto ciò che potrà dilectarne.
 
-²⁰ Nec poterit tanta lux nos faticare,\
+20 Nec poterit tanta lux nos faticare,\
 &emsp;Quia organa corporis erunt fortiora\
 &emsp;Ad totum quod poterit nos delectare.
 
-²¹ Tanto mi parver subiti et accorti\
+21 Tanto mi parver subiti et accorti\
 &emsp;E l'uno e l'altro choro a dicer Amme,\
 &emsp;Che ben mostrar desio de' corpi morti;
 
-²¹ Tantum michi apparuerunt subiti et provisi\
+21 Tantum michi apparuerunt subiti et provisi\
 &emsp;Et unus et alter chorus ad dicendum Amen,\
 &emsp;Quod non monstraverunt desiderium mortuorum corporum;
 
-²² Forse non pur per lor, ma per le mamme,\
+22 Forse non pur per lor, ma per le mamme,\
 &emsp;Per li padri, e per gl'altri che fur cari,\
 &emsp;Anzi che fusser sempiterne fiamme.
 
-²² Forsan non solum pro eis, sed pro matribus,\
+22 Forsan non solum pro eis, sed pro matribus,\
 &emsp;Et pro patribus, et pro aliis qui fuerunt eis cari,\
 &emsp;Antequam ipsi essent sempiterne flamme.
 
-²³ Et ecco intorno di chiarezza pari\
+23 Et ecco intorno di chiarezza pari\
 &emsp;Nascer un lustro sopra quel che v'era,\
 &emsp;A guisa d'orizonte che rischiari.
 
-²³ Et ecce in circum de claritate pari\
+23 Et ecce in circum de claritate pari\
 &emsp;Nasci unum lustrum supra illud quod ibi erat,\
 &emsp;Ad instar orizontis qui clarificetur.
 
-(¹) conviene — (²) conviene.
+(1) conviene — (2) conviene.
 
 plus de gratia habebit, vel magis sibi erit gratum, quia erit tota quia erit totum quod fuit prius, scilicet homo compositus ex anima et corpore. Nam anima semper appetit reuniri corpori, quia est a Deo facta ad informandum corpus; erit ergo tota, idest perfectior; sive compositum erit perfectius quam anima, pars hominis, quia augebitur quidquid donat nobis gratuiti luminis (quia lumen quo Beati elevantur ad videndum Deum, nobis datur magis gratis quam propter nostra merita) summum bonum, idest Deus; lumen subaudi, quod ad videndum eum, scilicet summum bonum, idest Deum, nos conditionat, idest facit habiles, disponit, etc.
 
@@ -248,63 +248,63 @@ Subito post hoc, visum est ibi unum lustrum, sive unus splendor, supra alium spl
 
 <!-- p. 988 (1042) -->
 
-²⁴ E sì com'al salir di prima sera\
+24 E sì com'al salir di prima sera\
 &emsp;Comincian per lo ciel nuove parvenze,\
-&emsp;Sì che la cosa pare (¹) e non par vera;
+&emsp;Sì che la cosa pare (1) e non par vera;
 
-²⁴ Et sicut ad ascendere in primo sero\
+24 Et sicut ad ascendere in primo sero\
 &emsp;Incipiunt per celum nove apparentie,\
 &emsp;Ita quod visio apparet et non apparet vera;
 
-²⁵ Parvemi lì novelle subsistenze\
+25 Parvemi lì novelle subsistenze\
 &emsp;Cominciar a veder, e far un giro\
 &emsp;Di fuor dell'altre due circumferenze.
 
-²⁵ Sic apparuit michi novellas subsistentias\
+25 Sic apparuit michi novellas subsistentias\
 &emsp;Incipere videre, et facere unum gyrum\
 &emsp;Extra illas alias duas circumferentias.
 
-²⁶ O vero sfavillar del Santo Spiro,\
+26 O vero sfavillar del Santo Spiro,\
 &emsp;Come si fece subito e candente\
 &emsp;Agl' ochi miei, che vinti nol soffriro!
 
-²⁶ O verum sfavillare Sancti Spiri,\
+26 O verum sfavillare Sancti Spiri,\
 &emsp;Quomodo fuit factum [subitum] et ca[n]dens\
 &emsp;Oculis meis, qui victi illud non sustinuerunt!
 
-²⁷ Ma Beatrice sì bella e ridente\
+27 Ma Beatrice sì bella e ridente\
 &emsp;Mi si mostrò, che tra quelle vedute\
-&emsp;Si vuol lassar, chè nol seguir (²) la mente.
+&emsp;Si vuol lassar, chè nol seguir (2) la mente.
 
-²⁷ Sed Beatrix ita pulchra et sic ridens\
+27 Sed Beatrix ita pulchra et sic ridens\
 &emsp;Michi se monstravit, quod inter illas visiones\
 &emsp;Oportet dimictere et consequi mentem.
 
-²⁸ Quindi ripreser gl'ochi la virtute\
+28 Quindi ripreser gl'ochi la virtute\
 &emsp;A rilevarsi, e vidimi translato\
 &emsp;Sol con mia donna in più alta salute.
 
-²⁸ Inde reassumpserunt oculi mei virtutem\
+28 Inde reassumpserunt oculi mei virtutem\
 &emsp;Ad relevandum se, et vidi me translatum\
 &emsp;Multo plus quam sursum ad maiorem salutem.
 
-²⁹ Ben m' accors' io ch'io era più levato,\
+29 Ben m' accors' io ch'io era più levato,\
 &emsp;Per l'affocato riso de la stella,\
 &emsp;Che mi parea più roggio che l'usato.
 
-²⁹ Bene perpendi ego quod eram magis elevatus,\
+29 Bene perpendi ego quod eram magis elevatus,\
 &emsp;Propter ignitum risum stelle,\
 &emsp;Qui michi apparebat magis rubeus quam consueverat.
 
-³⁰ Con tutto 'l cuore, e con quella favella\
+30 Con tutto 'l cuore, e con quella favella\
 &emsp;Ch' è una in tutti, a Dio feci olocausto,\
 &emsp;Qual conveniasi a la gratia novella;
 
-³⁰ Cum toto corde, et cum illa loquela\
+30 Cum toto corde, et cum illa loquela\
 &emsp;Quae unquam in omnibus, Deo feci holocaustum,\
 &emsp;Quale convenit gratie novelle;
 
-(¹) vera — (²) seguirebbe.
+(1) vera — (2) seguirebbe.
 
 De sero, quando aier incipit obscurari, occidente sole, incipiunt apparere alique stelle, demum alie, demum et plures, que ceperunt gyrare se ad modum illarum vigintiquatuor, de quibus dictum est; quibus stellis, idest animabus, visis, auctor prorumpit in exclamationem talem: O verum favillare (sive sintillare, idest per modum sintillarum apparere, illarum animarum) Spiraminis Sancti! quam cito apparuerunt et candentes, unde oculi auctoris non potuerunt sustinere.
 
@@ -320,43 +320,43 @@ Inde reassumpserunt oculi mei virtutem. Quindi ripreser gli occhi miei virtute: 
 
 <!-- p. 989 (1043) -->
 
-³¹ E non era anco del mio pecto exhausto\
+31 E non era anco del mio pecto exhausto\
 &emsp;L'ardor del sacrificio, ch'io conobbi\
 &emsp;El so' litario stato accepto e fausto;
 
-³¹ Et non erat adhuc de meo pectore exhaustus\
+31 Et non erat adhuc de meo pectore exhaustus\
 &emsp;Ardor sacrificii, quod ego cognovi\
 &emsp;Ipsum Beatrici fuisse acceptum et faustum;
 
-³² Chè con tanto lucore e tanto robbi\
+32 Chè con tanto lucore e tanto robbi\
 &emsp;M'apparveno splendor dentr'a duo raggi,\
 &emsp;Ch'io dixi: O Helyos, che sì gl'addobbi!
 
-³² Quia in tanta iucunditate et tanta rubedine\
+32 Quia in tanta iucunditate et tanta rubedine\
 &emsp;Michi apparuerunt splendores intra duos radios\
 &emsp;Quod ego dixi: O Elyos, qui sic eos adornas!
 
-³³ Come distincta di minori e maggi\
+33 Come distincta di minori e maggi\
 &emsp;Lumi biancheggia tra' poli del mondo\
 &emsp;Ghalasia sì, che fa dubbiar ben saggi,
 
-³³ Sicut distincta a maioribus et minoribus\
+33 Sicut distincta a maioribus et minoribus\
 &emsp;Luminibus albescit inter polos mundi\
 &emsp;Galassia ita, quod facit dubitare bene sapientes;
 
-³⁴ Sì constellati facean nel profondo\
+34 Sì constellati facean nel profondo\
 &emsp;Marte quei rai el venerabil segno,\
 &emsp;Che fan iuncture di quadranti in tondo.
 
-³⁴ Sic constellati faciebant in profundo\
+34 Sic constellati faciebant in profundo\
 &emsp;Mar[t]i cum illis radiis venerabile signum,\
 &emsp;Quod facit virtus quadrantis in rotundum.
 
-³⁵ Qui vince la memoria mia lo 'ngegno;\
+35 Qui vince la memoria mia lo 'ngegno;\
 &emsp;Chè quella croce lampeggiava Christo,\
 &emsp;Sì ch'io non so trovar exemplo degno.
 
-³⁵ Hic vincit memoria mea ingenium;\
+35 Hic vincit memoria mea ingenium;\
 &emsp;Quia illa crux coruscabat Christum,\
 &emsp;Ita quod ego nescio reperire exemplum dignum.
 
@@ -370,27 +370,27 @@ Et non erat adhuc de meo pectore exhaustus, idest nondum erat completus ardor, i
 
 <!-- p. 990 (1044) -->
 
-³⁶ Ma chi prende suo' croce e segue Chrysto,\
+36 Ma chi prende suo' croce e segue Chrysto,\
 &emsp;Ancor mi scuserà di quel ch'io lasso,\
 &emsp;Vedendo quel arbor balenar Chrysto.
 
-³⁶ Sed qui apprehendit suam crucem et sequitur Christum,\
+36 Sed qui apprehendit suam crucem et sequitur Christum,\
 &emsp;Aduc me excusabit de illo quod ego dimicto,\
 &emsp;Videndo in illa albedine resplendere Christum.
 
-³⁷ Di corno in corno, e tra la cima e 'l basso,\
+37 Di corno in corno, e tra la cima e 'l basso,\
 &emsp;Si movean lumi, scintillando forte\
 &emsp;Nel congiungersi insieme e nel trapasso.
 
-³⁷ De cornu in cornu, et inter summitatem et ymam partem,\
+37 De cornu in cornu, et inter summitatem et ymam partem,\
 &emsp;Movebantur lumina, sintillando fortiter\
 &emsp;In coniungendo se simul et in transitu.
 
-³⁸ Così si veggion quï diricte e torte,\
+38 Così si veggion quï diricte e torte,\
 &emsp;Veloci e tarde, rinovando vista,\
 &emsp;Le minutie de'corpi, lunghe e corte,
 
-³⁸ Sicut videntur hic recta et tortuosa,\
+38 Sicut videntur hic recta et tortuosa,\
 &emsp;Velocia et tarda, renovando vistam,\
 &emsp;Minutia corporum, longa et brevia,
 
@@ -416,51 +416,51 @@ Etiam istum modum discurrendi harum animarum, per comparationem talem, describit
 
 <!-- p. 991 (1045) -->
 
-³⁹ Muoversi per lo raggio, onde si lista\
+39 Muoversi per lo raggio, onde si lista\
 &emsp;Talvolta l'ombra, che per suo' difesa\
 &emsp;La gente con ingegno et arte acquista.
 
-³⁹ Moveri per radium, unde listatur\
+39 Moveri per radium, unde listatur\
 &emsp;Aliquando umbra quam pro sua defensione\
 &emsp;Gens per ingenium et artem acquirit.
 
-⁴⁰ E come giga et arpa, in tempra tesa\
+40 E come giga et arpa, in tempra tesa\
 &emsp;Di dolci corde, fan dolce tintinno\
 &emsp;A tal da cui la nota non è intesa;
 
-⁴⁰ Et sicut gyga et harpa, in temperamento tensa\
+40 Et sicut gyga et harpa, in temperamento tensa\
 &emsp;Multarum cordarum, faciunt dulce tintinnum\
 &emsp;Tali a quo nota non est intellecta;
 
-⁴¹ Così da' lumi che lì m'apparinno\
+41 Così da' lumi che lì m'apparinno\
 &emsp;S'accoglea per la croce una melode,\
 &emsp;Che mi rapiva senza 'ntender l' hynno.
 
-⁴¹ Sic a luminibus qui ibi michi apparuerant\
+41 Sic a luminibus qui ibi michi apparuerant\
 &emsp;Colligitur per crucem unum melos,\
 &emsp;Quod me rapiebat sine intelligere ympnum.
 
-⁴² Ben m' accors'io ch'ell' era d' alta lode,\
+42 Ben m' accors'io ch'ell' era d' alta lode,\
 &emsp;Però ch' a me venìa: Risorgi e vinci;\
 &emsp;Com'a colui che non intende et ode.
 
-⁴² Bene perpendi ego quod illa erat dulcis laus,\
+42 Bene perpendi ego quod illa erat dulcis laus,\
 &emsp;Eo quia michi veniebat unum, Surge et vincas;\
 &emsp;Sicut illi qui non intelligit et audit.
 
-⁴³ Io m' innamorava tanto quinci,\
+43 Io m' innamorava tanto quinci,\
 &emsp;Che 'nfin a lì non fu alcuna cosa\
 &emsp;Che mi legasse con sì dolci vinci.
 
-⁴³ Ego eram philocaptus tantum ex hoc,\
+43 Ego eram philocaptus tantum ex hoc,\
 &emsp;Quod usque illuc non fuit aliqua res,\
 &emsp;Que me ligaret cum tam dulci vinculo.
 
-⁴⁴ Forse la mia parola par tropp'osa,\
+44 Forse la mia parola par tropp'osa,\
 &emsp;Posponendo il piacer degl'ochi belli,\
 &emsp;Ne' quai mirando mio disio ha posa.
 
-⁴⁴ Forsan meum verbum apparet nimis ausum,\
+44 Forsan meum verbum apparet nimis ausum,\
 &emsp;Posponendo complacentiam oculorum pulchrorum,\
 &emsp;In quos respiciendo meum desiderium quietatur.
 
@@ -474,20 +474,20 @@ Forsan meum verbum apparet nimis ausum, idest audax, vel temerarium (auctor excu
 
 <!-- p. 992 (1046) -->
 
-⁴⁵ Ma chi s' avvede ch' e vivi suggelli\
+45 Ma chi s' avvede ch' e vivi suggelli\
 &emsp;D'ogni bellezza più fanno più suso,\
 &emsp;E ch'io non m'era ancor rivolto a quelli,
 
-⁴⁵ Sed qui perpendit quod prima sigilla\
+45 Sed qui perpendit quod prima sigilla\
 &emsp;Omnis pulchritudinis plus faciunt magis sursum,\
 &emsp;Et quod ego non eram ibi conversus ad illa,
 
-⁴⁶ Excusar puommi da quel ch' io m'accuso\
+46 Excusar puommi da quel ch' io m'accuso\
 &emsp;Per scusarmi, e vedermi dir vero:\
 &emsp;Chè 'l piacer sancto non è qui dischiuso,\
 &emsp;Perchè si fa, montando, più sincero.
 
-⁴⁶ Excusare potest me de eo de quo ego me accuso\
+46 Excusare potest me de eo de quo ego me accuso\
 &emsp;Propter me excusare, et videndo me dicere verum:\
 &emsp;Quia complacentia sancta non fuit hic exclusa,\
 &emsp;Et quia fit, ascendendo, magis sincera.

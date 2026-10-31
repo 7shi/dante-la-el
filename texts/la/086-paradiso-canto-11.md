@@ -8,11 +8,11 @@ In isto undecimo capitulo, quod incipit: O insensata cura mortalium, auctor pros
 
 # Capitulum Undecimum
 
-¹ O insensata cura de' mortali,\
+1 O insensata cura de' mortali,\
 &emsp;Quanto son defectivi sylogismi\
 &emsp;Quei che ti fanno in basso batter l'hali!
 
-¹ O insensata cura mortalium,\
+1 O insensata cura mortalium,\
 &emsp;Quantum sunt defectivi syllogismi\
 &emsp;Illi qui te faciunt in bassum percutere alas!
 
@@ -34,51 +34,51 @@ et hoc optime fit per auctorem, dum vituperat exercitia affectata presentis secu
 
 <!-- p. 945 (0999) -->
 
-² Chi dietro ad iura, e chi ad aphorysmi\
+2 Chi dietro ad iura, e chi ad aphorysmi\
 &emsp;Sen giva, e chi seguendo sacerdotio,\
 &emsp;E chi'n regnare per forza o per sophysmi,
 
-² Quidam retro iura, et quidam amphorismata,\
+2 Quidam retro iura, et quidam amphorismata,\
 &emsp;Ibant, et quidam sequendo sacerdotium,\
 &emsp;Et quidam ad regnandum per violentiam et sophismata,
 
-³ E chi 'n rubbare, e chi 'n civil negotio,\
+3 E chi 'n rubbare, e chi 'n civil negotio,\
 &emsp;Chi, nel dilecto de la carne involto,\
 &emsp;S'affaticava, e chi si dava all'otio;
 
-³ Et quidam ad robandum, et quidam ad civile negotium,\
+3 Et quidam ad robandum, et quidam ad civile negotium,\
 &emsp;Et quidam, in delectationibus carnis involutus,\
 &emsp;Laborabant, et quidam dabant se otio;
 
-⁴ Quand'io, da tutte queste cose sciolto,\
+4 Quand'io, da tutte queste cose sciolto,\
 &emsp;Con Beatrice m'era suso in cielo\
 &emsp;Cotanto gloriosamente accolto.
 
-⁴ Quando, ab omnibus hiis rebus solutus,\
+4 Quando, ab omnibus hiis rebus solutus,\
 &emsp;Cum Beatrice eram sursum in celo\
 &emsp;Tantum gloriose absortus.
 
-⁵ Poi che ciascuno fu tornato ne lo\
+5 Poi che ciascuno fu tornato ne lo\
 &emsp;Punto del cerchio, in che avanti s'era,\
 &emsp;Fermossi come a candelier candelo.
 
-⁵ Postquam quilibet fuit reversus in illo\
+5 Postquam quilibet fuit reversus in illo\
 &emsp;Puncto circuli, in quo ante erat,\
 &emsp;Firmavit se, sicut candela candelabro.
 
-⁶ Et io sentii dentr' a quella lumera,\
+6 Et io sentii dentr' a quella lumera,\
 &emsp;Che pria m'havea parlato, sorridendo\
 &emsp;Incominciar, facendosi più mera:
 
-⁶ Et ego sensi intra illam lumeram,\
+6 Et ego sensi intra illam lumeram,\
 &emsp;Que prius michi locuta fuerit, subridendo\
 &emsp;Incipere se facere magis claram:
 
-⁷ Così com' io del suo raggio risplendo,\
+7 Così com' io del suo raggio risplendo,\
 &emsp;Sì, riguardando ne la luce eterna,\
 &emsp;E' tuoi pensier, ond' io cagion apprendo.
 
-⁷ Sic sicut ego de suo radio resplendeo,\
+7 Sic sicut ego de suo radio resplendeo,\
 &emsp;Sic, respiciendo in lucem eternam,\
 &emsp;Tua cogitamina, unde rationem apprehendo.
 
@@ -90,51 +90,51 @@ Et ego sensi intra illam lucernam, idest facem, idest spiritum, scilicet Sancti 
 
 <!-- p. 946 (1000) -->
 
-⁸ Tu dubbi, et hai voler che si ricerna\
+8 Tu dubbi, et hai voler che si ricerna\
 &emsp;In sì aperta e sì distesa lingua\
 &emsp;Lo dicer mio, che 'l tuo sentir discerna,
 
-⁸ Tu dubitas, et habes voluntatem quod recernatur\
+8 Tu dubitas, et habes voluntatem quod recernatur\
 &emsp;In tam aperta et sic distincta lingua\
 &emsp;Dictum meum, quod tuo velle sternatur,
 
-⁹ Ove dinanzi dixi: U' ben s'impingua,\
+9 Ove dinanzi dixi: U' ben s'impingua,\
 &emsp;E là u' dixi: Non surse 'l secondo;\
 &emsp;E qui è huopo che ben si distingua.
 
-⁹ [Ubi ante dixi: Ubi bene impinguatur;\
+9 [Ubi ante dixi: Ubi bene impinguatur;\
 &emsp;Et ubi dixi: Non est natus secundus;\
 &emsp;Necesse est quod bene distinguatur.]
 
-¹⁰ La Providenzia, che governa el mondo\
+10 La Providenzia, che governa el mondo\
 &emsp;Con quel consiglo nel qual ogni aspecto\
 &emsp;Creato è vinto pria che vada al fondo,
 
-¹⁰ Providentia divina, que gubernat mundum\
+10 Providentia divina, que gubernat mundum\
 &emsp;Cum illo consilio in quo omnis aspectus\
 &emsp;Creatus vincitur priusquam vadat ad fundum,
 
-¹¹ Però ch'andasse ver lo suo dilecto\
+11 Però ch'andasse ver lo suo dilecto\
 &emsp;La sposa di colui, [c]h'ad alte grida\
 &emsp;Disposò lei col sangue benedecto,
 
-¹¹ Ad hoc ut iret versus suum dilectum\
+11 Ad hoc ut iret versus suum dilectum\
 &emsp;Sponsa illius, qui altis vocibus\
 &emsp;Desponsavit eam cum sanguine benedicto,
 
-¹² In sè sicura et anco in lui più fida,\
+12 In sè sicura et anco in lui più fida,\
 &emsp;Due principi ordinò in suo favore,\
 &emsp;Che quinci e quindi li fusser per guida.
 
-¹² In se secura et etiam illi magis fida,\
+12 In se secura et etiam illi magis fida,\
 &emsp;Duos principes ordinavit in suum favorem,\
 &emsp;Qui hinc et inde essent ei pro conductoribus.
 
-¹³ L'un tutto fu seraphyco in ardore,\
+13 L'un tutto fu seraphyco in ardore,\
 &emsp;L'altro per sapienza in terra fue\
 &emsp;Di cherubica luce uno splendore.
 
-¹³ Unus fuit totus seraphicus in ardore,\
+13 Unus fuit totus seraphicus in ardore,\
 &emsp;Alter propter sapientiam in terra fuit\
 &emsp;Cherubice lucis unus splendor.
 
@@ -146,35 +146,35 @@ Unus fuit totus seraphicus in ardore; idest totus inflammatus de Deo et domino C
 
 <!-- p. 947 (1001) -->
 
-¹⁴ Dell'un dirò, però che d'amendue\
+14 Dell'un dirò, però che d'amendue\
 &emsp;Si dice l'un pregiando, qual huom prende,\
 &emsp;Perch'ad un fine furo l'opre sue.
 
-¹⁴ De uno dicam, quia de ambobus dicitur\
+14 De uno dicam, quia de ambobus dicitur\
 &emsp;Unum laudando, quemcumque homo apprehendit,\
 &emsp;Quia ad unum finem fuerunt opera sua.
 
-¹⁵ Intra Tupino, e l'acqua che discende\
+15 Intra Tupino, e l'acqua che discende\
 &emsp;Dal colle electo dal beato Ubaldo,\
 &emsp;Fertile costa d'alto monte pende,
 
-¹⁵ Intra Tupinum, et aquam que descendit\
+15 Intra Tupinum, et aquam que descendit\
 &emsp;De colle electo Beati Ubaldi,\
 &emsp;Fertilis costa de alto monte pendet,
 
-¹⁶ Onde Perogia sente freddo e caldo\
+16 Onde Perogia sente freddo e caldo\
 &emsp;Da Porta Sole, e dirieto le piange\
 &emsp;Per grave giogo Nocera con Gualdo.
 
-¹⁶ Unde Perusium sentit frigus et calorem\
+16 Unde Perusium sentit frigus et calorem\
 &emsp;A Porta Solis, et retro illam plangit\
 &emsp;Per grave iugum Nuceria cum Gualdo.
 
-¹⁷ Di questa costa, là dov'ella frange\
+17 Di questa costa, là dov'ella frange\
 &emsp;Più suo raptezza, nacque al mondo un sole\
 &emsp;Come fa questo talvolta di Ghange.
 
-¹⁷ De ista costa, ibi ubi ipsa frangit\
+17 De ista costa, ibi ubi ipsa frangit\
 &emsp;Plus suum receptaculum, natus est in mundo unus sol\
 &emsp;Sicut facit iste aliquando de Gange.
 
@@ -188,43 +188,43 @@ De ista costa, ibi ubi ipsa frangit plus suum receptum, idest receptaculum, ides
 
 <!-- p. 948 (1002) -->
 
-¹⁸ Però chi d'esso luogo fa parole\
+18 Però chi d'esso luogo fa parole\
 &emsp;Non dica Ascesi, chè direbbe corto,\
 &emsp;Ma Oriente, se proprio dir vuole.
 
-¹⁸ Ideo qui de loco illo facit verba\
+18 Ideo qui de loco illo facit verba\
 &emsp;Non dicat Assisium, quia diceret breve,\
 &emsp;Sed Orientem, si proprie dicere vult.
 
-¹⁹ Non era ancor molto lontan dall'orto,\
+19 Non era ancor molto lontan dall'orto,\
 &emsp;Ch' ei cominciò a far sentir la terra\
 &emsp;De la sua gran virtù alcun conforto;
 
-¹⁹ Non erat adhuc multum longinquus a suo ortu,\
+19 Non erat adhuc multum longinquus a suo ortu,\
 &emsp;Quando ipse incepit facere sentire terram\
 &emsp;De sua grandi virtute aliquam confortationem;
 
-²⁰ Chè per tal donna giovanetto in guerra\
+20 Chè per tal donna giovanetto in guerra\
 &emsp;Del padre corse, a cui, com'a la morte,\
 &emsp;La porta del piacer nessun disserra;
 
-²⁰ Quia pro tali domina iuvenculus in guerram\
+20 Quia pro tali domina iuvenculus in guerram\
 &emsp;Patris cucurrit, cui, sicut morti,\
 &emsp;Portam complacentie nemo aperit;
 
-²¹ E dinanzi a la sua spiritual corte,\
+21 E dinanzi a la sua spiritual corte,\
 &emsp;Et coram patre li si fece unito,\
 &emsp;Poscia di dì in dì l'amò più forte.
 
-²¹ Et ante suam spiritualem curiam,\
+21 Et ante suam spiritualem curiam,\
 &emsp;Et coram patre illi se fecit unitum,\
 &emsp;Postea de die in diem illam fortius amavit.
 
-²² Questa, privata del primo marito,\
+22 Questa, privata del primo marito,\
 &emsp;Mille cento anni e più despecta e scura\
 &emsp;Fin a costui si stecte senza invito;
 
-²² Ista, privata de primo marito,\
+22 Ista, privata de primo marito,\
 &emsp;Mille centum annis et pluribus despecta et obscura\
 &emsp;Usque ad istum stetit sine invito;
 
@@ -240,47 +240,47 @@ Ista, scilicet paupertas, privata de primo marito, scilicet Christo, qui fuit pa
 
 <!-- p. 949 (1003) -->
 
-²³ Nè valse udir che la trovò sicura\
+23 Nè valse udir che la trovò sicura\
 &emsp;Con Amyclate, al suon de la sua voce,\
-&emsp;Colui (¹) ch'a tutto 'l mondo fe' paura;
+&emsp;Colui (1) ch'a tutto 'l mondo fe' paura;
 
-²³ Nec valuit ad dicendum quod invenit eam securam\
+23 Nec valuit ad dicendum quod invenit eam securam\
 &emsp;Cum Amiclate, ad sonum sue vocis,\
 &emsp;Ille qui toti mundo fecit timorem;
 
-²⁴ Nè vals' esser costante nè feroce,\
+24 Nè vals' esser costante nè feroce,\
 &emsp;Sì che, dove Maria rimase giuso,\
 &emsp;Ella con Christo pianse in su la croce.
 
-²⁴ Nec valuit esse constans neque ferox,\
+24 Nec valuit esse constans neque ferox,\
 &emsp;Ita quod, ubi Maria remansit inferius,\
 &emsp;Ipsa cum Christo planxit in cruce.
 
-²⁵ Ma perch' io non proceda tanto chiuso,\
+25 Ma perch' io non proceda tanto chiuso,\
 &emsp;Francesco e Povertà per questi amanti\
 &emsp;Prende oramai nel mio parlar diffuso.
 
-²⁵ Sed ut ego non procedam nimis clause,\
+25 Sed ut ego non procedam nimis clause,\
 &emsp;Franciscum et Paupertatem pro istis amantibus\
 &emsp;Apprehende ammodo in meo sermone diffuso.
 
-²⁶ La lor letitia e' lor lieti sembianti,\
+26 La lor letitia e' lor lieti sembianti,\
 &emsp;Amore e maravigla e dolce sguardo\
 &emsp;Facean esser cagion di pensier sancti;
 
-²⁶ Eorum concordia et ipsorum lete convenientie,\
+26 Eorum concordia et ipsorum lete convenientie,\
 &emsp;Amor et admiratio et dulcis intuitus\
 &emsp;Faciebant esse causam cogitationum sanctarum;
 
-²⁷ Tanto che 'l venerabile Bernardo\
+27 Tanto che 'l venerabile Bernardo\
 &emsp;Si scalzò prima, e dietro a tanta pace\
 &emsp;Corse, e correndo li parv' esser tardo.
 
-²⁷ Tantum quod venerabilis Bernardus\
+27 Tantum quod venerabilis Bernardus\
 &emsp;Discalciavit se primitus, et retro tantam pacem\
 &emsp;Cucurrit, et currendo apparuit ei esse tardum.
 
-(¹) Cesare
+(1) Cesare
 
 suum), despecta, idest spreta et obscura, idest abscondita, usque ad istum, scilicet Sanctum Franciscum, stetit sine invito, quia nullus eam invitavit, nullus voluit esse vere pauper.
 
@@ -294,51 +294,51 @@ Eorum coniugorum, scilicet concordia, et ipsorum lete sembiantie procabantur se 
 
 <!-- p. 950 (1004) -->
 
-²⁸ O ignota ricchezza, o ben ferace!\
+28 O ignota ricchezza, o ben ferace!\
 &emsp;Scalzasi Egidio, scalzasi Silvestro,\
 &emsp;Dietro allo sposo; sì la sposa piace.
 
-²⁸ O ignote divitie, o bonum verax!\
+28 O ignote divitie, o bonum verax!\
 &emsp;Discalciavit se Egidius, discalciavit se Silvester,\
 &emsp;Retro sponsum; ita sponsa placet.
 
-²⁹ Indi sen va quel padre e quel maestro\
+29 Indi sen va quel padre e quel maestro\
 &emsp;Co' la sua donna, e con quella famigla\
 &emsp;Che già legava l'humile capestro;
 
-²⁹ Inde recedit ille pater, ille magister,\
+29 Inde recedit ille pater, ille magister,\
 &emsp;Cum sua domina, et cum sua familia\
 &emsp;Quam iam ligabat humile capistrum;
 
-³⁰ Nè li gravò viltà di cuor le cigla,\
+30 Nè li gravò viltà di cuor le cigla,\
 &emsp;Per esser fi' di Pietro Bernardone,\
 &emsp;Nè per parer dispecto a maravigla:
 
-³⁰ Non gravavit vilitas cordis ei supercilia,\
+30 Non gravavit vilitas cordis ei supercilia,\
 &emsp;Quamquam esset filius Petri Bernardonis,\
 &emsp;Nec propter apparere despectus in admiratione:
 
-³¹ Ma realmente suo' dura intentione\
+31 Ma realmente suo' dura intentione\
 &emsp;Ad Innocentio aperse, e da lui ebbe\
 &emsp;Primo sigillo a sua religione.
 
-³¹ Sed realiter suam duram intentionem\
+31 Sed realiter suam duram intentionem\
 &emsp;Innocentio aperuit, et ab eo habuit\
 &emsp;Primum sigillum sue religionis.
 
-³² Poi che la gente poverella crebbe\
+32 Poi che la gente poverella crebbe\
 &emsp;Dietro a costui, la cui mirabil vita\
 &emsp;Meglo in gloria del ciel si canterebbe,
 
-³² Postquam gens paupercula crevit\
+32 Postquam gens paupercula crevit\
 &emsp;Retro istum, cuius mirabilis vita\
 &emsp;Melius in gloria celi cantaretur,
 
-³³ Di seconda corona redimita\
+33 Di seconda corona redimita\
 &emsp;Fu per Honorio dall'eterno spiro\
 &emsp;La sancta vogla d'esto archimandrita.
 
-³³ De secunda corona redimita\
+33 De secunda corona redimita\
 &emsp;Fuit per Honorium eterni spiraminis\
 &emsp;Sancta voluntas istius archimandrite.
 
@@ -354,51 +354,51 @@ Postquam gens paupercula crevit, idest augmentari cepit, retro, idest post, istu
 
 <!-- p. 951 (1005) -->
 
-³⁴ E poi che, per la sete del martiro,\
+34 E poi che, per la sete del martiro,\
 &emsp;Ne la presenzia del Soldan superba\
 &emsp;Predicò Chrysto e gl'altri che 'l seguiro;
 
-³⁴ Et postquam, propter sitim martyrii,\
+34 Et postquam, propter sitim martyrii,\
 &emsp;In presentia Soldani superba\
 &emsp;Predicavit Christum, et alios qui sequuti sunt illum;
 
-³⁵ E per trovar a convertirsi acerba\
+35 E per trovar a convertirsi acerba\
 &emsp;Troppo la gente, per non stare indarno,\
 &emsp;Tornassi al fructo dell'italica herba;
 
-³⁵ Et propter invenire ad conversionem acerbam\
+35 Et propter invenire ad conversionem acerbam\
 &emsp;Nimis gentem, et ut non staret in vanum,\
 &emsp;Redivit ad fructum ytalice herbe;
 
-³⁶ Nel crudo saxo, tra Tevere et Arno,\
+36 Nel crudo saxo, tra Tevere et Arno,\
 &emsp;Da Christo prese l'ultimo sigillo,\
 &emsp;Che le sue membra du' anni portarno.
 
-³⁶ In crudo saxo, inter Tyberim et Arnum,\
+36 In crudo saxo, inter Tyberim et Arnum,\
 &emsp;A Christo sumpsit ultimum sigillum,\
 &emsp;Quod sua membra duobus annis portarunt.
 
-³⁷ Quand'a colui ch'a tanto ben sortillo,\
+37 Quand'a colui ch'a tanto ben sortillo,\
 &emsp;Piacque di trarlo suso a la mercede,\
 &emsp;Ch'e' meritò nel suo farsi pusillo,
 
-³⁷ Quando illi qui tantum bene illum sortitus est,\
+37 Quando illi qui tantum bene illum sortitus est,\
 &emsp;Placuit trahere ipsum sursum ad mercedem,\
 &emsp;Quam ipse meruit in suo se facere pusillum,
 
-³⁸ A' Frati suoi, sì come a giusti herede,\
+38 A' Frati suoi, sì come a giusti herede,\
 &emsp;Raccomandò la donna sua più cara,\
 &emsp;E comandò che l'amasser di fede;
 
-³⁸ Fratribus suis, sicut iustis heredibus,\
+38 Fratribus suis, sicut iustis heredibus,\
 &emsp;Recomendavit dominam suam plus caram,\
 &emsp;Et mandavit quod amarent eam fideliter;
 
-³⁹ E del suo grembo l'anima preclara\
+39 E del suo grembo l'anima preclara\
 &emsp;Muover si volse, tornand'al suo regno,\
 &emsp;Et al suo corpo non volse altra bara.
 
-³⁹ Et de suo gremio anima preclara\
+39 Et de suo gremio anima preclara\
 &emsp;Movere se voluit, redeundo ad suum regnum,\
 &emsp;Et suo corpori noluit aliam baram.
 
@@ -412,55 +412,55 @@ Quando illi, scilicet Christo, qui tantum bene illum sortitus est, scilicet Sanc
 
 <!-- p. 952 (1006) -->
 
-⁴⁰ Pensa oramai qual fu colui (¹) che degno\
+40 Pensa oramai qual fu colui (1) che degno\
 &emsp;Collega fu a mantener la barca\
 &emsp;Di Pietro in alto mar per dricto segno!
 
-⁴⁰ Cogita ammodo qui fuit ille qui dignus\
+40 Cogita ammodo qui fuit ille qui dignus\
 &emsp;Collega fuit ad manutenendam barcham\
 &emsp;Petri in alto mari per directum signum!
 
-⁴¹ E questo fu el nostro Patriarca;\
+41 E questo fu el nostro Patriarca;\
 &emsp;Perchè qual segue lui, com'el comanda,\
 &emsp;Discerner puoi che buona merce carca.
 
-⁴¹ Et iste fuit noster Patriarcha;\
+41 Et iste fuit noster Patriarcha;\
 &emsp;Ideo quicumque illum sequitur, sicut ipse mandat,\
 &emsp;Discernere potes quod bonam mercem onerat.
 
-⁴² Ma el suo peculio di nuova vivanda\
+42 Ma el suo peculio di nuova vivanda\
 &emsp;È facto ghiotto sì, ch'esser non puote\
 &emsp;Che per diversi salti non si spanda;
 
-⁴² Sed suum peculium novi ferculi\
+42 Sed suum peculium novi ferculi\
 &emsp;Factus est gulosus ita, quod non potest esse\
 &emsp;Quin per diversos saltus non se expandat;
 
-⁴³ E quanto le sue pecore remote\
+43 E quanto le sue pecore remote\
 &emsp;E vagabonde più da esso vanno,\
 &emsp;Più tornan all'ovil di lacte vote.
 
-⁴³ Et quantum oves sue remote\
+43 Et quantum oves sue remote\
 &emsp;Et vagabunde magis ab ipso vadunt,\
 &emsp;Plus redeunt ad ovile lactis vacue.
 
-⁴⁴ Ben son di quelle che temon lo danno,\
+44 Ben son di quelle che temon lo danno,\
 &emsp;E stringonsi al pastor; ma son sì poche,\
 &emsp;Che le cappe fornisce poco panno.
 
-⁴⁴ Bene sunt alique que timent dampnum,\
+44 Bene sunt alique que timent dampnum,\
 &emsp;Et stringunt se pastori; sed sunt ita pauci,\
 &emsp;Quod cappas ipsorum fulcit paucus pannus.
 
-⁴⁵ Or, se le mie parole non son fioche,\
+45 Or, se le mie parole non son fioche,\
 &emsp;E se la tua audienzia è stata attenta,\
 &emsp;Se ciò ch'ò decto a la mente revoche,
 
-⁴⁵ Or, si verba mea non sunt rauca,\
+45 Or, si verba mea non sunt rauca,\
 &emsp;Et si tua audientia fuit actenta,\
 &emsp;Si quiquid dixi ad mentem revocas,
 
-(¹) Domenico
+(1) Domenico
 
 precaram vel preclaram (uterque terminus est bonus); et mandavit, scilicet Fratribus, quod amarent eam fideliter; et de suo gremio, idest corpore, anima preclara, scilicet Sancti Francisci, movere se voluit, scilicet de mundo isto, redeundo ad suum regnum, quia vere illa anima a Deo venit: sic ad Deum redire voluit, peracta peregrinatione; et suo corpori noluit aliam baram, idest aliud feretrum.
 
@@ -480,12 +480,12 @@ Aliqualiter dubitatur et potest dubitari de dicto auctoris, dicentis, quod paupe
 
 <!-- p. 953 (1007) -->
 
-⁴⁶ In parte fie la tua vogla contenta;\
+46 In parte fie la tua vogla contenta;\
 &emsp;Perchè vedrai la pianta onde si scheggia,\
 &emsp;Vedrai el correggiar che argomenta,\
 &emsp;U' ben s'impingua, se non si vaneggia.
 
-⁴⁶ In parte erit tua voluntas contenta;\
+46 In parte erit tua voluntas contenta;\
 &emsp;Quia videbis plantam unde scinditur,\
 &emsp;Videbis correctionem que argumentat,\
 &emsp;Ubi bene impinguatur, si non vanegiatur.

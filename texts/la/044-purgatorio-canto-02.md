@@ -8,11 +8,11 @@ In secundo capitulo, scilicet in isto, quod incipit: Iam sol, etc., auctor fingi
 
 # Capitulum Secundum
 
-¹ Già era 'l sol all'orizzonte giunto,\
+1 Già era 'l sol all'orizzonte giunto,\
 &emsp;Lo cui meridian cerchio coverchia\
 &emsp;Ierusalem col suo più alto punto:
 
-¹ Iam sol pervenerat ad orizonta,\
+1 Iam sol pervenerat ad orizonta,\
 &emsp;Cuius meridianus circulus cooperuit\
 &emsp;Hierusalem cum suo altiori puncto:
 
@@ -42,55 +42,55 @@ Ex quo igitur fuit introductus manu Cathonis in Purgatorium, ipse auctor vult tr
 
 <!-- p. 447 (0501) -->
 
-² E la nocte, che opposita a lui cerchia,\
+2 E la nocte, che opposita a lui cerchia,\
 &emsp;Uscia di Gange fuor de le bilancie,\
 &emsp;Chelle càgion di man quando coverchia;
 
-² Et nox, que est opposita circulo,\
+2 Et nox, que est opposita circulo,\
 &emsp;Exibat de Gange extra cum bilanciis,\
 &emsp;Que cadunt de eius manibus quando superatur;
 
-³ Sì che le bianche e le vermigle guancie,\
+3 Sì che le bianche e le vermigle guancie,\
 &emsp;Là dov'io era, de la bella aurora,\
 &emsp;Per troppa etade divenivan rancie.
 
-³ Ita quod albe et rubicunde gene,\
+3 Ita quod albe et rubicunde gene,\
 &emsp;Ubi ego eram, pulchre aurore,\
 &emsp;Propter nimiam etatem deveniebant ranze.
 
-⁴ Noi andavam lungh'esso 'l mare ancora,\
+4 Noi andavam lungh'esso 'l mare ancora,\
 &emsp;Come gente che pensa a suo cammino,\
 &emsp;Che va col chuore, e col corpo dimora:
 
-⁴ Nos eramus iuxta ipsum mare adhuc,\
+4 Nos eramus iuxta ipsum mare adhuc,\
 &emsp;Sicut gens que cogitat ad suum iter,\
 &emsp;Que vadit cum corde, et cum corpore moratur:
 
-⁵ Et ecco, qual sol presso dal mattino,\
+5 Et ecco, qual sol presso dal mattino,\
 &emsp;Per li grossi vapor Marte rosseggia\
-&emsp;Giù nel ponente sopra 'l (¹) suol marino,
+&emsp;Giù nel ponente sopra 'l (1) suol marino,
 
-⁵ Et ecce, qualis solet prope matutinum,\
+5 Et ecce, qualis solet prope matutinum,\
 &emsp;Propter grossos vapores Mars rubescit\
 &emsp;Infra in orientem sopra solum marinum;
 
-⁶ Cotal m'apparve, s'io ancor lo veggia,\
+6 Cotal m'apparve, s'io ancor lo veggia,\
 &emsp;Un lume per lo mar venir sì racto,\
 &emsp;Che 'l muover suo nessun volar pareggia;
 
-⁶ Talis michi apparuit, si ego illud adhuc videam,\
+6 Talis michi apparuit, si ego illud adhuc videam,\
 &emsp;Unum lumen per mare venire ita festinanter,\
 &emsp;Quod motum eius nullus volatus parificat;
 
-⁷ Del qual, com'io un poco ebbi ritracto\
+7 Del qual, com'io un poco ebbi ritracto\
 &emsp;L'ochio per domandar lo duca mio,\
 &emsp;Rividil più lucente e maggior facto.
 
-⁷ A quo, sicut ego aliquantulum retraxi\
+7 A quo, sicut ego aliquantulum retraxi\
 &emsp;Oculum ut interrogarem ducem meum,\
 &emsp;Vidi eum lucentius et maius factum.
 
-(¹) al. sovr' al.
+(1) al. sovr' al.
 
 circulus est supra Hierusalem, dato quod Hierusalem sit in medio mundi, fiebat ergo dies clara, quia iam sol pervenerat ad orizonta, cuius meridianus circulus, idest meridies, cooperit Hierusalem cum suo altiori puncto, idest in medio celi. Coverchia: idest cooperit. Sicut ergo fiebat dies inferius, ita fiebat nox hic superius, et nox, que est opposita alla cerchia, idest circulo, exibat de Gange, idest de fluvio, extra cum bilanciis, idest signo Libre, que cadunt de eius manibus, quando superatur. Ganges est quidam fluvius orientalis, regalis, de quo videtur exire sol de mane, quando oritur. Si sol erat in Ariete, tunc nox erat in Libra, et exibat extra cum bilanciis, idest cum signo Libre; que bilancie cadunt, quando superatur, idest variatur, dies, quoniam in Ariete et in Libra sunt equinoxia. Ergo quando fit separatio, idest quando nox, vel dies, crescit, bilancie, idest lances, cadunt, idest non stant equaliter: ergo non est equinoxium. Parum durat illa equalitas, etc., quia cito incipiunt crescere, vel decrescere, dies, vel noctes, quia circa auroram albefit aier, et postea, veniente sole, fit rubor, quia radii solares inveniunt vapores, in quos repercutiunt, et sic recedit albedo et rubedo. Vult dicere quod erat dies clara; ita quod albe et rubicunde gene, ubi ego eram, pulchre Aurore, propter nimiam etatem deveniebant, idest apparebant, rance, idest pallide. Pro genis intellige apparentiam. Rance: est quidam color, quem aliqui vocant ruffum; sed melius est dicere quasi pallidum, vel melius croceum: ita quod rubor remictebatur propter etatem, quia sol non ascenderat.
 
@@ -102,47 +102,47 @@ A quo sicut ego aliquantulum retraxi oculum, idest visum, ut interrogarem ducem 
 
 <!-- p. 448 (0502) -->
 
-⁸ Poi d'ogni lato ad esso m'appario\
+8 Poi d'ogni lato ad esso m'appario\
 &emsp;Un non sapeva che bianch'e di sotto\
 &emsp;A poco a poco un altro a lui uscio.
 
-⁸ Postea ex omni latere ipsius michi apparuit\
+8 Postea ex omni latere ipsius michi apparuit\
 &emsp;Unum nesciebam quod album, subtus\
 &emsp;Paullatim unum aliud alteri exivit.
 
-⁹ Lo mio maestro ancor non facea motto,\
+9 Lo mio maestro ancor non facea motto,\
 &emsp;Mentre ch'e primi bianchi aperser l'hali:\
 &emsp;Allor che ben conobbe el galeotto,
 
-⁹ Magister meus adhuc non fecit verbum,\
+9 Magister meus adhuc non fecit verbum,\
 &emsp;Quousque primi albi aperuerunt alas:\
 &emsp;Tunc quod bene cognovit galeoctum,
 
-¹⁰ Gridò: Fa', fa'che le ginochia cali;\
+10 Gridò: Fa', fa'che le ginochia cali;\
 &emsp;Ecco l'angel di Dio; piega le mani:\
-&emsp;Omai vedrai di sì facti officiali (¹).
+&emsp;Omai vedrai di sì facti officiali (1).
 
-¹⁰ Clamavit: Fac, fac quod genua flectas;\
+10 Clamavit: Fac, fac quod genua flectas;\
 &emsp;Ecce angelum Dei; plica manus:\
 &emsp;Ammodo videbis huiusmodi officiales.
 
-¹¹ Ve' (²) che disdegnan gl'argomenti humani,\
-&emsp;Sì che nè remo vuol (³) nè altro velo\
+11 Ve' (2) che disdegnan gl'argomenti humani,\
+&emsp;Sì che nè remo vuol (3) nè altro velo\
 &emsp;Che l'hali sue tra liti [sì] lontani.
 
-¹¹ Videas quod dedignatur argumenta humana,\
+11 Videas quod dedignatur argumenta humana,\
 &emsp;Ita quod remum non vult nec alterum velum,\
 &emsp;Nisi solum alas suas infra lictora tam lontana.
 
-¹² Vedi com'è diricto verso 'l cielo,\
+12 Vedi com'è diricto verso 'l cielo,\
 &emsp;Tractando l'hali coll'eterne penne,\
 &emsp;Che non si mutan come mortal pelo.
 
-¹² Videas quomodo habet illas erectas versus celum,\
+12 Videas quomodo habet illas erectas versus celum,\
 &emsp;Tractando aierem cum eternis pennis,\
 &emsp;Que non mutantur sicut pilus mortalis.
 
-(¹) e non demonii. — (²) vedi — (³) al. remo non vuol.
+(1) e non demonii. — (2) vedi — (3) al. remo non vuol.
 
 Lucentius: idest splendididus. Hoc est satis conforme veritati, quia quanto res magis appropinquat primis corporali, dummodo non supraponatur, tanto melius apprehenditur. Adeo velociter veniebat, quod interdum, cum Dantes revolveret [se] in parvo spatio, angelus multum appropinquabat.
 
@@ -156,71 +156,71 @@ Videas quomodo illas habet, scilicet alas, erectas versus celum, trahendo aierem
 
 <!-- p. 449 (0503) -->
 
-¹³ Poi come più e più verso noi venne\
+13 Poi come più e più verso noi venne\
 &emsp;L'uccel divino, più chiaro appariva;\
 &emsp;Perchè l'ochio da presso nol sostenne:
 
-¹³ Postmodum sicut magis et magis versus nos venit\
+13 Postmodum sicut magis et magis versus nos venit\
 &emsp;Avis divina, clarior nobis apparebat;\
 &emsp;Ex quo oculus de prope eum non sustinuit:
 
-¹⁴ Ma china'il giuso; e quel sen venne a riva,\
+14 Ma china'il giuso; e quel sen venne a riva,\
 &emsp;Con un vasello snelletto e leggiero,\
 &emsp;Tanto che l'acqua nulla ne 'nghiottiva.
 
-¹⁴ Sed inclinavi visum; et ipse venit ad ripam,\
+14 Sed inclinavi visum; et ipse venit ad ripam,\
 &emsp;Cum uno vasculo levi et snelecto,\
 &emsp;Tantum quod nihil aqua de illo deglutiebat.
 
-¹⁵ Da poppa stava il celestial nochiero,\
-&emsp;Tal che parea beato per scripto (¹);\
+15 Da poppa stava il celestial nochiero,\
+&emsp;Tal che parea beato per scripto (1);\
 &emsp;E più di cento spirti entro sedero.
 
-¹⁵ In puppi stabat celestis nauclerius,\
+15 In puppi stabat celestis nauclerius,\
 &emsp;In tantum quod apparebat beatus ex inscripto;\
 &emsp;Et plusquam centum spiritus intus sederunt.
 
-¹⁶ In exitu Israel de Egypto\
+16 In exitu Israel de Egypto\
 &emsp;Cantavan tutti insieme ad una voce,\
 &emsp;Con quanto di quel salmo è poi scripto.
 
-¹⁶ In exitu Israel de Egypto\
+16 In exitu Israel de Egypto\
 &emsp;Cantabant omnes simul una voce,\
 &emsp;Cum quanto de illo psalmo est postea scriptum.
 
-¹⁷ Poi fece 'l segno lor di sancta croce;\
+17 Poi fece 'l segno lor di sancta croce;\
 &emsp;Ond'ei si gittâr tutti in su la piaggia,\
-&emsp;E lui (²) sen gì, come venne, veloce.
+&emsp;E lui (2) sen gì, come venne, veloce.
 
-¹⁷ Postea fecit eis signum sancte crucis;\
+17 Postea fecit eis signum sancte crucis;\
 &emsp;Unde ipsi se proiecerunt omnes super piaggiam,\
 &emsp;Et ipse recessit, sicut venit, velox.
 
-¹⁸ La turba che rimase lì, selvaggia\
-&emsp;Parea, quel (³) loco ammirando dintorno,\
+18 La turba che rimase lì, selvaggia\
+&emsp;Parea, quel (3) loco ammirando dintorno,\
 &emsp;Come colui che nuove cose assaggia.
 
-¹⁸ Turba que remansit ibi, silvestris\
+18 Turba que remansit ibi, silvestris\
 &emsp;Apparebat de loco, respiciendo circum,\
 &emsp;Sicut ille qui novas res gustat.
 
-¹⁹ Da tutte parti saettava el giorno\
+19 Da tutte parti saettava el giorno\
 &emsp;Lo sol, ch'avea co' le saette conte\
 &emsp;Di mezzo 'l ciel cacciato Capricorno,
 
-¹⁹ A cunctis partibus sagiptabat diem\
+19 A cunctis partibus sagiptabat diem\
 &emsp;Sol, qui cum sagiptis contis\
 &emsp;E medio celi expulerat Capricornium,
 
-²⁰ Quando la nuova gente alzò la fronte\
+20 Quando la nuova gente alzò la fronte\
 &emsp;Ver noi, dicendo a noi: Se voi sapete,\
 &emsp;Mostratene la via di gir al monte.
 
-²⁰ Quando nova gens ellevavit frontem\
+20 Quando nova gens ellevavit frontem\
 &emsp;Versus nos, dicendo nobis: Si vos scitis\
 &emsp;Monstrare nobis viam eundi ad montem.
 
-(¹) al. prescritto — (²) al. et el. — (³) al. del.
+(1) al. prescritto — (2) al. et el. — (3) al. del.
 
 Sicut postmodum magis et magis versus nos venit avis divina, clarior nobis apparebat: ex quo oculus, scilicet meus, de prope non eum sustinuit, idest non potuit in eum intueri; sed inclinavi visum, et ipse venit ad ripam cum uno vasculo, idest navicula, snellecta, idest subtili ac levi tantum, quod nihil aqua de illo deglutiebat.
 
@@ -238,55 +238,55 @@ A cunctis partibus sagiptabat diem sol, idest iaciebat radios, qui cum sagiptis,
 
 <!-- p. 450 (0504) -->
 
-²¹ E Virgilio rispose: Voi credete\
+21 E Virgilio rispose: Voi credete\
 &emsp;Forse che siamo experti d'esto loco;\
 &emsp;Ma noi siam peregrin, come voi sete.
 
-²¹ Et Virgilius respondit: Vos creditis\
+21 Et Virgilius respondit: Vos creditis\
 &emsp;Forsan quod simus experti de isto loco;\
 &emsp;Sed nos sumus peregrini, sicut vos estis.
 
-²² Venimmo qui dinanzi a voi un poco,\
+22 Venimmo qui dinanzi a voi un poco,\
 &emsp;Per altra via che fu sì aspra e forte,\
 &emsp;Che 'l salir oramai ne parrà gioco.
 
-²² Paulo ante venimus ante vos aliquantulum,\
+22 Paulo ante venimus ante vos aliquantulum,\
 &emsp;Per aliam viam que fuit ita aspera et fortis,\
 &emsp;Quod ascendere ammodo nobis apparebit iocus.
 
-²³ L'anime che si furo di me accorte,\
+23 L'anime che si furo di me accorte,\
 &emsp;Per lo spirare, ch'io era ancor vivo,\
 &emsp;Maraviglando doventaro smorte;
 
-²³ Anime que de me perpenderunt,\
+23 Anime que de me perpenderunt,\
 &emsp;Propter spirare, quod ego eram adhuc vivus,\
 &emsp;Admirando devenerunt pallide;
 
-²⁴ E come a messaggier, che porta ulivo,\
+24 E come a messaggier, che porta ulivo,\
 &emsp;Tragge la gente per udir novelle,\
 &emsp;E di calcar nessun si mostra schivo;
 
-²⁴ Et sicut ad nuncium, qui portat olivum,\
+24 Et sicut ad nuncium, qui portat olivum,\
 &emsp;Trahit gens pro audiendis novis,\
 &emsp;Et de calcando eum nullus monstrat indignatum;
 
-²⁵ Così al viso mio s'affixer quelle\
+25 Così al viso mio s'affixer quelle\
 &emsp;Anime fortunate tutte quante,\
-&emsp;Quasi obliando d'ire (¹) a farsi belle.
+&emsp;Quasi obliando d'ire (1) a farsi belle.
 
-²⁵ Sic ad visum meum se affixerunt\
+25 Sic ad visum meum se affixerunt\
 &emsp;Ille anime fortunate omnes,\
 &emsp;Quasi obliviscendo ire ad faciendum se pulchras.
 
-²⁶ Io vidi una di lor trarsi davante\
+26 Io vidi una di lor trarsi davante\
 &emsp;Per abbracciarmi con sì grande affecto,\
 &emsp;Che mosse me a far el simigliante.
 
-²⁶ Ego vidi unam de ipsis trahere se ante\
+26 Ego vidi unam de ipsis trahere se ante\
 &emsp;Ut me amplecteretur cum tam grandi affectu,\
 &emsp;Quod movit me ad faciendum simile.
 
-(¹) dimenticandosi d'andare.
+(1) dimenticandosi d'andare.
 
 si incipiebat dies fieri, erat in medio celi; sed sole ascendente super orizonta, oportet quod Sagittarius recesserit a medio celi. Nota, quod istos spiritus nunquam penituit nisi in fine; ideo fingit quod ipsi petierunt de via, quia ipsam non quesierant ante mortem, quia si penituisset eos ante mortem, ipsi didicissent viam Purgatorii; quando nova gens elevavit frontem, idest erexit oculos versus nos, dicendo nobis: Si vos scitis monstrare nobis viam eundi ad montem, idest per quam possumus ire ad montem.
 
@@ -302,59 +302,59 @@ Ego vidi unam de ipsis trahere ante se, ut me amplecteretur cum tam grandi affec
 
 <!-- p. 451 (0505) -->
 
-²⁷ Ombre fur vane, però che, nell'aspecto,\
+27 Ombre fur vane, però che, nell'aspecto,\
 &emsp;Tre volte dietro a lei le mani avinsi,\
 &emsp;E tante mi tornai con esse al pecto.
 
-²⁷ O umbre vane, preter quam in aspectu!\
+27 O umbre vane, preter quam in aspectu!\
 &emsp;Tribus vicibus retro illam manus advinxi,\
 &emsp;Et totidem redivi cum nihilo ad pectus.
 
-²⁸ Di maravigla, credo, mi dipinsi;\
+28 Di maravigla, credo, mi dipinsi;\
 &emsp;Perchè l'ombra sorrise e si ritrassi,\
 &emsp;Et io, seguendo lei, oltre mi pinsi.
 
-²⁸ Admiratione, credo, me depinxi;\
+28 Admiratione, credo, me depinxi;\
 &emsp;Ex quo umbra subrixit et se retraxit,\
 &emsp;Et ego, sequendo ipsam, ulterius me pinxi.
 
-²⁹ Suavemente disse ch'io posassi:\
+29 Suavemente disse ch'io posassi:\
 &emsp;Allor cognobbi chi era, e 'l pregai\
 &emsp;Che per parlarmi un poco s'arrestassi.
 
-²⁹ Suaviter dixit quod ego quiescerem:\
+29 Suaviter dixit quod ego quiescerem:\
 &emsp;Tunc cognovi qui erat, et precatus sum\
 &emsp;Quod loquendo mecum aliquantulum se firmaret.
 
-³⁰ Risposemi: Così com' io t'amai\
+30 Risposemi: Così com' io t'amai\
 &emsp;Nel mortal corpo, così t'amo sciolta;\
 &emsp;Però m'arresto: ma tu perchè vai?
 
-³⁰ Respondit michi: Sicut ego te amavi\
+30 Respondit michi: Sicut ego te amavi\
 &emsp;In mortali corpore, ita amo te soluta;\
 &emsp;Ideo me firmo: sed tu quare vadis?
 
-³¹ Casella mia, per tornar altra volta\
+31 Casella mia, per tornar altra volta\
 &emsp;Là dove son, fo io questo viaggio;\
 &emsp;Ma te come t'è tanta terra tolta?
 
-³¹ Casella mi, ut redeam huc alias\
+31 Casella mi, ut redeam huc alias\
 &emsp;Ubi ego sum, facio ego istud iter,\
 &emsp;Dixi ego; sed tibi cur tanta hora est sublata?
 
-³² Et elli a me: Nessun m'è facto oltraggio,\
+32 Et elli a me: Nessun m'è facto oltraggio,\
 &emsp;Se quei, che leva quando e cui li piace,\
 &emsp;Più volte m'ha negato esto passaggio;
 
-³² Et ipse: Nullus fecit michi iniuriam,\
+32 Et ipse: Nullus fecit michi iniuriam,\
 &emsp;Si ille, qui levat quando et quem sibi placet,\
 &emsp;Pluribus vicibus michi negavit istud passagium;
 
-³³ Chè di giusto voler lo suo si face.\
+33 Chè di giusto voler lo suo si face.\
 &emsp;Veramente da tre mesi egl'à tolto\
 &emsp;Chi ha voluto entrar con tanta pace.
 
-³³ Si[c] de iusto velle suum facit.\
+33 Si[c] de iusto velle suum facit.\
 &emsp;Veraciter a tribus mensibus ipse accepit quemcumque\
 &emsp;Qui voluit intrare cum tota pace.
 
@@ -374,35 +374,35 @@ Veraciter a tribus mensibus ipse accepit quemcumque, qui voluit intrare cum tota
 
 <!-- p. 452 (0506) -->
 
-³⁴ Ond'io ch'era hor a la marina volto\
+34 Ond'io ch'era hor a la marina volto\
 &emsp;Dove l'acqua di Tevere s'insala,\
 &emsp;Benignamente fui da lui raccolto
 
-³⁴ Unde ego, qui eram nunc ad marinam revolutus,\
+34 Unde ego, qui eram nunc ad marinam revolutus,\
 &emsp;Ubi aqua Tyberis efficitur salsa,\
 &emsp;Benigniter fui de ipso susceptus
 
-³⁵ A quella foce, ov'egli ha dricta l'hala:\
+35 A quella foce, ov'egli ha dricta l'hala:\
 &emsp;Però che quivi sempre si ricogle,\
 &emsp;Quale verso Acheronte non si cala.
 
-³⁵ Ad illam faucem, ubi habet nunc erectam alam:\
+35 Ad illam faucem, ubi habet nunc erectam alam:\
 &emsp;Ex eo quia semper ibi recolligitur,\
 &emsp;Quicunque versus Acherontem se non calat.
 
-³⁶ Et io: Se nuova legge non ti togle\
+36 Et io: Se nuova legge non ti togle\
 &emsp;Inamoroso all'amoroso canto,\
 &emsp;Che mi solea quetar tutte mie voglie,
 
-³⁶ Et ego dixi: Si nova lex tibi non subtrahit\
+36 Et ego dixi: Si nova lex tibi non subtrahit\
 &emsp;Memoriam et usum in amoroso cantu,\
 &emsp;Qui solebat quietare cunctas meas voluntates,
 
-³⁷ Di ciò ti piaccia consolarmi alquanto\
+37 Di ciò ti piaccia consolarmi alquanto\
 &emsp;L'anima mia, che, colla mia persona\
 &emsp;Venendo qui, è affannata tanto.
 
-³⁷ De hoc tibi placeat consolari aliquantulum\
+37 De hoc tibi placeat consolari aliquantulum\
 &emsp;Animam meam, que, cum sua persona\
 &emsp;Veniendo huc, est fatigata tantum.
 
@@ -416,65 +416,65 @@ Et ego, scilicet dixi, ad eum. E io: Se nova legge: hec est quarta pars huius ca
 
 <!-- p. 453 (0507) -->
 
-³⁸ Amor, che ne la mente mi ragiona,\
+38 Amor, che ne la mente mi ragiona,\
 &emsp;Cominciò elli allor sì dolcemente,\
-&emsp;Che la dolcezza ancor dentro mi sona (¹).
+&emsp;Che la dolcezza ancor dentro mi sona (1).
 
-³⁸ Amorem, qui in mea mente ratiocinatur,\
+38 Amorem, qui in mea mente ratiocinatur,\
 &emsp;Incepit ipse dicere ita dulciter,\
 &emsp;Quod illius dulcedo adhuc intra me sonat.
 
-³⁹ Lo mio maestro, et io, e quella gente\
+39 Lo mio maestro, et io, e quella gente\
 &emsp;Ch'eran con lui, parean sì contenti,\
 &emsp;Com'a nessun tochass'altro la mente.
 
-³⁹ Magister meus, ego, et illa gens\
+39 Magister meus, ego, et illa gens\
 &emsp;Que erant cum ipso, apparebant ita contenti,\
 &emsp;Ac si nulli tangeret aliud mentem.
 
-⁴⁰ Noi andavàn tutti fixi et attenti\
+40 Noi andavàn tutti fixi et attenti\
 &emsp;A le sue note; et ecco 'l veglo honesto,\
 &emsp;Gridando: Che è ciò, spiriti lenti?
 
-⁴⁰ Nos ibamus omnes fixi et attenti\
+40 Nos ibamus omnes fixi et attenti\
 &emsp;Suis notis; et ecce antiquus honestus,\
 &emsp;Clamando: Quid est, spiritus lenti?
 
-⁴¹ Qual negligentia, quale star è questo?\
+41 Qual negligentia, quale star è questo?\
 &emsp;Correte al monte a spogliarvi lo scoglo,\
 &emsp;Ch'esser non lassa a voi Dio manifesto.
 
-⁴¹ Qualis negligentia, quale stare est istud?\
+41 Qualis negligentia, quale stare est istud?\
 &emsp;Currite ad montem ad expoliandum vos scorium,\
 &emsp;Quod esse non permittit vobis Deum manifestum.
 
-⁴² E come, ricoglendo biada o gioglo (²),\
+42 E come, ricoglendo biada o gioglo (2),\
 &emsp;Li colombi adunati a la pastura,\
 &emsp;Questi senza mostrar l'usato argoglo,
 
-⁴² Sicut quando, colligendo bladium vel lolium,\
+42 Sicut quando, colligendo bladium vel lolium,\
 &emsp;Columbe adunate ad pasturam,\
 &emsp;Quiete sine monstrare consuetam audaciam,
 
-⁴³ Se cosa appar ond'egli abbian paura,\
-&emsp;Subitamente (³) lassano star l'escha,\
+43 Se cosa appar ond'egli abbian paura,\
+&emsp;Subitamente (3) lassano star l'escha,\
 &emsp;Perch'assaliti son da maggior cura;
 
-⁴³ Si res apparet unde ipse habeant pavorem.\
+43 Si res apparet unde ipse habeant pavorem.\
 &emsp;Subito permictunt stare escam,\
 &emsp;Quia illas aggressa est maior cura;
 
-⁴⁴ Così vid' io quella masnada frescha\
+44 Così vid' io quella masnada frescha\
 &emsp;Lasciar lo canto, e gir in ver la costa,\
-&emsp;Com'huom che va ne sà dove s'arrescha (⁴):\
+&emsp;Com'huom che va ne sà dove s'arrescha (4):\
 &emsp;Nè la nostra partita fu men tosta.
 
-⁴⁴ Sic vidi ego illam multitudinem recentem\
+44 Sic vidi ego illam multitudinem recentem\
 &emsp;Dimictere cantum, et ire versus costam,\
 &emsp;Sicut homo qui vadit nec scit quo perveniat:\
 &emsp;Nec noster recessus fuit minus citus.
 
-(¹) suonava. — (²) al. loglo. — (³) al. in uno instante — (⁴) si riesca.
+(1) suonava. — (2) al. loglo. — (3) al. in uno instante — (4) si riesca.
 
 Amorem, qui mente mea ratiocinatur, idest loquitur vel in me viget, incepit ipse dicere, ita dulciter, quod illius dulcedo intra me adhuc sonat.
 

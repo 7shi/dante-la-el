@@ -8,19 +8,19 @@ In isto decimoctavo capitulo, quod incipit: Iam gaudebat solo suo verbo, auctor 
 
 # Capitulum Decimumoctavum
 
-¹ Già si ghodea solo del suo verbo\
+1 Già si ghodea solo del suo verbo\
 &emsp;Quello spechio beato, et io gustava\
 &emsp;Lo mio, temprando col dolce l'acerbo;
 
-¹ Iam gaudebat solum de suo verbo\
+1 Iam gaudebat solum de suo verbo\
 &emsp;Ille spiritus beatus, et ego gustabam\
 &emsp;Meum, temperando cum dulce amarum;
 
-² E quella donna, ch'a Dio mi menava,\
+2 E quella donna, ch'a Dio mi menava,\
 &emsp;Disse: Muta pensier; pensa ch'i' sono\
 &emsp;Press'a Colui c'ogni torto disgrava.
 
-² Et illa domina, que ad Deum me ducebat,\
+2 Et illa domina, que ad Deum me ducebat,\
 &emsp;Dixit: Muta cogitationem; cogita quod ego sum\
 &emsp;Prope illum qui omne tortuosum alleviat.
 
@@ -46,43 +46,43 @@ Et illa domina, scilicet Beatrix, que ad Deum me ducebat (quia Sacra Theologia e
 
 <!-- p. 1033 (1087) -->
 
-³ Io mi rivolsi all'amoroso sono\
+3 Io mi rivolsi all'amoroso sono\
 &emsp;Del mio conforto; e qual io allor vidi\
 &emsp;Negl'ochi sancti amor, qui l'abbandono;
 
-³ Ego me revolvi ad amorosum sonum\
+3 Ego me revolvi ad amorosum sonum\
 &emsp;Mee confortationis; et qualem tunc illam vidi\
 &emsp;In oculis sanctis omni hora, hic eam derelinquo;
 
-⁴ Non perch'io pur del mio parlar diffidi,\
+4 Non perch'io pur del mio parlar diffidi,\
 &emsp;Ma per la mente che non può redire\
 &emsp;Sopra sè tanto, s'altri non la guidi.
 
-⁴ Non tamen quod de meo loqui diffidam,\
+4 Non tamen quod de meo loqui diffidam,\
 &emsp;Sed propter mentem que non potest redicere\
 &emsp;Super se tantum, si alius illam non conducit.
 
-⁵ Tanto poss' io di quel punto ridire,\
+5 Tanto poss' io di quel punto ridire,\
 &emsp;Che, rimirando lei, lo mio affecto,\
 &emsp;Libero fu da ogn'altro desire,
 
-⁵ Tantum ego possum de illo puncto referre,\
+5 Tantum ego possum de illo puncto referre,\
 &emsp;Quod, respiciendo illam, meus affectus\
 &emsp;Fuit ab omni alio desiderio liber.
 
-⁶ Finchè 'l piacer eterno, che directo\
+6 Finchè 'l piacer eterno, che directo\
 &emsp;Raggiava in Beatrice, del bel viso\
 &emsp;Mi contentava col sereno aspecto.
 
-⁶ Quousque complacentia eterna fuit directa,\
+6 Quousque complacentia eterna fuit directa,\
 &emsp;Radiabat in Beatricem, a pulchro visu\
 &emsp;Me contentabatur cum secundo aspectu.
 
-⁷ Vincendomi col lume d'un sorriso,\
+7 Vincendomi col lume d'un sorriso,\
 &emsp;Ella mi disse: Volgeti et ascolta,\
 &emsp;Chè non pur ne' miei ochi è paradiso.
 
-⁷ Vincendo me cum lumine sui risus,\
+7 Vincendo me cum lumine sui risus,\
 &emsp;Ipsa michi dixit: Volve te et ausculta,\
 &emsp;Quia non solum in oculis meis est paradisus,
 
@@ -98,51 +98,51 @@ Quousque complacentia eterna fuit directa, radiabat a Beatrice, a pulchro visu, 
 
 <!-- p. 1034 (1088) -->
 
-⁸ Come si vede qui alcuna volta\
+8 Come si vede qui alcuna volta\
 &emsp;L'affecto ne la vista, s'egli è tanto\
 &emsp;Che da lui tutta sia l'anima tolta,
 
-⁸ Sicut videtur per aliquam vicem\
+8 Sicut videtur per aliquam vicem\
 &emsp;Affectus in vista, si est tantus,\
 &emsp;Quod ab eo sit tota anima subtracta,
 
-⁹ Così nel fiammeggiar del fulgor sancto,\
+9 Così nel fiammeggiar del fulgor sancto,\
 &emsp;A ch'io mi volsi, cognobbi la vogla\
 &emsp;In lui di ragionarmi ancor alquanto.
 
-⁹ Sic in flammigiare fulgoris sancti,\
+9 Sic in flammigiare fulgoris sancti,\
 &emsp;Ad quod ego me volvi, cognovi ego voluntatem\
 &emsp;In eo ratiocinandi mecum adhuc aliquantulum.
 
-¹⁰ El cominciò: In questa quinta sogla\
+10 El cominciò: In questa quinta sogla\
 &emsp;Dell'arbore che vive de la cima,\
 &emsp;E fructa sempre, e mai non perde fogla,
 
-¹⁰ Ipse incepit: In ista quinta soglia\
+10 Ipse incepit: In ista quinta soglia\
 &emsp;Arboris, que vivit de summitate,\
 &emsp;Et fructificat semper, et nunquam perdit folia.
 
-¹¹ Son spiriti beati, che giù, prima\
+11 Son spiriti beati, che giù, prima\
 &emsp;Che venisser al ciel, fur di gran voce,\
 &emsp;Sì ch'ogni musa ne sarebbe opima.
 
-¹¹ Spiritus sunt beati, qui inferius, priusquam\
+11 Spiritus sunt beati, qui inferius, priusquam\
 &emsp;Venirent huc sursum, fuerunt grandis vocis,\
 &emsp;Ita quod omnis musa esset optima.
 
-¹² Però mira ne' corni de la croce:\
+12 Però mira ne' corni de la croce:\
 &emsp;Quel ch'io nominerò, lì farà l'acto\
 &emsp;Che fa in nube suo fuoco veloce.
 
-¹² Ideo respice in cornibus crucis:\
+12 Ideo respice in cornibus crucis:\
 &emsp;Ille quem ego monstrabo, ibi faciet actum\
 &emsp;Quem facit in nube ignis velox.
 
-¹³ Io vidi per la croce un lume tracto\
+13 Io vidi per la croce un lume tracto\
 &emsp;Dal nomar Iosuè, com'el si feo,\
 &emsp;Non mi fu noto el dir pria che l'acto.
 
-¹³ Ego vidi per crucem unum lumen tractum\
+13 Ego vidi per crucem unum lumen tractum\
 &emsp;A nomine Iosue, quomodo fuit factum,\
 &emsp;Nec michi fuit notum prius dicere quam factum.
 
@@ -156,43 +156,43 @@ Ego vidi per crucem unum lumen, tractum a nomine, idest a nominatione Iosue, quo
 
 <!-- p. 1035 (1089) -->
 
-¹⁴ Et al nome dell'alto Machabeo\
+14 Et al nome dell'alto Machabeo\
 &emsp;Vidi muoversi un altro roteando,\
 &emsp;E letitia era forza de paleo.
 
-¹⁴ Et ad nomen alti Machabei\
+14 Et ad nomen alti Machabei\
 &emsp;Vidi moveri unum aliud roteando,\
 &emsp;Et letitia erat ferza palei.
 
-¹⁵ Così per Karlo Magno e per Rolando\
+15 Così per Karlo Magno e per Rolando\
 &emsp;Due ne seguì lo mio attento sguardo,\
 &emsp;Com'ochio segue suo falcon volando.
 
-¹⁵ Sic pro Karolo Magno et pro Orolando\
+15 Sic pro Karolo Magno et pro Orolando\
 &emsp;Duo sequutus est meus actentus aspectus,\
 &emsp;Sicut oculus sequitur suum falconem volando.
 
-¹⁶ Poscia trasse Guiglielmo, e Rinoardo,\
+16 Poscia trasse Guiglielmo, e Rinoardo,\
 &emsp;E 'l duce Gottifredi la mia vista\
 &emsp;Per quella croce, e Roberto Guiscardo.
 
-¹⁶ Postea traxit Guilhielmum, et Renoaldum,\
+16 Postea traxit Guilhielmum, et Renoaldum,\
 &emsp;Et ducem Gotfreydum mea visio\
 &emsp;Per illam crucem, et Rubertum Guiscardum.
 
-¹⁷ Indi tra l'altre luci mota e mista\
+17 Indi tra l'altre luci mota e mista\
 &emsp;Mostrommi l'alma che m'havea parlato,\
 &emsp;Qual era tra' cantor del cielo artista.
 
-¹⁷ Inde inter alias luces motam et mixtam\
+17 Inde inter alias luces motam et mixtam\
 &emsp;Monstravit michi animam que michi loquuta erat,\
 &emsp;Qualis erat inter cantores celi artista.
 
-¹⁸ Io mi rivolsi dal mio dextro lato\
+18 Io mi rivolsi dal mio dextro lato\
 &emsp;Per veder in Beatrice 'l mio dovere,\
 &emsp;O per parole; o per acto, segnato
 
-¹⁸ Ego me revolvi ad meum dextrum latus\
+18 Ego me revolvi ad meum dextrum latus\
 &emsp;Propter videre in Beatrice meum debere,\
 &emsp;Vel per loquelam; vel per actum, signatum
 
@@ -208,51 +208,51 @@ Ego me revolvi ad meum dextrum latus. Io mi rivolsi dal mio destro lato: hec est
 
 <!-- p. 1036 (1090) -->
 
-¹⁹ E vidi le sue luci tanto mere,\
+19 E vidi le sue luci tanto mere,\
 &emsp;Tanto gioconde, che la sua sembianza\
 &emsp;Vinceva gl' altri e l'ultimo solere.
 
-¹⁹ Et vidi suas luces tantum meras,\
+19 Et vidi suas luces tantum meras,\
 &emsp;Tantum iucundas, quod similitudo\
 &emsp;Vincebat alios et ultimum solere.
 
-²⁰ E come, per sentir più dilectanza,\
+20 E come, per sentir più dilectanza,\
 &emsp;L'huomo, operando ben, di giorno in giorno\
 &emsp;S'accorge che la sua virtù avanza;
 
-²⁰ Et sicut, propter sentire maiorem delectationem,\
+20 Et sicut, propter sentire maiorem delectationem,\
 &emsp;Bene operando, homo de die in diem\
 &emsp;Perpendit quod sua virtus superat;
 
-²¹ Sì m'accors'io che 'l mio girar intorno\
+21 Sì m'accors'io che 'l mio girar intorno\
 &emsp;Col cielo insieme havea cresciuto l'arco,\
 &emsp;Veggiendo quel miracol sì adorno.
 
-²¹ Sic perpendi ego quod meum gyrare\
+21 Sic perpendi ego quod meum gyrare\
 &emsp;Cum celo simul acreverat arcum,\
 &emsp;Videndo illud miraculum magis ornatum.
 
-²² Qual è el transmutar in piccol varco\
+22 Qual è el transmutar in piccol varco\
 &emsp;Di tempo in bianca donna, quando el volto,\
 &emsp;Suo discarchi di vergogna el carco;
 
-²² Et qualiter in transmutando parvum transitum\
+22 Et qualiter in transmutando parvum transitum\
 &emsp;Temporis albescit mulier, quando vultum\
 &emsp;Suum exponeret verecundia oneratum;
 
-²³ Tal fu negl'ochi miei, quando fui volto,\
+23 Tal fu negl'ochi miei, quando fui volto,\
 &emsp;Per lo candor de la temprata stella\
 &emsp;Sexta, che dentro a sè m'havea ricolto.
 
-²³ Taliter fuit in oculis meis, quando fui volutus,\
+23 Taliter fuit in oculis meis, quando fui volutus,\
 &emsp;Propter candorem temperate stelle\
 &emsp;Sexte, que intra se me recollegerat.
 
-²⁴ Io vidi in quella iovia[l] facella\
+24 Io vidi in quella iovia[l] facella\
 &emsp;Lo sfavillar dell'amor che lì era,\
 &emsp;Segnar agl' ochi miei nostra favella.
 
-²⁴ Ego vidi in illa ioveali facella\
+24 Ego vidi in illa ioveali facella\
 &emsp;Sfavillare amoris qui erat ibi,\
 &emsp;Signare oculis meis nostram loquelam.
 
@@ -268,47 +268,47 @@ Modo auctor vult describere unam pulchram et mirabilem fantasiam. Pro qua intell
 
 <!-- p. 1037 (1091) -->
 
-²⁵ E come augelli (¹) surti di riviera,\
+25 E come augelli (1) surti di riviera,\
 &emsp;Quasi congratulando a lor pasture,\
 &emsp;Fanno di sè hor tonda hor altra schiera;
 
-²⁵ Quia sicut aves surte de riparia,\
+25 Quia sicut aves surte de riparia,\
 &emsp;Quasi congratulando earum pasturis,\
 &emsp;Faciunt de se nunc rotundam nunc longam aciem,
 
-²⁶ Sì dentro a' lumi sancte creature\
+26 Sì dentro a' lumi sancte creature\
 &emsp;Volitando cantavan, e faceansi\
 &emsp;Hor D, hor I, hor L, in sue figure.
 
-²⁶ Sic intra lumen sancte creature\
+26 Sic intra lumen sancte creature\
 &emsp;Volitando cantabant, et fiebant\
 &emsp;Nunc D, nunc I, nunc L, suis figuris.
 
-²⁷ Pria cantando a sua nota moveansi;\
+27 Pria cantando a sua nota moveansi;\
 &emsp;Poi, doventando l'un di questi segni,\
 &emsp;Un poco s'arrestavan e taceansi.
 
-²⁷ Prius cantando ad suam notam se movebant;\
+27 Prius cantando ad suam notam se movebant;\
 &emsp;Postea, deveniendo unum istorum signorum,\
 &emsp;Aliquantulum se firmabant et tacebant.
 
-²⁸ O diva Peghasea, che l'ingegni\
+28 O diva Peghasea, che l'ingegni\
 &emsp;Fai gloriosi, e rendili longevi,\
 &emsp;Et essi teco le cittadi e' regni,
 
-²⁸ O diva Pegasea, que ingenia\
+28 O diva Pegasea, que ingenia\
 &emsp;Facis gloriosa, et reddis illa longeva,\
 &emsp;Et ipsa tecum civitates et regna,
 
-²⁹ Illustrami di te, sì ch'io rilevi\
+29 Illustrami di te, sì ch'io rilevi\
 &emsp;Le lor figure com' io l'ò concepte;\
 &emsp;Paia tua possa in questi versi brevi.
 
-²⁹ Illustra me de te sic, quod ego relevem\
+29 Illustra me de te sic, quod ego relevem\
 &emsp;Earum figuras, prout ego illas concepi;\
 &emsp;Appareat tua potentia in istis versibus brevibus.
 
-(¹) al. ucelli
+(1) al. ucelli
 
 duarum tantum ut n, rotunda ut o, et sic de aliis; ita ex diversis versionibus, pertractationibus, dilatationibus in motu illarum animarum describebantur isti caracteres, sive littere, d. i. l. i. g. i. t. e. i. u. s. t. i. t. i. a. m. q. u. i. i. u. d. i. c. a. t. i. s. t. e. r. r. a. m.; que importabant, Diligite iustitiam, qui iudicatis terram. Et quando erat completa una sillaba, ut ista Diligite, pausabant aliquantulum; postea roteando vel ambulando, sicut oportebat ad describendum istas litteras, iterum movebantur, et faciebant aliam sillabam, scilicet Iustitiam; postea aliquantulum quiescebant: et sic faciebant, quousque complebant illas trigintaquinque litteras, que inter consonantes et vocales erant trigintaquinque, et sonabant totum illud Diligite iustitiam qui iudicatis terram.
 
@@ -320,67 +320,67 @@ O diva Pegasea, que ingenia facis gloriosa; idest, o ars poetica (que dicitur Pe
 
 <!-- p. 1038 (1092) -->
 
-³⁰ Mostrarsi adonque in cinque volte septe\
+30 Mostrarsi adonque in cinque volte septe\
 &emsp;Vocali e consonanti; ond'io notai\
 &emsp;Le parti sì come mi parven decte.
 
-³⁰ Monstraverunt se in quinquies septem\
+30 Monstraverunt se in quinquies septem\
 &emsp;Vocales et consonantes; ego notavi\
 &emsp;Partes, sicut apparuerunt dicte.
 
-³¹ Diligite iustitiam, e primai\
+31 Diligite iustitiam, e primai\
 &emsp;Fur verbo e nome di tutto 'l dipincto;\
 &emsp;Qui iudicatis terram, fur sezai.
 
-³¹ Diligite iustitiam, prima\
+31 Diligite iustitiam, prima\
 &emsp;Fuerunt nomen et verbum totius depicti;\
 &emsp;Qui iudicatis terram, fuerunt ultima.
 
-³² Poscia nell'Emme del vocabol quinto\
+32 Poscia nell'Emme del vocabol quinto\
 &emsp;Rimaser ordinati, sì che Iove\
 &emsp;Parea d'argento lì d'oro distincto.
 
-³² Postea in M vocabuli quinti\
+32 Postea in M vocabuli quinti\
 &emsp;Remanserunt ordinate ita, quod Iuppiter\
 &emsp;Apparebat argentum ibi ab auro distinctum.
 
-³³ E vidi scender l'altre luci dove\
+33 E vidi scender l'altre luci dove\
 &emsp;Era 'l colmo dell'Emme, e lì quetarsi\
 &emsp;Cantando, credo, el ben ch'a sè le muove.
 
-³³ Et vidi descendere alias luces ubi\
+33 Et vidi descendere alias luces ubi\
 &emsp;Erat culmen M, et ibi quietari\
 &emsp;Cantando, credo, bonum quod ad se illas movet.
 
-³⁴ Poi, come nel perchuoter de'ceppi arsi\
+34 Poi, come nel perchuoter de'ceppi arsi\
 &emsp;Surgono innumerabili faville,\
 &emsp;Onde gli stolti soglon augurarsi,
 
-³⁴ Postea, sicut in percussione cioccorum ardentium\
+34 Postea, sicut in percussione cioccorum ardentium\
 &emsp;Surgunt innumerabiles faville,\
 &emsp;Unde stulti solent se augurari,
 
-³⁵ Risurger parver quindi più di mille\
+35 Risurger parver quindi più di mille\
 &emsp;Luci, e salir qual assai e qual poco,\
 &emsp;Sì come 'l Sol, che l'accende, sortille:
 
-³⁵ Resurgere apparuerunt inde pluries mille\
+35 Resurgere apparuerunt inde pluries mille\
 &emsp;Luces, et ascendere aliqua satis aliqua modicum,\
 &emsp;Sicut Sol, qui eas accendit, illas sortitur:
 
-³⁶ E, quietata ciascuna in suo loco,\
+36 E, quietata ciascuna in suo loco,\
 &emsp;La testa e 'l collo d'un' aquila vidi\
 &emsp;Rappresentar a quel distincto foco.
 
-³⁶ Et, queta quelibet in suo loco,\
+36 Et, queta quelibet in suo loco,\
 &emsp;Caput et collum unius aquile vidi\
 &emsp;Representari ad illum distinctum focum.
 
-³⁷ Quel che dipinge lì non ha chi'l guidi,\
+37 Quel che dipinge lì non ha chi'l guidi,\
 &emsp;Ma esso guida, e da lui si rammenta\
 &emsp;Quella virtù ch'è forma per li nidi.
 
-³⁷ Ille qui pinxit ibi non habet qui eum conducat,\
+37 Ille qui pinxit ibi non habet qui eum conducat,\
 &emsp;Sed ipse ducit, et ab ipso reminiscitur\
 &emsp;Illa virtus que format per nidos.
 
@@ -400,63 +400,63 @@ Ille qui pingit ibi non habet qui eum conducit, sed ipse ducit (ille est Deus, q
 
 <!-- p. 1039 (1093) -->
 
-³⁸ L'altra beatitudo, che contenta\
+38 L'altra beatitudo, che contenta\
 &emsp;Parea prima d'imgiglarsi a l'Emme,\
 &emsp;Con poco moto seguitò la 'mprenta.
 
-³⁸ Alia beatitudo, que contenta\
+38 Alia beatitudo, que contenta\
 &emsp;Apparebat primo liliare se ad M,\
 &emsp;Cum pauco motu sequuta est impressionem.
 
-³⁹ O dolce stella, quali e quante gemme\
+39 O dolce stella, quali e quante gemme\
 &emsp;Mi dimostraro che nostra iustitia\
 &emsp;Effecto sia del ciel che tu ingemme!
 
-³⁹ O dulcis stella, quales et quante gemme\
+39 O dulcis stella, quales et quante gemme\
 &emsp;Michi demonstrarunt quod nostra iustitia\
 &emsp;Effectus sint celi quod tu ingemmas!
 
-⁴⁰ Perch'io prego la mente, in che s'initia\
+40 Perch'io prego la mente, in che s'initia\
 &emsp;Tuo moto e tua virtute, che rimiri\
 &emsp;Ond'esce 'l fumo che tuo raggio vitia;
 
-⁴⁰ Quare ego precor mentem, in qua initiatur\
+40 Quare ego precor mentem, in qua initiatur\
 &emsp;Tuus motus et tua virtus, quod respiciat\
 &emsp;Unde exit fumus qui tuum radium vitiat;
 
-⁴¹ Sì ch'un'altra fiata omai s'adiri\
-&emsp;Del comprar e del vender dentr'al tempio (¹),\
+41 Sì ch'un'altra fiata omai s'adiri\
+&emsp;Del comprar e del vender dentr'al tempio (1),\
 &emsp;Che si murò di sangue e di martiri.
 
-⁴¹ Ita quod in una alia vice admodo irascatur\
+41 Ita quod in una alia vice admodo irascatur\
 &emsp;De emere et vendere intra templum,\
 &emsp;Quod muratum fuit de sanguine et martyriis.
 
-⁴² O militia del ciel, cu'io contemplo,\
+42 O militia del ciel, cu'io contemplo,\
 &emsp;Adora per color che sono in terra\
 &emsp;Tutti sviati dietro al mal exemplo.
 
-⁴² O militia celi, quam ego contemplor,\
+42 O militia celi, quam ego contemplor,\
 &emsp;Adora pro illis qui sunt in terra\
 &emsp;Omnes devii retro malum exemplum.
 
-⁴³ Già si solea co'le spade far guerra;\
+43 Già si solea co'le spade far guerra;\
 &emsp;Ma hor si fa tollendo, hor qui hor quivi,\
 &emsp;Lo pan che 'l pio Padre a nessun serra.
 
-⁴³ Iam solebat cum ensibus fieri guerra;\
+43 Iam solebat cum ensibus fieri guerra;\
 &emsp;Sed nunc fit subripiendo, nunc hic nunc ibi,\
 &emsp;Panem quem pius Pater nulli claudit.
 
-⁴⁴ Ma tu che sol per cancellare scrivi,\
+44 Ma tu che sol per cancellare scrivi,\
 &emsp;Pensa che Pier e Paolo, che moriro\
 &emsp;Per la vigna che tu guasti, ancor son vivi.
 
-⁴⁴ Sed tu qui solum propter cancellare scribis,\
+44 Sed tu qui solum propter cancellare scribis,\
 &emsp;Cogita quod Petrus et Paulus, qui mortui sunt\
 &emsp;Pro vinea quam destruis, adhuc sunt vivi.
 
-(¹) Chiesa militante.
+(1) Chiesa militante.
 
 Alia beatitudo, que contenta apparebat, idest videbatur, primo liliare se, alias liliari, ad M, idest fieri sicut lilium (nam M, littera, que habet tres pedes, videtur quasi lilium), cum pauco motu secuta est impressionem, idest perfecit totam aquilam; et sic apparent modo ille anime una aquila. Bene facit auctor istas animas regum et dominorum ad modum, seu formam, aquile, que sunt arma Imperii, a quo dependere debent omnia alia dominia.
 
@@ -474,17 +474,17 @@ Sed tu, scilicet o Pastor Ecclesie, qui solum propter cancellare (idest facis pr
 
 <!-- p. 1040 (1094) -->
 
-⁴⁵ Ben puo'tu dire: Io ho fermo 'l desiro\
+45 Ben puo'tu dire: Io ho fermo 'l desiro\
 &emsp;Sì a colui che volle viver solo,\
-&emsp;E che per salti (¹) fu tracto al martiro,\
-&emsp;Ch'io non cognosco el Pescator (²) nè Polo (³).
+&emsp;E che per salti (1) fu tracto al martiro,\
+&emsp;Ch'io non cognosco el Pescator (2) nè Polo (3).
 
-⁴⁵ Bene potes dicere: Ego habeo firmum desiderium\
+45 Bene potes dicere: Ego habeo firmum desiderium\
 &emsp;Ita ad illum qui voluit vivere solus,\
 &emsp;Et qui per saltus fuit tractus ad martyrium,\
 &emsp;Quod ego non cognosco Piscatorem neque Paulum.
 
-(¹) balli d'Herodiade — (²) Pietro — (³) Paolo.
+(1) balli d'Herodiade — (2) Pietro — (3) Paolo.
 
 Bene potes dicere (ecce unam excusationem que est maxima accusatio): Ego habeo firmum desiderium ita, idest in tantum, ad illum (scilicet Ioannem Baptistam, scilicet ad florenum qui coniatur Florentie, in quo ex una parte est ymaginatus Sanctus Ioannes Baptista) qui voluit vivere solus (hic Ioannes Baptista est, qui quinto etatis sue [anno] ivit ad desertum, ubi solus tam diu stetit), et qui per saltus tractus fuit ad martyrium (quia puelle saltanti Herodes dedit caput Ioannis Baptiste in disco, ita quod propter saltus puelle fuit martyrizzatus), quod ego non cognosco Piscatorem, idest Sanctum Petrum, nec Sanctum Paulum. Idest: tantum actendo ad florenum et ad avaritiam, quod non cogito, nedum de principibus Apostolorum, sed nec etiam de Deo, quia tota intentio mea est ad avaritiam et ad res mundanas.
 

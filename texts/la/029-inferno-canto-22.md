@@ -8,31 +8,31 @@ In vicesimosecundo capitulo, quod incipit: Iam vidi milites, etc., auctor de una
 
 # Capitulum Vicesimumsecundum
 
-¹ Io vidi già cavalier muover campo,\
+1 Io vidi già cavalier muover campo,\
 &emsp;E cominciare stormo, e far lor mostra,\
 &emsp;E talvolta partir per loro scampo;
 
-¹ Ego vidi iam milites movere campum,\
+1 Ego vidi iam milites movere campum,\
 &emsp;Et incipere tumultum, et facere eorum demonstrationem;\
 &emsp;Et aliquando fugere pro eorum evasione;
 
-² Corridor vidi per la terra nostra (¹),\
+2 Corridor vidi per la terra nostra (1),\
 &emsp;O Aretini, e vidi gir gualdane,\
-&emsp;Ferir (²) torneamenti, e correr giostra,
+&emsp;Ferir (2) torneamenti, e correr giostra,
 
-² Cursores vidi per terram vestram,\
+2 Cursores vidi per terram vestram,\
 &emsp;O Aretini, et vidi ire gualdanas,\
 &emsp;Ferire torniamenta, et currere ad hastiludia,
 
-³ Quando con trombe, e quando con campane,\
+3 Quando con trombe, e quando con campane,\
 &emsp;Con tamburi e con cenni di castella,\
 &emsp;E con cose nostrali e con istrane;
 
-³ Aliquando cum tubis, et aliquando cum campanis,\
+3 Aliquando cum tubis, et aliquando cum campanis,\
 &emsp;Cum tympanis et cum signis castellorum,\
 &emsp;Et cum rebus nostratibus et cum extraneis;
 
-(¹) al. vostra. — (²) al. fedir.
+(1) al. vostra. — (2) al. fedir.
 
 Ego vidi iam milites. E io viddi già cavalieri: istud est vicesimumsecundum capitulum huius Inferni, in quo auctor tractat de secunda specie baractarie, scilicet quando baractarii vendunt suos dominos, idest bona et negotia suorum dominorum; nam prima species fuit, quando baractarii vendunt suam communitatem, vel bona et negotia sue communitatis. Et in hoc capitulo ponit auctor multos baractarios, singulariter Ciampolum, qui fuit de regno Navarre. Dividitur autem istud capitulum in quatuor partes. In quarum prima, continuans dicta dicendis, tangit modum et actum talium baractariorum, hic punitorum.
 
@@ -52,63 +52,63 @@ Cursores vidi per terram nostram, o Aretini, idest territori[um]; et vidi ire gu
 
 <!-- p. 275 (0329) -->
 
-⁴ Nè già con sì diversa cennamella\
+4 Nè già con sì diversa cennamella\
 &emsp;Cavalier vidi muover nè pedoni,\
 &emsp;Nè nave a segno di terra o di stella.
 
-⁴ Nec iam cum tam diversa tybia\
+4 Nec iam cum tam diversa tybia\
 &emsp;Milites vidi moveri et pedites,\
 &emsp;Nec navim ad signum terre sive stelle.
 
-⁵ Noi andavàn co' li diece demoni:\
+5 Noi andavàn co' li diece demoni:\
 &emsp;Hay fiera compagnia! ma nella chiesa\
 &emsp;Cho' sancti, et in taverna co' ghiottoni.
 
-⁵ Nos ibamus cum illis decem demonibus:\
+5 Nos ibamus cum illis decem demonibus:\
 &emsp;Ah feram sotietatem! sed in ecclesia\
 &emsp;Cum sanctis, et in taberna cum gulosis.
 
-⁶ Pur a la pegola era la mia intesa,\
+6 Pur a la pegola era la mia intesa,\
 &emsp;Per veder de la bolgia ogni contegno,\
 &emsp;E de la gente ch'entro v'era incesa.
 
-⁶ Semper ad picem erat meus intentus,\
+6 Semper ad picem erat meus intentus,\
 &emsp;Ut viderem bolgie omnem qualitatem,\
 &emsp;Et gentium que intra illam erant incense.
 
-⁷ Com'e Dalphyni, quando fanno segno\
+7 Com'e Dalphyni, quando fanno segno\
 &emsp;A'marinar coll'arco della schena,\
 &emsp;Che s'argomentin di campar lo[r] legno;
 
-⁷ Sicut delphines, quando faciunt signum\
+7 Sicut delphines, quando faciunt signum\
 &emsp;Nautis cum arcu renum suarum,\
 &emsp;Quod se argumentent ad evasionem sui ligni;
 
-⁸ Talhor così, ad alleggiar la pena,\
+8 Talhor così, ad alleggiar la pena,\
 &emsp;Mostrav'alcun de' peccatori el dosso,\
-&emsp;E nascondeva (¹) in men che non balena.
+&emsp;E nascondeva (1) in men che non balena.
 
-⁸ Aliquando sic, ad alleviandum penam,\
+8 Aliquando sic, ad alleviandum penam,\
 &emsp;Monstrabat aliquis peccatorum dorsum,\
 &emsp;Et abscondebat illud in minori spacio quam corruscet.
 
-⁹ Come all'orlo dell'acqua d'un fosso\
+9 Come all'orlo dell'acqua d'un fosso\
 &emsp;Stanno e ranochi pur col muso fuori,\
 &emsp;Sì che celano e piedi e l'altro grosso;
 
-⁹ Et sicut ad ripam aque unius fosse\
+9 Et sicut ad ripam aque unius fosse\
 &emsp;Stant rane solum cum capite extra,\
 &emsp;Ita quod celant pedes et aliud grossum;
 
-¹⁰ Sì stavan d'ogni parte e peccatori:\
+10 Sì stavan d'ogni parte e peccatori:\
 &emsp;Ma come s'appressava Barbariccia,\
 &emsp;Così si ritrhaen sotto e bollori.
 
-¹⁰ Sic stabant ex omni parte peccatores:\
+10 Sic stabant ex omni parte peccatores:\
 &emsp;Sed statim quod appropinquabat Barbaricia,\
 &emsp;Statim se retrahebant sub bullores.
 
-(¹) el dosso.
+(1) el dosso.
 
 magne partialitates, et amplius in Thuscia; sed maxime in Aretio. Vult dicere auctor, quod, dum esset iuvenculus, reperit se quando civitas Aretii erat tota in tumultu. Giostre, hastiludia. Hoc potuit videre in pluribus civitatibus Ytalie. Aliquando cum tubis, aliquando cum campanis, cum tympanis, tamburis et cum signis castellorum, et cum rebus nostratibus, idest que sunt in nostro uso, et cum extraneis, idest que sunt extra nostrum usum. Nec iam, idest nunquam, cum tam diversa tybia, cialamella, vel busso (genus instrumenti est, quod cum ore pulsatur), milites vidi moveri, neque pedites, neque navim ad signum terre sive stelle. Ista duo signa fiunt in mari, facta per stellam vel lumeram.
 
@@ -120,55 +120,55 @@ Proponit unam comparationem de ranis, sic dicens: Et sicut ad ripam aque unius f
 
 <!-- p. 276 (0330) -->
 
-¹¹ Io vidi, et anco el cuor me n'(¹) acapriccia,\
+11 Io vidi, et anco el cuor me n'(1) acapriccia,\
 &emsp;Uno aspectar così, com'egli incontra\
-&emsp;Ch'una rana rimane, et altra spiccia (²).
+&emsp;Ch'una rana rimane, et altra spiccia (2).
 
-¹¹ Et vidi, et adhuc cor meum compatitur,\
+11 Et vidi, et adhuc cor meum compatitur,\
 &emsp;Unum expectare sic, sicut accidit\
 &emsp;Quod una rana remanet, et alia spicciat.
 
-¹² E Graffiacan, che gl'era più di contra,\
+12 E Graffiacan, che gl'era più di contra,\
 &emsp;Gl'arrunciglò le 'mpegolate chiome,\
 &emsp;E trassel su, che mi parv'una lontra.
 
-¹² Et Graffiacanes, qui erat magis contra eum,\
+12 Et Graffiacanes, qui erat magis contra eum,\
 &emsp;Aduncavit sibi impiceatas comas,\
 &emsp;Et traxit eum sursum, quod visum fuit michi una lontra.
 
-¹³ Io sapea già di tuctiquanti el nome,\
+13 Io sapea già di tuctiquanti el nome,\
 &emsp;Sì li notai, quando furon electi,\
 &emsp;E poi che si chiamaro, attesi come.
 
-¹³ Ego sciebam iam omnium ipsorum nomina,\
+13 Ego sciebam iam omnium ipsorum nomina,\
 &emsp;Ita eos notavi, quando fuerunt ellecti,\
 &emsp;Et postquam se vocaverunt, attendi qualiter.
 
-¹⁴ O Rubicante, fa che tu gli mecti\
+14 O Rubicante, fa che tu gli mecti\
 &emsp;Gl'unghioni adosso sì che tu lo schuoi,\
 &emsp;Gridavan tutti insieme e maladecti.
 
-¹⁴ O Rubicantes, fac [quod] tu ei immictas\
+14 O Rubicantes, fac [quod] tu ei immictas\
 &emsp;Ungues in dorso ita quod tu eum excories,\
 &emsp;Clamabant omnes simul illi maledicti.
 
-¹⁵ Et io: (³) Maestro mio, fa, se tu puoi,\
+15 Et io: (3) Maestro mio, fa, se tu puoi,\
 &emsp;Che tu sappi chi è lo sciagurato\
 &emsp;Venuto a man degl'adversari suoi.
 
-¹⁵ Et ego: Magister mi, facias, si tu potes,\
+15 Et ego: Magister mi, facias, si tu potes,\
 &emsp;Quod tu scias quis est ille infortunatus\
 &emsp;Qui venit ad manus adversariorum suorum.
 
-¹⁶ Lo Duca mio li s'accostò allato,\
+16 Lo Duca mio li s'accostò allato,\
 &emsp;Domandollo onde fusse, e quei rispose:\
 &emsp;Io fui del regno di Ravenna nato.
 
-¹⁶ Dux meus adhesit eius lateri,\
+16 Dux meus adhesit eius lateri,\
 &emsp;Interrogavit eum unde esset, et ille respondit:\
 &emsp;Ego fui de regno Navarre natus.
 
-(¹) al. me s'. — (²) fugge. — (³) o.
+(1) al. me s'. — (2) fugge. — (3) o.
 
 moritur: ita baractarii sunt tumidi, tument, minantur, ne detegatur suum scelus, et aliquando, ymo et sepe, publicantur. Sic stabant ex omni parte peccatores; sed statim, idest cum, quod, appropinquabat Barbaricia, capitaneus illorum decem, subito se retrahebant sub bullores.
 
@@ -188,71 +188,71 @@ Dux meus adhesit eius lateri, et interrogavit eum unde esset. Et ille respondit:
 
 <!-- p. 277 (0331) -->
 
-¹⁷ Mia madre servo d'un signor mi pose,\
+17 Mia madre servo d'un signor mi pose,\
 &emsp;Che m'havea generato d'un ribaldo\
 &emsp;Distruggitor di sè e di sue cose.
 
-¹⁷ Mea mater pro servo unius domini me posuit,\
+17 Mea mater pro servo unius domini me posuit,\
 &emsp;Que me genuerat ex uno ribaldo\
 &emsp;Dextructore suipsius et suarum rerum.
 
-¹⁸ Poi fui famiglo del buon re Tebaldo (¹);\
+18 Poi fui famiglo del buon re Tebaldo (1);\
 &emsp;Quivi mi posi a far baractaria,\
 &emsp;Di ch'io rendo ragion in questo caldo.
 
-¹⁸ Postea fui familiaris boni regis Theobaldi;\
+18 Postea fui familiaris boni regis Theobaldi;\
 &emsp;Ibi me misi ad faciendum baractariam,\
 &emsp;De qua reddo rationem in isto calore.
 
-¹⁹ E Cyriacto, a cui di bocha uscia\
+19 E Cyriacto, a cui di bocha uscia\
 &emsp;D'ogni parte una sanna com'a porco,\
-&emsp;Li fe' sentir come l'una (²) sdruscia.
+&emsp;Li fe' sentir come l'una (2) sdruscia.
 
-¹⁹ Et Ciriactus, cuius ex ore exibat\
+19 Et Ciriactus, cuius ex ore exibat\
 &emsp;Ab omni parte una sanna sicut porco,\
 &emsp;Ei fecit sentire qualiter una dissuebat.
 
-²⁰ Tra male gatte era venuto 'l sorco;\
+20 Tra male gatte era venuto 'l sorco;\
 &emsp;Ma Barbariccia 'l chiuse colle braccia,\
 &emsp;E disse: State là, mentr'io lo 'nforco.
 
-²⁰ Inter malas branchas venerat sorex;\
+20 Inter malas branchas venerat sorex;\
 &emsp;Sed Barbaricia eum clausit cum brachiis,\
 &emsp;Dicendo: State retro, quousque ego ipsum inforco.
 
-²¹ Et al maestro mio volse la faccia:\
+21 Et al maestro mio volse la faccia:\
 &emsp;Domanda, disse, ancor, se più desii\
 &emsp;Saper da lui, prima ch'altri 'l disfaccia.
 
-²¹ Et ad magistrum meum vertit faciem:\
+21 Et ad magistrum meum vertit faciem:\
 &emsp;Interroga, dixit, etiam, si plus desideras\
 &emsp;Scire ab eo, priusquam alter eum destruat.
 
-²² Lo duca: Or dunque di' degl'altri rii:\
+22 Lo duca: Or dunque di' degl'altri rii:\
 &emsp;Conosci tu alcun che sia latino\
 &emsp;Sotto la pece? E quelli: Io mi partii
 
-²² Dux: Igitur or dicas de aliis reis:\
+22 Dux: Igitur or dicas de aliis reis:\
 &emsp;Cognoscis tu aliquem qui sit latinus\
 &emsp;Sub pice? Et ille: Ego recessi
 
-²³ Poch'è da uno, che fu di là vicino;\
+23 Poch'è da uno, che fu di là vicino;\
 &emsp;Così fuss'io ancor con lui coperto,\
 &emsp;Ch'io non temerei nè unghia nè uncino.
 
-²³ Parum est ab uno, qui fuit illis partibus vicinus;\
+23 Parum est ab uno, qui fuit illis partibus vicinus;\
 &emsp;Ita essem ego adhuc cum eo coopertus,\
 &emsp;Quia ego non timerem unguem neque uncum.
 
-²⁴ E Lybicoccho: Troppo haven (³) sofferto,\
+24 E Lybicoccho: Troppo haven (3) sofferto,\
 &emsp;Disse; e preseli 'l braccio col runciglo,\
-&emsp;Sì che, tirando, ne portò 'l lacerto (⁴).
+&emsp;Sì che, tirando, ne portò 'l lacerto (4).
 
-²⁴ Et Libichoccus: Nimis substulimus,\
+24 Et Libichoccus: Nimis substulimus,\
 &emsp;Dixit; et cepit eius brachium cum runco,\
 &emsp;Ita quod, lacerando, secum portavit unum lacertum.
 
-(¹) al. Tybaldo. — (²) di quelle sanne. — (³) habiamo. — (⁴) el braccio.
+(1) al. Tybaldo. — (2) di quelle sanne. — (3) habiamo. — (4) el braccio.
 
 iustissimi et optimi regis et clementissimi. In tantum complacuit iste Ciampolus regi, quod rex commisit sibi omnia officia regalia, et posuit in manibus suis. Qui caute incepit aggregare et coacervare pecunias et divitias per baractariam: et licet rex aliquando habuisset querimoniam de isto, rex non credebat; et tunc ipse non correptus, semper de malo efficiebatur peior.
 
@@ -268,63 +268,63 @@ Tunc Libichoccus, idest ait: Nimis substulimus, idest compativimus, vel expectav
 
 <!-- p. 278 (0332) -->
 
-²⁵ Draghignazz'ancho li volse dar di piglo\
-&emsp;Giuso a le gambe; onde 'l decurio loro (¹)\
+25 Draghignazz'ancho li volse dar di piglo\
+&emsp;Giuso a le gambe; onde 'l decurio loro (1)\
 &emsp;Si volse intorn'intorno con mal piglo.
 
-²⁵ Dragagnatius etiam voluit illum capere\
+25 Dragagnatius etiam voluit illum capere\
 &emsp;Infra prope crura; sed decurius illorum\
 &emsp;Se vertit circum circa cum facie mala.
 
-²⁶ Quand'elli uno poco rappaciati foro,\
+26 Quand'elli uno poco rappaciati foro,\
 &emsp;Colui, ch'ancor mirava sua ferita,\
 &emsp;Dimandò 'l duca mio senza dimoro:
 
-²⁶ Quando ipsi aliquantulum pacificati fuerunt,\
+26 Quando ipsi aliquantulum pacificati fuerunt,\
 &emsp;Illum, qui adhuc respiciebat suas feritas,\
 &emsp;Interrogavit dux meus sine mora:
 
-²⁷ Chi fu colui, da cui mala partita\
-&emsp;Di' (²) che facesti di venir a proda?\
+27 Chi fu colui, da cui mala partita\
+&emsp;Di' (2) che facesti di venir a proda?\
 &emsp;Et ei rispose: Fu Frate Ghomita,
 
-²⁷ Quis fuit ille, a quo malum discessum\
+27 Quis fuit ille, a quo malum discessum\
 &emsp;Dicis, quod fecisti, ut venires ad ripam?\
 &emsp;Et ipse respondit: Fui[t] Frater Comita,
 
-²⁸ Quel di Ghallura, vasel d'ogni froda,\
+28 Quel di Ghallura, vasel d'ogni froda,\
 &emsp;Ch'ebbe e nimici di suo donno in mano,\
 &emsp;E fe'lor sì, che ciascun se ne loda:
 
-²⁸ Ille de Gallura, vas omnis fraudis,\
+28 Ille de Gallura, vas omnis fraudis,\
 &emsp;Qui habuit inimicos sui domini in manibus,\
 &emsp;Et fecit ita eis, quod quilibet se de eo laudat:
 
-²⁹ Denar li tolse, e lasciolli di piano,\
+29 Denar li tolse, e lasciolli di piano,\
 &emsp;Come si dice: e negl'altr'offici anche\
-&emsp;Baractier fu non picciol ma sovrano (³).
+&emsp;Baractier fu non picciol ma sovrano (3).
 
-²⁹ Denarios accepit, et eos relaxavit de plano,\
+29 Denarios accepit, et eos relaxavit de plano,\
 &emsp;Sicut ipse dicit: et in aliis officiis etiam\
 &emsp;Baractarius fuit non parvus sed summus.
 
-³⁰ Usa con esso donno Michel Zanche\
+30 Usa con esso donno Michel Zanche\
 &emsp;Di Locodoro: et a dir di Sardigna\
 &emsp;Le lingue lor non si senteno stanche.
 
-³⁰ Conversatur secum dominus Michael Zancha\
+30 Conversatur secum dominus Michael Zancha\
 &emsp;De Logodoro: et ad dicendum de Sardinia\
 &emsp;Lingue eorum non se sentiunt fessas.
 
-³¹ O me! vedete l'altro (⁴) che digrigna:\
-&emsp;Io direi anche (⁵); ma io temo ch'ello\
+31 O me! vedete l'altro (4) che digrigna:\
+&emsp;Io direi anche (5); ma io temo ch'ello\
 &emsp;Non s'apparechi a grattarmi la tigna.
 
-³¹ Heu michi! videte alterum qui digrignat:\
+31 Heu michi! videte alterum qui digrignat:\
 &emsp;Ego dicerem amplius; sed ego timeo ne ipse\
 &emsp;Paret se ad dilacerandum michi caput.
 
-(¹) Barbariccia. — (²) dicas. — (³) grandissimo. — (⁴) cioè Farfarello. — (⁵) al. d'anche, cioè di più.
+(1) Barbariccia. — (2) dicas. — (3) grandissimo. — (4) cioè Farfarello. — (5) al. d'anche, cioè di più.
 
 idest unum membrum, sive unum frustum, scilicet medietatem brachii, idest unum musculum. Dragagnatius etiam voluit eum capere infra prope crura; sed decurius illorum, idest dux eorum, se vertit circum circa cum malo piglio, idest mala facie, seu turbata apparentia.
 
@@ -340,71 +340,71 @@ Heu michi. O me, vedete: hec est quarta pars huius capituli, in qua Ciampolus de
 
 <!-- p. 279 (0333) -->
 
-³² E 'l gran proposto (¹) volto a Farfarello,\
-&emsp;Che stralunava gl'ochi per ferire (²),\
-&emsp;Disse: Fatti 'n costà (³), malvagio ucello.
+32 E 'l gran proposto (1) volto a Farfarello,\
+&emsp;Che stralunava gl'ochi per ferire (2),\
+&emsp;Disse: Fatti 'n costà (3), malvagio ucello.
 
-³² Et grandis prepositus conversus ad Farfarellum,\
+32 Et grandis prepositus conversus ad Farfarellum,\
 &emsp;Qui retorquebat oculos ut feriret,\
 &emsp;Dixit: Fac te retro, maligna avis.
 
-³³ Se voi volete vedere o udire,\
+33 Se voi volete vedere o udire,\
 &emsp;Ricominciò lo spaventato appresso,\
 &emsp;Toschi o Lombardi, io ne farò venire.
 
-³³ Si vos vultis videre vel audire,\
+33 Si vos vultis videre vel audire,\
 &emsp;Incepit pavefactus prope,\
 &emsp;Tuscos et Lombardos, ego faciam venire.
 
-³⁴ Ma stien le male branche un poco in cesso(⁴),\
+34 Ma stien le male branche un poco in cesso(4),\
 &emsp;Sì ch'io non tema de le lor vendette;\
 &emsp;Et io, sedendo in questo luogo stesso,
 
-³⁴ Sed stent male branche aliquantulum remote,\
+34 Sed stent male branche aliquantulum remote,\
 &emsp;Ita quod ego non timeam de eorum vindictis;\
 &emsp;Et ego, sedendo in isto loco eodem,
 
-³⁵ Per un ch'io son, ne farò venir sette,\
+35 Per un ch'io son, ne farò venir sette,\
 &emsp;Quando suffolerò, com'è nostr'uso\
 &emsp;Di far allhor che fuor alcun si mette.
 
-³⁵ Pro uno sicut ego sum, faciam venire septem,\
+35 Pro uno sicut ego sum, faciam venire septem,\
 &emsp;Quando suflabo, sicut est noster usus\
 &emsp;Facere tunc quando aliquis extra se mictit.
 
-³⁶ Cagnazzo a cotal motto levò 'l muso,\
+36 Cagnazzo a cotal motto levò 'l muso,\
 &emsp;Crollando 'l capo, e disse: Odi malitia\
 &emsp;Ch'egl'ha pensata, per gittarsi giuso.
 
-³⁶ Cagnatius ad tale moctum levavit caput,\
+36 Cagnatius ad tale moctum levavit caput,\
 &emsp;Movendo faciem, et dixit: Audias malitiam\
 &emsp;Quam ipse cogitavit, ut se proiiciat infra.
 
-³⁷ E quei ch'havea lacciuoli a gran dovitia,\
+37 E quei ch'havea lacciuoli a gran dovitia,\
 &emsp;Rispose: Malitioso son'io troppo,\
 &emsp;Quando procuro a maggior mia tristitia.
 
-³⁷ Unde ipse qui habebat laqueos in magna divitia,\
+37 Unde ipse qui habebat laqueos in magna divitia,\
 &emsp;Respondit: Malitiosus sum ego nimis,\
 &emsp;Quando ego procuro meam maiorem tristitiam.
 
-³⁸ Allychin non si tenne, e di rintoppo\
+38 Allychin non si tenne, e di rintoppo\
 &emsp;Agl'altri disse lui: Se tu ti chali,\
 &emsp;Io non ti verrò dietro di galoppo,
 
-³⁸ Alichinus non tenuit se, et ante\
+38 Alichinus non tenuit se, et ante\
 &emsp;Alios dixit ad eum: Si tu te cales,\
 &emsp;Ego non veniam retro te de galoppo,
 
-³⁹ Ma bacterò sopra la pece l'hali:\
+39 Ma bacterò sopra la pece l'hali:\
 &emsp;Lassali 'l collo, e sia la ripa scudo,\
 &emsp;A veder se tu sol più di noi vali.
 
-³⁹ Sed percutiam supra picem alas:\
+39 Sed percutiam supra picem alas:\
 &emsp;Dimictamus collem, sit ei ripa scutum,\
 &emsp;Ad videndum si tu solus plus quam nos vales.
 
-(¹) Barbariccia. — (²) al. fedire. — (³) o — (⁴) da canto.
+(1) Barbariccia. — (2) al. fedire. — (3) o — (4) da canto.
 
 Et primo fingit se habere magnum timorem, dicens: Dicerem adhuc de pluribus. Heu michi, videte alterum, scilicet demonem, qui digrignit, idest dentes monstrat. Ego dicerem amplius: sed ego timeo, ne ipse paret se ad lacerandum michi caput, ad gratandum michi tingiam, tingia, idest ad puniendum de baractaria. Tingia est infirmitas in capite inter capillos, et apparet quasi lepra capitis: raro unquam bene liberatur, et non sine depillatione; quam qui habent, libenter semper tegunt. Sic est de baractariis, quorum vita, si detegatur, magnam verecundiam infert.
 
@@ -418,71 +418,71 @@ Alichinus non tenuit se, idest non plus expectavit, et ante alios dixit ad eum: 
 
 <!-- p. 280 (0334) -->
 
-⁴⁰ O tu, che leggi, udirai nuovo ludo.\
-&emsp;Ciascuno dell'(¹)altra costa gl'ochi volse;\
+40 O tu, che leggi, udirai nuovo ludo.\
+&emsp;Ciascuno dell'(1)altra costa gl'ochi volse;\
 &emsp;Quel primo, ch'a ciò far era più crudo.
 
-⁴⁰ O tu, qui legis, audies novum ludum.\
+40 O tu, qui legis, audies novum ludum.\
 &emsp;Quilibet ad aliam ripam oculos vertit;\
 &emsp;Ille prius, qui ad hoc faciendum erat crudior.
 
-⁴¹ Lo Navarrese ben suo tempo colse,\
+41 Lo Navarrese ben suo tempo colse,\
 &emsp;Fermò le piante a terra, et in un puncto\
 &emsp;Saltò, e dal proposto lor si sciolse.
 
-⁴¹ Navariensis bene suum tempus collegit,\
+41 Navariensis bene suum tempus collegit,\
 &emsp;Firmavit planctas in terram, et in uno puncto\
 &emsp;Saltavit, et a proposito eorum se subtraxit.
 
-⁴² Di che ciascun di colpa fu compuncto,\
-&emsp;Ma più quei (²), che cagion fu del difecto;\
+42 Di che ciascun di colpa fu compuncto,\
+&emsp;Ma più quei (2), che cagion fu del difecto;\
 &emsp;Però si mosse e gridò: Tu se' giuncto.
 
-⁴² Ex qua re quilibet de culpa fuit compunctus,\
+42 Ex qua re quilibet de culpa fuit compunctus,\
 &emsp;Sed ille magis, qui causa defectus captus;\
 &emsp;Ideo se movit, et clamavit: Tu es superventus.
 
-⁴³ Ma poco valse; chè l'hali (³) el sospecto (⁴)\
-&emsp;Non poter avanzar: quelli (⁵) andò sotto,\
-&emsp;E quei (⁶) drizzò, volando, suso el pecto:
+43 Ma poco valse; chè l'hali (3) el sospecto (4)\
+&emsp;Non poter avanzar: quelli (5) andò sotto,\
+&emsp;E quei (6) drizzò, volando, suso el pecto:
 
-⁴³ Et parum ei valuit; quia ale suspectum\
+43 Et parum ei valuit; quia ale suspectum\
 &emsp;Non potuerunt excedere; ille ivit subtus,\
 &emsp;Et ille direxit sursum, volando, pectus:
 
-⁴⁴ Non altrimenti l'anitra di botto,\
+44 Non altrimenti l'anitra di botto,\
 &emsp;Quand'il falcon s'appressa, giù s'attuffa,\
 &emsp;Et ei ritorna su crucciato et rotto.
 
-⁴⁴ Non aliter anas statim,\
+44 Non aliter anas statim,\
 &emsp;Quando falco se propinquat, infra se submergit,\
 &emsp;Et ille revertitur sursum iratus et ruptus.
 
-⁴⁵ Irato Calcabrina della buffa,\
+45 Irato Calcabrina della buffa,\
 &emsp;Volando dietro gli tenne, invaghito\
 &emsp;Che quei campasse, per haver la zuffa.
 
-⁴⁵ Iratus Calcabrina de buffa,\
+45 Iratus Calcabrina de buffa,\
 &emsp;Volando retro eum tenuit, vagus\
 &emsp;Quod ille evaderet, ut haberet pugnam.
 
-⁴⁶ E come 'l barattier fu disparito,\
+46 E come 'l barattier fu disparito,\
 &emsp;Così volse gl'artigli al suo compagno,\
 &emsp;E fu con lui sopra 'l fosso ghermito.
 
-⁴⁶ Et statim baractarius disparuit,\
+46 Et statim baractarius disparuit,\
 &emsp;Sic volvit artiglios ad suum sotium,\
 &emsp;Et fuit cum eo supra fossum gremitus.
 
-⁴⁷ Ma l'altro fu (⁷) ancor sparvier grifagno\
+47 Ma l'altro fu (7) ancor sparvier grifagno\
 &emsp;Ad artiglar ben lui, et amendue\
 &emsp;Cadder nel mezzo del bollente stagno.
 
-⁴⁷ Sed alter fuit bene ancipiter griffagnus\
+47 Sed alter fuit bene ancipiter griffagnus\
 &emsp;Ad artigliandum bene eum, et ambo\
 &emsp;Ceciderunt in medium bulientis stagni.
 
-(¹) al. dall' — (²) Allichino. — (³) diaboliche. — (⁴) del Navarrese. — (⁵) Navarrese. — (⁶) Allichino. — (⁷) Allichino.
+(1) al. dall' — (2) Allichino. — (3) diaboliche. — (4) del Navarrese. — (5) Navarrese. — (6) Allichino. — (7) Allichino.
 
 O tu qui legis, audies novum ludum. Quilibet, idest demonum, ad aliam partem oculos vertit, scilicet ad dilacerandum eum, vel alios: ille [primus], qui ad hoc faciendum erat crudior. Navarriensis bene suum tempus elegit, idest captavit: firmavit planctas in terra, idest in uno puncto, idest momento saltavit et a proposito eorum se substraxit. Ex qua re quilibet, scilicet eorum, de culpa fuit compunctus; sed ille, scilicet Al[i]chinus, magis, qui causa fuit defectus; ideo se movit et clamavit: Tu es giontus, idest superventus: quasi dicens: Tu es captus. Iste ludus dicitur novus, quia nunquam alias fuit descriptus.
 
@@ -498,28 +498,28 @@ Griffagnus est quoddam genus aucupi[or]um, quod producit mirabiles et optimos ve
 
 <!-- p. 281 (0335) -->
 
-⁴⁸ Lo caldo schermidor subito fue:\
+48 Lo caldo schermidor subito fue:\
 &emsp;Ma però di levarsi era nïente,\
 &emsp;Sì havien invischiate l'hali sue.
 
-⁴⁸ In calorem dimicatores subito fuerunt:\
+48 In calorem dimicatores subito fuerunt:\
 &emsp;Sed nihilominus ad surgendum nihil erat:\
 &emsp;Ita habebant inviscatas alas suas.
 
-⁴⁹ Barbariccia cogl'altri suoi dolente\
+49 Barbariccia cogl'altri suoi dolente\
 &emsp;Quattro ne fe' volar dall'altra costa\
 &emsp;Con tutt'i raffi, assai prestamente.
 
-⁴⁹ Barbaricia cum aliis suis dolens,\
+49 Barbaricia cum aliis suis dolens,\
 &emsp;Quatuor fecit volare ad aliam costam\
 &emsp;Cum omnibus raffiis, et satis celeriter
 
-⁵⁰ Di qua, di là, discesen a la posta:\
+50 Di qua, di là, discesen a la posta:\
 &emsp;Porsen gl'uncini verso l'impaniati,\
 &emsp;Ch'eran già cocti dentro da la crosta:\
 &emsp;E noi lasciammo lor così impacciati.
 
-⁵⁰ Hinc, inde, ad postam descenderunt:\
+50 Hinc, inde, ad postam descenderunt:\
 &emsp;Porrexerunt uncos versus impaniatos,\
 &emsp;Qui erant iam cocti intus in crosta:\
 &emsp;Et nos dimisimus eos sic implicatos.

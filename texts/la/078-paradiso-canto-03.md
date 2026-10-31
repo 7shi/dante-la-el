@@ -8,23 +8,23 @@ In isto tertio capitulo, quod incipit: Ille sol qui prius, auctor dicit quod Bea
 
 # Capitulum Tertium
 
-¹ Quel sol (¹), che pria (²) d'amor (³) mi (⁴) scaldò 'l pecto,\
-&emsp;Di bella verità (⁵) m'havea scoverto (⁶),\
-&emsp;Provando (⁷) e riprovando (⁸), dolce aspecto (⁹);
+1 Quel sol (1), che pria (2) d'amor (3) mi (4) scaldò 'l pecto,\
+&emsp;Di bella verità (5) m'havea scoverto (6),\
+&emsp;Provando (7) e riprovando (8), dolce aspecto (9);
 
-¹ Ille sol, qui prius amore michi callefecit pectus,\
+1 Ille sol, qui prius amore michi callefecit pectus,\
 &emsp;De pulchra veritate michi discooperuerat,\
 &emsp;Probando et reprobando, dulcem aspectum;
 
-² Et io, per confexar correcto e certo\
+2 Et io, per confexar correcto e certo\
 &emsp;Me stesso, tanto quanto si convenne,\
 &emsp;Levai el capo a profferir più erto.
 
-² Et ego, propter confiteri correptus et certus\
+2 Et ego, propter confiteri correptus et certus\
 &emsp;Me ipsum, quantum michi fuit conveniens,\
 &emsp;Elevavi caput ad proferendum magis altum.
 
-(¹) quel lume di Beatrice — (²) a puero — (³) suo — (⁴) a me Dante — (⁵) del turbine de la luua — (⁶) aperto — (⁷) per ragione — (⁸) al. falsa opinione mia — (⁹) risguardo et intelligentia.
+(1) quel lume di Beatrice — (2) a puero — (3) suo — (4) a me Dante — (5) del turbine de la luua — (6) aperto — (7) per ragione — (8) al. falsa opinione mia — (9) risguardo et intelligentia.
 
 Ille sol qui prius amore. Quel sole che pria d'amore: istud est tertium capitulum huius Paradisi, in quo auctor tractat de spiritibus, qui sunt in celo lune et de conditionibus ipsorum. Dividitur autem istud capitulum in quatuor partes. In quarum prima auctor ponit qualitatem umbrarum beatificatarum in hoc corpore lune gratia honestatis et virginitatis.
 
@@ -46,35 +46,35 @@ Ille sol, qui prius amore michi calefecerat pectus, qui [est] Beatrix, que novem
 
 <!-- p. 851 (0905) -->
 
-³ Ma visione apparve, che ritenne\
+3 Ma visione apparve, che ritenne\
 &emsp;Sè a me tanto streto per vedersi,\
 &emsp;Che di mia confexion non mi sovvenne.
 
-³ Sed visio apparuit, que retinuit\
+3 Sed visio apparuit, que retinuit\
 &emsp;Ad se me tantum strictum ut illam viderem,\
 &emsp;Quod de mea confessione michi non subvenit.
 
-⁴ Quali per vetri trasparenti e tersi,\
+4 Quali per vetri trasparenti e tersi,\
 &emsp;O ver per acque nitide e tranquille,\
 &emsp;Non sì profonde ch'e fondi sien persi,
 
-⁴ Quales per vitra trasparentia sive tersa,\
+4 Quales per vitra trasparentia sive tersa,\
 &emsp;Sive per aquas nitidas et tranquillas,\
 &emsp;Non tam profundas quod fundi sint perditi,
 
-⁵ Tornan de'nostri visi le postille\
+5 Tornan de'nostri visi le postille\
 &emsp;Debili sì, che perla in bianca fronte\
 &emsp;Non vien men forte a le nostre pupille;
 
-⁵ Redeunt nostrorum visuum postille\
+5 Redeunt nostrorum visuum postille\
 &emsp;Debiles ita, quod per albefactam frontem\
 &emsp;Non veniunt fortiter ad nostras pupillas;
 
-⁶ Tali vid' io più facce a parlar pronte:\
+6 Tali vid' io più facce a parlar pronte:\
 &emsp;Perch'io dentro l'error contrario corsi\
 &emsp;A quel ch'accese amor tra l'homo e'l fonte.
 
-⁶ Tales vidi plures facies ad loquendum promptas:\
+6 Tales vidi plures facies ad loquendum promptas:\
 &emsp;Ex quo ego intra errorem [contrarium] cucurri\
 &emsp;Illius qui accendit amorem inter hominem et fontem.
 
@@ -90,75 +90,75 @@ Quales per vitra transparentia, sive tersa, sive per aquas nitidas et tranquilla
 
 <!-- p. 852 (0906) -->
 
-⁷ Sì subito, com'io di lor m'accorsi,\
+7 Sì subito, com'io di lor m'accorsi,\
 &emsp;Quelle stimando spechiati sembianti,\
 &emsp;Per veder di chi fusser, gl'ochi torsi;
 
-⁷ Statim, sicut de illis perpendi ego,\
+7 Statim, sicut de illis perpendi ego,\
 &emsp;Illas extimando specchiatas et sembiatas,\
 &emsp;Ut viderem cuius essent, oculos retorsi;
 
-⁸ E nulla vidi, e ritorsili avanti\
+8 E nulla vidi, e ritorsili avanti\
 &emsp;Dricti nel lume de la dolce guida,\
 &emsp;Che sorridendo ardea negl'ochi santi.
 
-⁸ Et non vidi ibi, et cucurri cum ipsis anterius\
+8 Et non vidi ibi, et cucurri cum ipsis anterius\
 &emsp;Retro in lumine dulcis duxisse,\
 &emsp;Que subridendo ardebat in oculis sanctis.
 
-⁹ Non ti maraviglar perch'io sorrida,\
+9 Non ti maraviglar perch'io sorrida,\
 &emsp;Mi disse; apreso el tuo pueril quoto,\
 &emsp;Che sopra 'l ver lo piè ancor non fida,
 
-⁹ Ne mireris, esto quod subrideam ego,\
+9 Ne mireris, esto quod subrideam ego,\
 &emsp;Michi dixit; aperias tuum puerile cotum,\
 &emsp;Qui super veritatem adhuc pedes non confidit;
 
-¹⁰ Ma te rivolge, come suole, a voto.\
+10 Ma te rivolge, come suole, a voto.\
 &emsp;Vere sostantie son ciò che tu vedi,\
 &emsp;Qui relegate per manco di voto.
 
-¹⁰ Sed te revolvas, sicut soles, ad votum.\
+10 Sed te revolvas, sicut soles, ad votum.\
 &emsp;Vere substantie sunt quidquid tu vides,\
 &emsp;Hic religate propter defectum voti.
 
-¹¹ Però parla con esse, et odi, et credi\
+11 Però parla con esse, et odi, et credi\
 &emsp;Che la verace luce, che gl'appaga,\
 &emsp;Da sè non lassa lor torcer li piedi.
 
-¹¹ Ergo loquaris cum ipsis, et audias et credas\
+11 Ergo loquaris cum ipsis, et audias et credas\
 &emsp;Quod verax lux, que eos acquietat,\
 &emsp;De se non permictit eas retorquere pedes.
 
-¹² Et io all'hombra, che parea più vaga\
+12 Et io all'hombra, che parea più vaga\
 &emsp;Di ragionar, drizza'mi, e cominciai,\
 &emsp;Quasi com'huom cui troppa vogla smaga:
 
-¹² Et ego ad umbram, que michi apparebat magis vaga\
+12 Et ego ad umbram, que michi apparebat magis vaga\
 &emsp;Loquendi, direxi me, et incepi\
 &emsp;Quasi sicut homo quem nimia voluntas provocat:
 
-¹³ O ben creato spirto, che a' rai\
+13 O ben creato spirto, che a' rai\
 &emsp;Di vita eterna la dolcezza senti,\
 &emsp;Che non gustata non s'intende mai;
 
-¹³ O bene create spiritus, qui ad radios\
+13 O bene create spiritus, qui ad radios\
 &emsp;Vite eterne dulcedinem sentis,\
 &emsp;Que non gustata nunquam intelligitur;
 
-¹⁴ Gratioso mi fia, se mi contenti\
+14 Gratioso mi fia, se mi contenti\
 &emsp;Del nome tuo e de la vostra sorte.\
 &emsp;Ond'ella pronta e con ochi ridenti:
 
-¹⁴ Gratum michi erit, si me contentaris\
+14 Gratum michi erit, si me contentaris\
 &emsp;De nomine tuo et de sorte vestra.\
 &emsp;Unde ipsa prompta et cum oculis ardentibus:
 
-¹⁵ La nostra carità non serra porte\
+15 La nostra carità non serra porte\
 &emsp;A giusto prego, se non come quella\
 &emsp;Che vuol simil a sè tutta sua corte.
 
-¹⁵ Nostra caritas non claudit portas\
+15 Nostra caritas non claudit portas\
 &emsp;Iuste voluntati, sicut illa\
 &emsp;Que vult similem sibi totam suam curiam.
 
@@ -176,43 +176,43 @@ hec est secunda pars capituli, in qua auctor loquitur cum uno spiritu moderno no
 
 <!-- p. 853 (0907) -->
 
-¹⁶ Io fui al mondo vergine sorella:\
+16 Io fui al mondo vergine sorella:\
 &emsp;E se la mente tua ben si riguarda,\
 &emsp;Non mi ti celerà l'esser più bella;
 
-¹⁶ Ego fui in mundo virgo soror:\
+16 Ego fui in mundo virgo soror:\
 &emsp;Et si mens tua bene respicit,\
 &emsp;Non me celabit tibi esse pulchriorem;
 
-¹⁷ Ma riconoscerai ch'io son Piccharda,\
+17 Ma riconoscerai ch'io son Piccharda,\
 &emsp;Che, posta qui con quest'altri beati,\
 &emsp;Beata son ne la spera più tarda.
 
-¹⁷ Sed recognosces quod ego sum Piccarda,\
+17 Sed recognosces quod ego sum Piccarda,\
 &emsp;Que, posita hic cum aliis beatis,\
 &emsp;Beata sum in spera magis tarda.
 
-¹⁸ E' nostri affecti, che solo infiammati\
+18 E' nostri affecti, che solo infiammati\
 &emsp;Son nel piacer dello Spirito Sancto,\
 &emsp;Letitia han del su'ordin formati.
 
-¹⁸ Nostri affectus qui sunt inflammati\
+18 Nostri affectus qui sunt inflammati\
 &emsp;Solum in complacentia Spiritus Sancti,\
 &emsp;Letitiam habent de suo ordine informati.
 
-¹⁹ E questa sorte, che par giù cotanto,\
+19 E questa sorte, che par giù cotanto,\
 &emsp;Però n'è data, perchè fur negletti\
 &emsp;Li nostri voti, et voti in alcun canto.
 
-¹⁹ Et ista sors, que apparet infima tantum,\
+19 Et ista sors, que apparet infima tantum,\
 &emsp;Ideo data est nobis, quia fuerunt neglecta\
 &emsp;Nostra vota, et vacua in aliqua parte.
 
-²⁰ Ond'io a lei: Ne'mirabili aspecti\
+20 Ond'io a lei: Ne'mirabili aspecti\
 &emsp;Vostri risplende non so che divino,\
 &emsp;Che vi transmuta da'primi concepti.
 
-²⁰ Unde ego ad eam: In mirabilibus aspectibus\
+20 Unde ego ad eam: In mirabilibus aspectibus\
 &emsp;Vestris resplendet nescio quid divinum,\
 &emsp;Quod vos transmutat a primis conceptibus.
 
@@ -228,63 +228,63 @@ Unde ego ad eam. Ond'io a lei: ista est tertia pars huius capituli, in qua aucto
 
 <!-- p. 854 (0908) -->
 
-²¹ Però non fui a rimembrar festino;\
+21 Però non fui a rimembrar festino;\
 &emsp;Ma hor m'aiuta ciò che tu mi dici,\
 &emsp;Sicchè transfigurar m'è più latino.
 
-²¹ Ideo non fui ad recognoscendum festinus;\
+21 Ideo non fui ad recognoscendum festinus;\
 &emsp;Sed nunc adiuvat me illud quod dicis,\
 &emsp;Ita quod ad refigurandum michi est magis latinum.
 
-²² Ma dimmi: voi, che sete qui felici,\
+22 Ma dimmi: voi, che sete qui felici,\
 &emsp;Desiderate voi più alto loco\
 &emsp;Per più vedere, o per più farvi amici?
 
-²² Sed dic michi: vos qui estis hic felices,\
+22 Sed dic michi: vos qui estis hic felices,\
 &emsp;Desideratis vos altiorem locum,\
 &emsp;Ut plus videatis, et ut fiatis magis amici?
 
-²³ Con quell'altr'ombre pria sorrise un poco;\
+23 Con quell'altr'ombre pria sorrise un poco;\
 &emsp;Da indi mi rispose tanto lieta,\
 &emsp;Ch'arder parea d'amor nel primo fuoco:
 
-²³ Cum aliis umbris prius subrisit aliquantulum;\
+23 Cum aliis umbris prius subrisit aliquantulum;\
 &emsp;Inde michi respondit tantum leta,\
 &emsp;Quod ardere videbatur amoris in primo igne:
 
-²⁴ Frate, la nostra volontà quieta\
+24 Frate, la nostra volontà quieta\
 &emsp;Virtù di carità, che fa volerne\
 &emsp;Sol quel ch'havemo, e d'altro non ci asseta.
 
-²⁴ Frater, nostram caritatem quietat\
+24 Frater, nostram caritatem quietat\
 &emsp;Virtus caritatis, que facit nos velle\
 &emsp;Solum id quod habemus, et de pluri non facit sitibundos.
 
-²⁵ Se disiassimo esser più superne,\
+25 Se disiassimo esser più superne,\
 &emsp;Foran discordi li nostri disiri\
 &emsp;Al voler di colui che qui ne cerne;
 
-²⁵ Si desideraremus esse superiores,\
+25 Si desideraremus esse superiores,\
 &emsp;Essent nostra desideria discordantia\
 &emsp;A voluntate illius qui nos hic cernit;
 
-²⁶ Chè vedrai non capir (¹) in questi giri,\
+26 Chè vedrai non capir (1) in questi giri,\
 &emsp;S'essere in carità è qui necesse,\
 &emsp;E se la sua natura ben rimiri;
 
-²⁶ Quia videbis non posse evenire in istis gyris,\
+26 Quia videbis non posse evenire in istis gyris,\
 &emsp;Si esse in caritate est hic necesse,\
 &emsp;Et si suam naturam bene respicis;
 
-²⁷ Anzi è formale ad esto beato esse\
+27 Anzi è formale ad esto beato esse\
 &emsp;Tenersi dentro a la divina vogla,\
 &emsp;Perch'una fansi nostre vogle stesse.
 
-²⁷ Imo est formale ad istud beatum esse\
+27 Imo est formale ad istud beatum esse\
 &emsp;Tenere [se] intra divinam voluntatem,\
 &emsp;Quia una efficiuntur nostre voluntates et ipse.
 
-(¹) al. caper.
+(1) al. caper.
 
 quam questionem ipsa solvit. Primo auctor excusat se si non cognoscebat ipsam Piccardam, quia in aspectu istorum spirituum, hic beatificatorum, relucet unum quid divinum, quod quasi transmutat effigiem eorum. Sed audita loquela ipsius Piccarde, recognovit eam; et tunc proponit talem questionem, scilicet, si ipsi spiritus, qui sunt hic in celo lune, desiderant altiorem locum propter videre clarius, et vicinius Deo, prime cause, collocari. Primo Piccarda subrisit, demum letissime dixit, quod non; quia virtus caritatis divine quietat caritatem et voluntatem istorum spirituum, que facit eos velle sicut Deus vult illos velle, et nihil amplius appetunt. Et probat hoc sic: quia si desiderarent habere ultra id quod vult Deus eos habere, ipsi discordarent a velle divino; quod non potest contingere in Paradiso; et tamen esse in caritate, est, hic in Paradiso, necesse; imo formale esse, sive formalitas beatitudinis est conformitas voluntatis create cum increata. Et sicut sunt beati in diversis circulis superioribus et inferioribus in illo regno, sic esse placet omnibus, sicut placet regi, qui in sua voluntate omnes involvit; quia voluntas Dei est vera pax spirituum omnium beatorum, et Deus est magnum mare, ad quod omne creatum tendit et quidquid natura fecit.
 
@@ -298,55 +298,55 @@ Quod probatur sic: Si desideraremus esse superiores, idest altiores et magis bea
 
 <!-- p. 855 (0909) -->
 
-²⁸ Sì che, come noi siam di sogla in sogla\
+28 Sì che, come noi siam di sogla in sogla\
 &emsp;Per questo regno, a tucti el regno piace,\
-&emsp;Com'a lo re ch'a suo voler c'invogla (¹);
+&emsp;Com'a lo re ch'a suo voler c'invogla (1);
 
-²⁸ Et sicut nos sumus de lumine in lumen\
+28 Et sicut nos sumus de lumine in lumen\
 &emsp;Per istud regnum, omnibus regnum placet,\
 &emsp;Sicut regi qui in sua voluntate nos involvit;
 
-²⁹ E la sua volontà è nostra pace;\
+29 E la sua volontà è nostra pace;\
 &emsp;Ella è quel mar al qual tutto si muove\
 &emsp;Ciò ch'ella crea o che natura face.
 
-²⁹ Et sua voluntas est nostra pax;\
+29 Et sua voluntas est nostra pax;\
 &emsp;Ipsa est illud mare ad quod totum movetur\
 &emsp;Quod ipse creat et quod natura facit.
 
-³⁰ Chiaro mi fu allor com'ogni dove\
+30 Chiaro mi fu allor com'ogni dove\
 &emsp;In cielo è paradiso, e sì la gratia\
 &emsp;Del sommo ben d'un modo non vi piove.
 
-³⁰ Clarum fuit michi tunc sicut omne ubi\
+30 Clarum fuit michi tunc sicut omne ubi\
 &emsp;In celo est Paradisus, etsi gratia\
 &emsp;Summi boni de uno modo ibi non pluat.
 
-³¹ Ma sì com'egl'avien, s'un cibo satia,\
+31 Ma sì com'egl'avien, s'un cibo satia,\
 &emsp;E d'un altro riman ancor la gola,\
 &emsp;Che quel si chiere, e di quel si ringratia;
 
-³¹ Or sicut evenit, quod unus cibus satiat,\
+31 Or sicut evenit, quod unus cibus satiat,\
 &emsp;Et de uno alio adhuc remanet voluntas.\
 &emsp;Et ille queritur, et de alio regratiatur;
 
-³² Così fec'io con acto e con parola,\
+32 Così fec'io con acto e con parola,\
 &emsp;Per apprender da lei, qual fu la tela\
 &emsp;Onde non trasse infin al co'la spuola.
 
-³² Sic feci cum actu et cum verbo,\
+32 Sic feci cum actu et cum verbo,\
 &emsp;Propter apprehendere ab ea que fuit tela\
 &emsp;Unde non traxit usque ad finem spola.
 
-³³ Perfecta vita et alto merto inciela\
+33 Perfecta vita et alto merto inciela\
 &emsp;Donna più su, mi disse, a la cui norma\
 &emsp;Nel vostro mondo giù si veste et vela;
 
-³³ Perfecta vita et altum meritum incelat\
+33 Perfecta vita et altum meritum incelat\
 &emsp;Dominam magis supra, michi dixit, ad cuius normam,\
 &emsp;In vestro mundo inferiori vestitur et velatur;
 
-(¹) al. ne'nvogla.
+(1) al. ne'nvogla.
 
 nostra discordantia a voluntate illius, scilicet Dei, qui hic nos cernit, idest collocat sic (et sic isti non essent beati, quia non haberent quidquid vellent, nec essent conformes voluntati divine; quod est absurdum dicere. Augustinus ponit exemplum, quomodo, licet non omnes beati sint equaliter beati, quia unus est beatior alio, tamen omnes contenti sunt. Exemplum de pluribus vasis, quorum unum sit plenum balsamo, aliud vino, aliud aqua: quodlibet est plenum et contentum et plus non recipit; tamen unum est maioris valoris quam aliud); quod videbis non posse evenire in istis gyris, idest circulis celorum, si, pro quia, esse in caritate est hic necesse, sicut de facto est, et si suam naturam, scilicet beatitudinis, vel esse, respicis (esse hic est genitivi casus); imo est formale ad istum beatum esse, tenere se intra divinam voluntatem, idest esse sibi conforme in voluntate, quia una efficiuntur nostre voluntates et ipse, scilicet Deus.
 
@@ -362,59 +362,59 @@ Modo dicit Piccarda de voto suo, quod fecerat et non compleverat, de Regula quam
 
 <!-- p. 856 (0910) -->
 
-³⁴ Perchè fin al morir si vegli e dorma\
+34 Perchè fin al morir si vegli e dorma\
 &emsp;Con quello sposo ch'ogni voto accepta,\
 &emsp;Che carità al suo piacer conforma.
 
-³⁴ Ad hoc ut usque ad mortem vigiletur et dormiatur\
+34 Ad hoc ut usque ad mortem vigiletur et dormiatur\
 &emsp;Cum illo sponso qui omne votum acceptat,\
 &emsp;Quod caritatem ad complacentiam conformat.
 
-³⁵ Dal mondo, per seguirla, giovinetta\
+35 Dal mondo, per seguirla, giovinetta\
 &emsp;Fuggìmi, e nel suo habito mi chiusi,\
 &emsp;E promisi la via de la suo secta.
 
-³⁵ A mundo, propter sequi illam, iuvencula\
+35 A mundo, propter sequi illam, iuvencula\
 &emsp;Fugi, et in suo habitu me clausi,\
 &emsp;Et promisi viam sue secte.
 
-³⁶ Huomini poi, al mal più ch'al ben usi,\
+36 Huomini poi, al mal più ch'al ben usi,\
 &emsp;Fuor mi rapitten de la dolce chiostra;\
 &emsp;Dio lo si sa qual poi mia vita fusi.
 
-³⁶ Homines postmodum, plus ad malum quam ad bonum usitati,\
+36 Homines postmodum, plus ad malum quam ad bonum usitati,\
 &emsp;Foris me rapuerunt de dulci claustro;\
 &emsp;Et Deus scit qualis postea mea vita fuit.
 
-³⁷ E quell'altro splendor, che ti si mostra\
+37 E quell'altro splendor, che ti si mostra\
 &emsp;Da la mia dextra parte, e che s'accende\
 &emsp;Di tutto lume de la spera nostra,
 
-³⁷ Et ille alius splendor, qui tibi se monstrat\
+37 Et ille alius splendor, qui tibi se monstrat\
 &emsp;A mea dextra parte, et qui accenditur\
 &emsp;De toto lumine spere nostre,
 
-³⁸ Ciò ch'io dico di me, di sè intende:\
+38 Ciò ch'io dico di me, di sè intende:\
 &emsp;Sorella fu, e così li fu tolta\
 &emsp;Di capo l'hombra de le sacre bende.
 
-³⁸ Quidquid dico de me, intellige de ipso:\
+38 Quidquid dico de me, intellige de ipso:\
 &emsp;Soror fuit, et sic ei fuit abrecta\
 &emsp;De capite umbra sacrarum bendarum.
 
-³⁹ Da poi che pur al mondo fu rivolta,\
+39 Da poi che pur al mondo fu rivolta,\
 &emsp;Contra suo grado e contra buon'usanza,\
 &emsp;Non fu dal vel del cuor già mai disciolta.
 
-³⁹ Sed postquam solum ad mundum fuit revoluta,\
+39 Sed postquam solum ad mundum fuit revoluta,\
 &emsp;Contra suam voluntatem et contra bonam consuetudinem,\
 &emsp;Non fuit a velo cordis unquam dissoluta.
 
-⁴⁰ Quest'è la luce de la gran Costanza,\
+40 Quest'è la luce de la gran Costanza,\
 &emsp;Che del secondo vento di Soave\
 &emsp;Generò 'l terzo, e l'ultima possanza.
 
-⁴⁰ Ista est lux grandis Constantie,\
+40 Ista est lux grandis Constantie,\
 &emsp;Que de secundo vento Svevie\
 &emsp;Generavit tertiam et ultimam potentiam.
 
@@ -432,28 +432,28 @@ Ista est lux grandis Constantie (quia fuit regina Cicilie, filia regis, etc., id
 
 <!-- p. 857 (0911) -->
 
-⁴¹ Così parlommi, e poi cominciò: Ave,\
+41 Così parlommi, e poi cominciò: Ave,\
 &emsp;Maria, cantando; e cantando vanìo,\
 &emsp;Come per acqua cupa cosa grave.
 
-⁴¹ Sic michi loquuta est, et postea incepit: Ave,\
+41 Sic michi loquuta est, et postea incepit: Ave,\
 &emsp;Maria, cantando; et cantando evanuit,\
 &emsp;Sicut per aquam profundam res gravis.
 
-⁴² La vista mia, che tanto la seguìo\
+42 La vista mia, che tanto la seguìo\
 &emsp;Quanto possibil fu, poi che la perse,\
 &emsp;Volsesi al segno di maggior disio,
 
-⁴² Visio mea, que tantum illam sequuta est\
+42 Visio mea, que tantum illam sequuta est\
 &emsp;Quantum possibile fuit, postquam illam perdidit,\
 &emsp;Volvit se ad signum maioris desiderii,
 
-⁴³ Et a Beatrice tutta si converse;\
+43 Et a Beatrice tutta si converse;\
 &emsp;Ma quella fulgorò nel mio sguardo\
 &emsp;Sì, che da prima el viso nol sofferse;\
 &emsp;E ciò mi fece a domandar più tardo.
 
-⁴³ Et ad Beatricem totam se convertit;\
+43 Et ad Beatricem totam se convertit;\
 &emsp;Sed illa fulgoravit in meo aspectu\
 &emsp;Ita, quod a principio oculus meus non sustulit;\
 &emsp;Et hoc me fecit ad petendum magis tardum.

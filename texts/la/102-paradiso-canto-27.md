@@ -8,27 +8,27 @@ In isto vicesimoseptimo capitulo quod incipit: Patri, Filio et Spiritui Sancto, 
 
 # Capitulum Vicesimumseptimum
 
-¹ Al Padre, al Figlo, allo Spirito Sancto\
+1 Al Padre, al Figlo, allo Spirito Sancto\
 &emsp;Cominciò gloria tutto 'l Paradiso,\
 &emsp;Sì che m'inebriava el dolce canto.
 
-¹ Patri, et Filio, et Spiritui Sancto\
+1 Patri, et Filio, et Spiritui Sancto\
 &emsp;Incepit gloriam totus Paradisus,\
 &emsp;Ita quod inebriabar dulci cantu.
 
-² Ciò ch'io udiva, mi sembrava un riso\
+2 Ciò ch'io udiva, mi sembrava un riso\
 &emsp;Dell' universo; per che mia ebrezza\
 &emsp;M'entrava per l'udito e per lo viso.
 
-² Quidquid ego videbam, assimilabatur uni risui\
+2 Quidquid ego videbam, assimilabatur uni risui\
 &emsp;Universi; ex quo mea ebrezza\
 &emsp;Intrabat per auditum et per visum.
 
-³ O gioia! o ineffabile allegrezza!\
+3 O gioia! o ineffabile allegrezza!\
 &emsp;O vita intera d'amore e di pace!\
 &emsp;O senza brama sicura richezza!
 
-³ O iucunditas! o ineffabilis letitia!\
+3 O iucunditas! o ineffabilis letitia!\
 &emsp;O vita integra amoris et pacis!\
 &emsp;O sine brama secure divitie!
 
@@ -64,55 +64,55 @@ Iam auctor exclamat in laudem huius letitie, dicens: O gioya! idest iucunditas; 
 
 <!-- p. 1133 (1187) -->
 
-⁴ Dinanzi agl'occhi miei le quattro (¹) face\
-&emsp;Stavan accese, e quella (²) che pria venne\
+4 Dinanzi agl'occhi miei le quattro (1) face\
+&emsp;Stavan accese, e quella (2) che pria venne\
 &emsp;Incominciò a farsi più vivace;
 
-⁴ Ante oculos meos quatuor faces\
+4 Ante oculos meos quatuor faces\
 &emsp;Stabant accense, et illa que primo venit\
 &emsp;Incepit fieri vivacior;
 
-⁵ E tal ne la sembianza sua divenne,\
+5 E tal ne la sembianza sua divenne,\
 &emsp;Qual diverrebbe Iove, s'elli e Marte\
 &emsp;Fosser augelli, e cambiansersi penne.
 
-⁵ Et talis in similitudine sua devenit,\
+5 Et talis in similitudine sua devenit,\
 &emsp;Qualis deveniret Iuppiter, si ipse et Mars\
 &emsp;Essent aves, et cambi[a]rent pennas.
 
-⁶ La Providenza, che qui ne comparte\
+6 La Providenza, che qui ne comparte\
 &emsp;Vice et officio, nel beato choro\
 &emsp;Silenzio post' havea da ogni parte,
 
-⁶ Providentia, que ibi compartitur\
+6 Providentia, que ibi compartitur\
 &emsp;Vices et officia, in illo beato coro\
 &emsp;Silentium posuerat ab omni parte,
 
-⁷ Quand' io udi': Se io mi transcoloro,\
+7 Quand' io udi': Se io mi transcoloro,\
 &emsp;Non ti maraviglar; chè, dicendo io,\
 &emsp;Vedrai transcolorar tutti costoro.
 
-⁷ Quando ego audivi: Si ego transcoloror,\
+7 Quando ego audivi: Si ego transcoloror,\
 &emsp;Non mireris; quia, me dicente,\
 &emsp;Videbis transcolorari omnes istos.
 
-⁸ Quelli che usurpa in terra el loco mio,\
+8 Quelli che usurpa in terra el loco mio,\
 &emsp;El loco mio, el loco mio, che vaca\
 &emsp;Nella presentia del Figluol di Dio,
 
-⁸ Ille qui usurpat in terra locum meum,\
+8 Ille qui usurpat in terra locum meum,\
 &emsp;Locum meum, locum meum, qui vacat\
 &emsp;In presentia Filii Dei,
 
-⁹ Fact' ha del cimiterio mio cloaca\
+9 Fact' ha del cimiterio mio cloaca\
 &emsp;Del sangue e della puzza, onde 'l perverso,\
 &emsp;Che cadde di quassù, laggiù si placa.
 
-⁹ Fecit de cimiterio meo cloacham,\
+9 Fecit de cimiterio meo cloacham,\
 &emsp;De sanguine et putredine, unde perversus,\
 &emsp;Qui cecidit ab hinc, inferius placatur.
 
-(¹) predecte — (²) di Santo Petro.
+(1) predecte — (2) di Santo Petro.
 
 et pacis! (quia vita terrena est imperfecta et diminuta, plena guerris et divisionibus et odiis, que cum labore queritur, cum curis servatur, cum dolore perditur). O sine brama, idest sine desiderio afflictivo, secure delitie! (quia ultra illas nihil petitur nec desideratur).
 
@@ -124,63 +124,63 @@ Ille qui usurpat (scilicet Bonifacius, qui usurpavit papatum a Celestino, ut dic
 
 <!-- p. 1134 (1188) -->
 
-¹⁰ Di quel color, che, per lo sol adverso,\
+10 Di quel color, che, per lo sol adverso,\
 &emsp;Nube dipinge da sera e da mane,\
 &emsp;Vidd' io allora tutto 'l ciel consperso;
 
-¹⁰ De illo colore, quo, propter solem adversum,\
+10 De illo colore, quo, propter solem adversum,\
 &emsp;Nubes depinguntur de sero et de mane,\
 &emsp;Vidi ego tunc totum celum conspersum:
 
-¹¹ E come donna honesta, che permane\
+11 E come donna honesta, che permane\
 &emsp;Di sè sicura, e per l'altrui fallanza,\
 &emsp;Pur ascoltando, timida si fane,
 
-¹¹ Et sicut domina honesta, que permanet\
+11 Et sicut domina honesta, que permanet\
 &emsp;De se secura, et propter alterius defectum,\
 &emsp;Solum auscultando, timida efficitur;
 
-¹² Così Beatrice transmutò sembianza;\
+12 Così Beatrice transmutò sembianza;\
 &emsp;E tal eclypsi credo che 'n ciel fue,\
-&emsp;Quando patì giù (¹) la somma Possanza (²).
+&emsp;Quando patì giù (1) la somma Possanza (2).
 
-¹² Sic Beatrix transmutavit similitudinem,\
+12 Sic Beatrix transmutavit similitudinem,\
 &emsp;Et talis eclipsis credo quod in celo fuit,\
 &emsp;Quando passa fuit suprema Potentia.
 
-¹³ Poi procedetter le parole sue\
+13 Poi procedetter le parole sue\
 &emsp;Con voce tanto da sè transmutata,\
 &emsp;Che la sembianza non si mutò piue;
 
-¹³ Postea processerunt verba sua\
+13 Postea processerunt verba sua\
 &emsp;Cum voce a se tantum transmutata,\
 &emsp;Quod in apparentia non mutavit se plus:
 
-¹⁴ Non fu la sposa di Chrysto allevata\
+14 Non fu la sposa di Chrysto allevata\
 &emsp;Del sangue mio, di Lino e di Cleto,\
 &emsp;Per esser ad acquisto d' oro usata;
 
-¹⁴ Non fuit sponsa Christi educata\
+14 Non fuit sponsa Christi educata\
 &emsp;De sanguine Lini, illius Cleti,\
 &emsp;Ut illa esset ad acquisitionem auri usitata;
 
-¹⁵ Ma per acquisto d' esto viver lieto\
+15 Ma per acquisto d' esto viver lieto\
 &emsp;Pio, con Sisto, Calisto et Urbano\
 &emsp;Sparsero 'l sangue doppo molto fleto.
 
-¹⁵ Sed propter acquisitum istius vivere leti\
+15 Sed propter acquisitum istius vivere leti\
 &emsp;Et Sixtus et Pius, Calixtus et Urbanus\
 &emsp;Sparserunt sanguinem post multum fletum.
 
-¹⁶ Non fu nostra intention ch'a destra mano\
+16 Non fu nostra intention ch'a destra mano\
 &emsp;De' nostri successor parte sedesse,\
-&emsp;Parte dall'altra (³), del popol chrystiano;
+&emsp;Parte dall'altra (3), del popol chrystiano;
 
-¹⁶ Non fuit nostra intentio, quod ad dexteram manum\
+16 Non fuit nostra intentio, quod ad dexteram manum\
 &emsp;Nostrorum successorum pars sederet,\
 &emsp;Pars ad aliam, populi christiani;
 
-(¹) in terra — (²) Chrysto — (³) sinistra.
+(1) in terra — (2) Chrysto — (3) sinistra.
 
 Petri est Vacticanum. Vacticanum est quasi quinta pars navis Ecclesie Sancti Petri in Roma, ubi sunt sepulture plurium summorum Pontificum.
 
@@ -194,47 +194,47 @@ Nota quod iste partialitates, scilicet gebellina et guelfa, multum vigent in Yta
 
 <!-- p. 1135 (1189) -->
 
-¹⁷ Nè che le chiavi, che mi fur concesse,\
+17 Nè che le chiavi, che mi fur concesse,\
 &emsp;Divenisser signaculo in vexillo,\
 &emsp;Che contra baptizati combattesse;
 
-¹⁷ Nec quod claves, que michi fuerunt concesse,\
+17 Nec quod claves, que michi fuerunt concesse,\
 &emsp;Devenirent signaculum in vexillis,\
 &emsp;Quod contra baptizatos preliaretur;
 
-¹⁸ Nè ch' io fussi figura di sigillo\
+18 Nè ch' io fussi figura di sigillo\
 &emsp;A privilegi venduti e mendaci,\
 &emsp;Ond' io sovente arrosso e disfavillo.
 
-¹⁸ Nec quod essem figura sigilli\
+18 Nec quod essem figura sigilli\
 &emsp;Privilegiis venditis et mendacibus,\
 &emsp;Unde ego multum rubeo et disfavillo.
 
-¹⁹ In veste di pastor lupi rapaci\
-&emsp;Si veghon di quassù per tutti e paschi (¹):\
+19 In veste di pastor lupi rapaci\
+&emsp;Si veghon di quassù per tutti e paschi (1):\
 &emsp;O vendetta di Dio, perchè più giaci!
 
-¹⁹ Quia in veste pastoris lupi rapaces\
+19 Quia in veste pastoris lupi rapaces\
 &emsp;Videntur abhinc per omnia pascua:\
 &emsp;O defensio Dei, quare tantum iaces!
 
-²⁰ Del sangue nostro Chaorsini e Guaschi\
+20 Del sangue nostro Chaorsini e Guaschi\
 &emsp;S'apparechian di bere: o buon principio,\
 &emsp;A che vil fine convien che tu caschi!
 
-²⁰ De sanguine nostro Chaorsini et Vascones\
+20 De sanguine nostro Chaorsini et Vascones\
 &emsp;Preparant se ad bibendum sanguinem: o bonum principium,\
 &emsp;Ad quem vilem finem opportet quod tu cadas!
 
-²¹ L' alta Providentia, che con Scipio\
+21 L' alta Providentia, che con Scipio\
 &emsp;Difese a Roma la gloria del mondo,\
 &emsp;Soccorrà tosto, sì com' io concipio.
 
-²¹ Sed alta Providentia, que cum Scipione\
+21 Sed alta Providentia, que cum Scipione\
 &emsp;Defendit Rome gloriam mundi,\
 &emsp;Succurrat cito, sicut ego concipio.
 
-(¹) chiese.
+(1) chiese.
 
 et se sedere ad dexteram Pape et Ecclesie: Gebellini reputantur esse de parte Imperatoris, et sedere ad dextram Imperatoris, et ad sinistram Pape. Iterum nota, quod arma Ecclesie sunt duo claves albe transversaliter, quasi per modum et formam unius crucis in campo rubeo, et tale signo utuntur gentes Ecclesie sive stipendiarii. Tales claves figurant illas quas Christus tradidit Petro, primo Vicario Christi, que claves, sive quod signum clavium, apparet auctori, quod non deberent, sive portari, non deberet, quando fit prelium inter Christianos. Preterea notandum est, quod bulla papalis est plumbea, et ex una parte sunt duo capita, scilicet Petri et Pauli, cum istis litteris S. P. A. S. P. A.; et quando privilegia sunt falsa, vel symoniace procurata, non videtur placere Sancto Petro, quod sua figura, sive sue faciei, pro sigillo appendatur talibus privilegiis. Ecce verba Sancti Petri, loquentis in plurali, more Summi Pontificis, vel in persona omnium istorum spirituum, qui erant ibi.
 
@@ -252,55 +252,55 @@ Nota quod Ecclesia Dei non deficiet unquam usque ad finem seculi: bene fluctuat 
 
 <!-- p. 1136 (1190) -->
 
-²² E tu, figluol, che per lo mortal pondo\
+22 E tu, figluol, che per lo mortal pondo\
 &emsp;Ancor giù tornerai, apri la bocha,\
 &emsp;E non asconder quel ch'io non ascondo.
 
-²² Et tu, fili, qui per mortalem mundum, alias pondus.\
+22 Et tu, fili, qui per mortalem mundum, alias pondus.\
 &emsp;Adhuc inferius redibis, aperi os,\
 &emsp;Et non abscondas illud quod ego non abscondo.
 
-²³ Siccome di vapor gelati fiocha\
+23 Siccome di vapor gelati fiocha\
 &emsp;In giuso l'aer nostro, quando 'l corno\
-&emsp;De la Capra (¹) del ciel col Sol si tocha;
+&emsp;De la Capra (1) del ciel col Sol si tocha;
 
-²³ Sicut de vaporibus gelatis fiocat\
+23 Sicut de vaporibus gelatis fiocat\
 &emsp;Infra aier noster, quando cornu\
 &emsp;Capre celi cum sole tangitur;
 
-²⁴ In su vidd' io così l'ethere adorno\
+24 In su vidd' io così l'ethere adorno\
 &emsp;Farsi, e fioccar di vapor triumphanti,\
 &emsp;Che fact'havean con noi quivi soggiorno.
 
-²⁴ Versus partem superiorem vidi ego sic etherem ornatum\
+24 Versus partem superiorem vidi ego sic etherem ornatum\
 &emsp;Fieri, et fioccare vapores triumphantes,\
 &emsp;Qui fecerant ibi nobiscum residentiam.
 
-²⁵ Lo viso mio seguia e suoi sembianti,\
+25 Lo viso mio seguia e suoi sembianti,\
 &emsp;E seguì finche 'l mezzo, per lo molto,\
 &emsp;Li tolse el trapassar di più avanti.
 
-²⁵ Visus meus sequebatur suam apparentiam,\
+25 Visus meus sequebatur suam apparentiam,\
 &emsp;Et sequutus est usque ad medium, quia multum\
 &emsp;Subtraxit ei pertransire ulterius.
 
-²⁶ Onde la donna, che mi vide asciolto\
+26 Onde la donna, che mi vide asciolto\
 &emsp;Dell'attender in su, mi disse: Adima\
 &emsp;El viso, e guarda come tu se' volto.
 
-²⁶ Unde domina, que videbat me absolutum\
+26 Unde domina, que videbat me absolutum\
 &emsp;Ad intuendum sursum, michi dixit: Adyma\
 &emsp;Visum, et respice quomodo tu es versus.
 
-²⁷ Dall'hora ch'io haveva guardato prima,\
+27 Dall'hora ch'io haveva guardato prima,\
 &emsp;Io vidi mosso me per tutto l'arco,\
-&emsp;Che fa dal (²) mezzo al fin el primo clima;
+&emsp;Che fa dal (2) mezzo al fin el primo clima;
 
-²⁷ Ab hora qua ego respexeram prius,\
+27 Ab hora qua ego respexeram prius,\
 &emsp;Ego vidi me motum per totum arcum\
 &emsp;Qui est de medio ad finem primi climatis;
 
-(¹) del Capricorno — (²) al. del.
+(1) del Capricorno — (2) al. del.
 
 non debet submergi. Sed alta Providentia, scilicet divina, que cum Scipione defendit Rome gloriam mundi, succurat cito, sicut ego concipio. Nota quod quando Roma fuit ita oppressa ab Hannibale Cartaginensi, quod quasi videbatur deficere, tunc Deus succurrit cum Scipione, qui alio nomine dicebatur Scipio Africanus, qui devicit Africam, cum quo Deus liberavit Romam obsessam. Ita auctor supplicat Deo, ut succurrat Ecclesie sue cum uno pugile bono. Verba tamen sunt Beati Petri, ita quod Deus prestet Ecclesie sue bonum pastorem, qui bene regat ipsam, sicut ipse Sanctus Petrus concipit fore faciendum pro gloria mundi et Rome. Potest intelligi Imperium Romanum, quod Deus defendit cum Scipione Africano.
 
@@ -316,27 +316,27 @@ Ab hora a qua ego respexeram prius, scilicet quando primo intravi istam speram o
 
 <!-- p. 1137 (1191) -->
 
-²⁸ Sì ch'io vedea di là da Ghade el varco\
+28 Sì ch'io vedea di là da Ghade el varco\
 &emsp;Folle d'Ulixe, e di qua presso al lito\
 &emsp;Nel qual si fece Europa dolce carco.
 
-²⁸ Ita quod ego videbam ultra transitum\
+28 Ita quod ego videbam ultra transitum\
 &emsp;Fatuum Ulixis, et citra prope lictus\
 &emsp;In quo de Europa fuit [factum] dulce onus.
 
-²⁹ E più mi fora discoperto el sito\
+29 E più mi fora discoperto el sito\
 &emsp;Di questa aiuola; ma 'l sol precedea,\
 &emsp;Sotto e mie piedi, un segno e più partito.
 
-²⁹ Et plus esset michi discoopertus situs\
+29 Et plus esset michi discoopertus situs\
 &emsp;Illius aiuole; sed sol procedebat,\
 &emsp;Sub meis pedibus, in signum magis divisum.
 
-³⁰ La mente innamorata, che donnèa\
+30 La mente innamorata, che donnèa\
 &emsp;Colla mia donna sempre, di ridurre\
 &emsp;Ad essa gl'ochi più che mai ardèa:
 
-³⁰ Mens mea philocapta, que dominatur\
+30 Mens mea philocapta, que dominatur\
 &emsp;Cum mea domina semper, reducere\
 &emsp;Ad ipsam oculos plusquam unquam ardebat:
 
@@ -346,63 +346,63 @@ Mens mea philocapta. La mente innamorata: hec est tertia pars huius capituli, in
 
 <!-- p. 1138 (1192) -->
 
-³¹ E se natura o arte fe' pasture\
+31 E se natura o arte fe' pasture\
 &emsp;Da piglar ochi per haver la mente,\
 &emsp;In carne humana, o ne le sue picture,
 
-³¹ Et si natura vel ars fecit pascua\
+31 Et si natura vel ars fecit pascua\
 &emsp;Ad capiendum oculos propter habere mentem,\
 &emsp;In carne humana, vel in suis picturis,
 
-³² Tutte adunate parrebben niente,\
+32 Tutte adunate parrebben niente,\
 &emsp;Ver lo piacer divin, che mi rifulse\
 &emsp;Quando mi volsi al suo viso ridente.
 
-³² Omnia adunata apparerent nihil,\
+32 Omnia adunata apparerent nihil,\
 &emsp;Respectu complacentie divine, que michi refulsit\
 &emsp;Quando me volvi ad suum visum ridentem.
 
-³³ E la virtù, che lo sguardo m'indulse,\
+33 E la virtù, che lo sguardo m'indulse,\
 &emsp;Del bel nido di Leda mi disvelse,\
-&emsp;E nel ciel velocissimo (¹) m'impulse.
+&emsp;E nel ciel velocissimo (1) m'impulse.
 
-³³ Et virtus, que michi aspectum indulsit,\
+33 Et virtus, que michi aspectum indulsit,\
 &emsp;De pulchro nido Lede me evulsit,\
 &emsp;Et in celum velocissimum me impulsit.
 
-³⁴ Le parti sue vicissime et excelse\
+34 Le parti sue vicissime et excelse\
 &emsp;Sì uniformi son, ch'io non so dire\
-&emsp;Qual (²) Beatrice per luogo mi scelse.
+&emsp;Qual (2) Beatrice per luogo mi scelse.
 
-³⁴ Partes sue velocissime et excelse\
+34 Partes sue velocissime et excelse\
 &emsp;Ita uniformes sunt, quod ego nescio referre\
 &emsp;Quem Beatrix pro loco sibi deputavit.
 
-³⁵ Ma ella, che vedea el mio desire,\
+35 Ma ella, che vedea el mio desire,\
 &emsp;Incominciò, ridendo, tanto lieta,\
 &emsp;Che Dio parea nel suo volto gioire:
 
-³⁵ Sed ipsa, que videbat meum desiderium,\
+35 Sed ipsa, que videbat meum desiderium,\
 &emsp;Incepit, ridendo, tantum leta,\
 &emsp;Quod Deum apparebat in suo vultu iocundari:
 
-³⁶ La natura del moto, che quieta\
+36 La natura del moto, che quieta\
 &emsp;El mezzo, e tutto l'altro intorno move,\
 &emsp;Quinci comincia come da sua meta.
 
-³⁶ Natura mundi que quietat\
+36 Natura mundi que quietat\
 &emsp;Medium, et totum reliquum circum movet,\
 &emsp;Hinc incipit sicut a sua meta.
 
-³⁷ E questo cielo non ha altro dove\
+37 E questo cielo non ha altro dove\
 &emsp;Che la mente divina, in che s'accende\
 &emsp;L'amor che volge e la virtù che piove.
 
-³⁷ Et istud celum non habet aliud ubi\
+37 Et istud celum non habet aliud ubi\
 &emsp;Quam mentem divinam, in qua accenditur\
 &emsp;Amor qui volvit ipsum et virtus quam ipsum pluit.
 
-(¹) primo mobile — (²) parte.
+(1) primo mobile — (2) parte.
 
 Et si natura vel res scilicet artificialis fecit pascua ad capiendum oculos propter habere mentem, in carne humana vel in suis picturis, omnia, scilicet talia, adunata, idest simul, apparerent nihil respectu complacentie divine, que michi refulsit, quando me volvi ad suum visum ridentem. Vult dicere auctor: Quando vidi istos spiritus ascendentes, scilicet de spera octava ad nonam, volebam me vertere ad oculos Beatricis propter dicere, Quid est faciendum? sed tunc ipsa placuit michi [ita], quod si omnia delectabilia visui, sive sint naturalia, sive artificialia, essent ibi, nihil essent ad me faciendum delectari, respectu complacentie quam michi obtulit Beatrix, quando intuitus sum ipsam: idest omnes scientie mundi, insimul adunate, nihil sunt respectu Sacre Theologie.
 
@@ -416,55 +416,55 @@ Et istud celum, scilicet nonum, non habet aliud ubi, idest locum, quam mentem di
 
 <!-- p. 1139 (1193) -->
 
-³⁸ Luce et amor d'un cerchio (¹) lui comprende,\
-&emsp;Sì come questo (²) gl'altri (³) e quel procinto (⁴);\
+38 Luce et amor d'un cerchio (1) lui comprende,\
+&emsp;Sì come questo (2) gl'altri (3) e quel procinto (4);\
 &emsp;Colui che cinge, solamente intende.
 
-³⁸ Lux et amor uno circulo ipsum comprehendit,\
+38 Lux et amor uno circulo ipsum comprehendit,\
 &emsp;Sicut istud alios, et ille precinctus\
 &emsp;Qui ipsum cingit solummodo intelligit.
 
-³⁹ Non è suo moto (⁵) per altro (⁶) distincto;\
+39 Non è suo moto (5) per altro (6) distincto;\
 &emsp;Ma gl'altri son mensurati da questo,\
 &emsp;Sì come diece da mezzo e da quinto.
 
-³⁹ Non est suus motus per alium distinctus;\
+39 Non est suus motus per alium distinctus;\
 &emsp;Sed alii sunt mensurati ab ipso,\
 &emsp;Sicut decem a medio et a quinto.
 
-⁴⁰ E come 'l tempo tegna in cotal testo\
+40 E come 'l tempo tegna in cotal testo\
 &emsp;Le sue radici, e negl'altri le fronde,\
 &emsp;Omai a te può esser manifesto.
 
-⁴⁰ Et quomodo tempus teneat in tali textu\
+40 Et quomodo tempus teneat in tali textu\
 &emsp;Suas radices, et in aliis frondes,\
 &emsp;Ammodo tibi potest esse manifestum.
 
-⁴¹ O cupidigia, ch'e mortali affonde\
+41 O cupidigia, ch'e mortali affonde\
 &emsp;Sì sotto te, che nessun ha potere\
 &emsp;Di ritrar gl'ochi fuor de le tue onde!
 
-⁴¹ O cupiditas, que mortales adfondas\
+41 O cupiditas, que mortales adfondas\
 &emsp;Ita sub te, quod nullus habet posse\
 &emsp;Trahere oculos extra tuas undas!
 
-⁴² Ben fiorisce negl'huomini el volere;\
+42 Ben fiorisce negl'huomini el volere;\
 &emsp;Ma la pioggia continua converte\
 &emsp;In bo[z]zac[c]hioni le susine vere.
 
-⁴² Bene floret in hominibus velle;\
+42 Bene floret in hominibus velle;\
 &emsp;Sed pluvia continua convertit\
 &emsp;In bozzacchiones susina vera.
 
-⁴³ Fede et innocentia son reperte\
+43 Fede et innocentia son reperte\
 &emsp;Solo ne' parvoletti; e poi ciascuna\
 &emsp;Pria fugge, che le guance sien coperte.
 
-⁴³ Fides et innocentia sunt reperte\
+43 Fides et innocentia sunt reperte\
 &emsp;Solum in parvulis; postea quelibet\
 &emsp;Prius fugit, quam gene sint cooperte.
 
-(¹) del cielo empyreo — (²) comprende — (³) cerchi — (⁴) cielo empyreo — (⁵) del primo mobile — (⁶) moto.
+(1) del cielo empyreo — (2) comprende — (3) cerchi — (4) cielo empyreo — (5) del primo mobile — (6) moto.
 
 que ipsum pluit, idest emictit, vel facit. Intelligentia, que movet istud nonum celum, habet virtutem a Deo. Pluit: idest mictit deorsum in alias speras virtutem.
 
@@ -482,57 +482,57 @@ Fides et innocentia sunt reperte solum in parvulis, quia non plus cognoscunt don
 
 <!-- p. 1140 (1194) -->
 
-⁴⁴ Tale, balbutiendo ancor, digiuna,\
+44 Tale, balbutiendo ancor, digiuna,\
 &emsp;Che poi divora, co' la lingua sciolta,\
 &emsp;Qualunque cibo per qualunque luna;
 
-⁴⁴ Talis, balbutiendo adhuc, ieiunat,\
+44 Talis, balbutiendo adhuc, ieiunat,\
 &emsp;Qui postea devorat, cum lingua soluta,\
 &emsp;Quemcumque cibum per quamcumque lunam;
 
-⁴⁵ E tal, balbutiendo, ama et ascolta\
+45 E tal, balbutiendo, ama et ascolta\
 &emsp;La madre sua, che, con loquela intera,\
 &emsp;Desia da poi di vederla sepolta.
 
-⁴⁵ Et talis, balbutiendo, amat & auscultat\
+45 Et talis, balbutiendo, amat & auscultat\
 &emsp;Matrem suam, qui, cum loquela integra,\
 &emsp;Desiderat postea videre illam sepultam.
 
-⁴⁶ Così si fa la pelle bianca, nera,\
-&emsp;Nel primo aspecto, de la bella figla (¹)\
-&emsp;Di quel (²) che porta (³) mane e lascia (⁴) sera.
+46 Così si fa la pelle bianca, nera,\
+&emsp;Nel primo aspecto, de la bella figla (1)\
+&emsp;Di quel (2) che porta (3) mane e lascia (4) sera.
 
-⁴⁶ Sic efficitur pellis alba, nigra,\
+46 Sic efficitur pellis alba, nigra,\
 &emsp;In primo aspectu, pulchre filie\
 &emsp;Illius qui portat mane et dimictit sero.
 
-⁴⁷ Tu, perchè non ti faccia meravigla,\
+47 Tu, perchè non ti faccia meravigla,\
 &emsp;Pensa ch'n terra non è chi governi;\
 &emsp;Onde si svia l'humana famigla.
 
-⁴⁷ Tu ad hoc ut non facias tibi mirum,\
+47 Tu ad hoc ut non facias tibi mirum,\
 &emsp;Scias quod in terra non est qui gubernet;\
 &emsp;Unde deviat humana familia.
 
-⁴⁸ Ma pria che gennaio tutto si sverni,\
+48 Ma pria che gennaio tutto si sverni,\
 &emsp;Per la centesima ch'è laggiù negletta,\
 &emsp;Ruggiran sì questi cerchi superni,
 
-⁴⁸ Sed priusquam ianuarius totus exeat de yeme,\
+48 Sed priusquam ianuarius totus exeat de yeme,\
 &emsp;Propter centesimam que est inferius neglecta,\
 &emsp;Rugient ita isti circuli superni,
 
-⁴⁹ Chè la fortuna, che tanto s'aspecta,\
+49 Chè la fortuna, che tanto s'aspecta,\
 &emsp;Le poppe volgerà u'son le prore,\
 &emsp;Sì che la classe correrà directa;\
 &emsp;O vero fructo verrà doppo 'l fiore.
 
-⁴⁹ Quod fortuna, que tantum expectatur,\
+49 Quod fortuna, que tantum expectatur,\
 &emsp;Puppes volvet ubi sunt prore,\
 &emsp;Ita quod classis curret recta;\
 &emsp;Et verus fructus veniet post florem.
 
-(¹) Cyrce — (²) Sole — (³) ab Oriente — (⁴) ab Occidente.
+(1) Cyrce — (2) Sole — (3) ab Oriente — (4) ab Occidente.
 
 cooperte, quando iuvenes incipiunt habere pilos in barba: idest omnes perdunt fidem et puritatem, antequam nascantur pili in barbis eorum.
 

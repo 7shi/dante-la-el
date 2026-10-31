@@ -8,23 +8,23 @@ In decimo capitulo, quod incipit: Iam, vel nunc, itur per unum secretum callem, 
 
 # Capitulum Decimum
 
-¹ Hora sen va per un secreto calle\
+1 Hora sen va per un secreto calle\
 &emsp;Tra 'l muro de la terra e li martiri\
 &emsp;Lo mio maestro, et io doppo le spalle.
 
-¹ Nunc vadit per unum secretum callem\
+1 Nunc vadit per unum secretum callem\
 &emsp;Inter muros terre et martyria\
 &emsp;Meus magister, et ego post terga.
 
-² O virtù somma, che per gl'empi (¹) giri\
+2 O virtù somma, che per gl'empi (1) giri\
 &emsp;Mi volgi, cominciai, com'a te piace,\
 &emsp;Parlami, e satisfa a' miei desiri.
 
-² O virtus summa, que per impios giros\
+2 O virtus summa, que per impios giros\
 &emsp;Me volvis, incepi, prout tibi placet,\
 &emsp;Loquaris michi, et satisfacias meis desideriis.
 
-(¹) iniqui.
+(1) iniqui.
 
 Ora sen va per un stricto calle. Iam vadit per unum strictum callem: istud est decimum capitulum huius comedie prime, in quo auctor tractat de una specie heresis in speciali, que est peior quasi omnibus. Et dividitur istud capitulum in quinque partes. In quarum prima introducit auctor unum spiritum modernum involutum in ipsa.
 
@@ -56,55 +56,55 @@ Per amplos giros: idest largos; nam omnis circulus capax est multorum, in tantum
 
 <!-- p. 133 (0187) -->
 
-³ La gente, che per li sepolchri giace,\
+3 La gente, che per li sepolchri giace,\
 &emsp;Potrebbesi veder? già son levati\
 &emsp;Tutti e coperchi, e nessun guardia face.
 
-³ Gens, que per sepulchra iacet,\
+3 Gens, que per sepulchra iacet,\
 &emsp;Posset ne videri? Iam sunt deposita\
 &emsp;Omnia cooperimenta, et nullus custodiam facit.
 
-⁴ Et elli a me: Tutti saran serrati,\
+4 Et elli a me: Tutti saran serrati,\
 &emsp;Quando di Iosaphat qui torneranno\
 &emsp;Coi corpi che lassù hanno lassati.
 
-⁴ Et ipse ad me: Omnia erunt clausa,\
+4 Et ipse ad me: Omnia erunt clausa,\
 &emsp;Quando a Josaphat huc redibunt\
 &emsp;Cum corporibus que superius dimiserunt.
 
-⁵ Suo cimiterio da questa parte hanno\
+5 Suo cimiterio da questa parte hanno\
 &emsp;Con Epycuro tutti e suoi seguaci,\
 &emsp;Che l'anima col corpo morta fanno.
 
-⁵ Suum cimiterium ab ista parte habent\
+5 Suum cimiterium ab ista parte habent\
 &emsp;Cum Epicuro omnes sui sequaces,\
 &emsp;Qui animam cum corpore mortuam faciunt.
 
-⁶ Però alla dimanda che mi faci\
+6 Però alla dimanda che mi faci\
 &emsp;Quinc'entro satisfacto sarai tosto,\
 &emsp;Et al desio ancor che tu mi taci.
 
-⁶ Ideo interrogationi quam michi facis\
+6 Ideo interrogationi quam michi facis\
 &emsp;Hic intus satisfiet tibi cito,\
 &emsp;Et desiderio adhuc quod tu michi taces.
 
-⁷ Et io: Buon duca (¹), non tengo riposto (²)\
+7 Et io: Buon duca (1), non tengo riposto (2)\
 &emsp;A te mio cor, se non per dicer poco;\
 &emsp;E tu m'hai non pur mo a ciò disposto.
 
-⁷ Et ego: Bone dux, non teneo repositum\
+7 Et ego: Bone dux, non teneo repositum\
 &emsp;Tibi meum cor, nisi ut dicam paucum;\
 &emsp;Et tu me non solum nunc ad hoc disposuisti.
 
-⁸ O Tosco, che per la città del foco\
+8 O Tosco, che per la città del foco\
 &emsp;Vivo ten vai così parlando honesto,\
-&emsp;Piaciati d'arrestar (³) in questo loco.
+&emsp;Piaciati d'arrestar (3) in questo loco.
 
-⁸ O Tusce, qui per civitatem ignis\
+8 O Tusce, qui per civitatem ignis\
 &emsp;Vivus vadis sic loquendo honeste,\
 &emsp;Placeat tibi sistere te in isto loco.
 
-(¹) al. maestro — (²) celato — (³) fermarti alquanto.
+(1) al. maestro — (2) celato — (3) fermarti alquanto.
 
 Gentem, que per sepulchra iacet, possem ne videre? Iam sunt elevata omnia copercula, et nemo custodiam facit; idest, nemo illorum nos respicit; vel aliter et melius, nullus custodit, qui nos impediat, quia sepulchra sunt aperta, ideo apparet quod bene possent videri.
 
@@ -120,71 +120,71 @@ O Tusce, qui per civitatem ignis vivus vadis sic loquendo honeste, placeat tibi 
 
 <!-- p. 134 (0188) -->
 
-⁹ La tua loquela ti fa manifesto\
+9 La tua loquela ti fa manifesto\
 &emsp;Di quella nobil patria natio,\
 &emsp;A la qual forse fui troppo molesto.
 
-⁹ Tua loquela te facit manifestum\
+9 Tua loquela te facit manifestum\
 &emsp;Ex illa nobili patria natum,\
 &emsp;Cui forte fui nimis molestus.
 
-¹⁰ Subitamente questo suon uscìo\
+10 Subitamente questo suon uscìo\
 &emsp;D'una dell'arche: però m'accostai\
 &emsp;Um poco più, temendo, al duca mio.
 
-¹⁰ Subito iste sonus exivit\
+10 Subito iste sonus exivit\
 &emsp;De una ab archis: ideo me adhesi,\
 &emsp;Timendo, uno modico plus duci meo.
 
-¹¹ Ed ei mi disse: Volgeti: che fai?\
+11 Ed ei mi disse: Volgeti: che fai?\
 &emsp;Vedi là Farinata che s'è dricto:\
 &emsp;De la cintola in su tutto 'l vedrai.
 
-¹¹ Et ipse michi dixit: Volve te: quid facis?\
+11 Et ipse michi dixit: Volve te: quid facis?\
 &emsp;Videas ibi Farinatam qui se erexit:\
 &emsp;A cingulo supra totum eum videbis.
 
-¹² Havea (¹) già 'l mio viso nel suo ficto;\
+12 Havea (1) già 'l mio viso nel suo ficto;\
 &emsp;Et el sorgea col pecto e co'la fronte,\
 &emsp;Com'havesse l'Inferno a gran dispicto:
 
-¹² Ego habebam iam meum visum in suum fixum;\
+12 Ego habebam iam meum visum in suum fixum;\
 &emsp;Et ipse surgebat cum pectore et cum fronte,\
 &emsp;Ac si haberet Infernum in grandem despectum:
 
-¹³ E l'animose man del duca e pronte\
+13 E l'animose man del duca e pronte\
 &emsp;Mi pinser tralle sepolture a lui,\
 &emsp;Dicendo: Le parole tue sien conte.
 
-¹³ Et animose manus ducis et prompte\
+13 Et animose manus ducis et prompte\
 &emsp;Me impulerunt inter sepulturas ad eum,\
 &emsp;Dicens: Verba tua sint ornata.
 
-¹⁴ Com'io al piè de la sua tomba fui,\
+14 Com'io al piè de la sua tomba fui,\
 &emsp;Guardommi un poco, e quasi disdegnoso\
 &emsp;Mi dimandò: Chi fur li maggior tui?
 
-¹⁴ Quam cito ad pedem sue tumbe fui,\
+14 Quam cito ad pedem sue tumbe fui,\
 &emsp;Respexit me aliquantulum, et postea quasi dedignans\
 &emsp;Me interrogavit: Qui fuerunt maiores tui?
 
-¹⁵ Io, ch'era di ubbidir desideroso,\
+15 Io, ch'era di ubbidir desideroso,\
 &emsp;Non glel celai, ma tucto gl'apersi:\
 &emsp;Onde levò le cigla un poco in suso;
 
-¹⁵ Ego, qui eram obediendi cupidus,\
+15 Ego, qui eram obediendi cupidus,\
 &emsp;Non ei celavi, sed totum sibi aperui:\
 &emsp;Unde ipse levavit supercilia uno modico sursum;
 
-¹⁶ Poi (²) disse: Fieramente fur adversi\
+16 Poi (2) disse: Fieramente fur adversi\
 &emsp;A me et a' miei primi et a mia parte,\
 &emsp;Sì che per due fiate li dispersi.
 
-¹⁶ Postea dixit: Ferociter fuerunt adversi\
+16 Postea dixit: Ferociter fuerunt adversi\
 &emsp;Michi et meis primis et mee parti,\
 &emsp;Ita quod per duas vices eos expuli.
 
-(¹) io Dante. — (²) al. Et
+(1) io Dante. — (2) al. Et
 
 fuit magnanimus, sed non credidit alium esse nisi presentem; fecit tamen res et facta magnanima.
 
@@ -206,55 +206,55 @@ Postea dixit: Vere fuerunt adversi michi et meis proximis, idest progeneribus et
 
 <!-- p. 135 (0189) -->
 
-¹⁷ S'e'fur cacciati, e' tornar d'ogni parte,\
+17 S'e'fur cacciati, e' tornar d'ogni parte,\
 &emsp;Rispos'io lui, l'una e l'altra fiata;\
 &emsp;Ma e vostri non appreser ben quell'arte.
 
-¹⁷ Si ipsi fuerunt expulsi, ipsi redierunt ex omni parte,\
+17 Si ipsi fuerunt expulsi, ipsi redierunt ex omni parte,\
 &emsp;Respondi ad eum, una et alia vice;\
 &emsp;Sed vestri non apprehenderunt bene illam artem.
 
-¹⁸ Allor surse a la vista scoperchiata\
+18 Allor surse a la vista scoperchiata\
 &emsp;Un'ombra lungo questa in fin al mento:\
-&emsp;Credo che s'era inginochion (¹) levata.
+&emsp;Credo che s'era inginochion (1) levata.
 
-¹⁸ Tunc surrexit apud sepulchrum detectum\
+18 Tunc surrexit apud sepulchrum detectum\
 &emsp;Una umbra prope istam usque ad mentum:\
 &emsp;Credo quod in genibus se levaverat.
 
-¹⁹ D'intorno mi guardò, come talento\
+19 D'intorno mi guardò, come talento\
 &emsp;Havesse di veder s'altri era meco;\
 &emsp;Ma poi che 'l sospecciar fu tutto spento,
 
-¹⁹ Circum me respexit, ac si talentum\
+19 Circum me respexit, ac si talentum\
 &emsp;Haberet videndi si alter erat mecum;\
 &emsp;Sed postquam suspicare fuit totum exfactum,
 
-²⁰ Piangendo disse: Se per questo ceco\
+20 Piangendo disse: Se per questo ceco\
 &emsp;Carcere vai per altezza d'ingegno,\
-&emsp;Mi[o] figlio ov'è? (²) perchè non è teco?
+&emsp;Mi[o] figlio ov'è? (2) perchè non è teco?
 
-²⁰ Plangendo dixit: Si per istum totum\
+20 Plangendo dixit: Si per istum totum\
 &emsp;Carcerem vadis ex altitudine ingenii,\
 &emsp;Meus filius ubi est? et quare non est tecum?
 
-²¹ Et io a lui: Da me stesso non vegno:\
+21 Et io a lui: Da me stesso non vegno:\
 &emsp;Collui, ch'attende là, per qui mi mena,\
-&emsp;Forse cui Guido vostro (³) ebbe a disdegno.
+&emsp;Forse cui Guido vostro (3) ebbe a disdegno.
 
-²¹ Et ego ad eum: A me ipso non venio:\
+21 Et ego ad eum: A me ipso non venio:\
 &emsp;Ille, qui expectat ibi, per ista loca me ducit,\
 &emsp;Forsan quem Guido vester habuit in indignationem.
 
-²² Le sue parole e 'l modo de la pena\
+22 Le sue parole e 'l modo de la pena\
 &emsp;M'havea di costui già detto 'l nome:\
 &emsp;Però fu la risposta così piena.
 
-²² Verba sua et modus pene\
+22 Verba sua et modus pene\
 &emsp;Michi istius iam legerat nomen:\
 &emsp;Ideo fuit responsum ita plenum.
 
-(¹) al. in ginochie — (²) al. ov'è mio figlio — (³) figluolo.
+(1) al. in ginochie — (2) al. ov'è mio figlio — (3) figluolo.
 
 ego, expuli eos de Florentia. Cum iste dominus Farinata esset, nedum Gebellinus, ymo caput partis gebelline, etc., dicit Dantem et omnes de domo Dantis fuisse sibi et parti eius adversos. Patet: aperte quod Dantes fuit Guelfus et non Gebellinus, quia iste dominus Farinata expulsit Aldigherios de Florentia. Dantes in millesimo trecentesimo erat prior in palatio dominorum Priorum, et iam Gebellini erant expulsi de Florentia: et sic Dantes nullo modo fuit Gebellinus.
 
@@ -272,47 +272,47 @@ Sua verba et modus pene iam notaverant michi nomen istius; ideo responsio fuit t
 
 <!-- p. 136 (0190) -->
 
-²³ Di subito drizzato gridò: Come\
+23 Di subito drizzato gridò: Come\
 &emsp;Dicesti: Egl'ebbe? non viv'egli ancora?\
 &emsp;Non fiere 'n gl'ochi suoi el dolce lome?
 
-²³ Subito erectus dixit: Quare\
+23 Subito erectus dixit: Quare\
 &emsp;Dixisti: Habuit? nonne vivit ipse adhuc?\
 &emsp;Non ferit oculos suos dulce lumen?
 
-²⁴ Quando s'accorse d'alcuna dimora\
+24 Quando s'accorse d'alcuna dimora\
 &emsp;Ch'io facea dinanzi a la risposta,\
 &emsp;Suppin ricadde, e più non parve fora.
 
-²⁴ Quando se perpendit de aliqua dilacione\
+24 Quando se perpendit de aliqua dilacione\
 &emsp;Quam ego faciebam ante responsum,\
 &emsp;Supinus cecidit et plus non apparuit foras.
 
-²⁵ Ma quell'altro magnanim', a cui posta\
+25 Ma quell'altro magnanim', a cui posta\
 &emsp;M'era restato, non mutò l'aspecto,\
 &emsp;Nè mosse collo, nè piegò sua costa.
 
-²⁵ Sed ille alter magnanimus, ad cuius peticionem\
+25 Sed ille alter magnanimus, ad cuius peticionem\
 &emsp;Rexeram me, non mutavit adspectum,\
 &emsp;Nec movit collum, nec plicavit suam costam.
 
-²⁶ E se, continuando al primo decto,\
+26 E se, continuando al primo decto,\
 &emsp;S'egl'àn quell'arte, disse, mal appresa,\
 &emsp;Ciò mi tormenta più che questo lecto.
 
-²⁶ Et si, continuando ad primum dictum,\
+26 Et si, continuando ad primum dictum,\
 &emsp;Ipsi illam artem, dixit, male apprehenderunt,\
 &emsp;Hoc me tormentat plusquam iste lectus.
 
-²⁷ Ma non cinquanta volte fie raccesa\
-&emsp;La faccia de la donna che qui regge (¹),\
+27 Ma non cinquanta volte fie raccesa\
+&emsp;La faccia de la donna che qui regge (1),\
 &emsp;Che tu saprai quanto quell'arte pesa.
 
-²⁷ Sed non quinquaginta vicibus erit reaccensa\
+27 Sed non quinquaginta vicibus erit reaccensa\
 &emsp;Facies illius domine que hic regit,\
 &emsp;Quod tu scies quantum ista ars ponderat.
 
-(¹) Proserpina, cioè Luna.
+(1) Proserpina, cioè Luna.
 
 Danti: Quomodo sciebas tu, quis esset ille, et quid peteret de filio, et quod erat inter istos, tam subito erectus? Dicit quod verba et modus pene denotaverant.
 
@@ -328,35 +328,35 @@ Et continuans primum dictum, Si, scilicet mei, de parte mea, illam artem, scilic
 
 <!-- p. 137 (0191) -->
 
-²⁸ E se tu mai nel dolce mondo regge,\
+28 E se tu mai nel dolce mondo regge,\
 &emsp;Dimmi: Perchè quel popol è sì empio\
 &emsp;Contra de' miei in ciascuna sua legge?
 
-²⁸ Et si tu unquam in dulcem mundum redeas,\
+28 Et si tu unquam in dulcem mundum redeas,\
 &emsp;Dicas michi: Quare ille populus est ita impius\
 &emsp;Contra meos in qualibet sua lege?
 
-²⁹ Ond'io a lui: Lo stratio e 'l grande scempio,\
+29 Ond'io a lui: Lo stratio e 'l grande scempio,\
 &emsp;Che fece l'Arbia colorata in rosso,\
 &emsp;Tal'oration fa far nel nostro tempio.
 
-²⁹ Unde ego ad eum: Crudelitas et grandis divisio,\
+29 Unde ego ad eum: Crudelitas et grandis divisio,\
 &emsp;Que fecit Arbia flumen coloratum in rubrum,\
 &emsp;Tales orationes facit fieri in nostro templo.
 
-³⁰ Poi ch'ebbe sospirando el capo mosso,\
+30 Poi ch'ebbe sospirando el capo mosso,\
 &emsp;Acciò non fu'io sol, disse, nè certo\
 &emsp;Senza cagion cogl'altri sarei mosso:
 
-³⁰ Postquam suspirando caput movit,\
+30 Postquam suspirando caput movit,\
 &emsp;Ad hoc non fui ego solus, dixit, nec certe\
 &emsp;Sine causa cum aliis me movissem:
 
-³¹ Ma fu'io solo là, dove sofferto\
+31 Ma fu'io solo là, dove sofferto\
 &emsp;Fu per ciascun di toller via Fiorenza,\
 &emsp;Colui che la difesi a viso aperto.
 
-³¹ Sed fui solus ibi, ubi consensum\
+31 Sed fui solus ibi, ubi consensum\
 &emsp;Fuit per quoscumque tollere Florentiam,\
 &emsp;Ille qui eam defendit visu aperto.
 
@@ -370,11 +370,11 @@ Notandum quod tempore illo, quo dominus Farinata erat extra exul et expulsus cum
 
 <!-- p. 138 (0192) -->
 
-³² De! se riposi mai nostra semenza,\
+32 De! se riposi mai nostra semenza,\
 &emsp;Prega'io lui, solvetemi quel nodo,\
 &emsp;Che qui ha inviluppata mia sentenza.
 
-³² De! si quiescat amodo vestrum semen,\
+32 De! si quiescat amodo vestrum semen,\
 &emsp;Rogavi ego eum, solvitis michi illum nodum,\
 &emsp;Qui hic implicavit meam sententiam.
 
@@ -384,39 +384,39 @@ Adhuc est notandum, quod primus rex romanorum de Theutonicis fuit Fredericus Bar
 
 <!-- p. 139 (0193) -->
 
-³³ E' par che voi veggiate, se ben odo,\
+33 E' par che voi veggiate, se ben odo,\
 &emsp;Ciò che 'l presente tempo seco adduce,\
 &emsp;E nel futuro tenete altro modo.
 
-³³ Videtur quod vos videatis, si bene audio,\
+33 Videtur quod vos videatis, si bene audio,\
 &emsp;Ante, illud quod tempus secum adducit,\
 &emsp;Et in presenti tenetis alium modum.
 
-³⁴ Noi veggiam, come quei c'ha (¹) mala luce (²),\
+34 Noi veggiam, come quei c'ha (1) mala luce (2),\
 &emsp;Le cose, disse, che ne son lontano;\
 &emsp;Tanto ne splende ancor el sommo duce:
 
-³⁴ Nos videmus, sicut ille qui habet malam lucem,\
+34 Nos videmus, sicut ille qui habet malam lucem,\
 &emsp;Res, dixit, que a nobis sunt longinque;\
 &emsp;Tantum adhuc in nobis splendet summus Dux:
 
-³⁵ Quando s'appressono, o son (³), tutt'è vano\
+35 Quando s'appressono, o son (3), tutt'è vano\
 &emsp;Nostro intellecto; e s'altri non ci apporta,\
-&emsp;Nulla sapem (⁴) di nostro stato humano.
+&emsp;Nulla sapem (4) di nostro stato humano.
 
-³⁵ Quando se appropinquant, et sunt, totus est vanus\
+35 Quando se appropinquant, et sunt, totus est vanus\
 &emsp;Noster intellectus, et si alter non nobis apportat,\
 &emsp;Nihil scimus de vestro statu humano.
 
-³⁶ Però comprendere puoi che tutta morta\
+36 Però comprendere puoi che tutta morta\
 &emsp;Fie nostra conoscenza, da quel puncto\
 &emsp;Che del futuro fie chiusa la porta.
 
-³⁶ Ergo comprehendere potes quod tota mortua\
+36 Ergo comprehendere potes quod tota mortua\
 &emsp;Erit nostra cognitio, ab illo puncto\
 &emsp;Et futuri erit clausa porta.
 
-(¹) che ha — (²) vedere — (³) venute — (⁴) sappiamo.
+(1) che ha — (2) vedere — (3) venute — (4) sappiamo.
 
 Eius tempore dominus Octavianus de Ubaldinis fuit cardinalis, qui quasi regebat totam curiam romanam, qui favebat Imperatori et detrahebat Pape, favebat parti gebelline et persequebatur partem guelfam. Habuit dicere: Si mille animas haberem, omnes sponte perderem amore partis gebelline. Isti duo Frederici, scilicet Imperator et iste Cardinalis, fuerunt epicur[e]i, non credentes alium mundum esse nisi presentem; et ideo auctor ponit eos in istis sepulchris dampnatos cum Epicuro et sequacibus eiusdem. Admodum ad textum redeamus.
 
@@ -430,63 +430,63 @@ Nos videmus, sicut illi qui habent malam lucem, res, dixit, que sunt nobis a lon
 
 <!-- p. 140 (0194) -->
 
-³⁷ Allor, come di mia colpa compuncto,\
+37 Allor, come di mia colpa compuncto,\
 &emsp;Diss'io: Or direte a quel caduto\
-&emsp;Che 'l nato suo è co'vivi ancor giunto (¹).
+&emsp;Che 'l nato suo è co'vivi ancor giunto (1).
 
-³⁷ Tunc, tamquam vita culpa compunctus,\
+37 Tunc, tamquam vita culpa compunctus,\
 &emsp;Dixi: Or dicetis illi qui cecidit, quod suus natus\
 &emsp;Est inter vivos adhuc coniunctus.
 
-³⁸ E s'io fui dianzi a la risposta muto,\
+38 E s'io fui dianzi a la risposta muto,\
 &emsp;Diteli ch'io 'l fei, perch'io pensava\
 &emsp;Già nell'errore che m'avete soluto.
 
-³⁸ Et si ego fui ante responsum mutus,\
+38 Et si ego fui ante responsum mutus,\
 &emsp;Facias scire ei quod feci, quia cogitabam\
 &emsp;Iam in errore quem michi solvistis.
 
-³⁹ E già 'l maestro mio mi richiamava:\
+39 E già 'l maestro mio mi richiamava:\
 &emsp;Perch'io pregai lo spirito più vaccio\
 &emsp;Che mi dicesse chi con lui stava.
 
-³⁹ Et iam magister meus me revocabat:\
+39 Et iam magister meus me revocabat:\
 &emsp;Ex quo ego rogavi spiritum magis cito,\
 &emsp;Quod michi diceret qui cum eo stabant.
 
-⁴⁰ Dissemi: Qui con più di mille giaccio:\
+40 Dissemi: Qui con più di mille giaccio:\
 &emsp;Qua dentro è 'l secondo Fedrerico,\
 &emsp;E 'l cardinale, e degl'altri mi taccio.
 
-⁴⁰ Dixit michi: Hic plusquam cum mille iaceo:\
+40 Dixit michi: Hic plusquam cum mille iaceo:\
 &emsp;Hic intus est secundus Fredericus,\
 &emsp;Et cardinalis, et de aliis taceo.
 
-⁴¹ Indi s'ascose: et io inver l'antico\
+41 Indi s'ascose: et io inver l'antico\
 &emsp;Poeta volsi e passi, ripensando\
 &emsp;A quel parlar che mi parea nimico.
 
-⁴¹ Postea se abscondit, et ego versus antiquum\
+41 Postea se abscondit, et ego versus antiquum\
 &emsp;Poetam volvi passus, recogitando ad illum sermonem\
 &emsp;Qui michi apparebat inimicus.
 
-⁴² Et el si mosse; e poi così andando,\
+42 Et el si mosse; e poi così andando,\
 &emsp;Mi disse: Perchè se' così smarrito?\
 &emsp;Et io li satisfeci al suo dimando.
 
-⁴² Ipse se movit; et postea sic eundo,\
+42 Ipse se movit; et postea sic eundo,\
 &emsp;Michi dixit: Quare es tu ita territus?\
 &emsp;Et ego ei satisfeci ad suam requisitionem.
 
-⁴³ La mente tua conservi quel ch'ai udito\
+43 La mente tua conservi quel ch'ai udito\
 &emsp;Incontr'a te, ne cominciò quel saggio,\
 &emsp;Et hor attende qui: e drizzò 'l dito.
 
-⁴³ Mens tua conservet illud quod audisti\
+43 Mens tua conservet illud quod audisti\
 &emsp;Contra te, michi mandavit ille sapiens,\
 &emsp;Et nunc attendas hic: et direxit digitum.
 
-(¹) al. co' vivi congiunto.
+(1) al. co' vivi congiunto.
 
 rem a longe melius quam de propinquo: licet nulla res possit videri nisi cum debita distantia. Nam sensibile, positum supra sensum, corrumpit sensum, idest non permictit fieri sensationem: sic dixit Aristotiles, secundo libro De anima. Etiam si res visibilis esset nimis a longe, non videretur; sed oportet quod sit debita distantia. Adhuc, hiis datis, sicut requiruntur que ab hiis qui vident bene et habent bonum visum, tamen sunt aliqui qui non habent usquequaque bonum visum, qui minus male vident in aliquali maiori distantia quam illi qui habent competentem visum. Tertio notandum, quod isti modo confitentur in Inferno se habere omnem lucem, si aliquam habent, a summo duce, idest Deo; quod viventes in mundo non concessissent. Quarto est notandum, quod illi qui sunt in Inferno, nihil sciunt de factis presentis mundi, nisi eis vel reveletur a Deo, vel ab angelis, vel a demonibus, vel ab aliqua anima noviter descensa ad Infernum; et quecumque revelantur dampnatis, revelantur ad augmentum penarum suarum. Sexto est notandum, quod dubium auctoris evenit quod unus istorum videbatur scire futura, sicut Farinata predicens sibi auctori futura, ille alter, scilicet dominus Cavalcantes, videbatur ignorare presentia, quando interrogavit Dantem, quid esset de filio suo domino Guidone, qui tamen vivebat et vixit, licet modicum, postquam auctor fecit istum librum, hoc opus. Et propter istud dubium, ortum in mente auctoris, Dantes tardavit respondere domino Cavalcanti; et quia ille cecidit in sepulchrum, ex eo quod Dantes nec dedit responsionem cito, ideo Dantes fuit compunctus, idest compaxus illi domino Cavalcanti.
 
@@ -500,20 +500,20 @@ Demum, sic eundo, michi dixit: Quare tu es ita territus? Et ego satisfeci petiti
 
 <!-- p. 141 (0195) -->
 
-⁴⁴ Quando sarai dinanzi al dolce raggio\
+44 Quando sarai dinanzi al dolce raggio\
 &emsp;Di quella el cui bell'ochio tutto vede,\
 &emsp;Da lei saprai di tua vita el viaggio.
 
-⁴⁴ Quando eris ante dulcem radium\
+44 Quando eris ante dulcem radium\
 &emsp;Illius, cuius pulcher oculus totum videt,\
 &emsp;Ab ea scies tue vite iter.
 
-⁴⁵ Apresso mosse a man sinistra el piede,\
+45 Apresso mosse a man sinistra el piede,\
 &emsp;Lasciammo el muro, e gimmo inver lo mezzo\
 &emsp;Per un sentier che una valle fiede,\
 &emsp;Che 'n fin lassù facea spiacer suo lezzo.
 
-⁴⁵ Postmodum vertit ad manum sinistram pedem,\
+45 Postmodum vertit ad manum sinistram pedem,\
 &emsp;Dimisimus murum, et ivimus versus medium\
 &emsp;Per unam semitam que in unam vallem ferit,\
 &emsp;Que usque illuc faciebat displicere suum fetorem.

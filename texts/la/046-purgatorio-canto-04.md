@@ -8,19 +8,19 @@ In isto quarto capitulo, quod incipit: Quando per delectacionem, rel per dolorem
 
 # Capitulum Quartum
 
-¹ Quando per dilectanze over per dogle,\
+1 Quando per dilectanze over per dogle,\
 &emsp;Ch'alcuna virtù nostra comprehenda,\
 &emsp;L'anima ben ad essa si raccogle,
 
-¹ Quando per delectationes sive dolores,\
+1 Quando per delectationes sive dolores,\
 &emsp;Quas aliqua virtus nostra comprehendat,\
 &emsp;Anima bene ad ipsam colligit se,
 
-² Par ch'a nulla potenza più intenda;\
+2 Par ch'a nulla potenza più intenda;\
 &emsp;E questo è contra quell'error, che crede\
 &emsp;Ch'un'anima sovr'altra in noi s'accenda.
 
-² Apparet quod nulli plus intendat;\
+2 Apparet quod nulli plus intendat;\
 &emsp;Et istud est contra illum errorem, qui credit\
 &emsp;Quod una anima super aliam accendatur.
 
@@ -44,55 +44,55 @@ Circa primam partem huius capituli notandum est, quod in hoc capitulo tractatur 
 
 <!-- p. 469 (0523) -->
 
-³ E però, quando s'ode cosa o vede,\
+3 E però, quando s'ode cosa o vede,\
 &emsp;Che tenga forte a sè l'anima volta,\
 &emsp;Vassene 'l tempo, e l'huom non se n'avvede,
 
-³ Et ideo, quando auditur res vel videtur,\
+3 Et ideo, quando auditur res vel videtur,\
 &emsp;Que teneat fortiter ad se animam conversam,\
 &emsp;Transit tempus, et homo de illo non percipit,
 
-⁴ Ch'altra potentia è quella ch'ell'ascolta,\
+4 Ch'altra potentia è quella ch'ell'ascolta,\
 &emsp;Et altra è quella ch'à l'anima intera;\
 &emsp;Quest'è quasi legata, e quell'è sciolta.
 
-⁴ Quia alia est potentia que auscultat,\
+4 Quia alia est potentia que auscultat,\
 &emsp;Et alia est que animam integrat:\
 &emsp;Ista est quasi ligata, et illa est soluta.
 
-⁵ Di ciò ebb'io experientia vera,\
+5 Di ciò ebb'io experientia vera,\
 &emsp;Vedendo quello spirto et ammirando:\
 &emsp;Chè ben cinquanta gradi salito era
 
-⁵ De hoc ego habui experientiam veram,\
+5 De hoc ego habui experientiam veram,\
 &emsp;Audiendo illum spiritum et admirando:\
 &emsp;Quod bene quinquaginta gradus ascenderat
 
-⁶ Lo sol, et io non m'era accorto, quando\
+6 Lo sol, et io non m'era accorto, quando\
 &emsp;Venimmo dove quell'anime ad una\
 &emsp;Gridaro a noi: Qui è vostro dimando.
 
-⁶ Sol, et ego non perpenderam, quando\
+6 Sol, et ego non perpenderam, quando\
 &emsp;Venimus ubi anime ille una\
 &emsp;Clamaverunt ad nos: Hic est vestra petitio.
 
-⁷ Maggior aperte molte ha facto impruna,\
+7 Maggior aperte molte ha facto impruna,\
 &emsp;Con una forcutella di sue spine,\
 &emsp;Huom de la villa, quando l'uva imbruna,
 
-⁷ Maiorem aperturam millies imprunat,\
+7 Maiorem aperturam millies imprunat,\
 &emsp;Cum una forcatella suarum spinarum,\
 &emsp;Homo de villa, quando uva denigratur,
 
-⁸ Che non era la calle, onde saline\
+8 Che non era la calle, onde saline\
 &emsp;Lo duca mio et io appresso soli,\
 &emsp;Come la schiera da noi si partine.
 
-⁸ Quam erat illa callis, unde ascendit\
+8 Quam erat illa callis, unde ascendit\
 &emsp;Dux meus et ego prope soli,\
 &emsp;Statim quod nobis schiera recessit.
 
-(¹) al. volte.
+(1) al. volte.
 
 qua maxime delectatur, vel tristatur, videtur ita quod ad nil aliud intendat. Modo si ipsa anima rationalis esset distincta realiter a sensitiva, dum vacaret uni rei, sensitiva vacaret alteri libere; sed si est eadem anima rationalis cum sensitiva realiter, tunc vacando uni rei non posset vacari alteri. Sic evenit auctori, dum fuit locutus cum rege Manfredo. Tantum stabat ipse auctor attentus ad verba ipsius Manfredi, quod sol ascendit multos gradus, nec de hoc perpenderet, nec perpendebat ipse auctor. Secundo notandum est, quod error est dicere, quod in nobis sint tres anime distincte realiter; sed est solum una, habens plures potentias. Tamen tertio notandum est, quod stat, hominem vivum fieri extaticum, idest tantum trahi in intellectu, quod cum sensibus extrinsecis nihil percipit secundum animam sensitivam. Utrum autem possibile sit, hominem astrahi, quod sicut nihil percipit per sensus exteriores, ita anima nutritiva habeat suspensam omnem operationem intrinsecam et extrinsecam, pro nunc relinquo talem difficultatem.
 
@@ -108,43 +108,43 @@ Maiorem aperturam, introytum vinee vel campi, millies imprunat, idest cum spinis
 
 <!-- p. 470 (0524) -->
 
-⁹ Vassi in San Leo, e discendesi in Noli;\
+9 Vassi in San Leo, e discendesi in Noli;\
 &emsp;Montasi su in Bismanto in Cachume,\
 &emsp;Con esso piè: ma qui convien ch'huom voli;
 
-⁹ Itur in Sanctum Leonem, et descenditur in Nolim;\
+9 Itur in Sanctum Leonem, et descenditur in Nolim;\
 &emsp;Ascenditur in Bismantuam et in Cacumen,\
 &emsp;Cum pedibus: sed hic convenit quod homo volet;
 
-¹⁰ Dico coll'hale snelle e colle piume\
+10 Dico coll'hale snelle e colle piume\
 &emsp;Del gran desio, dietro a quel condotto,\
 &emsp;Che speranza mi dava e facea lume.
 
-¹⁰ Dico cum alis levibus et cum plumis\
+10 Dico cum alis levibus et cum plumis\
 &emsp;Grandis desiderii, retro illum conductorem,\
 &emsp;Qui spem michi dabat et faciebat lumen.
 
-¹¹ Noi salivam per entro el sasso rotto,\
+11 Noi salivam per entro el sasso rotto,\
 &emsp;E d'ogni lato ne stringea l'extremo,\
 &emsp;E piedi e mani volgeva el suo disotto.
 
-¹¹ Nos ascendebamus per intra unum saxum ruptum,\
+11 Nos ascendebamus per intra unum saxum ruptum,\
 &emsp;Et ex omni latere nos stringebat extremum,\
 &emsp;Et manus et pedes volvebant subtus.
 
-¹² Quando noi fummo in sull'orlo supremo\
+12 Quando noi fummo in sull'orlo supremo\
 &emsp;Dell'alta ripa, alla scoperta piaggia:\
 &emsp;Maestro mio, diss'io, che via faremo?
 
-¹² Quando nos fuimus super orlum supremum\
+12 Quando nos fuimus super orlum supremum\
 &emsp;Alte ripe, in discooperta piaggia:\
 &emsp;Magister mi, dixi ego, quam viam faciemus?
 
-¹³ Et elli a me: Nessun tuo passo caggia;\
+13 Et elli a me: Nessun tuo passo caggia;\
 &emsp;Pur sus'al monte dietr'a me acquista,\
 &emsp;Finchè n'appaia alcuna scorta saggia.
 
-¹³ Et ipse ad me: Nullus tuus passus cadat;\
+13 Et ipse ad me: Nullus tuus passus cadat;\
 &emsp;Continue sursum ad montem prope me acquiras,\
 &emsp;Quousque nobis appareat aliquis conductor sapiens.
 
@@ -164,55 +164,55 @@ Et ipse ad me: Nullus tuus passus cadat: continue sursum ad montem post me acqui
 
 <!-- p. 471 (0525) -->
 
-¹⁴ Lo sommo er'alto che vincea la vista,\
-&emsp;E la costa superba (¹) più assai,\
+14 Lo sommo er'alto che vincea la vista,\
+&emsp;E la costa superba (1) più assai,\
 &emsp;Che da mezzo quadrante a centro lista.
 
-¹⁴ Summitas erat alta que vincebat visum,\
+14 Summitas erat alta que vincebat visum,\
 &emsp;Et ascensus superbus plus satis,\
 &emsp;Quam a medio quadrante ad ventrum lista.
 
-¹⁵ Io era lasso, quando cominciai:\
+15 Io era lasso, quando cominciai:\
 &emsp;O dolce padre, volgeti, e rimira\
 &emsp;Com'io rimango sol, se non restai.
 
-¹⁵ Ego eram fessus, quando incepi:\
+15 Ego eram fessus, quando incepi:\
 &emsp;O dulcis pater, volve te, et respice,\
 &emsp;Quomodo ego remaneo solus, si non desistis.
 
-¹⁶ O figliuol, disse, infin quivi ti tira,\
+16 O figliuol, disse, infin quivi ti tira,\
 &emsp;Et additommi un balzo poco in sue,\
 &emsp;Che da quel lato el poggio tutto gira.
 
-¹⁶ Fili mi, dixit, usque illuc te trahas,\
+16 Fili mi, dixit, usque illuc te trahas,\
 &emsp;Digito michi ostendendo unum balzum,\
 &emsp;Qui ab illo latere podium totum circuit.
 
-¹⁷ Sì mi spronaron (²) le parole sue,\
+17 Sì mi spronaron (2) le parole sue,\
 &emsp;Che mi sforzai, carpando presso lui,\
 &emsp;Tanto che l'anghio sotto a' piè mi fue.
 
-¹⁷ Sic me impullerunt verba sua,\
+17 Sic me impullerunt verba sua,\
 &emsp;Quod me ipsum coegi, carpendo prope eum,\
 &emsp;Tantum quod cingulum subtus pedibus meis fuit.
 
-¹⁸ Ponemmoci a seder lì (³) amendue\
+18 Ponemmoci a seder lì (3) amendue\
 &emsp;Volti a levante, ond'eravam saliti,\
 &emsp;Che suol a riguardar giovar altrue.
 
-¹⁸ Ad sedendum nos posuimus ibi ambo\
+18 Ad sedendum nos posuimus ibi ambo\
 &emsp;Conversi ad orientem, unde ascenderamus,\
 &emsp;Quia solet ad respiciendum prodesse hominibus.
 
-¹⁹ Gl'ochi prima drizzai a' bassi liti;\
+19 Gl'ochi prima drizzai a' bassi liti;\
 &emsp;Poscia gl'alzai al sole, et ammirava\
 &emsp;Che da sinistra n'eravam feriti.
 
-¹⁹ Oculos prius direxi ad lictora yma;\
+19 Oculos prius direxi ad lictora yma;\
 &emsp;Postmodum illos elevavi ad solem, et admirabar\
 &emsp;Quod ad sinistram eramus feriti.
 
-(¹) Era — (²) al. spronavan. — (³) al. ivi.
+(1) Era — (2) al. spronavan. — (3) al. ivi.
 
 Summitas erat alta, que vincebat visum : idest summitas montis erat ita alta, quod vix poteramus respicere summitatem eius; et ascensus superbus, idest difficilis plus satis, quam a medio quadrante ad centrum lista. Nota quod quadrans est quarta pars circuli. Modo si protrahatur una linea a quadrante ad centrum, non posset magis recte pendere, sicut patet hic in figura, etc.
 
@@ -236,43 +236,43 @@ Oculos prius direxi ad lictora yma, postmodum illos elevavi ad solem, et admirab
 
 <!-- p. 472 (0526) -->
 
-²⁰ Ben si avvide 'l poeta, ch'io stava\
+20 Ben si avvide 'l poeta, ch'io stava\
 &emsp;Stupido tutto al carro de la luce,\
 &emsp;Dove tra noi et Aquilone intrava.
 
-²⁰ Bene perpendit poeta, quod ego stabam\
+20 Bene perpendit poeta, quod ego stabam\
 &emsp;Stupidus totus ad currum lucis,\
 &emsp;Ubi intra nos et Aquilonem intrabat.
 
-²¹ Ond'elli a me: Se Castor e Polluce\
+21 Ond'elli a me: Se Castor e Polluce\
 &emsp;Fosser in compagnia di quello specchio,\
 &emsp;Che su e giù del suo lume conduce,
 
-²¹ Et ipsi ad me: Si Castor et Polux\
+21 Et ipsi ad me: Si Castor et Polux\
 &emsp;Essent in societate illius speculi,\
 &emsp;Quod sursum et deorsum de suo lumine conducit,
 
-²² Tu yederesti 'l zodiaco rubechio\
+22 Tu yederesti 'l zodiaco rubechio\
 &emsp;Ancor a l'Orse più stretto rotare,\
 &emsp;Se non uscisse fuor del cammin vecchio.
 
-²² Tu videres zodiacum rubechium\
+22 Tu videres zodiacum rubechium\
 &emsp;Adhuc ad Ursas strictius rotare,\
 &emsp;Nisi exiret extra iter antiquum.
 
-²³ Come ciò sia, se 'l vuo' poter pensare,\
+23 Come ciò sia, se 'l vuo' poter pensare,\
 &emsp;Dentro raccolto ymagina Syon\
 &emsp;Con questo monte in su la terra stare
 
-²³ Quomodo hoc sit, si tu vis id posse cogitare,\
+23 Quomodo hoc sit, si tu vis id posse cogitare,\
 &emsp;Intra te intentus, ymagineris Syon\
 &emsp;Cum isto monte super terram stare.
 
-²⁴ Sì, ch'amendue han un sol oryzon,\
+24 Sì, ch'amendue han un sol oryzon,\
 &emsp;E diversi hemisperii: onde la strada,\
 &emsp;Che mal non seppe corregger Phetón,
 
-²⁴ Ita, quod ambo habeant unum solum orizonta,\
+24 Ita, quod ambo habeant unum solum orizonta,\
 &emsp;Et diversa emispiria: unde est strata,\
 &emsp;Per quam male scivit currum trahere Phetont.
 
@@ -284,67 +284,67 @@ Quomodo hoc sit, si vis id posse cogitare, intra scilicet te, idest in mente tua
 
 <!-- p. 473 (0527) -->
 
-²⁵ Vedrai come costui convien che vada\
+25 Vedrai come costui convien che vada\
 &emsp;Da l'un, quando colui da l'altro canco,\
 &emsp;Se lo'ntellecto tuo ben chiaro bada.
 
-²⁵ Videbis quomodo convenit isti quod vadat\
+25 Videbis quomodo convenit isti quod vadat\
 &emsp;Ad unum, quando illi ad aliud latus,\
 &emsp;Si intellectus tuus bene clare intuetur.
 
-²⁶ Certo, maestro mio, diss'io, unquanco\
+26 Certo, maestro mio, diss'io, unquanco\
 &emsp;Non vidi chiaro sì, com'io discerno,\
 &emsp;Là dove mio ingegno parea manco:
 
-²⁶ Certe, magister mi, dixi ego, unquam\
+26 Certe, magister mi, dixi ego, unquam\
 &emsp;Non vidi clare sicut nunc ego discerno,\
 &emsp;Ubi meum ingenium apparebat deficere:
 
-²⁷ Chè 'l mezzo cerchio del monte superno,\
+27 Chè 'l mezzo cerchio del monte superno,\
 &emsp;Che si chiama Equator, in alcun'arte,\
 &emsp;E che sempre riman tra 'l sole e 'l verno,
 
-²⁷ Quia medius circulus motus superni,\
+27 Quia medius circulus motus superni,\
 &emsp;Qui vocatur Equator, in aliqua arte,\
 &emsp;Et qui semper remanet inter solem et yemem,
 
-²⁸ Per la ragion che di', quinci si parte\
+28 Per la ragion che di', quinci si parte\
 &emsp;Verso septentrion, quando gl'Hebrei\
 &emsp;Vedevan lui verso la calda parte.
 
-²⁸ Propter rationem que [dicta est a te], hinc recedit\
+28 Propter rationem que [dicta est a te], hinc recedit\
 &emsp;Versus septemtrionem, quando Hebrei\
 &emsp;Videbant illum versus callidam partem.
 
-²⁹ Ma se a te piace, volentier saprei\
+29 Ma se a te piace, volentier saprei\
 &emsp;Quand'havemo ad andar, che 'l poggio sale\
 &emsp;Più che salir non posson gl'occhi miei.
 
-²⁹ Sed si tibi placet, libenter scirem\
+29 Sed si tibi placet, libenter scirem\
 &emsp;Quantum debemus ire, quia podium ascendit\
 &emsp;Plusquam ascendere possint oculi mei.
 
-³⁰ Et elli a me: Questa montagna è tale\
+30 Et elli a me: Questa montagna è tale\
 &emsp;Che sempre al cominciar di sotto è grave,\
 &emsp;E quanto più va in suso men fa male.
 
-³⁰ Et ipse ad me: Ista montanea est talis,\
+30 Et ipse ad me: Ista montanea est talis,\
 &emsp;Quod semper in principio inferius est gravis,\
 &emsp;Et quanto homo plus vadit sursum minus malum facit.
 
-³¹ Però quand' ella ti parrà suave\
+31 Però quand' ella ti parrà suave\
 &emsp;Tanto, che 'n andar ti fie leggiero,\
 &emsp;Com' a seconda giù andar per nave;
 
-³¹ Ideo quando ipsa apparebit tibi suavis\
+31 Ideo quando ipsa apparebit tibi suavis\
 &emsp;Tantum, quod sursum ire sit tibi leve,\
 &emsp;Sicut ad secundam inferius ire per navim;
 
-³² Allor sarai alfin d'esto sentiero:\
+32 Allor sarai alfin d'esto sentiero:\
 &emsp;Quivi di riposar l'affanno aspecta.\
 &emsp;Più non rispondo, e questo so per vero.
 
-³² Tunc eris in fine istius semite:\
+32 Tunc eris in fine istius semite:\
 &emsp;Ubi quiescere de labore tuo expectes.\
 &emsp;Plus non respondeo, et hoc scio pro certo.
 
@@ -358,47 +358,47 @@ Et ipse ad me: Ista montanea est talis, quod semper in principio, scilicet ascen
 
 <!-- p. 474 (0528) -->
 
-³³ Com' egl' ebbe suo parola decta,\
+33 Com' egl' ebbe suo parola decta,\
 &emsp;Una voce di presso sonò: Forse\
 &emsp;Che di seder in prima havrai strecta.
 
-³³ Et statim sicut ipse suum verbum dixerat,\
+33 Et statim sicut ipse suum verbum dixerat,\
 &emsp;Et una vox de propinquo sonavit: Forsan\
 &emsp;Quod sedere habebis prius necesse.
 
-³⁴ Al suon di lei ciascun di noi si torse,\
+34 Al suon di lei ciascun di noi si torse,\
 &emsp;E vedemmo a mancina un gran petrone,\
-&emsp;Del qual nè io nè lui (¹) prima si accorse.
+&emsp;Del qual nè io nè lui (1) prima si accorse.
 
-³⁴ Ad sonum illius quilibet nostrum se torsit,\
+34 Ad sonum illius quilibet nostrum se torsit,\
 &emsp;Et vidimus ad sinistram unum grandem lapidem,\
 &emsp;De quo nec ipse nec ego prius perpenderamus.
 
-³⁵ Là ci traemmo; et ivi eran persone\
+35 Là ci traemmo; et ivi eran persone\
 &emsp;Che si stavan all'ombra dietr' al sasso,\
 &emsp;Com' huom per negligentia a star si pone.
 
-³⁵ Illuc nos traximus; et hic erant persone\
+35 Illuc nos traximus; et hic erant persone\
 &emsp;Que stabant ad umbram retro saxum,\
 &emsp;Sicut homo propter negligentiam ad standum se ponit.
 
-³⁶ Et un di lor che mi sembrava lasso,\
+36 Et un di lor che mi sembrava lasso,\
 &emsp;Sedeva et abbracciava le ginochia,\
 &emsp;Tenendo 'l viso giù tra esse basso.
 
-³⁶ Et unus de ipsis qui apparebat michi lapsus,\
+36 Et unus de ipsis qui apparebat michi lapsus,\
 &emsp;Sedebat et amplexebatur genua,\
 &emsp;Tenendo visum infra intra ipsa declivum.
 
-³⁷ O dolce (²) signor mio, diss' io, adochia\
+37 O dolce (2) signor mio, diss' io, adochia\
 &emsp;Colui che mostra sè più negligente,\
 &emsp;Che se pigritia fosse sua sorochia.
 
-³⁷ O dulcis domine mi, dixi ego, respice\
+37 O dulcis domine mi, dixi ego, respice\
 &emsp;Illum qui monstrat se magis negligentem,\
 &emsp;Quam si pigritia esset sua soror.
 
-(¹) al. nè ei, nè io. — (²) al. De dolce.
+(1) al. nè ei, nè io. — (2) al. De dolce.
 
 secundam inferius ire per navim, tunc eris in fine istius semite: ibi quiescere de labore tuo expectes. Plus non respondeo; et hoc scio pro certo.
 
@@ -418,71 +418,71 @@ O dulcis domine mi, dixi ego, oculeris, idest respicias, illum, qui monstrat se 
 
 <!-- p. 475 (0529) -->
 
-³⁸ Allor si volse a noi, e pose mente,\
+38 Allor si volse a noi, e pose mente,\
 &emsp;Movendo 'l viso pur su per la coscia,\
 &emsp;E disse: Or va'su tu, che se'valente.
 
-³⁸ Tunc se convertit ad nos, et posuit mentem,\
+38 Tunc se convertit ad nos, et posuit mentem,\
 &emsp;Movendo visum solum super tibia,\
 &emsp;Et dixit: Or vade sursum tu, qui es ita valens.
 
-³⁹ Cognobbi allor chi era; e quella angoscia,\
+39 Cognobbi allor chi era; e quella angoscia,\
 &emsp;Che m'avvacciava un poco ancor la lena,\
 &emsp;Non m'impedia l'andar a lui; e poscia
 
-³⁹ Cognovi tunc quis erat; et illa angustia,\
+39 Cognovi tunc quis erat; et illa angustia,\
 &emsp;Que michi festinabat adhuc aliquantulum anhelitum,\
 &emsp;Non me impedivit ire ad eum; et postea
 
-⁴⁰ Ch'allui fui giunto, alzò la testa a pena,\
+40 Ch'allui fui giunto, alzò la testa a pena,\
 &emsp;Dicendo: Hai ben veduto, come 'l sole\
 &emsp;Dall'humero sinistro el carro mena?
 
-⁴⁰ Quum ad eum perveni, elevavit caput vix,\
+40 Quum ad eum perveni, elevavit caput vix,\
 &emsp;Dicendo: Vidisti bene, sicut sol\
 &emsp;Ad humerum sinistrun currum ducit?
 
-⁴¹ Gl'atti suoi pigri e le corte parole\
+41 Gl'atti suoi pigri e le corte parole\
 &emsp;Mosser le labbra mie un poco a riso;\
 &emsp;Poi cominciai: Belacqua, a me non duole
 
-⁴¹ Actus sui pigri et brevia verba\
+41 Actus sui pigri et brevia verba\
 &emsp;Moverunt labia mea aliquantulum ad risum;\
 &emsp;Postea incepi: Bivilaqua, michi non dolet
 
-⁴² Di te omai; ma dimmi perchè assiso\
+42 Di te omai; ma dimmi perchè assiso\
 &emsp;Qui ritto se'? attendi tu la scorta,\
 &emsp;O pur lo modo usato t' hai ripriso?
 
-⁴² De te ammodo; sed dic quare ad sedendum\
+42 De te ammodo; sed dic quare ad sedendum\
 &emsp;Positus hic es? Expectas hic conductorem,\
 &emsp;Vel pur antiquus modus te reaprehendit?
 
-⁴³ Et elli: O frate, l'andar in su che porta?\
+43 Et elli: O frate, l'andar in su che porta?\
 &emsp;Chè non mi lasserebbe ir a martiri\
-&emsp;L'uccel di Dio (¹) che siede in su la porta.
+&emsp;L'uccel di Dio (1) che siede in su la porta.
 
-⁴³ Et ipse: O frater, ire sursum quod portat?\
+43 Et ipse: O frater, ire sursum quod portat?\
 &emsp;Quia non permicteret me ire ad martyria\
 &emsp;Avis Dei que sedit super portam.
 
-⁴⁴ Prima convien che tanto 'l ciel m'aggiri\
-&emsp;Di fuor da essa (²), quant'io feci in vita,\
+44 Prima convien che tanto 'l ciel m'aggiri\
+&emsp;Di fuor da essa (2), quant'io feci in vita,\
 &emsp;Perch'indugiai al fin e buon sospiri;
 
-⁴⁴ Prius convenit quod tantum celum me circuat\
+44 Prius convenit quod tantum celum me circuat\
 &emsp;Extra ipsum, quantum feci in vita,\
 &emsp;Quia distuli ad finem bona suspiria;
 
-⁴⁵ Se oration in prima non m'aita,\
+45 Se oration in prima non m'aita,\
 &emsp;Che surga su di cuor che 'n gratia viva;\
-&emsp;L'altra che (³) val, che 'n ciel non è udita?
+&emsp;L'altra che (3) val, che 'n ciel non è udita?
 
-⁴⁵ Si oratio prius me non adiuvat,\
+45 Si oratio prius me non adiuvat,\
 &emsp;Que ascendat sursum de corde quod in gratia vivat;\
 &emsp;Alia quid valet, que in celo non auditur?
 
-(¹) al. l'Angel. — (²) porta. — (³) al. non.
+(1) al. l'Angel. — (2) porta. — (3) al. non.
 
 Tunc se convertit ad nos et posuit mentem, idest prospexit, movendo visum solum super tibia, et dixit : Or vade sursum tu, qui es ita valens. Designanter loquitur, quasi dicat : Tu, qui es ita sollicitus, iam vade, quia tamen non obtinebis quod queris.
 
@@ -498,12 +498,12 @@ Prius convenit, idest oportet, quod tantum celum me circuat extra ipsum, quantum
 
 <!-- p. 476 (0530) -->
 
-⁴⁶ E già'l poeta innanzi mi saliva,\
+46 E già'l poeta innanzi mi saliva,\
 &emsp;E dicea: Vieni, omai, vedi ch'è tocho\
 &emsp;Meridian del sol, chè a la riva\
 &emsp;Cuopre la nocte già col piè Morocho.
 
-⁴⁶ Et iam poeta ante me ascendebat,\
+46 Et iam poeta ante me ascendebat,\
 &emsp;Dicendo: Venias ammodo, videas quod ego tango\
 &emsp;Meridianum solis, quiu in ripa\
 &emsp;Cooperit nox iam cum pede Morochium.

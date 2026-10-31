@@ -8,31 +8,31 @@ In septimo capitulo, scilicet in isto, quod incipit: Postquam caripendia, etc., 
 
 # Capitulum Septimum
 
-¹ Posciachè l'accoglienze honeste e liete\
-&emsp;Fur (¹) iterate tre e quattro volte,\
+1 Posciachè l'accoglienze honeste e liete\
+&emsp;Fur (1) iterate tre e quattro volte,\
 &emsp;Sordel si trasse, e disse: Voi chi sete?
 
-¹ Postquam accol lectiones honeste et lete\
+1 Postquam accol lectiones honeste et lete\
 &emsp;Fuerunt iterate tribus et quatuor vicibus,\
 &emsp;Sordellus se traxit, et dixit: Vos qui estis?
 
-² Anzi ch'a questo monte fosser volte\
+2 Anzi ch'a questo monte fosser volte\
 &emsp;L'anime degne di salir a Dio,\
 &emsp;Fur le ossa mie per Octavian sepolte.
 
-² Priusquam ad hunc montem essent volute\
+2 Priusquam ad hunc montem essent volute\
 &emsp;Anime digne ascendendi ad Deum,\
 &emsp;Fuerunt ossa mea per Octavianum sepulta.
 
-³ Io son Virgilio; e per null'altro rio\
+3 Io son Virgilio; e per null'altro rio\
 &emsp;Lo ciel perdei, che per non haver fe'.\
 &emsp;Così rispose allora el duca mio.
 
-³ Ego sum Virgilius; et propter nullum alium defe-\
+3 Ego sum Virgilius; et propter nullum alium defe-\
 &emsp;Celum perdidi, quam quia non habui fidem. ctum\
 &emsp;Sic respondit tunc dux meus.
 
-(¹) furono.
+(1) furono.
 
 Postquam accol lectiones honeste. Poscia che l'accoglienze honeste: istud est septimum capitulum istius Purgatorii, in quo auctor tractat de quinta specie negligentium, qui, propter dignitates et dominia impediti, tardaverunt penitentiam usque ad mortem; et dividitur in quatuor partes. In quarum prima, continuando dicta dicendis, ponit interrogationem factam a Sordello Virgilio et collationem quamdam inter eos.
 
@@ -60,71 +60,71 @@ Ego sum Virgilius; et propter nullum alium defectum celum perdidi, quam quia non
 
 <!-- p. 503 (0557) -->
 
-⁴ Qual è colui che cosa innanti (¹) sè\
+4 Qual è colui che cosa innanti (1) sè\
 &emsp;Subita vede, ond'ei si maravigla,\
 &emsp;E crede e no, dicendo: Ell'è, non è;
 
-⁴ Qualis ille qui rem ante se\
+4 Qualis ille qui rem ante se\
 &emsp;Subito videt, unde ipse miratur,\
 &emsp;Qui credit et non, dicendo: Ipsa est, et non est;
 
-⁵ Tal parve quelli, e poi chinò le cigla,\
+5 Tal parve quelli, e poi chinò le cigla,\
 &emsp;Et humilmente ritornò ver lui,\
-&emsp;Ed abbracciollo ove 'l minor s'appigla (²).
+&emsp;Ed abbracciollo ove 'l minor s'appigla (2).
 
-⁵ Talis apparuit ille, et postea inclinavit supercilia,\
+5 Talis apparuit ille, et postea inclinavit supercilia,\
 &emsp;Et humiliter redivit versus eum,\
 &emsp;Et amplexus est eum ubi minor amplectitur.
 
-⁶ O gloria de'Latin, disse, per cui\
+6 O gloria de'Latin, disse, per cui\
 &emsp;Mostrò ciò che potea la lingua nostra,\
 &emsp;O pregio eterno del loco ond'io fui,
 
-⁶ O gloria Latinorum, dixit, per quem monstravit\
+6 O gloria Latinorum, dixit, per quem monstravit\
 &emsp;Quidquid potuit lingua nostra,\
 &emsp;O pretium eternum loci unde ego fui,
 
-⁷ Qual merito, o qual gratia, mi ti mostra?\
+7 Qual merito, o qual gratia, mi ti mostra?\
 &emsp;S'io son d'udir le tue parole degno,\
 &emsp;Dimmi se vien d'Inferno, e di qual chiostra.
 
-⁷ Quale meritum, vel qualis gratia, michi te monstravit?\
+7 Quale meritum, vel qualis gratia, michi te monstravit?\
 &emsp;Si ego sum audire verba tua dignus,\
 &emsp;Dic michi si venis de Inferno, et de quali claustro.
 
-⁸ Per tutti e cerchi del dolente regno,\
+8 Per tutti e cerchi del dolente regno,\
 &emsp;Rispose lui, son io di qua venuto:\
-&emsp;Virtù del ciel mi mosse, e con (³) lei vegno.
+&emsp;Virtù del ciel mi mosse, e con (3) lei vegno.
 
-⁸ Per omnes circulos dolentis regni,\
+8 Per omnes circulos dolentis regni,\
 &emsp;Respondit ipse, ad istum locum ego veni:\
 &emsp;Virtus de celo me movit, et cum ipsa venio.
 
-⁹ Non per far (⁴), ma per non far (⁵), ho io perduto\
+9 Non per far (4), ma per non far (5), ho io perduto\
 &emsp;El veder l'alto sol che tu desiri,\
 &emsp;E che fu tardi da me conosciuto.
 
-⁹ Non propter facere, sed propter non facere, ego perdidi\
+9 Non propter facere, sed propter non facere, ego perdidi\
 &emsp;Ad videndum altum solem quem tu desideras,\
 &emsp;Et qui fuit tarde a me cognitus.
 
-¹⁰ Luogo è laggiù non tristo da tormenti,\
+10 Luogo è laggiù non tristo da tormenti,\
 &emsp;Ma di tenebre sol, ove lamenti\
 &emsp;Non suonan come guai, ma son sospiri.
 
-¹⁰ Locus est ibi inferius non tristis ex martyriis,\
+10 Locus est ibi inferius non tristis ex martyriis,\
 &emsp;Sed ex tenebris solum, ubi lamenta\
 &emsp;Non sonant sicut lamentationes, sed cum suspiriis.
 
-¹¹ Quivi sto io cho'pargoli innocenti,\
+11 Quivi sto io cho'pargoli innocenti,\
 &emsp;Da' denti morsi de la morte, avante\
-&emsp;Che fusser dall'humana colpa (⁶) exenti.
+&emsp;Che fusser dall'humana colpa (6) exenti.
 
-¹¹ Ibi sto ego cum parvulis innocentibus,\
+11 Ibi sto ego cum parvulis innocentibus,\
 &emsp;A dentibus morsi mortis, ante\
 &emsp;Quam essent de humana culpa exempti.
 
-(¹) al. innanzi — (²) ad genua (³) al. per — (⁴) peccati — (⁵) bene — (⁶) originale.
+(1) al. innanzi — (2) ad genua (3) al. per — (4) peccati — (5) bene — (6) originale.
 
 Qualis, scilicet, devenit et apparet ille, qui rem ante se subitam videt, unde miratur, qui credit et non, scilicet credit, dicendo: Ipsa est, et non est; talis apparuit ille, et postea inclinavit supercilia, idest faciem, et humiliter redivit versus ipsum, et amplexus est eum, ubi minor, scilicet, maiorem, amplectitur, et hoc ad denotandum reverentiam maioribus exibendam.
 
@@ -142,71 +142,71 @@ Ibi sto ego cum parvulis innocentibus, a dentibus morsi mortis, antequam essent 
 
 <!-- p. 504 (0558) -->
 
-¹² Quivi sto io con quei che le tre sante\
+12 Quivi sto io con quei che le tre sante\
 &emsp;Virtù non si vestiro, e senza vitio\
-&emsp;Conobber (¹) l' altre e seguir (²) tutte quante.
+&emsp;Conobber (1) l' altre e seguir (2) tutte quante.
 
-¹² Ibi sum ego cum illis qui tres sanctas\
+12 Ibi sum ego cum illis qui tres sanctas\
 &emsp;Virtutes se non vestierunt, et sine vitio\
 &emsp;Cognoverunt alias, et secuti sunt omnes illas.
 
-¹³ Ma se tu sai e puoi, alcuno inditio\
-&emsp;Da'noi (³), perchè venir possiam più tosto\
+13 Ma se tu sai e puoi, alcuno inditio\
+&emsp;Da'noi (3), perchè venir possiam più tosto\
 &emsp;Là dove Purgatorio ha dritto initio.
 
-¹³ Sed si tu scis et potes, aliquid inditium\
+13 Sed si tu scis et potes, aliquid inditium\
 &emsp;Da nobis, propter quod venire possimus citius\
 &emsp;Illuc ubi Purgatorium habet rectum initium.
 
-¹⁴ Rispose: Certo luogo non c'è posto;\
+14 Rispose: Certo luogo non c'è posto;\
 &emsp;Lecito m'è andar suso et intorno;\
-&emsp;Per quanto ir posso, a (⁴) guida mi t'accosto.
+&emsp;Per quanto ir posso, a (4) guida mi t'accosto.
 
-¹⁴ Locus certius non est nobis positus, respondit;\
+14 Locus certius non est nobis positus, respondit;\
 &emsp;Licitum est michi ire sursum et circum;\
 &emsp;Per quantum ire possum, ad conducendum te tibi me adhereo.
 
-¹⁵ Ma vedi già come declina 'l giorno,\
+15 Ma vedi già come declina 'l giorno,\
 &emsp;Et andar su di nocte non si puote;\
 &emsp;Però è buon pensar di bel soggiorno.
 
-¹⁵ Sed vides iam quomodo declinat dies,\
+15 Sed vides iam quomodo declinat dies,\
 &emsp;Et iri sursum de nocte non potest;\
 &emsp;Ideo bonum est cogitare de pulchro soggiorno.
 
-¹⁶ Anime sono a dextra qui remote:\
+16 Anime sono a dextra qui remote:\
 &emsp;Se mi consenti, menerotti ad esse,\
 &emsp;E non senza dilecto ti fien note.
 
-¹⁶ Anime sunt ad dexteram hinc remote:\
+16 Anime sunt ad dexteram hinc remote:\
 &emsp;Si michi consentis, ego te ducam ad ipsas,\
 &emsp;Et non sine delectatione tibi erunt note.
 
-¹⁷ Come ciò fu risposto: Chi volesse\
+17 Come ciò fu risposto: Chi volesse\
 &emsp;Salir di notte, for'elli impedito\
-&emsp;D'altrui? o ver (⁵) saria che 'l non potesse?
+&emsp;D'altrui? o ver (5) saria che 'l non potesse?
 
-¹⁷ Statim sicut hoc fuit responsum: Si quis vellet\
+17 Statim sicut hoc fuit responsum: Si quis vellet\
 &emsp;Ascendere de nocte, esset ne ipse impeditus\
 &emsp;Ab aliquo? vel non esset nisi quia non posset?
 
-¹⁸ E 'l buon Sordello in terra fregò 'l dito,\
+18 E 'l buon Sordello in terra fregò 'l dito,\
 &emsp;Dicendo: Vedi, sola questa riga\
 &emsp;Non varcheresti dopo 'l sol partito;
 
-¹⁸ Et bonus Sordellus in terram pertraxit digitum,\
+18 Et bonus Sordellus in terram pertraxit digitum,\
 &emsp;Dicendo: Videas, solam istam rigam\
 &emsp;Non transires post solis recessum;
 
-¹⁹ Nè però ch'altra cosa desse briga,\
+19 Nè però ch'altra cosa desse briga,\
 &emsp;Che la nocturna tenebra, ad ir suso:\
 &emsp;Quella col non poter la vogla intriga.
 
-¹⁹ Non tamen quod alia res daret impedimentum,\
+19 Non tamen quod alia res daret impedimentum,\
 &emsp;Quam nocturne tenebre, ad eundum sursum:\
 &emsp;Iste cum non posse voluntatem intricant.
 
-(¹) colla inteligentia — (²) con operationi — (³) da nobis — (⁴) per — (⁵) vel.
+(1) colla inteligentia — (2) con operationi — (3) da nobis — (4) per — (5) vel.
 
 Ibi sum ego cum illis, qui tres sanctas virtutes, scilicet fidem, spem et caritatem, se non vestierunt, et sine vitio cognoverunt alias, scilicet fortitudinem, temperantiam, iustitiam et prudentiam, et secuti sunt illas omnes.
 
@@ -224,63 +224,63 @@ Et bonus Sordellus in terram pertraxit digitum, faciens signum, dicendo: Videas,
 
 <!-- p. 505 (0559) -->
 
-²⁰ Ben si porria con lei tornar in giuso,\
+20 Ben si porria con lei tornar in giuso,\
 &emsp;E passeggiar la costa intorno errando,\
 &emsp;Mentre che l'oryzonte el dì tien chiuso.
 
-²⁰ Bene posset cum ea reverti deorsum,\
+20 Bene posset cum ea reverti deorsum,\
 &emsp;Et passigiare montem circum errando,\
 &emsp;Interim quod orizon diem tenet clausum.
 
-²¹ Allora 'l mio signor, quasi ammirando:\
+21 Allora 'l mio signor, quasi ammirando:\
 &emsp;Menane, disse, dunque là du'dici\
 &emsp;Ch'aver si può dilecto dimorando.
 
-²¹ Tunc meus dux, quasi admirando:\
+21 Tunc meus dux, quasi admirando:\
 &emsp;Duc nos igitur, dixit, illuc ubi dicis\
 &emsp;Quod haberi potest delectatio commorando.
 
-²² Poco allungati c'eravam di lici,\
+22 Poco allungati c'eravam di lici,\
 &emsp;Quando m'accorsi che'l mont'era scemo,\
 &emsp;A guisa che e valloni sceman quici.
 
-²² Paucum elongati eramus inde,\
+22 Paucum elongati eramus inde,\
 &emsp;Quando ego perpendi quod mons erat scemus,\
 &emsp;Ad similitudinem vallium hic concavarum.
 
-²³ Colà, disse quell'ombra, n'anderemo\
+23 Colà, disse quell'ombra, n'anderemo\
 &emsp;Dove la costa face di sè grembo,\
-&emsp;E là lo novo giorno attenderemo (¹).
+&emsp;E là lo novo giorno attenderemo (1).
 
-²³ Illuc, dixit illa umbra, ibimus\
+23 Illuc, dixit illa umbra, ibimus\
 &emsp;Ubi illa costa facit de se grembum,\
 &emsp;Et ibi novum diem expectabimus.
 
-²⁴ Tra erta e pian (²) er'un (³) sentier schembo,\
+24 Tra erta e pian (2) er'un (3) sentier schembo,\
 &emsp;Che ne condusse in fianco de la laccha,\
 &emsp;Là ove più che mezzo muor'el lembo.
 
-²⁴ Inter altum et planum erat una semita scemba,\
+24 Inter altum et planum erat una semita scemba,\
 &emsp;Que nos conduxit in fiancum [lache],\
 &emsp;Ibi ubi plusquam in medio moritur lembum.
 
-²⁵ Oro et argento fino, coccho e biaccha,\
+25 Oro et argento fino, coccho e biaccha,\
 &emsp;Indico legno lucido e sereno,\
 &emsp;Fresco smaraldo allora chessi fiaccha,
 
-²⁵ Aurum et argentum finum, coccum et biaccha,\
+25 Aurum et argentum finum, coccum et biaccha,\
 &emsp;Indigum lignum lucidum et serenum,\
 &emsp;Recens smaragdum quando frangitur,
 
-²⁶ Dall'herba e fiori dentro da quel seno\
+26 Dall'herba e fiori dentro da quel seno\
 &emsp;Posti, ciascun saria di color vincto,\
 &emsp;Come da suo maggior è vincto el meno.
 
-²⁶ Ab herbis et floribus intra illum sinum\
+26 Ab herbis et floribus intra illum sinum\
 &emsp;Posita, quodlibet esset de colore victum,\
 &emsp;Sicut a suo maiore vincitur minor.
 
-(¹) aspecteremo — (²) piano — (³) era uno.
+(1) aspecteremo — (2) piano — (3) era uno.
 
 sursum. Iste, scilicet tenebre, cum non posse voluntatem intricant, idest implicant, vel impediunt. Tenebre: idest peccata, intricant voluntatem cum impotentia.
 
@@ -298,71 +298,71 @@ Notandum est, quod auctor in quarto capitulo Inferni conatus fuit multum describ
 
 <!-- p. 506 (0560) -->
 
-²⁷ Non haveva pur (¹) natura ivi dipincto,\
+27 Non haveva pur (1) natura ivi dipincto,\
 &emsp;Ma di suavità di mille odori\
-&emsp;Vi facea (²) un incognito et indistincto.
+&emsp;Vi facea (2) un incognito et indistincto.
 
-²⁷ Non solum ibi depinxerat natura,\
+27 Non solum ibi depinxerat natura,\
 &emsp;Sed de suavitate mille odorum\
 &emsp;Ibi faciebat unum incognitum et indistinctum.
 
-²⁸ Salve Regina, in sul verde (³) e 'n su'fiori\
-&emsp;Quindi (⁴) seder cantando anime vidi,\
+28 Salve Regina, in sul verde (3) e 'n su'fiori\
+&emsp;Quindi (4) seder cantando anime vidi,\
 &emsp;Che per la valle non parean di fori.
 
-²⁸ Salve Regina, super viridi et super floribus\
+28 Salve Regina, super viridi et super floribus\
 &emsp;Inde sedentes cantare animas audivi,\
 &emsp;Que per vallem non apparebant foris.
 
-²⁹ Prima che 'l poco sol omai s'annidi,\
+29 Prima che 'l poco sol omai s'annidi,\
 &emsp;Cominciò 'l Mantovan che n'avea volti,\
 &emsp;Tra color non vogliate ch'io vi guidi.
 
-²⁹ Priusquam paucum solis admodo anidet se,\
+29 Priusquam paucum solis admodo anidet se,\
 &emsp;Incepit loqui Mantuanus qui nos volverat,\
 &emsp;Inter istos non velitis quod ego vos ducam.
 
-³⁰ Di questo balzo meglo gl'acti e volti\
+30 Di questo balzo meglo gl'acti e volti\
 &emsp;Conoscerete voi di tutti quanti,\
 &emsp;Che ne la lama giù tra essi accolti.
 
-³⁰ De isto balzo melius actus et vultus\
+30 De isto balzo melius actus et vultus\
 &emsp;Cognoscetis vos omnium illorum,\
 &emsp;Quam in lama inferius intra ipsos accolti.
 
-³¹ Colui che più siede alto, e fa sembianti\
+31 Colui che più siede alto, e fa sembianti\
 &emsp;D'haver neglecto ciò che far dovea,\
 &emsp;E che non muove bocha agl'altrui canti,
 
-³¹ Ille qui magis sedet alte, et facit signa\
+31 Ille qui magis sedet alte, et facit signa\
 &emsp;Neglexisse id quod facere debebat,\
 &emsp;Et qui non movet os ad alios cantus,
 
-³² Ridolpho imperador fu, che poteva\
+32 Ridolpho imperador fu, che poteva\
 &emsp;Sanar le piaghe ch'ànno Italia morta\
-&emsp;Sì che tardi per altro (⁵) si ricrea (⁶).
+&emsp;Sì che tardi per altro (5) si ricrea (6).
 
-³² Rodulphus imperator fuit, qui poterat\
+32 Rodulphus imperator fuit, qui poterat\
 &emsp;Sanare plagas que Ytaliam mortificaverunt,\
 &emsp;Ita quod per alios tarde recreatur.
 
-³³ L'altro, che nella vista lui conforta,\
+33 L'altro, che nella vista lui conforta,\
 &emsp;Resse la terra dove l'acqua nasce,\
 &emsp;Che Molta in Albia, et Albia in mar ne porta:
 
-³³ Alter, qui in visu eum confortat,\
+33 Alter, qui in visu eum confortat,\
 &emsp;Rexit terram ubi nascitur aqua,\
 &emsp;Que ascendit in Albiam, et Albia in mare portat:
 
-³⁴ Otacchero ebbe nome, e ne le fasce\
+34 Otacchero ebbe nome, e ne le fasce\
 &emsp;Fu meglo assai, che Vincislao suo figlo\
 &emsp;Barbuto, cui luxuria et otio pasce.
 
-³⁴ Othocherus fuit sibi nomen, et in fasciis\
+34 Othocherus fuit sibi nomen, et in fasciis\
 &emsp;Fuit melior satis, quam Wenceslaus suus filius\
 &emsp;Barbutus, qui luxuria et otio pascitur.
 
-(¹) solamente — (²) la natura. — (³) herbette — (⁴) al. quivi — (⁵) imperador — (⁶) risuscita.
+(1) solamente — (2) la natura. — (3) herbette — (4) al. quivi — (5) imperador — (6) risuscita.
 
 Non solum ibi depinxerat natura, sed de suavitate mille odorum ibi faciebat unum incognitum indistinctum, propter varietatem tantarum rerum, odorifer[ar]um.
 
@@ -378,35 +378,35 @@ Demum descendit ad secundum spiritum, scilicet ad Othocherum, regem Bohemie, et 
 
 <!-- p. 507 (0561) -->
 
-³⁵ E quel nasetto, che stretto a consiglo\
+35 E quel nasetto, che stretto a consiglo\
 &emsp;Par con lui ch'à sì benigno aspetto,\
 &emsp;Morì fuggendo e disfiorando 'l giglo:
 
-³⁵ Et ille nasutus, qui strictus ad consilium\
+35 Et ille nasutus, qui strictus ad consilium\
 &emsp;Apparet cum illo qui habet ita benignum aspectum,\
 &emsp;Mortuus est fugiendo et deflorando lilium:
 
-³⁶ Guardate là, come si batte 'l pecto.\
+36 Guardate là, come si batte 'l pecto.\
 &emsp;L'altro vedete, ch'à fatto a la guancia\
 &emsp;De la sua palma, sospirando, lecto.
 
-³⁶ Respiciatis ibi, qualiter ipse sibi percutit pectus.\
+36 Respiciatis ibi, qualiter ipse sibi percutit pectus.\
 &emsp;Alterum videte, qui fecit ad genam\
 &emsp;De sua palma, suspirando, lectum.
 
-³⁷ Padre e suocero son del mal di Francia:\
+37 Padre e suocero son del mal di Francia:\
 &emsp;Sanno la vita sua vitiata e lorda,\
 &emsp;E quindi vien el duol che sì li lancia.
 
-³⁷ Pater et socer sunt mali Frantie:\
+37 Pater et socer sunt mali Frantie:\
 &emsp;Sciunt vitam suorum vitiatam et lordam,\
 &emsp;Et inde venit dolor qui eos sic lanceat.
 
-³⁸ Quel che par sì membruto, e che s'accorda\
+38 Quel che par sì membruto, e che s'accorda\
 &emsp;Cantando con colui del maschio naso,\
 &emsp;D'ogni valor portò cinta la corda.
 
-³⁸ Ille qui apparet ita membrutus, et qui se concordat\
+38 Ille qui apparet ita membrutus, et qui se concordat\
 &emsp;Cantando cum illo de masculo naso,\
 &emsp;Omnis valoris portavit cinctam cordam.
 
@@ -422,39 +422,39 @@ Iam venit ad alium spiritum, scilicet ad spiritum don Petri regis Arragonie. Ist
 
 <!-- p. 508 (0562) -->
 
-³⁹ E se re doppo lui fosse rimaso\
+39 E se re doppo lui fosse rimaso\
 &emsp;El giovinetto che dietro a lui siede,\
 &emsp;Ben andava 'l valor di vaso in vaso;
 
-³⁹ Et si post ipsum remansisset rex\
+39 Et si post ipsum remansisset rex\
 &emsp;Iuvenculus qui retro eum sedet,\
 &emsp;Bene ibat valor de vase in vas;
 
-⁴⁰ Che dicer non si può degl'altri herede:\
-&emsp;Iacomo e Federico hanno e reami (¹);\
-&emsp;Del retaggio miglor (²) nessun (³) possiede.
+40 Che dicer non si può degl'altri herede:\
+&emsp;Iacomo e Federico hanno e reami (1);\
+&emsp;Del retaggio miglor (2) nessun (3) possiede.
 
-⁴⁰ Quod non potest dici de aliis heredibus:\
+40 Quod non potest dici de aliis heredibus:\
 &emsp;Iacobus et Fredericus habent regna;\
 &emsp;Et de hereditate meliori nullus possidet.
 
-⁴¹ Rade volte resurge per li rami (⁴)\
+41 Rade volte resurge per li rami (4)\
 &emsp;L'humana probitate: e questo vuole\
-&emsp;Quei (⁵) che la dà, perchè da lui si chiami.
+&emsp;Quei (5) che la dà, perchè da lui si chiami.
 
-⁴¹ Raro resurgit per ramos\
+41 Raro resurgit per ramos\
 &emsp;Humana probitas: et istud vult\
 &emsp;Ille qui illam dat, ut ab eo denominetur.
 
-⁴² Anco al nasuto vanno mie parole,\
+42 Anco al nasuto vanno mie parole,\
 &emsp;Non men ch' all' altro Pier, che con lui canta,\
 &emsp;Onde Pugla e Provenza già si duole.
 
-⁴² Etiam ad nasutum vadunt verba mea,\
+42 Etiam ad nasutum vadunt verba mea,\
 &emsp;Non minus quam ad alterum Petrum, qui cum eo cantat,\
 &emsp;Unde Apulia et Provintia iam in se dolent.
 
-(¹) loro — (²) delle virtù — (³) di loro — (⁴) descendenti. — (⁵) quello Dio.
+(1) loro — (2) delle virtù — (3) di loro — (4) descendenti. — (5) quello Dio.
 
 germano, in passagio. In quo passagio iam ipse Karolus primus devicerat Iudeam, et inde dictus est rex Hierusalem, quem titulum adhuc tenent reges Cicilie. Hunc titulum retinuit ipse, et filius suus Karolus secundus, et sic rex Rubertus, et sic rex Ladislaus; et iam ipse Karolus primus cona[ba]tur invadere regnum, seu imperium, Constantinopolitanum, et multas terras iam vicerat. Sed dum esset ibi ad Archos et Creta, Curonum et Modonum, dominus Ioannes de Procida ordinavit unum tractatum et unam proditionem cum rege don Petro Arragonie; et fecit taliter, quod insula Cicilie se rebellavit Karolo primo; unde fuit coactus recedere de Romania et venire versus Ciciliam, quam tamen nunquam potuit reacquirere. Ideo, tunc, per unum admiralum, idest capitaneum maris, ipsius regis don Petri, captus fuit prope portum neapolitanum Karolus secundus, filius Karoli primi, et pater regis Ruberti, et ductus captivus in Cathaloniam. Iste don Petrus habuit tres filios, quos genuit ex Constantia, filia regis Manfredi, uxore sua: scilicet don Alphonsum, virum utique optimum, qui successit patri suo in regno, sed modicum vixit post patrem; et don Iacobum regem Arragonie, post mortem dicti fratris sui don Alfonsi; et don Fredericum regem Cicilie: qui duo, scilicet don Iacobus et don Fredericus, non fuerunt multum boni, nec successerunt patri suo in virtutibus, licet in regno. Ille don Petrus fuit pulcher homo et bene membratus, et habuit pulchra membra; sed Karolus primus habuit masculum nasum, idest magnum, quia licet fuerunt discordes et inimici in vita, quia rex Karolus primus interfecit regem Manfredum, socerum ipsius regis don Petri, et ipse don Petrus recepit ab ipso Ciciliam, tamen modo in Purgatorio sunt multum concordes in cantando Salve Regina. Fuit homo virtuosus rex don Petrus. Tunc ad textum.
 
@@ -468,28 +468,28 @@ Etiam ad nasutum vadunt verba mea, idest ad Karolum primum, non minus quam ad al
 
 <!-- p. 509 (0563) -->
 
-⁴³ Tant'è del seme suo minor la pianta,\
+43 Tant'è del seme suo minor la pianta,\
 &emsp;Quanto, più che Beatrice e Margharita,\
 &emsp;Costanza di marito ancor si vanta.
 
-⁴³ Tanto est de semine suo planta melior,\
+43 Tanto est de semine suo planta melior,\
 &emsp;Quanto, plusquam Beatrix et Margarita,\
 &emsp;Constantia de marito adhuc gloriatur.
 
-⁴⁴ Vedete el re della semplice vita\
+44 Vedete el re della semplice vita\
 &emsp;Seder là solo, Arrigho d'Inghilterra:\
 &emsp;Questi ha ne'regni suoi miglor uscita.
 
-⁴⁴ Videte regem simplicis vite\
+44 Videte regem simplicis vite\
 &emsp;Sedere ibi solum, Henricum de Anglia;\
 &emsp;Iste habet in ramis suis meliorem exitum.
 
-⁴⁵ Quel che più basso tra costor s'atterra,\
+45 Quel che più basso tra costor s'atterra,\
 &emsp;Guardando in suso, è Guglelmo marchese,\
 &emsp;Per cui Alexandria e la sua guerra\
 &emsp;Fa pianger Monferrato e Canavese.
 
-⁴⁵ Ille qui magis infra inter istos atterratur,\
+45 Ille qui magis infra inter istos atterratur,\
 &emsp;Respiciendo sursum, est Guillelmus marchio,\
 &emsp;Propter quem Alexandria et sua guerra\
 &emsp;Facit plorare Montemferratum Canavesse.

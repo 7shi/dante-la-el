@@ -18,15 +18,15 @@ tres cruces, idest in Ariete, tunc oriebatur et fecerat ibi inferius diem, et hi
 
 # Capitulum Primum
 
-¹ La gloria (¹) di colui (²), che (³) tutto move (⁴),\
-&emsp;Per l'universo (⁵) penetra, e risplende (⁶)\
-&emsp;In una parte (⁷) più, e meno altrove (⁸).
+1 La gloria (1) di colui (2), che (3) tutto move (4),\
+&emsp;Per l'universo (5) penetra, e risplende (6)\
+&emsp;In una parte (7) più, e meno altrove (8).
 
-¹ Gloria illius, qui totum movet,\
+1 Gloria illius, qui totum movet,\
 &emsp;Per universum penetrat, et resplendet\
 &emsp;In una parte plus, et minus alibi.
 
-(¹) cioè l'opere gloriose — (²) di Dio — (³) el quale — (⁴) stabilis — (⁵) omnes creaturas — (⁶) riluce — (⁷) in intellectualibus — (⁸) in simpliciter existentibus.
+(1) cioè l'opere gloriose — (2) di Dio — (3) el quale — (4) stabilis — (5) omnes creaturas — (6) riluce — (7) in intellectualibus — (8) in simpliciter existentibus.
 
 Incipit tertia Cantica Dantis de Aldegheriis de Florentia, que dicitur Paradisus, primum capitulum.
 
@@ -54,39 +54,39 @@ La gloria: gloria dicitur magna fama cum laude; aliquando gloria dicitur victori
 
 <!-- p. 822 (0876) -->
 
-² Nel ciel (¹) che più de la sua (²) luce prende (³)\
-&emsp;Fu'io (⁴), e vidi cosa (⁵) che ridire (⁶)\
-&emsp;Nè sa nè può chi di lassù (⁷) discende;
+2 Nel ciel (1) che più de la sua (2) luce prende (3)\
+&emsp;Fu'io (4), e vidi cosa (5) che ridire (6)\
+&emsp;Nè sa nè può chi di lassù (7) discende;
 
-² In celo quod plus de sua luce apprehendit\
+2 In celo quod plus de sua luce apprehendit\
 &emsp;Fui ego, et vidi res quas referre\
 &emsp;Nescit, nec potest qui ab inde descendit;
 
-³ Perch', appressando (⁸) sè al suo disire (⁹),\
-&emsp;Nostro intellecto (¹⁰) si profonda tanto (¹¹),\
-&emsp;Che dietro (¹²) la memoria (¹³) non può ire.
+3 Perch', appressando (8) sè al suo disire (9),\
+&emsp;Nostro intellecto (10) si profonda tanto (11),\
+&emsp;Che dietro (12) la memoria (13) non può ire.
 
-³ Quia, appropinquante se suo desiderio,\
+3 Quia, appropinquante se suo desiderio,\
 &emsp;Noster intellectus se profundat tantum,\
 &emsp;Quod retro memoria non potest ire.
 
-⁴ Veramente quant'io (¹⁴) del regno sancto (¹⁵)\
-&emsp;Ne la mia mente (¹⁶) potei far tesoro (¹⁷),\
-&emsp;Sarà hora materia (¹⁸) del mio canto (¹⁹).
+4 Veramente quant'io (14) del regno sancto (15)\
+&emsp;Ne la mia mente (16) potei far tesoro (17),\
+&emsp;Sarà hora materia (18) del mio canto (19).
 
-⁴ Verum quantum de suo regno\
+4 Verum quantum de suo regno\
 &emsp;In mea memoria potui facere thesaurum,\
 &emsp;Erit nunc materia mei cantus.
 
-⁵ O buon Apollo (²⁰), all'ultimo lavoro (²¹)\
-&emsp;Fammi (²²) del tuo valore (²³) sì facto vaso (²⁴),\
-&emsp;Come (²⁵) domanda dar l'amato alloro (²⁶).
+5 O buon Apollo (20), all'ultimo lavoro (21)\
+&emsp;Fammi (22) del tuo valore (23) sì facto vaso (24),\
+&emsp;Come (25) domanda dar l'amato alloro (26).
 
-⁵ O bone Apollo, ultimo labori\
+5 O bone Apollo, ultimo labori\
 &emsp;Fac michi de tuo valore tale vas,\
 &emsp;Sicut petis ad dandum amatam laurum.
 
-(¹) Empyreo — (²) di Dio — (³) pigla — (⁴) mentali visione — (⁵) al. cose — (⁶) narrare ad altri — (⁷) ab illa contemplatione — (⁸) accostandosi — (⁹) summo bono — (¹⁰) potentia intellectiva — (¹¹) si mette tanto a fondo — (¹²) a lui — (¹³) potentia memorativa — (¹⁴) tanto — (¹⁵) de'Beati — (¹⁶) memoria — (¹⁷) collocare — (¹⁸) in hac tertia Cantica — (¹⁹) terza Cantica — (²⁰) O sapientia Dei — (²¹) huius tertie Cantice — (²²) fac me — (²³) sapientie — (²⁴) tale receptacolo — (²⁵) quale — (²⁶) desiderata laurea.
+(1) Empyreo — (2) di Dio — (3) pigla — (4) mentali visione — (5) al. cose — (6) narrare ad altri — (7) ab illa contemplatione — (8) accostandosi — (9) summo bono — (10) potentia intellectiva — (11) si mette tanto a fondo — (12) a lui — (13) potentia memorativa — (14) tanto — (15) de'Beati — (16) memoria — (17) collocare — (18) in hac tertia Cantica — (19) terza Cantica — (20) O sapientia Dei — (21) huius tertie Cantice — (22) fac me — (23) sapientie — (24) tale receptacolo — (25) quale — (26) desiderata laurea.
 
 In celo, quod plus de sua luce apprehendit, scilicet empyreo, quod non est aliud quam lux et amor, fui ego, scilicet mentaliter et speculative, et vidi res, quas referre nescit nec potest qui ab inde descendit (hoc contingebat Apostolo Paolo, quando raptus fuit usque ad tertium celum; qui rediens ab illa extasi, non recordabatur aliquorum que viderat, asserens se vidisse ea que non licebat homini loqui. Ita accidit auctori, qui in speculatione et altissima mentis abstractione vidit aliqua de quibus non recordatur, et assignat causam); quia appropinquante se suo desiderio (idest Deo summo bono, primo enti, primo motori, ad quem omnes naturaliter tendunt, et qui est ultimum desiderium, cum sit obiectum beatificum intellectuum beatificabilium), noster intellectus se profundat tantum, quod retro memoria non potest ire. Et ideo non potest lingua referre que cum intellectu comprehendit, ita quod memoria non potest retinere nec sequi intellectum. Ratio tamen est in promptu unde hoc evenit: quia memoria est alligata organo naturali; que memoria ponitur ab Avicenna, in sexto libro Naturalium, in posteriori cellula cerebri capitis hominis; intellectus autem non est alligatus alicui organo corporali.
 
@@ -98,39 +98,39 @@ Deus sapientie et poesis, ultimo labori, idest isti tertie cantice (quia primus 
 
 <!-- p. 823 (0877) -->
 
-⁶ Infino a qui (¹) l'un giogo (²) di Parnaso (³)\
-&emsp;Assai mi fu (⁴), ma hor (⁵) con amendue (⁶)\
-&emsp;M'è uopo (⁷) intrar per l'aringo rimaso (⁸).
+6 Infino a qui (1) l'un giogo (2) di Parnaso (3)\
+&emsp;Assai mi fu (4), ma hor (5) con amendue (6)\
+&emsp;M'è uopo (7) intrar per l'aringo rimaso (8).
 
-⁶ Usque nunc unum iugum Parnasi\
+6 Usque nunc unum iugum Parnasi\
 &emsp;Satis michi fuit, sed nunc cum ambobus\
 &emsp;Michi opus est intrare arringum quod remansit.
 
-⁷ Entra nel pecto mio (⁹), e spira tue (¹⁰)\
-&emsp;Sì, come (¹¹) quando Marsya (¹²) trahesti (¹³)\
-&emsp;Della vagina delle membra sue (¹⁴).
+7 Entra nel pecto mio (9), e spira tue (10)\
+&emsp;Sì, come (11) quando Marsya (12) trahesti (13)\
+&emsp;Della vagina delle membra sue (14).
 
-⁷ Intra in pectus meum, et spira tu\
+7 Intra in pectus meum, et spira tu\
 &emsp;Ita, sicut quando Marsiam traxisti\
 &emsp;De vagina membrorum suorum.
 
-⁸ O divina virtù (¹⁵), se mi ti presti (¹⁶)\
-&emsp;Tanto (¹⁷), che l'ombra (¹⁸) del beato regno (¹⁹)\
-&emsp;Segnata nel mio capo manifesti (²⁰),
+8 O divina virtù (15), se mi ti presti (16)\
+&emsp;Tanto (17), che l'ombra (18) del beato regno (19)\
+&emsp;Segnata nel mio capo manifesti (20),
 
-⁸ O divina virtus, sic michi te prestes\
+8 O divina virtus, sic michi te prestes\
 &emsp;Ita, quod umbram beati regni\
 &emsp;Signatam in meo capite manifestem.
 
-⁹ Vedra' mi a piè (²¹) del tuo diletto legno (²²)\
-&emsp;Venir, e coronarmi (²³) de le fogle\
-&emsp;Che (²⁴) la materia (²⁵) e tu mi fara' degno
+9 Vedra' mi a piè (21) del tuo diletto legno (22)\
+&emsp;Venir, e coronarmi (23) de le fogle\
+&emsp;Che (24) la materia (25) e tu mi fara' degno
 
-⁹ Videbis me ad pedes tui dilecti ligni\
+9 Videbis me ad pedes tui dilecti ligni\
 &emsp;Venire, et coronari de illis foliis\
 &emsp;De quibus materia et tu me facietis dignum.
 
-(¹) in superioribus Canticis — (²) Cyheron — (³) monte — (⁴) suffecit mihi — (⁵) in hac tertia Cantica — (⁶) Cytheron et Elycon — (⁷) opus est mihi — (⁸) cursum operis residui — (⁹) mente vel corde — (¹⁰) insuffla tu — (¹¹) tali modo — (¹²) Satyro — (¹³) extraxisti — (¹⁴) pelle, excoriando eum — (¹⁵) gratia — (¹⁶) concedi — (¹⁷) in tanta quanta — (¹⁸) ymagine — (¹⁹) beato regno — (²⁰) per contemplationem vel ymaginationem narrem aliis — (²¹) ad stipitem — (²²) lauro — (²³) tamquam Poeta — (²⁴) quarum — (²⁵) altitudo materie Paradisi.
+(1) in superioribus Canticis — (2) Cyheron — (3) monte — (4) suffecit mihi — (5) in hac tertia Cantica — (6) Cytheron et Elycon — (7) opus est mihi — (8) cursum operis residui — (9) mente vel corde — (10) insuffla tu — (11) tali modo — (12) Satyro — (13) extraxisti — (14) pelle, excoriando eum — (15) gratia — (16) concedi — (17) in tanta quanta — (18) ymagine — (19) beato regno — (20) per contemplationem vel ymaginationem narrem aliis — (21) ad stipitem — (22) lauro — (23) tamquam Poeta — (24) quarum — (25) altitudo materie Paradisi.
 
 Usque nunc unum iugum Parnasi satis michi fuit, sed nunc cum ambobus michi opus est intrare arringum, quod remansit. Arringum proprie est locus vacuus et aereus. Vult dicere: opus est intrare vacuum, quod remansit ad perficiendum istud opus, idest ad componendum Paradisum. Notandum quod Apollo et Bacchus idem sunt; sed propter diversos effectus habent diversa nomina, scilicet Sol: nam sol dicitur pater omnium terrenascentium, oculus mundi, pater rerum naturalium. Dicit enim Aristotiles, quod sol et homo generant hominem. Auctor vocat hic in isto capitulo solem ministrum nature. Hic Sol, sive Apollo, colitur in monte Parnaso. In partibus Gretie, in regione Boetie, sive Thessalie, est unus altissimus mons, vocatus Parnasus, qui in vertice habet duo iuga: in quorum uno colitur Apollo, quod iugum appellatur Cirra; aliud iugum vocatur Nisa, et in illo colitur Bacchus. Modo Sol, sive Apollo, idest deus sapientie, habet duplicem sapientiam, naturalem et divinam. Dum Apollo tractat de divinis, tunc dicitur Apollo; quando tractat de rebus naturalibus, vel moralibus, tunc dicitur Bacchus, idest Deus rerum naturalium sapientia. In monte igitur Parnaso et in suo iugo, scilicet Cirra, ubi colitur Apollo sub nomine Apollinis, tractatur de sapientia divina, sive divinorum; in iugo, scilicet Nisa, ubi colitur sol sub nomine Bacchi, tractatur de sapientia rerum naturalium et moralium, sicut Physica et Ethyca, etc. Modo vult hic dicere, quod hucusque, idest per Infernum et Purgatorium, sufficiebat sibi unum iugum Parnasi, scilicet Nisa, ubi colitur sol sub nomine Bacchi, idest sufficiebant sibi scientie naturales et morales: sed ammodo in Paradiso oportet quod habeat ambo iuga, quia indiget iugo, scilicet Cirra, ubi tractatur de divinis, et indiget etiam iugo, scilicet Nisa, ubi tractatur de naturali et poesi; quia in Paradiso poetice describit res divinas, et etiam sepe tractabit de naturalibus et etiam moralibus. Dicitur autem Apollo ab a, quod est sine, et polluo, idest pollutio; unde Apollo, idest sine pollutione, quia sapientia divinorum est sine pollutione.
 
@@ -140,31 +140,31 @@ Ut autem auctor melius impetret hunc favorem, premictit, quod non erit ingratus;
 
 <!-- p. 824 (0878) -->
 
-¹⁰ Sì rade volte, padre (¹), se ne cogle (²),\
-&emsp;Per triumphare (³) o Cesare o poeta (⁴),\
-&emsp;Colpa (⁵) e vergogna dell'humane vogle (⁶),
+10 Sì rade volte, padre (1), se ne cogle (2),\
+&emsp;Per triumphare (3) o Cesare o poeta (4),\
+&emsp;Colpa (5) e vergogna dell'humane vogle (6),
 
-¹⁰ Ita raro, pater, colliguntur,\
+10 Ita raro, pater, colliguntur,\
 &emsp;Pro triumphando vel Cesare vel poeta,\
 &emsp;Culpa et verecundia est humanarum voluntatum,
 
-¹¹ Che (⁷) parturir letitia in su la lieta (⁸)\
-&emsp;Delphyca deità (⁹) dovria la fronda (¹⁰)\
-&emsp;Penneya (¹¹) quando alcun di sè asseta (¹²).
+11 Che (7) parturir letitia in su la lieta (8)\
+&emsp;Delphyca deità (9) dovria la fronda (10)\
+&emsp;Penneya (11) quando alcun di sè asseta (12).
 
-¹¹ Quod parere letitiam super leta\
+11 Quod parere letitiam super leta\
 &emsp;Delphica deitate deberet frons\
 &emsp;Peneya, quando de se sitibundum aliquem facit.
 
-¹² Poca (¹³) favilla (¹⁴) gran fiamma (¹⁵) seconda (¹⁶):\
-&emsp;Forse dirieto a me (¹⁷) con miglor voci (¹⁸)\
-&emsp;Si pregherà (¹⁹), perchè Cyrra risponda (²⁰).
+12 Poca (13) favilla (14) gran fiamma (15) seconda (16):\
+&emsp;Forse dirieto a me (17) con miglor voci (18)\
+&emsp;Si pregherà (19), perchè Cyrra risponda (20).
 
-¹² Parvam favillam grandis flamma secundat:\
+12 Parvam favillam grandis flamma secundat:\
 &emsp;Forsan retro me cum melioribus vocibus\
 &emsp;Deprecabuntur, ad hoc ut Cirra respondeat.
 
-(¹) o Dio — (²) da'mortali, de le decte foglie, cioè virtuose operationi — (³) per dar triunpho — (⁴) o a imperadori, o poeti, o altri nella gloria del cielo — (⁵) appositive — (⁶) volontà e desiderii di cose carnali e temporali — (⁷) la qual cosa — (⁸) gioconda. Nota quod quilibet letari debet de virtutibus et gloria aliorum — (⁹) d'Appolline adorato in Delfo — (¹⁰) fogla — (¹¹) d'alloro, detto da Penneia — (¹²) fa assetato e desideroso — (¹³) piccola — (¹⁴) di fuoco — (¹⁵) fuoco — (¹⁶) fa seguitare. Nota hic quod de minimis pervenitur ad maxima — (¹⁷) doppo a me Dante — (¹⁸) che non sono le mie preghiere et orationi — (¹⁹) per altri — (²⁰) cioè Apollo honorato in Cyrra.
+(1) o Dio — (2) da'mortali, de le decte foglie, cioè virtuose operationi — (3) per dar triunpho — (4) o a imperadori, o poeti, o altri nella gloria del cielo — (5) appositive — (6) volontà e desiderii di cose carnali e temporali — (7) la qual cosa — (8) gioconda. Nota quod quilibet letari debet de virtutibus et gloria aliorum — (9) d'Appolline adorato in Delfo — (10) fogla — (11) d'alloro, detto da Penneia — (12) fa assetato e desideroso — (13) piccola — (14) di fuoco — (15) fuoco — (16) fa seguitare. Nota hic quod de minimis pervenitur ad maxima — (17) doppo a me Dante — (18) che non sono le mie preghiere et orationi — (19) per altri — (20) cioè Apollo honorato in Cyrra.
 
 lauro coronari; quod cedet sibi, Apollini, ad honorem et decorem, idest erit ad honorem scientie poetice.
 
@@ -176,39 +176,39 @@ Parvam favillam grandis flamma sequitur; forsan retro me cum melioribus vocibus 
 
 <!-- p. 825 (0879) -->
 
-¹³ Surge (¹) a'mortali (²) da diverse foci (³)\
-&emsp;La lucerna (⁴) del mondo; ma da quella (⁵),\
-&emsp;Che (⁶) quattro cerchi (⁷) iunge (⁸) con tre croci (⁹),
+13 Surge (1) a'mortali (2) da diverse foci (3)\
+&emsp;La lucerna (4) del mondo; ma da quella (5),\
+&emsp;Che (6) quattro cerchi (7) iunge (8) con tre croci (9),
 
-¹³ Oritur mortalibus per diversas fauces\
+13 Oritur mortalibus per diversas fauces\
 &emsp;Lucerna mundi; sed ab illa,\
 &emsp;Que quatuor circulos iungit cum tribus circulis,
 
-¹⁴ Con miglor corso (¹⁰) e con miglore stella (¹¹)\
-&emsp;Esce congiunta (¹²), e la mondana cera (¹³)\
-&emsp;Più a suo modo (¹⁴) tempera (¹⁵) e suggella (¹⁶).
+14 Con miglor corso (10) e con miglore stella (11)\
+&emsp;Esce congiunta (12), e la mondana cera (13)\
+&emsp;Più a suo modo (14) tempera (15) e suggella (16).
 
-¹⁴ Cum meliori cursu et cum meliori stella\
+14 Cum meliori cursu et cum meliori stella\
 &emsp;Coniunxit se mundane terre,\
 &emsp;Ideo suo modo temperat et sigillat.
 
-¹⁵ Fact'havea di là (¹⁷) mane, e di qua sera (¹⁸)\
-&emsp;Tal foce quasi (¹⁹); e tutt'era lì bianco (²⁰)\
-&emsp;Quello hemisperio (²¹), e l'altra parte nera (²²);
+15 Fact'havea di là (17) mane, e di qua sera (18)\
+&emsp;Tal foce quasi (19); e tutt'era lì bianco (20)\
+&emsp;Quello hemisperio (21), e l'altra parte nera (22);
 
-¹⁵ Fecerat ex alia parte mane et ab ista sero\
+15 Fecerat ex alia parte mane et ab ista sero\
 &emsp;Talis faux quasi; et totum erat ibi album\
 &emsp;Illud emispirium, et alia pars nigra;
 
-¹⁶ Quando Beatrice sul sinistro fianco (²³)\
-&emsp;Vidi rivolta (²⁴), e riguardar nel sole:\
-&emsp;Aquila (²⁵) sì (²⁶) no li (²⁷) s'affixe (²⁸) unquanco (²⁹).
+16 Quando Beatrice sul sinistro fianco (23)\
+&emsp;Vidi rivolta (24), e riguardar nel sole:\
+&emsp;Aquila (25) sì (26) no li (27) s'affixe (28) unquanco (29).
 
-¹⁶ Quando Beatricem super sinistrum latus\
+16 Quando Beatricem super sinistrum latus\
 &emsp;Vidi conversam, et respicere in solem:\
 &emsp;Aquila sic illi se non fixit unquam.
 
-(¹) levasi — (²) huomini del mondo — (³) siti e parti orientali — (⁴) el sole. Genes. I: Fecit Deus duo luminaria — (⁵) foce — (⁶) la quale — (⁷) circuli — (⁸) insieme — (⁹) incrociature — (¹⁰) suo — (¹¹) Venere, o altra — (¹²) La lucerna, dico, del mondo — (¹³) materia prima — (¹⁴) che quando surge da altre foci — (¹⁵) dispone — (¹⁶) informa — (¹⁷) in quello emisferio — (¹⁸) in questo emisferio nostro — (¹⁹) quasi in quel tempo — (²⁰) per l'aurora che si levava da quella parte — (²¹) dov'io ero con Beatrice — (²²) perchè'l sole non haveva illuminato per tutto — (²³) lato — (²⁴) da la tramontana di là — (²⁵) nessuna — (²⁶) per tal modo — (²⁷) nel sole — (²⁸) si fermò — (²⁹) ancora mai, come fece lei.
+(1) levasi — (2) huomini del mondo — (3) siti e parti orientali — (4) el sole. Genes. I: Fecit Deus duo luminaria — (5) foce — (6) la quale — (7) circuli — (8) insieme — (9) incrociature — (10) suo — (11) Venere, o altra — (12) La lucerna, dico, del mondo — (13) materia prima — (14) che quando surge da altre foci — (15) dispone — (16) informa — (17) in quello emisferio — (18) in questo emisferio nostro — (19) quasi in quel tempo — (20) per l'aurora che si levava da quella parte — (21) dov'io ero con Beatrice — (22) perchè'l sole non haveva illuminato per tutto — (23) lato — (24) da la tramontana di là — (25) nessuna — (26) per tal modo — (27) nel sole — (28) si fermò — (29) ancora mai, come fece lei.
 
 Oritur mortalibus per diversas fauces. Sorge ai mortali per diverse foci: hec est secunda pars huius capituli, in qua auctor ostendit quomodo per operam Beatricis ipse fuit dispositus ad ascendendum in celum. Primo tamen dispositionem solis premictit valde artificiose, et multum physice loquitur hic. Optima dispositio solis apparet pro tanto cum dispositione Beatricis. Nam Beatrix respiciebat solem, et Dantes respiciebat in Beatricem et in oculis eius; et sic Dantes, respiciendo Beatricem, factus est fortis et vigorosus ad respiciendum in solem, quod prius facere non poterat.
 
@@ -218,47 +218,47 @@ Fecerat ex illa parte mane (quia ibi in emispirio inferiori, ubi erat auctor, ip
 
 <!-- p. 826 (0880) -->
 
-¹⁷ E sì (¹) come secondo raggio (²) suole\
-&emsp;Uscir del primo (³), e risalire insuso (⁴),\
-&emsp;Pur come peregrin (⁵) che (⁶) tornar vuole (⁷);
+17 E sì (1) come secondo raggio (2) suole\
+&emsp;Uscir del primo (3), e risalire insuso (4),\
+&emsp;Pur come peregrin (5) che (6) tornar vuole (7);
 
-¹⁷ Et sicut secundus radius solet\
+17 Et sicut secundus radius solet\
 &emsp;Exire de primo, et reascendere sursum,\
 &emsp;Ita sicut peregrinus qui redire vult;
 
-¹⁸ Così (⁸) dell'acto suo (⁹) per gl'ochi (¹⁰) infuso (¹¹)\
-&emsp;Nell'immagine (¹²) mia, el mio (¹³) si fece,\
-&emsp;E fixi (¹⁴) gl'ochi al sol (¹⁵) oltra (¹⁶) nostro uso (¹⁷).
+18 Così (8) dell'acto suo (9) per gl'ochi (10) infuso (11)\
+&emsp;Nell'immagine (12) mia, el mio (13) si fece,\
+&emsp;E fixi (14) gl'ochi al sol (15) oltra (16) nostro uso (17).
 
-¹⁸ Sic de oculis suis, per actum infusum\
+18 Sic de oculis suis, per actum infusum\
 &emsp;In ymagine mea, meus factus est,\
 &emsp;Et converti visum ad solem ultra nostrum usum.
 
-¹⁹ Molto è lecito là (¹⁸), che qui non lece (¹⁹)\
-&emsp;A le nostre virtù (²⁰), mercè (²¹) del loco (²²)\
-&emsp;Facto (²³) per proprio (²⁴) dell'umana spece (²⁵).
+19 Molto è lecito là (18), che qui non lece (19)\
+&emsp;A le nostre virtù (20), mercè (21) del loco (22)\
+&emsp;Facto (23) per proprio (24) dell'umana spece (25).
 
-¹⁹ Multum licet ibi, quod hic non licet\
+19 Multum licet ibi, quod hic non licet\
 &emsp;Nostris virtutibus, mercede loci\
 &emsp;Facti proprie pro humana specie.
 
-²⁰ Io (²⁶) nol soffersi (²⁷) molto (²⁸) nè sì poco (²⁹),\
-&emsp;Ch'io (³⁰) nol vedessi sfavillar (³¹) dintorno (³²),\
-&emsp;Come (³³) ferro bollente (³⁴) esce (³⁵) del fuoco.
+20 Io (26) nol soffersi (27) molto (28) nè sì poco (29),\
+&emsp;Ch'io (30) nol vedessi sfavillar (31) dintorno (32),\
+&emsp;Come (33) ferro bollente (34) esce (35) del fuoco.
 
-²⁰ Ego non sustuli multum nec ita parum,\
+20 Ego non sustuli multum nec ita parum,\
 &emsp;Quin ego favillare viderem circum,\
 &emsp;Qualiter ferrum bulliens exit de igne.
 
-²¹ E subito (³⁶) mi parve giorno a giorno (³⁷)\
-&emsp;Esser aggiunto (³⁸), come quei che puote (³⁹)\
-&emsp;Avesse 'l ciel (⁴⁰) d'un altro (⁴¹) sol adorno (⁴²).
+21 E subito (36) mi parve giorno a giorno (37)\
+&emsp;Esser aggiunto (38), come quei che puote (39)\
+&emsp;Avesse 'l ciel (40) d'un altro (41) sol adorno (42).
 
-²¹ Et statim visum fuit diem diei\
+21 Et statim visum fuit diem diei\
 &emsp;Esse aditum, sicut si ille qui potest\
 &emsp;Celum uno alio celo ornasset.
 
-(¹) per tal modo — (²) di sole riflesso — (³) raggio dal qual si riflette — (⁴) in alto verso' l sole onde è disceso — (⁵) ad exemplo d'el el quale è in via — (⁶) el quale — (⁷) a la sua patria — (⁸) per quel modo — (⁹) di Beatrice — (¹⁰) suoi — (¹¹) elevati — (¹²) nella potentia ymmaginativa — (¹³) acto — (¹⁴) ficcai — (¹⁵) nel sole — (¹⁶) sopra — (¹⁷) humano — (¹⁸) in quella altezza dov'io ero — (¹⁹) non è lecito — (²⁰) potentie — (²¹) per gratia — (²²) di quello — (²³) da Dio — (²⁴) cioè appropriato agli uomini — (²⁵) specie — (²⁶) Dante — (²⁷) sostenni el sole — (²⁸) spatio di tempo — (²⁹) ancora — (³⁰) che io — (³¹) gettar razzi — (³²) a la sua rotondità — (³³) in quel modo che — (³⁴) rovito — (³⁵) sfavillante — (³⁶) incontinente — (³⁷) luce di dì — (³⁸) esser duplicato splendore — (³⁹) quello Dio che può — (⁴⁰) el cielo — (⁴¹) che quel che v'era — (⁴²) adornato.
+(1) per tal modo — (2) di sole riflesso — (3) raggio dal qual si riflette — (4) in alto verso' l sole onde è disceso — (5) ad exemplo d'el el quale è in via — (6) el quale — (7) a la sua patria — (8) per quel modo — (9) di Beatrice — (10) suoi — (11) elevati — (12) nella potentia ymmaginativa — (13) acto — (14) ficcai — (15) nel sole — (16) sopra — (17) humano — (18) in quella altezza dov'io ero — (19) non è lecito — (20) potentie — (21) per gratia — (22) di quello — (23) da Dio — (24) cioè appropriato agli uomini — (25) specie — (26) Dante — (27) sostenni el sole — (28) spatio di tempo — (29) ancora — (30) che io — (31) gettar razzi — (32) a la sua rotondità — (33) in quel modo che — (34) rovito — (35) sfavillante — (36) incontinente — (37) luce di dì — (38) esser duplicato splendore — (39) quello Dio che può — (40) el cielo — (41) che quel che v'era — (42) adornato.
 
 per oppositum evenit ad id quod hic superius fit. Nam si homo in isto nostro emispirio, de mane oriente sole, verteret se ad orientem et respiceret solem, sol feriret eum ad dexteram; ergo in inferiori feriret ad sinistram. Ideo fingit quod Beatrix sit sic revoluta. Quasi dicat: Non est aquila in mundo apud nos, que posset sic acute respicere solem, que aquila volat altius et acutius videt quam aliquid aliud animal, sicut hic respiciebat Beatrix. Hoc est dicere, quod Theologia acutius intuetur et videt, idest illuminat homines, quam aliqua alia scientia: et ideo ipsa est regina aliarum scientiarum, sicut aquila est regina avium.
 
@@ -274,47 +274,47 @@ Et statim fuit visum diem diei esse additum, sicut si ille qui potest, celum uno
 
 <!-- p. 827 (0881) -->
 
-²² Beatrice (¹) tutta nell'etterne rote (²)\
-&emsp;Fixa (³) cogl'ochi (⁴) stava; et io (⁵) in lei (⁶)\
-&emsp;Le luci (⁷) fixi (⁸), di lassu remote (⁹).
+22 Beatrice (1) tutta nell'etterne rote (2)\
+&emsp;Fixa (3) cogl'ochi (4) stava; et io (5) in lei (6)\
+&emsp;Le luci (7) fixi (8), di lassu remote (9).
 
-²² Beatrix tota in eternas rotas\
+22 Beatrix tota in eternas rotas\
 &emsp;Fixa cum oculis stabat; et ego, in eam\
 &emsp;Oculis fixis, a latere superiori remotis,
 
-²³ Nel suo (¹⁰) aspecto tal dentro mi fei (¹¹),\
-&emsp;Qual si fe'Glauco (¹²) nel gustar (¹³) dell'herba,\
-&emsp;Che (¹⁴)'l fe'consorte (¹⁵) in mar (¹⁶) degl'altri Dei (¹⁷).
+23 Nel suo (10) aspecto tal dentro mi fei (11),\
+&emsp;Qual si fe'Glauco (12) nel gustar (13) dell'herba,\
+&emsp;Che (14)'l fe'consorte (15) in mar (16) degl'altri Dei (17).
 
-²³ In suo aspectu talis intus factus fui,\
+23 In suo aspectu talis intus factus fui,\
 &emsp;Qualem se fecit Glaucus in gustatione herbe,\
 &emsp;Que fecit ipsum consortem in mari cum aliis Diis.
 
-²⁴ Transhumanar (¹⁸) significar (¹⁹) per verba (²⁰)\
-&emsp;Non si porria (²¹); però l'exemplo (²²) basti (²³)\
-&emsp;A cui experientia (²⁴) gratia (²⁵) serba (²⁶).
+24 Transhumanar (18) significar (19) per verba (20)\
+&emsp;Non si porria (21); però l'exemplo (22) basti (23)\
+&emsp;A cui experientia (24) gratia (25) serba (26).
 
-²⁴ Transhumanari significari per verba\
+24 Transhumanari significari per verba\
 &emsp;Non potest; ideo exemplum sufficiat\
 &emsp;Illis quibus experientia gratiam servat.
 
-²⁵ S'io (²⁷) era sol di me (²⁸) quel che creasti\
-&emsp;Novellamente (²⁹), Amor (³⁰), che 'l ciel governi,\
-&emsp;Tu'l sai (³¹), che (³²) col tuo lume (³³) mi levasti (³⁴).
+25 S'io (27) era sol di me (28) quel che creasti\
+&emsp;Novellamente (29), Amor (30), che 'l ciel governi,\
+&emsp;Tu'l sai (31), che (32) col tuo lume (33) mi levasti (34).
 
-²⁵ Si ego eram solus de me, qui creasti\
+25 Si ego eram solus de me, qui creasti\
 &emsp;Noviter amorem quo celum gubernas,\
 &emsp;Illud scis, quod cum tuo lumine me elevasti.
 
-²⁶ Quando la rota (³⁵), che tu sempiterni\
-&emsp;Desiderato (³⁶), a sè (³⁷) mi fece atteso (³⁸),\
-&emsp;Con l'armonia (³⁹) che (⁴⁰) temperi e discerni (⁴¹),
+26 Quando la rota (35), che tu sempiterni\
+&emsp;Desiderato (36), a sè (37) mi fece atteso (38),\
+&emsp;Con l'armonia (39) che (40) temperi e discerni (41),
 
-²⁶ Quando rota, quam tu sempiternas,\
+26 Quando rota, quam tu sempiternas,\
 &emsp;Desiderosum ad se me fecit actentum,\
 &emsp;Cum armonia quam tu temperas et discernis,
 
-(¹) la Sacra Scrittura — (²) revolutione de' cieli — (³) intenta — (⁴) suoi theologi — (⁵) Dante — (⁶) Beatrice — (⁷) gl'occhi miei — (⁸) di Beatrice — (⁹) dalle revolutioni de' cieli — (¹⁰) sì fatto — (¹¹) feci — (¹²) peschatore — (¹³) mangiar — (¹⁴) la quale — (¹⁵) compagno — (¹⁶) mare — (¹⁷) marini — (¹⁸) lo stato estatico — (¹⁹) narrare — (²⁰) con parole — (²¹) potrebbe — (²²) di Glauco — (²³) per dichiaratione — (²⁴) a qualunque huomo in sè di contemplare — (²⁵) di Dio — (²⁶) conserva — (²⁷) se io Dante — (²⁸) sole facto — (²⁹) nella mia transformatione — (³⁰) o Spirito Santo. Luc. in 4. — (³¹) solo — (³²) el quale — (³³) gratia — (³⁴) a tale stato — (³⁵) revolutione de' cieli e di tutta la natura — (³⁶) naturalmente da ognuno — (³⁷) me Dante — (³⁸) attento e sollecito — (³⁹) dolcezza di suono — (⁴⁰) la quale a tuo modo — (⁴¹) distingui e dividi.
+(1) la Sacra Scrittura — (2) revolutione de' cieli — (3) intenta — (4) suoi theologi — (5) Dante — (6) Beatrice — (7) gl'occhi miei — (8) di Beatrice — (9) dalle revolutioni de' cieli — (10) sì fatto — (11) feci — (12) peschatore — (13) mangiar — (14) la quale — (15) compagno — (16) mare — (17) marini — (18) lo stato estatico — (19) narrare — (20) con parole — (21) potrebbe — (22) di Glauco — (23) per dichiaratione — (24) a qualunque huomo in sè di contemplare — (25) di Dio — (26) conserva — (27) se io Dante — (28) sole facto — (29) nella mia transformatione — (30) o Spirito Santo. Luc. in 4. — (31) solo — (32) el quale — (33) gratia — (34) a tale stato — (35) revolutione de' cieli e di tutta la natura — (36) naturalmente da ognuno — (37) me Dante — (38) attento e sollecito — (39) dolcezza di suono — (40) la quale a tuo modo — (41) distingui e dividi.
 
 Beatrix tota in eternas rotas fixa cum oculis stabat; et ego, in eam oculis fixis, a latere superiori remotis (quia iam retraxerat oculos a sole, quem prius intuebatur tam fixe. Effectum huius intuitus describit comparatione fabulosa. Et dicit auctor, quod contingebat sibi, sicut contigebat Glauco. Nota quod Glaucus fuit quidam piscator, qui stabat iuxta lictus maris et piscabatur; sic habebat harundinem vel virgulam longam, cum filo longo, in cuius summitate erat hamus cum esca, et ponebat. Pisces, credentes sumere bonum cibum, capiebantur hamo, quos pisces captos proiiciebat in prato inter herbas; qui pisces quam cito tangebant et gustabant quasdam herbas que erant ibi, subito resumebant vires et saltabant in mare. Quod videns Glaucus piscator, ivit et tetigit ac gustavit de herbis illis: qui mox, gustata herba, saltavit in mare, et factus est piscis et unus deus marinus), in suo aspectu, scilicet Beatricis, talis intus factus fui, qualem se fecit Glaucus in gustatione herbe, que, scilicet herba, fecit ipsum consortem in mare cum aliis diis. Nota quod per Glaucum intelligitur homo sapiens, qui, speculans subtiliter, gustat herbam, idest sapientiam, suavem summe et dulcem, scilicet gloriam et dulcedinem vite eterne; et tunc proiicit se ad aquam, scilicet ad profunditatem speculationis, et sic efficitur Deus, non natura, sed participatione, ut ponit Boetius. Sic contingebat Paulo in raptu; sic Beato Augustino: et sic homo efficitur plus quam homo; et hoc verum est.
 
@@ -326,47 +326,47 @@ Quando rota, scilicet celum, quam tu sempiternas, desiderosum ad se me fecit act
 
 <!-- p. 828 (0882) -->
 
-²⁷ Parvemi (¹) tanto (²) allor (³) del cielo acceso (⁴)\
-&emsp;De la fiamma (⁵) del sol (⁶), che pioggia (⁷) o fiume (⁸)\
-&emsp;Laco (⁹) non fece (¹⁰) alcun tanto disteso (¹¹).
+27 Parvemi (1) tanto (2) allor (3) del cielo acceso (4)\
+&emsp;De la fiamma (5) del sol (6), che pioggia (7) o fiume (8)\
+&emsp;Laco (9) non fece (10) alcun tanto disteso (11).
 
-²⁷ Visum fuit michi tunc tantum de celo accensum\
+27 Visum fuit michi tunc tantum de celo accensum\
 &emsp;A flamma solis, quod pluvia et flumen\
 &emsp;Lacum non fecerunt aliquem tantum extensum.
 
-²⁸ La novità del suono (¹²) e 'l grande lume (¹³)\
-&emsp;Di lor cagion (¹⁴) m'acceseno (¹⁵) un disio\
-&emsp;Mai non sentito (¹⁶) di cotanto (¹⁷) acume (¹⁸).
+28 La novità del suono (12) e 'l grande lume (13)\
+&emsp;Di lor cagion (14) m'acceseno (15) un disio\
+&emsp;Mai non sentito (16) di cotanto (17) acume (18).
 
-²⁸ Novitas cantus et grande lumen\
+28 Novitas cantus et grande lumen\
 &emsp;De eorum causis michi accenderunt unum desiderium,\
 &emsp;Quo nunquam censeram aliquod tanti acuminis.
 
-²⁹ Ond'ella (¹⁹), che vedeva me (²⁰) com'io (²¹),\
-&emsp;A quietarmi (²²) l'animo (²³) commosso (²⁴),\
-&emsp;Pria (²⁵) ch'a domandar (²⁶), la bocha (²⁷) aprio (²⁸).
+29 Ond'ella (19), che vedeva me (20) com'io (21),\
+&emsp;A quietarmi (22) l'animo (23) commosso (24),\
+&emsp;Pria (25) ch'a domandar (26), la bocha (27) aprio (28).
 
-²⁹ Unde ipsa, que videbat me sicut egomet,\
+29 Unde ipsa, que videbat me sicut egomet,\
 &emsp;Ad quietandum animum meum commotum,\
 &emsp;Priusquam ego ad interrogandum, apperuit os suum,
 
-³⁰ E cominciò (²⁹): Tu stesso (³⁰) ti fai grosso (³¹)\
-&emsp;Col (³²) falso ymaginar (³³), sì che (³⁴) non vedi\
-&emsp;Ciò che vedresti (³⁵), se l'havessi scosso (³⁶).
+30 E cominciò (29): Tu stesso (30) ti fai grosso (31)\
+&emsp;Col (32) falso ymaginar (33), sì che (34) non vedi\
+&emsp;Ciò che vedresti (35), se l'havessi scosso (36).
 
-³⁰ Et incepit: Tumet te facis grossum\
+30 Et incepit: Tumet te facis grossum\
 &emsp;Cum falsa ymaginatione, ita quod non vides\
 &emsp;Id quod videres, si illam haberes excussam.
 
-³¹ Tu (³⁷) non se'in terra (³⁸), sì come tu credi (³⁹);\
-&emsp;Mai fulgure (⁴⁰), fuggendo (⁴¹)'l primo sito (⁴²),\
-&emsp;Non corre (⁴³) come tu ch'adesso (⁴⁴) riedi (⁴⁵).
+31 Tu (37) non se'in terra (38), sì come tu credi (39);\
+&emsp;Mai fulgure (40), fuggendo (41)'l primo sito (42),\
+&emsp;Non corre (43) come tu ch'adesso (44) riedi (45).
 
-³¹ Tu non es in terra, sicut tu credis,\
+31 Tu non es in terra, sicut tu credis,\
 &emsp;Sed fulgur fugiens a proprio situ,\
 &emsp;Non cucurrit unquam, sicut tu nunc redis.
 
-(¹) a me Dante — (²) sì grande spatio — (³) allhora — (⁴) illuminato — (⁵) splendore — (⁶) sole — (⁷) piova alcuna — (⁸) alcuno — (⁹) lago d'acqua — (¹⁰) mai nel mondo — (¹¹) grande e spatioso — (¹²) de' cieli ch'io vidi — (¹³) ch'io vidi della luna — (¹⁴) donde procedevano — (¹⁵) in me Dante messeno un desiderio — (¹⁶) da me Dante, o dai mortali — (¹⁷) quanto era quello — (¹⁸) appetito e vogla e pungimento di cuore — (¹⁹) onde Beatrice — (²⁰) intendeva el mio desiderio — (²¹) come io proprio — (²²) a consolare in me — (²³) mio — (²⁴) a tanto desiderio — (²⁵) al. prima — (²⁶) che addomandarmi — (²⁷) sua — (²⁸) aprì a parlare — (²⁹) Beatrice a dire — (³⁰) Dante — (³¹) rozzo ad intendere — (³²) tuo — (³³) che falsamente ymagini d'esser in terra e non se' — (³⁴) tu — (³⁵) intenderesti — (³⁶) fossi libero dal falso ymaginare — (³⁷) Dante — (³⁸) coll'animo — (³⁹) d'essere — (⁴⁰) saetta — (⁴¹) cioè le nuvole — (⁴²) suo dell'aere — (⁴³) presto alla terra in giù — (⁴⁴) che hora — (⁴⁵) ritorni coll'animo alla terra, o vero al cielo coll'anima.
+(1) a me Dante — (2) sì grande spatio — (3) allhora — (4) illuminato — (5) splendore — (6) sole — (7) piova alcuna — (8) alcuno — (9) lago d'acqua — (10) mai nel mondo — (11) grande e spatioso — (12) de' cieli ch'io vidi — (13) ch'io vidi della luna — (14) donde procedevano — (15) in me Dante messeno un desiderio — (16) da me Dante, o dai mortali — (17) quanto era quello — (18) appetito e vogla e pungimento di cuore — (19) onde Beatrice — (20) intendeva el mio desiderio — (21) come io proprio — (22) a consolare in me — (23) mio — (24) a tanto desiderio — (25) al. prima — (26) che addomandarmi — (27) sua — (28) aprì a parlare — (29) Beatrice a dire — (30) Dante — (31) rozzo ad intendere — (32) tuo — (33) che falsamente ymagini d'esser in terra e non se' — (34) tu — (35) intenderesti — (36) fossi libero dal falso ymaginare — (37) Dante — (38) coll'animo — (39) d'essere — (40) saetta — (41) cioè le nuvole — (42) suo dell'aere — (43) presto alla terra in giù — (44) che hora — (45) ritorni coll'animo alla terra, o vero al cielo coll'anima.
 
 quod duo fecerunt ipsum stupidum, scilicet dulcis cantus nunquam amplius auditus, et luminositas non visa. De illo cantu suavi mirabiliter sensit una opinio, que dixit quod planete et orbes, dum moventur ita circulariter, causant unum dulcem sonum, dulcissimam melodiam suavissimamque, unde anime, que sunt in illis speris, beatificantur. Hanc opinionem tangit Macrobius, De sompno Scipionis; etiam Boetius tangit, non dico quod assertive, sed bene retractive; de qua opinione Aristotiles trufatur: sed sive illa opinio sit vera vel non, non est presentis speculationis hoc inquirere. Auctor ipse non loquitur de armonia sensibili, sed de armonia et proportione celi, que consistit in coniunctionibus planetarum, et constellationibus [et] in dispositionibus: quando hanc percepit auctor, totus in stuporem ductus est), visum fuit michi tunc tantum de celo esse accensum a flamma solis, quod pluvia et flumen lacum non fecerunt aliquem tantum extensum.
 
@@ -376,39 +376,39 @@ Sed Beatrix, cui nihil est occultum, perpendit de desiderio Dantis, absque hoc q
 
 <!-- p. 829 (0883) -->
 
-³² S'io (¹) fui del primo dubbio (²) disvestito (³)\
-&emsp;Per le sorrise (⁴) parolette brevi (⁵),\
-&emsp;Dentro ad un nuovo (⁶) più (⁷) fui irretito (⁸);
+32 S'io (1) fui del primo dubbio (2) disvestito (3)\
+&emsp;Per le sorrise (4) parolette brevi (5),\
+&emsp;Dentro ad un nuovo (6) più (7) fui irretito (8);
 
-³² Si ego fui de primo dubio exutus\
+32 Si ego fui de primo dubio exutus\
 &emsp;Propter subridentia verba brevia,\
 &emsp;Intra unum novum magis ego fui irretitus;
 
-³³ E dixi (⁹): Già contento (¹⁰) requievi (¹¹)\
-&emsp;Di grande ammiration (¹²); ma hor ammiro (¹³)\
-&emsp;Com' (¹⁴) io trascenda (¹⁵) questi corpi lievi.
+33 E dixi (9): Già contento (10) requievi (11)\
+&emsp;Di grande ammiration (12); ma hor ammiro (13)\
+&emsp;Com' (14) io trascenda (15) questi corpi lievi.
 
-³³ Et dixi: Iam contentus requievi\
+33 Et dixi: Iam contentus requievi\
 &emsp;De grandi admiratione; sed nunc admiror\
 &emsp;Quomodo ego transcendam ista corpora levia.
 
-³⁴ Ond' (¹⁶) ella (¹⁷), appresso (¹⁸) d'un dolce (¹⁹) sospiro (²⁰),\
-&emsp;Gl'ochi (²¹) drizò ver me (²²), con que' sembiante (²³),\
-&emsp;Che madre (²⁴) fa sopra 'l figlio (²⁵) deliro (²⁶);
+34 Ond' (16) ella (17), appresso (18) d'un dolce (19) sospiro (20),\
+&emsp;Gl'ochi (21) drizò ver me (22), con que' sembiante (23),\
+&emsp;Che madre (24) fa sopra 'l figlio (25) deliro (26);
 
-³⁴ Unde ipsa, apud unum pium suspirium,\
+34 Unde ipsa, apud unum pium suspirium,\
 &emsp;Oculos vertit versus me cum illa similitudine,\
 &emsp;Quam facit mater super filium delirum;
 
-³⁵ E cominciò (²⁷): Le cose tucte quante (²⁸)\
-&emsp;Ha un ordine (²⁹) tra loro; e questo (³⁰) è forma\
-&emsp;Che l'universo (³¹) a Dio fa simiglante (³²).
+35 E cominciò (27): Le cose tucte quante (28)\
+&emsp;Ha un ordine (29) tra loro; e questo (30) è forma\
+&emsp;Che l'universo (31) a Dio fa simiglante (32).
 
-³⁵ Et incepit: Res omnes\
+35 Et incepit: Res omnes\
 &emsp;Habent ordinem inter se; et ista est forma\
 &emsp;Que universum Deo facit simile.
 
-(¹) se io Dante — (²) predecto — (³) spogliato — (⁴) facte con soghigno — (⁵) di Beatrice predecte — (⁶) dubio — (⁷) che del primo — (⁸) legato — (⁹) a Beatrice — (¹⁰) da te — (¹¹) mi son riposato del primo dubio — (¹²) dubio predecto — (¹³) hora mi maraviglo — (¹⁴) come io — (¹⁵) trapassi così leggermente — (¹⁶) dell'aere, del foco, etc. essendo io corporeo e grave, la cui natura è discendere et non salire — (¹⁷) onde essa Beatrice — (¹⁸) doppo — (¹⁹) al. pio — (²⁰) che fece — (²¹) suoi — (²²) verso me Dante — (²³) similitudine, cioè acto un poco turbato — (²⁴) la — (²⁵) suo — (²⁶) stolto, delirare est a sulco et via errare sicut iuvencus — (²⁷) Beatrice a dire — (²⁸) create da Dio — (²⁹) debito e ragionevole — (³⁰) ordine — (³¹) tutte le sue creature — (³²) qual cosa più e qual meno.
+(1) se io Dante — (2) predecto — (3) spogliato — (4) facte con soghigno — (5) di Beatrice predecte — (6) dubio — (7) che del primo — (8) legato — (9) a Beatrice — (10) da te — (11) mi son riposato del primo dubio — (12) dubio predecto — (13) hora mi maraviglo — (14) come io — (15) trapassi così leggermente — (16) dell'aere, del foco, etc. essendo io corporeo e grave, la cui natura è discendere et non salire — (17) onde essa Beatrice — (18) doppo — (19) al. pio — (20) che fece — (21) suoi — (22) verso me Dante — (23) similitudine, cioè acto un poco turbato — (24) la — (25) suo — (26) stolto, delirare est a sulco et via errare sicut iuvencus — (27) Beatrice a dire — (28) create da Dio — (29) debito e ragionevole — (30) ordine — (31) tutte le sue creature — (32) qual cosa più e qual meno.
 
 visum fuit, quomodo ipse biberat de aqua Lethes et Eunoe, et sic erat purus et dispositus ascendere ad stellas. Sic finivit Purgatorium. Ideo ipse velociter currebat in celum, tamquam ad locum et situm proprium. Et quia iam erat in celo, ideo non debebat admirari de illa tanta luminositate, et nec de illa tam pulchra proportione et armonia, sicut ipse videbat ibi et audiebat.
 
@@ -422,55 +422,55 @@ Tunc Beatrix suspiravit more pie matris, et convertit oculos suos ad Dantem sic,
 
 <!-- p. 830 (0884) -->
 
-³⁶ Qui (¹) veggion l'alte creature (²) l'orma (³)\
-&emsp;Dell'eterno valore (⁴), el quale (⁵) è fine (⁶),\
-&emsp;Al quale (⁷) è facta la toccata norma (⁸).
+36 Qui (1) veggion l'alte creature (2) l'orma (3)\
+&emsp;Dell'eterno valore (4), el quale (5) è fine (6),\
+&emsp;Al quale (7) è facta la toccata norma (8).
 
-³⁶ Hinc vident alte creature ormam\
+36 Hinc vident alte creature ormam\
 &emsp;Eterni valoris, et ille est finis\
 &emsp;Ad quem facta est tacta norma.
 
-³⁷ Nell'ordine (⁹) ch'io dico sono incline (¹⁰)\
-&emsp;Tucte nature (¹¹), per diverse sorti (¹²),\
-&emsp;Più al principio (¹³) loro e men (¹⁴) vicine (¹⁵);
+37 Nell'ordine (9) ch'io dico sono incline (10)\
+&emsp;Tucte nature (11), per diverse sorti (12),\
+&emsp;Più al principio (13) loro e men (14) vicine (15);
 
-³⁷ In ordine in quo dico sunt accline\
+37 In ordine in quo dico sunt accline\
 &emsp;Omnes nature, per diversas sortes,\
 &emsp;Magis principio eorum et minus vicine;
 
-³⁸ Onde (¹⁶) si muoveno a diversi (¹⁷) porti (¹⁸),\
-&emsp;Per lo gran mar (¹⁹) dell'essere (²⁰), e ciascuna (²¹)\
-&emsp;Con instincto (²²) a lei dato (²³) che la porti (²⁴).
+38 Onde (16) si muoveno a diversi (17) porti (18),\
+&emsp;Per lo gran mar (19) dell'essere (20), e ciascuna (21)\
+&emsp;Con instincto (22) a lei dato (23) che la porti (24).
 
-³⁸ Unde moventur ad diversos portus\
+38 Unde moventur ad diversos portus\
 &emsp;Propter magnum mare esse, et quelibet\
 &emsp;Cum instinctu ei dato qui illam portet.
 
-³⁹ Questi (²⁵) ne porta (²⁶) el fuoco inver (²⁷) la luna;\
-&emsp;Questi (²⁸) ne'cuor mortali (²⁹) è promotore (³⁰);\
-&emsp;Questi (³¹) la terra (³²) in sè stringe (³³) et aduna.
+39 Questi (25) ne porta (26) el fuoco inver (27) la luna;\
+&emsp;Questi (28) ne'cuor mortali (29) è promotore (30);\
+&emsp;Questi (31) la terra (32) in sè stringe (33) et aduna.
 
-³⁹ Istud portat ignem versus lunam;\
+39 Istud portat ignem versus lunam;\
 &emsp;Istud in cordibus mortalium est promotor;\
 &emsp;Istud terram in se stringit et adymat.
 
-⁴⁰ Nè pur (³⁴) le creature (³⁵) che son fuore\
-&emsp;D'intelligentia (³⁶) questo arco (³⁷) saetta (³⁸),\
-&emsp;Ma (³⁹) quelle ch'anno (⁴⁰) intellecto et amore (⁴¹).
+40 Nè pur (34) le creature (35) che son fuore\
+&emsp;D'intelligentia (36) questo arco (37) saetta (38),\
+&emsp;Ma (39) quelle ch'anno (40) intellecto et amore (41).
 
-⁴⁰ Non solum creaturas que sunt foris\
+40 Non solum creaturas que sunt foris\
 &emsp;Intelligentiam iste actus sagiptat,\
 &emsp;Sed illas que habent intellectum et amorem.
 
-⁴¹ La Providentia (⁴²), che (⁴³) cotanto (⁴⁴) assetta (⁴⁵),\
-&emsp;Del suo lume (⁴⁶) fa'l ciel (⁴⁷) sempre quieto (⁴⁸),\
-&emsp;Nel qual (⁴⁹) si volge quel (⁵⁰) ch'à (⁵¹) maggior fretta (⁵²).
+41 La Providentia (42), che (43) cotanto (44) assetta (45),\
+&emsp;Del suo lume (46) fa'l ciel (47) sempre quieto (48),\
+&emsp;Nel qual (49) si volge quel (50) ch'à (51) maggior fretta (52).
 
-⁴¹ Providentia, que tantum assectat,\
+41 Providentia, que tantum assectat,\
 &emsp;De lumine suo celum semper facit quietum,\
 &emsp;In quo volvitur illud quod habet maiorem festinantiam.
 
-(¹) in quest'ordine — (²) angeli et huomini — (³) segno e vestigio — (⁴) potentia, sapientia et bontà di Dio — (⁵) valore di Dio — (⁶) quia Deus est finis omnium rerum sicut et principium — (⁷) fine — (⁸) el predecto ordine de le cose — (⁹) predecto — (¹⁰) inclinate — (¹¹) tutte le specie de la natura naturata — (¹²) vie e disposizioni — (¹³) l'una a Dio — (¹⁴) l'altra — (¹⁵) proxime e simili — (¹⁶) per la qual cosa — (¹⁷) tutte le specie de la natura — (¹⁸) fini e termini — (¹⁹) grande mare — (²⁰) profondità di tante cose — (²¹) di quelle — (²²) movimento naturale — (²³) da Dio — (²⁴) al suo proprio fine — (²⁵) ordine predecto — (²⁶) naturalmente — (²⁷) in su verso'l cielo, ov'è la regione sua propria — (²⁸) ordin predecto — (²⁹) cuori degl'huomini — (³⁰) al loro proprio fine, Dio — (³¹) ordine predecto — (³²) per la sua gravità — (³³) altrimenti si dissolverebbe. Et hic est color rethoricus, qui dicitur repetitio, incipiendo tres diversas orationes ab uno termino, idest, questi, questi, questi — (³⁴) solamente — (³⁵) infime — (³⁶) d'intelletto e ragione — (³⁷) instincto — (³⁸) pinge e manda al suo bersaglio — (³⁹) etiandio — (⁴⁰) che hanno in sè — (⁴¹) come sono angeli et huomini — (⁴²) divina — (⁴³) la quale — (⁴⁴) l'universo — (⁴⁵) acconcia et ordina bene — (⁴⁶) della sua luce — (⁴⁷) fa il cielo empyreo — (⁴⁸) immobile — (⁴⁹) cielo empyreo — (⁵⁰) cielo — (⁵¹) che ha — (⁵²) nel suo moto.
+(1) in quest'ordine — (2) angeli et huomini — (3) segno e vestigio — (4) potentia, sapientia et bontà di Dio — (5) valore di Dio — (6) quia Deus est finis omnium rerum sicut et principium — (7) fine — (8) el predecto ordine de le cose — (9) predecto — (10) inclinate — (11) tutte le specie de la natura naturata — (12) vie e disposizioni — (13) l'una a Dio — (14) l'altra — (15) proxime e simili — (16) per la qual cosa — (17) tutte le specie de la natura — (18) fini e termini — (19) grande mare — (20) profondità di tante cose — (21) di quelle — (22) movimento naturale — (23) da Dio — (24) al suo proprio fine — (25) ordine predecto — (26) naturalmente — (27) in su verso'l cielo, ov'è la regione sua propria — (28) ordin predecto — (29) cuori degl'huomini — (30) al loro proprio fine, Dio — (31) ordine predecto — (32) per la sua gravità — (33) altrimenti si dissolverebbe. Et hic est color rethoricus, qui dicitur repetitio, incipiendo tres diversas orationes ab uno termino, idest, questi, questi, questi — (34) solamente — (35) infime — (36) d'intelletto e ragione — (37) instincto — (38) pinge e manda al suo bersaglio — (39) etiandio — (40) che hanno in sè — (41) come sono angeli et huomini — (42) divina — (43) la quale — (44) l'universo — (45) acconcia et ordina bene — (46) della sua luce — (47) fa il cielo empyreo — (48) immobile — (49) cielo empyreo — (50) cielo — (51) che ha — (52) nel suo moto.
 
 est finis omnium creaturarum. Demum consideretur ordo rerum, datus rebus naturalibus a Deo et natura. Demum consideretur instinctum nature; nam omnis species specifica habet suum instinctum, ut canis ad venandum, piscis ad natandum, homo ad ratiocinandum, etc. Demum considerandum est, quod nedum creaturas non rationabiles, sed etiam et rationabiles, iste ordo naturalis trahit ad finem intentum a Deo et natura. Tunc ad textum.
 
@@ -484,47 +484,47 @@ Providentia, scilicet divina, que tantum assectat, idest disponit et ordinat, de
 
 <!-- p. 831 (0885) -->
 
-⁴² Et hora lì (¹), come a sito (²) decreto (³),\
-&emsp;Cen porta (⁴) la virtù di quella corda (⁵),\
-&emsp;Che ciò che scocha (⁶) drizza (⁷) in segno lieto (⁸).
+42 Et hora lì (1), come a sito (2) decreto (3),\
+&emsp;Cen porta (4) la virtù di quella corda (5),\
+&emsp;Che ciò che scocha (6) drizza (7) in segno lieto (8).
 
-⁴² Et nunc illuc, sicut ad situm decretum,\
+42 Et nunc illuc, sicut ad situm decretum,\
 &emsp;Nos portat virtus illius corde,\
 &emsp;Que quidquid movet dirigit in letum signum.
 
-⁴³ Ver'è (⁹) che, come forma (¹⁰) non s'accorda (¹¹)\
-&emsp;Molte fiate (¹²) alla 'ntention dell'arte (¹³),\
-&emsp;Perchè a risponder (¹⁴) la materia è sorda (¹⁵);
+43 Ver'è (9) che, come forma (10) non s'accorda (11)\
+&emsp;Molte fiate (12) alla 'ntention dell'arte (13),\
+&emsp;Perchè a risponder (14) la materia è sorda (15);
 
-⁴³ Verum est, quod sicut forma se non concordat\
+43 Verum est, quod sicut forma se non concordat\
 &emsp;Multoties cum intentione artis,\
 &emsp;Quia ad respondendum materia est surda;
 
-⁴⁴ Così da questo corso (¹⁶) si diparte\
-&emsp;Talhor (¹⁷) la creatura (¹⁸), ch'à potere (¹⁹)\
-&emsp;Di pieghar (²⁰), così pinta (²¹), in altra parte (²²),
+44 Così da questo corso (16) si diparte\
+&emsp;Talhor (17) la creatura (18), ch'à potere (19)\
+&emsp;Di pieghar (20), così pinta (21), in altra parte (22),
 
-⁴⁴ Sic ab isto cursu recedit\
+44 Sic ab isto cursu recedit\
 &emsp;Aliquando creatura, que habet potentiam\
 &emsp;Plicandi se, sic impulsa, in aliam partem.
 
-⁴⁵ E sì (²³), come si può veder cadere (²⁴)\
-&emsp;Fuoco (²⁵) di nube, se l'impeto primo (²⁶)\
-&emsp;A terra (²⁷) è torto (²⁸) per falso piacere (²⁹).
+45 E sì (23), come si può veder cadere (24)\
+&emsp;Fuoco (25) di nube, se l'impeto primo (26)\
+&emsp;A terra (27) è torto (28) per falso piacere (29).
 
-⁴⁵ Et, sicut videri potest cadere\
+45 Et, sicut videri potest cadere\
 &emsp;Ignis de nube, sic ab impetu primo\
 &emsp;Terra torta a falsa complacentia.
 
-⁴⁶ Non dèi (³⁰) più ammirar (³¹), se bene stimo (³²),\
-&emsp;Del tuo salir (³³), se non come (³⁴) d'un rivo (³⁵)\
-&emsp;Se d'alto (³⁶) monte scende (³⁷) giuso ad ymo (³⁸).
+46 Non dèi (30) più ammirar (31), se bene stimo (32),\
+&emsp;Del tuo salir (33), se non come (34) d'un rivo (35)\
+&emsp;Se d'alto (36) monte scende (37) giuso ad ymo (38).
 
-⁴⁶ Non debes plus admirari, si bene existimo,\
+46 Non debes plus admirari, si bene existimo,\
 &emsp;De tuo ascensu, nisi sicut de uno rivo\
 &emsp;Si de alto monte descendit infra ad ymum.
 
-(¹) al cielo empyreo — (²) nostro — (³) determinato a noi da Dio naturalmente — (⁴) col naturale instincto — (⁵) ordine naturale — (⁶) ogni cosa che manda da sè — (⁷) naturalmente — (⁸) fine giocondo, cioè sommo bene — (⁹) vero è — (¹⁰) artificiale — (¹¹) riesce — (¹²) volte — (¹³) secondo la intentione dell'artefice — (¹⁴) consentire all'artefice — (¹⁵) non è disposta — (¹⁶) instinto e movimento naturale — (¹⁷) alcuna volta — (¹⁸) rationale — (¹⁹) che ha libero arbitrio — (²⁰) di rivoltarsi — (²¹) inclinata — (²²) in altro fine che'l suo naturale per sua sensuale volontà e terrena cupidità, etc. — (²³) e così si diparte — (²⁴) contro sua naturale inclinazione — (²⁵) pincto in giù da essa — (²⁶) la naturale inclinatione dell'uomo — (²⁷) alle cose terrene — (²⁸) piegato — (²⁹) dilecto de la carne et de'beni temporali — (³⁰) debbi, o Dante — (³¹) maravigliarti — (³²) penso — (³³) ascendere in cielo — (³⁴) maravigliarti — (³⁵) fiume d'acqua — (³⁶) da uno alto — (³⁷) discende — (³⁸) a basso, che è cosa naturale.
+(1) al cielo empyreo — (2) nostro — (3) determinato a noi da Dio naturalmente — (4) col naturale instincto — (5) ordine naturale — (6) ogni cosa che manda da sè — (7) naturalmente — (8) fine giocondo, cioè sommo bene — (9) vero è — (10) artificiale — (11) riesce — (12) volte — (13) secondo la intentione dell'artefice — (14) consentire all'artefice — (15) non è disposta — (16) instinto e movimento naturale — (17) alcuna volta — (18) rationale — (19) che ha libero arbitrio — (20) di rivoltarsi — (21) inclinata — (22) in altro fine che'l suo naturale per sua sensuale volontà e terrena cupidità, etc. — (23) e così si diparte — (24) contro sua naturale inclinazione — (25) pincto in giù da essa — (26) la naturale inclinatione dell'uomo — (27) alle cose terrene — (28) piegato — (29) dilecto de la carne et de'beni temporali — (30) debbi, o Dante — (31) maravigliarti — (32) penso — (33) ascendere in cielo — (34) maravigliarti — (35) fiume d'acqua — (36) da uno alto — (37) discende — (38) a basso, che è cosa naturale.
 
 quietum, imo immobile, quod nunquam movetur, scilicet celum empyreum; in quo, scilicet celo empyreo, volvitur, scilicet celum primi mobilis, sive ipsum primum mobile quod est in empyreo, scilicet infra quod movetur, illud quod habet maiorem festinantiam, idest ipsum primum mobile, quod festinantius movetur omnibus aliis, quia volvitur in vigintiquatuor horis semel.
 
@@ -536,17 +536,17 @@ Modo concludit auctor, dicente Beatrice, quod ipse plus admirari non debet de su
 
 <!-- p. 832 (0886) -->
 
-⁴⁷ Maravigla (¹) sarebbe in te (²), se privo (³)\
-&emsp;D'impedimento (⁴) giù (⁵) ti fossi assiso (⁶),\
-&emsp;Com'a terra quieto è 'l fuoco vivo (⁷).\
-&emsp;Quinci (⁸) rivolse (⁹) inver el ciel el viso (¹⁰).
+47 Maravigla (1) sarebbe in te (2), se privo (3)\
+&emsp;D'impedimento (4) giù (5) ti fossi assiso (6),\
+&emsp;Com'a terra quieto è 'l fuoco vivo (7).\
+&emsp;Quinci (8) rivolse (9) inver el ciel el viso (10).
 
-⁴⁷ Mirum esset in te, si privatus\
+47 Mirum esset in te, si privatus\
 &emsp;Impedimento, inferius te ad sedendum posuisses,\
 &emsp;Sicut si in terra quietaretur ignis vivus.\
 &emsp;Inde revolvit versus celum visum.
 
-(¹) da maravigliare — (²) Dante — (³) privato e libero — (⁴) alcuno temporale, o carnale — (⁵) in terra — (⁶) riposto e quetato — (⁷) sarebbe maravigla se si si vedesse el fuoco acceso inclinarsi a terra contro la sua natura — (⁸) da questo parlare — (⁹) da me, Beatrice — (¹⁰) suo. Ex hoc intellige quod Dantes visum, idest intellectum suum, amovit ad studium Theologiae, ubi de supremis et celestibus tractat.
+(1) da maravigliare — (2) Dante — (3) privato e libero — (4) alcuno temporale, o carnale — (5) in terra — (6) riposto e quetato — (7) sarebbe maravigla se si si vedesse el fuoco acceso inclinarsi a terra contro la sua natura — (8) da questo parlare — (9) da me, Beatrice — (10) suo. Ex hoc intellige quod Dantes visum, idest intellectum suum, amovit ad studium Theologiae, ubi de supremis et celestibus tractat.
 
 est naturalis ascensus, datus [a] purgatione et dispositione sua optima, nisi sicut esset admirandum de descensu aque ab alto loco in ymum. Sed plus esset admirandum, si staret in terra, sic purgatus et dispositus, sicut si ignis vivus, idest flamma viva, quiesceret in terra et non tenderet versus sursum. Non debes plus admirari, si bene existimo, de tuo ascensu, nisi sicut de uno rivo si de alto monte descendat, scilicet ad ymum: mirum esset in te, idest admirandum esset de te, si purus, idest purgatus, liber impedimento, inferius te ad sedendum posuisses, idest si te firmasses in terra et non currisses ad celum, sicut si in terra quietaretur ignis vivus, vel staret quietus, et non tenderet sursum vel quiesceret; quod est contra naturam ipsius ignis. Hiis dictis, Beatrix vertit se ad celum idest, Dantes theologice cepit speculationem facere de celo. Quince: idest inde, revolvit, scilicet Beatrix, versus celum visum, idest faciem suam.
 

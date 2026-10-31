@@ -8,23 +8,23 @@ In capitulo vicesimoquarto, quod incipit: In illa parte iunioris anni, dat Virgi
 
 # Capitulum Vicesimumquartum
 
-¹ In quella parte del giovinetto anno,\
+1 In quella parte del giovinetto anno,\
 &emsp;Che 'l sol i crin sotto l'Aquario tempra,\
 &emsp;E già le nocti a mezzo'l dì sen vanno;
 
-¹ In illa parte iuvenculi anni,\
+1 In illa parte iuvenculi anni,\
 &emsp;In qua sol crines sub Aquario temperat,\
 &emsp;Et iam noctes ad meridiem vadunt;
 
-² Quando la brina in su la terra sempra\
-&emsp;L'ymagine di sua sorella (¹) bianca,\
+2 Quando la brina in su la terra sempra\
+&emsp;L'ymagine di sua sorella (1) bianca,\
 &emsp;Ma poco basta a la sua penna tempra;
 
-² Quando pruina super terram exemplatur\
+2 Quando pruina super terram exemplatur\
 &emsp;Imaginem sue sororis albe,\
 &emsp;Sed parum durat sue penne moderamen;
 
-(¹) neve.
+(1) neve.
 
 In illa parte iuvenculi anni. E'n quella parte del giovenecto anno: istud est vicesimumquartum capitulum huius Inferni, in quo auctor tractat de septima specie fraudis, scilicet de latrocinio, sive de furto; quod capitulum dividitur in quatuor partes. In quarum prima describit dispositionem Virgilii et recessum a sexta bolgia. In secunda dat Virgilius bonum consilium auctori et bona verba; que incipit ibi:
 
@@ -42,71 +42,71 @@ Dicit hic auctor: In illa parte iuvenculi anni. Vocat hic auctor annum iuvenculu
 
 <!-- p. 297 (0351) -->
 
-³ Lo villanello, a cui la robba manca,\
+3 Lo villanello, a cui la robba manca,\
 &emsp;Si leva e guarda, e vede la campagna\
 &emsp;Biancheggiar tutta, ond'ei si batte l'anca:
 
-³ Rusticus, cui rauba deficit,\
+3 Rusticus, cui rauba deficit,\
 &emsp;Surgit et respicit, et videt campaniam\
 &emsp;Albefieri totam, unde ipse sibi percutit crus:
 
-⁴ Ritorna in casa, e qua e là si lagna,\
+4 Ritorna in casa, e qua e là si lagna,\
 &emsp;Come'l tapin che non sa che si faccia;\
-&emsp;Poi riede (¹), e la speranza el rincavagna,
+&emsp;Poi riede (1), e la speranza el rincavagna,
 
-⁴ Redit domum, et hinc illinc languet,\
+4 Redit domum, et hinc illinc languet,\
 &emsp;Sicut mestus qui nescit id quod faciat;\
 &emsp;Postmodum redit, et spem reassumit,
 
-⁵ Veggendo'l mondo (²) haver cangiata (³) faccia\
+5 Veggendo'l mondo (2) haver cangiata (3) faccia\
 &emsp;In poco d'hora, e prende suo vincastro,\
 &emsp;E fuor le pecorelle a pascer caccia:
 
-⁵ Videndo mundum permutasse faciem\
+5 Videndo mundum permutasse faciem\
 &emsp;In pauca hora, et prendit suum vincastrum,\
 &emsp;Et extra oviculas ad pascendum mictit:
 
-⁶ Così mi fece sbigottir lo mastro (⁴),\
+6 Così mi fece sbigottir lo mastro (4),\
 &emsp;Quando li vidi sì turbar la fronte,\
 &emsp;E così tosto al mal giunse l'impiastro:
 
-⁶ Ita me fecit pavere magister,\
+6 Ita me fecit pavere magister,\
 &emsp;Quando ego vidi sibi turbari faciem,\
 &emsp;Et ita cito malo supervenit emplaustrum:
 
-⁷ Chè come noi venimmo al guasto ponte.\
+7 Chè come noi venimmo al guasto ponte.\
 &emsp;Lo duc'a me si volse con quel piglo\
 &emsp;Dolce, ch'io vidi prima a piè del ponte.
 
-⁷ Quia sicut nos venimus ad destructum pontem,\
+7 Quia sicut nos venimus ad destructum pontem,\
 &emsp;Dux ad me se vertit cum illo aspectu\
 &emsp;Dulci, quem vidi prius ad pedem montis.
 
-⁸ Le braccia aperse, doppo alcun consiglo\
-&emsp;Ellecto (⁵) seco, riguardando prima\
+8 Le braccia aperse, doppo alcun consiglo\
+&emsp;Ellecto (5) seco, riguardando prima\
 &emsp;Ben la ruina, e diedemi di piglo.
 
-⁸ Brachia aperuit, et post aliquale consilium\
+8 Brachia aperuit, et post aliquale consilium\
 &emsp;Electum secum, respiciendo prius\
 &emsp;Bene ruinam, et exinde cepit me.
 
-⁹ E come quei che adopera e stima,\
+9 E come quei che adopera e stima,\
 &emsp;Che sempre par che'nnanzi si proveggia;\
 &emsp;Così, levando me su ver la cima
 
-⁹ Et sicut ille qui operatur et existimat,\
+9 Et sicut ille qui operatur et existimat,\
 &emsp;Quod semper apparet quod ante sibi provideat;\
 &emsp;Sic, levando me sursum versus summitatem
 
-¹⁰ D'un ro[n]chion, avvisò un'altra scheggia,\
+10 D'un ro[n]chion, avvisò un'altra scheggia,\
 &emsp;Dicendo: Sopra quella poi t'aggrappa;\
 &emsp;Ma tempta prima, se è tal che ti reggia.
 
-¹⁰ Unius runchi, ymaginabatur de uno alio apice,\
+10 Unius runchi, ymaginabatur de uno alio apice,\
 &emsp;Dicendo: Super illo postea te aggrappes;\
 &emsp;Sed tenta prius, si est talis quod te regat.
 
-(¹) ritorna fuori. — (²) al. vedendol. — (³) cambiata. — (⁴) Virgilio — (⁵) al. electo, et melius.
+(1) ritorna fuori. — (2) al. vedendol. — (3) cambiata. — (4) Virgilio — (5) al. electo, et melius.
 
 pauca hora, et apprehendit suum vincastrum, idest suam virgam, et extra, scilicet domum, oviculas ad pascendum mictit, idest conducit. Ita me fecit pavere magister, quando ego vidi sibi turbari frontem; et ita cito, malo, idest turbationi, supervenit emplaustrum, idest cito reassumpsi spem bonam. Vult dicere auctor, quod, sicut rusticus turbatur videndo pruinam, sed postea, liquefacta pruina, letatur; ita magister meus, turbatus propter verba mendosa Malacode, sive mendacia, fuit causa quod ego fui scandalizatus: sed statim letatus est magister, et ego reassumpsi bonam spem et fui letatus. Crines solis: scilicet radii eius. A mezzodi: ad meridiem, idest versus equinoctium. Pruina dicitur soror albe nivis ratione materie, quia eadem est, licet aliquantulum subtilior; ratione forme etiam, quia utraque est alba: tamen non plus durat pruina, oriente sole, nisi quantum moderatura penne. Methaphorica loquutio est. Copia deficit rustico, quando non habet paleas, aut fenum, pro ovibus. Ringavagna: idest recuperat. Terram vidit mutatam facie, quia iam apparebat viridis in pascuis, ubi prius apparebat alba propter pruinam.
 
@@ -116,71 +116,71 @@ Et sicut ille, qui operatur et extimat, quod semper apparet quod ante, scilicet 
 
 <!-- p. 298 (0352) -->
 
-¹¹ Non v'era via da vestito di cappa (¹),\
-&emsp;Chè noi a pena, ei lieve (²) et io spincto (³),\
+11 Non v'era via da vestito di cappa (1),\
+&emsp;Chè noi a pena, ei lieve (2) et io spincto (3),\
 &emsp;Potevàn su montar di chiappa in chiappa.
 
-¹¹ Non erat via pro vestito de cappa,\
+11 Non erat via pro vestito de cappa,\
 &emsp;Quia nos vix, ipse levis et ego impulsus,\
 &emsp;Poteramus sursum ascendere de apice in apicem.
 
-¹² E se non fusse, che da quel precincto,\
+12 E se non fusse, che da quel precincto,\
 &emsp;Più che da l'altro, era la costa corta,\
-&emsp;Non so di lui (⁴), ma io sarei ben vincto.
+&emsp;Non so di lui (4), ma io sarei ben vincto.
 
-¹² Et si non fuisset, quod ab illo precintu,\
+12 Et si non fuisset, quod ab illo precintu,\
 &emsp;Magis quam ab alio, erat costa curta,\
 &emsp;Nescio de eo, sed bene ego fuissem victus.
 
-¹³ Ma perchè Malebolge in su la porta\
+13 Ma perchè Malebolge in su la porta\
 &emsp;Del bassissimo pozzo tucta pende,\
 &emsp;Lo sito di ciascuna valle porta:
 
-¹³ Sed quia Malibolgia versus portam\
+13 Sed quia Malibolgia versus portam\
 &emsp;Infimissimi puthei tota pendet,\
 &emsp;Situm cuiuslibet vallis portat:
 
-¹⁴ Chè l'una costa surge e l'altra scende:\
+14 Chè l'una costa surge e l'altra scende:\
 &emsp;Noi pur venimmo al fine in sulla puncta\
 &emsp;Dove l'ultima costa si scoscende.
 
-¹⁴ Quia una costa surgit et alia descendit:\
+14 Quia una costa surgit et alia descendit:\
 &emsp;Nos pervenimus finaliter super punctam\
 &emsp;Unde ultima petra discosscenditur.
 
-¹⁵ La lena m'era del polmon sì muncta\
+15 La lena m'era del polmon sì muncta\
 &emsp;Quando fui su, ch'io non potea più oltre,\
 &emsp;Anzi m'assisi ne la prima giuncta.
 
-¹⁵ Anhelitus pulmonis michi erat ita munctus\
+15 Anhelitus pulmonis michi erat ita munctus\
 &emsp;Quando fui superius, quod ego non poteram ulterius,\
 &emsp;Ymo posui me ad sedendum in primo adventu.
 
-¹⁶ Omai convien che ben così ti spoltre,\
+16 Omai convien che ben così ti spoltre,\
 &emsp;Disse'l Maestro, chè, giacendo in piuma,\
 &emsp;In fama non si vien, nè socto coltre:
 
-¹⁶ Ammodo convenit quod tu sic te expoltres,\
+16 Ammodo convenit quod tu sic te expoltres,\
 &emsp;Dixit magister, quia, sedendo in pluma,\
 &emsp;Ad famam non devenitur, nec sub cultra:
 
-¹⁷ Senza la qual chi sua vita consuma,\
-&emsp;Cotal vestigio di sè'n terra (⁵) lascia,\
+17 Senza la qual chi sua vita consuma,\
+&emsp;Cotal vestigio di sè'n terra (5) lascia,\
 &emsp;Qual fumo in aer o in acqua la schiuma:
 
-¹⁷ Sine qua qui suam vitam consumit,\
+17 Sine qua qui suam vitam consumit,\
 &emsp;Tale vestigium in terra de se relinquit,\
 &emsp;Quale fumus in aiere et in aqua spuma:
 
-¹⁸ E però leva su, vince l'ambascia\
+18 E però leva su, vince l'ambascia\
 &emsp;Coll' animo che vince ogni bactagla,\
 &emsp;Se col suo grave corpo non s'accascia.
 
-¹⁸ Et ideo surge, vince ambasciam\
+18 Et ideo surge, vince ambasciam\
 &emsp;[Cum animo qui vincit omnem pugnam],\
 &emsp;Si cum gravi corpore se non accasciat.
 
-(¹) ypocrita sopradecto. — (²) Virgilio. — (³) da lui. — (⁴) Virgilio. — (⁵) al. in terra di sè.
+(1) ypocrita sopradecto. — (2) Virgilio. — (3) da lui. — (4) Virgilio. — (5) al. in terra di sè.
 
 Non erat illa via pro vestito de cappa: idest pro ypocritis cum cappis plumbeis, quia nos vix, ipse levis et ego impulsus (ipse levis, sic nota rationem; ego impulsus, sic nota sensualitatem), poteramus sursum ascendere de c[hi]appa in c[hi]appam; idest de apice in apicem; sicut, si homo iret super tectum unius domus de tegula in tegulam, ubi esset periculum cadendi et collum frangendi. Modo vult ostendere quid eum iuvit, dicens de brevitate loci et itineris.
 
@@ -196,71 +196,71 @@ Nota quod famam quisque appetit homo sapiens, et maxime
 
 <!-- p. 299 (0353) -->
 
-¹⁹ Più lunga scala convien che si sagla;\
+19 Più lunga scala convien che si sagla;\
 &emsp;Non basta da costor esser partito:\
 &emsp;Se tu m'intendi, fa'sì che ti vagla.
 
-¹⁹ Longiores scale convenit quod ascendantur;\
+19 Longiores scale convenit quod ascendantur;\
 &emsp;Non sufficit ab istis discessisse:\
 &emsp;Si me intelligis, or facias sic quod tibi prosit.
 
-²⁰ Leva'mi allor, mostrandomi fornito\
+20 Leva'mi allor, mostrandomi fornito\
 &emsp;Meglo di lena ch'io non mi sentia;\
 &emsp;E dissi: Va', ch'io son forte et ardito.
 
-²⁰ Surrexi tunc, monstrando me fulcitum\
+20 Surrexi tunc, monstrando me fulcitum\
 &emsp;Melius de lena quam me sentiebam;\
 &emsp;Et dixi: Vade, quia ego sum fortis et audax.
 
-²¹ Su per lo scoglo prendemmo la via\
+21 Su per lo scoglo prendemmo la via\
 &emsp;Ch'era ronchioso, strecto e malegevole,\
 &emsp;E cieco più assai che quel di pria.
 
-²¹ Super scopulum cepimus viam,\
+21 Super scopulum cepimus viam,\
 &emsp;Qui erat runcosus, strictus et difficilis,\
 &emsp;Et altus satis plusquam ille primus.
 
-²² Parland'andavo per non parer fievole,\
+22 Parland'andavo per non parer fievole,\
 &emsp;Quand'una voce uscì dell'altro fosso,\
 &emsp;Che parole formò disconvenevole.
 
-²² Loquendo ibam ut non apparerem debilis,\
+22 Loquendo ibam ut non apparerem debilis,\
 &emsp;Et una vox exivit de alio fossato,\
 &emsp;Ad verba formandum inepta.
 
-²³ Non so che disse, ancor che sovra'l dosso\
+23 Non so che disse, ancor che sovra'l dosso\
 &emsp;Fuss'io dell'arco già che varca quivi;\
 &emsp;Ma chi parlava da ira parea mosso.
 
-²³ Nescio quid dixit, quam[vis] super dorso\
+23 Nescio quid dixit, quam[vis] super dorso\
 &emsp;Essem arcus iam qui transit ibi;\
 &emsp;Sed ille qui loquebatur videbatur ab ira commotus.
 
-²⁴ Io era volto in giù; ma gl'ochi vivi\
+24 Io era volto in giù; ma gl'ochi vivi\
 &emsp;Non potean ir al fondo per lo scuro:\
-&emsp;Perch'io: (¹) Maestro, fa'che tu arrivi
+&emsp;Perch'io: (1) Maestro, fa'che tu arrivi
 
-²⁴ Ego eram versus partem ymam; sed oculi vivi\
+24 Ego eram versus partem ymam; sed oculi vivi\
 &emsp;Non poterant ire ad fundum propter obscurum:\
 &emsp;Ex quo ego: Magister, facias quod tu devenias
 
-²⁵ Dall'altro cinghio, e dismontiamo'l muro;\
+25 Dall'altro cinghio, e dismontiamo'l muro;\
 &emsp;Chè, com'io odo, quinci e non intendo,\
 &emsp;Così giù veggio e niente affiguro.
 
-²⁵ Ad alium circulum, et descendamus murum;\
+25 Ad alium circulum, et descendamus murum;\
 &emsp;Quia, sicut audio hinc et nihil intelligo,\
 &emsp;Ita infra video et nihil percipio.
 
-²⁶ Altra risposta, disse, non ti rendo,\
+26 Altra risposta, disse, non ti rendo,\
 &emsp;Se non el far; chè la domanda honesta\
 &emsp;Si de' seguir coll'opera tacendo.
 
-²⁶ Aliud responsum tibi non reddo\
+26 Aliud responsum tibi non reddo\
 &emsp;Ni facere; quia petitio honesta\
 &emsp;Debet exequi cum opere tacendo.
 
-(¹) o.
+(1) o.
 
 poeta. Nunquam fuit qui esset avidus fame, quin oportuerit eum se disponere ad magnos labores, quales fuerunt labores Cesaris, quales Catonis, quales Annibalis. Piger homo et vilis, qualia vestigia dimictit post se? qualia fumus in aiere, qui subito evanescit: sic vilis homo resolvitur in nihil. Dicit Elius Spartianus: Ille michi satis vixisse videtur, qui cur vixerit, scit reddere rationem. Ecce quod satis videtur vixisse. Non debet homo vivere, ut consumat menses, sed ut per menses et in mensibus bene agat. Nam animus hominis, nedum vincit anxietatem corporalem, sed etiam vincit celum, idest constellationes.
 
@@ -278,55 +278,55 @@ Ego eram versus partem ymam; sed oculi vivi non poterant ire ad fundum, propter 
 
 <!-- p. 300 (0354) -->
 
-²⁷ Poi discendemmo el ponte da la testa,\
+27 Poi discendemmo el ponte da la testa,\
 &emsp;Dove si giugne coll'octava ripa,\
 &emsp;E poi mi fu la bolgia manifesta:
 
-²⁷ Nos descendimus pontem a capite,\
+27 Nos descendimus pontem a capite,\
 &emsp;Ubi coniungitur cum octava ripa,\
 &emsp;Et postea fuit michi bolgia manifesta:
 
-²⁸ E vidiv'entro terribile stipa (¹)\
-&emsp;Di serpenti, e di sì diversa mena (²),\
-&emsp;Che la memoria e'l sangue ancor mi scipa (³).
+28 E vidiv'entro terribile stipa (1)\
+&emsp;Di serpenti, e di sì diversa mena (2),\
+&emsp;Che la memoria e'l sangue ancor mi scipa (3).
 
-²⁸ Et vidi ibi intus terribilem stipam\
+28 Et vidi ibi intus terribilem stipam\
 &emsp;Serpentum, et tam diverse qualitatis,\
 &emsp;Quod memoria et sanguis adhuc scipantur.
 
-²⁹ Più non si vanti Libia (⁴) con sua rena (⁵),\
-&emsp;Con suoi (⁶) chelydri, iacule e pharee\
+29 Più non si vanti Libia (4) con sua rena (5),\
+&emsp;Con suoi (6) chelydri, iacule e pharee\
 &emsp;Produce, e centri con anphysibena.
 
-²⁹ Amplius non glorietur Libia cum sua arena;\
+29 Amplius non glorietur Libia cum sua arena;\
 &emsp;Quia si chelidros, iaculos et phareas\
 &emsp;Producit, et centros cum amphisibenis.
 
-³⁰ Non tante pestilentie nè si ree\
+30 Non tante pestilentie nè si ree\
 &emsp;Mostrò giamai con tutta l'Etyopia,\
-&emsp;Nè con ciò che di sopra'l mar Rosso (⁷) èe.
+&emsp;Nè con ciò che di sopra'l mar Rosso (7) èe.
 
-³⁰ Non tot pestilentias nec ita reas\
+30 Non tot pestilentias nec ita reas\
 &emsp;Monstravit unquam cum tota Ethyopia,\
 &emsp;Nec cum omni quod supra mare Rubrum est.
 
-³¹ Tra questa cruda e tristissima copia (⁸)\
+31 Tra questa cruda e tristissima copia (8)\
 &emsp;Correvan genti nude e spaventate,\
-&emsp;Senza sperar pertugio (⁹) o elytropia (¹⁰).
+&emsp;Senza sperar pertugio (9) o elytropia (10).
 
-³¹ Infra istam crudam et tristissimam copiam\
+31 Infra istam crudam et tristissimam copiam\
 &emsp;Currebant gentes nude et paventate,\
 &emsp;Sine sperare foramen vel elytropiam.
 
-³² Con serpi le man dietro havean legate:\
-&emsp;Quelle ficcavan per le ren (¹¹) la coda\
+32 Con serpi le man dietro havean legate:\
+&emsp;Quelle ficcavan per le ren (11) la coda\
 &emsp;E'l capo, et eran dinanzi aggroppate.
 
-³² Cum serpentibus manus retro habebant ligatas:\
+32 Cum serpentibus manus retro habebant ligatas:\
 &emsp;Et illi figebant per renes caudas\
 &emsp;Et caput, et erant anterius innodati.
 
-(¹) moltitudine. — (²) spetie. — (³) al. stipa, i. serra d'orrore. — (⁴) Affrica. — (⁵) deserto arenoso. — (⁶) al. che sè, et melius. — (⁷) in Yndia. — (⁸) di serpenti. — (⁹) latibulo. — (¹⁰) pietra che fa l'uomo invisibile. — (¹¹) reni loro.
+(1) moltitudine. — (2) spetie. — (3) al. stipa, i. serra d'orrore. — (4) Affrica. — (5) deserto arenoso. — (6) al. che sè, et melius. — (7) in Yndia. — (8) di serpenti. — (9) latibulo. — (10) pietra che fa l'uomo invisibile. — (11) reni loro.
 
 Nos descendimus pontem: ista est tertia pars huius capituli, in qua describitur pena latronum et furum; que est hec. Latrones, seu fures, stant in ista septima valle, plena serpentibus, semper ipsos mordentibus sic et taliter, quod, propter venenum, efficiuntur cinis. Merito serpentes puniunt tales latrones; quia, sicut serpens est astutissimum animal, sic fur est astutus in captando tempus et modum furandi et locum. Serpens dicitur a serpendo, quia intrat per fixuras; ita latro intrat per foramina et loca subterranea. Serpens est odiosus omnibus adeo, ut quisque fugiat eum, et quilibet eum libenter percutit; ita, quando fur detegitur, omnes clamant: Cape, cape, eum: A[l]latro, a[l]latro. Scribitur quod Alexander adeo odiebat latrones, quod, quando ducebatur coram eo fur, propriis manibus volebat Alexander sibi eruere oculos et evellere.
 
@@ -342,63 +342,63 @@ Infra istam crudam et tristissimam copiam currebant gentes nude et paventate, id
 
 <!-- p. 301 (0355) -->
 
-³³ Et ecco ad un, ch'era da nostra proda,\
+33 Et ecco ad un, ch'era da nostra proda,\
 &emsp;S'avventò un serpente, che 'l trafisse\
 &emsp;Là dove 'l collo alle spalle s'annoda.
 
-³³ Et ecce ad unum, qui erat de nostra ripa,\
+33 Et ecce ad unum, qui erat de nostra ripa,\
 &emsp;Iniecit se unus serpens, qui eum transfixit\
 &emsp;Ea parte qua collum cum humeris coniungitur.
 
-³⁴ Nè O si tosto mai nè I si scrisse,\
+34 Nè O si tosto mai nè I si scrisse,\
 &emsp;Come ei accese et arse, e cener tucto\
 &emsp;Convenne che cascando divenisse:
 
-³⁴ Nec O ita cito nec I fuit scriptum,\
+34 Nec O ita cito nec I fuit scriptum,\
 &emsp;Sicut ille accensus est et arsit, et cinis totus\
 &emsp;Convenit quod cadendo deveniret:
 
-³⁵ E poi che fu a terra sì destructo,\
+35 E poi che fu a terra sì destructo,\
 &emsp;La polver si raccolse per sè stessa,\
-&emsp;E quel medesmo (¹) ritornò di bucto (²).
+&emsp;E quel medesmo (1) ritornò di bucto (2).
 
-³⁵ Et postquam fuit in terra sic destructus,\
+35 Et postquam fuit in terra sic destructus,\
 &emsp;Cinis se recollegit, et per seipsum\
 &emsp;In illud idem reversus est statim.
 
-³⁶ Così per li gran savi (³) si confessa,\
+36 Così per li gran savi (3) si confessa,\
 &emsp;Che la fenice muore e poi rinasce,\
 &emsp;Quando a l'anno quingentesmo s'appressa.
 
-³⁶ Sic per grandes sapientes confitetur\
+36 Sic per grandes sapientes confitetur\
 &emsp;Quod fenix moritur et postea renascitur,\
 &emsp;Quando quingentesimo anno appropinquat.
 
-³⁷ Herba nè biada in sua vita non pasce,\
+37 Herba nè biada in sua vita non pasce,\
 &emsp;Ma sol d'incenso lagrime et amomo,\
-&emsp;E nardo e mirra son l'ultime fasce (⁴).
+&emsp;E nardo e mirra son l'ultime fasce (4).
 
-³⁷ Erbam nec bladum in sua vita non pascit,\
+37 Erbam nec bladum in sua vita non pascit,\
 &emsp;Sed solum ex incenso et lacrymis amomi,\
 &emsp;Et nardus et mirra sunt ultime fasce.
 
-³⁸ E qual è quel che cade, e non sa como,\
+38 E qual è quel che cade, e non sa como,\
 &emsp;Per forza di demon ch'a terra el tira,\
-&emsp;O d'altra opylation (⁵) che lega l'homo,
+&emsp;O d'altra opylation (5) che lega l'homo,
 
-³⁸ Et qualis est ille qui cadit, et nescit qualiter,\
+38 Et qualis est ille qui cadit, et nescit qualiter,\
 &emsp;Propter vim demonis qui eum ad terram trahit,\
 &emsp;Vel alterius oppilationis que hominem ligat,
 
-³⁹ Quando si leva, che intorno si mira\
+39 Quando si leva, che intorno si mira\
 &emsp;Tucto smarrito de la grande angoscia\
 &emsp;Ch'egl'à sofferto, e guardando sospira;
 
-³⁹ Quando surgit, qui circum respicit\
+39 Quando surgit, qui circum respicit\
 &emsp;Totus territus a grandi angustia\
 &emsp;Quam ipse sustulit, et respiciendo suspirat;
 
-(¹) che era prima. — (²) incontanente. — (³) phylosophi e poeti. — (⁴) nido suo dove si muore. — (⁵) morbo caduco.
+(1) che era prima. — (2) incontanente. — (3) phylosophi e poeti. — (4) nido suo dove si muore. — (5) morbo caduco.
 
 vel facultatem, conversionis ad Deum, vel ad salutem habendam. Nam, ut Sacra Scriptura dictat, in Inferno nulla est redemptio, vel tropos, idest conversio, idest sine aliqua spe conversionis ad Deum, vel salvationis.
 
@@ -420,55 +420,55 @@ Postquam auctor descripsit incinerationem istius latronis et regressum ad pristi
 
 <!-- p. 302 (0356) -->
 
-⁴⁰ Tal era 'l peccator levato poscia.\
+40 Tal era 'l peccator levato poscia.\
 &emsp;O potentia di Dio! quant'è severa\
 &emsp;Che cotai colpi per vendecta croscia!
 
-⁴⁰ Talis erat ille peccator postquam surrexit.\
+40 Talis erat ille peccator postquam surrexit.\
 &emsp;O potentia Dei! quantum est severa,\
 &emsp;Que tales ictus pro vindicta crosciat!
 
-⁴¹ Lo duca dimandò poi chi elli era:\
-&emsp;Perchè ei rispose: Io piovvi (¹) di Toscana,\
-&emsp;Poco temp'è, in questa gola fiera (²).
+41 Lo duca dimandò poi chi elli era:\
+&emsp;Perchè ei rispose: Io piovvi (1) di Toscana,\
+&emsp;Poco temp'è, in questa gola fiera (2).
 
-⁴¹ Dux interrogavit eum quis esset postea:\
+41 Dux interrogavit eum quis esset postea:\
 &emsp;Ex quo ipse respondit: Ego plui de Tuscia,\
 &emsp;Paucum tempus est, in hanc gulam feram.
 
-⁴² Vita bestial mi piacque, e non humana,\
-&emsp;Sì com'a mul (³) ch'io fui: son Vanni Fucci\
-&emsp;Bestia, e Pistoia (⁴) mi fu degna tana (⁵).
+42 Vita bestial mi piacque, e non humana,\
+&emsp;Sì com'a mul (3) ch'io fui: son Vanni Fucci\
+&emsp;Bestia, e Pistoia (4) mi fu degna tana (5).
 
-⁴² Vita bestialis placuit michi, et non humana,\
+42 Vita bestialis placuit michi, et non humana,\
 &emsp;Sicut mulo, prout ego fui: sum Vannes Fucci\
 &emsp;Bestia, et Pistorium fuit michi digna tana.
 
-⁴³ Et io al duca: Dilli che non mucci (⁶),\
+43 Et io al duca: Dilli che non mucci (6),\
 &emsp;E dimanda qual colpa quaggiù 'l pinse,\
-&emsp;Ch'io 'l vidi huom già di sangue e di crucci (⁷).
+&emsp;Ch'io 'l vidi huom già di sangue e di crucci (7).
 
-⁴³ Et ego ad ducem: Dicas quod non mucciat,\
+43 Et ego ad ducem: Dicas quod non mucciat,\
 &emsp;Et interroga eum que culpa ad hunc locum pinxit,\
 &emsp;Quia ego vidi eum hominem sanguinis et de cruccis.
 
-⁴⁴ E'l peccator, che 'intese, non s'infinse,\
+44 E'l peccator, che 'intese, non s'infinse,\
 &emsp;Ma drizzò verso me l'animo e 'l volto,\
 &emsp;E di trista vergogna si dipinse;
 
-⁴⁴ Et peccator, qui intellexit, non se finxit,\
+44 Et peccator, qui intellexit, non se finxit,\
 &emsp;Sed direxit versus me animum et vultum,\
 &emsp;Et de tristi verecundia se pinxit;
 
-⁴⁵ Poi disse: Più mi duol che tu m'hai colto\
+45 Poi disse: Più mi duol che tu m'hai colto\
 &emsp;Ne la miseria, dove tu mi vedi,\
-&emsp;Che quando fui dell'altra vita tolto (⁸).
+&emsp;Che quando fui dell'altra vita tolto (8).
 
-⁴⁵ Postea dixit: Plus me dolet quod tu me reperisti\
+45 Postea dixit: Plus me dolet quod tu me reperisti\
 &emsp;In miseria, in qua tu me vides,\
 &emsp;Quam quando fui ab illa vita ereptus.
 
-(¹) cascai qui — (²) dell'Inferno. — (³) bastardo. — (⁴) città di Toscana. — (⁵) stanza da bestie. — (⁶) fuggi. — (⁷) brighe. — (⁸) morto.
+(1) cascai qui — (2) dell'Inferno. — (3) bastardo. — (4) città di Toscana. — (5) stanza da bestie. — (6) fuggi. — (7) brighe. — (8) morto.
 
 que ligat hominem, quando surgit, qui circumspicit, totus territus a grandi angustia, quam ipse substulit, et respiciendo suspirat.
 
@@ -484,31 +484,31 @@ Et peccator, qui intellexit, non se fiuxit, idest intelligere; sed direxit versu
 
 <!-- p. 303 (0357) -->
 
-⁴⁶ Io non posso negar quel che tu chiedi:\
+46 Io non posso negar quel che tu chiedi:\
 &emsp;In giù so'messo tanto, perch'io fui\
-&emsp;Ladro alla sagrestia (¹) de'belli arredi (²);
+&emsp;Ladro alla sagrestia (1) de'belli arredi (2);
 
-⁴⁶ Ego non possum negare id quod tu queris:\
+46 Ego non possum negare id quod tu queris:\
 &emsp;Infra sum tantum missus, quia ego fui\
 &emsp;Latro sacristie pulchrorum arredorum;
 
-⁴⁷ E falsamente già fu apposto altrui.\
+47 E falsamente già fu apposto altrui.\
 &emsp;Ma perchè di tal vista tu non godi.\
-&emsp;Se mai sarai di fuor da'luoghi bui (³),
+&emsp;Se mai sarai di fuor da'luoghi bui (3),
 
-⁴⁷ Et falso fuit impositum alteri.\
+47 Et falso fuit impositum alteri.\
 &emsp;Sed ad hoc ut de tali visione nec gaudeas,\
 &emsp;Si unquam eris extra ista loca obscura,
 
-⁴⁸ Aprì gl'orechi al mio annuntio, et odi:\
-&emsp;Pistoia pria di Neri (⁴) si dimagra,\
+48 Aprì gl'orechi al mio annuntio, et odi:\
+&emsp;Pistoia pria di Neri (4) si dimagra,\
 &emsp;Poi Firenze rinnova genti e modi.
 
-⁴⁸ Aperias aures ad meam tristem adnunciacionem, et audi:\
+48 Aperias aures ad meam tristem adnunciacionem, et audi:\
 &emsp;Pistorium prius de Nigris fit macrum,\
 &emsp;Postea Florentia renovat gentes et modos.
 
-(¹) di Sancto Iacobo da Pistoia. — (²) argentiere. — (³) dell'Inferno. — (⁴) Guelfi.
+(1) di Sancto Iacobo da Pistoia. — (2) argentiere. — (3) dell'Inferno. — (4) Guelfi.
 
 Ego non possum negare id quod tu queris: infra tantum sum missus, quia ego fui latro sacristie, pulchrorum arredorum, idest ornamentorum sacrorum; et falso fuit impositum alteri, idest alius fuit de hoc falso diffamatus. Sed ad hoc, ut tu tali visione non gaudeas, si unquam eris extra ista loca obscura, [etc.].
 
@@ -518,25 +518,25 @@ Aperias aures ad meam annunciacionem et audi; scilicet, nota bene vaticinium meu
 
 <!-- p. 304 (0358) -->
 
-⁴⁹ Tragge Marte vapor di Val di Magra\
+49 Tragge Marte vapor di Val di Magra\
 &emsp;Ch'è da turbidi nuvoli involuto,\
 &emsp;E con tempesta impetuosa et agra
 
-⁴⁹ Trahit Mars vaporem de Valle Macra,\
+49 Trahit Mars vaporem de Valle Macra,\
 &emsp;Qui turbidis nubibus erit involutus,\
 &emsp;Et cum tempestate impetuosa et acra
 
-⁵⁰ Sopra Campo Picen fie combactuto:\
+50 Sopra Campo Picen fie combactuto:\
 &emsp;Onde repente spezzerà la nebbia,\
-&emsp;Sì ch'ogni Bianco (¹) ne sarà feruto.\
-&emsp;E decto l'ho, perchè doler ti debba (²).
+&emsp;Sì ch'ogni Bianco (1) ne sarà feruto.\
+&emsp;E decto l'ho, perchè doler ti debba (2).
 
-⁵⁰ Supra Campum Picenum erit pugnatum:\
+50 Supra Campum Picenum erit pugnatum:\
 &emsp;Unde repente franget nebulam,\
 &emsp;Ita quod omnis Albus ex ea frangetur.\
 &emsp;Et hoc dixi, quia te dolere debeat.
 
-(¹) Ghibellino. — (²) che se'Ghibellino.
+(1) Ghibellino. — (2) che se'Ghibellino.
 
 Valle Macre illius fluminis, qui turbinosus, idest inimicabilis, nubibus, idest discordiis et rixis, erit involutus, sicut turbo. Et cum tempestate impetuosa, idest cum ira et discordia et furore, super Picenum (dictum est, idest super, campum Picenum prope Pistorium) erit pugnatum; unde repente franget nebulam, idest ostendet iram et furorem, ita quod omnis Albus, etc., frangetur, et debellabitur. Et hoc debet tedere Dantem, qui erat de parte Alba.
 

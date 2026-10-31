@@ -10,23 +10,23 @@ Explicit Purgatorium.
 
 # Capitulum Tricesimumtertium
 
-¹ Deus, venerunt gentes, alternando,\
+1 Deus, venerunt gentes, alternando,\
 &emsp;Hor tre, hor quattro, dolce psalmodia\
 &emsp;Le donne cominciaro, e lagrimando:
 
-¹ Deus, venerunt gentes, alternando,\
+1 Deus, venerunt gentes, alternando,\
 &emsp;Nunc tres nunc quatuor, dulcem psalmodiam,\
 &emsp;Domine inceperunt, et lacrymando:
 
-² E Beatrice sospirosa e pia\
+2 E Beatrice sospirosa e pia\
 &emsp;Quelle ascoltava sì facta, che poco\
-&emsp;Più alla croce (¹) si cambiò Maria (²).
+&emsp;Più alla croce (1) si cambiò Maria (2).
 
-² Et Beatrix suspirosa et pia\
+2 Et Beatrix suspirosa et pia\
 &emsp;Illas auscultabat ita effecta, ut quod paulo\
 &emsp;Plus ad crucem se cambiavit Maria.
 
-(¹) di Chrysto — (²) Vergine.
+(1) di Chrysto — (2) Vergine.
 
 Deus venerunt gentes, alternando: istud est tricesimumtertium et ultimum capitulum huius Purgatorii, in quo positis tribulationibus et persecutionibus, quas patitur Ecclesia militans, in capitulo precedenti, auctor ponit planctum et lamentum, que ibi fiunt per septem nymphas, sive septem dominas, cum Beatrice. Quod dividitur in quatuor partes. In quarum prima ponitur lamentum et planctus. In secunda, que incipit ibi:
 
@@ -48,71 +48,71 @@ Et plangit Beatrix, dicens verba, que dixit Christus suis
 
 <!-- p. 807 (0861) -->
 
-³ Ma poi che l'altre vergini dier loco\
-&emsp;A lei di dir, levata dricta in pe' (¹),\
+3 Ma poi che l'altre vergini dier loco\
+&emsp;A lei di dir, levata dricta in pe' (1),\
 &emsp;Rispose, con la rota come foco:
 
-³ Sed postquam alie virgines dederunt locum\
+3 Sed postquam alie virgines dederunt locum\
 &emsp;Ei dicendi, elevata recta in pede,\
 &emsp;Respondit, colorata sicut ignis:
 
-⁴ Modicum, et iam non videbitis me;\
-&emsp;Et iterum, sorelle (²) mie dilecte,\
+4 Modicum, et iam non videbitis me;\
+&emsp;Et iterum, sorelle (2) mie dilecte,\
 &emsp;Modicum, et iam vos videbitis me.
 
-⁴ Modicum, et non videbitis me;\
+4 Modicum, et non videbitis me;\
 &emsp;Et iterum, sorores mee dilecte,\
 &emsp;Modicum, et vos videbitis me.
 
-⁵ Poi le si messe innanzi tucte septe,\
-&emsp;E dipo' sè, sol (³) accennando, mosse\
-&emsp;Me e la donna, e 'l savio (⁴) che ristecte (⁵).
+5 Poi le si messe innanzi tucte septe,\
+&emsp;E dipo' sè, sol (3) accennando, mosse\
+&emsp;Me e la donna, e 'l savio (4) che ristecte (5).
 
-⁵ Postea misit ante se omnes illas septem,\
+5 Postea misit ante se omnes illas septem,\
 &emsp;Et post se, solum annuendo, movit\
 &emsp;Me et dominam, et sapientem qui remanserat.
 
-⁶ Così sen giva, e non credo che fossi\
+6 Così sen giva, e non credo che fossi\
 &emsp;Lo decimo suo passo in terra posto,\
-&emsp;Quando cogl'ochi (⁶) gl'ochi mi percosse;
+&emsp;Quando cogl'ochi (6) gl'ochi mi percosse;
 
-⁶ Ita ibat, et videbatur quod non esset\
+6 Ita ibat, et videbatur quod non esset\
 &emsp;Decimus suus passus in terra positus,\
 &emsp;Quando cum oculis oculos michi percussit;
 
-⁷ E contra quello aspecto: Vien più tosto (⁷),\
+7 E contra quello aspecto: Vien più tosto (7),\
 &emsp;[Mi disse, tanto che s'io parlo teco,\
 &emsp;Ad ascoltarmi tu sia ben disposto.
 
-⁷ Et contra illum aspectum: Veni magis cito,\
+7 Et contra illum aspectum: Veni magis cito,\
 &emsp;Michi dixit, tantum quod si ego loquor tecum,\
 &emsp;Ad auscultandum me tu sis bene dispositus.
 
-⁸ Sì com'io fui, com'io doveva, seco],\
-&emsp;Dissemi: Frate (⁸), perchè non t'attenti (⁹)\
+8 Sì com'io fui, com'io doveva, seco],\
+&emsp;Dissemi: Frate (8), perchè non t'attenti (9)\
 &emsp;A dimandar, omai venendo meco?
 
-⁸ Statim quod ego fui, sicut debebam, secum,\
+8 Statim quod ego fui, sicut debebam, secum,\
 &emsp;Dixit michi: Frater, quare non audes\
 &emsp;Ad interrogandum me, ammodo veniendo mecum?
 
-⁹ Come in color (¹⁰), che troppo reverenti\
+9 Come in color (10), che troppo reverenti\
 &emsp;Dinanzi a' suoi maggior parlando sono,\
 &emsp;Che non traggon la voce viva a' denti,
 
-⁹ Sicut evenit illis, qui nimis reverentes\
+9 Sicut evenit illis, qui nimis reverentes\
 &emsp;Coram eorum maiore loquendo sunt,\
 &emsp;Qui non trahunt vocem vivam ad dentes,
 
-¹⁰ Avvenne a me, che senza intero suono (¹¹)\
-&emsp;Incominciai: Madonna (¹²), mie bisogna (¹³)\
+10 Avvenne a me, che senza intero suono (11)\
+&emsp;Incominciai: Madonna (12), mie bisogna (13)\
 &emsp;Voi conoscete, e ciò ch'a me è buono.
 
-¹⁰ Evenit michi sic, qui sine integro sono\
+10 Evenit michi sic, qui sine integro sono\
 &emsp;Incepi: O domina, meam necessitatem\
 &emsp;Vos cognoscitis, et id quod ad ipsam est bonum.
 
-(¹) piedi — (²) o — (³) solo — (⁴) Statio — (⁵) rimase meco — (⁶) suoi — (⁷) presto — (⁸) o — (⁹) assicuri — (¹⁰) al. a quelli — (¹¹) di voce — (¹²) o — (¹³) bisogni.
+(1) piedi — (2) o — (3) solo — (4) Statio — (5) rimase meco — (6) suoi — (7) presto — (8) o — (9) assicuri — (10) al. a quelli — (11) di voce — (12) o — (13) bisogni.
 
 discipulis, quando passurus erat in brevi. Et Beatrix, que primo sedebat ad radices plancte, et plorabat de pudore violationis et dedecoris facti vicario Christi et Dei, incepit dicere: Modicum, etc. Expectavit tantum quod finiretur psalmus ille per septem dominas.
 
@@ -128,47 +128,47 @@ Sicut evenit, supple illis, qui nimis reverentes coram eorum maiore loquendo sun
 
 <!-- p. 808 (0862) -->
 
-¹¹ Et ella a me: Da tema (¹) e da vergogna\
-&emsp;Voglo che tu omai ti disviluppe (²),\
+11 Et ella a me: Da tema (1) e da vergogna\
+&emsp;Voglo che tu omai ti disviluppe (2),\
 &emsp;Sì che non parli più com'huom che sogna.
 
-¹¹ Et ipsa ad me: A timore et verecundia\
+11 Et ipsa ad me: A timore et verecundia\
 &emsp;Volo quod tu ammodo te explices,\
 &emsp;Ita quod non loquaris plus sicut homo qui sompniat.
 
-¹² Sappi che'l vaso che'l serpente ruppe,\
+12 Sappi che'l vaso che'l serpente ruppe,\
 &emsp;Fu, e non è; ma chi n'ha colpa, creda\
 &emsp;Che vendetta di Dio non teme suppe.
 
-¹² Scias quod vas quod serpens rupit,\
+12 Scias quod vas quod serpens rupit,\
 &emsp;Fuit, et non est; sed qui de illo habet culpam,\
 &emsp;Credat quod vindicta Dei non timet offas.
 
-¹³ Non sarà tucto tempo senza reda\
-&emsp;L'aquila (³) che lasciò le penne al carro,\
+13 Non sarà tucto tempo senza reda\
+&emsp;L'aquila (3) che lasciò le penne al carro,\
 &emsp;Perchè diviene mostro e poscia preda;
 
-¹³ Non erit toto tempore sine herede\
+13 Non erit toto tempore sine herede\
 &emsp;Aquila que dimisit pennas currui,\
 &emsp;Ex quo devenit monstrum et postea preda;
 
-¹⁴ Ch'io veggio certamente, e però 'l narro,\
+14 Ch'io veggio certamente, e però 'l narro,\
 &emsp;Andarne tempo, già stelle propinque,\
 &emsp;Sicure d'ogn'i[n]toppo e d'ogni sbarro;
 
-¹⁴ Quia ego video certe et ideo narro,\
+14 Quia ego video certe et ideo narro,\
 &emsp;Ire tempus, iam stellis propinquis,\
 &emsp;Securum ab omni obviatione et omni subarro;
 
-¹⁵ Nel qual un cinquecento dieci e cinque,\
+15 Nel qual un cinquecento dieci e cinque,\
 &emsp;Messo di Dio, anciderà la fuia,\
 &emsp;Con quel gigante che con lei delinque.
 
-¹⁵ In quo unum quingentesimum decem et quinque,\
+15 In quo unum quingentesimum decem et quinque,\
 &emsp;Nuntius Dei, qui occidet fuiam,\
 &emsp;Cum illo gygante qui cum ea deliquit.
 
-(¹) timore — (²) disciogla — (³) Constantino.
+(1) timore — (2) disciogla — (3) Constantino.
 
 Et ipsa ad me: A timore et verecundia. Ed ella a me: Da tema e da vergogna: hec est secunda pars istius capituli, in qua auctor describit, prophetando, ultionem et vindictam, que sequitur cito talem culpam; et incipit a gravi dampno, quod recepit iste currus duarum rotarum ab illo serpente, qui exivit [extra] terram, scilicet a Machometo. Primo dat sibi audaciam loquendi, dicendi et interrogandi, dicens: Et ipsa ad me: A timore et a verecundia nolo quod ammodo tu te disviluppes, idest explices, vel dissolvas, ita quod non loquaris plus, sicut homo qui sompniat.
 
@@ -182,47 +182,47 @@ In quo, scilicet tempore, [erit] unum quingentesimum decem et quinque, nuntius D
 
 <!-- p. 809 (0863) -->
 
-¹⁶ E forse che la mia narration buia,\
+16 E forse che la mia narration buia,\
 &emsp;Qual Temi e Spingi, e metti persuade,\
 &emsp;Perch'al lor modo lo 'ntellecto actuia;
 
-¹⁶ Et forsan quod narratio mea obscura,\
+16 Et forsan quod narratio mea obscura,\
 &emsp;Qualis Themis et Spinghes, minus te persuadet,\
 &emsp;Quia ad earum modum intellectum actuiat;
 
-¹⁷ Ma tosto fier le Fate e le Nayade,\
+17 Ma tosto fier le Fate e le Nayade,\
 &emsp;Che solveranno questo enygma forte,\
 &emsp;Senza danno di pecore o di biade.
 
-¹⁷ Sed cito fient fata et Naydes,\
+17 Sed cito fient fata et Naydes,\
 &emsp;Que solvent istud enigma forte,\
 &emsp;Sine dampno ovium vel bladorum.
 
-¹⁸ Tu nota; e sì come da me son porte,\
-&emsp;Così queste parole insegna a'vivi (¹)\
-&emsp;Del viver (²) ch'è un correr alla morte;
+18 Tu nota; e sì come da me son porte,\
+&emsp;Così queste parole insegna a'vivi (1)\
+&emsp;Del viver (2) ch'è un correr alla morte;
 
-¹⁸ Tu nota; et sicut a me sunt porrecta,\
+18 Tu nota; et sicut a me sunt porrecta,\
 &emsp;Sic ista verba doceas vivos\
 &emsp;Vivere quod est unum currere ad mortem;
 
-¹⁹ Et habbi a mente, quando tu le scrivi,\
+19 Et habbi a mente, quando tu le scrivi,\
 &emsp;Di non celar qual hai vista la pianta,\
 &emsp;Ch'è hor due volte dirobbata quivi.
 
-¹⁹ Et scis memor, quando tu illa scribis,\
+19 Et scis memor, quando tu illa scribis,\
 &emsp;Non celare qualem vidisti planctam,\
 &emsp;Que bis nunc est derobata ibi.
 
-²⁰ Qualunque ruba quella, o quella schianta,\
+20 Qualunque ruba quella, o quella schianta,\
 &emsp;Con bastemmia di facto offende Dio,\
 &emsp;Che solo all'uso suo la creò santa.
 
-²⁰ Quicumque rubat illam, vel illam rumpit,\
+20 Quicumque rubat illam, vel illam rumpit,\
 &emsp;Cum blasfemia de facto offendit Deum,\
 &emsp;Quia solum ad suum usum illam creavit sanctam.
 
-(¹) mortali — (²) di quella vita.
+(1) mortali — (2) di quella vita.
 
 quod veniet unus dux, quia D ponitur pro quingentis, idest pro quingentesimo, V ponitur pro quinque, X pro decem, que tres littere (sunt D. V. X.) efficiunt hoc nomen, dux, missus sive nuntius Dei; quia Deus mittet eum. Ille interficiet fuiam, idest meretricem, que stabat super currum. Intendit auctor dicere, quod pastores sunt fures, qui usurpant res Dei, et bene apparebat sibi dicere de Bonifacio, qui usurpavit sibi papatum.
 
@@ -238,55 +238,55 @@ Quicumque rubat, idest furatur, illam, vel illam rumpit, idest frangit, vel scin
 
 <!-- p. 810 (0864) -->
 
-²¹ Per morder quella, in pena et in desio,\
-&emsp;Cinque mil'anni e più l'anima prima (¹)\
-&emsp;Bramò (²) Colui (³) che'l morso in sè (⁴) punio.
+21 Per morder quella, in pena et in desio,\
+&emsp;Cinque mil'anni e più l'anima prima (1)\
+&emsp;Bramò (2) Colui (3) che'l morso in sè (4) punio.
 
-²¹ Propter mordere illam, in pena et in desiderio\
+21 Propter mordere illam, in pena et in desiderio\
 &emsp;Quinque millibus annis et pluribus anima prima\
 &emsp;Appetiit Illum qui morsum in se punivit.
 
-²² Dorme lo 'ngegno tuo, se non estima\
+22 Dorme lo 'ngegno tuo, se non estima\
 &emsp;Per singular cagion esser excelsa\
 &emsp;Lei tanto, e sì travolta nella cima.
 
-²² Dormit ingenium tuum, si non extimat\
+22 Dormit ingenium tuum, si non extimat\
 &emsp;Propter singularem causam esse excelsam\
 &emsp;Ipsam tantum, et sic transversam in summitate.
 
-²³ E se stati non fusser acqua d'Elsa\
+23 E se stati non fusser acqua d'Elsa\
 &emsp;Li pensier vani intorno a la tua mente,\
-&emsp;E'l piacer loro (⁵) un Pyrrhamo a la gelsa,
+&emsp;E'l piacer loro (5) un Pyrrhamo a la gelsa,
 
-²³ Et si non fuissent aqua Else\
+23 Et si non fuissent aqua Else\
 &emsp;Cogitationes vane circa tuam mentem,\
 &emsp;Et complacentia ipsarum unus Piramus apud morum,
 
-²⁴ Per tante circumstantie solamente\
+24 Per tante circumstantie solamente\
 &emsp;La giustizia di Dio nello 'nterdecto\
 &emsp;Conosceresti e l'arbor moralmente.
 
-²⁴ Propter tot circumstantias solummodo,\
+24 Propter tot circumstantias solummodo,\
 &emsp;Iustitiam Dei in interdicto\
 &emsp;Cognosceres et arborem moraliter.
 
-²⁵ Ma perch'io veggio te nell'intellecto\
+25 Ma perch'io veggio te nell'intellecto\
 &emsp;Facto di pietra et in petrato tincto,\
 &emsp;Sì che t'abbagla al lume del mio decto;
 
-²⁵ Sed quia ego video te in intellectu\
+25 Sed quia ego video te in intellectu\
 &emsp;Factum de petra et in petratum tinctum,\
 &emsp;Ita quod obfuscat te lumen mei dicti,
 
-²⁶ Vogl'anco (⁶), se non scripto, almen dipincto,\
+26 Vogl'anco (6), se non scripto, almen dipincto,\
 &emsp;Che 'l te ne porti dentro a te, per quello\
 &emsp;Che si reca 'l bordon di palma cincto.
 
-²⁶ Volo adhuc, si non scriptum, saltem depictum,\
+26 Volo adhuc, si non scriptum, saltem depictum,\
 &emsp;Quod tecum portes intra te, propter illud\
 &emsp;Propter quod reportatur burdonus cinctus.
 
-(¹) d'Adamo — (²) desiderò — (³) l'avvenimento di colui — (⁴) nella sua persona — (⁵) non fusse stato — (⁶) voglo ancora.
+(1) d'Adamo — (2) desiderò — (3) l'avvenimento di colui — (4) nella sua persona — (5) non fusse stato — (6) voglo ancora.
 
 de facto offendit Deum, quia, vel qui, solum ad suum usum illam creavit sanctam. Multa exempla habemus de punitione eorum, qui ita offendunt Ecclesiam. Quid evenit domui Svevie? quid evenit Frederico secundo? quid evenit filio regis Manfredo et Corradino? Et a primo usque ad ultimum omnes tales male finierunt seu finiunt. Deus illam fecit sanctam, ut serviretur ipsi Deo.
 
@@ -304,63 +304,63 @@ Sed quia ego video te in intellectu factum de petra et in petratum tinctum, ita 
 
 <!-- p. 811 (0865) -->
 
-²⁷ Et io (¹): Sì come cera da suggello,\
-&emsp;Che la figura impresa (²) non transmuta,\
+27 Et io (1): Sì come cera da suggello,\
+&emsp;Che la figura impresa (2) non transmuta,\
 &emsp;Segnato è hor da voi el mio cervello.
 
-²⁷ Et ego: Tamquam cera sigilli,\
+27 Et ego: Tamquam cera sigilli,\
 &emsp;Qui figuram impressam non transmutat,\
 &emsp;Signatum habeo nunc de vobis meum cerebrum.
 
-²⁸ Ma perchè tanto sovra mia veduta\
+28 Ma perchè tanto sovra mia veduta\
 &emsp;Vostra parola desiata vola,\
 &emsp;Che più la perde, quanto più s'aiuta?
 
-²⁸ Sed quia tantum supra meam visionem\
+28 Sed quia tantum supra meam visionem\
 &emsp;Verbum vestrum desideratum volat,\
 &emsp;Quod plus perdit illud, quanto plus se iuvat?
 
-²⁹ Perchè cognoschi, disse, quella scola\
+29 Perchè cognoschi, disse, quella scola\
 &emsp;Ch'ài seguitata, e veggia sua doctrina\
 &emsp;Come può seguitar la mia parola;
 
-²⁹ Ad hoc ut cognoscas [dixit] illas antiquas scolas,\
+29 Ad hoc ut cognoscas [dixit] illas antiquas scolas,\
 &emsp;Quas secutus es, et videas suam doctrinam\
 &emsp;Quomodo potest sequi meum verbum;
 
-³⁰ E veggia vostra via dalla divina (³)\
+30 E veggia vostra via dalla divina (3)\
 &emsp;Distar cotanto, quanto si discorda\
-&emsp;Da terra al ciel (⁴) che più alto festina (⁵).
+&emsp;Da terra al ciel (4) che più alto festina (5).
 
-³⁰ Et videas vestram viam a divina\
+30 Et videas vestram viam a divina\
 &emsp;Distare tantum, quantum distat\
 &emsp;A terra celum quod altius festinat.
 
-³¹ Ond'io risposi lei: Non mi ricorda\
+31 Ond'io risposi lei: Non mi ricorda\
 &emsp;Che straniassi me giamai da voi,\
-&emsp;Nè honne (⁶) conscientia che rimorda (⁷).
+&emsp;Nè honne (6) conscientia che rimorda (7).
 
-³¹ Unde ego respondi ad eam: Non recordor\
+31 Unde ego respondi ad eam: Non recordor\
 &emsp;Quod ego extraneus essem unquam a vobis,\
 &emsp;Nec habeo conscientiam que me mordeat:
 
-³² E se tu ricordar non te ne puoi,\
+32 E se tu ricordar non te ne puoi,\
 &emsp;Sorridendo rispose, or ti rammenta\
-&emsp;Come bevesti di Lethe (⁸) ancoi (⁹);
+&emsp;Come bevesti di Lethe (8) ancoi (9);
 
-³² Et si tu recordari non potes,\
+32 Et si tu recordari non potes,\
 &emsp;Subridendo respondit, or reminiscere\
 &emsp;Quomodo bibisti de Lethe hodie;
 
-³³ E se dal fumo fuoco s'argomenta,\
-&emsp;Cotesta oblivion (¹⁰) chiaro conclude\
-&emsp;Colpa ne la tua vogla (¹¹) altrove attenta.
+33 E se dal fumo fuoco s'argomenta,\
+&emsp;Cotesta oblivion (10) chiaro conclude\
+&emsp;Colpa ne la tua vogla (11) altrove attenta.
 
-³³ Et sicut a fumo ignis argumentatur,\
+33 Et sicut a fumo ignis argumentatur,\
 &emsp;Ita oblivio clare concludit\
 &emsp;Culpam in tua voluntate alibi intenta.
 
-(¹) risposi a lei — (²) da lui — (³) via — (⁴) al primo mobile — (⁵) si volge rapto — (⁶) ho di questo — (⁷) al. che mi morda — (⁸) fiume — (⁹) ancor hoggi — (¹⁰) tua — (¹¹) volontà.
+(1) risposi a lei — (2) da lui — (3) via — (4) al primo mobile — (5) si volge rapto — (6) ho di questo — (7) al. che mi morda — (8) fiume — (9) ancor hoggi — (10) tua — (11) volontà.
 
 sicut facit ille, qui portat bordonum, sive contum palma, idest ramo olive, sive datillorum, cinctum: et tunc est signum, quod talis peregrinus venit de Terra Sancta), volo adhuc, si non scultum, saltem depictum, portes intra te, propter illud propter quod reportatur bordonus de palma cinctus; idest, ut tu ostendas te hic fuisse, sicut ostendunt peregrini loca peregrinationis eorum, per signa que reportant.
 
@@ -376,71 +376,71 @@ Sed ad hoc ut Dantes cognoscat se peccasse, dat sibi unum documentum quod est ta
 
 <!-- p. 812 (0866) -->
 
-³⁴ Veramente horamai saranno nude\
+34 Veramente horamai saranno nude\
 &emsp;Le mie parole, quanto converrassi\
 &emsp;Quelle scovrir alla tua vogla rude.
 
-³⁴ Vere ammodo erunt nuda\
+34 Vere ammodo erunt nuda\
 &emsp;Verba mea, quantum erit conveniens\
 &emsp;Illa discooperire tue visioni rudi.
 
-³⁵ E più corusco (¹), e con più lenti passi,\
+35 E più corusco (1), e con più lenti passi,\
 &emsp;Teneva 'l sole el cerchio di merigge,\
 &emsp;Che qua e là, come gl'aspecti, fassi,
 
-³⁵ Et magis coruscum, et cum lentioribus passibus,\
+35 Et magis coruscum, et cum lentioribus passibus,\
 &emsp;Tenebat sol circulum meridiei,\
 &emsp;Qui hinc et inde, sicut aspectus, fit,
 
-³⁶ Quando s'affisser, sì come s'affigge\
+36 Quando s'affisser, sì come s'affigge\
 &emsp;Chi va dinanzi a gente per iscorta,\
 &emsp;Se trova novitate in sue vestigge.
 
-³⁶ Quando se firmarunt, sicut se firmat\
+36 Quando se firmarunt, sicut se firmat\
 &emsp;Qui vadit ante gentes pro scorta,\
 &emsp;Si reperit novitatem in suis vestigiis,
 
-³⁷ Le septe donne al fin d'un'ombra smorta,\
-&emsp;Qual socto fogle verdi e rami nigri (²)\
+37 Le septe donne al fin d'un'ombra smorta,\
+&emsp;Qual socto fogle verdi e rami nigri (2)\
 &emsp;Sovra suoi freddi rivi l'Alpe porta.
 
-³⁷ Septem domine in fine unius umbre pallide,\
+37 Septem domine in fine unius umbre pallide,\
 &emsp;Que sub foliis viridibus et ramis nigris\
 &emsp;Supra supra frigidos rivos Alpes portat.
 
-³⁸ Dinanzi ad esse Euphrates (³) e Tygri (⁴)\
-&emsp;Veder mi parve uscir (⁵) d'una fontana,\
-&emsp;E quasi amici (⁶) dipartirsi (⁷) pigri (⁸).
+38 Dinanzi ad esse Euphrates (3) e Tygri (4)\
+&emsp;Veder mi parve uscir (5) d'una fontana,\
+&emsp;E quasi amici (6) dipartirsi (7) pigri (8).
 
-³⁸ Ante ipsas Eufraten et Tigrim\
+38 Ante ipsas Eufraten et Tigrim\
 &emsp;Videre apparuit exire de uno fonte,\
 &emsp;Et quasi amicos recedere pigros.
 
-³⁹ O luce, o gloria, della gente humana,\
-&emsp;Che acqua è questa che qui si dispiegha (⁹)\
-&emsp;Da un principio (¹⁰), e sè da sè lontana? (¹¹)
+39 O luce, o gloria, della gente humana,\
+&emsp;Che acqua è questa che qui si dispiegha (9)\
+&emsp;Da un principio (10), e sè da sè lontana? (11)
 
-³⁹ O lux, o gloria, gentis humane,\
+39 O lux, o gloria, gentis humane,\
 &emsp;Que aqua est ista que hinc explicatur\
 &emsp;Ab uno principio, et se a se longinquat?
 
-⁴⁰ Per cotal prego decto (¹²) mi fu: Pregha\
-&emsp;Mathelda che 'l ti dica. E qui (¹³) rispose,\
-&emsp;Come fa chi da colpa si dislegha (¹⁴),
+40 Per cotal prego decto (12) mi fu: Pregha\
+&emsp;Mathelda che 'l ti dica. E qui (13) rispose,\
+&emsp;Come fa chi da colpa si dislegha (14),
 
-⁴⁰ Propter talem precem dictum fuit michi: Deprecare\
+40 Propter talem precem dictum fuit michi: Deprecare\
 &emsp;Mathyldam quod tibi dicat id. Quod hic respondit,\
 &emsp;Sicut ille qui a culpa se disligat,
 
-⁴¹ La bella donna (¹⁵): Questo, et altre cose\
+41 La bella donna (15): Questo, et altre cose\
 &emsp;Decte li son per me, e son sicura\
-&emsp;Che 'l fiume Lethe non gle le nascose (¹⁶).
+&emsp;Che 'l fiume Lethe non gle le nascose (16).
 
-⁴¹ Pulchra domina: Istud et alie res\
+41 Pulchra domina: Istud et alie res\
 &emsp;Acta sunt per me, et sum secura\
 &emsp;Quod aqua Lethes illud ei non abscondit.
 
-(¹) splendente — (²) neri — (³) fiume — (⁴) fiume — (⁵) derivarsi — (⁶) que' due fiumi — (⁷) d'assieme — (⁸) lenti — (⁹) divide — (¹⁰) fonte — (¹¹) si dilungha — (¹²) da Beatrice — (¹³) in questo — (¹⁴) si disciogle — (¹⁵) Mathelda — (¹⁶) tolse de la memoria.
+(1) splendente — (2) neri — (3) fiume — (4) fiume — (5) derivarsi — (6) que' due fiumi — (7) d'assieme — (8) lenti — (9) divide — (10) fonte — (11) si dilungha — (12) da Beatrice — (13) in questo — (14) si disciogle — (15) Mathelda — (16) tolse de la memoria.
 
 Vere ammodo erunt nuda mea verba quantum erit conveniens illa scooperire, idest declarare, tue visioni rudi, idest grosse.
 
@@ -458,55 +458,55 @@ Tunc respondens ipsa Mathyldis ait, ipsa Mathyldis, ipsi Beatrici, pulchra domin
 
 <!-- p. 813 (0867) -->
 
-⁴² E Beatrice: Forse maggior cura,\
+42 E Beatrice: Forse maggior cura,\
 &emsp;Che spesse volte la memoria priva,\
 &emsp;Fact'ha la mente sua negl'ochi oscura.
 
-⁴² Et Beatrix: Forsan maior cura,\
+42 Et Beatrix: Forsan maior cura,\
 &emsp;Que sepe memoriam privat,\
 &emsp;Fecit mentem suam in oculis obscuram.
 
-⁴³ Ma vedi Eu[n]ce come là deriva:\
+43 Ma vedi Eu[n]ce come là deriva:\
 &emsp;Menalo a esso, e, come tu se' usa,\
-&emsp;La tramortita sua virtù ravviva (¹).
+&emsp;La tramortita sua virtù ravviva (1).
 
-⁴³ Sed vide quod Eunce est qui derivat inde:\
+43 Sed vide quod Eunce est qui derivat inde:\
 &emsp;Duc eum ad ipsum, et, sicut tu es consueta,\
 &emsp;Semimortuam suam virtutem revivifica.
 
-⁴⁴ Com'anima gentil che non sa scusa,\
+44 Com'anima gentil che non sa scusa,\
 &emsp;Ma fa sua vogla della vogla altrui,\
 &emsp;Tosto com'è per segno fuor dischiusa;
 
-⁴⁴ Sicut anima gentilis que non facit excusationem,\
+44 Sicut anima gentilis que non facit excusationem,\
 &emsp;Sed facit suam voluntatem de voluntate alterius,\
 &emsp;Statim quod est propter signa extraexclusa;
 
-⁴⁵ Così, poi che da essa preso fui,\
+45 Così, poi che da essa preso fui,\
 &emsp;La bella donna mossesi, et a Statio\
 &emsp;Donnescamente disse: Vien con lui.
 
-⁴⁵ Sic, postquam ab ipsa apprehensus fui,\
+45 Sic, postquam ab ipsa apprehensus fui,\
 &emsp;Pulchra domina movit se, et Statio\
 &emsp;Dixit dominabiliter: Veni cum eo.
 
-⁴⁶ S'io havessi, lector (²), più lungo spatio\
+46 S'io havessi, lector (2), più lungo spatio\
 &emsp;Di scriver, io pur canterei in parte\
 &emsp;Lo dolce ber, che mai non m'havria satio:
 
-⁴⁶ Si ego haberem, lector, magis longum spatium\
+46 Si ego haberem, lector, magis longum spatium\
 &emsp;Scribendi, ego certe cantarem in parte\
 &emsp;Dulce bibere, quod nunquam me satiasset:
 
-⁴⁷ Ma perchè piene son tucte le carte\
-&emsp;Ordite (³) a questa cantica seconda (⁴),\
-&emsp;Non mi lassa più ir (⁵) lo fren (⁶) d'est'arte (⁷).
+47 Ma perchè piene son tucte le carte\
+&emsp;Ordite (3) a questa cantica seconda (4),\
+&emsp;Non mi lassa più ir (5) lo fren (6) d'est'arte (7).
 
-⁴⁷ Sed quia plene sunt carte omnes\
+47 Sed quia plene sunt carte omnes\
 &emsp;Ordite ad istam canticam secundam,\
 &emsp;Non permictit me ulterius ire frenum artis.
 
-(¹) ravvizzola — (²) o — (³) ordinate — (⁴) del Purgatorio — (⁵) andare — (⁶) freno — (⁷) di quest'arte.
+(1) ravvizzola — (2) o — (3) ordinate — (4) del Purgatorio — (5) andare — (6) freno — (7) di quest'arte.
 
 per me; et sum secura quod aqua Lethis ei illud non abscondit. Quia Mathyldis, idest vita activa, declaravit auctori quomodo aqua est ibi, et quomodo ventus est ibi; nec [circa] hoc aqua Lethis debuit delere mentem auctoris.
 
@@ -520,12 +520,12 @@ Modo excusat se auctor, quod non potest facere ulteriorem tractatum de potu, siv
 
 <!-- p. 814 (0868) -->
 
-⁴⁸ Io ritornai dalla sanctissima onda\
+48 Io ritornai dalla sanctissima onda\
 &emsp;Rifacto sì, come piante novelle\
 &emsp;Rinovellate di novelle fronde,\
-&emsp;Puro e disposto a salir alle stelle (¹).
+&emsp;Puro e disposto a salir alle stelle (1).
 
-⁴⁸ Ego redii a sanctissima unda\
+48 Ego redii a sanctissima unda\
 &emsp;Refectus, sicut plancte novelle\
 &emsp;Renovate novellis frondibus,\
 &emsp;Purus et dispositus ascendere ad stellas.
@@ -534,22 +534,22 @@ FINIT FELICITER PURGATORIUM.
 
 EXPLICIT PURGATORIUM DANTIS.
 
-(¹) del cielo.
+(1) del cielo.
 
 Ego redivi a sanctissima unda, refectus sic, renovatus, sicut plancte novelle, renovellate novellis frondibus (idest purgatus ab omnibus vitiis et peccatis), promptus et dispositus ascendere, idest saliendi, ad stellas (idest eundi ad Paradisum, sive ad celum, ubi sunt stelle). Litteraliter in celo, figuraliter in Paradiso; quia quelibet intelligentia beata, est una stella, iuxta illud: Stella differt a stella in claritate.
 
 Vicesimasecunda die octobris completum fuit Purgatorium. DEO GRATIAS.
 
-Qui scripsit scribat (¹), semper cum lumine vivat,\
+Qui scripsit scribat (1), semper cum lumine vivat,\
 Et vivat et hic felix ceu multo tempore fenix.\
 Hinc videat Chrystum, qui librum scripserit istum;\
 Qui legit hoc carmen, lector respondeat: Amen.\
-Scripsit, summe (²) Deus, tibi (³) supplex Bartholomeus\
+Scripsit, summe (2) Deus, tibi (3) supplex Bartholomeus\
 Collensis, minimus Minimorum servus et imus,\
 Chrysti sectator, Francisci lentus amator,\
 Qui me per Chrystum mundum commovit in istum.
 
-(¹) iterum — (²) o — (³) ad laudem tuam.
+(1) iterum — (2) o — (3) ad laudem tuam.
 
 <!-- p. [815] (0869) -->
 

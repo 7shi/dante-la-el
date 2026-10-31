@@ -8,23 +8,23 @@ In tricesimo capitulo, quod incipit: In tempore quo Iuno, auctor prosequitur mat
 
 # Capitulum Tricesimum
 
-¹ Nel tempo che Iunone era crucciata\
+1 Nel tempo che Iunone era crucciata\
 &emsp;Per Semele contra 'l sangue thebano,\
-&emsp;Come mostrò una et altra fiata (¹),
+&emsp;Come mostrò una et altra fiata (1),
 
-¹ In tempore quo Iuno erat cruciata\
+1 In tempore quo Iuno erat cruciata\
 &emsp;Propter Semelem contra sanguinem thebanum,\
 &emsp;Sicut monstravit una et alia vice,
 
-² Athamante divenne tanto insano,\
-&emsp;Che vedendo la mogle (²) con due figli\
+2 Athamante divenne tanto insano,\
+&emsp;Che vedendo la mogle (2) con due figli\
 &emsp;Andar carcata da ciascuna mano,
 
-² Athamas devenit tantum insanus,\
+2 Athamas devenit tantum insanus,\
 &emsp;Quod videndo uxorem cum duobus filiis\
 &emsp;Venire oneratam ab utraque manu,
 
-(¹) più volte — (²) sua
+(1) più volte — (2) sua
 
 Nel tempo che Iunone era cruciata. In tempore, quo Iuno erat vexata: istud est tricesimum capitulum huius Inferni, in quo auctor tractat de tribus aliis speciebus falsificationum; quod dividitur in quatuor partes. In quarum prima auctor continuat dicta dicendis, ponendo aliquas hystorias ad propositum facientes.
 
@@ -52,63 +52,63 @@ In tempore, quo Iuno erat irata, idest commota ex ira, propter Semelem, contra s
 
 <!-- p. 367 (0421) -->
 
-³ Gridò: Tendiam le reti, sì ch'io pigli\
+3 Gridò: Tendiam le reti, sì ch'io pigli\
 &emsp;La leonessa e leoncini al var[c]o.\
 &emsp;E poi distese e dispietati artigli,
 
-³ Clamavit: Tendamus retia, ut ego apprehendam\
+3 Clamavit: Tendamus retia, ut ego apprehendam\
 &emsp;Leenam et leunculos ad passum.\
 &emsp;Et postea impios extendit artiglios,
 
-⁴ Prendendo l'un ch'havea nome Learco,\
+4 Prendendo l'un ch'havea nome Learco,\
 &emsp;E rotollo, e percosselo ad un sasso;\
-&emsp;E quella (¹) s'annegò coll'altro carco (²).
+&emsp;E quella (1) s'annegò coll'altro carco (2).
 
-⁴ Apprehendendo unum cui nomen erat Learcus,\
+4 Apprehendendo unum cui nomen erat Learcus,\
 &emsp;Et rotavit eum, et percussit ipsum ad unum saxum;\
 &emsp;Et illa se submersit cum alio onere.
 
-⁵ E quando la fortuna volse in basso\
-&emsp;L'altezza (³) de' Troyan che tucto ardiva,\
-&emsp;Sì che col regno insieme 'l re fu casso (⁴);
+5 E quando la fortuna volse in basso\
+&emsp;L'altezza (3) de' Troyan che tucto ardiva,\
+&emsp;Sì che col regno insieme 'l re fu casso (4);
 
-⁵ Et quando fortuna vertit in bassum\
+5 Et quando fortuna vertit in bassum\
 &emsp;Altitudinem Troyanorum que tantum audebat,\
 &emsp;Ita quod simul cum regno rex fuit cassus;
 
-⁶ Eccuba (⁵) trista misera e captiva (⁶),\
-&emsp;Poscia che vide Polysena (⁷) morta,\
-&emsp;E del suo (⁸) bel Polidoro in sulla riva
+6 Eccuba (5) trista misera e captiva (6),\
+&emsp;Poscia che vide Polysena (7) morta,\
+&emsp;E del suo (8) bel Polidoro in sulla riva
 
-⁶ Ecuba tristis misera et captiva,\
+6 Ecuba tristis misera et captiva,\
 &emsp;Postquam vidit Polixenam mortuam,\
 &emsp;Et de suo Polidoro super ripam
 
-⁷ Del mar (⁹) si fu la dolorosa accorta,\
-&emsp;Forsennata (¹⁰) latrò sì come cane;\
-&emsp;Tanto 'l dolor li fe' la mente torta (¹¹).
+7 Del mar (9) si fu la dolorosa accorta,\
+&emsp;Forsennata (10) latrò sì come cane;\
+&emsp;Tanto 'l dolor li fe' la mente torta (11).
 
-⁷ Mar[i]s dolorosa se perpendit,\
+7 Mar[i]s dolorosa se perpendit,\
 &emsp;Furibunda latravit tamquam canis;\
 &emsp;Tantum dolor fecit ei mentem tortam.
 
-⁸ Ma nè (¹²) di Thebe furie nè Troyane\
+8 Ma nè (12) di Thebe furie nè Troyane\
 &emsp;Si vider mai in alcun tanto crude,\
 &emsp;In punger bestie, non che membra humane,
 
-⁸ Sed nunquam Thebanorum furie neque Troyanorum\
+8 Sed nunquam Thebanorum furie neque Troyanorum\
 &emsp;Vise fuerunt unquam in aliquem tantum crude,\
 &emsp;Non pungere bestias, nedum membra humana,
 
-⁹ Quant'io vidi in du'ombre smorte e nude,\
+9 Quant'io vidi in du'ombre smorte e nude,\
 &emsp;Che mordendo correvan di quel modo,\
 &emsp;Che porco quando del porcil si schiude.
 
-⁹ Quantum ego vidi in duabus umbris pallidis et nudis,\
+9 Quantum ego vidi in duabus umbris pallidis et nudis,\
 &emsp;Que mordendo currebant illo modo,\
 &emsp;Quo porcus quando a porcili excluditur.
 
-(¹) mogle sua — (²) figliuolo suo, Melyartha. — (³) Imperio — (⁴) Priamo — (⁵) regina — (⁶) de' Greci — (⁷) sua figliuola — (⁸) figliuolo — (⁹) di Tracia — (¹⁰) fuor di senno doventata — (¹¹) fuora di sè — (¹²) al. Mai nè.
+(1) mogle sua — (2) figliuolo suo, Melyartha. — (3) Imperio — (4) Priamo — (5) regina — (6) de' Greci — (7) sua figliuola — (8) figliuolo — (9) di Tracia — (10) fuor di senno doventata — (11) fuora di sè — (12) al. Mai nè.
 
 insanus, idest furibundus, quod, videndo uxorem cum duobus filiis venire oneratam ab utraque manu, quia in qualibet manu habebat unum, clamavit: Tendamus retia, ut ego apprehendam leenam et leunculos ad passum. Et postea impios extendit articulos, idest impias manus, apprehendendo unum, cui nomen erat Learcus, et roctavit, idest in circum duxit eum, et percussit ipsum ad unum saxum. Et illa, scilicet uxor Ino, se submersit cum alio onere, idest Melicerta, scilicet filio suo.
 
@@ -118,55 +118,55 @@ Sed nunquam. Ma mai: hec est secunda pars huius capituli. Reducens istas hystori
 
 <!-- p. 368 (0422) -->
 
-¹⁰ L'una giunse a Capochio (¹), et in sul nodo\
+10 L'una giunse a Capochio (1), et in sul nodo\
 &emsp;Del collo l'assannò sì che, tirando,\
-&emsp;Grattar lo fece (²) in fin al fondo (³) sodo,
+&emsp;Grattar lo fece (2) in fin al fondo (3) sodo,
 
-¹⁰ Una pervenit ad [C]apochium, et super nodo\
+10 Una pervenit ad [C]apochium, et super nodo\
 &emsp;Colli eum assannavit ita quod, trahendo,\
 &emsp;Fricare fecit eum ventrem ad fundum sodum.
 
-¹¹ E l'Aretin (⁴), che rimase tremando,\
-&emsp;Mi disse: Quel follecto è Gianni Schicchi (⁵),\
+11 E l'Aretin (4), che rimase tremando,\
+&emsp;Mi disse: Quel follecto è Gianni Schicchi (5),\
 &emsp;Che va rabbioso altrui così conciando.
 
-¹¹ Et Aretinus, qui tremendo remansit,\
+11 Et Aretinus, qui tremendo remansit,\
 &emsp;Michi dixit: Ille folectus est Ioannes Schicchi,\
 &emsp;Et vadit rabiosus alios sic cruciando.
 
-¹² O, diss' io lui, se l'altro non ti ficchi\
+12 O, diss' io lui, se l'altro non ti ficchi\
 &emsp;Gl'unghioni adosso, non ti sia fatica\
 &emsp;A dir chi è, pria che di qui si spicchi.
 
-¹² O, dixi ego ad eum, si alius non tibi figat\
+12 O, dixi ego ad eum, si alius non tibi figat\
 &emsp;Ungues in dorso, non tibi sit labor\
 &emsp;Ad dicendum quis est, priusquam hinc discedat.
 
-¹³ Et elli a me: Quell'è l'anima antica\
+13 Et elli a me: Quell'è l'anima antica\
 &emsp;Di Myrrha scelerata, che divenne\
-&emsp;Al padre (⁶), fuor del dricto amor (⁷), amica.
+&emsp;Al padre (6), fuor del dricto amor (7), amica.
 
-¹³ Et ipse ad me: Illa est anima antiqua\
+13 Et ipse ad me: Illa est anima antiqua\
 &emsp;Mirre scelerate, que devenit\
 &emsp;Patri, extra debitum amorem, amica.
 
-¹⁴ Questa (⁸) a peccar (⁹) con esso (¹⁰) si convenne,\
-&emsp;Falsificando sè in altrui forma (¹¹),\
-&emsp;Come l'altro (¹²), che là sen va, sostenne,
+14 Questa (8) a peccar (9) con esso (10) si convenne,\
+&emsp;Falsificando sè in altrui forma (11),\
+&emsp;Come l'altro (12), che là sen va, sostenne,
 
-¹⁴ Ipsa ad peccandum cum ipso se coniunxit,\
+14 Ipsa ad peccandum cum ipso se coniunxit,\
 &emsp;Falsificando se in aliam formam,\
 &emsp;Sicut alius, qui illuc vadit, sustinuit,
 
-¹⁵ Per guadagnar la donna (¹³) della torma (¹⁴),\
-&emsp;Falsificar in sè Buoso Donati (¹⁵),\
-&emsp;Testando (¹⁶), e dando al testamento norma (¹⁷).
+15 Per guadagnar la donna (13) della torma (14),\
+&emsp;Falsificar in sè Buoso Donati (15),\
+&emsp;Testando (16), e dando al testamento norma (17).
 
-¹⁵ Ut lucraretur dominam turme,\
+15 Ut lucraretur dominam turme,\
 &emsp;Falsificare se in Buosium de Donatis,\
 &emsp;Testando, et dando testamento normam.
 
-(¹) da Siena — (²) al. grattar li fece 'l ventre — (³) a la terra — (⁴) Grifolino d'Arezzo — (⁵) de' Cavalcanti di Firenze — (⁶) suo Cynara — (⁷) filiale e ragionevole — (⁸) Myrrha — (⁹) luxuriosamente — (¹⁰) suo padre — (¹¹) d'un'altra femmina — (¹²) Gianni Schicchi — (¹³) cavalla — (¹⁴) mandria — (¹⁵) che era già morto — (¹⁶) in persona di Buoso — (¹⁷) instituendo e legando a suo modo.
+(1) da Siena — (2) al. grattar li fece 'l ventre — (3) a la terra — (4) Grifolino d'Arezzo — (5) de' Cavalcanti di Firenze — (6) suo Cynara — (7) filiale e ragionevole — (8) Myrrha — (9) luxuriosamente — (10) suo padre — (11) d'un'altra femmina — (12) Gianni Schicchi — (13) cavalla — (14) mandria — (15) che era già morto — (16) in persona di Buoso — (17) instituendo e legando a suo modo.
 
 Una, scilicet de illis umbris, pervenit ad Capochium, et super nodo colli eum assannavit, idest momordit, ita quod, trahendo, fricare eum fecit ventrem ad fundum sodum, idest fecit eum inclinari usque ad terram.
 
@@ -178,39 +178,39 @@ Et ille ad me, scilicet dixit: Illa est anima antique Mirre scellerate, que deve
 
 <!-- p. 369 (0423) -->
 
-¹⁶ E poi ch'e due rabbiosi fur passati,\
+16 E poi ch'e due rabbiosi fur passati,\
 &emsp;Sopra cu'io havea l'ochio tenuto,\
 &emsp;Volsimi a riguardar gl'altri malnati.
 
-¹⁶ Et postquam duo rabiosi transierunt,\
+16 Et postquam duo rabiosi transierunt,\
 &emsp;Super quibus ego diu oculos tenueram,\
 &emsp;Revolvi me ad respiciendum alios male natos.
 
-¹⁷ Io viddi un (¹) facto a guisa (²) di leuto,\
-&emsp;Pur ch'elli (³) havesse havuta l'anguinaia (⁴)\
-&emsp;Tronca dal lato, ove l'huom è forcuto (⁵).
+17 Io viddi un (1) facto a guisa (2) di leuto,\
+&emsp;Pur ch'elli (3) havesse havuta l'anguinaia (4)\
+&emsp;Tronca dal lato, ove l'huom è forcuto (5).
 
-¹⁷ Et vidi unum factum ad similitudinem leuti,\
+17 Et vidi unum factum ad similitudinem leuti,\
 &emsp;Pur quod ipse habuisset ynguinem\
 &emsp;Truncatum a latere, ubi homo est forcutus.
 
-¹⁸ La grande ydropisia, che si dispaia (⁶)\
-&emsp;Le membra (⁷) coll'humor che 'n mal converte,\
-&emsp;Che 'l viso non risponde alla ventraia (⁸),
+18 La grande ydropisia, che si dispaia (6)\
+&emsp;Le membra (7) coll'humor che 'n mal converte,\
+&emsp;Che 'l viso non risponde alla ventraia (8),
 
-¹⁸ Gravis ydropisis, que sic disparificat\
+18 Gravis ydropisis, que sic disparificat\
 &emsp;Membra cum humore quem male convertit,\
 &emsp;Ita quod facies non respondet ventri,
 
-¹⁹ Faceva lui tener le labbra aperte,\
-&emsp;Come l'etyco (⁹) fa, che per la sete\
-&emsp;L'un (¹⁰) verso 'l mento, e l'altro (¹¹) in sn (¹²) rinverte (¹³).
+19 Faceva lui tener le labbra aperte,\
+&emsp;Come l'etyco (9) fa, che per la sete\
+&emsp;L'un (10) verso 'l mento, e l'altro (11) in sn (12) rinverte (13).
 
-¹⁹ Faciebat eum tenere labia aperta,\
+19 Faciebat eum tenere labia aperta,\
 &emsp;Sicut ethicus facit, qui propter sitim\
 &emsp;Unum versus mentum, aliud versus nasum revertit.
 
-(¹) altro — (²) modo — (³) i. se elli — (⁴) una coscia — (⁵) in su le natiche — (⁶) fa diseguale — (⁷) humane — (⁸) grosso ventre — (⁹) infermo di febbre etyca — (¹⁰) labbro — (¹¹) labbro — (¹²) verso il naso — (¹³) rivolge.
+(1) altro — (2) modo — (3) i. se elli — (4) una coscia — (5) in su le natiche — (6) fa diseguale — (7) humane — (8) grosso ventre — (9) infermo di febbre etyca — (10) labbro — (11) labbro — (12) verso il naso — (13) rivolge.
 
 testando et dando testamento normam. Nota quod dominus Buosius de Donatis fuit latro, ut supra dictum est in capitulo vicesimosexto huius Inferni, qui valde fuit dives. Veniens ad mortem, condidit testamentum, et relinquebat multas satisfaciones; unde filius suus, dominus Simon, qui erat expurius, fuit male contentus. Sciebat quod unus civis Florentinus erat, qui vocabatur Ioannes Schicchi, qui sciebat similare omnes, sed maxime bene istum dominum Buosium de Donatis, patrem istius domini Simonis, et vocavit eum dixitque illi: Pater meus relinquit me pauperem; si vis, tu potes iuvare me. Ego abscondam corpus patris mei, qui nunc primo obiit, et tu intrabis lectum. Ego conducam notarium et testes, et tu ordina in persona patris mei testamentum. Ioannes Schicchi assensit et sic intravit; et postquam fuerunt ibi notarius et testes, iste Ioannes Schicchi optime fingebat vocem domini Buosii, patris domini Simonis, et incipiendo fecit aliqua relicta frivola, et omnia relinquebat filio suo domino Simoni, preter dominam turme. Tunc dixit dominus Simon: O pater, non est cura de domina turme? Non, dixit ille: nihil volo quod testamentum valeat, nisi ego relinquam dominam turme Ioanni Schicchi, expurie maledicte; sic volo quod fiat. Et sic evenit, quod Ioannes Schicchi, qui se falsificavit in Buosum de Donatis, habuit istam dominam turme. Aliqui dicunt, quod ista domina turme erat una pulcherrima equa, que generabat pulcherrimos equos et valebat bene mille florenos. Aliqui dicunt, quod ista domina turme erat una pulchra possessio. Hic non est cura: sive equa fuerit, sive possessio, Ioannes Schicchi habuit illam. Ut lucraretur, etc., fecit testamentum in persona alterius, et dominum Simonem instituit heredem.
 
@@ -222,63 +222,63 @@ Gravis ydropisis, idest que facit stare ydropicum ita gravem, que sic disparific
 
 <!-- p. 370 (0424) -->
 
-²⁰ O voi, che senza alcuna pena sete\
-&emsp;(E già non so perchè)(¹) nel mondo gramo(²),\
-&emsp;Diss'elli a noi, guardate et attendete (³)
+20 O voi, che senza alcuna pena sete\
+&emsp;(E già non so perchè)(1) nel mondo gramo(2),\
+&emsp;Diss'elli a noi, guardate et attendete (3)
 
-²⁰ O vos, qui sine pena estis aliqua\
+20 O vos, qui sine pena estis aliqua\
 &emsp;(Et nescio ego quare) in mundo malo,\
 &emsp;Dixit ipse ad nos, respicite et attendatis
 
-²¹ Alla miseria del maestro (⁴) Adamo:\
+21 Alla miseria del maestro (4) Adamo:\
 &emsp;Io ebbi, vivo, assai di quel ch'io volli,\
-&emsp;Et hora, lasso (⁵)! un gocciol d'acqua bramo(⁶).
+&emsp;Et hora, lasso (5)! un gocciol d'acqua bramo(6).
 
-²¹ Ad miseriam magistri Ade:\
+21 Ad miseriam magistri Ade:\
 &emsp;Ego habui, vivus, satis de eo quod volui,\
 &emsp;Et nunc, heu nunc michi! unam guttam aque desidero.
 
-²² Li ruscellecti (⁷), che de' verdi colli\
-&emsp;Discenden giù del Casentino in Arno (⁸),\
+22 Li ruscellecti (7), che de' verdi colli\
+&emsp;Discenden giù del Casentino in Arno (8),\
 &emsp;Facendo e lor canali freddi e molli,
 
-²² Rivuli, qui de viridibus collibus\
+22 Rivuli, qui de viridibus collibus\
 &emsp;Casentini descendunt infra Arnum,\
 &emsp;Faciendo eorum canalia frigida et balneata,
 
-²³ Sempre mi stan dinanzi, e non indarno;\
+23 Sempre mi stan dinanzi, e non indarno;\
 &emsp;Chè l'ymagine lor vie più m'asciuga,\
 &emsp;Che 'l mal onde nel viso mi discarno.
 
-²³ Semper stant ante me, et non in vanum;\
+23 Semper stant ante me, et non in vanum;\
 &emsp;Quia ymago ipsorum multo plus me desiccat,\
 &emsp;Quam malum unde in vultu me discarno.
 
-²⁴ La rigida iustitia (⁹), che mi fruga (¹⁰),\
-&emsp;Tragge (¹¹) cagion del luogo ov'io peccai,\
+24 La rigida iustitia (9), che mi fruga (10),\
+&emsp;Tragge (11) cagion del luogo ov'io peccai,\
 &emsp;A metter più li miei sospiri in fuga.
 
-²⁴ Rigida iustitia, que me frugat,\
+24 Rigida iustitia, que me frugat,\
 &emsp;Trahit causam de loco ubi ego peccavi,\
 &emsp;Ad mictendum plus mea suspiria in fugam.
 
-²⁵ Ivi (¹²) è Romena (¹³) là, dov'io lassai\
-&emsp;La legha (¹⁴) suggellata del Baptista,\
+25 Ivi (12) è Romena (13) là, dov'io lassai\
+&emsp;La legha (14) suggellata del Baptista,\
 &emsp;Perch'io el corpo su arso lassai.
 
-²⁵ Ibi est Romena, ubi ego falsificavi\
+25 Ibi est Romena, ubi ego falsificavi\
 &emsp;Ligam sigillatam Baptiste,\
 &emsp;Ex quo ego corpus sursum combustum dimisi.
 
-²⁶ Ma s'io vedessi qui l'anima trista\
-&emsp;Di Guido (¹⁵), e d'Alexandro (¹⁶), e di lor frate,\
-&emsp;Per Fonte Blanda (¹⁷) non darei la vista.
+26 Ma s'io vedessi qui l'anima trista\
+&emsp;Di Guido (15), e d'Alexandro (16), e di lor frate,\
+&emsp;Per Fonte Blanda (17) non darei la vista.
 
-²⁶ Sed si ego viderem hic animam tristem\
+26 Sed si ego viderem hic animam tristem\
 &emsp;Guidonis, et Allexandri, et eorum fratris,\
 &emsp;Per Fontem Brandam non darem visum.
 
-(¹) la cagione — (²) nell' Inferno — (³) bene — (⁴) d'alchymie — (⁵) me misero — (⁶) desidero havere — (⁷) fiumicelli — (⁸) fiume — (⁹) di Dio — (¹⁰) stimola — (¹¹) tira — (¹²) in Casentino — (¹³) castello — (¹⁴) de' fiorini — (¹⁵) conte — (¹⁶) conte — (¹⁷) di Siena.
+(1) la cagione — (2) nell' Inferno — (3) bene — (4) d'alchymie — (5) me misero — (6) desidero havere — (7) fiumicelli — (8) fiume — (9) di Dio — (10) stimola — (11) tira — (12) in Casentino — (13) castello — (14) de' fiorini — (15) conte — (16) conte — (17) di Siena.
 
 sive ventrem, cum magna inflatione, et faciem, idest vultum, subtilem) sicut ethicus (alia comparatio) faciebat eum tenere labia aperta, sicut ethicus facit, qui propter sitim, unum versus mentum, aliud versus nasum, revertit. Ethica est febris secreta, ita quod quis, quasi loquendo, moritur, quasi non videtur sentire dolores, sic moriendo. In giù, versus deorsum, idest versus mentum. In su, versus sursum, idest versus nasum.
 
@@ -292,63 +292,63 @@ Sed si ego viderem hic animam tristem Guidonis et Alexandri et eorum fratris, id
 
 <!-- p. 371 (0425) -->
 
-²⁷ Dentro ci è l'una (¹) già, se l'arrabbiate\
+27 Dentro ci è l'una (1) già, se l'arrabbiate\
 &emsp;Ombre, che vanno intorno, dicon vero:\
-&emsp;Ma che mi vale, ch'ò (²) le membra legate?
+&emsp;Ma che mi vale, ch'ò (2) le membra legate?
 
-²⁷ Intro est hic una iam, si rabiose\
+27 Intro est hic una iam, si rabiose\
 &emsp;Umbre, que vadunt circum, dicunt verum:\
 &emsp;Sed quid michi valet, quia habeo membra ligata?
 
-²⁸ S'io fussi pur di tanto ancor leggiero,\
-&emsp;Ch'i' potess'in cent'anni andar un'oncia (³),\
-&emsp;Io sarei messo già per lo sentiero (⁴)
+28 S'io fussi pur di tanto ancor leggiero,\
+&emsp;Ch'i' potess'in cent'anni andar un'oncia (3),\
+&emsp;Io sarei messo già per lo sentiero (4)
 
-²⁸ Si essem saltem de tanto adhuc levis,\
+28 Si essem saltem de tanto adhuc levis,\
 &emsp;Quod ego possem in centum annis ire per unam unciam,\
 &emsp;Ego misissem me iam per semitam,
 
-²⁹ Cercando lui tra queste gente sconcia,\
-&emsp;Con tucto ch'ella volgha (⁵) undici migla,\
-&emsp;E men d'un mezzo (⁶) di traverso non ci à.
+29 Cercando lui tra queste gente sconcia,\
+&emsp;Con tucto ch'ella volgha (5) undici migla,\
+&emsp;E men d'un mezzo (6) di traverso non ci à.
 
-²⁹ Querendo eum inter istas animas cruciatas,\
+29 Querendo eum inter istas animas cruciatas,\
 &emsp;Quamquam ipsam circumveniant undecim milliaria,\
 &emsp;Et plus uno medio de transverso non habet.
 
-³⁰ Io son per lor tra sì facta famigla:\
+30 Io son per lor tra sì facta famigla:\
 &emsp;Che m'indusser a bacter li fiorini,\
-&emsp;Ch'avean tre carathi di mondigla (⁷).
+&emsp;Ch'avean tre carathi di mondigla (7).
 
-³⁰ Ego sum pro eis inter talem familiam:\
+30 Ego sum pro eis inter talem familiam:\
 &emsp;Ipsi induxerunt me ad cudendum florenos,\
 &emsp;Qui habebant tres currus immundicie.
 
-³¹ Et io a lui: Chi son li due tapini,\
+31 Et io a lui: Chi son li due tapini,\
 &emsp;Che fuman come man bagnate 'l verno,\
 &emsp;Giacendo strecti a tuo' dextri confini?
 
-³¹ Et ego ad illum: Qui sunt illi duo miseri,\
+31 Et ego ad illum: Qui sunt illi duo miseri,\
 &emsp;Qui fumant sicut manus balneata in yeme,\
 &emsp;Iacendo stricti ad tuos dextros [confines]?
 
-³² Qui li trovai (⁸), e poi volta non dierno,\
-&emsp;Rispose (⁹), quando piovvi in questo greppo,\
-&emsp;E non credo che dieno (¹⁰) in sempiterno.
+32 Qui li trovai (8), e poi volta non dierno,\
+&emsp;Rispose (9), quando piovvi in questo greppo,\
+&emsp;E non credo che dieno (10) in sempiterno.
 
-³² Hic eos reperi, et postea voltam non dederunt,\
+32 Hic eos reperi, et postea voltam non dederunt,\
 &emsp;Respondit, quando ego plui in istud greppum,\
 &emsp;Et non credo quod ipsi dent in sempiternum.
 
-³³ L'una è la falsa (¹¹) ch'accusò (¹²) Yoseppo;\
+33 L'una è la falsa (11) ch'accusò (12) Yoseppo;\
 &emsp;L'altr'è 'l falso Synon greco da Troya:\
-&emsp;Per febbre acuta gictan tanto leppo (¹³).
+&emsp;Per febbre acuta gictan tanto leppo (13).
 
-³³ Una est falsa que accusavit Ioseph;\
+33 Una est falsa que accusavit Ioseph;\
 &emsp;Alter est falsus Sinon grecus de Troya:\
 &emsp;Propter febrem acutam emictiunt tantum fetorem.
 
-(¹) delle anime de' detti conti — (²) che ho — (³) passo — (⁴) cammino — (⁵) al. volgia — (⁶) miglo — (⁷) falsità d'oro — (⁸) quando venn'io — (⁹) maestro Adamo — (¹⁰) più volta. — (¹¹) femmina — (¹²) a Pharaone — (¹³) puzza.
+(1) delle anime de' detti conti — (2) che ho — (3) passo — (4) cammino — (5) al. volgia — (6) miglo — (7) falsità d'oro — (8) quando venn'io — (9) maestro Adamo — (10) più volta. — (11) femmina — (12) a Pharaone — (13) puzza.
 
 27 Intro, hic, est una iam, idest illorum comitum, si rabiose umbre, que vadunt circum, dicunt verum, sicut erant anime Ioannis Schicchi et Mirre: sed quid michi valet, idest prodest (quasi dicat, nihil) quia habeo membra ligata? Hic vult dicere, quod solatium est miseris sotios habere in penis, maxime illos, qui fuerunt michi causa tanti mali.
 
@@ -366,71 +366,71 @@ Una est falsa, scilicet illa, que cepit Ioseph per vestem, et ille aufugit, reli
 
 <!-- p. 372 (0426) -->
 
-³⁴ E l'un di lor (¹), che si recò a noia\
-&emsp;Forse d'esser nomato sì obscuro (²),\
-&emsp;Col pugno (³) li percosse (⁴) l'epa croia (⁵):
+34 E l'un di lor (1), che si recò a noia\
+&emsp;Forse d'esser nomato sì obscuro (2),\
+&emsp;Col pugno (3) li percosse (4) l'epa croia (5):
 
-³⁴ Et unus eorum, qui sibi imputavit ad displicentiam\
+34 Et unus eorum, qui sibi imputavit ad displicentiam\
 &emsp;Forte nominari ita obscure,\
 &emsp;Cum pugno ei percussit epam croyam;
 
-³⁵ Quella sonò, come fusse un tamburo:\
-&emsp;E 'l mastro Adamo li percosse (⁶) 'l volto\
-&emsp;Col braccio suo che non parve men duro (⁷),
+35 Quella sonò, come fusse un tamburo:\
+&emsp;E 'l mastro Adamo li percosse (6) 'l volto\
+&emsp;Col braccio suo che non parve men duro (7),
 
-³⁵ Illa sonuit, ac si esset unum tympanum:\
+35 Illa sonuit, ac si esset unum tympanum:\
 &emsp;Et magister Adam percussit ei vultum\
 &emsp;Cum pugno suo qui non apparuit minus durus,
 
-³⁶ Dicendo lui (⁸): Ancor che mi sia tolto\
-&emsp;Lo muover delle membra (⁹) che son gravi,\
-&emsp;Io abbo (¹⁰) 'l braccio (¹¹) a tal mestieri sciolto.
+36 Dicendo lui (8): Ancor che mi sia tolto\
+&emsp;Lo muover delle membra (9) che son gravi,\
+&emsp;Io abbo (10) 'l braccio (11) a tal mestieri sciolto.
 
-³⁶ Dicendo ad eum: Quamvis sit mihi sublatus\
+36 Dicendo ad eum: Quamvis sit mihi sublatus\
 &emsp;Motus membrorum que sunt gravia,\
 &emsp;Adhuc habeo ego brachium ad tale opus dissolutum.
 
-³⁷ Ond'ei (¹²) rispose: Quando tu andavi (¹³)\
-&emsp;Al fuoco (¹⁴), non l'havei tu così presto (¹⁵);\
-&emsp;Ma sì (¹⁶) e più (¹⁷) l'havei quando coniavi (¹⁸).
+37 Ond'ei (12) rispose: Quando tu andavi (13)\
+&emsp;Al fuoco (14), non l'havei tu così presto (15);\
+&emsp;Ma sì (16) e più (17) l'havei quando coniavi (18).
 
-³⁷ Unde ipse respondit: Quando tu ibas\
+37 Unde ipse respondit: Quando tu ibas\
 &emsp;Ad ignem, non habebas tu illud ita velox,\
 &emsp;Sed sic et plus habebas ipsum, quando cudebas.
 
-³⁸ E l'ydropico (¹⁹): Tu di' ben ver di questo;\
-&emsp;Ma tu non fosti sì ver (²⁰) testimonio,\
-&emsp;Dove del ver fosti a Troya richiesto (²¹).
+38 E l'ydropico (19): Tu di' ben ver di questo;\
+&emsp;Ma tu non fosti sì ver (20) testimonio,\
+&emsp;Dove del ver fosti a Troya richiesto (21).
 
-³⁸ Et ydropicus: Tu dicis verum de hoc;\
+38 Et ydropicus: Tu dicis verum de hoc;\
 &emsp;Sed tu non fuisti ita verus testis,\
 &emsp;Quando de vero fuisti Troye requisitus.
 
-³⁹ S'io dissi 'l falso (²²), tu falsasti el conio (²³),\
-&emsp;Disse Synone, e so' qui per un fallo (²⁴),\
-&emsp;E tu (²⁵) per più (²⁶) ch'alcun'altro demonio.
+39 S'io dissi 'l falso (22), tu falsasti el conio (23),\
+&emsp;Disse Synone, e so' qui per un fallo (24),\
+&emsp;E tu (25) per più (26) ch'alcun'altro demonio.
 
-³⁹ Si ego dixi falsum, tu falsasti cuneum,\
+39 Si ego dixi falsum, tu falsasti cuneum,\
 &emsp;Dixit Sinon, et sum hic pro una fallacia,\
 &emsp;Et tu pro pluribus quam aliquis alter demon.
 
-⁴⁰ Ricorditi 'l spergiuro del cavallo,\
-&emsp;Rispose quel (²⁷) ch'havea gonfiata l'epa (²⁸);\
-&emsp;E sieti reo, che tucto 'l mondo sallo (²⁹).
+40 Ricorditi 'l spergiuro del cavallo,\
+&emsp;Rispose quel (27) ch'havea gonfiata l'epa (28);\
+&emsp;E sieti reo, che tucto 'l mondo sallo (29).
 
-⁴⁰ Recorderis periurii equi,\
+40 Recorderis periurii equi,\
 &emsp;Respondit ille qui habebat inflatam epam;\
 &emsp;Et tibi sit reum, quod totus mundus scit illud.
 
-⁴¹ A te sia reo la sete onde ti crepa,\
-&emsp;Disse'l Greco (³⁰), la lingua, e l'acqua marcia (³¹),\
-&emsp;Che 'l ventre innanzi agl'ochi ti si siepa (³²).
+41 A te sia reo la sete onde ti crepa,\
+&emsp;Disse'l Greco (30), la lingua, e l'acqua marcia (31),\
+&emsp;Che 'l ventre innanzi agl'ochi ti si siepa (32).
 
-⁴¹ Et tibi sit rea sitis unde tibi crepat,\
+41 Et tibi sit rea sitis unde tibi crepat,\
 &emsp;Dixit Grecus, lingua, et aqua marcida,\
 &emsp;Quod venter ante oculos tibi se assepit.
 
-(¹) Synone — (²) cioè falso Synon — (³) suo — (⁴) a maestro Adamo — (⁵) la pancia — (⁶) a Synone — (⁷) che quello di Synone — (⁸) a Synone — (⁹) mie — (¹⁰) ho — (¹¹) mio — (¹²) Synone — (¹³) su nel mondo — (¹⁴) ad arderti — (¹⁵) perchè era legato — (¹⁶) così — (¹⁷) che così — (¹⁸) la falsa moneta — (¹⁹) maestro Adamo — (²⁰) come in questo — (²¹) dal re Priamo — (²²) a Troya — (²³) a Romena — (²⁴) falsità — (²⁵) se' qui — (²⁶) falli — (²⁷) maestro Adamo — (²⁸) la pancia — (²⁹) sa el tuo spergiuro — (³⁰) Synone — (³¹) l'humore — (³²) si fa siepe.
+(1) Synone — (2) cioè falso Synon — (3) suo — (4) a maestro Adamo — (5) la pancia — (6) a Synone — (7) che quello di Synone — (8) a Synone — (9) mie — (10) ho — (11) mio — (12) Synone — (13) su nel mondo — (14) ad arderti — (15) perchè era legato — (16) così — (17) che così — (18) la falsa moneta — (19) maestro Adamo — (20) come in questo — (21) dal re Priamo — (22) a Troya — (23) a Romena — (24) falsità — (25) se' qui — (26) falli — (27) maestro Adamo — (28) la pancia — (29) sa el tuo spergiuro — (30) Synone — (31) l'humore — (32) si fa siepe.
 
 in infamiam Ioseph, que accusavit Ioseph. Alter est falsus Sinon grecus de Troya. Propter febrem acutam emictunt tantum fetorem. Leppo, idest fetor, sive fumus fetidus.
 
@@ -446,63 +446,63 @@ Et tibi sit rea sitis, idest displiceat, unde, idest ex qua,
 
 <!-- p. 373 (0427) -->
 
-⁴² Allhora el monetier (¹): Così si squarcia (²)\
+42 Allhora el monetier (1): Così si squarcia (2)\
 &emsp;La bocha tua per dir mal come suole;\
-&emsp;Chè s'io ho sete, l'humor mi rinfarcia (³):
+&emsp;Chè s'io ho sete, l'humor mi rinfarcia (3):
 
-⁴² Tunc monetarius: Ita dillaniatur\
+42 Tunc monetarius: Ita dillaniatur\
 &emsp;Os tum propter suum malum sicut solet;\
 &emsp;Quia si ego habeo sitim, humor ante faciem meam stat:
 
-⁴³ Tu hai l'arsura, e 'l capo che ti duole;\
-&emsp;E per leccar lo spechio (⁴) di Narcysso,\
+43 Tu hai l'arsura, e 'l capo che ti duole;\
+&emsp;E per leccar lo spechio (4) di Narcysso,\
 &emsp;Non vorresti a 'nvitar troppe parole.
 
-⁴³ At tu habes arsuram, et caput quod tu doles;\
+43 At tu habes arsuram, et caput quod tu doles;\
 &emsp;Et ut lingeres speculum Narcisi,\
 &emsp;Non velles ad invitandum te multa verba.
 
-⁴⁴ Ad ascoltarli er'io del tucto fisso,\
+44 Ad ascoltarli er'io del tucto fisso,\
 &emsp;Quando 'l maestro mi disse: Or pur mira,\
-&emsp;Che per poch'è che teco non m'adisso (⁵).
+&emsp;Che per poch'è che teco non m'adisso (5).
 
-⁴⁴ Ad auscultandum eram ego in totum firmus,\
+44 Ad auscultandum eram ego in totum firmus,\
 &emsp;Quando magister dixit michi: Or pur respicias,\
 &emsp;Quod pro pauco tecum non irascor.
 
-⁴⁵ Quando 'l sentii a me parlar con ira,\
+45 Quando 'l sentii a me parlar con ira,\
 &emsp;Volsimi verso lui con tal vergogna,\
-&emsp;Ch'ancor per la memoria mi si gira (⁶).
+&emsp;Ch'ancor per la memoria mi si gira (6).
 
-⁴⁵ Quando ego sensi eum ad me loqui cum ira,\
+45 Quando ego sensi eum ad me loqui cum ira,\
 &emsp;Volvi me versus eum cum tali verecundia,\
 &emsp;Que adhuc per memoriam meam circumvolvitur.
 
-⁴⁶ E qual è quei che suo dannaggio sogna,\
+46 E qual è quei che suo dannaggio sogna,\
 &emsp;Che sognando desidera sognare,\
 &emsp;Sì che quel, come che non fosse, agogna;
 
-⁴⁶ Et qualis est ille qui suum dampnum sompniat,\
+46 Et qualis est ille qui suum dampnum sompniat,\
 &emsp;Qui sompniando desiderat sompniare,\
 &emsp;Ita quod illud quod est, ac si non esset, desiderat;
 
-⁴⁷ Tal mi fec'io, non potendo parlare,\
+47 Tal mi fec'io, non potendo parlare,\
 &emsp;Chè desiava scusarmi, e scusava\
 &emsp;Me tucta via, e non mel credea fare.
 
-⁴⁷ Talem me feci ego, non potens loqui,\
+47 Talem me feci ego, non potens loqui,\
 &emsp;Qui desiderabam me excusare, et excusabam\
 &emsp;Et me semper non facere id credebam.
 
-⁴⁸ Maggior difecto men vergogna lava,\
-&emsp;Disse 'l maestro (⁷), che 'l tuo (⁸) non è stato;\
-&emsp;Però d'ogni tristitia ti disgrava (⁹):
+48 Maggior difecto men vergogna lava,\
+&emsp;Disse 'l maestro (7), che 'l tuo (8) non è stato;\
+&emsp;Però d'ogni tristitia ti disgrava (9):
 
-⁴⁸ Maiorem defectum minor verecundia lavat,\
+48 Maiorem defectum minor verecundia lavat,\
 &emsp;Dixit magister, quam tuus fuerit;\
 &emsp;Ideo de omni verecundia te exoneres:
 
-(¹) maestro Adamo — (²) s'apre — (³) riempie — (⁴) la fonte — (⁵) corruccio — (⁶) rivolta — (⁷) Virgilio — (⁸) difecto — (⁹) scaricati.
+(1) maestro Adamo — (2) s'apre — (3) riempie — (4) la fonte — (5) corruccio — (6) rivolta — (7) Virgilio — (8) difecto — (9) scaricati.
 
 tibi crepat, dixit Grecus, lingua, et aqua marcida, idest putrida, quod venter, idest tuus, ante oculos tibi se assepit, idest facit unam sepem propter inflaturam suam.
 
@@ -522,17 +522,17 @@ Maiorem defectum minor verecundia lavat, dixit magister, quam tuus fuerit; ideo 
 
 <!-- p. 374 (0428) -->
 
-⁴⁹ E fa' ragion ch'io ti sia sempre allato,\
+49 E fa' ragion ch'io ti sia sempre allato,\
 &emsp;Se più adiven che fortuna ti cogla\
-&emsp;Ove sia gente in simigliante (¹) piato (²);\
+&emsp;Ove sia gente in simigliante (1) piato (2);\
 &emsp;Che voler ciò udir è bassa vogla.
 
-⁴⁹ Et facias racionem quod ego semper fui prope te,\
+49 Et facias racionem quod ego semper fui prope te,\
 &emsp;Si a casu venit quod fortuna te inducat\
 &emsp;Ubi sint gentes in simili causa;\
 &emsp;Quia velle istud tale audire est infimum velle.
 
-(¹) com'eran costoro — (²) litigio
+(1) com'eran costoro — (2) litigio
 
 et facias rationem, idest puta vel extima, quod ego fui semper prope te, idest tecum, si a casu venit quod fortuna te inducat, scilicet ad locum, ubi sint gentes in simili causa, idest litigio, vel altercatione; quia velle istud tale audire, est infimum velle, idest velle vilium hominum et pauci sensus. Nota quod sapiens homo debet verecundari de quacumque re prava, minus honesta; nam homines sapientes et graves debent verecundari de quibuscumque minimis, ex quibus posset aliquod dedecus impingi. Sic etiam nota, homines sapientes non debere ponere animum, nec inclinare animum, ad videndum, vel audiendum, frivolas res et viles, quia solum viles homines hoc delectantur audire, vel videre, etc.
 

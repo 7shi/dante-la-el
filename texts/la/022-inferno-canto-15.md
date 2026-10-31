@@ -8,27 +8,27 @@ In capitulo decimoquinto, quod incipit: Nunc portat nos, auctor ponit etiam pena
 
 # Capitulum Quintumdecimum
 
-¹ Hora cen porta l'un de' duri margini,\
+1 Hora cen porta l'un de' duri margini,\
 &emsp;E 'l fumo del ruscel di sopra aduggia\
 &emsp;Sì, che dal fuoco salva l'acqua e gl'argini.
 
-¹ Nunc nos portat unus ex duris marginibus,\
+1 Nunc nos portat unus ex duris marginibus,\
 &emsp;Et fumus rivuli desuper adumbrat\
 &emsp;Ita, quod ab igne salvat aquam et aggeres.
 
-² Quali e Fiamminghi tra Guizzante e Bruggia,\
+2 Quali e Fiamminghi tra Guizzante e Bruggia,\
 &emsp;Temendo'l fiotto che 'n ver lor s'avventa,\
 &emsp;Fanno lo schermo, perchè'l mar si fuggia;
 
-² Quales Flamminghi inter Guizantem et Brugen,\
+2 Quales Flamminghi inter Guizantem et Brugen,\
 &emsp;Timendo fluctum qui versus eos venit,\
 &emsp;Faciunt eorum defensiones, ad hoc ut mare fugiat;
 
-³ E quali e Padovan lu[n]go la Brenta,\
+3 E quali e Padovan lu[n]go la Brenta,\
 &emsp;Per difender lor ville e lor castelli,\
 &emsp;Anzi che Chiarentana el caldo senta;
 
-³ Et quales Paduani iuxta Brentam,\
+3 Et quales Paduani iuxta Brentam,\
 &emsp;Ut defendant suas villas et sua castella,\
 &emsp;Antequam Clarentana calorem sentiat;
 
@@ -52,27 +52,27 @@ Qualiter Flamingi: modo per comparationem ostendit quales sunt illi ymargines. A
 
 <!-- p. 193 (0247) -->
 
-⁴ A tal ymagine eran facti quelli,\
+4 A tal ymagine eran facti quelli,\
 &emsp;Tutto che nè sì alti nè sì grossi,\
 &emsp;Qual che si fosse lo maestro, félli.
 
-⁴ Ad talem ymaginem erant facti illi,\
+4 Ad talem ymaginem erant facti illi,\
 &emsp;Quamquam nec ita alti nec ita grossi,\
 &emsp;Qualis ne fuerit magister, illos fecerit.
 
-⁵ Già eravàn da la selva rimossi\
+5 Già eravàn da la selva rimossi\
 &emsp;Tanto, ch'io non havrei visto dov'era,\
 &emsp;Perch'io indietro rivolto mi fossi;
 
-⁵ Iam eramus a silva remoti\
+5 Iam eramus a silva remoti\
 &emsp;Tantum, quod ego non vidissem ubi eram,\
 &emsp;Quamquam ego volvissem me retro;
 
-⁶ Quando incontrammo d'anime una schiera,\
+6 Quando incontrammo d'anime una schiera,\
 &emsp;Che venian sotto noi, e ciascheduna\
 &emsp;Ci riguardava, come suol da sera
 
-⁶ Quando obviavimus animarum uni aciei,\
+6 Quando obviavimus animarum uni aciei,\
 &emsp;Que veniebant prope aggerem, et quelibet\
 &emsp;Nos respiciebat, sicut consuevit de sero
 
@@ -86,55 +86,55 @@ Iam eramus a silva remoti: idest a longe tantum, quod ego non vidissem ubi eram,
 
 <!-- p. 194 (0248) -->
 
-⁷ Guardar l'un l'altro sotto nuova luna;\
+7 Guardar l'un l'altro sotto nuova luna;\
 &emsp;E sì ver noi aguzzavan le cigla,\
-&emsp;Come 'l vechio sartor fa ne la cruna (¹).
+&emsp;Come 'l vechio sartor fa ne la cruna (1).
 
-⁷ Respicere unus alium sub nova luna;\
+7 Respicere unus alium sub nova luna;\
 &emsp;Et ita versus nos acuebant supercilia,\
 &emsp;Sicut antiquus sartor facit in crunam.
 
-⁸ Sì adochiato da cotal famigla,\
+8 Sì adochiato da cotal famigla,\
 &emsp;Fui conoscuto da un, che mi prese\
-&emsp;Per lo lembo (²), e gridò: Qual maravigla?
+&emsp;Per lo lembo (2), e gridò: Qual maravigla?
 
-⁸ Sic adoculati a tali familia,\
+8 Sic adoculati a tali familia,\
 &emsp;Fui cognitus ab uno, qui me cepit\
 &emsp;Per fimbriam, et clamavit: Quale mirum?
 
-⁹ Et io, quando 'l suo braccio a me distese,\
+9 Et io, quando 'l suo braccio a me distese,\
 &emsp;Gl'ochi ficcai per lo cotto aspetto\
 &emsp;Sì, che 'l viso abbruciato non difese
 
-⁹ Et ego, quando suum brachium ad me extendit,\
+9 Et ego, quando suum brachium ad me extendit,\
 &emsp;Fixi oculos per coctum aspectum\
 &emsp;Ita, quod visus adustus non abscondit
 
-¹⁰ La conoscenza sua al mio intelletto;\
+10 La conoscenza sua al mio intelletto;\
 &emsp;E chinando la mano a la sua faccia,\
-&emsp;Risposi: Sete voi qui, (³) ser Brunetto?
+&emsp;Risposi: Sete voi qui, (3) ser Brunetto?
 
-¹⁰ Cognitionem suam meo intellectui;\
+10 Cognitionem suam meo intellectui;\
 &emsp;Et inclinando meam ad suam faciem,\
 &emsp;Respondi: Estis vos hic, ser Brunecte?
 
-¹¹ Et egli: O figluol mio, non ti dispiaccia\
+11 Et egli: O figluol mio, non ti dispiaccia\
 &emsp;Ser Brunetto Latini un poco teco:\
 &emsp;Ritorna in dietro e lass'andar la traccia.
 
-¹¹ Et ille michi: O fili mi, non tibi displiceat\
+11 Et ille michi: O fili mi, non tibi displiceat\
 &emsp;Ser Brunectus Latinus aliquantulum tecum:\
 &emsp;Redeas retro et permicte ire tracciam.
 
-¹² Et io a lui: Quanto posso, ven preco;\
+12 Et io a lui: Quanto posso, ven preco;\
 &emsp;E se volete che con voi m'asseggia,\
 &emsp;Farol, se piace a costui, chè vo seco.
 
-¹² Ego dixi ad eum: Quantum possum, vos precor;\
+12 Ego dixi ad eum: Quantum possum, vos precor;\
 &emsp;Et si vultis quod vobiscum sedeam,\
 &emsp;Faciam, si placeat isti, quia vado secum.
 
-(¹) dell'ago. — (²) del vestimento. — (³) o.
+(1) dell'ago. — (2) del vestimento. — (3) o.
 
 une aciei animarum, que veniebant prope aggerem, et quelibet nos respiciebat, sicut consuevit de sero respicere unus alium sub nova luna; et ita versus nos acuebant supercilia, sicut antiquus sartor facit in cruna, in foramen acus. Omnes intuebantur auctorem, mirantes quomodo esset vivus, et quomodo transibat sine pena: ista duo erant causa admirationis, scilicet vita auctoris et immunitas a pena. Illi ibant valde velociter; Virgilius et auctor ibant lente.
 
@@ -150,71 +150,71 @@ Ego dixi ad eum: Quantum possum vos precor; et si vultis quod vobiscum sedeam, f
 
 <!-- p. 195 (0249) -->
 
-¹³ O figluol, disse, qual di questa greggia\
+13 O figluol, disse, qual di questa greggia\
 &emsp;S'arresta puncto, giace per cent'anni\
 &emsp;Senza rostarsi quando 'l fuoco el feggia.
 
-¹³ O fili, dixit, qualis ex isto grege\
+13 O fili, dixit, qualis ex isto grege\
 &emsp;Se arrestat, iacet postmodum centum annis\
 &emsp;Sine defensione prius quam ignis illum feriat.
 
-¹⁴ Però va' oltra: ch'io ti verrò a panni,\
+14 Però va' oltra: ch'io ti verrò a panni,\
 &emsp;E poi rigiugnerò la mia masnada,\
 &emsp;Che va piangendo e suoi eterni danni.
 
-¹⁴ Ergo vadas ultra: ego tibi veniam apud pannos,\
+14 Ergo vadas ultra: ego tibi veniam apud pannos,\
 &emsp;Et postea superveniam meam masnadam,\
 &emsp;Que vadit plangendo sua eterna dampna.
 
-¹⁵ Io non osava (¹) scender dalla strada\
+15 Io non osava (1) scender dalla strada\
 &emsp;Per andar par di lui: ma 'l capo chino\
 &emsp;Tenea, com'huom che riverente vada.
 
-¹⁵ Ego non audebam descendere a strata\
+15 Ego non audebam descendere a strata\
 &emsp;Ut ire[m] equalis secum: sed caput inclinatum\
 &emsp;Tenebam, sicut homo qui reverens vadat.
 
-¹⁶ El (²) cominciò: Qual fortuna o destino\
+16 El (2) cominciò: Qual fortuna o destino\
 &emsp;Anzi l'ultimo dì quaggiù ti mena?\
 &emsp;E chi è questi che mostra 'l cammino?
 
-¹⁶ Ipse incepit: Qualis fortuna vel destinatio\
+16 Ipse incepit: Qualis fortuna vel destinatio\
 &emsp;Ante ultimum diem hic te ducit?\
 &emsp;Et quis est iste qui ducit ad iter?
 
-¹⁷ Lassù di sopra in la vita serena,\
+17 Lassù di sopra in la vita serena,\
 &emsp;Rispos'io lui, smarrim'in una valle,\
 &emsp;Avanti che l'età mia fosse piena.
 
-¹⁷ Superius in vita serena,\
+17 Superius in vita serena,\
 &emsp;Respondi ad eum, deviavi in una valle,\
 &emsp;Antequam etas mea esset plena.
 
-¹⁸ Pur hier mattina le voltai (³) le spalle:\
+18 Pur hier mattina le voltai (3) le spalle:\
 &emsp;Questi m'apparve, tornand'io in quella,\
-&emsp;E reducemi a ca' (⁴) per questo calle.
+&emsp;E reducemi a ca' (4) per questo calle.
 
-¹⁸ Pur heri mane ad eam volvi terga:\
+18 Pur heri mane ad eam volvi terga:\
 &emsp;Iste michi apparuit, redeundo in illam,\
 &emsp;Et reducit me ad domum ad istum callem.
 
-¹⁹ Et elli a me: Se tu segui tua stella,\
+19 Et elli a me: Se tu segui tua stella,\
 &emsp;Non puoi fallir al glorioso porto,\
 &emsp;Se ben m'accorsi ne la vita bella:
 
-¹⁹ Et ipse ad me: Si tu sequeris stellam,\
+19 Et ipse ad me: Si tu sequeris stellam,\
 &emsp;Non potes fallere gloriosum portum,\
 &emsp;Si bene comprehendisti in vita pulchra:
 
-²⁰ E s'io non fussi sì per tempo morto,\
+20 E s'io non fussi sì per tempo morto,\
 &emsp;Vedendo 'l cielo a te così benigno,\
 &emsp;Dato t'arei all'opera conforto.
 
-²⁰ Et si ego non essem sic tempestive mortuus,\
+20 Et si ego non essem sic tempestive mortuus,\
 &emsp;Videndo celum tibi sic benignum,\
 &emsp;Dedissem tibi ad operam confortationem.
 
-(¹) ardìva. — (²) al. ei. — (³) al. le volsi. — (⁴) casa.
+(1) ardìva. — (2) al. ei. — (3) al. le volsi. — (4) casa.
 
 O fili, dixit, qualis, idest quicumque ex isto grege, se arestat, idest firmat, vel desistat a cursu, iacet postmodum centum annis sine rostarsi, idest defensione, prius quam ignis illum fegiat, idest feriat: idest, quicumque horum se removet a motu, iacet postea centum annis sine motu et cum maiori pena; scilicet sodomite infelices, qui faciunt habitum in isto vitio, quamquam sciant se emendare. Ergo vadas ultra, ego veniam tibi apud pannos, et postea superveniam, idest attingam meam masnadam, idest aciem (est vocabulum pedemontanum, et etiam lombardicum, saltem papiense), que vadit plangendo sua eterna dampna.
 
@@ -228,31 +228,31 @@ Et ille michi, scilicet ser Brunectus: Si tu sequeris tuam stellam: idest conste
 
 <!-- p. 196 (0250) -->
 
-²¹ Chè quello ingrato popolo maligno,\
+21 Chè quello ingrato popolo maligno,\
 &emsp;Che discese di Fiesole ab antico,\
 &emsp;E tien ancor del monte e del macigno,
 
-²¹ Sed ille ingratus populus malignus,\
+21 Sed ille ingratus populus malignus,\
 &emsp;Qui descendit a Fexulis ab antiquo,\
 &emsp;Et tenet adhuc de monte et de macigno,
 
-²² Ti si farà, del tuo ben far, nimico:\
+22 Ti si farà, del tuo ben far, nimico:\
 &emsp;Et a ragion; chè tra li lazzi sorbi\
-&emsp;Si disconvien tractar (¹) el dolce fico.
+&emsp;Si disconvien tractar (1) el dolce fico.
 
-²² Tibi fiet, propter tua bona opera, inimicus:\
+22 Tibi fiet, propter tua bona opera, inimicus:\
 &emsp;Et est ratio; quod inter lazzas sorbes\
 &emsp;Dedeceat fructificare dulcem ficum.
 
-²³ Vecchia fama nel mondo gli chiama orbi (²),\
+23 Vecchia fama nel mondo gli chiama orbi (2),\
 &emsp;Gente avara, invidiosa e superba:\
 &emsp;Da' lor costumi fa' che tu ti forbi.
 
-²³ Vetus fama in mundo eos vocat orbos,\
+23 Vetus fama in mundo eos vocat orbos,\
 &emsp;Gentem avaram, invidam et superbam:\
 &emsp;Ab eorum moribus fac quod te abstergas.
 
-(¹) al. fructar. — (²) fiorentini ciechi.
+(1) al. fructar. — (2) fiorentini ciechi.
 
 liberum arbitrium, per quod tu posses aliter facere, si bene, in vita pulchra, idest temporali, in qua te novi, ego potui coniecturare. Iste fuit bonus astrologus. Dicit si; quia aliquando astrologi, non bene calculantes, dicunt multa mendacia, et raro verum. Et si ego non sic tempestive mortuus essem, videndo celum tibi sic benignum, dedissem tibi, ad operam, confortationem. Hoc dicit causa hortandi Dantem ad prosequendum et complendum opus.
 
@@ -266,31 +266,31 @@ Sed quare Florentini dicuntur ceci per antiquam famam? Dicit quod hec est causa.
 
 <!-- p. 197 (0251) -->
 
-²⁴ La tua fortuna tanto ben ti serba,\
-&emsp;Che l'una parte e l'altra (¹) haverà fame\
+24 La tua fortuna tanto ben ti serba,\
+&emsp;Che l'una parte e l'altra (1) haverà fame\
 &emsp;Di te: ma fia lungo dal becco l'herba.
 
-²⁴ Tua fortuna tantum honorem tibi servat,\
+24 Tua fortuna tantum honorem tibi servat,\
 &emsp;Quod utraque pars habebit famem\
 &emsp;De te: sed longe erit ab ore herba.
 
-²⁵ Faccian le bestie fiesolane strame\
+25 Faccian le bestie fiesolane strame\
 &emsp;Di lor medesme, e non tochin la pianta,\
 &emsp;S'alcuna surge ancor nel lor letame,
 
-²⁵ Faciant bestie Fexulane stramen\
+25 Faciant bestie Fexulane stramen\
 &emsp;De semetipsis, et non tangant plantam,\
 &emsp;Si adhuc surgit aliqua in ipsarum fimo,
 
-²⁶ In cui ruina la semente sancta\
+26 In cui ruina la semente sancta\
 &emsp;Di quei Roman, che vi rimaser, quando\
-&emsp;Fu facto el nido (²) di malitia tanta.
+&emsp;Fu facto el nido (2) di malitia tanta.
 
-²⁶ In qua revivat semen sanctum\
+26 In qua revivat semen sanctum\
 &emsp;Illorum Romanorum, qui ibi remanserunt, quando\
 &emsp;Fuit factus nidus malitie tante.
 
-(¹) guelfa e ghibellina. — (²) Firenze.
+(1) guelfa e ghibellina. — (2) Firenze.
 
 optime. Sed Potestas Florentie cum suo exercitu noluit intrare civitatem Pisarum, sicut preceptum fuerat sibi; sed fallentes et malefactores puniebat in campo. Potestas Pisarum habebat pro malo, quod Potestas Florentie faceret iustitiam in territorio, et misit sibi dicendo, quod nullo modo in territorio pisano exerceret actus iustitie. Respondit Potestas: Sic fiat. Sed caute ordinavit, quod unus civis Florentie prope Pisas per tria milliaria emeret unum campum (quod factum est); et in illo campo fecit fieri furcas, et ibi faciebat suspendi suspendendos, et decapitabat et faciebat omnem actum iustitie; quod Pisani substinuerunt, et sic omnia bene iverunt. Armata maris Pisanorum applicuit Metilinum et habuit optimam victoriam, et expulsis et fugatis Turcis, reacquisiverunt Metilinum, et pro preda acceperunt inde duo notabilia, scilicet duas portas de metallo pulcherrimas, et duas columpnas marmoreas lucidissimas, et portantes per mare, feliciter reversi sunt Pisas; et invento atque reperto, quod Florentini optime se habuerant pro defensione comitatus Pisani, ipsi Pisani, volentes gratos se reddere Florentinis, scripserunt de Pisis regressum eorum prosperum, regratiando eis de defensione, quam fecerant. Et submiserunt: Duo insignia portavimus, scilicet duas pulcherrimas columpnas, marmoreas, lucidissimas, et duas portas eneas magni valoris: volumus quod sitis participes victorie nostre: eligatis vel columpnas, vel portas; et sicut eligeritis, ita habebitis. Inito consilio in Palatio florentino, ipsi Florentini eligerunt columpnas; quod displicuit plurimum Pisanis; et ut Florentini [non] multum letarentur de eorum electione, Pisani fecerunt unum copiosum ignem circa columpnas illas, propter quem ignem, columpne, quasi exuste, sive semicombuste, perdiderunt illam claritatem et luciditatem, et cooperuerunt illas columpnas de scarleto rubeo. Florentini videntes columpnas sic vestitas de scarleto, non plus perquisiverunt, sed portaverunt eas Florentiam et collocaverunt eas ante ianuam ecclesie Sancti Ioannis Baptiste, ubi adhuc hac die sunt. Post aliquot dies, amoto panno scarletino, apparuerunt columpne magne, non lucide nec clare; et sic Florentini reputaverunt se deceptos a Pisanis, dicentes: Bene fuimus ceci, non videntes primo columpnas istas, antequam portaremus eas huc Florentiam: omnes sumus ceci; Florentini sunt ceci. Et sic inolevit et crevit hoc proverbium: Florentini ceci. Vere, vere, Florentini odierna die possunt dici videntes, et Pisani ceci, quia
 
@@ -302,63 +302,63 @@ Faciant bestie Fiexulane stramen (appellat Fiexulanos bestias propter vitia) de 
 
 <!-- p. 198 (0252) -->
 
-²⁷ Se fusse tutto pieno el mio dimando,\
+27 Se fusse tutto pieno el mio dimando,\
 &emsp;Risposi lui, voi non sareste ancora\
 &emsp;Dell'humana natura posto in bando;
 
-²⁷ Si esset tota plena mea petitio,\
+27 Si esset tota plena mea petitio,\
 &emsp;Respondi ad eum, vos non essetis adhuc\
 &emsp;Ab humana natura positus in bandimentum;
 
-²⁸ Chè in la mente m'è ficta, et hor m'accora,\
+28 Chè in la mente m'è ficta, et hor m'accora,\
 &emsp;La buona e cara ymagine paterna\
 &emsp;Di voi, quando nel mondo ad hor ad hora
 
-²⁸ Quia menti mee fixa est, et nunc me cruciat,\
+28 Quia menti mee fixa est, et nunc me cruciat,\
 &emsp;Cara bona ymago paterna\
 &emsp;Vestra, quando in mundo aliquando
 
-²⁹ M'insegnavate come l'huom s'etterna:\
-&emsp;E quant'io l'ebbi (¹) a grato, mentr'io vivo\
+29 M'insegnavate come l'huom s'etterna:\
+&emsp;E quant'io l'ebbi (1) a grato, mentr'io vivo\
 &emsp;Convien che ne la mia lingua si scerna.
 
-²⁹ Me docebatis qualiter homo eternatur:\
+29 Me docebatis qualiter homo eternatur:\
 &emsp;Et quantum illud habeam gratum, dum vivo\
 &emsp;Convenit quod in mea lingua discernatur.
 
-³⁰ Ciò che narrate di mio corso scrivo,\
+30 Ciò che narrate di mio corso scrivo,\
 &emsp;E serbolo a chiosar con altro testo\
-&emsp;A donna (²) che saprà (³), s'allei (⁴) arrivo.
+&emsp;A donna (2) che saprà (3), s'allei (4) arrivo.
 
-³⁰ Quidquid narratis de meo cursu scribo,\
+30 Quidquid narratis de meo cursu scribo,\
 &emsp;Et reservo illud ad glossandum cum alio textu\
 &emsp;A domina, que sciet, si ad ipsam pervenio.
 
-³¹ Ma tanto vo' che vi sia manifesto,\
-&emsp;Purchè mia conscienza non mi garra (⁵),\
+31 Ma tanto vo' che vi sia manifesto,\
+&emsp;Purchè mia conscienza non mi garra (5),\
 &emsp;Ch'a la fortuna, come vuol, son presto.
 
-³¹ Tantum volo quod vobis sit manifestum,\
+31 Tantum volo quod vobis sit manifestum,\
 &emsp;Dummodo mea conscientia non me garriat,\
 &emsp;Quod ad fortunam, sicut ipsa vult, sum promptus.
 
-³² Non è nuov'agl'orechi miei tal arra:\
+32 Non è nuov'agl'orechi miei tal arra:\
 &emsp;Però giri Fortuna la sua rota,\
 &emsp;Come le piace, e 'l villan la sua marra.
 
-³² Non est nova auribus meis talis arra:\
+32 Non est nova auribus meis talis arra:\
 &emsp;Igitur volvat Fortuna suam rotam,\
 &emsp;Sicut ei placet, et rusticus suam marram.
 
-³³ Lo mio maestro allhora in su la gota\
+33 Lo mio maestro allhora in su la gota\
 &emsp;Dextra si volse indietro, e riguardommi;\
 &emsp;Poi disse: Ben ascolta chi la nota.
 
-³³ Meus magister tunc super genam\
+33 Meus magister tunc super genam\
 &emsp;Dextram se volvit retro, et respexit me;\
 &emsp;Postea dixit: Bene auscultat qui illam notat.
 
-(¹) al. l'abbi. — (²) Beatrice. — (³) chiosar. — (⁴) se a lei — (⁵) remormori.
+(1) al. l'abbi. — (2) Beatrice. — (3) chiosar. — (4) se a lei — (5) remormori.
 
 Se fosse piena. Si esset plena tota mea petitio: hec est tertia pars huius capituli, in qua ponitur responsio Dantis, facta illi ser Brunecto. Si esset plena tota mea petitio: idest si omnia, que peterem, michi concederentur, respondi ad ipsum, vos non essetis adhuc ab humana natura positus in bandimentum, sive in exilium, idest non essetis adhuc mortuus; quia si ipse ser Brunectus supervixisset, dedisset adiutorium auctori ad faciendum hoc opus. Quia menti mee affixa est, et nunc me accora, idest cruciat in corde, cara bona ymago paterna vestra, quando in mundo aliquando me docebatis. Hic ponitur causa, quare Dantes nollet ser Brunectum esse adhuc mortuum. Quia quando eram iuvenis homo, docebatis me, qualiter homo eternatur. Eternatur autem homo dupliciter: scilicet in fama et in virtutibus; acquirendo supernam vitam eternam. Et quantum illum habeam gratum (ostendit quomodo est gratus) dum vivo, vel quousque vixero, convien, idest oportet, quod in mea lingua discernatur, idest exprimatur: nam quandocumque iste liber Dantis dicet aliquid de isto ser Brunecto.
 
@@ -376,43 +376,43 @@ Modo ostendit, quomodo Virgilius ratificaverit dicta Dantis, dicens: Meus magist
 
 <!-- p. 199 (0253) -->
 
-³⁴ Nè per tanto di men parlando vommi\
+34 Nè per tanto di men parlando vommi\
 &emsp;Con ser Brunetto, e dimando chi sono\
 &emsp;Li suoi compagni più noti e più sommi.
 
-³⁴ Nihilominus loquendo vado\
+34 Nihilominus loquendo vado\
 &emsp;Cum ser Brunecto, et interrogo qui sunt\
 &emsp;Sui sotii magis noti et magis summi.
 
-³⁵ Et elli a me: Saper d'alcuni è buono:\
+35 Et elli a me: Saper d'alcuni è buono:\
 &emsp;Degl'altri fia laudabile tacerci,\
 &emsp;Che 'l tempo saria corto: tanti sono.
 
-³⁵ Et ipse ad me: Scire de aliquibus est bonum:\
+35 Et ipse ad me: Scire de aliquibus est bonum:\
 &emsp;De aliis erit laudabile nos tacere,\
 &emsp;Quia tempus esset breve ad tantum sonum.
 
-³⁶ In summa sappi, che tutti fur cherci,\
+36 In summa sappi, che tutti fur cherci,\
 &emsp;E litterati grandi, e di gran fama,\
 &emsp;D'un peccato medesmo al mondo lerci.
 
-³⁶ In summa scias, quod omnes fuerunt clerici,\
+36 In summa scias, quod omnes fuerunt clerici,\
 &emsp;Et litterati magni et magne fame,\
 &emsp;De uno eodem peccato in mundo deturpati.
 
-³⁷ Priscian va con quella turba grama,\
+37 Priscian va con quella turba grama,\
 &emsp;E Francesco d'Accorso, ancor, vedervi,\
 &emsp;Se havessi havuto di tal tigna brama,
 
-³⁷ Priscianus vadit cum illa turba mesta,\
+37 Priscianus vadit cum illa turba mesta,\
 &emsp;Et Franciscus Accursius etiam, et videre ibi,\
 &emsp;Si habuisses de tali re voluntatem,
 
-³⁸ Colui potei che dal Servo de'Servi\
+38 Colui potei che dal Servo de'Servi\
 &emsp;Fu transmutato d'Arno in Bachilone,\
 &emsp;Dove trovò li mal protesi nervi.
 
-³⁸ Illum poteris qui a Servo Servorum\
+38 Illum poteris qui a Servo Servorum\
 &emsp;Fuit translatus de Arno in Bachilionem,\
 &emsp;Ubi dimisit male protensos nervos.
 
@@ -426,33 +426,33 @@ Iste dominus Andreas Accursi, translatus de episcopatu Arni, idest Florentie, in
 
 <!-- p. 200 (0254) -->
 
-³⁹ Di più direi; ma 'l (¹) venire e 'l sermone\
+39 Di più direi; ma 'l (1) venire e 'l sermone\
 &emsp;Più lungh'esser non può, però ch'i' veggio\
 &emsp;Là surger nuovo fumo nel sabbione.
 
-³⁹ De pluribus dicerem; sed adventus et sermo\
+39 De pluribus dicerem; sed adventus et sermo\
 &emsp;Longior esse non potest, quia ego video\
 &emsp;Iam surgere novum fumum de saburra.
 
-⁴⁰ Gente vien co'la qual esser non deggio:\
+40 Gente vien co'la qual esser non deggio:\
 &emsp;Sieti raccomandato el mio Thesoro\
 &emsp;Nel qual io vivo ancor; e più non chieggio.
 
-⁴⁰ Gens venit cum qua esse non debeo:\
+40 Gens venit cum qua esse non debeo:\
 &emsp;Sit tibi recommissus meus Thesaurus\
 &emsp;In quo ego vivo adhuc; et plus non quero.
 
-⁴¹ Poi si rivolse, e parve di coloro\
+41 Poi si rivolse, e parve di coloro\
 &emsp;Che correno a Verona al drappo verde\
 &emsp;Per la campagna; e parve di costoro\
 &emsp;Quelli che vince, e non quelli che perde.
 
-⁴¹ Postea se vertit, et visus est de illis\
+41 Postea se vertit, et visus est de illis\
 &emsp;Qui currunt Verone drappum viride\
 &emsp;Per campaniam; et visus est de istis\
 &emsp;Ille qui vincit, non ille qui perdit.
 
-(¹) ma el.
+(1) ma el.
 
 Vadatis, quia cognata mea, domina Tessa, vadit, et heri fuit michi confessa et dixit pauca peccata; quasi non dixit aliud notabile, nisi quod fuit vaga, etc. Revelavit totam confessionem. Unde Florentini ex hoc alterati et conturbati, fecerunt ipsum a domino papa Nicolao de Ursis transferri ad Vicentiam.
 

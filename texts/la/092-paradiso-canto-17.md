@@ -8,19 +8,19 @@ In isto decimoseptimo capitulo, quod incipit: Qualis devenit Climene, etc., auct
 
 # Capitulum Decimumseptimum
 
-¹ Qual venne a Clymene, per accertarsi\
+1 Qual venne a Clymene, per accertarsi\
 &emsp;Di quel ch'aveva contra sè udito,\
 &emsp;Quel ch'anco fa li padri a' figli scarsi;
 
-¹ Qualis devenit ad Climenem, ut certificaretur\
+1 Qualis devenit ad Climenem, ut certificaretur\
 &emsp;De hiis que contra se audiverat,\
 &emsp;Ille qui adhuc facit patres filiis scarsos,
 
-² Tal era io, e tal era sentito\
+2 Tal era io, e tal era sentito\
 &emsp;Da Beatrice, e da la sancta lampa\
 &emsp;Che pria per me havea mutato sito.
 
-² Talis eram, et talis sentitus\
+2 Talis eram, et talis sentitus\
 &emsp;Est a Beatrice, et a sancta lampade\
 &emsp;Que prius propter me mutaverat situm.
 
@@ -42,35 +42,35 @@ Circa primam partem, primo oportet notare unam fabulam, que ponitur in principio
 
 <!-- p. 1021 (1075) -->
 
-³ Per che mia Donna: Manda fuor la vampa\
+3 Per che mia Donna: Manda fuor la vampa\
 &emsp;Del tuo disio, mi disse, sì ch'ella esca\
 &emsp;Segnata bene dell'eterna stampa;
 
-³ Ex quo mea domina: Micte foras vampam\
+3 Ex quo mea domina: Micte foras vampam\
 &emsp;Cum tuo desiderio, michi dixit, ita quod exeat\
 &emsp;Signata bene de interna stampna;
 
-⁴ Non perchè nostra conoscenza cresca\
+4 Non perchè nostra conoscenza cresca\
 &emsp;Per tuo parlar, ma perchè tu t'ausi\
 &emsp;A dir la sete, sì che l'huom ti mesca.
 
-⁴ Non quod propterea nostra cognitio crescat\
+4 Non quod propterea nostra cognitio crescat\
 &emsp;Propter tuum loqui, sed ad hoc ut assuescas\
 &emsp;Ad dicendum sitim, ita quod homo tibi mescet.
 
-⁵ O cara pietra mia, che sì t'insusi,\
+5 O cara pietra mia, che sì t'insusi,\
 &emsp;Che, come veggion le terrene menti\
 &emsp;Non caper in triangol due ottusi,
 
-⁵ O cara planta mea, que sic sursum ostendis,\
+5 O cara planta mea, que sic sursum ostendis,\
 &emsp;Quod sicut vident terrene mentes\
 &emsp;Non contineri in uno triangulo duos obtusos,
 
-⁶ Così vedi le cose contingenti,\
+6 Così vedi le cose contingenti,\
 &emsp;Anzi che sieno in sè, mirando 'l punto\
 &emsp;A cui tutti li tempi son presenti,
 
-⁶ Sic vides res contingentes,\
+6 Sic vides res contingentes,\
 &emsp;Antequam sint in se, respiciendo punctum\
 &emsp;Cui omnia tempora sunt presentia;
 
@@ -84,55 +84,55 @@ Modo auctor, confortatus a Beatrice de petendo, incipit petere ab isto spiritu d
 
 <!-- p. 1022 (1076) -->
 
-⁷ [Mentre ch'io era a Virgilio congiunto\
+7 [Mentre ch'io era a Virgilio congiunto\
 &emsp;Su per lo monte che l'anime cura,\
 &emsp;E discendendo nel mondo defunto,
 
-⁷ Dum ego eram Virgilio coniunctus\
+7 Dum ego eram Virgilio coniunctus\
 &emsp;Super montem qui animas curat,\
 &emsp;Et descendendo in mundum defunctum,
 
-⁸ Dette mi fur di mia vita futura\
+8 Dette mi fur di mia vita futura\
 &emsp;Parole gravi; avvegna ch'io mi senta\
 &emsp;Ben tetragono ai colpi di ventura.
 
-⁸ Dicta michi fuerunt de mea vita futura\
+8 Dicta michi fuerunt de mea vita futura\
 &emsp;Verba gravia; quamvis ego me sentiam\
 &emsp;Bene thetragonum ad ictus fortune.
 
-⁹ Per che la voglia mia saria contenta\
+9 Per che la voglia mia saria contenta\
 &emsp;D'intender qual fortuna mi s'appressa;\
 &emsp;Chè saetta previsa vien più lenta.]
 
-⁹ Quare voluntas mea esset contenta\
+9 Quare voluntas mea esset contenta\
 &emsp;Intelligere qualis fortuna michi se appropinquat;\
 &emsp;Quia sagipta previsa venit plus lenta.
 
-¹⁰ Così diss'io a quella luce stessa\
+10 Così diss'io a quella luce stessa\
 &emsp;Che pria m' avea parlato, e come volle\
 &emsp;Beatrice, fu la mia vogla confessa.
 
-¹⁰ Sic dixi ego ad illam lucem eamdem\
+10 Sic dixi ego ad illam lucem eamdem\
 &emsp;Que prius loquuta michi erat, et sicut voluit\
 &emsp;Beatrix, fuit mea voluntas confessa.
 
-¹¹ Non per ambage, in chi la gente folle\
-&emsp;Già s'invescava pria che fosse anciso (¹)\
+11 Non per ambage, in chi la gente folle\
+&emsp;Già s'invescava pria che fosse anciso (1)\
 &emsp;L'Agnel di Dio che le peccata tolle,
 
-¹¹ Non per ambages, in quibus gens follis\
+11 Non per ambages, in quibus gens follis\
 &emsp;Iam inviscabatur, priusquam esset occisus\
 &emsp;Agnus Dei qui peccata tollit,
 
-¹² Ma con chiare parole, e con preciso\
+12 Ma con chiare parole, e con preciso\
 &emsp;Latin, rispose quell'amor paterno,\
 &emsp;Chiuso e parvente nel suo chiaro riso:
 
-¹² Sed per clara verba, et cum preciso\
+12 Sed per clara verba, et cum preciso\
 &emsp;Latino, respondit ille amor paternus,\
 &emsp;Clausus et apparens de suo proprio risu:
 
-(¹) ucciso.
+(1) ucciso.
 
 quia omnia sunt presentia Deo; nihil preteritum, nihil futurum, est in ipso Deo.
 
@@ -148,43 +148,43 @@ Non per ambages, in quibus. Non per ambage, in che: hec est secunda pars huius c
 
 <!-- p. 1023 (1077) -->
 
-¹³ La contingentia, che fuor del quaderno\
+13 La contingentia, che fuor del quaderno\
 &emsp;De la nostra materia non si stende,\
 &emsp;Tutta è dipincta nel conspecto eterno.
 
-¹³ Contingentia, que extra quaternum\
+13 Contingentia, que extra quaternum\
 &emsp;Nostre materie non extenditur,\
 &emsp;Tota est depicta in conspecto eterno.
 
-¹⁴ Necessità però quindi non prende,\
+14 Necessità però quindi non prende,\
 &emsp;Se non come dal viso in che si spechia\
 &emsp;Nave, che per torrente in giù discende.
 
-¹⁴ Necessitatem ideo hinc non apprehendit,\
+14 Necessitatem ideo hinc non apprehendit,\
 &emsp;Nisi sicut a visu in quo speculatur\
 &emsp;Navis, que per torrentem infra descendit.
 
-¹⁵ Da indi, sì come viene ad orechia\
+15 Da indi, sì come viene ad orechia\
 &emsp;Dolce armonia d'organo, mi viene\
 &emsp;A vista el tempo che ti s'apparechia.
 
-¹⁵ Abinde, sicut venit ad aurem\
+15 Abinde, sicut venit ad aurem\
 &emsp;Dulcis armonia ab organis, venit michi\
 &emsp;Ad visum tempus quod tibi paratur.
 
-¹⁶ Qual si partì Ypolito d'Atene\
+16 Qual si partì Ypolito d'Atene\
 &emsp;Per la spiatata e perfida noverca,\
 &emsp;Tal di Fiorenze partir ti conviene.
 
-¹⁶ Qualis Ypolitus recessit de Athenis\
+16 Qualis Ypolitus recessit de Athenis\
 &emsp;Propter impiam et perfidam novercam,\
 &emsp;Talem de Florentia recedere te oportet.
 
-¹⁷ Questo si vuole, e questo già si cerca,\
+17 Questo si vuole, e questo già si cerca,\
 &emsp;E tosto verrà facto a chi ciò pensa,\
 &emsp;Là dove Chrysto tutto si commerca.
 
-¹⁷ Istud vult, et istud iam queritur,\
+17 Istud vult, et istud iam queritur,\
 &emsp;Et cito veniet factum ab illis qui hoc cogitant,\
 &emsp;Ibi ubi Christus coctidie mercatur.
 
@@ -204,47 +204,47 @@ Istud vult, idest multi volunt hoc, et istud iam queritur, et cito veniet factum
 
 <!-- p. 1024 (1078) -->
 
-¹⁸ La colpa seguirà la parte offensa\
+18 La colpa seguirà la parte offensa\
 &emsp;In grido, come suol; ma la vendetta\
 &emsp;Fie testimonio al ver che la dispensa.
 
-¹⁸ Culpa sequetur partem offensam\
+18 Culpa sequetur partem offensam\
 &emsp;In clamore, sicut solet; sed vindicta\
 &emsp;Fiet testimonium vero que eam dispensat.
 
-¹⁹ Tu lasserai ogni cosa diletta\
+19 Tu lasserai ogni cosa diletta\
 &emsp;Più caramente; e questo è quel[lo] strale,\
 &emsp;Che l'arco dell'esilio pria sactta.
 
-¹⁹ Tu dimictes omnem rem dilectam\
+19 Tu dimictes omnem rem dilectam\
 &emsp;Magis care; et ista est illa sagipta,\
 &emsp;Quam arcus exilii prius sagiptat.
 
-²⁰ Tu proverai sì come sa di sale\
+20 Tu proverai sì come sa di sale\
 &emsp;Lo pane altrui, e come è duro calle\
-&emsp;L'ascender (¹) e salir per altrui scale.
+&emsp;L'ascender (1) e salir per altrui scale.
 
-²⁰ Tu probabis sicut sapit salem\
+20 Tu probabis sicut sapit salem\
 &emsp;Panis alienus, et quomodo durus est callis\
 &emsp;Descendere et ascendere per alienas scalas.
 
-²¹ E quel che più ti graverà le spalle,\
+21 E quel che più ti graverà le spalle,\
 &emsp;Sarà la compagnia malvagia e scempia,\
 &emsp;Co' la qual caderai in questa valle;
 
-²¹ Et illud quod tibi plus gravabit humeros\
+21 Et illud quod tibi plus gravabit humeros\
 &emsp;Erit sotietas mala et stulta,\
 &emsp;Cum qua tu cades in istam vallem;
 
-²² Che tutta ingrata, tutta matta et empia,\
+22 Che tutta ingrata, tutta matta et empia,\
 &emsp;Si farà contra te; ma poco apresso\
 &emsp;Essa, non tu, n'havrà rossa la tempia.
 
-²² Que tota ingrata, tota fatua et impia,\
+22 Que tota ingrata, tota fatua et impia,\
 &emsp;Fiet contra te; sed paulo prope\
 &emsp;Ipsa, non tu, habebit rubeam genam.
 
-(¹) al. descender.
+(1) al. descender.
 
 idest in Curia romana, ubi, propter symoniam que continue commictitur in romana Curia, maxime per papam Bonifacium, Christus venditur et emitur. Nota quod in millesimo tercentesimo Florentie erant magne divisiones inter partem Albam, de qua erat ipse Dantes, cuius caput erat dominus Veri de Circulis, et Nigram, cuius caput erat dominus Curtius Donati. Papa Bonifacius, audiens hec, misit pro istis duobus capitibus partium, scilicet pro domino Veri de Circulis, et pro domino Cursio de Donatis, et accersivit eos: qui iverunt ad Papam. Tunc Papa voluit eos concordare: non potuit, et sic steterunt pluribus temporibus. Tandem dominus Veri de Circulis, caput partis Albe, que tunc regebat in Florentia, dixit Pape: Cur me tenetis hic in Curia? Dixit Papa turbatus per talia verba domini Veri: Quis dyabolorum te tenet? vadas quocumque vis. Dominus Veri reversus est Florentiam. Dominus Cursius Donati dixit Pape: Sum paratus facere quidquid placet vobis; et si vultis quod nunquam redeam Florentiam, nunquam redibo. Erat prudens homo dominus Cursius, et semper tenuit complacentiam Pape. Tunc Papa misit pro Karolo Sineterra (dicebatur Sineterra, quia nullum dominium habebat), de domo Frantie, quem misit Florentiam tamquam pacificatorem civitatis. Qui veniens Florentiam, recepit partem Nigram, et expulit Albam; et tunc fuit expulsus Dantes, cum multis de parte Alba, quorum aliqui reversi sunt in Florentiam, et aliqui interfecti. Dantes nunquam rediit; nec voluit, extra Florentiam exul, tenere aliquam partem, nec Albam nec Nigram, sed per seipsum stetit. Nec melius potest facere prudens homo in civitate divisa, quam nullam partem tenere. Et sic fecit Dantes. Verum est tamen, quod communiter infamia sequitur prudentes, quia ignorantes rem dicunt: Ben li sta, idest iuste perdiderunt. Tamen in brevi, quando fuit expulsa pars Alba de Florentia, ille dominus Cursius fuit etiam expulsus; et fugiens cecidit de equo, habens unum pedem in staffa, quem non potuit foris trahere; et sic tractus per unam vallem ab equo, mortuus est: et ita apparuit quod dominus Cursius fuit culpabilis, ipse qui fuit principalis ad expellendum Dantem de Florentia.
 
@@ -258,59 +258,59 @@ Et illud quod tibi plus gravabit spallas, idest humeros, erit sotietas mala et s
 
 <!-- p. 1025 (1079) -->
 
-²³ Di sua bestialità el suo processo\
+23 Di sua bestialità el suo processo\
 &emsp;Farà la prova, sì che a te fi' bello\
 &emsp;Haverti facto parte per te stesso.
 
-²³ De sua bestialitate suus processus\
+23 De sua bestialitate suus processus\
 &emsp;Faciet probationem, ita quod tibi erit pulchrum\
 &emsp;Fecisse tibi partem per te ipsum.
 
-²⁴ Lo primo tuo refugio e 'l primo ostello\
+24 Lo primo tuo refugio e 'l primo ostello\
 &emsp;Sarà la cortesia del gran Lombardo,\
 &emsp;Che 'n sulla scala porta 'l sancto ucello;
 
-²⁴ Primum tuum refugium et primum hospitium\
+24 Primum tuum refugium et primum hospitium\
 &emsp;Erit curialitas magni Lombardi,\
 &emsp;Qui super scala portat avem sanctam;
 
-²⁵ Ch' avrà in te sì benigno riguardo,\
+25 Ch' avrà in te sì benigno riguardo,\
 &emsp;Che del far e del chieder, fra voi due,\
 &emsp;Pria sarà quel che tra gl'altri è 'l più tardo.
 
-²⁵ Qui in te habebit ita benignum aspectum,\
+25 Qui in te habebit ita benignum aspectum,\
 &emsp;Quod in dicere et facere, inter vos duos,\
 &emsp;Erit primum illud quod inter alios est magis tardum.
 
-²⁶ Con lui vedrai colui che 'mpresso fue,\
+26 Con lui vedrai colui che 'mpresso fue,\
 &emsp;Nascendo, sì di questa stella forte,\
 &emsp;Che notabili fien l'opere sue.
 
-²⁶ Cum eo videbis illum qui impressus fuit,\
+26 Cum eo videbis illum qui impressus fuit,\
 &emsp;Nascendo, ita ab ista stella forti,\
 &emsp;Quod notabilia erunt opera sua.
 
-²⁷ Non se ne son ancor le genti accorte,\
+27 Non se ne son ancor le genti accorte,\
 &emsp;Per la novella età; che pur nove anni\
 &emsp;Son queste stelle intorno di lui torte.
 
-²⁷ Non adhuc gentes de illo perpenderunt,\
+27 Non adhuc gentes de illo perpenderunt,\
 &emsp;Propter novellam etatem; quia solum novem annos\
 &emsp;Sunt iste rote circa eum retorte.
 
-²⁸ Ma pria che 'l Guasco l'alto Arrigo inganni,\
+28 Ma pria che 'l Guasco l'alto Arrigo inganni,\
 &emsp;Parran faville de la sua virtute\
 &emsp;In non curar d'argento nè d'affanni.
 
-²⁸ Sed priusquam Vasco altum Henricum decipiat,\
+28 Sed priusquam Vasco altum Henricum decipiat,\
 &emsp;Apparebunt faville de sua virtute\
 &emsp;In non curare de argento nec de fatigationibus.
 
-²⁹ Le sue magnificentie cognoscute\
+29 Le sue magnificentie cognoscute\
 &emsp;Saranno ancora sì, ch' e suoi nemici\
 &emsp;Non ne potran tener le lingue mute.
 
-²⁹ Sue magnificentie cognite\
+29 Sue magnificentie cognite\
 &emsp;Erunt adhuc ita, quod sui inimici\
 &emsp;Non poterunt de illis tenere linguas raucas.
 
@@ -330,59 +330,59 @@ Sue magnificentie cognite erunt adhuc, ita quod sui inimici non poterunt de illi
 
 <!-- p. 1026 (1080) -->
 
-³⁰ A lui t'aspecta et a' suoi benefici;\
+30 A lui t'aspecta et a' suoi benefici;\
 &emsp;Per lui fi' trasmutata molta gente,\
 &emsp;Cambiando condition richi e mendici;
 
-³⁰ Ad eum te expecta et ad sua beneficia;\
+30 Ad eum te expecta et ad sua beneficia;\
 &emsp;Per eum transmutabitur multa gens,\
 &emsp;Cambiendo conditionibus divitibus et mendicis;
 
-³¹ E portera' ne scripto ne la mente\
+31 E portera' ne scripto ne la mente\
 &emsp;Di lui, e nol dirai. E disse cose\
 &emsp;Incredibili a quei che fien presente.
 
-³¹ Et portabis scriptum in mente\
+31 Et portabis scriptum in mente\
 &emsp;De eo, sed id non dices. Et dixit res\
 &emsp;Incredibiles illis qui sunt in presenti.
 
-³² Poi giunse: Figlo, queste son le chiose\
+32 Poi giunse: Figlo, queste son le chiose\
 &emsp;Di quel che ti fu detto; ecco l'insidie\
 &emsp;Che dentro a pochi giri son ascose.
 
-³² Postea dixit: Fili, iste sunt glosse\
+32 Postea dixit: Fili, iste sunt glosse\
 &emsp;Illorum que fuerunt tibi dicta; ecce insidias\
 &emsp;Que retro paucos gyros sunt absconse.
 
-³³ Non vo' però ch' a' tuoi vicini invidie,\
+33 Non vo' però ch' a' tuoi vicini invidie,\
 &emsp;Poscia che s'infutura la tua vita\
 &emsp;Vie più là che 'l punir di lor perfidie.
 
-³³ Nolo propter hoc quod tuis vicinis invideas,\
+33 Nolo propter hoc quod tuis vicinis invideas,\
 &emsp;Postquam futuratur tua vita\
 &emsp;Ulterius quam punitio ipsorum perfidiarum.
 
-³⁴ Poi che tacendo si mostrò expedita\
+34 Poi che tacendo si mostrò expedita\
 &emsp;L'anima sancta di metter la trama\
 &emsp;In quella tela ch'io li porsi ordita,
 
-³⁴ Postquam tacendo se monstravit expeditam\
+34 Postquam tacendo se monstravit expeditam\
 &emsp;Anima, sancta mictendi tramam\
 &emsp;In illa tela quam sibi porrexi orditam,
 
-³⁵ Incominciai, come colui che brama,\
+35 Incominciai, come colui che brama,\
 &emsp;Dubiando, haver consiglo da persona\
 &emsp;Che vede, e vuole drictamente, et ama:
 
-³⁵ Ego incepi, sicut ille qui desiderat,\
+35 Ego incepi, sicut ille qui desiderat,\
 &emsp;Dubitando, consilium a persona\
 &emsp;Que videt, et vult recte, et amat:
 
-³⁶ Ben veggio, padre mio, sì come sprona\
+36 Ben veggio, padre mio, sì come sprona\
 &emsp;Lo tempo verso me, per colpo darmi\
 &emsp;Tal, ch'è più grave a chi più s'abbandona.
 
-³⁶ Bene video, pater mi, sicut spronat\
+36 Bene video, pater mi, sicut spronat\
 &emsp;Tempus versus me, pro dando michi ictum\
 &emsp;Ita, quod est gravius illi qui se totum derelinquit.
 
@@ -400,67 +400,67 @@ Ego incepi, scilicet dicere, sicut ille, qui bramat, idest desiderat vel appetit
 
 <!-- p. 1027 (1081) -->
 
-³⁷ Però di providenza è buon ch'io m'armi,\
+37 Però di providenza è buon ch'io m'armi,\
 &emsp;Sì che, se 'l loco m' è tolto più caro,\
 &emsp;Io non perdessi gl'altri per mie' carmi.
 
-³⁷ Ex quo de providentia est bonum quod me armem,\
+37 Ex quo de providentia est bonum quod me armem,\
 &emsp;Ita quod, si est locus michi arreptus magis carus,\
 &emsp;Ego non perdam alia propter mea carmina.
 
-³⁸ Giù per lo mondo senza fine amaro,\
+38 Giù per lo mondo senza fine amaro,\
 &emsp;E per lo monte, del cui bel chacume\
 &emsp;Gl' ochi de la mia donna mi levaro,
 
-³⁸ Infra per mundum sine fine amarum,\
+38 Infra per mundum sine fine amarum,\
 &emsp;Et per montem et per pulchrum cacumen\
 &emsp;Unde oculi mee domine me levarunt,
 
-³⁹ E poscia per lo ciel, di lume in lume,\
+39 E poscia per lo ciel, di lume in lume,\
 &emsp;Ho io appreso quel, che, s'io 'l ridico,\
 &emsp;A molti fie sapor di forte acume;
 
-³⁹ Et postea per celum de lumine in lumen,\
+39 Et postea per celum de lumine in lumen,\
 &emsp;Apprehendi ego illud, quod, si ego refero,\
 &emsp;Multis erit sapor fortis et amarus;
 
-⁴⁰ E s'io al vero son intimo amico,\
+40 E s'io al vero son intimo amico,\
 &emsp;Temo di perder vita tra coloro\
 &emsp;Che questo tempo chiameranno antico.
 
-⁴⁰ Et si vero sum timidus amicus,\
+40 Et si vero sum timidus amicus,\
 &emsp;Timeo perdere vivere inter illos\
 &emsp;Qui istud tempus vocabunt antiquum.
 
-⁴¹ La luce, in che ridea el mio thesoro,\
+41 La luce, in che ridea el mio thesoro,\
 &emsp;Ch'io trovai lì, si fe' prima corusca\
 &emsp;Qual a raggio di sol lo spechio d'oro;
 
-⁴¹ Lux, in qua ridebat meus thesaurus,\
+41 Lux, in qua ridebat meus thesaurus,\
 &emsp;Quem ego reperi ibi, efficiebatur magis corusca,\
 &emsp;Sicut ad radium solis speculum aureum;
 
-⁴² Indi rispose: Conscïenza fusca\
+42 Indi rispose: Conscïenza fusca\
 &emsp;O de la propria o dell'altrui vergogna,\
 &emsp;Pur sentirà la tua parola brusca.
 
-⁴² Inde respondit: Conscientiam fuscam\
+42 Inde respondit: Conscientiam fuscam\
 &emsp;Vel proprie vel alterius verecundie,\
 &emsp;Se sentiet omnino in tua loquela aspera.
 
-⁴³ Ma nondimeno, rimossa ogni menzogna,\
+43 Ma nondimeno, rimossa ogni menzogna,\
 &emsp;Tutta tua vision fa' manifesta,\
 &emsp;E lassa pur grattar dov'è la rogna:
 
-⁴³ Sed nihilominus, remota omni verecundia,\
+43 Sed nihilominus, remota omni verecundia,\
 &emsp;Totam tuam visionem fac manifestam,\
 &emsp;Et permicte ibi fricare ubi est scabies:
 
-⁴⁴ Chè, se la voce tua sarà molesta\
+44 Chè, se la voce tua sarà molesta\
 &emsp;Nel primo gusto, vital nutrimento\
 &emsp;Lasserà poi, quando sarà digesta.
 
-⁴⁴ Quia, si vox tua erit molesta\
+44 Quia, si vox tua erit molesta\
 &emsp;In primo gustu, vitale nutrimentum\
 &emsp;Dimictet postea, quando erit digesta.
 
@@ -478,33 +478,33 @@ Sed nihilominus, remota omni verecundia, totam tuam visionem fac manifestam, et 
 
 <!-- p. 1028 (1082) -->
 
-⁴⁵ Questo tuo grido sarà come 'l vento\
+45 Questo tuo grido sarà come 'l vento\
 &emsp;Che le più alte torri più percuote;\
 &emsp;E ciò non f[i]a d'honor poco argomento.
 
-⁴⁵ Iste tuus clamor faciet sicut ventus\
+45 Iste tuus clamor faciet sicut ventus\
 &emsp;Qui altiores summitates magis percutit;\
 &emsp;Et hoc honoris non erit parvum argumentum.
 
-⁴⁶ Però ti son mostrate in queste ruote (¹),\
-&emsp;Nel monte (²), e ne la valle dolorosa (³),\
+46 Però ti son mostrate in queste ruote (1),\
+&emsp;Nel monte (2), e ne la valle dolorosa (3),\
 &emsp;Pur l'anime che son di fama note;
 
-⁴⁶ Ideo sunt tibi monstrate in istis rotis,\
+46 Ideo sunt tibi monstrate in istis rotis,\
 &emsp;In monte, et in valle dolorosa,\
 &emsp;Solum anime que sunt fama notabiles;
 
-⁴⁷ Chè l'animo di quel ch'ode, non posa\
+47 Chè l'animo di quel ch'ode, non posa\
 &emsp;Nè ferma fede per exemplo ch' aia\
 &emsp;La sua radice incognita et ascosa,\
 &emsp;Nè per altro argomento che non paia.
 
-⁴⁷ Quia anima illius qui audit, non quiescit\
+47 Quia anima illius qui audit, non quiescit\
 &emsp;Nec firmat fidem propter exemplum quod habeat\
 &emsp;Suam radicem incognitam et absconsam,\
 &emsp;Nec per aliud argumentum quod non appareat.
 
-(¹) in celo — (²) Purgatorio — (³) Inferno.
+(1) in celo — (2) Purgatorio — (3) Inferno.
 
 Iste tuus clamor, idest ista tua correctio, faciet sicut ventus, qui altiores summitates, scilicet arborum, magis percutit (idest de maioribus et magnis viris loquitur); et hoc honoris non erit parvum argumentum; idest, hoc cedet tibi ad magnum honorem.
 

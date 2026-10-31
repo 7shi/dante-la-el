@@ -8,31 +8,31 @@ In sexto capitulo, quod incipit: Ad regressum mentis, vel rediens ad mentem, etc
 
 # Capitulum Sextum
 
-¹ Al tornar de la mente, che si chiuse\
+1 Al tornar de la mente, che si chiuse\
 &emsp;Dinanzi a la pietà de'due cognati,\
 &emsp;Che di tristitia tutto mi confuse,
 
-¹ Ad reditum mentis, que se clausit\
+1 Ad reditum mentis, que se clausit\
 &emsp;Ante pietatem duorum cognatorum,\
 &emsp;Quod pro tristitia totum me confudit,
 
-² Nuovi tormenti e nuovi tormentati\
-&emsp;Mi veggio 'ntorno, come ch'io (¹)mi muova,\
+2 Nuovi tormenti e nuovi tormentati\
+&emsp;Mi veggio 'ntorno, come ch'io (1)mi muova,\
 &emsp;E ch'io mi volva, e come ch'io mi guati.
 
-² Nova tormenta et novos tormentatos\
+2 Nova tormenta et novos tormentatos\
 &emsp;Me circa video, quomodo me moveam,\
 &emsp;Ex quo me volvam, et quomodo ego respiciam.
 
-³ Io son al terzo cerchio de la piova\
+3 Io son al terzo cerchio de la piova\
 &emsp;Eterna, maladetta, fredda e greve;\
 &emsp;Regola e qualità mai non gl'è nuova.
 
-³ Ego sum in tertio circulo pluvie\
+3 Ego sum in tertio circulo pluvie\
 &emsp;Eterne, maledicte, frigide et gravis:\
 &emsp;Regula et qualitas nunquam est ei nova.
 
-(¹) qualitercumque.
+(1) qualitercumque.
 
 Al tornare della mente. Ad regressum mentis: capitulum sextum Inferni, in quo tractatur de gula, idest de peccato gule, et de gulosis. Quod dividitur in quatuor partes. Quarum in prima describitur, in generali, pena gulosorum, et tormentorum generaliter ipsorum.
 
@@ -72,47 +72,47 @@ Ego veni (alias sum) ad tertium circulum pluvie eterne, maledicte, frigide et gr
 
 <!-- p. 89 (0143) -->
 
-⁴ Grandine grossa, acqua tincta e neve\
+4 Grandine grossa, acqua tincta e neve\
 &emsp;Per l'aere tenebroso si riversa;\
 &emsp;Puzza la terra che questo riceve.
 
-⁴ Grando spissa, et aqua tincta, et nix\
+4 Grando spissa, et aqua tincta, et nix\
 &emsp;Per aierem tenebrosum versatur;\
 &emsp;Fetet terra que istud recipit.
 
-⁵ Cerbero, fiera crudele e diversa,\
+5 Cerbero, fiera crudele e diversa,\
 &emsp;Con tre gole caninamente latra\
 &emsp;Sovra la gente che quivi è sommersa.
 
-⁵ Cerberus, fera crudelis et diversa,\
+5 Cerberus, fera crudelis et diversa,\
 &emsp;Cum tribus gulis canine latrat\
 &emsp;Supra gentem que ibi est submersa.
 
-⁶ Gl'ochi ha vermigli, la barb'uncta et atra,\
+6 Gl'ochi ha vermigli, la barb'uncta et atra,\
 &emsp;El ventre largo, et unghiate le mani;\
-&emsp;Graffia gli spirti, ingoia et isciatra (¹).
+&emsp;Graffia gli spirti, ingoia et isciatra (1).
 
-⁶ Oculos habet rubeos, barbam unctam et atram,\
+6 Oculos habet rubeos, barbam unctam et atram,\
 &emsp;Ventrem largum, et ungulatas manus;\
 &emsp;Exarat unguibus spiritus, decoriat et lacerat.
 
-⁷ Urlar li fa la pioggia come cani:\
+7 Urlar li fa la pioggia come cani:\
 &emsp;Dell'un de'lati all'altro fanno schermo;\
 &emsp;Volgensi spesso e miseri prophani.
 
-⁷ Ullulare facit eos ad pluviam tamquam canes:\
+7 Ullulare facit eos ad pluviam tamquam canes:\
 &emsp;De uno latere faciunt alteri defensionem;\
 &emsp;Volvunt se sepe miseri profani.
 
-⁸ Quando ci scorse Cerbero, el gran vermo,\
+8 Quando ci scorse Cerbero, el gran vermo,\
 &emsp;Le boche aperse, e mostrocci le sanne:\
 &emsp;Non havea membro che tenesse fermo.
 
-⁸ Quando nos cognovit Cerberus, grandis vermis,\
+8 Quando nos cognovit Cerberus, grandis vermis,\
 &emsp;Os aperuit, et ostendit nobis sannas:\
 &emsp;Non habebat membrum quod teneret firmum.
 
-(¹) dilania.
+(1) dilania.
 
 et vere moralis est ista pena. Fingit auctor quod omnes isti gulosi iacent per terram, sive in terra, in ceno turpi, et super eos continue cadit pluvia magna, que macerat eos; idest, propter superfluitatem ciborum et potuum, cadunt in magnas et varias paxiones et morbos.
 
@@ -128,55 +128,55 @@ Ebriosi nullum membrum habent solidum. Dicit Hugo de Sancto Victore de gulosis: 
 
 <!-- p. 90 (0144) -->
 
-⁹ E'l duca mio aperse le sue spanne;\
+9 E'l duca mio aperse le sue spanne;\
 &emsp;Prese la terra, e con piene le pugna\
 &emsp;La gittò dentro a le bramose canne.
 
-⁹ Et dux meus extendit suas spannas;\
+9 Et dux meus extendit suas spannas;\
 &emsp;Cepit terram, et cum plenis pugnis\
 &emsp;Eam proiecit intra avida guttura.
 
-¹⁰ Qual è quel cane ch'abbaiando agugna,\
+10 Qual è quel cane ch'abbaiando agugna,\
 &emsp;E se racqueta poi che'l pasto morde,\
 &emsp;Che sol a divorarlo intende e pugna;
 
-¹⁰ Qualis ille canis qui latrando desiderat,\
+10 Qualis ille canis qui latrando desiderat,\
 &emsp;Et se quietat postquam pastum mordet,\
 &emsp;Et solum ad devorandum illum intendit et pugnat;
 
-¹¹ Cotal (¹) si fecer quelle faccie lorde\
+11 Cotal (1) si fecer quelle faccie lorde\
 &emsp;Del demonio Cerbero che trona\
 &emsp;L'anime sì, ch'esser vorrebber sorde.
 
-¹¹ Tales se fecerunt ille fede facies\
+11 Tales se fecerunt ille fede facies\
 &emsp;Demonis Cerberi qui intronat\
 &emsp;Animas sic, quod vellent esse surde.
 
-¹² Noi passavàn tra l'ombre che adona\
+12 Noi passavàn tra l'ombre che adona\
 &emsp;La greve pioggia, e ponevàn le piante\
 &emsp;Sopra lor vanità che par persona.
 
-¹² Nos pertransivimus super umbras quas affligit\
+12 Nos pertransivimus super umbras quas affligit\
 &emsp;Gravis pluvia, et ponebamus planctas\
 &emsp;Super vanitatem eorum que apparet persona.
 
-¹³ Elle giacean per terra tutte quante,\
+13 Elle giacean per terra tutte quante,\
 &emsp;Fuor d'una ch'a seder si levò, racto\
 &emsp;Quando ci vide passarsi davante.
 
-¹³ Ipse iacebant per terram omnes,\
+13 Ipse iacebant per terram omnes,\
 &emsp;Preter unam, que ad sedendum se levavit, cito\
 &emsp;Quia ipsa nos vidit transire ante se.
 
-¹⁴ O tu, che se' per quest' Inferno tracto,\
+14 O tu, che se' per quest' Inferno tracto,\
 &emsp;Mi disse, riconoscemi, se sai:\
-&emsp;Tu fosti, pria ch'io disfacto (²), facto (³).
+&emsp;Tu fosti, pria ch'io disfacto (2), facto (3).
 
-¹⁴ O tu, qui es per istum Infernum tractus,\
+14 O tu, qui es per istum Infernum tractus,\
 &emsp;Michi dixit, recognosce me, si scis:\
 &emsp;Tu fuisti, priusquam ego essem dissolutus, factus.
 
-(¹) cotali. — (²) morto. — (³) nato.
+(1) cotali. — (2) morto. — (3) nato.
 
 Beatus vero Bernardus dicit: Etiam monaci gulosi, videntes lucium ad coquinam portari, illuc currunt, interrogantes si debeat assari vel lissari, idest in aqua decoqui; sed non interrogant si venit ex fenore, an non.
 
@@ -198,63 +198,63 @@ Tu fuisti, primitus quam ego essem, assumptus: idest tu eras natus antequam ego 
 
 <!-- p. 91 (0145) -->
 
-¹⁵ Et io a lei: L'angoscia che tu hai\
-&emsp;Forse ti tira fuor de la mia mente (¹),\
+15 Et io a lei: L'angoscia che tu hai\
+&emsp;Forse ti tira fuor de la mia mente (1),\
 &emsp;Che non mi par ch'io ti vedessi mai.
 
-¹⁵ Et ego ad eum: Angustia quam tu habes\
+15 Et ego ad eum: Angustia quam tu habes\
 &emsp;Forte te trahit extra omnem mentem,\
 &emsp;Ita quod videtur quod te nunquam viderim.
 
-¹⁶ Ma dimmi, chi tu se', che 'n sì dolente\
+16 Ma dimmi, chi tu se', che 'n sì dolente\
 &emsp;Luogo se' messo, et hai sì facta pena,\
 &emsp;Che s'altra è maggio, non è sì spiacente?
 
-¹⁶ Sed dicas michi quis tu es, qui in tam dolenti\
+16 Sed dicas michi quis tu es, qui in tam dolenti\
 &emsp;Loco es positus, et ad talem penam,\
 &emsp;Qua, si alia est maior, nulla est displicibilior?
 
-¹⁷ Et elli a me: La tua città, ch'è piena\
+17 Et elli a me: La tua città, ch'è piena\
 &emsp;D'invidia sì, che già trabocha'l sacho,\
 &emsp;Mi tenne seco in la vita serena.
 
-¹⁷ Et ipse ad me: Civitas tua, que est plena\
+17 Et ipse ad me: Civitas tua, que est plena\
 &emsp;Invidia sic, quod iam superabundat saccus,\
 &emsp;Secum me retinuit in vita serena.
 
-¹⁸ Voi, cittadini, mi chiamaste Ciacho:\
+18 Voi, cittadini, mi chiamaste Ciacho:\
 &emsp;Per la dannosa colpa de la gola,\
 &emsp;Come tu vedi, a la pioggia mi fiacho;
 
-¹⁸ Vos, cives, me vocastis Ciaccum:\
+18 Vos, cives, me vocastis Ciaccum:\
 &emsp;Propter dampnosam culpam gule,\
 &emsp;Sicut vides, ad pluviam me fiaccho;
 
-¹⁹ Et io anima trista non son sola,\
+19 Et io anima trista non son sola,\
 &emsp;Chè tutte queste a simil pena stanno\
 &emsp;Per simil colpa. E più non fe' parola.
 
-¹⁹ Et ego anima tristis non sum sola,\
+19 Et ego anima tristis non sum sola,\
 &emsp;Quia omnes isti in simili pena stant\
 &emsp;Pro simili culpa. Et plus non fecit verbum.
 
-²⁰ Io li risposi: Ciacho, el tuo affanno\
+20 Io li risposi: Ciacho, el tuo affanno\
 &emsp;Mi pesa sì, ch'a lagrimar m'invita:\
 &emsp;Ma dimmi, se tu sai, a che verranno
 
-²⁰ Ego sibi respondi: Ciacche, tua fatigatio\
+20 Ego sibi respondi: Ciacche, tua fatigatio\
 &emsp;Me pungit sic, quod ad lacrymandum me invitat:\
 &emsp;Sed dicas michi, si tu scis, ad quid venient
 
-²¹ E cittadin de la città partita?\
+21 E cittadin de la città partita?\
 &emsp;Se alcun v'è giusto: e dimmi la cagione,\
 &emsp;Perchè'n tanta discordia ell'è venuta.
 
-²¹ Cives civitatis divise?\
+21 Cives civitatis divise?\
 &emsp;Si aliquis est ibi iustus: et dicas michi causam,\
 &emsp;Quare tanta discordia illam aggressa est.
 
-(¹) memoria.
+(1) memoria.
 
 ebriosi consumunt et dextruunt personam; ita in brevi tempore non cognoscuntur propter difformitatem membrorum, quam causat nimia potatio. Oculi efficiuntur rubei; caro fit quasi marcida; sanguis fit quasi niger: nam sunt quidam, qui in pueritia sunt adeo pulchri, ut videantur angeli; tamen postea dediti peccato gule, ita deformantur, ut non cognoscantur a sibi notis. Sic accidebat de Claudio, qui fuit tam pulcher iuvenis; tamen propter vitium gule adeo deformatus fuit, quod omnes sui refutabant eum et vocabant eum Claudium thibernarium.
 
@@ -276,11 +276,11 @@ Sed dic michi, si tu scis, ad quid devenient cives civitatis
 
 <!-- p. 92 (0146) -->
 
-²² Et elli a me: Doppo lunga tencione\
+22 Et elli a me: Doppo lunga tencione\
 &emsp;Verrauno al sangue, e la parte selvaggia\
 &emsp;Caccierà l'altra con molt'offensione.
 
-²² Et ipse ad me: Post longam questionem\
+22 Et ipse ad me: Post longam questionem\
 &emsp;Venient ad sanguinem, et pars silvestris\
 &emsp;Expellet alteram cum multa offensione.
 
@@ -298,55 +298,55 @@ Pro vera intelligentia textus et veritatis, notandum hic quod in millesimo trece
 
 <!-- p. 93 (0147) -->
 
-²³ Poi appresso convien che questa (¹) caggia\
+23 Poi appresso convien che questa (1) caggia\
 &emsp;Infra tre soli, e che l'altra sormonti\
 &emsp;Co'la forza di tal che testè piaggia.
 
-²³ Postea prope convenit quod ista cadat\
+23 Postea prope convenit quod ista cadat\
 &emsp;Infra tres soles, et alia sursum ascendat\
 &emsp;Cum vi talis qui nunc inclinis stat.
 
-²⁴ Alte terrà lungo tempo le fronti,\
+24 Alte terrà lungo tempo le fronti,\
 &emsp;Tenendo l'altre sotto gravi pesi,\
 &emsp;Come pianga di ciò, o che n'adonti.
 
-²⁴ Alte tenebit longo tempore frontes,\
+24 Alte tenebit longo tempore frontes,\
 &emsp;Tenendo aliam sub gravibus ponderibus,\
 &emsp;Quamquam de hoc plangam, et michi reputem iniuriam
 
-²⁵ Giusti son due, e non vi son intesi:\
+25 Giusti son due, e non vi son intesi:\
 &emsp;Superbia, invidia et avaritia sono\
 &emsp;Le tre faville, c'hanno e cuor accesi.
 
-²⁵ Iusti sunt duo, et non sunt ibi intellecti:\
+25 Iusti sunt duo, et non sunt ibi intellecti:\
 &emsp;Superbia, invidia, avaritia sunt tres faville,\
 &emsp;Que corda accenderunt.
 
-²⁶ Qui pose fine al lacrimabil suono.\
+26 Qui pose fine al lacrimabil suono.\
 &emsp;Et io a lui: Ancor vo'che m'insegni,\
 &emsp;E che di più parlar mi facci dono.
 
-²⁶ Hic posuit finem lacrymabili sono.\
+26 Hic posuit finem lacrymabili sono.\
 &emsp;Et ego ad eum: Adhuc volo ut me doceas,\
 &emsp;Et quod pluris loquele facias michi donum.
 
-²⁷ Farinata e Teghiaio che fur sì degni,\
+27 Farinata e Teghiaio che fur sì degni,\
 &emsp;Iacopo Rusticucci, Arrigo e 'l Mosca,\
 &emsp;E gl'altri ch'a ben far poser l'ingegni,
 
-²⁷ Farinata et Thygnao, qui fuerunt ita digni,\
+27 Farinata et Thygnao, qui fuerunt ita digni,\
 &emsp;Iacobus de Rusticutiis, Henricus et Musca,\
 &emsp;Et alii qui ad bene faciendum posuerunt ingenia.
 
-²⁸ Dimmi ove son, e fa' ch'io li conosca;\
+28 Dimmi ove son, e fa' ch'io li conosca;\
 &emsp;Chè gran desio mi strigne di sapere,\
 &emsp;Se 'l ciel gl'adolcia o l'inferno gl'attosca.
 
-²⁸ Dic michi ubi sunt, et fac quod ego eos cognoscam;\
+28 Dic michi ubi sunt, et fac quod ego eos cognoscam;\
 &emsp;Quia grande desiderium me stringit scire,\
 &emsp;Si celum dulcescit eos vel Infernus amarizat.
 
-(¹) parte.
+(1) parte.
 
 habuit quasi dominium in manibus suis; et iste dominus Curtius, caput partis nigre, fecit sicut Cesar fecerat Rome. Nam, sicut Cesar reformavit omnia officia et officiales Rome secundum suum beneplacitum; ita dominus Curtius, totam civitatem Florentie, mutando omnia officia et officiales civitatis Florentie, et erat quasi dominus civitatis. Ille dominus Veri, sive Verius de Circulis, caput partis albe, aufugit quasi cum tota parte alba, et inter alios aufugit Dantes, quia erat de parte sua, nec unquam postmodum rediit Dantes Florentiam. Iste Karolus Sineterra, receptus in Florentiam a domino Verio, perdidit ipsum dominum Verium et totam partem suam albam. Ecce quomodo clare apparet, salva semper reverentia, quod filius Dantis, exponens hic patrem, asserens ipsum predixisse hic de parte guelfa et gebellina, non bene dixit; quia pars gebellina diu ante fuerat expulsa, nec unquam rediit. Sed loquitur de parte alba, etc.: nam tam pars alba quam nigra erant de parte guelfa, sine fallo. Facit igitur Dantes tres questiones isti Ciacco: prima est: Ad quid devenient cives civitatis divise, idest quis erit finis talis divisionis? secunda est: Si aliquis est iustus in civitate Florentie? tertia: Que est causa tante discordie? Dicit igitur sic: Sed dic michi, si tu scis, ad quid devenient cives civitatis divise; si aliquis est iustus, idest in ea; et dic michi causam, quare in tantam discordiam devenerunt cives.
 
@@ -380,71 +380,71 @@ Iacobus Rusticutius, Henricus et Musca, et alii, qui ad bene operandum ingenia p
 
 <!-- p. 94 (0148) -->
 
-²⁹ Et elli: E'son tra l'anime più nere;\
+29 Et elli: E'son tra l'anime più nere;\
 &emsp;Diverse colpe giù gli grava al fondo:\
 &emsp;Se tanto scendi, lor potrai vedere.
 
-²⁹ Et ipse michi: Ipsi sunt inter animas nigriores;\
+29 Et ipse michi: Ipsi sunt inter animas nigriores;\
 &emsp;Diverse culpe inferius gravant eos ad fundum;\
 &emsp;Si tantum descendis, eos poteris videre.
 
-³⁰ Ma quando tu sarai tornato al mondo,\
+30 Ma quando tu sarai tornato al mondo,\
 &emsp;Pregoti ch'alla mente altrui mi rechi:\
 &emsp;Più non ti dico e più non ti rispondo.
 
-³⁰ Sed quando tu eris in dulci mundo,\
+30 Sed quando tu eris in dulci mundo,\
 &emsp;Rogo te ut ad mentem aliorum me reducas:\
 &emsp;Plus tibi non dico, et plus tibi non respondeo.
 
-³¹ Gl'ochi diritti torse allora in biechi:\
+31 Gl'ochi diritti torse allora in biechi:\
 &emsp;Guardommi un poco, e poi chinò la testa:\
 &emsp;Cadde con essa al par degl'altri ciechi.
 
-³¹ Rectos oculos torsit tunc in obliquos:\
+31 Rectos oculos torsit tunc in obliquos:\
 &emsp;Respexit me paullulum et postea demisit caput:\
 &emsp;Et tendit infra ad paritatem aliorum cecorum.
 
-³² E il duca disse a me: Più non si desta\
+32 E il duca disse a me: Più non si desta\
 &emsp;Di qua dal suon dell'angelica tromba;\
-&emsp;Quando vedrà (¹) lor nemica (²) potestà,
+&emsp;Quando vedrà (1) lor nemica (2) potestà,
 
-³² Et dux dixit ad me: Plus non excitatur\
+32 Et dux dixit ad me: Plus non excitatur\
 &emsp;Citra sonum angelice tube;\
 &emsp;Quando videbit inimicam potestatem,
 
-³³ Che ciascun rivedrà la trista tomba,\
+33 Che ciascun rivedrà la trista tomba,\
 &emsp;Ripiglierà sua carne e sua figura,\
 &emsp;Udirà quel che in eterno rimbomba.
 
-³³ Quilibet reperiet suam tristem tumbam,\
+33 Quilibet reperiet suam tristem tumbam,\
 &emsp;Reassumet suam carnem et suam figuram,\
 &emsp;Audiet illud quod in eternum resonat.
 
-³⁴ Così passammo (³) per trista mistura\
+34 Così passammo (3) per trista mistura\
 &emsp;Dell'ombre e de la pioggia, a passi lenti,\
 &emsp;Toccando un poco la vita futura:
 
-³⁴ Sic pertransivimus per turpem mixturam\
+34 Sic pertransivimus per turpem mixturam\
 &emsp;Umbrarum [et] pluvie, passibus lentis,\
 &emsp;Tangendo aliquantulum vitam futuram:
 
-³⁵ Allor diss'io: Maestro, esti tormenti\
+35 Allor diss'io: Maestro, esti tormenti\
 &emsp;Crescerann'ei doppo la gran sententia,\
 &emsp;O fien minori? o saran sì cocenti?
 
-³⁵ Quare ego dixi: Magister, illa tormenta\
+35 Quare ego dixi: Magister, illa tormenta\
 &emsp;Crescent ipsa post grandem sententiam,\
 &emsp;Vel erunt minora, vel erunt minus coquentia?
 
-³⁶ Ond'elli (⁴) a me: Ritorna a tua scientia,\
+36 Ond'elli (4) a me: Ritorna a tua scientia,\
 &emsp;Che vuol, quanto la cosa è più perfecta,\
 &emsp;Più senta 'l bene, e così la doglentia.
 
-³⁶ Et ipse ad me: Redeas ad tuam scientiam,\
+36 Et ipse ad me: Redeas ad tuam scientiam,\
 &emsp;Que vult, quod quanto res est perfectior,\
 &emsp;Plus sentiat bonum, et sic dolorem.
 
-(¹) al. verrà. — (²) al. la divina. — (³) al. sì trapassammo. — (⁴) al. et elli.
+(1) al. verrà. — (2) al. la divina. — (3) al. sì trapassammo. — (4) al. et elli.
 
 Farinata: nomen proprium hominis, qui fuit de Ubertis, idest de domo Ubertorum.
 
@@ -472,20 +472,20 @@ Tunc dixi magistro: Dic michi: Post magnam sententiam, ista tormenta augentur, v
 
 <!-- p. 95 (0149) -->
 
-³⁷ Tutto che questa gente maladecta\
+37 Tutto che questa gente maladecta\
 &emsp;In vera perfection già mai non vada,\
 &emsp;Di là più, che di qua, esser aspecta.
 
-³⁷ Posito quod ista gens maledicta\
+37 Posito quod ista gens maledicta\
 &emsp;In veram perfectionem nunquam vadat,\
 &emsp;Ultra, plusquam citra, esse expectat.
 
-³⁸ Noi aggirammo intorno quella strada,\
+38 Noi aggirammo intorno quella strada,\
 &emsp;Parlando più assai ch'io non ridico:\
 &emsp;Venimmo al punto dove si digrada:\
 &emsp;Quivi trovammo Pluto el gran nimico.
 
-³⁸ Nos circuivimus rotunde illam stratam,\
+38 Nos circuivimus rotunde illam stratam,\
 &emsp;Loquendo multo plura quam refero:\
 &emsp;Venimus ad punctum ubi degradatur:\
 &emsp;Ubi reperimus Plutonem grandem inimicum.

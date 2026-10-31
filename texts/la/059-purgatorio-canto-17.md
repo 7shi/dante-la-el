@@ -8,31 +8,31 @@ In isto decimoseptimo capitulo, quod incipit: Recorderis, lector, auctor ponit a
 
 # Capitulum Decimumseptimum
 
-¹ Ricorditi (¹), lector, se mai nell'alpe\
+1 Ricorditi (1), lector, se mai nell'alpe\
 &emsp;Ti colse nebbia, per la qual vedessi\
 &emsp;Non altrimenti, che per pelle talpe;
 
-¹ Recorderis, lector, si unquam in alpibus\
+1 Recorderis, lector, si unquam in alpibus\
 &emsp;Te supervenit nebula, per quam videres\
 &emsp;Non aliter, quam per pellem talpa;
 
-² Come, quando è vapor humidi e spessi\
+2 Come, quando è vapor humidi e spessi\
 &emsp;A diradar cominciansi, la spera\
 &emsp;Del sol debilemente entra per essi;
 
-² Sicut, quando vapores humidi et densi\
+2 Sicut, quando vapores humidi et densi\
 &emsp;Rarefieri incipiunt, spera\
 &emsp;Solis debiliter intrat per ipsos;
 
-³ E fia la tua ymagine leggiera\
+3 E fia la tua ymagine leggiera\
 &emsp;In giugner a veder, com'io rividi\
 &emsp;Lo sol in pria, che già nel corcar era.
 
-³ Et erit tua ymago levis\
+3 Et erit tua ymago levis\
 &emsp;In perveniendo ad videndum, sicut ego revidi\
 &emsp;Solem primo, qui in occasu erat.
 
-(¹) o.
+(1) o.
 
 Recordcris, lector, si unquam in alpibus. Recordati, lectore, si mai nell'alpe: istud est decimumseptimum capitulum huius Purgatorii, in quo auctor tractat de remedio, quod potest adhiberi ad refrenandum iram et impetum iracundie, et transit etiam ad quartum circulum, in quo tractabitur de vitio accidie, quarto scilicet vitio capitali. Et istud capitulum dividitur in quatuor partes. In quarum prima auctor describit unam suam visionem, per quam dat doctrinam ad refrenandum vitium ire.
 
@@ -58,47 +58,47 @@ Primo tamen ponit auctor quomodo ipse exivit extra aierem nebulosum et intravit 
 
 <!-- p. 617 (0671) -->
 
-⁴ Sì, pareggiando e miei com passi fidi\
+4 Sì, pareggiando e miei com passi fidi\
 &emsp;Del mio maestro, usc' io fuor di tal nube,\
 &emsp;Ai raggi morti già ne' bassi lidi.
 
-⁴ Sic, pariter ponendo meos cum passibus fidis\
+4 Sic, pariter ponendo meos cum passibus fidis\
 &emsp;Mei magistri, exivi extra talem nubem,\
 &emsp;Ad radios mortuos in infimis lictoribus.
 
-⁵ O ymaginativa (¹), che ne (²) rube (³)\
-&emsp;Talvolta sì di fuor (⁴), ch' huom non s'accorge,\
+5 O ymaginativa (1), che ne (2) rube (3)\
+&emsp;Talvolta sì di fuor (4), ch' huom non s'accorge,\
 &emsp;Perchè dintorno suonin mille tube,
 
-⁵ O ymaginativa, que nobis rubas\
+5 O ymaginativa, que nobis rubas\
 &emsp;Aliquando ita extra, quod homo non perpendit,\
 &emsp;Quamquam extra sonent mille tube,
 
-⁶ Chi muove te, se 'l senno (⁵) non ti porge?\
-&emsp;Muoveti lume (⁶), che nel ciel s'informa\
+6 Chi muove te, se 'l senno (5) non ti porge?\
+&emsp;Muoveti lume (6), che nel ciel s'informa\
 &emsp;Per sè, o per voler che giù lo scorge?
 
-⁶ Quid movet te, si sensus tibi non porrigit?\
+6 Quid movet te, si sensus tibi non porrigit?\
 &emsp;Movet te lumen, quod in celo informatur\
 &emsp;Per se, vel per velle quod eum infra ducit?
 
-⁷ Dell' ira di colei (⁷), che mutò forma\
-&emsp;Nell'uccel ch'a cantar più si dilecta (⁸),\
+7 Dell' ira di colei (7), che mutò forma\
+&emsp;Nell'uccel ch'a cantar più si dilecta (8),\
 &emsp;Nell'ymagine mia apparve l'orma:
 
-⁷ Impietatis illius, que mutavit formam\
+7 Impietatis illius, que mutavit formam\
 &emsp;In avem que ad cantandum plus delectatur,\
 &emsp;In[tra] ymaginem meam apparuit orma:
 
-⁸ E quivi fu la mia mente sì strecta\
+8 E quivi fu la mia mente sì strecta\
 &emsp;Dentro da sè, che di fuor non venia\
 &emsp;Cosa che fosse ancor da lei ricepta.
 
-⁸ Et hic fuit mea mens ita restricta\
+8 Et hic fuit mea mens ita restricta\
 &emsp;Intra se, quod foris non veniebat\
 &emsp;Res que esset adhuc ab ea recepta.
 
-(¹) potentia — (²) noi — (³) rubbi — (⁴) per tal modo — (⁵) al. senso et melius — (⁶) divino — (⁷) Philomena — (⁸) l'usignuolo.
+(1) potentia — (2) noi — (3) rubbi — (4) per tal modo — (5) al. senso et melius — (6) divino — (7) Philomena — (8) l'usignuolo.
 
 incipit rarefieri et dissolvi a radiis solaribus penetrantibus eam, per quam videres non aliter quam per pellem talpe; sicut, quando vapores humidi et densi rarefieri incipiunt, spera solis delectabiliter intrat per ipsos; erit tua ymago levis, idest ymaginatio, idest fiet clara si sic considerabis, in perveniendo ad videndum qualiter ego revidi solem primo, qui in occasu erat.
 
@@ -112,47 +112,47 @@ Secunda hystoria est de crucifixo despectoso et fero. Hystoria est, que ponitur 
 
 <!-- p. 618 (0672) -->
 
-⁹ Poi piovve dentro all'alta fantasia\
-&emsp;Un crocifixo (¹) dispectoso e fiero\
+9 Poi piovve dentro all'alta fantasia\
+&emsp;Un crocifixo (1) dispectoso e fiero\
 &emsp;In la sua vista, e cotal si moria.
 
-⁹ Postea pluit intra altam fantasiam\
+9 Postea pluit intra altam fantasiam\
 &emsp;Unus crucifixus despectosus et ferus\
 &emsp;In sua apparentia, et talis moriebatur.
 
-¹⁰ Intorno ad esso era 'l grande Assuero,\
+10 Intorno ad esso era 'l grande Assuero,\
 &emsp;Hester sua sposa e 'l giusto Mardocheo,\
 &emsp;Che fu al far et al dir così intero.
 
-¹⁰ Circa ipsum erat grandis Assuerus,\
+10 Circa ipsum erat grandis Assuerus,\
 &emsp;Hester sua sponsa et iustus Mardocheus,\
 &emsp;Qui fuit in dictis et factis ita integer.
 
-¹¹ E come questa ymagine rompeo\
+11 E come questa ymagine rompeo\
 &emsp;Sè per sè stessa, a guisa d'una bulla\
 &emsp;Cui manca l'acqua socto e tal si feo;
 
-¹¹ Et statim sicut ista ymago rupit\
+11 Et statim sicut ista ymago rupit\
 &emsp;Per se ipsam, ad instar unius bulle\
 &emsp;Cui deficit aqua sub qua fuit facta;
 
-¹² Surse in mia vision una fanciulla (²),\
-&emsp;Piangendo forte, e dicea: O regina (³),\
-&emsp;Perchè per ira hai voluto esser nulla (⁴)?
+12 Surse in mia vision una fanciulla (2),\
+&emsp;Piangendo forte, e dicea: O regina (3),\
+&emsp;Perchè per ira hai voluto esser nulla (4)?
 
-¹² Surrexit in mea visione una puella,\
+12 Surrexit in mea visione una puella,\
 &emsp;Plangendo fortiter, et dicebat: O regina,\
 &emsp;Quare propter iram voluisti esse nihil?
 
-¹³ Ancisa t'hai (⁵) per non perder Lavina (⁶),\
-&emsp;Hor m'hai perduta; i' (⁷) son essa che lucto,\
+13 Ancisa t'hai (5) per non perder Lavina (6),\
+&emsp;Hor m'hai perduta; i' (7) son essa che lucto,\
 &emsp;Madre, a la tua pria ch'altrui ruina.
 
-¹³ Occidisti te propter non perdere Lavinam,\
+13 Occidisti te propter non perdere Lavinam,\
 &emsp;Nunc me perdidisti; ego sum ipsa que lucto,\
 &emsp;Mater, ad tuam priusquam ad alterius ruinam.
 
-(¹) Aman — (²) Lavina — (³) amata madre mia — (⁴) impichar te medesima — (⁵) impiccata hai te medesima — (⁶) me, tua figliuola — (⁷) io.
+(1) Aman — (2) Lavina — (3) amata madre mia — (4) impichar te medesima — (5) impiccata hai te medesima — (6) me, tua figliuola — (7) io.
 
 Ester, sic: quod rex Assuerus, rex Persarum et Medorum, qui apud hystoricos dictus est Arthaserses, qui regnavit ab India usque ad Assyriam super centum viginti sex provincias, tricesimo anno regni sui fecit grande convivium suis principibus etc., regni sui, in vestibulo horti, etc. Et inter alias epulas voluit, quod uxor sua, regina Vasti, veniret ad conspectum magnatorum, etc., que renuit venire et obedire iussis regis. Unde rex turbatus habuit consilium cum magnatibus suis de inobedientia regine, et data fuit atque obtenta sententia, quod regina privaretur statu suo, et una alia subrogaretur loco sui. Et missis nuntiis per totum regnum, inventa est Hester ebrea, neptis Mardochei, que posita est regina in loco Vasti, quam rex Assuerus maxime dilexit. Mardocheus, patruus Hester, stabat semper ad ostium palatii, ad sentiendum quomodo succederet ipsi Hester, nepti sue. Tunc Aman, princeps militie regis, concepit [iram] contra Mardocheum, ex eo quia, transeundo Aman, omnes inclinabant se ipsi Aman, preter Mardocheum, qui sciebat ipsum Aman inimicari populo Dei, scilicet Israel. Aman autem taliter successit regi, quod rex dedit licentiam ipsi Aman, ut constitueret diem, in qua omnes Hebrei deberent interfici per totum regnum. Quo audito, Mardocheus indicavit Hester, que dixit regi, quod esset male contenta. Rex dixit: Quare? Ipsa dixit: Crastina die indicabo regie maiestati. Et tunc ipsum regem invitavit ad prandium et fecit etiam invitari Aman; in quo prandio, quasi lugens, dixit regina Hester regi: Inimicus noster est iste Aman, qui etiam ordinavit iam lignum, in quo debet crucifigi Mardocheus, patruus meus, qui stat ad fores regis. De quo, dum legeretur in archivis regis, inventum fuit quod ipse revelaverat proditionem factam et conspiratam contra vitam regis. Unde rex precepit quod super lignum, in quo volebat facere crucifigi Mardocheum, ipse Aman crucifigeretur. Et sic fuit crucifixus, et Mardocheus fuit positus per regem in loco Aman. Modo ex ira, quam concepit Aman contra Mardocheum, evenit quod ipse Aman fuit crucifixus. Modo talis crucifixio, sive hic Aman crucifixus, venit in fantasiam istam et ymaginationem extaticam; per quam etiam hystoriam docetur quod abstinendum sit ab ira et eius impetu.
 
@@ -164,47 +164,47 @@ Modo ad textum. Notandum est, quod aliquis textus in vulgari habet sic: De l'emp
 
 <!-- p. 619 (0673) -->
 
-¹⁴ Come si piange 'l son (¹), ove di bucto\
+14 Come si piange 'l son (1), ove di bucto\
 &emsp;Nuova luce percuote el viso chiuso,\
 &emsp;Che fracto guizza pria che mora tucto;
 
-¹⁴ Sicut frangitur sompnus, ubi statim\
+14 Sicut frangitur sompnus, ubi statim\
 &emsp;Nova lux percutit visum clausum,\
 &emsp;Qui fractus guizzat prius quam moriatur totus;
 
-¹⁵ Così la mia ymagin cadde giuso,\
+15 Così la mia ymagin cadde giuso,\
 &emsp;Tosto che 'l lume el volto mi percosse,\
-&emsp;Maggior assai che quel ch'è (²) in nostr' uso (3.
+&emsp;Maggior assai che quel ch'è (2) in nostr' uso (3.
 
-¹⁵ Sic ymago mea cecidit infra,\
+15 Sic ymago mea cecidit infra,\
 &emsp;Statim quod lumen vultum michi percussit,\
 &emsp;Maius satis quam illud quod est in nostro usu.
 
-¹⁶ Io mi volgea per veder ov'io fosse,\
+16 Io mi volgea per veder ov'io fosse,\
 &emsp;Quand'una voce disse, Qui si monta;\
 &emsp;Che da ogni altro intento mi rimosse,
 
-¹⁶ Ego me volvebam propter videre ubi essem,\
+16 Ego me volvebam propter videre ubi essem,\
 &emsp;Quando una vox dixit, Hinc ascenditur;\
 &emsp;Que ab omni alio intento me removit,
 
-¹⁷ E fece la mia vogla tanto pronta\
+17 E fece la mia vogla tanto pronta\
 &emsp;Di riguardar chi era che parlava,\
 &emsp;Che mai non posa, se non si raffronta.
 
-¹⁷ Et fecit meam voluntatem tantum promptam\
+17 Et fecit meam voluntatem tantum promptam\
 &emsp;Respiciendi quis erat qui loquebatur,\
 &emsp;Que nunquam quiescit, nisi reaffrontetur.
 
-¹⁸ Ma com'al sol, che nostra vista grava,\
+18 Ma com'al sol, che nostra vista grava,\
 &emsp;E per soverchio sua figura vela,\
 &emsp;Così la sua virtù quivi mancava.
 
-¹⁸ Sed sicut sol, qui nostrum visum aggravat,\
+18 Sed sicut sol, qui nostrum visum aggravat,\
 &emsp;Et propter superfluum suam figuram velat,\
 &emsp;Sic mea virtus ibi deficiebat.
 
-(¹) sono — (²) lume che è — (³) nostro uso.
+(1) sono — (2) lume che è — (3) nostro uso.
 
 dicens: Per nullum signum exterius ostendebam quid esset interius, ymo videbar quasi mortuus.
 
@@ -222,63 +222,63 @@ Modo describit angeli lumen per quamdam comparationem talem: Sicut [sol] aggrava
 
 <!-- p. 620 (0674) -->
 
-¹⁹ Questo (¹) è diricto spirito, che ne la\
+19 Questo (1) è diricto spirito, che ne la\
 &emsp;Via da ir su ne drizza senza prego,\
 &emsp;E col suo lume sè medesmo cela.
 
-¹⁹ Iste est spiritus rectus, qui in via\
+19 Iste est spiritus rectus, qui in via\
 &emsp;Sursum eundi nos dirigit sine prece,\
 &emsp;Et cum suo lumine semetipsum celat.
 
-²⁰ Sì (²) fa con noi, come l'huom si fa sego;\
+20 Sì (2) fa con noi, come l'huom si fa sego;\
 &emsp;Chè qual aspecta prego, e l'uopo vede,\
 &emsp;Malignamente già si mette al nego.
 
-²⁰ Facit nobiscum, sicut homo facit secum,\
+20 Facit nobiscum, sicut homo facit secum,\
 &emsp;Quia qui expectat precem, et necessitatem videt,\
 &emsp;Maligne iam se mictit ad negationem.
 
-²¹ Hor accordiamo a tanto invito el piede:\
+21 Hor accordiamo a tanto invito el piede:\
 &emsp;Procacciàn di salir pria che s'abbui,\
 &emsp;Chè poi non si porrìa, se 'l dì non riede.
 
-²¹ Ergo concordemus cum tanto invito pedem:\
+21 Ergo concordemus cum tanto invito pedem:\
 &emsp;Procuremus ascendere priusquam obscuretur,\
 &emsp;Quia postea non posset, si dies non redit.
 
-²² Così disse 'l mio duca, et io con lui\
+22 Così disse 'l mio duca, et io con lui\
 &emsp;Volgemmo e nostri passi ad una scala;\
 &emsp;E tosto ch'io al primo grado fui,
 
-²² Sic dixit dux meus, et ego cum ipso\
+22 Sic dixit dux meus, et ego cum ipso\
 &emsp;Volvimus nostros passus ad unam scalam;\
 &emsp;Et statim quod ego ad primum gradum fui,
 
-²³ Sentimi quasi presso un muover d'hala,\
+23 Sentimi quasi presso un muover d'hala,\
 &emsp;E ventarmi nel viso, e dir: Beati\
 &emsp;Pacifici, che son senz'ira mala.
 
-²³ Sensi me prope quasi per unum motum ale,\
+23 Sensi me prope quasi per unum motum ale,\
 &emsp;Eventari in visum, et dicere: Beati\
 &emsp;Pacifici, qui sunt sine ira mala.
 
-²⁴ Già eran sovra noi tanto levati\
+24 Già eran sovra noi tanto levati\
 &emsp;Gl'ultimi raggi che la nocte segue,\
 &emsp;Che le stelle apparivan da più lati.
 
-²⁴ Iam erant supra [nos] tantum elevati\
+24 Iam erant supra [nos] tantum elevati\
 &emsp;Ultimi radii quos nox sequitur,\
 &emsp;Ita quod stelle apparebant a pluribus lateribus.
 
-²⁵ O virtù mia, perchè sì ti dilegue?\
+25 O virtù mia, perchè sì ti dilegue?\
 &emsp;Fra me stesso dicea, che mi sentia\
 &emsp;La possa delle gambe posta in tregue.
 
-²⁵ O virtus mea, quare sic fugis a me?\
+25 O virtus mea, quare sic fugis a me?\
 &emsp;Infra meipsum dicebam, quia michi sentiebam\
 &emsp;Potentiam crurium positam in treugis.
 
-(¹) al. questi — (²) cosi.
+(1) al. questi — (2) cosi.
 
 Iste est spiritus rectus, qui in viam eundi sursum nos dirigit sine prece, et cum lumine suo semetipsum celat.
 
@@ -294,47 +294,47 @@ O virtus mea, quare sic fugis a me? idest quare deficis, vel debilitaris? infra 
 
 <!-- p. 621 (0675) -->
 
-²⁶ Noi eravàn dove più non saliva\
-&emsp;La scala su, et eravamo affisi (¹),\
+26 Noi eravàn dove più non saliva\
+&emsp;La scala su, et eravamo affisi (1),\
 &emsp;Pur come nave ch'alla piaggia arriva:
 
-²⁶ Nos eramus ubi plus non ascendebatur\
+26 Nos eramus ubi plus non ascendebatur\
 &emsp;Scala sursum, et eramus affixi,\
 &emsp;Eo modo quo navis que a[d] piagia[m] pervenit:
 
-²⁷ Et io attesi un poco s'io udissi\
+27 Et io attesi un poco s'io udissi\
 &emsp;Alcuna cosa nel nuovo girone;\
 &emsp;Poi mi rivolsi al mio maestro, e dissi:
 
-²⁷ Et ego attendi aliquantulum si ego audirem\
+27 Et ego attendi aliquantulum si ego audirem\
 &emsp;Aliquam rem in novo gyrone;\
 &emsp;Postea verti me ad magistrum meum, et dixi:
 
-²⁸ Dolce mio padre, di', qual'offensione\
+28 Dolce mio padre, di', qual'offensione\
 &emsp;Si purga qui nel giro, dove semo?\
 &emsp;S'e piè si stanno, non stea tuo sermone.
 
-²⁸ Dulcis mi pater, dicas, qualis offensio\
+28 Dulcis mi pater, dicas, qualis offensio\
 &emsp;Purgatur hic in gyrone, ubi sumus?\
 &emsp;Si pedes stant, non stet tuus sermo.
 
-²⁹ Et elli a me: L'amor del bene, scemo\
+29 Et elli a me: L'amor del bene, scemo\
 &emsp;Di suo dover, quiricta si ristora,\
 &emsp;Qui si ribacte el mal tardato remo.
 
-²⁹ Et ipse ad me: Amor, honor, boni diminuti\
+29 Et ipse ad me: Amor, honor, boni diminuti\
 &emsp;De suo debito, hic restauratur,\
 &emsp;Hic repercutitur male retardatus remus.
 
-³⁰ Ma perchè più aperto intendi ancora,\
+30 Ma perchè più aperto intendi ancora,\
 &emsp;Volgi la mente a me, e prenderai\
 &emsp;Alcun buon fructo di nostra dimora.
 
-³⁰ Sed ut magis aperte intelligas adhuc,\
+30 Sed ut magis aperte intelligas adhuc,\
 &emsp;Volve mentem ad me, et apprehendes\
 &emsp;Aliquem bonum fructum de nostra mora.
 
-(¹) al. assisi.
+(1) al. assisi.
 
 crurium positam in treugis; hoc est, iam non poteram plus ire; quia in tantum factus est auctor debilis, quod plus ire non poterat. Nota quod auctor fingit hoc hic, quia iam erat in circulo, ubi punitur accidia et ubi puniuntur accidiosi, pigri et lenti. Nam accidioso et pigro, qui vadit purgatum se, omnis parvus labor est sibi gravis. Est credendum quod aliquando intellectus auctoris erat fessus; quia semper insistere operi et laborare, nimis durum est. Tamen ipse auctor, confortans semetipsum, hortabatur: Labora, excitare te; quia homo ad laborem nascitur, et avis ad volandum.
 
@@ -348,63 +348,63 @@ Sed ut magis aperte intelligas, adhuc volve mentem ad me, et apprehendes aliquem
 
 <!-- p. 622 (0676) -->
 
-³¹ Nè creatore nè creatura mai,\
-&emsp;Cominciò ei (¹), figluol, fu senza amore,\
-&emsp;O naturale o d'animo (²); tu 'l sai (³).
+31 Nè creatore nè creatura mai,\
+&emsp;Cominciò ei (1), figluol, fu senza amore,\
+&emsp;O naturale o d'animo (2); tu 'l sai (3).
 
-³¹ Nec creator nec creatura unquam,\
+31 Nec creator nec creatura unquam,\
 &emsp;Incepit ipse, o fili, fuit sine amore,\
 &emsp;Vel naturali vel animi; et tu hoc scis.
 
-³² Lo natural è sempre senza errore;\
+32 Lo natural è sempre senza errore;\
 &emsp;Ma l'altro puot'errar; per mal obiecto,\
-&emsp;O per troppo, o per poco, di vigore (⁴).
+&emsp;O per troppo, o per poco, di vigore (4).
 
-³² Naturalis fuit semper sine errore;\
+32 Naturalis fuit semper sine errore;\
 &emsp;Sed alius potest errare, per malum obiectum,\
 &emsp;Vel per nimium, vel per modicum, vigoris.
 
-³³ Mentre ch'egli è nel primo ben directo,\
+33 Mentre ch'egli è nel primo ben directo,\
 &emsp;E nel secondo sè stesso misura,\
 &emsp;Esser non può cagion di mal dilecto;
 
-³³ Dum est in prima bona directus,\
+33 Dum est in prima bona directus,\
 &emsp;Et in secunda bona seipsum mensurat,\
 &emsp;Esse non potest causa male delectationis;
 
-³⁴ Ma quando al mal si torce, o con più cura,\
-&emsp;O con men che non de' (⁵), corre nel bene,\
-&emsp;Contra 'l factor adovra (⁶) sua factura.
+34 Ma quando al mal si torce, o con più cura,\
+&emsp;O con men che non de' (5), corre nel bene,\
+&emsp;Contra 'l factor adovra (6) sua factura.
 
-³⁴ Sed quando ad malum torquetur, et cum maiori cura,\
+34 Sed quando ad malum torquetur, et cum maiori cura,\
 &emsp;Vel minori quam debeat, currit in bonum,\
 &emsp;Contra suum factorem operatur sua factura.
 
-³⁵ Quinci comprender puoi, ch'esser convene\
+35 Quinci comprender puoi, ch'esser convene\
 &emsp;Amor sementa in voi d'ogni virtute,\
-&emsp;E d'ogni operation (⁷) che merta pene.
+&emsp;E d'ogni operation (7) che merta pene.
 
-³⁵ Hinc apprehendere potes, quod esse convenit\
+35 Hinc apprehendere potes, quod esse convenit\
 &emsp;Amorem semen in vobis omnis virtu[ti]s,\
 &emsp;Et omnis operationis que meretur penas.
 
-³⁶ E perchè mai non può dalla salute\
+36 E perchè mai non può dalla salute\
 &emsp;Amor del suo subiecto volger viso,\
-&emsp;Dall'odio proprio son le cose tute (⁸):
+&emsp;Dall'odio proprio son le cose tute (8):
 
-³⁶ Sed quia nunquam potest a salute\
+36 Sed quia nunquam potest a salute\
 &emsp;Amor sui subiecti volvere visum,\
 &emsp;Ab odio proprio res sunt tute:
 
-³⁷ E perchè 'ntender non si può diviso,\
-&emsp;E per sè stante, alcun esser dal primo (⁹),\
-&emsp;Da quel (¹⁰) odiar ogni affecto è deciso.
+37 E perchè 'ntender non si può diviso,\
+&emsp;E per sè stante, alcun esser dal primo (9),\
+&emsp;Da quel (10) odiar ogni affecto è deciso.
 
-³⁷ Sed quia intelligi non potest divisum\
+37 Sed quia intelligi non potest divisum\
 &emsp;Et per se stans aliquid esse a primo,\
 &emsp;Ab illo odire omnis effectus est decisus.
 
-(¹) o — (²) libero — (³) al. e tu 'l sai — (⁴) quia nimis vel parum diligit quod diligere debet — (⁵) debba — (⁶) adopera — (⁷) peccato — (⁸) sicure — (⁹) naturale, idest a Deo — (¹⁰) Dio; quia nemo potest odire seipsum, ergo nec Deum a quo habet esse.
+(1) o — (2) libero — (3) al. e tu 'l sai — (4) quia nimis vel parum diligit quod diligere debet — (5) debba — (6) adopera — (7) peccato — (8) sicure — (9) naturale, idest a Deo — (10) Dio; quia nemo potest odire seipsum, ergo nec Deum a quo habet esse.
 
 dirigitur ad malum, scilicet obiectum, vel quando cum maiori vel minori quam debeat, currit in bonum, contra factorem operatur sua factura, idest creatura, idest non bene agit. Est igitur amor accidentalis, sive animi, triplex: scilicet unus, quo amatur summum bonum, scilicet Deus; et si ille amor, quo Deus amatur, sit lentus et paucus, sic est accidia. Alius amor est, quo amantur res temporales: que si ultra modum amantur et plusquam mereantur, vel quam sit necesse ad sustentationem vite, et tunc est avaritia, et non est laudabilis talis amor a sapientibus. Tertius amor est, quando amatur res non bona, que tamen apparet:
 
@@ -420,55 +420,55 @@ Modo dicit auctor quod amor naturalis nunquam fallit: sed quia nunquam potest a 
 
 <!-- p. 623 (0677) -->
 
-³⁸ Resta (¹), se, dividendo (²), bene stimo,\
+38 Resta (1), se, dividendo (2), bene stimo,\
 &emsp;Che il mal che s'ama è nel prossimo, et esso\
 &emsp;Amor nasce 'n tre modi in vostro limo.
 
-³⁸ Restat, si, dividendo, bene extimo,\
+38 Restat, si, dividendo, bene extimo,\
 &emsp;Quod malum quod amatur est proximi, et ipse\
 &emsp;Amor nascitur in tribus modis in vestro limo.
 
-³⁹ È chi (³), per esser suo vicin soppresso (⁴),\
+39 È chi (3), per esser suo vicin soppresso (4),\
 &emsp;Spera excellentia, e sol per questo brama\
-&emsp;Che'l (⁵) sia di sua grandezza in basso messo;
+&emsp;Che'l (5) sia di sua grandezza in basso messo;
 
-³⁹ Et aliquis, ut sit suo vicino superior,\
+39 Et aliquis, ut sit suo vicino superior,\
 &emsp;Sperat excellentiam, et solum per istud desiderat\
 &emsp;Quod ille sit de sua potentia in infimum missus:
 
-⁴⁰ È chi (⁶) potentia (⁷), gratia, honore e fama\
+40 È chi (6) potentia (7), gratia, honore e fama\
 &emsp;Teme di perder perch'altri su monti,\
 &emsp;Ond'ei s'attrista perchè 'l contrario ama:
 
-⁴⁰ Et aliquis potentiam, gratiam, honorem et famam\
+40 Et aliquis potentiam, gratiam, honorem et famam\
 &emsp;Timet perdere ut alius superascendat,\
 &emsp;Unde tristatur ita quod contrarium amat:
 
-⁴¹ Et è chi (⁸) per iniuria par ch'adonti\
+41 Et è chi (8) per iniuria par ch'adonti\
 &emsp;Sì, che si fa della vendetta ghiocto;\
-&emsp;E tal convien che'l mal altrui impronti (⁹).
+&emsp;E tal convien che'l mal altrui impronti (9).
 
-⁴¹ Et aliquis propter iniuriam videtur quod indignetur,\
+41 Et aliquis propter iniuriam videtur quod indignetur,\
 &emsp;Ita, quod sit de vindicta gulosus;\
 &emsp;Et talis convenit, quod alienum malum improntet.
 
-⁴² Questo triforme amor quaggiù di socto\
-&emsp;Si piagne (¹⁰); hor vo'che tu dell'altro (¹¹) intende,\
+42 Questo triforme amor quaggiù di socto\
+&emsp;Si piagne (10); hor vo'che tu dell'altro (11) intende,\
 &emsp;Che corre al ben con ordine corrocto.
 
-⁴² Iste triformis amor hic inferius\
+42 Iste triformis amor hic inferius\
 &emsp;Plangitur; nunc volo quod de alio intelligas,\
 &emsp;Qui currit ad bonum cum ordine corrupto.
 
-⁴³ Ciascun confusamente un ben apprende,\
-&emsp;Nel qual si cheti (¹²) l'anima, e desira (¹³):\
-&emsp;Perchè di giugner lui ciascum contende(¹⁴).
+43 Ciascun confusamente un ben apprende,\
+&emsp;Nel qual si cheti (12) l'anima, e desira (13):\
+&emsp;Perchè di giugner lui ciascum contende(14).
 
-⁴³ Quilibet confuse unum bonum apprehendit,\
+43 Quilibet confuse unum bonum apprehendit,\
 &emsp;In quo quiescat animus, et desiderat:\
 &emsp;Quia pervenire ad illud quilibet contendit.
 
-(¹) adonque — (²) distinguendo — (³) est aliquis qui — (⁴) abbassato — (⁵) al. ch'ei, cioè proximo suo — (⁶) est alius qui — (⁷) al. potere — (⁸) alius qui — (⁹) procuri — (¹⁰) si purga — (¹¹) amore — (¹²) al. queti. i. satii — (¹³) desidera ciascuno — (¹⁴) omnis mortalium cura, etc.
+(1) adonque — (2) distinguendo — (3) est aliquis qui — (4) abbassato — (5) al. ch'ei, cioè proximo suo — (6) est alius qui — (7) al. potere — (8) alius qui — (9) procuri — (10) si purga — (11) amore — (12) al. queti. i. satii — (13) desidera ciascuno — (14) omnis mortalium cura, etc.
 
 Restat igitur, si dividendo bene extimo, quod malum quod amatur, vel odium, proximi, idest quod res que amatur, vel malum proximi, talis amor, quo amatur malum, vel odium ad proximum, nascitur in tribus modis in vestro limo, idest in sensualitate vestra, que de limo terre formata est. Notandum est hic, pro ipso textu intelligendo, quod homo amat seipsum indecenter amore animi; quia de amore naturali non loquimur hic, quia ille non errat. Nosmetipsos amamus [indecenter]; ideo nascitur in nobis odium in proximos ex triplici amore, sive ex amore qui tripliciter oritur in nobis: scilicet vel quia tu nimis et excellenter diligis tuam excellentiam et exaltationem, ita quod tu vis esse super omnes alios, et neminem vis tibi parem; et ex hoc est superbia: secundo, quia tibi videtur quod prosperitas tui proximi posset esse diminutio tui status, vel honoris, et ideo odis proximum; et sic est invidia: vel, tertio, quia tu amas tuum honorem; ideo habes in despectum parvipendi, et hoc recipis pro iniuria, et ex hoc provocaris in vindictam; et sic est ira, quia conturbaris contra illum, qui te parvipendit.
 
@@ -484,33 +484,33 @@ Nunc ponitur de accidia. Quilibet confuse unum bonum apprehendit, idest inserta 
 
 <!-- p. 624 (0678) -->
 
-⁴⁴ Se lento amor (¹) a lui veder vi tira (²),\
-&emsp;O a lui acquistar, questa cornice (³),\
-&emsp;Dopo giusto pentir (⁴), ve ne martira (⁵).
+44 Se lento amor (1) a lui veder vi tira (2),\
+&emsp;O a lui acquistar, questa cornice (3),\
+&emsp;Dopo giusto pentir (4), ve ne martira (5).
 
-⁴⁴ Si lentus amor ad videndum illud nos trahit,\
+44 Si lentus amor ad videndum illud nos trahit,\
 &emsp;Vel ad illud acquirendum, ista cornix,\
 &emsp;Post iustum penitere, vos martyrat.
 
-⁴⁵ Altro ben (⁶) che non fa l'huomo felice,\
+45 Altro ben (6) che non fa l'huomo felice,\
 &emsp;Non è felicità, non è la buona\
-&emsp;Essentia (⁷), d'ogni ben fructo e radice.
+&emsp;Essentia (7), d'ogni ben fructo e radice.
 
-⁴⁵ Aliud bonum est quod non facit hominem felicem;\
+45 Aliud bonum est quod non facit hominem felicem;\
 &emsp;Non est felicitas, non est bona\
 &emsp;Essentia, omnis boni fructus et radix.
 
-⁴⁶ L'amor (⁸) che ad esso (⁹) troppo s'abbandona,\
-&emsp;[D]i sopra a noi si piange per tre cerchi (¹⁰):\
+46 L'amor (8) che ad esso (9) troppo s'abbandona,\
+&emsp;[D]i sopra a noi si piange per tre cerchi (10):\
 &emsp;Ma come tripartito si ragiona,\
-&emsp;Tacciolo, a ciò che tu per te (¹¹) ne cerchi.
+&emsp;Tacciolo, a ciò che tu per te (11) ne cerchi.
 
-⁴⁶ Amor, qui ad illud nimis se tradit,\
+46 Amor, qui ad illud nimis se tradit,\
 &emsp;Supra nos plangitur per tres circulos:\
 &emsp;Sed sicut tripartitus ratiocinatur,\
 &emsp;Taceo illud, ad hoc ut per te ipsum de illo queras.
 
-(¹) accidia — (²) voi huomini — (³) circolo — (⁴) degna penitentia — (⁵) purga — (⁶) temporale — (⁷) Dio — (⁸) dell'anima — (⁹) ben temporale — (¹⁰) circuli — (¹¹) medesimo.
+(1) accidia — (2) voi huomini — (3) circolo — (4) degna penitentia — (5) purga — (6) temporale — (7) Dio — (8) dell'anima — (9) ben temporale — (10) circuli — (11) medesimo.
 
 Si lentus amor ad videndum illud, scilicet summum bonum, nos trahit, vel ad illud acquirendum, ista cornix, sive circulus, post iustum penitere, idest post sufficientem contritionem, vos martyrat, idest punit, vel cruciat.
 

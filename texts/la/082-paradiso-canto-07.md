@@ -8,27 +8,27 @@ In capitulo septimo, scilicet in isto, quod incipit: Osanna, Sanctus Deus Sabaot
 
 # Capitulum Septimum
 
-¹ Osanna, sanctus Deus Sabbaoth,\
+1 Osanna, sanctus Deus Sabbaoth,\
 &emsp;Superillustrans claritate tua\
 &emsp;Felices ignes horum malahot!
 
-¹ Osanna, Sanctus Deus Sabaoth,\
+1 Osanna, Sanctus Deus Sabaoth,\
 &emsp;Superillustrans claritate tua\
 &emsp;Felices ignes illorum malacotht.
 
-² Così volgendosi a la rota sua,\
+2 Così volgendosi a la rota sua,\
 &emsp;Viso mi fu cantar essa sustanza,\
 &emsp;Sopra la qual doppio lume s'addua:
 
-² Sic, volvendo se ad notam suam,\
+2 Sic, volvendo se ad notam suam,\
 &emsp;Fuit visum michi cantare ipsam substantiam.\
 &emsp;Supra quam duplex lumen duplicatur:
 
-³ Et essa e l'altre mosseno a sua danza,\
+3 Et essa e l'altre mosseno a sua danza,\
 &emsp;E, quasi velocissime faville,\
 &emsp;Mi si velar di subita distanza.
 
-³ Et ipsam alie moverunt ad suam coream,\
+3 Et ipsam alie moverunt ad suam coream,\
 &emsp;Et, quasi velocissime faville,\
 &emsp;Michi se velaverunt propter subitam distantiam.
 
@@ -54,43 +54,43 @@ Primo igitur auctor continuat dicta dicendis, et dicit quomodo spiritus Iustinia
 
 <!-- p. 897 (0951) -->
 
-⁴ Io dubitava, e dicea: Dille, dille,\
+4 Io dubitava, e dicea: Dille, dille,\
 &emsp;Fra me, dille, dicea a la mia donna,\
 &emsp;Che mi disseta co' le dolci stille;
 
-⁴ Ego dubitabam, et dicebam: Dic, dic illa,\
+4 Ego dubitabam, et dicebam: Dic, dic illa,\
 &emsp;Intra me, dic, dicebam, domine mee,\
 &emsp;Que meam sitim extinguat cum dulcibus stillis;
 
-⁵ Ma quella reve[re]nzia che s'indonna\
+5 Ma quella reve[re]nzia che s'indonna\
 &emsp;Di tutto me, pur per Be e per Ice,\
 &emsp;Mi richinava come l'huom ch'assonna.
 
-⁵ Sed illa reverentia que se indonnat\
+5 Sed illa reverentia que se indonnat\
 &emsp;In toto, per B per I et per ICE,\
 &emsp;Me revocabat sicut hominem sompnolentum.
 
-⁶ Però sofferse me cotal Beatrice,\
+6 Però sofferse me cotal Beatrice,\
 &emsp;E cominciò, raggiandomi d'un riso\
 &emsp;Tal, che nel fuoco farìa l'huom felice:
 
-⁶ Pauco sustulit me talem Beatrix,\
+6 Pauco sustulit me talem Beatrix,\
 &emsp;Et incepit, ratiocinando michi de uno risu tali\
 &emsp;Quod in foco faceret hominem felicem:
 
-⁷ Secondo mio infallibile avviso,\
+7 Secondo mio infallibile avviso,\
 &emsp;Come giusta vendetta giustamente\
 &emsp;Fusse punita, t'hai 'n pensier miso;
 
-⁷ Secundum meum ineffabile videre,\
+7 Secundum meum ineffabile videre,\
 &emsp;Sicut iusta vindicta iuste\
 &emsp;Punita sit, tibi est in cogitatione immissum;
 
-⁸ Ma io ti solverò tosto la mente:\
+8 Ma io ti solverò tosto la mente:\
 &emsp;E tu ascolta, chè le mie parole\
 &emsp;Di gran sententia ti faran presente.
 
-⁸ Sed ego tibi solvam cito mentem:\
+8 Sed ego tibi solvam cito mentem:\
 &emsp;Et tu ausculta, quia mea verba\
 &emsp;De grandi semine tibi facient ensenium.
 
@@ -106,35 +106,35 @@ Secundum meum ineffabile videre. Secondo el mio ineffabile avviso: hec est secun
 
 <!-- p. 898 (0952) -->
 
-⁹ Per non soffrire a la virtù che vuole\
+9 Per non soffrire a la virtù che vuole\
 &emsp;Freno a suo prode, quell'huom che non nacque,\
 &emsp;Dannando sè, dannò tutta sua prole;
 
-⁹ Propter non sufferre virtus que vult\
+9 Propter non sufferre virtus que vult\
 &emsp;Frenum ad suum profectum, ille homo qui non nascebatur,\
 &emsp;Dampnando se, dampnavit totam suam prolem;
 
-¹⁰ Onde l'humana spetie in terra giaque\
+10 Onde l'humana spetie in terra giaque\
 &emsp;Giù per secoli molti in grande errore,\
 &emsp;Fin ch'al Verbo divin discender piaque,
 
-¹⁰ Unde humana species infirma iacuit\
+10 Unde humana species infirma iacuit\
 &emsp;Infra per secula multa in grandi errore,\
 &emsp;Quousque Verbo Dei descendere placuit,
 
-¹¹ U'la natura, che dal suo Factore\
+11 U'la natura, che dal suo Factore\
 &emsp;S'era lungata, unìo a sè in persona\
 &emsp;Coll'acto sol di suo eterno amore.
 
-¹¹ Ubi natura, que a suo Factore\
+11 Ubi natura, que a suo Factore\
 &emsp;Se elongaverat, univit se in persona,\
 &emsp;Cum actu solum sui eterni amoris.
 
-¹² Hor drizza 'l viso a quel ch'or si ragiona:\
+12 Hor drizza 'l viso a quel ch'or si ragiona:\
 &emsp;Questa natura al suo Factor unita,\
 &emsp;Qual fu creata, fu sincera e buona;
 
-¹² Nunc dirige visum ad id quod nunc ratiocinatur:\
+12 Nunc dirige visum ad id quod nunc ratiocinatur:\
 &emsp;Ista natura suo Factori unita,\
 &emsp;[Est], qualis fuit creata, sincera et bona;
 
@@ -146,47 +146,47 @@ Iam Beatrix reddit auctorem actentum, dicens: Nunc dirige visum, idest actende b
 
 <!-- p. 899 (0953) -->
 
-¹³ Ma per sè stessa fu dapoi (¹) sbandita\
+13 Ma per sè stessa fu dapoi (1) sbandita\
 &emsp;Dal Paradiso, però che si torse\
 &emsp;Da via di verità e da sua vita.
 
-¹³ Sed per se ipsam fuit bannita\
+13 Sed per se ipsam fuit bannita\
 &emsp;De Paradiso, quia se retorsit\
 &emsp;A via veritatis et a sua vita.
 
-¹⁴ La pena dunque che la Croce porse,\
+14 La pena dunque che la Croce porse,\
 &emsp;Se a la natura assumpta si misura,\
 &emsp;Nulla giammai sì iustamente morse;
 
-¹⁴ Pena igitur quam crux porrexit,\
+14 Pena igitur quam crux porrexit,\
 &emsp;Si ad naturam assumptam mensuratur,\
 &emsp;Nulla unquam ita iuste momordit;
 
-¹⁵ E così nulla fu di tanta iniura,\
+15 E così nulla fu di tanta iniura,\
 &emsp;Guardando a la persona che sofferse,\
 &emsp;In che era contracta tal natura.
 
-¹⁵ Sic nulla fuit tante iniurie,\
+15 Sic nulla fuit tante iniurie,\
 &emsp;Respiciendo ad personam que sustinuit,\
 &emsp;In qua erat contracta talis natura.
 
-¹⁶ Però d'un acto escir cose diverse;\
+16 Però d'un acto escir cose diverse;\
 &emsp;Ch'a Dio et a Iudei piaque una morte:\
 &emsp;Per lei tremò la terra e 'l ciel s'aperse.
 
-¹⁶ Ergo de uno actu exiverunt res diverse;\
+16 Ergo de uno actu exiverunt res diverse;\
 &emsp;Quia Deo et Iudeis placuit una mors:\
 &emsp;Propter eam terra tremuit et celum se aperuit.
 
-¹⁷ Non ti de' horamai parer più forte,\
+17 Non ti de' horamai parer più forte,\
 &emsp;Quando si dice che giusta vendetta\
-&emsp;Poscia (²) vengiata fu da giusta corte.
+&emsp;Poscia (2) vengiata fu da giusta corte.
 
-¹⁷ Non deberet ammodo apparere tibi ulterius forte,\
+17 Non deberet ammodo apparere tibi ulterius forte,\
 &emsp;Quando dicitur quod iusta vindicta\
 &emsp;Postea vindicata fuit a iusta curia.
 
-(¹) al. ella — (²) al. dapoi.
+(1) al. ella — (2) al. dapoi.
 
 idest cum ratione dicitur: Ista natura, scilicet humana, suo Factori unita, est supple, qualis fuit creata, et ita pura et immaculata sicut Deus illam creavit, scilicet pura et sincera et bona sine macula; sed per seipsam, scilicet ex suo defectu, fuit bannita, idest expulsa, de paradiso, quia se retorsit a via veritatis, alias a veritate et a sua vita, idest a Deo, qui est via, veritas et vita.
 
@@ -200,35 +200,35 @@ Sed dubium quod ammodo oritur, est hoc: Quare Deus voluit et elegit solum istum 
 
 <!-- p. 900 (0954) -->
 
-¹⁸ Ma io veggi' hor la tua mente ristrecta\
+18 Ma io veggi' hor la tua mente ristrecta\
 &emsp;Di pensier in pensier dentr'a un nodo,\
 &emsp;Dal qual con gran desio solver s'aspecta.
 
-¹⁸ Sed ego video nunc mentem tuam restrictam\
+18 Sed ego video nunc mentem tuam restrictam\
 &emsp;De cogitatione in cogitationem intra unum nodum,\
 &emsp;A quo cum grandi desiderio solvi expectat.
 
-¹⁹ Tu dici: Ben discerno ciò ch' i' odo;\
+19 Tu dici: Ben discerno ciò ch' i' odo;\
 &emsp;Ma perchè Dio volesse, m'è occulto,\
 &emsp;A nostra redemption pur questo modo.
 
-¹⁹ Tu dicis: Bene discerno id quod audio;\
+19 Tu dicis: Bene discerno id quod audio;\
 &emsp;Sed quare Deus voluerit, michi est occultum,\
 &emsp;Ad nostram redemptionem solum istum modum.
 
-²⁰ Questo decreto, frate, sta sepulto\
+20 Questo decreto, frate, sta sepulto\
 &emsp;Agl'ochi di ciascun, el cui ingegno\
 &emsp;Ne la fiamma d'amor non è adulto.
 
-²⁰ Istud decretum, frater, stat occultum\
+20 Istud decretum, frater, stat occultum\
 &emsp;Oculis quorumcumque, quorum ingenium\
 &emsp;In flamma amoris non est adultum.
 
-²¹ Veramente, però ch'a questo segno\
+21 Veramente, però ch'a questo segno\
 &emsp;Molto si mira, e poco si discerne,\
 &emsp;Dirò perchè tal modo fu più degno.
 
-²¹ Vere, quia ad istud signum\
+21 Vere, quia ad istud signum\
 &emsp;Multum respicitur et parum discernitur,\
 &emsp;Dicam tibi quare talis modus magis fuit dignus.
 
@@ -244,71 +244,71 @@ Vere, eo quia ad istud signum multum respicitur, idest cum scientiis mundanis, e
 
 <!-- p. 901 (0955) -->
 
-²² La divina bontà, che da sè sperne\
+22 La divina bontà, che da sè sperne\
 &emsp;Ogni livore, ardendo in sè sfavilla\
 &emsp;Sì, che dispiegha le bellezze eterne.
 
-²² Divina bonitas, que a se spernit\
+22 Divina bonitas, que a se spernit\
 &emsp;Omnem livorem, ardendo in se sfavillat\
 &emsp;Ita, quod explicat pulchritudines eternas.
 
-²³ Ciò che da lei senza mezzo distilla,\
+23 Ciò che da lei senza mezzo distilla,\
 &emsp;Non ha poi fine, perchè non si muove\
-&emsp;La sua inprompta, quand'ella suggella (¹).
+&emsp;La sua inprompta, quand'ella suggella (1).
 
-²³ Quidquid ab ea sine medio distillat,\
+23 Quidquid ab ea sine medio distillat,\
 &emsp;Non habet postea finem, quia non movetur\
 &emsp;Sua imprenta, quando ipsam sigillat.
 
-²⁴ Ciò che da essa senza mezzo piove\
+24 Ciò che da essa senza mezzo piove\
 &emsp;Libero è tutto, perchè non subiace\
 &emsp;A la virtute de le cose nuove.
 
-²⁴ Quidquid ab ea sine medio pluit,\
+24 Quidquid ab ea sine medio pluit,\
 &emsp;Liberum est totum, quia non subiacet\
 &emsp;Virtuti rerum novarum.
 
-²⁵ Più gl'è conforme, e però più gli piace;\
+25 Più gl'è conforme, e però più gli piace;\
 &emsp;Chè l'ardor sancto, ch'ogni cosa raggia,\
 &emsp;Ne la più simigliante è più vivace.
 
-²⁵ Plus est sibi conforme, ideo plus sibi placet;\
+25 Plus est sibi conforme, ideo plus sibi placet;\
 &emsp;Ideo ardor, qui omnem rem radiat,\
 &emsp;Non habet magis similem nec magis vivacem.
 
-²⁶ Di tutte queste cose s'avantaggia\
+26 Di tutte queste cose s'avantaggia\
 &emsp;L'humana creatura; e s'una manca,\
 &emsp;Da sua nobilità convien che caggia.
 
-²⁶ De omnibus istis prerogativis prerogativatur\
+26 De omnibus istis prerogativis prerogativatur\
 &emsp;Humana creatura; et si una deficit,\
 &emsp;De sua nobilitate convenit quod cadat.
 
-²⁷ Solo el peccato è quel che la difranca,\
+27 Solo el peccato è quel che la difranca,\
 &emsp;E dissimil la fa al sommo bene,\
 &emsp;Perchè del lume suo poco s'imbianca;
 
-²⁷ Solum peccatum est illud quod ipsam defrancat,\
+27 Solum peccatum est illud quod ipsam defrancat,\
 &emsp;Et dissimilem illam facit summo bono,\
 &emsp;Quia de lumine suo parum dealbatur;
 
-²⁸ Et in sua dignità mai non riviene,\
+28 Et in sua dignità mai non riviene,\
 &emsp;Se non riempie dove colpa vota,\
 &emsp;Contra 'l mal dilectar con giuste pene.
 
-²⁸ Et in suam dignitatem nunquam revenit,\
+28 Et in suam dignitatem nunquam revenit,\
 &emsp;Si non replet ubi culpa vacuat,\
 &emsp;Contra male delectari cum iustis penis.
 
-²⁹ Vostra natura, quando peccò tota\
+29 Vostra natura, quando peccò tota\
 &emsp;Nel seme suo, da queste dignitadi,\
 &emsp;Come da Paradiso, fu remota;
 
-²⁹ Vestra natura, quando peccavit tota\
+29 Vestra natura, quando peccavit tota\
 &emsp;Seminis sui, ab istis dignitatibus,\
 &emsp;Sicut de Paradiso, fuit remota;
 
-(¹) al. sigilla
+(1) al. sigilla
 
 Divina bonitas, ex se immensa supple, que a se spernit, idest abiicit, despicit, omnem livorem, scilicet invidiam, et omne vitium, ardendo in se amore intenso favillat (idest, facit caritas, ideo sumus; et ideo Deus fecit mundum, quia summe bonus, et vult bona sua partecipare et communicare aliis) ita, quod dispiegat (idest explicat, distinguit et dividit; perfectiones suas, diversis creaturis, manifestat) pulchritudines eternas, scilicet attributa, actiones suas, et servitia angelorum et ministeria et officia.
 
@@ -326,75 +326,75 @@ Vestra humana natura, scilicet quando peccavit, tota, idest totaliter, seminis s
 
 <!-- p. 902 (0956) -->
 
-³⁰ Nè ricovrar poteasi, se tu badi\
+30 Nè ricovrar poteasi, se tu badi\
 &emsp;Ben sottilmente, per alcuna via,\
 &emsp;Senza passar per un di questi gradi:
 
-³⁰ Nec recuperari poterant, si tu actendis\
+30 Nec recuperari poterant, si tu actendis\
 &emsp;Bene subtiliter, per aliquam viam,\
 &emsp;Nisi transisset per unum istorum graduum:
 
-³¹ Che Dio solo per sua cortesia\
+31 Che Dio solo per sua cortesia\
 &emsp;Dimesso havesse, o che l'huom per sè ipso\
 &emsp;Havesse satisfacto a sua follia.
 
-³¹ Vel quod Deus solum per suam curialitatem\
+31 Vel quod Deus solum per suam curialitatem\
 &emsp;Dimisisset, vel quod homo per seipsum\
 &emsp;Satisfecisset suo sceleri.
 
-³² Ficha mo' l'ochio per entro l'abisso\
+32 Ficha mo' l'ochio per entro l'abisso\
 &emsp;Dell'eterno consiglo, quanto puoi\
 &emsp;Al mio parlar distrettamente fisso.
 
-³² Fige nunc oculos intra per abissum\
+32 Fige nunc oculos intra per abissum\
 &emsp;Eterni consilii, quantum potes\
 &emsp;Ad meum sermonem stricte fixus.
 
-³³ Non potea l'huomo ne' termini suoi\
+33 Non potea l'huomo ne' termini suoi\
 &emsp;Mai satisfar, per non poter ir giuso\
 &emsp;Con humiltà, obediendo poi,
 
-³³ Non poterat homo in terminis suis\
+33 Non poterat homo in terminis suis\
 &emsp;Unquam satisfacere, propter non posse ire infra\
 &emsp;Cum humilitate, obediendo postea,
 
-³⁴ Quanto disobbediendo intese ir suso;\
+34 Quanto disobbediendo intese ir suso;\
 &emsp;E quest'è la ragion perchè l'huom fue\
 &emsp;Da poter satisfar da sè dischiuso.
 
-³⁴ Quantum non obediendo intellexit ire sursum;\
+34 Quantum non obediendo intellexit ire sursum;\
 &emsp;Et ista est ratio quare homo fuit\
 &emsp;A posse satisfacere a se exclusus.
 
-³⁵ Donque a Dio convenia con le vie sue\
+35 Donque a Dio convenia con le vie sue\
 &emsp;Riparar l'huomo a sua intera vita,\
 &emsp;Coll'una, dico, o ver con amendue.
 
-³⁵ Ergo Deum oportebat cum viis suis\
+35 Ergo Deum oportebat cum viis suis\
 &emsp;Reparare hominem ad suam integram vitam,\
 &emsp;Dico cum una vel cum ambabus.
 
-³⁶ Ma perchè l'opra è tanto più gradita\
+36 Ma perchè l'opra è tanto più gradita\
 &emsp;Dell'operante, quanto più appresenta\
 &emsp;De la bontà del cuor donde è escita;
 
-³⁶ Et tantum opera est plus gratuita\
+36 Et tantum opera est plus gratuita\
 &emsp;Operantis, quanto plus representat\
 &emsp;De bonitate cordis, cum illa exivit.
 
-³⁷ La divina bontà, che 'l mondo imprenta,\
+37 La divina bontà, che 'l mondo imprenta,\
 &emsp;Di proceder per tutte le sue vie,\
 &emsp;A rilevarvi suso, fu contenta.
 
-³⁷ Divina bonitas, que mundum imprentat,\
+37 Divina bonitas, que mundum imprentat,\
 &emsp;Procedere per omnes suas vias,\
 &emsp;Ad relevandum nos sursum, fuit contenta.
 
-³⁸ Nè tra l'ultima nocte e 'l primo die\
+38 Nè tra l'ultima nocte e 'l primo die\
 &emsp;Sì alto o sì magnifico processo,\
 &emsp;O per l'uno o per l'altro, fu o fie.
 
-³⁸ Nec inter ultimas rotas et primum diem\
+38 Nec inter ultimas rotas et primum diem\
 &emsp;Tam altus et tam magnificus processus,\
 &emsp;Sive per unum modum sive per alium, fuitvel erit.
 
@@ -412,59 +412,59 @@ Divina bonitas, que mundum imprentat, idest ex nihilo illum creavit, procedere p
 
 <!-- p. 903 (0957) -->
 
-³⁹ Chè più largo fu Dio a dar sè stesso,\
+39 Chè più largo fu Dio a dar sè stesso,\
 &emsp;Per far l'huom sufficiente a rilevarsi,\
 &emsp;Che s'elli avesse sol da sè rimesso:
 
-³⁹ Quia largior fuit Deus ad dandum seipsum,\
+39 Quia largior fuit Deus ad dandum seipsum,\
 &emsp;Ad faciendum hominem sufficientem ad se relevandum,\
 &emsp;Quam si ipse solus a se dimisisset.
 
-⁴⁰ E tutti gl'altri modi erano scarsi\
+40 E tutti gl'altri modi erano scarsi\
 &emsp;A la iustitia, se 'l Figliuol di Dio\
 &emsp;Non fusse humiliato ad incarnarsi.
 
-⁴⁰ Et omnes alii modi erant scarsi\
+40 Et omnes alii modi erant scarsi\
 &emsp;Ad iustitiam, si Filius Dei\
 &emsp;Non humiliasset se ad incarnandum.
 
-⁴¹ Hor per empierti ben ogni desio,\
+41 Hor per empierti ben ogni desio,\
 &emsp;Ritorno a dichiarar in alcun loco,\
 &emsp;Perchè tu veggi lì così com'io.
 
-⁴¹ Nunc, pro adimplendo bene omni tuo desiderio,\
+41 Nunc, pro adimplendo bene omni tuo desiderio,\
 &emsp;Revertor ad declarandum in aliquo loco,\
 &emsp;Ad hoc ut tu videas ibi sicut ego video.
 
-⁴² Tu dici: Io veggio l'aere, e veggio el fuoco,\
+42 Tu dici: Io veggio l'aere, e veggio el fuoco,\
 &emsp;L'acqua, e la terra e tutte lor mixture\
 &emsp;Venir a corruption, e durar poco;
 
-⁴² Tu dicis: Video aquam, video ignem,\
+42 Tu dicis: Video aquam, video ignem,\
 &emsp;Aierem, terram, et omnes earum mixtiones\
 &emsp;Venire ad corruptionem, et durare paucum;
 
-⁴³ E queste cose pur fur creature:\
+43 E queste cose pur fur creature:\
 &emsp;Perchè, se ciò ch'ò decto è stato vero,\
 &emsp;Esser dovrien da corruption secure.
 
-⁴³ Et iste res tamen fuerunt creature:\
+43 Et iste res tamen fuerunt creature:\
 &emsp;Ergo, si dictum tuum fuit verum,\
 &emsp;Esse secure deberent a corruptione.
 
-⁴⁴ Gl'angeli, frate, e 'l paese sincero\
+44 Gl'angeli, frate, e 'l paese sincero\
 &emsp;Nel qual tu se', dir si posson creati,\
 &emsp;Sì come sono, in lor esser intero;
 
-⁴⁴ Angeli, frater, et regio sincera\
+44 Angeli, frater, et regio sincera\
 &emsp;In qua tu es, dici possunt creati,\
 &emsp;Sicut sunt, in eorum esse integro;
 
-⁴⁵ Ma gl'elementi che tu hai nomati,\
+45 Ma gl'elementi che tu hai nomati,\
 &emsp;E quelle cose che di lor si fanno,\
 &emsp;Da creata virtù son informati.
 
-⁴⁵ Sed elementa que tu nominasti,\
+45 Sed elementa que tu nominasti,\
 &emsp;Et ille res que de ipsis fiunt,\
 &emsp;De creata virtute sunt informata.
 
@@ -482,41 +482,41 @@ Nunc respondet: Angeli, o frater, et regio sincera in qua tu es, scilicet celum,
 
 <!-- p. 904 (0958) -->
 
-⁴⁶ Creata fu la materia (¹) ch'egli hanno,\
+46 Creata fu la materia (1) ch'egli hanno,\
 &emsp;Creata fu la materia informante\
 &emsp;In queste stelle che 'ntorno a lor vanno.
 
-⁴⁶ Creata fuit materia quam ipsa habent,\
+46 Creata fuit materia quam ipsa habent,\
 &emsp;Creata fuit virtus informans\
 &emsp;In istis stellis, que circa ipsam vadunt.
 
-⁴⁷ E l'anima d'ogni bruto e delle piante\
+47 E l'anima d'ogni bruto e delle piante\
 &emsp;Di complexion potentiata tira\
 &emsp;Lo raggio e 'l moto de le luci sante.
 
-⁴⁷ Anima[m] omnium brutorum et plantarum\
+47 Anima[m] omnium brutorum et plantarum\
 &emsp;De potentiis complexionatis trahit\
 &emsp;Radius et motus sancte lucis.
 
-⁴⁸ La vostra vita (²) senza mezzo spira\
-&emsp;La somma benenanza (³), e la 'nnamora\
+48 La vostra vita (2) senza mezzo spira\
+&emsp;La somma benenanza (3), e la 'nnamora\
 &emsp;Di sè, sì che poi sempre la disira.
 
-⁴⁸ Sed vestram vitam sine medio spirat\
+48 Sed vestram vitam sine medio spirat\
 &emsp;Summa bonitas, et eam amore capit\
 &emsp;De se ita, quod semper eam desiderat.
 
-⁴⁹ E quinci puoi argomentare ancora\
+49 E quinci puoi argomentare ancora\
 &emsp;Vostra resurrection, se tu ripensi\
 &emsp;Come l'humana carne fessi allora\
 &emsp;Che li primi parenti intrambo fensi.
 
-⁴⁹ Et hinc potes argumentare adhuc\
+49 Et hinc potes argumentare adhuc\
 &emsp;Vestram resurrectionem, si tu recogitas\
 &emsp;Quomodo humana caro facta fuit tunc\
 &emsp;Quando primi parentes ambo facti fuerunt.
 
-(¹) prima — (²) anima — (³) al. bonità.
+(1) prima — (2) anima — (3) al. bonità.
 
 facti, nulla secunda causa concurrente, sicut sunt in eorum esse integro, idest incorruptibiles; sed [elementa] que tu nominasti, de creata virtute, idest de materia prima, sunt informata; et eorum forme sunt etiam de potentia materie facte.
 

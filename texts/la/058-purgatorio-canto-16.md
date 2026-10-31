@@ -8,31 +8,31 @@ In sextodecimo capitulo, quod incipit: Buium, sive tenebra, sive obscuritas, Inf
 
 # Capitulum Sextumdecimum
 
-¹ Buio d'inferno, e di nocte privata\
+1 Buio d'inferno, e di nocte privata\
 &emsp;D'ogni pianeto socto pover cielo,\
 &emsp;Quant' esser può di nuvol tenebrata,
 
-¹ Obscuritas Inferni, et noctis private\
+1 Obscuritas Inferni, et noctis private\
 &emsp;Omni planeta sub paupere celo,\
 &emsp;Quantum esse potest nubibus obtenebrate,
 
-² Non fe'al viso mio sì grosso velo,\
-&emsp;Come quel fumo ch'ivi (¹) ci coperse,\
+2 Non fe'al viso mio sì grosso velo,\
+&emsp;Come quel fumo ch'ivi (1) ci coperse,\
 &emsp;Nè a sentir di così aspero pelo;
 
-² Non fecerunt visui meo ita grossum velum,\
+2 Non fecerunt visui meo ita grossum velum,\
 &emsp;Sicut ille fumus qui ibi nos cooperuit,\
 &emsp;Neque ad sentiendum ita asperi pili;
 
-³ Che l'ochio star aperto nol sofferse:\
+3 Che l'ochio star aperto nol sofferse:\
 &emsp;Onde la scorta mia saputa e fida\
-&emsp;Mi s' accostò, e l'homero (²) m' offerse.
+&emsp;Mi s' accostò, e l'homero (2) m' offerse.
 
-³ Quod oculus stare apertus non sustulit:\
+3 Quod oculus stare apertus non sustulit:\
 &emsp;Unde scorta mea sapiens et fida\
 &emsp;Michi se adhesit, et humerum obtulit.
 
-(¹) che ivi. — (²) la spalla,
+(1) che ivi. — (2) la spalla,
 
 Obscuritas Inferni. Oscuro d'Inferno : istud est sextumdecimum capitulum huius Purgatorii, in quo tractatur de pena, per quam purgantur irosi et iracundi, sive in quo purgatur vitium ire; et dividitur in quatuor partes. In quarum prima tractatur in generali de purgatione ire. In secunda, que incipit ibi:
 
@@ -54,39 +54,39 @@ Quantum ad primum, auctor, continuando dicta dicendis, describit in generali pen
 
 <!-- p. 605 (0659) -->
 
-⁴ Sì come cieco va dietro a sua guida,\
+4 Sì come cieco va dietro a sua guida,\
 &emsp;Per non smarrirsi, o per non dar di cozzo\
-&emsp;In cosa che 'l molesti over l'ancida (¹);
+&emsp;In cosa che 'l molesti over l'ancida (1);
 
-⁴ Sicut cecus vadit retro suum ducem,\
+4 Sicut cecus vadit retro suum ducem,\
 &emsp;Ut non deviet, vel ut non det de capite\
 &emsp;In rem que ipsum molestet, vel forsan occidat;
 
-⁵ N'andava io per l'aere amaro e sozzo,\
+5 N'andava io per l'aere amaro e sozzo,\
 &emsp;Ascoltando mio duca che diceva\
-&emsp;Pur: Guarda (²) da me (³) tu (⁴) non sia mozzo (⁵).
+&emsp;Pur: Guarda (2) da me (3) tu (4) non sia mozzo (5).
 
-⁵ Sic ibam ego per aierem amarum et putridum,\
+5 Sic ibam ego per aierem amarum et putridum,\
 &emsp;Auscultando ducem meum qui dicebat\
 &emsp;Semper: Cave, quod a me tu non sis abscissus.
 
-⁶ Io sentia voci, e ciascuna pare[v]a\
+6 Io sentia voci, e ciascuna pare[v]a\
 &emsp;Pregar, per pace e per misericordia,\
-&emsp;L'Agnel di Dio, che le peccata leva (⁶).
+&emsp;L'Agnel di Dio, che le peccata leva (6).
 
-⁶ Ego sentiebam voces, et quelibet apparebat\
+6 Ego sentiebam voces, et quelibet apparebat\
 &emsp;Precari pro pace et pro misericordia,\
 &emsp;Angelum Dei, qui peccata lavat.
 
-⁷ Pur Agnus Dei eran le loro exordia:\
+7 Pur Agnus Dei eran le loro exordia:\
 &emsp;Una parola in tutt'era e d'un modo,\
 &emsp;Sì che parea tra essi ogni concordia.
 
-⁷ Solum Agnus Dei erant eorum exordia:\
+7 Solum Agnus Dei erant eorum exordia:\
 &emsp;Unum verbum erat in omnibus et unus modus,\
 &emsp;Ita quod apparebat inter ipsos omnis concordia.
 
-(¹) L'uccida. — (²) te. — (³) Virgilio. — (⁴) Dante. — (⁵) separato. — (⁶) purgando.
+(1) L'uccida. — (2) te. — (3) Virgilio. — (4) Dante. — (5) separato. — (6) purgando.
 
 obscurior: ideo dicit noctis private omni planeta. Celum dicitur pauper et egenum, quando est spoliatum suis ornamentis, que sunt stelle), non fecerunt visui mei ita grossum velum, idest non abstulit michi ita in totum visum velando, sicut ille fumus, scilicet quem invenimus in introytu circuli, qui ibi nos cooperuit, nec ad sentiendum ita asperi pili (idest non solum ille fumus erat obscurus, sed etiam in se erat lesivus ad sentiendum, quia ledebat oculos propter sui obscuritatem et densitatem. Hoc probat; quia oculus meus non potuit stare apertus; idest, oculus intellectualis hominis irati non potest stare apertus; ymo quam cito homo ultra decentiam irascitur, subito obscuratur intellectus. Ideo dicit [Ovidius]: Memorem non sinit esse sui ira virum; et Cato dicit: Impedit ira animum, etc.); quod oculus stare apertus non sustulit, idest non est passus; unde scorta mea, idest dux, sapiens et fida, michi [se] accostavit, idest adhesit, et humerum michi obtulit. Quasi dicat Virgilius, sive ratio naturalis, ipsi auctori: Venias ad me, qui offero humerum meum, o dulcis fili, quia nimis est difficile ire per viam tenebrosam; idest nimis esset difficile hominem in ira et iracundia recte discernere, quia ille fumus nimis ledit, idest ira nimis impedit. Deberet etenim omnis homo iratus facere sicut fecit Plato. Postquam, eundo per Egyptum et Gretiam et Ytaliam visitando sapientes, rediit ad domum suam, reperit suos agricolas sua bona dilapidasse; quos, ut vidit, voluit quasi irruere in eos: sed temperans seipsum dixit: Nisi essem iratus, ulciscerer de vobis: sed volo expectare ire recessum. Etiam Archita Tarantinus iam elevaverat baculum contra suum discipulum: demum repressit se et dixit cuidam alteri: Castiga illum pro me, quia magis deberem castigari ego, quam ipse, propter iram in quam exarsi, quia nimis sum iratus.
 
@@ -98,55 +98,55 @@ Solum Agnus Dei erant ipsorum exordia: unum verbum erat in omnibus (Agnus assimi
 
 <!-- p. 606 (0660) -->
 
-⁸ Quei sono spirti (¹), maestro, ch'i' odo?\
-&emsp;Diss'io. Et elli a me (²): Tu'l vero apprendi,\
-&emsp;E d'iracondia van solvendo (³) 'l nodo (⁴).
+8 Quei sono spirti (1), maestro, ch'i' odo?\
+&emsp;Diss'io. Et elli a me (2): Tu'l vero apprendi,\
+&emsp;E d'iracondia van solvendo (3) 'l nodo (4).
 
-⁸ Illuc sunt spiritus, magister, quos ego audio?\
+8 Illuc sunt spiritus, magister, quos ego audio?\
 &emsp;Dixi ego. Et ipse: Tu verum apprehendis,\
 &emsp;Et iracundie vadunt solvendo nodum.
 
-⁹ O tu (⁵) chi se',che 'l nostro fumo fendi,\
+9 O tu (5) chi se',che 'l nostro fumo fendi,\
 &emsp;E di noi parli, pur come se tue\
-&emsp;Partissi ancor lo tempo per kalendi? (⁶)
+&emsp;Partissi ancor lo tempo per kalendi? (6)
 
-⁹ O tu quis es, qui nostrum fumum findis,\
+9 O tu quis es, qui nostrum fumum findis,\
 &emsp;Et de nobis loqueris, ac si tu\
 &emsp;Divideres adhuc tempus per kalendas?
 
-¹⁰ Così per una voce detto fue.\
+10 Così per una voce detto fue.\
 &emsp;Onde 'l maestro mio disse: Rispondi,\
 &emsp;E dimandal se quinci si va sue.
 
-¹⁰ Sic per unam vocem dictum fuit.\
+10 Sic per unam vocem dictum fuit.\
 &emsp;Unde magister michi dixit: Responde,\
 &emsp;Et interroga si hinc itur sursum.
 
-¹¹ Et io (⁷): O creatura, che ti mondi\
-&emsp;Per tornar bella a colui che mi (⁸) fece,\
-&emsp;Maravigla udirai se mi secondi (⁹).
+11 Et io (7): O creatura, che ti mondi\
+&emsp;Per tornar bella a colui che mi (8) fece,\
+&emsp;Maravigla udirai se mi secondi (9).
 
-¹¹ Et ego: O creatura, que te mundas\
+11 Et ego: O creatura, que te mundas\
 &emsp;Ut redeas pulchra ad illum qui te fecit,\
 &emsp;Mirum audies si me secundas.
 
-¹² Io ti seguiterò quanto mi lece (¹⁰),\
+12 Io ti seguiterò quanto mi lece (10),\
 &emsp;Rispose; e se veder fumo non lascia,\
 &emsp;L'udir ci terrà giuncti in quella vece.
 
-¹² Ego te sequar quantum michi licet.\
+12 Ego te sequar quantum michi licet.\
 &emsp;Respondit; et si videre fumus non permicit,\
 &emsp;Loquutio tenebit nos coniunctos.
 
-¹³ Allora incominciai (¹¹): Con quelle fascia (¹²),\
+13 Allora incominciai (11): Con quelle fascia (12),\
 &emsp;Che la morte dissolve men vo' suso,\
 &emsp;E venni qui per infernal ambascia.
 
-¹³ Tunc incepi: Cum illa fascia,\
+13 Tunc incepi: Cum illa fascia,\
 &emsp;Quam mors dissolvit, vado sursum,\
 &emsp;Et veni huc per infernalem angustiam.
 
-(¹) o. — (²) disse — (³) purgando — (⁴) peccato — (⁵) al. or tu — (⁶) mesi — (⁷) dissi — (⁸) al. ti — (⁹) mi seguiterai — (¹⁰) m'è lecito. — (¹¹) a dirli — (¹²) de la carne.
+(1) o. — (2) disse — (3) purgando — (4) peccato — (5) al. or tu — (6) mesi — (7) dissi — (8) al. ti — (9) mi seguiterai — (10) m'è lecito. — (11) a dirli — (12) de la carne.
 
 Illi sunt spiritus, magister, quos ego audio? dixi ego: et ipse ad me: Tu verum apprehendis, idest dicis, et iracundie vadunt solvendo nodum, idest purgando debitum, sive peccatum, ire. Dicit Oratius quod ira est brevis furor; sed iracundia est ira inveterata.
 
@@ -164,55 +164,55 @@ Iam ecce mirum, quod dicturus erat auctor illi spiritui. Tunc incepi, scilicet l
 
 <!-- p. 607 (0661) -->
 
-¹⁴ E se Dio m'ha in sua gratia rinchiuso\
+14 E se Dio m'ha in sua gratia rinchiuso\
 &emsp;Tanto, che vuol ch'i' veggia la sua corte\
-&emsp;Per modo tutto fuor del moderno (¹) uso,
+&emsp;Per modo tutto fuor del moderno (1) uso,
 
-¹⁴ Ac si Deus me in suam gratiam reclusit\
+14 Ac si Deus me in suam gratiam reclusit\
 &emsp;Tantum, quod vult quod videam suam curiam\
 &emsp;Per modum in totum extra modernum usum,
 
-¹⁵ Non mi celar chi fosti anzi la morte,\
+15 Non mi celar chi fosti anzi la morte,\
 &emsp;Ma dilmi, e dimmi s'io vo' ben al varco;\
 &emsp;E tue parole fien le nostre scorte.
 
-¹⁵ Non michi celes qui fuisti ante mortem,\
+15 Non michi celes qui fuisti ante mortem,\
 &emsp;Sed illud michi dicas, et dic michi si vado bene ad varchum;\
 &emsp;Et tua verba erunt nobis duces.
 
-¹⁶ Lombardo fui, e fui chiamato Marco (²):\
-&emsp;Del mondo seppi, e quel valor amai (³)\
+16 Lombardo fui, e fui chiamato Marco (2):\
+&emsp;Del mondo seppi, e quel valor amai (3)\
 &emsp;Al qual ha hor ciascun disteso l'arco:
 
-¹⁶ Lombardus fui, et fui vocatus Marcus:\
+16 Lombardus fui, et fui vocatus Marcus:\
 &emsp;De mundo scivi, et illum valorem amans\
 &emsp;Ad quem nunc quilibet distendit arcum.
 
-¹⁷ Per montar su dirittamente vai.\
+17 Per montar su dirittamente vai.\
 &emsp;Così rispose; e soggiunse: Io ti pregho\
 &emsp;Che per me preghi, quando su sarai.
 
-¹⁷ Pro ascendendo sursum recte vadis.\
+17 Pro ascendendo sursum recte vadis.\
 &emsp;Sic respondit; et subiunxit: Ego te precor\
 &emsp;Quod pro me preceris, quando supra eris.
 
-¹⁸ Et io a lui: Per fede mi ti legho\
+18 Et io a lui: Per fede mi ti legho\
 &emsp;Di far quel che mi chiedi; ma io scoppio\
 &emsp;Dentr'a un dubbio, s'io non me ne spiegho.
 
-¹⁸ Et ego ad eum: Per fidem me tibi ligo,\
+18 Et ego ad eum: Per fidem me tibi ligo,\
 &emsp;Facere id quod a me queris; sed ego scoppio\
 &emsp;Intra unum dubium, si ego me ab illo non spiego.
 
-¹⁹ Prim'era scempio, et hor è facto doppio\
+19 Prim'era scempio, et hor è facto doppio\
 &emsp;Ne la sententia tua, che mi fa certo\
 &emsp;Qui et altrove quel ov'io l'accoppio.
 
-¹⁹ Prius erat simplex, et nunc factum est duplum\
+19 Prius erat simplex, et nunc factum est duplum\
 &emsp;In sententia tua, que facit me certum\
 &emsp;Hic et alibi illud ubi ego ipsum accoppio.
 
-(¹) al. mondano — (²) venetiano — (³) virtù di liberalità.
+(1) al. mondano — (2) venetiano — (3) virtù di liberalità.
 
 pro quia, Deus me in suam gratiam reclausit, tantum quod vult quod videam suam curiam per modum in totum extra modernum usum, quia nullus vadit per talem speculationem poeticam sicut ego vado (duo petit auctor ab isto spiritu: primum est, ut ipse indicet, sibi quis ipse est, et si via, a qua erat, sit bona ad eundum superius), non michi celes qui fuisti ante mortem, sed illud michi dicas, et dic michi si vado bene ad passum; et tua verba erunt nostri duces, nostre scorte.
 
@@ -226,39 +226,39 @@ Prius erat simplex, et nunc factum est duplum in sententia tua, que me facit cer
 
 <!-- p. 608 (0662) -->
 
-²⁰ Lo mondo è ben così tutto diserto\
+20 Lo mondo è ben così tutto diserto\
 &emsp;D'ogni virtute, come tu mi suone,\
-&emsp;E di malitia (¹) gravido e coperto:
+&emsp;E di malitia (1) gravido e coperto:
 
-²⁰ Mundus est ita bene in totum derelictus\
+20 Mundus est ita bene in totum derelictus\
 &emsp;Ab omni virtute, sicut tu michi sonas,\
 &emsp;Et malitia gravidus et coopertus:
 
-²¹ Ma prego che mi decti (²) la cagione,\
+21 Ma prego che mi decti (2) la cagione,\
 &emsp;Si ch'io la veggia, e ch'io la mostri altrui;\
-&emsp;Che l'un in cielo (³), et (⁴)un quaggiù, la pone.
+&emsp;Che l'un in cielo (3), et (4)un quaggiù, la pone.
 
-²¹ Sed precor quod michi dicas causam,\
+21 Sed precor quod michi dicas causam,\
 &emsp;Ita quod illam videam, et quod illam monstrem aliis;\
 &emsp;Quia in celo unus, et alter hic infra, illam ponit.
 
-²² Alto sospir, che 'l duol sospinse (⁵) in hui,\
+22 Alto sospir, che 'l duol sospinse (5) in hui,\
 &emsp;Messe fuor prima, e poi cominciò: Frate,\
 &emsp;Lo mondo è cieco, e tu vien ben da lui.
 
-²² Altum suspirium, quia dolor strinxit in eum,\
+22 Altum suspirium, quia dolor strinxit in eum,\
 &emsp;Mísit extra prius, et postea incepit: Frater,\
 &emsp;Mundus est cecus, et tu bene venis ab illo.
 
-²³ Voi che vivete, ogni cagion recate\
+23 Voi che vivete, ogni cagion recate\
 &emsp;Pur suso al cielo, pur come se tutto\
 &emsp;Movesse seco di necessitate.
 
-²³ Vos qui vivitis, omnem causam reducitis\
+23 Vos qui vivitis, omnem causam reducitis\
 &emsp;Solum sursum ad celum, sic ac si totum\
 &emsp;Moveret secum de necessitate.
 
-(¹) è — (²) al. m'additi. — (³) al. che nel cielo uno — (⁴) l'altro — (⁵) al. duolo strinse.
+(1) è — (2) al. m'additi. — (3) al. che nel cielo uno — (4) l'altro — (5) al. duolo strinse.
 
 Mundus est bene ita in totum derelictus ab omni virtute, sicut tu michi sonas, idest narras, et malitia [gravidus], idest pregnans et coopertus; sed precor quod michi dicas causam, ita quod illam videam, idest cognoscam, et quod illam monstrem aliis, quia in celo unus et unus, idest alter, hic infra, idest in terra, illam ponit. Idest quidam dicit quod celum, sive constellatio, facit bonos homines et malos; quod tamen est falsum: alius dicit quod malitia nostra, fundata in libero arbitrio, est causa tantorum malorum; quod in rei veritate verum est, quod liberum arbitrium inferius est, idest in mundo, inter nos, est causa bonorum morum et malorum.
 
@@ -270,39 +270,39 @@ Nota quod aliqua eveniunt in mundo de necessitate, que non possunt, iuxta opinio
 
 <!-- p. 609 (0663) -->
 
-²⁴ Se così fosse, in voi fora destructo\
+24 Se così fosse, in voi fora destructo\
 &emsp;Libero arbitrio, e non fora iustitia,\
-&emsp;Per ben, (¹) letitia, e per mal, haver lucto(²).
+&emsp;Per ben, (1) letitia, e per mal, haver lucto(2).
 
-²⁴ Si sic esset, in vobis foret destructum\
+24 Si sic esset, in vobis foret destructum\
 &emsp;Liberum arbitrium, et non esset iustitia,\
 &emsp;Pro bono, letitiam, et pro malo, habere luctum.
 
-²⁵ El (³) cielo e vostri movimenti (⁴) inizia:\
+25 El (3) cielo e vostri movimenti (4) inizia:\
 &emsp;Non dico tutti; ma posto ch'io 'l dica,\
 &emsp;Lume v'è dato a bene et a malitia,
 
-²⁵ Celum motus vestros initiat:\
+25 Celum motus vestros initiat:\
 &emsp;Non dico cunctos; sed posito quod dicam,\
 &emsp;Lumen datum est vobis ad bonum et malum,
 
-²⁶ E libero voler che s'affatica,\
+26 E libero voler che s'affatica,\
 &emsp;Ne le prime battagle col ciel dura,\
 &emsp;Poi vince tutto, se ben si nutrica.
 
-²⁶ Et liberum velle quod se fatigat,\
+26 Et liberum velle quod se fatigat,\
 &emsp;In primis preliis cum celo durat,\
 &emsp;Postea vincit totum, si bene se nutrit.
 
-²⁷ A maggior forza (⁵) et a miglior natura (⁶)\
-&emsp;Liberi subiacete, e quella cria (⁷)\
-&emsp;La mente (⁸) in voi, che (⁹)'l ciel non ha in sua cura.
+27 A maggior forza (5) et a miglior natura (6)\
+&emsp;Liberi subiacete, e quella cria (7)\
+&emsp;La mente (8) in voi, che (9)'l ciel non ha in sua cura.
 
-²⁷ Maiori fortitudini et meliori nature\
+27 Maiori fortitudini et meliori nature\
 &emsp;Liberi subiacetis, et illa creat\
 &emsp;Mentem in vobis, quam celum non habet in sua cura.
 
-(¹) operare — (²) pena o dolore. — (³) al. lo — (⁴) primi, qui non sunt in potestate nostra — (⁵) potentia — (⁶) a Dio — (⁷) natura e potentia divina — (⁸) l'anima — (⁹) la quale anima.
+(1) operare — (2) pena o dolore. — (3) al. lo — (4) primi, qui non sunt in potestate nostra — (5) potentia — (6) a Dio — (7) natura e potentia divina — (8) l'anima — (9) la quale anima.
 
 Postea sunt secundi motus: idest quando quis, facta tali apprehensione rerum delectabilium et tristabilium, in talibus delectatur, et proponit, eligit, disponit et preparat se ad faciendum. Et isti secundi motus sunt bene in nostra potestate, et circa tales accidit verecundia vel honor. Vult dicere auctor, quod [licet] celum causet primos motus in nobis, non tamen causat secundos. Et etiam si causaret secundos motus in nobis, non tamen posset illos necessitare, quia in nobis [est] principium electivum, scilicet liberum arbitrium, quod non potest violentare ipsum celum. Licet ipsum celum aliquando inclinet, liberum arbitrium habet pugnare cum celo et preliare, et semper potest vincere; quia, quamquam celum inclinet ad hoc vel aliud, ipsum liberum arbitrium potest illud facere, si vult, et non facere, si non vult. Ideo dicit Tholomeus: Sapiens dominatur astris, idest vincit inclinationem celi et constellationem: et sic nostrum liberum arbitrium libere subiicitur Deo et divinitati; et illa, scilicet divinitas, arat animam puram et nitidam et nihil scientem. Ideo dicit Philosophus, quod anima nostra in primo suo esse est tamquam tabula rasa, in qua nihil est depictum, sed demum addiscit, etc.
 
@@ -316,55 +316,55 @@ Maiori fortitudini et meliori nature liberi subiacetis; et illa, scilicet natura
 
 <!-- p. 610 (0664) -->
 
-²⁸ Però, se 'l mondo presente (¹) disvia (²),\
+28 Però, se 'l mondo presente (1) disvia (2),\
 &emsp;In voi è la cagion, in voi si chieggia,\
-&emsp;Et io te ne sarò hor vera spia (³).
+&emsp;Et io te ne sarò hor vera spia (3).
 
-²⁸ Ergo, si mundus presens deviat,\
+28 Ergo, si mundus presens deviat,\
 &emsp;In vobis est causa, in vobis queratur,\
 &emsp;Et ego tibi de hoc ero nunc explorator.
 
-²⁹ Esce di mano a lui (⁴), che la vagheggia\
+29 Esce di mano a lui (4), che la vagheggia\
 &emsp;Prima che sia, a guisa di fanciulla\
 &emsp;Che piangendo e ridendo pargoleggia,
 
-²⁹ Exit de manu illius, qui illam intuetur,\
+29 Exit de manu illius, qui illam intuetur,\
 &emsp;Priusquam sit, ad similitudinem puelle\
 &emsp;Que plorando et ridendo pargolezzat,
 
-³⁰ L'anima semplicetta, che sa nulla (⁵),\
+30 L'anima semplicetta, che sa nulla (5),\
 &emsp;Salvo che, mossa da lieto Factore,\
-&emsp;Volentier torna a ciò che la trastulla (⁶).
+&emsp;Volentier torna a ciò che la trastulla (6).
 
-³⁰ Anima simplex, que nihil scit,\
+30 Anima simplex, que nihil scit,\
 &emsp;Salvo quod, mota ab alto Factore,\
 &emsp;Libenter redit ad id quod eam solatiatur.
 
-³¹ Di piccol ben (⁷) prima sente sapore;\
-&emsp;Quivi (⁸) s'inganna, e dietro ad esso (⁹) corre,\
-&emsp;Se guida (¹⁰) o freno (¹¹) non torce suo amore.
+31 Di piccol ben (7) prima sente sapore;\
+&emsp;Quivi (8) s'inganna, e dietro ad esso (9) corre,\
+&emsp;Se guida (10) o freno (11) non torce suo amore.
 
-³¹ Parvi boni primo sentit saporem;\
+31 Parvi boni primo sentit saporem;\
 &emsp;Ibi decipitur, et retro illud currit,\
 &emsp;Si dux vel frenum non torquet suum amorem.
 
-³² Onde convenne (¹²) leggie per fren (¹³) porre;\
-&emsp;Convene rege (¹⁴) haver, che discernesse\
-&emsp;De la vera città (¹⁵) almen la torre.
+32 Onde convenne (12) leggie per fren (13) porre;\
+&emsp;Convene rege (14) haver, che discernesse\
+&emsp;De la vera città (15) almen la torre.
 
-³² Unde convenit legem pro freno ponere;\
+32 Unde convenit legem pro freno ponere;\
 &emsp;Convenit regem habere, qui discernat\
 &emsp;Vere civitatis saltem turrim.
 
-³³ Le leggi son (¹⁶), ma chi pon mano ad esse?\
-&emsp;Nullo; però che 'l pastor (¹⁷) che precede\
-&emsp;Ruminar può (¹⁸), ma non ha l'unghie fesse (¹⁹).
+33 Le leggi son (16), ma chi pon mano ad esse?\
+&emsp;Nullo; però che 'l pastor (17) che precede\
+&emsp;Ruminar può (18), ma non ha l'unghie fesse (19).
 
-³³ Leges sunt, sed quis ponit manus ad illas?\
+33 Leges sunt, sed quis ponit manus ad illas?\
 &emsp;Nullus; eo quia pastor qui precedit,\
 &emsp;Ruminari potest, sed non habet ungulas fixas.
 
-(¹) mundani homines — (²) da le virtù — (³) declaratione — (⁴) a Dio — (⁵) la quale non sa alcuna cosa — (⁶) li dà dilecto — (⁷) temporale — (⁸) In quel ben temporale — (⁹) ben temporale — (¹⁰) ragione — (¹¹) legge — (¹²) a Dio — (¹³) freno — (¹⁴) rationem — (¹⁵) di vita eterna — (¹⁶) divine et humane — (¹⁷) prelato — (¹⁸) bene loqui — (¹⁹) discretionem boni et mali.
+(1) mundani homines — (2) da le virtù — (3) declaratione — (4) a Dio — (5) la quale non sa alcuna cosa — (6) li dà dilecto — (7) temporale — (8) In quel ben temporale — (9) ben temporale — (10) ragione — (11) legge — (12) a Dio — (13) freno — (14) rationem — (15) di vita eterna — (16) divine et humane — (17) prelato — (18) bene loqui — (19) discretionem boni et mali.
 
 Modo Marcus declarat auctori, unde provenit quod mundus sit ita pravus, dicens: Ergo si mundus pravus deviat, idest a via bonorum morum et virtutum, in vobis est causa, scilicet vestra prava malitia; in vobis queratur, talis causa scilicet: et ego tibi de hoc ero nunc verus explorator, idest declarabo te bene de hoc.
 
@@ -376,63 +376,63 @@ Leges sunt, sed quis ponit manus ad illas? idest quis observat illas? Nullus; eo
 
 <!-- p. 611 (0665) -->
 
-³⁴ Perchè la gente (¹), che sua guida (²) vede\
-&emsp;Pur a quel ben ferir (³) ond'ella (⁴) è ghiotta (⁵),\
-&emsp;Di quel (⁶) si pasce, e più oltre non chiede.
+34 Perchè la gente (1), che sua guida (2) vede\
+&emsp;Pur a quel ben ferir (3) ond'ella (4) è ghiotta (5),\
+&emsp;Di quel (6) si pasce, e più oltre non chiede.
 
-³⁴ Ex quo gens, que suum ducem videt\
+34 Ex quo gens, que suum ducem videt\
 &emsp;Solum ad illud bonum ferire unde ipsa est avida,\
 &emsp;De illo pascitur, et ulterius non querit.
 
-³⁵ Ben puoi veder che la mala condocta (⁷)\
+35 Ben puoi veder che la mala condocta (7)\
 &emsp;È la cagion che 'l mondo è facto reo,\
 &emsp;E non natura che in voi sia corrotta.
 
-³⁵ Bene potes videre quod mala conducta\
+35 Bene potes videre quod mala conducta\
 &emsp;Est causa que mundum fecit reum,\
 &emsp;Et non natura que in vobis sit corrupta.
 
-³⁶ Soleva Roma, che 'l buon mondo (⁸) feo (⁹),\
-&emsp;Due soli (¹⁰) haver, che (¹¹) l'una e l'altra strada\
-&emsp;Facean veder, e del mondo (¹²) e di Deo (¹³).
+36 Soleva Roma, che 'l buon mondo (8) feo (9),\
+&emsp;Due soli (10) haver, che (11) l'una e l'altra strada\
+&emsp;Facean veder, e del mondo (12) e di Deo (13).
 
-³⁶ Solebat Roma, que mundum bonum fecit,\
+36 Solebat Roma, que mundum bonum fecit,\
 &emsp;Duos soles habere, qui utramque stratam\
 &emsp;Faciebant videre, et mundi et Dei.
 
-³⁷ L'un l'altro ha spento; et è giunta la spada\
+37 L'un l'altro ha spento; et è giunta la spada\
 &emsp;Col pasturale; e l'un coll'altro insieme\
 &emsp;Per viva forza mal convien che vada;
 
-³⁷ Unus alium extinxit; et est coniunctus ensis\
+37 Unus alium extinxit; et est coniunctus ensis\
 &emsp;Cum pastorali; et unum cum reliquo insimul\
 &emsp;Per vivam vim male convenit quod vadat;
 
-³⁸ Però che, giunti, l'un l'altro non teme.\
-&emsp;Se non mi credi, pon mente alla spiga (¹⁴),\
-&emsp;Ch' (¹⁵) ogni herba si conosce per (¹⁶) suo seme.
+38 Però che, giunti, l'un l'altro non teme.\
+&emsp;Se non mi credi, pon mente alla spiga (14),\
+&emsp;Ch' (15) ogni herba si conosce per (16) suo seme.
 
-³⁸ Eo quia, iuncti, unus alterum non timet.\
+38 Eo quia, iuncti, unus alterum non timet.\
 &emsp;Si michi non credis, ponas mentem ad spicam,\
 &emsp;Quia omnis herba cognoscitur per semen.
 
-³⁹ In sul paese ch'Adice e Po riga\
+39 In sul paese ch'Adice e Po riga\
 &emsp;Solea valor e cortesia trovarsi\
 &emsp;Prima che Federigo havesse briga:
 
-³⁹ Super patria quam Adex et Padus rigat\
+39 Super patria quam Adex et Padus rigat\
 &emsp;Solebant valor et curialitas reperiri\
 &emsp;Priusquam Fredericus haberet rixam:
 
-⁴⁰ Or può sicuramente indi passarsi\
+40 Or può sicuramente indi passarsi\
 &emsp;Per qualunque lassasse, per vergogna\
-&emsp;Di ragionar co'buoni o appressarsi (¹⁷).
+&emsp;Di ragionar co'buoni o appressarsi (17).
 
-⁴⁰ Nunc potest secure inde transire\
+40 Nunc potest secure inde transire\
 &emsp;Quicumque dimicteret, propter verecundiam\
 &emsp;Ratiocinandi cum bonis vel appropinquari.
 
-(¹) mondana — (²) prelato — (³) attendere — (⁴) gente -- (⁵) cupida — (⁶) ben temporale — (⁷) reggimento de' prelati -- (⁸) al. che buon el mondo feo — (⁹) olim — (¹⁰) lumi — (¹¹) e quali due, papa et imperadore — (¹²) l'imperadore — (³) lo papa — (¹⁴) al fructo — (¹⁵) perchè — (¹⁶) al. per lo — (¹⁷) a'buoni.
+(1) mondana — (2) prelato — (3) attendere — (4) gente -- (5) cupida — (6) ben temporale — (7) reggimento de' prelati -- (8) al. che buon el mondo feo — (9) olim — (10) lumi — (11) e quali due, papa et imperadore — (12) l'imperadore — (3) lo papa — (14) al fructo — (15) perchè — (16) al. per lo — (17) a'buoni.
 
 Nota etiam, quod Marcus vult dicere quod mala exempla, que dant pastores Ecclesie, sunt causa quod populi errent et male agant: qui videntes populi mala opera prelatorum et eorum ad quos spectat alios corrigere, dicunt: Sic facit Papa; sic faciunt Cardinales et Episcopi: quare nos non possumus similiter facere et amplius? Nos videmus quod prelati Ecclesie amant, querunt, divitias, sequuntur delectabilia. Aut sic facere bonum est, et ideo sic faciunt; et tunc nos debemus eos sequi, et facere similiter sicut ipsi faciunt: vel sciunt quod cumulare pecunias, vacare delectationibus sensualitatis, est malum; sed quia ipsi sciunt quod Deus est tantum misericors, quod omnibus remictit, et ideo non abstinent, sic et similiter debemus sperare in misericordia divina, et similia operari. Bene dicit Aristoteles, et sic etiam dicit Augustinus, quod pastores et rectores deberent regere populos et dirigere, ymo pastores reddere rationem de tot animabus, quot dederunt mala exempla, quibus fuerunt causa male operandi. Ex quo gens, que suum ducem videt solum ad illud bonum ferire, idest intendere, unde ipsa est avida, idest quod ipsa appetit, de illo pascitur et ulterius non querit. Bene potes videre quod mala conducta, idest malum regimen, est causa quod mundus facit malum, et non natura, que sit in omnibus.
 
@@ -444,39 +444,39 @@ Super patria. In sul paese: ista est quarta pars huius capituli, in qua predictu
 
 <!-- p. 612 (0666) -->
 
-⁴¹ Ben v'è tre vechi ancor, in cui rampogna\
-&emsp;L'antica età la nuova (¹), e par lor tardo\
+41 Ben v'è tre vechi ancor, in cui rampogna\
+&emsp;L'antica età la nuova (1), e par lor tardo\
 &emsp;Che Dio a miglior vita li ripogna:
 
-⁴¹ Bene ibi sunt tres antiqui adhuc, in quibus viget\
+41 Bene ibi sunt tres antiqui adhuc, in quibus viget\
 &emsp;Antiqua etas et nova, et videtur eis tarde\
 &emsp;Quod Deus in meliori vita illos reponat:
 
-⁴² Currado da Palazzo, e 'l buon Gherardo,\
-&emsp;E Guido da Castel, che me' (²) si noma\
+42 Currado da Palazzo, e 'l buon Gherardo,\
+&emsp;E Guido da Castel, che me' (2) si noma\
 &emsp;Francescamente el semplice Lombardo.
 
-⁴² Conradus de Palatio, et bonus Gherardus,\
+42 Conradus de Palatio, et bonus Gherardus,\
 &emsp;Et Guido de Castello, qui melius nominatur\
 &emsp;Gallice simplex Lombardus.
 
-⁴³ Di'oggimai che la Chiesa di Roma,\
-&emsp;Per confonder in sè due reggimenti (³),\
-&emsp;Cade nel fango, e sè (⁴) inbructa e la soma (⁵).
+43 Di'oggimai che la Chiesa di Roma,\
+&emsp;Per confonder in sè due reggimenti (3),\
+&emsp;Cade nel fango, e sè (4) inbructa e la soma (5).
 
-⁴³ Dicas ammodo quod Ecclesia romana,\
+43 Dicas ammodo quod Ecclesia romana,\
 &emsp;Propter confundere in se duo regimina,\
 &emsp;Cadit in lutum, et se deturpat et salmam.
 
-⁴⁴ Marco mio, dixi, tu ben argomenti;\
-&emsp;Et hor discerno, perchè dal redaggio (⁶)\
+44 Marco mio, dixi, tu ben argomenti;\
+&emsp;Et hor discerno, perchè dal redaggio (6)\
 &emsp;I figli di Levi furon exempti.
 
-⁴⁴ O Marce mi, dixi ego, bene argumentas;\
+44 O Marce mi, dixi ego, bene argumentas;\
 &emsp;Et nunc intelligo, quare ab hereditate\
 &emsp;Fili Levi fuerunt exempti.
 
-(¹) età — (²) meglio — (³) spirituale e temporale — (⁴) medesima — (⁵) e sudditi — (⁶) da la parte dell'altre tribù, o vero, heredità.
+(1) età — (2) meglio — (3) spirituale e temporale — (4) medesima — (5) e sudditi — (6) da la parte dell'altre tribù, o vero, heredità.
 
 autem magna patria et bona, in qua solebant esse multi probi viri, valentes, virtuosi et liberales, saltem antequam Fredericus imperator moveret guerram et rebellaret se Pape; qui Fredericus persecutus est Ecclesiam tempore quatuor summorum Pontificum, et tunc multi homines sequuti sunt vitia.
 
@@ -494,41 +494,41 @@ Nunc auctor commendat Marcum, de hiis que tantum bene dixit, laudans eum declara
 
 <!-- p. 613 (0667) -->
 
-⁴⁵ Ma quel Gherardo è quel che tu, per saggio,\
-&emsp;Di' (¹) ch'è rimaso della gente spenta,\
-&emsp;In rimprovero (²) del secol selvaggio?
+45 Ma quel Gherardo è quel che tu, per saggio,\
+&emsp;Di' (1) ch'è rimaso della gente spenta,\
+&emsp;In rimprovero (2) del secol selvaggio?
 
-⁴⁵ Sed ille Gherardus quis est? est ille quem tu, pro sapiente, dicis\
+45 Sed ille Gherardus quis est? est ille quem tu, pro sapiente, dicis\
 &emsp;Quod remansit de gente extincta,\
 &emsp;In improperium seculi silvestris?
 
-⁴⁶ O tuo parlar m'inganna, o e' mi tenta,\
+46 O tuo parlar m'inganna, o e' mi tenta,\
 &emsp;Rispose a me; chè, parlandomi tosco,\
 &emsp;Par che del buon Gherardo nulla senta.
 
-⁴⁶ Vel tua loquela decipit me, vel temptat,\
+46 Vel tua loquela decipit me, vel temptat,\
 &emsp;Respondit michi; quia, loquens michi tusce,\
 &emsp;Videtur quod de bono Gherardo nihil sentias.
 
-⁴⁷ Per altro sopranome io nol cognosco,\
+47 Per altro sopranome io nol cognosco,\
 &emsp;S'io nol toglessi da sua figla Ghaia.\
 &emsp;Dio sia con voi, chè più non vegno vosco.
 
-⁴⁷ Per aliud cognomen ego illum non cognosco,\
+47 Per aliud cognomen ego illum non cognosco,\
 &emsp;Nisi ego illum tollerem a filia sua Gaya.\
 &emsp;Deus sit vobiscum, quia plus non venio vobiscum.
 
-⁴⁸ Vedi l'alber (³) che per lo fiume raia,\
+48 Vedi l'alber (3) che per lo fiume raia,\
 &emsp;Già biancheggiar; e me conviene partirmi,\
 &emsp;L'angelo è ivi, prima che lì paia.\
 &emsp;Così tornò, e più non volle udirmi.
 
-⁴⁸ Vide alborem qui per flumen radiat\
+48 Vide alborem qui per flumen radiat\
 &emsp;Iam albefieri; et michi convenit recedere,\
 &emsp;Angelus est ibi, priusquam appareat.\
 &emsp;Sic locutus est, et ulterius noluit audire.
 
-(¹) dici — (²) al. impropero — (³) l'arboro.
+(1) dici — (2) al. impropero — (3) l'arboro.
 
 Modo auctor videtur non habere notitiam perfectam de Gherardo, de quo superius dictum est. Ideo interrogat, dicens: Sed ille Gherardus, supple quis est? est ille, quem tu, pro sapiente, dicis quod remansit de gente extincta, scilicet virtuosa que amplius non est, [in] improperium seculi silvestris? idest, qui remansit ad improperandum et corrigendum malos homines.
 

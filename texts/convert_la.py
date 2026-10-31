@@ -242,17 +242,11 @@ MISNUMBERED = {(350, "it", 2): 3, (758, "it", 38): 37, (810, "la", 46): 45, (118
 MISPRINTED_HEAD = {710: "PURGATORI"}
 
 SUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
-TO_SUP = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
 NUMBER = re.compile(r"([⁰¹²³⁴⁵⁶⁷⁸⁹]+|\d+) ")  # a tercet number at the start of a verse line
 # The scribe's verses at the end of a cantica, with their own gloss line: scan -> first words.
 COLOPHON = {868: "Qui scripsit scribat", 1268: "Qui scripsit scribat"}
 CLOSING = re.compile(r"(?:FINIT|EXPLICIT) [A-Z ]+\.$")
 GLOSS = re.compile(r"\((?:[¹²³⁴⁵⁶⁷⁸⁹]+|\d{1,2})\)")  # `(1) costui. — (2) sarà.`
-
-
-def sup_marks(line):
-    """Gloss marks in superscript, as in texts/la before ocr/la took plain digits: `(¹)`."""
-    return re.sub(r"\((\d{1,2})\)", lambda m: f"({m.group(1).translate(TO_SUP)})", line)
 
 
 def text_of(n):
@@ -700,27 +694,26 @@ def convert_canto(cantica, c, errors):
                         errors.append(f"{n:04d}: the last line on a page of its own")
                     verse["it"][-1][2].extend(li)
                     verse["la"][-1][2].extend(ll)
-                    parts[-2] += "\\\n&emsp;" + sup_marks(esc(li[0]))
-                    parts[-1] += "\\\n&emsp;" + sup_marks(esc(ll[0]))
+                    parts[-2] += "\\\n&emsp;" + esc(li[0])
+                    parts[-1] += "\\\n&emsp;" + esc(ll[0])
                     continue
                 k = len(verse["it"]) + 1
                 verse["it"].append((n, ni, li))
                 verse["la"].append((n, nl, ll))
                 for lines_ in (li, ll):
-                    parts.append(f"{str(k).translate(TO_SUP)} "
-                                 + "\\\n&emsp;".join(sup_marks(esc(l)) for l in lines_))
+                    parts.append(f"{k} " + "\\\n&emsp;".join(esc(l) for l in lines_))
             parts += [esc(l) for l in ends]
             if gl:
-                parts.append(sup_marks(esc(join_lines(gl, f"{n:04d}"))))
+                parts.append(esc(join_lines(gl, f"{n:04d}")))
         body = [l for b in rest for l in b]
         width = column_width(body)
         for bi, b in enumerate(rest):
             if b[0] == "[figure]":  # its printed labels, one per line (1245, 1247)
                 parts.append("\\\n".join(esc(l) for l in b))
             elif b[0].startswith(COLOPHON.get(n, "\0")):  # verse, kept line by line
-                parts.append("\\\n".join(sup_marks(esc(l)) for l in b))
+                parts.append("\\\n".join(esc(l) for l in b))
             elif GLOSS.match(b[0]) and bi and rest[bi - 1][0].startswith(COLOPHON.get(n, "\0")):
-                parts.append(sup_marks(esc(join_lines(b, f"{n:04d}"))))
+                parts.append(esc(join_lines(b, f"{n:04d}")))
             else:
                 add_paragraphs(parts, paragraphs(b, width), n, carry if bi == 0 else None)
         last_line = body[-1] if body else ""

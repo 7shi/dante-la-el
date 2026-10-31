@@ -8,19 +8,19 @@ In isto sextodecimo capitulo, quod incipit: O pauca nostra nobilitas sanguinis, 
 
 # Capitulum Sextumdecimum
 
-¹ O poca nostra nobiltà di sangue,\
+1 O poca nostra nobiltà di sangue,\
 &emsp;Se gloriar di te la gente fai\
 &emsp;Quaggiù, dove l'affecto nostro langue,
 
-¹ O pauca nostra nobilitas sanguinis,\
+1 O pauca nostra nobilitas sanguinis,\
 &emsp;Si de te facis gloriari gentem\
 &emsp;Hic inferius, ubi affectus noster languet,
 
-² Mirabil cosa non mi sarà mai;\
+2 Mirabil cosa non mi sarà mai;\
 &emsp;Chè là, du' l'appetito non si torce,\
 &emsp;Dico nel cielo, io men gloriai.
 
-² Mirabilis res non erit michi unquam;\
+2 Mirabilis res non erit michi unquam;\
 &emsp;Quia ubi appetitus non torquetur,\
 &emsp;Dico in celo, ego de illo gloriatus fui.
 
@@ -42,51 +42,51 @@ O pauca nostra nobilitas sanguinis, si de te facis gloriari gentem hic inferius,
 
 <!-- p. 1009 (1063) -->
 
-³ Ben se'tu manto che tosto raccorce,\
+3 Ben se'tu manto che tosto raccorce,\
 &emsp;Sì che, se non s'appone di die in die,\
 &emsp;Lo tempo va dintorno co' le force.
 
-³ Bene es tu mantellus qui cito retraheris,\
+3 Bene es tu mantellus qui cito retraheris,\
 &emsp;Ita quod, si non apponitur de die in diem,\
 &emsp;Tempus vadit circum cum forcipibus.
 
-⁴ Dal Voi, che prima a Roma s'offerie,\
+4 Dal Voi, che prima a Roma s'offerie,\
 &emsp;In che la sua famigla men persevra,\
 &emsp;Rincominciaron le parole mie.
 
-⁴ A Vobis, quod primo Roma sustinuit,\
+4 A Vobis, quod primo Roma sustinuit,\
 &emsp;In quo sua familia minus perseverat,\
 &emsp;Reinceperunt verba mea.
 
-⁵ E Beatrice, ch' era um poco scevra,\
+5 E Beatrice, ch' era um poco scevra,\
 &emsp;Ridendo, parve quella che tossìo\
 &emsp;Al primo fallo scripto di Ginevra.
 
-⁵ Unde Beatrix, que erat aliquantulum scevera,\
+5 Unde Beatrix, que erat aliquantulum scevera,\
 &emsp;Ridendo, apparuit ille qui tussivit\
 &emsp;Ad primum defectum scriptum de Zenevra.
 
-⁶ Io cominciai: Voi sete 'l padre mio;\
+6 Io cominciai: Voi sete 'l padre mio;\
 &emsp;Vo' mi date a parlar tutta baldezza,\
 &emsp;Voi mi levate sì, ch'io son più ch'io.
 
-⁶ Ego incepi: Vos estis pater meus,\
+6 Ego incepi: Vos estis pater meus,\
 &emsp;Vos michi datis ad loquendum tantam audaciam,\
 &emsp;Vos me elevatis ita, quod ego sum plus quam ego.
 
-⁷ Per tanti rivi sempr' è d'allegrezza\
+7 Per tanti rivi sempr' è d'allegrezza\
 &emsp;La mente mia, che di sè fa letitia\
 &emsp;Perchè sostener pò che non si spezza.
 
-⁷ Per tot rivos impletur letitia\
+7 Per tot rivos impletur letitia\
 &emsp;Mens mea, quod de se facit letitiam\
 &emsp;Quare potest sustinere quod se non frangit.
 
-⁸ Ditemi donque, cara mia primitia,\
+8 Ditemi donque, cara mia primitia,\
 &emsp;Quai fur gl'antichi vostri, e quai fur gl'anni\
 &emsp;Che si segnaro in vostra pueritia.
 
-⁸ Dicite michi ergo, o cara mea primitia,\
+8 Dicite michi ergo, o cara mea primitia,\
 &emsp;Qui fuerunt vestri antiqui, qui fuerunt anni\
 &emsp;Qui signati fuerunt in vestra pueritia.
 
@@ -102,43 +102,43 @@ Ex quo igitur michi datis tantum gaudium, peto a vobis quatuor: scilicet, qui fu
 
 <!-- p. 1010 (1064) -->
 
-⁹ Ditemi dell'ovil di San Giovanni\
+9 Ditemi dell'ovil di San Giovanni\
 &emsp;Quant'era allor, e chi eran le genti\
 &emsp;Tra esso degne di più alti scanni.
 
-⁹ Dicite michi de ovili Sancti Ioannis\
+9 Dicite michi de ovili Sancti Ioannis\
 &emsp;Quantum erat tunc, et que erant gentes\
 &emsp;Intra ipsum digne altioribus scampnis.
 
-¹⁰ Come s'avviva per soffiar de'venti\
+10 Come s'avviva per soffiar de'venti\
 &emsp;Carbon in fiamma, così vid'io quella\
 &emsp;Luce risplender a' mie' blandimenti:
 
-¹⁰ Sicut vivificatur ad spirationem ventorum\
+10 Sicut vivificatur ad spirationem ventorum\
 &emsp;Carbo in flamma, sic vidi ego illam\
 &emsp;Lucem resplendere meis blandimentis:
 
-¹¹ E com' agl' ochi miei si fe'più bella,\
+11 E com' agl' ochi miei si fe'più bella,\
 &emsp;Così con voce più dolce e suave,\
 &emsp;Ma non con questa mondana favella,
 
-¹¹ Et sicut oculis meis fuit facta pulchrior,\
+11 Et sicut oculis meis fuit facta pulchrior,\
 &emsp;Sic cum voce magis dulci et suavi,\
 &emsp;Sed non cum ista moderna loquela,
 
-¹² Dissemi: Da quel dì che fu detto Ave,\
+12 Dissemi: Da quel dì che fu detto Ave,\
 &emsp;Al parto in che mia madre, ch'è hor sancta,\
 &emsp;S'alleviò di me ond'era grave,
 
-¹² Dixit michi: Ab illo die quo dictum fuit Ave,\
+12 Dixit michi: Ab illo die quo dictum fuit Ave,\
 &emsp;Partui in quo mater mea, que nunc est sancta,\
 &emsp;Se alleviavit de me unde erat gravis,
 
-¹³ Al sol Leone cinquecen cinquanta\
+13 Al sol Leone cinquecen cinquanta\
 &emsp;E trenta fiate venn'esto foco\
 &emsp;A rinfiammarsi socto la sua pianta.
 
-¹³ Ad suum Leonem quingentis quinquaginta\
+13 Ad suum Leonem quingentis quinquaginta\
 &emsp;Et triginta vicibus venit iste ignis\
 &emsp;Ad reinflammandum se sub sua planeta.
 
@@ -150,55 +150,55 @@ Sicut vivificatur, idest magis inflammatur, ad spirationem ventorum, carbo in fl
 
 <!-- p. 1011 (1065) -->
 
-¹⁴ Gl'antichi miei et io nacqui nel loco\
+14 Gl'antichi miei et io nacqui nel loco\
 &emsp;Ove si trova pria l'ultimo sexto\
-&emsp;Da quei (¹) che corre al vostro annual gioco.
+&emsp;Da quei (1) che corre al vostro annual gioco.
 
-¹⁴ Antiqui mei et ego nati sumus in illo loco\
+14 Antiqui mei et ego nati sumus in illo loco\
 &emsp;Ubi reperitur prius ultimum sextum\
 &emsp;Ab illo qui currit ad vestrum annualem ludum.
 
-¹⁵ Basti de' miei maggior udirne questo,\
+15 Basti de' miei maggior udirne questo,\
 &emsp;Chi essi fosser, e onde venner quivi,\
 &emsp;Più è tacer, che ragionar, honesto.
 
-¹⁵ Sufficiat de meis maioribus audire hoc,\
+15 Sufficiat de meis maioribus audire hoc,\
 &emsp;Qui ipsi fuerunt, et unde venerunt illuc,\
 &emsp;Plus est tacere, quam ratiocinari, pulchrum.
 
-¹⁶ Tutti color ch'a quei tempi eran ivi\
+16 Tutti color ch'a quei tempi eran ivi\
 &emsp;Da poter arme, tra Marte e 'l Baptista,\
 &emsp;Erano 'l quinto di quei che son vivi.
 
-¹⁶ Omnes illi qui illo tempore erant ibi\
+16 Omnes illi qui illo tempore erant ibi\
 &emsp;Ad portandum arma, inter Martem et Baptistam,\
 &emsp;Erant quinta pars illorum qui nunc sunt ibi.
 
-¹⁷ Ma la cittadinanza, ch'è hor mista\
+17 Ma la cittadinanza, ch'è hor mista\
 &emsp;Di Campi, di Certaldo e di Feghine,\
 &emsp;Pura vedeasi nell'ultimo artista.
 
-¹⁷ Sed civilitas, que nunc est mixta\
+17 Sed civilitas, que nunc est mixta\
 &emsp;De Campis, de Certaldis et de Fyghinis,\
 &emsp;Pura videbatur in ultimo artista.
 
-¹⁸ O quanto fora meglo esser vicine\
+18 O quanto fora meglo esser vicine\
 &emsp;Quelle genti ch'io dico, et al Galluzzo,\
 &emsp;Et a Trespiano haver vostre confine,
 
-¹⁸ O quantum esset melius esse vicinas\
+18 O quantum esset melius esse vicinas\
 &emsp;Illas gentes quas dico, et a Gallutio\
 &emsp;Et Trespiano habere vestros confines,
 
-¹⁹ Ch'averli dentro, a sostener el puzzo\
+19 Ch'averli dentro, a sostener el puzzo\
 &emsp;Del Villan d'Aguglon, di quel da Segna,\
 &emsp;Che già per baractar ha l'ochio aguzzo!
 
-¹⁹ Quam habere intus ipsas, ad sustinendum putredinem\
+19 Quam habere intus ipsas, ad sustinendum putredinem\
 &emsp;Villani de Guglione, et illius de Signa,\
 &emsp;Qui iam pro baractare habet oculum acutum!
 
-(¹) al. quel.
+(1) al. quel.
 
 Ex quo dominus Cacciaguida primo declaravit secundam petitionem, modo declarat primam. Nam sic placuit sibi primo respondere ad secundam; demum respondet ad primam, dicens: Antiqui mei et ego nati sumus in illo loco, ubi reperitur prius ultimum sextum, idest in principio ultimi sexterii (quasi dicat in Mercato Veteri, ubi est solempnior habitatio totius civitatis), ab illo, idest a currente et cursore, qui currit ad vestrum annualem ludum, idest bravium quod omni anno, in festo sancti Ioannis Baptiste, curritur.
 
@@ -212,47 +212,47 @@ Et melius esset et utilius et expedientius civitati, quod illi essent vicini et 
 
 <!-- p. 1012 (1066) -->
 
-²⁰ Se la gente, ch'al mondo più traligna,\
+20 Se la gente, ch'al mondo più traligna,\
 &emsp;Non fusse stata a' Cesari noverca,\
 &emsp;Ma, come madre al suo figlo, benigna,
 
-²⁰ Si gens, que in mundo magis tralignat,\
+20 Si gens, que in mundo magis tralignat,\
 &emsp;Non fuisset Cesari noverca,\
 &emsp;Sed, sicut mater suo filio, benigna,
 
-²¹ Tal facto è Fiorentino, e cambia e merca,\
+21 Tal facto è Fiorentino, e cambia e merca,\
 &emsp;Che si sarebbe volto a Semifonti,\
 &emsp;Là dov'andava l'avolo a la cerca.
 
-²¹ Talis factus est Florentinus, et cambi[a]t et mercatur,\
+21 Talis factus est Florentinus, et cambi[a]t et mercatur,\
 &emsp;Qui convertisset se ad Symofontem,\
 &emsp;Quo ibat avus meus ad inquisitionem.
 
-²² Sariasi Montemurlo ancor de' conti;\
+22 Sariasi Montemurlo ancor de' conti;\
 &emsp;Sariensi e Cerchi del pivier d'Acrone,\
 &emsp;E forse in Valdigrieve e Buondalmonti.
 
-²² Esset Mons Murlus adhuc comitum;\
+22 Esset Mons Murlus adhuc comitum;\
 &emsp;Essent circuli in piverio Acchonis,\
 &emsp;Et forsan in valle Grevi Bondelmontes.
 
-²³ Sempre la confusion de le persone\
+23 Sempre la confusion de le persone\
 &emsp;Principio fu del mal de le cittade,\
-&emsp;Come del vostro (¹) il cibo che s'appone.
+&emsp;Come del vostro (1) il cibo che s'appone.
 
-²³ Semper confusio personarum\
+23 Semper confusio personarum\
 &emsp;Principium fuit mali civitatis,\
 &emsp;Sicut de vestro cibus qui supraponitur.
 
-²⁴ E cieco thoro più avaccio cade\
+24 E cieco thoro più avaccio cade\
 &emsp;Che cieco agnello, e molte volte tagla\
 &emsp;Più e meglo una che le cinque spade.
 
-²⁴ Et cecus taurus citius cadit\
+24 Et cecus taurus citius cadit\
 &emsp;Quam cecus agnus, et multoties incidit\
 &emsp;Plus et melius unus quam quinque enses.
 
-(¹) male è principio.
+(1) male è principio.
 
 confines, idest extra, quam habere, idest intus, ipsas ad substituendum putredinem Villani (nomen proprium fuit unius doctoris iuris, malus homo) de Guglione (nomen unius ville) et illius de Signa (hic fuit unus alter iurista, cuius nomen non ponitur hic, et ille fuit de Signa: est unum oppidum prope Florentiam per septem miliaria), qui iam pro baractare, idest ad faciendam baractariam, habet oculum acutum.
 
@@ -264,47 +264,47 @@ Modo dicit auctor, quod confusio et commixtio personarum, maxime forensium, prin
 
 <!-- p. 1013 (1067) -->
 
-²⁵ Se tu rigardi Luni et Orbisagla\
+25 Se tu rigardi Luni et Orbisagla\
 &emsp;Come son ite, e come se ne vanno\
 &emsp;Dirieto a esse Chiusi e Sinigagla,
 
-²⁵ Si tu respicis Lunim et Urbisaliam\
+25 Si tu respicis Lunim et Urbisaliam\
 &emsp;Quomodo iverunt, et quomodo vadunt\
 &emsp;Retro illum Clusium et Senogallium;
 
-²⁶ Udir come le schiatte si disfanno,\
+26 Udir come le schiatte si disfanno,\
 &emsp;Non ti parrà cosa nuova nè forte,\
 &emsp;Poscia che le cittadi termin hanno.
 
-²⁶ Audire quomodo stirpes destruuntur,\
+26 Audire quomodo stirpes destruuntur,\
 &emsp;Non apparebit tibi res nova nec fortis,\
 &emsp;Postquam civitates eorum terminum habent.
 
-²⁷ Le vostre cose tucte hanno lor morte,\
+27 Le vostre cose tucte hanno lor morte,\
 &emsp;Sì come voi; ma celasi in alcuna\
 &emsp;Che dura molto, e le vite son corte.
 
-²⁷ Omnes res vestre habent earum mortem,\
+27 Omnes res vestre habent earum mortem,\
 &emsp;Sicut vos; sed celatur in aliquibus\
 &emsp;Que durant multum, et vite sunt breves.
 
-²⁸ E come nel voltar del ciel la luna\
+28 E come nel voltar del ciel la luna\
 &emsp;Cuopre e discuopre e liti senza posa,\
 &emsp;Così fa di Firenze la fortuna:
 
-²⁸ Et sicut revolutio celi et lune\
+28 Et sicut revolutio celi et lune\
 &emsp;Cooperit et discooperit lictora sine quiete,\
 &emsp;Sic facit de Florentia fortuna:
 
-²⁹ Perchè non de' (¹) parer mirabil cosa\
+29 Perchè non de' (1) parer mirabil cosa\
 &emsp;Ciò ch'io dirò degl'altri Fiorentini,\
 &emsp;Di cui la fama nel tempo è nascosa.
 
-²⁹ Quare non debet apparere mirabilis res\
+29 Quare non debet apparere mirabilis res\
 &emsp;Quicquid ego dicam de aliis Florentinis,\
 &emsp;Unde est fama in tempore absconsa.
 
-(¹) debba.
+(1) debba.
 
 Si tu respicis Lunim et Urbisaliam. Si tu riguardi et a Luni et Urbisalia: hec est tertia pars huius capituli, in qua dominus Cacciaguida recitat multas familias antiquas civitatis Florentie, que tunc, tempore suo, erant multo onorabiles et valentiores aliis, quarum alique sunt in totum destructe, alique in parte, tempore presenti. Et primo narrat, quod de hoc non sit mirandum, quia civitates alique fuerunt magne, que modo sunt quasi nihil, de quibus nominat quatuor. Quarum una vocabatur Luni, que erat nobilis et magna civitas inter Tusciam et territorium Ianuense, supra flumen quod vocatur Magra, quod flumen dividit Tusciam a [territorio] Ianuensi; modo nihil est nisi unum pulchrum oppidum, quod est ibi de prope, quod vocatur Sarzana. Alia civitas, quam nominat, est Urbisalia; est in marchia Anchonitana, inter Maceratam et Tolentinum; modo est unum parvum castrum, et bene apparent vestigia murorum et magnorum edificiorum, et dicebatur Urbisalia, quasi urbs alia: nam Roma dicitur Urbs per anthonomasiam, ista dicebatur Urbisalia, quasi alia urbs. Alia civitas, quam nominat, est Clusium prope Perusium: fuit iam nobilis civitas: ibi regnavit rex Porsenna, qui iam obsedit Romam, quando volebat reducere Tarquinios; qui recessit, ex suggestione Mutii Scevola, de obsidione: modo est quasi nihil. Alia civitas, quam nominat, est Senogallium. Est in Marchia Anchonitana inter Anchonam et Fanum, super mare: et dicitur Senogallium, quia venientes multi Galli, et cum magno exercitu intrantes Ytaliam, diu steterunt: tamdem aliqui antiqui, volentes redire ad suas partes, edificaverunt illam civitatem, nominantes eam Senogallium, idest edificata a senibus Gallium: modo Senogallium quasi nihil est. Vult dicere auctor: Non enim mirum, si familie deficiunt, quia et maxime civitates etiam deficiunt, ponens exemplum de istis quatuor.
 
@@ -318,59 +318,59 @@ Modo applicat ad propositum ea que dicta sunt, dicens: Quare non debet apparere 
 
 <!-- p. 1014 (1068) -->
 
-³⁰ Io vidi gl'Ughi, e vidi e Catellini,\
+30 Io vidi gl'Ughi, e vidi e Catellini,\
 &emsp;Phylippi, Greci, Ormanni et Alberichi,\
 &emsp;Già nel calare, illustri cittadini;
 
-³⁰ Ego vidi Ugos et vidi Cattelinos,\
+30 Ego vidi Ugos et vidi Cattelinos,\
 &emsp;Philippos, Normannos, Grecos et Albericos,\
 &emsp;Iam in descensu, illustres cives;
 
-³¹ E vidi così grandi come antichi,\
+31 E vidi così grandi come antichi,\
 &emsp;Con que' de la Sannella, quei dell'Arca,\
 &emsp;E Soldanieri, Ardinghi, e Bustichi.
 
-³¹ Et vidi ita grandes sicut antiquos,\
+31 Et vidi ita grandes sicut antiquos,\
 &emsp;Cum illis de Sanella, illos de Archa,\
 &emsp;Et Soldanerios, et Ardingos, et Bosticcos.
 
-³² Sopra la porta, ch'al presente è carca\
+32 Sopra la porta, ch'al presente è carca\
 &emsp;Di nuova felonia di tanto peso,\
 &emsp;Che tosto fie iactura de la barca,
 
-³² Supra portam, que ad presens est onerata\
+32 Supra portam, que ad presens est onerata\
 &emsp;De nova fellonia tanti ponderis\
 &emsp;Quod cito erit iactura barce.
 
-³³ Erano e Ravignani, ond'è disceso\
+33 Erano e Ravignani, ond'è disceso\
 &emsp;El conte Guido, e qualunque del nome\
 &emsp;Dell'alto Bellincione à poscia preso.
 
-³³ Erant Ravignani, unde descendit\
+33 Erant Ravignani, unde descendit\
 &emsp;Comes Guido, et quicumque a nomine\
 &emsp;Alti Bellinzoni postea apprehendit.
 
-³⁴ Quei de la Pressa sapean già come\
+34 Quei de la Pressa sapean già come\
 &emsp;Reggier si vuole, et havea Galigaio\
 &emsp;Dorata in casa sua già l'elsa e 'l pome.
 
-³⁴ Illi de Pressa iam sciebant qualiter\
+34 Illi de Pressa iam sciebant qualiter\
 &emsp;Regi vult, et habebat Galigaius\
 &emsp;Auratam iam in domo suam elsam et pomum.
 
-³⁵ Grand'era già la colonna del Vaio,\
+35 Grand'era già la colonna del Vaio,\
 &emsp;Sacchetti, Giuochi, Sifanti e Barucci,\
 &emsp;Galli, et quei ch'arrossan per lo staio.
 
-³⁵ Grandis erat iam columpna Varii,\
+35 Grandis erat iam columpna Varii,\
 &emsp;Sachecti, Iochi, Sifanti et Barucci,\
 &emsp;Et Galli, et illi qui rubefiunt propter sextarium.
 
-³⁶ Lo ceppo, di che nacquero e Calfucci,\
+36 Lo ceppo, di che nacquero e Calfucci,\
 &emsp;Già era grande, e già eran tracti\
 &emsp;Alle carole Sitii et Arrigucci.
 
-³⁶ Cippus, de quo nati sunt Galfucii,\
+36 Cippus, de quo nati sunt Galfucii,\
 &emsp;Erat iam grandis, et iam erant tracti\
 &emsp;Ad curules Sicci et Arrigutii.
 
@@ -390,51 +390,51 @@ Modo tangit aliam domum, scilicet domum de Donatis, de qua descendit alia domus,
 
 <!-- p. 1015 (1069) -->
 
-³⁷ O qual'io vidi quei che son disfacti\
+37 O qual'io vidi quei che son disfacti\
 &emsp;Per lor superbia! e le palle dell'oro\
 &emsp;Fiorian Firenze in tutti lor gran facti.
 
-³⁷ O quales ego vidi illos qui sunt destructi\
+37 O quales ego vidi illos qui sunt destructi\
 &emsp;Propter eorum superbiam! et palle auri\
 &emsp;Florebant Florentiam in omnibus suis grandibus factis.
 
-³⁸ Così facean li padri di coloro\
+38 Così facean li padri di coloro\
 &emsp;Che, sempre che la vostra Chiesa vaca,\
 &emsp;Si fanno grassi stando a concistoro.
 
-³⁸ Sic faciebant patres illorum\
+38 Sic faciebant patres illorum\
 &emsp;Qui, semper quando Ecclesia vestra vacat,\
 &emsp;Efficiuntur pingues stando ad consistorium.
 
-³⁹ La tracotata schiatta, che s'indraca\
+39 La tracotata schiatta, che s'indraca\
 &emsp;Dietr'a chi fugge, et a chi mostra el dente\
 &emsp;O ver la borsa, come agnel si placa,
 
-³⁹ Transcurata stirps, que indragatur\
+39 Transcurata stirps, que indragatur\
 &emsp;Retro illum qui fugit, et illi qui monstrat dentem\
 &emsp;Sive bursiam, sicut agnus placatur,
 
-⁴⁰ Già venia su, ma di piccola gente,\
+40 Già venia su, ma di piccola gente,\
 &emsp;Sì che non piacque agl' Uberti Donato\
 &emsp;Che poi el socer lo fe' lor parente.
 
-⁴⁰ Iam veniebat sursum, sed de parva gente,\
+40 Iam veniebat sursum, sed de parva gente,\
 &emsp;Ita quod non placuit Ubertino Donato,\
 &emsp;Quem postea socer fecit attinentem sibi.
 
-⁴¹ Già era Caponsacho nel mercato\
+41 Già era Caponsacho nel mercato\
 &emsp;Disceso giù da Fiesole, e già era\
 &emsp;Buon cittadino Guida et Infangato.
 
-⁴¹ Iam erat Capoinsacco in mercato\
+41 Iam erat Capoinsacco in mercato\
 &emsp;Descendens a Fiesolis, et iam erat\
 &emsp;Bonus civis Guido et Infangatus.
 
-⁴² Io dirò cosa incredibile e vera;\
+42 Io dirò cosa incredibile e vera;\
 &emsp;Nel piccol cerchio s'entrava per porta,\
 &emsp;Che si nomava da quei de la Pera.
 
-⁴² Ego dicam tibi rem incredibilem et veram;\
+42 Ego dicam tibi rem incredibilem et veram;\
 &emsp;In parvum circulum intrabatur per portam,\
 &emsp;Que nominabatur ab illis de la Pera.
 
@@ -450,35 +450,35 @@ Nota quod erat in Florentia una mulier tempore istius militis, que vendebat fruc
 
 <!-- p. 1016 (1070) -->
 
-⁴³ Ciascun che de la bella insegna porta\
+43 Ciascun che de la bella insegna porta\
 &emsp;Del gran Barone, el cui nome e 'l cui pregio\
 &emsp;La festa di Thommaso riconforta,
 
-⁴³ Quilibet de pulchro signo portat\
+43 Quilibet de pulchro signo portat\
 &emsp;Grandis Baronis, cuius nomen et cuius pretium\
 &emsp;Festum Sancti Thome reconfortat,
 
-⁴⁴ Da esso ebbe milizia e privilegio;\
+44 Da esso ebbe milizia e privilegio;\
 &emsp;Avegna che col popol si raguni\
 &emsp;Oggi colui che la fascia col fregio.
 
-⁴⁴ Ab ipso habuit militiam et privilegium;\
+44 Ab ipso habuit militiam et privilegium;\
 &emsp;Quamquam cum populo congregetur\
 &emsp;Hodie ille qui illam fasciat cum frixio.
 
-⁴⁵ Già eran Gualterotti et Importuni,\
+45 Già eran Gualterotti et Importuni,\
 &emsp;Et anco saria Borgo più quieto,\
 &emsp;Se di nuovi vicin fusser digiuni.
 
-⁴⁵ Iam erant Gualterotti et Importuni,\
+45 Iam erant Gualterotti et Importuni,\
 &emsp;Et adhuc esset burgum magis quietum,\
 &emsp;Si de novis vicinis essent ieiuni.
 
-⁴⁶ La casa di che nacque el vostro fleto,\
+46 La casa di che nacque el vostro fleto,\
 &emsp;Per lo giusto disdegno che v'à morti,\
 &emsp;E posto ha fine al vostro viver lieto,
 
-⁴⁶ Domus de qua natus est vester fletus,\
+46 Domus de qua natus est vester fletus,\
 &emsp;Propter iustam indignationem que vos interfecit,\
 &emsp;Et posuit finem vestro vivere leto,
 
@@ -494,44 +494,44 @@ Domus, de qua natus est vester fletus, scilicet domus de Bondelmontibus, propter
 
 <!-- p. 1017 (1071) -->
 
-⁴⁷ Era honorata essa e suoi consorti.\
+47 Era honorata essa e suoi consorti.\
 &emsp;O Buondalmonte, come mal fuggisti\
 &emsp;Le nozze sue per gl' altrui conforti!
 
-⁴⁷ Erat honorata ipsa, et sui consortes.\
+47 Erat honorata ipsa, et sui consortes.\
 &emsp;O Bondelmontes, quantum male fugisti\
 &emsp;Nuptias [suas] propter alterius malas confortationes!
 
-⁴⁸ Molti sarebben lieti, che son tristi,\
+48 Molti sarebben lieti, che son tristi,\
 &emsp;Se Dio t'havesse conceduto ad Ema\
 &emsp;La prima volta ch' a città venisti.
 
-⁴⁸ Multi essent leti, qui nunc sunt tristes,\
+48 Multi essent leti, qui nunc sunt tristes,\
 &emsp;Si Deus tibi concessisset ad Emam\
 &emsp;Prima vice qua ad civitatem venisti.
 
-⁴⁹ Ma conveniasi a quella pietra scema\
+49 Ma conveniasi a quella pietra scema\
 &emsp;Chel guarda 'l ponte, che Firenze fesse\
 &emsp;Victima in su la sua pace postrema.
 
-⁴⁹ Sed bene conveniebat illi petre sceme\
+49 Sed bene conveniebat illi petre sceme\
 &emsp;Que custodit pontem, que Florentiam fissit,\
 &emsp;Victima in sua pace postrema.
 
-⁵⁰ Con queste genti, e con altre con esse,\
+50 Con queste genti, e con altre con esse,\
 &emsp;Vid' io Firenze in sì facto riposo,\
 &emsp;Che non havea cagion onde piangesse.
 
-⁵⁰ Et [cum] istis gentibus, cum aliis et cum ipsis,\
+50 Et [cum] istis gentibus, cum aliis et cum ipsis,\
 &emsp;Vidi ego Florentiam in tali quiete,\
 &emsp;Quod ipsa non habebat causam unde plangeret.
 
-⁵¹ Con queste genti vid' io glorioso\
+51 Con queste genti vid' io glorioso\
 &emsp;E giusto el popol suo tanto, che 'l giglo\
 &emsp;Non era in hasta mai posto a retroso,\
 &emsp;Nè per division facto vermiglo.
 
-⁵¹ Cum istis gentibus vidi ego gloriosum\
+51 Cum istis gentibus vidi ego gloriosum\
 &emsp;Et iustum populum suum tantum, quod lilium\
 &emsp;Non erat aste unquam positum per transversum,\
 &emsp;Nec propter divisionem factum rubeum.

@@ -8,19 +8,19 @@ In isto quintodecimo capitulo, quod incipit: Quanto, a termino hore tertie, auct
 
 # Capitulum Quintumdecimum
 
-¹ Quanto, tra l'ultimar dell'hora terza\
+1 Quanto, tra l'ultimar dell'hora terza\
 &emsp;E 'l principio del dì, par della spera,\
 &emsp;Che sempre a guisa di fanciullo scherza,
 
-¹ Quantum, ab ultimatione hore tertie\
+1 Quantum, ab ultimatione hore tertie\
 &emsp;Ad primum diei, apparet de spera,\
 &emsp;Que semper ad similitudinem pueri ludit,
 
-² Tanto pareva già in vèr la sera\
+2 Tanto pareva già in vèr la sera\
 &emsp;Esser al sol del suo corso rimaso;\
 &emsp;Vespero là, e qui mezza noct'era.
 
-² Tantum iam apparebat versus sero\
+2 Tantum iam apparebat versus sero\
 &emsp;Soli sui cursus remansisse;\
 &emsp;Vesperum ibi et hic media nox erat.
 
@@ -50,51 +50,51 @@ Sed hic oritur dubium: quod videtur, secundum multa predicta, quod, quando est m
 
 <!-- p. 593 (0647) -->
 
-³ E'raggi ne ferian per mezzo 'l naso,\
+3 E'raggi ne ferian per mezzo 'l naso,\
 &emsp;Perchè per noi girat' era sì 'l monte,\
 &emsp;Che già dricti andavàn verso l'occaso;
 
-³ Et radii nos feriebant per medium nasum,\
+3 Et radii nos feriebant per medium nasum,\
 &emsp;Ex co quia per nos circumdatus erat ita mons,\
 &emsp;Quod iam recti ibamus versus occasum;
 
-⁴ Quand'io sentii a me gravar la fronte\
+4 Quand'io sentii a me gravar la fronte\
 &emsp;Allo splendor assai più che di prima,\
 &emsp;E stupor m'eran le cose non conte:
 
-⁴ Quando ego sensi michi gravari frontem\
+4 Quando ego sensi michi gravari frontem\
 &emsp;A splendore satis plusquam prius,\
 &emsp;Et stupor michi erant res non manifeste:
 
-⁵ Ond'io levai le mani inver la cima\
+5 Ond'io levai le mani inver la cima\
 &emsp;De le mie cigla, e fecimi el solechio,\
 &emsp;Che del soverchio visibile lima.
 
-⁵ Unde levavi manus versus summitatem\
+5 Unde levavi manus versus summitatem\
 &emsp;Meorum superciliorum, et feci michi solecchium,\
 &emsp;Quod de superfluo visibili limat.
 
-⁶ Come quando dall'acqua o dallo spe[chio]\
+6 Come quando dall'acqua o dallo spe[chio]\
 &emsp;Salta lo raggio all'opposita parte,\
 &emsp;Salendo, su per lo mondo, parechio
 
-⁶ Sicut quando ab aqua vel a speculo\
+6 Sicut quando ab aqua vel a speculo\
 &emsp;Saltat [radius] ad oppositam partem,\
 &emsp;Ascendendo sursum per modum parecchium
 
-⁷ A quel che scende, e tanto si diparte\
+7 A quel che scende, e tanto si diparte\
 &emsp;Dal cader de la pietra in egual tracta,\
 &emsp;Sì come mostra experientia et arte;
 
-⁷ Ab illo qui descendit, et tantum separatur\
+7 Ab illo qui descendit, et tantum separatur\
 &emsp;A casu petre in equalem tractam,\
 &emsp;Si[cut] monstrat experientia et ars;
 
-⁸ Così m'apparve da luce rifracta\
+8 Così m'apparve da luce rifracta\
 &emsp;Ivi dinanzi a me esser percosso,\
 &emsp;Perchè a veder la mia luce fu racta.
 
-⁸ Sic fuit michi visum a luce refracta\
+8 Sic fuit michi visum a luce refracta\
 &emsp;Unum ante me esse percussum,\
 &emsp;Ex quo ad fugiendum mea visio fuit cita.
 
@@ -110,63 +110,63 @@ Iam per comparationem quamdam auctor ostendit, sive declarat, illum splendorem s
 
 <!-- p. 594 (0648) -->
 
-⁹ Che è quel (¹), dolce Padre, a che non posso\
+9 Che è quel (1), dolce Padre, a che non posso\
 &emsp;Schermar lo viso tanto che mi vagla,\
 &emsp;Diss'io, e pare inver noi esser mosso?
 
-⁹ Quid est illud, dulcis Pater, quod ego non possum\
+9 Quid est illud, dulcis Pater, quod ego non possum\
 &emsp;Defendere visum tantum quod michi valeat,\
 &emsp;Dixi ego, et videtur versus nos esse motum?
 
-¹⁰ Non ti maraviglar s'ancor t'abbagla\
+10 Non ti maraviglar s'ancor t'abbagla\
 &emsp;La famigla del ciel, a me rispose:\
 &emsp;Messo è, che vien ad invitar ch'uom sagla.
 
-¹⁰ Ne mireris si te adhuc obfuscat\
+10 Ne mireris si te adhuc obfuscat\
 &emsp;Familia celi, michi respondit:\
 &emsp;Nuntius est, qui venit ad invitandum ut homo
 
-¹¹ Tosto sarà che a veder queste cose\
+11 Tosto sarà che a veder queste cose\
 &emsp;Non ti fie grave, ma fiecti dilecto,\
 &emsp;Quanto natura a sentir ti dispose.
 
-¹¹ Cito erit quod ad videndum istas res [saliat.\
+11 Cito erit quod ad videndum istas res [saliat.\
 &emsp;Non erit tibi grave, sed erit tibi delectatio,\
 &emsp;Quantum natura ad sentiendum te disposuit.
 
-¹² Poi (²) giunti fummo all'angel benedecto,\
+12 Poi (2) giunti fummo all'angel benedecto,\
 &emsp;Con lieta voce disse: Entrate quinci\
-&emsp;Ad un scaleo vie men(³) che gl'altri erecto.
+&emsp;Ad un scaleo vie men(3) che gl'altri erecto.
 
-¹² Postquam pervenimus ad angelum benedictum,\
+12 Postquam pervenimus ad angelum benedictum,\
 &emsp;Cum leta voce dixit: Intrate hac\
 &emsp;Ad unum gradum multo minus quam alii erectum.
 
-¹³ Noi montavàn, già partiti da linci,\
+13 Noi montavàn, già partiti da linci,\
 &emsp;Et Beati misericordes, fue\
 &emsp;Cantato retro, e Ghode tu che vinci.
 
-¹³ Nos ascendebamus, iam recedentes inde,\
+13 Nos ascendebamus, iam recedentes inde,\
 &emsp;Et Beati misericordes, fuit\
 &emsp;Cantatum retro, et Gaude tu qui vincis.
 
-¹⁴ Lo mio maestro et io soli amendue\
+14 Lo mio maestro et io soli amendue\
 &emsp;Suso andavamo, et io pensava, andando,\
 &emsp;Prode acquistar ne le parole sue;
 
-¹⁴ Meus magister et ego soli ambo\
+14 Meus magister et ego soli ambo\
 &emsp;Sursum ibamus, et ego cogitavi, eundo,\
 &emsp;Profectum acquirere in verbis suis;
 
-¹⁵ E dirizz'ami a lui sì domandando (⁴):\
+15 E dirizz'ami a lui sì domandando (4):\
 &emsp;Che volse dir lo spirito di Romagna,\
-&emsp;E divieto e consorte menzonando (⁵)?
+&emsp;E divieto e consorte menzonando (5)?
 
-¹⁵ Et direxi me ad eum sic interrogando:\
+15 Et direxi me ad eum sic interrogando:\
 &emsp;Quid voluit dicere spiritus de Romandiola,\
 &emsp;Et vetationem et consortem memorando?
 
-(¹) o. — (²) che — (³) assai meno — (⁴) ita ut sequitur. — (⁵) al. mentovando.
+(1) o. — (2) che — (3) assai meno — (4) ita ut sequitur. — (5) al. mentovando.
 
 Quid est illud, dulcis pater, quod ego non possum defendere, sive schermare, visum tantum, quod michi valeat, dixi ego, [et] videtur versus nos esse motum, idest ad veniendum? Auctor fuit attonitus ex tanto lumine; ideo non poterat tantum facere sibi scutum ad oculos cum manibus positis supra frontem, ut bene posset illud intueri, nec poterat superare vim radiorum. Radius ille semper movebatur versus Dantem.
 
@@ -182,55 +182,55 @@ Meus magister. Lo mio maiestro: hec est secunda pars huius capituli, in qua solv
 
 <!-- p. 595 (0649) -->
 
-¹⁶ Perch'elli a me: Di sua maggior magagna\
+16 Perch'elli a me: Di sua maggior magagna\
 &emsp;Conosce el danno; e però non s'ammiri\
 &emsp;Se ne riprende, perchè men sen piagna.
 
-¹⁶ Ex quo ipse michi: De suo maiori defectu\
+16 Ex quo ipse michi: De suo maiori defectu\
 &emsp;Cognoscit dampnum; et ideo non miretur\
 &emsp;Si ipse alios reprehendit, ad hoc ut minus plangatur.
 
-¹⁷ Perchè saputo hanno e vostri desiri,\
+17 Perchè saputo hanno e vostri desiri,\
 &emsp;Dove per compagnia parte si scema,\
 &emsp;Invidia muove el mantaco a'sospiri.
 
-¹⁷ Quia bene scivit vestra desideria,\
+17 Quia bene scivit vestra desideria,\
 &emsp;Ubi propter sotietatem pars diminuitur,\
 &emsp;Invidia movet mantacum ad suspiria.
 
-¹⁸ Ma se l'amor della spera suprema\
+18 Ma se l'amor della spera suprema\
 &emsp;Torcesse insuso el desiderio vostro,\
 &emsp;Non vi sarebbe al pecto quella tema;
 
-¹⁸ Sed si amor superne spere\
+18 Sed si amor superne spere\
 &emsp;Torqueret in superiorem partem desiderium vestrum,\
 &emsp;Non esset vobis ad pectus ille timor;
 
-¹⁹ Chè per quanto si dice più lì nostro,\
+19 Chè per quanto si dice più lì nostro,\
 &emsp;Tanto possiede più di ben ciascuno,\
 &emsp;E più di caritade arde in quel chiostro.
 
-¹⁹ Ex hoc quia quantum dicitur plus ibi nostrum,\
+19 Ex hoc quia quantum dicitur plus ibi nostrum,\
 &emsp;Tantum possidet plus de bono quilibet,\
 &emsp;Et plus de caritate ardet in illo claustro.
 
-²⁰ Io son d'esser contento più digiuno,\
+20 Io son d'esser contento più digiuno,\
 &emsp;Diss'io, che s'io mi fossi pria taciuto,\
-&emsp;E più di dubbio ne la mente (¹) aduno (²).
+&emsp;E più di dubbio ne la mente (1) aduno (2).
 
-²⁰ Ego sum ut sim contentus magis ieiunus,\
+20 Ego sum ut sim contentus magis ieiunus,\
 &emsp;Dixi ego, quam si prius tacuissem,\
 &emsp;Et plus dubii in mente aduno.
 
-²¹ Com'esser puote che un ben distribuito\
+21 Com'esser puote che un ben distribuito\
 &emsp;E'più posseditor faccia più richi,\
 &emsp;Diss'io, che se da pochi è ritenuto?
 
-²¹ Quomodo esse potest quod unum bonum distributum\
+21 Quomodo esse potest quod unum bonum distributum\
 &emsp;In plures possessiones faciat illos ditiores,\
 &emsp;Quam si a paucis esset possessum?
 
-(¹) mia. — (²) accresco.
+(1) mia. — (2) accresco.
 
 cur apponis cor ibi ubi esset necesse de consorte diveto, de consortibus carentia, idest carere consortibus? quod dubium declarat Virgilius. Ne perdatur tempus, fingit hoc facere dum vadunt ad locum iracundorum, ita quod reflectit se.
 
@@ -248,63 +248,63 @@ Movet igitur dubium auctor, dicens: Ego sum ut sim contentus magis ieiunus, ides
 
 <!-- p. 596 (0650) -->
 
-²² Et elli a me: Però che tu rifichi\
+22 Et elli a me: Però che tu rifichi\
 &emsp;La mente pur alle cose terrene,\
 &emsp;Di vera luce tenebre dispichi.
 
-²² Et ipse ad me: Ex eo quod tu refigis\
+22 Et ipse ad me: Ex eo quod tu refigis\
 &emsp;Mentem solum ad res terrenas,\
 &emsp;De vera luce tenebras acquiris.
 
-²³ Quello infinito et ineffabil bene\
+23 Quello infinito et ineffabil bene\
 &emsp;Che lassù è, così corre ad amore,\
 &emsp;Come a lucido corpo raggio vene.
 
-²³ Illud infinitum et ineffabile bonum\
+23 Illud infinitum et ineffabile bonum\
 &emsp;Quod ibi supra est, currit ad amorem ita,\
 &emsp;Sicut ad lucidum corpus radius venit.
 
-²⁴ Tanto si dà, quanto trova d'ardore:\
+24 Tanto si dà, quanto trova d'ardore:\
 &emsp;Sì che quantunque carità si stende,\
 &emsp;Cresce sovr'essa l'etterno valore.
 
-²⁴ Tantum se dat, quantum reperit de ardore:\
+24 Tantum se dat, quantum reperit de ardore:\
 &emsp;Quia quantocumque caritas extenditur,\
 &emsp;Crescit super eis eternus valor.
 
-²⁵ E quanta gente più lassù s'intende,\
+25 E quanta gente più lassù s'intende,\
 &emsp;Più v'è da ben amare, e più vi s'ama,\
 &emsp;E come spechio l'uno l'altro rende.
 
-²⁵ Et quanto plures gentes hic supra incenduntur,\
+25 Et quanto plures gentes hic supra incenduntur,\
 &emsp;Plus ibi est ad bene amandum, et plus ibi amatur,\
 &emsp;Et sicut speculum unus alteri reddit.
 
-²⁶ E se la mia ragion non ti disfama (¹),\
-&emsp;Vedrai Beatrice (²), et ella pienamente\
-&emsp;Ti torrà questa e ciascun'altra brama (³).
+26 E se la mia ragion non ti disfama (1),\
+&emsp;Vedrai Beatrice (2), et ella pienamente\
+&emsp;Ti torrà questa e ciascun'altra brama (3).
 
-²⁶ Et si mea ratio te non diffamat,\
+26 Et si mea ratio te non diffamat,\
 &emsp;Videbis Beatricem, et ipsa plene\
 &emsp;Subtrahet a te istam et quamcumque aliam bramam
 
-²⁷ Procaccia pur che tosto sieno spente (⁴),\
-&emsp;Come son già le due (⁵), le cinque piaghe (⁶),\
+27 Procaccia pur che tosto sieno spente (4),\
+&emsp;Come son già le due (5), le cinque piaghe (6),\
 &emsp;Che si richiuden per esser dolente.
 
-²⁷ Procura tamen, quod cito sint estincte,\
+27 Procura tamen, quod cito sint estincte,\
 &emsp;Sicut sunt iam duo, quinque plage,\
 &emsp;Que recluduntur propter esse dolentem.
 
-²⁸ Com'io voleva dicer: Tu m'appaghe;\
-&emsp;Sì vidi (⁷) giuncto in sull'altro girone,\
+28 Com'io voleva dicer: Tu m'appaghe;\
+&emsp;Sì vidi (7) giuncto in sull'altro girone,\
 &emsp;Sì che tacer mi fer le luci vaghe.
 
-²⁸ Quando ego volebam dicere: Tu michi appagas:\
+28 Quando ego volebam dicere: Tu michi appagas:\
 &emsp;Vidi me pervenisse super alium gyronem,\
 &emsp;Ita quod me tacere fecerunt oculi vagi.
 
-(¹) satia. — (²) la Theologia. — (³) vogla. — (⁴) purgate. — (⁵) superbia et invidia. — (⁶) de' peccati mortali. — (⁷) al. vidimi, et melius; al. ci vidi giuncti.
+(1) satia. — (2) la Theologia. — (3) vogla. — (4) purgate. — (5) superbia et invidia. — (6) de' peccati mortali. — (7) al. vidimi, et melius; al. ci vidi giuncti.
 
 Nunc respondet Virgilius, dicens. Et ipse ad me, scilicet dixit: Ex eo quod tu refigis solum mentem ad res terrenas, de vera luce tenebras acquiris, idest in loco vere lucis habes tenebras.
 
@@ -316,63 +316,63 @@ Quando ego volebam. Come io volera: hec tertia pars huius capituli, in qua aucto
 
 <!-- p. 597 (0651) -->
 
-²⁹ Qui mi parve in una visione\
+29 Qui mi parve in una visione\
 &emsp;Extatica di subito esser tracto,\
-&emsp;E veder in un tempio (¹) più persone;
+&emsp;E veder in un tempio (1) più persone;
 
-²⁹ Ibi michi apparuit in unam visionem\
+29 Ibi michi apparuit in unam visionem\
 &emsp;Extaticam subito esse tractum,\
 &emsp;Et videre in uno templo plures personas;
 
-³⁰ Et una donna (²) in sullo'ntrar (³) con acto\
-&emsp;Dolce di madre, dicer: Figluol mio (⁴),\
+30 Et una donna (2) in sullo'ntrar (3) con acto\
+&emsp;Dolce di madre, dicer: Figluol mio (4),\
 &emsp;Perch'ài tu così verso noi facto?
 
-³⁰ Et unam dominam in introyu cum actu\
+30 Et unam dominam in introyu cum actu\
 &emsp;Dulcis matris, dicere: Fili mi,\
 &emsp;Quare tu sic versus nos fecisti?
 
-³¹ Ecco, dolenti (⁵) lo tuo padre (⁶) et io (⁷)\
-&emsp;Ti cercavamo. E come qui si tacque (⁸),\
-&emsp;Ciò che pareva (⁹) prima dispario.
+31 Ecco, dolenti (5) lo tuo padre (6) et io (7)\
+&emsp;Ti cercavamo. E come qui si tacque (8),\
+&emsp;Ciò che pareva (9) prima dispario.
 
-³¹ Ecce dolentes tuus pater et ego\
+31 Ecce dolentes tuus pater et ego\
 &emsp;Te querebamus. Et sic[ut] hic tacuit,\
 &emsp;Id quod prius apparebat disparuit.
 
-³² Indi m'apparve un'altra (¹⁰), con quell' acque (¹¹)\
-&emsp;Giù per le gote (¹²) che (¹³) 'l dolor distilla,\
-&emsp;Quando di gran dispecto in altrui nacque (¹⁴),
+32 Indi m'apparve un'altra (10), con quell' acque (11)\
+&emsp;Giù per le gote (12) che (13) 'l dolor distilla,\
+&emsp;Quando di gran dispecto in altrui nacque (14),
 
-³² Inde michi apparuit una alia, cum illis aquis\
+32 Inde michi apparuit una alia, cum illis aquis\
 &emsp;Infra genas quas dolor distillat,\
 &emsp;Quando per grandem displicentiam in aliis natus est,
 
-³³ E dire: Se tu se' sire (¹⁵) de la villa (¹⁶),\
-&emsp;Del cui nome (¹⁷) tra Dei fu tanta lite,\
+33 E dire: Se tu se' sire (15) de la villa (16),\
+&emsp;Del cui nome (17) tra Dei fu tanta lite,\
 &emsp;Et onde ogni scientia disfavilla,
 
-³³ Et dicere: Si tu es dominus ville,\
+33 Et dicere: Si tu es dominus ville,\
 &emsp;De cuius nomine inter Deos fuit tanta lis,\
 &emsp;Et unde omnis scientia disfavillat,
 
-³⁴ Vendica te di quelle braccia ardite\
-&emsp;Che abbracciar nostra figla, o Physistrato (¹⁸).\
-&emsp;E 'l signor (¹⁹) mi parea benigno e mite
+34 Vendica te di quelle braccia ardite\
+&emsp;Che abbracciar nostra figla, o Physistrato (18).\
+&emsp;E 'l signor (19) mi parea benigno e mite
 
-³⁴ Vindica te de illis brachiis audacibus\
+34 Vindica te de illis brachiis audacibus\
 &emsp;Que amplexate sunt nostram filiam, o Phisistrate.\
 &emsp;Et Dominus michi videbatur benignus et mitis
 
-³⁵ Risponder lei (²⁰) con viso temperato:\
-&emsp;Che farem noi a chi mal ne disira (²¹),\
-&emsp;Se quei che ci ama (²²) è per noi condennato (²³)?
+35 Risponder lei (20) con viso temperato:\
+&emsp;Che farem noi a chi mal ne disira (21),\
+&emsp;Se quei che ci ama (22) è per noi condennato (23)?
 
-³⁵ Respondera ad eam cum visu temperato:\
+35 Respondera ad eam cum visu temperato:\
 &emsp;Quid faciemus nos illis qui nobis malum desiderant,\
 &emsp;Si ille qui nos amat est per nos condempnatus?
 
-(¹) di Salomone in Ierusalem. — (²) Maria. — (³) in su la porta di quel tempio. — (⁴) Iesu Cristo. — (⁵) noi. — (⁶) putativo Ioseph. — (⁷) Maria. — (⁸) Maria. — (⁹) a me Dante. — (¹⁰) mogle di Phisistrato. — (¹¹) lagrime. — (¹²) sue. — (¹³) le quali. — (¹⁴) el dolore. — (¹⁵) signore — (¹⁶) d'Athena — (¹⁷) de la qual villa. — (¹⁸) signore d'Athena. — (¹⁹) Physistrato — (²⁰) a la donna sua. — (²¹) desidera. — (²²) quel giovanetto. — (²³) a la morte come tu vuoi.
+(1) di Salomone in Ierusalem. — (2) Maria. — (3) in su la porta di quel tempio. — (4) Iesu Cristo. — (5) noi. — (6) putativo Ioseph. — (7) Maria. — (8) Maria. — (9) a me Dante. — (10) mogle di Phisistrato. — (11) lagrime. — (12) sue. — (13) le quali. — (14) el dolore. — (15) signore — (16) d'Athena — (17) de la qual villa. — (18) signore d'Athena. — (19) Physistrato — (20) a la donna sua. — (21) desidera. — (22) quel giovanetto. — (23) a la morte come tu vuoi.
 
 vitium ire. Dicit ergo auctor: Quando ego volebam dicere, scilicet Virgilio: Tu michi appagas, idest satisfacis; vidi me pervenisse super alium gironem, ita quod tacere me fecerunt oculi vagi.
 
@@ -384,31 +384,31 @@ Notandum est hic quod, sicut scribit Aggelius, Phisistratus fuit dominus in Athe
 
 <!-- p. 598 (0652) -->
 
-³⁶ Poi genti (¹) accese vidi in fuoco d'ira,\
-&emsp;Con pietre un giovanetto (²) ancider (³), forte (⁴),\
-&emsp;Gridando a sè (⁵) pur: Martira, martira (⁶).
+36 Poi genti (1) accese vidi in fuoco d'ira,\
+&emsp;Con pietre un giovanetto (2) ancider (3), forte (4),\
+&emsp;Gridando a sè (5) pur: Martira, martira (6).
 
-³⁶ Postea vidi gentes accensas in igne ire,\
+36 Postea vidi gentes accensas in igne ire,\
 &emsp;Cum lapidibus unum iuvenculum occidere fortiter,\
 &emsp;Clamando ad eum semper: Crucia, crucia.
 
-³⁷ E lui (⁷) vedea chinarsi (³) per la morte,\
+37 E lui (7) vedea chinarsi (3) per la morte,\
 &emsp;Che l'aggravava già in vèr la terra,\
-&emsp;Ma degl'ochi (⁹) facea (¹⁰) sempr'al ciel porte (¹¹);
+&emsp;Ma degl'ochi (9) facea (10) sempr'al ciel porte (11);
 
-³⁷ Et ipsum videbam inclinari propter mortem,\
+37 Et ipsum videbam inclinari propter mortem,\
 &emsp;Que eum gravabat versus terram,\
 &emsp;Sed de oculis faciebat semper ad celum portas;
 
-³⁸ Pregando l'alto Sire (¹²) in tanta guerra (¹³),\
+38 Pregando l'alto Sire (12) in tanta guerra (13),\
 &emsp;Che perdonasse a' suoi persequutori,\
 &emsp;Con quello aspecto che pietà disserra.
 
-³⁸ Orando ad altum Dominum in tanta guerra,\
+38 Orando ad altum Dominum in tanta guerra,\
 &emsp;Quod parceret suis persecutoribus,\
 &emsp;Cum illo aspectu quem pietas disserrat.
 
-(¹) Giudei. — (²) Stefano. — (³) lapidare. — (⁴) constante. — (⁵) medesimi e stridendo co' denti. — (⁶) dagli, dagli. — (⁷) Stefano. — (⁸) in ginocchione. — (⁹) suoi. — (¹⁰) Stefano. — (¹¹) guardando in cielo. — (¹²) Dio. — (¹³) persequutione.
+(1) Giudei. — (2) Stefano. — (3) lapidare. — (4) constante. — (5) medesimi e stridendo co' denti. — (6) dagli, dagli. — (7) Stefano. — (8) in ginocchione. — (9) suoi. — (10) Stefano. — (11) guardando in cielo. — (12) Dio. — (13) persequutione.
 
 quam quidam iuvenis ardentissime diligebat, unam puellam, et quam mater eius quadam die ducens extra civitatem ad solatium, ille iuvenis, qui eam diligebat, amplexatus est eam et deosculatus: quo facto, fugit. Mater puelle ex hoc turbata nimium et ira repleta, dixit patri puelle, scilicet Phisistrato domino ville: Si es dominus istius ville, fac vindictam de illo et brachiis eius, qui amplexatus est filiam nostram. Phisistratus, dux Athenarum, videns uxorem suam ira et impetu plenam, dixit cum facie alacri: Non condempnaverimus ipsum, qui filiam nostram tam ardenter diligit; quid faciemus hiis qui nos et nostra odirent? Et tali modo Phisistratus placavit iram uxoris sue.
 
@@ -420,71 +420,71 @@ Postea vidi gentes accensas in igne ire, cum lapidibus unum iuvenculum occidere 
 
 <!-- p. 599 (0653) -->
 
-³⁹ Quando l'anima mia tornò (¹) di fuori\
-&emsp;A le cose (²) che son fuor di lei vere,\
-&emsp;Io ricognobbi e miei non falsi (³) errori (⁴).
+39 Quando l'anima mia tornò (1) di fuori\
+&emsp;A le cose (2) che son fuor di lei vere,\
+&emsp;Io ricognobbi e miei non falsi (3) errori (4).
 
-³⁹ Quando anima mea redivit extra\
+39 Quando anima mea redivit extra\
 &emsp;Ad res veras, que sunt extra ipsam vere,\
 &emsp;Ego recognovi meos non falsos errores.
 
-⁴⁰ Lo duca mio, che mi potea vedere\
+40 Lo duca mio, che mi potea vedere\
 &emsp;Far sì com'huomo che dal sonno si slegha,\
 &emsp;Disse: Che hai, che non ti puoi tenere;
 
-⁴⁰ Dux meus, qui me poterat videre\
+40 Dux meus, qui me poterat videre\
 &emsp;Fieri sicut homo qui a somno dissolvitur,\
 &emsp;Dixit: Quid habes, quod non potes te sustinere;
 
-⁴¹ Ma se'venuto più di mezza legha,\
+41 Ma se'venuto più di mezza legha,\
 &emsp;Velando gl'ochi e co'le gambe avolte,\
 &emsp;A guisa di cui vino e sonno piegha?
 
-⁴¹ Sed venisti plusquam mediam leucam,\
+41 Sed venisti plusquam mediam leucam,\
 &emsp;Velando oculos et cum cruribus involutis,\
 &emsp;Ad similitudinem illius quem vinum et sompnus plicat?
 
-⁴² O dolce padre mio, se tu m'ascolte,\
+42 O dolce padre mio, se tu m'ascolte,\
 &emsp;Io ti dirò, diss'io, ciò che m'apparve\
 &emsp;Quando le gambe mi furon sì tolte.
 
-⁴² O dulcis pater mi, si tu me auscultas,\
+42 O dulcis pater mi, si tu me auscultas,\
 &emsp;Ego dicam tibi, dixi ego, id quod michi apparuit\
 &emsp;Quando crura fuerunt michi ita sublata.
 
-⁴³ Et ei (⁵): Se tu (⁶) havessi cento larve (⁷)\
+43 Et ei (5): Se tu (6) havessi cento larve (7)\
 &emsp;Sopra la faccia, non mi sarian chiuse\
 &emsp;Le tue cogitation, quantunque parve.
 
-⁴³ Et ipse: Si tu haberes centum larvas\
+43 Et ipse: Si tu haberes centum larvas\
 &emsp;Super facie, non essent michi clause\
 &emsp;Tue cogitationes, quantumcumque parve essent.
 
-⁴⁴ Ciò che vedesti (⁸) fu, perchè non scuse\
+44 Ciò che vedesti (8) fu, perchè non scuse\
 &emsp;D'aprir lo cor all'acque della pace\
 &emsp;Che dall'etterno fonte son diffuse.
 
-⁴⁴ Id quod vidisti fuit, ut non excuses\
+44 Id quod vidisti fuit, ut non excuses\
 &emsp;Aperire cor ad aquas pacis\
 &emsp;Que ab eterno fonte sunt diffuse.
 
-⁴⁵ Non domandai (⁹), Che hai? per quel ch'el face (¹⁰)\
-&emsp;Chi (¹¹) guarda pur (¹²) coll'ochio (¹³) che non vede,\
-&emsp;Quando disanimato (¹⁴) el corpo giace (¹⁵);
+45 Non domandai (9), Che hai? per quel ch'el face (10)\
+&emsp;Chi (11) guarda pur (12) coll'ochio (13) che non vede,\
+&emsp;Quando disanimato (14) el corpo giace (15);
 
-⁴⁵ Non interrogavi, Quid habes? propter id quod facit\
+45 Non interrogavi, Quid habes? propter id quod facit\
 &emsp;Qui respicit solum cum oculo qui non videt,\
 &emsp;Quando exanimatum corpus iacet;
 
-⁴⁶ Ma domandai per darti forz'al piede:\
+46 Ma domandai per darti forz'al piede:\
 &emsp;Così frugar conviensi e' pigri e lenti\
 &emsp;Ad usar lor vigilia quando riede.
 
-⁴⁶ Sed interrogavi ut darem vim pedi tuo:\
+46 Sed interrogavi ut darem vim pedi tuo:\
 &emsp;Sic frugari convenit pigros lentos\
 &emsp;Ad utendum eorum vigilia quando redit.
 
-(¹) dalla extasi. — (²) corporali. — (³) ma veri. — (⁴) dell' odio, ira, partialità, et inimicitia. — (⁵) Virgilio disse. — (⁶) o Dante. — (⁷) maschere. — (⁸) in visione. — (⁹) te Dante. — (¹⁰) domanda. — (¹¹) colui che. — (¹²) solamente. — (¹³) corporale. — (¹⁴) senza animale intelligentia. — (¹⁵) dormendo.
+(1) dalla extasi. — (2) corporali. — (3) ma veri. — (4) dell' odio, ira, partialità, et inimicitia. — (5) Virgilio disse. — (6) o Dante. — (7) maschere. — (8) in visione. — (9) te Dante. — (10) domanda. — (11) colui che. — (12) solamente. — (13) corporale. — (14) senza animale intelligentia. — (15) dormendo.
 
 Quando anima mea. Quando l'anima mia: hec est quarta pars huius capituli, in qua ponitur interpretatio et causa visionis huius predicte, et ostenditur quomodo auctor rediit ad se, dimictendo extasim. Quando anima mea redivit extra (quia prius erat intus abstracta; illa, que videbat intus, era[n]t ymmaginaria) ad res veras que sunt extra ipsam vere, ego recognovi vero[s] non falsos errores. Dicit errores; sed dicit illos non esse falsos errores, quia verum erat quod ita fuerat in facto, sicut sibi videbatur videre in sompno. Et vult dicere, in summa: Quando excitatus sum sic, vidi, etc., etc.
 
@@ -498,25 +498,25 @@ Id quod vidisti, fuit ut non excuses, idest recuses, apperire cor ad aquas pacis
 
 <!-- p. 600 (0654) -->
 
-⁴⁷ Noi andavàn per lo vespero attenti\
+47 Noi andavàn per lo vespero attenti\
 &emsp;Oltre, quanto potean gl'ochi allungarsi,\
 &emsp;Contr' a' raggi serotini e lucenti.
 
-⁴⁷ Nos ibamus per vesperum attenti\
+47 Nos ibamus per vesperum attenti\
 &emsp;Ultra, quantum poterant oculi elongari,\
 &emsp;Contra radios serotinos et lucentes.
 
-⁴⁸ Et ecco a poco a poco un fumo farsi\
+48 Et ecco a poco a poco un fumo farsi\
 &emsp;Verso di noi, come la nocte, oscuro,\
 &emsp;Nè da quel era loco da scansarsi:\
-&emsp;Questo ne tolse gl'ochi (¹) e l'aer puro.
+&emsp;Questo ne tolse gl'ochi (1) e l'aer puro.
 
-⁴⁸ Et ecce paulatim unum fumum fieri\
+48 Et ecce paulatim unum fumum fieri\
 &emsp;Versus nos, sicut nox, obscurum,\
 &emsp;Nec ab illo erat locus ut cessaremus:\
 &emsp;Iste nobis abstulit oculos et aierem purum.
 
-(¹) el vedere.
+(1) el vedere.
 
 corpus iacet (per faciem hic intelligitur mens; si igitur hic non videtur facies, non videtur mens: examinatum corpus, idest sine anima tua, est mortuum); sed interrogavi ut darem vim pedi, scilicet tuo, ut animarem te ad veniendum: sic frugari, idest sollicitari, convenit pigros, idest oportet sollicitari pigros, lentos ad utendum eorum vigilia, quando redit; quia plus timetur reprehensio expressa, quam tacita. Vult dicere: Non petii te illa de causa; quia ille qui videt, [non] oculo corporali sed mentali, sicut erat tunc Dantes, sciebat omnia intrinseca absque visione exteriori; que non fit quando homo mortuus est: sed spiritualis visio non deficit, esto quod homo moriatur; ymo mens separata a corpore, magis videt et lucidius quam mens viventis.
 

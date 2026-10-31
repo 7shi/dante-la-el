@@ -8,19 +8,19 @@ In nono capitulo, quod incipit: Postquam Karolus tuus, auctor prosequitur adhuc 
 
 # Capitulum Nonum
 
-¹ Da poi che Karlo tuo, bella Clemenza,\
+1 Da poi che Karlo tuo, bella Clemenza,\
 &emsp;M'ebbe chiarito, mi narrò gl'inganni\
 &emsp;Che ricever dovea la sua semenza;
 
-¹ Postquam Karolus tuus, pulchra Clementia,\
+1 Postquam Karolus tuus, pulchra Clementia,\
 &emsp;Me clarificavit, michi narravit deceptiones\
 &emsp;Quas recipere debebat suum semen;
 
-² Ma disse: Tace, e lassa muover gl'anni.\
+2 Ma disse: Tace, e lassa muover gl'anni.\
 &emsp;Sì ch'io non posso dir, se non che pianto\
 &emsp;Giusto verrà dirieto a'vostri danni.
 
-² Sed dixit: Tace, et permicte ut volvantur anni.\
+2 Sed dixit: Tace, et permicte ut volvantur anni.\
 &emsp;Sic quia ego non possum dicere, nisi quod planctus\
 &emsp;Iustus veniet retro vestra dampna.
 
@@ -42,47 +42,47 @@ Primo igitur auctor continuat dicta dicendis, a primo, apostrophando ad Karolum 
 
 <!-- p. 921 (0975) -->
 
-³ E gia la vista di quel lume sancto\
+3 E gia la vista di quel lume sancto\
 &emsp;Rivolta s'era al ben che la riempie,\
 &emsp;Com'a quel ben ch'a ogni cosa è tanto.
 
-³ Et iam vita illius luminis sancti\
+3 Et iam vita illius luminis sancti\
 &emsp;Conversa erat ad solem qui ipsam replet,\
 &emsp;Sicut illud bonum, quod omni rei est tantum.
 
-⁴ Hay, anime ingannate, e facture empie,\
+4 Hay, anime ingannate, e facture empie,\
 &emsp;Che da sì facto ben torcete e cuori,\
-&emsp;Drizando in vanità le vostre tempie (¹)!
+&emsp;Drizando in vanità le vostre tempie (1)!
 
-⁴ Ay, anime ingrate, et facture impie,\
+4 Ay, anime ingrate, et facture impie,\
 &emsp;Que a tali bono torquetis corda,\
 &emsp;Dirigendo in vanitatem vestra tympora!
 
-⁵ Et ecco un altro di quelli splendori\
+5 Et ecco un altro di quelli splendori\
 &emsp;Ver me si fece, e suo voler piacermi\
 &emsp;Significava nel chiarir di fuori.
 
-⁵ Et ecce unus alius de illis splendoribus\
+5 Et ecce unus alius de illis splendoribus\
 &emsp;Versus me se fecit, et suum velle placere michi\
 &emsp;Significabat in claritate deforis.
 
-⁶ L'ochi di Beatrice, ch'eran fermi\
+6 L'ochi di Beatrice, ch'eran fermi\
 &emsp;Sopra me, come pria, di caro assenso\
 &emsp;Al mio desio certificato fermi.
 
-⁶ Oculi Beatricis, qui erant firmi\
+6 Oculi Beatricis, qui erant firmi\
 &emsp;Super me, sicut prius, de caro assensu\
 &emsp;Ad meum desiderium certificatum me fecerunt.
 
-⁷ De! mette al mio voler tosto compenso,\
+7 De! mette al mio voler tosto compenso,\
 &emsp;Beato spirto, dissi, e fammi prova\
 &emsp;Che possa in te riflecter quel ch'io penso.
 
-⁷ De! mictas meo velle cito compensum,\
+7 De! mictas meo velle cito compensum,\
 &emsp;Beate spiritus, dixi, et facias michi probationem\
 &emsp;Que posset in te reflectere illud quod ego cogito.
 
-(¹) capita.
+(1) capita.
 
 Martello conqueritur de deceptione facta filio suo per regem Rubertum, qui sibi abstulit regnum fraudolenter, prophetans mala futura imminere ipsi regi Ruberto. Et sic evenerunt. Nam rex Rubertus non habuit nisi unum filium, nomine Karolum, virum utique maxime virtutis, qui no[n] habuit nisi duas filias, scilicet dominam Ioannam primam et Mariam dominam; et mortuus est iste Karolus filius regis Ruberti ante patrem, remanentibus istis duabus suis neptibus et filiabus filii sui Karoli, qui fuit dux Calabrie. Veniens ad mortem ipse rex Rubertus, videns se non habere filium, et memor iniurie et deceptionis quas intulerat nepoti suo regi Ungarie, ordinavit quod istarum duarum suarum neptium prima remaneret Neapolim regina Cicilie, et secundus genitus nepotis sui regis, scilicet Andreas, esset maritus suus et coronaretur rex Cicilie, et secunda sua neptis esset uxor primogeniti nepotis sui, scilicet Ludovici, qui fuit penultimus rex Ungarie, de quo dictum est. Andreas venit de Ungaria in regnum Cicilie, et desponsavit reginam Ioannam, et fuit coronatus, et habuit ex ea filium, et stetit duobus annis Neapolim. Tandem, dyabolo suggerente, regina Ioanna, uxor eius, fecit una nocte suspendi in castro Adversano eum cum uno laqueo siricino. Ad cuius mortem vindicandam venit germanus suus, rex Ungarie, rex Ludovicus, et intravit regnum, et fecit magnam stragem hominum et maximam vindictam.
 
@@ -100,59 +100,59 @@ De! mictas, idest reponas, meo velle (dativi casus) cito compensum, scilicet com
 
 <!-- p. 922 (0976) -->
 
-⁸ Indi la luce che m'era ancor nuova,\
+8 Indi la luce che m'era ancor nuova,\
 &emsp;Del suo profondo, ond'ella pria cantava,\
 &emsp;Seguette, come a cui di ben far giova:
 
-⁸ Unde lux que erat adhuc michi nova,\
+8 Unde lux que erat adhuc michi nova,\
 &emsp;De suo profundo, unde ipsa prius cantabat,\
 &emsp;Sequuta est, sicut ille cui benefacere prodest:
 
-⁹ In quella parte de la terra prava\
+9 In quella parte de la terra prava\
 &emsp;Italica, che siede tra Rialto\
 &emsp;E le fontane di Brenta e di P[i]ava,
 
-⁹ In illa parte terre prave\
+9 In illa parte terre prave\
 &emsp;Ytalice, que sedet inter Rivum Altum\
 &emsp;Et fontes Brentae et Piave,
 
-¹⁰ Si leva un colle, e non surge molt'alto,\
+10 Si leva un colle, e non surge molt'alto,\
 &emsp;Là onde scese già una facella,\
 &emsp;Che fece a la contrada grand'assalto.
 
-¹⁰ Elevatur unus collis, et non surgit multum alte,\
+10 Elevatur unus collis, et non surgit multum alte,\
 &emsp;Unde descendit iam una facella,\
 &emsp;Que fecit contrate unum grandem insultum.
 
-¹¹ D'una radice nacqui et io et ella;\
+11 D'una radice nacqui et io et ella;\
 &emsp;Cimisa fui chiamata, e qui rifulgo,\
 &emsp;Perchè mi vinse el lume de la stella.
 
-¹¹ De una radice nascebar ego et ipsa;\
+11 De una radice nascebar ego et ipsa;\
 &emsp;Cunizza fui vocata, et hic refulgeo,\
 &emsp;Quia me vicit lumen istius stelle.
 
-¹² Ma lietamente a me medesma indulgo\
+12 Ma lietamente a me medesma indulgo\
 &emsp;La cagion di mia sorte, e non mi noia,\
 &emsp;Che paria forse forte al vostro vulgo.
 
-¹² Sed lete michi ipsi indulgeo\
+12 Sed lete michi ipsi indulgeo\
 &emsp;Causam mee sortis, et michi non nocet,\
 &emsp;Quod forsan appareret forte vulgo vestro.
 
-¹³ Di questa luculenta e cara gioia\
+13 Di questa luculenta e cara gioia\
 &emsp;Del nostro cielo, che m'è più propinqua,\
 &emsp;Grande fama rimase, e, pria che muoia,
 
-¹³ De ista luculenta et cara gioia\
+13 De ista luculenta et cara gioia\
 &emsp;De nostro celo, que michi plus appropinquat,\
 &emsp;Grandis fama remansit, et, priusquam moriatur,
 
-¹⁴ Questo centesimo anno ancor s'incinqua.\
+14 Questo centesimo anno ancor s'incinqua.\
 &emsp;Vedi se far si de' l'huomo excellente,\
 &emsp;Sì ch'altra vita a la prima relinqua!
 
-¹⁴ Iste centesimus annus adhuc quintuplicabitur.\
+14 Iste centesimus annus adhuc quintuplicabitur.\
 &emsp;Videas si homo fieri debet excellens,\
 &emsp;Ita quod aliam vitam prima relinquat!
 
@@ -166,11 +166,11 @@ Iam vadit auctor ad tractandum de alia anima, mediante Cunizza. De ista luculent
 
 <!-- p. 923 (0977) -->
 
-¹⁵ E ciò non pensa la turba presente,\
+15 E ciò non pensa la turba presente,\
 &emsp;Che Taglamento et Adice rinchiude,\
 &emsp;Nè per esser battuta ancor si pente.
 
-¹⁵ Et hoc non cogitat turba presens,\
+15 Et hoc non cogitat turba presens,\
 &emsp;Quam Tagliamentum et Adex recludunt,\
 &emsp;Nec quamquam percussa sit adhuc non penitet.
 
@@ -180,67 +180,67 @@ Et hec non cogitat turba presens. E ciò non pensa la turba presente: hec est se
 
 <!-- p. 924 (0978) -->
 
-¹⁶ Ma tosto fia che Padova al palude\
+16 Ma tosto fia che Padova al palude\
 &emsp;Cangerà l'acqua che Vicenza bagna,\
 &emsp;Per esser al dover le genti crude.
 
-¹⁶ Sed cito erit quod Padua ad paludem\
+16 Sed cito erit quod Padua ad paludem\
 &emsp;Mutabit aquam que balneat Vincentiam,\
 &emsp;Ut sint ad suum debitum gentes crude.
 
-¹⁷ E là u'Syle e Cagna[n] s'accompagna,\
+17 E là u'Syle e Cagna[n] s'accompagna,\
 &emsp;Tal signoreggia e va co'la test'alta,\
 &emsp;Che già per lui carpir si fa la ragna.
 
-¹⁷ Et ubi Sillus et Cagnanus assotiantur,\
+17 Et ubi Sillus et Cagnanus assotiantur,\
 &emsp;Talis dominatur et vadit cum capite alto,\
 &emsp;Et iam pro eo capiendo fit rethe.
 
-¹⁸ Piangerà Feltro ancora la difalta\
+18 Piangerà Feltro ancora la difalta\
 &emsp;Dell'empio suo pastor, che serà sconcia\
 &emsp;Sì, che per simil non s'intrò in Malta.
 
-¹⁸ Planget Feltrum adhuc diffaltam\
+18 Planget Feltrum adhuc diffaltam\
 &emsp;Impii sui pastoris, qui erit terribilis\
 &emsp;Ita, quod simili culpa non intratum fuit in Maltam.
 
-¹⁹ Troppo sarebbe larga la bigoncia\
+19 Troppo sarebbe larga la bigoncia\
 &emsp;Che ricevesse el sangue ferrarese,\
 &emsp;E stanco chi'l pesasse ad oncia ad oncia,
 
-¹⁹ Nimis esset larga biguntia\
+19 Nimis esset larga biguntia\
 &emsp;Que acciperet sanguinem Ferrariensem,\
 &emsp;Et fessus qui illum ponderaret ad unciam ad unciam,
 
-²⁰ Che donerà questo prete cortese,\
+20 Che donerà questo prete cortese,\
 &emsp;Per mostrarsi di parte; e cotai doni\
 &emsp;Conformi fieno al viver del paese.
 
-²⁰ Quem donabit iste presbiter curialis,\
+20 Quem donabit iste presbiter curialis,\
 &emsp;Ut monstret se partialem; et talia dona\
 &emsp;Conformia erunt vite regionis.
 
-²¹ Su sono specchi, voi dicete Troni,\
+21 Su sono specchi, voi dicete Troni,\
 &emsp;Onde refulge a noi Dio iudicante,\
 &emsp;Sì che questi parlar ne paian buoni.
 
-²¹ Superius sunt specula, vos dicitis Tronos,\
+21 Superius sunt specula, vos dicitis Tronos,\
 &emsp;Unde refulget nobis Deus iudicans,\
 &emsp;Ita quod isti sermones nobis apparent boni.
 
-²² Qui si tacette, e fecemi sembiante\
+22 Qui si tacette, e fecemi sembiante\
 &emsp;Che fosse ad altro volta, per la rota\
 &emsp;In che si misse com'era davante.
 
-²² Hic tacuit, et fecit michi signum\
+22 Hic tacuit, et fecit michi signum\
 &emsp;Quod esset ad aliud conversus, per rotam\
 &emsp;In qua se misit sicut erat ante.
 
-²³ L'altra letitia, che m'era già nota,\
+23 L'altra letitia, che m'era già nota,\
 &emsp;Preclara cosa mi si fece in vista,\
 &emsp;Qual fin balascio in che lo sol percuota.
 
-²³ Alia letitia, que erat michi iam nota\
+23 Alia letitia, que erat michi iam nota\
 &emsp;Pro cara coxa, versus me se fecit in vista,\
 &emsp;Sicut perfectum balassium in quod sol percutit.
 
@@ -260,11 +260,11 @@ Alia letitia, que michi erat iam nota. L'altra letitia che m'era già nota: hec 
 
 <!-- p. 925 (0979) -->
 
-²⁴ Per letitia lassù fulgor s'acquista,\
+24 Per letitia lassù fulgor s'acquista,\
 &emsp;Sì come riso qui; ma giù s'abbuia\
 &emsp;L'ombra di fuor, come la mente è trista.
 
-²⁴ Propter letitiari ibi fulgur acquiritur,\
+24 Propter letitiari ibi fulgur acquiritur,\
 &emsp;Sicut risus hic; sed inferius obscuratur\
 &emsp;Umbra de foris, sicut quando mens est tristis.
 
@@ -278,59 +278,59 @@ Propter letitiari, idest letari, ibi, scilicet in celo, fulgur acquiritur, sicut
 
 <!-- p. 926 (0980) -->
 
-²⁵ Dio vede tutto, e'l tuo veder s'illuia,\
+25 Dio vede tutto, e'l tuo veder s'illuia,\
 &emsp;Diss'io, beato spirto, sì che nulla\
 &emsp;Vogla di sè a te puot'esser suia.
 
-²⁵ Deus videt totum, et tuum videre inluiatur,\
+25 Deus videt totum, et tuum videre inluiatur,\
 &emsp;Dixi ego, beate spiritus, ita quod nihil\
 &emsp;Voluntatis illius tibi potest esse absconsum.
 
-²⁶ Dunque la voce tua, che 'l ciel trastulla\
+26 Dunque la voce tua, che 'l ciel trastulla\
 &emsp;Sempre col canto di quei fochi pii\
 &emsp;Che di sei hali facean la cuculla,
 
-²⁶ Ergo vox tua, que celum letificat\
+26 Ergo vox tua, que celum letificat\
 &emsp;Semper cum cantu illorum ignium piorum,\
 &emsp;Qui de sex alis faciebant cucullam,
 
-²⁷ Perchè non satisface a'miei desii?\
+27 Perchè non satisface a'miei desii?\
 &emsp;Già non attendere'io tua domanda,\
 &emsp;S'io m'intuassi, come tu t'immii.
 
-²⁷ Quare non satisfacit meis desideriis?\
+27 Quare non satisfacit meis desideriis?\
 &emsp;Iam ego non expectarem tuam petitionem,\
 &emsp;Si ego me intuarem, sicut tu immearis.
 
-²⁸ La maggior valle in che l'acqua si spanda,\
+28 La maggior valle in che l'acqua si spanda,\
 &emsp;Incominciar allor le sue parole,\
 &emsp;Fuor di quel mar che la terra inghirlanda,
 
-²⁸ Maior vallis in quam aqua expanditur,\
+28 Maior vallis in quam aqua expanditur,\
 &emsp;Inceperunt sic tunc sua verba,\
 &emsp;Preter illud mare quod terram ingrilandat,
 
-²⁹ Tra discordanti liti, contra'l sole\
+29 Tra discordanti liti, contra'l sole\
 &emsp;Tanto sen va, che fa meridiano\
 &emsp;Là dove l'orizonte pria far suole.
 
-²⁹ Inter discordantia lictora, contra solem\
+29 Inter discordantia lictora, contra solem\
 &emsp;Tantum vadit, quod facit meridianum\
 &emsp;Ubi orizontem prius facere solet.
 
-³⁰ Di quella valle fu'io litorano,\
+30 Di quella valle fu'io litorano,\
 &emsp;Tra Hebro e Macra, che per cammin corto\
 &emsp;Lo Genovese parte dal Toscano.
 
-³⁰ Illius vallis fui ego lictoranus,\
+30 Illius vallis fui ego lictoranus,\
 &emsp;Inter Ebrum et Macram, que per iter breve\
 &emsp;Dividit Ianuense a Tusco.
 
-³¹ Ad uno occaso quasi et ad un orto\
+31 Ad uno occaso quasi et ad un orto\
 &emsp;Buggea siede e la terra, ond'io fui,\
 &emsp;Che fe'del sangue suo già caldo el porto.
 
-³¹ Ad unum occasum quasi et ad unum ortum\
+31 Ad unum occasum quasi et ad unum ortum\
 &emsp;Bugia sedet et terra, unde ego fui,\
 &emsp;Que facit de sanguine suo iam calidum portum.
 
@@ -346,55 +346,55 @@ Ad unum occasum quasi [et] ad unum ortum Bugia, civitas idest [in] Barbaria, sed
 
 <!-- p. 927 (0981) -->
 
-³² Folco mi disse quella gente, a cui\
+32 Folco mi disse quella gente, a cui\
 &emsp;Fu noto 'l nome mio; e questo cielo\
 &emsp;Di me s'imprenta, com'io fei di lui;
 
-³² Fulchum me dixit illa gens, cui\
+32 Fulchum me dixit illa gens, cui\
 &emsp;Fuit notum nomen meum; et istud celum\
 &emsp;De me imprimitur, sicut ego de illo impressus fui;
 
-³³ Chè più non arse la figla (¹) di Belo,\
+33 Chè più non arse la figla (1) di Belo,\
 &emsp;Noiando et a Sycheo et a Creusa,\
 &emsp;Di me, perfin che si convenne al pelo;
 
-³³ Quia plus non arsit filia Beli,\
+33 Quia plus non arsit filia Beli,\
 &emsp;Iniuriando Sicheo et Creuse,\
 &emsp;Quam ego, quousque fuit conveniens pilo;
 
-³⁴ Nè quella Rodopeya che delusa\
+34 Nè quella Rodopeya che delusa\
 &emsp;Da Demofonte fu, nè anco Alcyde\
 &emsp;Quando Yole nel cuor ebbe rinchiusa.
 
-³⁴ Nec illa Rodopeya que delusa\
+34 Nec illa Rodopeya que delusa\
 &emsp;Fuit a Demophonte, nec Alcides\
 &emsp;Quando Iolem in corde habuit reclusam.
 
-³⁵ Non però qui si pente, ma si ride,\
+35 Non però qui si pente, ma si ride,\
 &emsp;Non della colpa, ch'a mente non torna,\
 &emsp;Ma del valor ch'ordinò e provide.
 
-³⁵ Non propter hoc hic aliquem penitet, sed hic est risus,\
+35 Non propter hoc hic aliquem penitet, sed hic est risus,\
 &emsp;Non culpe, que ad mentem non revertitur,\
 &emsp;Sed valoris qui ordinat et providet.
 
-³⁶ Qui si rimira nell'arte che adorna\
+36 Qui si rimira nell'arte che adorna\
 &emsp;Cotanto effecto, e discernesi el bene,\
 &emsp;Perch'al mo[n]do di su quel di giù torna.
 
-³⁶ Hic respicitur in artem que est ornata\
+36 Hic respicitur in artem que est ornata\
 &emsp;Cum tanto affectu, et discernitur bonum,\
 &emsp;Quia mundus inferior ad illum superiorem reducitur.
 
-³⁷ Ma perchè tutte le tuo' vogle piene\
+37 Ma perchè tutte le tuo' vogle piene\
 &emsp;Ten porti, che son nate in questa spera,\
 &emsp;Proceder ancor oltra mi conviene.
 
-³⁷ Sed ad hoc ut omnes tuas voluntates plenas\
+37 Sed ad hoc ut omnes tuas voluntates plenas\
 &emsp;Tecum reportes, que sunt nate in ista spera,\
 &emsp;Procedere adhuc ultra michi convenit.
 
-(¹) Dydone
+(1) Dydone
 
 Fulchum me dixit, idest vocavit, illa gens, cui fuerat notum nomen meum, et istud celum, scilicet Veneris, de me imprimitur, quia in eo sum collocatus, sicut ego de illo impressus fui, idest eius influentia me mirabiliter disposuit. Nam ego habui tantum de Venere, fui ita philocaptus et in tantum, quod plus non arsit, scilicet in amore, filia Beli, scilicet Dido de Carthagine, iniurando Sicheo primo suo marito, scilicet diligendo post mortem eius Eneam, et Creuse, scilicet prime uxori Enee, quam ego, quousque fuit conveniens pilo, quousque fui iuvenis. Quando homo est senex, homo fit canus, et tunc plurimum disconvenit homini sequi Venerem.
 
@@ -410,63 +410,63 @@ Quod et ipsi fecerunt. Ista vero de nocte dimisit eos per fenestram domus sue, q
 
 <!-- p. 928 (0982) -->
 
-³⁸ Tu vuoi saper chi è'n questa lumera,\
+38 Tu vuoi saper chi è'n questa lumera,\
 &emsp;Che qui apresso me così scintilla,\
 &emsp;Come raggio di sole in acqua mera.
 
-³⁸ Tu vis scire quis est in ista lumera,\
+38 Tu vis scire quis est in ista lumera,\
 &emsp;Que hic prope me sic scintillat,\
 &emsp;Sicut radius solis in aqua mera.
 
-³⁹ Or sappi che là entro si tranquilla\
+39 Or sappi che là entro si tranquilla\
 &emsp;Raab, et a nostr'ordine è congiunta,\
 &emsp;E di lei el sommo grado si sigilla.
 
-³⁹ Nunc scias quod intra illam tranquillatur\
+39 Nunc scias quod intra illam tranquillatur\
 &emsp;Raab, et nostro ordini sic coniuncta\
 &emsp;Illius in summo gradu sigillatur.
 
-⁴⁰ Da questo cielo, in cui l'ombra s'appunta\
+40 Da questo cielo, in cui l'ombra s'appunta\
 &emsp;Che'l vostro mondo face, pria ch'altr'alma\
 &emsp;Del triumpho di Chrysto fu assumpta.
 
-⁴⁰ Ab isto celo in quo umbra se imprimit,\
+40 Ab isto celo in quo umbra se imprimit,\
 &emsp;Quam vester mundus facit, priusquam alia anima\
 &emsp;De triumpho Christi fuit assumpta.
 
-⁴¹ Ben si convenne lei lassar per palma\
+41 Ben si convenne lei lassar per palma\
 &emsp;In alcun cielo dell'alta victoria\
 &emsp;Che s'acquistò con una et altra palma;
 
-⁴¹ Bene ei convenit eam dimictere pro palma\
+41 Bene ei convenit eam dimictere pro palma\
 &emsp;In aliquo celo alte victorie\
 &emsp;Quam acquisivit cum utraque palma;
 
-⁴² Perch'ella favorò la prima gloria\
+42 Perch'ella favorò la prima gloria\
 &emsp;Di Iosue in su la Terra Sancta,\
 &emsp;Che pocho tocha al papa la memoria.
 
-⁴² Quia ipsa favit prime glorie\
+42 Quia ipsa favit prime glorie\
 &emsp;Iosue in Terra Sancta,\
 &emsp;Cuius parum tangit papam memoria.
 
-⁴³ La tua città, che di colui (¹) è pianta,\
+43 La tua città, che di colui (1) è pianta,\
 &emsp;Che pria volse le spalle al suo Factore,\
 &emsp;E di cui è la invidia tutta quanta,
 
-⁴³ Tua civitas, que illius est planta,\
+43 Tua civitas, que illius est planta,\
 &emsp;Qui prius vertit terga suo Factori,\
 &emsp;Et cuius est invidia tantum planta
 
-⁴⁴ Produce e spande el maladecto fiore,\
+44 Produce e spande el maladecto fiore,\
 &emsp;Ch'à disviato le pecore e gl'agni,\
 &emsp;Però ch'à facto lupo del pastore.
 
-⁴⁴ Producit et expandit maledictum florem,\
+44 Producit et expandit maledictum florem,\
 &emsp;Qui deviavit oves et agnos,\
 &emsp;Eo quia fecit lupum de pastore.
 
-(¹) Lucifero
+(1) Lucifero
 
 domum suum signum, quod dederat aut Iosue et Caleph.
 
@@ -480,28 +480,28 @@ Tua civitas, que illius est planta, qui prius vertit terga suo Factori, idest Lu
 
 <!-- p. 929 (0983) -->
 
-⁴⁵ Per questo l'Evangelio e' Doctor magni\
+45 Per questo l'Evangelio e' Doctor magni\
 &emsp;Son derelicti, e solo a' Decretali\
 &emsp;Si studia sì, ch'appare a'lor vivagni.
 
-⁴⁵ Propter istum Evangelium et Doctores magni\
+45 Propter istum Evangelium et Doctores magni\
 &emsp;Sunt derelicti, et solum ad Decretales\
 &emsp;Studetur ita, quod apparet suis vivagnis.
 
-⁴⁶ A questo attende papa e cardinali:\
+46 A questo attende papa e cardinali:\
 &emsp;Non vanno e lor pensieri a Nazarethe,\
 &emsp;Là dove Gabriel aperse l'hali.
 
-⁴⁶ Ad istud intendunt papa et cardinales:\
+46 Ad istud intendunt papa et cardinales:\
 &emsp;Non vadunt eorum cogitationes ad Nazareth,\
 &emsp;Ubi Gabriel aperuit alas.
 
-⁴⁷ Ma Vaticano, e l'altre parti electe\
+47 Ma Vaticano, e l'altre parti electe\
 &emsp;Di Roma, che son state cimiterio\
 &emsp;A la militia che Pietro seguette,\
 &emsp;Tosto libere fien dell'adulterio.
 
-⁴⁷ Sed Vaticanum, et alie partes electe\
+47 Sed Vaticanum, et alie partes electe\
 &emsp;Rome, que fuerunt cimiterium\
 &emsp;Militie quam Petrus sequutus est,\
 &emsp;Cito libere erunt de adulterio.

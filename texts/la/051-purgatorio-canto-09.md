@@ -12,19 +12,19 @@ non recte volve[re]tur, porta non aperiretur. Has, scilicet claves, a Petro tene
 
 # Capitulum Nonum
 
-¹ La concubina di Tytone antico\
+1 La concubina di Tytone antico\
 &emsp;Già s'imbiancava al balzo d'Oriente,\
 &emsp;Fuor de le braccia del suo dolce amico:
 
-¹ Concubina Titonis antiqui\
+1 Concubina Titonis antiqui\
 &emsp;Iam albescebat in balzo Orientis,\
 &emsp;Extra brachia sui dulcis amici:
 
-² Di gemme la sua fronte era lucente,\
+2 Di gemme la sua fronte era lucente,\
 &emsp;Poste in figura del freddo animale,\
 &emsp;Che colla coda percůote la gente:
 
-² Gemmis sua facies erat lucens,\
+2 Gemmis sua facies erat lucens,\
 &emsp;Posita in figura frigidi animalis,\
 &emsp;Quod cum sua cauda percutit gentes:
 
@@ -48,47 +48,47 @@ Redeundo ad primam partem, primo auctor premictit horam sompnii. Hic auctor feci
 
 <!-- p. 524 (0578) -->
 
-³ E la nocte de' passi, con che sale,\
+3 E la nocte de' passi, con che sale,\
 &emsp;Fact'havea due nel luogo ove eravamo,\
 &emsp;E'l terzo già chinava in giuso l'hale:
 
-³ Et nox de passibus, cum quibus ascendit,\
+3 Et nox de passibus, cum quibus ascendit,\
 &emsp;Fecerat duos in loco ubi eramus,\
 &emsp;Et tertius iam inclinabat infra alas:
 
-⁴ Quand'io, che meco havea di quel d'Adamo (¹),\
+4 Quand'io, che meco havea di quel d'Adamo (1),\
 &emsp;Vinto dal sonno, in sull'herba inchinai\
 &emsp;Là dove cinque tutti già sedavamo.
 
-⁴ Quando ego, qui mecum [habebam] de illo Ade,\
+4 Quando ego, qui mecum [habebam] de illo Ade,\
 &emsp;Victus a sompno, super herbam inclinavi\
 &emsp;Ibi ubi omnes quinque sedebamus;
 
-⁵ Nell'hora che comincia e tristi lai\
+5 Nell'hora che comincia e tristi lai\
 &emsp;La rondinella presso a la mattina,\
 &emsp;Forse a memoria de' suo'primi guai;
 
-⁵ In hora qua incipit tristes lamentationes\
+5 In hora qua incipit tristes lamentationes\
 &emsp;Yrundo prope matutinum,\
 &emsp;Forsan ad memoriam suorum primorum dolorum;
 
-⁶ E che la mente nostra peregrina\
+6 E che la mente nostra peregrina\
 &emsp;Più da la carne, e men da pensier presa,\
 &emsp;Alle sue vision quasi è divina;
 
-⁶ Et mens nostra peregrina\
+6 Et mens nostra peregrina\
 &emsp;Plus a carne, et minus a cogitatione capta,\
 &emsp;Suarum visionum [est] quasi presaga,
 
-⁷ In sogno mi parea veder sospesa\
+7 In sogno mi parea veder sospesa\
 &emsp;Un'aquila nel ciel con penne d'oro,\
 &emsp;Con l'hale aperte, et a calar intesa.
 
-⁷ In sompno michi apparebat videre suspensam\
+7 In sompno michi apparebat videre suspensam\
 &emsp;Unam aquilam in celum cum pennis aureis,\
 &emsp;Cum alis apertis, et ad calandum intentam.
 
-(¹) de la carne.
+(1) de la carne.
 
 aurora lune iam albescebat, erat plus quam hora secunda noctis. Quando Dantes incepit opus, sol erat in Ariete, luna in Libra, et adhuc sol erat in Ariete, luna vero in Scorpione, quia luna statim discurrit signum respectu solis. Tunc ad textum.
 
@@ -100,59 +100,59 @@ Trascie insule, in qua est gens cruda et ferox, accepit in uxorem primam filiam 
 
 <!-- p. 525 (0579) -->
 
-⁸ Et esser mi parea là dove foro\
+8 Et esser mi parea là dove foro\
 &emsp;Abbandonati e suoi da Ghanymede,\
 &emsp;Quando fu rapto al sommo concistoro.
 
-⁸ Et esse michi apparebat ibi ubi fuerunt\
+8 Et esse michi apparebat ibi ubi fuerunt\
 &emsp;Derelicti sui a Ganimede,\
 &emsp;Quando fuit raptus ad summum consistorium.
 
-⁹ Fra me pensava: Forse questa siede\
+9 Fra me pensava: Forse questa siede\
 &emsp;Pur qui per uso, e forse d'altro loco\
 &emsp;Disdegnan di portarne suso in piede.
 
-⁹ Infra me cogitabam: Forsan ista ferit\
+9 Infra me cogitabam: Forsan ista ferit\
 &emsp;Solum hic pro usu, et forsan de alio loco\
 &emsp;Dedignatur portare sursum in pedibus.
 
-¹⁰ Poi mi parea, che giù rotata un poco,\
+10 Poi mi parea, che giù rotata un poco,\
 &emsp;Terribil come folgor descendesse,\
 &emsp;E me rapisse suso infin al fuoco.
 
-¹⁰ Postea apparuit michi, quod magis rotando aliquantulum,\
+10 Postea apparuit michi, quod magis rotando aliquantulum,\
 &emsp;Terribilis sicut fulgur descenderet,\
 &emsp;Et me raperet sursum usque ad ignem.
 
-¹¹ Ivi parea che d'ella et io ardesse,\
+11 Ivi parea che d'ella et io ardesse,\
 &emsp;E sì l'incendio imaginato cosse,\
 &emsp;Che convenne che 'l sonno si rompesse.
 
-¹¹ Ibi apparebat michi quod ipsa et ego arderem,\
+11 Ibi apparebat michi quod ipsa et ego arderem,\
 &emsp;Et ita incendium ymaginatum coxit,\
 &emsp;Quod convenit quod sompnus frangeretur.
 
-¹² Non altrimenti Achille si riscosse,\
+12 Non altrimenti Achille si riscosse,\
 &emsp;Gl'ochi svegliati rivolgendo in giro,\
 &emsp;E non sapendo là dove si fosse,
 
-¹² Non aliter Achilles se excussit,\
+12 Non aliter Achilles se excussit,\
 &emsp;Oculos excitatos volvendo in girum,\
 &emsp;Et nesciendo ubi esset,
 
-¹³ Quando la madre da Chyron a Schyro\
+13 Quando la madre da Chyron a Schyro\
 &emsp;Trafugò lui, dormendo in su le braccia,\
 &emsp;Là onde poi li Greci si partiro;
 
-¹³ Quando eius mater de Chirone ad Aschirum\
+13 Quando eius mater de Chirone ad Aschirum\
 &emsp;Transfugavit eum, dormiendo super brachiis,\
 &emsp;Unde Greci postea illum separaverunt;
 
-¹⁴ Che mi scoss'io, come da la faccia\
+14 Che mi scoss'io, come da la faccia\
 &emsp;Mi fuggì 'l sonno, e doventai smorto,\
 &emsp;Come fa l'huom ch'è spaventato a caccia.
 
-¹⁴ Quam me excusserim ego, statim sicut a facie\
+14 Quam me excusserim ego, statim sicut a facie\
 &emsp;Mea fugit sompnus, et deveni pallidus,\
 &emsp;Sicut efficitur homo pavefactus ad venationem.
 
@@ -170,79 +170,79 @@ Non aliter Achilles se excussit, idest, excitando, sensit oculos excitatos revol
 
 <!-- p. 526 (0580) -->
 
-¹⁵ D'allato m'era solo el mio Conforto,\
+15 D'allato m'era solo el mio Conforto,\
 &emsp;E'l sol er'alto già più che due hore,\
 &emsp;E'l viso m'era alla marina volto.
 
-¹⁵ Ad latus michi erat solum mea Confortatio,\
+15 Ad latus michi erat solum mea Confortatio,\
 &emsp;Et sol erat altus iam plus quam due hore,\
 &emsp;Et visus meus erat ad marinam retortus.
 
-¹⁶ Non haver tema (¹), disse'l mio signore:\
+16 Non haver tema (1), disse'l mio signore:\
 &emsp;Facti sicuro, chè noi siam a buon puncto:\
 &emsp;Non stringer, ma rallarga, ogni vigore.
 
-¹⁶ Non habeas timorem, dixit dominus meus:\
+16 Non habeas timorem, dixit dominus meus:\
 &emsp;Fac te securum, nos sumus ad bonum punctum:\
 &emsp;Non restringas, sed amplies, omnem vigorem.
 
-¹⁷ Tu sei omai al Purgatorio giuncto:\
+17 Tu sei omai al Purgatorio giuncto:\
 &emsp;Vedi là el balzo che chiude dintorno;\
 &emsp;Vedi l'entrata dove par disgiuncto.
 
-¹⁷ Tu ammodo ad Purgatorium devenisti:\
+17 Tu ammodo ad Purgatorium devenisti:\
 &emsp;Vide ibi balzum qui illud claudit in circum;\
 &emsp;Vide introytum ubi apparet disiunctum.
 
-¹⁸ Dianzi, in l'alba che precede el giorno,\
+18 Dianzi, in l'alba che precede el giorno,\
 &emsp;Quando l'anima tua dentro dormiva\
 &emsp;Sopra li fiori, onde lagiù è adorno,
 
-¹⁸ Paulo ante, in alba que precedit diem,\
+18 Paulo ante, in alba que precedit diem,\
 &emsp;Quando anima tua intus dormiebat\
 &emsp;Super floribus, unde est inferius ornatum,
 
-¹⁹ Venne una donna, e disse: Io son Lucia:\
+19 Venne una donna, e disse: Io son Lucia:\
 &emsp;Lassatemi pigliar costui che dorme,\
 &emsp;Sì l'agevolerò per la sua via.
 
-¹⁹ Venit una domina, et dixit: Ego sum Lucia:\
+19 Venit una domina, et dixit: Ego sum Lucia:\
 &emsp;Permic[ti]te me capere istum qui dormit,\
 &emsp;Sic iuvabo eum per suam viam.
 
-²⁰ Sordel rimase, e l'altre genti fòr me:\
+20 Sordel rimase, e l'altre genti fòr me:\
 &emsp;Ella ti tolse; e come'l dì fu chiaro,\
 &emsp;Sen venne suso, et io per le sue orme.
 
-²⁰ Sordellus remansit, et alie gentes, excepto me:\
+20 Sordellus remansit, et alie gentes, excepto me:\
 &emsp;Ipsa te subripuit; et statim sicut dies fuit clara,\
 &emsp;Venit sursum, et ego per sua vestigia.
 
-²¹ Qui ti posò: e poi mi dimostraro\
+21 Qui ti posò: e poi mi dimostraro\
 &emsp;Gl'ochi suoi belli quella intrata aperta:\
-&emsp;Poi ella e'l sonno (²) ad una se n'andaro.
+&emsp;Poi ella e'l sonno (2) ad una se n'andaro.
 
-²¹ Hic te posuit: et prius michi monstrarunt\
+21 Hic te posuit: et prius michi monstrarunt\
 &emsp;Oculi sui pulchri illum introytum apertum;\
 &emsp;Postea ipsa et sompnus una recesserunt.
 
-²² A guisa d'huom che'n dubio si raccerta,\
+22 A guisa d'huom che'n dubio si raccerta,\
 &emsp;Et in conforto muta sua paura,\
 &emsp;Poi che la verità gl'è discoperta,
 
-²² Ad similitudinem hominis qui in dubio certificatur,\
+22 Ad similitudinem hominis qui in dubio certificatur,\
 &emsp;Et qui mutat in confortationem suum pavorem,\
 &emsp;Postquam veritas est sibi discooperta,
 
-²³ Mi ricamb'io: e come senza cura\
+23 Mi ricamb'io: e come senza cura\
 &emsp;Videmi'l duca mio, su per lo scoglo\
 &emsp;Si mosse, et io dirieto inver l'altura.
 
-²³ Me cambi[a]vi ego: et sicut sine cura\
+23 Me cambi[a]vi ego: et sicut sine cura\
 &emsp;Vidit me dux meus, super balzo\
 &emsp;Se movit, et ego retro versus altitudinem.
 
-(¹) timore. — (²) tuo,
+(1) timore. — (2) tuo,
 
 transfugavit eum dormiendo super brachiis, scilicet sue matris, unde Greci cum astutia Ulixis et Diomedis, qui erant ambassiatores Grecorum, postea illum separaverunt; quam me excusseram ego, statim sicut a facie mea fugit sompnus, et deveni, idest factus sum, pallidus, sicut efficitur homo pavefactus ad venationem vel in fuga.
 
@@ -262,55 +262,55 @@ Ad similitudinem hominis, qui in dubio certificatur, et qui mutat in confortatio
 
 <!-- p. 527 (0581) -->
 
-²⁴ Lector, tu vedi ben com'io inalzo\
+24 Lector, tu vedi ben com'io inalzo\
 &emsp;La mia matera, e però con più arte\
 &emsp;Non ti maraviglar s'io la rincalzo.
 
-²⁴ Lector, tu vides bene sicut ego elevo\
+24 Lector, tu vides bene sicut ego elevo\
 &emsp;Materiam meam, et ideo cum maiori arte\
 &emsp;Non mireris si ego illam rincalzo.
 
-²⁵ Noi ci appressammo, et eravammo in parte,\
+25 Noi ci appressammo, et eravammo in parte,\
 &emsp;Colà, dove pareami prima rotto,\
 &emsp;Pur com'un fesso che muro diparte,
 
-²⁵ Nos appropinquavimus, et eramus in parte,\
+25 Nos appropinquavimus, et eramus in parte,\
 &emsp;A qua, ubi michi apparebat prius videre ruptum,\
 &emsp;Ac sicut fixura que murum dividit,
 
-²⁶ Viddi una porta, e tre gradi di sotto,\
+26 Viddi una porta, e tre gradi di sotto,\
 &emsp;Per gir ad essa, di color diversi,\
 &emsp;Et un portier ch'ancor non facea motto.
 
-²⁶ Vidi unam portam, et tres gradus infra,\
+26 Vidi unam portam, et tres gradus infra,\
 &emsp;Pro eundo ad illam, de coloribus diversis,\
 &emsp;Et unum portanarium qui adhuc non faciebat verbum.
 
-²⁷ Come l'ochio più e più v'apersi,\
+27 Come l'ochio più e più v'apersi,\
 &emsp;Vidil seder sopra'l grado sovrano,\
 &emsp;Tal ne la faccia, ch'io nol soffersi:
 
-²⁷ Et sicut oculum magis et magis illuc aperui,\
+27 Et sicut oculum magis et magis illuc aperui,\
 &emsp;Vidi illum sedere super gradum supremum,\
 &emsp;Talem in facie, quod ego illum non substuli:
 
-²⁸ Et una spada nuda havea in mano\
+28 Et una spada nuda havea in mano\
 &emsp;Che riflecteva e raggi sì ver noi,\
-&emsp;Ch'io dirizzava spesso el viso (¹) invano.
+&emsp;Ch'io dirizzava spesso el viso (1) invano.
 
-²⁸ Et unum ensem nudum habebat in manu\
+28 Et unum ensem nudum habebat in manu\
 &emsp;Qui reflectebat radios ita versus nos,\
 &emsp;Quod ego dirigebam sepe visum in vanum.
 
-²⁹ Ditel costinci, che volete voi?\
+29 Ditel costinci, che volete voi?\
 &emsp;Cominciò elli a dir: dov'è la scorta?\
 &emsp;Guardate che'l venir su non vi noi.
 
-²⁹ Dicite inde, quid vultis vos?\
+29 Dicite inde, quid vultis vos?\
 &emsp;Incepit ipse dicere: ubi est conductor?\
 &emsp;Caveatis ne venire sursum vobis noceat.
 
-(¹) al. gl'ochi.
+(1) al. gl'ochi.
 
 vidit me dux meus, super balzo, idest super collo, scopulo, vel ripa, se movit, et ego retro, scilicet eum, versus altitudinem.
 
@@ -328,79 +328,79 @@ Dicite inde, quid vultis vos? Incepit ipse dicere; ubi est scorta, idest conduct
 
 <!-- p. 528 (0582) -->
 
-³⁰ Donna del ciel, di queste cose accorta,\
-&emsp;Rispose'l mio maestro lui (¹), pur dianzi\
+30 Donna del ciel, di queste cose accorta,\
+&emsp;Rispose'l mio maestro lui (1), pur dianzi\
 &emsp;Ne disse: Andate là, qui v'è la porta.
 
-³⁰ Domina de celo, de istis rebus acorta,\
+30 Domina de celo, de istis rebus acorta,\
 &emsp;Respondiit meus magister ad eum, paulo ante\
 &emsp;Nobis dixit: Ite illuc, ibi est porta.
 
-³¹ Et ella e passi vostri ben avanzi,\
+31 Et ella e passi vostri ben avanzi,\
 &emsp;Ricominciò'l cortese portinaio:\
 &emsp;Venite donque a' nostri gradi inanzi.
 
-³¹ Et ipsa vestros passus in bonum avanzet,\
+31 Et ipsa vestros passus in bonum avanzet,\
 &emsp;Reincepit curialis portanarius:\
 &emsp;Venite ergo nostros gradus ante.
 
-³² Là ne venimmo; e lo scaglon primaio\
+32 Là ne venimmo; e lo scaglon primaio\
 &emsp;Bianco marmo era sì pulito e terso,\
 &emsp;Che mi specchiai in esso qual io paio.
 
-³² Illuc venimus; et gradus primus\
+32 Illuc venimus; et gradus primus\
 &emsp;Albus marmor erat, ita pollitus et tersus,\
 &emsp;Quod ego speculabar in ipso qualis ego sum.
 
-³³ Era'l secondo, tincto più che perso,\
+33 Era'l secondo, tincto più che perso,\
 &emsp;D'una petrina ruvida et arsiccia,\
 &emsp;Crepata per lo lungo e per traverso.
 
-³³ Erat secundus, tinctus magis quam persus,\
+33 Erat secundus, tinctus magis quam persus,\
 &emsp;De una petrina livida et arsicia,\
 &emsp;Divisa per longum et per transversum.
 
-³⁴ Lo terzo che di sopra s'ammassiccia,\
+34 Lo terzo che di sopra s'ammassiccia,\
 &emsp;Porfido mi parea sì fiammeggiante,\
 &emsp;Come sangue che fuor di vena spiccia.
 
-³⁴ Tertius gradus qui desuper ammassiciatur,\
+34 Tertius gradus qui desuper ammassiciatur,\
 &emsp;Porfidum michi apparebat ita flammeum,\
 &emsp;Sicut sanguis quando de vena spicciat.
 
-³⁵ Sopra questo tenea ambo le piante\
+35 Sopra questo tenea ambo le piante\
 &emsp;L'angel di Dio, sedendo in su la sogla,\
 &emsp;Che mi sembrava pietra d'adamante.
 
-³⁵ Super ipso tenebat ambas plantas\
+35 Super ipso tenebat ambas plantas\
 &emsp;Angelus Dei, sedendo super solio,\
 &emsp;Quod michi assimilabatur petre adamantis.
 
-³⁶ Per li tre gradi su di buona vogla\
+36 Per li tre gradi su di buona vogla\
 &emsp;Mi trasse'l duca mio, dicendo: Chiedi\
 &emsp;Humilemente che'l serrame scogla.
 
-³⁶ Per tres gradus sursum de bona voluntate\
+36 Per tres gradus sursum de bona voluntate\
 &emsp;Me traxit dux meus, dicendo: Queras\
 &emsp;Humiliter quod clausuram dissolvat.
 
-³⁷ Devoto mi gittai a' santi piedi:\
+37 Devoto mi gittai a' santi piedi:\
 &emsp;Misericordia chiesi e che m'aprisse;\
-&emsp;Ma pria tre volte (²) nel pecto mi diedi.
+&emsp;Ma pria tre volte (2) nel pecto mi diedi.
 
-³⁷ Devotus me proieci ad sanctos pedes:\
+37 Devotus me proieci ad sanctos pedes:\
 &emsp;Misericordiam quesivi et quod michi aperiret;\
 &emsp;Sed prius in pectus tribus vicibus michi dedi.
 
-³⁸ Septe P ne la fronte mi descripse\
+38 Septe P ne la fronte mi descripse\
 &emsp;Col puncton de la spada, e: Fa'che lavi,\
 &emsp;Quando se'dentro, queste piaghe, disse.
 
-³⁸ Septem P in fronte michi scripsit\
+38 Septem P in fronte michi scripsit\
 &emsp;Cum cuspide ensis, et: Fac quod laves,\
 &emsp;Quando es intra, istas plagas, dixit.
 
-(¹) a lui — (²) al. fiate.
+(1) a lui — (2) al. fiate.
 
 Domina de celo, de istis rebus ac[c]orta, idest accertata, sive previsa et cauta, respondit magister intus ad eum, paulo ante nobis dixit: Ite illuc: ibi est porta.
 
@@ -422,35 +422,35 @@ Septem P in fronte michi scripsit cum cuspide ensis, et: Fac quod laves, quando 
 
 <!-- p. 529 (0583) -->
 
-³⁹ Cenere o terra che secca si cavi,\
+39 Cenere o terra che secca si cavi,\
 &emsp;D'un color fora col suo vestimento,\
 &emsp;E di sotto da quel trasse due chiavi.
 
-³⁹ Cinis sive terra que sicca cavetur,\
+39 Cinis sive terra que sicca cavetur,\
 &emsp;De uno colore esset cum suo vestimento,\
 &emsp;Et subter illud traxit duas claves.
 
-⁴⁰ L'un'era d'oro e l'altr'era d'argento:\
+40 L'un'era d'oro e l'altr'era d'argento:\
 &emsp;Pria co'la bianca, e poscia co'la gialla,\
 &emsp;Fece a la porta sì ch'io fui contento.
 
-⁴⁰ Una erat aurea et alia erat argentea:\
+40 Una erat aurea et alia erat argentea:\
 &emsp;Prius cum alba, et postea cum fulva,\
 &emsp;Fecit ad portam sic quod ego fui contentus.
 
-⁴¹ Quandunque l'una d'este chiavi falla,\
+41 Quandunque l'una d'este chiavi falla,\
 &emsp;Che non si volga dritta per la toppa,\
 &emsp;Diss'elli a noi, non s'apre questa calla.
 
-⁴¹ Quousque una ex istis clavibus fallit,\
+41 Quousque una ex istis clavibus fallit,\
 &emsp;Quod non volvatur recte per seramen,\
 &emsp;Dixit ipse nobis, non aperitur ista callis.
 
-⁴² Più cara è l'una; ma l'altra vuol troppa\
+42 Più cara è l'una; ma l'altra vuol troppa\
 &emsp;D'arte e d'ingegno avanti che disserri,\
 &emsp;Perch'ell'è quella che'l nodo disgroppa.
 
-⁴² Carior est una; sed alia vult nimiam\
+42 Carior est una; sed alia vult nimiam\
 &emsp;Artem et ingenium antequam aperiat,\
 &emsp;Quia ipsa est illa que nodum disgroppat.
 
@@ -466,47 +466,47 @@ Carior est una, sed alia vult nimiam artem et ingenium antequam aperiat, quia ip
 
 <!-- p. 530 (0584) -->
 
-⁴³ Da Pier le tegno; e dissemi, ch'io erri\
+43 Da Pier le tegno; e dissemi, ch'io erri\
 &emsp;Anzi ad aprir, ch'a tenerla serrata,\
 &emsp;Pur che la gente a'piedi mi s'atterri.
 
-⁴³ A Petro illas teneo; et dixit michi, quod ego errem,\
+43 A Petro illas teneo; et dixit michi, quod ego errem,\
 &emsp;Ante ad aperiendum, quam ad tenendum illam clausam,\
 &emsp;Solum quod gentes ad pedes michi se atterrent.
 
-⁴⁴ Poi pinse l'uscio a la porta sacrata,\
+44 Poi pinse l'uscio a la porta sacrata,\
 &emsp;Dicendo: Entrate; ma facciovi accorti\
 &emsp;Che di fuor torna chi'ndietro si guata.
 
-⁴⁴ Demum impulit hostium porte clause\
+44 Demum impulit hostium porte clause\
 &emsp;Dicendo: Intrate; sed facio vos cautos\
 &emsp;Quod foras revertitur qui retro se respicit.
 
-⁴⁵ E quando fur ne'cardini distorti\
+45 E quando fur ne'cardini distorti\
 &emsp;Li spigoli di quella regge sacra,\
 &emsp;Che di metallo son sonanti e forti,
 
-⁴⁵ Et quando fuerunt in cardinibus distorta\
+45 Et quando fuerunt in cardinibus distorta\
 &emsp;Spigula illius regie sacre,\
 &emsp;Que de ere sunt sonantia et fortia,
 
-⁴⁶ Non ruggì sì, nè si mostrò sì acra,\
-&emsp;Tarpeia, come (¹) tolto li fu'l buono\
+46 Non ruggì sì, nè si mostrò sì acra,\
+&emsp;Tarpeia, come (1) tolto li fu'l buono\
 &emsp;Metello, perchè poi rimase macra.
 
-⁴⁶ Non mugit sic, nec se monstravit ita acrem,\
+46 Non mugit sic, nec se monstravit ita acrem,\
 &emsp;Tarpeya, statim quod sibi fuit sublatus bonus\
 &emsp;Metellus, ex quo postea remansit macra.
 
-⁴⁷ Io mi rivolsi attento al primo tuono,\
+47 Io mi rivolsi attento al primo tuono,\
 &emsp;E, Tedeum laudamus, mi parea\
 &emsp;Udir in voce mista al dolce suono.
 
-⁴⁷ Ego me revolvi attentus ad primum tonum,\
+47 Ego me revolvi attentus ad primum tonum,\
 &emsp;Et, Te Deum laudamus, michi apparebat\
 &emsp;Audire in voce mixta dulci sono.
 
-(¹) al. quando.
+(1) al. quando.
 
 peccator sit absolvendus. Modo porta non aperitur nisi cum duabus et ambabus, quia nisi sit auctoritas absolvendi, et nisi sit notitia et scientia discernendi, seu discernentia, non absolvitur peccator. Aurea, scilicet auctoritas, est carior, quia denotat presidentiam et potestatem et dominium: sed alia, scilicet argentea, habet multam artem, scilicet discernendi, seu ad discernendum, et indiget multo ingenio, idest subtilitate, quia ipsa nodum disgroppat, idest dissolvit, idest novit quid sit agendum. Ideo vult dicere auctor, quod si una istarum clavium erraret, idest nisi vera auctoritas et nisi esset vera notitia, non absolvitur peccator. Et tamen hodierna die, saltem in Ytalia, pauci sacerdotes, saltem rurales, habent scientiam; et ideo male vadit mundus.
 
@@ -520,17 +520,17 @@ Ego me revolvi attentus ad primum tonum, et Te Deum laudamus michi apparebat aud
 
 <!-- p. 531 (0585) -->
 
-⁴⁸ Tale ymagine apuncto mi rendea\
+48 Tale ymagine apuncto mi rendea\
 &emsp;Ciò ch'io udia, qual prendersi sole\
-&emsp;Quando a cantar con ordine (¹) si stea:\
+&emsp;Quando a cantar con ordine (1) si stea:\
 &emsp;Ch'or sì, hor no, s'intendon le parole.
 
-⁴⁸ Talem ymaginem punctualiter michi reddebat\
+48 Talem ymaginem punctualiter michi reddebat\
 &emsp;Quidquid audiebam, qualis apprehendi consuevit,\
 &emsp;Quando ad cantandum cum organis demoretur:\
 &emsp;Quorum aliquando sic, aliquando non, intelliguntur verba.
 
-(¹) al. organi.
+(1) al. organi.
 
 Talein ymaginem punctualiter, idest nec plus nec minus, michi reddebat quidquid audiebam, qualem apprehendi consuevit, quando ad cantandum cum organis demoretur, vel quando homo stat ad audiendum cantum organorum; quorum aliquando sic, aliquando non, intelliguntur verba: quia licet note sint equales, que fiunt per ora cantantium Te Deum, cum hiis que cantantur in organis; tamen verba non intelliguntur nisi a cantantibus psalmum illum, sive ympnum, quem fecerunt Sancti Ambrosius archiepiscopus Mediolani et Sanctus doctor Augustinus in eius optima conversatione. Talis ympnus communiter cantatur in quacumque electione rite facta, et maxime si est electio Summi Pontificis.
 
