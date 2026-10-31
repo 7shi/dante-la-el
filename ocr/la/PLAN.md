@@ -15,7 +15,7 @@ it (5–11) go batch by batch (batches 3–11, `0233`–`1296`, then the front m
 **A new session starts here**: read "State" and "Remaining work", and go on from the first
 open item. The conventions and rules below are settled: apply them, do not ask again.
 
-## State (2026-10-26)
+## State (2026-11-01)
 
 **Batches 1–3 (`0079`–`0348`, Inferno I–XXIII) are complete** and converted into
 `texts/la/008`–`030` (batch 3: Remaining work, item 8).
@@ -33,10 +33,11 @@ batch 11 and the front matter written 2026-10-26):
   la-el-agy, la-el-agy2 and la-el-agy3; in batch 11 also 17 pages by la-el-claude; in the
   front matter 0051–0053 and 0065), so no page is left `retype pending` for item 10;
 - **not done**: step 8 (`la_lines.py`, the image checks of rules, line breaks and line
-  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4–6
-  done** (2026-10-27, `texts/la/031`–`063`: the Inferno and Purgatorio I–XXI).
+  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4–7
+  done** (batches 4–6 2026-10-27, batch 7 2026-11-01; `texts/la/031`–`073`: the Inferno and
+  Purgatorio I–XXXI).
 
-**Next**: item 10, steps 8 and 11 of batch 7 (0729–0846), then batches 8–11 and the front
+**Next**: item 10, steps 8 and 11 of batch 8 (0847–0960), then batches 9–11 and the front
 matter. Before step 8 of each batch, also run `la_lostcheck.py -n 5` and look at the runs of
 real words (batch 6 found two lost passages that way).
 
@@ -1014,6 +1015,15 @@ In this order (decided with the user, 2026-10-15):
         `so-`/`pite`, 0621 `querebat`. `convert_la.py`: essay titles with a comma (0703),
         runover lines of three words (0663 `[in sua cura.`, 0696 `[Surge et veni,`), 0710's
         misprinted running head `PURGATORI`.
+      - **Batch 7** (0729–0846): done, `texts/la/064`–`073` (cantos XXII–XXXI). Step 8: 6 blank
+        lines inside a sentence removed, blank lines at the rules on 0744 and 0829 (0744's not
+        listed by `la_lines.py`, found by `la_check.py -v`: a rule count above the blank lines
+        not explained by a page-end rule), 21 dots before a lowercase word made commas, 0746's
+        paragraph rebroken at the printed line ends; `la_lostcheck.py -n 5` found no run of
+        real words. Step 11 found, from the hyphen joins: 0813 `se-`/`totaliter` (no hyphen
+        printed), 0745's lemma `fo-`/`gabat` (a damaged `r` with an ink spot; the verse has
+        `rogabat`), 0773 `sim-`/`beleggiate` (printed so, Suspected misprints).
+        `convert_la.py`: no new case; 0736's gloss printed on three lines is joined as one.
 
 Also seen: 0848, 0891 and 0999 had backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``); gone since their retyping.
@@ -1328,6 +1338,8 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0423 | 15 | `[sn (12) rinverte` | `su` | Italian verse runover; the image shows `sn` (a turned `u`). |
 | 0710 | 3 | `PURGATORI` | `PURGATORII` | Running head. |
 | 0652 | 75–76 | `Phsi-` / `strato` | `Pisistrato` | Commentary; both OCRs read `Phsi-`. |
+| 0773 | 77–78 | `sim-` / `beleggiate` | `simboleggiate` | Essay; the image shows `e`. |
+| 0825 | 3 | `in isto tricesimo capitulo` | `In` | *Summarium*'s first word in lowercase, as printed. |
 
 ## The method: two-OCR markup, then image decisions
 
