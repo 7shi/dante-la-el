@@ -1,7 +1,6 @@
 """Convert ocr/la/NNNN.txt (Serravalle's translation and commentary, 1891) into texts/la/NNN-title.md.
 
-The cantos, the appendix and the index (scans 0079–1290) are converted; the front matter
-(0001–0078) is not yet completed (see ocr/la/PLAN.md). See PLAN.md for the layout. Run from the repository root:
+The whole volume is converted (scans 0007–1290; see ocr/la/PLAN.md for the transcription). See PLAN.md for the layout. Run from the repository root:
 
     uv run texts/convert_la.py
 """
@@ -62,7 +61,7 @@ FIRST_FILE = {"inferno": 8, "purgatorio": 43, "paradiso": 76}
 RUNNING_HEAD = {"inferno": "INFERNI", "purgatorio": "PURGATORII", "paradiso": "PARADISI"}
 # The cantica's half-title that opens its first canto file, and the heading printed above
 # the first canto's *Summarium*.
-HALF_TITLE = {"paradiso": 871}
+HALF_TITLE = {"inferno": 77, "paradiso": 871}
 INCIPIT = {"paradiso": "INCIPIT PARADISUS"}
 # Prose sections of one column: (file, first scan, last scan, the heading of the first page).
 PROSE = [("042-purgatorio-preambula.md", 477, 486, "PREAMBULA")]
@@ -78,6 +77,19 @@ APPENDIX_HEADINGS = {
     "CANTUS TERTIUS": "Cantus tertius",
 }
 INDEX = ("110-index.md", 1289, 1290, "INDEX")
+# The front matter: (file, scans, running head). Title pages (TITLE_PAGES) are kept line
+# by line; a one-line half-title is a heading.
+FRONT = [
+    ("001-title-page.md", [7, 9, 10], None),
+    ("002-dedication-to-leo-xiii.md", [11, 13, 14], None),
+    ("003-notizie-preliminari.md", list(range(15, 43)), "NOTIZIE PRELIMINARI"),
+    ("004-documenta.md", [43] + list(range(45, 55)), "DOCUMENTA"),
+    ("005-dedicatio.md", [55, 57], None),
+    ("006-epistola.md", [59, 60], "DEDICATIO"),
+    ("007-preambula.md", list(range(61, 77)), "PREAMBULA"),
+]
+TITLE_PAGES = {7, 9, 10, 11, 43, 55, 57}
+ROMAN_OFFSET = 6  # printed Roman page = scan - 6 (0011 = V)
 FOOTNOTE = re.compile(r"\((\d)\) (.*)")
 OFFSET = 54  # printed page = scan - 54
 
@@ -548,6 +560,89 @@ def convert_index(errors):
     return name, parts
 
 
+def roman(k):
+    out = ""
+    for v, s in ((100, "C"), (90, "XC"), (50, "L"), (40, "XL"), (10, "X"), (9, "IX"), (5, "V"),
+                 (4, "IV"), (1, "I")):
+        while k >= v:
+            out += s
+            k -= v
+    return out
+
+
+def add_notes(parts, notes, n, errors):
+    """Notes at the page foot (`(1) …`, possibly several in a block) as footnotes `[^PAGE-1]`,
+    their marks in the page's text replaced."""
+    items = []
+    for b in notes:
+        for l in b:
+            if FOOTNOTE.match(l):
+                items.append([l])
+            else:
+                items[-1].append(l)
+    for item in items:
+        k, note = FOOTNOTE.match(join_lines(item, f"{n:04d}")).groups()
+        ref = [i for i, p in enumerate(parts) if f"({k})" in p and not p.startswith(("<!--", "[^"))]
+        if not ref:
+            errors.append(f"{n:04d}: note ({k}) without its mark")
+            continue
+        parts[ref[-1]] = parts[ref[-1]].replace(f"({k})", f"[^{n:04d}-{k}]", 1)
+        parts.append(f"[^{n:04d}-{k}]: {esc(note)}")
+
+
+def convert_front(scans, head, errors):
+    """A section of the front matter: Roman page numbers, prose with footnotes, documents with
+    their headings (`Doc. 1.`), title pages line by line."""
+    parts = []
+    carry = None
+    for n in scans:
+        lines = text_of(n).rstrip("\n").split("\n")
+        number = lines.pop(0) if re.fullmatch(r"[IVXLC]+|\d+", lines[0]) else None
+        if number and number not in (roman(n - ROMAN_OFFSET), str(n - OFFSET)):
+            errors.append(f"{n:04d}: page number {number}")
+        p = n - OFFSET if n >= 55 else roman(n - ROMAN_OFFSET)
+        parts.append(f"<!-- p. {number or f'[{p}]'} ({n:04d}) -->")
+        bs = blocks(lines)
+        if n in TITLE_PAGES:
+            if len(bs) == 1 and len(bs[0]) == 1:
+                parts.append("# " + bs[0][0].capitalize())
+            else:
+                parts.extend("\\\n".join(esc(l) for l in b) for b in bs)
+            carry = None
+            continue
+        title = bs[0][0] if bs and len(bs[0]) == 1 and bs[0][0].isupper() else None
+        if title and head is None:  # a salutation (0013)
+            parts.append(bs.pop(0)[0])
+        elif title:
+            bs.pop(0)
+            if title != head:
+                errors.append(f"{n:04d}: heading {title!r}")
+            if number is None:
+                parts.append("# " + " ".join(w.capitalize() for w in title.split()))
+        elif number is not None:
+            errors.append(f"{n:04d}: no running head")
+        if not bs:  # a half-title
+            continue
+        # the notes at the page foot: from the first block opened by `(1)` (a note may
+        # quote verse after a blank line, 0022)
+        first_note = next((i for i, b in enumerate(bs) if i and FOOTNOTE.match(b[0])), len(bs))
+        bs, notes = bs[:first_note], bs[first_note:]
+        body = [l for b in bs for l in b]
+        width = column_width(body)
+        for bi, b in enumerate(bs):
+            if re.fullmatch(r"Doc\. \d+\.", b[0]):  # a document's number, then its date
+                parts.append("## " + b[0])
+                if len(b) > 1:
+                    parts.append("\\\n".join(esc(l) for l in b[1:]))
+            elif len(b) > 1 and all(len(l) < width * 0.75 and not l.endswith("-") for l in b):
+                parts.append("\\\n".join(esc(l) for l in b))  # signatures, addresses
+            else:
+                add_paragraphs(parts, paragraphs(b, width), n, carry if bi == 0 else None)
+        carry = len(parts) - 1 if body and re.search(WORD + "-$", body[-1]) else None
+        add_notes(parts, notes, n, errors)
+    return parts
+
+
 def convert_canto(cantica, c, errors):
     first, essay, last = CANTOS[cantica][c - 1]
     head = RUNNING_HEAD[cantica]
@@ -657,6 +752,9 @@ def main():
             path.write_text("\n\n".join(parts) + "\n", encoding="utf-8")
     for name, first, last, heading in PROSE:
         parts = convert_prose(first, last, heading, errors)
+        (DST / name).write_text("\n\n".join(parts) + "\n", encoding="utf-8")
+    for name, scans, head in FRONT:
+        parts = convert_front(scans, head, errors)
         (DST / name).write_text("\n\n".join(parts) + "\n", encoding="utf-8")
     for convert in (convert_appendix, convert_index):
         name, parts = convert(errors)

@@ -4,7 +4,7 @@
 
 These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/la/) by [`convert_la.py`](../convert_la.py); see [`ocr/la/INDEX.md`](../../ocr/la/INDEX.md) for the volume and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/la/` and run `uv run texts/convert_la.py`.
 
-**Only the cantos, the appendix and the index are converted so far** (scans `0079`–`1290`). Their transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits); the front matter (`001`–`007`) is not yet completed and will follow.
+The whole volume is converted (scans `0007`–`1290`). Its transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits).
 
 ## Reading the files
 
@@ -17,11 +17,27 @@ These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/
 
 ## Contents
 
+### Front matter
+
+| File | Section | Pages |
+|---|---|---|
+| [001-title-page.md](001-title-page.md) | Half-title, title page, imprimatur | [I]–[IV] |
+| [002-dedication-to-leo-xiii.md](002-dedication-to-leo-xiii.md) | The editors' dedication to Leo XIII | [V]–[VIII] |
+| [003-notizie-preliminari.md](003-notizie-preliminari.md) | NOTIZIE PRELIMINARI, the editors' introduction | [IX]–XXXVI |
+| [004-documenta.md](004-documenta.md) | DOCUMENTA: the half-title and documents 1–38 | [XXXVII]–XLVIII |
+| [005-dedicatio.md](005-dedicatio.md) | The COMENTUM half-title and the heading of the commentary (`IN NOMINE SANCTE …`) | [1]–[3] |
+| [006-epistola.md](006-epistola.md) | Serravalle's letter to Cardinal Amideus and the English bishops | [5]–6 |
+| [007-preambula.md](007-preambula.md) | PREAMBULA to the whole work | [7]–22 |
+
+Roman page numbers are written as printed (`<!-- p. XL (0046) -->`), the unnumbered ones counted (`[IX]`). Title pages are kept line by line, in capitals as printed. The notes at the page foot of the introduction are footnotes (`[^0016-1]`); each document starts with a heading `## Doc. 1.`, then its date.
+
 ### The Inferno
+
+The cantica's half-title (p. [23]) opens the file of the first canto.
 
 | File | Canto | Pages | First line | Essay |
 |---|---|---|---|---|
-| [008-inferno-canto-01.md](008-inferno-canto-01.md) | I | [25]–[38] | Nel mezzo del camin di nostra vita | *La divina commedia* |
+| [008-inferno-canto-01.md](008-inferno-canto-01.md) | I | [23]–[38] | Nel mezzo del camin di nostra vita | *La divina commedia* |
 | [009-inferno-canto-02.md](009-inferno-canto-02.md) | II | [39]–[48] | Lo giorno se n'andava, e l'aer bruno | *Roma nel concetto di Dante* |
 | [010-inferno-canto-03.md](010-inferno-canto-03.md) | III | [49]–[60] | Per me si va ne la città dolente, | *L'inferno e l'amor divino* |
 | [011-inferno-canto-04.md](011-inferno-canto-04.md) | IV | [61]–[73] | Ruppemi l'alto sonno ne la testa | *La fede di Dante* |
