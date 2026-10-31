@@ -8,7 +8,7 @@ The page-by-page transcriptions in `ocr/{dir}/NNN.txt` are reorganized into sect
 |---|---|
 | `texts/en/` | Done: converted, verified against dante-corpus, footnote markers restored on every page. |
 | `texts/en-oelsner/` | Done: `ocr/` normalized (labels, paragraph breaks) and converted; Italian verified against dante-corpus, English against `texts/en`. |
-| `texts/la/` | Done: `ocr/la/` completed batch by batch (the verse from the images, the commentary checked against GLM-OCR, lines and blank lines checked) and converted by `convert_la.py` (`texts/la/001`–`110`); see [`ocr/la/PLAN.md`](../ocr/la/PLAN.md) for the method and its limits. |
+| `texts/la/` | Done: `ocr/la/` completed batch by batch (the verse from the images, the commentary checked against GLM-OCR, lines and blank lines checked) and converted by `convert_la.py` (`texts/la/001`–`110`); see [`ocr/la/DONE.md`](../ocr/la/DONE.md) for the method and [`ocr/la/PLAN.md`](../ocr/la/PLAN.md) for its limits and the checks planned after it. |
 | `texts/grc/` | Done: converted; verse counts, line numbers, and arguments checked by the script; misreadings found by a syllable count corrected in `ocr/`. |
 
 ## General policy
@@ -207,7 +207,7 @@ Each canto has the Latin *Summarium*, then pages with the verse in two columns a
 
 ### Procedure for `la`
 
-All steps are done. Steps 0–1, 3 (GLM-OCR of every page) and 6–8 went as written; the batches and the delegated completion and checking of steps 2, 4 and 5 were replaced by the two-OCR markup method of [`ocr/la/PLAN.md`](../ocr/la/PLAN.md), which has the batches as they were run (11, from `0079`–`0114` to `1185`–`1296`, then the front matter), the delegation and the findings. The steps below are kept as first planned.
+All steps are done. Steps 0–1, 3 (GLM-OCR of every page) and 6–8 went as written; the batches and the delegated completion and checking of steps 2, 4 and 5 were replaced by the two-OCR markup method of [`ocr/la/DONE.md`](../ocr/la/DONE.md), which has the batches as they were run (11, from `0079`–`0114` to `1185`–`1296`, then the front matter), the delegation and the findings. The steps below are kept as first planned.
 
 0. **Preprocessing** (done, committed separately): the transcriber's notes are deleted (see above).
 1. **Survey** (done; numbers above):
