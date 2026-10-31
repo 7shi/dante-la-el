@@ -34,10 +34,12 @@ batch 11 and the front matter written 2026-10-26):
   front matter 0051–0053 and 0065), so no page is left `retype pending` for item 10;
 - **not done**: step 8 (`la_lines.py`, the image checks of rules, line breaks and line
   ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4–11
-  done** (batches 4–6 2026-10-27, batches 7–11 2026-11-01; `texts/la/031`–`110`: the
-  cantos, the appendix and the index).
+  and the front matter done** (batches 4–6 2026-10-27, the rest 2026-11-01; `texts/la/001`–`110`).
 
-**Next**: item 10, steps 8 and 11 of the front matter (0001–0078, `texts/la/001`–`007`). Before step 8 of each batch, also run `la_lostcheck.py -n 5` and look at the runs of
+**Item 10 is done** (2026-11-01): every batch and the front matter went through steps 8 and 11,
+and `texts/la/001`–`110` cover the whole volume. **Next**: nothing is pending; the checks
+proposed under "Not covered" below (italic lemmas against their verse, a lexicon check) remain
+proposals. Before step 8 of each batch, also run `la_lostcheck.py -n 5` and look at the runs of
 real words (batch 6 found two lost passages that way).
 
 "Complete" means, for every page of batches 1–3 (blank pages aside):
@@ -1066,6 +1068,12 @@ In this order (decided with the user, 2026-10-15):
         scribe's verses on 1268, and the appendix (`109-appendix.md`: the half-title, the
         headings `INCIPIT TERTIA CANTICA …`, `CANTUS II PARADISI`, `CANTUS TERTIUS`, the two
         notes as footnotes) and the index (`110-index.md`, one entry per line as printed).
+      - **Front matter** (0001–0078): done, `texts/la/001`–`007`. Step 8: one dot before a
+        lowercase word made a comma (0025), 0049's `(Ibid.)` joined to its printed line; no
+        rule, no lost run of real words. Step 11: `convert_la.py` reads the Roman page numbers
+        and the title pages line by line (no new fix in `ocr/la`); the INFERNUS half-title
+        0077 is put at the head of canto 1 (`008`), as 0871 for the Paradiso, where
+        texts/PLAN.md had listed it with the preambula (`007`).
 
 Also seen: 0848, 0891 and 0999 had backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``); gone since their retyping.
