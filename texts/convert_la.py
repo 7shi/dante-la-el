@@ -1,7 +1,7 @@
 """Convert ocr/la/NNNN.txt (Serravalle's translation and commentary, 1891) into texts/la/NNN-title.md.
 
-Only the Inferno, the Purgatorio and Paradiso I–XXVI (scans 0079–1184) are converted so far: the rest of
-ocr/la is not yet completed (see ocr/la/PLAN.md). See PLAN.md for the layout. Run from the repository root:
+The cantos, the appendix and the index (scans 0079–1290) are converted; the front matter
+(0001–0078) is not yet completed (see ocr/la/PLAN.md). See PLAN.md for the layout. Run from the repository root:
 
     uv run texts/convert_la.py
 """
@@ -53,7 +53,9 @@ CANTOS = {"inferno": [(79, 92, 92), (93, 102, 102), (103, 114, 114), (115, 127, 
                        (1061, 1072, 1072), (1073, 1083, 1084), (1085, 1095, 1096),
                        (1097, 1108, 1108), (1109, 1119, 1120), (1121, 1130, 1130), (1131, 1140, 1140),
                        (1141, 1149, 1150), (1151, 1161, 1162), (1163, 1172, 1172),
-                       (1173, 1183, 1184)]}
+                       (1173, 1183, 1184), (1185, 1196, 1196), (1197, 1208, 1208),
+                       (1209, 1220, 1220), (1221, 1231, 1232), (1233, 1243, 1244),
+                       (1245, 1255, 1256), (1257, 1270, 1270)]}
 # The first file of each cantica's cantos (001–007 are the front matter, not converted yet;
 # 042 is the Purgatorio's preambula).
 FIRST_FILE = {"inferno": 8, "purgatorio": 43, "paradiso": 76}
@@ -64,6 +66,19 @@ HALF_TITLE = {"paradiso": 871}
 INCIPIT = {"paradiso": "INCIPIT PARADISUS"}
 # Prose sections of one column: (file, first scan, last scan, the heading of the first page).
 PROSE = [("042-purgatorio-preambula.md", 477, 486, "PREAMBULA")]
+# Bartholomaeus a Colle's fragments: (file, first scan, last scan, running head), and the
+# headings printed in capitals, as written here.
+APPENDIX = ("109-appendix.md", 1271, 1287, "CANTICA PARADISI")
+APPENDIX_HEADINGS = {
+    "FRAGMENTA COMMENTARII SUPER COMOEDIAM DANTIS ALDIGHERII":
+        "Fragmenta commentarii super Comoediam Dantis Aldigherii",
+    "INCIPIT TERTIA CANTICA PARADISI ET CANTUS PRIMUS":
+        "Incipit tertia cantica Paradisi et cantus primus",
+    "CANTUS II PARADISI": "Cantus II Paradisi",
+    "CANTUS TERTIUS": "Cantus tertius",
+}
+INDEX = ("110-index.md", 1289, 1290, "INDEX")
+FOOTNOTE = re.compile(r"\((\d)\) (.*)")
 OFFSET = 54  # printed page = scan - 54
 
 ORDINALS = ["PRIMUM", "SECUNDUM", "TERTIUM", "QUARTUM", "QUINTUM", "SEXTUM", "SEPTIMUM",
@@ -200,6 +215,13 @@ ESSAYS = {
     "FEDE E RAGIONE": "Fede e ragione",
     "GENESI E NATURA DELLA SPERANZA": "Genesi e natura della speranza",
     "LA PAROLA NELL'UOMO": "La parola nell'uomo",
+    "IL CANTO NEL CIELO E LA MUSICA": "Il canto nel cielo e la musica",
+    "IL MOTO E LA QUIETE E L'IMMENSITÀ DIVINA": "Il moto e la quiete e l'immensità divina",
+    "LA PREDICAZIONE": "La predicazione",
+    "IL LUME DI GLORIA": "Il lume di gloria",
+    "LA VISIONE IN CIELO": "La visione in cielo",
+    "INNOCENZA, MERITO E PREMIO": "Innocenza, merito e premio",
+    "LA PREGHIERA": "La preghiera",
 }
 
 # Tercet numbers misprinted (ocr/la/PLAN.md, Suspected misprints): (scan, column, tercet) -> printed.
@@ -211,7 +233,7 @@ SUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
 TO_SUP = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
 NUMBER = re.compile(r"([⁰¹²³⁴⁵⁶⁷⁸⁹]+|\d+) ")  # a tercet number at the start of a verse line
 # The scribe's verses at the end of a cantica, with their own gloss line: scan -> first words.
-COLOPHON = {868: "Qui scripsit scribat"}
+COLOPHON = {868: "Qui scripsit scribat", 1268: "Qui scripsit scribat"}
 CLOSING = re.compile(r"(?:FINIT|EXPLICIT) [A-Z ]+\.$")
 GLOSS = re.compile(r"\((?:[¹²³⁴⁵⁶⁷⁸⁹]+|\d{1,2})\)")  # `(1) costui. — (2) sarà.`
 
@@ -454,6 +476,78 @@ def convert_prose(first, last, heading, errors):
     return parts
 
 
+def convert_appendix(errors):
+    """The fragments: a half-title, then two columns of commentary under the running head,
+    with notes at the page foot (`(1) …`, as footnotes `[^PAGE-1]`)."""
+    name, first, last, head = APPENDIX
+    parts = []
+    carry = None
+    for n in range(first, last + 1):
+        if text_of(n).strip() == "[Blank page]":
+            continue
+        number, title, lines = read_page(n, errors)
+        parts.append(marker(n, number is not None))
+        if n == first:  # the half-title: the title, then the author's lines
+            parts.append("# " + APPENDIX_HEADINGS[title])
+            parts.append("\\\n".join(l for l in lines if l.strip()))
+            continue
+        if title in APPENDIX_HEADINGS:
+            parts.append("## " + APPENDIX_HEADINGS[title])
+            bs = blocks(lines)
+            while bs and len(bs[0]) == 1 and bs[0][0].isupper():  # the subtitle lines
+                parts.append(bs.pop(0)[0])
+        else:
+            if title != head or number is None:
+                errors.append(f"{n:04d}: running head {title!r}")
+            bs = blocks(lines)
+        notes = []
+        while bs and FOOTNOTE.match(bs[-1][0]):
+            notes.insert(0, bs.pop())
+        body = [l for b in bs for l in b]
+        width = column_width(body)
+        for bi, b in enumerate(bs):
+            if len(b) == 1 and b[0] in APPENDIX_HEADINGS:  # a canto's heading in the column
+                parts.append("## " + APPENDIX_HEADINGS[b[0]])
+                continue
+            add_paragraphs(parts, paragraphs(b, width), n, carry if bi == 0 else None)
+        carry = len(parts) - 1 if body and re.search(WORD + "-$", body[-1]) else None
+        for b in notes:
+            k, note = FOOTNOTE.match(join_lines(b, f"{n:04d}")).groups()
+            ref = [i for i, p in enumerate(parts) if f"({k})" in p and not p.startswith("<!--")]
+            if not ref:
+                errors.append(f"{n:04d}: note ({k}) without its mark")
+                continue
+            parts[ref[-1]] = parts[ref[-1]].replace(f"({k})", f"[^{n:04d}-{k}]", 1)
+            parts.append(f"[^{n:04d}-{k}]: {esc(note)}")
+    return name, parts
+
+
+def convert_index(errors):
+    """The printed table of contents: each entry on a line, as printed (dot leaders and page
+    references kept), an entry printed on two or three lines joined."""
+    name, first, last, head = INDEX
+    parts = []
+    for n in range(first, last + 1):
+        number, title, lines = read_page(n, errors)
+        parts.append(marker(n, number is not None))
+        if title != head:
+            errors.append(f"{n:04d}: heading {title!r}")
+        if number is None:
+            parts.append("# Index")
+        for b in blocks(lines):
+            entries, cur = [], []
+            for l in b:
+                cur.append(l)
+                if re.search(r"(?:Pag\.|») *[0-9IVXLCivxlc]+$", l) or l.isupper():
+                    entries.append(esc(join_lines(cur, f"{n:04d}")))
+                    cur = []
+            if cur:
+                errors.append(f"{n:04d}: index entry without a page {cur!r}")
+                entries.append(esc(join_lines(cur, f"{n:04d}")))
+            parts.append("\\\n".join(entries))
+    return name, parts
+
+
 def convert_canto(cantica, c, errors):
     first, essay, last = CANTOS[cantica][c - 1]
     head = RUNNING_HEAD[cantica]
@@ -526,7 +620,9 @@ def convert_canto(cantica, c, errors):
         body = [l for b in rest for l in b]
         width = column_width(body)
         for bi, b in enumerate(rest):
-            if b[0].startswith(COLOPHON.get(n, "\0")):  # verse, kept line by line
+            if b[0] == "[figure]":  # its printed labels, one per line (1245, 1247)
+                parts.append("\\\n".join(esc(l) for l in b))
+            elif b[0].startswith(COLOPHON.get(n, "\0")):  # verse, kept line by line
                 parts.append("\\\n".join(sup_marks(esc(l)) for l in b))
             elif GLOSS.match(b[0]) and bi and rest[bi - 1][0].startswith(COLOPHON.get(n, "\0")):
                 parts.append(sup_marks(esc(join_lines(b, f"{n:04d}"))))
@@ -561,6 +657,9 @@ def main():
             path.write_text("\n\n".join(parts) + "\n", encoding="utf-8")
     for name, first, last, heading in PROSE:
         parts = convert_prose(first, last, heading, errors)
+        (DST / name).write_text("\n\n".join(parts) + "\n", encoding="utf-8")
+    for convert in (convert_appendix, convert_index):
+        name, parts = convert(errors)
         (DST / name).write_text("\n\n".join(parts) + "\n", encoding="utf-8")
     for e in errors:
         print("ERROR", e)

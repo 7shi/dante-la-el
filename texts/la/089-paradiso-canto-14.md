@@ -400,7 +400,11 @@ Quia in tanta iucunditate et tanta rubedine michi apparuerunt splendores, idest 
 
 Nota quod anime Sanctorum Martyrum se ostenderunt in duobus radiis, se transversaliter in medio per modum crucis contingentibus, et sic stabant in figura unius crucis. Nam est una crux facta pro talibus animabus sic pro fide certantibus, ad denotandum quod pro amore Christi crucifixi voluntarie passi sunt. Habebant colorem bene convenientem colori Martis, qui est igneus, calidus, rubeus. Isti spiritus dispositi in modum duarum linearum radiantium, fecerunt unam crucem. Crux habet quatuor latera, scilicet sursum, deorsum, a dextris et a sinistris. Discurrebant autem ille anime a cornu superiori ad cornu inferius, et e converso; et a cornu dextro ad sinistrum, et e converso. Nec propter tale discurrere destruebatur signum crucis; et in discursu sintillabant, lucebant, clarissime apparebant, sicut lucent stelle in via lactea sive Galassia. Sic[ut] distincta a maioribus et a minoribus luminibus, albescit, bianchezzat, inter polos mundi, inter septemptrionem et meridiem, Galassia, illa constellatio, ita quod facit bene sapientes dubitare (quia multi non bene sciunt unde procedat ille splendor qui efficit illam viam lacteam, de qua aliqui scripserunt errores, quos Aristotiles impugnat in Metheor.); sic constellati faciebant in profundo mari, idest intus in profunditate stelle Martis, cum illis radiis venerabile signum, scilicet Crucis (aliquando fuit abominabile signum, ante passionem Iesu Christi; postmodum est venerabile, quia imperatores, reges et principes venerantur huiusmodi signum); quod, scilicet signum, facit virtus quadrantis in rotundum. Nam quadruplex quadrans divisum unius rotundi, efficit signum crucis, ut in margine patet.
 
-[figure] q q q q
+[figure]\
+q\
+q\
+q\
+q
 
 Hic, idest in descriptione huius Crucis, vincit memoria mea ingenium; quia illa Crux lampigiabat, idest choruscabat, idest clare ostendebat, Christum, crucifixum scilicet; ita quod nescio ego reperire exemplum condignum, idest conveniens et sufficiens.
 

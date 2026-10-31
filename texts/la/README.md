@@ -4,7 +4,7 @@
 
 These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/la/) by [`convert_la.py`](../convert_la.py); see [`ocr/la/INDEX.md`](../../ocr/la/INDEX.md) for the volume and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/la/` and run `uv run texts/convert_la.py`.
 
-**Only the Inferno, the Purgatorio and Paradiso I–XXVI are converted so far** (scans `0079`–`1184`). Their transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits); the rest of `ocr/la/` is not yet completed, and the front matter, the rest of the Paradiso and the appendix will follow.
+**Only the cantos, the appendix and the index are converted so far** (scans `0079`–`1290`). Their transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits); the front matter (`001`–`007`) is not yet completed and will follow.
 
 ## Reading the files
 
@@ -129,3 +129,21 @@ The cantica's half-title (p. [817]) opens the file of the first canto, whose fir
 | [099-paradiso-canto-24.md](099-paradiso-canto-24.md) | XXIV | [1097]–[1107] | O sodalitio electo a la gran cena | *Fede e ragione* |
 | [100-paradiso-canto-25.md](100-paradiso-canto-25.md) | XXV | [1109]–[1118] | Se mai continga che 'l poema sacro, | *Genesi e natura della speranza* |
 | [101-paradiso-canto-26.md](101-paradiso-canto-26.md) | XXVI | [1119]–[1129] | Mentr' io dubbiava per lo viso spento, | *La parola nell'uomo* |
+| [102-paradiso-canto-27.md](102-paradiso-canto-27.md) | XXVII | [1131]–[1142] | Al Padre, al Figlo, allo Spirito Sancto | *Il canto nel cielo e la musica* |
+| [103-paradiso-canto-28.md](103-paradiso-canto-28.md) | XXVIII | [1143]–[1154] | Poscia che contra a la vita presente | *Il moto e la quiete e l'immensità divina* |
+| [104-paradiso-canto-29.md](104-paradiso-canto-29.md) | XXIX | [1155]–[1166] | Quand'amendue e figli di Latona, | *La predicazione* |
+| [105-paradiso-canto-30.md](105-paradiso-canto-30.md) | XXX | [1167]–[1177] | Forse se' milia migla di lontano | *Il lume di gloria* |
+| [106-paradiso-canto-31.md](106-paradiso-canto-31.md) | XXXI | [1179]–[1189] | In forma dunque di candida rosa | *La visione in cielo* |
+| [107-paradiso-canto-32.md](107-paradiso-canto-32.md) | XXXII | [1191]–[1201] | Refecto a suo piacer quel contemplante, | *Innocenza, merito e premio* |
+| [108-paradiso-canto-33.md](108-paradiso-canto-33.md) | XXXIII | [1203]–[1216] | Vergine Madre, figla del tuo Figlo, | *La preghiera* |
+
+Canto XXXII has two figures of the heavenly rose (pp. [1191] and 1193): each is given as a `[figure]` line followed by its printed labels, one per line. Canto XXXIII ends with the closing notes of the manuscripts (`[CONCLUSIO …]`, the editors' headings in brackets) and the scribe's verses, kept line by line with their gloss line.
+
+### Appendix and index
+
+| File | Section | Pages |
+|---|---|---|
+| [109-appendix.md](109-appendix.md) | *Fragmenta commentarii super Comoediam Dantis Aldigherii* by Bartholomaeus a Colle: the half-title, then his commentary on Paradiso I–III in two columns | [1217]–1233 |
+| [110-index.md](110-index.md) | INDEX, the printed table of contents: one entry per line as printed, with its dot leaders and page reference | [1235]–1236 |
+
+The fragments' two notes at the page foot are footnotes (`[^1274-1]`).
