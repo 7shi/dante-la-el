@@ -33,11 +33,11 @@ batch 11 and the front matter written 2026-10-26):
   la-el-agy, la-el-agy2 and la-el-agy3; in batch 11 also 17 pages by la-el-claude; in the
   front matter 0051–0053 and 0065), so no page is left `retype pending` for item 10;
 - **not done**: step 8 (`la_lines.py`, the image checks of rules, line breaks and line
-  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4–10
-  done** (batches 4–6 2026-10-27, batches 7–10 2026-11-01; `texts/la/031`–`101`: the
-  Inferno, the Purgatorio and Paradiso I–XXVI).
+  ends) and step 11 (`texts/convert_la.py`), which wait for item 10; **batches 4–11
+  done** (batches 4–6 2026-10-27, batches 7–11 2026-11-01; `texts/la/031`–`110`: the
+  cantos, the appendix and the index).
 
-**Next**: item 10, steps 8 and 11 of batch 11 (1185–1296), then the front matter. Before step 8 of each batch, also run `la_lostcheck.py -n 5` and look at the runs of
+**Next**: item 10, steps 8 and 11 of the front matter (0001–0078, `texts/la/001`–`007`). Before step 8 of each batch, also run `la_lostcheck.py -n 5` and look at the runs of
 real words (batch 6 found two lost passages that way).
 
 "Complete" means, for every page of batches 1–3 (blank pages aside):
@@ -1051,6 +1051,21 @@ In this order (decided with the user, 2026-10-15):
         heads of a page with `CAPITULUM …` on its first line are now checked as well (none
         else in batches 7–10). From the hyphen joins: 1135's lemma `sen-`/`bianza` (printed
         so, Suspected misprints).
+      - **Batch 11** (1185–1296): done, `texts/la/102`–`110` (Paradiso XXVII–XXXIII, the
+        appendix and the index). Step 8: 14 blank lines inside a sentence removed, blank lines
+        at five rules on 1194 and two on 1215, lines rebroken (1195 1204 1205), 1216's runover
+        `[posita` set after its line (`pos-`) and its running head added, the page number set
+        before the running head on 1281 1283 1285, the page-foot notes of 1274 and 1282 moved
+        after the right column (they cut a word in two); `la_lostcheck.py -n 5` found no run of
+        real words. Step 11 found: **1202's Latin verse missing** (tercets 24–29, transcribed
+        from the scan; `la_check.py` does not see a column that is wholly missing, the
+        conversion does), 1207's tercet number 46 lost in both columns (the canto's last
+        tercet), and from the hyphen joins 1215 `reme-`, 1194 `dinaverunt`, 1222
+        `vigintiqua-`/`tuor`, and 1264 `mi-`/`mium` (printed so, Suspected misprints).
+        `convert_la.py`: figures (1044, 1245, 1247) with their labels line by line, the
+        scribe's verses on 1268, and the appendix (`109-appendix.md`: the half-title, the
+        headings `INCIPIT TERTIA CANTICA …`, `CANTUS II PARADISI`, `CANTUS TERTIUS`, the two
+        notes as footnotes) and the index (`110-index.md`, one entry per line as printed).
 
 Also seen: 0848, 0891 and 0999 had backticks in the text (0891 around its blocks,
 `` `Quei gloriosi …` ``); gone since their retyping.
@@ -1371,6 +1386,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0999 | 71–72 | `volupta-` / `bro` | `volutabro` | Commentary; the image shows `volupta-`. |
 | 1031 | 69–70 | `corrupti-` / `lium` | `corruptibilium` | Commentary; a syllable lost over the line break. |
 | 1135 | 73–74 | `sen-` / `bianza` | `sembianza` | Italic lemma; the verse has `sembianza`; the image shows `n`. |
+| 1264 | 59–60 | `mi-` / `mium` | `nimium` | Commentary; the image shows `mi-`. |
 
 ## The method: two-OCR markup, then image decisions
 
