@@ -1,6 +1,6 @@
 """Convert ocr/la/NNNN.txt (Serravalle's translation and commentary, 1891) into texts/la/NNN-title.md.
 
-Only the Inferno, the Purgatorio and Paradiso I–XVI (scans 0079–1072) are converted so far: the rest of
+Only the Inferno, the Purgatorio and Paradiso I–XXVI (scans 0079–1184) are converted so far: the rest of
 ocr/la is not yet completed (see ocr/la/PLAN.md). See PLAN.md for the layout. Run from the repository root:
 
     uv run texts/convert_la.py
@@ -50,7 +50,10 @@ CANTOS = {"inferno": [(79, 92, 92), (93, 102, 102), (103, 114, 114), (115, 127, 
                        (925, 934, 934), (935, 948, 948), (949, 959, 960), (961, 972, 972),
                        (973, 984, 984), (985, 996, 996), (997, 1008, 1010), (1011, 1023, 1024),
                        (1025, 1035, 1036), (1037, 1047, 1048), (1049, 1059, 1060),
-                       (1061, 1072, 1072)]}
+                       (1061, 1072, 1072), (1073, 1083, 1084), (1085, 1095, 1096),
+                       (1097, 1108, 1108), (1109, 1119, 1120), (1121, 1130, 1130), (1131, 1140, 1140),
+                       (1141, 1149, 1150), (1151, 1161, 1162), (1163, 1172, 1172),
+                       (1173, 1183, 1184)]}
 # The first file of each cantica's cantos (001–007 are the front matter, not converted yet;
 # 042 is the Purgatorio's preambula).
 FIRST_FILE = {"inferno": 8, "purgatorio": 43, "paradiso": 76}
@@ -187,10 +190,20 @@ ESSAYS = {
         " novissimo",
     "LA DONNA NELLA SOCIETÀ CRISTIANA": "La donna nella società cristiana",
     "LE ANIME VERAMENTE GRANDI": "Le anime veramente grandi",
+    "LA PRESCIENZA DIVINA E LA LIBERTÀ UMANA": "La prescienza divina e la libertà umana",
+    "L'UMANA PERFETTIBILITÀ": "L'umana perfettibilità",
+    "L'UNITÀ DI VOLERE NEL CUORE DE'GIUSTI": "L'unità di volere nel cuore de'giusti",
+    "LA FEDE E L'IMPUTAZIONE": "La fede e l'imputazione",
+    "IL RISO DE' BEATI IN CIELO": "Il riso de'beati in cielo",
+    "SAN BENEDETTO": "San Benedetto",
+    "LA VERGINE MADRE": "La Vergine Madre",
+    "FEDE E RAGIONE": "Fede e ragione",
+    "GENESI E NATURA DELLA SPERANZA": "Genesi e natura della speranza",
+    "LA PAROLA NELL'UOMO": "La parola nell'uomo",
 }
 
 # Tercet numbers misprinted (ocr/la/PLAN.md, Suspected misprints): (scan, column, tercet) -> printed.
-MISNUMBERED = {(350, "it", 2): 3, (758, "it", 38): 37, (810, "la", 46): 45}
+MISNUMBERED = {(350, "it", 2): 3, (758, "it", 38): 37, (810, "la", 46): 45, (1182, "it", 47): 57}
 # Running heads misprinted: scan -> printed.
 MISPRINTED_HEAD = {710: "PURGATORI"}
 

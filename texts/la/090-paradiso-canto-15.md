@@ -42,9 +42,7 @@ In prima igitur parte, auctor primo continuat dicta dicendis, asserens, quod ill
 
 Benigna voluntas, in qua liquescit, idest clare liquet, seu apparet, semper amor qui recte spirat, idest qui recte diligit, vel quo diligitur, sicut cupiditas, subaudi liquescit, facit, idest apparet, iniqua (sententia est quod a bona voluntate procedit bonus amor, et a prava voluntate pravus amor procedit, et sic apparet liquido, sive clare), silentium imposuit, scilicet benigna voluntas, illi dulci lire, scilicet illi sotietati animarum, et fecit quietare sanctas cordas, scilicet animas, quas dextera celi allentat (allentare est remisse trabere, non nimis tense), et trahit, tendit. Sententia est, quod potentia Dei animarum beatificarum in Marte, sive in stella Martis, aliquas magis beatificat, aliquas minus, secundum quod meruerunt et passe sunt in suis martyriis.
 
-<!-- p. [997] (1051) -->
-
-# Capitulum Quintumdecimum
+<!-- p. 997 (1051) -->
 
 ³ Come saranno a'giusti preghi sorde\
 &emsp;Quelle substanze che, per darmi vogla\
