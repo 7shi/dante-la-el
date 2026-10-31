@@ -1,0 +1,568 @@
+<!-- p. [895] (0949) -->
+
+# Capituli Septimi Summarium
+
+In capitulo septimo, scilicet in isto, quod incipit: Osanna, Sanctus Deus Sabaoth, auctor ponit dispositionem spiritus Iustiniani, qui cantavit hec verba, Osanna Sanctus Deus Sabaoth. Qui Iustinianus habebat duplam gloriam, scilicet gloriam victoriarum habitarum in armis, sicut habuerunt Cesar, Alexander, et gloriam scientiarum, sicut Aristotiles, Plato, Homerus; quia iste multum vacavit legibus, etc. Nota etiam quod omnes illas victorias, quas posuit Iustinianus in capitulo precedenti, auctor recitat illas ad ostendendum, quod Imperium Romanum fuit a Deo predestinatum, et fuit iustum et honestum. Et quia dictum est in precedenti capitulo, quod sub signo aquile, tempore tertii imperatoris romani, scilicet Tyberii, fuit facta vindicta ire Dei, et sub Tito Vespasiano fuit facta vindicta iusta vindicte iuste, ideo oritur dubium ex hiis dictis; quod dubium est tale. Quomodo est possibile quod de vindicta iusta et iuste facta, fiat vindicta iusta? Ad quod dubium declarandum, auctor presupponit, quemadmodum fuit de facto, quod primus homo per inobedientiam dampnavit se et totam suam prolem, propter quod humana species stetit in ira Dei tempore valde longo, quia per se ipsam fuit exclusa de Paradiso, quia recessit a via recta. Pena igitur, quam Christus, verus homo, sustinuit in cruce, si referatur ad naturam assumptam, fuit valde iusta; si vero referatur ad naturam assumentem, nunquam iniustior ulla fuit. Ideo ab uno actu processerunt res diverse: nam Deo placuit mors Christi et Iudeis; sed non eodem respectu. Placuit Deo propter redemptionem humani generis; Iudeis vero placuit propter invidiam et avaritiam. Et sic mors Christi fuit iusta vindicta peccati Ade; sed destructio Hierusalem et dispersio gentis Iudee, fuit iusta punitio et iusta vindicta mortis Christi, que fuit iusta vindicta peccati Ade; et sic iusta vindicta iuste punita fuit. Ex hiis dictis oritur aliud dubium, scilicet: Quare iste modus redimendi mundum solummodo placuit Deo, et non alius modus? Ad quod dubium solvendum dicitur, quod quidquid Deus producit immediate sine concursu causarum secundarum, est liberum, nec subiacet influentie celorum; sic autem pro nunc non producitur nisi anima intellectiva, que est similis Deo et libera. Solum peccatum est causa quod anima humana fiat dissimilis Deo, et quod ipsa cadat a sua dignitate et perdat eam, nec potest illam reacquirere, nisi satisfaciat quantum defecit. Quando ergo natura humana peccavit, a sua dignitate cecidit, et de Paradiso fuit expulsa, nec reparari poterat nisi uno istorum duorum modorum: vel quod Deus relaxaret peccatum Ade solum per suam misericordiam, vel quod cum misericordia misceret iustitiam. Homo autem, licet per se ceciderit, per se resurgere non poterat, quia non potuit tantum descendere per humilitatem, quantum per superbiam voluit ascendere; et ista est causa, quare a se homo non potest resurgere a peccato. Volens igitur Deus hominem reparare, oportuit ipsum cum viis suis hoc facere, scilicet per solam misericordiam, vel cum misericordia et iustitia simul. Divina natura, que mundum formavit, usa est meliori modo possibili, et magis congruo; nec unquam processit a Deo maius donum, quam quando semetipsum dedit homini, ut ipsum faceret sufficientem ad resurgendum; quod factum est quando Verbum incarnatum fuit. Nam iste homo fuit homo et Deus, ideo fuit sufficiens ad satisfaciendum pro peccato. Concludit in fine auctor, quod nihil pro nunc immediate a se producit Deus, nisi animam humanam, que producta est incorruptibilis et perenniter duratura; unde apparet quod resurrectio satis est possibilis, si recogitetur quomodo primi parentes in principio facti sunt. Et sic est finis capituli.
+
+<!-- p. [896] (0950) -->
+
+# Capitulum Septimum
+
+¹ Osanna, sanctus Deus Sabbaoth,\
+&emsp;Superillustrans claritate tua\
+&emsp;Felices ignes horum malahot!
+
+¹ Osanna, Sanctus Deus Sabaoth,\
+&emsp;Superillustrans claritate tua\
+&emsp;Felices ignes illorum malacotht.
+
+² Così volgendosi a la rota sua,\
+&emsp;Viso mi fu cantar essa sustanza,\
+&emsp;Sopra la qual doppio lume s'addua:
+
+² Sic, volvendo se ad notam suam,\
+&emsp;Fuit visum michi cantare ipsam substantiam.\
+&emsp;Supra quam duplex lumen duplicatur:
+
+³ Et essa e l'altre mosseno a sua danza,\
+&emsp;E, quasi velocissime faville,\
+&emsp;Mi si velar di subita distanza.
+
+³ Et ipsam alie moverunt ad suam coream,\
+&emsp;Et, quasi velocissime faville,\
+&emsp;Michi se velaverunt propter subitam distantiam.
+
+Osanna, Sanctus Deus Sabaoth. Osanna, Sancte Deus Sabaoth: hoc est septimum capitulum huius Paradisi, in quo, ex quo Iustinianus probavit Romanum Imperium fuisse et esse in se iustum et a Deo destinatum, auctor prosequitur unam questionem, que oritur ex quibusdam dictis in capitulo precedenti. Quod capitulum dividitur in quatuor partes. In quarum prima auctor, continuando dicta dicendis, ponit recessum Iustiniani et disparitionem eius, et dispositionem sui ipsius auctoris.
+
+In secunda parte, que incipit ibi:
+
+Secundum meum ineffabile videre; Secondo el mio ineffabile avviso,
+
+domina Beatrix recitat dubium, quod Dantes habebat in mente, ortum ex dictis in capitulo precedenti.
+
+In tertia parte, que incipit ibi:
+
+Non deberet ammodo apparere tibi; Non de' oramai parere più forte,
+
+Beatrix adhuc movet dubium et declarat illud auctori. In quarta parte, que incipit ibi:
+
+Nunc pro adimplendo bene omne tuum desiderium; Or per riempere bene omne tuo desio,
+
+adhuc Beatrix movet unum dubium, quod merito posset moveri propter predicta.
+
+Primo igitur auctor continuat dicta dicendis, et dicit quomodo spiritus Iustiniani se occultavit recedendo ab isto auctore, quia recessit cantando unam laudem Dei. Et ad intelligendum id quod cantavit ille spiritus, notandum est quod Osanna idem est quod Salva (vocabulum hebreum est); Sabaoth est etiam vocabulum hebraicum, quod sonat exercituum: Deus Sabaoth, idest Deus exercituum. Item notandum est, quod isti spiritus dicuntur ignes, quia sunt lucidi et ardent ardore Spiritus Sancti; et nedum dicuntur ignes, sed etiam felices ignes, idest beati. Etiam istud vocabulum Malacotht est ebraicum, et est genitivus pluralis numeri Malacim, idest regnorum. Horum: est latinum vocabulum, quia Malacotht ebreum est. Secundum etenim Hieronimum in prologo Librorum Regum, duo primi libri Regum apud Ebreos dicuntur Samuelis, duo ultimi, scilicet tertius et quartus, dicuntur Malacim. Malacim nomen hebreum, cuius genitivus pluralis numeri est Malacotht, idest regnorum. Or, modo, apparuit Danti, quod illa substantia Iustiniani, idest anima, cantaret talem cantum: Osanna, o Sanctus Deus Sabaoth, scilicet exercituum, qui es superillustrans, idest illuminans, claritate tua, idest splendore tuo inneffabili, hos ignes felices, hos spiritus ignitos igne Spiritus Sancti, et beatos horum regnorum, idest locatorum in hiis regnis, idest speris. Salva: idest, salvando; alias, salvas. Et dicit auctor quod super anima Iustiniani duplex lumen duplicabatur. Loquitur hic auctor multum poetice. Volunt poete
+
+<!-- p. 897 (0951) -->
+
+⁴ Io dubitava, e dicea: Dille, dille,\
+&emsp;Fra me, dille, dicea a la mia donna,\
+&emsp;Che mi disseta co' le dolci stille;
+
+⁴ Ego dubitabam, et dicebam: Dic, dic illa,\
+&emsp;Intra me, dic, dicebam, domine mee,\
+&emsp;Que meam sitim extinguat cum dulcibus stillis;
+
+⁵ Ma quella reve[re]nzia che s'indonna\
+&emsp;Di tutto me, pur per Be e per Ice,\
+&emsp;Mi richinava come l'huom ch'assonna.
+
+⁵ Sed illa reverentia que se indonnat\
+&emsp;In toto, per B per I et per ICE,\
+&emsp;Me revocabat sicut hominem sompnolentum.
+
+⁶ Però sofferse me cotal Beatrice,\
+&emsp;E cominciò, raggiandomi d'un riso\
+&emsp;Tal, che nel fuoco farìa l'huom felice:
+
+⁶ Pauco sustulit me talem Beatrix,\
+&emsp;Et incepit, ratiocinando michi de uno risu tali\
+&emsp;Quod in foco faceret hominem felicem:
+
+⁷ Secondo mio infallibile avviso,\
+&emsp;Come giusta vendetta giustamente\
+&emsp;Fusse punita, t'hai 'n pensier miso;
+
+⁷ Secundum meum ineffabile videre,\
+&emsp;Sicut iusta vindicta iuste\
+&emsp;Punita sit, tibi est in cogitatione immissum;
+
+⁸ Ma io ti solverò tosto la mente:\
+&emsp;E tu ascolta, chè le mie parole\
+&emsp;Di gran sententia ti faran presente.
+
+⁸ Sed ego tibi solvam cito mentem:\
+&emsp;Et tu ausculta, quia mea verba\
+&emsp;De grandi semine tibi facient ensenium.
+
+quod laudabilia gesta in hoc mundo, producunt magnam prerogativam propter famam, sicut in quarto capitulo Inferni dictum est de viris illustribus tam in armis quam in scientiis, tam in [poesi quam in legibus]. Or, modo, Aristotiles propter suam scientiam acquisivit lumen propter famam; Alexander, Cesar, Karolus Magnus, Hannibal, acquisiverunt magnum lumen propter mira gesta armorum, etc. Sed, ut dictum fuit in capitulo precedenti, duo magna et honorabilia fecit Iustinianus, scilicet habuit exercitium armorum laudabiliter, et habuit exercitium scientie circa leges, quas, scilicet cum suis sapientibus, tam bene ordinavit; ideo lumen duplex super ipsum duplicatur, scilicet lumen fame laudabilium gestorum in armis, et lumen gestorum per sapientiam in legibus.
+
+Dicit etiam auctor, quod animam Iustiniani, sic cantantem, alie anime, que ibi erant, moverunt ad suam coream; et sicut faville, que procedunt a carbonibus percussis, velociter recesserunt ab auctore, et latuerunt eum propter distantiam, quam subito transcucurrerunt. Et tunc Dantes, qui habebat in mente multa dubia, quasi volebat interrogare Beatricem; sed non audebat. Sed Beatrix, que nominatur modo Florentinorum per B, per I, et per ICE, idest appellatur Bice, que solet auferre sitim omnem sciendi ab ipso auctore, revocavit eum; non sustinuit quod Dantes diu staret in ista siti; arrisit ei, qui risus fuit tam gratus auctori, quod in igne videndo talem risum, reputaret [se] felicem. Procul dubio, si, per possibile vel impossibile, daretur quod homo esset in igne ardentissimo et videret Deum, in illo igne esset felix. Nota etiam quod Beatrix puella, quam dilexit in pueritia, vocabatur Bice, sicut dictum est in uno preambulo; et isto modo utuntur Florentini, qui mirabiliter sincopant nomina propria: ut hoc, Franciscus, ipsi vocant Cecho; hoc nomen, Laurentius, sincopant et dicunt Rentius; sic hoc nomen Beatrix, sincopando, dicunt Bicem. Osanna, idest Salva; sanctus Deus Sabaoth, idest exercituum; superillustrans, idest illuminans, claritate tua; felices, idest beatos ignes, idest spiritus ignitos horum Malacotht, idest regnorum. Sic, scilicet volvendo se ad notam suam, scilicet ad cantum (alius textus habet, ad rotam suam, idest ad coream, que communiter fit circulariter), fuit visum, scilicet michi Danti, cantare ipsam substantiam, scilicet animam, Iustiniani, super quam duplex lumen duplicatur, scilicet armorum et legum fama; et ipsam, scilicet animam Iustiniani, alie, scilicet anime, que erant ibi, moverunt ad suam coronam; et quasi velocissime faville, michi se velaverunt propter subitam distantiam, scilicet quam transcucurrerunt.
+
+Ego dubitabam, scilicet petere, et dicebam, scilicet in corde meo: Dic, dic, illa, scilicet dubia, intra me dicebam, dic mee domine, que meam sitim, idest appetitum sciendi, extinguat cum dulcibus stillis, idest distillationibus; sed illa reverentia, idest reverens domina, que se indon[n]at, idest domina consistit, in toto, idest nominatur per B, per I, et per ICE, idest Bice (sic enim vocatur ipsa Beatrix, amasia . Dantis in sua pueritia, Bice) me revocabat sicut hominem sompnolentum; nam ego stabam, sicut qui a sompno rapitur.
+
+Pauco, scilicet tempore, sustulit, idest substinuit, me talem, scilicet taliter stare suspensum, Beatrix; et incepit, ratiocinando michi de, scilicet cum, uno risu tali, quod in foco, idest in igne, faceret hominem felicem, idest daret tantam letitiam, quod beatificaret etiam hominem existentem in igne.
+
+Secundum meum ineffabile videre. Secondo el mio ineffabile avviso: hec est secunda pars huius capituli, in qua ipsamet Beatrix [solvit] unum dubium, quod oritur ex dictis superius in capitulo precedenti, quod ipse auctor habebat in corde. Dubium erat tale. Si una vindicta fit iuste et iusta, quomodo iuste poterit fieri vindicta de illa vindicta iuste facta? quia hoc videtur includere contradictionem. Si vindicta est iusta, quomodo vindicabitur iuste? Si fuit iusta, iniuste agitur contra illam, etc. Ut in capitulo precedenti dictum, quomodo per Titum Vespasianum
+
+<!-- p. 898 (0952) -->
+
+⁹ Per non soffrire a la virtù che vuole\
+&emsp;Freno a suo prode, quell'huom che non nacque,\
+&emsp;Dannando sè, dannò tutta sua prole;
+
+⁹ Propter non sufferre virtus que vult\
+&emsp;Frenum ad suum profectum, ille homo qui non nascebatur,\
+&emsp;Dampnando se, dampnavit totam suam prolem;
+
+¹⁰ Onde l'humana spetie in terra giaque\
+&emsp;Giù per secoli molti in grande errore,\
+&emsp;Fin ch'al Verbo divin discender piaque,
+
+¹⁰ Unde humana species infirma iacuit\
+&emsp;Infra per secula multa in grandi errore,\
+&emsp;Quousque Verbo Dei descendere placuit,
+
+¹¹ U'la natura, che dal suo Factore\
+&emsp;S'era lungata, unìo a sè in persona\
+&emsp;Coll'acto sol di suo eterno amore.
+
+¹¹ Ubi natura, que a suo Factore\
+&emsp;Se elongaverat, univit se in persona,\
+&emsp;Cum actu solum sui eterni amoris.
+
+¹² Hor drizza 'l viso a quel ch'or si ragiona:\
+&emsp;Questa natura al suo Factor unita,\
+&emsp;Qual fu creata, fu sincera e buona;
+
+¹² Nunc dirige visum ad id quod nunc ratiocinatur:\
+&emsp;Ista natura suo Factori unita,\
+&emsp;[Est], qualis fuit creata, sincera et bona;
+
+fuit iuste vindicata vindicta, facta sub Tiberio per mortem Christi Iesu, de peccato primorum parentum? Aut mors Christi fuit iusta, aut non: si non fuit iusta, non fuit iuste vindicatum peccatum primorum parentum; si fuit iusta, quomodo potuit postea iuste vindicari per destructionem Hierusalem, etc? Hoc dubium recitabat ab ipsa Beatrice. Ipsa solvit, incipiendo multum a longe, et dicit: Quia primi parentes noluerunt sufferre subiectionem et obedientiam precepti dati a Deo, Adam, qui non nascebatur, bene plasmabatur, peccavit, non obediendo Deo, sed transgrediendo mandatum Dei, dampnavit se et totam stirpem suam, et omnes descendentes ab ipso secundum propagationem; propter quod peccatum inobedientie, scilicet humana species, per multa secula, scilicet per multos annos, infirma [iacuit], etiam in magnis erroribus, scilicet ydolatrie, quousque Verbum divinum incarnatum fuit, in qua incarnatione, natura humana, que se elongaverat a Deo propter peccatum, unita fuit ei in unitate persone, sive ypostatica, solum in istanti, cooperante Spiritu Sancto. Ista natura unita Christo fuit pura et immaculata, sicut fuit creata in Adam sine aliqua macula; sed talem naturam humanam maculaverunt parentes nostri primi, peccando; quam naturam Christus assumpsit, sed sine peccato, sicut sine peccato fuit facta a Deo. Ista natura per se ipsam peccavit, et elongavit se a Deo, et exulavit a Paradiso, quia recessit a voluntate divina et a recta via obedientie. Quia igitur natura humana peccavit, iuste passa fuit in cruce, et passio humanitatis fuit valde iusta: sed persona illa divina iniustissime fuit crucifixa, que persona contraxerat ipsam humanam naturam. Et ideo clare apparet, quod de uno actu, de uno opere, exeunt et procedunt diverse res; quia mors Christi Deo placuit et Iudeis placuit, sed non eodem respectu: que mors Christi aperuit celum, et propter quam terra tremuit. Tunc ad textum, sic.
+
+Ex quo apparebit, quomodo diversis respectibus utrumque erit verum, quod iusta vindicta facta fuit per Titum et Vespasianum de iusta vindicta, facta per mortem Christi de peccato primorum parentum, si bene attendatur. Secundum meum ineffabile (Sacra Scriptura videt ineffabiliter in tantum, quod memoria hominis non potest recordari, ut patuit in principio primi capituli huius Paradisi) videre, aviso, scilicet sicut, idest quomodo, iusta vindicta iuste punita sit, tibi est in cogitationem immissum, scilicet pro dubio: sed ego tibi resolvam cito mentem, scilicet tuam, intricatam in dubio; et tu ausculta, idest actente, quia mea verba de grandi semine tibi facient ensenium, idest te declarabunt ad plenum. Propter non sufferre virtus, scilicet concupiscibilis, que vult, idest que appetit, frenum, idest metam sive terminum legis, ad suum profectum (littera difficilis est, sed sententia est hec: quia virtus appetitiva, scilicet concupiscibilis, primorum parentum, noluit sustinere frenum, idest noluit obedire precepto legis divine, quod frenum erat eis proficuum), ideo peccans, transgrediens preceptum divinum, homo qui non nascebatur, sed bene plasmabatur a Deo (scilicet Adam, qui non nascebatur nec ex patre nec ex matre, sed plasmatus fuit a Deo, cuius corpus de terra Deus fecit et animam creavit), dampnando se, propter peccatum quod commisit, dampnavit totam suam prolem, idest omnes descendentes ab eo; unde humana species, idest humanum genus, infirma, tam in naturalibus quam in gratuitis, iacuit infra, alias in terra, idest in seculo presenti, per secula multa, idest quinque millia annorum et amplius, in grandi errore, scilicet ydolatrie et paganismi, quousque Verbo, scilicet Filio Dei, descendere placuit, idest incarnari (que incarnatio fuit descensus, quia qui cum in forma Dei esset, non rapinam arbitratus est esse se equalem Deo Patri, sed semetipsum exinanivit formam servi accipiens (ad Galatas IV), ubi, idest tunc in incarnatione, natura, scilicet humana, que a suo factore, scilicet a Deo, se elongaverat, scilicet peccando, univit se, idest unita fuit, in persona, scilicet in unitate personali, Verbo Dei, scilicet quod Deus est, cum actu solum sui eterni amoris; idest solum cooperante Sancto Spiritu in instanti, non ex virili semine, sed solum virtute Altissimi obumbrante Virginem; quod factum est ex actu amoris, quia propter nimiam caritatem, qua Deus dilexit mundum, misit filium suum (ad Galatas IV).
+
+Iam Beatrix reddit auctorem actentum, dicens: Nunc dirige visum, idest actende bene, ad id quod nunc ratiocinatur,
+
+<!-- p. 899 (0953) -->
+
+¹³ Ma per sè stessa fu dapoi (¹) sbandita\
+&emsp;Dal Paradiso, però che si torse\
+&emsp;Da via di verità e da sua vita.
+
+¹³ Sed per se ipsam fuit bannita\
+&emsp;De Paradiso, quia se retorsit\
+&emsp;A via veritatis et a sua vita.
+
+¹⁴ La pena dunque che la Croce porse,\
+&emsp;Se a la natura assumpta si misura,\
+&emsp;Nulla giammai sì iustamente morse;
+
+¹⁴ Pena igitur quam crux porrexit,\
+&emsp;Si ad naturam assumptam mensuratur,\
+&emsp;Nulla unquam ita iuste momordit;
+
+¹⁵ E così nulla fu di tanta iniura,\
+&emsp;Guardando a la persona che sofferse,\
+&emsp;In che era contracta tal natura.
+
+¹⁵ Sic nulla fuit tante iniurie,\
+&emsp;Respiciendo ad personam que sustinuit,\
+&emsp;In qua erat contracta talis natura.
+
+¹⁶ Però d'un acto escir cose diverse;\
+&emsp;Ch'a Dio et a Iudei piaque una morte:\
+&emsp;Per lei tremò la terra e 'l ciel s'aperse.
+
+¹⁶ Ergo de uno actu exiverunt res diverse;\
+&emsp;Quia Deo et Iudeis placuit una mors:\
+&emsp;Propter eam terra tremuit et celum se aperuit.
+
+¹⁷ Non ti de' horamai parer più forte,\
+&emsp;Quando si dice che giusta vendetta\
+&emsp;Poscia (²) vengiata fu da giusta corte.
+
+¹⁷ Non deberet ammodo apparere tibi ulterius forte,\
+&emsp;Quando dicitur quod iusta vindicta\
+&emsp;Postea vindicata fuit a iusta curia.
+
+(¹) al. ella — (²) al. dapoi.
+
+idest cum ratione dicitur: Ista natura, scilicet humana, suo Factori unita, est supple, qualis fuit creata, et ita pura et immaculata sicut Deus illam creavit, scilicet pura et sincera et bona sine macula; sed per seipsam, scilicet ex suo defectu, fuit bannita, idest expulsa, de paradiso, quia se retorsit a via veritatis, alias a veritate et a sua vita, idest a Deo, qui est via, veritas et vita.
+
+Pena igitur, quam crux porrexit, idest quam in cruce Christus sustinuit, si ad naturam assumptam, idest ad humanitatem, mensuratur, idest referatur, ullam nunquam ita iuste momordit, idest crux nunquam momordit aliquando naturam ita iuste. Quia humana natura peccaverat, ideo iuste punita fuit in cruce: natura humana in specie erat maculata, ideo debuit pati; licet illa singularis humanitas, que erat in Christo, esset absque peccato. Sic nulla fuit tante iniurie, idest nulla pena unquam fuit tam iniusta, respiciendo, idest habendo respectum, ad personam que sustinuit (scilicet ad filium, quia nulla alia persona erat in Christo nisi persona divina Filii Dei), vel sustulit, in qua, scilicet persona, erat contracta talis natura.
+
+Ergo de uno actu exiverunt, idest processerunt, res diverse; quia Deo et Iudeis placuit una mors, scilicet Iesu Christi supple, sed diversis respectibus: quia Deo placuit ut humanum genus redimeretur; non sic placuit Iudeis, sed propter invidiam et livorem: propter eam, scilicet mortem Christi, terra tremuit, nam terremotus magnus factus est (MATHEI, XXVII), et celum se aperuit, quia Christus extraxit Sanctos Patres de limbo Inferni, et conduxit eos in celum, etc.
+
+Non debet ammodo. Non te dee oramai: hec est tertia pars huius capituli, in qua auctor in persona Beatricis movet unum aliud dubium, et declarat illud. Primo tamen concludit intentum suum, scilicet quod propter dicta et declarata clarum deberet esse hiis, qui bene notaverunt que dicta sunt, quomodo iusta vindicta facta est de vindicta in curia iustissima. Mors Christi fuit iusta, respiciendo naturam humanam patientem, et respectum quem habuit Deus ad ipsam Christi mortem, scilicet pro redemptione humani generis: habendo vero respectum ad personam divinam et ad intentionem Iudeorum, mors Christi iniustissima fuit. Et ideo, sicut mors Christi fuit iusta quantum ad naturam assumptam, et [iniusta] ad intentionem Iudeorum, ideo vindicta facta per Titum, fuit iusta, et sic patet declaratio istius. Ideo dicit textus concludendo: Non debet ammodo apparere tibi forte, idest difficile, quando dicitur quod iusta vindicta, scilicet facta de peccato Ade, postea, scilicet per Titum, vindic[a]ta fuit a iusta curia.
+
+Sed dubium quod ammodo oritur, est hoc: Quare Deus voluit et elegit solum istum modum, ad redemptionem humani generis? Et multi ad hoc dubium respiciunt, et pauci intelligunt veritatem, et maxime si non sint experti in scientia Theologie, que est flamma amoris, scilicet Spiritus Sancti, quia lex divina lex ignea est, et Deus est ignis consumens. Tamen ad intelligendum quid dicendum sit, notandum est, quod Deus summe bonus, qui omnia vitia abominatur, et maxime omnem livorem et omnem invidiam, et est summa caritas, summus amor, ardens amore, vult comunicare perfectiones suas; et ideo fecit creaturas, ut ipsis comunicaret gratiam suam, perfectiones suas, ostendendo eternas suas pulchritudines. Fecit diversas creaturas. Operabatur in creando dupliciter: uno modo, faciens creaturas se solo, nullo medio interveniente [vel] aliqua causa secunda; aliqua fecit facitque Deus mediante creatura, scilicet mediante celo et aliis causis secundis. Illa, que fecit, se solo, proprie dicuntur creature et creata, sicut fuerunt natura angelica, celum empyreum, materia prima, etc., et sic cotidie facit animas humanas: elementa vero et elementata non dicuntur creature, quia non immediate facta a Deo ex nihilo, sic omnia terrenascentia, omnia bruta, etc. Omnia que Deus facit immediate, sunt perpetua, quia impressio, quam Deus imprimit in talibus, quando talia creat,
+
+<!-- p. 900 (0954) -->
+
+¹⁸ Ma io veggi' hor la tua mente ristrecta\
+&emsp;Di pensier in pensier dentr'a un nodo,\
+&emsp;Dal qual con gran desio solver s'aspecta.
+
+¹⁸ Sed ego video nunc mentem tuam restrictam\
+&emsp;De cogitatione in cogitationem intra unum nodum,\
+&emsp;A quo cum grandi desiderio solvi expectat.
+
+¹⁹ Tu dici: Ben discerno ciò ch' i' odo;\
+&emsp;Ma perchè Dio volesse, m'è occulto,\
+&emsp;A nostra redemption pur questo modo.
+
+¹⁹ Tu dicis: Bene discerno id quod audio;\
+&emsp;Sed quare Deus voluerit, michi est occultum,\
+&emsp;Ad nostram redemptionem solum istum modum.
+
+²⁰ Questo decreto, frate, sta sepulto\
+&emsp;Agl'ochi di ciascun, el cui ingegno\
+&emsp;Ne la fiamma d'amor non è adulto.
+
+²⁰ Istud decretum, frater, stat occultum\
+&emsp;Oculis quorumcumque, quorum ingenium\
+&emsp;In flamma amoris non est adultum.
+
+²¹ Veramente, però ch'a questo segno\
+&emsp;Molto si mira, e poco si discerne,\
+&emsp;Dirò perchè tal modo fu più degno.
+
+²¹ Vere, quia ad istud signum\
+&emsp;Multum respicitur et parum discernitur,\
+&emsp;Dicam tibi quare talis modus magis fuit dignus.
+
+non mutatur; quidquid a Deo, sine medio, modo producitur, habet libertatem arbitrii, nec subiicitur influentie celorum: et quia illud quod fit a Deo immediate, est immortale, incorruptibile, et immortale et liberum est Deo simillimum et conforme; ideo Deus habet maiorem complacentiam in eo, et ardor divinus, qui omnem irradiat creaturam, non habet rem magis sibi similem et conformem quam creaturam rationalem. Humana igitur creatura, quoad animam, habet hec omnia, scilicet perpetuitatem, libertatem et immortalitatem; quarum si una talium proprietatum sibi defecerit, a sua voluntate caderet et ab immortalitate et perpetuitate et libertate et conformitate divina. Solum peccatum potest hominem facere cadere et eis eum privare, quia anima, existens scilicet in peccato mortali, non irradiatur divina gratia, seu lumine divinali; et si homo peccat et cadit ab hiis vel aliquo horum, non potest redire ad pristinum statum et illa recuperare, nisi satisfaciat ad plenum omnia, que peccatum evacuavit, vel vacuum fecit. Ideo si homo peccat, oportet quod luat iuste et per penitentiam satisfaciat ad plenum. Ex hiis dictis sequitur, quod quando homo primus peccavit in Paradiso, sicut fuit expulsus et privatus de Paradiso, sic amisit alias dignitates; scilicet immortalitatem, quia homo non poterat mori; amisit conformitatem et libertatem, idest similitudinem quam habuit ad Deum. Nec poterat homo reacquirere deperdita, nisi Deus ex sua liber[ali]tate sola dimisisset peccatum, vel quod homo per seipsum satisfecisset pro suo peccato: idest, oportebat, volendo homo reacquirere deperdita propter peccatum, vel quod ipse per seipsum ex seipso, idest ex puris naturalibus, satisfaceret; vel quod Deus sibi liberaliter remicteret in totum. Prima pars non habet locum, quia homo ex puris naturalibus nunquam potuisset nec fecisset; quia humiliando nunquam potuisset tantum flectere, quantum superbiendo voluit ascendere: voluit enim de homine fieri Deus, vel Deum; sed ipse ex puris naturalibus nunquam potuisset de Deo hominem fieri, et sic non potuisset homo pro peccato satisfacere per se solum. Ad hoc igitur quod homo reacquireret deperdita et sibi peccatum relaxaretur, oportebat quod Deus liberaliter concurreret ad hanc satisfactionem. Ad quam potest Deus concurrere dupliciter: vel cum misericordia solummodo, omnia liberaliter remictendo; vel cum duobus, scilicet misericordia et iustitia. Sed concurrere cum misericordia et iustitia, est perfectius opus et perfectius concurrere et agere. Ergo sic debebat Deus concurrere et agere. Quia ad Deum, qui est summe bonum, pertinet summe bene agere et [modo] omnino magis condecenti; et opus communicatum tanto gratiosius est acceptabile et acceptandum, et sic acceptatur, quanto in opere plus relucet bonitas operantis. Ex hiis apparet, quod, a prima die creationis mundi usque ad finem, non fuit factum nec opus tanti pretii et tam acceptandum, sicut fuerunt Christi incarnatio et eius passio. Ista fuit summa largitas et maxima liberalitas Dei, quando pro redimendo homine seipsum dedit et tradidit sic misericorditer et clementer; nam sic intervenerunt misericordia et iustitia. Sed si Dei filius non incarnabatur, nulla iustitia intervenisset: quia hic fuit plena satisfatio; quia ille homo, qui dicitur Christus, tantum humiliavit se descendendo per humilitatem, quanto superbuit Adam volens ascendere [ad] deitatem.
+
+Sed ego video nunc tuam mentem restrictam de cogitatione in cogitationem intra unum nodum, idest intra unum dubium quod te tenet strictum sicut nodi stringunt ea que nodantur, a quo, scilicet nodo, seu dubio, cum grandi desiderio solvi expectat, idest declarari.
+
+Tu dicis, scilicet in corde tuo. Bene discerno id quod audio, supple a te Beatrice; sed quare Deus voluerit, michi est occultum, ad redemptionem solum istum modum, scilicet per incarnationem et passionem Iesu Christi, filii sui unigeniti.
+
+Istud decretum, o frater, idest ordinatio, stat sepultum, idest occultum, oculis quorumcumque, quorum ingenium, idest quorum scrutinia, studia et exercitia, in flamma amoris, idest in scientia theologica, non est adultum, idest exercitatum vel assuetum; idest illi qui solum querunt rationes demonstrativas, querendo solum per scientias naturales et seculares, et non se dederint sacre Theologie nec illi voluerint adherere.
+
+Vere, eo quia ad istud signum multum respicitur, idest cum scientiis mundanis, et parum discernitur, scilicet cum illis, dicam, tibi scilicet, quare talis modus magis fuit dignus, idest congruus.
+
+<!-- p. 901 (0955) -->
+
+²² La divina bontà, che da sè sperne\
+&emsp;Ogni livore, ardendo in sè sfavilla\
+&emsp;Sì, che dispiegha le bellezze eterne.
+
+²² Divina bonitas, que a se spernit\
+&emsp;Omnem livorem, ardendo in se sfavillat\
+&emsp;Ita, quod explicat pulchritudines eternas.
+
+²³ Ciò che da lei senza mezzo distilla,\
+&emsp;Non ha poi fine, perchè non si muove\
+&emsp;La sua inprompta, quand'ella suggella (¹).
+
+²³ Quidquid ab ea sine medio distillat,\
+&emsp;Non habet postea finem, quia non movetur\
+&emsp;Sua imprenta, quando ipsam sigillat.
+
+²⁴ Ciò che da essa senza mezzo piove\
+&emsp;Libero è tutto, perchè non subiace\
+&emsp;A la virtute de le cose nuove.
+
+²⁴ Quidquid ab ea sine medio pluit,\
+&emsp;Liberum est totum, quia non subiacet\
+&emsp;Virtuti rerum novarum.
+
+²⁵ Più gl'è conforme, e però più gli piace;\
+&emsp;Chè l'ardor sancto, ch'ogni cosa raggia,\
+&emsp;Ne la più simigliante è più vivace.
+
+²⁵ Plus est sibi conforme, ideo plus sibi placet;\
+&emsp;Ideo ardor, qui omnem rem radiat,\
+&emsp;Non habet magis similem nec magis vivacem.
+
+²⁶ Di tutte queste cose s'avantaggia\
+&emsp;L'humana creatura; e s'una manca,\
+&emsp;Da sua nobilità convien che caggia.
+
+²⁶ De omnibus istis prerogativis prerogativatur\
+&emsp;Humana creatura; et si una deficit,\
+&emsp;De sua nobilitate convenit quod cadat.
+
+²⁷ Solo el peccato è quel che la difranca,\
+&emsp;E dissimil la fa al sommo bene,\
+&emsp;Perchè del lume suo poco s'imbianca;
+
+²⁷ Solum peccatum est illud quod ipsam defrancat,\
+&emsp;Et dissimilem illam facit summo bono,\
+&emsp;Quia de lumine suo parum dealbatur;
+
+²⁸ Et in sua dignità mai non riviene,\
+&emsp;Se non riempie dove colpa vota,\
+&emsp;Contra 'l mal dilectar con giuste pene.
+
+²⁸ Et in suam dignitatem nunquam revenit,\
+&emsp;Si non replet ubi culpa vacuat,\
+&emsp;Contra male delectari cum iustis penis.
+
+²⁹ Vostra natura, quando peccò tota\
+&emsp;Nel seme suo, da queste dignitadi,\
+&emsp;Come da Paradiso, fu remota;
+
+²⁹ Vestra natura, quando peccavit tota\
+&emsp;Seminis sui, ab istis dignitatibus,\
+&emsp;Sicut de Paradiso, fuit remota;
+
+(¹) al. sigilla
+
+Divina bonitas, ex se immensa supple, que a se spernit, idest abiicit, despicit, omnem livorem, scilicet invidiam, et omne vitium, ardendo in se amore intenso favillat (idest, facit caritas, ideo sumus; et ideo Deus fecit mundum, quia summe bonus, et vult bona sua partecipare et communicare aliis) ita, quod dispiegat (idest explicat, distinguit et dividit; perfectiones suas, diversis creaturis, manifestat) pulchritudines eternas, scilicet attributa, actiones suas, et servitia angelorum et ministeria et officia.
+
+Quidquid ab ea, scilicet divina voluntate, sine medio distillat, idest, nulla cooperante seu concurrente creatura, derivatur vel efficitur, procedit ad extra, non habet postea finem, quia non movetur sua imprenta, idest impressio, idest sua essentia, scilicet rei sic facte, quando ipsam sigillat, idest quando facit illam formam.
+
+Quidquid ab ea, scilicet divina bonitate, sine medio, ut supra, non concurrente aliqua creatura, pluit, idest procedit, vel venit per creationem, liberum est, idest libertatem habet, totum, quia non subiacet virtuti, idest influentie celorum, rerum novarum, quia influentia celi est causa rerum novarum.
+
+Plus est sibi, scilicet divine bonitati, conforme, propter perpetuitatem et libertatem; ideo plus sibi placet (procul dubio plus placent Deo angeli et anime, quam animalia bruta, propter similitudinem et ymaginem, etc.); ideo ardor, scilicet divinus, qui omnem rem, scilicet creaturam, radiat, idest illuminat subaudi, non habet magis similem, scilicet sibi, nec magis vivacem; quia nulla creatura est vivacior aut similior Deo, quam sint angeli et homines.
+
+De omnibus istis, scilicet prerogativis, scilicet perpetuitate, immortalitate, libertate, avantagiatur, idest prerogativatur, humana creatura; et si una deficit, de sua nobilitate convenit, idest oportet, quod cadat.
+
+Posset quis dicere: Quomodo homo potest perdere perpetuitatem vel libertatem liberi arbitrii? Respondet ipse: solum peccatum est illud quod ipsam, scilicet creaturam humanam, defrancat, idest privat libertate, et dissimilem facit illam summo bono, scilicet Deo, quia de lumine suo, scilicet divino, parum dealbatur, idest ornatur, idest perdit gratiam Dei, idest non illuminatur a Deo; et in suam dignitatem nunquam revenit, idest revertitur, idest nunquam reacquirit dignitatem propter peccatum perditam, si non replet, idest cum debita penitentia satisfacit, ubi culpa vac[u]at, idest privat, scilicet dignitatum predictarum aliqua; idest, ubi culpa delectationis privavit hominem illis dignitatibus, oportet quod debita penitentia repleat, idest satisfaciat, contra malum delectare, idest contra malam delectationem, cum penis iustis.
+
+Vestra humana natura, scilicet quando peccavit, tota, idest totaliter, seminis sui, ab istis dignitatibus, sicut a
+
+<!-- p. 902 (0956) -->
+
+³⁰ Nè ricovrar poteasi, se tu badi\
+&emsp;Ben sottilmente, per alcuna via,\
+&emsp;Senza passar per un di questi gradi:
+
+³⁰ Nec recuperari poterant, si tu actendis\
+&emsp;Bene subtiliter, per aliquam viam,\
+&emsp;Nisi transisset per unum istorum graduum:
+
+³¹ Che Dio solo per sua cortesia\
+&emsp;Dimesso havesse, o che l'huom per sè ipso\
+&emsp;Havesse satisfacto a sua follia.
+
+³¹ Vel quod Deus solum per suam curialitatem\
+&emsp;Dimisisset, vel quod homo per seipsum\
+&emsp;Satisfecisset suo sceleri.
+
+³² Ficha mo' l'ochio per entro l'abisso\
+&emsp;Dell'eterno consiglo, quanto puoi\
+&emsp;Al mio parlar distrettamente fisso.
+
+³² Fige nunc oculos intra per abissum\
+&emsp;Eterni consilii, quantum potes\
+&emsp;Ad meum sermonem stricte fixus.
+
+³³ Non potea l'huomo ne' termini suoi\
+&emsp;Mai satisfar, per non poter ir giuso\
+&emsp;Con humiltà, obediendo poi,
+
+³³ Non poterat homo in terminis suis\
+&emsp;Unquam satisfacere, propter non posse ire infra\
+&emsp;Cum humilitate, obediendo postea,
+
+³⁴ Quanto disobbediendo intese ir suso;\
+&emsp;E quest'è la ragion perchè l'huom fue\
+&emsp;Da poter satisfar da sè dischiuso.
+
+³⁴ Quantum non obediendo intellexit ire sursum;\
+&emsp;Et ista est ratio quare homo fuit\
+&emsp;A posse satisfacere a se exclusus.
+
+³⁵ Donque a Dio convenia con le vie sue\
+&emsp;Riparar l'huomo a sua intera vita,\
+&emsp;Coll'una, dico, o ver con amendue.
+
+³⁵ Ergo Deum oportebat cum viis suis\
+&emsp;Reparare hominem ad suam integram vitam,\
+&emsp;Dico cum una vel cum ambabus.
+
+³⁶ Ma perchè l'opra è tanto più gradita\
+&emsp;Dell'operante, quanto più appresenta\
+&emsp;De la bontà del cuor donde è escita;
+
+³⁶ Et tantum opera est plus gratuita\
+&emsp;Operantis, quanto plus representat\
+&emsp;De bonitate cordis, cum illa exivit.
+
+³⁷ La divina bontà, che 'l mondo imprenta,\
+&emsp;Di proceder per tutte le sue vie,\
+&emsp;A rilevarvi suso, fu contenta.
+
+³⁷ Divina bonitas, que mundum imprentat,\
+&emsp;Procedere per omnes suas vias,\
+&emsp;Ad relevandum nos sursum, fuit contenta.
+
+³⁸ Nè tra l'ultima nocte e 'l primo die\
+&emsp;Sì alto o sì magnifico processo,\
+&emsp;O per l'uno o per l'altro, fu o fie.
+
+³⁸ Nec inter ultimas rotas et primum diem\
+&emsp;Tam altus et tam magnificus processus,\
+&emsp;Sive per unum modum sive per alium, fuitvel erit.
+
+Paradiso, fuit remota; idest sicut de Paradiso fuit expulsa, ita ab omnibus dignitatibus fuit remota et ab illis privata. Nec recuperari poterant, scilicet ille dignitates deperdite propter peccatum, si tu actendis bene subtiliter, per aliquam viam, nisi transisset per unum istorum graduum, idest modorum: vel quod Deus solum per suam curialitatem dimisisset; vel quod homo per se ipsum, idest ex puris naturalibus, satisfecisset suo sceleri, idest pro suo peccato, sive sue follie.
+
+Fige nunc oculos (Beatrix reddit actentum auctorem dicens: Respice bene et actende) intra per abissum, idest profunditatem, eterni consilii, quantum potes (quia arcana satis parce homo potest intueri) ad meum sermonem, idest documentum, strictissime fixus.
+
+Non poterat homo in terminis suis, idest ex puris naturalibus, unquam satisfacere propter non [posse] ire infra cum humilitate, obediendo postea, quantum non obediendo, imo transgrediendo preceptum Dei, intellexit, idest appetiit, ire sursum; quia voluit esse Deus, appetiit divinitatem: et ista est ratio, quare homo fuit a posse satisfacere a se exclusus; non potuit.
+
+Ergo Deum oportebat, idest si volebat hominem salvare, cum viis suis reparare hominem ad suam integram vitam, dico cum una sive cum ambabus, scilicet viis Dei. Vie Dei ad reparandum hominem, sunt due; scilicet misericordia et iustitia: via misericordie suffecisset, sed non videbatur usquequaque condecens, quoniam non fuit ita acceptata; sed, utendo duabus viis, fuit magis attentanda ista redemptio.
+
+Et tantum opera est plus gratuita, idest acceptanda pro grato operantis, quanto plus representat de bonitate cordis unde ipsa exivit: nam servitium et donum plus debet existimari secundum voluntatem dantis, quam secundum quantitatem rei date. Deus poterat cum mera liberalitate dimictere peccatum primi hominis, sed voluit pro parte uti iustitia cum misericordia: Misericordia et veritas, idest iustitia, obviaverunt; pax et iustitia osculate sunt. In Psalmis.
+
+Divina bonitas, que mundum imprentat, idest ex nihilo illum creavit, procedere per omnes suas vias ad relevandum nos fuit contenta. Idest Deus, qui imprentat, idest, faciendo creaturas, imprimit formas que dant esse rebus, voluit uti misericordia et iustitia ad reparandum hominem.
+
+<!-- p. 903 (0957) -->
+
+³⁹ Chè più largo fu Dio a dar sè stesso,\
+&emsp;Per far l'huom sufficiente a rilevarsi,\
+&emsp;Che s'elli avesse sol da sè rimesso:
+
+³⁹ Quia largior fuit Deus ad dandum seipsum,\
+&emsp;Ad faciendum hominem sufficientem ad se relevandum,\
+&emsp;Quam si ipse solus a se dimisisset.
+
+⁴⁰ E tutti gl'altri modi erano scarsi\
+&emsp;A la iustitia, se 'l Figliuol di Dio\
+&emsp;Non fusse humiliato ad incarnarsi.
+
+⁴⁰ Et omnes alii modi erant scarsi\
+&emsp;Ad iustitiam, si Filius Dei\
+&emsp;Non humiliasset se ad incarnandum.
+
+⁴¹ Hor per empierti ben ogni desio,\
+&emsp;Ritorno a dichiarar in alcun loco,\
+&emsp;Perchè tu veggi lì così com'io.
+
+⁴¹ Nunc, pro adimplendo bene omni tuo desiderio,\
+&emsp;Revertor ad declarandum in aliquo loco,\
+&emsp;Ad hoc ut tu videas ibi sicut ego video.
+
+⁴² Tu dici: Io veggio l'aere, e veggio el fuoco,\
+&emsp;L'acqua, e la terra e tutte lor mixture\
+&emsp;Venir a corruption, e durar poco;
+
+⁴² Tu dicis: Video aquam, video ignem,\
+&emsp;Aierem, terram, et omnes earum mixtiones\
+&emsp;Venire ad corruptionem, et durare paucum;
+
+⁴³ E queste cose pur fur creature:\
+&emsp;Perchè, se ciò ch'ò decto è stato vero,\
+&emsp;Esser dovrien da corruption secure.
+
+⁴³ Et iste res tamen fuerunt creature:\
+&emsp;Ergo, si dictum tuum fuit verum,\
+&emsp;Esse secure deberent a corruptione.
+
+⁴⁴ Gl'angeli, frate, e 'l paese sincero\
+&emsp;Nel qual tu se', dir si posson creati,\
+&emsp;Sì come sono, in lor esser intero;
+
+⁴⁴ Angeli, frater, et regio sincera\
+&emsp;In qua tu es, dici possunt creati,\
+&emsp;Sicut sunt, in eorum esse integro;
+
+⁴⁵ Ma gl'elementi che tu hai nomati,\
+&emsp;E quelle cose che di lor si fanno,\
+&emsp;Da creata virtù son informati.
+
+⁴⁵ Sed elementa que tu nominasti,\
+&emsp;Et ille res que de ipsis fiunt,\
+&emsp;De creata virtute sunt informata.
+
+Nec inter ultimas [rotas], idest revolutiones celi que fient in fine mundi, in ultimas dies, et primum diem, quo Deus fecit mundum, tam altus et tam magnificus processus, sive per unum modum, per incarnationem scilicet, sive per alium, scilicet per passionem, fuit vel fiet. Vult dicere quod nunquam fuit factum ita magnum beneficium.
+
+Quia largior fuit Deus ad dandum seipsum, ad [faciendum] hominem sufficientem ad se relevandum, quam si ipse solus a se dimisisset; quia, sic faciendo, nedum pepercit homini, sed et seipsum dedit pro homine.
+
+Et omnes alii modi erant scarsi, idest avari, vel diminuti, ad iustitiam, si Filius Dei non humiliasset se ad incarnandum; quia iustitia nunquam habuisset debitum suum: scilicet per incarnationem Filii Dei, homo Deus se tantum humiliavit, quantum superbivit Adam; et hoc est satis ad iustitiam.
+
+Nunc pro adimplendo. Ora per empire: hec est quarta pars huius capituli, in qua Beatrix movet aliud dubium, et solvit. Istud dubium est: Tu dicis quod illa que fiunt a Deo immediate, sunt perpetua, etc., sicut sunt terra, ignis; et ista corrumpuntur, sicut videmus ad sensum; ergo non est verum dictum tuum. Solutio talis est, quod aliqua sunt facta a Deo et aliqua creata. Illa dicuntur facta a Deo, que ipse facit ex materia preexistenti, concurrentibus speris celestibus; illa dicuntur creata, que Deus facit vel fecit immediate ex nulla materia preexistente, nec concurrente aliqua causa secunda. Primo modo sunt facta omnia elementa et omnia elementata. Nam Deus semel creavit materiam omnium generabilium et corruptibilium, ex qua, concurrentibus causis secundis, facit multa tam sensibilia quam insensibilia, tam viventia quam non viventia. Forme substantiales omnium viventium, preter formas hominum, producuntur de potentia materie, sicut anime brutorum et plantarum et omnium terrenascentium; et ideo corrumpuntur ad corruptionem corporum. Quid autem sit produci de potentia materie, non est presentis speculationis, cum videmus quod apud multos dicitur ovum esse gallinam potentia, quia ex eo nascitur gallina. Dicitur quod semen est, potentia, tale ens vel tale, quod fit ex illo: anima vero humana non educitur de potentia materie, sed ex nihilo Deus illam immediate a se facit et infundit corpori in feto, cito postquam corpus humanum est de natura dearticulatum; et illa est perpetua et immortalis. Sic Deus fecit angelum et celum empyreum. Nunc pro adimplendo bene omni tuo desiderio, revertor ad declarandum in aliquo loco, ad hoc ut tu videas ibi, idest sicut video ego, idest clare et sine hesitatione.
+
+Tu dicis, idest dicere potes: Ego video aquam, ego video ignem, aierem, terram, et omnes earum mixtiones, venire ad corruptionem et durare paucum; et iste res tamen fuerunt create: ergo si dictum tuum fuit verum, esse secure deberent a corruptione. Littera est facilis, nec indiget multa declaratione.
+
+Nunc respondet: Angeli, o frater, et regio sincera in qua tu es, scilicet celum, dici possunt creati, quia de nihilo
+
+<!-- p. 904 (0958) -->
+
+⁴⁶ Creata fu la materia (¹) ch'egli hanno,\
+&emsp;Creata fu la materia informante\
+&emsp;In queste stelle che 'ntorno a lor vanno.
+
+⁴⁶ Creata fuit materia quam ipsa habent,\
+&emsp;Creata fuit virtus informans\
+&emsp;In istis stellis, que circa ipsam vadunt.
+
+⁴⁷ E l'anima d'ogni bruto e delle piante\
+&emsp;Di complexion potentiata tira\
+&emsp;Lo raggio e 'l moto de le luci sante.
+
+⁴⁷ Anima[m] omnium brutorum et plantarum\
+&emsp;De potentiis complexionatis trahit\
+&emsp;Radius et motus sancte lucis.
+
+⁴⁸ La vostra vita (²) senza mezzo spira\
+&emsp;La somma benenanza (³), e la 'nnamora\
+&emsp;Di sè, sì che poi sempre la disira.
+
+⁴⁸ Sed vestram vitam sine medio spirat\
+&emsp;Summa bonitas, et eam amore capit\
+&emsp;De se ita, quod semper eam desiderat.
+
+⁴⁹ E quinci puoi argomentare ancora\
+&emsp;Vostra resurrection, se tu ripensi\
+&emsp;Come l'humana carne fessi allora\
+&emsp;Che li primi parenti intrambo fensi.
+
+⁴⁹ Et hinc potes argumentare adhuc\
+&emsp;Vestram resurrectionem, si tu recogitas\
+&emsp;Quomodo humana caro facta fuit tunc\
+&emsp;Quando primi parentes ambo facti fuerunt.
+
+(¹) prima — (²) anima — (³) al. bonità.
+
+facti, nulla secunda causa concurrente, sicut sunt in eorum esse integro, idest incorruptibiles; sed [elementa] que tu nominasti, de creata virtute, idest de materia prima, sunt informata; et eorum forme sunt etiam de potentia materie facte.
+
+Creata fuit materia, quam ipsa habent, scilicet in principio mundi; creata fuit virtus informans, idest in istis stellis, que circa ipsam vadunt, idest volvuntur, idest virtus que est in celo, scilicet intelligentia movens celum.
+
+Animam omnium brutorum et plantarum de complexioconibus potentionatis trahit radius et motus sancte lucis: idest radii et motus stellarum trahunt, idest faciunt, animam brutorum et animam plantaram.
+
+Sed vestram vitam, idest animam intellectivam, sine medio spirat summa bonitas, et eam amore capit, idest eam allicit ad amorem suum, de se ita, quod semper eam desiderat etiam naturaliter.
+
+Et hinc potes argumentare adhuc vestram resurrectionem, si tu recogitas quomodo humana caro fuit facta tunc quando primi parentes ambo facti fuerunt. Quia Deus fecit animam, sive animas, primorum parentum, quorum primi scilicet Ade, corpus fecit de terra; secundi vero, scilicet Eve, fecit de costa Ade dormientis; et posuit illas in illis corporibus, factis sine patre et sine matre. Ex quo ergo anime sunt immortales, possunt faciliter reduci ad illos pulveres in quo[s] corpora illorum sunt redacta, quia vita et forma hominis non corrumpitur. Et sic finitur istud capitulum, etc.
+
+<!-- p. [905] (0959) -->
+
+# La creazione e la redenzione
+
+Finito che ebbe Giustiniano di parlare, e ripreso insieme alle altre anime il movimento della sua ruota, celandosi al Poeta, come velocissime faville di subita distanza, Beatrice, raggiandolo d'un riso
+
+Tal, che nel fuoco faria l'uom felice,
+
+prende ad esporgli, con profonda quanto succinta teologia, il mistero della Redenzione e il nesso che la congiunge alla creazione non altrimenti che all' universale risorgimento dei corpi nel novissimo dei giorni, accennando alle arcane armonie, che sono tra la natura e la grazia, tra il naturale e il soprannaturale, tra il finito e l'infinito, tra il temporaneo e l'eterno, i quali in Dio sono una cosa sola.
+
+Ed è bellissimo quanto sublime concetto, questo del Poeta, per cui creazione e redenzione convergono nella finale trasumanazione quasi risultato d'entrambe, e compimento dell'immensa opera divina; concetto, che da un lato ci mostra una mente vigorosa e addestrata alle più trascendenti speculazioni teologiche, e dall'altro la ragionevolezza dell'incarnazione e del riscatto che il Figliuol di Dio fece di noi con la sua morte di croce. Imperocchè non si muta già in questa il primitivo disegno divino, ma s'illumina ed abbellisce con raggi di giustizia e di misericordia, che lo rendono vieppiù venerando, salvando l'opera e sublimandola: unico movente nell' una e nell'altra l'ineffabile bontà di chi ci creò e ci redense; essendo bontà la misericordia, bontà la giustizia, l'una inseparabile dall'altra.
+
+L'uomo, come vedemmo altrove, era stato da Dio ordinato ad un fine soprannaturale: staccato che si fu da Dio per la colpa, avrebbe potuto più mai conseguirlo? Odasi il Poeta:
+
+Non potea l'uomo ne'termini suoi Mai soddisfar, per non potere ir giuso Con umiltate, obbediendo poi, Quanto disubbidendo intese ir suso; E questa è la ragion perchè l'uom fue Da poter soddisfar per sè dischiuso.
+
+Dunque a Dio convenia con le vie sue Riparar l'uomo a sua intera vita, Dico con l'una, o ver con ambedue.
+
+Ma perchè l'opra tanto è più gradita Dell'operante, quanto più appresenta Della bontà del cuore ond'è uscita; La divina bontà, che 'l mondo imprenta, Di proceder per tutte le sue vie A rilevarvi suso fu contenta.
+
+Vale a dire, Iddio dispose che Gesù Cristo suo figliuolo, già, secondo molti teologi (tra i quali il nostro grande Ales, maestro di Tommaso d'Aquino e di Bonaventura da Bagnorea), prototipo della creazione e mezzo di sublimazione, se fosse rimasta nell'uomo l'originaria innocenza, dispose, diciamo, che dopo il peccato e per causa del peccato addivenisse mezzo di redenzione. E in lui e per lui in verità fummo redenti, soddisfatta per la sua morte la giustizia, cancellata la colpa, restituitaci nella grazia la comunicazione divina, che anima e corpo addiverrà piena in cielo.
+
+Dice il Poeta che tutti gli altri modi sarebbero stati
+
+. . . . . . . . . scarsi\
+Alla giustizia, se'l Figliuol di Dio\
+Non fosse umilïato ad incarnarsi;
+
+ed è verissimo: ma nello stesso tempo sarebbe stata impossibile maggior semplicità di mezzi; il che indica l'infinito potere della virtù operante; nè sarebbe stata possibile più larga e dolce misericordia. Imperocchè, se i dolori sostenuti dall'Uomo Dio per redimerci ci empiono di spavento, facendoci conoscere tutto l'orrore che la colpa in sè contiene e l'integrezza della giustizia punitrice, lo stesso spettacolo di tanto strazio nell'Unigenito divino ci fa sentire l'ineffabile carità con cui siamo stati redenti.
+
+Ancora, l'insieme del processo della redenzione ci mostra che la libertà umana, pur volendo porsi in contrasto con il voler divino, non lo arresta punto, perchè, eziandio rimanendo salva la libertà nostra, gli ordinamenti di lui si compiono sempre, per essere assoluti e lasciar nel termine infinita varietà di vie, le quali non escono dal mare dell'immensità divina, e che, se possono allungare il cammino, non tolgono il giungere al porto. Nè possiamo lasciar di osservare che, per l'occasione della colpa, la virtù ebbe dalla redenzione lustro, pregio e altezza maggiore di prima, essendovisi aggiunto come elemento integrale il sacrificio ed il dolore; perocchè ognuno da sè intende, quanto sia più pregevole il medesimo atto di virtù in chi opera con sacrifizio e annegazione di sè stesso, affrontando, ove occorra, con animo intrepido la stessa morte, che non l'atto di colui, il quale senz'ombra di fatica e di dolore ne ha diletto e soddisfazione. E però dice ottimamente il Poeta che
+
+. . . più largo fu Dio a dar sè stesso,\
+Per far l'uom sufficiente a rilevarsi,\
+Che s'egli avesse sol da sè dimesso;\
+E tutti gli altri modi erano scarsi\
+Alla giustizia, se il Figliuol di Dio\
+Non fosse umilïato ad incarnarsi.

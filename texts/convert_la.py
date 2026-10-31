@@ -1,6 +1,6 @@
 """Convert ocr/la/NNNN.txt (Serravalle's translation and commentary, 1891) into texts/la/NNN-title.md.
 
-Only the Inferno and Purgatorio I–XXXI (scans 0079–0846) are converted so far: the rest of
+Only the Inferno, the Purgatorio and Paradiso I–VII (scans 0079–0960) are converted so far: the rest of
 ocr/la is not yet completed (see ocr/la/PLAN.md). See PLAN.md for the layout. Run from the repository root:
 
     uv run texts/convert_la.py
@@ -22,6 +22,9 @@ VERSES = {
     "purgatorio": [136, 133, 145, 139, 136, 151, 136, 139, 145, 139, 142, 136, 154, 151, 145,
                    145, 139, 145, 145, 151, 136, 154, 133, 154, 139, 148, 142, 148, 154, 145,
                    145, 160, 145],
+    "paradiso": [142, 148, 130, 142, 139, 142, 148, 148, 142, 148, 139, 145, 142, 139, 148, 154,
+                 142, 136, 148, 148, 142, 154, 139, 154, 139, 142, 148, 139, 145, 148, 142, 151,
+                 145],
 }
 
 # Cantos converted: (first scan, the scan of the essay, last scan), from INDEX.md.
@@ -41,11 +44,18 @@ CANTOS = {"inferno": [(79, 92, 92), (93, 102, 102), (103, 114, 114), (115, 127, 
                          (669, 679, 680), (681, 691, 692), (693, 703, 704), (705, 717, 718),
                          (719, 728, 728), (729, 739, 740), (741, 750, 750), (751, 761, 762),
                          (763, 773, 774), (775, 785, 786), (787, 797, 798), (799, 812, 812),
-                         (813, 823, 824), (825, 834, 834), (835, 845, 846)]}
+                         (813, 823, 824), (825, 834, 834), (835, 845, 846), (847, 858, 858),
+                         (859, 869, 870)],
+          "paradiso": [(873, 887, 888), (889, 901, 902), (903, 912, 912), (913, 924, 924),
+                       (925, 934, 934), (935, 948, 948), (949, 959, 960)]}
 # The first file of each cantica's cantos (001–007 are the front matter, not converted yet;
 # 042 is the Purgatorio's preambula).
-FIRST_FILE = {"inferno": 8, "purgatorio": 43}
-RUNNING_HEAD = {"inferno": "INFERNI", "purgatorio": "PURGATORII"}
+FIRST_FILE = {"inferno": 8, "purgatorio": 43, "paradiso": 76}
+RUNNING_HEAD = {"inferno": "INFERNI", "purgatorio": "PURGATORII", "paradiso": "PARADISI"}
+# The cantica's half-title that opens its first canto file, and the heading printed above
+# the first canto's *Summarium*.
+HALF_TITLE = {"paradiso": 871}
+INCIPIT = {"paradiso": "INCIPIT PARADISUS"}
 # Prose sections of one column: (file, first scan, last scan, the heading of the first page).
 PROSE = [("042-purgatorio-preambula.md", 477, 486, "PREAMBULA")]
 OFFSET = 54  # printed page = scan - 54
@@ -152,6 +162,15 @@ ESSAYS = {
         "Il carro immaginato dal Poeta in questo canto e la Chiesa",
     "LA VISIONE DI BEATRICE": "La visione di Beatrice",
     "LA CONFESSIONE": "La confessione",
+    "LA SCIENZA DEL BENE E DEL MALE": "La scienza del bene e del male",
+    "IL TRIONFO FINALE DEL BENE": "Il trionfo finale del bene",
+    "IL PARADISO": "Il Paradiso",
+    "L'IDEA DIVINA NELL' UNIVERSO": "L'idea divina nell'universo",
+    "IL FORMALE DEL GAUDIO ETERNO NELLA CARITÀ": "Il formale del gaudio eterno nella carità",
+    "IL DUBBIO E LA CERTEZZA": "Il dubbio e la certezza",
+    "IL VOTO E LA LIBERTÀ": "Il voto e la libertà",
+    "GIUSTINIANO E LE LEGGI": "Giustiniano e le leggi",
+    "LA CREAZIONE E LA REDENZIONE": "La creazione e la redenzione",
 }
 
 # Tercet numbers misprinted (ocr/la/PLAN.md, Suspected misprints): (scan, column, tercet) -> printed.
@@ -162,6 +181,9 @@ MISPRINTED_HEAD = {710: "PURGATORI"}
 SUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
 TO_SUP = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
 NUMBER = re.compile(r"([⁰¹²³⁴⁵⁶⁷⁸⁹]+|\d+) ")  # a tercet number at the start of a verse line
+# The scribe's verses at the end of a cantica, with their own gloss line: scan -> first words.
+COLOPHON = {868: "Qui scripsit scribat"}
+CLOSING = re.compile(r"(?:FINIT|EXPLICIT) [A-Z ]+\.$")
 GLOSS = re.compile(r"\((?:[¹²³⁴⁵⁶⁷⁸⁹]+|\d{1,2})\)")  # `(1) costui. — (2) sarà.`
 
 
@@ -266,14 +288,16 @@ def read_page(n, errors):
         while lines and re.fullmatch(r"[A-ZÀ-Ý' .,]+", lines[0].strip()) and len(lines[0]) > 4:
             title += " " + lines.pop(0).strip()
     # signature mark: a number alone at the foot, after a blank line
-    if len(lines) > 2 and re.fullmatch(r"\d+", lines[-1].strip()) and not lines[-2].strip():
+    if len(lines) >= 2 and re.fullmatch(r"\d+", lines[-1].strip()) and not lines[-2].strip():
         lines = lines[:-2]
     return number, title, lines
 
 
 def split_verse(n, bs, errors):
-    """The verse at the top of a page: (italian, latin, glosses, rest)."""
-    it, la, gl = [], [], []
+    """The verse at the top of a page: (italian, latin, glosses, closing lines, rest). A
+    closing line is printed under a column at the cantica's end (0868 `FINIT FELICITER
+    PURGATORIUM.`)."""
+    it, la, gl, ends = [], [], [], []
     k = 0
     for part in ("it", "la"):
         if k < len(bs) and NUMBER.match(bs[k][0]):
@@ -284,12 +308,12 @@ def split_verse(n, bs, errors):
             (it if part == "it" else la).extend(b[:e])
             gl.extend(b[e:])
             k += 1
-        while k < len(bs) and GLOSS.match(bs[k][0]):
-            gl.extend(bs[k])
+        while k < len(bs) and (GLOSS.match(bs[k][0]) or len(bs[k]) == 1 and CLOSING.match(bs[k][0])):
+            (gl if GLOSS.match(bs[k][0]) else ends).extend(bs[k])
             k += 1
     if bool(it) != bool(la):
         errors.append(f"{n:04d}: one verse column only")
-    return it, la, gl, bs[k:]
+    return it, la, gl, ends, bs[k:]
 
 
 def tercets(lines, n, where):
@@ -407,12 +431,23 @@ def convert_canto(cantica, c, errors):
     parts = []
     verse = {"it": [], "la": []}  # (page, printed number, lines)
     carry = None  # the commentary paragraph open at the end of the previous page
+    if c == 1 and cantica in HALF_TITLE:
+        n = HALF_TITLE[cantica]
+        number, title, lines = read_page(n, errors)
+        if number is not None or lines:
+            errors.append(f"{n:04d}: not a half-title")
+        parts += [marker(n, False), "# " + title.capitalize()]
     for n in range(first, last + 1):
         text = text_of(n)
         if text.strip() == "[Blank page]":
             continue
         number, title, lines = read_page(n, errors)
         parts.append(marker(n, number is not None))
+        if n == first and title == INCIPIT.get(cantica):
+            parts.append("# " + " ".join(w.capitalize() for w in title.split()))
+            while lines and not lines[0].strip():
+                lines.pop(0)
+            title = lines.pop(0).strip() if lines else None
         if title:
             if n == first:
                 want = f"CAPITULI {GENITIVES[c - 1]} SUMMARIUM"
@@ -434,7 +469,7 @@ def convert_canto(cantica, c, errors):
         if n >= essay:
             add_prose(parts, bs, n)
             continue
-        it, la, gl, rest = split_verse(n, bs, errors)
+        it, la, gl, ends, rest = split_verse(n, bs, errors)
         if it:
             ti, tl = tercets(it, n, "it"), tercets(la, n, "la")
             if [len(t[1]) for t in ti] != [len(t[1]) for t in tl]:
@@ -456,12 +491,18 @@ def convert_canto(cantica, c, errors):
                 for lines_ in (li, ll):
                     parts.append(f"{str(k).translate(TO_SUP)} "
                                  + "\\\n&emsp;".join(sup_marks(esc(l)) for l in lines_))
+            parts += [esc(l) for l in ends]
             if gl:
                 parts.append(sup_marks(esc(join_lines(gl, f"{n:04d}"))))
         body = [l for b in rest for l in b]
         width = column_width(body)
         for bi, b in enumerate(rest):
-            add_paragraphs(parts, paragraphs(b, width), n, carry if bi == 0 else None)
+            if b[0].startswith(COLOPHON.get(n, "\0")):  # verse, kept line by line
+                parts.append("\\\n".join(sup_marks(esc(l)) for l in b))
+            elif GLOSS.match(b[0]) and bi and rest[bi - 1][0].startswith(COLOPHON.get(n, "\0")):
+                parts.append(sup_marks(esc(join_lines(b, f"{n:04d}"))))
+            else:
+                add_paragraphs(parts, paragraphs(b, width), n, carry if bi == 0 else None)
         last_line = body[-1] if body else ""
         carry = len(parts) - 1 if body and re.search(WORD + "-$", last_line) else None
     # tercet numbers: computed by counting, checked against the printed ones

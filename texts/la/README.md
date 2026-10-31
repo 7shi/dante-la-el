@@ -4,7 +4,7 @@
 
 These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/la/) by [`convert_la.py`](../convert_la.py); see [`ocr/la/INDEX.md`](../../ocr/la/INDEX.md) for the volume and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/la/` and run `uv run texts/convert_la.py`.
 
-**Only the Inferno and Purgatorio I–XXXI are converted so far** (scans `0079`–`0846`). Their transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits); the rest of `ocr/la/` is not yet completed, and the front matter, the rest of the Purgatorio, the Paradiso and the appendix will follow.
+**Only the Inferno, the Purgatorio and Paradiso I–VII are converted so far** (scans `0079`–`0960`). Their transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits); the rest of `ocr/la/` is not yet completed, and the front matter, the rest of the Paradiso and the appendix will follow.
 
 ## Reading the files
 
@@ -58,7 +58,7 @@ These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/
 
 ### The Purgatorio
 
-The cantica opens with its half-title and Serravalle's *Preambula* to it, one column of prose (`042`).
+The cantica opens with its half-title and Serravalle's *Preambula* to it, one column of prose (`042`). Its last page (p. 814) has `FINIT FELICITER PURGATORIUM.` under the Italian verse and `EXPLICIT PURGATORIUM DANTIS.` under the Latin, given after the last tercet, and ends with the scribe's verses (`Qui scripsit scribat …`), kept line by line with their gloss line.
 
 | File | Canto | Pages | First line | Essay |
 |---|---|---|---|---|
@@ -94,3 +94,19 @@ The cantica opens with its half-title and Serravalle's *Preambula* to it, one co
 | [071-purgatorio-canto-29.md](071-purgatorio-canto-29.md) | XXIX | [759]–[769] | Cantando come donna innamorata, | *Il carro immaginato dal Poeta in questo canto e la Chiesa* |
 | [072-purgatorio-canto-30.md](072-purgatorio-canto-30.md) | XXX | [771]–[780] | Quando'l septentrion del primo cielo, | *La visione di Beatrice* |
 | [073-purgatorio-canto-31.md](073-purgatorio-canto-31.md) | XXXI | [781]–[791] | O tu, che se' di là dal fiume sacro, | *La confessione* |
+| [074-purgatorio-canto-32.md](074-purgatorio-canto-32.md) | XXXII | [793]–[804] | Tant'eran gl'ochi miei fixi et attenti | *La scienza del bene e del male* |
+| [075-purgatorio-canto-33.md](075-purgatorio-canto-33.md) | XXXIII | [805]–[815] | Deus, venerunt gentes, alternando, | *Il trionfo finale del bene* |
+
+### The Paradiso
+
+The cantica's half-title (p. [817]) opens the file of the first canto, whose first page has the heading *Incipit Paradisus* above the *Summarium*.
+
+| File | Canto | Pages | First line | Essay |
+|---|---|---|---|---|
+| [076-paradiso-canto-01.md](076-paradiso-canto-01.md) | I | [817]–[833] | La gloria di colui, che tutto move, | *Il Paradiso* |
+| [077-paradiso-canto-02.md](077-paradiso-canto-02.md) | II | [835]–848 | O voi che sete in piccoletta barca, | *L'idea divina nell'universo* |
+| [078-paradiso-canto-03.md](078-paradiso-canto-03.md) | III | [849]–[858] | Quel sol, che pria d'amor mi scaldò 'l pecto, | *Il formale del gaudio eterno nella carità* |
+| [079-paradiso-canto-04.md](079-paradiso-canto-04.md) | IV | [859]–[870] | Intra duo cibi, distanti e moventi | *Il dubbio e la certezza* |
+| [080-paradiso-canto-05.md](080-paradiso-canto-05.md) | V | [871]–[880] | S'io ti fiammeggio nel caldo d'amore | *Il voto e la libertà* |
+| [081-paradiso-canto-06.md](081-paradiso-canto-06.md) | VI | [881]–[894] | Poscia che Constantin l'aquila volse | *Giustiniano e le leggi* |
+| [082-paradiso-canto-07.md](082-paradiso-canto-07.md) | VII | [895]–[905] | Osanna, sanctus Deus Sabbaoth, | *La creazione e la redenzione* |
