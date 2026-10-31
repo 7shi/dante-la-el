@@ -4,7 +4,7 @@
 
 These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/la/) by [`convert_la.py`](../convert_la.py); see [`ocr/la/INDEX.md`](../../ocr/la/INDEX.md) for the volume and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/la/` and run `uv run texts/convert_la.py`.
 
-**Only the Inferno, the Purgatorio and Paradiso I–VII are converted so far** (scans `0079`–`0960`). Their transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits); the rest of `ocr/la/` is not yet completed, and the front matter, the rest of the Paradiso and the appendix will follow.
+**Only the Inferno, the Purgatorio and Paradiso I–XVI are converted so far** (scans `0079`–`1072`). Their transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits); the rest of `ocr/la/` is not yet completed, and the front matter, the rest of the Paradiso and the appendix will follow.
 
 ## Reading the files
 
@@ -110,3 +110,12 @@ The cantica's half-title (p. [817]) opens the file of the first canto, whose fir
 | [080-paradiso-canto-05.md](080-paradiso-canto-05.md) | V | [871]–[880] | S'io ti fiammeggio nel caldo d'amore | *Il voto e la libertà* |
 | [081-paradiso-canto-06.md](081-paradiso-canto-06.md) | VI | [881]–[894] | Poscia che Constantin l'aquila volse | *Giustiniano e le leggi* |
 | [082-paradiso-canto-07.md](082-paradiso-canto-07.md) | VII | [895]–[905] | Osanna, sanctus Deus Sabbaoth, | *La creazione e la redenzione* |
+| [083-paradiso-canto-08.md](083-paradiso-canto-08.md) | VIII | [907]–[918] | Solea creder lo mondo in suo periclo, | *La società e gli individui* |
+| [084-paradiso-canto-09.md](084-paradiso-canto-09.md) | IX | [919]–[930] | Da poi che Karlo tuo, bella Clemenza, | *Il pianeta di venere* |
+| [085-paradiso-canto-10.md](085-paradiso-canto-10.md) | X | [931]–[942] | Guardando nel suo Figlo coll'Amore, | *L'unità divina e l'unità della scienza* |
+| [086-paradiso-canto-11.md](086-paradiso-canto-11.md) | XI | [943]–955 | O insensata cura de' mortali, | *San Francesco e San Domenico e le loro instituzioni* |
+| [087-paradiso-canto-12.md](087-paradiso-canto-12.md) | XII | [957]–[969] | Sì tosto come l'ultima parola | *La scienza e i due Ordini di San Domenico e di San Francesco* |
+| [088-paradiso-canto-13.md](088-paradiso-canto-13.md) | XIII | [971]–982 | Imagini, chi ben intender cupe | *La generazione eterna del Verbo e la Teologia* |
+| [089-paradiso-canto-14.md](089-paradiso-canto-14.md) | XIV | [983]–[993] | Dal centro al cerchio, e dal cerchio al centro, | *Se l'uomo avrà accrescimento di gaudio per la riassunzione del proprio corpo nel dì novissimo* |
+| [090-paradiso-canto-15.md](090-paradiso-canto-15.md) | XV | [995]–1006 | Benigna volontà, in che si liqua | *La donna nella società cristiana* |
+| [091-paradiso-canto-16.md](091-paradiso-canto-16.md) | XVI | [1007]–[1018] | O poca nostra nobiltà di sangue, | *Le anime veramente grandi* |

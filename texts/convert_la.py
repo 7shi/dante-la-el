@@ -1,6 +1,6 @@
 """Convert ocr/la/NNNN.txt (Serravalle's translation and commentary, 1891) into texts/la/NNN-title.md.
 
-Only the Inferno, the Purgatorio and Paradiso I–VII (scans 0079–0960) are converted so far: the rest of
+Only the Inferno, the Purgatorio and Paradiso I–XVI (scans 0079–1072) are converted so far: the rest of
 ocr/la is not yet completed (see ocr/la/PLAN.md). See PLAN.md for the layout. Run from the repository root:
 
     uv run texts/convert_la.py
@@ -47,7 +47,10 @@ CANTOS = {"inferno": [(79, 92, 92), (93, 102, 102), (103, 114, 114), (115, 127, 
                          (813, 823, 824), (825, 834, 834), (835, 845, 846), (847, 858, 858),
                          (859, 869, 870)],
           "paradiso": [(873, 887, 888), (889, 901, 902), (903, 912, 912), (913, 924, 924),
-                       (925, 934, 934), (935, 948, 948), (949, 959, 960)]}
+                       (925, 934, 934), (935, 948, 948), (949, 959, 960), (961, 972, 972),
+                       (973, 984, 984), (985, 996, 996), (997, 1008, 1010), (1011, 1023, 1024),
+                       (1025, 1035, 1036), (1037, 1047, 1048), (1049, 1059, 1060),
+                       (1061, 1072, 1072)]}
 # The first file of each cantica's cantos (001–007 are the front matter, not converted yet;
 # 042 is the Purgatorio's preambula).
 FIRST_FILE = {"inferno": 8, "purgatorio": 43, "paradiso": 76}
@@ -171,6 +174,19 @@ ESSAYS = {
     "IL VOTO E LA LIBERTÀ": "Il voto e la libertà",
     "GIUSTINIANO E LE LEGGI": "Giustiniano e le leggi",
     "LA CREAZIONE E LA REDENZIONE": "La creazione e la redenzione",
+    "LA SOCIETÀ E GLI INDIVIDUI": "La società e gli individui",
+    "IL PIANETA DI VENERE": "Il pianeta di venere",
+    "L' UNITÀ DIVINA E L' UNITÀ DELLA SCIENZA": "L'unità divina e l'unità della scienza",
+    "SAN FRANCESCO E SAN DOMENICO E LE LORO INSTITUZIONI":
+        "San Francesco e San Domenico e le loro instituzioni",
+    "LA SCIENZA E I DUE ORDINI DI SAN DOMENICO E DI SAN FRANCESCO":
+        "La scienza e i due Ordini di San Domenico e di San Francesco",
+    "LA GENERAZIONE ETERNA DEL VERBO E LA TEOLOGIA": "La generazione eterna del Verbo e la Teologia",
+    "SE L'UOMO AVRÀ ACCRESCIMENTO DI GAUDIO PER LA RIASSUNZIONE DEL PROPRIO CORPO NEL DÌ NOVISSIMO":
+        "Se l'uomo avrà accrescimento di gaudio per la riassunzione del proprio corpo nel dì"
+        " novissimo",
+    "LA DONNA NELLA SOCIETÀ CRISTIANA": "La donna nella società cristiana",
+    "LE ANIME VERAMENTE GRANDI": "Le anime veramente grandi",
 }
 
 # Tercet numbers misprinted (ocr/la/PLAN.md, Suspected misprints): (scan, column, tercet) -> printed.
