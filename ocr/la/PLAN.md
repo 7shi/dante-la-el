@@ -24,7 +24,7 @@ more errors found in the same lines and by the searches they led to (DONE.md, "C
 
 1. **Verse check**: first the text only (step 0): la-el-agy lists the Latin lines whose
    sense clearly parts from the Italian, and they are decided in the image (Inferno
-   done; Purgatorio and Paradiso next); then, if the user decides it is still needed,
+   and Purgatorio done; Paradiso next); then, if the user decides it is still needed,
    every line read again from the image (steps 1–4), as check 1's batches.
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
@@ -105,8 +105,25 @@ reads it).
      verse errors was listed: they are all spellings and accents (`mihi`, `Insìmul`,
      `emictiunt`, `Capra[ra]`), which leave the sense alone; step 0 finds only
      misreadings that change a word.
-   - **Purgatorio** (043–075) and **Paradiso** (076–108): next, a task each, on the
-     user's signal; the task names the runover words as settled.
+   - **Purgatorio** (043–075, 4,755 lines; done): 226 lines listed, 70 of them only for
+     the editor's brackets (`[quod]`, `relarg[a]vit`). 18 misread: 0492 `Excundo` →
+     `Exeundo`; 0496 `perpende di` → `perpendi de`; 0540 `Fugiendos` → `Fugiendo`;
+     0556 `accol lectiones` → `accollectiones` (verse and lemma); 0568 `deviahat` →
+     `deviabat`; 0569 `voluit` → `volvit`; 0582 `Respondiit` → `Respondit`; 0605 `quifa`
+     → `qui[a]`; 0617 `Tune` → `Tunc` (verse and lemma; the search found 6 more in the
+     commentary: 0217, 0383, 0537, 0719, 0729, 1185); 0624 runover `[nationem],` →
+     `[nationem,`; 0634 `s[c]iugat` → `sciugat` (the lemma prints `[s]ciugat`); 0637
+     `Vidissem` → `Vidisses`; 0639 `reminifcor` → `reminiscor` (verse and lemma); 0640
+     the runover `[delectat` was missing; 0642 runover `[spieit:` → `[spicit:`; 0651
+     `introyu` → `introytu`, `Respondera` → `Respondere`; 0723 `planetas` → `planctas`
+     (`ct` for `t`, as 0582). 2 misprints (Suspected misprints: 0530 `quiu`, 0606 `cum`),
+     206 printed so (`ventrum` for `centro`, `Metellus` for `Marcel`, the Italian words
+     left in the Latin: `balzo`, `soggiorno`, `sprazzo`). Most misreadings this time
+     were letters (`c`/`e`, `h`/`b`, `f`/`s`), which made a non-word; check 1's
+     Purgatorio verse errors were again spellings and accents, but for 0592
+     `procedebat` and 0595 `ride[n]t`, fixed before the pairs were written.
+   - **Paradiso** (076–108): next, on the user's signal; the task names the runover
+     words as settled.
 1. **Script** `ocr/la_versecheck.py FIRST LAST --readings DIR [-o OUT]`: for each page with
    verse, the Latin block of `ocr/la` (as `la_lemmacheck.py` finds it) against the
    reader's `DIR/PAGE.txt`, line by line (aligned, so that a line left out or added shows
@@ -353,6 +370,8 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0227 | 49 | `Surgit in vermen est plantam` | `et` | Latin verse 100 (Italian `et in pianta`). |
 | 0259 | 47 | `prerogatiram` | `prerogativam` | Latin verse 23; an italic `r` for `v`, as 0154 `traraglia`. |
 | 0439 | 39 | `in navi se leravit` | `levavit` | Latin verse 145; an italic `r` for the first `v`. |
+| 0530 | 12 | `Meridianum solis, quiu in ripa` | `quia` | Latin verse 46 (Italian `ch'a la riva`). |
+| 0606 | 19 | `Si bona oratio cum non adiuvat` | `eum` | Latin verse 44 (Italian `lui`); an italic `c` without the eye, as 0085 `co`. |
 
 ## Known limits
 
