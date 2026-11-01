@@ -289,7 +289,7 @@ Hiis dictis, iam auctor dicit de uno alio Karolo de domo Frantia, qui etiam veni
 <!-- p. 657 (0711) -->
 
 25 Senz'arme n'esce, solo e co'la lancia (1)\
-&emsp;Con la qual giostrò Giuda; e quella ponta(2)\
+&emsp;Con la qual giostrò Giuda; e quella ponta (2)\
 &emsp;Sì, ch'a Firenze fa scoppiar la pancia (3).
 
 25 Sine armis inde exit, et solum cum lancea\
@@ -393,8 +393,8 @@ Notandum est hic, quod tempore dicti Bonifacii erat Ordo Templariorum, qui Ordo 
 &emsp;Versus me volvi propter aliquam rem,
 
 34 Tanto è disposto (4) a tucta nostra prece,\
-&emsp;Quant'il dì dura; ma, quando s'annocta(5),\
-&emsp;Contrario suon prendiamo in quella vece(6).
+&emsp;Quant'il dì dura; ma, quando s'annocta (5),\
+&emsp;Contrario suon prendiamo in quella vece (6).
 
 34 Tantum est repositum ad cunctas nostras preces,\
 &emsp;Quantum dies durat; sed, quando noctescit,\
@@ -531,7 +531,7 @@ Nos iam recesseramus. Nui eravam partiti: hec est quarta pars huius capituli, in
 &emsp;Unde intelligi clamor potuit.
 
 47 Noi stavamo immobili e sospesi,\
-&emsp;Com' e' pastori che pria udir quel canto(4),\
+&emsp;Com' e' pastori che pria udir quel canto (4),\
 &emsp;Finchè 'l tremar cessò, et io 'l compresi.
 
 47 Nos stabamus immobiles et suspensi,\

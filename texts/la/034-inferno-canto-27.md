@@ -8,7 +8,7 @@ In isto capitulo vicesimoseptimo, quod incipit: Iam flamma se erexerat, tractat 
 
 # Capitulum Vicesimumseptimum
 
-1 Già era dricta in su la fiamma(1)e queta(2),\
+1 Già era dricta in su la fiamma (1) e queta (2),\
 &emsp;Per non dir più, e già da noi sen gia (3)\
 &emsp;Colla licenza del dolce Poeta (4);
 
@@ -17,7 +17,7 @@ In isto capitulo vicesimoseptimo, quod incipit: Iam flamma se erexerat, tractat 
 &emsp;Cum licentia dulcis Poete;
 
 2 Quand'un'altra, che dietro a lei venia,\
-&emsp;Ne fece(5) volger gl'ochi alla sua cima,\
+&emsp;Ne fece (5) volger gl'ochi alla sua cima,\
 &emsp;Per un confuso suon che fuor n'uscia.
 
 2 Quando una alia, que veniebat retro nos,\
@@ -86,7 +86,7 @@ Ad quod bene describendum, auctor facit unam comparacionem: ad cuius notitiam ha
 
 7 Udimmo dire: O tu, a cu'io dirizzo\
 &emsp;La voce (2), e che parlavi mo lombardo,\
-&emsp;Dicendo(3): Hora ten va', non più t'adizzo(4);
+&emsp;Dicendo (3): Hora ten va', non più t'adizzo (4);
 
 7 Audivimus dici: O tu, cui ego dirigo\
 &emsp;Vocem, et qui loquebaris nunc lombardice,\
@@ -124,14 +124,14 @@ Redeundo ad primum comitem Guidonem antiquum, de quo hic loquitur auctor, dico q
 
 10 Dimmi s'e Romagnoli han pace o guerra;\
 &emsp;Ch'io fui de'monti (3) là entro ad Urbino\
-&emsp;Nel giogo(4) da che 'l Tever(5) si disserra(6).
+&emsp;Nel giogo (4) da che 'l Tever (5) si disserra (6).
 
 10 Dic michi si Romandioli habent pacem vel guerram;\
 &emsp;Quia ego fui de montibus ibi intra Urbinum\
 &emsp;Et iugum a quo Tyber se disserrat.
 
 11 Io (7) era in giuso ancor attento e chino,\
-&emsp;Quando 'l mio duca(8) mi temptò di costa,\
+&emsp;Quando 'l mio duca (8) mi temptò di costa,\
 &emsp;Dicendo: Parla tu (9), questi è latino (10).
 
 11 Ego eram infra adhuc attentus et inclinatus,\
@@ -156,7 +156,7 @@ Redeundo ad primum comitem Guidonem antiquum, de quo hic loquitur auctor, dico q
 
 14 Ravenna sta com'è stat'è molt'anni:\
 &emsp;L'Aquila da Polenta là si cova,\
-&emsp;Sì che Cervia ricuopre co'suo'vanni(14).
+&emsp;Sì che Cervia ricuopre co'suo'vanni (14).
 
 14 Ravenna stat sicut stetit per multos annos:\
 &emsp;Aquila de Polenta eam covat,\
@@ -181,7 +181,7 @@ Primo igitur describit Ravennam, quia antiquitus fuit civitas regalis et nobilis
 <!-- p. 333 (0387) -->
 
 15 La terra (1) che fe' già la lunga prova,\
-&emsp;E de'Franceschi sanguinoso muchio(2),\
+&emsp;E de'Franceschi sanguinoso muchio (2),\
 &emsp;Sotto le branche verdi si ritrova.
 
 15 Terra, que iam fecit longam provam,\
@@ -223,7 +223,7 @@ Iam transfert se ad civitatem Arrimini, ubi tunc dominabantur Maletesta antiquus
 &emsp;Qui mutat partem ab estate ad yemem.
 
 18 E quella (1) a cui Savio (2) bagna 'l fianco,\
-&emsp;Così com'ella s'è(3) tra'l piano e'l monte,\
+&emsp;Così com'ella s'è (3) tra'l piano e'l monte,\
 &emsp;Tra tyranni si vive in stato franco (4).
 
 18 Et illa cui Savius balneat fiancum,\
@@ -231,8 +231,8 @@ Iam transfert se ad civitatem Arrimini, ubi tunc dominabantur Maletesta antiquus
 &emsp;Inter tyrampnidem vivit et statum francum.
 
 19 Hora chi se', ti prego che ne conte:\
-&emsp;Non esser duro(5) più ch'altro(6) sia stato(7),\
-&emsp;Se'l nome tuo nel mondo tegna fronte(8).
+&emsp;Non esser duro (5) più ch'altro (6) sia stato (7),\
+&emsp;Se'l nome tuo nel mondo tegna fronte (8).
 
 19 Nunc quis es, te precor quod nobis narres:\
 &emsp;Non sis durus plusquam alius fuerit,\
@@ -268,7 +268,7 @@ Nota quod iste comes Guido in senectute sua habuit conscientiam; et ductus penit
 
 21 S'io credessi che mia risposta fosse\
 &emsp;A persona che mai tornasse al mondo,\
-&emsp;Questa fiamma staria senza più scosse(1):
+&emsp;Questa fiamma staria senza più scosse (1):
 
 21 Si ego crederem quod meum responsum esset\
 &emsp;Persone que unquam rediret ad mundum,\
@@ -282,7 +282,7 @@ Nota quod iste comes Guido in senectute sua habuit conscientiam; et ductus penit
 &emsp;Rediit aliquis vivus, si audio verum,\
 &emsp;Sine timore infamie tibi respondeo.
 
-23 Io fui huom d'arme, e poi fui Cordelliero(4),\
+23 Io fui huom d'arme, e poi fui Cordelliero (4),\
 &emsp;Credendomi, sì cinto (5), far emenda:\
 &emsp;E certo 'l creder mio venia intero (6),
 
@@ -292,7 +292,7 @@ Nota quod iste comes Guido in senectute sua habuit conscientiam; et ductus penit
 
 24 Se non fosse 'l gran Prete (7), a cui mal prenda.\
 &emsp;Che mi rimise nelle prime colpe;\
-&emsp;E come e quare(8), voglo che m'intenda.
+&emsp;E come e quare (8), voglo che m'intenda.
 
 24 Nisi esset grandis Presbiter, quem mala apprehendant.\
 &emsp;Qui me remisit in primas culpas;\
@@ -359,8 +359,8 @@ Quando me vidi devenisse in illam partem mee etatis, scilicet antique, ubi, ides
 &emsp;Nec mercator in terra Soldani;
 
 31 Nè sommo offitio (8), nè gl'ordini sacri (9),\
-&emsp;Guardò in sè, nè in me quel capestro(10),\
-&emsp;Che solea far e suoi cincti(11) più macri(12).
+&emsp;Guardò in sè, nè in me quel capestro (10),\
+&emsp;Che solea far e suoi cincti (11) più macri (12).
 
 31 Nec summum officium, nec sacros ordines,\
 &emsp;Respexit in se, nec in me illud capistrum,\
@@ -392,7 +392,7 @@ Nota quod in millesimo ducentesimo nonagesimo primo, civitas Acri, que antiquitu
 
 34 E poi mi disse: Tuo cuor non sospecti;\
 &emsp;Fin hor t'absolvo, e tu m'insegna fare\
-&emsp;Sì come Penestrina(6) in terra gecti.
+&emsp;Sì come Penestrina (6) in terra gecti.
 
 34 Et postea dixit michi: Tuum cor non suspicetur;\
 &emsp;Ex nunc te absolvo, et tu me doceas facere\
@@ -400,7 +400,7 @@ Nota quod in millesimo ducentesimo nonagesimo primo, civitas Acri, que antiquitu
 
 35 Lo ciel poss'io serrare e disserrare (7),\
 &emsp;Come tu sai; però son due le chiavi,\
-&emsp;Che 'l mio antecessor(8) non ebbe care(9).
+&emsp;Che 'l mio antecessor (8) non ebbe care (9).
 
 35 Celum ego possum claudere et aperire,\
 &emsp;Sicut tu scis; ideo sunt due claves,\
@@ -422,7 +422,7 @@ Et postea dixit michi: Tuum cor non suspicetur: ex nunc te absolvo; et tu doceas
 
 <!-- p. 338 (0392) -->
 
-36 Allor mi pinser gl'argomenti(1) gravi (2),\
+36 Allor mi pinser gl'argomenti (1) gravi (2),\
 &emsp;Onde 'l tacer (3) mi fu avviso 'l peggio,\
 &emsp;E dissi: Padre, da che tu mi lavi
 
@@ -431,7 +431,7 @@ Et postea dixit michi: Tuum cor non suspicetur: ex nunc te absolvo; et tu doceas
 &emsp;Et dixi: Pater, postquam tu me lavas
 
 37 Di quel peccato, ove mo (4) cader deggio,\
-&emsp;Lunga(5) promessa coll'attender corto(6)\
+&emsp;Lunga (5) promessa coll'attender corto (6)\
 &emsp;Ti farà triumphar nell'alto (7) seggio (8).
 
 37 Ab illo peccato, in quo nunc cadere debeo,\
@@ -446,7 +446,7 @@ Et postea dixit michi: Tuum cor non suspicetur: ex nunc te absolvo; et tu doceas
 &emsp;Pro me; et unus de nigris Cherubim\
 &emsp;Dixit: Non po[r]tes; non facias michi iniuriam:
 
-39 Venir sen de'quaggiù(11) tra'miei meschini(12),\
+39 Venir sen de'quaggiù (11) tra'miei meschini (12),\
 &emsp;Perchè diede (13) 'l consiglo fraudolento,\
 &emsp;Dal qual in qua stato li so'a'crini (14);
 
@@ -470,7 +470,7 @@ Et postea dixit michi: Tuum cor non suspicetur: ex nunc te absolvo; et tu doceas
 &emsp;Quando ipse me cepit, dicendo michi: Forsan\
 &emsp;Tu non cogitabas quod ego loycus essem!
 
-42 A Mynos(16) mi portò; e quelli(17) attorse\
+42 A Mynos (16) mi portò; e quelli (17) attorse\
 &emsp;Octo volte la coda al dosso duro,\
 &emsp;E poi per la gran rabbia la (18) si morse,
 
@@ -480,7 +480,7 @@ Et postea dixit michi: Tuum cor non suspicetur: ex nunc te absolvo; et tu doceas
 
 43 Disse: Quest'è de'rei del fuoco furo;\
 &emsp;Perch'io là dove vedi so'perduto,\
-&emsp;E sì vestito(19) andando mi raccuro(20).
+&emsp;E sì vestito (19) andando mi raccuro (20).
 
 43 Dixit: Iste est de reis ignis furi;\
 &emsp;Ex quo ubi vides sum perditus,\
@@ -511,7 +511,7 @@ Ad Mynoem, scilicet iudicem Inferni, me portavit; et ille attorsit, scilicet cin
 45 Noi passamm'oltre, el duca mio et io,\
 &emsp;Su per lo scoglo infin en su l'altr'arco,\
 &emsp;Che scuopre 'l fosso, in che si paga'l fio\
-&emsp;A quei che scommectendo(1) acquistar'carco.
+&emsp;A quei che scommectendo (1) acquistar'carco.
 
 45 Nos transivimus ultra, ego et dux meus,\
 &emsp;Super scopulum usque ad alium arcum,\

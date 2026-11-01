@@ -10,7 +10,7 @@ In decimonono capitulo, scilicet isto, quod incipit: In hora, qua calor diurnus,
 
 1 Nell'hora che non può 'l calor diurno\
 &emsp;Intepidar più 'l freddo de la luna,\
-&emsp;Vinto da terra, o talhor dall'autumpno(1);
+&emsp;Vinto da terra, o talhor dall'autumpno (1);
 
 1 In hora qua non potest calor diurnus\
 &emsp;Tepefieri plus a frigiditate lune,\
@@ -386,7 +386,7 @@ Intra Siestrum, castrum in riparia Ianue versus occidentem, et Chiavarum, aliud 
 
 35 Un mese o poco più prova' io come\
 &emsp;Pesa 'l gran manto a chi del fango 'l guarda,\
-&emsp;Che piuma(1) sembran tutte l'altre some.
+&emsp;Che piuma (1) sembran tutte l'altre some.
 
 35 Uno mense et paulo plus probavi ego sicut\
 &emsp;Ponderat grandis mantus illi qui de luto eum custodit,\

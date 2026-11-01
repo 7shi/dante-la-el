@@ -223,7 +223,7 @@ Gravis ydropisis, idest que facit stare ydropicum ita gravem, que sic disparific
 <!-- p. 370 (0424) -->
 
 20 O voi, che senza alcuna pena sete\
-&emsp;(E già non so perchè)(1) nel mondo gramo(2),\
+&emsp;(E già non so perchè) (1) nel mondo gramo (2),\
 &emsp;Diss'elli a noi, guardate et attendete (3)
 
 20 O vos, qui sine pena estis aliqua\
@@ -232,7 +232,7 @@ Gravis ydropisis, idest que facit stare ydropicum ita gravem, que sic disparific
 
 21 Alla miseria del maestro (4) Adamo:\
 &emsp;Io ebbi, vivo, assai di quel ch'io volli,\
-&emsp;Et hora, lasso (5)! un gocciol d'acqua bramo(6).
+&emsp;Et hora, lasso (5)! un gocciol d'acqua bramo (6).
 
 21 Ad miseriam magistri Ade:\
 &emsp;Ego habui, vivus, satis de eo quod volui,\

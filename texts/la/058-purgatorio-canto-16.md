@@ -236,7 +236,7 @@ Prius erat simplex, et nunc factum est duplum in sententia tua, que me facit cer
 
 21 Ma prego che mi decti (2) la cagione,\
 &emsp;Sì ch'io la veggia, e ch'io la mostri altrui;\
-&emsp;Che l'un in cielo (3), et (4)un quaggiù, la pone.
+&emsp;Che l'un in cielo (3), et (4) un quaggiù, la pone.
 
 21 Sed precor quod michi dicas causam,\
 &emsp;Ita quod illam videam, et quod illam monstrem aliis;\
@@ -272,7 +272,7 @@ Nota quod aliqua eveniunt in mundo de necessitate, que non possunt, iuxta opinio
 
 24 Se così fosse, in voi fora destructo\
 &emsp;Libero arbitrio, e non fora iustitia,\
-&emsp;Per ben, (1) letitia, e per mal, haver lucto(2).
+&emsp;Per ben, (1) letitia, e per mal, haver lucto (2).
 
 24 Si sic esset, in vobis foret destructum\
 &emsp;Liberum arbitrium, et non esset iustitia,\
@@ -296,7 +296,7 @@ Nota quod aliqua eveniunt in mundo de necessitate, que non possunt, iuxta opinio
 
 27 A maggior forza (5) et a miglior natura (6)\
 &emsp;Liberi subiacete, e quella cria (7)\
-&emsp;La mente (8) in voi, che (9)'l ciel non ha in sua cura.
+&emsp;La mente (8) in voi, che (9) 'l ciel non ha in sua cura.
 
 27 Maiori fortitudini et meliori nature\
 &emsp;Liberi subiacetis, et illa creat\

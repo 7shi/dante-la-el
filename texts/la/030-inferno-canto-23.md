@@ -134,7 +134,7 @@ Iam michi sentiebam omnes arricciare, idest erigi, pilos ex timore, et stabam re
 
 12 Già non compiè di tal consiglo rendere\
 &emsp;Ch'i' li vidi venir coll'hale tese,\
-&emsp;Non molto lungi(1), per volerne prendere.
+&emsp;Non molto lungi (1), per volerne prendere.
 
 12 Iam non complevit ille consilium reddere,\
 &emsp;Quod ego vidi eos venire cum alis tensis,\

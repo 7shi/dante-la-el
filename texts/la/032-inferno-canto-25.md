@@ -60,7 +60,7 @@ Demum notandum est, quod in hoc capitulo fit mentio de quinque malis furibus, si
 &emsp;Repercuciendo se ipsum ita ante,\
 &emsp;Quod non poterat dare cum ipsis unum crullum.
 
-4 Hay, Pistoia (2), Pistoia (3), che non estanzi(4)\
+4 Hay, Pistoia (2), Pistoia (3), che non estanzi (4)\
 &emsp;D'incenerarti (5), sì che più non duri,\
 &emsp;Poi che 'n mal far el seme tuo (6) avanzi?
 
@@ -121,7 +121,7 @@ Mariptima non credo ego quod tot habeat, quot bestias, idest viperas, sive serpe
 &emsp;Et ille suffocat quemcumque cui obviat.
 
 9 Lo mio Maestro disse: Quelli è Chaco,\
-&emsp;Che sotto 'l saxo di monte Adventino(3)\
+&emsp;Che sotto 'l saxo di monte Adventino (3)\
 &emsp;Di sangue fece spesse volte laco.
 
 9 Meus magister dixit: Ille est Caccus,\
@@ -138,7 +138,7 @@ Mariptima non credo ego quod tot habeat, quot bestias, idest viperas, sive serpe
 
 11 Onde cessàr le sue opere (7) biece (8)\
 &emsp;Socto la mazza d'Hercole, che forse\
-&emsp;Ne li diè cento(9), e non ne sentì diece(10).
+&emsp;Ne li diè cento (9), e non ne sentì diece (10).
 
 11 Unde cessaverunt sua opera fallatia\
 &emsp;Sub clava Herculis, qui forsan\

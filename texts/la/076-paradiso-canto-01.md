@@ -284,7 +284,7 @@ Et statim fuit visum diem diei esse additum, sicut si ille qui potest, celum uno
 
 23 Nel suo (10) aspecto tal dentro mi fei (11),\
 &emsp;Qual si fe'Glauco (12) nel gustar (13) dell'herba,\
-&emsp;Che (14)'l fe'consorte (15) in mar (16) degl'altri Dei (17).
+&emsp;Che (14) 'l fe'consorte (15) in mar (16) degl'altri Dei (17).
 
 23 In suo aspectu talis intus factus fui,\
 &emsp;Qualem se fecit Glaucus in gustatione herbe,\
@@ -359,7 +359,7 @@ Quando rota, scilicet celum, quam tu sempiternas, desiderosum ad se me fecit act
 &emsp;Id quod videres, si illam haberes excussam.
 
 31 Tu (37) non se'in terra (38), sì come tu credi (39);\
-&emsp;Mai fulgure (40), fuggendo (41)'l primo sito (42),\
+&emsp;Mai fulgure (40), fuggendo (41) 'l primo sito (42),\
 &emsp;Non corre (43) come tu ch'adesso (44) riedi (45).
 
 31 Tu non es in terra, sicut tu credis,\

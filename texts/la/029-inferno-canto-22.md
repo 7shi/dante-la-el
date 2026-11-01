@@ -120,7 +120,7 @@ Proponit unam comparationem de ranis, sic dicens: Et sicut ad ripam aque unius f
 
 <!-- p. 276 (0330) -->
 
-11 Io vidi, et anco el cuor me n'(1) acapriccia,\
+11 Io vidi, et anco el cuor me n' (1) acapriccia,\
 &emsp;Uno aspectar così, com'egli incontra\
 &emsp;Ch'una rana rimane, et altra spiccia (2).
 
@@ -356,7 +356,7 @@ Heu michi. O me, vedete: hec est quarta pars huius capituli, in qua Ciampolus de
 &emsp;Incepit pavefactus prope,\
 &emsp;Tuscos et Lombardos, ego faciam venire.
 
-34 Ma stien le male branche un poco in cesso(4),\
+34 Ma stien le male branche un poco in cesso (4),\
 &emsp;Sì ch'io non tema de le lor vendette;\
 &emsp;Et io, sedendo in questo luogo stesso,
 
@@ -419,7 +419,7 @@ Alichinus non tenuit se, idest non plus expectavit, et ante alios dixit ad eum: 
 <!-- p. 280 (0334) -->
 
 40 O tu, che leggi, udirai nuovo ludo.\
-&emsp;Ciascuno dell'(1)altra costa gl'ochi volse;\
+&emsp;Ciascuno dell' (1) altra costa gl'ochi volse;\
 &emsp;Quel primo, ch'a ciò far era più crudo.
 
 40 O tu, qui legis, audies novum ludum.\

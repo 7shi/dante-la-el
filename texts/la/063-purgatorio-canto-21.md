@@ -126,7 +126,7 @@ Et doctor, supple ait: Si tu respicis signa que iste portat, idest peccata que d
 
 11 Ond'io fui tracto fuor dell'ampia gola\
 &emsp;D'Inferno, per mostrarli, e mostrerolli,\
-&emsp;Oltra, quanto'l potrà menar(2) mia scola.
+&emsp;Oltra, quanto'l potrà menar (2) mia scola.
 
 11 Unde ego fui tractus extra amplam gulam\
 &emsp;Inferni, ut sibi monstrem, et monstrabo,\
@@ -424,7 +424,7 @@ Statius cepit aliquam suspitionem de risu Dantis; ideo coniurat Dantem ipsum dic
 
 <!-- p. 673 (0727) -->
 
-39 Hor son io(1) d'una parte(2) e d'altra(3) preso;\
+39 Hor son io (1) d'una parte (2) e d'altra (3) preso;\
 &emsp;L'una (4) mi fa tacer, l'altra (5) scongiura\
 &emsp;Ch'io dica: ond'io sospiro, e sono inteso
 
@@ -474,7 +474,7 @@ Statius cepit aliquam suspitionem de risu Dantis; ideo coniurat Dantem ipsum dic
 
 45 Et ei surgendo: Or puo' (14) la quantitate\
 &emsp;Comprender dell'amor ch'a te mi scalda,\
-&emsp;Quando dismento(15) nostra vanitate (16),\
+&emsp;Quando dismento (15) nostra vanitate (16),\
 &emsp;Tractando l'ombre come cosa salda (17).
 
 45 Et ipse surgendo: Nunc potes quantitatem\

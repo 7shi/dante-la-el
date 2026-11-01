@@ -116,14 +116,14 @@ Aliqui dicunt, quod, licet omnes anime humane sint eiusdem speciei et nature, ta
 
 8 Perchè non corra, che virtù nol guidi;\
 &emsp;Sì che se stella buona, o miglior cosa,\
-&emsp;M'ha dato'l ben, ch'i'(1)stesso non l'invidi.
+&emsp;M'ha dato'l ben, ch'i' (1) stesso non l'invidi.
 
 8 Ut non currat, nisi virtus ipsum ducat;\
 &emsp;Ita quod si stella bona, vel melior res,\
 &emsp;Michi dedit bonum, quod ego michi ipse de illo non invideam.
 
 9 Come 'l villan, ch'al poggio si riposa,\
-&emsp;Nel tempo che colui(2)che'l mondo schiara,\
+&emsp;Nel tempo che colui (2) che'l mondo schiara,\
 &emsp;La faccia sua a noi tien men ascosa (3),
 
 9 Quantas rusticus, qui in podio quiescit,\
@@ -211,8 +211,8 @@ Ego stabam supra pontem: ista est secunda pars huius capituli, in qua fit mentio
 <!-- p. 322 (0376) -->
 
 16 E 'l duca, che mi vide tanto atteso,\
-&emsp;Disse: Dentro dal fuoco(1) stan li spirti:\
-&emsp;Ciascun si fascia di quel(2) ch'è inceso.
+&emsp;Disse: Dentro dal fuoco (1) stan li spirti:\
+&emsp;Ciascun si fascia di quel (2) ch'è inceso.
 
 16 Et dux meus, qui me vidit attentum,\
 &emsp;Dixit: Infra ignes sunt spiritus:\
@@ -271,14 +271,14 @@ Modo tangit auctor aliqua mala, que isti fecerunt, propter astutiam Ulixis, dice
 &emsp;Et Palladio ibi pena portatur.
 
 22 Se posson dentro da quelle faville\
-&emsp;Parlar, diss'io(1), maestro, assai ten priego,\
+&emsp;Parlar, diss'io (1), maestro, assai ten priego,\
 &emsp;E riprego che 'l prego vagla mille,
 
 22 Si possunt intra illas favillas\
 &emsp;Loqui, dixi ego, magister, satis te precor,\
 &emsp;Et i terum rogo quod unum rogamen valeat mille,
 
-23 Che non mi faci dell'attender(2) niego (3),\
+23 Che non mi faci dell'attender (2) niego (3),\
 &emsp;Finchè la fiamma cornuta qua vegna:\
 &emsp;Vedi che per desio ver lei mi piego.
 
@@ -295,7 +295,7 @@ Modo tangit auctor aliqua mala, que isti fecerunt, propter astutiam Ulixis, dice
 &emsp;Sed fac quod tua lingua se abstineat.
 
 25 Lascia pur dir a me, ch'i'ho concepto\
-&emsp;Ciò che tu vuoi: ch'e sarebbeno schivi(5),\
+&emsp;Ciò che tu vuoi: ch'e sarebbeno schivi (5),\
 &emsp;Perch'e' fur Greci, forse del tuo decto.
 
 25 Permictas me loqui, quia ego concepi\
@@ -363,7 +363,7 @@ Et ipse ad me: Tue preces sunt digne multa laude, et ego ideo illas accepto. Sed
 &emsp;Prius quam Eneas eam sic nominaret;
 
 32 Nè dolcezza di figlio (7), nè la pieta\
-&emsp;Del vecchio padre(8), nè 'l debito amore(9),\
+&emsp;Del vecchio padre (8), nè 'l debito amore (9),\
 &emsp;El qual dovea Penelope (10) far lieta,
 
 32 Nec dulcedo filiorum, nec pietas\
@@ -371,7 +371,7 @@ Et ipse ad me: Tue preces sunt digne multa laude, et ego ideo illas accepto. Sed
 &emsp;Qui debebat Penelopem facere letam,
 
 33 Vincer poterono dentr'a me l'ardore\
-&emsp;Ch'io ebbi a divenir(11) del mondo experto,\
+&emsp;Ch'io ebbi a divenir (11) del mondo experto,\
 &emsp;E delli sensi humani (12) e del valore:
 
 33 Vincere potuerunt intra me ardorem\
@@ -393,7 +393,7 @@ Notandum, quod post excidium Troye, Ulixes, cupiens experiri omnia, et totum mun
 <!-- p. 325 (0379) -->
 
 34 Ma messi me per l'alto mare (1) aperto\
-&emsp;Sol con un legno (2) e con quella compagna(3)\
+&emsp;Sol con un legno (2) e con quella compagna (3)\
 &emsp;Picciola, co'la qual poi fui diserto (4).
 
 34 Sed misi me per altum mare et apertum\
@@ -418,7 +418,7 @@ Notandum, quod post excidium Troye, Ulixes, cupiens experiri omnia, et totum mun
 
 37 Acciò che l'huom più oltre non si mecta (9):\
 &emsp;Da la man dextra mi lassai Sibilia (10),\
-&emsp;Dall'altra (11) già m'havea lassato Secta(12).
+&emsp;Dall'altra (11) già m'havea lassato Secta (12).
 
 37 Ut homo ulterius se non ponat:\
 &emsp;Ad manum dexteram ibi dimisi Sibiliam,\
@@ -477,7 +477,7 @@ Marochium est regio in Hyspania, et est regum Saracenorum. Sardinia est in mari 
 &emsp;Semper acquirendo ad latus sinistrum.
 
 43 Tucte le stelle già dell'altro polo (4)\
-&emsp;Vedeàm la nocte, e 'l nostro(5) tanto basso,\
+&emsp;Vedeàm la nocte, e 'l nostro (5) tanto basso,\
 &emsp;Che non sorgea fuor del marin suolo.
 
 43 Omnes stellas iam alterius poli\
@@ -506,7 +506,7 @@ Quinquies reaccensum et totidem extinctum lumen erat inferius, idest in illo alt
 
 <!-- p. 327 (0381) -->
 
-45 Quando n'apparve una montagna(1) bruna\
+45 Quando n'apparve una montagna (1) bruna\
 &emsp;Per la distanza, e parvemi alta tanto,\
 &emsp;Quanto veduta mai n'havessi alcuna.
 
@@ -516,15 +516,15 @@ Quinquies reaccensum et totidem extinctum lumen erat inferius, idest in illo alt
 
 46 Noi ci allegrammo, e tosto tornò in pianto;\
 &emsp;Chè de la nuova terra un turbo nacque,\
-&emsp;E percosse del legno(2) el primo canto(3):
+&emsp;E percosse del legno (2) el primo canto (3):
 
 46 Nos tunc letati fuimus, sed cito conversum est in planctum;\
 &emsp;Quia de nova terra unus turbo natus est,\
 &emsp;Et percussit ligni primum angulum:
 
 47 Tre volte 'l fe'girar (4) con tucte l'acque,\
-&emsp;A la quarta(5) levar(6) la prora (7) in suso (8),\
-&emsp;E la poppa(9) andar (10) giù, com'altrui (11) piacque,\
+&emsp;A la quarta (5) levar (6) la prora (7) in suso (8),\
+&emsp;E la poppa (9) andar (10) giù, com'altrui (11) piacque,\
 &emsp;Tanto che 'l mar (12) fu sovra noi richiuso.
 
 47 Ter fecit ipsum circumduci cum totis aquis,\

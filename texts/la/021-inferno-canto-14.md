@@ -384,7 +384,7 @@ Ad intelligentiam narrationis sequentis, oportet scire quod in Arcipelago est un
 
 <!-- p. 187 (0241) -->
 
-35 Dentro dal monte sta dritt' un gran veglo(1),\
+35 Dentro dal monte sta dritt' un gran veglo (1),\
 &emsp;Che tien volte le spalle inver Dammiata,\
 &emsp;E Roma guarda come che suo speglo (2).
 

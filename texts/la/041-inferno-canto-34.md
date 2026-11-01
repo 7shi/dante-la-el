@@ -132,8 +132,8 @@ Imperator dolorosi regni (quia Infernus est regnum omnis doloris, ubi Lucifer es
 
 <!-- p. 414 (0468) -->
 
-11 Ch'e giganti(1) non fan colle sue braccia (2):\
-&emsp;Vedi oggimai quant'esser de'(3) quel tucto\
+11 Ch'e giganti (1) non fan colle sue braccia (2):\
+&emsp;Vedi oggimai quant'esser de' (3) quel tucto\
 &emsp;Ch'a così facta parte (4) si confaccia (5).
 
 11 Quam gigantes non faciunt cum suis brachiis:\
@@ -158,7 +158,7 @@ Imperator dolorosi regni (quia Infernus est regnum omnis doloris, ubi Lucifer es
 
 14 Dell'altre due, che s'aggiugneano a questa\
 &emsp;Sovr'esso 'l mezzo di ciascuna spalla,\
-&emsp;E(12) s'aggiugneano al sommo della cresta(13);
+&emsp;E (12) s'aggiugneano al sommo della cresta (13);
 
 14 Alie due, que iungebantur isti\
 &emsp;Supra medium cuiuslibet spatule,\

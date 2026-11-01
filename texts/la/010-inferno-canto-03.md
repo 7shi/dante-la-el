@@ -78,7 +78,7 @@ declarat quedam dubia. Pro intelligentia prime partis notandum
 
 4 Queste parole di colore scuro\
 &emsp;Vid'io scripte al sommo d'una porta;\
-&emsp;Perch'io: Maestro,(1) el senso lor m'he duro.
+&emsp;Perch'io: Maestro, (1) el senso lor m'he duro.
 
 4 Ista verba coloris obscuri\
 &emsp;Vidi ego scripta in summo unius porte;\

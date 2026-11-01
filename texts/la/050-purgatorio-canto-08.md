@@ -26,7 +26,7 @@ In isto octavo capitulo, quod incipit: Iam erat hora, auctor prosequitur predict
 
 3 Quand'io incominciai a render vano\
 &emsp;L'udire, et ammirar una dell'alme\
-&emsp;Surta, che (1)l'ascoltar chiedea con mano.
+&emsp;Surta, che (1) l'ascoltar chiedea con mano.
 
 3 Quando ego incepi reddere vanum\
 &emsp;Auditum, et admirari unam de animabus\

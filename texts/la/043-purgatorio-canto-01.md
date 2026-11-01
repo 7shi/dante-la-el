@@ -460,7 +460,7 @@ Alba, idest adventus diei, vincebat horam matutinam, que fugiebat ante, ita quod
 &emsp;Sicut homo qui redit ad perditam stratam,\
 &emsp;Cui usque ad ipsam apparet ire in vanum.
 
-41 Quando noi fummo la du'(1) la rogiada\
+41 Quando noi fummo la du' (1) la rogiada\
 &emsp;Pugna col sole, per essere in parte\
 &emsp;Dove adorezza, poco si dirada;
 

@@ -136,7 +136,7 @@ Iam per comparationem quamdam auctor ostendit, sive declarat, illum splendorem s
 
 12 Poi (2) giunti fummo all'angel benedecto,\
 &emsp;Con lieta voce disse: Entrate quinci\
-&emsp;Ad un scaleo vie men(3) che gl'altri erecto.
+&emsp;Ad un scaleo vie men (3) che gl'altri erecto.
 
 12 Postquam pervenimus ad angelum benedictum,\
 &emsp;Cum leta voce dixit: Intrate hac\

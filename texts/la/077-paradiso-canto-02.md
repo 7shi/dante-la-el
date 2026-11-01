@@ -32,7 +32,7 @@ In isto secundo capitulo, quod incipit: O vos qui estis in parvula barcha, aucto
 &emsp;Minerva spirat, et Apollo me conducit,\
 &emsp;Et nove Muse michi demonstrant Ursas.
 
-4 Voi altri (20) pochi (21), che drizzaste (22)'l collo (23)\
+4 Voi altri (20) pochi (21), che drizzaste (22) 'l collo (23)\
 &emsp;Per tempo (24) al pan degl'angeli (25), del quale (26)\
 &emsp;Vivesi qui (27), ma non sen vien satollo (28),
 
@@ -107,7 +107,7 @@ Gloriosi, qui sequuti fuerunt Iasonem, fuerunt Hercules, Protheus, et alii. Iaso
 &emsp;Et volat, et a nuce dissolvatur,
 
 9 Gïunto (18) mi vidi ove (19) mirabil cosa (20)\
-&emsp;Mi torse (21)'l viso a sè; e però quella (22),\
+&emsp;Mi torse (21) 'l viso a sè; e però quella (22),\
 &emsp;Cui (23) non potea mia opra (24) esser ascosa (25),
 
 9 Appulisse me vidi ubi mirabilis res\

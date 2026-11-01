@@ -54,7 +54,7 @@ Continuando igitur dicta dicendis, auctor, ut patebit infra, ponit orationem, pr
 
 3 Vegna ver noi la pace del tuo regno,\
 &emsp;Chè noi, ad essa (1) non potiàn (2) da noi,\
-&emsp;S'ella non vien, con tutto nostro ingegno(3).
+&emsp;S'ella non vien, con tutto nostro ingegno (3).
 
 3 Veniat versus nos pax tui regni,\
 &emsp;Quia nos ad ipsam non possumus a nobis,\

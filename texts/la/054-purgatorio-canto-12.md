@@ -25,7 +25,7 @@ In isto duodecimo capitulo, quod incipit: De pari, sice pariter, sicut boves, au
 &emsp;Quantumcumque potest, quilibet impellat suum barcham;
 
 3 Dritto, sì come andar vuolsi, rifemi\
-&emsp;Co' la persona(2),avvegna ch'e pensieri(3)\
+&emsp;Co' la persona (2),avvegna ch'e pensieri (3)\
 &emsp;Mi rimanesseno inchinati e scemi.
 
 3 Rectum, sicut iri vult, refeci me\
@@ -219,7 +219,7 @@ Nota quod Amphyrao fuit nobilis augur, et potens, et strenuus in armis; et ipse 
 &emsp;Et sicut mortuum ipsum ibi dimiserunt.
 
 19 Mostrava la ruina e 'l crudo scempio\
-&emsp;Che fe'Thamyri(5), quando disse a Cyro(6):\
+&emsp;Che fe'Thamyri (5), quando disse a Cyro (6):\
 &emsp;Sangue sitisti, et io di sangue t'empio (7).
 
 19 Monstrabat ruinam et grandem scempionem\
@@ -227,7 +227,7 @@ Nota quod Amphyrao fuit nobilis augur, et potens, et strenuus in armis; et ipse 
 &emsp;Sanguinem sitisti, et ego sanguine te impleo (3).
 
 20 Mostrava come in rocta si fuggiro\
-&emsp;Gl'Assyri(8), poi che fu morto(9)Olopherne,\
+&emsp;Gl'Assyri (8), poi che fu morto (9) Olopherne,\
 &emsp;Et anco (10) le reliquie (11) del martiro.
 
 20 Monstrabat sicut in ruptam aufugerunt\

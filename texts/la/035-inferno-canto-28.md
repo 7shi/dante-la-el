@@ -52,7 +52,7 @@ Iste dyabolus qui scindit, est instigatio dyaboli, qui agitat ensem, idest lingu
 
 3 Se s'adunasse ancor tutta la gente (1),\
 &emsp;Che giace in su la (2) fortunata terra (3)\
-&emsp;Di(4) Pugla [e] fu del suo sangue dolente
+&emsp;Di (4) Pugla [e] fu del suo sangue dolente
 
 3 Si adunaretur adhuc tota gens,\
 &emsp;Que iam super fortunata terra\
@@ -67,8 +67,8 @@ Iste dyabolus qui scindit, est instigatio dyaboli, qui agitat ensem, idest lingu
 &emsp;Sicut Livius scribit, qui non errat;
 
 5 Con quella (7) che sentì (8) di colpi dogle,\
-&emsp;Per contrastare a Ruberto Guiscardo(9);\
-&emsp;E l'altra(10), el cui ossame ancor s'accogle
+&emsp;Per contrastare a Ruberto Guiscardo (9);\
+&emsp;E l'altra (10), el cui ossame ancor s'accogle
 
 5 Cum illa que sensit culpe dolorem,\
 &emsp;Ut contrastaret Ruberto Guiscardo;\
@@ -132,7 +132,7 @@ Iam dolium propter mezulium perdere vel lullam (mezulium est una pars in medio f
 
 9 Tra le gambe pendevan le minugia (1);\
 &emsp;La corata apparea (2), e'l triste sacco (3)\
-&emsp;Che sterco(4) fa di quel che si tranghugia (5).
+&emsp;Che sterco (4) fa di quel che si tranghugia (5).
 
 9 Inter crura pendebant minugia;\
 &emsp;Corata apparebat, et tristis saccus\
@@ -218,7 +218,7 @@ Unus dyabolus est hic retro, qui nos dividit, vel nos moratur, ita crudeliter cu
 
 18 Più fur di cento che, quando l'udiro,\
 &emsp;S'arrestaron nel fosso a riguardarmi,\
-&emsp;Per maraviglia obliando(4) 'l lor martiro(5).
+&emsp;Per maraviglia obliando (4) 'l lor martiro (5).
 
 18 Plures fuerunt quam centum, qui, quando eum audierunt,\
 &emsp;Se firmaverunt in fossato ad respiciendum me,\
@@ -503,7 +503,7 @@ Quando recte ad pedes pontis fuit, idest prope pontem, levavit brachium alte cum
 <!-- p. 352 (0406) -->
 
 45 E perchè tu di me novelle porti,\
-&emsp;Sappia ch'io son Beltram del Bornio, quelli(1)\
+&emsp;Sappia ch'io son Beltram del Bornio, quelli (1)\
 &emsp;Che diedi al re Giovanni e mai conforti.
 
 45 Et ad hoc ut tu bene nova de me portes,\

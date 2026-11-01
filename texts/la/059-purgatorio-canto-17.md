@@ -462,7 +462,7 @@ Modo dicit auctor quod amor naturalis nunquam fallit: sed quia nunquam potest a 
 
 43 Ciascun confusamente un ben apprende,\
 &emsp;Nel qual si cheti (12) l'anima, e desira (13):\
-&emsp;Perchè di giugner lui ciascum contende(14).
+&emsp;Perchè di giugner lui ciascum contende (14).
 
 43 Quilibet confuse unum bonum apprehendit,\
 &emsp;In quo quiescat animus, et desiderat:\
