@@ -26,7 +26,7 @@ In isto vicesimosecundo capitulo, quod incipit: Iam erat angelus, auctor prosequ
 
 (1) dico — (2) una ferita di P.
 
-Iam angelus retro nos remanserat. Già era l'angelo di retro a noi rimaso: istud est vicesimumsecundum capitulum Purgatorii, in quo auctor tractat de materia prodigalitatis, et tendit versus materiam gule: quod dividitur in quatuor partes. In quarum prima Virgilius petit a Statio formam sue purgationis.
+Iam angelus retro nos remanserat. Già era l'angelo di retro a noi remaso: istud est vicesimumsecundum capitulum Purgatorii, in quo auctor tractat de materia prodigalitatis, et tendit versus materiam gule: quod dividitur in quatuor partes. In quarum prima Virgilius petit a Statio formam sue purgationis.
 
 In secunda, que incipit ibi:
 
@@ -330,7 +330,7 @@ Per te poeta fui, per [te] christianus: sed ad hoc ut melius videas id quod ego 
 
 Sancto Paulo apostolo, ut patet per Epistolas suas. Vult dicere quod, audita fama Apostolorum predicantium Christum, ipsi placuerunt ei et sic omnes christiani; et dum Domitianus faceret dire persequi christianos, ipse de suis facultatibus subveniebat christianis absconsis. Fecit se baptizare et factus fuit christianus, licet diu celaverit; unde fuit punitus in circulo accidie multis annis.
 
-Iam erat mundus totus pregnans, idest plenus et repletus, de vera credentia, scilicet fide, seminata per nuncios eterni regni, idest per Apostolos Christi; et verbum tuum, supra tactum, scilicet de nova progenie, consonabat novis predicantibus, idest concordabat cum dictis novorum predicantium: ex quo, idest ex hoc, ego ad visitandum eos cepi consuetudinem.
+Iam erat mundus totus pregnans, idest plenus et repletus, de vera credentia, scilicet fide, seminata per nuncios eterni regni, idest per Apostolos Christi; et verbum tuum, supra tactum, scilicet de nova progenie, consonabat novis predicantibus, idest concorda[ba]t cum dictis novorum predicantium: ex quo, idest ex hoc, ego ad visitandum eos cepi consuetudinem.
 
 Apparuerunt michi postmodum tantum sancti, quod quando Domitianus, scilicet Imperator, eos persecutus est, sine meis lacrymis non fuerunt eorum planctus, idest ego plangebam cum ipsis.
 

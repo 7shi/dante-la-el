@@ -227,7 +227,7 @@ Meus magister. Lo mio maiestro: hec est secunda pars huius capituli, in qua solv
 &emsp;Diss'io, che se da pochi è ritenuto?
 
 21 Quomodo esse potest quod unum bonum distributum\
-&emsp;In plures possessiones faciat illos ditiores,\
+&emsp;In plures possessiones faciat illos dictiores,\
 &emsp;Quam si a paucis esset possessum?
 
 (1) mia. — (2) accresco.
@@ -433,7 +433,7 @@ Postea vidi gentes accensas in igne ire, cum lapidibus unum iuvenculum occidere 
 &emsp;Disse: Che hai, che non ti puoi tenere;
 
 40 Dux meus, qui me poterat videre\
-&emsp;Fieri sicut homo qui a somno dissolvitur,\
+&emsp;Fieri sicut homo qui a sompno dissolvitur,\
 &emsp;Dixit: Quid habes, quod non potes te sustinere;
 
 41 Ma se'venuto più di mezza legha,\
@@ -488,7 +488,7 @@ Postea vidi gentes accensas in igne ire, cum lapidibus unum iuvenculum occidere 
 
 Quando anima mea. Quando l'anima mia: hec est quarta pars huius capituli, in qua ponitur interpretatio et causa visionis huius predicte, et ostenditur quomodo auctor rediit ad se, dimictendo extasim. Quando anima mea redivit extra (quia prius erat intus abstracta; illa, que videbat intus, era[n]t ymmaginaria) ad res veras que sunt extra ipsam vere, ego recognovi vero[s] non falsos errores. Dicit errores; sed dicit illos non esse falsos errores, quia verum erat quod ita fuerat in facto, sicut sibi videbatur videre in sompno. Et vult dicere, in summa: Quando excitatus sum sic, vidi, etc., etc.
 
-Dux meus, qui me poterat videre fieri sicut homo qui a sompno dissolvitur, dixit: Quid habes, quod non potes te sustinere; sed venisti plus quam medium leucam, sive ligam, velando oculos, idest oculis clausis, et cum cruribus involutis, idest implicatis, ad similitudinem illius quem vinum vel sompnus plicat? Media leuca est unum milliare cum dimidio, secundum communem consuetudinem Frantie.
+Dux meus, qui me poterat videre fieri sicut homo qui a sompno dissolvitur, dixit: Quid habes, quod non potes te sustinere; sed venisti plus quam mediam leucam, sive ligam, velando oculos, idest oculis clausis, et cum cruribus involutis, idest implicatis, ad similitudinem illius quem vinum vel sompnus plicat? Media leuca est unum milliare cum dimidio, secundum communem consuetudinem Frantie.
 
 O dulcis pater mi, si tu me auscultas, ego dicam tibi, dixi ego, id quod michi apparuit, quando crura fuerunt michi ita sublata, idest quando dormivi. Et volebat auctor indicare visionem suam Virgilio, de qua debebat capere vigorem, et volebat dicere, quomodo erat totus confractus. Unde notandum est hic, quod hec subtilis fictio: quia vult auctor, quod durissimum est parcere a veris suis offendentibus, quia nimis naturalis est vindicta, et quod quasi nullum exemplum est sufficiens inducere homines ad parcendum. Quasi dicat auctor: Valde erit michi difficile parcere offendentibus me.
 

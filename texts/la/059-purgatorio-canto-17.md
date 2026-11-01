@@ -34,7 +34,7 @@ In isto decimoseptimo capitulo, quod incipit: Recorderis, lector, auctor ponit a
 
 (1) o.
 
-Recordcris, lector, si unquam in alpibus. Recordati, lectore, si mai nell'alpe: istud est decimumseptimum capitulum huius Purgatorii, in quo auctor tractat de remedio, quod potest adhiberi ad refrenandum iram et impetum iracundie, et transit etiam ad quartum circulum, in quo tractabitur de vitio accidie, quarto scilicet vitio capitali. Et istud capitulum dividitur in quatuor partes. In quarum prima auctor describit unam suam visionem, per quam dat doctrinam ad refrenandum vitium ire.
+Recorderis, lector, si unquam in alpibus. Recordati, lectore, si mai nell'alpe: istud est decimumseptimum capitulum huius Purgatorii, in quo auctor tractat de remedio, quod potest adhiberi ad refrenandum iram et impetum iracundie, et transit etiam ad quartum circulum, in quo tractabitur de vitio accidie, quarto scilicet vitio capitali. Et istud capitulum dividitur in quatuor partes. In quarum prima auctor describit unam suam visionem, per quam dat doctrinam ad refrenandum vitium ire.
 
 In secunda parte, que incipit ibi:
 

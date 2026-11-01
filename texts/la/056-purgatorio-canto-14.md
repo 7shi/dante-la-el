@@ -390,7 +390,7 @@ Et primo nominat Litium. Hic Litius fuit nobilis miles de Valle Bona, supra Forl
 &emsp;[L]a casa Traversara, e gl'Anastagi;\
 &emsp;E l'una gente e l'altra è dirietata (2);
 
-36 Federici Tignosi et sue societatis;\
+36 Federici Tignosi et sue sotietatis;\
 &emsp;Domus Traversarie, et Anastasiorum;\
 &emsp;Et utraque gens exheredata;
 

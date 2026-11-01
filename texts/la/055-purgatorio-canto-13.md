@@ -438,7 +438,7 @@ Sapiens non fui, quamquam Sapia essem vocata, et fui de alienis dampnis letior p
 
 41 Tantum quod ego levavi sursum audacem faciem,\
 &emsp;Clamando ad Deum: Ammodo te plus non timeo;\
-&emsp;Sicut facit merulus propter paucum bonatiam.
+&emsp;Sicut facit merulus propter paucam bonatiam.
 
 42 Pace volli con Dio in su l'extremo (5)\
 &emsp;Della mia vita; et ancor non sarebbe\

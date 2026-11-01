@@ -582,7 +582,7 @@ Postea resumpsimus iter nostrum sanctum, respiciendo umbras, que iacebant per te
 
 (1) ardito.
 
-ante. Terremotus ille et cantus ille fuerunt causa quod auctor habebat maximum desiderium sciendi quid hoc significaret. Nunquam ignoravit aliquid, quod ignorare tantum displiceret auctori, sicut hoc; et propter festinantiam auctor non erat ausus interrogare ducem suum, nec auctor sufficiebat sibi ipsi hoc cognoscere; et ideo ibat timidus et multum cogitans. Nulla ignorantia unquam cum tanta guerra me fecit avidum sciendi, si memoria mea in hoc non errat, quantum apparebat michi tunc cogitando habere; nec propter festinantiam petere eram ausus; nec per me ibi poterat res, scilicet aliqua, videri: sic ibam timidus et cogitabundus. Littera plana est, etc.
+ante. Terremotus ille et cantus ille fuerunt causa quod auctor habebat maximum desiderium sciendi quid hoc significaret. Nunquam ignoravit aliquid, quod ignorare tantum displiceret auctori, sicut hoc; et propter festinantiam auctor non erat ausus interrogare ducem suum, nec auctor sufficiebat sibi ipsi hoc cognoscere; et ideo ibat timidus et multum cogitans. Nulla ignorantia unquam cum tanta guerra me fecit avidum sciendi, si memoria mea in hoc non errat, quantum apparebat michi tuuc cogitando habere; nec propter festinantiam petere eram ausus; nec per me ibi poterat res, scilicet aliqua, videri: sic ibam timidus et cogitabundus. Littera plana est, etc.
 
 <!-- p. [663] (0717) -->
 
