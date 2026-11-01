@@ -315,3 +315,170 @@ page	line	form	decision	note
 0866	44	Supra supra	printed	word duplication / typo: Supra supra
 0866	52	Quod hic	printed	garbled connector: Quod hic for E qui
 0866	55	Acta	printed	wrong word: Acta (done) for Decte (said/told)
+0876	24	suo	printed	suo: Italian sancto, expect sancto
+0879	27	circulis	printed	circulis: Italian croci, expect crucibus
+0879	29	terre	printed	terre: Italian cera, expect cere
+0880	43	celo	printed	celo: Italian sol, expect sole
+0882	38	censeram	printed	censeram: Italian sentito, expect senseram
+0884	48	adymat	printed	adymat: non-word / garbled form, Italian aduna, expect adunat
+0884	50	actus	printed	actus: Italian arco, expect arcus
+0885	40	sic ab impetu	printed	sic ab impetu: Italian se l'impeto, expect si ab impetu
+0885	41	Terra torta	printed	Terra torta: Italian A terra è torto, expect Ad terram tortus est
+0890	31	in quo forsan	printed	in quo forsan: Italian chè forse, Latin added in quo
+0892	43	me	printed	me: Italian ne (nos), expect nos
+0893	36	Me	printed	Me: Italian Ne (nos), expect Nos
+0893	40	recipit	printed	recipit: Italian repe (creeps/enters), expect repit
+0893	46	credit	printed	credit: Italian vede, expect videt
+0897	42	Ita	printed	Ita: Italian Da te, expect A te
+0898	29	distractas	printed	distractas: Italian distincte, expect distinctas
+0899	48	lacum	printed	lacum: Italian esto loco, expect locum
+0906	34	sembiatas	printed	sembiatas: garbled Italianism / non-word, Italian sembianti
+0906	37	Retro	printed	Retro: Italian Dricti, expect Directi (contrary sense); duxisse: expect ducis
+0906	40	aperias	printed	aperias: Italian apreso, expect apprehenso
+0906	56	ardentibus	printed	ardentibus: Italian ridenti, expect ridentibus
+0909	26	de lumine in lumen	printed	de lumine in lumen: Italian di sogla in sogla, expect de limine in limen
+0910	49	tertiam et ultimam potentiam	printed	tertiam et ultimam potentiam: Italian el terzo, e l'ultima possanza, Latin feminine tertiam
+0915	23	me commendo	printed	me commendo: Italian nè commendo, negation lost / opposite sense, expect nec commendo
+0916	23	calidum	printed	calidum: Italian chiaro, expect clarum
+0917	23	sic dico de	printed	sic dico de: Italian non, negation lost / sense changed
+0919	38	ad adorandum	printed	ad adorandum: Italian a nominar, expect ad nominandum
+0919	40	plus	printed	plus: Italian men, expect minus (direct opposite)
+0921	26	lapsus	printed	lapsus: Italian lasso, expect lassus
+0922	43	-	printed	listed for isti, which is not in this line; the line is printed so
+0929	29	non loquitur	printed	non loquitur: Italian si favella, Latin added negation non
+0929	46	bieci	printed	bieci: Italianism left untranslated
+0929	47	manciam	printed	manciam: Italianism left untranslated
+0930	27	de ipso	printed	de ipso: Italian di sè (referring to Iphigenia), expect de ipsa / de se
+0930	28	tam placibili vultu	printed	tam placibili vultu: Italian così facto colto, expect tam placibili cultu
+0931	34	suam pacem	printed	suam pacem: Italian a suo piacer, expect ad suum placitum
+0931	47	ad stellam	printed	ad stellam: Latin added ad stellam, Italian E se la stella si cambiò et rise
+0932	46	proprio	printed	proprio: Italian primo, expect primo
+0933	23	ipsum se	printed	ipsum se: Italian ella fessi, masculine pronoun for Beatrice
+0939	16	-	printed	listed for Pau, which is not in this line; the line is printed so
+0943	28	nostrum	printed	nostrum: Italian vostro, expect vestrum (person mismatch)
+0945	43	Deviant	printed	Deviant: Italian Sì desiando, expect Sic desiderando (deviando vs desiando)
+0945	45	gaggiorum	printed	gaggiorum: Italian word gaggi left in Latin
+0945	46	Quia meritum	printed	Quia meritum: Italian Col merto, expect Cum merito
+0946	18	divina	printed	divina: Italian viva, expect viva
+0947	19	biecia	printed	biecia: Italian word biece left in Latin
+0950	15	malacotht	printed	malacotht: Hebrew/garbled form for malahot
+0950	16	notam	printed	notam: Italian rota, expect rotam
+0951	24	se indonnat	printed	se indonnat: Italianism / non-word (s'indonna)
+0951	27	Pauco	printed	Pauco: Italian Però, expect Modicum or Parum
+0951	28	ratiocinando	printed	ratiocinando: Italian raggiandomi, expect radiando
+0951	30	ineffabile	printed	ineffabile: Italian infallibile, expect infallibile
+0951	35	semine	printed	semine: Italian sententia, expect sententia
+0952	23	infirma	printed	infirma: Italian in terra, expect in terra
+0956	59	fuitvel	printed	set without a space, for fuit vel
+0962	28	a coppa nunc a ciglio	printed	a coppa nunc a ciglio: Italian words left in Latin (coppa, ciglio)
+0964	26	Revidendi	printed	Revidendi: Italian Di riudir (hearing), Latin Revidendi (seeing), expect Reaudiendi
+0965	28	De uno modo	printed	De uno modo: Italian D'un giro, Latin De uno modo
+0965	44	maius	printed	maius: Italian più stato, Latin maius fuisset
+0969	49	nostrorum	printed	nostrorum: Italian vostri, expect vestrorum (person mismatch)
+0979	11	-	printed	listed for dormiam, which is not in this line; the line is printed so
+0981	39	Cum tanto affectu	printed	Cum tanto affectu: Italian Cotanto effecto, expect Tanto effectu (affectus vs effectus)
+0982	29	lumera	printed	lumera: Italian word left in Latin
+0982	46	tantum planta	printed	tantum planta: Italian tutta quanta, expect tota quanta (copied from line 1 planta)
+0983	18	vivagnis	printed	vivagnis: Italian word vivagni left in Latin
+0986	13	locum	printed	locum: Italian ochio, expect oculum
+0987	21	vistam	printed	vistam: Italianism / typo, expect visum; aliam: Italian quella
+0988	33	reamentatur	printed	reamentatur: non-word / garbled form, Italian si rammenta, expect rememoratur
+1002	23	-	printed	listed for capa, which is not in this line; the line is printed so
+1006	33	Factus est gulosus	printed	Factus est gulosus: Latin masculine adjective for neuter peculium
+1006	39	pauci	printed	pauci: Italian poche (referring to sheep), Latin masculine pauci
+1007	12	correctionem	printed	correctionem: Italian correggiar (belt/cincture), Latin correctionem
+1007	13	vanegiatur	printed	vanegiatur: Italianism for vaneggia
+1020	31	muffa	printed	muffa, grumma: Italian words left in Latin
+1020	36	ricolta	printed	ricolta: Italian word left in Latin
+1021	21	sum	printed	sum: Italian fui, expect fui
+1021	29	iam	printed	iam: Italian giù, expect infra / inferius
+1026	23	Celum	misread	was Cœlum
+1026	24	aeris	printed	aeris: Italian dell'arte, expect artis
+1026	29	ore ostelli	printed	ore ostelli: Italian punta dello stelo, expect ore stili
+1028	33	une palec	printed	une palec: non-word / garbled form, Italian l'una pagla, expect palee
+1028	35	alias	printed	alias: Italian l'altra, expect aliam
+1030	34	novas	printed	novas: Italian nove (nine), Latin novas (new), expect novem
+1030	43	-	printed	listed for habere debet, which is not in this line; the line is printed so
+1039	52	non mori	printed	non mori: Italian viver (per viver vs per non mori)
+1040	23	luce	printed	luce: Italian voce, expect voce (light vs voice)
+1041	30	descendit	printed	descendit: Italian s'accende (ignites), Latin descendit (descends), expect accenditur
+1051	42	-	printed	listed for radio, which is not in this line; the line is printed so
+1053	57	et illa ad Deum	printed	et illa ad Deum: Italian e quella u'dio (udìo), Latin et illa ad Deum
+1053	58	arrosonuit	misread	was arrosoruit; the runover [cennum was missing (commentary 1054 arrosonuit)
+1057	35	collo	printed	collo: Italian a la rocha (colus), Latin collo (collum)
+1057	37	Fiesols	printed	Fiesols: garbled / non-Latin form for Fiesole
+1058	20	legis	printed	legis: Italian gente, Latin legis
+1058	21	vestram	printed	vestram: Italian nostra, expect nostram (person mismatch)
+1058	23	gente	printed	gente: Italian mondo, Latin gente
+1063	30	scevera	printed	scevera: Italian word left in Latin
+1063	31	ille	printed	ille: Italian quella (Dame de Malehaut), Latin masculine ille
+1064	29	moderna	printed	moderna: Italian mondana, expect mundana
+1064	33	suum	printed	suum: Italian sol, Latin suum
+1067	29	-	printed	listed for Galigari, which is not in this line; the line is printed so
+1079	32	-	printed	listed for refugium, which is not in this line; the line is printed so
+1087	32	secundo	printed	secundo: Italian sereno, Latin secundo, expect sereno
+1092	42	cioccorum	printed	cioccorum: Italianism (ciocchi)
+1093	30	liliare se	printed	liliare se: neologism for ingigliarsi
+1100	38	escit	printed	escit: Italian escendo, Latin finite verb escit
+1106	37	bozzas	printed	bozzas: Italianism (bozze)
+1114	25	-	printed	listed for privatum, which is not in this line; the line is printed so
+1116	34	non vides	printed	non vides: Italian ne vedi, Latin added negation non, inverted sense
+1118	37	vistam	printed	vistam: Italianism / typo, expect visum
+1122	28	suum	printed	suum: Italian al mio fulgore, Latin ad suum fulgorem (pronoun mismatch)
+1122	29	sconscendit	printed	sconscendit: Italianism / non-word (scoscende)
+1124	42	soggiornum	printed	soggiornum: Italianism (soggiorno)
+1128	24	tua	printed	tua: Italian mia, expect mea (pronoun mismatch)
+1128	27	De situ cui	printed	De situ cui: Italian Sotto lo qual, expect Sub quo
+1128	37	relevetur	printed	relevetur: Italian si riveli, expect reveletur
+1129	37	recalcient	printed	recalcient: Italianism (rincalzare)
+1129	40	mantis	printed	mantis: Italianism (manti)
+1133	45	tardavit	printed	tardavit: Italian tardo, expect tardus / tarde
+1133	52	sicut omnes radii	printed	sicut omnes radii: Italian con mutui rai, expect cum mutuis radiis
+1134	24	loculentior	printed	loculentior: garbled form / typo for luculentior
+1135	42	-	printed	listed for facit, which is not in this line; the line is printed so
+1142	22	Quieta	printed	Quieta: Italian Posato, Latin feminine Quieta
+1143	43	-	printed	listed for capacitas quam substine[b]at, which is not in this line; the line is printed so
+1145	25	-	printed	listed for amovi, which is not in this line; the line is printed so
+1145	39	-	printed	listed for distaccabatur, which is not in this line; the line is printed so
+1146	49	-	printed	listed for bono, which is not in this line; the line is printed so
+1158	27	natura non	printed	natura non: Latin placed non at end of line where Italian had a che natura
+1160	21	cognitione	printed	cognitione: Italian condiction, expect conditione
+1160	22	habeo tecum	printed	habeo tecum: Italian tocco mo, expect tango modo
+1165	29	vivum	printed	vivum: Latin added vivum, Italian has un lume
+1165	45	largitatem	printed	largitatem: Italian allegrezza, Latin largitatem
+1166	37	-	printed	listed for Dante nos, which is not in this line; the line is printed so
+1168	31	tuum	printed	tuum: Italian suo, expect suum (pronoun mismatch)
+1168	45	-	printed	listed for novella, which is not in this line; the line is printed so
+1171	18	Sequutus est	printed	Sequutus est: Italian Si quetò, expect Quievit
+1177	42	per auctoritates	printed	per auctoritates: Italian 1891 text misprint non auctoritadi, Latin translated per autoritadi
+1187	32	ibi	printed	ibi: Italian qui, expect hic
+1190	35	-	printed	listed for videre, which is not in this line; the line is printed so
+1193	36	adfondas	printed	adfondas: Italianism / non-word (affondi)
+1193	41	bozzacchiones	printed	bozzacchiones: Italianism (bozzacchioni)
+1194	31	et	misread	was &
+1194	40	Sed priusquam ianuarius totus exeat de yeme	printed	Sed priusquam ianuarius totus exeat de yeme: paraphrase for Ma pria che gennaio tutto si sverni
+1199	23	badalucchem	printed	badalucchem: non-word / garbled Italianism for s'adochi
+1206	44	-	printed	listed for infiorat, which is not in this line; the line is printed so
+1213	29	nobis	printed	nobis: Italian vi, expect vobis (person mismatch)
+1215	29	-	printed	listed for ingolfatur, which is not in this line; the line is printed so
+1217	42	-	printed	listed for plovunt motti, which is not in this line; the line is printed so
+1218	32	bechecto	printed	bechecto: Italianism (becchetto)
+1218	35	-	printed	listed for impingit, which is not in this line; the line is printed so
+1228	27	celi	printed	celi: Italian regno, expect regni
+1228	43	scioliis	printed	scioliis: non-word / garbled form for foliis
+1229	39	redolet	misread	was redolel
+1230	24	deponatur	printed	deponatur: Italian disposta, expect disposita sit
+1230	25	amaliat	printed	amaliat: Italianism (ammalia)
+1230	31	adeo	printed	adeo: Italian da Dio, expect a Deo
+1235	28	et una	printed	et una: Italian et altra, expect et altera
+1235	32	soggiornat	printed	soggiornat: Italianism (soggiorna)
+1235	34	tantum	printed	tantum: Italian tutto, expect totum
+1235	35	arrivat	printed	arrivat: Italianism (arriva)
+1251	36	nobis	printed	nobis: Italian vi (1), expect vobis
+1251	52	baptismathe	printed	baptismathe: non-word / garbled form for baptismate
+1251	53	non fuit	printed	non fuit: Italian si ritenne, Latin non fuit
+1252	43	Philocaptus	printed	Philocaptus: Greek neologism for innamorato
+1264	25	oculos Argi	printed	oculos Argi: Italian l'ombra d'Argo, Latin oculos Argi
+1266	22	dicenduum	printed	dicenduum: typo / non-word (dicendum)
+1267	24	vistam	printed	vistam: Italianism / typo (visum)
+1267	31	[divinum] velle	printed	[divinum] velle: Italian el mio desio e 'l velle, Latin meum velle, [divinum] velle
