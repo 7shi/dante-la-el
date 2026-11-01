@@ -507,7 +507,7 @@ Si tu interrogareris, quis alius ibi erat, tu habes prope illum de Beccaria, cui
 
 46 Quia, si tu rationabiliter plangis de eo,\
 &emsp;Sciendo qui vos estis, et suum peccatum,\
-&emsp;In mundo superiori adhuc ego tibi promererar.\
+&emsp;In mundo superiori adhuc ego tibi promerear.\
 &emsp;Si illa, cum qua loquor, non desiccatur.
 
 (1) da Maghanza. — (2) da Faenza. — (3) dal Bocha. — (4) del conte Ugolino. — (5) dell'arcivescovo Ruggieri. — (6) quel ch'era di sovra. — (7) ch'era di socto. — (8) teschio del capo. — (9) conte Ugolino. — (10) dell'arcivescovo Ruggieri. — (11) al. per sì. — (12) la cagione. — (13) pacto. — (14) e non a torto. — (15) duoli. — (16) io. — (17) peccato e tradimento. — (18) renda cambio di fama. — (19) lingua.

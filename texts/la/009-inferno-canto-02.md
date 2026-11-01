@@ -60,7 +60,7 @@ De la pietate et de compaxione: tangit penam mentalem. Che ritrarrà: scilicet d
 &emsp;O mente, che scrivesti ciò ch'io vidi,\
 &emsp;Qui si parrà la tua nobilitate.
 
-3 O Muse, o altum ingenium, nunc me invetis;\
+3 O Muse, o altum ingenium, nunc me iuvetis;\
 &emsp;O mens, que scripsisti quidquid vidi,\
 &emsp;Hic apparebit tua nobilitas.
 
