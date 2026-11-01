@@ -37,7 +37,8 @@ Carcerem vadis ex altitudine ingenii,
 Meus filius ubi est? et quare non est tecum?
 21 Et ego ad eum: A me ipso non venio:
 Ille, qui expectat ibi, per ista loca me ducit,
-Forsan quem Guido vester habuit in indignationem.
+Forsan quem Guido vester habuit in indignatio-
+[nem.
 22 Verba sua et modus pene
 Michi istius iam legerat nomen:
 Ideo fuit responsum ita plenum.
