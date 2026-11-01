@@ -150,7 +150,7 @@ Qualis in pleniluniis serenis. Quale in plenilunii sereni: hec est secunda pars 
 
 14 Sicut ignis de nube excluditur\
 &emsp;Propter se dilatare, eo quod ille locus eum non capit,\
-&emsp;Et propter suam naturam infra attrahatur;
+&emsp;Et propter suam naturam infra attrahitur;
 
 15 La mente mia così, tra quelle dape\
 &emsp;Facta più grande, di sè stessa uscìo,\
@@ -294,7 +294,7 @@ animam Virginis notificat per rosam, que est pulcherrimus flos inter omnes flore
 &emsp;Fulgurati di su da raggi ardenti,\
 &emsp;Senza veder principio de'fulgori.
 
-28 Vidi ego sic turbas spendorum\
+28 Vidi ego sic turbas splendorum\
 &emsp;Fulguratas desuper a radiis ardentibus,\
 &emsp;Sine videre principium fulgorum.
 

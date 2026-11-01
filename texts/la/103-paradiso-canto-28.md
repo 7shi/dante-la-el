@@ -304,15 +304,7 @@ angelis non est virtus extensiva in quantitate, sed bene intensiva, in corporibu
 
 Circuli qui apparent, sunt ampli et arcti, idest stricti, secundum maioritatem et pluralitatem virtutis, que extenditur per omnes ipsorum partes, idest in omnibus partibus operatur.
 
-Maior bonitas vult facere maiorem salutem, maior salus maius corpus capit, idest volvit, vel comprehendit, si illud habet partes equaliter completas, idest perfectas. Bonitas
-
-24 Ergo isti, quod totum rapit Alterum universum secum, correspondet Circulus qui plus amat et plus sapit.
-
-25 Quare, si tu ad virtutem circumdas Tuam mensuram, non ad apparentiam Substantiarum que tibi apparent rotunde, 26 Tu videbis admirabilem consequentiam De maiori ad plus, et de minori ad minus, In quolibet celo, ad suam intelligentiam.
-
-27 Sicut remanet splendidum et serenum Emispyrium aeris, quando sufflat Boreas ab illa gena, ubi est levior, 28 Ex quo purgat et resolvit roffiam, Que prius turbabat, ita quod celum ridet Cum pulchritudinibus omnis sue parroffie; 29 Sic feci ego, postquam michi providit Domina mea de suo responso claro; Et sicut stella in celo, verum fuit visum.
-
-maior vult facere salutem, idest maiores et meliores effectus. Maior salus est in maiori corpore.
+Maior bonitas vult facere maiorem salutem, maior salus maius corpus capit, idest volvit, vel comprehendit, si illud habet partes equaliter completas, idest perfectas. Bonitas maior vult facere salutem, idest maiores et meliores effectus. Maior salus est in maiori corpore.
 
 Ergo isti, scilicet celo nono, idest primo mobili, qui totum, residuum scilicet, rapit alterum universum secum, correspondet circulus, scilicet Seraphin, qui plus amat et plus sapit.
 
@@ -516,7 +508,7 @@ Isti ordines sursum. Questi ordini de su: hec est quarta pars huius capituli, in
 
 postmodum influunt in nobis mortalibus. Angeli omnes omnium ordinum respiciunt sursum, idest accipiunt de sursum, et inferius vincunt, idest communicant, dant, tribuunt, ita, quod versus Deum omnes trahuntur, et inferius se vincunt ita, quod versus Deum omnes tracti sunt et omnes trahunt.
 
-Iam est notandum, quod iste modus ponendi ordines Angelorum et distinguendi, qui dictus et positus est hic, est modus et fuit vera positio Dionysii, a quo discordat Sanctus Gregorius, non in prima Ierarchia, quia in illa omnino conveniunt; sed discordant in secunda et tertia: quia Gregorius ponit in secunda Ierarchia Dominationes, Principatus et Potestates, ubi in ista secunda Dionysius ponebat Dominationes, Virtutes et Potestates; in tertia ponit Gregorius Virtutes, Arcangelos et Angelos, ubi Dionysius posuit Principatus, Arcangelos et Angelos. Et dicit auctor quod quando Gregorius venit in celum, risit de seipso, videns ibi, quomodo non bene discernerat choros Angelorum; et dicit auctor quod vult citius tenere opinionem Sancti Dionysii, quia melior est, quia Dionysius habuit hec, que scripsit de choris et distinctionibus Angelorum, et didicit ab illo, qui fuit ibi, scilicet in celo, scilicet a Sancto Paulo, a quo didicit hec, et plurima alia vera, idest plures alias veritates. Et Dionysius cum tanto desiderio ad contemplandum istos ordines se misit, quod illos nominavit et distinxti sicut ego. Sed Gregorius postea ab eo se divisit, scilicet variavit: unde quam cito oculos aperuit in isto [celo], de scipso risit.
+Iam est notandum, quod iste modus ponendi ordines Angelorum et distinguendi, qui dictus et positus est hic, est modus et fuit vera positio Dionysii, a quo discordat Sanctus Gregorius, non in prima Ierarchia, quia in illa omnino conveniunt; sed discordant in secunda et tertia: quia Gregorius ponit in secunda Ierarchia Dominationes, Principatus et Potestates, ubi in ista secunda Dionysius ponebat Dominationes, Virtutes et Potestates; in tertia ponit Gregorius Virtutes, Arcangelos et Angelos, ubi Dionysius posuit Principatus, Arcangelos et Angelos. Et dicit auctor quod quando Gregorius venit in celum, risit de seipso, videns ibi, quomodo non bene discernerat choros Angelorum; et dicit auctor quod vult citius tenere opinionem Sancti Dionysii, quia melior est, quia Dionysius habuit hec, que scripsit de choris et distinctionibus Angelorum, et didicit ab illo, qui fuit ibi, scilicet in celo, scilicet a Sancto Paulo, a quo didicit hec, et plurima alia vera, idest plures alias veritates. Et Dionysius cum tanto desiderio ad contemplandum istos ordines se misit, quod illos nominavit et distinxti sicut ego. Sed Gregorius postea ab eo se divisit, scilicet variavit: unde quam cito oculos aperuit in isto [celo], de seipso risit.
 
 Et si tantum veridice protulit mortalis in terra, nolo quod mireris; quia qui videt hic, sive vidit, idest Apostolus Paulus, illud sibi, scilicet Dionysio, discooperuit, idest docuit, cum alio multo vero de veritate istorum gyrorum, idest cum multis aliis veritatibus.
 

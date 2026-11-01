@@ -38,7 +38,7 @@ In isto vicesimoquinto capitulo, quod incipit: Si unquam contingat, auctor ponit
 
 4 Eo quia in Fidem, que facit manifestas\
 &emsp;Animas Deo, intravi illuc, et postea\
-&emsp;Petrus propter ipsam michi gyrarit frontem.
+&emsp;Petrus propter ipsam michi gyravit frontem.
 
 Si unquam contingat quod poema sacrum. Se mai continga che'l poema sacro: istud est vicesimumquintum capitulum huius Paradisi, in quo, ex quo in capitulo precedenti auctor introduxit Sanctum Petrum qui eum examinavit de Fide, nunc introducit unum alium spiritum, scilicet Sancti Iacobi, qui examinabit eum de secunda virtute theologica, scilicet Spe. Et dividitur in quatuor partes. Quarum in prima, auctor introducit predictum spiritum Sancti Iacobi.
 
