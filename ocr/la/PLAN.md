@@ -23,8 +23,9 @@ more errors found in the same lines and by the searches they led to (DONE.md, "C
 **Next**, in this order (each below, under "Checks"):
 
 1. **Verse check**: the text only (step 0) is done; every line of the Latin and of the
-   Italian verse is read again from the image (steps 1–4): batch 1 done as a trial, then
-   batches 2–11, the Italian by la-el-agy and the Latin by la-el-agy2.
+   Italian verse is read again from the image (steps 1–4): batches 1–2 done, then
+   batches 3–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
+   batch 2, page images from batch 3; step 3).
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
    `ocr/la` (steps 3–6).
@@ -151,6 +152,13 @@ compared with the print only: the edition's Italian is one manuscript's
    "Apostrophe spacing as in the file"). This replaces the page-column crops first
    planned (`la_versecrop.py`): single lines in a shuffled order keep the reader from
    reading a known passage.
+   `--page-crops DIR` writes one image per page instead (`DIR/P0115.png`: the verse block
+   of the page, the box of its located lines, enlarged 2×, in page order; `DIR/pages.tsv`
+   counts its lines); the reader writes its lines in order (`P0115<TAB>line`, one row per
+   printed line, a runover word as its own row). `--page-readings DIR [-o OUT]` aligns
+   them with the lines of `ocr/la` page by page, by the likeness of their letters, and
+   compares them as `--readings` does; a line not paired is counted as not read, a
+   reader's line not paired is listed as `extra`.
 2. **Trial** on batch 1 (`0079`–`0114`; done, 2026-11-02):
    - Latin: 414 lines read, 8 differ. 4 misread, all toward a common form: 0095
      `Seculum` → `Seclum`, 0098 `caveas` → `caves`, 0101 `redii` → `redivi`, 0113
@@ -180,6 +188,37 @@ compared with the print only: the edition's Italian is one manuscript's
    | 9 | 0925–1048 | 1,455 | 1,436 |
    | 10 | 1049–1150 | 1,329 | 1,319 |
    | 11 | 1151–1270 | 1,476 | 1,466 |
+
+   **Images**: line images (`--crops`) in batch 2; page images (`--page-crops`) from batch 3
+   on (decided with the user, 2026-11-02: the line images were too many and too small to
+   work through, about 1,350 per task against about 92 pages; in batch 2 the Italian reader
+   pasted them 10 to a sheet itself, so the lines were read side by side anyway, and at the
+   smaller size it misread 24 tercet numbers against 1 in batch 1). Page images also show
+   the runover words that line images could not locate, and a line printed twice on a page
+   (0133:8 and 10), whose line image was cut from the wrong row. They show the context,
+   so the reader may be led more by the sense (agy's main failure mode): the task says so
+   plainly, and the error rate is compared with batches 1–2. The edge of the other column (line ends,
+   tercet numbers) may show: the task says to leave it out.
+
+   **Batch 2** (0115–0232; done, 2026-11-02):
+   - Latin: 1,353 lines read, 26 differ in words, 5 more in punctuation. 9 misread: 0121
+     `tanquam` → `tamquam`, 0170 `circumvolvitur` → `circumvolvatur`, 0214 `sociis` →
+     `sotiis`, 0226 `moriendi` → `moriendo`; 0117 `dixit` → `dixit,`, 0122 `tanto.` →
+     `tanto:`, 0147 `ingenia.` → `ingenia,`; and two runover words joined to their line,
+     put on their own line (Conventions, "Brackets"): 0117 `ad` / `[fundum,`, 0189
+     `indignatio-` / `[nem.`. Reader errors: 8 tercet numbers, 6 words (`Ciacchum`,
+     `Iosaphat`, `dilatione`, `bulicame`, `Nesus`, `Lano`: common forms and corrected
+     names), 2 punctuation marks; from the crops, 3 lines cut at an edge where the
+     Tesseract box missed a word, 2 crops of two lines, 1 line of the other column.
+   - Italian: 1,345 lines read, 40 differ in words, 18 more in punctuation. 3 misread:
+     0168 `figliuolo` → `figluolo`, 0194 `perch'io` → `per ch'io`, 0216 `damni` →
+     `danni` (stems counted). Reader errors: 24 tercet numbers and 5 gloss numbers (read
+     on sheets of 10 lines it made itself), 10 words (misprints corrected, `Verrauno`,
+     `Trhaemmoci`; common forms, `Colui`, `fui`, `lì`), 3 lines cut short. The gloss
+     marks without a space were spaced (Conventions, "Gloss marks").
+   - The 6 unlocated lines, read in the page image, were right. 0133:8 and 10 print the
+     same line, so the line image of 8 was cut from 10.
+   - The other `figliuol` forms (9, on later pages) and `soci-` are read in their batches.
 
    **Per batch**: the crops in `tmp/la-verse/bN/` (Latin) and `tmp/la-verse/bN-it/`
    (Italian); the Italian task to la-el-agy, the Latin to la-el-agy2, each carrying the
@@ -510,9 +549,10 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
   candidates, `--readings` compares a reader's `DIR/readings.tsv`.
 - `ocr/la_versepairs.py [FILES] [-d DIR | -o OUT]`: the verse of the cantos in `texts/la`,
   the Italian and the Latin line side by side, one TSV per canto (verse check, step 0).
-- `ocr/la_versecheck.py FIRST LAST [--italian] (--crops DIR | --readings DIR [-o OUT])`:
-  the verse check ("Checks"): the line images of the Latin (or Italian) verse, and the
-  comparison of a reader's `DIR/readings.tsv` with `ocr/la`.
+- `ocr/la_versecheck.py FIRST LAST [--italian] (--crops DIR | --page-crops DIR |
+  --readings DIR [-o OUT] | --page-readings DIR [-o OUT])`: the verse check ("Checks"):
+  the line or page images of the Latin (or Italian) verse, and the comparison of a
+  reader's `DIR/readings.tsv` with `ocr/la`.
 - `ocr/la_italic.py`, `ocr/la_lexcheck.py`: to be written ("Checks").
 
 The working data of the completed work in `tmp/` (`la-markup/`, `la-mark7/`, the paid
