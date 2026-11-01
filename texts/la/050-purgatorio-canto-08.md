@@ -178,7 +178,7 @@ Ponit colorem istorum angelorum dicens: Virides, quasi foliuscule nunc noviter n
 
 Unus supra nos aliquantulum ad standum venit, et alius descendit in oppositam partem, ita quod gens in medio se continuit. Hoc est dicere quod illi equaliter sunt positi inter iustitiam et misericordiam; ideo dicitur in textu, quod illi erant inter ambos.
 
-Color flavus denotat perfectionem angelicam, quasi aureum, scilicet per flavos capillos. Claritas faciei erat tanta, quasi dicens, quod debilitas nostri intellectus non extendit se ad cognitionem angelice nature, nec etiam divine iustitie. Bene discerneham in eis caput flavum, idest capillos aurei coloris; sed in faciebus, scilicet ipsorum, oculus meus deviabat, idest errabat, propter splendorem magnum, sicut virtus, que a nimio, idest superfluo, confunditur. Ideo vult Aristotiles in secundo libro De Anima, quod inter animam susceptivam et rem susceptibilem, et inter obiectum et potentiam, oportet esse proportionem; et ideo oculus humanus non potest bene solem respicere, quia sensibile excellens corrumpit sensum.
+Color flavus denotat perfectionem angelicam, quasi aureum, scilicet per flavos capillos. Claritas faciei erat tanta, quasi dicens, quod debilitas nostri intellectus non extendit se ad cognitionem angelice nature, nec etiam divine iustitie. Bene discernebam in eis caput flavum, idest capillos aurei coloris; sed in faciebus, scilicet ipsorum, oculus meus deviabat, idest errabat, propter splendorem magnum, sicut virtus, que a nimio, idest superfluo, confunditur. Ideo vult Aristotiles in secundo libro De Anima, quod inter animam susceptivam et rem susceptibilem, et inter obiectum et potentiam, oportet esse proportionem; et ideo oculus humanus non potest bene solem respicere, quia sensibile excellens corrumpit sensum.
 
 Ambo veniunt de gremio Marie (ipse auctor ponit [ipse]met glossam, scilicet a Christo; quia Virgo continet Christum in gremio: quia postquam Christus fuit incarnatus, de summo iusto factus est etiam misericors, et sic rupit acutiem ensis), dixit Sordellus, ad custodiam vallis propter serpentem, qui veniet statim. Quia ille anime volebant intrare Purgatorium, idest incipere penitentiam; ideo venit demon. Verbum est intelligendum de Purgatorio morali, quia incipientibus penitentiam demon se multum opponit.
 
@@ -203,7 +203,7 @@ Solum per tres passus credo quod descendimus, et fui infra, et vidi unum, qui re
 &emsp;Quando ti vidi non esser tra' rei!
 
 18 Versus me se fecit, et ego versus illum me feci:\
-&emsp;Iudex Nine gentilis, quantum mihi placuit,\
+&emsp;Iudex Nine gentilis, quantum michi placuit,\
 &emsp;Quod te vidi non esse intra reos!
 
 19 Nullo bel salutar tra noi si tacque;\

@@ -392,7 +392,7 @@ Postea dixit unus alter: De, si illud desiderium adimpleatur, quod te trahit ad 
 &emsp;Quell' humido vapor che 'n acqua riede,\
 &emsp;Tosto che sale dove freddo 'l cogle.
 
-37 Bene scis quomodo in aëre congregatur\
+37 Bene scis quomodo in aiere congregatur\
 &emsp;Ille humidus vapor qui in aquam redit,\
 &emsp;Statim quod ascendit ubi frigus illum colligit.
 
@@ -428,7 +428,7 @@ Modo auctor in persona Boncontis dicit id quod fecit dyabolus sua potestate. Ben
 &emsp;La pioggia cadde, e a' fossati venne\
 &emsp;Di lei ciò, che la terra non sofferse (2):
 
-40 Ita, quod pregnans aëre in aquam est conversum:\
+40 Ita, quod pregnans aiere in aquam est conversum:\
 &emsp;Pluvia cecidit, et ad fossata venit,\
 &emsp;De ipsa id, quod terra non sustulit.
 
@@ -470,7 +470,7 @@ Modo auctor in persona Boncontis dicit id quod fecit dyabolus sua potestate. Ben
 &emsp;Disposando, m'havea con la sua gemma.
 
 45 Recorderis mei, quia sum Sapia:\
-&emsp;Sene me fecerunt, et disfécit me Mariptima:\
+&emsp;Sene me fecerunt, et disfecit me Mariptima:\
 &emsp;Scit ille qui, annulatam prius,\
 &emsp;Desponsaverat me cum sua gemma.
 

@@ -58,7 +58,7 @@ que iustitia terret considerantes ipsam. Secunda aqua est melior, in qua fulget 
 
 2 Et cantabo de illo secundo regno,\
 &emsp;Ubi humanus spiritus purgatur,\
-&emsp;Et ascendendi in celum devenít dignus.
+&emsp;Et ascendendi in celum devenit dignus.
 
 3 Ma qui la morta poesya resurga,\
 &emsp;O sancte Muse, poi che vostro sono,\
@@ -82,7 +82,7 @@ que iustitia terret considerantes ipsam. Secunda aqua est melior, in qua fulget 
 
 5 Dulcis color orientalis zaphiri,\
 &emsp;Qui colligebatur in sereno aspectu\
-&emsp;Aeris puri usque ad primum girum,
+&emsp;Aieris puri usque ad primum girum,
 
 6 Agl'ochi miei ricominciò dilecto,\
 &emsp;Tosto che fuor uscii dell'aura morta,\
@@ -98,7 +98,7 @@ Et cantabo de illo secundo regno (ecce auctor aperit materiam, de qua vult loqui
 
 Iam auctor invocat, dicens: Sed hic mortua poesis resurgat (licet poesis non possit mori, potest tamen negligi et sperni, quando nulli curant ipsam addiscere, vel ea uti; et vere istis diebus potest dici, nedum mortua, sed etiam sepulta), o sante Muse (quia faciunt homines sanctos), postquam vester sum, idest postquam me vobis dedi (Musis: idest poesi), et hic Calliope aliquantulum surgat (Calliope dicitur regina Musarum, que interpretratur dulcis sonus. Dicitur Calliope a cali, quod grece sonat bonum latine, et opos, sonus; quasi bonus sonus, sive bene sonans. Nota quod in Inferno auctor usus fuit bona eloquentia; ideo habuit Mercurium, ut patet in nono capitulo Inferni: qui Mercurius fecit aperiri portas civitatis Ditis, idest civitatis rogie, sive rubee, sive ignite. Sed hic utitur auctor adhuc meliori eloquentia; ideo invocat reginam Musarum, scilicet Calliopem. In Paradiso utetur adhuc maiori, ubi invocabit Apollinem), sequendo meum cantum cum illo sono, de quo Pice misere senserunt ictum mortalem, quod desperaverunt remissionem, idest perdiderunt totaliter omnem spem.
 
-Notanda est hic una hystoria, quam ponit Ovidius in quinto libro Metamorphoseos. Fuit antiquus quidam homo in Grecia, vocatus Pierus, de civitate Pellas, qui habebat novem filias, que erant valde valentes in scientia et optime sciebant cantare et solempniter cantabant. Sed ex hoc erant valde superbe, et in tantum, quod gloriabantur velle contendere cum Musis et vincere eas; et venientes ad certamen, filie Pieri optime cantaverunt. Muse elegerunt Calliopem, que deberet cantare pro omnibus Musis; que cantavit tam bene, quod ipsa vicit Pierides, scilicet filias Pieri, que adhuc erant ita pertinaces, quod nolebant confiteri se fore devictas. Unde, indignata Calliope, convertit eas in picas, que ita conantur loqui et cantare. Allegoria est, quod omnes scientie mundi habent picas suas: multi conantur se ostendere scire, qui nesciunt; sed garrulant in loquacitate, sicut faciunt pice, que conantur loqui, nec ad plenum possunt, nec sciunt. Et licet pica proferat verba humana, tamen non intelligit illa: ita sunt aliqui presumptuosi, qui volunt apparere, et nec intelligunt seipsos; nec aliis possunt tradere scientiam, cum pro se nesciunt: tales non habent nisi sonum verborum, sicut pice. Invocando Dantes Cailiopem, rogat eam, ut sit sibi ita favorabilis, quod ipse possit confundere garrulos et volentes sibi detrahere. Nam Dantes habuít multos emulos, tam in vita quam post mortem. Tunc Muse receperunt hoc nomen pro se, quia ipse Muse vicerunt Pierides. Propter victoriam consecute sunt tale nomen, sicut Scipio romanus vicit Africam, unde vocatus fuit Scipio Africanus. Iam auctor venit ad describendum tempus. Vult dicere quod appropinquabat dies in illo emispirio, ubi erant ipse et Virgilius, idest in emispirio inferiori poli anthartici, quia erat aurora.
+Notanda est hic una hystoria, quam ponit Ovidius in quinto libro Metamorphoseos. Fuit antiquus quidam homo in Grecia, vocatus Pierus, de civitate Pellas, qui habebat novem filias, que erant valde valentes in scientia et optime sciebant cantare et solempniter cantabant. Sed ex hoc erant valde superbe, et in tantum, quod gloriabantur velle contendere cum Musis et vincere eas; et venientes ad certamen, filie Pieri optime cantaverunt. Muse elegerunt Calliopem, que deberet cantare pro omnibus Musis; que cantavit tam bene, quod ipsa vicit Pierides, scilicet filias Pieri, que adhuc erant ita pertinaces, quod nolebant confiteri se fore devictas. Unde, indignata Calliope, convertit eas in picas, que ita conantur loqui et cantare. Allegoria est, quod omnes scientie mundi habent picas suas: multi conantur se ostendere scire, qui nesciunt; sed garrulant in loquacitate, sicut faciunt pice, que conantur loqui, nec ad plenum possunt, nec sciunt. Et licet pica proferat verba humana, tamen non intelligit illa: ita sunt aliqui presumptuosi, qui volunt apparere, et nec intelligunt seipsos; nec aliis possunt tradere scientiam, cum pro se nesciunt: tales non habent nisi sonum verborum, sicut pice. Invocando Dantes Cailiopem, rogat eam, ut sit sibi ita favorabilis, quod ipse possit confundere garrulos et volentes sibi detrahere. Nam Dantes habuit multos emulos, tam in vita quam post mortem. Tunc Muse receperunt hoc nomen pro se, quia ipse Muse vicerunt Pierides. Propter victoriam consecute sunt tale nomen, sicut Scipio romanus vicit Africam, unde vocatus fuit Scipio Africanus. Iam auctor venit ad describendum tempus. Vult dicere quod appropinquabat dies in illo emispirio, ubi erant ipse et Virgilius, idest in emispirio inferiori poli anthartici, quia erat aurora.
 
 Dulcis color orientalis zaphiri colligebatur in sereno aspectu aieris puri usque ad primum girum (aliqui dicunt hic, quod auctor per colorem dulcem orientalis zaphiri intelligebat Beatricem; sed hoc est falsum, quia ipse non vidit Beatricem nisi in Paradiso terrestri. Sed vult dicere quod erat in aiere color azurinus usque ad primum girum, idest in isto emispirio usque ad celum lune, et usque ad speram ignis, idest in emispirio inferiori, quia in isto nostro emispirio poli arthici fiebat nox et obscuritas) oculis meis reincepit delectationem, statim quod ego fui
 
@@ -216,7 +216,7 @@ Longam barbam et pilo albo mixtam portabat; suos capillos similiter, de quibus c
 
 18 Postea respondit ad eum: A me non veni.\
 &emsp;Domina descendit de celo, propter cuius preces\
-&emsp;De mea societate isti subveni.
+&emsp;De mea sotietate isti subveni.
 
 19 Ma da che è tuo voler che più si spieghi\
 &emsp;Di nostra condiction, com'ell'è vera,\
@@ -262,7 +262,7 @@ Iste non vidit unquam ultimum sero; idest non vidit finem ultimi diei; idest non
 &emsp;Et hor intendo mostrarli li spirti\
 &emsp;Che purgan sè sotto la tua balìa.
 
-22 Monstravi ei totum gentem ream,\
+22 Monstravi ei totum gentem ream;\
 &emsp;Et nunc intendo monstrare ei illos spiritus\
 &emsp;Qui purgantur sub tua balya.
 
@@ -481,7 +481,7 @@ Alba, idest adventus diei, vincebat horam matutinam, que fugiebat ante, ita quod
 &emsp;Quel color che l'Inferno mi nascose.
 
 43 Porrexi versus eum genas lacrymosas;\
-&emsp;Ibi fecit mihi totum discoopertum\
+&emsp;Ibi fecit michi totum discoopertum\
 &emsp;Illum colorem quem Infernus in me absconderat.
 
 44 Venimmo poi in sul lito deserto,\

@@ -232,7 +232,7 @@ Nota quod Amphyrao fuit nobilis augur, et potens, et strenuus in armis; et ipse 
 
 20 Monstrabat sicut in ruptam aufugerunt\
 &emsp;Assyrii, postquam fuit mortuus Olofernes (4),\
-&emsp;Et adhuc reliquias martyríi.
+&emsp;Et adhuc reliquias martyrii.
 
 21 Vedeva Troya (12) in cenere (13) e caverne:\
 &emsp;O Ylion, come te (14) basso e vile (15)\

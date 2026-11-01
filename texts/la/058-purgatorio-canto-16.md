@@ -247,7 +247,7 @@ Prius erat simplex, et nunc factum est duplum in sententia tua, que me facit cer
 &emsp;Lo mondo è cieco, e tu vien ben da lui.
 
 22 Altum suspirium, quia dolor strinxit in eum,\
-&emsp;Mísit extra prius, et postea incepit: Frater,\
+&emsp;Misit extra prius, et postea incepit: Frater,\
 &emsp;Mundus est cecus, et tu bene venis ab illo.
 
 23 Voi che vivete, ogni cagion recate\

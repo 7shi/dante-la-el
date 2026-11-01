@@ -214,7 +214,7 @@ Cum iuramento dici potuisset, quod diceret: Ave; quia ibi erat ymaginata illa, s
 
 19 Erat excisum ibi in marmore ipso\
 &emsp;Currus et boves trahendo Archam sanctam,\
-&emsp;Propter quam timetúr officium non commissum.
+&emsp;Propter quam timetur officium non commissum.
 
 20 Dinanzi parea gente; e tutta quanta\
 &emsp;Partita in septe chori, a due mie'sensi (3)\
@@ -234,7 +234,7 @@ Cum iuramento dici potuisset, quod diceret: Ave; quia ibi erat ymaginata illa, s
 
 (1) per la quale. — (2) propter Ozam dicta. — (3) audito e viso. — (4) l'audito. — (5) viso.
 
-altum amorem volvit clavem; idest ad incarnationem Verbi ministravit carnem Christo ex suo purissimo sanguine, cooperante Spiritu Sancto. Et habebat impressam istam loquelam: Ecce Ancilla Dei; proprie sicut figura in cera sigillatur, idest in sigillando imprimítur.
+altum amorem volvit clavem; idest ad incarnationem Verbi ministravit carnem Christo ex suo purissimo sanguine, cooperante Spiritu Sancto. Et habebat impressam istam loquelam: Ecce Ancilla Dei; proprie sicut figura in cera sigillatur, idest in sigillando imprimitur.
 
 Secunda hystoria est illa, que habetur in secundo libro Regum, quando David readduxit archam Domini de domo Aminadab, que erat in Gabaon in domo Domini in Silo. Archa Domini erat in uno curru, quem trahebant boves, et sacerdotes erant distincti in septem choros, cantantes et psallentes Domino; et David cum cithara saltavit ante Archam Domini aliquando, succinctis fimbriis vestimentorum eius: et cum currus penderet, Oza voluit tenere eum, ne caderet; et subito percussus a Domino, mortuus est, quia intromisit se de officio sibi non commisso. Sed Michol, filia Saul, uxor David, derisit eum, quia tantum se humiliaverat quod saltaret ante Archam Domini.
 
@@ -254,7 +254,7 @@ Similiter ad fumum incensorum, qui ibi erant ymaginati; oculi et nasus, et ad it
 &emsp;Treschando (3) alzato, l'humile Psalmista,\
 &emsp;E più e men che re era 'n quel caso.
 
-22 Ibi procedebat benedictum vas,\
+22 Ibi precedebat benedictum vas,\
 &emsp;Tripudiando succinctus, humilis Psalmista,\
 &emsp;Et plus et minus erat quam rex in illo casu.
 
@@ -487,7 +487,7 @@ Et ipse ad me, scilicet dixit: Gravis conditio suorum tormentorum ad terram illo
 &emsp;Vidd'io color, quando posi ben cura.
 
 45 Quae facit de non vero veram rancuram\
-&emsp;Nasci illis qui ipsos ride[n]t; sic factos\
+&emsp;Nasci illis qui ipsos vide[n]t; sic factos\
 &emsp;Vidi illos, quando posui bene curam.
 
 46 Ver'è che più e men eran contracti,\

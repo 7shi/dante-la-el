@@ -388,7 +388,7 @@ Veraciter a tribus mensibus ipse accepit quemcumque, qui voluit intrare cum tota
 
 35 Ad illam faucem, ubi habet nunc erectam alam:\
 &emsp;Ex eo quia semper ibi recolligitur,\
-&emsp;Quicunque versus Acherontem se non calat.
+&emsp;Quicumque versus Acherontem se non calat.
 
 36 Et io: Se nuova legge non ti togle\
 &emsp;Inamoroso all'amoroso canto,\

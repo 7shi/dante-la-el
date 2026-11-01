@@ -269,7 +269,7 @@ Et ipse, scilicet Statius, supple dixit: Tunc prius me inviasti, idest in via du
 &emsp;E progenie descende dal ciel nuova.
 
 24 Quando dixisti: Seculum renovatur;\
-&emsp;Redít iustitia, et primum tempus humanum;\
+&emsp;Redit iustitia, et primum tempus humanum;\
 &emsp;Et progenies descendit de celo nova.
 
 25 Per te poeta fui, per te chrystiano;\
@@ -324,7 +324,7 @@ Et ipse, scilicet Statius, supple dixit: Tunc prius me inviasti, idest in via du
 
 non per suam scientiam, sed quia habuit a Sibilla predicta, et Virgilius allegat eam. Hieronimus tamen in prologo Biblie dicit oppositum, et trufatur quasi de sic dicentibus. Non est cura. Hic Dante tenet, quod Virgilius prophetavit de Christo.
 
-Fecisti sicut ille qui vadit de nocte, qui portat lumen retro, et sibi non prodest, sed post se facit personas doctas, quando dixisti: Seculum renovatur; redít iustitia, scilicet Virgo; primum tempus humanum, scilicet Saturnia regna; et progenies descendit de celo, sive a celo, nova.
+Fecisti sicut ille qui vadit de nocte, qui portat lumen retro, et sibi non prodest, sed post se facit personas doctas, quando dixisti: Seculum renovatur; redit iustitia, scilicet Virgo; primum tempus humanum, scilicet Saturnia regna; et progenies descendit de celo, sive a celo, nova.
 
 Per te poeta fui, per [te] christianus: sed ad hoc ut melius videas id quod ego designo, ad colorandum extendam manum. Quasi dicat: Faciam tecum sicut facit pictor, qui primo designat figuram grosso modo, secundo colorat ipsam bene et apte. Ita faciam tecum: hucusque locutus fui confuse; nunc declarabo, loquens clarius. Ista questio fit coctidie a pluribus, quomodo Statius fuit factus christianus. Potest dici quod Statius fuit homo valde moralis, honestus, virtuosus, nec quidquam lascivum commisit; ideo Deus impressit sibi id quod sibi fuit sufficiens ad salutem. Vel aliter et melius: Tempore sui erat fides christiana satis divulgata; cui adhesit, ut dicetur infra. Sicut aliqui dicunt de Seneca, quod fuit christianus, qui conversabatur cum
 
