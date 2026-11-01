@@ -232,7 +232,7 @@ Unus dyabolus est hic retro, qui nos dividit, vel nos moratur, ita crudeliter cu
 &emsp;Tu qui forte videbis solem in brevi,\
 &emsp;Si ipse non vult cito huc me sequi,
 
-20 Si di vivanda, che strecta di neve\
+20 Sì di vivanda, che strecta di neve\
 &emsp;Non rechi la victoria al Novarese,\
 &emsp;Ch'altrimenti acquistar non saria lieve.
 

@@ -6,6 +6,18 @@ These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/
 
 The whole volume is converted (scans `0007`–`1290`). Its transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits).
 
+## The Italian text
+
+The Italian verse is not a modern edition, nor a text adjusted to the Latin translation: it is the transcription of one manuscript, the *Commedia* written out by Fra Bartolommeo da Colle (Vatican Library, nos. 7566–7568, three volumes, finished in 1480 by its own statement). The editors explain the choice in the NOTIZIE PRELIMINARI ([`003-notizie-preliminari.md`](003-notizie-preliminari.md), pp. XXVI, XXX–XXXI):
+
+- The Italian text that Serravalle translated could not be found. A Franciscan text seemed likely to come closer to it than the others, and taking a manuscript spared them choosing among the modern editions. Cesare Guasti decided them for Bartolommeo's text (p. XXVI).
+- They find "singolari riscontri" between it and the text Serravalle used, too many to be chance and so a kinship of the manuscripts, though "senza dubbio" they differed in many other readings, and Bartolommeo's readings are often plainly wrong (pp. XXX–XXXI).
+- As a sample they give six lines of Inferno I where the two agree against the common reading: 69 `O mantovani`, 80 `spandi`, 84 `fatto m'ha`, 89 `famoso o saggio`, 102 `con doglia`, 116 `Vedrai di quelli`.
+
+The printed verse does not match all of these samples. 80, 84 and 102 agree (`Che spandi di parlar`, `Che fatto m'ha cercar el tuo volume`, `morir con dogla`), but 69 is printed `Mantovani per patria ambodui.` without `O`, 89 `famoso e saggio`, and 116 `Di quelli antichi spiriti dolenti` without `Vedrai`. The Latin agrees with the print in 69 (`Mantuani patria ambo`) and 89 (`famosus et sapiens`). Whether the samples were quoted from the manuscripts or the printed text was changed afterwards cannot be told from the book.
+
+So the Italian differs widely from modern editions. In the first three cantos, 320 of 414 lines differ in some word from the text of [dante-corpus](https://github.com/7shi/dante-corpus) (capitals aside): the manuscript's spellings (`huomo`, `camin`, `havea`) and its own readings (`Mi trovai`, `Et quanto dir`). A comparison with a modern edition therefore cannot tell a misreading from a variant; the transcription follows the print, checked in the images, and keeps its spellings and misprints.
+
 ## Reading the files
 
 - **Pages**: every printed page starts with a comment such as `<!-- p. 26 (0080) -->`: the printed page number (`[25]` if not printed) and the scan, `ocr/la/0080.png`.

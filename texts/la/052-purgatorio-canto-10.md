@@ -468,7 +468,7 @@ Et ipse ad me, scilicet dixit: Gravis conditio suorum tormentorum ad terram illo
 
 43 Di che l'animo vostro in alto galla?\
 &emsp;Voi sete quasi anthomata in defecto,\
-&emsp;Si come verme, in cui formation falla.
+&emsp;Sì come verme, in cui formation falla.
 
 43 Unde animus vester in altum gallat,\
 &emsp;Postea estis quasi anthomatha in defectu,\

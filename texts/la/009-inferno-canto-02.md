@@ -78,7 +78,7 @@ De la pietate et de compaxione: tangit penam mentalem. Che ritrarrà: scilicet d
 
 5 Tu dicis, quod Silvii parens,\
 &emsp;Corruptibilis adhuc, ad immortale\
-&emsp;Seculum ivit, et fuit ibi sensibiliter.
+&emsp;Seclum ivit, et fuit ibi sensibiliter.
 
 6 Però se l'adversaro d'ogni male\
 &emsp;Cortese fu, pensando l'alto effecto,\
@@ -180,14 +180,14 @@ E chi: scilicet in substantia. E il quale: scilicet in potentia. Idest, si tu, V
 
 13 E quale è quel, (2) che disvuol ciò che volle,\
 &emsp;E per nuovi pensier cangia (3) proposta,\
-&emsp;Si che dal cominciar tutto si tolle;
+&emsp;Sì che dal cominciar tutto si tolle;
 
 13 Et qualis est ille qui non vult quidquid voluit,\
 &emsp;Et propter novas cogitationes mutat propositum,\
 &emsp;Ita quod ab inceptis totum se tollit;
 
 14 Tal mi fec'io in quella scura costa:\
-&emsp;Si che, pensando, consumai la 'mpresa,\
+&emsp;Sì che, pensando, consumai la 'mpresa,\
 &emsp;Che fu nel cominciar cotanto tosta.
 
 14 Talem me feci ego in illa obscura costa;\
@@ -365,7 +365,7 @@ Nel diserto ascensu: impeditur sic in itinere, quod iam se vertit pro timore.
 &emsp;Dall'ampio loco, ove tornar tu ardi.
 
 28 Sed dicas michi causam, quare tibi\
-&emsp;Non caveas a descendendo inferius in istud centrum,\
+&emsp;Non caves a descendendo inferius in istud centrum,\
 &emsp;Ab amplo loco, ad quem redire tu ardes.
 
 29 Da che tu vuoi saper cotanto adentro,\
@@ -500,7 +500,7 @@ Et ego: scilicet Lucia, ipsum Dantem tibi Beatrici recommendo.
 
 38 Scesi (2) quaggiù del mio beato scanno\
 &emsp;Fidandomi nel tuo parlar honesto,\
-&emsp;Che onora te e quei ch'udito l'anno.
+&emsp;Che onora te e quei ch'udito l'ànno.
 
 38 Veni ad hunc locum a meo beato scampno,\
 &emsp;Confidendo de tuo sermone honesto,\
@@ -596,7 +596,7 @@ Dicit igitur Virgilius: Quid est quod te possit impedire
 
 46 Tu cum desiderio cor meum disposuisti\
 &emsp;Sic ad veniendum, cum verbis tuis,\
-&emsp;Quod ego redii ad primum propositum.
+&emsp;Quod ego redivi ad primum propositum.
 
 47 Or va, ch'un sol voler è d'amendue:\
 &emsp;Tu duca, tu signor e tu maestro.\

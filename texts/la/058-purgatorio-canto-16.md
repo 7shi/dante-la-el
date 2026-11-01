@@ -235,7 +235,7 @@ Prius erat simplex, et nunc factum est duplum in sententia tua, que me facit cer
 &emsp;Et malitia gravidus et coopertus:
 
 21 Ma prego che mi decti (2) la cagione,\
-&emsp;Si ch'io la veggia, e ch'io la mostri altrui;\
+&emsp;Sì ch'io la veggia, e ch'io la mostri altrui;\
 &emsp;Che l'un in cielo (3), et (4)un quaggiù, la pone.
 
 21 Sed precor quod michi dicas causam,\

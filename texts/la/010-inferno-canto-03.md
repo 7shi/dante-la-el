@@ -572,7 +572,7 @@ Ego predictus Episcopus audivi, dum essem lector et magister regens in Conventu 
 &emsp;E però se Caron di te si lagna,\
 &emsp;Ben puo' saper omai che 'l suo dir suona.
 
-43 Hac nunquam transivit anima bona;\
+43 Hac nunquam transirit anima bona;\
 &emsp;Et ideo si Charon de te lamentatur,\
 &emsp;Bene potes scire ammodo, quid sua dicere sonant.
 

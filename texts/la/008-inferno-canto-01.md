@@ -351,7 +351,7 @@ Et affuit quidam: scilicet Virgilius, qui longo silentio incognitus erat; scilic
 <!-- p. 32 (0086) -->
 
 23 Risposemi: Non huomo, huomo già fui;\
-&emsp;E li parenti miei furo Lombardi,\
+&emsp;E li parenti mici furo Lombardi,\
 &emsp;Mantovani per patria ambodui.
 
 23 Respondit michi: Non homo, homo alias fui,\
@@ -454,7 +454,7 @@ O ne es tu ille, Virgili? nunc Dantes incipit noscere rationem ipsam dirigentem,
 
 34 Molti son gl'animali a cui s'ammogla,\
 &emsp;E più saranno ancor, infin che 'l Veltro\
-&emsp;Verrà, che la farà morir con dogla.
+&emsp;Verrà, che la farà morir con dogla,
 
 34 Multa sunt animalia quibus uxoratur,\
 &emsp;Et plura erunt adhuc, quousque Velter\
@@ -559,7 +559,7 @@ Aliqui dicunt, humilis Ytalia: humilis, idest fertilis, suavis, palpabilis, abun
 &emsp;Quorum secundam mortem quilibet clamat.
 
 40 E poi vedrai color, che son contenti\
-&emsp;Nel fuoco, perchè speran di venire,\
+&emsp;Nel fuoco, perchè speran di venire;\
 &emsp;Quandochesia, a le beate genti.
 
 40 Et videbis illos qui sunt contenti\
