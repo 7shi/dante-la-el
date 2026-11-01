@@ -73,8 +73,8 @@ Primo igitur auctor cum magna arte continuat dicta dicendis, excusando se de sua
 &emsp;Sì che dal facto el dir non sia diverso.
 
 4 Sed ille domine adiuvent meum versum,\
-&emsp;Que adiuverunt Amphionem ad claudendum\
-&emsp;Ita quod a facto dicere non sit diversum. [Thebas,
+&emsp;Que adiuverunt Amphionem ad claudendum Thebas,\
+&emsp;Ita quod a facto dicere non sit diversum.
 
 5 O sovra tucte (2) mal creata (3) plebe,\
 &emsp;Che stai in luogo, onde 'l parlar è duro (4)\

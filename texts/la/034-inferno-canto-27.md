@@ -290,12 +290,12 @@ Nota quod iste comes Guido in senectute sua habuit conscientiam; et ductus penit
 &emsp;Credendo, sic cinctus, facere emendam:\
 &emsp;Et certe meum credere veniebat integrum,
 
-24 Se non fosse 'l gran Prete (7), a cui mal\
-&emsp;Che mi rimise nelle prime colpe; prenda.\
+24 Se non fosse 'l gran Prete (7), a cui mal prenda.\
+&emsp;Che mi rimise nelle prime colpe;\
 &emsp;E come e quare(8), voglo che m'intenda.
 
-24 Nisi esset grandis Presbiter, quem mala apprehen-\
-&emsp;Qui me remisit in primas culpas; dant.\
+24 Nisi esset grandis Presbiter, quem mala apprehendant.\
+&emsp;Qui me remisit in primas culpas;\
 &emsp;Et qualiter et quomodo, volo quod tu me intelligas.
 
 25 Mentre ch'io forma fui d'ossa e di polpe,\

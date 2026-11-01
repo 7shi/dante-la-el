@@ -423,8 +423,8 @@ Prima che de l'abisso me direlle. Priusquam de abyssu me evellas: hec est quarta
 &emsp;Coverchia, e sotto 'l cui colmo consumpto
 
 38 Et nunc sub emispirio pervenisti\
-&emsp;Quod est contrapositum illi quod magnam sicci-\
-&emsp;Cooperit, et sub cuius culmine consumptus [tatem
+&emsp;Quod est contrapositum illi quod magnam siccitatem\
+&emsp;Cooperit, et sub cuius culmine consumptus
 
 39 Fu l'huom (8) che nacque [e visse] senza peccha:\
 &emsp;Tu hai (9) e piedi in su picciola spera (10)\

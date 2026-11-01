@@ -124,13 +124,13 @@ Iam per comparationem quamdam auctor ostendit, sive declarat, illum splendorem s
 
 10 Ne mireris si te adhuc obfuscat\
 &emsp;Familia celi, michi respondit:\
-&emsp;Nuntius est, qui venit ad invitandum ut homo
+&emsp;Nuntius est, qui venit ad invitandum ut homo saliat.
 
 11 Tosto sarà che a veder queste cose\
 &emsp;Non ti fie grave, ma fiecti dilecto,\
 &emsp;Quanto natura a sentir ti dispose.
 
-11 Cito erit quod ad videndum istas res [saliat.\
+11 Cito erit quod ad videndum istas res\
 &emsp;Non erit tibi grave, sed erit tibi delectatio,\
 &emsp;Quantum natura ad sentiendum te disposuit.
 

@@ -551,12 +551,10 @@ Modo Virgilius reprehendit invidos per quamdam similitudinem. Sicut enim pisces 
 
 50 Vocat vos celum, et circum vos se girat,\
 &emsp;Monstrando vobis suas pulchritudines eternas;\
-&emsp;Et oculus vester tamen semper ad terram re-\
+&emsp;Et oculus vester tamen semper ad terram respieit:\
 &emsp;Unde vos verberat qui totum discernit.
 
 (1) ob quod. — (2) Dio.
-
-[spieit:
 
 Vocat vos celum et circum vos se circuit, monstrando vobis suas pulchritudines eternas; et oculus vester tamen, idest semper ad terram, idest terrena, respicit: unde, idest propter hoc, vos verberat qui totum discernit, idest Deus, qui cuncta novit. Deus autem novit omnia peccata nostra; ideo ipse punit omnia peccata ipsa.
 

@@ -28,8 +28,8 @@ In septimo capitulo, scilicet in isto, quod incipit: Postquam caripendia, etc., 
 &emsp;Lo ciel perdei, che per non haver fe'.\
 &emsp;Così rispose allora el duca mio.
 
-3 Ego sum Virgilius; et propter nullum alium defe-\
-&emsp;Celum perdidi, quam quia non habui fidem. ctum\
+3 Ego sum Virgilius; et propter nullum alium defectum\
+&emsp;Celum perdidi, quam quia non habui fidem.\
 &emsp;Sic respondit tunc dux meus.
 
 (1) furono.

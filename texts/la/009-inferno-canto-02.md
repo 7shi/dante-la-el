@@ -495,8 +495,8 @@ Et ego: scilicet Lucia, ipsum Dantem tibi Beatrici recommendo.
 &emsp;Com'io, doppo cotai parole fatte,
 
 37 In mundo nunquam fuerunt persone festine\
-&emsp;Ad faciendum suum profectum, vel ad fugiendum\
-&emsp;Quomodo ego, post talia verba facta suum dampnum.
+&emsp;Ad faciendum suum profectum, vel ad fugiendum suum dampnum.\
+&emsp;Quomodo ego, post talia verba facta
 
 38 Scesi (2) quaggiù del mio beato scanno\
 &emsp;Fidandomi nel tuo parlar honesto,\

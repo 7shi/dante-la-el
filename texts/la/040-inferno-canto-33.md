@@ -157,8 +157,8 @@ Breve pertugio, idest foramen intus in Muda, idest turri vocata, vel in carcere,
 &emsp;E se non piangi, di che pianger suoli?
 
 14 Bene es crudelis, si tu iam non doles,\
-&emsp;Cogitando illud quod michi et cordi meo annun-\
-&emsp;Et si non plangis, de quo plangere soles? [tiabatur:
+&emsp;Cogitando illud quod michi et cordi meo annuntiabatur:\
+&emsp;Et si non plangis, de quo plangere soles?
 
 15 Già eran desti, e l'hora s'appressava\
 &emsp;Che'l cibo ne (25) soleva esser addocto (26),\
@@ -225,8 +225,8 @@ Et ego sensi chiavari, idest claudi, ostium inferius horribili turri; unde ego r
 &emsp;Di manicar, di subito levorsi (15),
 
 20 Ambas manus propter dolorem michi momordi;\
-&emsp;Et ipsi, cogitantes quod ego facerem illud propter\
-&emsp;Manducandi, subito se erexerunt, [voluntatem
+&emsp;Et ipsi, cogitantes quod ego facerem illud propter voluntatem\
+&emsp;Manducandi, subito se erexerunt,
 
 21 E disser (16): Padre (17), assai ci fia men dogla,\
 &emsp;Se tu mangi di noi: tu ne (18) vestisti\
@@ -265,8 +265,8 @@ Et ego sensi chiavari, idest claudi, ostium inferius horribili turri; unde ego r
 &emsp;Poscia (32), più che'l dolor (33), potè 'l digiuno (34).
 
 25 Iam cecus ad abrancolandum supra quemlibet,\
-&emsp;Et duobus diebus eos vocavi postquam fuerunt\
-&emsp;Postea, plusquam dolor, potuit ieiunium. [mortui:
+&emsp;Et duobus diebus eos vocavi postquam fuerunt mortui:\
+&emsp;Postea, plusquam dolor, potuit ieiunium.
 
 (1) per tal modo. — (2) agghiadai come pietra. — (3) figluoli miei. — (4) figluolo. — (5) o. — (6) ancora. — (7) il sole. — (8) si levò. — (9) di sole. — (10) al. et io, et melius. — (11) de' miei figluoli. — (12) mie. — (13) figliuoli miei. — (14) al. pensando. — (15) venendo a me inginochione. — (16) o. — (17) nostro. — (18) a noi. — (19) stemmi queto. — (20) di Pisa. — (21) mio figluol minore. — (22) per debilità. (23) o. — (24) mio. — (25) che mi muoio di fame. — (26) Ghaddo. — (27) altri figluoli miei. — (28) morti di fame. — (29) colle braccia strascinare. — (30) de' miei figluoli morti. — (31) per nome quando l'uno e quando l'altro. — (32) da poi questo. — (33) de' figliuoli. — (34) la fame che atterrò ancora me.
 

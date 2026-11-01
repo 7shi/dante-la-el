@@ -67,8 +67,8 @@ Sed Virgilius michi dixit: Quid pur, idest tantum, respicis? Quare visio tua, id
 &emsp;Et altro è da veder che tu non vedi (1).
 
 4 Et iam luna est sub pedibus nostris:\
-&emsp;Tempus est paucum ammodo quod nobis conces-\
-&emsp;Et aliud est videndum quod tu non vides. [sum est,
+&emsp;Tempus est paucum ammodo quod nobis concessum est,\
+&emsp;Et aliud est videndum quod tu non vides.
 
 5 Se tu havessi, rispos'io a[p]presso,\
 &emsp;Atteso alla cagion perch'io guardava,\
@@ -453,8 +453,8 @@ Ego fui de Aretio, et Alberus de Senis, respondit ille, me fecit micti in ignem.
 &emsp;In orto ubi tale semen applicatur;
 
 44 E trane (8) la brigata, in che disperse\
-&emsp;Cascia (9) d'Asciano la vigna e la gran\
-&emsp;E l'Abbaglato suo senno proferse. [fronda,
+&emsp;Cascia (9) d'Asciano la vigna e la gran fronda,\
+&emsp;E l'Abbaglato suo senno proferse.
 
 44 Et excipe sotietatem, in qua dispersit\
 &emsp;Caccia de Asciano vineam et grandem fundum,\

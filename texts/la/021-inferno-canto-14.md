@@ -276,12 +276,12 @@ In Thessalia, in una contrata, que vocatur Flegra, fuit facta magna pugna gigant
 &emsp;Sed sicut ego dixi ad eum, sui despectus\
 &emsp;Sunt pectori suo satis debita frixia.
 
-25 Hor vienmi (2) dietro, e guarda che non\
-&emsp;Ancor li piedi ne la rena arsiccia: [metti\
+25 Hor vienmi (2) dietro, e guarda che non metti\
+&emsp;Ancor li piedi ne la rena arsiccia:\
 &emsp;Ma sempre al bosco tien li piedi stretti.
 
-25 Ammodo me venias retro, et caveas tibi quod non\
-&emsp;Adhuc pedes in arena ardenti: [mictas\
+25 Ammodo me venias retro, et caveas tibi quod non mictas\
+&emsp;Adhuc pedes in arena ardenti:\
 &emsp;Sed semper ad nemus teneas pedes strictos.
 
 26 Tacendo divenimmo dove spiccia\

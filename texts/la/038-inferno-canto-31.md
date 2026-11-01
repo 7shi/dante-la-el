@@ -508,8 +508,8 @@ Non facias nos ire ad Titium, aut ad Typhum. Hi sunt duo alii Gigantes. Hic pote
 &emsp;Di vederlo chinar, e fu tal hora\
 &emsp;Ch'avrei voluto gir per altra strada:
 
-47 Talis apparuit Antheus michi qui stabam ad respi-\
-&emsp;Ut viderem eum inclinare, et fuit talis hora [ciendum\
+47 Talis apparuit Antheus michi qui stabam ad respiciendum\
+&emsp;Ut viderem eum inclinare, et fuit talis hora\
 &emsp;Quod ego voluissem ire per aliam viam:
 
 48 Ma lievemente al fondo, che divora\
