@@ -18,8 +18,8 @@ by marking where it disagrees with GLM-OCR, so a word that both read alike and w
 not marked (0085 `terret` for printed `territ`, 0197 `circuleto` for `circulecto`, both
 corrected outside the markup). The two checks below look for them (decided with the user, 2026-11-01).
 
-Check 1 is under way, batch by batch (results under the check): batches 1–2
-(`0079`–`0232`) are decided. **Next**: check 1, batch 3 (`0233`–`0348`).
+Check 1 is under way, batch by batch (results under the check): batches 1–3
+(`0079`–`0348`) are decided. **Next**: check 1, batch 4 (`0349`–`0478`).
 
 ## Checks
 
@@ -85,6 +85,7 @@ candidate or elsewhere in the line, is decided in the image.
 |-------|-------|-----------:|--------:|-------|
 | 1 | 0079–0114 | 33 | 0 | outside the candidates: 0095 `omme` → `omne` |
 | 2 | 0115–0232 | 107 | 1 (0124 `altera` → `altèra`) | outside: 0123 `Mihi` → `Michi` (verse), 0190 `ccensa` → `censa`, 0205 `aranzare` → `avanzare` (listed as a misprint before; the image shows an italic `v`) |
+| 3 | 0233–0348 | 131 | 0 | outside: 0249 `comprehendisti` → `comprehendidi` (verse; the lemma has it too) |
 
 ### Italics (after check 1; decided with the user, 2026-11-01)
 
@@ -249,6 +250,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0188 | 62 | `honeste, honorabilis:` | `honorabiliter` | The sense (adverbs) needs `honorabiliter`. |
 | 0204 | 41 | `te volre:` | `volve` | Italic lemma (Latin verse `te volve`); `r` for `v`, as 0154. |
 | 0208 | 58 | `quod lucus,` | `locus` | The sense needs `locus`. |
+| 0249 | 52, 101–102 | `comprehendidi` | `comprehendisti` | Latin verse 16 and its lemma (`comprehen-` / `didi`) alike. |
 | 0189 | 54–55 | `re-` / `spondidi sibi` | `respondi` | Italic lemma; the Latin verse 17 has `Respondi`. |
 | 0190 | 78–79 | `rea-` / `censa` | `reaccensa` | Commentary, quoting the Latin verse 27 (`reaccensa`); one `c`. |
 | 0131 | 53 | `qui fuit iustus` / `index,` | `iudex` | A turned `u`; GLM-OCR and Tesseract read `index` too. |
