@@ -231,7 +231,7 @@ Et quando arcus ardentis affectus (arcus, idest sermo) fuit ita fogatus, idest e
 &emsp;Di dolce desiar, s'àdempia meglo,
 
 22 Sed ad hoc ut sacer amor, in quo ego vigilo\
-&emsp;Contemplando perpeduo, et qui me assidet, idest me\
+&emsp;Cum perpetua visione, et qui me sitibundum facit\
 &emsp;De dulci desiderio, adimpleatur magis,
 
 23 La voce tua sicura, balda e lieta\

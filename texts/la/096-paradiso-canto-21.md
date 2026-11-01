@@ -446,7 +446,7 @@ Reddere solebat (hic conqueritur de suo monasterio, quod solebat esse sanctum, m
 
 41 In illo loco fui ego Petrus Damianus;\
 &emsp;Et Petrus Peccator fui in domo\
-&emsp;Nostre Domine super litore Adriano.
+&emsp;Nostre Domine super lictore Adriano.
 
 42 Poca vita mortal m'era rimasa,\
 &emsp;Quando fui chiesto e tratto a quel cappello,\
