@@ -18,9 +18,8 @@ by marking where it disagrees with GLM-OCR, so a word that both read alike and w
 not marked (0085 `terret` for printed `territ`, 0197 `circuleto` for `circulecto`, both
 corrected outside the markup). The two checks below look for them (decided with the user, 2026-11-01).
 
-Check 1 is under way, batch by batch (results under the check): batches 1–4
-(`0079`–`0478`) are decided; batch 5 (`0479`–`0608`) is with la-el-agy. **Next**: compare
-its readings ("Per batch", step 4).
+Check 1 is under way, batch by batch (results under the check): batches 1–5
+(`0079`–`0608`) are decided. **Next**: batch 6 (`0609`–`0740`), from "Per batch", step 1.
 
 ## Checks
 
@@ -77,8 +76,7 @@ the run goes batch by batch:
 
 | Batch | Pages | Candidates |
 |-------|-------|-----------:|
-| 5 | 0479–0608 | 135 |
-| 6 | 0609–0740 | 142 |
+| 6 | 0609–0740 | 140 |
 | 7 | 0741–0870 | 149 |
 | 8 | 0871–1010 | 135 |
 | 9 | 1011–1140 | 155 |
@@ -129,6 +127,7 @@ the run goes batch by batch:
 | 2 | 0115–0232 | 107 | 1 (0124 `altera` → `altèra`) | outside: 0123 `Mihi` → `Michi` (verse), 0190 `ccensa` → `censa`, 0205 `aranzare` → `avanzare` (listed as a misprint before; the image shows an italic `v`) |
 | 3 | 0233–0348 | 131 | 0 | outside: 0249 `comprehendisti` → `comprehendidi` (verse; the lemma has it too) |
 | 4 | 0349–0478 | 148 | 1 (0444 `de-`/`scrivere` → `scribere`) | outside: 14 lines, most in the Latin verse (0368 `Insìmul`, `faciei`; 0406 `Sciâs`; 0425 `emictiunt`; 0426, 0471 `mihi` for `michi`; 0432 `Priùs`; 0436 `subcinctum`; 0458 `Capraia` for `Capra[ra]`; 0471 `Priùsquam`), 0412 `Così` ×2, 0446 `molles,` (for `mol-`/`les,`) and an added `Et`. The Latin accents not printed led to a search of all pages for accented Latin words: 0461 `Ianuâ`, 0471:103 `Priùsquam`, 0640 `Nimìs` corrected; 0546 `Deûm` is printed |
+| 5 | 0479–0608 | 135 | 5 (0521 `per-`/`mitteret` → `micteret`; 0547 `summítas`; 0568 `discerneham`; 0575 `Tilonis` → `Titonis`; 0603 `Egu-`/`bii,` → `Eugubii,` on one line) | outside: 15 lines, most in the Latin verse (0490 `Aeris` → `Aieris`; 0492, 0526 `societate` → `sotietate`; 0493 `ream,` → `ream;`; 0496, 0569 `mihi` → `michi`; 0506 `Quicunque` → `Quicumque`; 0540 `aëre` → `aiere`; 0541 `disfécit`; 0582 `plantas` → `planctas` ×2; 0591 `timetúr`; 0592 `procedebat` → `precedebat`; 0595 `ride[n]t` → `vide[n]t`). The batch 4 accent search had missed acute accents: a search for them corrected 11 more (0490 `devenít`, `habuít`; 0541:33 `aëre`; 0591:55 `imprimítur`; 0597 `despiciébat`; 0614 `martyríi`; 0662 `Mísit`; 0719 `rumorís`; 0734 `Redít`, `redít`; 0742 `utiliús`); 0926 `quómodo` is printed |
 
 ### Italics (after check 1; decided with the user, 2026-11-01)
 
@@ -296,6 +295,8 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0249 | 52, 101–102 | `comprehendidi` | `comprehendisti` | Latin verse 16 and its lemma (`comprehen-` / `didi`) alike. |
 | 0189 | 54–55 | `re-` / `spondidi sibi` | `respondi` | Italic lemma; the Latin verse 17 has `Respondi`. |
 | 0190 | 78–79 | `rea-` / `censa` | `reaccensa` | Commentary, quoting the Latin verse 27 (`reaccensa`); one `c`. |
+| 0525 | 28 | `ad ventrum lista` | `centrum` | Latin verse 10; an italic `v` (rounded bottom); the commentary has `centrum`. |
+| 0526 | 48 | `in sotictate` | `sotietate` | Commentary; the image shows `c` (no bar); the verse has `sotietate`. |
 | 0131 | 53 | `qui fuit iustus` / `index,` | `iudex` | A turned `u`; GLM-OCR and Tesseract read `index` too. |
 | 0181 | 106 | `heretici iu archis` | `in` | A turned `n`. |
 | 0111 | 67 | `Racto:` | `Rapto` | Italic lemma of the Italian verse 34 (`Rapto che 'nteser`); no descender of `p`. Cf. 0107 `racta`: possibly the edition's spelling. |
