@@ -21,7 +21,7 @@ In isto decimotertio capitulo, quod incipit: Ymaginetur qui bene intelligere cup
 &emsp;Che soverchia dell'arte ogni compage:
 
 2 Quindecim stellas que in diversis plagis\
-&emsp;Cœlum avivant de tanto sereno,\
+&emsp;Celum avivant de tanto sereno,\
 &emsp;Quod aeris superant omnem compositionem:
 
 3 Ymagini quel carro a cui el seno\

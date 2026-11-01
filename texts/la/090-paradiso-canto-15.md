@@ -247,7 +247,7 @@ Et quando arcus ardentis affectus (arcus, idest sermo) fuit ita fogatus, idest e
 &emsp;Che fece crescer l'ali al voler mio.
 
 24 Ego converti me ad Beatricem, et illa ad Deum,\
-&emsp;Priusquam ego loquerer, et arrosoruit unum\
+&emsp;Priusquam ego loquerer, et arrosonuit unum cennum\
 &emsp;Quod fecit crescere alas velle meo.
 
 intellectu, prima res que per me fuit intellecta: Benedictus tu, fuit, trinus et unus, scilicet qui es, qui in meo sanguine, alias semine, es tantum curialis. Ecce regratiatio quam facit ista anima.

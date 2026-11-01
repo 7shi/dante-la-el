@@ -494,7 +494,7 @@ Fides et innocentia sunt reperte solum in parvulis, quia non plus cognoscunt don
 &emsp;La madre sua, che, con loquela intera,\
 &emsp;Desia da poi di vederla sepolta.
 
-45 Et talis, balbutiendo, amat & auscultat\
+45 Et talis, balbutiendo, amat et auscultat\
 &emsp;Matrem suam, qui, cum loquela integra,\
 &emsp;Desiderat postea videre illam sepultam.
 

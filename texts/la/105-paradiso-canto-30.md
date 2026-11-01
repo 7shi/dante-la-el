@@ -439,7 +439,7 @@ Iterum hic respondetur une tacite questioni, seu obiectioni. Posset quis dicere:
 &emsp;Odor di lode al Sol che sempre verna,
 
 42 In fulvo rose sempiterne,\
-&emsp;Que per gradus dilatatur et redolel,\
+&emsp;Que per gradus dilatatur et redolet,\
 &emsp;Odor fit ad Solem qui semper vernat,
 
 43 Qual (1) è colui che tace e dicer vole,\
