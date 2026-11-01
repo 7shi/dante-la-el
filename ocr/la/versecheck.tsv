@@ -89,3 +89,229 @@ page	line	form	decision	note
 0471	40	se	printed	se: Italian me, expect me
 0472	23	Sic supra	printed	Sic supra: Italian Così socto sopra, omits subtus
 0472	24	A sero ad mane	printed	A sero ad mane: Italian Da mane a sera, expect A mane ad sero
+0492	39	Exeundo	misread	was Excundo
+0493	43	cara	printed	unadapted Italian form / typo: cara for clara (Italian chiara)
+0496	32	durities	printed	mistranslation: durities (hardness, as if Italian durezza) for adorezza (morning breeze)
+0496	35	perpendi de	misread	was perpende di
+0501	37	orientem	printed	sense inversion: orientem (east) for ponente (west), plus Italianism sopra
+0502	34	lontana	printed	unadapted Italian word: lontana left in Latin text
+0505	45	Si[c]	printed	editorial bracket: Si[c] supplied by editor
+0511	27	relarg[a]vit	printed	editorial bracket: relarg[a]vit emended by editor
+0516	26	fixum	printed	wrong word/cognate: fixum (fixed) for fesso (cleft/split, expect fissum or scissum)
+0516	29	vestram	printed	person error: vestram (your) for questa (this)
+0517	26	culpo	printed	unadapted Italian word: culpo for colpo / ictus
+0518	50	stare in deventum	printed	garbled/corrupt phrase: stare in deventum for esto divieto
+0525	28	ventrum	printed	wrong cognate/corrupt: ventrum (belly) for centro (center)
+0527	39	[dicta est a te]	printed	editorial bracket: [dicta est a te] supplied by editor
+0530	11	ego tango	printed	person error: ego tango (1st person active) for è tocho (3rd person passive)
+0530	12	quiu	misprint	for quia
+0535	31	s'impispiliat	printed	Italianism: Italian clitic s' attached to hybrid verb s'impispiliat
+0535	40	de	printed	grammatical error: preposition de governing accusative remissionem
+0538	21	paiesem	printed	Italianism: paiesem (Italian paiese with Latin accusative -m)
+0538	31	[quam]	printed	editorial bracket: [quam] supplied by editor
+0540	40	Fugiendo	misread	was Fugiendos
+0541	48	Sapia	printed	proper name error: Sapia for la Pia (Pia de' Tolomei confused with Sapia)
+0546	38	[hic]	printed	editorial bracket: [hic] supplied by editor
+0548	57	proras	printed	wrong word/cognate: proras (prows) for prode (shores)
+0549	34	[posuisti]	printed	editorial bracket: [posuisti] supplied by editor
+0551	27	Metellus	printed	proper name error: Metellus for Marcel (Marcellus confused with Metellus)
+0556	15	accollectiones	misread	was accol lectiones, also in the commentary 0556:26
+0558	45	soggiorno	printed	unadapted Italian word: soggiorno in Latin text
+0559	42	in fiancum [lache]	printed	Italianism and editorial bracket: in fiancum [lache]
+0559	44	biaccha	printed	unadapted Italian word: biaccha in Latin text
+0560	37	audivi	printed	sense divergence: audivi (heard) for vidi (saw)
+0560	42	balzo	printed	unadapted Italian word: balzo in Latin text
+0560	44	accolti	printed	unadapted Italian word: accolti in Latin text
+0560	53	ascendit in Albiam	printed	proper name / mistranslation: ascendit in Albiam for Molta in Albia (river Moldau misread as verb ascendit)
+0563	16	melior	printed	sense inversion: melior (better) for minor (smaller/less)
+0568	36	deviabat	misread	was deviahat
+0568	46	videre nos	printed	person error: videre nos (to see us, 1st pl) for vedervi (to see you, 2nd pl)
+0568	47	descendimus	printed	person error: descendimus (1st pl) for scendesse (3rd sg / 1st sg)
+0569	34	[s]errabatur	printed	editorial bracket: [s]errabatur emended by editor
+0569	38	salu[t]atio	printed	editorial bracket: salu[t]atio emended by editor
+0569	47	se volvit	misread	was voluit; Italian si volse
+0569	53	gratum	printed	wrong word: gratum (pleasing) for guado (ford)
+0571	31	sine mensura	printed	direct negation / contradiction: sine mensura (without measure) for misuratamente (measuredly)
+0571	34	ostello	printed	wrong word/cognate: ostello (inn) for stelo (stem/axle)
+0571	35	orsum	printed	garbled word: orsum for sursum
+0571	41	Dum ego loquebar	printed	person error: Dum ego loquebar (1st sg) for Com'el parlava (3rd sg)
+0571	43	respi[ce]rem	printed	editorial bracket: respi[ce]rem emended by editor
+0571	47	striscia	printed	unadapted Italian word: striscia in Latin text
+0572	26	[et]	printed	editorial bracket: [et] supplied by editor
+0572	28	voltam	printed	Italianism: voltam for turn (Latin dederunt voltam for diedero volta)
+0572	32	loquela	printed	wrong word: loquela (speech) for guardare (looking)
+0573	30	Fama[m]	printed	editorial bracket: Fama[m] emended by editor
+0577	11	balzo	printed	unadapted Italian word: balzo in Latin text
+0578	26	[habebam]	printed	editorial bracket: [habebam] supplied by editor
+0578	34	[est]	printed	editorial bracket: [est] supplied by editor
+0580	48	Permic[ti]te	printed	editorial bracket: Permic[ti]te emended by editor
+0580	59	cambi[a]vi	printed	editorial bracket: cambi[a]vi emended by editor
+0580	60	balzo	printed	unadapted Italian word: balzo in Latin text
+0581	28	rincalzo	printed	unadapted Italian word: rincalzo in Latin text
+0582	35	acorta	printed	unadapted Italian form: acorta in Latin text
+0582	36	Respondit	misread	was Respondiit
+0582	38	avanzet	printed	Italianism: hybrid verb avanzet for Italian avanzi
+0583	24	Quousque	printed	mistranslation: Quousque (until) for Quandunque (whenever)
+0584	27	clause	printed	wrong word: clause (closed) for sacrata (sacred)
+0590	45	Ante me	printed	person error: Ante me (before me, 1st sg) for Dinanz'a noi (before us, 1st pl)
+0593	50	te expecta	printed	person error: te expecta (awaits you, 2nd pers) for m'aspecta (awaits me, 1st pers)
+0593	54	[Et illa:]	printed	editorial bracket: [Et illa:] supplied by editor
+0594	34	altos	printed	wrong word: altos (high) for altri (other)
+0595	30	se picchiat	printed	Italianism: hybrid verb se picchiat in Latin text
+0595	44	vide[n]t	printed	editorial bracket: vide[n]t emended by editor
+0603	30	pennellegiat	printed	Italianism: hybrid verb pennellegiat in Latin text
+0603	35	fio	printed	unadapted Italian word: fio in Latin text
+0605	36	timorem	printed	wrong word: timorem (fear) for tumor (swelling/pride)
+0605	40	qui[a]	misread	was quifa
+0606	19	cum	misprint	for eum; Italian lui
+0606	25	Ipse	printed	wrong word: Ipse (he) for E lì (and there)
+0611	43	sursum de celo ad inf[e]ra	printed	sense reversal and bracket: sursum de celo ad inf[e]ra for giù dal cielo
+0614	18	sagiptarunt	printed	mistranslation: sagiptarunt (shot arrows) for si gittaro (threw themselves)
+0615	47	[diei]	printed	editorial bracket: [diei] supplied by editor
+0616	43	tempus	printed	wrong word: tempus (time/weather) for vento (wind)
+0617	47	Tunc	misread	was Tune, also in the commentary 0617:99 and in 0217, 0383, 0537, 0719, 0729, 1185
+0624	25	[sentiti]	printed	editorial bracket: [sentiti] supplied by editor
+0624	38	[sunt]	printed	editorial bracket: [sunt] supplied by editor
+0624	41	ymaginationem	misread	runover was [nationem],
+0625	33	[prius]	printed	editorial bracket: [prius] supplied by editor
+0626	33	[sonum]	printed	editorial bracket: [sonum] supplied by editor
+0626	55	nostrum	printed	person error: nostrum (our, 1st pl) for vostro (your, 2nd pl)
+0628	35	[ibi]	printed	editorial bracket: [ibi] supplied by editor
+0632	14	volum	printed	garbled form: volum for volo (expect volatum)
+0634	36	sciugat	misread	was s[c]iugat; the commentary 0634:103 prints [s]ciugat
+0636	29	Desce[n]sa	printed	editorial bracket: Desce[n]sa emended by editor
+0636	31	timent	printed	wrong word: timent (fear) for trovan (find)
+0637	31	[ad]	printed	editorial bracket: [ad] supplied by editor
+0637	48	Vidisses	misread	was Vidissem; Italian Visto m'haresti
+0637	53	[de]	printed	editorial bracket: [de] supplied by editor
+0639	30	reminiscor	misread	was reminifcor, also in the commentary 0639:58
+0639	40	tua	printed	person error: tua (your, 2nd pers) for la mia (my, 1st pers)
+0639	44	se non immiscent	printed	sense inversion: negation added (se non immiscent) for affirmative più s'impigla
+0640	29	delectat	misread	runover [delectat was missing
+0641	33	camminus	printed	mistranslation/cognate error: camminus (road) for camo (bit/halter)
+0642	14	respicit	misread	runover was [spieit:
+0647	31	solecchium	printed	Italianism: hybrid word solecchium in Latin text
+0647	34	[radius]	printed	editorial bracket: [radius] supplied by editor
+0647	35	parecchium	printed	Italianism: hybrid word parecchium in Latin text
+0647	38	Si[cut]	printed	editorial bracket: Si[cut] supplied by editor
+0651	39	introytu	misread	was introyu
+0651	43	sic[ut]	printed	editorial bracket: sic[ut] supplied by editor
+0651	55	Respondere	misread	was Respondera
+0652	22	ad eum	printed	pronoun/person error: ad eum (to him) for a sè (reciprocal/to itself)
+0659	29	Angelum Dei	printed	mistranslation: Angelum Dei (angel of God) for Agnel di Dio (lamb of God) and lavat for leva
+0660	24	Illuc	printed	wrong word: Illuc (thither) for Quei (he/those)
+0660	38	Loquutio	printed	wrong word: Loquutio (speaking) for L'udir (hearing)
+0662	26	in eum	printed	garbled/corrupt form: in eum for in hui / in uhi
+0664	33	pargolezzat	printed	Italianism: hybrid verb pargolezzat in Latin text
+0664	45	ungulas fixas	printed	wrong word: ungulas fixas (fixed hooves) for unghie fesse (cloven hooves; expect fissas)
+0667	34	locutus est	printed	wrong word: locutus est (spoke) for tornò (turned back)
+0671	33	Impietatis	printed	wrong word: Impietatis (impiety) for ira (wrath)
+0671	35	In[tra]	printed	editorial bracket: In[tra] emended by editor
+0673	38	mea virtus	printed	person error: mea virtus (my power, 1st pers) for la sua virtù (its power, 3rd pers)
+0674	44	[nos]	printed	editorial bracket: [nos] supplied by editor
+0675	25	a[d] piagia[m]	printed	editorial bracket and Italianism: a[d] piagia[m] for alla piaggia
+0676	43	virtu[ti]s	printed	editorial bracket: virtu[ti]s emended by editor
+0678	19	nos trahit	printed	person error: nos trahit (draws us, 1st pl) for vi tira (draws you, 2nd pl)
+0684	35	placere	printed	mistranslation: placere (to please) for piegar (to bend/incline)
+0684	40	[in]	printed	editorial bracket: [in] supplied by editor
+0685	47	in nobis	printed	person error: in nobis (in us, 1st pl) for in voi (in you, 2nd pl)
+0686	17	mortalitatem	printed	wrong word: mortalitatem (mortality) for moralità (morality)
+0687	31	che tutto s'arda	printed	omission: che tutto s'arda omitted in Latin translation
+0689	34	tenet	printed	person error: tenet (3rd sg) for tieni (2nd sg)
+0696	40	dicebam	printed	person error: dicebam (1st sg) for dicea (3rd sg)
+0696	42	reprehendebat	printed	wrong word: reprehendebat (reproved) for prendea (took/caught)
+0698	41	clausus	printed	sense inversion: clausus (closed) for dischiuso (opened)
+0699	51	veniendo	printed	wrong word: veniendo (coming) for vivendo (living)
+0701	34	suspensi	printed	wrong word: suspensi (suspended/hanging) for distesi (stretched out)
+0711	23	[leve]	printed	editorial bracket: [leve] supplied by editor
+0712	22	facere michi	printed	person error: facere michi (do to me) for farne (do of it / to us)
+0715	28	[ad]	printed	editorial bracket: [ad] supplied by editor
+0720	15	condolebam	printed	wrong word: condolebam (grieving) for conduceami (leading me)
+0723	41	planctas	misread	was planetas; Italian piante; ct for t, as 0582 planctas
+0723	49	[im]munditia	printed	editorial bracket: [im]munditia emended by editor
+0724	26	sed postea dimictit desiderium	printed	negation missing / sense reversed: sed postea dimictit desiderium for ma non la lassa el talento
+0724	35	dixit ei	printed	person error: dixit ei (said to him) for ne disse (said to us)
+0725	24	[cum]	printed	editorial bracket: [cum] supplied by editor
+0726	43	nec plus	printed	mistranslation: nec plus (nor more) for ne' più (in the most)
+0727	34	intelligo[r]	printed	editorial bracket: intelligo[r] emended by editor
+0731	38	Et sicut amicus ammodo michi ratiocineris	printed	unrelated line: Et sicut amicus ammodo michi ratiocineris for La pura fede in tucto mi scagiona
+0733	33	O[r] qui	printed	editorial bracket and word choice: O[r] qui for Or quando
+0735	34	antiquus	printed	wrong word: antiquus (ancient) for amico (friend)
+0735	42	memorias	printed	wrong word: memorias (memories) for nutrici (nurses)
+0736	35	[L]angiam	printed	editorial bracket: [L]angiam emended by editor
+0736	42	[ad]	printed	editorial bracket: [ad] supplied by editor
+0737	38	deorsum	printed	sense inversion: deorsum (downward) for suso (upward)
+0738	15	[nectar]	printed	editorial bracket: [nectar] supplied by editor
+0743	31	[Domine]	printed	editorial bracket: [Domine] supplied by editor
+0743	35	[Forsan]	printed	editorial bracket: [Forsan] supplied by editor
+0743	44	oculis	printed	wrong word: oculis (eyes) for ossa (bones)
+0745	41	ex[s]i[cca]tam	printed	editorial bracket: ex[s]i[cca]tam emended by editor
+0745	45	domine	printed	wrong word: domine (ladies) for anime (souls)
+0746	35	sfogliat	printed	Italianism: hybrid verb sfogliat in Latin text
+0746	46	sprazzo	printed	unadapted Italian word: sprazzo in Latin text
+0746	57	[fuit]	printed	editorial bracket: [fuit] supplied by editor
+0748	49	monstravi	printed	person error / typo: monstravi (1st sg) for mostrò (3rd sg; expect monstravit)
+0748	52	[vera]	printed	editorial bracket: [vera] supplied by editor
+0749	23	(ostendi)	printed	editorial parentheses: (ostendi) added in Latin text
+0754	34	seccha	printed	unadapted Italian word: seccha in Latin text
+0754	40	gens ucchat	printed	proper name corrupted: gens ucchat for Gentucca
+0756	32	e vanno in filo	printed	omission: e vanno in filo omitted in Latin translation
+0756	45	videndum	printed	wrong word: videndum (seeing) for viver (living)
+0759	31	nos	printed	pronoun for negation: nos (we/us) for non (not)
+0759	39	ite	printed	mood change: ite (imperative) for andate (indicative)
+0760	21	umbram	printed	wrong word: umbram (shade) for orezza (breeze)
+0765	31	[Derelinquere nidum, et infra eam calat];	printed	editorial bracket: entire line [Derelinquere nidum, et infra eam calat]; bracketed by editor
+0766	22	vizzum	printed	unadapted Italian word: vizzum in Latin text
+0767	46	planete	printed	wrong cognate: planete (planets) for pianta (plant)
+0768	18	[est]	printed	editorial bracket: [est] supplied by editor
+0768	24	animali	printed	wrong word: animali (animal) for anima (soul)
+0770	52	se figurat	printed	sense inversion: se figurat (shapes itself) for si sfigura (loses shape / disfigures)
+0772	28	donne	printed	unadapted Italian word: donne in Latin text
+0772	33	passibus	printed	wrong word: passibus (steps/paces) for pasti (meals/foods)
+0772	34	plaga de sezzo	printed	Italianism: plaga de sezzo in Latin text
+0778	44	[primus]	printed	editorial bracket: [primus] supplied by editor
+0779	42	Donna	printed	unadapted Italian word: Donna and person error: michi (to me) for ne (for us)
+0780	40	[quod]	printed	editorial bracket: [quod] supplied by editor
+0782	39	loquela	printed	wrong word: loquela (speech) for guardar (looking)
+0782	48	credo	printed	person error: credo (1st sg) for credon (3rd pl)
+0784	15	Raynaldus	printed	proper name error: Raynaldus (Rinaldo) for Arnalt (Arnaut Daniel)
+0793	30	altiores	printed	wrong word: altiores (higher) for chiare (bright/clear)
+0793	31	admirando	printed	wrong word/cognate: admirando (wondering/admiring) for ruminando (ruminating/chewing cud)
+0793	45	almiraglio	printed	Italianism: hybrid word almiraglio in Latin text
+0795	23	magis longinqui	printed	sense inversion: magis longinqui (more distant) for men lontani (less distant)
+0796	44	[ad]	printed	editorial bracket: [ad] supplied by editor
+0803	17	[quod]	printed	editorial bracket: [quod] supplied by editor
+0804	29	pinte	printed	garbled word / typo: pinte for prompte (Italian pronte)
+0807	24	Nunquam	printed	wrong word: Nunquam (never) for Ma (but)
+0807	29	[quia]	printed	editorial bracket: [quia] supplied by editor
+0807	36	dicere	printed	wrong word: dicere (to speak) for udir (to hear)
+0810	56	signaverunt	printed	wrong word: signaverunt (marked/signed) for sognaro (dreamt)
+0816	32	Sensisset	printed	person error: Sensisset (3rd sg) for Havrei... Sentite (1st sg)
+0816	39	vel sitim	printed	addition: vel sitim (or thirst) added in Latin text
+0818	32	[ad]	printed	editorial bracket: [ad] supplied by editor
+0819	49	cum vento	printed	addition: cum vento (with wind) added in Latin text
+0820	34	findendo	printed	wrong word and bracket: findendo (splitting) for offendendo (offending) and facieba[n]t
+0822	34	longissimum	printed	sense inversion: longissimum (very far) for poco lontan (not far)
+0828	39	[quod]	printed	editorial bracket: [quod] supplied by editor
+0828	43	sensi[t]	printed	editorial bracket: sensi[t] emended by editor
+0829	50	stratam	printed	wrong cognate: stratam (road, as if strada) for spada (sword)
+0830	39	distulisti	printed	wrong word: distulisti (delayed) for degnasti (deigned)
+0831	27	[quod]	printed	editorial bracket: [quod] supplied by editor
+0841	31	[Quod]quieverunt	printed	editorial bracket: [Quod]quieverunt emended by editor
+0842	42	dicebam	printed	person error: dicebam (1st sg) for dicea (3rd sg)
+0842	50	subrisit	printed	wrong word and bracket: subrisit (smiled) for sommerse (submerged), plus editorial bracket [de]
+0849	35	advolutum	printed	mistranslation/garbled: advolutum (wrapped) for al volto (facing)
+0850	41	[In] nemoribus ipsorum propter multitudinem	printed	editorial bracket and wrong word: [In] nemoribus ipsorum propter multitudinem for Ne' bolchi loro per altezza
+0854	37	improperium	printed	mistranslation: improperium (reproach) for in pro (for the benefit of)
+0856	43	[In]vivaci	printed	editorial bracket: [In]vivaci supplied by editor
+0857	23	sedere	printed	sense inversion: sedere (sitting) for dricto (standing upright)
+0857	30	sol[um]	printed	editorial bracket: sol[um] emended by editor
+0861	42	videbatur quod non esset	printed	person change: impersonal 3rd sg videbatur quod non esset for 1st sg non credo che fossi
+0861	56	ad ipsam	printed	person error: ad ipsam (to her) for a me (to me)
+0863	32	scis memor	printed	typo/OCR: scis memor for sis memor
+0864	44	di palma	printed	omission: di palma (palm-girt) omitted in Latin (burdonus cinctus for bordon di palma cincto)
+0865	36	[dixit]	printed	editorial bracket and addition: [dixit] supplied by editor, plus antiquas added
+0866	35	visioni	printed	wrong word: visioni (sight/vision) for vogla (will/desire)
+0866	44	Supra supra	printed	word duplication / typo: Supra supra
+0866	52	Quod hic	printed	garbled connector: Quod hic for E qui
+0866	55	Acta	printed	wrong word: Acta (done) for Decte (said/told)
