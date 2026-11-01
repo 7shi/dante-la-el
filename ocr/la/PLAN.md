@@ -24,8 +24,8 @@ more errors found in the same lines and by the searches they led to (DONE.md, "C
 
 1. **Verse check**: first the text only (step 0): la-el-agy lists the Latin lines whose
    sense clearly parts from the Italian, and they are decided in the image (Inferno
-   and Purgatorio done; Paradiso next); then, if the user decides it is still needed,
-   every line read again from the image (steps 1–4), as check 1's batches.
+   all three canticas done); next, the user decides whether every line is still read
+   again from the image (steps 1–4), as check 1's batches, and for which lines.
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
    `ocr/la` (steps 3–6).
@@ -122,8 +122,21 @@ reads it).
      were letters (`c`/`e`, `h`/`b`, `f`/`s`), which made a non-word; check 1's
      Purgatorio verse errors were again spellings and accents, but for 0592
      `procedebat` and 0595 `ride[n]t`, fixed before the pairs were written.
-   - **Paradiso** (076–108): next, on the user's signal; the task names the runover
-     words as settled.
+   - **Paradiso** (076–108, 4,758 lines; done): 167 lines listed. 4 misread: 1026
+     `Cœlum` → `Celum`; 1053 `arrosoruit` → `arrosonuit`, and the runover `[cennum` was
+     missing (the commentary 1054 has `arrosonuit`); 1194 `&` → `et`; 1229 `redolel` →
+     `redolet`. No misprint; 0956 `fuitvel` is set without a space. 163 printed so (the
+     Italian words left in the Latin: `bieci`, `gaggiorum`, `vivagnis`, `soggiornum`;
+     `adymat`, `badalucchem`, `scioliis`, `dicenduum` as printed). 21 of the notes named a
+     word that is in neither column (`Dante nos` for `Dinanzi a noi`, `amovi`,
+     `impingit`): la-el-agy's notes invented them, and those lines were found printed so.
+     Check 1's Paradiso verse errors (1053's whole line, `spendorum`, `gyrarit`) were
+     fixed before the pairs were written, so whether the list would have found them is
+     not known.
+   - **Over the three canticas**: 25 misread among 503 listed lines (14,233 lines), most
+     of them letters that made a non-word (`Excundo`, `redolel`) or a word of another
+     sense (`ridet` for `videt`); 6 misprints. The spellings and accents that were most
+     of check 1's verse errors leave the sense alone and are not found by step 0.
 1. **Script** `ocr/la_versecheck.py FIRST LAST --readings DIR [-o OUT]`: for each page with
    verse, the Latin block of `ocr/la` (as `la_lemmacheck.py` finds it) against the
    reader's `DIR/PAGE.txt`, line by line (aligned, so that a line left out or added shows
