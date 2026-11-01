@@ -114,7 +114,7 @@ De! mictas, idest reponas, meo velle (dativi casus) cito compensum, scilicet com
 
 9 In illa parte terre prave\
 &emsp;Ytalice, que sedet inter Rivum Altum\
-&emsp;Et fontes Brentae et Piave,
+&emsp;Et fontes Brente et Piave,
 
 10 Si leva un colle, e non surge molt'alto,\
 &emsp;Là onde scese già una facella,\
@@ -250,7 +250,7 @@ Modo tangit Cunitia aliud malum, quod evenit super Tervisio, scilicet mortem dom
 
 Nunc tangit aliud malum, commissum per episcopum Feltrensem. Planget Feltrum (idest illa civitas sic dicta, quia multa mala passa est illa terra propter hoc) adhuc diffaltam, idest defectum, impii sui pastoris, qui erit terribilis, idest gravis, sive incomportabilis, ita quod pro simili, scilicet crimine, non intratum fuit in Malta; idest, nullus sacerdos iustius fuit reclusus in Malta, sicut deberet poni iste pastor Feltrensis.
 
-Nimis esset larga biguncia, idest vas ligneum ad vinum portandum, que reciperet sanguinem Ferrariensem, idest hominum de Ferraria, et fessus qui illum, scilicet sanguinem, ponderaret ad unciam ad unciam, idest unciatim (adverbialiter), quem, scilicet sanguinem, donabit iste presbiter curialis (ironica loquutio), ut monstraret se partialem scilicet de parte Ecclesie; et talia dona conformia erunt vite, idest modo vivendi, regionis, scilicet illius, vel contrate.
+Nimis esset larga biguncia, idest vas ligneum ad vinum portandum, que reciperet sanguinem ferrariensem, idest hominum de Ferraria, et fessus qui illum, scilicet sanguinem, ponderaret ad unciam ad unciam, idest unciatim (adverbialiter), quem, scilicet sanguinem, donabit iste presbiter curialis (ironica loquutio), ut monstraret se partialem, scilicet de parte Ecclesie; et talia dona conformia erunt vite, idest modo vivendi, regionis, scilicet illius, vel contrate.
 
 Posset nam quis dicere: Domina Cunitia, unde scis tu hec, que tu narras ita audacter? Respondit: Superius, scilicet in celo empyreo, sunt specula, vos dicitis Tronos (sunt unus ordo angelorum), unde, idest a quibus, refulget nobis Deus iudicans (officium Tronorum est iudicare), ita quod isti sermones nobis apparent boni; idest, bonum est quod tales sermones dicantur ad correctionem hominum.
 
