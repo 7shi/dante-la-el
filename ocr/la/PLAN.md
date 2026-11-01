@@ -18,8 +18,8 @@ by marking where it disagrees with GLM-OCR, so a word that both read alike and w
 not marked (0085 `terret` for printed `territ`, 0197 `circuleto` for `circulecto`, both
 corrected outside the markup). The two checks below look for them (decided with the user, 2026-11-01).
 
-Check 1 is under way, batch by batch (results under the check): batches 1–3
-(`0079`–`0348`) are decided. **Next**: check 1, batch 4 (`0349`–`0478`).
+Check 1 is under way, batch by batch (results under the check): batches 1–4
+(`0079`–`0478`) are decided. **Next**: check 1, batch 5 (`0479`–`0608`).
 
 ## Checks
 
@@ -86,6 +86,7 @@ candidate or elsewhere in the line, is decided in the image.
 | 1 | 0079–0114 | 33 | 0 | outside the candidates: 0095 `omme` → `omne` |
 | 2 | 0115–0232 | 107 | 1 (0124 `altera` → `altèra`) | outside: 0123 `Mihi` → `Michi` (verse), 0190 `ccensa` → `censa`, 0205 `aranzare` → `avanzare` (listed as a misprint before; the image shows an italic `v`) |
 | 3 | 0233–0348 | 131 | 0 | outside: 0249 `comprehendisti` → `comprehendidi` (verse; the lemma has it too) |
+| 4 | 0349–0478 | 148 | 1 (0444 `de-`/`scrivere` → `scribere`) | outside: 14 lines, most in the Latin verse (0368 `Insìmul`, `faciei`; 0406 `Sciâs`; 0425 `emictiunt`; 0426, 0471 `mihi` for `michi`; 0432 `Priùs`; 0436 `subcinctum`; 0458 `Capraia` for `Capra[ra]`; 0471 `Priùsquam`), 0412 `Così` ×2, 0446 `molles,` (for `mol-`/`les,`) and an added `Et`. The Latin accents not printed led to a search of all pages for accented Latin words: 0461 `Ianuâ`, 0471:103 `Priùsquam`, 0640 `Nimìs` corrected; 0546 `Deûm` is printed |
 
 ### Italics (after check 1; decided with the user, 2026-11-01)
 
