@@ -54,11 +54,20 @@ page	line	form	decision	note
 0235	14	membra	printed	membra: Italian frondi, expect frondes
 0236	42	plus	printed	plus: Italian men, expect minus
 0239	50	silvam	printed	silvam: Italian rena, expect arenam
+0240	28	introytus	misread	was introyttus; verse reading
+0240	38	montanea	misread	was montana; verse reading
+0240	40	vetata.	misread	was vetusta.; verse reading
+0240	41	ellegit	misread	was elegit; verse reading
+0240	43	plangebat	misread	was plingebat; verse reading
+0241	28	tumquam	misprint	for tamquam; open u, verse reading
 0242	43	taces	printed	taces: Italian faci, expect facis
 0249	52	comprehendidi	printed	comprehendidi: garbled perfect, expect comprehendi
+0253	19	protesï	misread	was protesi; Italian verse reading
 0253	26	ad tantum sonum	printed	ad tantum sonum: Italian tanti sono, expect tanti sunt
 0259	47	prerogatiram	misprint	for prerogativam; italic r
 0260	26	solidi	printed	solidi: Italian sollo (yielding/soft), expect mollis / dissoluti
+0260	34	Fuit gradus maioris	misread	was Fuit maioris gradus; verse reading
+0261	21	bonum	misprint	for bonam (voluntatem); open u, verse reading
 0265	29	alio	printed	alio: Italian alto, expect alto
 0276	28	recolsit	printed	recolsit: non-Latin form, expect recollegit
 0278	32	clamores	printed	clamores: Italian el girar, expect gyrum / girum
@@ -77,8 +86,10 @@ page	line	form	decision	note
 0320	50	non est permissum	printed	non est permissum: Italian e fato destro, expect et fato dextro
 0328	19	vestram	printed	vestram: Italian nostra, expect nostram
 0335	16	In calorem dimicatores	printed	In calorem dimicatores: Italian Lo caldo schermidor, expect Calidus separator
+0338	14	vium	misprint	for viam; verse reading
 0340	26	esset	printed	esset: Italian S'io fussi, expect essem
 0344	40	una	printed	una: Italian tua, expect tua
+0345	17	maraviglar	misread	was maravigliar; Italian verse reading
 0358	20	frangetur	printed	frangetur: Italian feruto, expect ferietur / vulnerabitur
 0366	45	Coste	printed	Coste: Italian Le cosce, expect Coxe
 0368	41	fixa	printed	fixa: Italian fessa, expect fissa
