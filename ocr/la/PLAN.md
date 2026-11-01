@@ -16,23 +16,26 @@ The rules and conventions below are settled: apply them, do not ask again.
 What the completed method cannot see are errors that both OCRs share: `ocr/la` was proofread
 by marking where it disagrees with GLM-OCR, so a word that both read alike and wrongly is
 not marked (0085 `terret` for printed `territ`, 0197 `circuleto` for `circulecto`, both
-corrected outside the markup). The two checks below look for them (decided with the user, 2026-11-01).
+corrected outside the markup). The checks below look for them (decided with the user, 2026-11-01).
 
 Check 1 (lemmas against the verse) is done: 1,271 candidates, 9 misread, and about 80
 more errors found in the same lines and by the searches they led to (DONE.md, "Check 1").
 **Next**, in this order (each below, under "Checks"):
 
-1. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
+1. **Verse check**: every line of the Latin verse read again from the image by la-el-agy
+   and compared, as check 1's batches; write `ocr/la_versecheck.py` (step 1), then the
+   trial on batch 1 (step 2).
+2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
    `ocr/la` (steps 3–6).
-2. **Check 2**: write `ocr/la_lexcheck.py`, its recall trial on the first transcription,
+3. **Check 2**: write `ocr/la_lexcheck.py`, its recall trial on the first transcription,
    then decide the candidates in the image.
-3. **When both are done**: State, Known limits, texts/PLAN.md and texts/la/README.md, and
+4. **When all are done**: State, Known limits, texts/PLAN.md and texts/la/README.md, and
    the record moved to DONE.md.
 
 ## Checks
 
-Both checks list candidates by script, and every candidate is decided in the image
+The checks list candidates by script, and every candidate is decided in the image
 (`ocr/la_view.py word`), never from the sense or from another edition. A candidate is one of:
 
 - **misread**: `ocr/la` differs from the print; correct `ocr/la`;
@@ -40,13 +43,14 @@ Both checks list candidates by script, and every candidate is decided in the ima
   the edition (a spelling of the manuscript, a variant of the quotation) is only recorded;
 - **other**: not a reading at all (a split word, a name, Italian in the Latin); recorded.
 
-The decisions are kept in a table per check in `ocr/la/` (`lexcheck.tsv`,
-`lemmacheck.tsv`: `page line form decision note`), committed with the fixes, so that a
+The decisions are kept in a table per check in `ocr/la/` (`lemmacheck.tsv`,
+`versecheck.tsv`, `lexcheck.tsv`: `page line form decision note`), committed with the fixes, so that a
 rerun lists only new candidates (matched by page and form, as line numbers shift). The scripts read the table and leave out what is decided.
 
 Order: check 1 (lemmas, done) first, as its candidates were fewer and surer; then the
-italics, which start from the lemmas of check 1; then check 2, whose ranking learns from
-the errors check 1 found.
+verse check, with the same procedure while it is fresh; then the italics, which start
+from the lemmas of check 1; then check 2, whose ranking learns from the errors checks 1
+and the verse check found, and whose counts are surer once the verse is right.
 
 ### Check 1: lemmas against the verse (done)
 
@@ -64,6 +68,45 @@ steps take from it:
 - Its errors were mostly a common spelling written for the printed one (`mihi` for
   `michi`, `societate` for `sotietate`, accents not printed); check 2, which looks for rare
   forms, does not find this kind (below, "Not found by this check").
+
+### Verse check: the Latin verse read again (`ocr/la_versecheck.py`; decided with the user, 2026-11-01)
+
+The Latin verse has had one reading only: the first OCR's (la-el-agy's on 0836), outside
+the markup, as GLM-OCR drops it. Check 1 read again only the lines that a lemma quotes and
+found about 40 errors there (`mihi` for `michi`, `societate` for `sotietate`, accents not
+printed, `spendorum` for `splendorum`, a whole line not of the print on 1053), so the
+other lines likely hold as many. Every line of the Latin verse is read again from the
+image and compared. The Italian verse is not in this check: it is in the markup (GLM-OCR
+reads it).
+
+1. **Script** `ocr/la_versecheck.py FIRST LAST --readings DIR [-o OUT]`: for each page with
+   verse, the Latin block of `ocr/la` (as `la_lemmacheck.py` finds it) against the
+   reader's `DIR/PAGE.txt`, line by line (aligned, so that a line left out or added shows
+   as such): every line that differs, with both forms and the differing words marked;
+   a page whose line count differs is reported first. Tercet numbers, runover lines
+   (`[…`) and gloss marks are compared too; spacing before `:`/`;` and the `’` are
+   normalized as in `convert_la.py`. Lines decided in `versecheck.tsv` are left out.
+   - The crops: `uv run ocr/la_versecrop.py PAGES -t ocr/la/tesseract -o DIR -c la` (the
+     Latin column of each page, one image per page; `crops.tsv` gives the line counts to
+     look at). The images go to a working directory under `tmp/`.
+2. **Trial** on batch 1 (`0079`–`0114`): crops, a task for la-el-agy (as in check 1: read
+   every line letter by letter as printed, from the images alone, no `ocr/la`, no Dante
+   text; one `PAGE.txt` per page, tercet numbers and runover lines as printed), the
+   comparison, every difference decided in the image. Count the lines, the differences and
+   the real errors, and decide with the user the size of a task (the verse batches of
+   DONE.md, item 1, were 25 pages) and whether to go on over 0079–1270 (about 14,000
+   lines).
+3. **Per batch**: as check 1's (DONE.md, "Check 1", "Per batch"): the task carries the
+   feedback on the previous batch; it is sent only on the user's signal; the readings are
+   first matched to their pages (a reading that is not of its image is read again);
+   every difference is decided in an enlarged crop (`ocr/la_view.py word`, or the page
+   image where Tesseract has no box); `ocr/la` corrected; one row per misread line, and per
+   reader error that looks like a variant, in `versecheck.tsv` (`page line form decision
+   note`); a misprint goes into "Suspected misprints"; an error that may recur is searched
+   for over all pages.
+4. **Checks** and **commit** as in check 1 (steps 5–6): `la_check.py` and `la_seqcheck.py`
+   give the same output as before the fixes; `ocr/la`, then `texts`, then this PLAN
+   (State, the results, Suspected misprints).
 
 ### Italics (after check 1; decided with the user, 2026-11-01)
 
@@ -136,11 +179,11 @@ printed on 0489), rare words with no common neighbour, and a common spelling wri
 the printed rare one (`mihi` for `michi`: the error is the common form). Check 1 covers
 part of the first kind inside lemmas.
 
-### When both are done
+### When all are done
 
 Update "State" and "Known limits" (what the checks covered), texts/PLAN.md and
-texts/la/README.md (the proofreading described there), and move the record of the italics
-and check 2 to DONE.md, as check 1's.
+texts/la/README.md (the proofreading described there), and move the record of the verse
+check, the italics and check 2 to DONE.md, as check 1's.
 
 ## Standing rules
 
@@ -287,7 +330,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 - The Latin verse is not covered by the markup (GLM-OCR drops it). Check 1 read only its
   lines that a lemma quotes, and found about 40 errors there (`mihi` for `michi`,
   `societate` for `sotietate`, accents not printed, a whole line wrong on 1053); the other
-  lines of the Latin verse have had no second reading.
+  lines of the Latin verse have had no second reading ("Verse check" reads them).
 - `la_survey.py` ends a page's verse block at a gloss line it does not recognize (`(^1)`,
   or a gloss run over two lines), and then reports the Latin as missing (25 pages, "Record of the preparation").
 - Line breaks and the Latin verse block are not covered by the markup (GLM-OCR joins lines
@@ -361,7 +404,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 - `ocr/la_lemmacheck.py FIRST LAST [-v] [--crops DIR] [--readings DIR] [-o OUT]`: check 1
   (DONE.md, "Check 1"): lemmas against the verse; `--crops` writes the line images of the
   candidates, `--readings` compares a reader's `DIR/readings.tsv`.
-- `ocr/la_italic.py`, `ocr/la_lexcheck.py`: to be written ("Checks").
+- `ocr/la_versecheck.py`, `ocr/la_italic.py`, `ocr/la_lexcheck.py`: to be written ("Checks").
 
 The working data of the completed work in `tmp/` (`la-markup/`, `la-mark7/`, the paid
 answers; DONE.md) are read by no step any more. Everything in `tmp/` but `tmp/bak/` is
