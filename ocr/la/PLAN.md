@@ -23,8 +23,8 @@ more errors found in the same lines and by the searches they led to (DONE.md, "C
 **Next**, in this order (each below, under "Checks"):
 
 1. **Verse check**: the text only (step 0) is done; every line of the Latin and of the
-   Italian verse is read again from the image (steps 1–4): batches 1–2 done, then
-   batches 3–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
+   Italian verse is read again from the image (steps 1–4): batches 1–3 done, then
+   batches 4–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
    batch 2, page images from batch 3; step 3).
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
@@ -220,6 +220,27 @@ compared with the print only: the edition's Italian is one manuscript's
      same line, so the line image of 8 was cut from 10.
    - The other `figliuol` forms (9, on later pages) and `soci-` are read in their batches.
 
+   **Batch 3** (0233–0348; done, 2026-11-02; the first with page images):
+   - Latin: 1,404 lines, 1,403 paired with a reading (0260:34, read in another word order,
+     was left unpaired), 15 differ in words, 2 more in punctuation. 6 misread: 0240
+     `introyttus` → `introytus`, `montana` → `montanea`, `vetusta.` → `vetata.`, `elegit` →
+     `ellegit`, `plingebat` → `plangebat` (five in one passage, all from the first
+     transcription), 0260 `Fuit maioris gradus` → `Fuit gradus maioris`. 3 misprints
+     (Suspected misprints: 0241 `tumquam`, 0261 `bonum`, 0338 `vium`). Reader errors: no
+     tercet numbers; 10 words (the three misprints and 0259 `prerogatiram` corrected,
+     `inviscabat`/`inviscatas` read `inviscidabat`/`inviscidatas`, `respondidi`,
+     `recolsit`, `corruscet`, `[tomem.`), 2 punctuation marks.
+   - Italian: 1,395 lines read, all paired, 8 differ in words, 2 more in punctuation. 2
+     misread: 0253 `protesi` → `protesï`, 0345 `maravigliar` → `maraviglar`. Reader
+     errors: no tercet or gloss numbers; 4 words (`conoscuto`, `soglono`, `sgaglarda`
+     made the common forms, the `ï` of 0318 `dïsse` left out). 4 marks read where the file
+     keeps its reading: 0271 a mark over the `g` of `glurchi` (a smudge), 0276 a faint
+     grave on `à`, 0262 a raised dash after `dole` (above the hyphen's height), 0275 a
+     gloss mark printed `(°)` for the `(1)` of its note (kept `(1)`, the link to the note).
+   - Against batch 2 (line images), the tercet-number errors fell from 8 and 24 to none;
+     word errors toward the usual form stayed (10 and 4). The page images did not show
+     more reading from the sense.
+
    **Per batch**: the crops in `tmp/la-verse/bN/` (Latin) and `tmp/la-verse/bN-it/`
    (Italian); the Italian task to la-el-agy, the Latin to la-el-agy2, each carrying the
    feedback on its previous batch, sent only on the user's signal. The readings are first
@@ -409,6 +430,9 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0204 | 41 | `te volre:` | `volve` | Italic lemma (Latin verse `te volve`); `r` for `v`, as 0154. |
 | 0208 | 58 | `quod lucus,` | `locus` | The sense needs `locus`. |
 | 0249 | 52, 101–102 | `comprehendidi` | `comprehendisti` | Latin verse 16 and its lemma (`comprehen-` / `didi`) alike. |
+| 0241 | 28 | `respicit tumquam suum` | `tamquam` | Latin verse; the `u` is open at the top, unlike the `a` of `quam`. |
+| 0261 | 21 | `Vicit timor bonum voluntatem,` | `bonam` | Latin verse; an open `u`. |
+| 0338 | 14 | `vadunt per vium.` | `viam` | Latin verse. |
 | 0189 | 54–55 | `re-` / `spondidi sibi` | `respondi` | Italic lemma; the Latin verse 17 has `Respondi`. |
 | 0190 | 78–79 | `rea-` / `censa` | `reaccensa` | Commentary, quoting the Latin verse 27 (`reaccensa`); one `c`. |
 | 0686 | 74 | `uon seutitur` | `non sentitur` | Commentary; two turned `n`s (an `n` beside them in `uon` has its arch). |
