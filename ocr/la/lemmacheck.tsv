@@ -440,3 +440,164 @@ page	line	form	decision	note
 0471	103	Priusquam	printed	no accent printed; misread Priùsquam before this check (accent search)
 0461	80	Ianua	printed	no accent printed; misread Ianuâ before this check (accent search)
 0640	30	Nimis	printed	verse line; misread Nimìs before this check (accent search)
+0489	29	eorum	printed	verse 0491:35 earum
+0489	35	Marcia	printed	verse 0494:8 Martia
+0490	54	sante	printed	verse 0490:27 sancte
+0490	102	aieris	printed	verse 0490:34 Aeris
+0490	104	ipse	printed	verse 0492:53 Iste
+0490	54	sante	printed	verse 0490:9 sancte
+0491	103	reverentia	printed	verse 0491:18 reverenza
+0492	65	ipse	printed	verse 0492:37 ille
+0492	86	genibus	printed	verse 0492:45 manibus
+0492	89	sotietate	printed	verse 0492:49 societate
+0493	58	totam	printed	verse 0493:32 totum
+0493	60	baylia	printed	verse 0493:34 balya
+0493	103	sanctum	printed	verse 0493:48 sacrum
+0494	64	Marcia	printed	verse 0494:8 Martia
+0495	64	muratus	printed	verse 0492:42 mutatum
+0496	67	michi	printed	verse 0496:37 mihi
+0496	84	cingit	printed	verse 0496:42 cinxit
+0500	52	nova	printed	verse 0506:11 nuova
+0501	47	cooperit	printed	verse 0500:8 cooperuit
+0501	99	supra	printed	verse 0501:37 sopra
+0501	110	revidi	printed	verse 0501:43 Vidi
+0502	97	intra	printed	verse 0502:34 infra
+0502	104	alas	printed	verse 0502:35 illas
+0504	69	ammirando	printed	verse 0504:34 Admirando
+0505	55	illum	printed	verse 0505:28 illam
+0505	64	subrisit	printed	verse 0505:31 subrixit
+0506	50	directam	printed	verse 0506:21 erectam
+0506	52	Acharontem	printed	verse 0506:23 Acherontem
+0506	59	nova	printed	verse 0506:11 nuova
+0507	57	gentes	printed	verse 0507:33 gens
+0507	79	istam	printed	verse 0507:46 escam
+0510	56	restrinsi	printed	verse 0510:16 restrinxi
+0511	43	admiserunt	printed	verse 0511:24 dimiserunt
+0513	47	unus	printed	verse 0513:20 plus
+0513	56	Stetis	printed	verse 0512:27 Sitis
+0513	92	Aristotele	printed	verse 0513:18 Aristotile
+0513	107	vanum	printed	verse 0513:23 invanum
+0514	74	descensus	printed	verse 0514:32 ascensus
+0514	99	tunc	printed	verse 0514:44 nunc; line not located for the delegate; checked in the image
+0515	49	proiiceret	printed	verse 0514:49 proieceret
+0515	107	dextro	printed	verse 0515:46 dextero
+0516	38	venibant	printed	verse 0516:22 veniebant
+0517	62	Cicilie	printed	verse 0517:34 Sicilie
+0521	45	permicteret	printed	verse 0529:49 permicteret; per-/micteret, misread mitteret before this check
+0523	65	ulli	printed	verse 0522:13 nulli
+0523	71	abscultat	printed	verse 0523:28 auscultat
+0523	85	sclamaverunt	printed	verse 0523:36 Clamaverunt
+0525	48	centrum	printed	verse 0525:28 ventrum; the verse line has ventrum, misprint (Suspected misprints)
+0526	48	sotictate	printed	verse 0526:25 societate; misprint for sotietate (Suspected misprints)
+0527	56	habent	printed	verse 0526:33 habeant
+0527	60	ymum	printed	verse 0527:31 unum
+0527	66	nunquam	printed	verse 0527:33 unquam
+0527	101	possunt	printed	verse 0527:44 possint
+0528	93	stant	printed	verse 0528:30 stabant
+0528	97	amplectebatur	printed	verse 0528:33 amplexebatur
+0529	81	illa	printed	verse 0523:29 alia; line not located for the delegate; checked in the image
+0529	100	quid	printed	verse 0529:48 quod
+0530	15	ascendit	printed	verse 0529:55 ascendat
+0535	46	istius	printed	verse 0535:26 illius
+0535	81	sufflationes	printed	verse 0535:34 sufflacionem
+0536	54	interdum	printed	verse 0535:42 interim
+0536	72	nostra	printed	verse 0536:35 vestra
+0537	59	aliquam	printed	verse 0537:30 aliquem
+0537	74	dicens	printed	verse 0537:42 dicetis
+0539	54	illic	printed	verse 0539:22 illuc
+0540	94	aiere	printed	verse 0540:50 aëre
+0540	60	sepultura	printed	verse 0540:7 sepoltura
+0541	103	secutus	printed	verse 0541:47 Sequutus
+0541	106	disfecit	printed	verse 0541:49 disfécit
+0545	42	illum	printed	verse 0544:21 istum
+0545	42	istum	printed	verse 0544:21 illum
+0545	46	turma	printed	verse 0545:21 turba
+0546	53	Labroccia	printed	verse 0545:33 Broccia
+0546	60	Fredericus	printed	verse 0545:28 Federicus
+0547	46	summitas	printed	verse 0546:36 summitas; no accent printed, misread summítas before this check
+0547	80	ipse	printed	verse 0545:28 ille
+0548	61	ipsum	printed	verse 0548:33 ipsam
+0549	107	astricti	printed	verse 0549:42 adstricti; line not located for the delegate; checked in the image
+0550	96	fuisti	printed	verse 0550:18 fusti
+0557	74	monstrat	printed	verse 0557:42 monstravit; michi in this line printed with a broken i (dot only), kept michi
+0557	79	respondet	printed	verse 0557:46 Respondit
+0558	68	devenire	printed	verse 0558:37 venire
+0558	72	certus	printed	verse 0558:39 certius
+0558	106	solum	printed	verse 0558:53 solam
+0560	76	ammodo	printed	verse 0560:39 admodo
+0560	79	illos	printed	verse 0560:41 istos
+0562	66	textum	printed	verse 0563:21 exitum
+0563	51	plancta	printed	verse 0563:16 planta
+0567	75	anime	printed	verse 0567:32 alie
+0568	68	discernebam	printed	verse 0568:35 discernebam; misread discerneham before this check
+0568	96	loquamur	printed	verse 0568:45 loquemur
+0569	65	michi	printed	verse 0569:36 mihi
+0569	88	quod	printed	verse 0569:49 quid
+0570	109	giallum	printed	verse 0570:23 gallus
+0571	71	faculas	printed	verse 0571:36 facellas
+0572	61	viridas	printed	verse 0572:27 virides
+0575	4	Titonis	printed	verse 0577:10 Titonis; misread Tilonis before this check
+0577	29	altramente	printed	verse 0579:17 altrimenti
+0577	34	Lettor	printed	verse 0581:5 Lector
+0577	39	Cinere	printed	verse 0583:5 Cenere
+0578	62	vinctus	printed	verse 0578:27 Victus
+0579	105	revolvendo	printed	verse 0579:41 volvendo
+0579	84	altramente	printed	verse 0579:17 altrimenti
+0580	66	excusseram	printed	verse 0579:46 excusserim
+0580	81	pervenisti	printed	verse 0580:41 devenisti
+0582	75	illo	printed	verse 0582:43 ipso
+0582	88	isto	printed	verse 0582:50 ipso
+0583	97	foramen	printed	verse 0583:25 seramen
+0583	84	Cinere	printed	verse 0583:5 Cenere
+0584	65	foris	printed	verse 0584:29 foras
+0584	99	audiri	printed	verse 0584:19 Udir
+0589	53	fluit	printed	verse 0589:23 fugit
+0590	60	dextrum	printed	verse 0590:34 dexterum
+0591	98	timetur	printed	verse 0591:43 timetúr
+0592	27	precedebat	printed	verse 0592:14 procedebat
+0592	32	contra	printed	verse 0592:8 scontro
+0593	97	novum	printed	verse 0593:60 novam
+0593	71	imperatore	printed	verse 0593:11 imperadore
+0594	86	ista	printed	verse 0591:34 illa
+0595	62	infermi	printed	verse 0595:32 infirmi
+0595	88	substentando	printed	verse 0595:40 sustentando
+0595	92	illos	printed	verse 0595:44 ipsos
+0595	92	vide	printed	verse 0595:44 ride
+0599	57	ideo	printed	verse 0604:27 nido
+0600	41	quam	printed	verse 0598:14 Quem
+0600	97	sunt	printed	verse 0604:42 nunc
+0601	87	dextram	printed	verse 0601:46 dexteram
+0602	81	facit	printed	verse 0602:33 fuit
+0602	104	firmos	printed	verse 0602:42 fixos
+0603	45	Eugubii,	printed	verse 0603:27 Eugubii; whole word on line 45, misread Egu-/bii before this check
+0603	46	allumare	printed	verse 0603:28 alluminare
+0604	57	ipso	printed	verse 0599:37 illo
+0605	64	parum	printed	verse 0604:40 paucum
+0605	89	respondet	printed	verse 0605:39 respondit
+0605	89	Silvanis	printed	verse 0605:39 Silvanus
+0490	34	Aieris	printed	verse line; misread Aeris before this check
+0492	49	sotietate	printed	verse line; misread societate before this check
+0493	32	ream;	printed	verse line; misread ream, before this check
+0496	37	michi	printed	verse line; misread mihi before this check
+0506	23	Quicumque	printed	verse line; misread Quicunque before this check
+0526	25	sotietate	printed	verse line; misread societate before this check
+0540	50	aiere	printed	verse line; misread aëre before this check
+0541	49	disfecit	printed	verse line; misread disfécit before this check
+0569	36	michi	printed	verse line; misread mihi before this check
+0582	50	planctas	printed	verse line; misread plantas before this check
+0582	88	planctas	printed	misread plantas before this check
+0591	43	timetur	printed	verse line; misread timetúr before this check
+0592	14	precedebat	printed	verse line; misread procedebat before this check
+0595	44	vide[n]t	printed	verse line; misread ride[n]t before this check
+0490	25	devenit	printed	verse line; misread devenít before this check (accent search)
+0490	91	habuit	printed	no accent printed; misread habuít before this check (accent search)
+0541	33	aiere	printed	verse line; misread aëre before this check (accent search)
+0591	55	imprimitur	printed	no accent printed; misread imprimítur before this check (accent search)
+0597	30	despiciebat	printed	no accent printed; misread despiciébat before this check (accent search)
+0614	26	martyrii	printed	verse line; misread martyríi before this check (accent search)
+0662	27	Misit	printed	verse line; misread Mísit before this check (accent search)
+0719	20	rumoris	printed	no accent printed; misread rumorís before this check (accent search)
+0734	36	Redit	printed	verse line; misread Redít before this check (accent search)
+0734	65	redit	printed	no accent printed; misread redít before this check (accent search)
+0742	74	utilius	printed	no accent printed; misread utiliús before this check (accent search)
+0926	67	quómodo	printed	accent printed (accent search)
