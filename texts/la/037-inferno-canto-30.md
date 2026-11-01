@@ -346,7 +346,7 @@ Sed si ego viderem hic animam tristem Guidonis et Alexandri et eorum fratris, id
 
 33 Una est falsa que accusavit Ioseph;\
 &emsp;Alter est falsus Sinon grecus de Troya:\
-&emsp;Propter febrem acutam emictiunt tantum fetorem.
+&emsp;Propter febrem acutam emictunt tantum fetorem.
 
 (1) delle anime de' detti conti — (2) che ho — (3) passo — (4) cammino — (5) al. volgia — (6) miglo — (7) falsità d'oro — (8) quando venn'io — (9) maestro Adamo — (10) più volta. — (11) femmina — (12) a Pharaone — (13) puzza.
 
@@ -386,7 +386,7 @@ Una est falsa, scilicet illa, que cepit Ioseph per vestem, et ille aufugit, reli
 &emsp;Lo muover delle membra (9) che son gravi,\
 &emsp;Io abbo (10) 'l braccio (11) a tal mestieri sciolto.
 
-36 Dicendo ad eum: Quamvis sit mihi sublatus\
+36 Dicendo ad eum: Quamvis sit michi sublatus\
 &emsp;Motus membrorum que sunt gravia,\
 &emsp;Adhuc habeo ego brachium ad tale opus dissolutum.
 

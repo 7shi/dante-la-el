@@ -396,7 +396,7 @@ Taceat de Cadmo et de Arethusa Ovidius, quia, si illum in serpentem et illam in 
 &emsp;Che 'l serpente la coda in forca fesse,\
 &emsp;E 'l ferito ristrinse insieme l'orme.
 
-35 Insìmul sic sibi responderunt in tali norma,\
+35 Insimul sic sibi responderunt in tali norma,\
 &emsp;Quod serpens caudam in furcam fixit,\
 &emsp;Et vulneratus restrinxit simul vestigia.
 
@@ -461,7 +461,7 @@ Taceat de Cadmo et de Arethusa Ovidius, quia, si illum in serpentem et illam in 
 &emsp;E le labbra ingrossò quanto convenne.
 
 43 Id quod non cucurrit, id retinuit,\
-&emsp;De illo superfluo fecit nasum faciei,\
+&emsp;De illo superfluo fecit nasum fatiei,\
 &emsp;Et labia ingrossavit quantum conveniens fuit.
 
 (1) gli ochi. — (2) le quali. — (3) bocha.

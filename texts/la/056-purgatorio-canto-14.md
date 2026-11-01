@@ -455,7 +455,7 @@ Bene facit Bagnacavallum, oppidum in Romandiola sic dictum, in quo erant multi v
 &emsp;Sì m'ha vostra ragion la mente strecta.
 
 42 Sed iam recede, Tusce, ammodo; quia nunc me\
-&emsp;Nimìs plangere plusquam loqui:\
+&emsp;Nimis plangere plusquam loqui:\
 &emsp;Ita vestra ratio michi mentem strinxit.
 
 43 Noi sapevàn che quell'anime care\

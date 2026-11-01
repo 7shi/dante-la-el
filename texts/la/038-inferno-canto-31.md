@@ -22,7 +22,7 @@ In isto tricesimoprimo capitulo, quod incipit: Vnamet lingua me momordit, etc., 
 
 2 Ita audio, quod solebat lancea facere\
 &emsp;Achillis et sui patris, esse causa\
-&emsp;Priùs tristis et postea bone oblacionis.
+&emsp;Prius tristis et postea bone oblacionis.
 
 (1) di Virgilio. — (2) riprese. — (3) di vergogna. — (4) consolatoria. — (5) Pelleo.
 
@@ -311,7 +311,7 @@ Ista verba sunt inintelligibilia, et pro inintelligibilibus hic habentur. Et lic
 &emsp;Dinanzi l'altro (10), e dietro el braccio destro,
 
 29 Ad cingendum eum, quicumque fuerit magister,\
-&emsp;Nescio ego dicere; sed ipse tenebat subcinctum\
+&emsp;Nescio ego dicere; sed ipse tenebat subcintum\
 &emsp;Ante unum, et retro brachium dextrum,
 
 (1) Virgilio. — (2) o. — (3) consolati. — (4) catena. — (5) cuopre. al. doga, i. dogla. — (6) desiderio. — (7) invano. — (8) gigante. — (9) incatenarlo. — (10) braccio manco.

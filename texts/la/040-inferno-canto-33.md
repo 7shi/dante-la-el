@@ -306,7 +306,7 @@ Sic, idest ibi, mortuus est, et sicut tu vides, idest tu Dantes vides nunc prese
 &emsp;E facin siepe (13) ad Arno (14) in su la foce (15),\
 &emsp;Sì ch' egl'anneghi in te ogni persona (16):
 
-28 Moveat se Capraia et Gorgona,\
+28 Moveat se Capra[ra] et Gorgona,\
 &emsp;Et faciant sepem in Arno super fauce,\
 &emsp;Ita quod ipse submergant in te omnem personam.
 
@@ -534,7 +534,7 @@ Et ad hoc ut tu libentius michi radas invitriatas lacrymas, idest ad modum vitri
 
 Ipsa, scilicet anima, cadit in talem cisternam, idest in talem locum, prout vides: et forsan apparet adhuc corpus superius in mundo de umbra, idest umbre, vivum, que hic me retro vernat, idest apud me collocatur. Antropos dicitur [ab a], quod est sine, et tropos, conversio, idest sine conversione. Ista fictio que fit, quod talium proditorum anime deducantur ad Infernum, et corpora remaneant quasi viva, gubernata per dyabolos, non vult aliud innuere nisi quod isti tam magni proditores, sive peccatores, ita sunt divino iudicio obstinati, quod nunquam penitet eos, et sic possunt dici esse in Inferno, licet adhuc appareant vivere; quomodo videtur quod possit intelligi illud dictum Evangelii: Intravit autem Sathanas in cor Iude; idest ut non peniteret ipsum; licet videretur quod Christus omnia sciebat, et quomodo predixerat: Unus vestrum me traditurus est; et illud: Quod facis, fac citius, etc.
 
-Iste circulus dicitur Ptholomea a Ptholomeo, qui occidit in ira filium proprium. Nota quod hic fit mentio de domino Branchadoria de Ianuâ. Sic est quod mater regis Entii, qui Entius fuit filius expurius Frederici secundi, regis Cicilie et Imperatoris, fuit de Sardinia. Quidam magnus baractarius, nomine Michael Zancha, fuit valde astutus, et erat factor, sive ordinator, omnium rerum istius matris regis Entii; et mortuo rege Entio, iste Michael Zancha scivit ita facere, quod ipse desponsavit matrem regis Entii, propter quam consequutus est dominium Iudicatus Logodori, unde fuit factus magnus dives. Habebat unam filiam, quam maritavit et dedit in uxorem domino Branchadoria de Ianua; qui dominus Branchadoria, ut haberet divitias soceri sui, disposuit interfficere ipsum suum socerum, et sic interfecit. Unde, causa sua, iam erat hic apud Fratrem Albericum.
+Iste circulus dicitur Ptholomea a Ptholomeo, qui occidit in ira filium proprium. Nota quod hic fit mentio de domino Branchadoria de Ianua. Sic est quod mater regis Entii, qui Entius fuit filius expurius Frederici secundi, regis Cicilie et Imperatoris, fuit de Sardinia. Quidam magnus baractarius, nomine Michael Zancha, fuit valde astutus, et erat factor, sive ordinator, omnium rerum istius matris regis Entii; et mortuo rege Entio, iste Michael Zancha scivit ita facere, quod ipse desponsavit matrem regis Entii, propter quam consequutus est dominium Iudicatus Logodori, unde fuit factus magnus dives. Habebat unam filiam, quam maritavit et dedit in uxorem domino Branchadoria de Ianua; qui dominus Branchadoria, ut haberet divitias soceri sui, disposuit interfficere ipsum suum socerum, et sic interfecit. Unde, causa sua, iam erat hic apud Fratrem Albericum.
 
 Tu debes hoc scire, si tu veneris primo deorsum: ipse est Branchadoria, idest umbra sua; et sunt plures anni postea transacti, quod ipse fuit ita reclusus.
 

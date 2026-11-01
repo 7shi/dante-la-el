@@ -370,9 +370,9 @@ Quando nos fuimus ibi, ubi tibie, idest ubi crura et tibie coniunguntur corpori,
 &emsp;Maestro mio, diss'io quando fui dricto,\
 &emsp;A trarmi d'erro (5) un poco mi favella.
 
-34 Priùsquam de abysso me evellas,\
+34 Priusquam de abysso me evellas,\
 &emsp;Magister mi, dixi, quando fui rectus,\
-&emsp;Ut trahas me de errore aliquantulum mihi loquaris.
+&emsp;Ut trahas me de errore aliquantulum michi loquaris.
 
 (1) al. da tucto. — (2) di quel saxo. — (3) del centro. — (4) ritorna. — (5) d'errore.
 
@@ -390,7 +390,7 @@ Leva te sursum, dixit magister, in pedes: idest, surge, vadamus: via est longa e
 
 Non erat camminata palatii, idest sala plana et ordinata, ubi eramus; sed naturalis burella, idest via stricta, dura, obscura, et superficiem asperam habebat (burella est proprie locus obscurus et subterraneus), que habebat malum solum et luminis indigentiam. Et sic auctor stetit in Inferno tempore quo disposuerat stare, scilicet tribus diebus, etc.
 
-Prima che de l'abisso me direlle. Priùsquam de abyssu me evellas: hec est quarta pars huius capituli, in qua movet auctor duo dubia Virgilio, que solvuntur. Primum est, ubi est glacies, quia ex quo transiverant centrum, non videbat eam. Et ubi est iste sicut est fixus sic subsupra?
+Prima che de l'abisso me direlle. Priusquam de abyssu me evellas: hec est quarta pars huius capituli, in qua movet auctor duo dubia Virgilio, que solvuntur. Primum est, ubi est glacies, quia ex quo transiverant centrum, non videbat eam. Et ubi est iste sicut est fixus sic subsupra?
 
 <!-- p. 418 (0472) -->
 

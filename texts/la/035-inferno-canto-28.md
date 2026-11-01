@@ -507,7 +507,7 @@ Quando recte ad pedes pontis fuit, idest prope pontem, levavit brachium alte cum
 &emsp;Che diedi al re Giovanni e mai conforti.
 
 45 Et ad hoc ut tu bene nova de me portes,\
-&emsp;Sciâs quod ego sum Beltramus de Bornio,\
+&emsp;Scias quod ego sum Beltramus de Bornio,\
 &emsp;Ille qui dedi regi Ioanni malas persuasiones.
 
 46 Io feci 'l padre e'l figlio in sè ribelli:\
