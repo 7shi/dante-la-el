@@ -1,6 +1,16 @@
 page	line	form	decision	note
 0085	29	co	misprint	for eo; Italian ne temesse
+0086	6	mici	misprint	for miei, was miei; Italian verse reading
+0087	25	dogla,	misread	was dogla.; Italian verse reading
+0090	15	venire;	misread	was venire,; Italian verse reading
 0095	26	iuvetis	misread	was invetis; Italian aiutate
+0095	34	Seclum	misread	was Seculum; Italian Secolo; verse reading
+0096	19	Sì	misread	was Si; Italian verse reading
+0096	21	Sì	misread	was Si; Italian verse reading
+0098	51	caves	misread	was caveas; Italian non ti guardi; verse reading
+0100	19	l'ànno	misread	was l'anno; Italian verse reading
+0101	41	redivi	misread	was redii; Italian son tornato; verse reading
+0113	18	transirit	misprint	for transivit, was transivit; Italian non passa; verse reading
 0118	37	istibus	printed	istibus: garbled form, expect istis
 0121	29	per nos audita	printed	per nos audita: Italian per me udita, expect per me audita
 0145	30	omnem	printed	omnem: Italian mia, expect meam
@@ -69,6 +79,7 @@ page	line	form	decision	note
 0392	58	ira	printed	ira: Italian sì, expect ita / sic
 0397	24	culpe	printed	culpe: Italian colpi, expect colporum / ictuum
 0398	23	nunc	printed	nunc: Italian nona, expect none
+0400	20	Sì	misread	was Si; found among the 86 Italian verse lines starting Si
 0402	37	videt	misread	was ridet, also in the commentary 0402:74; Italian vede
 0404	29	spergo	printed	spergo: garbled form, expect osbergo / lorica
 0414	34	suppinus	printed	suppinus: Italian carpone, expect pronus / carpando
@@ -157,6 +168,7 @@ page	line	form	decision	note
 0593	50	te expecta	printed	person error: te expecta (awaits you, 2nd pers) for m'aspecta (awaits me, 1st pers)
 0593	54	[Et illa:]	printed	editorial bracket: [Et illa:] supplied by editor
 0594	34	altos	printed	wrong word: altos (high) for altri (other)
+0595	16	Sì	misread	was Si; found among the 86 Italian verse lines starting Si
 0595	30	se picchiat	printed	Italianism: hybrid verb se picchiat in Latin text
 0595	44	vide[n]t	printed	editorial bracket: vide[n]t emended by editor
 0603	30	pennellegiat	printed	Italianism: hybrid verb pennellegiat in Latin text
@@ -201,6 +213,7 @@ page	line	form	decision	note
 0659	29	Angelum Dei	printed	mistranslation: Angelum Dei (angel of God) for Agnel di Dio (lamb of God) and lavat for leva
 0660	24	Illuc	printed	wrong word: Illuc (thither) for Quei (he/those)
 0660	38	Loquutio	printed	wrong word: Loquutio (speaking) for L'udir (hearing)
+0662	9	Sì	misread	was Si; found among the 86 Italian verse lines starting Si
 0662	26	in eum	printed	garbled/corrupt form: in eum for in hui / in uhi
 0664	33	pargolezzat	printed	Italianism: hybrid verb pargolezzat in Latin text
 0664	45	ungulas fixas	printed	wrong word: ungulas fixas (fixed hooves) for unghie fesse (cloven hooves; expect fissas)
