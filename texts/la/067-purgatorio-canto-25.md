@@ -450,7 +450,7 @@ Nunc ponitur cantilena quam cantant isti luxuriosi in isto igne, scilicet, Summe
 &emsp;Gridavan alto: Virum non cognosco;\
 &emsp;Indi ricominciavan l'hynno bassi.
 
-43 Prope finem qui in illo ymnpo fit,\
+43 Prope finem qui in illo ympno fit,\
 &emsp;Clamabant alte: Virum non cognosco;\
 &emsp;Inde reincipiebant ympnum submisse.
 

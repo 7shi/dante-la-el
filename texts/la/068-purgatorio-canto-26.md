@@ -47,7 +47,7 @@ Notandum est quod ipse due gentes sic euntes, una contra aliam, fuerunt peccator
 &emsp;Vid'io molt'ombre, andando, poner mente.
 
 3 Et ego faciebam cum umbra magis roventem\
-&emsp;Apparere flammam; et tamen ad tantum inditum\
+&emsp;Apparere flammam; et tamen ad tantum inditium\
 &emsp;Vidi ego multas umbras, eundo, ponere mentem.
 
 4 Questa fu la cagion che diede initio\

@@ -434,7 +434,7 @@ O dulcis frater, quid vis tu quod ego dicam? tempus futurum michi est in conspec
 &emsp;Qual fusti meco e qual io teco fui,\
 &emsp;Ancor fie grave el memorar presente.
 
-39 Ex quo ego ad eum: Si tu reducis ad mentem\
+39 Ex quo ego ad eum: Si tu reducis tibi ad mentem\
 &emsp;Qualis fuisti mecum et qualis ego tecum fui,\
 &emsp;Adhuc erit grave rememorare presens.
 
@@ -488,7 +488,7 @@ De illa vita, scilicet vitiosa, me volvit, idest extraxit, iste qui vadit ante m
 &emsp;Ch'io sarò là dove fia Beatrice;\
 &emsp;Quivi convien che senza lui rimagna.
 
-43 Tantum dixit michi facere suam societatem,\
+43 Tantum dixit michi facere suam sotietatem,\
 &emsp;Quod ego ero ubi erit Beatrix;\
 &emsp;Ibi convenit quod sine eo remaneam.
 

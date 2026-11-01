@@ -285,7 +285,7 @@ Ipsa ridebat ab alia [ripa] recta, trahendo, idest eligendo, plures colores, ide
 &emsp;Ancora freno (2) a tutti orgogli (3) humani,
 
 24 Tribus passibus nos faciebat flumen longinquos;\
-&emsp;Nunquam Hellespontum, ubi transivit Xerxes,\
+&emsp;Nunquam Hellespontum, ubi transivit Xerses,\
 &emsp;Adhuc frenum omnibus audaciis humanis,
 
 25 Più odio da Leandro non sofferse,\
