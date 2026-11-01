@@ -410,7 +410,7 @@ Modo ostendit, quomodo Virgilius ratificaverit dicta Dantis, dicens: Meus magist
 
 38 Colui potei che dal Servo de'Servi\
 &emsp;Fu transmutato d'Arno in Bachilone,\
-&emsp;Dove trovò li mal protesi nervi.
+&emsp;Dove trovò li mal protesï nervi.
 
 38 Illum poteris qui a Servo Servorum\
 &emsp;Fuit translatus de Arno in Bachilionem,\

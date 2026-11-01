@@ -332,7 +332,7 @@ Fundus suus, idest rivoli, et ambe pendices, idest latera, facte erant petra, et
 
 29 Inter omnia alia que tibi ostendi,\
 &emsp;Postquam nos intravimus per portam\
-&emsp;Cuius introyttus nulli denegatur,
+&emsp;Cuius introytus nulli denegatur,
 
 30 Cosa non fu da li tuoi ochi scorta\
 &emsp;Notabil, sì come 'l presente rio,\
@@ -362,17 +362,17 @@ Fundus suus, idest rivoli, et ambe pendices, idest latera, facte erant petra, et
 &emsp;D'acqua e di fronde, che si chiama Yda;\
 &emsp;Hor è deserta come cosa vieta.
 
-33 Una montana ibi est, que iam fuit leta\
+33 Una montanea ibi est, que iam fuit leta\
 &emsp;Aqua et frondibus, que fuit vocata Yda;\
-&emsp;Nunc est deserta tamquam res vetusta.
+&emsp;Nunc est deserta tamquam res vetata.
 
 34 Rhea la scelse già per cuna (3) fida\
 &emsp;Del suo figluol (4), e, per celarlo meglo\
 &emsp;Quando piangea, vi facea far grida.
 
-34 Rea ipsam elegit iam pro cuna fida\
+34 Rea ipsam ellegit iam pro cuna fida\
 &emsp;Sui filii, et ut celaret eum melius\
-&emsp;Quando plingebat, ibi faciebat fieri clamores.
+&emsp;Quando plangebat, ibi faciebat fieri clamores.
 
 (1) Virgilio. — (2) Saturno. — (3) culla. — (4) Iove.
 

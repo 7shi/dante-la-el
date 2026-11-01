@@ -142,7 +142,7 @@ Nota quod auctor introducit ad loquendum unam rotam, unum tripudium, et circulum
 
 12 Iste, vestigia cuius tu me scalpitare vides,\
 &emsp;Quamquam nudus et depillatus vadat,\
-&emsp;Fuit maioris gradus quam tu credas.
+&emsp;Fuit gradus maioris quam tu credas.
 
 13 Nipote fu de la buona Gualdrada:\
 &emsp;Guidoguerra ebbe nome, et in sua vita\

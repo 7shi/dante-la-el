@@ -454,7 +454,7 @@ Nota quod tempore mortis Domini Nostri Iesu Christi, divisus erat summus pontifi
 &emsp;In ista fovea, et alii de Consilio\
 &emsp;Qui fuerunt pro Iudeis malum semen.
 
-42 Allor vid'io maravigliar Virgilio (14)\
+42 Allor vid'io maraviglar Virgilio (14)\
 &emsp;Sopra colui (15) ch'era steso (16) in croce\
 &emsp;Tanto vilmente nell'etterno exilio (17).
 
