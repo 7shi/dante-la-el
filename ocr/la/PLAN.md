@@ -10,7 +10,7 @@ The conversion into `texts/la/` is described in [texts/PLAN.md](../../texts/PLAN
 **A new session starts here**: read "State" and go on from the first open step of "Checks".
 The rules and conventions below are settled: apply them, do not ask again.
 
-## State (2026-11-01)
+## State (2026-11-02)
 
 `ocr/la` is complete (`0001`–`1296`) and converted into `texts/la/001`–`110` (DONE.md).
 What the completed method cannot see are errors that both OCRs share: `ocr/la` was proofread
@@ -22,10 +22,9 @@ Check 1 (lemmas against the verse) is done: 1,271 candidates, 9 misread, and abo
 more errors found in the same lines and by the searches they led to (DONE.md, "Check 1").
 **Next**, in this order (each below, under "Checks"):
 
-1. **Verse check**: first the text only (step 0): la-el-agy lists the Latin lines whose
-   sense clearly parts from the Italian, and they are decided in the image (Inferno
-   all three canticas done); next, the user decides whether every line is still read
-   again from the image (steps 1–4), as check 1's batches, and for which lines.
+1. **Verse check**: the text only (step 0) is done; every line of the Latin and of the
+   Italian verse is read again from the image (steps 1–4): batch 1 done as a trial, then
+   batches 2–11, the Italian by la-el-agy and the Latin by la-el-agy2.
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
    `ocr/la` (steps 3–6).
@@ -70,15 +69,18 @@ steps take from it:
   `michi`, `societate` for `sotietate`, accents not printed); check 2, which looks for rare
   forms, does not find this kind (below, "Not found by this check").
 
-### Verse check: the Latin verse read again (`ocr/la_versecheck.py`; decided with the user, 2026-11-01)
+### Verse check: the verse read again (`ocr/la_versecheck.py`; decided with the user, 2026-11-01)
 
 The Latin verse has had one reading only: the first OCR's (la-el-agy's on 0836), outside
 the markup, as GLM-OCR drops it. Check 1 read again only the lines that a lemma quotes and
 found about 40 errors there (`mihi` for `michi`, `societate` for `sotietate`, accents not
 printed, `spendorum` for `splendorum`, a whole line not of the print on 1053), so the
 other lines likely hold as many. Every line of the Latin verse is read again from the
-image and compared. The Italian verse is not in this check: it is in the markup (GLM-OCR
-reads it).
+image and compared. The Italian verse, though in the markup (GLM-OCR reads it), is read
+again too (decided with the user, 2026-11-02): the trial found accents that both OCRs
+dropped (`Si` for `Sì`) and a misprint read as the sense (`miei` for `mici`). It is
+compared with the print only: the edition's Italian is one manuscript's
+(texts/la/README.md, "The Italian text") and differs from modern editions in most lines.
 
 0. **Text against the Italian** (decided with the user, 2026-11-01), before any image:
    the Latin verse is a line-by-line translation of the Italian beside it, so a misread
@@ -137,28 +139,54 @@ reads it).
      of them letters that made a non-word (`Excundo`, `redolel`) or a word of another
      sense (`ridet` for `videt`); 6 misprints. The spellings and accents that were most
      of check 1's verse errors leave the sense alone and are not found by step 0.
-1. **Script** `ocr/la_versecheck.py FIRST LAST --readings DIR [-o OUT]`: for each page with
-   verse, the Latin block of `ocr/la` (as `la_lemmacheck.py` finds it) against the
-   reader's `DIR/PAGE.txt`, line by line (aligned, so that a line left out or added shows
-   as such): every line that differs, with both forms and the differing words marked;
-   a page whose line count differs is reported first. Tercet numbers, runover lines
-   (`[…`) and gloss marks are compared too; spacing before `:`/`;` and the `’` are
-   normalized as in `convert_la.py`. Lines decided in `versecheck.tsv` are left out.
-   - The crops: `uv run ocr/la_versecrop.py PAGES -t ocr/la/tesseract -o DIR -c la` (the
-     Latin column of each page, one image per page; `crops.tsv` gives the line counts to
-     look at). The images go to a working directory under `tmp/`.
-2. **Trial** on batch 1 (`0079`–`0114`): crops, a task for la-el-agy (as in check 1: read
-   every line letter by letter as printed, from the images alone, no `ocr/la`, no Dante
-   text; one `PAGE.txt` per page, tercet numbers and runover lines as printed), the
-   comparison, every difference decided in the image. Count the lines, the differences and
-   the real errors, and decide with the user the size of a task (the verse batches of
-   DONE.md, item 1, were 25 pages) and whether to go on over 0079–1270 (about 14,000
-   lines).
-3. **Per batch**: as check 1's (DONE.md, "Check 1", "Per batch"): the task carries the
-   feedback on the previous batch; it is sent only on the user's signal; the readings are
-   first matched to their pages (a reading that is not of its image is read again);
-   every difference is decided in an enlarged crop (`ocr/la_view.py word`, or the page
-   image where Tesseract has no box); `ocr/la` corrected; one row per misread line, and per
+1. **Script** `ocr/la_versecheck.py FIRST LAST [--italian] --crops DIR` writes one image
+   per verse line (the Latin block of `ocr/la` as `la_lemmacheck.py` finds it, or the
+   Italian with `--italian`; gloss lines left out), enlarged 2× and in a shuffled order,
+   as check 1's crops (`DIR/lines.tsv` maps them back; a line that Tesseract cannot locate,
+   mostly a runover word, goes to `DIR/unlocated.tsv` and is read in the page image).
+   `--readings DIR [-o OUT]` compares the reader's `DIR/readings.tsv` (`L0001<TAB>line`)
+   with `ocr/la` line by line: the differing words (letters and accents, not the
+   punctuation) and the tercet number. The punctuation is compared on the full strings
+   (a short script in the session); apostrophe spacing is not judged (Conventions:
+   "Apostrophe spacing as in the file"). This replaces the page-column crops first
+   planned (`la_versecrop.py`): single lines in a shuffled order keep the reader from
+   reading a known passage.
+2. **Trial** on batch 1 (`0079`–`0114`; done, 2026-11-02):
+   - Latin: 414 lines read, 8 differ. 4 misread, all toward a common form: 0095
+     `Seculum` → `Seclum`, 0098 `caveas` → `caves`, 0101 `redii` → `redivi`, 0113
+     `transivit` → `transirit` (a misprint, Suspected misprints). 4 reader errors: the
+     known misprint `co` written `eo`; tercet numbers `36`, `33` read `38`; `eorum` written
+     `corum`, the very example of the task (a task names kinds of error, never words that
+     may be in the batch).
+   - Italian: 413 lines read, 8 differ in words, 2 more in punctuation. 4 misread: 0096
+     `Si` → `Sì` twice, 0100 `l'anno` → `l'ànno`, 0086 `miei` → `mici` (a misprint);
+     0087 `dogla.` → `dogla,`, 0090 `venire,` → `venire;`. The search over all 86 Italian
+     lines starting `Si` found 3 more `Sì` (0400, 0595, 0662). 4 reader errors
+     (`veuir`, `14` for `44`, `proposito`, `riconosciuto`); 19 lines differ only in
+     apostrophe spacing, not judged.
+   - About 1% of the lines were wrong; the readings were reliable. Decided with the user:
+     go on over 0115–1270, the Italian and the Latin as separate tasks, in 10 batches.
+3. **Batches** (canto boundaries; lines of the Latin / Italian verse):
+
+   | Batch | Pages | Latin | Italian |
+   |---|---|---|---|
+   | 2 | 0115–0232 | 1,358 | 1,346 |
+   | 3 | 0233–0348 | 1,404 | 1,395 |
+   | 4 | 0349–0464 | 1,477 | 1,468 |
+   | 5 | 0465–0586 | 1,417 | 1,407 |
+   | 6 | 0587–0692 | 1,326 | 1,319 |
+   | 7 | 0693–0812 | 1,473 | 1,462 |
+   | 8 | 0813–0924 | 1,338 | 1,326 |
+   | 9 | 0925–1048 | 1,455 | 1,436 |
+   | 10 | 1049–1150 | 1,329 | 1,319 |
+   | 11 | 1151–1270 | 1,476 | 1,466 |
+
+   **Per batch**: the crops in `tmp/la-verse/bN/` (Latin) and `tmp/la-verse/bN-it/`
+   (Italian); the Italian task to la-el-agy, the Latin to la-el-agy2, each carrying the
+   feedback on its previous batch, sent only on the user's signal. The readings are first
+   matched to their images (a reading that is not of its image is read again); every
+   difference is decided in an enlarged crop (`ocr/la_view.py word`, or the page image
+   where Tesseract has no box); `ocr/la` corrected; one row per misread line, and per
    reader error that looks like a variant, in `versecheck.tsv` (`page line form decision
    note`); a misprint goes into "Suspected misprints"; an error that may recur is searched
    for over all pages.
@@ -385,6 +413,8 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0439 | 39 | `in navi se leravit` | `levavit` | Latin verse 145; an italic `r` for the first `v`. |
 | 0530 | 12 | `Meridianum solis, quiu in ripa` | `quia` | Latin verse 46 (Italian `ch'a la riva`). |
 | 0606 | 19 | `Si bona oratio cum non adiuvat` | `eum` | Latin verse 44 (Italian `lui`); an italic `c` without the eye, as 0085 `co`. |
+| 0113 | 18 | `Hac nunquam transirit anima bona` | `transivit` | Latin verse 43 (Italian `non passa`); an italic `r` for `v`, as 0259 `prerogatiram`; found by the verse reading. |
+| 0086 | 6 | `E li parenti mici furo Lombardi` | `miei` | Italian verse 23; a `c` without the bar of `e` (the `e` of `parenti` has it); the Latin has `mei`; found by the verse reading. |
 
 ## Known limits
 
@@ -476,7 +506,10 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
   candidates, `--readings` compares a reader's `DIR/readings.tsv`.
 - `ocr/la_versepairs.py [FILES] [-d DIR | -o OUT]`: the verse of the cantos in `texts/la`,
   the Italian and the Latin line side by side, one TSV per canto (verse check, step 0).
-- `ocr/la_versecheck.py`, `ocr/la_italic.py`, `ocr/la_lexcheck.py`: to be written ("Checks").
+- `ocr/la_versecheck.py FIRST LAST [--italian] (--crops DIR | --readings DIR [-o OUT])`:
+  the verse check ("Checks"): the line images of the Latin (or Italian) verse, and the
+  comparison of a reader's `DIR/readings.tsv` with `ocr/la`.
+- `ocr/la_italic.py`, `ocr/la_lexcheck.py`: to be written ("Checks").
 
 The working data of the completed work in `tmp/` (`la-markup/`, `la-mark7/`, the paid
 answers; DONE.md) are read by no step any more. Everything in `tmp/` but `tmp/bak/` is
