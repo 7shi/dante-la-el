@@ -307,6 +307,10 @@ check, the italics and check 2 to DONE.md, as check 1's.
   `[…` lines of 0079–1270 looked at in the image).
 - **Punctuation**: no space before `:` or `;`. Apostrophe spacing as in the file. No accents
   added that the scan does not show.
+- **Gloss marks**: `word (1) word`, a space on both sides, none before a following
+  punctuation mark or `)` (decided with the user, 2026-11-02). The print sets a mark after
+  the word it glosses, with a space that shrinks to nothing in a tight line; 121 of the
+  8,487 marks, set without a space (`ch'io (1)mi`, `uno(1)`, `n'(1)`), were spaced.
 - **Colon or semicolon**: in commits 1–3 decided on a crop at full resolution, enlarged; a
   semicolon has a comma tail, often faint. From the markup method on, a `:`/`;`
   disagreement of the two OCRs is decided by a context rule, not the image (see "Image
