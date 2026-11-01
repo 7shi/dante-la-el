@@ -333,7 +333,7 @@ Dicite inde, quid vultis vos? Incepit ipse dicere; ubi est scorta, idest conduct
 &emsp;Ne disse: Andate là, qui v'è la porta.
 
 30 Domina de celo, de istis rebus acorta,\
-&emsp;Respondiit meus magister ad eum, paulo ante\
+&emsp;Respondit meus magister ad eum, paulo ante\
 &emsp;Nobis dixit: Ite illuc, ibi est porta.
 
 31 Et ella e passi vostri ben avanzi,\

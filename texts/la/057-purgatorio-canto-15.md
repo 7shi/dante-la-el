@@ -328,7 +328,7 @@ Quando ego volebam. Come io volera: hec tertia pars huius capituli, in qua aucto
 &emsp;Dolce di madre, dicer: Figluol mio (4),\
 &emsp;Perch'ài tu così verso noi facto?
 
-30 Et unam dominam in introyu cum actu\
+30 Et unam dominam in introytu cum actu\
 &emsp;Dulcis matris, dicere: Fili mi,\
 &emsp;Quare tu sic versus nos fecisti?
 
@@ -368,7 +368,7 @@ Quando ego volebam. Come io volera: hec tertia pars huius capituli, in qua aucto
 &emsp;Che farem noi a chi mal ne disira (21),\
 &emsp;Se quei che ci ama (22) è per noi condennato (23)?
 
-35 Respondera ad eam cum visu temperato:\
+35 Respondere ad eam cum visu temperato:\
 &emsp;Quid faciemus nos illis qui nobis malum desiderant,\
 &emsp;Si ille qui nos amat est per nos condempnatus?
 

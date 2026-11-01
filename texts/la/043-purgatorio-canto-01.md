@@ -191,7 +191,7 @@ Longam barbam et pilo albo mixtam portabat; suos capillos similiter, de quibus c
 &emsp;Che sempre nera fa la valle inferna?
 
 15 Quis vos conduxit? quis fuit vobis lucerna,\
-&emsp;Excundo extra de profunda nocte\
+&emsp;Exeundo extra de profunda nocte\
 &emsp;Qui semper obscuram facit vallem infernam?
 
 16 Son le leggi d'abisso così rocte?\
@@ -474,7 +474,7 @@ Alba, idest adventus diei, vincebat horam matutinam, que fugiebat ante, ita quod
 
 42 Ambas manus super herbulas sparsas\
 &emsp;Suaviter meus magister posuit;\
-&emsp;Unde ego qui perpende di sua arte,
+&emsp;Unde ego qui perpendi de sua arte,
 
 43 Porsi ver lui le guancie lagrimose;\
 &emsp;Ivi mi fece tutto discoperto (2)\

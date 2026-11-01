@@ -139,7 +139,7 @@ Et ego per medium Tuscie. E io per mezzo de Toschana: hec est secunda particula 
 &emsp;Onde (18) hanno e fiumi ciò (19) che va con loro;
 
 12 Usque ad locum, ubi redditur per restaurum\
-&emsp;De illo quod celum a marina s[c]iugat,\
+&emsp;De illo quod celum a marina sciugat,\
 &emsp;Unde habent flumina quidquid vadit cum eis;
 
 (1) Dominus Guido de Brettinoro. — (2) fiume. — (3) Dominus Raynerius de Forlivio. — (4) a. — (5) costui, Dante. — (6) di messer Guido. — (7) rispose. — (8) come seguito. — (9) percat. — (10) alto. — (11) d'Appennino. — (12) monte di Sicilia, che già fu congiunto a questo. — (13) d'altezza. — (14) là dove. — (15) in mare. — (16) di quell'acqua. — (17) l'ardor del sole. — (18) de la qual marina. — (19) tutta l'acqua.
@@ -152,7 +152,7 @@ Et alius dixit, Raynerius de Calboli, ad eum, scilicet Guidonem: Quare abscondit
 
 Et umbra, scilicet Guidonis, que de hoc interrogata erat, se desbitavit, idest satisfecit, sive debitum solvit, sic: Nescio, scilicet dicens, an illa sit causa, scilicet quod sit res horribilis vel non: sed dignum est bene quod nomen talis vallis pereat, quia tota illa gens, que habitat in illa valle, est tota depravata. Et hoc probat inductive sic (littera est subtilis). Vult dicere in effectu iste Guido, quod a principio, ubi oritur iste fluvius, scilicet Arnus, ubi sunt Alpes alte et in tantum quod in paucis locis sunt altiores, usque quo cadit, sive fluit in mare, tota gens illius est prava, que mortaliter inimicatur omni virtuti, sicut a[n]guis inimicatur homini: quia a principio suo, ubi est ita pregnans alpester mons, ubi est truncus Pellorus, quod in paucis locis transit, idest excedit, ultra illud signum, idest quod
 
-In paucis locis sunt altiores montes (alpester mons, scilicet Appeninus, qui extenditur usque ad finem Calabrie, unde, scilicet a quo Appenino monte Pelorus est truncus. Notandum est hic, quod isti montes Ytalie, de quibus sepe supradictum est, secundum aliquos erant coniuncti aliquando cum Pelloro monte, qui est in insula Cicilie, et vocantur Appenini. Mons Pellorus erat continuus istis montibus, antequam Cicilia esset insula: quia aliqui volunt, quod insula Cicilie solebat esse coniuncta Calabrie, nec erat mare inter Calabriam et Ciciliam; et aliquando, secundum tales, fuit divisa illa que est modo insula. Mons ille Pellorus non mutavit nomen propter illam divisionem sic factam, sed adhuc vocatur Pellorus; et tale nomen acquisivit sibi mons a Pelloro, admiralo Hannibalis: nam quando Hannibal redijt de Ytalia ad Carthaginem, transivit per mare de Ytalia in Ciciliam, idest in insulam, et ita cito et festine cum magna classe, idest multitudine navium, ut cum fuit in insula Cicilie, propter accellerationem festinam, quia tam cito transiret mare et appulerat in insulam, putavit se proditum et pati proditionem, et in furore fecit capi Pellorum, admiralum suum, et proiici in mari et sic suffocatus est. Reperta autem veritate, quod nullum defectum commiserat Pellorus, ymo ingeniose se habuerat, se penituit eum fecisse Pellorum proiici in mare, et fecit corpus eius inveniri: nec potens aliunde satisfacere, aut premiare, ipsum Pellorum admiralum, fecit eum sepelliri honorifice, et ab illo Pelloro indidit nomen illi monti, et vocavit montem illum Pellorus a nomine admirali sui, in illo sepulti: et sic adhuc illud nomen tenet ille mons), usque ad locum, ubi redditur per restaurum, idest, pro restauratione, idest unde aque incipiunt fluere de illo, quod celum a marina s[c]iugat, idest siccat, attrahendo unde habent flumina quidquid, idest omnes aquas suas, vadit cum eis (nota quod auctor hic videtur
+In paucis locis sunt altiores montes (alpester mons, scilicet Appeninus, qui extenditur usque ad finem Calabrie, unde, scilicet a quo Appenino monte Pelorus est truncus. Notandum est hic, quod isti montes Ytalie, de quibus sepe supradictum est, secundum aliquos erant coniuncti aliquando cum Pelloro monte, qui est in insula Cicilie, et vocantur Appenini. Mons Pellorus erat continuus istis montibus, antequam Cicilia esset insula: quia aliqui volunt, quod insula Cicilie solebat esse coniuncta Calabrie, nec erat mare inter Calabriam et Ciciliam; et aliquando, secundum tales, fuit divisa illa que est modo insula. Mons ille Pellorus non mutavit nomen propter illam divisionem sic factam, sed adhuc vocatur Pellorus; et tale nomen acquisivit sibi mons a Pelloro, admiralo Hannibalis: nam quando Hannibal redijt de Ytalia ad Carthaginem, transivit per mare de Ytalia in Ciciliam, idest in insulam, et ita cito et festine cum magna classe, idest multitudine navium, ut cum fuit in insula Cicilie, propter accellerationem festinam, quia tam cito transiret mare et appulerat in insulam, putavit se proditum et pati proditionem, et in furore fecit capi Pellorum, admiralum suum, et proiici in mari et sic suffocatus est. Reperta autem veritate, quod nullum defectum commiserat Pellorus, ymo ingeniose se habuerat, se penituit eum fecisse Pellorum proiici in mare, et fecit corpus eius inveniri: nec potens aliunde satisfacere, aut premiare, ipsum Pellorum admiralum, fecit eum sepelliri honorifice, et ab illo Pelloro indidit nomen illi monti, et vocavit montem illum Pellorus a nomine admirali sui, in illo sepulti: et sic adhuc illud nomen tenet ille mons), usque ad locum, ubi redditur per restaurum, idest, pro restauratione, idest unde aque incipiunt fluere de illo, quod celum a marina [s]ciugat, idest siccat, attrahendo unde habent flumina quidquid, idest omnes aquas suas, vadit cum eis (nota quod auctor hic videtur
 
 <!-- p. 581 (0635) -->
 
@@ -306,7 +306,7 @@ Sanguinolentus exit de tristi silva; dimictit eam talem, quod tunc ad mille anno
 
 28 Fuit sanguis meus ita accensus invidia,\
 &emsp;Quod si vidissem hominem fieri letum,\
-&emsp;Vidissem me de livore conspersum.
+&emsp;Vidisses me de livore conspersum.
 
 29 Seme d'invidia cotal pigla mieto (6).\
 &emsp;O gent'humana, perchè poni 'l core\
@@ -383,7 +383,7 @@ Et primo nominat Litium. Hic Litius fuit nobilis miles de Valle Bona, supra Forl
 &emsp;Ugholin d'Azzo, che vivette nosco;
 
 35 Non mireris, si ego ploro, Tuscus,\
-&emsp;Quando reminifcor cum Guidone de Prato\
+&emsp;Quando reminiscor cum Guidone de Prato\
 &emsp;Ugoline Azzonis, quando vixit nobiscum;
 
 36 Federigo Tignoso e sua brigata;\
@@ -424,7 +424,7 @@ Iam auctor facit mentionem de quinto illustri viro, de Fabro Bononiensi. In Bono
 
 Facit adhuc de sexto viro illustri mentionem, qui vocabatur Bernardinus de Fusco, de civitate Faventie sic dicta. Licet hic ori'retur de plebeio genere, tamen fuit nobilissimi animi et valde virtuosus, curialis et liberalis. De quibus auctor dicit: Quando in Bononia unus Faber (nomen proprium) relignatur, idest resurget, sive germinabit, quando in Faventia unus Bernardinus de Fusco, virga gentilis, idest nobilis, parve gramigne, idest nationis?
 
-Ne mireris, si ego plango, Tuscus, quando reminifcor cum Guidone Ugolini Azzonis, qui vixit nobiscum. Hec verba dicebat Guido de Duce ipsi auctori. Facit mentionem de septimo spiritu, de Ugolino Azii. Hic fuit de Ubaldinis, nobili domo de Alpibus. Fuit nepos domini Frederici cardinalis de Ubaldinis. Fuit etiam virtuosus et dignus magna fama. Fit mentio de octavo spiritu, scilicet de Frederico Tignoso, sic dicto per oppositum, quia habebat pulcherrimum caput. Fuit etiam homo valde virtuosus: fuit de domo supradicta, de Traversariis de Ravenna; et tota sua sotietas, idest familia, fuit bona. Et Anastasiorum domus, de Ravenna, nobilis, fuit etiam optima, idest optimi viri fuerunt in ea. Unde dicit textus: Frederici Tignosi, idest recordor, et sue sotietatis, domus Traversarie et Anastasiorum; et utraque gens est exheredata, scilicet illarum domorum; laborum atque otiorum, que [in] voluntatem nostram inducebant honorem et curialitatem, idest provocabant nos ad talia faciendum, ibi ubi corda sunt facta ita maligna. Ab ista domo Traversaria adhuc una porta civitatis Ravenne nuncupatur Porta Traversaria. Ecce quod honor et curialitas sunt bona delectabilia et forte honesta.
+Ne mireris, si ego plango, Tuscus, quando reminiscor cum Guidone Ugolini Azzonis, qui vixit nobiscum. Hec verba dicebat Guido de Duce ipsi auctori. Facit mentionem de septimo spiritu, de Ugolino Azii. Hic fuit de Ubaldinis, nobili domo de Alpibus. Fuit nepos domini Frederici cardinalis de Ubaldinis. Fuit etiam virtuosus et dignus magna fama. Fit mentio de octavo spiritu, scilicet de Frederico Tignoso, sic dicto per oppositum, quia habebat pulcherrimum caput. Fuit etiam homo valde virtuosus: fuit de domo supradicta, de Traversariis de Ravenna; et tota sua sotietas, idest familia, fuit bona. Et Anastasiorum domus, de Ravenna, nobilis, fuit etiam optima, idest optimi viri fuerunt in ea. Unde dicit textus: Frederici Tignosi, idest recordor, et sue sotietatis, domus Traversarie et Anastasiorum; et utraque gens est exheredata, scilicet illarum domorum; laborum atque otiorum, que [in] voluntatem nostram inducebant honorem et curialitatem, idest provocabant nos ad talia faciendum, ibi ubi corda sunt facta ita maligna. Ab ista domo Traversaria adhuc una porta civitatis Ravenne nuncupatur Porta Traversaria. Ecce quod honor et curialitas sunt bona delectabilia et forte honesta.
 
 Nunc exclamatur hic contra Bertennorium, civitatem sic dictam, unde erat iste Guido de Duce, loquens: O Bertenorium, quare non fugis tu per viam, postquam recessit tua familia (idest, postquam semen tuum antiquum et verum periit), et multa gens, ut non efficiatur prava?
 
@@ -454,7 +454,7 @@ Bene facit Bagnacavallum, oppidum in Romandiola sic dictum, in quo erant multi v
 &emsp;Troppo di pianger più che di parlare;\
 &emsp;Sì m'ha vostra ragion la mente strecta.
 
-42 Sed iam recede, Tusce, ammodo; quia nunc me\
+42 Sed iam recede, Tusce, ammodo; quia nunc me delectat\
 &emsp;Nimis plangere plusquam loqui:\
 &emsp;Ita vestra ratio michi mentem strinxit.
 
@@ -551,7 +551,7 @@ Modo Virgilius reprehendit invidos per quamdam similitudinem. Sicut enim pisces 
 
 50 Vocat vos celum, et circum vos se girat,\
 &emsp;Monstrando vobis suas pulchritudines eternas;\
-&emsp;Et oculus vester tamen semper ad terram respieit:\
+&emsp;Et oculus vester tamen semper ad terram respicit:\
 &emsp;Unde vos verberat qui totum discernit.
 
 (1) ob quod. — (2) Dio.

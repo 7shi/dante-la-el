@@ -464,7 +464,7 @@ Sicut ad manum dextram, pro ascendendo ad montem, ubi sedet, scilicet Sancti Min
 &emsp;Con cosa in capo, non da lor saputa,\
 &emsp;Se non ch'e cenni altrui sospicciar fanno;
 
-43 Tune feci ego sicut illi qui vadunt\
+43 Tunc feci ego sicut illi qui vadunt\
 &emsp;Cum re in capite ab eis ignota,\
 &emsp;Nisi quod signa aliorum suspicari faciunt;
 
@@ -486,7 +486,7 @@ Unde ego: Magister, scilicet dixi, dicas qualis res gravis elevata, idest dempta
 
 Respondit: Quando alia P, que remanserunt adhuc in vultu tuo prope extincta, erunt, sicut iam unum in totum, scilicet rasum est, rasa, scilicet erunt, erunt tui pedes a bono velle ita vincti, quod non solum laborem non senties, sed erit delectatio eis sursum pingi. Vult auctor dicere: Cum fuerint purgata omnia peccata mortalia, figurata per ista septem P, tunc delectabiliter ascendent pedes tui.
 
-Tune feci ego sicut illi qui vadunt cum re, scilicet aliqua, in capite, ab eis ignota, nisi quod signa aliorum suspicari faciunt, quia aliqui dicunt, vel aliquo modo indicant, aliquam
+Tunc feci ego sicut illi qui vadunt cum re, scilicet aliqua, in capite, ab eis ignota, nisi quod signa aliorum suspicari faciunt, quia aliqui dicunt, vel aliquo modo indicant, aliquam
 
 <!-- p. 564 (0618) -->
 

@@ -248,7 +248,7 @@ Nos fuimus iam omnes per vim, idest violenter, mortui et peccatores usque ad ult
 
 Auctor excusat se, dicens: Et ego, idest dixi: Quamquam in vestris visibus, idest faciebus, respiciam, non cognosco aliquem (hoc erat, vel quia Dantes nunquam viderat aliquem illorum, vel quia erant transfigurati propter mortem violentam); sed si vobis placet res, quam ego possim, o spiritus bene nati, idest quia finiti, idest mortui in gratia Dei, vos dicite, et ego faciam per illam pacem, que retro pedem talis conductoris de mundo in mundum a me se queri facit. Quod auctor velit facere quod petierit, sacramento confirmat. Quasi dicat: Ego iuro per pacem illam eternam, quam spero et perquiro tot laboribus, sequendo pedes, idest vestigia [istius], de mundo in mundum, quia primo per Infernum, idest per cognitionem vitiorum, ut melius vitaret ipse auctor peccata.
 
-Et unus incepit. E uno comenciò: hec est tertia pars huius capituli. Hic loquitur dominus, dominus Iacobus Cassaro, de Fano, qui fuit homo solempnis, nobilis et doctor et miles, et fuit officialis, potestas, capitaneus in multis civitatibus: hic fuit interfectus, sicut dicetur. Nota quod, in millesimo tercentesimo, Azzo tertius, marchio Estensis, qui fuit potens et dives dominus Ferrarie, movit guerram contra civitatem Parme; et erat tunc dominus Regii, civitatis sic dicte in Lombardia; quia quidam nobiles de Sancto Vitali, qui erant amici sui, amore eius fuerunt expulsi de Parma. Tune civitas Bononie, que tunc regebat se ad populum, timens ne marchio, habens Parmam, efficeretur nimis potens, et postea contra Bononiam moveret guerram, ligaverunt se cum Parmensibus contra marchionem predictum; qui marchio, videns potentiam harum civitatum, procuravit facere pacem cum Parmensibus. Qua facta, convertit se contra Bononiam, faciendo ligam cum omnibus
+Et unus incepit. E uno comenciò: hec est tertia pars huius capituli. Hic loquitur dominus, dominus Iacobus Cassaro, de Fano, qui fuit homo solempnis, nobilis et doctor et miles, et fuit officialis, potestas, capitaneus in multis civitatibus: hic fuit interfectus, sicut dicetur. Nota quod, in millesimo tercentesimo, Azzo tertius, marchio Estensis, qui fuit potens et dives dominus Ferrarie, movit guerram contra civitatem Parme; et erat tunc dominus Regii, civitatis sic dicte in Lombardia; quia quidam nobiles de Sancto Vitali, qui erant amici sui, amore eius fuerunt expulsi de Parma. Tunc civitas Bononie, que tunc regebat se ad populum, timens ne marchio, habens Parmam, efficeretur nimis potens, et postea contra Bononiam moveret guerram, ligaverunt se cum Parmensibus contra marchionem predictum; qui marchio, videns potentiam harum civitatum, procuravit facere pacem cum Parmensibus. Qua facta, convertit se contra Bononiam, faciendo ligam cum omnibus
 
 <!-- p. 484 (0538) -->
 
@@ -362,7 +362,7 @@ Postea dixit unus alter: De, si illud desiderium adimpleatur, quod te trahit ad 
 
 33 Ubi vocabulum suum devenit vacuum\
 &emsp;Apuli ego foratus in gula.\
-&emsp;Fugiendos pedes et sanguine fedans planum.
+&emsp;Fugiendo pedes et sanguine fedans planum.
 
 34 Quivi perdei la vista, e la parola\
 &emsp;Nel nome di Maria finii, e quivi\

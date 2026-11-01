@@ -159,7 +159,7 @@ Quantum ab hinc: hec est secunda particula huius capituli, in qua auctor disting
 &emsp;Prima che giunghi al passo del perdono.
 
 14 Frenum vult esse contrarii soni;\
-&emsp;Credo quod tu audies, secundum meam ymaginationem],\
+&emsp;Credo quod tu audies, secundum meam ymaginationem,\
 &emsp;Priusquam pervenias ad passum indulgentie.
 
 (1) al. urlando.

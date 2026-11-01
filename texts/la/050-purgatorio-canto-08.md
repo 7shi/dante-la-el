@@ -137,7 +137,7 @@ Ecce quod exauditio facta est. Mictuntur protectores ad defendendum istas animas
 &emsp;Come virtù ch'a troppo si confonda.
 
 12 Bene discernebam in eis caput flavum;\
-&emsp;Sed in faciebus oculus meus deviahat,\
+&emsp;Sed in faciebus oculus meus deviabat,\
 &emsp;Sicut virtus que a nimio confunditur.
 
 13 Ambo vegnon del grembo di Maria,\
@@ -234,7 +234,7 @@ Solum per tres passus credo quod descendimus, et fui infra, et vidi unum, qui re
 &emsp;Che sedea lì, gridando: Su, Corrado,\
 &emsp;Vien a veder che Dio per gratia volse.
 
-22 Unus ad Virgilium, et alter ad me se voluit\
+22 Unus ad Virgilium, et alter ad me se volvit\
 &emsp;Qui sedebat ibi, clamando: Surge, Conrade,\
 &emsp;Veni ad videndum quid Deus per gratiam voluit.
 

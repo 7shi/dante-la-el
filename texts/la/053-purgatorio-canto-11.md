@@ -447,7 +447,7 @@ Ille qui de itinere. Colui che de camin: ista est quarta pars huius capituli, in
 &emsp;A rechar Siena tutta in le sue mani (9).
 
 41 Ille est, respondit, Provintianus Silvanus;\
-&emsp;Et est hic, quifa fuit presumptuosus\
+&emsp;Et est hic, qui[a] fuit presumptuosus\
 &emsp;Ad reducendum Senas totas ad suas manus.
 
 42 Ito è così e va (10) senza riposo,\

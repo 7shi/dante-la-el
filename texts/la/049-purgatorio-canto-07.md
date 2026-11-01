@@ -12,7 +12,7 @@ In septimo capitulo, scilicet in isto, quod incipit: Postquam caripendia, etc., 
 &emsp;Fur (1) iterate tre e quattro volte,\
 &emsp;Sordel si trasse, e disse: Voi chi sete?
 
-1 Postquam accol lectiones honeste et lete\
+1 Postquam accollectiones honeste et lete\
 &emsp;Fuerunt iterate tribus et quatuor vicibus,\
 &emsp;Sordellus se traxit, et dixit: Vos qui estis?
 
@@ -34,7 +34,7 @@ In septimo capitulo, scilicet in isto, quod incipit: Postquam caripendia, etc., 
 
 (1) furono.
 
-Postquam accol lectiones honeste. Poscia che l'accoglienze honeste: istud est septimum capitulum istius Purgatorii, in quo auctor tractat de quinta specie negligentium, qui, propter dignitates et dominia impediti, tardaverunt penitentiam usque ad mortem; et dividitur in quatuor partes. In quarum prima, continuando dicta dicendis, ponit interrogationem factam a Sordello Virgilio et collationem quamdam inter eos.
+Postquam accollectiones honeste. Poscia che l'accoglienze honeste: istud est septimum capitulum istius Purgatorii, in quo auctor tractat de quinta specie negligentium, qui, propter dignitates et dominia impediti, tardaverunt penitentiam usque ad mortem; et dividitur in quatuor partes. In quarum prima, continuando dicta dicendis, ponit interrogationem factam a Sordello Virgilio et collationem quamdam inter eos.
 
 In secunda, que incipit ibi:
 
