@@ -18,8 +18,8 @@ by marking where it disagrees with GLM-OCR, so a word that both read alike and w
 not marked (0085 `terret` for printed `territ`, 0197 `circuleto` for `circulecto`, both
 corrected outside the markup). The two checks below look for them (decided with the user, 2026-11-01).
 
-Check 1 is under way, batch by batch (results under the check): batches 1–7
-(`0079`–`0870`) are decided. **Next**: batch 8 (`0871`–`1010`), from "Per batch", step 1.
+Check 1 is under way, batch by batch (results under the check): batches 1–8
+(`0079`–`1010`) are decided. **Next**: batch 9 (`1011`–`1140`), from "Per batch", step 1.
 
 ## Checks
 
@@ -76,7 +76,6 @@ the run goes batch by batch:
 
 | Batch | Pages | Candidates |
 |-------|-------|-----------:|
-| 8 | 0871–1010 | 135 |
 | 9 | 1011–1140 | 155 |
 | 10 | 1141–1270 | 138 |
 
@@ -128,6 +127,7 @@ the run goes batch by batch:
 | 5 | 0479–0608 | 135 | 5 (0521 `per-`/`mitteret` → `micteret`; 0547 `summítas`; 0568 `discerneham`; 0575 `Tilonis` → `Titonis`; 0603 `Egu-`/`bii,` → `Eugubii,` on one line) | outside: 15 lines, most in the Latin verse (0490 `Aeris` → `Aieris`; 0492, 0526 `societate` → `sotietate`; 0493 `ream,` → `ream;`; 0496, 0569 `mihi` → `michi`; 0506 `Quicunque` → `Quicumque`; 0540 `aëre` → `aiere`; 0541 `disfécit`; 0582 `plantas` → `planctas` ×2; 0591 `timetúr`; 0592 `procedebat` → `precedebat`; 0595 `ride[n]t` → `vide[n]t`). The batch 4 accent search had missed acute accents: a search for them corrected 11 more (0490 `devenít`, `habuít`; 0541:33 `aëre`; 0591:55 `imprimítur`; 0597 `despiciébat`; 0614 `martyríi`; 0662 `Mísit`; 0719 `rumorís`; 0734 `Redít`, `redít`; 0742 `utiliús`); 0926 `quómodo` is printed. The same search over the Italian words: 0526 `Phetón`, 0614 `fuggíro`, 0805 `Parríano` corrected, 0614 `lí` → `lì`; 0247 `félli`, 0366 `Férsi`, 0418 `Minós`, 0739 `cóntemperare`, 0948 `sí` are printed |
 | 6 | 0609–0740 | 140 | 2 (0670 `Recordcris` → `Recorderis`; 0716 `tunc` → `tuuc`, a turned `n`) | outside: 10 lines (0628 `paucum` → `paucam`; 0639 `societatis` → `sotietatis`; 0649 `ditiores` → `dictiores`; 0653 `somno` → `sompno`, all in the Latin verse; 0653:75–76 `potes te su-` / `stinere;` → `potes` / `te sustinere;`, and `medium` → `mediam`; 0686 `non sentitur` → `uon seutitur`, turned `n`s; 0730 `rimaso` → `remaso`; 0734 `concordabat` → `concorda[ba]t`) |
 | 7 | 0741–0870 | 149 | 0 | outside: 5 lines, all in the Latin verse (0748 `tibi` left out; 0749 `societatem` → `sotietatem`; 0772 `ymnpo` → `ympno`; 0777 `inditum` → `inditium`; 0807 `Xerxes` → `Xerses`). The italic `c` without the eye of an `e` is kept as printed (0764 `volca`, 0777 `Fericbat`, 0855 `iciuna`) |
+| 8 | 0871–1010 | 135 | 0 | outside: 5 lines (0943 `volvit` → `voivit`, a dotted `i`; 0976 `Brentae` → `Brente`, Latin verse; 0978 `Ferrariensem` → `ferrariensem`; 0978:89–90 `parti-` / `alem scilicet` → `partia-` / `lem, scilicet`; 1001 `dicum` → `dicam`) |
 
 ### Italics (after check 1; decided with the user, 2026-11-01)
 
@@ -302,6 +302,8 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0777 | 27 | `2 Fericbat me sol` | `Feriebat` | Latin verse; an italic `c` without the eye; the commentary has `Feriebat`. |
 | 0832 | 89 | `corum pluvium` | `eorum` | Commentary; the image shows `c`; the verse has `eorum`. |
 | 0855 | 20 | `apparebat iciuna.` | `ieiuna` | Latin verse; an italic `c` without the eye; the commentary has `ieiuna`. |
+| 0943 | 65 | `inde se voivit in` | `volvit` | Commentary; an `i` with its dot for `l`; the verse has `volvit`. |
+| 0976 | 61 | `catur Prava),` | `Piava` | Commentary; the image shows `r`; the verse has `Piave`. |
 | 0525 | 28 | `ad ventrum lista` | `centrum` | Latin verse 10; an italic `v` (rounded bottom); the commentary has `centrum`. |
 | 0526 | 48 | `in sotictate` | `sotietate` | Commentary; the image shows `c` (no bar); the verse has `sotietate`. |
 | 0131 | 53 | `qui fuit iustus` / `index,` | `iudex` | A turned `u`; GLM-OCR and Tesseract read `index` too. |
