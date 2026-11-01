@@ -204,7 +204,7 @@ Ego dixi ad eum: Quantum possum vos precor; et si vultis quod vobiscum sedeam, f
 
 19 Et ipse ad me: Si tu sequeris stellam,\
 &emsp;Non potes fallere gloriosum portum,\
-&emsp;Si bene comprehendisti in vita pulchra:
+&emsp;Si bene comprehendidi in vita pulchra:
 
 20 E s'io non fussi sì per tempo morto,\
 &emsp;Vedendo 'l cielo a te così benigno,\
