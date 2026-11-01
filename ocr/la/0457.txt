@@ -49,7 +49,8 @@ In dolorosum carcerem, et ego perpendi
 Per quatuor visus meum aspectum eumdem;
 20 Ambas manus propter dolorem michi momordi;
 Et ipsi, cogitantes quod ego facerem illud propter
-Manducandi, subito se erexerunt, [voluntatem
+[voluntatem
+Manducandi, subito se erexerunt,
 21 Et dixerunt: Pater, multo erit nobis minor dolor,
 Si tu comedis de nobis: tu nos vestisti
 Istam miseram carnem, et tu illam expolia.
@@ -64,7 +65,8 @@ Ita vidi eos cadere tres, unum post alium,
 Inter quartum diem et sextum: unde ego me dedi
 25 Iam cecus ad abrancolandum supra quemlibet,
 Et duobus diebus eos vocavi postquam fuerunt
-Postea, plusquam dolor, potuit ieiunium. [mortui:
+[mortui:
+Postea, plusquam dolor, potuit ieiunium.
 
 Ego non plangebam; ita interius impetravi, idest indura-
 tus fui, sicut petra, ex dolore: plangebant ipsi, et Ansel-
