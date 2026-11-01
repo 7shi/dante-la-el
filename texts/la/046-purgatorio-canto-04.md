@@ -270,7 +270,7 @@ Oculos prius direxi ad lictora yma, postmodum illos elevavi ad solem, et admirab
 
 24 Sì, ch'amendue han un sol oryzon,\
 &emsp;E diversi hemisperii: onde la strada,\
-&emsp;Che mal non seppe corregger Phetón,
+&emsp;Che mal non seppe corregger Pheton,
 
 24 Ita, quod ambo habeant unum solum orizonta,\
 &emsp;Et diversa emispiria: unde est strata,\

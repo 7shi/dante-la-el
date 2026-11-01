@@ -133,7 +133,7 @@ Iam me transportaverant lenti passus intra silvam antiquam (quia primi parentes 
 &emsp;Plicabat herbam que in sua ripa exivit.
 
 10 Tucte l'acque che son di qua più monde (3),\
-&emsp;Parríano haver in sè mixtura alcuna,\
+&emsp;Parriano haver in sè mixtura alcuna,\
 &emsp;Verso di quella che nulla nasconde (4);
 
 10 Omnes aque que sunt in mundo magis munde,\

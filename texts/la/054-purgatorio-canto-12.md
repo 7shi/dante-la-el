@@ -226,7 +226,7 @@ Nota quod Amphyrao fuit nobilis augur, et potens, et strenuus in armis; et ipse 
 &emsp;Quam fecit Thamir (1), quando dixit Cyro (2):\
 &emsp;Sanguinem sitisti, et ego sanguine te impleo (3).
 
-20 Mostrava come in rocta si fuggíro\
+20 Mostrava come in rocta si fuggiro\
 &emsp;Gl'Assyri(8), poi che fu morto(9)Olopherne,\
 &emsp;Et anco (10) le reliquie (11) del martiro.
 
@@ -236,7 +236,7 @@ Nota quod Amphyrao fuit nobilis augur, et potens, et strenuus in armis; et ipse 
 
 21 Vedeva Troya (12) in cenere (13) e caverne:\
 &emsp;O Ylion, come te (14) basso e vile (15)\
-&emsp;Mostrava el segno (16) che lí si discerne!
+&emsp;Mostrava el segno (16) che lì si discerne!
 
 21 Videbam Troyam in cinerem et in cavernas:\
 &emsp;O Ylion, quomodo te bassum et vile\
