@@ -276,7 +276,7 @@ Sbarro: amplo.
 
 <!-- p. 114 (0168) -->
 
-23 E 'l buon maestro disse: Omai, figliuolo,\
+23 E 'l buon maestro disse: Omai, figluolo,\
 &emsp;S'appressa la città c'ha nome Dite,\
 &emsp;De' gravi cittadin, col grande stuolo.
 
@@ -460,7 +460,7 @@ Et ille dominus, qui illuc me duxerat, dixit: Ne timeas, quia hunc nostrum passu
 
 41 Et ad me dixit: Tu, quamquam ego irascar,\
 &emsp;Ne paveas, quod ego vincam pugnam,\
-&emsp;Quidquid ad defensionem intus circumvolvitur.
+&emsp;Quidquid ad defensionem intus circumvolvatur.
 
 42 Questa lor tracotanza non è nuova,\
 &emsp;Che già l'usaro a men (2) secreta porta,\

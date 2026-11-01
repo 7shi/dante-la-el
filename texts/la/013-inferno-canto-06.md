@@ -17,7 +17,7 @@ In sexto capitulo, quod incipit: Ad regressum mentis, vel rediens ad mentem, etc
 &emsp;Quod pro tristitia totum me confudit,
 
 2 Nuovi tormenti e nuovi tormentati\
-&emsp;Mi veggio 'ntorno, come ch'io (1)mi muova,\
+&emsp;Mi veggio 'ntorno, come ch'io (1) mi muova,\
 &emsp;E ch'io mi volva, e come ch'io mi guati.
 
 2 Nova tormenta et novos tormentatos\
@@ -336,7 +336,7 @@ Pro vera intelligentia textus et veritatis, notandum hic quod in millesimo trece
 
 27 Farinata et Thygnao, qui fuerunt ita digni,\
 &emsp;Iacobus de Rusticutiis, Henricus et Musca,\
-&emsp;Et alii qui ad bene faciendum posuerunt ingenia.
+&emsp;Et alii qui ad bene faciendum posuerunt ingenia,
 
 28 Dimmi ove son, e fa' ch'io li conosca;\
 &emsp;Chè gran desio mi strigne di sapere,\

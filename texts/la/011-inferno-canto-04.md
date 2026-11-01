@@ -111,7 +111,7 @@ Sicut persona, que ex vi excitaretur, rectus levatus, fixe respexi, ut cognoscer
 &emsp;Nel primo cerchio che l'abysso cigne.
 
 8 Eamus, quia via longa nos impellit.\
-&emsp;Sic michi dixit et sic me fecit intrare\
+&emsp;Sic michi dixit, et sic me fecit intrare\
 &emsp;In primum circulum, qui abyssum cingit.
 
 9 Quivi, secondo che per ascoltare,\
@@ -370,7 +370,7 @@ Isti qui sunt, qui tantum honorantur, quos a modo et moribus illorum distinguis?
 
 29 Bonus magister incepit dicere:\
 &emsp;Aspice illum cum illo ense in manu,\
-&emsp;Qui venit ante tres, tanquam dominus.
+&emsp;Qui venit ante tres, tamquam dominus.
 
 30 Quegli è Homero, poeta sovrano,\
 &emsp;L'altro è Oratio satyro, che viene,\
@@ -422,7 +422,7 @@ Quia quilibet istorum mecum convenit in nomine, quod sonavit vox sola: idest ill
 
 33 Postquam ratiocinati fuerunt sibi aliquantulum,\
 &emsp;Volverunt se ad me cum salutabili nutu;\
-&emsp;Et meus magister subrisit de tanto.
+&emsp;Et meus magister subrisit de tanto:
 
 34 E più d'honore assai ancor mi fenno,\
 &emsp;Ched ei (2) mi fecer de la loro schiera:\

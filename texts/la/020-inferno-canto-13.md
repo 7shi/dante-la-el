@@ -261,7 +261,7 @@ Sed dic illi quis tu fuisti; ita quod, invece, idest pro cambio, alicuius emende
 &emsp;Ingiusto fece me contr'a me giusto.
 
 24 Animus meus, propter dedignantem gustum,\
-&emsp;Credens moriendi fugere indignationem,\
+&emsp;Credens moriendo fugere indignationem,\
 &emsp;Iniustum fecit me contra me iustum.
 
 25 Per le nuove radici d'esto legno\

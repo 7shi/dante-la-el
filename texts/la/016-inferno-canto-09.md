@@ -438,7 +438,7 @@ Postmodum revolvit se per stratam lordam: idest cenosam; nec dixit aliquid ampli
 &emsp;Et ego qui habebam respiciendi desiderium\
 &emsp;Conditionem que tale fortalitium claudit,
 
-37 Com'io fu'(1) dentro, l'ochio intorno invio;\
+37 Com'io fu' (1) dentro, l'ochio intorno invio;\
 &emsp;Ed vidi ad ogni man grande compagna\
 &emsp;Piena di duolo e di tormento rio.
 

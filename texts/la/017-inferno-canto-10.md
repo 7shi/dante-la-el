@@ -439,7 +439,7 @@ Nos videmus, sicut illi qui habent malam lucem, res, dixit, que sunt nobis a lon
 &emsp;Est inter vivos adhuc coniunctus.
 
 38 E s'io fui dianzi a la risposta muto,\
-&emsp;Diteli ch'io 'l fei, perch'io pensava\
+&emsp;Diteli ch'io 'l fei, per ch'io pensava\
 &emsp;Già nell'errore che m'avete soluto.
 
 38 Et si ego fui ante responsum mutus,\

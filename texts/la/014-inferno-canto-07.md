@@ -339,7 +339,7 @@ Sciocche: idest fatue, ignorantes; quasi dicat, gens grossa, rudis, in hoc quod 
 &emsp;Ordinavit generalem ministrum et ducem,
 
 27 Che transmutasse a tempo li ben vani,\
-&emsp;Di gente in gente, et uno(1) in altro sangue,\
+&emsp;Di gente in gente, et uno (1) in altro sangue,\
 &emsp;Oltra la defension (2) de'senni (3) humani:
 
 27 Qui permutaret in tempore bona vana,\
@@ -358,7 +358,7 @@ Bona vana: idest umbratila, quia umbre sunt, que cito apparent et cito disparent
 
 <!-- p. 104 (0158) -->
 
-28 Perch'una gente impera, et altra(1) langue,\
+28 Perch'una gente impera, et altra (1) langue,\
 &emsp;Sequendo lo iudicio di costei,\
 &emsp;Che sta occulto, com'in herba l'angue.
 
@@ -444,7 +444,7 @@ Ciccus de Asculo, quidam auctor sic vocatus Ciccus de Asculo, non veritus est in
 &emsp;Et nos, in sotietatem undarum grigium,\
 &emsp;Intravimus intro per unam viam diversam.
 
-36 Una palude v'è(3) c'ha nome Stige,\
+36 Una palude v'è (3) c'ha nome Stige,\
 &emsp;Questo tristo ruscel, quand' è disceso\
 &emsp;A piè de le malvage piagge grige.
 
@@ -500,7 +500,7 @@ Unam paludem facit, nomine Styge, iste tristis rivus, quando descendit ad pedes 
 
 39 Lo buon maestro disse: Figluol, vedi\
 &emsp;L'anime di color cui vinse l'ira:\
-&emsp;Et anco vo'(1) che tu per certo credi,
+&emsp;Et anco vo' (1) che tu per certo credi,
 
 39 Bonus magister dixit tunc: Or videas\
 &emsp;Animas illorum, quos vicit ira:\
