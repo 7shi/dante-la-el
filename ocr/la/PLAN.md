@@ -18,8 +18,8 @@ by marking where it disagrees with GLM-OCR, so a word that both read alike and w
 not marked (0085 `terret` for printed `territ`, 0197 `circuleto` for `circulecto`, both
 corrected outside the markup). The two checks below look for them (decided with the user, 2026-11-01).
 
-Check 1 is under way, batch by batch (results under the check): batches 1–8
-(`0079`–`1010`) are decided. **Next**: batch 9 (`1011`–`1140`), from "Per batch", step 1.
+Check 1 is under way, batch by batch (results under the check): batches 1–9
+(`0079`–`1140`) are decided. **Next**: batch 10 (`1141`–`1270`), from "Per batch", step 1.
 
 ## Checks
 
@@ -76,7 +76,6 @@ the run goes batch by batch:
 
 | Batch | Pages | Candidates |
 |-------|-------|-----------:|
-| 9 | 1011–1140 | 155 |
 | 10 | 1141–1270 | 138 |
 
 **Per batch** (steps 4–6, the image reading delegated to la-el-agy; decided with the user,
@@ -128,6 +127,7 @@ the run goes batch by batch:
 | 6 | 0609–0740 | 140 | 2 (0670 `Recordcris` → `Recorderis`; 0716 `tunc` → `tuuc`, a turned `n`) | outside: 10 lines (0628 `paucum` → `paucam`; 0639 `societatis` → `sotietatis`; 0649 `ditiores` → `dictiores`; 0653 `somno` → `sompno`, all in the Latin verse; 0653:75–76 `potes te su-` / `stinere;` → `potes` / `te sustinere;`, and `medium` → `mediam`; 0686 `non sentitur` → `uon seutitur`, turned `n`s; 0730 `rimaso` → `remaso`; 0734 `concordabat` → `concorda[ba]t`) |
 | 7 | 0741–0870 | 149 | 0 | outside: 5 lines, all in the Latin verse (0748 `tibi` left out; 0749 `societatem` → `sotietatem`; 0772 `ymnpo` → `ympno`; 0777 `inditum` → `inditium`; 0807 `Xerxes` → `Xerses`). The italic `c` without the eye of an `e` is kept as printed (0764 `volca`, 0777 `Fericbat`, 0855 `iciuna`) |
 | 8 | 0871–1010 | 135 | 0 | outside: 5 lines (0943 `volvit` → `voivit`, a dotted `i`; 0976 `Brentae` → `Brente`, Latin verse; 0978 `Ferrariensem` → `ferrariensem`; 0978:89–90 `parti-` / `alem scilicet` → `partia-` / `lem, scilicet`; 1001 `dicum` → `dicam`) |
+| 9 | 1011–1140 | 155 | 0 | outside: 2 lines, both in the Latin verse (1053:52 `Contemplando perpeduo, et qui me assidet, idest me` → `Cum perpetua visione, et qui me sitibundum facit`, a whole line not of the print; 1129 `litore` → `lictore`). The delegate's first readings of 60 images (L0001–L0060) were not of those images and were read again |
 
 ### Italics (after check 1; decided with the user, 2026-11-01)
 
@@ -304,6 +304,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0855 | 20 | `apparebat iciuna.` | `ieiuna` | Latin verse; an italic `c` without the eye; the commentary has `ieiuna`. |
 | 0943 | 65 | `inde se voivit in` | `volvit` | Commentary; an `i` with its dot for `l`; the verse has `volvit`. |
 | 0976 | 61 | `catur Prava),` | `Piava` | Commentary; the image shows `r`; the verse has `Piave`. |
+| 1126 | 64 | `[ficum,` | `fixum` | Latin verse 31, the runover word; italic; the commentary has `fixum`. |
 | 0525 | 28 | `ad ventrum lista` | `centrum` | Latin verse 10; an italic `v` (rounded bottom); the commentary has `centrum`. |
 | 0526 | 48 | `in sotictate` | `sotietate` | Commentary; the image shows `c` (no bar); the verse has `sotietate`. |
 | 0131 | 53 | `qui fuit iustus` / `index,` | `iudex` | A turned `u`; GLM-OCR and Tesseract read `index` too. |
