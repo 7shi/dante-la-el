@@ -23,8 +23,9 @@ more errors found in the same lines and by the searches they led to (DONE.md, "C
 **Next**, in this order (each below, under "Checks"):
 
 1. **Verse check**: first the text only (step 0): la-el-agy lists the Latin lines whose
-   sense clearly parts from the Italian, and they are decided in the image; then every
-   line read again from the image (steps 1–4), as check 1's batches.
+   sense clearly parts from the Italian, and they are decided in the image (Inferno
+   done; Purgatorio and Paradiso next); then, if the user decides it is still needed,
+   every line read again from the image (steps 1–4), as check 1's batches.
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
    `ocr/la` (steps 3–6).
@@ -93,6 +94,19 @@ reads it).
    `versecheck.tsv`; the rate of real errors among the listed lines and among check 1's
    verse errors (how many the list would have found) decides with the user whether the
    reading from the image (steps 1–4) is still needed, and for which lines.
+   - **Inferno** (008–041, 4,720 lines; done): 110 lines listed. 20 were the runover
+     words set beside the next line (the pairs had them on the wrong line; the
+     convention under "Brackets" now places them, and all pages were done). Of the
+     other 90: 3 misread (0095 `invetis` → `iuvetis`; 0402 `ridet` → `videt`, in the
+     verse and in its lemma, so check 1 could not see it; 0450 `promererar` →
+     `promerear`), 4 misprints (Suspected misprints: 0085 `co`, 0227 `est`, 0259
+     `prerogatiram`, 0439 `leravit`), 83 printed so (the translator's: `plus` for
+     `men`, `puppim`/`proram` swapped, `-didi` perfects). None of check 1's Inferno
+     verse errors was listed: they are all spellings and accents (`mihi`, `Insìmul`,
+     `emictiunt`, `Capra[ra]`), which leave the sense alone; step 0 finds only
+     misreadings that change a word.
+   - **Purgatorio** (043–075) and **Paradiso** (076–108): next, a task each, on the
+     user's signal; the task names the runover words as settled.
 1. **Script** `ocr/la_versecheck.py FIRST LAST --readings DIR [-o OUT]`: for each page with
    verse, the Latin block of `ocr/la` (as `la_lemmacheck.py` finds it) against the
    reader's `DIR/PAGE.txt`, line by line (aligned, so that a line left out or added shows
@@ -226,7 +240,13 @@ check, the italics and check 2 to DONE.md, as check 1's.
 - **Tercet numbers**: plain digits (`1`, `2`, …), as printed; where the print has none
   (0099), none is added.
 - **Brackets**: printed brackets stay as printed (`stet[era]t`, `qu[em]libet`). A runover
-  verse word goes on its own line starting with `[`.
+  verse word goes on its own line starting with `[`, directly after the line it ends
+  (decided with the user, 2026-11-01), even where the print sets it on the row of the
+  next line (0100 `[suum dampnum.` after `vel ad fugiendum`, not after `Quomodo ego…`):
+  `convert_la.py` joins it to the line above. 16 that stood after the next line, or at
+  the end of it (0411 `…non vides. [sum est,`), were moved: 0100, 0239 ×2, 0389 ×2, 0411,
+  0416, 0439, 0444, 0456, 0457 ×2, 0472, 0556, 0642, 0648 (all 409 verse and prose
+  `[…` lines of 0079–1270 looked at in the image).
 - **Punctuation**: no space before `:` or `;`. Apostrophe spacing as in the file. No accents
   added that the scan does not show.
 - **Colon or semicolon**: in commits 1–3 decided on a crop at full resolution, enlarged; a
@@ -329,6 +349,10 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 1031 | 69–70 | `corrupti-` / `lium` | `corruptibilium` | Commentary; a syllable lost over the line break. |
 | 1135 | 73–74 | `sen-` / `bianza` | `sembianza` | Italic lemma; the verse has `sembianza`; the image shows `n`. |
 | 1264 | 59–60 | `mi-` / `mium` | `nimium` | Commentary; the image shows `mi-`. |
+| 0085 | 29 | `quod aier de co timeret` | `eo` | Latin verse 48 (Italian `ne temesse`); an italic `c` without the eye, as 0764 `volca`. |
+| 0227 | 49 | `Surgit in vermen est plantam` | `et` | Latin verse 100 (Italian `et in pianta`). |
+| 0259 | 47 | `prerogatiram` | `prerogativam` | Latin verse 23; an italic `r` for `v`, as 0154 `traraglia`. |
+| 0439 | 39 | `in navi se leravit` | `levavit` | Latin verse 145; an italic `r` for the first `v`. |
 
 ## Known limits
 
