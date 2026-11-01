@@ -22,9 +22,9 @@ Check 1 (lemmas against the verse) is done: 1,271 candidates, 9 misread, and abo
 more errors found in the same lines and by the searches they led to (DONE.md, "Check 1").
 **Next**, in this order (each below, under "Checks"):
 
-1. **Verse check**: every line of the Latin verse read again from the image by la-el-agy
-   and compared, as check 1's batches; write `ocr/la_versecheck.py` (step 1), then the
-   trial on batch 1 (step 2).
+1. **Verse check**: first the text only (step 0): la-el-agy lists the Latin lines whose
+   sense clearly parts from the Italian, and they are decided in the image; then every
+   line read again from the image (steps 1–4), as check 1's batches.
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
    `ocr/la` (steps 3–6).
@@ -79,6 +79,20 @@ other lines likely hold as many. Every line of the Latin verse is read again fro
 image and compared. The Italian verse is not in this check: it is in the markup (GLM-OCR
 reads it).
 
+0. **Text against the Italian** (decided with the user, 2026-11-01), before any image:
+   the Latin verse is a line-by-line translation of the Italian beside it, so a misread
+   that changes the sense (1053's whole line, `spendorum`, `gyrarit`)
+   shows against the Italian. `uv run ocr/la_versepairs.py -d DIR` writes each canto's
+   verse as pairs (`canto page tercet line italian latin`; 100 cantos, 14,233 lines, all
+   tercets paired). la-el-agy reads the pairs, a cantica a task, and lists the lines where
+   the Latin clearly does not say what the Italian says (another line's words, a word of
+   unrelated sense, a word missing or added that changes the sense, a word that is no
+   Latin), not the translation's freedoms or the manuscript's spellings (`michi`, `e` for
+   `ae`). The text only: no images, no other Dante text. Each listed line is then decided
+   in the image (`ocr/la_view.py word`), corrected if misread, and recorded in
+   `versecheck.tsv`; the rate of real errors among the listed lines and among check 1's
+   verse errors (how many the list would have found) decides with the user whether the
+   reading from the image (steps 1–4) is still needed, and for which lines.
 1. **Script** `ocr/la_versecheck.py FIRST LAST --readings DIR [-o OUT]`: for each page with
    verse, the Latin block of `ocr/la` (as `la_lemmacheck.py` finds it) against the
    reader's `DIR/PAGE.txt`, line by line (aligned, so that a line left out or added shows
@@ -404,6 +418,8 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 - `ocr/la_lemmacheck.py FIRST LAST [-v] [--crops DIR] [--readings DIR] [-o OUT]`: check 1
   (DONE.md, "Check 1"): lemmas against the verse; `--crops` writes the line images of the
   candidates, `--readings` compares a reader's `DIR/readings.tsv`.
+- `ocr/la_versepairs.py [FILES] [-d DIR | -o OUT]`: the verse of the cantos in `texts/la`,
+  the Italian and the Latin line side by side, one TSV per canto (verse check, step 0).
 - `ocr/la_versecheck.py`, `ocr/la_italic.py`, `ocr/la_lexcheck.py`: to be written ("Checks").
 
 The working data of the completed work in `tmp/` (`la-markup/`, `la-mark7/`, the paid
