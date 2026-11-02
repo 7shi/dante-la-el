@@ -23,9 +23,9 @@ more errors found in the same lines and by the searches they led to (DONE.md, "C
 **Next**, in this order (each below, under "Checks"):
 
 1. **Verse check**: the text only (step 0) is done; every line of the Latin and of the
-   Italian verse is read again from the image (steps 1–4): batches 1–10 done, then
-   batch 11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
-   batch 2, page images from batch 3; step 3).
+   Italian verse is read again from the image (steps 1–4): all 11 batches done (the
+   Italian by la-el-agy, the Latin by la-el-agy2; line images in batch 2, page images
+   from batch 3; step 3).
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
    `ocr/la` (steps 3–6).
@@ -413,6 +413,29 @@ compared with the print only: the edition's Italian is one manuscript's
      (`quel [lo]`, `iovia [l]`).
    - `la_check.py` over 1049–1150 and `la_seqcheck.py` give the same output.
 
+   **Batch 11** (1151–1270; done, 2026-11-03):
+   - Latin: 1,476 lines read (23 runovers, all their own lines), 11 differ in words, 3
+     more in punctuation. 6 misread: 1153 `ita,quod` without a space, 1170 `abbagliaris`
+     (no comma printed), 1181 `EL` (a small capital `L`; the commentary's `EL` on line
+     100 corrected too), 1213 `Sancti;`, `ammodo`, 1251 `tantam`. 2 misprints (Suspected
+     misprints: 1242 `corum`, `habundatiam`). Reader errors: no tercet numbers; 6 words
+     (`istam`, `contempor`, `consentietur`, `baptismate` without the printed `h`, the
+     known misprint `dicenduum` corrected, `Propier` for the printed `Propter`, reported
+     as a misprint).
+   - Italian: 1,467 lines read, 245 differ in words, 6 more in punctuation, nearly all
+     from 1222–1254 (Paradiso 30–32), where the reader left out every tercet number
+     (reported as not printed; they are) and wrote the gloss marks as superscripts.
+     Without those, 9 misread: 1171 `felice (1)!` (was `(!)`), 1179 `(5)` (was `(3)`),
+     1179 `supplìco` (the grave is printed), 1182 tercet `47` (was `57`, the error
+     `la_check.py` and `la_seqcheck.py` reported), 1206 `(4) 'l notturno` (was
+     `l'notturno`), 1206 `gl'ochi`, 1210 `vincto`, `Phylosophando`, 1247 `mei,`. 1
+     misprint (Suspected misprints: 1206 `(2)` for `(12)`). Reader errors: 7 words
+     (`inmota`, `abborre` and `specchio` for the printed `immota`, `abbhorre`, `spechio`;
+     `trascorse`, `egualmente`, `reflexo`; 1177 `[S']`, 1261 `che'` from specks) and
+     spaces after apostrophes in 1222–1254.
+   - `la_check.py` over 1151–1270 and `la_seqcheck.py` give the same output but for the
+     1182 tercet number, no longer reported.
+
    **Per batch**: the crops in `tmp/la-verse/bN/` (Latin) and `tmp/la-verse/bN-it/`
    (Italian); the Italian task to la-el-agy, the Latin to la-el-agy2, each carrying the
    feedback on its previous batch, sent only on the user's signal. The readings are first
@@ -687,6 +710,9 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 1124 | 9 | `uno scalco erecto` | `scaleo` | Italian verse; `c` for `e`; found by the verse reading. |
 | 1143 | 26 | `Sed puucum fuit` | `paucum` | Latin verse 6; found by the verse reading. |
 | 1148 | 35 | `Inde remunsere ibi` | `remansere` | Latin verse 43; found by the verse reading. |
+| 1242 | 24 | `et ad corum cantus` | `eorum` | Latin verse 45; the same line has `eorum` before; found by the verse reading. |
+| 1242 | 27 | `tantam habundatiam` | `habundantiam` | Latin verse 46; found by the verse reading. |
+| 1206 | 32 | `medesimo rise (2).` | `(12)` | Italian verse; the marks before are (10) and (11), the commentary has (12); found by the verse reading. |
 
 ## Known limits
 
