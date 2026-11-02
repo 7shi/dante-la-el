@@ -106,7 +106,9 @@ def page_parts(n):
         if all(re.fullmatch(r"[\dA-ZÀ-Ý' .,]+", t) for _, t in b):
             continue  # page number, heading, signature mark
         if NUMBER.match(b[0][1]) and not comm:
-            verse.append([(i, t) for i, t in b if not GLOSS.match(t)])
+            while GLOSS.match(b[-1][1]):  # the gloss lines at the block's end; a verse
+                b = b[:-1]                # line may start with a gloss mark (0402:16)
+            verse.append(b)
         elif GLOSS.match(b[0][1]) and not comm:
             continue
         else:

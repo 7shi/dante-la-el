@@ -6,8 +6,9 @@
     la_versecheck.py FIRST LAST --page-readings DIR [--italian] [-o OUT]
 
 The Latin verse of a canto page (the second verse block, as la_lemmacheck.py finds it;
-gloss lines left out) has had one reading only. --crops writes an image of each of its
-lines to DIR, in a shuffled order, for a reader who transcribes them from the image alone
+the gloss lines at its end left out) has had one reading only. --crops writes an image of
+each of its lines to DIR, in a shuffled order, for a reader who transcribes them from the
+image alone
 (DIR/lines.tsv maps them back; a line that Tesseract cannot locate, such as a runover word,
 goes to DIR/unlocated.tsv, to be read in the page image). This is check 1's procedure
 (la_lemmacheck.py --crops), over every line of the Latin verse.
