@@ -104,7 +104,7 @@ Modo auctor, confortatus a Beatrice de petendo, incipit petere ab isto spiritu d
 &emsp;D'intender qual fortuna mi s'appressa;\
 &emsp;Chè saetta previsa vien più lenta.]
 
-9 Quare voluntas mea esset contenta\
+9 Quare voluntas meu esset contenta\
 &emsp;Intelligere qualis fortuna michi se appropinquat;\
 &emsp;Quia sagipta previsa venit plus lenta.
 
@@ -440,7 +440,7 @@ Ego incepi, scilicet dicere, sicut ille, qui bramat, idest desiderat vel appetit
 &emsp;Quem ego reperi ibi, efficiebatur magis corusca,\
 &emsp;Sicut ad radium solis speculum aureum;
 
-42 Indi rispose: Conscïenza fusca\
+42 Indi rispose: Conscienza fusca\
 &emsp;O de la propria o dell'altrui vergogna,\
 &emsp;Pur sentirà la tua parola brusca.
 

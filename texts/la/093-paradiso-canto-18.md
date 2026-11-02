@@ -119,8 +119,8 @@ Quousque complacentia eterna fuit directa, radiabat a Beatrice, a pulchro visu, 
 &emsp;E fructa sempre, e mai non perde fogla,
 
 10 Ipse incepit: In ista quinta soglia\
-&emsp;Arboris, que vivit de summitate,\
-&emsp;Et fructificat semper, et nunquam perdit folia.
+&emsp;Arboris, que [v]ivit de summitate,\
+&emsp;Et fructificat semper, et nunquam perdit folia,
 
 11 Son spiriti beati, che giù, prima\
 &emsp;Che venisser al ciel, fur di gran voce,\
@@ -128,7 +128,7 @@ Quousque complacentia eterna fuit directa, radiabat a Beatrice, a pulchro visu, 
 
 11 Spiritus sunt beati, qui inferius, priusquam\
 &emsp;Venirent huc sursum, fuerunt grandis vocis,\
-&emsp;Ita quod omnis musa esset optima.
+&emsp;Ita quod omnis musa esset opima.
 
 12 Però mira ne' corni de la croce:\
 &emsp;Quel ch'io nominerò, lì farà l'acto\
@@ -286,7 +286,7 @@ Modo auctor vult describere unam pulchram et mirabilem fantasiam. Pro qua intell
 
 27 Pria cantando a sua nota moveansi;\
 &emsp;Poi, doventando l'un di questi segni,\
-&emsp;Un poco s'arrestavan e taceansi.
+&emsp;Um poco s'arrestavan e taceansi.
 
 27 Prius cantando ad suam notam se movebant;\
 &emsp;Postea, deveniendo unum istorum signorum,\

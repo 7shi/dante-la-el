@@ -204,14 +204,14 @@ Et ille sum ego, qui supra illum, scilicet montem, portavi primo nomen illius, q
 
 18 Et ego ad eum: Affectus quem demonstras\
 &emsp;Mecum loquendo, et bona sembianza\
-&emsp;Quam ego video et noto in cunctis ardoribus
+&emsp;Quam ego video et noto in cunctis ardoribus vestris,
 
 19 Così ha dilatato mia fidanza,\
 &emsp;Come'l sol fa la rosa, quando aperta\
 &emsp;Tanto divien quant'ella ha di possanza.
 
 19 Sic michi dilatavit meam fiduciam,\
-&emsp;Sicut sol facit rosam, quando aperta\
+&emsp;Sicut sol facit rosam, quando est aperta,\
 &emsp;Tantum devenit quantum ipsa habet de potentia.
 
 20 Però ti prego, e tu, padre, m'accerta,\
@@ -219,7 +219,7 @@ Et ille sum ego, qui supra illum, scilicet montem, portavi primo nomen illius, q
 &emsp;Ti veggia con ymagine scoperta.
 
 20 Ideo te precor, et tu, pater, me certifica,\
-&emsp;Si ego possum apprehendere tantam gratiam,\
+&emsp;Si ego possum apprehendere tantam gratiam, quod ego\
 &emsp;Te videam cum ymagine discooperta.
 
 21 Ond'elli: Frate, el tuo caldo desio\
@@ -354,7 +354,7 @@ Petrus incepit sine auro et argento (aliqui dicunt, quod auctor loquitur hic de 
 
 32 Vere Iordanis [qui] conversus est retrorsum\
 &emsp;Plus fuit, et mare fugere, quando Deus voluit,\
-&emsp;Mirabilis ad videndum, quam hic succursus.
+&emsp;Mirabilius ad videndum, quam hic succursus.
 
 33 Così mi disse, et indi si ricolse\
 &emsp;Al suo collegio; e'l collegio si strinse,\

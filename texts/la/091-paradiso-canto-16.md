@@ -340,7 +340,7 @@ Modo applicat ad propositum ea que dicta sunt, dicens: Quare non debet apparere 
 
 32 Supra portam, que ad presens est onerata\
 &emsp;De nova fellonia tanti ponderis\
-&emsp;Quod cito erit iactura barce.
+&emsp;Quod cito erit iactura barce,
 
 33 Erano e Ravignani, ond'è disceso\
 &emsp;El conte Guido, e qualunque del nome\
@@ -526,12 +526,12 @@ Domus, de qua natus est vester fletus, scilicet domus de Bondelmontibus, propter
 &emsp;Vidi ego Florentiam in tali quiete,\
 &emsp;Quod ipsa non habebat causam unde plangeret.
 
-51 Con queste genti vid' io glorioso\
+51 Con queste genti vid' io glorioso,\
 &emsp;E giusto el popol suo tanto, che 'l giglo\
 &emsp;Non era in hasta mai posto a retroso,\
 &emsp;Nè per division facto vermiglo.
 
-51 Cum istis gentibus vidi ego gloriosum\
+51 Cum istis gentibus vidi ego gloriosum,\
 &emsp;Et iustum populum suum tantum, quod lilium\
 &emsp;Non erat aste unquam positum per transversum,\
 &emsp;Nec propter divisionem factum rubeum.

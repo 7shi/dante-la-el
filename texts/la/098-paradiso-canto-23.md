@@ -22,7 +22,7 @@ In vicesimotertio capitulo, quod incipit: Sicut avis inter amatas frondes, aucto
 
 2 Que, propter videre aspectus desideratos,\
 &emsp;Et propter reperiendum cibum quo ipsos pascat,\
-&emsp;In quo gravi labores sunt [s]ibi grati;
+&emsp;In quo gravi labores sunt [s]ibi grati,
 
 3 Previene'l tempo in sull'aperta frasca,\
 &emsp;E con ardente affecto'l sole aspecta,\
@@ -70,7 +70,7 @@ Continuans autem auctor dicta dicendis, primo describit dispositionem ipsius Bea
 &emsp;Del mio attender, dico, e del vedere\
 &emsp;Lo ciel venir più e più dischiarando.
 
-6 Sed paucum fuit inter unum et aliud quando,\
+6 Sed puucum fuit inter unum et aliud quando,\
 &emsp;De meo expectare, dico, et de videre:\
 &emsp;Celum vidi ego venire plus et plus clarificando.
 
@@ -149,7 +149,7 @@ Qualis in pleniluniis serenis. Quale in plenilunii sereni: hec est secunda pars 
 &emsp;E fuor di sua natura in giù s'atterra;
 
 14 Sicut ignis de nube excluditur\
-&emsp;Propter se dilatare, eo quod ille locus eum non capit,\
+&emsp;Propter se dilatare,eo quod ille locus eum non capit,\
 &emsp;Et propter suam naturam infra attrahitur;
 
 15 La mente mia così, tra quelle dape\
@@ -442,7 +442,7 @@ Ideo non habuerunt oculi mei potentiam sequi coronatam flammam, idest Virginem M
 &emsp;Regina celi cantando sì dolce,\
 &emsp;Che mai da me non si parte'l dilecto.
 
-43 Inde remansere ibi in meo conspectu,\
+43 Inde remunsere ibi in meo conspectu,\
 &emsp;Regina celi cantando ita dulciter,\
 &emsp;Quod unquam a me non recessit illa delectatio.
 

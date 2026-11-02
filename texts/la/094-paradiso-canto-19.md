@@ -136,7 +136,7 @@ Unde ego prope. Ond'io appresso: hec est secunda
 
 12 Sicut falco qui escit de cappello,\
 &emsp;Movet caput, et cum alis sibi applaudit,\
-&emsp;Voluntatem monstrando, et faciendo se pulchrum.
+&emsp;Voluntatem monstrando, et faciendo se pulchrum,
 
 13 Vid'io farsi quel segno, che di laude\
 &emsp;De la divina gratia era contesto,\

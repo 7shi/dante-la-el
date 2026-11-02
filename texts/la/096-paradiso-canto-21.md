@@ -121,7 +121,7 @@ Qualis, vel quiscumque, sciret qualis erat pastura vultus mei, idest oculorum me
 &emsp;Sub quo iacuit omnis malitia mortua,
 
 10 Di color d'oro, in che raggio traluce,\
-&emsp;Vid'io uno scaleo erecto in suso\
+&emsp;Vid'io uno scalco erecto in suso\
 &emsp;Tanto, che nol seguiva la mia luce.
 
 10 Coloris aurei, in quo radius tralucet,\
@@ -470,7 +470,7 @@ Reddere solebat (hic conqueritur de suo monasterio, quod solebat esse sanctum, m
 
 44 Nunc volunt hinc inde qui recalcient\
 &emsp;Moderni pastores, et qui eos ducant,\
-&emsp;Tantum sunt graves, et qui retro eos elevent.
+&emsp;Tantum sunt graves, et que retro eos elevent.
 
 45 Cuopron co' manti loro e palaphreni,\
 &emsp;Sì che due bestie van sott'una pelle:\

@@ -50,7 +50,7 @@ Benigna voluntas, in qua liquescit, idest clare liquet, seu apparet, semper amor
 
 3 Quomodo erunt iustis precibus surde\
 &emsp;Ille substantie que, ut darent michi voluntatem\
-&emsp;Quod ego ipsas rogarem, ad tacendum fuerunt
+&emsp;Quod ego ipsas rogarem, ad tacendum fuerunt concordes?
 
 4 Ben è che senza termine si dogla\
 &emsp;Chi, per amor di cosa che non duri\
@@ -242,7 +242,7 @@ Et quando arcus ardentis affectus (arcus, idest sermo) fuit ita fogatus, idest e
 &emsp;Exprimat voluntatem, sonet desiderium,\
 &emsp;Ad quod meum responsum est iam decretum.
 
-24 Io mi volsi a Beatrice, e quella u'dio\
+24 Io mi volsi a Beatrice, e quella udìo\
 &emsp;Pria ch'io parlassi, et arrisommi un cenno\
 &emsp;Che fece crescer l'ali al voler mio.
 
@@ -274,7 +274,7 @@ Hiis auditis, auctor volvit se ad Beatricem, quasi petens licentiam ab ipsa loqu
 
 26 Però ch'al Sol, che v'allumò et arse\
 &emsp;Col caldo e co' la luce, èn sì equali,\
-&emsp;Che tutte simiglianze sono scarse.
+&emsp;Che tutte simiglanze sono scarse.
 
 26 Sed quia sol, qui vos illuminat et incendit\
 &emsp;Cum calore et cum luce, sunt ita equales,\
