@@ -23,8 +23,8 @@ more errors found in the same lines and by the searches they led to (DONE.md, "C
 **Next**, in this order (each below, under "Checks"):
 
 1. **Verse check**: the text only (step 0) is done; every line of the Latin and of the
-   Italian verse is read again from the image (steps 1–4): batches 1–7 done, then
-   batches 8–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
+   Italian verse is read again from the image (steps 1–4): batches 1–8 done, then
+   batches 9–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
    batch 2, page images from batch 3; step 3).
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
@@ -350,6 +350,25 @@ compared with the print only: the edition's Italian is one manuscript's
      up to the word, which the rules space).
    - `la_check.py` over 0693–0812 and `la_seqcheck.py` give the same output.
 
+   **Batch 8** (0813–0924; done, 2026-11-02):
+   - Latin: 1,338 lines read, 3 differ in words, 7 more in punctuation. 5 misread
+     (`proiïcendo`, 0818 `similitudines;`, 0842 `Postea,quando` without a space, as
+     printed, 0890 `pertransit,` and `satietatem,`). Reader errors: no tercet numbers; 2
+     words (`desviando`, `deveni[ur]`), 4 punctuation marks (0826 a period made a comma,
+     0890 a period left out, 0844 a comma added where the `m` is broken, 0843 the mark
+     before `'fecerunt` left out).
+   - Italian: 1,327 lines read; apart from the tercet numbers, 6 differ in words, 7 more
+     in punctuation. 5 misread: `aïuti` (the `ï` was left out), `saecta`, `ch'ànno`, 0878
+     `Penneya (11),`, 0922 `[spense (3),`. 3 misprints (Suspected misprints): 0856 tercet
+     44 and 0897 tercet 31 have no number, 0878 the gloss mark `(8)` for `(18)`. 0897 keeps
+     its `31`, since the scripts find a verse block by the number of its first line.
+     Reader errors: 1 tercet number (0814 `1`); 3 words (the misprint `orese` corrected,
+     `voller`, 0853 `çondocti` read `condocti`), 4 punctuation marks (0898 the misprint
+     `(22)` corrected, 0836 a space left out, 0894 a speck at mid height read as a period,
+     0850 a dot far after the line end written; the file leaves it out).
+   - `la_check.py` over 0813–0924 and `la_seqcheck.py` give the same output, but for
+     0856, which they now list for its missing number, as 0363.
+
    **Per batch**: the crops in `tmp/la-verse/bN/` (Latin) and `tmp/la-verse/bN-it/`
    (Italian); the Italian task to la-el-agy, the Latin to la-el-agy2, each carrying the
    feedback on its previous batch, sent only on the user's signal. The readings are first
@@ -615,6 +634,9 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0737 | 21 | `[de (12.` | `(12).` | Italian verse runover; the closing parenthesis not printed, as 0725; found by the verse reading. |
 | 0745 | 49 | `ipsam ita tor tam` | `tortam` | Latin verse; a space inside the word; found by the verse reading. |
 | 0753 | 12 | `da ch'è si munta` | `sì` | Italian verse; no accent; found by the verse reading. |
+| 0856 | 8 | (no number) | `44` | Italian tercet 44 has no number, as 0363; found by the verse reading. |
+| 0878 | 12 | `miglor voci (8)` | `(18)` | Italian verse; the `1` not printed, a space left; found by the verse reading. |
+| 0897 | 5 | (no number) | `31` | Italian tercet 31, the first line of the page, has no number; the file keeps `31` (Batch 8); found by the verse reading. |
 
 ## Known limits
 
