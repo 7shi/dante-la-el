@@ -417,7 +417,7 @@ Volvit se in cantum et in notam: et mea domina tenebat in eos aspectum, ac sicut
 &emsp;Per veder cosa, che qui non ha loco?
 
 41 Talis effectus fui ad illum ultimum ignem,\
-&emsp;Interim quod dictum fuit: Quare abbagliaris,\
+&emsp;Interim quod dictum fuit: Quare abbagliaris\
 &emsp;Propter videnda re, que hic non habet locum?
 
 42 In terra è terra el mio corpo, e saragli\
@@ -469,7 +469,7 @@ Cum duabus stolis, idest cum anima et corpore, in beato claustro sunt due luces 
 46 Hay! quanto ne la mente mi commossi,\
 &emsp;Quando mi volsi per veder Beatrice,\
 &emsp;Per non poter vederla, bench'io fossi\
-&emsp;Presso di lei, e nel mondo felice (!)
+&emsp;Presso di lei, e nel mondo felice (1)!
 
 46 Ay! quantum quantum in mente me commovi,\
 &emsp;Quando me volvi propter videre Beatricem,\

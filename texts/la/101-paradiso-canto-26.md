@@ -318,7 +318,7 @@ Et sicut ad lumen acutum. E come a lume acuto: ista est tertia pars huius capitu
 
 30 Fec'io in tanto in quanto ella diceva,\
 &emsp;Stupendo; e poi mi rifece sicuro\
-&emsp;Un disio di parlar, ond'io (3) ardeva;
+&emsp;Un disio di parlar, ond'io (5) ardeva;
 
 30 Feci ego in tantum in quantum ipsa dicebat,\
 &emsp;Stupens; et postea me refecit securum\
@@ -332,7 +332,7 @@ Et sicut ad lumen acutum. E come a lume acuto: ista est tertia pars huius capitu
 &emsp;Solum productum fuisti, o pater antique,\
 &emsp;Cui omnis femina est filia et nurus;
 
-32 Divoto, quanto posso, a te supplico,\
+32 Divoto, quanto posso, a te supplìco,\
 &emsp;Perchè mi parli: tu vedi (6) mia vogla;\
 &emsp;E per udirti tosto, non la dico.
 
@@ -480,7 +480,7 @@ O fili mi, non gustatio ligni. O figliuol mio, non il gustar del legno: hec est 
 &emsp;Chè l'uso de'mortali è come fronda\
 &emsp;In ramo, che sen va, e l'altra vene.
 
-46 El vocatum fuit postea: et hoc convenit;\
+46 EL vocatum fuit postea: et hoc convenit;\
 &emsp;Quia usus mortalium est sicut frons\
 &emsp;In ramo, quia una vadit, et alia venit.
 
@@ -492,7 +492,7 @@ Iam solvit secundam questionem dicendo: Ibi, unde movit tua domina, scilicet Bea
 
 Nunc solvitur alia questio, scilicet quarta, scilicet de ydiomate. Lingua, quam ego loquutus fui, fuit tota extincta antequam [ad] opus inconsummabile esset gens Nembroth attenta (assignat causam quare ydioma Ade fuit totum deperditum, antequam inciperet edificari turris Babel, que fuit opus incomplebile); quia nullus effectus unquam rationalis, propter complacentiam humanam, que renovatur sequendo celum, semper fuit durabilis: idest, quia semper celum volvitur, et voluntates hominum mutantur cum celo. Opus naturale est, quod homo loquatur; sed sic et sic, natura dimictit postea facere, ydioma scilicet, secundum quod placet.
 
-Nunc respondet ultime questioni, scilicet de ydiomate, dicens, quod ipse vocavit Deum I, sed postea El vocatus est Deus ab Heber, a quo Hebrei, qui fuit quartus a Noe in generatione filiorum Dei. Et mutatio ydiomatis provenit ab usu mortalium, qui est sicut folium in ramis arborum, quia cadente uno de uno anno natum, oritur aliud in alio anno: sic enim quasi omnes arbores renovantur annuatim. Antequam ego descenderem ad infernalem ambasciam, idest
+Nunc respondet ultime questioni, scilicet de ydiomate, dicens, quod ipse vocavit Deum I, sed postea EL vocatus est Deus ab Heber, a quo Hebrei, qui fuit quartus a Noe in generatione filiorum Dei. Et mutatio ydiomatis provenit ab usu mortalium, qui est sicut folium in ramis arborum, quia cadente uno de uno anno natum, oritur aliud in alio anno: sic enim quasi omnes arbores renovantur annuatim. Antequam ego descenderem ad infernalem ambasciam, idest
 
 <!-- p. 1128 (1182) -->
 

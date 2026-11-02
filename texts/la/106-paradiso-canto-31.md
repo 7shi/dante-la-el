@@ -482,7 +482,7 @@ Et sicut hic ubi expectatur, idest in zodiaco, themus, scilicet currus, quem, sc
 &emsp;Rider una bellezza (2), che letitia\
 &emsp;Era negl'ochi a tutti gl'altri sancti.
 
-45 Vidi ego ad eorum ludos et ad eorum cantus\
+45 Vidi ego ad eorum ludos et ad corum cantus\
 &emsp;Ridere unam pulchritudinem, que letitia\
 &emsp;Erat in oculis omnibus aliis sanctis.
 
@@ -490,7 +490,7 @@ Et sicut hic ubi expectatur, idest in zodiaco, themus, scilicet currus, quem, sc
 &emsp;Quanta (3) ad ymaginar, non ardirei\
 &emsp;Lo minimo temptar di sua letitia.
 
-46 Et si haberem in dicendo tantam habundantiam,\
+46 Et si haberem in dicendo tantam habundatiam,\
 &emsp;Quot ymaginationes, non auderem\
 &emsp;Minimum tentare de suis deliciis.
 

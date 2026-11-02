@@ -456,7 +456,7 @@ Iterum hic respondetur une tacite questioni, seu obiectioni. Posset quis dicere:
 
 44 Vide nostram civitatem, quantum ipsa circuit!\
 &emsp;Vide nostra scampna ita repleta,\
-&emsp;Quod pauca gens hic anmodo desideratur.
+&emsp;Quod pauca gens hic ammodo desideratur.
 
 45 E [in] quel gran seggio, a che tu gl'ochi tieni\
 &emsp;Per la corona che già v'è su posta,\

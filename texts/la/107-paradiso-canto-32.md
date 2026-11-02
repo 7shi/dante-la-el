@@ -80,7 +80,7 @@ Primo igitur auctor distinguit ordinem beatorum, premictendo continuationem dict
 
 4 Sarra, Rebecha, Iudith, e colei\
 &emsp;Che fu bisava al cantor (1),che, per dogla\
-&emsp;Del fallo (2), disse: Miserere mei.
+&emsp;Del fallo (2), disse: Miserere mei,
 
 4 Sarra[m], Rebeccha[m], Iudith, et illa[m]\
 &emsp;Que fuit proava cantori, qui, propter dolorem\
@@ -360,7 +360,7 @@ Rex, per quem istud regnum, idest Deus, pausat, idest quietat, in tanto amore et
 
 31 Quod quantumcumque ego videram ante,\
 &emsp;In tantam admirationem non me suspendit,\
-&emsp;Nec michi monstravit de Deo tantum similitudinem.
+&emsp;Nec michi monstravit de Deo tantam similitudinem.
 
 (1) a voi — (2) Esau e Iacob — (3) in utero matris Rebecce — (4) a combattere insieme — (5) fluminis, flaminis, vel sanguinis — (6) nel Limbo — (7) al. ch'à — (8) cioè di Maria — (9) per che — (10) e non altra.
 

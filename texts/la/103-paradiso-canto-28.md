@@ -424,7 +424,7 @@ Modo auctor vult exaltare istum trinarium. Et scire debes quod omnes habent dele
 
 39 L'altro ternaro che così germogla\
 &emsp;In questa primavera sempiterna,\
-&emsp;Che (4) l'notturno Ariete non dispogla,
+&emsp;Che (4) 'l notturno Ariete non dispogla,
 
 39 Alter trinarius qui sic germinat\
 &emsp;In hoc primo vere sempiterno,\
@@ -471,8 +471,8 @@ Modo auctor vult exaltare istum trinarium. Et scire debes quod omnes habent dele
 &emsp;Quod illos nominavit et distinxit, sicut ego.
 
 45 Ma Gregorio da lui poi si divise;\
-&emsp;Onde, sì tosto come gl'occhi aperse\
-&emsp;In questo ciel, di sè medesimo rise (12).
+&emsp;Onde, sì tosto come gl'ochi aperse\
+&emsp;In questo ciel, di sè medesimo rise (2).
 
 45 Sed Gregorius postea ab eo se divisit;\
 &emsp;Unde, quam cito aperuit oculos\

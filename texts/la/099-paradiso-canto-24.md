@@ -61,7 +61,7 @@ Finito hoc, alta curia; Finito questo, l'alta corte, auctor ponit quomodo tota c
 &emsp;Quieto pare, e l'ultimo (1) che voli;
 
 5 Et sicut circuli in temperamento horologiorum\
-&emsp;Gyra[n]tur ita, quod primus, illi qui ponit mentem,\
+&emsp;Gyra[n]tur ita,quod primus, illi qui ponit mentem,\
 &emsp;Quietus apparet, et ultimus quod volet;
 
 6 Così quelle carole, differente-\

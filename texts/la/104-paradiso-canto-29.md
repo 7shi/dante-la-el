@@ -26,7 +26,7 @@ In vicesimonono capitulo, quod incipit: Quando ambo filii Lathone, auctor proseq
 
 3 Tanto, col volto di riso dipincto,\
 &emsp;Si tacque Beatrice, riguardando\
-&emsp;Fiso nel puncto che m'havea vineto.
+&emsp;Fiso nel puncto che m'havea vincto.
 
 3 Tantum, cum vultu risu depicto,\
 &emsp;Tacuit Beatrix, respiciendo\
@@ -163,7 +163,7 @@ Adhuc addit auctor, quod ordo fuit concreatus rebus, dicens: Concreatus, idest s
 &emsp;E tu te n'avedrai, se ben agguati;
 
 14 Sed istud verum est scriptum in multis locis\
-&emsp;A scriptoribus Spiritus Sancti:\
+&emsp;A scriptoribus Spiritus Sancti;\
 &emsp;Et tu de hoc perpendes, si bene respicis;
 
 15 Et anco la ragion lo vede alquanto,\
@@ -311,7 +311,7 @@ Et nolo quod tu dubites, imo quod sis certus, quod recipere gratiam est meritori
 &emsp;Sed in uno est plus culpe et verecundie.
 
 29 Voi non andate giù per un sentiero\
-&emsp;Philosophando; tanto vi trasporta\
+&emsp;Phylosophando; tanto vi trasporta\
 &emsp;L'amor dell'apparenza e 'l suo pensiero,
 
 29 Vos non itis inferius per unam semitam\
