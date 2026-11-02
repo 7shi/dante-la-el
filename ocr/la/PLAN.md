@@ -23,8 +23,8 @@ more errors found in the same lines and by the searches they led to (DONE.md, "C
 **Next**, in this order (each below, under "Checks"):
 
 1. **Verse check**: the text only (step 0) is done; every line of the Latin and of the
-   Italian verse is read again from the image (steps 1–4): batches 1–4 done, then
-   batches 5–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
+   Italian verse is read again from the image (steps 1–4): batches 1–5 done, then
+   batches 6–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
    batch 2, page images from batch 3; step 3).
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
@@ -278,6 +278,31 @@ compared with the print only: the edition's Italian is one manuscript's
      misread lines of any batch so far (29), from the first transcription, not from the
      reader.
 
+   **Batch 5** (0465–0586; done, 2026-11-02):
+   - Latin: 1,417 lines read, 30 differ in words, 10 more in punctuation. 29 misread, most
+     from the first transcription: letters (`ellecti`, `montanea` as 0240, `atterrando`,
+     `faciant`, `rubecchium`, `vocabolum`, `smiragdum`, `interrogavit`, `pavefacta`,
+     `arsiccia`, `amassicciatur`, `Biasmantuam`, `permictit`; the last two also in the
+     commentary 0507:70 and 0582:80), words (0492 `Qui` → `Que`, `denegatur` →
+     `denegetur`, 0493 `totum` → `totam`, 0547 `Respondet` → `Respondit`, 0566 `quae` →
+     `que`, 0572 `Incepit` → `Incépit`), a bracket (0506 `e[s]t`), 9 punctuation marks. 1
+     misprint (Suspected misprints: 0529 `sinistrun`; 0525 `ventrum` was listed). Reader
+     errors: no tercet numbers; 11 words (the misprints `sinistrun` and `ventrum`
+     corrected, `Giudecca`, `cum` ×2, `Desposaverat`, `nigresiebat`, `excicatos`,
+     `Biamantuam`, an accent and a bracket added), 1 punctuation mark.
+   - Italian: 1,408 lines read, 21 differ in words, 10 more in punctuation. 17 misread:
+     letters (`meglor`, `consiglo` ×2, `gl'ochi`, `ochi`, `andavàn`, `vogle`, `vechio`,
+     `macciulla`, `A'miei`, `percuote` without the ring of `ů`), 0523 the gloss mark
+     `(1)` left out (its note was on the page), 0539 `un' altro` → `un altro` (a dot at
+     mid height, not an apostrophe), and 0469 five `‘l` with a space before, printed
+     `’l` joined (the one other `‘`, 1022:7, made `’`). 2 misprints (Suspected misprints:
+     0468 `parca`, 0514 `Quant'um`). Reader errors: no tercet numbers (one with a stray
+     dot); 9 words (the two misprints corrected, `uscimmo`, `reporterò`, `trascorrer`,
+     `Sì`, `Quel`; a speck read as an accent on 0492 `le`), 3 punctuation marks. 0527:10
+     prints a mark over the `i` of `mio`, wider than a dot (the reader's `mĭo`); not
+     plainly an accent or a diaeresis, the file keeps `mio`.
+   - `la_check.py` over 0465–0586 and 1022 and `la_seqcheck.py` give the same output.
+
    **Per batch**: the crops in `tmp/la-verse/bN/` (Latin) and `tmp/la-verse/bN-it/`
    (Italian); the Italian task to la-el-agy, the Latin to la-el-agy2, each carrying the
    feedback on its previous batch, sent only on the user's signal. The readings are first
@@ -477,6 +502,9 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0455 | 31 | `[ricinus.` | `vicinus` | Latin verse runover; an italic `r` for `v`. |
 | 0461 | 34 | `in talem citernam;` | `cisternam` | Latin verse 45. |
 | 0461 | 47 | `unius sui proximani,` | `proximi` | Latin verse. |
+| 0468 | 17 | `La dextra mi parca` | `parea` | Italian verse 15; `c` for `e`. |
+| 0514 | 25 | `Quant'um buon gittator` | `Quant'un` | Italian verse; `m` for `n`. |
+| 0529 | 41 | `Ad humerum sinistrun` | `sinistrum` | Latin verse; `n` for `m`. |
 | 0189 | 54–55 | `re-` / `spondidi sibi` | `respondi` | Italic lemma; the Latin verse 17 has `Respondi`. |
 | 0190 | 78–79 | `rea-` / `censa` | `reaccensa` | Commentary, quoting the Latin verse 27 (`reaccensa`); one `c`. |
 | 0686 | 74 | `uon seutitur` | `non sentitur` | Commentary; two turned `n`s (an `n` beside them in `uon` has its arch). |
