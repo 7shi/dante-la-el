@@ -563,6 +563,7 @@ page	line	form	decision	note
 0930	28	tam placibili vultu	printed	tam placibili vultu: Italian così facto colto, expect tam placibili cultu
 0931	34	suam pacem	printed	suam pacem: Italian a suo piacer, expect ad suum placitum
 0931	47	ad stellam	printed	ad stellam: Latin added ad stellam, Italian E se la stella si cambiò et rise
+0932	45	tu te annidas	misread	te left out; verse reading
 0932	46	proprio	printed	proprio: Italian primo, expect primo
 0933	23	ipsum se	printed	ipsum se: Italian ella fessi, masculine pronoun for Beatrice
 0939	16	-	printed	listed for Pau, which is not in this line; the line is printed so
@@ -580,20 +581,31 @@ page	line	form	decision	note
 0951	30	ineffabile	printed	ineffabile: Italian infallibile, expect infallibile
 0951	35	semine	printed	semine: Italian sententia, expect sententia
 0952	23	infirma	printed	infirma: Italian in terra, expect in terra
+0952	30	Isia	misprint	for Ista, was Ista; verse reading
+0955	26	29 Vostra	printed	the print sets a period after the tercet number (29.); the file leaves it out; Italian verse reading
 0956	59	fuitvel	printed	set without a space, for fuit vel
 0962	28	a coppa nunc a ciglio	printed	a coppa nunc a ciglio: Italian words left in Latin (coppa, ciglio)
 0964	26	Revidendi	printed	Revidendi: Italian Di riudir (hearing), Latin Revidendi (seeing), expect Reaudiendi
 0965	28	De uno modo	printed	De uno modo: Italian D'un giro, Latin De uno modo
 0965	44	maius	printed	maius: Italian più stato, Latin maius fuisset
 0969	49	nostrorum	printed	nostrorum: Italian vostri, expect vestrorum (person mismatch)
+0976	19	parìa	misread	was paria; Italian verse reading
+0976	44	prius quam	misread	was priusquam; verse reading
 0979	11	-	printed	listed for dormiam, which is not in this line; the line is printed so
 0981	39	Cum tanto affectu	printed	Cum tanto affectu: Italian Cotanto effecto, expect Tanto effectu (affectus vs effectus)
 0982	29	lumera	printed	lumera: Italian word left in Latin
 0982	46	tantum planta	printed	tantum planta: Italian tutta quanta, expect tota quanta (copied from line 1 planta)
+0982	46	planta,	misread	comma left out; verse reading
 0983	18	vivagnis	printed	vivagnis: Italian word vivagni left in Latin
 0986	13	locum	printed	locum: Italian ochio, expect oculum
+0987	10	l'ochio	misread	was l'Ochio; Italian verse reading
 0987	21	vistam	printed	vistam: Italianism / typo, expect visum; aliam: Italian quella
 0988	33	reamentatur	printed	reamentatur: non-word / garbled form, Italian si rammenta, expect rememoratur
+0989	10	meglo	misread	was meglò; the stroke crosses the o, not an accent; Italian verse reading
+0990	6	maravigla	misread	was maraviglia; Italian verse reading
+0990	8	famigla	misread	was famiglia; Italian verse reading
+0994	47	[tarda.	misread	was sibi [tardo.] in line 46; a runover word, now its own line; verse reading
+0995	11	Così	misread	was Cosi; Italian verse reading
 1002	23	-	printed	listed for capa, which is not in this line; the line is printed so
 1006	33	Factus est gulosus	printed	Factus est gulosus: Latin masculine adjective for neuter peculium
 1006	39	pauci	printed	pauci: Italian poche (referring to sheep), Latin masculine pauci
@@ -609,8 +621,12 @@ page	line	form	decision	note
 1026	29	ore ostelli	printed	ore ostelli: Italian punta dello stelo, expect ore stili
 1028	33	une palec	printed	une palec: non-word / garbled form, Italian l'una pagla, expect palee
 1028	35	alias	printed	alias: Italian l'altra, expect aliam
+1029	36	secundum,	misread	comma left out; verse reading
 1030	34	novas	printed	novas: Italian nove (nine), Latin novas (new), expect novem
 1030	43	-	printed	listed for habere debet, which is not in this line; the line is printed so
+1034	19	consiglo	misread	was consiglio; Italian verse reading
+1034	23	Scripturas	misread	was Scripturas,; verse reading
+1034	36	intra 'consilium	misread	the mark before consilium left out, as 0843 'fecerunt; verse reading
 1039	52	non mori	printed	non mori: Italian viver (per viver vs per non mori)
 1040	23	luce	printed	luce: Italian voce, expect voce (light vs voice)
 1041	30	descendit	printed	descendit: Italian s'accende (ignites), Latin descendit (descends), expect accenditur
