@@ -23,8 +23,8 @@ more errors found in the same lines and by the searches they led to (DONE.md, "C
 **Next**, in this order (each below, under "Checks"):
 
 1. **Verse check**: the text only (step 0) is done; every line of the Latin and of the
-   Italian verse is read again from the image (steps 1–4): batches 1–3 done, then
-   batches 4–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
+   Italian verse is read again from the image (steps 1–4): batches 1–4 done, then
+   batches 5–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
    batch 2, page images from batch 3; step 3).
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
@@ -142,9 +142,10 @@ compared with the print only: the edition's Italian is one manuscript's
      of check 1's verse errors leave the sense alone and are not found by step 0.
 1. **Script** `ocr/la_versecheck.py FIRST LAST [--italian] --crops DIR` writes one image
    per verse line (the Latin block of `ocr/la` as `la_lemmacheck.py` finds it, or the
-   Italian with `--italian`; gloss lines left out), enlarged 2× and in a shuffled order,
-   as check 1's crops (`DIR/lines.tsv` maps them back; a line that Tesseract cannot locate,
-   mostly a runover word, goes to `DIR/unlocated.tsv` and is read in the page image).
+   Italian with `--italian`; the gloss lines at the block's end left out), enlarged 2×
+   and in a shuffled order, as check 1's crops (`DIR/lines.tsv` maps them back; a line
+   that Tesseract cannot locate, mostly a runover word, goes to `DIR/unlocated.tsv` and is
+   read in the page image).
    `--readings DIR [-o OUT]` compares the reader's `DIR/readings.tsv` (`L0001<TAB>line`)
    with `ocr/la` line by line: the differing words (letters and accents, not the
    punctuation) and the tercet number; a line whose words agree but whose punctuation
@@ -241,6 +242,41 @@ compared with the print only: the edition's Italian is one manuscript's
    - Against batch 2 (line images), the tercet-number errors fell from 8 and 24 to none;
      word errors toward the usual form stayed (10 and 4). The page images did not show
      more reading from the sense.
+
+   **Batch 4** (0349–0464; done, 2026-11-02):
+   - Latin: 1,477 lines read, 27 differ in words, 14 more in punctuation, 1 extra. 29
+     misread, most from the first transcription: letters (`discosscenditur`, `ymmum`,
+     `membrorum`, `abhorris`, `Reperiuimus`, `Cozzavcrunt`, `Bisscntium`, `Tribaldeilo`
+     and the same in its commentary, `corrossit`, `permicit`), words (0402 `mihi` →
+     `michi`, 0426 `Et` → `Sed`, 0439 `apparuit` → `apparet`, 0458 `te` and 0461 `ad
+     eum` not printed), brackets (0411 `dimis[iss]es`, 0416 `applicat[ur]`), 11
+     punctuation marks, and the runover 0439 `[ego.`, left out (the lines below it move
+     by one). 5 misprints (Suspected misprints: 0396 `posest`, 0446 `Guctaverunt`, 0455
+     `[ricinus.`, 0461 `citernam`, `proximani`). Reader errors: no tercet numbers; 5 words
+     (`Repercutiendo`, `iterum`, the known misprint `leravit` corrected, `decomas`,
+     `interrogaveris`), 3 punctuation marks (spaces around `;` and `,`). The reader's
+     `Cochitum;` of batch 3 (0241:42) was right by the punctuation rule; the file is
+     corrected, and so are the 31 other spaces before `:` or `;` the search found (21
+     pages, 0374–1225, mostly commentary; Conventions, "Punctuation").
+   - Italian: 1,468 lines read, 21 differ in words, 5 more in punctuation, 3 extra. 6
+     misread: 0356 `Sì` → `Si`, 0400 `maraviglia` → `maravigla`, 0406 `ch’e’n` →
+     `ch’è’n`, 0423 `si` → `sì`, 0433 `gl'occhi` → `gl'ochi`, 0444 `(11) :` → `(11):`.
+     1 misprint: 0363 tercet 6 has no number (Suspected misprints, as 0099; `la_check.py`
+     and `la_seqcheck.py` list it, `convert_la.py` reports `NO NUMBER`). Reader errors: 1
+     tercet number; 9 words (common forms: `piglio` ×2, `applicar`, `trafito`,
+     `sarebbono`, `scioca`; the known misprint `sn` corrected; the `ï` of 0378 left out,
+     0374 `ï` added); 3 marks where the print has a smudge or a broken letter (0388
+     `città`, 0389 `infamia`, 0420 `crucciata`); 2 runover words written without `[`
+     (0461 prints none; the file keeps the convention).
+   - The 3 extra Italian lines (0402:16, 0414:24, 0449:15) start with a gloss mark, and
+     `la_lemmacheck.page_parts` took every such line for a gloss line, so the verse check
+     left them out; the readings agree with the file. `page_parts` now leaves out only
+     the gloss lines at the end of a verse block (`(1) al. pianto.`): 11 verse lines of
+     0079–1270 start with a gloss mark, none in the Latin. Of those before batch 4, 0166:15
+     was looked at in the image and agrees; `la_lemmacheck.py` gives the same output.
+   - Against batch 3, the tercet-number errors stayed near none; the Latin had the most
+     misread lines of any batch so far (29), from the first transcription, not from the
+     reader.
 
    **Per batch**: the crops in `tmp/la-verse/bN/` (Latin) and `tmp/la-verse/bN-it/`
    (Italian); the Italian task to la-el-agy, the Latin to la-el-agy2, each carrying the
@@ -435,6 +471,12 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0241 | 28 | `respicit tumquam suum` | `tamquam` | Latin verse; the `u` is open at the top, unlike the `a` of `quam`. |
 | 0261 | 21 | `Vicit timor bonum voluntatem,` | `bonam` | Latin verse; an open `u`. |
 | 0338 | 14 | `vadunt per vium.` | `viam` | Latin verse. |
+| 0363 | 17 | (no number) | `6` | Italian tercet 6 has no number, as 0099. |
+| 0396 | 10 | `Quis posest unquam` | `posset` | Latin verse 1. |
+| 0446 | 32 | `Guctaverunt super labia` | `Gustaverunt` | Latin verse; `c` for `s`. |
+| 0455 | 31 | `[ricinus.` | `vicinus` | Latin verse runover; an italic `r` for `v`. |
+| 0461 | 34 | `in talem citernam;` | `cisternam` | Latin verse 45. |
+| 0461 | 47 | `unius sui proximani,` | `proximi` | Latin verse. |
 | 0189 | 54–55 | `re-` / `spondidi sibi` | `respondi` | Italic lemma; the Latin verse 17 has `Respondi`. |
 | 0190 | 78–79 | `rea-` / `censa` | `reaccensa` | Commentary, quoting the Latin verse 27 (`reaccensa`); one `c`. |
 | 0686 | 74 | `uon seutitur` | `non sentitur` | Commentary; two turned `n`s (an `n` beside them in `uon` has its arch). |
@@ -479,7 +521,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0085 | 29 | `quod aier de co timeret` | `eo` | Latin verse 48 (Italian `ne temesse`); an italic `c` without the eye, as 0764 `volca`. |
 | 0227 | 49 | `Surgit in vermen est plantam` | `et` | Latin verse 100 (Italian `et in pianta`). |
 | 0259 | 47 | `prerogatiram` | `prerogativam` | Latin verse 23; an italic `r` for `v`, as 0154 `traraglia`. |
-| 0439 | 39 | `in navi se leravit` | `levavit` | Latin verse 145; an italic `r` for the first `v`. |
+| 0439 | 40 | `in navi se leravit` | `levavit` | Latin verse 145; an italic `r` for the first `v`. |
 | 0530 | 12 | `Meridianum solis, quiu in ripa` | `quia` | Latin verse 46 (Italian `ch'a la riva`). |
 | 0606 | 19 | `Si bona oratio cum non adiuvat` | `eum` | Latin verse 44 (Italian `lui`); an italic `c` without the eye, as 0085 `co`. |
 | 0113 | 18 | `Hac nunquam transirit anima bona` | `transivit` | Latin verse 43 (Italian `non passa`); an italic `r` for `v`, as 0259 `prerogatiram`; found by the verse reading. |
