@@ -10,14 +10,14 @@ In isto vicesimotertio capitulo, quod incipit: Dum oculos per frondes, etc., auc
 
 1 Mentre che gl'ochi per le frondi verde (1)\
 &emsp;Ficcavo (2) pur così, come far suole\
-&emsp;Chi dietro agl'uccellin lor (3) vita perde;
+&emsp;Chi dietro agl'ucellin lor (3) vita perde;
 
 1 Dum oculos per frondem viridem\
 &emsp;Figebam ego, sicut facere solet\
 &emsp;Qui retro aviculam suam vitam perdit;
 
 2 Lo più che padre (4) mi dicea (5): Filiole,\
-&emsp;Vienne oggimai, chè'l tempo che ci è posto (6)\
+&emsp;Vienne oggimai,chè'l tempo che ci è posto (6)\
 &emsp;Più utilmente compartir si vuole.
 
 2 Plusquam pater michi dicebat: Fili mi,\
@@ -218,7 +218,7 @@ Quis crederet quod odor unius pomi, sic gubernaret, idest
 
 19 Facies tua, quam ego fui lacrymatus iam mortuam,\
 &emsp;Michi dat plangendi nunc non minorem dolorem,\
-&emsp;Respondi ego ad eum, videndo ipsam ita tortam
+&emsp;Respondi ego ad eum, videndo ipsam ita tor tam
 
 (1) per la concavità degli ochi — (2) al. riconosciuta in viso — (3) predecta — (4) ralluminò — (5) raffigurai.
 
@@ -411,7 +411,7 @@ O dulcis frater, quid vis tu quod ego dicam? tempus futurum michi est in conspec
 &emsp;Già per urlar (3) havrien le bocche aperte.
 
 36 Et si inverecunde essent certe\
-&emsp;De illo quod celum velox eis ammanuat,\
+&emsp;De illo quod celum velox eis ammannat,\
 &emsp;Iam pro ululando haberent ora discooperta.
 
 37 Chè, se l'antiveder qui non m'inganna,\

@@ -71,7 +71,7 @@ Et ego, continuando meum sermonem (quia [du]dum loquebatur cum Forese), dixi: Ip
 &emsp;In alto Olimpo iam de sua corona.
 
 6 Sì disse pria, e poi (6): Qui non si vieta\
-&emsp;Di nominar ciascun, da ch'è sì munta\
+&emsp;Di nominar ciascun, da ch'è si munta\
 &emsp;Nostra sembianza via per la dieta.
 
 6 Sic dixit michi primo, et postea: Hic non vetatur\

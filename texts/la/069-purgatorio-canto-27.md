@@ -259,7 +259,7 @@ Venite, venite, benedicti Patris mei (verba sunt evangelica Matthei vicesimoquin
 &emsp;Sentimo dietro io e li miei saggi (1).
 
 23 Et paucorum graduum sumpsimus saggium,\
-&emsp;Quod solem occidere, propter umbram que extincta est.\
+&emsp;Quod solem occidere, propter umbram que extincta est,\
 &emsp;Sensimus retro et ego et mei sapientes.
 
 24 E pria che'n tutte parti sue immense\

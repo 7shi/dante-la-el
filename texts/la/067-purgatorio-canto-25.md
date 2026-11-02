@@ -16,7 +16,7 @@ In isto vicesimoquinto capitulo, quod incipit: Hora erat in qua ascendere noleba
 &emsp;Quia sol iam circulum meridiei\
 &emsp;Dimiserat Thauro et noctem Scorpioni.
 
-2 Perchè, come fa l'huom che non s'affligge,\
+2 Perchè, come fa l'huom che non s'affigge,\
 &emsp;Ma vassi alla via sua, che li appaia,\
 &emsp;Se di bisogno stimolo el trafigge;
 
@@ -364,7 +364,7 @@ Alie potentie omnes mute, idest sunt, sicut sentire, vegetare, audire, videre, d
 &emsp;Vocatur umbra; ed inde organizat postea\
 &emsp;Quemlibet sensum usque ad visum.
 
-35 Quindi parliamo, e quindi ridian noi,\
+35 Quindi parliamo, e quindi ridiàn noi,\
 &emsp;Quindi facciam le lagrime e sospiri,\
 &emsp;Che per lo monte haver sentiti puoi.
 
@@ -372,7 +372,7 @@ Alie potentie omnes mute, idest sunt, sicut sentire, vegetare, audire, videre, d
 &emsp;Inde facimus lacrymas et suspiria,\
 &emsp;Que per montem sentire potuisti.
 
-36 Secondo che c'affiggono e desiri\
+36 Secondo che c'affigghono e desiri\
 &emsp;E gl'altri affecti, l'ombra si sfigura;\
 &emsp;E quest'è la cagion di che tu miri.
 

@@ -172,7 +172,7 @@ Notandum est hic quod hic spiritus erat anima Ugonis Ciappette, qui Ugo, secundu
 &emsp;Ch'io attenda di là, ma perchè tanta\
 &emsp;Gratia in te luce pria che sia morto.
 
-14 Et ipse: Ego dicam tibi, non propter confortationem\
+14 Etipse: Ego dicam tibi, non propter confortationem\
 &emsp;Quam ego expectem illinc, sed quia tanta\
 &emsp;Gratia in te lucet priusquam sis mortuus.
 
@@ -538,7 +538,7 @@ Nos iam recesseramus. Nui eravam partiti: hec est quarta pars huius capituli, in
 &emsp;Sicut pastores qui prius audierunt illum cantum,\
 &emsp;Quousque tremere cessavit, et ille completus est.
 
-48 Poi ripigliammo nostro cammin sancto,\
+48 Poi ripiglammo nostro cammin sancto,\
 &emsp;Guardando l'ombre che giacean per terra,\
 &emsp;Tornate già in su l'usato pianto.
 

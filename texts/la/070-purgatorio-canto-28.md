@@ -140,7 +140,7 @@ Iam me transportaverant lenti passus intra silvam antiquam (quia primi parentes 
 &emsp;Viderentur in se habere mixturam aliquam,\
 &emsp;Respectu illius que nullam rem abscondit;
 
-11 Avegnache si mova bruna bruna\
+11 Avegna che si mova bruna bruna\
 &emsp;Socto l'ombra perpetua, che mai\
 &emsp;Raggiar ivi non lascia sol nè luna.
 
@@ -150,7 +150,7 @@ Iam me transportaverant lenti passus intra silvam antiquam (quia primi parentes 
 
 12 Co' piè ristecti e cogl'occhi passai\
 &emsp;Di là dal fiumicel, per ammirare\
-&emsp;La gran varietà (5) de'freschi mai (6)
+&emsp;La gran varietà (5) de'freschi mai (6):
 
 12 Cum pedibus steti et cum oculis transivi\
 &emsp;Ultra fluviolum, propter admirari\
@@ -158,7 +158,7 @@ Iam me transportaverant lenti passus intra silvam antiquam (quia primi parentes 
 
 13 E là m'apparve, sì com'elli appare\
 &emsp;Subitamente cosa che desia\
-&emsp;Per maraviglia tutt'altro pensare,
+&emsp;Per maravigla tutt'altro pensare,
 
 13 Et ibi michi apparuit, sicut aliquando apparet\
 &emsp;Subito res que deviat\

@@ -252,7 +252,7 @@ De [im]munditia solvenda fit experientia, que, tota libera ad mutandum conventum
 
 23 Et io che son giaciuto a questa dogla\
 &emsp;Cinquecent'anni e più, pur mo'sentii\
-&emsp;Libera volontà di miglior sogla.
+&emsp;Libera volontà di miglor sogla.
 
 23 Et ego qui iacui in isto dolore\
 &emsp;Quingentis annis et ultra, solum nunc sensi\
@@ -287,7 +287,7 @@ De [im]munditia solvenda fit experientia, que, tota libera ad mutandum conventum
 &emsp;Qui se', ne le parole tue mi cappia.
 
 27 Nunc qui fuisti precor te ut sciam,\
-&emsp;Et quare per tot secula hic iacuisti,\
+&emsp;Et, quare per tot secula hic iacuisti,\
 &emsp;Per tua verba ego capiam.
 
 (1) al. fosti.
@@ -309,7 +309,7 @@ Nunc qui fuisti, precor te ut sciam, et quare per tot secula, idest annos, hic i
 <!-- p. 671 (0725) -->
 
 28 Nel tempo che 'l buon Tyto (1) coll'aiuto\
-&emsp;Del sommo rege (2) vendicò le fora (3)\
+&emsp;Del sommo rege (2) vendicò le fora (3),\
 &emsp;Ond'uscì 'l sangue (4) per Giuda (5) venduto,
 
 28 In tempore quo bonus Titus cum adiutorio\
@@ -333,7 +333,7 @@ Nunc qui fuisti, precor te ut sciam, et quare per tot secula, idest annos, hic i
 &emsp;Ubi merui tympora mea ornari mirto.
 
 31 Statio di là la gente ancor mi noma;\
-&emsp;Cantai di Thebe (8), e poi del grande Achylle (9),\
+&emsp;Cantai di Thebe (8), e poi del grande Achylle (9,\
 &emsp;Ma caddi in via co'la seconda soma (10).
 
 31 Statium gens adhuc in mundo me nominat:\

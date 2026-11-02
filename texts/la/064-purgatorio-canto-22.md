@@ -16,7 +16,7 @@ In isto vicesimosecundo capitulo, quod incipit: Iam erat angelus, auctor prosequ
 &emsp;Angelus qui nos converterat ad sextum girum,\
 &emsp;Et iam a facie mea unum ictum abraserat:
 
-2 E quei ch'anno a giustizia lor desiro,\
+2 E quei ch'ànno a giustizia lor desiro,\
 &emsp;Decti n'avien, Beati, e le sue voci\
 &emsp;Con Sitio senza o i o forniro.
 
@@ -300,7 +300,7 @@ Et ipse, scilicet Statius, supple dixit: Tunc prius me inviasti, idest in via du
 &emsp;Che, quando Domitian li perseguecte,\
 &emsp;Senza mio lacrimar non fur lor pianti.
 
-28 Apparuerunt michi postmodum tantum sancti,\
+28 Apparuerunt michi postmodum tanctum sancti,\
 &emsp;Quod, quando Domitianus eos persecutus est,\
 &emsp;Sine meis lacrymis non fuerunt eorum planctus.
 
@@ -502,7 +502,7 @@ Sic consuetudo fuit ibi nostrum signum; et apprehendimus viam cum maiori suspici
 
 48 Poi disse (8): Più pensava Maria (9), onde\
 &emsp;Fusser le nozze horrevoli et intere (10),\
-&emsp;Ch'alla sua bocha (11), che per voi risponde (12).
+&emsp;Ch'alla sua bocha (11), che per voi risponde (12.
 
 48 Postea dixit: Plus cogitabat Maria, unde\
 &emsp;Nuptie essent honorabiles et integre,\
