@@ -23,8 +23,8 @@ more errors found in the same lines and by the searches they led to (DONE.md, "C
 **Next**, in this order (each below, under "Checks"):
 
 1. **Verse check**: the text only (step 0) is done; every line of the Latin and of the
-   Italian verse is read again from the image (steps 1–4): batches 1–9 done, then
-   batches 10–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
+   Italian verse is read again from the image (steps 1–4): batches 1–10 done, then
+   batch 11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
    batch 2, page images from batch 3; step 3).
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
@@ -389,6 +389,30 @@ compared with the print only: the edition's Italian is one manuscript's
      gloss marks closed up to the word).
    - `la_check.py` over 0925–1048 and `la_seqcheck.py` give the same output.
 
+   **Batch 10** (1049–1150; done, 2026-11-03):
+   - Latin: 1,329 lines read, 13 differ in words, 7 more in punctuation, 6 extra. 17
+     misread: six runover lines, three missing (1051 `[concordes?`, 1135 `[vestris,` and
+     `[quod ego`) and three joined to their line by the first OCR (1079 `[tardum.`, 1111
+     `san-` / `[ctarum!`, 1125 `in-` / `[terrogo.`), now each its own line (the batch now
+     has 1,335 lines; the later line numbers of those pages in `lemmacheck.tsv`,
+     `versecheck.tsv` and Suspected misprints 1135 follow); words (`opima`, `que`,
+     `Mirabilius`, 1135 `quando est aperta,`, 1088 `[v]ivit` with its printed brackets,
+     1144 `dilatare,eo` without a space), 6 punctuation marks (1068 `barce,`, 1088
+     `folia,`, 1100 `pulchrum,`, 1142 `grati,` were periods or a semicolon; 1071
+     `gloriosum,`). 3 misprints (Suspected misprints: 1076 `meu`, 1143 `puucum`, 1148
+     `remunsere`). Reader errors: no tercet numbers; 2 words (`christianus`, the known
+     misprint `[ficum,` corrected). 1080 `Anima. sancta` keeps its comma (Conventions,
+     "Commas").
+   - Italian: 1,319 lines read, 12 differ in words, 3 more in punctuation. 4 misread:
+     1053 `udìo` (was `u'dio`: a broken `d`, no apostrophe), `simiglanze`, 1071
+     `glorioso,`, 1081 `Conscienza` (a speck under the `i`, no dieresis). 2 misprints
+     (Suspected misprints: 1091 `Um`, 1124 `scalco`). Reader errors: no tercet numbers; 8
+     words (the known misprint `sactta` and `Ninphe` corrected; the `fi` ligature read as
+     `t` twice, 1112 and 1126 `fisso` as DONE notes; the printed graves of `s'àdempia` and
+     `udìo` left out; `udì'` twice, no accent printed), 2 brackets spaced off their word
+     (`quel [lo]`, `iovia [l]`).
+   - `la_check.py` over 1049–1150 and `la_seqcheck.py` give the same output.
+
    **Per batch**: the crops in `tmp/la-verse/bN/` (Latin) and `tmp/la-verse/bN-it/`
    (Italian); the Italian task to la-el-agy, the Latin to la-el-agy2, each carrying the
    feedback on its previous batch, sent only on the user's signal. The readings are first
@@ -630,7 +654,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0958 | 45–46 | `complexio-` / `conibus` | `complexionibus` | Commentary; a syllable lost over the line break. |
 | 0999 | 71–72 | `volupta-` / `bro` | `volutabro` | Commentary; the image shows `volupta-`. |
 | 1031 | 69–70 | `corrupti-` / `lium` | `corruptibilium` | Commentary; a syllable lost over the line break. |
-| 1135 | 73–74 | `sen-` / `bianza` | `sembianza` | Italic lemma; the verse has `sembianza`; the image shows `n`. |
+| 1135 | 75–76 | `sen-` / `bianza` | `sembianza` | Italic lemma; the verse has `sembianza`; the image shows `n`. |
 | 1264 | 59–60 | `mi-` / `mium` | `nimium` | Commentary; the image shows `mi-`. |
 | 0085 | 29 | `quod aier de co timeret` | `eo` | Latin verse 48 (Italian `ne temesse`); an italic `c` without the eye, as 0764 `volca`. |
 | 0227 | 49 | `Surgit in vermen est plantam` | `et` | Latin verse 100 (Italian `et in pianta`). |
@@ -658,6 +682,11 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0878 | 12 | `miglor voci (8)` | `(18)` | Italian verse; the `1` not printed, a space left; found by the verse reading. |
 | 0897 | 5 | (no number) | `31` | Italian tercet 31, the first line of the page, has no number; the file keeps `31` (Batch 8); found by the verse reading. |
 | 0952 | 30 | `Isia natura suo Factori` | `Ista` | Latin verse; an `i` with its dot for the `t`; found by the verse reading. |
+| 1076 | 32 | `Quare voluntas meu esset` | `mea` | Latin verse 9; found by the verse reading. |
+| 1091 | 13 | `Um poco s'arrestavan` | `Un` | Italian verse; `m` for `n`, as 0623 and 0625; found by the verse reading. |
+| 1124 | 9 | `uno scalco erecto` | `scaleo` | Italian verse; `c` for `e`; found by the verse reading. |
+| 1143 | 26 | `Sed puucum fuit` | `paucum` | Latin verse 6; found by the verse reading. |
+| 1148 | 35 | `Inde remunsere ibi` | `remansere` | Latin verse 43; found by the verse reading. |
 
 ## Known limits
 
