@@ -23,8 +23,8 @@ more errors found in the same lines and by the searches they led to (DONE.md, "C
 **Next**, in this order (each below, under "Checks"):
 
 1. **Verse check**: the text only (step 0) is done; every line of the Latin and of the
-   Italian verse is read again from the image (steps 1–4): batches 1–8 done, then
-   batches 9–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
+   Italian verse is read again from the image (steps 1–4): batches 1–9 done, then
+   batches 10–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
    batch 2, page images from batch 3; step 3).
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
@@ -369,6 +369,26 @@ compared with the print only: the edition's Italian is one manuscript's
    - `la_check.py` over 0813–0924 and `la_seqcheck.py` give the same output, but for
      0856, which they now list for its missing number, as 0363.
 
+   **Batch 9** (0925–1048; done, 2026-11-02):
+   - Latin: 1,455 lines read, 10 differ in words, 4 more in punctuation, 1 extra. 7
+     misread (0932 `te` left out, `prius quam`, 0982 `planta,`, 1029 `secundum,`, 1034
+     `Scripturas` without a comma, 1034 `intra 'consilium`, as 0843 `'fecerunt`), and 0994
+     `sibi [tardo.]`, which the first OCR left inside the line: the print has the runover
+     `[tarda.`, now its own line (the page's later lines move down by one;
+     `lemmacheck.tsv` 0994:60 and the note 0994:47 follow; the batch now has 1,456
+     lines). 1 misprint (Suspected misprints: 0952 `Isia`). Reader errors: no tercet
+     numbers; 6 words (`volitione`; the printed `athletha`, `vincit`, `Quae` and the known
+     misprint `palec` corrected; `fuitvel` split, where no space is printed).
+   - Italian: 1,436 lines read; 13 differ in words, 5 more in punctuation, 1 in the
+     tercet number. 7 misread: `parìa`, `Così` (accents left out), `meglo` (the stroke
+     through the `o` is not an accent), `l'ochio` (was `l'Ochio`), `maravigla`, `famigla`,
+     `consiglo`. 1026 `Ciò` and `sentì` were written with combining accents; now
+     precomposed (no other page has them). Reader errors: none in the tercet numbers but
+     0955 `29.`, whose period is printed (the file leaves it out); 4 words (`ïn` and `Sì`
+     from specks, `Cinisa`, `Alcide` for `Alcyde`), 5 punctuation marks (0969 the gloss mark `(2)` read `(1)`, four
+     gloss marks closed up to the word).
+   - `la_check.py` over 0925–1048 and `la_seqcheck.py` give the same output.
+
    **Per batch**: the crops in `tmp/la-verse/bN/` (Latin) and `tmp/la-verse/bN-it/`
    (Italian); the Italian task to la-el-agy, the Latin to la-el-agy2, each carrying the
    feedback on its previous batch, sent only on the user's signal. The readings are first
@@ -637,6 +657,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0856 | 8 | (no number) | `44` | Italian tercet 44 has no number, as 0363; found by the verse reading. |
 | 0878 | 12 | `miglor voci (8)` | `(18)` | Italian verse; the `1` not printed, a space left; found by the verse reading. |
 | 0897 | 5 | (no number) | `31` | Italian tercet 31, the first line of the page, has no number; the file keeps `31` (Batch 8); found by the verse reading. |
+| 0952 | 30 | `Isia natura suo Factori` | `Ista` | Latin verse; an `i` with its dot for the `t`; found by the verse reading. |
 
 ## Known limits
 
