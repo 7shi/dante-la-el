@@ -2,15 +2,15 @@
 
 This is the plan for `ocr/la`, the transcription of Serravalle's translation and commentary
 (1891), now that it is complete. The completed work (the verse, the two-OCR markup, the
-batches, the retyping, the line checks and the conversion) is recorded in
-[DONE.md](DONE.md); the "procedure" steps and the "items" cited below are those of DONE.md.
-The conversion into `texts/la/` is described in [texts/PLAN.md](../../texts/PLAN.md)
-("`texts/la/`").
+batches, the retyping, the line checks and the conversion) and the first two checks (check 1
+and the verse check) are recorded in [DONE.md](DONE.md); the "procedure" steps and the
+"items" cited below are those of DONE.md. The conversion into `texts/la/` is described in
+[texts/PLAN.md](../../texts/PLAN.md) ("`texts/la/`").
 
 **A new session starts here**: read "State" and go on from the first open step of "Checks".
 The rules and conventions below are settled: apply them, do not ask again.
 
-## State (2026-11-02)
+## State (2026-11-03)
 
 `ocr/la` is complete (`0001`–`1296`) and converted into `texts/la/001`–`110` (DONE.md).
 What the completed method cannot see are errors that both OCRs share: `ocr/la` was proofread
@@ -18,20 +18,18 @@ by marking where it disagrees with GLM-OCR, so a word that both read alike and w
 not marked (0085 `terret` for printed `territ`, 0197 `circuleto` for `circulecto`, both
 corrected outside the markup). The checks below look for them (decided with the user, 2026-11-01).
 
-Check 1 (lemmas against the verse) is done: 1,271 candidates, 9 misread, and about 80
-more errors found in the same lines and by the searches they led to (DONE.md, "Check 1").
-**Next**, in this order (each below, under "Checks"):
+Done (DONE.md): check 1 (lemmas against the verse: 1,271 candidates, 9 misread, and about
+80 more errors found in the same lines and by the searches they led to) and the verse check
+(the Latin verse against the Italian text, then every line of both verse columns read again
+from the image: about 250 lines misread and 46 misprints). **Next**, in this order (each
+below, under "Checks"):
 
-1. **Verse check**: the text only (step 0) is done; every line of the Latin and of the
-   Italian verse is read again from the image (steps 1–4): all 11 batches done (the
-   Italian by la-el-agy, the Latin by la-el-agy2; line images in batch 2, page images
-   from batch 3; step 3).
-2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
+1. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
    `ocr/la` (steps 3–6).
-3. **Check 2**: write `ocr/la_lexcheck.py`, its recall trial on the first transcription,
+2. **Check 2**: write `ocr/la_lexcheck.py`, its recall trial on the first transcription,
    then decide the candidates in the image.
-4. **When all are done**: State, Known limits, texts/PLAN.md and texts/la/README.md, and
+3. **When all are done**: State, Known limits, texts/PLAN.md and texts/la/README.md, and
    the record moved to DONE.md.
 
 ## Checks
@@ -48,407 +46,34 @@ The decisions are kept in a table per check in `ocr/la/` (`lemmacheck.tsv`,
 `versecheck.tsv`, `lexcheck.tsv`: `page line form decision note`), committed with the fixes, so that a
 rerun lists only new candidates (matched by page and form, as line numbers shift). The scripts read the table and leave out what is decided.
 
-Order: check 1 (lemmas, done) first, as its candidates were fewer and surer; then the
-verse check, with the same procedure while it is fresh; then the italics, which start
+Order: check 1 (lemmas) first, as its candidates were fewer and surer; then the verse
+check, with the same procedure while it was fresh (both done); then the italics, which start
 from the lemmas of check 1; then check 2, whose ranking learns from the errors checks 1
 and the verse check found, and whose counts are surer once the verse is right.
 
-### Check 1: lemmas against the verse (done)
+### Done: check 1 and the verse check
 
-Done over 0079–1270 in 10 batches (2026-11-01); the plan, the procedure per batch with the
-reading delegated to la-el-agy, and the results are in DONE.md ("Check 1"). What the next
-steps take from it:
+Check 1 (lemmas against the verse, 0079–1270 in 10 batches, 2026-11-01) and the verse
+check (every line of both verse columns read again from the image, 0079–1270 in 11
+batches, 2026-11-01 – 2026-11-03) are recorded in DONE.md ("Check 1", "Verse check").
+What the next steps take from them:
 
 - `ocr/la_lemmacheck.py FIRST LAST -v` lists the lemmas found: the italics (step 1) match
   their runs of italic words to them.
-- `lemmacheck.tsv`: its forms are decided; check 2 leaves them out.
-- The procedure per batch (crops in a shuffled order, read by la-el-agy from the images
+- `lemmacheck.tsv` and `versecheck.tsv`: their forms are decided; check 2 leaves them out.
+- Check 1's procedure per batch (crops in a shuffled order, read by la-el-agy from the images
   alone, compared line by line, every difference decided in the image) can serve check 2
   if its list is long. Match every reading to its line before comparing (batch 9: 60
   readings were not of their images).
-- Its errors were mostly a common spelling written for the printed one (`mihi` for
+- Check 1's errors were mostly a common spelling written for the printed one (`mihi` for
   `michi`, `societate` for `sotietate`, accents not printed); check 2, which looks for rare
   forms, does not find this kind (below, "Not found by this check").
-
-### Verse check: the verse read again (`ocr/la_versecheck.py`; decided with the user, 2026-11-01)
-
-The Latin verse has had one reading only: the first OCR's (la-el-agy's on 0836), outside
-the markup, as GLM-OCR drops it. Check 1 read again only the lines that a lemma quotes and
-found about 40 errors there (`mihi` for `michi`, `societate` for `sotietate`, accents not
-printed, `spendorum` for `splendorum`, a whole line not of the print on 1053), so the
-other lines likely hold as many. Every line of the Latin verse is read again from the
-image and compared. The Italian verse, though in the markup (GLM-OCR reads it), is read
-again too (decided with the user, 2026-11-02): the trial found accents that both OCRs
-dropped (`Si` for `Sì`) and a misprint read as the sense (`miei` for `mici`). It is
-compared with the print only: the edition's Italian is one manuscript's
-(texts/la/README.md, "The Italian text") and differs from modern editions in most lines.
-
-0. **Text against the Italian** (decided with the user, 2026-11-01), before any image:
-   the Latin verse is a line-by-line translation of the Italian beside it, so a misread
-   that changes the sense (1053's whole line, `spendorum`, `gyrarit`)
-   shows against the Italian. `uv run ocr/la_versepairs.py -d DIR` writes each canto's
-   verse as pairs (`canto page tercet line italian latin`; 100 cantos, 14,233 lines, all
-   tercets paired). la-el-agy reads the pairs, a cantica a task, and lists the lines where
-   the Latin clearly does not say what the Italian says (another line's words, a word of
-   unrelated sense, a word missing or added that changes the sense, a word that is no
-   Latin), not the translation's freedoms or the manuscript's spellings (`michi`, `e` for
-   `ae`). The text only: no images, no other Dante text. Each listed line is then decided
-   in the image (`ocr/la_view.py word`), corrected if misread, and recorded in
-   `versecheck.tsv`; the rate of real errors among the listed lines and among check 1's
-   verse errors (how many the list would have found) decides with the user whether the
-   reading from the image (steps 1–4) is still needed, and for which lines.
-   - **Inferno** (008–041, 4,720 lines; done): 110 lines listed. 20 were the runover
-     words set beside the next line (the pairs had them on the wrong line; the
-     convention under "Brackets" now places them, and all pages were done). Of the
-     other 90: 3 misread (0095 `invetis` → `iuvetis`; 0402 `ridet` → `videt`, in the
-     verse and in its lemma, so check 1 could not see it; 0450 `promererar` →
-     `promerear`), 4 misprints (Suspected misprints: 0085 `co`, 0227 `est`, 0259
-     `prerogatiram`, 0439 `leravit`), 83 printed so (the translator's: `plus` for
-     `men`, `puppim`/`proram` swapped, `-didi` perfects). None of check 1's Inferno
-     verse errors was listed: they are all spellings and accents (`mihi`, `Insìmul`,
-     `emictiunt`, `Capra[ra]`), which leave the sense alone; step 0 finds only
-     misreadings that change a word.
-   - **Purgatorio** (043–075, 4,755 lines; done): 226 lines listed, 70 of them only for
-     the editor's brackets (`[quod]`, `relarg[a]vit`). 18 misread: 0492 `Excundo` →
-     `Exeundo`; 0496 `perpende di` → `perpendi de`; 0540 `Fugiendos` → `Fugiendo`;
-     0556 `accol lectiones` → `accollectiones` (verse and lemma); 0568 `deviahat` →
-     `deviabat`; 0569 `voluit` → `volvit`; 0582 `Respondiit` → `Respondit`; 0605 `quifa`
-     → `qui[a]`; 0617 `Tune` → `Tunc` (verse and lemma; the search found 6 more in the
-     commentary: 0217, 0383, 0537, 0719, 0729, 1185); 0624 runover `[nationem],` →
-     `[nationem,`; 0634 `s[c]iugat` → `sciugat` (the lemma prints `[s]ciugat`); 0637
-     `Vidissem` → `Vidisses`; 0639 `reminifcor` → `reminiscor` (verse and lemma); 0640
-     the runover `[delectat` was missing; 0642 runover `[spieit:` → `[spicit:`; 0651
-     `introyu` → `introytu`, `Respondera` → `Respondere`; 0723 `planetas` → `planctas`
-     (`ct` for `t`, as 0582). 2 misprints (Suspected misprints: 0530 `quiu`, 0606 `cum`),
-     206 printed so (`ventrum` for `centro`, `Metellus` for `Marcel`, the Italian words
-     left in the Latin: `balzo`, `soggiorno`, `sprazzo`). Most misreadings this time
-     were letters (`c`/`e`, `h`/`b`, `f`/`s`), which made a non-word; check 1's
-     Purgatorio verse errors were again spellings and accents, but for 0592
-     `procedebat` and 0595 `ride[n]t`, fixed before the pairs were written.
-   - **Paradiso** (076–108, 4,758 lines; done): 167 lines listed. 4 misread: 1026
-     `Cœlum` → `Celum`; 1053 `arrosoruit` → `arrosonuit`, and the runover `[cennum` was
-     missing (the commentary 1054 has `arrosonuit`); 1194 `&` → `et`; 1229 `redolel` →
-     `redolet`. No misprint; 0956 `fuitvel` is set without a space. 163 printed so (the
-     Italian words left in the Latin: `bieci`, `gaggiorum`, `vivagnis`, `soggiornum`;
-     `adymat`, `badalucchem`, `scioliis`, `dicenduum` as printed). 21 of the notes named a
-     word that is in neither column (`Dante nos` for `Dinanzi a noi`, `amovi`,
-     `impingit`): la-el-agy's notes invented them, and those lines were found printed so.
-     Check 1's Paradiso verse errors (1053's whole line, `spendorum`, `gyrarit`) were
-     fixed before the pairs were written, so whether the list would have found them is
-     not known.
-   - **Over the three canticas**: 25 misread among 503 listed lines (14,233 lines), most
-     of them letters that made a non-word (`Excundo`, `redolel`) or a word of another
-     sense (`ridet` for `videt`); 6 misprints. The spellings and accents that were most
-     of check 1's verse errors leave the sense alone and are not found by step 0.
-1. **Script** `ocr/la_versecheck.py FIRST LAST [--italian] --crops DIR` writes one image
-   per verse line (the Latin block of `ocr/la` as `la_lemmacheck.py` finds it, or the
-   Italian with `--italian`; the gloss lines at the block's end left out), enlarged 2×
-   and in a shuffled order, as check 1's crops (`DIR/lines.tsv` maps them back; a line
-   that Tesseract cannot locate, mostly a runover word, goes to `DIR/unlocated.tsv` and is
-   read in the page image).
-   `--readings DIR [-o OUT]` compares the reader's `DIR/readings.tsv` (`L0001<TAB>line`)
-   with `ocr/la` line by line: the differing words (letters and accents, not the
-   punctuation) and the tercet number; a line whose words agree but whose punctuation
-   differs is listed as `punctuation` (in the script after batch 3, before that a short script
-   in the session); apostrophe spacing is not judged (Conventions: "Apostrophe spacing as
-   in the file"). This replaces the page-column crops first
-   planned (`la_versecrop.py`): single lines in a shuffled order keep the reader from
-   reading a known passage.
-   `--page-crops DIR` writes one image per page instead (`DIR/P0115.png`: the verse block
-   of the page, the box of its located lines, enlarged 2×, in page order; `DIR/pages.tsv`
-   counts its lines); the reader writes its lines in order (`P0115<TAB>line`, one row per
-   printed line, a runover word as its own row). `--page-readings DIR [-o OUT]` aligns
-   them with the lines of `ocr/la` page by page, by the likeness of their letters, and
-   compares them as `--readings` does; a line not paired is counted as not read, a
-   reader's line not paired is listed as `extra`.
-2. **Trial** on batch 1 (`0079`–`0114`; done, 2026-11-02):
-   - Latin: 414 lines read, 8 differ. 4 misread, all toward a common form: 0095
-     `Seculum` → `Seclum`, 0098 `caveas` → `caves`, 0101 `redii` → `redivi`, 0113
-     `transivit` → `transirit` (a misprint, Suspected misprints). 4 reader errors: the
-     known misprint `co` written `eo`; tercet numbers `36`, `33` read `38`; `eorum` written
-     `corum`, the very example of the task (a task names kinds of error, never words that
-     may be in the batch).
-   - Italian: 413 lines read, 8 differ in words, 2 more in punctuation. 4 misread: 0096
-     `Si` → `Sì` twice, 0100 `l'anno` → `l'ànno`, 0086 `miei` → `mici` (a misprint);
-     0087 `dogla.` → `dogla,`, 0090 `venire,` → `venire;`. The search over all 86 Italian
-     lines starting `Si` found 3 more `Sì` (0400, 0595, 0662). 4 reader errors
-     (`veuir`, `14` for `44`, `proposito`, `riconosciuto`); 19 lines differ only in
-     apostrophe spacing, not judged.
-   - About 1% of the lines were wrong; the readings were reliable. Decided with the user:
-     go on over 0115–1270, the Italian and the Latin as separate tasks, in 10 batches.
-3. **Batches** (canto boundaries; lines of the Latin / Italian verse):
-
-   | Batch | Pages | Latin | Italian |
-   |---|---|---|---|
-   | 2 | 0115–0232 | 1,358 | 1,346 |
-   | 3 | 0233–0348 | 1,404 | 1,395 |
-   | 4 | 0349–0464 | 1,477 | 1,468 |
-   | 5 | 0465–0586 | 1,417 | 1,407 |
-   | 6 | 0587–0692 | 1,326 | 1,319 |
-   | 7 | 0693–0812 | 1,473 | 1,462 |
-   | 8 | 0813–0924 | 1,338 | 1,326 |
-   | 9 | 0925–1048 | 1,455 | 1,436 |
-   | 10 | 1049–1150 | 1,329 | 1,319 |
-   | 11 | 1151–1270 | 1,476 | 1,466 |
-
-   **Images**: line images (`--crops`) in batch 2; page images (`--page-crops`) from batch 3
-   on (decided with the user, 2026-11-02: the line images were too many and too small to
-   work through, about 1,350 per task against about 92 pages; in batch 2 the Italian reader
-   pasted them 10 to a sheet itself, so the lines were read side by side anyway, and at the
-   smaller size it misread 24 tercet numbers against 1 in batch 1). Page images also show
-   the runover words that line images could not locate, and a line printed twice on a page
-   (0133:8 and 10), whose line image was cut from the wrong row. They show the context,
-   so the reader may be led more by the sense (agy's main failure mode): the task says so
-   plainly, and the error rate is compared with batches 1–2. The edge of the other column (line ends,
-   tercet numbers) may show: the task says to leave it out.
-
-   **Batch 2** (0115–0232; done, 2026-11-02):
-   - Latin: 1,353 lines read, 26 differ in words, 5 more in punctuation. 9 misread: 0121
-     `tanquam` → `tamquam`, 0170 `circumvolvitur` → `circumvolvatur`, 0214 `sociis` →
-     `sotiis`, 0226 `moriendi` → `moriendo`; 0117 `dixit` → `dixit,`, 0122 `tanto.` →
-     `tanto:`, 0147 `ingenia.` → `ingenia,`; and two runover words joined to their line,
-     put on their own line (Conventions, "Brackets"): 0117 `ad` / `[fundum,`, 0189
-     `indignatio-` / `[nem.`. Reader errors: 8 tercet numbers, 6 words (`Ciacchum`,
-     `Iosaphat`, `dilatione`, `bulicame`, `Nesus`, `Lano`: common forms and corrected
-     names), 2 punctuation marks; from the crops, 3 lines cut at an edge where the
-     Tesseract box missed a word, 2 crops of two lines, 1 line of the other column.
-   - Italian: 1,345 lines read, 40 differ in words, 18 more in punctuation. 3 misread:
-     0168 `figliuolo` → `figluolo`, 0194 `perch'io` → `per ch'io`, 0216 `damni` →
-     `danni` (stems counted). Reader errors: 24 tercet numbers and 5 gloss numbers (read
-     on sheets of 10 lines it made itself), 10 words (misprints corrected, `Verrauno`,
-     `Trhaemmoci`; common forms, `Colui`, `fui`, `lì`), 3 lines cut short. The gloss
-     marks without a space were spaced (Conventions, "Gloss marks").
-   - The 6 unlocated lines, read in the page image, were right. 0133:8 and 10 print the
-     same line, so the line image of 8 was cut from 10.
-   - The other `figliuol` forms (9, on later pages) and `soci-` are read in their batches.
-
-   **Batch 3** (0233–0348; done, 2026-11-02; the first with page images):
-   - Latin: 1,404 lines, 1,403 paired with a reading (0260:34, read in another word order,
-     was left unpaired), 15 differ in words, 2 more in punctuation. 6 misread: 0240
-     `introyttus` → `introytus`, `montana` → `montanea`, `vetusta.` → `vetata.`, `elegit` →
-     `ellegit`, `plingebat` → `plangebat` (five in one passage, all from the first
-     transcription), 0260 `Fuit maioris gradus` → `Fuit gradus maioris`. 3 misprints
-     (Suspected misprints: 0241 `tumquam`, 0261 `bonum`, 0338 `vium`). Reader errors: no
-     tercet numbers; 10 words (the three misprints and 0259 `prerogatiram` corrected,
-     `inviscabat`/`inviscatas` read `inviscidabat`/`inviscidatas`, `respondidi`,
-     `recolsit`, `corruscet`, `[tomem.`), 2 punctuation marks.
-   - Italian: 1,395 lines read, all paired, 8 differ in words, 2 more in punctuation. 2
-     misread: 0253 `protesi` → `protesï`, 0345 `maravigliar` → `maraviglar`. Reader
-     errors: no tercet or gloss numbers; 4 words (`conoscuto`, `soglono`, `sgaglarda`
-     made the common forms, the `ï` of 0318 `dïsse` left out). 4 marks read where the file
-     keeps its reading: 0271 a mark over the `g` of `glurchi` (a smudge), 0276 a faint
-     grave on `à`, 0262 a raised dash after `dole` (above the hyphen's height), 0275 a
-     gloss mark printed `(°)` for the `(1)` of its note (kept `(1)`, the link to the note).
-   - Against batch 2 (line images), the tercet-number errors fell from 8 and 24 to none;
-     word errors toward the usual form stayed (10 and 4). The page images did not show
-     more reading from the sense.
-
-   **Batch 4** (0349–0464; done, 2026-11-02):
-   - Latin: 1,477 lines read, 27 differ in words, 14 more in punctuation, 1 extra. 29
-     misread, most from the first transcription: letters (`discosscenditur`, `ymmum`,
-     `membrorum`, `abhorris`, `Reperiuimus`, `Cozzavcrunt`, `Bisscntium`, `Tribaldeilo`
-     and the same in its commentary, `corrossit`, `permicit`), words (0402 `mihi` →
-     `michi`, 0426 `Et` → `Sed`, 0439 `apparuit` → `apparet`, 0458 `te` and 0461 `ad
-     eum` not printed), brackets (0411 `dimis[iss]es`, 0416 `applicat[ur]`), 11
-     punctuation marks, and the runover 0439 `[ego.`, left out (the lines below it move
-     by one). 5 misprints (Suspected misprints: 0396 `posest`, 0446 `Guctaverunt`, 0455
-     `[ricinus.`, 0461 `citernam`, `proximani`). Reader errors: no tercet numbers; 5 words
-     (`Repercutiendo`, `iterum`, the known misprint `leravit` corrected, `decomas`,
-     `interrogaveris`), 3 punctuation marks (spaces around `;` and `,`). The reader's
-     `Cochitum;` of batch 3 (0241:42) was right by the punctuation rule; the file is
-     corrected, and so are the 31 other spaces before `:` or `;` the search found (21
-     pages, 0374–1225, mostly commentary; Conventions, "Punctuation").
-   - Italian: 1,468 lines read, 21 differ in words, 5 more in punctuation, 3 extra. 6
-     misread: 0356 `Sì` → `Si`, 0400 `maraviglia` → `maravigla`, 0406 `ch’e’n` →
-     `ch’è’n`, 0423 `si` → `sì`, 0433 `gl'occhi` → `gl'ochi`, 0444 `(11) :` → `(11):`.
-     1 misprint: 0363 tercet 6 has no number (Suspected misprints, as 0099; `la_check.py`
-     and `la_seqcheck.py` list it, `convert_la.py` reports `NO NUMBER`). Reader errors: 1
-     tercet number; 9 words (common forms: `piglio` ×2, `applicar`, `trafito`,
-     `sarebbono`, `scioca`; the known misprint `sn` corrected; the `ï` of 0378 left out,
-     0374 `ï` added); 3 marks where the print has a smudge or a broken letter (0388
-     `città`, 0389 `infamia`, 0420 `crucciata`); 2 runover words written without `[`
-     (0461 prints none; the file keeps the convention).
-   - The 3 extra Italian lines (0402:16, 0414:24, 0449:15) start with a gloss mark, and
-     `la_lemmacheck.page_parts` took every such line for a gloss line, so the verse check
-     left them out; the readings agree with the file. `page_parts` now leaves out only
-     the gloss lines at the end of a verse block (`(1) al. pianto.`): 11 verse lines of
-     0079–1270 start with a gloss mark, none in the Latin. Of those before batch 4, 0166:15
-     was looked at in the image and agrees; `la_lemmacheck.py` gives the same output.
-   - Against batch 3, the tercet-number errors stayed near none; the Latin had the most
-     misread lines of any batch so far (29), from the first transcription, not from the
-     reader.
-
-   **Batch 5** (0465–0586; done, 2026-11-02):
-   - Latin: 1,417 lines read, 30 differ in words, 10 more in punctuation. 29 misread, most
-     from the first transcription: letters (`ellecti`, `montanea` as 0240, `atterrando`,
-     `faciant`, `rubecchium`, `vocabolum`, `smiragdum`, `interrogavit`, `pavefacta`,
-     `arsiccia`, `amassicciatur`, `Biasmantuam`, `permictit`; the last two also in the
-     commentary 0507:70 and 0582:80), words (0492 `Qui` → `Que`, `denegatur` →
-     `denegetur`, 0493 `totum` → `totam`, 0547 `Respondet` → `Respondit`, 0566 `quae` →
-     `que`, 0572 `Incepit` → `Incépit`), a bracket (0506 `e[s]t`), 9 punctuation marks. 1
-     misprint (Suspected misprints: 0529 `sinistrun`; 0525 `ventrum` was listed). Reader
-     errors: no tercet numbers; 11 words (the misprints `sinistrun` and `ventrum`
-     corrected, `Giudecca`, `cum` ×2, `Desposaverat`, `nigresiebat`, `excicatos`,
-     `Biamantuam`, an accent and a bracket added), 1 punctuation mark.
-   - Italian: 1,408 lines read, 21 differ in words, 10 more in punctuation. 17 misread:
-     letters (`meglor`, `consiglo` ×2, `gl'ochi`, `ochi`, `andavàn`, `vogle`, `vechio`,
-     `macciulla`, `A'miei`, `percuote` without the ring of `ů`), 0523 the gloss mark
-     `(1)` left out (its note was on the page), 0539 `un' altro` → `un altro` (a dot at
-     mid height, not an apostrophe), and 0469 five `‘l` with a space before, printed
-     `’l` joined (the one other `‘`, 1022:7, made `’`). 2 misprints (Suspected misprints:
-     0468 `parca`, 0514 `Quant'um`). Reader errors: no tercet numbers (one with a stray
-     dot); 9 words (the two misprints corrected, `uscimmo`, `reporterò`, `trascorrer`,
-     `Sì`, `Quel`; a speck read as an accent on 0492 `le`), 3 punctuation marks. 0527:10
-     prints a mark over the `i` of `mio`, wider than a dot (the reader's `mĭo`); not
-     plainly an accent or a diaeresis, the file keeps `mio`.
-   - `la_check.py` over 0465–0586 and 1022 and `la_seqcheck.py` give the same output.
-
-   **Batch 6** (0587–0692; done, 2026-11-02):
-   - Latin: 1,326 lines read, 29 differ in words, 8 more in punctuation. 29 misread:
-     letters (`Que` ×2, `[ecplanas:`, `Ylyon`, `Horestes`, `compaxus`, `riparie`,
-     `tralucat`, `graminee`, `Ugolini`, `Bertenorium`, `Fulgur`, `permictit`,
-     `introytum`), words (0637 `audiendum` → `videndum`, `parcens` → `parcus`, 0651
-     `nomine` → `nomen`), the names of 0639 (`Prata`, `Transversarie`, `Anestasiorum`,
-     `Castrocarium`, where the reader had `Castrocorium`), 0614 four gloss marks `(1)`–`(4)`
-     not in the print (left from the first OCR; the notes (1)–(16) are the Italian's), 5
-     punctuation marks. The commentary keeps its own forms (`Faventia`, `Traversarie`,
-     `Bertennorium`, `Castrocardium`), not checked. 3 misprints (Suspected misprints: 0592
-     `mimus`, 0639 `Farentia`, 0647 `co`). Reader errors: no tercet numbers; 8 words (the
-     known misprints `cum` and `co` corrected, `suam`, `Filii`, `compassionem`,
-     `reinfames`, `Castrocorium`, `Conium`), 2 punctuation marks (0613 a period made a
-     comma, 0685 `vadit,non` spaced).
-   - Italian: 1,320 lines read, 23 differ in words, 7 more in punctuation. 18 misread:
-     letters (`agl'ochi`, `gl'ochi`, `ginochia`, `effecti`, `giuncto`, `ofitio`,
-     `appettibile`, `figluol`), accents (`siàn`, `Cimabù`, `lì`, `fuggì` added; `manna`, `e`
-     without one: 0599 a speck over the `a`), 0603 the gloss mark `(1)` left out (its note
-     was on the page), 3 punctuation marks (0594 `ch',a` without a space, as printed). 5
-     misprints (Suspected misprints: 0605 `Selvani`, 0612 `Semnaar`, 0623 `Com`, 0625 `um`,
-     0652 the gloss mark `(3)` for `(8)`). Reader errors: no tercet numbers; 9 words (the
-     four misprints corrected, `Udì`, `Dì`, `cavalier`, `fregar`, an accent on 0600 `noi`),
-     3 punctuation marks (0652 the mark `(3)` made `(8)`, two spaces added after commas).
-     0600:14 prints a grave over the gap between the `o` and the dotted `i` of `noi` (the
-     reader's `nòi`); the file keeps `noi`, as 0527 `mio`.
-   - `la_check.py` over 0587–0692 and `la_seqcheck.py` give the same output.
-
-   **Batch 7** (0693–0812; done, 2026-11-02):
-   - Latin: 1,473 lines read, 7 differ in words, 7 more in punctuation. 3 misread
-     (`ammannat`, 0724 `Et, quare`, 0792 `[cta est,`). 3 misprints (Suspected misprints:
-     0709 `Etipse`, 0734 `tanctum`, 0745 `tor tam`). Reader errors: no tercet numbers; 3
-     words (`planetas`, `cara`, `Feriebat`), 5 punctuation marks (0770 and 0777 a period
-     made a comma, 0746 `adhuc ?` closed up, 0747 the mark of `operandum·est` and 0807
-     the dot of `rideo,.` left out).
-   - Italian: 1,465 lines read; apart from the tercet numbers, 21 differ in words, 12 more
-     in punctuation. 12 misread: letters (`ripiglammo`, `miglor`, `agl'ucellin`,
-     `s'affigge`, `c'affigghono`, `maravigla`), accents (`ch'ànno`, `ridiàn` added),
-     0805 `Avegna che` (was `Avegnache`), 3 punctuation marks (0742 `oggimai,chè` without
-     a space, as printed). 3 misprints (Suspected misprints: 0725 `(9,` and 0737 `(12.`
-     without the closing parenthesis, 0753 `si munta`). Reader errors: the tercet numbers
-     left out on every page from 0752 on (242 lines; `la_seqcheck.py` checks them against
-     the Latin); 12 words (`repetiam`, `insieine`, `dì'`, `hymno` ×2, `Lemosì`, `'ntesi`;
-     specks read as marks: 0712 `decrèto`, 0772 `Ché`, 0781 and 0805 `chę`, 0805
-     `fiumícel`), 7 punctuation marks (0722 a period made a comma, six gloss marks closed
-     up to the word, which the rules space).
-   - `la_check.py` over 0693–0812 and `la_seqcheck.py` give the same output.
-
-   **Batch 8** (0813–0924; done, 2026-11-02):
-   - Latin: 1,338 lines read, 3 differ in words, 7 more in punctuation. 5 misread
-     (`proiïcendo`, 0818 `similitudines;`, 0842 `Postea,quando` without a space, as
-     printed, 0890 `pertransit,` and `satietatem,`). Reader errors: no tercet numbers; 2
-     words (`desviando`, `deveni[ur]`), 4 punctuation marks (0826 a period made a comma,
-     0890 a period left out, 0844 a comma added where the `m` is broken, 0843 the mark
-     before `'fecerunt` left out).
-   - Italian: 1,327 lines read; apart from the tercet numbers, 6 differ in words, 7 more
-     in punctuation. 5 misread: `aïuti` (the `ï` was left out), `saecta`, `ch'ànno`, 0878
-     `Penneya (11),`, 0922 `[spense (3),`. 3 misprints (Suspected misprints): 0856 tercet
-     44 and 0897 tercet 31 have no number, 0878 the gloss mark `(8)` for `(18)`. 0897 keeps
-     its `31`, since the scripts find a verse block by the number of its first line.
-     Reader errors: 1 tercet number (0814 `1`); 3 words (the misprint `orese` corrected,
-     `voller`, 0853 `çondocti` read `condocti`), 4 punctuation marks (0898 the misprint
-     `(22)` corrected, 0836 a space left out, 0894 a speck at mid height read as a period,
-     0850 a dot far after the line end written; the file leaves it out).
-   - `la_check.py` over 0813–0924 and `la_seqcheck.py` give the same output, but for
-     0856, which they now list for its missing number, as 0363.
-
-   **Batch 9** (0925–1048; done, 2026-11-02):
-   - Latin: 1,455 lines read, 10 differ in words, 4 more in punctuation, 1 extra. 7
-     misread (0932 `te` left out, `prius quam`, 0982 `planta,`, 1029 `secundum,`, 1034
-     `Scripturas` without a comma, 1034 `intra 'consilium`, as 0843 `'fecerunt`), and 0994
-     `sibi [tardo.]`, which the first OCR left inside the line: the print has the runover
-     `[tarda.`, now its own line (the page's later lines move down by one;
-     `lemmacheck.tsv` 0994:60 and the note 0994:47 follow; the batch now has 1,456
-     lines). 1 misprint (Suspected misprints: 0952 `Isia`). Reader errors: no tercet
-     numbers; 6 words (`volitione`; the printed `athletha`, `vincit`, `Quae` and the known
-     misprint `palec` corrected; `fuitvel` split, where no space is printed).
-   - Italian: 1,436 lines read; 13 differ in words, 5 more in punctuation, 1 in the
-     tercet number. 7 misread: `parìa`, `Così` (accents left out), `meglo` (the stroke
-     through the `o` is not an accent), `l'ochio` (was `l'Ochio`), `maravigla`, `famigla`,
-     `consiglo`. 1026 `Ciò` and `sentì` were written with combining accents; now
-     precomposed (no other page has them). Reader errors: none in the tercet numbers but
-     0955 `29.`, whose period is printed (the file leaves it out); 4 words (`ïn` and `Sì`
-     from specks, `Cinisa`, `Alcide` for `Alcyde`), 5 punctuation marks (0969 the gloss mark `(2)` read `(1)`, four
-     gloss marks closed up to the word).
-   - `la_check.py` over 0925–1048 and `la_seqcheck.py` give the same output.
-
-   **Batch 10** (1049–1150; done, 2026-11-03):
-   - Latin: 1,329 lines read, 13 differ in words, 7 more in punctuation, 6 extra. 17
-     misread: six runover lines, three missing (1051 `[concordes?`, 1135 `[vestris,` and
-     `[quod ego`) and three joined to their line by the first OCR (1079 `[tardum.`, 1111
-     `san-` / `[ctarum!`, 1125 `in-` / `[terrogo.`), now each its own line (the batch now
-     has 1,335 lines; the later line numbers of those pages in `lemmacheck.tsv`,
-     `versecheck.tsv` and Suspected misprints 1135 follow); words (`opima`, `que`,
-     `Mirabilius`, 1135 `quando est aperta,`, 1088 `[v]ivit` with its printed brackets,
-     1144 `dilatare,eo` without a space), 6 punctuation marks (1068 `barce,`, 1088
-     `folia,`, 1100 `pulchrum,`, 1142 `grati,` were periods or a semicolon; 1071
-     `gloriosum,`). 3 misprints (Suspected misprints: 1076 `meu`, 1143 `puucum`, 1148
-     `remunsere`). Reader errors: no tercet numbers; 2 words (`christianus`, the known
-     misprint `[ficum,` corrected). 1080 `Anima. sancta` keeps its comma (Conventions,
-     "Commas").
-   - Italian: 1,319 lines read, 12 differ in words, 3 more in punctuation. 4 misread:
-     1053 `udìo` (was `u'dio`: a broken `d`, no apostrophe), `simiglanze`, 1071
-     `glorioso,`, 1081 `Conscienza` (a speck under the `i`, no dieresis). 2 misprints
-     (Suspected misprints: 1091 `Um`, 1124 `scalco`). Reader errors: no tercet numbers; 8
-     words (the known misprint `sactta` and `Ninphe` corrected; the `fi` ligature read as
-     `t` twice, 1112 and 1126 `fisso` as DONE notes; the printed graves of `s'àdempia` and
-     `udìo` left out; `udì'` twice, no accent printed), 2 brackets spaced off their word
-     (`quel [lo]`, `iovia [l]`).
-   - `la_check.py` over 1049–1150 and `la_seqcheck.py` give the same output.
-
-   **Batch 11** (1151–1270; done, 2026-11-03):
-   - Latin: 1,476 lines read (23 runovers, all their own lines), 11 differ in words, 3
-     more in punctuation. 6 misread: 1153 `ita,quod` without a space, 1170 `abbagliaris`
-     (no comma printed), 1181 `EL` (a small capital `L`; the commentary's `EL` on line
-     100 corrected too), 1213 `Sancti;`, `ammodo`, 1251 `tantam`. 2 misprints (Suspected
-     misprints: 1242 `corum`, `habundatiam`). Reader errors: no tercet numbers; 6 words
-     (`istam`, `contempor`, `consentietur`, `baptismate` without the printed `h`, the
-     known misprint `dicenduum` corrected, `Propier` for the printed `Propter`, reported
-     as a misprint).
-   - Italian: 1,467 lines read, 245 differ in words, 6 more in punctuation, nearly all
-     from 1222–1254 (Paradiso 30–32), where the reader left out every tercet number
-     (reported as not printed; they are) and wrote the gloss marks as superscripts.
-     Without those, 9 misread: 1171 `felice (1)!` (was `(!)`), 1179 `(5)` (was `(3)`),
-     1179 `supplìco` (the grave is printed), 1182 tercet `47` (was `57`, the error
-     `la_check.py` and `la_seqcheck.py` reported), 1206 `(4) 'l notturno` (was
-     `l'notturno`), 1206 `gl'ochi`, 1210 `vincto`, `Phylosophando`, 1247 `mei,`. 1
-     misprint (Suspected misprints: 1206 `(2)` for `(12)`). Reader errors: 7 words
-     (`inmota`, `abborre` and `specchio` for the printed `immota`, `abbhorre`, `spechio`;
-     `trascorse`, `egualmente`, `reflexo`; 1177 `[S']`, 1261 `che'` from specks) and
-     spaces after apostrophes in 1222–1254.
-   - `la_check.py` over 1151–1270 and `la_seqcheck.py` give the same output but for the
-     1182 tercet number, no longer reported.
-
-   **Per batch**: the crops in `tmp/la-verse/bN/` (Latin) and `tmp/la-verse/bN-it/`
-   (Italian); the Italian task to la-el-agy, the Latin to la-el-agy2, each carrying the
-   feedback on its previous batch, sent only on the user's signal. The readings are first
-   matched to their images (a reading that is not of its image is read again); every
-   difference is decided in an enlarged crop (`ocr/la_view.py word`, or the page image
-   where Tesseract has no box); `ocr/la` corrected; one row per misread line, and per
-   reader error that looks like a variant, in `versecheck.tsv` (`page line form decision
-   note`); a misprint goes into "Suspected misprints"; an error that may recur is searched
-   for over all pages.
-4. **Checks** and **commit** as in check 1 (steps 5–6): `la_check.py` over the batch's
-   pages (the whole range takes too long) and `la_seqcheck.py` give the same output as
-   before the fixes (batches 1–3 checked so); `ocr/la`, then `texts`, then this PLAN
-   (State, the results, Suspected misprints).
+- The verse check's procedure per batch (page images by `ocr/la_versecheck.py
+  --page-crops`, read by la-el-agy and la-el-agy2 from the images alone, aligned by
+  `--page-readings`, every difference decided in the image) can serve as well. Its
+  readers' errors: a common spelling written for the printed one, a misprint corrected,
+  accents left out or added, specks read as marks; in batch 11 the tercet numbers of
+  three cantos left out and reported as not printed. A report is not taken as true.
 
 ### Italics (after check 1; decided with the user, 2026-11-01)
 
@@ -500,8 +125,8 @@ the whole book, one or two letters from a form found often, is a candidate.
    `ocr/la/tesseract/`; it does not normalize spellings, so its reading is a third vote).
    Ranked: Tesseract reading the neighbour first, then the letter pairs that the OCRs
    confuse (`c`/`e`, `n`/`u`, `r`/`t`, `rn`/`m`, `li`/`h`, `f`/`s`, `cl`/`d`), then the
-   rest. Left out: the forms in "Suspected misprints", `lemmacheck.tsv` and
-   `lexcheck.tsv`. Options: `FIRST LAST`, `-t TESS`, `-o OUT`, `--min N` (the neighbour's
+   rest. Left out: the forms in "Suspected misprints", `lemmacheck.tsv`,
+   `versecheck.tsv` and `lexcheck.tsv`. Options: `FIRST LAST`, `-t TESS`, `-o OUT`, `--min N` (the neighbour's
    count), `-d DIR` (read the pages from DIR instead of `ocr/la`).
 2. **Trial**: a recall test on the first transcription (the pages of commit `89ac4a3`,
    exported to a scratch directory and read with `-d DIR`): of the words the proofreading
@@ -725,10 +350,10 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 - Check 1 needs a lemma of 3 words with 2 equal to the verse, and a word within an edit
   distance of 2: 0154 `nuove traraglia` (2 words; the Latin verse has `travagle`, 3 edits)
   is not found.
-- The Latin verse is not covered by the markup (GLM-OCR drops it). Check 1 read only its
-  lines that a lemma quotes, and found about 40 errors there (`mihi` for `michi`,
-  `societate` for `sotietate`, accents not printed, a whole line wrong on 1053); the other
-  lines of the Latin verse have had no second reading ("Verse check" reads them).
+- The Latin verse is not covered by the markup (GLM-OCR drops it). The verse check read
+  every line of it, and of the Italian verse, again from the image (DONE.md, "Verse
+  check"), each line by one reader; a word that the first OCR and the reader both read
+  alike and wrongly is not found.
 - `la_survey.py` ends a page's verse block at a gloss line it does not recognize (`(^1)`,
   or a gloss run over two lines), and then reports the Latin as missing (25 pages, "Record of the preparation").
 - Line breaks and the Latin verse block are not covered by the markup (GLM-OCR joins lines
@@ -805,9 +430,9 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 - `ocr/la_versepairs.py [FILES] [-d DIR | -o OUT]`: the verse of the cantos in `texts/la`,
   the Italian and the Latin line side by side, one TSV per canto (verse check, step 0).
 - `ocr/la_versecheck.py FIRST LAST [--italian] (--crops DIR | --page-crops DIR |
-  --readings DIR [-o OUT] | --page-readings DIR [-o OUT])`: the verse check ("Checks"):
-  the line or page images of the Latin (or Italian) verse, and the comparison of a
-  reader's `DIR/readings.tsv` with `ocr/la`.
+  --readings DIR [-o OUT] | --page-readings DIR [-o OUT])`: the verse check (DONE.md,
+  "Verse check"): the line or page images of the Latin (or Italian) verse, and the
+  comparison of a reader's `DIR/readings.tsv` with `ocr/la`.
 - `ocr/la_italic.py`, `ocr/la_lexcheck.py`: to be written ("Checks").
 
 The working data of the completed work in `tmp/` (`la-markup/`, `la-mark7/`, the paid
