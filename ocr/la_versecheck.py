@@ -14,8 +14,9 @@ goes to DIR/unlocated.tsv, to be read in the page image). This is check 1's proc
 
 --readings compares the reader's DIR/readings.tsv (`L0001<TAB>line as printed`) with
 ocr/la, line by line: every line whose words differ (letters, accents and the tercet
-number; not the punctuation) is listed with both forms and the differing words; lines with
-no reading are counted.
+number) is listed with both forms and the differing words; a line whose words agree but
+whose punctuation differs is listed as `punctuation` (apostrophe spacing and a runover word
+at the line end are not compared); lines with no reading are counted.
 
 --page-crops writes one image per page instead: the verse block of the page (DIR/P0115.png
 …), in page order, for a reader who writes its lines in order (`P0115<TAB>line`, one row per
@@ -150,6 +151,19 @@ def align(ours, theirs, gap=0.4):
     return pairs[::-1]
 
 
+def bare(t):
+    """A line without its tercet number, runover word and apostrophe spacing."""
+    t = re.sub(r"\s*['’]\s*", "'", t)
+    t = re.sub(r"^\[?\d+ ", "", t)
+    t = re.sub(r"\s*\[\w+[?.,;:!]*( \(\d+\))?$", "", t)
+    return re.sub(r"\s+", " ", t).strip()
+
+
+def marks(t):
+    """The punctuation of a line, its words replaced by `w`."""
+    return L.WORD.sub("w", bare(t))
+
+
 def number(t):
     m = NUMBER.match(t)
     return m.group(1) if m else ""
@@ -189,7 +203,7 @@ def main():
     else:
         return
     out = open(a.output, "w", encoding="utf-8") if a.output else sys.stdout
-    unread = differ = 0
+    unread = differ = punct = 0
     for p, l in keys:
         theirs = readings.get((p, l))
         if theirs is None:
@@ -199,12 +213,17 @@ def main():
         d = L.word_diff(ours, theirs)
         if number(ours) != number(theirs):
             d.insert(0, f"#{number(ours)}>#{number(theirs)}")
-        if d:
+        if not d and marks(ours) != marks(theirs):
+            d = ["punctuation"]
+            punct += 1
+        elif d:
             differ += 1
+        if d:
             print(f"{p:04d}:{l}\t{'; '.join(d)}\n  o> {ours}\n  r> {theirs}", file=out)
     for e in extra:
         print(f"extra\t{e}", file=out)
-    print(f"{len(keys)} verse lines, {len(keys) - unread} read, {differ} differ, {unread} not read, {len(extra)} extra",
+    print(f"{len(keys)} verse lines, {len(keys) - unread} read, {differ} differ in words, "
+          f"{punct} in punctuation only, {unread} not read, {len(extra)} extra",
           file=sys.stderr)
 
 
