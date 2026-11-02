@@ -206,7 +206,7 @@ Tua verba et meum sequax ingenium. La tua parola e tuo sequace ingegno: hec est 
 
 19 Però, là onde vegna l'intellecto\
 &emsp;De le prime notitie, homo non sape,\
-&emsp;Et è prima appetibile l'effecto,
+&emsp;Et è prima appettibile l'effecto,
 
 19 Ergo, unde veniant intellectus\
 &emsp;Primarum noticiarum, homo non scit,\
@@ -226,7 +226,7 @@ Tua verba et meum sequax ingenium. La tua parola e tuo sequace ingegno: hec est 
 
 21 Omnis alia recolligitur super ista,\
 &emsp;Innata virtus que consulit\
-&emsp;Et habet assensum retinendi introitum.
+&emsp;Et habet assensum retinendi introytum.
 
 22 Quest'è 'l principio, là onde si pigla\
 &emsp;Ragion di meritar in voi, secondo\
@@ -414,7 +414,7 @@ O gentes, in quibus. O gente, in cui: hec est quarta pars huius capituli, in qua
 &emsp;Et un di quelli spirti disse: Vieni\
 &emsp;Dirieto a noi, e troverai la buca.
 
-38 Verba fuerunt ista mei ducis;\
+38 Verba fuerunt ista mei ducis:\
 &emsp;Et unus illorum spirituum dixit: Veni\
 &emsp;Retro nos, et reperies bucum.
 
@@ -493,7 +493,7 @@ Et ille, qui erat michi ad omnem necessitatem succursus, dixit: Volve te huc; vi
 &emsp;Quam videret Iordanis heredes suos;
 
 46 E questa (4), che l'affanno non sofferse\
-&emsp;Infino al fine col figliuol (5) d'Anchyse,\
+&emsp;Infino al fine col figluol (5) d'Anchyse,\
 &emsp;Sè stessa a vita (6) senza gloria offerse.
 
 46 Et illa, que laborem non sustulit\

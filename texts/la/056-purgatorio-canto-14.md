@@ -115,7 +115,7 @@ Et ego per medium Tuscie. E io per mezzo de Toschana: hec est secunda particula 
 &emsp;Come l'huom fa dell'horribili cose?
 
 9 Et alius dixit ad eum: Quare abscondit\
-&emsp;Iste vocabulum illius riparis,\
+&emsp;Iste vocabulum illius riparie,\
 &emsp;Eo modo quo homo facit de horribilibus rebus?
 
 10 E l'ombra (6) che di ciò domandat' era,\
@@ -273,7 +273,7 @@ Sanguinolentus exit de tristi silva; dimictit eam talem, quod tunc ad mille anno
 &emsp;Poi ch'ebbe la parola a sè raccolta.
 
 24 Sic vidi ego aliam animam, que conversa stabat\
-&emsp;Ad audiendum, turbari et fieri tristem,\
+&emsp;Ad videndum, turbari et fieri tristem,\
 &emsp;Postquam verbum ad se recollegit.
 
 25 L'udir dell'una, e dell'altra la vista,\
@@ -296,8 +296,8 @@ Sanguinolentus exit de tristi silva; dimictit eam talem, quod tunc ad mille anno
 &emsp;Tanta sua gratia, non ti sarò scarso:\
 &emsp;Però sappi ch'io son (4) Guido del Duca (5).
 
-27 Sed postquam Deus vult quod in te traluceat\
-&emsp;Tantum sua gratia, non ero tibi parcens:\
+27 Sed postquam Deus vult quod in te tralucat\
+&emsp;Tantum sua gratia, non ero tibi parcus:\
 &emsp;Ergo scias quod ego sum Guido de Duce.
 
 28 Fu 'l sangue [mio] d'invidia sì riarso,\
@@ -375,23 +375,23 @@ Et primo nominat Litium. Hic Litius fuit nobilis miles de Valle Bona, supra Forl
 &emsp;Verga gentil di picciola gramigna?
 
 34 Quando in Bononia unus Faber ralignatur?\
-&emsp;Quando in Faventia unus Bernardinus de Fusco,\
-&emsp;Virga gentilis parve gramine?
+&emsp;Quando in Farentia unus Bernardinus de Fusco,\
+&emsp;Virga gentilis parve graminee?
 
 35 Non ti maraviglar, s'io piango (1), Tosco,\
 &emsp;Quand'io rimembro con Guido da Prato\
 &emsp;Ugholin d'Azzo, che vivette nosco;
 
 35 Non mireris, si ego ploro, Tuscus,\
-&emsp;Quando reminiscor cum Guidone de Prato\
-&emsp;Ugoline Azzonis, quando vixit nobiscum;
+&emsp;Quando reminiscor cum Guidone de Prata\
+&emsp;Ugolini Azzonis, quando vixit nobiscum;
 
 36 Federigo Tignoso e sua brigata;\
 &emsp;[L]a casa Traversara, e gl'Anastagi;\
 &emsp;E l'una gente e l'altra è dirietata (2);
 
 36 Federici Tignosi et sue sotietatis;\
-&emsp;Domus Traversarie, et Anastasiorum;\
+&emsp;Domus Transversarie, et Anestasiorum;\
 &emsp;Et utraque gens exheredata;
 
 37 Le donne e'chavalier, gl'affanni e gl'agi,\
@@ -406,7 +406,7 @@ Et primo nominat Litium. Hic Litius fuit nobilis miles de Valle Bona, supra Forl
 &emsp;Poi che gita se n'è la mia famigla,\
 &emsp;E molta gente, per non esser ria?
 
-38 O Bertennorium, quare non fugis tu per viam,\
+38 O Bertenorium, quare non fugis tu per viam,\
 &emsp;Postquam recessit tua familia,\
 &emsp;Et multa gens, ut non efficiatur prava?
 
@@ -415,7 +415,7 @@ Et primo nominat Litium. Hic Litius fuit nobilis miles de Valle Bona, supra Forl
 &emsp;Che di figlar tai conti più s'impigla.
 
 39 Bene facit Bagnacavallum, quod non producit filios,\
-&emsp;Et male facit Castrocardium, et peius Comium,\
+&emsp;Et male facit Castrocarium, et peius Comium,\
 &emsp;Que ad producendum tales filios se non immiscent.
 
 (1) o. — (2) rivolta in dietro.
@@ -471,7 +471,7 @@ Bene facit Bagnacavallum, oppidum in Romandiola sic dictum, in quo erant multi v
 &emsp;Voce (4) che giunse di contra, dicendo:
 
 44 Postea fuimus facti soli procedendo,\
-&emsp;Fulgar visum fuit, quando aierem findit,\
+&emsp;Fulgur visum fuit, quando aierem findit,\
 &emsp;Vox que venit contra nos, dicendo:
 
 (1) est. — (2) che. — (3) andando oltra. — (3) di Caym.
@@ -491,7 +491,7 @@ Postquam fuimus facti soli, idest recessimus ab illis umbris, et soli duo nos pr
 <!-- p. 587 (0641) -->
 
 45 Anciderammi (1) qualunque mi prende.\
-&emsp;E fuggi, come tuon che si dilegua,\
+&emsp;E fuggì, come tuon che si dilegua,\
 &emsp;Se subito la nuvola scoscende.
 
 45 Interficiet me quicumque me apprehendit.\

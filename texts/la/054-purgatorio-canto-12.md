@@ -223,15 +223,15 @@ Nota quod Amphyrao fuit nobilis augur, et potens, et strenuus in armis; et ipse 
 &emsp;Sangue sitisti, et io di sangue t'empio (7).
 
 19 Monstrabat ruinam et grandem scempionem\
-&emsp;Quam fecit Thamir (1), quando dixit Cyro (2):\
-&emsp;Sanguinem sitisti, et ego sanguine te impleo (3).
+&emsp;Quam fecit Thamir, quando dixit Cyro:\
+&emsp;Sanguinem sitisti, et ego sanguine te impleo.
 
 20 Mostrava come in rocta si fuggiro\
 &emsp;Gl'Assyri (8), poi che fu morto (9) Olopherne,\
 &emsp;Et anco (10) le reliquie (11) del martiro.
 
 20 Monstrabat sicut in ruptam aufugerunt\
-&emsp;Assyrii, postquam fuit mortuus Olofernes (4),\
+&emsp;Assyrii, postquam fuit mortuus Olofernes,\
 &emsp;Et adhuc reliquias martyrii.
 
 21 Vedeva Troya (12) in cenere (13) e caverne:\
@@ -239,7 +239,7 @@ Nota quod Amphyrao fuit nobilis augur, et potens, et strenuus in armis; et ipse 
 &emsp;Mostrava el segno (16) che lì si discerne!
 
 21 Videbam Troyam in cinerem et in cavernas:\
-&emsp;O Ylion, quomodo te bassum et vile\
+&emsp;O Ylyon, quomodo te bassum et vile\
 &emsp;Monstrabat signum quod ibi discernitur!
 
 (1) ancor. — (2) assaltandolo. — (3) mostrava — (4) in templo. — (5) regina Massagetarum. — (6) re di Persia. — (7) sanguinem sitisti? sanguinem bibe. — (8) Assyriorum gentes — (9) da Iudith. — (10) mostrava. — (11) el suo capo taglato. — (12) mostrava. — (13) redacla. — (14) Ylion. — (15) ruinato e scarcato da Greci. — (16) la sculptura.
@@ -491,7 +491,7 @@ Tunc feci ego sicut illi qui vadunt cum re, scilicet aliqua, in capite, ab eis i
 <!-- p. 564 (0618) -->
 
 44 Perchè la mano ad accerchiar (1) s'aiuta,\
-&emsp;E cerca e trova, e quell' offitio adempie\
+&emsp;E cerca e trova, e quell' ofitio adempie\
 &emsp;Che non si può fornir per la veduta;
 
 44 Propter quod manus ad accertandum se adiuvant,\

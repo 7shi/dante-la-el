@@ -10,7 +10,7 @@ In isto undecimo capitulo, quod incipit: O Pater noster, qui in celis stas, prim
 
 1 O Padre nostro, che ne'cieli stai,\
 &emsp;Non circumscripto, ma per più amore\
-&emsp;Che a'primi effetti di lassù tu hai,
+&emsp;Che a'primi effecti di lassù tu hai,
 
 1 Pater noster, qui in celis stas,\
 &emsp;Non circumscriptus, sed ex maiori amore\
@@ -68,7 +68,7 @@ Continuando igitur dicta dicendis, auctor, ut patebit infra, ponit orationem, pr
 &emsp;Faciunt sacrificium tibi, cantando osanna,\
 &emsp;Sic faciant homines de suis.
 
-5 Da'oggi a noi la quotidiana mannà,\
+5 Da'oggi a noi la quotidiana manna,\
 &emsp;Senza la qual per quest'aspro deserto\
 &emsp;Indietro va chi più di gir s'affanna.
 
@@ -304,7 +304,7 @@ Auscultando inclinavi infra faciem: et unus de ipsis, non iste qui loquebatur, s
 &emsp;Honor Eugubii, et honor illius artis\
 &emsp;Que alluminare vocatur in Parisius?
 
-28 Frate, diss' elli, più ridon le carte\
+28 (1) Frate, diss' elli, più ridon le carte\
 &emsp;Che pennelleggia Franco Bolognese:\
 &emsp;L'honor è tutt'hor suo, e mio in parte.
 
@@ -330,13 +330,13 @@ Auscultando inclinavi infra faciem: et unus de ipsis, non iste qui loquebatur, s
 
 31 O vanagloria dell'humane posse,\
 &emsp;Com' poco verde in sulla cima dura,\
-&emsp;Se non è giuneto dall'etati grosse!
+&emsp;Se non è giuncto dall'etati grosse!
 
 31 O vanagloria humanarum potentiarum,\
 &emsp;Quantum paucum viriditatis in summitate durat,\
 &emsp;Nisi superveniatur ab etatibus grossis!
 
-32 Credette Cimabò della pinctura\
+32 Credette Cimabù della pinctura\
 &emsp;Tener el campo, et hor ha Giotto'l grido,\
 &emsp;Sì che la fama di colui è scura.
 
@@ -439,7 +439,7 @@ Ille qui de itinere. Colui che de camin: ista est quarta pars huius capituli, in
 &emsp;Ma chi è quel (6) di cui (7) tu parlav'hora?
 
 40 Et ego ad ipsum: Tuum dictum verum me accorat\
-&emsp;Bonam humilitatem, et grandem timorem michi explanas;\
+&emsp;Bonam humilitatem, et grandem timorem michi ecplanas:\
 &emsp;Sed quis est ille de quo tu loqueris nunc?
 
 41 Quelli è, rispose, Provenzan (8) Selvani;\
@@ -500,7 +500,7 @@ Et ego ad eum, scilicet dixi: [Si] ille spiritus, qui attendit, expectat, priusq
 &emsp;Libere in campo Senarum,\
 &emsp;Omni verecundia deposita, se affixit:
 
-46 E li (5) per trar l'amico suo (6) di pena,\
+46 E lì (5) per trar l'amico suo (6) di pena,\
 &emsp;Che sostenea in la pregion di Karlo (7),\
 &emsp;Si condusse a tremar per ogni vena (8).
 

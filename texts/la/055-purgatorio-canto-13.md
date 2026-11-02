@@ -135,7 +135,7 @@ Quantum ab hinc: hec est secunda particula huius capituli, in qua auctor disting
 &emsp;Passò gridando, et anco non s'affisse.
 
 11 Et priusquam in totum non audiretur\
-&emsp;Propter longitudinem, una alia: Ego sum Horeste,\
+&emsp;Propter longitudinem, una alia: Ego sum Horestes,\
 &emsp;Transivit clamando, et etiam se non firmavit.
 
 12 O, diss'io, Padre, che voci son queste?\
@@ -454,10 +454,10 @@ Sapiens non fui, quamquam Sapia essem vocata, et fui de alienis dampnis letior p
 
 43 Si hoc non esset, quod in memoria me habuit\
 &emsp;Petrus Pectinarius in suis sanctis orationibus,\
-&emsp;Qui michi propter caritatem compassus est.
+&emsp;Qui michi propter caritatem compaxus est.
 
 44 Ma tu chi se', che nostre conditioni\
-&emsp;Vai dimandando, e porti gl'occhi sciolti,\
+&emsp;Vai dimandando, e porti gl'ochi sciolti,\
 &emsp;Sì com'io credo, e spirando ragioni?
 
 44 Sed tu quis es, qui nostras conditiones\

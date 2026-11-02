@@ -134,8 +134,8 @@ Solum Agnus Dei erant ipsorum exordia: unum verbum erat in omnibus (Agnus assimi
 &emsp;Rispose; e se veder fumo non lascia,\
 &emsp;L'udir ci terrà giuncti in quella vece.
 
-12 Ego te sequar quantum michi licet.\
-&emsp;Respondit; et si videre fumus non permicit,\
+12 Ego te sequar quantum michi licet,\
+&emsp;Respondit; et si videre fumus non permictit,\
 &emsp;Loquutio tenebit nos coniunctos.
 
 13 Allora incominciai (11): Con quelle fascia (12),\

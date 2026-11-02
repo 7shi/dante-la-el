@@ -16,7 +16,7 @@ In isto decimoseptimo capitulo, quod incipit: Recorderis, lector, auctor ponit a
 &emsp;Te supervenit nebula, per quam videres\
 &emsp;Non aliter, quam per pellem talpa;
 
-2 Come, quando è vapor humidi e spessi\
+2 Come, quando e vapor humidi e spessi\
 &emsp;A diradar cominciansi, la spera\
 &emsp;Del sol debilemente entra per essi;
 
@@ -500,7 +500,7 @@ Nunc ponitur de accidia. Quilibet confuse unum bonum apprehendit, idest inserta 
 &emsp;Non est felicitas, non est bona\
 &emsp;Essentia, omnis boni fructus et radix.
 
-46 L'amor (8) che ad esso (9) troppo s'abbandona,\
+46 L'amor (8), che ad esso (9) troppo s'abbandona,\
 &emsp;[D]i sopra a noi si piange per tre cerchi (10):\
 &emsp;Ma come tripartito si ragiona,\
 &emsp;Tacciolo, a ciò che tu per te (11) ne cerchi.

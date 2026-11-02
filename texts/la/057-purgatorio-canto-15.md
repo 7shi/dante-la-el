@@ -353,7 +353,7 @@ Quando ego volebam. Come io volera: hec tertia pars huius capituli, in qua aucto
 &emsp;Et onde ogni scientia disfavilla,
 
 33 Et dicere: Si tu es dominus ville,\
-&emsp;De cuius nomine inter Deos fuit tanta lis,\
+&emsp;De cuius nomen inter Deos fuit tanta lis,\
 &emsp;Et unde omnis scientia disfavillat,
 
 34 Vendica te di quelle braccia ardite\

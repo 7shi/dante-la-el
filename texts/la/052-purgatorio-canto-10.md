@@ -198,11 +198,11 @@ Cum iuramento dici potuisset, quod diceret: Ave; quia ibi erat ymaginata illa, s
 
 17 Ex quo ego me movi cum visu; et videbam,\
 &emsp;Retro Mariam, ab illa costa\
-&emsp;Unde michi erat ille qui me movebat.
+&emsp;Unde michi erat ille qui me movebat,
 
 18 Un'altra storia ne la roccia imposta:\
 &emsp;Perch'io varcai Virgilio, e femi presso,\
-&emsp;Acciò che fusse agl'occhi miei disposta.
+&emsp;Acciò che fusse agl'ochi miei disposta.
 
 18 Unam aliam hystoriam in rupe impositam:\
 &emsp;Ex quo ego pertransivi Virgilium, et feci me prope,\
@@ -222,7 +222,7 @@ Cum iuramento dici potuisset, quod diceret: Ave; quia ibi erat ymaginata illa, s
 
 20 Ante apparebat gens; et tota\
 &emsp;Divisa in septem choros, duobus meis sensibus\
-&emsp;Faciebat dicere: Unus non, et alter ita, cantat.
+&emsp;Faciebat dicere, unus non, et alter ita, cantat.
 
 21 Similemente al fumo de gl'incensi\
 &emsp;Che v'era ymaginato, gl'ochi e 'l naso\
@@ -256,7 +256,7 @@ Similiter ad fumum incensorum, qui ibi erant ymaginati; oculi et nasus, et ad it
 
 22 Ibi precedebat benedictum vas,\
 &emsp;Tripudiando succinctus, humilis Psalmista,\
-&emsp;Et plus et minus erat quam rex in illo casu.
+&emsp;Et plus et mimus erat quam rex in illo casu.
 
 23 Di scontro effigiata, ad una vista (4)\
 &emsp;D'un gran palagio, Micol ammirava,\
@@ -378,7 +378,7 @@ Ille qui nunquam vidit rem novam, scilicet Deus cui nihil est novum, produxit is
 &emsp;Ymagines tantarum humilitatum,\
 &emsp;Et propter fabrum earum ad videndum caras;
 
-34 Ecco di qua, ma fanno passi radi.\
+34 Ecco di qua, ma fanno passi radi,\
 &emsp;Mormorava'l Poeta, molte genti:\
 &emsp;Queste ne 'nvieranno agl'altri gradi.
 
@@ -403,7 +403,7 @@ Ille qui nunquam vidit rem novam, scilicet Deus cui nihil est novum, produxit is
 &emsp;Quomodo Deus vult quod debitum solvatur.
 
 37 Non attender la forma del martire:\
-&emsp;Pensa la succession; pensa ch', a peggio,\
+&emsp;Pensa la succession; pensa ch',a peggio,\
 &emsp;Oltra la gran sententia non può ire.
 
 37 Non attendas formam martyrii:\
@@ -458,13 +458,13 @@ Et ipse ad me, scilicet dixit: Gravis conditio suorum tormentorum ad terram illo
 &emsp;Qui, de visione mentis infirmi,\
 &emsp;Fiduciam habetis in retrogradis passibus;
 
-42 Non v'accorgete voi, che noi sian vermi\
+42 Non v'accorgete voi, che noi siàn vermi\
 &emsp;Nati a formar l'angelica farfalla,\
 &emsp;Che vola a la giustitia senza schermi?
 
 42 Nonne perpenditis, quod nos sumus vermes\
 &emsp;Nati ad formandum angelicam farfallam,\
-&emsp;Quae volat ad iustitiam sine scherme?
+&emsp;Que volat ad iustitiam sine scherme?
 
 43 Di che l'animo vostro in alto galla?\
 &emsp;Voi sete quasi anthomata in defecto,\
@@ -476,7 +476,7 @@ Et ipse ad me, scilicet dixit: Gravis conditio suorum tormentorum ad terram illo
 
 44 Come, per sostener solaio o tecto,\
 &emsp;Per mensola talvolta una figura\
-&emsp;Si vede giugner le ginocchia al pecto,
+&emsp;Si vede giugner le ginochia al pecto,
 
 44 Sicut, pro sustentando solarium vel tectum,\
 &emsp;Pro mensola aliquando una figura\
@@ -486,7 +486,7 @@ Et ipse ad me, scilicet dixit: Gravis conditio suorum tormentorum ad terram illo
 &emsp;Nascer a chi li vede; così facti\
 &emsp;Vidd'io color, quando posi ben cura.
 
-45 Quae facit de non vero veram rancuram\
+45 Que facit de non vero veram rancuram\
 &emsp;Nasci illis qui ipsos vide[n]t; sic factos\
 &emsp;Vidi illos, quando posui bene curam.
 
