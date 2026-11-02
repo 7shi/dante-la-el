@@ -147,9 +147,10 @@ compared with the print only: the edition's Italian is one manuscript's
    mostly a runover word, goes to `DIR/unlocated.tsv` and is read in the page image).
    `--readings DIR [-o OUT]` compares the reader's `DIR/readings.tsv` (`L0001<TAB>line`)
    with `ocr/la` line by line: the differing words (letters and accents, not the
-   punctuation) and the tercet number. The punctuation is compared on the full strings
-   (a short script in the session); apostrophe spacing is not judged (Conventions:
-   "Apostrophe spacing as in the file"). This replaces the page-column crops first
+   punctuation) and the tercet number; a line whose words agree but whose punctuation
+   differs is listed as `punctuation` (in the script after batch 3, before that a short script
+   in the session); apostrophe spacing is not judged (Conventions: "Apostrophe spacing as
+   in the file"). This replaces the page-column crops first
    planned (`la_versecrop.py`): single lines in a shuffled order keep the reader from
    reading a known passage.
    `--page-crops DIR` writes one image per page instead (`DIR/P0115.png`: the verse block
@@ -250,8 +251,9 @@ compared with the print only: the edition's Italian is one manuscript's
    reader error that looks like a variant, in `versecheck.tsv` (`page line form decision
    note`); a misprint goes into "Suspected misprints"; an error that may recur is searched
    for over all pages.
-4. **Checks** and **commit** as in check 1 (steps 5–6): `la_check.py` and `la_seqcheck.py`
-   give the same output as before the fixes; `ocr/la`, then `texts`, then this PLAN
+4. **Checks** and **commit** as in check 1 (steps 5–6): `la_check.py` over the batch's
+   pages (the whole range takes too long) and `la_seqcheck.py` give the same output as
+   before the fixes (batches 1–3 checked so); `ocr/la`, then `texts`, then this PLAN
    (State, the results, Suspected misprints).
 
 ### Italics (after check 1; decided with the user, 2026-11-01)
