@@ -23,8 +23,8 @@ more errors found in the same lines and by the searches they led to (DONE.md, "C
 **Next**, in this order (each below, under "Checks"):
 
 1. **Verse check**: the text only (step 0) is done; every line of the Latin and of the
-   Italian verse is read again from the image (steps 1–4): batches 1–5 done, then
-   batches 6–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
+   Italian verse is read again from the image (steps 1–4): batches 1–6 done, then
+   batches 7–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
    batch 2, page images from batch 3; step 3).
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
@@ -303,6 +303,33 @@ compared with the print only: the edition's Italian is one manuscript's
      plainly an accent or a diaeresis, the file keeps `mio`.
    - `la_check.py` over 0465–0586 and 1022 and `la_seqcheck.py` give the same output.
 
+   **Batch 6** (0587–0692; done, 2026-11-02):
+   - Latin: 1,326 lines read, 29 differ in words, 8 more in punctuation. 29 misread:
+     letters (`Que` ×2, `[ecplanas:`, `Ylyon`, `Horestes`, `compaxus`, `riparie`,
+     `tralucat`, `graminee`, `Ugolini`, `Bertenorium`, `Fulgur`, `permictit`,
+     `introytum`), words (0637 `audiendum` → `videndum`, `parcens` → `parcus`, 0651
+     `nomine` → `nomen`), the names of 0639 (`Prata`, `Transversarie`, `Anestasiorum`,
+     `Castrocarium`, where the reader had `Castrocorium`), 0614 four gloss marks `(1)`–`(4)`
+     not in the print (left from the first OCR; the notes (1)–(16) are the Italian's), 5
+     punctuation marks. The commentary keeps its own forms (`Faventia`, `Traversarie`,
+     `Bertennorium`, `Castrocardium`), not checked. 3 misprints (Suspected misprints: 0592
+     `mimus`, 0639 `Farentia`, 0647 `co`). Reader errors: no tercet numbers; 8 words (the
+     known misprints `cum` and `co` corrected, `suam`, `Filii`, `compassionem`,
+     `reinfames`, `Castrocorium`, `Conium`), 2 punctuation marks (0613 a period made a
+     comma, 0685 `vadit,non` spaced).
+   - Italian: 1,320 lines read, 23 differ in words, 7 more in punctuation. 18 misread:
+     letters (`agl'ochi`, `gl'ochi`, `ginochia`, `effecti`, `giuncto`, `ofitio`,
+     `appettibile`, `figluol`), accents (`siàn`, `Cimabù`, `lì`, `fuggì` added; `manna`, `e`
+     without one: 0599 a speck over the `a`), 0603 the gloss mark `(1)` left out (its note
+     was on the page), 3 punctuation marks (0594 `ch',a` without a space, as printed). 5
+     misprints (Suspected misprints: 0605 `Selvani`, 0612 `Semnaar`, 0623 `Com`, 0625 `um`,
+     0652 the gloss mark `(3)` for `(8)`). Reader errors: no tercet numbers; 9 words (the
+     four misprints corrected, `Udì`, `Dì`, `cavalier`, `fregar`, an accent on 0600 `noi`),
+     3 punctuation marks (0652 the mark `(3)` made `(8)`, two spaces added after commas).
+     0600:14 prints a grave over the gap between the `o` and the dotted `i` of `noi` (the
+     reader's `nòi`); the file keeps `noi`, as 0527 `mio`.
+   - `la_check.py` over 0587–0692 and `la_seqcheck.py` give the same output.
+
    **Per batch**: the crops in `tmp/la-verse/bN/` (Latin) and `tmp/la-verse/bN-it/`
    (Italian); the Italian task to la-el-agy, the Latin to la-el-agy2, each carrying the
    feedback on its previous batch, sent only on the user's signal. The readings are first
@@ -554,6 +581,14 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0606 | 19 | `Si bona oratio cum non adiuvat` | `eum` | Latin verse 44 (Italian `lui`); an italic `c` without the eye, as 0085 `co`. |
 | 0113 | 18 | `Hac nunquam transirit anima bona` | `transivit` | Latin verse 43 (Italian `non passa`); an italic `r` for `v`, as 0259 `prerogatiram`; found by the verse reading. |
 | 0086 | 6 | `E li parenti mici furo Lombardi` | `miei` | Italian verse 23; a `c` without the bar of `e` (the `e` of `parenti` has it); the Latin has `mei`; found by the verse reading. |
+| 0592 | 16 | `Et plus et mimus erat` | `minus` | Latin verse 22; `m` for `n`; found by the verse reading. |
+| 0605 | 14 | `Provenzan (8) Selvani;` | `Salvani` | Italian verse 41; found by the verse reading. |
+| 0612 | 13 | `Che in Semnaar (6)` | `Sennaar` | Italian verse; `m` for the first `n`; found by the verse reading. |
+| 0623 | 19 | `Com poco tempo` | `Con` | Italian verse; `m` for `n`; found by the verse reading. |
+| 0625 | 11 | `fummo um poco` | `un` | Italian verse 17; `m` for `n`; found by the verse reading. |
+| 0639 | 27 | `Quando in Farentia` | `Faventia` | Latin verse (Italian `Faenza`); an italic `r` for `v`, unlike the `v` of `parve` below; found by the verse reading. |
+| 0647 | 25 | `Ex co quia per nos` | `eo` | Latin verse; an italic `c` without the eye, as 0085 `co`; found by the verse reading. |
+| 0652 | 9 | `chinarsi (3)` | `chinarsi (8)` | Italian verse 37; gloss mark `(3)` for `(8)`, whose note is `in ginocchione` (the `(3)` of the page is `lapidare`); found by the verse reading. |
 
 ## Known limits
 
