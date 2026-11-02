@@ -157,7 +157,7 @@ Modo describitur sonus suavis qui erat ibi. Et unum melos dulce currebat per aie
 &emsp;Causa me stimulat ut ad vos mercedem clamem.
 
 14 Hor convien ch' Elycona (8) per me versi,\
-&emsp;Et hora me aiuti col suo choro (9),\
+&emsp;Et hora me aïuti col suo choro (9),\
 &emsp;Forti cose a pensar (10), mecter in versi (11).
 
 14 Nunc convenit quod Elicona pro me versit,\
@@ -278,7 +278,7 @@ Inde reddi[di] aspectum altis rebus, idest ad illa candelabra me volvi, que se m
 
 25 Et vidi flammulas ire ante\
 &emsp;Dimictendo retro se aierem pictum,\
-&emsp;Et tractuum penellorum habebant similitudines:
+&emsp;Et tractuum penellorum habebant similitudines;
 
 26 Sì che di sopra rimanea distincto\
 &emsp;Di septe liste, tucte in quei colori,\

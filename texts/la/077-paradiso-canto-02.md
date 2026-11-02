@@ -14,7 +14,7 @@ In isto secundo capitulo, quod incipit: O vos qui estis in parvula barcha, aucto
 
 1 O vos qui estis in parvula barcha,\
 &emsp;Desiderosi auscultare, sequuti\
-&emsp;Retro meum lignum quod cantando pertransit.
+&emsp;Retro meum lignum quod cantando pertransit,
 
 2 Tornate (7) a rivederne (8) e vostri liti (9),\
 &emsp;Non vi mettete in pelago (10); chè forse,\
@@ -38,7 +38,7 @@ In isto secundo capitulo, quod incipit: O vos qui estis in parvula barcha, aucto
 
 4 Vos alii pauci, qui direxistis colla\
 &emsp;Tempestive ad panem angelorum, de quo\
-&emsp;Vivitur hic, sed non devenit[ur] ad satietatem.
+&emsp;Vivitur hic, sed non devenit[ur] ad satietatem,
 
 5 Metter potete ben per l'alto sale (29)\
 &emsp;Vostro navigio (30), servando mio solco (31)\

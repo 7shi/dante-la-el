@@ -240,7 +240,7 @@ Nec natura nec ars ostenderunt tibi rem tam tibi complacentem, sicut fuerunt mem
 
 21 Nuovo (4) ucellecto due (5) o tre aspecta;\
 &emsp;Ma dinanzi dagl'ochi de' pennuti\
-&emsp;Rete si spiega indarno, o si saccta.
+&emsp;Rete si spiega indarno, o si saecta.
 
 21 Nova avicula bis vel ter expectat;\
 &emsp;Sed ante oculos pennatorum\
@@ -354,7 +354,7 @@ Sub suo velo et ultra ripariam vincere apparebat, idest videbatur michi, plus se
 &emsp;La donna, ch'io havea lassata sola,\
 &emsp;Sopra me vidi, e dicea: Tiemmi, tiemmi.
 
-31 Postea, quando cor de extra virtutem michi reddidit,\
+31 Postea,quando cor de extra virtutem michi reddidit,\
 &emsp;Domina, quam ego inveneram solam,\
 &emsp;Supra me vidi, et dicebam: Tene me, tene me.
 

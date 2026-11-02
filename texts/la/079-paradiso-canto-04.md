@@ -381,7 +381,7 @@ Sepe, frater (ecce quod Beatrix vocat hic Dantem fratrem), iam evenit quod, prop
 <!-- p. 868 (0922) -->
 
 35 Come Almeone che, di ciò pregato\
-&emsp;Dal padre suo (1), la propria madre (2) spense (3);\
+&emsp;Dal padre suo (1), la propria madre (2) spense (3),\
 &emsp;Per non perder pietà si fe' spiatato.
 
 35 Sicut Almeon qui, rogatus de hoc\

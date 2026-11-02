@@ -83,7 +83,7 @@ Primo auctor more suo continuat dicta dicendis, ponendo quomodo firmavit se ille
 &emsp;Manibus o date lilia plenis.
 
 7 Omnes dicebant: Benedictus, qui venis;\
-&emsp;Et, flores proiicendo desuper et circum,\
+&emsp;Et, flores proiïcendo desuper et circum,\
 &emsp;Manibus o date lilia plenis.
 
 (1) ultimo — (2) sepultura — (3) dicean.

@@ -150,14 +150,14 @@ Ut autem auctor melius impetret hunc favorem, premictit, quod non erit ingratus;
 
 11 Che (7) parturir letitia in su la lieta (8)\
 &emsp;Delphyca deità (9) dovria la fronda (10)\
-&emsp;Penneya (11) quando alcun di sè asseta (12).
+&emsp;Penneya (11), quando alcun di sè asseta (12).
 
 11 Quod parere letitiam super leta\
 &emsp;Delphica deitate deberet frons\
 &emsp;Peneya, quando de se sitibundum aliquem facit.
 
 12 Poca (13) favilla (14) gran fiamma (15) seconda (16):\
-&emsp;Forse dirieto a me (17) con miglor voci (18)\
+&emsp;Forse dirieto a me (17) con miglor voci (8)\
 &emsp;Si pregherà (19), perchè Cyrra risponda (20).
 
 12 Parvam favillam grandis flamma secundat:\
@@ -456,7 +456,7 @@ Tunc Beatrix suspiravit more pie matris, et convertit oculos suos ad Dantem sic,
 
 40 Nè pur (34) le creature (35) che son fuore\
 &emsp;D'intelligentia (36) questo arco (37) saetta (38),\
-&emsp;Ma (39) quelle ch'anno (40) intellecto et amore (41).
+&emsp;Ma (39) quelle ch'ànno (40) intellecto et amore (41).
 
 40 Non solum creaturas que sunt foris\
 &emsp;Intelligentiam iste actus sagiptat,\
