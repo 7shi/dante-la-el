@@ -400,36 +400,50 @@ page	line	form	decision	note
 0698	41	clausus	printed	sense inversion: clausus (closed) for dischiuso (opened)
 0699	51	veniendo	printed	wrong word: veniendo (coming) for vivendo (living)
 0701	34	suspensi	printed	wrong word: suspensi (suspended/hanging) for distesi (stretched out)
+0709	32	14 Etipse:	misprint	for Et ipse, was Et ipse; no space between the words; verse reading
 0711	23	[leve]	printed	editorial bracket: [leve] supplied by editor
 0712	22	facere michi	printed	person error: facere michi (do to me) for farne (do of it / to us)
+0715	20	ripiglammo	misread	was ripigliammo; Italian verse reading
 0715	28	[ad]	printed	editorial bracket: [ad] supplied by editor
 0720	15	condolebam	printed	wrong word: condolebam (grieving) for conduceami (leading me)
 0723	41	planctas	misread	was planetas; Italian piante; ct for t, as 0582 planctas
 0723	49	[im]munditia	printed	editorial bracket: [im]munditia emended by editor
+0724	10	miglor	misread	was miglior; Italian verse reading
 0724	26	sed postea dimictit desiderium	printed	negation missing / sense reversed: sed postea dimictit desiderium for ma non la lassa el talento
 0724	35	dixit ei	printed	person error: dixit ei (said to him) for ne disse (said to us)
+0724	42	Et, quare	misread	was Et quare; verse reading
+0725	6	fora (3),	misread	comma left out; Italian verse reading
+0725	16	[Achylle (9,	misprint	for (9), was (9),; the closing parenthesis not printed; Italian verse reading
 0725	24	[cum]	printed	editorial bracket: [cum] supplied by editor
 0726	43	nec plus	printed	mistranslation: nec plus (nor more) for ne' più (in the most)
 0727	34	intelligo[r]	printed	editorial bracket: intelligo[r] emended by editor
+0730	6	ch'ànno	misread	was ch'anno; Italian verse reading
 0731	38	Et sicut amicus ammodo michi ratiocineris	printed	unrelated line: Et sicut amicus ammodo michi ratiocineris for La pura fede in tucto mi scagiona
 0733	33	O[r] qui	printed	editorial bracket and word choice: O[r] qui for Or quando
+0734	47	tanctum	misprint	for tantum, was tantum; verse reading
 0735	34	antiquus	printed	wrong word: antiquus (ancient) for amico (friend)
 0735	42	memorias	printed	wrong word: memorias (memories) for nutrici (nurses)
 0736	35	[L]angiam	printed	editorial bracket: [L]angiam emended by editor
 0736	42	[ad]	printed	editorial bracket: [ad] supplied by editor
+0737	21	[de (12.	misprint	for (12)., was (12).; the closing parenthesis not printed, as 0725:16; Italian verse reading
 0737	38	deorsum	printed	sense inversion: deorsum (downward) for suso (upward)
 0738	15	[nectar]	printed	editorial bracket: [nectar] supplied by editor
+0742	5	agl'ucellin	misread	was agl'uccellin; Italian verse reading
+0742	7	oggimai,chè	misread	was oggimai, chè; no space printed; Italian verse reading
 0743	31	[Domine]	printed	editorial bracket: [Domine] supplied by editor
 0743	35	[Forsan]	printed	editorial bracket: [Forsan] supplied by editor
 0743	44	oculis	printed	wrong word: oculis (eyes) for ossa (bones)
 0745	41	ex[s]i[cca]tam	printed	editorial bracket: ex[s]i[cca]tam emended by editor
 0745	45	domine	printed	wrong word: domine (ladies) for anime (souls)
+0745	49	tor tam	misprint	for tortam, was tortam; a space inside the word; verse reading
 0746	35	sfogliat	printed	Italianism: hybrid verb sfogliat in Latin text
 0746	46	sprazzo	printed	unadapted Italian word: sprazzo in Latin text
 0746	57	[fuit]	printed	editorial bracket: [fuit] supplied by editor
+0748	36	ammannat	misread	was ammanuat; verse reading
 0748	49	monstravi	printed	person error / typo: monstravi (1st sg) for mostrò (3rd sg; expect monstravit)
 0748	52	[vera]	printed	editorial bracket: [vera] supplied by editor
 0749	23	(ostendi)	printed	editorial parentheses: (ostendi) added in Latin text
+0753	12	si munta	misprint	for sì, was sì; no accent printed; Italian verse reading
 0754	34	seccha	printed	unadapted Italian word: seccha in Latin text
 0754	40	gens ucchat	printed	proper name corrupted: gens ucchat for Gentucca
 0756	32	e vanno in filo	printed	omission: e vanno in filo omitted in Latin translation
@@ -437,11 +451,14 @@ page	line	form	decision	note
 0759	31	nos	printed	pronoun for negation: nos (we/us) for non (not)
 0759	39	ite	printed	mood change: ite (imperative) for andate (indicative)
 0760	21	umbram	printed	wrong word: umbram (shade) for orezza (breeze)
+0764	6	s'affigge	misread	was s'affligge; Italian verse reading
 0765	31	[Derelinquere nidum, et infra eam calat];	printed	editorial bracket: entire line [Derelinquere nidum, et infra eam calat]; bracketed by editor
 0766	22	vizzum	printed	unadapted Italian word: vizzum in Latin text
 0767	46	planete	printed	wrong cognate: planete (planets) for pianta (plant)
 0768	18	[est]	printed	editorial bracket: [est] supplied by editor
 0768	24	animali	printed	wrong word: animali (animal) for anima (soul)
+0770	23	ridiàn	misread	was ridian; Italian verse reading
+0770	26	c'affigghono	misread	was c'affiggono; Italian verse reading
 0770	52	se figurat	printed	sense inversion: se figurat (shapes itself) for si sfigura (loses shape / disfigures)
 0772	28	donne	printed	unadapted Italian word: donne in Latin text
 0772	33	passibus	printed	wrong word: passibus (steps/paces) for pasti (meals/foods)
@@ -452,6 +469,7 @@ page	line	form	decision	note
 0782	39	loquela	printed	wrong word: loquela (speech) for guardar (looking)
 0782	48	credo	printed	person error: credo (1st sg) for credon (3rd pl)
 0784	15	Raynaldus	printed	proper name error: Raynaldus (Rinaldo) for Arnalt (Arnaut Daniel)
+0792	44	[cta est,	misread	was [cta est.; verse reading
 0793	30	altiores	printed	wrong word: altiores (higher) for chiare (bright/clear)
 0793	31	admirando	printed	wrong word/cognate: admirando (wondering/admiring) for ruminando (ruminating/chewing cud)
 0793	45	almiraglio	printed	Italianism: hybrid word almiraglio in Latin text
@@ -459,6 +477,9 @@ page	line	form	decision	note
 0796	44	[ad]	printed	editorial bracket: [ad] supplied by editor
 0803	17	[quod]	printed	editorial bracket: [quod] supplied by editor
 0804	29	pinte	printed	garbled word / typo: pinte for prompte (Italian pronte)
+0805	11	Avegna che	misread	was Avegnache; Italian verse reading
+0805	16	mai (6):	misread	colon left out; Italian verse reading
+0805	19	maravigla	misread	was maraviglia; Italian verse reading
 0807	24	Nunquam	printed	wrong word: Nunquam (never) for Ma (but)
 0807	29	[quia]	printed	editorial bracket: [quia] supplied by editor
 0807	36	dicere	printed	wrong word: dicere (to speak) for udir (to hear)
