@@ -630,9 +630,12 @@ page	line	form	decision	note
 1039	52	non mori	printed	non mori: Italian viver (per viver vs per non mori)
 1040	23	luce	printed	luce: Italian voce, expect voce (light vs voice)
 1041	30	descendit	printed	descendit: Italian s'accende (ignites), Latin descendit (descends), expect accenditur
-1051	42	-	printed	listed for radio, which is not in this line; the line is printed so
+1051	30	[concordes?	misread	the runover line was missing; verse reading
+1051	43	-	printed	listed for radio, which is not in this line; the line is printed so
+1053	29	udìo	misread	was u'dio; the d is broken, no apostrophe; Italian verse reading
 1053	57	et illa ad Deum	printed	et illa ad Deum: Italian e quella u'dio (udìo), Latin et illa ad Deum
 1053	58	arrosonuit	misread	was arrosoruit; the runover [cennum was missing (commentary 1054 arrosonuit)
+1054	10	simiglanze	misread	was simiglianze; Italian verse reading
 1057	35	collo	printed	collo: Italian a la rocha (colus), Latin collo (collum)
 1057	37	Fiesols	printed	Fiesols: garbled / non-Latin form for Fiesole
 1058	20	legis	printed	legis: Italian gente, Latin legis
@@ -643,32 +646,55 @@ page	line	form	decision	note
 1064	29	moderna	printed	moderna: Italian mondana, expect mundana
 1064	33	suum	printed	suum: Italian sol, Latin suum
 1067	29	-	printed	listed for Galigari, which is not in this line; the line is printed so
+1068	35	barce,	misread	was barce.; verse reading
+1071	17	glorioso,	misread	comma left out; Italian verse reading
+1071	35	gloriosum,	misread	comma left out; verse reading
+1076	32	meu	misprint	for mea, was mea; verse reading
 1079	32	-	printed	listed for refugium, which is not in this line; the line is printed so
+1079	36	[tardum.	misread	was magis tardum. in line 35; a runover word, now its own line; verse reading
+1081	20	Conscienza	misread	was Conscïenza; a speck under the i, no dieresis; Italian verse reading
 1087	32	secundo	printed	secundo: Italian sereno, Latin secundo, expect sereno
+1088	31	[v]ivit	misread	was vivit; the brackets are printed; verse reading
+1088	32	folia,	misread	was folia.; verse reading
+1088	35	opima	misread	was optima; verse reading
+1091	13	Um	misprint	for Un, was Un; Italian verse reading
 1092	42	cioccorum	printed	cioccorum: Italianism (ciocchi)
 1093	30	liliare se	printed	liliare se: neologism for ingigliarsi
 1100	38	escit	printed	escit: Italian escendo, Latin finite verb escit
+1100	40	pulchrum,	misread	was pulchrum.; verse reading
 1106	37	bozzas	printed	bozzas: Italianism (bozze)
+1111	32	[ctarum!	misread	was sanctarum! in line 31; the runover san- / [ctarum!, now its own line; verse reading
 1114	25	-	printed	listed for privatum, which is not in this line; the line is printed so
 1116	34	non vides	printed	non vides: Italian ne vedi, Latin added negation non, inverted sense
 1118	37	vistam	printed	vistam: Italianism / typo, expect visum
 1122	28	suum	printed	suum: Italian al mio fulgore, Latin ad suum fulgorem (pronoun mismatch)
 1122	29	sconscendit	printed	sconscendit: Italianism / non-word (scoscende)
+1124	9	scalco	misprint	for scaleo, was scaleo; Italian verse reading
 1124	42	soggiornum	printed	soggiornum: Italianism (soggiorno)
+1125	36	[terrogo.	misread	was interrogo. in line 35; the runover in- / [terrogo., now its own line; verse reading
 1128	24	tua	printed	tua: Italian mia, expect mea (pronoun mismatch)
 1128	27	De situ cui	printed	De situ cui: Italian Sotto lo qual, expect Sub quo
 1128	37	relevetur	printed	relevetur: Italian si riveli, expect reveletur
 1129	37	recalcient	printed	recalcient: Italianism (rincalzare)
+1129	39	que	misread	was qui; verse reading
 1129	40	mantis	printed	mantis: Italianism (manti)
 1133	45	tardavit	printed	tardavit: Italian tardo, expect tardus / tarde
 1133	52	sicut omnes radii	printed	sicut omnes radii: Italian con mutui rai, expect cum mutuis radiis
 1134	24	loculentior	printed	loculentior: garbled form / typo for luculentior
-1135	42	-	printed	listed for facit, which is not in this line; the line is printed so
+1135	42	[vestris,	misread	the runover line was missing; verse reading
+1135	43	-	printed	listed for facit, which is not in this line; the line is printed so
+1135	44	quando est aperta,	misread	was quando aperta; verse reading
+1135	48	[quod ego	misread	the runover line was missing; verse reading
+1137	34	Mirabilius	misread	was Mirabilis; verse reading
 1142	22	Quieta	printed	Quieta: Italian Posato, Latin feminine Quieta
+1142	26	grati,	misread	was grati;; verse reading
+1143	26	puucum	misprint	for paucum, was paucum; verse reading
 1143	43	-	printed	listed for capacitas quam substine[b]at, which is not in this line; the line is printed so
+1144	37	dilatare,eo	misread	was dilatare, eo; no space printed; verse reading
 1145	25	-	printed	listed for amovi, which is not in this line; the line is printed so
 1145	39	-	printed	listed for distaccabatur, which is not in this line; the line is printed so
 1146	49	-	printed	listed for bono, which is not in this line; the line is printed so
+1148	35	remunsere	misprint	for remansere, was remansere; verse reading
 1158	27	natura non	printed	natura non: Latin placed non at end of line where Italian had a che natura
 1160	21	cognitione	printed	cognitione: Italian condiction, expect conditione
 1160	22	habeo tecum	printed	habeo tecum: Italian tocco mo, expect tango modo

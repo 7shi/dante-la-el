@@ -32,7 +32,8 @@ Sì come'l fiammeggiar ti manifesta.
 
 16 Sed illa, unde ego expecto quomodo et quando
 Dicendi et tacendi, stat; unde ego
-Contra desiderium facio bene quod ego non interrogo.
+Contra desiderium facio bene quod ego non in-
+[terrogo.
 17 Ex quo ipsa, que videbat tacere meum
 In videre Illius qui totum videt,
 Michi dixit: Solve tuum calidum desiderium.

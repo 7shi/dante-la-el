@@ -1096,9 +1096,9 @@ page	line	form	decision	note
 1049	18	nunquam	printed	verse 1052:28 unquam
 1049	18	nunquam	printed	verse 1052:7 unquam
 1050	68	dextera	printed	verse 1050:17 dextra
-1051	92	dexteram	printed	verse 1051:39 dextram
-1051	102	transcurrit	printed	verse 1051:43 transcucurrit
-1051	106	maior	printed	verse 1051:24 maggior
+1051	93	dexteram	printed	verse 1051:40 dextram
+1051	103	transcurrit	printed	verse 1051:44 transcucurrit
+1051	107	maior	printed	verse 1051:24 maggior
 1052	54	nunquam	printed	verse 1052:28 unquam
 1052	70	nunquam	printed	verse 1052:28 unquam
 1052	54	nunquam	printed	verse 1052:7 unquam
@@ -1170,7 +1170,7 @@ page	line	form	decision	note
 1106	106	Norvegia	printed	verse 1106:38 Novergia
 1107	31	bestialem	printed	verse 1107:14 bestiam
 1110	57	sole	printed	verse 1110:15 ille
-1111	62	Aquila	printed	verse 1111:26 quia
+1111	63	Aquila	printed	verse 1111:26 quia
 1114	102	Fredericum	printed	verse 1114:38 Federicum
 1117	99	dextram	printed	verse 1117:54 dexteram
 1118	62	agnoscimus	printed	verse 1118:32 cognoscimus
@@ -1180,8 +1180,8 @@ page	line	form	decision	note
 1124	52	circumeundo	printed	verse 1124:28 Circuendo
 1124	104	simul	printed	verse 1124:44 insimul
 1124	98	alie	printed	verse 1124:19 altre
-1125	76	meam	printed	verse 1125:36 meum
-1125	86	infra	printed	verse 1125:43 Intra
+1125	77	meam	printed	verse 1125:37 meum
+1125	87	infra	printed	verse 1125:44 Intra
 1126	101	fuisti	printed	verse 1126:12 fusti
 1127	49	sunt	printed	verse 1127:19 fuit
 1127	70	sequendam	printed	verse 1126:44 sequendum
@@ -1191,9 +1191,9 @@ page	line	form	decision	note
 1128	101	illis	printed	verse 1128:35 istis
 1133	105	audebat	printed	verse 1133:54 audet
 1134	60	expectando	printed	verse 1134:11 aspectando
-1135	64	firmarunt	printed	verse 1135:38 Firmaverunt
-1135	75	dilactavit	printed	verse 1135:42 dilatavit
-1135	68	affetto	printed	verse 1135:11 affecto
+1135	66	firmarunt	printed	verse 1135:38 Firmaverunt
+1135	77	dilactavit	printed	verse 1135:43 dilatavit
+1135	70	affetto	printed	verse 1135:11 affecto
 1136	80	facit	printed	verse 1136:40 fecit
 1137	73	strinxit	printed	verse 1137:36 restrinxit
 1137	87	illo	printed	verse 1133:35 celo
