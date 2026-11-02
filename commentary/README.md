@@ -20,9 +20,10 @@ For each canto, `el/<canticle>/<NN>.*`:
 
 ```bash
 make generate CANTICLE=inferno CANTO=1-3
+make fix-quotes
 ```
 
-`CANTO` takes the SPEC syntax of dante-corpus (`N`, `N-M`, `N-`, `-M`, comma-separated); without it, every canto of the canticle is processed.
+`CANTO` takes the SPEC syntax of dante-corpus (`N`, `N-M`, `N-`, `-M`, comma-separated); without it, every canto of the canticle is processed. `fix-quotes` then normalizes the quote blocks of every commentary (see below).
 
 ## scripts/generate.py
 
@@ -54,3 +55,26 @@ Both prompts are written in English, with the language name filled in. Each lang
 - `letters`: a regular expression for the letters of the language, used to reject copied Italian
 - `closing`: the word that opens the heading of the closing section (`Επίλογος` for `el`)
 - `note`: an extra instruction added to both prompts (for `el`, to use the monotonic orthography)
+
+## scripts/fix_quote_blocks.py
+
+```bash
+uv run scripts/fix_quote_blocks.py -d DIR [-d DIR ...] [-n]
+```
+
+argument | description | default
+---|---|---
+`-d`, `--dir` | directory holding `<canticle>/<NN>.md` (repeatable) | required
+`-n`, `--dry-run` | report the files that would change without writing them | write
+
+The model tends to drop the two trailing spaces that make each quoted original a line of its own in Markdown, and may quote a line slightly differently from the corpus. This script rebuilds every quote block of each `<canticle>/<NN>.md` from the sources of truth: for each `> N ...` line followed by a `> (...)` line, the original is replaced by line N of dante-corpus, with two trailing spaces, and the translation by line N of the sibling `<NN>.txt`:
+
+```markdown
+> 1 Nel mezzo del cammin di nostra vita  
+> (Στη μέση του δρόμου της ζωής μας)
+>
+> 2 mi ritrovai per una selva oscura,  
+> (βρέθηκα μέσα σε ένα σκοτεινό δάσος,)
+```
+
+A separator line (`>` alone) is inserted between two pairs that have none; existing separators, skipped lines, and anything else in the block are kept. A file without a sibling `.txt`, a pair without a translation line, or a line number out of range is left as-is with a warning. The model is not called, so the script can be run any number of times.
