@@ -484,23 +484,29 @@ page	line	form	decision	note
 0807	29	[quia]	printed	editorial bracket: [quia] supplied by editor
 0807	36	dicere	printed	wrong word: dicere (to speak) for udir (to hear)
 0810	56	signaverunt	printed	wrong word: signaverunt (marked/signed) for sognaro (dreamt)
+0816	21	aïuti	misread	was aiuti; Italian verse reading
 0816	32	Sensisset	printed	person error: Sensisset (3rd sg) for Havrei... Sentite (1st sg)
 0816	39	vel sitim	printed	addition: vel sitim (or thirst) added in Latin text
 0818	32	[ad]	printed	editorial bracket: [ad] supplied by editor
+0818	43	similitudines;	misread	was similitudines:; verse reading
 0819	49	cum vento	printed	addition: cum vento (with wind) added in Latin text
 0820	34	findendo	printed	wrong word and bracket: findendo (splitting) for offendendo (offending) and facieba[n]t
 0822	34	longissimum	printed	sense inversion: longissimum (very far) for poco lontan (not far)
+0827	30	proiïcendo	misread	was proiicendo; verse reading
 0828	39	[quod]	printed	editorial bracket: [quod] supplied by editor
 0828	43	sensi[t]	printed	editorial bracket: sensi[t] emended by editor
 0829	50	stratam	printed	wrong cognate: stratam (road, as if strada) for spada (sword)
 0830	39	distulisti	printed	wrong word: distulisti (delayed) for degnasti (deigned)
 0831	27	[quod]	printed	editorial bracket: [quod] supplied by editor
+0840	16	saecta	misread	was saccta; Italian verse reading
 0841	31	[Quod]quieverunt	printed	editorial bracket: [Quod]quieverunt emended by editor
+0842	40	Postea,quando	misread	was Postea, quando; no space printed; verse reading
 0842	42	dicebam	printed	person error: dicebam (1st sg) for dicea (3rd sg)
 0842	50	subrisit	printed	wrong word and bracket: subrisit (smiled) for sommerse (submerged), plus editorial bracket [de]
 0849	35	advolutum	printed	mistranslation/garbled: advolutum (wrapped) for al volto (facing)
 0850	41	[In] nemoribus ipsorum propter multitudinem	printed	editorial bracket and wrong word: [In] nemoribus ipsorum propter multitudinem for Ne' bolchi loro per altezza
 0854	37	improperium	printed	mistranslation: improperium (reproach) for in pro (for the benefit of)
+0856	8	Parvemi	misprint	tercet 44 not numbered in print, was 44 Parvemi; Italian verse reading
 0856	43	[In]vivaci	printed	editorial bracket: [In]vivaci supplied by editor
 0857	23	sedere	printed	sense inversion: sedere (sitting) for dricto (standing upright)
 0857	30	sol[um]	printed	editorial bracket: sol[um] emended by editor
@@ -514,19 +520,25 @@ page	line	form	decision	note
 0866	52	Quod hic	printed	garbled connector: Quod hic for E qui
 0866	55	Acta	printed	wrong word: Acta (done) for Decte (said/told)
 0876	24	suo	printed	suo: Italian sancto, expect sancto
+0878	10	Penneya (11),	misread	comma left out; Italian verse reading
+0878	12	voci (8)	misprint	for (18), was (18); the 1 not printed; Italian verse reading
 0879	27	circulis	printed	circulis: Italian croci, expect crucibus
 0879	29	terre	printed	terre: Italian cera, expect cere
 0880	43	celo	printed	celo: Italian sol, expect sole
 0882	38	censeram	printed	censeram: Italian sentito, expect senseram
+0884	19	ch'ànno	misread	was ch'anno; Italian verse reading
 0884	48	adymat	printed	adymat: non-word / garbled form, Italian aduna, expect adunat
 0884	50	actus	printed	actus: Italian arco, expect arcus
 0885	40	sic ab impetu	printed	sic ab impetu: Italian se l'impeto, expect si ab impetu
 0885	41	Terra torta	printed	Terra torta: Italian A terra è torto, expect Ad terram tortus est
+0890	29	pertransit,	misread	was pertransit.; verse reading
 0890	31	in quo forsan	printed	in quo forsan: Italian chè forse, Latin added in quo
+0890	39	satietatem,	misread	was satietatem.; verse reading
 0892	43	me	printed	me: Italian ne (nos), expect nos
 0893	36	Me	printed	Me: Italian Ne (nos), expect Nos
 0893	40	recipit	printed	recipit: Italian repe (creeps/enters), expect repit
 0893	46	credit	printed	credit: Italian vede, expect videt
+0897	5	31 Hor (1)	misprint	tercet 31 not numbered in print; the number is kept, as the tools find a verse block by the number of its first line; Italian verse reading
 0897	42	Ita	printed	Ita: Italian Da te, expect A te
 0898	29	distractas	printed	distractas: Italian distincte, expect distinctas
 0899	48	lacum	printed	lacum: Italian esto loco, expect locum
@@ -542,6 +554,7 @@ page	line	form	decision	note
 0919	38	ad adorandum	printed	ad adorandum: Italian a nominar, expect ad nominandum
 0919	40	plus	printed	plus: Italian men, expect minus (direct opposite)
 0921	26	lapsus	printed	lapsus: Italian lasso, expect lassus
+0922	7	[spense (3),	misread	was [spense (3);; Italian verse reading
 0922	43	-	printed	listed for isti, which is not in this line; the line is printed so
 0929	29	non loquitur	printed	non loquitur: Italian si favella, Latin added negation non
 0929	46	bieci	printed	bieci: Italianism left untranslated
