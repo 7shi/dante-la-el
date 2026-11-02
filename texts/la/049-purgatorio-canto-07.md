@@ -212,13 +212,13 @@ Ibi sum ego cum illis, qui tres sanctas virtutes, scilicet fidem, spem et carita
 
 [Sed] si tu scis. Ma si tu sai: hec tertia pars huius capituli, in quo auctor ponit generalem locum, in quo sunt multi spiritus moderni. Et primo, Virgilius interrogat de via, dicens: Sed si tu scis et potes, aliquid inditium da nobis, propter quod devenire possimus citius illuc, ubi Purgatorium habet rectum initium; quia adhuc non venerant ad ianuam, ubi est verum Purgatorium.
 
-Respondit, scilicet Sordellus: Locus certus non est nobis positus, idest determinatus, vel assignatus (loquitur more Virgiliano, qui sic introduxit spiritum Anchisis in campis Elysiis filio suo Enee, sexto libro Eneydos): licitum est michi ire sursum et circum : per quantum ire possum, ad conducendum te tibi me adhereo. Quasi dicens: Licitum est michi venire tecum usque ad introytum Purgatorii, et sic veniam.
+Respondit, scilicet Sordellus: Locus certus non est nobis positus, idest determinatus, vel assignatus (loquitur more Virgiliano, qui sic introduxit spiritum Anchisis in campis Elysiis filio suo Enee, sexto libro Eneydos): licitum est michi ire sursum et circum: per quantum ire possum, ad conducendum te tibi me adhereo. Quasi dicens: Licitum est michi venire tecum usque ad introytum Purgatorii, et sic veniam.
 
 Sed vides iam quomodo declinat dies et iri sursum de nocte non potest. Per Purgatorium non itur, idest non fit bona et proficua penitentia, nisi quando sol est super terram, idest quando dies est, nisi penitenti illucescat divina gratia, sive sol iustitie, idest nisi mediante divina gratia non fit penitentia. Ideo est bonum cogitare de pulchro soggiorno, sive soggiornatione (soggiornum est proprie bene requiescere, vel eligere bonum locum et aptum ad morandum, recreatio vel quies); et ne perdamus tempus, cogitemus de aliqua bona materia tractare, et loquamur de istis magnis spiritibus. Iste Sordellus fuit homo aulicus et sepe erat in curiis magnorum dominorum; ideo introducit eum auctor declarantem de tot magnis dominis.
 
 Anime sunt ad dexteram hinc remote: si michi consentis, ego te ducam ad ipsas, et non sine delectatione tibi erunt note.
 
-Statim sicut hoc fuit responsum; supple, Virgilius interrogavit eum : Si quis vellet ascendere de nocte esset ne ipse impeditus de aliquo, vel non esset nisi quia non posset? Virgilius, quasi stupidus, petit, quare de nocte non potest iri. Esset ne hoc propter resistentiam, vel propter clausuram, vel propter tenebram nocturnam?
+Statim sicut hoc fuit responsum; supple, Virgilius interrogavit eum: Si quis vellet ascendere de nocte esset ne ipse impeditus de aliquo, vel non esset nisi quia non posset? Virgilius, quasi stupidus, petit, quare de nocte non potest iri. Esset ne hoc propter resistentiam, vel propter clausuram, vel propter tenebram nocturnam?
 
 Et bonus Sordellus in terram pertraxit digitum, faciens signum, dicendo: Videas, solum istam lineam non transires post solis recessum, vel occasum; non tamen quod alia res daret impedimentum, quam nocturne tenebre, ad eundum
 

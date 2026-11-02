@@ -68,7 +68,7 @@ Sed si mea verba esse debent semen, quod fructificet infamiam proditori, quem ro
 
 5 Tu debes scire quod ego fui comes Ugolinus,\
 &emsp;Et iste est archiepiscopus Rogerius:\
-&emsp;Or nunc dicam tibi quare ego sum ei ita malus vicinus.
+&emsp;Or nunc dicam tibi quare ego sum ei ita malus ricinus.
 
 6 Che per l'effecto de' suoi ma' (5) pensieri,\
 &emsp;Fidandomi di lui, io fussi preso (6)\
@@ -200,7 +200,7 @@ Et ego sensi chiavari, idest claudi, ostium inferius horribili turri; unde ego r
 &emsp;Piangevan elli (3); et Anselmuccio mio (4)\
 &emsp;Disse: Tu guardi sì (5), padre: che hai?
 
-17 Ego non plangebam; ita interius impetravi;\
+17 Ego non plangebam; ita interius impetravi:\
 &emsp;Plangebant ipsi; et Anselmucius meus\
 &emsp;Dicebat: Tu plangis sic, pater: quid habes?
 
@@ -224,7 +224,7 @@ Et ego sensi chiavari, idest claudi, ostium inferius horribili turri; unde ego r
 &emsp;Et ei (13), credendo (14) ch'io 'l fessi per vogla\
 &emsp;Di manicar, di subito levorsi (15),
 
-20 Ambas manus propter dolorem michi momordi;\
+20 Ambas manus propter dolorem michi momordi.\
 &emsp;Et ipsi, cogitantes quod ego facerem illud propter voluntatem\
 &emsp;Manducandi, subito se erexerunt,
 
@@ -290,7 +290,7 @@ Sic, idest ibi, mortuus est, et sicut tu vides, idest tu Dantes vides nunc prese
 &emsp;Riprese 'l teschio misero (2) coi denti (3),\
 &emsp;Che fur (4) all'osso (5), come (6) d'un can, forti.
 
-26 Postquam hoc dixit cum oculis tortuosis\
+26 Postquam hoc dixit, cum oculis tortuosis\
 &emsp;Resumpsit teschium miserum cum dentibus,\
 &emsp;Qui perforant ossa, sicut unius canis fortis.
 
@@ -315,7 +315,7 @@ Sic, idest ibi, mortuus est, et sicut tu vides, idest tu Dantes vides nunc prese
 &emsp;Non dovevi e figliol (19) por a tal croce (20).
 
 29 Quia si comes Ugolinus habebat vocem\
-&emsp;Prodidisse te de castris tuis,\
+&emsp;Prodidisse de castris tuis,\
 &emsp;Non debebas tu filios ponere ad talem crucem.
 
 30 Innocenti li facea l'età (21) novella (22),\
@@ -356,7 +356,7 @@ Noi passammo. Nos transivimus ultra: ista est tertia pars huius capituli, in qua
 &emsp;E'l duol, che trova in su gl'ochi rintoppo,\
 &emsp;Si volge dentro a far crescer l'ambascia:
 
-32 Plantus ipse eos plangere non permicit,\
+32 Plantus ipse eos plangere non permictit;\
 &emsp;Et dolor, qui reperit super obstaculum,\
 &emsp;Se volvit retro ut faciat crescere angustiam:
 
@@ -397,7 +397,7 @@ Noi passammo. Nos transivimus ultra: ista est tertia pars huius capituli, in qua
 &emsp;Tanto, che data v'è l'ultima posta (16),
 
 37 Et unus de tristibus frigide croste\
-&emsp;Clamavit: O anime crudeles!\
+&emsp;Clamavit: O anime crudeles\
 &emsp;In tantum, quod data est vobis ultima posta,
 
 38 Levatemi dal viso e duri veli,\
@@ -492,7 +492,7 @@ Talem prerogativam habet ista Ptholomea, quod sepe anima huc cadit, antequam Ant
 &emsp;E forse pare ancora (9) el corpo (10) suso (11)\
 &emsp;Dell'ombra (12) che di qua dietro (13) mi verna (14).
 
-45 Ipsa cadit in talem cisternam;\
+45 Ipsa cadit in talem citernam;\
 &emsp;Et forsan apparet adhuc corpus superius\
 &emsp;Umbre que hic me retro vernat.
 
@@ -508,7 +508,7 @@ Talem prerogativam habet ista Ptholomea, quod sepe anima huc cadit, antequam Ant
 &emsp;Chè Branca d'Oria non morì unquanche,\
 &emsp;E mangia e beve e dorme e veste panni.
 
-47 Ego credo, dixi ego ad eum, quod tu me decipis;\
+47 Ego credo, dixi ego, quod tu me decipis;\
 &emsp;Quia Branchadoria non est mortuus adhuc,\
 &emsp;Et comedit et bibit et dormit et vestit pannos.
 
@@ -525,7 +525,7 @@ Talem prerogativam habet ista Ptholomea, quod sepe anima huc cadit, antequam Ant
 &emsp;Che 'l tradimento insieme con lui fece.
 
 49 Quando iste dimisit unum dyabolum, in sua vice,\
-&emsp;In corpore suo et unius sui proximi,\
+&emsp;In corpore suo et unius sui proximani,\
 &emsp;Qui prodicionem simul cum eo fecit.
 
 (1) ghiacciate. — (2) fa tradimento a' suoi consorti e parenti. — (3) muove. — (4) a lui constituito da Dio. — (5) fornito. — (6) anima. — (7) come tu vedi. — (8) pozzo e centro de la terra. — (9) appare ancora. — (10) suo. — (11) nel mondo. — (12) dell'anima dico. — (13) a me. — (14) sta nella ghiaccia. — (15) Branca d'Oria. — (16) in suo luogo. — (17) parente.

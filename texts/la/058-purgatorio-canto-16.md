@@ -34,7 +34,7 @@ In sextodecimo capitulo, quod incipit: Buium, sive tenebra, sive obscuritas, Inf
 
 (1) che ivi. — (2) la spalla,
 
-Obscuritas Inferni. Oscuro d'Inferno : istud est sextumdecimum capitulum huius Purgatorii, in quo tractatur de pena, per quam purgantur irosi et iracundi, sive in quo purgatur vitium ire; et dividitur in quatuor partes. In quarum prima tractatur in generali de purgatione ire. In secunda, que incipit ibi:
+Obscuritas Inferni. Oscuro d'Inferno: istud est sextumdecimum capitulum huius Purgatorii, in quo tractatur de pena, per quam purgantur irosi et iracundi, sive in quo purgatur vitium ire; et dividitur in quatuor partes. In quarum prima tractatur in generali de purgatione ire. In secunda, que incipit ibi:
 
 Or tu qui es, qui nostrum fumum findis; Or tu chi sei, che'l nostro fumo fendi,
 

@@ -92,7 +92,7 @@ Primo igitur auctor cum magna arte continuat dicta dicendis, excusando se de sua
 &emsp;Sub pedibus gigantis, satis infimiores,\
 &emsp;Ego respiciebam adhuc altum murum,
 
-7 Dicer udimmi (11) : Guarda come passi;\
+7 Dicer udimmi (11): Guarda come passi;\
 &emsp;Va'sì, che tu non calchi colle piante\
 &emsp;Le teste de'fratei (12) miseri lassi.
 
@@ -201,7 +201,7 @@ Quando io ebbi alquanto. Postquam ego aliquantulum: hec est secunda pars huius c
 &emsp;Le lagrime fra esse (5), e riserrolli.
 
 16 Oculi eorum, qui erant prius intus molles,\
-&emsp;Gustaverunt super labia prius, et gelu strinxit,\
+&emsp;Guctaverunt super labia prius, et gelu strinxit,\
 &emsp;Lacrymas intra ipsos, et eos reclusit.
 
 17 Con (6) legno legno (7) spranga (8) mai non cinse\
@@ -210,7 +210,7 @@ Quando io ebbi alquanto. Postquam ego aliquantulum: hec est secunda pars huius c
 
 17 Cum ligno lignum sprangia nunquam cinxit\
 &emsp;Fortiter sic; unde ipsi, sicut duo yrci,\
-&emsp;Cozzavcrunt secum: tanta ira illos vicit.
+&emsp;Cozzaverunt secum: tanta ira illos vicit.
 
 18 Et un (10), ch'havea perduti (11) ambo gl'orechi\
 &emsp;Per la freddura, pur col viso in giue (12)\
@@ -225,7 +225,7 @@ Quando io ebbi alquanto. Postquam ego aliquantulum: hec est secunda pars huius c
 &emsp;Del padre lor Alberto e di lor fue.
 
 19 Si vis scire qui sunt isti duo,\
-&emsp;Vallia, unde Bisscntium declinat,\
+&emsp;Vallis, unde Bissentium declinat,\
 &emsp;Patris eorum Alberti et eorum fuit.
 
 20 D'un corpo usciro (16): e tucta la Cayna (17)\
@@ -465,14 +465,14 @@ Si tu interrogareris, quis alius ibi erat, tu habes prope illum de Beccaria, cui
 &emsp;Ch'aprì Faenza quando si dormia.
 
 41 Ioannes de Saldaneriis credo quod sit\
-&emsp;Magis ultra cum Ganellone et Tribaldeilo,\
+&emsp;Magis ultra cum Ganellone et Tribaldello,\
 &emsp;Qui apperuit Faventiam quando dormiebatur.
 
 42 Noi eravam partiti già da ello (3),\
 &emsp;Ch'io viddi due ghiacciati in una buca\
 &emsp;Sì, che l'un capo (4) all'altro (5) era cappello:
 
-42 Nos iam recesseramus ab illo.\
+42 Nos iam recesseramus ab illo,\
 &emsp;Quando ego vidi duos congelatos in una buca\
 &emsp;Ita, quod unum caput alteri erat capellus:
 
@@ -488,7 +488,7 @@ Si tu interrogareris, quis alius ibi erat, tu habes prope illum de Beccaria, cui
 &emsp;Le tempie a Menalyppo per disdegno,\
 &emsp;Che quei (9) faceva el teschio (10) e l'altre cose.
 
-44 Non aliter Thydeus corrossit\
+44 Non aliter Thydeus corrosit\
 &emsp;Tympora Menalippi propter indignationem,\
 &emsp;Quam ille facebat theschium et alias res.
 
@@ -507,12 +507,12 @@ Si tu interrogareris, quis alius ibi erat, tu habes prope illum de Beccaria, cui
 
 46 Quia, si tu rationabiliter plangis de eo,\
 &emsp;Sciendo qui vos estis, et suum peccatum,\
-&emsp;In mundo superiori adhuc ego tibi promerear.\
+&emsp;In mundo superiori adhuc ego tibi promerear,\
 &emsp;Si illa, cum qua loquor, non desiccatur.
 
 (1) da Maghanza. — (2) da Faenza. — (3) dal Bocha. — (4) del conte Ugolino. — (5) dell'arcivescovo Ruggieri. — (6) quel ch'era di sovra. — (7) ch'era di socto. — (8) teschio del capo. — (9) conte Ugolino. — (10) dell'arcivescovo Ruggieri. — (11) al. per sì. — (12) la cagione. — (13) pacto. — (14) e non a torto. — (15) duoli. — (16) io. — (17) peccato e tradimento. — (18) renda cambio di fama. — (19) lingua.
 
-Ioannes de Soldaneriis credo quod sit magis ultra, cum Ganellone et Tribaldeilo, qui aperuit Faventiam, quando dormiebatur, idest tempore nocturno. Ioannes Saldanerius fuit civis florentinus de Soldaneriis, domo sic dicta. Interfecit duos suos nepotes proditorie. Ganellone fuit de Lambertaciis de Bononia; Tribaldellus de Ciambrasiis de Faventia: isti erant Gebellini. Isti Tribaldello fuerunt furtive sublati duo porci ab aliquibus illorum de Lambertaciis. Sepe conquerebatur, minando quod de vindicaret de porcis sibi ablatis, quia Bononienses faciebant guerram cum illis de Faventia. Iste fecit unum tractatum de Bononiensibus, et dedit eis et aperuit illam portam Faventie, que vadit iuxta Bononiam, de nocte dormientibus hominibus. Tamen anno sequenti fuit trucidatus in Forlivio civitate.
+Ioannes de Soldaneriis credo quod sit magis ultra, cum Ganellone et Tribaldello, qui aperuit Faventiam, quando dormiebatur, idest tempore nocturno. Ioannes Saldanerius fuit civis florentinus de Soldaneriis, domo sic dicta. Interfecit duos suos nepotes proditorie. Ganellone fuit de Lambertaciis de Bononia; Tribaldellus de Ciambrasiis de Faventia: isti erant Gebellini. Isti Tribaldello fuerunt furtive sublati duo porci ab aliquibus illorum de Lambertaciis. Sepe conquerebatur, minando quod de vindicaret de porcis sibi ablatis, quia Bononienses faciebant guerram cum illis de Faventia. Iste fecit unum tractatum de Bononiensibus, et dedit eis et aperuit illam portam Faventie, que vadit iuxta Bononiam, de nocte dormientibus hominibus. Tamen anno sequenti fuit trucidatus in Forlivio civitate.
 
 Non aliter Thydeus corrosit tempora, idest genas, Menalippi, propter indignationem, quomodo ille faciebat teschium et alias res, idest caput et aliud in eo contenta. Thydeus fuit unus de septem regibus, qui venerunt contra Thebas, qui Thydeus, vulneratus ad mortem a Menalippo, qui erat Thebanus, quia Menalippus perforavit Thydeum cum lancea, ille Thydeus venit per lanceam, qua erat transfossus, et momordit Menalippum in facie pluribus vicibus, antequam moreretur. Hanc hystoriam ponit Statius in Thebaydos. Isti duo sunt stricti in illo foramine, quorum unus comedebat caput alterius: fuerunt comes Ugolinus de Pisis, et archiepiscopus Pisarum, qui vocabatur episcopus Rogerius. Erat natus de Ubaldinis, et fuit nepos domini Octaviani cardinalis de Ubaldinis.
 

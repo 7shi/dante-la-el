@@ -70,7 +70,7 @@ Una eadem lingua prius me momordit, idest reprehendit, ita quod tinxit unam et a
 
 5 Tanto ch'avrebbe ogni tuon facto fioco,\
 &emsp;Che (6), contra sè la sua via seguitando (7),\
-&emsp;Dirizzò gl'occhi miei tutti ad un loco.
+&emsp;Dirizzò gl'ochi miei tutti ad un loco.
 
 5 In tantum quod fecisset omnem tonum raucum;\
 &emsp;Qui, contra se suam viam sequendo,\
@@ -98,7 +98,7 @@ Una eadem lingua prius me momordit, idest reprehendit, ita quod tinxit unam et a
 
 8 Et ipse: Ex eo quod transcurris\
 &emsp;Per tenebras nimis a longe,\
-&emsp;Evenit quod postea in ymaginatione tu abhorris.
+&emsp;Evenit quod postea in ymaginatione tu aborris.
 
 9 Tu vedrai ben, se tu là ti congiungi,\
 &emsp;Quanto 'l senso (10) s'inganna di lontano:\
@@ -278,7 +278,7 @@ Ista verba sunt inintelligibilia, et pro inintelligibilibus hic habentur. Et lic
 &emsp;Che 'l tien legato, o anima confusa,\
 &emsp;E vedi lui che 'l gran pecto ti toga (5).
 
-25 Quere tibi ad collum, et reperies sogam,\
+25 Quere tibi ad collum, et reperies sogam\
 &emsp;Que tenet eum ligatum, o anima confusa,\
 &emsp;Et vide ipsum qui grande pectus tibi ornat.
 
@@ -304,7 +304,7 @@ Ista verba sunt inintelligibilia, et pro inintelligibilibus hic habentur. Et lic
 
 28 Fecimus igitur longius iter\
 &emsp;Conversi ad sinistram; et per iactum unius baliste,\
-&emsp;Reperiuimus alium multo fortiorem et maiorem.
+&emsp;Reperuimus alium multo fortiorem et maiorem.
 
 29 A cinger lui (9), qual fusse'l maestro,\
 &emsp;Non so io dire; ma e' tenea soccinto\
@@ -494,13 +494,13 @@ Non facias nos ire ad Titium, aut ad Typhum. Hi sunt duo alii Gigantes. Hic pote
 
 45 Virgilius, quando sensit se prendere,\
 &emsp;Dixit michi: Fac te huc, ut te apprehendam.\
-&emsp;Postea fecit sic, quod unum pondus eramus ipse et
+&emsp;Postea fecit sic, quod unum pondus eramus ipse et ego.
 
 46 Qual par a riguardar la Carisenda\
 &emsp;Socto 'l chinato, quando un nuvol vada\
 &emsp;Sovr'essa, sì ch'ella incontro penda;
 
-46 Qualis apparuit ad respiciendum Carizendam\
+46 Qualis apparet ad respiciendum Carizendam\
 &emsp;Sub inclinato, quando una nubes vadat\
 &emsp;Super ipsam ita, quod ipsa e contra pendeat;
 

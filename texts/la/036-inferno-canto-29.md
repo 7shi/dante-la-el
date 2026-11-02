@@ -76,7 +76,7 @@ Sed Virgilius michi dixit: Quid pur, idest tantum, respicis? Quare visio tua, id
 
 5 Si tu posuisses, respondi ego paulo ante,\
 &emsp;Intentum ad causam propter quam ego respiciebam,\
-&emsp;Forsan adhuc michi stare ibi dimis[s]es.
+&emsp;Forsan adhuc michi stare ibi dimis[iss]es.
 
 6 Per te (2) sen giva, et io dietro gl'andava,\
 &emsp;Lo duca, già facendo la risposta,\
@@ -156,7 +156,7 @@ Iste, de quo est sermo, fuit unus consanguineus Dantis, et vocabatur Gieri de Be
 
 13 Sic locuti fuimus, usque ad locum primum\
 &emsp;Qui scopuli aliam vallem monstrat,\
-&emsp;Si plus luminis fuisset, totum ad ymmum.
+&emsp;Si plus luminis fuisset, totum ad ymum.
 
 14 Quando noi fummo in su l'ultima chiostra\
 &emsp;Di Malebolge, sì ch'e suoi conversi\
@@ -450,7 +450,7 @@ Ego fui de Aretio, et Alberus de Senis, respondit ille, me fecit micti in ignem.
 
 43 Et Nycholaum, qui costumam divitem\
 &emsp;Garofali prius discooperuit\
-&emsp;In orto ubi tale semen applicatur;
+&emsp;In orto ubi tale semen applicat[ur];
 
 44 E trane (8) la brigata, in che disperse\
 &emsp;Cascia (9) d'Asciano la vigna e la gran fronda,\

@@ -554,7 +554,7 @@ Tu videbis illos inter illam gentem vanam, idest (de vanitate Senensium iam dict
 
 Non ci accadde mai di ripensare la commovente preghiera, che il Poeta finge di udire dalle ombre, coperte di mantelli Al color della pietra non diversi,
 
-le quali nel secondo balzo del Purgatorio scontano la colpa dell'invidia, che non ne ricevessimo profonda commozione. La preghiera è questa :
+le quali nel secondo balzo del Purgatorio scontano la colpa dell'invidia, che non ne ricevessimo profonda commozione. La preghiera è questa:
 
 E poi che fummo un poco più avanti, Udi' gridar: Maria, ora per noi; Gridar: Michele, e Pietro, e tutti i Santi.
 

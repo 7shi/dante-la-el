@@ -142,7 +142,7 @@ Sed quando fuimus liberi et aperti sursum ubi mons retro se accumulat, idest acc
 
 12 Angelus qui venit in terram cum decreto\
 &emsp;De multis annis lacrymate pacis,\
-&emsp;Aperuit celum de sua longa prohibitione ;
+&emsp;Aperuit celum de sua longa prohibitione;
 
 13 Dinanz'a noi (2) pareva sì verace\
 &emsp;Quivi intagliato in un acto suave,\
@@ -176,11 +176,11 @@ Cum iuramento dici potuisset, quod diceret: Ave; quia ibi erat ymaginata illa, s
 
 <!-- p. 537 (0591) -->
 
-15 Havea in acto impressa esta favella :\
+15 Havea in acto impressa esta favella:\
 &emsp;Ecce Ancilla Dei; propriamente,\
 &emsp;Come figura in cera si suggella.
 
-15 Et habebat in actu impressam istam loquelam :\
+15 Et habebat in actu impressam istam loquelam:\
 &emsp;Ecce Ancilla Dei; proprie,\
 &emsp;Sicut figura in cera sigillatur.
 
@@ -190,7 +190,7 @@ Cum iuramento dici potuisset, quod diceret: Ave; quia ibi erat ymaginata illa, s
 
 16 Non teneas solum ad unum locum mentem,\
 &emsp;Dixit dulcis magister, qui me habebat\
-&emsp;Ab illa parte, unde cor habent gentes :
+&emsp;Ab illa parte, unde cor habent gentes:
 
 17 Perch'io mi mossi col viso; e vedea,\
 &emsp;Dirieto da Maria, da quella costa\

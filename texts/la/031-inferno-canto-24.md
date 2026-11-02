@@ -146,7 +146,7 @@ Et sicut ille, qui operatur et extimat, quod semper apparet quod ante, scilicet 
 
 14 Quia una costa surgit et alia descendit:\
 &emsp;Nos pervenimus finaliter super punctam\
-&emsp;Unde ultima petra discosscenditur.
+&emsp;Unde ultima petra discoscenditur.
 
 15 La lena m'era del polmon sì muncta\
 &emsp;Quando fui su, ch'io non potea più oltre,\
@@ -437,7 +437,7 @@ Postquam auctor descripsit incinerationem istius latronis et regressum ad pristi
 &emsp;Paucum tempus est, in hanc gulam feram.
 
 42 Vita bestial mi piacque, e non humana,\
-&emsp;Sì com'a mul (3) ch'io fui: son Vanni Fucci\
+&emsp;Si com'a mul (3) ch'io fui: son Vanni Fucci\
 &emsp;Bestia, e Pistoia (4) mi fu degna tana (5).
 
 42 Vita bestialis placuit michi, et non humana,\

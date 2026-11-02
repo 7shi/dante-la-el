@@ -429,7 +429,7 @@ Ad intelligentiam narrationis sequentis, oportet scire quod in Arcipelago est un
 &emsp;Tu lo vedrai, però qui non si conta.
 
 40 Usque ad illum locum ubi plus non descenditur:\
-&emsp;Faciunt Cochitum ; et quale sit illud stagnum\
+&emsp;Faciunt Cochitum; et quale sit illud stagnum\
 &emsp;Tu videbis, illud ideo hic non narratur.
 
 (1) vecchio. — (2) spechio.

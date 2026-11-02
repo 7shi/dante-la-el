@@ -12,7 +12,7 @@ In isto vicesimoctavo capitulo, quod incipit: Quis posset unquam, etc., auctor t
 &emsp;Dire del sangue e delle piaghe a pieno,\
 &emsp;Ch'io hora viddi, per narrar più volte?
 
-1 Quis posset unquam tantummodo cum verbis solutis\
+1 Quis posest unquam tantummodo cum verbis solutis\
 &emsp;Dicere de sanguine et de plagis ad plenum,\
 &emsp;Quas nunc ego vidi, ut narrem pluries?
 
@@ -218,7 +218,7 @@ Unus dyabolus est hic retro, qui nos dividit, vel nos moratur, ita crudeliter cu
 
 18 Più fur di cento che, quando l'udiro,\
 &emsp;S'arrestaron nel fosso a riguardarmi,\
-&emsp;Per maraviglia obliando (4) 'l lor martiro (5).
+&emsp;Per maravigla obliando (4) 'l lor martiro (5).
 
 18 Plures fuerunt quam centum, qui, quando eum audierunt,\
 &emsp;Se firmaverunt in fossato ad respiciendum me,\
@@ -311,7 +311,7 @@ Unus alter qui perforatam habebat gulam, que format vocem, qua male usus fuerat,
 &emsp;Che, se l'antiveder qui non è vano,
 
 26 Et facias intimari duobus melioribus de Fano,\
-&emsp;Domino Guidoni et etiam Angelello.\
+&emsp;Domino Guidoni et etiam Angelello\
 &emsp;Quod, si previdere hic non est vanum,
 
 27 Gittati saran (4) fuor del lor vasello (5),\
@@ -350,7 +350,7 @@ Unus alter qui perforatam habebat gulam, que format vocem, qua male usus fuerat,
 &emsp;Se vuoi ch'io porti su di te novella,\
 &emsp;Chi è colui (19) della veduta amara (20).
 
-31 Et ego ad eum: Demonstra mihi et declara,\
+31 Et ego ad eum: Demonstra michi et declara,\
 &emsp;Si vis quod ego portem sursum de te nova,\
 &emsp;Quis est ille de visione amara.
 
@@ -360,7 +360,7 @@ Et facias intimari, idest notificari, duobus melioribus de Fano, domino Guidoni,
 
 Unus dominus Arrimini de Maletestis, Malatestinus nomine, qui monoculus erat, cupiens adipisci dominium civitatis Fani, ordinavit fieri unum parliamentum in Catholica (est unus vicus, ut dictum, prope montem Focarie, qui mons est inter Pensaurum et Catholicam); et misit dicendo duobus nobilibus de Fano, qui regebant civitatem Fani, ut venirent ad loquendum secum ad Catholicam. Qui volentes venire, intraverunt mare Fani, quia civitas Fani est super littus maris, [super] unam parvam naviculam, et veniebant per mare, et pervenientes prope istum montem, qui dicitur Focaria, fuerunt, ordinatione istius Maletestini, interfecti et submersi in mare. Ideo dicit textus: Si antevidere non est vanum, etc.
 
-Inter insulam Cipri et Maioricarum (Maiorica est pulchra insula), non vidit unquam tale fallum, idest deceptionem, vel grande malum, Neptumpnus, deus maris, non a piratis, non a gente argolica: idest non fuit commissum ita magnum scelus in mari, inter insulas Cipri, insula Cipri est in oriente, et Maioricarum, que est insula in occidente. Ille proditor, qui videt solum cum uno, supple oculo, et tenet terram, idest Arriminum, quam talis est hic mecum, qui eam vidisse vellet [esse] ieiunus (pirate sunt latrones maris), faciet eos venire, idest convocari, ad parliamentum secum; postea faciet sic, quod ad ventum Focarie non erit eis necesse votum, nec preces: idest non proderunt eis vota, neque preces (vasello, idest de corpore, vel de navi); non erit eis necesse vota, etc. ; quia interficientur antequam veniant ad illum locum.
+Inter insulam Cipri et Maioricarum (Maiorica est pulchra insula), non vidit unquam tale fallum, idest deceptionem, vel grande malum, Neptumpnus, deus maris, non a piratis, non a gente argolica: idest non fuit commissum ita magnum scelus in mari, inter insulas Cipri, insula Cipri est in oriente, et Maioricarum, que est insula in occidente. Ille proditor, qui videt solum cum uno, supple oculo, et tenet terram, idest Arriminum, quam talis est hic mecum, qui eam vidisse vellet [esse] ieiunus (pirate sunt latrones maris), faciet eos venire, idest convocari, ad parliamentum secum; postea faciet sic, quod ad ventum Focarie non erit eis necesse votum, nec preces: idest non proderunt eis vota, neque preces (vasello, idest de corpore, vel de navi); non erit eis necesse vota, etc.; quia interficientur antequam veniant ad illum locum.
 
 Ed io a lui. Et ego ad eum: ista est quarta pars huius capituli, in qua tractatur de uno alio spiritu moderno, qui seminavit scandalum magnum; sed primo tangit unum antiquum spiritum. Iste fuit Curio Romanus, qui recessit de Roma, dum Cesar esset prope Arriminum et prope flumen Rulbacontis, et qui persuasit Cesari, ut cito se expediret et iret Romam, quoniam res parate erant. Iste est ille de quo supra dixit Pierus de Medicina, quod noluisset vidisse Arriminum. Iste Curio fuit tribunus, idest defensor populi, contra nobiles et potentes, et amicus populi: fuit pulcherrimus orator; et fuit causa scandali belli civilis. Qui recedens de Roma, venit Arriminum, ubi erat Cesar, scilicet in campo, et dixit Cesari: Dum trepidant nullo firmate robore partes, tolle moras; semper enim nocuit differre paratis. Unde ista verba fuerunt magna concausa belli civilis. De isto loquebatur Pierus de Medicina, quando dixit: Talis est hic mecum, qui vidisse Arriminum vellet esse ieiunus. Et ego ad eum: Demonstra mihi et declara, si vis quod ego portem sursum, idest in mundum, de te nova, quis est ille de visione amara, idest qui nollet vidisse Arriminum. Tunc Pierus volvit se ad sotium, scilicet Curionem, et aperuit sibi os. Hoc fingit auctor ad denotandum, quod ille scilicet Curio, non habebat linguam; et merito quia ipse scilicet Curio, vendiderat linguam, sicut dicit Lucanus. Dicit: Vendit Urbem lingua. Virgilius: Vendidit hic auro patriam.
 
@@ -520,7 +520,7 @@ Quando recte ad pedes pontis fuit, idest prope pontem, levavit brachium alte cum
 
 47 Perch'io partii così giuncte persone (3),\
 &emsp;Partito porto'l mio cerebro (4), lasso!\
-&emsp;Dal suo principio (5) ch'e'n (6) questo troncone.\
+&emsp;Dal suo principio (5) ch'è'n (6) questo troncone.\
 &emsp;Così si serva (7) in me lo contrapasso (8).
 
 47 Quia ego divisi ita coniunctas personas,\

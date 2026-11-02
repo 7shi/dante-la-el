@@ -214,7 +214,7 @@ Et ipse ad me: Nullus tuus passus cadat: continue sursum ad montem post me acqui
 
 (1) Era — (2) al. spronavan. — (3) al. ivi.
 
-Summitas erat alta, que vincebat visum : idest summitas montis erat ita alta, quod vix poteramus respicere summitatem eius; et ascensus superbus, idest difficilis plus satis, quam a medio quadrante ad centrum lista. Nota quod quadrans est quarta pars circuli. Modo si protrahatur una linea a quadrante ad centrum, non posset magis recte pendere, sicut patet hic in figura, etc.
+Summitas erat alta, que vincebat visum: idest summitas montis erat ita alta, quod vix poteramus respicere summitatem eius; et ascensus superbus, idest difficilis plus satis, quam a medio quadrante ad centrum lista. Nota quod quadrans est quarta pars circuli. Modo si protrahatur una linea a quadrante ad centrum, non posset magis recte pendere, sicut patet hic in figura, etc.
 
 [figure]
 
@@ -228,9 +228,9 @@ Sic me speronaverunt, idest impulerunt, verba sua, idest incitaverunt, quod me i
 
 Ad sedendum ibi nos posuimus ibi ambo, conversi ad orientem, unde ascenderamus, quia solet, ad respiciendum, prodesse hominibus. Ecce quod aliquando etiam bene operantes interponere aliqua oportet, ne, semper continuando et prosequendo opus, homo fastidiatur.
 
-Oculos prius : hec est tertia pars huius capituli, in qua auctor describit dispositionem celi, scilicet quomodo erat in illo emispirio inferiori, scilicet poli anthartici. Et fingit auctor se mirari, quomodo sol feriebat eum ad partem sinistram, quia in isto nostro emispirio superiori poli arthici, si homo convertat se ad orientem, vertendo terga ad occidentem, sol percutit partem dextram, et facit umbram ad sinistram: hic autem, ubi modo erat, erat per oppositum; nam percutiebatur a sole in parte sinistra, et faciebat umbram ad partem dextram.
+Oculos prius: hec est tertia pars huius capituli, in qua auctor describit dispositionem celi, scilicet quomodo erat in illo emispirio inferiori, scilicet poli anthartici. Et fingit auctor se mirari, quomodo sol feriebat eum ad partem sinistram, quia in isto nostro emispirio superiori poli arthici, si homo convertat se ad orientem, vertendo terga ad occidentem, sol percutit partem dextram, et facit umbram ad sinistram: hic autem, ubi modo erat, erat per oppositum; nam percutiebatur a sole in parte sinistra, et faciebat umbram ad partem dextram.
 
-Nota quod sicut polus arthicus est oppositus polo anthartico, ita omnes dispositiones diei naturalis, que sunt in nostro emispirio superiori, fiunt per oppositum illis, qui sunt in polo anthartico : quoniam hic quando est sero, inferius est mane; quando hic meridies, ibi media nox; quando hic estas, ibi yems; quando sol hic percutit ad dextram, inferius ad sinistram : et e converso. Modo Dantes, videns solem percutere eum conversum ad orientem in parte sinistra et facere umbram ad dextram, cuius oppositum accidebat sibi quando erat in isto emispirio, non cogitans se esse in inferiori emispirio, mirabatur.
+Nota quod sicut polus arthicus est oppositus polo anthartico, ita omnes dispositiones diei naturalis, que sunt in nostro emispirio superiori, fiunt per oppositum illis, qui sunt in polo anthartico: quoniam hic quando est sero, inferius est mane; quando hic meridies, ibi media nox; quando hic estas, ibi yems; quando sol hic percutit ad dextram, inferius ad sinistram: et e converso. Modo Dantes, videns solem percutere eum conversum ad orientem in parte sinistra et facere umbram ad dextram, cuius oppositum accidebat sibi quando erat in isto emispirio, non cogitans se esse in inferiori emispirio, mirabatur.
 
 Oculos prius direxi ad lictora yma, postmodum illos elevavi ad solem, et admirabar, idest admirando respiciebam, quod ad sinistram feriti eramus, idest repercussi, a radiis solis.
 
@@ -484,7 +484,7 @@ O dulcis domine mi, dixi ego, oculeris, idest respicias, illum, qui monstrat se 
 
 (1) al. l'Angel. — (2) porta. — (3) al. non.
 
-Tunc se convertit ad nos et posuit mentem, idest prospexit, movendo visum solum super tibia, et dixit : Or vade sursum tu, qui es ita valens. Designanter loquitur, quasi dicat : Tu, qui es ita sollicitus, iam vade, quia tamen non obtinebis quod queris.
+Tunc se convertit ad nos et posuit mentem, idest prospexit, movendo visum solum super tibia, et dixit: Or vade sursum tu, qui es ita valens. Designanter loquitur, quasi dicat: Tu, qui es ita sollicitus, iam vade, quia tamen non obtinebis quod queris.
 
 Cognovi tunc quis erat, et illa angustia, que me festinabat adhuc aliquantulum anhelitum, non me impedivit ire ad eum; et posteaquam ad eum perveni, elevavit caput vix, dicendo: Vidisti bene, sicut, idest quomodo, sol ad humerum sinistrum currum, idest solis, ducit ? Ista verba sunt quasi improperii, que dicunt ignorantes in infamiam valentium. Dicunt aliqui: Isti medici nesciunt curare se: quomodo curabant alios? Isti astrologi sunt fatui: credunt videre cursum stellarum et mensurare solem, et tamen nesciunt ea que sunt in terra. Isti poete sunt pauperes, et non habent de pane, et moriuntur fame. Vult dicere auctor quod illa derisio, quam facit piger contra auctorem, est indigna, quia optime describit.
 

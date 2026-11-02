@@ -194,7 +194,7 @@ Et ille ad me, scilicet dixit: Illa est anima antique Mirre scellerate, que deve
 &emsp;Pur quod ipse habuisset ynguinem\
 &emsp;Truncatum a latere, ubi homo est forcutus.
 
-18 La grande ydropisia, che si dispaia (6)\
+18 La grande ydropisia, che sì dispaia (6)\
 &emsp;Le membra (7) coll'humor che 'n mal converte,\
 &emsp;Che 'l viso non risponde alla ventraia (8),
 
@@ -387,7 +387,7 @@ Una est falsa, scilicet illa, que cepit Ioseph per vestem, et ille aufugit, reli
 &emsp;Io abbo (10) 'l braccio (11) a tal mestieri sciolto.
 
 36 Dicendo ad eum: Quamvis sit michi sublatus\
-&emsp;Motus membrorum que sunt gravia,\
+&emsp;Motus menbrorum que sunt gravia,\
 &emsp;Adhuc habeo ego brachium ad tale opus dissolutum.
 
 37 Ond'ei (12) rispose: Quando tu andavi (13)\
@@ -395,8 +395,8 @@ Una est falsa, scilicet illa, que cepit Ioseph per vestem, et ille aufugit, reli
 &emsp;Ma sì (16) e più (17) l'havei quando coniavi (18).
 
 37 Unde ipse respondit: Quando tu ibas\
-&emsp;Ad ignem, non habebas tu illud ita velox,\
-&emsp;Sed sic et plus habebas ipsum, quando cudebas.
+&emsp;Ad ignem, non habebas tu illud ita velox;\
+&emsp;Sed sic et plus habebas ipsum quando cudebas.
 
 38 E l'ydropico (19): Tu di' ben ver di questo;\
 &emsp;Ma tu non fosti sì ver (20) testimonio,\
@@ -412,7 +412,7 @@ Una est falsa, scilicet illa, que cepit Ioseph per vestem, et ille aufugit, reli
 
 39 Si ego dixi falsum, tu falsasti cuneum,\
 &emsp;Dixit Sinon, et sum hic pro una fallacia,\
-&emsp;Et tu pro pluribus quam aliquis alter demon.
+&emsp;Sed tu pro pluribus quam aliquis alter demon.
 
 40 Ricorditi 'l spergiuro del cavallo,\
 &emsp;Rispose quel (27) ch'havea gonfiata l'epa (28);\
@@ -491,7 +491,7 @@ Et tibi sit rea sitis, idest displiceat, unde, idest ex qua,
 &emsp;Me tucta via, e non mel credea fare.
 
 47 Talem me feci ego, non potens loqui,\
-&emsp;Qui desiderabam me excusare, et excusabam\
+&emsp;Qui desiderabam me excusare, et excusabam,\
 &emsp;Et me semper non facere id credebam.
 
 48 Maggior difecto men vergogna lava,\

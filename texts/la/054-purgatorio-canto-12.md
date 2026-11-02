@@ -60,7 +60,7 @@ Sed quando dixit: Dimicte eum, scilicet Oderisium, idest non plus vadas ita incl
 
 4 Ego me moveram, et sequebar libenter\
 &emsp;Mei magistri passus, et ambo\
-&emsp;Iam monstrabamus sicut eramus leves ;
+&emsp;Iam monstrabamus sicut eramus leves;
 
 5 Et ei mi disse: Volgi gl'ochi in giue:\
 &emsp;Buon ti sarà, per tranquillar la via,\
@@ -250,7 +250,7 @@ Monstrabat adhuc, scilicet pavimentum, quomodo filii sagiptabant super Senachari
 
 Monstrabat adhuc, scilicet pavimentum, ruinam et grandem scempionem, idest scissionem, vel divisionem, vel magnum exemplum, quam fecit Thamir, quando dixit Cyro: Sanguinem sitisti, et ego de sanguine te impleo.
 
-Nota quod Cyrus rex Persarum, intravit manu armata Sithiam, idest Thartariam, cui obviavit quidam iuvenculus, filius Thamir, regine vidue, quem ipse Cyrus interfecit. Ipsa regina Thamir, cruciata dolore, congregavit magnum exercitum et venit contra Cyrum; et quadam die simulata fuga, transivit exercitus Cyri per loca montuosa, in quibus nescivit se bene regere. Tunc regina, que primo simulaverat fugam, revolvit se contra Cyrum, et dedit sibi conflictum, et cepit eum et fecit decapitari, et ponens caput eius in uno utre, sanguine pleno, dixit : Sanguinem sitisti, et ego sanguine impleo.
+Nota quod Cyrus rex Persarum, intravit manu armata Sithiam, idest Thartariam, cui obviavit quidam iuvenculus, filius Thamir, regine vidue, quem ipse Cyrus interfecit. Ipsa regina Thamir, cruciata dolore, congregavit magnum exercitum et venit contra Cyrum; et quadam die simulata fuga, transivit exercitus Cyri per loca montuosa, in quibus nescivit se bene regere. Tunc regina, que primo simulaverat fugam, revolvit se contra Cyrum, et dedit sibi conflictum, et cepit eum et fecit decapitari, et ponens caput eius in uno utre, sanguine pleno, dixit: Sanguinem sitisti, et ego sanguine impleo.
 
 Monstrabat sicut, idest quomodo, in ruptam, idest in fugam, aufugerunt Assyrii, postquam fuit mortuus Olofernes, et adhuc reliquias martyrii.
 
