@@ -695,6 +695,7 @@ page	line	form	decision	note
 1145	39	-	printed	listed for distaccabatur, which is not in this line; the line is printed so
 1146	49	-	printed	listed for bono, which is not in this line; the line is printed so
 1148	35	remunsere	misprint	for remansere, was remansere; verse reading
+1153	21	ita,quod	misread	was ita, quod; no space printed; verse reading
 1158	27	natura non	printed	natura non: Latin placed non at end of line where Italian had a che natura
 1160	21	cognitione	printed	cognitione: Italian condiction, expect conditione
 1160	22	habeo tecum	printed	habeo tecum: Italian tocco mo, expect tango modo
@@ -703,8 +704,14 @@ page	line	form	decision	note
 1166	37	-	printed	listed for Dante nos, which is not in this line; the line is printed so
 1168	31	tuum	printed	tuum: Italian suo, expect suum (pronoun mismatch)
 1168	45	-	printed	listed for novella, which is not in this line; the line is printed so
+1170	34	abbagliaris	misread	was abbagliaris,; no comma printed; verse reading
+1171	14	felice (1)!	misread	was felice (!); Italian verse reading
 1171	18	Sequutus est	printed	Sequutus est: Italian Si quetò, expect Quievit
 1177	42	per auctoritates	printed	per auctoritates: Italian 1891 text misprint non auctoritadi, Latin translated per autoritadi
+1179	16	(5)	misread	was (3); Italian verse reading
+1179	20	supplìco	misread	was supplico; the grave is printed; Italian verse reading
+1181	47	EL	misread	was El; the L is a small capital; verse reading
+1182	5	47	misread	was 57; Italian verse reading
 1187	32	ibi	printed	ibi: Italian qui, expect hic
 1190	35	-	printed	listed for videre, which is not in this line; the line is printed so
 1193	36	adfondas	printed	adfondas: Italianism / non-word (affondi)
@@ -712,8 +719,14 @@ page	line	form	decision	note
 1194	31	et	misread	was &
 1194	40	Sed priusquam ianuarius totus exeat de yeme	printed	Sed priusquam ianuarius totus exeat de yeme: paraphrase for Ma pria che gennaio tutto si sverni
 1199	23	badalucchem	printed	badalucchem: non-word / garbled Italianism for s'adochi
+1206	14	'l	misread	was l'notturno; Italian verse reading
+1206	31	ochi	misread	was occhi; Italian verse reading
+1206	32	(2)	misprint	for (12), was (12); Italian verse reading
 1206	44	-	printed	listed for infiorat, which is not in this line; the line is printed so
+1210	11	vincto	misread	was vineto; Italian verse reading
 1213	29	nobis	printed	nobis: Italian vi, expect vobis (person mismatch)
+1213	33	Sancti;	misread	was Sancti:; verse reading
+1215	24	Phylosophando	misread	was Philosophando; Italian verse reading
 1215	29	-	printed	listed for ingolfatur, which is not in this line; the line is printed so
 1217	42	-	printed	listed for plovunt motti, which is not in this line; the line is printed so
 1218	32	bechecto	printed	bechecto: Italianism (becchetto)
@@ -721,6 +734,7 @@ page	line	form	decision	note
 1228	27	celi	printed	celi: Italian regno, expect regni
 1228	43	scioliis	printed	scioliis: non-word / garbled form for foliis
 1229	39	redolet	misread	was redolel
+1229	46	ammodo	misread	was anmodo; verse reading
 1230	24	deponatur	printed	deponatur: Italian disposta, expect disposita sit
 1230	25	amaliat	printed	amaliat: Italianism (ammalia)
 1230	31	adeo	printed	adeo: Italian da Dio, expect a Deo
@@ -728,9 +742,13 @@ page	line	form	decision	note
 1235	32	soggiornat	printed	soggiornat: Italianism (soggiorna)
 1235	34	tantum	printed	tantum: Italian tutto, expect totum
 1235	35	arrivat	printed	arrivat: Italianism (arriva)
+1242	24	corum	misprint	for eorum, was eorum; verse reading
+1242	27	habundatiam	misprint	for habundantiam, was habundantiam; verse reading
+1247	13	mei,	misread	was mei.; Italian verse reading
 1251	36	nobis	printed	nobis: Italian vi (1), expect vobis
 1251	52	baptismathe	printed	baptismathe: non-word / garbled form for baptismate
 1251	53	non fuit	printed	non fuit: Italian si ritenne, Latin non fuit
+1251	62	tantam	misread	was tantum; verse reading
 1252	43	Philocaptus	printed	Philocaptus: Greek neologism for innamorato
 1264	25	oculos Argi	printed	oculos Argi: Italian l'ombra d'Argo, Latin oculos Argi
 1266	22	dicenduum	printed	dicenduum: typo / non-word (dicendum)
