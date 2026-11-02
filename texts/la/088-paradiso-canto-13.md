@@ -9,7 +9,7 @@ In isto decimotertio capitulo, quod incipit: Ymaginetur qui bene intelligere cup
 # Capitulum Tertiumdecimum
 
 1 Imagini, chi ben intender cupe\
-&emsp;Ciò ch'i' hor vidi, e ritegna l'ymage,\
+&emsp;Ciò ch'i' hor vidi, e ritegna l'ymage,\
 &emsp;Mentre ch'io dico, come ferma rupe,
 
 1 Ymaginetur, qui bene intelligere cupit\
@@ -42,7 +42,7 @@ In isto decimotertio capitulo, quod incipit: Ymaginetur qui bene intelligere cup
 
 5 Aver facti di sè duo segni in cielo,\
 &emsp;Qual fece la figluola di Mynoi\
-&emsp;Allora che sentì di morte el gielo;
+&emsp;Allora che sentì di morte el gielo;
 
 5 Fecisse de se duo signa in celo,\
 &emsp;Quale fecit filia Minoys\
@@ -181,7 +181,7 @@ Iam ponit exordium Sancti Thome, quando reincepit loqui, per quamdam comparation
 &emsp;El ben che ne la quinta luce è chiuso.
 
 16 Et postmodum respicis illud quod ego dixi superius,\
-&emsp;Quando narravi quod non habuit secundum\
+&emsp;Quando narravi quod non habuit secundum,\
 &emsp;Bonum quod in quinta luce est clausum.
 
 17 Or apri gl'ochi a quel ch'io ti rispondo,\
@@ -463,7 +463,7 @@ Et de hoc sunt in mundo aperte probationes Parmenides, Mellisius, Brissius, et m
 &emsp;In render torti li diricti volti.
 
 43 Sic fecit Sabellius, Arrius, et illi stulti,\
-&emsp;Qui fuerunt sicut ensis ad Scripturas,\
+&emsp;Qui fuerunt sicut ensis ad Scripturas\
 &emsp;In reddendo tortuosos rectos vultus.
 
 44 Nè sien le genti ancor troppo sicure\
@@ -492,12 +492,12 @@ Et de hoc sunt in mundo aperte probationes Parmenides, Mellisius, Brissius, et m
 
 47 Non creda donna Berta e ser Martino,\
 &emsp;Per veder l'un furar, l'altro offerere,\
-&emsp;Vederli dentro al consiglio divino;\
+&emsp;Vederli dentro al consiglo divino;\
 &emsp;Chè quel può surger, l'altro può cadere.
 
 47 Non credat domina Berta et ser Martinus,\
 &emsp;Propter videre unum furari et alterum offerre,\
-&emsp;Videre eos intra consilium divinum;\
+&emsp;Videre eos intra 'consilium divinum;\
 &emsp;Quia ille potest surgere, et ille potest cadere.
 
 quomodo, idest ad quem ibant locum. Sic fecit Sabellius, Arrius, et Brissius, et isti stulti, qui fuerunt sicut ensis ad Scripturas, idest dilacerando eas et ad sensus falsos reducendo, in reddendo tortuosos, scilicet falsos, rectos vultus, scilicet sensus veros.

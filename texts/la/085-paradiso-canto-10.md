@@ -56,7 +56,7 @@ describitur unus spiritus singularis modernus, magne excellentie, qui indicat se
 
 4 E lì comincia a vagheggiar nell'arte\
 &emsp;Di quel maestro, che dentro a sè s'ama\
-&emsp;Tanto, che mai da lei l'Ochio non parte.
+&emsp;Tanto, che mai da lei l'ochio non parte.
 
 4 Et ibi incipias procari artem\
 &emsp;Illius fabri, qui intra se illam amat\
@@ -151,7 +151,7 @@ Minister maior nature. Lo ministro maior de la natura: hec est secunda pars huiu
 &emsp;Ante primam cogitationem, de adventu suo.
 
 13 O Beatrice, quella che si scorge\
-&emsp;Di bene in meglò sì subitamente,\
+&emsp;Di bene in meglo sì subitamente,\
 &emsp;Che l'acto suo per tempo non si porge,
 
 13 Et Beatrix illa, que percipitur\
@@ -183,14 +183,14 @@ Et Beatrix illa, que percipitur, idest comprehenditur, de bono in melius ita sub
 <!-- p. 936 (0990) -->
 
 16 E se le fantasie nostre son basse\
-&emsp;A tanta altezza, non è maraviglia,\
+&emsp;A tanta altezza, non è maravigla,\
 &emsp;Chè sopra 'l sol non fu ochio ch'andasse.
 
 16 Et si phantasie nostre sunt infirme\
 &emsp;Ad tantam altitudinem, non est mirum,\
 &emsp;Quia super solem non fuit oculus qui iret.
 
-17 Tal era quivi la quarta famiglia\
+17 Tal era quivi la quarta famigla\
 &emsp;Dell'alto Padre, che sempre la satia,\
 &emsp;Mostrando come spira e come figla.
 
@@ -474,7 +474,7 @@ Prope hoc, idest lumen Salomonis, vide lumen illius cerei, quod inferius in carn
 
 45 Iste, unde ad me revertitur tuus aspectus,\
 &emsp;Est lumen unius spiritus, cui cogitamina\
-&emsp;Gravia ad moriendum apparuerunt venire sibi [tardo.]
+&emsp;Gravia ad moriendum apparuerunt venire sibi tarda.
 
 46 Essa è la luce eterna di Sigieri,\
 &emsp;Che, leggendo nel vico delli strami,\
@@ -518,7 +518,7 @@ Iste, unde ad me revertitur tuus aspectus, est lumen unius spiritus, scilicet Si
 &emsp;Tin tin sonando cum tam dulci nota,\
 &emsp;Quod bene dispositum spiritum amore turget;
 
-49 Cosi vid'io la gloriosa rota\
+49 Così vid'io la gloriosa rota\
 &emsp;Muoversi, e render voci a voci in tempra\
 &emsp;Et in dolcezza, ch'esser non può nota,\
 &emsp;Se non colà dove 'l gioir s'insempra.

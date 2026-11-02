@@ -134,7 +134,7 @@ De! mictas, idest reponas, meo velle (dativi casus) cito compensum, scilicet com
 
 12 Ma lietamente a me medesma indulgo\
 &emsp;La cagion di mia sorte, e non mi noia,\
-&emsp;Che paria forse forte al vostro vulgo.
+&emsp;Che parìa forse forte al vostro vulgo.
 
 12 Sed lete michi ipsi indulgeo\
 &emsp;Causam mee sortis, et michi non nocet,\
@@ -146,7 +146,7 @@ De! mictas, idest reponas, meo velle (dativi casus) cito compensum, scilicet com
 
 13 De ista luculenta et cara gioia\
 &emsp;De nostro celo, que michi plus appropinquat,\
-&emsp;Grandis fama remansit, et, priusquam moriatur,
+&emsp;Grandis fama remansit, et, prius quam moriatur,
 
 14 Questo centesimo anno ancor s'incinqua.\
 &emsp;Vedi se far si de' l'huomo excellente,\
@@ -456,7 +456,7 @@ Quod et ipsi fecerunt. Ista vero de nocte dimisit eos per fenestram domus sue, q
 
 43 Tua civitas, que illius est planta,\
 &emsp;Qui prius vertit terga suo Factori,\
-&emsp;Et cuius est invidia tantum planta
+&emsp;Et cuius est invidia tantum planta,
 
 44 Produce e spande el maladecto fiore,\
 &emsp;Ch'à disviato le pecore e gl'agni,\

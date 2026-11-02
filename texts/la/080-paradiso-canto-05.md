@@ -444,7 +444,7 @@ Modo per talem comparationem ostendit, quomodo vidit spiritus multos in isto pla
 &emsp;Nel primo lume, e che dagl'ochi traggi;\
 &emsp;Perchè ei corruscan sì, come tu ridi;
 
-42 Ego video bene sicut tu annidas\
+42 Ego video bene sicut tu te annidas\
 &emsp;In proprio lumine, quod ab oculis trahis;\
 &emsp;Eo quia coruscat statim, sicut tu rides;
 
