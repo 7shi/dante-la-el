@@ -25,7 +25,7 @@ Dinanzi l'altro (10), e dietro el braccio destro,
 24 Et dux meus versus eum: Anima insipiens,
 Tene te cum cornu, et cum illo te disfoges,
 Quando ira vel alia passio te tangit.
-25 Quere tibi ad collum, et reperies sogam,
+25 Quere tibi ad collum, et reperies sogam
 Que tenet eum ligatum, o anima confusa,
 Et vide ipsum qui grande pectus tibi ornat.
 26 Postea dixit ad me: Ipsemet se accusat;
@@ -36,7 +36,7 @@ Quia sic est apud eum quodlibet ydioma,
 Sicut suum aliis quod nulli est notum.
 28 Fecimus igitur longius iter
 Conversi ad sinistram; et per iactum unius baliste,
-Reperiuimus alium multo fortiorem et maiorem.
+Reperuimus alium multo fortiorem et maiorem.
 29 Ad cingendum eum, quicumque fuerit magister,
 Nescio ego dicere; sed ipse tenebat subcintum
 Ante unum, et retro brachium dextrum,

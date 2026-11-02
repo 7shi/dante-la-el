@@ -25,7 +25,7 @@ Tanto, che data v'è l'ultima posta (16),
 Sì ch'io sfoghi'l duol, che'l cor m'impregna,
 Un poco, pria che'l pianto si raggeli (17).
 
-32 Plantus ipse eos plangere non permicit,
+32 Plantus ipse eos plangere non permictit;
 Et dolor, qui reperit super obstaculum,
 Se volvit retro ut faciat crescere angustiam:
 33 Quia lacryme prime faciunt groppum,
@@ -41,7 +41,7 @@ Non est hic omnis vapor extinctus?
 De hoc faciet tibi oculus responsum,
 Videndo causam a qua flatus fluit.
 37 Et unus de tristibus frigide croste
-Clamavit: O anime crudeles!
+Clamavit: O anime crudeles
 In tantum, quod data est vobis ultima posta,
 38 Ammovete a viso meo dura vela,
 Ita quod ego emictam dolorem, qui cor meum premit,

@@ -38,7 +38,7 @@ a me inginochione. — (16) o. — (17) nostro. — (18) a noi. — (19) stemmi 
 (29) colle braccia strascinare. — (30) de' miei figluoli morti. — (31) per nome quando l'uno e quando l'altro. — (32) da poi questo. —
 (33) de' figliuoli. — (34) la fame che atterrò ancora me.
 
-17 Ego non plangebam; ita interius impetravi;
+17 Ego non plangebam; ita interius impetravi:
 Plangebant ipsi; et Anselmucius meus
 Dicebat: Tu plangis sic, pater: quid habes?
 18 Ideo non lacrymatus fui, nec respondi ego
@@ -47,7 +47,7 @@ Quousque alius sol in mundo exivit.
 19 Sicut aliqualiter radius fuit immissus
 In dolorosum carcerem, et ego perpendi
 Per quatuor visus meum aspectum eumdem;
-20 Ambas manus propter dolorem michi momordi;
+20 Ambas manus propter dolorem michi momordi.
 Et ipsi, cogitantes quod ego facerem illud propter
 [voluntatem
 Manducandi, subito se erexerunt,

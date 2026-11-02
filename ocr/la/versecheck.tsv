@@ -60,6 +60,7 @@ page	line	form	decision	note
 0240	41	ellegit	misread	was elegit; verse reading
 0240	43	plangebat	misread	was plingebat; verse reading
 0241	28	tumquam	misprint	for tamquam; open u, verse reading
+0241	42	Cochitum;	misread	was Cochitum ; (no space before a semicolon); verse reading
 0242	43	taces	printed	taces: Italian faci, expect facis
 0249	52	comprehendidi	printed	comprehendidi: garbled perfect, expect comprehendi
 0253	19	protesï	misread	was protesi; Italian verse reading
@@ -90,7 +91,10 @@ page	line	form	decision	note
 0340	26	esset	printed	esset: Italian S'io fussi, expect essem
 0344	40	una	printed	una: Italian tua, expect tua
 0345	17	maraviglar	misread	was maravigliar; Italian verse reading
+0352	43	discoscenditur	misread	was discosscenditur; verse reading
+0356	12	Si	misread	was Sì; Italian verse reading
 0358	20	frangetur	printed	frangetur: Italian feruto, expect ferietur / vulnerabitur
+0363	17	El (8)	misprint	tercet 6 not numbered in print, was 6 El; Italian verse reading
 0366	45	Coste	printed	Coste: Italian Le cosce, expect Coxe
 0368	41	fixa	printed	fixa: Italian fessa, expect fissa
 0369	44	lingua	printed	lingua: Italian penna, expect penna
@@ -100,25 +104,63 @@ page	line	form	decision	note
 0384	18	nos	printed	nos: Italian lei, expect illam / eam
 0389	31	mundo	printed	mundo: Italian fondo, expect fundo
 0392	58	ira	printed	ira: Italian sì, expect ita / sic
+0396	10	posest	misprint	for posset; verse reading
 0397	24	culpe	printed	culpe: Italian colpi, expect colporum / ictuum
 0398	23	nunc	printed	nunc: Italian nona, expect none
+0400	16	maravigla	misread	was maraviglia; Italian verse reading
 0400	20	Sì	misread	was Si; found among the 86 Italian verse lines starting Si
+0402	29	Angelello	misread	was Angelello.; verse reading
 0402	37	videt	misread	was ridet, also in the commentary 0402:74; Italian vede
+0402	43	michi	misread	was mihi; verse reading
 0404	29	spergo	printed	spergo: garbled form, expect osbergo / lorica
+0406	13	ch’è’n	misread	was ch’e’n; Italian verse reading
+0411	41	dimis[iss]es.	misread	was dimis[s]es.; verse reading
+0412	18	ymum.	misread	was ymmum.; verse reading
 0414	34	suppinus	printed	suppinus: Italian carpone, expect pronus / carpando
 0415	44	vestro	printed	vestro: Italian primo, expect primo
+0416	48	applicat[ur];	misread	was applicatur; verse reading
+0423	11	sì	misread	was si; Italian verse reading
 0425	39	plus	printed	plus: Italian men, expect minus
 0425	42	currus	printed	currus: Italian carathi, expect caratos
+0426	44	menbrorum	misread	was membrorum; verse reading
+0426	47	velox;	misread	was velox,; verse reading
+0426	48	ipsum quando	misread	was ipsum, quando; verse reading
+0426	54	Sed tu	misread	was Et tu; verse reading
 0427	31	humor ante faciem meam stat	printed	humor ante faciem meam stat: Italian humor mi rinfarcia, sense diverged
+0427	46	excusabam,	misread	was excusabam; verse reading
+0433	13	gl'ochi	misread	was gl'occhi; Italian verse reading
 0433	35	Dirigo	printed	Dirigo: Italian Dirizzò, expect Direxit
+0433	44	aborris.	misread	was abhorris.; verse reading
 0434	46	prora	printed	prora: Italian proda, expect proda / ripa / ora
-0439	39	leravit	misprint	for levavit; italic r, not v
+0436	28	sogam	misread	was sogam,; verse reading
+0436	39	Reperuimus	misread	was Reperiuimus; verse reading
+0439	30	[ego.	misread	runover left out; verse reading
+0439	31	apparet	misread	was apparuit; verse reading
+0439	40	leravit	misprint	for levavit; italic r, not v
+0444	14	udimmi (11):	misread	was udimmi (11) :; Italian verse reading
+0446	32	Guctaverunt	misprint	for Gustaverunt; verse reading
+0446	36	Cozzaverunt	misread	was Cozzavcrunt; verse reading
+0446	41	Vallis, unde Bissentium	misread	was Vallia, unde Bisscntium; verse reading
+0450	27	Tribaldello	misread	was Tribaldeilo (and in the commentary, 53); verse reading
+0450	29	illo,	misread	was illo.; verse reading
+0450	35	corrosit	misread	was corrossit; verse reading
 0450	44	promerear	misread	was promererar; Italian cangi
+0450	44	promerear,	misread	was promerear.; verse reading
 0454	25	videbis me	printed	videbis me: Italian udrai, expect audies
+0455	31	[ricinus.	misprint	for [vicinus.; italic r, verse reading
 0456	41	squamis	printed	squamis: Italian sane (tusks/teeth), expect dentibus
 0456	51	signum	printed	signum: Italian sogno, expect sompnium
+0457	41	impetravi:	misread	was impetravi;; verse reading
 0457	43	plangis	printed	plangis: Italian guardi, expect respicis
+0457	50	momordi.	misread	was momordi;; verse reading
 0457	64	quartum	printed	quartum: Italian quinto, expect quintum
+0458	30	dixit, cum	misread	was dixit cum; verse reading
+0458	40	Prodidisse de	misread	was Prodidisse te de; verse reading
+0459	28	permictit;	misread	was permicit,; verse reading
+0459	44	crudeles	misread	was crudeles!; verse reading
+0461	34	citernam;	misprint	for cisternam; verse reading
+0461	40	dixi ego, quod	misread	was dixi ego ad eum, quod; verse reading
+0461	47	proximani,	misprint	for proximi; verse reading
 0467	38	vultum	printed	vultum: Italian collo, expect collum
 0471	40	se	printed	se: Italian me, expect me
 0472	23	Sic supra	printed	Sic supra: Italian Così socto sopra, omits subtus
