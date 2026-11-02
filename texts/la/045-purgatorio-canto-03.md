@@ -280,7 +280,7 @@ Adhuc erat ille populus longinquus, ego dico post nostros per mille passus, quan
 &emsp;Virgilio incominciò, per quella pace\
 &emsp;Ch'io credo che per voi tutti s'aspetti,
 
-25 O bene finiti, o iam spiritus electi,\
+25 O bene finiti, o iam spiritus ellecti,\
 &emsp;Virgilius incepit, per illam pacem\
 &emsp;Quam ego credo quod per vos omnes expectetur,
 
@@ -288,7 +288,7 @@ Adhuc erat ille populus longinquus, ego dico post nostros per mille passus, quan
 &emsp;Sì che possibil sia l'andare in suso;\
 &emsp;Chè'l perder tempo a chi più sa, più spiace.
 
-26 Dicite nobis, ubi montana iacet,\
+26 Dicite nobis, ubi montanea iacet,\
 &emsp;Ita quod possibile sit ire sursum;\
 &emsp;Quia perdere tempus illi qui plus scit, plus displicet.
 
@@ -298,7 +298,7 @@ Adhuc erat ille populus longinquus, ego dico post nostros per mille passus, quan
 
 27 Sicut ovicule exeunt ex clauso\
 &emsp;Singule, bine, terne, et altere stant\
-&emsp;Timide atterranda oculum et caput;
+&emsp;Timide atterrando oculum et caput;
 
 28 E ciò che fa la prima, e l'altre fanno,\
 &emsp;Addossandosi a lei, s'ella s'arresta.\
@@ -306,7 +306,7 @@ Adhuc erat ille populus longinquus, ego dico post nostros per mille passus, quan
 
 28 Et id quod una facit, et altere faciunt,\
 &emsp;Adherentes eidem, si illa se firmat,\
-&emsp;Simplices et quiete, et quare id faciunt nesciunt;
+&emsp;Simplices et quiete, et quare id faciant nesciunt;
 
 29 Si vid'io a venir muover la testa\
 &emsp;Di quella mandria fortunata allotta,\

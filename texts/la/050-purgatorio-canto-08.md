@@ -12,7 +12,7 @@ In isto octavo capitulo, quod incipit: Iam erat hora, auctor prosequitur predict
 &emsp;A'naviganti e 'ntenerisce 'l core,\
 &emsp;Lo dì ch'àn dicto e'dolci amici: A Dio;
 
-1 Erat iam hora quae vertit desiderium\
+1 Erat iam hora que vertit desiderium\
 &emsp;Navigantibus et tenerefacit cor,\
 &emsp;In die quo dixerunt dulcibus amicis: Ad Deum;
 
@@ -211,7 +211,7 @@ Solum per tres passus credo quod descendimus, et fui infra, et vidi unum, qui re
 &emsp;A piè del monte per le lontan'acque?
 
 19 Nulla pulchra salu[t]atio inter nos tacuit;\
-&emsp;Postea interrogauit: Quantum est quod tu venisti\
+&emsp;Postea interrogavit: Quantum est quod tu venisti\
 &emsp;Ad pedes montis per longinquas aquas?
 
 20 O, diss'io lui, per entro e luoghi tristi\
@@ -228,7 +228,7 @@ Solum per tres passus credo quod descendimus, et fui infra, et vidi unum, qui re
 
 21 Et sicut fuit meum responsum auditum,\
 &emsp;Sordellus et ipse retro se collegerunt,\
-&emsp;Sicut gens de subito parefacta.
+&emsp;Sicut gens de subito pavefacta.
 
 22 L'uno a Virgilio, e l'altro ad un si volse\
 &emsp;Che sedea lì, gridando: Su, Corrado,\
@@ -420,13 +420,13 @@ Inter herbas et flores mala striscia veniebat, quia inter delectationes et conso
 &emsp;Di Valdimagra, o di parte vicina,\
 &emsp;Sai, dill'a me che già grande là era.
 
-39 Incepit illa, si novum verum\
+39 Incépit illa, si novum verum\
 &emsp;De Valle Magra, vel de parte vicina,\
 &emsp;Scis, dic illud michi qui iam grandis eram ibi.
 
 40 Chiamato fui Currado Melespina:\
 &emsp;Non son l'antico, ma di lui discesi;\
-&emsp;A'mici portai l'amor che qui raffina.
+&emsp;A'miei portai l'amor che qui raffina.
 
 40 Fui vocatus Conradus Malaspina:\
 &emsp;Non sum antiquus, sed ab eo descendi;\

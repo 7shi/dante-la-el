@@ -193,7 +193,7 @@ Et ipse ad me, idest dixit: Mea scriptura est plana, et spes illorum non fallitu
 &emsp;Ma el fact'è d'altra forma che non stanzi.
 
 18 Nos ibimus cum ista die ante,\
-&emsp;Respondet, plus quantum poterimus ammodo;\
+&emsp;Respondit, plus quantum poterimus ammodo;\
 &emsp;Sed factum est alterius forme quam tu stanties.
 
 19 Prima che sia di lassù, tornar vedrai\
@@ -390,7 +390,7 @@ O Alberte Theutonice, qui derelinquis istam, que est facta indomita et silvestri
 &emsp;De' tuoi gentili, e cura lor magagne,\
 &emsp;E vedrai Sancta Fior come si cura.
 
-37 Veni crudelis, veni, et videas pressuram\
+37 Veni, crudelis, veni, et videas pressuram\
 &emsp;Tuorum gentilium, et cura illorum crimina,\
 &emsp;Et videbis Sanctam Florem, quomodo curatur.
 
@@ -412,14 +412,14 @@ O Alberte Theutonice, qui derelinquis istam, que est facta indomita et silvestri
 
 40 E se lecito m'è, o sommo Giove,\
 &emsp;Che fusti in terra per noi crucifisso,\
-&emsp;Son li giusti occhi tuoi rivolti altrove?
+&emsp;Son li giusti ochi tuoi rivolti altrove?
 
 40 Et si licitum est michi, o summe Iupiter,\
 &emsp;Qui fuisti in terra pro nobis crucifixus.\
 &emsp;Sunt iusti oculi tui conversi alibi?
 
 41 O è preparation, che nell'abysso\
-&emsp;Del tuo consiglio fai, per alcun bene,\
+&emsp;Del tuo consiglo fai, per alcun bene,\
 &emsp;In tutto dall'accorger nostro scisso? (1)
 
 41 Vel est preparatio, quam in abysso\

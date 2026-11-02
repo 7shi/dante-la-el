@@ -22,7 +22,7 @@ non recte volve[re]tur, porta non aperiretur. Has, scilicet claves, a Petro tene
 
 2 Di gemme la sua fronte era lucente,\
 &emsp;Poste in figura del freddo animale,\
-&emsp;Che colla coda percůote la gente:
+&emsp;Che colla coda percuote la gente:
 
 2 Gemmis sua facies erat lucens,\
 &emsp;Posita in figura frigidi animalis,\
@@ -357,14 +357,14 @@ Dicite inde, quid vultis vos? Incepit ipse dicere; ubi est scorta, idest conduct
 &emsp;Crepata per lo lungo e per traverso.
 
 33 Erat secundus, tinctus magis quam persus,\
-&emsp;De una petrina livida et arsicia,\
+&emsp;De una petrina livida et arsiccia,\
 &emsp;Divisa per longum et per transversum.
 
 34 Lo terzo che di sopra s'ammassiccia,\
 &emsp;Porfido mi parea sì fiammeggiante,\
 &emsp;Come sangue che fuor di vena spiccia.
 
-34 Tertius gradus qui desuper ammassiciatur,\
+34 Tertius gradus qui desuper amassicciatur,\
 &emsp;Porfidum michi apparebat ita flammeum,\
 &emsp;Sicut sanguis quando de vena spicciat.
 
@@ -408,7 +408,7 @@ Et ipsa vestros passus in bonum avanzet, idest promoveat, reincepit curialis por
 
 Illuc venimus; et gradus primus albus erat marmor, ita pollitus et tersus, quod ego me speculabar in illo, qualis ego sum, sive qualis appareo.
 
-Erat secundus, scilicet gradus, tinctus magis quam persus, idest mixtus ex alio colore, de una petrina ruvida, idest aspera et arsicia, quasi combusta, divisa per longum et per transversum.
+Erat secundus, scilicet gradus, tinctus magis quam persus, idest mixtus ex alio colore, de una petrina ruvida, idest aspera et arsiccia, quasi combusta, divisa per longum et per transversum.
 
 Tertius gradus, scilicet qui desuper amassiciatur, idest qui superius stat, vel positus est, porfidum michi apparebat ita flammeum, sicut sanguis, quando de vena spicciat, idest exit.
 

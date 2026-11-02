@@ -237,14 +237,14 @@ Et bonus Sordellus in terram pertraxit digitum, faciens signum, dicendo: Videas,
 &emsp;Ch'aver si può dilecto dimorando.
 
 21 Tunc meus dux, quasi admirando:\
-&emsp;Duc nos igitur, dixit, illuc ubi dicis\
+&emsp;Duc nos, igitur, dixit, illuc ubi dicis\
 &emsp;Quod haberi potest delectatio commorando.
 
 22 Poco allungati c'eravam di lici,\
 &emsp;Quando m'accorsi che'l mont'era scemo,\
 &emsp;A guisa che e valloni sceman quici.
 
-22 Paucum elongati eramus inde,\
+22 Paucum elongati eramus inde\
 &emsp;Quando ego perpendi quod mons erat scemus,\
 &emsp;Ad similitudinem vallium hic concavarum.
 
@@ -270,7 +270,7 @@ Et bonus Sordellus in terram pertraxit digitum, faciens signum, dicendo: Videas,
 
 25 Aurum et argentum finum, coccum et biaccha,\
 &emsp;Indigum lignum lucidum et serenum,\
-&emsp;Recens smaragdum quando frangitur,
+&emsp;Recens smiragdum quando frangitur,
 
 26 Dall'herba e fiori dentro da quel seno\
 &emsp;Posti, ciascun saria di color vincto,\

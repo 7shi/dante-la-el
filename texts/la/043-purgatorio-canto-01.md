@@ -12,7 +12,7 @@ nec ego sum ligatus a Mynoi; ideo bene possumus ire per has vias: hic querit lib
 
 # Capitulum Primum
 
-1 Per correr meglior acqua alza le vele\
+1 Per correr meglor acqua alza le vele\
 &emsp;Omai la navicella del mio ingegno,\
 &emsp;Che lassa dietro a sè mar sì crudele.
 
@@ -192,10 +192,10 @@ Longam barbam et pilo albo mixtam portabat; suos capillos similiter, de quibus c
 
 15 Quis vos conduxit? quis fuit vobis lucerna,\
 &emsp;Exeundo extra de profunda nocte\
-&emsp;Qui semper obscuram facit vallem infernam?
+&emsp;Que semper obscuram facit vallem infernam?
 
 16 Son le leggi d'abisso così rocte?\
-&emsp;O è mutato in ciel nuovo consiglio,\
+&emsp;O è mutato in ciel nuovo consiglo,\
 &emsp;Che dannati venite a le mie grocte?
 
 16 Sunt leges abyssi ita rupte?\
@@ -224,7 +224,7 @@ Longam barbam et pilo albo mixtam portabat; suos capillos similiter, de quibus c
 
 19 Sed quia tuum velle est quod plus explicetur\
 &emsp;De nostra conditione, qualiter ipsa est vera,\
-&emsp;Esse non potest quod meum tibi denegatur.
+&emsp;Esse non potest quod meum tibi denegetur.
 
 20 Questi (3) non vide mai l'ultima sera,\
 &emsp;Ma per la sua follia le fu sì presso,\
@@ -262,7 +262,7 @@ Iste non vidit unquam ultimum sero; idest non vidit finem ultimi diei; idest non
 &emsp;Et hor intendo mostrarli li spirti\
 &emsp;Che purgan sè sotto la tua balìa.
 
-22 Monstravi ei totum gentem ream;\
+22 Monstravi ei totam gentem ream;\
 &emsp;Et nunc intendo monstrare ei illos spiritus\
 &emsp;Qui purgantur sub tua balya.
 
@@ -408,11 +408,11 @@ Sed si domina celi te movet et regit, sicut tu dicis, non est hic opus blanditii
 
 36 Postea non sit ab ista parte vester reditus;\
 &emsp;Sol vobis monstrabit, qui surgit ammodo,\
-&emsp;Ad apprehendere montem ad leviorem ascensum.
+&emsp;Ad apprehendere montem ad leviorem ascensum
 
 37 Così sparì; et io su mi levai\
 &emsp;Senza parlare, e tutto mi ritrassi\
-&emsp;Al duca mio, e gl'occhi a lui drizzai.
+&emsp;Al duca mio, e gl'ochi a lui drizzai.
 
 37 Sic disparuit; et ego sursum me levans,\
 &emsp;Sine loqui, et totum me retraxi\
@@ -452,7 +452,7 @@ Alba, idest adventus diei, vincebat horam matutinam, que fugiebat ante, ita quod
 
 <!-- p. 442 (0496) -->
 
-40 Noi andavàm per lo solingo piano\
+40 Noi andavàn per lo solingo piano\
 &emsp;Com'huom che torna a la perduta strada,\
 &emsp;Che in fin ad essa li par ir invano.
 

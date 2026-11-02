@@ -518,7 +518,7 @@ Rabanus est hic (fuit frater Bede, magnus poeta et sufficiens in Sacra Pagina), 
 
 48 Ad inveggiar cotanto paladino\
 &emsp;Mi mosse la infiammata cortesia\
-&emsp;Di fra Tommaso, e ‘l discreto latino;\
+&emsp;Di fra Tommaso, e 'l discreto latino;\
 &emsp;E mosse meco questa compagnia.
 
 48 Ad invidendum tanto palatino\

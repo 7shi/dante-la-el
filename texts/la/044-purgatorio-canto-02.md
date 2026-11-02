@@ -392,7 +392,7 @@ Veraciter a tribus mensibus ipse accepit quemcumque, qui voluit intrare cum tota
 
 36 Et io: Se nuova legge non ti togle\
 &emsp;Inamoroso all'amoroso canto,\
-&emsp;Che mi solea quetar tutte mie voglie,
+&emsp;Che mi solea quetar tutte mie vogle,
 
 36 Et ego dixi: Si nova lex tibi non subtrahit\
 &emsp;Memoriam et usum in amoroso cantu,\
@@ -404,7 +404,7 @@ Veraciter a tribus mensibus ipse accepit quemcumque, qui voluit intrare cum tota
 
 37 De hoc tibi placeat consolari aliquantulum\
 &emsp;Animam meam, que, cum sua persona\
-&emsp;Veniendo huc, est fatigata tantum.
+&emsp;Veniendo huc, e[s]t fatigata tantum.
 
 ista verba dixit Casella, tunc erat decimoctava dies martii illius anni; ita quod a tribus mensibus Deus benigne recepit omnes peccatores redeuntes ad penitentiam.
 
@@ -446,7 +446,7 @@ Et ego, scilicet dixi, ad eum. E io: Se nova legge: hec est quarta pars huius ca
 
 41 Qualis negligentia, quale stare est istud?\
 &emsp;Currite ad montem ad expoliandum vos scorium,\
-&emsp;Quod esse non permittit vobis Deum manifestum.
+&emsp;Quod esse non permictit vobis Deum manifestum.
 
 42 E come, ricoglendo biada o gioglo (2),\
 &emsp;Li colombi adunati a la pastura,\
@@ -460,7 +460,7 @@ Et ego, scilicet dixi, ad eum. E io: Se nova legge: hec est quarta pars huius ca
 &emsp;Subitamente (3) lassano star l'escha,\
 &emsp;Perch'assaliti son da maggior cura;
 
-43 Si res apparet unde ipse habeant pavorem.\
+43 Si res apparet unde ipse habeant pavorem,\
 &emsp;Subito permictunt stare escam,\
 &emsp;Quia illas aggressa est maior cura;
 
@@ -480,7 +480,7 @@ Amorem, qui mente mea ratiocinatur, idest loquitur vel in me viget, incepit ipse
 
 Magister meus et ego et illa gens, vel ille gentes, que erant cum ipso, apparebant ita contenti, ac si nulli tangeret aliud mentem, idest ac si in nulla alia re essemus occupati.
 
-Nos ibamus omnes fixi et attenti suis notis, idest suo cantui; et ecce antiquus honestus, scilicet Chato, clamando: Quid est hoc, o spiritus lenti, idest pigri? Qualis negligentia (bonus corrector fuit in isto loco Catho, qui, prout dicit Valerius Maximus, necdum factis aut verbis, sed etiam apparentia eius, vetabat turpia de theatro), quale stare est istud? Currite ad montem ad expoliandum vos scorium, lolium, idest pondus, vel sarcinam, peccatorum, idest ad purgandum vos de peccatis vestris, que privant vos de cognitione Dei, vel visione, quod esse non permittit vobis Deum manifestum.
+Nos ibamus omnes fixi et attenti suis notis, idest suo cantui; et ecce antiquus honestus, scilicet Chato, clamando: Quid est hoc, o spiritus lenti, idest pigri? Qualis negligentia (bonus corrector fuit in isto loco Catho, qui, prout dicit Valerius Maximus, necdum factis aut verbis, sed etiam apparentia eius, vetabat turpia de theatro), quale stare est istud? Currite ad montem ad expoliandum vos scorium, lolium, idest pondus, vel sarcinam, peccatorum, idest ad purgandum vos de peccatis vestris, que privant vos de cognitione Dei, vel visione, quod esse non permictit vobis Deum manifestum.
 
 Ponit comparationem, quomodo isti obedierunt Cathoni. Sicut quando colligendo bladium, vel lolium (lolium est purgatura frumenti, et est species segetis et bladi), columbe adunate ad pasturam, quiete, sine monstrare consuetam audaciam (quia columbe in cantando ostendunt quandam audaciam), si res appareat, unde ipse habeant pavorem, subito permictunt stare istam, quia illas aggressa est maior cura, idest fugiendi; sic vidi ego illam multitudinem recentem, idest novam, quia novitus venerant illuc, dimictere cantum et ire versus costam, idest montem, sicut homo qui vadit, nec scit quo perveniat, idest ad quem locum debet pervenire, quia est talis loci ignarus. Sic homo qui ingreditur Purgatorium morale, idest qui incipit penitere, sive penitentiam, quia nescit adhuc finem suum.
 

@@ -189,7 +189,7 @@ O quantum apparuit michi grande mirum, quando ego vidi tres facies suo capiti! u
 &emsp;Vele di mar non vidi mai cotali.
 
 16 Sub qualibet exibant due grandes ale,\
-&emsp;Quantum conveniebant tante avi:\
+&emsp;Quantum conveniebant tante avi;\
 &emsp;Vela maris non vidi unquam talia.
 
 17 Non havean penne, ma di vispistrello\
@@ -202,14 +202,14 @@ O quantum apparuit michi grande mirum, quando ego vidi tres facies suo capiti! u
 
 18 Quindi Coccito tucto s'aggelava (1):\
 &emsp;Con sei occhi piangeva, e con tre (2) menti\
-&emsp;Gocciava ‘l pianto (3) e sanguinosa bava.
+&emsp;Gocciava'l pianto (3) e sanguinosa bava.
 
 18 Inde Cocitus totus congelabatur:\
 &emsp;Cum sex oculis plangebat, et per tria menta\
 &emsp;Guctabat planctum et sanguinolentem bavam.
 
 19 Da ogni bocha dirompea (4) coi denti\
-&emsp;Un peccatore, a guisa di maciulla (5)\
+&emsp;Un peccatore, a guisa di macciulla (5),\
 &emsp;Sì che tre (6) ne facea così dolenti.
 
 19 Ab omni ore disrumpebat cum dentibus\
@@ -217,7 +217,7 @@ O quantum apparuit michi grande mirum, quando ego vidi tres facies suo capiti! u
 &emsp;Ita quod tres faciebat sic dolentes.
 
 20 A quel dinanzi el morder era nulla,\
-&emsp;Verso (7) ‘l graffiar, che talvolta la schiena (8)\
+&emsp;Verso (7)'l graffiar, che talvolta la schiena (8)\
 &emsp;Rimanea de la pelle tutta brulla (9).
 
 20 Illi anteriori mordere nihil erat,\
@@ -225,14 +225,14 @@ O quantum apparuit michi grande mirum, quando ego vidi tres facies suo capiti! u
 &emsp;Rema[ne]bant de pelle tote brulle.
 
 21 Quell'anima lassù c'ha maggior pena,\
-&emsp;Disse ‘l maestro, è Giuda Scariocto,\
-&emsp;Che ‘l capo à dentro (10), e fuor le ghambe mena.
+&emsp;Disse'l maestro, è Giuda Scariocto,\
+&emsp;Che'l capo à dentro (10), e fuor le ghambe mena.
 
 21 Illa anima superior que habet maiorem penam,\
 &emsp;Dixit magister, est Iudas Scariothi,\
 &emsp;Qui habet caput intro, et extra crura ducit.
 
-22 Degl'altri due c'hanno ‘l capo di socto,\
+22 Degl'altri due c'hanno'l capo di socto,\
 &emsp;Quel che pende dal ceffo nero (11) è Bruto (12);\
 &emsp;Vedi come si storce (13), e non fa mocto:
 

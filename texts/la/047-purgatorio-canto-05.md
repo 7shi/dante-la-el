@@ -310,7 +310,7 @@ Inde ego fui; sed scilicet profunda foramina, unde exivit sanguis, super quo ego
 &emsp;Me apprehenderunt, ita quod ego cecidi, et ibi vidi ego\
 &emsp;De meis venis fieri in terra lacum.
 
-29 Poi diss' un' altro: De, se quel desio,\
+29 Poi diss' un altro: De, se quel desio,\
 &emsp;Si compia che ti tragge all'alto monte,\
 &emsp;Con pietà buona ancor aiuta el mio (2).
 
@@ -352,7 +352,7 @@ Postea dixit unus alter: De, si illud desiderium adimpleatur, quod te trahit ad 
 &emsp;Traversa un'acqua ch'à nome l'Archiano,\
 &emsp;Che sovra l'Hermo nasce in Appennino.
 
-32 O, respondit ipse, ad pedes Casentini,\
+32 O, respondit ipse, ad pedes Casentini\
 &emsp;Pertransit una aqua que vocatur Archianum,\
 &emsp;Que supra Heremum nascitur in Appennino.
 
@@ -360,7 +360,7 @@ Postea dixit unus alter: De, si illud desiderium adimpleatur, quod te trahit ad 
 &emsp;Arriva'io forato ne la gola,\
 &emsp;Fuggendo a piedi e 'nsanguinando il piano.
 
-33 Ubi vocabulum suum devenit vacuum\
+33 Ubi vocabolum suum devenit vacuum\
 &emsp;Apuli ego foratus in gula.\
 &emsp;Fugiendo pedes et sanguine fedans planum.
 

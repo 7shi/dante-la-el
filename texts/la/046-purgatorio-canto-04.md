@@ -57,7 +57,7 @@ Circa primam partem huius capituli notandum est, quod in hoc capitulo tractatur 
 &emsp;Quest'è quasi legata, e quell'è sciolta.
 
 4 Quia alia est potentia que auscultat,\
-&emsp;Et alia est que animam integrat:\
+&emsp;Et alia est que animam integrat;\
 &emsp;Ista est quasi ligata, et illa est soluta.
 
 5 Di ciò ebb'io experientia vera,\
@@ -76,7 +76,7 @@ Circa primam partem huius capituli notandum est, quod in hoc capitulo tractatur 
 &emsp;Venimus ubi anime ille una\
 &emsp;Clamaverunt ad nos: Hic est vestra petitio.
 
-7 Maggior aperte molte ha facto impruna,\
+7 Maggior aperte molte ha facto (1) impruna,\
 &emsp;Con una forcutella di sue spine,\
 &emsp;Huom de la villa, quando l'uva imbruna,
 
@@ -113,7 +113,7 @@ Maiorem aperturam, introytum vinee vel campi, millies imprunat, idest cum spinis
 &emsp;Con esso piè: ma qui convien ch'huom voli;
 
 9 Itur in Sanctum Leonem, et descenditur in Nolim;\
-&emsp;Ascenditur in Bismantuam et in Cacumen,\
+&emsp;Ascenditur in Biasmantuam et in Cacumen,\
 &emsp;Cum pedibus: sed hic convenit quod homo volet;
 
 10 Dico coll'hale snelle e colle piume\
@@ -254,9 +254,9 @@ Oculos prius direxi ad lictora yma, postmodum illos elevavi ad solem, et admirab
 
 22 Tu yederesti 'l zodiaco rubechio\
 &emsp;Ancor a l'Orse più stretto rotare,\
-&emsp;Se non uscisse fuor del cammin vecchio.
+&emsp;Se non uscisse fuor del cammin vechio.
 
-22 Tu videres zodiacum rubechium\
+22 Tu videres zodiacum rubecchium\
 &emsp;Adhuc ad Ursas strictius rotare,\
 &emsp;Nisi exiret extra iter antiquum.
 
@@ -266,7 +266,7 @@ Oculos prius direxi ad lictora yma, postmodum illos elevavi ad solem, et admirab
 
 23 Quomodo hoc sit, si tu vis id posse cogitare,\
 &emsp;Intra te intentus, ymagineris Syon\
-&emsp;Cum isto monte super terram stare.
+&emsp;Cum isto monte super terram stare
 
 24 Sì, ch'amendue han un sol oryzon,\
 &emsp;E diversi hemisperii: onde la strada,\
