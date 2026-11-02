@@ -23,8 +23,8 @@ more errors found in the same lines and by the searches they led to (DONE.md, "C
 **Next**, in this order (each below, under "Checks"):
 
 1. **Verse check**: the text only (step 0) is done; every line of the Latin and of the
-   Italian verse is read again from the image (steps 1–4): batches 1–6 done, then
-   batches 7–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
+   Italian verse is read again from the image (steps 1–4): batches 1–7 done, then
+   batches 8–11, the Italian by la-el-agy and the Latin by la-el-agy2 (line images in
    batch 2, page images from batch 3; step 3).
 2. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
    with the user how the extent is set; then the scope, the marks and the scripts that read
@@ -330,6 +330,26 @@ compared with the print only: the edition's Italian is one manuscript's
      reader's `nòi`); the file keeps `noi`, as 0527 `mio`.
    - `la_check.py` over 0587–0692 and `la_seqcheck.py` give the same output.
 
+   **Batch 7** (0693–0812; done, 2026-11-02):
+   - Latin: 1,473 lines read, 7 differ in words, 7 more in punctuation. 3 misread
+     (`ammannat`, 0724 `Et, quare`, 0792 `[cta est,`). 3 misprints (Suspected misprints:
+     0709 `Etipse`, 0734 `tanctum`, 0745 `tor tam`). Reader errors: no tercet numbers; 3
+     words (`planetas`, `cara`, `Feriebat`), 5 punctuation marks (0770 and 0777 a period
+     made a comma, 0746 `adhuc ?` closed up, 0747 the mark of `operandum·est` and 0807
+     the dot of `rideo,.` left out).
+   - Italian: 1,465 lines read; apart from the tercet numbers, 21 differ in words, 12 more
+     in punctuation. 12 misread: letters (`ripiglammo`, `miglor`, `agl'ucellin`,
+     `s'affigge`, `c'affigghono`, `maravigla`), accents (`ch'ànno`, `ridiàn` added),
+     0805 `Avegna che` (was `Avegnache`), 3 punctuation marks (0742 `oggimai,chè` without
+     a space, as printed). 3 misprints (Suspected misprints: 0725 `(9,` and 0737 `(12.`
+     without the closing parenthesis, 0753 `si munta`). Reader errors: the tercet numbers
+     left out on every page from 0752 on (242 lines; `la_seqcheck.py` checks them against
+     the Latin); 12 words (`repetiam`, `insieine`, `dì'`, `hymno` ×2, `Lemosì`, `'ntesi`;
+     specks read as marks: 0712 `decrèto`, 0772 `Ché`, 0781 and 0805 `chę`, 0805
+     `fiumícel`), 7 punctuation marks (0722 a period made a comma, six gloss marks closed
+     up to the word, which the rules space).
+   - `la_check.py` over 0693–0812 and `la_seqcheck.py` give the same output.
+
    **Per batch**: the crops in `tmp/la-verse/bN/` (Latin) and `tmp/la-verse/bN-it/`
    (Italian); the Italian task to la-el-agy, the Latin to la-el-agy2, each carrying the
    feedback on its previous batch, sent only on the user's signal. The readings are first
@@ -589,6 +609,12 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0639 | 27 | `Quando in Farentia` | `Faventia` | Latin verse (Italian `Faenza`); an italic `r` for `v`, unlike the `v` of `parve` below; found by the verse reading. |
 | 0647 | 25 | `Ex co quia per nos` | `eo` | Latin verse; an italic `c` without the eye, as 0085 `co`; found by the verse reading. |
 | 0652 | 9 | `chinarsi (3)` | `chinarsi (8)` | Italian verse 37; gloss mark `(3)` for `(8)`, whose note is `in ginocchione` (the `(3)` of the page is `lapidare`); found by the verse reading. |
+| 0709 | 32 | `14 Etipse:` | `Et ipse` | Latin verse; no space between the words; found by the verse reading. |
+| 0725 | 16 | `[Achylle (9,` | `(9),` | Italian verse runover; the closing parenthesis of the gloss mark not printed; found by the verse reading. |
+| 0734 | 47 | `postmodum tanctum sancti` | `tantum` | Latin verse 28; found by the verse reading. |
+| 0737 | 21 | `[de (12.` | `(12).` | Italian verse runover; the closing parenthesis not printed, as 0725; found by the verse reading. |
+| 0745 | 49 | `ipsam ita tor tam` | `tortam` | Latin verse; a space inside the word; found by the verse reading. |
+| 0753 | 12 | `da ch'è si munta` | `sì` | Italian verse; no accent; found by the verse reading. |
 
 ## Known limits
 
