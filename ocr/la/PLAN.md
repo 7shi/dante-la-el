@@ -43,8 +43,20 @@ The checks list candidates by script, and every candidate is decided in the imag
 - **other**: not a reading at all (a split word, a name, Italian in the Latin); recorded.
 
 The decisions are kept in a table per check in `ocr/la/` (`lemmacheck.tsv`,
-`versecheck.tsv`, `lexcheck.tsv`: `page line form decision note`), committed with the fixes, so that a
-rerun lists only new candidates (matched by page and form, as line numbers shift). The scripts read the table and leave out what is decided.
+`versecheck.tsv`, `lexcheck.tsv`: `page line form decision note`), committed with the
+fixes. What each table holds and who reads it:
+
+- `lemmacheck.tsv` (check 1): only the candidates decided `printed`; a misread candidate was
+  corrected and is no longer a candidate. `la_lemmacheck.py` reads it and leaves out what is
+  decided (matched by page and form, as line numbers shift), so a rerun lists only new
+  candidates.
+- `versecheck.tsv` (verse check): every decided line, `misread` (corrected; the note has
+  the old form, `was …`), `misprint` and `printed` (mostly the lines listed by step 0). A
+  record only: `la_versecheck.py` compares every line and does not read it.
+- `lexcheck.tsv` (check 2): to be written as `lemmacheck.tsv`, read by `la_lexcheck.py`.
+
+The misprints are gathered in "Suspected misprints" whatever found them (the markup, a
+check, by chance); a `misprint` row of a table is also a row there.
 
 Order: check 1 (lemmas) first, as its candidates were fewer and surer; then the verse
 check, with the same procedure while it was fresh (both done); then the italics, which start
