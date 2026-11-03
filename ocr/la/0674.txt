@@ -60,8 +60,8 @@ nobiscum sicut homo facit secum (idest se largitur sine
 prece, idest non requisitus, sicut homo iustus et caritativus,
 qui absque hoc quod rogetur, videns necessitatem proximi,
 se sine sua requisitione largitur); [quia qui expectat pre-
-cem et necessitatem videt], ille maligne iam se mictit al
-niego, idest ad negationem; idest ille, qui vidit necessita-
+cem et necessitatem videt], ille maligne iam se mictit *al*
+*niego*, idest ad negationem; idest ille, qui vidit necessita-
 tem proximi et expectat rogari de subventione, nimis cru-
 delis est, qui sic expectat rogari; nam talis expectatio est
 quoddam genus negationis.
@@ -90,7 +90,7 @@ tiles autem intelligit de ira temperata, scilicet quando
 quis irascitur ubi et quomodo et cuius gratia oportet. Et
 tunc talis ira bona est.
 
-Iam erant supra nos. Già eran supra noi: ista est tertia
+*Iam erant supra nos*. *Già eran supra noi*: ista est tertia
 pars huius capituli, in qua auctor subtiliter investigat unde
 oritur accidia et quasi omnia vitia capitalia, ymo omnes
 actus meritorii et demeritorii. Et nota quod sicut in un-

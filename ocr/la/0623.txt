@@ -37,7 +37,7 @@ Esse semper debent tui radii duces.
 Tantum ab illa parte iveramus nos iam,
 Cum pauco tempore, propter voluntatem promptam.
 
-communiter occultum, idest pallidum (lividum, idest pal-
+communiter occultum, idest pallidum (*lividum*, idest pal-
 lidum); et licet invidia sit communiter occulta, tamen ali-
 quando discooperitur per colorem lividum; quia quando
 invidus videt felicitatem alienam, livet in facie: et sic ali-
@@ -94,7 +94,7 @@ vidi et vanagloriosi; ideo, ex quo tam diffuse in tribus ca-
 pitulis superioribus tractavit de vitio superbie et vanaglo-
 rie, sue filie, ideo hic distincte tractat de invidia.
 
-Quantum ab hinc: hec est secunda particula huius
+*Quantum ab hinc*: hec est secunda particula huius
 capituli, in qua auctor distinguit et ponit in generali
 penam et purgationem invidorum; ideo auctor fingit se
 audivisse voces importantes oppositum invidie, scilicet vo-

@@ -14,7 +14,7 @@ Que semper ad similitudinem pueri ludit,
 Soli sui cursus remansisse;
 Vesperum ibi et hic media nox erat.
 
-Quantum ab ultimatione. Quanto de ultimare: istud
+*Quantum ab ultimatione*. *Quanto de ultimare*: istud
 est quintumdecimum capitulum huius Purgatorii, in quo
 purgatur vitium ire; in quo intrabit auctor tertium cir-
 culum Purgatorii, qui tertius circulus dicitur locus ubi
@@ -58,7 +58,7 @@ iam versus sero soli sui cursus remansisse; vesperum ibi
 et hic media nox erat. Vult dicere quod quantum spatium
 est a solis ortu usque ad horam tertiam, tantum erat tunc
 adhuc de die usque ad occasum solis; et sic erat hora
-vespertina ibi ubi erat auctor, et in emispirio anthartico
+vespertina ibi ubi erat auctor, et in emispirio authartico
 erat media nox.
 Sed hic oritur dubium: quod videtur, secundum multa
 predicta, quod, quando est meridies in emispirio inferiori,
@@ -71,4 +71,4 @@ quo Christus fuit crucifixus, si quis esset in Hierusalem sic
 sibi accideret: et sic est tenendum, quod semper hore se
 per oppositum habent hiis qui sunt in Hierusalem, et hiis
 qui essent ibi in monte illo Purgatorii: sic [ibi] vesperum,
-et hic media nox. Accipit auctor hic pro quinto climate,
+et hic media nox. Accipit auctor *hic* pro quinto climate,

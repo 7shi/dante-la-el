@@ -63,8 +63,8 @@ Meo ardori fuerunt semen faville, que me calefecerunt
 de divina flamma, unde sunt illuminati plusquam mille
 (dicta Virgilii sunt faville calide, et resplendentes. Dicit
 hic magister Benvenutus de Ymola, qui bene scripsit super
-Dantem, quod in textu istius ternarii, non debet dici semen,
-sed debet dici, sceme faville, idest diminute et vacue. Multi
+Dantem, quod in textu istius ternarii, non debet dici *semen*,
+sed debet dici, *sceme faville*, idest diminute et vacue. Multi
 sunt illuminati a dictis Virgilii, qui[a] libri Virgilii fecerunt
 multos valentes. Dragma est species ponderis satis parvi);
 Eneydos dico, que mamma, idest mater, michi fuit, nutrix
@@ -87,13 +87,13 @@ scilicet homo non potest facere quod abstineat se a risu, sive
 a ridendo vel a plangendo. Quia risus et planctus sunt ita
 sequaces, sive tantum ad paxionem quilibet applicatur,
 quod minus sequitur voluntates, nec plus veraces ad pas-
-sionem scilicet Risus et planctus:[risus] sequitur gaudium,
-et planctus dolorem sive tristitiam. Nec plus veraces: idest
+sionem scilicet *Risus et planctus*:[risus] sequitur gaudium,
+et planctus dolorem sive tristitiam. *Nec plus veraces*: idest
 quando tu habes magnam materiam ridendi vel plangendi,
 non potes abstinere quin rideas vel plores. Anima, voluntas
 prudens, vellet refrenare risum vel planctum et non potest.
 
-Ego tamen subrisi. Io pure subrisi: hec est quarta
+*Ego tamen subrisi*. *Io pure subrisi*: hec est quarta
 pars huius capituli, in qua auctor manifestat Statio Virgi-
 lium. Ego tamen subrisi (quasi dicat, quod non est de more
 meo: raro Dantes ridebat, quod [est], ut dicit Ioannes Boc-

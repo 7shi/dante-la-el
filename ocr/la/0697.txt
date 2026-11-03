@@ -74,8 +74,8 @@ Dat auctor comparationem. Quis potest ad describendum
 tam vocem angeli quam etiam alas suas? Cum alis apertis,
 que apparebant cigni, volvit nos sursum ille qui sic lo-
 cutus est nobis, inter duos parietes duri macigni. Cignus
-est avis albissima, ad denotandum puritatem angeli. Ma-
-cigni, idest duri silicis, sive lapidis: quia illa via erat
+est avis albissima, ad denotandum puritatem angeli. *Ma-*
+*cigni*, idest duri silicis, sive lapidis: quia illa via erat
 excisa in saxo, ita quod saxum habet parietes ex utraque
 parte, quousque pervenitur in quintum circulum; demum
 postea non est paries nisi ex una parte.
@@ -89,7 +89,7 @@ dia. Matthei quinto habetur: Beati qui lugent, quoniam ipsi
 consolabuntur: idest, Beati qui lugent peccatum accidie,
 qui lugent se fuisse pigros et tardos et negligentes erga
 Deum, primum su[mm]um ens, etc., quoniam consolabuntur.
-Animas domns: idest potestatem et vim consolandi se.
+*Animas domns*: idest potestatem et vim consolandi se.
 
 Quid habes, quod solum versus terram respicis? dux
 meus incepit michi dicere, modicum ambo ab angelo sur-

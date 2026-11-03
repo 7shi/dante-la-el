@@ -53,7 +53,7 @@ illos montes, imprecans ut nec pluvia nec ros unquam de-
 scenderet super illos montes; et sic factum est a Domino
 Deo, et sic illi montes sunt sterilissimi.
 
-O fol. Ista est una hystoria poetica. Una mulier, vocata
+*O fol*. Ista est una hystoria poetica. Una mulier, vocata
 Aragnes, sive Aranea, fuit nata in Athenis. Solempnis
 textrix, optime texebat, et fuit tempore Minerve, que fuit
 regina Athenarum, que fuit ingeniosissima mulierum mundi,
@@ -78,7 +78,7 @@ subito telam. Hystoria poetica patet in Metamorphoseos
 Ovidii.
 
 O Roboam, iam non apparet quod mineris: ibi est tuum
-signum; sed plenum di sparento, idest pavefactione, vel
+signum; sed plenum *di sparento*, idest pavefactione, vel
 pavore, illud portat unus currus, sine quod alius illum
 impellat. Iste Roboam fuit filius Salomonis regis, filii
 David: qui Roboam, mortuo patre, fuit rogatus a senio-

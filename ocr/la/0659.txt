@@ -70,7 +70,7 @@ cecos, sicut de iratis ad iratos [qui] hic purgabantur, et di-
 cit: Sicut cecus vadit retro suum ducem, ut non deviet, vel
 ut non det de capite in rem, que ipsum molestet vel forsan
 occidat (quasi dicat: Omnis iratus est cecus et plusquam
-cecus, quia amisit lumen rationis. Dicit, occidat: hoc dicit
+cecus, quia amisit lumen rationis. Dicit, *occidat*: hoc dicit
 propter illud quod tactum est in Inferno, scilicet quod
 iracundi se percutiunt invicem, dilaniant membratim. Scri-
 bit Titus de quodam Tholomeo rege Egypti, veniente ad
@@ -78,9 +78,9 @@ discordiam cum uxore sua, et repellens eam: Accepit filium
 suum natum ex ea, et dilaceratum proiecit in mari. Dicit
 Titus quod hoc fecit, putans quod magis attingeret filius
 matri quam patri); sic ibam ego per aierem amarum et
-putridum, idest sozzum, idest turpem, vel obscurum, au-
+putridum, idest *sozzum*, idest turpem, vel obscurum, au-
 scultando meum ducem, qui dicebat semper: Cave quod a
-me tu non sis mozzus, idest abscissus, vel quod a me non
+me tu non sis *mozzus*, idest abscissus, vel quod a me non
 separeris, vel discedas: idest cave, ne ex aliquo impetu ire
 tu devies a rectitudine rationis.
 

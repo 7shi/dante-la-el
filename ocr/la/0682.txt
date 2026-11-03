@@ -22,8 +22,8 @@ Nimium interrogare, quod ego facio, ipsum gravat.
 De timido velle quod non apparebat,
 Loquendo, loquendi audaciam michi porrexit.
 
-Posuerat finem suo ratiocinio. Posto avea fin al suo
-ragionamento: istud est decimumoctavum capitulum
+*Posuerat finem suo ratiocinio*. *Posto avea fin al suo*
+*ragionamento*: istud est decimumoctavum capitulum
 istius Purgatorii, in [quo], ex quo in superiori capitulo
 ostendit auctor, quod omnes actus meritorii et demeritorii,
 omnes virtutes et vitia, omnia ortum habent amore, in isto

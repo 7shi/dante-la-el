@@ -41,7 +41,7 @@ Unum ante me esse percussum,
 Ex quo ad fugiendum mea visio fuit cita.
 
 in quo erat auctor quando composuit istum librum; et
-credendum est quod auctor per hoc, adverbium loci, hic,
+credendum est quod auctor per hoc, adverbium loci, *hic*,
 intelligit de Ravenna et Verona, in quibus civitatibus com-
 posuit hoc opus. Et hoc satis ymaginabile est, quia in Hie-
 rusalem est quasi semper equinoctium: quod non sic accidit
@@ -104,6 +104,6 @@ geometria, quod omne corpus mundum, percussum a radiis
 luminis, reiicit radios et sic fit reflexio); sic michi fuit visum
 a luce refracta unum ante me esse percussum, ex quo ad
 fugiendum mea visio fuit cita, idest oculi mei fuerunt
-festini. Racta, idest cita.
+festini. *Racta*, idest cita.
 
 75
