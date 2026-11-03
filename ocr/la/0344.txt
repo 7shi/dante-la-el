@@ -50,8 +50,8 @@ flumen Arni, in grandi villa (hic loquitur auctor more Gal-
 licorum, qui vocant civitates, villas): ego nunquam fui ypo-
 crita, et sum cum corpore quod semper habui. Sed vos qui
 estis, quibus tantum distillat, quantum ego video, dolor
-infra per genas; et que pena est in vobis, que sic vos fa-
-villat, idest cruciat? Quia perpendebat auctor per actus
+infra per genas; et que pena est in vobis, que sic vos *fa-*
+*villat*, idest cruciat? Quia perpendebat auctor per actus
 exteriores, quod isti erant valde onerati, et ibant sicut
 unus sub nimio et inepto pondere totus tremens. Videntur
 disiungi. Et quis cogitaret quod isti, qui videntur sancti,
@@ -59,12 +59,12 @@ sint adeo penati?
 
 Et unus respondit michi: Cappe rance, rubiginate, alias
 deaurate, sunt de plumbo, ita grosse, quod pondera faciunt
-ita cicolare, idest sonare, eorum bilantias, idest lances.
+ita *cicolare*, idest sonare, eorum bilantias, idest lances.
 Loquitur hic auctor per similitudinem. Bilantie, idest lances,
 sunt instrumentum ad ponderandum, et quando habent
 pondus ex una parte maius quam in alia, oportet quod illa
 pars, in qua est maius pondus, descendat, et descendendo
-causatur sonus, qui dicitur cicolare: sic tremebant membra
+causatur sonus, qui dicitur *cicolare*: sic tremebant membra
 istorum ypocritarum sub istis cappis.
 
 Fratres Gaudentes fuimus, et bononienses, ego Cathel-
@@ -85,7 +85,7 @@ runt destructe, que erant in Gardingo, idest ubi nunc est
 palatium Priorum et Capitanei atque Executoris, prope ec-
 clesiam Sancti Petri in Scheragio.
 
-Ego incepi: ista est quarta pars huius capituli, in qua
+*Ego incepi*: ista est quarta pars huius capituli, in qua
 describuntur aliqui antiqui spiritus, qui fuerunt causa et
 radix ypocrisis, et in qua auctor, tamquam indignatus de
 malis operibus istorum, loquitur quasi suspensive, dicens:

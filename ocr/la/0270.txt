@@ -10,8 +10,8 @@ Ecco colei che tutto 'l mondo appuzza:
 Que transit montes, et rumpit arma et muros;
 Ecce illam que totum mundum appuzzat:
 
-Ecco la fiera con la coda. Ecce feram cum cauda
-acuta: istud est decimumseptimum capitulum huius In-
+*Ecco la fiera con la coda*. *Ecce feram cum cauda*
+*acuta*: istud est decimumseptimum capitulum huius In-
 ferni, in quo auctor vult describere fraudem per figuram
 unius feri animalis et complere materiam violentie, scilicet
 loqui de usuris; et demum intrabit circulum fraudulentie.
@@ -35,9 +35,9 @@ E dixit: Gerion, moveas te,
 
 describit transportationem, scilicet quomodo Gerion tran-
 sportabat eos ad aliud fossum.
-Dicit igitur: Ecco la fiera, ecce feram cum cauda acuta,
+Dicit igitur: *Ecco la fiera*, ecce feram cum cauda acuta,
 que transit montes, idest perforat e[t] rumpit arma et mu-
-ros; ecce illam, que totum mundum appuzzat, idest inficit.
+ros; ecce illam, que totum mundum *appuzzat*, idest inficit.
 Hic sunt multa notanda: primo, quod Gerion fuit unus
 magnus rex in Hyspania, qui possidebat tria regna, Ca-
 stelle, Gallitie et Navarre. Erat homo fallax et dives, de-

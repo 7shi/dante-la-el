@@ -52,8 +52,8 @@ certe, nec finis, ideo auctor eos in circum ire per compa-
 rationem describit. Auctor circulationem istorum describit,
 dicens: Qualem, scilicet rotam, solebant facere campiones,
 idest in campo certantes, nudi et uncti, considerando eorum
-partem et illorum vantagium, idest prerogativam, prius-
-quam sint inter seipsos batuti, idest verberati et puncti,
+partem et illorum *vantagium*, idest prerogativam, prius-
+quam sint inter seipsos *batuti*, idest verberati et puncti,
 idest antequam incipiant pugnare.
 Nota quod antiquo tempore, in Grecia prope Olimpum,
 fiebant varii ludi et multi veniebant ad pugnandum et ad
@@ -67,10 +67,10 @@ volvebat faciem ad auctorem, ut secum loqueretur, et quod
 ipse eos intelligeret; et sepe facies eorum volventium erat
 contraria pedibus eorumdem. Ideo dicit textus: Sic rotando,
 quelibet visum dirigebat ad me, ita quod in contrarium
-faciebat pedibus continuum viagium, idest contra iter ver-
+faciebat pedibus continuum *viagium*, idest contra iter ver-
 tebant collum.
 
-Et se miser[i]a. Et si miseria: ista est secunda pars
+*Et se miser[i]a*. *Et si miseria*: ista est secunda pars
 huius capituli, in qua auctor introducit unum ipsorum ad
 loquendum, qui manifestat se ipsum, et sotios, dicentem
 deprecationem.
@@ -85,7 +85,7 @@ sumus positi, tum propter horribilem aspectum nostrum,
 quia sumus semicocti; sed si hoc nobis obstat, quod tu
 non loquaris nobis, saltem ad loquendum nobis moveat
 te fama nostra, tuum animum plicet, idest moveat, sive
-clinet, ad dicendum nobis quis tu es, qui vivos pedes ita
+*clinet*, ad dicendum nobis quis tu es, qui vivos pedes ita
 securus per Infernum fricas, idest trahis, ducis. Nam sic
 appares amicus Dei, vadens cum tanta prerogativa vivus,
 quod est ultra omnem consuetudinem, quod quis vivus
@@ -94,9 +94,9 @@ faciendum voluntatem illorum, manifestat se et sotios suos
 antequam auctor respondeat, dicendo: Iste, cuius vestigia
 tu me scalpitare vides, quamquam nudus et depilatus
 vadat, fuit maioris gradus quam tu credas. Incipit a no-
-biliori. Scalpitare vides vestigia, quia ipse precedit, et
+biliori. *Scalpitare* vides vestigia, quia ipse precedit, et
 ego eum sequor; ideo sua vestigia, idest pedum eius, ego
-scalpito, idest pedibus super ipsa vado. Nam in arena
+*scalpito*, idest pedibus super ipsa vado. Nam in arena
 faciliter fiunt vestigia, et sic iste, qui loquebatur, scilicet
 Iacobus Rustitutii, erat in medio, Guido precedebat, et
 Thygnaus sequebatur. Et nepos fuit bone Guldrate: Guido-
@@ -106,5 +106,5 @@ arenam terit, idest tritat, est Thygnaus de Aldobrandi,
 cuius vox in superiori mundo deberet esse gradita, idest
 gratuita.
 
-Ego qui positus sum cum ipsis in cruce: idest in tali
+*Ego qui positus sum cum ipsis in cruce*: idest in tali
 martyrio, Iacobus Rusticutii fui; et certe fera uxor plus-

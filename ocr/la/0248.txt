@@ -71,7 +71,7 @@ extendit, fixi oculos per coctum aspectum, idest respexi
 faciem suam, coctam flammis; ita quod visus adustus non
 defendit, idest non abscondit, vel retraxit, cognitionem
 suam, idest sui, meo intellectui, licet haberet faciem defor-
-matam, quia erat brusciata, idest combusta. Quasi dicat:
+matam, quia erat *brusciata*, idest combusta. Quasi dicat:
 Virtus facit adhuc se cognosci, quantumcumque sit in ho-
 mine involuto in vitiis, si habet aliquam singularem vir-
 tutem et excellentem.
@@ -88,14 +88,14 @@ ciebat, quod nimis presumebat de se ipso. Semel commisit
 unum errorem in una carta, in uno instrumento, et fuit
 ita obstinatus, quod, antequam vellet confiteri se male fe-
 cisse, vel ex inadvertentia, vel alio modo se excusare, quod
-poterat bene facere, per prius se permisit banniri, et per
+poterat bene facere, per prius se permisit *banniri*, et per
 prius voluit pati exilium cum pena ignis; sed ignem, quem
 tunc vitavit, quando fugit de Florentia, hic in isto sabulo
 invenit et habet.
 
 Et ille michi, idest dixit: O fili mi, non tibi displiceat
 ser Brunectus Latinus (sic erat nomen suum): aliquan-
-tulum secum redeas retro, et permicte ire tracciam, idest
+tulum secum redeas retro, et permicte ire *tracciam*, idest
 aciem, vel multitudinem.
 
 Ego dixi ad eum: Quantum possum vos precor; et si vultis

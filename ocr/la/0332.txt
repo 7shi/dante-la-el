@@ -51,12 +51,12 @@ Paret se ad dilacerandum michi caput.
 certum, idest unum membrum, sive unum frustum, scilicet
 medietatem brachii, idest unum musculum. Dragagnatius
 etiam voluit eum capere infra prope crura; sed decurius
-illorum, idest dux eorum, se vertit circum circa cum malo
-piglio, idest mala facie, seu turbata apparentia.
+illorum, idest dux eorum, se vertit circum circa cum *malo*
+*piglio*, idest mala facie, seu turbata apparentia.
 
-Quando isti fuerunt aliquantulum rapaciati, idest paci-
-ficati, sive quietati, illum, qui adhuc respiciebat suas fe-
-ritas, idest vulnera, interrogavit dux meus sine mora: Quis
+Quando isti fuerunt aliquantulum *rapaciati*, idest paci-
+ficati, sive quietati, illum, qui adhuc respiciebat suas *fe-*
+*ritas*, idest vulnera, interrogavit dux meus sine mora: Quis
 fuit ille, a quo malum discessum dicis quod fecisti, ut ve-
 nires ad ripam? Et ipse respondit: Fui[t] Frater Comita.
 Notandum est quod, per antiquum, insula Sardinie non
@@ -89,12 +89,12 @@ nibus, et fecit ita eis, idest ita eos tractavit, quod quilibet,
 supple ipsorum, se de eo laudat, quia dimisit eos abire.
 Denarios accepit, et eos relapsavit de plano, idest pacifice,
 sicut ipse dicit; et in aliis officiis etiam baractarius fuit
-non parvus sed summus. Dicit: sub pegola loquitur nobis.
-Officiis: idest distribuendo officia.
+non parvus sed summus. *Dicit*: sub pegola loquitur nobis.
+*Officiis*: idest distribuendo officia.
 
 Conversatur secum donnus Michael Zanche de Logodoro:
 et ad dicendum de Sardinea, lingue eorum non se sentiunt
-stanchas, idest fessas: idest nunquam satiantur.
+*stanchas*, idest fessas: idest nunquam satiantur.
 Iste Michael fuit claudus, ideo vocatur Michael Zancha.
 Fuit iconomus regis Entii, filii naturalis Frederici secundi.
 Et erat iste Entius rex Sardinie, et habebat locum melio-
@@ -104,5 +104,5 @@ Entii, quam sumpsit in uxorem. Modo talia loquuntur isti
 sub pice, quia tractant fabrilia fabri; ita invicem isti lo-
 quuntur de suis baractariis.
 
-Heu michi. O me, vedete: hec est quarta pars huius
+*Heu michi*. *O me, vedete*: hec est quarta pars huius
 capituli, in qua Ciampolus decipit ultimo omnes demones.

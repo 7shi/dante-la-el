@@ -46,7 +46,7 @@ Veritatem nullum mendacium fraudet.
 
 sive paludem facit illam lamam, idest vallem, que desiccatur
 sepe in estate; et aqua marcet, et facit malum aierem et
-inficit, et solet in estate aliquando esse grama, idest fetida.
+inficit, et solet in estate aliquando esse *grama*, idest fetida.
 
 Illac transeundo illa virgo cruda, idest nunquam voluit
 habere virum, vidit terram in medio paludis, sine cul-
@@ -102,7 +102,7 @@ Iam fuerunt gentes sue intus spissiores; idest erat maior
 populus, prius quam mattia, idest fatuitas, illorum de Ca-
 salodis, a Pinamonte deceptionem reciperet.
 
-Ideo te assenno, idest moneo, quod si unquam tu audis
+Ideo te *assenno*, idest moneo, quod si unquam tu audis
 originari meam terram aliter, idest civitatem Mantue, ve-
 ritatem, subaudi, vel dicas, [vel] nullum mendacium fraudet;
 idest nullo mendacio fraudari te permictas; idest si aliquis

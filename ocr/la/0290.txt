@@ -27,15 +27,15 @@ Apud te magnas? Ymo mirabiles.
 Et ex hinc sint nostre visiones satie.
 
 Huc me submerserunt adulationes, unde nunquam habui
-linguam stuccam, idest satiam: idest nunquam fui satius,
+linguam *stuccam*, idest satiam: idest nunquam fui satius,
 sive satiatus, de blanditiis, quibus semper usus fui.
-Et hiis dictis, prope hec dixit: Fac ut pingas, michi dixit,
+Et hiis dictis, prope hec dixit: Fac ut *pingas*, michi dixit,
 aliquantulum visum plus ante, idest intuearis ulterius lon-
 gius, sic, idest in tantum, quod faciem bene cum oculis
 attingas illius sozze, idest turpis, escapillate famule, idest
 habentis capillos incompositos, solutos, deturpatos, ster-
-core involutos, quia ipsam se sgriffat, idest, dilacerat cum
-ungulis merdosis, idest stercorizatis; et nunc se accosciat,
+core involutos, quia ipsam se *sgriffat*, idest, dilacerat cum
+ungulis merdosis, idest stercorizatis; et nunc se *accosciat*,
 idest restringit, sedendo; et nunc in pedibus stante, idest
 stando. Iste est secundus spiritus, de quo auctor hic facit
 mentionem. Hic spiritus fuit una speciosissima mulier The-
@@ -83,6 +83,6 @@ Tunc ad textum: Tahys est meretrix, que respondidit
 drudo suo, idest lenoni, scilicet Gnato, quando dixit, sci-
 licet ex parte Trasonis: Habeo gratias apud te magnas?
 Ymo mirabiles, idest respondit.
-Et ex hinc sint nostre viste, idest visiones, satie, idest
+Et ex hinc sint nostre *viste*, idest visiones, *satie*, idest
 simus saturi et bene satiati. De ista materia vidisse illa
 que vidimus, iam satis est.

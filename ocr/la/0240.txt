@@ -42,7 +42,7 @@ Nunc est deserta tamquam res vetata.
 Sui filii, et ut celaret eum melius
 Quando plangebat, ibi faciebat fieri clamores.
 
-quod passus erat ibi, lici; ita quod aqua istius rivuli
+quod passus erat ibi, *lici*; ita quod aqua istius rivuli
 erat tante efficacie, quod quidquid tangebat, fiebat lapi-
 deum. Hoc est dicere, quod ista materia est tam dura et
 aspera, de qua tangitur. Ex qua aqua exit vapor, qui
@@ -54,7 +54,7 @@ demonstravi, ex quo nos intravimus per portam, cuius ape-
 rire nulli est denegatum (ista est porta prima, quam in-
 traverunt, super quam erat scriptura mortua, scilicet,
 Per me itur in civitatem dolentium). res non fuit a tuis
-oculis scorta, idest visa, apprehensa, notabilis, sicut presens
+oculis *scorta*, idest visa, apprehensa, notabilis, sicut presens
 rivulus, qui supra se omnes flammas amortat, idest extin-
 guit. Hec fuerunt verba ducis mei; quare ego rogavi eum,
 ut largiretur michi pastum, cuius michi largitus fuerat
@@ -67,7 +67,7 @@ quod in Arcipelago est una insula, que vocatur Creta, alio
 nomine Candia; in qua insula est una silva, que vocatur
 Yda; in qua silva est unus mons, qui dicitur mons Ydeus;
 que insula aliquando dicebatur Centrapolis, idest Centum
-Civitatum. Dicitur a centra, idest centum, polis, civitas,
+Civitatum. Dicitur a *centra*, idest centum, *polis*, civitas,
 idest centum civitatum. In hac insula antiquo tempore
 fuit rex unus, homo iustus, rectus, bonus, qui vocabatur
 rex Saturnus, qui ita bene, ita iuste regebat, quod sub
@@ -94,7 +94,7 @@ fugit ipse Saturnus a facie filii sui et venit ad partes Ytalie,
 et fecit unam civitatem, quam vocavit Saturnum: demum
 mutatum fuit in Sutrium, et sic adhuc vocatur, et adhuc est
 bona civitas: distat a Roma per viginti quatuor milliaria.
-Tunc ad textum: In medio mari sedet unum paiese de-
+Tunc ad textum: In medio mari sedet unum *paiese* de-
 structum, idest una patria, dixit adhuc, scilicet magister,
 que appellatur Creta, idest vocatur; sub cuius rege fuit
 iam mundus castus. Verum est quod insula Crete, sive

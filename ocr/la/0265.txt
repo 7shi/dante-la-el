@@ -40,7 +40,7 @@ Omne id quod ego attendo, et quod tuum cogita-
 Cito oportet quod tuo visui discooperiatur.
 
 sublatam, idest repertam, sicut dux preceperat michi, por-
-rexi eam sibi aggroppatam, idest nodatam et involutam.
+rexi eam sibi *aggroppatam*, idest nodatam et involutam.
 Iste textus est fortis ex omni latere. Pro intelligentia
 eius notandum est, quod auctor, volens describere Fraudem
 in generali, incipit a quodam speciali, sive singulari. Ideo
@@ -71,9 +71,9 @@ occultationem et fraudulentiam, precipiente ei Virgilio, idest
 ratione recta: Ecce fraudem, quam operatus fuisti dece-
 ptive. In illo burracto Virgilius voluit eam proiicere et sic
 proiecit; idest in illo loco confuso, obscuro; ideo sequitur
-textus: Sic dux michi preceperat.
+textus: *Sic dux michi preceperat*.
 
-Unde ipse se volvit in dextrum latus: hic per dextrum
+*Unde ipse se volvit in dextrum latus*: hic per dextrum
 latum intellige emendationem.
 
 Admodo auctor vult propter ea que narraturus est, ad-
@@ -92,7 +92,7 @@ sum, in illo alio burracto, alias alto, idest profundo. Quod
 videns Dantes, cogitabat eventum aliquem magnum futu-
 rum; ideo dicebat intra se: Oportet omnino quod novitas
 respondeat, idest aliquid novi eveniat; sic dicebam ego,
-scilicet Dantes; ad novum cennum, idest signum, sive ge-
+scilicet Dantes; ad novum *cennum*, idest signum, sive ge-
 stum, sive ad novum actum, quem fecerat Virgilius, scilicet
 proiiciendo zonam in aqua, quod magister cum oculo se-
 cundat, idest attente respicit.

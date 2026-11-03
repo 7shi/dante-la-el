@@ -70,9 +70,9 @@ tamen virtutes vestras dilexi, diligo quoque, narro, narrabo.
 Adhuc respondet ad petitionem, quam fecerunt de iti-
 nere auctoris, dicens: Relinquo fel et vado pro dulcibus
 pomis, promissis michi per veracem ducem; sed usque ad
-centrum prius convenit quod ego tomem, idest descendam.
+centrum prius convenit quod *ego tomem*, idest descendam.
 Fel, idest vitia: dulcibus pomis, virtutibus, quibus acqui-
-ram honorem et gloriam eternam. Tomi: tomare in Italia
+ram honorem et gloriam eternam. *Tomi*: *tomare* in Italia
 est tenere caput in terra, et pedes superius elevatos: sic
 oportebit auctorem facere: quando erit in centro, oportebit
 ipsum volvere pedes ad locum capitis et e converso. Et
@@ -99,7 +99,7 @@ Vult dicere quod non est virtus, nec curialitas, in Floren-
 tia, sicut solebat; et assignat causam, quia gens nova et
 ruralis venit Florentiam, et facte sunt divitie nove, subite,
 idest de malo lucro uxurario.
-Orgoglio, idest arrogantia; rusticana, villanesca; et
+*Orgoglio*, idest arrogantia; rusticana, *villanesca*; et
 superfluitas. Hic dolet auctor quod ipse et nobiles viri,
 veri cives florentini, sint expulsi, et sint positi loco ipso-
 rum rustici et plebei et facti sint de Prioribus. Sic cla-

@@ -60,11 +60,11 @@ trum, idest speculum, quia speculum est vitrum, cui retro
 ponitur plumbum). Nam si Virgilius esset speculum, et
 ante ipsum staret Dantes, numquid ymago Dantis repre-
 sentaretur in ipso Virgilio? Certe, ita. Quasi dicat Virgilius:
-Ego scio quidquid tu cogitas. Impetro, idest comprehendo.
+Ego scio quidquid tu cogitas. *Impetro*, idest comprehendo.
 
 Iam deveniebant cogitationes tue intra meas; idest cogi-
 tatus tui concurrebant cum meis consimili actu et consimili
-facie, ita quod d'entrambi, idest de ambobus nobis, unum
+facie, ita quod *d'entrambi*, idest de ambobus nobis, unum
 solum consilium feci; idest unum remedium deliberavi.
 
 Si sic est, quod taliter dextra costa, idest ripa, iaceat,
@@ -105,7 +105,7 @@ est. Fumus ille fiebat de feno, stricte ligato et balneato.
 
 Iam sequitur remedium Virgilii, ubi dicitur: Dux meus
 cito me apprehendit, sicut mater, que ad rumorem est
-excitata, desta, et videt prope se flammas accensas. Idest:
+excitata, *desta*, et videt prope se flammas accensas. Idest:
 quando in domo, tempore dormitionis, et dormiente bona
 matrefamilias, et accenditur ignis, et ipsa mater excitatur a
 sompno, videns ignem accensum, antequam induat se unam

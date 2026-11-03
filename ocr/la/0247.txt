@@ -94,10 +94,10 @@ luna oriri quasi ad quartam horam noctis. Et sicut va-
 riatur tempore situs lune et occasus, sic variatur aspectus
 sui ad terram et fundum maris; et sic variantur refluxus
 et fluxus maris. Hiis dictis, ad textum proceditur.
-Qualiter Flamingi inter Guizantem et Brugis, idest
-inter istas duas solempnes villas, timendo fiotum, idest
-[faciunt] reparaculum, ut mare fugiat; et quales Paduani,
-longo, idest iuxta, Brentam, propter defendere suas villas
+*Qualiter Flamingi inter Guizantem et Brugis*, idest
+inter istas duas solempnes villas, timendo *fiotum*, idest
+[faciunt] reparaculum, ut mare fugiat; et quales *Paduani*,
+*longo*, idest iuxta, Brentam, propter defendere suas villas
 et sua castella, antequam Clarentana, idest illa montana
 que sic vocatur Clarentana, calorem sentiat, idest estatis.
 Clarentana lombardice vulgariter, litteraliter Carintia; et
@@ -111,7 +111,7 @@ Quicumque fecit illos, ille fuit magnus magister; nam ille
 magister fuit Deus, qui fecit omnia superiora et infera,
 qui reddit penas et merita, sive premia.
 
-Iam eramus a silva remoti: idest a longe tantum,
+*Iam eramus a silva remoti*: idest a longe tantum,
 quod ego non vidissem ubi eram, quamquam me revol-
 vissem retro; idest non vidissem silvam; quando obviavi-
 

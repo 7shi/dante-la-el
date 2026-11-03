@@ -33,7 +33,7 @@ neat muros civitatis Ravenne: demum per duo milliaria
 [currit] et ingreditur mare Adriaticum prope monasterium
 Sancte Marie in Portu. Hiis dictis, propter litteram difficilem
 et propter multa erronea, dicam duas hystorias, quarum
-prima de monte Veso, alia est de proprio itinere. Primo
+prima de monte Veso, alia est de *proprio itinere*. Primo
 nota quod montes, qui incipiunt in Calabria ex adverso
 Montis Pelori, qui est in insula Sicilie, distensi de Calabria,
 veniunt per regnum Sicilie, et dum sunt prope Tagliaco-
@@ -56,8 +56,8 @@ Mons ille distat ab isto fluvio, de quo supra dictum est,
 quod primo vocatur Aquaquieta, postea Montone, bene per
 ducenta milliaria. Sed quare igitur dicit auctor, quod flu-
 vius iste habet proprium iter prius a monte Veso? Causa
-est ista propter [quam habet] istam dictionem, proprio
-cammino, proprium iter: quia a monte Veso, qui dividit
+est ista propter [quam habet] istam dictionem, *proprio*
+*cammino*, proprium iter: quia a monte Veso, qui dividit
 territorium Ianuense a territorio Pedemontano per totam
 Lombardiam versus orientem, procedendo usque ad istum
 fluvium, nullum flumen habet proprium iter ad mare, nisi
@@ -72,8 +72,8 @@ Burgo Sancti Donnini, de Parma, de Regio, de Druberia,
 de Marzara, de Mutina, de Bononia, de Imola, de Faventia,
 sic procedendo ab occidente in orientem, currunt in Pa-
 dum. Iste Montonus est primus, qui vadit per proprium
-camminum, idest per proprium iter ad mare. Dicit textus:
-Ad sinistrum latus Appennini; quoniam isti montes Ap-
+*camminum*, idest per proprium iter ad mare. Dicit textus:
+*Ad sinistrum latus Appennini*; quoniam isti montes Ap-
 pennini, qui dividunt Tusciam a Romandiola, habent de-
 xtrum latus ad Tusciam et sinistrum ad Romandiolam,
 quantum ad situm mundi. Hoc patet pro tanto: stet unus
@@ -81,8 +81,8 @@ super illos montes, dividentes Tusciam a Romandiola, ubi
 nascitur iste Montonus, et vertat faciem ad orientem, et
 terga ad occidentem; illius hominis dextra est ad Tusciam,
 sinistra vero ad Romandiolam.
-Adhuc nota super illo verbo: pro mille esse recepta-
-culum: multi multa vana dicunt. Aliqui dicunt, quod Dan-
+Adhuc nota super illo verbo: *pro mille esse recepta-*
+*culum*: multi multa vana dicunt. Aliqui dicunt, quod Dan-
 tes ivit semel ad conducendum mille homines armorum,
 ita quod ipse erat pro mille ad recipiendum mille ad sti-
 pendium Florentinorum. Hanc opinionem non puto esse
@@ -107,10 +107,10 @@ Debebat pro mille esse receptaculum, idest pro mille ha-
 bitantibus. Que harum opinionum melior sit, relinquo in-
 telligentibus hunc librum.
 
-Sic inferius de una ripa discoscesa, idest ruinosa, inve-
-nimus resonare illam aquam tinctam, idest sanguinem;
-ita quod in pauca, idest modica, hora, offendisset aures.
-Ego habebam unam cordam cinctam: idest ego eram
+*Sic inferius de una ripa discoscesa*, idest ruinosa, *inve-*
+*nimus resonare illam aquam tinctam*, idest sanguinem;
+*ita quod in pauca*, idest modica, hora, *offendisset aures*.
+*Ego habebam unam cordam cinctam*: idest ego eram
 cinctus una corda, idest fune; et cum ipsa, scilicet corda,
 cogitavi michi aliqua vice capere leontiam ad pellem de-
 pictam: postquam ego habui totam, idest cordam, a me

@@ -53,7 +53,7 @@ Fortiter spingabat cum ambabus plantis.
 
 Sanctus Mathias, ut patet in Actibus Apostolorum. Ideo
 stes ibis, idest remane, quia tu es bene, idest iuste, puni-
-tus: et custodi bene male ablatam monetam; idest, quam
+tus: et custodi bene male ablatam *monetam*; idest, quam
 tulisti, sive acquisivisti, per symoniam; que te esse fecit
 audacem contra Karolum. Quia propter divitias, quas de-
 derat suo nepoti, fuit ausus petere pro suo nepote filiam
@@ -64,8 +64,8 @@ regum Frantie. Papa Nicolaus cepit facere guerram ipsi
 Karolo: et nisi mors supervenisset ipsi pape, ipse privasset
 regem suo regno.
 
-Et si non esset quia adhuc michi denegat reverentia
-summarum clavarum, quas tu tenuisti in vita leta, idest
+*Et si non esset quia adhuc michi denegat reverentia*
+*summarum clavarum, quas tu tenuisti in vita leta*, idest
 mundiali, que leta est respectu vite quam habet iste in
 Inferno. Vult dicere, quod adhuc dixisset asperiora verba
 isti pape Nicolao, nisi quod abstinuit propter reverentiam
@@ -73,7 +73,7 @@ clavium, etc. Ego uterer verbis adhuc gravioribus: scilicet,
 quod vestra avaritia mundum contristat, calcando, idest
 deprimendo, non exaltando, bonos, et sublevando pravos,
 idest dando eis, pro pecunia, beneficia. De vobis pastoribus,
-scilicet Ecclesie, s'accorsit, idest perpendit, Evangelista,
+scilicet Ecclesie, *s'accorsit*, idest perpendit, Evangelista,
 scilicet Ioannes, in libro Apocalypsis, quando illa, que sedet
 super aquas, meretricari cum regibus fuit visa, idest ostensa.
 Inter alia, que fuerunt revelata Sancto Ioanni Evangeliste
@@ -84,7 +84,7 @@ adulterabatur. Ista mulier, potestas papalis, sive gubernatio
 pastorum Ecclesie, sedet super aquas, idest super populos.
 Aque multe, populi multi sunt. Adulteratur cum regibus,
 sicut sepe fecit cum rege Frantie et multis aliis. Ista ha-
-bebat septem testas, idest capita, idest septem dona Spi-
+bebat septem *testas*, idest capita, idest septem dona Spi-
 ritus Sancti, vel septem virtutes, quatuor cardinales et tres
 theologicas; decem cornua, idest decem precepta Decalogi
 bene observata. Illa, que cum septem testis, idest capitibus,
@@ -101,5 +101,5 @@ Ay, Constantine, quanti mali tu fuisti mater, non tua
 conversio, quia per ipsam tu fuisti sanatus in anima et
 in corpore, sed ille dotes, quas a te accepit primus dives
 Pater. Dum ego cantabam tales notas, vel ira, vel con-
-scientia, que mordisset eum, fortiter spingabat, agitabat,
-cum ambabus piotis, idest plantis.
+scientia, que mordisset eum, fortiter *spingabat*, agitabat,
+cum ambabus *piotis*, idest plantis.

@@ -49,7 +49,7 @@ Super groppam feri animalis,
 Et dixit: Iam sis fortis et audax.
 
 Modo ponit alium civem florentinum, scilicet Gabrielem de
-Ubriachis, dicens: Postmodum, procedendo de meo sguardo,
+Ubriachis, dicens: Postmodum, procedendo de meo *sguardo*,
 idest intuitu, currum, idest currum meorum oculorum, vidi
 unam aliam, scilicet bursiam, sicut sanguinem, rubeam,
 monstrando unam aucam albam, sive anserem blancum
@@ -57,7 +57,7 @@ sicut burrum, idest butirum.
 
 Demum ostendit dominum Ioannem Baiamontem de
 Strovignis de Padua, dicens: Et unus, qui de una scrofa
-azuria, idest grossa, signatum habebat suum sacchettum
+azuria, idest grossa, signatum habebat suum *sacchettum*
 album, idest suam bursiam albam, michi dixit: Quid facis
 tu in hac fossa? idest in ista arena, ubi sunt feneratores.
 Erat hic in loco valde basso, quia, in extremitate, quanto
@@ -68,9 +68,9 @@ posses, certe, quia sumus hic quasi infiniti; nam vitium
 nostrum iam transivit ad mercatores, ad cansores, ad ar-
 tifices, et, quod detestandum est, ad sacerdotes et prelatos.
 
-Ergo recede, et quia tu es vivus adhuc, scias quod
-meus vicinus Vitalianus sedebit hic ad meum sinistrum
-flancum: idest ilium. Iste dominus Vitalianus fuit Padua-
+*Ergo recede, et quia tu es vivus adhuc, scias quod*
+*meus vicinus Vitalianus sedebit hic ad meum sinistrum*
+*flancum*: idest ilium. Iste dominus Vitalianus fuit Padua-
 nus de domo de Dentibus: nondum erat mortuus, quando
 Dantes composuit hoc capitulum; sed statim morietur et
 veniet huc miles sovranus, idest supremus, idest qui tenet
@@ -78,12 +78,12 @@ principatum inter usurarios. Iste dominus Vitalianus per
 arma habebat tres yrcos, quasi currentes, in uno campo
 albo.
 
-Cum istis Florentinis sum Paduanus: spissis, idest
+*Cum istis Florentinis sum Paduanus*: *spissis*, idest
 pluribus vicibus michi intronant, idest surdescunt, aures,
-clamando: Veniat miles supremus, qui portabit tascam,
-idest bursiam, cum tribus yrcis. Hic distorsit, idest in tor-
+clamando: Veniat miles supremus, qui portabit *tascam*,
+idest bursiam, cum tribus yrcis. Hic *distorsit*, idest in tor-
 tum, sive in obliquum, vertit faciem, et foris traxit lin-
-guam, sicut bos qui nasum leccat, idest lingit. Hoc dicit
+guam, sicut bos qui nasum *leccat*, idest lingit. Hoc dicit
 auctor, quia hic dominus Ioannes Baiamonte, qui loque-
 batur cum auctore, dum vivebat, hunc talem morem et
 turpem actum, sive gestum, habuit, quia sepissime trahebat
@@ -103,7 +103,7 @@ descensus.
 
 Nunc Virgilius incantat Dantem, quod non timeat, sed
 sit bene audax, et quando rediit ad magistrum, invenit
-eum iam ascendisse super groppam, idest super spatulas,
+eum iam ascendisse super *groppam*, idest super spatulas,
 sive renes, Gerionis; et quia, ne Gerion posset nocere Danti
 cum cauda, veluit Virgilius quod Dantes sederet ante
 ipsum, quia ex parte capitis habebat caput benignum, sed

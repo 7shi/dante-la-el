@@ -65,7 +65,7 @@ Ubi debebat pro mille esse receptaculum;
 Florentia est hic vocativi casus. Et tres, qui hoc intelle-
 xerunt pro responso, respexerunt unus alterum, sicut ad
 veritatem inspicitur, quasi dicant: Hoc verum. Et dicunt:
-Si aliis vicibus parum tibi costat, responderunt omnes,
+Si aliis vicibus parum tibi *costat*, responderunt omnes,
 satisfacere alteri, felicem te, supple dicimus, si sic loqueris
 ad placitum tuum. Quare, si evadas ab istis locis obscuris,
 et redeas ad revidendum pulchras stellas, quando te dele-
@@ -74,11 +74,11 @@ reminisci: post coniurationem petunt gratiam ab auctore
 dicentes), facias ut de nobis ad gentes loquaris; idest de
 virtutibus nostris. Proinde rumpunt rotam, idest tripu-
 dium, et ad fugiendum visa sunt ale crura eorum, idest
-velociter cucurrerunt, velocia: Unum amen non potuisset
-dici ita cito, sicut ipsi disparuerunt, ex quo magistro
-fuit visum recedere.
+velociter cucurrerunt, velocia: *Unum amen non potuisset*
+*dici ita cito, sicut ipsi disparuerunt, ex quo magistro*
+*fuit visum recedere*.
 
-Ego eum sequebar: hec est quarta pars huius capituli,
+*Ego eum sequebar*: hec est quarta pars huius capituli,
 in qua tangit materiam sequentem aliqualiter; quia ex quo
 lustravit circulum, sive circulos violentorum, iam appro-
 pinquat ad circulum fraudulentium, et vult per compara-

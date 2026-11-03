@@ -34,7 +34,7 @@ Si habuisses de tali re voluntatem,
 Fuit translatus de Arno in Bachilionem,
 Ubi dimisit male protensos nervos.
 
-Nè pertanto. Nihilominus loquendo vado: ista est
+*Nè pertanto*. *Nihilominus loquendo vado*: ista est
 quarta pars huius capituli, in qua Dantes interrogat de
 turba illa, de qua ipse ser Brunectus exiverat ad loquen-
 dum sibi Danti cum ser Brunecto. Et interrogo, qui sunt
@@ -45,7 +45,7 @@ Vult dicere, quod hoc vitium est tam turpe, quod quis
 debet sibi cavere ne faciat longam mentionem de ipso. In
 summa, scias quod omnes fuerunt clerici et litterati magni
 (tanto peius, tanto magis reprehendendi, ymo affligendi) et
-magne fame, de uno et eodem peccato in mundo lerci, pol-
+magne fame, de uno et eodem peccato in mundo *lerci*, pol-
 luti, deturpati peccato, scilicet contra naturam.
 Loquitur hic auctor de illis, qui erant in illa acie, de
 qua erat ser Brunectus, qui minus peccaverat. Quid igitur
@@ -65,7 +65,7 @@ difficilis. Sed ad ipsum intelligendum nota, quod ille Fran-
 ciscus Accursi fuit civis Florentinus; stetit diu Bononie,
 legens in scholis leges et iura; valde valens fuit; glossavit
 leges; fecit additiones; ultra glossas, fecit multa opera.
-Demum ille textus, qui incipit ibi: Et videre ibi, loquitur
+Demum ille textus, qui incipit ibi: *Et videre ibi*, loquitur
 de uno alio cive florentino, qui vocatus fuit dominus Andreas
 de Moggiis, de bona domo nobili et divite civitatis Flo-
 rentine: fuit episcopus Florentie, per cuius medium currit

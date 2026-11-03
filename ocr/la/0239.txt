@@ -60,9 +60,9 @@ Ex quo ego perpendi quod passus erat ibi.
 
 (1) al. in dispecto. — (2) al. muovi.
 
-Tunc dux meus loquutus fuit de forza, idest fortiter,
+Tunc dux meus loquutus fuit *de forza*, idest fortiter,
 in tantum quod ego non audiveram, scilicet ipsum magi-
-strum, loquentem tam fortiter: O Capanee, in ciò, idest in
+strum, loquentem tam fortiter: *O Capanee, in ciò*, idest in
 hoc, quod non extinguitur tua superbia, tu es plus punitus.
 Nullum martyrium foret tue rabiei et tuo furori dolor com-
 pletus, idest conveniens. Quasi dicat: Tua rabies est melior
@@ -72,7 +72,7 @@ rabioso, quod sua rabies est sibi decens pena.
 Postea volvit se ad me cum meliori labio, idest cum gra-
 tiosiori loquela, dicendo: Ille fuit unus de septem regibus,
 qui obsiderunt Thebas, et habuit, et apparet quod habeat,
-Deum in despectum, et modicum apparet quod appreziet,
+Deum in despectum, et modicum apparet quod *appreziet*,
 scilicet ipse Capaneus, ipsum Deum. Sed, sicut sibi dixi ei,
 sui despectus sunt suo pectori satis digna fregia, idest or-
 namenta. Nam pectoris et cordis Capaney debita ornamenta
@@ -80,7 +80,7 @@ sunt indignatio et rabies et ira. Peius enim hec offendunt
 subiectum suum: sic facit ira cum irato, indignatio cum
 indignato, que prius ledunt iratum quam alios.
 
-Or mi vien dietro. Admodum veni retro me: ista est
+*Or mi vien dietro*. *Admodum veni retro me*: ista est
 tertia pars huius capituli, in qua describuntur flumina
 infernalia; nam venientes ad introytum arene, invenerunt
 unum rivum, qui discurrebat per arenam, et veniebat de
@@ -91,9 +91,9 @@ in arena, sed semper teneas ad nemus pedes strictos. Modo
 ostendit, quomodo oportebat meditari, ad faciendum talem
 fictionem pulchram, quam volebat hic facere.
 
-Tacendo devenimus illuc, unde scaturit, spiccia, extra
+Tacendo devenimus illuc, unde scaturit, *spiccia*, extra
 arenam, idest fluit, unus fluviellus, idest parvus fluvius,
-cuius rubedo, rossore, adhuc me raccapriciat, idest orre-
+cuius rubedo, *rossore*, adhuc me *raccapriciat*, idest orre-
 scere facit.
 
 Hic inducit unam comparationem ad describendum hunc

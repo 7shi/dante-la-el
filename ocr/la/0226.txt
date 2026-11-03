@@ -63,9 +63,9 @@ Dixit magister ad me, non perdas horam;
 Sed loquere, et queras ab eo si plus tibi placet.
 
 Et truncus, idest stipes, scilicet respondit: Tam dulciter
-dictis m'adeschi, idest allicis cum escha, quod ego non
+dictis *m'adeschi*, idest allicis cum escha, quod ego non
 possum tacere, et vos non gravet, licet ego unum modicum
-ad ratiocinandum me immischiem, idest involvam. Nihil
+ad ratiocinandum me *immischiem*, idest involvam. Nihil
 poterat esse dultius isti infamato de proditione, quam [si]
 per oppositum ostenderetur. Sic in isto modo alliciebatur;
 sed ipse volens se excusare, dicit: Non tedeat vos ascul-
@@ -82,14 +82,14 @@ ego perdidi venas et pulsus, scilicet vigilare et dormire,
 idest sanitatem; quia per venas in pulsu cognoscitur sanitas.
 
 Meretrix, que nunquam ab hospitio Cesaris non tollit ocu-
-los puctos, idest me[retri]cales (Cesaris, idest Imperatoris;
+los puctos, idest me[retri]cales (*Cesaris*, idest Imperatoris;
 sic intellige de omnibus dominis), que mors est communis
 curiarum et vitium, inflammavit, scilicet ad invidiam, contra
 me, sic animos omnes, idest omnium, et inflammati sic in-
 flammaverunt Augustum, quod leti honores conversi sunt
 michi in gravem luctum; quia omnes conspiraverunt contra
 me, solum propter felicitatem meam, non alia de causa.
-Leti honores: idest magna offitia.
+*Leti honores*: idest magna offitia.
 
 Per novas radices istius ligni (confirmat dicta sua per
 sacramentum, idest per animam meam, que iam facta est
@@ -104,5 +104,5 @@ lam habeo; quia creditur quod ego fuerim proditor, sicut
 nunquam fui: que iacet, idest diffamata, adhuc de ictu,
 quem invidia dedit sibi sine culpa mea.
 
-Unum modicum expectavit: hec est tertia pars huius
+*Unum modicum expectavit*: hec est tertia pars huius
 capituli, in qua ponit Virgilius unam questionem isti spi-

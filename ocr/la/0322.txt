@@ -49,7 +49,7 @@ Christi fluxissent anni mille ducenti sexaginta sex. Tunc
 sic dicit textus.
 Heri (verba ista fuerunt dicta in millesimo tercentesimo
 in die Sabati sancto de sero, hora undecima: igitur dicit
-heri), magis ultra quinque horis quam ista hora, mille du-
+*heri*), magis ultra quinque horis quam ista hora, mille du-
 centi, etc. Si quis bene advertit per ista dicta, clarus est
 textus totus: nullum est scrupulum. Sed non sic est clarum
 de triginta quatuor annis vite Christi. Sed hoc salvatur uno
@@ -73,8 +73,8 @@ annorum dicebat Malacoda verum: sed de via, quam osten-
 debat, non dicebat verum, ymo magnum falsum; et si per
 talem viam ivissent, eis magnum periculum imminebat.
 
-Ego micto versus illam partem de istis meis, ad re-
-videndum si aliquis se sciorinat, idest exit de pice, vel
+*Ego micto versus illam partem de istis meis, ad re-*
+*videndum si aliquis se sciorinat*, idest exit de pice, vel
 movet. Vadatis cum ipsis, quia non erunt vobis nocivi,
 ymo utiles, quia facient vobis bonam sotietatem. Et in hoc
 dicebat falsum, quia si Virgilius et Dantes ivissent viam,
@@ -104,7 +104,7 @@ est de decem. Libich[occ]us, in tractatis ardens, quotie-
 scumque potest, et conatur toto nisu. Dragagnatius, idest
 venenosus, sicut serpens, semper omnes contractus venenat,
 semper apponit aliquid de illicito, idest non licito. Ciriactus,
-idest dilanians, idest ideo ponitur sannutus (sanne, idest
+idest dilanians, idest ideo ponitur sannutus (*sanne*, idest
 magni dentes, sicut sunt dentes apri, egredientes de ore
 apri). Graffiacane, idest depilator, vel uncans pellem, et de
 pilis omnibus. Farfarellus, idest infrascator, sive involvens

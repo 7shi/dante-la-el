@@ -45,7 +45,7 @@ Et postmodum secundum suum passum procedas.
 
 Ista gens est picta et deaurata, quia solum in apparentia,
 et non existentia, stat vita ypocritarum. Et dicitur ypocrisis
-ab ypos, quod est super, et crisis, quod est aurum, quasi
+ab *ypos*, quod est super, et *crisis*, quod est aurum, quasi
 res super deaurata, quia ypocrite intus sunt mali, et exte-
 ri[us] apparent boni. Solum in superficie est eorum bonitas,
 et tamen gloria ypocrite est ad instar puncti. Vadunt sem-
@@ -90,7 +90,7 @@ idest respectu istarum.
 
 Nunc exclamat auctor: O in eternum faticose mante
 (vocativi casus)! idest, o laboriose mantelle! Nos vertimus
-nos adhuc, pur, ad manum sinistram cum eis simul, in-
+nos adhuc, *pur*, ad manum sinistram cum eis simul, in-
 tenti ad tristem planctum. O in eternum faticose! Idest,
 vos ypocrite, habentes pro vobis ipsis tale mantellum. Ad
 tristem planctum; quia apud Evangelium, Matthei sexto,
@@ -99,7 +99,7 @@ veniebat ita plane, quod eramus novi de sotietate ad omnem
 motum cruris, idest ad omnem passum; quia antequam illi
 facerent unum passum, Dantes faciebat septem.
 
-Perchè io al duca mio. Ex quo ego duci meo: ista
+*Perchè io al duca mio*. *Ex quo ego duci meo*: ista
 est tertia pars huius capituli, in qua describuntur duo
 moderni spiritus. Notandum est hic, quod tempore Boni-
 facii octavi surrexerunt quidam bene divites et nobiles viri,

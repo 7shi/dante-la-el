@@ -56,9 +56,9 @@ Ad videndum si tu solus plus quam nos vales.
 
 Et primo fingit se habere magnum timorem, dicens: Dice-
 rem adhuc de pluribus. Heu michi, videte alterum, scilicet
-demonem, qui digrignit, idest dentes monstrat. Ego di-
+demonem, qui *digrignit*, idest dentes monstrat. Ego di-
 cerem amplius: sed ego timeo, ne ipse paret se ad laceran-
-dum michi caput, ad gratandum michi tingiam, tingia,
+dum michi caput, *ad gratandum michi tingiam, tingia*,
 idest ad puniendum de baractaria. Tingia est infirmitas
 in capite inter capillos, et apparet quasi lepra capitis:
 raro unquam bene liberatur, et non sine depillatione;
@@ -70,7 +70,7 @@ Et grandis prepositus, scilicet Barbaricia, conversus ad
 Farfarellum, qui retorquebat oculos ut feriret, dixit: Fac
 te retro, o maligna avis, idest rapax ad predam. Si vos
 vultis videre, vel audire, incepit, scilicet dicere, pavefactus,
-spauritus, prope, idest statim, Tuscos et Lombardos fa-
+*spauritus*, prope, idest statim, Tuscos et Lombardos fa-
 ciam venire; sed stent male branche aliquantulum remote,
 idest longinque, ita quod ego non timeam, idest quod non
 habeam timorem, de eorum vindictis, idest vulneribus:
@@ -84,7 +84,7 @@ mictit. Cum aliquibus signis nos vocamus simul ad invicem
 unus alium.
 
 Cagnatius ad tale moctum, idest vitiosum dictum, levavit
-caput, crulando faciem, idest movendo, et dixit: Audias
+caput, *crulando faciem*, idest movendo, et dixit: Audias
 malitiam, quam ipse cogitavit, ut se proiiciat infra, idest
 in pice. Quia isti erant magni baractarii, noscebant malitiam
 istius, qui cum perpendit se cognosci, statim invenit alium
@@ -98,7 +98,7 @@ tuitas, quod velim procurare, ut mei sotii plus torqueantur.
 
 Alichinus non tenuit se, idest non plus expectavit, et
 ante alios dixit ad eum: Si tu te calas, idest proiicis, ego non
-veniam retro te de galoppo, idest plane, vel mediocriter;
+veniam retro te *de galoppo*, idest plane, vel mediocriter;
 sed percutiam super picem alas; idest velocissime veniam.
 Dimictamus collem, et sit ei ripa scutum, idest loco scuti
 sit ripa reparatio; quasi dicat: Ibi volo tecum certare, ad
