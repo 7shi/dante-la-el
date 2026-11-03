@@ -25,8 +25,8 @@ from the image: about 250 lines misread and 46 misprints). **Next**, in this ord
 below, under "Checks"):
 
 1. **Italics**: the slant script, the delegate's trial and batch 1 (0079–0114) are done
-   (steps 1–3); next, the nine parts (step 3, "Parts"); part 1 done (0079–0219);
-   next part 2 (Inferno 13–23).
+   (steps 1–3); next, the nine parts (step 3, "Parts"); parts 1–2 done (0079–0347);
+   next part 3 (Inferno 24–34).
 2. **Check 2**: write `ocr/la_lexcheck.py`, its recall trial on the first transcription,
    then decide the candidates in the image.
 3. **When all are done**: State, Known limits, texts/PLAN.md and texts/la/README.md, and
@@ -293,6 +293,24 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
    (0187, 0192, 0194) were all roman. Written into `ocr/la`: 41, 63 and 68 pairs. Seen in
    passing and corrected: 0201:83 `Biscalia` for the print's `Biscatia`.
 
+   **Part 2, Inferno 13–23** (0221–0346, 2026-11-04): by the script, the slant run over
+   0221–0347 at once (the 13 essays left out). 348 lines flagged on 108 pages (3.2 a page:
+   these cantos gloss many single Italian words inside a sentence, `*fuschi*, idest`,
+   nearly all right), all decided in the image. A rule was added first, from 0226
+   `m'adeschi` and 0227 `m'acchora` (as 0179 and 0212 before): an elided one-letter word
+   takes the side of the word after it (`*m'adeschi*`); on 0079–0219 it changes no line
+   but 0179 and 0212, now right. Then 24 lines corrected: 8 a short word at the head of
+   an italic run (`*a la caccia*`, `*la lena*`, `*a brano a brano*`, `*a[d] giuocum*`); 4
+   a capital taken in by the capital rule though roman (0236 `Alia *raccolta*`, 0250
+   `Dicit *si*`, `de Dante *ficus*`, 0274 `Hic *distorsit*`); 6 a roman word measured
+   italic (0277 `ego`, 0295 `Ziezi`, `Zeizi`, 0299 `distorsit`, 0301 `Ecclesie`, 0341
+   `honeratam`); 4 italics missed (0247 `*Iam eramus a silva remoti*`, 0277 `*scroscium*`,
+   0323 `*De[h]*`, 0339 `*mo, mo*`); 0240 `*paiese* de-` / `structum`, the broken Latin
+   word roman. Inferno 13 (0221–0231) was read through in the image: no line the script
+   did not flag was wrong. Written into `ocr/la`: 87, 80, 60, 55, 77, 83, 54, 38, 67, 52
+   and 45 pairs (698). Seen in passing and corrected: 0276:66 `giocum` for the print's
+   `giuocum`; 0228:57 `eraramo` for `eravamo` (the italic `v`).
+
    Per part (from Inferno 10; the script adopted by the user, 2026-11-04, in place of a
    delegate), one canto at a time:
    1. The slant runs: `la_italic.py FIRST LAST -t ocr/la/tesseract -v -o SLANT` over the
@@ -305,7 +323,7 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
       unchanged against a snapshot of `HEAD`; `convert_la.py` (only `NO NUMBER` 0099 ×2,
       0363, 0856); this section updated with the canto's counts. A transcription error
       seen in passing is corrected (confirmed in the image) and noted here.
-   Inferno 1–8 went through a delegate (batch 1 and the records above), Inferno 9–12
+   Inferno 1–8 went through a delegate (batch 1 and the records above), Inferno 9–23
    through the script.
 4. **Scope**: the canto pages, the lemmas and the `other` italics (words cited, a name
    like `Pastoralis`; widened with the user, 2026-11-04, and batch 1 reviewed). The
