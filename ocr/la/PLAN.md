@@ -25,8 +25,8 @@ from the image: about 250 lines misread and 46 misprints). **Next**, in this ord
 below, under "Checks"):
 
 1. **Italics**: the slant script, the delegate's trial and batch 1 (0079–0114) are done
-   (steps 1–3); next, the nine parts (step 3, "Parts"); parts 1–4 done (0079–0606,
-   the Inferno and Purgatorio 1–11); next part 5 (Purgatorio 12–22).
+   (steps 1–3); next, the nine parts (step 3, "Parts"); parts 1–5 done (0079–0738,
+   the Inferno and Purgatorio 1–22); next part 6 (Purgatorio 23–33).
 2. **Check 2**: write `ocr/la_lexcheck.py`, its recall trial on the first transcription,
    then decide the candidates in the image.
 3. **When all are done**: State, Known limits, texts/PLAN.md and texts/la/README.md, and
@@ -354,6 +354,29 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
    se linit, quia demon`. `la_check.py` changes only on 0489 (blank lines 3 to 2, the
    number taken out: the paragraph no longer counts as a verse block).
 
+   **Part 5, Purgatorio 12–22** (0609–0738, 2026-11-04): by the script, the slant run over
+   0609–0739 at once (the essays and blank pages left out, 113 pages marked). 52 lines
+   flagged (0.5 a page), all decided in the image; 10 corrected: 5 a roman word measured
+   italic (4 words: 0622 `pe-` / `traie`, 0640 `eo`, 0688 `Sancto Zeno`, 0731 `intra`); 2
+   a capital taken in by the capital rule (0659 `Dicit, *occidat*`, 0713 `Pigmaleon
+   *allocta*`); 1 italics missed (0674 `*al*` / `*niego*`); 2 a bracket inside a word
+   splitting the run (0672 `*De l'empiezz[a]*`, 0733 `*O[r] quando tu cantasti cruda
+   arma*`). As the bracket case came back (0354 and 0459 in part 3), `la_italicmark.py`
+   now takes the pieces of a word joined by a bracket together; over the slants of parts
+   1–5 this changes those four lines and 0323 `*De[h]*` (part 2, decided so in the image)
+   and nothing else. Purgatorio 12 (0609–0618) was read through in the image: no italics
+   wrong, but 0614 and 0617 had transcription errors (below), so the lines put back from
+   the image in batch 6 (0617, 0639, 0646, 0720) were read again too: right but for
+   0646's. Written into `ocr/la`: 14, 12, 22, 14, 20, 21, 16, 16, 15, 19 and 26 pairs
+   (195). Seen in passing and corrected: 0614:37 `event` for the print's `evenit`, :39
+   `matris` for `patris`, :40 `Ideo Almeon apparere` for `Ideo Almeon fecit apparere`, :41
+   `duru` for `durum`, :50 `im potentem` for `impotentem`, :51 `miserere tur` for
+   `misereretur`, :56 `animo;` and :69 `Cyrum;` for `animo:` and `Cyrum:`, :83–84 `Ab` /
+   `tulit` for `Ab-` / `stulit`; 0616:82 `troyitum` for `troytum`; 0617:80 `cantauerunt`
+   for `cantaverunt`, :84–85 `levis,` / `quam` for `le-` / `vis, quam` and `videbatur` for
+   `videbat[tur]`; 0646:61 `anthartico` for the print's `authartico` (put back in batch
+   6).
+
    Per part (from Inferno 10; the script adopted by the user, 2026-11-04, in place of a
    delegate), one canto at a time:
    1. The slant runs: `la_italic.py FIRST LAST -t ocr/la/tesseract -v -o SLANT` over the
@@ -367,7 +390,7 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
       0363, 0856); this section updated with the canto's counts. A transcription error
       seen in passing is corrected (confirmed in the image) and noted here.
    Inferno 1–8 went through a delegate (batch 1 and the records above), Inferno 9–34
-   and Purgatorio 1–11 through the script.
+   and Purgatorio 1–22 through the script.
 4. **Scope**: the canto pages, the lemmas and the `other` italics (words cited, a name
    like `Pastoralis`; widened with the user, 2026-11-04, and batch 1 reviewed). The
    essays, front matter and appendix only if the user agrees, after the parts.
