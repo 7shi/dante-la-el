@@ -24,9 +24,9 @@ Done (DONE.md): check 1 (lemmas against the verse: 1,271 candidates, 9 misread, 
 from the image: about 250 lines misread and 46 misprints). **Next**, in this order (each
 below, under "Checks"):
 
-1. **Italics**: write `ocr/la_italic.py` (step 1), try it on batch 1 (step 2) and decide
-   with the user how the extent is set; then the scope, the marks and the scripts that read
-   `ocr/la` (steps 3–6).
+1. **Italics**: the slant script, the delegate's trial and batch 1 (0079–0114) are done
+   (steps 1–3); next, the nine parts (step 3, "Parts"); part 1 done (0079–0219);
+   next part 2 (Inferno 13–23).
 2. **Check 2**: write `ocr/la_lexcheck.py`, its recall trial on the first transcription,
    then decide the candidates in the image.
 3. **When all are done**: State, Known limits, texts/PLAN.md and texts/la/README.md, and
@@ -87,41 +87,241 @@ What the next steps take from them:
   accents left out or added, specks read as marks; in batch 11 the tercet numbers of
   three cantos left out and reported as not printed. A report is not taken as true.
 
-### Italics (after check 1; decided with the user, 2026-11-01)
+### Italics (after check 1; decided with the user, 2026-11-01; method changed 2026-11-03)
 
-The printed italics are transcribed, the lemmas first. Check 1 finds the lemmas by their
-words; the italics come from the print, so their extent is taken from the image, not from
-the match (a lemma can end in `etc.`, leave out a word, or quote the Italian).
+The printed italics are transcribed, the lemmas first. **Changed with the user
+(2026-11-03)**: checking the italics page by page in the image is too slow, so a few
+sample pages were looked at, the conditions under which the print uses italics were
+estimated from them, and the marks are set from the text by a delegate (an LLM) under
+these conditions, cross-checked by the slant script. **Changed again with the user
+(2026-11-04)**: from Inferno 9 the marks are set from the slant by script
+(`la_italicmark.py`), without a delegate, and only the lines it flags are decided in the
+image (step 3, "Without a delegate" and "Per part"). Fidelity to the print in every
+detail is not sought: marks set by mechanical conditions are accepted (the user,
+2026-11-03).
 
 - **Mark**: `*…*` in `ocr/la`, as `ocr/en-oelsner` keeps its italics; not a table, as
-  line positions shift with every fix and the italics are part of the print. Each line
-  keeps its own pair, so a page stays line for line: `*dedit ven-*` / `*tum:*`, closed
-  before the line end and reopened on the next line. Punctuation follows the print: inside
-  the pair if it is italic, outside if roman (decided in the image as a convention on the
-  first pages, then applied). The existing `*` of 1283 (`154*`, printed) is not a mark.
-1. **Slant script** (`ocr/la_italic.py FIRST LAST -t TESS [-o OUT]`): for each Tesseract
-   word box of the commentary, the shear that makes its vertical strokes most upright
-   (the variance of the column profile, over a range of shears); a word is italic if its
-   best shear is clearly slanted. Output per page: the runs of italic words, their lines
-   and words, and the lemma of check 1 they match or `none`.
-2. **Trial** on batch 1 (`0079`–`0114`): read the italics of a few pages by eye and
-   compare. If the script separates italic from roman reliably (a missed or false word a
-   page at most), it sets the extent; if not, every lemma's extent is checked in the
-   image (`la_view.py word`), which is many thousands: then decide with the user first.
-3. **Scope**: the lemmas, then the other italics the script finds (quotations of other
-   authors, titles; in the essays, front matter and appendix too), listed by kind after
-   the trial and marked if the user agrees.
-4. **Write** the marks into `ocr/la` by script from the checked runs (`ocr/la_italic.py
-   --write`), batch by batch; the words of each page unchanged (the diff, with `*`
-   removed, is empty).
+  line positions shift with every fix. Each line keeps its own pair, so a page stays line
+  for line: `*dedit ven-*` / `*tum*:`, closed before the line end and reopened on the next
+  line. **Punctuation, a mechanical convention instead of the print**: the stop that ends a
+  lemma (`:`, `,`, `.`, `;`, `?`) and a closing `etc.` stay outside the pair; punctuation
+  inside the lemma stays inside (`*Quando Deus, sive amor divinus*:`). An Italian lemma
+  and its Latin one side by side are two pairs (`*Mosse dapprima*. *Movit primitus*:`).
+  The existing `*` of 1283 (`154*`, printed) is not a mark.
+- **What is italic** (batch 1, 0079–0114: the slant script's runs read against the text,
+  2026-11-03): nearly all italics of the commentary are quotations of the canto's verse,
+  Italian or Latin, as lemmas: at the head of a paragraph or sentence, ending at a colon
+  (195 of 248 runs; a comma or `?` for most others), an explanation in roman following.
+  They are often not the verse letter for letter: one or two words (`Hora:`), the Italian
+  in the commentator's manuscript spelling (`Senbiava`), the Latin in his own wording
+  (`Hic expellet eam:` for the verse's `Hic eam fugabit`); a lemma can stand inside a
+  running sentence (0106 `conduxit me intra secretas res`, `fioche`). Roman, though they
+  quote or paraphrase the verse: the commentator's own words before a colon (`Vult dicere
+  ita:`), the quotations of the chapter divisions (after `ibi vulgariter:`), a quotation
+  that fills a line by itself (0098 `O donna de vertù, per cui,`), and some close
+  quotations inside a sentence (0106 `Diverse lingue, orribiles loquutiones`). Italic,
+  though the text alone gives no sign of it: the incipit a summary quotes (0079 `quod
+  incipit: In medio itineris vite nostre`), and the commentator's Latin retelling of a
+  tercet set as a sentence of its own (0108 `Postquam ego, aliquos eorum noscens,
+  perspexi, scilicet vidi …`, glosses and all; 0113 `Hiis finitis, obscura campania
+  tremuit …`, with a roman stretch inside it). Other
+  italics, rare: words cited as words (0109 etymology `ab A, quod est sine, et chaire`),
+  a decretal's name (0108 `Pastoralis`); in the essays (0114) titles and emphasis. The
+  titles of works (`in sexto Eneydos`, `Metheororum`) and the quotations of other authors
+  (the Bible, Virgil, Aristotle) are roman: of batch 1's 58 `other` passages only those
+  two kinds measured italic. The text alone cannot decide
+  every case (the best text rule found missed 47 of the 195 colon lemmas and took 34 roman
+  ones), hence the cross-check.
+- **Spellings**: a word of a lemma spelled otherwise than in the verse is not recorded or
+  looked at: check 1 compared such words (1,271 candidates, 9 misread), and a form shared
+  wrongly by both OCRs is left to check 2 (decided with the user, 2026-11-03; the trial
+  delegate listed 47 on 5 pages, nearly all the manuscript's forms).
+1. **Slant script** (`ocr/la_italic.py FIRST LAST -t TESS [-o OUT] [-v] [--boxes DIR]`):
+   done. For each commentary word, the slant of its strokes over the box of its Tesseract
+   word (the box widened four times, so that a shear moves rows by fractions of a pixel);
+   italic from 0.16, roman up to 0.09 (italic measures about 0.27, roman 0), unknown
+   between; output per page: the runs of italic words and the lemma of check 1 they
+   overlap. On the sample pages about one missed or false word a page, in lines where
+   Tesseract's boxes are wrong (0087:74, a line misread; 0087:94, boxes shifted a word).
+2. **Trial of the delegate** (la-el-agy, 0084 0098 0099
+   0106 0107, 2026-11-03): its marks against the slant runs differed in 15 lines, decided
+   in the image: the delegate was wrong in about 9 places (4 roman quotations marked, 5
+   italic passages missed), the slant script in 3 (words it measured upright). These five
+   pages are written into `ocr/la` with those 15 lines decided (50 pairs). Where the two
+   agree nothing was looked at.
+3. **Per batch**: the delegate marks the lemmas from the text (task file: the conditions
+   above, with examples from pages outside the batch; output one file per page and
+   `notes.tsv` of `unsure` and `other` passages); a script checks that the words are
+   unchanged (`*` removed, the file is equal) and every line closed, and lists the lines
+   where its marks and the slant runs differ. Those lines are decided by the reading of
+   their line images, not by eye page by page.
+
+   **Batch 1** (la-el-agy, the 28 canto pages of 0079–0113
+   but the trial's 5; 2026-11-03): the files were exact and closed. Its marks and the slant
+   runs differed in 52 lines, which I decided from their line crops myself (**deviation**:
+   not given to a delegate, as the crops of 52 lines took less than a task would). The
+   slant script was right in 43: 16 lines marked but roman (most of them lemmas inside a
+   sentence: 0089 `humilis Ytalia`, 0112 `Fili mi, illi qui moriuntur in ira Dei`), 23
+   italic but not marked (the incipits and retellings above, which the delegate had listed
+   `unsure`; 0101 `allecte`), 4 the `other` italics (etymologies, `Pastoralis`; marked
+   after the scope was widened, below, with the one-letter `A` read in the image). The
+   delegate was right in 9, where the slant script measured a word wrong or Tesseract's
+   boxes were wrong (0087:74, 0101:71). So where several words of a line disagree the slant
+   script is nearly always right; a single word needs the image. 0092, 0102 and 0114 are
+   essays (step 4). Written into `ocr/la`: 291 pairs on the 33 pages.
+
+   **Parts** (decided with the user, 2026-11-04): the rest is done in nine parts at canto
+   boundaries, each cantica in three (Inferno as 1 + 33: its first canto is the proem, so
+   1–12, 13–23, 24–34), and committed part by part. Pages to mark: the canto
+   pages (summary and commentary); left out: the Italian essays closing each canto, blank
+   pages, the half-titles (0077, 0477, 0871) and the preamble of Purgatorio (0479–0486: no
+   verse to quote; step 4). Paradiso 1's summary (0873–0874, under `INCIPIT PARADISUS`) is
+   marked.
+
+   | Part | Cantos | Pages | To mark | Essays |
+   |---|---|---|---|---|
+   | 1 | Inferno 1–12 | 0079–0220 | 125 (33 done in batch 1) | 13 |
+   | 2 | Inferno 13–23 | 0221–0347 | 108 | 13 |
+   | 3 | Inferno 24–34 | 0349–0476 | 111 | 13 |
+   | 4 | Purgatorio 1–11 | 0477–0607 | about 106 | 12 |
+   | 5 | Purgatorio 12–22 | 0609–0739 | 113 | 12 |
+   | 6 | Purgatorio 23–33 | 0741–0869 | 112 | 13 |
+   | 7 | Paradiso 1–11 | 0871–1009 | about 120 | 14 |
+   | 8 | Paradiso 12–22 | 1011–1140 | 112 | 13 |
+   | 9 | Paradiso 23–33 | 1141–1270 | 113 | 11 |
+
+   **Part 1, Inferno 4** (la-el-agy, 0115–0126, sent in
+   about ten pages at the user's wish before whole parts; 2026-11-04): files exact and
+   closed; 34 lines differed. The 19 lines where three or more words differ: 12 looked at,
+   the slant script right in all; most were retellings the delegate marked after batch
+   1's feedback but printed roman (0119 `Respondit, scilicet magister: Ego eram novus`,
+   0126 `Euclidem geometram, scilicet vidi, …`), while like ones beside them are italic
+   (0121 `Interdum vox fuit audita, que dixit:`, `Bonus magister cepit dicere:`): the text
+   cannot tell them apart. The 15 lines of one or two words, all in the image: the slant
+   script right in 10 (`*Smalto*,`, `*Le quale*:`), the delegate in 5 (a bracketed
+   insertion inside a lemma, `[eorum]`, is italic; 0125 `Zeno` measured wrong). Written
+   into `ocr/la`: 139 pairs.
+
+   **Part 1, Inferno 5** (0129–0138, 2026-11-04): files
+   exact and closed; 48 lines differed (4.8 a page, against 2.8). The 26 lines of three or
+   more words: 10 looked at, the slant script right in all. Most were a verse quotation the
+   delegate marked to its end where the print sets only its head in italics and the rest
+   of the quotation roman, after a gloss or straight on (0134 `*Et ipse*: supple magister,
+   dixit michi: Videbis quando` / `erunt plus propinqui, …`; 0137 `*vides, adhuc non me
+   relinquit*: amor conduxit nos ad` / `unam mortem`); the other way, retellings printed
+   italic (`*Prima harum, de quibus nora tu vis scire*, dixit`). The 22 lines of one or two
+   words, all in the image: the slant script right in 16, the delegate in 6 (a lone
+   capital at the line head measured about −0.20: 0131 `Non`, 0135 `Nos`, 0138 `Nos`;
+   `etc.` outside the pair by the convention). Written into `ocr/la`: 137 pairs.
+
+   **Part 1, Inferno 6** (0141–0149, 2026-11-04): files
+   exact and closed; 41 lines differed (4.6 a page), all looked at in the image: the
+   slant script right in 36, the delegate in 5 (0143 `*Vertunt*`, 0145 `non`, 0147
+   `nunc`, a lone capital at the line head: 0145 `Vos`, 0149 `Nos`). Inferno 5's feedback
+   (italics only up to the first gloss) made the delegate stop there, but here the print
+   mostly goes on in italics after the gloss, the gloss alone roman (0145 `*Sed dic
+   michi*: *Quis tu es in tam doloroso loco expo-*`; 0146 `*vitatis partite*? (idest
+   divise) *si aliquis est in ea iustus*`; 0149 `*tamen plus ultra, idest iuditium, quam
+   citra et*` with the gloss inside), while Inferno 5 has the rest roman: the text cannot
+   tell where a quotation's italics end. A bracketed `(alias sum)` has `alias` roman, `sum`
+   italic. Written into `ocr/la`: 140 pairs.
+
+   **Part 1, Inferno 7** (0151–0160, 2026-11-04): the
+   first-gloss rule withdrawn, the delegate marked the quotations through to their end;
+   files exact and closed; 65 lines differed (6.5 a page). The 37 lines of three or more
+   words: 19 looked at, the slant script right in all; nearly all were long quotations
+   the delegate marked and the print sets roman (0157 `Ille, cuius scientia omnia
+   transcendit, …` over seven lines; 0158 `Quare una gens imperat, scilicet dominatur, et
+   alia lan-`; 0160 `Tunc bonus magister dixit: Fili, iam vides animas il-`), beside like
+   ones italic (0159 `*Sed ipsa est beata, et hec non audit*;`). The 28 lines of one or
+   two words, all in the image: the slant script right in 22 (single words glossed inside
+   a sentence: `*troppam*:`, `*urlis* (idest`, `*per*` / `*rim*, idest …, *puppis*,
+   idest`; words cited as words roman: `Pape`, `Alpha`, `Guerci`), the delegate in 6
+   (0152 `Ay iustitia` in the chapter divisions, measured +0.38; 0159 `bisei` on a shifted
+   box; a line-head capital `Non`; 0156 `Vanas`, 0158 `Verum`). After four cantos the
+   delegate's rate does not fall: each correction moves its errors to the other side.
+   Written into `ocr/la`: 110 pairs.
+
+   **Part 1, Inferno 8** (la-el-codex at the user's wish,
+   0163–0170, 2026-11-04): the task cut down to the basic rules, as finer rules only moved
+   the errors; files exact (no spelling changed) and closed; 204 pairs marked, 118 lines
+   differed. This canto's print sets in italics only the head of a lemma (`*E io
+   dico*:`, `*Corda*:`, `*In ceno*:`, `*Cui ego*:`) and a word or two glossed inside a
+   sentence (`*follem*, idest`, `*la pugna*: idest`), the Latin retelling after it roman;
+   codex marked the retellings throughout. 37 lines looked at in the image (all 18 of one
+   or two words): the slant script right in all. The lines were rebuilt from the slant
+   by script (an unknown or one-letter word takes its measured neighbours), one fixed by
+   hand (0167 `*A fangosis gentibus*:`). Written into `ocr/la`: 56 pairs.
+
+   **Without a delegate** (2026-11-04): the same canto given to la-el-agy for comparison
+   differed from the final marks as much as codex (117 lines against 118). A script that
+   marks from the slant alone (the stream of a paragraph across line ends; an unknown or
+   one-letter word takes its neighbours, a broken word's halves the larger slant, a
+   capital just before an italic word is taken in, `etc.` stays out) and flags the lines
+   to look at (Tesseract's words unlike the line; an unknown word where italic and roman
+   meet; a broken word's halves unlike; a word unlike both neighbours) was tried on
+   0079–0170 (82 pages) against the final marks: 26 lines differ, 23 of them flagged; 76
+   lines flagged (0.93 a page, against 5–7 lines a page differing with a delegate); 3 lines
+   missed (0095 `O musa` on a misread box, 0108 `ista` italic, 0167 a lone `*O*` at the
+   line end). It also found two errors of the final marks, corrected in the image: 0147
+   `*num*:` (the half of `do-` / `num`), 0152 `A adverbium` (roman).
+   Matching the verse (la_lemmacheck's passages) adds nothing: italic and roman meeting
+   inside a matched passage with no stop flags 10 lines, 8 differing, all flagged
+   already; an italic run outside any passage flags 395 lines for one more (0108 `ista`);
+   a passage with no italic flags 391 lines and none differing (most matched passages are
+   roman retellings).
+
+   **Part 1, Inferno 9** (0173–0182, 2026-11-04): the first canto by the script alone, as
+   a test on pages it was not made from. Every commentary line was read in the image
+   (the columns at 0.6 scale). The script's marks differed from the print in 3 lines: 0179
+   `*s'abbica*` (the `s'` left out; flagged), 0175 `*Ego*: scilicet Dantes:` (a
+   paragraph's head measured +0.04) and 0178 `ex` (+0.16, at the threshold), the last two
+   not flagged. Two flags were added for them: `alone` now looks at the nearest measured
+   words past an unknown one and flags a lone italic word under +0.20; `head` flags a
+   paragraph's first word roman before a colon with italics after it. With them all 3
+   are flagged (12 lines in all), and on 0079–0170 the flags grow from 76 to 78 lines with
+   the same 3 missed. Written into `ocr/la`: 93 pairs. Seen in passing and corrected:
+   0180:81 `virgula` (the verse's word) for the print's `virga`.
+
+   **Part 1, Inferno 10–12** (0185–0195, 0197–0205, 0207–0219; 2026-11-04): by the script
+   alone, the slant run over 0185–0219 at once (the essays 0196, 0206 and 0220 left out).
+   43 lines flagged on 33 pages (1.3 a page; most of them single Italian words glossed
+   inside a sentence, `*stia*, idest`, `*roccia*, idest`, flagged `alone`, and right), all
+   decided in the image; 3 corrected, all a short word or an apostrophe at the head of an
+   italic run: 0203 `ab *a*, quod est *sine*` (an etymology, the one-letter `a`), 0209
+   `*a chi su fosse*`, 0212 `*s'approccia*` (as 0179 `*s'abbica*`). The 7 `box` lines
+   (0187, 0192, 0194) were all roman. Written into `ocr/la`: 41, 63 and 68 pairs. Seen in
+   passing and corrected: 0201:83 `Biscalia` for the print's `Biscatia`.
+
+   Per part (from Inferno 10; the script adopted by the user, 2026-11-04, in place of a
+   delegate), one canto at a time:
+   1. The slant runs: `la_italic.py FIRST LAST -t ocr/la/tesseract -v -o SLANT` over the
+      canto's pages.
+   2. `la_italicmark.py SLANT -d OUTDIR -o FLAGS`: the pages marked from the slant (the
+      essays left out) and the lines to look at.
+   3. The flagged lines decided in the image (line crops) and corrected in OUTDIR; the
+      words unchanged and every line closed.
+   4. Written into `ocr/la`; `la_check.py` over the pages and `la_seqcheck.py 79 1270`
+      unchanged against a snapshot of `HEAD`; `convert_la.py` (only `NO NUMBER` 0099 ×2,
+      0363, 0856); this section updated with the canto's counts. A transcription error
+      seen in passing is corrected (confirmed in the image) and noted here.
+   Inferno 1–8 went through a delegate (batch 1 and the records above), Inferno 9–12
+   through the script.
+4. **Scope**: the canto pages, the lemmas and the `other` italics (words cited, a name
+   like `Pastoralis`; widened with the user, 2026-11-04, and batch 1 reviewed). The
+   essays, front matter and appendix only if the user agrees, after the parts.
 5. **Scripts** that read `ocr/la` (`la_check.py`, `la_seqcheck.py`, `la_lostcheck.py`,
-   `la_lines.py`, `la_survey.py`, the two checks) remove `*` before comparing;
-   `convert_la.py` keeps the marks, joins a pair broken at a line end (`*dedit ven-*` /
-   `*tum:*` → `*dedit ventum:*`, and `*a*` / `*b*` → `*a b*`) and checks that every
-   line has its pairs closed.
-6. **Commit**: the scripts, then `ocr/la` per batch, then `texts` (texts/PLAN.md and
-   texts/la/README.md: italics now transcribed), then this PLAN (the convention under
-   "Conventions settled during the check", "Known limits").
+   `la_lines.py`, `la_survey.py`, `la_lemmacheck.py` and so `la_versecheck.py`) remove the
+   marks before reading (`unmark()`: every `*` not after a digit); `convert_la.py` keeps
+   them, joins a pair broken at a line end (`*dedit ven-*` / `*tum*:` → `*dedit ventum*:`,
+   `*a*` / `*b*` → `*a b*`) and reports a line whose pairs are not closed. Done
+   (2026-11-03).
+6. **Commit** per part, when the user says so: `ocr/la` (the part's pages), `texts/la`
+   (its canto files), this PLAN, as three commits. Before part 1's, the scripts (step 5:
+   `la_italic.py`, `la_italicmark.py`, `unmark()` in the readers, `convert_la.py`) as one
+   commit. After part 9:
+   texts/PLAN.md and texts/la/README.md (italics now transcribed), the convention under
+   "Conventions settled during the check", "Known limits".
 
 ### Check 2: rare forms near common ones (`ocr/la_lexcheck.py`)
 
@@ -445,7 +645,9 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
   --readings DIR [-o OUT] | --page-readings DIR [-o OUT])`: the verse check (DONE.md,
   "Verse check"): the line or page images of the Latin (or Italian) verse, and the
   comparison of a reader's `DIR/readings.tsv` with `ocr/la`.
-- `ocr/la_italic.py`, `ocr/la_lexcheck.py`: to be written ("Checks").
+- `ocr/la_italic.py FIRST LAST -t TESS [-o OUT] [-v] [--boxes DIR]`: the italic words of the
+  commentary by their slant ("Checks", Italics, step 1).
+- `ocr/la_lexcheck.py`: to be written ("Checks").
 
 The working data of the completed work in `tmp/` (`la-markup/`, `la-mark7/`, the paid
 answers; DONE.md) are read by no step any more. Everything in `tmp/` but `tmp/bak/` is
