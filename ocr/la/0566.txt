@@ -22,7 +22,7 @@ Que appareat diem plorare qui moritur;
 Auditum, et admirari unam de animabus
 Que, sursum levata, auscultare petebat cum manu.
 
-Erat iam hora. Era già l'ora: istud est octavum ca-
+*Erat iam hora*. *Era già l'ora*: istud est octavum ca-
 pitulum huius Purgatorii, in quo auctor, ex quo tractavit
 in precedenti de quinta specie negligentie, illorum qui
 tardaverunt penitere usque ad mortem, impediti propter
@@ -54,12 +54,12 @@ quam claudatur; etiam quod illi, qui sunt in navi et
 fuerunt partem vie, quando fit nox, recordantur uxoris,
 filiorum, et amicorum, quibus de mane in suo recessu
 dixerunt: Ad Deum; idest, Remaneatis cum Deo.
-Era già l'hora. Erat iam hora, que vertit desiderium
+*Era già l'hora*. Erat iam hora, que vertit desiderium
 navigantibus et tenerefacit cor, scilicet ex affectione et
 amore, in die quo dixerunt dulcibus amicis: Ad Deum; sci-
 licet ab ipsis discedendo (potest etiam dici, quod navigan-
 tes, maxime cum galeis, si bene navigaverunt de die, de sero
-liberi provident sibi de portu et quiete. Tenerescit, idest
+liberi provident sibi de portu et quiete. *Tenerescit*, idest
 dulcescit: nam in primo sero, post recessum, magis pere-
 grinantes cogitant de amicis, quos dimiserunt, quam postea
 in aliis noctibus); et quod novus peregrinus amoris, idest

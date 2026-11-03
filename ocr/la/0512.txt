@@ -63,8 +63,8 @@ stro Ovi, ubi in una amphora est illud ovum. Ego Episcopus
 habui in manibus illa ossa in anno Domini millesimo qua-
 dringentesimo decimotertio, penultima die mensis augusti,
 qua die comedi in prandio cum predicto rege Ladislao.
-Dicit vesprum: loquitur ibi auctor more gallicorum, qui
-quando volunt dicere Bonum sero, dicunt bono vespro:
+Dicit *vesprum*: loquitur ibi auctor more gallicorum, qui
+quando volunt dicere Bonum sero, dicunt *bono vespro*:
 Bonum vesperum. Vult dicere Virgilius, quod Neapolim erat
 vesperum, idest sero, vel nox, quia in emispirio inferiori
 iam erat ortus sol: ergo Neapolim, civitate in emispirio
@@ -77,7 +77,7 @@ non ingumbrat, idest occupat, idest quod celi non faciunt
 umbram unum alteri. Nam Saturnus solem non impedit,
 nec sol Venerem.
 
-Et sufferit. Nunc auctor tangit secundam questionem
+*Et sufferit*. Nunc auctor tangit secundam questionem
 que fieri potest. Bene est iam dictum, quod anima non
 facit umbram, quia est incorporea et cedit radiis solis:
 quomodo ergo potest pati frigus, calorem et alias penas sibi
@@ -101,7 +101,7 @@ Nam unus Deus, qui est trinus in personis et unus in
 substantia, facit, ordinat, illas animas incorporeas sic pati
 a rebus corporeis.
 
-State contenti. Iam bene consulit humane genti Virgi-
+*State contenti*. Iam bene consulit humane genti Virgi-
 lius. Nota quod Aristotiles, in primo Posteriorum, tractat
 quod duo sunt modi cognoscendi; unus a priori, et alter
 a posteriori. Scire a priori est scire res per causas suas:

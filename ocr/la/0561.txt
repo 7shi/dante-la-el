@@ -48,11 +48,11 @@ precedens, scilicet saltem tertius suus ritmus, qui est talis:
 Ubi aqua nascitur, scilicet Multa, aqua, sic vocata, que
 ascendit in Albiam, scilicet in illam aquam, et sic Albia
 portat in mare; et tunc illa duo, nomina fluminum. Et ubi
-ab alio textu habetur ascendit, secundum expositionem
+ab alio textu habetur *ascendit*, secundum expositionem
 superiorem deberet dici: ubi, aqua nascitur Multa, que vadit
 in Albiam, et Albia in mare portat.
 
-Et ille nasutus. Descendit auctor ad tertium spiritum.
+*Et ille nasutus*. Descendit auctor ad tertium spiritum.
 Nota quod auctor multum laudat Othocherum propter ex-
 cellentiam virtutum suarum, quia in infantia multum cla-
 ruerunt virtutes eius; et opposito modo se habuit filius
@@ -100,7 +100,7 @@ nam de sua palma, suspirando, lectum.
 Pater et socer, scilicet Guillelmus, rex Navarre, et Lo-
 dovicus rex Frantie, fuerunt boni; licet Philippus, filius
 Lodovici, qui habuit filiam regis Guillelmi, fuerit valde
-malus. Sunt mali Frantie, idest malorum regum Frantie.
+malus. *Sunt mali Frantie*, idest malorum regum Frantie.
 Suspirant propter hoc, et dolent, quia sciunt vitam eorum
 successorum vitiatam et lordam, idest stercorizatam; et
 inde venit dolor, idest procedit, qui sic eos lanceat, idest

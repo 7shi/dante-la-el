@@ -41,8 +41,8 @@ Sed bonitas infinita habet ita grandia brachia,
 Quod apprehendit quotquot convertitur ad illam.
 
 Ego me volvi versus eum et respexi fixus, idest fixe
-intuens: flavus erat et pulcher (biondo, flavus) et gentilis
-aspectus; sed unum de superciliis, unus culpo, idest ictus,
+intuens: flavus erat et pulcher (*biondo*, flavus) et gentilis
+aspectus; sed unum de superciliis, unus *culpo*, idest ictus,
 diviserat unum superciliorum divisum. Iste fuit spiritus
 Manfredi regis, qui vere habuit aspectum regalem. Auctor
 tamen non potuit in vita presenti vidisse istum regem
@@ -51,7 +51,7 @@ est, fuit istis vulneribus interfectus in millesimo ducente-
 simo sexagesimo quinto, et Dantes natus est in millesimo
 ducentesimo septuagesimo quinto. Sed bene auctor potuit
 audivisse ab his, qui viderant eum recentissime, et quomodo
-ipse rex Manfredus erat pulcher in aspectu, biondo, idest
+ipse rex Manfredus erat pulcher in aspectu, *biondo*, idest
 flavus in capillis, et de aliis suis conditionibus.
 
 Quando a me fuit humiliter disdictum, idest denegatum,

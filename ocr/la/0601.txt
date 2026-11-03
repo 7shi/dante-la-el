@@ -56,7 +56,7 @@ Et ut facerem eum pium ad istam salmam.
 Guilielmus Aldobrandescus fuit meus pater:
 Nescio si nomen eius unquam fuit vobiscum.
 
-De! si iustitia et pietate. De! si iustitia et pietà: hec
+*De*! *si iustitia et pietate*. *De*! si *iustitia et pietà*: hec
 est secunda pars huius capituli, in qua Virgilius petit a
 quadam umbra, ut doceat ei viam meliorem ascendendi.
 Nam hucusque non intraverunt cornicem, sed steterunt in
@@ -94,7 +94,7 @@ de numero impossibilium.
 Iste spiritus excusat se, quia non potest surgere, ut vi-
 deat Dantem, dicens: Et si ego non essem impeditus a
 saxo, qui cervicem meam superbam domat, unde portare
-convenit michi, idest me oportet, visum demissum, basso,
+convenit michi, idest me oportet, visum demissum, *basso*,
 illum qui adhuc vivit, et se non nominat, respicerem ego,
 ut viderem si illum cognosco, et ut facerem eum pium ad
 istam salmam.

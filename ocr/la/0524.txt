@@ -73,7 +73,7 @@ homo volet.
 
 Quia dixit, quod oportet volare, restringit dictum, decla-
 rans cum quibus alis, dicens: Dico cum alis levibus, idest
-velocibus, snelle, et cum plumis grandis desiderii, idest ar-
+velocibus, *snelle*, et cum plumis grandis desiderii, idest ar-
 dentissime affectionis, idest rationis et contemplationis,
 retro illum conductorem, idest Virgilium, qui spem michi
 dabat, idest faciebat michi viam; quia ratio conducebat
