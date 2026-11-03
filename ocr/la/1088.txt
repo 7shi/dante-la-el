@@ -40,8 +40,8 @@ Quem facit in nube ignis velox.
 A nomine Iosue, quomodo fuit factum,
 Nec michi fuit notum prius dicere quam factum.
 
-Sicut videtur per aliquam vicem. Come se vede per
-alcuna volta: hec est secunda pars istius capituli, in qua
+*Sicut videtur per aliquam vicem*. *Come se vede per*
+*alcuna volta*: hec est secunda pars istius capituli, in qua
 illa anima Cacciaguide ostendit aliquos spiritus, qui fue-
 runt magne fame. Primo tamen auctor ponit dispositionem
 illius anime, dicens, quod aliquando in facie hominis, pro-
@@ -55,7 +55,7 @@ tunc percipimus aliquid de affectu animi. Et sic in quodam
 flammigiare, quod fecit illa anima, sive fulgorare, Dantes
 percepit quod adhuc volebat magis loqui cum ipso auctore.
 Ideo dicit: Sicut videtur per aliquam vicem, vel aliquando,
-affectus, scilicet alicuius hominis, in vista, idest in facie,
+affectus, scilicet alicuius hominis, in *vista*, idest in facie,
 sive in apparentia, si est tantus, scilicet ille affectus, quod
 ab eo sit tota anima subtracta (quia non omnis parvus
 affectus animi mutaret colorem in facie, sed bene affectus
@@ -65,7 +65,7 @@ ego voluntatem in eo, ratiocinandi mecum adhuc aliquan-
 tulum.
 
 Ipse incepit, scilicet ille fulgor, sive spiritus fulgurans:
-In ista quinta soglia, idest limine, idest quinto planeta,
+In ista quinta *soglia*, idest limine, idest quinto planeta,
 scilicet Martis, arboris, que vivit de summitate, et fructi-
 ficat semper, et nunquam perdit folia, scilicet frondes (ad
 differentiam aliarum arborum, que in autumpno perdunt

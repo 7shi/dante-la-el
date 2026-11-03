@@ -36,7 +36,7 @@ Contentus cogitationibus contemplativis.
 Fertiliter, et nunc est factum vanum,
 Ita quod cito convenit quod relevetur.
 
-quia ab omni creata vista, idest creata visione, est scissum,
+quia ab omni creata *vista*, idest creata visione, est scissum,
 idest remotum.
 Et ad mundum mortalem, quando redis, idest ad quem
 rediturus es, istud reporta, idest istud quod dico modo, ita
@@ -58,7 +58,7 @@ verba sua, quod ego dimisi questionem, et me retraxi ad
 petendum eam, scilicet animam Petri Damiani, humiliter,
 que ipsa fuit, idest de nomine suo.
 
-Intra duo lictora Ytalie. Tra' dui liti d'Italia: hec est
+*Intra duo lictora Ytalie*. *Tra' dui liti d'Italia*: hec est
 quarta pars huius capituli, in qua anima Petri Damiani
 manifestat se auctori et vitam suam, reprehendendo vitam
 cardinalium presentium. Et primo dicit locum ubi edifi-

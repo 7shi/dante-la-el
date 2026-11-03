@@ -36,7 +36,7 @@ Vel per loquelam; vel per actum, signatum
 
 Et ad nomen alti Machabei, idest Iude Machabei, vidi
 moveri unum aliud roteando, idest in circum se movendo;
-et letitia erat ferza, idest scutica, palei, idest croci. Hic
+et letitia erat *ferza*, idest scutica, palei, idest croci. Hic
 notandum quod in civitate Florentie pueri faciunt ali-
 quando unum talem ludum. Ipsi pueri habent dimidium
 unius croci. Crocus est unum parvum corpus rotundum,
@@ -108,5 +108,5 @@ sic canendo michi ostendit qualis artista erat in cantu,
 idest quomodo sciebat cantare bene dulciter, et sic novi
 bonam artem cantus in eo fore.
 
-Ego me revolvi ad meum dextrum latus. Io mi ri-
-volsi dal mio destro lato: hec est tertia pars huius ca-
+*Ego me revolvi ad meum dextrum latus*. *Io mi ri-*
+*volsi dal mio destro lato*: hec est tertia pars huius ca-

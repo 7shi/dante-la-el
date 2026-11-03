@@ -36,8 +36,8 @@ Sic facit de Florentia fortuna:
 Quicquid ego dicam de aliis Florentinis,
 Unde est fama in tempore absconsa.
 
-Si tu respicis Lunim et Urbisaliam. Si tu riguardi
-et a Luni et Urbisalia: hec est tertia pars huius capituli,
+*Si tu respicis Lunim et Urbisaliam*. *Si tu riguardi*
+*et a Luni et Urbisalia*: hec est tertia pars huius capituli,
 in qua dominus Cacciaguida recitat multas familias an-
 tiquas civitatis Florentie, que tunc, tempore suo, erant
 multo onorabiles et valentiores aliis, quarum alique sunt
@@ -73,7 +73,7 @@ Si tu respicis Lunim, idest civitatem Luni, et Urbisa-
 liam, idest aliam civitatem, quomodo iverunt, idest defe-
 runt, et quomodo vadunt, idest deficiunt, retro, idest post
 illam, Clusium (alia civitas), et Senogallium (alia civitas),
-audire quomodo schiatte, idest stirpes, destruuntur, non
+audire quomodo *schiatte*, idest stirpes, destruuntur, non
 apparebit tibi nova res nec fortis, postquam civitates earum
 terminum, idest finem, habent.
 

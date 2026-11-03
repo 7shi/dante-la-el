@@ -55,7 +55,7 @@ fore [iustum], et licet nesciamus videre istam iustitiam; et
 certe non possumus ipsam a nobis videre, quia iudicia Dei
 abyssus multa; nos videmus pauca, et paucam vel nullam
 scientiam habemus; et ideo debemus credere quod Deus
-bene facit, et non querere quare sic fecit: quia cum curto
+bene facit, et non querere quare sic fecit: quia cum *curto*
 et brevi videre, idest cum pauca scientia, non possumus
 a longe videri, nec archana iudicare.
 

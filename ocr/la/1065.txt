@@ -97,7 +97,7 @@ repleta est rusticis, ruralibus et pravis viris.
 Et melius esset et utilius et expedientius civitati, quod
 illi essent vicini et non cives, sicut solebant esse, et
 quod isti et alii in Gallugio (est una villa prope Floren-
-tiam) et in Trespiano (alia villa etiam prope civitatem
+tiam) et in Trespiano (alia villa etiam *prope civitatem*
 Florentie) starent, extra muros civitatis Florentie. O quan-
 tum esset melius esse vicinas illas gentes quas dico, et
 Gallutio et Trespiano (due ville sunt ex quibus vene-
