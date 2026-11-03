@@ -2,7 +2,7 @@
 
 # Capituli Secundi Summarium
 
-In secundo capitulo, quod incipit: Dies declinabat, etc., Lo yorno se n'andava, dicit auctor quomodo, omnibus aliis animalibus disponentibus se ad quietem capiendam, ipse solus disponebat se ad labores. Ideo primitus invocat adiutorium a Musis et a mente sua memorosa; sed dubitans, dixit Virgilio: O poeta, dux mi, inspice et considera virtutem meam, si ipsa sufficit pro tanto labore. Ego dubito multum; quia licet pater Silvii, scilicet Eneas, iverit ad Infernum et redierit, sicut tu asseris, scilicet in sexto Eneydos; et licet Vas electionis, scilicet Sanctus Paulus, etiam iverit et redierit; de hiis non est mirum: nam, iter Enee fuit causa alme urbis Rome et universalis Imperii Romani in celo electi, ut ibi sederet successor Petri pro loco sancto. Etiam iter Vasis electionis fuit utile, quia inde confortata est illa fides, que est principium salutis eterne. Sed ego non sum Eneas, nec Paulus, nec mereor facere tale iter, sicut ego credo, et bene. Ideo ego timeo venire, dubitans ne meum iter sit vanum. Si prudens es, bene intelligis, et melius quam ego dicam. Respondens Virgilius dixit auctori: A vilitate offenderis; non te oportet timere de aliquo, quia tu habes tres dominas in celo, que tui habent curam. Una innominata est, scilicet ydea Dantis tui, sive predestinatio. Hec petiit Luciam, idest misericordiam, in tuum favorem; et demum Lucia venit ad Beatricem sedentem cum antiqua Rachele, et retulit sibi pericula tua: que Beatrix venit ad me in Infernum, ubi eram cum spiritibus suspensis in suspiriis, rogans me ut venirem ad auxiliandum te. Et ecce veni, volens te iuvare. Cur igitur times, habens tales tres dominas in auxilium tuum, et meum loqui tantum bonum tibi promictit? Quibus auditis, auctor resumpsit vires, dicens: Vade; nam ego redii ad primum velle, quod habebam in fine capituli precedentis. Incipias iter, et ego te sequar hylari facie atque leta.
+In secundo capitulo, quod incipit: *Dies declinabat*, etc., *Lo yorno se n'andava*, dicit auctor quomodo, omnibus aliis animalibus disponentibus se ad quietem capiendam, ipse solus disponebat se ad labores. Ideo primitus invocat adiutorium a Musis et a mente sua memorosa; sed dubitans, dixit Virgilio: O poeta, dux mi, inspice et considera virtutem meam, si ipsa sufficit pro tanto labore. Ego dubito multum; quia licet pater Silvii, scilicet Eneas, iverit ad Infernum et redierit, sicut tu asseris, scilicet in sexto Eneydos; et licet Vas electionis, scilicet Sanctus Paulus, etiam iverit et redierit; de hiis non est mirum: nam, iter Enee fuit causa alme urbis Rome et universalis Imperii Romani in celo electi, ut ibi sederet successor Petri pro loco sancto. Etiam iter Vasis electionis fuit utile, quia inde confortata est illa fides, que est principium salutis eterne. Sed ego non sum Eneas, nec Paulus, nec mereor facere tale iter, sicut ego credo, et bene. Ideo ego timeo venire, dubitans ne meum iter sit vanum. Si prudens es, bene intelligis, et melius quam ego dicam. Respondens Virgilius dixit auctori: A vilitate offenderis; non te oportet timere de aliquo, quia tu habes tres dominas in celo, que tui habent curam. Una innominata est, scilicet ydea Dantis tui, sive predestinatio. Hec petiit Luciam, idest misericordiam, in tuum favorem; et demum Lucia venit ad Beatricem sedentem cum antiqua Rachele, et retulit sibi pericula tua: que Beatrix venit ad me in Infernum, ubi eram cum spiritibus suspensis in suspiriis, rogans me ut venirem ad auxiliandum te. Et ecce veni, volens te iuvare. Cur igitur times, habens tales tres dominas in auxilium tuum, et meum loqui tantum bonum tibi promictit? Quibus auditis, auctor resumpsit vires, dicens: Vade; nam ego redii ad primum velle, quod habebam in fine capituli precedentis. Incipias iter, et ego te sequar hylari facie atque leta.
 
 <!-- p. [40] (0094) -->
 
@@ -44,15 +44,15 @@ Sed hic oritur dubium; nam dixit in capitulo immediate precedenti:
 
 Tempo era del principio del mattino:
 
-tempus erat matitunale, idest mane, circa ortum solis. Respondetur, quod posuit tempus matitunale, quando habuit sompnialem visionem; quod tempus dicitur congruum ad habendum visionem non procedentem ex crapula, etc., ut est dictum in capitulo precedenti. Hic, modo, describitur tempus, quo incipit descendere in Infernum, scilicet principium noctis, volens adactare tempus itineri. Quia Infernus est locus tenebrarum; ideo fingit noctem, que est tenebrosa, et tempus ad peccandum aptum, quia omnis qui male agit, odit lucem (IOHAN. III capit.). Vult auctor dicere in effectu: Tali hora temporis, scilicet iam facta nocte, ego incepi magnum laborem; et erat duplex labor, mentalis et corporalis. Lo yorno. Dies declinabat: sol occiderat iam. L'aier bruno: scilicet obscurus fiebat. Pro aiere possunt intelligi cetera elementa, quia quasi omnia animalia de nocte se tollunt a laboribus suis, idest quiescunt.
+tempus erat matitunale, idest mane, circa ortum solis. Respondetur, quod posuit tempus matitunale, quando habuit sompnialem visionem; quod tempus dicitur congruum ad habendum visionem non procedentem ex crapula, etc., ut est dictum in capitulo precedenti. Hic, modo, describitur tempus, quo incipit descendere in Infernum, scilicet principium noctis, volens adactare tempus itineri. Quia Infernus est locus tenebrarum; ideo fingit noctem, que est tenebrosa, et tempus ad peccandum aptum, quia omnis qui male agit, odit lucem (IOHAN. III capit.). Vult auctor dicere in effectu: Tali hora temporis, scilicet iam facta nocte, ego incepi magnum laborem; et erat duplex labor, mentalis et corporalis. *Lo yorno*. *Dies declinabat*: sol occiderat iam. *L'aier bruno*: scilicet obscurus fiebat. Pro aiere possunt intelligi cetera elementa, quia quasi omnia animalia de nocte se tollunt a laboribus suis, idest quiescunt.
 
-Io solo uno: scilicet, ego Dantes incumbebam tali itineri et tali labori.
+*Io solo uno*: scilicet, ego Dantes incumbebam tali itineri et tali labori.
 
-Guerra: scilicet bellum asperum et difficile; nam parabat se ad bellum contra vitia in se et in aliis, sed maxime in se, quia vincit omnia vitia. Hec est maxima victoria et triumphus.
+*Guerra*: scilicet bellum asperum et difficile; nam parabat se ad bellum contra vitia in se et in aliis, sed maxime in se, quia vincit omnia vitia. Hec est maxima victoria et triumphus.
 
-Del cammino: tangit laborem corporalem.
+*Del cammino*: tangit laborem corporalem.
 
-De la pietate et de compaxione: tangit penam mentalem. Che ritrarrà: scilicet duplum laborem mens mea, que non vacillat, nec vadit per sompnia vana; sed describet et narrabit res veras.
+*De la pietate et de compaxione*: tangit penam mentalem. *Che ritrarrà*: scilicet duplum laborem mens mea, que non vacillat, nec vadit per sompnia vana; sed describet et narrabit res veras.
 
 <!-- p. 41 (0095) -->
 
@@ -106,7 +106,7 @@ De la pietate et de compaxione: tangit penam mentalem. Che ritrarrà: scilicet d
 
 (1) o Virgilio. — (2) Enea. — (3) mortale.
 
-O musa: modo invocat more poetarum. Poete solent invocare unam Musarum, scilicet Euraniam, vel Calliopem, vel Erato, vel Clio. Sed iste invocat altiori modo, dicendo: O musa.
+*O musa*: modo invocat more poetarum. Poete solent invocare unam Musarum, scilicet Euraniam, vel Calliopem, vel Erato, vel Clio. Sed iste invocat altiori modo, dicendo: O musa.
 
 Tria etenim expediebant auctori ad huius operis perfectionem: scilicet profunditas scientiarum, subtilitas ingenii, vivacitas memorie. Primum tangit, quando dicit:
 
@@ -122,27 +122,27 @@ O mente che scrivisti.
 
 Iste sequitur Virgilium invocantem in primo Eneydos, sic dicentem: Musa, causas mihi memora, etc.
 
-Hora: nota tempus. Apparebit tua nobilitas.
+*Hora*: nota tempus. Apparebit tua nobilitas.
 
-Ciò ch'io vidi: idest, quidquid vidi, scilicet, oculis mentalibus.
+*Ciò ch'io vidi*: idest, quidquid vidi, scilicet, oculis mentalibus.
 
-Scrivisti: idest, noscita in phantasia et cellula memorativa. Hic apparebit si eris valnes. Hec secure dixit Dantes, quia sciebat semetipsum magne capacitatis, magni ingenii, et tenacissime [memorie], et inventionis universalis.
+*Scrivisti*: idest, noscita in phantasia et cellula memorativa. Hic apparebit si eris valnes. Hec secure dixit Dantes, quia sciebat semetipsum magne capacitatis, magni ingenii, et tenacissime [memorie], et inventionis universalis.
 
-Io comenzai: ista est secunda pars principalis, etc.; in qua movet dubium, volens probare se non esse sufficientem ad hoc opus perficiendum, respondendo, quasi, cuidam tacite obiectioni. Posset sibi dicere Virgilius: Sis certus, quod tu es sufficiens ire ad Infernum et de ipso redire; quia hoc fecit Eneas vivens, secundum fictionem meam: similiter Sanctus Paulus, ut habetur II ad Corint. XIII et XIV capitulis. Respondet Dantes, quod licet hii iverint ad Infernum [et] redierint, propter hoc non concluditur quod ego sim sufficiens. Licitum fuit Enee, propter effectum gloriosum, qui debebat sequi ex itinere Enee; licitum fuit Sancto Paulo, qui fuit postmodum post reditum confirmator nostre fidei christiane; sed michi non suadeo, quod sim sufficiens ego, etc.
+*Io comenzai*: ista est secunda pars principalis, etc.; in qua movet dubium, volens probare se non esse sufficientem ad hoc opus perficiendum, respondendo, quasi, cuidam tacite obiectioni. Posset sibi dicere Virgilius: Sis certus, quod tu es sufficiens ire ad Infernum et de ipso redire; quia hoc fecit Eneas vivens, secundum fictionem meam: similiter Sanctus Paulus, ut habetur II ad Corint. XIII et XIV capitulis. Respondet Dantes, quod licet hii iverint ad Infernum [et] redierint, propter hoc non concluditur quod ego sim sufficiens. Licitum fuit Enee, propter effectum gloriosum, qui debebat sequi ex itinere Enee; licitum fuit Sancto Paulo, qui fuit postmodum post reditum confirmator nostre fidei christiane; sed michi non suadeo, quod sim sufficiens ego, etc.
 
-Comenzai: idest, incepi loqui.
+*Comenzai*: idest, incepi loqui.
 
-Guarda: idest, examina virtutem meam intellectualem. Fidi: idest, fidenter commictas.
+*Guarda*: idest, examina virtutem meam intellectualem. *Fidi*: idest, fidenter commictas.
 
-Tu dici: idest, dicere potes.
+*Tu dici*: idest, dicere potes.
 
-Di Silvio el parente: idest, Eneam, quia fuit pater filii, nati ex Lavina, filia regis Latini, quam habuit in uxorem, interfecto Turno.
+*Di Silvio el parente*: idest, Eneam, quia fuit pater filii, nati ex Lavina, filia regis Latini, quam habuit in uxorem, interfecto Turno.
 
-Corructebele anchora: idest, in vita corporea. Ad immortale secolo: idest, ad Infernum, qui est seculum quod nunquam moritur. Virgilius dicit quod Eneas ivit ad Infernum (in sexto Eneydos), ad denotandum quod omnis princeps et rector gentium sapiens, debet ire cum mente ad Infernum, idest, considerare vitia et ipsa exterminare.
+*Corructebele anchora*: idest, in vita corporea. *Ad immortale secolo*: idest, ad Infernum, qui est seculum quod nunquam moritur. Virgilius dicit quod Eneas ivit ad Infernum (in sexto Eneydos), ad denotandum quod omnis princeps et rector gentium sapiens, debet ire cum mente ad Infernum, idest, considerare vitia et ipsa exterminare.
 
-Però se l'avversario d'omne male: si adversarius omnis mali, idest, Deus, dedit gratiam Enee eundi ad Infernum, hoc fecit propter effectum magnum provenientem ex tali itinere.
+*Però se l'avversario d'omne male*: si adversarius omnis mali, idest, Deus, dedit gratiam Enee eundi ad Infernum, hoc fecit propter effectum magnum provenientem ex tali itinere.
 
-E chi: scilicet in substantia. E il quale: scilicet in potentia. Idest, si tu, Virgili, finxisti Eneam ivisse ad Infernum, tu bene fecisti; nec hoc videtur iniustum alicui sane mentis, pensando quod Eneas fuit electus in celo empireo ad faciendum Romam, que habuit et habet tantum imperium et generale dominium. Roma fuit quidam effectus ipsius Enee; que Roma fuit electa pro loco sancto, scilicet
+*E chi*: scilicet in substantia. *E il quale*: scilicet in potentia. Idest, si tu, Virgili, finxisti Eneam ivisse ad Infernum, tu bene fecisti; nec hoc videtur iniustum alicui sane mentis, pensando quod Eneas fuit electus in celo empireo ad faciendum Romam, que habuit et habet tantum imperium et generale dominium. Roma fuit quidam effectus ipsius Enee; que Roma fuit electa pro loco sancto, scilicet
 
 <!-- p. 42 (0096) -->
 
@@ -206,23 +206,23 @@ E chi: scilicet in substantia. E il quale: scilicet in potentia. Idest, si tu, V
 
 pro sacerdotio summo; in qua Roma sedere debet successor magni Petri, idest, quilibet Papa, qui est successor Petri, veri vicarii Christi. Hic notandum, quod Virgilius fingit in sexto Eneydos, Eneam ivisse ad Infernum; et descendit in campos Elisios, ubi invenit animam patris sui Anchisis; que anima docuit ipsum Eneam, quomodo erat facienda Roma et quomodo regenda: Tu regere, etc. populos memento; hec tibi artes pacisque imponere morem, parcere subiectis et debellare superbos. Predixit etiam, anima Anchisis, Enee suos descendentes et suos subcessores, et quomodo Roma adhuc veniret domina mundi, et quod esset civitas summi sacerdotii et summi imperii; et vult auctor dicere hic, quod hoc fuit in celo ordinatum, et quod Imperium Romanum fuit preordinatum a Deo, et quod tale Imperium fuit licitum, verum et iustum.
 
-Per questa andata: concludit quantum ad primam rationem, ipsam dextruendo.
+*Per questa andata*: concludit quantum ad primam rationem, ipsam dextruendo.
 
-Vanto: idest, gloriam; scilicet quod iverit ad Infernum. Sic finxit Homerus de Ulixe. Tunc intellexit multas res Eneas in Inferno, quas fecit et fieri ordinavit, et postmodum sequuta sunt multa alia, que fuerunt causa victorie Christi et papalis manti.
+*Vanto*: idest, gloriam; scilicet quod iverit ad Infernum. Sic finxit Homerus de Ulixe. Tunc intellexit multas res Eneas in Inferno, quas fecit et fieri ordinavit, et postmodum sequuta sunt multa alia, que fuerunt causa victorie Christi et papalis manti.
 
-Andovvi poi el vaso de elezione: idest, Sanctus Paulus, vas electionis. Loquitur more Scripture, ubi dixit Christus Ananie de Paulo: Vas electionis est michi (Act., V capit.); qui Paulus fidem Christianam retexit; nam multum auxit Sanctus Paulus fidem Christi, et tale iter Sancti Pauli fuit multum utile; ideo bene fuit dignum quod iret ad Infernum et rediret.
+*Andovvi poi el vaso de elezione*: idest, Sanctus Paulus, vas electionis. Loquitur more Scripture, ubi dixit Christus Ananie de Paulo: Vas electionis est michi (Act., V capit.); qui Paulus fidem Christianam retexit; nam multum auxit Sanctus Paulus fidem Christi, et tale iter Sancti Pauli fuit multum utile; ideo bene fuit dignum quod iret ad Infernum et rediret.
 
-Ma io: modo probat quod neutra harum rationum facit pro ipso Dante; quia, si Eneas ivit et rediit, ipse fuit magnus dux et magnus dominus; sed ego Dantes, privatus homo; nam Sanctus Paulus fuit sanctissimus, et ego peccator magnus sum; nec ego credo me esse dignum tanti facti, nec alius credit hoc de me. Ideo si me commicto huic labori, timeo quod meum venire erit vanum et fatuum.
+*Ma io*: modo probat quod neutra harum rationum facit pro ipso Dante; quia, si Eneas ivit et rediit, ipse fuit magnus dux et magnus dominus; sed ego Dantes, privatus homo; nam Sanctus Paulus fuit sanctissimus, et ego peccator magnus sum; nec ego credo me esse dignum tanti facti, nec alius credit hoc de me. Ideo si me commicto huic labori, timeo quod meum venire erit vanum et fatuum.
 
-Si sapiens: si pro quia es, tu melius intelligis quam ego dicam. Et qualis sic loquens devenit Dantes, ipsemet ostendit [per] periculum et comparationem. Sepe contingit quod magnanimus incipit magnam rem; postea facit argumenta concludentia sibi, quod non poterit perficere talem rem; unde se retrahit a primo bono proposito; quod provenit solum a vilitate. Sic fingit auctor sibi accidisse.
+*Si sapiens*: si pro quia es, tu melius intelligis quam ego dicam. Et qualis sic loquens devenit Dantes, ipsemet ostendit [per] periculum et comparationem. Sepe contingit quod magnanimus incipit magnam rem; postea facit argumenta concludentia sibi, quod non poterit perficere talem rem; unde se retrahit a primo bono proposito; quod provenit solum a vilitate. Sic fingit auctor sibi accidisse.
 
-Qualis est ille dissimilis: idest, penitet incepisse quod primo voluit.
+*Qualis est ille dissimilis*: idest, penitet incepisse quod primo voluit.
 
-Et per novi penzeri: propter nova cogitamina mutat propositum, [et] ab incepto totaliter se tollit: sic feci ego.
+*Et per novi penzeri*: propter nova cogitamina mutat propositum, [et] ab incepto totaliter se tollit: sic feci ego.
 
-In illo obscuro ascensu: sic assumpsi inceptionem, idest, me retraxi ab itinere, quod fuit tam festinum.
+*In illo obscuro ascensu*: sic assumpsi inceptionem, idest, me retraxi ab itinere, quod fuit tam festinum.
 
-S'i' ò ben la tua parola: ista est tertia pars principalis, etc., in qua Virgilius vult ostendere Danti, quod ipse
+*S'i' ò ben la tua parola*: ista est tertia pars principalis, etc., in qua Virgilius vult ostendere Danti, quod ipse
 
 <!-- p. 43 (0097) -->
 
@@ -278,37 +278,37 @@ S'i' ò ben la tua parola: ista est tertia pars principalis, etc., in qua Virgil
 
 sit bene sufficiens ad opus inceptum perficere, et incipit a longe verba sua, dicens sic: Si bene notavi verba tua et rationes tuas.
 
-Quillo magnanimo: idest, Virgilius; nam hic Virgilius erat magnanimus respectu Dantis, qui dubitabat describere Infernum, etc., et Virgilius descripsit audacter, ut patet in sexto Eneydos.
+*Quillo magnanimo*: idest, Virgilius; nam hic Virgilius erat magnanimus respectu Dantis, qui dubitabat describere Infernum, etc., et Virgilius descripsit audacter, ut patet in sexto Eneydos.
 
-Ingombra: idest, impedit, ita quod revolvit ab honorata et nobili inceptione.
+*Ingombra*: idest, impedit, ita quod revolvit ab honorata et nobili inceptione.
 
-Como falso: idest, tibi accidit sicut polledro. Ytalici vocant polledrum, equum indomitum, iuvenculum, vel mulum indomitum, et asinum similiter; qui indomitus et sepe umbrosus est, idest, umbram timet, quia timet non timendum, et, punctus a calcaribus, fit retrogradus; sic Dantes propter vilitatem faciebat.
+*Como falso*: idest, tibi accidit sicut polledro. Ytalici vocant polledrum, equum indomitum, iuvenculum, vel mulum indomitum, et asinum similiter; qui indomitus et sepe umbrosus est, idest, umbram timet, quia timet non timendum, et, punctus a calcaribus, fit retrogradus; sic Dantes propter vilitatem faciebat.
 
-Quando ombra: idest, fit umbrosa. Dicit Virgilius: Volo tibi Danti ostendere, quare ad te venerim, et a quo mictor, ut tu a tuo timore te solvas.
+*Quando ombra*: idest, fit umbrosa. Dicit Virgilius: Volo tibi Danti ostendere, quare ad te venerim, et a quo mictor, ut tu a tuo timore te solvas.
 
-Nel primo puncto che di te me dolui: quando me tibi obtuli in monte, etc.
+*Nel primo puncto che di te me dolui*: quando me tibi obtuli in monte, etc.
 
-Io era. Ego eram: idest in Limbo, ubi nos sapientes non habemus penas sensus, sed solum dampni; nec gaudium habemus.
+*Io era*. *Ego eram*: idest in Limbo, ubi nos sapientes non habemus penas sensus, sed solum dampni; nec gaudium habemus.
 
-Tunc venit ad me quedam domina beata: idest, Beatrix, per quam intelligitur sacra Theologia, que sola demonstrat beatam felicitatem.
+*Tunc venit ad me quedam domina beata*: idest, Beatrix, per quam intelligitur sacra Theologia, que sola demonstrat beatam felicitatem.
 
-Bella: idest pulchra, quia habet pulchrum subiectum, idest Deum, et divinam essentiam, et sic pulchrior omnibus aliis scientiis.
+*Bella*: idest pulchra, quia habet pulchrum subiectum, idest Deum, et divinam essentiam, et sic pulchrior omnibus aliis scientiis.
 
 Et tam erat imperiosa, quod ego ipsam requisivi, ut michi preciperet. Describit eam ab oculis.
 
-Lucivan gli occhi suoy: oculi Beatricis, scilicet Theologie, sunt contemplatio et speculatio summi boni, primi entis, etc., et sunt ita perspicaces, quod transcendunt celos, vadunt usque ad supremam maiestatem.
+*Lucivan gli occhi suoy*: oculi Beatricis, scilicet Theologie, sunt contemplatio et speculatio summi boni, primi entis, etc., et sunt ita perspicaces, quod transcendunt celos, vadunt usque ad supremam maiestatem.
 
-Incepit michi loqui suaviter et plane: Scriptura sacra utitur latino plano et suavi, non superbo, sicut faciunt poete. Dicit Sanctus Ieronimus, quod aliquando videbatur sibi sermo divinus incultus, sed postmodum apparuit sibi valde suavis.
+*Incepit michi loqui suaviter et plane*: Scriptura sacra utitur latino plano et suavi, non superbo, sicut faciunt poete. Dicit Sanctus Ieronimus, quod aliquando videbatur sibi sermo divinus incultus, sed postmodum apparuit sibi valde suavis.
 
-In angelica fuvella: quia sacram Scripturam fecerunt hii qui habuerunt intellectum angelicum, sicut fuerunt Spiritus Sanctus, Sancti Angeli, Gregorius, Ieronimus, Ambrosius, et ceteri Sancti Doctores.
+*In angelica fuvella*: quia sacram Scripturam fecerunt hii qui habuerunt intellectum angelicum, sicut fuerunt Spiritus Sanctus, Sancti Angeli, Gregorius, Ieronimus, Ambrosius, et ceteri Sancti Doctores.
 
-O anima corteze mantuana: idest, o tu, Virgili, qui fuisti res curialis: de te fama in mundo durat et durabit. Quanto el mondo lontana: idest, donec mundus durabit. Sic captat Beatrix benevolentiam a Virgilio.
+*O anima corteze mantuana*: idest, o tu, Virgili, qui fuisti res curialis: de te fama in mundo durat et durabit. *Quanto el mondo lontana*: idest, donec mundus durabit. Sic captat Beatrix benevolentiam a Virgilio.
 
 Modo narrat et petit.
 
-Amicus meus et non fortune: idest, Dantes nunquam, propter multa commoda et incommoda que habuit, dimisit studium Theologie.
+*Amicus meus et non fortune*: idest, Dantes nunquam, propter multa commoda et incommoda que habuit, dimisit studium Theologie.
 
-Nel diserto ascensu: impeditur sic in itinere, quod iam se vertit pro timore.
+*Nel diserto ascensu*: impeditur sic in itinere, quod iam se vertit pro timore.
 
 <!-- p. 44 (0098) -->
 
@@ -378,31 +378,31 @@ Nel diserto ascensu: impeditur sic in itinere, quod iam se vertit pro timore.
 
 (1) Paradiso. — (2) desidero. — (3) divino. — (4) a venire.
 
-Et themo: dolet de periculo, in quo est Dantes. Idest, video ipsum iam dispositum ad retrocedendum ad vitia; et forte non poterit retrahi ab ipsis, et forte nimis tardavi ad te venire.
+*Et themo*: dolet de periculo, in quo est Dantes. Idest, video ipsum iam dispositum ad retrocedendum ad vitia; et forte non poterit retrahi ab ipsis, et forte nimis tardavi ad te venire.
 
-Per quello che io de luy in cielo ò odito: nam anime beate vident in Deo res et modos rerum, sicut in claro speculo, etiam entia futura. Nam in Deo vidi quomodo iste, scilicet Dantes, stetit in vitiis bene viginti quinque annis; iam forte fecit nodum, nec se emendabit.
+*Per quello che io de luy in cielo ò odito*: nam anime beate vident in Deo res et modos rerum, sicut in claro speculo, etiam entia futura. Nam in Deo vidi quomodo iste, scilicet Dantes, stetit in vitiis bene viginti quinque annis; iam forte fecit nodum, nec se emendabit.
 
 Ergo vade cum tua magna eloquentia et cum omnibus rationibus et argumentis et suasionibus naturalibus iuva eum, ita quod sim consolata.
 
-Io so' Beatrice: modo manifestat se ista scientia, non per exercitium humanum, sed per infusionem divinam datam. Que te requiro: ut vadat.
+*Io so' Beatrice*: modo manifestat se ista scientia, non per exercitium humanum, sed per infusionem divinam datam. *Que te requiro*: ut vadat.
 
-Venio de loco, ad quem redire desidero: et sicut Theologia a Deo infunditur, ita ad Deum est reductiva mortalium. Pietas, idest compaxio me movit, que me facit loqui. Idest, compatiebatur Beatrix Danti, quia Dantes Beatricem puellam, dum vixit, multum dilexit, et sacram Theologiam semper.
+*Venio de loco, ad quem redire desidero*: et sicut Theologia a Deo infunditur, ita ad Deum est reductiva mortalium. Pietas, idest compaxio me movit, que me facit loqui. Idest, compatiebatur Beatrix Danti, quia Dantes Beatricem puellam, dum vixit, multum dilexit, et sacram Theologiam semper.
 
-Quando io serroe: (ut cito ego venirem ad te, dixit Virgilius Danti), quando ero ante Deum, qui est Dominus meus [dixit Virgilio Beatrix] laudabo me de te. Ecce quod sepe Theologia utitur scientiis naturalibus, [ut presentes] res vilipenderentur, et intelligantur invisibiles. (I ad Rom.): Per ea que facta sunt, intellecta conspiciuntur, etc. Tunc tacuit, scilicet Beatrix.
+*Quando io serroe*: (ut cito ego venirem ad te, dixit Virgilius Danti), quando ero ante Deum, qui est Dominus meus [dixit Virgilio Beatrix] laudabo me de te. Ecce quod sepe Theologia utitur scientiis naturalibus, [ut presentes] res vilipenderentur, et intelligantur invisibiles. (I ad Rom.): Per ea que facta sunt, intellecta conspiciuntur, etc. Tunc tacuit, scilicet Beatrix.
 
-Et ego: scilicet Virgilius, cepi loqui: captat benevolentiam, dicens:
+*Et ego*: scilicet Virgilius, cepi loqui: captat benevolentiam, dicens:
 
 O donna de vertù, per cui,
 
 per quam spes humana excedit omnia, que continentur sub circulo lune; idest, exedit scientiam naturalem, perveniens usque ad Deum. Circulus lune habet minores circulos, quia inter omnes planetas est minor.
 
-Tanto me adgrada: idest, tantum est michi gratum tuum preceptum, quod si tibi iam obedivissem, videretur michi nimis tardasse.
+*Tanto me adgrada*: idest, tantum est michi gratum tuum preceptum, quod si tibi iam obedivissem, videretur michi nimis tardasse.
 
-Piò non è opo: idest, non expedit facere tales persuasiones; sufficit tibi dicere: Sic iubeo, sic volo.
+*Piò non è opo*: idest, non expedit facere tales persuasiones; sufficit tibi dicere: Sic iubeo, sic volo.
 
 Vult dicere, quod omnis scientia naturalis debet se subicere rationi supernaturali: non debet ratio, vel causa, in fide catholica queri; ymo subito fidem et adherentiam plenam dare; et ratio naturalis non habet ita altas alas, sicut Theologia; et quia philosophi naturales voluerunt semper querere demonstrationes, ideo errarunt.
 
-Ma dimene la casione: modo Virgilius movet questionem Beatrici, scilicet: Quid est quod tu descendis in hunc
+*Ma dimene la casione*: modo Virgilius movet questionem Beatrici, scilicet: Quid est quod tu descendis in hunc
 
 <!-- p. 45 (0099) -->
 
@@ -446,23 +446,23 @@ dic michi causam, quare non caves descendere huc, in hunc locum, ab amplo loco a
 
 Timendum est solummodo de illis rebus, que possunt facere malum et valent nocere; de aliis non, quia non possunt incutere timorem.
 
-Ego vero sum creata a Deo talis condicionis, ut vestra miseria non possit michi obesse; nec flamma huius incendii me aggreditur. Vult dicere quod nec heretici, nec hereses, nec subtilitas philosophica, nec violentia tirampnorum possunt me corrumpere; quoniam ista est navicula Petri, contra quam tot millia hereticorum et tirampnorum conati sunt eam submergere, tamen nunquam potuerunt. Nec concupiscentia mundana michi nocere potest. La flamma: idest, concupiscentia.
+Ego vero sum creata a Deo talis condicionis, ut vestra miseria non possit michi obesse; nec flamma huius incendii me aggreditur. Vult dicere quod nec heretici, nec hereses, nec subtilitas philosophica, nec violentia tirampnorum possunt me corrumpere; quoniam ista est navicula Petri, contra quam tot millia hereticorum et tirampnorum conati sunt eam submergere, tamen nunquam potuerunt. Nec concupiscentia mundana michi nocere potest. *La flamma*: idest, concupiscentia.
 
-Donna è gentile. Domina nobilis: modo Beatrix vult ostendere unde fuit mota ad veniendum ad loquendum Virgilio. Et in effectu vult dicere: Ego veni ad te per modum quem non perpendis; quia quedam domina nobilis, quam non nominat, que requisivit unam aliam dominam, nomine Luciam, que Lucia venit ad Beatricem, etc. Hic sunt aliqua notanda. Primo, quod omnium rerum sunt ydee in Deo; quelibet res habet suam ydeam in Deo. Grece ydea, representatio latine. Ydea vero representans Dantem in Deo salvandum, potest quodammodo dici electio, vel predestinatio, ipsius Dei, de Dante: modo quicumque intuetur in Deo bene, clare videret Dantem salvandum, visa illa ydea. Hanc ydeam Virgilius vocat unam dominam, cui nomen non imponit. Secundo, notandum, quod per Luciam Dantes, vel Virgilius, intelligit hic gratiam divinam prevenientem et gratumfacientem.
+*Donna è gentile*. *Domina nobilis*: modo Beatrix vult ostendere unde fuit mota ad veniendum ad loquendum Virgilio. Et in effectu vult dicere: Ego veni ad te per modum quem non perpendis; quia quedam domina nobilis, quam non nominat, que requisivit unam aliam dominam, nomine Luciam, que Lucia venit ad Beatricem, etc. Hic sunt aliqua notanda. Primo, quod omnium rerum sunt ydee in Deo; quelibet res habet suam ydeam in Deo. Grece ydea, representatio latine. Ydea vero representans Dantem in Deo salvandum, potest quodammodo dici electio, vel predestinatio, ipsius Dei, de Dante: modo quicumque intuetur in Deo bene, clare videret Dantem salvandum, visa illa ydea. Hanc ydeam Virgilius vocat unam dominam, cui nomen non imponit. Secundo, notandum, quod per Luciam Dantes, vel Virgilius, intelligit hic gratiam divinam prevenientem et gratumfacientem.
 
 Rachel fuit uxor Iacob, sive Israel. Nota quod Iacob habuit duas uxores, sorores carnales, filias Laban de Mesopotamia; et Iacob fuit pastor ovium Laban. Et per quatuordecim annos servivit Iacob ipsi Laban, custodiendo pecora sua, sive oves, ut posset habere ipsam Rachelem in uxorem, per quam in Scriptura sacra designatur vita contemplativa. Hic tractatur de quatuor dominabus, scilicet de Beatrice, Lucia, Rachele, et de una alia innominata. Tunc ad literam sic est dicendum, quod illa domina innominata sit ydea, sive predestinatio, sive divina electio, que est profunda et occulta mentibus hominum; ideo non nominat eam.
 
-Se compiange: idest compatitur. Loquitur Beatrix Virgilio de Dante.
+*Se compiange*: idest compatitur. Loquitur Beatrix Virgilio de Dante.
 
-Duro iuditio: durum iuditium Dei est quod peccator puniatur, sicut Dantes puniri debebat, quia rediebat ad pristina vitia; sed ista domina retardabat et mitigabat iuditium Dei ibi in celo, quasi dicens: Deus sibi istum elegit; ideo non vult quod pereat. Lucia est divina gratia, que eum facit dignum vita eterna, et per effectum lucet mentibus hominum, et per opera cognoscitur, quando est in aliquo fideli, idest, qui confidit in divina gratia; sicut quisque debet credere se esse de numero salvandorum, et bonum semper facere propter ad hoc pervenire.
+*Duro iuditio*: durum iuditium Dei est quod peccator puniatur, sicut Dantes puniri debebat, quia rediebat ad pristina vitia; sed ista domina retardabat et mitigabat iuditium Dei ibi in celo, quasi dicens: Deus sibi istum elegit; ideo non vult quod pereat. Lucia est divina gratia, que eum facit dignum vita eterna, et per effectum lucet mentibus hominum, et per opera cognoscitur, quando est in aliquo fideli, idest, qui confidit in divina gratia; sicut quisque debet credere se esse de numero salvandorum, et bonum semper facere propter ad hoc pervenire.
 
 Lucia est inimica cuiusque crudelis, qui disperat de gratia divina.
 
-El to fedele: idest, Dantes.
+*El to fedele*: idest, Dantes.
 
-De te: idest, Beatrice, sive Theologia.
+*De te*: idest, Beatrice, sive Theologia.
 
-Et ego: scilicet Lucia, ipsum Dantem tibi Beatrici recommendo.
+*Et ego*: scilicet Lucia, ipsum Dantem tibi Beatrici recommendo.
 
 <!-- p. 46 (0100) -->
 
@@ -532,27 +532,27 @@ Et ego: scilicet Lucia, ipsum Dantem tibi Beatrici recommendo.
 
 (1) o. — (2) al. venni. — (3) ob quod. — (4) al. a quella fiera.
 
-Venne lassù, dove eo era: idest, Lucia venit ad locum, ubi ego Beatrix eram cum antiqua Rachele, idest contemplatione. Et dixit michi: Beatrice, laus Dei vera.
+*Venne lassù, dove eo era*: idest, Lucia venit ad locum, ubi ego Beatrix eram cum antiqua Rachele, idest contemplatione. Et dixit michi: Beatrice, laus Dei vera.
 
 Licet alie scientie laudent Deum modo suo, tamen Beatrix, scilicet sacra Theologia, hoc facit per excellentiam.
 
-Cur non succurris illi, qui te tantum amavit? Dictum est, quod Dantes dilexit Beatricem puellam, allegorice Theologiam.
+*Cur non succurris illi, qui te tantum amavit*? Dictum est, quod Dantes dilexit Beatricem puellam, allegorice Theologiam.
 
-Qui exivit pro te et amore tui. Le la volgare schira. De acie vulgari: idest, de turba pravorum et stultorum, quorum infinitus est numerus (Eccl. I). Et fuit de numero paucorum sapientum et beatorum.
+*Qui exivit pro te et amore tui*. *Le la volgare schira*. *De acie vulgari*: idest, de turba pravorum et stultorum, quorum infinitus est numerus (Eccl. I). Et fuit de numero paucorum sapientum et beatorum.
 
-Non odi: non audis tu, quasi dicens: Dolet et penitet. Fiumana: idest, in valle vitiorum, qua nullum mare est periculosius et amarius.
+*Non odi*: non audis tu, quasi dicens: Dolet et penitet. *Fiumana*: idest, in valle vitiorum, qua nullum mare est periculosius et amarius.
 
 Nunquam fuerunt persone tam veloces ad faciendum quod sibi prodest, vel ad fugiendum dampnum suum, sicut ego post hec verba sancta veni ego huc inferius.
 
-Ego Beatrix de meo beato scanno: confidens de tua locutione honesta, idest in eloquentia tua pulcherrima, que te honorat, scilicet Virgilium, et illos qui eam audierunt, sicut Dantem, Statium, Ioannem Virgilii, qui fuit contemporaneus Dantis. Et sic cepit Beatrix lacrymari. Planctus est actus rethoricus, suavissimus et commotivus animorum; ideo dicit: Venio ad te.
+*Ego Beatrix de meo beato scanno*: confidens de tua locutione honesta, idest in eloquentia tua pulcherrima, que te honorat, scilicet Virgilium, et illos qui eam audierunt, sicut Dantem, Statium, Ioannem Virgilii, qui fuit contemporaneus Dantis. Et sic cepit Beatrix lacrymari. Planctus est actus rethoricus, suavissimus et commotivus animorum; ideo dicit: Venio ad te.
 
-Postquam talia dixerat michi: sic loquitur Virgilius Danti.
+*Postquam talia dixerat michi*: sic loquitur Virgilius Danti.
 
-Et ipsa oculos lacrymosos revolvit; quare me fecit prompliorem ad veniendum ad te: et sicut ipsa voluit, veni ad te, eripiens te ab illa fera, idest lupa, de via vitiorum, maxime de via avaritie.
+*Et ipsa oculos lacrymosos revolvit; quare me fecit prompliorem ad veniendum ad te*: et sicut ipsa voluit, veni ad te, eripiens te ab illa fera, idest lupa, de via vitiorum, maxime de via avaritie.
 
-Que ad pulchrum montem breviter te abstulit: breviter, quia adhuc Dantes paucum spatium per ascensum iverat.
+*Que ad pulchrum montem breviter te abstulit*: breviter, quia adhuc Dantes paucum spatium per ascensum iverat.
 
-Doncha che è? Ergo quare desistis? hec est ultima, sive quinta pars principalis, in qua apparet bonus effectus succursus Virgilii, scilicet quomodo Virgilius cum honestis verbis et pulchris rationibus abstulerit dubium Dante et suspitionem de mente, ostendendo quomodo sit habilis ad istud opus perficiendum; et ponitur actio gratiarum, quam fecit Dantes ipsi Virgilio.
+*Doncha che è*? *Ergo quare desistis*? hec est ultima, sive quinta pars principalis, in qua apparet bonus effectus succursus Virgilii, scilicet quomodo Virgilius cum honestis verbis et pulchris rationibus abstulerit dubium Dante et suspitionem de mente, ostendendo quomodo sit habilis ad istud opus perficiendum; et ponitur actio gratiarum, quam fecit Dantes ipsi Virgilio.
 
 Dicit igitur Virgilius: Quid est quod te possit impedire
 
@@ -610,19 +610,21 @@ Dicit igitur Virgilius: Quid est quod te possit impedire
 
 (1) tali. — (2) decte di sopra.
 
-in hoc opere, ex quo tu habes advocatos tales et coadiutores in celo et in terra? Quare igitur et qua de causa desistis? Quare tantam vilitatem allecte, idest advocas, attrahis ad te? Quare habes tam modicum animi in corde tuo? Quare audaciam non habes, habens tot dominas in celo, que habent curam de te, et mea locutio tantum bonum tibi promictit? Iste tres domine, una [est] innominata, scilicet electio, sive predestinatio: alia est Lucia, idest divina gratia; alia est Beatrix, scilicet Theologia. Arguit sic Virgilius: Tu es Poeta, etc., ita quod mecum convenis in naturalibus, quod te audacem facere debet: ultra hoc tu habes Theologiam, quam nunquam habui ego: tu habes Luciam, quia tu es christianus, ego vero fui paganus: tu venisti tempore gratie, et ego fui ante. Ultra hoc, non est in me predestinatio, que est in te, sive de te. Superius posuit Virgilius quatuor dominas; sed Rachel non est de numero istarum, que sunt advocatrices Dantis; sed est illa, cum qua Beatrix se sedet.
+in hoc opere, ex quo tu habes advocatos tales et coadiutores in celo et in terra? Quare igitur et qua de causa desistis? Quare tantam vilitatem *allecte*, idest advocas, attrahis ad te? Quare habes tam modicum animi in corde tuo? Quare audaciam non habes, habens tot dominas in celo, que habent curam de te, et mea locutio tantum bonum tibi promictit? Iste tres domine, una [est] innominata, scilicet electio, sive predestinatio: alia est Lucia, idest divina gratia; alia est Beatrix, scilicet Theologia.
 
-El mio parlare: quasi dicens: Etiam habes istam prerogativam: feci tibi viam, quia ante te tractavi de Inferno in sexto meo libro Eneydos; que res dabit tibi magnam viam.
+Arguit sic Virgilius: Tu es Poeta, etc., ita quod mecum convenis in naturalibus, quod te audacem facere debet: ultra hoc tu habes Theologiam, quam nunquam habui ego: tu habes Luciam, quia tu es christianus, ego vero fui paganus: tu venisti tempore gratie, et ego fui ante. Ultra hoc, non est in me predestinatio, que est in te, sive de te. Superius posuit Virgilius quatuor dominas; sed Rachel non est de numero istarum, que sunt advocatrices Dantis; sed est illa, cum qua Beatrix se sedet.
 
-Quale i fioricti: modo per nobilem comparationem demonstrat Dantes suam reductionem et virium resumptionem ad opus faciendum. Vult dicere ita: Michi contigit, sicut contingit floribus primeveris, qui, adveniente nocte, curvantur ad terram, clauduntur. Veniente postmodum sole, aperiuntur et eriguntur. Sic evenit michi fesso in virtute mea. Et tanta bona audacia redit michi ad cor, quod sic cepi loqui, sicut persona secura. Dantes proprie est iste flos; nam tempore Arietis, idest primeveris, cepit hoc opus; ideo est flos, scilicet intellectus florens. Frigus noctis est timor lupe; idest avaritie.
+*El mio parlare*: quasi dicens: Etiam habes istam prerogativam: feci tibi viam, quia ante te tractavi de Inferno in sexto meo libro Eneydos; que res dabit tibi magnam viam.
 
-Stelo: idest, crure.
+*Quale i fioricti*: modo per nobilem comparationem demonstrat Dantes suam reductionem et virium resumptionem ad opus faciendum. Vult dicere ita: Michi contigit, sicut contingit floribus primeveris, qui, adveniente nocte, curvantur ad terram, clauduntur. Veniente postmodum sole, aperiuntur et eriguntur. Sic evenit michi fesso in virtute mea. Et tanta bona audacia redit michi ad cor, quod sic cepi loqui, sicut persona secura. Dantes proprie est iste flos; nam tempore Arietis, idest primeveris, cepit hoc opus; ideo est flos, scilicet intellectus florens. Frigus noctis est timor lupe; idest avaritie.
 
-O pictosa coleya: modo regratiatur, dicens: O pietosa, idest, o quam pia est illa, que michi succurrit; et tu curialis, qui cito obedisti verbis que ipsa tibi porrexit.
+*Stelo*: idest, crure.
 
-Tu m'ài con desiderio sì disposto: tu ita cum desiderio cor meum disposuisti ad veniendum cum verbis tuis, quod redii ad primum propositum. Ergo vade, quoniam unum velle est nostrum duorum. Tu dux, tu dominus, tu magister; sic ego Dantes dixi Virgilio. Et postquam motus fuit ipse, et etiam ego fui motus.
+*O pictosa coleya*: modo regratiatur, dicens: O pietosa, idest, o quam pia est illa, que michi succurrit; et tu curialis, qui cito obedisti verbis que ipsa tibi porrexit.
 
-Intravi iter laboriosum, asperum et silvestre: et sic auctor resumpsit vires et audaciam persuasionibus et argumentis Virgilii, maxime audito auxilio Beatricis, et aliarum duarum dominarum, scilicet Lucie et electionis, sive predestinationis, sive ydee. Sed istam tertiam non nominat nec auctor, nec Virgilius, hac de causa; quia electio est res archana, profunda et occulta nobis; ideo bona fictio fuit illam dominam non nominare, nec ponere eius nomen.
+*Tu m'ài con desiderio sì disposto*: tu ita cum desiderio cor meum disposuisti ad veniendum cum verbis tuis, quod redii ad primum propositum. Ergo vade, quoniam unum velle est nostrum duorum. Tu dux, tu dominus, tu magister; sic ego Dantes dixi Virgilio. Et postquam motus fuit ipse, et etiam ego fui motus.
+
+*Intravi iter laboriosum, asperum et silvestre*: et sic auctor resumpsit vires et audaciam persuasionibus et argumentis Virgilii, maxime audito auxilio Beatricis, et aliarum duarum dominarum, scilicet Lucie et electionis, sive predestinationis, sive ydee. Sed istam tertiam non nominat nec auctor, nec Virgilius, hac de causa; quia electio est res archana, profunda et occulta nobis; ideo bona fictio fuit illam dominam non nominare, nec ponere eius nomen.
 
 <!-- p. [48] (0102) -->
 
