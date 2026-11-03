@@ -25,8 +25,8 @@ from the image: about 250 lines misread and 46 misprints). **Next**, in this ord
 below, under "Checks"):
 
 1. **Italics**: the slant script, the delegate's trial and batch 1 (0079–0114) are done
-   (steps 1–3); next, the nine parts (step 3, "Parts"); parts 1–3 done (0079–0476,
-   the Inferno); next part 4 (Purgatorio 1–11).
+   (steps 1–3); next, the nine parts (step 3, "Parts"); parts 1–4 done (0079–0606,
+   the Inferno and Purgatorio 1–11); next part 5 (Purgatorio 12–22).
 2. **Check 2**: write `ocr/la_lexcheck.py`, its recall trial on the first transcription,
    then decide the candidates in the image.
 3. **When all are done**: State, Known limits, texts/PLAN.md and texts/la/README.md, and
@@ -183,7 +183,7 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
    | 1 | Inferno 1–12 | 0079–0220 | 125 (33 done in batch 1) | 13 |
    | 2 | Inferno 13–23 | 0221–0347 | 108 | 13 |
    | 3 | Inferno 24–34 | 0349–0476 | 111 | 13 |
-   | 4 | Purgatorio 1–11 | 0477–0607 | about 106 | 12 |
+   | 4 | Purgatorio 1–11 | 0477–0607 | 106 | 12 |
    | 5 | Purgatorio 12–22 | 0609–0739 | 113 | 12 |
    | 6 | Purgatorio 23–33 | 0741–0869 | 112 | 13 |
    | 7 | Paradiso 1–11 | 0871–1009 | about 120 | 14 |
@@ -331,6 +331,29 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
    `gre-` / `ppum` for the print's `grep-` / `pum`; 0444:58 `babhum` for `babbum`;
    0456:71 `dominus` for `domnus` (`domnus, idest dominus`).
 
+   **Part 4, Purgatorio 1–11** (0487–0606, 2026-11-04): by the script, the slant run over
+   0477–0607 at once (the half-title, the preamble 0479–0486, the 12 essays and blank
+   pages left out by the essay rule; 106 pages marked). 144 lines flagged (1.4 a page), all
+   decided in the image; 85 of them `box`, 59 of these on 0549, whose commentary under a
+   verse block is printed all roman and left unmarked. 15 lines corrected: 8 a roman word
+   measured italic (0507 `Nec`, 0517 `erat`, 0523 `recessit`, 0526 `zo-` / `diacum`, 0533
+   `oc-` / `cupasset`, 0539 `ego`); 4 a short word left roman inside a run (0502 `*a
+   poco*`, 0559 `*a guisa*`, 0599 `*nos regnum tuum*`, `*non dimictimus*`); 1 a capital
+   taken in by the capital rule (0512 `Dicit *vesprum*`); 1 a verse incipit of the
+   chapter divisions, printed bold (0544 `Ay Italia serva,`); 1 italics missed on a `box`
+   line (0515 `*Pudicam*`). Purgatorio 1 (0487–0496) was read through in the image: no
+   line the script measured was wrong, but 0489:11–12 (`*Propter currere meliorem aquam
+   elevat vela*. *Per*` / `*correr miglior acqua alza le vele*:`) were not measured, as
+   the line began with a tercet number the print does not have (a superscript `¹` of the
+   first transcription, made `1` at item 9); the number taken out and the two lines
+   marked by hand. Written into `ocr/la`: 26, 29, 27, 14, 22, 17, 22, 27, 15, 18 and 40
+   pairs (257). Seen in passing and corrected: 0489:11 the number; 0493:102 `apparentia
+   .in vista` for the print's `apparentia. in vista` (written `apparentia, *in vista*`,
+   the dot before a lowercase word); 0526:51–52 `stric-` / `tius` for `stri-` / `ctius`;
+   0572:45 `se ipsum; etsi que in limitibus demon` for the print's `se, sicut bestia que
+   se linit, quia demon`. `la_check.py` changes only on 0489 (blank lines 3 to 2, the
+   number taken out: the paragraph no longer counts as a verse block).
+
    Per part (from Inferno 10; the script adopted by the user, 2026-11-04, in place of a
    delegate), one canto at a time:
    1. The slant runs: `la_italic.py FIRST LAST -t ocr/la/tesseract -v -o SLANT` over the
@@ -344,7 +367,7 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
       0363, 0856); this section updated with the canto's counts. A transcription error
       seen in passing is corrected (confirmed in the image) and noted here.
    Inferno 1–8 went through a delegate (batch 1 and the records above), Inferno 9–34
-   through the script.
+   and Purgatorio 1–11 through the script.
 4. **Scope**: the canto pages, the lemmas and the `other` italics (words cited, a name
    like `Pastoralis`; widened with the user, 2026-11-04, and batch 1 reviewed). The
    essays, front matter and appendix only if the user agrees, after the parts.
