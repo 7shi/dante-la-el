@@ -25,8 +25,8 @@ from the image: about 250 lines misread and 46 misprints). **Next**, in this ord
 below, under "Checks"):
 
 1. **Italics**: the slant script, the delegate's trial and batch 1 (0079–0114) are done
-   (steps 1–3); next, the nine parts (step 3, "Parts"); parts 1–8 done (0079–1139,
-   the Inferno, Purgatorio and Paradiso 1–22); next part 9 (Paradiso 23–33).
+   (steps 1–3); the nine parts (step 3, "Parts") done (0079–1270, all the canto
+   pages); next the scope question (step 4: the essays, front matter and appendix).
 2. **Check 2**: write `ocr/la_lexcheck.py`, its recall trial on the first transcription,
    then decide the candidates in the image.
 3. **When all are done**: State, Known limits, texts/PLAN.md and texts/la/README.md, and
@@ -409,6 +409,18 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
    marked. Written into `ocr/la`: 25, 17, 15, 22, 17, 13, 18, 16, 18, 13 and 21 pairs
    (195).
 
+   **Part 9, Paradiso 23–33** (1140–1270, 2026-11-04): by the script, the slant run over
+   1140–1270 at once (essays and blank pages left out, 113 pages marked). 146 lines
+   flagged, 99 of them on three pages: 1153 (82 lines, all box: the scan skewed, the
+   words placed on the wrong boxes) and the figures of 1245 and 1247 (17); the other 47
+   (0.4 a page; 18 box) decided in the image. 1153 read whole in the image: its
+   commentary is roman but for `*Flam-*` / `*meando*:`, so the 43 pairs the script made
+   there were dropped and that one written. The figure labels of 1245 and 1247 (a script
+   hand) left unmarked, as 1044's. Of the other lines, 3 corrected: 1 a roman word
+   measured italic (1248 `ego`); 1 a roman word taken into a pair (1189 `De *Caorsa*`); 1
+   italics split (1227 `*Non è fantin che sì*`, the Italian quoted whole). Written into
+   `ocr/la`: 14, 13, 18, 21, 24, 20, 12, 14, 19, 13 and 17 pairs (185).
+
    Per part (from Inferno 10; the script adopted by the user, 2026-11-04, in place of a
    delegate), one canto at a time:
    1. The slant runs: `la_italic.py FIRST LAST -t ocr/la/tesseract -v -o SLANT` over the
@@ -422,7 +434,7 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
       0363, 0856); this section updated with the canto's counts. A transcription error
       seen in passing is corrected (confirmed in the image) and noted here.
    Inferno 1–8 went through a delegate (batch 1 and the records above), Inferno 9–34,
-   Purgatorio and Paradiso 1–22 through the script.
+   Purgatorio and Paradiso through the script.
 4. **Scope**: the canto pages, the lemmas and the `other` italics (words cited, a name
    like `Pastoralis`; widened with the user, 2026-11-04, and batch 1 reviewed). The
    essays, front matter and appendix only if the user agrees, after the parts.
@@ -549,7 +561,8 @@ check, the italics and check 2 to DONE.md, as check 1's.
 - **Curly `’`**: left in `ocr/la`, normalized by `convert_la.py`.
 - **Figures**: a line `[figure]` where the figure stands, then each printed label on a
   line of its own (column after column, top to bottom), a blank line after; headings
-  that are not printed are not added (1245). 1044 and 1247 are in this form since their
+  that are not printed are not added (1245). The labels carry no italic marks, whatever
+  their print (1044, 1245, 1247). 1044 and 1247 are in this form since their
   retyping.
 
 ## Suspected misprints
