@@ -14,6 +14,8 @@ stream per paragraph (consecutive lines), so that the rules see across a line en
 - a capital word measured roman just before an italic word, no stop between, is taken in
   (a lemma's head measures about -0.20 on its capital: `Non`, `Nos`);
 - an elided word of one letter takes the side of the word after it (`*s'abbica*`);
+- the pieces of a word joined by a bracket take the larger slant, or the first piece's
+  side if none is measured (`*A[l]latro*`, `*O[r] quando*`);
 - `etc.` is not marked (it stays outside the pair by the convention).
 
 Marks: each line closes its own pairs; runs split at : . ; ? ! ( ); commas stay inside,
@@ -145,6 +147,18 @@ def mark_page(lines, slants, lo=0.09, hi=0.16):
         a, b = W[x], W[x + 1]
         if len(a[3]) == 1 and a[0] == b[0] and lines[a[0] - 1][a[2]:b[1]] in ("'", "’"):
             flag[x] = flag[x + 1]
+    x = 0  # the pieces of a word joined by brackets go together (`*A[l]latro*`, `*O[r]*`)
+    while x < n - 1:
+        y = x
+        while y + 1 < n and W[y][0] == W[y + 1][0] and \
+                re.fullmatch(r"[\[\]]+", lines[W[y][0] - 1][W[y][2]:W[y + 1][1]]):
+            y += 1
+        if y > x:
+            ss = [W[z][4] for z in range(x, y + 1) if k[z] is not None]
+            v = kind(max(ss), "xx", lo, hi) if ss else None
+            for z in range(x, y + 1):
+                flag[z] = flag[x] if v is None else v
+        x = y + 1
     for x in range(n - 1):  # a capital before an italic word
         if flag[x] is False and W[x][3][0].isupper() and flag[x + 1] and not G[x]:
             flag[x] = True
