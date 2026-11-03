@@ -9,13 +9,9 @@ closing marks, counted from the start of the canto - is compared at the end
 of every line. In the translation ’ is the apostrophe of elision (γι’, απ’),
 so only «» and “” count there; in the original ’ always closes a ‘.
 
-Each run of consecutive lines whose depths differ is reported:
-
-- shift: a short run that the next lines resolve; usually a quote boundary
-  that the translation's word order moved to a neighbouring line, which is
-  fine, but worth a look
-- mismatch: a long run, or one that lasts to the end of the canto; a mark
-  is missing or extra and the difference is carried along
+The translation must follow the original line by line, so each run of
+consecutive lines whose depths differ is reported as a mismatch: a mark is
+missing or extra, or a quote boundary has moved to a neighbouring line.
 
 The model is not called.
 """
@@ -60,32 +56,23 @@ def main():
     parser.add_argument("-d", "--dir", type=Path, required=True,
                         help="Directory holding <canticle>/<NN>.txt (e.g. el)")
     parser.add_argument("-c", "--canto", help=CANTO_SPEC_HELP)
-    parser.add_argument("-s", "--shift", type=int, default=2, metavar="N",
-                        help="Longest run reported as a shift rather than a mismatch "
-                             "(default: 2)")
     args = parser.parse_args()
     canticles = args.canticles or CANTICLES
     if err := check_canto_spec(canticles, args.canto):
         parser.error(err)
 
-    mismatches = shifts = 0
+    mismatches = 0
     for canticle in canticles:
         for canto in select_cantos(canticle, args.canto):
             path = args.dir / canticle / f"{canto:02d}.txt"
             if not path.exists():
                 continue
             translations = path.read_text().splitlines()
-            total = len(ref(f"{canticle} {canto}"))
             for first, last in runs(canticle, canto, translations):
                 span = f"{first}" if first == last else f"{first}-{last}"
-                if last - first + 1 <= args.shift and last < total:
-                    kind = "shift"
-                    shifts += 1
-                else:
-                    kind = "mismatch"
-                    mismatches += 1
-                print(f"{path}: {span}: {kind}")
-    print(f"\n{mismatches} mismatch(es), {shifts} shift(s)")
+                print(f"{path}: {span}")
+                mismatches += 1
+    print(f"\n{mismatches} mismatch(es)")
     sys.exit(1 if mismatches else 0)
 
 

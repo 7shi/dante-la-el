@@ -83,7 +83,7 @@ A separator line (`>` alone) is inserted between two pairs that have none; exist
 ## scripts/check_quotes.py
 
 ```bash
-uv run scripts/check_quotes.py [canticle ...] -d DIR [-c SPEC] [-s N]
+uv run scripts/check_quotes.py [canticle ...] -d DIR [-c SPEC]
 ```
 
 argument | description | default
@@ -91,13 +91,17 @@ argument | description | default
 `canticle` | canticles to check | all
 `-d`, `--dir` | directory holding `<canticle>/<NN>.txt` | required
 `-c`, `--canto` | cantos to check (SPEC syntax) | all
-`-s`, `--shift` | longest run reported as a shift rather than a mismatch | `2`
 
 Each line is translated on its own, so the model may drop or add a quotation mark where a speech opens or closes on a line of its own. This script compares the quotation marks of each `<NN>.txt` with the original. The original nests its quotes as `«»` > `“”` > `‘’`, while the translation writes them mostly as `«»`, so the kind of mark is not compared; instead the nesting depth (opening marks minus closing marks, counted from the start of the canto) is compared at the end of every line. In the translation `’` is the apostrophe of elision (`γι’`, `απ’`), so only `«»` and `“”` are counted there.
 
-Each run of consecutive lines whose depths differ is reported:
+The translation must follow the original line by line, even at the cost of a forced word order, so each run of consecutive lines whose depths differ is reported as a mismatch: a mark is missing or extra (the difference is then carried on to the end of the speech or the canto), or the translation's word order has moved a quote boundary to a neighbouring line.
 
-- `shift`: a run of at most `--shift` lines that the following lines resolve. Usually the translation's word order has moved a quote boundary to the neighbouring line, which needs no fix.
-- `mismatch`: a longer run, or one that lasts to the end of the canto. A mark is missing or extra, and the difference is carried on to the following lines.
+The exit status is 1 if there is a mismatch. The model is not called; mismatches are fixed by hand in `<NN>.txt`. A missing or extra mark is added or removed without touching the wording. When an inner quote of the original (`“”`, `‘’`) inside a speech is written as `«»` and the depths no longer match, it is written as `“”` instead. A moved boundary is fixed by rewording the lines so that each holds what its original line holds, as in Inferno 13.133-134:
 
-The exit status is 1 if there is a mismatch. The model is not called; mismatches are fixed by hand in `<NN>.txt`, adding or removing a mark without touching the wording. When an inner quote of the original (`“”`, `‘’`) inside a speech is written as `«»` and the depths no longer match, it is written as `“”` instead.
+```
+«O Iacopo», dicea, «da Santo Andrea,
+che t'è giovato di me fare schermo?
+
+«Ω Ιάκοπο», έλεγε, «ντα Σαντ’ Αντρέα,
+τι κέρδισες που με έκανες ασπίδα σου;
+```

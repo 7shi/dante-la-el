@@ -40,6 +40,7 @@ Read the attached Italian text of canto {number} of Dante's Divine Comedy, {cant
 
 - Give a heading to each scene or theme, and under each heading quote the lines that form the core of that passage. Aim for about ten headings.
 - Quote each line as `> line-number original`, followed on the next line by `> (translation in {lang})`.
+- Translate each quoted line on its own, keeping to what that line says even if the word order becomes forced; do not carry words or quotation marks over from a neighbouring line.
 - Put consecutive lines together in a single quote block, separated by lines containing only `>`. Do not open a separate block for each line.
 - After each quote, explain the allegory and background of those lines in prose.
 - Quote only the lines you actually discuss. There is no need to quote every line.
@@ -53,6 +54,7 @@ Attached are the Italian text of canto {number} of Dante's Divine Comedy, {canti
 
 - Translate only the lines marked {placeholder}, one per line, in the form `line-number translation`.
 - Follow the style of the existing translations, so that the text reads on smoothly from its context.
+- Keep each translation to what its own line says, even if the word order becomes forced; do not carry words over to or from a neighbouring line. Open and close quotation marks on the same lines as the original.
 - Output only the lines you filled in.
 - Write the translation itself on each line. Do not include {placeholder} in the output.{note}
 """.strip()
