@@ -59,7 +59,7 @@ licet sinistrum, et retro brachium dextrum, de una catena,
 que tenebat eum avinctum, idest strictum, vel circumda-
 tum a collo infra, ita quod super discooperto se removebat
 que ad girum quintum: idest catena dabat quinque re-
-volutiones circum circa. Girum: idest volution.
+volutiones circum circa. *Girum*: idest volution.
 
 Iste superbus voluit esse expertus de sua potentia con-
 tra summum Iovem, dixit meus dux, unde habet tale
@@ -104,5 +104,5 @@ stinus.
 Tunc timui ego plus quam unquam mortem, quia inter
 tot pericula Inferni nunquam hucusque habui tantum ti-
 morem, nec erat ibi aliquid necessarium nisi momentum.
-Non v’era mestero più che la dotta, idest momentum:
+*Non v’era mestero più che la dotta*, idest momentum:
 idest non expediebat nisi unus crollus: idest, si Gigas ille

@@ -68,8 +68,8 @@ Dicendum quod sapiens letatur, cum videt vindictam pec-
 catorum, ad terrorem aliorum malorum. Et ideo auctor,
 exclamare volens, dicit primo: Et unus alter, scilicet ser-
 pens, ad brachia, scilicet saltavit, et eum religavit, reper-
-cuciendo seipsum, ribadendose, ita ante, quod non poterat
-dare cum ipsis unum crullum. Repercuciendo, idest refle-
+cuciendo seipsum, *ribadendose*, ita ante, quod non poterat
+dare cum ipsis unum *crullum*. Repercuciendo, idest refle-
 ctendo seipsum a parte ante, idest anteriori, ut strictior
 staret et firmior.
 
@@ -85,7 +85,7 @@ Cathelline fuisse in campo pistoriensi, Pistorium tamen
 fuerat ante illud bellum prope tercentos annos. Preterea,
 si Salustius dicit verum, ex illo conflictu nemo remansit.
 Nec dicitur Pistorium a peste illa, scilicet a conflictu, sed
-dicitur Pistorium a pistis grece, latine fides. Auctor vult
+dicitur Pistorium a *pistis* grece, latine *fides*. Auctor vult
 dicere: Postquam tui moderni excedunt tuos antiquos in
 malefaciendo, idest in malis operibus.
 

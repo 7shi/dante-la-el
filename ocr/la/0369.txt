@@ -57,7 +57,7 @@ magnas, serpens autem non) per caput, sicut facit cornua
 limax (coclea, secundum Tullium); et lingua, scilicet ho-
 minis, quam habebat prius unitam et promptam ad loquen-
 dum, dividitur, et forcuta in alio, idest homine serpente,
-recluditur, et fumus restat, idest desinit, ad denotandum
+recluditur, et fumus *restat*, idest desinit, ad denotandum
 quod transformacio est completa.
 Ad faciliter considerandum istam transformacionem,
 ymagineris quod omnia membra hominis fiant membra
@@ -79,15 +79,15 @@ feci ego, carpando, idest carpendo (est proprium ferarum),
 per istum callem; idest volo quod fiat serpens, sicut ego
 fui. Sic vidi ego septimam zavorram mutari et transmutari,
 idest de serpente in hominem et de homine in serpentem.
-Et hic me excuset novitas, si in alia re lingua aborrat,
+Et hic me excuset novitas, si in alia re lingua *aborrat*,
 idest variat.
-Zavorra proprie est arena maris cum parvis lapillis,
+*Zavorra* proprie est arena maris cum parvis lapillis,
 quam aliquando naute ponunt in navibus, quando non sunt
 onerate: et vocat istum locum zavorram, idest arenam,
 quia serpentes, saltem in Libia, stant in arena. Excusat se
 auctor, sicut facit Valerius, Iulius. Celsus. Dicit quod fecit
-sicut Seeva, si non probe fecerat. Fior, idest penna, stilus.
-Aborra, idest obetrat.
+sicut Seeva, si non probe fecerat. *Fior*, idest penna, stilus.
+*Aborra*, idest obetrat.
 
 Et quamquam occuli mei confusi essent aliquantulum, et
 animus smagatus, idest timidus vel pavefactus, non potue-
@@ -100,4 +100,4 @@ unius ruris, sive ville, de comitatu Florentie, que villa
 vocatur Gaville. Et propter mortem istius Guercii multi
 rustici de illa villa Gaville fuerunt interfecti, et facti sunt
 in illa villa multi planctus et luctus; ideo dicit textus:
-Tu, Gaville, piange, idest ploras.
+Tu, Gaville, *piange*, idest ploras.

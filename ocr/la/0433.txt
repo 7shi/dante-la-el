@@ -73,7 +73,7 @@ sive sonus eius, veniebat a Nembroth, qui sonabat alte,
 (vox cornu est vox superbi regnantis, que facit se sentire
 a longe multum), in tantum scilicet fortiter sonuit, quod
 fecisset omnem tonum raucum, idest quod tonus non po-
-tuisset audiri (raucum idest fioco); qui, scilicet tonus,
+tuisset audiri (raucum idest *fioco*); qui, scilicet tonus,
 contra se, idest illud cornu, suam viam sequendo, idest
 ego sequendo sonum illius cornu, dirigo oculos meos cun-
 ctos ad unum locum, scilicet ad putheum.
@@ -83,7 +83,7 @@ stam in valle Runcivallis, vel in Runcivalle, tunc Orlandus
 cepit pulsare adeo violenter, quod vene gule fracte sunt.
 Post dolorosum conflictum, quando Karolus magnus per-
 didit sanctam gestam, non sonuit ita terribiliter Orlan-
-dus, supple sicut modo fecit Nembroth. Gestam, idest bri-
+dus, supple sicut modo fecit Nembroth. *Gestam*, idest bri-
 gatam paladinorum.
 
 Pauco, scilicet tempore, portavi versus illam partem vo-
@@ -102,5 +102,5 @@ Tu videbis bene, si ibi te coniungis, scilicet pervenies
 illuc, quantum sensus decipitur ex longinquo, vel de lon-
 ginquo; ideo aliquantulum plus te ipsum punge, idest pun-
 gas, coniungis; et sic appulas, sive appropinques. Sensus
-visus sepe a longe decipitur. Pungas, idest festinemus
+visus sepe a longe decipitur. *Pungas*, idest festinemus
 passum, quia via est adhuc longa.

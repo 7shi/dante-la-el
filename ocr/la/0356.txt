@@ -58,7 +58,7 @@ stat stupefactus, nesciens ubi abscondat res ablatas.
 
 Talis erat ille peccator, postquam surrexit. O potentia
 Dei, quantum est severa, idest existit! que tales ictus pro
-vindicta crosciat, idest imprimit et infligit. Crosciare est
+vindicta *crosciat*, idest imprimit et infligit. *Crosciare* est
 proprie cum violentia et irato animo percutere.
 
 Dux interrogavit eum quis esset postea; ex quo ipse
@@ -68,15 +68,15 @@ crudelem (ab effectu). Vita bestialis placuit michi et non
 humana, sicut mulo, prout ego fui (quia natus de non
 legittimo matrimonio: sic Tusci vocant expurium, scilicet
 mulum). Sum Vannes Fucci bestia, et Pistorium fuit michi
-digna tana. Recte nominat se bestiam, quia bestialiter vixit
-et non humanitus. Recte dixit tana, quia in huiusmodi locis
+digna *tana*. Recte nominat se bestiam, quia bestialiter vixit
+et non humanitus. Recte dixit *tana*, quia in huiusmodi locis
 nutriuntur bestie. Tana, idest cubile, vel lustrum. Quis au-
 tem sit iste fur, et unde, nota. Hic Vannes, filius expurius
 domini Fucci, fuit de Lazzaris de Pistorio; qui dominus
 Fuccius etiam fuit expurius. Filius domini Lazzari de La-
 zaris fuit iste Vannes. Stabat in stratis et viis et alpibus;
 capiebat homines, torquebat eos, tormentabat, interficie-
-bat, derobabat; habebat plurima banna, nec poterat ha-
+bat, *derobabat*; habebat plurima *banna*, nec poterat ha-
 bitare in Pistorio. Spargebat, ad solatium, sanguinem hu-
 manum. Fuit ita scelleratus, quod in se virtus rationalis
 erat totaliter extincta; ideo dicit, quod vita bestialis pla-
@@ -86,10 +86,10 @@ fieri sicut equus et mulus. Fuit assessinus, violator mul-
 torum, faciendo rixas; et videtur quod debuisset poni in
 circulo violentorum.
 
-Et ego ad ducem: Dicas sibi, quod non mucci, idest
+Et ego ad ducem: Dicas sibi, quod non *mucci*, idest
 fugiat; et interroga eum que culpa ad hunc locum eum pin-
 sit, idest impulit, quia ego vidi eum hominem sanguinis,
-idest effusorem, et de crucci, idest rixarum.
+idest effusorem, et de *crucci*, idest rixarum.
 
 Et peccator, qui intellexit, non se fiuxit, idest intelli-
 gere; sed direxit versus me animum et vultum, et tristi

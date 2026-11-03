@@ -67,7 +67,7 @@ vigabile est illud versus sinistram quovis modo.
 
 Modo auctor ponit unam pulchram arengam, sive aren-
 gariam, sive orationem, quam fecit Ulixes sotiis suis, quando
-pervenit ad illum locum, dicens: O Fratres, dixi: ista est
+pervenit ad illum locum, dicens: *O Fratres, dixi*: ista est
 quarta pars huius capituli, in qua Ulixes narrat mortem
 suam; sed, primo, recitat arengam, quam tunc fecit. O
 Fratres, dixi, qui per centum milia pericula pervenistis ad
@@ -100,7 +100,7 @@ lum nostrum.
 Omnes stellas iam alterius poli videbam illa nocte, et
 nostrum tantum infimum, idest polum articum, quod non
 surgebat extra marinum solum. Hoc dictum est impossi-
-bile, quia ille non apparet. Marinum solum, idest de su-
+bile, quia ille non apparet. *Marinum solum*, idest de su-
 perficie maris.
 
 Quinquies reaccensum et totidem extinctum lumen erat

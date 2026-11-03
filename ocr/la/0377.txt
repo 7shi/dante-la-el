@@ -101,9 +101,9 @@ satis te precor, et iterum rogo, ita quod rogamen unum val-
 leat mille. Est modus loquendi ytalicus. Vult dicere: Rogo
 te instanter, quod complaceas michi, et non deneges ali-
 quantulum expectare; quod non facias michi expectandi,
-vel de expectando, negationem, usquequo flamma cornuta
+vel de expectando, negationem, usquequo flamma *cornuta*
 huc veniat: videas, idest videre potes, quod ex desiderio
-iam ad eam me plico, idest inclino. Dicit cornuta, quia
+iam ad eam me plico, idest inclino. Dicit *cornuta*, quia
 erat divisa in duas partes, in una quarum cruciabatur
 Ulixes, et in alia Diomedes.
 

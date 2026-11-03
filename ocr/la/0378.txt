@@ -58,7 +58,7 @@ Et de vitiis humanis et de valore:
 
 quia opportet quod cum illis loquar ego prius. Permicte me
 loqui, quia ego concepi id quod tu vis, quia ipsi essent
-schivi, idest indignarentur, quoniam fuerunt Greci, forte
+*schivi*, idest indignarentur, quoniam fuerunt Greci, forte
 de tuo dictu.
 Sed cur dicit Virgilius, quod illi forte indignarentur, si
 Dantes cum eis loqueretur, quia erat latinus? Cur non
@@ -69,7 +69,7 @@ perpetuam famam et gloriam. Quasi dicat: Te non cogno-
 scunt, quia omnem cognitionem quam habuit Dantes de
 istis, habuit a Virgilio et propter stilum Virgilii.
 
-O vos, qui estis duo: hec est tertia pars huius capituli,
+*O vos, qui estis duo*: hec est tertia pars huius capituli,
 in qua tractatur de duobus spiritibus, scilicet Ulixis et
 Diomedis. Prius quam flamma devenit illuc, quando visum
 fuit meo duci tempus et locus, in hac forma eum loqui

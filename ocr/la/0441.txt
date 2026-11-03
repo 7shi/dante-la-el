@@ -1,7 +1,7 @@
 CAPITULI TRICESIMISECUNDI SUMMARIUM
 
 In isto tricesimosecundo capitulo, quod incipit:
-Si ego haberem rithymos asperos, primo auctor
+*Si ego haberem rithymos asperos*, primo auctor
 vult se excusare, si non proprie describit istum
 ultimum circulum, in quo sunt ita iniqui spiritus
 et ita gravia tormenta, quia, ad describendum ta-

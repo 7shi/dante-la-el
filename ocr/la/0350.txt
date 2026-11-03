@@ -16,8 +16,8 @@ Et iam noctes ad meridiem vadunt;
 Imaginem sue sororis albe,
 Sed parum durat sue penne moderamen;
 
-In illa parte iuvenculi anni. E'n quella parte del gio-
-venecto anno: istud est vicesimumquartum capitulum
+*In illa parte iuvenculi anni*. *E'n quella parte del gio-*
+*venecto anno*: istud est vicesimumquartum capitulum
 huius Inferni, in quo auctor tractat de septima specie
 fraudis, scilicet de latrocinio, sive de furto; quod capitu-
 lum dividitur in quatuor partes. In quarum prima descri-
@@ -61,7 +61,7 @@ Aquario temperat, et iam noctes ad meridiem, scilicet
 versus, vadunt, quando pruina super terram exemplat,
 idest exemplificat, ymaginem sue sororis albe, scilicet nivis:
 sed parum durat sue penne moderamen, scilicet quia pruina
-cito liquefit. Rusticus, cui rauba, idest rerum copia, defi-
+cito liquefit. Rusticus, cui *rauba*, idest rerum copia, defi-
 cit, vel cui victualia incipiunt deficere, surgit, scilicet de
 lecto, valde mane, et respicit et videt campaniam, idest
 terram latam, albefieri totam; unde ipse sibi percutit crus,

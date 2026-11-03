@@ -1,7 +1,7 @@
 CAPITULI VICESIMISEPTIMI SUMMARIUM
 
 In isto capitulo vicesimoseptimo, quod incipit:
-Iam flamma se erexerat, tractat auctor et declarat
+*Iam flamma se erexerat*, tractat auctor et declarat
 de secunda specie malitie, scilicet quando quis uti-
 tur subtilitate sui ingenii in malum quantum ad
 alias personas, scilicet male consulendo et mala

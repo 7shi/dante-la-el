@@ -66,7 +66,7 @@ nebula spissa, quasi nihil videtur; sed quando incipit ne-
 bula rarefieri, tunc statim visus recuperatur: sicut, quando,
 nebula dissolvitur, visus paulatim reaffigurat, idest incipit
 clare distinguere id quod celat vapor, idest cooperit, vel
-obscurat (dissipa, dissolvitur: stipat, cooperit): sic, perfo-
+obscurat (*dissipa*, dissolvitur: *stipat*, cooperit): sic, perfo-
 rando, transiens cum intuitu, aierem grossum et obscu-
 rum, magis et magis appropinquando versus spondam,
 idest ripam, vel lateres puthei illius, fugit a me error, sci-
@@ -75,14 +75,14 @@ michi pavor, quia primo non timebam de turribus, sed de
 istis, qui fecerunt tanta mala in mundo, timui.
 
 Nota quod in confinibus Senarum, ymo prope Senas, est
-unum castrum, quod vocatur Monte Regione, quod habet
+unum castrum, quod vocatur *Monte Regione*, quod habet
 multas turres, et est per viam per quam itur Florentiam
 de Senis, quod in circum habet plurimas turres: sic stabant
-hic in extremitate puthei Gigantes. Turrizabant, idest ad
+hic in extremitate puthei Gigantes. *Turrizabant*, idest ad
 modum turrium circumdabant; quia, sicut in circulo ro-
 tundo Mons Region turribus coronatur, idest circumdatur;
 sic prora, idest extremitas, vel ripa, que putheum circum-
-dat. Turrizabant de media persona orribiles Gigantes,
+dat. *Turrizabant* de media persona orribiles Gigantes,
 quibus minatur Iupiter de celo, adhuc quando tonat.
 Nota, secundum fictionem poetarum, quod Gigantes an-
 tiquitus voluerunt eripere celum a Iove et eripere a diis.
@@ -101,5 +101,5 @@ Alexandrum, Dyonisium, quos Deus interfecit, ipsi deberent
 timere, quia omnes illos superbos Deus proiicit in miser-
 rimum finem.
 
-Et ego discernebam iam. Ed io scorgeva già: ista est
+*Et ego discernebam iam*. *Ed io scorgeva già*: ista est
 secunda pars huius capituli, in qua tractatur de Nembroth;

@@ -51,7 +51,7 @@ libro. Amen, Amen, Amen.
 Explicit ultimum capitulum, idest tricesimumquartum,
 huius Inferni.
 
-Et quinde, idest inde, exivimus ad revidendum stellas.
+*Et quinde*, idest inde, exivimus ad revidendum stellas.
 Factis responsionibus a Virgilio ipsi Danti super duabus
 questionibus, de quibus Dantes petierat a Virgilio, ipsi
 ambulaverunt per illud foramen, volendo exire de illa
