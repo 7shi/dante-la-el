@@ -64,11 +64,11 @@ Solebat credere mundus in suo periculo, idest homines
 mundani, mundo dediti, quod pulchra Ciprigna, idest Ve-
 nus in Cipro adorata, et fatuus amor (amor dicitur fa-
 tuus, quia infatuat homines), radiaret, idest splenderet,
-voluta in tertio epiciculo (dicitur autem epiciclum ab epi,
-quod est supra, et ciclos, idest oculus, idest Venus in
+voluta in tertio epiciculo (dicitur autem epiciclum ab *epi*,
+quod est supra, et *ciclos*, idest oculus, idest Venus in
 tertio epiciculo, idest in tertio oculo, sive in tertio ciclo,
 vel celo); quare non solum ei, scilicet Veneri, faciebant
-honorem de sacrificiis et de votivo grido, idest clamore,
+honorem de sacrificiis et de votivo *grido*, idest clamore,
 antique gentes in antiquo errore, idest Paganismo; sed
 Dyonem honorabant et Cupidinem, istam, scilicet Dyonem,
 pro matre sua, istum, scilicet Cupidinem, pro filio, scilicet
@@ -78,12 +78,12 @@ sis; et ab ista, scilicet stella Veneris, unde ego principium
 sumo, scilicet ad tradendum de spiritibus qui fuerunt mul-
 tum in amore, capiebant, scilicet antiqui, vocabulum stelle,
 que solem vaghezzat, idest procatur, vel percutit, nunc a
-coppa, idest a posteriori parte, nunc a ciglio, idest a parte
+*coppa*, idest a posteriori parte, nunc a *ciglio*, idest a parte
 anteriori. Nam in Ytalia cilium est illa pars pilosa carnis,
 que est immediate super oculum.
 
 Modo auctor ponit introytum suum in speram Veneris.
-Ego non perpendi ascendere in ipsam, salire; sed quod
+Ego non perpendi ascendere in ipsam, *salire*; sed quod
 essem intra, michi dedit satis fidem domina mea, quam
 vidi fieri pulchriorem, scilicet lucidiorem.
 

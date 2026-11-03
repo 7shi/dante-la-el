@@ -41,8 +41,8 @@ Vivitur hic, sed non devenit[ur] ad satietatem,
 Vestrum navigium, servando meum sulcum
 Ante aquam que revertitur equalis.
 
-O vos qui estis in parvula barcha. O voi che se[te]
-in picciolecta barcha: istud est secundum capitulum Pa-
+*O vos qui estis in parvula barcha*. *O voi che se[te]*
+*in picciolecta barcha*: istud est secundum capitulum Pa-
 radisi, in quo auctor, descripto in capitulo precedenti de
 ascensu suo in celum et ad primam speram, scilicet lune,
 describit suum introytum in speram lune et ipsam lunam.
@@ -67,5 +67,5 @@ Or come ai colpi,
 
 auctor ponit causam huius macule, etc.
 Primo igitur auctor consulit, et bene, auditoribus, et
-primo grossis et rudibus, dicens: Vos qui estis: quicumque
+primo grossis et rudibus, dicens: *Vos qui estis*: quicumque
 estis grossi et inhabiles ad presentem doctrinam, non im-

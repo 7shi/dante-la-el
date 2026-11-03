@@ -68,7 +68,7 @@ indiget iugo, scilicet Cirra, ubi tractatur de divinis, et
 indiget etiam iugo, scilicet Nisa, ubi tractatur de naturali
 et poesi; quia in Paradiso poetice describit res divinas, et
 etiam sepe tractabit de naturalibus et etiam moralibus.
-Dicitur autem Apollo ab a, quod est sine, et polluo, idest
+Dicitur autem Apollo ab *a*, quod est sine, et *polluo*, idest
 pollutio; unde Apollo, idest sine pollutione, quia sapientia
 divinorum est sine pollutione.
 

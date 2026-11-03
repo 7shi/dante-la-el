@@ -70,8 +70,8 @@ pro vero, torsit iam totum mundum quasi, ita quod Iovem,
 Mercurium et Martem ad adorandum trans[cu]currit, idest
 pro Diis adoravit.
 
-Alia dubitatio que te movet. L'altra dubitatione che
-te commove: hec est tertia pars huius capituli, in qua
+*Alia dubitatio que te movet*. *L'altra dubitatione che*
+*te commove*: hec est tertia pars huius capituli, in qua
 Beatrix solvit primum dubium, tamquam minus difficile et
 minus periculosum. Dubitatio prima erat, quia videbatur
 quod iustitia Dei non esset recta, ex eo et pro eo quia

@@ -49,7 +49,7 @@ amphorismata (ecce secundum exercitium, scilicet medico-
 rum. Hoc notat auctor, per illum librum Amphorismorum,
 que posuit Ypocras in medicina. Nota quod non deberet
 dici Amphorismus sed Aforismus, sine m. Vocabulum gre-
-cum est a fos: est prepositio greca) idest post ibant, et
+cum est a *fos*: est prepositio greca) idest post ibant, et
 quidam sequendo sacerdotium (ecce tertium exercitium,
 vanum et mundanum ad prebendas et beneficia acquirenda,
 ad vivendum laute, non ad bene regendum ecclesias, etc.),
@@ -83,12 +83,12 @@ consistit beatitudo, cum Beatrice, idest cum Sacra Scri-
 ptura. Et sic apparet dispositio boni iusti, idest recti viri,
 volentis habere felicitatem.
 
-Postquam quilibet fuit. Poichè ciascuno fo: hec est se-
+*Postquam quilibet fuit*. *Poichè ciascuno fo*: hec est se-
 cunda pars huius capituli, in qua auctor introducit Beatum
 Thomam de Aquino ad tractandum aliqua et bene subtilia de
 ordinatione divina. Primo dicit quomodo ille circulus anima-
 rum illorum Doctorum rotaverat, quieverat a motu suo cir-
-culari, qui significat quoddam gaudere, gioire, sive letitiare,
+culari, qui significat quoddam gaudere, *gioire*, sive letitiare,
 sive letari; ita quod quilibet illorum spirituum rediit ad
 suum locum. Stando sic in circulo, in quo erat auctor, fir-
 mavit se quilibet, ad dandum audientiam illi Sancto Thome,

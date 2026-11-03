@@ -58,7 +58,7 @@ Iam tangitur hic primum malum, quod post tyrampnidem
 Ezzerini evenit civitati Paduane. Sed cito erit, idest eveniet,
 quod Padua ad paludem mutabit aquam, idest sanguis Pa-
 duanorum effusus, de colore aqueo in colorem sanguineum
-(aquam: scilicet fluvii Bacchiglionis, que aqua balneat
+(*aquam*: scilicet fluvii Bacchiglionis, que aqua balneat
 Vincentiam, que aqua fluit per civitatem Vincentie), ut sint,
 idest quia sunt, ad suum debitum gentes crude; idest, quia
 bene merentur talia pati, quoniam crudeles sunt.
@@ -104,6 +104,6 @@ propter rotam, vel per rotam, idest in turba, euntem cir-
 culariter, in quam se misit, idest in quam intravit, sicut
 erat ante.
 
-Alia letitia, que michi erat iam nota. L'altra letitia
-che m'era già nota: hec est tertia pars huius capituli,
+*Alia letitia, que michi erat iam nota*. *L'altra letitia*
+*che m'era già nota*: hec est tertia pars huius capituli,
 in qua auctor tractat de una alia anima venerea. Iste

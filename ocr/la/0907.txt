@@ -80,7 +80,7 @@ diunt omnes iusta petentes.
 
 Ego, scilicet Piccarda, fui in mundo virgo soror, scilicet
 Sancte Clare, sive monacha: et si mens tua bene respicit,
-non me celabit tibi esse plus bellam, idest esse pulchriorem
+non me celabit tibi esse plus *bellam*, idest esse pulchriorem
 (quasi dicens: In mundo fui pulchra, sed hic sum pulchrior);
 sed recognosces quod ego sum Piccarda, que, posita hic
 cum aliis beatis, beata sum in spera magis tarda; idest in
@@ -100,7 +100,7 @@ a fortuna, cum fortuna et casus non contingant in hoc
 regno); et ista sors, idest iste gradus beatitudinis, que
 apparet infima tantum, ideo data est nobis, quia fuerunt
 neglecta nostra vota et vacua, idest diminuta, in aliquo
-canto, idest in aliqua parte, sive in aliquo angulo. Nota
+*canto*, idest in aliqua parte, sive in aliquo angulo. Nota
 quod luna inter planetas se habet ad instar terre inter
 elementa: sicut terra est grossior, obscurior et gravior,
 inter elementa, ita luna inter speras est bassior, grossior
@@ -108,5 +108,5 @@ et materialior. Vota eorum erant in parte vacua, quia, licet
 per vim extracte fuerunt de monasterio, debuerunt redire,
 vi cessante.
 
-Unde ego ad eam. Ond'io a lei: ista est tertia pars
+*Unde ego ad eam*. *Ond'io a lei*: ista est tertia pars
 huius capituli, in qua auctor movet questionem Piccarde,

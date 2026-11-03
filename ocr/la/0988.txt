@@ -94,8 +94,8 @@ sint sine fructu, idest in vanum; quod eveniret si sol et
 alii planete non volverentur sub tali circulo obliquo. Modo
 auctor vult procedere ad materiam, quam vult prosequi.
 
-Minister maior nature. Lo ministro maior de la na-
-tura: hec est secunda pars huius capituli, in qua auctor
+*Minister maior nature*. *Lo ministro maior de la na-*
+*tura*: hec est secunda pars huius capituli, in qua auctor
 describit suum ascensum in speram solis, dicens: Minister
 maior nature, scilicet sol (quia licet omnes planete sint
 ministri nature, tamen sol, qui est oculus mundi, per excel-

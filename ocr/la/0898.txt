@@ -40,8 +40,8 @@ credebas rarum et densum causare maculam in luna.
 
 Sed ammodo te volo informare de luce ita veraci, idest
 vera opinione, que tibi tremolabit, idest reverberabit, sicut
-sol, in suo aspectu. Tremolare: quasi tremendo irradiare.
-Tremolabit: idest irradiabit.
+sol, in suo aspectu. *Tremolare*: quasi tremendo irradiare.
+*Tremolabit*: idest irradiabit.
 
 Iam auctor a longe incipiendo [curat] ponere opinionem
 quam hic videtur asserere; ad quam declarandam, ponen-
@@ -100,7 +100,7 @@ gentia, alia ab ipso Deo, moveat ipsum primum mobile,
 non est presentis speculationis. Et hec est opinio, quam
 ponit hic auctor de macula lune. Tunc ad textum sic.
 Intra celum divine pacis, idest intra celum empyreum,
-si [gira], idest movetur, unum corpus, scilicet primum
+*si [gira]*, idest movetur, unum corpus, scilicet primum
 mobile, quod est inter celum empyreum, in cuius virtute
 esse totum ab ipso contentum iacet, idest in ipso sunt
 omnes virtutes productive.
