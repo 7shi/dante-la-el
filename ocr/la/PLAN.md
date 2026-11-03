@@ -25,8 +25,8 @@ from the image: about 250 lines misread and 46 misprints). **Next**, in this ord
 below, under "Checks"):
 
 1. **Italics**: the slant script, the delegate's trial and batch 1 (0079–0114) are done
-   (steps 1–3); next, the nine parts (step 3, "Parts"); parts 1–2 done (0079–0347);
-   next part 3 (Inferno 24–34).
+   (steps 1–3); next, the nine parts (step 3, "Parts"); parts 1–3 done (0079–0476,
+   the Inferno); next part 4 (Purgatorio 1–11).
 2. **Check 2**: write `ocr/la_lexcheck.py`, its recall trial on the first transcription,
    then decide the candidates in the image.
 3. **When all are done**: State, Known limits, texts/PLAN.md and texts/la/README.md, and
@@ -311,6 +311,26 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
    and 45 pairs (698). Seen in passing and corrected: 0276:66 `giocum` for the print's
    `giuocum`; 0228:57 `eraramo` for `eravamo` (the italic `v`).
 
+   **Part 3, Inferno 24–34** (0349–0474, 2026-11-04): by the script, the slant run over
+   0349–0476 at once (the essays and blank pages left out, 111 pages marked). 201 lines
+   flagged (1.8 a page), all decided in the image; 24 corrected: 10 a capital taken in by
+   the capital rule though roman (0352 `Nos, *pur*`, 0364 `Tota *groppa*`, `Super
+   *spallas*`, 0365 `Edera *abbracciata*`, 0366 `Bononia *Rigoro*`, `Tuscia *Ramarro*`,
+   0369 `Gaville, *piange*`, 0377 `Dicit *cornuta*`, 0402 `Vel *mazzerati*`, 0410 `Quid
+   *pur*`); 8 a roman word measured italic (0403 `Uberti, audientes`, 0422 `et`, 0438
+   `de-` / `scribat` and `et sic`, 0449 `recessit`, 0454 `Ay` twice, 0455 `comite`); 3 a
+   short word left roman inside a run (0361 `*vel ad finem, verborum suorum*`, 0372
+   `*poichè sì grande*`, 0425 `*non ci à*`); 2 a bracket inside a word splitting the run
+   (0354 `*A[l]latro*`, 0459 `*viser[i]e*`); 1 italics missed (0461 `[ab *a*]`). The
+   capital rule was tried narrowed, over 0221–0474 against the corrected pages: kept only
+   at a paragraph's head it fixes 13 lines and breaks 11 (`*Non era anchora di là*`, `Ad
+   *domum*`, ...), at a sentence's head it fixes 5 and breaks 6; so it stays as it is (its
+   wrong lines were all flagged). Inferno 24 (0349–0358) was read through in the image: no
+   line the script did not flag was wrong. Written into `ocr/la`: 44, 47, 19, 38, 52, 36,
+   37, 26, 32, 26 and 40 pairs (397). Seen in passing and corrected: 0425:103–104
+   `gre-` / `ppum` for the print's `grep-` / `pum`; 0444:58 `babhum` for `babbum`;
+   0456:71 `dominus` for `domnus` (`domnus, idest dominus`).
+
    Per part (from Inferno 10; the script adopted by the user, 2026-11-04, in place of a
    delegate), one canto at a time:
    1. The slant runs: `la_italic.py FIRST LAST -t ocr/la/tesseract -v -o SLANT` over the
@@ -323,7 +343,7 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
       unchanged against a snapshot of `HEAD`; `convert_la.py` (only `NO NUMBER` 0099 ×2,
       0363, 0856); this section updated with the canto's counts. A transcription error
       seen in passing is corrected (confirmed in the image) and noted here.
-   Inferno 1–8 went through a delegate (batch 1 and the records above), Inferno 9–23
+   Inferno 1–8 went through a delegate (batch 1 and the records above), Inferno 9–34
    through the script.
 4. **Scope**: the canto pages, the lemmas and the `other` italics (words cited, a name
    like `Pastoralis`; widened with the user, 2026-11-04, and batch 1 reviewed). The
