@@ -29,6 +29,12 @@ from rapidfuzz import fuzz, process
 ROOT = Path(__file__).resolve().parent / "la"
 
 
+def unmark(t):
+    """The text without the italic marks `*…*` (ocr/la/PLAN.md, "Italics"); a `*` after a
+    digit is printed (1283 `154*`) and stays."""
+    return re.sub(r"(?<!\d)\*", "", t)
+
+
 def norm(w):
     w = w.lower().replace("v", "u").replace("j", "i").replace("æ", "e").replace("œ", "e")
     return re.sub(r"[^a-zàèéìòóùäëïöü]", "", w)
@@ -88,7 +94,7 @@ def runs(n, cov, minlen):
 def check(page, dirs, tess, glm, minlen):
     f = next((Path(d, f"{page}.txt") for d in dirs if Path(d, f"{page}.txt").exists()), None)
     if f is None: return None
-    fg = grams(words(f.read_text(encoding="utf-8").split("\n")))
+    fg = grams(words(unmark(f.read_text(encoding="utf-8")).split("\n")))
     tf, gf = Path(tess, f"{page}.tsv"), Path(glm, f"{page}.txt")
     T = words(tess_lines(tess, page)) if tf.exists() else []
     G = words(gf.read_text(encoding="utf-8").split("\n")) if gf.exists() else []

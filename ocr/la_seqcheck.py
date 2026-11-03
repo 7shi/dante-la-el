@@ -24,6 +24,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent / "la"
 
 
+def unmark(t):
+    """The text without the italic marks `*…*` (ocr/la/PLAN.md, "Italics"); a `*` after a
+    digit is printed (1283 `154*`) and stays."""
+    return re.sub(r"(?<!\d)\*", "", t)
+
+
 def check(text):
     blocks = [b for b in text.split("\n\n") if re.search(r"(?m)^\d+ \D", b)]
     seqs = [[int(m) for m in re.findall(r"(?m)^(\d+) ", b)] for b in blocks]
@@ -51,7 +57,7 @@ def main():
         page = f"{n:04d}"
         f = next((Path(d, f"{page}.txt") for d in dirs if Path(d, f"{page}.txt").exists()), None)
         if f is None: continue
-        firsts, hits = check(f.read_text(encoding="utf-8"))
+        firsts, hits = check(unmark(f.read_text(encoding="utf-8")))
         if hits or a.verbose:
             print(page, firsts, "; ".join(hits), file=out)
     if a.output: out.close()

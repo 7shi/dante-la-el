@@ -34,6 +34,13 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent / "la"
+TESS = ROOT / "tesseract"  # la_italic.py -t sets it
+
+
+def unmark(t):
+    """The text without the italic marks `*…*` (ocr/la/PLAN.md, "Italics"); a `*` after a
+    digit is printed (1283 `154*`) and stays."""
+    return re.sub(r"(?<!\d)\*", "", t)
 sys.path.insert(0, str(ROOT.parent.parent / "texts"))
 from convert_la import CANTOS  # noqa: E402
 
@@ -92,7 +99,7 @@ def candidate(a, b):
 
 def page_parts(n):
     """(italian, latin, commentary): lists of (line number, text) of page n."""
-    lines = (ROOT / f"{n:04d}.txt").read_text(encoding="utf-8").replace("’", "'").split("\n")
+    lines = unmark((ROOT / f"{n:04d}.txt").read_text(encoding="utf-8")).replace("’", "'").split("\n")
     bs, cur = [], []
     for i, l in enumerate(lines, 1):
         if l.strip():
@@ -179,7 +186,7 @@ def lemmas(comm, verse, min_run, min_exact):
 
 
 def text_line(page, line):
-    return (ROOT / f"{page:04d}.txt").read_text(encoding="utf-8").split("\n")[line - 1]
+    return unmark((ROOT / f"{page:04d}.txt").read_text(encoding="utf-8")).split("\n")[line - 1]
 
 
 def find(first, last, min_run, min_exact, decided, verbose=None):
@@ -226,7 +233,7 @@ def tess_lines(page):
     sorted from the left, cut where two words are far apart (Tesseract sometimes reads the
     two columns as one line); a lone `|` (the column rule) is dropped."""
     words = {}
-    for r in csv.DictReader(open(ROOT / "tesseract" / f"{page:04d}.tsv", encoding="utf-8"),
+    for r in csv.DictReader(open(TESS / f"{page:04d}.tsv", encoding="utf-8"),
                             delimiter="\t", quoting=csv.QUOTE_NONE):
         t = (r["text"] or "").strip()
         if not t or t in ("|", "||"):

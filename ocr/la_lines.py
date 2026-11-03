@@ -126,7 +126,7 @@ def main():
     for p in range(a.first, a.last + 1):
         page = f"{p:04}"
         if not (ROOT / f"{page}.txt").exists(): continue
-        t = (ROOT / f"{page}.txt").read_text(encoding="utf-8"); L = t.split("\n")
+        t = C.unmark((ROOT / f"{page}.txt").read_text(encoding="utf-8")); L = t.split("\n")
         lines = tess_lines(a.tessdir, page)
         if lines and (ROOT / f"{page}.png").exists():
             rules += check_rules(page, L, lines); breaks += check_breaks(page, L, lines)

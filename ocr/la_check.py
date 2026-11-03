@@ -22,6 +22,12 @@ from pathlib import Path
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parent / "la"
+
+
+def unmark(t):
+    """The text without the italic marks `*…*` (ocr/la/PLAN.md, "Italics"); a `*` after a
+    digit is printed (1283 `154*`) and stays."""
+    return re.sub(r"(?<!\d)\*", "", t)
 SUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
 TERCET = re.compile(r"^([0-9]+\.?|[⁰¹²³⁴⁵⁶⁷⁸⁹]+) +(?=\S)")
 RULE_NUM = re.compile(r"^(?:[⁰¹²³⁴⁵⁶⁷⁸⁹]+|\d{1,2})\s")
@@ -40,7 +46,7 @@ def check_tercets(first, last):
     for p in range(first, last + 1):
         f = txt(f"{p:04}")
         if f is None: continue
-        text = f.read_text(encoding="utf-8")
+        text = unmark(f.read_text(encoding="utf-8"))
         if re.search(r"^CAPITUL", text, re.M) and re.search(r"^(¹|1\.?) ", text, re.M): prev = {}
         paras = [b.split("\n") for b in re.split(r"\n\s*\n", text)]
         verse = [b for b in paras if sum(1 for l in b if TERCET.match(l)) >= 1 and len(b) >= 2
@@ -113,7 +119,7 @@ def rules(im, a, b):
 def blanks(page):
     """Blank lines after the verse block, less those around a quoted line (a block of one or
     two lines after a line ending in `:`), which are not rules."""
-    L = txt(page).read_text(encoding="utf-8").rstrip("\n").split("\n")
+    L = unmark(txt(page).read_text(encoding="utf-8")).rstrip("\n").split("\n")
     nums = [i for i, l in enumerate(L) if RULE_NUM.match(l)]
     start = 0
     if nums:

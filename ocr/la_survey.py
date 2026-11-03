@@ -31,6 +31,12 @@ import dante_corpus
 from rapidfuzz import fuzz, process
 
 ROOT = Path(__file__).resolve().parent / "la"
+
+
+def unmark(t):
+    """The text without the italic marks `*…*` (ocr/la/PLAN.md, "Italics"); a `*` after a
+    digit is printed (1283 `154*`) and stays."""
+    return re.sub(r"(?<!\d)\*", "", t)
 ROMAN = {"I": 1, "V": 5, "X": 10, "L": 50}
 SUPD = "⁰¹²³⁴⁵⁶⁷⁸⁹₀₁₂₃₄₅₆₇₈₉"
 SUP = str.maketrans(SUPD, "01234567890123456789")
@@ -108,7 +114,7 @@ def verse_block(lines):
 
 def page_lines(p):
     """The lines of page p, side-by-side columns split, and the source line of each."""
-    raw = (ROOT / f"{p:04d}.txt").read_text(encoding="utf-8").splitlines()
+    raw = unmark((ROOT / f"{p:04d}.txt").read_text(encoding="utf-8")).splitlines()
     lines, src, right = [], [], []  # right: right columns of side-by-side lines, emitted after the run
     for n0, l in enumerate(raw + [""]):
         l = l.rstrip()

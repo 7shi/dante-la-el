@@ -283,7 +283,7 @@ def esc(line):
 WORD = r"[^\W\d_]+"
 VOCAB = set()
 for f in SRC.glob("[0-9][0-9][0-9][0-9].txt"):
-    t = f.read_text(encoding="utf-8").replace("’", "'")
+    t = re.sub(r"(?<!\d)\*", "", f.read_text(encoding="utf-8")).replace("’", "'")
     # the fragments of words hyphenated at a line end are not words
     t = re.sub(WORD + r"-\n\s*" + WORD, " ", t)
     VOCAB.update(w.lower() for w in re.findall(WORD + r"(?:-" + WORD + r")*", t))
@@ -314,9 +314,13 @@ def join_hyphen(head, tail, where):
 
 
 def join_lines(lines, where):
-    """Join printed lines into one line."""
+    """Join printed lines into one line. An italic pair closed at a line end and opened
+    again on the next line is joined (`*dedit ven-*` / `*tum*:` -> `*dedit ventum*:`,
+    `*a*` / `*b*` -> `*a b*`)."""
     text = lines[0]
     for l in lines[1:]:
+        if text.endswith("*") and l.startswith("*"):
+            text, l = text[:-1], l[1:]
         if re.search(WORD + "-$", text):
             text = join_hyphen(text, l, where)
         else:
@@ -330,6 +334,9 @@ def read_page(n, errors):
     """(head, lines): the running head or heading removed, the signature mark at the foot
     removed. head is (printed page number or None, the heading/running head or None)."""
     lines = text_of(n).rstrip("\n").split("\n")
+    for i, l in enumerate(lines, 1):
+        if len(re.findall(r"(?<!\d)\*", l)) % 2:
+            errors.append(f"{n:04d}:{i}: italic mark not closed")
     number = None
     if re.fullmatch(r"\d+", lines[0]):
         number = int(lines[0])
@@ -425,9 +432,12 @@ def add_paragraphs(parts, ps, n, carry):
     for pi, p in enumerate(ps):
         if carry is not None and pi == 0:
             head = parts[carry]
-            if re.search(WORD + "-$", head):
+            if re.search(WORD + r"-\*?$", head):
                 m = re.match(r"(\S+)\s*(.*)", p[0])
-                parts[carry] = join_hyphen(head, m.group(1), f"{n:04d}")
+                first = m.group(1)
+                if head.endswith("*") and first.startswith("*"):  # an italic pair, as join_lines
+                    head, first = head[:-1], first[1:]
+                parts[carry] = join_hyphen(head, first, f"{n:04d}")
                 p = [m.group(2)] + p[1:] if m.group(2) else p[1:]
                 if not p:
                     continue
