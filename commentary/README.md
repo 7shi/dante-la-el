@@ -109,19 +109,23 @@ che t'è giovato di me fare schermo?
 ## scripts/check_lines.py
 
 ```bash
-uv run scripts/check_lines.py [canticle ...] -m MODEL -L NAME -d DIR -o OUT [-c SPEC] [--no-think] [--save-usage]
-uv run scripts/check_lines.py [canticle ...] -r -d DIR -o OUT [-c SPEC]
+uv run scripts/check_lines.py [canticle ...] -m MODEL -l CODE -L NAME -d DIR -o OUT [-c SPEC] [--no-think] [--save-usage]
+uv run scripts/check_lines.py [canticle ...] -r -d DIR -o OUT [-c SPEC] [-k KIND ...]
+uv run scripts/check_lines.py [canticle ...] -a -k KIND [-k KIND ...] -l CODE -d DIR -o OUT [-c SPEC]
 ```
 
 argument | description | default
 ---|---|---
 `canticle` | canticles to check | all
 `-c`, `--canto` | cantos to check (SPEC syntax) | all
-`-m`, `--model` | model name with an optional vendor prefix | required unless `-r`
-`-L`, `--lang-name` | name of the target language, written into the prompt | required unless `-r`
+`-m`, `--model` | model name with an optional vendor prefix | required to ask the model
+`-l`, `--lang-code` | language code of the target language | required to ask the model or to apply
+`-L`, `--lang-name` | name of the target language, written into the prompt | required to ask the model
 `-d`, `--dir` | directory holding `<canticle>/<NN>.txt` | required
 `-o`, `--out` | directory for the saved answers, `<out>/<canticle>/<NN>.json` | required
 `-r`, `--report` | only report the saved answers, without calling the model | -
+`-a`, `--apply` | apply the fixes of the saved, up-to-date answers, without calling the model | -
+`-k`, `--kind` | report or apply only issues of this kind (repeatable) | all to report; required to apply
 `--no-think` | disable thinking output | enabled
 `--save-usage` | record usage for any model | -
 
@@ -129,11 +133,40 @@ From the Makefile:
 
 ```bash
 make check-lines CANTICLE=inferno CANTO=1-3   # ask the model; all cantos if both are omitted
-make report-lines                             # report the saved answers only
+make check-lines CHECK_MODEL=<model>          # ask another model than the one that generated the texts
+make report-lines KIND="moved missing"        # report the saved answers and their fixes; all kinds if KIND is omitted
+make apply-lines KIND=moved CANTO=1-3 CANTICLE=inferno   # apply the saved fixes of the given kinds
 ```
 
-The translation must hold, on each line, what the original holds on that line and nothing from its neighbours, even at the cost of a forced word order. `check_quotes.py` catches this only where a quote opens or closes; whether a phrase has crossed a line break elsewhere is a matter of meaning, so this script asks the model. For each canto it sends every original line followed by its translation, and asks for the places where a word or phrase is rendered on another line, a line's content is missing or added, or the lines are shifted. Word choice, style, and the order of words inside a line are not reported.
+The translation must hold, on each line, what the original holds on that line and nothing from its neighbours, even at the cost of a forced word order. `check_quotes.py` catches this only where a quote opens or closes; whether a phrase has crossed a line break elsewhere is a matter of meaning, so this script asks the model. For each canto it sends every original line followed by its translation, and asks for every place that breaks this, classified by kind:
 
-Each answer is saved as `<out>/<canticle>/<NN>.json` (`check/el/` from the Makefile), with the translation it was given. A canto whose saved translation still matches its `.txt` is not sent again, so a run can be resumed, and after fixing a few `.txt` files only those cantos are asked anew. Every saved answer is reported at the end as `<path>: <lines>: <problem>`, marked `(stale)` if the `.txt` has changed since.
+kind | meaning
+---|---
+`moved` | a content word or phrase of one original line rendered on another line
+`function` | a function word, auxiliary verb, clitic pronoun, or degree word rendered on another line; often forced by the grammar of the target language (a clitic goes with its verb), but sometimes not (a compound tense split over two lines can be split the same way in Greek)
+`missing` | part of a line's content not rendered
+`added` | content in the translation that belongs to no line
 
-Only the `.txt` files are read. The model's report is a list of candidates to look at, not a verdict; each is checked against the original and fixed by hand in `<NN>.txt`, and the commentaries are synced from the fixed translations afterwards with `make fix-quotes`.
+Word choice, style, and the order of words inside a line are not reported. Nothing else is excluded at report time, not even the `function` cases the grammar seems to force: whether to fix each one is decided afterwards, against the original.
+
+For each issue the model also gives a fix: the rewritten translation of every line involved. It is left empty where the lines cannot follow the original without breaking the grammar, and the problem then says why.
+
+Each answer is saved as `<out>/<canticle>/<NN>.json` (`check/el/` from the Makefile), with the model and the translation it was given. The Makefile asks `CHECK_MODEL`, which defaults to `MODEL` and can be set on the command line, e.g. to check with a lighter model. A canto whose saved translation still matches its `.txt` is not sent again, so a run can be resumed, and after fixing a few `.txt` files only those cantos are asked anew. Every saved answer is reported at the end as `<path>: <lines> [<kind>]: <problem>`, followed by its fix as `-` (current) and `+` (proposed) lines, and marked `(stale)` if the `.txt` has changed since.
+
+`--apply` writes the fixes of the given kinds into the `.txt` files, from up-to-date answers only. A fix is skipped, with the reason, if it:
+
+- rewrites a line that is not one of its issue's lines
+- leaves a rewritten line without a letter of the target language
+- makes the quote marks stop following the original (as `check_quotes.py` checks them)
+- touches a line that a fix applied before it in the same canto has already changed
+- is empty
+
+The workflow is:
+
+1. `make check-lines`, then `make report-lines` to read the issues and their fixes against the original.
+2. `make apply-lines KIND=...` for the kinds to take; a fix that should not be taken is reverted by hand (or the `.txt` edited by hand instead).
+3. Review the result with `git diff`, and run `make check-quotes`.
+4. `make check-lines` again: only the changed cantos are asked anew.
+5. When the translations are done, `make fix-quotes` to sync the commentaries.
+
+Only the `.txt` files are read; the commentaries are synced only at the end.
