@@ -69,8 +69,8 @@ statim deposuerunt admirationem), Beatum te, idest dico,
 marchias, idest regiones, sive contratas, qui sunt inter
 montes et mare, reincepit, scilicet loqui, illa scilicet anima
 Guidonis Guinizzelli, que prius me requisivit, ut moriaris
-melius, supple quam nos fecerimus, experientiam imbarcas,
-idest in barca tua reponis; idest experiri vis. Imbarcas:
+melius, supple quam nos fecerimus, experientiam *imbarcas*,
+idest in barca tua reponis; idest experiri vis. *Imbarcas*:
 idest reponis in barca tui ingenii.
 
 Gens que non venit nobiscum, offendit Deum de eo, pro-

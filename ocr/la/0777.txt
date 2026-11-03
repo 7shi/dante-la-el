@@ -80,7 +80,7 @@ pro omnibus, quasi dicat: [O tu, qui non] propter plus tar-
 dare tuum penitere, vadis post, propter reverentiam, re-
 sponde michi. Quasi dicat: Si ego suffero tantam penam in
 te petendo in isto igne, tu, qui es sine pena, debes dignari
-respondere. In siti: quia ex calore oritur sitis.
+respondere. *In siti*: quia ex calore oritur sitis.
 
 Modo probat quod debet respondere, qui[a] in hoc servit
 pluribus et facit bonum multis; et omne bonum, quanto

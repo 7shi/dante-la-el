@@ -1,7 +1,7 @@
 CAPITULI VICESIMIQUARTI SUMMARIUM
 
 In isto vicesimoquarto capitulo, quod incipit:
-Nec dicere iter, etc., auctor prosequitur materiam
+*Nec dicere iter*, etc., auctor prosequitur materiam
 gulosorum. Primo tamen auctor interrogat istum
 Foresem, cum quo diu fuit locutus, de una sua
 sorore nomine Piccarda. Et quia auctor interro-

@@ -42,7 +42,7 @@ Citra dulcem stilum novum clavum.
 Retro dictatorem vadunt stricte,
 Quod de nostris certe non evenit.
 
-tuo sermone, sive parlare, appaghes, idest quietes, sive
+tuo sermone, sive *parlare*, appaghes, idest quietes, sive
 contentum facias. Aliqui dicunt quod iste Bonagiunta fuit
 pater illius puelle, que vocabatur Pargolecta, de qua Dantes
 post mortem Beatricis amasie sue prime, fuit philocaptus:
@@ -70,7 +70,7 @@ et etiam, quia in presentia hominis laudare ipsum esset
 quedam species adulationis: ideo fingit auctor quod Bo-
 nagiunta non cognoscat auctorem. Nota quod Dantes fecit
 unam pulchram cantilenam amoris pro Beatrice, prima sua
-amasia, que incipiebat: Donne, ch'avete intelletto d'amore,
+amasia, que incipiebat: *Donne, ch'avete intelletto d'amore*,
 idest, Domine, que habetis intellectum amoris. Ideo iste
 Bonagiunta, qui scivit in vita talem cantilenam, interro-
 gabat Dantem, si ipse esset ille qui talem cantilenam fe-

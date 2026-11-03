@@ -65,7 +65,7 @@ sibi: Vis volare antequam habeas alas. Sic eram ego. Ha-
 bebam voluntatem interrogandi, et non audebam, quia
 timebam ne molestarem eum, et usque ad summitatem
 lingue venerant iam verba: sed magister meus, esto velo-
-citer iremus, propter hoc non destitit quin diceret, scocca,
+citer iremus, propter hoc non destitit quin diceret, *scocca*,
 idest dic id quod quasi vis incipere et cupis.
 Tunc ego secure aperui os meum, dicens: Quomodo est
 possibile quod aliquis fiat macer, sive pinguis, ubi non est
@@ -79,7 +79,7 @@ dicendum se argumentat. Quasi dicat: Totus eram disposi-
 tus dicere, ita quod habebam verba in summitate lingue;
 sed non audebam. Ideo Virgilius, de hoc perpendens, non
 dimisit, propter iter quod esset festinum, dulcis pater meus,
-sed dixit: Scocca, idest trahe, vel emicte arcum dicendi,
+sed dixit: *Scocca*, idest trahe, vel emicte arcum dicendi,
 quem usque ad ferrum traxisti. Optima methaphora. Arcus
 est lingua, que erat tracta per effectum; et sagipta erat in
 punctu lingue, idest verbum quod volat irrevocabile.
