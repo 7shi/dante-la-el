@@ -53,8 +53,8 @@ mortue gentis? Et sapiens meus magister signum fecit
 ipsis, velle secrete cum eis loqui. Tunc clauserunt modicum
 magnam indignationem, et dixerunt: Veni tu solus, et ille
 revertatur, qui sic audax intravit per istud magnum [re-
-gnum]. Solus revertatur per follem, idest temerariam,
-stratam, idest viam: probet, si scit; quia tu hic remanebis,
+gnum]. Solus revertatur per *follem*, idest temerariam,
+*stratam*, idest viam: probet, si scit; quia tu hic remanebis,
 qui eum conduxisti per tam buiam, idest obscuram, con-
 tratam. Ymagineris, lector, si ego diffisus fui in sono male-
 dictorum verborum: unde non credidi unquam redire. Hic
@@ -89,7 +89,7 @@ sextum Eneydos. Ideo dicitur: Hic, scilicet Virgilius, re-
 maneat, et ille, scilicet Dantes, retrocedat, etc. Modo ad
 litteram.
 
-Cogita, lector, si ego me sconfortavi: idest si perdidi
+*Cogita, lector, si ego me sconfortavi*: idest si perdidi
 omnem spem, etc.
 
 O care dux mi, qui plusquam septies in securitatem

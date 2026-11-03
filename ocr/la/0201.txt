@@ -78,9 +78,9 @@ Modo venit ad violentiam, que infertur ab homine in pro-
 pria persona; et dicit: Potest homo habere manum violen-
 tam in seipsum, scilicet semetipsum interficiendo; et in suis,
 idest illa dissipando; et ideo in secundo girone oportet
-quod peniteat sine utilitate (sine utilitate, senza prode,
+quod peniteat sine utilitate (*sine utilitate, senza prode*,
 quia nihil prodest penitere in Inferno) quicumque seme-
-tipsum privat de mundo. Biscalia, idest dissipat et effundit
+tipsum privat de mundo. *Biscatia*, idest dissipat et effundit
 suam facultatem, et plorat ubi deberet esse iucundus; quia
 illum, qui dissipat bona sua, oportet plorare; ubi, si non
 dissipasset, potuisset congaudere.
@@ -90,7 +90,7 @@ et blasphemando, idest Deum, et despiciendo naturam et
 suam bonitatem.
 
 Ista est tertia species. Violentia, que infertur in Deum,
-est gravior. Bonitatem: idest artem, que ymitatur in quan-
+est gravior. *Bonitatem*: idest artem, que ymitatur in quan-
 tum potest; et ideo minor gironus, idest circulus, sigillat,
 alias fuggillat, de signo suo, et Sodomam et Caorsam et
 despicientes Deum cum eorum loquela. Qui volunt dicere

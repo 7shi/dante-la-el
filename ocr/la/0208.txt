@@ -30,7 +30,7 @@ Quod aliquam viam daret illi qui superius esset;
 Et in principio rupte lacche
 Infamia Crete erat distensa,
 
-Era lo loco. Erat locus in quo, etc.: istud est dodice-
+*Era lo loco*. *Erat locus in quo*, etc.: istud est dodice-
 simum capitulum Inferni, in quo auctor tractat de primo
 circulo huius civitatis, in quo punitur prima species vio-
 lentie, que commictitur circa proximos et eorum res et
@@ -71,7 +71,7 @@ stabat Minotaurus, animal ferox. Dicit igitur auctor: Erat
 locus, ubi, vel unde, nos ad descendendum ripam venimus,
 alpestris, idest silvestris; et propter illud, quod erat ibi
 adhuc, erat talis, quod omnis visio, idest videns, esset
-schiva, idest omnis visio refugeret transire inde.
+*schiva*, idest omnis visio refugeret transire inde.
 
 Hic sunt notanda multa. Primo, de ruina inter Veronam
 et Tridentum. In partibus Lombardie, provintie ytalice, est

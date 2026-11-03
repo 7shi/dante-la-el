@@ -47,7 +47,7 @@ a tempore quo natus fuit, scilicet sub Iulio Cesare, Iulio
 Caio dictatore, qui tantam brigam habuit cum Pompeio
 console.
 
-Et utinam tardius: res dicitur tarda, quando non obti-
+*Et utinam tardius*: res dicitur tarda, quando non obti-
 netur quod appetitur. Modo textus est valde fortis; et sen-
 tentia auctoris est, quod ipse voluisset esse natus tardius,
 scilicet tali tempore, quo potuisset esse christianus, ut fuisset
@@ -67,7 +67,7 @@ vixisset usque ad publicationem secte Christi, forte fuisset
 salvatus. Tunc, vivente Virgilio et moriente, Dii falsi cole-
 bantur. Vixit sub Augusto, ad cuius laudem fecit librum
 Eneydos, ut dictum est in tertio preambulo.
-Dicit textus: Natus sub Iulio, adhuc licet tarde: hic acci-
+Dicit textus: *Natus sub Iulio, adhuc licet tarde*: hic acci-
 pitur tarde, quando non est bona hora. Homo, quando non
 habet quod vult, videtur tardasse. Et sic hic accipitur, quod
 Virgilius voluisset esse tempore Christi, quia fuisset sal-
@@ -77,8 +77,8 @@ cito natus sum. Quidquid sit, dicendum est, quod tarde hic
 accipitur quando non bona hora; et aliter sententia non
 esset bona.
 
-Poeta fui: declarat se a profexione, asserens se poetam
-fuisse. Et cantavi de illo iusto filio Anchisis, idest de
+*Poeta fui*: declarat se a profexione, asserens se poetam
+fuisse. *Et cantavi de illo iusto filio Anchisis*, idest de
 Enea, de quo, ut sepe dictum est, cantavit et fecit librum
 Eneydos. Sed nota, quod dum [dicit] Eneam fuisse iustum,
 sequitur stilum Virgilii, qui describit eum fuisse iustum.
@@ -90,7 +90,7 @@ Anchises fuit cusinus Priami, regis Troye: fuit in tertio
 gradu Eneas cum Priamo, qui venit de Troya. Dictum est
 in tertio preambulo.
 
-Sed tu cur redis? nunc Virgilius, ex quo manifestavit se-
+*Sed tu cur redis*? nunc Virgilius, ex quo manifestavit se-
 ipsum Danti, quis esset, unde esset, quod fuit suum opus,
 dixit ipsi Danti: Quare tu redis ad vallem, idest ad viam
 vitiosam, ad tantum dispendium et displicentiam? Quia via
@@ -99,7 +99,7 @@ dis in montem delectabilem? Quia virtutes dant delecta-
 tionem, ymo felicitatem, et sunt perductive ad beatitudi-
 nem; ideo sunt principium et causa omnis letitie, etc.
 
-O ne es tu ille, Virgili? nunc Dantes incipit noscere
+*O ne es tu ille, Virgili*? nunc Dantes incipit noscere
 rationem ipsam dirigentem, significatam per Virgilium.
 Dicit Virgilium esse fontem eloquentie; nemo etenim tam
 pulchrum librum fecit poeticum in Ytalia, sicut Virgilius;

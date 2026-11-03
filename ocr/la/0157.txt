@@ -24,7 +24,7 @@ Ultra defensionem sensuum humanorum:
 
 (1) al. e d'uno. — (2) al. provvision. — (3) al. sensi, i. potentie.
 
-alter alio modo. Volo [quod] bene imbocche: idest ap-
+alter alio modo. Volo [quod] bene *imbocche*: idest ap-
 prehendas, intelligas ed adhereas mee sententie. Notandum
 quod in civitate Romanorum erant multa templa Fortune
 dedicata.
@@ -104,7 +104,7 @@ bona vana de gente in gentem, ultra potentiam, sive defen-
 sionem, seminis humani, idest ultra potentiam, sive pru-
 dentiam, humanam et resistentiam.
 
-Bona vana: idest umbratila, quia umbre sunt, que cito
+*Bona vana*: idest umbratila, quia umbre sunt, que cito
 apparent et cito disparent. Dicerent aliqui astrologi, quod
 mundus, quantum ad se totum, semper est in eodem statu;
 sed quoad partes suas diversas, variatur: nam uno tempore

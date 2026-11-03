@@ -70,8 +70,8 @@ duobus cereis accensis, et cum fune, quo intravi et exivi
 cum sotiis meis. Utrum autem sit possibile, quod ex uno
 tauro et una femina speciei humane nascatur tale mon-
 strum, intelligentibus relinquo.
-Modo ad textum: que, scilicet infamia, fuit concepta in
-falsa vaccha: idest, que apparebat vaccha vera et non erat:
+Modo ad textum: *que*, scilicet infamia, *fuit concepta in*
+*falsa vaccha*: idest, que apparebat vaccha vera et non erat:
 et quando vidit nos, scilicet ille Minotaurus, semetipsum
 momordit propter rabiem, sicut ille quem ira siccat, idest
 commovet. Aliqui dicunt hic quod hic taurus, qui impregnat
@@ -106,7 +106,7 @@ morum istius Minotauri, dicens: Qualis est ille taurus, qui
 dislaqueatur, idest solvitur a laqueo, idest a ligatura, tunc
 quando iam recipit ictum mortalem, qui ire nescit, sed hac,
 illac saltat; sic vidi ego Minotaurum taliter facientem; et
-ille accortus, idest previsus, Virgilius scilicet, clamavit:
+ille *accortus*, idest previsus, Virgilius scilicet, clamavit:
 Curre ad passum; quousque est in furia, bonum est quod
 tu te cales, idest quod tu descendas moraliter.
 Nota quod, quando tyrampnus est [in] furia, bonum est

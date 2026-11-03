@@ -39,10 +39,10 @@ Transibat Stygem cum plantis siccis.
 nitum per aquam factum et causatum, in tantum quod
 aqua tremebat, sicut quando transit una galea cum impetu
 maximo.
-Et iam veniebat super turbidas undas unus fracas-
-sus: idest, sonitus, plenus spavento, idest tremore, sive
+*Et iam veniebat super turbidas undas unus fracas-*
+*sus*: idest, sonitus, plenus spavento, idest tremore, sive
 pavore.
-Propter quem tremebant ambo sponte: idest, per lit-
+*Propter quem tremebant ambo sponte*: idest, per lit-
 tus, sive limites ripe. Vult dicere auctor, quod Mer-
 curius veniebat eis in auxilium, sive in eorum adiutorium, cum
 maximo impetu; unde omnes, qui erant in illa valle, time-
@@ -58,9 +58,9 @@ propter efficaciam eloquentie istius Egesie, quod Ptholo-
 meus, rex Egipti, precepit isti Egesie, ut nullo modo sua-
 deret amplius sic contemptum mundi.
 
-Nec aliter factus: idest sonus ille, quam unius venti
-impetuosi per adversos ardores, qui ferit silvam sine
-aliquo retentu: Ymaginemur in una valle palustri unum
+*Nec aliter factus*: idest sonus ille, *quam unius venti*
+*impetuosi per adversos ardores, qui ferit silvam sine*
+*aliquo retentu*: Ymaginemur in una valle palustri unum
 ignem accensum, et ibi surgat unus ventus, fortis, impe-
 tuosus, qui transportet ignem per silvas et vineas, et tran-
 siret breviter terminos, faciens magna incendia: ferit ar-
@@ -72,9 +72,9 @@ venti impetum. Sic, veniente Mercurio super aquas illius
 vallis, plantis siccis, idest non balneatis, fugiebant demones,
 anime dampnate, ita quod ex utraque parte vallis ambo
 limites tremebant; idest tanta est efficacia eloquentie, quod
-rumpit omnia argumenta. Superbos: idest dominos, re-
-ctores terrarum: feras: idest populos subiectos: ramos
-scindit: idest ille ventus impetuosus. Et p[ro]icit, percutit
+rumpit omnia argumenta. *Superbos*: idest dominos, re-
+ctores terrarum: *feras*: idest populos subiectos: *ramos*
+*scindit*: idest ille ventus impetuosus. Et p[ro]icit, percutit
 foris, ante vadit pulverosus, idest disperdens pulveres, su-
 perbus, impetuosus, et facit fugere feras et pastores.
 Fingunt auctores, quod Orpheus ita bene sonabat cithe-
@@ -92,7 +92,7 @@ visus super illam spumam antiquam, illuc ubi est ille
 fumus plus acerbus, idest spissus, sive densus. Primo audi-
 visti, quod Virgilius clausit Danti oculos propter timorem
 Meduse; modo admovet manus, ut videat Mercurium ve-
-nientem. Nervum: idest acumen visus. Unus est nervus in
+nientem. *Nervum*: idest acumen visus. Unus est nervus in
 capite, in anteriori parte frontis, qui vocatur nervus otti-
 cus, qui ministrat virtutem visivam, et respondet in medio
 oculorum, in pupilla, attrahit res exteriores visas, idest
@@ -102,7 +102,7 @@ qui expellit nubem et fumos, aperit secreta et dicit veri-
 tatem et investigat.
 
 Sicut rane, ante inimicum serpentem, per aquam fugiunt
-quousque ad terram quelibet s'abbica, idest attingit; ita
+quousque ad terram quelibet *s'abbica*, idest attingit; ita
 vidit plus quam mille animas dextructas, idest dampnatas
 fugere sic ante unum, qui ad passum transibat Stygem
 cum plantis siccis, idest non balneatis. Per istam compa-

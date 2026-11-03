@@ -32,7 +32,7 @@ cules Octeus; et sic intitulatur. Qui bene notat hanc hy-
 storiam, perpendit quod iste Nexus fecit vindictam de morte
 sua; quia Hercules, sagiptans, eum interfecit, et ipse scivit
 sic ordinare de illa camisia, quod propter ipsam Hercules
-mortuus est. Ideo dicit textus: Qui fecit vindictam ipsemet.
+mortuus est. Ideo dicit textus: *Qui fecit vindictam ipsemet*.
 Notandum, quod secundus Centaurus, hic nominatus, est
 Chyron. Iste fuit prudens homo et inter alios satis mode-
 ratus et minus malus. Sic sepe accidit, quod inter homines
@@ -70,8 +70,8 @@ suus, interfecit regem Priamum, filium suum Politem, et
 fecit vindictam de morte patris sui Achillis, quem inter-
 fecerat Paris, filius regis Priami, etc. Et habetur in Troyano
 et in fine libri secundi Eneydos. Hunc Achillem nutrivit
-Chyron, ut hic dicit textus: Ille est Chyron, qui nutrivit
-Achillem. Iste Chyron nutrivit Achillem, postquam dederat
+Chyron, ut hic dicit textus: *Ille est Chyron, qui nutrivit*
+*Achillem*. Iste Chyron nutrivit Achillem, postquam dederat
 sibi filiam in uxorem. Docuit eum exercitare in armis, quia
 ipse Chyron erat magnus magister et domitor equorum; fuit
 etiam magnus miscicus et cognitor erbarum. Et sic docuit
@@ -86,7 +86,7 @@ ipsi stipendiarii, propterea quia sunt animalia cursatilia,
 idest apta nata ad currendum; ita stipendiarii sunt in con-
 tinuo cursu, etc.
 
-Noi ci appressammo. Nos appropinquavimus: ista est
+*Noi ci appressammo*. *Nos appropinquavimus*: ista est
 tertia pars huius capituli, in qua nominantur aliqui magni
 violenti, et quomodo auctor et suus magister fuerunt re-
 cepti ab istis tribus supradictis Centauris, et de scorta eis
@@ -106,6 +106,6 @@ preterea, sagipta emissa non potest revocari; nec verbum
 emissum et prolatum est revocabile.
 
 Quando discooperuit magnum os, dixit sotiis: Perpen-
-distis vos, sete voi accorti, quod ille, qui est retro, movet
+distis vos, *sete voi accorti*, quod ille, qui est retro, movet
 quidquid tangit? Sic non solent facere pedes mortuorum.
 Ergo motus ille est signum vite.

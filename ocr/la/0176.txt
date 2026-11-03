@@ -41,8 +41,8 @@ Ubi non possumus ammodo intrare sine ira.
 Quia oculus me totum traxerat
 Versus altam turrim ad civitatem roventem,
 
-Et ipse. E quel: idest respondens, dixit: Raro incon-
-tra: idest accidit, sive evenit, quod aliquis nostrum hoc
+*Et ipse*. *E quel*: idest respondens, dixit: *Raro incon-*
+*tra*: idest accidit, sive evenit, quod aliquis nostrum hoc
 iter perambulet, per quod ego vado; quia nemo repertus
 est, qui Infernum et civitatem hanc descripserit, nisi Ho-
 merus Grecus et ego Latinus. Tamen nec Homerus nec
@@ -78,15 +78,15 @@ gilius, quod coniuratus ab illa Erictone, descendit in profun-
 dum Inferni; et sic alias, idest modico tempore post mortem
 sui, Virgilius ipse fuerat ibi, et iam bene sciebat viam.
 
-Per modicum ante erat de me: scilicet spiritus mei,
-Virgilii: caro nuda: idest per modicum ante eram mor-
-tuus: quod ipsa: scilicet Ericton, fecit me intrare intra
+*Per modicum ante erat de me*: scilicet spiritus mei,
+Virgilii: *caro nuda*: idest per modicum ante eram mor-
+tuus: *quod ipsa*: scilicet Ericton, fecit me intrare intra
 illum murum. Ille locus est inferior, bassior, obscurior et
 distantior a celo, quod totum girat, quod omnia circumdat.
 Celum dicitur a celando, quia omnia celat, idest circumdat.
-Bene scio iter, ideo sis securus: idest ne timeas.
+*Bene scio iter, ideo sis securus*: idest ne timeas.
 
-Ista palus, que magnos puteos spirat: sive, que ma-
+*Ista palus, que magnos puteos spirat*: sive, que ma-
 gnos fetores spirat, cingit in circum civitatem dolentem,
 quam non poteris sine ira admodum intrare, vel quam [non]
 intrabimus sine ira. Notandum est hic quod, licet dicatur
@@ -104,6 +104,6 @@ fuit factum bellum civile in campis Perhemathyis, et quando
 Ericton predicta predixit illa futura, nondum erat natus
 Virgilius, etc.
 
-E altro disse. Et aliud dixit: ista est secunda pars
+*E altro disse*. *Et aliud dixit*: ista est secunda pars
 huius capituli, in qua describuntur monstra, que fuerunt
 Danti, ad terrendum ipsum, monstrata.

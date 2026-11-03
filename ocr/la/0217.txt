@@ -23,7 +23,7 @@ cedit et portat Dantem, et Virgilius sequitur. Dum fuerunt,
 Centaurus stetit super aliquos alios, qui minus delinque-
 runt.
 
-Sicut de bullicame: bullicame est unus magnus fons bul-
+*Sicut de bullicame*: bullicame est unus magnus fons bul-
 liens fortissime, et est aqua tam calida, sicut in mundo est;
 et de isto bullicame exit magnus rivus aque calidissime: est
 prope civitatem Viterbii prope unum miliare, ubi sepe fui;
@@ -31,7 +31,7 @@ et sunt ibi bona balnea: de quo bullicame alibi dicetur.
 
 Ostendit nobis unam umbram ex una parte solam, di-
 cens: Illa fixit in gremio Dei cor, quod super Tamisiam
-adhuc si cola, colitur, idest monstratur. Hic est no-
+adhuc *si cola*, colitur, idest monstratur. Hic est no-
 tanda una hystoria talis. In regno pulcherrimo et ditis-
 simo, quod vocatur et dicitur regnum Anglie, sicut nunc,
 ita antiquo tempore, multa dominia erant. Primo, regnum:
