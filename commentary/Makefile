@@ -3,16 +3,18 @@ LANG_CODE = el
 LANG_NAME = Modern Greek
 DIR = $(LANG_CODE)
 
-.PHONY: help generate fix-quotes
+.PHONY: help generate fix-quotes check-quotes
 
 help:
 	@echo "Usage: make generate CANTICLE=<inferno|purgatorio|paradiso> [CANTO=<spec>]"
 	@echo "       make fix-quotes"
+	@echo "       make check-quotes"
 	@echo ""
 	@echo "  generate   Write $(DIR)/<canticle>/NN.md (commentary) and NN.txt (translation)"
 	@echo "             in $(LANG_NAME) with $(MODEL); CANTO takes the SPEC syntax"
 	@echo "             (e.g. 1, 1-3, 12-), all cantos if omitted"
 	@echo "  fix-quotes Rebuild the quote blocks of every $(DIR)/*/NN.md from dante-corpus and NN.txt"
+	@echo "  check-quotes Check that the quote marks of every $(DIR)/*/NN.txt follow the original"
 
 generate:
 ifndef CANTICLE
@@ -22,3 +24,6 @@ endif
 
 fix-quotes:
 	uv run scripts/fix_quote_blocks.py -d $(DIR)
+
+check-quotes:
+	uv run scripts/check_quotes.py -d $(DIR)

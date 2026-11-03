@@ -20,10 +20,11 @@ For each canto, `el/<canticle>/<NN>.*`:
 
 ```bash
 make generate CANTICLE=inferno CANTO=1-3
+make check-quotes
 make fix-quotes
 ```
 
-`CANTO` takes the SPEC syntax of dante-corpus (`N`, `N-M`, `N-`, `-M`, comma-separated); without it, every canto of the canticle is processed. `fix-quotes` then normalizes the quote blocks of every commentary (see below).
+`CANTO` takes the SPEC syntax of dante-corpus (`N`, `N-M`, `N-`, `-M`, comma-separated); without it, every canto of the canticle is processed. `check-quotes` then reports the quote marks of the translations that do not follow the original; after fixing them in `<NN>.txt`, `fix-quotes` copies the translations into the quote blocks of every commentary and normalizes them (see below).
 
 ## scripts/generate.py
 
@@ -78,3 +79,25 @@ The model tends to drop the two trailing spaces that make each quoted original a
 ```
 
 A separator line (`>` alone) is inserted between two pairs that have none; existing separators, skipped lines, and anything else in the block are kept. A file without a sibling `.txt`, a pair without a translation line, or a line number out of range is left as-is with a warning. The model is not called, so the script can be run any number of times.
+
+## scripts/check_quotes.py
+
+```bash
+uv run scripts/check_quotes.py [canticle ...] -d DIR [-c SPEC] [-s N]
+```
+
+argument | description | default
+---|---|---
+`canticle` | canticles to check | all
+`-d`, `--dir` | directory holding `<canticle>/<NN>.txt` | required
+`-c`, `--canto` | cantos to check (SPEC syntax) | all
+`-s`, `--shift` | longest run reported as a shift rather than a mismatch | `2`
+
+Each line is translated on its own, so the model may drop or add a quotation mark where a speech opens or closes on a line of its own. This script compares the quotation marks of each `<NN>.txt` with the original. The original nests its quotes as `«»` > `“”` > `‘’`, while the translation writes them mostly as `«»`, so the kind of mark is not compared; instead the nesting depth (opening marks minus closing marks, counted from the start of the canto) is compared at the end of every line. In the translation `’` is the apostrophe of elision (`γι’`, `απ’`), so only `«»` and `“”` are counted there.
+
+Each run of consecutive lines whose depths differ is reported:
+
+- `shift`: a run of at most `--shift` lines that the following lines resolve. Usually the translation's word order has moved a quote boundary to the neighbouring line, which needs no fix.
+- `mismatch`: a longer run, or one that lasts to the end of the canto. A mark is missing or extra, and the difference is carried on to the following lines.
+
+The exit status is 1 if there is a mismatch. The model is not called; mismatches are fixed by hand in `<NN>.txt`, adding or removing a mark without touching the wording. When an inner quote of the original (`“”`, `‘’`) inside a speech is written as `«»` and the depths no longer match, it is written as `“”` instead.

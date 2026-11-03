@@ -39,7 +39,9 @@ from dante_corpus.api import canto
 CANTICLES = ["inferno", "purgatorio", "paradiso"]
 
 ORIG_RE = re.compile(r"^>\s*(\d+)[.:)]?\s+(.*?)\s*$")
-TRANS_RE = re.compile(r"^>\s*\((.*)\)\s*$")
+# Punctuation after the closing paren: the model sometimes moves a trailing
+# comma of the original outside, as in `> («...»),`
+TRANS_RE = re.compile(r"^>\s*\((.*)\)[,.;:!?·»”’]*\s*$")
 PATH_RE = re.compile(r"(?:^|/)(inferno|purgatorio|paradiso)/(\d+)\.md$")
 
 SEPARATOR = ">"
