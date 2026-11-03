@@ -25,8 +25,8 @@ from the image: about 250 lines misread and 46 misprints). **Next**, in this ord
 below, under "Checks"):
 
 1. **Italics**: the slant script, the delegate's trial and batch 1 (0079–0114) are done
-   (steps 1–3); next, the nine parts (step 3, "Parts"); parts 1–5 done (0079–0738,
-   the Inferno and Purgatorio 1–22); next part 6 (Purgatorio 23–33).
+   (steps 1–3); next, the nine parts (step 3, "Parts"); parts 1–6 done (0079–0869,
+   the Inferno and Purgatorio); next part 7 (Paradiso 1–11).
 2. **Check 2**: write `ocr/la_lexcheck.py`, its recall trial on the first transcription,
    then decide the candidates in the image.
 3. **When all are done**: State, Known limits, texts/PLAN.md and texts/la/README.md, and
@@ -377,6 +377,17 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
    `videbat[tur]`; 0646:61 `anthartico` for the print's `authartico` (put back in batch
    6).
 
+   **Part 6, Purgatorio 23–33** (0741–0869, 2026-11-04): by the script, the slant run over
+   0741–0869 at once (the essays and blank pages left out, 112 pages marked). 44 lines
+   flagged (0.4 a page; 16 of them box, all roman in the image), all decided in the image;
+   8 corrected: 3 a roman word measured italic (0814:22 `Dum ego`, a verse of the summary
+   quoted in roman; 0822 and 0840 `ego`); 1 a capital taken in by the capital rule (0795
+   `Ytalicos *mancia*`); 4 italics missed, a word of one or two letters inside a lemma
+   (0752 `*Nè 'l*` / `*dir l'andar …*`, 0772 `*a quando a quando*`, 0776 `*Mentre che si
+   per l'orlo*`, 0805 `*parve, si com'egli*`). Written into `ocr/la`: 10, 23, 17, 17, 15,
+   13, 18, 18, 15, 16 and 19 pairs (181). Seen in passing and corrected: 0859:4–5 `auc-` /
+   `tor de-` for the print's one line `auctor de-` (a line too many in the summary).
+
    Per part (from Inferno 10; the script adopted by the user, 2026-11-04, in place of a
    delegate), one canto at a time:
    1. The slant runs: `la_italic.py FIRST LAST -t ocr/la/tesseract -v -o SLANT` over the
@@ -390,7 +401,7 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
       0363, 0856); this section updated with the canto's counts. A transcription error
       seen in passing is corrected (confirmed in the image) and noted here.
    Inferno 1–8 went through a delegate (batch 1 and the records above), Inferno 9–34
-   and Purgatorio 1–22 through the script.
+   and Purgatorio through the script.
 4. **Scope**: the canto pages, the lemmas and the `other` italics (words cited, a name
    like `Pastoralis`; widened with the user, 2026-11-04, and batch 1 reviewed). The
    essays, front matter and appendix only if the user agrees, after the parts.
