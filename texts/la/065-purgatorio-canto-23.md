@@ -2,7 +2,7 @@
 
 # Capituli Vicesimitertii Summarium
 
-In isto vicesimotertio capitulo, quod incipit: Dum oculos per frondes, etc., auctor prosequitur materiam gulosorum, ponendo penam ipsorum in generali, que talis est. In medio vie, per quam continue vadunt et revertuntur gulosi, stat una arbor, ut dictum est, plena pomis et fructibus odoriferis. Et gulosi vadunt per illam viam sicut peregrini; et videntes aliqui arborem illam, ymo omnes, intuentur illam avide. Et de eterno consilio et divina voluntate descendit una virtus in arborem et in fructus eius, et in aquam que ibi scaturit, que inducit famem et sitim et voluptatem in istis gulosis, qui accenduntur ab appetitu famis et sitis. Et isti spiritus videntur macilenti, et sunt tales in facie, ita quod ossa informantur a pelle. Et tamen isti gulosi vadunt libenter ad istam penam, quam habent videndo illa poma et illam aquam, unde accenduntur ad appetitum: qui appetitus avidus affligit istos gulosos. Hanc penam patienter et libenter sufferunt, quia sic purgantur a vitio gule et efficiuntur digni ascendere sursum ad celum. Ista pena bene convenit gulosis, quia, dum vivebant, non satiabantur et non contentabantur de hiis que sufficiebant nature, sed querebant diversa genera ferculorum, etc. Hic invenit auctor unum civem florentinum, nomine Foresem, qui plura dixit auctori de moribus mulierum florentinarum, cui auctor se palificavit et Virgilium et Statium.
+In isto vicesimotertio capitulo, quod incipit: *Dum oculos per frondes*, etc., auctor prosequitur materiam gulosorum, ponendo penam ipsorum in generali, que talis est. In medio vie, per quam continue vadunt et revertuntur gulosi, stat una arbor, ut dictum est, plena pomis et fructibus odoriferis. Et gulosi vadunt per illam viam sicut peregrini; et videntes aliqui arborem illam, ymo omnes, intuentur illam avide. Et de eterno consilio et divina voluntate descendit una virtus in arborem et in fructus eius, et in aquam que ibi scaturit, que inducit famem et sitim et voluptatem in istis gulosis, qui accenduntur ab appetitu famis et sitis. Et isti spiritus videntur macilenti, et sunt tales in facie, ita quod ossa informantur a pelle. Et tamen isti gulosi vadunt libenter ad istam penam, quam habent videndo illa poma et illam aquam, unde accenduntur ad appetitum: qui appetitus avidus affligit istos gulosos. Hanc penam patienter et libenter sufferunt, quia sic purgantur a vitio gule et efficiuntur digni ascendere sursum ad celum. Ista pena bene convenit gulosis, quia, dum vivebant, non satiabantur et non contentabantur de hiis que sufficiebant nature, sed querebant diversa genera ferculorum, etc. Hic invenit auctor unum civem florentinum, nomine Foresem, qui plura dixit auctori de moribus mulierum florentinarum, cui auctor se palificavit et Virgilium et Statium.
 
 <!-- p. [688] (0742) -->
 
@@ -26,7 +26,7 @@ In isto vicesimotertio capitulo, quod incipit: Dum oculos per frondes, etc., auc
 
 (1) de l'arbor predecto — (2) al. ficcava io, Dante — (3) cercando lor nidi — (4) mio, Virgilio — (5) o — (6) assegnato.
 
-Dum oculos per frondem viridem. Mentre che gli occhi per la fronde verde: istud est vicesimumtertium capitulum huius Purgatorii, in quo auctor prosequitur materiam gule; et potest dividi in quatuor partes. Nam in prima ponitur et describitur pena et effectus purgationis peccati gule.
+*Dum oculos per frondem viridem*. *Mentre che gli occhi per la fronde verde*: istud est vicesimumtertium capitulum huius Purgatorii, in quo auctor prosequitur materiam gule; et potest dividi in quatuor partes. Nam in prima ponitur et describitur pena et effectus purgationis peccati gule.
 
 In secunda parte, que incipit ibi:
 
@@ -224,7 +224,7 @@ Quis crederet quod odor unius pomi, sic gubernaret, idest
 
 extenuaret, generando famem, idest appetitum, et ille, scilicet odor, aquarum, nesciendo qualiter?
 
-Iam eram in admirandum. Già era in admirare:
+*Iam eram in admirandum*. *Già era in admirare*:
 
 ista est secunda particula istius capituli, in qua auctor introducit in speciali unum spiritum modernum, vitiosum in gula, a quo didicit causam tante macretudinis, etc.
 
@@ -326,7 +326,7 @@ Et non solum semel istud, idest istum locum, circumeundo, fit recens nostra pena
 
 Quia illa voluntas ad arborem nos ducit, que duxit Christum letum ad dicendum Hely, considerans quod mors sua erat liberatio humani generis.
 
-Et ego ad eum. Et io a lui: hec est tertia pars huius capituli, in qua auctor movet questionem unam isti spiritui, que talis est. Vix sunt quinque anni, quod tu moriebaris, et tu tardasti penitentiam usque ad mortem, et fuisti negligens penitere te peccatorum tuorum; quare tu deberes esse inferius, ubi poniuntur illi qui tardaverunt penitentiam, et ubi oportet quod restauretur tempus perditum et puniatur. Quomodo, ergo, es tu hic, et quomodo venisti tam cito ad istam purgationem?
+*Et ego ad eum*. *Et io a lui*: hec est tertia pars huius capituli, in qua auctor movet questionem unam isti spiritui, que talis est. Vix sunt quinque anni, quod tu moriebaris, et tu tardasti penitentiam usque ad mortem, et fuisti negligens penitere te peccatorum tuorum; quare tu deberes esse inferius, ubi poniuntur illi qui tardaverunt penitentiam, et ubi oportet quod restauretur tempus perditum et puniatur. Quomodo, ergo, es tu hic, et quomodo venisti tam cito ad istam purgationem?
 
 Et iste respondet, quod orationes et elemosina et bona que operatur uxor sua pro eo, liberaverunt eum de circulis inferioribus, et conduxerunt eum huc. Quia uxor sua erat valde solicita pro eo, et sic vidua, faciens tantum bonum, erat plurimum accepta Deo.
 
@@ -466,7 +466,7 @@ Quia si, pro non previdere, idest antevidere, hic me non decipit, prius erunt tr
 
 Vult dicere, quod antequam qui nunc sunt in cunabulis habeant barbas pilosas, qui nunc consolantur cum illo vocabulo consolatorio, quo utuntur matres, sive mulieres, in consolando pueros in cunabulis, venient ista mala. Si hec mulieres previderent, iam plorarent ululando et clamarent ad celum. Certe, multe afflictiones supervenerunt civitati Florentie, quia tempore Dantis fuit pars Alba expulsa, de qua erat Dantes et multi cives: unde multe domus remanserunt vacue et multe fuerunt dirupte. In millesimo tercentesimo quinto fuit seditio in civitate, et partes venerunt ad arma et accensus fuit unus ignis in civitate, quo combusta sunt plusquam quingenta pulchra pallatia.
 
-De! frater: ista est quarta et ultima pars istius capituli, in qua auctor manifestat se et suos duces isti spiritui, illo hic anxie postulante et dicente: De! frater, nunc fac quod plus michi non te celes; idest, manifesta te michi: videas quod non solum ego, sed ista gens tota respicit ibi ubi tu solem velas: quia faciebat umbram et rumpebat.
+*De*! *frater*: ista est quarta et ultima pars istius capituli, in qua auctor manifestat se et suos duces isti spiritui, illo hic anxie postulante et dicente: De! frater, nunc fac quod plus michi non te celes; idest, manifesta te michi: videas quod non solum ego, sed ista gens tota respicit ibi ubi tu solem velas: quia faciebat umbram et rumpebat.
 
 Quasi dicens: Omnes nos miramur, quod tu vivus vadas hac.
 
