@@ -13,6 +13,7 @@ stream per paragraph (consecutive lines), so that the rules see across a line en
 - the two halves of a word broken at a line end take the larger slant;
 - a capital word measured roman just before an italic word, no stop between, is taken in
   (a lemma's head measures about -0.20 on its capital: `Non`, `Nos`);
+- an elided word of one letter takes the side of the word after it (`*s'abbica*`);
 - `etc.` is not marked (it stays outside the pair by the convention).
 
 Marks: each line closes its own pairs; runs split at : . ; ? ! ( ); commas stay inside,
@@ -140,6 +141,10 @@ def mark_page(lines, slants, lo=0.09, hi=0.16):
     for x in range(n):  # `etc.` stays outside the pair (the convention)
         if W[x][3] == "etc":
             flag[x] = False
+    for x in range(n - 2, -1, -1):  # an elided one-letter word goes with the next (`s'abbica`)
+        a, b = W[x], W[x + 1]
+        if len(a[3]) == 1 and a[0] == b[0] and lines[a[0] - 1][a[2]:b[1]] in ("'", "’"):
+            flag[x] = flag[x + 1]
     for x in range(n - 1):  # a capital before an italic word
         if flag[x] is False and W[x][3][0].isupper() and flag[x + 1] and not G[x]:
             flag[x] = True
