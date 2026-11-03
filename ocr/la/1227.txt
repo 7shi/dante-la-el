@@ -54,8 +54,8 @@ tura, sed est defectus a parte tua, quia non habes vistas,
 idest visiones, scilicet oculos, adhuc tantum superbas, idest
 altas, sive acutas, sive claras.
 
-Non est puer qui ita cito ruat. Non è fantin che sì
-tosto rua: hec est tertia pars huius capituli, in qua auctor
+*Non est puer qui ita cito ruat*. *Non è fantin che sì*
+*tosto rua*: hec est tertia pars huius capituli, in qua auctor
 describit celum Empyreum sub forma propria in sua es-
 sentia; sed primo dicit, quomodo bibit de ista aqua, per
 hanc comparationem. Sicut puerulus infans, qui diu dor-
@@ -83,7 +83,7 @@ inclinando me ad undam, idest aquam, que derivatur, ut
 melius ibi videatur.
 
 Et statim quod de ea bibit gronda, idest summitas, pal-
-pebrarum mearum (summitas, idest extremitas), ita cito,
+pebrarum mearum (*summitas*, idest extremitas), ita cito,
 idest subito, michi apparuit, idest visum fuit, de sua lon-
 ginquitate devenisse ad rotunditatem; idest, ipsum celum
 Empyreum, quod michi prius apparuit longum antequam

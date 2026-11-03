@@ -92,7 +92,7 @@ spirituum humanorum. Facies totas habebant de flamma
 viva (per hoc denotatur viva caritas, quam habent angeli),
 et alas de auro (per aurum denotatur eorum sapientia), et
 reliquum, scilicet bustum, sive corpus, totum album, quod
-nulla nix ad illum terminum arriva, idest ad tantam
+nulla nix ad illum terminum *arriva*, idest ad tantam
 albedinem venit, idest nulla nix est tantum alba. Per istam
 albedinem denotatur puritas, quasi dicatur: Non est aliqua
 rationalis creatura ita pura et beata, que parificetur na-

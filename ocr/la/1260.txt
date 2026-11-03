@@ -81,13 +81,13 @@ denter desideravi, plus[quam] ego facio pro suo, idest rogo
 te pro eo (fingit hic quod Bernardus dilexit auctorem et
 merito, quia Dantes multum utebatur dictis Bernardi et
 delectabatur in ipsis), omnes meas preces tibi porrigo, et
-deprecor quod non sint scarse, idest avare, scilicet quod
+deprecor quod non sint *scarse*, idest avare, scilicet quod
 non refutentur, sed acceptentur et dent effectum, ut etc.,
 ad hoc ut omnis nubes dissolvatur sue mortalitatis cum
 precibus tuis, ita quod summa complacentia ei explicetur,
 idest aperiatur, ostendatur, removeas ab eo omnem car-
 neam caliginem, et facias eum videre Deum, qui est summa
-complacentia, ita quod ei si spieghi, idest devolvatur Deus,
+complacentia, ita quod ei *si spieghi*, idest devolvatur Deus,
 qui erat prius involutus, idest aperiatur.
 
 Adhuc te precor, o Regina, que potes quidquid tu vis,
@@ -105,5 +105,5 @@ ergo propter tot rogamina tu debes moveri ad faciendam
 gratiam petitam) propter meas preces tibi claudit manus,
 idest porrigit manus clausas.
 
-Oculi Dei dilecti. Gli occhi de Dio dilecti: hec est
+*Oculi Dei dilecti*. *Gli occhi de Dio dilecti*: hec est
 secunda pars huius capituli, in qua ostenditur quomodo

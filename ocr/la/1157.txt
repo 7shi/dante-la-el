@@ -86,7 +86,7 @@ dixi: Larga pluvia Spiritus Sancti, que est diffusa super
 veteribus et super novis coriis, idest super veteri et novo
 Testamento, quam pluviam, scilicet Sacram Scripturam,
 didici, sicut melius potui, diffusam in diversis partibus
-Biblie (coriis, idest cartis), e[s]t syllogismus, qui michi
+Biblie (*coriis*, idest cartis), e[s]t syllogismus, qui michi
 illam, scilicet fidem, concludit acute, idest fixe, ita quod
 respectu illius omnis demonstratio michi apparet obtusa.
 Idest: ita perfecte credo, quod omnis res que demonstratur

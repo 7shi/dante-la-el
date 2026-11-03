@@ -92,7 +92,7 @@ vel elegit.
 
 Sed ipsa, scilicet Beatrix, que videbat meum desiderium,
 incepit, scilicet dicere, ridendo, tantum leta, quod Deus
-apparebat in suo risu gioyre, idest iucundari: natura
+apparebat in suo risu *gioyre*, idest iucundari: natura
 mundi (loquitur auctor more Aristotilis, qui dicit natura
 universalis, idest Deus), que quietat medium (idest terram,
 quoad se, totam facit immobilem; nam terra quoad se tota

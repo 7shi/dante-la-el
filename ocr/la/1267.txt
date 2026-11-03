@@ -103,7 +103,7 @@ Pervento igitur ipso huc, alta fantasia sua, que fuit de tam
 altis rebus, debuit habere finem, quia ulterius, idest ultra
 Deum, non potest iri.
 Et omne posse creatum, alte fantasie, hic, idest apud
-summum deficit (posse, idest potentia); sed, si pro quia
+summum deficit (*posse*, idest potentia); sed, si pro quia
 iam volvebat meum velle, velle divinum idest meam volun-
 tatem volvebat voluntas divina; sicut rota que equaliter
 movetur. Supple: ego movebar et motus sum, quia complevi

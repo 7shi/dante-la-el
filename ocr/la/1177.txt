@@ -53,7 +53,7 @@ dam participatio illius boni: concludit ergo dicens), magis
 quam in alia, scilicet quacumque, essentia, convenit, idest
 oportet, quod moveatur mens, amando, cuiuslibet qui
 cernit, idest cognoscit, verum, in quo probatur ista pro-
-batio. Bene dicit, qui cernit: quia aliquando res non bona,
+batio. Bene dicit, *qui cernit*: quia aliquando res non bona,
 et apparens bonum, movet mentem ad amorem; sed in ista
 essentia non potest esse deceptio, in qua est omne bonum
 et extra quam nihil est bonum, quin sit quidam splendor
@@ -85,7 +85,7 @@ libro Apocalypsi) supernum bandum inferius, super omne
 aliud publicatum, idest ultra omnem tubam Prophetarum
 et Evangelistarum, et ultra omnia dicta Doctorum.
 
-Et ego audivi. E io udii: hec est secunda pars huius
+*Et ego audivi*. *E io udii*: hec est secunda pars huius
 capituli, in qua auctor introducit Ioannem Evangelistam,
 facientem ipsi unam petitionem circa Caritatem, ubi ipse
 Sanctus dicit: Quasi bene respondidisti et bene amas; sed

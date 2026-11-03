@@ -44,7 +44,7 @@ milliariorum, vel milliarium: quia ab ortu solis usque ad me-
 ridiem sunt sex hore, et in qualibet sol currit per mille mil-
 liaria, ergo sex millibus milliaribus de longinquo ab hortu
 solis fervet hora sexta), [et], tunc in ortu solis, iste mun-
-dus inferior inclinat iam umbram (inclinat, idest expellit,
+dus inferior inclinat iam umbram (*inclinat*, idest expellit,
 umbram, idest noctem, quia nox non est aliud quam umbra
 terre interposite inter nos et solem) ad latus planum, alias
 ad lectum (quia illa umbra vadit inferius, et quando fit hic

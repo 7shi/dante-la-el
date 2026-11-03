@@ -22,8 +22,8 @@ etiam quod bis in anno est equinoctium, scilicet in Ariete
 de mense martii, et in Libra de mense septembris. Poete
 vero propter naturam equinoctii, aliquando accipiunt unum
 pro alio: sic facit hic auctor, quando dicit, In hoc primo
-vere sempiterno, quod nocturnus Aries non expoliat (no-
-cturnus aries, idest Libra, que habet expoliare arbores
+vere sempiterno, quod nocturnus Aries non expoliat (*no-*
+*cturnus aries*, idest Libra, que habet expoliare arbores
 seu folia, que nescit aries diurnus). Nota etiam quod astro-
 logi audent dicere et dicunt et a d'struunt, quod aliqui pla-
 nete et aliqua astra sunt masculina, aliqua femminina,
@@ -60,15 +60,15 @@ inter alia de conditionibus angelorum. Unde postea istum
 pulchrum librum composuit de Angelica Ierarchia, cuius
 opinionem auctor hic sequitur in hoc opere. Nam Dionysius
 ponit novem choros angelorum, et ponit tres Ierarchias:
-superiorem, epiphaniam, ab epi, quod est supra, et phanos
+superiorem, epiphaniam, ab *epi*, quod est supra, et *phanos*
 quod est apparitio; ponit mediam, quam appellat theopha-
-niam, a Theos grece, quod est Deus latine, et phanos,
+niam, a *Theos* grece, quod est Deus latine, et *phanos*,
 quod est apparitio; ponit inferiorem ierarchiam, quam
 
 
 
-vocat ypophaniam, ab ypos grece, quod sonat sub, et
-phanos, quod est apparitio, quasi subapparitio: et in qua-
+vocat ypophaniam, ab *ypos* grece, quod sonat sub, et
+*phanos*, quod est apparitio, quasi subapparitio: et in qua-
 libet istarum trium ierarchiarum ponit tres ordines ange-
 lorum. In superiori, idest prima, ponit primo ordinem Se-
 raphin: Seraphin interpretatur amoris incendium; quia
