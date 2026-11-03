@@ -105,3 +105,35 @@ che t'è giovato di me fare schermo?
 «Ω Ιάκοπο», έλεγε, «ντα Σαντ’ Αντρέα,
 τι κέρδισες που με έκανες ασπίδα σου;
 ```
+
+## scripts/check_lines.py
+
+```bash
+uv run scripts/check_lines.py [canticle ...] -m MODEL -L NAME -d DIR -o OUT [-c SPEC] [--no-think] [--save-usage]
+uv run scripts/check_lines.py [canticle ...] -r -d DIR -o OUT [-c SPEC]
+```
+
+argument | description | default
+---|---|---
+`canticle` | canticles to check | all
+`-c`, `--canto` | cantos to check (SPEC syntax) | all
+`-m`, `--model` | model name with an optional vendor prefix | required unless `-r`
+`-L`, `--lang-name` | name of the target language, written into the prompt | required unless `-r`
+`-d`, `--dir` | directory holding `<canticle>/<NN>.txt` | required
+`-o`, `--out` | directory for the saved answers, `<out>/<canticle>/<NN>.json` | required
+`-r`, `--report` | only report the saved answers, without calling the model | -
+`--no-think` | disable thinking output | enabled
+`--save-usage` | record usage for any model | -
+
+From the Makefile:
+
+```bash
+make check-lines CANTICLE=inferno CANTO=1-3   # ask the model; all cantos if both are omitted
+make report-lines                             # report the saved answers only
+```
+
+The translation must hold, on each line, what the original holds on that line and nothing from its neighbours, even at the cost of a forced word order. `check_quotes.py` catches this only where a quote opens or closes; whether a phrase has crossed a line break elsewhere is a matter of meaning, so this script asks the model. For each canto it sends every original line followed by its translation, and asks for the places where a word or phrase is rendered on another line, a line's content is missing or added, or the lines are shifted. Word choice, style, and the order of words inside a line are not reported.
+
+Each answer is saved as `<out>/<canticle>/<NN>.json` (`check/el/` from the Makefile), with the translation it was given. A canto whose saved translation still matches its `.txt` is not sent again, so a run can be resumed, and after fixing a few `.txt` files only those cantos are asked anew. Every saved answer is reported at the end as `<path>: <lines>: <problem>`, marked `(stale)` if the `.txt` has changed since.
+
+Only the `.txt` files are read. The model's report is a list of candidates to look at, not a verdict; each is checked against the original and fixed by hand in `<NN>.txt`, and the commentaries are synced from the fixed translations afterwards with `make fix-quotes`.
