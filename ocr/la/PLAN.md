@@ -127,9 +127,14 @@ Progress (2026-11-05):
 - Group 1: done; 278 rows, 59 misread, 6 misprints.
 - Group 2, decided in page batches (each candidate's word cropped from the image, the
   unclear ones zoomed and compared with letters of the same page): batch 1 (0001–0160)
-  done, 311 rows, 5 misread. Next: 0161–0320, then 0321–0480, 0481–0640, 0641–0800,
-  0801–0960, 0961–1120, 1121–1296. No group 2 candidate is left out by script (a Tesseract
-  word that joins an elided word to the form, `Nellumiliare`, is still looked at: the same
+  done, 311 rows, 5 misread, 1 misprint (0153 `rim`, found when la-el-agy's readings of
+  the same crops were compared). From batch 2 the crops are read by la-el-agy, blind: it
+  gets each crop and the line with the word replaced by `____` (not the `ocr/la` form) and
+  writes the word as printed; every reading that differs from `ocr/la` is decided in the
+  image, the rest taken as printed. Batch 2 (0161–0320): 432 rows, 23 readings differed,
+  2 misread. Next: 0321–0480, 0481–0640, 0641–0800, 0801–0960, 0961–1120, 1121–1296.
+  No group 2 candidate is left out by script (a Tesseract word that joins an elided word
+  to the form, `Nellumiliare`, is still looked at: the same
   shape covers real differences, `inanz'a` against `inanza`).
 
 Not found by this check: misreadings into a common word (0085 `terret` is a real word,
@@ -259,6 +264,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0146 | 6 | `Verrauno al sangue` | `Verranno` | `u` for the first `n` (a turned letter). |
 | 0147 | 79 | `infra tres solos` | `soles` | The lemma (Latin verse 23) has `soles`. |
 | 0150 | 20 | `si specchieranuo le coscienze` | `specchieranno` | `u` for the second `n` (a turned letter). |
+| 0153 | 107 | `per rim, idest per fortitudinem` | `vim` | Italic lemma; an `r` with no entry stroke, unlike the initial `v` of `volvens` on the page, as 0154 and 0204; found by check 2. |
 | 0154 | 71 | `nuove traraglia` | `travaglia` | Italic lemma; `r` for `v`. |
 | 0164 | 36 | `per que mostratur sibi civitas` | `monstratur` | Possibly the manuscript's spelling. |
 | 0167 | 5 | `persona orgoglosa` | `orgogliosa` | Possibly the manuscript's spelling (cf. `Figluol`). |
