@@ -137,7 +137,8 @@ Progress (2026-11-05):
   printed, removed). Batch 4 (0481–0640): 343 rows, 40 readings differed, 21 misread
   (one a line on 0547, not printed, removed), 2 misprints. Batch 5 (0641–0800): 219 rows,
   21 readings differed, 9 misread (8 words; three of them damaged letters restored,
-  `permictit`, `preliatus`, `Sodomis`). Next: 0801–0960, 0961–1120, 1121–1296.
+  `permictit`, `preliatus`, `Sodomis`). Batch 6 (0801–0960): 228 rows, 19 readings
+  differed, 9 misread (7 words), 1 misprint. Next: 0961–1120, 1121–1296.
   No group 2 candidate is left out by script (a Tesseract word that joins an elided word
   to the form, `Nellumiliare`, is still looked at: the same
   shape covers real differences, `inanz'a` against `inanza`).
@@ -372,6 +373,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0515 | 81–82 | `ad Lu-` / `cillum:` | `Lucilium` | Commentary (Seneca's letters); a second `l`, not an `i`; found by check 2. |
 | 0613 | 81 | `*di sparento*, idest pavefactione` | `spavento` | Italic lemma (Italian verse `spavento`); an italic `r`, unlike the italic `v` of `sapevamo` (0640); found by check 2. |
 | 0640 | 52 | `famiam, qued in uno loco` | `quod` | Commentary; the third letter has no visible bar (`qucd` or `qued`); found by check 2. |
+| 0887 | 8 | `. . . fu iunocente l'umana radice,` | `innocente` | Quoted verse; `u` for `n` (a turned letter), as 0146; found by check 2. |
 | 0904 | 11 | `de la luua` | `luna` | Gloss; `u` for `n` (a turned letter), as 0146; found by check 2. |
 | 1050 | 69 | `remisse trabere,` | `trahere` | A `b`, unlike the `h` of `trahit` on the page; found by check 2. |
 
