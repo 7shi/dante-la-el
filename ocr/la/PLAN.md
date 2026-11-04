@@ -155,6 +155,8 @@ Progress (2026-11-05):
   (`emictunt`, `sic[ut]`, `hic`, `Sancta` twice, and `Non`, damaged, its last letter unclear,
   corrected by the sense), 14 misprints, 3 printed (among them `tainquam`, a dot over the
   first stroke of an `m` or `in`).
+  Batch 5 (0641–0800): 2,342 words, 19 flagged: 1 misread (`permictebat`), 6 misprints,
+  12 printed.
   No group 2 candidate is left out by script (a Tesseract word that joins an elided word
   to the form, `Nellumiliare`, is still looked at: the same
   shape covers real differences, `inanz'a` against `inanza`).
@@ -422,6 +424,12 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0625 | 54 | `tertia pars huius cupituli` | `capituli` | Commentary; `u` for `a`; found by check 2. |
 | 0630 | 16 | `Figlinolo; poi a Michele` | `Figliuolo` | Essay; `n` for `u`; found by check 2. |
 | 0640 | 52 | `famiam, qued in uno loco` | `quod` | Commentary; the third letter has no visible bar (`qucd` or `qued`); found by check 2. |
+| 0655 | 32 | `Dolce di madre, dicer: Figlinol mio,` | `Figliuol` | Italian verse; `n` for `u`, as 0630; found by check 2. |
+| 0677 | 23 | `Perchè di giugner lui ciascum contende` | `ciascun` | Italian verse; `m` for `n`; found by check 2. |
+| 0746 | 96 | `ubi poniuntur illi qui tardaverunt` | `puniuntur` | Commentary; `o` for `u`; found by check 2. |
+| 0753 | 18 | `Dal Troso (11) fu, e purga per digiuno` | `Torso` | Italian verse; `r` and `o` transposed; found by check 2. |
+| 0762 | 5 | `ma splendito o commovente` | `splendido` | Essay; `t` for `d`; found by check 2. |
+| 0799 | 20 | `cauto; dixit ipsa` | `canto` | Commentary; `u` for `n`; found by check 2. |
 | 0887 | 8 | `. . . fu iunocente l'umana radice,` | `innocente` | Quoted verse; `u` for `n` (a turned letter), as 0146; found by check 2. |
 | 0904 | 11 | `de la luua` | `luna` | Gloss; `u` for `n` (a turned letter), as 0146; found by check 2. |
 | 1050 | 69 | `remisse trabere,` | `trahere` | A `b`, unlike the `h` of `trahit` on the page; found by check 2. |

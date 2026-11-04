@@ -1636,6 +1636,7 @@ page	line	form	decision	note
 0655	20	attentò	printed	
 0655	20	attraversano	printed	
 0655	29	immagina	printed	
+0655	32	Figlinol	misprint	for Figliuol; n for u
 0655	37	stimolato	printed	
 0655	37	vendicar	printed	
 0659	94	precipuus	printed	
@@ -1662,8 +1663,11 @@ page	line	form	decision	note
 0672	104	Impietatis	printed	
 0674	107	deficis	printed	
 0675	95	seipsas	printed	
+0677	23	ciascum	misprint	for ciascun; m for n
 0678	16	circolo	misread	corrected to circulo
+0678	51	venereas	printed	
 0679	85	differita	printed	
+0682	65	frangebat	printed	the verse has frugabat
 0686	6	accorser	printed	
 0686	13	abbi	printed	
 0686	107	scriptos	printed	
@@ -1716,18 +1720,22 @@ page	line	form	decision	note
 0717	62	eternita	printed	no accent printed
 0717	68	capisce	printed	
 0720	7	dictr	misread	corrected to dietr'
+0720	51	genabant	printed	
 0721	13	Rendè	printed	
 0721	31	perpendimus	printed	
 0721	33	convertimus	printed	
 0721	78	sepulchrali	printed	
 0722	21	religïone	printed	
 0722	94	dime	printed	
+0723	25	sorpiendo	printed	
 0723	79	causaretur	printed	
 0723	96	reclusos	printed	
 0723	105	moreat	printed	italic v or r unclear; kept
+0724	5	tento	printed	
 0724	29	iacui	printed	
 0724	103	iacuisti	printed	
 0725	105	mirteo	printed	
+0726	14	Volsen	printed	
 0726	42	paxionem	printed	
 0726	106	quan	printed	
 0727	62	intelligor	printed	
@@ -1750,6 +1758,7 @@ page	line	form	decision	note
 0736	45	Dexteros	printed	
 0736	52	poetandum	printed	
 0737	15	appressaro	printed	
+0737	27	perbere	printed	per bere, no space printed
 0739	4	prodighi	printed	
 0739	26	Evangelo	printed	
 0739	45	potra	printed	no accent printed
@@ -1757,13 +1766,17 @@ page	line	form	decision	note
 0739	65	MATT	printed	
 0741	14	voluptatem	misread	corrected to volun-/tatem
 0741	26	sufficiebant	printed	
+0741	30	palificavit	printed	
 0742	71	imponens	printed	
 0743	8	udie	printed	
 0743	58	obedivit	printed	
+0744	39	abscondi	printed	
 0745	9	Vols	printed	
 0745	31	macredinis	printed	
+0745	85	aliquantulus	printed	
 0746	22	liberò	printed	
 0746	93	moriebaris	printed	
+0746	96	poniuntur	misprint	for puniuntur; o for u
 0747	95	supervenient	printed	
 0747	102	edictum	printed	
 0748	6	farl	printed	
@@ -1772,6 +1785,7 @@ page	line	form	decision	note
 0750	72	occuparti	printed	
 0750	84	trattò	printed	
 0751	31	incedendo	printed	
+0753	18	Troso	misprint	for Torso; r and o transposed
 0753	21	mostrol	printed	
 0753	54	confractis	printed	
 0753	60	vincentium	printed	
@@ -1783,8 +1797,10 @@ page	line	form	decision	note
 0757	82	cruciabitur	printed	
 0758	20	Trapassat	printed	
 0758	25	Oltr	printed	
+0758	89	vaniat	printed	
 0758	106	Centhauris	printed	
 0760	5	albori	printed	
+0762	5	splendito	misprint	for splendido; t for d
 0764	56	oppositis	printed	
 0765	8	cicognin	printed	
 0765	10	abbandonar	printed	
@@ -1817,6 +1833,7 @@ page	line	form	decision	note
 0773	84	attivita	printed	no accent printed
 0775	26	vicesimosexti	misread	corrected to vicesimisexti
 0777	44	Indus	printed	
+0777	59	permietebat	misread	corrected to permictebat
 0777	66	exeant	printed	
 0777	87	communius	printed	
 0778	15	amusa	printed	
@@ -1852,6 +1869,7 @@ page	line	form	decision	note
 0793	35	radiavit	printed	
 0794	5	begl	printed	
 0794	86	admictere	printed	
+0794	95	contigebat	printed	
 0796	13	erte	printed	
 0796	15	herbetta	printed	
 0796	63	tractabantur	misread	corrected to tractabuntur (tracta- / buntur printed)
@@ -1859,6 +1877,7 @@ page	line	form	decision	note
 0797	37	inquieto	printed	
 0797	47	altresi	printed	no accent printed
 0797	78	sdegnino	printed	
+0799	20	cauto	misprint	for canto; u for n
 0799	44	correllarium	printed	
 0800	68	Sodom	misread	corrected to Sodomis (Sodom's was a damaged i)
 0801	45	habentia	printed	
