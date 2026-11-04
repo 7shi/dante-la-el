@@ -136,7 +136,7 @@ Adhuc nota, quod luna causat fluxum sic. Luna bis in die habet aspectum rectum e
 
 (1) dell'ago. — (2) del vestimento. — (3) o.
 
-une aciei animarum, que veniebant prope aggerem, et quelibet nos respiciebat, sicut consuevit de sero respicere unus alium sub nova luna; et ita versus nos acuebant supercilia, sicut antiquus sartor facit in cruna, in foramen acus. Omnes intuebantur auctorem, mirantes quomodo esset vivus, et quomodo transibat sine pena: ista duo erant causa admirationis, scilicet vita auctoris et immunitas a pena. Illi ibant valde velociter; Virgilius et auctor ibant lente.
+une aciei animarum, que veniebant prope aggerem, et quelibet nos respiciebat, sicut consuevit de sero respicere unus alium sub nova luna; et ita versus nos acuibant supercilia, sicut antiquus sartor facit in cruna, in foramen acus. Omnes intuebantur auctorem, mirantes quomodo esset vivus, et quomodo transibat sine pena: ista duo erant causa admirationis, scilicet vita auctoris et immunitas a pena. Illi ibant valde velociter; Virgilius et auctor ibant lente.
 
 Facit comparationem de luna nova. Quando luna est coniuncta soli, non lucet nisi modicum; ideo tunc ambulantes de nocte, vix se cognoscunt, et vadunt homines suspecti. De sutoribus, qui aliquando claudunt unum oculum ad melius videndum: dicit Aristotiles in primo Problematum: Ut virtus unita magis et melius operatur; sic facit balistarius, claudit unum oculum, ut videat acutius cum alio. Vocat auctor istos, gregem euntem de nocte. De nocte communiter vadunt peccantes in hoc vitio.
 
