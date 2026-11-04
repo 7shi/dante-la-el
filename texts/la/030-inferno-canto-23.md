@@ -558,7 +558,7 @@ Due speciali pene, notevolissime, pone l'Alighieri nel suo Inferno, quella di Gi
 
 In questo il Poeta, più forse che in tutti gli altri suoi mirabilissimi concepimenti, fu l'interprete vero della coscienza del genere umano, che in lui si rivelò; e seppe trovare tali immagini ad esprimere quella punizione, che, lettala, non ti riesce più dimenticarla. Fu perversità così abbominevole quella dei sopraddetti scellerati, che avrà la riprovazione di tutto l'uman genere, finchè ombra d'incivilimento cristiano resti sopra la terra. Ed essi stessi, que'ribaldi, la sentirono tanto vivamente, che fu lor bisogno di nasconderla a sè medesimi e ad altrui, cercando un pretesto qualsifosse ad effettuare i loro perversi disegni, coprendoli d'ipocrisia. Ma da ultimo, per legge di Provvidenza, il delitto resta nudo, e allora diventa insopportabile.
 
-Difatti, quando Giuda, cessata la foga della passione che lo dominava, si vide dinanzi il tradimento commesso, più non resse a mirar sè medesimo, e disperato s'appiccava. Ma lasciamo Giuda, di cui ci accaderà parlare dove dalla giustizia divina è continato, e fermiamoci a Caifasso, che qui il Poeta ricorda. Giace egli, secondo che dall'Alighieri è ritratto, crocifisso in terra con tre pali, ed
+Difatti, quando Giuda, cessata la foga della passione che lo dominava, si vide dinanzi il tradimento commesso, più non resse a mirar sè medesimo, e disperato s'appiccava. Ma lasciamo Giuda, di cui ci accaderà parlare dove dalla giustizia divina è confinato, e fermiamoci a Caifasso, che qui il Poeta ricorda. Giace egli, secondo che dall'Alighieri è ritratto, crocifisso in terra con tre pali, ed
 
 . . . . è mestier che senta\
 Qualunque passa come pesa pria,

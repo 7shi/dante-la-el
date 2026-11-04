@@ -34,7 +34,7 @@ Ma nè di Tebe furie; Sed nunquam Thebenarum furie, auctor tractat de pena illor
 
 In tertia, que incipit ibi:
 
-Io vidi uno a guisa di linto:
+Io vidi uno a guisa di liuto:
 
 Ego vidi unum factum, ponitur pena illorum, qui falsaverunt monetam.
 

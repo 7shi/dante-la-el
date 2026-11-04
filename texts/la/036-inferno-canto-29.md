@@ -320,7 +320,7 @@ Modo ponit comparationem fetoris. Nota, secundum Ovidium in octavo Metamorphoseo
 &emsp;Qui sunt hic intro, si unguis tibi duret\
 &emsp;Eternaliter ad istud opus.
 
-(1) andava. — (2) noi. — (3) testo — (4) guardato — (5) suo — (6) et affectasi di striglare — (7) se non di gratarsi — (8) pesce — (9) che la scardova — (10) tue — (11) a dire — (12) dita tue — (13) glorioso di grattarti.
+(1) andava. — (2) noi. — (3) testo — (4) guardato — (5) suo — (6) et affrectasi di striglare — (7) se non di gratarsi — (8) pesce — (9) che la scardova — (10) tue — (11) a dire — (12) dita tue — (13) glorioso di grattarti.
 
 videndum per illam obscuram vallem languere spiritus per diversas bichas, idest acies et cumulos, sive per diversos montes accumulatos. *Bicha* proprie apud Tuscos est quidam cumulus frumenti, qui fit in campo quando frumentum est messum. Talis cumulus Arrimini vocatur *meda*, in Massa Trabaria vocatur *barcha*.
 
