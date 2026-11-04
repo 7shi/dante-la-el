@@ -100,7 +100,7 @@ Benigna voluntas, in qua liquescit, idest clare liquet, seu apparet, semper amor
 &emsp;Si fidem meretur nostra musa maior,\
 &emsp;Quando in Elysio de filio perpendit.
 
-Modo dicit auctor admirative, quod quasi arguit a maiori, dicens: Quomodo erunt iustis precibus surde, quomodo non exaudient iustas preces, ille substantie, que ut darent michi *coglia*, idest voluntatem, vel appetitum, quod ego ipsas rogarem, ad tacendum fuerunt concordes, idest unanimes?
+Modo dicit auctor admirative, quod quasi arguit a maiori, dicens: Quomodo erunt iustis precibus surde, quomodo non exaudient iustas preces, ille substantie, que ut darent michi *voglia*, idest voluntatem, vel appetitum, quod ego ipsas rogarem, ad tacendum fuerunt concordes, idest unanimes?
 
 Bene est, scilicet dignum et iustum, quod sine termino doleat, idest patiatur, scilicet ille, qui propter amorem rei que non durat eternaliter, illum amorem bonum, scilicet divinum, se expoliet, idest privetur. Sed quomodo potest quis mereri perpetuam penam, cum nemo possit perpetuo peccare? Dicendum quod ille, qui moritur in peccato finalis impenitentiae, quantum est in se, eternaliter peccat, quia si plus viveret, plus peccaret; ideo, ex quo quantum est in se peccat, eternaliter meretur puniri.
 

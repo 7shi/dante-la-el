@@ -400,7 +400,7 @@ Fulchum me dixit, idest vocavit, illa gens, cui fuerat notum nomen meum, et istu
 
 Nec illa Rodopeya, idest Phylis, sive Phylade, regina Tracie, dicta Rodopeya a monte Rodope, que delusa, idest decepta, fuit a Denophonte, scilicet filio Thesei, ducis Athenarum: nec Alchides, idest Hercules, Altey filius, quando Iolem (secunda mulier fuit quam intense amavit ipse Hercules) in corde habuit reclusam, non plus arserunt in amore.
 
-Non propter hoc hic aliquem penitet (idest, non oportet penitere, in celo, propterea [quod] iam biberant de Lethe, et non recordantur peccatorum commissorum ab ipsis, et ideo neminem eorum penitet hic), sed hic est risus, non culpe, que ad mentem non revertitur, sed valoris qui ordinat [et] providet; idest, influentie Veneris, in aliis actibus, quia Venus facit homines placidos, benignos, liberales. Iste planeta est necessarius propter conservationem specierum per actos venereos.
+Non propter hoc hic aliquem penitet (idest, non oportet penitere, in celo, propterea [quod] iam biberunt de Lethe, et non recordantur peccatorum commissorum ab ipsis, et ideo neminem eorum penitet hic), sed hic est risus, non culpe, que ad mentem non revertitur, sed valoris qui ordinat [et] providet; idest, influentie Veneris, in aliis actibus, quia Venus facit homines placidos, benignos, liberales. Iste planeta est necessarius propter conservationem specierum per actos venereos.
 
 Hic respicitur in artem, que est ornata cum tanto effectu, idest influentia Veneris, et discernitur bonum, quia, scilicet per influentiam planetarum, mundus inferior ad illum superiorem reducitur, quia fit mundus inferior superiori conformis, per conservationem et perpetuationem.
 
