@@ -134,7 +134,9 @@ Progress (2026-11-05):
   `ocr/la` is decided in the image, the rest taken as printed. Batch 2 (0161–0320): 432
   rows, 23 readings differed, 2 misread. Batch 3 (0321–0480): 278 rows, 27 readings
   differed, 13 misread (one of them two lines of a Latin footnote list on 0433, not
-  printed, removed). Next: 0481–0640, 0641–0800, 0801–0960, 0961–1120, 1121–1296.
+  printed, removed). Batch 4 (0481–0640): 343 rows, 40 readings differed, 21 misread
+  (one a line on 0547, not printed, removed), 2 misprints. Next: 0641–0800, 0801–0960,
+  0961–1120, 1121–1296.
   No group 2 candidate is left out by script (a Tesseract word that joins an elided word
   to the form, `Nellumiliare`, is still looked at: the same
   shape covers real differences, `inanz'a` against `inanza`).
@@ -366,6 +368,9 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0216 | 30 | `arere, idest in bonis aliorum` | `avere` | Italic lemma; its second letter is the italic `r` of its fourth, as 0154 and 0204; found by check 2. |
 | 0258 | 19 | `Già era in loco, dore:` | `dove` | Italic lemma; the italic `r` of `era` beside it, as 0154 and 0204; found by check 2. |
 | 0274 | 108 | `cum cauda, veluit Virgilius` | `voluit` | Found by check 2. |
+| 0515 | 81–82 | `ad Lu-` / `cillum:` | `Lucilium` | Commentary (Seneca's letters); a second `l`, not an `i`; found by check 2. |
+| 0613 | 81 | `*di sparento*, idest pavefactione` | `spavento` | Italic lemma (Italian verse `spavento`); an italic `r`, unlike the italic `v` of `sapevamo` (0640); found by check 2. |
+| 0640 | 52 | `famiam, qued in uno loco` | `quod` | Commentary; the third letter has no visible bar (`qucd` or `qued`); found by check 2. |
 | 0904 | 11 | `de la luua` | `luna` | Gloss; `u` for `n` (a turned letter), as 0146; found by check 2. |
 | 1050 | 69 | `remisse trabere,` | `trahere` | A `b`, unlike the `h` of `trahit` on the page; found by check 2. |
 
