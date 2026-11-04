@@ -92,7 +92,7 @@ Notandum est quod ipse due gentes sic euntes, una contra aliam, fuerunt peccator
 
 (1) fra loro — (2) in luogo — (3) purgati nel fuoco — (4) per esser — (5) reti.
 
-Ecce qualis hora erat tunc. Feriebat me sol super humerum dextrum, qui iam, radiando, totum occidentem mutabat in album aspectum cilestrum, idest azurinum: et ego faciebam cum umbra magis dolentem, alias roventem, rubeam, appareri, idest videri, flammam; et tamen ad tantum inditium vidi multas umbras, eundo, ponere mentem, idest respicere me, quia videbant, propter umbram, quam faciebat corpus auctoris, quod flamma habebat diversum colorem a solito, quia umbra non permietebat radios solis penetrari in flammam. Et illa umbra indicabat me esse vivum.
+Ecce qualis hora erat tunc. Feriebat me sol super humerum dextrum, qui iam, radiando, totum occidentem mutabat in album aspectum cilestrum, idest azurinum: et ego faciebam cum umbra magis dolentem, alias roventem, rubeam, appareri, idest videri, flammam; et tamen ad tantum inditium vidi multas umbras, eundo, ponere mentem, idest respicere me, quia videbant, propter umbram, quam faciebat corpus auctoris, quod flamma habebat diversum colorem a solito, quia umbra non permictebat radios solis penetrari in flammam. Et illa umbra indicabat me esse vivum.
 
 Ista fuit causa, que dedit initium eis ad loquendum de me, et inceperunt dicere: Ille non apparet, idest videtur, corpus fictitium; imo habet corpus verum. Iste gentes, licet venirent quasi [ad] extremitatem ignis, tamen non exibant de igne, quia talis lex est eis, quod non exeant de igne quousque sint bene purgate.
 
