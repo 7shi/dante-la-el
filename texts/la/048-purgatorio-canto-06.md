@@ -500,7 +500,7 @@ Nunc, ammodo, ponitur causa exclamationis, iuste facte, cum dicitur quod civitat
 
 *Florencia mea*. *Fiorencia mea*: hec est quarta pars huius capituli, in qua auctor invehit contra propriam civitatem. Florencia mea (vocativi casus), bene potes esse contenta (yronice loquitur) de tali disgressione, que non te tangit (hec disgressio est, quia auctor disgrediens a proposito tractandi de quarta specie negligentium penitentiam usque ad mortem, stetit ad invehendum contra Ytaliam, etc.), gracia, idest ob provisionem, populi tui, qui se argumentat, idest qui sibi providet.
 
-Multi habent iustitiam in corde et tarde schocchant (idest exit tarde), illam emietunt, propter non venire sine consilio ad arcum; sed populus tuus illam habet in summo oris. Vult dicere auctor, quod multi sunt prompti ad capiendum beneficia et dignitates in Republica; multi sunt, qui vellent quod Respublica bene et iuste regeretur: sed timent loqui, ne dicant et offendant aliquos. *In summitate oris*: iustitia scilicet.
+Multi habent iustitiam in corde et tarde schocchant (idest exit tarde), illam emictunt, propter non venire sine consilio ad arcum; sed populus tuus illam habet in summo oris. Vult dicere auctor, quod multi sunt prompti ad capiendum beneficia et dignitates in Republica; multi sunt, qui vellent quod Respublica bene et iuste regeretur: sed timent loqui, ne dicant et offendant aliquos. *In summitate oris*: iustitia scilicet.
 
 Per oppositum aliqui etiam sunt reperti, qui quando offerebantur beneficia et dignitates, nolebant recipere; sed hodie hoc non est. Multi refutant, idest renuunt, commune encarcum, idest onus; sed populus tuus sollicitus respondet, scilicet sollicite: Ego me subarco, idest submicto, vel inclino me ad sustinendum commune onus.
 
