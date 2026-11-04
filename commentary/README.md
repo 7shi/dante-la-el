@@ -29,7 +29,7 @@ make fix-quotes
 ## scripts/generate.py
 
 ```bash
-uv run scripts/generate.py <canticle> -m MODEL -l CODE -L NAME -d DIR [-c SPEC] [-r ROUNDS] [--no-think] [--save-usage]
+uv run scripts/generate.py <canticle> -m MODEL -l CODE -d DIR [-c SPEC] [-r ROUNDS] [--no-think] [--save-usage]
 ```
 
 argument | description | default
@@ -37,7 +37,6 @@ argument | description | default
 `canticle` | `inferno`, `purgatorio`, or `paradiso` | required
 `-m`, `--model` | model name with an optional vendor prefix | required
 `-l`, `--lang-code` | language code of the target language; selects its entry in `LANGUAGES` | required
-`-L`, `--lang-name` | name of the target language, written into the prompts (e.g. `Modern Greek`) | required
 `-d`, `--dir` | output directory | required
 `-c`, `--canto` | cantos to process (SPEC syntax) | all
 `-r`, `--rounds` | max passes to fill untranslated lines | `5`
@@ -53,6 +52,7 @@ Each canto is processed in two steps:
 
 Both prompts are written in English, with the language name filled in. Each language code has an entry in `LANGUAGES` in the script:
 
+- `name`: the name of the language, written into the prompts (`Modern Greek` for `el`)
 - `letters`: a regular expression for the letters of the language, used to reject copied Italian
 - `closing`: the word that opens the heading of the closing section (`Επίλογος` for `el`)
 - `note`: an extra instruction added to both prompts (for `el`, to use the monotonic orthography)
@@ -109,7 +109,7 @@ che t'è giovato di me fare schermo?
 ## scripts/check_lines.py
 
 ```bash
-uv run scripts/check_lines.py [canticle ...] -m MODEL -l CODE -L NAME -d DIR -o OUT [-c SPEC] [--no-think] [--save-usage]
+uv run scripts/check_lines.py [canticle ...] -m MODEL -l CODE -d DIR -o OUT [-c SPEC] [--no-think] [--save-usage]
 uv run scripts/check_lines.py [canticle ...] -r -d DIR -o OUT [-c SPEC] [-k KIND ...]
 uv run scripts/check_lines.py [canticle ...] -a -k KIND [-k KIND ...] -l CODE -d DIR -o OUT [-c SPEC]
 ```
@@ -120,7 +120,6 @@ argument | description | default
 `-c`, `--canto` | cantos to check (SPEC syntax) | all
 `-m`, `--model` | model name with an optional vendor prefix | required to ask the model
 `-l`, `--lang-code` | language code of the target language | required to ask the model or to apply
-`-L`, `--lang-name` | name of the target language, written into the prompt | required to ask the model
 `-d`, `--dir` | directory holding `<canticle>/<NN>.txt` | required
 `-o`, `--out` | directory for the saved answers, `<out>/<canticle>/<NN>.json` | required
 `-r`, `--report` | only report the saved answers, without calling the model | -

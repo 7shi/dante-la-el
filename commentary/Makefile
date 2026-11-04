@@ -1,7 +1,6 @@
 MODEL = gpt-6-astra
 CHECK_MODEL = $(MODEL)
 LANG_CODE = el
-LANG_NAME = Modern Greek
 DIR = $(LANG_CODE)
 CHECK_DIR = check/$(LANG_CODE)
 
@@ -16,7 +15,7 @@ help:
 	@echo "       make apply-lines KIND=\"<kind> ...\" [CANTICLE=<canticle>] [CANTO=<spec>]"
 	@echo ""
 	@echo "  generate   Write $(DIR)/<canticle>/NN.md (commentary) and NN.txt (translation)"
-	@echo "             in $(LANG_NAME) with $(MODEL); CANTO takes the SPEC syntax"
+	@echo "             in $(LANG_CODE) with $(MODEL); CANTO takes the SPEC syntax"
 	@echo "             (e.g. 1, 1-3, 12-), all cantos if omitted"
 	@echo "  fix-quotes Rebuild the quote blocks of every $(DIR)/*/NN.md from dante-corpus and NN.txt"
 	@echo "  check-quotes Check that the quote marks of every $(DIR)/*/NN.txt follow the original"
@@ -29,7 +28,7 @@ generate:
 ifndef CANTICLE
 	$(error CANTICLE is required: inferno, purgatorio, or paradiso)
 endif
-	uv run scripts/generate.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -m $(MODEL) -l $(LANG_CODE) -L "$(LANG_NAME)" -d $(DIR)
+	uv run scripts/generate.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -m $(MODEL) -l $(LANG_CODE) -d $(DIR)
 
 fix-quotes:
 	uv run scripts/fix_quote_blocks.py -d $(DIR)
@@ -38,7 +37,7 @@ check-quotes:
 	uv run scripts/check_quotes.py -d $(DIR)
 
 check-lines:
-	uv run scripts/check_lines.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -m $(CHECK_MODEL) -l $(LANG_CODE) -L "$(LANG_NAME)" -d $(DIR) -o $(CHECK_DIR)
+	uv run scripts/check_lines.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -m $(CHECK_MODEL) -l $(LANG_CODE) -d $(DIR) -o $(CHECK_DIR)
 
 report-lines:
 	uv run scripts/check_lines.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -r $(foreach k,$(KIND),-k $(k)) -d $(DIR) -o $(CHECK_DIR)

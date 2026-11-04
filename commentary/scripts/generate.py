@@ -23,12 +23,14 @@ CANTICLE_NAMES = {
 }
 
 # Per target language (keyed by language code):
+# - name: the name of the language, as written into the prompts
 # - letters: a translation must contain at least one of these, or it is
 #   taken as a copy of the Italian
 # - closing: the word that opens the heading of the closing section
 # - note: an extra instruction appended to both prompts
 LANGUAGES = {
     "el": {
+        "name": "Modern Greek",
         "letters": r"[\u0370-\u03ff\u1f00-\u1fff]",
         "closing": "Επίλογος",
         "note": "Use the monotonic orthography.",
@@ -156,7 +158,7 @@ def generate(client: Client, canticle: str, canto: int, args: argparse.Namespace
     note = f" {language['note']}" if language.get("note") else ""
     names = dict(
         canticle=CANTICLE_NAMES[canticle], number=canto,
-        lang=args.lang_name, note=note,
+        lang=language["name"], note=note,
     )
 
     out_dir = args.dir / canticle
@@ -233,11 +235,6 @@ def main():
         required=True,
         choices=list(LANGUAGES),
         help="Language code of the target language (e.g. el)",
-    )
-    parser.add_argument(
-        "-L", "--lang-name",
-        required=True,
-        help="Name of the target language, as written into the prompts (e.g. 'Modern Greek')",
     )
     parser.add_argument(
         "-r", "--rounds",

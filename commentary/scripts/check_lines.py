@@ -125,7 +125,7 @@ def check(client: Client, canticle: str, canto: int, args: argparse.Namespace):
     language = LANGUAGES[args.lang_code]
     note = f" {language['note']}" if language.get("note") else ""
     prompt = PROMPT.format(
-        canticle=CANTICLE_NAMES[canticle], number=canto, lang=args.lang_name, note=note
+        canticle=CANTICLE_NAMES[canticle], number=canto, lang=language["name"], note=note
     )
     print(f"\n=== {canticle} {canto} ===")
     response = client([paired_text(lines, translations), prompt], Result)
@@ -228,9 +228,6 @@ def main():
     parser.add_argument("-l", "--lang-code", choices=list(LANGUAGES),
                         help="Language code of the target language (e.g. el); "
                              "required to ask the model or to apply")
-    parser.add_argument("-L", "--lang-name",
-                        help="Name of the target language, as written into the prompt "
-                             "(e.g. 'Modern Greek'); required to ask the model")
     parser.add_argument("-d", "--dir", type=Path, required=True,
                         help="Directory holding <canticle>/<NN>.txt (e.g. el)")
     parser.add_argument("-o", "--out", type=Path, required=True,
@@ -255,8 +252,8 @@ def main():
         parser.error("--report and --apply cannot be combined")
     if args.apply and not (args.lang_code and args.kind):
         parser.error("--apply requires -l/--lang-code and -k/--kind")
-    if not args.report and not args.apply and not (args.model and args.lang_code and args.lang_name):
-        parser.error("-m/--model, -l/--lang-code, and -L/--lang-name are required "
+    if not args.report and not args.apply and not (args.model and args.lang_code):
+        parser.error("-m/--model and -l/--lang-code are required "
                      "unless --report or --apply")
 
     cantos = [(canticle, canto) for canticle in canticles
