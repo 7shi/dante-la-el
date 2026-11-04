@@ -130,9 +130,11 @@ Progress (2026-11-05):
   done, 311 rows, 5 misread, 1 misprint (0153 `rim`, found when la-el-agy's readings of
   the same crops were compared). From batch 2 the crops are read by la-el-agy, blind: it
   gets each crop and the line with the word replaced by `____` (not the `ocr/la` form) and
-  writes the word as printed; every reading that differs from `ocr/la` is decided in the
-  image, the rest taken as printed. Batch 2 (0161–0320): 432 rows, 23 readings differed,
-  2 misread. Next: 0321–0480, 0481–0640, 0641–0800, 0801–0960, 0961–1120, 1121–1296.
+  writes the word as printed (`ocr/la_lexcrop.py`); every reading that differs from
+  `ocr/la` is decided in the image, the rest taken as printed. Batch 2 (0161–0320): 432
+  rows, 23 readings differed, 2 misread. Batch 3 (0321–0480): 278 rows, 27 readings
+  differed, 13 misread (one of them two lines of a Latin footnote list on 0433, not
+  printed, removed). Next: 0481–0640, 0641–0800, 0801–0960, 0961–1120, 1121–1296.
   No group 2 candidate is left out by script (a Tesseract word that joins an elided word
   to the form, `Nellumiliare`, is still looked at: the same
   shape covers real differences, `inanz'a` against `inanza`).
