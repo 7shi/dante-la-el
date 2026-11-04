@@ -469,7 +469,11 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 - `ocr/la_italicmark.py SLANT -d OUTDIR [-o FLAGS] [--pages SPEC] [--join]`: the marks set
   from `la_italic.py -v`, and the lines to look at in the image (DONE.md, "Italics",
   step 3).
-- `ocr/la_lexcheck.py`: to be written ("Checks").
+- `ocr/la_lexcheck.py FIRST LAST [-o OUT] [-g G]`: check 2 ("Checks"): rare forms near
+  common ones, in three groups by Tesseract's word.
+- `ocr/la_lexcrop.py LIST FIRST LAST [-g G] (--crops DIR [--labels] | --readings READ
+  [-o OUT])`: check 2, group 2: the crops of the candidates' words with the masked lines
+  (`context.tsv`) for a blind reader, and the comparison of the reader's TSV with the forms.
 
 The working data of the completed work in `tmp/` (`la-markup/`, `la-mark7/`, the paid
 answers; DONE.md) are read by no step any more. Everything in `tmp/` but `tmp/bak/` is
