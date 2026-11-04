@@ -194,7 +194,7 @@ Modo auctor tangit unum dubium, quod posset fieri; scilicet quomodo unum corpus 
 
 Ego eram corpus, idest si, hic non concipitur, idest non intelligitur, sicut, idest quomodo, una dimensio aliam penetrat, quod esse convenit, idest oportet, si corpus in corpus recipit[ur], idest si unum corpus in aliud vadit (hoc scire bonum est appetere); sed reaccendere nos deberet magis desiderium videndi illam essentiam, in qua videtur qualiter nostra natura et Deus se unierunt. Idest, velles tu videre res divinas per rationes naturales: delecteris [scire] non divina per rationem naturalem, sed appetas pervenire, ut videas quomodo due res, ita diverse et distincte, sunt invicem unite sine alteratione alicuius earum.
 
-Ibi videbitur quidquid, scilicet hic, tenemus per fidem, non demonstratum, sed erit per se notum, *a guisa*, idest ad similitudinem, veri primi, quod homo credit.
+Ibi videbitur quidquid, scilicet hic, tenemus per fidem, non demostratum, sed erit per se notum, *a guisa*, idest ad similitudinem, veri primi, quod homo credit.
 
 Modo de mandato Beatricis regratiatur Deo, etc., dicens: Ego respondi: O domina, iam devotus quantum esse possum plus, regratior illi, qui de mortali mundo me removit.
 

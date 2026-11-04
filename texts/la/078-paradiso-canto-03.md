@@ -422,7 +422,7 @@ dominam, scilicet Sanctam Claram, magis supra, idest in celo superiori, michi, s
 
 A mundo, propter sequi, idest imitari, illam, scilicet Sanctam Claram, iuvencula fugi, et in suo habitu me clausi, et promisi viam sue secte, idest professionem feci in suo Ordine.
 
-Homines postmodum, plus ad malum quam ad bonum usitati, duo scilicet, idest germani, domini Cursius et Florensis de Donatis de Florentia, me rapuerunt, idest extra monasterium vi traxerunt, de dulci claustro; et Deus scit qualis mea vita postea fuit, quia nec paupertatem nec obedientiam servavi, etsi castitatem, ut predictum est.
+Homines postmodum, plus ad malum quam ad bonum usitati, duo scilicet, idest germani, domini Cursius et Forensis de Donatis de Florentia, me rapuerunt, idest extra monasterium vi traxerunt, de dulci claustro; et Deus scit qualis mea vita postea fuit, quia nec paupertatem nec obedientiam servavi, etsi castitatem, ut predictum est.
 
 Et iste alius splendor, qui tibi se monstrat a mea dextra parte, et qui accenditur de toto lumine spere nostre, scilicet lunaris, quidquid dico de me, de se, scilicet ipso, intellige. Soror, scilicet monialis, fuit, et sic ei fuit abrepta de capite umbra, idest velum nigrum, sacrarum bendarum, idest sacrorum velorum. Quelibet moniales cooperiunt caput suum.
 
