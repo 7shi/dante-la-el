@@ -504,7 +504,7 @@ Iam ponit auctor tertiam Ierarchiam, scilicet ypophaniam, dicens: Postmodum in d
 &emsp;Quia qui vidit hic superius illud sibi discooperuit,\
 &emsp;Cum alio multo vero istorum gyrorum.
 
-(1) Dionisio — (2) essendo ancora — (3) cioè Paolo suo maestro.
+(1) Dyonisio — (2) essendo ancora — (3) cioè Paolo suo maestro.
 
 postmodum influunt in nobis mortalibus. Angeli omnes omnium ordinum respiciunt sursum, idest accipiunt de sursum, et inferius vincunt, idest communicant, dant, tribuunt, ita, quod versus Deum omnes trahuntur, et inferius se vincunt ita, quod versus Deum omnes tracti sunt et omnes trahunt.
 
