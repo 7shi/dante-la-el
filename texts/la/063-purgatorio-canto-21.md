@@ -17,7 +17,7 @@ In isto vicesimoprimo capitulo, quod incipit: *Sitis naturalis, que nunquam*, et
 &emsp;Samaritana petiit gratiam,
 
 2 Mi travaglava, e pungèmi la frecta\
-&emsp;Per la 'mpacciata via dictr'al mio duca,\
+&emsp;Per la 'mpacciata via dietr'al mio duca,\
 &emsp;E conduceami a la giusta vendecta.
 
 2 Me movebat, et pungebat me festinantia\
