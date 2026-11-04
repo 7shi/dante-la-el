@@ -290,7 +290,7 @@ Antiquus sanguis et opera nobilia meorum maiorum, me fecerunt ita arrogantem, id
 
 Ego sum Ubertus; et non solum michi dampnum superbia facit, quia omnes consortes, idest consanguineos, traxit ipsa secum in malum annum, idest ex mea causa et superbia; unde convenit, idest oportet, quod istud pondus portem propter eam, scilicet superbiam, tantum quod Deo satisfaciam, postquam ego id non feci inter vivos, hic inter mortuos.
 
-*Auscultando inclinavi*. *Auscultando inclinai*: hec est tertia pars huius capituli, in qua ponitur alius spiritus qui fuit valde superbus, non ex nobilitate, sed ex excellentia sue artis. Iste fuit de civitate Eugubii, que est in Tuscia. Vocabatur Oderisius miniator: sciebat excellenter miniare et florere in libris, et ita erat vanagloriosus et superbus in ista arte miniature, quod vix quis poterat eum supportare, idest laudabat se in ista arte, omnes alios de sua arte vituperabat. Ista ars miniandi vocatur Parisius alluminare, vel allumare. Hic spiritus portabat etiam pondus suum, et ibat mirabiliter versus terram inclinatus. Hic vidit Dantem et cognovit eum, et e converso.
+*Auscultando inclinavi*. *Auscultando inchinai*: hec est tertia pars huius capituli, in qua ponitur alius spiritus qui fuit valde superbus, non ex nobilitate, sed ex excellentia sue artis. Iste fuit de civitate Eugubii, que est in Tuscia. Vocabatur Oderisius miniator: sciebat excellenter miniare et florere in libris, et ita erat vanagloriosus et superbus in ista arte miniature, quod vix quis poterat eum supportare, idest laudabat se in ista arte, omnes alios de sua arte vituperabat. Ista ars miniandi vocatur Parisius alluminare, vel allumare. Hic spiritus portabat etiam pondus suum, et ibat mirabiliter versus terram inclinatus. Hic vidit Dantem et cognovit eum, et e converso.
 
 Auscultando inclinavi infra faciem: et unus de ipsis, non iste qui loquebatur, se torsit sub pondere, quod eos impedijt, nec permictit, subaudi eos, libere ambulare; et vidit me et cognovit me et vocabat, scilicet me, tenendo oculos cum labore fixos, idest firmos, ad me, qui totus inclinatus cum ipso ibam.
 
@@ -360,7 +360,7 @@ O vanagloria humanarum potentiarum, qualiter paucum viriditatis in summitate dur
 
 Credidit Cymabò (nomen proprium) in pictura tenere campum, idest omnes excedere, et nunc habet Gioctus gridum, idest clamorem, quia ipse omnes excedit, ita quod fama illius est obscura.
 
-Notandum quod tempore auctoris erat unus pictor, magister in arte pingendi, qui vocabatur Cymabò, qui suo tempore habebat supremam famam in illa arte. Demum subito cępit florere in eadem arte alter, vocatus Gioctus; et erant isti ambo de civitate Florentie; et fama istius Giocti in brevi sic et tantum crevit, quod fama illius Cymabò defecit et facta fuit obscura. Ecce quomodo fama, idest vanagloria, artis Cymabò modicum duravit.
+Notandum quod tempore auctoris erat unus pictor, magister in arte pingendi, qui vocabatur Cymabò, qui suo tempore habebat supremam famam in illa arte. Demum subito cepit florere in eadem arte alter, vocatus Gioctus; et erant isti ambo de civitate Florentie; et fama istius Giocti in brevi sic et tantum crevit, quod fama illius Cymabò defecit et facta fuit obscura. Ecce quomodo fama, idest vanagloria, artis Cymabò modicum duravit.
 
 <!-- p. 550 (0604) -->
 

@@ -26,7 +26,7 @@ In isto quinto capitulo, quod incipit: *Iam ego ab illis umbris recesseram*, auc
 
 (1) al. drizzando — (2) vedi.
 
-*Ego iam ab illis umbris recesseram*. *Io era già da quelle ombre partito*: istud est quintum capitulum huius Purgatorii, in quo auctor tractat de quarta specie negligentie et pigritie illorum, qui neglexerunt et tardaverunt penitentiam usque ad mortem, occupati in armis, et qui fuerunt preuenti morte; quos tamen in morte penituit omnium suorum peccatorum. Et dividitur in quatuor partes. In quarum prima iterum auctor tangit aliquid de conditione ipsarum predictarum, continuando dicta dicendis. In secunda parte, que incipit ibi:
+*Ego iam ab illis umbris recesseram*. *Io era già da quelle ombre partito*: istud est quintum capitulum huius Purgatorii, in quo auctor tractat de quarta specie negligentie et pigritie illorum, qui neglexerunt et tardaverunt penitentiam usque ad mortem, occupati in armis, et qui fuerunt preventi morte; quos tamen in morte penituit omnium suorum peccatorum. Et dividitur in quatuor partes. In quarum prima iterum auctor tangit aliquid de conditione ipsarum predictarum, continuando dicta dicendis. In secunda parte, que incipit ibi:
 
 Et interim per montem ex transverso; Et intanto per la costa de traverso,
 

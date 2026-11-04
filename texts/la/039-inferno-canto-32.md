@@ -240,7 +240,7 @@ Quelibet infra tenebat volutam faciem, idest versam: ab ore frigus, et ab oculis
 
 auctor caute. Si dixisset: Dicite, vos proditores; forte non respondisscnt: sed nec vult eos laudare; sed loquitur verba que possent habere utrumque sensum et sonare in bonum et in malum, sicut aliquando aliqui stringunt se invicem propter amorem, aliquando propter odium, ut occidat unus reliquum.
 
-Postquam ego aliquantulum circum videram, volvi me, idest respexi, ad pedes, et vidi duos ita strictos, quod pillum capitis habebant simul mixtum, idest mixtos capillos capitis.
+Postquam ego aliquantulum circum videram, volvi me, idest respexi, ad pedes, et vidi duos ita strictos, quod pilum capitis habebant simul mixtum, idest mixtos capillos capitis.
 
 Dicite michi, vos, qui sic stringitis pectora, dixi ego, qui estis? Et illi plicarunt colla; et postquam habuerunt ad me visus erectos, oculi eorum, qui erant intus prius molles, idest balneati, guctaverunt, idest emiserunt guctas super labia, et gelu strinxit lacrymas intra ipsis, et eos reclusit. Isti dolent et plangunt, et quando lacryme veniunt ad oculos, non inveniunt fenestras ad exitum, quia palpebra cum palpebra erat coniuncta. Sed nunc per vim lacrymarum abundantium et supervenientium factus est fluxus, quando aliquis istorum movetur: sed statim redit ad maius malum.
 

@@ -58,7 +58,7 @@ idest, postquam recuperavi mentem, idest, postquam reasumpsi speculationem menta
 
 *Que erat clausa*: idest, conturbata propter compaxionem habitam de illis duobus cognatis.
 
-*Quod de tristitia totum me confudit*: idest, obscuravit, conturbavit.
+*Quod de tristitia totum me confusit*: idest, obscuravit, conturbavit.
 
 *Nova tormenta et novos tormentatos*: idest, extranea et diversa a primis, idest superioribus. Quia superiores erant in continuo motu transportati a vento: isti hic sunt prostrati in terra, nec moventur; ideo pena est dissonans et diversa.
 

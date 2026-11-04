@@ -514,7 +514,7 @@ rem esse in capite suo, et non scitur ab eis; propter quod manus ad accertandum 
 
 # L'umiltà principio d'ogni grandezza
 
-Agli esempi di umiltà posti in alto, e alle considerazioni morali sopra la purgazione della superbia, le quali ne sono principio e compimento, seguono, prostesi al suolo e calpestati, quelli della superbia punita; poiché dalla virtu ammirata nasce in noi il desiderio di possederla con l'abborrimento del vizio suo contrario; desiderio che fortificandoci nel bene, e sciogliendoci dalla servitu del peccato, ci rende veramente liberi e potenti ad operar grandi cose.
+Agli esempi di umiltà posti in alto, e alle considerazioni morali sopra la purgazione della superbia, le quali ne sono principio e compimento, seguono, prostesi al suolo e calpestati, quelli della superbia punita; poichè dalla virtu ammirata nasce in noi il desiderio di possederla con l'abborrimento del vizio suo contrario; desiderio che fortificandoci nel bene, e sciogliendoci dalla servitu del peccato, ci rende veramente liberi e potenti ad operar grandi cose.
 
 Il Poeta
 

@@ -214,7 +214,7 @@ Istud vult, idest multi volunt hoc, et istud iam queritur, et cito veniet factum
 
 19 Tu lasserai ogni cosa diletta\
 &emsp;Più caramente; e questo è quel[lo] strale,\
-&emsp;Che l'arco dell'esilio pria sactta.
+&emsp;Che l'arco dell'esilio pria saetta.
 
 19 Tu dimictes omnem rem dilectam\
 &emsp;Magis care; et ista est illa sagipta,\

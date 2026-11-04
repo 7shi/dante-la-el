@@ -544,4 +544,4 @@ L'Alighieri trovò coteste scimmie dell'opera divina, in un continuo e straziant
 
 E tremando ciascuno a me si volse.
 
-Adattatissima pena, che appunto fa lor sentire tutta la cruda violenza dell'esser quivi eternamente sottratti a quelle leggi di natura, dalle quali con le loro arti volevano sottrarsi quassu, come se potessero stare a fronte dell'Onnipotente.
+Adattatissima pena, che appunto fa lor sentire tutta la cruda violenza dell'esser quivi eternamente sottratti a quelle leggi di natura, dalle quali con le loro arti volevano sottrarsi quassù, come se potessero stare a fronte dell'Onnipotente.

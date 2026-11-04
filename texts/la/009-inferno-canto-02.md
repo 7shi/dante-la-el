@@ -394,7 +394,7 @@ Ergo vade cum tua magna eloquentia et cum omnibus rationibus et argumentis et su
 
 O donna de vertù, per cui,
 
-per quam spes humana excedit omnia, que continentur sub circulo lune; idest, exedit scientiam naturalem, perveniens usque ad Deum. Circulus lune habet minores circulos, quia inter omnes planetas est minor.
+per quam spes humana excedit omnia, que continentur sub circulo lune; idest, excedit scientiam naturalem, perveniens usque ad Deum. Circulus lune habet minores circulos, quia inter omnes planetas est minor.
 
 *Tanto me adgrada*: idest, tantum est michi gratum tuum preceptum, quod si tibi iam obedivissem, videretur michi nimis tardasse.
 

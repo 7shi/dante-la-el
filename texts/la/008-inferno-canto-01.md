@@ -328,7 +328,7 @@ Dic respondendo: Quod veritas est de resumptione virium in vere; sed intentio au
 &emsp;Miserere mei, clamavi ad eum,\
 &emsp;Quicumque sis, sive umbra, sive homo certus.
 
-in homine luxuria, incipit superbia, dum homo vult alios conculcare; et superbia multum impedit viam virtusam. Notandum, quod Dantes fuit multum superbus, sicut ipse confitetur in Purgatorio: fuit enim nobilis, scientificus, et superbia multum sotiatur cum nobilitate et scientia, que inflat. Rugitus leonis territ bestias; sic superbia territ subiectos.
+in homine luxuria, incipit superbia, dum homo vult alios conculcare; et superbia multum impedit viam virtuosam. Notandum, quod Dantes fuit multum superbus, sicut ipse confitetur in Purgatorio: fuit enim nobilis, scientificus, et superbia multum sotiatur cum nobilitate et scientia, que inflat. Rugitus leonis territ bestias; sic superbia territ subiectos.
 
 *Cum capite alto*: natura superbi est cum rabiosa fame. Superbus vellet omnia amplecti, et quando non potest, fulminat et fit quasi rabidus.
 
@@ -476,7 +476,7 @@ sed oportet te ire super montem, idest per viam virtuosam, si liberari cupis; et
 
 *Quoniam illa bestia*: idest avaritia, propter quam, idest a qua vis liberari, non permictit aliquem transire per viam suam. Via hominum valet et deberet esse virtuosa; sed avaritia neminem permictit transire per talem viam, sed impedit; ymo aliquando interficit spiritualiter, et aliquando est causa etiam mortis temporalis, ut patet in furibus et latronibus.
 
-*Cuius natura est perima*: quia nunquam implet suum avidum appetitum; sed post sumptionem cibi plus famem [habet] quam prius. Ecce proprietates avari et avaritie, quia avarus nunquam satiatur pecunia. Salomon: Qui enim est avarus et habet decem aureos, subito cupit viginti: demum centum, demum mille: si habet duo predia, cupit quinque; et sic de singulis; ita quod fames avaritie, sive sitis avari, nunquam satiatur.
+*Cuius natura est pexima*: quia nunquam implet suum avidum appetitum; sed post sumptionem cibi plus famem [habet] quam prius. Ecce proprietates avari et avaritie, quia avarus nunquam satiatur pecunia. Salomon: Qui enim est avarus et habet decem aureos, subito cupit viginti: demum centum, demum mille: si habet duo predia, cupit quinque; et sic de singulis; ita quod fames avaritie, sive sitis avari, nunquam satiatur.
 
 *Multa sunt animalia, quibus hec*: supple lupa, idest avaritia, uxoratur, idest fit uxor. Adsunt pulchra verba Virgilii, idest rationis. Vocantur viri avari animalia, idest bruta, quia sine ratione sic vivunt. Talibus uxor fit lupa, quia uxor non dimictitur, nec relapsatur, nisi in morte, cum matrimonium non dissolvatur nisi per mortem. Sic avari nunquam dimictunt avaritiam, nisi quando moriuntur et ad Infernum deportantur. *Plura erunt adhuc*: quia quotidie homines fiunt avari, quousque venerit veltrus, idest canis, qui eam faciet mori cum dolore.
 

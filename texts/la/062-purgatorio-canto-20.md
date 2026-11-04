@@ -122,7 +122,7 @@ Subsequenter intellexi: O bone Fabriti, cum paupertate voluisti potius virtutem,
 
 <!-- p. 654 (0708) -->
 
-10 Quèste parole m'eran sì piaciute,\
+10 Queste parole m'eran sì piaciute,\
 &emsp;Ch'io mi trass'oltre, per aver certezza\
 &emsp;Di quello spirto onde parean venute.
 
