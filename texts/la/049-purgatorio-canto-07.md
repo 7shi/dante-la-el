@@ -286,7 +286,7 @@ sursum. Iste, scilicet tenebre, cum non posse voluntatem intricant, idest implic
 
 Bene posset cum ea, scilicet tenebra, reverti deorsum, et *passegiare*, idest passim, vel paullatim, ire, montem circum errando, interim quod orizon diem tenet clausum. *Errando*: ille, qui non est dispositus, e[r]rat, sicut viator qui perditur in itinere, tainquam ignorans ire deorsum; quia priusquam homo intret gratiam divinam, bene potest redire retro, scilicet ad vitia. Notandum est hic quod, in summa, vult dicere auctor, quod omnem hominem, volentem recedere a peccatis et facere penitentiam et vivere secundum virtutes, [debet] iuvari a gratia divina, sine qua nemo posset mereri. Concordat auctor se cum Sacra Scriptura dicente: Sine me nihil potestis facere; et alibi: Nemo potest venire ad me, nisi Pater meus traxerit eum.
 
-Tunc meus dux quasi admirando: Duc nos igitur illuc, dixit, ubi di-is quod haberi potest delectatio commorando, idest moram trahendo, vel ibi stando.
+Tunc meus dux quasi admirando: Duc nos igitur illuc, dixit, ubi dicis quod haberi potest delectatio commorando, idest moram trahendo, vel ibi stando.
 
 Paucum elongati eramus inde, quod ego perpendi, quod mons erat scemus, idest concavus, quia ibi erat una cava, sive unum antrum, sicut sepe accidit in montibus, ad similitudinem vallium, *a guisa* scilicet concavarum hic, scilicet in mundo.
 

@@ -174,7 +174,7 @@ Ecce quod exauditio facta est. Mictuntur protectores ad defendendum istas animas
 
 (1) loro — (2) mio — (3) hor hora — (4) Dovesse venire el serpente — (5) di Virgilio.
 
-Ponit colorem istorum angelorum dicens: Virides, quasi foliuscule nunc noviter nate, erant in apparentia, velin veste, quas a viridibus pennis percussas trahebant retro et ventilatas. Viriditas figurat spem, que mictit illos duos angelos illis animabus purgandis, et omnes vivunt cum spe ventilandi, idest gloriam.
+Ponit colorem istorum angelorum dicens: Virides, quasi foliuscule nunc noviter nate, erant in apparentia, vel in veste, quas a viridibus pennis percussas trahebant retro et ventilatas. Viriditas figurat spem, que mictit illos duos angelos illis animabus purgandis, et omnes vivunt cum spe ventilandi, idest gloriam.
 
 Unus supra nos aliquantulum ad standum venit, et alius descendit in oppositam partem, ita quod gens in medio se continuit. Hoc est dicere quod illi equaliter sunt positi inter iustitiam et misericordiam; ideo dicitur in textu, quod illi erant inter ambos.
 
