@@ -52,7 +52,8 @@ fixes. What each table holds and who reads it:
 - `versecheck.tsv` (verse check): every decided line, `misread` (corrected; the note has
   the old form, `was …`), `misprint` and `printed` (mostly the lines listed by step 0). A
   record only: `la_versecheck.py` compares every line and does not read it.
-- `lexcheck.tsv` (check 2): to be written as `lemmacheck.tsv`, read by `la_lexcheck.py`.
+- `lexcheck.tsv` (check 2): `page line form decision note`, as `lemmacheck.tsv`; its forms
+  are left out by `la_lexcheck.py`.
 
 The misprints are gathered in "Suspected misprints" whatever found them (the markup, a
 check, by chance); a `misprint` row of a table is also a row there.
@@ -100,9 +101,10 @@ the whole book, one or two letters from a form found often, is a candidate.
    more) with a count of at least 5 and at least 5 times its own; listed with page, line,
    the counts, the neighbours, the context, and Tesseract's word at that place (from
    `ocr/la/tesseract/`; it does not normalize spellings, so its reading is a third vote).
-   Ranked: Tesseract reading the neighbour first, then the letter pairs that the OCRs
-   confuse (`c`/`e`, `n`/`u`, `r`/`t`, `rn`/`m`, `li`/`h`, `f`/`s`, `cl`/`d`), then the
-   rest. Left out: the forms in "Suspected misprints", `lemmacheck.tsv`,
+   Ranked in three groups by Tesseract's word (accents aside): 1, a neighbour, or a form
+   that differs from its neighbour only in accents; 2, another word; 3, the form itself.
+   A letter pair that the OCRs confuse (`c`/`e`, `n`/`u`, `r`/`t`, `rn`/`m`, `li`/`h`,
+   `f`/`s`, `cl`/`d`) is shown; `-g G` lists the groups up to G. Left out: the forms in "Suspected misprints", `lemmacheck.tsv`,
    `versecheck.tsv` and `lexcheck.tsv`. Options: `FIRST LAST`, `-t TESS`, `-o OUT`, `--min N` (the neighbour's
    count), `-d DIR` (read the pages from DIR instead of `ocr/la`).
 2. **Trial**: a recall test on the first transcription (the pages of commit `89ac4a3`,
@@ -117,6 +119,18 @@ the whole book, one or two letters from a form found often, is a candidate.
    printed for one page is not taken as printed for another: each place is looked at.
 4. **Checks** and **commit** as in check 1 (DONE.md, "Check 1", steps 5–6), batch by batch
    if long.
+
+Progress (2026-11-05):
+- Trial on `89ac4a3`: 78% of group 1 were misreadings, 24% of group 2, 0.8% of group 3;
+  groups 1 and 2 held about 95% of them. On `ocr/la`: 22,567 candidates, of which group 1
+  278, group 2 2,277, group 3 20,012. Group 3 is not decided.
+- Group 1: done; 278 rows, 59 misread, 6 misprints.
+- Group 2, decided in page batches (each candidate's word cropped from the image, the
+  unclear ones zoomed and compared with letters of the same page): batch 1 (0001–0160)
+  done, 311 rows, 5 misread. Next: 0161–0320, then 0321–0480, 0481–0640, 0641–0800,
+  0801–0960, 0961–1120, 1121–1296. No group 2 candidate is left out by script (a Tesseract
+  word that joins an elided word to the form, `Nellumiliare`, is still looked at: the same
+  shape covers real differences, `inanz'a` against `inanza`).
 
 Not found by this check: misreadings into a common word (0085 `terret` is a real word,
 printed on 0489), rare words with no common neighbour, and a common spelling written for
@@ -340,6 +354,12 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 1242 | 24 | `et ad corum cantus` | `eorum` | Latin verse 45; the same line has `eorum` before; found by the verse reading. |
 | 1242 | 27 | `tantam habundatiam` | `habundantiam` | Latin verse 46; found by the verse reading. |
 | 1206 | 32 | `medesimo rise (2).` | `(12)` | Italian verse; the marks before are (10) and (11), the commentary has (12); found by the verse reading. |
+| 0097 | 89 | `In angelica fuvella:` | `favella` | Italic lemma (Italian verse `favella`); an italic `u`, open at the top, unlike the `a` of `angelica`; found by check 2. |
+| 0216 | 30 | `arere, idest in bonis aliorum` | `avere` | Italic lemma; its second letter is the italic `r` of its fourth, as 0154 and 0204; found by check 2. |
+| 0258 | 19 | `Già era in loco, dore:` | `dove` | Italic lemma; the italic `r` of `era` beside it, as 0154 and 0204; found by check 2. |
+| 0274 | 108 | `cum cauda, veluit Virgilius` | `voluit` | Found by check 2. |
+| 0904 | 11 | `de la luua` | `luna` | Gloss; `u` for `n` (a turned letter), as 0146; found by check 2. |
+| 1050 | 69 | `remisse trabere,` | `trahere` | A `b`, unlike the `h` of `trahit` on the page; found by check 2. |
 
 ## Known limits
 
