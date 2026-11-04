@@ -878,6 +878,7 @@ page	line	form	decision	note
 0329	15	marinar	printed	
 0329	16	argomentin	printed	
 0329	18	Mostrav	printed	
+0329	25	ritrhaen	misprint	for ritrahen; h and a transposed
 0329	85	contegnam	printed	
 0329	96	tempestatis	printed	
 0331	23	Poch	printed	
@@ -952,6 +953,7 @@ page	line	form	decision	note
 0356	18	infinse	printed	
 0356	79	banna	printed	
 0356	89	mucci	printed	
+0356	94	fiuxit	misprint	for finxit; u for n
 0357	89	doleas	printed	
 0359	14	facolta	printed	no accent printed
 0359	26	seggendo	printed	
@@ -978,6 +980,7 @@ page	line	form	decision	note
 0375	25	dicò	printed	
 0375	74	Iordanem	printed	
 0377	28	terum	printed	printed apart, i terum
+0377	69	mulicbribus	misprint	for muliebribus; c for e
 0377	100	valleat	printed	
 0378	9	ïo	printed	
 0379	29	reguardia	printed	
@@ -988,6 +991,7 @@ page	line	form	decision	note
 0380	51	gallicas	printed	
 0381	17	fè	printed	
 0382	51	critico	printed	
+0382	93	nuoca	misprint	for nuova; c for v
 0382	108	fè	printed	
 0383	9	astutum	printed	
 0383	32	Promicte	printed	
@@ -999,6 +1003,7 @@ page	line	form	decision	note
 0385	95	novellum	printed	
 0387	21	Polente	printed	
 0387	99	Billorum	printed	first letter damaged; B as in Penna Billorum on the page
+0388	29	rugit	printed	
 0389	15	prenda	printed	
 0389	44	coopertas	printed	
 0389	60	excusabat	printed	
@@ -1006,6 +1011,7 @@ page	line	form	decision	note
 0390	23	profuisset	printed	
 0390	51	phares	printed	
 0390	77	viginta	printed	
+0391	60	conducerunt	printed	
 0392	17	absolver	printed	
 0393	10	paga	printed	
 0393	34	seminando	printed	
@@ -1032,11 +1038,13 @@ page	line	form	decision	note
 0403	32	fulcitus	printed	
 0404	8	assicura	printed	
 0406	9	Absalone	printed	
+0409	16	maximes	misprint	for maximos; e for o
 0409	19	corrupcio	printed	
 0409	23	pruritum	printed	
 0409	24	scalpere	printed	
 0409	34	proiiciunt	printed	
 0409	35	expoliant	printed	
+0410	71	contempta	printed	
 0411	6	temp	printed	
 0411	56	respexisti	printed	
 0412	98	cooperui	printed	
@@ -1077,8 +1085,10 @@ page	line	form	decision	note
 0426	15	havei	printed	
 0426	16	havei	printed	
 0426	24	epa	printed	
+0426	94	supersit	printed	
 0427	13	poch	printed	
 0427	13	adisso	printed	
+0429	12	Penetro	misread	corrected to Penetrò
 0429	51	IEREM	printed	
 0429	60	creandola	printed	
 0429	79	parrebbero	printed	
@@ -1086,12 +1096,14 @@ page	line	form	decision	note
 0431	5	octauum	misread	corrected to octavum
 0431	8	diuiditur	misread	corrected to dividitur
 0431	11	expedivit	printed	
+0431	18	illue	misread	corrected to illuc
 0432	13	tinxit	printed	
 0432	14	reporrexit	printed	
 0432	45	Fialte	printed	
 0433	53	percutiendum	misread	not printed: lines 52-53 (a Latin list of the footnotes) are not on the page; removed
 0434	10	ombilico	printed	
 0435	97	circumcingitur	printed	
+0436	76	obtulis	printed	obtulis te
 0437	62	volution	misread	corrected to volutio
 0438	10	Hannybal	printed	
 0438	47	dotta	printed	
@@ -1123,6 +1135,7 @@ page	line	form	decision	note
 0440	30	effettua	printed	
 0440	30	concepirne	printed	
 0443	7	abbo	printed	
+0445	29	cursui	printed	
 0446	55	pillum	misread	corrected to pilum
 0446	103	as	printed	
 0447	6	ess	printed	
@@ -1134,6 +1147,7 @@ page	line	form	decision	note
 0449	106	Papie	printed	
 0451	3	Severissimo	printed	
 0451	4	esprimerli	printed	
+0451	16	intin	misread	a damaged f, its hook lost; corrected to infin
 0451	27	restera	printed	no accent printed
 0451	46	presentito	printed	
 0453	29	aggravatur	printed	
@@ -1147,12 +1161,14 @@ page	line	form	decision	note
 0459	56	glaciates	misread	corrected to glaciatas
 0459	62	fosssatum	misread	corrected to fossatum
 0459	68	permicit	misread	corrected to permictit
+0459	104	indicati	printed	
 0461	91	interfficere	misread	corrected to interficere
 0462	37	incurrit	printed	
 0464	6	oserebbe	printed	
 0464	14	bacio	printed	
 0464	24	Act	printed	
 0464	27	Decret	printed	
+0465	41	cam	misread	a damaged e; corrected to eam
 0465	55	videbamus	printed	
 0465	74	deliciarum	printed	
 0465	75	eruat	printed	
@@ -1161,12 +1177,17 @@ page	line	form	decision	note
 0467	23	Pens	printed	
 0467	85	armes	printed	
 0469	42	Remanebant	printed	
+0469	78	quamam	printed	
+0469	93	uon	misread	corrected to non
+0469	95	Buriam	printed	
 0471	11	escì	printed	
 0471	28	erro	printed	
 0472	12	passasti	printed	
 0472	72	lustrans	printed	
 0473	7	fict	printed	
 0473	30	forsam	printed	
+0473	49	loannes	misprint	for Ioannes; l for I
+0475	31	adoro	misprint	for adorò; the accent not printed
 0475	36	divinita	printed	no accent printed
 0475	49	orazione	printed	
 0475	77	cresta	printed	
@@ -1389,6 +1410,7 @@ page	line	form	decision	note
 0584	67	afflictio	printed	
 0585	5	apuncto	printed	
 0585	8	intendon	printed	
+0586	16	intino	misread	a damaged f, its hook lost; corrected to infino (seen with 0451 infin)
 0586	24	Notò	printed	
 0586	24	Tommasèo	printed	
 0586	29	gentilesca	printed	

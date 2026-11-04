@@ -148,6 +148,9 @@ Progress (2026-11-05):
   recorded. Batch 1 (0001–0160): 2,592 words, 29 flagged: 7 misprints, 22
   printed (most in the papal documents, the words of their transcription).
   Batch 2 (0161–0320): 2,614 words, 23 flagged: 5 misprints, 18 printed.
+  Batch 3 (0321–0480): 2,664 words, 21 flagged: 5 misread (`Penetrò`, `illuc`, `non`,
+  and two damaged letters restored, `infin`, `eam`; the `infino` of 0586, seen with
+  `infin`, also corrected), 7 misprints, 9 printed.
   No group 2 candidate is left out by script (a Tesseract word that joins an elided word
   to the form, `Nellumiliare`, is still looked at: the same
   shape covers real differences, `inanz'a` against `inanza`).
@@ -391,6 +394,13 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0274 | 108 | `cum cauda, veluit Virgilius` | `voluit` | Found by check 2. |
 | 0295 | 70 | `*piumbat*, id st perpendiculariter` | `est` | Commentary; the `e` not printed; found by check 2. |
 | 0299 | 31 | `(11) da Virgllio.` | `Virgilio` | Footnote; `l` for `i`; found by check 2. |
+| 0329 | 25 | `Così si ritrhaen sotto e bollori.` | `ritrahen` | Quoted verse; `h` and `a` transposed; found by check 2. |
+| 0356 | 94 | `non se fiuxit, idest intelli-` | `finxit` | Commentary; `u` for `n`; found by check 2. |
+| 0377 | 69 | `indutus vestibus mulicbribus.` | `muliebribus` | Commentary; `c` for `e`, no bar; found by check 2. |
+| 0382 | 93 | `ad intraveder *la nuoca*` | `nuova` | Essay; italic; `c` for `v`; found by check 2. |
+| 0409 | 16 | `quod generat maximes feto-` | `maximos` | Commentary; `e` for `o`; found by check 2. |
+| 0473 | 49 | `Frater` / `loannes predictus, episcopus Firmanus` | `Ioannes` | Commentary; an `l` with a top serif to the left only, as the `l` of `millesimo`, for `I`; found by check 2. |
+| 0475 | 31 | `tutta la classica antichità adoro la *Tellus*` | `adorò` | Essay; the accent not printed; found by check 2. |
 | 0515 | 81–82 | `ad Lu-` / `cillum:` | `Lucilium` | Commentary (Seneca's letters); a second `l`, not an `i`; found by check 2. |
 | 0613 | 81 | `*di sparento*, idest pavefactione` | `spavento` | Italic lemma (Italian verse `spavento`); an italic `r`, unlike the italic `v` of `sapevamo` (0640); found by check 2. |
 | 0640 | 52 | `famiam, qued in uno loco` | `quod` | Commentary; the third letter has no visible bar (`qucd` or `qued`); found by check 2. |
