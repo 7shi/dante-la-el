@@ -35,6 +35,14 @@ LANGUAGES = {
         "closing": "Επίλογος",
         "note": "Use the monotonic orthography.",
     },
+    "eo": {
+        "name": "Esperanto",
+        # Shares its script with Italian, so this rejects only lines without
+        # letters; a verbatim copy is still caught by comparing with the original
+        "letters": r"[A-Za-zĈĜĤĴŜŬĉĝĥĵŝŭ]",
+        "closing": "Epilogo",
+        "note": "Write ĉ, ĝ, ĥ, ĵ, ŝ, ŭ with their diacritics, not in the x- or h-system.",
+    },
 }
 
 PROMPT = """

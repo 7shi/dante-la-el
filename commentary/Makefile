@@ -1,6 +1,13 @@
 MODEL = gpt-6-astra
 CHECK_MODEL = $(MODEL)
-LANG_CODE = el
+# The target language is given as LANG on the command line (make LANG=eo).
+# LANG from the environment is the locale and is ignored; when LANG is given,
+# it is not passed on to the scripts, so they do not get it as a locale.
+ifeq ($(origin LANG),command line)
+LANG_CODE := $(LANG)
+unexport LANG
+endif
+LANG_CODE ?= el
 DIR = $(LANG_CODE)
 CHECK_DIR = check/$(LANG_CODE)
 
@@ -13,6 +20,7 @@ help:
 	@echo "       make check-lines [CANTICLE=<canticle>] [CANTO=<spec>] [CHECK_MODEL=<model>]"
 	@echo "       make report-lines [CANTICLE=<canticle>] [CANTO=<spec>] [KIND=\"<kind> ...\"]"
 	@echo "       make apply-lines KIND=\"<kind> ...\" [CANTICLE=<canticle>] [CANTO=<spec>]"
+	@echo "       every target takes LANG=<el|eo> (default: el)"
 	@echo ""
 	@echo "  generate   Write $(DIR)/<canticle>/NN.md (commentary) and NN.txt (translation)"
 	@echo "             in $(LANG_CODE) with $(MODEL); CANTO takes the SPEC syntax"
