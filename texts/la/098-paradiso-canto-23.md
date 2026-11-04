@@ -527,10 +527,10 @@ Ciascun di quei candori in su si stese\
 Con la sua cima si, che l'alto affetto\
 Ch'egli aveano a Maria mi fu palese.
 
-Allora essi cantano Regina coeli, quasi a compenso di quella lontananza, ed egli non se ne sente minor conforto.
+Allora essi cantano *Regina coeli*, quasi a compenso di quella lontananza, ed egli non se ne sente minor conforto.
 
 Indi rimaser lì nel mio cospetto,\
-Regina coeli cantando si dolce,\
+*Regina coeli* cantando si dolce,\
 Che mai da me non si partì'l diletto.
 
 Da ultimo non è meno piena di fede e di pietà la conclusione:

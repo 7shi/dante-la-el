@@ -554,7 +554,7 @@ Licet auctor Dantes, in persona Karoli Martello, solveret questionem, scilicet q
 
 # La società e gli individui
 
-Nè l'uomo è senza la società, nè la società senza l'uomo, sia in terra, sia in cielo; così avendo stabilito colui che creava l' uomo e la società, dicendo che l'uomo fatto a sua immagine e somiglianza, non doveva restar isolato e solo, Non est bonum homini esse solum, ma dover essere perno e germe di società. Quindi la famiglia, prima società naturale; e da questa, gradatamente, le altre che da essa nascono, cioè la civile e la politica, fino alla massima di tutto il genere umano, che tutte le assomma e compie; tutte in quella prima potenzialmente e virtualmente contenute.
+Nè l'uomo è senza la società, nè la società senza l'uomo, sia in terra, sia in cielo; così avendo stabilito colui che creava l' uomo e la società, dicendo che l'uomo fatto a sua immagine e somiglianza, non doveva restar isolato e solo, *Non est bonum homini esse solum*, ma dover essere perno e germe di società. Quindi la famiglia, prima società naturale; e da questa, gradatamente, le altre che da essa nascono, cioè la civile e la politica, fino alla massima di tutto il genere umano, che tutte le assomma e compie; tutte in quella prima potenzialmente e virtualmente contenute.
 
 A tal vero accenna in questo canto il nostro Poeta, chiedendo:
 

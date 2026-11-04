@@ -12,7 +12,7 @@
 
 Clemens Episcopus, servus servorum Dei, Dilecto filio Iaufferandi Canonico Cameracensi fructuum et proventuum Camere Apostolice in Senonensi et Rothomagensi Provinciis debitorum Collectori, salutem et apostolicam benedictionem. Cum tu de pecuniis ad nos et Cameram Apostolicam pertinentibus per te in partibus, in quibus es Collector apostolicus deputatus, receptis, dilecto filio Amedeo de Saluciis, Decano ecclesie Baiocensis, per nostras litteras tibi super hoc directas, preter et ultra trecentos francos auri per te alias sibi traditos, de quibus quitantiam a nobis te asseris habuisse, quingentos francos auri boni ponderis de auro Francie, pro dono speciali per nos tibi facto, pro suis necessitatibus et expensis faciendis, tradideris et realiter assignaveris, prout nobis constat et sumus super hoc plenarie informati; nostram dationem et assignationem huiusmodi ratas habentes et gratas, ac volentes tibi tuisque heredibus et successoribus super hoc de opportuna providere cautela, te ac heredes et successores eosdem tua et eorum bona mobilia et immobilia, presentia pariter et futura, de predictis quingentis francis auri per te dicto Amedeo, ut prefertur, traditis et etiam assignatis, auctoritate Apostolica tenore presentium liberamus, absolvimus et quitamus, mandantes nihilominus per presentes Camerario Sedis Apostolice ac officialibus et gentibus Camere Apostolice predicte, quatenus dictos quingentos francos auri de tuis receptis deducant, et in tuis rationibus et computis studeant quantocius allocare. Dat. Avinione, Kal. Oct. Pontificatus nostri Anno Quarto.
 
-(Ex Arch. Vat. Instrum. Miscel.)
+(Ex Arch. Vat. *Instrum. Miscel*.)
 
 ## Doc. 2.
 
@@ -24,7 +24,7 @@ te in assecutione dicte prebende volumus anteferri. Sed nullum
 
 <!-- p. XL (0046) -->
 
-propter hoc eis, quoad assecutionem prebendarum aut beneficiorum aliorum preiudicium generari volumus, si prefatis episcopo et Capitulo vel quibusvis aliis, coniunctim vel divisim a dicta sit sede indultum quod, ad receptionem vel provisionem aliarum nunc teneantur, et ad id compelli non possint, quodque de canonicatibus et prebendis ipsius ecclesie, aut aliis beneficiis ecclesiasticis, ad earum collationem, provisionem, presentationem, seu quamvis aliam dispositionem, coniunctim vel separatim spectaret, nulli valeat provideri per litteras apostolicas non facientes plenam et expressam ac de verbo ad verbum de indulto huiusmodi mentionem, et qualibet alia dicte sedis indulgentia generali vel speciali, cuiuscumque tenoris existat, per quam presentibus non expressam vel totaliter non insertam, effectus huiusmodi gratie impedire valeat quomodolibet vel differri, et de qua cuiusque toto tenore habenda sit in nostris litteris mentio specialis, aut si prius non fueris, ad prestandum de observando statuto et consuetudinibus dicte ecclesie solitum iuramentum, ad cuius prestationem dummodo in absentia tua per procuratorem tuum illud prestes, te volumus non teneri, aut si hodie pro alio, vel aliis, super equali, vel equalibus, gratia, vel gratiis, in dicta ecclesia litteras nostras duxerimus concedendas, nos tam illas quam presentes effectum sortiri volumus, quacumque constitutione apostolica contraria non obstante. Nulli ergo, etc. nostre collationis, provisionis, reservationis, inhibitionis, constitutionis et voluntatis infringere, etc. Datum Avenioni, XV Kal. Maii, Anno quartodecimo. (Ex Archiv. Vat. Clem. VII. Antip. tom. XII).
+propter hoc eis, quoad assecutionem prebendarum aut beneficiorum aliorum preiudicium generari volumus, si prefatis episcopo et Capitulo vel quibusvis aliis, coniunctim vel divisim a dicta sit sede indultum quod, ad receptionem vel provisionem aliarum nunc teneantur, et ad id compelli non possint, quodque de canonicatibus et prebendis ipsius ecclesie, aut aliis beneficiis ecclesiasticis, ad earum collationem, provisionem, presentationem, seu quamvis aliam dispositionem, coniunctim vel separatim spectaret, nulli valeat provideri per litteras apostolicas non facientes plenam et expressam ac de verbo ad verbum de indulto huiusmodi mentionem, et qualibet alia dicte sedis indulgentia generali vel speciali, cuiuscumque tenoris existat, per quam presentibus non expressam vel totaliter non insertam, effectus huiusmodi gratie impedire valeat quomodolibet vel differri, et de qua cuiusque toto tenore habenda sit in nostris litteris mentio specialis, aut si prius non fueris, ad prestandum de observando statuto et consuetudinibus dicte ecclesie solitum iuramentum, ad cuius prestationem dummodo in absentia tua per procuratorem tuum illud prestes, te volumus non teneri, aut si hodie pro alio, vel aliis, super equali, vel equalibus, gratia, vel gratiis, in dicta ecclesia litteras nostras duxerimus concedendas, nos tam illas quam presentes effectum sortiri volumus, quacumque constitutione apostolica contraria non obstante. Nulli ergo, etc. nostre collationis, provisionis, reservationis, inhibitionis, constitutionis et voluntatis infringere, etc. Datum Avenioni, XV Kal. Maii, Anno quartodecimo. (Ex Archiv. Vat. *Clem. VII. Antip*. tom. XII).
 
 ## Doc. 3.
 
@@ -40,7 +40,7 @@ quibus per alias diversas nostras litteras dedimus in mandatis, ut nonnullis cle
 
 personatus, officia, canonicatus et prebende ecclesiastice, et alia beneficia ecclesiastica huiusmodi debitis non fraudentur obsequiis, et animarum cura in eis, in quibus illa imminet, nullatenus negligatur. Nostre tamen intentionis existit quod in dicto archidiaconatu nullum ius tibi ex collatione huiusmodi quomodolibet acquiratur, nisi tu et dictus Odo, tempore resignationum huiusmodi ius haberetis in canonicatu et prebenda et archidiaconatu predictis, per nos taliter resignatis. Nulli ergo, etc. nostre collationis, provisionis, reservationis, inhibitionis, constitutionis, voluntatis et dispensationis infringere, etc. Datum Avenioni, XV Kalendis Maii, anno quartodecimo.
 
-(Ex Arch. Vat. Clem. VII Antip. etc.)
+(Ex Arch. Vat. *Clem. VII Antip*. etc.)
 
 ## Doc. 4.
 
@@ -92,7 +92,7 @@ Anno 1392 die 25 Aug. Renovatio numeri Dominorum Cardinalium, qui sunt numero XX
 
 Diaconi Cardinales — Amedeus Sancte Marie Nove Saluciarum.
 
-(Ex Archiv. Vat. Oblig. serv. commun. 1388-1406, vol. 305, pag. 58.) VI
+(Ex Archiv. Vat. *Oblig. serv. commun*. 1388-1406, vol. 305, pag. 58.) VI
 
 <!-- p. XLII (0048) -->
 
@@ -102,7 +102,7 @@ Diaconi Cardinales — Amedeus Sancte Marie Nove Saluciarum.
 
 Dilecto filio Amedeo, Sancte Marie Nove diacono Cardinali, salutem, etc. Quanto Romanam Ecclesiam, cuius honorabile membrum existis, tuorum honoras magnitudine meritorum, tanto mereris per eam attolli honoris gratia specialis; hinc est quod nos tuis in hac parte supplicationibus inclinati, ut tu ecclesiam, monasteria, et alia loca ecclesiastica in Archidiaconatu Remensi, quem ex concessione et dispensatione Sedis Apostolice obtines, consistentia eorumque personas et loca in quibus tibi ratione dicti Archidiaconatus visitationis officio competit de consuetudine, ut devenire possis libere per personam seu personas ydoneam, seu ydoneas, quam, vel quas, ad hoc deputandam duxeris, seu etiam deputandas, usque ad triennium a data presentium computandum, quoties tempus visitationis ingruerit etiam duas, tres vel quatuor ecclesias sive loca ecclesiastica eodem die visitare et procurationes ratione visitationis huiusmodi tibi debitas ab ecclesiasticis locis et personis eisdem taliter visitatis recipere in pecunia numerata, dummodo procures procurationes huiusmodi ultra summam triginta turonensium argenti, quorum duodecim valeant unum florenum auri de Florentia, pro qualibet die non excedant; non obstante si procurationes huiusmodi in ecclesia, civitate et diocesi ac provincia tibi debitas pro Camera Apostolica servaverimus, seu quibuscumque duximus concedendas, aut per nos reservari seu concedi contingerit in futurum per quascumque reservationes seu concessiones, quoad hoc tibi nolumus in aliquo derogari, et quibuscumque constitutionibus a felicis recordationis Innocentio quarto et Gregorio decimo ac sic dicto duodecimo, et quibuslibet aliis Romanis Pontificibus predecessoribus nostris in contrarium editis, et privilegiis, indulgentiis et litteris apostolicis, generalibus vel specialibus, quorumcumque tenorum existant, per que presentibus non expressa vel totaliter non inserta, effectus earum impedi valeat quomodolibet, vel differri, et de quibuscumque totis tenoribus habenda sit in nostris litteris mentio specialis, tibi auctoritate presentium indulgemus. Nunc tamen intentionis existit quod hiis, quorum facultates ad integram solutionem summe huiusmodi, supportatis aliis oneribus, non suppetunt, ultra quam iuxta suarum huiusmodi facultatum exigentiam commode possunt illi... qui de summa huiusmodi nihil solvere poterunt, ad solvendum aliquid preteritum indulti huiusmodi nullatenus compellantur. Nulli ergo, etc. nostre concessionis infringere etc. Datum Avenione, duodecimo octobris, anno quintodecimo.
 
-(Ex Arch. Vat. Clem. VII Ant. tom. XIII).
+(Ex Arch. Vat. *Clem. VII Ant*. tom. XIII).
 
 ## Doc. 10.
 
@@ -114,7 +114,7 @@ Dilecto filio Amedeo, Sancte Marie Nove diacono Cardinali, salutem, etc. Dum exq
 
 ac statutis et consuetudinibus supradictis contrariis nequaquam obstantibus, retinere libere et licite valeas, motu simili, auctoritate predicta, et uberioris dono gratie, dispensamus, proviso quod prioratus, dignitates, personatus, officia, canonicatus et predicte Ecclesie et alia beneficia supradicta debitis non fraudentur obsequiis; at animarum cura in eis quibus illa imminet, nullatenus negligatur. Nulli ergo, etc. nostre reservationis, inhibitionis, constitutionis, voluntatis et dispensationis infringere, etc. Datum Avenioni XVII Kal. novembris, anno quintodecimo.
 
-(Ex Arch. Vat. Clem. VII Antip. tom. 15.)
+(Ex Arch. Vat. *Clem. VII Antip*. tom. 15.)
 
 ## Doc. 11.
 
@@ -174,7 +174,7 @@ Venerabili Fratri Episcopo Laudonensi et dilectis filiis, Decano Ecclesie sancti
 
 Clementis VII obitus anno 1394 die Mercuri, IIII.or Temporum, que fuit XVI dies mensis septembris post horam diei decimam, Dominus Clemens Papa VII, sicut Domino placuit, migravit ab hoc seculo, dominis Cardinalibus existentibus qui sequuntur. Et fuit sepultus Avenione in ecclesia Avenionensi, die Veneris XVIII dicti mensis sollempniter, ut decebat. Vacavit sedes diebus undecim.
 
-(Ex Arch. Vat. Oblig. servit. com. 1388-1406, vol. 305.)
+(Ex Arch. Vat. *Oblig. servit. com*. 1388-1406, vol. 305.)
 
 ## Doc. 17.
 
@@ -192,7 +192,7 @@ Anno a nativitate Domini 1394 die 18 mensis septembris, sepulto domino Clemente 
 
 Cardinales, qui Conclavi Benedicti XIII, Antipape, interfuerunt A. . . Amedeus de Salutiis Sancte Marie Nove.
 
-(Ex Arch. Vat. Massarelli, De Pontif., Card. etc. Miscell. Arm. XI, tom. 44, pag. 678).
+(Ex Arch. Vat. Massarelli, *De Pontif., Card*. etc. *Miscell*. Arm. XI, tom. 44, pag. 678).
 
 ## Doc. 19.
 
@@ -204,7 +204,7 @@ Venerabilibus fratribus C. Penes. et N. Albanensium Episcopis et dilectis filiis
 
 commorantibus, Benedictus etc. Venerabiles fratres et dilecti filii. Cum, sicut accepimus per litteras de partibus Italie, ambassiatores intrusi, qui pro factis conventibus tractatum ecclesiarum unitatis ad nos et romanam curiam sint venturi de octava huius mensis, debuerunt recedere de Florencia ubi erant, et credamus, secundum scripta, eos infra quinque dies proxime secuturos debere intrare hanc civitatem, nosque, cum materia sit ardua, velimus deliberare et colloquium habere vobiscum; pro tanto vos hortamur attente quod omni mora posposita, predictorum ambassiatorum prevenientes adventum ante quem sunt aliqua necessario previdenda ad nostram pro premissis negociis vos presenciam conferatis, ut habita deliberatione, valeamus consultius procedere in agendis. Datum Massilie apud Sanctum Victorem, Die XVII martii.
 
-(Ex Arch. Vatic. Bened. XIII pseudopap. ann. XIII, n. 332).
+(Ex Arch. Vatic. *Bened. XIII pseudopap*. ann. XIII, n. 332).
 
 ## Doc. 20.
 
@@ -230,7 +230,7 @@ De Tureyo presbytero Cardinalibus De Saluciis Sancti Angeli Dyaconis Barren.
 
 Diaconi Cardinales, qui in hoc Sacro Concilio Pisano comparuerunt. . . . Diaconi Cardinales R. in Christo pater et Dominus Dominus Amedeus sancte Marie Nove, dictus de Saluciis, Sacri Collegii Camerarius.
 
-(Ex Arch. Vat. Manual. Concil. Pis. Domini Thome Troteti, vol. 85: Arm. 63, fol. 67.)
+(Ex Arch. Vat. *Manual. Concil. Pis. Domini Thome Troteti*, vol. 85: Arm. 63, fol. 67.)
 
 ## Doc. 22.
 
@@ -244,7 +244,7 @@ Die Martis ultima dicti mensis Aprilis 1409, Sancta generali synodo congregata, 
 
 (20 Iun. 1409)
 
-Electio Alexandri Pape V — Anno Domini 1409, Indictione 2ª, die Mercurii, XX mensis Iunii, hora tertiarum, vel circa, infrascripti Reverendissimi in Christo Patres et Domini Domini, miseratione divina S. R. E. Cardinales, videlicet Episcopi. . . Presbyteri. . . Diaconi, Amedeus Sancte Marie Nove, dictus de Saluciis. . . Pisis in Archiepiscopali Palatio in unum Conclave congregati, Spiritus Sancti gratia invocata, unanimiter et concorditer, nemine discrepante, elegerunt et nominaverunt in verum et indubitatum, unicum et summum Romanum Pontificem, Reverendissimum in Christo Patrem et Dominum Dominum Petrum de Candia, Sacre Theologie continuum professorem, tituli XII Apostolorum, qui nomen assumpsit et appellari voluit Alexander Papa Quintus. (Ibid. pag. 376).
+Electio Alexandri Pape V — Anno Domini 1409, Indictione 2ª, die Mercurii, XX mensis Iunii, hora tertiarum, vel circa, infrascripti Reverendissimi in Christo Patres et Domini Domini, miseratione divina S. R. E. Cardinales, videlicet Episcopi. . . Presbyteri. . . Diaconi, *Amedeus* Sancte Marie Nove, dictus de Saluciis. . . Pisis in Archiepiscopali Palatio in unum Conclave congregati, Spiritus Sancti gratia invocata, unanimiter et concorditer, nemine discrepante, elegerunt et nominaverunt in verum et indubitatum, unicum et summum Romanum Pontificem, Reverendissimum in Christo Patrem et Dominum Dominum Petrum de Candia, Sacre Theologie continuum professorem, tituli XII Apostolorum, qui nomen assumpsit et appellari voluit Alexander Papa Quintus. (Ibid. pag. 376).
 
 ## Doc. 24.
 
@@ -262,9 +262,9 @@ Dominorum Cardinalium insimul exercerent et facerent iuxta laudabilem consuetudi
 
 (30 Iun. 1409)
 
-Die dominica ultima mensis Iunii, Reverendissimi in Christo Patres et Domini Domini, Henricus Episcopus Tusculanus et Amedeus Sancte Marie Nove Diaconus, Cardinales et Camerari Collegii Dominorum Cardinalium receperunt Venerabiles viros Dominos Ioannem Ponceti et Stephanum de Prato, clericos dicti Collegii de novo ad iuramentum fideliter exercendi officium ipsius clericatus.
+Die dominica ultima mensis Iunii, Reverendissimi in Christo Patres et Domini Domini, Henricus Episcopus Tusculanus et *Amedeus Sancte Marie Nove Diaconus*, Cardinales et Camerari Collegii Dominorum Cardinalium receperunt Venerabiles viros Dominos Ioannem Ponceti et Stephanum de Prato, clericos dicti Collegii de novo ad iuramentum fideliter exercendi officium ipsius clericatus.
 
-(Ex Arch. Vat. Massarelli. De Pont. etc. Arm. XI, tom. 44, pag. 376).
+(Ex Arch. Vat. Massarelli. *De Pont*. etc. Arm. XI, tom. 44, pag. 376).
 
 ## Doc. 26.
 
@@ -288,13 +288,13 @@ M. De Strata Collat. B. De Curia B. de Symea:
 
 Gregorius Episcopus, Servus Servorum Dei, Venerabili fratri Iohanni Episcopo et Principi Firmano, cubiculario nostro, salutem etc. Cum nihil sit quod magis debeatur hominibus, quam ut supreme voluntatis liber sit stilus et liberum quod iterum non reddit arbitrium; Nos tuis supplicationibus inclinati testandi et ordinandi ac disponendi libere de omnibus bonis ad te pertinentibus, cuiuscumque quantitatis seu valoris fuerint, etiam si illa ex proventibus ecclesiasticis, seu ecclesiis tibi commissis, vel alias persone tue intuitu aut contemplatione ad te pervenerunt et pervenient in futurum, plenam et liberam tibi licentiam tenore presentium elargimur. Dat. Gaiete, VIII Kal. Maii Pontificatus nostri Anno Quarto.
 
-M. De Strata De Curia Collation M. De Pisis P. De Putheolo Ibid. f. 151 (Ex Arch. Vat. Reg. Greg. XII. lib. 3, fol. 138.)
+M. De Strata De Curia Collation M. De Pisis P. De Putheolo Ibid. f. 151 (Ex Arch. Vat. *Reg. Greg. XII*. lib. 3, fol. 138.)
 
 ## Doc. 29.
 
 (25 Ian. 1411)
 
-Die 25 Ianuarii, lapsi sunt tres menses, quibus fuerunt expectati Reverendissimi Domini Cardinales Prenestinus de Barro et de Saluciis, et sic remanent partecipantes . . . Carnales. (Ex Arch. Vat. Massar. cit. pag. 388)
+Die 25 Ianuarii, lapsi sunt tres menses, quibus fuerunt expectati Reverendissimi Domini Cardinales Prenestinus de Barro et de Saluciis, et sic remanent partecipantes . . . Carnales. (Ex Arch. Vat. *Massar*. cit. pag. 388)
 
 ## Doc. 30.
 
@@ -308,7 +308,7 @@ Die Iovis, 20 Augusti, Dominus noster papa voluit et mandavit in presentia Cardi
 
 Guido Prenestin., Ludovicus de Barro et Amedeus de Saluciis Cardinales absentes a Curia.
 
-Die Veneris 24 Octobris Dominus noster papa Ioannes XXIII declaravit dominos Cardinales Guidonem Prenestinum, Ludovicum de Barro et Amedeum de Saluciis non debere participare de communibus servitiis prelatorum promovendorum propter eorum absentiam. Ei adhuc remanserunt partecipantes Cardinales XIX usque ad tres menses sequentes, quibus fuerunt expectati. (Ibid. pag. 385.)
+Die Veneris 24 Octobris Dominus noster papa Ioannes XXIII declaravit dominos Cardinales Guidonem Prenestinum, Ludovicum de Barro et *Amedeum de Saluciis* non debere participare de communibus servitiis prelatorum promovendorum propter eorum absentiam. Ei adhuc remanserunt partecipantes Cardinales XIX usque ad tres menses sequentes, quibus fuerunt expectati. (Ibid. pag. 385.)
 
 ## Doc. 32.
 
@@ -320,7 +320,7 @@ Gregorius, etc. Universis et singulis subditis et vassallis ac aliis quibuscunqu
 
 et monemus, vobis nihilominus et vestrum cuilibet per apostolica scripta mandantes, quatenus dilectis filiis Antonio de Rachanato, Ordinis Silvestrinorum professo, et Marino de Monte monacho priori prioratus Chastanei de Amandula Firmane diocesis eiusdem episcopi Vicariis et Procuratoribus, et aliis quos in futurum in suos Vicarios duxerit deputandos, et ipsorum cuilibet in hiis que ad ius, iustitiam et iurisdictiones, tam spirituales quam temporales, honoremque, statum et commodum dicti episcopi et eiusdem Firmane Ecclesie spectat, aut ea concernere dignoscuntur, de consuetudine vel de iure per effectum operis efficaciter intendatis, et suis salutaribus monitis et mandatis parere tamquam benedictionis filii studeatis, eisdem Episcopo et Vicariis pro nostra et Apostolice Sedis reverentia opportunis presidiis, consiliis, auxiliis et favoribus assistentes, agendo taliter in premissis, quod vestra possit exinde devotio apud nos et dictam Sedem merito commendari. Datum Gaiete, VIII Kal. Iunii pontificatus nostri anno sexto.
 
-Iohannes de monte Pulliciano de curia f. de Madio (Ibid. Regest. Greg. XII cit.)
+Iohannes de monte Pulliciano de curia f. de Madio (Ibid. *Regest. Greg. XII* cit.)
 
 ## Doc. 33.
 
@@ -328,7 +328,7 @@ Iohannes de monte Pulliciano de curia f. de Madio (Ibid. Regest. Greg. XII cit.)
 
 Gregorius, etc. Ven. fratri Iohanni Episcopo Firmano, salutem. Votis tuis libenter annuimus, hiis precipue que tue mentis pacem respiciant et salutem. Hinc est, quod nos, tuis supplicationibus inclinati, ut dilectum filium fratrem Nicolaum de Utino, Praedicatorum expresse professum, et unum alium fratrem Minorum Ordinum, quem duxeris eligendum, volentes tamen in tuos possis Cappellanos accipere et tenere, ipsisque ut stare ad dictum tuum Cappellanatus officium usque ad tuum et eorum beneplacitum libere et licite valeant, constitutionibus apostolicis et dictorum Ordinum statutis ac omnibus privilegiis, auctoritate apostolica, vel quavis alia eisdem concessis, etiam si de eis expresse ac de verbo ad verbum mentio specialis in hiis nostris litteris esset habenda, vel aliis in contrarium facientibus non obstantibus quibuscumque, eadem auctoritate tenore presentium plenam concedimus facultatem. Dat. Gaiete, II. Id. Iulii, Pontificatus nostri Anno Sexto.
 
-M. de Pisis Gradis de mandato Domini nostri pape A. Cricquetr (Ex Arch. Vat. Regest. Greg. cit. tom. III, fol. 22).
+M. de Pisis Gradis de mandato Domini nostri pape A. Cricquetr (Ex Arch. Vat. *Regest. Greg. cit*. tom. III, fol. 22).
 
 ## Doc. 34.
 
@@ -340,7 +340,7 @@ Reverende in Christo Pater Consiliarie, et venerabiles viri oratores et fideles 
 
 Datum in Castro novo Neapolis sub parvo nostro sigillo, die 6 Februarii, 7ᵉ indictionis anno Domini 1414. Ladislaus rex manu propria.
 
-(Ughelli, Ital. Sac. tom. VIII, pag. 159).
+(Ughelli, *Ital. Sac*. tom. VIII, pag. 159).
 
 ## Doc. 35.
 
@@ -352,7 +352,7 @@ Die XVI Decembris Reverendissimus Dominus de Saluciis recessit de Constantia. Ib
 
 Die 28 Ianuarii, 1419. Reverendissimus Dominus Amedeus Cardinalis Saluciarum, Clementis VII Antipape creatura, animam suam reddidit Creatori.
 
-(Ex Arch. Vat. Massarell. cit. loc. cit.).
+(Ex Arch. Vat. *Massarell*. cit. loc. cit.).
 
 ## Doc. 36.
 
@@ -362,7 +362,7 @@ Ambaxiatores domini Anglorum Regis, etc. R. D. P. Robertus Episcopus Saresburien
 
 Martinus Carissimo in Christo filio Henrico Anglie Regi Illustri, salutem. Cum iam nobis serenitas tua scripsisset super provisione Saresburiensis ecclesie, tunc pastoris solatio destitute, non voluimus, tue sublimitatis intuitu, electionem aliquam contrariam acceptare; sed desiderantes semper ea facere que tue Regie celsitudini grata forent, eidem Ecclesie nuper providemus de persona dilecti filii Roberti Electi Saresburiensis consanguinei tui, qui nobis extitit per tuas literas commendatus. Et quoniam a plurimis fidedignis accepimus, eumdem, etate juvenem, moribus senem esse et sue nobilitatis excellentiam virtutibus superare, aggregavimus eum libenter consortio Episcoporum Regni Anglie, sperantes in Domino quod Ecclesia bonum fructum de ipsius persona recipiet, quem et nos semper, quia tibi sanguine iunctus est et quia propriis meritis dignus erit, studebimus exaltare in Ecclesia Dei. Datum. . .
 
-(Ex Arch. Vat. Nicol. V, Mart. V, Eugen. IV Brevib. Vol. 6, pag. 117.)
+(Ex Arch. Vat. *Nicol*. V, *Mart*. V, *Eugen*. IV *Brevib*. Vol. 6, pag. 117.)
 
 <!-- p. XLVIII (0054) -->
 
@@ -372,7 +372,7 @@ Martinus Carissimo in Christo filio Henrico Anglie Regi Illustri, salutem. Cum i
 
 Martinus, etc. Venerabilibus fratribus Archiepiscopis et Episcopis salutem, etc. Cum venerabilis frater noster Ioannes Episcopus Firmanus ad provinciam nostram Marchie Anconitane, pro nonnullis nostris et Ecclesie Romane negotiis, auctore Domino, habeat presentialiter se transferre, et ad nostram presentiam Altissimo concedente, redire; Nos cupientes eumdem Episcopum cum eius Comitiva equitum et peditum, salmis, valisiis, navigiis, turribus, arnesibus, animalibus, rebus et bonis aliis, tam per mare et flumina quam per terram, passus et pontes et loca queque, in eundo, stando et redeundo, et ubique, in here et personis plena securitate gaudere, universitatem vestram et vestrum singulos, presentium tenore requirimus et hortamur in Domino, subditis vero nostris districte precipiendo mandamus, quatenus pro nostra et Apostolice Sedis reverentia prefatum Episcopum cum comitiva salmis et valisiis, navigiis, turribus, arnesibus, animalibus, rebus et bonis huiusmodi per quecumque vestram et nostram provincias, partes, civitates terras, castra, territoria ac passus pontes, et loca quecumque, in eundo, stando et redeundo, quoties contigerit transire, stare et redire, in here et personis secure et libere permittatis, ac ei de recepta scorta libero salvoque conductu et omni grata tractatione, absque solutione alicuius datii, pedagii, theolonii, angarii, perangarii, fundinavis, gabelle, seu alterius cuiuscumque oneris realis, personalis vel mixti, iudicti vel indicendi, taliter et tam liberaliter providere curetis, quod vestra apud nos devotio possit non immerito commendari, presentibus post sex menses a data presentium computandos minime valituris. Dat. Gebennis, Kal. Augusti, Pontificatus nostri. Anno primo.
 
-(Ex Archiv. Vat. Reges. Mart. V, vol. 352, fol. 147.)
+(Ex Archiv. Vat. *Reges. Mart. V*, vol. 352, fol. 147.)
 
 ## Doc. 38.
 
@@ -380,4 +380,4 @@ Martinus, etc. Venerabilibus fratribus Archiepiscopis et Episcopis salutem, etc.
 
 Anno MCCCCXIX. Ultima Ianuarii Mantue anno et die suprascriptis Reverendus Pater Dominus Ioannes Episcopus Fanensis pro parte sui communis servitii solvit florenos Camere LXXV et pro parte sui minuti flor. III S. XX d. VI. Fuit promotus Constantie XVIII Kal. Ianuar., Domini Martini pape V anno primo. Fuerunt in eius promotione Cardinales XXII, videlicet. Sequuntur Cardinalium nomina.
 
-(Ex Arch. Vat. Ioann. XXIII et Mart. V. Divis. ab an. 1413 ad an. 1420, tom. 603, fol. 78.)
+(Ex Arch. Vat. *Ioann*. XXIII *et Mart*. V. Divis. ab an. 1413 ad an. 1420, tom. 603, fol. 78.)

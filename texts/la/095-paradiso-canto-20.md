@@ -533,7 +533,7 @@ Il domma della necessità della fede per conseguir salute, cioè per toccare il 
 . . . . . . . . . . . . . che 'l mondo\
 Veder non può della divina grazia,
 
-e di cui nè anche in cielo la nostra vista potrà raggiungere il fondo, come già aveva scritto Agostino: « Attingere aliquantulum mente Deum, magna beatitudo est; comprehendere autem, omnino impossibile. » (Serm. XXXVII De verb. Dom.).
+e di cui nè anche in cielo la nostra vista potrà raggiungere il fondo, come già aveva scritto Agostino: « Attingere aliquantulum mente Deum, magna beatitudo est; comprehendere autem, omnino impossibile. » (*Serm*. XXXVII De verb. Dom.).
 
 Certo è che chi entri un poco in sè stesso, di leggeri s'accorge che noi e tutte le cose create moviamo ad un segno nascosto al nostro intelletto; e chi pensi che il fine è oggetto della mente, che dalla volontà si deve conseguire per via di amore, non tarderà a convincersi, che tal fine, qualunque esso sia, deve essere fatto palese al nostro intelletto insieme ai mezzi richiesti a pervenirvi: altrimenti il fine non sarebbe più un fine morale, un fine supremo, nè quindi un fine assoluto, e termine dell'universo sarebbe, non già il vero conosciuto, ammirato ed amato, ma un abisso tenebroso, a cui ciecamente la natura sarebbe portata, e a cui soggiacerebbe lo stesso pensiero: al che la mente nostra ripugna e, a solo immaginarlo, il cuore si sente rabbrividire.
 

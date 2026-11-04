@@ -512,9 +512,7 @@ Demum nota, quod iste homo antiquus figurat decursum mundi, qui tunc incepit sci
 
 fuit etas aurea et caput. Demum in peccato Ade incepit etas argentea; et ecce scissuram statue, ubi incipiunt lacryme; et sic postea procedit. Modo ille lacryme descendentes a pectore et brachiis et ventre, postea per tybias descendunt ad Infernum, idest ad miserias Inferni moralis, idest hominis peccatoris et vitiosi; et iste lacryme efficiunt Stygem, idest tristitiam, postea Acherontam, idest mundanam concupiscentiam: vel dicitur sine salute; ab a, quod est sine, et *core*, quod est salve, idest sine salute. Demum faciunt ille lacryme Flegetontam, idest penas intollerabiles. Demum faciunt Cochitum, idest summum frigus, et significat statum dampnatorum, qui sunt frigidissimi, sine aliquo calore caritatis, quia ignis divinus totaliter eos abiecit. Et sic describuntur flumina infernalia. Ille antiquus vertit renes versus Orientem, quia in Oriente primo fuit monarchia; faciem autem versus Romam, ad quam pervenit summa monarchia.
 
-*Et ego illi*, idest dixi magistro: *Si presens rigagnum*: hec est quarta pars capituli, in qua movet auctor duo dubia doctori suo, dicens: Si presens rigagnum sic derivat a mundo nostro, quare apparet nobis ad istud vivagnum?
-
-idest passagium? vel ad istam scaturitionem?
+*Et ego illi*, idest dixi magistro: *Si presens rigagnum*: hec est quarta pars capituli, in qua movet auctor duo dubia doctori suo, dicens: Si presens rigagnum sic derivat a mundo nostro, quare apparet nobis ad istud vivagnum? idest passagium? vel ad istam scaturitionem?
 
 Et ipse michi, idest magister respondidit: Tu scis quod locus est tondus, idest rotundus; *e tutto*, idest, esto quod tu veneris multum plus ad sinistram, deorsum descendendo ad fundum, non es adhuc per totum circulum *volto*, idest versus; idest, tu adhuc non circuisti totum (ista est responsio); ideo non vidisti adhuc sic istum rivum; sed venisti ad sinistram.
 
@@ -536,7 +534,7 @@ Già era stato avvertito da un valente ingegno con le parole seguenti: « A inte
 
 « A questo nobile fine in tutto il trattato della Divina Commedia, e nelle altre sue opere, adopera l'Alighieri ogni argomento, sì dell'arte come della scienza, onde provare che l'ordine di tutte le cose, tanto negli universali come ne' particolari, era consonante alla rivelazione dell'eterno vero.
 
-« Per lo stesso fine, nel suo Poema, ad ogni sacro esempio ivi ricordato, allegò a testimone di concordia altro esempio di storia come verità, o di favole come sua imagine. » (Della dottrina che si asconde nell'ottavo e nono canto della Divina Commedia di Dante Alighieri. Esposizione nuova di MICHELANGIOLO CAETANI DUCA DI SERMONETA. Roma, tipografia Menicanti, 1852).
+« Per lo stesso fine, nel suo Poema, ad ogni sacro esempio ivi ricordato, allegò a testimone di concordia altro esempio di storia come verità, o di favole come sua imagine. » (*Della dottrina che si asconde nell'ottavo e nono canto della Divina Commedia di Dante Alighieri. Esposizione nuova di* MICHELANGIOLO CAETANI DUCA DI SERMONETA. Roma, tipografia Menicanti, 1852).
 
 Diciamo dunque che, talmente comportandosi, mostrò piuttosto che l'errore, dovendo avere qualche ombra almeno di vero per sussistere, perciò nelle antiche leggende mitologiche, specie della Grecia immaginosa, dovevansene incontrare vestigi; difficili sì, ma non impossibili a discoprire per chi con filosofico acume si faceva ad investigarle per farle servire a rendere anch'esse testimonianza alla pienezza del vero, che si ha nella divina rivelazione e nel Cattolicismo. Del che ci lasciava esempio, benché non senza gravi mende, come sempre avviene in chi per il primo apra ampia via, il Vico, diligentissimo cercatore delle più antiche mitologie, nelle quali cercò indizi a ricostruire la storia del genere umano.
 

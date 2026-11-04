@@ -526,7 +526,9 @@ Ab ista parte cum virtute descendit, que subrupit aliis, idest hominibus, memori
 
 Hinc Lethes, sic ab alio latere Eunoe, vocatur; et non operatur, si hinc et inde prius non est gustatus, scilicet ipse fons. Omnes alios sapores iste est desuper, idest omnes alios excedit.
 
-*Et ponamus, quod satis posset*. *Et avegna ch'assai*: ista est quarta pars huius capituli, in qua auctor subiungit sententiam notabilem, ad confirmationem predictorum, dicens: Et ponamus (et dicit textus *et avegnat*, idest et ponamus) quod satis posset esse satiata sitis tua, idest appetitus tuus, quamquam ego ulterius non discooperiam, dabo tibi unum correlarium (dicitur autem correlarium quasi parva corona: correlarium est conclusio perfecta, sequens ex dictis aliquibus, que conclusio est quasi una corona; quasi dicens: Dictis conclusionibus multis, dabitur tibi una sequens ex dictis, que erit quasi corona omnium dictorum. Correlarium est tale: Omnes, qui descripserunt etatem auream, idest perfectam, sicut aurum, etc.) adhuc pro gratia; nec credo quod meum dictum sit tibi minus carum, si ultra promissionem, idest tibi per me factam, tecum spatiatur, idest ampliatur.
+*Et ponamus, quod satis posset*. *Et avegna ch'assai*:
+
+ista est quarta pars huius capituli, in qua auctor subiungit sententiam notabilem, ad confirmationem predictorum, dicens: Et ponamus (et dicit textus *et avegnat*, idest et ponamus) quod satis posset esse satiata sitis tua, idest appetitus tuus, quamquam ego ulterius non discooperiam, dabo tibi unum correlarium (dicitur autem correlarium quasi parva corona: correlarium est conclusio perfecta, sequens ex dictis aliquibus, que conclusio est quasi una corona; quasi dicens: Dictis conclusionibus multis, dabitur tibi una sequens ex dictis, que erit quasi corona omnium dictorum. Correlarium est tale: Omnes, qui descripserunt etatem auream, idest perfectam, sicut aurum, etc.) adhuc pro gratia; nec credo quod meum dictum sit tibi minus carum, si ultra promissionem, idest tibi per me factam, tecum spatiatur, idest ampliatur.
 
 Illi qui antiquitus poetarunt etatem anri et eius statum felicem in Parnaso, monte in Gretia sic dicto, istum locum signarunt.
 

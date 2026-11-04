@@ -538,7 +538,7 @@ Vides excelsum ammodo et largitatem eterni valoris, idest Dei, postquam tot spec
 
 La sublime contemplazione dell'ordine intellettuale, che splendendo s'impersona, e le miriadi di sfavillanti ardori ne' quali si apre l'eterno amore e che specchiano l'intero universo, innalzano il Poeta a' misteri della grazia, che, da Dio amorosamente infusa nella ragionevole creatura, le è principio di merito, anzi ne pone e feconda la vita; e lassù in quelle altezze egli vede la nobiltà della predicazione nel suo più alto significato, che è di manifestare al mondo delle intelligenze l'ordine morale, che deve unirle in uno stesso pensiero, il quale, incentrandosi in Dio e da lui raggiando, le accoglie in una sola famiglia. Nobile, a dir vero, è sempre il ministero della parola, ordinata ad incarnare il vero, di cui addiviene rappresentanza, e ne apre all'intelletto i tesori; e più o meno ha dignità ed importanza, secondo i vari gradi ne' quali il vero la informa, fino al grado altissimo e supremo, in cui le si communica nella sua soprannaturale entità, cosicchè non è più parola umana, ma con suono umano diventa parola divina. Per toccare a questa ineffabile altezza, oltre il riceverne da Dio la vocazione ed il mandato, bisogna che, in chi a tanto officio viene eletto, la sapienza si converta in santità, e che egli imiti gli angioli buoni, in sè modesto come
 
-. . . . . . . furon (essi) modesti\
+. . . . . . . furon (*essi*) modesti\
 A riconoscer sè della bontate\
 Che gli avea fatti a tanto intender presti.\
 Perchè le viste lor furo esaltate\

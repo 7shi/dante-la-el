@@ -575,7 +575,7 @@ Questo rompersi de' cancelli dentro de' quali l'anima nostra è ora prigione, sa
 Finalmente, prima di chiudere, noteremo una sentenza che si agita con libera disputazione tra'teologi, e che Dante, come in molte altre sentenze capitali, intende nel senso della Scuola Francescana. L'aprirsi della mente umana alla visione beatifica sarà un fatto, per fermo, sostanzialmente divino, perchè, essendo anch'essa la mente, parte dell'universo, non può trascender sè stessa ad abbracciare il tutto. Pure, ammesso ciò, si disputa, se tal visione si opererà secondo la legge, che pare a molti essenziale all'umano pensiero, e che certamente è universale, cioè il ripiegamento del pensiero sopra sè stesso, affermando e quasi appropriandosi la cosa veduta col verbo interiore. Ai Tomisti sa d'impossibile, perchè il verbo umano, parte e finito, non può esprimere il tutto e l'infinito: a'seguaci invece del Serafico Dottore pare altrimenti, appoggiandosi essi sulla forza dell'amore, il quale, pur versandosi tutto nell'oggetto amato, ne vuole il possesso con atto vitale, e quindi l'afferma, con affermazione non interamente propria, ma sua e dell'ineffabile virtù divina. Il Poeta l'accenna nella terzina seguente:
 
 Nel ciel che più della sua luce prende\
-Fu'io, e vidi cose che ridire\
+Fu'io, e vidi cose che *ridire*\
 Nè sa nè può qual di lassù discende.
 
-Nella parola ridire, la quale importa aver detto prima, sta il concetto accennato della scuola di San Bonaventura.
+Nella parola *ridire*, la quale importa *aver detto prima*, sta il concetto accennato della scuola di San Bonaventura.

@@ -551,7 +551,7 @@ E a sua proporzione eran l'altre ossa.
 
 Poi, con sorpresa non minore, ne comincia a sentire lo strano linguaggio:
 
-Rafel mai amech zabi almi:
+*Rafel mai amech zabi almi*:
 
 parole, forse, tratte da più lingue d'Oriente, dove avvenne la confusione, di cui colpiva Iddio i costruttori della torre Babelica, e cominciò la formazione delle lingue nuove. E Virgilio gli addita allora colui, che forse aveva proposto agli altri il superbo pensiero, benchè di questo la Scrittura non faccia parola:
 

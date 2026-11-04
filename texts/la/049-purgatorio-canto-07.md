@@ -514,7 +514,7 @@ Ille [qui] magis infra istos atterratur, idest magis stat bassus ad terram, resp
 
 # La grazia
 
-In questo canto il Poeta, da profondo teologo com'era (notava già l'insigne Agostiniano Gian Lorenzo Berti, Della Dottrina teologica contenuta nella Divina Commedia, etc., Venezia, 1757), tocca l'argomento della grazia in relazione alla ragione e alla volontà. Che cos'è la grazia? La grazia, rispetto alla nostra ragione, è lume che scende dall'alto, a farle conoscere quello a cui da sè non potrebbe mai pervenire, in ordine al suo ultimo fine; e rispetto alla volontà, è forza che scende dall'alto, a farla capace di operare per conseguirlo. Senza di essa l'uomo è impotente a credere e a operare con merito di eterna vita. Avendo Virgilio chiesto a Sordello d'esser da lui menato Là dove 'l Purgatorio ha dritto inizio,
+In questo canto il Poeta, da profondo teologo com'era (notava già l'insigne Agostiniano Gian Lorenzo *Berti, Della Dottrina teologica contenuta nella Divina Commedia*, etc., Venezia, 1757), tocca l'argomento della grazia in relazione alla ragione e alla volontà. Che cos'è la grazia? La grazia, rispetto alla nostra ragione, è lume che scende dall'alto, a farle conoscere quello a cui da sè non potrebbe mai pervenire, in ordine al suo ultimo fine; e rispetto alla volontà, è forza che scende dall'alto, a farla capace di operare per conseguirlo. Senza di essa l'uomo è impotente a credere e a operare con merito di eterna vita. Avendo Virgilio chiesto a Sordello d'esser da lui menato Là dove 'l Purgatorio ha dritto inizio,
 
 questi gli risponde come segue:\
 ..... Luogo certo non c'è posto:\

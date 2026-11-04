@@ -136,7 +136,9 @@ Modo in introytu stat iudex Inferni, qui habet cognoscere de peccatis et culpis 
 
 *Tunc dux meus*: idest ratio naturalis dixit ei, scilicet Mynoi: Quare clamas? Sic est voluntas ubi est potentia, idest ad faciendum quidquid voluntas vult; nec plus petas. Ratio naturalis dicit: Concessum [est] isti per infusionem gratie, quod habeat humilitatem ingenii et gratiam Dei. *Non impedias suum fatale ire*: idest, per influentiam celi. Iste passus sepe exponitur; fatale, idest Deo; quod Deus vult, non est petenda causa, nec ratio.
 
-*Or s'incomenza*. *Or, nunc, incipiunt dolentes note*: ista est secunda pars huius capituli, etc.
+*Or s'incomenza*. *Or, nunc, incipiunt dolentes note*:
+
+ista est secunda pars huius capituli, etc.
 
 <!-- p. 78 (0132) -->
 
@@ -438,7 +440,9 @@ Sciendum quod unus fluvius est in Ytalia in partibus Lombardie, qui vocatur Padu
 
 *Amor, qui cordi nobili*, etc.: nunc assignat causam, que conduxit hos duos spiritus huc ad hanc penam. Sed notandum hic, quod dicit auctor Franciscam sic dixisse; scilicet amor est talis condicionis, quod subito inducit amatum ad reamandum amantem, ponendo ipsum semper reciprocum, ita quod subito amatus amat amantem: et sic isto modo sequeretur quod in potestate unius esset amari ab alio; quia quam cito amaret, tam cito amaretur. Dicendum quod, licet Aristotiles dicat amorem fore reciprocum, et ita dicunt quasi omnes, tamen non sequitur hoc semper evenire, quod amata persona subito reamet amantem; sed maxime de amore illicito hoc non semper evenit; quia si semper eveniret, tunc esset in potestate istius vel illius hominis, inducere istam vel aliam mulierem ad adulterium et fornicationem; licet hoc accidat sepe. Sed potest dici, et bene, quod bonum est obiectum voluntatis, quia voluntas nihil vult nisi bonum vel apparens bonum, ut vult Aristotiles primo Ethicorum; tamen sicut bonum est triplex, ita amor est triplex. Est enim bonum honestum, bonum utile, et bonum delectabile: honestum et virtuosum idem sunt. Dici igitur potest ad presens, quod amor, fundatus in bono honesto, idest virtuoso, est omnino et semper reciprocus; quia subito amatus, sciens se amari, quia non amatur nisi propter honestum, subito reamat. De bono utili, idest de amore fundato super bono utili, non oportet quod semper amatus reamet. Idem dicendum est de amore fundato super delectabili; nam videmus quod sepe multe mulieres amate sunt a multis, quos ipse nunquam amaverunt. Hec tamen Francisca vult se excusare propter naturam amoris: Quia iste, qui mecum est ita adstrictus, me amavit, ideo oportuit me ipsum reamare. Ideo dicit: Amor, qui cordi nobili statim assentit, cepit istum, scilicet Paulum, qui mecum stat ita adstrictus, amplexans me.
 
-*De pulchra mea persona, que a me fuit ablata, et modus adhuc me offendit*: quia fui interfecta stupro. *Amor, qui nullo amato parcit*: quasi vellet dicere: Iste me amabat; ideo necesse fuit quod ego amarem ipsum. Est
+*De pulchra mea persona, que a me fuit ablata, et modus adhuc me offendit*: quia fui interfecta stupro.
+
+*Amor, qui nullo amato parcit*: quasi vellet dicere: Iste me amabat; ideo necesse fuit quod ego amarem ipsum. Est
 
 <!-- p. 83 (0137) -->
 

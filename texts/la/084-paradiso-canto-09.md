@@ -526,7 +526,7 @@ Quando una è ferma, e l'altra va e riede;
 
 così
 
-Vid'egli in essa luce altre lucerne\
+Vid'*egli* in essa luce altre lucerne\
 Muoversi in giro più e men correnti,\
 Al modo... di lor viste eterne;
 
@@ -536,12 +536,12 @@ e il movimento all'astro era dato da forze, non che solo nobilissime, come a sì
 . . . . . a noi venir, lasciando il giro\
 Pria cominciato in gli alti Serafini.\
 E dentro a quei che più 'nnanzi appariro,\
-Sonava Osanna, sì che unqua poi\
+Sonava *Osanna*, sì che unqua poi\
 Di riudir non fui senza disiro.
 
 Così l'Alighieri, nella luce del Cristianesimo, tornava poeticamente a quella stella il vero suo concetto, banditone il pagano; e senza dubbio in quel momento egli pensò a Colei, a significar la quale con un incanto che rapisce, e che tanto corrisponde alla sua eccelsa e divina virtù e alla missione che misticamente compie in conforto di noi naviganti nel mar tenebroso di questa vita, la Chiesa, con quella sapienza che le è propria, tolse dalla suddetta stella il vocabolo, cantando:
 
-Stella matutina, ora pro nobis.
+*Stella matutina, ora pro nobis*.
 
 Di tal modo questo universo, che negli aberramenti pagani era addivenuto un caos tenebroso di ibride favole, di sozze orgie, di strane contraddizioni, in somma un disordine di morte; nella luce del Cristianesimo riacquistava tutte le originarie significazioni che ebbe nel concetto di Dio creante, e tornava a mostrare splendidissime tutte e singole le sue attinenze col fine ultimo della creazione.
 
@@ -563,4 +563,4 @@ E dicean ch'ei sedette in grembo a Dido.
 
 Leggasi nel Vangelo la discesa di Gabriele in Nazaret, ed il colloquio avvenuto fra lui e la Vergine, e ci si dirà se l'antitesi non è maravigliosa. Impossibile di trovare un altro dramma di luce più eterea e di effetto più divino!
 
-Nè si potrebbe facilmente dire la cara e profonda commozione, che la vista di quest'astro, così santificato nel Cristianesimo, desta ne' credenti la sera al cadere del crepuscolo, o nel mattino poco innanzi che spuntino i primi raggi dell'aurora. Rapiti in una visione sovrumana, che calma gli affanni, e invigorisce potentemente lo spirito alle inevitabili battaglie della vita, ci sentiamo uscir dalle labbra la dolce preghiera: Stella della sera, Stella del mattino, prega Dio per noi: Stella matutina, ora pro nobis! A questa cara preghiera di fede e di amore s'informava una delle più sublimi inspirazioni di Giorgio Byron, mentre una sera stava contemplando il mare dalla pineta di Ravenna!
+Nè si potrebbe facilmente dire la cara e profonda commozione, che la vista di quest'astro, così santificato nel Cristianesimo, desta ne' credenti la sera al cadere del crepuscolo, o nel mattino poco innanzi che spuntino i primi raggi dell'aurora. Rapiti in una visione sovrumana, che calma gli affanni, e invigorisce potentemente lo spirito alle inevitabili battaglie della vita, ci sentiamo uscir dalle labbra la dolce preghiera: Stella della sera, Stella del mattino, prega Dio per noi: *Stella matutina, ora pro nobis*! A questa cara preghiera di fede e di amore s'informava una delle più sublimi inspirazioni di Giorgio Byron, mentre una sera stava contemplando il mare dalla pineta di Ravenna!

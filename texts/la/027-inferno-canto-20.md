@@ -410,7 +410,7 @@ Ideo te *assenno*, idest moneo, quod si unquam tu audis originari meam terram al
 
 (1) dixi a Virgilio. — (2) ragionamenti. — (3) non accenderebbero mia fede. — (4) altro augure. — (5) Ysola. — (6) de la nave imperiale. — (7) in II Eneydos. — (8) al. inteso.
 
-*Ed io*: *Maiestro*. *Et ego*: *Magister, tua ratiocinia michi sunt ita certa, et apprehendunt ita meam fidem*, *quod alia michi essent carbones extincti*; idest nihil essent respectu tuorum.
+*Ed io*: *Maiestro*. *Et ego*: *Magister, tua ratiocinia michi sunt ita certa, et apprehendunt ita meam fidem, quod alia michi essent carbones extincti*; idest nihil essent respectu tuorum.
 
 *Sed dicas michi, de gente, que procedit, si tu vides aliquem dignum nota, quia solum ad hoc mens mea refertur*.
 

@@ -2,7 +2,7 @@
 
 # Capituli Duodecimi Summarium
 
-In isto duodecimo capitulo, quod incipit: *De pari*, *sice pariter, sicut boves*, auctor prosequitur adhuc de peccato superbie, ponens multas hystorias, hic ymaginatas, in marmore super pavimento, per quod habebant transire; que hystorie sunt ad magnum exemplum et ad magnum documentum, ut se humilient homines et deponant omnem superbiam. Nam iste hystorie clare ostendunt, quis effectus sequatur ex superbia, et quomodo deprimuntur superbi et humiliantur a divina iustitia atque iustifica equitate. Nota quod hystorie humilium erant ymaginate in latere vie, per quam ibant; sed hystorie superborum sunt ymaginate in pavimento, super quod pedes ponuntur, et stant sepe sicut stant sepulchra aliquorum in terra, super que sepulchra sunt designata arma sepultorum et sua gesta mira. Et hoc est ad designandum, quod non humiles sed superbi a divina iustitia suppeditantur et sub pedibus collocantur. Hystorie videantur in Commento. Nam prima hystoria est de Lucifero, de celo expulso et in baratrum fulminato, etc. Demum, in eodem capitulo, auctor ponit quomodo unus angelus, ventilando alas in fronte eius, purgavit eum a peccato superbie. Et tunc fuit cantatum: Beati pauperes spiritu. Hoc scribitur Matthei quinto capitulo. Idest: Beati qui sunt humiles, nec habent spiritum arrogantie, vanaglorie, aut superbie. Et sic angelus conduxit Virgilium et auctorem de isto primo circulo inferiori, in quo punitur peccatum superbie, ad supra, scilicet in circulum secundum superiorem, in quo punitur peccatum invidie. Et tunc auctor, sentiens se leviorem solito, dixit Virgilio: De qua re sum ego alleviatus? quia sentio me leviorem. Cui dixit Virgilius: Fac quod radantur P sex, que remanserunt in fronte tua, sicut iam unum abrasum est, et tunc eris levissimus, etc.; idest liber ab omnibus peccatis.
+In isto duodecimo capitulo, quod incipit: *De pari, sice pariter, sicut boves*, auctor prosequitur adhuc de peccato superbie, ponens multas hystorias, hic ymaginatas, in marmore super pavimento, per quod habebant transire; que hystorie sunt ad magnum exemplum et ad magnum documentum, ut se humilient homines et deponant omnem superbiam. Nam iste hystorie clare ostendunt, quis effectus sequatur ex superbia, et quomodo deprimuntur superbi et humiliantur a divina iustitia atque iustifica equitate. Nota quod hystorie humilium erant ymaginate in latere vie, per quam ibant; sed hystorie superborum sunt ymaginate in pavimento, super quod pedes ponuntur, et stant sepe sicut stant sepulchra aliquorum in terra, super que sepulchra sunt designata arma sepultorum et sua gesta mira. Et hoc est ad designandum, quod non humiles sed superbi a divina iustitia suppeditantur et sub pedibus collocantur. Hystorie videantur in Commento. Nam prima hystoria est de Lucifero, de celo expulso et in baratrum fulminato, etc. Demum, in eodem capitulo, auctor ponit quomodo unus angelus, ventilando alas in fronte eius, purgavit eum a peccato superbie. Et tunc fuit cantatum: Beati pauperes spiritu. Hoc scribitur Matthei quinto capitulo. Idest: Beati qui sunt humiles, nec habent spiritum arrogantie, vanaglorie, aut superbie. Et sic angelus conduxit Virgilium et auctorem de isto primo circulo inferiori, in quo punitur peccatum superbie, ad supra, scilicet in circulum secundum superiorem, in quo punitur peccatum invidie. Et tunc auctor, sentiens se leviorem solito, dixit Virgilio: De qua re sum ego alleviatus? quia sentio me leviorem. Cui dixit Virgilius: Fac quod radantur P sex, que remanserunt in fronte tua, sicut iam unum abrasum est, et tunc eris levissimus, etc.; idest liber ab omnibus peccatis.
 
 <!-- p. [556] (0610) -->
 
@@ -519,9 +519,9 @@ Agli esempi di umiltà posti in alto, e alle considerazioni morali sopra la purg
 Il Poeta
 
 • • • s'era mosso, e seguia volentieri\
-Del suo maestro i passi; e amendue\
+Del *suo* maestro i passi; e amendue\
 Già mostravan com'erano leggeri,\
-Quando ei gli disse: Volgi gli occhi in giue,\
+*Quando ei gli* disse: Volgi gli occhi in giue,\
 Buon ti sarà, per alleggiar la via,\
 Veder lo letto delle piante tue.
 
@@ -531,7 +531,7 @@ Come, perchè di lor memoria sia, Sovr'a' sepolti le tombe terragne Portan segna
 
 E primamente
 
-Vide colui, che fu nobil creato\
+*Vide* colui, che fu nobil creato\
 Più ch'altra creatura, giù dal cielo,\
 Folgoreggiando, scendere da un lato.
 

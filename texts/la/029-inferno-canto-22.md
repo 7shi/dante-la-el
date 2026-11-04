@@ -180,7 +180,7 @@ Lontra, ut dictum est superius, est animal aquaticum, est nigrum, porosum: ita s
 
 Ego sciebam iam omnium illorum nomina, scilicet demonum: ita eos notavi quando fuerunt electi, idest quando facta fuit monstra, et dati nobis in sodalitium. Quando se vocaverunt unus alterum, ego notavi nomina eorum; et postquam se vocaverunt, attendi qualiter, idest se vocabant.
 
-*O Rubicantes, fac quod tu ei immictas ungues in dorso, ita quod tu eum excories*; *clamabant omnes simul illi maledicti*. Rubicantes erat multum ardens ad predam. *Excories*: quia baractarii decoriant eos, qui ad eorum manus vadunt; idest depauperant. Solebat dicere Nero crudelibus ufficialibus suis: Fac cum illo, qui venit ad [te], quod excories eum, idest quod nihil ei dimictas.
+*O Rubicantes, fac quod tu ei immictas ungues in dorso, ita quod tu eum excories; clamabant omnes simul illi maledicti*. Rubicantes erat multum ardens ad predam. *Excories*: quia baractarii decoriant eos, qui ad eorum manus vadunt; idest depauperant. Solebat dicere Nero crudelibus ufficialibus suis: Fac cum illo, qui venit ad [te], quod excories eum, idest quod nihil ei dimictas.
 
 Et ego: Magister mi, facias, si potes, quod tu scias quis est ille infelix, *sciaguratus*, idest infortunatus, qui venit ad manus adversariorum suorum. *Si potes*: quasi dicat: Est ita dilaceratus, quod forte non poterit loqui, aut habere habilitatem loquendi.
 

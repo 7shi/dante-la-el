@@ -232,7 +232,7 @@ Satis eorum voces hoc declarant, quando veniunt sibi invicem oppositi ad duo pun
 
 Isti fuerunt clerici, qui non habent cooperimentum pilosum. Pilosum caput [non] habet papa cum cardinalibus, in quibus avaritia utebatur excellenter illo soperchio; idest habundavit. Papa, cardinales et prelati excedunt omnes alios in virtute avaritie. Quod tamen non deberet esse: quia illi, qui cum magnis laboribus acquirunt pecuniam et divitias, si essent amici [avaritie] non esset mirum; sed papa et prelati Ecclesie inveniunt divitias, etc. sine labore.
 
-*Tunc ego*: *O magister, inter istos tales deberem ego cognoscere quosdam, qui fuerunt immundi talibus de-*
+*Tunc ego*: *O magister, inter istos tales deberem ego cognoscere quosdam, qui fuerunt immundi talibus defectibus*:
 
 <!-- p. 102 (0156) -->
 
@@ -292,7 +292,7 @@ Isti fuerunt clerici, qui non habent cooperimentum pilosum. Pilosum caput [non] 
 &emsp;Quanta ignorantia est illa que vos offendit!\
 &emsp;Or volo quod tu meam sententiam capias:
 
-*fectibus*: idest, qui fuerunt involuti in hiis; idest, ego vellem facere mentionem de aliquo horum.
+idest, qui fuerunt involuti in hiis; idest, ego vellem facere mentionem de aliquo horum.
 
 *Et ipse michi*: *Vanas cogitationes adunas*: idest congregas; scelerata vitia eorum fecit ipsos turpes, et ad omnem cogitationem efficit eos nigros. Quasi dicat: Nolo quod facias memoriam de aliquo eorum, quia avaritia facit homines odiosos et obscuros, ubi largitas facit amabiles; idest, isti non merentur cognosci in eternum.
 
@@ -478,7 +478,7 @@ Nos transivimus circulum ad aliam ripam, idest ultra aliam ripam transivimus cir
 
 *Ruscello*: idest fluvius parvus.
 
-*Unam paludem facit, nomine Styge, iste tristis rivus*, *quando descendit ad pedes malignarum piagiarum grigiarum*: idest prope malignas et grigias [ripas] in hoc loco. *Piagge*: idest gradus, plagias.
+*Unam paludem facit, nomine Styge, iste tristis rivus, quando descendit ad pedes malignarum piagiarum grigiarum*: idest prope malignas et grigias [ripas] in hoc loco. *Piagge*: idest gradus, plagias.
 
 <!-- p. 106 (0160) -->
 
@@ -550,7 +550,9 @@ Et ego, qui cuncta intueri stabam attentus, vidi gentes fangosas in illo pantano
 
 Tunc bonus magister dixit: Fili, iam vides animas illorum, quos vicit ira; et adhuc volo quod tu pro certo credas, quod sub aqua est gens que suspirat et facit pullulare hanc aquam in summo, sicut oculus tibi indicat, ubi intuetur.
 
-*Ficti*: idest sepulti in limo: *dicunt*: *Tristes fuimus in aiere dulci, qui a sole letatur*, idest in sole gaudet, *ferendo ad intra accidiosum fumum*. *In aiere dulci*: idest, aiere temporali.
+*Ficti*: idest sepulti in limo: *dicunt*: *Tristes fuimus in aiere dulci, qui a sole letatur*, idest in sole gaudet, *ferendo ad intra accidiosum fumum*. *In aiere dulci*:
+
+idest, aiere temporali.
 
 *Or tristamur in bellecta nigra*. *Hunc ynnum sgorgogliabant in strozza, quem non possunt dicere verbis integris*: bellecta est quedam lubricitas, que fit in ceno balneato, maxime quando aliquis vadit super tale cenum balneatum. Sic vocatur Florentie talis lubricitas. *Sgorgoliabant*: idest non possunt bene proferre: quia accidiosi, quia iracundi, raro proferunt verba integra, sed quasi balbutiunt, ideo auctor, fingendo, ponit eos in luto fluxibili.
 
@@ -562,9 +564,9 @@ Sic, girando magnum circulum, intravimus inter ripam putridam et medium; tunc ad
 
 Nessuno de' principali dommi cattolici fu omesso dall'Alighieri nella sua Cantica immortale; e qui, in questo canto, tocca del peccato degli angioli: peccato, di cui pigliava immediata vendetta Michele, rovesciandoli dal cielo nell'abisso insieme al loro capo supremo, da cui erano stati sedotti. Questo fatto è una delle più solenni rivelazioni dell'antico e del nuovo Testamento, e l'inizio di tutte le teogonie e storie del mondo.
 
-« E segui una gran battaglia (scrive San Giovanni nella sua Apocalisse): Michele co' suoi angeli combatterono contro il Dragone, e il Dragone e gli angeli di lui combatterono: ma non la vinsero, nè vi fu più luogo per essi nel cielo. E fu gittato quel gran Dragone, quell'antico serpente, che Diavolo appellasi e Satana, il quale seduce la terra, e fu gittato per terra, e con lui furono gittati i suoi angeli (Apoc. XII, 7). » Gesù Cristo attesta il fatto stesso, dicendo: « Io vedeva Satana cadere dal cielo a guisa di folgore (Luc. X, 18). » Negandolo, ogni spiegazione di storia torna impossibile, e non rimangono che le aberrazioni del naturalismo e del panteismo.
+« E segui una gran battaglia (scrive San Giovanni nella sua Apocalisse): Michele co' suoi angeli combatterono contro il Dragone, e il Dragone e gli angeli di lui combatterono: ma non la vinsero, nè vi fu più luogo per essi nel cielo. E fu gittato quel gran Dragone, quell'antico serpente, che Diavolo appellasi e Satana, il quale seduce la terra, e fu gittato per terra, e con lui furono gittati i suoi angeli (*Apoc*. XII, 7). » Gesù Cristo attesta il fatto stesso, dicendo: « Io vedeva Satana cadere dal cielo a guisa di folgore (Luc. X, 18). » Negandolo, ogni spiegazione di storia torna impossibile, e non rimangono che le aberrazioni del naturalismo e del panteismo.
 
-L'Alighieri contrassegna quella colpa con una frase che ha del nuovo, e che ferma l'attenzione del lettore, chiamandolo superbo strupo. Volendo Pluto contrastargli il passo alla discesa, Virgilio si volge a quelle enfiate labbia, e gli dice:
+L'Alighieri contrassegna quella colpa con una frase che ha del nuovo, e che ferma l'attenzione del lettore, chiamandolo *superbo strupo*. Volendo Pluto contrastargli il passo alla discesa, Virgilio si volge a quelle *enfiate labbia*, e gli dice:
 
 . . . . . . Taci maledetto lupo,\
 Consuma dentro te con la tua rabbia:\
@@ -572,7 +574,7 @@ Non è senza cagion l'andare al cupo,\
 Vuolsi nell'alto, là dove Michele\
 Fe'la vendetta del superbo strupo.
 
-Perchè superbo strupo? Fra gli altri, tratto gia, da pari suo, questo punto il Padre Gianlorenzo Berti, di cui ben si conviene riferir le parole. « Volendoci trattener col pensiero (egli dice) in quel tenebroso tartareo regno, descritto da quel sovrumano, prodigiosissimo intelletto, agevol cosa sarebbe il discernere con quale accorgimento chiamasse nel canto settimo il peccato degli angioli rubelli superbo strupo, facendosi conoscere in due sole parole intendentissimo delle diverse opinioni de' Santi Padri e de' Teologi: dei quali chi penso fosse, quel peccato, superbia, come i Santi Atanasio, Cirillo, Agostino ed i Teologi seguaci di San Tommaso; chi s'immagino fosse impudicizia e carnale stupro, come Atenagora, Tertulliano e Lattanzio (alla quale opinione dette colorito poetico a' di nostri il Moore); e chi pretende riputar si debba una spirituale lussuria, come l'acutissimo Scoto, e l'instituita da lui fioritissima scuola: opinioni con quel superbo strupo giudiziosamente unite insieme e spiegate. » Così il Berti; e insieme con lui, aderisce alla spiegazione della scuola Francescana un moderno commentatore, mostrando largamente l'insussistenza delle altre.
+Perchè *superbo strupo*? Fra gli altri, tratto gia, da pari suo, questo punto il Padre Gianlorenzo Berti, di cui ben si conviene riferir le parole. « Volendoci trattener col pensiero (egli dice) in quel tenebroso tartareo regno, descritto da quel sovrumano, prodigiosissimo intelletto, agevol cosa sarebbe il discernere con quale accorgimento chiamasse nel canto settimo il peccato degli angioli rubelli *superbo strupo*, facendosi conoscere in due sole parole intendentissimo delle diverse opinioni de' Santi Padri e de' Teologi: dei quali chi penso fosse, quel peccato, superbia, come i Santi Atanasio, Cirillo, Agostino ed i Teologi seguaci di San Tommaso; chi s'immagino fosse impudicizia e carnale stupro, come Atenagora, Tertulliano e Lattanzio (alla quale opinione dette colorito poetico a' di nostri il Moore); e chi pretende riputar si debba una spirituale lussuria, come l'acutissimo Scoto, e l'instituita da lui fioritissima scuola: opinioni con quel *superbo strupo* giudiziosamente unite insieme e spiegate. » Così il Berti; e insieme con lui, aderisce alla spiegazione della scuola Francescana un moderno commentatore, mostrando largamente l'insussistenza delle altre.
 
 Assai acutamente coglieva la ragione per cui Dante, tra le diverse specie di lussuria, scelse quella di stupro a indicare la colpa degli angioli, il nostro Giovanni da Serravalle; perchè stupro (così egli) è violazione di verginità, e vergine era la creazione, come nel suo concetto, così nel fatto, prima che i traviati spiriti si levassero contro il loro Creatore. Essi con quella ribellione la dilacerarono. E perduta così la primigenia e originaria sua integrezza, maggiori laceramenti poi portò il comunicarsi che fece il fatale veleno della superbia all'uomo, traendolo alla sconsigliata disobbedienza del comando divino.
 
@@ -580,4 +582,4 @@ Assai acutamente coglieva la ragione per cui Dante, tra le diverse specie di lus
 
 Nè con ciò si vuol dire che il peccato, dapprima degli angioli e dipoi dell'uomo, scompigliasse e deturpasse la creazione per modo che più non fosse atta al fine a cui era diretta dal Creatore: che anzi quel deviamento gli serviva a far di mille tanti più risplendere l'infinita sua sapienza, unitamente alla sua potenza e bontà, elevando l'opera medesima ad una altezza che tocca l'infinito; vogliam dire la Redenzione. Per essa un nuovo e più sublime grado si aggiunse alla virtù, cioè il sacrifizio, il quale è la più alta rivelazione di Dio nel mondo, giungendo a render accetto, dolce e consolato, cioè buono e divino, lo stesso dolore, col rivolgerlo a Dio. Per l'opposto, nella prima colpa, e poi in tutte le colpe, fu cercato il piacere fuor di Dio, che divenne dolore, fiero e disperato dolore.
 
-La parola strupo, in quanto accenna all'originale integrezza della creazione tosto che uscì dalle mani di Dio, ha significato profondo, e ci mostra in quella ribellione un delitto esecrabile.
+La parola *strupo*, in quanto accenna all'originale integrezza della creazione tosto che uscì dalle mani di Dio, ha significato profondo, e ci mostra in quella ribellione un delitto esecrabile.

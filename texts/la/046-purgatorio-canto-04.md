@@ -24,7 +24,9 @@ In isto quarto capitulo, quod incipit: *Quando per delectacionem, rel per dolore
 &emsp;Et istud est contra illum errorem, qui credit\
 &emsp;Quod una anima super aliam accendatur.
 
-*Quando per delectationes*. *Quando per delectatione*: hoc est quartum capitulum huius Purgatorii, quod dividitur in quatuor partes. In quarum prima continuat dicta dicendis, ponendo dispositionem suam, quam tunc habebat. In secunda parte, que incipit ibi:
+*Quando per delectationes*. *Quando per delectatione*:
+
+hoc est quartum capitulum huius Purgatorii, quod dividitur in quatuor partes. In quarum prima continuat dicta dicendis, ponendo dispositionem suam, quam tunc habebat. In secunda parte, que incipit ibi:
 
 Et ego non perpenderam; Et io non m'era accorto, tractat de via et de loco, unde oportebat eos transire. In tertia parte, que incipit ibi:
 

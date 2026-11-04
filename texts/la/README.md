@@ -4,7 +4,7 @@
 
 These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/la/) by [`convert_la.py`](../convert_la.py); see [`ocr/la/INDEX.md`](../../ocr/la/INDEX.md) for the volume and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/la/` and run `uv run texts/convert_la.py`.
 
-The whole volume is converted (scans `0007`–`1290`). Its transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits).
+The whole volume is converted (scans `0007`–`1290`). Its transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked, the verse read again from the images, the italics marked; text that both OCRs misread alike may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits).
 
 ## The Italian text
 
@@ -25,7 +25,8 @@ So the Italian differs widely from modern editions. In the first three cantos, 3
 - **Verse**: the Italian and the Latin columns interleaved per tercet, each starting with its number in plain digits (`1`), the second and third lines indented. The numbers are counted, not copied: the print omits two on p. 45 (Italian tercets 32 and 33 of canto II) and misnumbers four: on p. [296] (Italian tercet 2 of Inferno XXIV printed as 3), p. 704 (Italian tercet 38 of Purgatorio XXIV printed as 37), p. 756 (Latin tercet 46 of Purgatorio XXVIII printed as 45) and p. 1128 (Italian tercet 47 of Paradiso XXVI printed as 57); the tercet that the editors added in brackets (Purgatorio VI 19–21, p. 491) keeps its brackets. A line too long for its column, printed at the right of the next line (`[togle.`), is joined to its line; the gloss line under the verse (`(1) costui. — (2) sarà.`) follows the verse of its page. The Italian text is this edition's, which often differs from modern editions.
 - **Commentary**: the left column, then the right one, one printed paragraph per line. Paragraph ends are not marked in the transcription; a line that ends a sentence well short of the column width is taken as one, so a paragraph whose last line happens to be full runs on into the next. The short rules between the glosses are not reproduced. A paragraph that runs over a page is left split at the page marker; a word hyphenated across the page break is joined on the earlier page.
 - **Essays**: one paragraph per line, verse quotations line by line.
-- **Not transcribed**: italics (the commentary's lemmas are printed in italics), the ornaments, and the physical copy's blank pages.
+- **Italics**: as printed, in `*…*`: in the commentary the lemmas (the verse quoted before its gloss, Italian or Latin) and Serravalle's Latin retelling of a passage; in the essays and the front matter titles, quotations and emphasis. Marked from the slant of the print, with the doubtful lines decided in the image; the punctuation at a run's edge follows a rule rather than the print (a stop that ends a lemma stays outside). Small capitals are not italic, and the dedication, printed wholly in italic, is not marked.
+- **Not transcribed**: the ornaments and the physical copy's blank pages.
 
 ## Contents
 

@@ -594,7 +594,7 @@ Quando io sentii, come cosa che cada, Tremar lo monte: onde mi prese un gelo, Qu
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Poi cominciò da tutte parti un grido Tal, che 'l maestro inver di me si feo, Dicendo: Non dubbiar, mentr'io ti guido.
 
-Gloria in Excelsis, tutti, Deo Dicean, per quel ch'io da vicin compresi, Onde intender lo grido si poteo.
+*Gloria in Excelsis*, tutti, *Deo* Dicean, per quel ch'io da vicin compresi, Onde intender lo grido si poteo.
 
 Noi ci restammo immobili e sospesi, Com'i pastor che prima udir quel canto, Finchè 'l tremar cessò, ed ei compièsi.
 
