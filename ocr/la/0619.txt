@@ -11,9 +11,9 @@ tenti ad operar grandi cose.
 Il Poeta
 
 • • • s'era mosso, e seguia volentieri
-Del suo maestro i passi; e amendue
+Del *suo* maestro i passi; e amendue
 Già mostravan com'erano leggeri,
-Quando ei gli disse: Volgi gli occhi in giue,
+*Quando ei gli* disse: Volgi gli occhi in giue,
 Buon ti sarà, per alleggiar la via,
 Veder lo letto delle piante tue.
 
@@ -29,7 +29,7 @@ Quanto, per via, di fuor del monte avanza.
 
 E primamente
 
-Vide colui, che fu nobil creato
+*Vide* colui, che fu nobil creato
 Più ch'altra creatura, giù dal cielo,
 Folgoreggiando, scendere da un lato.
 
