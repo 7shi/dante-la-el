@@ -139,7 +139,9 @@ Progress (2026-11-05):
   21 readings differed, 9 misread (8 words; three of them damaged letters restored,
   `permictit`, `preliatus`, `Sodomis`). Batch 6 (0801–0960): 228 rows, 19 readings
   differed, 9 misread (7 words), 1 misprint. Batch 7 (0961–1120): 220 rows, 15 readings
-  differed, 5 misread. Next: 1121–1296.
+  differed, 5 misread. Batch 8 (1121–1296): 246 rows, 18 readings differed, 6 misread
+  (5 words; two of them damaged letters restored, `capitulo`, `gratis`), 1 misprint.
+  Group 2 is done.
   No group 2 candidate is left out by script (a Tesseract word that joins an elided word
   to the form, `Nellumiliare`, is still looked at: the same
   shape covers real differences, `inanz'a` against `inanza`).
@@ -377,6 +379,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0887 | 8 | `. . . fu iunocente l'umana radice,` | `innocente` | Quoted verse; `u` for `n` (a turned letter), as 0146; found by check 2. |
 | 0904 | 11 | `de la luua` | `luna` | Gloss; `u` for `n` (a turned letter), as 0146; found by check 2. |
 | 1050 | 69 | `remisse trabere,` | `trahere` | A `b`, unlike the `h` of `trahit` on the page; found by check 2. |
+| 1277 | 47 | `nisi maun Conditoris sui` | `manu` | Commentary; the tops of the letters are damaged, their feet show `maun`; found by check 2. |
 
 ## Known limits
 
