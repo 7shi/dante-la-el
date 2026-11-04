@@ -135,8 +135,9 @@ Progress (2026-11-05):
   rows, 23 readings differed, 2 misread. Batch 3 (0321–0480): 278 rows, 27 readings
   differed, 13 misread (one of them two lines of a Latin footnote list on 0433, not
   printed, removed). Batch 4 (0481–0640): 343 rows, 40 readings differed, 21 misread
-  (one a line on 0547, not printed, removed), 2 misprints. Next: 0641–0800, 0801–0960,
-  0961–1120, 1121–1296.
+  (one a line on 0547, not printed, removed), 2 misprints. Batch 5 (0641–0800): 219 rows,
+  21 readings differed, 9 misread (8 words; three of them damaged letters restored,
+  `permictit`, `preliatus`, `Sodomis`). Next: 0801–0960, 0961–1120, 1121–1296.
   No group 2 candidate is left out by script (a Tesseract word that joins an elided word
   to the form, `Nellumiliare`, is still looked at: the same
   shape covers real differences, `inanz'a` against `inanza`).
