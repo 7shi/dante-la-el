@@ -123,7 +123,7 @@ the whole book, one or two letters from a form found often, is a candidate.
 Progress (2026-11-05):
 - Trial on `89ac4a3`: 78% of group 1 were misreadings, 24% of group 2, 0.8% of group 3;
   groups 1 and 2 held about 95% of them. On `ocr/la`: 22,567 candidates, of which group 1
-  278, group 2 2,277, group 3 20,012. Group 3 is not decided.
+  278, group 2 2,277, group 3 20,012.
 - Group 1: done; 278 rows, 59 misread, 6 misprints.
 - Group 2, decided in page batches (each candidate's word cropped from the image, the
   unclear ones zoomed and compared with letters of the same page): batch 1 (0001–0160)
@@ -142,6 +142,11 @@ Progress (2026-11-05):
   differed, 5 misread. Batch 8 (1121–1296): 246 rows, 18 readings differed, 6 misread
   (5 words; two of them damaged letters restored, `capitulo`, `gratis`), 1 misprint.
   Group 2 is done.
+- Group 3 (19,817 after the decisions above), in the same page batches: read by la-el-agy
+  for sense, not in the image (`ocr/la_lexcrop.py --lines`: each word in its line and the
+  lines around it); the words it flags are decided in the image, the rest are not
+  recorded. Batch 1 (0001–0160): 2,592 words, 29 flagged: 7 misprints, 22
+  printed (most in the papal documents, the words of their transcription).
   No group 2 candidate is left out by script (a Tesseract word that joins an elided word
   to the form, `Nellumiliare`, is still looked at: the same
   shape covers real differences, `inanz'a` against `inanza`).
@@ -369,7 +374,14 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 1242 | 24 | `et ad corum cantus` | `eorum` | Latin verse 45; the same line has `eorum` before; found by the verse reading. |
 | 1242 | 27 | `tantam habundatiam` | `habundantiam` | Latin verse 46; found by the verse reading. |
 | 1206 | 32 | `medesimo rise (2).` | `(12)` | Italian verse; the marks before are (10) and (11), the commentary has (12); found by the verse reading. |
+| 0049 | 93 | `dicti prioratus nolumus anteferri` | `volumus` | Document (a papal letter); `n` for `v`; found by check 2. |
+| 0050 | 26 | `detensione et tuitione` | `defensione` | Document; a `t`, not reaching the height of the `d`; found by check 2. |
+| 0053 | 45 | `M. de Pisis Gradis de mandato` | `Gratis` | Document, the chancery note; found by check 2. |
+| 0054 | 31 | `vel mixti, iudicti vel indicendi` | `indicti` | Document; `u` for `n`, unlike the `n` of `indicendi`; found by check 2. |
+| 0095 | 67 | `si eris valnes.` | `valens` | Commentary; `n` and `e` transposed; found by check 2. |
 | 0097 | 89 | `In angelica fuvella:` | `favella` | Italic lemma (Italian verse `favella`); an italic `u`, open at the top, unlike the `a` of `angelica`; found by check 2. |
+| 0125 | 33 | `omnium honorum statutorum` | `bonorum` | Commentary; `h` for `b`; found by check 2. |
+| 0148 | 77 | `*Oculos reclos retorsit in obliquum*` | `rectos` | Italic gloss; a tall italic `l`, as in `Oculos`, for `t`; the Latin verse 31 above has `Rectos`; found by check 2. |
 | 0216 | 30 | `arere, idest in bonis aliorum` | `avere` | Italic lemma; its second letter is the italic `r` of its fourth, as 0154 and 0204; found by check 2. |
 | 0258 | 19 | `Già era in loco, dore:` | `dove` | Italic lemma; the italic `r` of `era` beside it, as 0154 and 0204; found by check 2. |
 | 0274 | 108 | `cum cauda, veluit Virgilius` | `voluit` | Found by check 2. |

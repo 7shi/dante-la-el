@@ -95,30 +95,45 @@ page	line	form	decision	note
 0042	28	giudicarli	printed	
 0042	30	offenderla	printed	
 0045	8	Provinciis	printed	
+0045	75	resistant	printed	
 0046	1	XL	printed	
+0046	58	vacantia	printed	
+0046	94	personatum	printed	
+0046	112	iuridice	printed	
 0046	115	ecclesiasticas	printed	
 0046	118	quotcumque	printed	
 0047	1	XLI	printed	
 0047	10	acquiratur	printed	
 0047	11	canonicatu	printed	
 0047	29	dictoque	printed	
+0047	30	procuratores	printed	
+0047	33	introduci	printed	
+0047	36	mentione	printed	
 0047	101	XIIII	printed	
 0047	110	petentium	printed	
 0047	117	canonice	printed	
 0047	134	serv	printed	
 0047	134	commun	printed	
 0048	1	XLII	printed	
+0048	39	impedi	printed	
 0048	68	Wego	printed	
+0048	121	ingere	printed	
 0048	126	quotcumque	printed	
 0049	52	oneribus	printed	
 0049	52	iugiter	printed	
 0049	63	reservatione	printed	
+0049	93	nolumus	misprint	for volumus; n for v
+0049	97	addicta	printed	
 0050	1	XLIV	printed	
 0050	19	litterarum	printed	
+0050	20	dorsibus	printed	
+0050	26	detensione	misprint	for defensione; t for f
 0050	53	solemniter	printed	
+0050	65	apposita	printed	
 0050	90	excomunicari	misread	not printed (a word added at the line end); removed
 0050	100	IIII	printed	
 0050	116	Diaconos	printed	
+0051	7	conventibus	printed	
 0051	16	valeamus	printed	
 0051	22	Iul	printed	
 0051	25	proh	printed	
@@ -138,9 +153,11 @@ page	line	form	decision	note
 0052	37	quibuscunque	printed	
 0052	111	expectati	printed	
 0052	117	quibuscunque	printed	
+0053	5	quirimus	printed	re- at the end of 0052
 0053	7	professo	printed	
 0053	8	monacho	printed	
 0053	10	Vicarios	printed	
+0053	45	Gradis	misprint	for Gratis; d for t
 0053	65	clementius	printed	
 0053	85	Bartholommei	printed	
 0053	85	benignius	printed	
@@ -153,7 +170,9 @@ page	line	form	decision	note
 0053	128	iunctus	printed	
 0053	130	Brevib	printed	abbreviation Brevib.
 0054	1	XLVIII	printed	
+0054	31	iudicti	misprint	for indicti; u for n
 0057	3	CVRIE	printed	
+0060	12	prosumptuosum	printed	
 0062	18	Ymaginarius	printed	
 0063	7	empir	printed	
 0064	35	Superi	printed	
@@ -190,7 +209,9 @@ page	line	form	decision	note
 0092	17	restanti	printed	
 0092	17	abberrazione	printed	
 0094	35	subcucurrit	printed	
+0095	67	valnes	misprint	for valens; n and e transposed
 0096	77	Act	printed	
+0096	104	assumpsi	printed	
 0097	35	Lucebant	printed	
 0097	80	suoy	printed	
 0097	89	fuvella	misprint	for favella; italic u for a
@@ -242,6 +263,7 @@ page	line	form	decision	note
 0114	19	esistente	printed	
 0114	22	accennate	printed	
 0114	84	elessero	printed	
+0115	34	externe	printed	
 0116	49	piò	printed	
 0116	78	excitaretur	printed	
 0117	98	percussionum	printed	
@@ -257,6 +279,7 @@ page	line	form	decision	note
 0124	13	phylosophica	printed	
 0124	65	Martiam	printed	
 0124	105	innalzai	printed	
+0125	33	honorum	misprint	for bonorum; h for b
 0125	40	inspiciunt	printed	
 0125	51	Thalem	printed	
 0126	27	Ieronimum	printed	
@@ -295,10 +318,14 @@ page	line	form	decision	note
 0142	55	confudit	misread	corrected to confusit (the lemma; the verse has confudit)
 0142	73	gu	printed	
 0143	11	barb	printed	
+0143	50	cartalli	printed	
 0143	65	submersa	printed	
+0144	99	astractus	printed	
 0145	76	expositus	printed	
+0146	90	devixit	printed	
 0147	15	insegni	printed	
 0147	100	ampliori	printed	
+0148	77	reclos	misprint	for rectos; italic l for t
 0148	89	revidebit	printed	
 0148	97	proscripti	printed	
 0150	3	dispetto	printed	
@@ -332,6 +359,8 @@ page	line	form	decision	note
 0156	9	sepulcro	printed	
 0156	11	pulcro	printed	
 0156	57	obscuros	printed	
+0156	68	nimius	printed	
+0156	85	conptinetur	printed	
 0157	13	senni	printed	
 0157	42	causans	printed	
 0157	48	sciremus	printed	

@@ -2,6 +2,7 @@
 
     la_lexcrop.py LIST FIRST LAST [-g G] --crops DIR [--labels]
     la_lexcrop.py LIST FIRST LAST [-g G] --readings READ [-o OUT]
+    la_lexcrop.py LIST FIRST LAST [-g G] --lines OUT
 
 LIST is the output of la_lexcheck.py; its candidates of group G (default 2) on pages
 FIRST..LAST are taken, in its order.
@@ -20,7 +21,12 @@ Tesseract box, an essay's hyphen halves): the masked line lets the reader find i
 --readings compares a reader's READ (`n  reading`, a TSV with a header) with the forms:
 lists the candidates whose reading differs (hyphens and case aside; a reading that
 contains the form as a word agrees), `n PAGE:LINE form | reading | Tesseract`, and the
-count."""
+count.
+
+--lines writes, for a reader who judges the words by their sense, a TSV (`n  form  text`):
+each candidate's line with the form marked `⟦form⟧` (the part before a line-end hyphen,
+if the form is joined across it), between the lines before and after it (` / `); an essay
+paragraph (one long line) cut to about 150 letters on each side."""
 
 import argparse
 import csv
@@ -163,6 +169,31 @@ def write_crops(rs, out, labels):
     print(f"{len(crops)} crops, {(len(crops) + 7) // 8} images", file=sys.stderr)
 
 
+def write_lines(rs, path, width=150):
+    out = ["n\tform\ttext"]
+    for i, r in enumerate(rs, 1):
+        n, line = (int(x) for x in r[1].split(":"))
+        form = r[2]
+        raw = raw_line(n, line)
+        m = re.search(rf"(?<!{LET}){re.escape(form)}(?!{LET})", raw) or re.search(re.escape(form), raw, re.I) \
+            or re.search(rf"{LET}+(?=-$)", raw)
+        cur = raw[:m.start()] + "⟦" + m[0] + "⟧" + raw[m.end():] if m else raw
+        if len(raw) > 200:  # an essay paragraph: about width letters around the form
+            a, e = cur.find("⟦"), cur.find("⟧") + 1
+            lo, hi = max(0, a - width), min(len(cur), e + width)
+            out.append(f"{i}\t{form}\t" + ("…" if lo else "") + cur[lo:hi] + ("…" if hi < len(cur) else ""))
+            continue
+        ctx = []
+        for k in (line - 1, line + 1):
+            try:
+                ctx.append(raw_line(n, k) if k >= 1 else "")
+            except IndexError:
+                ctx.append("")
+        out.append(f"{i}\t{form}\t{ctx[0]} / {cur} / {ctx[1]}")
+    Path(path).write_text("\n".join(out) + "\n", encoding="utf-8")
+    print(f"{len(rs)} lines", file=sys.stderr)
+
+
 def compare(rs, path):
     with open(path, encoding="utf-8") as f:
         rd = {r[0]: r[1] if len(r) > 1 else ""
@@ -187,12 +218,15 @@ def main():
     g = ap.add_mutually_exclusive_group(required=True)
     g.add_argument("--crops", help="write the crops and context.tsv to this directory")
     g.add_argument("--readings", help="compare this reader's TSV with the forms")
+    g.add_argument("--lines", help="write the candidates' lines, the form marked, to this TSV")
     ap.add_argument("--labels", action="store_true", help="PAGE:LINE form in the labels")
     ap.add_argument("-o", "--output", help="write the comparison to this file instead of stdout")
     a = ap.parse_args()
     rs = rows(a.list, a.first, a.last, a.group)
     if a.crops:
         write_crops(rs, Path(a.crops), a.labels)
+    elif a.lines:
+        write_lines(rs, a.lines)
     else:
         text = compare(rs, a.readings)
         if a.output:
