@@ -8,7 +8,7 @@ The page-by-page transcriptions in `ocr/{dir}/NNN.txt` are reorganized into sect
 |---|---|
 | `texts/en/` | Done: converted, verified against dante-corpus, footnote markers restored on every page. |
 | `texts/en-oelsner/` | Done: `ocr/` normalized (labels, paragraph breaks) and converted; Italian verified against dante-corpus, English against `texts/en`. |
-| `texts/la/` | Done: `ocr/la/` completed batch by batch (the verse from the images, the commentary checked against GLM-OCR, lines and blank lines checked) and converted by `convert_la.py` (`texts/la/001`–`110`); see [`ocr/la/DONE.md`](../ocr/la/DONE.md) for the method and [`ocr/la/PLAN.md`](../ocr/la/PLAN.md) for its limits and the checks planned after it. |
+| `texts/la/` | Done: `ocr/la/` completed batch by batch (the verse from the images, the commentary checked against GLM-OCR, lines and blank lines checked, the italics marked) and converted by `convert_la.py` (`texts/la/001`–`110`); see [`ocr/la/DONE.md`](../ocr/la/DONE.md) for the method and [`ocr/la/PLAN.md`](../ocr/la/PLAN.md) for its limits and the checks planned after it. |
 | `texts/grc/` | Done: converted; verse counts, line numbers, and arguments checked by the script; misreadings found by a syllable count corrected in `ocr/`. |
 
 ## General policy
@@ -203,6 +203,7 @@ Each canto has the Latin *Summarium*, then pages with the verse in two columns a
   GLM-OCR is not a reference by itself: it misreads too (`Feltrio`, `alli`, `euro`), joins the lines of a paragraph, drops the Latin verse column, and on some pages drops text that `ocr/la` has (`0089`, `0090`). Over the 1,230 pages of prose (about 65,000 lines, 3.7 million characters, 600,000 words; 106 pages are transcribed with paragraphs on one line) the same rate gives some 20,000–25,000 differing places and on the order of 10,000 errors of `ocr/la`.
 - **The Italian of this edition differs from dante-corpus** (`0082`: `Et quanto dir qual era` for *Ahi quanto a dir qual era*, `Tant'è amara che poco è più morte`), so the corpus can locate and check lines but is never a source for them.
 - Lines are broken as printed, with line-end hyphenation (`dividi-` / `tur`, `0081`); the script joins them.
+- **Italics** are marked `*…*` in `ocr/la` (the commentary's lemmas and translations, titles, quotations in the essays and the front matter; `ocr/la/PLAN.md`, conventions, "Italics"), each printed line with its own pair. The script keeps them and joins a pair broken at a line end (`*dedit ven-*` / `*tum*:` → `*dedit ventum*:`, `*a*` / `*b*` → `*a b*`); it reports a line whose pairs are not closed. A `*` after a digit is printed (`1283` `154*`) and is not a mark.
 - `CAPITULUM PRIMUM` at the top of most pages is the running head (with the page number on `0083.png`); on a canto's first text page (`0081`) it may be the printed heading. Check against the images.
 
 ### Procedure for `la`
