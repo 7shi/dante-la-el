@@ -151,6 +151,10 @@ Progress (2026-11-05):
   Batch 3 (0321–0480): 2,664 words, 21 flagged: 5 misread (`Penetrò`, `illuc`, `non`,
   and two damaged letters restored, `infin`, `eam`; the `infino` of 0586, seen with
   `infin`, also corrected), 7 misprints, 9 printed.
+  Batch 4 (0481–0640): 2,287 words, 24 flagged (one the `infino` above): 6 misread
+  (`emictunt`, `sic[ut]`, `hic`, `Sancta` twice, and `Non`, damaged, its last letter unclear,
+  corrected by the sense), 14 misprints, 3 printed (among them `tainquam`, a dot over the
+  first stroke of an `m` or `in`).
   No group 2 candidate is left out by script (a Tesseract word that joins an elided word
   to the form, `Nellumiliare`, is still looked at: the same
   shape covers real differences, `inanz'a` against `inanza`).
@@ -401,8 +405,22 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0409 | 16 | `quod generat maximes feto-` | `maximos` | Commentary; `e` for `o`; found by check 2. |
 | 0473 | 49 | `Frater` / `loannes predictus, episcopus Firmanus` | `Ioannes` | Commentary; an `l` with a top serif to the left only, as the `l` of `millesimo`, for `I`; found by check 2. |
 | 0475 | 31 | `tutta la classica antichità adoro la *Tellus*` | `adorò` | Essay; the accent not printed; found by check 2. |
+| 0490 | 89 | `Invocando Dantes Cailiopem, rogat` | `Calliopem` | Commentary; `i` for `l`; found by check 2. |
+| 0511 | 78 | `ruptus michi crat` | `erat` | Commentary; `c` for `e`; found by check 2. |
+| 0514 | 68 | `erat` / `deior, et magis aspera` | `peior` | Commentary; `d` for `p`; `peior` later in the line; found by check 2. |
 | 0515 | 81–82 | `ad Lu-` / `cillum:` | `Lucilium` | Commentary (Seneca's letters); a second `l`, not an `i`; found by check 2. |
+| 0521 | 4 | `*delectacionem, rel per dolorem*` | `vel` | Italic lemma; an italic `r` for `v`; found by check 2. |
+| 0527 | 6 | `quando colui da l'altro canco,` | `fianco` | Italian verse; `c` for `fi`; found by check 2. |
+| 0533 | 16 | `muitos spiritus` | `multos` | Commentary; `i` for `l`; found by check 2. |
+| 0535 | 74 | `quia vulgus signorat` | `ignorat` | Commentary; an `s` added; found by check 2. |
+| 0542 | 87 | `Sed ih quemlibet pulverem` | `in` | Commentary; `h` for `n`; found by check 2. |
+| 0582 | 70 | `ad contitendum, neminem` | `confitendum` | Commentary; `t` for `f`, the height of the other `t`; found by check 2. |
+| 0589 | 48 | `ne, voleus recedere` | `volens` | Commentary; `u` for `n`; found by check 2. |
+| 0609 | 4 | `*sice pariter, sicut boves*` | `sive` | Italic lemma; an italic `c` for `v`; found by check 2. |
 | 0613 | 81 | `*di sparento*, idest pavefactione` | `spavento` | Italic lemma (Italian verse `spavento`); an italic `r`, unlike the italic `v` of `sapevamo` (0640); found by check 2. |
+| 0622 | 50 | `dixit` / `uod ad introytum` | `quod` | Commentary; the `q` not printed; found by check 2. |
+| 0625 | 54 | `tertia pars huius cupituli` | `capituli` | Commentary; `u` for `a`; found by check 2. |
+| 0630 | 16 | `Figlinolo; poi a Michele` | `Figliuolo` | Essay; `n` for `u`; found by check 2. |
 | 0640 | 52 | `famiam, qued in uno loco` | `quod` | Commentary; the third letter has no visible bar (`qucd` or `qued`); found by check 2. |
 | 0887 | 8 | `. . . fu iunocente l'umana radice,` | `innocente` | Quoted verse; `u` for `n` (a turned letter), as 0146; found by check 2. |
 | 0904 | 11 | `de la luua` | `luna` | Gloss; `u` for `n` (a turned letter), as 0146; found by check 2. |

@@ -1197,6 +1197,7 @@ page	line	form	decision	note
 0482	25	placant	printed	
 0490	15	accogleva	printed	
 0490	79	devictas	printed	
+0490	89	Cailiopem	misprint	for Calliopem; i for l
 0490	93	Pierides	printed	
 0492	8	sète	printed	
 0492	73	gestus	printed	
@@ -1235,9 +1236,11 @@ page	line	form	decision	note
 0510	68	affligitur	printed	
 0511	9	incontr	printed	
 0511	13	appoggio	printed	
+0511	78	crat	misprint	for erat; c for e
 0513	7	etternalmente	printed	
 0513	101	devenimmo	printed	
 0514	49	proieceret	printed	
+0514	68	deior	misprint	for peior; d for p
 0514	79	eundem	printed	
 0515	25	ombr	printed	
 0515	46	dextero	printed	
@@ -1253,6 +1256,7 @@ page	line	form	decision	note
 0519	50	insufficiente	printed	
 0519	70	rasserena	printed	
 0520	15	intenzioni	printed	
+0521	4	rel	misprint	for vel; an italic r for v
 0521	29	Quadragesimam	printed	
 0522	40	occupant	printed	
 0522	45	astractus	printed	
@@ -1262,6 +1266,7 @@ page	line	form	decision	note
 0525	21	alzai	printed	
 0526	96	disposit	printed	
 0526	96	onum	printed	
+0527	6	canco	misprint	for fianco; c for fi
 0527	7	ntellecto	printed	
 0527	98	Interrogatio	printed	
 0528	68	reprehendebatur	printed	
@@ -1269,9 +1274,11 @@ page	line	form	decision	note
 0529	25	indugiai	printed	
 0531	31	superficiale	printed	
 0531	66	meravigliosa	misread	corrected to maravigliosa (maravi- printed)
+0533	16	muitos	misprint	for multos; i for l
 0533	23	partiter	misread	corrected to parcentes (par- / centes printed)
 0534	24	preuenti	misread	corrected to preventi
 0535	26	mocti	printed	
+0535	74	signorat	misprint	for ignorat; an s added
 0536	5	accorser	printed	
 0536	24	vengont	printed	
 0536	68	transitui	printed	
@@ -1294,6 +1301,7 @@ page	line	form	decision	note
 0541	93	Eya	printed	
 0542	55	Serm	printed	
 0542	86	LXXXVIII	printed	
+0542	87	ih	misprint	for in; h for n
 0542	101	sospirano	printed	
 0542	104	adozione	printed	
 0544	27	tactam	printed	
@@ -1325,6 +1333,7 @@ page	line	form	decision	note
 0550	73	tat	misread	corrected to habitat, printed whole
 0550	78	Alamanię	misread	corrected to Alamanie
 0551	12	archo	printed	
+0551	86	emietunt	misread	corrected to emictunt
 0553	15	sensibilità	printed	
 0553	15	diminuite	printed	
 0553	15	crebbero	printed	
@@ -1344,10 +1353,12 @@ page	line	form	decision	note
 0553	25	XCIII	printed	
 0557	9	ritornò	printed	
 0558	14	accosto	printed	
+0558	39	certius	printed	Latin verse
 0558	52	pertraxit	printed	
 0559	12	mont	printed	
 0559	19	muor	printed	
 0559	44	finum	printed	
+0559	59	tainquam	printed	for tamquam; a dot over the first stroke, read as in (or a spot over m)
 0559	70	is	misread	corrected to dicis (di-is was a damaged c)
 0559	97	mirabilium	printed	
 0561	71	consecratum	printed	
@@ -1390,6 +1401,7 @@ page	line	form	decision	note
 0574	50	restate	printed	
 0574	50	purgandosi	printed	
 0574	50	purganti	printed	
+0577	56	sieut	misread	corrected to sic[ut], the brackets printed
 0577	67	subiectam	printed	
 0578	85	publicare	misread	corrected to pubblicare (pub- / blicare printed)
 0578	89	Terreo	printed	
@@ -1403,6 +1415,7 @@ page	line	form	decision	note
 0580	89	permictite	printed	
 0581	41	dirigebam	printed	
 0582	30	puncton	printed	
+0582	70	contitendum	misprint	for confitendum; t for f, the height of the t
 0582	93	dissolvat	printed	
 0583	37	scrupulus	printed	
 0583	40	confracto	printed	
@@ -1421,7 +1434,9 @@ page	line	form	decision	note
 0586	75	orecchio	printed	
 0586	79	misericordiosa	printed	
 0587	14	marmoreo	printed	
+0587	35	hie	misread	corrected to hic
 0588	78	correcti	printed	
+0589	48	voleus	misprint	for volens; u for n
 0589	79	difficultatis	printed	
 0590	20	Dinanz	printed	
 0590	25	alt	printed	
@@ -1440,6 +1455,7 @@ page	line	form	decision	note
 0596	67	soggetta	printed	
 0596	71	intellettualita	printed	
 0597	10	contentarum	printed	
+0597	23	Saneta	misread	corrected to Sancta
 0597	24	Maripitima	misread	corrected to Mariptima
 0597	27	Oderisii	printed	
 0598	53	contemnens	misread	corrected to contempnens
@@ -1455,6 +1471,7 @@ page	line	form	decision	note
 0601	15	dett	printed	
 0601	72	Purgatoriam	printed	
 0601	85	declinatus	printed	
+0601	106	Saneta	misread	corrected to Sancta
 0602	45	rant	misread	corrected to fuerunt (fue- / runt printed)
 0602	88	inclinai	misread	corrected to inchinai
 0602	101	impedijt	misread	corrected to impedit
@@ -1471,6 +1488,7 @@ page	line	form	decision	note
 0607	40	Ecclesiaste	printed	
 0607	51	Iliad	printed	
 0607	53	lacrymae	printed	
+0609	4	sice	misprint	for sive; an italic c for v
 0609	6	ymaginatas	printed	
 0610	58	infestus	printed	
 0610	66	barche	printed	
@@ -1513,6 +1531,7 @@ page	line	form	decision	note
 0619	96	racquisto	printed	
 0621	13	cinereo	printed	
 0621	19	lacrymabantur	printed	
+0622	50	uod	misprint	for quod; the q not printed
 0622	72	ouerate	misread	corrected to onerate
 0623	24	Ratiocinabatur	printed	
 0623	30	conducis	printed	
@@ -1525,6 +1544,7 @@ page	line	form	decision	note
 0624	104	radat	printed	
 0625	34	mantellis	printed	
 0625	44	muntus	printed	
+0625	54	cupituli	misprint	for capituli; u for a
 0625	57	discurrant	printed	
 0625	75	optaverunt	printed	
 0625	83	mantellis	printed	
@@ -1546,6 +1566,8 @@ page	line	form	decision	note
 0629	61	stabo	printed	
 0629	80	infamis	printed	
 0629	100	admirali	printed	
+0630	16	Figlinolo	misprint	for Figliuolo; n for u
+0630	72	Noa	misread	damaged, the last letter unclear (a or n); corrected to Non by the sense
 0630	73	martirii	printed	
 0630	88	svolgerà	printed	
 0632	5	coperchia	printed	
@@ -1563,6 +1585,7 @@ page	line	form	decision	note
 0636	58	infortunata	printed	
 0636	62	pelagos	printed	
 0636	68	miserationem	printed	
+0636	72	considerati	printed	
 0637	24	gent	printed	
 0637	69	Romannole	misread	corrected to Romandiole (line 70 mandiole)
 0638	61	caritativi	printed	
