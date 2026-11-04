@@ -157,6 +157,9 @@ Progress (2026-11-05):
   first stroke of an `m` or `in`).
   Batch 5 (0641–0800): 2,342 words, 19 flagged: 1 misread (`permictebat`), 6 misprints,
   12 printed.
+  Batch 6 (0801–0960): 2,431 words, 20 flagged: 2 misread (`fore`, an `f` with its bar
+  lost, and `saecta`, damaged, its third letter unclear, corrected by the sense),
+  12 misprints, 6 printed.
   No group 2 candidate is left out by script (a Tesseract word that joins an elided word
   to the form, `Nellumiliare`, is still looked at: the same
   shape covers real differences, `inanz'a` against `inanza`).
@@ -430,8 +433,20 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0753 | 18 | `Dal Troso (11) fu, e purga per digiuno` | `Torso` | Italian verse; `r` and `o` transposed; found by check 2. |
 | 0762 | 5 | `ma splendito o commovente` | `splendido` | Essay; `t` for `d`; found by check 2. |
 | 0799 | 20 | `cauto; dixit ipsa` | `canto` | Commentary; `u` for `n`; found by check 2. |
+| 0830 | 80 | `aliis scentiis: dereliquisti me` | `scientiis` | Commentary; the `i` not printed; found by check 2. |
+| 0848 | 4 | `A disbramarsi la decente sete,` | `decenne` | Italian verse; `t` for `n`; found by check 2. |
+| 0850 | 9 | `Colpa di quella ch'al presente orese,` | `crese` | Italian verse; `o` for `c`; found by check 2. |
+| 0877 | 89 | `Qui utres, licent sint eiusdem` | `licet` | Commentary; an `n` added; found by check 2. |
 | 0887 | 8 | `. . . fu iunocente l'umana radice,` | `innocente` | Quoted verse; `u` for `n` (a turned letter), as 0146; found by check 2. |
+| 0893 | 30 | `(33) a similitudiue` | `similitudine` | Gloss; `u` for `n`; found by check 2. |
+| 0894 | 28 | `(44) comprhender` | `comprehender` | Gloss; the `e` not printed; found by check 2. |
+| 0894 | 95 | `quod non est dicendam.` | `dicendum` | Commentary; `a` for `u`; found by check 2. |
+| 0898 | 77 | `ymaginem omuium faciendorum` | `omnium` | Commentary; `u` for `n`; found by check 2. |
 | 0904 | 11 | `de la luua` | `luna` | Gloss; `u` for `n` (a turned letter), as 0146; found by check 2. |
+| 0916 | 39 | `famescente et exsitente inter` | `existente` | Commentary; `s` and `i` transposed; found by check 2. |
+| 0917 | 54 | `demum redunt ad stellas` | `redeunt` | Commentary; the `e` not printed; found by check 2. |
+| 0929 | 91 | `idest ad suum arbitrum, aliquis` | `arbitrium` | Commentary; the `i` not printed; found by check 2. |
+| 0958 | 48 | `brutorum et animam plantaram.` | `plantarum` | Commentary; `a` for `u`; found by check 2. |
 | 1050 | 69 | `remisse trabere,` | `trahere` | A `b`, unlike the `h` of `trahit` on the page; found by check 2. |
 | 1277 | 47 | `nisi maun Conditoris sui` | `manu` | Commentary; the tops of the letters are damaged, their feet show `maun`; found by check 2. |
 

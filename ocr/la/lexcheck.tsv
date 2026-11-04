@@ -1884,7 +1884,9 @@ page	line	form	decision	note
 0801	90	declarentur	printed	
 0802	67	fluentes	printed	
 0803	28	siccom	printed	
+0804	18	pianetta	printed	Italian verse; modern editions pineta
 0804	22	entrassi	printed	
+0805	18	desia	printed	Italian verse; modern editions disvia
 0805	57	revidere	printed	
 0806	92	transfixe	printed	
 0807	10	alor	printed	c'alor
@@ -1902,6 +1904,7 @@ page	line	form	decision	note
 0815	25	riprender	printed	
 0815	25	ardimento	printed	
 0815	91	crediderim	printed	
+0815	91	tore	misread	an f with its bar lost, the height of the l; corrected to fore
 0816	54	ineffabiles	printed	
 0817	53	difficilior	printed	
 0819	59	pulcritudines	printed	
@@ -1925,6 +1928,7 @@ page	line	form	decision	note
 0829	25	incora	printed	
 0829	65	afflictus	printed	
 0829	99	remigent	printed	
+0830	80	scentiis	misprint	for scientiis; the i not printed
 0831	9	perd	printed	
 0831	68	raucam	printed	
 0831	73	Borea	printed	
@@ -1955,6 +1959,7 @@ page	line	form	decision	note
 0839	77	condempnatur	printed	
 0839	84	Tuctavia	printed	
 0840	20	stav	printed	
+0840	24	saccta	misread	damaged, the third letter unclear (c or e); corrected to saecta by the sense
 0840	59	iuvencule	printed	
 0841	52	cerrus	printed	
 0842	20	scriva	printed	
@@ -1967,9 +1972,11 @@ page	line	form	decision	note
 0845	78	dobbiam	printed	
 0847	21	peccasti	printed	
 0847	45	vehiculum	printed	
+0848	4	decente	misprint	for decenne; t for n
 0848	25	descripti	printed	
 0848	68	forzam	printed	
 0849	58	increatum	printed	
+0850	9	orese	misprint	for crese; o for c
 0850	18	Yndi	printed	
 0850	42	admirata	printed	
 0850	55	orb	misread	corrected to orbitam (orb'tam was a damaged i)
@@ -1984,6 +1991,7 @@ page	line	form	decision	note
 0856	9	drago	printed	
 0857	9	cost	printed	elided cost'
 0857	13	flagellò	printed	
+0857	21	pintis	printed	the commentary quotes promptis
 0858	62	istituzione	printed	
 0860	52	conqueruntur	printed	
 0861	84	movearis	printed	
@@ -2003,9 +2011,11 @@ page	line	form	decision	note
 0874	11	armonicum	printed	
 0877	16	fara	printed	elided fara'
 0877	19	insuffla	printed	
+0877	89	licent	misprint	for licet; an n added
 0877	97	Pulcra	printed	
 0878	78	Apollineya	printed	
 0878	99	prophetia	printed	
+0880	42	aditum	printed	single d; the commentary has additum
 0881	5	etterne	printed	
 0881	7	lassu	printed	no accent printed
 0882	10	acceseno	printed	
@@ -2036,11 +2046,15 @@ page	line	form	decision	note
 0891	102	Protheus	printed	
 0892	11	Gïunto	printed	
 0893	11	repe	printed	
+0893	30	similitudiue	misprint	for similitudine; u for n
 0893	97	demonstratum	misread	corrected to demostratum
 0893	104	diteme	printed	
 0894	6	opinion	printed	
 0894	16	argomentar	printed	
+0894	28	comprhender	misprint	for comprehender; the e not printed
 0894	38	depressa	printed	
+0894	95	dicendam	misprint	for dicendum; a for u
+0895	25	depressum	printed	the commentary has densum
 0895	33	ieiunum	printed	
 0895	97	plurimarum	printed	
 0896	10	cassi	printed	
@@ -2050,6 +2064,7 @@ page	line	form	decision	note
 0897	43	reperiant	printed	
 0897	47	extendat	printed	
 0897	75	reperiant	printed	
+0898	77	omuium	misprint	for omnium; u for n
 0901	12	connessi	printed	
 0901	26	image	printed	
 0901	38	platonica	printed	
@@ -2074,6 +2089,8 @@ page	line	form	decision	note
 0912	16	quïeta	printed	
 0913	36	depingantur	printed	
 0916	10	avia	printed	
+0916	39	exsitente	misprint	for existente; s and i transposed
+0917	54	redunt	misprint	for redeunt; the e not printed
 0918	46	faccret	misread	corrected to faceret
 0919	12	influenzia	printed	
 0922	14	ritrahe	printed	
@@ -2093,6 +2110,7 @@ page	line	form	decision	note
 0928	80	victimat	printed	
 0929	36	honus	printed	
 0929	85	discretio	printed	
+0929	91	arbitrum	misprint	for arbitrium; the i not printed
 0929	92	argentee	printed	
 0932	47	rides	printed	so in the gloss (rides.)
 0932	50	proiicitur	printed	
@@ -2111,6 +2129,7 @@ page	line	form	decision	note
 0939	87	trecentum	printed	
 0939	90	Curiatii	printed	
 0940	52	trigintiquatuor	printed	
+0940	54	Aroris	printed	a name (Aruns)
 0941	32	vomere	printed	
 0941	53	Mellia	printed	
 0941	118	fluis	printed	
@@ -2137,6 +2156,7 @@ page	line	form	decision	note
 0955	17	avantaggia	printed	
 0956	90	acceptata	printed	
 0958	37	informata	printed	
+0958	48	plantaram	misprint	for plantarum; a for u
 0958	62	immortales	printed	
 0961	31	colericum	printed	
 0961	32	influant	printed	
