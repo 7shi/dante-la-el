@@ -1,4 +1,4 @@
-"""Italics of ocr/la/PLAN.md: the italic words of the commentary, found by their slant.
+"""Italics of ocr/la/DONE.md: the italic words of the commentary, found by their slant.
 
     la_italic.py FIRST LAST -t TESS [-o OUT] [-v] [--boxes DIR] [--min-slant X] [--max-upright X]
 
@@ -21,7 +21,7 @@ unknown one), and the lemma of check 1 (la_lemmacheck.py) it overlaps, or `none`
 lemmas that no run overlaps (`not italic`). -v lists every commentary line with the slant
 of each word; --boxes writes each page with its words boxed (red italic, blue roman, green
 unknown). The errors are in lines where Tesseract's boxes are wrong (a misread line, boxes
-shifted by a word)."""
+shifted by a word). A page with no Tesseract words (0001, 0004) is skipped."""
 
 import argparse
 import difflib
@@ -164,6 +164,9 @@ def main():
     total = {"runs": 0, "lemma": 0, "none": 0, "not italic": 0}
     for n in range(a.first, a.last + 1):
         if not (L.TESS / f"{n:04d}.tsv").exists() or "[Blank page]" in L.text_line(n, 1):
+            continue
+        if not L.page_layout(n)[0]:  # no Tesseract words: a cover, a library mark (0001, 0004)
+            print(f"{n:04d}: no Tesseract words, skipped", file=sys.stderr)
             continue
         im = Image.open(L.ROOT / f"{n:04d}.png").convert("L")
         raw = page_words(n, im)

@@ -1,7 +1,7 @@
-"""Italics of ocr/la/PLAN.md: mark the italic words of the commentary from their slant, and
+"""Italics of ocr/la/DONE.md: mark the italic words of the commentary from their slant, and
 list the lines to look at in the image.
 
-    la_italicmark.py SLANT -d OUTDIR [-o FLAGS] [-t TESS] [--likeness X]
+    la_italicmark.py SLANT -d OUTDIR [-o FLAGS] [-t TESS] [--likeness X] [--pages SPEC] [--join]
 
 SLANT is the -v output of la_italic.py. The words of each commentary line it lists are
 marked in ocr/la's text (its `*` removed) from their slant: italic from 0.16, roman up to
@@ -21,7 +21,10 @@ stream per paragraph (consecutive lines), so that the rules see across a line en
 Marks: each line closes its own pairs; runs split at : . ; ? ! ( ); commas stay inside,
 the stop after a run outside; a line-end hyphen and a bracket next to a word go inside.
 Each page is written to OUTDIR/PAGE.txt; the essays (a page whose first line is in
-capitals, to the next CAPITUL... page) are left out. The flagged lines are then decided
+capitals, to the next CAPITUL... page) are left out, unless --pages names the pages to
+mark (`114,382-385`: only those, essays or not). With --join (the essays and the front
+matter), two runs with only a period between them (and commas, spaces) are one run: a
+source abridged is one pair, `*IV Sent., dist. XLV, cap. III. De*`. The flagged lines are then decided
 in the image and corrected in OUTDIR before its pages go into ocr/la.
 
 FLAGS lists the lines to decide in the image, with the reasons:
@@ -35,7 +38,12 @@ FLAGS lists the lines to decide in the image, with the reasons:
           at most, or measured under 0.20 (`ego`, `Zeno`, `ex` measured wrong;
           `*follem*, idest` right);
   head    a paragraph's first word roman just before a colon, italics after it in the
-          line (`*Ego*: scilicet Dantes: *bene vidi …*`, the capital measured upright)."""
+          line (`*Ego*: scilicet Dantes: *bene vidi …*`, the capital measured upright);
+  caps    a word in capitals marked italic, not a Roman numeral (small capitals measured
+          as italic: `DROUILHET DE *SIGALAS*`);
+  edge    a word of one letter that begins or ends a run, or roman beside one with no stop
+          between (`*e Della vera …*`, the `e` roman);
+  join    runs joined across a period by --join (a source abridged, or two quotations)."""
 
 import argparse
 import re
@@ -46,6 +54,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import la_lemmacheck as L
 
 STOP = re.compile(r"[:.;?!()]")
+JOIN = re.compile(r"[\s.,]*\.[\s.,]*")
+ROMAN = re.compile(r"[IVXLCDM]+")
 
 
 def read_slants(path):
@@ -88,7 +98,7 @@ def kind(s, w, lo, hi):
     return True if s >= hi else False if s <= lo else None
 
 
-def mark_page(lines, slants, lo=0.09, hi=0.16):
+def mark_page(lines, slants, lo=0.09, hi=0.16, join=False):
     """Mark the commentary lines of a page (lines: the text, no `*`; slants: {line: [...]}).
     Returns {line: (new text, set of flags)}."""
     W = []  # (line, start, end, form, slant)
@@ -190,6 +200,15 @@ def mark_page(lines, slants, lo=0.09, hi=0.16):
         after = lines[W[x][0] - 1][W[x][2]:]
         if after.lstrip().startswith(":") and any(flag[y] for y in range(x + 1, n) if W[y][0] == W[x][0]):
             flags[W[x][0]].add("head")
+    for x in range(n):
+        w = W[x][3]
+        if flag[x] and len(w) > 1 and w == w.upper() and w != w.lower() and not ROMAN.fullmatch(w):
+            flags[W[x][0]].add("caps")
+        if len(w) == 1 and w.isalpha() and lines[W[x][0] - 1][W[x][2]:W[x][2] + 1] not in ("'", "’"):
+            for y in (x - 1, x + 1):  # beside a run (roman), or at a run's end (italic)
+                out_ = not 0 <= y < n or G[min(x, y)] or not flag[y]
+                if flag[x] and out_ or not flag[x] and not out_:
+                    flags[W[x][0]].add("edge")
     out = {}
     for i in slants:
         u = lines[i - 1]
@@ -198,7 +217,10 @@ def mark_page(lines, slants, lo=0.09, hi=0.16):
         xs = [x for x in range(n) if W[x][0] == i]
         runs, cur = [], None
         for x in xs:
-            if flag[x] and cur is not None and not G[x - 1]:
+            j = join and cur is not None and JOIN.fullmatch(u[W[x - 1][2]:W[x][1]])
+            if flag[x] and cur is not None and (not G[x - 1] or j):
+                if j and G[x - 1]:
+                    flags[i].add("join")
                 cur.append(x)
             else:
                 if cur:
@@ -230,6 +252,8 @@ def main():
     ap.add_argument("-o", "--output", help="write the flags to this file instead of stdout")
     ap.add_argument("-t", "--tess", default=str(L.ROOT / "tesseract"), help="Tesseract's TSV directory")
     ap.add_argument("--likeness", type=float, default=0.8, help="flag a line below this likeness")
+    ap.add_argument("--pages", help="mark only these pages, essays included (`114,382-385`)")
+    ap.add_argument("--join", action="store_true", help="join runs across a period (the essays)")
     a = ap.parse_args()
     L.TESS = Path(a.tess)
     slants = read_slants(a.slant)
@@ -237,12 +261,19 @@ def main():
     out = open(a.output, "w", encoding="utf-8") if a.output else sys.stdout
     n_flag = 0
     pages = sorted({p for p, _ in slants})
-    skip = essays(pages[-1])
+    if a.pages:
+        want = set()
+        for r in a.pages.split(","):
+            x, _, y = r.partition("-")
+            want.update(range(int(x), int(y or x) + 1))
+        pages, skip = [p for p in pages if p in want], set()
+    else:
+        skip = essays(pages[-1])
     for page in pages:
         if page in skip:
             continue
         lines = L.unmark((L.ROOT / f"{page:04d}.txt").read_text(encoding="utf-8")).split("\n")
-        marked = mark_page(lines, {i: s for (p, i), s in slants.items() if p == page})
+        marked = mark_page(lines, {i: s for (p, i), s in slants.items() if p == page}, join=a.join)
         for i, (new, flags) in sorted(marked.items()):
             _, like = L.locate(page, i)
             if like < a.likeness:

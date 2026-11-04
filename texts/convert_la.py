@@ -405,9 +405,14 @@ def tercets(lines, n, where):
 RUNOVER = []
 
 
+def bare(l):
+    """A line without its italic marks (`*` not after a digit), for its length and its end."""
+    return re.sub(r"(?<!\d)\*", "", l)
+
+
 def column_width(lines):
     """The length of a full line: the 90th percentile, not swayed by a long gloss line."""
-    ls = sorted(len(l) for l in lines)
+    ls = sorted(len(bare(l)) for l in lines)
     return ls[int(len(ls) * 0.9)] if ls else 60
 
 
@@ -417,7 +422,7 @@ def paragraphs(lines, width):
     out, cur = [], []
     for l in lines:
         cur.append(l)
-        if re.search(r"[.?!:]$", l) and len(l) < width - 8:
+        if re.search(r"[.?!:]$", bare(l)) and len(bare(l)) < width - 8:
             out.append(cur)
             cur = []
     if cur:
@@ -449,18 +454,18 @@ def add_prose(parts, bs, n):
     line, printed lines joined into paragraphs."""
     width = column_width([l for b in bs for l in b])
     for b in bs:
-        if width > 120 and any(len(l) > 80 for l in b):
+        if width > 120 and any(len(bare(l)) > 80 for l in b):
             # paragraphs on one line each; a paragraph broken at a column change
             # (no sentence end) is joined
             cur = []
             for l in b:
                 cur.append(l)
-                if re.search(r"[.?!:;»)]$", l):
+                if re.search(r"[.?!:;»)]$", bare(l)):
                     parts.append(esc(join_lines(cur, f"{n:04d}")))
                     cur = []
             if cur:
                 parts.append(esc(join_lines(cur, f"{n:04d}")))
-        elif len(b) > 1 and all(len(l) < width * 0.75 and not l.endswith("-") for l in b):
+        elif len(b) > 1 and all(len(bare(l)) < width * 0.75 and not bare(l).endswith("-") for l in b):
             parts.append("\\\n".join(esc(l) for l in b))  # verse quoted in the essay
         else:  # printed lines
             parts.extend(esc(join_lines(p, f"{n:04d}")) for p in paragraphs(b, width))
@@ -488,7 +493,7 @@ def convert_prose(first, last, heading, errors):
         width = column_width(body)
         for bi, b in enumerate(bs):
             add_paragraphs(parts, paragraphs(b, width), n, carry if bi == 0 else None)
-        carry = len(parts) - 1 if body and re.search(WORD + "-$", body[-1]) else None
+        carry = len(parts) - 1 if body and re.search(WORD + "-$", bare(body[-1])) else None
     return parts
 
 
@@ -526,7 +531,7 @@ def convert_appendix(errors):
                 parts.append("## " + APPENDIX_HEADINGS[b[0]])
                 continue
             add_paragraphs(parts, paragraphs(b, width), n, carry if bi == 0 else None)
-        carry = len(parts) - 1 if body and re.search(WORD + "-$", body[-1]) else None
+        carry = len(parts) - 1 if body and re.search(WORD + "-$", bare(body[-1])) else None
         for b in notes:
             k, note = FOOTNOTE.match(join_lines(b, f"{n:04d}")).groups()
             ref = [i for i, p in enumerate(parts) if f"({k})" in p and not p.startswith("<!--")]
@@ -638,11 +643,11 @@ def convert_front(scans, head, errors):
                 parts.append("## " + b[0])
                 if len(b) > 1:
                     parts.append("\\\n".join(esc(l) for l in b[1:]))
-            elif len(b) > 1 and all(len(l) < width * 0.75 and not l.endswith("-") for l in b):
+            elif len(b) > 1 and all(len(bare(l)) < width * 0.75 and not bare(l).endswith("-") for l in b):
                 parts.append("\\\n".join(esc(l) for l in b))  # signatures, addresses
             else:
                 add_paragraphs(parts, paragraphs(b, width), n, carry if bi == 0 else None)
-        carry = len(parts) - 1 if body and re.search(WORD + "-$", body[-1]) else None
+        carry = len(parts) - 1 if body and re.search(WORD + "-$", bare(body[-1])) else None
         add_notes(parts, notes, n, errors)
     return parts
 
@@ -727,7 +732,7 @@ def convert_canto(cantica, c, errors):
             else:
                 add_paragraphs(parts, paragraphs(b, width), n, carry if bi == 0 else None)
         last_line = body[-1] if body else ""
-        carry = len(parts) - 1 if body and re.search(WORD + "-$", last_line) else None
+        carry = len(parts) - 1 if body and re.search(WORD + "-$", bare(last_line)) else None
     # tercet numbers: computed by counting, checked against the printed ones
     for lang in ("it", "la"):
         lines = sum(len(t[2]) for t in verse[lang])
