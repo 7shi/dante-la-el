@@ -262,7 +262,7 @@ Nec natura nec ars ostenderunt tibi rem tam tibi complacentem, sicut fuerunt mem
 &emsp;Pro auditu es dolens, eleva barbam,\
 &emsp;Et apprehendes maiorem dolorem respiciendo.
 
-(1) saccta — (2) a più alti intellecti che hystorici — (3) da fanciulli — (4) giovine — (5) colpi — (6) el viso — (7) chi ti riprende.
+(1) saecta — (2) a più alti intellecti che hystorici — (3) da fanciulli — (4) giovine — (5) colpi — (6) el viso — (7) chi ti riprende.
 
 Et si summa complacentia, quam in me habebas, perdidisti propter mortem meam, que res mortalis debebat te trahere ad amorem suum? Certe, nulla: nam tu debebas, videndo me mortuam, quia mors mea fuit sagipta rerum fallacium, extollere te, et quasi mori toto mundo in delectationibus eiusdem, sicut ego, quia non eram plus talis, idest viva. Nec non debebas expectare plures ictus, idest plura exempla, quia mors mea debuit tibi esse sufficiens exemplum ad despiciendum omnia caduca; et tamen tu dilexisti Pargolectam, idest adhuc voluisti diligere aliam puellam post mortem meam. Nec debuisti sequi aliquam aliam vanam [rem]. Nam tu eras iam bene adultus, quia eras vigintiquinque annorum, quando ego moriebar. Non debuisti facere, sicut faciunt pueri inexperti, quia iam eras expertus de mundo. Nam avicule iuvencule, quia nondum experte periculorum sunt, expectant bis vel ter terreri antequam fugiant. Sed aves pennate, idest antique vel experte periculorum, non sic expectant, imo sepissime rethia in vanum expanduntur ad capiendum ipsas, quia cavent sibi a rethe. Tunc, auditis hiis, Dantes stabat, sicut stant pueri verecundi et muti, pro verecundia auscultantes, quos penitet eorum de quibus reprehenduntur.
 

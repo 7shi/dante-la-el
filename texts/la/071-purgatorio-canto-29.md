@@ -108,7 +108,7 @@ Modo dicit: Centum passus, idest adhuc parum eundo, domina fecit auctorem actent
 
 Non adhuc fuit nostra via multa, quando domina mea ad me se torsit, idest revertit, dicendo: Frater (vocat hic auctorem fratrem, quia auctor querebat virtutem et operationem eius, scilicet virtutis), frater mi, respice et ausculta, scilicet rem mirabilem. Vult ista domina quod auctor disponat se ad videndum et audiendum.
 
-Et ecce unum lustrum, idest unum lumen, vel splendor, subito transcu[cu]rrit ab omnibus partibus per grandem forestam, idest magnam silvam, taliter quod coruscationis me misit in forsan, idest in dubium. Vult dicere quod aier est factus clarus (ista lux est illa, quam premictebant candelabra), qui erat maior quam unquam visus; qua luce totus ortus ille fuit clarificatus, et qua illustrantur omnes qui vadunt ad Deum: septem dona Spiritus Sancti causant hanc lucem. Quam lucem crediderim tore accensionem, sive coruscationem, si durasset.
+Et ecce unum lustrum, idest unum lumen, vel splendor, subito transcu[cu]rrit ab omnibus partibus per grandem forestam, idest magnam silvam, taliter quod coruscationis me misit in forsan, idest in dubium. Vult dicere quod aier est factus clarus (ista lux est illa, quam premictebant candelabra), qui erat maior quam unquam visus; qua luce totus ortus ille fuit clarificatus, et qua illustrantur omnes qui vadunt ad Deum: septem dona Spiritus Sancti causant hanc lucem. Quam lucem crediderim fore accensionem, sive coruscationem, si durasset.
 
 Sed quia coruscatio, sicut venit, restat, idest desinit, et illud durando magis et magis splendebat, in mea cogitatione dicebam: Que res est ista?
 
