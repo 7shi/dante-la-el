@@ -546,7 +546,7 @@ Con l'ale aperte ed a calare intesa...\
 • • • • • • • • •\
 Poi mi parea che più rotata un poco,\
 Terribil come folgor discendesse,\
-E me rapisse suso intino al foco.
+E me rapisse suso infino al foco.
 
 Quivi posato, vede la porta suddetta, guardata da un angelo silenzioso, armato di folgorante spada; e volendo entrare, deve prima in ginocchio confessar le sue colpe. Allora la porta si apre, forte sonando sopra i rugginosi suoi cardini: il che ci fa pensare le gravi difficoltà, che deve vincere l'uomo travolto nei diletti del senso, per levarsi alle pure dolcezze dello spirito. Notò il Tommasèo, e riprovò, in questo canto l'abbondanza d'immagini mitologiche, adoperate dal Poeta, quantunque a mano a mano che s'avanza nell'argomento, diradino, e sulla fine la poesia pigli pienezza di luce e di calore dalle sole sublimità ideali della fede cristiana, astraendo da ogni reminiscenza gentilesca, in cui l'idea, pur troppo, dal simbolo, più che rivestita, è nascosta e sfigurata. Ma l'illustre commentatore, benchè sì acuto e sagace, non colse forse nell'intendimento del Poeta, che fu di farci vivamente sentire il contrapposto tra il sensuale gentilesimo e l'altezze della fede, della speranza e della carità cristiane, riparatrici dell'abbassamento, in cui l'uomo dalla colpa veniva travolto.
 
