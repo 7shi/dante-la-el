@@ -147,6 +147,7 @@ Progress (2026-11-05):
   lines around it); the words it flags are decided in the image, the rest are not
   recorded. Batch 1 (0001–0160): 2,592 words, 29 flagged: 7 misprints, 22
   printed (most in the papal documents, the words of their transcription).
+  Batch 2 (0161–0320): 2,614 words, 23 flagged: 5 misprints, 18 printed.
   No group 2 candidate is left out by script (a Tesseract word that joins an elided word
   to the form, `Nellumiliare`, is still looked at: the same
   shape covers real differences, `inanz'a` against `inanza`).
@@ -383,8 +384,13 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0125 | 33 | `omnium honorum statutorum` | `bonorum` | Commentary; `h` for `b`; found by check 2. |
 | 0148 | 77 | `*Oculos reclos retorsit in obliquum*` | `rectos` | Italic gloss; a tall italic `l`, as in `Oculos`, for `t`; the Latin verse 31 above has `Rectos`; found by check 2. |
 | 0216 | 30 | `arere, idest in bonis aliorum` | `avere` | Italic lemma; its second letter is the italic `r` of its fourth, as 0154 and 0204; found by check 2. |
+| 0190 | 56 | `dominus Guido, esset mortaus;` | `mortuus` | Commentary; `a` for `u`; found by check 2. |
+| 0242 | 33 | `Et quamquem tu veneris multum` | `quamquam` | Latin verse; italic; `e` for `a`; found by check 2. |
 | 0258 | 19 | `Già era in loco, dore:` | `dove` | Italic lemma; the italic `r` of `era` beside it, as 0154 and 0204; found by check 2. |
+| 0269 | 38 | `Sxus azurrina, sive de` | `Sus` | Commentary; an `x` added; found by check 2. |
 | 0274 | 108 | `cum cauda, veluit Virgilius` | `voluit` | Found by check 2. |
+| 0295 | 70 | `*piumbat*, id st perpendiculariter` | `est` | Commentary; the `e` not printed; found by check 2. |
+| 0299 | 31 | `(11) da Virgllio.` | `Virgilio` | Footnote; `l` for `i`; found by check 2. |
 | 0515 | 81–82 | `ad Lu-` / `cillum:` | `Lucilium` | Commentary (Seneca's letters); a second `l`, not an `i`; found by check 2. |
 | 0613 | 81 | `*di sparento*, idest pavefactione` | `spavento` | Italic lemma (Italian verse `spavento`); an italic `r`, unlike the italic `v` of `sapevamo` (0640); found by check 2. |
 | 0640 | 52 | `famiam, qued in uno loco` | `quod` | Commentary; the third letter has no visible bar (`qucd` or `qued`); found by check 2. |

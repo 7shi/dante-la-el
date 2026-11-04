@@ -442,6 +442,7 @@ page	line	form	decision	note
 0179	105	abbica	printed	
 0180	16	allecta	printed	
 0180	22	port	printed	
+0180	54	effectos	printed	
 0180	72	starem	printed	
 0180	92	despecte	printed	
 0181	17	sepolchri	printed	
@@ -471,8 +472,12 @@ page	line	form	decision	note
 0187	22	arrestar	printed	
 0187	55	duplicabitur	printed	
 0187	72	immortalem	printed	
+0189	66	superatam	printed	
 0190	6	viv	printed	
+0190	56	mortaus	misprint	for mortuus; a for u
 0190	64	Steteram	printed	
+0191	40	Lustratio	printed	italic lemma; for Lo strazio
+0192	10	solvitis	printed	
 0192	57	ufficia	printed	
 0192	88	proverbiam	printed	
 0193	11	appressono	printed	
@@ -505,10 +510,13 @@ page	line	form	decision	note
 0196	13	mere	printed	
 0196	13	percepito	printed	
 0196	13	sterminata	printed	
+0199	52	spirici	printed	
 0199	56	circundat	misread	corrected to circumdat
 0200	79	meio	printed	
 0200	95	ingiuria	printed	
 0201	8	pòne	printed	
+0201	44	profecto	printed	
+0202	19	consumcto	printed	
 0203	15	Bestialitade	printed	
 0203	25	agrata	printed	
 0203	47	turbatam	printed	
@@ -528,6 +536,7 @@ page	line	form	decision	note
 0214	14	maxillas	printed	
 0214	22	intincta	printed	
 0214	53	interficietur	printed	
+0214	77	miscicus	printed	
 0215	48	conducas	printed	
 0215	100	movemo	printed	
 0216	30	arere	misprint	for avere; italic r for v, as 0154, 0204
@@ -541,6 +550,7 @@ page	line	form	decision	note
 0220	45	credervi	printed	
 0222	7	nvolti	printed	
 0222	10	selvaggie	printed	
+0222	46	attentes	printed	
 0222	56	fuschi	printed	
 0222	68	assignari	printed	
 0223	31	animatus	printed	
@@ -565,8 +575,11 @@ page	line	form	decision	note
 0227	15	convertì	printed	
 0227	77	spiegat	printed	
 0227	103	redibimus	printed	
+0228	12	lacaccia	printed	la[ca]ccia, the brackets printed
+0228	65	rosas	printed	
 0228	74	creditorum	printed	
 0228	92	fraschas	printed	
+0228	92	sternire	printed	italic lemma
 0228	94	legaturam	printed	
 0229	14	Presem	printed	
 0230	43	disiunctis	printed	
@@ -635,6 +648,7 @@ page	line	form	decision	note
 0238	76	invocate	printed	
 0240	97	paiese	printed	
 0242	12	apparisse	printed	
+0242	33	quamquem	misprint	for quamquam; e for a
 0243	3	favolose	printed	
 0243	3	apparire	printed	
 0243	11	asconde	printed	
@@ -664,6 +678,7 @@ page	line	form	decision	note
 0249	28	arei	printed	
 0249	58	arestat	printed	
 0249	64	superveniam	printed	
+0250	10	tractar	printed	
 0251	102	Letame	printed	
 0251	110	cooperto	printed	
 0252	16	allei	printed	
@@ -682,6 +697,7 @@ page	line	form	decision	note
 0258	53	fiaure	printed	
 0259	10	purch	printed	
 0259	25	Drizzav	printed	
+0263	23	fiumo	printed	f[i]umo, the brackets printed
 0263	25	Apennino	printed	
 0263	71	delectabit	printed	
 0264	7	poc	printed	
@@ -710,6 +726,7 @@ page	line	form	decision	note
 0267	25	Conventi	printed	
 0267	25	rassereni	printed	
 0269	24	significet	printed	
+0269	38	Sxus	misprint	for Sus; an x added
 0270	34	moveas	printed	
 0271	12	benign	printed	
 0271	16	Depincti	printed	
@@ -721,6 +738,7 @@ page	line	form	decision	note
 0272	5	aseta	printed	
 0272	69	Torciendo	printed	
 0272	71	furcatam	printed	
+0273	11	scoppiano	printed	
 0273	40	mordentur	printed	
 0273	56	testam	printed	
 0273	70	grossarum	printed	
@@ -746,6 +764,7 @@ page	line	form	decision	note
 0278	82	archu	printed	
 0279	43	oca	printed	
 0279	51	fïate	printed	
+0282	68	vascis	printed	
 0283	21	Gerïon	printed	
 0283	75	scoli	printed	
 0286	77	ragiunsi	printed	
@@ -764,6 +783,7 @@ page	line	form	decision	note
 0291	63	disdegna	printed	
 0293	13	tybie	printed	
 0295	48	mundatus	printed	
+0295	70	st	misprint	for est (id est); the e not printed
 0296	6	Rupp	printed	
 0296	57	excusavit	printed	
 0296	89	punctas	printed	
@@ -778,7 +798,9 @@ page	line	form	decision	note
 0298	96	cremationem	printed	
 0299	6	nganno	printed	
 0299	20	Orsa	printed	
+0299	31	Virgllio	misprint	for Virgilio; l for i
 0299	82	affectas	printed	
+0299	99	fetamine	printed	
 0299	102	dimandam	printed	
 0301	19	orate	printed	
 0301	28	previde	printed	
@@ -826,6 +848,7 @@ page	line	form	decision	note
 0317	6	inverno	printed	
 0318	11	dïsse	printed	
 0318	23	Gridàr	printed	
+0318	52	exterrit	printed	
 0318	67	onerabat	printed	
 0318	72	gremitum	printed	
 0318	79	Antianus	printed	
