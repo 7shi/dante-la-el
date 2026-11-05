@@ -2,10 +2,10 @@
 
 This is the plan for `ocr/la`, the transcription of Serravalle's translation and commentary
 (1891), now that it is complete. The completed work (the verse, the two-OCR markup, the
-batches, the retyping, the line checks and the conversion) and the checks after it (check 1,
-the verse check, the italics and check 2) are recorded in [DONE.md](DONE.md); the
-read-through still to do is under "Read-through". The "procedure" steps and the "items"
-cited below are those of DONE.md. The conversion into
+batches, the retyping, the line checks and the conversion), the checks after it (check 1,
+the verse check, the italics and check 2) and the part of the read-through done so far
+are recorded in [DONE.md](DONE.md); the read-through still to do is under "Read-through".
+The "procedure" steps and the "items" cited below are those of DONE.md. The conversion into
 `texts/la/` is described in [texts/PLAN.md](../../texts/PLAN.md) ("`texts/la/`"). A short
 account of the whole work, for checking the other texts, is in [SUMMARY.md](SUMMARY.md).
 
@@ -14,26 +14,14 @@ apply them, do not ask again.
 
 ## State (2026-11-05)
 
-`ocr/la` is complete (`0001`–`1296`) and converted into `texts/la/001`–`110` (DONE.md).
-What the completed method cannot see are errors that both OCRs share: `ocr/la` was proofread
-by marking where it disagrees with GLM-OCR, so a word that both read alike and wrongly is
-not marked (0085 `terret` for printed `territ`, 0197 `circuleto` for `circulecto`, both
-corrected outside the markup). The checks of "Checks" looked for them (decided with the user,
-2026-11-01).
+`ocr/la` is complete (`0001`–`1296`) and converted into `texts/la/001`–`110`. The checks
+for errors that both OCRs share (check 1, the verse check, the italics, check 2) are done
+(DONE.md); what they do not cover is under "Known limits".
 
-Done (DONE.md): check 1 (lemmas against the verse: 1,271 candidates, 9 misread, and about
-80 more errors found in the same lines and by the searches they led to), the verse check
-(the Latin verse against the Italian text, then every line of both verse columns read again
-from the image: about 250 lines misread and 46 misprints), the italics (marked `*…*`
-over the whole volume from the slant of the print, the flagged lines decided in the image:
-4,232 pairs on 908 pages; "Italics" under "Conventions settled during the check") and
-check 2 (rare forms near common ones: 22,567 candidates, the first two groups decided in
-the image and the third read for sense, 149 misread and 94 misprints). What they do not
-cover is under "Known limits".
-
-Next: the read-through ("Read-through"), planned with the user on 2026-11-05; the tools
-are made (step 0) and the trial is done (step 1); the batches (step 2) are under way: read
-0001–0400 and 0595–0614.
+The read-through ("Read-through") is under way: 0001–0400 and the trial pages 0595–0614
+are read, decided and committed (`43a1f60`, `9b91553`; DONE.md, "Read-through"). Next:
+0401–1296 in batches of 25 pages, the trial pages left out; a commit only when the user
+asks for it.
 
 ## Checks
 
@@ -45,27 +33,13 @@ The checks list candidates by script, and every candidate is decided in the imag
   the edition (a spelling of the manuscript, a variant of the quotation) is only recorded;
 - **other**: not a reading at all (a split word, a name, Italian in the Latin); recorded.
 
-The decisions are kept in a table per check in `ocr/la/` (`lemmacheck.tsv`,
-`versecheck.tsv`, `lexcheck.tsv`: `page line form decision note`), committed with the
-fixes. What each table holds and who reads it:
-
-- `lemmacheck.tsv` (check 1): only the candidates decided `printed`; a misread candidate was
-  corrected and is no longer a candidate. `scripts/lemmacheck.py` reads it and leaves out what is
-  decided (matched by page and form, as line numbers shift), so a rerun lists only new
-  candidates.
-- `versecheck.tsv` (verse check): every decided line, `misread` (corrected; the note has
-  the old form, `was …`), `misprint` and `printed` (mostly the lines listed by step 0). A
-  record only: `scripts/versecheck.py` compares every line and does not read it.
-- `lexcheck.tsv` (check 2): `page line form decision note`, as `lemmacheck.tsv`; its forms
-  are left out by `scripts/lexcheck.py`.
-- `readcheck.tsv` (the read-through, not yet made): every flagged place decided, as
-  `versecheck.tsv`.
+The decisions are kept in a table per check in `ocr/la/` (`page line form decision note`),
+committed with the fixes: those of the checks done are described in DONE.md ("The checks");
+the read-through's is `readcheck.tsv`, every flagged place with its decision (`misread`
+with the old form in the note, `was …`; `misprint`; `printed`), sorted by page and line.
 
 The misprints are gathered in "Suspected misprints" whatever found them (the markup, a
 check, by chance); a `misprint` row of a table is also a row there.
-
-Check 1, the verse check, the italics and check 2 are done (DONE.md: their records, and
-"The checks" for their order and what later work takes from them).
 
 ## Read-through
 
@@ -80,37 +54,38 @@ before: check 2, group 3, judged only its candidates. The same steps then serve
 - **Reader**: la-el-agy reads the text, not the images, and flags places; it corrects
   nothing. Every flagged place is decided in the image as above (misread, misprint,
   printed); a damaged letter is restored by the sense.
-- **Steps**:
-  0. Preparation (done): `ocr/scripts/pages.py` writes the pages of `texts/la` for a
-     range, cut at the page markers, for the reader; `ocr/scripts/findline.py` finds the
-     lines of the flagged phrases in `ocr/la` (the marks removed first);
-     `ocr/scripts/txtfix.py` applies the fixes (`PAGE:LINE old new`)
-     ([ocr/scripts/README.md](../scripts/README.md), "The read-through").
-  1. Trial (done, 2026-11-05): 0595–0614 (19 pages, 12,723 words) as they were at
-     `b772857`, before the checks after completion (`89ac4a3`, the first OCR, has too
-     many errors to stand for what is left). Of the 40 word corrections made there since
-     (spacing aside), 16 were flagged; of the 24 missed, 10 are spellings the OCR had
-     normalized (`Quae` for `Que`, `condemnati`), which no reading for sense can see, and
-     most of the rest accents (`despiciébat`, `fuggíro`, `sian` for `siàn`). The other 39
-     flags fell on text that every check had passed: 10 misread (a line out of place on
-     0602, `da` for `datur`, `ingre-` for `inge-`, accents of the essay), 9 misprints (4
-     already listed), 20 printed (mostly Serravalle's Latin against the verse). The pages
-     count as read; their decisions are the first rows of `readcheck.tsv`.
-  2. Batches over the whole of `texts/la`, whole pages, their size set by the trial. The
-     reader writes a TSV: page, the phrase as written, the reason.
-  3. Decisions: a misreading is corrected in `ocr/la`; a misprint goes into "Suspected
-     misprints"; every decision is a row of `readcheck.tsv`.
-  4. After the fixes: `texts/scripts/convert_la.py`, `ocr/la/scripts/seqcheck.py 79 1270` and
-     `ocr/la/scripts/check.py 79 1287`, each compared with its previous output; a commit per
-     batch, `ocr/la` and `texts/la` apart.
-  5. The other texts, after `la`: the same steps, a trial of a few pages each, the images
-     `ocr/{dir}/NNN.png`, the records in each `ocr/{dir}/`; what no check has read there
-     is mainly prose (SUMMARY.md).
+- **Done so far** (DONE.md, "Read-through"): the tools, the trial on 0595–0614, the
+  batches of 0001–0400.
+- **Steps** for each batch of 25 pages (`FIRST`–`LAST`):
+  1. `uv run ocr/scripts/pages.py texts/la FIRST LAST -o tmp/read/FIRST-LAST.md` writes the
+     pages for the reader; the task file names it and the TSV to write (page, the phrase
+     as written, the reason) ([ocr/scripts/README.md](../scripts/README.md), "The
+     read-through").
+  2. `ocr/scripts/findline.py` finds the lines of the flagged phrases in `ocr/la`; the
+     rows of "Suspected misprints" for the batch's pages are looked up, so that a listed
+     misprint is not listed twice.
+  3. Decisions, each in the image: a misreading is corrected in `ocr/la` with
+     `ocr/scripts/txtfix.py` (`PAGE:LINE old new`); a misprint goes into "Suspected
+     misprints" ("found by the read-through"); every decision is a row of `readcheck.tsv`.
+     The settled readings: Serravalle's Latin, its grammar and his way of translating the
+     verse are printed; so are the edition's Italian readings and a visible accent. An
+     Italian verse that differs from Dante where the Latin shows the right reading, an
+     accent missing with none visible, and a sure non-word are misprints. A line-end hyphen
+     kept inside an essay line is a misreading.
+  4. After the fixes: `texts/scripts/convert_la.py` (only the four `NO NUMBER` lines, 0099
+     ×2, 0363, 0856), `ocr/la/scripts/seqcheck.py 79 1270` and
+     `ocr/la/scripts/check.py 79 1287`, each compared with its previous output.
+  5. The status in "State" is updated. Commits, `ocr/la` and `texts/la` apart, only when
+     the user asks: after a range they set, not after each batch.
+- **The other texts**, after `la`: the same steps, a trial of a few pages each, the images
+  `ocr/{dir}/NNN.png`, the records in each `ocr/{dir}/`; what no check has read there is
+  mainly prose (SUMMARY.md).
 - **The reader's task** (basic rules only, not new ones each round): flag, do not
   correct; the medieval spellings (`michi`, `nichil`, `e` for `ae`) and the old Italian
   ones are the edition's and not errors; the printed punctuation is not normalized; no
   subagents and no git commands; the TSV written as a file (a script it runs takes `-o`,
-  no shell redirection). Each request is sent after the user's signal.
+  no shell redirection). Within a range the user has set, each batch is sent when the last
+  one is decided; after the user switches the reader's model, wait for their signal.
 
 ## Standing rules
 
@@ -539,8 +514,9 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
   Its group 3 (Tesseract read the form itself; 19,817 words, 0.8% misread in the trial) was
   read for sense by la-el-agy, not in the image: only the 185 words it flagged were looked
   at, so a misreading that still gives a sense (a real word, a name, a verse word) or that
-  the reader passed over may remain. The read-through ("Read-through") is planned for what
-  these checks leave.
+  the reader passed over may remain. The read-through ("Read-through") reads for what
+  these checks leave; it does not see a misreading that reads well (an OCR normalization,
+  an accent; DONE.md, "Read-through").
 - Check 1 needs a lemma of 3 words with 2 equal to the verse, and a word within an edit
   distance of 2: 0154 `nuove traraglia` (2 words; the Latin verse has `travagle`, 3 edits)
   is not found.

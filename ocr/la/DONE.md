@@ -4,9 +4,10 @@ The record of how `ocr/la`, the transcription of Serravalle's translation and co
 (1891), was completed and converted into `texts/la/` (2026-10-10 – 2026-11-01): the state at
 the end, the work items, the procedure for a batch, the two-OCR markup method, what the
 delegation taught, and the history. It was the body of [PLAN.md](PLAN.md) until the work
-was done; PLAN.md now holds the checks planned after it; check 1, the verse check,
+was done; PLAN.md now holds the work still planned; check 1, the verse check,
 the italics and check 2, done, are recorded here ("Check 1", "Verse check", "Italics", "Check 2"),
-with their order and what later work takes from them ("The checks"). Sections cited here that are not in
+with their order and what later work takes from them ("The checks"), and so is the part of
+the read-through done so far ("Read-through"). Sections cited here that are not in
 this file ("Standing rules", "Conventions settled during the check", "Suspected misprints",
 "Known limits", "Sources for checking", "Tools") are in PLAN.md. "Remaining work" in the
 text below means "Work items" here.
@@ -1243,8 +1244,16 @@ batches, 2026-11-01 – 2026-11-03), the italics (the whole volume, 2026-11-01 �
 are recorded above ("Check 1", "Verse check", "Italics", "Check 2").
 What later work takes from them:
 
-- `lemmacheck.tsv`, `versecheck.tsv` and `lexcheck.tsv`: their forms are decided;
-  `scripts/lexcheck.py` leaves them out, so a rerun lists only new candidates.
+- The tables of decisions (`page line form decision note`, in `ocr/la/`):
+  - `lemmacheck.tsv` (check 1): only the candidates decided `printed`; a misread candidate
+    was corrected and is no longer a candidate. `scripts/lemmacheck.py` reads it and leaves
+    out what is decided (matched by page and form, as line numbers shift), so a rerun lists
+    only new candidates.
+  - `versecheck.tsv` (verse check): every decided line, `misread` (corrected; the note has
+    the old form, `was …`), `misprint` and `printed` (mostly the lines listed by step 0). A
+    record only: `scripts/versecheck.py` compares every line and does not read it.
+  - `lexcheck.tsv` (check 2): as `lemmacheck.tsv`; its forms are left out by
+    `scripts/lexcheck.py`.
 - Check 1's procedure per batch (crops in a shuffled order, read by la-el-agy from the images
   alone, compared line by line, every difference decided in the image) served check 2,
   group 2, with crops of the words. Match every reading to its line before comparing
@@ -1258,6 +1267,56 @@ What later work takes from them:
   readers' errors: a common spelling written for the printed one, a misprint corrected,
   accents left out or added, specks read as marks; in batch 11 the tercet numbers of
   three cantos left out and reported as not printed. A report is not taken as true.
+
+## Read-through (2026-11-05 – )
+
+The last reading of `texts/la` for sense (PLAN.md, "Read-through", for its aim and the
+steps of a batch). Done so far: the tools, the trial and the batches of 0001–0400; the
+rest is in PLAN.md.
+
+- **Tools** (done before the trial): `ocr/scripts/pages.py` writes the pages of
+  `texts/la` for a range, cut at the page markers, for the reader; `ocr/scripts/findline.py`
+  finds the lines of the flagged phrases in `ocr/la` (the marks removed first);
+  `ocr/scripts/txtfix.py` applies the fixes (`PAGE:LINE old new`)
+  ([ocr/scripts/README.md](../scripts/README.md), "The read-through").
+- **Trial** (`a71a5c6`, `cb3c355`): 0595–0614 (19 pages, 12,723 words) as they were at
+  `b772857`, before the checks after completion (`89ac4a3`, the first OCR, has too many
+  errors to stand for what is left). Of the 40 word corrections made there since (spacing
+  aside), 16 were flagged; of the 24 missed, 10 are spellings the OCR had normalized
+  (`Quae` for `Que`, `condemnati`), which no reading for sense can see, and most of the
+  rest accents (`despiciébat`, `fuggíro`, `sian` for `siàn`). The other 39 flags fell on
+  text that every check had passed: 10 misread (a line out of place on 0602, `da` for
+  `datur`, `ingre-` for `inge-`, accents of the essay), 9 misprints (4 already listed), 20
+  printed (mostly Serravalle's Latin against the verse). The pages count as read; their
+  decisions are the first rows of `readcheck.tsv`. The batch size was set from it: 25 pages.
+- **0001–0200** (`7807b21`, `b2583a4`): 441 places flagged by la-el-agy, in batches of 25
+  pages; 11 misread (corrected on 0021, 0048, 0071, 0086, 0089, 0092, 0131, 0171, 0173,
+  0192), 105 misprints (45 rows added to "Suspected misprints", the rest already there or
+  on the same row), 325 printed.
+- **0201–0400** (`43a1f60`, `9b91553`): 342 places; 7 misread (0204 `ipsum` for `ipsam`,
+  0221 `Vincis` for `Vineis`, two line-end hyphens kept inside an essay line on 0232, 0271
+  `Depictus` for `Depictas`, 0276 a speck read as `à`, 0301 `cum` for `eum`), 76 misprints
+  (48 rows added), 259 printed.
+- `readcheck.tsv` holds every decision: 822 rows after 0400.
+
+What the batches showed:
+
+- Most flags are printed text: Serravalle's Latin against the verse he translates (a case,
+  a tense, a word left out or kept in Italian) and the edition's Italian readings. They
+  are decided quickly in the image, and the rules for them are settled in PLAN.md
+  ("Read-through", step 3).
+- The misprints found are mostly of three kinds: an Italian verse that differs from Dante
+  where the Latin has the right word (0330 `Ravenna` for `Navarra`, 0351 `ponte` for
+  `monte`), accents missing in the essays (0303, 0359, 0394), and a Latin non-word (0337
+  `veilata`, 0369 `obetrat`).
+- The misreadings are few (18 in 400 pages): single letters (`c`/`e`, `u`/`n`), a speck
+  read as an accent, hyphens of a broken line kept in a paragraph line.
+- The reader's TSV is located by `findline.py` (every phrase found in these batches); a
+  page given wrongly (0264 for 0265) is caught when the place is cropped.
+- herdr dropped the reader's name twice (shown as `-` in `herdr agent list`); the user
+  restored it each time. From 0351 the reader ran on a lower model (a rate limit): its
+  flags were as many and as well placed, with more of them on Serravalle's Latin.
+- Commits: one pair per range, when the user asked for it (0200, 0400), not per batch.
 
 ## Work items 1–10 (all done)
 
