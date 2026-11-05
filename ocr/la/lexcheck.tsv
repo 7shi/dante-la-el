@@ -2160,15 +2160,19 @@ page	line	form	decision	note
 0958	62	immortales	printed	
 0961	31	colericum	printed	
 0961	32	influant	printed	
+0962	65	huinsmodi	misread	corrected to huiusmodi
 0963	6	esserv	printed	
 0963	27	pulcherrimis	printed	
 0963	71	sacrificiis	printed	
+0963	108	cautatur	misprint	for cantatur; u for n
 0964	73	pulcherrimis	printed	
 0964	111	faro	printed	
 0965	18	accrebbe	printed	
 0966	20	Typheo	printed	
 0966	57	ità	printed	
 0966	67	Barum	printed	
+0966	79	divideus	misprint	for dividens; u for n
+0966	96	surt	misprint	for sunt; r for n
 0967	10	offendesse	printed	
 0967	95	ageret	printed	
 0968	37	conveniant	printed	
@@ -2187,14 +2191,17 @@ page	line	form	decision	note
 0979	6	abbuia	printed	
 0979	96	coxa	printed	
 0979	111	esterna	printed	
+0980	7	suia	misprint	for fuia; s for f
 0980	13	intuassi	printed	
 0980	13	immii	printed	
 0980	34	expectarem	printed	
 0980	62	intuarem	printed	
+0980	87	Mediterrancum	misprint	for Mediterraneum; c for e
 0981	34	Iolem	printed	
 0981	63	Iolem	printed	
 0981	64	arserunt	printed	
 0981	67	biberant	misread	corrected to biberunt
+0981	87	aunis	misprint	for annis; u for n
 0981	109	salvaverunt	printed	
 0982	19	pocho	printed	
 0982	94	crucifixa	printed	
@@ -2204,11 +2211,13 @@ page	line	form	decision	note
 0984	93	pineta	printed	
 0986	77	Antarthicum	printed	
 0987	109	sufficientiam	printed	
+0988	52	ides	misread	the t damaged; restored, idest
 0989	29	invocem	printed	
 0989	73	innuet	printed	
 0990	19	eclypsò	printed	
 0990	66	Regrazia	printed	
 0991	18	arrestin	printed	
+0992	51	Apulic	misprint	for Apulie; c for e
 0993	10	Aiutò	printed	
 0995	41	invidunt	printed	
 0996	38	riflessi	printed	
@@ -2232,18 +2241,22 @@ page	line	form	decision	note
 1006	92	fioca	printed	
 1006	99	intenditur	printed	
 1008	17	manifestò	printed	
+1008	26	iuce	misprint	for luce; i for l
 1008	41	eremita	printed	
 1008	89	cri	printed	
 1011	14	circumcinxit	printed	
+1012	15	Hie	misread	corrected to Hic
 1014	15	Noè	printed	
 1014	99	cavas	printed	
 1015	88	Scripturis	printed	
 1017	51	succucurrit	printed	
 1018	21	Iohanna	printed	
 1019	15	oficio	printed	
+1019	51	pauperiibus	misprint	for pauperibus; an i added
 1019	103	º	printed	
 1020	102	aliquantulam	printed	
 1021	16	degnò	printed	
+1022	16	Dampuamus	misprint	for Dampnamus; u for n
 1022	22	discretum	printed	
 1023	9	obscuratum	printed	
 1023	14	sapïenza	printed	
@@ -2259,12 +2272,15 @@ page	line	form	decision	note
 1030	7	intrea	printed	
 1030	19	Ydeal	printed	
 1030	20	avvien	printed	
+1030	73	speculator	printed	the verse has specchiato
+1031	69	corruptilium	misprint	for corruptibilium; bi not printed at the line end
 1031	80	planctata	printed	
 1032	22	intenzion	printed	
 1032	66	petiisti	printed	
 1033	5	prend	printed	
 1035	49	attenersi	printed	
 1035	55	Ales	printed	
+1035	55	deila	misprint	for della; i for l
 1035	70	creare	printed	
 1036	20	removebant	printed	
 1037	13	circundat	misread	corrected to circumdat
@@ -2275,6 +2291,7 @@ page	line	form	decision	note
 1040	55	angustiis	printed	
 1040	62	Traces	printed	
 1040	77	circumdato	printed	
+1042	106	contitetur	misprint	for confitetur; t for f, the height of the other t
 1043	9	apparveno	printed	
 1043	57	cauma	printed	
 1044	11	quï	printed	
@@ -2296,6 +2313,7 @@ page	line	form	decision	note
 1047	62	ingenita	printed	
 1047	63	rifluire	printed	
 1047	66	pensiamo	printed	
+1050	10	voloutà	misprint	for volontà; u for n
 1050	19	volontade	printed	
 1050	20	liqua	printed	
 1050	69	trabere	misprint	for trahere; a b, unlike the h of trahit beside it
@@ -2310,6 +2328,7 @@ page	line	form	decision	note
 1056	9	figl	printed	
 1056	95	pulchriora	printed	
 1057	47	Elyzeus	printed	
+1057	51	scooperta	printed	
 1057	85	Graccorum	printed	
 1060	10	oserebbero	printed	
 1060	17	Evangelina	printed	
@@ -2318,12 +2337,15 @@ page	line	form	decision	note
 1063	86	osculum	printed	
 1064	50	spirar	printed	
 1066	10	avolo	printed	
+1066	102	infirmate	misprint	for infirmitate; it not printed
 1067	55	edificiorum	printed	
 1067	73	deferunt	printed	
 1068	43	Iochi	printed	
 1068	55	aliquę	misread	corrected to alique
 1068	77	solemnis	misread	corrected to solempnis
 1068	97	lucrandum	printed	
+1069	73	pinguendo	printed	
+1071	12	Chel	printed	the Latin verse has Que
 1071	18	giglo	printed	
 1071	93	plangeret	printed	
 1072	49	difettivi	printed	
@@ -2357,6 +2379,7 @@ page	line	form	decision	note
 1081	60	armem	printed	
 1083	39	operò	printed	
 1083	83	Dommat	printed	
+1085	10	cam	misprint	for eam; c for e
 1085	48	subditos	printed	
 1087	39	desideres	printed	
 1087	98	reflexe	printed	
@@ -2382,6 +2405,8 @@ page	line	form	decision	note
 1097	69	capis	printed	
 1097	72	passurum	printed	
 1098	69	infinitivo	printed	
+1099	6	onchiostro	misprint	for inchiostro; o for i
+1099	71	elementia	misprint	for clementia; e for c
 1099	91	atramentum	printed	
 1099	104	commendent	printed	
 1100	10	aprende	printed	
@@ -2398,12 +2423,15 @@ page	line	form	decision	note
 1107	29	certitudine	printed	
 1108	24	pregò	printed	
 1108	95	armonica	printed	
+1108	95	cicli	misprint	for cieli; c for e
 1108	96	avvivano	printed	
 1111	10	avevan	printed	
 1111	56	reefficitur	printed	
 1111	58	resplendent	printed	
+1111	58	desit	printed	
 1111	84	flavillis	printed	
 1111	97	recinerunt	printed	
+1111	104	tista	printed	
 1112	41	formatum	printed	
 1113	81	pröpter	printed	a mark over the o
 1113	117	conso	printed	

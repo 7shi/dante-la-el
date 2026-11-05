@@ -160,6 +160,8 @@ Progress (2026-11-05):
   Batch 6 (0801–0960): 2,431 words, 20 flagged: 2 misread (`fore`, an `f` with its bar
   lost, and `saecta`, damaged, its third letter unclear, corrected by the sense),
   12 misprints, 6 printed.
+  Batch 7 (0961–1120): 2,380 words, 28 flagged: 3 misread (`huiusmodi`, `Hic`, and
+  `idest`, its `t` damaged, restored), 19 misprints, 6 printed.
   No group 2 candidate is left out by script (a Tesseract word that joins an elided word
   to the form, `Nellumiliare`, is still looked at: the same
   shape covers real differences, `inanz'a` against `inanza`).
@@ -447,7 +449,26 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0917 | 54 | `demum redunt ad stellas` | `redeunt` | Commentary; the `e` not printed; found by check 2. |
 | 0929 | 91 | `idest ad suum arbitrum, aliquis` | `arbitrium` | Commentary; the `i` not printed; found by check 2. |
 | 0958 | 48 | `brutorum et animam plantaram.` | `plantarum` | Commentary; `a` for `u`; found by check 2. |
+| 0963 | 108 | `quando cautatur ad duplum` | `cantatur` | Commentary; `u` for `n`; found by check 2. |
+| 0966 | 79 | `(fluvius est divideus Marchiam` | `dividens` | Commentary; `u` for `n`; found by check 2. |
+| 0966 | 96 | `brachium maris, ubi surt` | `sunt` | Commentary; `r` for `n`; found by check 2. |
+| 0980 | 7 | `Vogla di sè a te puot'esser suia.` | `fuia` | Italian verse; `s` for `f`; found by check 2. |
+| 0980 | 87 | `Mediterrancum incipit` | `Mediterraneum` | Commentary; `c` for `e`; found by check 2. |
+| 0981 | 87 | `draginta aunis` | `annis` | Commentary; `u` for `n`; found by check 2. |
+| 0992 | 51 | `in regno Apulic, prope` | `Apulie` | Commentary; `c` for `e`; found by check 2. |
+| 1008 | 26 | `scendentale sua iuce` | `luce` | Essay; `i` for `l`; found by check 2. |
+| 1019 | 51 | `benigna plus pauperiibus` | `pauperibus` | Commentary; an `i` added; found by check 2. |
+| 1022 | 16 | `capitulo Dampuamus.` | `Dampnamus` | Commentary; `u` for `n`; found by check 2. |
+| 1031 | 69–70 | `corrupti-` / `lium` | `corruptibilium` | Commentary; `bi` not printed at the line end; found by check 2. |
+| 1035 | 55 | `Dottore deila Scolastica` | `della` | Essay; `i` for `l`; found by check 2. |
+| 1042 | 106 | `quia contitetur se` | `confitetur` | Commentary; `t` for `f`, the height of the other `t`, as 0582; found by check 2. |
+| 1050 | 10 | `(1) voloutà.` | `volontà` | Gloss; `u` for `n`; found by check 2. |
 | 1050 | 69 | `remisse trabere,` | `trahere` | A `b`, unlike the `h` of `trahit` on the page; found by check 2. |
+| 1066 | 102 | `vel infirmate vestra` | `infirmitate` | Commentary; `it` not printed; found by check 2. |
+| 1085 | 10 | `vidit cam pulcherrimam.` | `eam` | Commentary; `c` for `e`; found by check 2. |
+| 1099 | 6 | `nè scripse onchiostro,` | `inchiostro` | Italian verse; `o` for `i`; found by check 2. |
+| 1099 | 71 | `in iustitia et elementia regnum` | `clementia` | Commentary; `e` for `c`; found by check 2. |
+| 1108 | 95 | `danza dei cicli, e di tutte` | `cieli` | Essay; `c` for `e`; found by check 2. |
 | 1277 | 47 | `nisi maun Conditoris sui` | `manu` | Commentary; the tops of the letters are damaged, their feet show `maun`; found by check 2. |
 
 ## Known limits
