@@ -24,7 +24,7 @@ Done (DONE.md): check 1 (lemmas against the verse: 1,271 candidates, 9 misread, 
 (the Latin verse against the Italian text, then every line of both verse columns read again
 from the image: about 250 lines misread and 46 misprints), the italics (marked `*…*`
 over the whole volume from the slant of the print, the flagged lines decided in the image:
-4,291 pairs on 908 pages; "Italics" under "Conventions settled during the check") and
+4,235 pairs on 908 pages; "Italics" under "Conventions settled during the check") and
 check 2 (rare forms near common ones: 22,567 candidates, the first two groups decided in
 the image and the third read for sense, 149 misread and 94 misprints). All the planned
 checks are done; what they do not cover is under "Known limits".
@@ -405,8 +405,9 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
   `ocr/la_italicmark.py` flags were decided in the image (some pages read whole: the
   notizie 0022, 0027, 0029, 0031, 0033–0038; DONE.md, "Italics"): an unflagged word measured wrongly may keep a wrong mark, and the
   punctuation at a run's edge follows the convention ("Italics" under "Conventions"), not
-  the print. The 453 same-line `*a*. *b*` and `*a*: *b*` were not looked at (DONE.md,
-  "Italics", the split runs swept). Not marked: the dedication 0013–0014 (wholly
+  the print. The 453 same-line `*a*. *b*` and `*a*: *b*` were decided by sense (DONE.md,
+  "Italics", the same-line pairs read); the 332 a script took for an Italian and a Latin
+  lemma were skimmed as a list, not read one by one. Not marked: the dedication 0013–0014 (wholly
   italic), the figure labels, an italic digit at a run's end.
 - Check 2 lists a form found once or twice, near a form found at least 5 times: a
   misreading into a common word (0085 `terret` is a real word, printed on 0489), a rare

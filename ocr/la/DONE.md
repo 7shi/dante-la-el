@@ -1092,6 +1092,26 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
    Seen in passing, corrected in the image: 0247 `*Paduani*` → `Paduani` (roman),
    0990 `comenzo` → `comenzò`. 33 pages; `la_check.py` over 79–1287 and
    `la_seqcheck.py` over 79–1270 unchanged; `convert_la.py` only the expected warnings.
+
+   **The same-line pairs read** (0079–1287, 2026-11-05): the 453 `*a*. *b*` and
+   `*a*: *b*` the sweep left, decided by sense, not in the image (whether the stop is
+   italic can hardly be seen, and the convention does not follow the print). 332, where a
+   script found each run nearer the canto's verse in one language than in the other (an
+   Italian lemma and its Latin one), were skimmed as a list and kept as two pairs; the other
+   121 were read with their lines and the verse. Joined, 56 on 52 lines: one quotation
+   running on, the verse's own stop inside, mostly a speech and its introduction (0299
+   `*Tunc Virgilius dixit: Dicas sibi cito: Non sum ille,*`, 0297 `*Et ego: Tantum michi
+   pulchrum est*`, as 0862 `*Ed ella a me:*` / `*Da tema e da vergogna*:` above) or
+   consecutive verse lines (0123 `*… in apparentia: loquebantur tarde …*`, 0143 `*… sicut
+   canes. De uno latere*`). Kept, 65: the two languages side by side where the script did
+   not tell them apart (0312 `*Ed io*: *Maiestro*. *Et ego*: …`, 0159 `*Or discendiamo
+   omai*: *or descendamus admodum*`, 0121 `*dixit michi*: *Honorata nominanza*`), a word of the quotation taken
+   again as a lemma (0138 `*… suspicione*. *Soli*:`, 0199 `*stia*. *Stia*`), a lemma from
+   earlier in the verse (0180 `*De celo missus*`, 0318 `*Antianus*`). 0990:65 and 1104:80 keep their
+   Italian line-end stop outside, as the sweep left them (lemma paragraphs of their own);
+   their Latin pairs on the same line are joined. 4,235 pairs remain; `la_check.py` over
+   79–1287 and `la_seqcheck.py` over 79–1270 unchanged; `convert_la.py` only the expected
+   warnings.
 5. **Scripts** that read `ocr/la` (`la_check.py`, `la_seqcheck.py`, `la_lostcheck.py`,
    `la_lines.py`, `la_survey.py`, `la_lemmacheck.py` and so `la_versecheck.py`) remove the
    marks before reading (`unmark()`: every `*` not after a digit); `convert_la.py` keeps

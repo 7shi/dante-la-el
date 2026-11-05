@@ -50,7 +50,7 @@ De magicis fraudibus scivit ludum.
 Qui vacasse corio et spachui
 Nunc vellet, sed tarde eum penitet.
 
-*Ed io*: *Maiestro*. *Et ego*: *Magister, tua ratiocinia*
+*Ed io: Maiestro*. *Et ego: Magister, tua ratiocinia*
 *michi sunt ita certa, et apprehendunt ita meam fidem,*
 *quod alia michi essent carbones extincti*; idest nihil es-
 sent respectu tuorum.
@@ -107,5 +107,5 @@ magnus magicus et scivit artes magicas cum fraudibus,
 quia ars magica non est nisi illusio.
 
 *Vide Guidonem de Bonactis, vide Asdentem, qui va-*
-*casse corio et spachui nunc vellet*: *sed tarde eum penitet*.
+*casse corio et spachui nunc vellet: sed tarde eum penitet*.
 Iste Guido Bonacti fuit de Forlivio, mirabilissimus astro-

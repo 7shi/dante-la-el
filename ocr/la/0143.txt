@@ -75,7 +75,7 @@ sunt peximi. *Cerberus*: idest devorator ciborum: *fera*,
 idest, facit homines feras et bestias: *crudelis*: quia gulosus
 semetipsum interimit, semper manicantem: *diversa*: ab
 aliis: *oculos rubeos*: idest habet: *barbam unctam, ventrem*
-*largum et manus ungulatas*: *graffiat spiritus*: idest la-
+*largum et manus ungulatas: graffiat spiritus*: idest la-
 cerat, et gurgitat, incidit per quadrum. Ecce quomodo iste
 canis totum gulosum figurat. Habet oculos rubeos; ita sunt
 oculi ebriosorum: ventrem largum; nunquam implentur,
@@ -87,7 +87,7 @@ dum, sicut falco, propter deglutire, non propter conservare.
 patrimonium suum consumit. *Squatrat*, idest panem frangit
 in quadrum; nonnisi quatuor bolos facit de pane uno.
 
-*Ullulare facit eos pluvia sicut canes*. *De uno latere*
+*Ullulare facit eos pluvia sicut canes. De uno latere*
 *alteri faciunt schermum*: idest, substentaculum. *Vertunt*
 *sepe se miseri profani*: vertunt se per lectum gulosi,
 non potentes, propter nimiam repletionem, quiescere. *Pro-*
@@ -96,7 +96,7 @@ a fano, idest a licito; quia non reputantur boni, nec au-
 thentici, nec honorabiles.
 
 *Quando vidit nos magnus vermis, ora aperuit et*
-*ostendit nobis dentes*: *non habebat membrum solidum*
+*ostendit nobis dentes: non habebat membrum solidum*
 *et firmum*: modo ostendit auctor quid fecit canis, videns
 eos, scilicet Dantem et magistrum suum.
 Ebriosi nullum membrum habent solidum. Dicit Hugo
