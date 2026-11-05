@@ -4,8 +4,8 @@ The record of how `ocr/la`, the transcription of Serravalle's translation and co
 (1891), was completed and converted into `texts/la/` (2026-10-10 – 2026-11-01): the state at
 the end, the work items, the procedure for a batch, the two-OCR markup method, what the
 delegation taught, and the history. It was the body of [PLAN.md](PLAN.md) until the work
-was done; PLAN.md now holds the checks planned after it; check 1, the verse check and
-the italics, done, are recorded here ("Check 1", "Verse check", "Italics"). Sections cited here that are not in
+was done; PLAN.md now holds the checks planned after it; check 1, the verse check,
+the italics and check 2, done, are recorded here ("Check 1", "Verse check", "Italics", "Check 2"). Sections cited here that are not in
 this file ("Standing rules", "Conventions settled during the check", "Suspected misprints",
 "Known limits", "Sources for checking", "Tools") are in PLAN.md. "Remaining work" in the
 text below means "Work items" here.
@@ -53,7 +53,7 @@ Not covered (see "Known limits"): text that both OCRs read alike and wrongly (00
 for printed `territ` was found by chance); italics were not transcribed. A check of the
 italic lemmas against the verse of their page (check 1), a second reading of all the
 verse from the image (the verse check) and the italics, marked `*…*` (2026-11-04), are
-done (below); a lexicon check is planned in PLAN.md.
+done (below), and so is a lexicon check (check 2, below).
 
 Data: `ocr/la/glm-ocr/` (GLM-OCR for every page) and `ocr/la/tesseract/` (Tesseract's word
 boxes for every page), both committed; the working data in `tmp/` (the paid answers) are
@@ -1107,6 +1107,103 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
    committed once, after all of it (the user, 2026-11-04): the scripts, `ocr/la`,
    `texts/la`, and the docs (this record moved to DONE.md, PLAN.md, texts/PLAN.md,
    texts/la/README.md), as four commits.
+
+## Check 2: rare forms near common ones (2026-11-05)
+
+The fourth of the checks planned in PLAN.md ("Checks"), for misreadings that both OCRs
+share and that turn a word into a form found nowhere else. `ocr/la_lexcheck.py` listed
+22,567 candidates (a form found once or twice, near a common one) in three groups by
+Tesseract's word. Groups 1 (278) and 2 (2,277) were decided in the image, group 2 with a
+blind reading of the crops by la-el-agy; group 3 (19,817 after them) was read for its sense
+by la-el-agy, and only the 185 words it flagged were decided in the image. In all 149
+misread (59 in group 1, 70 in group 2, 20 in group 3) and 94 misprints (6, 5, 83), each a
+row of `ocr/la/lexcheck.tsv`; the misprints are in PLAN.md ("Suspected misprints"). The
+plan as it was written, with the results of each group and batch, follows.
+
+### Plan and steps (`ocr/la_lexcheck.py`, `ocr/la_lexcrop.py`)
+
+A misreading that both OCRs share usually turns a word into a form that occurs nowhere
+else: 0197 `circuleto` (once) beside `circulecto` (5 times, and `circulectos` 10). A form found once or twice in
+the whole book, one or two letters from a form found often, is a candidate.
+
+1. **Script**: the words of all pages (`0001`–`1296`, blank pages aside), with the
+   line-end hyphens joined as `convert_la.py` joins them, counted case-insensitively. For
+   each form of count 1–2, the forms at edit distance 1 (2 for forms of 8 letters or
+   more) with a count of at least 5 and at least 5 times its own; listed with page, line,
+   the counts, the neighbours, the context, and Tesseract's word at that place (from
+   `ocr/la/tesseract/`; it does not normalize spellings, so its reading is a third vote).
+   Ranked in three groups by Tesseract's word (accents aside): 1, a neighbour, or a form
+   that differs from its neighbour only in accents; 2, another word; 3, the form itself.
+   A letter pair that the OCRs confuse (`c`/`e`, `n`/`u`, `r`/`t`, `rn`/`m`, `li`/`h`,
+   `f`/`s`, `cl`/`d`) is shown; `-g G` lists the groups up to G. Left out: the forms in "Suspected misprints", `lemmacheck.tsv`,
+   `versecheck.tsv` and `lexcheck.tsv`. Options: `FIRST LAST`, `-t TESS`, `-o OUT`, `--min N` (the neighbour's
+   count), `-d DIR` (read the pages from DIR instead of `ocr/la`).
+2. **Trial**: a recall test on the first transcription (the pages of commit `89ac4a3`,
+   exported to a scratch directory and read with `-d DIR`): of the words the proofreading
+   later corrected there (`git diff 89ac4a3 -- ocr/la`, word by word), count how many the
+   script lists, `circuleto` (0197) among them, and look at those it misses to tune the
+   limits. Then run it on `ocr/la` and count the candidates; with the Latin of the manuscript (`michi`, `nichil`, `quedam`, `pexime`) many
+   rare forms are printed so. If the list is too long to decide by eye (more than about
+   2,000), first decide with the user how to narrow it (a higher `--min`, only the ranked
+   groups, or paid image decisions as in item 7).
+3. **Decide** in the image, in rank order; record in `lexcheck.tsv`. A form decided
+   printed for one page is not taken as printed for another: each place is looked at.
+4. **Checks** and **commit** as in check 1 ("Check 1", steps 5–6), batch by batch
+   if long.
+
+### Results
+
+- Trial on `89ac4a3`: 78% of group 1 were misreadings, 24% of group 2, 0.8% of group 3;
+  groups 1 and 2 held about 95% of them. On `ocr/la`: 22,567 candidates, of which group 1
+  278, group 2 2,277, group 3 20,012.
+- Group 1: done; 278 rows, 59 misread, 6 misprints.
+- Group 2, decided in page batches (each candidate's word cropped from the image, the
+  unclear ones zoomed and compared with letters of the same page): batch 1 (0001–0160)
+  done, 311 rows, 5 misread, 1 misprint (0153 `rim`, found when la-el-agy's readings of
+  the same crops were compared). From batch 2 the crops are read by la-el-agy, blind: it
+  gets each crop and the line with the word replaced by `____` (not the `ocr/la` form) and
+  writes the word as printed (`ocr/la_lexcrop.py`); every reading that differs from
+  `ocr/la` is decided in the image, the rest taken as printed. Batch 2 (0161–0320): 432
+  rows, 23 readings differed, 2 misread. Batch 3 (0321–0480): 278 rows, 27 readings
+  differed, 13 misread (one of them two lines of a Latin footnote list on 0433, not
+  printed, removed). Batch 4 (0481–0640): 343 rows, 40 readings differed, 21 misread
+  (one a line on 0547, not printed, removed), 2 misprints. Batch 5 (0641–0800): 219 rows,
+  21 readings differed, 9 misread (8 words; three of them damaged letters restored,
+  `permictit`, `preliatus`, `Sodomis`). Batch 6 (0801–0960): 228 rows, 19 readings
+  differed, 9 misread (7 words), 1 misprint. Batch 7 (0961–1120): 220 rows, 15 readings
+  differed, 5 misread. Batch 8 (1121–1296): 246 rows, 18 readings differed, 6 misread
+  (5 words; two of them damaged letters restored, `capitulo`, `gratis`), 1 misprint.
+  Group 2 is done.
+- Group 3 (19,817 after the decisions above), in the same page batches: read by la-el-agy
+  for sense, not in the image (`ocr/la_lexcrop.py --lines`: each word in its line and the
+  lines around it); the words it flags are decided in the image, the rest are not
+  recorded. Batch 1 (0001–0160): 2,592 words, 29 flagged: 7 misprints, 22
+  printed (most in the papal documents, the words of their transcription).
+  Batch 2 (0161–0320): 2,614 words, 23 flagged: 5 misprints, 18 printed.
+  Batch 3 (0321–0480): 2,664 words, 21 flagged: 5 misread (`Penetrò`, `illuc`, `non`,
+  and two damaged letters restored, `infin`, `eam`; the `infino` of 0586, seen with
+  `infin`, also corrected), 7 misprints, 9 printed.
+  Batch 4 (0481–0640): 2,287 words, 24 flagged (one the `infino` above): 6 misread
+  (`emictunt`, `sic[ut]`, `hic`, `Sancta` twice, and `Non`, damaged, its last letter unclear,
+  corrected by the sense), 14 misprints, 3 printed (among them `tainquam`, a dot over the
+  first stroke of an `m` or `in`).
+  Batch 5 (0641–0800): 2,342 words, 19 flagged: 1 misread (`permictebat`), 6 misprints,
+  12 printed.
+  Batch 6 (0801–0960): 2,431 words, 20 flagged: 2 misread (`fore`, an `f` with its bar
+  lost, and `saecta`, damaged, its third letter unclear, corrected by the sense),
+  12 misprints, 6 printed.
+  Batch 7 (0961–1120): 2,380 words, 28 flagged: 3 misread (`huiusmodi`, `Hic`, and
+  `idest`, its `t` damaged, restored), 19 misprints, 6 printed.
+  Batch 8 (1121–1296): 2,507 words, 21 flagged: 3 misread (`hec` twice, and the opening
+  bracket of `auctor[em]`), 13 misprints, 5 printed.
+  No group 2 candidate is left out by script (a Tesseract word that joins an elided word
+  to the form, `Nellumiliare`, is still looked at: the same
+  shape covers real differences, `inanz'a` against `inanza`).
+
+Not found by this check: misreadings into a common word (0085 `terret` is a real word,
+printed on 0489), rare words with no common neighbour, and a common spelling written for
+the printed rare one (`mihi` for `michi`: the error is the common form). Check 1 covers
+part of the first kind inside lemmas.
 
 ## Work items 1–10 (all done)
 

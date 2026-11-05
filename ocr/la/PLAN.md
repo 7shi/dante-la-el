@@ -2,34 +2,32 @@
 
 This is the plan for `ocr/la`, the transcription of Serravalle's translation and commentary
 (1891), now that it is complete. The completed work (the verse, the two-OCR markup, the
-batches, the retyping, the line checks and the conversion) and the first two checks (check 1
-and the verse check) are recorded in [DONE.md](DONE.md); the "procedure" steps and the
-"items" cited below are those of DONE.md. The conversion into `texts/la/` is described in
-[texts/PLAN.md](../../texts/PLAN.md) ("`texts/la/`").
+batches, the retyping, the line checks and the conversion) and the checks after it (check 1,
+the verse check, the italics and check 2) are recorded in [DONE.md](DONE.md); the
+"procedure" steps and the "items" cited below are those of DONE.md. The conversion into
+`texts/la/` is described in [texts/PLAN.md](../../texts/PLAN.md) ("`texts/la/`").
 
-**A new session starts here**: read "State" and go on from the first open step of "Checks".
-The rules and conventions below are settled: apply them, do not ask again.
+**A new session starts here**: read "State". The rules and conventions below are settled:
+apply them, do not ask again.
 
-## State (2026-11-04)
+## State (2026-11-05)
 
 `ocr/la` is complete (`0001`–`1296`) and converted into `texts/la/001`–`110` (DONE.md).
 What the completed method cannot see are errors that both OCRs share: `ocr/la` was proofread
 by marking where it disagrees with GLM-OCR, so a word that both read alike and wrongly is
 not marked (0085 `terret` for printed `territ`, 0197 `circuleto` for `circulecto`, both
-corrected outside the markup). The checks below look for them (decided with the user, 2026-11-01).
+corrected outside the markup). The checks of "Checks" looked for them (decided with the user,
+2026-11-01).
 
 Done (DONE.md): check 1 (lemmas against the verse: 1,271 candidates, 9 misread, and about
-80 more errors found in the same lines and by the searches they led to) and the verse check
+80 more errors found in the same lines and by the searches they led to), the verse check
 (the Latin verse against the Italian text, then every line of both verse columns read again
-from the image: about 250 lines misread and 46 misprints), and the italics (marked `*…*`
+from the image: about 250 lines misread and 46 misprints), the italics (marked `*…*`
 over the whole volume from the slant of the print, the flagged lines decided in the image:
-4,291 pairs on 908 pages; "Italics" under "Conventions settled during the check"). **Next**,
-in this order (each below, under "Checks"):
-
-1. **Check 2**: write `ocr/la_lexcheck.py`, its recall trial on the first transcription,
-   then decide the candidates in the image.
-2. **When all are done**: State, Known limits, texts/PLAN.md and texts/la/README.md, and
-   the record moved to DONE.md.
+4,291 pairs on 908 pages; "Italics" under "Conventions settled during the check") and
+check 2 (rare forms near common ones: 22,567 candidates, the first two groups decided in
+the image and the third read for sense, 149 misread and 94 misprints). All the planned
+checks are done; what they do not cover is under "Known limits".
 
 ## Checks
 
@@ -59,125 +57,37 @@ The misprints are gathered in "Suspected misprints" whatever found them (the mar
 check, by chance); a `misprint` row of a table is also a row there.
 
 Order: check 1 (lemmas) first, as its candidates were fewer and surer; then the verse
-check, with the same procedure while it was fresh (both done); then the italics, which started
-from the lemmas of check 1 (done); then check 2, whose ranking learns from the errors checks 1
-and the verse check found, and whose counts are surer once the verse is right.
+check, with the same procedure while it was fresh; then the italics, which started
+from the lemmas of check 1; then check 2, whose ranking learns from the errors checks 1
+and the verse check found, and whose counts are surer once the verse is right. All are done.
 
-### Done: check 1, the verse check and the italics
+### Done: check 1, the verse check, the italics and check 2
 
 Check 1 (lemmas against the verse, 0079–1270 in 10 batches, 2026-11-01), the verse
 check (every line of both verse columns read again from the image, 0079–1270 in 11
-batches, 2026-11-01 – 2026-11-03) and the italics (the whole volume, 2026-11-01 –
-2026-11-04) are recorded in DONE.md ("Check 1", "Verse check", "Italics").
-What the next steps take from them:
+batches, 2026-11-01 – 2026-11-03), the italics (the whole volume, 2026-11-01 –
+2026-11-04) and check 2 (rare forms near common ones, `ocr/la_lexcheck.py`, 2026-11-05)
+are recorded in DONE.md ("Check 1", "Verse check", "Italics", "Check 2").
+What later work takes from them:
 
 - The italic marks `*…*` are in `ocr/la`: a script that reads it removes them first
   (`unmark()`, as `la_check.py`), and a correction keeps them (a word corrected inside a
   run stays inside it).
-- `lemmacheck.tsv` and `versecheck.tsv`: their forms are decided; check 2 leaves them out.
+- `lemmacheck.tsv`, `versecheck.tsv` and `lexcheck.tsv`: their forms are decided;
+  `la_lexcheck.py` leaves them out, so a rerun lists only new candidates.
 - Check 1's procedure per batch (crops in a shuffled order, read by la-el-agy from the images
-  alone, compared line by line, every difference decided in the image) can serve check 2
-  if its list is long. Match every reading to its line before comparing (batch 9: 60
-  readings were not of their images).
+  alone, compared line by line, every difference decided in the image) served check 2,
+  group 2, with crops of the words. Match every reading to its line before comparing
+  (batch 9: 60 readings were not of their images).
 - Check 1's errors were mostly a common spelling written for the printed one (`mihi` for
   `michi`, `societate` for `sotietate`, accents not printed); check 2, which looks for rare
-  forms, does not find this kind (below, "Not found by this check").
+  forms, does not find this kind ("Known limits").
 - The verse check's procedure per batch (page images by `ocr/la_versecheck.py
   --page-crops`, read by la-el-agy and la-el-agy2 from the images alone, aligned by
   `--page-readings`, every difference decided in the image) can serve as well. Its
   readers' errors: a common spelling written for the printed one, a misprint corrected,
   accents left out or added, specks read as marks; in batch 11 the tercet numbers of
   three cantos left out and reported as not printed. A report is not taken as true.
-
-### Check 2: rare forms near common ones (`ocr/la_lexcheck.py`)
-
-A misreading that both OCRs share usually turns a word into a form that occurs nowhere
-else: 0197 `circuleto` (once) beside `circulecto` (5 times, and `circulectos` 10). A form found once or twice in
-the whole book, one or two letters from a form found often, is a candidate.
-
-1. **Script**: the words of all pages (`0001`–`1296`, blank pages aside), with the
-   line-end hyphens joined as `convert_la.py` joins them, counted case-insensitively. For
-   each form of count 1–2, the forms at edit distance 1 (2 for forms of 8 letters or
-   more) with a count of at least 5 and at least 5 times its own; listed with page, line,
-   the counts, the neighbours, the context, and Tesseract's word at that place (from
-   `ocr/la/tesseract/`; it does not normalize spellings, so its reading is a third vote).
-   Ranked in three groups by Tesseract's word (accents aside): 1, a neighbour, or a form
-   that differs from its neighbour only in accents; 2, another word; 3, the form itself.
-   A letter pair that the OCRs confuse (`c`/`e`, `n`/`u`, `r`/`t`, `rn`/`m`, `li`/`h`,
-   `f`/`s`, `cl`/`d`) is shown; `-g G` lists the groups up to G. Left out: the forms in "Suspected misprints", `lemmacheck.tsv`,
-   `versecheck.tsv` and `lexcheck.tsv`. Options: `FIRST LAST`, `-t TESS`, `-o OUT`, `--min N` (the neighbour's
-   count), `-d DIR` (read the pages from DIR instead of `ocr/la`).
-2. **Trial**: a recall test on the first transcription (the pages of commit `89ac4a3`,
-   exported to a scratch directory and read with `-d DIR`): of the words the proofreading
-   later corrected there (`git diff 89ac4a3 -- ocr/la`, word by word), count how many the
-   script lists, `circuleto` (0197) among them, and look at those it misses to tune the
-   limits. Then run it on `ocr/la` and count the candidates; with the Latin of the manuscript (`michi`, `nichil`, `quedam`, `pexime`) many
-   rare forms are printed so. If the list is too long to decide by eye (more than about
-   2,000), first decide with the user how to narrow it (a higher `--min`, only the ranked
-   groups, or paid image decisions as in DONE.md, item 7).
-3. **Decide** in the image, in rank order; record in `lexcheck.tsv`. A form decided
-   printed for one page is not taken as printed for another: each place is looked at.
-4. **Checks** and **commit** as in check 1 (DONE.md, "Check 1", steps 5–6), batch by batch
-   if long.
-
-Progress (2026-11-05):
-- Trial on `89ac4a3`: 78% of group 1 were misreadings, 24% of group 2, 0.8% of group 3;
-  groups 1 and 2 held about 95% of them. On `ocr/la`: 22,567 candidates, of which group 1
-  278, group 2 2,277, group 3 20,012.
-- Group 1: done; 278 rows, 59 misread, 6 misprints.
-- Group 2, decided in page batches (each candidate's word cropped from the image, the
-  unclear ones zoomed and compared with letters of the same page): batch 1 (0001–0160)
-  done, 311 rows, 5 misread, 1 misprint (0153 `rim`, found when la-el-agy's readings of
-  the same crops were compared). From batch 2 the crops are read by la-el-agy, blind: it
-  gets each crop and the line with the word replaced by `____` (not the `ocr/la` form) and
-  writes the word as printed (`ocr/la_lexcrop.py`); every reading that differs from
-  `ocr/la` is decided in the image, the rest taken as printed. Batch 2 (0161–0320): 432
-  rows, 23 readings differed, 2 misread. Batch 3 (0321–0480): 278 rows, 27 readings
-  differed, 13 misread (one of them two lines of a Latin footnote list on 0433, not
-  printed, removed). Batch 4 (0481–0640): 343 rows, 40 readings differed, 21 misread
-  (one a line on 0547, not printed, removed), 2 misprints. Batch 5 (0641–0800): 219 rows,
-  21 readings differed, 9 misread (8 words; three of them damaged letters restored,
-  `permictit`, `preliatus`, `Sodomis`). Batch 6 (0801–0960): 228 rows, 19 readings
-  differed, 9 misread (7 words), 1 misprint. Batch 7 (0961–1120): 220 rows, 15 readings
-  differed, 5 misread. Batch 8 (1121–1296): 246 rows, 18 readings differed, 6 misread
-  (5 words; two of them damaged letters restored, `capitulo`, `gratis`), 1 misprint.
-  Group 2 is done.
-- Group 3 (19,817 after the decisions above), in the same page batches: read by la-el-agy
-  for sense, not in the image (`ocr/la_lexcrop.py --lines`: each word in its line and the
-  lines around it); the words it flags are decided in the image, the rest are not
-  recorded. Batch 1 (0001–0160): 2,592 words, 29 flagged: 7 misprints, 22
-  printed (most in the papal documents, the words of their transcription).
-  Batch 2 (0161–0320): 2,614 words, 23 flagged: 5 misprints, 18 printed.
-  Batch 3 (0321–0480): 2,664 words, 21 flagged: 5 misread (`Penetrò`, `illuc`, `non`,
-  and two damaged letters restored, `infin`, `eam`; the `infino` of 0586, seen with
-  `infin`, also corrected), 7 misprints, 9 printed.
-  Batch 4 (0481–0640): 2,287 words, 24 flagged (one the `infino` above): 6 misread
-  (`emictunt`, `sic[ut]`, `hic`, `Sancta` twice, and `Non`, damaged, its last letter unclear,
-  corrected by the sense), 14 misprints, 3 printed (among them `tainquam`, a dot over the
-  first stroke of an `m` or `in`).
-  Batch 5 (0641–0800): 2,342 words, 19 flagged: 1 misread (`permictebat`), 6 misprints,
-  12 printed.
-  Batch 6 (0801–0960): 2,431 words, 20 flagged: 2 misread (`fore`, an `f` with its bar
-  lost, and `saecta`, damaged, its third letter unclear, corrected by the sense),
-  12 misprints, 6 printed.
-  Batch 7 (0961–1120): 2,380 words, 28 flagged: 3 misread (`huiusmodi`, `Hic`, and
-  `idest`, its `t` damaged, restored), 19 misprints, 6 printed.
-  Batch 8 (1121–1296): 2,507 words, 21 flagged: 3 misread (`hec` twice, and the opening
-  bracket of `auctor[em]`), 13 misprints, 5 printed.
-  No group 2 candidate is left out by script (a Tesseract word that joins an elided word
-  to the form, `Nellumiliare`, is still looked at: the same
-  shape covers real differences, `inanz'a` against `inanza`).
-
-Not found by this check: misreadings into a common word (0085 `terret` is a real word,
-printed on 0489), rare words with no common neighbour, and a common spelling written for
-the printed rare one (`mihi` for `michi`: the error is the common form). Check 1 covers
-part of the first kind inside lemmas.
-
-### When all are done
-
-Update "State" and "Known limits" (what the checks covered), texts/PLAN.md and
-texts/la/README.md (the proofreading described there), and move the record of check 2 to
-DONE.md, as those of check 1, the verse check and the italics.
 
 ## Standing rules
 
@@ -489,7 +399,8 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 ## Known limits
 
 - Errors shared by both OCRs (`Anmodo`, `circuleto`, 0085 `terret`) are not marked by the
-  markup method; "Checks" above looks for them.
+  markup method; the checks ("Checks" above, DONE.md) looked for them, within the
+  limits below.
 - Italics are marked from the slant measured by `ocr/la_italic.py`, and only the lines
   `ocr/la_italicmark.py` flags were decided in the image (some pages read whole: the
   notizie 0022, 0027, 0029, 0031, 0033–0038; DONE.md, "Italics"): an unflagged word measured wrongly may keep a wrong mark, and the
@@ -497,6 +408,14 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
   the print. The 453 same-line `*a*. *b*` and `*a*: *b*` were not looked at (DONE.md,
   "Italics", the split runs swept). Not marked: the dedication 0013–0014 (wholly
   italic), the figure labels, an italic digit at a run's end.
+- Check 2 lists a form found once or twice, near a form found at least 5 times: a
+  misreading into a common word (0085 `terret` is a real word, printed on 0489), a rare
+  word with no common neighbour, a common spelling written for the printed rare one
+  (`mihi` for `michi`) and a misreading repeated three times or more are not candidates.
+  Its group 3 (Tesseract read the form itself; 19,817 words, 0.8% misread in the trial) was
+  read for sense by la-el-agy, not in the image: only the 185 words it flagged were looked
+  at, so a misreading that still gives a sense (a real word, a name, a verse word) or that
+  the reader passed over may remain.
 - Check 1 needs a lemma of 3 words with 2 equal to the verse, and a word within an edit
   distance of 2: 0154 `nuove traraglia` (2 words; the Latin verse has `travagle`, 3 edits)
   is not found.
@@ -588,11 +507,12 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 - `ocr/la_italicmark.py SLANT -d OUTDIR [-o FLAGS] [--pages SPEC] [--join]`: the marks set
   from `la_italic.py -v`, and the lines to look at in the image (DONE.md, "Italics",
   step 3).
-- `ocr/la_lexcheck.py FIRST LAST [-o OUT] [-g G]`: check 2 ("Checks"): rare forms near
-  common ones, in three groups by Tesseract's word.
+- `ocr/la_lexcheck.py FIRST LAST [-o OUT] [-g G]`: check 2 (DONE.md, "Check 2"):
+  rare forms near common ones, in three groups by Tesseract's word.
 - `ocr/la_lexcrop.py LIST FIRST LAST [-g G] (--crops DIR [--labels] | --readings READ
-  [-o OUT])`: check 2, group 2: the crops of the candidates' words with the masked lines
-  (`context.tsv`) for a blind reader, and the comparison of the reader's TSV with the forms.
+  [-o OUT] | --lines OUT)`: check 2: for group 2 the crops of the candidates' words with the
+  masked lines (`context.tsv`) for a blind reader, and the comparison of the reader's TSV
+  with the forms; for group 3 each word in its lines, for a reader by the sense.
 
 The working data of the completed work in `tmp/` (`la-markup/`, `la-mark7/`, the paid
 answers; DONE.md) are read by no step any more. Everything in `tmp/` but `tmp/bak/` is
