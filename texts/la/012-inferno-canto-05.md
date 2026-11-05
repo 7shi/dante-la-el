@@ -124,7 +124,7 @@ Modo in introytu stat iudex Inferni, qui habet cognoscere de peccatis et culpis 
 
 *Venit ante ipsum*: scilicet Mynoxem: tota confitetur; et ille cognitor peccatorum, videt quis locus Inferni est pro ipsa, idest debeatur sibi iuste.
 
-*Cingit se cum cauda toties, quot gradibus vult quod animo scilicet immergatur*: hanc caudam non finxerunt neque Homerus, neque Virgilius; sed auctor fingit et bene: quia cauda est ultima pars et finis animalis: sic ista cauda denotat sententiam definitivam, que dampnat animam.
+*Cingit se cum cauda toties, quot gradibus vult quod anima scilicet immergatur*: hanc caudam non finxerunt neque Homerus, neque Virgilius; sed auctor fingit et bene: quia cauda est ultima pars et finis animalis: sic ista cauda denotat sententiam definitivam, que dampnat animam.
 
 *Semper ante ipsum stant multe*: idest ante Mynoxem; vadunt ad vicendam, idest una post aliam.
 
