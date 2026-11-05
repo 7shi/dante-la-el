@@ -32,7 +32,7 @@ In isto vicesimoquarto capitulo, quod incipit: *O sodalitium electum ad magnam c
 &emsp;Et roretis illam aliquantulum: vos bibitis\
 &emsp;Semper de fonte unde venit illud quod ipse cogitat.
 
-*O sodalitie electe ad grandem cenam*. *O sodalitio eletto alla gran cena*: hoc est vicesimumquartum capitulum huius Paradisi, in quo auctor, descripta Ecclesia triumphante in precedenti capitulo, que sibi apparuit in octava spera, introducit ducem substitutum huius exercitus, scilicet christiani, Petrum Apostolum, qui examinat ipsum auctor em] de fide. Et quatuor facit: et sic capitulum istud dividitur in quatuor partes. In quarum prima auctor ponit, quomodo Beatrix captat benivolentiam ab istis spiritibus qui sunt hic, inter quos, spiritus Apostolorum multorum sunt, saltem Petri, Pauli et Ioannis, et etiam quarti, scilicet Iacobi.
+*O sodalitie electe ad grandem cenam*. *O sodalitio eletto alla gran cena*: hoc est vicesimumquartum capitulum huius Paradisi, in quo auctor, descripta Ecclesia triumphante in precedenti capitulo, que sibi apparuit in octava spera, introducit ducem substitutum huius exercitus, scilicet christiani, Petrum Apostolum, qui examinat ipsum auctor[em] de fide. Et quatuor facit: et sic capitulum istud dividitur in quatuor partes. In quarum prima auctor ponit, quomodo Beatrix captat benivolentiam ab istis spiritibus qui sunt hic, inter quos, spiritus Apostolorum multorum sunt, saltem Petri, Pauli et Ioannis, et etiam quarti, scilicet Iacobi.
 
 In secunda parte, que incipit ibi:
 
