@@ -242,7 +242,7 @@ Nota quod Amphyrao fuit nobilis augur, et potens, et strenuus in armis; et ipse 
 &emsp;O Ylyon, quomodo te bassum et vile\
 &emsp;Monstrabat signum quod ibi discernitur!
 
-(1) ancor. — (2) assaltandolo. — (3) mostrava — (4) in templo. — (5) regina Massagetarum. — (6) re di Persia. — (7) sanguinem sitisti? sanguinem bibe. — (8) Assyriorum gentes — (9) da Iudith. — (10) mostrava. — (11) el suo capo taglato. — (12) mostrava. — (13) redacla. — (14) Ylion. — (15) ruinato e scarcato da Greci. — (16) la sculptura.
+(1) ancor. — (2) assaltandolo. — (3) mostrava — (4) in templo. — (5) regina Massagetarum. — (6) re di Persia. — (7) sanguinem sitisti? sanguinem bibe. — (8) Assyriorum gentes — (9) da Iudith. — (10) mostrava. — (11) el suo capo taglato. — (12) mostrava. — (13) redacta. — (14) Ylion. — (15) ruinato e scarcato da Greci. — (16) la sculptura.
 
 se Amphyrao sic per uxorem propalatum, et duci contra Thebas, ubi putabat pro certo se moriturum, sicut postmodum evenit, precepit filio suo Almeoni, sic vocato, quod ipse faceret vindictam. Almeon autem, audiens mortem patris, interfecit matrem postmodum suam, quia propalaverat eum, dum latebat. Ideo Almeon fecit apparere matri sue ornamentum illud infelix, durum, quia eam interfecit.
 
