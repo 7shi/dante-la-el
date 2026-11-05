@@ -31,7 +31,7 @@ quibuscumque duximus concedendas, aut per nos reservari seu
 concedi contingerit in futurum per quascumque reservationes
 seu concessiones, quoad hoc tibi nolumus in aliquo derogari,
 et quibuscumque constitutionibus a felicis recordationis Inno-
-centio quarto et Gregorio decimo ac sic dicto duodecimo, et
+centio quarto et Gregorio decimo ac *sic* dicto duodecimo, et
 quibuslibet aliis Romanis Pontificibus predecessoribus nostris
 in contrarium editis, et privilegiis, indulgentiis et litteris apo-
 stolicis, generalibus vel specialibus, quorumcumque tenorum

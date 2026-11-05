@@ -32,7 +32,8 @@ the image and the third read for sense, 149 misread and 94 misprints). What they
 cover is under "Known limits".
 
 Next: the read-through ("Read-through"), planned with the user on 2026-11-05; the tools
-are made (step 0) and the trial is done (step 1); the batches (step 2) are next.
+are made (step 0) and the trial is done (step 1); the batches (step 2) are under way: read
+0001–0200 and 0595–0614.
 
 ## Checks
 
@@ -424,6 +425,51 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0599 | 21 | `(4) si veuce.` | `vence` | Gloss of `s'adona`; `u` for `n`; found by the read-through. |
 | 0607 | 37 | `quel mesto grido informo la scienza` | `informò` | Essay; no accent visible; found by the read-through. |
 | 0613 | 95–96 | `filium Na-` / `bar` | `Nabat` | Commentary (Vulgate `filius Nabat`); `r` for `t`; found by the read-through. |
+| 0023 | 19 | `vi giunse nel 1493, perchè` | `1393` | Editors' preface; he stayed four years and left in 1398; found by the read-through. |
+| 0023 | 19 | `nel 1498 n'era partito.` | `1398` | Editors' preface; the same page has `Da Firenze, nel 1398, partì`; found by the read-through. |
+| 0026 | 38 | `da Clemente V dal 1381` | `Clemente VII` | Editors' preface; the Avignon antipope of 1378–1394; found by the read-through. |
+| 0026 | 39 | `conclave, settembre 1399,` | `1394` | Editors' preface; Benedict XIII followed Clement in 1394 (the same sentence); found by the read-through. |
+| 0027 | 13 | `nona sessione (13 marzo 1415)` | `maggio` | Editors' preface; 0026 has `sessione IX, del 13 maggio 1415`; found by the read-through. |
+| 0027 | 33 | `al 16 gennaio 1417` | `6 gennaio` | Editors' preface; the paragraph before has `il 6 gennaio dell'anno seguente`; found by the read-through. |
+| 0034 | 24 | `la scrittura della seconda mano` | `terza` | Editors' preface; the third hand writes to the end of the Purgatorio (0034, line 5); found by the read-through. |
+| 0037 | 26 | `finiva la vita nel 1417.` | `1447` | Editors' preface; Eugene IV died in 1447; found by the read-through. |
+| 0041 | 36 | `Ritlettendo noi` | `Riflettendo` | Editors' preface; a `t`, without the hook of an `f`; found by the read-through. |
+| 0045 | 60 | `suis, moto simili,` | `motu` | Document; found by the read-through. |
+| 0046 | 9, 18, 89, 98, 119 | `aliarum nunc teneantur`, `impedire valeat`, `conferirent`, `alicuius nunc teneantur`, `nos eum tecum` | `minime`, `impediri`, `conferrent`, `minime`, `enim` | Document; found by the read-through. |
+| 0047 | 24, 33, 61, 94, 97 | `discretioni nostre`, `quod introduci`, `integre respondi` (twice), `indultum, quos` | `vestre`, `interdici`, `responderi`, `quod` | Document; found by the read-through. |
+| 0048 | 39, 42, 106, 120, 121, 126 | `impedi valeat`, `Nunc tamen intentionis`, `preiudicium gravari`, `nos eum tecum`, `si tibi ingere`, `qualiacumque,fecerint,` | `impediri`, `Nostre`, `generari`, `enim`, `vigore`, `fuerint` | Document; found by the read-through. |
+| 0049 | 98 | `alicuius anime teneantur` | `minime` | Document; found by the read-through. |
+| 0050 | 20, 65 | `in dorsibus, nostris`, `ecclesiasticam apposita postposita` | `diversis`, `appellatione` | Document; found by the read-through. |
+| 0051 | 48, 58 | `(31 april. 1409)`, `(31 April. 1409)` | `30` | Dates of Doc. 21 and 22; April has 30 days (Doc. 22 has `ultima dicti mensis Aprilis`); found by the read-through. |
+| 0052 | 88, 109 | `partecipantes . . . Carnales.`, `Ei adhuc remanserunt` | `Cardinales`, `Et` | Document; found by the read-through. |
+| 0053 | 58 | `Apostolum, magnum genus,` | `gerens` | Document (`magnum gerens singularis devotionis affectum`); found by the read-through. |
+| 0059 | 18 | `per me transferreretur` | `transferretur` | Serravalle's preface; found by the read-through. |
+| 0060 | 13 | `ineptum et prosumptuosum` | `presumptuosum` | Serravalle's preface; found by the read-through. |
+| 0084 | 42 | `in principio matini.` | `matutini` | Lemma; the verse and the gloss have `matutini`; found by the read-through. |
+| 0088 | 38, 113 | `maxime nimicantur lupis`, `in orbem terram;` | `inimicantur`, `terrarum` | Commentary (`inimicatur lupis` elsewhere; Wisdom 2:24 `in orbem terrarum`); found by the read-through. |
+| 0090 | 19 | `Con lor ti lasserò nel mio partire:` | `lei` | Italian verse I 123 (the Latin `Cum ea`); found by the read-through. |
+| 0092 | 9 | `e di la finalmente` | `di là` | Essay; no accent visible; found by the read-through. |
+| 0094 | 48, 49 | `matitunale` (twice) | `matutinale` | Commentary; found by the read-through. |
+| 0096 | 14 | `Perchè se del veder io m'abbandono,` | `venire` | Italian verse II 34 (the Latin `ad veniendum`, the next line `la venuta`); found by the read-through. |
+| 0097 | 13, 65 | `Tal che del domandar io la richiesi.`, `*che di te me dolui*` | `di comandar`, `dolve` | Italian verse II 54 (the Latin `ut preciperet`); the italic lemma has the Latin `dolui` for the verse's `dolve` (line 10); found by the read-through. |
+| 0100 | 68, 92 | `*Le la volgare schira*`, `*prompliorem ad veniendum*` | `De la volgare schiera`, `promptiorem` | Italic lemmas (the verse has `schiera`); `prompliorem` an `l`, as tall as the ascenders; found by the read-through. |
+| 0102 | 10 | `Non disprezzo dunque, si veramente` | `sì` | Essay; no accent visible; found by the read-through. |
+| 0125 | 96 | `*Le quale*: idest de quali` | `Del quale` | Italic lemma (the Italian verse 47 has `del quale`), as 0100 `Le la volgare`; found by the read-through. |
+| 0127 | 50, 55, 83 | `si manifesto`, `La Trinita`, `piu ridicole` | `manifestò`, `Trinità`, `più` | Essay; no accent visible; found by the read-through. |
+| 0130 | 19, 64 | `*Cosi discesi del cerchio primaio*`, `*Cosi*:` | `Così` | Italic lemmas; the dot as on the other `i`s, and GLM-OCR reads `Cosi` too; found by the read-through. |
+| 0133 | 10 | `Ombre portate da la decta briga?` | `Genti, che l'aura nera sì gastiga?` | Italian verse V 51 repeats V 49 (line 8); the Latin has `Gentes`; found by the read-through. |
+| 0136 | 13 | `e 'l mondo ancor m'offende` | `modo` | Italian verse V 102 (the Latin `modus`); found by the read-through. |
+| 0139 | 19, 31, 35, 39, 43, 44, 85 | `moltiplicita`, `gia`, `necessita`, `costringera`, `serenita`, `profondita`, `puo` | with the accent | Essay; no accent visible; found by the read-through. |
+| 0145 | 100 | `*Ego respondidi:` | `respondi` | Italic lemma (the Latin verse 58 has `respondi`); found by the read-through. |
+| 0153 | 13, 43 | `Fe'la vendetta dell'eterno strupo.`, `penas quoquot vidi` | `superbo`, `quotquot` | Italian verse VII 12 (the Latin `superbi stupri`; the essay on 0161 quotes `superbo strupo`); Latin verse VII 20; found by the read-through. |
+| 0159 | 47 | `*Si spesso vien*` | `Sì` | Italic lemma; no accent visible; found by the read-through. |
+| 0161 | 4, 14, 15 | `E segui`, `tratto gia`, `chi penso`, `s'immagino`, `a' di nostri` | `seguì`, `trattò già`, `pensò`, `s'immaginò`, `dì` | Essay; no accent visible; found by the read-through. |
+| 0168 | 14 | `dentro all'altre fosse` | `alte` | Italian verse VIII 76 (the Latin `ad altas fossas`); found by the read-through. |
+| 0175 | 15, 19 | `Perch'io teneva la parola tronca`, `Che sol per pena la speranza cionca?` | `traeva`, `ha la speranza` | Italian verse IX 14 and 18 (the Latin `trahebam`, `spem habet`); line 19 is a syllable short; found by the read-through. |
+| 0183 | 3, 29 | `soltanto, si ancora`, `questa volonta`, `si duplico`, `la societa` | `sì`, `volontà`, `duplicò`, `società` | Essay; no accent visible; found by the read-through. |
+| 0192 | 5 | `se riposi mai nostra semenza` | `vostra` | Italian verse X 94 (the Latin `vestrum semen`); found by the read-through. |
+| 0193 | 7, 13 | `E nel futuro tenete altro modo.`, `di nostro stato humano` | `presente`, `vostro` | Italian verse X 99 and 105 (the Latin `in presenti`, `de vestro statu`); found by the read-through. |
+| 0196 | 8, 13 | `a que' di in Firenze`, `per sempre svani` | `dì`, `svanì` | Essay; no accent visible; found by the read-through. |
 
 ## Known limits
 
