@@ -31,8 +31,8 @@ check 2 (rare forms near common ones: 22,567 candidates, the first two groups de
 the image and the third read for sense, 149 misread and 94 misprints). What they do not
 cover is under "Known limits".
 
-Next: the read-through ("Read-through"), planned with the user on 2026-11-05 and not
-started; its first step is the preparation, then the trial.
+Next: the read-through ("Read-through"), planned with the user on 2026-11-05; the tools
+are made (step 0) and the trial is done (step 1); the batches (step 2) are next.
 
 ## Checks
 
@@ -80,14 +80,21 @@ before: check 2, group 3, judged only its candidates. The same steps then serve
   nothing. Every flagged place is decided in the image as above (misread, misprint,
   printed); a damaged letter is restored by the sense.
 - **Steps**:
-  0. Preparation: a script to apply fixes (`PAGE:LINE old new`; so far only in a scratch
-     directory) into `ocr/`; a script that writes the pages of `texts/la` for a range,
-     cut at the page markers (`<!-- p. … -->`), for the reader; one that finds the line of
-     a flagged phrase in `ocr/la` (the marks removed first).
-  1. Trial, about 20 pages: pages of an earlier snapshot (as `89ac4a3`, the trial of
-     check 2) whose later corrections are known; count how many of them are flagged and
-     how many flags are not errors. If too few are found or too many flags are noise, the
-     task is revised; if it still fails, decide with the user whether to go on.
+  0. Preparation (done): `ocr/scripts/pages.py` writes the pages of `texts/la` for a
+     range, cut at the page markers, for the reader; `ocr/scripts/findline.py` finds the
+     lines of the flagged phrases in `ocr/la` (the marks removed first);
+     `ocr/scripts/txtfix.py` applies the fixes (`PAGE:LINE old new`)
+     ([ocr/scripts/README.md](../scripts/README.md), "The read-through").
+  1. Trial (done, 2026-11-05): 0595–0614 (19 pages, 12,723 words) as they were at
+     `b772857`, before the checks after completion (`89ac4a3`, the first OCR, has too
+     many errors to stand for what is left). Of the 40 word corrections made there since
+     (spacing aside), 16 were flagged; of the 24 missed, 10 are spellings the OCR had
+     normalized (`Quae` for `Que`, `condemnati`), which no reading for sense can see, and
+     most of the rest accents (`despiciébat`, `fuggíro`, `sian` for `siàn`). The other 39
+     flags fell on text that every check had passed: 10 misread (a line out of place on
+     0602, `da` for `datur`, `ingre-` for `inge-`, accents of the essay), 9 misprints (4
+     already listed), 20 printed (mostly Serravalle's Latin against the verse). The pages
+     count as read; their decisions are the first rows of `readcheck.tsv`.
   2. Batches over the whole of `texts/la`, whole pages, their size set by the trial. The
      reader writes a TSV: page, the phrase as written, the reason.
   3. Decisions: a misreading is corrected in `ocr/la`; a misprint goes into "Suspected
@@ -413,6 +420,10 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 1277 | 47 | `nisi maun Conditoris sui` | `manu` | Commentary; the tops of the letters are damaged, their feet show `maun`; found by check 2. |
 | 1281 | 27 | `sed etiam in omuibus inferioribus` | `omnibus` | Commentary; `u` for `n`; found by check 2. |
 | 1283 | 117 | `cut nix liquetit ex calore` | `liquefit` | Commentary; `t` for `f`, the height of the other `t`, as 0582; found by check 2. |
+| 0596 | 57, 71 | `sublimita`, `d'intellettualita` | `sublimità`, `d'intellettualità` | Essay; no accent visible; found by the read-through. |
+| 0599 | 21 | `(4) si veuce.` | `vence` | Gloss of `s'adona`; `u` for `n`; found by the read-through. |
+| 0607 | 37 | `quel mesto grido informo la scienza` | `informò` | Essay; no accent visible; found by the read-through. |
+| 0613 | 95–96 | `filium Na-` / `bar` | `Nabat` | Commentary (Vulgate `filius Nabat`); `r` for `t`; found by the read-through. |
 
 ## Known limits
 
