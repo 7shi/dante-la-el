@@ -1,6 +1,6 @@
 """Structure checks of ocr/la pages: tercet numbers, and section rules against blank lines.
 
-    check.py FIRST LAST [-d DIR]... [-v] [-o OUT]
+    check.py FIRST LAST [-d DIR]... [-v] [-o OUT] [--refresh]
 
 -d reads the page files from DIR (repeatable, the first that has the page; default ocr/la),
 such as a work directory's out/ before it is written; the images stay in ocr/la.
@@ -12,6 +12,8 @@ such as a work directory's out/ before it is written; the images stay in ocr/la.
   ocr/la/PAGE.png) are counted against the blank lines after the verse block; a page where
   the counts differ is listed. The image count often misses rules of the right column and
   rules at a page end, so a listed page is to be looked at, not corrected blindly.
+  The rules found are kept in ocr/la/dividers.tsv (`page side y`), since the images do not
+  change: only a page not there is read from its image (--refresh reads them all again).
   -v lists every page with the y positions of the rules."""
 
 import argparse
@@ -137,17 +139,47 @@ def blanks(page):
     return n
 
 
-def check_rules(first, last, verbose):
+DIVIDERS = ROOT / "dividers.tsv"
+
+
+def load_dividers():
+    """The cached rule positions, {page: ([y of the left column], [y of the right])}: a
+    row `page side y` per rule, a row with y empty for a column without rules."""
+    d = {}
+    if DIVIDERS.exists():
+        for row in DIVIDERS.read_text(encoding="utf-8").split("\n")[1:]:
+            if not row: continue
+            page, side, y = row.split("\t")
+            cols = d.setdefault(page, ([], []))
+            if y: cols[side == "R"].append(int(y))
+    return d
+
+
+def save_dividers(d):
+    rows = ["page\tside\ty"]
+    for page in sorted(d):
+        for side, ys in zip("LR", d[page]):
+            rows += [f"{page}\t{side}\t{y}" for y in ys] or [f"{page}\t{side}\t"]
+    DIVIDERS.write_text("\n".join(rows) + "\n", encoding="utf-8")
+
+
+def check_rules(first, last, verbose, refresh=False):
+    """The rules are found in the images once and kept in ocr/la/dividers.tsv (the images
+    do not change); a page not there, or every page with refresh, is read from its image."""
+    cache = load_dividers(); changed = False
     out = []
     for p in range(first, last + 1):
         page = f"{p:04}"
         if not (ROOT / f"{page}.png").exists() or txt(page) is None: continue
-        im = Image.open(ROOT / f"{page}.png").convert("L")
-        (la, lb), (ra, rb) = columns(im)
-        rl, rr = rules(im, la, lb), rules(im, ra, rb)
+        if refresh or page not in cache:
+            im = Image.open(ROOT / f"{page}.png").convert("L")
+            (la, lb), (ra, rb) = columns(im)
+            cache[page] = (rules(im, la, lb), rules(im, ra, rb)); changed = True
+        rl, rr = cache[page]
         nb = blanks(page)
         if verbose or len(rl) + len(rr) != nb:
             out.append(f"{page}: rules {len(rl)}+{len(rr)}, blank lines {nb}" + (f"  L{rl} R{rr}" if verbose else ""))
+    if changed: save_dividers(cache)
     return out
 
 
@@ -158,9 +190,11 @@ def main():
                     help="page files; repeatable, the first that has the page is read (default ocr/la)")
     ap.add_argument("-v", "--verbose", action="store_true", help="list every page with the rule positions")
     ap.add_argument("-o", "--output", help="write to this file instead of stdout")
+    ap.add_argument("--refresh", action="store_true",
+                    help="find the rules in the images again and rewrite ocr/la/dividers.tsv")
     a = ap.parse_args()
     if a.dir: DIRS[:] = a.dir
-    out = ["# tercets"] + check_tercets(a.first, a.last) + ["", "# rules"] + check_rules(a.first, a.last, a.verbose)
+    out = ["# tercets"] + check_tercets(a.first, a.last) + ["", "# rules"] + check_rules(a.first, a.last, a.verbose, a.refresh)
     text = "\n".join(out) + "\n"
     if a.output: Path(a.output).write_text(text, encoding="utf-8")
     else: sys.stdout.write(text)

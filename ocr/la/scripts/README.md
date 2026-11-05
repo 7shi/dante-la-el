@@ -62,9 +62,12 @@ Run over every page after a change; their output is compared with the previous r
 
 - `lines.py FIRST LAST -t TESS [-o OUT]`: rules without a blank line, printed lines broken
   in two, dots before a lowercase word (step 8).
-- `check.py FIRST LAST [-d DIR]... [-v] [-o OUT]`: tercet numbers (order, every third line,
-  continuity across pages) and the section rules of the images against the blank lines
-  (the rule count often misses right-column and page-end rules: look at a listed page).
+- `check.py FIRST LAST [-d DIR]... [-v] [-o OUT] [--refresh]`: tercet numbers (order, every
+  third line, continuity across pages) and the section rules of the images against the
+  blank lines (the rule count often misses right-column and page-end rules: look at a
+  listed page). The rules found are kept in `ocr/la/dividers.tsv` (`page side y`), as the
+  images do not change; only a page not there is read from its image, all of them with
+  `--refresh`.
 - `lostcheck.py FIRST LAST -t TESS [-g GLM] [-d DIR ...] [-n N] [-v] [-o OUT]`: text lost
   from a page: runs of 4+ words of Tesseract and GLM-OCR found nowhere in the page file,
   matched loosely (three-word runs, similarity 75) and in any order; `both` (the two OCRs
