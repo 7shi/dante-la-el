@@ -25,6 +25,7 @@ misreading is corrected.
 |---|---|
 | `pages.py TEXTDIR FIRST LAST [-o OUT]` | The pages of scans FIRST–LAST of `texts/…`, cut at the page markers (`<!-- p. 26 (0080) -->`), for the reader |
 | `findline.py DIR FLAGS [-o OUT] [--min R]` | The lines of `DIR/PAGE.txt` where the reader's flagged phrases are (`page phrase reason`): compared word by word without case, punctuation, italic marks and brackets, across hyphenated line breaks and page breaks; otherwise the most similar run of words (`~`) |
+| `wordcrop.py DIR OUT SPEC... [-t TESS]` | Bands of `DIR/PAGE.png` around words (`PAGE:TEXT[:N]`, the Nth word of Tesseract's `TESS/PAGE.tsv` containing TEXT), stacked into one PNG under labels with the match count, for deciding a flagged place in the image |
 | `txtfix.py DIR FIXES [-n]` | Applies the fixes, `PAGE:LINE old new` (`old` once in the line); writes nothing if a row fails |
 
 ## PDF preparation
