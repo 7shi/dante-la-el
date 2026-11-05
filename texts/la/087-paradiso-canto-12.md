@@ -8,7 +8,7 @@ In isto duodecimo capitulo, quod incipit: *Tam cito sicut ultimum verbum*, aucto
 
 sed solum licentiam predicandi fidem christianam et contra hereticos. Et sic, sicut torrens, cum officio apostolico, scilicet predicationis, percussit hereticos; et de ipso facti sunt multi rivi, idest multi Fratres Predicatores, ad irrigandum ortum catholicum.
 
-Demum, hiis dictis de Sancto Dominico et de Ordine suo, ipse dominus Bonaventura, obloquitur, et merito, de Fratribus Minoribus, qui multum deviaverunt ab itinere Sancti Francisci. Dicit tamen quod adhuc sunt aliqui boni in Ordine Sancti Francisci. Demum ultimo Sanctus Bonaventura manifestat multos spiritus, qui sunt secum in ista secunda rota. Hie sunt Illuminatus et Augustinus (fuerunt de sotiis Sancti Francisci), Hugo de Sancto Victore, Petrus Mangiadorius. Petrus Hispanus, Chrisostomus, Nathan propheta, Anselmus et Donatus, Rabbanus et Abbas Ioachinus.
+Demum, hiis dictis de Sancto Dominico et de Ordine suo, ipse dominus Bonaventura, obloquitur, et merito, de Fratribus Minoribus, qui multum deviaverunt ab itinere Sancti Francisci. Dicit tamen quod adhuc sunt aliqui boni in Ordine Sancti Francisci. Demum ultimo Sanctus Bonaventura manifestat multos spiritus, qui sunt secum in ista secunda rota. Hic sunt Illuminatus et Augustinus (fuerunt de sotiis Sancti Francisci), Hugo de Sancto Victore, Petrus Mangiadorius. Petrus Hispanus, Chrisostomus, Nathan propheta, Anselmus et Donatus, Rabbanus et Abbas Ioachinus.
 
 <!-- p. [959] (1013) -->
 
