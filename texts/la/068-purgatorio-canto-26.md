@@ -416,7 +416,7 @@ Et sine audire et dicere, securus ivi longo tempore, respiciendo eum; idest, diu
 
 Postquam respiciendo pastus fui, idest satiatus, totum me obtuli promptum ad suum servitium, cum confirmare quod facit credere alios, idest cum iuramento.
 
-Et respondens Guido sibi, et ipse ad me, supple dixit: Tu dimictis tale vestigium, pro eo quod audio, in me, et tantum clarum, quod Lethes, scilicet fluvius oblivionis, non potest illud tollere nec facere obscurum; et ideo non oportet quod tu iures, nec quod te offeras michi, quia iam ostendisti quod me diligis, et quia alibi laudasti me. *Bigio*: *idest* obscurum.
+Et respondens Guido sibi, et ipse ad me, supple dixit: Tu dimictis tale vestigium, pro eo quod audio, in me, et tantum clarum, quod Lethes, scilicet fluvius oblivionis, non potest illud tollere nec facere obscurum; et ideo non oportet quod tu iures, nec quod te offeras michi, quia iam ostendisti quod me diligis, et quia alibi laudasti me. *Bigio*: idest obscurum.
 
 Sed, si tua verba nunc verum iuraverunt, dic michi que est causa, propter quam demonstras in dicto et in loquela habere me carum?
 

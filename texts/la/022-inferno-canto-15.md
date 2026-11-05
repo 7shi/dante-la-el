@@ -32,7 +32,7 @@ In capitulo decimoquinto, quod incipit: *Nunc portat nos*, auctor ponit etiam pe
 &emsp;Ut defendant suas villas et sua castella,\
 &emsp;Antequam Clarentana calorem sentiat;
 
-*Nunc nos portat*. *Ora cen porta l'un de' du[r]i*: *istud* est quintumdecimum capitulum huius Inferni, in quo auctor tractat de violentis, qui contra Deum fecerunt violentando naturam; quod dividitur in quatuor partes. In quarum prima describitur passus et transitus, per quem ibant per istam arenam.
+*Nunc nos portat*. *Ora cen porta l'un de' du[r]i*: istud est quintumdecimum capitulum huius Inferni, in quo auctor tractat de violentis, qui contra Deum fecerunt violentando naturam; quod dividitur in quatuor partes. In quarum prima describitur passus et transitus, per quem ibant per istam arenam.
 
 In secunda, que incipit ibi:
 
