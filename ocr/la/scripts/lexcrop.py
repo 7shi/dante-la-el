@@ -1,10 +1,10 @@
 """Check 2 of ocr/la/PLAN.md: crops of the candidates' words, and a reader's readings of them.
 
-    la_lexcrop.py LIST FIRST LAST [-g G] --crops DIR [--labels]
-    la_lexcrop.py LIST FIRST LAST [-g G] --readings READ [-o OUT]
-    la_lexcrop.py LIST FIRST LAST [-g G] --lines OUT
+    lexcrop.py LIST FIRST LAST [-g G] --crops DIR [--labels]
+    lexcrop.py LIST FIRST LAST [-g G] --readings READ [-o OUT]
+    lexcrop.py LIST FIRST LAST [-g G] --lines OUT
 
-LIST is the output of la_lexcheck.py; its candidates of group G (default 2) on pages
+LIST is the output of lexcheck.py; its candidates of group G (default 2) on pages
 FIRST..LAST are taken, in its order.
 
 --crops writes, for each candidate, a crop of the page image around its word, 8 to an
@@ -37,8 +37,8 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw
 
-import la_lemmacheck as L
-import la_lexcheck as X
+import lemmacheck as L
+import lexcheck as X
 
 LET = r"[^\W\d_]"
 ROW = re.compile(r"(\d) (\d{4}):(\d+) ")
@@ -211,7 +211,7 @@ def compare(rs, path):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    ap.add_argument("list", help="the output of la_lexcheck.py")
+    ap.add_argument("list", help="the output of lexcheck.py")
     ap.add_argument("first", type=int)
     ap.add_argument("last", type=int)
     ap.add_argument("-g", "--group", type=int, default=2, help="the group to take (default 2)")

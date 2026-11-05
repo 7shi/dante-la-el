@@ -1,6 +1,6 @@
 """Survey of the verse blocks of the ocr/la canto pages: which columns are transcribed.
 
-    la_survey.py [--cantos | --work FIRST LAST] [-o OUT]
+    survey.py [--cantos | --work FIRST LAST] [-o OUT]
 
 For each canto text page (the pages of the Latin-and-Comentum column of ocr/la/INDEX.md),
 reads the verse block at the top (up to the first prose paragraph, skipping running heads,
@@ -30,7 +30,7 @@ from pathlib import Path
 import dante_corpus
 from rapidfuzz import fuzz, process
 
-ROOT = Path(__file__).resolve().parent / "la"
+ROOT = Path(__file__).resolve().parent.parent
 
 
 def unmark(t):

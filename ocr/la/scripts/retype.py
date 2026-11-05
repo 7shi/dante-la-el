@@ -1,15 +1,15 @@
 """Append a fixes.tsv row that replaces a page, or a part of it, by a retyped text
 (procedure step 6).
 
-    la_retype.py WORK PAGE FILE NOTE [--old OLDFILE]
+    retype.py WORK PAGE FILE NOTE [--old OLDFILE]
 
-For a page too broken for its marks: decide every mark of PAGE (la_mine.py, usually
-`left`), rerun la_markresolve.py so that WORK/out/PAGE.txt holds the resolved text, then
+For a page too broken for its marks: decide every mark of PAGE (mine.py, usually
+`left`), rerun markresolve.py so that WORK/out/PAGE.txt holds the resolved text, then
 run this with FILE, the page retyped from the scan. The row replaces the whole text of
 WORK/out/PAGE.txt by FILE's text; with --old, only the text of OLDFILE (a part of the
 page, e.g. one column, copied from WORK/out/PAGE.txt), which must occur there exactly
 once. Line breaks are written as `⏎`; leading and trailing blank lines are dropped.
-Rerun la_markresolve.py afterwards and compare WORK/out/PAGE.txt with FILE."""
+Rerun markresolve.py afterwards and compare WORK/out/PAGE.txt with FILE."""
 
 import argparse
 import sys
@@ -22,7 +22,7 @@ def main():
     ap.add_argument("--old", metavar="OLDFILE", help="replace only this part of the page")
     a = ap.parse_args()
     out = Path(a.work, "out", f"{a.page}.txt")
-    if not out.exists(): sys.exit(f"{out} missing: decide the page's marks and rerun la_markresolve.py")
+    if not out.exists(): sys.exit(f"{out} missing: decide the page's marks and rerun markresolve.py")
     text = out.read_text(encoding="utf-8")
     old = (Path(a.old).read_text(encoding="utf-8") if a.old else text).strip("\n")
     new = Path(a.file).read_text(encoding="utf-8").strip("\n")

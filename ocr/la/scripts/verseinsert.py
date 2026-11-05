@@ -1,10 +1,10 @@
 """Insert a transcribed Italian verse column into ocr/la pages that lack it.
 
-    la_verseinsert.py PAGE... -d DIR [-n]
+    verseinsert.py PAGE... -d DIR [-n]
 
 DIR/PAGE.txt is the Italian verse of the page, checked (tercet numbers as superscripts,
 runover lines `[…`). It is inserted before the first line of the page's Latin verse block
-(la_survey.verse_block), followed by a blank line, with a blank line before it where the
+(survey.verse_block), followed by a blank line, with a blank line before it where the
 running head stands right above the verse. In the Latin block, the tercet numbers become
 superscripts (`27`, `^27` → `²⁷`), and each counted line (no runover, gloss or head line)
 gets the number of the Italian line at the same place: a number added or changed is
@@ -17,7 +17,7 @@ import re
 import sys
 from pathlib import Path
 
-import la_survey as S
+import survey as S
 
 ROOT = S.ROOT
 SUP = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")

@@ -1,8 +1,8 @@
 """Ask a model, mark by mark, which reading the print shows in the crop of the mark.
 
-    la_markdecide.py WORK -m MODEL [-n N] [--fake]
+    markdecide.py WORK -m MODEL [-n N] [--fake]
 
-Reads WORK/post/, WORK/locate.tsv, WORK/crops/ and WORK/ask.txt (la_markprep.py). For each
+Reads WORK/post/, WORK/locate.tsv, WORK/crops/ and WORK/ask.txt (markprep.py). For each
 mark of ask.txt, one call with a new Client, so that images do not pile up in a history:
 the crop at the scan's own resolution, the passage around the place (8 words a side, the
 place shown as ⟦…⟧), and the two readings in an order fixed by a hash of the mark, so that
@@ -10,12 +10,12 @@ the side (ocr/la or GLM-OCR) is not given away. The model writes what the print 
 first, then chooses: 1, 2, neither, unreadable, or wrong place.
 
 Measured on proofread pages: right on 45 of 48 letter marks, but it reads the common form
-for a misprint (9 of 15) and misses faint semicolon tails; so la_markresolve.py takes its
+for a misprint (9 of 15) and misses faint semicolon tails; so markresolve.py takes its
 answer only with Tesseract's agreement, and every change to ocr/la is checked by hand.
 
 Every answer is saved as WORK/ans/PAGE-LINE-HASH.MODEL.json and reused on a rerun, so no
 call is made twice. HASH (of the two readings) names the mark, not its index on the page,
-which changes when la_markprep.py resolves more marks; the order of the readings shown
+which changes when markprep.py resolves more marks; the order of the readings shown
 follows the same name. WORK/decide.tsv lists the verdicts (left, right, neither, unreadable, wrong
 place) with the reading."""
 
@@ -33,7 +33,7 @@ from llm7shi.response import Response
 from llm7shi.usage import append_usage, find_usage_file, print_today_totals
 from llm7shi.utils import parse_model_args
 
-import la_markup as M
+import markup as M
 
 CTX = 8  # words of the passage on each side of the place
 
@@ -96,7 +96,7 @@ class Fake:
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    ap.add_argument("work", type=Path, help="the work directory of la_markprep.py")
+    ap.add_argument("work", type=Path, help="the work directory of markprep.py")
     ap.add_argument("-n", "--limit", type=int, help="ask at most N new questions")
     ap.add_argument("--fake", action="store_true", help="no calls: answer side 1 (for tests)")
     ap.add_argument("--save-usage", action="store_true", help="record usage regardless of the model")

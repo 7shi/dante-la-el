@@ -1,16 +1,16 @@
 """Views for deciding marks and checks in the images (one stacked PNG per call).
 
-    la_view.py review WORK PAGE:K[,PAGE:K...] -o OUT.png    review.tsv crops, labelled
-    la_view.py context WORK [CLASS] [-o OUT]                review.tsv marks in their text
-    la_view.py next WORK [N] -o OUT.png                     the next N marks not in mine.tsv
-    la_view.py word TESS PAGE:REGEX[:N] ... [-z 2] -o OUT.png   around the Nth Tesseract word
-    la_view.py strip PAGE:Y ... -o OUT.png                   full page width around height Y
+    view.py review WORK PAGE:K[,PAGE:K...] -o OUT.png    review.tsv crops, labelled
+    view.py context WORK [CLASS] [-o OUT]                review.tsv marks in their text
+    view.py next WORK [N] -o OUT.png                     the next N marks not in mine.tsv
+    view.py word TESS PAGE:REGEX[:N] ... [-z 2] -o OUT.png   around the Nth Tesseract word
+    view.py strip PAGE:Y ... -o OUT.png                   full page width around height Y
 
 `review` takes the keys of review.tsv (`page:k`); `context` prints each mark of review.tsv
 (or of one class: comma, letters, punct, onesided) with the text around it, from
 WORK/post/; `next` shows the crops and contexts of the next N marks (default 16) of
-review.tsv that WORK/mine.tsv does not decide yet (decisions go in with la_mine.py); `word` finds a word in Tesseract's PAGE.tsv (TESS) and crops the lines around
-it, enlarged by -z; `strip` is for the rule positions that la_lines.py and la_check.py -v
+review.tsv that WORK/mine.tsv does not decide yet (decisions go in with mine.py); `word` finds a word in Tesseract's PAGE.tsv (TESS) and crops the lines around
+it, enlarged by -z; `strip` is for the rule positions that lines.py and check.py -v
 give."""
 
 import argparse
@@ -21,7 +21,7 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw
 
-ROOT = Path(__file__).resolve().parent / "la"
+ROOT = Path(__file__).resolve().parent.parent
 MARK = re.compile(r"\{\{(.*?)\|(.*?)\}\}", re.S)
 
 
@@ -67,7 +67,7 @@ def context(work, d, cache):
         cache[p] = (t, list(MARK.finditer(t)))
     t, ms = cache[p]
     left, right = d["left"].replace("⏎", "\n"), d["right"].replace("⏎", "\n")
-    # the line of review.tsv is counted on the ocr/la sides (la_markup.mark_line)
+    # the line of review.tsv is counted on the ocr/la sides (markup.mark_line)
     m = [m for m in ms if unm(t[:m.start()]).count("\n") + 1 == line and m.group(1) == left and m.group(2) == right]
     if not m: return f"{p}:{d['k']}\t{d['reason']}\t{d['model']}\t?? L={d['left']!r} R={d['right']!r}"
     m = m[0]

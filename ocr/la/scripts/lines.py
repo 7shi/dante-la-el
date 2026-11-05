@@ -1,10 +1,10 @@
 """Checks of ocr/la pages after the markup method: rules, line breaks, dots.
 
-    la_lines.py FIRST LAST -t TESS [-o OUT]
+    lines.py FIRST LAST -t TESS [-o OUT]
 
 Each hit is a place to look at in the image, not a correction.
 
-- rules: each short rule found in a column of ocr/la/PAGE.png (la_check.py's detection) is
+- rules: each short rule found in a column of ocr/la/PAGE.png (check.py's detection) is
   matched to the ocr/la line above it by the last three words of the Tesseract line above
   the rule. `NO BLANK` is a matched line not followed by a blank line; `?` is a rule whose
   line could not be matched (often a page-end rule, which is not written, or a rule at a
@@ -29,7 +29,7 @@ from pathlib import Path
 from PIL import Image
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-import la_check as C  # noqa: E402
+import check as C  # noqa: E402
 
 ROOT = C.ROOT
 SKIP = {"etc", "al", "cap"}

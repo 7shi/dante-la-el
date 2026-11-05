@@ -1,6 +1,6 @@
 """Check 2 of ocr/la/PLAN.md: rare forms one or two letters from common ones.
 
-    la_lexcheck.py FIRST LAST [-o OUT] [-t TESS] [-d DIR] [--min N] [--ratio X] [-g G]
+    lexcheck.py FIRST LAST [-o OUT] [-t TESS] [-d DIR] [--min N] [--ratio X] [-g G]
 
 The words of all pages (0001-1296; the italic marks removed, a word hyphenated at a line
 end joined) are counted case-insensitively. Each form of count 1-2 on pages FIRST..LAST
@@ -30,9 +30,9 @@ import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 
-import la_lemmacheck as L
+import lemmacheck as L
 
-ROOT = Path(__file__).resolve().parent / "la"
+ROOT = Path(__file__).resolve().parent.parent
 WORD = re.compile(r"[^\W\d_⁰¹²³⁴⁵⁶⁷⁸⁹]+")  # superscripts are \w
 PAIRS = [("c", "e"), ("n", "u"), ("r", "t"), ("rn", "m"), ("li", "h"), ("f", "s"), ("cl", "d")]
 TABLES = ("lexcheck.tsv", "lemmacheck.tsv", "versecheck.tsv")
@@ -159,7 +159,7 @@ def tess_word(page, line, form, text):
 
 
 def locate_run(page, line):
-    """The Tesseract words of a line (as la_lemmacheck.locate, which gives the box)."""
+    """The Tesseract words of a line (as lemmacheck.locate, which gives the box)."""
     lines, verse, end = L.page_layout(page)
     if end is not None:
         if line in verse:

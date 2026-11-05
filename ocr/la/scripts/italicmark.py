@@ -1,11 +1,11 @@
 """Italics of ocr/la/DONE.md: mark the italic words of the commentary from their slant, and
 list the lines to look at in the image.
 
-    la_italicmark.py SLANT -d OUTDIR [-o FLAGS] [-t TESS] [--likeness X] [--pages SPEC] [--join]
+    italicmark.py SLANT -d OUTDIR [-o FLAGS] [-t TESS] [--likeness X] [--pages SPEC] [--join]
 
-SLANT is the -v output of la_italic.py. The words of each commentary line it lists are
+SLANT is the -v output of italic.py. The words of each commentary line it lists are
 marked in ocr/la's text (its `*` removed) from their slant: italic from 0.16, roman up to
-0.09 (relative to the page, as la_italic.py prints them). The words are taken as one
+0.09 (relative to the page, as italic.py prints them). The words are taken as one
 stream per paragraph (consecutive lines), so that the rules see across a line end:
 
 - a word unknown or of one letter takes its nearest measured neighbours (italic if both
@@ -51,7 +51,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-import la_lemmacheck as L
+import lemmacheck as L
 
 STOP = re.compile(r"[:.;?!()]")
 JOIN = re.compile(r"[\s.,]*\.[\s.,]*")
@@ -59,7 +59,7 @@ ROMAN = re.compile(r"[IVXLCDM]+")
 
 
 def read_slants(path):
-    """{(page, line): [slant or None per word]} from la_italic.py -v."""
+    """{(page, line): [slant or None per word]} from italic.py -v."""
     out, page = {}, None
     for l in open(path, encoding="utf-8"):
         m = re.match(r"## (\d{4})", l)
@@ -247,7 +247,7 @@ def mark_page(lines, slants, lo=0.09, hi=0.16, join=False):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    ap.add_argument("slant", help="la_italic.py -v output")
+    ap.add_argument("slant", help="italic.py -v output")
     ap.add_argument("-d", "--outdir", required=True, help="write the marked pages here")
     ap.add_argument("-o", "--output", help="write the flags to this file instead of stdout")
     ap.add_argument("-t", "--tess", default=str(L.ROOT / "tesseract"), help="Tesseract's TSV directory")

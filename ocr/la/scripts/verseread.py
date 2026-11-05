@@ -1,8 +1,8 @@
-"""Transcribe the verse column of each crop of la_versecrop.py from the image, with a model.
+"""Transcribe the verse column of each crop of versecrop.py from the image, with a model.
 
-    la_verseread.py CROPS [PAGE...] -m MODEL [-n N] [--fake] [--check]
+    verseread.py CROPS [PAGE...] -m MODEL [-n N] [--fake] [--check]
 
-Reads CROPS/crops.tsv and CROPS/PAGE.png (la_versecrop.py); without PAGE, every page of
+Reads CROPS/crops.tsv and CROPS/PAGE.png (versecrop.py); without PAGE, every page of
 crops.tsv with a box. For each page, one call with a new Client, so that images do not pile
 up in a history: the crop at the scan's own resolution, and a prompt for its language (the
 column cropped: it, la). Only the image is given, no text of the verse: the model reads the
@@ -30,7 +30,7 @@ from llm7shi.response import Response
 from llm7shi.usage import append_usage, find_usage_file, print_today_totals
 from llm7shi.utils import parse_model_args
 
-import la_versecrop as V
+import versecrop as V
 
 SUP = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
 UNSUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
@@ -135,7 +135,7 @@ def check(p, read, column):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    ap.add_argument("crops", type=Path, help="the directory of la_versecrop.py")
+    ap.add_argument("crops", type=Path, help="the directory of versecrop.py")
     ap.add_argument("pages", nargs="*", help="pages of crops.tsv (default: all with a box)")
     ap.add_argument("-n", "--limit", type=int, help="make at most N new calls")
     ap.add_argument("--fake", action="store_true", help="no calls: the file's lines (for tests)")

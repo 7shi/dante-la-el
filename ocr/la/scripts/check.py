@@ -1,6 +1,6 @@
 """Structure checks of ocr/la pages: tercet numbers, and section rules against blank lines.
 
-    la_check.py FIRST LAST [-d DIR]... [-v] [-o OUT]
+    check.py FIRST LAST [-d DIR]... [-v] [-o OUT]
 
 -d reads the page files from DIR (repeatable, the first that has the page; default ocr/la),
 such as a work directory's out/ before it is written; the images stay in ocr/la.
@@ -21,7 +21,7 @@ from pathlib import Path
 
 from PIL import Image
 
-ROOT = Path(__file__).resolve().parent / "la"
+ROOT = Path(__file__).resolve().parent.parent
 
 
 def unmark(t):

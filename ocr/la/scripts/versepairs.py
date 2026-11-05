@@ -13,7 +13,7 @@ empty; these are listed on stderr too.
 import argparse, re, sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parents[3]
 TEXTS = ROOT / "texts" / "la"
 PAGE = re.compile(r"<!-- p\. .*\((\d+)\) -->")
 HEAD = re.compile(r"^(\d+) (.*)$")

@@ -1,6 +1,6 @@
 """Text of the two OCRs that an ocr/la page lacks (lost lines and passages).
 
-    la_lostcheck.py FIRST LAST -t TESS [-g GLM] [-d DIR ...] [-n N] [-v] [-o OUT]
+    lostcheck.py FIRST LAST -t TESS [-g GLM] [-d DIR ...] [-n N] [-v] [-o OUT]
 
 For each page, the words of Tesseract (TESS/PAGE.tsv) and of GLM-OCR (GLM/PAGE.txt, default
 ocr/la/glm-ocr) are looked up in the page file (the first DIR that has PAGE.txt; default
@@ -26,7 +26,7 @@ from pathlib import Path
 
 from rapidfuzz import fuzz, process
 
-ROOT = Path(__file__).resolve().parent / "la"
+ROOT = Path(__file__).resolve().parent.parent
 
 
 def unmark(t):

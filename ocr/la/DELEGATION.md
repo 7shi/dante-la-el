@@ -91,7 +91,7 @@ what was fixed) are in [DONE.md](DONE.md) ("Record of the preparation" and "Work
 
 ## Rules by kind of task
 
-**Verse from crops** (the missing column cut by `ocr/la_versecrop.py`): one file
+**Verse from crops** (the missing column cut by `ocr/la/scripts/versecrop.py`): one file
 line per printed line; leave out the running head, the rules, the gloss lines, the
 commentary and the edge of the other column; a line cut by the crop is read in
 `ocr/la/PAGE.png` and reported. The Latin verse (0836) takes the Latin wording of the
@@ -134,14 +134,14 @@ order. If the band ends before the rule or shows no gloss, read `ocr/la/PAGE.png
 Each output is compared by script (scripts in `tmp/`, not kept), never taken on trust:
 
 - Verse: against `ocr/la`'s other readings (GLM-OCR, Tesseract, the model's reading) and
-  with `la_check.py` (tercet numbers); every word found in no other reading is looked at
+  with `scripts/check.py` (tercet numbers); every word found in no other reading is looked at
   in the image.
 - Gloss lines: the words in no other reading of the band (Tesseract, GLM-OCR, the old
   gloss lines) and the gloss numbers that differ.
 - Whole pages: against GLM-OCR and the old `ocr/la` (every word that differs from both,
-  every block one of them lacks, the verse with `la_check.py`), each hit in the image;
+  every block one of them lacks, the verse with `scripts/check.py`), each hit in the image;
   then the page replaces the old one, its markup answers are redone and re-checked with
-  `la_markup.py -r 0`.
+  `scripts/markup.py -r 0`.
 
 ## What la-el-agy got wrong
 

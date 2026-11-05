@@ -1,17 +1,17 @@
 """Verse check of ocr/la/PLAN.md: the Latin verse read again from the image.
 
-    la_versecheck.py FIRST LAST --crops DIR [--italian] [--seed N] [--min-likeness X]
-    la_versecheck.py FIRST LAST --readings DIR [--italian] [-o OUT]
-    la_versecheck.py FIRST LAST --page-crops DIR [--italian]
-    la_versecheck.py FIRST LAST --page-readings DIR [--italian] [-o OUT]
+    versecheck.py FIRST LAST --crops DIR [--italian] [--seed N] [--min-likeness X]
+    versecheck.py FIRST LAST --readings DIR [--italian] [-o OUT]
+    versecheck.py FIRST LAST --page-crops DIR [--italian]
+    versecheck.py FIRST LAST --page-readings DIR [--italian] [-o OUT]
 
-The Latin verse of a canto page (the second verse block, as la_lemmacheck.py finds it;
+The Latin verse of a canto page (the second verse block, as lemmacheck.py finds it;
 the gloss lines at its end left out) has had one reading only. --crops writes an image of
 each of its lines to DIR, in a shuffled order, for a reader who transcribes them from the
 image alone
 (DIR/lines.tsv maps them back; a line that Tesseract cannot locate, such as a runover word,
 goes to DIR/unlocated.tsv, to be read in the page image). This is check 1's procedure
-(la_lemmacheck.py --crops), over every line of the Latin verse.
+(lemmacheck.py --crops), over every line of the Latin verse.
 
 --readings compares the reader's DIR/readings.tsv (`L0001<TAB>line as printed`) with
 ocr/la, line by line: every line whose words differ (letters, accents and the tercet
@@ -32,7 +32,7 @@ import re
 import sys
 from pathlib import Path
 
-import la_lemmacheck as L
+import lemmacheck as L
 
 NUMBER = re.compile(r"^\[?(\d+) ")
 
@@ -51,7 +51,7 @@ def verse_lines(first, last, italian=False):
 
 
 def write_crops(keys, d, seed, min_likeness):
-    """As la_lemmacheck.write_crops, for the given lines."""
+    """As lemmacheck.write_crops, for the given lines."""
     from PIL import Image
     d = Path(d)
     d.mkdir(parents=True, exist_ok=True)

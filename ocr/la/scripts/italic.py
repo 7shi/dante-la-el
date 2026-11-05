@@ -1,10 +1,10 @@
 """Italics of ocr/la/DONE.md: the italic words of the commentary, found by their slant.
 
-    la_italic.py FIRST LAST -t TESS [-o OUT] [-v] [--boxes DIR] [--min-slant X] [--max-upright X]
+    italic.py FIRST LAST -t TESS [-o OUT] [-v] [--boxes DIR] [--min-slant X] [--max-upright X]
 
 For each line of the commentary (the blocks after the verse and its gloss line, as
-la_lemmacheck.py finds them; on a page with no verse, every block but the page head), the
-Tesseract words of the line are located (la_lemmacheck.locate) and each word of ocr/la takes
+lemmacheck.py finds them; on a page with no verse, every block but the page head), the
+Tesseract words of the line are located (lemmacheck.locate) and each word of ocr/la takes
 the Tesseract word that most of its letters align with (a word left without one, as in a
 paragraph-per-line essay, is aligned in the stream of the whole commentary). The word's
 box, over the height of its Tesseract line, widened four times and binarized, is sheared
@@ -17,7 +17,7 @@ letter is unknown, as its accent slants (`è`).
 Output per page: the runs of italic words (consecutive words of the commentary, across
 lines; an unknown word inside a run is kept in it, and one next to a run is taken in unless
 a stop stands between: `corporea. Ad im-`), each with its lines, its words (`?` after an
-unknown one), and the lemma of check 1 (la_lemmacheck.py) it overlaps, or `none`; then the
+unknown one), and the lemma of check 1 (lemmacheck.py) it overlaps, or `none`; then the
 lemmas that no run overlaps (`not italic`). -v lists every commentary line with the slant
 of each word; --boxes writes each page with its words boxed (red italic, blue roman, green
 unknown). The errors are in lines where Tesseract's boxes are wrong (a misread line, boxes
@@ -32,7 +32,7 @@ from pathlib import Path
 
 from PIL import Image
 
-import la_lemmacheck as L
+import lemmacheck as L
 
 SLANTS = [round(-0.20 + 0.02 * i, 2) for i in range(36)]  # -0.20 .. 0.50
 
@@ -58,7 +58,7 @@ def slant(im, box, zoom=4):
 
 
 def line_words(text):
-    """The words of a line as la_lemmacheck.tokens sees them (gloss marks removed)."""
+    """The words of a line as lemmacheck.tokens sees them (gloss marks removed)."""
     t = L.GLOSS.sub(" ", text)
     return [(m.group(), m.end()) for m in L.WORD.finditer(t)], t
 
@@ -121,7 +121,7 @@ def page_words(page, im):
 
 
 def tokens(words):
-    """The words joined at a line-end hyphen, as la_lemmacheck.tokens joins them:
+    """The words joined at a line-end hyphen, as lemmacheck.tokens joins them:
     [(norm, form, line, [indices into words])]."""
     out, k = [], 0
     while k < len(words):
@@ -136,7 +136,7 @@ def tokens(words):
 
 def page_lemmas(first, last):
     """{page: [(lang, set of (line, form)), text]}: the lemmas of check 1, from
-    la_lemmacheck.find's verbose list."""
+    lemmacheck.find's verbose list."""
     verbose = []
     L.find(first, last, 3, 2, set(), verbose)
     out = {}

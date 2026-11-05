@@ -32,7 +32,7 @@ from llm7shi import Client
 from llm7shi.usage import append_usage, find_usage_file, print_today_totals
 from llm7shi.utils import parse_model_args
 
-ROOT = Path(__file__).resolve().parent / "la"
+ROOT = Path(__file__).resolve().parent.parent
 # Set to a path to record usage; None means "don't record"
 USAGE_PATH = None
 MARK = re.compile(r"\{\{([^{}|]*)\|([^{}|]*)\}\}")

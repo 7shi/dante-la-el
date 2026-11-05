@@ -1,11 +1,11 @@
 """Append decisions of the review to WORK/mine.tsv (procedure step 6).
 
-    la_mine.py WORK PAGE K[,K...]=DECISION[|NOTE] ...
+    mine.py WORK PAGE K[,K...]=DECISION[|NOTE] ...
 
 Each argument decides the marks K of PAGE (the `k` of review.tsv) with DECISION (`left`,
 `right` or `text:...`, `⏎` for a line break) and an optional NOTE after `|`. The line of
 each mark is taken from WORK/review.tsv. A mark not in review.tsv, or already in mine.tsv,
-stops the call before anything is written. `la_view.py next WORK` shows the marks still to
+stops the call before anything is written. `view.py next WORK` shows the marks still to
 decide."""
 
 import argparse

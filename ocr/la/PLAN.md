@@ -37,7 +37,7 @@ started; its first step is the preparation, then the trial.
 ## Checks
 
 The checks list candidates by script, and every candidate is decided in the image
-(`ocr/la_view.py word`), never from the sense or from another edition. A candidate is one of:
+(`ocr/la/scripts/view.py word`), never from the sense or from another edition. A candidate is one of:
 
 - **misread**: `ocr/la` differs from the print; correct `ocr/la`;
 - **printed**: `ocr/la` is as printed; a misprint goes into "Suspected misprints", a form of
@@ -49,14 +49,14 @@ The decisions are kept in a table per check in `ocr/la/` (`lemmacheck.tsv`,
 fixes. What each table holds and who reads it:
 
 - `lemmacheck.tsv` (check 1): only the candidates decided `printed`; a misread candidate was
-  corrected and is no longer a candidate. `la_lemmacheck.py` reads it and leaves out what is
+  corrected and is no longer a candidate. `scripts/lemmacheck.py` reads it and leaves out what is
   decided (matched by page and form, as line numbers shift), so a rerun lists only new
   candidates.
 - `versecheck.tsv` (verse check): every decided line, `misread` (corrected; the note has
   the old form, `was …`), `misprint` and `printed` (mostly the lines listed by step 0). A
-  record only: `la_versecheck.py` compares every line and does not read it.
+  record only: `scripts/versecheck.py` compares every line and does not read it.
 - `lexcheck.tsv` (check 2): `page line form decision note`, as `lemmacheck.tsv`; its forms
-  are left out by `la_lexcheck.py`.
+  are left out by `scripts/lexcheck.py`.
 - `readcheck.tsv` (the read-through, not yet made): every flagged place decided, as
   `versecheck.tsv`.
 
@@ -92,8 +92,8 @@ before: check 2, group 3, judged only its candidates. The same steps then serve
      reader writes a TSV: page, the phrase as written, the reason.
   3. Decisions: a misreading is corrected in `ocr/la`; a misprint goes into "Suspected
      misprints"; every decision is a row of `readcheck.tsv`.
-  4. After the fixes: `texts/convert_la.py`, `ocr/la_seqcheck.py 79 1270` and
-     `ocr/la_check.py 79 1287`, each compared with its previous output; a commit per
+  4. After the fixes: `texts/convert_la.py`, `ocr/la/scripts/seqcheck.py 79 1270` and
+     `ocr/la/scripts/check.py 79 1287`, each compared with its previous output; a commit per
      batch, `ocr/la` and `texts/la` apart.
   5. The other texts, after `la`: the same steps, a trial of a few pages each, the images
      `ocr/{dir}/NNN.png`, the records in each `ocr/{dir}/`; what no check has read there
@@ -115,11 +115,11 @@ before: check 2, group 3, judged only its candidates. The same steps then serve
 - Python is run with `uv run`. Scripts for delegates take `-o OUT`, and their task files use no shell redirection (a redirect asks for approval each time).
 - No local paths in repository files.
 - The italic marks `*…*` are in `ocr/la`: a script that reads it removes them first
-  (`unmark()`, as `la_check.py`), and a correction keeps them (a word corrected inside a
+  (`unmark()`, as `scripts/check.py`), and a correction keeps them (a word corrected inside a
   run stays inside it).
 - Delegate tasks forbid subagents and any git command that changes the repository or uses
   the network (see texts/PLAN.md, "Delegated work").
-- Paid API calls (`ocr/la_markup.py`, `ocr/la_markdecide.py`) are run by the user. Never
+- Paid API calls (`ocr/la/scripts/markup.py`, `ocr/la/scripts/markdecide.py`) are run by the user. Never
   discard a saved answer, never repeat a call that cannot help, and test with fakes first.
   With a `gpt-` model, do not add `--save-usage`.
 
@@ -419,8 +419,8 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 - Errors shared by both OCRs (`Anmodo`, `circuleto`, 0085 `terret`) are not marked by the
   markup method; the checks ("Checks" above, DONE.md) looked for them, within the
   limits below.
-- Italics are marked from the slant measured by `ocr/la_italic.py`, and only the lines
-  `ocr/la_italicmark.py` flags were decided in the image (some pages read whole: the
+- Italics are marked from the slant measured by `ocr/la/scripts/italic.py`, and only the lines
+  `ocr/la/scripts/italicmark.py` flags were decided in the image (some pages read whole: the
   notizie 0022, 0027, 0029, 0031, 0033–0038; DONE.md, "Italics"): an unflagged word measured wrongly may keep a wrong mark, and the
   punctuation at a run's edge follows the convention ("Italics" under "Conventions"), not
   the print. The 453 same-line `*a*. *b*` and `*a*: *b*` were decided by sense (DONE.md,
@@ -443,11 +443,11 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
   every line of it, and of the Italian verse, again from the image (DONE.md, "Verse
   check"), each line by one reader; a word that the first OCR and the reader both read
   alike and wrongly is not found.
-- `la_survey.py` ends a page's verse block at a gloss line it does not recognize (`(^1)`,
+- `scripts/survey.py` ends a page's verse block at a gloss line it does not recognize (`(^1)`,
   or a gloss run over two lines), and then reports the Latin as missing (25 pages, "Record of the preparation").
 - Line breaks and the Latin verse block are not covered by the markup (GLM-OCR joins lines
   and drops the Latin verse): the verse is completed before the markup (procedure, step 1),
-  and line breaks are checked by `la_lines.py` (step 8).
+  and line breaks are checked by `scripts/lines.py` (step 8).
 
 ## Sources for checking
 
@@ -474,66 +474,10 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 
 ## Tools
 
-- `ocr/la_markup.py`, `la_markprep.py`, `la_markdecide.py`, `la_markresolve.py`: the markup
-  method (procedure, steps 2–7).
-- `ocr/la_view.py review|context|next|word|strip`: views for the review and the checks
-  (steps 6, 8).
-- `ocr/la_mine.py WORK PAGE K=DECISION[|NOTE] …`: appends review decisions to
-  `WORK/mine.tsv` (step 6).
-- `ocr/la_retype.py WORK PAGE FILE NOTE [--old PART]`: a fixes.tsv row replacing a page
-  (or a part of it) of `WORK/out/` by its retyped text (step 6).
-- `ocr/la_lines.py FIRST LAST -t TESS [-o OUT]`: rules without a blank line, printed lines
-  broken in two, dots before a lowercase word (step 8).
-- `ocr/la_check.py FIRST LAST [-v] [-o OUT]`: tercet numbers (order, every third line,
-  continuity across pages) and the section rules of the images against the blank lines
-  (the rule count often misses right-column and page-end rules: look at a listed page).
-- `ocr/la_lostcheck.py FIRST LAST -t TESS [-g GLM] [-d DIR ...] [-n N] [-v] [-o OUT]`: text
-  lost from a page: runs of 4+ words of Tesseract and GLM-OCR found nowhere in the page
-  file, matched loosely (three-word runs, similarity 75) and in any order; `both` (the two
-  OCRs agree) is lost text, `tess`/`glm` mostly one OCR's noise. It does not see lines out
-  of order or run together. `-d` reads another directory first (e.g. `WORK/out`).
-- `ocr/la_seqcheck.py FIRST LAST [-d DIR ...] [-v] [-o OUT]`: per page, verse blocks whose
-  tercet numbers skip, Italian and Latin numbers that differ, plain-digit tercet numbers,
-  leftovers (`(1)`, `<sup>`, `[For `, a `—` line, double spaces), indented lines.
-- `ocr/la_versecrop.py PAGE... -t TESS -o OUTDIR [-c it|la]`: crops the verse column
-  missing from a page (found from the other column's lines in Tesseract's words and the
-  blank band between the columns), for its transcription; `crops.tsv` lists the boxes and
-  the line counts to look at (DONE.md, item 1). `-c` crops that column also where
-  the file has it (the trial).
-- `ocr/la_verseread.py CROPS [PAGE...] -m MODEL [-n N] [--fake] [--check]`: transcribes
-  each crop with a model, from the image only (tercet number and text of each line apart;
-  superscripts and `(¹)` written by the script): `CROPS/read/PAGE.txt`, the answers
-  `PAGE.MODEL.json` reused on a rerun. `--check` compares with the same column of
-  `ocr/la` (`read/check.txt`).
-- `ocr/la_verseinsert.py PAGE... -d DIR [-n]`: inserts the checked Italian verse
-  (`DIR/PAGE.txt`) before the page's Latin block; the Latin tercet numbers made
-  superscript and set to the Italian's line by line, every number added or changed
-  listed (to check in the image); a page whose Latin line count differs is left as it is.
-- `ocr/la_survey.py [--cantos | --work FIRST LAST] [-o OUT]`: the survey of the verse
-  blocks (texts/PLAN.md, step 1): which pages lack the Italian or the Latin column, per
-  page, per canto, or as the work list of a batch. It reads dante-corpus as a dependency
-  in `../dante-corpus` (README.md).
-- `texts/convert_la.py`: `ocr/la` to `texts/la/` (procedure, step 11).
-- `ocr/la_lemmacheck.py FIRST LAST [-v] [--crops DIR] [--readings DIR] [-o OUT]`: check 1
-  (DONE.md, "Check 1"): lemmas against the verse; `--crops` writes the line images of the
-  candidates, `--readings` compares a reader's `DIR/readings.tsv`.
-- `ocr/la_versepairs.py [FILES] [-d DIR | -o OUT]`: the verse of the cantos in `texts/la`,
-  the Italian and the Latin line side by side, one TSV per canto (verse check, step 0).
-- `ocr/la_versecheck.py FIRST LAST [--italian] (--crops DIR | --page-crops DIR |
-  --readings DIR [-o OUT] | --page-readings DIR [-o OUT])`: the verse check (DONE.md,
-  "Verse check"): the line or page images of the Latin (or Italian) verse, and the
-  comparison of a reader's `DIR/readings.tsv` with `ocr/la`.
-- `ocr/la_italic.py FIRST LAST -t TESS [-o OUT] [-v] [--boxes DIR]`: the italic words of the
-  commentary by their slant (DONE.md, "Italics", step 1).
-- `ocr/la_italicmark.py SLANT -d OUTDIR [-o FLAGS] [--pages SPEC] [--join]`: the marks set
-  from `la_italic.py -v`, and the lines to look at in the image (DONE.md, "Italics",
-  step 3).
-- `ocr/la_lexcheck.py FIRST LAST [-o OUT] [-g G]`: check 2 (DONE.md, "Check 2"):
-  rare forms near common ones, in three groups by Tesseract's word.
-- `ocr/la_lexcrop.py LIST FIRST LAST [-g G] (--crops DIR [--labels] | --readings READ
-  [-o OUT] | --lines OUT)`: check 2: for group 2 the crops of the candidates' words with the
-  masked lines (`context.tsv`) for a blind reader, and the comparison of the reader's TSV
-  with the forms; for group 3 each word in its lines, for a reader by the sense.
+The scripts are in `ocr/la/scripts/`, described in the order of use in
+[scripts/README.md](scripts/README.md): the verse columns, the two-OCR markup, the page
+checks and the checks after completion. The conversion into `texts/la/` is
+`texts/convert_la.py` (procedure, step 11).
 
 The working data of the completed work in `tmp/` (`la-markup/`, `la-mark7/`, the paid
 answers; DONE.md) are read by no step any more. Everything in `tmp/` but `tmp/bak/` is

@@ -1,6 +1,6 @@
 """Format checks of ocr/la pages: the verse blocks' tercet numbers and leftover marks.
 
-    la_seqcheck.py FIRST LAST [-d DIR ...] [-v] [-o OUT]
+    seqcheck.py FIRST LAST [-d DIR ...] [-v] [-o OUT]
 
 For each page file (the first DIR that has PAGE.txt; default ocr/la), the verse blocks are
 the blank-line separated blocks containing a tercet number (`1 `, `27 `). Listed:
@@ -12,7 +12,7 @@ the blank-line separated blocks containing a tercet number (`1 `, `27 `). Listed
   a dash), or a double space;
 - `indent`: a line starting with a space.
 
-la_check.py checks the tercet numbers across pages (every third line, continuity) and the
+check.py checks the tercet numbers across pages (every third line, continuity) and the
 rules; this one checks what it does not. One line per page with hits (all pages with -v):
 the page, the first number of each verse block, the hits."""
 
@@ -21,7 +21,7 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent / "la"
+ROOT = Path(__file__).resolve().parent.parent
 
 
 def unmark(t):

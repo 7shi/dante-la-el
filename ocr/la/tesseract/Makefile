@@ -1,5 +1,5 @@
 # Tesseract's word boxes of ocr/la, for locating the marks of the markup method in the image
-# (la_markprep.py, la_markresolve.py, la_lines.py, la_versecrop.py, la_view.py word).
+# (scripts/markprep.py, scripts/markresolve.py, scripts/lines.py, scripts/versecrop.py, scripts/view.py word).
 # Usage (in this directory): make all, or make 0233.tsv; the pages already done are skipped.
 # Tesseract (lat+ita) writes its TSV; only the words are kept, in the columns block_num,
 # par_num, line_num, left, top, width, height, text (level, page_num, word_num and conf,

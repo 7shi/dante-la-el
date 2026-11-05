@@ -1,8 +1,8 @@
 """Check 1 of ocr/la/PLAN.md: the lemmas of the commentary against the verse they quote.
 
-    la_lemmacheck.py FIRST LAST [-o OUT] [-v] [--min-run N] [--min-exact N]
-    la_lemmacheck.py FIRST LAST --crops DIR [--seed N] [--min-likeness X]
-    la_lemmacheck.py FIRST LAST --readings DIR [-o OUT]
+    lemmacheck.py FIRST LAST [-o OUT] [-v] [--min-run N] [--min-exact N]
+    lemmacheck.py FIRST LAST --crops DIR [--seed N] [--min-likeness X]
+    lemmacheck.py FIRST LAST --readings DIR [-o OUT]
 
 For each page of a canto (the scans of CANTOS in texts/convert_la.py, the essay aside), the
 words of the commentary (the blocks after the verse and its gloss line) are aligned to the
@@ -33,8 +33,8 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent / "la"
-TESS = ROOT / "tesseract"  # la_italic.py -t sets it
+ROOT = Path(__file__).resolve().parent.parent
+TESS = ROOT / "tesseract"  # italic.py -t sets it
 
 
 def unmark(t):

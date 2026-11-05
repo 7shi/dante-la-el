@@ -1,10 +1,10 @@
 """Crop the verse column missing from an ocr/la page, for its transcription from the image.
 
-    la_versecrop.py PAGE... -t TESS -o OUTDIR [-c it|la]
+    versecrop.py PAGE... -t TESS -o OUTDIR [-c it|la]
 
 A canto page prints the verse at the top in two columns, the Italian on the left and the
-Latin on the right. For a page whose file has only one of them (la_survey.py: Italian or
-Latin missing), the verse block of the file is found (la_survey.verse_block), its lines are
+Latin on the right. For a page whose file has only one of them (survey.py: Italian or
+Latin missing), the verse block of the file is found (survey.verse_block), its lines are
 looked up in Tesseract's word boxes (TESS/PAGE.tsv) to give the height of the printed verse,
 and the other column at that height, up to the blank band between the columns (with a
 margin of 15 pixels, and for the Italian on up to the end of its longest words, since the
@@ -29,7 +29,7 @@ from pathlib import Path
 from PIL import Image
 from rapidfuzz import fuzz
 
-import la_survey as S
+import survey as S
 
 ROOT = S.ROOT
 

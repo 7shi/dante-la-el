@@ -1,8 +1,8 @@
-"""Decide the marks left by la_markprep.py and resolve them into the pages.
+"""Decide the marks left by markprep.py and resolve them into the pages.
 
-    la_markresolve.py WORK -t TESSDIR [-p FIRST LAST] [--light] [--write]
+    markresolve.py WORK -t TESSDIR [-p FIRST LAST] [--light] [--write]
 
-Reads WORK/post/ and WORK/locate.tsv (la_markprep.py), WORK/decide.tsv (la_markdecide.py,
+Reads WORK/post/ and WORK/locate.tsv (markprep.py), WORK/decide.tsv (markdecide.py,
 if present), and the hand-made WORK/mine.tsv and WORK/fixes.tsv (if present). Each mark
 gets a route:
 
@@ -47,8 +47,8 @@ import re
 import shutil
 from pathlib import Path
 
-import la_markup as M
-from la_markprep import klass, letters, passage_mark, tess_words
+import markup as M
+from markprep import klass, letters, passage_mark, tess_words
 
 ACCENTED = re.compile(r"[àèéìíòóùúâêîôûÀÈÉÌÒÙ]")
 TRAIN = [f"{p:04}" for p in range(104, 195) if p not in (115, 128, 140, 141, 162, 172)]
@@ -178,7 +178,7 @@ def light(rt, cls, r, decision, mv, note):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    ap.add_argument("work", type=Path, help="the work directory of la_markprep.py")
+    ap.add_argument("work", type=Path, help="the work directory of markprep.py")
     ap.add_argument("-t", "--tessdir", required=True, type=Path, help="Tesseract's PAGE.tsv files")
     ap.add_argument("-p", "--pages", nargs=2, type=int, metavar=("FIRST", "LAST"),
                     help="only the pages FIRST-LAST")

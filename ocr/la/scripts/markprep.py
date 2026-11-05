@@ -1,8 +1,8 @@
-"""Prepare the marked pages of la_markup.py for the image decisions, without any LLM call.
+"""Prepare the marked pages of markup.py for the image decisions, without any LLM call.
 
-    la_markprep.py WORK PAGE... -t TESSDIR
+    markprep.py WORK PAGE... -t TESSDIR
 
-WORK/markup/PAGE.txt are the pages marked by `la_markup.py -o WORK/markup` ({{ocr|glm}}).
+WORK/markup/PAGE.txt are the pages marked by `markup.py -o WORK/markup` ({{ocr|glm}}).
 TESSDIR/PAGE.tsv is Tesseract's word list of ocr/la/PAGE.png (`ocr/la/tesseract/`, made
 by its Makefile: block_num, par_num, line_num, left, top, width, height, text).
 
@@ -28,7 +28,7 @@ by its Makefile: block_num, par_num, line_num, left, top, width, height, text).
    word like the mark's word. The crop is the printed line(s) with their neighbours, at the
    scan's own resolution (WORK/crops/PAGE-LINE-K.png; WORK/locate.tsv).
 
-3. WORK/ask.txt lists the marks for la_markdecide.py: located, two-sided, and not decided by
+3. WORK/ask.txt lists the marks for markdecide.py: located, two-sided, and not decided by
    rule later (`:`/`;` and `.`/`,` differences are not asked)."""
 
 import argparse
@@ -42,7 +42,7 @@ from pathlib import Path
 
 from PIL import Image
 
-import la_markup as M
+import markup as M
 
 SUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
 HEAD = re.compile(r"[A-Z ]+|\d+")
@@ -52,7 +52,7 @@ CTXS = (6, 15, 30)  # context words on each side, widened while not located
 GAP = 50  # pixels: a wider gap between words of a row is a column gap
 
 
-# ---- classes of marks (also used by la_markresolve.py) ----
+# ---- classes of marks (also used by markresolve.py) ----
 
 def letters(s):
     s = unicodedata.normalize("NFD", s.replace("æ", "ae").replace("œ", "oe"))
@@ -158,7 +158,7 @@ def last_number(p):
 def resolve_trivial(p, t):
     """The page with the trivial marks resolved, and (line, rule, left, right) of each."""
     plain = (M.ROOT / f"{p}.txt").read_text(encoding="utf-8")
-    # la_markup.py ends a page with one newline; keep the ending of ocr/la instead
+    # markup.py ends a page with one newline; keep the ending of ocr/la instead
     t = t.rstrip("\n") + plain[len(plain.rstrip("\n")):]
     marks = list(M.MARK.finditer(t))
     assert M.MARK.sub(lambda m: m.group(1), t) == plain, f"{p}: the marks do not give ocr/la"
@@ -388,7 +388,7 @@ def locate_page(p, t, tw, cropdir):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    ap.add_argument("work", type=Path, help="the work directory (WORK/markup from la_markup.py)")
+    ap.add_argument("work", type=Path, help="the work directory (WORK/markup from markup.py)")
     ap.add_argument("pages", nargs="+", help="page numbers, e.g. 0195 0196")
     ap.add_argument("-t", "--tessdir", required=True, type=Path, help="Tesseract's PAGE.tsv files")
     a = ap.parse_args()

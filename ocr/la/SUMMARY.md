@@ -24,8 +24,8 @@ and the limits in [PLAN.md](PLAN.md), the tasks given to the delegates in
 - **Narrow delegation.** What was still delegated was narrow and checkable: retyping
   pages the OCR had broken, and reading verse lines from the image alone. Every result was
   compared with `ocr/la` by script, and the differences were decided in the image.
-- **Scripted checks** over every page: `la_check.py` (tercets, rules), `la_seqcheck.py`
-  (line order), `la_lostcheck.py` (lost text), `la_lines.py` (line breaks, blank lines),
+- **Scripted checks** over every page: `scripts/check.py` (tercets, rules), `scripts/seqcheck.py`
+  (line order), `scripts/lostcheck.py` (lost text), `scripts/lines.py` (line breaks, blank lines),
   and the warnings of `texts/convert_la.py`, which converts `ocr/la` into
   `texts/la/001`–`110`.
 
