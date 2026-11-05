@@ -120,7 +120,7 @@ Loquitur hic de illa arena, que est in Libia, in partibus Africe, in Barbaria, p
 
 Describendo istam penam, auctor exclamat, dicens: *O vindicta Dei, quantum tu debes timeri a quolibet qui legit hoc quod fuit manifestum oculis meis*: idest intellectualibus in ista speculatione: idest, ista pena est tam iuste data, ut quilibet, qui legit hec que scribo, caveat sibi ab hoc vitio plusquam a morte.
 
-*Animarum nudarum vidi multos greges, que plorabant omnes satis misere*: *videbatur eis imposita lex diversa*: fingit quod diverse erant acies animarum hic punitarum: una acies semper currebat per arenam; secunda iacebat; tertia sedebat. Diversa lex, idest conditione. Iam incipit a peiori.
+*Animarum nudarum vidi multos greges, que plorabant omnes satis misere: videbatur eis imposita lex diversa*: fingit quod diverse erant acies animarum hic punitarum: una acies semper currebat per arenam; secunda iacebat; tertia sedebat. Diversa lex, idest conditione. Iam incipit a peiori.
 
 *Supina iacebat in terra aliqua gens*: ista talis est illa, que facit violentiam in persona Dei. Alia *raccolta* sedebat, sicut sedet scissor, sive sartor, quando, sedendo, suit remisse propter ardorem: ista gens erat feneratorum. Alia ibat continue ambulando; et ista tertia erat sodomitarum. Sic igitur auctor ordinat istos; nam quosdam ponit iacentes
 

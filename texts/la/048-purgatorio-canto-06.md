@@ -224,7 +224,7 @@ Et ego, bone dux, vadamus cum maiori festinantia, quia iam non fatigor sicut ant
 
 Nos ibimus cum ista die ante, respondit, quanto plus poterimus ammodo, idest nos ibimus quantum durabit dies; sed aliter est quod tu credis, idest ymaginaris. Tu ymaginaris hodie ire ad summitatem huius montis, ubi sol occidit; sed scias quod sol redibit adhuc duabus vicibus antequam tu sis in summo. Quia adhuc erat mansurus in Purgatorio duobus diebus. Ideo dicit textus: Priusquam tu sis illuc supra, redire videbis illum, qui iam cooperitur a monte, ita quod suos radios tu erumpere non facis; quia radii non feriebant in ipsum.
 
-*El ego*: *Bone dux*. *Ed io*: *O buon duca*: hec est secunda pars huius capituli, in qua auctor facit mentionem de una anima mantuana, scilicet Sordelli de Mantua, qui fuit miles, dictus Sordellus, magnificus et litteratus et bonus
+*El ego: Bone dux*. *Ed io: O buon duca*: hec est secunda pars huius capituli, in qua auctor facit mentionem de una anima mantuana, scilicet Sordelli de Mantua, qui fuit miles, dictus Sordellus, magnificus et litteratus et bonus
 
 Sed vide ibi unam animam, que ad postam, idest propositam, idest recte, sola solitaria versus nos respicit: illa nos docebit viam breviorem.
 

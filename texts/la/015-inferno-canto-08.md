@@ -262,13 +262,13 @@ benedicta illa, que in te s'encense. Virgilius iustificat quidquid fecit hic Dan
 
 *Sic umbra sua est hic furiosa*. Sic dixit Virgilius: *O* quot reputant [se] superius magnos reges, qui erunt hic veluti porci in brago, idest luto, sive ceno, et veluti sues hic submergentur, de se horribiles despectus relinquendo.
 
-*Et ego*: *O magister*, supple, dixi: multum appeto videre eum attuffari idest submergi in hoc luto antequam exeamus de isto loco, sive lacu, *broda*.
+*Et ego: O magister*, supple, dixi: multum appeto videre eum attuffari idest submergi in hoc luto antequam exeamus de isto loco, sive lacu, *broda*.
 
 *Ipse michi*: supple, magister, dixit; Antequam prora permictat se a te videri, idest antequam ad terram descendamus, oportebit quod tu gaudeas, quia tu eris satiatus de tali desiderio, sine fallo. Aliqui reputant se reges, idest ex superbia multi presumunt de se falso; sed postea cadunt in derisionem. Hic videtur auctor contemptari, videre illum affligi, scilicet videre eum trahi per cenum: hoc sepe faciunt sapientes, scilicet quod contemptantur de casu superborum, iuxta illud: Letabitur iustus cum viderit vindictam; quia hii, dum erant in statu, deridebant omnes.
 
 *Post hoc modicum vidi ego illud stratium*: idest, ludibrium fieri de ipso a gentibus fangosis, idest stantibus in fango, idest ceno, sive luto, quod de hoc adhuc Deum laudo et ipsi regratior, scilicet Deo. *A fangosis gentibus*: idest ab aliis superbis. *Quare Deum de hoc laudo*; quia sapiens potest licite gaudere de deiectione superbi propter utilitatem Reipublice, vel propter emendationem ipsius superbi.
 
-*Omnes clamabant*: *Ay Philippe Argenti, iracunde spiritus florentine; et ipse semetipsum dentibus corrodebat*: nam superbus se dentibus corrodit, quando non valet se ulcisci.
+*Omnes clamabant: Ay Philippe Argenti, iracunde spiritus florentine; et ipse semetipsum dentibus corrodebat*: nam superbus se dentibus corrodit, quando non valet se ulcisci.
 
 *Hic eum dimisimus*. *Quivi el lasciammo*: hec est tertia pars huius capituli, in qua ponuntur signa, per que demonstratur sibi civitas infernalis. Hic eum dimisimus: de quo plura non loquor. Sed aures meas percussit unus dolor; quare plus ante oculos direxi.
 

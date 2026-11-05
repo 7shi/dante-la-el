@@ -384,7 +384,7 @@ Dantes hic istos, sicut de more fit ab aliquibus dicentibus alicui: Facias hoc s
 
 *Qualiter columbe a desiderio vocate, cum alis elevatis et firmis, ad dulce nidum veniunt per aierem a voluntate portate*: hic auctor facit comparationem satis pulchram, ut patebit.
 
-*Taliter exiverunt de acie, in qua est Dido, veniendo versus nos per aierem malignum*: *tam validus fuit affectuosus clamor*.
+*Taliter exiverunt de acie, in qua est Dido, veniendo versus nos per aierem malignum: tam validus fuit affectuosus clamor*.
 
 *Ubi est Dido*: idest de acie philocaptorum. Assimilat istos spiritus venientes columbis; et merito, quia columbe sunt domestice; sic sunt philocapti. Columbe sunt aves dedicate Veneri, Dee amoris, Dee luxurie. Venus est tertius planeta influens amorem, ut patebit in Paradiso octavo capitulo. Columbe sunt animalia blanda, tractabilia; sic sunt amantes.
 
@@ -574,7 +574,7 @@ excusatio meretricum dicentium: Non potui aliter facere; non eram saxea, non de 
 
 (1) al. farò. — (2) al. colei.
 
-*Sed si cognoscere primam radicem nostri amoris, habes tantum affectum, dicam sicut ille qui, plorando, dicit*. *Nos legebamus una die ad delectationem*, idest ad solatium, *de Lancellocto, quomodo amor ipsum strinxit*: dicit quod lectura librorum delectabilium habet incitare ad amorem.
+*Sed si cognoscere primam radicem nostri amoris, habes tantum affectum, dicam sicut ille qui, plorando, dicit. Nos legebamus una die ad delectationem*, idest ad solatium, *de Lancellocto, quomodo amor ipsum strinxit*: dicit quod lectura librorum delectabilium habet incitare ad amorem.
 
 *Soli eramus absque ulla suspicione*. *Soli*: habilitas facit homines fures et latrones, et feminas meretrices.
 

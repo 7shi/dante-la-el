@@ -100,7 +100,7 @@ Notandum hic, quod, quando homo de nocte est in itinere, vel de die in nebula de
 
 Notandum quod hic fecit Virgilius, sicut faceret unus qui haberet rixam cum uno, vel pluribus, qui, pugnando, videns se superari ab illo, vel illis, dicit: Pro certo ego opponam omnes vires meas, ut vincam pugnam: sin autem, idest, si non potero a me ipso, ego apodiabo me tali;... mictens verba trunca, que habent indicare turbationem loquentis et dispositionem eius ad apodiandum se tali, qui possit eum iuvare sic et taliter quod ipse vincat pugnam. Et prosequitur Virgilius, dicens: O quam tardum est michi quod alius huc attingat. Quasi dicat: Ille de quo intelligo, bene me iuvabit, sine fallo; ideo vellem quod veniret cito. Quasi dicat Virgilius: Bene cognosco tale, qui me introducet in hanc civitatem, in despectum barbe istorum, qui se michi opposuerunt.
 
-*Ego*: scilicet Dantes: *bene vidi quomodo ipse*: scilicet Virgilius: *se recooperuit*; sic dicit auctor: *principium*: scilicet verborum: *cum aliis*: scilicet verbis: *que postmodum venerunt*: *que fuerunt a primis diversa*: idest differentia: nam secunda verba recuperabant prima. Prima fuerunt ista: Nos omnino vincemus pugnam, que erat de futuro et forte incerta. Secunda fuerunt ista: Sin autem, talis se nobis obtulit; idest adiutorium promisit. Supple, quod eius adiutorio vincemus rixam istam.
+*Ego*: scilicet Dantes: *bene vidi quomodo ipse*: scilicet Virgilius: *se recooperuit*; sic dicit auctor: *principium*: scilicet verborum: *cum aliis*: scilicet verbis: *que postmodum venerunt: que fuerunt a primis diversa*: idest differentia: nam secunda verba recuperabant prima. Prima fuerunt ista: Nos omnino vincemus pugnam, que erat de futuro et forte incerta. Secunda fuerunt ista: Sin autem, talis se nobis obtulit; idest adiutorium promisit. Supple, quod eius adiutorio vincemus rixam istam.
 
 Sed tamen timorem michi incuxerunt verba, scilicet Virgilii. Quare ego trahebam verba trunca (scilicet suspensa, scilicet ista: Sin... autem, se nobis obtulit; nec plus dixit: ita quod ista verba fuerunt trunca, idest suspensiva) forsan ad peiorem sententiam quam ipse tenuerit. Timui, dixit Dantes, quia nulla bona persona unquam transivit hac, et Virgilius fuit bona persona, et ego Dantes volo agere penitentiam de peccatis meis. Forsan non poterimus intrare hanc civitatem.
 
@@ -234,11 +234,11 @@ Et Megera dicitur Erinis, idest Furia centum potestatum. Dicitur ab heris, quod 
 
 Hec est Megera ad sinistrum fiancum, idest latus. Dicitur Megera quasi malum gerens, que ducit in actum et operationem. Illa, que plorat ad destrum, est Alecto, que cogitat malum. Alecto dicitur Furia impausabilis, et ista est que non sinit pausare mentem. Thesiphon est in medio. Et tacuit tunc, scilicet Virgilius. Lingua etenim et loquutio [sunt] quoddam instrumentum medium, quo conceptus mentis in operam perducitur, ideo in medio locatur.
 
-*Cum ungulis scindebant sibi ipsis*: scilicet, *quelibet pectus*: *percutiebat se cum palmis*: scilicet manuum.
+*Cum ungulis scindebant sibi ipsis*: scilicet, *quelibet pectus: percutiebat se cum palmis*: scilicet manuum.
 
 *Et clamabant tam alte, quod stricte adhesi poete propter suspicionem*: scilicet quia timui videndo talia. Iste Furie scindebant pectus. Pectoris est officium seminandi scandala: illa est proprie Alecto, que findit pectus et cor: cum manu facit proprie Megera: exclamare est proprie Thesiphonis officium. Hec Furie exclamant contra Dantem ad terrendum ipsum ne intraret: timebant enim quod Dantes daret eis magnum conflictum, quia Dantes conatur fugere ista vitia et docere alios ut fugiant. Vere ego, audeo dicere, Episcopus scribens et glossans librum Dantis: Miror quomodo homo, qui istum librum studet, videt et intelligit, non melioret vitam suam, et quomodo non corrigat se, et quomodo non desistat a vitiis, saltem a pluribus. Dantes duci adhesit, quia non erat alia grotta, sive reparaculum ubi se protegeret.
 
-*Veniat Medusa et faciemus ipsum de smalto, clamabant respiciendo inferius*: *male, quia non vindicavimus*
+*Veniat Medusa et faciemus ipsum de smalto, clamabant respiciendo inferius: male, quia non vindicavimus*
 
 <!-- p. 124 (0178) -->
 

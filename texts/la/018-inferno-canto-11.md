@@ -50,7 +50,7 @@ tangit unum aliud dubium circa eamdem materiam ipsi Virgilio.
 
 Redeundo ad primam partem, dico quod auctor, tangendo materiam sequentem, retangit aliqualiter materiam precedentem. Fingit quod hic invenit unum aggerem durum et altum, sive arginem, sive yma[r]ginem, vel limitem, ad denotandum difficultatem et profunditatem materie pertractande.
 
-*In extremitate unius alte ripe*: *quem* scilicet limitem, *faciebant magne petre scisse in circulum, venimus super crudeliorem stipam*: in circulum, quia illi lapides erant circulares et spirici, sicut omnes circuli ibi positi. *Stipam*: super crudeliorem penam. Notandum hic, sicut dicit Aristotiles, omne multiplex equivocum, nisi distinguatur, esse principium ignorantie nostre. Hoc dico propter illud quod supra dictum est. *Stipa*: idest circumdat et firmat.
+*In extremitate unius alte ripe: quem* scilicet limitem, *faciebant magne petre scisse in circulum, venimus super crudeliorem stipam*: in circulum, quia illi lapides erant circulares et spirici, sicut omnes circuli ibi positi. *Stipam*: super crudeliorem penam. Notandum hic, sicut dicit Aristotiles, omne multiplex equivocum, nisi distinguatur, esse principium ignorantie nostre. Hoc dico propter illud quod supra dictum est. *Stipa*: idest circumdat et firmat.
 
 *Stipa, stia*: idest stet: et hic neutro horum modorum accipitur Stipa. Hic, in hoc loco, stipa est nomen, idest cavea in longobardico ydiomate. Cavea, in qua stant capones, et etiam alie aves, dicitur *stia*. *Stia* igitur est idem quod cavea: sic hic accipitur, quod omnes anime, que sunt hic, in istis circulis, sunt in *stia*, idest recluse in *stia*, sive carcere. Igitur stipa, idest carcer. Et sic exponatur textus: Venimus super crudeliorem stipam, idest crudeliorem carcerem, vel reclusionem.
 
@@ -122,7 +122,7 @@ Redeundo ad primam partem, dico quod auctor, tangendo materiam sequentem, retang
 
 Fetor erat hic: procedebat de valle illa, idest de Inferno, in quo sunt stercora plurima. Erat pix bulliens: erant serpentes putridi.
 
-*Nostrum descendere oportet quod sit tardum*: *ita* quod, primo, se assuescat sensus tristi flatui, idest fetori: demum non oportebit abstinere. Vult hic dicere auctor, quod ab assuetis non fit paxio; quoniam si sensus se assuescit ad istum fetorem, postea non erit curandum. Dicit quod hic est retardandum aliquantulum, sicut dixit magister.
+*Nostrum descendere oportet quod sit tardum: ita* quod, primo, se assuescat sensus tristi flatui, idest fetori: demum non oportebit abstinere. Vult hic dicere auctor, quod ab assuetis non fit paxio; quoniam si sensus se assuescit ad istum fetorem, postea non erit curandum. Dicit quod hic est retardandum aliquantulum, sicut dixit magister.
 
 Et ego sibi: Aliquod compensum, idest exercitium invenias, ita quod tempus non pertranseat in vanum. Qui michi, supple dixit: Inspice quod ad hoc ymaginor.
 

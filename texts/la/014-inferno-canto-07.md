@@ -112,7 +112,7 @@ Ne timeas verba illius; quoniam omnis sua potentia, quam habet, ad descendendum 
 
 *Demum volvens se*: scilicet magister.
 
-*Ad illa turgida labia*: idest Plutonem: *enfiata*: inflata, idest turgida; nam copia rerum facit homines tumescere, inflari. Dicit Aristotiles, quod dives, videns se abundare illis rebus quibus etiam sapientes indigent, superbit. *Dixit*: *Tace, maledicte lupe*: quasi dicat: Quare insatiabilis es? Sic per lupam figuratur avaritia.
+*Ad illa turgida labia*: idest Plutonem: *enfiata*: inflata, idest turgida; nam copia rerum facit homines tumescere, inflari. Dicit Aristotiles, quod dives, videns se abundare illis rebus quibus etiam sapientes indigent, superbit. *Dixit: Tace, maledicte lupe*: quasi dicat: Quare insatiabilis es? Sic per lupam figuratur avaritia.
 
 *Consume te ipsum cum tua rabie ad intra*: quasi dicat: Habeas tuas pecunias et habeas illos stimulos et cogitatus tuos et timores, ne perdas divitias tuas interius.
 
@@ -232,7 +232,7 @@ Satis eorum voces hoc declarant, quando veniunt sibi invicem oppositi ad duo pun
 
 Isti fuerunt clerici, qui non habent cooperimentum pilosum. Pilosum caput [non] habet papa cum cardinalibus, in quibus avaritia utebatur excellenter illo soperchio; idest habundavit. Papa, cardinales et prelati excedunt omnes alios in virtute avaritie. Quod tamen non deberet esse: quia illi, qui cum magnis laboribus acquirunt pecuniam et divitias, si essent amici [avaritie] non esset mirum; sed papa et prelati Ecclesie inveniunt divitias, etc. sine labore.
 
-*Tunc ego*: *O magister, inter istos tales deberem ego cognoscere quosdam, qui fuerunt immundi talibus defectibus*:
+*Tunc ego: O magister, inter istos tales deberem ego cognoscere quosdam, qui fuerunt immundi talibus defectibus*:
 
 <!-- p. 102 (0156) -->
 
@@ -294,7 +294,7 @@ Isti fuerunt clerici, qui non habent cooperimentum pilosum. Pilosum caput [non] 
 
 idest, qui fuerunt involuti in hiis; idest, ego vellem facere mentionem de aliquo horum.
 
-*Et ipse michi*: *Vanas cogitationes adunas*: idest congregas; scelerata vitia eorum fecit ipsos turpes, et ad omnem cogitationem efficit eos nigros. Quasi dicat: Nolo quod facias memoriam de aliquo eorum, quia avaritia facit homines odiosos et obscuros, ubi largitas facit amabiles; idest, isti non merentur cognosci in eternum.
+*Et ipse michi: Vanas cogitationes adunas*: idest congregas; scelerata vitia eorum fecit ipsos turpes, et ad omnem cogitationem efficit eos nigros. Quasi dicat: Nolo quod facias memoriam de aliquo eorum, quia avaritia facit homines odiosos et obscuros, ubi largitas facit amabiles; idest, isti non merentur cognosci in eternum.
 
 *Venient ad duos cozzos*: idest, ad duo puncta. Nam faciunt sic arietes, quando cum cornibus se percutiunt. Sic dicunt Florentini: Isti arietes faciunt ad cozzos. Idest, in eternum se percutiunt.
 
@@ -550,11 +550,11 @@ Et ego, qui cuncta intueri stabam attentus, vidi gentes fangosas in illo pantano
 
 Tunc bonus magister dixit: Fili, iam vides animas illorum, quos vicit ira; et adhuc volo quod tu pro certo credas, quod sub aqua est gens que suspirat et facit pullulare hanc aquam in summo, sicut oculus tibi indicat, ubi intuetur.
 
-*Ficti*: idest sepulti in limo: *dicunt*: *Tristes fuimus in aiere dulci, qui a sole letatur*, idest in sole gaudet, *ferendo ad intra accidiosum fumum*. *In aiere dulci*:
+*Ficti*: idest sepulti in limo: *dicunt: Tristes fuimus in aiere dulci, qui a sole letatur*, idest in sole gaudet, *ferendo ad intra accidiosum fumum*. *In aiere dulci*:
 
 idest, aiere temporali.
 
-*Or tristamur in bellecta nigra*. *Hunc ynnum sgorgogliabant in strozza, quem non possunt dicere verbis integris*: bellecta est quedam lubricitas, que fit in ceno balneato, maxime quando aliquis vadit super tale cenum balneatum. Sic vocatur Florentie talis lubricitas. *Sgorgoliabant*: idest non possunt bene proferre: quia accidiosi, quia iracundi, raro proferunt verba integra, sed quasi balbutiunt, ideo auctor, fingendo, ponit eos in luto fluxibili.
+*Or tristamur in bellecta nigra. Hunc ynnum sgorgogliabant in strozza, quem non possunt dicere verbis integris*: bellecta est quedam lubricitas, que fit in ceno balneato, maxime quando aliquis vadit super tale cenum balneatum. Sic vocatur Florentie talis lubricitas. *Sgorgoliabant*: idest non possunt bene proferre: quia accidiosi, quia iracundi, raro proferunt verba integra, sed quasi balbutiunt, ideo auctor, fingendo, ponit eos in luto fluxibili.
 
 Sic, girando magnum circulum, intravimus inter ripam putridam et medium; tunc ad pedes unius alte turris pervenimus ultimate.
 

@@ -86,7 +86,7 @@ causam illius coniectans, gustatis herbis, alienatus a mente, mari se precipitem
 
 in sursum, fuit aperire intellectum eius ad sensus allegoricos et spirituales Sacre Scripture.
 
-*Cominciò*: *Le cose tutte quante*, etc. Doctrina ista mirabilis de sacro manat eloquio; et ideo fingit eam a Beatricis ore procedere, in qua Beatrix talem deducit rationem. Nullus sapiens ammirari debet de rebus naturalibus et rationabilibus; sed tuus ascensus naturalis est et rationabilis; ergo tu quoque sapiens esse debes, non debes ammirari. Maior est vera, quia solum res ignote et quarum causa latet, in ammirationem ducunt; sed talium rerum naturalium causa sapientes non latet: ergo, etc. Minor ordinate patet in textu, et conclusio postea in fine. Ait ergo ostendendo minorem: *Le cose tutte quante hann'ordine fra loro*, idest sunt similiter ordinate, quelibet in suo esse et in ordine universi ad suum finem. Ordo enim est parium atque disparium debita dispositio et uniuscuiusque rei in loco suo.
+*Cominciò: Le cose tutte quante*, etc. Doctrina ista mirabilis de sacro manat eloquio; et ideo fingit eam a Beatricis ore procedere, in qua Beatrix talem deducit rationem. Nullus sapiens ammirari debet de rebus naturalibus et rationabilibus; sed tuus ascensus naturalis est et rationabilis; ergo tu quoque sapiens esse debes, non debes ammirari. Maior est vera, quia solum res ignote et quarum causa latet, in ammirationem ducunt; sed talium rerum naturalium causa sapientes non latet: ergo, etc. Minor ordinate patet in textu, et conclusio postea in fine. Ait ergo ostendendo minorem: *Le cose tutte quante hann'ordine fra loro*, idest sunt similiter ordinate, quelibet in suo esse et in ordine universi ad suum finem. Ordo enim est parium atque disparium debita dispositio et uniuscuiusque rei in loco suo.
 
 *E questo è forma che l'universo a Dio fa simigliante*. Forma est que dat esse rei. Universa enim creavit Deus ad sui similitudinem, quamquam in quibusdam creaturis plus, in quibusdam minus fulgeat similitudo Dei. Boetius in tertio, versiculo nono: O qui perpetua mundum ratione gubernas, etc. usque in finem, ubi etiam hec tota Beatricis doctrina singulariter declaratur.
 
@@ -180,7 +180,7 @@ Ponit similitudinem. Dicit quod ita luna indivisibilis recepit eos, sicut aqua i
 
 *Ella sorrise alquanto*. Sapientes subrident, [id]e[s]t modicum rid[e]nt, de stultis opinionibus rudium, et dicit quod Dantes non debet mirari de talium opinione, quia parum distantes a brutis, non iudicant nisi quantum sensibus apprehendere possunt, qui sepe decipiuntur circa obiecta eorum; et sic ipsi postea decipiuntur in opinionibus suis, quia sicut sensus eorum parum extenduntur, ita parum extendunt rationem praticam, que ab illis sequitur.
 
-*E poi mi disse*: *S'elli era l'opinione de'mortali*. Opinio est de non veris; scientia de veris.
+*E poi mi disse: S'elli era l'opinione de'mortali*. Opinio est de non veris; scientia de veris.
 
 *Dove chiave di senso non disserra*. Idest in illis rebus, in quibus non aperit apprehensio humanorum sensuum, qui sunt sicut clavis ad aperiendum rem incertam et dubiam rationi practice, que ex sensibus sequitur. Et ex hoc vult dicere quod homines sensitivi errant in rebus que per sensus comprehendi non possunt certitudinaliter et clare.
 

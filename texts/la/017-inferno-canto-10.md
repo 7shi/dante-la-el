@@ -362,7 +362,7 @@ Et continuans primum dictum, Si, scilicet mei, de parte mea, illam artem, scilic
 
 *Et si tu unquam in mundum superiorem redibis, dic michi quare ille populus est tam impius contra meos, in qualibet sua lege*: petit Farinata, tamquam inimicus partis guelfe, quare ille populus, scilicet Florentinus, est ita accensus contra Gebellinos; quoniam si nunquam tractatur de faciendo aliquam gratiam exulibus de redeundo, semper excluduntur ab omni gratia facienda illi de Ubertis, scilicet de domo ipsius Farinate.
 
-*Et ego illi*: *Lustratio, crudelitas, et il grande scempio*: idest effusio sanguinis que fecit Arbiam coloratam in rubeo, talem orationem fecit fieri in nostro templo.
+*Et ego illi: Lustratio, crudelitas, et il grande scempio*: idest effusio sanguinis que fecit Arbiam coloratam in rubeo, talem orationem fecit fieri in nostro templo.
 
 Postquam suspiravit aliquantulum, et caput movit, supple, dixit: Ad hoc, scilicet, faciendum, non fui ego solus, nec certe sine causa cum aliis movissem me; sed bene fui solus ubi sufferebatur, idest per aliquos, ymo quasi per omnes determinabatur, destruere Florentiam, ille qui defensavi eam cum vultu aperto.
 

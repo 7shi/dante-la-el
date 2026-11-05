@@ -394,7 +394,7 @@ Modo per comparationem talem ostenditur effectus, qui secutus est ex verbis dict
 
 Postea secuta sunt illa lucentia incendia Spiritus Sancti adhuc in signum, idest in aquilam, quod fecit Romanos reverendos, quia sub signo Aquile fuerunt Romani domini mundi, quia sub tali signo vicerunt totum mundum.
 
-*Ipsum reincepit*: *Ad istud regnum*. *Esso ricomenciò*:
+*Ipsum reincepit: Ad istud regnum*. *Esso ricomenciò*:
 
 *A questo regno*: ista est quarta pars huius capituli, in qua auctor in persona aquile reprehendit omnes reges Christianorum. Primo tamen dicit, quomodo et in quo salvati sunt homines; et dicit in effectu, quod omnes, qui sunt salvati, crediderunt in Christum venturum, sicut Hebrei et Sancti Patres antiqui, vel in Christum crucifixum iam. Sed subdit, dicens, quod multi sunt Christiani solum nomine, qui in iudicio plus distabunt a Christo quam aliqui qui non cognoverunt Christum; et quod illi de Yndia dampnabunt Christianos, quando separabuntur hedi ab agnis; et bene poterunt improperare reges Persarum et Medorum regibus Christianorum in die iudicii, quando aperientur [charte] libri, in quo scripta sunt omnia crimina. Hec dicit, ut ingrediatur materiam corrigendi reges Christianorum. Ipsum, scilicet signum aquile, reincepit, scilicet loqui: Ad istud regnum non ascendit unquam qui non crediderit in Christum, vel prius vel postea quam conclavaretur in ligno, idest quod esset crucifixus: ita quod ad salutem hominum necesse est credere in Christum, vel venturum, sicut ante Christianismum, vel in iam Crucifixum.
 

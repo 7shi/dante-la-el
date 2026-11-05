@@ -90,7 +90,7 @@ Notandum quod in auctoribus fit mentio de tribus Arpiis, vocatis, una Aello, ali
 
 Sed hic oritur dubium. Quare auctor hic ponit Arpias, que figurant avaritiam, cum alibi sit tactum, idest in alio capitulo, de ipsa avaritia? Respondetur quod optime fecit auctor, quia quasi omnes isti, qui venerunt ad desperationem, vel venerunt propter avaritiam, vel propter dignitatem, sicut accidit de Juda Scarot, etc.
 
-*Et bonus magister*: *Antequam*, etc.: hec est secunda pars huius capituli, in qua tractatur de Petro de Vineis. Sed primo predicit hoc, dicens: Antequam tu plus intres, scias, quod nos sumus in secundo girone, michi cepit dicere, et eris, *mentre*, idest quousque tu veneris in orribilem sabulum, idest in arenam; ideo intuere bene, si videris res, que tollerent fidem sermoni meo. Notandum quod extra Infernum, antequam ingrediatur quis intra muros rubee civitatis,
+*Et bonus magister: Antequam*, etc.: hec est secunda pars huius capituli, in qua tractatur de Petro de Vineis. Sed primo predicit hoc, dicens: Antequam tu plus intres, scias, quod nos sumus in secundo girone, michi cepit dicere, et eris, *mentre*, idest quousque tu veneris in orribilem sabulum, idest in arenam; ideo intuere bene, si videris res, que tollerent fidem sermoni meo. Notandum quod extra Infernum, antequam ingrediatur quis intra muros rubee civitatis,
 
 <!-- p. 170 (0224) -->
 

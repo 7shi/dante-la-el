@@ -242,7 +242,7 @@ Et si phantasie nostre sunt infime, si pro quia, ad tantam altitudinem, idest ad
 
 Iam vult auctor describere quartam familiam, idest positam in quarta spera, scilicet solis, et animas excellentiores; ideo dicit: Talis erat ibi quarta familia alti Patris, qui, scilicet Pater, illam semper satiat, mostrando quomodo spirat, et quomodo filiat, idest generat, scilicet eis; idest Deus ostendit istis animabus, que fuerunt anime Doctorum Theologorum, quomodo ipse generat Filium de sua substantia eternali genitura, et spirat Spiritum Sanctum cum Filio equaliter et eternaliter, etc.; que sunt duo puncta altissima.
 
-*Et Beatrix incepit*: *Regratiare*. *E Beatrice comenzò*:
+*Et Beatrix incepit: Regratiare*. *E Beatrice comenzò*:
 
 *Regrazia*: hec est tertia pars huius capituli, in qua Beatrix docet auctorem de regratiando Deo, etc., et describit in generali dispositionem animarum, que sunt posite in spera solari. Et Beatrix incepit, scilicet dicere michi: Regratiare, regratiare (bis dicit ad maiorem expressionem), soli angelorum, scilicet Deo, qui illuminat angelos et accendit, qui ad istum sensibilem te elevavit per suam gratiam.
 

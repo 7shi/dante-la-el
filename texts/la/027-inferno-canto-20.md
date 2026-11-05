@@ -410,7 +410,7 @@ Ideo te *assenno*, idest moneo, quod si unquam tu audis originari meam terram al
 
 (1) dixi a Virgilio. — (2) ragionamenti. — (3) non accenderebbero mia fede. — (4) altro augure. — (5) Ysola. — (6) de la nave imperiale. — (7) in II Eneydos. — (8) al. inteso.
 
-*Ed io*: *Maiestro*. *Et ego*: *Magister, tua ratiocinia michi sunt ita certa, et apprehendunt ita meam fidem, quod alia michi essent carbones extincti*; idest nihil essent respectu tuorum.
+*Ed io: Maiestro*. *Et ego: Magister, tua ratiocinia michi sunt ita certa, et apprehendunt ita meam fidem, quod alia michi essent carbones extincti*; idest nihil essent respectu tuorum.
 
 *Sed dicas michi, de gente, que procedit, si tu vides aliquem dignum nota, quia solum ad hoc mens mea refertur*.
 
@@ -420,7 +420,7 @@ Nota quod Calcax fuit augur, et fuit Troyanus; et quia previderat Troyam ruinand
 
 *Ille alter, qui in ilibus est ita modicus, Michael Scotto fuit, qui vero de magicis artibus scivit ludum*. Iste Michael fuit astrologus Frederici; fuit mirabilis phisicus, et medicus, et fuit maximus nigromanticus, et multa futura predicebat. Hic predixit Frederico predicto mortem suam isto modo, quod unus lapis debebat eum percutere in capite, ex qua percussione debebat mori. Unde ipse Fredericus portabat celatam, idest parvam galeam ferream in capite semper. Dum ipse Fredericus obsideret civitatem Parme et esset in campo, audivit tintinnabulum, seu campanellam, pulsari ad signum elevationis corporis Christi. Licet esset modicum devotus, ivit et intravit ecclesiam, et deponendo caputeum, denudavit caput suum. Unus passer, qui erat super unam trabem ecclesie, movit unum lapillum parvulum, qui cecidit super caput ipsius Frederici, et licet modicum offenderet, tamen cum ungulis manus dextere ipse confricavit sibi caput, et ibi, in loco ubi cecidit lapillus, facta fuit una parvula plaga. Tandem, currentibus multis diebus, de tali plaga mortuus fuit ipse Fredericus. Dixit auctor superius, quod Grecia vacua remansit de masculis. Vult dicere, quod tot homines masculi iverunt contra Troyam, quod vix aliqui remanserunt, nisi parvuli, qui erant in cunabulis. Michael Scottus fuit de Scotia; fuit magnus magicus et scivit artes magicas cum fraudibus, quia ars magica non est nisi illusio.
 
-*Vide Guidonem de Bonactis, vide Asdentem, qui vacasse corio et spachui nunc vellet*: *sed tarde eum penitet*. Iste Guido Bonacti fuit de Forlivio, mirabilissimus astrologus,
+*Vide Guidonem de Bonactis, vide Asdentem, qui vacasse corio et spachui nunc vellet: sed tarde eum penitet*. Iste Guido Bonacti fuit de Forlivio, mirabilissimus astrologus,
 
 <!-- p. 259 (0313) -->
 
@@ -460,7 +460,7 @@ magnus phisicus, medicus excellens: fecit optimum opus in astrologia, nec reperi
 
 Modo auctor describit tempus, volens dicere, quod fiebat dies; ita quod iam stetit in Inferno duobus diebus et duabus noctibus. Quando sol intrabat Arietem, luna erat plena, opposita soli existenti in Oriente; tunc luna est in Libra: Oriente sole, luna occidit. Per Caym et spinas intelligit hic auctor lunam, et loquitur modo muliercularum, que dicunt quod macula lune nil aliud est nisi Caym oneratus spinis: quia Caym faciebat sacrificium Deo cum spinis; ideo, pro penitentia, positus est in luna cum spinis. Sibilia est una nobilis civitas in regno Castelle, et est civitas regalis: alio nomine vocabatur Ispalensis. Modo ista civitas est in Occidente, et quando sol de mense martii occidit, apparet illis de Ytalia quod cadat in mari iuxta Sibiliam. Modo sol erat in Ariete; luna erat plena: ergo ipsa erat in Libra: si igitur luna occidebat super Sibiliam, sicut facit etiam de sero sol, sequitur quod fiebat dies. Ista civitas Sibilie est abundans in pane, vino, oleo maxime; de qua fuit Isidorus Ispallensis.
 
-*Et iam heri de nocte fuit luna rotunda*: *bene debes recordari, quod tibi non nocuit aliquando per silvam fundam*; quia aliquando prodest lumen lune de nocte euntibus per silvas: forte iam profuit ipsi Danti. Sic michi loquebatur et ibamus *introcque*, idest interim, vel interdum. Vocabulum perusinum est. Prope Sibiliam, forte per centum leucas, est mons Giubelcar, iuxta quem montem mare Oceanum per angustum spatium septem leucarum fluit et vadit, et ingreditur mare Mediterraneum; et ego iam transivi per illud angustum spatium, quando redibam de regno Anglie ad partes Ytalie per mare. Moraliter: per istum mundum, qui dicitur silva, sepe ivit Dantes, etc.
+*Et iam heri de nocte fuit luna rotunda: bene debes recordari, quod tibi non nocuit aliquando per silvam fundam*; quia aliquando prodest lumen lune de nocte euntibus per silvas: forte iam profuit ipsi Danti. Sic michi loquebatur et ibamus *introcque*, idest interim, vel interdum. Vocabulum perusinum est. Prope Sibiliam, forte per centum leucas, est mons Giubelcar, iuxta quem montem mare Oceanum per angustum spatium septem leucarum fluit et vadit, et ingreditur mare Mediterraneum; et ego iam transivi per illud angustum spatium, quando redibam de regno Anglie ad partes Ytalie per mare. Moraliter: per istum mundum, qui dicitur silva, sepe ivit Dantes, etc.
 
 <!-- p. [260] (0314) -->
 
