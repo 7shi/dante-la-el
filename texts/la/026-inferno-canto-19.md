@@ -423,7 +423,7 @@ Nota quod in secundo libro Machabeorum scribitur, quomodo unus [fuit], qui vocat
 &emsp;Forte spinghava con ambo le piote (22).
 
 40 Et dum ego cantabam tales notas,\
-&emsp;Vel quod ira, vel quod conscientia, cum morderet,\
+&emsp;Vel quod ira, vel quod conscientia, eum morderet,\
 &emsp;Fortiter spingabat cum ambabus plantis.
 
 (1) al. ti direi. — (2) di voi pastori. — (3) tenendo sotto e subditi. — (4) a prelatione e dignità per symonia. — (5) avari. — (6) previde. — (7) Iohannes, Apoc. XVII. — (8) Chiesa romana. — (9) popoli, o carnalità. — (10) per symonia. — (11) signor temporali. — (12) dico. — (13) septem spiritus dona, vel sacramenta. — (14) decem legis precepta. — (15) al papa. — (16) che quelli ydolatre. — (17) ydolo. — (18) quot sunt nummi per symoniam recepti. — (19) al. la tua. — (20) al. da te prese. — (21) Sancto Silvestro. — (22) piante.

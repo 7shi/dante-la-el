@@ -74,7 +74,7 @@ Secundo, Gerion habet bustum serpentinum. Nullum animal est callidius serpente, 
 
 5 Duas branchas habebat pilosas usque ad ascellas:\
 &emsp;Dorsum, pectus et ambas duas costas\
-&emsp;Depictus habebat de nodis et rotellis.
+&emsp;Depictas habebat de nodis et rotellis.
 
 6 Con più color commesse e sopraposte\
 &emsp;Non fer mai drappi Tartari nè Turchi,\
@@ -390,7 +390,7 @@ Sed ipse, scilicet Virgilius, qui aliis vicibus michi subvenerat in aliis puncti
 
 35 Dov'era'l pecto, la coda rivolse,\
 &emsp;E quella tesa, com'anguilla, mosse,\
-&emsp;E co'le branche l'aere à sè ricolse.
+&emsp;E co'le branche l'aere a sè ricolse.
 
 35 Ubi erat pectus, caudam revolvit,\
 &emsp;Et illam extendit, sicut anguilla movit,\
