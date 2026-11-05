@@ -443,8 +443,9 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
     1044, 1093, 1158, 1240, 1275, 1277, 1280, 1281, 1286. Trailing dots were removed from
     0392 and 1020.
   - The same check found pages where `ocr/la` lacks a column, a verse block or footnotes
-    (the commit 2 pages above). `ocr/la` 1240 (no commentary) and 1286 (ends at
-    `(Genesis`) look incomplete and are not fixed.
+    (the commit 2 pages above). `ocr/la` 1240 and 1286, which looked incomplete
+    then, are complete in the image (checked 2026-11-05): 1240 has both commentary
+    columns, and 1286 ends at `Et`, as printed, the text going on to the next page.
 - **Tesseract** (`ocr/la/tesseract/`, committed; run with its [Makefile](tesseract/Makefile),
   `-l lat+ita`, only the words kept, in the columns block_num, par_num, line_num, left, top,
   width, height, text): used only for the word
