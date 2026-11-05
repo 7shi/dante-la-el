@@ -5,7 +5,8 @@ This is the plan for `ocr/la`, the transcription of Serravalle's translation and
 batches, the retyping, the line checks and the conversion) and the checks after it (check 1,
 the verse check, the italics and check 2) are recorded in [DONE.md](DONE.md); the
 "procedure" steps and the "items" cited below are those of DONE.md. The conversion into
-`texts/la/` is described in [texts/PLAN.md](../../texts/PLAN.md) ("`texts/la/`").
+`texts/la/` is described in [texts/PLAN.md](../../texts/PLAN.md) ("`texts/la/`"). A short
+account of the whole work, for checking the other texts, is in [SUMMARY.md](SUMMARY.md).
 
 **A new session starts here**: read "State". The rules and conventions below are settled:
 apply them, do not ask again.
