@@ -162,6 +162,8 @@ Progress (2026-11-05):
   12 misprints, 6 printed.
   Batch 7 (0961–1120): 2,380 words, 28 flagged: 3 misread (`huiusmodi`, `Hic`, and
   `idest`, its `t` damaged, restored), 19 misprints, 6 printed.
+  Batch 8 (1121–1296): 2,507 words, 21 flagged: 3 misread (`hec` twice, and the opening
+  bracket of `auctor[em]`), 13 misprints, 5 printed.
   No group 2 candidate is left out by script (a Tesseract word that joins an elided word
   to the form, `Nellumiliare`, is still looked at: the same
   shape covers real differences, `inanz'a` against `inanza`).
@@ -469,7 +471,20 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 1099 | 6 | `nè scripse onchiostro,` | `inchiostro` | Italian verse; `o` for `i`; found by check 2. |
 | 1099 | 71 | `in iustitia et elementia regnum` | `clementia` | Commentary; `e` for `c`; found by check 2. |
 | 1108 | 95 | `danza dei cicli, e di tutte` | `cieli` | Essay; `c` for `e`; found by check 2. |
+| 1165 | 79 | `Sancti Iacobi, diceus: Inde` | `dicens` | Commentary; `u` for `n`; found by check 2. |
+| 1214 | 71 | `idco dicit Iob` | `ideo` | Commentary; `c` for `e`; found by check 2. |
+| 1217 | 13 | `Com'a'Giuderi, tal eclypsi rispose.` | `Giudei` | Italian verse; an `r` added; found by check 2. |
+| 1224 | 62 | `scilicet visus, magit tremit` | `magis` | Commentary; `t` for `s`; found by check 2. |
+| 1234 | 23 | `Quod d viditur in quatuor partes` | `dividitur` | Commentary; the first `i` not printed, a space; found by check 2. |
+| 1246 | 86 | `Eva, mater omuium:` | `omnium` | Commentary; `u` for `n`; found by check 2. |
+| 1248 | 5 | `E dal septomo grado in giù` | `septimo` | Italian verse; `o` for `i`; found by check 2. |
+| 1255 | 40 | `seute che merita` | `sente` | Essay; `u` for `n`; found by check 2. |
+| 1260 | 40 | `quod conserves ei sanes,` | `sanos` | Latin verse; italic; `e` for `o`; found by check 2. |
+| 1264 | 59–60 | `et mi-` / `mium admiratione` | `nimium` | Commentary; `m` for `n`; found by check 2. |
+| 1269 | 4 | `prima die mensi februarii` | `mensis` | Colophon; the `s` not printed (`mensis ianuarii` in the next line); found by check 2. |
 | 1277 | 47 | `nisi maun Conditoris sui` | `manu` | Commentary; the tops of the letters are damaged, their feet show `maun`; found by check 2. |
+| 1281 | 27 | `sed etiam in omuibus inferioribus` | `omnibus` | Commentary; `u` for `n`; found by check 2. |
+| 1283 | 117 | `cut nix liquetit ex calore` | `liquefit` | Commentary; `t` for `f`, the height of the other `t`, as 0582; found by check 2. |
 
 ## Known limits
 

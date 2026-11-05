@@ -2455,6 +2455,7 @@ page	line	form	decision	note
 1126	6	Prompt	printed	
 1126	19	inventro	printed	
 1127	59	cardinalatum	printed	
+1127	103	iniuncta	printed	
 1128	14	olivi	printed	
 1128	79	recognitionem	printed	
 1129	12	magri	printed	
@@ -2466,6 +2467,7 @@ page	line	form	decision	note
 1130	83	scintillar	printed	
 1131	22	solitarios	printed	
 1131	22	elevativos	printed	
+1132	59	excessus	printed	
 1134	21	circunstanti	printed	
 1134	44	tractu	printed	
 1135	27	impola	printed	
@@ -2475,6 +2477,8 @@ page	line	form	decision	note
 1138	25	appresenti	printed	
 1139	12	Yperione	printed	
 1139	14	Maya	printed	
+1139	43	Uola	printed	the Italian verse has aiuola
+1139	83	Uola	printed	the lemma of 0139:43
 1140	15	varieta	misread	corrected to varietà
 1140	26	civilta	misread	corrected to civiltà
 1140	39	eremo	printed	
@@ -2495,6 +2499,7 @@ page	line	form	decision	note
 1149	99	fòro	printed	
 1151	17	interrogans	printed	
 1151	31	Evangeliorum	printed	
+1152	30	em	misread	the opening bracket printed; corrected to auctor[em]
 1152	40	examinaret	printed	
 1152	62	liliorum	printed	
 1153	19	cometarum	printed	
@@ -2535,6 +2540,7 @@ page	line	form	decision	note
 1163	25	redactum	printed	
 1163	33	profundissimam	printed	
 1164	14	girò	printed	
+1165	79	diceus	misprint	for dicens; u for n
 1166	18	conforte	printed	
 1166	53	desursum	printed	
 1166	64	prescriptos	printed	
@@ -2592,7 +2598,9 @@ page	line	form	decision	note
 1197	8	representabatur	printed	
 1197	43	Seraphyn	printed	
 1197	49	discrepat	printed	
+1197	49	hee	misread	corrected to hec
 1197	51	reserata	printed	
+1197	51	hee	misread	corrected to hec
 1198	59	intuectur	misread	corrected to intuetur
 1200	17	invera	printed	
 1201	15	exemplare	printed	
@@ -2616,9 +2624,11 @@ page	line	form	decision	note
 1213	13	avedrai	printed	
 1213	22	Turbò	printed	
 1213	27	astrinxit	printed	
+1214	71	idco	misprint	for ideo; c for e
 1214	92	grat	misread	a damaged i, its dot seen; corrected to gratis
 1214	92	is	misread	a damaged i, its dot seen; corrected to gratis
 1216	21	philosophicas	printed	
+1217	13	Giuderi	misprint	for Giudei; an r added
 1218	39	impinguat	printed	
 1219	5	ingrada	printed	
 1220	4	impersona	printed	
@@ -2630,6 +2640,8 @@ page	line	form	decision	note
 1223	9	cert	printed	
 1223	37	milliarum	printed	
 1224	14	expedito	printed	
+1224	58	seperatus	printed	glossed superatus
+1224	62	magit	misprint	for magis; t for s
 1225	55	dulcorem	printed	
 1226	7	Dipincte	printed	
 1226	21	entron	printed	
@@ -2642,6 +2654,7 @@ page	line	form	decision	note
 1231	73	oscurita	printed	
 1231	84	accensione	printed	
 1233	27	dirigerem	printed	
+1234	23	viditur	misprint	for dividitur; the first i not printed, a space
 1235	18	interporsi	printed	
 1236	88	barbaris	printed	
 1237	10	circulando	printed	
@@ -2658,15 +2671,19 @@ page	line	form	decision	note
 1243	21	regïon	printed	
 1243	60	francare	printed	
 1245	55	vetere	printed	figure label; the reader read the other label (novo)
+1246	86	omuium	misprint	for omnium; u for n
 1247	26	Sarram	printed	
 1247	38	Rachaele	printed	
+1248	5	septomo	misprint	for septimo; o for i
 1249	10	electioni	printed	
 1250	33	dissolvam	printed	
 1251	29	quantunqu	printed	
 1252	52	Honerare	printed	
 1253	8	aggiusta	printed	
 1253	50	inclinabas	printed	
+1255	40	seute	misprint	for sente; u for n
 1255	87	conoscerete	printed	
+1260	40	sanes	misprint	for sanos; e for o
 1262	101	creatu	printed	
 1262	101	comprehenderis	printed	
 1262	111	dolebant	printed	
@@ -2674,11 +2691,13 @@ page	line	form	decision	note
 1263	31	coniunxi	printed	
 1263	107	conflata	printed	
 1264	53	Navigans	printed	
+1264	59	mimium	misprint	for nimium; m for n
 1264	112	ple	printed	
 1266	85	Sanctissimam	printed	
 1266	90	yri	printed	
 1267	16	ugualmente	printed	
 1267	21	fixerat	printed	
+1269	4	mensi	misprint	for mensis; the s not printed
 1270	47	altresi	printed	no accent printed
 1271	2	COMOEDIAM	printed	
 1273	20	resplende	printed	
@@ -2700,6 +2719,7 @@ page	line	form	decision	note
 1279	81	emportava	printed	
 1279	96	infimius	misread	corrected to intimius
 1279	121	Driza	printed	
+1281	27	omuibus	misprint	for omnibus; u for n
 1281	102	influxit	printed	
 1282	12	dimandi	printed	
 1282	39	casuum	printed	
@@ -2707,6 +2727,7 @@ page	line	form	decision	note
 1283	31	assignant	printed	
 1283	74	differentiarum	printed	
 1283	95	splendeant	printed	
+1283	117	liquetit	misprint	for liquefit; t for f, the height of the other t
 1284	8	tremulet	printed	
 1284	27	discussio	printed	
 1284	100	influentiarum	printed	
