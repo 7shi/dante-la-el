@@ -1,8 +1,8 @@
 """Convert ocr/grc/NNN.txt (Musurus's Greek translation, 1882) into texts/grc/NNN-title.md.
 
-See PLAN.md for the layout. Run from the repository root:
+See texts/PLAN.md for the layout. Run from the repository root:
 
-    uv run texts/convert_grc.py
+    uv run texts/scripts/convert_grc.py
 """
 
 import re
@@ -11,7 +11,7 @@ import unicodedata
 from difflib import SequenceMatcher
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parents[2]
 SRC = ROOT / "ocr" / "grc"
 DST = ROOT / "texts" / "grc"
 

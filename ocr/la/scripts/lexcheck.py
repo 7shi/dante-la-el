@@ -40,7 +40,7 @@ TABLES = ("lexcheck.tsv", "lemmacheck.tsv", "versecheck.tsv")
 
 def page_words(text):
     """[(form, line)] of a page: the italic marks removed, a word broken by a hyphen at a
-    line end joined to the first word of the next line (as texts/convert_la.py)."""
+    line end joined to the first word of the next line (as texts/scripts/convert_la.py)."""
     # the brackets of a restored letter are not word breaks (`desist[eb]amus`)
     lines = re.sub(r"[\[\]]", "", L.unmark(text)).replace("’", "'").split("\n")
     out, pending = [], None

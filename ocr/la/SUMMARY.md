@@ -26,7 +26,7 @@ and the limits in [PLAN.md](PLAN.md), the tasks given to the delegates in
   compared with `ocr/la` by script, and the differences were decided in the image.
 - **Scripted checks** over every page: `scripts/check.py` (tercets, rules), `scripts/seqcheck.py`
   (line order), `scripts/lostcheck.py` (lost text), `scripts/lines.py` (line breaks, blank lines),
-  and the warnings of `texts/convert_la.py`, which converts `ocr/la` into
+  and the warnings of `texts/scripts/convert_la.py`, which converts `ocr/la` into
   `texts/la/001`–`110`.
 
 ## 2. The checks after completion

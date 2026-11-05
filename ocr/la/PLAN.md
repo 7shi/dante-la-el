@@ -92,7 +92,7 @@ before: check 2, group 3, judged only its candidates. The same steps then serve
      reader writes a TSV: page, the phrase as written, the reason.
   3. Decisions: a misreading is corrected in `ocr/la`; a misprint goes into "Suspected
      misprints"; every decision is a row of `readcheck.tsv`.
-  4. After the fixes: `texts/convert_la.py`, `ocr/la/scripts/seqcheck.py 79 1270` and
+  4. After the fixes: `texts/scripts/convert_la.py`, `ocr/la/scripts/seqcheck.py 79 1270` and
      `ocr/la/scripts/check.py 79 1287`, each compared with its previous output; a commit per
      batch, `ocr/la` and `texts/la` apart.
   5. The other texts, after `la`: the same steps, a trial of a few pages each, the images
@@ -455,7 +455,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
   independent OCR of every page. It joins the lines of a paragraph, drops the Latin verse
   and many turnover lines (`[fenno?` 0165, `[suum dampnum.` 0100), sometimes a whole column
   (the right column of 0263), and has its own misreadings. A means of checking only.
-  - Outlier check (`uv run ocr/check_outlier.py ocr/la/glm-ocr/*.txt`): runaway pages
+  - Outlier check (`uv run ocr/scripts/check_outlier.py ocr/la/glm-ocr/*.txt`): runaway pages
     (loops, garbage) were fixed by hand from the images without looking at `ocr/la` (0046,
     0096, 0241, 0373, 0385, 0461, 0477, 0490). Pages that ended in a loop were cut at its
     start, so the text inside the loop is lost: 0357, 0513, 0561, 0562, 0647, 0791, 0884,
@@ -477,7 +477,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 The scripts are in `ocr/la/scripts/`, described in the order of use in
 [scripts/README.md](scripts/README.md): the verse columns, the two-OCR markup, the page
 checks and the checks after completion. The conversion into `texts/la/` is
-`texts/convert_la.py` (procedure, step 11).
+`texts/scripts/convert_la.py` (procedure, step 11).
 
 The working data of the completed work in `tmp/` (`la-markup/`, `la-mark7/`, the paid
 answers; DONE.md) are read by no step any more. Everything in `tmp/` but `tmp/bak/` is

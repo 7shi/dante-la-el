@@ -1,15 +1,15 @@
 """Convert ocr/la/NNNN.txt (Serravalle's translation and commentary, 1891) into texts/la/NNN-title.md.
 
-The whole volume is converted (scans 0007–1290; see ocr/la/PLAN.md for the transcription). See PLAN.md for the layout. Run from the repository root:
+The whole volume is converted (scans 0007–1290; see ocr/la/PLAN.md for the transcription). See texts/PLAN.md for the layout. Run from the repository root:
 
-    uv run texts/convert_la.py
+    uv run texts/scripts/convert_la.py
 """
 
 import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parents[2]
 SRC = ROOT / "ocr" / "la"
 DST = ROOT / "texts" / "la"
 

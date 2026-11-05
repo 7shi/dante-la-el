@@ -4,7 +4,7 @@
     lemmacheck.py FIRST LAST --crops DIR [--seed N] [--min-likeness X]
     lemmacheck.py FIRST LAST --readings DIR [-o OUT]
 
-For each page of a canto (the scans of CANTOS in texts/convert_la.py, the essay aside), the
+For each page of a canto (the scans of CANTOS in texts/scripts/convert_la.py, the essay aside), the
 words of the commentary (the blocks after the verse and its gloss line) are aligned to the
 Latin and the Italian verse of the whole canto, read as one stream of words. A lemma is a
 run of commentary words that follow verse words in order, each equal to its verse word or
@@ -41,7 +41,7 @@ def unmark(t):
     """The text without the italic marks `*…*` (ocr/la/PLAN.md, "Italics"); a `*` after a
     digit is printed (1283 `154*`) and stays."""
     return re.sub(r"(?<!\d)\*", "", t)
-sys.path.insert(0, str(ROOT.parent.parent / "texts"))
+sys.path.insert(0, str(ROOT.parent.parent / "texts" / "scripts"))
 from convert_la import CANTOS  # noqa: E402
 
 WORD = re.compile(r"[^\W\d_]+")

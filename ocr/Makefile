@@ -1,4 +1,4 @@
-CMD = uv run ocr.py -m gemini-2.5-flash -p
+CMD = uv run scripts/ocr.py -m gemini-2.5-flash -p
 PROMPT = Please transcribe the text. The text is written in
 
 .PHONY: check all en en-oelsner la grc

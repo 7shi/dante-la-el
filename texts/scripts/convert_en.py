@@ -1,15 +1,15 @@
 """Convert ocr/en/NNN.txt (Carlyle's edition, 1889) into texts/en/NNN-title.md.
 
-See PLAN.md for the layout. Run from the repository root:
+See texts/PLAN.md for the layout. Run from the repository root:
 
-    uv run texts/convert_en.py
+    uv run texts/scripts/convert_en.py
 """
 
 import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parents[2]
 SRC = ROOT / "ocr" / "en"
 DST = ROOT / "texts" / "en"
 

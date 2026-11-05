@@ -2,7 +2,7 @@
 
 *Fratris Iohannis de Serravalle Ordinis Minorum Episcopi et Principis Firmani Translatio et Comentum Totius Libri Dantis Aldigherii cum Textu Italico Fratris Bartholomaei a Colle*, edited by Fr. Marcellino da Civezza and Fr. Teofilo Domenichelli (Prato: Marcello Vestri, 1891). Each canto gives Serravalle's Latin summary (*Summarium*), the Italian text with his line-by-line Latin translation, his Latin commentary (*Comentum*), and an Italian essay by the editors.
 
-These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/la/) by [`convert_la.py`](../convert_la.py); see [`ocr/la/INDEX.md`](../../ocr/la/INDEX.md) for the volume and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/la/` and run `uv run texts/convert_la.py`.
+These files are generated from the page transcriptions in [`ocr/la/`](../../ocr/la/) by [`convert_la.py`](../scripts/convert_la.py); see [`ocr/la/INDEX.md`](../../ocr/la/INDEX.md) for the volume and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/la/` and run `uv run texts/scripts/convert_la.py`.
 
 The whole volume is converted (scans `0007`–`1290`). Its transcription has been proofread against the print: the verse completed from the images, every disagreement with an independent OCR decided in the image, the line breaks and blank lines checked, the verse read again from the images, the italics marked, the rare forms near common ones decided in the image or read for their sense; text that both OCRs misread alike into a common word, or into a form that still gives a sense, may remain ([`ocr/la/PLAN.md`](../../ocr/la/PLAN.md) gives the method and its limits).
 

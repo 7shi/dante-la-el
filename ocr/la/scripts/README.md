@@ -74,7 +74,7 @@ Run over every page after a change; their output is compared with the previous r
   numbers skip, Italian and Latin numbers that differ, plain-digit tercet numbers,
   leftovers (`(1)`, `<sup>`, `[For `, a `—` line, double spaces), indented lines.
 
-The conversion into `texts/la/` (step 11) is `texts/convert_la.py`, outside this directory.
+The conversion into `texts/la/` (step 11) is `texts/scripts/convert_la.py`, outside this directory.
 
 ## 4. The checks after completion
 

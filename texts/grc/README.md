@@ -2,7 +2,7 @@
 
 *Δάντου ὁ ᾍδης. Μετάφρασις Κωνσταντίνου Μουσούρου* (*Dante's Inferno, Translated into Greek Verse by Musurus Pasha*; London: Williams and Norgate, 1882): a line-for-line translation in twelve-syllable verse, with a prologue, a table of contents that repeats the argument of every canto, two lists of corrigenda, and a section of notes at the end of the book.
 
-These files are generated from the proofread page transcriptions in [`ocr/grc/`](../../ocr/grc/) by [`convert_grc.py`](../convert_grc.py); see [`ocr/grc/README.md`](../../ocr/grc/README.md) and [`ocr/grc/INDEX.md`](../../ocr/grc/INDEX.md) for the source and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/grc/` and run `uv run texts/convert_grc.py`.
+These files are generated from the proofread page transcriptions in [`ocr/grc/`](../../ocr/grc/) by [`convert_grc.py`](../scripts/convert_grc.py); see [`ocr/grc/README.md`](../../ocr/grc/README.md) and [`ocr/grc/INDEX.md`](../../ocr/grc/INDEX.md) for the source and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/grc/` and run `uv run texts/scripts/convert_grc.py`.
 
 ## Reading the files
 

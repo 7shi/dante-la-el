@@ -2,7 +2,7 @@
 
 *The Inferno of Dante Alighieri*, The Temple Classics (London: J. M. Dent & Co., 1903), with the Italian text edited by H. Oelsner and the English prose translation of John Aitken Carlyle, revised by Oelsner. The Italian and the English face each other tercet by tercet; each canto has an argument, the editor's marginal labels, and notes, and some cantos are followed by maps, plates, or genealogical tables.
 
-These files are generated from the proofread page transcriptions in [`ocr/en-oelsner/`](../../ocr/en-oelsner/) by [`convert_en_oelsner.py`](../convert_en_oelsner.py); see [`ocr/en-oelsner/README.md`](../../ocr/en-oelsner/README.md) for the source and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/en-oelsner/` and run `uv run texts/convert_en_oelsner.py`.
+These files are generated from the proofread page transcriptions in [`ocr/en-oelsner/`](../../ocr/en-oelsner/) by [`convert_en_oelsner.py`](../scripts/convert_en_oelsner.py); see [`ocr/en-oelsner/README.md`](../../ocr/en-oelsner/README.md) for the source and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/en-oelsner/` and run `uv run texts/scripts/convert_en_oelsner.py`.
 
 ## Reading the files
 

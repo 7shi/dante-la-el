@@ -2,7 +2,7 @@
 
 John A. Carlyle, *Dante's Divine Comedy: The Inferno. A Literal Prose Translation, with the Text of the Original Collated from the Best Editions, and Explanatory Notes*, fifth edition (London: George Bell & Sons, 1889). Each canto gives Carlyle's English prose, the Italian text, short verse notes, and footnotes.
 
-These files are generated from the proofread page transcriptions in [`ocr/en/`](../../ocr/en/) by [`convert_en.py`](../convert_en.py); see [`ocr/en/README.md`](../../ocr/en/README.md) for the source and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/en/` and run `uv run texts/convert_en.py`.
+These files are generated from the proofread page transcriptions in [`ocr/en/`](../../ocr/en/) by [`convert_en.py`](../scripts/convert_en.py); see [`ocr/en/README.md`](../../ocr/en/README.md) for the source and [`../PLAN.md`](../PLAN.md) for the full conventions. Do not edit them by hand: correct `ocr/en/` and run `uv run texts/scripts/convert_en.py`.
 
 ## Reading the files
 
