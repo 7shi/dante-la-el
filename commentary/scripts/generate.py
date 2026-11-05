@@ -72,6 +72,13 @@ Attached are the Italian text of canto {number} of Dante's Divine Comedy, {canti
 
 PLACEHOLDER = "**NEED TRANSLATE**"
 
+# Lines Dante made meaningless on purpose, keyed by (canticle, canto):
+# a verbatim copy of these is a valid rendering, not a missed translation
+VERBATIM_LINES = {
+    ("inferno", 7): {1},  # Plutus: «Pape Satàn, pape Satàn aleppe!»
+    ("inferno", 31): {67},  # Nimrod: «Raphèl maì amècche zabì almi»
+}
+
 # Set the path only when usage should be recorded
 USAGE_PATH = None
 
@@ -87,9 +94,18 @@ def clean_translation(text: str) -> str:
     return MARKER_RE.sub("", text.strip())
 
 
-def is_translated(trans: str, original: str, letters: re.Pattern) -> bool:
-    """The model sometimes copies the Italian line instead of translating it."""
-    return bool(trans) and trans != original and bool(letters.search(trans))
+def is_translated(
+    trans: str, original: str, letters: re.Pattern, verbatim: bool = False
+) -> bool:
+    """The model sometimes copies the Italian line instead of translating it.
+
+    With verbatim, the line may be left as it is in the original.
+    """
+    return (
+        bool(trans)
+        and (verbatim or trans != original)
+        and bool(letters.search(trans))
+    )
 
 
 def canto_text(lines) -> str:
@@ -134,18 +150,20 @@ def translations_only_text(lines, translations: dict[int, str]) -> str:
     return "\n".join(translations.get(line.no, "") for line in lines)
 
 
-def parse_translations_only(saved: str, lines, letters: re.Pattern) -> dict[int, str]:
+def parse_translations_only(
+    saved: str, lines, letters: re.Pattern, verbatim: set[int]
+) -> dict[int, str]:
     """Read back a saved translations-only file, keeping the lines already translated."""
     translations: dict[int, str] = {}
     for line, text_line in zip(lines, saved.splitlines()):
         trans = clean_translation(text_line)
-        if is_translated(trans, line.text, letters):
+        if is_translated(trans, line.text, letters, line.no in verbatim):
             translations[line.no] = trans
     return translations
 
 
 def parse_filled(
-    filled: str, missing: set[int], lines, letters: re.Pattern
+    filled: str, missing: set[int], lines, letters: re.Pattern, verbatim: set[int]
 ) -> dict[int, str]:
     """Collect `N translation` lines, keeping only the requested line numbers."""
     originals = {line.no: line.text for line in lines}
@@ -153,7 +171,9 @@ def parse_filled(
     for text_line in filled.splitlines():
         if match := FILLED_RE.match(text_line):
             no, trans = int(match.group(1)), clean_translation(match.group(2))
-            if no in missing and is_translated(trans, originals.get(no, ""), letters):
+            if no in missing and is_translated(
+                trans, originals.get(no, ""), letters, no in verbatim
+            ):
                 translations[no] = trans
     return translations
 
@@ -163,6 +183,7 @@ def generate(client: Client, canticle: str, canto: int, args: argparse.Namespace
     text = canto_text(lines)
     language = LANGUAGES[args.lang_code]
     letters = re.compile(language["letters"])
+    verbatim = VERBATIM_LINES.get((canticle, canto), set())
     note = f" {language['note']}" if language.get("note") else ""
     names = dict(
         canticle=CANTICLE_NAMES[canticle], number=canto,
@@ -176,7 +197,9 @@ def generate(client: Client, canticle: str, canto: int, args: argparse.Namespace
     if trans_path.exists():
         # Resume: the saved file already holds every translation extracted so far.
         print(f"Resuming from {trans_path}")
-        translations = parse_translations_only(trans_path.read_text(), lines, letters)
+        translations = parse_translations_only(
+            trans_path.read_text(), lines, letters, verbatim
+        )
     else:
         if out_path.exists():
             print(f"Skipped (already exists): {out_path}")
@@ -211,7 +234,9 @@ def generate(client: Client, canticle: str, canto: int, args: argparse.Namespace
         response = client(
             [interleaved_text(lines, translations, PLACEHOLDER), prompt]
         )
-        if not (added := parse_filled(response.text, missing, lines, letters)):
+        if not (added := parse_filled(
+            response.text, missing, lines, letters, verbatim
+        )):
             print("\nno progress, giving up", file=sys.stderr)
             break
         translations |= added
