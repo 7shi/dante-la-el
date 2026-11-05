@@ -5,7 +5,8 @@ The record of how `ocr/la`, the transcription of Serravalle's translation and co
 the end, the work items, the procedure for a batch, the two-OCR markup method, what the
 delegation taught, and the history. It was the body of [PLAN.md](PLAN.md) until the work
 was done; PLAN.md now holds the checks planned after it; check 1, the verse check,
-the italics and check 2, done, are recorded here ("Check 1", "Verse check", "Italics", "Check 2"). Sections cited here that are not in
+the italics and check 2, done, are recorded here ("Check 1", "Verse check", "Italics", "Check 2"),
+with their order and what later work takes from them ("The checks"). Sections cited here that are not in
 this file ("Standing rules", "Conventions settled during the check", "Suspected misprints",
 "Known limits", "Sources for checking", "Tools") are in PLAN.md. "Remaining work" in the
 text below means "Work items" here.
@@ -1225,6 +1226,38 @@ Not found by this check: misreadings into a common word (0085 `terret` is a real
 printed on 0489), rare words with no common neighbour, and a common spelling written for
 the printed rare one (`mihi` for `michi`: the error is the common form). Check 1 covers
 part of the first kind inside lemmas.
+
+## The checks: their order and what later work takes from them (2026-11-05)
+
+Moved from PLAN.md ("Checks") when the read-through was planned.
+
+Order: check 1 (lemmas) first, as its candidates were fewer and surer; then the verse
+check, with the same procedure while it was fresh; then the italics, which started
+from the lemmas of check 1; then check 2, whose ranking learns from the errors checks 1
+and the verse check found, and whose counts are surer once the verse is right. All are done.
+
+Check 1 (lemmas against the verse, 0079–1270 in 10 batches, 2026-11-01), the verse
+check (every line of both verse columns read again from the image, 0079–1270 in 11
+batches, 2026-11-01 – 2026-11-03), the italics (the whole volume, 2026-11-01 –
+2026-11-04) and check 2 (rare forms near common ones, `ocr/la_lexcheck.py`, 2026-11-05)
+are recorded above ("Check 1", "Verse check", "Italics", "Check 2").
+What later work takes from them:
+
+- `lemmacheck.tsv`, `versecheck.tsv` and `lexcheck.tsv`: their forms are decided;
+  `la_lexcheck.py` leaves them out, so a rerun lists only new candidates.
+- Check 1's procedure per batch (crops in a shuffled order, read by la-el-agy from the images
+  alone, compared line by line, every difference decided in the image) served check 2,
+  group 2, with crops of the words. Match every reading to its line before comparing
+  (batch 9: 60 readings were not of their images).
+- Check 1's errors were mostly a common spelling written for the printed one (`mihi` for
+  `michi`, `societate` for `sotietate`, accents not printed); check 2, which looks for rare
+  forms, does not find this kind ("Known limits").
+- The verse check's procedure per batch (page images by `ocr/la_versecheck.py
+  --page-crops`, read by la-el-agy and la-el-agy2 from the images alone, aligned by
+  `--page-readings`, every difference decided in the image) can serve as well. Its
+  readers' errors: a common spelling written for the printed one, a misprint corrected,
+  accents left out or added, specks read as marks; in batch 11 the tercet numbers of
+  three cantos left out and reported as not printed. A report is not taken as true.
 
 ## Work items 1–10 (all done)
 
