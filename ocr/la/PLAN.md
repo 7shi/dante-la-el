@@ -64,7 +64,8 @@ before: check 2, group 3, judged only its candidates. The same steps then serve
   2. `ocr/scripts/findline.py` finds the lines of the flagged phrases in `ocr/la`; the
      rows of "Suspected misprints" for the batch's pages are looked up, so that a listed
      misprint is not listed twice.
-  3. Decisions, each in the image: a misreading is corrected in `ocr/la` with
+  3. Decisions, each in the image (`ocr/scripts/wordcrop.py ocr/la OUT.png PAGE:TEXT[:N]`,
+     a zoom of `ocr/la/PAGE.png` where a letter is unclear): a misreading is corrected in `ocr/la` with
      `ocr/scripts/txtfix.py` (`PAGE:LINE old new`); a misprint goes into "Suspected
      misprints" ("found by the read-through"); every decision is a row of `readcheck.tsv`.
      The settled readings: Serravalle's Latin, its grammar and his way of translating the
