@@ -1109,7 +1109,8 @@ detail is not sought: marks set by mechanical conditions are accepted (the user,
    again as a lemma (0138 `*… suspicione*. *Soli*:`, 0199 `*stia*. *Stia*`), a lemma from
    earlier in the verse (0180 `*De celo missus*`, 0318 `*Antianus*`). 0990:65 and 1104:80 keep their
    Italian line-end stop outside, as the sweep left them (lemma paragraphs of their own);
-   their Latin pairs on the same line are joined. 4,235 pairs remain; `la_check.py` over
+   their Latin pairs on the same line are joined. Seen in passing, roman in the image, the
+   marks removed: 0246 `istud`, 0782 `idest`, 1055 `hec`. 4,232 pairs remain; `la_check.py` over
    79–1287 and `la_seqcheck.py` over 79–1270 unchanged; `convert_la.py` only the expected
    warnings.
 5. **Scripts** that read `ocr/la` (`la_check.py`, `la_seqcheck.py`, `la_lostcheck.py`,

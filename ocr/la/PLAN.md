@@ -24,7 +24,7 @@ Done (DONE.md): check 1 (lemmas against the verse: 1,271 candidates, 9 misread, 
 (the Latin verse against the Italian text, then every line of both verse columns read again
 from the image: about 250 lines misread and 46 misprints), the italics (marked `*…*`
 over the whole volume from the slant of the print, the flagged lines decided in the image:
-4,235 pairs on 908 pages; "Italics" under "Conventions settled during the check") and
+4,232 pairs on 908 pages; "Italics" under "Conventions settled during the check") and
 check 2 (rare forms near common ones: 22,567 candidates, the first two groups decided in
 the image and the third read for sense, 149 misread and 94 misprints). All the planned
 checks are done; what they do not cover is under "Known limits".
