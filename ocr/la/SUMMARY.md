@@ -64,7 +64,11 @@ listed), or **printed** (kept, nothing to do).
   - every place is decided as misread, misprint or printed; misprints are listed, not
     corrected;
   - each fix is followed by the scripted checks and a conversion, with their output
-    compared with the previous run.
+    compared with the previous run;
+  - the order: first the checks against the images or other sources, then one reading for
+    sense at the end. The read-through finds what the earlier sense checks of `ocr/la`
+    found (check 2 group 3, the Latin verse against the Italian); it does not see a
+    misreading that reads well, such as an OCR normalization or an accent.
 - **What differs**:
   - `ocr/en` (1,030 files), `ocr/en-oelsner` (834) and `ocr/grc` (704) have one OCR each:
     no second OCR was compared, so plain misreadings, not only shared ones, may remain;
