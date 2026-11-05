@@ -440,6 +440,348 @@ page	line	form	decision	note
 0200	39	grado	printed	Latin verse; Serravalle's Latin
 0200	42	quale	printed	Latin verse; Serravalle's Latin
 0200	102	maius	printed	Serravalle's Latin
+0201	20	prima	misprint	priva (the Latin privat)
+0201	21	froda	misprint	fonde (the Latin fundit)
+0201	44	profecto	printed	profectu expected
+0201	65	apta.	printed	aperta expected
+0202	19	consumcto.	misprint	consunto
+0202	77	imbursat:	printed	qui expected before fidem; the commentary
+0202	98	spiritualis	printed	specialis expected
+0202	101	dicis,	printed	Dites expected
+0203	33	qui	printed	quod expected
+0203	53	periculum	printed	populum expected
+0204	29	nostra	printed	vestra expected; Serravalle's Latin
+0204	41	volre:	misprint	already in Suspected misprints
+0204	101	uso	printed	usu expected
+0204	108	ipsum	misread	was ipsum; the image has ipsam
+0205	9	sua	misprint	sé (the Latin Per se naturam)
+0205	21	qui	printed	quam expected
+0205	34	viam,	printed	vitam expected
+0205	42	admodum	printed	ammodo expected; the lemma as printed
+0208	10	disconscesa,	misprint	discoscesa
+0208	14	discesa,	misprint	distesa (the Latin distensa)
+0208	58	lucus,	misprint	already in Suspected misprints
+0210	76	siccat,	printed	fiaccat expected
+0211	49	que	printed	qui expected
+0211	83	prima,	printed	poco pria expected
+0211	86	lux	misprint	lis (paired with amicitia)
+0212	22	molestiam	printed	violentiam expected; Serravalle's Latin
+0213	71	temptarit:	misprint	temptavit; italic r for v
+0213	92	te,	printed	te repeated
+0214	16	Perpendidisti	misprint	Perpendistis
+0214	77	miscicus	misprint	medicus (cognitor erbarum)
+0215	26	Vi	misprint	Io (the Latin Ego vidi)
+0215	44	gradatur,	printed	guadatur expected; Serravalle's Latin
+0216	30	arere,	misprint	already in Suspected misprints
+0218	41	suum,	printed	sum expected
+0218	57	sciscit	misprint	scidit
+0218	102	sanguis	printed	sanguinis expected
+0221	13	Vincis,	misread	was Vincis; the image has Vineis
+0222	18	obscura,	printed	obscuri expected
+0222	46	attentes.	printed	attenti expected
+0222	54	nemine	printed	nulla expected
+0223	96	intructuosa,	misprint	infructuosa
+0224	38	habet	printed	habes expected
+0224	47	serpentuum.	printed	serpentum expected
+0224	96	oinnia	misprint	omnia; i dot visible
+0226	37	recomendandum	printed	ratiocinandum expected; Serravalle's Latin
+0226	78	admovi:	printed	amovi expected
+0227	44	emulsit,	printed	evulsit expected
+0227	49	est	misprint	already in Suspected misprints
+0227	93	cum	printed	eam expected
+0228	12	la[ca]ccia	printed	no space in the print
+0228	65	ro-	printed	ro-/sas for rostas expected
+0228	73	rapidi	printed	rabidi expected
+0228	92	sternire,	printed	stormire expected; the lemma as printed
+0232	7	di	misprint	dì; no accent visible
+0232	12	in-venire,	misread	was in-venire; a line-end hyphen
+0232	12	Va-tacio,	misread	was Va-tacio; a line-end hyphen
+0235	15	ita	printed	iam expected; Serravalle's Latin
+0236	42	plus	printed	minus expected; Serravalle's Latin
+0237	23	suburram	printed	saburram expected
+0237	31	Minus	printed	Melius extinguebatur expected; Serravalle's Latin
+0237	40	non	printed	the sense allows it
+0238	89	cruciatuum	printed	cruciatus sumpsit expected
+0239	10	dolor	misprint	furor dolor (the Latin furori dolor)
+0239	76	sibi	printed	sibi ... ei
+0239	83	Admodum	printed	ammodo expected; the lemma as printed
+0239	89	Admodum	printed	ammodo expected
+0239	115	24	printed	signature mark
+0240	90	fide	printed	fida expected
+0240	108	fontibus,	printed	frondibus expected
+0241	28	tumquam	misprint	already in Suspected misprints
+0241	56	reglius,	misprint	veglius; italic r for v
+0241	60	Yeronimus	printed	Yeremias expected; Serravalle's name
+0242	33	quamquem	misprint	already in Suspected misprints
+0242	37	tui	printed	tuo expected
+0242	43	taces?	printed	facis expected; Serravalle's Latin
+0242	47	deherendi	printed	discedendi expected
+0242	99	pentula,	misprint	pentuta
+0247	94	situs	printed	ortus expected
+0247	98	fiotum,	printed	no gloss after idest
+0248	98	secum	printed	tecum expected
+0249	49	ad	printed	per expected
+0249	87	vice	misprint	vite; no t stroke visible
+0250	43	Esolem,	printed	Fesulem expected; Serravalle's name
+0250	53	immeriti	printed	innumeri expected
+0250	83	amaram,	printed	avaram expected
+0250	97	littorani,	printed	the coast people
+0252	66	illum	printed	illud expected
+0252	69	quandocumque	printed	the sense allows it
+0253	19	protesï	printed	diaeresis printed
+0253	33	poteris	printed	poteras expected; Serravalle's Latin
+0255	30	bonta	misprint	bontà; no accent visible
+0255	39	pero	misprint	però; no accent visible
+0258	19	dore*:	misprint	already in Suspected misprints
+0258	71	duo	printed	due expected
+0259	25	loro	misprint	'n contrario (the Latin in contrarium)
+0259	47	partem	misprint	already in Suspected misprints (prerogatiram); partem printed
+0259	60	arnie.	printed	the sense unclear; as printed
+0260	26	solidi	printed	solli expected; Serravalle's Latin
+0260	27	Redit	printed	Reddit expected
+0260	78	redit	printed	reddit expected
+0260	101	Rustitutii,	printed	Rusticutii expected; Serravalle's name
+0261	5	loco	misprint	foco (the Latin ab igne)
+0261	21	bonum	misprint	already in Suspected misprints
+0262	87	unquam	printed	nuper expected
+0263	24	volto	misprint	Veso (the Latin a monte Veso)
+0263	98	quod	printed	qui expected
+0263	106	27	printed	signature mark
+0265	42	sublatam,	printed	solutam expected; Serravalle's Latin
+0265	63	sive,	printed	the sense unclear; as printed
+0265	77	latum	printed	latus expected
+0266	17	c'haggrappa	printed	h as printed
+0267	3	societa	misprint	società; no accent visible
+0267	23	dovra	misprint	dovrà; no accent visible
+0267	25	si	misprint	sì; no accent visible
+0269	22	biffurgutam	misprint	bifurcatam; not a word
+0269	38	Sxus	misprint	already in Suspected misprints
+0270	34	E	printed	E dixit as printed
+0271	37	Depictus	misread	was Depictus; the image has Depictas
+0271	39	fuerunt	printed	fecerunt expected; Serravalle's Latin
+0272	60	assen-	misprint	assectat; not a word
+0272	86	super	printed	supra expected
+0273	11	scoppiano	misprint	scoppiava (the Latin exibat)
+0273	22	l'orechie	misprint	l'occhio (the Latin oculus)
+0273	70	unus	printed	unum expected
+0273	84	dolorosos	printed	dolorosus expected
+0274	60	idest	printed	et expected
+0274	108	veluit	misprint	already in Suspected misprints
+0275	9	morte,	misprint	smorte (the commentary smorte)
+0276	9	mi	misprint	si (the Latin inde se tollit)
+0276	13	à	misread	was à; a speck above a, not an accent
+0276	28	brachiis	printed	branchiis expected; Serravalle's Latin
+0276	40	admodum:	printed	ammodo expected
+0276	86	Est	printed	Es expected
+0277	12	discendo,	misprint	discende (the Latin descendit)
+0279	68	realta	misprint	realtà; no accent visible
+0282	8	ferrignus,	printed	ferrigni expected; Serravalle's Latin
+0282	44	latior	printed	the sense unclear; as printed
+0282	68	vascis	printed	the sense unclear; as printed
+0283	13	sen	printed	the edition's reading
+0283	17	una	misprint	imo (the Latin ab ymo)
+0283	21	Gerïon	printed	diaeresis printed
+0283	35	profundus.	printed	rotundus expected; Serravalle's Latin
+0283	72	scioliis,	printed	soliis expected
+0284	38	ibant,	printed	ibam expected; Serravalle's Latin
+0284	41	assicurandum	printed	Serravalle's Latin
+0285	79	per	printed	vel expected
+0285	86	dummodo	printed	the sense unclear; as printed
+0286	85	leniter;	printed	leviter expected
+0286	91	vineggiat,	printed	vaneggiat expected; the lemma as printed
+0288	19	que	printed	quos expected; Serravalle's Latin
+0288	23	s'innuscat	printed	Serravalle's Latin
+0288	104	s'imiccat,	printed	the lemma as printed
+0289	13	dall'human	printed	the edition's reading
+0289	67	deorsum	printed	dorsum expected
+0290	37	ipsam	printed	ipsa expected
+0290	57	acto	printed	actu expected
+0290	82	Tahys	printed	Serravalle's name
+0291	32	Çac-	printed	cedilla printed
+0295	53	propheta,	printed	a propheta expected
+0295	58	Zeizi	printed	as printed
+0295	70	id	misprint	already in Suspected misprints
+0295	76	impetit!	printed	the sense allows it
+0296	74	fregi	printed	qui expected after ego
+0297	21	mic.	printed	footnote as printed
+0297	32	ructum	printed	ruptum expected; Serravalle's Latin
+0297	70	ructum,	printed	ruptum expected; the lemma as printed
+0297	111	cantari	printed	cantare expected
+0299	31	Virgllio.	misprint	already in Suspected misprints
+0299	55	abyssi.	printed	Serravalle's Latin
+0299	84	vestibus	printed	vestitus expected
+0299	99	fetamine	printed	foramine expected
+0300	46	De[h]or	printed	no space in the print
+0300	79	'ivit	printed	the mark printed
+0300	94	mollis,	printed	follis expected
+0301	51	cum	misread	was cum for eum (che 'l mordesse)
+0301	54	ibis	misprint	stes ibis for ibi
+0301	67	clavarum	printed	clavium in the verse; Serravalle's Latin
+0303	16	fino	misprint	fino credere for fino a credere; essay
+0303	34	puo	misprint	no accent visible; essay
+0303	40	felicita	misprint	no accent visible; essay
+0303	72	piu	misprint	no accent visible; essay
+0303	73	legittimita	misprint	no accent visible; essay
+0304	27	da'	printed	da' que' as printed; essay
+0308	55	primum	printed	pium expected; Serravalle's Latin
+0308	98	venit	printed	devenit in the verse; Serravalle's Latin
+0309	79	paulo	printed	paulo ante expected; Serravalle's Latin
+0309	104	forte	printed	fortem expected; Serravalle's Latin
+0311	75	nimicabantur	printed	inimicabantur expected; Serravalle's Latin
+0311	79	in	printed	inter expected; Serravalle's Latin
+0312	84	vero	printed	vere in the verse; Serravalle's Latin
+0313	48	malifice	printed	malefice expected; Serravalle's Latin
+0316	16	altos	printed	alios expected; Latin verse, the commentary has the same
+0316	53	altos	printed	alios planctus expected; Serravalle's Latin
+0317	45	nondum	printed	non in the commentary; Latin verse
+0317	47	totum	printed	totam in the commentary; Latin verse
+0318	11	dïsse	printed	diaeresis visible; the edition's Italian
+0318	38	fulsita	printed	fulcita in the commentary; Latin verse
+0318	53	territ;	printed	exterret expected; Serravalle's Latin
+0319	93	schelmum	printed	schermum expected; Serravalle's Latin
+0320	51	sit	printed	sic in the commentary; Latin verse
+0323	18	a	printed	prim'havea a ciascun; the edition's Italian
+0323	20	havean	misprint	havea (the Latin ille fecerat)
+0323	51	dispictato,	printed	the letter is an open c in the image; dispietato expected
+0325	20	volonta	misprint	no accent visible; essay
+0328	56	per	printed	pro in the verse; Serravalle's Latin
+0329	58	uso	printed	usu expected; Serravalle's Latin
+0329	93	renum	printed	the verse's cum arcu left out; Serravalle's paraphrase
+0330	22	Ravenna	misprint	Navarra (the Latin de regno Navarre)
+0331	88	humilitatem	printed	habilitatem expected; Serravalle's Latin
+0333	51	cales,	printed	calas in the commentary; Latin verse
+0333	59	digrignit,	printed	digrignat in the verse; Serravalle's Latin
+0334	39	captus;	printed	fuit expected; Latin verse
+0334	81	ructus,	printed	ruptus in the verse; Serravalle's Latin
+0334	90	uncutos	printed	uncatos expected; Serravalle's Latin
+0335	29	fit	printed	scit expected; Serravalle's Latin
+0337	28	veilata	misprint	velata
+0338	14	vium.	misprint	already listed
+0339	69	tali	printed	tale expected; Serravalle's Latin
+0339	76	impaginati,	printed	impaniatos in canto 22; Serravalle's Latin
+0339	83	volumus	printed	voluimus expected; Serravalle's Latin
+0339	85	pessima	printed	pessime expected; Serravalle's Latin
+0339	91	temendi.	printed	timendi expected; Serravalle's Latin
+0340	26	esset	printed	essem in the commentary; Latin verse
+0340	27	Imago	printed	ymaginem in the commentary; Latin verse
+0343	59	erat	printed	erant expected; Serravalle's Latin
+0344	29	ed	misprint	et (the commentary natus et adultus)
+0344	40	una	printed	tua expected; Latin verse, the commentary has the same
+0344	71	una	printed	tua expected; Serravalle's Latin
+0345	39	Quemcumque	printed	Quicumque expected; Latin verse
+0346	60	quam	printed	per expected; Serravalle's Latin
+0349	45	cum	misprint	eum
+0350	6	sempra	misprint	assempra (the Latin exemplatur)
+0350	15	exemplatur	printed	exemplat in the commentary; Latin verse
+0351	20	ponte.	misprint	monte (the Latin ad pedem montis)
+0351	84	sotium,	printed	secum in the verse; Serravalle's Latin
+0353	13	cieco	misprint	erto (the Latin altus, the commentary altus satis)
+0353	80	fecimus	printed	cepimus in the verse; Serravalle's Latin
+0354	32	scipantur.	misprint	stipantur (the commentary)
+0355	43	fasce.	printed	Serravalle keeps the Italian word
+0355	78	se	printed	se se as printed
+0355	88	fasce	printed	Serravalle keeps the Italian word
+0356	94	fiuxit,	misprint	already listed
+0357	19	nec	printed	non in the commentary; Latin verse
+0357	47	furata	printed	furatus expected; Serravalle's Latin
+0357	73	civitate:	printed	civitatem expected; Serravalle's Latin
+0358	20	frangetur.	printed	ferietur expected; Latin verse
+0359	14	facolta,	misprint	no accent visible; essay
+0362	9	suorum	printed	el ladro not translated; Latin verse
+0362	10	manum	printed	manus expected; Latin verse
+0363	41	Clamando:	printed	Venir not translated; Latin verse
+0363	78	incinerari)	printed	no opening parenthesis in the image
+0363	105	Clamando	printed	Venir not translated; Serravalle's Latin
+0364	33	fallatia	printed	fallacia; a medieval spelling
+0365	31	novum	printed	novella translated so; Latin verse
+0365	36	Ciamphe	printed	Serravalle's Latin
+0365	45	avinxit	printed	et before it as printed; Latin verse
+0365	49	ambo,	printed	ambas expected; Latin verse
+0365	62	novum	printed	as in the verse
+0365	92	avinxit	printed	as in the verse
+0365	96	ambo,	printed	as in the verse
+0366	43	perditi.	printed	erant left out; Latin verse
+0366	45	Coste	printed	cosce translated so; Latin verse
+0367	29	Postea	printed	Onde translated so; Latin verse
+0367	40	illum	printed	illam in the commentary; Latin verse
+0367	53	Postea	printed	as in the verse
+0367	61	alios	printed	alter in the verse; Serravalle's Latin
+0367	62	fumus	printed	fumi in the verse; Serravalle's Latin
+0368	36	fixit,	printed	fesse translated so; Latin verse
+0368	41	fixa	printed	fessa translated so; Latin verse
+0368	49	suo	printed	de suis expected; Latin verse, the commentary has the same
+0368	56	transit	printed	traxit in the commentary; Latin verse
+0368	65	fixit,	printed	as in the verse
+0369	35	alio	printed	Indietro translated so; Latin verse
+0369	44	lingua	printed	penna translated so; Latin verse
+0369	90	obetrat.	misprint	oberrat
+0373	24	ascendere	printed	descendere expected; Latin verse
+0373	47	videbit.	printed	the period is printed
+0374	18	Quantas	printed	Quantus or Quando expected; Serravalle's Latin
+0375	25	dicò.	printed	the note as printed
+0375	27	Sicut	printed	Quando translated so; Latin verse
+0375	44	urtus.	printed	the Italian urto kept; Latin verse
+0376	32	Theocles	printed	Etheocles in the commentary; Latin verse
+0376	36	flamma	printed	flammam in the commentary; Latin verse
+0377	25	Palladio	printed	de left out; Latin verse
+0377	28	i	printed	i terum with a visible gap; Latin verse
+0377	69	mulicbribus.	misprint	already listed
+0378	52	filiorum,	printed	filii expected; Latin verse
+0379	23	non	printed	poi fui diserto translated so; Latin verse
+0379	95	non	printed	as in the verse
+0379	101	aliam	printed	illam in the verse; Serravalle's Latin
+0380	31	tantum	printed	tam in the commentary; Latin verse
+0380	36	fuistis	printed	sete translated so; Latin verse
+0380	42	fatui	printed	fatuo in the commentary; Latin verse
+0380	45	Videbam	printed	Vedeàm translated so; Latin verse
+0380	83	fuistis	printed	as in the verse
+0381	22	non	printed	mai translated so; Latin verse
+0381	35	non	printed	as in the verse
+0382	93	nuoca	misprint	already listed
+0383	40	eam	printed	the image shows eam; eum expected
+0383	41	ipsum:	printed	the colon is printed
+0384	18	nos,	printed	dietro a lei translated so; Latin verse
+0385	27	linguaggio	printed	Serravalle keeps the Italian word
+0385	37	ardeo.	printed	che ardo translated so; Latin verse
+0385	84	ardeo.	printed	as in the verse
+0386	33	iugum	printed	Nel giogo translated so; Latin verse
+0386	44	eam	printed	là translated so; Latin verse
+0387	17	novus	printed	order as printed; Latin verse, the commentary vetus et novus
+0387	19	e	printed	e dentibus; Latin verse
+0388	20	Allamoni	printed	Alamonii in the commentary; Latin verse
+0388	29	rugit	printed	rugiit in the commentary; Latin verse
+0388	59	leunculos	printed	leunculus in the verse; Serravalle's Latin
+0389	31	mundo	printed	fundo in the commentary; Latin verse
+0389	111	eta	misprint	vel eta for vela et (the verse vela et)
+0390	23	lapso!	printed	lasso translated so; Latin verse
+0390	24	Princeps	printed	Ma not translated; Latin verse
+0390	48	Princeps	printed	as in the verse
+0391	21	ad	printed	Serravalle's Latin; Latin verse
+0391	24	deliberandum	printed	liberandum in the commentary; Latin verse
+0392	35	Ubi	printed	Onde translated so; Latin verse
+0392	39	facient	printed	faciet expected; Latin verse
+0392	52	me	printed	me attorsit; Latin verse
+0392	54	postquam	printed	E poi translated so; Latin verse
+0392	58	ira	misprint	ita (the commentary et ita vestitus)
+0392	60	Ubi	printed	as in the verse
+0392	67	facient	printed	as in the verse
+0392	102	postquam	printed	as in the verse
+0393	15	dictum	printed	desir translated so; Latin verse
+0393	20	fio	printed	Serravalle keeps the Italian word
+0393	26	dictum	printed	as in the verse
+0393	32	fio	printed	as in the verse
+0394	75	fondo	misprint	fondò; no accent visible; essay
+0396	10	posest	misprint	already listed
+0397	24	culpe	printed	colpi translated so; Latin verse
+0398	23	nunc	misprint	none (the commentary none bolgie)
+0398	24	ullam,	printed	lullam in the commentary; Latin verse
+0398	26	Ructum	printed	Ruptum expected; Latin verse
+0398	109	ructum	printed	as in the verse
+0399	33	stroppiatus	printed	stropiatus in the commentary; Latin verse
+0399	35	Fixus	printed	Fesso translated so; Latin verse
+0399	38	fixi	printed	Serravalle's Latin
+0399	98	fixus	printed	as in the verse
+0400	43	aportet	printed	apportet expected; Latin verse
 0595	56	illud	printed	illum expected (qui venit)
 0595	62	infermi,	printed	the Latin verse has infirmi
 0596	30	sì	misread	was si; Italian verse quoted in the essay

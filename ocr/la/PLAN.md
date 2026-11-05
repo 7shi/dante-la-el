@@ -33,7 +33,7 @@ cover is under "Known limits".
 
 Next: the read-through ("Read-through"), planned with the user on 2026-11-05; the tools
 are made (step 0) and the trial is done (step 1); the batches (step 2) are under way: read
-0001–0200 and 0595–0614.
+0001–0400 and 0595–0614.
 
 ## Checks
 
@@ -470,6 +470,54 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0192 | 5 | `se riposi mai nostra semenza` | `vostra` | Italian verse X 94 (the Latin `vestrum semen`); found by the read-through. |
 | 0193 | 7, 13 | `E nel futuro tenete altro modo.`, `di nostro stato humano` | `presente`, `vostro` | Italian verse X 99 and 105 (the Latin `in presenti`, `de vestro statu`); found by the read-through. |
 | 0196 | 8, 13 | `a que' di in Firenze`, `per sempre svani` | `dì`, `svanì` | Essay; no accent visible; found by the read-through. |
+| 0201 | 20, 21 | `Qualunque prima sè`, `e froda la sua facultade` | `priva`, `fonde` | Italian verse XI 43–44 (the Latin `privat se`, `fundit`); found by the read-through. |
+| 0202 | 19 | `in eterno è consumcto.` | `consunto` | Italian verse XI 66; not a word; found by the read-through. |
+| 0205 | 9 | `Per sua natura, e per lo suo seguace` | `sè` | Italian verse XI 110 (the Latin `Per se naturam`); found by the read-through. |
+| 0208 | 10, 14 | `la roccia disconscesa,`, `di Creta (3) era discesa,` | `discoscesa`, `distesa` | Italian verse XII 9 and 12 (the Latin `erat distensa`; the rhyme); found by the read-through. |
+| 0211 | 86 | `quod lux et amicitia,` | `lis` | Empedocles' strife and love (`amor et discordia`); found by the read-through. |
+| 0213 | 71 | `Demum temptarit:` | `temptavit` | Italic lemma (Latin verse `temptavit`); `r` for `v`, as 0154 and 0204; found by the read-through. |
+| 0214 | 16, 77 | `Perpendidisti ne vos,`, `magnus miscicus et cognitor erbarum` | `Perpendistis`, `medicus` | Latin verse XII 80 (`vos`); the commentary, not a word; found by the read-through. |
+| 0215 | 26 | `Vi vidi gente sotto` | `Io` | Italian verse XII 103 (the Latin `Ego vidi`); found by the read-through. |
+| 0218 | 57 | `qui fixit, idest sciscit cor,` | `scidit` | Not a word (`Ille scidit` in the verse); found by the read-through. |
+| 0223 | 96 | `Virgo est intructuosa,` | `infructuosa` | Not a word; found by the read-through. |
+| 0224 | 96 | `et oinnia facta Imperii` | `omnia` | Not a word; the dot of `i` visible; found by the read-through. |
+| 0232 | 7 | `a cui vedemmo di questi di volersi` | `dì` | Essay; no accent visible; found by the read-through. |
+| 0239 | 10 | `al tuo dolor furor compito.` | `furor dolor` | Italian verse XIV 66 (the Latin `tuo furori dolor`); found by the read-through. |
+| 0241 | 56 | `idest magnus, reglius, idest antiquus` | `veglius` | Italic lemma (Italian `veglio`); `r` for `v`, as 0154, 0204 and 0213; found by the read-through. |
+| 0242 | 99 | `que culpa, pentula, purgata` | `pentuta` | Italic lemma (Italian `pentuta`); found by the read-through. |
+| 0249 | 87 | `respectu vice infernalis` | `vite` | No stroke of `t` visible; found by the read-through. |
+| 0255 | 30, 39 | `non è bonta vera`, `e pero non è colpa` | `bontà`, `però` | Essay; no accent visible; found by the read-through. |
+| 0259 | 25 | `sì che tra loro e'l collo` | `'n contrario` | Italian verse XVI (the Latin `in contrarium collum`); found by the read-through. |
+| 0261 | 5 | `fossi stato dal loco coperto,` | `foco` | Italian verse XVI (the Latin `ab igne coopertus`); found by the read-through. |
+| 0263 | 24 | `Prima da monte volto inver levante` | `Veso` | Italian verse XVI (the Latin `a monte Veso`); found by the read-through. |
+| 0267 | 3, 23, 25 | `la societa così`, `non dovra vantarsi`, `da cui si vigorosa` | `società`, `dovrà`, `sì` | Essay; no accent visible; found by the read-through. |
+| 0269 | 22 | `venenosam, biffurgutam ad instar` | `bifurcatam` | Not a word; found by the read-through. |
+| 0272 | 60–61 | `bivarus se assen-/ctat,` | `assectat` | Not a word (Latin verse `se assectat`); found by the read-through. |
+| 0273 | 11, 22 | `fuori scoppiano el lor duolo:`, `par che l'orechie (5) si pasca.` | `scoppiava`, `l'occhio` | Italian verse XVII (the Latin `exibat dolor`, `oculus`); found by the read-through. |
+| 0275 | 9 | `c'ha già l'unghia morte,` | `smorte` | Italian verse XVII (the commentary `smorte`); found by the read-through. |
+| 0276 | 9 | `sì quinci mi tolse;` | `si` | Italian verse XVII (the Latin `inde se tollit`); found by the read-through. |
+| 0277 | 12 | `Rota (2), e discendo,` | `discende` | Italian verse XVII (the Latin `Rotat et descendit`); found by the read-through. |
+| 0279 | 68 | `è realtà, e realta potente` | `realtà` | Essay; no accent visible; found by the read-through. |
+| 0283 | 17 | `Così da una de le roccie scogli` | `imo` | Italian verse XVIII (the Latin `ab ymo roccie`); found by the read-through. |
+| 0301 | 54 | `Ideo stes ibis, idest remane,` | `ibi` | Commentary; found by the read-through. |
+| 0303 | 16 | `ed altri arrivino fino credere,` | `fino a credere` | Essay; found by the read-through. |
+| 0303 | 34, 40, 72, 73 | `puo`, `felicita`, `piu`, `legittimita` | `può`, `felicità`, `più`, `legittimità` | Essay; no accent visible; found by the read-through. |
+| 0323 | 20 | `Et elli havean del cul facto trombetta.` | `havea` | Italian verse XXI (the Latin `Et ille fecerat`); found by the read-through. |
+| 0325 | 20 | `colla volonta` | `volontà` | Essay (a quotation); no accent visible; found by the read-through. |
+| 0330 | 22 | `Io fui del regno di Ravenna nato.` | `Navarra` | Italian verse XXII (the Latin `de regno Navarre`); found by the read-through. |
+| 0337 | 28 | `et vadunt veilata facie,` | `velata` | Commentary; found by the read-through. |
+| 0344 | 29 | `Ego fui natus ed adultus` | `et` | Latin verse (the commentary `natus et adultus`); found by the read-through. |
+| 0349 | 45 | `ut quisque fugiat cum et libenter` | `eum` | Commentary; found by the read-through. |
+| 0350 | 6 | `Quando la brina in su la terra sempra` | `assempra` | Italian verse XXIV (the Latin `exemplatur`); found by the read-through. |
+| 0351 | 20 | `Dolce, ch'io vidi prima a piè del ponte.` | `monte` | Italian verse XXIV (the Latin `ad pedem montis`); found by the read-through. |
+| 0353 | 13 | `E cieco più assai che quel di pria.` | `erto` | Italian verse XXIV (the Latin `altus`); found by the read-through. |
+| 0354 | 32 | `et sanguis adhuc scipantur.` | `stipantur` | Latin verse (the commentary `stipantur`); found by the read-through. |
+| 0359 | 14 | `delle nobili facolta,` | `facoltà` | Essay; no accent visible; found by the read-through. |
+| 0369 | 90 | `*Aborra*, idest obetrat.` | `oberrat` | Commentary; found by the read-through. |
+| 0389 | 111 | `deponere vel eta recolligere sartas,` | `vela et` | Commentary (the verse `vela et`); found by the read-through. |
+| 0392 | 58 | `Et ira vestitus eundo me rancuro.` | `ita` | Latin verse (the commentary `et ita vestitus`); found by the read-through. |
+| 0394 | 75 | `o sulla possibilità della cosa, fondo` | `fondò` | Essay; no accent visible; found by the read-through. |
+| 0398 | 23 | `Modum nunc bolgie turpis.` | `none` | Latin verse (the commentary `none bolgie`); found by the read-through. |
 
 ## Known limits
 
