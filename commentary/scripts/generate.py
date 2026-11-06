@@ -28,12 +28,18 @@ CANTICLE_NAMES = {
 #   taken as a copy of the Italian
 # - closing: the word that opens the heading of the closing section
 # - note: an extra instruction appended to both prompts
+# - quotes: the opening and closing quote marks of translations, counted by
+#   check_quotes.py
+# - apostrophe: (optional) a regex for a mark that is an apostrophe, not a
+#   quote; such marks are dropped before counting
 LANGUAGES = {
     "el": {
         "name": "Modern Greek",
         "letters": r"[\u0370-\u03ff\u1f00-\u1fff]",
         "closing": "Επίλογος",
         "note": "Use the monotonic orthography.",
+        # ’ is the apostrophe of elision (γι’, απ’), so ‘’ do not count
+        "quotes": ("«“", "»”"),
     },
     "eo": {
         "name": "Esperanto",
@@ -42,6 +48,10 @@ LANGUAGES = {
         "letters": r"[A-Za-zĈĜĤĴŜŬĉĝĥĵŝŭ]",
         "closing": "Epilogo",
         "note": "Write ĉ, ĝ, ĥ, ĵ, ŝ, ŭ with their diacritics, not in the x- or h-system.",
+        # Nests ‘’ inside «» like the original; ’ is an apostrophe only in
+        # Italian names (d’Este, de’ Pazzi)
+        "quotes": ("«“‘", "»”’"),
+        "apostrophe": r"(?<=\w)’(?=\w)|\bde’",
     },
 }
 

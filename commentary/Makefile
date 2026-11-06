@@ -42,7 +42,7 @@ fix-quotes:
 	uv run scripts/fix_quote_blocks.py -d $(DIR)
 
 check-quotes:
-	uv run scripts/check_quotes.py -d $(DIR)
+	uv run scripts/check_quotes.py -l $(LANG_CODE) -d $(DIR)
 
 check-lines:
 	uv run scripts/check_lines.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -m $(CHECK_MODEL) -l $(LANG_CODE) -d $(DIR) -o $(CHECK_DIR)
