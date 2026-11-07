@@ -63,7 +63,7 @@ ho Iliono, kiel malalta kaj malnobla vin
 montris la bildo, kiun oni tie distingas!
 Kiu estis tia majstro de peniko aŭ gravurilo,
 ke li povus reprodukti la ombrojn kaj la trajtojn, kiuj tie
-mirigus eĉ subtilan intelekton?
+mirigus subtilan intelekton?
 Mortintaj ŝajnis la mortintoj, kaj la vivantoj vivaj:
 ne vidis pli bone ol mi tiu, kiu vidis la veron,
 pri tio, kion mi tretis, dum mi iris klinita.
@@ -86,8 +86,8 @@ Mi ja estis kutima al lia admono
 ĉiam ne perdi tempon, tiel ke pri tiu
 temo li ne povis paroli al mi malklare.
 Al ni venis la bela kreitaĵo,
-blanke vestita kaj en la vizaĝo tia,
-kia ŝajnas, trembrilante, matena stelo.
+blanke vestita kaj en la vizaĝo tia, kia
+ŝajnas, trembrilante, matena stelo.
 Li malfermis la brakojn, kaj poste malfermis la flugilojn;
 li diris: «Venu: ĉi tie proksimas la ŝtupoj,
 kaj facile de nun oni supreniras.
@@ -120,7 +120,7 @@ estas de mi forlevita, ke preskaŭ neniu
 laco de mi, irante, estas sentata?».
 Li respondis: «Kiam la P-oj, kiuj restis
 ankoraŭ sur via vizaĝo preskaŭ forvelkintaj,
-estos, kiel unu jam estas, tute forviŝitaj,
+estos, kiel unu estas, tute forviŝitaj,
 estos viaj piedoj tiel venkitaj de la bona volo,
 ke ne nur ili ne sentos lacon,
 sed estos plezuro por ili esti supren puŝataj».
