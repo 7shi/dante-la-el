@@ -18,11 +18,11 @@ apply them, do not ask again.
 for errors that both OCRs share (check 1, the verse check, the italics, check 2) are done
 (DONE.md); what they do not cover is under "Known limits".
 
-The read-through ("Read-through") is under way: 0001–1200 are read and decided (0001–0400
+The read-through ("Read-through") is done: 0001–1296 are read and decided (0001–0400
 in `43a1f60`, `9b91553`; DONE.md, "Read-through"); the trial pages 0601–0614 were read
 again with the batches. `Eunce` (0799–0867) is the edition's spelling throughout
-Serravalle's text (the editors print `Eu[n]ce` on 0867), so it is kept as printed. Next:
-1201–1296 in batches of 25 pages; a commit only when the user asks for it.
+Serravalle's text (the editors print `Eu[n]ce` on 0867), so it is kept as printed. The
+pages after the index (1291–1296) are blank or the library's, with nothing to read.
 
 ## Checks
 
@@ -999,6 +999,56 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 1196 | 52, 68 | `non puo`, `(IAN. III)` | `può`, `IOAN.` | Essay; no accent visible; found by the read-through. |
 | 1199 | 87 | `apparet hic, idest` | `hinc` | Commentary (the verse `hinc`); found by the read-through. |
 | 1200 | 10 | `Già di lunghezza` | `larghezza` | Italian verse XXVIII 32 (the Latin `largitate`); found by the read-through. |
+| 1201 | 90 | `ipsa dicitura est` | `dictura` | Commentary; found by the read-through. |
+| 1202 | 37, 70 | `ubi est levior`, `secundum maioritatem` | `lenior`, `minoritatem` | Latin verse (the commentary `lenior`); the commentary (the verse `minoritatem`); found by the read-through. |
+| 1206 | 32, 76, 89 | `rise (2).`, `de grado in gradum`, `sunt duo alie` | `(12)`, `gradu`, `due` | Italian verse XXVIII 135 (the footnote is `(12)`); the commentary (the verse `gradu`, `due`); found by the read-through. |
+| 1207 | 12 | `Et si tanto veridice` | `tantum` | Latin verse (the commentary `tantum`); found by the read-through. |
+| 1211 | 26 | `In ista eternitate` | `sua` | Latin verse (the Italian and the commentary `sua`); found by the read-through. |
+| 1213 | 29, 74 | `Hieronimus nobis scripsit`, `vobis bonum tractum` | `vobis`, `longum` | Latin verse (the Italian `vi`, the commentary `vobis`); the commentary (the verse `longum`); found by the read-through. |
+| 1214 | 71 | `idco dicit Iob` | `ideo` | Commentary; the `c` is printed; found by the read-through. |
+| 1215 | 30, 69 | `Potest contemplari satis`, `que Deos vult` | `Potes`, `Deus` | Latin verse (the Italian `Puoi`, the commentary `potes`); the commentary; found by the read-through. |
+| 1216 | 109 | `hoc effectus est` | `effusus` | Commentary (`effusus est` above); found by the read-through. |
+| 1217 | 13, 34 | `Com'a'Giuderi`, `Sicut vides, eclipsatio` | `Giudei`, `Iudeis` | Italian verse XXIX 102; the Latin verse (the commentary `sicut Iudeis`); found by the read-through. |
+| 1218 | 38, 73 | `promissionem cucurreretur`, `alicuius textis, ad omnem professionem` | `curreretur`, `testis`, `promissionem` | Latin verse (the commentary `curreretur`); the commentary (the verse `testis`, `promissionem`); found by the read-through. |
+| 1219 | 15, 43 | `Segue l'effecto d'amare`, `quod unquam fuit` | `l'affecto`, `nunquam` | Italian verse XXIX 140 (the Latin `affectum`); the commentary (the verse `nunquam`); found by the read-through. |
+| 1224 | 30, 57, 62 | `Talis, qualis ipsam`, `passu vinctum me`, `magit tremit` | `qualem`, `victum`, `magis` | Latin verse (the commentary `qualem`); the commentary (the verse `victum`, `magis`); found by the read-through. |
+| 1226 | 32 | `sicut inebrietate ab` | `inebriate` | Latin verse (the commentary `inebriate`); found by the read-through. |
+| 1228 | 27, 97, 102 | `triumphum celi veracis`, `bene optimus illis`, `flos optimus;` | `regni`, `opimus`, `opimus` | Latin verse (the Italian `regno`, the commentary `regni veracis`); the commentary (the verse `opimus`); found by the read-through. |
+| 1229 | 77–78 | `amplitudine et lati-`/`tudine` | `altitudine` | Commentary (the verse `altitudine`); found by the read-through. |
+| 1230 | 31, 83 | `postea adeo sustinebitur`, `magis intra, idest` | `a Deo`, `infra` | Latin verse (the commentary `a Deo`); the commentary (the verse `infra`); found by the read-through. |
+| 1231 | 68, 70, 73 | `puo tenersi`, `in realta si gran`, `oscurita, anzi cecita` | `può`, `realtà`, `sì`, `oscurità`, `cecità` | Essay; no accent visible; found by the read-through. |
+| 1234 | 23 | `Quod d viditur` | `dividitur` | Commentary; a gap for the `i`; found by the read-through. |
+| 1235 | 34, 84, 85 | `reliquum tantum album`, `tot floribus`, `inde transcendebat` | `totum`, `foliis`, `reascendebat` | Latin verse (the Italian `tutto`, the commentary `totum`); the commentary (the verse `foliis`, `reascendebat`); found by the read-through. |
+| 1239 | 81 | `non ascendebat ad me` | `descendebat` | Commentary (the verse `descendebat`); found by the read-through. |
+| 1240 | 10 | `A chi prego` | `che` | Italian verse XXXI 96 (the Latin `Ad quod`); found by the read-through. |
+| 1241 | 43 | `Per equalem motum` | `modum` | Latin verse (the Italian `modo`, the commentary `modum`); found by the read-through. |
+| 1242 | 24, 27 | `ad corum cantus`, `tantam habundatiam` | `eorum`, `habundantiam` | Latin verse; the `c` is printed (the commentary `eorum`, `habundantiam`); found by the read-through. |
+| 1243 | 48, 70, 72 | `che si piccoli`, `a liberta, la quale`, `(Ioan. VIII, 131)` | `sì`, `libertà`, `32` | Essay; no accent visible; John 8:32; found by the read-through. |
+| 1246 | 86 | `mater omuium` | `omnium` | Commentary; found by the read-through. |
+| 1247 | 23 | `In ordinem quem` | `ordine` | Latin verse (the commentary `In ordine`); found by the read-through. |
+| 1248 | 5 | `dal septomo grado` | `septimo` | Italian verse XXXII 16 (the Latin `septimo`); found by the read-through. |
+| 1249 | 21 | `a gradu in gradum*` | `inferiori` | Commentary lemma (the verse `a gradu inferiori`); found by the read-through. |
+| 1250 | 12, 46 | `Causal puncto`, `amplius anxia` | `Casual`, `ausa` | Italian verse XXXII 53 (the Latin `Casualis`); the Latin verse (the Italian and the commentary `ausa`); found by the read-through. |
+| 1251 | 36 | `et clarum nobis notatur` | `vobis` | Latin verse (the Italian `vi`, the commentary `vobis`); found by the read-through. |
+| 1253 | 32, 46 | `quasi duo radices`, `Tantum contenta de` | `due`, `contentam` | Latin verse (the commentary `due radices`, `contentam`); found by the read-through. |
+| 1254 | 8 | `E dirizzremo gl' ochi` | `dirizzeremo` | Italian verse XXXII 142; found by the read-through. |
+| 1255 | 40, 87 | `stesso seute che`, `in quel di cono-` | `sente`, `dì` | Essay; no accent visible; found by the read-through. |
+| 1259 | 83, 91 | `saum desiderium`, `petitionem pre-`/`curris` | `suum`, `precurrit` | Commentary (the verse `Suum`, `precurrit`); found by the read-through. |
+| 1260 | 42 | `Vincat tua misericordia` | `custodia` | Latin verse (the Italian `guardia`, the commentary `custodia`); found by the read-through. |
+| 1261 | 47 | `a[d] mentem non reddit` | `redit` | Latin verse (the commentary `redit` on 1262); found by the read-through. |
+| 1262 | 101 | `intellectu creatu` | `creato` | Commentary; found by the read-through. |
+| 1264 | 29, 59–60 | `afficiebatur accensa`, `et mi-`/`nium admiratione` | `efficiebatur`, `nimium` | Latin verse (the commentary `efficiebatur`); the commentary; found by the read-through. |
+| 1266 | 7, 22 | `E tanto, che non basta`, `ad dicenduum parum` | `È`, `dicendum` | Italian verse XXXIII 123 (the Latin `Est`); no accent visible; the Latin verse; found by the read-through. |
+| 1267 | 50 | `nondum et inventa` | `est` | Commentary (`nondum est inventa` on 1266); found by the read-through. |
+| 1269 | 4 | `die mensi februarii` | `mensis` | Colophon (`mensis` in the next line); found by the read-through. |
+| 1270 | 28, 47, 71 | `de'di nostri`, `ma altresi con`, `nella realta delle` | `dì`, `altresì`, `realtà` | Essay; no accent visible; found by the read-through. |
+| 1276 | 58 | `et concenptum mirabilem` | `concentum` | Appendix (Bartholomaeus a Colle); found by the read-through. |
+| 1277 | 47 | `maun Conditoris` | `manu` | Appendix; found by the read-through. |
+| 1280 | 100 | `S'elli era l'opinione` | `erra` | Appendix lemma (the commentary `errant`); found by the read-through. |
+| 1281 | 27, 48, 104 | `in omuibus inferioribus`, `et etiam in qualitate`, `formas corum` | `omnibus`, `quantitate`, `eorum` | Appendix; `in quantitate corporum` below; the `c` is printed; found by the read-through. |
+| 1283 | 28, 46, 117 | `esser li rifracto`, `magis retrum quam`, `nix liquetit` | `lì`, `retro`, `liquefit` | Appendix lemma; no accent visible; the commentary; found by the read-through. |
+| 1285 | 112 | `circam Deum` | `circa` | Appendix; found by the read-through. |
+| 1289 | 113 | `Premanenza di affettuose` | `Permanenza` | Index; found by the read-through. |
 
 ## Known limits
 

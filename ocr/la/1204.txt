@@ -25,7 +25,7 @@ pro alio: sic facit hic auctor, quando dicit, In hoc primo
 vere sempiterno, quod nocturnus Aries non expoliat (*no-*
 *cturnus aries*, idest Libra, que habet expoliare arbores
 seu folia, que nescit aries diurnus). Nota etiam quod astro-
-logi audent dicere et dicunt et a d'struunt, quod aliqui pla-
+logi audent dicere et dicunt et a[d]struunt, quod aliqui pla-
 nete et aliqua astra sunt masculina, aliqua femminina,
 aliqua calida, aliqua frigida, aliqua sicca, aliqua humida,
 supple effective, aliqua diurna, aliqua nocturna. Diurna
@@ -85,8 +85,8 @@ angelorum. Et primo ponit ordinem Dominationum, secundo
 ordinem Virtutum celorum, et tertio ordinem Potestatum.
 In tertia Ierarchia ponit tres alios ordines angelorum, sci-
 licet ordinem Principatuum, ordinem Arcangelorum, et or-
-dinem Angelorum. Et hic notandum est, quod Dionysiushabuit
-optimam ymaginationem, considerando id quod dicit
+dinem Angelorum. Et hic notandum est, quod Dionysius
+habuit optimam ymaginationem, considerando id quod dicit
 Paulus Apostolus in Epistola sua ad Hebreos capitulo
 primo, in fine: Nonne omnes, scilicet angeli, sunt admini-
 stratorii spiritus, in ministerium missi ad eos, scilicet ho-
