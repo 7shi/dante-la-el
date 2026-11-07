@@ -18,11 +18,11 @@ apply them, do not ask again.
 for errors that both OCRs share (check 1, the verse check, the italics, check 2) are done
 (DONE.md); what they do not cover is under "Known limits".
 
-The read-through ("Read-through") is under way: 0001–1000 are read and decided (0001–0400
+The read-through ("Read-through") is under way: 0001–1200 are read and decided (0001–0400
 in `43a1f60`, `9b91553`; DONE.md, "Read-through"); the trial pages 0601–0614 were read
 again with the batches. `Eunce` (0799–0867) is the edition's spelling throughout
 Serravalle's text (the editors print `Eu[n]ce` on 0867), so it is kept as printed. Next:
-1001–1296 in batches of 25 pages; a commit only when the user asks for it.
+1201–1296 in batches of 25 pages; a commit only when the user asks for it.
 
 ## Checks
 
@@ -892,6 +892,113 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0996 | 103 | `ha detto Gesu` | `Gesù` | Essay; no accent visible; found by the read-through. |
 | 0999 | 66–67 | `quidam ad`/`ad civile` | `ad` | Commentary; a word doubled over the line end; found by the read-through. |
 | 0999 | 105 | `de tuo radio resplendeo` | `suo` | Commentary (the verse `de suo radio`); found by the read-through. |
+| 1001 | 34–35 | `ad unam facem` | `ad unum finem` | Commentary (the verse `ad unum finem`); found by the read-through. |
+| 1003 | 93 | `Francisci paupertatem` | `Franciscum et Paupertatem` | Commentary quoting the verse (`Franciscum et Paupertatem`); found by the read-through. |
+| 1005 | 10 | `Tornassi al fructo` | `Tornossi` | Italian verse XI 105 (the Latin `Redivit`); found by the read-through. |
+| 1006 | 43 | `Si quiquid dixi` | `quidquid` | Latin verse (the commentary `quidquid`); found by the read-through. |
+| 1008 | 32, 34, 67, 79, 82, 88 | `gia`, `delia`, `di`, `puo`, `pero`, `piu` | `già`, `della`, `dì`, `può`, `però`, `più` | Essay; no accent visible; `li` for `ll`; found by the read-through. |
+| 1011 | 61 | `sequi iuria civilia` | `iura` | Commentary; found by the read-through. |
+| 1016 | 60 | `ad sinum verbi.` | `ad suum ubi` | Commentary (the verse `ad suum ubi`); found by the read-through. |
+| 1019 | 11 | `Adunando; ma contra` | `Addimandò` | Italian verse XII 94 (the Latin `Petivit`); found by the read-through. |
+| 1021 | 15 | `Crysostimo, et Anselmo` | `Crysostomo` | Italian verse XII 137 (the commentary `Chrisostomus`); found by the read-through. |
+| 1023 | 22, 50, 70 | `all'atfetto`, `cosi la sola`, `cosi è` | `affetto`, `così`, `così` | Essay; `t` for `f`; no accent visible; found by the read-through. |
+| 1026 | 8 | `Che soverchia dell'arte` | `dell'aere` | Italian verse XIII 6 (the Latin `aeris`); found by the read-through. |
+| 1027 | 7, 88 | `al primo el'altro`, `celum adiuvant,` | `e l'altro`, `avivant` | Italian verse XIII 18; the commentary quoting the Latin verse `Celum avivant`; found by the read-through. |
+| 1028 | 11, 12, 33 | `Compiè 'l cantor`, `Et attesarsi a noi`, `une palec sunt` | `cantar`, `attesersi`, `palee` | Italian verse XIII 28 and 29 (the Latin `cantum`, `attenderunt`); the Latin verse (the commentary `palee`); found by the read-through. |
+| 1030 | 73, 99 | `quasi speculator,`, `et admiuistrat minus` | `speculatus`, `administrat` | Commentary (the verse `Quasi speculatus`); `u` for `n`; found by the read-through. |
+| 1031 | 98 | `sive a medio` | `sine medio` | Commentary (`sine medio celi` on the same page; `non concurrente celo`); found by the read-through. |
+| 1032 | 5 | `s'io non processi avanti` | `procedessi` | Italian verse XIII 88 (the commentary `procedessi`); found by the read-through. |
+| 1034 | 27 | `prius quam sit matura:` | `sint` | Latin verse (the Italian `sien`, the commentary `sint`); found by the read-through. |
+| 1039 | 95 | `et nobis, scilicet` | `vobis` | Commentary (the verse `et vobis`); found by the read-through. |
+| 1041 | 100 | `scientiticorum,` | `scientificorum` | Commentary; `t` for `f`; found by the read-through. |
+| 1043 | 7 | `El so' litario stato` | `Esso litare` | Italian verse XIV 93 (the Latin `Ipsum`); found by the read-through. |
+| 1044 | 7, 76 | `quel arbor balenar`, `in profundo mari,` | `albor`, `Marti` | Italian verse XIV 108 (the Latin `albedine`); the commentary glossing `stelle Martis`; found by the read-through. |
+| 1046 | 37 | `facerem intentionem de` | `mentionem` | Commentary; found by the read-through. |
+| 1047 | 9 | `aggiungera` | `aggiungerà` | Essay; no accent visible; found by the read-through. |
+| 1052 | 45 | `fuit, fuit, scilicet` | `fuit, scilicet` | Commentary; a word printed twice; found by the read-through. |
+| 1054 | 6, 37 | `la prima qualità`, `qui nos illuminat` | `equalità`, `vos` | Italian verse XV 74 (the Latin `equalitas`); the commentary (the verse `qui vos illuminat`); found by the read-through. |
+| 1055 | 38 | `Tu illo abbrevies` | `illi` | Latin verse (the commentary `illi`); found by the read-through. |
+| 1057 | 11, 35, 37 | `L'altra trhaendo`, `trahendo collo comam`, `de Fiesols,` | `traendo`, `colo`, `Fiesolis` | Italian verse XV 124; the Latin verse (the commentary `colo`, `Fiesolis`); found by the read-through. |
+| 1058 | 23 | `Disvolutus a gente fallaci` | `a mundo` | Latin verse (the Italian `dal mondo`, the commentary `a mundo`); found by the read-through. |
+| 1063 | 17 | `rivi sempr' è d'allegrezza` | `s'empie` | Italian verse XVI 19 (the Latin `impletur`); found by the read-through. |
+| 1064 | 13, 17, 35 | `questa mondana favella`, `Al sol Leone`, `sub sua plancta.` | `moderna`, `suo`, `planta` | Italian verse XVI 33 and 37 (the Latin `moderna`, `suum`); the Latin verse (the commentary `sub sua planta`); found by the read-through. |
+| 1066 | 39 | `ad substituendum putredinem` | `sustinendum` | Commentary (the verse `ad sustinendum`); found by the read-through. |
+| 1067 | 5, 73–74 | `Se tu rigardi`, `idest defe-`/`runt` | `riguardi`, `defecerunt` | Italian verse XVI 73 (`riguardi` where it is quoted again); the commentary; found by the read-through. |
+| 1068 | 25, 92 | `Alle carole Sitii`, `et Galla (aliud` | `curule`, `Galli` | Italian verse XVI 108 (the Latin `curules`); the commentary (the verse `Galli`); found by the read-through. |
+| 1069 | 15, 19, 77 | `agl' Uberti Donato`, `cittadino Guida et`, `agnus mansuctus,` | `ad Ubertin`, `Guido`, `mansuetus` | Italian verse XVI 119 and 123 (the Latin `Ubertino`, `Guido`); the commentary, `c` for `e`; found by the read-through. |
+| 1070 | 18, 57, 109 | `Quilibet de pulchro`, `reinconfortat`, `erat honerata ipsa` | `Quilibet qui de`, `reconfortat`, `honorata` | Latin verse (the Italian `Ciascun che`, the commentary `Quilibet qui`); the commentary (the verse `reconfortat`, `honorata`); found by the read-through. |
+| 1071 | 12 | `Chel guarda 'l ponte` | `Che` | Italian verse XVI 146 (the Latin `Que`); found by the read-through. |
+| 1072 | 23, 40, 84, 109, 111 | `Si come voi`, `vola alia giustizia`, `Cosi all'orazion`, `Ma si come`, `Si che la sua` | `Sì`, `alla`, `Così`, `sì`, `Sì` | Essay; no accent visible; `li` for `ll`; found by the read-through. |
+| 1073 | 11, 20 | `respondidit`, `recipiet cum benigne` | `respondit`, `eum` | Commentary; `c` for `e`; found by the read-through. |
+| 1075 | 11, 84 | `O cara pietra mia`, `sed adhuc ut` | `piota`, `ad hoc` | Italian verse XVII 13 (the Latin `planta`); the commentary (the verse `ad hoc`); found by the read-through. |
+| 1076 | 17, 47, 81 | `in chi la gente`, `O cara plancta mea`, `fugere fortuniam,` | `che`, `planta`, `fortunam` | Italian verse XVII 31 (the commentary lemma `in che`); the commentary (the verse `O cara planta mea`); found by the read-through. |
+| 1077 | 59, 73 | `per correntem infra`, `cum bono ventu` | `torrentem`, `vento` | Commentary (the verse `per torrentem`); found by the read-through. |
+| 1080 | 71 | `tacendo, mostrarit se` | `monstravit` | Commentary lemma (the verse `se monstravit`); found by the read-through. |
+| 1081 | 14, 94, 95 | `son intimo amico`, `vel proprio,`, `se setiet omnino` | `timido`, `proprie`, `sentiet` | Italian verse XVII 118 (the Latin `timidus`); the commentary (the verse `proprie`, `sentiet`); found by the read-through. |
+| 1083 | 27 | `delle nostri azioni` | `nostre` | Essay; found by the read-through. |
+| 1087 | 16 | `col sereno aspecto` | `secondo` | Italian verse XVIII 18 (the Latin `secundo`); found by the read-through. |
+| 1088 | 79 | `quod omnino musa` | `omnis` | Commentary (the verse `omnis musa`); found by the read-through. |
+| 1089 | 7, 78, 85 | `era forza de paleo`, `mortuus est Sitii`, `inter infedeles,` | `ferza`, `siti`, `infideles` | Italian verse XVIII 42 (the Latin `ferza`); the commentary; found by the read-through. |
+| 1090 | 35 | `Suum exponeret verecundia` | `exoneret` | Latin verse (the commentary `exoneret`); found by the read-through. |
+| 1093 | 6, 34, 73 | `d'imgiglarsi`, `Effectus sint celi`, `qui totum radium` | `d'ingiglarsi`, `sit`, `tuum` | Italian verse XVIII 113; the Latin verse (the commentary `sit`); the commentary (the verse `tuum`); found by the read-through. |
+| 1097 | 63 | `vis tu indicare` | `iudicare` | Commentary; `n` for `u`; found by the read-through. |
+| 1098 | 54 | `contexeatur` | `contexatur` | Commentary; found by the read-through. |
+| 1103 | 32, 69 | `O tu qui es,`, `Quomodo ego credis` | `quis es`, `ergo` | Latin verse (the commentary `quis es`); the commentary; found by the read-through. |
+| 1105 | 13 | `regno di Plaga` | `Praga` | Italian verse XIX 117 (the Latin `Prage`); found by the read-through. |
+| 1106 | 36 | `Patrui et patris,` | `fratris` | Latin verse (the Italian `fratel`, the commentary `fratris`); found by the read-through. |
+| 1111 | 35 | `angelicis quisquillis,` | `squillis` | Latin verse (the commentary `squillis`); found by the read-through. |
+| 1114 | 54, 69 | `propter meram penitentiam`, `et sie in hoc` | `veram`, `sic` | Commentary (the verse `veram`); found by the read-through. |
+| 1116 | 51 | `si alius illa non` | `illam` | Commentary (the verse `illam`); found by the read-through. |
+| 1117 | 7, 8, 53 | `[a] divina speme`, `Divina speme, che`, `fuerunt ibi pro` | `di viva`, `Di viva`, `sibi` | Italian verse XX 108 and 109 (the Latin `vive spei`); the Latin verse (the commentary `sibi`); found by the read-through. |
+| 1118 | 20 | `mentre che parlo,` | `parlò` | Italian verse XX 145; found by the read-through. |
+| 1119 | 65, 69 | `Tutti pero,`, `ma bensi` | `però`, `bensì` | Essay; no accent visible; found by the read-through. |
+| 1124 | 7, 35 | `ogni militia morta`, `[bonum` | `malitia`, `lumen` | Italian verse XXI 27 (the Latin `malitia`); the Latin verse (the Italian `lume`, the commentary `lumen`); found by the read-through. |
+| 1126 | 68, 96 | `ab omni creatura vista`, `dixi eo*.` | `creata`, `ego` | Latin verse (the commentary `creata`); the commentary lemma (the verse `dixi ego`); found by the read-through. |
+| 1129 | 39 | `et que retro eos` | `qui` | Latin verse (the commentary `qui`); found by the read-through. |
+| 1130 | 32, 50, 51 | `puo`, `aveva vèduta,`, `che senti in` | `può`, `veduta`, `sentì` | Essay; no accent visible; a grave accent printed on the `e`; found by the read-through. |
+| 1133 | 103 | `Ergo stabant sicut` | `Ego stabam` | Commentary (the verse `Ego stabam`); found by the read-through. |
+| 1134 | 24 | `Et maior et loculentior` | `luculentior` | Latin verse (the Italian `luculenta`, the commentary `luculentior`); found by the read-through. |
+| 1135 | 77, 106 | `sic michi dilactavit`, `nec quod ad se` | `dilatavit`, `quoad` | Commentary (the verse `dilatavit`; `quoad` after it); found by the read-through. |
+| 1137 | 8 | `Iordan volt'e retrorso` | `volt'è` | Italian verse XXII 94 (the Latin `conversus est`); found by the read-through. |
+| 1138 | 68 | `largita intrandi idest altam` | `in` | Commentary (the verse `Intrandi in altam`); found by the read-through. |
+| 1140 | 10, 31, 32, 59, 73 | `è di la e`, `senti il bisogno`, `de'suoi di,`, `societa`, `societa` | `di là`, `sentì`, `dì`, `società`, `società` | Essay; no accent visible; found by the read-through. |
+| 1142 | 7 | `onde si pasca,` | `li pasca` | Italian verse XXIII 5 (the Latin `ipsos pascat`); found by the read-through. |
+| 1145 | 22 | `odor s'aperse'l bel` | `si prese` | Italian verse XXIII 75 (the Latin `apprehensum fuit`); found by the read-through. |
+| 1147 | 18, 22, 32, 33 | `Sì rigirava,`, `Nell'habito di Dio`, `lacerata sonat,`, `ad sonum unius lire` | `Si sigillava`, `alito`, `tonat`, `illius` | Italian verse XXIII 110 and 114 (the Latin `Sigillabatur`, `anhelitu`); the Latin verse (the commentary `tonat`, `illius`); found by the read-through. |
+| 1148 | 9, 38 | `Co'la sua fiamma,`, `O quantum est ubertas` | `cima`, `quanta` | Italian verse XXIII 125 (the Latin `summitate`, the essay on 1149 `cima`); the Latin verse (the commentary `quanta`); found by the read-through. |
+| 1149 | 18, 22, 76, 86, 93 | `cosi belle`, `cosi pura`, `e si caro`, `cima si,`, `cantando si dolce` | `così`, `così`, `sì`, `sì`, `sì` | Essay and its quoted verse; no accent visible; found by the read-through. |
+| 1153 | 36 | `cum bona fine;` | `fide` | Commentary (`possessor male fidei` after it); found by the read-through. |
+| 1154 | 9, 17 | `canto tanto vivo,`, `el corpo benedecto` | `divo`, `foco` | Italian verse XXIV 23 and 31 (the Latin `divino`, `focus`); found by the read-through. |
+| 1155 | 10, 21 | `Per aiutarla,`, `dell'alto primo pilo` | `approvarla`, `dall'alto` | Italian verse XXIV 48 and 59 (the Latin `approbare`, `ab alto`); found by the read-through. |
+| 1157 | 26, 41 | `Perche l'hai tu`, `Istum carum iocale` | `Perchè`, `Istud` | Italian verse XXIV 99, no accent visible; the Latin verse (the commentary `Istud`); found by the read-through. |
+| 1159 | 94 | `veritas que hic pluit` | `hinc` | Commentary (the verse `hinc pluit`); found by the read-through. |
+| 1161 | 83 | `oggi miro in tutte` | `mirò` | Essay; no accent visible; found by the read-through. |
+| 1165 | 29, 89–90 | `vivum lumen`, `pere` / `grini,` | `unum`, `pere-` | Latin verse (the commentary `unum lumen`); the commentary, no hyphen printed at the line end (`texts/la` joins it: `HYPHEN_MISSING` in `convert_la.py`); found by the read-through. |
+| 1166 | 26, 39, 62 | `die quid est spes`, `bene in amore trahit`, `maiorem caritatem.` | `dic`, `in amorem`, `claritatem` | Gloss, `e` for `c`; the Latin verse (the commentary `in amorem`); the commentary (the verse `claritatem`); found by the read-through. |
+| 1168 | 6, 35, 38 | `el nome suo:`, `in aliis vestram`, `Subitus et depressus,` | `tuo`, `in alios`, `densus` | Italian verse XXV 74 (the Latin `tuum`); the Latin verse (the commentary `in alios`, `densus`); found by the read-through. |
+| 1169 | 98, 111 | `*noritia*`, `Volvit se in cantum` | `novitia`, `Misit se` | Commentary, italic `r` for `v`; the commentary lemma (the verse `Misit se`); found by the read-through. |
+| 1170 | 9, 36 | `Mostrò la vista sua`, `In terra est meum` | `Mosse`, `In terra terra est` | Italian verse XXV 116 (the Latin `movit`); the Latin verse (the Italian `In terra è terra`, the commentary `In terra terra est`); found by the read-through. |
+| 1172 | 9, 53, 57, 58 | `piu`, `isvellatamente`, `capacita`, `puo` | `più`, `isvelatamente`, `capacità`, `può` | Essay; no accent visible; `ll` for `l`; found by the read-through. |
+| 1173 | 26 | `die michi` | `dic` | Commentary; `e` for `c`; found by the read-through. |
+| 1175 | 19 | `per istum divam` | `istam` | Latin verse (the commentary `istam`); found by the read-through. |
+| 1176 | 20, 26, 90 | `all'esentia`, `amorem suum leviter`, `in me exprimatur.` | `essentia`, `sive`, `imprimatur` | Italian verse XXVI 31; the Latin verse (the commentary `sive leviter sive fortiter`); the commentary (the verse `imprimatur`); found by the read-through. |
+| 1177 | 11, 13, 24, 55, 91 | `del beato autore`, `farò sentir ogni`, `ancor m'accorsi`, `probatur ista probatio`, `respondidisti` | `verace`, `veder`, `anzi`, `fundatur`, `respondisti` | Italian verse XXVI 40, 42 and 53 (the Latin `veracis`, `videre`, `imo`); the commentary (the verse `fundatur`); found by the read-through. |
+| 1178 | 42 | `quero ego tantum` | `amo` | Latin verse (the Italian `amo`, the commentary `amo`); found by the read-through. |
+| 1181 | 8, 14, 21, 33, 77 | `tornar a questi lumi`, `nullo affecto`, `Un s'appellava`, `nongintis`, `istud consilium` | `tutti i`, `effecto`, `I`, `nongentis`, `concilium` | Italian verse XXVI 121, 127 and 134 (the Latin `omnia`, `effectus`, `I`); the Latin verse (the commentary `nongentis`); the commentary (the verse `concilium`); found by the read-through. |
+| 1183 | 34, 51, 79, 80 | `cóngiunta`, `quanto piu`, `ogni`/`di più`, `un di in` | `congiunta`, `più`, `dì`, `dì` | Essay; an accent printed over the `o`; no accent visible; found by the read-through. |
+| 1185 | 38 | `celum novum in` | `nonum` | Commentary; `u` for `n`; found by the read-through. |
+| 1186 | 6, 51 | `Ciò ch'io udiva`, `mortali offendi.` | `vedeva`, `affonde` | Italian verse XXVII 4 (the Latin `videbam`); the commentary lemma (the verse `affonde`); found by the read-through. |
+| 1187 | 10, 48 | `cambiansersi`, `secure delitie!` | `cambiassersi`, `divitie` | Italian verse XXVII 15; the commentary (the verse `divitie`); found by the read-through. |
+| 1188 | 42 | `De sanguine Lini` | `De sanguine meo, Lini` | Latin verse; a word left out (the Italian `mio`, the commentary `de sanguine meo`); found by the read-through. |
+| 1189 | 13, 81, 103 | `O vendetta di Dio`, `figuram sigilli`, `o bone principium` | `difesa`, `figura`, `bonum` | Italian verse XXVII 57 (the Latin `defensio`); the commentary (the verse `figura`, `bonum`); found by the read-through. |
+| 1190 | 15 | `E seguì finche` | `finchè` | Italian verse; no accent visible; found by the read-through. |
+| 1191 | 19 | `sed sol procedebat` | `precedebat` | Latin verse (the commentary `precedebat`); found by the read-through. |
+| 1192 | 14, 43, 49, 101 | `sue vicissime`, `Quod Deum apparebat`, `virtus quam ipsum pluit`, `hic incipit` | `vivissime`, `Deus`, `que`, `hinc` | Italian verse XXVII 100; the Latin verse (the commentary `Deus`, `que`); the commentary (the verse `Hinc`); found by the read-through. |
+| 1193 | 94–95 | `bozzacchia-`/`nes` | `bozzacchiones` | Commentary (the verse `bozzacchiones`); found by the read-through. |
+| 1194 | 24, 109 | `O vero fructo`, `nunc mens yemalis` | `E`, `mensis` | Italian verse XXVII 148 (the Latin `Et`); the commentary; found by the read-through. |
+| 1196 | 52, 68 | `non puo`, `(IAN. III)` | `può`, `IOAN.` | Essay; no accent visible; found by the read-through. |
+| 1199 | 87 | `apparet hic, idest` | `hinc` | Commentary (the verse `hinc`); found by the read-through. |
+| 1200 | 10 | `Già di lunghezza` | `larghezza` | Italian verse XXVIII 32 (the Latin `largitate`); found by the read-through. |
 
 ## Known limits
 

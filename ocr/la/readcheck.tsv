@@ -2603,3 +2603,421 @@ page	line	form	decision	note
 0999	105	tuo	misprint	for suo (the verse de suo radio)
 1000	26	velle	printed	Latin verse
 1000	47	declarare	printed	the commentary
+1001	15	suo	printed	Italian verse; the Latin follows it (suum receptum)
+1001	35	facem	misprint	Commentary; the verse ad unum finem
+1001	87	nimis	printed	Commentary; Serravalle's wording
+1002	92	iste	printed	iste for istae (e for ae)
+1003	93	Francisci	misprint	Commentary; the verse Franciscum et Paupertatem
+1005	10	Tornassi	misprint	Italian verse; the Latin Redivit
+1006	43	quiquid	misprint	Latin verse; the commentary quidquid
+1008	26	iuce	misprint	Essay; i for l (PLAN)
+1008	32	gia	misprint	Essay; no accent visible
+1008	34	delia	misprint	Essay; li for ll printed
+1008	67	di	misprint	Essay; dì expected; no accent visible
+1008	79	puo	misprint	Essay; no accent visible
+1008	82	pero	misprint	Essay; no accent visible
+1008	88	piu	misprint	Essay; no accent visible
+1011	61	iuria	misprint	Commentary; non-word for iura
+1013	39	excellit	printed	Commentary; Serravalle's wording
+1016	60	sinum	misprint	Commentary; the verse ad suum ubi
+1019	11	Adunando	misprint	Italian verse; the Latin Petivit
+1019	51	pauperiibus	misprint	Commentary; an i added (PLAN)
+1020	55	sibi	printed	Commentary paraphrase in the third person
+1020	102	aliquantulam	printed	Commentary; Serravalle's grammar
+1021	15	Crysostimo	misprint	Italian verse; the commentary Chrisostomus
+1022	16	Dampuamus	misprint	Commentary; u for n (PLAN)
+1023	22	all'atfetto	misprint	Essay; t for f printed
+1023	50	cosi	misprint	Essay; no accent visible
+1023	70	cosi	misprint	Essay; così; no accent visible
+1023	76	sospiri	misread	ï was i and the raised dot of the semicolon; fixed
+1026	8	dell'arte	misprint	Italian verse; the Latin aeris
+1026	36	decimumtertium	misread	tertium doubled by the OCR; one in the image; fixed
+1027	7	el'altro	misprint	Italian verse; no space visible
+1027	88	adiuvant	misprint	Commentary; the verse avivant
+1028	11	cantor	misprint	Italian verse; the Latin cantum
+1028	12	attesarsi	misprint	Italian verse; the Latin attenderunt
+1028	33	palec	misprint	Latin verse; the commentary palee
+1028	70	Apollo	printed	Serravalle's grammar
+1029	32	Quamtumcumque	printed	Latin verse; medieval m before t
+1030	73	speculator	misprint	Commentary; the verse speculatus
+1030	99	admiuistrat	misprint	Commentary; u for n
+1031	69	corrupti-	misprint	Commentary; bi not printed (PLAN)
+1031	98	sive	misprint	Commentary; sine medio celi as on the page
+1032	5	processi	misprint	Italian verse; the commentary procedessi
+1034	27	sit	misprint	Latin verse; the commentary sint (Italian sien)
+1035	55	deila	misprint	Essay; i for l (PLAN)
+1038	40	ponant	printed	Serravalle's grammar
+1038	52	tertia	printed	Commentary; Serravalle's wording
+1039	95	nobis	misprint	Commentary; the verse vobis
+1040	93	vera	printed	agrees with visio
+1041	33	unum	printed	verse and commentary agree
+1041	77	unum	printed	verse and commentary agree
+1041	100	scientiticorum	misprint	Commentary; t for f
+1042	106	contitetur	misprint	Commentary; t for f (PLAN)
+1043	7	litario	misprint	Italian verse; the Latin Ipsum (esso litare)
+1043	51	calorem	printed	Commentary; the sense allows it
+1043	62	rubigine	printed	Commentary; Serravalle's wording
+1044	7	arbor	misprint	Italian verse; the Latin albedine
+1044	11	quï	printed	diaeresis visible
+1044	76	mari	misprint	Commentary; glossed stelle Martis
+1045	53	instin-	printed	Serravalle's grammar
+1046	37	intentionem	misprint	Commentary; facere mentionem
+1047	9	aggiungera	misprint	Essay; no accent visible
+1049	7	vo-	printed	volebant; the spirits wanted
+1050	10	voloutà	misprint	Gloss; u for n (PLAN)
+1050	69	trabere	misprint	b for h (PLAN)
+1050	70	beatificarum	printed	beatificus
+1051	83	alabau-	misread	alauba- in the OCR; alabau- in the image; fixed
+1052	45	fuit	misprint	Commentary; fuit printed twice
+1053	25	s'àdempia	misprint	Italian verse; grave accent printed (PLAN)
+1053	83	ipso	printed	Serravalle's grammar
+1054	6	qualità	misprint	Italian verse; the Latin equalitas
+1054	37	nos	misprint	Commentary; the verse qui vos illuminat
+1055	38	illo	misprint	Latin verse; the commentary illi
+1057	11	trhaendo	misprint	Italian verse; non-word
+1057	35	collo	misprint	Latin verse; the commentary colo
+1057	37	Fiesols	misprint	Latin verse; the commentary Fiesolis
+1058	23	gente	misprint	Latin verse; the Italian mondo, the commentary a mundo
+1062	39	dicebant	printed	Commentary; Serravalle's wording
+1063	17	sempr'	misprint	Italian verse; the Latin impletur
+1063	53	sanguini	printed	Serravalle's grammar
+1064	13	mondana	misprint	Italian verse; the Latin moderna
+1064	17	sol	misprint	Italian verse; the Latin suum
+1064	35	plancta	misread	planeta in the OCR; c in the image; fixed; planta expected (PLAN)
+1066	12	d'Acrone	printed	Italian verse; a place name the Latin does not show
+1066	40	substituendum	misprint	Commentary; the verse sustinendum
+1066	56	illum	printed	Serravalle's grammar
+1066	97	Nunquam	printed	Commentary; Serravalle's wording
+1066	102	infirmate	misprint	Commentary; it not printed (PLAN)
+1067	5	rigardi	misprint	Italian verse; riguardi where the verse is quoted again
+1067	68	Gallium	printed	Commentary; Serravalle's etymology
+1067	73	defe-	misprint	Commentary; defecerunt
+1068	25	carole	misprint	Italian verse; the Latin curules
+1068	92	Galla	misprint	Commentary; the verse Galli
+1069	15	agl'	misprint	Italian verse; the Latin Ubertino
+1069	19	Guida	misprint	Italian verse; the Latin and commentary Guido
+1069	73	pinguendo	printed	Commentary; pingendo, describing
+1069	77	mansuctus	misprint	Commentary; c for e
+1070	18	Quilibet	misprint	Latin verse; qui left out (the commentary Quilibet qui)
+1070	57	reinconfortat	misprint	Commentary; the verse reconfortat
+1070	109	honerata	misprint	Commentary; the verse honorata
+1071	12	Chel	misprint	Italian verse; the Latin Que
+1071	79	istum	printed	Serravalle's grammar
+1072	23	Si	misprint	Essay; no accent visible
+1072	40	alia	misprint	Essay; li for ll
+1072	84	Cosi	misprint	Essay; no accent visible
+1072	109	si	misprint	Essay; no accent visible
+1072	111	Si	misprint	Essay; no accent visible
+1073	11	respondidit	misprint	Commentary; non-word
+1073	20	cum	misprint	Commentary; c for e
+1075	11	pietra	misprint	Italian verse; the Latin planta
+1075	84	adhuc	misprint	Commentary; the verse ad hoc
+1076	17	chi	misprint	Italian verse; the commentary lemma in che
+1076	32	meu	misprint	Latin verse; u for a (PLAN)
+1076	47	plancta	misread	planeta in the OCR; c in the image; fixed; planta expected
+1076	81	fortuniam	misprint	Commentary; non-word
+1077	23	conspecto	printed	Latin verse; follows the Italian conspecto
+1077	59	correntem	misprint	Commentary; the verse torrentem
+1077	73	ventu	misprint	Commentary; vento expected
+1079	78	altus	printed	Commentary; Serravalle's wording
+1080	71	mostrarit	misprint	Commentary lemma; the verse monstravit
+1081	14	intimo	misprint	Italian verse; the Latin timidus
+1081	94	proprio	misprint	Commentary; the verse proprie
+1081	95	setiet	misprint	Commentary; the verse sentiet
+1083	27	nostri	misprint	Essay; delle nostre
+1085	10	cam	misprint	Commentary; c for e (PLAN)
+1085	45	meo	printed	Commentary; the sense allows it
+1087	16	sereno	misprint	Italian verse; the Latin secundo
+1088	79	omnino	misprint	Commentary; the verse omnis musa
+1088	99	spiritus	printed	Serravalle's grammar
+1089	7	forza	misprint	Italian verse; the Latin ferza
+1089	78	Sitii	misprint	Commentary; siti, of thirst
+1089	85	infedeles	misprint	Commentary; infideles
+1090	35	exponeret	misprint	Latin verse; the commentary exoneret
+1093	6	d'imgiglarsi	misprint	Italian verse; m for n
+1093	34	sint	misprint	Latin verse; the commentary sit
+1093	73	totum	misprint	Commentary; the verse tuum
+1097	63	indicare	misprint	Commentary; n for u
+1097	68	inintelligibile	printed	Serravalle's grammar
+1097	69	talis	printed	Serravalle's grammar
+1098	54	contexeatur	misprint	Commentary; non-word
+1099	6	onchiostro	misprint	Italian verse; o for i (PLAN)
+1099	71	elementia	misprint	Commentary; e for c (PLAN)
+1100	48	Verbo	printed	Latin verse; Serravalle's syntax
+1102	74	tenebras	printed	Serravalle's grammar
+1103	32	qui	misprint	Latin verse; the commentary quis es
+1103	60	videri	printed	Commentary; the sense allows it
+1103	69	ego	misprint	Commentary; ergo with credis
+1104	29	levavi	printed	verse and commentary agree
+1104	31	Michi	printed	verse and commentary agree
+1104	67	michi	printed	verse and commentary agree
+1105	13	Plaga	misprint	Italian verse; the Latin Prage
+1106	34	tenebunt	printed	verse and commentary agree
+1106	36	patris	misprint	Latin verse; the commentary fratris
+1106	58	Constantia	printed	Commentary; Serravalle's wording
+1106	69	veniunt	printed	Commentary; Serravalle's wording
+1106	89	tenebunt	printed	verse and commentary agree
+1106	93	patrum	printed	Commentary; the sense allows it
+1107	15	deheret	printed	Latin verse; Serravalle's word
+1107	23	duo	printed	Serravalle's grammar
+1108	95	cicli	misprint	Essay; c for e (PLAN)
+1111	35	quisquillis	misprint	Latin verse; the commentary squillis
+1111	58	desit	printed	Commentary; Serravalle's wording
+1111	84	flavillis	printed	Commentary gloss
+1111	92	Poi	printed	Commentary lemma
+1111	104	tista	printed	Commentary; Serravalle's word
+1113	56	ostante	printed	Commentary; Serravalle's spelling
+1113	62	frustra	printed	medieval spelling of frusta
+1113	64	frustra	printed	medieval spelling of frusta
+1113	81	pröpter	printed	mark over the o visible
+1113	110	cantu	printed	Commentary; the sense allows it
+1114	54	meram	misprint	Commentary; the verse veram
+1114	69	sie	misprint	Commentary; sic
+1115	55	creduntur	printed	Latin verse; Serravalle's wording
+1116	34	vides	printed	verse and commentary agree
+1116	51	illa	misprint	Commentary; the verse illam
+1116	54	volens	printed	Commentary; Serravalle's wording
+1116	106	vides	printed	verse and commentary agree
+1117	7	divina	misprint	Italian verse; the Latin vive spei
+1117	8	Divina	misprint	Italian verse; the Latin vive spei
+1117	53	ibi	misprint	Latin verse; the commentary sibi
+1118	20	parlo	misprint	Italian verse; parlò
+1118	40	cantor	printed	verse and commentary agree
+1118	73	pretiosus	printed	Serravalle's grammar
+1118	81	cantor	printed	verse and commentary agree
+1119	48	abberrazioni	printed	Essay; old spelling
+1119	65	pero	misprint	Essay; no accent visible
+1119	69	bensi	misprint	Essay; no accent visible
+1123	68	splenderem	misread	splendorem in the OCR; splenderem in the image; fixed
+1124	7	militia	misprint	Italian verse; the Latin malitia
+1124	9	scalco	misprint	Italian verse; c for e (PLAN)
+1124	35	[bonum	misprint	Latin verse; the commentary lumen
+1124	64	activa	printed	Commentary; Serravalle's wording
+1124	103	michi	printed	Commentary; the sense allows it
+1125	42	dicere	printed	Latin verse; Serravalle's wording
+1125	56	cantus	printed	Latin verse; Serravalle's reading
+1125	87	infra	printed	medieval infra for intra
+1126	56	in	printed	Latin verse; Serravalle's wording
+1126	58	coniuncta	printed	Latin verse; Serravalle's reading
+1126	64	[ficum	misprint	Latin verse; the commentary fixum (PLAN)
+1126	68	creatura	misprint	Latin verse; the commentary creata
+1126	96	eo	misprint	Commentary lemma; the verse dixi ego
+1127	21	anima	printed	Commentary; Serravalle's wording
+1127	103	iniuncta	printed	Commentary; Serravalle's reading
+1128	27	situ	printed	verse and commentary agree
+1128	37	relevetur	printed	verse and commentary agree
+1128	53	non	printed	Commentary; Serravalle's wording
+1128	56	precinxerunt	printed	Serravalle's word
+1128	74	situ	printed	verse and commentary agree
+1129	39	que	misprint	Latin verse; the commentary qui
+1130	32	puo	misprint	Essay; no accent visible
+1130	50	vèduta	misprint	Essay; a grave accent printed on the e
+1130	51	senti	misprint	Essay; sentì; no accent visible
+1132	59	excessus	printed	Serravalle's grammar
+1133	52	radii	printed	verse and commentary agree
+1133	74	totum	printed	Commentary; Serravalle's wording
+1133	77	ridis-	printed	Serravalle's form
+1133	95	radii	printed	verse and commentary agree
+1133	103	Ergo	misprint	Commentary; the verse Ego stabam
+1134	24	loculentior	misprint	Latin verse; the commentary luculentior
+1134	76	licet	misread	column order: Et maior ... Totila, moved before it; the three blanks left by the old order removed; fixed
+1135	26	Et	printed	Italian verse; the Latin Et
+1135	77	dilactavit	misprint	Commentary; the verse dilatavit
+1135	106	quod	misprint	Commentary; quoad, as after it
+1135	109	136	printed	signature mark
+1136	89	debet	printed	Commentary; Serravalle's grammar
+1137	8	volt'e	misprint	Italian verse; the Latin conversus est
+1137	48	transisses	printed	verse and commentary agree
+1137	90	Gemini	printed	Serravalle's grammar
+1138	68	idest	misprint	Commentary; the verse Intrandi in
+1139	30	non	printed	verse and commentary agree
+1139	42	indistincti	printed	verse and commentary agree
+1139	43	Uola	printed	verse and commentary agree
+1139	55	non	printed	verse and commentary agree
+1140	10	la	misprint	Essay; di là; no accent visible
+1140	31	senti	misprint	Essay; sentì; no accent visible
+1140	32	di	misprint	Essay; dì; no accent visible
+1140	59	societa	misprint	Essay; no accent visible
+1140	73	societa	misprint	Essay; no accent visible
+1141	21	militans	printed	Commentary; Serravalle's wording
+1141	28	ma-	printed	Serravalle's grammar
+1141	39	rupem	printed	Commentary; Serravalle's word
+1142	7	pasca	misprint	Italian verse; the Latin ipsos pascat
+1142	26	gravi	printed	verse and commentary agree
+1143	26	puucum	misprint	Latin verse; u for a (PLAN)
+1143	37	Et	printed	Latin verse; Serravalle's wording
+1143	43	visum	printed	verse and commentary agree
+1144	38	propter	printed	verse and commentary agree
+1144	48	vidi	printed	verse and commentary agree
+1144	49	gravitate	printed	verse and commentary agree
+1144	80	propter	printed	verse and commentary agree
+1144	96	vidi	printed	verse and commentary agree
+1144	97	gravitate	printed	verse and commentary agree
+1145	22	s'aperse'l	misprint	Italian verse; the Latin apprehensum fuit
+1145	30	quis	printed	Latin verse; Serravalle's wording
+1145	58	saltare	printed	Serravalle's grammar
+1146	32	solum	printed	verse and commentary agree
+1146	33	infra	printed	verse and commentary agree
+1146	63	solum	printed	verse and commentary agree
+1146	70	quibus	printed	Serravalle's grammar
+1146	82	Dantes	printed	Serravalle's grammar
+1147	18	rigirava	misprint	Italian verse; the Latin Sigillabatur
+1147	22	Nell'habito	misprint	Italian verse; the Latin anhelitu
+1147	32	sonat	misprint	Latin verse; the commentary tonat
+1147	33	unius	misprint	Latin verse; the commentary illius
+1147	41	intret	printed	Latin verse; Serravalle's wording
+1148	9	fiamma	misprint	Italian verse; the Latin summitate, the essay cima
+1148	29	dextrum	printed	verse and commentary agree
+1148	31	cantorum	printed	verse and commentary agree
+1148	35	remunsere	misprint	Latin verse; u for a (PLAN)
+1148	38	quantum	misprint	Latin verse; the commentary quanta
+1148	51	dextrum	printed	verse and commentary agree
+1148	51	cantorum	printed	verse and commentary agree
+1149	18	cosi	misprint	Essay; no accent visible
+1149	22	cosi	misprint	Essay; no accent visible
+1149	76	si	misprint	Essay; no accent visible
+1149	86	si	misprint	Essay quoting the verse; no accent visible
+1149	93	si	misprint	Essay quoting the verse; no accent visible
+1153	19	volute	printed	verse and commentary agree
+1153	25	leves	printed	verse and commentary agree
+1153	36	fine	misprint	Commentary; bona fide (male fidei after it)
+1153	88	demirantur	printed	Commentary; Serravalle's word
+1153	110	leves	printed	verse and commentary agree
+1154	9	vivo	misprint	Italian verse; the Latin divino
+1154	17	corpo	misprint	Italian verse; the Latin focus
+1154	58	quomodo	printed	Commentary; Serravalle's wording
+1155	10	aiutarla	misprint	Italian verse; the Latin approbare
+1155	21	dell'alto	misprint	Italian verse; the Latin ab alto
+1155	24	vivos	printed	verse and commentary agree
+1155	32	questionem	printed	verse and commentary agree
+1155	40	polo	printed	verse and commentary agree
+1155	41	conceptos	printed	Serravalle's grammar
+1155	62	vox	printed	Commentary; the sense allows it
+1155	69	disponebat	printed	Commentary; Serravalle's wording
+1156	33	respondit	printed	verse and commentary agree
+1156	40	intensam	printed	verse and commentary agree
+1156	68	respondit	printed	verse and commentary agree
+1156	84	intensam	printed	verse and commentary agree
+1157	26	Perche	misprint	Italian verse; no accent visible
+1157	41	Istum	misprint	Latin verse; the commentary Istud
+1157	81	sub	printed	Commentary; Serravalle's wording
+1158	40	laudatur	printed	verse and commentary agree
+1158	73	male	printed	Serravalle's grammar
+1158	105	laudatur	printed	verse and commentary agree
+1159	94	hic	misprint	Commentary; the verse hinc
+1160	21	cognitione	printed	verse and commentary agree
+1160	22	tecum	printed	verse and commentary agree
+1161	65	siano	printed	Essay; the sense allows it
+1161	83	miro	misprint	Essay; mirò; no accent visible
+1165	29	vivum	misprint	Latin verse; the commentary unum
+1165	65	idest	printed	Commentary; Serravalle's wording
+1165	68	alia	misread	al'a in the OCR; a damaged i; fixed
+1165	79	diceus	misprint	Commentary; u for n (PLAN)
+1165	89	pere	misprint	no hyphen printed at the line end; texts/la joins it
+1166	26	die	misprint	Gloss; c for e
+1166	39	amore	misprint	Latin verse; the commentary in amorem
+1166	62	caritatem	misprint	Commentary; the verse claritatem
+1167	36	ipse	printed	Latin verse; Serravalle's wording
+1167	40	comportet	printed	verse and commentary agree
+1167	81	comportet	printed	verse and commentary agree
+1168	6	suo	misprint	Italian verse; the Latin tuum
+1168	31	Dicunt	printed	verse and commentary agree
+1168	35	aliis	misprint	Latin verse; the commentary in alios
+1168	37	lampor	printed	verse and commentary agree
+1168	38	depressus	misprint	Latin verse; the commentary densus
+1168	42	respiciam	printed	verse and commentary agree
+1168	55	dicunt	printed	verse and commentary agree
+1169	67	scilicet	printed	Commentary; Serravalle's wording
+1169	98	noritia	misprint	Commentary; italic r for v (novitia)
+1169	111	Volvit	misprint	Commentary lemma; the verse Misit se
+1170	9	Mostrò	misprint	Italian verse; the Latin movit
+1170	35	Propter	printed	Serravalle's grammar
+1170	36	terra	misprint	Latin verse; terra left out (the commentary In terra terra est)
+1170	39	duabus	printed	verse and commentary agree
+1171	18	Sequutus	printed	verse and commentary agree
+1171	20	labore	printed	verse and commentary agree
+1171	23	quantum	printed	Latin verse; Serravalle's wording
+1171	33	istanti	printed	medieval spelling
+1171	43	labore	printed	verse and commentary agree
+1172	9	piu	misprint	Essay; no accent visible
+1172	53	isvellatamente	misprint	Essay; ll for l
+1172	57	capacita	misprint	Essay; no accent visible
+1172	58	puo	misprint	Essay; no accent visible
+1173	26	die	misprint	Commentary; c for e
+1174	65	crebres	printed	Serravalle's word
+1175	19	istum	misprint	Latin verse; the commentary istam
+1175	113	quas	printed	Commentary; Serravalle's wording
+1176	20	all'esentia	misprint	Italian verse; essentia
+1176	26	suum	misprint	Latin verse; the commentary sive leviter sive fortiter
+1176	90	exprimatur	misprint	Commentary; the verse imprimatur
+1177	11	beato	misprint	Italian verse; the Latin veracis
+1177	12	Moyse	printed	Italian verse; old spelling
+1177	13	sentir	misprint	Italian verse; the Latin videre
+1177	18	non	printed	the edition's note gives the reading
+1177	24	ancor	misprint	Italian verse; the Latin imo
+1177	44	amore	printed	verse and commentary agree
+1177	47	oratio	printed	verse and commentary agree
+1177	55	probatur	misprint	Commentary; the verse fundatur
+1177	91	respondidisti	misprint	Commentary; non-word
+1178	42	quero	misprint	Latin verse; the commentary amo
+1178	54	radiis	printed	verse and commentary agree
+1179	38	femina	printed	verse and commentary agree
+1179	103	femina	printed	verse and commentary agree
+1180	30	effectus	printed	verse and commentary agree
+1180	41	presentes	printed	verse and commentary agree
+1180	86	voli	printed	Commentary lemma; old Italian
+1181	8	questi	misprint	Italian verse; the Latin omnia
+1181	14	affecto	misprint	Italian verse; the Latin effectus
+1181	21	Un	misprint	Italian verse; the Latin I
+1181	33	nongintis	misprint	Latin verse; the commentary nongentis
+1181	77	consilium	misprint	Commentary; the verse concilium
+1181	104	natum	printed	Serravalle's grammar
+1182	19	EL	misread	Et in the OCR; EL in the image, as in the verse; fixed
+1183	34	cóngiunta	misprint	Essay; an accent printed over the o
+1183	51	piu	misprint	Essay; no accent visible
+1183	79	di	misprint	Essay; dì; no accent visible
+1183	80	di	misprint	Essay; dì; no accent visible
+1185	38	novum	misprint	Commentary; u for n (nonum)
+1186	6	udiva	misprint	Italian verse; the Latin videbam
+1186	51	offendi	misprint	Commentary lemma; the verse affonde
+1187	10	cambiansersi	misprint	Italian verse; n for s
+1187	48	delitie	misprint	Commentary; the verse divitie
+1187	60	due	printed	Serravalle's grammar
+1188	42	sanguine	misprint	Latin verse; meo left out (the Italian mio, the commentary)
+1188	72	tunc	printed	Commentary; Serravalle's wording
+1189	13	vendetta	misprint	Italian verse; the Latin defensio
+1189	43	duo	printed	Serravalle's grammar
+1189	45	tale	printed	Serravalle's grammar
+1189	81	figuram	misprint	Commentary; the verse figura
+1189	85	pascua	printed	Commentary; Serravalle's wording
+1189	103	bone	misprint	Commentary; the verse bonum
+1190	15	finche	misprint	Italian verse; no accent visible
+1190	40	intuendum	printed	verse and commentary agree
+1191	15	ultra	printed	Latin verse; Serravalle's wording
+1191	19	procedebat	misprint	Latin verse; the commentary precedebat
+1191	20	signum	printed	verse and commentary agree
+1191	32	quod	printed	Commentary; Serravalle's wording
+1191	66	Gemini	printed	Serravalle's grammar
+1192	14	vicissime	misprint	Italian verse; the Latin velocissime
+1192	40	sibi	printed	verse and commentary agree
+1192	43	Deum	misprint	Latin verse; the commentary Deus
+1192	44	mundi	printed	verse and commentary agree
+1192	49	quam	misprint	Latin verse; the commentary que
+1192	51	res	printed	Commentary gloss
+1192	101	hic	misprint	Commentary; the verse Hinc
+1193	94	bozzacchia-	misprint	Commentary; the verse bozzacchiones
+1194	24	O	misprint	Italian verse; the Latin Et
+1194	93	istud	printed	Serravalle's grammar
+1194	109	mens	misprint	Commentary; mensis
+1195	18	revolutiones	printed	Commentary; Serravalle's syntax
+1196	52	puo	misprint	Essay; no accent visible
+1196	68	IAN	misprint	Essay; Ioan.
+1197	41	quorum	printed	Serravalle's grammar
+1198	20	illuminat	printed	verse and commentary agree
+1198	24	ipse	printed	Serravalle's grammar
+1198	58	tale	printed	Serravalle's grammar
+1199	32	Quanto	printed	verse and commentary agree
+1199	50	illud	printed	Serravalle's grammar
+1199	87	hic	misprint	Commentary; the verse hinc
+1200	10	lunghezza	misprint	Italian verse; the Latin largitate
+1200	39	curam	printed	Serravalle's grammar
