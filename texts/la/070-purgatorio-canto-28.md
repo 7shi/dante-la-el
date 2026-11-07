@@ -485,11 +485,11 @@ Sed nota quod non est credendum quod ille mons vadat, sive attingat, circulum lu
 &emsp;Ab alia omnis boni facti reddit ipsam.
 
 44 Quivi Lethe, così dall' altro lato\
-&emsp;Eunoe si chiama; e non adovra (4),\
+&emsp;Eunce si chiama; e non adovra (4),\
 &emsp;Se quinci e quindi pria non è gustato.
 
 44 Hinc Lethes, sic ab alio latere\
-&emsp;Eunoe vocatur; et non operatur,\
+&emsp;Eunce vocatur; et non operatur,\
 &emsp;Si hinc et inde prius non est gustatus.
 
 45 A tuct' altri sapori esto è di sovra:\
@@ -520,11 +520,11 @@ Sed nota quod non est credendum quod ille mons vadat, sive attingat, circulum lu
 
 Et scire debes quod campania sancta, idest planities sacra, idest iste hortus delitiarum, ubi, idest in qua, tu es, omni semine est plena, et fructum habet in se qui in mundo non evellitur, idest nascitur, vel producitur. Quasi moraliter dicat: Alius fructus fit ab homine virtuoso, quam ab illo qui est involutus in vitiis.
 
-Aqua quam vides non surgit de vena, quam restaurat vapor, idest pluvia, quem, vaporem scilicet, gelu, idest frigus, convertat, quia frigore circumstante vapor convertitur in aquam, sicut fluvius qui expectat et perdat lenam, idest flatum, idest aquam, quia flatus fluminis est aqua (nam sicut animal, non habens flatum, moritur, quia non respirat, ita flumen, non habens aquam, non fluit), sed exit de fonte solido et recto, idest a voluntate divina, sic iubente. Nam voluntas divina est semper recta et solida: qui fons tantum voluntatis Dei resumit, quantum ipse, scilicet fons, fluit a duabus partibus apertus, idest duobus fluviis, Lethes et Eunoe de quibus dictum est.
+Aqua quam vides non surgit de vena, quam restaurat vapor, idest pluvia, quem, vaporem scilicet, gelu, idest frigus, convertat, quia frigore circumstante vapor convertitur in aquam, sicut fluvius qui expectat et perdat lenam, idest flatum, idest aquam, quia flatus fluminis est aqua (nam sicut animal, non habens flatum, moritur, quia non respirat, ita flumen, non habens aquam, non fluit), sed exit de fonte solido et recto, idest a voluntate divina, sic iubente. Nam voluntas divina est semper recta et solida: qui fons tantum voluntatis Dei resumit, quantum ipse, scilicet fons, fluit a duabus partibus apertus, idest duobus fluviis, Lethes et Eunce de quibus dictum est.
 
-Ab ista parte cum virtute descendit, que subrupit aliis, idest hominibus, memoriam peccati, scilicet Lethes; ab alia scilicet parte, idest ab Eunoe, omnis boni fructus ipsam, scilicet memoriam, reddit.
+Ab ista parte cum virtute descendit, que subrupit aliis, idest hominibus, memoriam peccati, scilicet Lethes; ab alia scilicet parte, idest ab Eunce, omnis boni fructus ipsam, scilicet memoriam, reddit.
 
-Hinc Lethes, sic ab alio latere Eunoe, vocatur; et non operatur, si hinc et inde prius non est gustatus, scilicet ipse fons. Omnes alios sapores iste est desuper, idest omnes alios excedit.
+Hinc Lethes, sic ab alio latere Eunce, vocatur; et non operatur, si hinc et inde prius non est gustatus, scilicet ipse fons. Omnes alios sapores iste est desuper, idest omnes alios excedit.
 
 *Et ponamus, quod satis posset*. *Et avegna ch'assai*:
 
