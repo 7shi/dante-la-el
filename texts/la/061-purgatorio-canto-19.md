@@ -38,7 +38,7 @@ In decimonono capitulo, scilicet isto, quod incipit: *In hora, qua calor diurnus
 
 In secunda parte, que incipit ibi:
 
-Ego revolvi Ulixem; Io volsi Ulisse, ponit apparitionem angeli, qui purgat eum de vitio accidie. In tertia parte, que incip't ibi:
+Ego revolvi Ulixem; Io volsi Ulisse, ponit apparitionem angeli, qui purgat eum de vitio accidie. In tertia parte, que incipit ibi:
 
 Sicut ego in quinto gyrone; Como io nel quinto girone, describit auctor penam et purgationem avaritie in uno spiritu moderno.
 

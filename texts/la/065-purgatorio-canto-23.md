@@ -314,7 +314,7 @@ Facies tua, quam ego fui lacrymatus iam mortuam, quia auctor flevit quando sepul
 
 (1) al. verdura — (2) sangue — (3) o — (4) al. dove et melius — (5) perduto.
 
-Ergo michi dicas, pro Deo, idest pro amore Dei, quid sic vos sfogliat, idest cruciat, vel macros facit, vel scarnat; non facias me dicere dum ego miror, quod male potest dicere qui est plenus ali'a voluntate. Quasi dicat: Ita sum oppressus stupore, quod non possum tibi respondere, donec fuero declaratus de uno dubio.
+Ergo michi dicas, pro Deo, idest pro amore Dei, quid sic vos sfogliat, idest cruciat, vel macros facit, vel scarnat; non facias me dicere dum ego miror, quod male potest dicere qui est plenus alia voluntate. Quasi dicat: Ita sum oppressus stupore, quod non possum tibi respondere, donec fuero declaratus de uno dubio.
 
 Et ipse ad me, scilicet dixit: Ab eterno consilio cadit, idest venit, virtus in aquam et in plantam, que remansit retro, unde me sic subtilio, idest extenuor, sive fio macilentus.
 
@@ -532,4 +532,4 @@ Ed ecco piangere e cantar s'udie:
 
 *Labia mea Domine*, per modo Tal, che diletto e doglia parturie.
 
-Siffatto sentimento di amore e di pietà si desta sempre nel credenti, alla ricordanza del Purgatorio!
+Siffatto sentimento di amore e di pietà si desta sempre nei credenti, alla ricordanza del Purgatorio!

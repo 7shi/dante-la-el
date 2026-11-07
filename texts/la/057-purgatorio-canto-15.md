@@ -490,7 +490,7 @@ Postea vidi gentes accensas in igne ire, cum lapidibus unum iuvenculum occidere 
 
 Dux meus, qui me poterat videre fieri sicut homo qui a sompno dissolvitur, dixit: Quid habes, quod non potes te sustinere; sed venisti plus quam mediam leucam, sive ligam, velando oculos, idest oculis clausis, et cum cruribus involutis, idest implicatis, ad similitudinem illius quem vinum vel sompnus plicat? Media leuca est unum milliare cum dimidio, secundum communem consuetudinem Frantie.
 
-O dulcis pater mi, si tu me auscultas, ego dicam tibi, dixi ego, id quod michi apparuit, quando crura fuerunt michi ita sublata, idest quando dormivi. Et volebat auctor indicare visionem suam Virgilio, de qua debebat capere vigorem, et volebat dicere, quomodo erat totus confractus. Unde notandum est hic, quod hec subtilis fictio: quia vult auctor, quod durissimum est parcere a veris suis offendentibus, quia nimis naturalis est vindicta, et quod quasi nullum exemplum est sufficiens inducere homines ad parcendum. Quasi dicat auctor: Valde erit michi difficile parcere offendentibus me.
+O dulcis pater mi, si tu me auscultas, ego dicam tibi, dixi ego, id quod michi apparuit, quando crura fuerunt michi ita sublata, idest quando dormivi. Et volebat auctor indicare visionem suam Virgilio, de qua debebat capere vigorem, et volebat dicere, quomodo erat totus confractus. Unde notandum est hic, quod hec subtilis fictio: quia vult auctor, quod durissimum est parcere et veniam dare offendentibus, quia nimis naturalis est vindicta, et quod quasi nullum exemplum est sufficiens inducere homines ad parcendum. Quasi dicat auctor: Valde erit michi difficile parcere offendentibus me.
 
 Et ipse, supple dixit: Si tu haberes centum larvas, idest cooperturas, super faciem, non michi essent clause. Quasi dicat Virgilius: Non peto a te quia ignorem, sed petii propter dare tibi vigorem ad patientiam, et ut tu te non permictas vinci ab ira, que multos magnos vicit. Larva est quoddam coopertorium, quod cooperit faciem, quod non appareat.
 
@@ -536,15 +536,15 @@ Nel crear questa pena, così propria a farci intendere che cosa sia l'ira, credi
 
 « Inclinavit coelos et descendit, et caligo sub pedibus eius.
 
-« Et ascendit super Cherubim, et volavit, volavit super pen-nas ventorum.
+« Et ascendit super Cherubim, et volavit, volavit super pennas ventorum.
 
-« Et posuit tenebras latibulum suum, in circuitu eius taber-naculum eius, tenebrosa aqua in nubibus aeris.
+« Et posuit tenebras latibulum suum, in circuitu eius tabernaculum eius, tenebrosa aqua in nubibus aeris.
 
 « Prae fulgore nubes in conspectu eius transierunt, grando et carbones ignis.
 
 « Et misit sagittas suas et dissipavit eos, fulgura multiplicavit et conturbavit eos.
 
-« Et apparuerunt fontes aquarum, et revelata sunt funda-menta orbis terrarum, « Ab increpatione tua, Domine, ab inspiratione spiritus irae tuae. »
+« Et apparuerunt fontes aquarum, et revelata sunt fundamenta orbis terrarum, « Ab increpatione tua, Domine, ab inspiratione spiritus irae tuae. »
 
 Con tale scoppio di procella vide il Salmista l'ira divina rivendicar la sua giustizia oltraggiata, disperdendo e abissando l'iniquità, che osa combatterla, e tornando a'suoi eletti il sereno della virtù e della pace. Ira partecipabile ai giusti, e santa, e ad essi necessaria, per difendere e sostener la stessa virtù, destinata ad essere assalita sino alla fine. Ma se invece non sia essa in noi che l'eccesso dell'orgoglio, il quale freme ed imperversa contro tutto ciò che fa ostacolo all'egoistico e sterminato amor di sè stesso, allora è fuoco che divampa e brucia; è fuoco e fumo denso e vorticoso, i quali s'immischiano ed imperversano creando una notte tempestosa di desolazione. L'ira, chi ben guardi, è un attentato contro l'unità umana; un attentato a discioglierla e disperderla, val dire ad annientar l'opera della creazione e della redenzione.
 
@@ -560,7 +560,7 @@ Sì che parea tra esse ogni concordia.
 Queste le voci. Ma il difficile, anzi difficilissimo, era trovar modo di porre qui immagini a tal vizio opposte, la cui bellezza rivelasse a'puniti e facesse loro veder tutto l'orrore in quello contenuto. Ed il Poeta vi riesce a maraviglia, avanzando sempre meglio nella spiritualizzazione de'suoi concetti, e insieme trovando sempre adattatissime immagini ad incarnarle. Egli immagina una visione (bellissima visione, se tra due fatti divini non fosse per intero fuor di luogo un fatto profano): alla quale rapito, vede, da prima, dentro di un tempio
 
 ...una donna in su l'entrar, con atto\
-Dolce di madre, dicer: Figlinol mio,\
+Dolce di madre, dicer: Figliuol mio,\
 Perchè tu hai così verso noi fatto?\
 Ecco dolenti lo tuo padre ed io\
 Ti cercavamo;
