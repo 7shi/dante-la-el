@@ -494,6 +494,22 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0392 | 58 | `Et ira vestitus eundo me rancuro.` | `ita` | Latin verse (the commentary `et ita vestitus`); found by the read-through. |
 | 0394 | 75 | `o sulla possibilità della cosa, fondo` | `fondò` | Essay; no accent visible; found by the read-through. |
 | 0398 | 23 | `Modum nunc bolgie turpis.` | `none` | Latin verse (the commentary `none bolgie`); found by the read-through. |
+| 0363 | 9 | `Ribiadendo sè stessa sì dinanzi,` | `Ribadendo` | Italian verse XXV (the commentary `ribadendose`); found by the read-through. |
+| 0366 | 21 | `Dov'in nessun l'ymagine perversa` | `Due e` | Italian verse XXV (the Latin `Duo et`); found by the read-through. |
+| 0366 | 89 | `cum lentu passu.` | `lento` | Commentary (the verse `cum lento passu`); found by the read-through. |
+| 0367 | 15 | `Del misero Sabellio e di Massidio,` | `Nasidio` | Italian verse XXV (the Latin `Nassidio`, the commentary `Nasidio`); found by the read-through. |
+| 0367 | 16 | `Et attend' a udir quel ch'or si toccha.` | `scocca` | Italian verse XXV (the Latin `scoccatur`); found by the read-through. |
+| 0368 | 12 | `Che si perdea ella, e la sua pelle` | `là` | Italian verse XXV (the Latin `ibi`); found by the read-through. |
+| 0368 | 26 | `42 Quel ch'era dietro, el trasse ver le tempie;` | `dritto` | Italian verse XXV (the Latin `rectus`); found by the read-through. |
+| 0378 | 28 | `E delli sensi humani (12) e del valore:` | `vizi` | Italian verse XXVI (the Latin `vitiis`); found by the read-through. |
+| 0379 | 18 | `(7) di Vi-` | `Gi-` | Footnote; `Vi-`/`bilterra` for `Gibilterra`; found by the read-through. |
+| 0382 | 30 | `gloria al Newton, e dall'averla cosi mirabilmente espressa nel` | `così` | Essay; no accent visible; found by the read-through. |
+| 0389 | 105 | `scivi omnia, et ita duxi corum artes,` | `eorum` | Commentary (the verse `eorum artes`); found by the read-through. |
+| 0392 | 28 | `E sì vestito (19) andando mi raccuro (20).` | `rancuro` | Italian verse XXVII (the Latin `me rancuro`); found by the read-through. |
+| 0393 | 5 | `44 Quand'ebbe suo desir così compiuto,` | `dir` | Italian verse XXVII (the Latin `dictum`); found by the read-through. |
+| 0394 | 25 | `trare in Forli, si rendeva penitente nell'Ordine Francescano.` | `Forlì` | Essay; no accent visible; found by the read-through. |
+| 0394 | 28 | `non sarebbe stata si forte, che non ricadesse;` | `sì` | Essay; no accent visible; found by the read-through. |
+| 0397 | 80 | `Christi, memor corum, que viderat` | `eorum` | Commentary; found by the read-through. |
 
 ## Known limits
 
