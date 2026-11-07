@@ -1419,6 +1419,8 @@ page	line	form	decision	note
 0602	76	differentia.	misread	was lines 60-61, before Antiquus sanguis: the top of the right column, the end of the paragraph ending ad nationem non est
 0603	69	datur	misread	was da
 0604	112	de camin:	printed	lemma; the verse has del cammin
+0605	36	timorem	printed	Latin verse 40 (Italian tumor)
+0605	37	ecplanas:	misprint	for explanas
 0606	19	cum	misprint	already in Suspected misprints
 0606	56	dico	printed	the Latin verse has dicam
 0606	59	idest	misread	was i!est; the d damaged
@@ -1430,9 +1432,592 @@ page	line	form	decision	note
 0610	8	suo	printed	Italian verse; barcha
 0610	21	suum	printed	Latin verse; barcham
 0610	38	huius	printed	huius vitium
+0610	63	transiens,	printed	the Latin verse 46 has transeas
 0611	92	montes	printed	the Latin verse has montem
 0612	13	Semnaar	misprint	already in Suspected misprints
+0612	36	imitandum.	printed	imitandam expected
+0613	32	Mostrabat	printed	Latin verse 17
 0613	81	sparento,	misprint	already in Suspected misprints
 0613	95	Na-	misprint	Na-/bar for Nabat
 0614	33	redacta.	misread	was redacla.
 0614	91	similavit	printed	simulavit expected
+0615	35	quousquam	misprint	for quousque
+0615	63	viso	printed	the Latin verse has visu
+0615	85	illuc	printed	the Latin verse has illic
+0616	28	l'altra	misprint	for l'alta (the Latin alta)
+0616	41	multi	printed	Latin verse 32 (Italian molto)
+0616	43	tempus	printed	Latin verse 32 (Italian vento)
+0616	75	paucum	printed	the Latin verse has paucum tempus
+0616	81	permisit	printed	Italian mi promise
+0617	12	pur	misprint	for più (the Latin magis)
+0617	85	videbat[tur],	printed	the editors' brackets
+0617	94	senties,	printed	sentient expected
+0619	6	virtu	misprint	for virtù; no accent visible
+0619	9	servitu	misprint	for servitù; no accent visible
+0619	20	guardo,	misprint	for guardò; no accent visible
+0619	26	Si	misprint	for Sì; no accent visible
+0619	26	li,	misprint	for lì; no accent visible
+0619	42	l'infinita	misprint	for l'infinità; no accent visible
+0619	42	virtu,	misread	was virtù; for virtù, no accent visible
+0619	56	pero	misprint	for però; no accent visible
+0619	56	virtu	misprint	for virtù; no accent visible
+0619	58	cio	misprint	for ciò; no accent visible
+0619	58	gia	misprint	for già; no accent visible
+0619	59	nell'umilta	misprint	for umiltà; no accent visible
+0619	64	dall'umilta	misprint	for umiltà; no accent visible
+0619	72	puo	misprint	for può; no accent visible
+0619	77	servitu,	misprint	for servitù; no accent visible
+0622	50	uod	misprint	for quod
+0623	13	quin'c'entro.	printed	Italian verse
+0623	19	Com	misprint	for Con (the Latin Cum)
+0623	70	expedit,	printed	the commentary
+0623	92	obmictendo.	misread	was obmietendo.
+0625	11	um	misprint	for un
+0625	39	vadit	printed	Latin verse 18 (Italian vada)
+0625	54	cupituli,	misprint	for capituli
+0625	69	querere	printed	the commentary
+0626	8	agl'ochi	misprint	for agl'orbi (the Latin orbis)
+0626	55	nostrum	printed	Latin verse (Italian vostro)
+0626	68	alio	printed	the commentary
+0626	73	spirito	printed	the commentary
+0627	35	ipsum	printed	Latin verse (Italian essa)
+0627	61	ascen-	printed	the commentary; the Latin verse has descendat
+0628	21	suo	printed	Italian verse
+0628	58	alieni	printed	the commentary
+0628	84	qui	printed	the commentary
+0629	20	pregio	misprint	for priego (the Latin rogamine)
+0629	100	mictent,	printed	the commentary
+0630	16	Figliuolo;	misread	was Figlinolo;
+0630	46	pero	misprint	for però; no accent visible
+0632	59	qui	printed	the Latin verse has quis
+0633	13	chè	printed	Italian verse
+0633	51	duo	printed	the commentary
+0633	88	Demum	misread	was Denum
+0634	30	desbitavit	printed	Latin verse (Italian sdebitò)
+0634	40	carno,	misread	was carnò,
+0636	10	trovan	misprint	for temono (the Latin timent)
+0636	31	eos	printed	Latin verse
+0636	77	multoties	printed	the commentary
+0636	98	tunc	printed	the Latin verse has hinc
+0637	7	gl'affanni;	misprint	for l'assanni (the Latin assannet)
+0637	7	perigo	printed	Italian verse
+0637	23	Seme	misprint	for Di mia semenza (the Latin De meo semine)
+0637	23	pigla	misprint	for paglia (the Latin paleas)
+0637	35	videndum,	printed	Latin verse (Italian udir)
+0637	53	est	printed	Latin verse
+0637	80	michi:	misread	was michi nomen tuum, (from the line below)
+0637	89	vidissem	printed	the Latin verse has vidisses
+0637	97	exselamando	misprint	for exclamando
+0638	19	scerpibus,	printed	Latin verse (Italian sterpi)
+0638	42	vadunt	printed	the commentary
+0638	59	variorum	printed	the commentary
+0639	43	Comium,	printed	Latin verse (Italian Conio)
+0639	44	non	printed	Latin verse
+0639	47	vir	misprint	vir/tuosus, no hyphen printed
+0639	51	ori[r]etur	misread	was ori’retur
+0639	97	illum	printed	the commentary
+0640	37	visum	printed	Latin verse; fuit is there
+0640	52	qued	misprint	for quod
+0640	68	semite	printed	the commentary
+0641	16	suo	misprint	for sua (the Latin sua metam)
+0641	34	sua	printed	Latin verse; suam expected
+0643	68	liberta,	misprint	for libertà; no accent visible
+0643	93	puo	misprint	for può; no accent visible
+0643	96	piu	misprint	for più; no accent visible
+0645	17	Santo	printed	the commentary
+0646	54	opera	printed	the commentary; spera above
+0647	16	mondo,	misprint	for modo (the Latin per modum)
+0647	22	veder	misprint	for fuggir (the Latin ad fugiendum)
+0647	22	luce	misprint	for vista (the Latin visio)
+0647	25	co	misprint	for eo
+0647	51	tumultuosa,	printed	the commentary
+0648	23	dirizz'ami	printed	Italian verse
+0648	84	Intra	printed	the Latin verse has Intrate
+0648	96	Beati	printed	the commentary
+0649	32	superne	printed	Latin verse (Italian suprema)
+0649	42	possessiones	printed	Latin verse (Italian posseditor)
+0649	100	plus	printed	the Latin verse has prius
+0650	46	duo,	printed	Latin verse
+0651	50	nomen	printed	the commentary has nomine
+0651	53	amplexate	printed	Latin verse
+0651	103	eos	printed	the commentary
+0652	9	(3)	misprint	for (8); the note is (8)
+0652	75	Phsi-	misprint	for Phisi-
+0652	84	cessas	printed	the commentary
+0652	104	Deum	printed	the commentary
+0653	88	veniam	misread	was a veris suis offenden-
+0653	89	dentibus,	misread	was tibus,
+0654	24	examina-	printed	the commentary
+0655	11	pennas	misread	was pen-nas
+0655	12	tabernaculum	misread	was taber-naculum
+0655	15	fundamenta	misread	was funda-menta
+0655	32	Figliuol	misread	was Figlinol
+0656	29	sara	misprint	for sarà; no accent visible
+0657	29	Demum,	misread	was Denum,
+0658	32	qui	printed	Latin verse
+0658	71	cooperta	printed	the commentary
+0659	29	Angelum	printed	Latin verse (Italian Agnel)
+0659	36	mei	printed	the commentary
+0659	102	Angelum	printed	the commentary
+0660	15	mi	misprint	for ti (the Latin te)
+0660	20	quelle	misprint	for quella (the Latin illa)
+0660	24	Illuc	printed	Latin verse (Italian Quei)
+0660	53	mondo:	printed	lemma; the verse has fumo
+0660	69	nonas,	printed	the commentary
+0660	88	permictit	printed	the commentary
+0661	34	amans	printed	Latin verse (Italian amai)
+0661	51	a	printed	the commentary
+0661	83	inter	printed	the commentary
+0661	93	Duo	printed	the commentary
+0662	57	malitia	printed	the commentary
+0662	84	meremur	misread	a line doubled after it was removed
+0662	93	elective	printed	the commentary
+0663	53	arat	printed	the commentary
+0663	76	celum?	printed	the commentary
+0664	35	alto	printed	Latin verse (Italian lieto)
+0664	48	pravus	printed	the commentary
+0664	101	plicare.	misprint	exem-/plicare for exemplificare
+0665	76	omnibus.	printed	the commentary
+0665	101	imita-	printed	the commentary
+0666	72	Couradus	misprint	for Conradus
+0667	14	l'alber	printed	Italian verse
+0667	14	fiume	printed	Italian verse; the Latin has flumen
+0667	34	locutus	printed	Latin verse (Italian tornò)
+0668	1	LIBERTA	misprint	for LIBERTÀ; no accent visible
+0668	35	Sì	misread	was Si
+0669	16	co	misprint	for eo
+0670	56	quod	printed	the commentary
+0671	5	com	misprint	for con
+0671	43	delectabiliter	printed	the commentary
+0671	60	extrahitur	printed	the commentary
+0672	30	rupit	printed	Latin verse
+0673	5	piange	misprint	for frange (the Latin frangitur)
+0673	5	son	printed	Italian verse
+0673	63	mater	printed	the commentary
+0673	81	multum	printed	the commentary; the Latin verse has vultum
+0673	99	cupit	printed	cupit de celo, cupit ad celum
+0675	32	honor,	printed	Latin verse
+0675	53	descendere.	printed	the commentary
+0675	85	tardius	printed	the commentary
+0676	50	effectus	printed	Latin verse (Italian affecto)
+0676	91	bis	printed	in no-/bis; the commentary
+0676	94	salute	printed	the commentary
+0677	23	ciascum	misprint	for ciascun
+0677	90	putet,	printed	im-/putet; the Latin verse has improntet
+0678	19	nos	printed	Latin verse (Italian vi)
+0678	51	tionem	printed	delecta-/tionem venereas; the commentary
+0679	16	verita,	misprint	for verità; no accent visible
+0679	39	realta	misprint	for realtà; no accent visible
+0679	57	aridita	misprint	for aridità; no accent visible
+0681	34	Hec	printed	the commentary
+0682	5	conto	misprint	for contento (the Latin contentus)
+0682	65	frangebat,	printed	the commentary; the Latin verse has frugabat
+0683	23	Quanto	printed	Latin verse
+0683	70	mobiles,	printed	the commentary
+0684	34	sic,	printed	Latin verse (Italian se)
+0684	35	placere	printed	Latin verse (Italian piegar)
+0684	69	necdum	printed	the commentary
+0684	104	nimis	printed	the commentary
+0685	9	m'aspecta	printed	Italian verse
+0685	16	vita.	misprint	for viva (the Latin viva)
+0685	19	l'effecto,	misprint	for l'affecto (the Latin affectus)
+0685	70	simplex	printed	the commentary; the Latin verse has sequax
+0685	103	corruptibile.	printed	the commentary
+0686	17	mortalitatem	printed	Latin verse (Italian moralità)
+0686	27	virida	printed	the commentary
+0686	40	multorum	printed	the commentary
+0686	74	uon	misprint	for non
+0686	74	sentitur,	misread	was seutitur,
+0686	114	inter	printed	the commentary; the Latin verse has intra vos
+0687	12	Cortese	misprint	for Pietola (the Latin Piectola)
+0687	12	nulla	misprint	for villa (the Latin villa)
+0687	13	dispost'havea	printed	Italian verse
+0687	14	chiara	misprint	for piana (the Latin planam)
+0687	43	erat	printed	Latin verse
+0687	47	Talis	printed	Latin verse
+0687	47	calcant	printed	Latin verse (Italian falca)
+0687	96	lectas,	printed	col-/lectas; the commentary
+0688	18	più	printed	Italian verse
+0688	48	de	printed	prope de se nocte; the commentary
+0688	55	sompnum,	printed	the commentary
+0688	73	impiger;	printed	the commentary
+0688	77	demicteret	printed	the commentary
+0689	15	ministero	misprint	for monastero (the Latin monasterium)
+0689	67	favor	printed	the commentary
+0689	73	proprie	printed	the commentary
+0689	80	felloniam,	printed	the commentary
+0689	81	sceleritatem;	printed	the commentary
+0689	95	filius	printed	the commentary
+0690	62	quod	printed	the commentary
+0691	45	radicalita	misprint	for radicalità; no accent visible
+0691	61	virtu,	misprint	for virtù; no accent visible
+0691	67	dualita	misprint	for dualità; no accent visible
+0694	5	dall'autumpno	misprint	for da Saturno (the Latin a Saturno)
+0694	31	revolvi	printed	the editors' incipit
+0694	34	incipit	misread	was incip't; the stem of the i damaged
+0694	40	genutlexeram;	misprint	for genuflexeram
+0694	41	ingionecchiato,	misprint	for inginocchiato
+0694	47	reflectuntur	printed	the commentary repeats it
+0695	50	vinctus	printed	the commentary
+0695	56	difformam,	printed	the commentary
+0695	85	quod	printed	the commentary
+0696	23	Vocì	printed	Italian verse; the accent is visible
+0696	78	erit	printed	the commentary
+0697	83	hic	printed	the commentary
+0697	92	domns:	misprint	for domnas
+0697	102	descendere.	printed	the commentary; the Latin verse has discedere
+0698	30	plangit?	printed	Latin verse
+0698	41	clausus,	printed	Latin verse (Italian dischiuso)
+0698	52	plangit,	printed	the commentary
+0698	92	mento,	printed	pave-/mento; the commentary
+0699	51	veniendo	printed	Latin verse (Italian vivendo)
+0699	61	altus	printed	the commentary
+0700	111	submersit.	printed	the commentary
+0701	59	ingionecchiato	misprint	for inginocchiato (the verse)
+0701	76	iste	printed	the commentary
+0701	93	illud	printed	the commentary
+0702	8	m'he	printed	Italian verse
+0703	90	la	misprint	for là; no accent visible
+0706	34	Quidquid	printed	the editors' incipit
+0706	35	Ch'io	printed	the editors' incipit
+0706	45	unus	printed	the commentary
+0707	31	illa	printed	Latin verse (Italian l'altra)
+0708	42	dominorum	printed	the commentary
+0708	49	turpem	printed	the commentary
+0708	49	meretricinum.	printed	the commentary
+0708	56	gradu,	printed	the commentary
+0709	19	fu	printed	Italian verse
+0709	32	Etipse:	printed	Latin verse; no clear space
+0709	86	in	printed	in/in; the commentary
+0710	11	vicenda	misprint	for ammenda (the Latin emendationem)
+0710	83	indicabant,	printed	the commentary
+0710	103	Frantia,	printed	the commentary
+0711	38	qui	printed	Latin verse
+0711	44	rentiam	printed	Flo-/rentiam; the commentary
+0712	6	ch'a'l	printed	Italian verse
+0712	8	paia	printed	Italian verse
+0712	65	quam	printed	the commentary
+0713	28	absconsam	printed	Latin verse
+0713	47	absconsam	printed	the commentary
+0714	34	qui	printed	Latin verse
+0714	72	nem,	printed	Apollo-/nem; the commentary
+0714	77	isto	printed	the commentary
+0714	109	nos	printed	the commentary; the Latin verse has Non
+0715	19	compresi.	misprint	io 'l compresi for el compièsi (the Latin ille completus est)
+0715	66	postquam	printed	the commentary
+0716	6	desiderando	misprint	for desideroso (the Latin avidum)
+0716	18	nunc	printed	Latin verse (Italian allhor)
+0716	31	tunc	misread	was tuuc
+0717	62	eternita.	misprint	for eternità; no accent visible
+0717	73	sara	misprint	for sarà; no accent visible
+0717	81	gia	misprint	for già; no accent visible
+0720	8	conduceami	misprint	for condoleami (the Latin condolebam)
+0720	30	nobis,	printed	Latin incipit
+0720	37	viggio	misprint	for veggio
+0720	51	genabant	printed	the commentary
+0720	52	implicita;	printed	the commentary
+0720	53	compaxiebatur	printed	the commentary
+0721	19	tante	misprint	for tanto (the Latin tantum)
+0721	61	pingebat	printed	the commentary
+0722	5	colei	misprint	per colei for perchè lei (the Latin Sed quia illa)
+0722	10	mondo	misprint	for modo (the Latin ad modum)
+0722	17	cuna	misprint	for cruna (the Latin crunam)
+0722	76	adocchiat,	printed	the commentary
+0722	96	tonitrui	printed	the commentary
+0723	23	Dell'immonditia	printed	Italian verse; the Latin [im]munditia
+0723	24	tutt'è	misprint	tutt'è libero for tutta libera (the Latin tota libera)
+0723	25	sorpiendo,	misprint	for sorprende
+0723	101	mundi	printed	the commentary
+0723	105	moreat	misprint	lemma, for moveat (the verse)
+0724	5	tento,	printed	Italian verse
+0724	20	foste	printed	Italian verse
+0724	80	potestate,	printed	the commentary
+0725	48	siderit	printed	ob-/siderit; the commentary
+0725	61	nisi	printed	the commentary
+0725	78	vespes,	printed	the commentary
+0726	19	seguen	printed	Italian verse
+0726	39	viso	printed	Latin verse
+0726	43	nec	printed	Latin verse
+0726	47	assumas,	printed	Latin verse
+0726	83	viso,	printed	the commentary
+0727	16	Forse	misprint	for Forza (the Latin fortia)
+0727	34	sospiro,	printed	Latin verse
+0727	66	antiquus	printed	the commentary
+0727	92	adoras.	printed	the commentary
+0728	8	condoliemi	misprint	for condoleami
+0728	20	un	printed	un attraente eco
+0729	52	glandis,	printed	the commentary
+0730	8	o	misprint	Italian verse; o i o for altro, ciò
+0731	19	scagiona:	misprint	the line for E come amico omai meco ragiona (the Latin Et sicut amicus)
+0731	39	senum	printed	Latin verse
+0731	65	tendit	printed	at-/tendit; the commentary names accendit
+0731	81	imbum,	printed	the commentary
+0731	108	num,	printed	se-/num; the commentary
+0732	12	tua	misprint	for altra (the Latin alia)
+0732	15	a	misprint	for e (the Latin et)
+0732	16	E	misprint	E added (the Latin Milliaria)
+0732	28	pensier	misprint	for penter (the Latin penitere)
+0733	7	veder	misprint	for verde (the Latin viridi)
+0733	25	crystiana.	misprint	the note mark (9) for (10)
+0733	33	qui	printed	Latin verse
+0733	42	me	printed	Latin verse
+0733	95	Tunc	printed	the commentary
+0734	47	tanctum	misprint	for tantum
+0734	60	Dante	printed	the commentary
+0735	10	havian	printed	Italian verse
+0735	11	amico,	misprint	for antico (the Latin antiquus)
+0735	35	Plauto	printed	Latin verse
+0735	39	musse	misprint	for muse
+0735	42	memorias	printed	Latin verse (Italian nutrici)
+0735	52	celerat	printed	the commentary
+0735	65	vitio.	printed	the commentary
+0735	94	memorias	printed	the commentary
+0736	11	amendue	misprint	già left out (the Latin iam)
+0736	15	a	misprint	et a la quinta for e la quinta era al (the Latin quinta erat)
+0736	86	poete	printed	Italian lemma
+0736	103	maiori	printed	the commentary
+0737	12	dell'altra	misprint	for alta (note al. alta; the Latin alta)
+0737	21	(12.	printed	the punctuation
+0737	27	perbere	printed	the note
+0737	38	deorsum.	printed	Latin verse (Italian suso)
+0737	68	reperuimus	misprint	for reperimus
+0737	71	adhuc	printed	the commentary
+0737	103	nobis	printed	the commentary
+0738	21	(5)	misprint	the notes go (3), (5); the verse marks (4), (5), (6)
+0738	36	contempta	printed	the commentary, Boethius
+0738	42	omne	printed	the commentary
+0738	44	vel	printed	the commentary
+0739	5	reita,	misprint	for reità; no accent visible
+0739	19	prodigalita	misprint	for prodigalità; no accent visible
+0739	21	virtu	misprint	for virtù; no accent visible
+0739	28	di	misprint	un di for un dì; no accent visible
+0739	29	verita,	misprint	for verità; no accent visible
+0739	29	cóntemperare	printed	the accent is visible
+0739	45	potra	misprint	for potrà; no accent visible
+0739	52	puo	misprint	for può; no accent visible
+0739	63	sara	misprint	for sarà; no accent visible
+0739	64	dell'eternita.	misprint	for eternità; no accent visible
+0742	5	lor	misprint	for sua (the Latin suam)
+0742	72	utilis	printed	the commentary
+0743	16	volgen	printed	Italian verse
+0743	30	cantare	printed	Latin verse
+0743	38	Que	printed	Latin verse
+0743	44	oculis	printed	Latin verse (Italian ossa)
+0744	21	Crisiton	misprint	for Erisiton
+0744	27	faciem	printed	Latin verse
+0744	30	gubernaret,	printed	Latin verse
+0744	39	abscondi	printed	the commentary
+0744	95	duo	printed	the commentary
+0745	7	triste	printed	Italian verse
+0745	11	'l	misprint	'l viso for al viso (the Latin ad faciem)
+0745	12	faccia	misprint	for voce (the Latin in voce)
+0745	39	permutatum	printed	Latin verse
+0745	42	me	printed	Latin verse
+0745	45	domine	printed	Latin verse
+0745	49	tor	printed	tor tam; the italic spaced
+0745	60	diffamat,	printed	the commentary
+0745	83	Forensis	printed	the commentary
+0746	11	tanta,	misprint	è tanta for canta (the Latin cantat)
+0746	20	agl'alberi	misprint	for all'albero (the Latin ad arborem)
+0746	67	alia	misread	was ali'a; the stem of the i damaged
+0746	96	poniuntur	misprint	for puniuntur
+0747	10	questi	misprint	di questi for degl'altri (the Latin de aliis)
+0747	14	Bardaggia	misprint	for Barbagia (the Latin Barbagia)
+0747	32	cura	printed	Latin verse
+0747	34	operandum·est	printed	a stray mark in the print
+0747	66	diructo,	misprint	for dirupto
+0747	73	liberabit	printed	the commentary
+0747	96	pulpitu	misprint	for pulpito
+0748	33	decipere	printed	Latin verse
+0748	49	monstravi	printed	Latin verse
+0748	51	mortuos,	printed	Latin verse
+0748	58	decipere	printed	the commentary
+0748	68	pro	printed	the commentary
+0748	106	nimium	printed	the commentary
+0749	6	riguardando	misprint	for rigirando (the Latin circumeundo)
+0749	42	semita	printed	the commentary
+0750	7	cosi	misprint	for così; no accent visible
+0750	30	da	misprint	for dà; no accent visible
+0750	32	si	misprint	si cara e si diletta for sì; no accents visible
+0750	91	nei	misread	was nel; nei credenti
+0752	26	più	printed	Italian lemma; lui left out
+0753	12	si	misprint	for sì; no accent visible
+0753	18	Troso	misprint	for Torso (the Latin Torso)
+0753	72	modica,	printed	the commentary
+0754	40	ucchat.	printed	Latin verse (Italian Gentucca)
+0754	44	Loqui	printed	Latin verse
+0754	47	denominando	printed	the commentary
+0754	78	dici,	printed	the commentary
+0754	96	spilliceat,	printed	the commentary
+0755	7	huom	misprint	com' huom che for come ch'huom (the Latin quamquam homo)
+0755	19	chiodo.	printed	Italian verse; the Latin clavum
+0755	28	illud	printed	Latin verse
+0755	105	Foresis	printed	the commentary
+0756	13	volar	misprint	for voler (the Latin voluntatem)
+0756	45	videndum	printed	Latin verse
+0756	89	quando	printed	the commentary
+0756	98	tota	printed	the commentary
+0757	13	mi	misprint	for mio (the Latin meum)
+0757	52	ducentesimo-	printed	the commentary
+0758	8	Parvemi	misprint	for Parvermi (the Latin Apparuerunt)
+0758	19	pianti	misprint	for prieghi (the Latin preces)
+0758	35	Et	printed	Latin verse
+0758	47	illa.	printed	Latin verse
+0758	58	nui	misprint	lemma; a left out (the verse innanti a nui)
+0758	64	prima	printed	the commentary
+0758	69	conversus	printed	the commentary
+0758	89	vaniat	printed	the commentary
+0758	98	super,	printed	the commentary
+0759	31	nos	printed	Latin verse
+0759	39	ite	printed	Latin verse
+0760	21	umbram.	printed	Latin verse (Italian orezza)
+0760	24	firmat,	printed	Latin verse (Italian fuma)
+0760	43	umbram	printed	the commentary
+0760	46	firmat	printed	the commentary
+0760	49	commensat.	printed	the commentary
+0761	6	ci	printed	the essay
+0761	68	verginita,	misprint	for verginità; no accent visible
+0761	68	si	misprint	for sì; no accent visible
+0762	5	splendito	misprint	for splendido
+0762	26	verginita.	misprint	for verginità; no accent visible
+0763	61	Elice	printed	the commentary
+0764	18	volca	misprint	lemma, for volea (the verse); an italic c for e
+0764	37	venute	misprint	essay, the verse quoted; for venuti
+0764	50	quod	printed	the commentary
+0765	19	mirar	misprint	for nutrir (the Latin nutriendi)
+0765	42	Comsumpsit	misprint	for Consumpsit
+0766	15	Figlo	printed	the punctuation
+0766	20	guizzus	printed	Latin verse
+0766	40	torres	printed	the commentary
+0766	70	guizzus	printed	the commentary
+0766	96	caput,	printed	the commentary
+0767	7	ch'è	printed	Italian verse; the Latin quod est
+0767	10	quello	printed	Italian verse
+0767	20	alla	misprint	L'anima facta alla for Anima facta la (the Latin Anima facta virtus)
+0767	34	vanas.	printed	Latin verse
+0767	46	planete,	printed	Latin verse
+0767	48	con-	printed	con-/sentit; Latin verse
+0767	80	quolibet.	printed	the commentary
+0767	110	vanas.	printed	the commentary
+0768	24	animali	printed	Latin verse
+0769	5	verità	printed	Italian verse; the Latin follows it
+0769	6	sappia	misprint	for sappi (the Latin scias)
+0769	7	cerchio	misprint	for cerebro (the Latin cerebri)
+0769	27	anima	printed	Latin verse
+0770	8	certo	misprint	lo certo scrive for la circonscrive (the Latin circumscribit)
+0770	16	all'alma	misprint	for l'alma (the Latin anima)
+0770	46	ed	printed	Latin verse
+0770	82	effectus	printed	the commentary
+0770	92	ubi	printed	the commentary
+0771	11	dall'alto	misprint	for dal lato (the Latin a latere)
+0771	45	venuto	misprint	lemma, for venuti (the verse)
+0771	104	grandi	printed	the commentary
+0772	33	passibus,	printed	Latin verse (Italian pasti)
+0772	44	submissi,	printed	the commentary
+0773	12	possibilita	misprint	for possibilità; no accent visible
+0773	19	li	misprint	for lì; no accent visible
+0773	40	da.	misprint	for dà; no accent visible
+0773	40	Bensi	misprint	for Bensì; no accent visible
+0773	42	verita	misprint	for verità; no accent visible
+0773	47	verita,	misprint	for verità; no accent visible
+0773	49	unita	misprint	for unità; no accent visible
+0773	56	svani.	misprint	for svanì; no accent visible
+0773	58	forni	misprint	for fornì; no accent visible
+0773	68	cio	misprint	for ciò; no accent visible
+0773	78	beleggiate	misprint	sim-/beleggiate for simboleggiate
+0773	84	attivita	misprint	for attività; no accent visible
+0774	6	pero,	misprint	for però; no accent visible
+0776	9	Caveas	printed	Latin verse
+0776	11	si	misprint	lemma; no accent visible (the verse sì)
+0777	8	dolente	printed	Italian verse; the commentary has dolentem, alias roventem
+0777	16	usar	misprint	for uscir (the Latin exeundi)
+0777	19	Risponde	misprint	for Rispondi (the Latin Responde)
+0777	27	Fericbat	misprint	already in Suspected misprints
+0777	34	Os	printed	Latin verse
+0777	99	esset	printed	the commentary
+0778	9	intorno	misprint	for incontro (the Latin contra)
+0778	16	vita	misprint	for via (the Latin viam)
+0778	29	nobis	printed	Latin verse
+0778	50	prius,	printed	Latin verse
+0779	30	planctus,	printed	Latin verse
+0779	36	affanate	printed	Latin verse
+0779	103	duo	printed	the commentary
+0780	7	in	misprint	in se inurba for s'inurba (the Latin se inurbat)
+0780	23	opbrobrio	misprint	for obbrobrio
+0780	50	Qui	printed	Latin verse
+0780	70	qui	printed	the commentary
+0780	78	annorum,.ivit	printed	the punctuation
+0781	9	Guininzelli;	misprint	for Guinizelli (the Latin Guinizelli)
+0781	21	fuimus,	printed	Latin verse
+0782	27	sequutus	printed	Latin verse
+0782	39	loquela	printed	Latin verse
+0782	48	credo	printed	Latin verse
+0783	8	Guidone,	misprint	for Guictone (the Latin Guictone)
+0783	24	bellis	printed	Provençal verse
+0783	53	se	printed	the commentary
+0784	5	Iem	printed	Provençal verse
+0784	6	tos	printed	Provençal verse
+0784	7	hesper	printed	Provençal verse
+0784	9	son	printed	Provençal verse
+0784	42	sententie,et	printed	the punctuation
+0785	46	volonta	misprint	for volontà; no accent visible
+0785	50	totalita	misprint	for totalità; no accent visible
+0785	57	realta,	misprint	for realtà; no accent visible
+0785	73	puo	misprint	for può; no accent visible
+0785	77	porra	misprint	di, porra for dì, porrà; no accents visible
+0785	78	sara	misprint	for sarà; no accent visible
+0785	80	avra	misprint	for avrà; no accent visible
+0785	81	ardera,	misprint	for arderà; no accent visible
+0785	82	cosi	misprint	cosi pero for così però; no accents visible
+0788	7	giron	misprint	for giorno (the Latin dies)
+0788	13	novo	printed	Latin verse (Italian nona)
+0788	32	spiritum	printed	the editors' summary
+0789	12	lo'intesi,	printed	Italian verse
+0789	25	mundi	printed	Latin verse
+0789	85	ire	printed	the commentary
+0790	12	entra	misprint	for oltre (the Latin ultra)
+0790	12	Volgeti	printed	Italian verse
+0790	21	volse	misprint	Mi volse for Mi volsi (the Latin Volvi me)
+0790	56	te	printed	the commentary
+0791	32	fuimus	printed	Latin verse
+0791	47	solebant	printed	the commentary
+0792	7	ci	printed	Italian verse
+0792	18	mondo	misprint	for monte (the Latin montis)
+0792	29	eravammo	printed	Italian verse
+0792	31	tutti	misprint	tutti quindi for quinci e quindi (the Latin hinc et inde)
+0792	40	tollebat	printed	Latin verse
+0792	100	virtutes	printed	the commentary
+0793	29	illum	printed	Latin verse
+0793	30	altiores	printed	Latin verse
+0793	31	admirando,	printed	Latin verse
+0793	34	orientis	printed	Latin verse
+0793	64	fascidiati,	misprint	for fasciati
+0793	72	illum	printed	the commentary
+0793	73	altiores	printed	the commentary
+0793	85	admirando	printed	the commentary
+0793	87	factus	printed	the commentary
+0793	89	orientis	printed	the commentary
+0794	5	co'	printed	Italian verse
+0794	28	tredecim	printed	the commentary
+0794	90	iuvabatur	printed	the commentary
+0794	92	ille	printed	the commentary
+0794	95	contigebat	printed	the commentary
+0795	23	magis	printed	Latin verse (Italian men)
+0795	69	ducentesimo	printed	the commentary
+0795	95	magis	printed	the commentary
+0796	12	prende	misprint	for prendi (the Latin apprehendas)
+0796	28	cucurse,	printed	Latin verse
+0796	47	volare	printed	Latin verse
+0796	66	cum	printed	the commentary
+0797	30	remmo	printed	ave-/remmo; the essay
+0797	35	volonta	misprint	for volontà; no accent visible
+0797	47	altresi	misprint	for altresì; no accent visible
+0797	62	si	misprint	si per for sì per; no accent visible
+0797	63	sì	misread	was si; the accent is visible
+0797	64	la,	misprint	di la for di là; no accent visible
+0797	72	si	misprint	si che for sì che; no accent visible
+0799	20	cauto;	misprint	for canto
+0799	42	Eunce,	misprint	for Eunoe
+0800	8	Eunce,	misprint	for Eunoe
+0800	28	aliquantulum	printed	the commentary
+0800	41	spergitur	printed	the commentary
