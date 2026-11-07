@@ -18,10 +18,11 @@ apply them, do not ask again.
 for errors that both OCRs share (check 1, the verse check, the italics, check 2) are done
 (DONE.md); what they do not cover is under "Known limits".
 
-The read-through ("Read-through") is under way: 0001–0800 are read and decided (0001–0400
+The read-through ("Read-through") is under way: 0001–1000 are read and decided (0001–0400
 in `43a1f60`, `9b91553`; DONE.md, "Read-through"); the trial pages 0601–0614 were read
-again with the batches. Next: 0801–1296 in batches of 25 pages; a commit only when the user
-asks for it.
+again with the batches. `Eunce` (0799–0867) is the edition's spelling throughout
+Serravalle's text (the editors print `Eu[n]ce` on 0867), so it is kept as printed. Next:
+1001–1296 in batches of 25 pages; a commit only when the user asks for it.
 
 ## Checks
 
@@ -235,7 +236,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0730 | 20 | `di retro a noi remaso:` | `rimaso` | Commentary quoting the Italian verse 1 (`rimaso`). |
 | 0764 | 18 | `non volca storpio` | `volea` | Commentary quoting the Italian verse 1 (`volea`); an italic `c` without the eye. |
 | 0777 | 27 | `2 Fericbat me sol` | `Feriebat` | Latin verse; an italic `c` without the eye; the commentary has `Feriebat`. |
-| 0832 | 89 | `corum pluvium` | `eorum` | Commentary; the image shows `c`; the verse has `eorum`. |
+| 0832 | 89 | `corum pluvium` | `eorum pluviam` | Commentary; the image shows `c`; the verse has `eorum pluviam` (`pluvium` found by the read-through). |
 | 0855 | 20 | `apparebat iciuna.` | `ieiuna` | Latin verse; an italic `c` without the eye; the commentary has `ieiuna`. |
 | 0943 | 65 | `inde se voivit in` | `volvit` | Commentary; an `i` with its dot for `l`; the verse has `volvit`. |
 | 0976 | 61 | `catur Prava),` | `Piava` | Commentary; the image shows `r`; the verse has `Piave`. |
@@ -742,7 +743,155 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0796 | 12 | `Lo tuo piacer omai prende per duce:` | `prendi` | Italian verse XXVII (the Latin `apprehendas`); found by the read-through. |
 | 0797 | 35–72 | `volonta`, `altresi`, `si per`, `di la`, `si che` | `volontà`, … | Essay; no accents visible (the second `sì per`, line 63, has one); found by the read-through. |
 | 0799 | 20 | `cauto; dixit ipsa` | `canto` | Commentary; found by the read-through. |
-| 0799 | 42; 0800 8 | `et Eunce`, `Lethe et Eunce` | `Eunoe` | Commentary; `c` for `o`; found by the read-through. |
+| 0804 | 18 | `Per la pianetta, in sul lito` | `pineta` | Italian verse XXVIII (the Latin `Per pinetam`); found by the read-through. |
+| 0804 | 19 | `Quand' Euro e Scirocco` | `Eolo` | Italian verse (the Latin `Eolus Eurum`); found by the read-through. |
+| 0804 | 29 | `tremulando frondes pinte` | `prompte` | Latin verse (the Italian and the commentary `prompte`); found by the read-through. |
+| 0804 | 64 | `per pinctam` | `pinetam` | Commentary; found by the read-through. |
+| 0805 | 18 | `cosa che desia` | `disvia` | Italian verse (the Latin `deviat`); found by the read-through. |
+| 0807 | 14 | `Maraviglando tieni` | `tienvi` | Italian verse (the Latin `tenet vos`); found by the read-through. |
+| 0807 | 94 | `qui potest disnebriare` | `disnebiare` | Commentary (the verse `disnebiare`); found by the read-through. |
+| 0808 | 46–47 | `motus celi, movens arborem` | `aierem` | Commentary; the motion moves the air, which strikes the trees; found by the read-through. |
+| 0808 | 84 | `et sonus, sane, inpugnant` | `silve` | Commentary (the verse `sonus silve`); found by the read-through. |
+| 0809 | 9 | `L'exaltation dell'acqua` | `exalation` | Italian verse (the Latin `Exalationes`); found by the read-through. |
+| 0809 | 30 | `Propter suam difultam` | `difaltam` | Latin verse (the commentary `diffaltam`); found by the read-through. |
+| 0814 | 34 | `Lo spatio dentro a le quatro` | `a lor` | Italian verse XXIX (the Latin `eorum quatuor`); found by the read-through. |
+| 0815 | 60 | `parvum passuum cum parvo` | `passum` | Commentary (the verse `Parvum passum`); found by the read-through. |
+| 0816 | 5 | `ubbidia la terra al cielo` | `e 'l cielo` | Italian verse (the Latin `terra et celum`); found by the read-through. |
+| 0816 | 21 | `Et hora me aïuti` | `E Urania` | Italian verse (the Latin `Eurania me adiuvet`); found by the read-through. |
+| 0816 | 32 | `Sensisset prius` | `Sensissem` | Latin verse (the Italian `Havrei`); found by the read-through. |
+| 0816 | 73–74 | `*tra tante delitie*` | `primitie` | Commentary, the lemma (the verse `tra tante primitie`); found by the read-through. |
+| 0817 | 9 | `Che l'obliquo comun` | `obiecto` | Italian verse (the Latin `obiectum comune`); found by the read-through. |
+| 0817 | 12 | `candelabri accese` | `apprese` | Italian verse (the Latin `apprehensa`); found by the read-through. |
+| 0818 | 7 | `vien dirieto a noi` | `a lor` | Italian verse (the Latin `retro illas`); found by the read-through. |
+| 0818 | 13 | `come specchi anco` | `specchio` | Italian verse (the Latin `sicut in speculo`); found by the read-through. |
+| 0818 | 22 | `et Elya il cinto` | `Delia` | Italian verse (the Latin `et Delia cinctum`); found by the read-through. |
+| 0818 | 55 | `ita effectu vive lucis` | `in aspectu` | Commentary, the lemma (the verse `In aspectu vive lucis`); found by the read-through. |
+| 0819 | 21 | `ch'altra possa mi strigne` | `spesa` | Italian verse (the Latin `alia expensa`); found by the read-through. |
+| 0819 | 25 | `Venire a lui con nube` | `con vento` | Italian verse (the Latin `cum vento`); found by the read-through. |
+| 0819 | 41 | `pennatum sex aliis` | `alis` | Latin verse (the commentary `sex alis`); found by the read-through. |
+| 0820 | 13 | `Sì che nullo offendendo` | `a nulla fendendo` | Italian verse (the Latin `findendo nullum`); found by the read-through. |
+| 0820 | 28 | `ab ipso descedit` | `discedit` | Latin verse (the commentary `discedit`); found by the read-through. |
+| 0820 | 82 | `septem candelabria` | `candelabra` | Commentary; found by the read-through. |
+| 0822 | 59 | `de rosis et de liliis` | `aliis` | Commentary (the verse `de aliis floribus`; the next line `isti vero non`); found by the read-through. |
+| 0823 | 75 | `alle gia fatte` | `già` | Essay; no accent visible; found by the read-through. |
+| 0826 | 42 | `ponitur interpretatio Beatricis` | `increpatio` | *Summarium* (0830 `ponitur increpatio quam fecit domina`); found by the read-through. |
+| 0827 | 10 | `La rovistata voce` | `revestita` | Italian verse XXX (the Latin `Revestitam`); found by the read-through. |
+| 0827 | 12 | `Si levar gente, a voce` | `cento` | Italian verse (the Latin `centum`); found by the read-through. |
+| 0828 | 13 | `E ricidea in giù` | `ricadea` | Italian verse (the Latin `recadebat`); found by the read-through. |
+| 0828 | 16 | `Vestito di color` | `Vestita` | Italian verse (the Latin `Vestita`); found by the read-through. |
+| 0829 | 25 | `Per gl'alti legni` | `altri` | Italian verse (the Latin `Per alia ligna`); found by the read-through. |
+| 0830 | 5 | `che lì m'appario` | `pria` | Italian verse (the Latin `que prius`); found by the read-through. |
+| 0832 | 16 | `Secondo che le rote son compagne` | `stelle` | Italian verse XXXI (the Latin `stelle sunt sotie`); found by the read-through. |
+| 0833 | 23 | `Alto facto (10) di Dio` | `fato` | Italian verse (the Latin `Altum fatum`); found by the read-through. |
+| 0834 | 20 | `L'occhio lo sostenea` | `la` | Essay, a quotation (the verse on 0828 `la`); found by the read-through. |
+| 0834 | 74 | `la verita e` | `verità` | Essay; no accent visible; found by the read-through. |
+| 0840 | 95–96 | `rerum falla-`/`rium` | `fallacium` | Commentary (the verse `Rerum fallacium`); found by the read-through. |
+| 0841 | 18 | `sè stessa l'antica` | `più sè stessa antica` | Italian verse (the Latin `plus se ipsam antiquam`); found by the read-through. |
+| 0841 | 78 | `modo longeest pulchrior` | `longe est` | Commentary; no space visible; found by the read-through. |
+| 0842 | 50 | `et [de] me subrisit` | `submersit` | Latin verse (the commentary `submersit`); found by the read-through. |
+| 0843 | 27 | `Negl'altri, gl'altri tre` | `Negl'atti, l'altre` | Italian verse (the Latin `In actibus, alie tres`); found by the read-through. |
+| 0845 | 31 | `intendere cio che` | `ciò` | Essay; no accent visible; found by the read-through. |
+| 0849 | 18 | `Che procedeva` | `precedeva` | Italian verse XXXII (the Latin `precedebat`); found by the read-through. |
+| 0849 | 19 | `piegasse al carro` | `il carro` | Italian verse (the Latin `plicaret currus`); found by the read-through. |
+| 0850 | 19 | `Ne' bolchi loro` | `boschi` | Italian verse (the Latin `nemoribus`); found by the read-through. |
+| 0850 | 41 | `propter multitudinem` | `altitudinem` | Latin verse (the Italian `per altezza`, the commentary `altitudinem`); found by the read-through. |
+| 0850 | 72–73 | `*mormorare a tulli*` | `tutti` | Commentary, the lemma (the verse `a tucti`); found by the read-through. |
+| 0851 | 8 | `E volti al temo` | `volto` | Italian verse XXXII (the Latin `Et conversus`); found by the read-through. |
+| 0851 | 16 | `Giunct'à li suoi corsier senz'altra stella` | `Giunga` … `sott'altra` | Italian verse (the Latin `Coniungat` … `sub alia stella`; the essay on 0858); found by the read-through. |
+| 0851 | 19 | `Che primavera le ramora` | `prima avea` | Italian verse (the Latin `Que prius habebat`; the essay on 0858); found by the read-through. |
+| 0852 | 38 | `in montem Thaber` | `Thabor` | Commentary (line 87 `Thabor`); found by the read-through. |
+| 0853 | 27 | `lasciata lì dal plaustro` | `del` | Italian verse (the Latin `plaustri`); found by the read-through. |
+| 0854 | 10 | `Di quella torma onde Chrysto` | `Roma` | Italian verse (the Latin `Illius Rome`); found by the read-through. |
+| 0857 | 21 | `superciliis circum pintis` | `promptis` | Latin verse (the commentary `circum promptis`); as 0804 `pinte`; found by the read-through. |
+| 0858 | 14 | `per altezza ammirato` | `ammirata` | Essay, a quotation (`la sua chioma`); found by the read-through. |
+| 0861 | 7 | `Rispose, con la rota come foco` | `colorata` | Italian verse XXXIII (the Latin `colorata sicut ignis`); found by the read-through. |
+| 0862 | 46 | `a verecundia nolo` | `volo` | Commentary (the verse `Volo quod tu ammodo`); found by the read-through. |
+| 0863 | 6 | `e Spingi, e metti persuade` | `men ti` | Italian verse (the Latin `minus te persuadet`; the essay on 0869); found by the read-through. |
+| 0863 | 32 | `Et scis memor` | `sis` | Latin verse (the commentary `Et sis memor`); found by the read-through. |
+| 0864 | 19 | `t'abbagla al lume` | `il lume` | Italian verse (the Latin `obfuscat te lumen`); found by the read-through. |
+| 0865 | 54–55 | `si non scultum, saltem depictum` | `scriptum` | Commentary (the verse `si non scriptum`); found by the read-through. |
+| 0865 | 94 | `subridendo respondidit` | `respondit` | Commentary; found by the read-through. |
+| 0866 | 7 | `alla tua vogla rude` | `veduta` | Italian verse (the Latin `tue visioni rudi`); found by the read-through. |
+| 0866 | 44 | `Supra supra frigidos rivos` | `Supra suos` | Latin verse (the commentary `supra suos rivos`); found by the read-through. |
+| 0876 | 24 | `Verum quantum de suo regno` | `sancto` | Latin verse I (the Italian `regno sancto`, the commentary `de regno sancto`); found by the read-through. |
+| 0877 | 18 | `(2) Cyheron` | `Cytheron` | Gloss (note 6 `Cytheron`); found by the read-through. |
+| 0879 | 27 | `cum tribus circulis` | `crucibus` | Latin verse (the Italian `tre croci`, the commentary `cum tribus crucibus`); found by the read-through. |
+| 0879 | 29 | `se mundane terre` | `cere` | Latin verse (the Italian `cera`, the commentary `mundane cere`); found by the read-through. |
+| 0880 | 42 | `Esse aditum` | `additum` | Latin verse (the commentary `esse additum`); found by the read-through. |
+| 0880 | 43 | `uno alio celo ornasset` | `sole` | Latin verse (the Italian `d'un altro sol`, the commentary `alio sole`); found by the read-through. |
+| 0881 | 7 | `di lassu remote` | `lassù` | Italian verse; no accent visible; found by the read-through. |
+| 0881 | 88 | `*Si ergo eram solus de me*` | `ego` | Commentary, the lemma (the verse `Si ego eram`); found by the read-through. |
+| 0882 | 19 | `Mai fulgure (40), fuggendo (41) 'l primo sito` | `Ma` … `proprio` | Italian verse (the Latin `Sed fulgur fugiens a proprio situ`); found by the read-through. |
+| 0883 | 17 | `Ha un ordine (29)` | `Hanno ordine` | Italian verse (the Latin `Habent ordinem`); found by the read-through. |
+| 0884 | 50 | `iste actus sagiptat` | `arcus` | Latin verse (the Italian `arco`, the commentary `iste arcus`); found by the read-through. |
+| 0886 | 11 | `se si si vedesse` | `se si` | Gloss; a word doubled; found by the read-through. |
+| 0892 | 68 | `una sagipta, que escit` | `quiescit` | Commentary (the verse `quiescit`); found by the read-through. |
+| 0894 | 23 | `(19) l'apprhensiva` | `apprehensiva` | Gloss; as `comprhender` (line 28); found by the read-through. |
+| 0894 | 65 | `ubi clavis semper non aperit` | `sensus` | Commentary (the verse `clavis sensus`); found by the read-through. |
+| 0894 | 73 | `te pingere sagipte` | `pungere` | Commentary (the verse `pungere sagipte`); found by the read-through. |
+| 0895 | 15 | `Lograsso (25)` | `Lo grasso` | Italian verse; no space visible; found by the read-through. |
+| 0897 | 21 | `Da la nieve (45)` | `De la` | Italian verse II (the Latin `Nivis`); found by the read-through. |
+| 0898 | 13 | `Da lui distincte (22) e da lui (24)` | `(23)` | Italian verse; the note number repeated (the notes run 22, 23, 24); found by the read-through. |
+| 0901 | 52–95 | `per cosi dire`, `E cosi`, `ogni`/`di meglio` | `così`, `dì` | Essay; no accents visible; found by the read-through. |
+| 0902 | 30 | `della Trinita` | `Trinità` | Essay; no accent visible; found by the read-through. |
+| 0905 | 6 | `Sè a me tanto streto` | `A sè me` | Italian verse III (the Latin `Ad se me tantum strictum`); found by the read-through. |
+| 0908 | 7 | `Sicchè transfigurar` | `raffigurar` | Italian verse (the Latin `ad refigurandum`); found by the read-through. |
+| 0910 | 12 | `Fuor mi rapitten` | `rapiron` | Italian verse (the Latin `rapuerunt`); found by the read-through. |
+| 0910 | 41 | `sic ei fuit abrecta` | `abrepta` | Latin verse (the commentary `abrepta`); found by the read-through. |
+| 0910 | 57–58 | `ad complacentiam`/`confirmat` | `conformat` | Commentary (the verse `conformat`); found by the read-through. |
+| 0912 | 44 | `Posto cio` | `ciò` | Essay; no accent visible; found by the read-through. |
+| 0912 | 62 | `dominatrice dell'alto` | `dell'atto` | Essay; found by the read-through. |
+| 0919 | 10 | `da non esser decisa` | `derisa` | Italian verse IV (the Latin `non deridenda`); found by the read-through. |
+| 0919 | 40 | `Habet plus veneni` | `minus` | Latin verse (the Italian `men`, the commentary `minus veneni`); found by the read-through. |
+| 0922 | 22 | `parlar mi monda` | `m'inonda` | Italian verse (the Latin `me inundat`); found by the read-through. |
+| 0923 | 106 | `dicentem, rexpexit` | `respexit` | Commentary (the verse `respexit`); found by the read-through. |
+| 0923 | 110 | `idest defici` | `defeci` | Commentary; found by the read-through. |
+| 0928 | 21 | `Apre la mente` | `Apri` | Italian verse V (the Latin `Aperias mentem`); found by the read-through. |
+| 0929 | 17 | `permutanza crede stolta` | `credi` | Italian verse (the Latin `credas`); found by the read-through. |
+| 0931 | 79 | `E si *come saietta*` | `sì` | Commentary, the lemma; no accent visible; found by the read-through. |
+| 0931 | 92–93 | `in`/`limine illius` | `lumine` | Commentary (the verse `in lumine illius`); found by the read-through. |
+| 0932 | 24 | `Nel primo lume` | `proprio` | Italian verse (the Latin `In proprio lumine`); found by the read-through. |
+| 0934 | 33 | `Si, certo` | `Sì` | Essay; no accent visible; found by the read-through. |
+| 0934 | 61 | `in possente unita` | `unità` | Essay; no accent visible; found by the read-through. |
+| 0936 | 38 | `Ormai poi coniudicare` | `iudicare` | Commentary, the division (0944 `Omai poi iudicare`); found by the read-through. |
+| 0937 | 41–42 | `de quibus privatus exivit` | `primitus` | Commentary (the verse on 0936 `primitus`); found by the read-through. |
+| 0940 | 52 | `trigintiquatuor milliaria` | `trigintaquatuor` | Commentary; found by the read-through. |
+| 0944 | 90–91 | `Hor, nunc,`/`id respice` | `hic` | Commentary (the verse `hic respice`); found by the read-through. |
+| 0945 | 28 | `Apponit, et alter` | `Opponit` | Latin verse VI (the Italian `oppone`, the commentary `opponit`); found by the read-through. |
+| 0945 | 71 | `artem sub illo signo` | `alio` | Commentary (the verse `Sub alio signo`); found by the read-through. |
+| 0945 | 93 | `quod radii veteris` | `veri` | Commentary (the verse `Veri amoris`); found by the read-through. |
+| 0948 | 78 | `evangelica equita` | `equità` | Essay; no accent visible; found by the read-through. |
+| 0948 | 84 | `a que' di!` | `dì` | Essay; no accent visible; found by the read-through. |
+| 0950 | 72 | `splendore tuo inneffabili` | `ineffabili` | Commentary; found by the read-through. |
+| 0951 | 80 | `moverunt ad suam corouam` | `coream` | Commentary; a turned `n` (`corouam`); 0950 `ad suam coream`; found by the read-through. |
+| 0956 | 59 | `fuitvel erit` | `fuit vel` | Latin verse VII; no space visible; found by the read-through. |
+| 0958 | 6 | `Creata fu la materia informante` | `virtù` | Italian verse (the Latin `virtus informans`); found by the read-through. |
+| 0962 | 14 | `hor da poppa or da` | `coppa` | Italian verse VIII (the Latin `a coppa`); found by the read-through. |
+| 0962 | 55–56 | `continuans dicta di-`/`cens` | `dicendis` | Commentary (the formula, as 0974 `continuat dicta dicendis`); found by the read-through. |
+| 0963 | 43–44 | `Depin-`/`gitur a latus` | `alatus` | Commentary; found by the read-through. |
+| 0965 | 10 | `um poca di quiete` | `un` | Italian verse; found by the read-through. |
+| 0965 | 71 | `cum priucipibus celestibus` | `principibus` | Commentary; `u` for `n`; found by the read-through. |
+| 0967 | 47–48 | `attendendissent` | `attendissent` | Commentary; `nd` doubled; found by the read-through. |
+| 0968 | 5 | `Facto m'è lieto` | `m'ài` | Italian verse (the Latin `Fecisti me letum`); found by the read-through. |
+| 0968 | 71 | `*Perch'io disse*` | `dissi` | Commentary, the lemma (0967 `Perch'io dissi`); found by the read-through. |
+| 0968 | 90 | `rum, ad aliud, quod tu petis` | `illud` | Commentary (the verse `ad illud quod tu petis`); found by the read-through. |
+| 0969 | 23 | `un nasce Absalon` | `Solon` | Italian verse (the Latin `Solon`); found by the read-through. |
+| 0975 | 5 | `E gia la vista` | `già` | Italian verse IX; no accent visible; found by the read-through. |
+| 0975 | 17 | `De! mette al mio voler` | `metti` | Italian verse (the Latin `mictas`); found by the read-through. |
+| 0975 | 104–105 | `vel experentiam` | `experientiam` | Commentary; found by the read-through. |
+| 0976 | 25 | `Sì ch'altra vita a la prima relinqua` | `la prima` | Italian verse IX (the Latin `prima relinquat`); found by the read-through. |
+| 0980 | 55 | `semper cum incantu` | `cantu` | Commentary (the verse `cum cantu`); found by the read-through. |
+| 0981 | 52 | `iniurando Sicheo` | `iniuriando` | Commentary (the verse `Iniuriando Sicheo`); found by the read-through. |
+| 0981 | 61 | `fuit a Denophonte` | `Demophonte` | Commentary (the verse `a Demophonte`); found by the read-through. |
+| 0981 | 82 | `*Sed adhuc ut omnes tuas voluntates*` | `ad hoc` | Commentary, the lemma (the verse `Sed ad hoc ut`); found by the read-through. |
+| 0990 | 49 | `nostre sunt infime` | `infirme` | Commentary, quoting the verse (`infirme`); found by the read-through. |
+| 0990 | 74–75 | `ita de-`/`gestum` | `digestum` | Commentary (the verse `digestum`); found by the read-through. |
+| 0992 | 5 | `E dentro alcun sentii` | `all'un` | Italian verse X (the Latin `intra unum`; the lemma `all' un`); found by the read-through. |
+| 0995 | 53 | `horologium, quos nos vocet` | `quod` | Commentary (the verse `quod nos vocet`); found by the read-through. |
+| 0995 | 54–55 | `ut`/`ipsum amet` | `ipsam` | Commentary (the verse `ut ipsam amet`); found by the read-through. |
+| 0996 | 103 | `ha detto Gesu` | `Gesù` | Essay; no accent visible; found by the read-through. |
+| 0999 | 66–67 | `quidam ad`/`ad civile` | `ad` | Commentary; a word doubled over the line end; found by the read-through. |
+| 0999 | 105 | `de tuo radio resplendeo` | `suo` | Commentary (the verse `de suo radio`); found by the read-through. |
 
 ## Known limits
 
