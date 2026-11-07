@@ -292,6 +292,12 @@ UNDECIDED = []
 # Line-end hyphens decided by hand: the word as it is to be written.
 HYPHEN_FIXED = {}
 
+# Words broken at a line end with no hyphen printed (PLAN, Suspected misprints): the page,
+# the last word of the line and the first of the next, joined without a space.
+HYPHEN_MISSING = {
+    ("0639", "vir", "tuosus"),  # virtuosus
+}
+
 
 def join_hyphen(head, tail, where):
     m1 = re.search(r"(" + WORD + r")-$", head)
@@ -323,6 +329,8 @@ def join_lines(lines, where):
             text, l = text[:-1], l[1:]
         if re.search(WORD + "-$", text):
             text = join_hyphen(text, l, where)
+        elif (where, text.rsplit(" ", 1)[-1], l.split(" ", 1)[0]) in HYPHEN_MISSING:
+            text += l
         else:
             text += " " + l
     return text

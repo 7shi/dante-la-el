@@ -420,7 +420,7 @@ Et primo nominat Litium. Hic Litius fuit nobilis miles de Valle Bona, supra Forl
 
 (1) o. — (2) rivolta in dietro.
 
-Iam auctor facit mentionem de quinto illustri viro, de Fabro Bononiensi. In Bononia fuit unus bonus homo, vir tuosus et curialis, nomine Faber, dignus magna fama.
+Iam auctor facit mentionem de quinto illustri viro, de Fabro Bononiensi. In Bononia fuit unus bonus homo, virtuosus et curialis, nomine Faber, dignus magna fama.
 
 Facit adhuc de sexto viro illustri mentionem, qui vocabatur Bernardinus de Fusco, de civitate Faventie sic dicta. Licet hic ori[r]etur de plebeio genere, tamen fuit nobilissimi animi et valde virtuosus, curialis et liberalis. De quibus auctor dicit: Quando in Bononia unus Faber (nomen proprium) relignatur, idest resurget, sive germinabit, quando in Faventia unus Bernardinus de Fusco, virga gentilis, idest nobilis, parve gramigne, idest nationis?
 
