@@ -12,16 +12,16 @@ account of the whole work, for checking the other texts, is in [SUMMARY.md](SUMM
 **A new session starts here**: read "State". The rules and conventions below are settled:
 apply them, do not ask again.
 
-## State (2026-11-05)
+## State (2026-11-08)
 
 `ocr/la` is complete (`0001`–`1296`) and converted into `texts/la/001`–`110`. The checks
 for errors that both OCRs share (check 1, the verse check, the italics, check 2) are done
 (DONE.md); what they do not cover is under "Known limits".
 
-The read-through ("Read-through") is under way: 0001–0400 and the trial pages 0595–0614
-are read, decided and committed (`43a1f60`, `9b91553`; DONE.md, "Read-through"). Next:
-0401–1296 in batches of 25 pages, the trial pages left out; a commit only when the user
-asks for it.
+The read-through ("Read-through") is under way: 0001–0600 are read and decided (0001–0400
+in `43a1f60`, `9b91553`; DONE.md, "Read-through"). The trial pages 0601–0614 were read in
+the trial and are read again with the batches. Next: 0601–1296 in batches of 25 pages; a
+commit only when the user asks for it.
 
 ## Checks
 
@@ -510,6 +510,87 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0394 | 25 | `trare in Forli, si rendeva penitente nell'Ordine Francescano.` | `Forlì` | Essay; no accent visible; found by the read-through. |
 | 0394 | 28 | `non sarebbe stata si forte, che non ricadesse;` | `sì` | Essay; no accent visible; found by the read-through. |
 | 0397 | 80 | `Christi, memor corum, que viderat` | `eorum` | Commentary; found by the read-through. |
+| 0407 | 36 | `di merito, di gloria, di felicita, riduconsi ad un giuoco ignobile` | `felicità` | Essay; no accent visible; found by the read-through. |
+| 0407 | 64 | `futura; della quale bensi, non possedendola noi in proprio, e` | `bensì` | Essay; no accent visible; found by the read-through. |
+| 0407 | 66 | `essere degni. E così l'odio pon è che il sentimento esagerato di` | `non` | Essay; found by the read-through. |
+| 0410 | 46 | `Et ego dixi Po te,` | `Poete` | Commentary lemma; a gap for the `e`; found by the read-through. |
+| 0416 | 10 | `Arder a tal, ch'io havea per figlolo.` | `che l'` | Italian verse XXIX (the Latin `qui eum`); found by the read-through. |
+| 0417 | 5 | `45 Ma perchè sappi (1) che sì ti seconda` | `chi` | Italian verse XXIX (the Latin `quis`); found by the read-through. |
+| 0418 | 31 | `Si che la faccia mia ben ti risponda:` | `Sì` | Essay; no accent visible; found by the read-through. |
+| 0418 | 32 | `Si vedrai ch'io son l'ombra di Capocchio,` | `Sì` | Essay; no accent visible; found by the read-through. |
+| 0418 | 54 | `e presenti quel che la scienza e l'arte arriverebbero a trovare:` | `presentì` | Essay; no accent visible; found by the read-through. |
+| 0418 | 57 | `stabili che l'uomo possa arrivare, affinchè cresca ogni dì più` | `stabilì` | Essay; no accent visible; found by the read-through. |
+| 0418 | 62 | `Si vedrai ch'io son l'ombra di Capocchio,` | `Sì` | Essay; no accent visible; found by the read-through. |
+| 0424 | 20 | `25 Ivi (12) è Romena (13) là, dov'io lassai` | `falsai` | Italian verse XXX (the Latin `falsificavi`); found by the read-through. |
+| 0424 | 25 | `Per Fonte Blanda (17) non darei la vista.` | `Branda` | Italian verse XXX (the Latin `Fontem Brandam`); found by the read-through. |
+| 0426 | 26 | `41 A te sia reo la sete onde ti crepa,` | `rea` | Italian verse XXX (the Latin `rea sitis`); found by the read-through. |
+| 0429 | 86 | `flettendo, trova anche di presente si rispetto alle prime come` | `sì` | Essay; no accent visible; found by the read-through. |
+| 0429 | 89 | `senza posa aspira, e nei cui splendori trovera da ultimo il suo` | `troverà` | Essay; no accent visible; found by the read-through. |
+| 0429 | 90 | `appagamento, la piena sua felicita.` | `felicità` | Essay; no accent visible; found by the read-through. |
+| 0431 | 33 | `primo Nembroth, et quilibet corum habet cornu` | `eorum` | Commentary; found by the read-through. |
+| 0440 | 32 | `Cosi in Cristo e per Cristo, nella cui virtù,` | `Così` | Essay; no accent visible; found by the read-through. |
+| 0444 | 10 | `Me' (5) sreste stati qui (6) pecore o zebe (7).` | `sareste` | Italian verse XXXII; found by the read-through. |
+| 0451 | 3 | `Severissimo sempre l'Alighieri si ne'concetti e si ne'modi di` | `sì` (twice) | Essay; no accent visible; found by the read-through. |
+| 0451 | 27 | `ha di più caro, sempre conchiudendo che quel fuoco restera` | `resterà` | Essay; no accent visible; found by the read-through. |
+| 0451 | 32 | `Non fece al corso suo si grosso velo` | `sì` | Essay, a verse quoted; no accent visible; found by the read-through. |
+| 0451 | 93 | `quasi delitto, a cui la natura umana, cosi finita nel bene come` | `così` | Essay; no accent visible; found by the read-through. |
+| 0458 | 5 | `26 Quand'ebbe (1) decto ciò, cho gl'ochi torti` | `con` | Italian verse XXXIII; found by the read-through. |
+| 0464 | 14 | `bacio dell'infame che cosi lo consegnava in mano a' nemici!` | `così` | Essay; no accent visible; found by the read-through. |
+| 0464 | 29 | `me Christus (*Ad Gal*. II). » Cosi fu inesorabile con ogni ma-` | `Così` | Essay; no accent visible; found by the read-through. |
+| 0471 | 103 | `*Prima che de l'abisso me direlle*.` | `divella` | Commentary lemma; an italic `r` for `v` (the verse `divella`); found by the read-through. |
+| 0475 | 36 | `divinita nel suo centro, senza un fatto e una tradizione per` | `divinità` | Essay; no accent visible; found by the read-through. |
+| 0475 | 55 | `Ma libera da Lui, che si la sprona.` | `sì` | Essay, a verse quoted; no accent visible; found by the read-through. |
+| 0475 | 68 | `commesso col voler addiventare simile all'Altissimo. Gli da tre` | `dà` | Essay; no accent visible; found by the read-through. |
+| 0476 | 13 | `(scriveva un profondo filosofo e teologo), nè pertanto puo se-` | `può` | Essay; no accent visible; found by the read-through. |
+| 0494 | 11 | `Hor che di là dal mar io fo dimora,` | `mal fiume` | Italian verse I (the Latin `ultra malum flumen`); found by the read-through. |
+| 0496 | 8 | `41 Quando noi fummo la du' (1) la rogiada` | `là` | Italian verse I; no accent visible; found by the read-through. |
+| 0505 | 9 | `Perchè l'ombra sorrise e si ritrassi,` | `ritrasse` | Italian verse II (the Latin `se retraxit`); found by the read-through. |
+| 0506 | 12 | `Inamoroso all’amoroso canto,` | `Memoria o uso` | Italian verse II (the Latin `Memoriam et usum`); found by the read-through. |
+| 0507 | 19 | `Questi senza mostrar l'usato argoglo,` | `Queti` | Italian verse II (the Latin `Quiete`); found by the read-through. |
+| 0507 | 25 | `Com'huom che va ne sà dove s'arrescha (4):` | `nè` | Italian verse II; no accent visible on `ne`; found by the read-through. |
+| 0508 | 72 | `nostro amore, il quale dall'amor di lui si parti e nello stesso` | `partì` | Essay; no accent visible; found by the read-through. |
+| 0514 | 10 | `Che 'nverso 'l ciel più alta si dissala?` | `Sì che possa salir chi va senz'ala?` | Italian verse III; a wrong line (the Latin `Ita quod possit ascendere qui vadit sine ala`); found by the read-through. |
+| 0515 | 20 | `29 Si vid'io a venir muover la testa` | `Sì` | Italian verse III; no accent visible; found by the read-through. |
+| 0523 | 106 | `spiribus remanentibus, statim quod a nobis *schiera*, idest` | `spiritibus` | Commentary; found by the read-through. |
+| 0525 | 16 | `Tanto che l'anghio sotto a' piè mi fue.` | `'l cinghio` | Italian verse IV (the Latin `cingulum`); found by the read-through. |
+| 0526 | 11 | `22 Tu yederesti 'l zodiaco rubechio` | `vederesti` | Italian verse IV; `y` for `v`; found by the read-through. |
+| 0527 | 11 | `27 Chè 'l mezzo cerchio del monte superno,` | `moto` | Italian verse IV (the Latin `motus`); found by the read-through. |
+| 0527 | 18 | `Quand'havemo ad andar, che 'l poggio sale` | `Quant'` | Italian verse IV (the Latin `Quantum`); found by the read-through. |
+| 0527 | 24 | `Tanto, che 'n andar ti fie leggiero,` | `su andar` | Italian verse IV (the Latin `sursum ire`); found by the read-through. |
+| 0527 | 60 | `vadat ad ymum, quando illi` | `unum` | Commentary (the verse `Ad unum`); found by the read-through. |
+| 0531 | 31 | `prima e nativa fonte di verita;` | `verità` | Essay; no accent visible; found by the read-through. |
+| 0535 | 21 | `Venian genti innanzi a noi um poco,` | `un` | Italian verse V; `m` for `n`; found by the read-through. |
+| 0539 | 16 | `Perch'io vo'tra costor con lieta fronte.` | `bassa` | Italian verse V (the Latin `demissa`); found by the read-through. |
+| 0541 | 16 | `Nell'altro, e sciolse al mio pecto la croce,` | `Nell'Arno` | Italian verse V (the Latin `In Arnum`); found by the read-through. |
+| 0542 | 62 | `qui eum extollerunt, non in marmoreum` | `extulerunt` | Essay, a Latin quotation; found by the read-through. |
+| 0545 | 6 | `Volgendo allora qua e là la faccia,` | `a loro` | Italian verse VI (the Latin `eis`); found by the read-through. |
+| 0545 | 18 | `Menar di qua, la donna di Brabante,` | `Mentr'è` | Italian verse VI (the Latin `Dum est`); found by the read-through. |
+| 0550 | 6 | `Monandi e Filippeschi, uom senza cura:` | `Monaldi` | Italian verse VI (the Latin `Monaldos`); found by the read-through. |
+| 0551 | 8 | `43 Fiorenze mia, ben puoi esser contenta` | `Fiorenza` | Italian verse VI (the Latin `Florentia`); found by the read-through. |
+| 0551 | 59 | `custos thesauri Tarpec.` | `Tarpei` | Commentary; `c` for `i`; found by the read-through. |
+| 0553 | 17 | `anzi nella vita di la sono più vive che mai` | `là` | Essay; no accent visible; found by the read-through. |
+| 0553 | 21 | `una sola cosa con quello di la.` | `là` | Essay; no accent visible; found by the read-through. |
+| 0553 | 25 | `ut mitiges ci a diebus malis.` | `ei` | Essay, a psalm quoted; the same `c` as in `ci` on the page; found by the read-through. |
+| 0563 | 10 | `Questi ha ne'regni suoi miglor uscita.` | `rami` | Italian verse VII (the Latin `in ramis`); found by the read-through. |
+| 0564 | 35 | `Mentre che l'orizzonte il di tien chiuso.` | `dì` | Essay, a verse quoted; no accent visible; found by the read-through. |
+| 0566 | 5 | `Lo dì ch'àn dicto e'dolci amici: A Dio;` | `a' dolci` | Italian verse VIII (the Latin `dulcibus amicis`); found by the read-through. |
+| 0566 | 6 | `2 Così lo nuovo peregrin d'amore` | `E che` | Italian verse VIII (the Latin `Et quod`); found by the read-through. |
+| 0567 | 19 | `Quasi aspectando tacito et humile:` | `pallido` | Italian verse VIII (the Latin `pallidum`); found by the read-through. |
+| 0570 | 7 | `Le quai convien che, misero, ancor brami.` | `misera` | Italian verse VIII (the Latin `misera`); found by the read-through. |
+| 0570 | 8 | `26 Per lei assai di lei vi si comprende,` | `di lieve` | Italian verse VIII (the Latin `de levi`); found by the read-through. |
+| 0571 | 18 | `Dicendo: Vedi la 'l nostro adversaro;` | `là` | Italian verse VIII; no accent visible; found by the read-through. |
+| 0572 | 20 | `40 Chiamato fui Currado Melespina:` | `Malaspina` | Italian verse VIII (the Latin `Malaspina`); found by the read-through. |
+| 0572 | 88 | `de parte vicina, scis, die` | `dic` | Commentary (the verse `dic illud`); found by the read-through. |
+| 0573 | 13 | `Del pregio di bontade e della spada.` | `della borsa` | Italian verse VIII (the Latin `burse`); found by the read-through. |
+| 0574 | 12 | `l'aveva si cara, invocando` | `sì` | Essay; no accent visible; found by the read-through. |
+| 0579 | 8 | `9 Fra me pensava: Forse questa siede` | `fiede` | Italian verse IX (the Latin `ferit`); found by the read-through. |
+| 0579 | 10 | `Disdegnan di portarne suso in piede.` | `Disdegna` | Italian verse IX (the Latin `Dedignatur`); found by the read-through. |
+| 0579 | 11 | `10 Poi mi parea, che giù rotata un poco,` | `più` | Italian verse IX (the Latin `magis rotando`); found by the read-through. |
+| 0579 | 14 | `11 Ivi parea che d'ella et io ardesse,` | `ch'ella` | Italian verse IX (the Latin `quod ipsa et ego`); found by the read-through. |
+| 0581 | 14 | `27 Come l'ochio più e più v'apersi,` | `E come` | Italian verse IX; `E` left out (the Latin `Et sicut`); found by the read-through. |
+| 0594 | 6 | `L'ymagine di tante humilitadi` | `L'ymagini` | Italian verse X (the Latin `Ymagines`); found by the read-through. |
+| 0594 | 22 | `E non so io che, nel veder, vaneggio.` | `non so che, sì nel veder` | Italian verse X (the Latin `nescio quid, ita in videre`); found by the read-through. |
+| 0599 | 8 | `4 Come del suo buon voler gl'angeli tuoi` | `del suo voler` | Italian verse XI; `buon` added (the Latin `de suo velle`); found by the read-through. |
 
 ## Known limits
 

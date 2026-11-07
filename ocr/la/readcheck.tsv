@@ -860,18 +860,555 @@ page	line	form	decision	note
 0399	98	fixus	printed	as in the verse
 0400	43	aportet	printed	apportet expected; Latin verse
 0400	52	nunc	printed	nunc in the image
+0401	30	respicendum	printed	Serravalle's Latin; respiciendum in the commentary
+0401	38	Marchiam	printed	Serravalle's Latin
+0401	51	perforatum	printed	Serravalle's Latin
+0402	89	Rulbacontis	printed	Serravalle's Latin
+0403	41	lapso	printed	Serravalle's Latin
+0403	57	utrumque	printed	Serravalle's Latin; utramque in the verse
+0404	38	sic	printed	Serravalle's Latin
+0404	56	curie	printed	Serravalle's Latin
+0404	101	fili,	printed	Serravalle's Latin
+0405	35	tumulentus	printed	Serravalle's Latin
+0405	72	depensa	printed	Serravalle's Latin
+0405	103	se	printed	Serravalle's Latin; sic in the verse
+0405	110	con-	printed	con-/spirando; Serravalle's Latin
+0405	113	ullam	printed	Serravalle's Latin
+0406	25	lapso!	printed	Serravalle's Latin
+0406	36	subsurationibus	printed	Serravalle's Latin
+0407	36	felicita,	misprint	felicità; no accent visible
+0407	64	bensi,	misprint	bensì; no accent visible
+0407	66	pon	misprint	non
+0409	16	maximes	misprint	already listed
+0410	15	Que	printed	Serravalle's Latin
+0410	45	disse	printed	Italian lemma in the commentary
+0410	46	Po te,	misprint	Poete; e missing, a gap in the image
+0410	55	linguarum	printed	Serravalle's Latin
+0410	69	exeuntes	printed	Serravalle's Latin
+0410	71	contempta;	printed	Serravalle's Latin
+0411	20	a uno	printed	the edition's Italian reading
+0414	13	scanze	printed	the edition's Italian reading
+0414	51	dimalias,	printed	Serravalle's Latin
+0414	67	tristum	printed	Serravalle's Latin
+0414	74	abscultando	printed	Serravalle's Latin
+0414	94	amallias,	printed	Serravalle's Latin
+0415	44	vestro	printed	Serravalle's Latin
+0416	10	ch'io	misprint	che l'; the Latin qui eum
+0416	40	nunquam	printed	Serravalle's Latin
+0416	43	Unus	printed	Serravalle's Latin
+0416	69	Eo disse	printed	Italian lemma in the commentary
+0416	78	campanelulas	printed	Serravalle's Latin
+0416	107	arofolorum	printed	Serravalle's Latin
+0417	5	che	misprint	chi; the Latin quis
+0417	25	proiiecebant	printed	Serravalle's Latin
+0418	31	Si	misprint	Sì; no accent visible
+0418	32	Si	misprint	Sì; no accent visible
+0418	54	presenti	misprint	presentì; no accent visible
+0418	57	stabili	misprint	stabilì; no accent visible
+0418	62	Si	misprint	Sì; no accent visible
+0419	63	videntur	printed	Serravalle's Latin
+0420	27	Thebenarum	printed	Serravalle's Latin
+0420	52	Athenoe,	printed	Serravalle's Latin
+0421	47	Non pungere	printed	Serravalle's Latin
+0421	96	Thebenarum	printed	Serravalle's Latin
+0421	97	non pungere	printed	Serravalle's Latin
+0422	79	iuvisses	misread	was iuivesses
+0422	84	quia	misread	was Fiat
+0422	98	illum	printed	Serravalle's Latin
+0422	107	falsificari	printed	Serravalle's Latin
+0423	18	sn	misprint	already listed
+0423	85	commutundum	printed	Serravalle's Latin
+0424	12	Discenden	printed	the edition's Italian reading
+0424	20	lassai	misprint	falsai; the Latin falsificavi
+0424	25	Blanda	misprint	Branda; the Latin Fontem Brandam
+0424	35	heu nunc	printed	Serravalle's Latin
+0425	11	queste	printed	the edition's Italian reading
+0425	38	circumveniant	printed	Serravalle's Latin
+0425	39	plus	printed	Serravalle's Latin
+0425	42	currus	printed	Serravalle's Latin
+0425	66	plus	printed	Serravalle's Latin
+0425	91	Sinon	misread	was Simon
+0426	26	reo	misprint	rea; the Latin rea sitis
+0426	44	menbrorum	printed	Serravalle's Latin
+0426	95	supersit	printed	Serravalle's Latin
+0427	30	tum	printed	Serravalle's Latin
+0427	81	ascultandum	printed	Serravalle's Latin
+0427	98	quod	printed	Serravalle's Latin
+0428	12	fui	printed	Serravalle's Latin
+0429	64	Nè	printed	the accent visible
+0429	86	si	misprint	sì; no accent visible
+0429	89	trovera	misprint	troverà; no accent visible
+0429	90	felicita.	misprint	felicità; no accent visible
+0431	33	corum	misprint	eorum
+0432	15	facere	printed	Serravalle's Latin
+0433	35	Dirigo	printed	Serravalle's Latin
+0433	45	te tu	printed	Serravalle's Latin
+0433	75	dirigo	printed	Serravalle's Latin
+0433	101	coniungis;	printed	Serravalle's Latin
+0434	46	prora,	printed	Serravalle's Latin
+0434	51	grandis	printed	Serravalle's Latin
+0434	72	lateres	printed	Serravalle's Latin
+0435	24	hay	printed	the edition's Italian reading
+0435	49	malbi	printed	Serravalle's Latin
+0435	75	adiunguntur	printed	Serravalle's Latin
+0435	76	potentie,	misread	was potent'e,; the stem of the i damaged
+0435	84	unus	printed	Serravalle's Latin
+0435	85	magna et magna	printed	Serravalle's Latin
+0435	96	affibiatur	printed	Serravalle's Latin
+0436	12	Neuroth	printed	the edition's Italian reading
+0436	39	Reperuimus	printed	Serravalle's Latin
+0436	53	sui	printed	Serravalle's Latin
+0436	55	confusit	printed	Serravalle's Latin
+0436	57	ipsemet	printed	Serravalle's Latin
+0436	76	obtulis	printed	Serravalle's Latin
+0436	90	Facemmo	misread	was Fecimus
+0436	106	inter,	printed	Serravalle's Latin
+0437	44	huic,	printed	Serravalle's Latin
+0437	60	removebat	printed	Serravalle's Latin
+0437	92	Antheus	printed	Serravalle's Latin
+0438	65	appareret	printed	Serravalle's Latin
+0438	78	non	printed	Serravalle's Latin
+0438	92	cyfum,	printed	Serravalle's Latin
+0439	41	leravit	misprint	already listed
+0439	49	aliam	printed	Serravalle's Latin
+0439	54	extensit	printed	Serravalle's Latin
+0439	70	unus	printed	Serravalle's Latin
+0439	87	duo	printed	Serravalle's Latin
+0440	32	Cosi	misprint	Così; no accent visible
+0443	35	ebbe,	printed	Italian lemma in the commentary
+0443	68	didit	printed	per-/didit; Serravalle's Latin
+0444	10	sreste	misprint	sareste
+0444	46	mini,	misread	was mine,; fora-/mini
+0444	55	gabbum,	printed	Serravalle's Latin
+0444	85	nobis,	printed	Serravalle's Latin
+0444	98	singulari	printed	Serravalle's Latin
+0445	9	Pĭetrapana	printed	the mark over the i visible
+0445	29	cursui sui	printed	Serravalle's Latin
+0445	79	ibi vidi sic,	printed	Serravalle's Latin
+0446	32	Guctaverunt	misprint	already listed
+0446	32	prius,	printed	Serravalle's Latin
+0446	48	respondissent	misread	was respondisscnt
+0446	63	ipsis,	printed	Serravalle's Latin
+0446	103	provintias,	misread	was provint'as,; the stem of the i damaged
+0447	68	tamdem	printed	Serravalle's Latin
+0447	77	maiores	printed	Serravalle's Latin
+0448	68	incisit	printed	Serravalle's Latin
+0448	102	remanent.	printed	Serravalle's Latin
+0449	47	illum Duera	printed	Serravalle's Latin
+0449	104	Thesancto,	printed	Serravalle's Latin
+0450	14	sì	printed	the accent visible
+0450	26	Saldaneriis	printed	Serravalle's Latin
+0450	37	facebat	printed	Serravalle's Latin
+0450	61	de vindicaret	printed	Serravalle's Latin
+0450	69	aliud	printed	Serravalle's Latin
+0451	3	si	misprint	sì ... e sì; no accent visible
+0451	27	restera	misprint	resterà; no accent visible
+0451	32	si	misprint	sì; no accent visible
+0451	93	cosi	misprint	così; no accent visible
+0454	24	Que fructificent	printed	Serravalle's Latin
+0454	41	faceano	printed	Italian lemma in the commentary
+0454	46	costa,	printed	Italian lemma in the commentary
+0455	31	ricinus.	misprint	already listed
+0455	72	Fame,	printed	Serravalle's Latin
+0455	84	aurea	printed	Serravalle's Latin
+0456	41	squamis	printed	Serravalle's Latin
+0456	52	signum	printed	Serravalle's Latin
+0456	55	viso	printed	Serravalle's Latin
+0456	82	squamis,	printed	Serravalle's Latin
+0456	86	ante	misread	was aute
+0456	98	signum	printed	Serravalle's Latin
+0457	43	plangis	printed	Serravalle's Latin
+0457	65	quartum	printed	Serravalle's Latin
+0457	66	abrancolandum	printed	Serravalle's Latin
+0457	74	plangis	printed	Serravalle's Latin
+0457	76	ille	printed	Serravalle's Latin
+0458	5	cho	misprint	con
+0458	34	ubi sonat	printed	Serravalle's Latin
+0458	40	Prodidisse	printed	Serravalle's Latin
+0458	74	submergant	printed	Serravalle's Latin
+0458	77	distans	printed	Serravalle's Latin
+0459	10	Riempien	printed	the edition's Italian reading
+0459	29	reperit	printed	Serravalle's Latin
+0459	46	viso	printed	Serravalle's Latin
+0459	54	suppini,	printed	Serravalle's Latin
+0459	58	mictunt	printed	Serravalle's Latin
+0459	61	stalli;	printed	de cri-/stalli; Serravalle's Latin
+0459	71	monticulum,	misread	was mouticulum,
+0459	104	indicati	printed	Serravalle's Latin
+0460	34	quod	printed	Serravalle's Latin
+0460	87	Cloco,	printed	Serravalle's Latin
+0460	90	hortum;	printed	Serravalle's Latin
+0460	109	morsum	printed	Serravalle's Latin
+0461	34	citernam;	misprint	already listed
+0462	23	solum,	printed	Serravalle's Latin
+0464	14	cosi	misprint	così; no accent visible
+0464	29	Cosi	misprint	Così; no accent visible
+0465	20	sex	printed	Serravalle's Latin
+0466	64	notescit,	printed	Serravalle's Latin
+0468	17	parca	misprint	already listed
+0469	36	sanguinolentem	printed	Serravalle's Latin
+0469	78	quamam,	printed	Serravalle's Latin
+0469	95	Buriam,	printed	Serravalle's Latin
+0470	66	ora	printed	Serravalle's Latin
+0471	40	se	printed	Serravalle's Latin
+0471	54	evellas,	printed	Serravalle's Latin
+0471	58	natuum,	misread	was natuun,
+0471	61	venire	printed	Serravalle's Latin
+0471	64	si	printed	Serravalle's Latin
+0471	65	quam	printed	Serravalle's Latin
+0471	103	direlle	misprint	divella; an italic r for v
+0472	23	Sic supra?	printed	Serravalle's Latin
+0472	24	A sero ad mane	printed	Serravalle's Latin
+0472	93	emispirium.	printed	Serravalle's Latin
+0473	28	erat	printed	Serravalle's Latin
+0473	30	forsam	printed	Serravalle's Latin
+0473	84	antipedibus	printed	Serravalle's Latin
+0474	34	*Et quinde*	misread	paragraph moved: it ends the left column, before quousque in the right
+0475	31	adoro	misprint	already listed
+0475	36	divinita	misprint	divinità; no accent visible
+0475	55	si	misprint	sì; no accent visible
+0475	68	da	misprint	dà; no accent visible
+0476	13	puo	misprint	può; no accent visible
+0480	16	inferius	printed	Serravalle's Latin
+0481	21	privatis	printed	Serravalle's Latin
+0481	22	erant	printed	Serravalle's Latin
+0481	29	preservent	printed	Serravalle's Latin
+0482	26	istud	printed	Serravalle's Latin
+0482	33	appretiabilis.	printed	Serravalle's Latin
+0482	35	nemo.	printed	Serravalle's Latin
+0482	38	tertium	printed	Serravalle's Latin
+0484	21	circa quam	printed	Serravalle's Latin
+0484	38	esanime,	printed	Serravalle's Latin
+0485	9	istum	printed	Serravalle's Latin
+0487	47	hic	printed	Serravalle's Latin
+0488	3	Mynoi;	printed	Serravalle's Latin
+0489	29	eorum	printed	Serravalle's Latin
+0489	42	sparì,	misread	was spari,; the accent visible
+0490	57	interpretratur	printed	Serravalle's Latin
+0490	89	Cailiopem,	misprint	already listed
+0490	102	colligebatur	printed	Serravalle's Latin
+0491	38	vetus	printed	Serravalle's Latin
+0491	82	*Come de loro sguardo*	printed	Italian lemma in the commentary
+0491	105	quis filius.	printed	ali-/quis; Serravalle's Latin
+0492	42	celum	printed	Serravalle's Latin
+0492	59	eam	printed	Serravalle's Latin
+0493	41	amara	printed	Serravalle's Latin
+0493	70	eligisti	printed	Serravalle's Latin
+0493	84	moriretur	printed	Serravalle's Latin
+0493	86	amara pro ea	printed	as in the image
+0493	88	bea-	misread	was beate iudi-
+0493	89	tificate	misread	was ficate; bea-/tificate
+0494	11	mar io fo	misprint	mal fiume; the Latin malum flumen
+0494	84	*Exivit foras*	printed	Serravalle's Latin
+0495	34	Ad apprehendere	printed	Serravalle's Latin
+0495	35	levans,	printed	Serravalle's Latin
+0495	40	terminos	printed	Serravalle's Latin
+0495	48	alii	printed	Serravalle's Latin
+0495	71	non	printed	Serravalle's Latin
+0495	94	suos	printed	Serravalle's Latin
+0496	8	la	misprint	là; no accent visible
+0496	32	durities	printed	Serravalle's Latin
+0496	54	canum,	printed	Serravalle's Latin
+0496	60	durities	printed	Serravalle's Latin
+0496	84	cingit,	printed	Serravalle's Latin
+0497	64	affina	misread	was allina
+0499	11	alis	misread	was aliis
+0499	48	fugierunt.	printed	Serravalle's Latin
+0500	8	cooperuit	printed	Serravalle's Latin
+0500	45	Eo	printed	Italian lemma in the commentary
+0501	37	orientem	printed	Serravalle's Latin
+0501	38	Talis	printed	Serravalle's Latin
+0501	43	eum	printed	Serravalle's Latin
+0501	98	mare	printed	Serravalle's Latin
+0501	100	Talis	printed	Serravalle's Latin
+0502	39	splendidius.	misread	was splendididus.
+0502	41	organo	misread	was primis
+0502	57	buntur	printed	attri-/buntur; Serravalle's Latin
+0503	55	Monstrare	printed	Serravalle's Latin
+0504	37	indignatum;	printed	Serravalle's Latin
+0505	5	Ombre fur vane, però che	printed	the edition's Italian reading
+0505	9	ritrassi,	misprint	ritrasse; the Latin se retraxit
+0505	55	illum	printed	Serravalle's Latin
+0505	78	magnum	printed	Serravalle's Latin
+0506	12	Inamoroso	misprint	Memoria o uso; the Latin Memoriam et usum
+0506	46	moritur,	misread	was ripam moritur,; ripam not in the image
+0506	74	Problematibus,	misread	was Problematiibus,
+0507	19	Questi	misprint	Queti; the Latin Quiete
+0507	25	ne sà	misprint	nè; no accent visible on ne; the accent of sà printed
+0507	79	istam,	printed	Serravalle's Latin
+0508	72	parti	misprint	partì; no accent visible
+0509	44	in corpore	printed	Serravalle's Latin
+0511	43	admiserunt	printed	Serravalle's Latin
+0511	78	crat	misprint	already listed
+0512	39	Pozzolim,	printed	Serravalle's Latin
+0512	50	respondidit	printed	Serravalle's Latin
+0512	80	*Et sufferit*	printed	Serravalle's lemma
+0513	56	Stetis	printed	Serravalle's Latin
+0514	10	Che 'nverso 'l ciel più alta si dissala?	misprint	a wrong line; the Latin Ita quod possit ascendere qui vadit sine ala
+0514	25	Quant'um	misprint	already listed
+0514	49	proieceret	printed	Serravalle's Latin
+0514	61	istarum	printed	duorum on the next line; Serravalle's Latin
+0514	68	deior,	misprint	already listed
+0514	74	descensus	printed	Serravalle's Latin
+0514	79	eundem.	printed	Serravalle's Latin
+0514	90	sed	printed	Serravalle's Latin
+0515	20	Si	misprint	Sì; no accent visible
+0515	66	penituissent	printed	Serravalle's Latin
+0515	73	que	printed	Serravalle's Latin
+0515	97	interrogerentur:	printed	Serravalle's Latin
+0516	38	venibant	printed	Serravalle's Latin
+0516	95	tur,	printed	morire-/tur; Serravalle's Latin
+0517	41	quotquot	printed	Serravalle's Latin
+0517	46	superciliorum divisum.	printed	Serravalle's Latin
+0517	80	lomones,	printed	Serravalle's Latin
+0517	103	sibi	printed	Serravalle's Latin
+0518	50	deventum;	printed	Serravalle's Latin
+0518	75	proiiciret	printed	Serravalle's Latin
+0519	45	e di que' cenni	misread	columns in order: the left column ends fanno tra loro, the right begins here
+0521	4	rel	misprint	already listed
+0523	65	ulli	printed	Serravalle's Latin
+0523	70	abscultat,	printed	Serravalle's Latin
+0523	106	spiribus	misprint	spiritibus
+0524	29	volvebant	printed	Serravalle's Latin
+0524	70	Biasmantuam,	misread	was Piasmantuam,; the B damaged
+0525	16	l'anghio	misprint	'l cinghio; the Latin cingulum
+0525	28	ventrum	misprint	already listed
+0525	80	illum	printed	Serravalle's Latin
+0525	83	ibi	printed	Serravalle's Latin
+0526	11	yederesti	misprint	vederesti; y for v
+0526	19	mal non seppe	printed	the edition's Italian reading
+0526	24	ipsi	printed	Serravalle's Latin
+0526	38	intra-	printed	intra-/batur; Serravalle's Latin
+0526	48	sotictate	misprint	already listed
+0526	55	Cirico,	printed	Serravalle's Latin
+0526	96	dispositionum	misread	was disposit'onum
+0527	6	canco,	misprint	already listed
+0527	11	monte	misprint	moto; the Latin motus
+0527	18	Quand'havemo	misprint	Quant'; the Latin Quantum
+0527	24	'n andar	misprint	su andar; the Latin sursum ire
+0527	60	ymum,	misprint	unum; the verse Ad unum
+0527	61	intuitur.	printed	Serravalle's Latin
+0527	66	nunquam	printed	Serravalle's Latin
+0527	68	motus circuli	printed	Serravalle's Latin
+0528	5	suo parola	printed	the edition's Italian reading
+0528	32	lapsus,	printed	Serravalle's Latin
+0528	33	amplexebatur	printed	Serravalle's Latin
+0528	98	clinum,	printed	de-/clinum; Serravalle's Latin
+0529	41	sinistrun	misprint	already listed
+0529	50	sedit	printed	Serravalle's Latin
+0529	52	ipsum,	printed	Serravalle's Latin
+0529	64	me	printed	Serravalle's Latin
+0529	96	reprehendit?	printed	Serravalle's Latin
+0529	106	ipsum,	printed	Serravalle's Latin
+0530	11	ego tango	printed	Serravalle's Latin
+0530	12	quiu	misprint	already listed
+0530	28	ego tango	printed	Serravalle's Latin
+0531	3	Più	misread	was Piu; the accent is visible
+0531	27	possi-	misread	possi- left out at the line end
+0531	31	verita;	misprint	verità; no accent visible
+0531	78	dà	misread	was da; the accent is visible
+0531	79	sì variamente e sì	misread	was si ... si; the accents are visible
+0533	16	muitos	misprint	already listed
+0534	6	gridò:	printed	the edition's Italian reading
+0535	5	l'ochi	printed	the edition's Italian reading
+0535	21	um	misprint	un; m for n
+0535	40	remissionem	printed	Serravalle's Latin
+0535	74	signorat	misprint	already listed
+0535	91	unum reliquo	printed	Serravalle's Latin
+0537	59	aliquam	printed	Serravalle's Latin
+0537	90	dominus, dominus	printed	Serravalle's Latin
+0538	28	Anthenoris,	printed	Serravalle's Latin
+0538	74	Engeganea,	printed	Serravalle's Latin
+0539	16	lieta	misprint	bassa; the Latin demissa
+0539	22	illuc	printed	Serravalle's Latin
+0539	45	ibi	printed	Serravalle's Latin
+0540	34	nunquam	printed	Serravalle's Latin
+0540	48	eum	printed	Serravalle's Latin
+0540	84	reprehendit,	printed	Serravalle's Latin
+0541	16	Nell'altro,	misprint	Nell'Arno; the Latin In Arnum
+0541	33	aiere	printed	Serravalle's Latin
+0541	48	Sapia:	printed	Serravalle's Latin
+0541	90	pro sua preda,	printed	Serravalle's Latin
+0542	62	extollerunt,	misprint	extulerunt; a quotation
+0542	87	ih	misprint	already listed
+0544	10	porgela	printed	the edition's Italian reading
+0544	23	cum pressura	printed	Serravalle's Latin
+0545	6	allora	misprint	a loro; the Latin eis
+0545	18	Menar	misprint	Mentr'è; the Latin Dum est
+0545	33	hinc	printed	Serravalle's Latin
+0545	47	brachia;	printed	Serravalle's Latin
+0546	95	abbreviarentur	printed	Serravalle's Latin
+0547	54	rogamen,	misread	was rogamem,
+0547	63	et felicem.	printed	Serravalle's Latin
+0547	67	quod illi	printed	Serravalle's Latin
+0547	74	*Et ego	misread	was *El ego
+0547	78	dictator	misread	columns in order: the left column ends et bonus, the right begins here
+0547	99	aliter est quod	printed	Serravalle's Latin
+0548	61	ipsum:	printed	Serravalle's Latin
+0548	75	*Mantuane*:	printed	Serravalle's Latin
+0549	102	fluvium quoddam	printed	Serravalle's Latin
+0550	6	Monandi	misprint	Monaldi; the Latin Monaldos
+0550	95	sancte	printed	Serravalle's Latin
+0551	8	Fiorenze	misprint	Fiorenza; the Latin Florentia
+0551	26	Quot	printed	Serravalle's Latin
+0551	30	transgressione	printed	Serravalle's Latin
+0551	59	Tarpec.	misprint	Tarpei; c for i
+0552	21	reminiscor,	printed	Serravalle's Latin
+0552	38	Lacedemonio-	misread	was Lacedemo-/nium; the image has Lacedemonio-/rum
+0552	49	invenire,	printed	Serravalle's Latin
+0553	17	di la	misprint	là; no accent visible
+0553	21	già	misread	was gia; the accent is visible
+0553	21	unì;	misread	was uni; the accent is visible
+0553	21	di la.	misprint	là; no accent visible
+0553	25	ci a diebus	misprint	ei; the same c as in ci uni
+0556	18	volute	printed	Serravalle's Latin
+0557	42	monstravit?	printed	Serravalle's Latin
+0557	53	cum suspiriis.	printed	Serravalle's Latin
+0557	85	perpendi,	printed	Serravalle's Latin
+0558	39	certius	printed	Serravalle's Latin
+0558	106	solum	printed	Serravalle's Latin
+0559	59	tamquam	misread	was tainquam; an m with a stray dot
+0559	73	quod	printed	Serravalle's Latin
+0560	37	audivi,	printed	Serravalle's Latin
+0560	47	alios	printed	Serravalle's Latin
+0560	80	collo,	printed	Serravalle's Latin
+0560	93	alios	printed	Serravalle's Latin
+0561	44	fascis,	printed	Serravalle's Latin
+0561	96	ad genu,	printed	Serravalle's Latin
+0561	112	ipse	printed	Serravalle's Latin
+0562	68	de illo	printed	Serravalle's Latin
+0562	76	et non	printed	Serravalle's Latin
+0562	101	dicit,	misread	was d'cit
+0563	10	ne'regni	misprint	rami; the Latin in ramis
+0563	16	melior,	printed	Serravalle's Latin
+0563	25	Montemferratum Canavesse.	printed	Serravalle's Latin
+0563	28	cantant,	printed	Serravalle's Latin
+0563	72	de Montisferrati,	printed	Serravalle's Latin
+0563	90	infra istos	printed	Serravalle's Latin
+0564	35	il di tien	misprint	dì; no accent visible
+0564	57	volontà	misread	was volonta; the accent is visible
+0566	5	e'dolci	misprint	a' dolci; the Latin dulcibus amicis
+0566	6	Così lo	misprint	E che; the Latin Et quod
+0567	19	tacito	misprint	pallido; the Latin pallidum
+0567	100	discuspiditatum;	printed	Serravalle's Latin
+0568	46	nos	printed	Serravalle's Latin
+0568	47	descendimus,	printed	Serravalle's Latin
+0568	48	respiciebat,	printed	Serravalle's Latin
+0568	97	nos	printed	Serravalle's Latin
+0568	102	descendimus,	printed	Serravalle's Latin
+0568	103	respiciebat	printed	the commentary has solum me
+0569	7	dichiarasser	printed	the edition's Italian reading
+0569	47	ad me	printed	Serravalle's Latin
+0569	85	ad me	printed	Serravalle's Latin
+0569	98	secus	printed	Serravalle's Latin
+0570	7	misero,	misprint	misera; the Latin misera
+0570	8	di lei vi	misprint	di lieve; the Latin de levi
+0570	20	illam	printed	Serravalle's Latin
+0570	42	istà	printed	the accent is visible
+0570	79	illam	printed	Serravalle's Latin
+0571	18	la 'l	misprint	là; no accent visible
+0571	31	Que sine mensura	printed	Serravalle's Latin
+0571	34	ostello.	printed	Serravalle's Latin
+0571	41	ego loquebar,	printed	Serravalle's Latin
+0571	57	comparationem	printed	Serravalle's Latin
+0571	58	guiucti	printed	Serravalle's Latin
+0571	83	in fine,	printed	Serravalle's Latin
+0571	89	ego loquebar	printed	Serravalle's Latin
+0572	10	poste e rivolando	printed	the edition's Italian reading
+0572	20	Melespina:	misprint	Malaspina; the Latin Malaspina
+0572	32	a me loquela	printed	Serravalle's Latin
+0572	36	Incépit	printed	the accent is visible
+0572	61	viridas	printed	Serravalle's Latin
+0572	73	nominavit,	printed	Serravalle's Latin
+0572	88	die	misprint	dic; the verse dic illud
+0573	13	bontade	misprint	borsa; the Latin burse
+0574	12	si cara,	misprint	sì; no accent visible
+0574	22	sì	misread	was si; the accent is visible
+0575	25	auctorem	printed	Serravalle's Latin
+0577	14	Posita	printed	Serravalle's Latin
+0577	57	eum ortum	printed	Serravalle's Latin
+0577	64	hinc	misread	was hine
+0578	10	sedavamo.	printed	the edition's Italian reading
+0578	62	vinctus	printed	Serravalle's Latin
+0578	98	prope, idest	printed	Serravalle's Latin
+0578	109	nedem,	printed	Ga-/nedem; Serravalle's Latin
+0579	8	siede	misprint	fiede; the Latin ferit
+0579	10	Disdegnan	misprint	Disdegna; the Latin Dedignatur
+0579	11	giù rotata	misprint	più; the Latin magis rotando
+0579	14	d'ella	misprint	ch'ella; the Latin ipsa et ego
+0579	25	a caccia.	printed	the Latin ad venationem agrees
+0579	91	Chirontis,	printed	Serravalle's Latin
+0580	20	fòr me:	printed	the Latin excepto me agrees
+0580	29	ricamb'io:	printed	the edition's Italian reading
+0580	53	prius	printed	Serravalle's Latin
+0580	99	Heic te posuit	printed	Serravalle's Latin
+0581	14	27 Come l'ochio	misprint	E come; the Latin Et sicut
+0581	53	auctorem attentum	printed	Serravalle's Latin
+0581	74	reflectabat	printed	Serravalle's Latin
+0581	82	offensa facta	printed	Serravalle's Latin
+0581	90	cum bona	printed	Serravalle's Latin
+0581	111	non noiet,	printed	Serravalle's Latin
+0582	25	scogla.	printed	the edition's Italian reading
+0582	45	livida	printed	Serravalle's Latin
+0582	64	intus	printed	Serravalle's Latin
+0582	70	contitendum,	misprint	already listed
+0583	24	Quousque	printed	Serravalle's Latin
+0584	27	clause	printed	Serravalle's Latin
+0584	33	mugit	printed	Serravalle's Latin
+0584	78	regionis	printed	Serravalle's Latin
+0585	18	Talem	misread	was Talein
+0585	19	qualem	printed	Serravalle's Latin
+0585	28	conversatione.	printed	Serravalle's Latin
+0587	3	*Postea fui-	printed	Serravalle's Latin
+0587	22	que se	printed	Serravalle's Latin
+0587	23	hinc	misread	was hine
+0588	29	reclausa	printed	Serravalle's Latin
+0589	8	un poca	printed	the edition's Italian reading
+0589	48	voleus	misprint	already listed
+0589	65	multum	printed	Serravalle's Latin
+0589	110	recedimus,	printed	Serravalle's Latin
+0590	7	Misurebbe	printed	the edition's Italian reading
+0590	30	alterius	printed	Serravalle's Latin
+0590	44	Aperuit	printed	Serravalle's Latin
+0590	45	Ante me	printed	Serravalle's Latin
+0590	53	alterius	printed	Serravalle's Latin
+0590	102	aperuit	printed	Serravalle's Latin
+0590	103	ante me	printed	Serravalle's Latin
+0591	75	latum	printed	Serravalle's Latin
+0591	81	unam aliam	printed	Serravalle's Latin
+0591	91	gemor,	printed	Serravalle's Latin
+0591	98	propter quod	printed	Serravalle's Latin
+0592	16	mimus	misprint	already listed
+0592	23	bam:	printed	audie-/bam; Serravalle's Latin
+0593	50	te expecta	printed	Serravalle's Latin
+0594	6	L'ymagine	misprint	L'ymagini; the Latin Ymagines
+0594	22	non so io che, nel veder	misprint	non so che, sì nel veder; the Latin nescio quid, ita in videre
+0594	34	altos	printed	Serravalle's Latin
+0594	35	erat	printed	Serravalle's Latin
+0594	69	qui ipse	printed	Serravalle's Latin
+0594	88	isti	printed	Serravalle's Latin
+0595	31	lapsi,	printed	Serravalle's Latin
+0595	38	Postea	printed	Serravalle's Latin
+0595	51	quod prius,	printed	Serravalle's Latin
 0595	56	illud	printed	illum expected (qui venit)
 0595	62	infermi,	printed	the Latin verse has infirmi
 0596	30	sì	misread	was si; Italian verse quoted in the essay
 0596	56	ciò	misread	was cio
 0596	57	sublimita	misprint	for sublimità; no accent visible
 0596	71	d'intellettualita	misprint	for d'intellettualità; no accent visible
+0598	37	Auscultando	printed	Italian lemma in the commentary
 0598	74	tribulatione,	printed	retributione expected by the reader
+0599	8	buon voler	misprint	voler; the Latin de suo velle
 0599	21	veuce.	misprint	for vence; gloss of s'adona
+0599	37	nos spronat.	printed	Serravalle's Latin
+0599	74	ad eum	printed	Serravalle's Latin
 0599	80	tuo	printed	the Latin verse has suo
+0600	30	lapse	printed	Serravalle's Latin
+0600	35	levare	printed	Serravalle's Latin
 0600	41	quam	printed	quem expected (amore)
 0600	46	tuo	printed	the Latin verse has suo
 0600	59	nos sic nos	printed	nos repeated
+0600	106	rotas, stellas.	printed	Serravalle's Latin
 0601	59	pietate.	printed	lemma; the Latin verse has pietas
 0601	72	Purgatoriam,	printed	also in lexcheck.tsv
 0601	102	fuit	printed	Ego fuit; fui expected

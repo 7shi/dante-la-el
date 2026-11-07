@@ -45,7 +45,7 @@ Poteris perquirere, et non reperies umbram
 Dignam magis figi in gialatina:
 
 auctor caute. Si dixisset: Dicite, vos proditores; forte non
-respondisscnt: sed nec vult eos laudare; sed loquitur verba
+respondissent: sed nec vult eos laudare; sed loquitur verba
 que possent habere utrumque sensum et sonare in bonum
 et in malum, sicut aliquando aliqui stringunt se invicem
 propter amorem, aliquando propter odium, ut occidat unus
@@ -100,6 +100,6 @@ qui me ingombrat, idest, aggravat, vel adumbrat (nota
 quod rex Artusius, qui fuit rex optime insule Anglie,
 valde potens, cupivit venire ad magnum statum, etiam
 consiliis magistri Merlini, qui tunc clarebat; et perquisivit
-multas provint'as, quesivit et ordinavit Tabulam Rotun-
+multas provintias, quesivit et ordinavit Tabulam Rotun-
 dam, et quod illi milites pugnarent pro libertate et ope-
 ribus pietatis: tandem subiugata tota Anglia, voluit extra
