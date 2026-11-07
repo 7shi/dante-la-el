@@ -171,7 +171,8 @@ def apply(canticle: str, canto: int, args: argparse.Namespace) -> tuple[int, int
     if saved is None or stale:
         return 0, 0
     txt_path, _ = paths(canticle, canto, args)
-    letters = re.compile(LANGUAGES[args.lang_code]["letters"])
+    language = LANGUAGES[args.lang_code]
+    letters = re.compile(language["letters"])
     current = list(translations)
     touched: set[int] = set()
     applied = rejected = 0
@@ -195,9 +196,9 @@ def apply(canticle: str, canto: int, args: argparse.Namespace) -> tuple[int, int
             candidate = list(current)
             for no, text in fixes.items():
                 candidate[no - 1] = text
-            before = {no for first, last in runs(canticle, canto, current)
+            before = {no for first, last in runs(canticle, canto, current, language)
                       for no in range(first, last + 1)}
-            after = {no for first, last in runs(canticle, canto, candidate)
+            after = {no for first, last in runs(canticle, canto, candidate, language)
                      for no in range(first, last + 1)}
             if after - before:
                 reason = f"quote marks no longer follow the original at {span(sorted(after - before))}"
