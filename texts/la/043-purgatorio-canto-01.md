@@ -38,7 +38,7 @@ ianitor, sive custos, concedit passum, faciendo sibi aliqua precepta.
 
 In quarta parte, que incipit ibi:
 
-Così spari, e io su mi levai; Sic disparuit, et ego sursum,
+Così sparì, e io su mi levai; Sic disparuit, et ego sursum,
 
 ostendit quomodo auctor fecit ea, que fuerunt sibi imposita.
 
@@ -318,7 +318,7 @@ Nunc probat Virgilius, quod Catho debeat eos exaudire, probans hoc per argumentu
 
 Nunc tibi placeat habere gratum suum adventum: libertatem vadit querendo, que est ita cara, sicut scit (idest sicut tu scis) qui propter eam vitam refutat, idest respuit. Nota quod Catho in partibus Libie, videns bellum civile factum, mortuum Pompeium, Rempublicam subiugatam a Cesare, nolens vivere in subiectione, in una civitate quadam, que dicitur Utica, semetipsum interfecit et despexit vitam. Ista civitas, secundum aliquos, erat obsessa a Cesare: ne igitur veniret ad manus Cesaris, se interfecit, ne perderet libertatem et ut moriretur liber.
 
-Tu scis quod non fuit tibi amara pro ea in Utica mors, ubi dimisisti vestem, idest carnem, que in grandi die, idest iudicii, erit ita cara; quia in die iudicii anime beate iudificate lucebunt sicut sol, et tunc caro, resuscitata et glorificata, erit cara valde anime sue: vel aliter, erit ita cara, quia qui semetipsos interfecerunt, vellent se revestire carnem, et non poterunt, ut patet in Inferno, capitulo decimotertio.
+Tu scis quod non fuit tibi amara pro ea in Utica mors, ubi dimisisti vestem, idest carnem, que in grandi die, idest iudicii, erit ita cara; quia in die iudicii anime beatificate lucebunt sicut sol, et tunc caro, resuscitata et glorificata, erit cara valde anime sue: vel aliter, erit ita cara, quia qui semetipsos interfecerunt, vellent se revestire carnem, et non poterunt, ut patet in Inferno, capitulo decimotertio.
 
 Non sunt edicta eterna per nos destructa: quia iste est vivus et Mynos me non ligat (dicunt hic aliqui, et minus bene, quod Mynos concessit licentiam Virgilio veniendi pro Dante: sed hec opinio non valet; sed intelligitur sic: Iste non est mortuus, et Mynos me non ligat, quia ego sum de circulo illustrium virorum, ubi Mynos nullum habet ius); sed sum de circulo, ubi sunt oculi casti Marcie tue, que in apparentia, *in vista*, adhuc te precatur, idest precari videtur, o sanctum pectus, quod pro tua illam teneas: propter suum amorem igitur ad nos te plica, id est inclina. Marcia hic accipitur pro honestate, que nunquam recessit a Cathone; vel aliter accipitur pro uxore Cathonis, que rogavit eum, ut eam pro sua teneret. Nota quod Cathone existente antiquo, uxor, scilicet sua, Marcia, appetebat
 
@@ -544,7 +544,7 @@ Ma a questo non si arriva se non salendo con infinito stento tutto il monte, e a
 
 Ch'esser non lascia... Dio manifesto.
 
-E qui sta il martirio. Ineffabile martirio; a cui però si congiunge un gaudio poco men che di Paradiso, per esserne principale agente l'infinito amor divino, che investe le anime chiamate a tanta sorte, e le allina così che diventino degne dell'amplesso suo immortale. Il che veniva maravigliosamente espresso nel suo *Trattato del Purgatorio* da quel miracolo di donna, che fu Caterina da Genova, dopo che « ancora in carne, trovandosi posta nel Purgatorio dell'affocato divino amore, il quale tutta la bruciava e purificava di quanto era in lei da purificare, acciocchè, passando di questa vita, potesse essere presentata innanzi al cospetto del suo dolce amore Iddio; per questo, di questo amoroso fuoco, comprendeva nell'anima sua come stavano le anime del Purgatorio, per purgare ogni ruggine e macchia di peccato, che in questa vita non avessero ancora purgato » (*Tratt. del Purgat*., cap. I).
+E qui sta il martirio. Ineffabile martirio; a cui però si congiunge un gaudio poco men che di Paradiso, per esserne principale agente l'infinito amor divino, che investe le anime chiamate a tanta sorte, e le affina così che diventino degne dell'amplesso suo immortale. Il che veniva maravigliosamente espresso nel suo *Trattato del Purgatorio* da quel miracolo di donna, che fu Caterina da Genova, dopo che « ancora in carne, trovandosi posta nel Purgatorio dell'affocato divino amore, il quale tutta la bruciava e purificava di quanto era in lei da purificare, acciocchè, passando di questa vita, potesse essere presentata innanzi al cospetto del suo dolce amore Iddio; per questo, di questo amoroso fuoco, comprendeva nell'anima sua come stavano le anime del Purgatorio, per purgare ogni ruggine e macchia di peccato, che in questa vita non avessero ancora purgato » (*Tratt. del Purgat*., cap. I).
 
 « Non credo (dice la gran donna) che si possa trovar contentezza da comparare a quella di un'anima di Purgatorio; eccetto quella dei Santi del Paradiso. E questa contentezza
 

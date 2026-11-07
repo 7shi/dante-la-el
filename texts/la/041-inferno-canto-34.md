@@ -376,7 +376,7 @@ Quando nos fuimus ibi, ubi tibie, idest ubi crura et tibie coniunguntur corpori,
 
 (1) al. da tucto. — (2) di quel saxo. — (3) del centro. — (4) ritorna. — (5) d'errore.
 
-grosso naticarum, vel natuun, dux cum labore et cum angustia volvit caput ubi habebat crura, vel pedes, et applicuit se ad pilum, sicut homo qui ascendit; ita quod in Infernum credebam venire iterum. *Volvit caput*: naturaliter et proprie loquitur. Dixit quod quando fuit in natica Luciferi, volvit se sub et supra. Presuppone quod terra circa centrum habeat foramen unum, quod transeat subtus, si habet rota: modo si aliquis iaceret unum lapidem, quam esset ad medium vie, idest in centro, ibi staret; quia si ultra iret, tunc sequeretur quod ascenderet naturaliter quod est impossibile, nisi motu violento impelleretur. Ergo ad propositum, si transibant centrum, oportebat de necessitate quod volverent caput, si volebant ire recti. *Cum angustia*: ad denotandum quod difficulter receditur a vitiis. *Sale*: quia ascendit.
+grosso naticarum, vel natuum, dux cum labore et cum angustia volvit caput ubi habebat crura, vel pedes, et applicuit se ad pilum, sicut homo qui ascendit; ita quod in Infernum credebam venire iterum. *Volvit caput*: naturaliter et proprie loquitur. Dixit quod quando fuit in natica Luciferi, volvit se sub et supra. Presuppone quod terra circa centrum habeat foramen unum, quod transeat subtus, si habet rota: modo si aliquis iaceret unum lapidem, quam esset ad medium vie, idest in centro, ibi staret; quia si ultra iret, tunc sequeretur quod ascenderet naturaliter quod est impossibile, nisi motu violento impelleretur. Ergo ad propositum, si transibant centrum, oportebat de necessitate quod volverent caput, si volebant ire recti. *Cum angustia*: ad denotandum quod difficulter receditur a vitiis. *Sale*: quia ascendit.
 
 Teneas te bene, quia per tales scalas, dixit magister, angustiando, idest angustiam sustinendo, tamquam homo fessus, convenit, idest oportet, quod discedatur a tantis malis.
 
@@ -530,13 +530,11 @@ Sed modo ymaginandum est, quod quando Dantes fecit istam questionem, sive istas 
 
 Dux et ego per illud iter absconsum, quia nullum est ibi lumen, intravimus ad redeundum in clarum mundum; et sine cura habendi aliquam quietem (nam semper cum labore fecerunt tale iter, nec curaverunt pausare in aliquo loco), ascendimus sursum, ipse primus et ego secundus, tantum quod ego vidi de rebus pulchris (quia dum adhuc essent in loco obscuro, prope exitum ad aliud emispirium, incepit videre stellas, quas non viderat dum fuit in Inferno) quas portat celum; idest stellas, quia sunt in celo, et, dum celum volvitur, volvuntur simul et stelle in eo fixe; per unum foramen rotundum, idest per quod ultimo exiverunt.
 
-quousque fuerunt extra, et pervenerunt ad superficiem alterius terre alterius emispirii.
+*Et quinde*, idest inde, exivimus ad revidendum stellas. Factis responsionibus a Virgilio ipsi Danti super duabus questionibus, de quibus Dantes petierat a Virgilio, ipsi ambulaverunt per illud foramen, volendo exire de illa obscuritate, sine aliqua quiete; idest nullibi quieverunt, quousque fuerunt extra, et pervenerunt ad superficiem alterius terre alterius emispirii.
 
 Nota quod sicut opposite sunt vie ad diversos et oppositos terminos in naturalibus, ita in moralibus et spiritualibus accidit, quia Hierusalem significat patriam celestem. Qui vult ire ad patriam celestem, oportet ire per viam que est opposita ad Infernum. Que est illa? Certe est via per Purgatorium. Ideo Dantes et Virgilius, volentes tendere ad celum, recesserunt a centro terre, idest a profundo Inferni, idest a vitiis, et iverunt ad Purgatorium, idest ad virtutes, que fugant vitia, que conducunt ad felicitatem. Notandum est, quod Virgilius fecit bonam fictionem in fine sexti libri Eneydos, ubi fingit quod due sunt vie, etc.: una cornea, alia eburnea. Idest exitur de Inferno vel realiter, et hoc non accidit; vel intentionaliter et mentaliter, et hoc bene accidit. Laus Iesu Christo, completo isto primo libro. Amen, Amen, Amen.
 
 Explicit ultimum capitulum, idest tricesimumquartum, huius Inferni.
-
-*Et quinde*, idest inde, exivimus ad revidendum stellas. Factis responsionibus a Virgilio ipsi Danti super duabus questionibus, de quibus Dantes petierat a Virgilio, ipsi ambulaverunt per illud foramen, volendo exire de illa obscuritate, sine aliqua quiete; idest nullibi quieverunt,
 
 Qui scripsit scribat (1), semper cum lumine vivat (2): Vivat et hic felix cum multo tempore fenix:
 

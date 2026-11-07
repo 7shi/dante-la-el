@@ -533,7 +533,7 @@ Surta, che l'ascoltar chiedea con mano.\
 Ella giunse e levò ambe le palme,\
 Ficcando gli occhi verso l'orïente,\
 Come dicesse a Dio: D'altro non calme.\
-*Te lucis ante*, si devotamente\
+*Te lucis ante*, sì devotamente\
 Le uscì di bocca, e con sì dolci note,\
 Che fece me a me uscir di mente.\
 E l'altre poi dolcemente e devote\
