@@ -48,7 +48,7 @@ In isto decimotertio capitulo, quod incipit: *Ymaginetur qui bene intelligere cu
 &emsp;Quale fecit filia Minoys\
 &emsp;Tunc quando ipsa sensit mortale gelu;
 
-*Ymaginetur qui bene intelligere cupit*. *Imagine chi bene intender cupe*: istud est decimumtertium tertium capitulum istius Paradisi, in quo auctor declarat secundum dubium pretactum in decimo capitulo supra posito, ubi dicebatur, Non surrexit secundus. Et dividitur istud capitulum in quatuor partes. In quarum prima auctor manifestat descriptionem factam duarum coronarum per unam similitudinem ymaginariam.
+*Ymaginetur qui bene intelligere cupit*. *Imagine chi bene intender cupe*: istud est decimumtertium capitulum istius Paradisi, in quo auctor declarat secundum dubium pretactum in decimo capitulo supra posito, ubi dicebatur, Non surrexit secundus. Et dividitur istud capitulum in quatuor partes. In quarum prima auctor manifestat descriptionem factam duarum coronarum per unam similitudinem ymaginariam.
 
 In secunda parte, que incipit ibi:
 

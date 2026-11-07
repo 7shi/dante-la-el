@@ -140,7 +140,7 @@ Ex quo igitur michi datis tantum gaudium, peto a vobis quatuor: scilicet, qui fu
 
 13 Ad suum Leonem quingentis quinquaginta\
 &emsp;Et triginta vicibus venit iste ignis\
-&emsp;Ad reinflammandum se sub sua planeta.
+&emsp;Ad reinflammandum se sub sua plancta.
 
 Dicite ergo michi, o cara mea primitia, idest o origo mea et principium originis mee (quia iste fuit pater Aldigerii, qui fuit proavus Dantis et a quo mutatum est nomen Eliseorum in nomine Aldigeriorum, qui fuit magnus doctor iuris et superbus homo), ecce primum petitum, qui fuerunt vestri antiqui; secunda petitio, qui fuerunt anni qui signati fuerunt in vestra pueritia; dicite michi (tertia petitio) de ovili Sancti Ioannis, idest de Florentia cuius patronus est Sanctus Ioannes, quantum erat tunc; quarta petitio, et que erant gentes, intra ipsum, scilicet ovile, digne altioribus scampnis.
 

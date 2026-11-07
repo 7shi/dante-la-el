@@ -296,6 +296,7 @@ HYPHEN_FIXED = {}
 # the last word of the line and the first of the next, joined without a space.
 HYPHEN_MISSING = {
     ("0639", "vir", "tuosus"),  # virtuosus
+    ("1165", "pere", "grini,"),  # peregrini
 }
 
 
