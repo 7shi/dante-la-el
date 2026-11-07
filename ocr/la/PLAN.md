@@ -616,7 +616,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0637 | 7 | `Da quel che parte el perigo e gl'affanni;` | `l'assanni` | Italian verse XIV (the Latin `assannet`); found by the read-through. |
 | 0637 | 23 | `29 Seme d'invidia cotal pigla mieto (6).` | `Di mia semenza`, `paglia` | Italian verse XIV (the Latin `De meo semine tales paleas`); found by the read-through. |
 | 0637 | 97 | `o gens humana, exselamando dicit` | `exclamando` | Commentary; found by the read-through. |
-| 0639 | 47–48 | `vir` / `tuosus` | `vir-` | Commentary; no hyphen printed at the line end; found by the read-through. |
+| 0639 | 47–48 | `vir` / `tuosus` | `vir-` | Commentary; no hyphen printed at the line end (`texts/la` joins it: `HYPHEN_MISSING` in `convert_la.py`); found by the read-through. |
 | 0640 | 52 | `qued in uno loco esset guelfus` | `quod` | Commentary; found by the read-through. |
 | 0641 | 16 | `Che dovria l'hom tener dentr'a suo meta (6).` | `sua` | Italian verse XIV (the Latin `sua metam`); found by the read-through. |
 | 0643 | 68 | `insieme possesso e liberta, comunanza` | `libertà` | Essay; no accent visible; found by the read-through. |
