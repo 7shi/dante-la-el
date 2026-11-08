@@ -37,7 +37,7 @@ dilancialotto come amor lostrinse\
 soli erauamo et senzalcun sospetto\
 Ibid. v. 127-9.
 
-1477\. The next remarkable edition that I have had opportunities of examining, also in the Museum, is that of Vendelin da Spira, printed at Venice in 1477. M. de Batines gives to it the title of La Divina Commedia, apparently through inadvertency, as he also does to editions printed in 1473, 1484, 1487, and 1491. The epithet Divina occurs in no edition of the fifteenth century; but at the end of this of Vendelin, in some vehement helpless
+1477\. The next remarkable edition that I have had opportunities of examining, also in the Museum, is that of Vendelin da Spira, printed at Venice in 1477. M. de Batines gives to it the title of La DIVINA Commedia, apparently through inadvertency, as he also does to editions printed in 1473, 1484, 1487, and 1491. The epithet DIVINA occurs in no edition of the fifteenth century; but at the end of this of Vendelin, in some vehement helpless
 
 of Foscolo’s UDIA davanti. I find TREMESSE also in the very rare Neapolitan edition, printed about 1475. An exact reprint of the Fuligno edition, with the different readings of the other earliest editions, would be very acceptable; and the Museum now possesses good copies of them all.
 
@@ -94,17 +94,17 @@ da mosconi et da uespe cheron iui
 
 Inf. iii. 61-6.
 
-1502\. After these folio editions of the 15th century comes the first Aldine, printed in 1502; and one is glad to see so perfect a little volume. It bears the simple title of Le Terze Rime di Dante, in front; and, on the reverse, Lo ’nferno e ’l Purgatorio e ’l Paradiso di Dante Alaghieri. The text is said to have been taken from “a manuscript copy of Cardinal Bembo, now in the Vatican.” Batines, tom. i. p. 60.—The second Aldine edition, Dante col Sito et Forma dell’ Inferno tratta dalla istessa descrittione del Poeta, printed in 1515, is of the same size and form in every respect, page for page; and has woodcuts at the end, representing the position and shape of the Inferno. I have had these two editions constantly
+1502\. After these folio editions of the 15th century comes the first Aldine, printed in 1502; and one is glad to see so perfect a little volume. It bears the simple title of LE TERZE RIME DI DANTE, in front; and, on the reverse, LO ’NFERNO E ’L PURGATORIO E ’L PARADISO DI DANTE ALAGHIERI. The text is said to have been taken from “a manuscript copy of Cardinal Bembo, now in the Vatican.” Batines, tom. i. p. 60.—The second Aldine edition, DANTE COL SITO ET FORMA DELL’ INFERNO TRATTA DALLA ISTESSA DESCRITTIONE DEL POETA, printed in 1515, is of the same size and form in every respect, page for page; and has woodcuts at the end, representing the position and shape of the Inferno. I have had these two editions constantly
 
 <!-- p. xxi (027) -->
 
 at hand, and have found the last of them even more correct than the other.
 
-1506\. The second Florentine edition, Commedia di Dante insieme con un Dialogo circa el Sito Forma et Misure dello Inferno, published by Philippo di Giunta in 1506, is of the same small octavo size as the Aldine, and in similar type; but is much rarer than either of them, and has many different readings. It is also very correct. My copy contains Seven woodcuts, along with the Dialogue at the end, though only Six are spoken of by M. de Batines, p. 65.
+1506\. The second Florentine edition, COMMEDIA DI DANTE INSIEME CON UN DIALOGO CIRCA EL SITO FORMA ET MISURE DELLO INFERNO, published by Philippo di Giunta in 1506, is of the same small octavo size as the Aldine, and in similar type; but is much rarer than either of them, and has many different readings. It is also very correct. My copy contains Seven woodcuts, along with the Dialogue at the end, though only Six are spoken of by M. de Batines, p. 65.
 
 1507\. The Dante alighieri Fiorentino historiado, with the comment of Landino, printed at Venice in 1507, by Bart. de Zanni da Portese, is a rare and curious edition with singular woodcuts, but of little practical value. The words flow together in it, as in the editions of the fifteenth century, though the text seems mainly taken from the Aldine.
 
-1516\. The first edition with the title of Divina Commedia is said to be the one printed at Venice in 1516, by Bernardino Stagnino de Monferra. It has become very scarce; and I have not been able to get sight of it to verify the assertion. But in the neat and rare little Venice edition of 1555, by Gabriel Giolito di Ferrarii, of which there is a copy in the Museum, I do find that title.
+1516\. The first edition with the title of DIVINA Commedia is said to be the one printed at Venice in 1516, by Bernardino Stagnino de Monferra. It has become very scarce; and I have not been able to get sight of it to verify the assertion. But in the neat and rare little Venice edition of 1555, by Gabriel Giolito di Ferrarii, of which there is a copy in the Museum, I do find that title.
 
 1564\. The three Venetian editions of 1564, 1578, and 1596, all in folio, with the comments of Landino and Vellutello and many useful woodcuts, published by Giovambattista Sessa and his Brothers, are simply and beautifully, and on the whole very correctly printed. They are called Edizioni del Gatto, from the printer’s mark of a Cat with
 
@@ -124,11 +124,11 @@ Two of the four incorrect editions published in the 17th century have the title:
 
 <!-- p. xxiii (029) -->
 
-altered on the authority of the Nidobeatine, and of various mss. to which Lombardi had access in the Vatican and other libraries at Rome. The worthy Friar gives only his initials, F.B.L.M.C. (Fra Baldassare Lombardi, minor conventuale) on the title-page.
+altered on the authority of the Nidobeatine, and of various MSS. to which Lombardi had access in the Vatican and other libraries at Rome. The worthy Friar gives only his initials, F.B.L.M.C. (Fra Baldassare Lombardi, minor conventuale) on the title-page.
 
 1795\. The magnificent folio edition of Bodoni, edited by G. F. Dionisi—a learned, but perverse and quarrelsome, admirer of Dante—was printed at Parma in 1795.
 
-1807\. The Leghorn edition by Gaetano Poggiali (Livorno, Tommaso Masi et Cⁱ, 1807-13, 4 vols. 8vo) is in considerable esteem for its correctness. It gives various readings, from a parchment ms.—of the year 1330, as Poggiali fondly believes and asserts—and has a commentary, or paraphrase of the text, in separate volumes.
+1807\. The Leghorn edition by Gaetano Poggiali (Livorno, Tommaso Masi et Cⁱ, 1807-13, 4 vols. 8vo) is in considerable esteem for its correctness. It gives various readings, from a parchment MS.—of the year 1330, as Poggiali fondly believes and asserts—and has a commentary, or paraphrase of the text, in separate volumes.
 
 1817\. “La Divina Commedia con tavole in rame,” published at Florence, in four large folio volumes, and dedicated to Canova, in 1817-19, is perhaps the most splendid edition of Dante, though the plates are not all in good taste. The last volume contains a very judicious and useful selection of brief notes, many of them taken from the old manuscript commentaries which are not generally accessible. In truth, it is the best selection that has hitherto been made; and well deserves to be reprinted in a separate and more accessible form.
 
