@@ -381,7 +381,7 @@ Summum bonum, idest Deus, quod solum sibi placet, quia solus ipse seipsum intell
 &emsp;Mutavit honestum risum et dulce iocum.
 
 33 Perchè 'l turbar, che sotto di sè fanno\
-&emsp;exalation dell'acqua e de la terra,\
+&emsp;L'exalation dell'acqua e de la terra,\
 &emsp;Che, quanto posson, dietro al calor vanno,
 
 33 Ut turbatio inferior, quam a se faciunt\

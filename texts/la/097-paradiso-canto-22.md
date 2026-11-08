@@ -256,7 +256,7 @@ Ideo te precor, et tu, pater, me certifica, si ego possum apprehendere tantam gr
 
 Modo Sanctus Benedictus respondit auctori, dicens. Unde ipse, scilicet Sanctus Benedictus: O frater, tuum altum desiderium adimplebitur in ultima spera, idest in celo empyreo, ubi adimplebuntur omnia alia, et meum.
 
-Ibi est perfecta natura, et integrum quodlibet desiderium; in illa sola, omnis pars eius, scilicet prime spere, ubi est, semper erat; idest nulla pars eius mutat locum (nam alii celi, qui circulariter moventur, licet non mutent locum quantum ad totum, partes eorum mutant locum; sed prima spera, nec quoad ad se totam, nec quoad aliquam eius partem, mutat locum, quia est omnino immobilis); quia non est in loco, nec impolat se, idest non volvitur 136
+Ibi est perfecta natura, et integrum quodlibet desiderium; in illa sola, omnis pars eius, scilicet prime spere, ubi est, semper erat; idest nulla pars eius mutat locum (nam alii celi, qui circulariter moventur, licet non mutent locum quantum ad totum, partes eorum mutant locum; sed prima spera, nec quoad se totam, nec quoad aliquam eius partem, mutat locum, quia est omnino immobilis); quia non est in loco, nec impolat se, idest non volvitur 136
 
 <!-- p. 1082 (1136) -->
 

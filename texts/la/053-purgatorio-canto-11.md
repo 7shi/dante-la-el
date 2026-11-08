@@ -60,7 +60,7 @@ Continuando igitur dicta dicendis, auctor, ut patebit infra, ponit orationem, pr
 &emsp;Quia nos ad ipsam non possumus a nobis,\
 &emsp;Si ipsa non venit, cum toto nostro ingenio.
 
-4 Come del suo voler voler gl'angeli tuoi\
+4 Come del suo voler gl'angeli tuoi\
 &emsp;Fan sacrificio a te, cantando osanna,\
 &emsp;Così faccian li homini de'suoi.
 

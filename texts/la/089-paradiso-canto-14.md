@@ -322,7 +322,7 @@ O verum favillare, idest sintillare, Sancti Spiri, idest Spiraminis, quomodo fui
 
 31 E non era anco del mio pecto exhausto\
 &emsp;L'ardor del sacrificio, ch'io conobbi\
-&emsp;El Esso litare stato accepto e fausto;
+&emsp;Esso litare stato accepto e fausto;
 
 31 Et non erat adhuc de meo pectore exhaustus\
 &emsp;Ardor sacrificii, quod ego cognovi\

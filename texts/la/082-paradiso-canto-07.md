@@ -396,7 +396,7 @@ Vestra humana natura, scilicet quando peccavit, tota, idest totaliter, seminis s
 
 38 Nec inter ultimas rotas et primum diem\
 &emsp;Tam altus et tam magnificus processus,\
-&emsp;Sive per unum modum sive per alium, fuit vel.
+&emsp;Sive per unum modum sive per alium, fuit vel erit.
 
 Paradiso, fuit remota; idest sicut de Paradiso fuit expulsa, ita ab omnibus dignitatibus fuit remota et ab illis privata. Nec recuperari poterant, scilicet ille dignitates deperdite propter peccatum, si tu actendis bene subtiliter, per aliquam viam, nisi transisset per unum istorum graduum, idest modorum: vel quod Deus solum per suam curialitatem dimisisset; vel quod homo per se ipsum, idest ex puris naturalibus, satisfecisset suo sceleri, idest pro suo peccato, sive sue follie.
 

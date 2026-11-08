@@ -26,7 +26,7 @@ In isto tricesimoprimo capitulo, quod incipit: *In forma igitur candide rose*, a
 
 (1) de'beati homini — (2) militia angelica — (3) di Dio — (4) canta — (5) di Dio.
 
-*In forma igitur candide rose*. *In forma adonche de candida rosa*: istud est tricesimumprimum capitulum huius Paradisi, in quo auctor predictam formam curie celestis et celi Empyrei, quod sedes Dei et animarum beatarum est, describit. Quod d dividitur in quatuor partes principales. In quarum prima auctor describit actum et habitum angelorum, qui sunt multi aulici huius curie. In secunda parte, que incipit ibi:
+*In forma igitur candide rose*. *In forma adonche de candida rosa*: istud est tricesimumprimum capitulum huius Paradisi, in quo auctor predictam formam curie celestis et celi Empyrei, quod sedes Dei et animarum beatarum est, describit. Quod dividitur in quatuor partes principales. In quarum prima auctor describit actum et habitum angelorum, qui sunt multi aulici huius curie. In secunda parte, que incipit ibi:
 
 O trina lux, que es unica stella; O trina luce, che in unica stella,
 

@@ -82,7 +82,7 @@ describitur prima pena illorum, qui sunt in civitate, que reperitur ibi in intro
 
 6 In questo fondo de la trista conca\
 &emsp;Discende mai alcun del primo grado,\
-&emsp;Che sol per ha la speranza cionca?
+&emsp;Che sol per pena ha la speranza cionca?
 
 6 In istum fundum tristis conche\
 &emsp;Descendit unquam aliquis de primo gradu,\

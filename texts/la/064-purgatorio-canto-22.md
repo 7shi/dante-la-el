@@ -416,7 +416,7 @@ Euripides est ibi nobiscum, et Antifons, Symonides, Agathon et multi alii, idest
 &emsp;Est ibi filia Thyrexie et Thetis,\
 &emsp;Et cum suis sororibus Dyademya.
 
-39 Tacevansi amendue già poeti,\
+39 Tacevansi amendue già li poeti,\
 &emsp;Di nuovo attenti a riguardar intorno,\
 &emsp;Liberi dal salir e da pareti;
 

@@ -210,7 +210,7 @@ Beatus es grifo, qui non scindis cum rostro de isto ligno dulci ad gustum, postq
 
 20 Men che di rose e più che di viole\
 &emsp;Color apprende sì nuovo la pianta,\
-&emsp;Che prima avea ramora sì sole.
+&emsp;Che prima avea le ramora sì sole.
 
 20 Minus quam rosarum et plusquam violarum\
 &emsp;Colorem apprehendit; sic renovavit se plancta,\

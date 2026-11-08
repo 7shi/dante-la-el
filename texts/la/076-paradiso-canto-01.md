@@ -182,7 +182,7 @@ Parvam favillam grandis flamma sequitur; forsan retro me cum melioribus vocibus 
 
 13 Oritur mortalibus per diversas fauces\
 &emsp;Lucerna mundi; sed ab illa,\
-&emsp;Que quatuor circulos iungit cum crucibus circulis,
+&emsp;Que quatuor circulos iungit cum tribus crucibus,
 
 14 Con miglor corso (10) e con miglore stella (11)\
 &emsp;Esce congiunta (12), e la mondana cera (13)\
@@ -401,7 +401,7 @@ Sed Beatrix, cui nihil est occultum, perpendit de desiderio Dantis, absque hoc q
 &emsp;Quam facit mater super filium delirum;
 
 35 E cominciò (27): Le cose tucte quante (28)\
-&emsp;Ha Hanno ordine (29) tra loro; e questo (30) è forma\
+&emsp;Hanno ordine (29) tra loro; e questo (30) è forma\
 &emsp;Che l'universo (31) a Dio fa simiglante (32).
 
 35 Et incepit: Res omnes\

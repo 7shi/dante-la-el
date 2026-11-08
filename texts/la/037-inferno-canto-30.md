@@ -422,7 +422,7 @@ Una est falsa, scilicet illa, que cepit Ioseph per vestem, et ille aufugit, reli
 &emsp;Respondit ille qui habebat inflatam epam;\
 &emsp;Et tibi sit reum, quod totus mundus scit illud.
 
-41 A te sia reo la sete onde ti rea,\
+41 A te sia rea la sete onde ti crepa,\
 &emsp;Disse'l Greco (30), la lingua, e l'acqua marcia (31),\
 &emsp;Che 'l ventre innanzi agl'ochi ti si siepa (32).
 

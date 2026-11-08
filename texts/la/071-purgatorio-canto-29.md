@@ -116,7 +116,7 @@ Modo describitur sonus suavis qui erat ibi. Et unum melos dulce currebat per aie
 
 <!-- p. 762 (0816) -->
 
-9 Che, là ove ubbidia la e 'l cielo,\
+9 Che, là ove ubbidia la terra e 'l cielo,\
 &emsp;Femina (1) pur testè testè formata (2),\
 &emsp;Non sofferse di star socto alcun velo;
 

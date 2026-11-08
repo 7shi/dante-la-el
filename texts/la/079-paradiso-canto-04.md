@@ -421,7 +421,7 @@ Sepe, frater (ecce quod Beatrix vocat hic Dantem fratrem), iam evenit quod, prop
 &emsp;Talis posuit in pace unum et aliud desiderium.
 
 40 O manza dell'amante primo, o diva,\
-&emsp;Diss'io appresso, el cui parlar mi m'inonda\
+&emsp;Diss'io appresso, el cui parlar m'inonda\
 &emsp;E scalda sì, che più e più mi avviva,
 
 40 O amasia primi amasii, o diva,\

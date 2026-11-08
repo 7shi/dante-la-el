@@ -254,7 +254,7 @@ In Thessalia, in una contrata, que vocatur Flegra, fuit facta magna pugna gigant
 
 22 La tua superbia, se'tu ben punito:\
 &emsp;Nullo martiro, fuor che la tua rabbia,\
-&emsp;Sarebbe al furor dolor furor compito.
+&emsp;Sarebbe al tuo furor dolor compito.
 
 22 Tua superbia, es tu magis punitus:\
 &emsp;Nullum martyrium, preter quam tua rabies,\

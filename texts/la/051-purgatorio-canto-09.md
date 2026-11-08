@@ -124,7 +124,7 @@ Trascie insule, in qua est gens cruda et ferox, accepit in uxorem primam filiam 
 &emsp;Terribilis sicut fulgur descenderet,\
 &emsp;Et me raperet sursum usque ad ignem.
 
-11 Ivi parea che ch'ella et io ardesse,\
+11 Ivi parea ch'ella et io ardesse,\
 &emsp;E sì l'incendio imaginato cosse,\
 &emsp;Che convenne che 'l sonno si rompesse.
 
