@@ -16,7 +16,7 @@ the project root `pyproject.toml`. The scripts of one source are in its own dire
 
 ## The read-through
 
-The tools of the last reading of each text for sense (ocr/la/PLAN.md, "Read-through"), run
+The tools of the last reading of each text for sense ([ocr/PLAN.md](../PLAN.md), "Read-through"), run
 from the repository root. A reader gets whole pages of the converted text and lists the
 places that look wrong; each place is found in the page file, decided in the image, and a
 misreading is corrected.

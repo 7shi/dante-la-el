@@ -1,35 +1,23 @@
 # Plan: checking `ocr/la` after its completion
 
 This is the plan for `ocr/la`, the transcription of Serravalle's translation and commentary
-(1891), now that it is complete. The completed work (the verse, the two-OCR markup, the
-batches, the retyping, the line checks and the conversion), the checks after it (check 1,
-the verse check, the italics and check 2) and the read-through are recorded in [DONE.md](DONE.md); the
-steps of the read-through, for the other texts, are under "Read-through".
-The "procedure" steps and the "items" cited below are those of DONE.md. The conversion into
-`texts/la/` is described in [texts/PLAN.md](../../texts/PLAN.md) ("`texts/la/`"). A short
-account of the whole work, for checking the other texts, is in [SUMMARY.md](SUMMARY.md).
+(1891), which is complete and checked. It holds what any further work on `ocr/la` needs:
+the state, the decisions of a check, the settled readings, the misprint marks, the rules,
+the conventions and the limits. The work done is recorded in [DONE.md](DONE.md), a short
+account in [SUMMARY.md](SUMMARY.md); the work on the other texts is planned in
+[ocr/PLAN.md](../PLAN.md). The "procedure" steps and the "items" cited below are those of
+DONE.md. The conversion into `texts/la/` is described in
+[texts/PLAN.md](../../texts/PLAN.md) ("`texts/la/`").
 
 **A new session starts here**: read "State". The rules and conventions below are settled:
 apply them, do not ask again.
 
 ## State (2026-11-08)
 
-`ocr/la` is complete (`0001`–`1296`) and converted into `texts/la/001`–`110`. The checks
-for errors that both OCRs share (check 1, the verse check, the italics, check 2) are done
-(DONE.md); what they do not cover is under "Known limits".
-
-The read-through ("Read-through") is done: 0001–1296 are read and decided (2026-11-05 –
-2026-11-08; DONE.md, "Read-through", with the commits of each range); the trial pages 0601–0614 were read
-again with the batches. `Eunce` (0799–0867) is the edition's spelling throughout
-Serravalle's text (the editors print `Eu[n]ce` on 0867), so it is kept as printed. The
-pages after the index (1291–1296) are blank or the library's, with nothing to read.
-
-The misprints are marked in the pages ("Misprint marks", 2026-11-08): 1,050 marks
-`{{printed|fixed}}` in 580 pages, listed with 3 unapplied rows in `misprints.tsv`, which
-replaces the table "Suspected misprints"; `texts/la` has the fixed side. A `{{…|…}}` in
-`ocr/la` is a misprint mark. The old markup's `{{ocr|glm}}` (DONE.md, "The method") lived
-only in work copies in `tmp/`, never in a committed page, and its scripts are retired: on a
-marked page `markprep.py` stops at its assert and `markresolve.py` refuses to write.
+`ocr/la` is complete (`0001`–`1296`) and converted into `texts/la/001`–`110`. All the
+checks are done (DONE.md): check 1, the verse check, the italics, check 2, the read-through
+(0001–1296, 2026-11-05 – 2026-11-08) and the misprint marks (2026-11-08). No work is open;
+what the checks do not cover is under "Known limits".
 
 ## Checks
 
@@ -52,69 +40,38 @@ chance); a `misprint` row of a table is also a row there, with its mark in the p
 
 ## Read-through
 
-Decided with the user (2026-11-05): one last reading of the whole of `texts/la` for sense,
-for misreadings and misprints together. It is the final pass over the text: no further
-pass with another aim is planned. It covers what the checks cannot see ("Known limits"):
-a misreading into a common word (0085 `terret`), a rare word with no common neighbour, a
-common spelling written for the rare printed one. The commentary has not been read whole
-before: check 2, group 3, judged only its candidates. The same steps then serve
-`ocr/en`, `ocr/en-oelsner` and `ocr/grc` ([SUMMARY.md](SUMMARY.md), "For the other texts").
+Decided with the user (2026-11-05) and done (DONE.md, "Read-through"): one last reading of
+the whole of `texts/la` for sense, for misreadings and misprints together; no further pass
+with another aim is planned. Its steps for a batch, and the reader's task, serve the other
+texts and are in [ocr/PLAN.md](../PLAN.md) ("Read-through"). What is particular to `la`:
 
-- **Reader**: la-el-agy reads the text, not the images, and flags places; it corrects
-  nothing. Every flagged place is decided in the image as above (misread, misprint,
-  printed); a damaged letter is restored by the sense.
-- **Done** (DONE.md, "Read-through"): the tools, the trial on 0595–0614, the batches of
-  0001–1296.
-- **Steps** for each batch of 25 pages (`FIRST`–`LAST`):
-  1. `uv run ocr/scripts/pages.py texts/la FIRST LAST -o tmp/read/FIRST-LAST.md` writes the
-     pages for the reader; the task file names it and the TSV to write (page, the phrase
-     as written, the reason) ([ocr/scripts/README.md](../scripts/README.md), "The
-     read-through").
-  2. `ocr/scripts/findline.py` finds the lines of the flagged phrases in `ocr/la`; the
-     rows of `misprints.tsv` for the batch's pages are looked up, so that a listed
-     misprint is not listed twice.
-  3. Decisions, each in the image (`ocr/scripts/wordcrop.py ocr/la OUT.png PAGE:TEXT[:N]`,
-     a zoom of `ocr/la/PAGE.png` where a letter is unclear): a misreading is corrected in `ocr/la` with
-     `ocr/scripts/txtfix.py` (`PAGE:LINE old new`); a misprint is marked in the page and gets
-     a row in `misprints.tsv` ("Misprint marks"; "found by the read-through"); every decision
-     is a row of `readcheck.tsv`.
-     The settled readings: Serravalle's Latin, its grammar and his way of translating the
-     verse are printed; so are the edition's Italian readings and a visible accent. An
-     Italian verse that differs from Dante where the Latin shows the right reading, an
-     accent missing with none visible, and a sure non-word are misprints. A line-end hyphen
-     kept inside an essay line is a misreading.
-     Before a place is decided printed or a misprint:
-     - a quotation of the poem outside the verse (a lemma of the commentary, of the
-       appendix 1271–1287, a verse quoted in an essay) is compared with the verse of the
-       main text and its Latin, found by searching `ocr/la` for the phrase: 1277 `ne porta
-       al fuoco`, first kept as printed for want of a verse beside it, has `el fuoco` on
-       0884 (`portat ignem`), and the comment above it carries fire upward: a misprint;
-     - a form that looks wrong on many pages is searched across the text before it is
-       listed: 0799–0867 `Eunce` is the edition's spelling (`Eu[n]ce` on 0867), and the OCR
-       had normalized it to `Eunoe` on 0810;
-     - a sentence that breaks off or a paragraph that ends in mid-sense is checked in the
-       image for the column order: a paragraph continued across columns had been put out of
-       order on 0474, 0519, 0547, 0602 and 1134.
-  4. After the fixes: `texts/scripts/convert_la.py` (no `NO NUMBER` line since the marks
-     number 0099 ×2, 0363 and 0856), `ocr/la/scripts/seqcheck.py 79 1270` (0897 tercet 31
-     unnumbered in print, its number a mark), `ocr/la/scripts/check.py 79 1287` and
-     `ocr/la/scripts/misprints.py`, each compared with its previous output.
-  5. The status in "State" is updated. Commits, `ocr/la` and `texts/la` apart, only when
-     the user asks: after a range they set, not after each batch.
-- **The other texts**, after `la`: the same steps, a trial of a few pages each, the images
-  `ocr/{dir}/NNN.png`, the records in each `ocr/{dir}/`; what no check has read there is
-  mainly prose (SUMMARY.md).
-- **The reader's task** (basic rules only, not new ones each round): flag, do not
-  correct; the medieval spellings (`michi`, `nichil`, `e` for `ae`) and the old Italian
-  ones are the edition's and not errors; the printed punctuation is not normalized; no
-  subagents and no git commands; the TSV written as a file (a script it runs takes `-o`,
-  no shell redirection). Within a range the user has set, each batch is sent when the last
-  one is decided; after the user switches the reader's model, wait for their signal.
+- **Settled readings**, for deciding a flagged place: Serravalle's Latin, its grammar and
+  his way of translating the verse are printed; so are the edition's Italian readings and
+  a visible accent. An Italian verse that differs from Dante where the Latin shows the
+  right reading, an accent missing with none visible, and a sure non-word are misprints. A
+  line-end hyphen kept inside an essay line is a misreading.
+  Before a place is decided printed or a misprint:
+  - a quotation of the poem outside the verse (a lemma of the commentary, of the
+    appendix 1271–1287, a verse quoted in an essay) is compared with the verse of the
+    main text and its Latin, found by searching `ocr/la` for the phrase: 1277 `ne porta
+    al fuoco`, first kept as printed for want of a verse beside it, has `el fuoco` on
+    0884 (`portat ignem`), and the comment above it carries fire upward: a misprint;
+  - a form that looks wrong on many pages is searched across the text before it is
+    listed: 0799–0867 `Eunce` is the edition's spelling (`Eu[n]ce` on 0867), and the OCR
+    had normalized it to `Eunoe` on 0810;
+  - a sentence that breaks off or a paragraph that ends in mid-sense is checked in the
+    image for the column order: a paragraph continued across columns had been put out of
+    order on 0474, 0519, 0547, 0602 and 1134.
+- **Checks after a fix**: `texts/scripts/convert_la.py` (no `NO NUMBER` line since the marks
+  number 0099 ×2, 0363 and 0856), `ocr/la/scripts/seqcheck.py 79 1270` (0897 tercet 31
+  unnumbered in print, its number a mark), `ocr/la/scripts/check.py 79 1287` and
+  `ocr/la/scripts/misprints.py`, each compared with its previous output.
 
 ## Misprint marks
 
 Decided with the user (2026-11-08): the misprints are corrected in `texts/la`, while
-`ocr/la` keeps the print with the correction beside it. Done the same day (steps below).
+`ocr/la` keeps the print with the correction beside it. A misprint found later is marked in
+its page and gets its row in `misprints.tsv` at once.
 
 - **The mark**: `{{printed|fixed}}` in the page, the printed text on the left, so that
   every mark resolved to its left side gives the print back. A mark stays within one line
@@ -143,35 +100,11 @@ Decided with the user (2026-11-08): the misprints are corrected in `texts/la`, w
   - `ocr/la/scripts/misprints.py` checks that every `yes` row is one mark at its page and
     line, and every mark a `yes` row; with `--fix-lines` it writes the new line of a mark
     that has moved.
-- **Conversion** (step 1): the 852 rows of the table gave 1,053 rows. A row with several
-  places became one row per place; the place of each mark was found in its line, and where
-  the table's line or phrase did not give it, decided by hand. Left out: 9 rows, 4 of them
-  places already corrected as misreadings (0716 `tuuc`, 0630 `Figlinolo`, 0655 `Figlinol`,
-  1182 `57`; 1042 `mici`, read `miei` in the image) and 5 that repeated another row (1264,
-  0652 ×2, 0773); 31 places listed twice by two checks were merged (the fixed forms
-  agreed). Two places that `ocr/la` had written in the fixed form are now the print with a
-  mark: 0127 `{{umanita|umanità}}`, 0897 `{{|31 }}`. One fixed form differs from the table:
-  0249 `comprehendidi` is `comprehendi` (a syllable doubled; Dante `s'i' ben m'accorsi`),
-  not `comprehendisti`.
-- **Checks** (step 4): `check.py` unchanged; `seqcheck.py` adds 0897 (its tercet 31 now
-  unnumbered, as printed); `convert_la.py` has no `NO NUMBER` line any more, its runover and
-  hyphen reports show the fixed words, and `HYPHEN_MISSING` is empty (0639 `vir`, 1165 `pere`
-  are marks whose fixed side has the hyphen); the 0668 heading is `LA LIBERTÀ UMANA …`.
-  `texts/la` resolved to the left side is `texts/la` before the marks but for 0127 and
-  0897. 105 files of `texts/la` changed.
-- **Steps** (all done):
-  1. The table "Suspected misprints" converted into `misprints.tsv` by a script, the rows
-     with several places split; `applied` and `source` decided row by row.
-  2. The `yes` rows written into `ocr/la` as marks by a script, each place asserted.
-  3. The scripts above and `convert_la.py` taught the marks; the check script.
-  4. The checks of the read-through (step 4 there) compared with their previous output: no
-     change but the marked words in `texts/la`.
-  5. Commits apart: the scripts, `ocr/la` (pages, TSV, PLAN), `texts/la`.
-  6. The place of the marks checked: the 729 marks placed by likeness (printed and fixed
-     forms with a similarity of 0.7 or more), each line as printed and as fixed, read by a
-     delegate in one task. 20 marks sat on the wrong words (0175 `pena` lost, 0599
-     `voler voler`, 0426 the fix on `crepa` for `reo`, …); moved, with their TSV rows, the
-     fixed forms unchanged. The checks of step 4 gave the same output.
+- **The old markup** `{{ocr|glm}}` (DONE.md, "The method") lived only in work copies in
+  `tmp/`, never in a committed page, and its scripts are retired: on a marked page
+  `markprep.py` stops at its assert and `markresolve.py` refuses to write. A `{{…|…}}` in
+  `ocr/la` is a misprint mark.
+- **Done** (DONE.md, "Misprint marks"): the table converted, the marks written and checked.
 
 ## Standing rules
 
@@ -273,12 +206,6 @@ Decided with the user (2026-11-08): the misprints are corrected in `texts/la`, w
     divise) *si …*`).
   - a mark cannot close after a digit (`unmark()` keeps a `*` after a digit: 1283 `154*`,
     printed), so an italic number at a run's end stays outside (0022 `*Flor*. 10.`).
-
-## Suspected misprints
-
-The table that stood here (852 rows, page, line, printed, expected, note) is now
-`ocr/la/misprints.tsv`, one row per place, each place marked in its page ("Misprint
-marks"). The table is in the history of this file before the marks (2026-11-08).
 
 ## Known limits
 

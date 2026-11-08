@@ -4,13 +4,14 @@ The record of how `ocr/la`, the transcription of Serravalle's translation and co
 (1891), was completed and converted into `texts/la/` (2026-10-10 – 2026-11-01): the state at
 the end, the work items, the procedure for a batch, the two-OCR markup method, what the
 delegation taught, and the history. It was the body of [PLAN.md](PLAN.md) until the work
-was done; PLAN.md now holds the work still planned; check 1, the verse check,
-the italics and check 2, done, are recorded here ("Check 1", "Verse check", "Italics", "Check 2"),
-with their order and what later work takes from them ("The checks"), and so is the
-read-through ("Read-through"). Sections cited here that are not in
-this file ("Standing rules", "Conventions settled during the check", "Suspected misprints" (now
-`ocr/la/misprints.tsv`, each place marked in its page: PLAN.md, "Misprint marks"),
-"Known limits", "Sources for checking", "Tools") are in PLAN.md. "Remaining work" in the
+was done; PLAN.md now holds what further work on `ocr/la` needs (the rules, the
+conventions, the misprint marks, the limits). Check 1, the verse check, the italics and
+check 2 are recorded here ("Check 1", "Verse check", "Italics", "Check 2"), with their order
+and what later work takes from them ("The checks"), and so are the read-through
+("Read-through") and the misprint marks ("Misprint marks"). Sections cited here that are
+not in this file ("Standing rules", "Conventions settled during the check", "Known limits",
+"Sources for checking", "Tools") are in PLAN.md; "Suspected misprints", the table of
+PLAN.md, is now `ocr/la/misprints.tsv` ("Misprint marks"). "Remaining work" in the
 text below means "Work items" here.
 
 The work began with the batches of texts/PLAN.md ("Procedure for `la`", its batch table
@@ -1271,8 +1272,8 @@ What later work takes from them:
 
 ## Read-through (2026-11-05 – 2026-11-08)
 
-The last reading of `texts/la` for sense (PLAN.md, "Read-through", for its aim and the
-steps of a batch). Done: the tools, the trial and the batches of 0001–1296.
+The last reading of `texts/la` for sense (PLAN.md, "Read-through", for its aim;
+[ocr/PLAN.md](../PLAN.md), "Read-through", for the steps of a batch). Done: the tools, the trial and the batches of 0001–1296.
 
 - **Tools** (done before the trial): `ocr/scripts/pages.py` writes the pages of
   `texts/la` for a range, cut at the page markers, for the reader; `ocr/scripts/findline.py`
@@ -1334,7 +1335,7 @@ What the batches showed:
 - Most flags are printed text: Serravalle's Latin against the verse he translates (a case,
   a tense, a word left out or kept in Italian) and the edition's Italian readings. They
   are decided quickly in the image, and the rules for them are settled in PLAN.md
-  ("Read-through", step 3).
+  ("Read-through", "Settled readings").
 - The misprints found are mostly of three kinds: an Italian verse that differs from Dante
   where the Latin has the right word (0330 `Ravenna` for `Navarra`, 0351 `ponte` for
   `monte`), accents missing in the essays (0303, 0359, 0394), and a Latin non-word (0337
@@ -1351,7 +1352,7 @@ What the batches showed:
   1200, 1296), not per batch.
 
 What the later batches added (0401–1296; the rules drawn from them are in PLAN.md,
-"Read-through", step 3):
+"Read-through", "Settled readings"):
 
 - The misreadings stayed few (84 in 0401–1296), but of kinds no check had looked for: a
   paragraph continued across two columns put out of reading order (0474, 0519, 0547,
@@ -1365,6 +1366,44 @@ What the later batches added (0401–1296; the rules drawn from them are in PLAN
 - A quotation of the poem with no verse beside it (the appendix 1271–1287) is still
   compared with the verse of the main text: 1277 `al fuoco` was kept as printed until the
   verse on 0884 showed `el fuoco`.
+
+## Misprint marks (2026-11-08)
+
+The misprints, gathered in the table "Suspected misprints" of PLAN.md (852 rows: page,
+line, printed, expected, note) by the checks and the read-through, were written into the
+pages as marks `{{printed|fixed}}` and listed in `ocr/la/misprints.tsv` (PLAN.md, "Misprint
+marks", for the mark, the list and the scripts that read them). The table is in the history
+of PLAN.md before the marks.
+
+- **Conversion** (step 1): the 852 rows of the table gave 1,053 rows. A row with several
+  places became one row per place; the place of each mark was found in its line, and where
+  the table's line or phrase did not give it, decided by hand. Left out: 9 rows, 4 of them
+  places already corrected as misreadings (0716 `tuuc`, 0630 `Figlinolo`, 0655 `Figlinol`,
+  1182 `57`; 1042 `mici`, read `miei` in the image) and 5 that repeated another row (1264,
+  0652 ×2, 0773); 31 places listed twice by two checks were merged (the fixed forms
+  agreed). Two places that `ocr/la` had written in the fixed form are now the print with a
+  mark: 0127 `{{umanita|umanità}}`, 0897 `{{|31 }}`. One fixed form differs from the table:
+  0249 `comprehendidi` is `comprehendi` (a syllable doubled; Dante `s'i' ben m'accorsi`),
+  not `comprehendisti`.
+- **Checks** (step 4): `check.py` unchanged; `seqcheck.py` adds 0897 (its tercet 31 now
+  unnumbered, as printed); `convert_la.py` has no `NO NUMBER` line any more, its runover and
+  hyphen reports show the fixed words, and `HYPHEN_MISSING` is empty (0639 `vir`, 1165 `pere`
+  are marks whose fixed side has the hyphen); the 0668 heading is `LA LIBERTÀ UMANA …`.
+  `texts/la` resolved to the left side is `texts/la` before the marks but for 0127 and
+  0897. 105 files of `texts/la` changed.
+- **Steps** (all done):
+  1. The table "Suspected misprints" converted into `misprints.tsv` by a script, the rows
+     with several places split; `applied` and `source` decided row by row.
+  2. The `yes` rows written into `ocr/la` as marks by a script, each place asserted.
+  3. The scripts above and `convert_la.py` taught the marks; the check script.
+  4. The checks of the read-through (PLAN.md, "Read-through", "Checks after a fix") compared with their previous output: no
+     change but the marked words in `texts/la`.
+  5. Commits apart: the scripts, `ocr/la` (pages, TSV, PLAN), `texts/la`.
+  6. The place of the marks checked: the 729 marks placed by likeness (printed and fixed
+     forms with a similarity of 0.7 or more), each line as printed and as fixed, read by a
+     delegate in one task. 20 marks sat on the wrong words (0175 `pena` lost, 0599
+     `voler voler`, 0426 the fix on `crepa` for `reo`, …); moved, with their TSV rows, the
+     fixed forms unchanged. The checks of step 4 gave the same output.
 
 ## Work items 1–10 (all done)
 

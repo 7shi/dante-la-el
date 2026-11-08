@@ -16,7 +16,7 @@ transcription (commit 89ac4a3) 78% of group 1 were misreadings, 24% of group 2, 
 group 3. -g G lists the groups up to G only (default 3). A pair of letters that the OCRs
 confuse (PAIRS) is shown (`[c/e]`). Left out: the forms decided at
 that page (matched by page and form, as line numbers shift) in ocr/la/lexcheck.tsv,
-lemmacheck.tsv, versecheck.tsv and the "Suspected misprints" of ocr/la/PLAN.md.
+lemmacheck.tsv, versecheck.tsv and misprints.tsv.
 
 -d reads the page files from DIR instead of ocr/la (the recall trial on an earlier
 transcription); the decided forms and Tesseract stay those of ocr/la."""

@@ -80,7 +80,7 @@ marked with its fix and listed), or **printed** (kept, nothing to do).
     compared with the verse of the main text (1277 `al fuoco`, 0884 `el fuoco`), a form
     that looks wrong on many pages is searched across the text (`Eunce`, the edition's
     spelling), and a sentence that breaks off is checked for the column order (PLAN.md,
-    "Read-through", step 3);
+    "Read-through", "Settled readings");
   - a script that puts text into the pages (the misprint marks) chooses its words by
     itself: its output is read once more, line by line (20 of 729 marks were misplaced);
   - a delegate's task can be large when it is narrow: the 729 marks went in one task, the
@@ -95,8 +95,7 @@ marked with its fix and listed), or **printed** (kept, nothing to do).
     `en` and `en-oelsner` against dante-corpus, Oelsner's English against `texts/en`, the
     Greek verse by a syllable count; what no check has read is mainly prose: Carlyle's
     English and notes, Oelsner's notes, the Greek prologue, arguments and notes.
-- **Next**: the read-through of `ocr/la` is done (0001–1296; DONE.md, "Read-through"). The
-  same last reading for sense, for misreadings and misprints together, is next for
-  `ocr/en`, `ocr/en-oelsner` and `ocr/grc` (PLAN.md, "Read-through", "The other texts"),
-  each beginning with a trial of a few pages. It is the final pass over each text; no
-  further pass is planned.
+- **Next**: `ocr/la` is done. The work on `ocr/en`, `ocr/en-oelsner` and `ocr/grc` is
+  planned in [ocr/PLAN.md](../PLAN.md): every page retyped from the image by la-el-agy,
+  compared by script with `ocr/DIR`, GLM-OCR and Tesseract, then the last reading for sense,
+  each step beginning with a trial of a few pages.

@@ -3,7 +3,7 @@
 The files of TEXTDIR (`texts/la`, …; README.md left out) are read in order, and the text
 from the marker of scan FIRST (`<!-- p. 26 (0080) -->`) up to the marker after scan LAST
 is written, markers included. FIRST and LAST are scan numbers, the number in parentheses.
-It is the text given to a reader of the read-through (ocr/la/PLAN.md, "Read-through").
+It is the text given to a reader of the read-through (ocr/PLAN.md, "Read-through").
 
     uv run ocr/scripts/pages.py texts/la 79 98 -o tmp/read/0079-0098.md
 """
