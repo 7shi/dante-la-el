@@ -1325,7 +1325,7 @@ steps of a batch). Done: the tools, the trial and the batches of 0001–1296.
   kept as printed for want of a verse beside it; the user found the verse on 0884 (`el
   fuoco`), and it was recorded as a misprint (`be1c5a80`).
 - `readcheck.tsv` holds every decision: 3,180 rows (124 misread, 989 misprints, 2,067
-  printed); "Suspected misprints" in PLAN.md has 853 rows.
+  printed); "Suspected misprints" in PLAN.md has 852 rows (one duplicate merged after the read-through).
 
 What the batches showed:
 

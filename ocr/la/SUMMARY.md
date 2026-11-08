@@ -49,7 +49,7 @@ listed), or **printed** (kept, nothing to do).
 
 ## 3. What is left
 
-- **Misprints** are not corrected in the text. The 853 rows of PLAN.md ("Suspected
+- **Misprints** are not corrected in the text. The 852 rows of PLAN.md ("Suspected
   misprints") list them with page, line and the probable reading.
 - **Known limits** (PLAN.md): the read-through has read the whole text, the commentary
   included, but a reading for sense does not see a misreading that reads well: a spelling

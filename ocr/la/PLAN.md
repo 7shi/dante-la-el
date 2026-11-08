@@ -260,7 +260,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0181 | 106 | `heretici iu archis` | `in` | A turned `n`. |
 | 0111 | 67 | `Racto:` | `Rapto` | Italic lemma of the Italian verse 34 (`Rapto che 'nteser`); no descender of `p`. Cf. 0107 `racta`: possibly the edition's spelling. |
 | 0125 | 90 | `Orpheum, Iulium,` | `Tullium` | Italic lemma; the Latin verse 47 has `Tullium` with a full `T`; the lemma's capital has no crossbar. |
-| 0976 | 14 | `Cimisa fui chiamata` | `Cunisa` | Italian verse; an `i` dot right after `C` and five stems before `s` (Tesseract `Cimisa`, GLM-OCR `Cinisa`); the commentary has `Cunizza`. |
+| 0976 | 15 | `Cimisa fui chiamata` | `Cunisa` | Italian verse; an `i` dot right after `C` and five stems before `s` (Tesseract `Cimisa`, GLM-OCR `Cinisa`); the commentary has `Cunizza`. |
 | 1042 | 11 | `Agl' ochi mici,` | `miei` | Italian verse; a clear `c` (GLM-OCR `mici` too). |
 | 1053 | 23 | `s'àdempia` | `s'adempia` | Italian verse; a grave accent over the `a` (Tesseract `s'àdempia`). |
 | 0350 | 6 | `3 Quando la brina` | `2` | Italian verse; the first tercet is `1`, the Latin column has `2`. |
@@ -279,7 +279,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 0825 | 3 | `in isto tricesimo capitulo` | `In` | *Summarium*'s first word in lowercase, as printed. |
 | 0958 | 45–46 | `complexio-` / `conibus` | `complexionibus` | Commentary; a syllable lost over the line break. |
 | 0999 | 71–72 | `volupta-` / `bro` | `volutabro` | Commentary; the image shows `volupta-`. |
-| 1031 | 69–70 | `corrupti-` / `lium` | `corruptibilium` | Commentary; a syllable lost over the line break. |
+| 1031 | 69–70 | `corrupti-` / `lium` | `corruptibilium` | Commentary; a syllable lost over the line break, `bi` not printed at the line end; found again by check 2. |
 | 1135 | 75–76 | `sen-` / `bianza` | `sembianza` | Italic lemma; the verse has `sembianza`; the image shows `n`. |
 | 1264 | 59–60 | `mi-` / `mium` | `nimium` | Commentary; the image shows `mi-`. |
 | 0085 | 29 | `quod aier de co timeret` | `eo` | Latin verse 48 (Italian `ne temesse`); an italic `c` without the eye, as 0764 `volca`. |
@@ -386,7 +386,6 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 1008 | 26 | `scendentale sua iuce` | `luce` | Essay; `i` for `l`; found by check 2. |
 | 1019 | 51 | `benigna plus pauperiibus` | `pauperibus` | Commentary; an `i` added; found by check 2. |
 | 1022 | 16 | `capitulo Dampuamus.` | `Dampnamus` | Commentary; `u` for `n`; found by check 2. |
-| 1031 | 69–70 | `corrupti-` / `lium` | `corruptibilium` | Commentary; `bi` not printed at the line end; found by check 2. |
 | 1035 | 55 | `Dottore deila Scolastica` | `della` | Essay; `i` for `l`; found by check 2. |
 | 1042 | 106 | `quia contitetur se` | `confitetur` | Commentary; `t` for `f`, the height of the other `t`, as 0582; found by check 2. |
 | 1050 | 10 | `(1) voloutà.` | `volontà` | Gloss; `u` for `n`; found by check 2. |
