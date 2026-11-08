@@ -24,6 +24,12 @@ again with the batches. `Eunce` (0799–0867) is the edition's spelling througho
 Serravalle's text (the editors print `Eu[n]ce` on 0867), so it is kept as printed. The
 pages after the index (1291–1296) are blank or the library's, with nothing to read.
 
+**Next: the misprint marks** ("Misprint marks"; decided with the user, 2026-11-08): not
+started. From its step 2 on, a `{{…|…}}` in `ocr/la` is a misprint mark, `{{printed|fixed}}`.
+The old markup's `{{ocr|glm}}` (DONE.md, "The method") lived only in work copies in `tmp/`,
+never in a committed page, and its scripts are retired: on a marked page `markprep.py`
+stops at its assert and `markresolve.py` refuses to write.
+
 ## Checks
 
 The checks list candidates by script, and every candidate is decided in the image
@@ -100,6 +106,39 @@ before: check 2, group 3, judged only its candidates. The same steps then serve
   subagents and no git commands; the TSV written as a file (a script it runs takes `-o`,
   no shell redirection). Within a range the user has set, each batch is sent when the last
   one is decided; after the user switches the reader's model, wait for their signal.
+
+## Misprint marks
+
+Decided with the user (2026-11-08): the misprints are corrected in `texts/la`, while
+`ocr/la` keeps the print with the correction beside it.
+
+- **The mark**: `{{printed|fixed}}` in the page, the printed text on the left, so that
+  every mark resolved to its left side gives the print back. A mark stays within one line
+  and does not cross an italic mark (`*{{a|b}}*`, not `{{*a|*b}}`); a misprint over a line
+  break is marked on each line (1031 `{{corrupti-|corruptibi-}}` / `lium`); an addition has
+  an empty left side (0099 `{{|32}}`); a whole line is one mark (0133).
+- **Reading it**: the scripts that compare `ocr/la` with the image or with Tesseract
+  (`check.py`, `seqcheck.py`, `lexcheck.py`, `lines.py`, `lostcheck.py`, `ocr/scripts/findline.py`,
+  `ocr/scripts/wordcrop.py`, …) take the left side, where `unmark()` removes the italic marks;
+  `texts/scripts/convert_la.py` takes the right side.
+- **The list**: `ocr/la/misprints.tsv` replaces the table "Suspected misprints", one row per
+  mark: `page line printed fixed applied source note`.
+  - `applied`: `yes`, the mark is in the page; `no`, listed only (the fixed form is not
+    certain, as two readings equally possible), with the reason in `note`.
+  - `source`, where the fixed form comes from, in this order: `page`, the Latin or the
+    commentary of the same page; `edition`, the edition elsewhere; `dante`, Dante's text,
+    only where the edition does not decide it. The fixed form is in the edition's spelling
+    (`el`, `chiamata`), never a modern one.
+  - A script checks that every `yes` row is one mark at its page and line, and every mark a
+    `yes` row; line numbers are refreshed by it when lines move.
+- **Steps**:
+  1. The table "Suspected misprints" converted into `misprints.tsv` by a script, the rows
+     with several places split; `applied` and `source` decided row by row.
+  2. The `yes` rows written into `ocr/la` as marks by a script, each place asserted.
+  3. The scripts above and `convert_la.py` taught the marks; the check script.
+  4. The checks of the read-through (step 4 there) compared with their previous output: no
+     change but the marked words in `texts/la`.
+  5. Commits apart: the scripts, `ocr/la` (pages, TSV, PLAN), `texts/la`.
 
 ## Standing rules
 
@@ -203,8 +242,9 @@ before: check 2, group 3, judged only its candidates. The same steps then serve
 
 ## Suspected misprints
 
-The file keeps what is printed; whether to correct these is decided later. Line numbers
-refer to `ocr/la/PAGE.txt` at the time of the check.
+The file keeps what is printed; they are to be corrected through marks and moved into
+`ocr/la/misprints.tsv` ("Misprint marks"). Line numbers refer to `ocr/la/PAGE.txt` at the
+time of the check.
 
 | Page | Line | Printed | Expected | Note |
 |------|------|---------|----------|------|
