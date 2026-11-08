@@ -12,9 +12,9 @@ written as the steps go); the conversion into `texts/en/` is described in
 
 ## State (2026-11-09)
 
-Step 1 done to `100` (retypes 01–06, DONE.md). Next: the batches of 25 pages from `101` (the
-pages retyped in retype 03 left out), each checked and decided as it comes back; a commit
-after `200` (decided with the user, 2026-11-09).
+Step 1 done to `200` (retypes 01–10, DONE.md). Next: the batches of about 25 pages from
+`201` (the pages retyped in retype 03 left out), each checked and decided as it comes back,
+the next batch sent first.
 
 ## The text
 

@@ -108,3 +108,38 @@ The record of the check of `ocr/en` planned in [PLAN.md](PLAN.md), step by step.
     (turned `n`s), `096` `tco`. Marked and listed.
   - The retype wrong: `081` a speck read `.`, `083` `secmed`, `086` `;` for `:`, `099`
     `Heraclitus` for `Heraclítus`.
+- **Retype 07** (Gemini 3.8 Flash): 24 pages, `101`–`124`; all written, none mixed up.
+  5 places (A 2, B 3, C 0):
+  - Misreadings of the base: `124` `PAPÈ`, the first word of Canto VII in small capitals,
+    in the prose and the verse; written in normal case, the verse without the accent, as
+    printed (`Papè`, `Pape`).
+  - A misprint the base had corrected: `123` `chant` (the period did not print). Marked and
+    listed.
+  - The retype wrong: `104` `sun-light` (a break at a line end), `121` `,` for `.`.
+- **Retype 08** (Gemini 3.8 Flash): 24 pages, `125`–`135`, `137`–`145`, `147`–`150`; all
+  written, none mixed up. 10 places (A 4, B 6, C 0):
+  - A misreading of the base: `139` `. . .` for printed `. . . .`. Corrected.
+  - Misprints the base had corrected: `125` `erowds`, `126` `mect`, `129` `forth` (no
+    period), `139` `Aud` (a turned `n`) and `diri` (Seneca's `dira`), `148` `ìl`; and `132`
+    `piedo`, which the base had copied unmarked. Marked and listed.
+  - The retype wrong: `127` `squint-eyed` (a break at a line end), `132` `vastáque` (an
+    italic circumflex), `139` `Tor` (an `F` with a broken arm).
+- **Retype 09** (Gemini 3.8 Flash): 24 pages, `151`–`174`; all written, none mixed up.
+  6 places, all B:
+  - Misreadings of the base: `151` `Vèr`, `156` `vèr`, `158` `vòlto`, where the print has
+    a circumflex (`Vêr`, `vêr`, `vôlto`); `160` six points for printed seven. Corrected.
+  - The retype wrong: `166` `soall` (an `h` whose ascender did not print), `169`
+    `sappiamo` for `sapiamo`.
+- **Retype 10** (Gemini 3.8 Flash): 24 pages, `176`–`183`, `185`–`200`; all written, none
+  mixed up. 17 places (A 3, B 14, C 0), no misreading of the base:
+  - Misprints the base had corrected: `177` `sccond`, `181` `tby` and `sentenza.` (the verse
+    runs on), `183` `rcceive`, `187` `&c` (no period), `188` `gìa`, `197` `Fredcrick`,
+    `199` `fædissima` (an italic `æ`). Marked and listed.
+  - The numbers of two notes did not print (`177`, `187`); the base keeps them, as the text
+    has their markers.
+  - The retype wrong: `183` `fœ` for an italic `æ` (twice), `187` and `191` `Ovid,`, `191`
+    and `194` `È` for the print's `E` and a grave, written `E’` by the base throughout.
+- **`101`–`200` done** (retypes 07–10, 96 pages): misreadings of the base in `124`, `139`,
+  `151`, `156`, `158`, `160` (a canto's first word in small capitals, circumflexes read as
+  graves, points); the rest misprints the base had corrected, and the retype's own errors,
+  a few a batch.

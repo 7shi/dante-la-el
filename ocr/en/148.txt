@@ -4,7 +4,7 @@ That colour which cowardice painted on my face, when I saw my Guide turn back, r
 
 Quel color che viltà di fuor mi pinse,
 Veggendo il Duca mio tornare in volta,
-Più tosto dentro il suo nuovo ristrinse.
+Più tosto dentro {{ìl|il}} suo nuovo ristrinse.
 Attento si fermò, com’ uom che ascolta;
 Chè l’ occhio nol potea menare a lunga
 Per i’ aer nero, e per la nebbia folta.

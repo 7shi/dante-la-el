@@ -7,3 +7,19 @@ page	line	printed	fixed	applied	source	note
 081	3	aud	and	yes	edition	A turned `n`; the retype and Tesseract read `aud`; found by the retype.
 094	22	darkuess	darkness	yes	edition	Footnote 3; a turned `n`; the retype reads `darkuess`; found by the retype.
 096	32	tco	too	yes	edition	Footnote 3; `c` for the second `o`; the retype reads `tco`; found by the retype.
+123	5	chant	chant.	yes	edition	The argument of Canto VII; the period after `chant` did not print; the retype reads `chant`; found by the retype.
+125	25	erowds	crowds	yes	edition	Canto VI, a footnote; an `e` for the `c`; the retype and Tesseract read `erowds`; found by the retype.
+126	18	mect	meet	yes	edition	Canto VII, a verse note; a `c` for the `e`; the retype and Tesseract read `mect`; found by the retype.
+129	23	forth	forth.	yes	edition	Canto VII, the end of a footnote; the period did not print; found by the retype.
+132	20	piedo	piedi	yes	dante	Inf. vii. 113; the base copied `piedo` unmarked; the retype reads `piedo`.
+139	1	Aud	And	yes	edition	Canto VIII; a turned `n`; the retype and Tesseract read `Aud`; found by the retype.
+139	27	diri	dira	yes	other	Seneca, Thyestes, 347 (`Et dira mala pectoris`); the retype and Tesseract read `diri`; found by the retype.
+148	7	ìl	il	yes	dante	Inf. ix. 3; an accent on the `i`; the retype reads `ìl`; found by the retype.
+177	3	sccond	second	yes	edition	Canto XI; a `c` for the `e`; the retype and Tesseract read `sccond`; found by the retype.
+181	1	tby	thy	yes	edition	Canto XI; a `b` for the `h`; the retype reads `tby`; found by the retype.
+181	5	sentenza.	sentenza,	yes	dante	Inf. xi. 85, the sentence runs on; the retype reads `sentenza.`; found by the retype.
+183	14	rcceive	receive	yes	edition	Canto XI, a footnote; a `c` for the `e`; the retype reads `rcceive`; found by the retype.
+187	22	&c	&c.	yes	edition	Canto XII, a footnote; the period did not print; found by the retype.
+188	11	gìa	già	yes	dante	Inf. xii. 31; the accent on the `i`; the retype reads `gìa`; found by the retype.
+197	3	Fredcrick	Frederick	yes	edition	The argument of Canto XIII; a `c` for the `e`; the retype reads `Fredcrick`; found by the retype.
+199	20	fædissima	fœdissima	yes	other	Æn. iii. 216 (`foedissima`); an italic `æ`, as in `fænerator` (`183`); the retype reads `fædissima`; found by the retype.

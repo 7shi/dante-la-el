@@ -1,4 +1,4 @@
-And I to him: “With weeping, and with sorrow, accursed spirit, remain thou! For I know thee, all filthy as thou art.”
+{{Aud|And}} I to him: “With weeping, and with sorrow, accursed spirit, remain thou! For I know thee, all filthy as thou art.”
 
 Then he stretched both hands to the boat, whereat the wary Master thrust him off, saying: “Away there with the other dogs!” And he put his arms about my neck, kissed my face, and said: “Indignant soul! blessed be she that bore thee.¹ In your world, that was an arrogant personage. Good there is none to ornament the memory of him: so is his shadow here in fury. How many up there² now think themselves great kings,³ that shall lie
 
@@ -24,5 +24,5 @@ Quanti si tengon or lassù gran regi,
 
 2 “There above;” in your world.
 
-3 Kings in a general sense: men prominent for their great qualities, and worthy to be kings. See the comments of Boccaccio, Landini, &c. Regem non faciunt opes . . . Non auro nitidæ fores: Rex est, qui posuit metus, Et dira mala pectoris, &c. Seneca, Thyestes, chorus, act ii.
+3 Kings in a general sense: men prominent for their great qualities, and worthy to be kings. See the comments of Boccaccio, Landini, &c. Regem non faciunt opes . . . . Non auro nitidæ fores: Rex est, qui posuit metus, Et {{diri|dira}} mala pectoris, &c. Seneca, Thyestes, chorus, act ii.
 

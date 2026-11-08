@@ -9,10 +9,10 @@ page	line	form	decision	note
 027	3	COMMEDIA DI DANTE …	misread	cmp B; was `Commedia di Dante insieme …`; small capitals
 027	7	DIVINA	misread	cmp A; was `Divina`; small capitals
 029	1	MSS.	misread	cmp B; was `mss.`; small capitals
-029	5	MS.	misread	cmp A; was `ms.`; small capitals
 029	5	Cⁱ	printed	cmp B; the retype `Ci`; a superior `i` in the print
-032	5	MS.	misread	cmp A and B; was `ms.`, twice; small capitals
+029	5	MS.	misread	cmp A; was `ms.`; small capitals
 032	5	. . .	printed	cmp B; the retype `.`; three points in the print
+032	5	MS.	misread	cmp A and B; was `ms.`, twice; small capitals
 034	1	IS	misread	cmp A; was `is`; small capitals, with `MANY YEARS` and `OTTIMO` on the same line
 041	5	1329:	misread	cmp A; was `1329;`
 043	5	TRANSLATIONS	misread	cmp B; was `Translations`; small capitals
@@ -34,6 +34,43 @@ page	line	form	decision	note
 096	29	. . . .	misread	cmp B; was `. . .`; four points in the print
 096	32	tco	misprint	cmp B; the retype `tco`, the base `too`; a `c` in the print
 099	3	Heraclítus	printed	cmp A; the retype and Tesseract `Heraclitus`; the accent in the print (`Hera-` / `clítus`)
+104	25	sunlight	printed	cmp B; the retype `sun-light`: `sun-` at a line end, joined (README.md)
+121	24	figura.	printed	cmp A; the retype and Tesseract `,`; a period in the print
+123	5	chant	misprint	cmp A; the retype `chant`, the base `chant.`; no period in the print
+124	3	Papè	misread	cmp B; was `PAPÈ`: small capitals, the first word of the canto in normal case (README.md)
+124	7	Pape	misread	cmp B; was `PAPÈ`: the first word of the canto in normal case, and no accent in the print (the retype `Pape`)
+125	25	erowds	misprint	cmp A; the retype and Tesseract `erowds`, the base `crowds`
+126	18	mect	misprint	cmp A; the retype and Tesseract `mect`, the base `meet`
+127	3	squinteyed	printed	cmp B; the retype `squint-eyed`: `squint-` at a line end, joined (README.md)
+129	23	forth	misprint	cmp B; the retype `forth`, the base `forth.`; no period in the print
+132	25	vastâque	printed	cmp B; the retype `vastáque`: an italic circumflex
+139	1	Aud	misprint	cmp B; the retype `Aud`, the base `And`; a turned `n`
+139	1	For	printed	cmp A; the retype and Tesseract `Tor`: an `F` with its middle arm broken
+139	27	. . . .	misread	cmp B; was `. . .`: four points in the print
+139	27	diri	misprint	cmp A; the retype and Tesseract `diri`, the base `dira`
+148	7	ìl	misprint	cmp B; the retype `ìl`, the base `il`; an accent in the print
+151	6	Vêr	misread	cmp B; was `Vèr`: a circumflex in the print
+156	10	vêr	misread	cmp B; was `vèr`: a circumflex in the print
+158	14	vôlto	misread	cmp B; was `vòlto`: a circumflex in the print
+160	20	. . . . . . .	misread	cmp B; was six points: seven in the print
+166	18	shall	printed	cmp B; the retype `soall`: an `h` whose ascender did not print
+169	19	sapiamo	printed	cmp B; the retype `sappiamo`
+177	3	sccond	misprint	cmp A; the retype and Tesseract `sccond`, the base `second`
+177	20	1	printed	cmp A; the retype and Tesseract without the number: the note's number did not print; kept, as the text has its marker
+181	1	tby	misprint	cmp B; the retype `tby`, the base `thy`
+181	5	sentenza.	misprint	cmp B; the retype `sentenza.`, the base `sentenza,`; a period in the print
+183	14	rcceive	misprint	cmp B; the retype `rcceive`, the base `receive`
+183	15	fænerator	printed	cmp B; the retype `fœnerator`, twice (`fæneraretur`): an italic `æ`
+187	22	&c	misprint	cmp B; the retype `&c`, the base `&c.`; no period in the print
+187	22	1	printed	cmp A; the retype and Tesseract without the number: the note's number did not print; kept, as the text has its marker
+187	22	Ovid.	printed	cmp B; the retype `Ovid,`
+188	11	gìa	misprint	cmp B; the retype `[o gìa`, the base `Io già`; the `I` broken, an accent on the `i`
+191	9	E’	printed	cmp B; the retype `È`: the print `E` and a grave set after it, written `E’` by the base throughout
+191	20	Ovid.	printed	cmp B; the retype `Ovid,`
+194	9	E’	printed	cmp B; the retype `È`, as at `191`
+194	10	E’	printed	cmp B; the retype `È`, as at `191`
+197	3	Fredcrick	misprint	cmp B; the retype `Fredcrick`, the base `Frederick`
+199	20	fædissima	misprint	cmp B; the retype `fædissima` (`fæ-` at a line end), the base `fœdissima`; an italic `æ`
 272	18	MSS.	misread	the same as `029`; was `mss.`; small capitals
 375	3	el	misread	cmp A; was `ei`; the retype and Tesseract `el`, as printed
 479	3	Abati	printed	cmp B; the retype `ABATI`: small capitals, the first word of the index in normal case (README.md)
