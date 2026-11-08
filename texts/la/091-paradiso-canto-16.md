@@ -74,7 +74,7 @@ O pauca nostra nobilitas sanguinis, si de te facis gloriari gentem hic inferius,
 &emsp;Vos michi datis ad loquendum tantam audaciam,\
 &emsp;Vos me elevatis ita, quod ego sum plus quam ego.
 
-7 Per tanti rivi sempr' è d'allegrezza\
+7 Per tanti rivi s'empie d'allegrezza\
 &emsp;La mente mia, che di sè fa letitia\
 &emsp;Perchè sostener pò che non si spezza.
 
@@ -120,7 +120,7 @@ Ex quo igitur michi datis tantum gaudium, peto a vobis quatuor: scilicet, qui fu
 
 11 E com' agl' ochi miei si fe'più bella,\
 &emsp;Così con voce più dolce e suave,\
-&emsp;Ma non con questa mondana favella,
+&emsp;Ma non con questa moderna favella,
 
 11 Et sicut oculis meis fuit facta pulchrior,\
 &emsp;Sic cum voce magis dulci et suavi,\
@@ -134,13 +134,13 @@ Ex quo igitur michi datis tantum gaudium, peto a vobis quatuor: scilicet, qui fu
 &emsp;Partui in quo mater mea, que nunc est sancta,\
 &emsp;Se alleviavit de me unde erat gravis,
 
-13 Al sol Leone cinquecen cinquanta\
+13 Al suo Leone cinquecen cinquanta\
 &emsp;E trenta fiate venn'esto foco\
 &emsp;A rinfiammarsi socto la sua pianta.
 
 13 Ad suum Leonem quingentis quinquaginta\
 &emsp;Et triginta vicibus venit iste ignis\
-&emsp;Ad reinflammandum se sub sua plancta.
+&emsp;Ad reinflammandum se sub sua planta.
 
 Dicite ergo michi, o cara mea primitia, idest o origo mea et principium originis mee (quia iste fuit pater Aldigerii, qui fuit proavus Dantis et a quo mutatum est nomen Eliseorum in nomine Aldigeriorum, qui fuit magnus doctor iuris et superbus homo), ecce primum petitum, qui fuerunt vestri antiqui; secunda petitio, qui fuerunt anni qui signati fuerunt in vestra pueritia; dicite michi (tertia petitio) de ovili Sancti Ioannis, idest de Florentia cuius patronus est Sanctus Ioannes, quantum erat tunc; quarta petitio, et que erant gentes, intra ipsum, scilicet ovile, digne altioribus scampnis.
 
@@ -254,17 +254,17 @@ Et melius esset et utilius et expedientius civitati, quod illi essent vicini et 
 
 (1) male è principio.
 
-confines, idest extra, quam habere, idest intus, ipsas ad substituendum putredinem Villani (nomen proprium fuit unius doctoris iuris, malus homo) de Guglione (nomen unius ville) et illius de Signa (hic fuit unus alter iurista, cuius nomen non ponitur hic, et ille fuit de Signa: est unum oppidum prope Florentiam per septem miliaria), qui iam pro baractare, idest ad faciendam baractariam, habet oculum acutum.
+confines, idest extra, quam habere, idest intus, ipsas ad sustinendum putredinem Villani (nomen proprium fuit unius doctoris iuris, malus homo) de Guglione (nomen unius ville) et illius de Signa (hic fuit unus alter iurista, cuius nomen non ponitur hic, et ille fuit de Signa: est unum oppidum prope Florentiam per septem miliaria), qui iam pro baractare, idest ad faciendam baractariam, habet oculum acutum.
 
 Si gens, que in mundo magis tralignat, idest degenerat, idest pastores Ecclesie, non fuisset Cesari, idest Imperatori, noverca, sed sicut mater suo filio benigna, talis factus est Florentinus, et cambi[a]t et mercatur, qui convertisset se ad Symofontem, quo ivit avus meus ad inquisitionem. Symofonte est unum, vel erat tempore auctoris, unum rus: versus illud ibatur ad faciendum custodiam in circum; vel quia in die Veneris sancta avus domini Cacciaguide faciebat circum, quia ibat ad illum rus, sive ad ecclesiam illius ruris, et visitabat alias ecclesias multas. Vult dicere auctor in effectu, quod si gens illa, que tralignat, idest degenerat, scilicet pastores Ecclesie, qui degenerant a Sanctis Patribus qui fuerunt boni, non fuisset in discordia cum Imperatore, cuius pastores Ecclesie debent esse mater et ipsi sunt noverca, Florentia non esset ita divisa. Quia Papa accepit partem guelfam, Imperator reputatur gebellinus: et sic Guelfi, expellentes Gebellinos, receperunt multos rusticos de comitatu, ut replerent civitatem loco illorum expulsorum; qui rustici facti sunt Florentini, et cambiant, et mercatantur, qui irent ad Symofontem, idest ad illud rus, et ibi starent, et non starent in Florentia.
 
 Ex quo auctor tetigit unum inconveniens, scilicet quod rustici sunt commixti civibus, modo tangit aliud adhuc maius, scilicet quod nobiliores sunt expulsi de Florentia propter rusticos advenientes, et propter divisiones civitatis. Que intervenerunt ex defectu pastorum Ecclesie, maxime Bonifacii octavi, qui misit Karolum Sineterra, sub nomine pacificandi civitatem, et ipse divisit civitatem amplius quam erat: unde comites perdiderunt Montem Murlum, qui comites fuerunt expulsi et perdiderunt illud castrum, scilicet Montem Murlum; et tunc venerunt illi de Circulis, de Cierchiis, qui erant rustici de plebania Acchonis (nomen proprium unius plebis); et illi de Bondelmontibus venerunt de Valle Grevi (est unus fluvius, qui vocatur Grevi, et vallis dicitur Vallis Grevis; et de illa valle venerunt, de [illa], Bondelmontes ad civitatem Florentie); erant rurales, et facti sunt cives et nobiles cives. Ideo dicit textus: Esset Mons Murlus, idest illud castrum, adhuc comitum, scilicet Guidi (vocantur comites Guidi); essent Circuli, idest illi de domo Circulorum, in piverio, sive in plebania, Acchonis (nomen proprium); et forsan in Valle Grevi Bondelmontes: idest, illi de domo Bondelmontibus adhuc essent rurales, et essent in illa valle, scilicet Grevi.
 
-Modo dicit auctor, quod confusio et commixtio personarum, maxime forensium, principiavit malum in civitatibus, sicut cibus qui superponitur super cibum indigestum. Et dicit auctor, respondendo cuidam quasi tacite (quia posset quis dicere: Nunquam crevit potentia civitatis ex multiplicatione tot civium?), dicit quod sepe cecus taurus cadit citius quam cecus agnus, et aliquando magis incidit unus cum bona manu et forti, quam quinque enses. Semper confusio personarum principium fuit mali civitatis, sicut de vestro malo, vel infirmate vestra, cibus qui superponitur, scilicet cibo indigesto; et cecus taurus citius cadit quam cecus agnus; et multoties plus incidit et melius unus, scilicet ensis, quam quinque enses. Vult dicere quod validior et subtilior erat Florentia tunc temporis cum paucis et bonis civibus, quam modo sit cum malis et multis.
+Modo dicit auctor, quod confusio et commixtio personarum, maxime forensium, principiavit malum in civitatibus, sicut cibus qui superponitur super cibum indigestum. Et dicit auctor, respondendo cuidam quasi tacite (quia posset quis dicere: Nunquam crevit potentia civitatis ex multiplicatione tot civium?), dicit quod sepe cecus taurus cadit citius quam cecus agnus, et aliquando magis incidit unus cum bona manu et forti, quam quinque enses. Semper confusio personarum principium fuit mali civitatis, sicut de vestro malo, vel infirmitate vestra, cibus qui superponitur, scilicet cibo indigesto; et cecus taurus citius cadit quam cecus agnus; et multoties plus incidit et melius unus, scilicet ensis, quam quinque enses. Vult dicere quod validior et subtilior erat Florentia tunc temporis cum paucis et bonis civibus, quam modo sit cum malis et multis.
 
 <!-- p. 1013 (1067) -->
 
-25 Se tu rigardi Luni et Orbisagla\
+25 Se tu riguardi Luni et Orbisagla\
 &emsp;Come son ite, e come se ne vanno\
 &emsp;Dirieto a esse Chiusi e Sinigagla,
 
@@ -308,7 +308,7 @@ Modo dicit auctor, quod confusio et commixtio personarum, maxime forensium, prin
 
 *Si tu respicis Lunim et Urbisaliam*. *Si tu riguardi et a Luni et Urbisalia*: hec est tertia pars huius capituli, in qua dominus Cacciaguida recitat multas familias antiquas civitatis Florentie, que tunc, tempore suo, erant multo onorabiles et valentiores aliis, quarum alique sunt in totum destructe, alique in parte, tempore presenti. Et primo narrat, quod de hoc non sit mirandum, quia civitates alique fuerunt magne, que modo sunt quasi nihil, de quibus nominat quatuor. Quarum una vocabatur Luni, que erat nobilis et magna civitas inter Tusciam et territorium Ianuense, supra flumen quod vocatur Magra, quod flumen dividit Tusciam a [territorio] Ianuensi; modo nihil est nisi unum pulchrum oppidum, quod est ibi de prope, quod vocatur Sarzana. Alia civitas, quam nominat, est Urbisalia; est in marchia Anchonitana, inter Maceratam et Tolentinum; modo est unum parvum castrum, et bene apparent vestigia murorum et magnorum edificiorum, et dicebatur Urbisalia, quasi urbs alia: nam Roma dicitur Urbs per anthonomasiam, ista dicebatur Urbisalia, quasi alia urbs. Alia civitas, quam nominat, est Clusium prope Perusium: fuit iam nobilis civitas: ibi regnavit rex Porsenna, qui iam obsedit Romam, quando volebat reducere Tarquinios; qui recessit, ex suggestione Mutii Scevola, de obsidione: modo est quasi nihil. Alia civitas, quam nominat, est Senogallium. Est in Marchia Anchonitana inter Anchonam et Fanum, super mare: et dicitur Senogallium, quia venientes multi Galli, et cum magno exercitu intrantes Ytaliam, diu steterunt: tamdem aliqui antiqui, volentes redire ad suas partes, edificaverunt illam civitatem, nominantes eam Senogallium, idest edificata a senibus Gallium: modo Senogallium quasi nihil est. Vult dicere auctor: Non enim mirum, si familie deficiunt, quia et maxime civitates etiam deficiunt, ponens exemplum de istis quatuor.
 
-Si tu respicis Lunim, idest civitatem Luni, et Urbisaliam, idest aliam civitatem, quomodo iverunt, idest deferunt, et quomodo vadunt, idest deficiunt, retro, idest post illam, Clusium (alia civitas), et Senogallium (alia civitas), audire quomodo *schiatte*, idest stirpes, destruuntur, non apparebit tibi nova res nec fortis, postquam civitates earum terminum, idest finem, habent.
+Si tu respicis Lunim, idest civitatem Luni, et Urbisaliam, idest aliam civitatem, quomodo iverunt, idest defecerunt, et quomodo vadunt, idest deficiunt, retro, idest post illam, Clusium (alia civitas), et Senogallium (alia civitas), audire quomodo *schiatte*, idest stirpes, destruuntur, non apparebit tibi nova res nec fortis, postquam civitates earum terminum, idest finem, habent.
 
 Omnes res vestre habent earum mortem, idest finem, sicut vos; sed celatur in aliquibus, que durant multum, et vite sunt, scilicet hominum, breves.
 
@@ -368,7 +368,7 @@ Modo applicat ad propositum ea que dicta sunt, dicens: Quare non debet apparere 
 
 36 Lo ceppo, di che nacquero e Calfucci,\
 &emsp;Già era grande, e già eran tracti\
-&emsp;Alle carole Sitii et Arrigucci.
+&emsp;Alle curule Sitii et Arrigucci.
 
 36 Cippus, de quo nati sunt Galfucii,\
 &emsp;Erat iam grandis, et iam erant tracti\
@@ -382,7 +382,7 @@ Una porta est Florentie, et est porta Sancti Petri in Gattilino, iuxta quam habi
 
 Illi de Pressa (nomen domus) sciebant iam qualiter regi vult, idest qualiter regendum est, et habebat Galigaius (nomen alterius domus) auratam iam in domo sua elsam et pomum, quia isti de ista domo Galigaio portabant ensem, habentem elsam et pomum ensis de auro.
 
-Grandis erat iam columpna Varii (ista erat domus de Pigliis, qui portabant unam columpnam de vario), Sachecti, Iochi, Sifanti, et Barucci (sunt nomina quatuor domorum), et Galla (aliud domus nomen), et illi qui rubefiunt propter sextarium.
+Grandis erat iam columpna Varii (ista erat domus de Pigliis, qui portabant unam columpnam de vario), Sachecti, Iochi, Sifanti, et Barucci (sunt nomina quatuor domorum), et Galli (aliud domus nomen), et illi qui rubefiunt propter sextarium.
 
 Nunc tangit domum de Chiaramontosis. Pro quo notandum est, quod unus de domo ista, scilicet de Chiaramontosis, fuit factus officialis in Florentia super mensuras, et iste ad lucrandum extraxit de sextario unam dogam. Sextarium est vas ligneum, cum quo mensuratur frumentum. Hic mensurabat frumentum, et propter diminutionem illius doge multum lucratus est; sed mensura defraudabat. Hoc fuit scitum, ille fuit captus et ductus ad tormentum, et confessus est fraudem, unde ipse fuit decapitatus; et sic illa familia sua multum verecundabatur propter fraudem istius. Ideo dicit textus: Illi qui rubefiunt; quia propter verecundiam homines fiunt in facie rubei.
 
@@ -415,7 +415,7 @@ Modo tangit aliam domum, scilicet domum de Donatis, de qua descendit alia domus,
 &emsp;Sive bursiam, sicut agnus placatur,
 
 40 Già venia su, ma di piccola gente,\
-&emsp;Sì che non piacque agl' Uberti Donato\
+&emsp;Sì che non piacque ad Ubertin Donato\
 &emsp;Che poi el socer lo fe' lor parente.
 
 40 Iam veniebat sursum, sed de parva gente,\
@@ -424,7 +424,7 @@ Modo tangit aliam domum, scilicet domum de Donatis, de qua descendit alia domus,
 
 41 Già era Caponsacho nel mercato\
 &emsp;Disceso giù da Fiesole, e già era\
-&emsp;Buon cittadino Guida et Infangato.
+&emsp;Buon cittadino Guido et Infangato.
 
 41 Iam erat Capoinsacco in mercato\
 &emsp;Descendens a Fiesolis, et iam erat\
@@ -442,7 +442,7 @@ Calfuciorum. Cippus, idest stirps, de quo nati sunt Calfucii, iam erat grandis, 
 
 Nunc auctor tangit duas magnas domus florentinas, scilicet domum de Ubertis et domum de Lambertis. Fuerunt illi de istis duabus domibus valde superbi et propter eorum superbiam defuerunt. Nam Lambertatii portabant pallas aureas pro armis. Tunc, tempore istorum, florebat Florentia, idest in omnibus optime stabant patres istorum. Semper, quando episcopatus Florentie vacabat, ipsi promovebant successorem episcopum, a quo recipiebant et habebant magnas pecunias, et sic fiebant divites, ita quod isti erant promotores episcopi et ecclesie episcopalis. O quales vidi eos, qui sunt destructi, propter eorum superbiam! Ubertinos et illos, scilicet Lambertatios, qui portabant pallas auri: et palle auri florebant Florentiam, idest faciebant apparere Florentiam in flore, omnibus suis grandibus factis. Nam illa domus, que portabat pallas de auro, gubernabat Florentiam in omnibus suis factis magnis. Vult dicere quod tales erant in Florentia maiores. Sic faciebant patres illorum, qui semper, quando vestra vacat Ecclesia, efficiuntur pingues, stando ad consistorium. Isti promovebant, etc. et ex hoc impinguabantur, etc.
 
-Modo tangit duas alias domus, domum de Aldimariis, de Caviciolis, que fuerunt domus habentes magnum numerum hominum. De istis duabus domibus loquitur auctor multum, pinguendo illas, qui[a] illi de istis domibus fuerunt multum contra ipsum auctorem, ne unquam rediret in Florentiam. Et de istis auctor dicit, quod ipsi indragantur, idest fiunt sicut dracones, contra illos qui fugiunt a facie eorum; sed fiunt sicut agnus mansuctus, respectu illorum qui resistunt eis, vel dant illis pecuniam: ita quod, propter pecuniam, de draconibus fiunt agni. Transcurata, idest male recta, stirps, que indragatur (scilicet que fit draco, vel tamquam draco sequitur illum qui fugit) retro illum qui fugit, et illi qui monstrat dentem, sive bursiam, sicut agnus placatur (modo tangit quasi principium illius domus, que noviter, tunc temporis, fiebat etiam de Bellinzone; et hoc evenit, quia ille solempnis homo, Bertus de Bellinzonibus, dedit duas filias nuptui, et unam maritavit in domo Donatorum, et aliam in domo de Aldimariis), iam veniebat sursum, sed de parva gente, idest illa domus, noviter tunc que facta fuit de Bellinzonibus et de Donatis, ita quod non placuit Ubertino Donato, quem postea socer sibi fecit attinentem. Quia illa domus, que noviter fiebat, scilicet de Bellinzonibus, non videbatur digna coniungi cum illa de Donatis; et videtur quod multum puduerit Ubertinum de Donatis recepisse illam in uxorem.
+Modo tangit duas alias domus, domum de Aldimariis, de Caviciolis, que fuerunt domus habentes magnum numerum hominum. De istis duabus domibus loquitur auctor multum, pinguendo illas, qui[a] illi de istis domibus fuerunt multum contra ipsum auctorem, ne unquam rediret in Florentiam. Et de istis auctor dicit, quod ipsi indragantur, idest fiunt sicut dracones, contra illos qui fugiunt a facie eorum; sed fiunt sicut agnus mansuetus, respectu illorum qui resistunt eis, vel dant illis pecuniam: ita quod, propter pecuniam, de draconibus fiunt agni. Transcurata, idest male recta, stirps, que indragatur (scilicet que fit draco, vel tamquam draco sequitur illum qui fugit) retro illum qui fugit, et illi qui monstrat dentem, sive bursiam, sicut agnus placatur (modo tangit quasi principium illius domus, que noviter, tunc temporis, fiebat etiam de Bellinzone; et hoc evenit, quia ille solempnis homo, Bertus de Bellinzonibus, dedit duas filias nuptui, et unam maritavit in domo Donatorum, et aliam in domo de Aldimariis), iam veniebat sursum, sed de parva gente, idest illa domus, noviter tunc que facta fuit de Bellinzonibus et de Donatis, ita quod non placuit Ubertino Donato, quem postea socer sibi fecit attinentem. Quia illa domus, que noviter fiebat, scilicet de Bellinzonibus, non videbatur digna coniungi cum illa de Donatis; et videtur quod multum puduerit Ubertinum de Donatis recepisse illam in uxorem.
 
 Iam erat Capoinsacco (nomen alterius domus) in Mercato veteri (hec domus de Fiesolis venit) descendens a Fiesolis, et iam erat bonus civis Guido et Infangatus. Isti duo fuerunt principia duarum familiarum. Nota quod tempore domini Cacciaguide non erant in Florentia nisi quatuor porte principales; postea erant alique portule parve, quarum una vocabatur porta Pere.
 
@@ -454,7 +454,7 @@ Nota quod erat in Florentia una mulier tempore istius militis, que vendebat fruc
 &emsp;Del gran Barone, el cui nome e 'l cui pregio\
 &emsp;La festa di Thommaso riconforta,
 
-43 Quilibet de pulchro signo portat\
+43 Quilibet qui de pulchro signo portat\
 &emsp;Grandis Baronis, cuius nomen et cuius pretium\
 &emsp;Festum Sancti Thome reconfortat,
 
@@ -484,13 +484,13 @@ Nota quod erat in Florentia una mulier tempore istius militis, que vendebat fruc
 
 illa porta dicebatur Porta Pera. Et hoc videtur incredibile; fuit tamen verum. Ego dico tibi rem incredibilem et veram: in parvum circulum, idest in Florentia que continebatur in parvo circulo, intrabatur per portam, [que] denominabatur ab illis de la Pera.
 
-Nunc ponuntur alique alie domus: de quibus notandum est, quod fuerunt quinque domus, que portabant eadem arma; que quinque domus descenderunt ab una, ideo portabant eadem arma; sed variaverunt aliqualiter. Et una illarum quinque fecit unum frigium circa arma illa, et illa vocabatur domus de la Bella. De qua domo unus, qui erat nobilis de illa domo, fecit se popularem; tandem tamen fuit expulsus de civitate Florentie, et mortuus est in exilio misere. Nota quod tempore istarum familiarum, imperator Octo misit unum suum vicarium Florentiam, qui diu stetit Florentie et bene se habuit. De istis quinque domibus ille fecit multos milites, magnificavitque domos illas. Mortuus est in Florentia; et moriens condidit testamentum, in quo reliquit, quod fieret una ecclesia Sancte Marie, et fuit facta, de domibus suis; et omni anno in festo Sancti Thome fit commemoratio de illo nobili milite, qui vocabatur dominus Ugo, et est sepultus in illa ecclesia Sancte Marie. Modo quilibet de illis quinque domibus, portavit signum, idest arma illius boni et optimi militis, sive baronis. Quilibet qui de pulchro signo portat grandis baronis, cuius nomen et cuius pretium festum Sancti Thome reinconfortat (illa domus consuevit celebrare omni anno festum Sancti Thome, sicut ille dimisit in suo testamento, et sic fit hodiernis temporibus), ab illo, scilicet barone, habuit militiam et privilegium, quamquam cum populo congregetur, idest adunetur, hodie ille qui illum fasciat, idest circumdat, cum frisio; quia illa domus que fecit frisium in armis suis, propter differre a consortibus, se univit cum populo, dimictendo nobilitatem.
+Nunc ponuntur alique alie domus: de quibus notandum est, quod fuerunt quinque domus, que portabant eadem arma; que quinque domus descenderunt ab una, ideo portabant eadem arma; sed variaverunt aliqualiter. Et una illarum quinque fecit unum frigium circa arma illa, et illa vocabatur domus de la Bella. De qua domo unus, qui erat nobilis de illa domo, fecit se popularem; tandem tamen fuit expulsus de civitate Florentie, et mortuus est in exilio misere. Nota quod tempore istarum familiarum, imperator Octo misit unum suum vicarium Florentiam, qui diu stetit Florentie et bene se habuit. De istis quinque domibus ille fecit multos milites, magnificavitque domos illas. Mortuus est in Florentia; et moriens condidit testamentum, in quo reliquit, quod fieret una ecclesia Sancte Marie, et fuit facta, de domibus suis; et omni anno in festo Sancti Thome fit commemoratio de illo nobili milite, qui vocabatur dominus Ugo, et est sepultus in illa ecclesia Sancte Marie. Modo quilibet de illis quinque domibus, portavit signum, idest arma illius boni et optimi militis, sive baronis. Quilibet qui de pulchro signo portat grandis baronis, cuius nomen et cuius pretium festum Sancti Thome reconfortat (illa domus consuevit celebrare omni anno festum Sancti Thome, sicut ille dimisit in suo testamento, et sic fit hodiernis temporibus), ab illo, scilicet barone, habuit militiam et privilegium, quamquam cum populo congregetur, idest adunetur, hodie ille qui illum fasciat, idest circumdat, cum frisio; quia illa domus que fecit frisium in armis suis, propter differre a consortibus, se univit cum populo, dimictendo nobilitatem.
 
 Modo tangit alias domos, dicens: Iam erant Gu[a]lterotti et Importuni (nomina duarum domorum); et adhuc esset Burgum, idest vicus Sancti Apostoli, magis quietum, staret in pace, si de novis vicinis essent ieiuni; quia illic venerunt ad habitandum Hanibaldi, qui fuerunt multi in numero et causa magne guerre et magne divisionis. Etiam in Burgo habitabant Bardi.
 
 Modo vult tangere domum de Amydeys, de Ubertinis et de Bondelmontibus. Notandum quod unus iuvenis de domo de Bondelmontibus debuit desponsare unam puellam iuvenculam de domo illorum de Ubertinis, et omnia erant parata, et omnes promissiones ex utraque parte. Dum autem una die iste iuvenis de Bondelmontibus iret ad domum illorum de Ubertinis ad desponsandam puellam, una mulier de domo de Amydeis habebat unam pulcherrimam filiam, quam fecit quasi spoliatam in una camera stare solam in una camisia subtilissima, et istum iuvenem de Bondelmontibus transeuntem iuxta domum suam et euntem ad desponsandum illam de Ubertinis, vocavit et dixit ei: Miser, quo vadis? et quam vis desponsare? Illa est una nigra, turpis et male formata: sed vide filiam meam; tale iocale ego volo eam tibi dare. Iste iuvenis, sciens illam quam ibat ad desponsare esse turpem, et videns hanc puellam de Amydeis tam pulchram, desponsavit eam, spernendo primam, pro qua promiserat. Tunc illi de Ubertinis, congregati, consilium fecerunt, si ista iniuria debebat vindicari aut non; multis dicentibus quod sic, aliis quod non. Quidam, qui vocabatur Mosca, dixit: Omnino facienda est vindicta: iste iuvenis est interficiendus, nam res facta caput habet. In vulgari ytalico, *Cosa fatta, capo ha*. Et sic fuit facta. Una die dominica, dum iste iuvenis de Bondelmontibus iret equitandum ad solatium per civitatem indutus de albo, isti de domo de Ubertinis interfecerunt eum. Propter cuius mortem illi de Bondelmontibus fecerunt magnam iterum vindictam, et sic ex utraque parte sunt interfecti multi et multi, et ex tunc Florentia nunquam habuit bonum statum. Hi[n]c incepit fletus, qui nunquam potuit consolari.
 
-Domus, de qua natus est vester fletus, scilicet domus de Bondelmontibus, propter iustam indignationem, que vos interfecit, idest ad mortem deduxit, et posuit finem vestro vivere leto, erat honerata ipsa et sui consortes. Aliqui dicunt, quod auctor loquitur hic de domo Amydeorum, quia propter puellam de domo Amideys venerunt tot mala; sed ego credo quod auctor loquitur de domo [de] Bondelmontibus,
+Domus, de qua natus est vester fletus, scilicet domus de Bondelmontibus, propter iustam indignationem, que vos interfecit, idest ad mortem deduxit, et posuit finem vestro vivere leto, erat honorata ipsa et sui consortes. Aliqui dicunt, quod auctor loquitur hic de domo Amydeorum, quia propter puellam de domo Amideys venerunt tot mala; sed ego credo quod auctor loquitur de domo [de] Bondelmontibus,
 
 <!-- p. 1017 (1071) -->
 
@@ -511,7 +511,7 @@ Domus, de qua natus est vester fletus, scilicet domus de Bondelmontibus, propter
 &emsp;Prima vice qua ad civitatem venisti.
 
 49 Ma conveniasi a quella pietra scema\
-&emsp;Chel guarda 'l ponte, che Firenze fesse\
+&emsp;Che guarda 'l ponte, che Firenze fesse\
 &emsp;Victima in su la sua pace postrema.
 
 49 Sed bene conveniebat illi petre sceme\
@@ -557,7 +557,7 @@ Le anime veramente grandi si appalesano non soltanto nel concepire grandi cose e
 In coteste anime domina supremamente l'idea di Dio, e però grandi sono sempre i loro concepimenti, e onda di fiume, che passa e si dilegua, quanto accade quaggiù; di cui neanche apparisce il relativo valore, se non si consideri connesso al fine supremo della creazione, il quale non può essere altro che il pieno trionfo in essa della gloria di Colui che l'ebbe fatta. Una di coteste anime fu l'Alighieri: e così egli, in questa sua Cantica immortale, descrive l'universo giunto al suo termine, cioè al tramutamento in cui dovrà eternarsi. Quindi la nullità che egli vede e sente in tutto ciò che forma la presente vita; e i rapimenti, le estasi, la luce, il riso, i tripudii, la vita vera, che lo trasumanano in cielo. Udiamone la parola.
 
 Le vostre cose tutte hanno la morte\
-Si come voi; ma celasi in alcuna,\
+Sì come voi; ma celasi in alcuna,\
 Che dura molto, e le vite son corte.\
 . . . . . . . . . . . . . .\
 O poca nostra nobiltà di sangue,\
@@ -574,7 +574,7 @@ Che della vista della mente infermi,\
 Fidanza avete ne'ritrosi passi;\
 Non v' accorgete voi che noi siam vermi,\
 Nati a formar l'angelica farfalla,\
-Che vola alia giustizia senza schermi?\
+Che vola alla giustizia senza schermi?\
 Di che l'animo vostro in alto galla?\
 Voi siete quasi entomata in difetto,\
 Siccome verme, in cui formazion falla,\
@@ -608,7 +608,7 @@ Esser potrà ch'al veder non vi nôi.\
 Come, da più letizia pinti e tratti,\
 Alla fiata quei che vanno a ruota\
 Levan la voce e rallegrano gli atti;\
-Cosi all'orazion pronta e devota,\
+Così all'orazion pronta e devota,\
 Li santi cerchi mostrar nuova gioia\
 Nel torneare e nella mira nota.\
 Qual si lamenta perchè qui si muoia\
@@ -633,9 +633,9 @@ Lume che a lui veder ne condiziona:\
 Onde la vision crescer conviene,\
 Crescer l'ardor che di quella s' accende,\
 Crescer lo raggio che da esso viene.\
-Ma si come carbon che fiamma rende,\
+Ma sì come carbon che fiamma rende,\
 E per vivo candor quella soverchia,\
-Si che la sua parvenza si difende;\
+Sì che la sua parvenza si difende;\
 Così questo fulgor, che già ne cerchia,\
 Fia vinto in apparenza dalla carne\
 Che tutto dì la terra ricoperchia.\

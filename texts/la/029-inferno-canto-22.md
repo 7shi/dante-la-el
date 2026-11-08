@@ -102,7 +102,7 @@ Cursores vidi per terram nostram, o Aretini, idest territori[um]; et vidi ire gu
 
 10 Sì stavan d'ogni parte e peccatori:\
 &emsp;Ma come s'appressava Barbariccia,\
-&emsp;Così si ritrhaen sotto e bollori.
+&emsp;Così si ritrahen sotto e bollori.
 
 10 Sic stabant ex omni parte peccatores:\
 &emsp;Sed statim quod appropinquabat Barbaricia,\
@@ -162,7 +162,7 @@ Proponit unam comparationem de ranis, sic dicens: Et sicut ad ripam aque unius f
 
 16 Lo Duca mio li s'accostò allato,\
 &emsp;Domandollo onde fusse, e quei rispose:\
-&emsp;Io fui del regno di Ravenna nato.
+&emsp;Io fui del regno di Navarra nato.
 
 16 Dux meus adhesit eius lateri,\
 &emsp;Interrogavit eum unde esset, et ille respondit:\

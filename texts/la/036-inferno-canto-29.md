@@ -2,7 +2,7 @@
 
 # Capituli Vicesiminoni Summarium
 
-In isto capitulo vicesimonono, quod incipit: *Multa gens et diverse plage*, auctor prosequitur de decima Malibolgia, in qua puniuntur falsatores metallorum, monetarum et propriarum personarum in duobus capitulis; sed in isto puniuntur alchimiste, quorum pena talis est. Ipsi alchimiste stant in ista valle ydropici, leprosi, et febribus aggravati. Quid sit ydropisis, et quid lepra, et quid febris, videas in commento. Hic in hoc loco sunt maximi fetores. Aliqui fetores sunt a natura loci, aliqui procedunt ab istis spiritibus sic fetentibus. Talis pena bene convenit alchimistis et falsantibus metalla. Nam stant in fetoribus, quia alchimiste utuntur sulfure comburendo ipsum, quod generat maximes fetores; utuntur arsinico, losengardo, et aliquibus rebus venenosis, maxime fetentibus. Et sicut lepra est corrupcio humorum, et etiam ydropisis, et etiam febris, ita isti corrumpunt aurum, argentum, monetam et alia metalla. Et aliqui istorum stant ad sedendum, appodiati unus alteri, tecti crustis lepre, et habent pruritum insanabilem et nunquam cessant se scalpere, removentes de carne crustas lepre, sicut squame removentur a piscibus squamosis. Stant alchimiste appodiati, sicut steterant reclusi in domibus ad sufflandum in cineratio. Et quia nulla est secta ita coniuncta sicut sunt isti, qui semper se scalpunt alter alterum, ille pruritus est insanabilis. Ad faciendum alchimiam elevant crustas, quia aliquando removent a florenis et a denariis aureis aliquid de auro infelicissimi alchimiste, quibus patres relinquunt maximas divicias, et ipsi proiiciunt, sperantes in alchimia et ex ipsa fieri divites magis; et ipsi sic se expoliant, et sic proiiciunt crustas, et sic se scalpendo, proiicientes in vanum bona sua, acquirunt irrisiones et despectus, quia irridentur et contempnuntur quasi ab omnibus. Isti sufflant in igne, querunt herbas, etc., quia in ventum revertuntur omnia opera illorum, et sicut herbe dessiccantur. Hic auctor invenit magistrum Griffolinum de Senis.
+In isto capitulo vicesimonono, quod incipit: *Multa gens et diverse plage*, auctor prosequitur de decima Malibolgia, in qua puniuntur falsatores metallorum, monetarum et propriarum personarum in duobus capitulis; sed in isto puniuntur alchimiste, quorum pena talis est. Ipsi alchimiste stant in ista valle ydropici, leprosi, et febribus aggravati. Quid sit ydropisis, et quid lepra, et quid febris, videas in commento. Hic in hoc loco sunt maximi fetores. Aliqui fetores sunt a natura loci, aliqui procedunt ab istis spiritibus sic fetentibus. Talis pena bene convenit alchimistis et falsantibus metalla. Nam stant in fetoribus, quia alchimiste utuntur sulfure comburendo ipsum, quod generat maximos fetores; utuntur arsinico, losengardo, et aliquibus rebus venenosis, maxime fetentibus. Et sicut lepra est corrupcio humorum, et etiam ydropisis, et etiam febris, ita isti corrumpunt aurum, argentum, monetam et alia metalla. Et aliqui istorum stant ad sedendum, appodiati unus alteri, tecti crustis lepre, et habent pruritum insanabilem et nunquam cessant se scalpere, removentes de carne crustas lepre, sicut squame removentur a piscibus squamosis. Stant alchimiste appodiati, sicut steterant reclusi in domibus ad sufflandum in cineratio. Et quia nulla est secta ita coniuncta sicut sunt isti, qui semper se scalpunt alter alterum, ille pruritus est insanabilis. Ad faciendum alchimiam elevant crustas, quia aliquando removent a florenis et a denariis aureis aliquid de auro infelicissimi alchimiste, quibus patres relinquunt maximas divicias, et ipsi proiiciunt, sperantes in alchimia et ex ipsa fieri divites magis; et ipsi sic se expoliant, et sic proiiciunt crustas, et sic se scalpendo, proiicientes in vanum bona sua, acquirunt irrisiones et despectus, quia irridentur et contempnuntur quasi ab omnibus. Isti sufflant in igne, querunt herbas, etc., quia in ventum revertuntur omnia opera illorum, et sicut herbe dessiccantur. Hic auctor invenit magistrum Griffolinum de Senis.
 
 <!-- p. [356] (0410) -->
 
@@ -50,7 +50,7 @@ tractat de pena alchimistarum in duobus spiritibus modernis, magnis alchimistis.
 
 In quarta, que incipit ibi:
 
-Ed io disse al Poeta; Et ego dixi Po te,
+Ed io disse al Poeta; Et ego dixi Poete,
 
 auctor facit unam exclamationem et irrisionem gentis senensis.
 
@@ -414,7 +414,7 @@ Ego fui de Aretio, et Alberus de Senis, respondit ille, me fecit micti in ignem.
 
 39 Volle ch'io li mostrassi l'arte; e solo\
 &emsp;Perch'io nol feci Dedalo (1), mi fece\
-&emsp;Arder a tal, ch'io havea per figlolo.
+&emsp;Arder a tal, che l'havea per figlolo.
 
 39 Voluit quod ego monstrarem sibi artem; et solum\
 &emsp;Quia ego non feci illum Dedalum, me fecit\
@@ -470,7 +470,7 @@ Alter leprosus, qui erat hic, fuit magister Capochius de Florentia, singularissi
 
 <!-- p. 363 (0417) -->
 
-45 Ma perchè sappi (1) che sì ti seconda\
+45 Ma perchè sappi (1) chi sì ti seconda\
 &emsp;Contr'a'Sanesi, aguzza ver me l'ochio (2),\
 &emsp;Sì che la faccia (3) ben ti si risponda (4):
 
@@ -523,17 +523,17 @@ Dannò Minós, a cui fallir non lece.
 E Capocchio:
 
 . . . . . . . aguzza ver me l'occhio\
-Si che la faccia mia ben ti risponda:\
-Si vedrai ch'io son l'ombra di Capocchio,\
+Sì che la faccia mia ben ti risponda:\
+Sì vedrai ch'io son l'ombra di Capocchio,\
 Che falsai li metalli per l'alchimia:\
 E ten dee ricordar, se ben t'adocchio,\
 Com'i'fui di natura buona scimia.
 
 Perchè questa punizione agli alchimisti? Chè, insomma, l'alchimia fu l'occasione, per cui l'umano ingegno si addentrò ne' secreti delle varie composizioni de'corpi, arrivando a poco a poco a maravigliose scoperte, le quali da ultimo, col Lavoisier, ci dettero la nobilissima scienza della chimica odierna; scienza senza dubbio destinata a produrre sorprendenti trasformazioni, per le quali l'uomo acquisterà, secondo che Dio, creandolo a sua immagine e somiglianza, gl'ingiungeva, la piena dominazione e signoria della terra e della natura universa.
 
-E rispondiamo che l'Alighieri non condannò già l'alchimia come osservazione della natura, sì soltanto gli alchimisti falsarii, scimmie della potenza e sapienza di Dio, i quali si proponevano intenti d'impossibile attuazione. Il che era stato già notato dall'Anonimo, il quale recava un testo della Somma di San Tommaso, avvalorato dall'autorità di Sant'Agostino, e dimostrava che l'umano ingegno, per istinto, e meglio per tradizione di fatti sparsi, ad ardite induzioni collegati, potè presentire e presenti quel che la scienza e l'arte arriverebbero a trovare: nè già adulterando alcuni corpi per far credere di averne creati altri; ma veramente penetrando nell'opera divina fin dove Dio stabili che l'uomo possa arrivare, affinchè cresca ogni dì più nell'ammirazione di lui e nel suo amore. L'alchimia, condannata dall'Alighieri, venne da lui maravigliosamente espressa con le parole messe in bocca a Capocchio:
+E rispondiamo che l'Alighieri non condannò già l'alchimia come osservazione della natura, sì soltanto gli alchimisti falsarii, scimmie della potenza e sapienza di Dio, i quali si proponevano intenti d'impossibile attuazione. Il che era stato già notato dall'Anonimo, il quale recava un testo della Somma di San Tommaso, avvalorato dall'autorità di Sant'Agostino, e dimostrava che l'umano ingegno, per istinto, e meglio per tradizione di fatti sparsi, ad ardite induzioni collegati, potè presentire e presentì quel che la scienza e l'arte arriverebbero a trovare: nè già adulterando alcuni corpi per far credere di averne creati altri; ma veramente penetrando nell'opera divina fin dove Dio stabilì che l'uomo possa arrivare, affinchè cresca ogni dì più nell'ammirazione di lui e nel suo amore. L'alchimia, condannata dall'Alighieri, venne da lui maravigliosamente espressa con le parole messe in bocca a Capocchio:
 
-Si vedrai ch'io son l'ombra di Capocchio,\
+Sì vedrai ch'io son l'ombra di Capocchio,\
 Che falsai li metalli per alchimia:\
 E ten dee ricordar, se ben t'adocchio,\
 Com'i'fui di natura buona scimia.

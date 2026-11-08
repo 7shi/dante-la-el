@@ -53,7 +53,7 @@ Demum notandum est, quod in hoc capitulo fit mentio de quinque malis furibus, si
 &emsp;Ac si dicat: Nolo quod amplius dicas:
 
 3 Et un'altra a le braccia, e rilegollo\
-&emsp;Ribiadendo sè stessa sì dinanzi,\
+&emsp;Ribadendo sè stessa sì dinanzi,\
 &emsp;Che non potea con esse (1) dar un crollo.
 
 3 Et unus alter ad brachia, et eum religavit\
@@ -295,7 +295,7 @@ Edera *abbracciata*, idest amplexata, nunquam fuit ad arborem sic, sicut horribi
 &emsp;Devenerunt membra que nunquam fuerunt visa.
 
 26 Ogni primaio aspecto quiv'era casso:\
-&emsp;Dov'in nessun l'ymagine perversa\
+&emsp;Due e nessun l'ymagine perversa\
 &emsp;Pareva, e tal sen gi' con lenti passi.
 
 26 Omnis primus aspectus ibi erat cassus:\
@@ -324,7 +324,7 @@ Sicut, ergo, edera se involvit super arbores et coniungit, sic iste serpens sexq
 
 Sicut procedit ante ardorem, idest antequam incipiat ardere papirus sursum, unus color brunus, idest niger, qui non est niger, idest ad plenum adhuc, et albus moritur, idest deficit, vel extinguitur (ymagineris comburere unum folium de papiro, et incipiat comburi ex uno latere, et paullatim ardeat; ille fumus qui surgit a papiro, vel a carta, nondum est bene niger, et albedo deficit); sic immutabatur color utriusque istorum, scilicet serpentis et Angeli. Alii duo, scilicet Bosius et Puccius, respiciebant, et quilibet clamabat: Heu, Angele, quomodo tu mutaris! Videas quod iam non es nec duo nec unus: idest dolemus quod sic transformeris, quia iam non es homo nec serpens, sed es uterque. Talis est homo latro, quia quantum ad figuram est homo, sed quantum ad mentem et intentionem est serpens.
 
-Iam duo capita unum devenerunt, quando nobis apparuerunt due figure mixte in una fatie, ubi erant duo perditi, scilicet homo et serpens. Facta sunt brachia, scilicet Angeli, duo, quatuor *liste*, idest brance: *coscie* cum cruribus, et venter, et cassus (medium tenet inter corpus et pectus) devenerunt, idest facta sunt, vel apparuerunt, membra que nunquam fuerunt visa. Omnis primarius aspectus ibi erat cassus, idest perditus: duo et nullus, ymago perversa, idest talis figura trasformata, apparebat, et talis ivit, idest recessit, cum lentu passu. Sic usi sunt latrones ire.
+Iam duo capita unum devenerunt, quando nobis apparuerunt due figure mixte in una fatie, ubi erant duo perditi, scilicet homo et serpens. Facta sunt brachia, scilicet Angeli, duo, quatuor *liste*, idest brance: *coscie* cum cruribus, et venter, et cassus (medium tenet inter corpus et pectus) devenerunt, idest facta sunt, vel apparuerunt, membra que nunquam fuerunt visa. Omnis primarius aspectus ibi erat cassus, idest perditus: duo et nullus, ymago perversa, idest talis figura trasformata, apparebat, et talis ivit, idest recessit, cum lento passu. Sic usi sunt latrones ire.
 
 *Sicut stellio*: hec est tertia pars huius capituli, in qua tractatur de tertia specie latrocinii, scilicet de latronibus, qui appensate, deliberate, et consilio et electione factis, furantur; que omnia aggravant peccatum tale. Talis latro efficitur serpens, et serpens fit homo. Quando talis latro furatur , tunc fit serpens; quando desinit furari, tunc serpens fit homo.
 
@@ -357,8 +357,8 @@ Idest, volens auctor procedere de tertia specie furti, ponit unam comparacionem.
 &emsp;Fumabant fortiter, et fumi sibi invicem obviabant.
 
 32 Taccia Lucano omai, là dove toccha\
-&emsp;Del misero Sabellio e di Massidio,\
-&emsp;Et attend' a udir quel ch'or si toccha.
+&emsp;Del misero Sabellio e di Nasidio,\
+&emsp;Et attend' a udir quel ch'or si scocca.
 
 32 Taceat Lucanus ammodo, ibi ubi tangit\
 &emsp;De misero Sabell[i]o et de Nassidio,\
@@ -409,7 +409,7 @@ Taceat de Cadmo et de Arethusa Ovidius, quia, si illum in serpentem et illam in 
 &emsp;Non faciebat signum aliquod quod appareret.
 
 37 Toglea la coda fessa la figura\
-&emsp;Che si perdea ella, e la sua pelle\
+&emsp;Che si perdea ella, e là sua pelle\
 &emsp;Si facea molle, e quella dell'huom dura.
 
 37 Tollebat cauda fixa figuram\
@@ -448,7 +448,7 @@ Taceat de Cadmo et de Arethusa Ovidius, quia, si illum in serpentem et illam in 
 &emsp;Non torquendo ideo lucernas impias,\
 &emsp;Sub quibus quilibet mutabat musum.
 
-42 Quel ch'era dietro, el trasse ver le tempie;\
+42 Quel ch'era dritto, el trasse ver le tempie;\
 &emsp;E di troppa materia che gl'advenne,\
 &emsp;Uscir gl'orechi de le gote scempie:
 
@@ -542,7 +542,7 @@ Anima, que fera devenerat, sibillando aufugit (quia sibillare est proprium serpe
 
 Postea ad eum volvit novellas spatulas (quia recedit a furto), et dixit ad alium, scilicet ad tertium, scilicet ad Puccium Scianchatum: Ego volo quod Bosius currat, sicut feci ego, carpando, idest carpendo (est proprium ferarum), per istum callem; idest volo quod fiat serpens, sicut ego fui. Sic vidi ego septimam zavorram mutari et transmutari, idest de serpente in hominem et de homine in serpentem. Et hic me excuset novitas, si in alia re lingua *aborrat*, idest variat.
 
-*Zavorra* proprie est arena maris cum parvis lapillis, quam aliquando naute ponunt in navibus, quando non sunt onerate: et vocat istum locum zavorram, idest arenam, quia serpentes, saltem in Libia, stant in arena. Excusat se auctor, sicut facit Valerius, Iulius. Celsus. Dicit quod fecit sicut Sceva, si non probe fecerat. *Fior*, idest penna, stilus. *Aborra*, idest obetrat.
+*Zavorra* proprie est arena maris cum parvis lapillis, quam aliquando naute ponunt in navibus, quando non sunt onerate: et vocat istum locum zavorram, idest arenam, quia serpentes, saltem in Libia, stant in arena. Excusat se auctor, sicut facit Valerius, Iulius. Celsus. Dicit quod fecit sicut Sceva, si non probe fecerat. *Fior*, idest penna, stilus. *Aborra*, idest oberrat.
 
 Et quamquam occuli mei confusi essent aliquantulum, et animus smagatus, idest timidus vel pavefactus, non potuerunt tamen illi fugere clausi, quod non discernerem bene Puccium Scianchatum, claudum scilicet. Et erat ille, qui solus, de tribus sotiis, qui venerunt prius, non erat mutatus. Alter erat ille, quem tu, Gaville, plangis; idest alter fuit Guercius de Cavalcantibus, qui fuit interfectus a rusticis unius ruris, sive ville, de comitatu Florentie, que villa vocatur Gaville. Et propter mortem istius Guercii multi rustici de illa villa Gaville fuerunt interfecti, et facti sunt in illa villa multi planctus et luctus; ideo dicit textus: Tu, Gaville, *piange*, idest ploras.
 

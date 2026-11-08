@@ -16,7 +16,7 @@ In vicesimosexto capitulo, quod incipit: *Dum sic per extremitatem cornicis*, au
 &emsp;Ibamus, et sepe bonus magister\
 &emsp;Dicebat michi: Caveas quod ego te scaltro;
 
-*Dum sic per extremitatem*. *Mentre che si per l'orlo*: istud est vicesimumsextum capitulum istius Purgatorii, in quo prosequitur materiam luxurie, in quo etiam pertractat de turpissima specie luxurie, scilicet sodomia, que commictitur contra naturam: quod dividitur in quatuor partes. In quarum prima auctor describit duas acies animarum, que invicem sibi obviant in isto foco, et demonstrat ipsarum modum et vicem.
+*Dum sic per extremitatem*. *Mentre che sì per l'orlo*: istud est vicesimumsextum capitulum istius Purgatorii, in quo prosequitur materiam luxurie, in quo etiam pertractat de turpissima specie luxurie, scilicet sodomia, que commictitur contra naturam: quod dividitur in quatuor partes. In quarum prima auctor describit duas acies animarum, que invicem sibi obviant in isto foco, et demonstrat ipsarum modum et vicem.
 
 In secunda, que incipit ibi:
 
@@ -38,7 +38,7 @@ Notandum est quod ipse due gentes sic euntes, una contra aliam, fuerunt peccator
 &emsp;Che già, raggiando, tucto l'occidente\
 &emsp;Mutava in bianco aspecto di cilestro:
 
-2 Fericbat me sol super humerum dextrum,\
+2 Feriebat me sol super humerum dextrum,\
 &emsp;Qui iam, radiando, totum occidentem\
 &emsp;Mutabat in album aspectum celestrem:
 
@@ -60,7 +60,7 @@ Notandum est quod ipse due gentes sic euntes, una contra aliam, fuerunt peccator
 
 5 Poi verso me, quanto potean farsi,\
 &emsp;Certi si feron, sempre con riguardo\
-&emsp;Di non usar dove (2) non fusser arsi (3).
+&emsp;Di non uscir dove (2) non fusser arsi (3).
 
 5 Postea versus me, quantum poterant facere se.\
 &emsp;Certi fecerunt se, et semper cum provisione\
@@ -68,7 +68,7 @@ Notandum est quod ipse due gentes sic euntes, una contra aliam, fuerunt peccator
 
 6 O tu, che vai, non per esser più tardo,\
 &emsp;Ma forse (4) reverente, agl'altri dopo,\
-&emsp;Risponde a me che 'n sete et in foco ardo.
+&emsp;Rispondi a me che 'n sete et in foco ardo.
 
 6 O tu, qui vadis, ut non sis magis tardus,\
 &emsp;Sed forsan reverens, post alios,\
@@ -115,7 +115,7 @@ Dic nobis, quomodo est quod facis de te parietem, idest obstaculum, soli, ac si 
 &emsp;Ad aliam novitatem que apparuit tunc;
 
 10 Chè per lo mezzo del cammin acceso\
-&emsp;Venne gente col viso intorno a questa,\
+&emsp;Venne gente col viso incontro a questa,\
 &emsp;La qual mi fece a rimirar sospeso.
 
 10 Quia per medium itineris igniti\
@@ -132,7 +132,7 @@ Dic nobis, quomodo est quod facis de te parietem, idest obstaculum, soli, ac si 
 
 12 Così per entro loro schiera bruna\
 &emsp;S'amusa l'una coll'altra formica,\
-&emsp;Forse a spiar lor vita e lor fortuna.
+&emsp;Forse a spiar lor via e lor fortuna.
 
 12 Sic intra per earum aciem brunam\
 &emsp;Musat una cum alia formica,\
@@ -248,7 +248,7 @@ Modo auctor coniurat istas animas, ut indicent sibi, que anime sunt in illis dua
 
 23 Non altrimenti stupido si turba\
 &emsp;Lo montanaro, e rimirando ammuta (1),\
-&emsp;Quando rozzo e selvatico in se inurba,
+&emsp;Quando rozzo e selvatico in se s'inurba,
 
 23 Non aliter stupefactus turbatur\
 &emsp;Montanarius, et respiciendo obmutit,\
@@ -294,7 +294,7 @@ Modo auctor coniurat istas animas, ut indicent sibi, que anime sunt in illis dua
 &emsp;Sed quia non servavimus humanam legem,\
 &emsp;Sequendo sicut bestie appetitum,
 
-29 In opbrobrio di noi, per noi si legge,\
+29 In obbrobrio di noi, per noi si legge,\
 &emsp;Quando partinci (6), el nome di colei (7)\
 &emsp;Che s'imbestiò nell'imbestiate scheggie (8).
 
@@ -321,7 +321,7 @@ Nostrum peccatum fuit hermafroditarum, idest habentium utrumque sexum; sed quia 
 &emsp;Tempus non est dicendi, et non scirem.
 
 31 Farotti ben di me volere scemo:\
-&emsp;Son Guido Guininzelli; e già mi purgo,\
+&emsp;Son Guido Guinizelli; e già mi purgo,\
 &emsp;Per ben dolermi (1) prima ch'allo stremo (2).
 
 31 Faciam bene de me tuum velle diminutum:\
@@ -436,7 +436,7 @@ Versibus amoris et prosis romantie superavit, idest excessit, omnes; et permicte
 &emsp;Et sic firmarunt suam oppinionem\
 &emsp;Prius quam ars vel ratio per eos auscultetur.
 
-42 Così fer molti antichi di Guidone,\
+42 Così fer molti antichi di Guictone,\
 &emsp;Di grido in grido pur lui dando pregio,\
 &emsp;Finchè l'ha vincto el ver con più persone.
 
@@ -534,8 +534,8 @@ Questo incendio, che nel concetto del Poeta purga le carnali colpe nell'ultimo g
 
 Se poi, come facilmente potrebbe riscontrarsi, ogni colpa ha nel disordine, in che essa consiste, la propria sanzione, come l'ha ogni virtù nell'ordine, si vede perchè la sensualità, tanto sovente raffigurata in un fuoco che accende il sangue e macera le membra, da un fuoco che disordinatamente crucia venga punita; laddove la fiamma dell'amor puro, cioè conforme all'ordine di ragione, e tanto più pura quanto meno del senso partecipa, a' beati è premio e gaudio.
 
-Il fuoco, tra gli elementi materiali, rappresenta quello che nel consorzio degli spiriti è l'amore, e però l'uno suolsi adoperare a segno dell'altro; e come il calore è delle manifestazioni parventi della materia e della formazione e conglomerazione dei corpi il fattore precipuo, così da esso non incongruamente vien punito il delitto che offende la perennità della vita, in che si sostanzia l'essenza concreta della specie. Dall' ordine dell'amore fiorisce ogni virtù ed ogni gaudio vero, cioè perenne; dal disordine della volonta nasce fontalmente ogni strazio: quindi, se il piacere del senso abusato offende nel più sostanziale la natura, consentaneo è a giustizia che ne sia vindice e mezzo espiatorio quell'elemento di essa, il quale è d'ogni altro più comprensivo e che alla totalita del corpo si distende.
+Il fuoco, tra gli elementi materiali, rappresenta quello che nel consorzio degli spiriti è l'amore, e però l'uno suolsi adoperare a segno dell'altro; e come il calore è delle manifestazioni parventi della materia e della formazione e conglomerazione dei corpi il fattore precipuo, così da esso non incongruamente vien punito il delitto che offende la perennità della vita, in che si sostanzia l'essenza concreta della specie. Dall' ordine dell'amore fiorisce ogni virtù ed ogni gaudio vero, cioè perenne; dal disordine della volontà nasce fontalmente ogni strazio: quindi, se il piacere del senso abusato offende nel più sostanziale la natura, consentaneo è a giustizia che ne sia vindice e mezzo espiatorio quell'elemento di essa, il quale è d'ogni altro più comprensivo e che alla totalità del corpo si distende.
 
-Sono note le molte opinioni de' Teologi sopra la qualità del fuoco adoperato dalla giustizia divina ad espiazione temporanea o a perpetuo castigo nell'altra vita: opinioni tra le quali non seppe risolversi, come nota San Bonaventura, il grande Agostino. Ma se la ragione e la fede d'accordo consigliano a concepire lo stato oltremondano spoglio di quelle parvenze, che sono soltanto ombra della realta, vuolsi ad un tempo notare, che i tormenti, dati per mezzo della materia e del più visibile agente di essa, trovano una stupenda armonia con le analogie della ragione e con le relazioni non rotte, ma spostate soltanto e fatte violente, tra la natura corporea obbediente a Dio e gli spiriti che a lui si ribellarono. Non possiamo però pretendere di penetrare il fondo del mistero, ossia del modo maraviglioso, come lo chiama lo stesso Sant'Agostino (*miris modis*), con cui l'azione si effettua: perocchè a questo fondo noi non possiamo giungere neanche nelle cose più chiare ed intelligibili della creazione.
+Sono note le molte opinioni de' Teologi sopra la qualità del fuoco adoperato dalla giustizia divina ad espiazione temporanea o a perpetuo castigo nell'altra vita: opinioni tra le quali non seppe risolversi, come nota San Bonaventura, il grande Agostino. Ma se la ragione e la fede d'accordo consigliano a concepire lo stato oltremondano spoglio di quelle parvenze, che sono soltanto ombra della realtà, vuolsi ad un tempo notare, che i tormenti, dati per mezzo della materia e del più visibile agente di essa, trovano una stupenda armonia con le analogie della ragione e con le relazioni non rotte, ma spostate soltanto e fatte violente, tra la natura corporea obbediente a Dio e gli spiriti che a lui si ribellarono. Non possiamo però pretendere di penetrare il fondo del mistero, ossia del modo maraviglioso, come lo chiama lo stesso Sant'Agostino (*miris modis*), con cui l'azione si effettua: perocchè a questo fondo noi non possiamo giungere neanche nelle cose più chiare ed intelligibili della creazione.
 
-Alla dottrina cattolica circa il fuoco del Purgatorio ha stretta relazione, e ne è conferma, quel che sappiamo dover accadere nell'ultimo dei giorni; e cioè, che non vi sarà un'anima sola, la quale non venga sperimentata col fuoco per conoscere se sia degna o no del cielo. E si ha nelle seguenti parole di San Paolo (*ad Corint*. I, cap. III): « Altro fondamento non puo gettare chi che sia fuor di quello che è stato gettato, che è Cristo Gesù. Che se uno sopra questo fondamento fabbrica oro, argento, pietre preziose, legna, fieno, stoppie, si farà manifesto il lavoro di ciascheduno: perocchè il di del Signore lo porra in chiaro, dappoichè sara disvelato per mezzo del fuoco; ed il fuoco proverà quale sia il lavoro di ciascheduno. Se sussisterà il lavoro che uno vi ha sopra edificato, ne avra ricompensa: se di alcuno il lavoro ardera, ne soffrirà egli il danno; ma sarà salvato; cosi pero come per mezzo del fuoco. » Il fuoco, adunque, che a' dannati è pena, ai beati è premio e gaudio, che ne investe, ne irraggia e ne fa risplendere la bellezza.
+Alla dottrina cattolica circa il fuoco del Purgatorio ha stretta relazione, e ne è conferma, quel che sappiamo dover accadere nell'ultimo dei giorni; e cioè, che non vi sarà un'anima sola, la quale non venga sperimentata col fuoco per conoscere se sia degna o no del cielo. E si ha nelle seguenti parole di San Paolo (*ad Corint*. I, cap. III): « Altro fondamento non può gettare chi che sia fuor di quello che è stato gettato, che è Cristo Gesù. Che se uno sopra questo fondamento fabbrica oro, argento, pietre preziose, legna, fieno, stoppie, si farà manifesto il lavoro di ciascheduno: perocchè il dì del Signore lo porrà in chiaro, dappoichè sarà disvelato per mezzo del fuoco; ed il fuoco proverà quale sia il lavoro di ciascheduno. Se sussisterà il lavoro che uno vi ha sopra edificato, ne avrà ricompensa: se di alcuno il lavoro arderà, ne soffrirà egli il danno; ma sarà salvato; così però come per mezzo del fuoco. » Il fuoco, adunque, che a' dannati è pena, ai beati è premio e gaudio, che ne investe, ne irraggia e ne fa risplendere la bellezza.

@@ -26,7 +26,7 @@ In sextodecimo capitulo, quod incipit: *Iam eram in loco, ubi audiebatur*, aucto
 
 (1) al. torma.
 
-*Iam eram in loco*. *Già era in loco, dore*: istud est decimumsextum capitulum Inferni, in quo auctor prosequitur materiam istius vitii detestabilis, ponendo tres spiritus illustres in multis virtutibus, qui fuerunt involuti in hoc vitio; et dividitur in quatuor partes. In quarum prima facit mentionem de dictis tribus spiritibus.
+*Iam eram in loco*. *Già era in loco, dove*: istud est decimumsextum capitulum Inferni, in quo auctor prosequitur materiam istius vitii detestabilis, ponendo tres spiritus illustres in multis virtutibus, qui fuerunt involuti in hoc vitio; et dividitur in quatuor partes. In quarum prima facit mentionem de dictis tribus spiritibus.
 
 In secunda, que incipit ibi:
 
@@ -97,7 +97,7 @@ Quando tres umbre simul recesserunt, currendo, de una turba, idest acie, sub plu
 &emsp;Prima che sien tra lor battuti e puncti;
 
 8 Qualem solebant facere campiones nudi et uncti,\
-&emsp;Considerando eorum partem et eorum prerogatiram,\
+&emsp;Considerando eorum partem et eorum prerogativam,\
 &emsp;Prius quam sint inter eos reverberati et puncti;
 
 9 E sì, rotando, ciascuno el visaggio\
@@ -184,7 +184,7 @@ Dicit: Bene scio quod tu deberes habere nos ad sc[h]ivum, idest ad fastidium, tu
 
 <!-- p. 207 (0261) -->
 
-16 S'io fossi stato dal loco coperto,\
+16 S'io fossi stato dal foco coperto,\
 &emsp;Gittato mi sarei tra loro disocto,\
 &emsp;E credo che 'l doctor (1) l'havria sofferto.
 
@@ -197,7 +197,7 @@ Dicit: Bene scio quod tu deberes habere nos ad sc[h]ivum, idest ad fastidium, tu
 &emsp;Che di lor abbracciar mi facea ghiocto.
 
 17 Sed quia ego me incendissem et decoquissem,\
-&emsp;Vicit timor bonum voluntatem,\
+&emsp;Vicit timor bonam voluntatem,\
 &emsp;Que amplexari illos faciebat me avidum.
 
 18 Poi cominciai: Non dispecto, ma dogla\
@@ -333,7 +333,7 @@ Modo respondit auctor huic petitioni, dicens: Gens nova et subita lucra arrogant
 &emsp;Quod quamquam loquuti fuissemus, non essemus auditi.
 
 32 Come quel f[i]umo, c'ha proprio cammino\
-&emsp;Prima da monte volto inver levante\
+&emsp;Prima da monte Veso inver levante\
 &emsp;Da la sinistra costa d'Apennino,
 
 32 Sicut ille fluvius, qui habet proprium iter\
@@ -492,7 +492,7 @@ Sed quia materia difficilis est, recurrit ad sacramentum, quod de sua natura hab
 
 # Il cingolo di Dante
 
-Molto si è disputato, ma senza conchiudere, sulla corda di cui l'immortale Poeta si mostra cinto, arrivato alla fine del settimo cerchio del suo Inferno. Anche noi amiamo dirne una parola, benchè il nostro sia concetto diametralmente opposto a quello del nostro Serravalle. E a conseguire con qualche probabilità il vero, crediamo si debba argomentare dalla natura de' vizi, de' quali l'Alighieri tratta in questo, come nel canto precedente e nel seguente: vizi che sono quel che vi ha di più abominevole in natura, e che uccidono con la vita del corpo quella dello spirito, e rendono la societa così evirata e abbietta, da non esser più capace che d'ignominia e di schiavitù.
+Molto si è disputato, ma senza conchiudere, sulla corda di cui l'immortale Poeta si mostra cinto, arrivato alla fine del settimo cerchio del suo Inferno. Anche noi amiamo dirne una parola, benchè il nostro sia concetto diametralmente opposto a quello del nostro Serravalle. E a conseguire con qualche probabilità il vero, crediamo si debba argomentare dalla natura de' vizi, de' quali l'Alighieri tratta in questo, come nel canto precedente e nel seguente: vizi che sono quel che vi ha di più abominevole in natura, e che uccidono con la vita del corpo quella dello spirito, e rendono la società così evirata e abbietta, da non esser più capace che d'ignominia e di schiavitù.
 
 Anche qui s'avviene in tre di Firenze, che ne furono imbrattati; e interrogato da un d'essi, se cortesia e valore dimorassero ancora nel natio lor suolo, o se del tutto tali virtù ne fossero state bandite, il Poeta, ferito di profondo dolore, grida volto alla sua patria diletta:
 
@@ -512,6 +512,6 @@ Si osservi ch'ei son sempre tra peccati e peccatori turpi, i quali continueranno
 
 Egli dunque ad affrontar la bestia che si presentava, porse a Virgilio la corda, che unica poteva domarla: « Sint lumbi vestri praecincti. » E possiamo affermare, che fosse propriamente il cingolo, o cordone, degli ascritti al Terz'Ordine Francescano, chi pensi alla popolarità e universalità che aveva a que' dì tale instituzione, e alla tradizione, rimasta del pari universale e popolarissima, che egli, Dante, abbia appartenuto come Terziario all'instituto Francescano. Di fatti, quasi tutti gli antichi espositori della sua Cantica, l'affermano; anzi il Buti, nel suo Commento, scrive, che giovinetto entrasse nel primo Ordine, in cui non durò; ma rimase nel Terzo, che portò a que' dì, con l'altro di San Domenico, la rigenerazione dell'Italia e dell'intera Europa. Finalmente sappiamo che, coperto dell'abito Francescano, veniva sepolto in Ravenna, dove terminava i travagliati suoi dì.
 
-Vi furono de' commentatori i quali, pur ammettendo ch'ei cingesse quella fune francescana, non vogliono vedere in tale sua spirituale appartenenza alla Minoritica famiglia, che un'ipocrisia, in quel tempo, a lor detta, comune a molti, per riuscire meglio ne' malvagi loro intendimenti. Ma è affermazione contraddittoria con tutte le memorie dell'Ordine Francescano in Italia, rispetto ai molti; e rispetto a Dante, basterà osservare col nostro Lombardi, che è spudoratezza e insolenza. E certo non dovra vantarsi di amar l'Italia chi non sente ribrezzo di avvolgerne così nel fango le più sublimi glorie; nè avrà animo di leggere l'undecimo canto del Paradiso: che cosa potrebbe egli vedere e sentire in quella luce purissima e fra quella soave onda di amore, che avvolge e sublima la terra al cielo?
+Vi furono de' commentatori i quali, pur ammettendo ch'ei cingesse quella fune francescana, non vogliono vedere in tale sua spirituale appartenenza alla Minoritica famiglia, che un'ipocrisia, in quel tempo, a lor detta, comune a molti, per riuscire meglio ne' malvagi loro intendimenti. Ma è affermazione contraddittoria con tutte le memorie dell'Ordine Francescano in Italia, rispetto ai molti; e rispetto a Dante, basterà osservare col nostro Lombardi, che è spudoratezza e insolenza. E certo non dovrà vantarsi di amar l'Italia chi non sente ribrezzo di avvolgerne così nel fango le più sublimi glorie; nè avrà animo di leggere l'undecimo canto del Paradiso: che cosa potrebbe egli vedere e sentire in quella luce purissima e fra quella soave onda di amore, che avvolge e sublima la terra al cielo?
 
-Non vogliamo qui omettere, che un notissimo letterato d'Italia, vivente (Ruggero Bonghi), il quale in tutti i suoi scritti ondeggia tra bellissimi concetti veri e qualcosa di nuvoloso e d'incerto, visitando a questi dì parecchi antichi Conventi Francescani d'Italia, ne trasse considerazioni da non diminuire l'ammirazione e l'affetto verso il Serafico Padre e la sua instituzione, da cui si vigorosa virtù ebbe l'Italia a recare innanzi l'opera del suo incivilimento. Tanto nel Poverello d'Assisi e nel suo Ordine il divino continua a spandersi per ogni lato da non poterglisi, dopo più che sei secoli, in alcun modo sottrarre! Ed abbiam fede che per esso altre copiose benedizioni debbano discendere, specialmente sul nostro paese diletto. Dove troveresti un'anima, che al nome di Francesco non si rassereni, e non senta balenarsi un raggio di Paradiso?
+Non vogliamo qui omettere, che un notissimo letterato d'Italia, vivente (Ruggero Bonghi), il quale in tutti i suoi scritti ondeggia tra bellissimi concetti veri e qualcosa di nuvoloso e d'incerto, visitando a questi dì parecchi antichi Conventi Francescani d'Italia, ne trasse considerazioni da non diminuire l'ammirazione e l'affetto verso il Serafico Padre e la sua instituzione, da cui sì vigorosa virtù ebbe l'Italia a recare innanzi l'opera del suo incivilimento. Tanto nel Poverello d'Assisi e nel suo Ordine il divino continua a spandersi per ogni lato da non poterglisi, dopo più che sei secoli, in alcun modo sottrarre! Ed abbiam fede che per esso altre copiose benedizioni debbano discendere, specialmente sul nostro paese diletto. Dove troveresti un'anima, che al nome di Francesco non si rassereni, e non senta balenarsi un raggio di Paradiso?

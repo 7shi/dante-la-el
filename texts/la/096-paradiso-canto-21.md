@@ -114,14 +114,14 @@ Qualis, vel quiscumque, sciret qualis erat pastura vultus mei, idest oculorum me
 
 9 Dentr'al cristallo, che'l vocabol porta,\
 &emsp;Cerchiando'l mondo, del suo caro duce,\
-&emsp;Sotto cui giacque ogni militia morta,
+&emsp;Sotto cui giacque ogni malitia morta,
 
 9 Intra cristallum, quod vocabulum portat,\
 &emsp;Circuendo mundum, sui cari ducis,\
 &emsp;Sub quo iacuit omnis malitia mortua,
 
 10 Di color d'oro, in che raggio traluce,\
-&emsp;Vid'io uno scalco erecto in suso\
+&emsp;Vid'io uno scaleo erecto in suso\
 &emsp;Tanto, che nol seguiva la mia luce.
 
 10 Coloris aurei, in quo radius tralucet,\
@@ -133,7 +133,7 @@ Qualis, vel quiscumque, sciret qualis erat pastura vultus mei, idest oculorum me
 &emsp;Che par nel ciel, quindi fusse diffuso.
 
 11 Vidi etiam per gradus descendere infra\
-&emsp;Tot splendores, quod ego cogitavi quod omne bonum\
+&emsp;Tot splendores, quod ego cogitavi quod omne lumen\
 &emsp;Quod apparet in celo, inde esset diffusum.
 
 12 E come, per lo natural costume,\
@@ -321,7 +321,7 @@ Infra per gradus scale sancte, idest sanctarum scalarum, descendi tantum, solum 
 &emsp;A la domanda tua non satisfara;
 
 31 Sed illa anima in celo que plus clarificatur,\
-&emsp;Illud seraphin quod plus in Deum oculum habet ficum,\
+&emsp;Illud seraphin quod plus in Deum oculum habet fixum,\
 &emsp;Petitioni tue [non] satisfaceret;
 
 32 Però ch'è sì involuto nell'abisso\
@@ -330,7 +330,7 @@ Infra per gradus scale sancte, idest sanctarum scalarum, descendi tantum, solum 
 
 32 Quia ita ultra ponitur in abisso\
 &emsp;Eterni statuti illud quod petis,\
-&emsp;Quod ab omni creatura vista est scissum.
+&emsp;Quod ab omni creata vista est scissum.
 
 33 Et al mondo mortal, quando tu riedi,\
 &emsp;Questo rapporta, sì che non presumma\
@@ -346,7 +346,7 @@ quare iste spiritus appropinquat ad ipsum auctorem plus quam alii spiritus, qui 
 
 Sed alta caritas, que facit nos servas, promptas consilio, scilicet divino, quod, scilicet consilium, mundum gubernat, sortitur nos hic, sicut tu nunc servas, idest intueris vel vides. Responsio stat in hoc: Propter nullam causam specialem sic venit iste spiritus propinquus auctori, nisi quia Deus sic sortitus est.
 
-*Ego video bene, dixi eo*. *Eo veggio ben, diss'io*: hec est tertia pars huius capituli, in qua auctor proponit unum dubium isti anime, quod oritur ex responsione data ab ipsa anima, dicens: Ego bene video, quod libero amore adimpletis providentiam eternam; ideo dubito de hoc. Quare predestinata fuisti sola ad istud officium? Subito illud lumen circumvolvit se circa lumen suum, ita quod fecit unum circulum, et lumen suum sicut centrum illius circuli quem fecit; et demum dixit: Lux divina supervenit michi, penetrando per istam, scilicet qua sum circumdatus; quia divina lux me elevat tantum, quod video divinam essentiam, a qua illa lux venit. Et ex hinc procedit gaudium, propter quod efficitur mea flamma; et visioni mee, quantum est
+*Ego video bene, dixi ego*. *Eo veggio ben, diss'io*: hec est tertia pars huius capituli, in qua auctor proponit unum dubium isti anime, quod oritur ex responsione data ab ipsa anima, dicens: Ego bene video, quod libero amore adimpletis providentiam eternam; ideo dubito de hoc. Quare predestinata fuisti sola ad istud officium? Subito illud lumen circumvolvit se circa lumen suum, ita quod fecit unum circulum, et lumen suum sicut centrum illius circuli quem fecit; et demum dixit: Lux divina supervenit michi, penetrando per istam, scilicet qua sum circumdatus; quia divina lux me elevat tantum, quod video divinam essentiam, a qua illa lux venit. Et ex hinc procedit gaudium, propter quod efficitur mea flamma; et visioni mee, quantum est
 
 <!-- p. 1073 (1127) -->
 
@@ -470,7 +470,7 @@ Reddere solebat (hic conqueritur de suo monasterio, quod solebat esse sanctum, m
 
 44 Nunc volunt hinc inde qui recalcient\
 &emsp;Moderni pastores, et qui eos ducant,\
-&emsp;Tantum sunt graves, et que retro eos elevent.
+&emsp;Tantum sunt graves, et qui retro eos elevent.
 
 45 Cuopron co' manti loro e palaphreni,\
 &emsp;Sì che due bestie van sott'una pelle:\
@@ -516,13 +516,13 @@ Circa istam, scilicet animam Petri Damiani, venerunt et quieverunt, idest firmav
 
 # Il riso de'beati in cielo
 
-Un luogo d'ogni luce muto, dove suonano cupi ululati d'ira e di disperato dolore il quale non avrà più fine, è l'Inferno come lo descrive l'Alighieri: e corrisponde a quella « terram tenebrosam et opertam mortis caligine, terram miseriae et tenebrarum, ubi umbra mortis, et nullus ordo, sed sempiternus horror, inhabitat, » dal cui pensiero sentiva Giobbe atterrirsi (IOB. X). Luce ed amore rischiarano e confortano il suo Purgatorio: ma una luce e un amore che, se danno la rassegnazione e la speranza, non quietano punto lo spirito; anzi così avvivano in esso, come scriveva Santa Caterina da Genova, tal desiderio della luce e dell'amore, in cui consiste la vita eterna di Dio, che dove gli venisse un dubbio di non potervi giungere, in quel punto stesso avrebbe l'inferno compito (*Trat. del Purg*. cap. VI). Luce purissima ed infinita, il cui concetto trascende ogni immaginazione, e un torrente di amore ineffabile e senza confini, che assommerà infinitamente tutti gli amori e farà vivere lo spirito della stessa vita di Dio, è il Paradiso. Abbondanti sono le descrizioni che l'Alighieri in questa parte del suo Poema ci dà del riso, nel senso di gaudio che farà l'anima beata; e notevolissimi per sopraffina osservazione psicologica sono gli effetti e le cause insieme, che nota, di tal gaudio: cioè il concentrarsi dell'anima dentro di sè, e l'espandersi fuori per la piena della vita che l'inonda. Già aveva detto nel *Convito*, il riso essere corruscazione dell'anima, che si diletta e con la dilettazione crea un lume apparente di fuori del gaudio interiore; e con altre parole, essere il riso luce interiore di sapienza, che per alcun velamento si manifesta. Anche quaggiù, a dir vero, raggia talvolta nell'anima un lampo di questo riso: ma oltre che raramente, e solo per qualche istante, qui non è nè puo mai essere disgiunto da dolore, e tanto più vivo e forte quanto più l'anima è pura e condizionata alla gioia divina: e però troviamo bensì che Cristo ripetutamente pianse, ma che ridesse non mai, quantunque come Dio fosse eternamente in sè beato. Questo riso dunque ci è riservato in cielo. Ed il Poeta ce lo mostra nello sfavillare che fanno quivi i Beati: cioè uno sfavillare interiormente a sè stessi per raccoglimento, in cui appunto si sentono beati; e tanto più per intensità beati, quanto lo sfavillare è intensivamente maggiore: sfavillare che si diffonde anche fuori, senza che ne trabocchi e se ne perda pure una stilla. E però canta il Poeta:
+Un luogo d'ogni luce muto, dove suonano cupi ululati d'ira e di disperato dolore il quale non avrà più fine, è l'Inferno come lo descrive l'Alighieri: e corrisponde a quella « terram tenebrosam et opertam mortis caligine, terram miseriae et tenebrarum, ubi umbra mortis, et nullus ordo, sed sempiternus horror, inhabitat, » dal cui pensiero sentiva Giobbe atterrirsi (IOB. X). Luce ed amore rischiarano e confortano il suo Purgatorio: ma una luce e un amore che, se danno la rassegnazione e la speranza, non quietano punto lo spirito; anzi così avvivano in esso, come scriveva Santa Caterina da Genova, tal desiderio della luce e dell'amore, in cui consiste la vita eterna di Dio, che dove gli venisse un dubbio di non potervi giungere, in quel punto stesso avrebbe l'inferno compito (*Trat. del Purg*. cap. VI). Luce purissima ed infinita, il cui concetto trascende ogni immaginazione, e un torrente di amore ineffabile e senza confini, che assommerà infinitamente tutti gli amori e farà vivere lo spirito della stessa vita di Dio, è il Paradiso. Abbondanti sono le descrizioni che l'Alighieri in questa parte del suo Poema ci dà del riso, nel senso di gaudio che farà l'anima beata; e notevolissimi per sopraffina osservazione psicologica sono gli effetti e le cause insieme, che nota, di tal gaudio: cioè il concentrarsi dell'anima dentro di sè, e l'espandersi fuori per la piena della vita che l'inonda. Già aveva detto nel *Convito*, il riso essere corruscazione dell'anima, che si diletta e con la dilettazione crea un lume apparente di fuori del gaudio interiore; e con altre parole, essere il riso luce interiore di sapienza, che per alcun velamento si manifesta. Anche quaggiù, a dir vero, raggia talvolta nell'anima un lampo di questo riso: ma oltre che raramente, e solo per qualche istante, qui non è nè può mai essere disgiunto da dolore, e tanto più vivo e forte quanto più l'anima è pura e condizionata alla gioia divina: e però troviamo bensì che Cristo ripetutamente pianse, ma che ridesse non mai, quantunque come Dio fosse eternamente in sè beato. Questo riso dunque ci è riservato in cielo. Ed il Poeta ce lo mostra nello sfavillare che fanno quivi i Beati: cioè uno sfavillare interiormente a sè stessi per raccoglimento, in cui appunto si sentono beati; e tanto più per intensità beati, quanto lo sfavillare è intensivamente maggiore: sfavillare che si diffonde anche fuori, senza che ne trabocchi e se ne perda pure una stilla. E però canta il Poeta:
 
 Vita beata, che ti stai nascosta\
 Dentro alla tua letizia, fammi nota\
 La cagion che sì presso mi t'accosta;
 
-imperocchè lo starsi di quell'anima così nascosta in sè stessa, non ne impediva il fiammeggiare, che manifestava il suo essere beato. E già un'altra così raggiante aveva vèduta, alla fine del canto V; la quale poi, per nuova gioia più intima che senti in sè stessa, gli si rese invisibile, così come talvolta il sole per troppa luce ci si nasconde.
+imperocchè lo starsi di quell'anima così nascosta in sè stessa, non ne impediva il fiammeggiare, che manifestava il suo essere beato. E già un'altra così raggiante aveva veduta, alla fine del canto V; la quale poi, per nuova gioia più intima che sentì in sè stessa, gli si rese invisibile, così come talvolta il sole per troppa luce ci si nasconde.
 
 O bene nato, a cui veder li troni\
 Del trionfo eternal concede grazia,\

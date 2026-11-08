@@ -10,7 +10,7 @@ In isto vicesimotertio capitulo, quod incipit: *Dum oculos per frondes*, etc., a
 
 1 Mentre che gl'ochi per le frondi verde (1)\
 &emsp;Ficcavo (2) pur così, come far suole\
-&emsp;Chi dietro agl'ucellin lor (3) vita perde;
+&emsp;Chi dietro agl'ucellin sua (3) vita perde;
 
 1 Dum oculos per frondem viridem\
 &emsp;Figebam ego, sicut facere solet\
@@ -119,7 +119,7 @@ Modo ponitur pena, effectus [peccati] gulosorum. Nam ipsi videntur semimortui fa
 &emsp;Per digiunar quando più n'ebbe tema (1).
 
 9 Non credo quod sic ad pellem extremam\
-&emsp;Crisiton esset factus siccus,\
+&emsp;Erisiton esset factus siccus,\
 &emsp;Propter ieiunium, quando de illo magis timebat.
 
 10 Io dicea fra me stesso pensando: Eccho\
@@ -180,8 +180,8 @@ Quis crederet quod odor unius pomi, sic gubernaret, idest
 &emsp;Volvit ad me oculos una umbra, et respexit me fixe,\
 &emsp;Postea clamavit fortiter: Qualis gratia est ista?
 
-15 Mai non l'havrei riconosciuto 'l viso (2);\
-&emsp;Ma nella faccia sua mi fe' palese\
+15 Mai non l'havrei riconosciuto al viso (2);\
+&emsp;Ma nella voce sua mi fe' palese\
 &emsp;Ciò che l'aspecto in sè havea conquiso.
 
 15 Nunquam recognovissem ipsum ad faciem;\
@@ -218,7 +218,7 @@ Quis crederet quod odor unius pomi, sic gubernaret, idest
 
 19 Facies tua, quam ego fui lacrymatus iam mortuam,\
 &emsp;Michi dat plangendi nunc non minorem dolorem,\
-&emsp;Respondi ego ad eum, videndo ipsam ita tor tam
+&emsp;Respondi ego ad eum, videndo ipsam ita tortam
 
 (1) per la concavità degli ochi — (2) al. riconosciuta in viso — (3) predecta — (4) ralluminò — (5) raffigurai.
 
@@ -256,7 +256,7 @@ Facies tua, quam ego fui lacrymatus iam mortuam, quia auctor flevit quando sepul
 &emsp;Cadit virtus in aquam et in plantam\
 &emsp;Que remansit retro, unde ego me sic subtilio.
 
-22 Tuct'esta gente che piangendo è tanta,\
+22 Tuct'esta gente che piangendo è canta,\
 &emsp;Per seguitar la gola oltre misura,\
 &emsp;In fame e sete qui si rifà santa.
 
@@ -280,7 +280,7 @@ Facies tua, quam ego fui lacrymatus iam mortuam, quia auctor flevit quando sepul
 &emsp;Circumeundo, fit recens nostra pena;\
 &emsp;Ego dico penam, et deberem dicere solatium;
 
-25 Chè quella vogla agl'alberi ci mena,\
+25 Chè quella vogla all'albero ci mena,\
 &emsp;Che menò Chrysto lieto a dir Hely,\
 &emsp;Quando ne liberò co'la sua vena (2).
 
@@ -326,7 +326,7 @@ Et non solum semel istud, idest istum locum, circumeundo, fit recens nostra pena
 
 Quia illa voluntas ad arborem nos ducit, que duxit Christum letum ad dicendum Hely, considerans quod mors sua erat liberatio humani generis.
 
-*Et ego ad eum*. *Et io a lui*: hec est tertia pars huius capituli, in qua auctor movet questionem unam isti spiritui, que talis est. Vix sunt quinque anni, quod tu moriebaris, et tu tardasti penitentiam usque ad mortem, et fuisti negligens penitere te peccatorum tuorum; quare tu deberes esse inferius, ubi poniuntur illi qui tardaverunt penitentiam, et ubi oportet quod restauretur tempus perditum et puniatur. Quomodo, ergo, es tu hic, et quomodo venisti tam cito ad istam purgationem?
+*Et ego ad eum*. *Et io a lui*: hec est tertia pars huius capituli, in qua auctor movet questionem unam isti spiritui, que talis est. Vix sunt quinque anni, quod tu moriebaris, et tu tardasti penitentiam usque ad mortem, et fuisti negligens penitere te peccatorum tuorum; quare tu deberes esse inferius, ubi puniuntur illi qui tardaverunt penitentiam, et ubi oportet quod restauretur tempus perditum et puniatur. Quomodo, ergo, es tu hic, et quomodo venisti tam cito ad istam purgationem?
 
 Et iste respondet, quod orationes et elemosina et bona que operatur uxor sua pro eo, liberaverunt eum de circulis inferioribus, et conduxerunt eum huc. Quia uxor sua erat valde solicita pro eo, et sic vidua, faciens tantum bonum, erat plurimum accepta Deo.
 
@@ -344,7 +344,7 @@ Et ego ad eum: Foresis (nomen proprium), ab illo die. In quo mutasti mundum ad m
 
 30 Co'suoi preghi devoti e co'sospiri\
 &emsp;Tracto m'ha de la costa (2) ove s'aspecta,\
-&emsp;E liberato m'ha di questi (3) giri.
+&emsp;E liberato m'ha degl'altri (3) giri.
 
 30 Cum suis precibus devotis et cum suspiriis\
 &emsp;Traxit me de costa ubi expectatur,\
@@ -358,7 +358,7 @@ Et ego ad eum: Foresis (nomen proprium), ab illo die. In quo mutasti mundum ad m
 &emsp;Viduella mea, quam tantum amavi,\
 &emsp;Quanto in bonum operandum·est magis sola;
 
-32 Chè la Bardaggia di Sardigna assai\
+32 Chè la Barbagia di Sardigna assai\
 &emsp;Ne le femine sue è più pudica,\
 &emsp;Chè la Bardaggia dov' io la lassai.
 
@@ -386,13 +386,13 @@ Et ego ad eum: Foresis (nomen proprium), ab illo die. In quo mutasti mundum ad m
 
 prius fuit posse in te finitum peccandi, priusquam subveniret hora boni doloris, qui Deo nos remaritat, idest reconiungit (quasi dicat, tu fuisti peccator gulosus, et valde vitiosus, nec penituit te vitiorum tuorum, nisi circa horam mortis: ideo miror quomodo tu sis hic ita altus), qualiter ad istam partem venisti tu? Adhuc ego credebam te reperire ibi infra, ubi tempus pro tempore restauratur. Uxor istius vocata fuit Nella: fuit una bona domina, honesta et sobria valde; quod est mirum, ipsam tam fuisse sobriam cum viro tam ebrioso. Certe ex hoc est valde laudanda, et post mortem mariti satis iuverat eum cum orationibus. Vixit semper in viduitate, sobria et virtuosa, continue faciendo bona pro anima viri sui. Hec vidua laudatur hic multum: et ex hoc procedit ad diffamandum mores mulierum florentinarum, que multum inhoneste vadunt indute, portando scolaturas ita magnas, ut appareant mammille et pectora ipsarum; quod est valde inhonestum quid.
 
-Unde ipse ad me: Ita cito me conduxit ad bibendum dulce absintium, idest ad portandum istam dulcem penam, martyriorum, Nella mea (uxor sua, sic vocata) cum suo planctu diructo, idest continuato.
+Unde ipse ad me: Ita cito me conduxit ad bibendum dulce absintium, idest ad portandum istam dulcem penam, martyriorum, Nella mea (uxor sua, sic vocata) cum suo planctu dirupto, idest continuato.
 
 Ipse Foresis moriebatur millesimo ducentesimo septuagesimo sexto, et tunc Dantes erat undecim annorum, et fuit socius suus in pueritia, cum quo sepe pueriliter egit, ut patebit infra, et multa puerilia egit.
 
 Cum suis precibus devotis et cum suspiriis traxit [me de costa ubi expectatur, et liberabit me de aliis gyronibus, idest circulis. Tanto est Deo magis cara et magis dilecta vidua mea, quam tantum amavi, quantum in bono operando est magis sola, idest solitaria. Quasi dicens: In Florentia sunt pauce vidue bone et mulieres: quasi dicat auctor Barbagiam, pronomen.
 
-Notandum est quod Sardinia insula fuit habitata per Saracenos et infideles, et Saraceni ibi dominabantur: tamen Ianuenses expugnabant Saracenos, et acquisierunt eamdem Sardiniam, expellentes inde gentem barbaram. In aliqua tamen parte Sardinie, in Barbagia scilicet, remanserunt gentes barbare et impudice; quarum mulieres incedunt inhonestissime, portando pectora discooperta, ostendentes mammillas. Et quia mulieres in Florentia vadunt etiam et incedunt inhoneste, monstrantes etiam pectus et mammillas, auctor vocat et nominat Florentiam Barbagiam, adhuc inhonestiorem quam sit illa Barbagia, que est in Sardinia. Sed auguratur auctor multa mala in futurum ipsis mulieribus florentinis: quia, antequam fiant pili in barbis puerorum infantium qui sunt in cunabulis modo, celo disponente et influente, ipse male stabunt; et quod erunt tristes et ululabunt, plorando propter mala que supervenient; et cito veniret tempus in quo publice in pulpitu e ambone predicabitur contra ipsas inhoneste euntes, et dicetur: Nec Saracene nec barbare mulieres irent ita discooperte et inhoneste propter decipere homines, sicut faciunt Florentine, quibus deberet interdici per curiam spiritualem vel temporalem: quia oportuit quod Florentie fieret edictum per Potestatem et Capitaneum, et per Episcopum, ut non irent ita inhoneste ac incederent. Quia Barbagia Sardinie, satis, idest multo, in mulieribus est plus pudica quam Barbagia (idest Florentia, quam Barbagie nomine vult significare, propter impudicitiam mulierum), ubi ego eam dimisi.
+Notandum est quod Sardinia insula fuit habitata per Saracenos et infideles, et Saraceni ibi dominabantur: tamen Ianuenses expugnabant Saracenos, et acquisierunt eamdem Sardiniam, expellentes inde gentem barbaram. In aliqua tamen parte Sardinie, in Barbagia scilicet, remanserunt gentes barbare et impudice; quarum mulieres incedunt inhonestissime, portando pectora discooperta, ostendentes mammillas. Et quia mulieres in Florentia vadunt etiam et incedunt inhoneste, monstrantes etiam pectus et mammillas, auctor vocat et nominat Florentiam Barbagiam, adhuc inhonestiorem quam sit illa Barbagia, que est in Sardinia. Sed auguratur auctor multa mala in futurum ipsis mulieribus florentinis: quia, antequam fiant pili in barbis puerorum infantium qui sunt in cunabulis modo, celo disponente et influente, ipse male stabunt; et quod erunt tristes et ululabunt, plorando propter mala que supervenient; et cito veniret tempus in quo publice in pulpito et ambone predicabitur contra ipsas inhoneste euntes, et dicetur: Nec Saracene nec barbare mulieres irent ita discooperte et inhoneste propter decipere homines, sicut faciunt Florentine, quibus deberet interdici per curiam spiritualem vel temporalem: quia oportuit quod Florentie fieret edictum per Potestatem et Capitaneum, et per Episcopum, ut non irent ita inhoneste ac incederent. Quia Barbagia Sardinie, satis, idest multo, in mulieribus est plus pudica quam Barbagia (idest Florentia, quam Barbagie nomine vult significare, propter impudicitiam mulierum), ubi ego eam dimisi.
 
 O dulcis frater, quid vis tu quod ego dicam? tempus futurum michi est in conspectu, cui non erit ista hora multum antiqua, idest non multum distabit, non erit longinqua, in quo, scilicet tempore, erit in pulpito interdictum
 
@@ -477,7 +477,7 @@ De illa vita, scilicet vitiosa, me volvit, idest extraxit, iste qui vadit ante m
 <!-- p. 695 (0749) -->
 
 42 Indi m'han tracto su li suoi conforti,\
-&emsp;Salendo e riguardando la montagna (1),\
+&emsp;Salendo e rigirando la montagna (1),\
 &emsp;Che drizza voi che 'l (2) mondo fece torti.
 
 42 Inde me traxerunt sue persuasiones,\
@@ -514,13 +514,13 @@ Virgilius est iste, qui michi sic dicit. Et digito eum ostendi. Et illa alia est
 
 # La pietà verso gli estinti, specialmente nella vera donna cristiana
 
-Due cose specialmente ci hanno sempre fermato in questo canto: la pietà, con cui Dante ci fa sapere di aver pianto l'amico suo Forese quando fu morto, e che ora sente non meno viva verso di lui; e la cara figura di Nella, cosi buona, così pietosa, e così fedele all'amore del suo sposo diletto pur dopo di averlo perduto, che non solamente non ne smesse mai l'amoroso pensiero, ma con preghiere continue e caldi sospiri lo ha avvicinato al cielo. Il Poeta, avvenutosi nell'amico suo, tutto contraffatto dalle pene che soffriva, e da lui pregato che non lo abborrisse per quella contraffazione, tutto commosso gli risponde:
+Due cose specialmente ci hanno sempre fermato in questo canto: la pietà, con cui Dante ci fa sapere di aver pianto l'amico suo Forese quando fu morto, e che ora sente non meno viva verso di lui; e la cara figura di Nella, così buona, così pietosa, e così fedele all'amore del suo sposo diletto pur dopo di averlo perduto, che non solamente non ne smesse mai l'amoroso pensiero, ma con preghiere continue e caldi sospiri lo ha avvicinato al cielo. Il Poeta, avvenutosi nell'amico suo, tutto contraffatto dalle pene che soffriva, e da lui pregato che non lo abborrisse per quella contraffazione, tutto commosso gli risponde:
 
 La faccia tua, ch'io lagrimai già morta, Mi dà di pianger mo non minor doglia.
 
-Ecco pe' credenti la perennità degli affetti, che, cominciando su questa terra, non si rompono per la morte, nè se ne arresta la vicendevole communicazione, anzi in quella separazione momentanea si rafforzano maggiormente: negli uni per la fede e la pietà che a'già dipartiti li fa compassionevoli; in questi per il puro amore, come lo chiama Caterina da Genova, di cui già divampano nel Purgatorio, rapidamente avanzando verso il bene sommo, dove sta il compimento della nostra vita, e dove pertanto un dì tutti ci raggiungeremo in un amplesso ineffabile, fatti, spirito e corpo, una immensa società celeste. Cara dottrina, per la quale quelli che già son di là, ricevono il suffragio del nostro amore, e se ne allevia e accorcia la prova, e che a noi che tuttavia restiamo, è d'immenso conforto per le benedizioni che ci attira e la sicurezza che ci da di rivederci tutti nel cielo.
+Ecco pe' credenti la perennità degli affetti, che, cominciando su questa terra, non si rompono per la morte, nè se ne arresta la vicendevole communicazione, anzi in quella separazione momentanea si rafforzano maggiormente: negli uni per la fede e la pietà che a'già dipartiti li fa compassionevoli; in questi per il puro amore, come lo chiama Caterina da Genova, di cui già divampano nel Purgatorio, rapidamente avanzando verso il bene sommo, dove sta il compimento della nostra vita, e dove pertanto un dì tutti ci raggiungeremo in un amplesso ineffabile, fatti, spirito e corpo, una immensa società celeste. Cara dottrina, per la quale quelli che già son di là, ricevono il suffragio del nostro amore, e se ne allevia e accorcia la prova, e che a noi che tuttavia restiamo, è d'immenso conforto per le benedizioni che ci attira e la sicurezza che ci dà di rivederci tutti nel cielo.
 
-La Nella poi, a Dio si cara e si diletta, per aver Con suoi prieghi devoti e con sospiri fatto salire in alto il caro suo sposo dalla costa, dove senza i suffragi di lei sarebbe tuttavia rimasto ad aspettare lungamente; questa figura ci dà il tipo dell'antica donna veramente cristiana, e come vogliam credere che a'dì del Poeta fosse ancora la più parte delle fiorentine, benchè egli così aspramente flagelli certi liberi costumi, che pur troppo in qualcune di esse par fossero arrivati ad oltraggiare la pubblica cristiana modestia. Argomento questo, della donna di Firenze, e più propriamente della donna de'primi secoli di quel Comune, trattato con nobile sapienza e pieno conoscimento de'particolari storici che vi si riferiscono, dall'illustre Professore e nostro caro amico, Isidoro Del Lungo (*La donna fiorentina nei primi secoli del Comune*, Firenze 1887), e su cui gitta pur bella luce quel libro prezioso, che sono *Le lettere di una gentildonna fiorentina del secolo XV a' suoi figliuoli*, pubblicate (Firenze, Sansoni, 1877) dall'altro amico nostro, Cesare Guasti, di cui l'Italia non ha tuttavia cessato di pianger la perdita dolorosissima. Ritornando alla Nella, oltre che la tenera sua pietà verso il diletto compagno estinto, ne' preghi devoti e ne' sospiri coi quali ne affrettò la salita al cielo, noi ammirammo sempre, ed anche più specialmente, il proposito che ella tenne di rimanersi nella sua viduità, benchè tuttavia fiorente di vita: «Satis iuvenis retinuit viduitatem, faciendo multa bona pro anima mariti. » Imperocchè fu segno, questo, di un amore pieno, nobile e cristianamente intero come quello delle eroine de'tre primi secoli del Cristianesimo, e che ci fa sovvenire delle memorabili parole, che Tertulliano indirizzava ad una vedova del suo tempo, lasciatasi tentare di un secondo sposo, accennando appunto allo stato in cui il primo per avventura si trovava nel Purgatorio.
+La Nella poi, a Dio sì cara e sì diletta, per aver Con suoi prieghi devoti e con sospiri fatto salire in alto il caro suo sposo dalla costa, dove senza i suffragi di lei sarebbe tuttavia rimasto ad aspettare lungamente; questa figura ci dà il tipo dell'antica donna veramente cristiana, e come vogliam credere che a'dì del Poeta fosse ancora la più parte delle fiorentine, benchè egli così aspramente flagelli certi liberi costumi, che pur troppo in qualcune di esse par fossero arrivati ad oltraggiare la pubblica cristiana modestia. Argomento questo, della donna di Firenze, e più propriamente della donna de'primi secoli di quel Comune, trattato con nobile sapienza e pieno conoscimento de'particolari storici che vi si riferiscono, dall'illustre Professore e nostro caro amico, Isidoro Del Lungo (*La donna fiorentina nei primi secoli del Comune*, Firenze 1887), e su cui gitta pur bella luce quel libro prezioso, che sono *Le lettere di una gentildonna fiorentina del secolo XV a' suoi figliuoli*, pubblicate (Firenze, Sansoni, 1877) dall'altro amico nostro, Cesare Guasti, di cui l'Italia non ha tuttavia cessato di pianger la perdita dolorosissima. Ritornando alla Nella, oltre che la tenera sua pietà verso il diletto compagno estinto, ne' preghi devoti e ne' sospiri coi quali ne affrettò la salita al cielo, noi ammirammo sempre, ed anche più specialmente, il proposito che ella tenne di rimanersi nella sua viduità, benchè tuttavia fiorente di vita: «Satis iuvenis retinuit viduitatem, faciendo multa bona pro anima mariti. » Imperocchè fu segno, questo, di un amore pieno, nobile e cristianamente intero come quello delle eroine de'tre primi secoli del Cristianesimo, e che ci fa sovvenire delle memorabili parole, che Tertulliano indirizzava ad una vedova del suo tempo, lasciatasi tentare di un secondo sposo, accennando appunto allo stato in cui il primo per avventura si trovava nel Purgatorio.
 
 «Dimmi, sorella mia (egli le scriveva): eri tu in pace col tuo sposo, o in discordia, quand'egli lasciò questa vita? Se in discordia, tu se'in debito di reintegrarlo ora più che mai nel tuo amore, compensandolo dell'amarezze che per te sostenne, e pensando che comune hai con lui la causa davanti al tribunale divino. Se poi, quando egli trapassò, eri con lui in pace, allora tu se'tenuta a mantenergli l'affetto che gli portavi, e di cui da esso sei ora più che mai corrisposta, e nessun altro pensiero deve occuparti da quello infuora di pregar per lui e chiedere alla divina bontà ch'egli sia in un luogo di refrigerio e di conforto, ed abbia parte alla prima risurrezione, cioè sia certo, soddisfatto che avrà la giustizia offesa, di essere ammesso alla gloria. E bada bene, che comportandoti altrimenti, tutti ti terrebbero in conto di donna che ripudiò il compagno della sua vita, e tanto più ingiustamente e indegnamente, in quanto che non meritò egli sì crudele abbandono! » (*Lib. De monogam*. cap. X).
 

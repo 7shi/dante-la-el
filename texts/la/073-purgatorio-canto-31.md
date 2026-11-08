@@ -270,7 +270,7 @@ Semper, ad hoc ut minorem verecundiam portes de tuo errore, et ad hoc ut alia vi
 
 Nunquam tibi presentavit natura vel ars (entia naturalia) complacentiam, scilicet tantam, quantum pulchra mea membra, scilicet libri, in quibus ego reclusa fui, per Spiritum Sanctum supple, et que sunt in terram sparsa. Dictum est quod sunt libri et veritates ipsius Sacre Theologie. Theologia moritur [per] ignorantes, vulneratur per hereticos. Per Pargolectam hic posset intelligi Poesis, que docetur in iuvenili etate, vel alia vanitas que durat brevi usu. Et si summa complacentia, idest pulchritudo mea ultra quam nihil cogitabas, sic te fefellit propter meam mortem, qualis res mortalis, idest transitoria, debebat te postea trahere in suum desiderium?
 
-Bene te debebas, propter primam sagiptam rerum fallarium, levare sursum retro et sequi me, supple, quia non eram plus talis, idest mortalis.
+Bene te debebas, propter primam sagiptam rerum fallacium, levare sursum retro et sequi me, supple, quia non eram plus talis, idest mortalis.
 
 Non debebant te gravare penne infra ad expectandum plures ictus, sive Pargolecta idest esset, sive aliqua vanitas, sicut sunt res corruptibiles cum brevi usu.
 
@@ -313,7 +313,7 @@ Quales pueri verecundi et muti, cum oculis ad terram stantes, auscultando et se 
 &emsp;Que est solum una persona in duabus naturis.
 
 28 Socto suo velo, et oltre la riviera,\
-&emsp;Vincer pariemi, sè stessa l'antica\
+&emsp;Vincer pariemi, più sè stessa antica\
 &emsp;Vincer, che l'altre qui quando la c'era.
 
 28 Sub suo velo, et ultra ripariam,\
@@ -326,7 +326,7 @@ Modo ponitur una comparatio, qua ostenditur quanta fuit verecundia, que fuit in 
 
 Cum minori resistentia eradicatur, idest carpitur, robustus cerr[us], sive robusta quercus, arbor sic dicta, sive a nostro vento, scilicet boreali, qui venit ad nos ex parte nostra, sive ab illo, idest austro, idest meridionali, de terra Iarbe (quia partibus meridionalibus in Barbaria regnavit Iarbas, Getulus, idest de Getulia), quam ego levaverim ad suum preceptum mentum, idest barbam: et quando pro barba visum quesivit, idest quando dixit eleva barbam, ipsa petiit visum, idest dixit, eleva visum, idest faciem, bene cognovi venenum argumenti, idest venenosam argumentationem, idest percepi, quod volebat arguere fortiter.
 
-Et statim quod mea facies se extendit. *Et como la mia faccia se distese*: hec est tertia pars huius capituli, in qua ostenditur quomodo auctor fuit lotus et oblatus illis dominabus, et eis assignatus. Dicitur igitur quod quando auctor levavit faciem, sicut illa preceperat, subito illi angeli quieverunt, idest non plus cantaverunt, nec proiecerunt amplius lilia nec flores; et tunc oculi auctoris viderunt Beatricem totam conversam et revolutam ad feram biformem, scilicet ad grifonem, in qua ex duabus naturis consistit una persona. Tunc mirabiliter Beatrix apparuit pulchra isti auctori. Vult dicere auctor, quod dum Beatrix vixit, ipsa in pulchritudine excedebat omnes alias mulieres; et quanto ipsa, vivendo, excessit alias mulieres, tanto tunc excedit se ipsam in pulchritudine dum erat vivens in mundo; ita quod modo longeest pulchrior, quam erat quando erat viva in Florentia. Figuraliter Theologia est pulchrior quando tractat de divinitate et de rebus immortalibus, sempiternis et incorruptibilibus, quam quando tractat de corruptibilibus et terrenis atque caducis. Tunc Dantes talia videns, habuit magnum dolorem; et penituit eum quod deviaverat, et omnem rem caducam, quam plus dilexerat, magis odivit; et sic, se recognoscendo, cecidit quasi sincopizans; et qualis devenit tunc, illa novit que sic voluit fieri. Et statim quod mea facies se extendit, idest elevavit se, [quod] quieverunt ille prime creature, idest angeli qui fuerunt primo facti in primo instanti creationis mundi (*quieverunt*: idest cessaverunt ab aspersione liliorum et florum), de eorum aspersione, oculus, scilicet meus, bene comprehendit.
+Et statim quod mea facies se extendit. *Et como la mia faccia se distese*: hec est tertia pars huius capituli, in qua ostenditur quomodo auctor fuit lotus et oblatus illis dominabus, et eis assignatus. Dicitur igitur quod quando auctor levavit faciem, sicut illa preceperat, subito illi angeli quieverunt, idest non plus cantaverunt, nec proiecerunt amplius lilia nec flores; et tunc oculi auctoris viderunt Beatricem totam conversam et revolutam ad feram biformem, scilicet ad grifonem, in qua ex duabus naturis consistit una persona. Tunc mirabiliter Beatrix apparuit pulchra isti auctori. Vult dicere auctor, quod dum Beatrix vixit, ipsa in pulchritudine excedebat omnes alias mulieres; et quanto ipsa, vivendo, excessit alias mulieres, tanto tunc excedit se ipsam in pulchritudine dum erat vivens in mundo; ita quod longe est pulchrior, quam erat quando erat viva in Florentia. Figuraliter Theologia est pulchrior quando tractat de divinitate et de rebus immortalibus, sempiternis et incorruptibilibus, quam quando tractat de corruptibilibus et terrenis atque caducis. Tunc Dantes talia videns, habuit magnum dolorem; et penituit eum quod deviaverat, et omnem rem caducam, quam plus dilexerat, magis odivit; et sic, se recognoscendo, cecidit quasi sincopizans; et qualis devenit tunc, illa novit que sic voluit fieri. Et statim quod mea facies se extendit, idest elevavit se, [quod] quieverunt ille prime creature, idest angeli qui fuerunt primo facti in primo instanti creationis mundi (*quieverunt*: idest cessaverunt ab aspersione liliorum et florum), de eorum aspersione, oculus, scilicet meus, bene comprehendit.
 
 Et oculi mei, adhuc parum securi, quia adhuc recordabantur, viderunt Beatricem volutam super fera, idest grifone, que, scilicet fera, est sola una persona in duabus naturis, idest Christus, qui est in divinis una sola persona in divina natura et etiam humana, cum sit verus Deus homoque verus.
 
@@ -379,7 +379,7 @@ Sub suo velo et ultra ripariam vincere apparebat, idest videbatur michi, plus se
 &emsp;Ove (3) convenne ch'io l'acqua inghiottissi.
 
 34 Pulchra domina in brachiis se aperuit,\
-&emsp;Amplexata est michi caput, et [de] me subrisit,\
+&emsp;Amplexata est michi caput, et [de] me submersit,\
 &emsp;Unde convenit quod aquam inglutirem.
 
 35 Indi mi tolse, e bagnato m'offerse\
@@ -473,7 +473,7 @@ Nos sumus hic, scilicet in Ecclesia militanti, nymphe, idest vagantes, sive pere
 &emsp;Qui, satiando de se, sitibundos reddit;
 
 44 Sè dimostrando del più alto tribo\
-&emsp;Negl'altri, gl'altri tre si fero avanti,\
+&emsp;Negl'atti, l'altre tre si fero avanti,\
 &emsp;Danzando a lor angelico choribo.
 
 44 Se demonstrando de altiori tribu\
@@ -550,7 +550,7 @@ Postquam vidit secundam pulchritudinem Beatricis, prorupit in exclamationem, ass
 
 Tre confessioni pone l'Alighieri nella sua Cantica immortale (non diciamo della parola *confessarsi*, che adopera nel canto XXIV del Paradiso, perchè là quel verbo è usato nel senso di *professione*) una nell'Inferno, dove l'anima è costretta ad aprire i tenebrosi suoi recessi a Minosse, perchè giudichi a qual pena deve esser quivi condannata; la seconda nel Purgatorio, ed è condizione ad entrare nelle pene espiatrici, per le quali l'anima, trapassata in grazia, deve purificarsi a rendersi degna del cielo; la terza alla fine dell'espiazione nel terrestre Paradiso, ed è lume che apre all'anima la visione dell'ordine eterno, in cui sarà eternamente beata.
 
-Questo tanto instare che fa il Poeta sul concetto della confessione, mostra che egli aveva veduto in essa uno de' più profondi misteri, da cui esce una luce maravigliosa a rivelazione dell'ordine divino di creazione, di redenzione e di gloria. A intendere la qual cosa, vuolsi notare il contrasto che porgono queste tre diverse confessioni. Dinanzi a Minosse, l'anima, costretta a confessare tutti i suoi misfatti, trema più per timor della pena a cui sarà destinata, che non per il rossore e il rimorso, che pur saranno il terribile verme da cui verrà rosa eternamente. Entrando in Purgatorio la confessione non le riesce grave, perchè da una parte essa è in grazia, e non potrà più perderla, e dall'altra per qualche ruggine che ha tuttavia in sè del peccato e per essere ancora nella vista subiettiva di sè stessa, non vede ancora tutta l'enormità che questo in sè contiene: invece sulla cima della montagna di Purgazione, entrando nel terrestre Paradiso, che è l'atrio del cielo, in quell'antelucano chiarore della visione beatifica, fatta capace di vedere ed intendere cio che la colpa importa nell'ordine eterno di Dio, quivi acquista tal sentimento della integrezza e purezza della virtù, che se da ogni pur minimissimo neo di colpa non fosse purificata, a tal vista, come ha santa Caterina da Genova, s'abisserebbe in mille altri purgatorii, anzi in mille inferni, confessando eternamente la sua enormità, piuttosto che accostarsi al sommo bene, a cui ardentemente sospira.
+Questo tanto instare che fa il Poeta sul concetto della confessione, mostra che egli aveva veduto in essa uno de' più profondi misteri, da cui esce una luce maravigliosa a rivelazione dell'ordine divino di creazione, di redenzione e di gloria. A intendere la qual cosa, vuolsi notare il contrasto che porgono queste tre diverse confessioni. Dinanzi a Minosse, l'anima, costretta a confessare tutti i suoi misfatti, trema più per timor della pena a cui sarà destinata, che non per il rossore e il rimorso, che pur saranno il terribile verme da cui verrà rosa eternamente. Entrando in Purgatorio la confessione non le riesce grave, perchè da una parte essa è in grazia, e non potrà più perderla, e dall'altra per qualche ruggine che ha tuttavia in sè del peccato e per essere ancora nella vista subiettiva di sè stessa, non vede ancora tutta l'enormità che questo in sè contiene: invece sulla cima della montagna di Purgazione, entrando nel terrestre Paradiso, che è l'atrio del cielo, in quell'antelucano chiarore della visione beatifica, fatta capace di vedere ed intendere ciò che la colpa importa nell'ordine eterno di Dio, quivi acquista tal sentimento della integrezza e purezza della virtù, che se da ogni pur minimissimo neo di colpa non fosse purificata, a tal vista, come ha santa Caterina da Genova, s'abisserebbe in mille altri purgatorii, anzi in mille inferni, confessando eternamente la sua enormità, piuttosto che accostarsi al sommo bene, a cui ardentemente sospira.
 
 Le terzine che esprimono questa dottrina, sono così belle che non possiamo non ripeterle. È Beatrice che parla a Dante.
 

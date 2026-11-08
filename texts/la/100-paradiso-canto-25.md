@@ -58,7 +58,7 @@ auctor introducit unum alium spiritum, qui debet examinare ipsum auctorem de ter
 &emsp;Di quella spera, ond'uscì la primitia\
 &emsp;Che lasciò Chrysto ne' vicari suoi.
 
-5 Inde movit se vivum lumen versus nos\
+5 Inde movit se unum lumen versus nos\
 &emsp;De illa spera, unde exivit primitia\
 &emsp;Quam dimisit Christus de vicariis suis.
 
@@ -114,7 +114,7 @@ auctor introducit unum alium spiritum, qui debet examinare ipsum auctorem de ter
 
 anima que est celestis, et corpus quod est terrestre; et in hoc opere animam auctoris et corpus et omnes vires suas auctor posuit, cum anima speculando, cum corpore scribendo, quamvis in hac vita unus labor non sit sine alio), ita quod me fecit per multos annos macrum (Dantes erat macer a natura, et propter labores et vigilias adhuc effectus est magis macer), vincat crudelitatem que extra me claudit (ecce quod iniuste detinebatur foris exul) de pulchro ovili, scilicet de Florentia, ubi ego dormivi agnus, inimicus lupis qui ei dant dampnum (idest ubi fui puer et innocens: et quia vocat se agnum, ideo vocat Florentiam ovile. *Inimicus lupis*, idest illis qui tenent civitatem in divisione. Dicit aliquos Florentinos lupos, propter avaritiam eorum, quam figuravit per lupam in primo capitulo Inferni), cum alia voce, idest, cum alio vellere, redibo poeta (quia quando recessit de Florentia erat iuvenculus, et tunc habebat vocem, balatum idest, veluti agnus et parvus puer; sed modo redibit cum alia voce, idest eloquentia, et cum alio vellere, quia redibit corpore canus et mente, quia sapiens et maturus), et super fonte mei baptismatis apprehendam cappellum (idest coronam lauream, sicut coronantur poete: nunc ponit quare habet istam spem); eo quia per Fidem, que facit manifestas animas Deo (per Fidem fideles placent Deo) illuc intravi, et postea Petrus, scilicet Sanctus Apostolus, propter ipsam michi gyravit frontem; amplexando eum ter in gyrum, ut dictum est in fine capituli precedentis, laudando que dixerat.
 
-Modo loquitur de spiritu Sancti Iacobi, diceus: Inde movit se unum lumen versus nos, de illa spera unde exivit primitia (scilicet anima Sancti Petri, qui fuit primus princeps Ecclesie), quam Christus fundavit, quam dimisit Christus de vicariis suis.
+Modo loquitur de spiritu Sancti Iacobi, dicens: Inde movit se unum lumen versus nos, de illa spera unde exivit primitia (scilicet anima Sancti Petri, qui fuit primus princeps Ecclesie), quam Christus fundavit, quam dimisit Christus de vicariis suis.
 
 Et mea domina, scilicet Beatrix, plena letitia, michi dixit: Respice, inspice, ecce Baro, propter quem inferius visitatur Gallitia. Iste baro est Sanctus Iacobus, ad cuius ecclesiam (in qua corpus eius requiescit, quam ecclesiam fecit fieri Karolus Magnus, ad quam visitandam, vadunt multi peregrini, etc.; que ecclesia est in ultimis partibus occidentalibus Christianorum et in regno Hyspanie), [vadunt peregrinantes].
 
@@ -155,7 +155,7 @@ Sed postquam gratulari fuit solutum, idest finitum, taciti coram me quilibet se 
 &emsp;In te et in altrui di ciò conforte;
 
 15 Ita quod, viso vero istius curie,\
-&emsp;Spem, que inferius bene in amore trahit,\
+&emsp;Spem, que inferius bene in amorem trahit,\
 &emsp;In te et in aliis de [hoc] horteris;
 
 16 Di' quel ch'ell'è? (6) e come se ne 'nfiora\
@@ -174,9 +174,9 @@ Sed postquam gratulari fuit solutum, idest finitum, taciti coram me quilibet se 
 &emsp;Mearum alarum ad tam altum volatum,\
 &emsp;Ad responsum sic me prevenit.
 
-(1) al. del — (2) alli Apostoli — (3) e quali piegarono e miei occhi — (4) gravità di lor doctrina — (5) al. spene — (6) die quid est spes — (7) come seguita.
+(1) al. del — (2) alli Apostoli — (3) e quali piegarono e miei occhi — (4) gravità di lor doctrina — (5) al. spene — (6) dic quid est spes — (7) come seguita.
 
-ostendit, quomodo spiritus Sancti Iacobi apostoli, ad instantiam Beatricis, facit triplicem petitionem auctori; et ipsa Beatrix captat benivolentiam laudando et extollendo ipsum Sanctum Iacobum, in quo figuratur Spes. Et quia in sua Epistola canonica largiter loquutus est de Spe, dicens: Omne datum optimum et omne donum perfectum desursum est; ideo dicit textus: Ridendo tunc Beatrix dixit: Inclita vita, scilicet anima, Sancti Iacobi, propter cuius largitatem, idest liberalitatem scripture, de nostra, scilicet Ecclesia Dei triumphante, basilica fuit scriptum, facias resonare Spem, idest facias exprimi bene et sufficienter de Spe in ista altitudine, idest in isto celo: tu scis quot vicibus illam figuras, scilicet in canonica tua Epistola, quot Iesus, tribus, scilicet Apostolis, scilicet Petro, Iacobo scilicet et Ioanni Evangeliste, fecit maiorem caritatem. Omni vice qua legitur in Evangelio, quod Iesus in aliquo actu excellenti erat, semper vocabat istos tres apostolos prescriptos ad omnia secretiora, sicut patet in monte Tabor in transfiguratione, in oratione in orto, quando fuit captus, ut Petrus fieret habile fundamentum Ecclesie propter Fidem, Iacobus propter Spem, Ioannes propter Caritatem.
+ostendit, quomodo spiritus Sancti Iacobi apostoli, ad instantiam Beatricis, facit triplicem petitionem auctori; et ipsa Beatrix captat benivolentiam laudando et extollendo ipsum Sanctum Iacobum, in quo figuratur Spes. Et quia in sua Epistola canonica largiter loquutus est de Spe, dicens: Omne datum optimum et omne donum perfectum desursum est; ideo dicit textus: Ridendo tunc Beatrix dixit: Inclita vita, scilicet anima, Sancti Iacobi, propter cuius largitatem, idest liberalitatem scripture, de nostra, scilicet Ecclesia Dei triumphante, basilica fuit scriptum, facias resonare Spem, idest facias exprimi bene et sufficienter de Spe in ista altitudine, idest in isto celo: tu scis quot vicibus illam figuras, scilicet in canonica tua Epistola, quot Iesus, tribus, scilicet Apostolis, scilicet Petro, Iacobo scilicet et Ioanni Evangeliste, fecit maiorem claritatem. Omni vice qua legitur in Evangelio, quod Iesus in aliquo actu excellenti erat, semper vocabat istos tres apostolos prescriptos ad omnia secretiora, sicut patet in monte Tabor in transfiguratione, in oratione in orto, quando fuit captus, ut Petrus fieret habile fundamentum Ecclesie propter Fidem, Iacobus propter Spem, Ioannes propter Caritatem.
 
 Unde Sanctus Iacobus, sic rogatus a Beatrice, dixit Danti: Leva caput (idest oculos intellectuales, et contemplare bene), et fac quod te secures, idest quod sis securus, idest depone omnem metum; quia quidquid venit huc de mortali mundo, convenit, idest oportet, quod ad nostros radios maturetur, idest oportet quod conformetur gratie nostre, idest quod capiat fidem et spem loquendi nobiscum, in caritate nostra, que satisfacit omnibus iustis petitionibus.
 
@@ -259,7 +259,7 @@ Sicut discens, idest discipulus, qui doctorem sequitur, promptus et libens, in e
 <!-- p. 1114 (1168) -->
 
 25 Sperent in te, nella sua Theodia\
-&emsp;Dice a color che sanno el nome suo:\
+&emsp;Dice a color che sanno el nome tuo:\
 &emsp;E chi nol sa, s'elli ha fede mia?
 
 25 Sperent in te, in sua Theodia\
@@ -272,7 +272,7 @@ Sicut discens, idest discipulus, qui doctorem sequitur, promptus et libens, in e
 
 26 Tu in me stillasti cum stillatione tua\
 &emsp;In epistolam postmodum, ita quod ego sum plenus,\
-&emsp;[Et] in aliis vestram pluviam repluo.
+&emsp;[Et] in alios vestram pluviam repluo.
 
 27 Mentr' io dicea, dentr'al vivo seno\
 &emsp;Di quello incendio tremolava un lampo\
@@ -280,7 +280,7 @@ Sicut discens, idest discipulus, qui doctorem sequitur, promptus et libens, in e
 
 27 Interim quod ego dicebam, intra vivum sinum\
 &emsp;Illius incendii tremulabat unus lampor\
-&emsp;Subitus et depressus, ad instar lampi.
+&emsp;Subitus et densus, ad instar lampi.
 
 28 Indi spirò: L'amor ond'io avvampo\
 &emsp;Ancor nella virtù, che mi seguette\
@@ -382,9 +382,9 @@ Et prius, et prope finem illorum verborum, Sperent in te supra nos fuit auditum;
 
 *Postmodum inter ipsas*. *Poscia tra esse*: hec est quarta pars huius capituli, in qua auctor introducit alium spiritum, qui debet examinare ipsum auctorem de tertia virtute theologica, scilicet de Caritate, qui est spiritus Sancti Ioannis Evangeliste, qui scripsit Apocalypsim. Postmodum inter ipsas, scilicet duas animas sanctorum Petri et Iacobi, unum lumen claruit, scilicet spiritus Sancti Ioannis Evangeliste, ita quod si Cancer haberet unum talem cristallum, yems haberet unum mensem unius solius diei. Hic multi dixerunt multa vana, et etiam littera est fortis. Sed dimissis, idest omnibus aliis vanis dictis obmissis, notandum est, quod ille spiritus tertius erat lucidus et splendidus sicut sol, habebat formam unius cristalli, et lucebat velut sol. Et si cancer haberet unum talem cristallum, videretur esse unus alius sol in luciditate. Item notandum, quod [si] in quocumque signo, duodecim illorum que sunt in zodiaco, esset sol, scilicet in alio signo illi opposito esset alius sol, tunc per totum illud tempus, quo sol esset in illo signo, unus esset dies per totum illum mensem: quia quando sol occideret existens in illo signo, alius sol oriretur qui esset in alio signo sibi opposito; et sic sol semper esset super terram, et sic esset semper dies. Ponatur exemplum, quod dicit hic auctor. Ponatur quod unus alius sol sit in Cancro signo, quando iste sol, qui est in celo, nunc est in signo Capricornii, quod signum Capricornii est signum oppositum signo Cancri: tunc, occidente sole qui esset in signo Capricornii, oriretur ille sol qui esset in signo Cancri, opposito Capricornio; et sic per totum mensem decembris esset unus dies, quia esset sol supra terram: quia quando sol qui esset in Capricorno esset sub terra, ille qui esset in Cancro esset supra terram, et e converso; et ita accideret de quibuscumque aliis signis ad invicem oppositis. Dixit hic auctor de signo Cancri, quia videretur apud grossos maximum inconveniens, quod esset unus dies sine aliqua nocte in yeme, et plusquam in estate. Vocat hic etiam auctor mensem decembris, in quo sol est in signo Capricornii, yeme[m], quia tunc sol maxime distat a nobis, et sic tunc tempus est frigidius quam in aliis mensibus, et quia tunc est solstitium yemale, etc. Nihil aliud vult hic dicere auctor, nisi quod Spiritus Sancti Ioannis Evangeliste erat lucidus, sicut est sol.
 
-Modo per unam comparationem auctor vult describere adventum istius spiritus Sancti Ioannis. Idest, sicut honeste, modeste, invitata virgo ad nuptias, intrat in tripudium, sive in coream, ad honorandum novitiam (Ytalici vocant sponsam mulierem, quando vadit ad virum suum, novitiam, *noritia*); ita supple Spiritus Sancti Ioannis intravit inter istas duas animas, scilicet Sanctorum Petri et Iacobi. Et sicut surgit, quando sedit diu, et vadit et intrat tripudium virgo leta, solum propter facere honorem novitie, idest sponse, non pro aliquo fallo, idest defectu; sic vidi ego clarificatum splendorem, scilicet Spiritum Sancti Ioannis, venire ad duos, scilicet spiritus Sanctorum Petri et Iacobi, qui se volvebant ad rotam, qualiter, idest sicut, conveniebat eorum ardenti amori. Ioannes Evangelista semper fuit virgo, ideo Christus in cruce Virginem virgini commendavit. *Ardori*: quasi dicens, velociter moven[tur], quia ardor amoris volvit eos.
+Modo per unam comparationem auctor vult describere adventum istius spiritus Sancti Ioannis. Idest, sicut honeste, modeste, invitata virgo ad nuptias, intrat in tripudium, sive in coream, ad honorandum novitiam (Ytalici vocant sponsam mulierem, quando vadit ad virum suum, novitiam, *novitia*); ita supple Spiritus Sancti Ioannis intravit inter istas duas animas, scilicet Sanctorum Petri et Iacobi. Et sicut surgit, quando sedit diu, et vadit et intrat tripudium virgo leta, solum propter facere honorem novitie, idest sponse, non pro aliquo fallo, idest defectu; sic vidi ego clarificatum splendorem, scilicet Spiritum Sancti Ioannis, venire ad duos, scilicet spiritus Sanctorum Petri et Iacobi, qui se volvebant ad rotam, qualiter, idest sicut, conveniebat eorum ardenti amori. Ioannes Evangelista semper fuit virgo, ideo Christus in cruce Virginem virgini commendavit. *Ardori*: quasi dicens, velociter moven[tur], quia ardor amoris volvit eos.
 
-Volvit se in cantum et in notam: et mea domina tenebat in eos aspectum, ac sicut sponsa tacita [et immota]. Quasi
+Misit se in cantum et in notam: et mea domina tenebat in eos aspectum, ac sicut sponsa tacita [et immota]. Quasi
 
 <!-- p. 1116 (1170) -->
 
@@ -397,7 +397,7 @@ Volvit se in cantum et in notam: et mea domina tenebat in eos aspectum, ac sicut
 &emsp;De Cruce ad grande officium electus.
 
 39 La donna mia così; nè però piue\
-&emsp;Mostrò la vista sua di stare attenta\
+&emsp;Mosse la vista sua di stare attenta\
 &emsp;Pos[ci]a, che prima, a le parole sue.
 
 39 Domina mea [sic]; nec propter hoc plus movit\
@@ -424,7 +424,7 @@ Volvit se in cantum et in notam: et mea domina tenebat in eos aspectum, ac sicut
 &emsp;Tanto cogl'altri, che 'l numero nostro\
 &emsp;Coll'eterno proposito s'agguagli.
 
-42 In terra est meum corpus, et ibi erit\
+42 In terra terra est meum corpus, et ibi erit\
 &emsp;Tantum cum aliis, quod numerus noster\
 &emsp;Cum eterno proposito adequetur.
 
@@ -486,7 +486,7 @@ Modo ostendit auctor, quomodo cum maximo stupore ammiratus fuit et alteratus in 
 
 # Genesi e natura della speranza
 
-Le virtù teologiche, in quant'all'abito che ne è la sostanza, ragione e teologia c'insegnano esser così ordinate e fra sè congiunte, che simultaneamente vengono infuse nell'anima per darle vita. Diciamo, la vita di grazia; il che mostra unica esser la fonte da cui procedono: ma in quant'agli atti, ne'quali le medesime svolgono sè stesse, l'ordine riesce inverso: cioè, precede il meno perfetto, a cui segue il piu perfetto, fino alla Carità, che è perfezione consumata. Prima dunque è la Fede, media la Speranza, come fiore che ne sboccia per dare soavissimo frutto d'amore; e questo frutto è la Carità. A questa virtù della Speranza, come già a quella della Fede, unitamente alla quale, considerata nel principio da cui discende ed in cui va a compiersi, mostra la nobiltà della natura umana, la quale aspira a diventar divina, consacra il Poeta questo canto con tale precisione di concetti e proprietà di traslati, che nella sua parola, come attraverso cristalli che avvicinino l'oggetto lontano, vedi l'altezza maravigliosa e la luce confortatrice di cui risplende la cosa significata.
+Le virtù teologiche, in quant'all'abito che ne è la sostanza, ragione e teologia c'insegnano esser così ordinate e fra sè congiunte, che simultaneamente vengono infuse nell'anima per darle vita. Diciamo, la vita di grazia; il che mostra unica esser la fonte da cui procedono: ma in quant'agli atti, ne'quali le medesime svolgono sè stesse, l'ordine riesce inverso: cioè, precede il meno perfetto, a cui segue il più perfetto, fino alla Carità, che è perfezione consumata. Prima dunque è la Fede, media la Speranza, come fiore che ne sboccia per dare soavissimo frutto d'amore; e questo frutto è la Carità. A questa virtù della Speranza, come già a quella della Fede, unitamente alla quale, considerata nel principio da cui discende ed in cui va a compiersi, mostra la nobiltà della natura umana, la quale aspira a diventar divina, consacra il Poeta questo canto con tale precisione di concetti e proprietà di traslati, che nella sua parola, come attraverso cristalli che avvicinino l'oggetto lontano, vedi l'altezza maravigliosa e la luce confortatrice di cui risplende la cosa significata.
 
 Che cosa è ella cotesta Speranza? Risponde il Poeta:
 
@@ -497,7 +497,7 @@ Da molte stelle mi vien questa luce:
 
 e le numera tutte, dal sommo cantore del Cristo venturo, che fu David ne'suoi Salmi, fino all'Apostolo dell'amore, che nell'ultima cena posò sul petto di lui, e n'ebbe arcane rivelazioni di Paradiso.
 
-Tornando alla genesi di questa carissima virtù, è da richiamare quel che lo stesso Poeta aveva già detto nel canto precedente, cioè, che nella profonda essenza divina sta il principio dei fulgori, onde risplendono in cielo le corone de'Santi e il cui riflesso rischiara il fosco cammino di questa vita; alba di un giorno sempiterno. Ed è il fine che vediamo lassù, fine assoluto, a cui è legata la destinazione nostra, e che quindi c'infonde la speranza di conseguirlo e possederlo, donde quella violenta tensione del cuore che ad esso si distende e non può separarsene: fine che non sarebbe più tale, se di conseguirlo non avessimo la possibilità; nè avremmo quella tensione, col desiderio e la speranza di arrivarvi, se da esso non derivasse. Inutile il dire, che allorquando così il pensiero come l'affetto del cuore saranno arrivati a quel possesso, non vi sarà più speranza. La Speranza dunque è di necessità un pensiero incompiuto, un affetto in germe, che cercano il loro fine, il loro compimento, il loro riposo. Questo pensiero e questo germe di amore stanno nella Fede. Per lo che lo sperare comprende due significati: l'uno, di rendere presente una cosa lontana, cioè specchiarla; l'altro, di stendersi verso essa per arrivarne al possedimento; inchiudendo poi tutti e due i sensi un oggetto, il quale di qualche modo ci è presente, ma non isvellatamente nè posseduto. E qui si noti che un protendimento dell'anima a qualcosa intraveduta in lontano e non posseduta per anco, è qualsiasi speranza: ma poichè qualunque cosa, che si arrivi quaggiù a possedere, non contenta l'indefinita capacita e avidità dello spirito nostro, però nessuna speranza di quaggiù puo quietarci: solo nell'infinito può essa avere una speranza che ne mantenga la vita; e questa Speranza non si ha nè può aversi determinata, piena e certa, che per la Fede, perchè essa sola ci dà la vera rivelazione dell'infinito.
+Tornando alla genesi di questa carissima virtù, è da richiamare quel che lo stesso Poeta aveva già detto nel canto precedente, cioè, che nella profonda essenza divina sta il principio dei fulgori, onde risplendono in cielo le corone de'Santi e il cui riflesso rischiara il fosco cammino di questa vita; alba di un giorno sempiterno. Ed è il fine che vediamo lassù, fine assoluto, a cui è legata la destinazione nostra, e che quindi c'infonde la speranza di conseguirlo e possederlo, donde quella violenta tensione del cuore che ad esso si distende e non può separarsene: fine che non sarebbe più tale, se di conseguirlo non avessimo la possibilità; nè avremmo quella tensione, col desiderio e la speranza di arrivarvi, se da esso non derivasse. Inutile il dire, che allorquando così il pensiero come l'affetto del cuore saranno arrivati a quel possesso, non vi sarà più speranza. La Speranza dunque è di necessità un pensiero incompiuto, un affetto in germe, che cercano il loro fine, il loro compimento, il loro riposo. Questo pensiero e questo germe di amore stanno nella Fede. Per lo che lo sperare comprende due significati: l'uno, di rendere presente una cosa lontana, cioè specchiarla; l'altro, di stendersi verso essa per arrivarne al possedimento; inchiudendo poi tutti e due i sensi un oggetto, il quale di qualche modo ci è presente, ma non isvelatamente nè posseduto. E qui si noti che un protendimento dell'anima a qualcosa intraveduta in lontano e non posseduta per anco, è qualsiasi speranza: ma poichè qualunque cosa, che si arrivi quaggiù a possedere, non contenta l'indefinita capacità e avidità dello spirito nostro, però nessuna speranza di quaggiù può quietarci: solo nell'infinito può essa avere una speranza che ne mantenga la vita; e questa Speranza non si ha nè può aversi determinata, piena e certa, che per la Fede, perchè essa sola ci dà la vera rivelazione dell'infinito.
 
 La sola fede pertanto in Dio sorregge l'umano spirito, innalzandolo al punto a cui è destinato di arrivare; e lo salva dai due eccessi, ne'quali senza di essa cade necessariamente, cioè di presunzione, o di disperazione, di superbo egoismo, o di vile abbattimento, ove non si trova che vuoto e morte. Salva da presunzione, poichè l'altezza medesima del fine che la Fede ci mostra, ci fa vedere e sentire la sproporzione delle forze nostre per raggiungerlo; nè altro che per lacrimevoli aberrazioni potremmo su questo punto sedurre noi stessi. Imperocchè tale presunzione porrebbe Dio tra le cose finite, o si contenterebbe dell'incognito, del nulla. Il medesimo accade della disperazione, la quale sconosce l'infinita bontà di Dio o la sua esistenza. La Fede invece ci rivela i sublimi destini dell'uomo; e con ciò stesso deprime il nostro orgoglio, che a quella luce non può non vedere il suo nulla; e da questo prostrati ci solleva e ci rende eroi, ricordandoci il Padre di cui siamo figliuoli, il fine che ebbe nel crearci, e com'egli sia con noi, soltanto che noi vogliamo; perchè la cooperazione nostra all'azione di lui è necessaria: altrimenti, quale virtù avremmo noi? E ci manifesta ad un tempo un nuovo tesoro delle misericordie divine, inchiuso necessariamente nel concetto di una bontà sovreminente: la quale non pur ci tira al fine, ma chiama e condiziona l'arbitrio a cooperarvi: dacchè l'altissimo fine della moralità, non altrimenti che per via morale, e quindi per associazione di voleri efficaci, possa conseguirsi.
 

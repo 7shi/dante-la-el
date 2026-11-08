@@ -144,7 +144,7 @@ hec est secunda pars capituli huius, in qua ostendit si in voto potest dispensar
 &emsp;Quia cibus rigidus quem sumpsisti,\
 &emsp;Requirit adiutorium ad tuam dispensam.
 
-14 Apre la mente a quel ch'io ti paleso,\
+14 Apri la mente a quel ch'io ti paleso,\
 &emsp;E fermalv' entro; chè non fa scienza,\
 &emsp;Senza lo ritener, havere inteso.
 
@@ -210,7 +210,7 @@ Due res conveniunt essentie istius sacrificii: una est illa, scilicet materia, d
 &emsp;Pro suo arbitrio aliquis, sine volutione\
 &emsp;Et clavis albe et gialle;
 
-20 Et ogni permutanza crede stolta,\
+20 Et ogni permutanza credi stolta,\
 &emsp;Se la cosa dimessa in la sorpresa,\
 &emsp;Come quattro nel sei, non è ricolta.
 
@@ -240,7 +240,7 @@ Iam vult auctor probare per Sacram Scripturam et eius exempla, quod obligatio es
 
 Alia pars voti scilicet, que propter materiam, idest pro materia, tibi est aperta, potest bene esse talis, quod non fallitur, esto quod in aliam materiam commutetur, vel convertatur.
 
-Modo vult dicere, quod nemo debet audere permutare votum, nisi concurrant ista tria, scilicet auctoritas sacerdotis et discretio; secundo, quod res, in quam fit permutatio, sit multo melior et maior et perfectior quam illa, a qua fit permutatio; tertio, quod sit causa legitima, ut infirmitas, senectus et magnum dispendium imminens. Ideo dicit auctor: Sed non permutet onus suo humero, idest materiam voti, de humero ad humerum, de re in rem, pro suo arbitrio, idest ad suum arbitrum, aliquis, sine volutione et clavis albe et gialle, idest fulve, idest argentee et auree, subaudi sine auctoritate Pastoris, habentis potestatem commutandi et scientiam discernendi; et omnem permutationem credas stultam, idest non valere, si res que dimictitur, scilicet commutatur, ad eam, scilicet, que apponitur, sicut quatuor in sex, non sit recollecta, idest contineatur.
+Modo vult dicere, quod nemo debet audere permutare votum, nisi concurrant ista tria, scilicet auctoritas sacerdotis et discretio; secundo, quod res, in quam fit permutatio, sit multo melior et maior et perfectior quam illa, a qua fit permutatio; tertio, quod sit causa legitima, ut infirmitas, senectus et magnum dispendium imminens. Ideo dicit auctor: Sed non permutet onus suo humero, idest materiam voti, de humero ad humerum, de re in rem, pro suo arbitrio, idest ad suum arbitrium, aliquis, sine volutione et clavis albe et gialle, idest fulve, idest argentee et auree, subaudi sine auctoritate Pastoris, habentis potestatem commutandi et scientiam discernendi; et omnem permutationem credas stultam, idest non valere, si res que dimictitur, scilicet commutatur, ad eam, scilicet, que apponitur, sicut quatuor in sex, non sit recollecta, idest contineatur.
 
 Ergo quecumque res tantum ponderat propter suum valorem, idest tanti valoris, quod trahat omnem lancem, idest omnem aliam rem excedat, satisfieri non potest cum alia expensa, idest alia re.
 
@@ -380,11 +380,11 @@ Sic Beatrix, scilicet dixit, ad me, sicut ego vobis scribo; postmodum se convert
 
 Sua taciturnitas et transmutare similitudinem, idest aspectum, quia apparuit lucidior, posuerunt silentium meo cupido ingenio, quod iam novas questiones habebat ante. Hec est proprietas boni ingenii in addiscente: auditis declarationibus aliquorum subtilium dubiorum, subito transcurrit ad meliora meditanda.
 
-*Et sicut sagipta, que in signum*. E si *come saietta*:
+*Et sicut sagipta, que in signum*. E sì *come saietta*:
 
 hec est [quarta pars huius capituli, in qua auctor describit ascensum [suum] et Beatricis in secundam speram, scilicet Mercurii; et vult dicere in effectu, quod velocissime iverunt in aliam speram, ex eo quod inter celum et celum non est dare medium. Nam celi sunt contigui; ideo, quasi in momento, iverunt de luna in Mercurium. Quod declarat per talem comparationem: sepe sagipta, emissa de arcu, percutit signum, antequam corda ex toto quiescat. Et sicut sagipta que in signum percutit priusquam sit corda quieta, sic currimus in secundum regnum; secundum scilicet celum, sive planetam.
 
-Ibi dominam meam vidi ego ita letam, statim quod in limine illius se misit, quod lucidior de ea fuit factus ille planeta. Nota quod planeta non est lucidior una vice quam alia; sed poetice vult dicere, quod planeta fuit lucidior propter illos spiritus, qui se ostenderunt valde lucentes, tam propter Beatricem quam propter auctorem, cui voluerunt loqui.
+Ibi dominam meam vidi ego ita letam, statim quod in lumine illius se misit, quod lucidior de ea fuit factus ille planeta. Nota quod planeta non est lucidior una vice quam alia; sed poetice vult dicere, quod planeta fuit lucidior propter illos spiritus, qui se ostenderunt valde lucentes, tam propter Beatricem quam propter auctorem, cui voluerunt loqui.
 
 Modo vult dicere auctor quod etiam ipse mutatus est et etiam alteratus, idest factus clarior, cum ipse sit natura alterabilis. Planeta vero, licet non recipiat peregrinas impressiones, tamen fuit mutatus. Poetice loquitur. Et si stella ad stellam se permutavit et risit, qualis ego factus fui, qui solum a mea natura transmutabilis sum per omnes partes! Idest multum plus fui transmutatus.
 
@@ -441,7 +441,7 @@ Modo per talem comparationem ostendit, quomodo vidit spiritus multos in isto pla
 &emsp;Secure, et crede sicut Diis.
 
 42 Io veggio ben sì come tu t'annidi\
-&emsp;Nel primo lume, e che dagl'ochi traggi;\
+&emsp;Nel proprio lume, e che dagl'ochi traggi;\
 &emsp;Perchè ei corruscan sì, come tu ridi;
 
 42 Ego video bene sicut tu te annidas\
@@ -525,9 +525,9 @@ Chè, nel fermar tra Dio e l'uomo il patto,\
 Vittima fassi di questo tesoro,\
 Tal, qual io dico, e fassi col suo atto.
 
-Ma qual vittima è questa? A chi non sa levarsi oltre il senso, è vittima stolta e compassionevole; ma non, certo, a giudizio del Poeta, che ne discorre con tanta riverenza, perchè col profondissimo suo intelletto vide ed intese che, come da una legge assoluta, e però sostanzialmente ed essenzialmente distinta dallo spirito, derivasi il maggior dono che Dio per sua larghezza ci fece, cioè la libertà, così il voto, debitamente emesso e giurato, procede da una forza derivante da un principio similmente assoluto, che è la libertà: potenza, che ci rivela nello spirito la luce misteriosa dell'infinito, e ci fa pregustare quella che i pagani chiamarono cognazione divina. E davvero, contemplando questo sublime potere dello spirito umano, avendo vuoto l'animo di preoccupazioni, non possiamo non sentircene rapiti di maraviglia; imperocchè ne intendiamo la regale, anzi divina, nobiltà, che tanto lo avvicina al suo Fattore. Si, certo, in quest'atto, egli si mostra ineffabilmente grande, sia nell'intendere, sia nel volere; vogliam dire, nell'esercizio di queste sue potenze, le quali non conoscono confini e per cui egli può dare una legge a sè medesimo: e ci pare la maggiore offesa che possa concepirsi dell'umana dignità, il volerne impugnare il diritto ed il valore; peggio poi, pretendere che sia una illecita e indegna limitazione del maggior dono che Dio ci ebbe fatto.
+Ma qual vittima è questa? A chi non sa levarsi oltre il senso, è vittima stolta e compassionevole; ma non, certo, a giudizio del Poeta, che ne discorre con tanta riverenza, perchè col profondissimo suo intelletto vide ed intese che, come da una legge assoluta, e però sostanzialmente ed essenzialmente distinta dallo spirito, derivasi il maggior dono che Dio per sua larghezza ci fece, cioè la libertà, così il voto, debitamente emesso e giurato, procede da una forza derivante da un principio similmente assoluto, che è la libertà: potenza, che ci rivela nello spirito la luce misteriosa dell'infinito, e ci fa pregustare quella che i pagani chiamarono cognazione divina. E davvero, contemplando questo sublime potere dello spirito umano, avendo vuoto l'animo di preoccupazioni, non possiamo non sentircene rapiti di maraviglia; imperocchè ne intendiamo la regale, anzi divina, nobiltà, che tanto lo avvicina al suo Fattore. Sì, certo, in quest'atto, egli si mostra ineffabilmente grande, sia nell'intendere, sia nel volere; vogliam dire, nell'esercizio di queste sue potenze, le quali non conoscono confini e per cui egli può dare una legge a sè medesimo: e ci pare la maggiore offesa che possa concepirsi dell'umana dignità, il volerne impugnare il diritto ed il valore; peggio poi, pretendere che sia una illecita e indegna limitazione del maggior dono che Dio ci ebbe fatto.
 
-La promessa, difatti, in generale, è attestazione di libertà; poichè se tutte le azioni nostre fossero necessitate, sarebbe assurdo il promettere, perchè si tratterebbe di cosa sopra e contro il nostro potere. Promettere significa aver coscienza di potere eseguire il promesso, e quindi attesta la libertà del promettente; ed anche ci mostra la singolare caratteristica dello spirito, il quale vive nell'evo, cioè nell'estemporaneo, benchè gli atti suoi guizzino, quasi lampi spessi e successivi, nel tenebroso fluire del tempo. La libertà da un lato, che gli dà il poter di fare e non fare, e l'estemporaneità dall'altro, che ne amplia l'azione al passato per le ricordanze, ed al futuro per le previsioni e le speranze, rende lo spirito capace di un atto complessivo, collegante in unità una serie di atti, a' quali esso è legge, legge morale, e quindi di libertà, di diritti e di doveri. È adunque il voto un atto essenzialmente, anzi supremamente, libero; tanto libero, che ogni circostanza, la quale detragga alla libertà spontaneissima di chi promette e al suo conoscimento, ne scema l'obbligazione, e, in certi limiti, può anche annullarla. Come dunque potrà dirsi impeditivo di libertà un atto, che liberamente stende l'efficacia sua nel futuro stesso, che tutti i suoi atti coordina insieme in possente unita, e li condensa in un atto supremo che ha quasi dell'infinito? Vero è che appunto per l'altezza divina del voto, e l'inviolabilità dell'obbligazione che ne risulta, esso richiede un magistero non privato, ma di autorità divina, che ne regoli l'esercizio, e ne interpreti con savio discernimento la portata e l'estensione. Quindi le savie parole del poeta.
+La promessa, difatti, in generale, è attestazione di libertà; poichè se tutte le azioni nostre fossero necessitate, sarebbe assurdo il promettere, perchè si tratterebbe di cosa sopra e contro il nostro potere. Promettere significa aver coscienza di potere eseguire il promesso, e quindi attesta la libertà del promettente; ed anche ci mostra la singolare caratteristica dello spirito, il quale vive nell'evo, cioè nell'estemporaneo, benchè gli atti suoi guizzino, quasi lampi spessi e successivi, nel tenebroso fluire del tempo. La libertà da un lato, che gli dà il poter di fare e non fare, e l'estemporaneità dall'altro, che ne amplia l'azione al passato per le ricordanze, ed al futuro per le previsioni e le speranze, rende lo spirito capace di un atto complessivo, collegante in unità una serie di atti, a' quali esso è legge, legge morale, e quindi di libertà, di diritti e di doveri. È adunque il voto un atto essenzialmente, anzi supremamente, libero; tanto libero, che ogni circostanza, la quale detragga alla libertà spontaneissima di chi promette e al suo conoscimento, ne scema l'obbligazione, e, in certi limiti, può anche annullarla. Come dunque potrà dirsi impeditivo di libertà un atto, che liberamente stende l'efficacia sua nel futuro stesso, che tutti i suoi atti coordina insieme in possente unità, e li condensa in un atto supremo che ha quasi dell'infinito? Vero è che appunto per l'altezza divina del voto, e l'inviolabilità dell'obbligazione che ne risulta, esso richiede un magistero non privato, ma di autorità divina, che ne regoli l'esercizio, e ne interpreti con savio discernimento la portata e l'estensione. Quindi le savie parole del poeta.
 
 Siate, Cristiani, a muovervi più gravi;\
 Non siate come penna ad ogni vento,\

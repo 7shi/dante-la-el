@@ -123,7 +123,7 @@ Solum Agnus Dei erant ipsorum exordia: unum verbum erat in omnibus (Agnus assimi
 &emsp;Et interroga si hinc itur sursum.
 
 11 Et io (7): O creatura, che ti mondi\
-&emsp;Per tornar bella a colui che mi (8) fece,\
+&emsp;Per tornar bella a colui che ti (8) fece,\
 &emsp;Maravigla udirai se mi secondi (9).
 
 11 Et ego: O creatura, que te mundas\
@@ -138,7 +138,7 @@ Solum Agnus Dei erant ipsorum exordia: unum verbum erat in omnibus (Agnus assimi
 &emsp;Respondit; et si videre fumus non permictit,\
 &emsp;Loquutio tenebit nos coniunctos.
 
-13 Allora incominciai (11): Con quelle fascia (12),\
+13 Allora incominciai (11): Con quella fascia (12),\
 &emsp;Che la morte dissolve men vo' suso,\
 &emsp;E venni qui per infernal ambascia.
 
@@ -372,7 +372,7 @@ Hic est notandum, quod Deus omnes creaturas, antequam producat eas in esse reali
 
 Parvi boni primo sentit saporem, idest rerum sensibilium: ibi decipitur et retro illud, scilicet parvum bonum, currit, si dux vel frenum, idest magister vel doctrina, non torquet, idest corrigit, vel dirigit, suum amorem. Anima pueri, etiam in ventre matris, incipit sentire res sensibiles, et sic in lacte nutritur et statim delectatur in rebus sensibilibus: ita quod prius habet delectationem sensibilium quam spiritualium. Et sic libenter pueri sequuntur sensibilia, et sic deviant a via morum, nec illam ingrediuntur, nisi habeant bonum magistrum, qui eos corrigat et dirigat. Ideo dicitur per sapientes, quod pueri in teneritate sunt erudiendi et corrigendi: Quod nova testa capit, inveterata sapit. Deberent etiam instrui pueri de bona fide; aliter homines crescentes, seu pueri, ingrediuntur vitia et hiis assuescunt. Ideo dicit auctor: Unde convenit, idest oportet vel necesse est, legem pro freno ponere, convenit, idest oportet, regem, idest directorem, habere, qui discerneret, idest discernere doceret, vere civitatis, idest bone moralitatis, sive civilitatis, saltem turrim, idest primordia bonorum suorum, vel benefaciendi.
 
-Leges sunt, sed quis ponit manus ad illas? idest quis observat illas? Nullus; eo quia pastor, qui precedit, ruminari potest, sed non habet ungulas fixas. Hic est notandum, quod in lege Moysi Dominus Deus precepit, ut Levitici quartodecimo capitulo, de quibus quadrupedibus animalibus non liceret populo comedere, nisi talia quadrupedia ruminarent et haberent ungulas fixas. Hic per ruminari intelligitur bene dicere, bene consulere, bene predicare in prelatis: per ungulas fixas habere intelligitur bene operare, bene exemplicare. Modo vult dicere hic Marcus, quod prelati bene possunt ruminari, et bene ruminantur, idest bene predicant et dicunt; sed non bene operantur, nec dant bona exempla populis et suis subditis.
+Leges sunt, sed quis ponit manus ad illas? idest quis observat illas? Nullus; eo quia pastor, qui precedit, ruminari potest, sed non habet ungulas fixas. Hic est notandum, quod in lege Moysi Dominus Deus precepit, ut Levitici quartodecimo capitulo, de quibus quadrupedibus animalibus non liceret populo comedere, nisi talia quadrupedia ruminarent et haberent ungulas fixas. Hic per ruminari intelligitur bene dicere, bene consulere, bene predicare in prelatis: per ungulas fixas habere intelligitur bene operare, bene exemplificare. Modo vult dicere hic Marcus, quod prelati bene possunt ruminari, et bene ruminantur, idest bene predicant et dicunt; sed non bene operantur, nec dant bona exempla populis et suis subditis.
 
 <!-- p. 611 (0665) -->
 
@@ -486,7 +486,7 @@ Super patria, quam Adex et Padus rigant [et] fluendo balneant, solebant valor et
 
 Bene sunt ibi tres antiqui, in quibus viget antiqua etas et nova, et videtur eis tarde quod Deus in meliori vita, idest in Paradiso, vel in meliori modo vivendi in presenti vita, et magis morali, illos reponat. Illi sunt tres infrascripti: scilicet Conradus de Palatio et bonus Gherardus et Guido de Castello, qui melius nominatur gallice, adverbialiter sumitur hic) simplex Lombardus.
 
-Nota quod isti tres fuerunt valde boni viri. Couradus de Palatio fuit de Brixia, civitate Lombardie, virtuosus homo et maxime pro republica. Nam dum esset in bello pro sua civitate, amputata fuerunt brachia et truncata; nec tamen destitit a bello, et propter suam perseverantiam sua civitas obtinuit bellum. Gherardus dicebatur bonus anthonomastice, scilicet per excellentiam: ipse fuit dominus Trivisii civitatis, que est prope Venetias per sexdecim milliaria. Guido vero fuit de Regio, civitate Lombardie, et fuit homo maxime virtutis. Isti tres tempore auctoris erant optimi viri in tali patria. Dicitur in textu, quod gallice melius nominaretur simplex Lombardus. Nam Gallici reputant Ytalicos omnes valde astutos et malitiosos et vitiosos. Sed quando aliquem volunt laudare pro bono viro, dicunt talem esse simplicem Lombardum, idest non malitiosum, neque pravum.
+Nota quod isti tres fuerunt valde boni viri. Conradus de Palatio fuit de Brixia, civitate Lombardie, virtuosus homo et maxime pro republica. Nam dum esset in bello pro sua civitate, amputata fuerunt brachia et truncata; nec tamen destitit a bello, et propter suam perseverantiam sua civitas obtinuit bellum. Gherardus dicebatur bonus anthonomastice, scilicet per excellentiam: ipse fuit dominus Trivisii civitatis, que est prope Venetias per sexdecim milliaria. Guido vero fuit de Regio, civitate Lombardie, et fuit homo maxime virtutis. Isti tres tempore auctoris erant optimi viri in tali patria. Dicitur in textu, quod gallice melius nominaretur simplex Lombardus. Nam Gallici reputant Ytalicos omnes valde astutos et malitiosos et vitiosos. Sed quando aliquem volunt laudare pro bono viro, dicunt talem esse simplicem Lombardum, idest non malitiosum, neque pravum.
 
 Redit auctor ad primam conclusionem, scilicet de malignitate mundi, in persona Marci, dicens: Dicas ammodo, quod Ecclesia romana, propter confundere in se duo regimina, scilicet quia vult regere spiritualiter et temporaliter, cadit in lutum, idest a bono statu et regimine, et se deturpat, idest diffamatur, et salmam confundit, regimen, quod est salma summi pontificis et pastoris Ecclesie.
 
@@ -540,7 +540,7 @@ Vide alborem, radiantem splendorem scilicet, qui per flumen radiat, iam albefier
 
 <!-- p. [614] (0668) -->
 
-# La liberta umana e la suprema sua legge
+# La libertà umana e la suprema sua legge
 
 Gli estremi si toccano. Pertanto l'incomposto e tumultuoso sfrenarsi dell'ira, mentre pare uso di libertà, non è invece che abuso, il quale ci trae a servitù, e servitù tanto più difficile a rompere, in quanto che dentro di noi sta il tiranno che ci opprime. Da questo brutto vizio piglia occasione il Poeta di mostrarci in che veramente consista la libertà, e quale ne sia il principio generatore, da cui riceve continuamente vita. Procedendo egli tra i vorticosi globi del fumo, che ingombrano il girone, all'udire le sue parole, uno degli spiriti quivi confinati gli chiede:
 

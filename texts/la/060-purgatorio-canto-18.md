@@ -10,7 +10,7 @@ In capitulo decimoctavo, quod incipit: *Posuerat finem sue ratiocinationi*, auct
 
 1 Posto havea fine al suo ragionamento\
 &emsp;L'alto dottore (1), et attento guardava\
-&emsp;Ne la mia vista s'io parea conto (2):
+&emsp;Ne la mia vista s'io parea contento (2):
 
 1 Posuerat finem suo ratiocinio\
 &emsp;Altus doctor, et attentus respiciebat\
@@ -198,7 +198,7 @@ Nunc tibi potest apparere, idest potest esse notum per ea que dixi, quantum est 
 
 18 La qual senz'operar non è sentita,\
 &emsp;Nè si dimostra ma (4) che per effecto,\
-&emsp;Come per verdi frondi in pianta vita.
+&emsp;Come per verdi frondi in pianta viva.
 
 18 Que sine operatione non sentitur,\
 &emsp;Nec ostenditur nunquam nisi per effectum,\
@@ -206,7 +206,7 @@ Nunc tibi potest apparere, idest potest esse notum per ea que dixi, quantum est 
 
 19 Però, là onde vegna l'intellecto\
 &emsp;De le prime notitie, homo non sape,\
-&emsp;Et è prima appettibile l'effecto,
+&emsp;Et è prima appettibile l'affecto,
 
 19 Ergo, unde veniant intellectus\
 &emsp;Primarum noticiarum, homo non scit,\
@@ -274,7 +274,7 @@ Et ipse ad me, scilicet dixit: Quantum ratio hic videt, respondet Virgilius dice
 
 virtus non cognoscitur nisi per suos effectus: sicut vita plante cognoscitur, quia tenet folia plante virida et virides facit ramos. Ab ista virtute proveniunt primi motus et prime notitie: sed quomodo proveniant intellectus primarum notitiarum, sive primi motus, cum difficultate potest sciri. Aliqui tamen crediderunt, animam intellectivam, sive humanam, educi de potentia materie, et mori et deficere cum corpore, sicut Epycuri, qui videbantur adherere verbis Salomonis in libro Ecclesiastes dicentis: Unus est interitus hominum et iumentorum, et equa utriusque conditio. Sed qui taliter volunt dicere, attendant verba, que sunt dicta ad concionem, et quod sicut concionator loquutus est ibi Salomon, non sicut veritatem determinans. Unde etiam isti appetitus veniant, difficile est sciri; qui primi appetitus sunt in nobis causa productionis multorum operationum, sicut est studium in apibus ad faciendum mel. Vult dicere auctor, quod a nostra forma specifica, idest ab anima, proveniunt primi motus in nobis: que anima, immutata ab obiecto extrinseco, subito producit quamdam complacentiam vel displicentiam de ipso obiecto, naturaliter, absque deliberatione sive electione, sicut a forma apium provenit appetitus faciendi mel: et tales primi motus in nobis non merentur laudem nec vituperium. Sed super omnes istos primos motus est in nobis hominibus innata virtus, que virtus habet assentire et dissentire istis primis motibus: que virtus dominatur hiis primis motibus, quibus potest precipere, vel potest consentire hiis primis motibus et dissentire. Ab ista virtute et eius operibus proveniunt omnes [actus] meritorii et demeritorii, quia ista habet libertatem consentiendi vel dissentiendi; et ista virtus communiter vocatur liberum arbitrium: et sic theologi vocant. Ita etiam philosophi, qui composuerunt moralitatem et fecerunt libros morales, euntes et perquirentes usque ad fundum, idest subtilissime inquisierunt de rebus, sic eam virtutem vocaverunt liberum arbitrium. Et ideo, posito quod de necessitate naturali primitus surgat omnis amor, de quo dictum est, quia in nobis hominibus fit et consurgit, retinere talem amorem, idest complacentiam talis obiecti, est in nostra potestate, quia possumus illum amorem retinere et abiicere. Ideo licet primi motus non sint in nostra potestate quoad ipsorum eventum primum, tamen illos retinere et in illis delectari est in nostra potestate et libertate: quam libertatem theologi vocant liberum arbitrium. Tunc ad textum sic.
 
-Omnis forma substantialis, que est secta, idest separata, scilicet a materia, idest anima humana, et habet materiam et est cum ipsa unita, specificam virtutem habet in se collectam, idest innatam; que, scilicet virtus, sine operatione uon sentitur, idest cognoscitur, nec ostenditur unquam nisi per effectum, sicut per virides frondes in planta vita. Quomodo scimus quod arbor sit viva? Quia videmus frondes virides. Primi igitur motus non sunt in nostra potestate, quia aliquando homo cogitat quod nullo modo vellet cogitare, et dolet cogitare; sed si in talibus primis motibus homo capit delectationem et deliberat super illis, tunc provenit meritum vel demeritum. Si dicatur que est causa quod apes faciunt mel, et non vespa vel musca, certe non melior assignatur causa, vel ratio, nisi quod forma specifica apium dedit apibus virtutem faciendi, et quod nulli alie speciei. Ergo unde veniat intellectus primarum notitiarum, homo nescit (nisi quia dicendum est quod veniat a nostra forma specifica), et unde sint primi affectus, et est primo appetibilis affectus; que, scilicet prime notitie, sunt in nobis sicut studium in apibus ad faciendum mel: et ista prima voluntas meritum laudis vel vituperii non capit, idest recipit; nam ista voluntas non meretur. Nunc ad istam, scilicet primam voluntatem, omnis alia recolligitur, omnes alie fundantur super ista, innata virtus, que consulit et habet assensum retinendi introytum. Idest: innata virtus liberi arbitrii, habet potestatem retinendi, idest consentiendi et dissentiendi: istud est principium, idest liberum arbitrium, unde, idest a quo, sumitur causa merendi, idest potentia, in vobis, secundum quod bonos et pravos accolligit et distinguit amores, idest secundum quod homines permictunt se dirigi a bono vel malo [a]more.
+Omnis forma substantialis, que est secta, idest separata, scilicet a materia, idest anima humana, et habet materiam et est cum ipsa unita, specificam virtutem habet in se collectam, idest innatam; que, scilicet virtus, sine operatione non sentitur, idest cognoscitur, nec ostenditur unquam nisi per effectum, sicut per virides frondes in planta vita. Quomodo scimus quod arbor sit viva? Quia videmus frondes virides. Primi igitur motus non sunt in nostra potestate, quia aliquando homo cogitat quod nullo modo vellet cogitare, et dolet cogitare; sed si in talibus primis motibus homo capit delectationem et deliberat super illis, tunc provenit meritum vel demeritum. Si dicatur que est causa quod apes faciunt mel, et non vespa vel musca, certe non melior assignatur causa, vel ratio, nisi quod forma specifica apium dedit apibus virtutem faciendi, et quod nulli alie speciei. Ergo unde veniat intellectus primarum notitiarum, homo nescit (nisi quia dicendum est quod veniat a nostra forma specifica), et unde sint primi affectus, et est primo appetibilis affectus; que, scilicet prime notitie, sunt in nobis sicut studium in apibus ad faciendum mel: et ista prima voluntas meritum laudis vel vituperii non capit, idest recipit; nam ista voluntas non meretur. Nunc ad istam, scilicet primam voluntatem, omnis alia recolligitur, omnes alie fundantur super ista, innata virtus, que consulit et habet assensum retinendi introytum. Idest: innata virtus liberi arbitrii, habet potestatem retinendi, idest consentiendi et dissentiendi: istud est principium, idest liberum arbitrium, unde, idest a quo, sumitur causa merendi, idest potentia, in vobis, secundum quod bonos et pravos accolligit et distinguit amores, idest secundum quod homines permictunt se dirigi a bono vel malo [a]more.
 
 Illi qui, ratiocinando, idest per rationem inquirendo, iverunt ad fundum, idest habuerunt profundas ymaginationes, sive investigationes, idest omnes magni philosophi et morales, qui cognoverunt virtutem rerum, per rationem naturalem investigando, omnes perpenderunt de ista innata libertate, idest diviserunt, idest composuerunt libros scriptos, de ipsa moralitate, ubi scripserunt de virtutibus et vitiis, asserentes quod virtus meretur premia, et vitia penas: ideo mortalitatem dimiserunt mundo.
 
@@ -301,14 +301,14 @@ Nobilem virtutem, scilicet hanc, Beatrix, scilicet Theologia, intelligit per lib
 &emsp;Inter Sardos et Corsos illum videt quando occidit;
 
 28 E quell'ombra gentil, per cui si noma\
-&emsp;Cortese più che nulla mantovana,\
+&emsp;Pietola più che villa mantovana,\
 &emsp;Del mio carchar dispost'havea la soma.
 
 28 Et illa umbra gentilis, per quam nominatur\
 &emsp;Piectola plus quam villa mantuana,\
 &emsp;Mei oneris deposuerat salmam.
 
-29 Perch'io quella ragion ch'aperta e chiara\
+29 Perch'io quella ragion ch'aperta e piana\
 &emsp;Sovra le mie question havea ricolta,\
 &emsp;Stava com'huom che sonnolento vana.
 
@@ -435,7 +435,7 @@ Cito, cito, quod tempus non perdatur propter paucum amorem, clamabant alii prope
 &emsp;De quo dolens adhuc Mediolanum ratiocinatur.
 
 41 E tal ha già un piede intr'alla fossa,\
-&emsp;Che tosto piangerà quel ministero,\
+&emsp;Che tosto piangerà quel monastero,\
 &emsp;E tristo fia d'haver havuto possa;
 
 41 Et talis iam habet unum pedem intra foveam,\
@@ -540,10 +540,10 @@ Tosto che dal piacere in atto è desto.
 
 « *Mobile*, commenta con la Somma di San Tommaso il Tommaseo; perchè intendere e volere è moto; » *e moto intelligente*, aggiungiam noi. Il quale amore dal Serafico Dottor San Bonaventura, le cui opere furono molto familiari al Poeta, venne chiamato con frase nuova e potente, respiro dello spirito.
 
-Vi concorda a maraviglia la parola rivelata. Nell'Ecclesiastico si legge, che Dio dette all'uomo il cuore per pensare (*Ecclesiast*. VI, 37): dal cuore insegnò Cristo che procedono i malvagi pensieri (MATTH. XV, 19): e Salomone, per aver da Dio quanto più fosse possibile di sapienza, non gli domandò altro che un cuore docile e amoroso (III *Reg*. III, 9); e l'ebbe così intelligente, da diventar la maraviglia de' secoli. Poi le frasi: il pensiere del cuore (*Genes*. VI, 5), la parola del cuore (*Eccles*. XIX, 12), la meditazione del cuore (*Psalm*. XVIII, 15): vale a dire, dalla radicalita del sentimento nascere nell'uomo l'intendere, il volere, l'operare.
+Vi concorda a maraviglia la parola rivelata. Nell'Ecclesiastico si legge, che Dio dette all'uomo il cuore per pensare (*Ecclesiast*. VI, 37): dal cuore insegnò Cristo che procedono i malvagi pensieri (MATTH. XV, 19): e Salomone, per aver da Dio quanto più fosse possibile di sapienza, non gli domandò altro che un cuore docile e amoroso (III *Reg*. III, 9); e l'ebbe così intelligente, da diventar la maraviglia de' secoli. Poi le frasi: il pensiere del cuore (*Genes*. VI, 5), la parola del cuore (*Eccles*. XIX, 12), la meditazione del cuore (*Psalm*. XVIII, 15): vale a dire, dalla radicalità del sentimento nascere nell'uomo l'intendere, il volere, l'operare.
 
-In verità, che cos'è la creazione? Il prodotto di un atto infinitamente libero, come si vede dalla contingenza e vanità della creatura; e dunque più atto di volontà che d'intelletto, quantunque dalla luce dell'infinita sapienza illustrato. Nè altro che una gratuita bontà infinita poteva, ci si lasci dir così, dare impulso all'interno, sostanziale, infinito suo pensiere, perchè mediante la creazione si diffondesse al di fuori e v'imprimesse tante orme mirabili di sè stesso. Artefice dunque e principio del mondo fu l'amore: l'amore infinito, che crea gli amori finiti, e che per necessità metafisica non può, pur creando liberissimamente, non rispecchiare nella creatura sè medesimo e l'atto suo, e quindi non riporre nel cuore l'inizio della sapienza con quell'amore germinale, che racchiude i semi preziosi dell'intelligenza e della virtu, della scienza e dell'arte.
+In verità, che cos'è la creazione? Il prodotto di un atto infinitamente libero, come si vede dalla contingenza e vanità della creatura; e dunque più atto di volontà che d'intelletto, quantunque dalla luce dell'infinita sapienza illustrato. Nè altro che una gratuita bontà infinita poteva, ci si lasci dir così, dare impulso all'interno, sostanziale, infinito suo pensiere, perchè mediante la creazione si diffondesse al di fuori e v'imprimesse tante orme mirabili di sè stesso. Artefice dunque e principio del mondo fu l'amore: l'amore infinito, che crea gli amori finiti, e che per necessità metafisica non può, pur creando liberissimamente, non rispecchiare nella creatura sè medesimo e l'atto suo, e quindi non riporre nel cuore l'inizio della sapienza con quell'amore germinale, che racchiude i semi preziosi dell'intelligenza e della virtù, della scienza e dell'arte.
 
-Vero è che l'atto unico, per il quale l'anima umana spunta alla vita, si germina tosto in due, l'uno distinto dall'altro; quello dell'intelletto e quello della volontà; i quali s'intrecciano e si maritano insieme, mentre per leggi diverse e per diversa natura realmente si distinguono: ma questa dualita che ne nasce, non deve farci dimenticare l'iniziale unità, il cui compimento sta nella finale armonia, che ricongiungerà poi le dette potenze in un atto perfetto di amore e di piena intelligenza. Anche di presente, qual è l'atto che per esperienza e per rivelazione sappiamo dover prevalere, nè cader soggetto a sostanziale mutazione? Quello della carità. E perchè? perchè fu appunto il primo atto dell'anima, il quale viene a mano a mano in lei esplicandosi per il libero volere, diramato nel suo intelletto: ed in quest'atto medesimo ella troverà da ultimo la corona della virtù ed il possesso della gloria.
+Vero è che l'atto unico, per il quale l'anima umana spunta alla vita, si germina tosto in due, l'uno distinto dall'altro; quello dell'intelletto e quello della volontà; i quali s'intrecciano e si maritano insieme, mentre per leggi diverse e per diversa natura realmente si distinguono: ma questa dualità che ne nasce, non deve farci dimenticare l'iniziale unità, il cui compimento sta nella finale armonia, che ricongiungerà poi le dette potenze in un atto perfetto di amore e di piena intelligenza. Anche di presente, qual è l'atto che per esperienza e per rivelazione sappiamo dover prevalere, nè cader soggetto a sostanziale mutazione? Quello della carità. E perchè? perchè fu appunto il primo atto dell'anima, il quale viene a mano a mano in lei esplicandosi per il libero volere, diramato nel suo intelletto: ed in quest'atto medesimo ella troverà da ultimo la corona della virtù ed il possesso della gloria.
 
 Profonde pertanto, quanto vere, ci paiono queste sentenze: Quando Dio creò lo spirito umano, creò una fattura, che posseditrice di sè stessa, tendesse e si sforzasse di tornare a lui medesimo che la creava: e questa tendenza, o stendimento, verso il suo creatore, fu il primo atto di sua vita, cioè conoscere e volere. E fu, dunque, un unico atto di amore, o meglio, fu un amore, che tendeva all'amore, da cui era stato creato; ma ad un tempo un amore libero di sè, per distinguersi da quello che a sè lo tirava e sentirsi in possesso di sè medesimo; il quale possesso di sè stesso è arbitrio o libertà.

@@ -2,7 +2,7 @@
 
 # Capituli Decimiseptimi Summarium
 
-In decimoseptimo capitulo, quod incipit: *Ecce feram cum cauda acuta*, auctor depingit, sive describit, fraudem per unum animal, quod hic vocat Gerionem. Nota quod secundum veritatem Gerion fuit unus rex in Hyspania, magnus fraudulentus: habuit tria regna, et cum fraude decipiebat quasi omnes finitimos; qui fuit interfectus ab Hercule, secundum fictionem poetarum. Hic habuit tria corpora et tres animas. Quia iste Gerion fuit tam fraudulentus, ideo per ipsum auctor hic describit fraudem per unam feram, que habebat benignam faciem hominis iusti, et totum residuum corporis erat serpentinum. Habebat duas branchas pilosas, et erat totum dorsum depictum circulis quibusdam. Erat colorata ista fera quasi infinitis coloribus; nec drappi, sive panni, Turcorum habent tot colores, quot erant in dorso istius fere. Veniens hec fera ad terram, solum faciem extraxit de aqua; totum residuum tenebat in aqua, et sepe revolvebat caudam venenosam, biffurgutam ad instar scorpionis. Tunc Virgilius cum auctore descendit versus illam feram per decem passus. Qualiter ista fera significet fraudem, videatur in commento super isto capitulo decimoseptimo Inferni. Demum, quia auctor vult se expedire de materia violentorum et intrare materiam fraudis, satis breviter pertractat de usurariis. Nam usurarii stant sedendo in ista arena predicta, continue plorando et cum manibus excuciendo flammas super ipsos cadentes. Quilibet eorum habet unam bursiam pendentem ad collum, in qua bursia sunt arma, sive insignia, domorum ipsorum. Hic invenit quinque magnos usurarios et feneratores. Leo azurrinus in campo giallo est arma illorum de Gianfigliatiis de Florentia. Campus albus cum ansere giallo est arma illorum de Ubriachis de Florentia. Sxus azurrina, sive de azurio, est arma illorum de Schrovignis de Padua. Istis visis, auctor cum Virgilio ascendit super istum Gerionem, super istam feram, que portans eos, deposuit in secundo circulo, qui dividitur in decem Malibolgias. Et sic exiverunt de primo circulo Inferni murati, qui, ut visum est, dividitur in tres circulectos, in quibus violenti puniuntur. Et iam pervenerunt ad secundum circulum, scilicet fraudis, divisum in decem Malibolgias, etc., secundum quod sunt decem species fraudis prime. Nam a circulo violentorum non potuissent venire ad istum circulum fraudis, nisi ipse Dantes fuisset transportatus propter magnum descensum et magnam distantiam et itineris difficultatem.
+In decimoseptimo capitulo, quod incipit: *Ecce feram cum cauda acuta*, auctor depingit, sive describit, fraudem per unum animal, quod hic vocat Gerionem. Nota quod secundum veritatem Gerion fuit unus rex in Hyspania, magnus fraudulentus: habuit tria regna, et cum fraude decipiebat quasi omnes finitimos; qui fuit interfectus ab Hercule, secundum fictionem poetarum. Hic habuit tria corpora et tres animas. Quia iste Gerion fuit tam fraudulentus, ideo per ipsum auctor hic describit fraudem per unam feram, que habebat benignam faciem hominis iusti, et totum residuum corporis erat serpentinum. Habebat duas branchas pilosas, et erat totum dorsum depictum circulis quibusdam. Erat colorata ista fera quasi infinitis coloribus; nec drappi, sive panni, Turcorum habent tot colores, quot erant in dorso istius fere. Veniens hec fera ad terram, solum faciem extraxit de aqua; totum residuum tenebat in aqua, et sepe revolvebat caudam venenosam, bifurcatam ad instar scorpionis. Tunc Virgilius cum auctore descendit versus illam feram per decem passus. Qualiter ista fera significet fraudem, videatur in commento super isto capitulo decimoseptimo Inferni. Demum, quia auctor vult se expedire de materia violentorum et intrare materiam fraudis, satis breviter pertractat de usurariis. Nam usurarii stant sedendo in ista arena predicta, continue plorando et cum manibus excuciendo flammas super ipsos cadentes. Quilibet eorum habet unam bursiam pendentem ad collum, in qua bursia sunt arma, sive insignia, domorum ipsorum. Hic invenit quinque magnos usurarios et feneratores. Leo azurrinus in campo giallo est arma illorum de Gianfigliatiis de Florentia. Campus albus cum ansere giallo est arma illorum de Ubriachis de Florentia. Sus azurrina, sive de azurio, est arma illorum de Schrovignis de Padua. Istis visis, auctor cum Virgilio ascendit super istum Gerionem, super istam feram, que portans eos, deposuit in secundo circulo, qui dividitur in decem Malibolgias. Et sic exiverunt de primo circulo Inferni murati, qui, ut visum est, dividitur in tres circulectos, in quibus violenti puniuntur. Et iam pervenerunt ad secundum circulum, scilicet fraudis, divisum in decem Malibolgias, etc., secundum quod sunt decem species fraudis prime. Nam a circulo violentorum non potuissent venire ad istum circulum fraudis, nisi ipse Dantes fuisset transportatus propter magnum descensum et magnam distantiam et itineris difficultatem.
 
 <!-- p. [216] (0270) -->
 
@@ -156,7 +156,7 @@ Postquam auctor depinxit Gerionem, nunc figurat modum veniendi Gerionis, dicens:
 &emsp;Experientiam istius gironis portes,\
 &emsp;Michi dixit, vade, et vide suam menam.
 
-partim stant, sive sunt, in aqua, et partim in terra. Nunc auctor ponit aliam comparationem, que est hec. Inter Theuthonicos lurcos (una patria est in partibus Alamanie, que vocatur Lurca) stat bivarus (bivarus est animal, quod vivit partim in aqua et partim in terra; et magna copia istorum bivarorum est in illa parte Alamanie, que vocatur Lurca): bivarus se disponit ad capiendum pisces, quia pisces comedit et insidiatur callide ipsis. Dicitur quod bivarus habet dentes fortes, cum quibus excidit ramos arborum, et illos ramos quasi in cruce ponit super aquam; demum super illos ramos stat, et callide et caute, insidiando piscibus. Modo vult dicere, quod sicut illi burchi, qui tenent proras super terram, et reliquas partes in aqua, et sicut stat bivarus quando insidiatur piscibus, sic ista fera, scilicet Gerion, stat, extra aquam, cum pectore verso, et caudam tenebat in aqua: caput tenebat super extremitatem lapideam, que extremitas lapidea claudit arenam. Dicit igitur: Et sicut inter Theuthonicos lurcos bivarus se assenctat, idest apte collocat, ad faciendum guerram, idest piscibus, ad capiendum eos; sic fera pexima stabat super orlum, idest extremitatem lapideam, que sabulum serrat, idest terminat.
+partim stant, sive sunt, in aqua, et partim in terra. Nunc auctor ponit aliam comparationem, que est hec. Inter Theuthonicos lurcos (una patria est in partibus Alamanie, que vocatur Lurca) stat bivarus (bivarus est animal, quod vivit partim in aqua et partim in terra; et magna copia istorum bivarorum est in illa parte Alamanie, que vocatur Lurca): bivarus se disponit ad capiendum pisces, quia pisces comedit et insidiatur callide ipsis. Dicitur quod bivarus habet dentes fortes, cum quibus excidit ramos arborum, et illos ramos quasi in cruce ponit super aquam; demum super illos ramos stat, et callide et caute, insidiando piscibus. Modo vult dicere, quod sicut illi burchi, qui tenent proras super terram, et reliquas partes in aqua, et sicut stat bivarus quando insidiatur piscibus, sic ista fera, scilicet Gerion, stat, extra aquam, cum pectore verso, et caudam tenebat in aqua: caput tenebat super extremitatem lapideam, que extremitas lapidea claudit arenam. Dicit igitur: Et sicut inter Theuthonicos lurcos bivarus se assectat, idest apte collocat, ad faciendum guerram, idest piscibus, ad capiendum eos; sic fera pexima stabat super orlum, idest extremitatem lapideam, que sabulum serrat, idest terminat.
 
 *In vano tota sua cauda guizzabat*: idest ducebatur, movebatur. Vanum hic vocatur vacuum: quia ibi non est nisi aier, vocatur vanum.
 
@@ -188,7 +188,7 @@ Hic magister, idest dixit: Ut totam plenam experientiam istius gironis, idest ci
 &emsp;Illius scemi circuli, totus solus\
 &emsp;Ivi, ubi sedebat gens mesta.
 
-16 Per gl'ochi fuori scoppiano el lor duolo:\
+16 Per gl'ochi fuori scoppiava el lor duolo:\
 &emsp;Di qua di là soccorrean co'le mani,\
 &emsp;Quando a'vapori, e quando al caldo suolo.
 
@@ -214,7 +214,7 @@ Hic magister, idest dixit: Ut totam plenam experientiam istius gironis, idest ci
 
 19 Che dal collo a ciascun pend' (4) una tasca,\
 &emsp;C'havea certo color e certo segno,\
-&emsp;E quindi par che l'orechie (5) si pasca.
+&emsp;E quindi par che l'occhio (5) si pasca.
 
 19 Quod a collo cuilibet pendebat una tasca,\
 &emsp;Que habebat certum colorem et certum signum,\
@@ -310,7 +310,7 @@ Demum ostendit dominum Ioannem Baiamontem de Strovignis de Padua, dicens: Et unu
 
 Descripto sufficienter circulo violentorum, iam auctor vult describere descensum suum ad circulum fraudis; et continuans, dicit: Et ego timens, ne meum amplius stare (cum usurariis, supple) ipsum, scilicet Virgilium, cruciaret, qui me de pauco stare, idest pauca mora, habebat monitum, idest monuerat, redii retro ab animabus lapsis, idest fessis, sive cruciatis. Idest: non oportebat ibi plus stare, quia materia usure satis erat pertractata; ideo redii ad magistrum, qui cum Gerione me expectabat in extremitate descensus.
 
-Nunc Virgilius incantat Dantem, quod non timeat, sed sit bene audax, et quando rediit ad magistrum, invenit eum iam ascendisse super *groppam*, idest super spatulas, sive renes, Gerionis; et quia, ne Gerion posset nocere Danti cum cauda, veluit Virgilius quod Dantes sederet ante ipsum, quia ex parte capitis habebat caput benignum, sed
+Nunc Virgilius incantat Dantem, quod non timeat, sed sit bene audax, et quando rediit ad magistrum, invenit eum iam ascendisse super *groppam*, idest super spatulas, sive renes, Gerionis; et quia, ne Gerion posset nocere Danti cum cauda, voluit Virgilius quod Dantes sederet ante ipsum, quia ex parte capitis habebat caput benignum, sed
 
 <!-- p. 221 (0275) -->
 
@@ -323,7 +323,7 @@ Nunc Virgilius incantat Dantem, quod non timeat, sed sit bene audax, et quando r
 &emsp;Ita ut cauda non possit tibi facere malum.
 
 29 Qual è colui, ch'è sì presso al riprezzo\
-&emsp;De la quartana, c'ha già l'unghia morte,\
+&emsp;De la quartana, c'ha già l'unghia smorte,\
 &emsp;E trema tutto sol guardando el rezzo,
 
 29 Qualis est ille, cui appropinquat riprezzum\
@@ -381,7 +381,7 @@ Sed ipse, scilicet Virgilius, qui aliis vicibus michi subvenerat in aliis puncti
 &emsp;Cogita novam salmam quam habes.
 
 34 Come la navicella esce dal loco\
-&emsp;Indietro indietro, sì quinci mi tolse;\
+&emsp;Indietro indietro, sì quinci si tolse;\
 &emsp;E poi che tutta si sentì a gioco,
 
 34 Sicut navicula exit de loco\
@@ -433,7 +433,7 @@ Ad intelligendum duas comparationes hic positas, oportet notare duas hystorias, 
 &emsp;Omnem visionem, excepta illius fere.
 
 39 Ella sen va notando lenta lenta;\
-&emsp;Rota (2), e discendo, ma non me n'accorgo,\
+&emsp;Rota (2), e discende, ma non me n'accorgo,\
 &emsp;Se non ch'al viso e di sotto mi venta.
 
 39 Illa ibat natando lenta, lenta;\
@@ -545,6 +545,6 @@ La lingua, come bue che 'l naso lecchi.
 
 In letteratura, come in scienza, non vi è peggio della cabala, che ne è morte; non rimanendo che maliziosa goffaggine, la quale a poco a poco si converte in tale viziamento dello spirito, che addiventa da ultimo qualche cosa di orrido: perchè se lo spirito discende dalle alte regioni del vero e del bello, al cui apprendimento e possesso venne creato, si perde nei bassi e intricati laberinti della materia, fra i quali bene spesso si travolge in un totale rinnegamento di sè stesso.
 
-Nè riescono meglio certe fantastiche e indefinite idealità, oggi tanto vagheggiate, nelle quali non sono concetti reali, dove possa trovare vero e sostanziale alimento lo spirito: questo, poichè è realtà, e realta potente, chiede ed ha bisogno di realtà, della somma realtà del vero, del bello e del buono, che sia appagamento delle sue aspirazioni, e nel cui possesso trovi da ultimo il vero compimento della sua vita.
+Nè riescono meglio certe fantastiche e indefinite idealità, oggi tanto vagheggiate, nelle quali non sono concetti reali, dove possa trovare vero e sostanziale alimento lo spirito: questo, poichè è realtà, e realtà potente, chiede ed ha bisogno di realtà, della somma realtà del vero, del bello e del buono, che sia appagamento delle sue aspirazioni, e nel cui possesso trovi da ultimo il vero compimento della sua vita.
 
 È doloroso, ripetiamo, che noi Italiani, a' quali Dio dette un intuito e un sentimento così pieni e sicuri nel percepire il vero ed il bello; è doloroso che, per miserabili passioni, e contro coscienza, lo deturpiamo, pazzamente imitatori di stranieri, che si dilettano a farci traviare appunto per diminuir le glorie nostre. Che cosa ne acquisteremo noi, da ultimo, se non un fiero rimorso e un amaro pentimento?

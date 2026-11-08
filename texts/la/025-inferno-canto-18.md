@@ -66,7 +66,7 @@ Già eravamo; Iam eramus ubi strictus callis, tangit aliam speciem fraudis, adul
 &emsp;Et sicut a talibus fortaliciis ab ipsorum soliis\
 &emsp;Ad ripam de foris sunt ponticelli,
 
-6 Così da una de le roccie scogli\
+6 Così da imo de le roccie scogli\
 &emsp;Eran, che ricidien argini e fossi\
 &emsp;Infin al pozzo, che i troncha e raccogli.
 

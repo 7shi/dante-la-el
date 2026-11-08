@@ -10,13 +10,13 @@ In isto octavo capitulo, quod incipit: *Iam erat hora*, auctor prosequitur predi
 
 1 Era già l'hora che volge 'l desio\
 &emsp;A'naviganti e 'ntenerisce 'l core,\
-&emsp;Lo dì ch'àn dicto e'dolci amici: A Dio;
+&emsp;Lo dì ch'àn dicto a' dolci amici: A Dio;
 
 1 Erat iam hora que vertit desiderium\
 &emsp;Navigantibus et tenerefacit cor,\
 &emsp;In die quo dixerunt dulcibus amicis: Ad Deum;
 
-2 Così lo nuovo peregrin d'amore\
+2 E che lo nuovo peregrin d'amore\
 &emsp;Punge, se ode squilla di lontano,\
 &emsp;Che paia 'l giorno pianger che si more;
 
@@ -86,7 +86,7 @@ Notandum est quod mos est illorum, qui incipiunt longum iter, sive per mare, siv
 
 8 Io viddi quello exercito gentile\
 &emsp;Tacito poscia riguardare in sue,\
-&emsp;Quasi aspectando tacito et humile:
+&emsp;Quasi aspectando pallido et humile:
 
 8 Ego vidi illum exercitum gentilem\
 &emsp;Tacitum postmodum respicere sursum,\
@@ -274,13 +274,13 @@ Modo fit hic conversatio. Postea conversi ad me, scilicet dixerunt: Per illum si
 
 25 Non credo che la sua madre più m'ami,\
 &emsp;Poscia che trasmutò le bianche bende,\
-&emsp;Le quai convien che, misero, ancor brami.
+&emsp;Le quai convien che, misera, ancor brami.
 
 25 Non credo quod sua mater plus me amet,\
 &emsp;Postquam transmutavit albas bendas,\
 &emsp;Quas convenit quod misera adhuc bramet.
 
-26 Per lei assai di lei vi si comprende,\
+26 Per lei assai di lieve vi si comprende,\
 &emsp;Quant'in femina foco d'amor dura,\
 &emsp;Se l'ochio o'l tacto spesso non l'accende.
 
@@ -339,7 +339,7 @@ Non ei faciet ita pulchram sepulturam vipera, idest arma que Mediolanenses accam
 &emsp;Et iste ascenderunt illuc ubi erant ille.
 
 32 Com'el parlava, e Sordello a sè 'l trasse\
-&emsp;Dicendo: Vedi la 'l nostro adversaro;\
+&emsp;Dicendo: Vedi là 'l nostro adversaro;\
 &emsp;E drizzò 'l dito, perchè in là guardasse.
 
 32 Dum ego loquebar, et Sordellus ad se illum traxit,\
@@ -424,7 +424,7 @@ Inter herbas et flores mala striscia veniebat, quia inter delectationes et conso
 &emsp;De Valle Magra, vel de parte vicina,\
 &emsp;Scis, dic illud michi qui iam grandis eram ibi.
 
-40 Chiamato fui Currado Melespina:\
+40 Chiamato fui Currado Malaspina:\
 &emsp;Non son l'antico, ma di lui discesi;\
 &emsp;A'miei portai l'amor che qui raffina.
 
@@ -440,7 +440,7 @@ Sentiendo findere, idest, dividere, aierem viridas alas, idest sentiendo aierem 
 
 *Umbra que ad Iudicem*. *L'ombra che s'era*: hec est quarta pars huius capituli, in qua auctor ponit unum spiritum nobilem, scilicet spiritum marchionis de Malaspinis, scilicet Conradi, umbra scilicet Conradi marchionis de Malaspina, que ad Iudicem erat recollecta, idest que Iudici adheserat, quando nominavit, ex toto illo congressu nihil fuit a mea loquela dissoluta, idest remota: idest non interrupit propter hoc loquelam suam, sed continuando prosecutus est illam, scilicet quando fuit videre mirum: idest, nec propter adventum serpentis, nec propter volatum angelorum, Conradus non removit oculos a me, propter mirum quod sibi videbatur de me vivo.
 
-Narrata fuga serpentis, incepit loqui, scilicet Conradus, et quasi coniurando Dantem, sicut superius fecit iudex Ninus, petit aliquid a Dante, sic dicens: Si lucerna, que te ducit in altum, reperiat in tuo arbitrio tantam ceram, quanta est necesse usque ad viridem smaltum, idest usque ad verticem montis, ubi sunt omnia virid[i]a, arbores et herbe, incepit, scilicet loqui, illa, scilicet anima Conradi, si novum verum de Valle Magra, vel de parte vicina, scis, die michi illud, quia iam grandis ibi eram. Ista littera, scilicet: Si lucerna, etc., potest exponi dupliciter, sic. Videlicet: Si lux Virgilii, idest rationis naturalis, que te ducit per montem Purgatorii, inveniat ceram, idest cognitionem et speculationem, quanta tibi expedit usque ad apicem montis, qui est viridis, et planus, et floridus, dic michi nova de Valle Magra, idest Lunisiana. Vel sic: Si lucerna, etc., scilicet divina gratia; et ista etiam est bona expositio.
+Narrata fuga serpentis, incepit loqui, scilicet Conradus, et quasi coniurando Dantem, sicut superius fecit iudex Ninus, petit aliquid a Dante, sic dicens: Si lucerna, que te ducit in altum, reperiat in tuo arbitrio tantam ceram, quanta est necesse usque ad viridem smaltum, idest usque ad verticem montis, ubi sunt omnia virid[i]a, arbores et herbe, incepit, scilicet loqui, illa, scilicet anima Conradi, si novum verum de Valle Magra, vel de parte vicina, scis, dic michi illud, quia iam grandis ibi eram. Ista littera, scilicet: Si lucerna, etc., potest exponi dupliciter, sic. Videlicet: Si lux Virgilii, idest rationis naturalis, que te ducit per montem Purgatorii, inveniat ceram, idest cognitionem et speculationem, quanta tibi expedit usque ad apicem montis, qui est viridis, et planus, et floridus, dic michi nova de Valle Magra, idest Lunisiana. Vel sic: Si lucerna, etc., scilicet divina gratia; et ista etiam est bona expositio.
 
 Fui vocatus Conradus Malaspina, non antiquus, sed ab eo descendi; idest ab uno alio Conrado, valde antiquo; meis portavi amorem, idest meis consanguineis, qui hic reaffinatur, idest purificatur, quia ducit nos ad salutem, vel qui fecit me salvum: idest singularis affectio, quam tuli meis. Hic mortuus est sine herede, et in morte sua vocavit consortes suos et divisit illis bona sua, ita quod quilibet fuit bene contentus.
 
@@ -464,7 +464,7 @@ Fui vocatus Conradus Malaspina, non antiquus, sed ab eo descendi; idest ab uno a
 
 43 Et io vi giuro, s'io di sopra vada,\
 &emsp;Che vostra gente honrata non si sfregia\
-&emsp;Del pregio di bontade e della spada.
+&emsp;Del pregio di bontade e della borsa.
 
 43 Et ego vobis iuro, si ego sursum vadam,\
 &emsp;Quod vestra gens honorata non sfregiatur\
@@ -521,7 +521,7 @@ E che lo nuovo peregrin d' amore\
 Punge, se ode squilla di lontano\
 Che paia il giorno pianger che si muore;
 
-chi è, diciamo, che al rileggere questi versi non abbia dolcemente pianto, e non sia corso col pensiero alla Madre divina, che in tal ora imparammo dalle madri nostre a salutare stella d'amore, il cui raggio ci scorgerebbe nei difficili sentieri di questa vita? Certo, il Poeta non ritrasse così divinamente quell'ora, se non perchè nel sentimento cristiano ha qualcosa di divino! Diciamo nel sentimento cristiano: perchè dal raccogliersi che fa la natura al tramonto del sole, e dallo spogliarsi di varietà al sopravvenir delle tenebre, l'immagine della sua immensità ingigantisce per modo, che il nostro spirito, più che altro, ne resta oppresso; e però atra fu sempre la notte nel concetto pagano. Invece per noi quel suono di squilla, che piange il giorno che quaggiù si muore, è voce dall'alto, la quale ci chiama e ci trasporta in un giorno eterno che non tramonterà mai, e dove lo spirito, liberamente spaziando, nuoterà in un mare di bellezze e di gioie, che il cuore sente, ma lingua umana non saprà mai dire. È chiaro che l'Alighieri non poteva nella sua Cantica dimenticar una tale ora, egli che con quella dell'alba l'aveva si cara, invocando il nome del bel fiore che diffonde luce e fragranza di Paradiso.
+chi è, diciamo, che al rileggere questi versi non abbia dolcemente pianto, e non sia corso col pensiero alla Madre divina, che in tal ora imparammo dalle madri nostre a salutare stella d'amore, il cui raggio ci scorgerebbe nei difficili sentieri di questa vita? Certo, il Poeta non ritrasse così divinamente quell'ora, se non perchè nel sentimento cristiano ha qualcosa di divino! Diciamo nel sentimento cristiano: perchè dal raccogliersi che fa la natura al tramonto del sole, e dallo spogliarsi di varietà al sopravvenir delle tenebre, l'immagine della sua immensità ingigantisce per modo, che il nostro spirito, più che altro, ne resta oppresso; e però atra fu sempre la notte nel concetto pagano. Invece per noi quel suono di squilla, che piange il giorno che quaggiù si muore, è voce dall'alto, la quale ci chiama e ci trasporta in un giorno eterno che non tramonterà mai, e dove lo spirito, liberamente spaziando, nuoterà in un mare di bellezze e di gioie, che il cuore sente, ma lingua umana non saprà mai dire. È chiaro che l'Alighieri non poteva nella sua Cantica dimenticar una tale ora, egli che con quella dell'alba l'aveva sì cara, invocando il nome del bel fiore che diffonde luce e fragranza di Paradiso.
 
 Ma nel costume cristiano, sempre sì poetico a chi ha fede, a quel suono di squilla un altro ne segue poco dipoi, che anticamente chiamavasi in qualche luogo il suono del *coprifoco*, ossia il suono del *De profundis*; ed il Poeta non lo dimentica, mettendo in bocca alle anime qui da lui incontrate, l'inno che si recita nell'ultima parte dell'uffizio ecclesiastico appunto quando la sera declina.
 

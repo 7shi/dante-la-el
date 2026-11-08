@@ -68,7 +68,7 @@ idest, postquam recuperavi mentem, idest, postquam reasumpsi speculationem menta
 
 *Et sicut me volvo, et sicut respicio*: idest, quando respicio. Idest, erat tanta multitudo hic, quod de omni parte, sursum, deorsum, a dextris, a sinistris, ante, retro, etc., ubique erant multi.
 
-*Ego veni* (alias *sum*) *ad tertium circulum pluvie eterne, maledicte, frigide et gravis, et regola et qualitas nunquam innovatur*: hic describitur generaliter pena gulosorum;
+*Ego veni* (alias *sum*) *ad tertium circulum pluvie eterne, maledicte, frigide et gravis, et regula et qualitas nunquam innovatur*: hic describitur generaliter pena gulosorum;
 
 <!-- p. 89 (0143) -->
 
@@ -182,7 +182,7 @@ Beatus vero Bernardus dicit: Etiam monaci gulosi, videntes lucium ad coquinam po
 
 *El Duca*: et dux meus extendit suas palmas, cepit terram cum ambabus manibus, et proiecit intus in bramosis, idest avidis, sive insatiabilibus, ca[n]nis, idest gutturibus. Hic ostenditur quomodo Virgilius, idest homo rationabiliter vivens et sobrius, quando tentatur de peccato gule, vincit peccatum, iacendo per gulam, terram, idest res temperatas, rudes et vulgares, cibos viles et vina non nimis delectabilia et aquam sepe; saltem cum aqua temperat vinum. Certe, Dantes non fuit nutricatus in hoc vitio. Notandum quod raro fuit aliquando homo sapiens, valens in scientia vel in armis, cui non displiceret hoc vitium. Sic dicit dominus Franciscus Petrarcha: Etiam Cesar sobrius. De quo Cato, suus inimicus, dixit: Solus Cesar sobrius accessit ad Rempublicam pervertendam. Quasi dicens, omnes alii fuerunt devoratores; solus Cesar fuit sobrius. Annibal etiam fuit valde sobrius.
 
-*Qualiter canis, qui latrando evanescit; quietatur postquam cibum*, alias morsum, *sumit, et solum ad devorandum attendit et pugnat; tales devenerunt ille facies sordide demonis Cerberi*: idest in auribus molestat animas, que vellent esse surde. Modo dicit quod istud vitium fuit quietatum in se auctore, qui non fuit sequutus tale vitium. *Lorde*: idest turpes, sordide. *Demonis*: quia multos ducit ad Infernum istud vitium, quod est officium demonis. *Sordide*: sepe etenim infirmus gulosus non dolet de semetipso; idest, canis nunquam vellet sotium in corrodendo ossa; sic gulosus. Canis aliquando dimictit carnes propter umbram carnium, credens quod illa umbra sit malus frustum carnium: sic faciunt gulosi: audientes quod in uno loco fit convivium, vel nuptie, currunt illuc, relinquentes illud quod habebant paratum, et sepe reperiunt se deceptos, non habentes aliquid nec ibi, nec illic.
+*Qualiter canis, qui latrando evanescit; quietatur postquam cibum*, alias morsum, *sumit, et solum ad devorandum attendit et pugnat; tales devenerunt ille facies sordide demonis Cerberi*: idest in auribus molestat animas, que vellent esse surde. Modo dicit quod istud vitium fuit quietatum in se auctore, qui non fuit sequutus tale vitium. *Lorde*: idest turpes, sordide. *Demonis*: quia multos ducit ad Infernum istud vitium, quod est officium demonis. *Sordide*: sepe etenim infirmus gulosus non dolet de semetipso; idest, canis nunquam vellet sotium in corrodendo ossa; sic gulosus. Canis aliquando dimictit carnes propter umbram carnium, credens quod illa umbra sit maius frustum carnium: sic faciunt gulosi: audientes quod in uno loco fit convivium, vel nuptie, currunt illuc, relinquentes illud quod habebant paratum, et sepe reperiunt se deceptos, non habentes aliquid nec ibi, nec illic.
 
 *Noi passavam*. *Nos transiebamus super umbras*: ista est secunda pars huius capituli, in qua fit mentio de uno spiritu moderno.
 
@@ -268,7 +268,7 @@ ebriosi consumunt et dextruunt personam; ita in brevi tempore non cognoscuntur p
 
 *Et ego anima tristis non sum sola hic; sed omnes iste in simili pena stant propter similem culpam: nec amplius loquutus fuit*: hic fecit miseram excusationem, allegando multos alios peccasse in vitio suo. Aliqui miseri, quando reprehenduntur de aliquo vitio, excusant se sic: Quare corrigis me, quia et multi hoc faciunt?
 
-*Ego respondidi: Ciacche, tua pena me gravat in tantum, quod me invitat ad lacrymandum*.
+*Ego respondi: Ciacche, tua pena me gravat in tantum, quod me invitat ad lacrymandum*.
 
 *Ma dimme, se tu sai*. *Sed dic michi, si tu scis*: hec est tertia pars huius capituli, in qua auctor interrogat hunc spiritum de tribus questionibus. Hic spiritus scivit multa, et fuit domesticus auctori.
 
@@ -277,7 +277,7 @@ ebriosi consumunt et dextruunt personam; ita in brevi tempore non cognoscuntur p
 <!-- p. 92 (0146) -->
 
 22 Et elli a me: Doppo lunga tencione\
-&emsp;Verrauno al sangue, e la parte selvaggia\
+&emsp;Verranno al sangue, e la parte selvaggia\
 &emsp;Caccierà l'altra con molt'offensione.
 
 22 Et ipse ad me: Post longam questionem\
@@ -354,7 +354,7 @@ Respondens, Ciaccus dixit: *Ed egli a me*. *Et ipse michi*: subaudi, dixit.
 
 *Post multam questionem venient ad sanguinem*: idest spargendum.
 
-*Et pars silvestris*: idest alba, expellet aliam, scilicet nigram, cum multa offensione. Demum, in brevi, oportet quod hec, scilicet pars alba, cadat, idest vincatur infra tres solos, idest infra tres annos; et quod alia, scilicet pars nigra, surmontet, idest super ascendat, scilicet vincat.
+*Et pars silvestris*: idest alba, expellet aliam, scilicet nigram, cum multa offensione. Demum, in brevi, oportet quod hec, scilicet pars alba, cadat, idest vincatur infra tres soles, idest infra tres annos; et quod alia, scilicet pars nigra, surmontet, idest super ascendat, scilicet vincat.
 
 *Cum fortitudine talis, qui nunc piagiat*: idest venit ad ripam, solum; idest qui nondum venit, nec cognoscitur.
 
@@ -458,7 +458,7 @@ Respondens Ciaccus Danti, dicit.
 
 *Sed quando tu eris in dulci mundo, rogo te, revoca me ad mentem aliorum*: idest, dic nova de me. *Plus non tibi loquor, nec respondebo tibi*.
 
-*Oculos reclos retorsit in obliquum*: cum quibuslibet cecis, par aliis cecis, respiciens me, et ad terram cecidit, capite inclinato.
+*Oculos rectos retorsit in obliquum*: cum quibuslibet cecis, par aliis cecis, respiciens me, et ad terram cecidit, capite inclinato.
 
 *Tunc dixit dux*: hec est quarta pars huius capituli, in qua tractatur quasi aliquid de resurrectione mortuorum, etc. Tunc dixit dux: Hic non plus surget usque ad sonum angelice tube, idest, usque ad diem iuditii, quando auditur vox angeli, et tuba, etc.
 
@@ -517,6 +517,6 @@ Ecco l'universale risurrezione dei corpi, che è l'articolo undecimo del *Credo*
 
 La risurrezione de' corpi! Si osservi come quaggiù tutto s'inizia, e nulla arriva alla perfezione. Muoiono gl'individui, muoiono i popoli, muoiono le istituzioni, o, come scriveva il Tasso (*Gerus. liberata*, XV), muoiono le città, muoiono i regni, tutto passa e si dilegua: e nondimeno l'umano spirito si sente nel possesso iniziale di un futuro, che sarà compimento della sua vita; di tutta la sua vita come qui la possiede, sostanzialmente unito al corpo dal primo momento che entra nella terrena esistenza. Il quale iniziale possesso della immortale sua integrezza, non sarebbe che una crudele illusione, senza il domma della futura vita, nella quale, in sull'apparirgli nuovi cieli e terra nuova, riprenda e ricongiunga a sè in unità di sostanza il corpo, che per un tempo ebbe lasciato, e così rintegri il proprio essere nella creazione rinnovellata.
 
-Che cos'è di presente la creazione? Sia pur essa un incanto, che sempre ci rapisce fuor di noi stessi, perchè concetto ed opera della sapienza divina; ma, oltre l'inceppamento quaggiù dello spirito nella materia per la colpa che sopravvenne, è un'armonia turbata da profondi disaccordi e da continui e fierissimi contrasti: armonia, pertanto, che dall'uomo, impotente per sè ad abbracciare tutto il passato, tutto il presente e l'avvenire, ed inoltre turbato continuamente dentro sè stesso, come un mare in tempesta, e soggetto da ultimo alla morte, non può essere gustata; se talvolta non la bestemmi come opera del caso desolante! Per lo meno, egli si trova nella condizione di chi sente un immenso intreccio di note armoniche, delle quali a mala pena può cogliere qualcuna. Ma incelatasi che sarà la terra e passato egli, nel rintegramento di tutto l'esser suo rinnovellato, dal temporaneo all'eterno, in quel novello ordine di cose all'istante si troverà intime e presenti tutte le relazioni dello stesso universo, nell'immensa ed ineffabile luce di Dio, in cui tutte e singole a vicenda si specchieranuo le coscienze, immerse quivi nell'idea infinita, di cui la creazione non fu che un languido raggio.
+Che cos'è di presente la creazione? Sia pur essa un incanto, che sempre ci rapisce fuor di noi stessi, perchè concetto ed opera della sapienza divina; ma, oltre l'inceppamento quaggiù dello spirito nella materia per la colpa che sopravvenne, è un'armonia turbata da profondi disaccordi e da continui e fierissimi contrasti: armonia, pertanto, che dall'uomo, impotente per sè ad abbracciare tutto il passato, tutto il presente e l'avvenire, ed inoltre turbato continuamente dentro sè stesso, come un mare in tempesta, e soggetto da ultimo alla morte, non può essere gustata; se talvolta non la bestemmi come opera del caso desolante! Per lo meno, egli si trova nella condizione di chi sente un immenso intreccio di note armoniche, delle quali a mala pena può cogliere qualcuna. Ma incelatasi che sarà la terra e passato egli, nel rintegramento di tutto l'esser suo rinnovellato, dal temporaneo all'eterno, in quel novello ordine di cose all'istante si troverà intime e presenti tutte le relazioni dello stesso universo, nell'immensa ed ineffabile luce di Dio, in cui tutte e singole a vicenda si specchieranno le coscienze, immerse quivi nell'idea infinita, di cui la creazione non fu che un languido raggio.
 
 Sta scritto in Giobbe, che l'immenso prodigio della creazione, nell'istante medesimo in cui apparve, fu cantato dagli astri mattutini e dai figliuoli di Dio che in essi giubilarono. Quel cantico si compirà il dì dell'universale risorgimento e della tramutazione di tutto il creato dal tempo nell'eterno. Pure avrà anch'esso, quel cantico, una dissonanza; ma una dissonanza che, per la finalità dell'opera di Dio, cioè il pieno trionfo della sua giustizia e della sua misericordia non discordi: imperocchè anche coloro, i quali per sanzione di giustizia verranno inesorabilmente separati dal sommo bene, sperimenteranno l'infinita misericordia nell'eterno loro dolore. Essi, scriveva quella nobilissima intelligenza ed anima tanto affettuosa, che fu Caterina da Genova, sentiranno e confesseranno, « che la dolce bontà di Dio spande il raggio della sua misericordia ancora nell'inferno. Perchè l'uomo, morto in peccato mortale, merita pena infinita, e tempo infinito di essa pena; ma la misericordia di Dio ha fatto solo il tempo della pena infinito e la pena terminata in quantità; imperciocchè giustamente gli avrebbe potuto dar maggior pena che non gli ha data » (*Tratt. del Purg*. cap. IV).

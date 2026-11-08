@@ -17,7 +17,7 @@ In vicesimotertio capitulo, quod incipit: *Sicut avis inter amatas frondes*, auc
 &emsp;In nocte, que res nobis abscondit,
 
 2 Che, per veder gl'aspecti (2) desiati,\
-&emsp;E per trovar lo cibo onde si pasca,\
+&emsp;E per trovar lo cibo onde li pasca,\
 &emsp;In che gravi labor (3) gli son agiati (4),
 
 2 Que, propter videre aspectus desideratos,\
@@ -70,7 +70,7 @@ Continuans autem auctor dicta dicendis, primo describit dispositionem ipsius Bea
 &emsp;Del mio attender, dico, e del vedere\
 &emsp;Lo ciel venir più e più dischiarando.
 
-6 Sed puucum fuit inter unum et aliud quando,\
+6 Sed paucum fuit inter unum et aliud quando,\
 &emsp;De meo expectare, dico, et de videre:\
 &emsp;Celum vidi ego venire plus et plus clarificando.
 
@@ -250,7 +250,7 @@ Modo excusat se auctor si non plene describit Ecclesiam triumphantem, maxime Chr
 
 25 Quivi è la rosa, in che'l Verbo divino\
 &emsp;Carne si fece; e quivi son li gigli,\
-&emsp;Al cui odor s'aperse'l bel cammino.
+&emsp;Al cui odor si prese'l bel cammino.
 
 25 Ibi est rosa, ubi Verbum divinum\
 &emsp;Carnem se fecit; ibi sunt lilia,\
@@ -352,13 +352,13 @@ Modo describit auctor dulcedinem cantus, quem cantavit Gabriel coram Virgine, pe
 
 33 Quecumque melodia, que magis dulciter sonat\
 &emsp;Hic inferius, et que plus ad se animam trahit,\
-&emsp;Appareret nubes que lacerata sonat,
+&emsp;Appareret nubes que lacerata tonat,
 
 34 Comparata al sonar di quella lyra,\
 &emsp;Onde si coronava el bel zaphyro,\
 &emsp;Del qual el ciel più chiaro s'inzaphyra.
 
-34 Comparata ad sonum unius lire,\
+34 Comparata ad sonum illius lire,\
 &emsp;Unde coronabatur pulcher zaphirus,\
 &emsp;De quo celum magis clarum zaphiratur.
 
@@ -379,7 +379,7 @@ Modo describit auctor dulcedinem cantus, quem cantavit Gabriel coram Virgine, pe
 &emsp;Magis speram supremam, et ipse illam intret.
 
 37 Così la circulata melodia\
-&emsp;Sì rigirava, e tutti gl'altri lumi\
+&emsp;Si sigillava, e tutti gl'altri lumi\
 &emsp;Facea sonar lo nome di Maria.
 
 37 Sic circulata melodia\
@@ -388,7 +388,7 @@ Modo describit auctor dulcedinem cantus, quem cantavit Gabriel coram Virgine, pe
 
 38 Lo real manto di tutti e volumi\
 &emsp;Del mondo, che più ferve e più s'avviva\
-&emsp;Nell'habito di Dio e ne'costumi,
+&emsp;Nell'alito di Dio e ne'costumi,
 
 38 Regale mantum omnium voluminum\
 &emsp;Mundi, quod magis fervet et magis vivificatur\
@@ -431,7 +431,7 @@ Ideo non habuerunt oculi mei potentiam sequi coronatam flammam, idest Virginem M
 &emsp;Propter animum qui usque ad dextrum locum inflammatur:
 
 42 Ciascun di quei candor in su si stese\
-&emsp;Co'la sua fiamma, sì che l'alto affecto\
+&emsp;Co'la sua cima, sì che l'alto affecto\
 &emsp;Ch'avevan a Maria mi fu palese.
 
 42 Sic quilibet illorum cantorum se extendit\
@@ -442,7 +442,7 @@ Ideo non habuerunt oculi mei potentiam sequi coronatam flammam, idest Virginem M
 &emsp;Regina celi cantando sì dolce,\
 &emsp;Che mai da me non si parte'l dilecto.
 
-43 Inde remunsere ibi in meo conspectu,\
+43 Inde remansere ibi in meo conspectu,\
 &emsp;Regina celi cantando ita dulciter,\
 &emsp;Quod unquam a me non recessit illa delectatio.
 
@@ -450,7 +450,7 @@ Ideo non habuerunt oculi mei potentiam sequi coronatam flammam, idest Virginem M
 &emsp;In quell'arche richissime, che foro\
 &emsp;A seminar quaggiù buone bobolce!
 
-44 O quantum est ubertas, que suffulcitur\
+44 O quanta est ubertas, que suffulcitur\
 &emsp;In illis archis ditissimis, que fuerunt\
 &emsp;Ad seminandum hic inferius bone bubulce!
 
@@ -493,7 +493,7 @@ Se divinamente bella e commoventissima è la preghiera, che il Poeta nella chius
 Umile ed alta più che creatura,\
 Termine fisso d'eterno consiglio,
 
-perchè ella, alle preghiere di lui, gli ottenga da Dio, a cui è madre, il trar profitto a salute della triplice visione avuta, e con ciò ci fa conoscere di quale vivo e profondo affetto l'amasse, come figlio tenerissimo la propria genitrice; questo medesimo suo vivo e profondo affetto non si appalesa meno nell'arte mirabile, con cui in questo canto ventesimoterzo celebra l'ufficio pietoso, che ella ha, d'impetrar perdono e grazia ai raminghi figliuoli d'Eva, esuli in questa valle di dolore. Egli trova immagini cosi belle, così proprie, così nuove e divine, che ti par trovarti in una primavera celeste, e nascere a vita non peranco conosciuta. Idee e stile s'informano d'una semplicità che tocca il sublime; e leggendo ti senti trasportato in una luce cosi pura e trascendente, che l'anima se ne imparadisa. La quale luce esce da una Rosa, tutta attorniata di angelici cori, i quali adorano il Verbo divino in lei fattosi carne, ed è luce che empie di sè tutta l'eternale magione. Nessun commento potrebbe mai agguagliare i versi del Poeta, informati alla sublimità dond'ebbe l'inspirazione; e dalla terzina ventisettesima,
+perchè ella, alle preghiere di lui, gli ottenga da Dio, a cui è madre, il trar profitto a salute della triplice visione avuta, e con ciò ci fa conoscere di quale vivo e profondo affetto l'amasse, come figlio tenerissimo la propria genitrice; questo medesimo suo vivo e profondo affetto non si appalesa meno nell'arte mirabile, con cui in questo canto ventesimoterzo celebra l'ufficio pietoso, che ella ha, d'impetrar perdono e grazia ai raminghi figliuoli d'Eva, esuli in questa valle di dolore. Egli trova immagini così belle, così proprie, così nuove e divine, che ti par trovarti in una primavera celeste, e nascere a vita non peranco conosciuta. Idee e stile s'informano d'una semplicità che tocca il sublime; e leggendo ti senti trasportato in una luce così pura e trascendente, che l'anima se ne imparadisa. La quale luce esce da una Rosa, tutta attorniata di angelici cori, i quali adorano il Verbo divino in lei fattosi carne, ed è luce che empie di sè tutta l'eternale magione. Nessun commento potrebbe mai agguagliare i versi del Poeta, informati alla sublimità dond'ebbe l'inspirazione; e dalla terzina ventisettesima,
 
 Come a raggio di sol che puro mei,
 
@@ -518,19 +518,19 @@ Manifesta poi la commozione del suo cuore, nell'ineffabile diletto che mostra di
 
 Facean sonar lo nome di Maria;
 
-e nel dipingerci con tanto e si caro sentimento l'atto, con cui gli spiriti, fra i quali s'incontrava, alzarono gli sguardi verso la Madre divina, come la videro spingersi più in alto verso del suo Figliuolo: in quell'atto esprime il Poeta la dolce pena che di quell'allontanamento sentiva il suo cuore.
+e nel dipingerci con tanto e sì caro sentimento l'atto, con cui gli spiriti, fra i quali s'incontrava, alzarono gli sguardi verso la Madre divina, come la videro spingersi più in alto verso del suo Figliuolo: in quell'atto esprime il Poeta la dolce pena che di quell'allontanamento sentiva il suo cuore.
 
 E come fantolin, che in vèr la mamma\
 Tende le braccia poi che'l latte prese,\
 Per l'animo che'nfin di fuor s'infiamma;\
 Ciascun di quei candori in su si stese\
-Con la sua cima si, che l'alto affetto\
+Con la sua cima sì, che l'alto affetto\
 Ch'egli aveano a Maria mi fu palese.
 
 Allora essi cantano *Regina coeli*, quasi a compenso di quella lontananza, ed egli non se ne sente minor conforto.
 
 Indi rimaser lì nel mio cospetto,\
-*Regina coeli* cantando si dolce,\
+*Regina coeli* cantando sì dolce,\
 Che mai da me non si partì'l diletto.
 
 Da ultimo non è meno piena di fede e di pietà la conclusione:

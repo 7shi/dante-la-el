@@ -48,7 +48,7 @@ In quarta, que incipit ibi:
 
 Michi apparebat eundo; A me appareva andando,
 
-auctor facit expressam mentionem de quodam spiritu summe invido. Primo tamen auctor continuat dicta dicendis. Quoniam in fine capituli precedentis auctor dixit uod ad introytum huius circuli erat una scala ut ascensus esset facilior, ideo dicit: Nos eramus in summitate scalarum, ubi secundario religatur, ubi cingitur (idest ubi est secundus circulus) mons, quem ascendendo alios dismalat, idest a malo exonerat, sive purgat. Vult dicere auctor: Iam perveneramus ad introytum huius vie, per quam incipitur iri sursum, per secundum circulum; nam ligata est secunda cornix cum prima. Talis mons purgat hominem, qui peccavit in vitio invidie, et hoc fit ascendendo, quia per Purgatorium semper ascenditur, sicut per Infernum semper descenditur.
+auctor facit expressam mentionem de quodam spiritu summe invido. Primo tamen auctor continuat dicta dicendis. Quoniam in fine capituli precedentis auctor dixit quod ad introytum huius circuli erat una scala ut ascensus esset facilior, ideo dicit: Nos eramus in summitate scalarum, ubi secundario religatur, ubi cingitur (idest ubi est secundus circulus) mons, quem ascendendo alios dismalat, idest a malo exonerat, sive purgat. Vult dicere auctor: Iam perveneramus ad introytum huius vie, per quam incipitur iri sursum, per secundum circulum; nam ligata est secunda cornix cum prima. Talis mons purgat hominem, qui peccavit in vitio invidie, et hoc fit ascendendo, quia per Purgatorium semper ascenditur, sicut per Infernum semper descenditur.
 
 Modo describitur via. Ibi sic una cornix ligat, vel ligatur, circum podium, idest collem, vel montem, sicut primaria; nisi quod arcus suus magis cito plicatur, idest brevior est; ita quod ista secunda cornix erat similis prime, licet sit aliquantulum strictior.
 
@@ -92,7 +92,7 @@ Nota quod auctor bene fingit hic, quod non est hic signum aliquod; ad denotandum
 
 8 Quanto di qua per un miglo si conta,\
 &emsp;Tanto di là eravamo già iti,\
-&emsp;Com poco tempo, per la vogla pronta.
+&emsp;Con poco tempo, per la vogla pronta.
 
 8 Quantum abhinc per unum milliare computatur,\
 &emsp;Tantum ab illa parte iveramus nos iam,\
@@ -192,7 +192,7 @@ Frenum vult, idest debet, esse contrarii soni: credo quod audies secundum meam y
 &emsp;Respexi ante me, et vidi umbras cum mantellis\
 &emsp;A colore petre non diversis.
 
-17 E poi che fummo um poco più avanti,\
+17 E poi che fummo un poco più avanti,\
 &emsp;Udi' gridar (2): Maria, ora per noi,\
 &emsp;(3) Gridar (4), Michele (5), Pietro, e (6) tutt'i Santi.
 
@@ -234,7 +234,7 @@ Frenum vult, idest debet, esse contrarii soni: credo quod audies secundum meam y
 
 (1) ma simili. — (2) o. — (3) udii. — (4) o. — (5) o. — (6) o. — (7) anco oggi. — (8) al. quel
 
-*Sed fige visum per aierem*. *Ma ficca el viso per l'aiere*: hec est tertia pars huius cupituli, in qua auctor ponit modum, per quem purgantur invidi, quia invidia est dolor de felicitate aliena et livor odiosus. Ideo auctor fingit, quod hic in plano stant invidi ad sedendum, ne discurrant: 2° appodiati ad ripam: 3° sustinent unus alterum a tergo: 4° omnes habent oculos su[t]os cum filo ferreo ne possint videre: 5° orant pro aliis devoti: 6° sunt induti cilicio. Hec sunt sex, que omnia aliquid moraliter denotant. Nam, primo, stant ad sedendum, per contrarium ad invidos, qui semper discurrunt ad videndum si possent detrahere felicitati aliene: ergo, si vis purgare invidiam, noli discurrere pro infamando alios, sed sede et facta tua fac prudenter. Secundo, stant appodiati ad montem, idest ad virtutem, a qua erant remoti, quia invidia retrahit a subiecto virtutis. Tertio, alter sustinet alterum, quia ubi invidus solebat querere alienum honorem et statum, hic porrigit manum adiutricem dictis et factis. Habent hic invidi oculos sutos filo ferreo, quia invidia generatur maxime videndo, propter videre: ergo si vis curare invidiam, sue tibi oculos, ut non videas aliena facta per modum quod habeas invidiam. Orant pro salute aliena, ubi in mundo optaverunt ruinam aliorum. Habent cilicia, ubi prius habebant vestem superbam, quia invidia, ut dictum est, est filia superbie et vaneglorie; et sic stant nunc in humilitate. Sed fige visum per aierem bene fixum, et videbis gentes ante nos sedere; et quilibet est iuxta gruptam, idest ripam, assisus, idest appodiatus, et adherens.
+*Sed fige visum per aierem*. *Ma ficca el viso per l'aiere*: hec est tertia pars huius capituli, in qua auctor ponit modum, per quem purgantur invidi, quia invidia est dolor de felicitate aliena et livor odiosus. Ideo auctor fingit, quod hic in plano stant invidi ad sedendum, ne discurrant: 2° appodiati ad ripam: 3° sustinent unus alterum a tergo: 4° omnes habent oculos su[t]os cum filo ferreo ne possint videre: 5° orant pro aliis devoti: 6° sunt induti cilicio. Hec sunt sex, que omnia aliquid moraliter denotant. Nam, primo, stant ad sedendum, per contrarium ad invidos, qui semper discurrunt ad videndum si possent detrahere felicitati aliene: ergo, si vis purgare invidiam, noli discurrere pro infamando alios, sed sede et facta tua fac prudenter. Secundo, stant appodiati ad montem, idest ad virtutem, a qua erant remoti, quia invidia retrahit a subiecto virtutis. Tertio, alter sustinet alterum, quia ubi invidus solebat querere alienum honorem et statum, hic porrigit manum adiutricem dictis et factis. Habent hic invidi oculos sutos filo ferreo, quia invidia generatur maxime videndo, propter videre: ergo si vis curare invidiam, sue tibi oculos, ut non videas aliena facta per modum quod habeas invidiam. Orant pro salute aliena, ubi in mundo optaverunt ruinam aliorum. Habent cilicia, ubi prius habebant vestem superbam, quia invidia, ut dictum est, est filia superbie et vaneglorie; et sic stant nunc in humilitate. Sed fige visum per aierem bene fixum, et videbis gentes ante nos sedere; et quilibet est iuxta gruptam, idest ripam, assisus, idest appodiatus, et adherens.
 
 Tunc plus quam prius oculos apperui, respexi ante me, et vidi umbras cum mantellis a colore petre non diversis, quia erant ibi mantelli coloris lapidei.
 
@@ -254,7 +254,7 @@ De vili cilicio michi apparebant cooperti; et unus sufferebat, idest sustinebat,
 &emsp;Non solum propter [sonum] verborum,\
 &emsp;Sed propter visum qui non minus agognat.
 
-23 E com'agl'ochi non approda el sole,\
+23 E com'agl'orbi non approda el sole,\
 &emsp;Così all'ombre, quivi ov' io parlo hora,\
 &emsp;Luce del ciel di sè largir non vole;
 
@@ -512,7 +512,7 @@ Sed tu quisquis es, qui nostras conditiones vadis interrogando, et portas oculos
 
 49 O quest' è a udir sì cosa nova,\
 &emsp;Che gran segno pretende che Dio t'ami;\
-&emsp;Però col pregio tuo talhor mi giova
+&emsp;Però col priego tuo talhor mi giova
 
 49 Or ista est ad audiendum res nova,\
 &emsp;Respondit, quod grande signum est quod Deus te amet:\
@@ -558,7 +558,7 @@ le quali nel secondo balzo del Purgatorio scontano la colpa dell'invidia, che no
 
 E poi che fummo un poco più avanti, Udi' gridar: Maria, ora per noi; Gridar: Michele, e Pietro, e tutti i Santi.
 
-Questa preghiera delle meschine, dapprima a Maria, vera madre di Dio, potentissima per intercessione appresso il suo Figliuolo; poi a Michele, capo di tutte le celesti milizie e nostro special difensore contro Satana, finchè restiam quaggiù in prova, e specialmente nell'ora estrema della nostra vita; quindi a Pietro, a cui Cristo affidava la suprema potestà della sua Chiesa per la dispensazione de' meriti infiniti, co' quali ci redense; e finalmente a tutti i Santi, perchè anch' essi ne avvalorino il pronto e pieno effetto; questa preghiera, diciamo, delle meschine, di vil cilicio coperte, reggentisi l'una coll'altra, come i ciechi che stanno uniti a chieder carità ne' perdoni; cieche per un fil di ferro che lor fora il ciglio, perchè raggio di luce celeste non penetri a rallegrarle: ci mostra, nell'intendimento del Poeta, l'ineffabile profondità del dolore che le strazia; massimamente « per l'opposizione (dice Caterina da Genova) che si trovano di avere contro la volontà di Dio, il quale veggono chiaramente acceso di uno estremo e puro amore verso di loro...; amore, *che* con quell'unitivo *suo* sguardo tira sì forte di continuo, come se altro che questo non avesse a fare. Perciò esse, questo veggendo, se trovassero un altro Purgatorio sopra quello, per potersi levar più presto tanto impedimento, ben tosto vi si gitterebber dentro per l'impeto di quell'amor conforme tra Dio e loro. » (*Tratt. del Purg*. cap. IX.) Esprimono, insomma, la terribile forza del desiderio che le tira, e la corrispondente pena che ne sentono, invocando, benchè in quanto a sè senza frutto, tutta l'intercessione, che per mezzo nostro, i quali siamo ancora nella terrena prova, può recar loro sollievo. Ed è pena tanto più ineffabile (continua la Santa) in quanto che esse veggono la divina essenza esser di tanta purità e nettezza, che rimanendo in esse tanta imperfezione quanta sarebbe una minima busca, si getterebbero più presto in mille inferni, che trovarsi in presenza della divina maestà con quella macchia (Ibid. cap. VIII). E pero il Poeta mette lor sulle labbra le Litanie dei Santi; solenne preghiera, instituita dalla Chiesa a implorar la pietà divina nelle maggiori tribolazioni della società cristiana.
+Questa preghiera delle meschine, dapprima a Maria, vera madre di Dio, potentissima per intercessione appresso il suo Figliuolo; poi a Michele, capo di tutte le celesti milizie e nostro special difensore contro Satana, finchè restiam quaggiù in prova, e specialmente nell'ora estrema della nostra vita; quindi a Pietro, a cui Cristo affidava la suprema potestà della sua Chiesa per la dispensazione de' meriti infiniti, co' quali ci redense; e finalmente a tutti i Santi, perchè anch' essi ne avvalorino il pronto e pieno effetto; questa preghiera, diciamo, delle meschine, di vil cilicio coperte, reggentisi l'una coll'altra, come i ciechi che stanno uniti a chieder carità ne' perdoni; cieche per un fil di ferro che lor fora il ciglio, perchè raggio di luce celeste non penetri a rallegrarle: ci mostra, nell'intendimento del Poeta, l'ineffabile profondità del dolore che le strazia; massimamente « per l'opposizione (dice Caterina da Genova) che si trovano di avere contro la volontà di Dio, il quale veggono chiaramente acceso di uno estremo e puro amore verso di loro...; amore, *che* con quell'unitivo *suo* sguardo tira sì forte di continuo, come se altro che questo non avesse a fare. Perciò esse, questo veggendo, se trovassero un altro Purgatorio sopra quello, per potersi levar più presto tanto impedimento, ben tosto vi si gitterebber dentro per l'impeto di quell'amor conforme tra Dio e loro. » (*Tratt. del Purg*. cap. IX.) Esprimono, insomma, la terribile forza del desiderio che le tira, e la corrispondente pena che ne sentono, invocando, benchè in quanto a sè senza frutto, tutta l'intercessione, che per mezzo nostro, i quali siamo ancora nella terrena prova, può recar loro sollievo. Ed è pena tanto più ineffabile (continua la Santa) in quanto che esse veggono la divina essenza esser di tanta purità e nettezza, che rimanendo in esse tanta imperfezione quanta sarebbe una minima busca, si getterebbero più presto in mille inferni, che trovarsi in presenza della divina maestà con quella macchia (Ibid. cap. VIII). E però il Poeta mette lor sulle labbra le Litanie dei Santi; solenne preghiera, instituita dalla Chiesa a implorar la pietà divina nelle maggiori tribolazioni della società cristiana.
 
 E qui cade a proposito ricordare le due terzine del canto precedente, dove il Poeta, salito da un girone all'altro, dice:
 

@@ -208,7 +208,7 @@ Inter turpes porcos, magis dignos gallis, idest glandibus, quam alio cibo facto 
 
 18 Discesa poi per più pelaghi cupi,\
 &emsp;Trova le volpi (5) sì piene di froda,\
-&emsp;Che non trovan ingegno che le occupi (6).
+&emsp;Che non temono ingegno che le occupi (6).
 
 18 Desce[n]sa postea per plures pelagos cupos,\
 &emsp;Reperit vulpes ita plenas fraudibus,\
@@ -262,7 +262,7 @@ Sanguinolentus exit de tristi silva; dimictit eam talem, quod tunc ad mille anno
 
 23 Come all'annuntio de' futuri (1) danni\
 &emsp;Si turba'l viso di colui ch'ascolta,\
-&emsp;Da quel che parte el perigo e gl'affanni;
+&emsp;Da quel che parte el perigo e l'assanni;
 
 23 Sicut [ad] annuntiationem dolorosorum dampnorum\
 &emsp;Turbatur visus illius qui auscultat,\
@@ -308,7 +308,7 @@ Sanguinolentus exit de tristi silva; dimictit eam talem, quod tunc ad mille anno
 &emsp;Quod si vidissem hominem fieri letum,\
 &emsp;Vidisses me de livore conspersum.
 
-29 Seme d'invidia cotal pigla mieto (6).\
+29 Di mia semenza cotal paglia mieto (6).\
 &emsp;O gent'humana, perchè poni 'l core\
 &emsp;Ov'è mestier di consorte divieto?
 
@@ -332,7 +332,7 @@ Sicut ad annuntium, idest annuntiationem dolorosorum, idest dolentium, dampnorum
 
 Ex quo, spiritus qui prius loquutus michi erat, scilicet spiritus Guidonis, reincepit, scilicet loqui: Tu vis quod ego me deducam ad faciendum tibi id quod tu facere non vis michi: idest rogavi te, quod tu diceres michi nomen tuum, et tu noluisti; unde non deberem tibi respondere: sed tamen tibi dicam: et causa est, propter gratiam, que lucet in te: sed postquam Deus vult quod in te tralucat, idest intus luceat, tantum sua gratia, non ero tibi parcens: Ergo scias, quod ego sum Guido del Duca, idest de Duce, et narrat primo vitium suum.
 
-Fuit sanguis meus ita accensus invidia, quod si vidissem hominem fieri letum, vidissem me de livore conspersum. Efficiebatur lividus totus de prosperitate aliena, quod evenit ab invidia; sed ostendit fructum talis invidie, dicens: De meo semine, idest de invidia, quam habui, tales paleas recolligo, idest meto. O gens humana, quare ponis cor, idest quare apponis cor, in hiis, que essent omnino respuenda, idest ibi ubi esset necesse de consortibus divetum, idest consortibus vacuari, idest consortibus carere ? Idest, o gens humana, exselamando dicit contra invidos, quare ponis cogitationes tuas in bonis temporalibus, que non possunt lete possideri cum sotietate, quia quilibet vellet habere totum, et cum nullo dividere vellet, et si unus haberet totum, alter nihil possideret?
+Fuit sanguis meus ita accensus invidia, quod si vidissem hominem fieri letum, vidissem me de livore conspersum. Efficiebatur lividus totus de prosperitate aliena, quod evenit ab invidia; sed ostendit fructum talis invidie, dicens: De meo semine, idest de invidia, quam habui, tales paleas recolligo, idest meto. O gens humana, quare ponis cor, idest quare apponis cor, in hiis, que essent omnino respuenda, idest ibi ubi esset necesse de consortibus divetum, idest consortibus vacuari, idest consortibus carere ? Idest, o gens humana, exclamando dicit contra invidos, quare ponis cogitationes tuas in bonis temporalibus, que non possunt lete possideri cum sotietate, quia quilibet vellet habere totum, et cum nullo dividere vellet, et si unus haberet totum, alter nihil possideret?
 
 Postquam Guido de Duce de Bertennorio dixit nomen suum, iam vult indicare nomen sotii sui, et dicit: Iste est
 
@@ -375,7 +375,7 @@ Et primo nominat Litium. Hic Litius fuit nobilis miles de Valle Bona, supra Forl
 &emsp;Verga gentil di picciola gramigna?
 
 34 Quando in Bononia unus Faber ralignatur?\
-&emsp;Quando in Farentia unus Bernardinus de Fusco,\
+&emsp;Quando in Faventia unus Bernardinus de Fusco,\
 &emsp;Virga gentilis parve graminee?
 
 35 Non ti maraviglar, s'io piango (1), Tosco,\
@@ -476,7 +476,7 @@ Bene facit Bagnacavallum, oppidum in Romandiola sic dictum, in quo erant multi v
 
 (1) est. — (2) che. — (3) andando oltra. — (3) di Caym.
 
-Bene facient Pagani, domus nobilis de Romandiola, postquam demonium eorum recedet; sed non tamen quin purum unquam remaneat ex ipsis testimonium. Nota quod Maginardus Paganus, idest de domo Paganorum, orbatus patre suo Pagano, sic nominato, remansit pupillus in suo territorio, sive dominio, quod hodierna die vocatur *El Podere de Pagani*, de quo dictum est in Inferno capitulo vicesimoprimo. Qui, propter beneficium quod receperat a Florentinis, semper tenuit cum eis partem guelfam, et pro eis ubique erat contra Gebellinos; aliter tamen de natura erat gebellinus: et ideo in Faventia, in Ymola erat gebellinus, in Tuscia erat guelfus; et hoc erat sibi ad infamiam, qued in uno loco esset guelfus et in alio gebellinus. Ideo dicit textus: Bene facient Pagani, idest de domo Paganorum, postquam demonium eorum, idest postquam domus eorum, deficiet, quia nemo de tali domo remansit; sed non tamen, quin purum, idest malum, remaneat (per antifrasim loquitur), ex ipsis testimonium, propter variationem in partibus gebellina et guelfa.
+Bene facient Pagani, domus nobilis de Romandiola, postquam demonium eorum recedet; sed non tamen quin purum unquam remaneat ex ipsis testimonium. Nota quod Maginardus Paganus, idest de domo Paganorum, orbatus patre suo Pagano, sic nominato, remansit pupillus in suo territorio, sive dominio, quod hodierna die vocatur *El Podere de Pagani*, de quo dictum est in Inferno capitulo vicesimoprimo. Qui, propter beneficium quod receperat a Florentinis, semper tenuit cum eis partem guelfam, et pro eis ubique erat contra Gebellinos; aliter tamen de natura erat gebellinus: et ideo in Faventia, in Ymola erat gebellinus, in Tuscia erat guelfus; et hoc erat sibi ad infamiam, quod in uno loco esset guelfus et in alio gebellinus. Ideo dicit textus: Bene facient Pagani, idest de domo Paganorum, postquam demonium eorum, idest postquam domus eorum, deficiet, quia nemo de tali domo remansit; sed non tamen, quin purum, idest malum, remaneat (per antifrasim loquitur), ex ipsis testimonium, propter variationem in partibus gebellina et guelfa.
 
 Nunc fit mentio de spiritu, qui fuit spiritus Ugolini de Fantulinis, nobili domo de Faventia, qui fuit strenuus vir, liberalis, curialis, et bonus. Mortuus est cum optimo nomine et optima fama, et nullus successit sibi ita bonus; ideo nomen suum et fama est securum, sive secura, quia nemo poterit auferre ab eo talem bonam famam.
 
@@ -516,7 +516,7 @@ Postquam fuimus facti soli, idest recessimus ab illis umbris, et soli duo nos pr
 
 48 Già era l'aura d'ogni parte cheta,\
 &emsp;Et el mi disse: Quel fu 'l duro camo (5),\
-&emsp;Che dovria l'hom tener dentr'a suo meta (6).
+&emsp;Che dovria l'hom tener dentr'a sua meta (6).
 
 48 Iam erat aura ex omni parte quieta,\
 &emsp;Et ipse michi dixit: Ille fuit durus camminus,\
@@ -578,11 +578,11 @@ Dalla natura dunque de' beni di quaggiù e dal disordine delle nostre potenze ri
 
 Ciò, a dir vero, sarebbe stato, benchè non pienamente, anche quaggiù, se l'armonia dell'amore, che doveva tener unita tutta l'umana discendenza al conseguimento del suo fine, non fosse stata rotta dalla colpa. Ma dopo tal fatto, le terrene cose dividono; e similmente il loro amore: perchè, non più considerate come bene di tutti in ordine al conseguimento del bene sommo ed eterno, la loro spartizione in più, ne spartisce non solo, ma ne rende isolato, egoistico, il godimento; e se non fossero spartite, nessun ne goderebbe. Quindi inevitabili le dissensioni, le ire, le guerre, dell'una città con l'altra, dell'una coll'altra nazione.
 
-Tanto, in modo pauroso, avvenne in Italia al tempo di Dante, quando quelle sì fiorenti e felici Repubbliche si tramutarono come in covi di belve feroci. Egli allora non vide altro rimedio che il richiamar le menti al cielo, piangendo che l'umanità per le ombre di quaggiù dimenticasse quell'unità suprema, che è l'archetipo, l'espressione e l'origine intellettuale e reale d'ogni bene, la sola che potrà far pago il nostro cuore: il quale vuole insieme possesso e liberta, comunanza e particolarità, singolarità ed universalità, pluralità ed unità; il che in modo perfetto sarà unicamente in Dio, tutto di ciascuno, e tutto di tutti, interamente posseduto, e tutto da tutte e da ciascuna delle cose di quaggiù bensì significato, ma solo come da simboli, da vestigi, da ombre appena della sua realtà infinita. Chi vi badi, era questa l'unica considerazione, che poteva richiamar l'Italia a sè stessa, cioè a quell'ordinamento di virtù, da essa perduto, che solo può dare alle nazioni grandezza e potenza vera, per cui, ciascuna e tutte, conseguano il fine lor prefisso dal Creatore. Deh! cessate, e porgete ascolto al cielo, che
+Tanto, in modo pauroso, avvenne in Italia al tempo di Dante, quando quelle sì fiorenti e felici Repubbliche si tramutarono come in covi di belve feroci. Egli allora non vide altro rimedio che il richiamar le menti al cielo, piangendo che l'umanità per le ombre di quaggiù dimenticasse quell'unità suprema, che è l'archetipo, l'espressione e l'origine intellettuale e reale d'ogni bene, la sola che potrà far pago il nostro cuore: il quale vuole insieme possesso e libertà, comunanza e particolarità, singolarità ed universalità, pluralità ed unità; il che in modo perfetto sarà unicamente in Dio, tutto di ciascuno, e tutto di tutti, interamente posseduto, e tutto da tutte e da ciascuna delle cose di quaggiù bensì significato, ma solo come da simboli, da vestigi, da ombre appena della sua realtà infinita. Chi vi badi, era questa l'unica considerazione, che poteva richiamar l'Italia a sè stessa, cioè a quell'ordinamento di virtù, da essa perduto, che solo può dare alle nazioni grandezza e potenza vera, per cui, ciascuna e tutte, conseguano il fine lor prefisso dal Creatore. Deh! cessate, e porgete ascolto al cielo, che
 
 . . . . intorno vi si gira\
 Mostrandovi le sue bellezze eterne.
 
 Or non sentite che vi percuote, perchè l'avete posto in dimenticanza? Oh! se l'Italia anch'oggi porgesse ascolto all'amoroso grido del suo Poeta immortale!
 
-E che questo nostro voto non sia un fuori di luogo, ci par lo dicano le seguenti parole del Tommaseo: « In questo canto (egli scriveva), ove trattasi dell'uguale godimento de' beni, e nel diciottesimo dove della libertà dell'umano volere, Virgilio, dichiarata filosoficamente la cosa, promette a Dante da Beatrice spiegazioni maggiori; perchè veramente queste due grandi questioni, da cui pende la moralità tutta e la storia, non puo la virtù e scienza umana sciorle nè in dottrina nè in fatto: ma vuolsi un'algebra divina, che concilii le contraddizioni apparenti dell'idea, e quelle piu gravi che dalle passioni frappongonsi nella vita. »
+E che questo nostro voto non sia un fuori di luogo, ci par lo dicano le seguenti parole del Tommaseo: « In questo canto (egli scriveva), ove trattasi dell'uguale godimento de' beni, e nel diciottesimo dove della libertà dell'umano volere, Virgilio, dichiarata filosoficamente la cosa, promette a Dante da Beatrice spiegazioni maggiori; perchè veramente queste due grandi questioni, da cui pende la moralità tutta e la storia, non può la virtù e scienza umana sciorle nè in dottrina nè in fatto: ma vuolsi un'algebra divina, che concilii le contraddizioni apparenti dell'idea, e quelle più gravi che dalle passioni frappongonsi nella vita. »

@@ -40,7 +40,7 @@ Quivi il lasciammo:
 
 Hic eum dimisimus,
 
-ponuntur signa, per que mostratur sibi civitas Inferni. In quarta, que incipit ibi:
+ponuntur signa, per que monstratur sibi civitas Inferni. In quarta, que incipit ibi:
 
 Io vidi più di mille; Ego vidi plus quam mille,
 
@@ -198,7 +198,7 @@ Collum meum postmodum cum brachiis me magister cinxit; osculabatur michi vultum,
 
 <!-- p. 113 (0167) -->
 
-16 Quei fu al mondo persona orgoglosa:\
+16 Quei fu al mondo persona orgogliosa:\
 &emsp;Bontà non è che sua memoria fregi:\
 &emsp;Così s'è l'ombra sua (1) qui furiosa.
 
@@ -300,7 +300,7 @@ benedicta illa, que in te s'encense. Virgilius iustificat quidquid fecit hic Dan
 &emsp;Qui intus eas ignitat, ostendit eas rubeas,\
 &emsp;Prout vides, in isto infimo Inferno.
 
-26 Noi pur giugnemmo dentro all'altre fosse,\
+26 Noi pur giugnemmo dentro alte fosse,\
 &emsp;Che vallan quella terra sconsolata:\
 &emsp;Le mura mi parean che ferro fosse.
 

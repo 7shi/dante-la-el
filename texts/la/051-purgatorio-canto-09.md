@@ -108,15 +108,15 @@ Trascie insule, in qua est gens cruda et ferox, accepit in uxorem primam filiam 
 &emsp;Derelicti sui a Ganimede,\
 &emsp;Quando fuit raptus ad summum consistorium.
 
-9 Fra me pensava: Forse questa siede\
+9 Fra me pensava: Forse questa fiede\
 &emsp;Pur qui per uso, e forse d'altro loco\
-&emsp;Disdegnan di portarne suso in piede.
+&emsp;Disdegna di portarne suso in piede.
 
 9 Infra me cogitabam: Forsan ista ferit\
 &emsp;Solum hic pro usu, et forsan de alio loco\
 &emsp;Dedignatur portare sursum in pedibus.
 
-10 Poi mi parea, che giù rotata un poco,\
+10 Poi mi parea, che più rotata un poco,\
 &emsp;Terribil come folgor descendesse,\
 &emsp;E me rapisse suso infin al fuoco.
 
@@ -124,7 +124,7 @@ Trascie insule, in qua est gens cruda et ferox, accepit in uxorem primam filiam 
 &emsp;Terribilis sicut fulgur descenderet,\
 &emsp;Et me raperet sursum usque ad ignem.
 
-11 Ivi parea che d'ella et io ardesse,\
+11 Ivi parea che ch'ella et io ardesse,\
 &emsp;E sì l'incendio imaginato cosse,\
 &emsp;Che convenne che 'l sonno si rompesse.
 
@@ -286,7 +286,7 @@ Ad similitudinem hominis, qui in dubio certificatur, et qui mutat in confortatio
 &emsp;Pro eundo ad illam, de coloribus diversis,\
 &emsp;Et unum portanarium qui adhuc non faciebat verbum.
 
-27 Come l'ochio più e più v'apersi,\
+27 E come l'ochio più e più v'apersi,\
 &emsp;Vidil seder sopra'l grado sovrano,\
 &emsp;Tal ne la faccia, ch'io nol soffersi:
 
@@ -404,7 +404,7 @@ Dicite inde, quid vultis vos? Incepit ipse dicere; ubi est scorta, idest conduct
 
 Domina de celo, de istis rebus ac[c]orta, idest accertata, sive previsa et cauta, respondit magister intus ad eum, paulo ante nobis dixit: Ite illuc: ibi est porta.
 
-Et ipsa vestros passus in bonum avanzet, idest promoveat, reincepit curialis portanarius: venite igitur nostros gradus ante. Nam sacerdos, [qui] perpendit personam ire cum bona intentione ad contitendum, neminem debet reicere aut excludere, sed dicere: Illa divina gratia, que te conduxit, de bono in melius te faciat procedere.
+Et ipsa vestros passus in bonum avanzet, idest promoveat, reincepit curialis portanarius: venite igitur nostros gradus ante. Nam sacerdos, [qui] perpendit personam ire cum bona intentione ad confitendum, neminem debet reicere aut excludere, sed dicere: Illa divina gratia, que te conduxit, de bono in melius te faciat procedere.
 
 Illuc venimus; et gradus primus albus erat marmor, ita pollitus et tersus, quod ego me speculabar in illo, qualis ego sum, sive qualis appareo.
 

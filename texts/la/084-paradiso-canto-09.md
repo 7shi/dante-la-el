@@ -42,7 +42,7 @@ Primo igitur auctor continuat dicta dicendis, a primo, apostrophando ad Karolum 
 
 <!-- p. 921 (0975) -->
 
-3 E gia la vista di quel lume sancto\
+3 E già la vista di quel lume sancto\
 &emsp;Rivolta s'era al ben che la riempie,\
 &emsp;Com'a quel ben ch'a ogni cosa è tanto.
 
@@ -74,7 +74,7 @@ Primo igitur auctor continuat dicta dicendis, a primo, apostrophando ad Karolum 
 &emsp;Super me, sicut prius, de caro assensu\
 &emsp;Ad meum desiderium certificatum me fecerunt.
 
-7 De! mette al mio voler tosto compenso,\
+7 De! metti al mio voler tosto compenso,\
 &emsp;Beato spirto, dissi, e fammi prova\
 &emsp;Che possa in te riflecter quel ch'io penso.
 
@@ -96,7 +96,7 @@ Et ecce unus alius de illis splendoribus versus me se fecit, idest ad me venit, 
 
 Oculi Beatricis, qui erant firmi super me, scilicet quia intuebantur me fixe, sicut prius, de caro assensu (quia assenserat sibi ut loqueretur) ad meum desiderium, idest de meo desiderio, certificatum me fecerunt; idest, in oculis Beatricis perpendi quod ipsa erat contenta quod ego loquerer cum isto spiritu, sicut ego desiderabam.
 
-De! mictas, idest reponas, meo velle (dativi casus) cito compensum, scilicet compensationem; idest, cito mihi subvenias, beate spiritus, dixi, [et] facias michi provam, idest probationem, vel experentiam, que posset in te reflectere que ego cogito; ut sis contentus, et ut possim tecum loqui illud quod percepi.
+De! mictas, idest reponas, meo velle (dativi casus) cito compensum, scilicet compensationem; idest, cito mihi subvenias, beate spiritus, dixi, [et] facias michi provam, idest probationem, vel experientiam, que posset in te reflectere que ego cogito; ut sis contentus, et ut possim tecum loqui illud quod percepi.
 
 <!-- p. 922 (0976) -->
 
@@ -125,7 +125,7 @@ De! mictas, idest reponas, meo velle (dativi casus) cito compensum, scilicet com
 &emsp;Que fecit contrate unum grandem insultum.
 
 11 D'una radice nacqui et io et ella;\
-&emsp;Cimisa fui chiamata, e qui rifulgo,\
+&emsp;Cunisa fui chiamata, e qui rifulgo,\
 &emsp;Perchè mi vinse el lume de la stella.
 
 11 De una radice nascebar ego et ipsa;\
@@ -150,7 +150,7 @@ De! mictas, idest reponas, meo velle (dativi casus) cito compensum, scilicet com
 
 14 Questo centesimo anno ancor s'incinqua.\
 &emsp;Vedi se far si de' l'huomo excellente,\
-&emsp;Sì ch'altra vita a la prima relinqua!
+&emsp;Sì ch'altra vita la prima relinqua!
 
 14 Iste centesimus annus adhuc quintuplicabitur.\
 &emsp;Videas si homo fieri debet excellens,\
@@ -158,7 +158,7 @@ De! mictas, idest reponas, meo velle (dativi casus) cito compensum, scilicet com
 
 Unde lux, que erat adhuc michi nova (quia nondum erat adhuc sibi nota), de suo profundo, unde ipsa prius cantabat, sequuta est sic, scilicet loquendo, sicut ille, cui bene facere prodest, vel quem bene facere delectat.
 
-In illa parte [terre] prave Ytalice, que sedet, idest situatur, inter Rivum Altum, idest Venetias (quia in Venetiis est unum canale, quod est principalius totius civitatis, et vocatur Rivus Altus), et fontes Brente (Brenta est unus fluvius, qui fluit iuxta Paduam et etiam in parte per Paduam) et Piave (Piava est unum magnum flumen, quod fluit inter Castrum Francum et Tervisium, alio nomine vocatur Prava), elevatur unus collis, et non surgit multum alte, qui[a] est satis humilis collis, unde descendit iam una facella, imo fax magna, que fecit unum grandem insultum contrate, imo maximum. Notandum est, pro intelligentia istius littere, quod in territorio Tervisino unus collis est, super quo fuit unum castrum et adhuc est, quod vocatur Romanum, in quo castro de uno patre et de una matre nascebantur Ezzerinus et Albertus et Cunitia femina. Albertus fuit homo malus, luxuriosus, malus homo, porcus; et tenebat dominium suum in Tervisio; qui propter iniquitates suas fuit interfectus cum tota familia sua. Ista Cunizzia, sive Cunitia, fuit una luxuriosa mulier et inhonesta, et maxime luxuriabatur cum Sordello Mantuano, ut dictum fuit in Purgatorio, capitulo quinto. Ezzerinus fuit pessimus homo, tyrampnus pessimus; fuit magnus in Marchia Tervisina, fuit dominus Tervisi, Padue, Mantue. Brixie; et ausus fuit velle dominare in Mediolano, et ivit ut intraret dominium: non potuit obtinere; sed rediens, captus fuit et trucidatus viliter. Iste fuit maximus homicida, effusor sanguinis: plusquam quinquaginta millia hominum interfecit; in una die fecit interfici duodecim milia hominum Paduanorum; fecit maximas crudelitates in Verona: omnes illos nobiles de Montechie, qui introduxerunt eum in Veronam et fecerunt eum dominum Verone, fecit comburi; multas villas et domos, et in ipsis homines, mulieres, parvulos, fecit cremari. Iste Ezzerinus fuit illa facella, que fecit patrie, sive contrate, magnum insultum.
+In illa parte [terre] prave Ytalice, que sedet, idest situatur, inter Rivum Altum, idest Venetias (quia in Venetiis est unum canale, quod est principalius totius civitatis, et vocatur Rivus Altus), et fontes Brente (Brenta est unus fluvius, qui fluit iuxta Paduam et etiam in parte per Paduam) et Piave (Piava est unum magnum flumen, quod fluit inter Castrum Francum et Tervisium, alio nomine vocatur Piava), elevatur unus collis, et non surgit multum alte, qui[a] est satis humilis collis, unde descendit iam una facella, imo fax magna, que fecit unum grandem insultum contrate, imo maximum. Notandum est, pro intelligentia istius littere, quod in territorio Tervisino unus collis est, super quo fuit unum castrum et adhuc est, quod vocatur Romanum, in quo castro de uno patre et de una matre nascebantur Ezzerinus et Albertus et Cunitia femina. Albertus fuit homo malus, luxuriosus, malus homo, porcus; et tenebat dominium suum in Tervisio; qui propter iniquitates suas fuit interfectus cum tota familia sua. Ista Cunizzia, sive Cunitia, fuit una luxuriosa mulier et inhonesta, et maxime luxuriabatur cum Sordello Mantuano, ut dictum fuit in Purgatorio, capitulo quinto. Ezzerinus fuit pessimus homo, tyrampnus pessimus; fuit magnus in Marchia Tervisina, fuit dominus Tervisi, Padue, Mantue. Brixie; et ausus fuit velle dominare in Mediolano, et ivit ut intraret dominium: non potuit obtinere; sed rediens, captus fuit et trucidatus viliter. Iste fuit maximus homicida, effusor sanguinis: plusquam quinquaginta millia hominum interfecit; in una die fecit interfici duodecim milia hominum Paduanorum; fecit maximas crudelitates in Verona: omnes illos nobiles de Montechie, qui introduxerunt eum in Veronam et fecerunt eum dominum Verone, fecit comburi; multas villas et domos, et in ipsis homines, mulieres, parvulos, fecit cremari. Iste Ezzerinus fuit illa facella, que fecit patrie, sive contrate, magnum insultum.
 
 De una radice nascebar ego et ipsa; Cunitia fui vocata, et hic refulgeo, quia me vicit lumen istius stelle, idest influentia, quia me veneream fecit. Sed lete michi ipsi indulgeo causam meae sortis, idest quod sim hic propter vitium venereum in ipsa stella, et non michi nocet, idest me non vexat; quod appareret, forsan, forte, idest mirum, vulgo vestro, quia mirum videtur quomodo non verecundetur de vitio luxurie, in quo fui[t] involuta.
 
@@ -280,7 +280,7 @@ Propter letitiari, idest letari, ibi, scilicet in celo, fulgur acquiritur, sicut
 
 25 Dio vede tutto, e'l tuo veder s'illuia,\
 &emsp;Diss'io, beato spirto, sì che nulla\
-&emsp;Vogla di sè a te puot'esser suia.
+&emsp;Vogla di sè a te puot'esser fuia.
 
 25 Deus videt totum, et tuum videre inluiatur,\
 &emsp;Dixi ego, beate spiritus, ita quod nihil\
@@ -336,9 +336,9 @@ Propter letitiari, idest letari, ibi, scilicet in celo, fulgur acquiritur, sicut
 
 Deus videt totum, et tuum videre illuminatur, idest intrat, sive penetrat, in eum, scilicet Deum, dixi ego, beate spiritus, ita quod nihil voluntatis illius, idest nulla voluntas eius, Dei, tibi potest esse absconsum; idest, tu vides que Deus vult, intuendo in eum.
 
-E[r]go vox tua, que celum letificat semper cum incantu illorum ignium piorum, idest spirituum seraphicorum, qui de sex alis faciebant cucullam (cuculla est habitus, sive tunica, monachorum; Seraphim cum sex alis depingitur ab Ezechiele, primo capitulo), quare non satisfacit meis desideriis; idest, quare te michi non manifestas, qui desidero te conoscere et scire a te de factis tuis et conditionibus? Iam ego non expectarem tuam petitionem, si ego me intuarem, sicut tu immearis; idest, si ego essem in te, sicut [tu] es in me, idest si ego scirem quid tu velles, sicut tu scis et vides in me quid ego volo; vel si ego scirem intrinseca tua, sicut tu scis mea.
+E[r]go vox tua, que celum letificat semper cum cantu illorum ignium piorum, idest spirituum seraphicorum, qui de sex alis faciebant cucullam (cuculla est habitus, sive tunica, monachorum; Seraphim cum sex alis depingitur ab Ezechiele, primo capitulo), quare non satisfacit meis desideriis; idest, quare te michi non manifestas, qui desidero te conoscere et scire a te de factis tuis et conditionibus? Iam ego non expectarem tuam petitionem, si ego me intuarem, sicut tu immearis; idest, si ego essem in te, sicut [tu] es in me, idest si ego scirem quid tu velles, sicut tu scis et vides in me quid ego volo; vel si ego scirem intrinseca tua, sicut tu scis mea.
 
-Nunc Fulchus respondet. Mirabili modo voluit hic ostendere auctor, quod ipse bene scivit dispositionem maris Mediterranei. Maior (hic maria valles appellat, quia, sicut de montibus aque descendunt ad valles, ita per flumina quasi omnes tendunt ad mare) vallis, idest maius mare, in quam aqua expandatur, inceperunt tunc sic sua verba, idest me declarare, idest preter vel extra illud mare, quod terram ingrilandat, idest circuit, inter discordantia lictora (lictora istius maris, sive vallis, discordant, quia ex una parte est Christianitas, et ex alia Sarracenia), contra solem tantum vadit (quia incipit in Hispania apud montem Guibeltar et tendit versus orientem; et ire ab oriente in occidentem est tendere contra solem, sicut tendit illud mare), quod facit meridianum, scilicet iuxta Hierusalem (nam appropinquat ad Hierusalem per triginta sex milliaria ytalica, apud Giaffum sive Ioppem), ubi orizontem, idest circulum terminantem visum, prius facere solet; quia in Hispania, in occidente, ubi incipit tale mare, facit, quando sol occidit, orizontem. Non vult aliud dicere, nisi quod illud mare Mediterrancum incipit ab occidente, invadit usque ad meridiem, quia Hierusalem est in meridie sine fallo.
+Nunc Fulchus respondet. Mirabili modo voluit hic ostendere auctor, quod ipse bene scivit dispositionem maris Mediterranei. Maior (hic maria valles appellat, quia, sicut de montibus aque descendunt ad valles, ita per flumina quasi omnes tendunt ad mare) vallis, idest maius mare, in quam aqua expandatur, inceperunt tunc sic sua verba, idest me declarare, idest preter vel extra illud mare, quod terram ingrilandat, idest circuit, inter discordantia lictora (lictora istius maris, sive vallis, discordant, quia ex una parte est Christianitas, et ex alia Sarracenia), contra solem tantum vadit (quia incipit in Hispania apud montem Guibeltar et tendit versus orientem; et ire ab oriente in occidentem est tendere contra solem, sicut tendit illud mare), quod facit meridianum, scilicet iuxta Hierusalem (nam appropinquat ad Hierusalem per triginta sex milliaria ytalica, apud Giaffum sive Ioppem), ubi orizontem, idest circulum terminantem visum, prius facere solet; quia in Hispania, in occidente, ubi incipit tale mare, facit, quando sol occidit, orizontem. Non vult aliud dicere, nisi quod illud mare Mediterraneum incipit ab occidente, invadit usque ad meridiem, quia Hierusalem est in meridie sine fallo.
 
 Illius vallis fui ego lictoranus, inter Ebrum (flumen prope versus occidentem) et Macram (flumen prope Portum Veneris, quod dividit Tusciam a territorio Ianuensi), qui per iter breve dividit Ianuense, idest territorium, a Tusco.
 
@@ -396,15 +396,15 @@ Ad unum occasum quasi [et] ad unum ortum Bugia, civitas idest [in] Barbaria, sed
 
 (1) Dydone
 
-Fulchum me dixit, idest vocavit, illa gens, cui fuerat notum nomen meum, et istud celum, scilicet Veneris, de me imprimitur, quia in eo sum collocatus, sicut ego de illo impressus fui, idest eius influentia me mirabiliter disposuit. Nam ego habui tantum de Venere, fui ita philocaptus et in tantum, quod plus non arsit, scilicet in amore, filia Beli, scilicet Dido de Carthagine, iniurando Sicheo primo suo marito, scilicet diligendo post mortem eius Eneam, et Creuse, scilicet prime uxori Enee, quam ego, quousque fuit conveniens pilo, quousque fui iuvenis. Quando homo est senex, homo fit canus, et tunc plurimum disconvenit homini sequi Venerem.
+Fulchum me dixit, idest vocavit, illa gens, cui fuerat notum nomen meum, et istud celum, scilicet Veneris, de me imprimitur, quia in eo sum collocatus, sicut ego de illo impressus fui, idest eius influentia me mirabiliter disposuit. Nam ego habui tantum de Venere, fui ita philocaptus et in tantum, quod plus non arsit, scilicet in amore, filia Beli, scilicet Dido de Carthagine, iniuriando Sicheo primo suo marito, scilicet diligendo post mortem eius Eneam, et Creuse, scilicet prime uxori Enee, quam ego, quousque fuit conveniens pilo, quousque fui iuvenis. Quando homo est senex, homo fit canus, et tunc plurimum disconvenit homini sequi Venerem.
 
-Nec illa Rodopeya, idest Phylis, sive Phylade, regina Tracie, dicta Rodopeya a monte Rodope, que delusa, idest decepta, fuit a Denophonte, scilicet filio Thesei, ducis Athenarum: nec Alchides, idest Hercules, Altey filius, quando Iolem (secunda mulier fuit quam intense amavit ipse Hercules) in corde habuit reclusam, non plus arserunt in amore.
+Nec illa Rodopeya, idest Phylis, sive Phylade, regina Tracie, dicta Rodopeya a monte Rodope, que delusa, idest decepta, fuit a Demophonte, scilicet filio Thesei, ducis Athenarum: nec Alchides, idest Hercules, Altey filius, quando Iolem (secunda mulier fuit quam intense amavit ipse Hercules) in corde habuit reclusam, non plus arserunt in amore.
 
 Non propter hoc hic aliquem penitet (idest, non oportet penitere, in celo, propterea [quod] iam biberunt de Lethe, et non recordantur peccatorum commissorum ab ipsis, et ideo neminem eorum penitet hic), sed hic est risus, non culpe, que ad mentem non revertitur, sed valoris qui ordinat [et] providet; idest, influentie Veneris, in aliis actibus, quia Venus facit homines placidos, benignos, liberales. Iste planeta est necessarius propter conservationem specierum per actos venereos.
 
 Hic respicitur in artem, que est ornata cum tanto effectu, idest influentia Veneris, et discernitur bonum, quia, scilicet per influentiam planetarum, mundus inferior ad illum superiorem reducitur, quia fit mundus inferior superiori conformis, per conservationem et perpetuationem.
 
-*Sed adhuc ut omnes tuas voluntates*. *Ma perchè tutte le tue voglie*: hec est quarta pars huius capituli, in qua auctor tractat de una anima antiqua. Hec est anima Raab meretricis. Sciendum est quod, quando Moyses, qui fuit dux populi Dei, conducens eum de Egipto per desertum quadraginta aunis, quando appropinquavit ad montem Nebo, misit in terram promissionis duos exploratores bonos, scilicet Iosue et Caleph: qui intrantes primo civitatem in Ierico, venerunt ad domum istius Raab, que erat meretrix, saltem tabernaria, sive hospitissa. Ipsa recepit eos gratanter. Hoc fuit nuntiatum regi Ierico, qui subito misit nuntios, ut isti caperentur. Pervenientes nuntii regis ad domum Raab, dixerunt: Exploratores ubi sunt, quos tu habuisti in domo? Illa absconderat eos in solario, et cooperuerat eos lino et stuppa. Quibus respondit Raab: Bene fuerunt hic, sed confestim iam iam recesserunt: ego non novi illos pro exploratoribus: si fueritis sequuti eos, vos eos capietis. Subito recedentes inde, venerunt ad portam civitatis, et sequuti sunt magnam viam, credentes apprehendere eos. Ista Raab dixit Iosue et Caleph: Ecce salvavi vos: constat michi quod venietis et obsidetis nos; et cito habebitis, quia iam timor incubuit vere super nos omnes. Iuretis michi per Deum vestrum, quod me et domum meam salvabitis.
+*Sed ad hoc ut omnes tuas voluntates*. *Ma perchè tutte le tue voglie*: hec est quarta pars huius capituli, in qua auctor tractat de una anima antiqua. Hec est anima Raab meretricis. Sciendum est quod, quando Moyses, qui fuit dux populi Dei, conducens eum de Egipto per desertum quadraginta annis, quando appropinquavit ad montem Nebo, misit in terram promissionis duos exploratores bonos, scilicet Iosue et Caleph: qui intrantes primo civitatem in Ierico, venerunt ad domum istius Raab, que erat meretrix, saltem tabernaria, sive hospitissa. Ipsa recepit eos gratanter. Hoc fuit nuntiatum regi Ierico, qui subito misit nuntios, ut isti caperentur. Pervenientes nuntii regis ad domum Raab, dixerunt: Exploratores ubi sunt, quos tu habuisti in domo? Illa absconderat eos in solario, et cooperuerat eos lino et stuppa. Quibus respondit Raab: Bene fuerunt hic, sed confestim iam iam recesserunt: ego non novi illos pro exploratoribus: si fueritis sequuti eos, vos eos capietis. Subito recedentes inde, venerunt ad portam civitatis, et sequuti sunt magnam viam, credentes apprehendere eos. Ista Raab dixit Iosue et Caleph: Ecce salvavi vos: constat michi quod venietis et obsidetis nos; et cito habebitis, quia iam timor incubuit vere super nos omnes. Iuretis michi per Deum vestrum, quod me et domum meam salvabitis.
 
 Quod et ipsi fecerunt. Ista vero de nocte dimisit eos per fenestram domus sue, que erat in muro civitatis, et abierunt salvi. Quando postea filii Israel preliati sunt contra Ierico, habuerunt civitatem et succenderunt eam igni; Raab autem et domum eius salvaverunt, quia posuerat ad
 

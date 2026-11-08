@@ -74,7 +74,7 @@ ostenditur quomodo omnia naturaliter tendunt in bonum finem et quomodo verax fin
 &emsp;Ne la mia mente (16) potei far tesoro (17),\
 &emsp;Sarà hora materia (18) del mio canto (19).
 
-4 Verum quantum de suo regno\
+4 Verum quantum de sancto regno\
 &emsp;In mea memoria potui facere thesaurum,\
 &emsp;Erit nunc materia mei cantus.
 
@@ -130,11 +130,11 @@ Deus sapientie et poesis, ultimo labori, idest isti tertie cantice (quia primus 
 &emsp;Venire, et coronari de illis foliis\
 &emsp;De quibus materia et tu me facietis dignum.
 
-(1) in superioribus Canticis — (2) Cyheron — (3) monte — (4) suffecit mihi — (5) in hac tertia Cantica — (6) Cytheron et Elycon — (7) opus est mihi — (8) cursum operis residui — (9) mente vel corde — (10) insuffla tu — (11) tali modo — (12) Satyro — (13) extraxisti — (14) pelle, excoriando eum — (15) gratia — (16) concedi — (17) in tanta quanta — (18) ymagine — (19) beato regno — (20) per contemplationem vel ymaginationem narrem aliis — (21) ad stipitem — (22) lauro — (23) tamquam Poeta — (24) quarum — (25) altitudo materie Paradisi.
+(1) in superioribus Canticis — (2) Cytheron — (3) monte — (4) suffecit mihi — (5) in hac tertia Cantica — (6) Cytheron et Elycon — (7) opus est mihi — (8) cursum operis residui — (9) mente vel corde — (10) insuffla tu — (11) tali modo — (12) Satyro — (13) extraxisti — (14) pelle, excoriando eum — (15) gratia — (16) concedi — (17) in tanta quanta — (18) ymagine — (19) beato regno — (20) per contemplationem vel ymaginationem narrem aliis — (21) ad stipitem — (22) lauro — (23) tamquam Poeta — (24) quarum — (25) altitudo materie Paradisi.
 
 Usque nunc unum iugum Parnasi satis michi fuit, sed nunc cum ambobus michi opus est intrare arringum, quod remansit. Arringum proprie est locus vacuus et aereus. Vult dicere: opus est intrare vacuum, quod remansit ad perficiendum istud opus, idest ad componendum Paradisum. Notandum quod Apollo et Bacchus idem sunt; sed propter diversos effectus habent diversa nomina, scilicet Sol: nam sol dicitur pater omnium terrenascentium, oculus mundi, pater rerum naturalium. Dicit enim Aristotiles, quod sol et homo generant hominem. Auctor vocat hic in isto capitulo solem ministrum nature. Hic Sol, sive Apollo, colitur in monte Parnaso. In partibus Gretie, in regione Boetie, sive Thessalie, est unus altissimus mons, vocatus Parnasus, qui in vertice habet duo iuga: in quorum uno colitur Apollo, quod iugum appellatur Cirra; aliud iugum vocatur Nisa, et in illo colitur Bacchus. Modo Sol, sive Apollo, idest deus sapientie, habet duplicem sapientiam, naturalem et divinam. Dum Apollo tractat de divinis, tunc dicitur Apollo; quando tractat de rebus naturalibus, vel moralibus, tunc dicitur Bacchus, idest Deus rerum naturalium sapientia. In monte igitur Parnaso et in suo iugo, scilicet Cirra, ubi colitur Apollo sub nomine Apollinis, tractatur de sapientia divina, sive divinorum; in iugo, scilicet Nisa, ubi colitur sol sub nomine Bacchi, tractatur de sapientia rerum naturalium et moralium, sicut Physica et Ethyca, etc. Modo vult hic dicere, quod hucusque, idest per Infernum et Purgatorium, sufficiebat sibi unum iugum Parnasi, scilicet Nisa, ubi colitur sol sub nomine Bacchi, idest sufficiebant sibi scientie naturales et morales: sed ammodo in Paradiso oportet quod habeat ambo iuga, quia indiget iugo, scilicet Cirra, ubi tractatur de divinis, et indiget etiam iugo, scilicet Nisa, ubi tractatur de naturali et poesi; quia in Paradiso poetice describit res divinas, et etiam sepe tractabit de naturalibus et etiam moralibus. Dicitur autem Apollo ab *a*, quod est sine, et *polluo*, idest pollutio; unde Apollo, idest sine pollutione, quia sapientia divinorum est sine pollutione.
 
-Intra in pectus meum, et spira tu, idest inspira mentem meam, ita, sicut quando Marsiam traxisti de vagina membrorum suorum; idest ita efficaciter et cum tanto valore inspira, sicut, etc. Nota. Marsia est nomen proprium cuiusdam hominis, magni musici et cithariste, qui fuit ausus in sonando citharam et canendo certare cum Apolline. Qui Apollo, videns Marsiam ita pertinacem, decoriavit eum, et posuit pellem in altum et suspendit, ut videretur ab omnibus et omnes cognoscere possent pertinaciam ipsius Marsie. Nota quod Apollo, ut dictum est, Deus vere sapientie est. Marsia est sophista verbosus, qui non habet nisi verba. Apollo detexit errores suos, scilicet Marsie, et ostendit omnibus fallacias ipsius. Sunt etenim sapiens et sophista veluti duo utres, unus plenus bono vino, alius plenus flato sive vento. Qui utres, licent sint eiusdem magnitudinis, unus tamen est plenus bono liquore, alter solum vento, qui, perforatus acu, subito evanescit. Sic facit sapiens: acu, scilicet veritate, perforat utrem ventosum, et subito evanescit ventus: idest, sapiens detegit fallacias sophiste, ostendendo quod ibi non erat nisi ventus, scilicet quedam apparentia sapientie, sed non vera sapientia. Vagina membrorum est pellis et regimen eorumdem, et ad ora ventorum. Pulcra methaphora. Ergo dicit auctor Apolloni: Presta michi tantum de efficacia tua et de tuo favore, idest sapientie tue, ut ego possim cum viva ratione detegere et comprimere fallaciam horum ventosorum, stultorum, ignorantium, qui sunt velut uter plenus vento et non bono liquore.
+Intra in pectus meum, et spira tu, idest inspira mentem meam, ita, sicut quando Marsiam traxisti de vagina membrorum suorum; idest ita efficaciter et cum tanto valore inspira, sicut, etc. Nota. Marsia est nomen proprium cuiusdam hominis, magni musici et cithariste, qui fuit ausus in sonando citharam et canendo certare cum Apolline. Qui Apollo, videns Marsiam ita pertinacem, decoriavit eum, et posuit pellem in altum et suspendit, ut videretur ab omnibus et omnes cognoscere possent pertinaciam ipsius Marsie. Nota quod Apollo, ut dictum est, Deus vere sapientie est. Marsia est sophista verbosus, qui non habet nisi verba. Apollo detexit errores suos, scilicet Marsie, et ostendit omnibus fallacias ipsius. Sunt etenim sapiens et sophista veluti duo utres, unus plenus bono vino, alius plenus flato sive vento. Qui utres, licet sint eiusdem magnitudinis, unus tamen est plenus bono liquore, alter solum vento, qui, perforatus acu, subito evanescit. Sic facit sapiens: acu, scilicet veritate, perforat utrem ventosum, et subito evanescit ventus: idest, sapiens detegit fallacias sophiste, ostendendo quod ibi non erat nisi ventus, scilicet quedam apparentia sapientie, sed non vera sapientia. Vagina membrorum est pellis et regimen eorumdem, et ad ora ventorum. Pulcra methaphora. Ergo dicit auctor Apolloni: Presta michi tantum de efficacia tua et de tuo favore, idest sapientie tue, ut ego possim cum viva ratione detegere et comprimere fallaciam horum ventosorum, stultorum, ignorantium, qui sunt velut uter plenus vento et non bono liquore.
 
 Ut autem auctor melius impetret hunc favorem, premictit, quod non erit ingratus; quia cum illo favore intendit facere ita notabile opus, quod propter ipsum merebitur
 
@@ -157,7 +157,7 @@ Ut autem auctor melius impetret hunc favorem, premictit, quod non erit ingratus;
 &emsp;Peneya, quando de se sitibundum aliquem facit.
 
 12 Poca (13) favilla (14) gran fiamma (15) seconda (16):\
-&emsp;Forse dirieto a me (17) con miglor voci (8)\
+&emsp;Forse dirieto a me (17) con miglor voci (18)\
 &emsp;Si pregherà (19), perchè Cyrra risponda (20).
 
 12 Parvam favillam grandis flamma secundat:\
@@ -182,14 +182,14 @@ Parvam favillam grandis flamma sequitur; forsan retro me cum melioribus vocibus 
 
 13 Oritur mortalibus per diversas fauces\
 &emsp;Lucerna mundi; sed ab illa,\
-&emsp;Que quatuor circulos iungit cum tribus circulis,
+&emsp;Que quatuor circulos iungit cum crucibus circulis,
 
 14 Con miglor corso (10) e con miglore stella (11)\
 &emsp;Esce congiunta (12), e la mondana cera (13)\
 &emsp;Più a suo modo (14) tempera (15) e suggella (16).
 
 14 Cum meliori cursu et cum meliori stella\
-&emsp;Coniunxit se mundane terre,\
+&emsp;Coniunxit se mundane cere,\
 &emsp;Ideo suo modo temperat et sigillat.
 
 15 Fact'havea di là (17) mane, e di qua sera (18)\
@@ -255,8 +255,8 @@ Fecerat ex illa parte mane (quia ibi in emispirio inferiori, ubi erat auctor, ip
 &emsp;Avesse 'l ciel (40) d'un altro (41) sol adorno (42).
 
 21 Et statim visum fuit diem diei\
-&emsp;Esse aditum, sicut si ille qui potest\
-&emsp;Celum uno alio celo ornasset.
+&emsp;Esse additum, sicut si ille qui potest\
+&emsp;Celum uno alio sole ornasset.
 
 (1) per tal modo — (2) di sole riflesso — (3) raggio dal qual si riflette — (4) in alto verso' l sole onde è disceso — (5) ad exemplo d'el el quale è in via — (6) el quale — (7) a la sua patria — (8) per quel modo — (9) di Beatrice — (10) suoi — (11) elevati — (12) nella potentia ymmaginativa — (13) acto — (14) ficcai — (15) nel sole — (16) sopra — (17) humano — (18) in quella altezza dov'io ero — (19) non è lecito — (20) potentie — (21) per gratia — (22) di quello — (23) da Dio — (24) cioè appropriato agli uomini — (25) specie — (26) Dante — (27) sostenni el sole — (28) spatio di tempo — (29) ancora — (30) che io — (31) gettar razzi — (32) a la sua rotondità — (33) in quel modo che — (34) rovito — (35) sfavillante — (36) incontinente — (37) luce di dì — (38) esser duplicato splendore — (39) quello Dio che può — (40) el cielo — (41) che quel che v'era — (42) adornato.
 
@@ -276,7 +276,7 @@ Et statim fuit visum diem diei esse additum, sicut si ille qui potest, celum uno
 
 22 Beatrice (1) tutta nell'etterne rote (2)\
 &emsp;Fixa (3) cogl'ochi (4) stava; et io (5) in lei (6)\
-&emsp;Le luci (7) fixi (8), di lassu remote (9).
+&emsp;Le luci (7) fixi (8), di lassù remote (9).
 
 22 Beatrix tota in eternas rotas\
 &emsp;Fixa cum oculis stabat; et ego, in eam\
@@ -320,7 +320,7 @@ Beatrix tota in eternas rotas fixa cum oculis stabat; et ego, in eam oculis fixi
 
 Transhumanari, idest extra humanitatem in aliam formam converti, significari per verba non potest, vel non posset; ideo exemplum sufficiat illis, quibus experientiam gratia servat. Per hec verba removet unum dubium. Posset quis dicere: Quomodo fuit hoc, vel fit, quod homo per actum speculationis efficiatur deus? Ideo dicit: Non possum facere aliam demonstrationem, nisi per unum exemplum grossum [de] transhumanari, scilicet effici deum, vel plusquam hominem. Sufficiat exemplum illi, cui Deus prestat tantam gratiam, quantam michi prestitit, scilicet quod elevet eum per speculationem mentis, quantum me elevavit.
 
-*Si ergo eram solus de me*. *S'io era solo de me*: ista est tertia pars huius capituli, in qua describitur ascensus auctoris in celum, cum magna admiratione. Primo tamen facit quamdam excusationem, asserens semetipsum ignorare si ea, que vidit, vidit cum anima solum, aut cum corpore solum, aut cum utroque, sicut Sanctus Paulus dixit: Scio hominem, ante annos quatuordecim, raptum in celum; sive in anima, sive in corpore, nescio; Deus scit. Bene scio quod vidi aliqua de quibus dicam. Et dirigit sermonem ad Deum: O amor, scilicet divine, idest Deus, si ego eram solus de me, idest si eram solum cum anima, aut cum corpore solum, vel cum utroque supple, illud scis tu, scilicet Deus, qui creasti noviter amorem quo celum gubernas; tu scis, quod cum tuo lumine me elevasti.
+*Si ego eram solus de me*. *S'io era solo de me*: ista est tertia pars huius capituli, in qua describitur ascensus auctoris in celum, cum magna admiratione. Primo tamen facit quamdam excusationem, asserens semetipsum ignorare si ea, que vidit, vidit cum anima solum, aut cum corpore solum, aut cum utroque, sicut Sanctus Paulus dixit: Scio hominem, ante annos quatuordecim, raptum in celum; sive in anima, sive in corpore, nescio; Deus scit. Bene scio quod vidi aliqua de quibus dicam. Et dirigit sermonem ad Deum: O amor, scilicet divine, idest Deus, si ego eram solus de me, idest si eram solum cum anima, aut cum corpore solum, vel cum utroque supple, illud scis tu, scilicet Deus, qui creasti noviter amorem quo celum gubernas; tu scis, quod cum tuo lumine me elevasti.
 
 Quando rota, scilicet celum, quam tu sempiternas, desiderosum ad se me fecit actentum, scilicet desiderosum sciendi, actentum, idest avidum, cum armonia, idest proportione, quam tu temperas, idest discernis (vult dicere hic auctor,
 
@@ -359,7 +359,7 @@ Quando rota, scilicet celum, quam tu sempiternas, desiderosum ad se me fecit act
 &emsp;Id quod videres, si illam haberes excussam.
 
 31 Tu (37) non se'in terra (38), sì come tu credi (39);\
-&emsp;Mai fulgure (40), fuggendo (41) 'l primo sito (42),\
+&emsp;Ma fulgure (40), fuggendo (41) 'l proprio sito (42),\
 &emsp;Non corre (43) come tu ch'adesso (44) riedi (45).
 
 31 Tu non es in terra, sicut tu credis,\
@@ -401,7 +401,7 @@ Sed Beatrix, cui nihil est occultum, perpendit de desiderio Dantis, absque hoc q
 &emsp;Quam facit mater super filium delirum;
 
 35 E cominciò (27): Le cose tucte quante (28)\
-&emsp;Ha un ordine (29) tra loro; e questo (30) è forma\
+&emsp;Ha Hanno ordine (29) tra loro; e questo (30) è forma\
 &emsp;Che l'universo (31) a Dio fa simiglante (32).
 
 35 Et incepit: Res omnes\
@@ -459,7 +459,7 @@ Tunc Beatrix suspiravit more pie matris, et convertit oculos suos ad Dantem sic,
 &emsp;Ma (39) quelle ch'ànno (40) intellecto et amore (41).
 
 40 Non solum creaturas que sunt foris\
-&emsp;Intelligentiam iste actus sagiptat,\
+&emsp;Intelligentiam iste arcus sagiptat,\
 &emsp;Sed illas que habent intellectum et amorem.
 
 41 La Providentia (42), che (43) cotanto (44) assetta (45),\
@@ -546,7 +546,7 @@ Modo concludit auctor, dicente Beatrice, quod ipse plus admirari non debet de su
 &emsp;Sicut si in terra quietaretur ignis vivus.\
 &emsp;Inde revolvit versus celum visum.
 
-(1) da maravigliare — (2) Dante — (3) privato e libero — (4) alcuno temporale, o carnale — (5) in terra — (6) riposto e quetato — (7) sarebbe maravigla se si si vedesse el fuoco acceso inclinarsi a terra contro la sua natura — (8) da questo parlare — (9) da me, Beatrice — (10) suo. Ex hoc intellige quod Dantes visum, idest intellectum suum, amovit ad studium Theologiae, ubi de supremis et celestibus tractat.
+(1) da maravigliare — (2) Dante — (3) privato e libero — (4) alcuno temporale, o carnale — (5) in terra — (6) riposto e quetato — (7) sarebbe maravigla se si vedesse el fuoco acceso inclinarsi a terra contro la sua natura — (8) da questo parlare — (9) da me, Beatrice — (10) suo. Ex hoc intellige quod Dantes visum, idest intellectum suum, amovit ad studium Theologiae, ubi de supremis et celestibus tractat.
 
 est naturalis ascensus, datus [a] purgatione et dispositione sua optima, nisi sicut esset admirandum de descensu aque ab alto loco in ymum. Sed plus esset admirandum, si staret in terra, sic purgatus et dispositus, sicut si ignis vivus, idest flamma viva, quiesceret in terra et non tenderet versus sursum. Non debes plus admirari, si bene existimo, de tuo ascensu, nisi sicut de uno rivo si de alto monte descendat, scilicet ad ymum: mirum esset in te, idest admirandum esset de te, si purus, idest purgatus, liber impedimento, inferius te ad sedendum posuisses, idest si te firmasses in terra et non currisses ad celum, sicut si in terra quietaretur ignis vivus, vel staret quietus, et non tenderet sursum vel quiesceret; quod est contra naturam ipsius ignis. Hiis dictis, Beatrix vertit se ad celum idest, Dantes theologice cepit speculationem facere de celo. *Quince*: idest inde, revolvit, scilicet Beatrix, versus celum visum, idest faciem suam.
 
@@ -556,7 +556,7 @@ est naturalis ascensus, datus [a] purgatione et dispositione sua optima, nisi si
 
 Sceso il Poeta fino al centro dell'Inferno, e di laggiù salito a uscire nell'opposto emisferio del nostro globo, quivi prese l'alta montagna del Purgatorio, giunse in cima ad essa, e quivi gustato per poco l'Eden, dove
 
-. . . fu iunocente l'umana radice,
+. . . fu innocente l'umana radice,
 
 finalmente spiccò il volo per giugnere, di sfera in sfera, all'immenso centro, dove Dio a' suoi eletti si rivela in tutta la pienezza di quella gloria, della quale in questo universo dette loro appena un saggio,
 

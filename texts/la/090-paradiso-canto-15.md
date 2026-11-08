@@ -24,7 +24,7 @@ In isto quintodecimo capitulo, quod incipit: *Benigna voluntas, in qua liquefit*
 &emsp;Et fecit quietari sanctas cordas,\
 &emsp;Quas dextra celi remictit et trahit.
 
-(1) voloutà.
+(1) volontà.
 
 *Benigna voluntas in qua liquescit*. *Benigna volonta[de] in che se liqua*: istud est quintumdecimum capitulum huius Paradisi, in quo auctor, ex quo in precedenti tractavit in generali de animabus hic beatificatis, ponit unam animam illustrem, modernam, de turba animarum martialium, que recepit auctorem cum grandi letitia. Dividitur autem istud in quatuor partes. In quarum prima auctor ponit, quomodo una anima moderna recepit eum lete et gaudiose.
 
@@ -40,7 +40,7 @@ In tam quieto et tam pulchro vivere; A così riposato e a così bello, eadem ani
 
 In prima igitur parte, auctor primo continuat dicta dicendis, asserens, quod ille anime beatificate quieverunt a motu et a cantu solum propter dare materiam auctori interrogandi ipsas de quibus vellet: quod fecerunt ille anime ex benigna voluntate quam habebant. Nam benigna voluntas est causa boni amoris, in benigna et bona voluntate liquescit, idest liquidus fit, sive liquendo apparet, amor bonus, qui recte spirat et amat. Sic, e contrario, ex prava et mala voluntate, et in ipsa, cupidus amor et mala cupiditas liquescit, idest clare apparet in iniqua voluntate. Ista igitur benigna voluntas imposuit silentium illis animabus, idest ex bona voluntate ille anime tacuerunt et cessaverunt a cantu et motu; quas animas dextera celi, idest potentia Dei, exaltat unam plusquam aliam. Et ex quo ex sua mera liberalitate sic se exibuerunt ille anime auctori, quomodo est credendum, quod ipse rogate de aliqua re, negarent petitum? idest, non est credendum.
 
-Benigna voluntas, in qua liquescit, idest clare liquet, seu apparet, semper amor qui recte spirat, idest qui recte diligit, vel quo diligitur, sicut cupiditas, subaudi liquescit, facit, idest apparet, iniqua (sententia est quod a bona voluntate procedit bonus amor, et a prava voluntate pravus amor procedit, et sic apparet liquido, sive clare), silentium imposuit, scilicet benigna voluntas, illi dulci lire, scilicet illi sotietati animarum, et fecit quietare sanctas cordas, scilicet animas, quas dextera celi allentat (allentare est remisse trabere, non nimis tense), et trahit, tendit. Sententia est, quod potentia Dei animarum beatificarum in Marte, sive in stella Martis, aliquas magis beatificat, aliquas minus, secundum quod meruerunt et passe sunt in suis martyriis.
+Benigna voluntas, in qua liquescit, idest clare liquet, seu apparet, semper amor qui recte spirat, idest qui recte diligit, vel quo diligitur, sicut cupiditas, subaudi liquescit, facit, idest apparet, iniqua (sententia est quod a bona voluntate procedit bonus amor, et a prava voluntate pravus amor procedit, et sic apparet liquido, sive clare), silentium imposuit, scilicet benigna voluntas, illi dulci lire, scilicet illi sotietati animarum, et fecit quietare sanctas cordas, scilicet animas, quas dextera celi allentat (allentare est remisse trahere, non nimis tense), et trahit, tendit. Sententia est, quod potentia Dei animarum beatificarum in Marte, sive in stella Martis, aliquas magis beatificat, aliquas minus, secundum quod meruerunt et passe sunt in suis martyriis.
 
 <!-- p. 997 (1051) -->
 
@@ -164,7 +164,7 @@ Sic pia, idest taliter, umbra Anchise, patris Enee, se porrexit, idest exhibuit,
 
 (1) posto di sopra, o sanguis meus.
 
-ubi erat Anchises, pater suus fuit, fuit, scilicet Eneas, pie susceptus a patre suo, cum dulcibus verbis in Elysio; idest in campo Elysio, ubi, secundum opinionem Virgilii et Platonis, stant anime illustrium virorum: vocat hic auctor librum Virgilii suam maiorem Musam, quia ipse bene studuerat, sicut dictum est in Inferno), quando in Elysio de filio perpendit.
+ubi erat Anchises, pater suus fuit, scilicet Eneas, pie susceptus a patre suo, cum dulcibus verbis in Elysio; idest in campo Elysio, ubi, secundum opinionem Virgilii et Platonis, stant anime illustrium virorum: vocat hic auctor librum Virgilii suam maiorem Musam, quia ipse bene studuerat, sicut dictum est in Inferno), quando in Elysio de filio perpendit.
 
 Modo ponuntur verba, que dixit dominus Cacciaguida, pater proavi Dantis, ipsi auctori, quando vidit ipsum. O sanguis meus! o superinfusa gratia Dei, sicut tibi, cui bis nunquam celi ianua reclusa! Iste ternarius est valde difficilis: et aliqui dicunt hic, quod ista verba, que dixit sibi dominus Cacciaguida, ipsemet Dantes confitetur se non intellexisse: ego credo quod ipse intellexit ista verba; sed multa alia verba, que postea dixit, auctor confitetur se non intellexisse. Iste ternarius in sententia vult dicere, quod bina vice ipsi Danti, eunti in celum, una vice viventi, scilicet per intellectum componendo istud opus, alia vice eunti moriendo, nunquam fuit clausa ianua celi. Unde dominus Cacciaguida, exclamans pro letitia, videns Dantem descendentem de ipso et de suo sanguine, dixit: O sanguis meus! vocativi casus. Hucusque exclamavit ad Dantem: modo exclamat ad gratiam Dei, que mirabiliter fuit data Danti: O superinfusa gratia Dei, mirabiliter, sicut tibi Danti, cui bis, scilicet una vice eunti in celum per intellectum, alia vice per mortem, nunquam celi ianua reclusa fuit, idest clausa, sed aperta. O sanguis meus! tu sis benedictus et stirps mea, et benedicta sit gratia Dei, que concessit quod uni de stirpe mea, bis, scilicet, venienti ad celum modis dictis, nunquam fuit ianua celi, seu Paradisi, clausa, sed aperta.
 
@@ -228,7 +228,7 @@ Et quando arcus ardentis affectus (arcus, idest sermo) fuit ita fogatus, idest e
 
 22 Ma perchè 'l sacro amor, in che io veglo\
 &emsp;Com perpetua vi[s]ta, e che m'asseta\
-&emsp;Di dolce desiar, s'àdempia meglo,
+&emsp;Di dolce desiar, s'adempia meglo,
 
 22 Sed ad hoc ut sacer amor, in quo ego vigilo\
 &emsp;Cum perpetua visione, et qui me sitibundum facit\
@@ -265,7 +265,7 @@ Hiis auditis, auctor volvit se ad Beatricem, quasi petens licentiam ab ipsa loqu
 <!-- p. 1000 (1054) -->
 
 25 Poi cominciai così: L'affecto e 'l senno,\
-&emsp;Come la prima qualità n'apparse,\
+&emsp;Come la prima equalità n'apparse,\
 &emsp;D'un peso per ciascun di voi si fenno;
 
 25 Postea incepi sic: Affectus et sensus,\
@@ -290,7 +290,7 @@ Hiis auditis, auctor volvit se ad Beatricem, quasi petens licentiam ab ipsa loqu
 
 perpendi quod ipsa dabat michi licentiam loquendi), unde voluntas mea crevit, scilicet ad loquendum isti anime.
 
-Ideo dicit auctor: Sic cepi loqui: Non habui animum nec mentem ad te plusquam ad alium de vobis, quia, quando primo michi apparuistis, omnes equales et equaliter michi videbamini illustrati luce divina et accensi caritate; et propter illam equalitatem cogitans, quod omnia et omnes equaliter cognosceretis in Deo, ideo non plus considerabam de vobis quam de aliquo alio vestrum. Scire, in vobis omnibus, et affectum ad me, omnium vestrum, existimavi omnino equalia, omnino in vobis videbantur michi equalia et equaliter; quia Deus, qui nos illuminat, allicit et satiat, et inflammat, veniens super vos, est omnino sine disparitate, sed cum omnimoda paritate. Ad quam paritatem describendam, non possem invenire aliquam comparationem, per quam illam describerem. Putavi enim in vobis omnibus beatis tantum esse velle, quantum est posse, et e converso. Sed in mortalibus scio bene quod velle est maius quam posse, quia multa volunt mortales que non possunt; et quia scio me esse mortalem, et in me esse maius velle quam sit posse, ideo regratior vobis cum velle, scilicet cum corde, supplicans, tibi, vivo topatio, qui ornas istam stellam, quod michi indices nomen tuum, quod scire desidero toto corde. Tu credis quod ad me tua cogitatio meet, idest veniat, ab illo qui est primus, scilicet Deo, sic sicut radiat ab uno, idest ab unitate, [si] cognoscitur, quinque et sex, idest numerus par et impar. Omnis enim numerus est par vel impar ab unitate. Sic tu credis quod nos videamus cogitatum tuum.
+Ideo dicit auctor: Sic cepi loqui: Non habui animum nec mentem ad te plusquam ad alium de vobis, quia, quando primo michi apparuistis, omnes equales et equaliter michi videbamini illustrati luce divina et accensi caritate; et propter illam equalitatem cogitans, quod omnia et omnes equaliter cognosceretis in Deo, ideo non plus considerabam de vobis quam de aliquo alio vestrum. Scire, in vobis omnibus, et affectum ad me, omnium vestrum, existimavi omnino equalia, omnino in vobis videbantur michi equalia et equaliter; quia Deus, qui vos illuminat, allicit et satiat, et inflammat, veniens super vos, est omnino sine disparitate, sed cum omnimoda paritate. Ad quam paritatem describendam, non possem invenire aliquam comparationem, per quam illam describerem. Putavi enim in vobis omnibus beatis tantum esse velle, quantum est posse, et e converso. Sed in mortalibus scio bene quod velle est maius quam posse, quia multa volunt mortales que non possunt; et quia scio me esse mortalem, et in me esse maius velle quam sit posse, ideo regratior vobis cum velle, scilicet cum corde, supplicans, tibi, vivo topatio, qui ornas istam stellam, quod michi indices nomen tuum, quod scire desidero toto corde. Tu credis quod ad me tua cogitatio meet, idest veniat, ab illo qui est primus, scilicet Deo, sic sicut radiat ab uno, idest ab unitate, [si] cognoscitur, quinque et sex, idest numerus par et impar. Omnis enim numerus est par vel impar ab unitate. Sic tu credis quod nos videamus cogitatum tuum.
 
 Credis etiam quod quilibet velit tibi complacere, nec una applaudeat tibi plusquam alia. Sed tu debes scire, quod, quia tu es de sanguine meo, ideo causa ista est quare ego habeo affectionem ad te plus quam alie anime que sunt hic. Et ideo qui ego sim, et quare appaream ego magis gaudiosus tibi, me non interrogas, quam aliquis alius in ista iucunda turba, idest gaudiosa vel gaudio plena.
 
@@ -340,7 +340,7 @@ Sed voluntas et argumentum, idest velle et posse, in mortalibus, propter causam 
 
 32 Meus filius fuit, et proavus tuus fuit:\
 &emsp;Bene convenit quod longam faticam\
-&emsp;Tu illo abbrevies cum operibus tuis.
+&emsp;Tu illi abbrevies cum operibus tuis.
 
 33 Fiorenza, dentro da la cerchia antica,\
 &emsp;Ond'ella togle ancora terza e nona,\
@@ -442,13 +442,13 @@ Et vidi illum de Nerlis et illum de Vechio (isti erant de nobilibus domibus Flor
 &emsp;Consolando utebatur ydiomathe\
 &emsp;Quo prius patres et matres alludunt;
 
-42 L'altra trhaendo a la rocha la chioma,\
+42 L'altra traendo a la rocha la chioma,\
 &emsp;Favoleggiava co' la sua famigla\
 &emsp;Dei Troyani, di Fiesole, e di Roma.
 
-42 Alia trahendo collo comam,\
+42 Alia trahendo colo comam,\
 &emsp;Confabulabatur cum sua familia\
-&emsp;De Troyanis, et de Fiesols, et de Roma.
+&emsp;De Troyanis, et de Fiesolis, et de Roma.
 
 43 Saria tenuta allor tal maravigla,\
 &emsp;Una Cianghella, un Lapo Saltarello,\
@@ -520,7 +520,7 @@ Morontus fuit meus frater, et Helyseus; mea uxor venit ad me de valle Padi, ides
 &emsp;E venni dal martirio a questa pace.
 
 49 Ibi fui ego ab illa gente turpi\
-&emsp;Disvolutus a gente fallaci,\
+&emsp;Disvolutus a mundo fallaci,\
 &emsp;Cuius amor multas animas deturpat,\
 &emsp;Et veni a martyrio ad istam pacem.
 

@@ -24,7 +24,7 @@ In isto vicesimoquinto capitulo, quod incipit: *Hora erat in qua ascendere noleb
 &emsp;Et vadit ad viam suam, quidquid ei appareat,\
 &emsp;Si est necesse, si stimulus eum transfigit;
 
-*Hora erat in qua ascensus nolebat disturbium*. *L'ora era onde 'l salir non volca storpio*: istud est vicesimumquintum capitulum huius Purgatorii, in quo auctor pertractat arduam questionem precedentem de materia pertractata, et transit ad alium circulum, scilicet septimum, in quo punitur peccatum luxurie. Quod capitulum dividitur in quatuor partes. In quarum prima ponitur questio, cui Virgilius respondet in generali.
+*Hora erat in qua ascensus nolebat disturbium*. *L'ora era onde 'l salir non volea storpio*: istud est vicesimumquintum capitulum huius Purgatorii, in quo auctor pertractat arduam questionem precedentem de materia pertractata, et transit ad alium circulum, scilicet septimum, in quo punitur peccatum luxurie. Quod capitulum dividitur in quatuor partes. In quarum prima ponitur questio, cui Virgilius respondet in generali.
 
 In secunda, que incipit ibi:
 
@@ -36,7 +36,7 @@ Sed qualiter de animali efficitur infans; Ma como d'animal doventa infante, poni
 
 In quarta parte, que incipit ibi:
 
-Et iam ventum ad ultimam torturam; E già venute all'ultima tortura, transit auctor ad materiam luxurie, que purgatur in septimo circulo.
+Et iam ventum ad ultimam torturam; E già venuti all'ultima tortura, transit auctor ad materiam luxurie, que purgatur in septimo circulo.
 
 Circa primam partem, auctor volens proponere unam difficilem questionem, primo continuat dicta dicendis, ponens horam temporis prius, et dicit quod hora erat talis quod non erat habendum impedimentum, quia iam transiverat meridies; et ideo faciebant isti tres, sicut facit qui vadit viam suam, non curans de aliqua re sibi apparente, quia stimulatur ad eundum. Ita iverunt isti per introytum, unus ante alium saliendo scalas, que sunt valde arte in tantum, quod ascendentes oportet incedere dispares. Notandum est hic quod Thaurus, quod est unum signum de duodecim Zodiaci, quod Scorpio, quod est aliud, sunt sibi invicem opposita; ideo si sol dimisit iam meridiem Thauro, ergo sequitur quod mediam noctem dimiserat Scorpion[i]. Vult in effectu dicere, quod meridies erat preteritus, idest transierat in emispirio inferiori; ergo in emispirio superiori transierat media nox. Quod patet per exemplum astroloycum: existentibus Thauro et Scorpione signis oppositis, ergo si circulus meridianus erat in Thauro, sequitur necessario quod ad oppositum erat media nox in Scorpione; et sol, per totum tempus quo factum fuit istud opus, erat in Ariete; modo transivit in Thaurum: ergo erat plusquam meridies duabus horis. Quasi dicens: Hora erat tarda; ergo non erat tempus perdendum. Hora erat, in qua ascensus nolebat storpium, idest disturbium, sive impedimentum, quia sol iam circulum meridiei dimiserat Thauro, et noctem, scilicet mediam, Scorpioni; et sic due erant hore post meridiem.
 
@@ -78,7 +78,7 @@ Modo ponitur dispositio auctoris. Ex quo, idest propter quid, sicut facit homo, 
 
 7 Allor sicuramente apri' la bocha,\
 &emsp;E cominciai (1): Come si può far magro\
-&emsp;Là dove l'huopo di mirar non toccha?
+&emsp;Là dove l'huopo di nutrir non toccha?
 
 7 Tunc secure apperui os meum,\
 &emsp;Et incepi: Quomodo potest fieri macredo\
@@ -89,7 +89,7 @@ Modo ponitur dispositio auctoris. Ex quo, idest propter quid, sicut facit homo, 
 &emsp;Non fora, disse (3), a te questo sì agro:
 
 8 Si memor esses sicut Meleager\
-&emsp;Comsumpsit se in consumptione unius torris,\
+&emsp;Consumpsit se in consumptione unius torris,\
 &emsp;Non esset, dixit, ita tibi acrum:
 
 (1) a dire — (2) ricordassi — (3) Virgilio, o Dante
@@ -192,7 +192,7 @@ Aliqui dicunt hic, quod ideo Virgilius imposuit Statio hunc laborem, ex eo quia 
 &emsp;Coagulando prius, et postea vivificat\
 &emsp;Id quod per suam materiam fecit constare.
 
-18 L'anima facta alla virtute activa,\
+18 Anima facta la virtute activa,\
 &emsp;Qual d'una pianta, in tanto è differente\
 &emsp;Che quest'è in via, e quell'è già a riva:
 
@@ -255,8 +255,8 @@ Nunc explicatur, fili, nunc extenditur virtus, que [est] a corde generantis, ubi
 <!-- p. 715 (0769) -->
 
 23 Apri la verità che viene al pecto,\
-&emsp;E sappia che, sì tosto com'al feto\
-&emsp;L'articolar del cerchio è perfecto,
+&emsp;E sappi che, sì tosto com'al feto\
+&emsp;L'articolar del cerebro è perfecto,
 
 23 Aperias veritati que venit ad pectus,\
 &emsp;Et scias quod anima quam cito sicut ad fetum\
@@ -324,7 +324,7 @@ Alie potentie omnes mute, idest sunt, sicut sentire, vegetare, audire, videre, d
 &emsp;Mirabiliter ad unam riparum;\
 &emsp;Ibi cognoscit prius suas stratas.
 
-30 Tosto che 'l loco lì lo certo scrive,\
+30 Tosto che 'l loco lì la circonscrive,\
 &emsp;La virtù formativa raggia intorno,\
 &emsp;Così e quanto nelle membra vive;
 
@@ -342,7 +342,7 @@ Alie potentie omnes mute, idest sunt, sicut sentire, vegetare, audire, videre, d
 
 32 Così l'aere vicin quivi si mecte\
 &emsp;In quella forma che in lui suggella,\
-&emsp;Virtualmente all'alma che ristecte:
+&emsp;Virtualmente l'alma che ristecte:
 
 32 Sic aier vicinus ibi immictitur\
 &emsp;In illam formam quam in eo sigillat\
@@ -402,7 +402,7 @@ Modo vult dicere auctor, quod statim quando ista anima, separata a corpore, est 
 &emsp;Et cornix spirat flatum in sursum,\
 &emsp;Qui eam reflectit, et viam ab ea sequestrat;
 
-39 Ond'ir ne convenia dall'alto schiuso\
+39 Ond'ir ne convenia dal lato schiuso\
 &emsp;Ad uno ad uno, et io temea el foco\
 &emsp;E quinci e quindi temea cader giuso.
 
@@ -436,7 +436,7 @@ Modo vult dicere auctor, quod statim quando ista anima, separata a corpore, est 
 
 (1) tormento de' purgati — (2) al. compartendo.
 
-*Et iam ventum ad ultimam torturam*. *E già venuto all'ultima tortura*: ista est quarta pars huius capituli, in qua auctor transit ad materiam luxurie. Sciendum est tamen primo, quod pena luxuriosorum est quod stant in igne ardentes et nec comburuntur, et ille ignis est valde afflictivus. Natura illius loci, sive circuli, in quo purgantur luxuriosi, spirat ignem maximi incendii; sed cornix per quam itur, spirat unam auram que refrigerat viam illam, in tantum quod illac bene quis potest transire. Sciendum est, quod hic in isto circulo, sicut in quocumque alio inferiori, est cornix una, per quam itur. Locus iste, per quem itur, est strictus valde: et ex una parte est precipitium, scilicet a parte foritica, scilicet exteriori; a parte interiori exit ignis: et ideo, propter viam strictam et propter periculum cadendi ex una parte et combustionis ex alia parte, oporteret quod auctor iret cum maxima prudentia, ne ex una parte caderet et ab alia parte combureretur. Nota quod ignis est debita pena luxuriosorum; quia sicut luxuriosi semper ardent desideriis carnis, nec refrigerium habent, ita bonum est quod in igne ardeant et puniantur. Et per talem viam oportet ire prudenter, quia difficile est caste et virginaliter vivere. Nota etiam quod, sicut ripa inferior in circulo gule ministrabat aquam, que tenebat virides frondes arboris et ingerebat voluntatem gulosis bibendi, qui tamen non poterant bibere; ita ista ripa, que est hic in septimo circulo, producit ignem ita incendiosum. Hic locus est ultimus tormentorum, quia cum altius ascenditur ultra istum circulum, itur postmodum in Paradisum terrestrem, sicut patebit; ideo vocatur ultima tortura. Virgilius consulebat hic auctori, quod ipse teneret oculos strictos ad frenum, quia faciliter hic erratur. Ideo animadvertant viatores ad peccatum luxurie, quod multum allicit peccatores. Hic cantant unum ympnum, quo ecclesia utitur die sabati ad nocturnum in ferialibus diebus, qui ympnus incipit, Summe Deus clementie, et infra, Lumbos iecurque morbidum adure igni congruo; accinti ut sint [perpetim] luxu remoto peximo: qui versus est de directo ad propositum ad fugiendum peccatum luxurie. Et ventum iam ad ultimam torturam (idest per nos, quia veneramus ad ultimum circulum, in quo punitur luxuria) erat per nos, et conversi ad manum dexteram, et eramus attenti ad aliam curam; idest, non plus loquebamur de questione predicta, sed attendebamus ad novam penam.
+*Et iam ventum ad ultimam torturam*. *E già venuti all'ultima tortura*: ista est quarta pars huius capituli, in qua auctor transit ad materiam luxurie. Sciendum est tamen primo, quod pena luxuriosorum est quod stant in igne ardentes et nec comburuntur, et ille ignis est valde afflictivus. Natura illius loci, sive circuli, in quo purgantur luxuriosi, spirat ignem maximi incendii; sed cornix per quam itur, spirat unam auram que refrigerat viam illam, in tantum quod illac bene quis potest transire. Sciendum est, quod hic in isto circulo, sicut in quocumque alio inferiori, est cornix una, per quam itur. Locus iste, per quem itur, est strictus valde: et ex una parte est precipitium, scilicet a parte foritica, scilicet exteriori; a parte interiori exit ignis: et ideo, propter viam strictam et propter periculum cadendi ex una parte et combustionis ex alia parte, oporteret quod auctor iret cum maxima prudentia, ne ex una parte caderet et ab alia parte combureretur. Nota quod ignis est debita pena luxuriosorum; quia sicut luxuriosi semper ardent desideriis carnis, nec refrigerium habent, ita bonum est quod in igne ardeant et puniantur. Et per talem viam oportet ire prudenter, quia difficile est caste et virginaliter vivere. Nota etiam quod, sicut ripa inferior in circulo gule ministrabat aquam, que tenebat virides frondes arboris et ingerebat voluntatem gulosis bibendi, qui tamen non poterant bibere; ita ista ripa, que est hic in septimo circulo, producit ignem ita incendiosum. Hic locus est ultimus tormentorum, quia cum altius ascenditur ultra istum circulum, itur postmodum in Paradisum terrestrem, sicut patebit; ideo vocatur ultima tortura. Virgilius consulebat hic auctori, quod ipse teneret oculos strictos ad frenum, quia faciliter hic erratur. Ideo animadvertant viatores ad peccatum luxurie, quod multum allicit peccatores. Hic cantant unum ympnum, quo ecclesia utitur die sabati ad nocturnum in ferialibus diebus, qui ympnus incipit, Summe Deus clementie, et infra, Lumbos iecurque morbidum adure igni congruo; accinti ut sint [perpetim] luxu remoto peximo: qui versus est de directo ad propositum ad fugiendum peccatum luxurie. Et ventum iam ad ultimam torturam (idest per nos, quia veneramus ad ultimum circulum, in quo punitur luxuria) erat per nos, et conversi ad manum dexteram, et eramus attenti ad aliam curam; idest, non plus loquebamur de questione predicta, sed attendebamus ad novam penam.
 
 Ibi ripa flammam foris balistat, idest proiicit, sive emictit; et cornix, scilicet excisio illa que viam facit, sive prebet, spirat flatum in sursum, qui eam reflectit, et viam ab ea sequestrat, sive facit: unde ire nobis conveniebat, idest nos oportebat, a latere excluso unus post alium; et ego timebam focum, idest ignem, et hinc inde timebam cadere infra.
 
@@ -496,20 +496,20 @@ Et iste modus credo quod eis sufficiat per totum tempus quo ignis eos adurit, id
 
 # L'apparizione degli spiriti
 
-La poesia generalmente, e quella dell'Alighieri in ispecie, nella quale egli simboleggiò le relazioni più intime e più comprensive del nostro spirito, trae dalla sensibile apparizione della realtà spirituale, molta parte delle sue bellezze. Che se talvolta immaginando trapassa egli i limiti, non però valica mai il fondamento dell'accordo con la religione e con quella parte di vero, che provvidenzialmente venne adombrata dalle stesse mitologiche o popolari superstizioni, nelle quali fu alterata, e che perciò suppongono la realtà. Tutti conosciamo, invero, non che la possibilita ma il fatto delle apparizioni (teofanie, epifanie, dicevano i Greci) degli spiriti in forme sensibili, allorchè vollero manifestarsi ai nostri sensi mortali; fatto storico universalissimo, di cui non si può in alcun modo dubitare.
+La poesia generalmente, e quella dell'Alighieri in ispecie, nella quale egli simboleggiò le relazioni più intime e più comprensive del nostro spirito, trae dalla sensibile apparizione della realtà spirituale, molta parte delle sue bellezze. Che se talvolta immaginando trapassa egli i limiti, non però valica mai il fondamento dell'accordo con la religione e con quella parte di vero, che provvidenzialmente venne adombrata dalle stesse mitologiche o popolari superstizioni, nelle quali fu alterata, e che perciò suppongono la realtà. Tutti conosciamo, invero, non che la possibilità ma il fatto delle apparizioni (teofanie, epifanie, dicevano i Greci) degli spiriti in forme sensibili, allorchè vollero manifestarsi ai nostri sensi mortali; fatto storico universalissimo, di cui non si può in alcun modo dubitare.
 
 La dottrina di alcuni Padri, prevalsa al tempo della Scolastica, è espressa dal Poeta ne' versi seguenti:
 
-Tosto che luogo li la circoscrive, La virtù formativa raggia intorno Così e quanto nelle membra vive.
+Tosto che luogo lì la circoscrive, La virtù formativa raggia intorno Così e quanto nelle membra vive.
 
 E come l'aer, quand'è ben piorno, Per l'altrui raggio che in sè si riflette, Di diversi color si mostra adorno; Così l'aer vicin quivi si mette In quella forma, che in lui suggella Virtualmente l'alma che ristette:
 
 E simigliante poi alla fiammella Che segue il fuoco là'vunque si muta, Segue allo spirto sua forma novella Perocchè quindi ha poscia sua paruta, È chiamat'ombra; e quindi organa poi Ciascun sentire insino alla veduta.
 
-Ma, indubitato il fatto, può ella la ragione nostra spiegarlo, pur confortata dallo splendore del sovrannaturale per fede ricevuto? E vale ella qualcosa questa spiegazione del Poeta? E quanto al primo, rispondiamo di no: a penetrarlo vi bisognerebbe una veduta chiara della realtà sovrasensibile, sciolta da ogni parvenza di senso, il che nel presente nostro stato non si da. Bensi gli stessi traviamenti più singolari degli antichi e de' moderni, per esempio dello Svedenborg, nascondono alcune verita e danno alcuni criteri, quasi raggi di luce nascosta, i quali rischiarano in parte il fondo oscuro delle misteriose relazioni tra il mondo della materia e quello degli spiriti. L'idea degli spiriti, disciolti da ogni vincolo de' sensi, fu sempre, e non può non essere, chiarissima nella coscienza umana; ma per l'altra verita, egualmente profonda e chiarissima, dell'unità del Cosmos, tutto accolto nell'unica e semplicissima unita del concetto divino, di cui è ombra, non sapendo noi concepire gli spiriti separati del tutto dal mondo de'corpi, nè una loro relazione meramente intellettuale con questi, sempre si è creduto che essi, ed anche le anime umane, divise dal corpo mortale, rimanessero ad un corpo ombratile e sottilissimo congiunti, per il cui mezzo le comunicazioni col mondo presente si mantenessero: opinione che poi, presso i dotti, chiarita la vera natura dello spirito, svani. E ve ne fu sostituita un'altra, vagliata, discussa ed ammessa da quasi tutti i Teologi, e che a' poeti antichi e moderni forni leggiadrissime rappresentazioni; ed è il condensare che questi spiriti, a piacer loro, facevano l'aria, i vapori, le nebbie, insomma i corpi ridotti a stato aeriforme, e così pigliare quell'aspetto che meglio lor paresse, rendendosi visibili od invisibili, e pur sempre, od almeno il più delle volte, impalpabili. Oggi i progredimenti dell'ottica, mentre rendono più che mai agevole il proiettare, in un dato punto, un'immagine reale di cosa in quel luogo non presente nella sua sostanza, chiariscono inutile, e fors'anco impossibile, l'immaginata condensazione degli antichi: e con cio è risposto anche alla seconda domanda, cioè quale valore abbia la spiegazione di Dante.
+Ma, indubitato il fatto, può ella la ragione nostra spiegarlo, pur confortata dallo splendore del sovrannaturale per fede ricevuto? E vale ella qualcosa questa spiegazione del Poeta? E quanto al primo, rispondiamo di no: a penetrarlo vi bisognerebbe una veduta chiara della realtà sovrasensibile, sciolta da ogni parvenza di senso, il che nel presente nostro stato non si dà. Bensì gli stessi traviamenti più singolari degli antichi e de' moderni, per esempio dello Svedenborg, nascondono alcune verità e danno alcuni criteri, quasi raggi di luce nascosta, i quali rischiarano in parte il fondo oscuro delle misteriose relazioni tra il mondo della materia e quello degli spiriti. L'idea degli spiriti, disciolti da ogni vincolo de' sensi, fu sempre, e non può non essere, chiarissima nella coscienza umana; ma per l'altra verità, egualmente profonda e chiarissima, dell'unità del Cosmos, tutto accolto nell'unica e semplicissima unità del concetto divino, di cui è ombra, non sapendo noi concepire gli spiriti separati del tutto dal mondo de'corpi, nè una loro relazione meramente intellettuale con questi, sempre si è creduto che essi, ed anche le anime umane, divise dal corpo mortale, rimanessero ad un corpo ombratile e sottilissimo congiunti, per il cui mezzo le comunicazioni col mondo presente si mantenessero: opinione che poi, presso i dotti, chiarita la vera natura dello spirito, svanì. E ve ne fu sostituita un'altra, vagliata, discussa ed ammessa da quasi tutti i Teologi, e che a' poeti antichi e moderni fornì leggiadrissime rappresentazioni; ed è il condensare che questi spiriti, a piacer loro, facevano l'aria, i vapori, le nebbie, insomma i corpi ridotti a stato aeriforme, e così pigliare quell'aspetto che meglio lor paresse, rendendosi visibili od invisibili, e pur sempre, od almeno il più delle volte, impalpabili. Oggi i progredimenti dell'ottica, mentre rendono più che mai agevole il proiettare, in un dato punto, un'immagine reale di cosa in quel luogo non presente nella sua sostanza, chiariscono inutile, e fors'anco impossibile, l'immaginata condensazione degli antichi: e con ciò è risposto anche alla seconda domanda, cioè quale valore abbia la spiegazione di Dante.
 
-Nondimeno dalle immagini sopraddette si hanno due luminose verità, che sono in esse adombrate. E cioè, 1° si manifesta l'unità del Cosmos, e per essa le relazioni tra gl'intelletti e la materia non rompersi mai intieramente: il che è significato dal corpo sottilissimo indivisibilmente congiunto agli spiriti, anche deposto il corpo mortale: 2° si appalesa che se le relazioni sensibili a poco a poco si dileguano, e alla morte cessa nell'uomo l'unione di natura, o di supposto, le intellettuali, invece, simbeleggiate dal corpo etereo, o invisibile, o a piacere condensabile, si fanno più strette e più possenti; e tanto più strette e potenti, quanto alla materia de'corpi ed alla loro energia sovrasta l'attività inesauribile dell'intelletto e del cuore. Ed è per queste relazioni puramente intellettuali, che gli spiriti separati operano sopra i corpi, e che sensibilmente ci si manifestano e ci rendono certi della loro attivita e presenza; e noi, come nelle immagini di questo mondo vediamo il pensiero eterno di colui che lo crea e di cui è espressione, e nella parola e nel-
+Nondimeno dalle immagini sopraddette si hanno due luminose verità, che sono in esse adombrate. E cioè, 1° si manifesta l'unità del Cosmos, e per essa le relazioni tra gl'intelletti e la materia non rompersi mai intieramente: il che è significato dal corpo sottilissimo indivisibilmente congiunto agli spiriti, anche deposto il corpo mortale: 2° si appalesa che se le relazioni sensibili a poco a poco si dileguano, e alla morte cessa nell'uomo l'unione di natura, o di supposto, le intellettuali, invece, simboleggiate dal corpo etereo, o invisibile, o a piacere condensabile, si fanno più strette e più possenti; e tanto più strette e potenti, quanto alla materia de'corpi ed alla loro energia sovrasta l'attività inesauribile dell'intelletto e del cuore. Ed è per queste relazioni puramente intellettuali, che gli spiriti separati operano sopra i corpi, e che sensibilmente ci si manifestano e ci rendono certi della loro attività e presenza; e noi, come nelle immagini di questo mondo vediamo il pensiero eterno di colui che lo crea e di cui è espressione, e nella parola e nel-
 
 <!-- p. 720 (0774) -->
 
-l'opere dell'arte umana il pensiero del parlante e dell'artista; così nelle apparizioni degli spiriti, le quali sono anche esse opera d'arte, vediamo il pensiero e l'affetto con cui ci fanno di sè stessi comunicazione; ma di una comunicazione pero, che, se più straordinaria, certo non è più arcana, nè più maravigliosa, della manifestazione del pensiero di Dio nell'universo, che è sua arte, nè del pensiero degli uomini nella parola e nei prodotti del loro ingegno, che è l'arte a quella di Dio nipote. Diremo dunque (e questo ci pare il più razionale concetto) che tali apparizioni siano una visione prodotta nello spirito nostro dalla forte azione di spiriti fuori di noi, la quale viene da noi umanizzata: concetto che se non ha tutta la luce desiderabile, certo corrisponde alla natura dell'agente (spirito separato dalla materia) e alle condizioni di chi riceve l'azione, cioè l'umano spirito sostanzialmente al corpo congiunto; concetto che corrisponde a quel che tali apparizioni sono ordinate a produrre, cioè un effetto spirituale e interiore; oltre che esso non presenta qualcosa di falso e d'inconveniente, come sarebbe la formazione di un finto corpo intorno all'agente, o se la visione fosse una sensazione, che non avesse una causa sensata.
+l'opere dell'arte umana il pensiero del parlante e dell'artista; così nelle apparizioni degli spiriti, le quali sono anche esse opera d'arte, vediamo il pensiero e l'affetto con cui ci fanno di sè stessi comunicazione; ma di una comunicazione però, che, se più straordinaria, certo non è più arcana, nè più maravigliosa, della manifestazione del pensiero di Dio nell'universo, che è sua arte, nè del pensiero degli uomini nella parola e nei prodotti del loro ingegno, che è l'arte a quella di Dio nipote. Diremo dunque (e questo ci pare il più razionale concetto) che tali apparizioni siano una visione prodotta nello spirito nostro dalla forte azione di spiriti fuori di noi, la quale viene da noi umanizzata: concetto che se non ha tutta la luce desiderabile, certo corrisponde alla natura dell'agente (spirito separato dalla materia) e alle condizioni di chi riceve l'azione, cioè l'umano spirito sostanzialmente al corpo congiunto; concetto che corrisponde a quel che tali apparizioni sono ordinate a produrre, cioè un effetto spirituale e interiore; oltre che esso non presenta qualcosa di falso e d'inconveniente, come sarebbe la formazione di un finto corpo intorno all'agente, o se la visione fosse una sensazione, che non avesse una causa sensata.

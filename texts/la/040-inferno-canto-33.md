@@ -68,7 +68,7 @@ Sed si mea verba esse debent semen, quod fructificet infamiam proditori, quem ro
 
 5 Tu debes scire quod ego fui comes Ugolinus,\
 &emsp;Et iste est archiepiscopus Rogerius:\
-&emsp;Or nunc dicam tibi quare ego sum ei ita malus ricinus.
+&emsp;Or nunc dicam tibi quare ego sum ei ita malus vicinus.
 
 6 Che per l'effecto de' suoi ma' (5) pensieri,\
 &emsp;Fidandomi di lui, io fussi preso (6)\
@@ -286,7 +286,7 @@ Sic, idest ibi, mortuus est, et sicut tu vides, idest tu Dantes vides nunc prese
 
 <!-- p. 404 (0458) -->
 
-26 Quand'ebbe (1) decto ciò, cho gl'ochi torti\
+26 Quand'ebbe (1) decto ciò, con gl'ochi torti\
 &emsp;Riprese 'l teschio misero (2) coi denti (3),\
 &emsp;Che fur (4) all'osso (5), come (6) d'un can, forti.
 
@@ -492,7 +492,7 @@ Talem prerogativam habet ista Ptholomea, quod sepe anima huc cadit, antequam Ant
 &emsp;E forse pare ancora (9) el corpo (10) suso (11)\
 &emsp;Dell'ombra (12) che di qua dietro (13) mi verna (14).
 
-45 Ipsa cadit in talem citernam;\
+45 Ipsa cadit in talem cisternam;\
 &emsp;Et forsan apparet adhuc corpus superius\
 &emsp;Umbre que hic me retro vernat.
 
@@ -525,7 +525,7 @@ Talem prerogativam habet ista Ptholomea, quod sepe anima huc cadit, antequam Ant
 &emsp;Che 'l tradimento insieme con lui fece.
 
 49 Quando iste dimisit unum dyabolum, in sua vice,\
-&emsp;In corpore suo et unius sui proximani,\
+&emsp;In corpore suo et unius sui proximi,\
 &emsp;Qui prodicionem simul cum eo fecit.
 
 (1) ghiacciate. — (2) fa tradimento a' suoi consorti e parenti. — (3) muove. — (4) a lui constituito da Dio. — (5) fornito. — (6) anima. — (7) come tu vedi. — (8) pozzo e centro de la terra. — (9) appare ancora. — (10) suo. — (11) nel mondo. — (12) dell'anima dico. — (13) a me. — (14) sta nella ghiaccia. — (15) Branca d'Oria. — (16) in suo luogo. — (17) parente.
@@ -612,4 +612,4 @@ In somma, si sente che egli ha l'animo profondamente indignato contro tali ribal
 
 ciale; come pochi anni fa osò, per il più infame di essi, un romanziere, scrivendo un libro che fosse storia di Cristo, diciamo Ernesto Renan.
 
-Chi s'impietosirebbe del conte Ugolino e oserebbe pigliarne la difesa, se il Poeta non ce lo mostrasse che traditore delle castella pisane? La pietà, di cui tutto il canto ribocca, è per l'innocenza de' figli; solo per essa spicca di tanta bellezza l'episodio: perchè nessuna pietà ci moverebbe verso i rei qui puniti. Non sappiam poi davvero chi nel Getsemani potrebbe o saprebbe frenar l'animo acceso d'ira, se non ci temperasse l'aura divinamente solenne di Colui, il quale pietoso si piegava a ricevere il bacio dell'infame che cosi lo consegnava in mano a' nemici! Altri traditori, dopo il conte, e più rei, trova l'Alighieri poco distante; e di questi vede l'anima discesa viva nell'Inferno, mentre il corpo resta ancora in terra, governato da un demonio, finchè il tempo per essi stabilito tutto non sia volto. Punizione in verità spaventevole, ma non istrana, anzi fondata (notava già il Tommaseo) sopra le seguenti sentenze divine: « Descendant in Infernum viventes (*Psalm*. LIV) »: « Tradere huiusmodi Satanae (*Ad Corinth*. I) »: « Nomen habes quod vivas, et mortuus es (*Apocalip*. III) »: « Anania, cur tentavit Satanas cor tuum? (Act. V) »: « Cum Diabolus iam misisset in cor, ut traderet eum Judas Simonis Iscariotae... Post buccellam intravit in eum Satanas (IOAN. XIII) »: « Peccato moritur anima, disiungitur a Deo et iungitur diabolo (*Decret*.) » In senso contrario: « Vivo ego, iam non ego, vivit vero in me Christus (*Ad Gal*. II). » Cosi fu inesorabile con ogni maniera di traditori, e giustamente, l'immortale Poeta!
+Chi s'impietosirebbe del conte Ugolino e oserebbe pigliarne la difesa, se il Poeta non ce lo mostrasse che traditore delle castella pisane? La pietà, di cui tutto il canto ribocca, è per l'innocenza de' figli; solo per essa spicca di tanta bellezza l'episodio: perchè nessuna pietà ci moverebbe verso i rei qui puniti. Non sappiam poi davvero chi nel Getsemani potrebbe o saprebbe frenar l'animo acceso d'ira, se non ci temperasse l'aura divinamente solenne di Colui, il quale pietoso si piegava a ricevere il bacio dell'infame che così lo consegnava in mano a' nemici! Altri traditori, dopo il conte, e più rei, trova l'Alighieri poco distante; e di questi vede l'anima discesa viva nell'Inferno, mentre il corpo resta ancora in terra, governato da un demonio, finchè il tempo per essi stabilito tutto non sia volto. Punizione in verità spaventevole, ma non istrana, anzi fondata (notava già il Tommaseo) sopra le seguenti sentenze divine: « Descendant in Infernum viventes (*Psalm*. LIV) »: « Tradere huiusmodi Satanae (*Ad Corinth*. I) »: « Nomen habes quod vivas, et mortuus es (*Apocalip*. III) »: « Anania, cur tentavit Satanas cor tuum? (Act. V) »: « Cum Diabolus iam misisset in cor, ut traderet eum Judas Simonis Iscariotae... Post buccellam intravit in eum Satanas (IOAN. XIII) »: « Peccato moritur anima, disiungitur a Deo et iungitur diabolo (*Decret*.) » In senso contrario: « Vivo ego, iam non ego, vivit vero in me Christus (*Ad Gal*. II). » Così fu inesorabile con ogni maniera di traditori, e giustamente, l'immortale Poeta!

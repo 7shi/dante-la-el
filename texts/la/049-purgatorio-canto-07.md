@@ -478,7 +478,7 @@ Etiam ad nasutum vadunt verba mea, idest ad Karolum primum, non minus quam ad al
 
 44 Vedete el re della semplice vita\
 &emsp;Seder là solo, Arrigho d'Inghilterra:\
-&emsp;Questi ha ne'regni suoi miglor uscita.
+&emsp;Questi ha ne'rami suoi miglor uscita.
 
 44 Videte regem simplicis vite\
 &emsp;Sedere ibi solum, Henricum de Anglia;\
@@ -535,7 +535,7 @@ Che la notturna tenebra, ad ir suso;\
 Quella col non poter la voglia intriga.\
 Ben si porria con lei tornare in giuso,\
 E passeggiar la costa intorno errando,\
-Mentre che l'orizzonte il di tien chiuso.
+Mentre che l'orizzonte il dì tien chiuso.
 
 La più sublime metafisica è inchiusa in questi versi dell'immortale Poeta. Che cosa è la libertà? La libertà, nel puro suo concetto, è potenza di fare il bene senza costringimenti di sorta, la quale in modo assoluto compete a Dio soltanto, nell'agire fuor di sè, non essendovi mosso da alcuna legge, neppure di convenienza, ma soltanto da liberissima volontà. Segue poi la libertà umana, alla divina infinitamente inferiore, ma pur sopra di essa esemplata; il maggior dono che Dio, per sua bontà, ci fece; e consiste nel potere operare il bene senz'altri moventi (non diciamo senza motivi) che la legge eterna, sia che comandi, sia che consigli, cioè per costringimenti morali, non mai fisici, interni od esterni, i quali inducano necessità nell'azione. E si partisce in due: in eroica e in comune. La prima ha per legge il consiglio, per regola la convenienza, non l'obbligazione di operare in questo o quel determinato modo; ed è la forma più alta, siccome quella che sottostà alla sola convenienza, in quanto che è creata e soggetta alla volontà eterna: ma fuor di questo vincolo di necessaria dipendenza, non ha altri obblighi di sorta. La seconda è libertà infima, sotto cui sta la servitù; ed è il poter fare il bene con legge che induce assoluta obbligazione, ma soltanto appresa per intelletto, a cui la volontà può ripugnare. È forma infima di libertà, perchè indissolubilmente legata al poter di fare il male, che è il peccato, e perchè assoluto è il comando di fare il bene, che dalla legge ci è moralmente imposto. Dopo questa libertà non resta che la servitù delle passioni. Riporre in questa infima libertà, come alcuni oggi fanno, l'essenza della vera libertà umana, e affermare che essa non sia più libertà se pieghi al morale costringimento di fare soltanto il bene, sarebbe come dire che sia dell'essenza dell'uomo il degradarsi e l'annientare sè stesso.
 

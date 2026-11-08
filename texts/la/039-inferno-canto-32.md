@@ -78,7 +78,7 @@ Primo igitur auctor cum magna arte continuat dicta dicendis, excusando se de sua
 
 5 O sovra tucte (2) mal creata (3) plebe,\
 &emsp;Che stai in luogo, onde 'l parlar è duro (4)\
-&emsp;Me' (5) sreste stati qui (6) pecore o zebe (7).
+&emsp;Me' (5) sareste stati qui (6) pecore o zebe (7).
 
 5 O super omnia male creata plebs,\
 &emsp;Que stas in loco, ubi loqui est durum,\
@@ -201,7 +201,7 @@ Quelibet infra tenebat volutam faciem, idest versam: ab ore frigus, et ab oculis
 &emsp;Le lagrime fra esse (5), e riserrolli.
 
 16 Oculi eorum, qui erant prius intus molles,\
-&emsp;Guctaverunt super labia prius, et gelu strinxit,\
+&emsp;Gustaverunt super labia prius, et gelu strinxit,\
 &emsp;Lacrymas intra ipsos, et eos reclusit.
 
 17 Con (6) legno legno (7) spranga (8) mai non cinse\
@@ -528,7 +528,7 @@ O tu qui monstras, per tam bestiale signum, odium super illum quem tu comedis, d
 
 # Il ghiaccio in fondo all'inferno
 
-Severissimo sempre l'Alighieri si ne'concetti e si ne'modi di esprimerli ove si tratti del domma, non può non far maraviglia, che arrivato al fondo del suo Inferno, trovi quivi, invece di una fornace di ardentissimo fuoco,
+Severissimo sempre l'Alighieri sì ne'concetti e sì ne'modi di esprimerli ove si tratti del domma, non può non far maraviglia, che arrivato al fondo del suo Inferno, trovi quivi, invece di una fornace di ardentissimo fuoco,
 
 . . . . . . . . . . . . . . . un lago che, per gelo Avea di vetro, e non d'acqua sembiante,
 
@@ -541,9 +541,9 @@ Livide, infin là dove appar vergogna\
 Eran l'ombre dolenti, . . .\
 Mettendo i denti in nota di cicogna.
 
-Che altro ci mostra in quel profondo la rivelazione, eccetto che un fuoco avvampante e divoratore? Bastano le solenni parole di Cristo: « Se la tua mano ti è d'inciampo, e tu tagliala: perchè meglio è che tu entri monco alla vita con una mano sola, che andare con tutte due al tormento nel fuoco inestinguibile, dove il verme loro non finisce ed il fuoco non si spegne. » E lo ripete del piede, dell'occhio, in somma, di quanto l'uomo ha di più caro, sempre conchiudendo che quel fuoco restera eternamente acceso (MATTH. XVIII). Come mai, domandammo più di una volta a noi medesimi, fu qui il Poeta così ardito da sostituirvi l'opposto, cioè tal ghiaccia, che
+Che altro ci mostra in quel profondo la rivelazione, eccetto che un fuoco avvampante e divoratore? Bastano le solenni parole di Cristo: « Se la tua mano ti è d'inciampo, e tu tagliala: perchè meglio è che tu entri monco alla vita con una mano sola, che andare con tutte due al tormento nel fuoco inestinguibile, dove il verme loro non finisce ed il fuoco non si spegne. » E lo ripete del piede, dell'occhio, in somma, di quanto l'uomo ha di più caro, sempre conchiudendo che quel fuoco resterà eternamente acceso (MATTH. XVIII). Come mai, domandammo più di una volta a noi medesimi, fu qui il Poeta così ardito da sostituirvi l'opposto, cioè tal ghiaccia, che
 
-Non fece al corso suo si grosso velo\
+Non fece al corso suo sì grosso velo\
 Di verno la Danoia in Ostericch\
 Nè 'l Tanai là sotto il freddo cielo,\
 Com'era quivi: chè se Tambernicch.\
@@ -558,4 +558,4 @@ E poichè è proprio della luce e del calore lo spandersi e il distendersi, comu
 Non ti dirò chi i'sia, nè mostrerolti.\
 Se mille volte in sul capo mi tomi.
 
-La penetrazione dell'intelletto, la profondità della dottrina, e il più difficile magistero dell'arte, qui toccano il sommo. E si accenna inoltre alle teorie della mistica, secondo la quale i rei de'più gravi delitti si tramutano come in tanti demoni. Bellissimo concetto, ripetiamo, perchè, notava acutamente il Tommaseo, tosto che l'*anima trade*, cioè l'anima del traditore pensa e delibera il tradimento, essa precipita nell'Inferno; mostrandoci la giustizia di Dio scrutatrice de'cuori, così aborrente da tal delitto, che lo colpisce formatone appena il pensiero. L'anima pensa e delibera il tradimento, e il demonio lo compie: quasi delitto, a cui la natura umana, cosi finita nel bene come nel male, è da sè impotente: tanta ne è la spaventevole enormità!
+La penetrazione dell'intelletto, la profondità della dottrina, e il più difficile magistero dell'arte, qui toccano il sommo. E si accenna inoltre alle teorie della mistica, secondo la quale i rei de'più gravi delitti si tramutano come in tanti demoni. Bellissimo concetto, ripetiamo, perchè, notava acutamente il Tommaseo, tosto che l'*anima trade*, cioè l'anima del traditore pensa e delibera il tradimento, essa precipita nell'Inferno; mostrandoci la giustizia di Dio scrutatrice de'cuori, così aborrente da tal delitto, che lo colpisce formatone appena il pensiero. L'anima pensa e delibera il tradimento, e il demonio lo compie: quasi delitto, a cui la natura umana, così finita nel bene come nel male, è da sè impotente: tanta ne è la spaventevole enormità!

@@ -44,7 +44,7 @@ Sed hic oritur dubium; nam dixit in capitulo immediate precedenti:
 
 Tempo era del principio del mattino:
 
-tempus erat matitunale, idest mane, circa ortum solis. Respondetur, quod posuit tempus matitunale, quando habuit sompnialem visionem; quod tempus dicitur congruum ad habendum visionem non procedentem ex crapula, etc., ut est dictum in capitulo precedenti. Hic, modo, describitur tempus, quo incipit descendere in Infernum, scilicet principium noctis, volens adactare tempus itineri. Quia Infernus est locus tenebrarum; ideo fingit noctem, que est tenebrosa, et tempus ad peccandum aptum, quia omnis qui male agit, odit lucem (IOHAN. III capit.). Vult auctor dicere in effectu: Tali hora temporis, scilicet iam facta nocte, ego incepi magnum laborem; et erat duplex labor, mentalis et corporalis. *Lo yorno*. *Dies declinabat*: sol occiderat iam. *L'aier bruno*: scilicet obscurus fiebat. Pro aiere possunt intelligi cetera elementa, quia quasi omnia animalia de nocte se tollunt a laboribus suis, idest quiescunt.
+tempus erat matutinale, idest mane, circa ortum solis. Respondetur, quod posuit tempus matutinale, quando habuit sompnialem visionem; quod tempus dicitur congruum ad habendum visionem non procedentem ex crapula, etc., ut est dictum in capitulo precedenti. Hic, modo, describitur tempus, quo incipit descendere in Infernum, scilicet principium noctis, volens adactare tempus itineri. Quia Infernus est locus tenebrarum; ideo fingit noctem, que est tenebrosa, et tempus ad peccandum aptum, quia omnis qui male agit, odit lucem (IOHAN. III capit.). Vult auctor dicere in effectu: Tali hora temporis, scilicet iam facta nocte, ego incepi magnum laborem; et erat duplex labor, mentalis et corporalis. *Lo yorno*. *Dies declinabat*: sol occiderat iam. *L'aier bruno*: scilicet obscurus fiebat. Pro aiere possunt intelligi cetera elementa, quia quasi omnia animalia de nocte se tollunt a laboribus suis, idest quiescunt.
 
 *Io solo uno*: scilicet, ego Dantes incumbebam tali itineri et tali labori.
 
@@ -126,7 +126,7 @@ Iste sequitur Virgilium invocantem in primo Eneydos, sic dicentem: Musa, causas 
 
 *Ciò ch'io vidi*: idest, quidquid vidi, scilicet, oculis mentalibus.
 
-*Scrivisti*: idest, noscita in phantasia et cellula memorativa. Hic apparebit si eris valnes. Hec secure dixit Dantes, quia sciebat semetipsum magne capacitatis, magni ingenii, et tenacissime [memorie], et inventionis universalis.
+*Scrivisti*: idest, noscita in phantasia et cellula memorativa. Hic apparebit si eris valens. Hec secure dixit Dantes, quia sciebat semetipsum magne capacitatis, magni ingenii, et tenacissime [memorie], et inventionis universalis.
 
 *Io comenzai*: ista est secunda pars principalis, etc.; in qua movet dubium, volens probare se non esse sufficientem ad hoc opus perficiendum, respondendo, quasi, cuidam tacite obiectioni. Posset sibi dicere Virgilius: Sis certus, quod tu es sufficiens ire ad Infernum et de ipso redire; quia hoc fecit Eneas vivens, secundum fictionem meam: similiter Sanctus Paulus, ut habetur II ad Corint. XIII et XIV capitulis. Respondet Dantes, quod licet hii iverint ad Infernum [et] redierint, propter hoc non concluditur quod ego sim sufficiens. Licitum fuit Enee, propter effectum gloriosum, qui debebat sequi ex itinere Enee; licitum fuit Sancto Paulo, qui fuit postmodum post reditum confirmator nostre fidei christiane; sed michi non suadeo, quod sim sufficiens ego, etc.
 
@@ -170,7 +170,7 @@ Iste sequitur Virgilium invocantem in primo Eneydos, sic dicentem: Musa, causas 
 &emsp;Ego non Eneas, non Paulus sum;\
 &emsp;Me dignum ad hoc neque ego, neque alter credit.
 
-12 Perchè se del veder io m'abbandono,\
+12 Perchè se del venire io m'abbandono,\
 &emsp;Temo che la venuta non sia folle:\
 &emsp;Se'savio, intendi me' (1) ch'io non ragiono.
 
@@ -244,7 +244,7 @@ pro sacerdotio summo; in qua Roma sedere debet successor magni Petri, idest, qui
 
 18 Io era tra color che son sospesi,\
 &emsp;E donna mi chiamò beata e bella,\
-&emsp;Tal che del domandar io la richiesi.
+&emsp;Tal che di comandar io la richiesi.
 
 18 Ego eram inter illos qui sunt suspensi,\
 &emsp;Et mulier me vocavit beata et pulchra,\
@@ -286,7 +286,7 @@ sit bene sufficiens ad opus inceptum perficere, et incipit a longe verba sua, di
 
 *Quando ombra*: idest, fit umbrosa. Dicit Virgilius: Volo tibi Danti ostendere, quare ad te venerim, et a quo mictor, ut tu a tuo timore te solvas.
 
-*Nel primo puncto che di te me dolui*: quando me tibi obtuli in monte, etc.
+*Nel primo puncto che di te me dolve*: quando me tibi obtuli in monte, etc.
 
 *Io era*. *Ego eram*: idest in Limbo, ubi nos sapientes non habemus penas sensus, sed solum dampni; nec gaudium habemus.
 
@@ -300,7 +300,7 @@ Et tam erat imperiosa, quod ego ipsam requisivi, ut michi preciperet. Describit 
 
 *Incepit michi loqui suaviter et plane*: Scriptura sacra utitur latino plano et suavi, non superbo, sicut faciunt poete. Dicit Sanctus Ieronimus, quod aliquando videbatur sibi sermo divinus incultus, sed postmodum apparuit sibi valde suavis.
 
-*In angelica fuvella*: quia sacram Scripturam fecerunt hii qui habuerunt intellectum angelicum, sicut fuerunt Spiritus Sanctus, Sancti Angeli, Gregorius, Ieronimus, Ambrosius, et ceteri Sancti Doctores.
+*In angelica favella*: quia sacram Scripturam fecerunt hii qui habuerunt intellectum angelicum, sicut fuerunt Spiritus Sanctus, Sancti Angeli, Gregorius, Ieronimus, Ambrosius, et ceteri Sancti Doctores.
 
 *O anima corteze mantuana*: idest, o tu, Virgili, qui fuisti res curialis: de te fama in mundo durat et durabit. *Quanto el mondo lontana*: idest, donec mundus durabit. Sic captat Beatrix benevolentiam a Virgilio.
 
@@ -538,7 +538,7 @@ Licet alie scientie laudent Deum modo suo, tamen Beatrix, scilicet sacra Theolog
 
 *Cur non succurris illi, qui te tantum amavit*? Dictum est, quod Dantes dilexit Beatricem puellam, allegorice Theologiam.
 
-*Qui exivit pro te et amore tui*. *Le la volgare schira*. *De acie vulgari*: idest, de turba pravorum et stultorum, quorum infinitus est numerus (Eccl. I). Et fuit de numero paucorum sapientum et beatorum.
+*Qui exivit pro te et amore tui*. *De la volgare schiera*. *De acie vulgari*: idest, de turba pravorum et stultorum, quorum infinitus est numerus (Eccl. I). Et fuit de numero paucorum sapientum et beatorum.
 
 *Non odi*: non audis tu, quasi dicens: Dolet et penitet. *Fiumana*: idest, in valle vitiorum, qua nullum mare est periculosius et amarius.
 
@@ -548,7 +548,7 @@ Nunquam fuerunt persone tam veloces ad faciendum quod sibi prodest, vel ad fugie
 
 *Postquam talia dixerat michi*: sic loquitur Virgilius Danti.
 
-*Et ipsa oculos lacrymosos revolvit; quare me fecit prompliorem ad veniendum ad te*: et sicut ipsa voluit, veni ad te, eripiens te ab illa fera, idest lupa, de via vitiorum, maxime de via avaritie.
+*Et ipsa oculos lacrymosos revolvit; quare me fecit promptiorem ad veniendum ad te*: et sicut ipsa voluit, veni ad te, eripiens te ab illa fera, idest lupa, de via vitiorum, maxime de via avaritie.
 
 *Que ad pulchrum montem breviter te abstulit*: breviter, quia adhuc Dantes paucum spatium per ascensum iverat.
 
@@ -634,7 +634,7 @@ Roma gli è immediatamente davanti, vi posa sopra l'affettuoso sguardo, e senza 
 
 Questa consacrazione che l'Alighieri fece di Roma nel principio del suo Poema con parole così solenni, affettuose e piene di riverenza, essa sola mostra l'insussistenza del concetto, che da menti ristrette gli si vorrebbe attribuire, di una Roma pontificale, intrinsecamente causa di tutti i mali che poi desolarono l'Italia, e che a lui avrebbe impedito di salire il dilettoso monte, verso cui si spingeva dalla valle, dove erasi miseramente smarrito; mettiamo pure che nella parte umana, che è quaggiù inerente alla Chiesa (e non può non essere), siasi talvolta mostrata umana anch'essa; il che era come quasi necessario a distinguere quel che all'umanità venne, per la redenzione, ad aggiungersi di divino.
 
-Sacra dunque fu Roma all'Alighieri; e non tanto la Roma, a cui diede principio Enea, e la cui vita si svolse fino alla caduta dell'Impero che in lui s'iniziava, quanto Roma pontificale: Roma onde Cristo è romano; Roma luogo santo, destinato a sede dei successori del primo suo vicario, a cui affidava la visibile sua rappresentanza su questa terra. E appunto per questo altissimo concetto, che egli aveva di Roma pontificale e della Chiesa, i due pontefici Niccolò III e Bonifazio VIII, ai quali erano stati apposti gravissimi delitti, così aspramente malmenava nell'Inferno. Nel luogo santo del Figliuolo di Dio, santi debbono essere coloro che ne tengono le veci, investiti del supremo suo potere divino. Non disprezzo dunque, si veramente zelo pio e fervente della santità della Chiesa, lo fa tanto concitatamente parlare, volendo che la diletta sposa di Cristo risplendesse di tutta la sua luce immortale. Di fatti, incontrato il primo nella vita di là, e chiamatolo, come le ragioni del suo dramma esigevano, al pari di tutti gli altri, al giudizio divino, mentre ne flagella la colpa, mette solennemente in salvo la riverenza dovuta al supremo potere che rappresentava; e alla vista di Bonifazio, in Anagni catturato, deriso e abbeverato di fiele come Cristo, di cui era vicario e rappresentante, sente scoppiarsene il cuore di tale amarezza che, volto al cielo, grida:
+Sacra dunque fu Roma all'Alighieri; e non tanto la Roma, a cui diede principio Enea, e la cui vita si svolse fino alla caduta dell'Impero che in lui s'iniziava, quanto Roma pontificale: Roma onde Cristo è romano; Roma luogo santo, destinato a sede dei successori del primo suo vicario, a cui affidava la visibile sua rappresentanza su questa terra. E appunto per questo altissimo concetto, che egli aveva di Roma pontificale e della Chiesa, i due pontefici Niccolò III e Bonifazio VIII, ai quali erano stati apposti gravissimi delitti, così aspramente malmenava nell'Inferno. Nel luogo santo del Figliuolo di Dio, santi debbono essere coloro che ne tengono le veci, investiti del supremo suo potere divino. Non disprezzo dunque, sì veramente zelo pio e fervente della santità della Chiesa, lo fa tanto concitatamente parlare, volendo che la diletta sposa di Cristo risplendesse di tutta la sua luce immortale. Di fatti, incontrato il primo nella vita di là, e chiamatolo, come le ragioni del suo dramma esigevano, al pari di tutti gli altri, al giudizio divino, mentre ne flagella la colpa, mette solennemente in salvo la riverenza dovuta al supremo potere che rappresentava; e alla vista di Bonifazio, in Anagni catturato, deriso e abbeverato di fiele come Cristo, di cui era vicario e rappresentante, sente scoppiarsene il cuore di tale amarezza che, volto al cielo, grida:
 
 O Signor mio, quando sarò io lieto\
 A veder la vendetta che, nascosa\

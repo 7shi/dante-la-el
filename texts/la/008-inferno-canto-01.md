@@ -250,7 +250,7 @@ est levis et velox; sic est amor, qui statim in uno aspectu capit hominem. Leont
 
 *Ab aspectu, sive a vultu*: per hoc notatur, quod Dantes fuit philocaptus, pluriesque voluit redire ad amorem illicitum.
 
-*Tempus erat in principio matini*. Vulgariter: *Tempo era del principio del mattino*: hic ponit et notat tempus, in quo habuit talem visionem, scilicet, quod inciperet ascendere montem, qui representat penitentiam, abiectionem vitiorum, et assumptionem vite virtuose, et quando fera, scilicet leontia, suum ascensum impediebat. Vult quod disposicio temporis iuvet ad suum intentum perficiendum, scilicet conculcare vitium luxurie; quoniam hora erat matutina, idest in aurora, in crepusculo diei; et erat tempus vernale: sol erat in Ariete.
+*Tempus erat in principio matutini*. Vulgariter: *Tempo era del principio del mattino*: hic ponit et notat tempus, in quo habuit talem visionem, scilicet, quod inciperet ascendere montem, qui representat penitentiam, abiectionem vitiorum, et assumptionem vite virtuose, et quando fera, scilicet leontia, suum ascensum impediebat. Vult quod disposicio temporis iuvet ad suum intentum perficiendum, scilicet conculcare vitium luxurie; quoniam hora erat matutina, idest in aurora, in crepusculo diei; et erat tempus vernale: sol erat in Ariete.
 
 Sed cur laudat tantum istam horam auctor? Dicendum est, sicut vult Aristotiles libro de Sompno et Vigilia, quod aliquando fiunt sompnia in prima vigilia noctis, vel secunda, ex crapula et nimia repletione. Sed sompnia, que fiunt post medium noctis, vel prope diem, facta digestione, communiter sunt vera et veritatem significantia. Vult dicere: Visio mea in sompnis, quam hic describo, non fuit ex crapula, quia iam eram sobrius; venit autem ex speculatione et bona pro meditatione, quia multas curas sequuntur sompnia, ait Salomon in Ecclesiastes libro.
 
@@ -278,7 +278,7 @@ Dic respondendo: Quod veritas est de resumptione virium in vere; sed intentio au
 
 16 Iste videbatur, quod contra me veniret\
 &emsp;Cum capite alto et cum rabida fame,\
-&emsp;Ita quod videbatur quod aier de co timeret:
+&emsp;Ita quod videbatur quod aier de eo timeret:
 
 17 Et una lupa, che di tutte brame\
 &emsp;Sembrava carca ne la sua magrezza,\
@@ -351,7 +351,7 @@ Ista, scilicet lupa, porrexit tantum gravedinis auctori, quod quasi perdidit omn
 <!-- p. 32 (0086) -->
 
 23 Risposemi: Non huomo, huomo già fui;\
-&emsp;E li parenti mici furo Lombardi,\
+&emsp;E li parenti miei furo Lombardi,\
 &emsp;Mantovani per patria ambodui.
 
 23 Respondit michi: Non homo, homo alias fui,\
@@ -498,7 +498,7 @@ sed oportet te ire super montem, idest per viam virtuosam, si liberari cupis; et
 
 Primo, notandum est, quis sit iste canis, qui vocatur velter, sive veltrus.
 
-Licet multe sint species canum, sicut sunt isti yspani, parvi, albi, quos libenter nobiles manibus tractant, et in camera in lectis tenent; alii sunt canes magni ad venandum et capiendum apros, lupos; aliqui sunt qui perquirunt qualias et perdices et fasianos, et firmant se et expectant quod reponatur rethe super ipsos; et isti vocantur in Ytalia bracchi. Et non curo hic tractare, utrum omnes canes sint eiusdem speciei, aut differant in specie; saltem differunt in quantitate, qualitate et utilitate. Una species canum est, cuius supposita, seu individua, in Florentia et Thuscia, vocantur veltri. Tales maxime nimicantur lupis et sequuntur, plus quam alii canes, per excellentiam.
+Licet multe sint species canum, sicut sunt isti yspani, parvi, albi, quos libenter nobiles manibus tractant, et in camera in lectis tenent; alii sunt canes magni ad venandum et capiendum apros, lupos; aliqui sunt qui perquirunt qualias et perdices et fasianos, et firmant se et expectant quod reponatur rethe super ipsos; et isti vocantur in Ytalia bracchi. Et non curo hic tractare, utrum omnes canes sint eiusdem speciei, aut differant in specie; saltem differunt in quantitate, qualitate et utilitate. Una species canum est, cuius supposita, seu individua, in Florentia et Thuscia, vocantur veltri. Tales maxime inimicantur lupis et sequuntur, plus quam alii canes, per excellentiam.
 
 Secundo, notandum est de Feltro, quid auctor intelligat per Feltrum. Unde sciendum est, quod in hoc passu varii varie loquuntur, quod iste canis veltrus nascetur inter Feltrum et Feltrum, quia in Ytalia sunt duo Feltra. Unum Feltrum est in partibus Foroiulianis, et est pulchra terra et solempne castrum: aliud Feltrum est in Romandiola, et est unus mons, qui dicitur Mons Feltri, a quo comites, qui sunt domini Urbini, dicuntur comites Montis Feletri, seu Feretri. Et sic est unus episcopatus Montis Feltri, sive Feretri, quia super montem illum est una civitas, que vocatur civitas Sancti Leonis. Unde tales de ista opinione dicunt, quod iste canis veltrus inter ista duo Feltra, scilicet inter partes Foroiulianas et illam partem Romandiole, nascetur. Hec opinio ridiculosa est et vana, meo iudicio.
 
@@ -508,7 +508,7 @@ Alii vero dicunt, et est tertia opinio, quod inter Feltrum et Feltrum, intelligi
 
 Vult dicere hic auctor: Dixi quod lupa, idest avaritia, maritabitur multis, idest fiet uxor multorum; idest hominum avarorum, diligentium solummodo terrena, et maxime clericorum et prelatorum Ecclesie, symoniacorum, vendentium res sacras; quousque venerit veltrus canis, qui plurimum inimicatur lupis et qui significat unum bonum rectorem. Quem, ut credo, Dantes putat esse unum bonum Summum Pontificem, quia contempnet dominia temporalia, divitias; et non erit symoniacus, ymo fugabit omnes symoniacos; odiet avaritiam; non promovebit ad cardinalatus nisi bonos homines et virtuosos; sic ad episcopatus, et alias dignitates et prelaturas. Vel forte erit unus Imperator vel Dux. Non est cura. Hic Summus Pontifex interficiet hanc lupam, idest avaritiam, et persequetur eam de villa in villam, idest de avaro in avarum, quousque reduxerit eam in Infernum.
 
-*Unde invidia ipsam primo extraxit*: hic notandum est, quod auctor in hoc loco sequitur sacram Scripturam in fine secundi capituli libri Sapientie, ubi sic scribitur: Invidia autem diaboli, mors intravit in orbem terram; imitantur autem illam qui sunt ex parte illius. Diabolus, videns se de celo eiectum et in Inferno dampnatum, previdens quod genus humanum debebat in celum transportari et ad beatitudinem exaltari, de qua ipse diabolus erat eiectus; invidia motus, venit in Paradisum terrestrem, et ibi temptavit primos parentes de peccato gule, avaritie et superbie, ut patet Genesis secundo capitulo; et sic induxit Evam et
+*Unde invidia ipsam primo extraxit*: hic notandum est, quod auctor in hoc loco sequitur sacram Scripturam in fine secundi capituli libri Sapientie, ubi sic scribitur: Invidia autem diaboli, mors intravit in orbem terrarum; imitantur autem illam qui sunt ex parte illius. Diabolus, videns se de celo eiectum et in Inferno dampnatum, previdens quod genus humanum debebat in celum transportari et ad beatitudinem exaltari, de qua ipse diabolus erat eiectus; invidia motus, venit in Paradisum terrestrem, et ibi temptavit primos parentes de peccato gule, avaritie et superbie, ut patet Genesis secundo capitulo; et sic induxit Evam et
 
 <!-- p. 35 (0089) -->
 
@@ -568,7 +568,7 @@ Aliqui dicunt, humilis Ytalia: humilis, idest fertilis, suavis, palpabilis, abun
 
 41 Alle quai poi se tu vorrai salire,\
 &emsp;Anima fia di ciò più di me degna,\
-&emsp;Con lor ti lasserò nel mio partire:
+&emsp;Con lei ti lasserò nel mio partire:
 
 41 Ad quas postmodum, si tu voles ascendere,\
 &emsp;Anima erit ad hoc me dignior;\
@@ -644,7 +644,7 @@ La Divina Commedia di Dante è la visione in forme poetiche del mondo avvenire, 
 
 La Divina Commedia pertanto è un dramma; il dramma dell'umanità creata da Dio, la quale nel cammino da lui assegnatole avanza a' suoi destini futuri ed immortali. I tre mondi visitati dal Poeta in visione, sono tutto il mondo di qua, visto nella sua verità nuda (chè così ora non lo vediamo), visto fuori del polveroso turbinio che qui l'offusca, visto non già nelle sue foglie caduche, ma nell'eterno frutto delle azioni nostre. Ivi si vede che cosa è la vita dell'uomo quaggiù, e impariamo che è un sacrificio, in cui il corporeo si consuma, e lo spirito apparisce nella sua realtà. E nello spirito di ciascun uomo discerniamo i due progenitori della nostra specie, e i primi due fratelli, e Cristo; cioè la caduta, la pena, il risorgimento. Questa, e non altra, è l'essenza del divino Poema di Dante; ristringerlo, come si è fatto da un secolo in qua, a rappresentazione di una o di un'altra nostra vicenda nazionale, e ad un finale concetto che non ecceda questi limiti, è non solamente ammiserirlo, ma tramutarlo in ridicolo e annientarlo.
 
-E con ciò solo apparisce l'immensa allegoria del Poema. Primamente, il dramma della vita dell'umanità ci si mostra in Dante, che caduto in basso luogo per le sue colpe, ha bisogno, a ritrarsene, di mirare gli orrori dell'Inferno; ritrattosene, ha bisogno di purificarsene per mezzo dell'espiazione che si compie nel Purgatorio; e di la finalmente ascende a gustar della risurrezione e trasformazione che ci aspetta in cielo. Le sue vicende, insomma, sono quelle di tutta la specie degli uomini, e il destino delle cose universe, e il gran mistero del Dio che si abbassa fino all'uomo, ed espia le umane colpe e riconquista lo splendore dell'ingenita gloria.
+E con ciò solo apparisce l'immensa allegoria del Poema. Primamente, il dramma della vita dell'umanità ci si mostra in Dante, che caduto in basso luogo per le sue colpe, ha bisogno, a ritrarsene, di mirare gli orrori dell'Inferno; ritrattosene, ha bisogno di purificarsene per mezzo dell'espiazione che si compie nel Purgatorio; e di là finalmente ascende a gustar della risurrezione e trasformazione che ci aspetta in cielo. Le sue vicende, insomma, sono quelle di tutta la specie degli uomini, e il destino delle cose universe, e il gran mistero del Dio che si abbassa fino all'uomo, ed espia le umane colpe e riconquista lo splendore dell'ingenita gloria.
 
 Ma quel che è l'uomo individuo, sono similmente le nazioni, è l'umanità intera: e però dopo lui, l'Italia, nelle condizioni in cui allora si trovava, fu il protagonista del suo dramma; l'Italia com'era a que' dì, come avrebbe dovuto essere, e come era a sperare che, rinsavendo, addivenisse, per mostrarsi degna di sè e dell'alto destino a cui era stata ordinata dal cielo.
 

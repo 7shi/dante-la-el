@@ -494,7 +494,7 @@ idest circulos. Dicit auctor quod Charon habebat rubedinem, ad denotandum, quod 
 
 *Batter i denti*: propter rabiem desperationis.
 
-*Racto*: idest cito, blasphemabant Deum et suos genitores, humanam speciem, locum, tempus, semen eorum seminis et eorum nasciture.
+*Rapto*: idest cito, blasphemabant Deum et suos genitores, humanam speciem, locum, tempus, semen eorum seminis et eorum nasciture.
 
 Loquitur hic auctor more Ysaye prophete, dicentis: Blasphemant regem, speciem humanam: potius voluissent esse de specie brutorum, quorum anime moriuntur cum corporibus.
 
@@ -572,7 +572,7 @@ Ego predictus Episcopus audivi, dum essem lector et magister regens in Conventu 
 &emsp;E però se Caron di te si lagna,\
 &emsp;Ben puo' saper omai che 'l suo dir suona.
 
-43 Hac nunquam transirit anima bona;\
+43 Hac nunquam transivit anima bona;\
 &emsp;Et ideo si Charon de te lamentatur,\
 &emsp;Bene potes scire ammodo, quid sua dicere sonant.
 
@@ -602,7 +602,7 @@ quod volebam mori et non vivere in tali pena, quia melius michi mori semel, quam
 
 *Hiis finitis, obscura campania tremuit tam fortiter, quod ex tali exterritu mens mea adhuc sudoribus balneatur. Terra lacrimosa dedit ventum* [talem], quod subito apparuit una lux rubea, *que vicit omnem meum sensum et cecidi sicut homo qui rapitur a sompno*: iste passus est satis fortis. Vult dicere auctor, quod intrabat Infernum, exiturus inde, etc. Fingit quod sopitur, et quando fuit excitatus, reperit se in alia riparia; nec vult aliud dicere, nisi quod transivit ad Infernum per sompnium, idest per speculationem mentalem, relinquendo omnia vana, perpendens quod per istum passum miserum, ad quem vadunt miseri obstinati in peccatis, vadunt illi qui perpetuo cruciantur; et ideo ipse Dantes fuit sopitus, idest nihil amplius voluit commictere de istis malis, etc., que ducunt ad Infernum esentiale.
 
-*Terra lacrymosa*: idest, vita lacrymosa. *Ledit ventum*: idest, aperuit michi oculos mentis ad talia vitia contemplandum, ut ipsa conculcarem; idest ut cognoscerem condiciones peccatorum et penarum eis convenientium; aperuit michi intellectum ut fugerem omnia peccata.
+*Terra lacrymosa*: idest, vita lacrymosa. *Dedit ventum*: idest, aperuit michi oculos mentis ad talia vitia contemplandum, ut ipsa conculcarem; idest ut cognoscerem condiciones peccatorum et penarum eis convenientium; aperuit michi intellectum ut fugerem omnia peccata.
 
 <!-- p. [60] (0114) -->
 

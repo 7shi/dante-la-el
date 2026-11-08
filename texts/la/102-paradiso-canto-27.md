@@ -2,7 +2,7 @@
 
 # Capituli Vicesimiseptimi Summarium
 
-In isto vicesimoseptimo capitulo quod incipit: *Patri, Filio et Spiritui Sancto*, auctor reintroducit Sanctum Petrum ad conquerendum de pastoribus Ecclesie, qui deviaverunt a tramite recto Iesu Christi, et conducunt populum Christi male, et exemplificant pexime eum. Dicit igitur auctor, quod toti Trinitati Paradisus incepit dare gloriam, et omnia erant ibi in risu et letitia. Et subito factum fuit silentium; et beatus Petrus, incipiens loqui, dixit: Si mutor in colore, non est mirum, quoniam ille qui usurpat locum meum in terra, de cimiterio meo fecit cloacam, scilicet viam subterraneam per quam vadunt feces, unde dyabolus multum placatur. Et sic domina Beatrix etiam mutavit colorem et fuit quasi eclipsata. Demum dixit Sanctus Petrus: Non fuit sponsa Christi, scilicet Ecclesia, nutrita propter acquirere aurum aut argentum; sed propter acquisitionem vite eterne, que fuit in incremento et crevit de sanguine meo et de sanguine Lini, Cleti, Sixti, Pii, Calixti et Urbani, qui omnes sparserunt sanguinem cum multo fletu. Nec fuit nostra intentio, quod ad nostram manum dexteram sederent Guelfi et ad sinistram Gebellini; nec quod claves michi concesse essent signaculum in vexillo, in preliis factis contra Christianos; nec quod facies mea esset figura in sigillo privilegiorum falsorum et symoniace concessorum. Nam in veste pastorum videntur hinc lupi per omnia pascua, idest per omnes dyoceses, nedum in curia romana; de sanguine nostro preparant se ad bibendum Caorsyni et Guaschi, ita quod bonum principium ad malum finem tendere videtur: sed divina Providentia, que succurrit glorie romane cum Scipione, etiam succurrat. Demum dicit auctor, quod tota illa militia ascendit in celum novum in multitudine, sicut nives in multitudine descendunt de aiere. Tunc domina Beatrix dixit auctori: Inclina oculos inferius versus terram, et inspice quomodo tu es revolutus. Et respexit auctor terram ab occidente ad orientem; et tunc subito ipse evulsus de signo Geminorum, exiens de octava spera, intravit nonam speram, sive primum mobile, quod nullam habet stellam, cuius omnes partes sunt uniformes, cuius motus dirigit omnes motus aliarum sperarum, et in quo est principium temporis atque radix. In hoc capitulo in fine prophetat auctor de bona fortuna superventura, que per unum optimum principem mundum et sanctam Dei Ecclesiam reparabit. Sed subtiliter prophetat hic auctor; ideo, quomodo et qualiter et per quem modum, in Commento limpide continetur.
+In isto vicesimoseptimo capitulo quod incipit: *Patri, Filio et Spiritui Sancto*, auctor reintroducit Sanctum Petrum ad conquerendum de pastoribus Ecclesie, qui deviaverunt a tramite recto Iesu Christi, et conducunt populum Christi male, et exemplificant pexime eum. Dicit igitur auctor, quod toti Trinitati Paradisus incepit dare gloriam, et omnia erant ibi in risu et letitia. Et subito factum fuit silentium; et beatus Petrus, incipiens loqui, dixit: Si mutor in colore, non est mirum, quoniam ille qui usurpat locum meum in terra, de cimiterio meo fecit cloacam, scilicet viam subterraneam per quam vadunt feces, unde dyabolus multum placatur. Et sic domina Beatrix etiam mutavit colorem et fuit quasi eclipsata. Demum dixit Sanctus Petrus: Non fuit sponsa Christi, scilicet Ecclesia, nutrita propter acquirere aurum aut argentum; sed propter acquisitionem vite eterne, que fuit in incremento et crevit de sanguine meo et de sanguine Lini, Cleti, Sixti, Pii, Calixti et Urbani, qui omnes sparserunt sanguinem cum multo fletu. Nec fuit nostra intentio, quod ad nostram manum dexteram sederent Guelfi et ad sinistram Gebellini; nec quod claves michi concesse essent signaculum in vexillo, in preliis factis contra Christianos; nec quod facies mea esset figura in sigillo privilegiorum falsorum et symoniace concessorum. Nam in veste pastorum videntur hinc lupi per omnia pascua, idest per omnes dyoceses, nedum in curia romana; de sanguine nostro preparant se ad bibendum Caorsyni et Guaschi, ita quod bonum principium ad malum finem tendere videtur: sed divina Providentia, que succurrit glorie romane cum Scipione, etiam succurrat. Demum dicit auctor, quod tota illa militia ascendit in celum nonum in multitudine, sicut nives in multitudine descendunt de aiere. Tunc domina Beatrix dixit auctori: Inclina oculos inferius versus terram, et inspice quomodo tu es revolutus. Et respexit auctor terram ab occidente ad orientem; et tunc subito ipse evulsus de signo Geminorum, exiens de octava spera, intravit nonam speram, sive primum mobile, quod nullam habet stellam, cuius omnes partes sunt uniformes, cuius motus dirigit omnes motus aliarum sperarum, et in quo est principium temporis atque radix. In hoc capitulo in fine prophetat auctor de bona fortuna superventura, que per unum optimum principem mundum et sanctam Dei Ecclesiam reparabit. Sed subtiliter prophetat hic auctor; ideo, quomodo et qualiter et per quem modum, in Commento limpide continetur.
 
 <!-- p. [1132] (1186) -->
 
@@ -16,7 +16,7 @@ In isto vicesimoseptimo capitulo quod incipit: *Patri, Filio et Spiritui Sancto*
 &emsp;Incepit gloriam totus Paradisus,\
 &emsp;Ita quod inebriabar dulci cantu.
 
-2 Ciò ch'io udiva, mi sembrava un riso\
+2 Ciò ch'io vedeva, mi sembrava un riso\
 &emsp;Dell' universo; per che mia ebrezza\
 &emsp;M'entrava per l'udito e per lo viso.
 
@@ -52,7 +52,7 @@ In quarta parte, que incipit ibi:
 
 O cupiditas, que mortales offendis:
 
-O cupidigia, ch'e mortali offendi.
+O cupidigia, ch'e mortali affonde.
 
 auctor exclamat contra omnes viventes in vitiis involutos.
 
@@ -74,7 +74,7 @@ Iam auctor exclamat in laudem huius letitie, dicens: *O gioya*! idest iucunditas
 
 5 E tal ne la sembianza sua divenne,\
 &emsp;Qual diverrebbe Iove, s'elli e Marte\
-&emsp;Fosser augelli, e cambiansersi penne.
+&emsp;Fosser augelli, e cambiassersi penne.
 
 5 Et talis in similitudine sua devenit,\
 &emsp;Qualis deveniret Iuppiter, si ipse et Mars\
@@ -114,7 +114,7 @@ Iam auctor exclamat in laudem huius letitie, dicens: *O gioya*! idest iucunditas
 
 (1) predecte — (2) di Santo Petro.
 
-et pacis! (quia vita terrena est imperfecta et diminuta, plena guerris et divisionibus et odiis, que cum labore queritur, cum curis servatur, cum dolore perditur). O sine brama, idest sine desiderio afflictivo, secure delitie! (quia ultra illas nihil petitur nec desideratur).
+et pacis! (quia vita terrena est imperfecta et diminuta, plena guerris et divisionibus et odiis, que cum labore queritur, cum curis servatur, cum dolore perditur). O sine brama, idest sine desiderio afflictivo, secure divitie! (quia ultra illas nihil petitur nec desideratur).
 
 Ante oculos quatuor faces, idest facule, scilicet ille tres anime, trium Apostolorum, et quarta anima Ade, stabant accense, scilicet relucentes; et illa, scilicet anima Sancti Petri, que prius venit, incepit fieri vivacior, idest lucidior, et talis in similitudine (comparatio est ista in similitudine), idest in apparentia, sua devenit, idest effecta est, qualis deveniret Iuppiter, idest efficeretur, si ipse et Mars essent aves et cambi[a]rent pennas inter se. Nota quod Iuppiter est albus, idest argenteus. Mars ignitus [id]est rubeus. Modo si Iuppiter et Mars, due planete, cambi[a]rent pennas, idest colores, Iuppiter efficeretur rubeus, licet in se sit albus, et Mars, qui est rubeus, fieret argenteus. Nota etiam quod cambi[a]re in facie colorem album in rubeum, est quasi semper signum verecundie, quia, quando quis verecundatur in facie, efficitur rubeus. Talis effectus est hic nunc Sanctus Petrus, qui mutavit colorem album in rubeum pro pudore, scilicet loquendo turpia et verecunda, que commictunt Summi Pontifices successores sui, et depinxit se verecundia; et omnes anime, que erant ibi, mutaverunt colorem, in signum displicentie quam habent de turpibus operibus summorum Pontificum.
 
@@ -161,7 +161,7 @@ Ille qui usurpat (scilicet Bonifacius, qui usurpavit papatum a Celestino, ut dic
 &emsp;Per esser ad acquisto d' oro usata;
 
 14 Non fuit sponsa Christi educata\
-&emsp;De sanguine Lini, illius Cleti,\
+&emsp;De sanguine meo, Lini, illius Cleti,\
 &emsp;Ut illa esset ad acquisitionem auri usitata;
 
 15 Ma per acquisto d' esto viver lieto\
@@ -212,7 +212,7 @@ Nota quod iste partialitates, scilicet gebellina et guelfa, multum vigent in Yta
 
 19 In veste di pastor lupi rapaci\
 &emsp;Si veghon di quassù per tutti e paschi (1):\
-&emsp;O vendetta di Dio, perchè più giaci!
+&emsp;O difesa di Dio, perchè più giaci!
 
 19 Quia in veste pastoris lupi rapaces\
 &emsp;Videntur abhinc per omnia pascua:\
@@ -240,13 +240,13 @@ et se sedere ad dexteram Pape et Ecclesie: Gebellini reputantur esse de parte Im
 
 Non fuit nostra intentio, quod ad dexteram manum, scilicet Summi Pontificis, vel Ecclesie, vel summorum Pontificum, nostrorum successorum, pars, scilicet populi Christiani, que est guelfa, supple sederet, pars, scilicet alia, idest gebellina, ad aliam, scilicet sinistram, populi Christiani (idest, non fuit intentio Christi aut Apostolorum, quod Ecclesiastici prelati tenerent Guelfos ecclesiasticos, et Gebellinos contra Ecclesiam, et per consequens Guelfos bene tractarent et Gebellinos male); nec quod claves, que fuerunt michi concesse, devenirent, idest fierent, vel portarentur, signaculum in vexillis, quod contra baptizatos preliaretur, scilicet ubi sanguis Christianorum effunditur. Dantes habebat respectum ad Bonifacium papam octavum, qui Christianis tunc temporis inferebat prelia, maxime illis de Columpna in Campania, et maxime circa Penestrinum.
 
-Penestrinum est una civitas in Campania romana, multum fidelis illis nobilibus de Columpna: licet tamen aliquando, Summis Pontificibus et Prelatis Christi Ecclesie uti brachio seculari. Nam Augustinus et alii doctores consentiunt, quod quando expedit, Ecclesia potest et debet uti brachio seculari; et hoc fecit Beatus Gregorius. Videtur etenim quod Sanctus Petrus verecundetur, quod figura faciei eius sit in bulla falsa etc. symoniaca; irascitur et dicit: Nec quod ego essem figuram sigilli privilegiis venditis et mendacibus, unde ego multo rubeo, idest verecundor et disfavillo, idest inflammor.
+Penestrinum est una civitas in Campania romana, multum fidelis illis nobilibus de Columpna: licet tamen aliquando, Summis Pontificibus et Prelatis Christi Ecclesie uti brachio seculari. Nam Augustinus et alii doctores consentiunt, quod quando expedit, Ecclesia potest et debet uti brachio seculari; et hoc fecit Beatus Gregorius. Videtur etenim quod Sanctus Petrus verecundetur, quod figura faciei eius sit in bulla falsa etc. symoniaca; irascitur et dicit: Nec quod ego essem figura sigilli privilegiis venditis et mendacibus, unde ego multo rubeo, idest verecundor et disfavillo, idest inflammor.
 
 Et quare? supple. Quia in veste pastorum lupi rapaces videntur abhinc ab omni pascua, idest per omnes ecclesias; quia nedum Summi Pontifices, sed etiam alii Episcopi. O defensio Dei, quare tantum iaces! Quasi dicat: Cur dormis? cur [non] excitaris ad puniendum malos pastores? Loquitur hic auctor more Evangelii dicentis: Veniunt ad vos in vestimentis ovium, intrinsecus sunt autem lupi rapaces.
 
 De sanguine nostro Chaorsini (per istum de Chaorsini[s] intellige papam Ioannem, successorem Clementis de Vasconia, qui transtulit papatum ad partes galli[c]as, qui fuit magnus symoniacus et corrupit multum curiam romanam:
 
-successor eius fuit Ioannes papa, ditissimus papa, in cuius morte reperti sunt de suis decem et septem milliones florenorum. De *Caorsa*: idest de Caturgio, que est una civitas in Frantia, de qua civitate fuit ipse Ioannes papa; ideo per Chaorsinos intellige ipsum Ioannem, per Vascones ipsum Clementem et suos sequaces) et Vascones preparant se ad bibendum sanguinem (nam prelati Ecclesie symoniaci bibunt sanguinem sanctorum); o bone principium, ad quem vilem finem convenit, idest oportet, quod tu cadas! Quasi dicat: O Ecclesia sancta Dei, que habuisti ita bonum principium, ad quid devenisti, idest ad manus peximorum pastorum, et pexime es recta, ita quod oportebit te quasi cadere.
+successor eius fuit Ioannes papa, ditissimus papa, in cuius morte reperti sunt de suis decem et septem milliones florenorum. De *Caorsa*: idest de Caturgio, que est una civitas in Frantia, de qua civitate fuit ipse Ioannes papa; ideo per Chaorsinos intellige ipsum Ioannem, per Vascones ipsum Clementem et suos sequaces) et Vascones preparant se ad bibendum sanguinem (nam prelati Ecclesie symoniaci bibunt sanguinem sanctorum); o bonum principium, ad quem vilem finem convenit, idest oportet, quod tu cadas! Quasi dicat: O Ecclesia sancta Dei, que habuisti ita bonum principium, ad quid devenisti, idest ad manus peximorum pastorum, et pexime es recta, ita quod oportebit te quasi cadere.
 
 Nota quod Ecclesia Dei non deficiet unquam usque ad finem seculi: bene fluctuat et fluctuabit navicula Petri, sed
 
@@ -277,7 +277,7 @@ Nota quod Ecclesia Dei non deficiet unquam usque ad finem seculi: bene fluctuat 
 &emsp;Qui fecerant ibi nobiscum residentiam.
 
 25 Lo viso mio seguia e suoi sembianti,\
-&emsp;E seguì finche 'l mezzo, per lo molto,\
+&emsp;E seguì finchè 'l mezzo, per lo molto,\
 &emsp;Li tolse el trapassar di più avanti.
 
 25 Visus meus sequebatur suam apparentiam,\
@@ -329,7 +329,7 @@ Ab hora a qua ego respexeram prius, scilicet quando primo intravi istam speram o
 &emsp;Sotto e mie piedi, un segno e più partito.
 
 29 Et plus esset michi discoopertus situs\
-&emsp;Illius aiuole; sed sol procedebat,\
+&emsp;Illius aiuole; sed sol precedebat,\
 &emsp;Sub meis pedibus, in signum magis divisum.
 
 30 La mente innamorata, che donnèa\
@@ -370,7 +370,7 @@ istius mee domine, quando ego revidi omnia ista inferiora, super que ascenderam,
 &emsp;De pulchro nido Lede me evulsit,\
 &emsp;Et in celum velocissimum me impulsit.
 
-34 Le parti sue vicissime et excelse\
+34 Le parti sue vivissime et excelse\
 &emsp;Sì uniformi son, ch'io non so dire\
 &emsp;Qual (2) Beatrice per luogo mi scelse.
 
@@ -384,7 +384,7 @@ istius mee domine, quando ego revidi omnia ista inferiora, super que ascenderam,
 
 35 Sed ipsa, que videbat meum desiderium,\
 &emsp;Incepit, ridendo, tantum leta,\
-&emsp;Quod Deum apparebat in suo vultu iocundari:
+&emsp;Quod Deus apparebat in suo vultu iocundari:
 
 36 La natura del moto, che quieta\
 &emsp;El mezzo, e tutto l'altro intorno move,\
@@ -400,7 +400,7 @@ istius mee domine, quando ego revidi omnia ista inferiora, super que ascenderam,
 
 37 Et istud celum non habet aliud ubi\
 &emsp;Quam mentem divinam, in qua accenditur\
-&emsp;Amor qui volvit ipsum et virtus quam ipsum pluit.
+&emsp;Amor qui volvit ipsum et virtus que ipsum pluit.
 
 (1) primo mobile — (2) parte.
 
@@ -410,7 +410,7 @@ Et virtus, que michi indulsit, idest concessit, aspectum, idest respicere, de pu
 
 Partes sue, scilicet none spere, velocissime et excelse, ita uniformes sunt, quod ego nescio referre quem, sive qualem, Beatrix pro loco scelsit, idest pro loco sibi deputavit, vel elegit.
 
-Sed ipsa, scilicet Beatrix, que videbat meum desiderium, incepit, scilicet dicere, ridendo, tantum leta, quod Deus apparebat in suo risu *gioyre*, idest iucundari: natura mundi (loquitur auctor more Aristotilis, qui dicit natura universalis, idest Deus), que quietat medium (idest terram, quoad se, totam facit immobilem; nam terra quoad se tota est immobilis, licet quoad multas sui partes moveatur), et totum reliquum, idest omnia alia, circummovet (idest omnes alias speras, et incepit a nona), hic incipit, scilicet ab ista nona spera idest principium trahit, sicut a sua meta, idest termino.
+Sed ipsa, scilicet Beatrix, que videbat meum desiderium, incepit, scilicet dicere, ridendo, tantum leta, quod Deus apparebat in suo risu *gioyre*, idest iucundari: natura mundi (loquitur auctor more Aristotilis, qui dicit natura universalis, idest Deus), que quietat medium (idest terram, quoad se, totam facit immobilem; nam terra quoad se tota est immobilis, licet quoad multas sui partes moveatur), et totum reliquum, idest omnia alia, circummovet (idest omnes alias speras, et incepit a nona), hinc incipit, scilicet ab ista nona spera idest principium trahit, sicut a sua meta, idest termino.
 
 Et istud celum, scilicet nonum, non habet aliud ubi, idest locum, quam mentem divinam, idest non habet a quo dependeat et motum accipiat, nisi a mente divina, in qua accenditur amor, scilicet angelus, qui volvit ipsum, et virtus
 
@@ -476,7 +476,7 @@ Modo vult dicere auctor, sicut dicit Aristotiles in quarto Phisicorum, quod temp
 
 *O cupiditas, que mortales affundas*. *O cupidigia, che i mortali affonde*: hec est quarta pars huius capituli, in qua auctor exclamat contra omnes generaliter viventes in vanitatibus. Nam cupiditas est universalis radix omnium morborum, idest peccatorum. Et dicit auctor: O cupiditas, que mortales affundas, idest submergis in fundum, ita sub te, quod nullus habet posse, idest potentiam, trahere oculos extra tuas undas, idest de tuis deliciis, sive delectationibus. Et hoc probat auctor, dicens quod omnes a principio habent puritatem et munditiam post baptisma et bonum velle; sed ista non perseverant, impedita a cupiditate, a qua quasi nullus potest deviscari, quia cupiditas est viscus et tenax pix.
 
-Bene floret in hominibus velle, scilicet bonum, vel voluntas bona; sed pluvia continua convertit in bozzacchianes, idest in fructus imperfectos et putridos, susina vera, idest fructus veros. Bona comparatio est ista, licet sit grossa. In arboribus que dicuntur susine, tempore veris nascuntur flores, et postea ex eis, scilicet floribus, proveniunt fructus. Susinus producit susina. Sed si multa pluvia habundet, multa susina convertuntur et efficiuntur alterius forme, tortuose, plene vermibus, et dicuntur, sive vocantur, Florentie, *bozzachione*, fede. Vult dicere auctor, quod licet bona voluntas principiet in hominibus ad bene faciendum, tamen postea propter cupiditatem non proveniunt boni fructus, idest bona opera.
+Bene floret in hominibus velle, scilicet bonum, vel voluntas bona; sed pluvia continua convertit in bozzacchiones, idest in fructus imperfectos et putridos, susina vera, idest fructus veros. Bona comparatio est ista, licet sit grossa. In arboribus que dicuntur susine, tempore veris nascuntur flores, et postea ex eis, scilicet floribus, proveniunt fructus. Susinus producit susina. Sed si multa pluvia habundet, multa susina convertuntur et efficiuntur alterius forme, tortuose, plene vermibus, et dicuntur, sive vocantur, Florentie, *bozzachione*, fede. Vult dicere auctor, quod licet bona voluntas principiet in hominibus ad bene faciendum, tamen postea propter cupiditatem non proveniunt boni fructus, idest bona opera.
 
 Fides et innocentia sunt reperte solum in parvulis, quia non plus cognoscunt donec non sunt capaces doli; postea, idest post parum, quelibet prius fugit quam gene sint
 
@@ -525,7 +525,7 @@ Fides et innocentia sunt reperte solum in parvulis, quia non plus cognoscunt don
 49 Chè la fortuna, che tanto s'aspecta,\
 &emsp;Le poppe volgerà u'son le prore,\
 &emsp;Sì che la classe correrà directa;\
-&emsp;O vero fructo verrà doppo 'l fiore.
+&emsp;E vero fructo verrà doppo 'l fiore.
 
 49 Quod fortuna, que tantum expectatur,\
 &emsp;Puppes volvet ubi sunt prore,\
@@ -544,7 +544,7 @@ Sic efficitur pellis alba, nigra, in primo aspectu pulchre filie illius qui port
 
 Tu, ad hoc ut non facias tibi mirum, idest ut tu non mireris, scias quod in terra non est qui gubernet, idest bene Ecclesiam meam iuxta cor meum et animam meam, unde deviat, scilicet populus Christianus, et vadit extra viam humana familia, idest humanum genus.
 
-Modo auctor prophetat hic et facit consimilem prophetiam illis, quas fecit in primo capitulo Inferni et in ultimo Purgatorii. Ad intelligendum istud textum, nota quod secundum kalendarium quo utimur, annus noster continet tercentum sexagintaquinque dies et sex horas et centesimam partem unius hore vel diei: de qua centesima parte hore nulla fit mentio in kalendario; non quia illi, qui ordinaverunt kalendarium, non cognoverunt; sed videntes quod illa centesima hore non facit magnam varietatem nisi in longissimis temporibus, ideo neglexerunt eam. Nam in duobus millibus annorum et quadringentis variaretur una dies et non plus; ideo non curaverunt. Tamen si mundus duraverit diu, posset evenire, propter illam centesimam neglectam, quod illi menses qui sunt sub yeme, venirent sub estate et e converso; et sic ianuarius, qui est mensis valde yemalis, veniret estivalis: sed hoc non eveniet, nisi in millibus et millibus annorum. Modo vult prophetice dicere hic auctor, quod antequam mensis ianuarius, qui est nunc mens yemalis, exeat de yeme scilicet et fiat estivalis,
+Modo auctor prophetat hic et facit consimilem prophetiam illis, quas fecit in primo capitulo Inferni et in ultimo Purgatorii. Ad intelligendum istud textum, nota quod secundum kalendarium quo utimur, annus noster continet tercentum sexagintaquinque dies et sex horas et centesimam partem unius hore vel diei: de qua centesima parte hore nulla fit mentio in kalendario; non quia illi, qui ordinaverunt kalendarium, non cognoverunt; sed videntes quod illa centesima hore non facit magnam varietatem nisi in longissimis temporibus, ideo neglexerunt eam. Nam in duobus millibus annorum et quadringentis variaretur una dies et non plus; ideo non curaverunt. Tamen si mundus duraverit diu, posset evenire, propter illam centesimam neglectam, quod illi menses qui sunt sub yeme, venirent sub estate et e converso; et sic ianuarius, qui est mensis valde yemalis, veniret estivalis: sed hoc non eveniet, nisi in millibus et millibus annorum. Modo vult prophetice dicere hic auctor, quod antequam mensis ianuarius, qui est nunc mensis yemalis, exeat de yeme scilicet et fiat estivalis,
 
 <!-- p. 1141 (1195) -->
 
@@ -566,13 +566,13 @@ O senza brama sicura ricchezza!
 
 Non ci avviene mai di leggere, o ricordare, queste tre terzine dell'Alighieri, che nella nostra mente non succeda qualche cosa d'ineffabile, in cui sentiamo così vivo e vero quello che per fede sarà il Paradiso, che il dubitarne ci riescirebbe impossibile: ma a determinarne come che sia il concetto e ad esprimerlo con parole, ci sentiamo impotenti. La ragione è che da quelle tre terzine traluce una sintesi infinita, la sintesi della infinita vita divina. Lo stesso effetto producono in noi tutti que'luoghi scritturali, specialmente dei Salmi, d'Isaia, dell'Apocalisse, dove per immagini si accenna al canto, con cui in cielo è celebrata la gloria di Dio, la quale appunto forma il Paradiso. In Dio è la genesi del canto e in lui ne è il termine, come di tutte le altre cose: quindi la necessità che il compositore di musicali concenti, qualunque sia il tema da cui toglie l'inspirazione, si levi sopra lo stesso suo tema e sopra sè medesimo, se vuol riuscire ad un concetto armonico, che tiri e leghi a sè lo spirito; ma ad un tempo, per quanto egli s'inalzi, bisogna che maneggi così il suo concetto da farne in ultimo risultare un sentimento di dolce melodia, in cui sta ciò che incanta e rapisce l'anima e la inebria come di amore. Se non che, qui appunto dove egli arriva al suo trionfo, qui appunto, diciamo, s'accorge di aver a mala pena attinta una nota nell'oceano della melodia infinita, che tutte le comprende: di fatti, a quel momentaneo deliquio amoroso che con la sua composizione seppe destare in chi l'ebbe udita, succede un vuoto, e direm quasi una malinconia, per cui l'anima testè quasi beata, cade come in desolazione.
 
-Da ciò torna facile intendere che cosa sia la musica quaggiù. La musica è un concetto armonico in simultanea moltiplicità di suoni, che tende, ma senza poterla abbracciare, all'armonia infinita, in cui esso sta compreso e da cui deriva; ed è nello stesso tempo un concetto melodico, che scende parimente dall'infinito, cioè dalla circolata melodia eterna, che fa il Paradiso. All'infinito accenna chiaramente l'innalzarsi che fa a mano a mano nel suo concetto il compositore verso l'unità somma in cui la sua composizione dovrebbe allargarsi infinitamente, pigliandovi il suo compimento; ma l'arrivarvi gli è impossibile. Ora dunque, questo che quaggiù, così nella musica, come nelle scienze e in tutte le arti belle, è conato; conato più o meno vigoroso e potente, ma sempre conato, che non puo arrivare al sommo che dà il pieno e l'infinito; ne'Beati in cielo è fine pienamente conseguito, piena perfezione; quindi un'armonia infinita, un'infinita melodia, che formano una cosa sola, la quale da noi non può esprimersi in modo diverso da quello del Poeta. Ed anche i Libri santi non sanno chiamarlo altro che inebriamento dello spirito, «Inebriabantur ab uberibus domus tuae (Psal. XXXV);» e noi tutto quello che possiam dire è,
+Da ciò torna facile intendere che cosa sia la musica quaggiù. La musica è un concetto armonico in simultanea moltiplicità di suoni, che tende, ma senza poterla abbracciare, all'armonia infinita, in cui esso sta compreso e da cui deriva; ed è nello stesso tempo un concetto melodico, che scende parimente dall'infinito, cioè dalla circolata melodia eterna, che fa il Paradiso. All'infinito accenna chiaramente l'innalzarsi che fa a mano a mano nel suo concetto il compositore verso l'unità somma in cui la sua composizione dovrebbe allargarsi infinitamente, pigliandovi il suo compimento; ma l'arrivarvi gli è impossibile. Ora dunque, questo che quaggiù, così nella musica, come nelle scienze e in tutte le arti belle, è conato; conato più o meno vigoroso e potente, ma sempre conato, che non può arrivare al sommo che dà il pieno e l'infinito; ne'Beati in cielo è fine pienamente conseguito, piena perfezione; quindi un'armonia infinita, un'infinita melodia, che formano una cosa sola, la quale da noi non può esprimersi in modo diverso da quello del Poeta. Ed anche i Libri santi non sanno chiamarlo altro che inebriamento dello spirito, «Inebriabantur ab uberibus domus tuae (Psal. XXXV);» e noi tutto quello che possiam dire è,
 
 O gioia! o ineffabile allegrezza!\
 O vita intera d'amore e di pace!\
 O senza brama sicura ricchezza!
 
-In somma, anche questo è uno di que'concetti, de'quali diceva Cristo a Nicodemo: «Se dicendovi io cose terrene, non credete, come crederete, dicendovi le celesti?» (IAN. III).
+In somma, anche questo è uno di que'concetti, de'quali diceva Cristo a Nicodemo: «Se dicendovi io cose terrene, non credete, come crederete, dicendovi le celesti?» (IOAN. III).
 
 Abbiamo detto che armonia e melodia in cielo sono una cosa sola. La ragione è che in cielo si sta sopra il tempo, il quale solo pone divario tra l'una e l'altra. Sono esse quaggiù distinti elementi del canto, i quali lassù si fonderanno, come vi si fonde, se possiam così dire, in un concetto unico tutta l'infinita varietà delle creature fatte o possibili all'onnipotenza divina. E però l'armonia ivi diventa melodia, perchè si dispone per gradi, simultanei sì, ma con ordine logico di posterità ed anteriorità per la generazione dell'uno accordo dall'altro; e la melodia diventa armonia, perchè invece di stendersi nel corso del tempo, si contrae in un presente che è e sarà sempre lo stesso per tutta l'eternità.
 

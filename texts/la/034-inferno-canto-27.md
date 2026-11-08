@@ -328,9 +328,9 @@ tentaverat expugnare Penestrinum, civitatem quamdam in Campania, valde fortem. N
 
 Dum ego forma fui de ossibus et pulpis (idest dum vixi). quam mater michi dedit, opera mea non fuerunt leonina, sed vulpina; idest non fui valens in armis, sed bene fui astutus; et de mea astutia et malitia ivit fama usque ad extremum Occidentis.
 
-*Avisamenta*, idest argumenta, et coopertas vias, ego scivi omnia, et ita duxi corum artes, quod ad fines terre sonus exivit, idest ubique sonuit fama mea: idest fui astutissimus et subtilissimi ingenii.
+*Avisamenta*, idest argumenta, et coopertas vias, ego scivi omnia, et ita duxi eorum artes, quod ad fines terre sonus exivit, idest ubique sonuit fama mea: idest fui astutissimus et subtilissimi ingenii.
 
-Quando me vidi devenisse in illam partem mee etatis, scilicet antique, ubi, idest in qua parte etatis, quilibet deberet deponere vel eta recolligere sartas, idest funes;
+Quando me vidi devenisse in illam partem mee etatis, scilicet antique, ubi, idest in qua parte etatis, quilibet deberet deponere vela et recolligere sartas, idest funes;
 
 <!-- p. 336 (0390) -->
 
@@ -480,11 +480,11 @@ Et postea dixit michi: Tuum cor non suspicetur: ex nunc te absolvo; et tu doceas
 
 43 Disse: Quest'è de'rei del fuoco furo;\
 &emsp;Perch'io là dove vedi so'perduto,\
-&emsp;E sì vestito (19) andando mi raccuro (20).
+&emsp;E sì vestito (19) andando mi rancuro (20).
 
 43 Dixit: Iste est de reis ignis furi;\
 &emsp;Ex quo ubi vides sum perditus,\
-&emsp;Et ira vestitus eundo me rancuro.
+&emsp;Et ita vestitus eundo me rancuro.
 
 (1) suoi. — (2) in apparentia. — (3) e non consentirli. — (4) hora. — (5) grande. — (6) poco. — (7) al. sull'alto. — (8) sedia papale. — (9) sancto. — (10) demoni. — (11) nell'Inferno. — (12) dannati. — (13) decte a papa Bonifatio. — (14) al capo. — (15) pechare. — (16) giudice dell'Inferno. — (17) Mynos. — (18) coda. — (19) di fuoco. — (20) mi ravvegho, benchè tardi.
 
@@ -500,7 +500,7 @@ Ad Mynoem, scilicet iudicem Inferni, me portavit; et ille *attorsit*, scilicet c
 
 <!-- p. 339 (0393) -->
 
-44 Quand'ebbe suo desir così compiuto,\
+44 Quand'ebbe suo dir così compiuto,\
 &emsp;La fiamma dolorando si partio,\
 &emsp;Torcendo e dibactendo 'l corno acuto.
 
@@ -530,9 +530,9 @@ Nos transivimus ultra, et ego et dux meus super scopulum, idest super pontem non
 
 Lo strazio de' miseri spiriti, passati dalla prima morte alla seconda nell'Inferno, a cui accenna il Poeta in questo canto in corrispondenza della rivelazione divina, è la terribile chiusura, l'accentramento e l'isolamento, a cui son ridotti, nella passione che quassù li fece deviare fino ad anteporla definitivamente al sommo bene; chiusura, accentramento, isolamento fuori d'ogni luce ed armonia, in cui il loro pensiero potesse come che sia mutarsi e trovare fosse pur un'ombra di refrigerio.
 
-A mostrarci questo strazio, l'Alighieri sceglieva fra tutti (e desta maraviglia) Guido da Montefeltro, già famoso tessitor d'inganni e fiero uomo di guerra per cupidigia di comando, facendonelo reo sin dopo d'essersi ravveduto e aver indossato a severa ammenda le divise di Francescano. Guido, a capo de' Fiorentini e de' Forlivesi combattè primamente contro Bologna; poi sgominava i Fiorentini e i Forlivesi; appresso distruggeva le armi (francesi le più) che assediavano Forlì; e infine, perditore di Cervia e di Faenza, e non domo dall'esilio in Piemonte, accettava di regger Pisa, di cui ristorate le forze, pigliava a Firenze Pontedera: ma fatta tra le due città la pace, e riconciliatosi con Bonifacio VIII, la cui mercè potè rientrare in Forli, si rendeva penitente nell'Ordine Francescano.
+A mostrarci questo strazio, l'Alighieri sceglieva fra tutti (e desta maraviglia) Guido da Montefeltro, già famoso tessitor d'inganni e fiero uomo di guerra per cupidigia di comando, facendonelo reo sin dopo d'essersi ravveduto e aver indossato a severa ammenda le divise di Francescano. Guido, a capo de' Fiorentini e de' Forlivesi combattè primamente contro Bologna; poi sgominava i Fiorentini e i Forlivesi; appresso distruggeva le armi (francesi le più) che assediavano Forlì; e infine, perditore di Cervia e di Faenza, e non domo dall'esilio in Piemonte, accettava di regger Pisa, di cui ristorate le forze, pigliava a Firenze Pontedera: ma fatta tra le due città la pace, e riconciliatosi con Bonifacio VIII, la cui mercè potè rientrare in Forlì, si rendeva penitente nell'Ordine Francescano.
 
-A quanto ne dice in questo canto il Poeta, la sua conversione non sarebbe stata si forte, che non ricadesse; e, che peggio è, con sì mala coscienza, che a ragione, nella finzione qui fatta, non riuscisse al Patriarca Serafico, di cui era addivenuto figliuolo, trarlo dalle branche de' neri Cherubini, i quali, morto, ne vollero l'anima lor preda. L'Alighieri pertanto finge di trovarlo nel suo Inferno, terribilmente fisso in quelle trame e fazioni ch'eran state il più di sua vita. E Guido, sorpreso di quella inaspettata apparizione, immediatamente gli chiede che cosa fosse della Romagna, che aveva già tanto insanguinata.
+A quanto ne dice in questo canto il Poeta, la sua conversione non sarebbe stata sì forte, che non ricadesse; e, che peggio è, con sì mala coscienza, che a ragione, nella finzione qui fatta, non riuscisse al Patriarca Serafico, di cui era addivenuto figliuolo, trarlo dalle branche de' neri Cherubini, i quali, morto, ne vollero l'anima lor preda. L'Alighieri pertanto finge di trovarlo nel suo Inferno, terribilmente fisso in quelle trame e fazioni ch'eran state il più di sua vita. E Guido, sorpreso di quella inaspettata apparizione, immediatamente gli chiede che cosa fosse della Romagna, che aveva già tanto insanguinata.
 
 Se tu pur mo in questo mondo cieco\
 Caduto se'di quella dolce terra\
@@ -548,6 +548,6 @@ L'arte (ed è quella che qui ammiriamo), con cui il Poeta, conservando intero il
 
 Ma per quale ragione Dante, a ritrarre questo strazio, sceglieva Guido da Montefeltro, mettendolo a forza nel suo Inferno? egli che già ne aveva riconosciuta e lodata la sincera conversione e il fine santo con quelle solenni parole del *Convito*: « Certo, il cavalier Lancilotto non volle entrare colle vele alte, nè il nobilissimo nostro latino, Guido da Montefeltro. Bene questi nobili calarono le vele delle mondane operazioni. »
 
-Rispondiamo col Tommaseo. Nessuno storico appone a Guido l'iniquo consiglio che dall'Alighieri gli è fatto dare al Pontefice: nè questi ne aveva bisogno. Che dunque? Forse il Poeta su qualche rumore di fama, o sulla possibilità della cosa, fondo il suo trovato. E poichè il *Convito*, dove con tanto magnifiche parole loda gli ultimi anni di Guido, pare composto verso il 1308, una delle due: o questo canto era allora già scritto, ed egli nel *Convito* lo volle espiare; o già era scritto il *Convito*, e allora nuove voci ed ire nuove gli dettarono la poetica dannazione. Comunque sia, il colloquio non fu che un romanzo storico a poter mettere il penitente Francescano nell'Inferno; non già per avversione qualsiasi a lui o al Serafico Instituto che lo accolse pentito, e per cui il Poeta sentiva sì profonda riverenza; ma a confermare la punizione contro chi egli aveva creduto che fosse stato causa di gravissime sventure all'Italia e alla Chiesa.
+Rispondiamo col Tommaseo. Nessuno storico appone a Guido l'iniquo consiglio che dall'Alighieri gli è fatto dare al Pontefice: nè questi ne aveva bisogno. Che dunque? Forse il Poeta su qualche rumore di fama, o sulla possibilità della cosa, fondò il suo trovato. E poichè il *Convito*, dove con tanto magnifiche parole loda gli ultimi anni di Guido, pare composto verso il 1308, una delle due: o questo canto era allora già scritto, ed egli nel *Convito* lo volle espiare; o già era scritto il *Convito*, e allora nuove voci ed ire nuove gli dettarono la poetica dannazione. Comunque sia, il colloquio non fu che un romanzo storico a poter mettere il penitente Francescano nell'Inferno; non già per avversione qualsiasi a lui o al Serafico Instituto che lo accolse pentito, e per cui il Poeta sentiva sì profonda riverenza; ma a confermare la punizione contro chi egli aveva creduto che fosse stato causa di gravissime sventure all'Italia e alla Chiesa.
 
 La vera storia della fine di Guido è, che l'anno 1297 (dicono le Cronache Umbre) recatosi al Perdono della Porziuncola in Assisi, quivi nel Convento di San Francesco gravemente infermava, santamente moriva, e aveva onorata sepoltura, decorato poi dai Cronisti e Storici dell'Ordine del titolo di Beato. E il Serravalle ricorda l'umiltà di lui, che, già conte superbo, vestite le divise Francescane, andava dimessamente limosinando di porta in porta in Ancona, rendendosi così, con la pratica delle più severe virtù, meritevole del cielo.

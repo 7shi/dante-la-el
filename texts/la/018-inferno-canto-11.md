@@ -176,8 +176,8 @@ Sed quia fraus est malum proprium hominis, plus displicet Deo, et ideo stant inf
 &emsp;Et in sua bona: et ideo in secundo\
 &emsp;Girone oportet quod eos sine profecto peniteat
 
-15 Qualunque prima sè del vostro mondo,\
-&emsp;Biscazza e froda la sua facultade,\
+15 Qualunque priva sè del vostro mondo,\
+&emsp;Biscazza e fonde la sua facultade,\
 &emsp;E piange dove debba esser giocondo.
 
 15 Quicumque privat se de vestro mundo,\
@@ -252,7 +252,7 @@ Ista est tertia species. Violentia, que infertur in Deum, est gravior. *Bonitate
 
 22 Onde nel cerchio minor, dov'è il puncto\
 &emsp;Dell'universo in su che (3) Dite siede,\
-&emsp;Qualunque trade in eterno è consumcto.
+&emsp;Qualunque trade in eterno è consunto.
 
 22 Ideo in circulo minori, ubi est punctus\
 &emsp;Universi in quo sedet Dites,\
@@ -396,7 +396,7 @@ Si tu bene intueris istam sententiam, et reduxeris tibi ad mentem, qui sunt illi
 
 peccatores, qui cruciantur extra istam civitatem roggiam, idest rubeam, sive ignitam, peccaverunt per incontinentiam; sed illi, qui tormentantur intra civitatem istam, peccaverunt per malitiam et per stultam bestialitatem. De peccato malitie et stulta bestialitate pertractat Aristotiles primo Ethicorum. Nam stulta bestialitas opponitur sapientie, saltem prudentie.
 
-*Anchora un poco*. *Adhuc modicum retro te volre*:
+*Anchora un poco*. *Adhuc modicum retro te volve*:
 
 hec est quarta pars et ultima istius capituli, in qua auctor facit secundam questionem magistro suo, que est ista: Tu dixisti quod Caorsa, idest usura, offendit divinam bonitatem; declara me de hoc.
 
@@ -415,7 +415,7 @@ Notanda sunt hic aliqua, quorum primum est, quare natura et ars dicantur res Dei
 &emsp;Prendere suam vitam, et multiplicare gentem.
 
 37 Ma perchè l'usurier altra via tiene,\
-&emsp;Per sua natura, e per lo suo seguace\
+&emsp;Per sè natura, e per lo suo seguace\
 &emsp;Dispregia, poi ch'in altro pon la spene.
 
 37 Et quia usurarius aliam viam tenet,\

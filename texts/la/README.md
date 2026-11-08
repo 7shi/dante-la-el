@@ -107,7 +107,7 @@ The cantica opens with its half-title and Serravalle's *Preambula* to it, one co
 | [055-purgatorio-canto-13.md](055-purgatorio-canto-13.md) | XIII | [567]–[576] | Noi eravamo al sommo de la scala, | *Dolore, preghiera e amore nel Purgatorio* |
 | [056-purgatorio-canto-14.md](056-purgatorio-canto-14.md) | XIV | [577]–[589] | Chi è costui che 'l nostro monte cerchia, | *I beni terreni ed il bene eterno* |
 | [057-purgatorio-canto-15.md](057-purgatorio-canto-15.md) | XV | [591]–602 | Quanto, tra l'ultimar dell'hora terza | *Miserabile punizione che il Poeta dà al vizio dell'ira e profondo insegnamento che v'inchiuse* |
-| [058-purgatorio-canto-16.md](058-purgatorio-canto-16.md) | XVI | [603]–[614] | Buio d'inferno, e di nocte privata | *La liberta umana e la suprema sua legge* |
+| [058-purgatorio-canto-16.md](058-purgatorio-canto-16.md) | XVI | [603]–[614] | Buio d'inferno, e di nocte privata | *La libertà umana e la suprema sua legge* |
 | [059-purgatorio-canto-17.md](059-purgatorio-canto-17.md) | XVII | [615]–[625] | Ricorditi, lector, se mai nell'alpe | *L'amore vita dell'universo* |
 | [060-purgatorio-canto-18.md](060-purgatorio-canto-18.md) | XVIII | [627]–[637] | Posto havea fine al suo ragionamento | *Il cuore radice del pensiero* |
 | [061-purgatorio-canto-19.md](061-purgatorio-canto-19.md) | XIX | [639]–[649] | Nell'hora che non può 'l calor diurno | *Bassezza del vizio dell'accidia e sublimità del suo contrapposto, la fatica e il dolore* |

@@ -172,7 +172,7 @@ Notandum est hic quod hic spiritus erat anima Ugonis Ciappette, qui Ugo, secundu
 &emsp;Ch'io attenda di là, ma perchè tanta\
 &emsp;Gratia in te luce pria che sia morto.
 
-14 Etipse: Ego dicam tibi, non propter confortationem\
+14 Et ipse: Ego dicam tibi, non propter confortationem\
 &emsp;Quam ego expectem illinc, sed quia tanta\
 &emsp;Gratia in te lucet priusquam sis mortuus.
 
@@ -258,7 +258,7 @@ Filius fui unius macellarii parisiensis. Quando reges antiqui defecerunt omnes, 
 &emsp;Suam rapinam; et postea, pro emenda,\
 &emsp;Pontem et Normandiam cepit, et Vasconiam.
 
-23 Karlo (6) venne in Italia, e, per vicenda (7),\
+23 Karlo (6) venne in Italia, e, per ammenda (7),\
 &emsp;Victima fe' di Corradino (8); e poi\
 &emsp;Ripinse in ciel Thomaso (9), per emenda.
 
@@ -532,7 +532,7 @@ Aliquando loquitur unus alte, aliquando submisse, secundum affectionem, que ad d
 
 47 Noi stavamo immobili e sospesi,\
 &emsp;Com' e' pastori che pria udir quel canto (4),\
-&emsp;Finchè 'l tremar cessò, et io 'l compresi.
+&emsp;Finchè 'l tremar cessò, et el compièsi.
 
 47 Nos stabamus immobiles et suspensi,\
 &emsp;Sicut pastores qui prius audierunt illum cantum,\
@@ -563,7 +563,7 @@ Postea resumpsimus iter nostrum sanctum, respiciendo umbras, que iacebant per te
 <!-- p. 662 (0716) -->
 
 49 Nulla ignoranza mai con tanta guerra\
-&emsp;Mi fe' desiderando di sapere,\
+&emsp;Mi fe' desideroso di sapere,\
 &emsp;Se la memoria mia in ciò non erra,
 
 49 Nulla ignorantia unquam cum tanta guerra\
@@ -604,6 +604,6 @@ Compita la purgazione de' peccati più gravi, che da interna malizia dello spiri
 
 Posto che l'ultima finalità delle cose create sta nell'ordine sovrannaturale, a cui, come accennammo altrove, tutto il creato gemendo, « tota creatura ingemiscit », sospira, perchè quivi troverà il suo compimento, pare a bella prima strano che questo passaggio, di certo non contrario a natura, anzi suo desiderio supremo, debba venir accompagnato da siffatto pauroso sconvolgimento di tutta la montagna del Purgatorio. Però chi con profondo acume ne pensi il significato, lo trova, non che solo ragionevole, ma contenere, o meglio adombrare, una di quelle verità altissime di teologia, nelle quali le filosofiche speculazioni hanno la luce che le compie e le fa sicure.
 
-Il passaggio dallo stato naturale a quello sopra natura non è già un graduale svolgimento di forze create, sibbene un salto. Ad esso accennò Gesù, quando, prenunziando l'ultima sua venuta, assomigliò la palingenesi che ne seguirà, ad un lampo che uscendo di levante splende fino al ponente: cioè si compirà in un attimo: e dunque per un salto, il quale traslocherà l'universo dal tempo all'eternità. Imperocchè, quantunque il soprannaturale stupendamente, anzi divinamente, si armonizzi con la natura, da parer quasi una cosa sola, pure quello avanza questa infinitamente, perchè essenzialmente ne differisce e ne trascende tutte le leggi; impossibile quindi l'elevazione dell'una all'altro senza un miracolo. Difatti, alla morte di Cristo il velo del tempio non si alzò già, o si rimosse, semplicemente, ma si squarciò: segno del salto, per cui l'umanità, che aveva per noi assunta, entrò nell'eternità. Dottrina, che gitta a terra le teoriche del naturalismo, il quale non osserva che il creato, comunque indefinito voglia da noi immaginarsi, per ciò solo che non è positivamente infinito, lascia un' infinita distanza tra sè e l'infinito, in cui la creatura, addiventando infinita, trovi il pieno suo appagamento: distanza quindi insuperabile, fosse pure per un progresso di eternita. Il fatto dunque succede per un miracolo; e a questo appunto accenna il Poeta coll'arcano scotimento della montagna, sempre che una di quelle anime, compita la purgazione, sale al cielo, e con le voci di gioia e di glorificazione all'Altissimo, che a tanto avvenimento mettono le sue sorelle ivi ancora rimaste a penosamente salire. E ottimamente si capisce che la natura, ricevendo una virtù nuova, una virtù ad essa infinitamente superiore, straordinariamente si scuote nel più intimo de'suoi penetrali, quasi temendo di perire: è però l'affanno della morte anche ne'santi: e però la paurosa catastrofe, predetta da Cristo, quando tutto l'universo sara traslatato nell'eternità.
+Il passaggio dallo stato naturale a quello sopra natura non è già un graduale svolgimento di forze create, sibbene un salto. Ad esso accennò Gesù, quando, prenunziando l'ultima sua venuta, assomigliò la palingenesi che ne seguirà, ad un lampo che uscendo di levante splende fino al ponente: cioè si compirà in un attimo: e dunque per un salto, il quale traslocherà l'universo dal tempo all'eternità. Imperocchè, quantunque il soprannaturale stupendamente, anzi divinamente, si armonizzi con la natura, da parer quasi una cosa sola, pure quello avanza questa infinitamente, perchè essenzialmente ne differisce e ne trascende tutte le leggi; impossibile quindi l'elevazione dell'una all'altro senza un miracolo. Difatti, alla morte di Cristo il velo del tempio non si alzò già, o si rimosse, semplicemente, ma si squarciò: segno del salto, per cui l'umanità, che aveva per noi assunta, entrò nell'eternità. Dottrina, che gitta a terra le teoriche del naturalismo, il quale non osserva che il creato, comunque indefinito voglia da noi immaginarsi, per ciò solo che non è positivamente infinito, lascia un' infinita distanza tra sè e l'infinito, in cui la creatura, addiventando infinita, trovi il pieno suo appagamento: distanza quindi insuperabile, fosse pure per un progresso di eternità. Il fatto dunque succede per un miracolo; e a questo appunto accenna il Poeta coll'arcano scotimento della montagna, sempre che una di quelle anime, compita la purgazione, sale al cielo, e con le voci di gioia e di glorificazione all'Altissimo, che a tanto avvenimento mettono le sue sorelle ivi ancora rimaste a penosamente salire. E ottimamente si capisce che la natura, ricevendo una virtù nuova, una virtù ad essa infinitamente superiore, straordinariamente si scuote nel più intimo de'suoi penetrali, quasi temendo di perire: è però l'affanno della morte anche ne'santi: e però la paurosa catastrofe, predetta da Cristo, quando tutto l'universo sarà traslatato nell'eternità.
 
-Forse si potrebbe anche dire, che tale sconvolgimento della natura materiale, all'ascendere che fa dalla montagna qualcuna di quelle anime al cielo, simboleggi il totale cessare delle relazioni tra l'anima ed il mondo corporeo; cessazione che s'inizia con la morte, e compiesi nell'ascendere dopo la purgazione alla gloria, benchè ne sia adeguato, anzi sovrabbondante, compenso il consorzio con la natura divina e gli spiriti gia beati. O vogliam dire che simboleggi l'interiore commozione, che a tal fatto tutta la natura sente, quasi novella offesa a quell'unità, per cui spiriti e corpi indissolubilmente uniti dovranno trasumanarsi, e tramutarsi infine tutto l'universo in una creazione nuova, quale ce la ritrae Giovanni nella sua Apocalisse, e che segnerà il pieno trionfo di Cristo in cielo.
+Forse si potrebbe anche dire, che tale sconvolgimento della natura materiale, all'ascendere che fa dalla montagna qualcuna di quelle anime al cielo, simboleggi il totale cessare delle relazioni tra l'anima ed il mondo corporeo; cessazione che s'inizia con la morte, e compiesi nell'ascendere dopo la purgazione alla gloria, benchè ne sia adeguato, anzi sovrabbondante, compenso il consorzio con la natura divina e gli spiriti già beati. O vogliam dire che simboleggi l'interiore commozione, che a tal fatto tutta la natura sente, quasi novella offesa a quell'unità, per cui spiriti e corpi indissolubilmente uniti dovranno trasumanarsi, e tramutarsi infine tutto l'universo in una creazione nuova, quale ce la ritrae Giovanni nella sua Apocalisse, e che segnerà il pieno trionfo di Cristo in cielo.

@@ -2,7 +2,7 @@
 
 # Capituli Vicesimisexti Summarium
 
-In isto capitulo vicesimosexto, quod incipit: *Dum dubitabam propter visum extinctum*, auctor tractat quomodo Sanctus Ioannes examinavit eum de Caritate, tertia virtute theologica. Notandum est, quod auctor finxit in capitulo vicesimoquarto, quomodo Sanctus Petrus examinavit eum de Fide, quia Sanctus Petrus fuit petra Fidei et fuit valde stabilis in ea, et in suis [Epistolis] canonicis de ipsa diffusius pertractavit. Sic etiam in capitulo vicesimoquinto, idest immediate precedenti, Sanctus Iacobus examinavit eum de Spe, de qua ipse Sanctus Iacobus in suis Epistolis canonicis fuit diffuse loquutus. Sic in isto capitulo, quia Sanctus Ioannes fuit valde dilectus a Christo, ut Evangelii testimonio comprobatur, et sic dilexit ipse Christum, et de Caritate multum locutus est in suis Epistolis canonicis, ideo auctor fingit se fuisse hic examinatum a Sancto Ioanne de Caritate. Dicit igitur auctor, quod dum dubitaret visum perdidisse, Sanctus Ioannes dixit ei: Non perdidisti visum, sed aliquantulum deviavit a te; cito ipsum reacquires, quia domina, que te conducit, habet in se virtutem circa oculos tuos, quam habuit manus Ananie circa Sanctum Paulum. Sed interdum quoad reacquires visum, die michi ubi anima tua ponit totam spem suam, et quam rem tu maxime amas et in qua posuisti finem tuum ultimatum. Cui dixit auctor, quod Alpha et O, idest Deus, erat illud in quo terminatur amor suus. Cui Apostolus dixit: Bene dicis, sed oportet te ultra procedere et dicere, unde directus fuisti et ductus ad sic faciendum, idest ad diligendum Deum super omnia. Cui dixit: Argumenta philosophica [et] Sacre Scripture, que indicant quomodo bonum in quantum apprehenditur, sic accendit apprehendentem ad amorem; etiam auctoritas Dei, qui dixit Moysi, Ostendam tibi omne bonum; et tu sternis michi idem in Evangelio tuo subtilissimo. Cui dixit Sanctus Ioannes: Habes alias cordas, te trahentes ad hoc? Cui dixit auctor: Ita; quia propter suam bonitatem creavit mundum, dedit mihi esse, per mortem suam redemit me. Et cum talia diceret auctor, tota curia Paradisi cantavit, Sanctus, Sanctus, Sanctus. Et tunc auctor recepit visum, et tunc percepit se acutius videre quam prius videbat. Et ecce, in quibusdam radiis et fulgoribus, apparuit anima Ade; unde auctor fecit sibi quatuor questiones, dicens: O pome mature, quia tu vides clare in speculo divino illa que volo scire, dic michi quantum tempus est quod Deus te creavit et in Paradiso te collocavit, et quantum stetisti in ipso Paradiso, et que fuit causa tue expulsionis inde, [et] quod fuit ydioma quo tu usus fuisti. Quas quatuor questiones Adam solvit optime. Videantur omnia hec in Commento super isto capitulo.
+In isto capitulo vicesimosexto, quod incipit: *Dum dubitabam propter visum extinctum*, auctor tractat quomodo Sanctus Ioannes examinavit eum de Caritate, tertia virtute theologica. Notandum est, quod auctor finxit in capitulo vicesimoquarto, quomodo Sanctus Petrus examinavit eum de Fide, quia Sanctus Petrus fuit petra Fidei et fuit valde stabilis in ea, et in suis [Epistolis] canonicis de ipsa diffusius pertractavit. Sic etiam in capitulo vicesimoquinto, idest immediate precedenti, Sanctus Iacobus examinavit eum de Spe, de qua ipse Sanctus Iacobus in suis Epistolis canonicis fuit diffuse loquutus. Sic in isto capitulo, quia Sanctus Ioannes fuit valde dilectus a Christo, ut Evangelii testimonio comprobatur, et sic dilexit ipse Christum, et de Caritate multum locutus est in suis Epistolis canonicis, ideo auctor fingit se fuisse hic examinatum a Sancto Ioanne de Caritate. Dicit igitur auctor, quod dum dubitaret visum perdidisse, Sanctus Ioannes dixit ei: Non perdidisti visum, sed aliquantulum deviavit a te; cito ipsum reacquires, quia domina, que te conducit, habet in se virtutem circa oculos tuos, quam habuit manus Ananie circa Sanctum Paulum. Sed interdum quoad reacquires visum, dic michi ubi anima tua ponit totam spem suam, et quam rem tu maxime amas et in qua posuisti finem tuum ultimatum. Cui dixit auctor, quod Alpha et O, idest Deus, erat illud in quo terminatur amor suus. Cui Apostolus dixit: Bene dicis, sed oportet te ultra procedere et dicere, unde directus fuisti et ductus ad sic faciendum, idest ad diligendum Deum super omnia. Cui dixit: Argumenta philosophica [et] Sacre Scripture, que indicant quomodo bonum in quantum apprehenditur, sic accendit apprehendentem ad amorem; etiam auctoritas Dei, qui dixit Moysi, Ostendam tibi omne bonum; et tu sternis michi idem in Evangelio tuo subtilissimo. Cui dixit Sanctus Ioannes: Habes alias cordas, te trahentes ad hoc? Cui dixit auctor: Ita; quia propter suam bonitatem creavit mundum, dedit mihi esse, per mortem suam redemit me. Et cum talia diceret auctor, tota curia Paradisi cantavit, Sanctus, Sanctus, Sanctus. Et tunc auctor recepit visum, et tunc percepit se acutius videre quam prius videbat. Et ecce, in quibusdam radiis et fulgoribus, apparuit anima Ade; unde auctor fecit sibi quatuor questiones, dicens: O pome mature, quia tu vides clare in speculo divino illa que volo scire, dic michi quantum tempus est quod Deus te creavit et in Paradiso te collocavit, et quantum stetisti in ipso Paradiso, et que fuit causa tue expulsionis inde, [et] quod fuit ydioma quo tu usus fuisti. Quas quatuor questiones Adam solvit optime. Videantur omnia hec in Commento super isto capitulo.
 
 <!-- p. [1120] (1174) -->
 
@@ -54,7 +54,7 @@ Continuans igitur auctor dicta in precedenti capitulo dicendis in isto, ostendit
 &emsp;Region ti conduce, ha nello sguardo\
 &emsp;La virtù ch'ebbe la mano d'Anania.
 
-4 Quia domina, que per istum divam\
+4 Quia domina, que per istam divam\
 &emsp;Regionem conducit te, habet in conspectu\
 &emsp;Virtutem quam habuit manus Ananie.
 
@@ -82,7 +82,7 @@ Ego dixi: Ad suum placitum et citum et tardum veniet remedium oculis, scilicet m
 
 6 Bonum, quod facit contentam istam curiam,\
 &emsp;Alfa et O [est] quante Scripture\
-&emsp;Michi legit amorem suum leviter sive fortiter.
+&emsp;Michi legit amorem sive leviter sive fortiter.
 
 7 Quella medesma voce, che paura\
 &emsp;Tolto m'havea del subito abbaglo,\
@@ -116,7 +116,7 @@ Ego dixi: Ad suum placitum et citum et tardum veniet remedium oculis, scilicet m
 &emsp;Sic accendit amorem, et tanto [maiorem],\
 &emsp;Quanto plus bonitatis in se comprehendit.
 
-11 Dunque all'esentia, ov' è tanto vantaggio,\
+11 Dunque all'essentia, ov' è tanto vantaggio,\
 &emsp;Che ciascun ben, che fuor di lei si trova,\
 &emsp;Altro non è ch'un lume di suo raggio,
 
@@ -130,7 +130,7 @@ Et iam disponit se, et respondet prime petitioni Sancti Ioannis; scilicet, ubi t
 
 Illa eadem vox, scilicet Sancti Ioannis, que pavorem subtraxerat michi (quia Dantes credidit perdidisse visum; sed vox Sancti Ioannis securavit eum et subtraxit ab eo pavorem, quando sibi dixit: Ymagineris quod visus in te sit devius, sed non extinctus) de subita obfuscatione vel intuitione, ratiocinandi adhuc me misit in curam (idest voluit quod adhuc ratiocinarem amplius), et dixit: Certe cum angustiori cribro (cribrum est instrumentum ad purgandum triticum, de coreo perforato quasi infinitis foraminibus) tibi convenit, idest te oportet, clarificare id quod dixisti; dicere tibi convenit, idest te oportet, quis direxit arcum tuum ad tale bersalium. Bersalium est signum positum, ad quod sagiptatores actendunt, ad sagiptandum recte. Idest, quasi dicat Sanctus Ioannes: Aliter et specialius oportet quod tu respondeas; quia nimis tam generaliter dixisti, et ista tam generalia non bene exprimuntur sufficienter. Cribrum in ytalico ydiomate dicitur vallum, sive vannum, propter quasi innumerabilia foramina sua, unde descendit lolium quando grana purgantur. Quasi dicat: Ut tu sis sufficienter examinatus de Caritate, non sufficit id quod dixisti; sed volo quod tu dicas et exprimas, quod te movet ad hoc, ad amandum summum bonum.
 
-Et ideo auctor respondit dicens: Et ego: [Per] philosophica argumenta, scilicet tam naturalia quam etiam moralia, et per auctoritatem, scilicet Sacre Scripture et Doctorum, que hinc, scilicet de celo, a Spiritu Sancto descendit, talis amor convenit, idest oportet, quod in me exprimatur. Nam omnis bonus philosophus posuit, quod est dare unum primum principium. Preterea habeo auctoritates Prophetarum, Evangelistarum et Doctorum, qui scilicet hinc a vobis fuerunt edocti, scilicet a Spiritu Sancto. Oportet igitur quod sagipta mei amoris tendat in illum. Modo probat hoc, dicens: Quia bonum, in quantum est bonum, sicut intelligitur, ita accendit amorem; et tanto maiorem, quanto plus bonitatis in se comprehendit. Quasi dicat: Si, pro quia, est verum quod bonum sit obiectum appetitus nostri, ergo quanto bonum est magis bonum, tanto plus accendit ad amorem. Vult Aristotiles primo Ethicorum, quod bonum est id quod omnia appetunt, et videtur quasi impossibile quod bonum cognoscatur et non ametur, et necdum bonum vere bonum existens, sed etiam apparens bonum et non existens: ergo illud bonum, a quo omnia alia dependent et in quo sunt contenta omnia bona, est summe amandum; et non est dare terminum amoris voluntatis, nisi in illo summo bono.
+Et ideo auctor respondit dicens: Et ego: [Per] philosophica argumenta, scilicet tam naturalia quam etiam moralia, et per auctoritatem, scilicet Sacre Scripture et Doctorum, que hinc, scilicet de celo, a Spiritu Sancto descendit, talis amor convenit, idest oportet, quod in me imprimatur. Nam omnis bonus philosophus posuit, quod est dare unum primum principium. Preterea habeo auctoritates Prophetarum, Evangelistarum et Doctorum, qui scilicet hinc a vobis fuerunt edocti, scilicet a Spiritu Sancto. Oportet igitur quod sagipta mei amoris tendat in illum. Modo probat hoc, dicens: Quia bonum, in quantum est bonum, sicut intelligitur, ita accendit amorem; et tanto maiorem, quanto plus bonitatis in se comprehendit. Quasi dicat: Si, pro quia, est verum quod bonum sit obiectum appetitus nostri, ergo quanto bonum est magis bonum, tanto plus accendit ad amorem. Vult Aristotiles primo Ethicorum, quod bonum est id quod omnia appetunt, et videtur quasi impossibile quod bonum cognoscatur et non ametur, et necdum bonum vere bonum existens, sed etiam apparens bonum et non existens: ergo illud bonum, a quo omnia alia dependent et in quo sunt contenta omnia bona, est summe amandum; et non est dare terminum amoris voluntatis, nisi in illo summo bono.
 
 Igitur ad essentiam, que habet tantam prerogativam, quia quodlibet bonum quod extra illam reperitur, aliud non est quam lumen sui radii (igitur illud est summe
 
@@ -152,9 +152,9 @@ Igitur ad essentiam, que habet tantam prerogativam, quia quodlibet bonum quod ex
 &emsp;Ille, qui michi demonstrat primum amorem\
 &emsp;Omnium substantiarum sempiternarum.
 
-14 [S]cernel la voce del beato autore,\
+14 [S]cernel la voce del verace autore,\
 &emsp;Che dice a Moyse, di sè parlando:\
-&emsp;Io ti farò sentir ogni valore.
+&emsp;Io ti farò veder ogni valore.
 
 14 Sternit vox veracis auctoris,\
 &emsp;Qui dixit Moysi, de se loquendo:\
@@ -185,7 +185,7 @@ Igitur ad essentiam, que habet tantam prerogativam, quia quodlibet bonum quod ex
 &emsp;Cum quot dentibus iste amor te mordet.
 
 18 Non fu latente (2) la santa intentione\
-&emsp;Dell'aquila di Chrysto, ancor m'accorsi\
+&emsp;Dell'aquila di Chrysto, anzi m'accorsi\
 &emsp;Ove menar volea mia profexione.
 
 18 Non fuit latens sancta oratio\
@@ -194,7 +194,7 @@ Igitur ad essentiam, que habet tantam prerogativam, quia quodlibet bonum quod ex
 
 (1) per — (2) nascosta.
 
-amandum; idest omnia bona dependentia non sunt nisi quedam participatio illius boni: concludit ergo dicens), magis quam in alia, scilicet quacumque, essentia, convenit, idest oportet, quod moveatur mens, amando, cuiuslibet qui cernit, idest cognoscit, verum, in quo probatur ista probatio. Bene dicit, *qui cernit*: quia aliquando res non bona, et apparens bonum, movet mentem ad amorem; sed in ista essentia non potest esse deceptio, in qua est omne bonum et extra quam nihil est bonum, quin sit quidam splendor causatus ab illo, quia omne bonum procedit ab illo, etc.
+amandum; idest omnia bona dependentia non sunt nisi quedam participatio illius boni: concludit ergo dicens), magis quam in alia, scilicet quacumque, essentia, convenit, idest oportet, quod moveatur mens, amando, cuiuslibet qui cernit, idest cognoscit, verum, in quo fundatur ista probatio. Bene dicit, *qui cernit*: quia aliquando res non bona, et apparens bonum, movet mentem ad amorem; sed in ista essentia non potest esse deceptio, in qua est omne bonum et extra quam nihil est bonum, quin sit quidam splendor causatus ab illo, quia omne bonum procedit ab illo, etc.
 
 Modo adhuc probat hoc per Aristotilem in fine octavi Phisicorum et duodecimi Methaphisice, dicens: Tale verum sternit, idest ostendit, sive appresentat, aliter representat, intellectui meo, ille, scilicet Aristotiles, qui michi demonstrat primum amorem omnium substantiarum sempiternarum.
 
@@ -202,7 +202,7 @@ Modo probat idem per auctoritatem Sacre Scripture, scriptam Exodi tricesimoterti
 
 Modo etiam idem probat per dicta ipsius Sancti Ioannis, per illa scilicet, que ponuntur in principio sui Evangelii, scilicet, In principio erat Verbum, etc. Sternis, idest ostendis, michi, tu id adhuc, scilicet etiam, incipiendo, scilicet Evangelium tuum, altum preconium (idest maximam pubblicationem, in qua incipis, In principio, etc.) quod clamat archanum (idest secretum profundum, sublime, idest unitatem immense essentie divine, tres personas, sive Trinitatem personarum divinalium, misterium incarnationis, ibi Verbum caro factum est; vel etiam hoc potest intelligi de libro Apocalypsi) supernum bandum inferius, super omne aliud publicatum, idest ultra omnem tubam Prophetarum et Evangelistarum, et ultra omnia dicta Doctorum.
 
-*Et ego audivi*. *E io udii*: hec est secunda pars huius capituli, in qua auctor introducit Ioannem Evangelistam, facientem ipsi unam petitionem circa Caritatem, ubi ipse Sanctus dicit: Quasi bene respondidisti et bene amas; sed volo quod exprimas causas particulares, que te induxerunt ad hec, sicut dixisti, et formam quomodo amas et modum. Et ideo replicat responsum auctoris. Dicit ergo auctor: Et ego audivi: Per intellectum humanum (idest per rationes, quas intellectus potest bene percipere, cui etiam concordat divina auctoritas), et per auctoritates ei concordes, de tuis amoribus ad Deum respicere supremum.
+*Et ego audivi*. *E io udii*: hec est secunda pars huius capituli, in qua auctor introducit Ioannem Evangelistam, facientem ipsi unam petitionem circa Caritatem, ubi ipse Sanctus dicit: Quasi bene respondisti et bene amas; sed volo quod exprimas causas particulares, que te induxerunt ad hec, sicut dixisti, et formam quomodo amas et modum. Et ideo replicat responsum auctoris. Dicit ergo auctor: Et ego audivi: Per intellectum humanum (idest per rationes, quas intellectus potest bene percipere, cui etiam concordat divina auctoritas), et per auctoritates ei concordes, de tuis amoribus ad Deum respicere supremum.
 
 Dixit de amore, qui ad Deum supreme est dirigendus.
 
@@ -241,7 +241,7 @@ Non fuit latens, idest me, sancta oratio aquile Christi (nam Sanctus Ioannes fui
 &emsp;Quanto da lui a lor di bene è porto.
 
 22 Frondes, unde refrondatur totus hortus\
-&emsp;Ortolani eterni, quero ego tantum,\
+&emsp;Ortolani eterni, amo ego tantum,\
 &emsp;Quantum est ab eo illis de bono porrectum.
 
 23 Sì com'io tacqui, un dolcissimo canto\
@@ -436,12 +436,12 @@ Inde spiravit, idest cepit loqui (quasi dicat: Tu dicis verum, quod absque hoc q
 &emsp;Quatuor millibus tercentis et duobus voluminibus\
 &emsp;Solis desideravi istud concilium;
 
-41 E vidi lui (6) tornar a questi lumi\
+41 E vidi lui (6) tornar a tutti i lumi\
 &emsp;Della sua strada novecento trenta\
 &emsp;Fiate, mentre ch'io in terra fu'mi (7).
 
 41 Et vidi eum redire ad omnia lumina\
-&emsp;Sue strate nongintis triginta\
+&emsp;Sue strate nongentis triginta\
 &emsp;Vicibus, interim quod ego in terra fui.
 
 42 La lingua ch' io parlai fu tutta spenta,\
@@ -452,7 +452,7 @@ Inde spiravit, idest cepit loqui (quasi dicat: Tu dicis verum, quod absque hoc q
 &emsp;Antequam ad opus inconsumabile\
 &emsp;Esset gens Nembroth attenta;
 
-43 Chè nullo affecto mai rationabile,\
+43 Chè nullo effecto mai rationabile,\
 &emsp;Per lo piacer human, che rinnovella\
 &emsp;Seguendo 'l cielo, sempre fu durabile.
 
@@ -469,7 +469,7 @@ Inde spiravit, idest cepit loqui (quasi dicat: Tu dicis verum, quod absque hoc q
 &emsp;Postea facere vobis, secundum quod placet.
 
 45 Pria che scendessi all'infernal ambascia,\
-&emsp;Un s'appellava in terra el sommo Bene,\
+&emsp;I s'appellava in terra el sommo Bene,\
 &emsp;Onde vien la letitia che mi fascia;
 
 45 Antequam ego descenderem ad infernalem angustiam,\
@@ -488,7 +488,7 @@ Inde spiravit, idest cepit loqui (quasi dicat: Tu dicis verum, quod absque hoc q
 
 signi. Vulgo dicitur, quod peccatum Ade fuit commestio illius pomi; sed non solum hoc fuit peccatum Ade, sed fuit magna superbia sua, quia voluit esse Deus, vel ut Deus, sicut suggessit sibi Lucifer, sive Sathanas, in specie serpentis. Sicut enim Lucifer, qui fuit creatus perfectior omnibus aliis creaturis, saltem nulla creatura fuit perfectior ipso; tamen Deus dedit sibi aliquem terminum, ad quem non fuit contentus, sed voluit illum excedere et effici et adorari ut Deus, quando dixit, In celum ascendam et super astra celi exaltabo solium meum et super altitudinem nubium, et ero similis Altissimo; consimiliter fecit Adam: cui dedit Deus scientiam et intellectum usque ad certum signum, seu terminum, quando fuit sibi dictum, Geneseos secundo capitulo, Comede de omni ligno, scilicet alio, quod est in Paradiso sed de ligno scientie boni et mali, quod est in Paradiso, ne comedas; idest cognosce Creatorem tuum, nec excedas terminum boni (quia non debuit scire naturam mali), et tamen ipse comedit de illo ligno vetito et voluit excedere terminum sibi datum, scilicet cognoscere bonum et malum, ubi solum bonum debebat cognoscere uti Deus, et neque cognovit beneficium sibi datum a Deo.
 
-Iam solvit secundam questionem dicendo: Ibi, unde movit tua domina, scilicet Beatrix, Virgilium, quatuor millibus tercentis et duobus voluminibus solis istud desideravi, istud consilium; idest fui in Limbo in anxietate, in obscuritate, desiderando venire huc ad istud consilium celeste; et vidi eum, scilicet solem, redire ad omnia lumina sue strate (scilicet signa zodiaci, que dicuntur lumina, quia quodlibet signum constat ex pluribus stellis, sicut Aries, Taurus, etc.) nongentis triginta vicibus, interim quod ego in terra fui, idest vixi. Et sic transierunt quinque millia ducentisexaginta duo anni, a creatione Ade usque ad mortem Christi.
+Iam solvit secundam questionem dicendo: Ibi, unde movit tua domina, scilicet Beatrix, Virgilium, quatuor millibus tercentis et duobus voluminibus solis istud desideravi, istud consilium; idest fui in Limbo in anxietate, in obscuritate, desiderando venire huc ad istud concilium celeste; et vidi eum, scilicet solem, redire ad omnia lumina sue strate (scilicet signa zodiaci, que dicuntur lumina, quia quodlibet signum constat ex pluribus stellis, sicut Aries, Taurus, etc.) nongentis triginta vicibus, interim quod ego in terra fui, idest vixi. Et sic transierunt quinque millia ducentisexaginta duo anni, a creatione Ade usque ad mortem Christi.
 
 Nunc solvitur alia questio, scilicet quarta, scilicet de ydiomate. Lingua, quam ego loquutus fui, fuit tota extincta antequam [ad] opus inconsummabile esset gens Nembroth attenta (assignat causam quare ydioma Ade fuit totum deperditum, antequam inciperet edificari turris Babel, que fuit opus incomplebile); quia nullus effectus unquam rationalis, propter complacentiam humanam, que renovatur sequendo celum, semper fuit durabilis: idest, quia semper celum volvitur, et voluntates hominum mutantur cum celo. Opus naturale est, quod homo loquatur; sed sic et sic, natura dimictit postea facere, ydioma scilicet, secundum quod placet.
 
@@ -520,7 +520,7 @@ La carità, effusione di amore, che, incontrandosi in Dio, ordina in lui e consa
 
 E primamente bello, anzi sublime di una sublimità ignota a' pagani, è la descrizione che in questo canto ci dà dell'amore nella sua integrezza e nel pieno della luce in cui nasce, e che vuol essere suo alimento, ma che ove in quella non si tenga ben fisso, può smarrirsi e diventar cieco, come favoleggiarono gli antichi: esso nella sua perfezione è forza divina che accresce l'intelletto, lo dilata, lo innalza a vedute altissime e senza confini, dove nasce e si ordina la scienza, nasce e si compone la storia, nascono e si vestono di bellezza propria e duratura le opere d'arte e l'animo si tempera all'eroismo.
 
-I vari concetti poi dell' intelletto, avvivati dall'amore, e ripetuti a noi con ordine di parole e con le forme dell'arte, e così manifestati in suono sensibile a noi stessi ed altrui, sono altrettante parole che legano le menti nostre con noi medesimi, con la natura e con Dio. È dunque la parola di sua natura vincolo, e come vincolo non può procedere che da amore. E però nella Trinità divina la parola è generata dal Padre nel riguardar sè stesso, che è il suo Verbo infinito, a cui sta sostanzialmente unito, ma che da lui è realmente distinto: dal vicendevole amore poi di ambedue risulta la terza persona dello Spirito Santo, dall'uno e dall'altro parimente distinta, ma ad un tempo ad essi sostanzialmente cóngiunta.
+I vari concetti poi dell' intelletto, avvivati dall'amore, e ripetuti a noi con ordine di parole e con le forme dell'arte, e così manifestati in suono sensibile a noi stessi ed altrui, sono altrettante parole che legano le menti nostre con noi medesimi, con la natura e con Dio. È dunque la parola di sua natura vincolo, e come vincolo non può procedere che da amore. E però nella Trinità divina la parola è generata dal Padre nel riguardar sè stesso, che è il suo Verbo infinito, a cui sta sostanzialmente unito, ma che da lui è realmente distinto: dal vicendevole amore poi di ambedue risulta la terza persona dello Spirito Santo, dall'uno e dall'altro parimente distinta, ma ad un tempo ad essi sostanzialmente congiunta.
 
 E tutto questo, o noi c'inganniamo, il Poeta lo esprime nell'ammirabile terzina che dice:
 
@@ -530,10 +530,10 @@ Mi legge amore o lievemente o forte.
 
 Cioè da Dio procede la parola per essenza, il suo Verbo divino, di cui ogni altra parola non è che una imitazione e ripetizione, esprimendo variamente, più o meno, quanto in esso è infinitamente contenuto.
 
-Molte questioni si sono fatte e si fanno oggi sulla genesi e la natura della parola umana; e benchè questo fatto resterà sempre uno de'più profondi misteri che mostrano all'uomo la limitatezza del suo intendere, non però sono da riputare inutile sforzo i profondi studi che mirano a penetrarvi dentro, quanto piu sia possibile. Ma il risultato che fin qui se ne ottenne, nulla aggiunge a quanto il Poeta nostro ne espresse in quest'altra ammirabile terzina:
+Molte questioni si sono fatte e si fanno oggi sulla genesi e la natura della parola umana; e benchè questo fatto resterà sempre uno de'più profondi misteri che mostrano all'uomo la limitatezza del suo intendere, non però sono da riputare inutile sforzo i profondi studi che mirano a penetrarvi dentro, quanto più sia possibile. Ma il risultato che fin qui se ne ottenne, nulla aggiunge a quanto il Poeta nostro ne espresse in quest'altra ammirabile terzina:
 
 Opera naturale è ch'uomo favella;\
 Ma così o così, natura lascia\
 Poi fare a voi, secondo che v'abbella.
 
-Questa teoria ci mostra nella umana natura le cagioni psicologiche, fisiologiche e meccaniche della parola; cagioni esaminate acutamente da opposti sistemi, ne'quali a torto si vollero opporre le une alle altre. Diciamo a torto, perchè esse son vere, ma per sè sole insufficienti a spiegare il fatto; e tutto quello che ci danno a conoscere è il naturale impulso che ha l'uomo a parlare, con le radicali, contenenti i più estesi e comprensivi concetti, che egli ricevette da Dio. Il resto, se l'uomo si fosse tenuto innocente, da quegli estesi e comprensivi concetti, i quali contenevano tutto il verbo che egli ne averebbe derivato nella contemplazione dell'universo, si sarebbe naturalmente svolto in lui con un linguaggio unico che vi corrispondesse: ma rotto con la colpa quell'ordine mentale, ne venne di necessità la rottura della parola; fenomeno che in tanta diversità di lingue nell'umana specie, non manca di una sapienza ammirabile e di una bellezza divina. Qui ricordiamo quel che fu da noi accennato in un altro canto: cioè, che come a mano a mano si venne oscurando dopo la colpa originale la primitiva rivelazione, l'umano linguaggio, il quale da principio fu unico, si venne sempre più corrompendo e spezzando; e così col dilatarsi ogni di più anche scientificamente il Verbo divino della Chiesa cattolica, forse può stare che si ricomponga un di in una tal quale unità di linguaggio, che si accosti a quella che fu nel concetto divino della creazione.
+Questa teoria ci mostra nella umana natura le cagioni psicologiche, fisiologiche e meccaniche della parola; cagioni esaminate acutamente da opposti sistemi, ne'quali a torto si vollero opporre le une alle altre. Diciamo a torto, perchè esse son vere, ma per sè sole insufficienti a spiegare il fatto; e tutto quello che ci danno a conoscere è il naturale impulso che ha l'uomo a parlare, con le radicali, contenenti i più estesi e comprensivi concetti, che egli ricevette da Dio. Il resto, se l'uomo si fosse tenuto innocente, da quegli estesi e comprensivi concetti, i quali contenevano tutto il verbo che egli ne averebbe derivato nella contemplazione dell'universo, si sarebbe naturalmente svolto in lui con un linguaggio unico che vi corrispondesse: ma rotto con la colpa quell'ordine mentale, ne venne di necessità la rottura della parola; fenomeno che in tanta diversità di lingue nell'umana specie, non manca di una sapienza ammirabile e di una bellezza divina. Qui ricordiamo quel che fu da noi accennato in un altro canto: cioè, che come a mano a mano si venne oscurando dopo la colpa originale la primitiva rivelazione, l'umano linguaggio, il quale da principio fu unico, si venne sempre più corrompendo e spezzando; e così col dilatarsi ogni dì più anche scientificamente il Verbo divino della Chiesa cattolica, forse può stare che si ricomponga un dì in una tal quale unità di linguaggio, che si accosti a quella che fu nel concetto divino della creazione.

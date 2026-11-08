@@ -18,7 +18,7 @@ In isto vicesimosecundo capitulo, quod incipit: *Iam erat angelus*, auctor prose
 
 2 E quei ch'ànno a giustizia lor desiro,\
 &emsp;Decti n'avien, Beati, e le sue voci\
-&emsp;Con Sitio senza o i o forniro.
+&emsp;Con Sitio senz'altro ciò forniro.
 
 2 Et illi qui habent ad iustitiam eorum desiderium\
 &emsp;Dixerunt, Beati, in suis vocibus,\
@@ -26,7 +26,7 @@ In isto vicesimosecundo capitulo, quod incipit: *Iam erat angelus*, auctor prose
 
 (1) dico — (2) una ferita di P.
 
-*Iam angelus retro nos remanserat*. *Già era l'angelo di retro a noi remaso*: istud est vicesimumsecundum capitulum Purgatorii, in quo auctor tractat de materia prodigalitatis, et tendit versus materiam gule: quod dividitur in quatuor partes. In quarum prima Virgilius petit a Statio formam sue purgationis.
+*Iam angelus retro nos remanserat*. *Già era l'angelo di retro a noi rimaso*: istud est vicesimumsecundum capitulum Purgatorii, in quo auctor tractat de materia prodigalitatis, et tendit versus materiam gule: quod dividitur in quatuor partes. In quarum prima Virgilius petit a Statio formam sue purgationis.
 
 In secunda, que incipit ibi:
 
@@ -84,7 +84,7 @@ Ista litera est valde fortis: ideo oportet hic notare, quod auctor facit hic unu
 
 7 Ma dimmi, e come amico mi perdona,\
 &emsp;Se troppa sicurtà m'allarga 'l freno,\
-&emsp;La pura fede in tucto mi scagiona:
+&emsp;La E come amico omai meco ragiona:
 
 7 Sed dicas, et sicut amicus michi parcas,\
 &emsp;Si nimia securitas michi ampliat frenum,\
@@ -129,7 +129,7 @@ Nota quod quia Virgilius reperit Statium in circulo, ubi purgatur avaritia, cred
 &emsp;Propter veras rationes que sunt absconse.
 
 11 La tua dimanda tuo creder m'avvera\
-&emsp;Esser, ch'io fossi avaro in la tua vita,\
+&emsp;Esser, ch'io fossi avaro in l'altra vita,\
 &emsp;Forse per quella cerchia dov'io era:
 
 11 Tua petitio tuum credere michi averat\
@@ -137,8 +137,8 @@ Nota quod quia Virgilius reperit Statium in circulo, ubi purgatur avaritia, cred
 &emsp;Forsan propter illum circulum ubi eram:
 
 12 Or sappia che avaritia fu partita\
-&emsp;Troppo da me; a questa dismisura\
-&emsp;E miglar (1) di lunari (2) hanno punita.
+&emsp;Troppo da me; e questa dismisura\
+&emsp;Miglar (1) di lunari (2) hanno punita.
 
 12 Nunc scias quod avaritia distans\
 &emsp;Nimis a me fuit; et hanc malam mensuram\
@@ -170,7 +170,7 @@ Nota quod quia Virgilius reperit Statium in circulo, ubi purgatur avaritia, cred
 
 16 Quanti risorgeran cho' crini scemi,\
 &emsp;Per ignoranza, che a questa pecca\
-&emsp;Tragge 'l pensier vivendo, nelli stremi!
+&emsp;Tragge 'l penter vivendo, nelli stremi!
 
 16 Quot resurgent cum crinibus scemis,\
 &emsp;Propter ignorantiam, que de isto peccato\
@@ -192,7 +192,7 @@ Nunc exclamatur hic contra prodigos. Tunc perpendi quod nimis aperire alas poter
 
 17 E sappi che la colpa, che rimbeccha\
 &emsp;Per dricta opposition alcun peccato\
-&emsp;Commesso, insieme qui suo veder secca.
+&emsp;Commesso, insieme qui suo verde secca.
 
 17 Et scias quod culpa, que rimbeccat\
 &emsp;Per rectam oppositionem aliquod peccatum\
@@ -238,7 +238,7 @@ Nunc exclamatur hic contra prodigos. Tunc perpendi quod nimis aperire alas poter
 &emsp;Versus Parnasum ad bibendum in suis gruptis,\
 &emsp;Et prius, prope Deum, me illuminasti.
 
-(1) prodigalità — (2) o Statio — (3) crudeli — (4) Etyocle e Polinice — (5) lor madre — (6) Virgilio — (7) versi — (8) Musa — (9) tocha — (9) crystiana.
+(1) prodigalità — (2) o Statio — (3) crudeli — (4) Etyocle e Polinice — (5) lor madre — (6) Virgilio — (7) versi — (8) Musa — (9) tocha — (10) crystiana.
 
 cum crinibus scemis, idest diminutis, propter ignorantiam, que de isto peccato (quia non creditur esse peccatum) subtrahit penitere vivendo et in extremis! Nam prodigalitas laudatur saltem apud potentes, sicut contingebat de Alexandro.
 
@@ -300,7 +300,7 @@ Et ipse, scilicet Statius, supple dixit: Tunc prius me inviasti, idest in via du
 &emsp;Che, quando Domitian li perseguecte,\
 &emsp;Senza mio lacrimar non fur lor pianti.
 
-28 Apparuerunt michi postmodum tanctum sancti,\
+28 Apparuerunt michi postmodum tantum sancti,\
 &emsp;Quod, quando Domitianus eos persecutus est,\
 &emsp;Sine meis lacrymis non fuerunt eorum planctus.
 
@@ -356,7 +356,7 @@ Et prius quam ego ducerem Grecos ad flumina Thebarum poetando, habui ego baptism
 &emsp;Quod michi abscondebat quantum bonum ego dico,\
 &emsp;Interim quod ascendendi habemus superfluum,
 
-33 Dimmi dov'è Terentio nostro amico,\
+33 Dimmi dov'è Terentio nostro antico,\
 &emsp;Cecilio, Plauto, Varro, se lo sai,\
 &emsp;Dimmi se son dannati, et in qual vico (5).
 
@@ -370,7 +370,7 @@ Et prius quam ego ducerem Grecos ad flumina Thebarum poetando, habui ego baptism
 
 34 Isti, et Persius, et ego, et alii multi,\
 &emsp;Respondit dux meus, sumus, cum illo Greco\
-&emsp;Quem musse lactaverunt plusquam alium unquam,
+&emsp;Quem muse lactaverunt plusquam alium unquam,
 
 35 Nel primo cerchio del carcere cieco (10).\
 &emsp;Spesse fiate ragioniam del monte (11),\
@@ -416,7 +416,7 @@ Euripides est ibi nobiscum, et Antifons, Symonides, Agathon et multi alii, idest
 &emsp;Est ibi filia Thyrexie et Thetis,\
 &emsp;Et cum suis sororibus Dyademya.
 
-39 Tacevansi amendue li poeti,\
+39 Tacevansi amendue già poeti,\
 &emsp;Di nuovo attenti a riguardar intorno,\
 &emsp;Liberi dal salir e da pareti;
 
@@ -425,7 +425,7 @@ Euripides est ibi nobiscum, et Antifons, Symonides, Agathon et multi alii, idest
 &emsp;Liberi ab ascensu et parietibus;
 
 40 E già le quattro ancelle eran del giorno\
-&emsp;Rimase indietro, et a la quinta el temo (12),\
+&emsp;Rimase indietro, e la quinta era al temo (12),\
 &emsp;Drizzando pur in su l'ardente corno;
 
 40 Et iam quatuor ancille diei\
@@ -485,7 +485,7 @@ Sic consuetudo fuit ibi nostrum signum; et apprehendimus viam cum maiori suspici
 &emsp;Credo ego ad hoc ut persona sursum non vadat.
 
 46 Dal lato onde 'l cammin nostro era chiuso,\
-&emsp;Cadea dell'altra (4) roccia (5) un liquor (6) chiaro,\
+&emsp;Cadea dell'alta (4) roccia (5) un liquor (6) chiaro,\
 &emsp;E si spandea per le fogle (7) suso.
 
 46 A latere, unde erat iter nostrum clausum,\
@@ -502,7 +502,7 @@ Sic consuetudo fuit ibi nostrum signum; et apprehendimus viam cum maiori suspici
 
 48 Poi disse (8): Più pensava Maria (9), onde\
 &emsp;Fusser le nozze horrevoli et intere (10),\
-&emsp;Ch'alla sua bocha (11), che per voi risponde (12.
+&emsp;Ch'alla sua bocha (11), che per voi risponde (12).
 
 48 Postea dixit: Plus cogitabat Maria, unde\
 &emsp;Nuptie essent honorabiles et integre,\
@@ -522,7 +522,7 @@ Virgilius et Statius; ideo securius potuerunt sic eligere viam cum minori suspit
 
 Ipsi ibant, et ego solus retro post eos (quasi dicat nullus poeta fuit post eos, qui se assimilaret illis, sicut ego: vel nullus studuit opera illorum ita bene, sicut ego), et auscultabam eorum sermones, qui ad poetandum dabant michi intellectum. Nam de dictis Virgilii multa tetigit auctor.
 
-Modo auctor fingit penam gulosorum. Quoniam in via est una arbor similis abieti, nisi quod stat modo reverso, sive transverso: que arbor est plena pomis odoriferis et placidissimis, et ibi, in latere grupte, est una aqua pulcherrima et optima ad bibendum. Nunc gulosi appetunt bibere et comedere, et ibi vident et intuentur cibum optimum et potum suavissimum, et nihil possunt inde apprehendere nec capere, et sic crescit eorum appetitus. De illa arbore audita est una vox, que dixit: Illum cibum nullatenus capiatis. Sed cito rupit dulcia ratiocinia una arbor, quam reperuimus in medio strate cum pomis ad odorandum suavibus et bonis: et si[cut] habies in altum digradatur, idest dilatatur, per ramos de ramo in ramum, ita illa deorsum; credo ego adhuc ut persona sursum non vadat.
+Modo auctor fingit penam gulosorum. Quoniam in via est una arbor similis abieti, nisi quod stat modo reverso, sive transverso: que arbor est plena pomis odoriferis et placidissimis, et ibi, in latere grupte, est una aqua pulcherrima et optima ad bibendum. Nunc gulosi appetunt bibere et comedere, et ibi vident et intuentur cibum optimum et potum suavissimum, et nihil possunt inde apprehendere nec capere, et sic crescit eorum appetitus. De illa arbore audita est una vox, que dixit: Illum cibum nullatenus capiatis. Sed cito rupit dulcia ratiocinia una arbor, quam reperimus in medio strate cum pomis ad odorandum suavibus et bonis: et si[cut] habies in altum digradatur, idest dilatatur, per ramos de ramo in ramum, ita illa deorsum; credo ego adhuc ut persona sursum non vadat.
 
 A latere, unde iter nostrum erat clausum, idest in rupe, cadebat ab alta rupe unus liquor clarus, et se spandebat, idest effundebat, per folia deorsum. Nota quod illa arbor et ille liquor modo opposito habent se hic: quia arbores nostre stant recte, hic transverse; aqua hic currit deorsum, ille, scilicet liquor, ibi currit sursum: et aspergebat arborem, et tenebat recentem; et anime respiciebant, affectabant, et non poterant inde quidquam habere nec tangere, unde crescebat appetitus earum, et sic affligebantur, et sic purgabantur. Vult hic dicere auctor: Tu, gulose, qui es usus esse intemperatus, assuefac te ita abstinere, ut videndo epulas gratas et splendidas, tu possis bene abstinere: et ille est modus purgandi gulositatem. Nota quod prohibitio auget concupiscentiam: sic ait Aristotiles. Liquor hic, [clarus] sicut aqua, figurat potum suavem: poma figurant epulas splendidas, odoriferas et valde gratas.
 
@@ -554,7 +554,7 @@ Consuetudo fuit romanis mulieribus abstinere a vino et bibere aquam; ideo dicit 
 &emsp;Ex quo ipse est gloriosus, et tam grandis\
 &emsp;Quantum per Evangelium nobis est apertum.
 
-(1) al. quanto d'or fu bello — (2) fe' — (3) Giovanni — (5) al. ond'elli è — (6) Matth. XI cap. — (7) a noi è.
+(1) al. quanto d'or fu bello — (2) fe' — (3) Giovanni — (4) al. ond'elli è — (5) Matth. XI cap. — (6) a noi è.
 
 propheta, sprevit cibum et acquisivit sapientiam. Nota quod, ut habetur primo capitulo Danielis, Daniel, Azarias, Misael et Ananias, de genere regali Iudeorum, tempore captivitatis Babilonie, ducti fuerunt captivi in Babiloniam; quibus fecit rex Nabuchodonosor deputari cibaria delicata secundum morem gentium, in quibus Daniel noluit esse pollutus, sed comedit ligumina. Unde propter hoc Deus dedit sibi sapientiam et scientiam in omni interpretatione sompniorum, etc. Ideo dicit textus: Daniel sprevit cibum et acquisivit sapientiam. Ut etiam poete, et etiam comici, dicunt: Prima etas non curabat de cibis et potibus delicatis, sed fructus terre et arborum erat cibus eorum, et nectar erant rivuli aquarum. Unde dicit Boetius: Felix nimium prior etas, contempta fidelibus arvis.
 
@@ -566,7 +566,7 @@ Mel vel locuste fuerunt fercula et nutriverunt Baptistam, scilicet Sanctum Ioann
 
 # La virtù della giustizia
 
-Nel passare il Poeta dal quinto girone al sesto del suo Purgatorio, fa che gli avari e i prodighi, che già eransi purificati delle loro reita, o meglio gli Angioli per essi, gli ricordino la virtù della giustizia, nel cui possesso, al dire di Cristo, sta la vera pace del cuore.
+Nel passare il Poeta dal quinto girone al sesto del suo Purgatorio, fa che gli avari e i prodighi, che già eransi purificati delle loro reità, o meglio gli Angioli per essi, gli ricordino la virtù della giustizia, nel cui possesso, al dire di Cristo, sta la vera pace del cuore.
 
 Già era l'angel dietro a noi rimaso,\
 L'angel che n'avea volti al sesto giro,\
@@ -575,10 +575,10 @@ E quei ch'hanno a giustizia lor disiro\
 Detto n'avean *Beati* in le sue voci\
 Con *sitio*, e senz'altro ciò forniro.
 
-Certo, non poteva egli dimenticare nell'immortale sua Cantica questa principalissima delle virtù, che è base della società e della religione. E secondo che a noi pare, egli la riserbò a questo luogo, per essere i vizi dell'avarizia e della prodigalita quelli che più ce la fanno oltraggiare.
+Certo, non poteva egli dimenticare nell'immortale sua Cantica questa principalissima delle virtù, che è base della società e della religione. E secondo che a noi pare, egli la riserbò a questo luogo, per essere i vizi dell'avarizia e della prodigalità quelli che più ce la fanno oltraggiare.
 
-La giustizia non è soltanto una virtu cardinale (osserva San Bonaventura) ed uno de' fondamenti dello edificio spirituale, per cui l'uomo si rinnova e si eleva all'eroismo; ma tiene, inoltre, tal sopreminenza di generalità sopra tutte, che ciascuna in essa s'individua e dello splendore di lei si fa bella e s'incorona. E a questo profondo significato accenna l'Evangelo dove dice (MATTH. V, 6), che coloro i quali ne sono famelici e sitibondi, un di ne saranno saziati.
+La giustizia non è soltanto una virtù cardinale (osserva San Bonaventura) ed uno de' fondamenti dello edificio spirituale, per cui l'uomo si rinnova e si eleva all'eroismo; ma tiene, inoltre, tal sopreminenza di generalità sopra tutte, che ciascuna in essa s'individua e dello splendore di lei si fa bella e s'incorona. E a questo profondo significato accenna l'Evangelo dove dice (MATTH. V, 6), che coloro i quali ne sono famelici e sitibondi, un dì ne saranno saziati.
 
-In verita, se la giustizia consiste nel cóntemperare l'ordine dei nostri affetti all'ordine reale delle cose, secondo la relativa lor nobiltà (ed è questo il precetto primordiale e generalissimo della morale), apparisce chiaro che essa si stende sovra tutte le altre virtù; per modo, che qualunque se ne offenda, ancho essa ne rimane offesa. L'avaro, che quanto v' ha di più nobile e sacro pospone all'amor dell'oro, e il prodigo che senza regola, per miserabile soddisfazione, lo profonde, senza cavarne l'utile a cui è ordinato, non serbando essi l'ordine naturale, divengono ingiusti; ingiusti contro Dio, e contro la miglior parte di sè, perchè vi preferiscono il raccogliere od il profondere; ingiusti contro il prossimo, perchè gli uni e gli altri per opposta ragione non si fanno coscienza di danneggiarlo.
+In verità, se la giustizia consiste nel cóntemperare l'ordine dei nostri affetti all'ordine reale delle cose, secondo la relativa lor nobiltà (ed è questo il precetto primordiale e generalissimo della morale), apparisce chiaro che essa si stende sovra tutte le altre virtù; per modo, che qualunque se ne offenda, ancho essa ne rimane offesa. L'avaro, che quanto v' ha di più nobile e sacro pospone all'amor dell'oro, e il prodigo che senza regola, per miserabile soddisfazione, lo profonde, senza cavarne l'utile a cui è ordinato, non serbando essi l'ordine naturale, divengono ingiusti; ingiusti contro Dio, e contro la miglior parte di sè, perchè vi preferiscono il raccogliere od il profondere; ingiusti contro il prossimo, perchè gli uni e gli altri per opposta ragione non si fanno coscienza di danneggiarlo.
 
-Che se in ogni atto umano condizione essenziale di bontà è la giustizia, essa però non mira all'infinito se non in quanto si riferisce a Dio, il quale è diritto sommo perchè somma perfezione. Nè pertanto l'uomo potra mai praticarla in modo perfetto, sia verso sè stesso, sia verso i suoi simili, se prima non si studii di praticarla con Dio. E dire che oggi si dettano trattati di questa virtù, senza far parola della giustizia a Dio dovuta. All'opposto in questa, ch'è religione, sta il fondamento di tutte le altre, perchè è sforzo a conseguire la giustizia somma, da cui tutte derivano, e che tutte in sè le contiene. E allora soltanto puo l'uomo esserne veramente sitibondo e famelico, per riceverne il premio, che sarà un possederla e sitirla eternamente e un esserne eternamente satollato. In somma, nell'ordine divino, la giustizia tira l'umano spirito ad un indefinito stendersi verso colui, che è la giustizia per essenza; e corrispondendovi noi con un desiderio, che sia come un bisogno nostro intimo, continuo, imperioso, che essa sia fatta, non dissimile dal bisogno che sentiamo di bere e di mangiare, saremo degni di esserne un di saziati. E però il venir detto nel Vangelo, che dobbiamo esserne famelici e sitibondi; e nel libro della Sapienza, l'esser scritto, che la perpetua immanenza di lei nei giusti sara il loro premio, e che per essa risplenderanno come tanti soli nel regno dell'eternita. « Allora i giusti (ha ripetuto Gesù, MATT. XIII, 33) sfolgoreranno come il sole nel regno del Padre loro. » E quelle altre parole de' Salmi, che ce la mostrano precedere i passi del ristoratore dell'umanità dicaduta, cioè del Figliuolo di Dio, e lume che lo annunzia e lo rivela alle genti, e che irraggia e dirige tutti i suoi atti: « Iustitia ante eum ambulabit, et ponet in via gressus suos. » (*Psal*. LXXXIV).
+Che se in ogni atto umano condizione essenziale di bontà è la giustizia, essa però non mira all'infinito se non in quanto si riferisce a Dio, il quale è diritto sommo perchè somma perfezione. Nè pertanto l'uomo potrà mai praticarla in modo perfetto, sia verso sè stesso, sia verso i suoi simili, se prima non si studii di praticarla con Dio. E dire che oggi si dettano trattati di questa virtù, senza far parola della giustizia a Dio dovuta. All'opposto in questa, ch'è religione, sta il fondamento di tutte le altre, perchè è sforzo a conseguire la giustizia somma, da cui tutte derivano, e che tutte in sè le contiene. E allora soltanto può l'uomo esserne veramente sitibondo e famelico, per riceverne il premio, che sarà un possederla e sitirla eternamente e un esserne eternamente satollato. In somma, nell'ordine divino, la giustizia tira l'umano spirito ad un indefinito stendersi verso colui, che è la giustizia per essenza; e corrispondendovi noi con un desiderio, che sia come un bisogno nostro intimo, continuo, imperioso, che essa sia fatta, non dissimile dal bisogno che sentiamo di bere e di mangiare, saremo degni di esserne un dì saziati. E però il venir detto nel Vangelo, che dobbiamo esserne famelici e sitibondi; e nel libro della Sapienza, l'esser scritto, che la perpetua immanenza di lei nei giusti sarà il loro premio, e che per essa risplenderanno come tanti soli nel regno dell'eternità. « Allora i giusti (ha ripetuto Gesù, MATT. XIII, 33) sfolgoreranno come il sole nel regno del Padre loro. » E quelle altre parole de' Salmi, che ce la mostrano precedere i passi del ristoratore dell'umanità dicaduta, cioè del Figliuolo di Dio, e lume che lo annunzia e lo rivela alle genti, e che irraggia e dirige tutti i suoi atti: « Iustitia ante eum ambulabit, et ponet in via gressus suos. » (*Psal*. LXXXIV).

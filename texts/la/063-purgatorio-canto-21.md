@@ -18,7 +18,7 @@ In isto vicesimoprimo capitulo, quod incipit: *Sitis naturalis, que nunquam*, et
 
 2 Mi travaglava, e pungèmi la frecta\
 &emsp;Per la 'mpacciata via dietr'al mio duca,\
-&emsp;E conduceami a la giusta vendecta.
+&emsp;E condoleami a la giusta vendecta.
 
 2 Me movebat, et pungebat me festinantia\
 &emsp;Per impeditam viam, retro meum ducem,\
@@ -32,7 +32,7 @@ Sed dic nobis, si tu scis; Ma dime, si tu sai, Virgilius petit ab illo spiritu c
 
 In tertia, que incipit ibi:
 
-Et sapiens dux: Admodo video rethe; E 'l savio duca: Omai viggio la rethe, Virgilius petit a predicto spiritu, quis ipse fuit in superiori mundo.
+Et sapiens dux: Admodo video rethe; E 'l savio duca: Omai veggio la rethe, Virgilius petit a predicto spiritu, quis ipse fuit in superiori mundo.
 
 In quarta, que incipit ibi:
 
@@ -76,7 +76,7 @@ auctor manifestat Virgilium illi spiritui predicto. Primo tamen auctor continuat
 
 7 Come! diss'elli, e parte (5) andavàn forte;\
 &emsp;Se voi sete ombre che Dio su non degni,\
-&emsp;Chi v'à per la sua scala tante scorte?
+&emsp;Chi v'à per la sua scala tanto scorte?
 
 7 Quomodo! dixit ipse, et nos ibamus fortiter;\
 &emsp;Si vos estis umbre quas Deus superius non dignetur,\
@@ -108,7 +108,7 @@ Et doctor, supple ait: Si tu respicis signa que iste portat, idest peccata que d
 
 <!-- p. 668 (0722) -->
 
-9 Ma per colei (1) che dì e nocte fila.\
+9 Ma perchè lei (1) che dì e nocte fila.\
 &emsp;Non gli havea tracto ancora la conochia,\
 &emsp;Che Cloto impone a ciascuno e compila,
 
@@ -118,7 +118,7 @@ Et doctor, supple ait: Si tu respicis signa que iste portat, idest peccata que d
 
 10 L'anima sua, ch'è tua e mia sirochia,\
 &emsp;Venendo su non potea venir sola;\
-&emsp;Però ch'al nostro mondo non adochia.
+&emsp;Però ch'al nostro modo non adochia.
 
 10 Anima sua, que est tua et mea soror,\
 &emsp;Veniendo sursum, non poterat venire sola;\
@@ -140,7 +140,7 @@ Et doctor, supple ait: Si tu respicis signa que iste portat, idest peccata que d
 &emsp;Dedit paulo ante mons, et quare omnes simul\
 &emsp;Visi sunt clamare usque ad eius pedes molles?
 
-13 Sì mi diè, domandando, per la cuna\
+13 Sì mi diè, domandando, per la cruna\
 &emsp;Del mio desio, che pur colla speranza\
 &emsp;Fece allor la mia sete men digiuna.
 
@@ -221,8 +221,8 @@ Tunc respondens illa umbra dicebat, quod in illo monte nil eveniebat sine ordine
 &emsp;Propter ascendere sursum, et talis clamor sequitur.
 
 21 Dell'immonditia solver si fa prova,\
-&emsp;Che, tutt'è libero a mutar convento,\
-&emsp;L'alma sorpiendo, e di volar le giova.
+&emsp;Che, tutta libera a mutar convento,\
+&emsp;L'alma sorprende, e di volar le giova.
 
 21 De [im]munditia solvenda fit experientia,\
 &emsp;Que, tota libera ad mutandum conventum,\
@@ -236,7 +236,7 @@ Nubes dense non apparent, nec rare, non corruscationes, nec filia Thaumantis, id
 
 Siccus vapor non surgit magis ante quam summitatem trium graduum, de quibus locutus fui, ubi habet vicarius Petri plantas, idest angelus, qui fungitur locum, sive vices, sacerdotis confessoris. Notandum est hic, quod vapores aliqui sunt sicci et calidi; aliqui frigidi et humidi. Primi elevantur a terra: secundi ab aqua. Ex primis generantur asub, comete, galassia, et alie impressiones ignite; ex secundis, scilicet frigidis et humidis, fiunt ros, pruina, pluvia, nix, grando, ut clare dicit Aristotiles in libris Metheororum. Ubi etiam vult Aristotiles, quod tonitrua generantur propter ventos reclusos in visceribus terre.
 
-Tremuit forsan magis infra parum [aut] satis; sed propter ventum [quod] in terra abscondatur, nescio qualiter, supple fit alibi, hic nunquam sursum tremuit, idest nunquam fuit terremotus: tremuit hic quando aliqua anima mundi sentiat se, que surgat, que se moveat, propter ascendere sursum, et talis clamor sequitur. Istud resurgere refertur ad avaros, vel prodigos, qui stant hic inclinati ad terram: sed istud, *que se moreat*, referas ad omnes animas, que hic in Purgatorio purgantur, et que sunt in aliis circulis. *Sequitur clamor, vel secundat*, idem est.
+Tremuit forsan magis infra parum [aut] satis; sed propter ventum [quod] in terra abscondatur, nescio qualiter, supple fit alibi, hic nunquam sursum tremuit, idest nunquam fuit terremotus: tremuit hic quando aliqua anima mundi sentiat se, que surgat, que se moveat, propter ascendere sursum, et talis clamor sequitur. Istud resurgere refertur ad avaros, vel prodigos, qui stant hic inclinati ad terram: sed istud, *que se moveat*, referas ad omnes animas, que hic in Purgatorio purgantur, et que sunt in aliis circulis. *Sequitur clamor, vel secundat*, idem est.
 
 De [im]munditia solvenda fit experientia, que, tota libera ad mutandum conventum, idest locum, anima sursum apprehenditur, et volare ei prodest, idest delectat.
 
@@ -333,7 +333,7 @@ Nunc qui fuisti, precor te ut sciam, et quare per tot secula, idest annos, hic i
 &emsp;Ubi merui tympora mea ornari mirto.
 
 31 Statio di là la gente ancor mi noma;\
-&emsp;Cantai di Thebe (8), e poi del grande Achylle (9,\
+&emsp;Cantai di Thebe (8), e poi del grande Achylle (9),\
 &emsp;Ma caddi in via co'la seconda soma (10).
 
 31 Statium gens adhuc in mundo me nominat:\
@@ -450,7 +450,7 @@ Statius cepit aliquam suspitionem de risu Dantis; ideo coniurat Dantem ipsum dic
 
 42 Questi, che guida in alto gl'ochi miei,\
 &emsp;È quel Virgilio, dal qual tu toglesti\
-&emsp;Forse (10) a cantar degl'huomini e de' Dei.
+&emsp;Forza (10) a cantar degl'huomini e de' Dei.
 
 42 Iste, qui conducit in altum oculos meos,\
 &emsp;Est ille Virgilius, a quo tu sumpsisti\
@@ -507,7 +507,7 @@ Se non con l'acqua onde la femminetta\
 Samaritana dimandò la grazia,\
 Mi travagliava; e pungeami la fretta,\
 Per la 'mpacciata via dietro al mio duca;\
-E condoliemi alla giusta vendetta.
+E condoleami alla giusta vendetta.
 
 Queste due prime terzine del presente canto, accennano alla teorica della Scuola Francescana intorno al soprannaturale: ed è, che l'ordine di natura non deve riputarsi qualche cosa di così compiuto in sé, da trovare dentro i propri limiti una intera finalità, ma l'ha invece nel soprannaturale, a cui giunge per gratuito dono divino.
 

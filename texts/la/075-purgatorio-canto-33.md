@@ -50,7 +50,7 @@ Et plangit Beatrix, dicens verba, que dixit Christus suis
 
 3 Ma poi che l'altre vergini dier loco\
 &emsp;A lei di dir, levata dricta in pe' (1),\
-&emsp;Rispose, con la rota come foco:
+&emsp;Rispose, colorata come foco:
 
 3 Sed postquam alie virgines dederunt locum\
 &emsp;Ei dicendi, elevata recta in pede,\
@@ -170,7 +170,7 @@ Sicut evenit, supple illis, qui nimis reverentes coram eorum maiore loquendo sun
 
 (1) timore — (2) disciogla — (3) Constantino.
 
-*Et ipsa ad me: A timore et verecundia*. *Ed ella a me: Da tema e da vergogna*: hec est secunda pars istius capituli, in qua auctor describit, prophetando, ultionem et vindictam, que sequitur cito talem culpam; et incipit a gravi dampno, quod recepit iste currus duarum rotarum ab illo serpente, qui exivit [extra] terram, scilicet a Machometo. Primo dat sibi audaciam loquendi, dicendi et interrogandi, dicens: Et ipsa ad me: A timore et a verecundia nolo quod ammodo tu te disviluppes, idest explices, vel dissolvas, ita quod non loquaris plus, sicut homo qui sompniat.
+*Et ipsa ad me: A timore et verecundia*. *Ed ella a me: Da tema e da vergogna*: hec est secunda pars istius capituli, in qua auctor describit, prophetando, ultionem et vindictam, que sequitur cito talem culpam; et incipit a gravi dampno, quod recepit iste currus duarum rotarum ab illo serpente, qui exivit [extra] terram, scilicet a Machometo. Primo dat sibi audaciam loquendi, dicendi et interrogandi, dicens: Et ipsa ad me: A timore et a verecundia volo quod ammodo tu te disviluppes, idest explices, vel dissolvas, ita quod non loquaris plus, sicut homo qui sompniat.
 
 Scias quod vas, quod serpens rupit, idest currus, de cuius fundo traxit predam serpens, idest Machometus, fuit et non est; sed qui de illo habet culpam, credat quod vindicta Dei non timet suppas. Aliqui, et male, voluerunt dicere, quod per verba ista Dantes intellexerit, quod Ecclesia fuisset, sed modo non esset simpliciter plus; et dicunt, Dantem credidisse Ecclesiam semper vacare, propterea quia papa Bonifacius non fuit papa, quia fraudolenter decepit Celestinum, et quia nec ille potuit sic renunciare. Nam iste Bonifacius postea fuit papa. Sed ista non est nec unquam fuit intentio auctoris. Quia si Celestinus renuntiavit, hoc potuit facere. Sic enim fecit Clemens primus. Verum est quod intentio auctoris est, quod Ecclesia defecit, non simpliciter sed secundum quid, in multis. Quia solebat esse bona, sancta et pura, sobria, pauper, humilis, simplex; quod non contingit modo, nec est sic: sed qui habet culpam, scilicet Bonifacius secundum aliquos, qui pervertit Ecclesiam, cum Ecclesia statim patietur; et sequetur ultio, quia ipse mortuus est miserrime, ut supra dictum est. Sed credo ego, quod auctor magis intelligat de rege Frantie, scilicet de Philippo Pulchro, qui occisus fuit ab apro, et sui tres filii unus post alium, de quibus non remansit heres, mortui sunt, et regnum Frantie venit ad manus illius Karoli, qui venit Florentiam. *Non timet suppam*: nota quod in Gretia quondam fuit una consuetudo talis, quod si quis interficiebat hominem, si interfector posset novem diebus pro quolibet comedere unam suppam super sepulturam interfecti, non poterat fieri ultio de isto interfectore. Et aliqui volunt dicere, quod iam Florentie fuit consuetudo; quod tamen non inveni in aliquo loco authentico. Quasi dicat auctor: Qui habet culpam in destructione istius vasi sancti, noscat quod vindicta Dei [non] timet suppas, idest propter novem suppas manducatas non desistit Deus a vindicta sua.
 
@@ -183,7 +183,7 @@ In quo, scilicet tempore, [erit] unum quingentesimum decem et quinque, nuntius D
 <!-- p. 809 (0863) -->
 
 16 E forse che la mia narration buia,\
-&emsp;Qual Temi e Spingi, e metti persuade,\
+&emsp;Qual Temi e Spingi, men ti persuade,\
 &emsp;Perch'al lor modo lo 'ntellecto actuia;
 
 16 Et forsan quod narratio mea obscura,\
@@ -210,7 +210,7 @@ In quo, scilicet tempore, [erit] unum quingentesimum decem et quinque, nuntius D
 &emsp;Di non celar qual hai vista la pianta,\
 &emsp;Ch'è hor due volte dirobbata quivi.
 
-19 Et scis memor, quando tu illa scribis,\
+19 Et sis memor, quando tu illa scribis,\
 &emsp;Non celare qualem vidisti planctam,\
 &emsp;Que bis nunc est derobata ibi.
 
@@ -272,7 +272,7 @@ Quicumque rubat, idest furatur, illam, vel illam rumpit, idest frangit, vel scin
 
 25 Ma perch'io veggio te nell'intellecto\
 &emsp;Facto di pietra et in petrato tincto,\
-&emsp;Sì che t'abbagla al lume del mio decto;
+&emsp;Sì che t'abbagla il lume del mio decto;
 
 25 Sed quia ego video te in intellectu\
 &emsp;Factum de petra et in petratum tinctum,\
@@ -362,7 +362,7 @@ Sed quia ego video te in intellectu factum de petra et in petratum tinctum, ita 
 
 (1) risposi a lei — (2) da lui — (3) via — (4) al primo mobile — (5) si volge rapto — (6) ho di questo — (7) al. che mi morda — (8) fiume — (9) ancor hoggi — (10) tua — (11) volontà.
 
-sicut facit ille, qui portat bordonum, sive contum palma, idest ramo olive, sive datillorum, cinctum: et tunc est signum, quod talis peregrinus venit de Terra Sancta), volo adhuc, si non scultum, saltem depictum, portes intra te, propter illud propter quod reportatur bordonus de palma cinctus; idest, ut tu ostendas te hic fuisse, sicut ostendunt peregrini loca peregrinationis eorum, per signa que reportant.
+sicut facit ille, qui portat bordonum, sive contum palma, idest ramo olive, sive datillorum, cinctum: et tunc est signum, quod talis peregrinus venit de Terra Sancta), volo adhuc, si non scriptum, saltem depictum, portes intra te, propter illud propter quod reportatur bordonus de palma cinctus; idest, ut tu ostendas te hic fuisse, sicut ostendunt peregrini loca peregrinationis eorum, per signa que reportant.
 
 Et ego, scilicet dixi: Tamquam cera sigilli, que figuram non transmutat impressam, signatum habeo nunc de vobis meum cerebrum. Quasi dicat auctor: In totum dimisi omnem amorem scientiarum mundanarum, posponendo illas in cerebro meo, idest in mea memoria.
 
@@ -372,13 +372,13 @@ Ad hoc ut cognoscas, dixit, scilicet Beatrix, illam scolam quam sequutus es, et 
 
 Unde respondi ad eam: Non recordor quod ego extraneus essem unquam a vobis, nec habeo conscientiam, que remordeat. Ecce hoc dicit auctor propter duo. Primum est quia vult esse absortus ita in Beatricem, quod ipse nullarum aliarum scientiarum, aut rerum temporalium, habet curam nec illarum recordatur. Secundum est ad fingendum, quod iam biberat de aqua Lethei fluminis, que inducit oblivionem omnium malorum. Ideo fingit hic non recordari unquam peccasse.
 
-Sed ad hoc ut Dantes cognoscat se peccasse, dat sibi unum documentum quod est tale: quod, sicut sequitur: Hic est fumus, ergo est et ignis; ita sequitur: Penitet, ergo delinquit; ita sequitur: Bibisti de Lethei fluminis aquam, de qua nulli bibunt nisi qui sunt purgati a commissis peccatis; ergo, ex quo bibisti de Lethe, scias te peccasse. Et si recordari non potes, subridendo respondidit, or reminiscere sicut, idest quomodo, bibisti tu de Lethe hodie. Et [sicut] de fumo ignis argumentatur, idest concluditur; ita oblivio clare concludit culpam in tua voluntate alibi intenta.
+Sed ad hoc ut Dantes cognoscat se peccasse, dat sibi unum documentum quod est tale: quod, sicut sequitur: Hic est fumus, ergo est et ignis; ita sequitur: Penitet, ergo delinquit; ita sequitur: Bibisti de Lethei fluminis aquam, de qua nulli bibunt nisi qui sunt purgati a commissis peccatis; ergo, ex quo bibisti de Lethe, scias te peccasse. Et si recordari non potes, subridendo respondit, or reminiscere sicut, idest quomodo, bibisti tu de Lethe hodie. Et [sicut] de fumo ignis argumentatur, idest concluditur; ita oblivio clare concludit culpam in tua voluntate alibi intenta.
 
 <!-- p. 812 (0866) -->
 
 34 Veramente horamai saranno nude\
 &emsp;Le mie parole, quanto converrassi\
-&emsp;Quelle scovrir alla tua vogla rude.
+&emsp;Quelle scovrir alla tua veduta rude.
 
 34 Vere ammodo erunt nuda\
 &emsp;Verba mea, quantum erit conveniens\
@@ -406,7 +406,7 @@ Sed ad hoc ut Dantes cognoscat se peccasse, dat sibi unum documentum quod est ta
 
 37 Septem domine in fine unius umbre pallide,\
 &emsp;Que sub foliis viridibus et ramis nigris\
-&emsp;Supra supra frigidos rivos Alpes portat.
+&emsp;Supra suos frigidos rivos Alpes portat.
 
 38 Dinanzi ad esse Euphrates (3) e Tygri (4)\
 &emsp;Veder mi parve uscir (5) d'una fontana,\

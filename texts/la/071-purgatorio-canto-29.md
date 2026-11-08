@@ -30,7 +30,7 @@ Domina michi clamavit; La donna me sgridò,
 
 describuntur in generali exercitus cum suis principibus. In quarta parte, que incipit:
 
-Spatium intra eorum quatuor; Lo spatio dentro a le quatro,
+Spatium intra eorum quatuor; Lo spatio dentro a lor quatro,
 
 describitur currus triumphalis et ille qui ducit illum currum predictum.
 
@@ -100,7 +100,7 @@ Antiqui finxerunt quod omnes species rerum naturalium haberent suam Deam, propte
 
 fontibus; alique fugiebant solem, alique ibant ad fontes. Tunc ad textum. Cantando sicut domina amore capta, continuavit cum fine suorum verborum: Beati quorum tecta sunt peccata.
 
-Et sicut Nymphe, que ibant sole, idest solitarie, per silvestres umbras, desiderando alique videre, alique fugere, solem, tunc se movit, scilicet domina contra flumen, scilicet Letheum, eundo super ripam, et ego par cum ea, scilicet vadens, parvum passuum cum parvo sequendo, idest sequebar ipsam plano passu, sicut ipsa ibat.
+Et sicut Nymphe, que ibant sole, idest solitarie, per silvestres umbras, desiderando alique videre, alique fugere, solem, tunc se movit, scilicet domina contra flumen, scilicet Letheum, eundo super ripam, et ego par cum ea, scilicet vadens, parvum passum cum parvo sequendo, idest sequebar ipsam plano passu, sicut ipsa ibat.
 
 Nunc describit id quod apparuit subito, scilicet quod, sicut ipse ibat versus occidentem propter, ripas que erant revolute, volendo sequi fluvium, oportuit quod Dantes se verteret versus orientem, antequam ivisset.
 
@@ -116,7 +116,7 @@ Modo describitur sonus suavis qui erat ibi. Et unum melos dulce currebat per aie
 
 <!-- p. 762 (0816) -->
 
-9 Che, là ove ubbidia la terra al cielo,\
+9 Che, là ove ubbidia la e 'l cielo,\
 &emsp;Femina (1) pur testè testè formata (2),\
 &emsp;Non sofferse di star socto alcun velo;
 
@@ -130,7 +130,7 @@ Modo describitur sonus suavis qui erat ibi. Et unum melos dulce currebat per aie
 
 10 Sub quo, si devota stetisset,\
 &emsp;Illas ineffabiles delitias\
-&emsp;Sensisset prius, et longiori tempore.
+&emsp;Sensissem prius, et longiori tempore.
 
 11 Mentr' io m' andava, tra tante primitie\
 &emsp;Dell'etterno piacer, tutto sospeso,\
@@ -157,7 +157,7 @@ Modo describitur sonus suavis qui erat ibi. Et unum melos dulce currebat per aie
 &emsp;Causa me stimulat ut ad vos mercedem clamem.
 
 14 Hor convien ch' Elycona (8) per me versi,\
-&emsp;Et hora me aïuti col suo choro (9),\
+&emsp;E Urania me aïuti col suo choro (9),\
 &emsp;Forti cose a pensar (10), mecter in versi (11).
 
 14 Nunc convenit quod Elicona pro me versit,\
@@ -168,7 +168,7 @@ Modo describitur sonus suavis qui erat ibi. Et unum melos dulce currebat per aie
 
 zelus (idest non causa murmurandi, vel detrahendi, sed solum ad [de]testandum malum: nam aliqui non bono zelo contra feminas, aliquando detrahunt: ego vero causa boni publici detestatus sum) me fecit reprehendere, alias resumere, audaciam Eve, que fuit ita audax, quod cui obediebat terra et celum, ipsa, scilicet Eva, femina sola et solum nunc formata, quia cito post creationem suam noviter, non sustulit stare sub aliquo velo, idest sub aliqua obedientia precepti Dei; sub quo si devota stetisset, illas ineffabiles delitias sensisset prius [et] in longiori tempore. Naturaliter femina non deberet esse audax, saltem sicut homo, propter frigiditatem sexus et virium; ideo videtur quod sit detestanda plus quam si prius [homo] peccasset, et quia [erat] sola quando comedit pomum. Tamen sotietas prestat audaciam; et tamen ipsa Eva fuit audacissima dum esset sola, et erexit cervices transgrediens mandatum Dei: nunc formata, non habens [antiquitatem] que prestare solet audaciam, quia subito post suum esse peccavit: non concepta in peccato, sicut alie femine, quia ipsa fuit sine peccato formata: ideo adhuc gravius peccavit, et presumpsit non obedire Deo. Cui celum et terra obediebant et omnia obediebant, ista rebellavit se; ideo merito detestatus sum eam. Ideo posita fuit sub potestate viri, et quod in dolore pareret filios, ut Genesis tertio capitulo habetur: ubi erat talis quod poterat non mori, modo necesse est ut moriatur.
 
-*Dum ego ibam inter tot primitias*. *Mentr'io m'andava tra tante delitie*: ista est secunda pars huius capituli, in qua describuntur insignia que precedunt currum triumphalem, que sunt septem candelabra.
+*Dum ego ibam inter tot primitias*. *Mentr'io m'andava tra tante primitie*: ista est secunda pars huius capituli, in qua describuntur insignia que precedunt currum triumphalem, que sunt septem candelabra.
 
 Dum ego ibam inter tot primitias, que scilicet erant preambula et arra, eterne complacentie, idest glorie superne, ad quam erant ituri omnes homines, totus suspensus, quia ipse ibat ibi in corde arguendo audaciam Eve, et desiderosus ad plures, idest maiores letitias, ante nos totaliter, qualis est unus ignis accensus, sic fecit aier sub virides ramos, et dulcis sonus per cantum erat iam intellectus, idest auditus vel apprehensus. Nota quod merito dona Spiritus Sancti hic ponuntur in igne, quia etiam Spiritus Sanctus figuratur per ignem, ex eo quia accendit corda ad amorem divinum. Lumen a longe, et etiam sonus, comprehendebatur.
 
@@ -185,7 +185,7 @@ Iam auctor, volens describere istam Ecclesiam, invocat merito, quia nedum in max
 &emsp;Medietatis, adhuc inter nos et ipsas:
 
 16 E quando fui sì presso di lor facto,\
-&emsp;Che l'obliquo comun, che 'l senso inganna,\
+&emsp;Che l'obiecto comun, che 'l senso inganna,\
 &emsp;Non perdea [per] distantia alcun suo acto;
 
 16 Sed quando ego fui ita prope eas factus,\
@@ -193,7 +193,7 @@ Iam auctor, volens describere istam Ecclesiam, invocat merito, quia nedum in max
 &emsp;Non perdebat propter distantiam aliquem suum actum;
 
 17 La virtù ch'a ragion discorso ammanna,\
-&emsp;Sì com'elli eran candelabri accese,\
+&emsp;Sì com'elli eran candelabri apprese,\
 &emsp;E nelle voci del cantar, Osanna.
 
 17 Virtus que rationabiliter discursum adducit,\
@@ -242,7 +242,7 @@ Inde reddi[di] aspectum altis rebus, idest ad illa candelabra me volvi, que se m
 
 21 La donna mi sgridò: Perchè pur ardi\
 &emsp;Sì nell'aspecto delle vive luci,\
-&emsp;E ciò che vien dirieto a noi non guardi?
+&emsp;E ciò che vien dirieto a lor non guardi?
 
 21 Domina michi clamavit: Quare tantum ardes\
 &emsp;In aspectu vive lucis,\
@@ -258,7 +258,7 @@ Inde reddi[di] aspectum altis rebus, idest ad illa candelabra me volvi, que se m
 
 23 L'acqua imprendea dal sinistro fianco,\
 &emsp;E rendeami (2) la mia sinistra costa,\
-&emsp;S' i' riguardava in lei, come specchi anco.
+&emsp;S' i' riguardava in lei, come specchio anco.
 
 23 Aqua representabat a sinistro latere,\
 &emsp;Et reddebat michi meam sinistram costam,\
@@ -282,7 +282,7 @@ Inde reddi[di] aspectum altis rebus, idest ad illa candelabra me volvi, que se m
 
 26 Sì che di sopra rimanea distincto\
 &emsp;Di septe liste, tucte in quei colori,\
-&emsp;Onde fa l'arco el sol (4), et Elya il cinto.
+&emsp;Onde fa l'arco el sol (4), et Delia il cinto.
 
 26 De quibus ipse desuper remanebat distinctus\
 &emsp;In septem listas, omnes in illis coloribus,\
@@ -298,7 +298,7 @@ Inde reddi[di] aspectum altis rebus, idest ad illa candelabra me volvi, que se m
 
 (1) ci fu — (2) representavami — (3) solo — (4) sole — (5) da noi.
 
-*Domina michi, idest ad me, clamavit*. *La donna mi sgridò*: hec est tertia pars huius capituli, in qua describitur in generali exercitus cum suis principibus. Dicit igitur: Domina michi, idest ad me clamavit: Quare tantum ardes ita effectu vive lucis, idest illorum vivorum splendorum, et id, quod venit retro illas, non respicis? Quasi dicat: Quare posuisti totum affectum in illis luminaribus, et non respicis ea que sequuntur? considera mirabiles effectus qui sequuntur et qui procedunt ex istis.
+*Domina michi, idest ad me, clamavit*. *La donna mi sgridò*: hec est tertia pars huius capituli, in qua describitur in generali exercitus cum suis principibus. Dicit igitur: Domina michi, idest ad me clamavit: Quare tantum ardes in aspectu vive lucis, idest illorum vivorum splendorum, et id, quod venit retro illas, non respicis? Quasi dicat: Quare posuisti totum affectum in illis luminaribus, et non respicis ea que sequuntur? considera mirabiles effectus qui sequuntur et qui procedunt ex istis.
 
 Gentes vidi ego tunc, sicut [ad] suos duces, venire prope, indutas de albo, et talis candor in mundo nunquam fuit. Ista albedo figurat vitam perfectam, quia in mundo nunquam sunt ita perfecti homines sicut sunt hic.
 
@@ -348,12 +348,12 @@ Ista ostendalia (ostendale proprie est vexillum Imperatorum: nam vicinus erat Im
 &emsp;Le penne piene d'occhi; e gl'occhi d'Argo,\
 &emsp;Se fosser vivi, sarebber cotali.
 
-32 Quodlibet erat pennatum sex aliis,\
+32 Quodlibet erat pennatum sex alis,\
 &emsp;Penne plene oculis; et oculi Argi,\
 &emsp;Si essent vivi, essent tales.
 
 33 A descriver lor forma più non spargo\
-&emsp;Lingua (5), lector; ch'altra possa mi strigne\
+&emsp;Lingua (5), lector; ch'altra spesa mi strigne\
 &emsp;Tanto, ch'a questa non posso esser largo (6).
 
 33 Ad describendum eorum formas plures non spargo\
@@ -362,7 +362,7 @@ Ista ostendalia (ostendale proprie est vexillum Imperatorum: nam vicinus erat Im
 
 34 Ma legge Ezechiel, che le dipigne\
 &emsp;Come le vidde dalla fredda parte\
-&emsp;Venire a lui con nube e con igne;
+&emsp;Venire a lui con vento e con igne;
 
 34 Sed lege Ezechielem, qui eas pingit\
 &emsp;Sicut eas vidit a frigida parte\
@@ -394,7 +394,7 @@ Sed lege Ezechielem, prophetam scilicet, qui eas pingit, idest describit, sicut 
 
 35 Et quales ipsas reperies in suis cartis,\
 &emsp;Tales erant ibi, excepto quod ad pennas\
-&emsp;Ioannes est mecum, et ab ipso descedit.
+&emsp;Ioannes est mecum, et ab ipso discedit.
 
 36 Lo spazo dentro a lor quattro contenne\
 &emsp;Un carro, in su due rote, triumphale,\
@@ -406,7 +406,7 @@ Sed lege Ezechielem, prophetam scilicet, qui eas pingit, idest describit, sicut 
 
 37 Esso tendea su l'una (1) e l'altr'hale\
 &emsp;Tra la mezzana e le tre e tre liste,\
-&emsp;Sì che nullo offendendo facea male.
+&emsp;Sì a nulla fendendo facea male.
 
 37 Et ipse tendebat sursum utramque alam\
 &emsp;Inter mediam et tres et tres listas,\
@@ -442,7 +442,7 @@ sic Ezechielis primo capitulo): et quales ipsas reperies in suis cartis, idest i
 
 *Spatium intra, eorum*. *Lo spatio dentro loro*: hec est quarta pars istius capituli, in qua describitur currus triumphalis cum duce. Notandum est hic, quod Romani suis ducibus, redeuntibus cum victoriis notabilibus, ad honorandum ipsos faciebant honores admirabiles. Sic erat unus currus quatuor rotarum, tractus a quatuor equis albissimis. Currus erat ornatus quasi invincibilibus ornamentis, et dux victoriosus sedebat supra currum, etc. Talem triumphum habuit Scipio Africanus, qui fuit optimus Romanus, dictus Africanus, quia Africam devicit. Talem triumphum habuit Augustus, scilicet Octavianus. Iste currus, qui hic describitur, trahebatur ab uno grifone, semibestia et semiavi, et erat currus in medio istorum quatuor animalium. Currus non habebat nisi duas rotas: quarum dextera est Testamentum novum, ad quam sunt tres domine; sinistra est Testamentum vetus, ad quam quatuor stant in tripudio domine. Grifo est partim avis: quantum ad deitatem suam, Christus, qui hic figuratur per grifonem, est avis, volans tantum in altum, quod nulla creatura ipsum comprehendere potest; quantum ad humanitatem, est bestia albissima, ad [denotandum] suam carnem, assumptam de gloriosa Virgine Maria, Matre eius, fuisse et esse purissimam. Erat illa albedo mixta colore rubeo, quia ista humanitas fuit rubricata sanguine in passione; ad denotandum quod non corpus fantasticum, sed verum et humanum, assumpsit.
 
-Spatium intra, eorum quatuor, continuit unum currum super duabus rotis, triumphalem, qui, scilicet currus, a collo unius grifonis tractus venit, et ipse, scilicet grifo, tendebat sursum utramque alam inter mediam et tres et tres listas (quia erant septem candelabria et septem luminaria, ideo faciebant septem listas, idest lineas variorum colorum, ut dictum est superius: quia una lista remanebat intra se, et in partibus exterioribus stabant tres ex una parte, et tres ex alia parte); ita quod, findendo, nullum faciebant malum, ita quod non offendebant divinitatem.
+Spatium intra, eorum quatuor, continuit unum currum super duabus rotis, triumphalem, qui, scilicet currus, a collo unius grifonis tractus venit, et ipse, scilicet grifo, tendebat sursum utramque alam inter mediam et tres et tres listas (quia erant septem candelabra et septem luminaria, ideo faciebant septem listas, idest lineas variorum colorum, ut dictum est superius: quia una lista remanebat intra se, et in partibus exterioribus stabant tres ex una parte, et tres ex alia parte); ita quod, findendo, nullum faciebant malum, ita quod non offendebant divinitatem.
 
 Tantum ascendebant, quod non erant vise (quia ille liste, que figurant divinitatem, ignorantur a nobis, nec possumus comprehendere illas, nec possumus cognoscere quomodo sunt coniuncte humanitati. Quomodo et qualiter deitas et umanitas sunt coniuncte, non possumus nos mortales comprehendere; ideo dicebat Beatus Ioannes Baptista: Cuius non sum dignus corrigiam calceamenti solvere); membra aurea habebat quantum erat avis, et alba alia rubeo mixta. Nota quod aurum figurat divinitatem, rem pretiosissimam. Albedo significat puritatem carnis Iesu Christi. Rubedo significat passionem Christi, in qua effudit totum suum sanguinem rubeum.
 
@@ -564,7 +564,7 @@ Monstrabat alius contrariam curam cum uno ense lucido et acuto, taliter quod cit
 
 Postea vidi quatuor in humili apparentia, et retro omnes unum senem solum, scilicet vidi venire, dormiendo, cum facie arguta, idest provida et prompta.
 
-Et isti septem, cum primo stolo, idest acie, vel sotietate, erant habituati; sed de liliis super caput non faciebant brolum (brolus Bononie dicitur g[i]ardinum, ubi sunt multi fructus: sed hic dicitur sertum vel corona, quam proprie solebant portare Sancti), imo de rosis et de liliis, floribus rubeis: ego iurassem, propter longinquum aspectum, quod omnes arderent supra supercilia. Pulchra fictio. Alii habebant serta de liliis; isti vero non, sed de rosis et aliis floribus rubeis, ad denotandum quod in istis viguit maxime caritas et arsit, que figuratur rubea. Habebant tamen vestimenta alba, ad denotandum fidem sinceram.
+Et isti septem, cum primo stolo, idest acie, vel sotietate, erant habituati; sed de liliis super caput non faciebant brolum (brolus Bononie dicitur g[i]ardinum, ubi sunt multi fructus: sed hic dicitur sertum vel corona, quam proprie solebant portare Sancti), imo de rosis et de aliis, floribus rubeis: ego iurassem, propter longinquum aspectum, quod omnes arderent supra supercilia. Pulchra fictio. Alii habebant serta de liliis; isti vero non, sed de rosis et aliis floribus rubeis, ad denotandum quod in istis viguit maxime caritas et arsit, que figuratur rubea. Habebant tamen vestimenta alba, ad denotandum fidem sinceram.
 
 Et quando currus fuit e contra me, unum tonitruum fuit auditum, et ille gentes digne visum fuit quod ulterius ire esset eis interdictum, firmando se ibi cum primis insignis. Effectus tonitrui fuit, quod negavit eis ultra ire, et sic steterunt. Vult dicere auctor, quod Deus prestitit ei tantam gratiam, quod ille exercitus se [firmaret], ut ipse posset bene videre mysteria Ecclesie, et ut posset indicare postea aliis. *Firmando se ibi cum primis insignis*: idest candelabris.
 
@@ -582,4 +582,4 @@ Splendido, senza dubbio, è il concetto di questo carro trionfale, in cui il Poe
 
 Nei canti seguenti, la storia di questa Chiesa, che, fecondata da contrasti e da dolori, procede trionfando al termine assegnatole, darà materia abbondante di altre meditazioni. Qui notiamo che l'immagine significativa di essa, cioè il carro, con gli Evangelisti e i Dottori che lo scortano, è antico simbolismo, consacrato dall'uso, e sublime nella visione avuta da Ezechiele, de'quattro animali, di sei ali pennuti, ciascuno moventesi per la parte a cui era destinato; rimpetto al quale, si oscurano e diventan miseria la donna dai tre occhi, e l'altra che pare di smeraldo, e peggio il grifone scelto a figurar Cristo.
 
-Alla visione della Chiesa sono degno preludio e apparecchio la luce, come di lampo, continua e crescente, che si diffonde per tutta la scena, e la melodia dolce, che corre per l'aere luminoso; perchè veramente alle nebbie e alle tenebre di questa vita, e delle lotte anarchiche che la funestano, sustrato luminoso ed armonico è l'idea divina, da cui è il principio, l'indirizzo ed il compimento finale d'ogni evento di quaggiù. Mirando ad essa, l'animo si allarga e si rinfranca; e il cuore, lasciato in terra il peso delle ire e degli odii, si ridesta innaffiato dalle acque dei colli eterni. E mirata di lassù, la storia delle umane miserie piglia ben altro aspetto, che non è quello di chi si ristringe in concetti umani ed in umane speranze. In mezzo alle tumultuose vicende che agitano questa vita terrena, la storia della Chiesa, ossia la storia della carità eroica infusa da Dio nel cuore de'suoi eletti, rappresenta, attraverso i secoli, il regale cammino per cui avanzano la civiltà e la religione, la sapienza e l'amore, l'operosità cristiana, la scienza, la medicina degli uomini ed il sacrificio; storia, che della selvaggia barbarie come di quella imbellettata e ammorbidita di corruttele, della forza ruvidamente tormentante come di quella che astuta nascosamente insidia maligna e beffarda, trionfa sempre; e novello Anteo, nelle cadute acquista sempre novello e maggior vigore, destinata a costituire quella nobile e virile società degli spiriti, di cui son membra degne gli uomini di retto volere. Ben si sono fatti, e si stanno facendo anche oggi, sforzi erculei per costituir questa società fuori della Chiesa. Ma a qual pro? Le prove di oggi, come quelle di tutti i secoli andati, finiranno ridicolosamente, se non fossero le novelle rovine che si sovraccumuleranno alle gia fatte; a riparar le quali si richiederanno secoli!
+Alla visione della Chiesa sono degno preludio e apparecchio la luce, come di lampo, continua e crescente, che si diffonde per tutta la scena, e la melodia dolce, che corre per l'aere luminoso; perchè veramente alle nebbie e alle tenebre di questa vita, e delle lotte anarchiche che la funestano, sustrato luminoso ed armonico è l'idea divina, da cui è il principio, l'indirizzo ed il compimento finale d'ogni evento di quaggiù. Mirando ad essa, l'animo si allarga e si rinfranca; e il cuore, lasciato in terra il peso delle ire e degli odii, si ridesta innaffiato dalle acque dei colli eterni. E mirata di lassù, la storia delle umane miserie piglia ben altro aspetto, che non è quello di chi si ristringe in concetti umani ed in umane speranze. In mezzo alle tumultuose vicende che agitano questa vita terrena, la storia della Chiesa, ossia la storia della carità eroica infusa da Dio nel cuore de'suoi eletti, rappresenta, attraverso i secoli, il regale cammino per cui avanzano la civiltà e la religione, la sapienza e l'amore, l'operosità cristiana, la scienza, la medicina degli uomini ed il sacrificio; storia, che della selvaggia barbarie come di quella imbellettata e ammorbidita di corruttele, della forza ruvidamente tormentante come di quella che astuta nascosamente insidia maligna e beffarda, trionfa sempre; e novello Anteo, nelle cadute acquista sempre novello e maggior vigore, destinata a costituire quella nobile e virile società degli spiriti, di cui son membra degne gli uomini di retto volere. Ben si sono fatti, e si stanno facendo anche oggi, sforzi erculei per costituir questa società fuori della Chiesa. Ma a qual pro? Le prove di oggi, come quelle di tutti i secoli andati, finiranno ridicolosamente, se non fossero le novelle rovine che si sovraccumuleranno alle già fatte; a riparar le quali si richiederanno secoli!

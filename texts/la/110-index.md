@@ -96,7 +96,7 @@ L'unità sostanziale dell'anima umana. . . . . . . . . . » 477\
 CAPITULUM V. . . . . . . . . » 479\
 Relazioni che restano tra l'anima e il corpo dopo morte. . . . . » 488\
 CAPITULUM VI. . . . . . . . . » 489\
-Premanenza di affettuose relazioni fra noi e il Purgatorio . . . . » 499\
+Permanenza di affettuose relazioni fra noi e il Purgatorio . . . . » 499\
 CAPITULUM VII. . . . . . . . . » 501\
 La grazia. . . . . . . . . . » 510\
 CAPITULUM VIII. . . . . . . . . » 511\

@@ -108,7 +108,7 @@ habeat in oculo, idest antequam spe[cie]s eius perducatur ad oculum, vel in cogi
 
 Et statim quod me revolvi (scilicet ad illud ignem, et alia que representabantur in oculis Beatricis) et fuerunt tacti mei oculi, scilicet ab eo quod apparet, vel ab hiis que apparent, in illo volumine (scilicet in spera nona, in qua representabatur mens divina, Deus ipse, et novem ordines angelorum circa ipsam, quia spera nona est volumen sub quo omnia continentur et videntur illa que dixi, si bene contemplentur), quantumcumque in suo gyro, idest intuitu oculorum badalucchem, idest fixe respiciam, unum punctum vidi quod radiat lumen acutum ita, quod visum quem affocat, idest superat, claudi convenit propter forte acumen, idest oportet claudere oculum, qui[a] ipse oculus non potest sustinere. Bene fingit hic auctor. Quia si finxit superius, quod Apostolus et Evangelista obumbravit ipsum auctorem, propter claritatem quam ipse Evangelista habebat; quanto magis hic bene fingit, quod ipse, scilicet auctor, non potuit sustinere lumen istud, quod est Deus, quem tamen Deum a longe videbat. Ille punctus est figuratus pro mente divina, sive pro Deo, unde, idest a quo, procedunt novem ordines angelorum, quos auctor vult hic describere: obumbrabat oculos auctoris respicientis in eum, quia radios emictebat nimium acutos pro oculis auctoris.
 
-Iam auctor vult ostendere excellentiam luminis procedentis ab illo puncto, idest a divinitate. Pro quo intelligendo, nota quod maius lumen occupat minus, ut patet: quia die non videntur stelle, licet luceant de die sicut de nocte; sed lux solis impedit lumen stellarum, ne videantur de die. Nota etiam quod luna apparet nobis grossior quam aliqua stella fixa (hoc autem provenit quod ipsa luna est nobis propinquior quam aliqua stella fixa), licet etiam sit maior ipsa terra. Iterum nota, quod luna, que apparet nobis bene magna, si fuisset ibi apud punctum illum, ipsa apparuisset auctori, propter excellentiam luminis illius puncti, minor quam apparet nobis aliqua stella fixa. Nam stelle fixe apparent nobis satis parve: et hoc provenit propter nimiam distantiam, que est inter firmamentum et nos. Et qualis stella apparet hic, idest ubi sumus nos, minor, appareret luna, que est minor omni stella fixa, locata cum illo, scilicet puncto, sicut stella cum stella collocatur. Idest: quelibet stella, que est maior luna, appareret ita parva sicut est luna, propter excellentiam illius luminis.
+Iam auctor vult ostendere excellentiam luminis procedentis ab illo puncto, idest a divinitate. Pro quo intelligendo, nota quod maius lumen occupat minus, ut patet: quia die non videntur stelle, licet luceant de die sicut de nocte; sed lux solis impedit lumen stellarum, ne videantur de die. Nota etiam quod luna apparet nobis grossior quam aliqua stella fixa (hoc autem provenit quod ipsa luna est nobis propinquior quam aliqua stella fixa), licet etiam sit maior ipsa terra. Iterum nota, quod luna, que apparet nobis bene magna, si fuisset ibi apud punctum illum, ipsa apparuisset auctori, propter excellentiam luminis illius puncti, minor quam apparet nobis aliqua stella fixa. Nam stelle fixe apparent nobis satis parve: et hoc provenit propter nimiam distantiam, que est inter firmamentum et nos. Et qualis stella apparet hinc, idest ubi sumus nos, minor, appareret luna, que est minor omni stella fixa, locata cum illo, scilicet puncto, sicut stella cum stella collocatur. Idest: quelibet stella, que est maior luna, appareret ita parva sicut est luna, propter excellentiam illius luminis.
 
 Modo incipit auctor describere ordines angelorum, qui sunt novem. Quorum primus et propinquior ipsi Deo, illi puncto in colore igneo, est ordo Seraphin: circa illum stat ordo Cherubin; circa istum, ordo Tronorum: et sic distantius ordo existens et magis distans ab illo puncto, minus velociter movetur; et ordo, qui minus distat ab illo puncto et plus illi appropinquat, velocius movetur: et velocior motus denotat maiorem felicitatem, et minus velox motus denotat minorem felicitatem. Et sic primus ordo Angelorum et propinquior ipsi puncto, qui magis velociter movetur, est ordo Seraphin, qui ordo primo [puncto], vel ad Deum, magis appropinquat; circa quem ordinem, et quem circuit, est ordo Cherubin; circa quem circuit ordo Tronorum; et sic [usque] ad nonum ordinem, qui magis distat a puncto, qui est ordo Angelorum, qui tardius omnium movetur. Per quamdam similitudinem alonis, qui [circum]dat circum circa lunam, depingit et describit hic auctor circulum Seraphin, qui est propinquior Deo. Nota quod aliquando sunt aliqui vapores grossi, interpositi inter visionem nostram et lunam, in quibus radii lunares depingunt unum circulum, qui ab
 
@@ -123,7 +123,7 @@ Modo incipit auctor describere ordines angelorum, qui sunt novem. Quorum primus 
 &emsp;A quinto quartus, et postmodum a sexto quintus.
 
 11 Sopra seguia el septimo sì sparto\
-&emsp;Già di lunghezza, che'l messo (1) di Iuno\
+&emsp;Già di larghezza, che'l messo (1) di Iuno\
 &emsp;Intero a contenerlo sarebbe arcto.
 
 11 Desuper sequebatur septimus ita sparsus\
@@ -246,7 +246,7 @@ petebat declarari de tali dubio; de quo dubio domina Beatrix declaravit eum. Sed
 
 Et ego ad ipsam, scilicet Beatricem, supple dixi: Si mundus esset positus cum ordine quem ego video in illis rotis, satiasset me quidquid est michi propositum; sed in mundo sensibili possunt videri vices, idest volutiones, sive revolutiones, tanto plus divinas, idest velociores, quanto ipse sunt a centro magis remote; cuius oppositum est hic, quia circuli hic, in isto mundo, quanto sunt propinquiores centro, tanto velocius moventur. Ideo ego nimium nitor, nec quiesco quovis modo ab admirari, et desidero declarari de tam arduo michi dubio, quia nullatenus a me possum illud capere. Unde, idest quare, si meum desiderium debet habere finem, idest totaliter satiari, in isto miro angelico templo, quod solum amorem et lucem habet pro confinibus, idest solum constat ex luce et amore, audire michi convenit, idest declarari me oportet, etiam quomodo exemplum et exemplar non vadunt de uno modo, quia ego per me, a me scilicet solo, in vanum ad hoc contemplor, idest cogito.
 
-Iam Beatrix vult solvere dubium auctoris; sed primo dicit sibi, quod non miretur si ipse dubitat et non intelligit istud, et reddit ipsum auctorem actentum ad auscultandum id quod ipsa dicitura est. Dicit igitur Beatrix auctori: Si digiti tui non sunt ad talem nodum, scilicet solvendum, sufficientes, non est mirum, nec admirandum, tantum propter non tentare effectum [est] sodum, idest solidum. Sic domina mea, scilicet dixit; postmodum ait: Capias illud quod ego tibi dicam, idest actende diligenter, si vis declarari, idest satiari, et circa illud te subtilem facias, idest subtiliter meditare. *Nodum*: idest nexus, colligatio stricta. Sic dubium profundum dicitur nodus, et non omnes digiti manuum sunt sufficientes ad solvendum; quia cum digitis manuum solvuntur nodi, sive nexus, sive colligationes. Responsio stat in hoc. Ideo notandum est bene, primo, quod licet Aristotiles non ponit plures intelligentias nisi quot sunt celi, et cuilibet celo assignat unam intelligentiam motricem ipsius celi, et forte plures intelligentie viderentur frustra ipsi Aristotili, tamen auctor ponit hic quod cuilibet celo assignatur ordo angelorum et deputatur ad ipsum movendum, et sic sunt plures angeli ad unum celum movendum. Iterum est notandum, quod in
+Iam Beatrix vult solvere dubium auctoris; sed primo dicit sibi, quod non miretur si ipse dubitat et non intelligit istud, et reddit ipsum auctorem actentum ad auscultandum id quod ipsa dictura est. Dicit igitur Beatrix auctori: Si digiti tui non sunt ad talem nodum, scilicet solvendum, sufficientes, non est mirum, nec admirandum, tantum propter non tentare effectum [est] sodum, idest solidum. Sic domina mea, scilicet dixit; postmodum ait: Capias illud quod ego tibi dicam, idest actende diligenter, si vis declarari, idest satiari, et circa illud te subtilem facias, idest subtiliter meditare. *Nodum*: idest nexus, colligatio stricta. Sic dubium profundum dicitur nodus, et non omnes digiti manuum sunt sufficientes ad solvendum; quia cum digitis manuum solvuntur nodi, sive nexus, sive colligationes. Responsio stat in hoc. Ideo notandum est bene, primo, quod licet Aristotiles non ponit plures intelligentias nisi quot sunt celi, et cuilibet celo assignat unam intelligentiam motricem ipsius celi, et forte plures intelligentie viderentur frustra ipsi Aristotili, tamen auctor ponit hic quod cuilibet celo assignatur ordo angelorum et deputatur ad ipsum movendum, et sic sunt plures angeli ad unum celum movendum. Iterum est notandum, quod in
 
 <!-- p. 1148 (1202) -->
 
@@ -280,7 +280,7 @@ Iam Beatrix vult solvere dubium auctoris; sed primo dicit sibi, quod non miretur
 
 27 Sicut remanet splendidum et serenum\
 &emsp;Emispyrium aieris, quando sufflat\
-&emsp;Boreas ab illa gena, ubi est levior,
+&emsp;Boreas ab illa gena, ubi est lenior,
 
 28 Perchè si purga e risolve la roffia\
 &emsp;Che pria turbava, sì che 'l ciel ne ride\
@@ -302,7 +302,7 @@ Iam Beatrix vult solvere dubium auctoris; sed primo dicit sibi, quod non miretur
 
 angelis non est virtus extensiva in quantitate, sed bene intensiva, in corporibus vero est virtus extensiva. Idest, in angelis non est quantitas mole magna, quia sunt separati a materia, sunt indivisibiles: habent tamen magnam virtutem intensivam. Ordo Seraphin est propinquior illi puncto, scilicet Deo, et ideo est ordo magis accensus in amore divino, et ideo velocius movetur. Habet maiorem virtutem; ideo ille ordo movet in maximum corpus: scilicet, primum mobile, quod est velocissimum in motu, movetur velocissime. Ordo Cherubin est iuxta ordinem Seraphin, ideo habet post Seraphin magnam virtutem; ideo ordo Cherubin est deputatus ad movendum celum stellatum, scilicet stelliferum, sive firmamentum. Ordo Tronorum est post ordinem Cherubin, et post Cherubin ordo Tronorum habet magnam virtutem; ideo habet movere Saturnum: et sic de aliis ordinibus Angelorum usque ad infimum, et sic de celis usque ad orbem lune. Nam maior virtus habet maiorem salutem, maior salus habet movere maius corpus; et sic ordo Angelorum, maior in virtute et potentior, movet maius corpus; et sic maior virtus attribuitur maiori corpori, et minor minori; et sic exemplar convenit cum exemplato. Et sic apparet quod auctor non bene considerabat; nam si hoc auctor intellexisset, non tantum miratus fuisset, sicut mirabatur.
 
-Circuli qui apparent, sunt ampli et arcti, idest stricti, secundum maioritatem et pluralitatem virtutis, que extenditur per omnes ipsorum partes, idest in omnibus partibus operatur.
+Circuli qui apparent, sunt ampli et arcti, idest stricti, secundum minoritatem et pluralitatem virtutis, que extenditur per omnes ipsorum partes, idest in omnibus partibus operatur.
 
 Maior bonitas vult facere maiorem salutem, maior salus maius corpus capit, idest volvit, vel comprehendit, si illud habet partes equaliter completas, idest perfectas. Bonitas maior vult facere salutem, idest maiores et meliores effectus. Maior salus est in maiori corpore.
 
@@ -472,7 +472,7 @@ Modo auctor vult exaltare istum trinarium. Et scire debes quod omnes habent dele
 
 45 Ma Gregorio da lui poi si divise;\
 &emsp;Onde, sì tosto come gl'ochi aperse\
-&emsp;In questo ciel, di sè medesimo rise (2).
+&emsp;In questo ciel, di sè medesimo rise (12).
 
 45 Sed Gregorius postea ab eo se divisit;\
 &emsp;Unde, quam cito aperuit oculos\
@@ -480,13 +480,13 @@ Modo auctor vult exaltare istum trinarium. Et scire debes quod omnes habent dele
 
 (1) che ama — (2) el quale — (3) prospera — (4) la quale — (5) seconda — (6) balli angelici — (7) giuochi e feste — (8) gl'ordini — (9) detto Aryopagita — (10) nove — (11) Lib. De angelica Yerarchia — (12) de la sua opinione prima.
 
-Iam vult ostendere auctor, quod felicitas prius, saltem natura vel origine, fundatur in cognitione quam voluntate, et dicit: Hinc potest videri, idest aperte cognosci, quomodo fundatur esse beatum, idest beatitudo, in alto quod videt, idest in visione, sive cognitione, idest principalius, non in illo quod amat, idest ita non principaliter, quod postea sequitur; et visionis est mensura merces, ita quod merces est ita secundum qualitatem et quantitatem visionis; quam, scilicet visionem, gratia Dei precurrit (quia nullus posset mereri vitam eternam, nisi adiuvaretur a divina gratia, et bona voluntas, scilicet divina, que est causa omnium rerum creatarum: sic de grado in gradum proceditur, idest per bene capientem vel doctrinantem.
+Iam vult ostendere auctor, quod felicitas prius, saltem natura vel origine, fundatur in cognitione quam voluntate, et dicit: Hinc potest videri, idest aperte cognosci, quomodo fundatur esse beatum, idest beatitudo, in alto quod videt, idest in visione, sive cognitione, idest principalius, non in illo quod amat, idest ita non principaliter, quod postea sequitur; et visionis est mensura merces, ita quod merces est ita secundum qualitatem et quantitatem visionis; quam, scilicet visionem, gratia Dei precurrit (quia nullus posset mereri vitam eternam, nisi adiuvaretur a divina gratia, et bona voluntas, scilicet divina, que est causa omnium rerum creatarum: sic de gradu in gradum proceditur, idest per bene capientem vel doctrinantem.
 
 Iam auctor tangit secundam Ierarchiam theophaniam.
 
 Alter trinarius, qui sic germinat, idest viret, multiplicatur, idest similiter cantat, osannando, sicut primus trinarius, in hoc primo vere sempiterno (quia semper est ibi in celo primum ver), quod nocturnus Aries, idest nocturna Libra, non expoliat, quia hic nunquam cadunt folia; perpetualiter Osanna svernatur, idest cantatur, cum tribus melodiis, idest cum tribus ordinibus Angelorum, que sonant in tribus ordinibus letitie, unde internantur, idest perpetuantur. Nunquam letitia ibi deest.
 
-In ipsa Ierarchia, scilicet secunda, sunt duo alie deitates, dee, idest duo alii chori: primo Dominationes, et postea Virtutes; ordo tertius Potestatum est.
+In ipsa Ierarchia, scilicet secunda, sunt due alie deitates, dee, idest duo alii chori: primo Dominationes, et postea Virtutes; ordo tertius Potestatum est.
 
 Iam ponit auctor tertiam Ierarchiam, scilicet ypophaniam, dicens: Postmodum in duobus ultimis tripudiis, idest ordinibus, Principatus et Arcangeli gyrantur, idest circumvolvuntur: ultimus est totus angelicorum ludorum.
 
@@ -499,7 +499,7 @@ Iam ponit auctor tertiam Ierarchiam, scilicet ypophaniam, dicens: Postmodum in d
 &emsp;Chè chi 'l vide quassù (3) glel discoperse,\
 &emsp;Con altro assai del ver di questi giri.
 
-46 Et si tanto veridice protulit\
+46 Et si tantum veridice protulit\
 &emsp;Mortalis in terra, nolo quod mireris;\
 &emsp;Quia qui vidit hic superius illud sibi discooperuit,\
 &emsp;Cum alio multo vero istorum gyrorum.

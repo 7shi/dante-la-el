@@ -92,7 +92,7 @@ Postquam fuimus intra summum porte, vel, sic, sogliam idest limen, que scilicet 
 
 in peccatis. Ideo bene dixit quidam sacerdos, audiens quemdam ad confessionem; qui dixit confitenti: Quomodo fecisti hoc? Dixit: Sanctus Petrus etiam sic; idest, negavit Christum cum periurio. Tunc dixit sacerdos: Sicut secutus fuisti errantem, etiam sequaris penitentem.
 
-*Nos ascendebamus*. *Nui salivàm*: hec est secunda pars huius capituli, in quo tractatur de via, quam ituri erant; primo namque iverunt super unum lapidem, qui continue movebatur. Hoc habet figurare, quod ille [qui] incipit relinquere vitia et sequi virtutes, oportet eum uti magna arte, ne, voleus recedere ab uno extremo vitioso, incidat ad aliud: sicut volens fieri liberalis, existens avarus, caveat ne fiat prodigus.
+*Nos ascendebamus*. *Nui salivàm*: hec est secunda pars huius capituli, in quo tractatur de via, quam ituri erant; primo namque iverunt super unum lapidem, qui continue movebatur. Hoc habet figurare, quod ille [qui] incipit relinquere vitia et sequi virtutes, oportet eum uti magna arte, ne, volens recedere ab uno extremo vitioso, incidat ad aliud: sicut volens fieri liberalis, existens avarus, caveat ne fiat prodigus.
 
 Nos ascendebamus per unam petram scissam, idest divisam, que movebatur ab una et alia parte, sicut unda que fugit [et] se appropinquat, idest sicut unda que fluit et refluit. Vult enim Aristoteles, quod cupiens relaxare unum vitium, extremum alicuius virtutis, debet se flectere ad extremum contrarium. Sicut volens dirigere ad rectitudinem baculum tortuosum, oportet quod torqueat ipsum ad aliam partem, et curvet ultra debitum, non ut stet in illa forma, sed ut perveniat ad rectitudinem. Ita habens unum vitium extremum, debet se flectere in contrariam partem magis debito, quousque bene assuescat. Sic etiam sapiens, volens unum luxuriosum a luxuria [retrahere], dicit sibi: Vide, miser: nullum vitium est peius luxuria, que reddit hominem culpabilem, infamem, Deo odiosum, obcecat lumen recte rationis. Cum intra peccata mortalia multum sint maiora quam luxuria.
 
@@ -256,7 +256,7 @@ Similiter ad fumum incensorum, qui ibi erant ymaginati; oculi et nasus, et ad it
 
 22 Ibi precedebat benedictum vas,\
 &emsp;Tripudiando succinctus, humilis Psalmista,\
-&emsp;Et plus et mimus erat quam rex in illo casu.
+&emsp;Et plus et minus erat quam rex in illo casu.
 
 23 Di scontro effigiata, ad una vista (4)\
 &emsp;D'un gran palagio, Micol ammirava,\
@@ -371,7 +371,7 @@ Ille qui nunquam vidit rem novam, scilicet Deus cui nihil est novum, produxit is
 <!-- p. 540 (0594) -->
 
 33 Mentr'io mi dilectava di guardare\
-&emsp;L'ymagine di tante humilitadi\
+&emsp;L'ymagini di tante humilitadi\
 &emsp;E per lo fabro lor (1) a veder care;
 
 33 Dum ego delectabar respicere\
@@ -412,7 +412,7 @@ Ille qui nunquam vidit rem novam, scilicet Deus cui nihil est novum, produxit is
 
 38 Io cominciai: Maestro, quel ch'io veggio\
 &emsp;Muover a noi, non mi paion persone,\
-&emsp;E non so io che, nel veder, vaneggio.
+&emsp;E non so che, sì nel veder, vaneggio.
 
 38 Ego incepi: Magister, illud quod ego video\
 &emsp;Venire ad nos, non michi apparent persone,\
@@ -528,9 +528,9 @@ Ed avea in atto impressa esta favella, *Ecce Ancilla Dei*, sì propriamente, Com
 
 Veramente è pensiero, quanto profondo, altrettanto delicato questo di mostrarci punita la colpa col solo aspetto della bellezza di cui la virtù risplende e del premio che le sta preparato; perocchè ci fa sentire tutta la grandezza e nobiltà dell'anima umana, e tutto l'orrore che la colpa in sè contiene: e ciò fa il Poeta con immagini scolpite nel sasso e ritte sul monte; immagini che sono potente stimolo a desiderare la pienezza della perfezione da esse rappresentata. Nè è meno notevole il porre per prima, quasi più grave, la pena che, in tale considerazione, si ha dagli esempi di umiltà posti in alto: e dipoi l'altra che si ha da quelli simboleggianti la superbia, distesi al suolo: perchè, in verità, deve ferir più al vivo la perdita della virtù e del suo premio, che non la sconvenienza del male e la sua pena. E intramezzano l'una e l'altra osservazioni morali sopra la vanità della gloria terrena.
 
-Finalmente diletta soprammodo la signoria, che in tutto questo processo ha il pensiero, di cui sono espressione la natura e l'arte, e ciò che dell'una e dell'altra partecipa, cioè la parola; nel che è metafisica profondissima e sublimita di concetto cristiano, il quale trova che il creato non è altro che un simbolo dell'idea eterna, una parola, in somma, che esprime l'eterno Verbo divino. Dei fatti, qui simboleggiati nelle sculture, si avvera quel che appunto di tutte le cose di questo universo diceva Agostino, che, cioè, tutte e singole sono cose che ne significano altre, e si ha così un simbolismo universale, il quale si appunta nel pensiero divino, di cui tutto è immagine; esso unicamente immagine di sè stesso.
+Finalmente diletta soprammodo la signoria, che in tutto questo processo ha il pensiero, di cui sono espressione la natura e l'arte, e ciò che dell'una e dell'altra partecipa, cioè la parola; nel che è metafisica profondissima e sublimità di concetto cristiano, il quale trova che il creato non è altro che un simbolo dell'idea eterna, una parola, in somma, che esprime l'eterno Verbo divino. Dei fatti, qui simboleggiati nelle sculture, si avvera quel che appunto di tutte le cose di questo universo diceva Agostino, che, cioè, tutte e singole sono cose che ne significano altre, e si ha così un simbolismo universale, il quale si appunta nel pensiero divino, di cui tutto è immagine; esso unicamente immagine di sè stesso.
 
-La Vergine, di grazia e d' umiltà vestita, regale e poverella, alta più che creatura e ancella soggetta del suo Signore: David re, che danza avanti all'arca del Dio vivente, e da chi ignora che cosa sia umiltà, disprezzato; Traiano imperatore, che si piega alle rampogne della vedovella misera, accorata della morte del figliuolo; sono storie piene d'intellettualita sublime, e che specchiano il pensiero divino non meno degnamente dell'arte che nel marmo le ritrae. Queste care immagini commovono così il Poeta che non vorrebbe più separarsene; e veramente vi si sente il divino! Ma gli è mestieri avanzare verso maggiori gradi.
+La Vergine, di grazia e d' umiltà vestita, regale e poverella, alta più che creatura e ancella soggetta del suo Signore: David re, che danza avanti all'arca del Dio vivente, e da chi ignora che cosa sia umiltà, disprezzato; Traiano imperatore, che si piega alle rampogne della vedovella misera, accorata della morte del figliuolo; sono storie piene d'intellettualità sublime, e che specchiano il pensiero divino non meno degnamente dell'arte che nel marmo le ritrae. Queste care immagini commovono così il Poeta che non vorrebbe più separarsene; e veramente vi si sente il divino! Ma gli è mestieri avanzare verso maggiori gradi.
 
 Mentr' io mi dilettava di guardare Le immagini di tante umilitadi, E per lo fabro loro a veder care, Ecco di qua, ma fanno i passi radi, Mormorava il Poeta, molte genti; Queste ne invieranno agli alti gradi.
 

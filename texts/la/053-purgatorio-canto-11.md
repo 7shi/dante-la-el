@@ -60,7 +60,7 @@ Continuando igitur dicta dicendis, auctor, ut patebit infra, ponit orationem, pr
 &emsp;Quia nos ad ipsam non possumus a nobis,\
 &emsp;Si ipsa non venit, cum toto nostro ingenio.
 
-4 Come del suo buon voler gl'angeli tuoi\
+4 Come del suo voler voler gl'angeli tuoi\
 &emsp;Fan sacrificio a te, cantando osanna,\
 &emsp;Così faccian li homini de'suoi.
 
@@ -92,7 +92,7 @@ Continuando igitur dicta dicendis, auctor, ut patebit infra, ponit orationem, pr
 &emsp;Non experiaris cum antiquo adversario,\
 &emsp;Sed libera nos ab illo, qui sic nos spronat.
 
-(1) pace. — (2) al. possiam. — (3) possibilità. (4) si veuce. — (5) Noli probare.
+(1) pace. — (2) al. possiam. — (3) possibilità. (4) si vence. — (5) Noli probare.
 
 per potentiam, essentiam, presentiam? Dicendum est quod sic; ideo auctor glossat dictum sic: Non circumscriptus. Sicut vult Aristoteles et sui expositores in quarto libro Phisicorum, Tractatu de loco, aliquid dicitur esse in loco circumscriptive, scilicet quando ultima superficies loci ambit ultimam corporis locati, quia locus est ultima superficies corporis locati, vel ambientis; et sic Deus nullibi est. Alio modo: aliquid est in loco diffinitive, quando aliqua res est in aliquo loco, sive in aliqua re, et ita est ibi quod est in omni parte talis rei; sicut anima est in corpore et in toto corpore, et est tota in toto et tota in qualibet eius parte, sed non extra illud corpus; et sic nullibi est Deus. Alio modo: aliquid est in loco taliter, quod est ibi et alibi et ubicumque; talis modus essendi in loco, non competit nisi soli deitati; quem modum essendi contulit Deus corpori Christi in sacramento altaris. Modo, ergo, sic est Deus ubique. Cur ergo dicitur: Qui es in celis? Dicendum, quoniam in celo empireo plus Deus se manifestat spiritibus ibi, ideo sic dicitur, etc.: ideo, non est ibi circumscriptus, sed propter ampliorem amorem quem habet ad primos effectus, scilicet ad angelos qui fuerunt primi effectus: quia in principio Deus creavit quatuor, scilicet primum celum empireum, naturam angelicam, primam materiam, et primum instans temporis. Modo a principio mundi Deus se ostendit clare spiritibus angelicis in celo empireo, et etiam modo spiritibus humanis illuc assumptis; ideo precipue dicitur Deus esse in celis: non autem circumscriptive continetur; hoc etenim non posset esse, cum Deus sit actus purus, res simplex, ymo res simplicissima. *Sanctificetur nomen tuum*, non quod de non sancto fiat sanctum, sed ut sanctissimum laudetur et conglorificetur. *Veniat versus nos regnum tuum*, secunda petitio est; quia prima fuit sanctificetur nomen tuum. Petunt igitur iste anime, ut regnum Patris veniat versus eas, quia creature non habent ex se ut possint ire versus regnum Dei, nisi preveniantur a gratia divina; quia, Nemo potest venire ad eum nisi Pater meus traxerit eum (in Evangelio Christi); ad denotandum quod nostra virtute non possumus ire, nisi nos preveniat regnum Dei, sive gratia sui regni. Sicut oculus noster videndo stellam in celo, non venit ad illam, sed stella venit, idest mictit speciem suam, ad oculum nostrum, sicut habe[n]t dicere perspectivi. *Sicut de tuo velle*, est tertia petitio, ubi Christus nos docet petere rem, sine qua non potest perveniri ad regnum Dei: quod nos faciamus, idest impleamus, voluntatem Dei, sicut angeli faciunt, qui nunquam errant, nec transgrediuntur voluntatem Dei, ita quod omnino illa faciamus que sunt de Dei beneplacito. *Osanna* ebraicum vocabulum est, quod sonat salvifica. *Da nobis cotidianum manna* (quarta petitio) quod est viaticum, sine quo nemo iret ad regnum Dei, et intelligitur tam de manna corporali quam etiam spirituali. Manna est quedam ros congelata, coloris albi, et est in gemmis sicut semina coriandri; sicut illud quod Deus pluit patribus nostris in deserto quadraginta annis; ita quod est manna corporale, sicut fuit illud; et est manna spirituale, sicut gratia divina et etiam corpus Christi in sacramento. Sine tali manna retrocedit qui plus ire versus regnum Dei nititur. *Et sicut nos dimictimus*, etc. quinta petitio; scilicet quod Deus parcat nobis, sicut nos pepercimus, vel parcimus, offendentibus nos. Sed nascitur hic dubium. Videtur quod nos precemur contra nos ipsos, dum nos non dimictimus debitoribus nostris. Aliqui dicunt, quod debet dici, *non dimictimus*, sed male. Dicunt alii quod *dimictimus* debet intelligi sicut *dimictere debemus*; quod bene potest stare. Sed melius est dicere sicut stat in oratione dominica, etiam licet non parceres; quia ista oratio non solum dicitur pro orante, sed etiam pro aliis, etc. *Nostram virtutem non experiaris*, etc., sexta petitio; scilicet quod Deus removeat magnum impedimentum eundi ad regnum Dei, scilicet temptationem. *Non experiaris cum dyabolo* potente multum, et virtus nostra leviter inclinatur. *Sed libera*, etc.
 
@@ -437,10 +437,10 @@ Iam auctor vult ostendere quod res temporalis, respectu eterne, nullius est mome
 &emsp;Ma chi è quel (6) di cui (7) tu parlav'hora?
 
 40 Et ego ad ipsum: Tuum dictum verum me accorat\
-&emsp;Bonam humilitatem, et grandem timorem michi ecplanas:\
+&emsp;Bonam humilitatem, et grandem timorem michi explanas:\
 &emsp;Sed quis est ille de quo tu loqueris nunc?
 
-41 Quelli è, rispose, Provenzan (8) Selvani;\
+41 Quelli è, rispose, Provenzan (8) Salvani;\
 &emsp;Qui è, però che fu presumptuoso\
 &emsp;A rechar Siena tutta in le sue mani (9).
 
@@ -486,7 +486,7 @@ Et ego ad eum, scilicet dixi: [Si] ille spiritus, qui attendit, expectat, priusq
 &emsp;Prima che passi tempo quanto visse (1),\
 &emsp;Come fu la venuta sua largita (2)?
 
-44 Si bona oratio cum non adiuvat,\
+44 Si bona oratio eum non adiuvat,\
 &emsp;Prius quam transeat tempus quantum vixit,\
 &emsp;Quomodo fuit adventus ei largitus?
 
@@ -549,7 +549,7 @@ Pria che passin mill'anni? ch'è più corto\
 Spazio all'eterno, ch'un muover di ciglia\
 Al cerchio che più tardi in cielo è torto.
 
-È questo il mistero che tiene quaggiù in mestizia e in continuo gemito l'uman cuore; mestizia e gemito tanto più vivamente e profondamente sentiti, quanto più vasta e profonda è l'orma che Dio impresse di sè nel nostro spirito. Di fatti, dagli inspirati scrittori biblici ad Omero, a Platone, a Virgilio, a Seneca, ad Agostino, all'Alighieri, al Goethe, al Byron, al Leopardi, quel mesto grido informo la scienza, la letteratura, la poesia e l'arte; se cristiano, spargendovi ineffabili bellezze; strazio di crudele disperazione, se ritornato pagano. « Il cuore de'saggi (disse l' Ecclesiaste) sta dov'è tristezza, ed il cuore degli stolti dov'è allegria (*Eccles*. VII). » Chi non avverte il misterioso e profondo sentimento di dolore che informa quaggiù la nostra vita, egli è stupido di mente e di cuore, diceva nella sua *Città di Dio* Agostino. E Omero cantava:
+È questo il mistero che tiene quaggiù in mestizia e in continuo gemito l'uman cuore; mestizia e gemito tanto più vivamente e profondamente sentiti, quanto più vasta e profonda è l'orma che Dio impresse di sè nel nostro spirito. Di fatti, dagli inspirati scrittori biblici ad Omero, a Platone, a Virgilio, a Seneca, ad Agostino, all'Alighieri, al Goethe, al Byron, al Leopardi, quel mesto grido informò la scienza, la letteratura, la poesia e l'arte; se cristiano, spargendovi ineffabili bellezze; strazio di crudele disperazione, se ritornato pagano. « Il cuore de'saggi (disse l' Ecclesiaste) sta dov'è tristezza, ed il cuore degli stolti dov'è allegria (*Eccles*. VII). » Chi non avverte il misterioso e profondo sentimento di dolore che informa quaggiù la nostra vita, egli è stupido di mente e di cuore, diceva nella sua *Città di Dio* Agostino. E Omero cantava:
 
 Quale delle foglie\
 Tale è la stirpe degli umani. Il vento\

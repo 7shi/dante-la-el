@@ -55,7 +55,7 @@ Quantum ad primam partem notandum, quod tres species ludorum communiter ponuntur
 <!-- p. 491 (0545) -->
 
 4 Tal era io in quella turba spessa,\
-&emsp;Volgendo allora qua e là la faccia,\
+&emsp;Volgendo a loro qua e là la faccia,\
 &emsp;E promettendo mi scioglea da essa.
 
 4 Talis eram ego in illa turba spissa,\
@@ -87,7 +87,7 @@ Quantum ad primam partem notandum, quod tres species ludorum communiter ponuntur
 &emsp;Sicut dicebat, non propter culpam commissam,
 
 8 Pier de la Broccia dico: e qui proveggia,\
-&emsp;Menar di qua, la donna di Brabante,\
+&emsp;Mentr'è di qua, la donna di Brabante,\
 &emsp;Sì che però non sia di peggior greggia.
 
 8 Pierius de Broccia: et hinc provideat,\
@@ -377,7 +377,7 @@ O Alberte Theutonice, qui derelinquis istam, que est facta indomita et silvestri
 <!-- p. 496 (0550) -->
 
 36 Vien a veder Montechi e Cappellecti\
-&emsp;Monandi e Filippeschi, uom senza cura:\
+&emsp;Monaldi e Filippeschi, uom senza cura:\
 &emsp;Color già tristi, e questi con sospecti.
 
 36 Veni ad videndum Monticulos et Capellectos\
@@ -450,7 +450,7 @@ Fit per auctorem hic una disiunctiva talis: Vel tu non curas de nobis, nec cogit
 &emsp;Sunt tyrampnis, et unus Metellus devenit\
 &emsp;Omnis rusticus qui partialitates faciendo venit.
 
-43 Fiorenze mia, ben puoi esser contenta\
+43 Fiorenza mia, ben puoi esser contenta\
 &emsp;D'esta (2) digression che non ti tocha,\
 &emsp;Mercè del popol tuo che s'argomenta.
 
@@ -494,7 +494,7 @@ Fit per auctorem hic una disiunctiva talis: Vel tu non curas de nobis, nec cogit
 
 scilicet quod tu non cogites de nobis, vel non cures: ergo secundum est dandum, idest quod tu facis hoc occulte, vel permictis, et secrete in eterno tuo consilio, quo permictis sepe fieri mala aliqua magna propter elicere ex illis aliquos bonos effectus. Iudicia Dei abyssus multa. Vel est preparatio quam in abysso, idest in profundo, vel secreto tui consilii, facias pro aliquo bono, in totum a cognitione nostra divisa, idest preparatio.
 
-Nunc, ammodo, ponitur causa exclamationis, iuste facte, cum dicitur quod civitates Ytalie omnes plene sunt tyrampnis, et unus Metellus, alias Marcellus, devenit et efficitur omnis rusticus, qui partialitates faciendo venit. Aliqui dicunt quod debet dici Mercellus, quia Mercellus vocabatur custos thesauri Tarpec. Nota quod tempore Cesaris, quando fuit adeptus dominium Rome, diu steterat domus thesauri quod non fuerat aperta; sed Cesar voluit aperire; quam custodiebat Mercellus, qui prius voluit scindi per medium quam videre aperiri ostium domus thesauri, que domus nunc est ecclesia Sancti Adriani. Et quia iste Mercellus fuit ita fidelis, multum commendatur. Ita ad propositum, nunc quilibet rusticus parcialis reputatur Mercellus. Aliqui dicunt, et melius, quod debet Marcellus dici; nec intelligitur de tali quali Marcello, sed de illo, qui semper obstetit Cesari, et fuit semper inimicus Cesaris, de quo dicit Lucanus, et fuit ille, qui iudicavit Cesarem hostem Senatus et Reipublice. Modo vult dicere auctor, sicut iste Marcellus semper obstetit Cesari, ita quilibet rusticus parcialis obsistit Cesari imperatori romano ac regi.
+Nunc, ammodo, ponitur causa exclamationis, iuste facte, cum dicitur quod civitates Ytalie omnes plene sunt tyrampnis, et unus Metellus, alias Marcellus, devenit et efficitur omnis rusticus, qui partialitates faciendo venit. Aliqui dicunt quod debet dici Mercellus, quia Mercellus vocabatur custos thesauri Tarpei. Nota quod tempore Cesaris, quando fuit adeptus dominium Rome, diu steterat domus thesauri quod non fuerat aperta; sed Cesar voluit aperire; quam custodiebat Mercellus, qui prius voluit scindi per medium quam videre aperiri ostium domus thesauri, que domus nunc est ecclesia Sancti Adriani. Et quia iste Mercellus fuit ita fidelis, multum commendatur. Ita ad propositum, nunc quilibet rusticus parcialis reputatur Mercellus. Aliqui dicunt, et melius, quod debet Marcellus dici; nec intelligitur de tali quali Marcello, sed de illo, qui semper obstetit Cesari, et fuit semper inimicus Cesaris, de quo dicit Lucanus, et fuit ille, qui iudicavit Cesarem hostem Senatus et Reipublice. Modo vult dicere auctor, sicut iste Marcellus semper obstetit Cesari, ita quilibet rusticus parcialis obsistit Cesari imperatori romano ac regi.
 
 *Florencia mea*. *Fiorencia mea*: hec est quarta pars huius capituli, in qua auctor invehit contra propriam civitatem. Florencia mea (vocativi casus), bene potes esse contenta (yronice loquitur) de tali disgressione, que non te tangit (hec disgressio est, quia auctor disgrediens a proposito tractandi de quarta specie negligentium penitentiam usque ad mortem, stetit ad invehendum contra Ytaliam, etc.), gracia, idest ob provisionem, populi tui, qui se argumentat, idest qui sibi providet.
 
@@ -557,12 +557,12 @@ Disposando, m'avea con la sua gemma.
 
 Come mai tanta potenza e tanto calore di affetto in anime spoglie d'ogni sensibilità terrena? La ragione sta appunto nella loro separazione dal corpo; per la quale essendosi diminuite e rimaste come quasi sospese le loro relazioni intellettuali con la vita presente, crebbero d'intensità quelle del cuore, cioè quelle dell'amore, di cui il cuore, che portiamo in petto, non è che uno strumento a manifestarlo sensibilmente: e l'amore è potenza che cerca l'unione, in cui sta il suo nutrimento e la sua vita. Per lo che, essendo il Purgatorio isolamento dello spirito in tutta la luce e la forza della individuale sua esistenza, di necessità ne deve nascere un impeto di desiderio che non conosca confini. E se da ultimo esso si quieterà nel possesso di Dio in cielo, questo non toglierà che in modo divino ne resti qualcosa, fintantochè il regno di Cristo non sia lassù compiuto. Vi si accenna chiaramente nell'Apocalisse, ne' Salmi, ed altrove.
 
-Pertanto un gran vero s'inchiude nelle replicate e calde domande, che dalle anime qui incontrate si fa volgere il Poeta: queste dimande ci dicono che per la morte non si rompono le affettuose relazioni, che già ci strinsero ad esse; anzi nella vita di la sono più vive che mai; e chiedendoci le meschine che preghiamo e facciamo altri pregare,
+Pertanto un gran vero s'inchiude nelle replicate e calde domande, che dalle anime qui incontrate si fa volgere il Poeta: queste dimande ci dicono che per la morte non si rompono le affettuose relazioni, che già ci strinsero ad esse; anzi nella vita di là sono più vive che mai; e chiedendoci le meschine che preghiamo e facciamo altri pregare,
 
 Sì che s'avacci il lor divenir sante,
 
-ci mostrano l'arcana comunicazione che possiamo aver con le medesime, ricevendone una corrispondenza tanto più vera, viva ed affettuosa, quanto più è acceso e ogni istante più si purifica il loro amore in Dio. Bisognerebbe non aver cuore, per non sentire la verità, la bellezza, l'incanto di quest'armonia, che fa del presente mondo una sola cosa con quello di la. Coteste anime, le quali non possono più giovare a sè stesse, perchè uscite fuori del tempo, in cui soltanto ci è dato di liberamente operare, e che perciò sperano e chieggono duri l'affetto che già ad esse ci unì; la virtù nostra, che, per esser noi tuttavia in cammino e nella libertà de' nostri atti, si fa espiatrice della pena lor dovuta, fruttando a noi merito di eterna vita; questa permanenza di legami, che si formarono in terra per durare eternamente in cielo, qui per essi dilatandosi il regno di Dio nella stessa fede, nelle stesse speranze, nelle medesime aspirazioni, e lassù compiendosi; è questa una tale armonia della fede nostra con la natura del nostro cuore, che, ove non avessimo altre prove di quanto crediamo, questa ci basterebbe. Oh no, la nostra speranza, diremo con lo stesso Poeta, non falla,
+ci mostrano l'arcana comunicazione che possiamo aver con le medesime, ricevendone una corrispondenza tanto più vera, viva ed affettuosa, quanto più è acceso e ogni istante più si purifica il loro amore in Dio. Bisognerebbe non aver cuore, per non sentire la verità, la bellezza, l'incanto di quest'armonia, che fa del presente mondo una sola cosa con quello di là. Coteste anime, le quali non possono più giovare a sè stesse, perchè uscite fuori del tempo, in cui soltanto ci è dato di liberamente operare, e che perciò sperano e chieggono duri l'affetto che già ad esse ci unì; la virtù nostra, che, per esser noi tuttavia in cammino e nella libertà de' nostri atti, si fa espiatrice della pena lor dovuta, fruttando a noi merito di eterna vita; questa permanenza di legami, che si formarono in terra per durare eternamente in cielo, qui per essi dilatandosi il regno di Dio nella stessa fede, nelle stesse speranze, nelle medesime aspirazioni, e lassù compiendosi; è questa una tale armonia della fede nostra con la natura del nostro cuore, che, ove non avessimo altre prove di quanto crediamo, questa ci basterebbe. Oh no, la nostra speranza, diremo con lo stesso Poeta, non falla,
 
 Se ben si guarda con la mente sana.
 
-A chi poi ci chiedesse come per noi si possa ammettere tanta potenza di sentimento e di affetti in spiriti separati dal corpo, noi gli domanderemmo alla volta nostra chi sapesse mostrarcene il germe nella materia! O il sentimento dell'amore che talvolta ci rapisce come fuor di noi stessi, e tanto più potentemente quanto più è elevato e puro, non è esso forse una specie di spiritualizzazione sin da questa vita? Il quale sentimento, in Dio, di cui siamo opera, dev'essere, in rispondenza della sua natura infinita e perfettissima, infinito, perfettissimo, ineffabilmente divino. E da lui per creazione ci venne partecipato. O che! non avrebbe cuore chi a noi dette il nostro? Come! diceva già il Profeta: « Qui plantavit aurem, non audiet? aut qui finxit oculum, non considerat?» E conchiudeva: « Beatus homo, quem tu erudieris, Domine, et de lege tua docueris eum, ut mitiges ci a diebus malis.» (Psal. XCIII).
+A chi poi ci chiedesse come per noi si possa ammettere tanta potenza di sentimento e di affetti in spiriti separati dal corpo, noi gli domanderemmo alla volta nostra chi sapesse mostrarcene il germe nella materia! O il sentimento dell'amore che talvolta ci rapisce come fuor di noi stessi, e tanto più potentemente quanto più è elevato e puro, non è esso forse una specie di spiritualizzazione sin da questa vita? Il quale sentimento, in Dio, di cui siamo opera, dev'essere, in rispondenza della sua natura infinita e perfettissima, infinito, perfettissimo, ineffabilmente divino. E da lui per creazione ci venne partecipato. O che! non avrebbe cuore chi a noi dette il nostro? Come! diceva già il Profeta: « Qui plantavit aurem, non audiet? aut qui finxit oculum, non considerat?» E conchiudeva: « Beatus homo, quem tu erudieris, Domine, et de lege tua docueris eum, ut mitiges ei a diebus malis.» (Psal. XCIII).

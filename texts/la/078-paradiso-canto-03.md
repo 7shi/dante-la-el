@@ -24,7 +24,7 @@ In isto tertio capitulo, quod incipit: *Ille sol qui prius*, auctor dicit quod B
 &emsp;Me ipsum, quantum michi fuit conveniens,\
 &emsp;Elevavi caput ad proferendum magis altum.
 
-(1) quel lume di Beatrice — (2) a puero — (3) suo — (4) a me Dante — (5) del turbine de la luua — (6) aperto — (7) per ragione — (8) al. falsa opinione mia — (9) risguardo et intelligentia.
+(1) quel lume di Beatrice — (2) a puero — (3) suo — (4) a me Dante — (5) del turbine de la luna — (6) aperto — (7) per ragione — (8) al. falsa opinione mia — (9) risguardo et intelligentia.
 
 *Ille sol qui prius amore*. *Quel sole che pria d'amore*: istud est tertium capitulum huius Paradisi, in quo auctor tractat de spiritibus, qui sunt in celo lune et de conditionibus ipsorum. Dividitur autem istud capitulum in quatuor partes. In quarum prima auctor ponit qualitatem umbrarum beatificatarum in hoc corpore lune gratia honestatis et virginitatis.
 
@@ -47,7 +47,7 @@ Ille sol, qui prius amore michi calefecerat pectus, qui [est] Beatrix, que novem
 <!-- p. 851 (0905) -->
 
 3 Ma visione apparve, che ritenne\
-&emsp;Sè a me tanto streto per vedersi,\
+&emsp;A sè me tanto streto per vedersi,\
 &emsp;Che di mia confexion non mi sovvenne.
 
 3 Sed visio apparuit, que retinuit\
@@ -230,7 +230,7 @@ Nostri affectus, qui sunt inflammati solum in complacentia Spiritus Sancti, leti
 
 21 Però non fui a rimembrar festino;\
 &emsp;Ma hor m'aiuta ciò che tu mi dici,\
-&emsp;Sicchè transfigurar m'è più latino.
+&emsp;Sicchè raffigurar m'è più latino.
 
 21 Ideo non fui ad recognoscendum festinus;\
 &emsp;Sed nunc adiuvat me illud quod dicis,\
@@ -379,7 +379,7 @@ Modo dicit Piccarda de voto suo, quod fecerat et non compleverat, de Regula quam
 &emsp;Et promisi viam sue secte.
 
 36 Huomini poi, al mal più ch'al ben usi,\
-&emsp;Fuor mi rapitten de la dolce chiostra;\
+&emsp;Fuor mi rapiron de la dolce chiostra;\
 &emsp;Dio lo si sa qual poi mia vita fusi.
 
 36 Homines postmodum, plus ad malum quam ad bonum usitati,\
@@ -399,7 +399,7 @@ Modo dicit Piccarda de voto suo, quod fecerat et non compleverat, de Regula quam
 &emsp;Di capo l'hombra de le sacre bende.
 
 38 Quidquid dico de me, intellige de ipso:\
-&emsp;Soror fuit, et sic ei fuit abrecta\
+&emsp;Soror fuit, et sic ei fuit abrepta\
 &emsp;De capite umbra sacrarum bendarum.
 
 39 Da poi che pur al mondo fu rivolta,\
@@ -418,7 +418,7 @@ Modo dicit Piccarda de voto suo, quod fecerat et non compleverat, de Regula quam
 &emsp;Que de secundo vento Svevie\
 &emsp;Generavit tertiam et ultimam potentiam.
 
-dominam, scilicet Sanctam Claram, magis supra, idest in celo superiori, michi, scilicet Danti, dixit, scilicet Piccarda, ad cuius normam, idest regulam, in vestro mundo inferiori vestitur, scilicet religiose, et velatur, scilicet velo nigro in capite; ad hoc ut usque ad mortem vigiletur et dormiatur, idest Deo serviatur, cum illo sponso, idest Christo, qui omne votum acceptat, quod caritatem ad complacentiam confirmat. Nam vita contemplativa est perfecta; vita etiam activa est causa multorum meritorum.
+dominam, scilicet Sanctam Claram, magis supra, idest in celo superiori, michi, scilicet Danti, dixit, scilicet Piccarda, ad cuius normam, idest regulam, in vestro mundo inferiori vestitur, scilicet religiose, et velatur, scilicet velo nigro in capite; ad hoc ut usque ad mortem vigiletur et dormiatur, idest Deo serviatur, cum illo sponso, idest Christo, qui omne votum acceptat, quod caritatem ad complacentiam conformat. Nam vita contemplativa est perfecta; vita etiam activa est causa multorum meritorum.
 
 A mundo, propter sequi, idest imitari, illam, scilicet Sanctam Claram, iuvencula fugi, et in suo habitu me clausi, et promisi viam sue secte, idest professionem feci in suo Ordine.
 
@@ -482,6 +482,6 @@ La prima sentenza è della scuola Tomistica, la seconda della Francescana, guida
 
 Essendo quistione in cui al pari dell'intelletto entra il cuore, amiamo dirne una parola; osservando, prima di tutto, che le due diverse espressioni del Poeta, prese a rigore e senza preconcetti allargamenti di significato, non contrastano punto tra sè; secondo, che il loro armonioso accordo ci dà appunto il risultato della sentenza Francescana, altissimamente metafisica, e appieno corrispondente alla natura dell'uman cuore.
 
-Dei due concetti di materia e di forma, pe'quali si ha l'intima costituzione della creatura, come dell'atto spirituale umano, non uno appresso gli Scolastici fu il significato distinto; ma genericamente convenivano in questo, che il primo è il determinabile, indeterminato in sè, e che perciò è almeno *quasi* il soggetto reale e logico della forma, cioè del principio determinante e determinato della cosa. Or chi è che determina l'azione propriamente umana? Certo la volontà. Posto cio, non è punto difficile il vedere che anche nella sentenza nostra, secondo la quale il formale del gaudio eterno è la carità, non si nega (e la cosa è per sè troppo evidente), che, nell'ordine dello svolgimento delle sostanze spirituali create, il pensiero anteceda e irradii del suo lume il volere, e che quindi questo secondi quello e poi lo signoreggi sovrano. Ond'è che non soltanto non vi contradicono, ma vi corrispondono le parole del Poeta, che il fondamento, o quasi soggetto, o materia, del gaudio, sia l'apprendimento del vero, goduto poi dal volere (principio formale o determinante) che in esso vero riposa, unificando, o, forse meglio, armonizzando sè stesso al volere assoluto e divino, da cui ogni nostra attività ha inizio e nutrimento e in cui ne sta il fine; e quindi si ribadisce la profonda sentenza del Dottor Serafico, il quale, ponendo mente all'indivisibile attività dello spirito, insegna che lo stato beatifico comprende tutte quante le potenze dell'anima in modo che si connettano tra sè in un ordine supremo d'intelligenza e d'affetto; e questo fa la carità, perchè dominatrice dell'alto, la quale riunisce in uno, conformandoli a Dio, gl'intendimenti e i voleri dei cittadini di quell'eterna magione, chiamata, con precisione di parola, città dell'amore.
+Dei due concetti di materia e di forma, pe'quali si ha l'intima costituzione della creatura, come dell'atto spirituale umano, non uno appresso gli Scolastici fu il significato distinto; ma genericamente convenivano in questo, che il primo è il determinabile, indeterminato in sè, e che perciò è almeno *quasi* il soggetto reale e logico della forma, cioè del principio determinante e determinato della cosa. Or chi è che determina l'azione propriamente umana? Certo la volontà. Posto ciò, non è punto difficile il vedere che anche nella sentenza nostra, secondo la quale il formale del gaudio eterno è la carità, non si nega (e la cosa è per sè troppo evidente), che, nell'ordine dello svolgimento delle sostanze spirituali create, il pensiero anteceda e irradii del suo lume il volere, e che quindi questo secondi quello e poi lo signoreggi sovrano. Ond'è che non soltanto non vi contradicono, ma vi corrispondono le parole del Poeta, che il fondamento, o quasi soggetto, o materia, del gaudio, sia l'apprendimento del vero, goduto poi dal volere (principio formale o determinante) che in esso vero riposa, unificando, o, forse meglio, armonizzando sè stesso al volere assoluto e divino, da cui ogni nostra attività ha inizio e nutrimento e in cui ne sta il fine; e quindi si ribadisce la profonda sentenza del Dottor Serafico, il quale, ponendo mente all'indivisibile attività dello spirito, insegna che lo stato beatifico comprende tutte quante le potenze dell'anima in modo che si connettano tra sè in un ordine supremo d'intelligenza e d'affetto; e questo fa la carità, perchè dominatrice dell'atto, la quale riunisce in uno, conformandoli a Dio, gl'intendimenti e i voleri dei cittadini di quell'eterna magione, chiamata, con precisione di parola, città dell'amore.
 
 A chiarire anche meglio questa dottrina, si può aggiungere che compiuta azione umana senza volontà non può darsi. Noi, prima di volere, conosciamo: e il conoscere, certo, non è senza azione, anzi ogni cognizione contiene in sè dell'atto; gli si accompagna, l'eccita, e viene poi eccitata da esso. Ma il vero e compiuto atto umano fin qui non si ha. E' quando spunta? Quando qualche cosa di più intimo e finale nell'umano spirito si manifesta, ad abbracciare o a respingere l'oggetto presentato dalla cognizione. E questo è la volontà, avente per radice il libero arbitrio, e a cui la cognizione è soltanto aiuto ad operare. Tali sono le compiute azioni umane. Direm noi che possa accadere diversamente in quella, con cui nel cielo abbracceremo l'eterno bene per possederlo eternamente? Dove poi il Poeta dice, *fondarsi* L'esser beato nell'atto che vede, è chiaro che accenna alla condizione del formale, ossia alla vista dell'oggetto, senza di cui la volontà non potrebbe operare.

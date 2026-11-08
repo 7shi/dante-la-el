@@ -76,7 +76,7 @@ Redeundo ad primam partem, auctor primo continuat dicta dicendis; sed ante tangi
 &emsp;Fuor d'ogn'altro comprender come piacque,\
 &emsp;S'aperse in nove amor l'etterno Amore (3).
 
-6 In ista eternitate extra tempus,\
+6 In sua eternitate extra tempus,\
 &emsp;Extra omne aliud comprehendere, sicut [s]ibi placuit,\
 &emsp;Aperuit [se] in novem amores eternus Amor.
 
@@ -154,7 +154,7 @@ Adhuc addit auctor, quod ordo fuit concreatus rebus, dicens: Concreatus, idest s
 &emsp;Di secoli, degl'angeli, creati\
 &emsp;Anzi che l'altro mondo fusse facto:
 
-13 Hieronimus nobis scripsit longum tractum\
+13 Hieronimus vobis scripsit longum tractum\
 &emsp;Seculorum, angelorum, creatorum\
 &emsp;Antequam alius mundus esset factus:
 
@@ -196,7 +196,7 @@ de ferro fit gladius, de pasta fit panis. Sic Deus non factus, est simplicissimu
 
 Puram potentiam tenuit pars yma, scilicet materia prima, etiam elementa et elementata, ex quibus multa fiunt: in medio astrinxit, idest posuit, potentiam cum actu, ut homo est, in quo est anima, que est actus, et corpus, quod est potentia, tale vimen, idest talis ligatura, vel nexus, quod nunquam devimatur, idest dissolvitur, idest dum vivit homo, vel dum stat tale compositum. Per predicta patet responsio ad dubia, scilicet quando fuit facta natura angelica, scilicet in eternitate et non in tempore, et ubi, idest nullibi, quia nullus erat locus in quo crearetur.
 
-Sequitur responderi ad tertium dubium, scilicet quomodo natura angelica fuit facta. Dicendum de nihilo, independenter, per omnipotentiam Dei. Destruit tamen opinionem, quam videtur tenuisse Hieronimus in una Epistola, ubi videtur innuere ipse Hieronimus, quod antequam Deus faceret istum mundum sensibilem, diu fecerat angelos ante per multa secula. Quam opinionem non tenet auctor, quia non videtur sibi vera, tum quia quasi omnes doctores dicunt oppositum, tum etiam quia videretur frustra fuisse: quia angeli ideo sunt ut moveant orbes, sed orbes ante mundi creationem non erant; ideo non movissent eos, et sic fuissent frustra. Aliqui tamen excusant Hieronimum hic, dicendo, quod Hieronimus hic loquutus est more Grecorum, qui sequebantur opinionem Platonis, dicentis angelos fuisse, etc. Hieronimus vobis bonum tractum, idest spatium, [scripsit] seculorum, angelorum creatorum antequam alius mundus esset factus.
+Sequitur responderi ad tertium dubium, scilicet quomodo natura angelica fuit facta. Dicendum de nihilo, independenter, per omnipotentiam Dei. Destruit tamen opinionem, quam videtur tenuisse Hieronimus in una Epistola, ubi videtur innuere ipse Hieronimus, quod antequam Deus faceret istum mundum sensibilem, diu fecerat angelos ante per multa secula. Quam opinionem non tenet auctor, quia non videtur sibi vera, tum quia quasi omnes doctores dicunt oppositum, tum etiam quia videretur frustra fuisse: quia angeli ideo sunt ut moveant orbes, sed orbes ante mundi creationem non erant; ideo non movissent eos, et sic fuissent frustra. Aliqui tamen excusant Hieronimum hic, dicendo, quod Hieronimus hic loquutus est more Grecorum, qui sequebantur opinionem Platonis, dicentis angelos fuisse, etc. Hieronimus vobis longum tractum, idest spatium, [scripsit] seculorum, angelorum creatorum antequam alius mundus esset factus.
 
 Sed istud verum, scilicet oppositum dicto Hieronimi, est scriptum multis (idest dictum a multis Doctoribus) locis a scriptoribus Spiritus Sancti (ideo Dantes non tenet illam opinionem, scilicet Sancti Hieronimi, et etiam propter rationem naturalem); et tu de hoc perpendes, scilicet rationem naturalem, si bene respicis.
 
@@ -254,7 +254,7 @@ in pulchritudine, voluit adequari suo Creatori; ideo dixit, Ysaie decimo quarto 
 
 Alia pars, scilicet bonorum angelorum, remansit, recognoscendo beneficium Creatoris sui, et incepit istam artem, scilicet laudare et glorificare Deum, quam tu discernis, idest cognoscis, cum tanta delectatione, quod nunquam a circumeundo recedit.
 
-Principium casus, scilicet illorum angelorum, fuit superbire illius, scilicet Luciferi (dicebatur Lucifer, quasi ferens lucem, quia lucidissimus erat; idco dicit Iob: Quomodo cecidisti Lucifer, qui mane oriebaris? Omnis lapis pretiosus ornamentum tuum), quem tu vidisti, scilicet in Inferno et in centro terre, ab omnibus ponderibus mundi constrictum.
+Principium casus, scilicet illorum angelorum, fuit superbire illius, scilicet Luciferi (dicebatur Lucifer, quasi ferens lucem, quia lucidissimus erat; ideo dicit Iob: Quomodo cecidisti Lucifer, qui mane oriebaris? Omnis lapis pretiosus ornamentum tuum), quem tu vidisti, scilicet in Inferno et in centro terre, ab omnibus ponderibus mundi constrictum.
 
 Illi, quos vides hic, fuerunt modesti, idest habuerunt modum bonum, ad recognoscendum se, scilicet esse creatos, a bonitate, scilicet divina, que ipsos fecerat ad tantum intelligendum, idest ad tantam intelligentiam, prestos, idest paratos; propter quod, propter quam recognitionem, eorum visus, idest visiones, sive intellectus, fuerunt exaltati cum gratia illuminante, et cum eorum merito, seu meritis, ita quod habent firmam, seu plenam, voluntatem.
 
@@ -267,7 +267,7 @@ Et nolo quod tu dubites, imo quod sis certus, quod recipere gratiam est meritori
 &emsp;Mie son ricolte, senz'altro aiutorio.
 
 23 Ammodo circa istud consistorium\
-&emsp;Potest contemplari satis, si verba\
+&emsp;Potes contemplari satis, si verba\
 &emsp;Mea sunt recollecta, sine alio adiutorio.
 
 24 Ma, perchè in terra per le vostre scole\
@@ -322,7 +322,7 @@ Et nolo quod tu dubites, imo quod sis certus, quod recipere gratiam est meritori
 
 Ammodo circa istud consistorium, idest circa materiam istam hic tactam, potes contemplari, scilicet a teipso, satis, si verba mea sunt recollecta, idest in mente tua bene intellecta, sine alio adiutorio.
 
-Pro intelligenda littera sequenti, notandum est quod reminiscentia est quando homo aliquid didicit et reposuit in mente sua, sive memoria: de quo non semper considerat; quando postmodum de illo considerat, et illud intelligit, sic dicitur reminisci, sive reminiscentia. Modo illi qui haberent omnia presentia, et illa continue contuerentur intellectualiter et intelligerent, in talibus non cadit reminiscentia, nec recordatio, sive recordari; et sic in Deo non est recordatio, nec reminisci, cum omnia semper sint sibi presentia, etc. Sic apparet auctori de angelis, quia a principio creationis sue et confirmationis habuerunt semper Deum presentem, nec unquam volverunt nec retraxerunt oculos suos, scilicet visionem suam, a Deo, in quo vident omnia que Deos vult ipsos videre; ideo nec in ipsis cadit reminiscentia, nec recordatio, nec reminisci: et sic auctor hic trufatur de iis, qui asserunt in angelis esse reminiscentiam. Sed quia in terris per vestras scholas legitur, scilicet per multos, et affirmatur, quod angelica natura est talis, quod ipsa, scilicet intelligit, recordatur et vult, adhuc dicam, scilicet aliquid, ad hoc ut tu videas puram veritatem (veritas est adequatio rei ad intellectum, et est veritas, obiectum intellectus, sicut color, sensus visus, et sonus, auditus), que inferius confunditur, equivocando in tali lectura.
+Pro intelligenda littera sequenti, notandum est quod reminiscentia est quando homo aliquid didicit et reposuit in mente sua, sive memoria: de quo non semper considerat; quando postmodum de illo considerat, et illud intelligit, sic dicitur reminisci, sive reminiscentia. Modo illi qui haberent omnia presentia, et illa continue contuerentur intellectualiter et intelligerent, in talibus non cadit reminiscentia, nec recordatio, sive recordari; et sic in Deo non est recordatio, nec reminisci, cum omnia semper sint sibi presentia, etc. Sic apparet auctori de angelis, quia a principio creationis sue et confirmationis habuerunt semper Deum presentem, nec unquam volverunt nec retraxerunt oculos suos, scilicet visionem suam, a Deo, in quo vident omnia que Deus vult ipsos videre; ideo nec in ipsis cadit reminiscentia, nec recordatio, nec reminisci: et sic auctor hic trufatur de iis, qui asserunt in angelis esse reminiscentiam. Sed quia in terris per vestras scholas legitur, scilicet per multos, et affirmatur, quod angelica natura est talis, quod ipsa, scilicet intelligit, recordatur et vult, adhuc dicam, scilicet aliquid, ad hoc ut tu videas puram veritatem (veritas est adequatio rei ad intellectum, et est veritas, obiectum intellectus, sicut color, sensus visus, et sonus, auditus), que inferius confunditur, equivocando in tali lectura.
 
 Iste substantie, scilicet isti angeli, postquam fuerunt iocunde a facie Dei, non volverunt visum ab ipsa, a qua nihil absconditur; ideo non habent intercisum obiectum a novo subiecto; ideo non expedit, idest non oportet, rememorare per conceptus discissos, idest diffusos. Ita quod ibi inferius, idest in mundo, non dormiendo sompniatur, credendo et non credendo dicere verum. Sed in uno est plus culpe, idest in illo qui malitiose scribit vel asserit, et plus verecundie, supple quam in alio, qui ignoranter hoc diceret vel assereret. Nota quod auctor non intendit hic dicere, quin in angelis Dei sit intellectus, memoria et voluntas, essentialiter et realiter iste potentie, idest intellectiva, volitiva et memorativa; sed vult dicere, quod in angelis non est reminiscentia, idest quod aliquando intelligant rem et aliquando non, sicut accidit in nobis, qui habemus intelligentiam intercisam et per discursum intercisum: et hoc est, quia angeli semper intuentur Deum, nec removetur eorum intelligere ab ipsis; et ideo non oportet eos reminisci. Et illi, qui conantur ponere in angelis reminiscentiam, non dormiendo sompniant, idest non se intelligunt: et dicere talia trufatoria de angelis est magna culpa; et maior culpa est in illis qui hoc asserunt per malitiam, quam in illis qui hoc dicunt ex ignorantia.
 
@@ -350,7 +350,7 @@ philosophando, interponentes aliquas subtilitates vanas philosophicas inter part
 
 Et hoc etiam comportatur, idest supportatur, cum minori indignatione, quam quando est posposita Sacra Scriptura, et quando est torta, idest retorta: si autem fiant nove adinventiones et retorquentur littere seculares, hoc est comportabile, vel [dum] tales littere seculares posponuntur; sed non est ita supportabile si pervertitur aut posponitur Sacra Scriptura, quia ad ipsam pertinet iudicium animarum. Vere sic est, quod iam devenerunt aliqui predicatores ad tantam, non dico audaciam, sed stultitiam, quod verecundantur allegare Evangelia, solum allegant Aristotilem, Averroyn, Tullium; et si Scripturam Sacram allegant, illam retorquent, idest male exponunt.
 
-Non cogitatur ibi, idest apud tales predicatores, quantum sanguinem constat seminare illam in mundo, scilicet Sacram Scripturam, quia sanguis Christi [et] Martyrum propter hoc effectus est; idest tantum displicet Deo et toti celesti curie, quod Sacra Scriptura sic pervertatur et negligatur, quantum carus est sanguis Christi et Martyrum, et sic per oppositum quantum gratum sit Deo et quantum placeant Deo illi, qui humiliter se cum illa conformant, vel illi qui adherent.
+Non cogitatur ibi, idest apud tales predicatores, quantum sanguinem constat seminare illam in mundo, scilicet Sacram Scripturam, quia sanguis Christi [et] Martyrum propter hoc effusus est; idest tantum displicet Deo et toti celesti curie, quod Sacra Scriptura sic pervertatur et negligatur, quantum carus est sanguis Christi et Martyrum, et sic per oppositum quantum gratum sit Deo et quantum placeant Deo illi, qui humiliter se cum illa conformant, vel illi qui adherent.
 
 <!-- p. 1163 (1217) -->
 
@@ -372,11 +372,11 @@ Non cogitatur ibi, idest apud tales predicatores, quantum sanguinem constat semi
 
 34 Et altri, che la luce si nascose\
 &emsp;Da sè; però agl'Ispani et a gl'Indi,\
-&emsp;Com'a'Giuderi, tal eclypsi rispose.
+&emsp;Com'a'Giudei, tal eclypsi rispose.
 
 34 Et interim, quod lux se abscondit\
 &emsp;A se; ideo Hyspanis et Indis,\
-&emsp;Sicut vides, eclipsatio respondit.
+&emsp;Sicut Iudeis, eclipsatio respondit.
 
 35 Non ha Firenze tanti Lapi e Bindi,\
 &emsp;Quante sì facte favole per anno\
@@ -446,7 +446,7 @@ Non dixit Christus suo conventui, idest cetui Apostolorum et Discipulorum: Ite e
 
 41 Propter quod tanta stultitia in terra crevit,\
 &emsp;Ita et in tantum quod, sine probatione alicuius testis,\
-&emsp;Ad omnem promissionem cucurreretur.
+&emsp;Ad omnem promissionem curreretur.
 
 42 Di questo ingrassa 'l porco Sanct'Antonio,\
 &emsp;Et altr' (2) assai, che son peggio che porci,\
@@ -470,7 +470,7 @@ Et illud, scilicet Evangelium, tantum insonuit in suis genis, ita quod ad pugnan
 
 Nunc itur cum moctis, idest verbis derisoriis et trufatoriis, et cum scedis, idest scelleratis et lascivis sermonibus, et verbis scurrilibus, ad predicandum, scilicet trufas et buffas; et solummodo quod rideant, idest audientes, inflatur caputium, scilicet predicatores in vanagloria, et plus, idest amplius, non requiritur. Quasi dicat intra se predicator: Bene feci, nam bene feci contentas istas mulierculas. Sed tamen, quando sic intra se ridet predicator et gaudet, tunc dyabolus nidificat in suo caputio inflato.
 
-Sed talis avis, idest dyabolus, in bechecto, idest sub cappa, nidificat, quod si vulgus, illam avem subaudi, videret, idest cognosceret, indulgentiam de qua ipsum, scilicet vulgus confidit, videret; propter quod, idest propter talia que predicantur, tanta stultitia in terra crevit (quasi dicat: Nonne est maxima stultitia vulgi dare fidem talibus predicatoribus? et maxime istis questuariis, qui petunt a vulgaribus, quidam amore Sancti Antonii, quidam amore Spiritus Sancti, quidam amore Sancte Marie [de] Runcivalle; et omnes reportant sacculos plenos, et quasi omnes dant fidem cerretanis, idest tructanis) ita et in tantum, quod, sine probatione alicuius textis, ad omnem professionem curreretur, idest unicuique trufatori datur fides, dummodo dicat aliqua ad ridendum.
+Sed talis avis, idest dyabolus, in bechecto, idest sub cappa, nidificat, quod si vulgus, illam avem subaudi, videret, idest cognosceret, indulgentiam de qua ipsum, scilicet vulgus confidit, videret; propter quod, idest propter talia que predicantur, tanta stultitia in terra crevit (quasi dicat: Nonne est maxima stultitia vulgi dare fidem talibus predicatoribus? et maxime istis questuariis, qui petunt a vulgaribus, quidam amore Sancti Antonii, quidam amore Spiritus Sancti, quidam amore Sancte Marie [de] Runcivalle; et omnes reportant sacculos plenos, et quasi omnes dant fidem cerretanis, idest tructanis) ita et in tantum, quod, sine probatione alicuius testis, ad omnem promissionem curreretur, idest unicuique trufatori datur fides, dummodo dicat aliqua ad ridendum.
 
 De isto impinguat porcum Sanctus Antonius (idest de talibus predicationibus et dictis talium tructanorum: qui dicunt quod Sanctus Antonius habet multum pro grato, quod amore sui dentur eleemosine, nedum ipsis questuariis, sed etiam porcis; et accipiunt porcum unum parvum, et perforant auriculam, et ponunt campanellam ad aurem eius, et sic per totum annum de eleemosinis impinguatur talis porcus: postmodum rediens tructanus facit interfici porcum illum; et beatus est ille qui potest emere de porco illo, etiam in caro foro), et alii multi (idest qui habent de talibus eleemosinis, que dantur amore Sancti Antonii), qui sunt plus quam porci, in moribus et vita, solvendo de moneta sine conio: quia isti tales tructani annuntiant magnas indulgentias, dicunt multa mendacia, lucrantur multa: et sic impinguant meretrices suas et bagasias. Non est dubium quod Sanctus Antonius fuit optimus heremita et sanctus homo; sed sunt aliqui, et multi discreti viri, qui postponunt ieiunare die Veneris sancta parasceve, in vigiliis Apostolorum, et vigilia[m] Sancti Antonii proculdubio solempniter celebrant in pane et aqua, etc.
 
@@ -503,7 +503,7 @@ De isto impinguat porcum Sanctus Antonius (idest de talibus predicationibus et d
 &emsp;Quot sunt splendores qui hic apparent.
 
 47 Onde, però ch'all'acto che concepe\
-&emsp;Segue l'effecto d'amare la dolcezza,\
+&emsp;Segue l'affecto d'amare la dolcezza,\
 &emsp;Diversamente in essa ferve e tepe.
 
 47 Unde, quia actus qui concipit\
@@ -522,7 +522,7 @@ De isto impinguat porcum Sanctus Antonius (idest de talibus predicationibus et d
 
 (1) al. sui — (2) irradia — (3) l'altezza — (4) consuma — (5) uno e semplice.
 
-Vult tangere numerum angelorum, dicens: Ista natura, hec natura, tam ultra graduatur, idest multiplicatur, in numero, quod unquam fuit loquela, nec conceptus mortalis, qui tantum vadat. Idest angeli sunt innumerabiles; non sunt infiniti, sed sunt tot quot non possunt dicere lingue mortalium.
+Vult tangere numerum angelorum, dicens: Ista natura, hec natura, tam ultra graduatur, idest multiplicatur, in numero, quod nunquam fuit loquela, nec conceptus mortalis, qui tantum vadat. Idest angeli sunt innumerabiles; non sunt infiniti, sed sunt tot quot non possunt dicere lingue mortalium.
 
 Et si respicis id quod revelatur per Danielem, capitulo octavo sui libri, ubi scribitur, Mille millia ministrabant ei, et decies centena millia ministrabant ei; videbis quod super millia determinatus numerus celatur, idest terminatur.
 

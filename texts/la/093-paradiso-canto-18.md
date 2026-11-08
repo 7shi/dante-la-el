@@ -2,7 +2,7 @@
 
 # Capituli Decimioctavi Summarium
 
-In isto decimoctavo capitulo, quod incipit: *Iam gaudebat solo suo verbo*, auctor ostendit quomodo dominus Cacciaguida delectabatur verbis suis, que dixerat, [et] quod ipse auctor, auditis casibus sibi emergentibus et remediis, temperabat unum cum alio, dolebat de infortuniis, sed gaudebat de remediis sibi dictis. Tunc respiciens auctor in Beatricem, vidit cam pulcherrimam. Demum, respiciens in dominum Cacciaguidam, cognovit quod adhuc volebat ulterius loqui. Et incepit dicere, quomodo in ista quinta stella erant spiritus illustres, et nominavit aliquos fortissimos in bellis: Iosue successorem Moysi[s], Iudam Machabeum, Karolum Magnum, Orolandum, Guilielmum, Reonardum, ducem Gotfredum, Rubertum Guiscardum; demum dominus Cacciaguida ostendit seipsum. Demum auctor ingressus est speram Iovis; quod cognovit bene, quia sensit se circumduci velocius solito, et quia vidit candorem Iovis: in qua stella Iovis ipse vidit quasi innumerabiles spiritus, sicut grues, se moventes et residentes. Nota quod isti spiritus, postquam movebant se, aliquantulum postea quiescebant, sic et taliter ordinati, quod de ipsis fiebant littere, caracteres; et aliquando faciebant unum D, aliquando unum I, aliquando unum L. Iterum isti spiritus, canendo, movebant se; postea quiescentes a cantu et motu, figurabant unam litteram; et tantum fecerunt, sicut dictum est, quod isti ipsi, inter consonantes litteras et vocales, figuraverunt istam orationem totam: Diligite iustitiam, qui iudicatis terram. Postea in M vocabuli quinti remanserunt ordinate sic, quod Iuppiter apparebat argentum cum auro ductum. Nota quod Iuppiter est argentei coloris; isti spiritus, propter splendorem, apparebant coloris aurei; et sic campus erat argentei coloris, et littere erant aurei. Supervenerunt adhuc quasi innumerabiles alii spiritus, et cum istis descripserunt unum caput aquile cum collo. Et isti supervenientes, cum illis qui primitus ibi erant, contexerunt unam aquilam totam. Quia ista aquila significat iustitiam regum et dominorum, auctor supplicat istis spiritibus, ut impetrent a Domino meo, quod illi qui iniuste regunt, puniantur. Demum auctor obloquitur de prelatis Ecclesie, qui sunt multum prompti ad excommunicandum suos subditos; et hoc tangit propter papam Bonifacium octavum, qui tantum dilexit florenum, quod sanctorum Petri et Pauli oblitus est, secundum istum auctorem.
+In isto decimoctavo capitulo, quod incipit: *Iam gaudebat solo suo verbo*, auctor ostendit quomodo dominus Cacciaguida delectabatur verbis suis, que dixerat, [et] quod ipse auctor, auditis casibus sibi emergentibus et remediis, temperabat unum cum alio, dolebat de infortuniis, sed gaudebat de remediis sibi dictis. Tunc respiciens auctor in Beatricem, vidit eam pulcherrimam. Demum, respiciens in dominum Cacciaguidam, cognovit quod adhuc volebat ulterius loqui. Et incepit dicere, quomodo in ista quinta stella erant spiritus illustres, et nominavit aliquos fortissimos in bellis: Iosue successorem Moysi[s], Iudam Machabeum, Karolum Magnum, Orolandum, Guilielmum, Reonardum, ducem Gotfredum, Rubertum Guiscardum; demum dominus Cacciaguida ostendit seipsum. Demum auctor ingressus est speram Iovis; quod cognovit bene, quia sensit se circumduci velocius solito, et quia vidit candorem Iovis: in qua stella Iovis ipse vidit quasi innumerabiles spiritus, sicut grues, se moventes et residentes. Nota quod isti spiritus, postquam movebant se, aliquantulum postea quiescebant, sic et taliter ordinati, quod de ipsis fiebant littere, caracteres; et aliquando faciebant unum D, aliquando unum I, aliquando unum L. Iterum isti spiritus, canendo, movebant se; postea quiescentes a cantu et motu, figurabant unam litteram; et tantum fecerunt, sicut dictum est, quod isti ipsi, inter consonantes litteras et vocales, figuraverunt istam orationem totam: Diligite iustitiam, qui iudicatis terram. Postea in M vocabuli quinti remanserunt ordinate sic, quod Iuppiter apparebat argentum cum auro ductum. Nota quod Iuppiter est argentei coloris; isti spiritus, propter splendorem, apparebant coloris aurei; et sic campus erat argentei coloris, et littere erant aurei. Supervenerunt adhuc quasi innumerabiles alii spiritus, et cum istis descripserunt unum caput aquile cum collo. Et isti supervenientes, cum illis qui primitus ibi erant, contexerunt unam aquilam totam. Quia ista aquila significat iustitiam regum et dominorum, auctor supplicat istis spiritibus, ut impetrent a Domino meo, quod illi qui iniuste regunt, puniantur. Demum auctor obloquitur de prelatis Ecclesie, qui sunt multum prompti ad excommunicandum suos subditos; et hoc tangit propter papam Bonifacium octavum, qui tantum dilexit florenum, quod sanctorum Petri et Pauli oblitus est, secundum istum auctorem.
 
 <!-- p. [1032] (1086) -->
 
@@ -72,7 +72,7 @@ Et illa domina, scilicet Beatrix, que ad Deum me ducebat (quia Sacra Theologia e
 
 6 Finchè 'l piacer eterno, che directo\
 &emsp;Raggiava in Beatrice, del bel viso\
-&emsp;Mi contentava col sereno aspecto.
+&emsp;Mi contentava col secondo aspecto.
 
 6 Quousque complacentia eterna fuit directa,\
 &emsp;Radiabat in Beatricem, a pulchro visu\
@@ -148,7 +148,7 @@ Quousque complacentia eterna fuit directa, radiabat a Beatrice, a pulchro visu, 
 
 *Sicut videtur per aliquam vicem*. *Come se vede per alcuna volta*: hec est secunda pars istius capituli, in qua illa anima Cacciaguide ostendit aliquos spiritus, qui fuerunt magne fame. Primo tamen auctor ponit dispositionem illius anime, dicens, quod aliquando in facie hominis, propter aliquem gestum vel aliquod signum, homo percipit affectum qui est in anima alicuius. Sicut quando videmus unum fieri pallidum, cognoscimus quod ille habet timorem vel iram: sic quando videmus aliquem rubescere, cognoscimus quod ille verecundatur: sic quando videmus aliquod signum in facie hominis, quod indicet occupationem animi, tunc percipimus aliquid de affectu animi. Et sic in quodam flammigiare, quod fecit illa anima, sive fulgorare, Dantes percepit quod adhuc volebat magis loqui cum ipso auctore. Ideo dicit: Sicut videtur per aliquam vicem, vel aliquando, affectus, scilicet alicuius hominis, in *vista*, idest in facie, sive in apparentia, si est tantus, scilicet ille affectus, quod ab eo sit tota anima subtracta (quia non omnis parvus affectus animi mutaret colorem in facie, sed bene affectus magnus): sic in flammigiare fulgoris sancti, idest illius sancte anime, ad quod flammigiare ego me volvi, cognovi ego voluntatem in eo, ratiocinandi mecum adhuc aliquantulum.
 
-Ipse incepit, scilicet ille fulgor, sive spiritus fulgurans: In ista quinta *soglia*, idest limine, idest quinto planeta, scilicet Martis, arboris, que vivit de summitate, et fructificat semper, et nunquam perdit folia, scilicet frondes (ad differentiam aliarum arborum, que in autumpno perdunt folia; preterea alie arbores vivunt de subtus, a radicibus habent alimentum, sed ista habet de summitate: nota quod auctor vocat hic seriem planetarum unam arborem, que vivit de summitate, idest habet vitam a Deo, quia stat supra in summitate celorum), spiritus sunt beati, qui inferius, idest in mundo inferiori, in vita terrena, priusquam venirent huc sursum, fuerunt grandis vocis, idest fame, ita, idest in tantum, quod omnino musa, idest scientia poetica, de illis, scilicet spiritibus, esset opima, idest satis haberet facere, laudando decenter ipsos.
+Ipse incepit, scilicet ille fulgor, sive spiritus fulgurans: In ista quinta *soglia*, idest limine, idest quinto planeta, scilicet Martis, arboris, que vivit de summitate, et fructificat semper, et nunquam perdit folia, scilicet frondes (ad differentiam aliarum arborum, que in autumpno perdunt folia; preterea alie arbores vivunt de subtus, a radicibus habent alimentum, sed ista habet de summitate: nota quod auctor vocat hic seriem planetarum unam arborem, que vivit de summitate, idest habet vitam a Deo, quia stat supra in summitate celorum), spiritus sunt beati, qui inferius, idest in mundo inferiori, in vita terrena, priusquam venirent huc sursum, fuerunt grandis vocis, idest fame, ita, idest in tantum, quod omnis musa, idest scientia poetica, de illis, scilicet spiritibus, esset opima, idest satis haberet facere, laudando decenter ipsos.
 
 Ideo respice in cornibus crucis: ille, quem ego tibi monstrabo, idest nominabo, ibi faciet actum quem facit in nube ignis velox, idest fulgurabit, vel dabit unum fulgurare, vel unum splendorem, sicut facit fulgor in nube; quod fulgor est ignis velox in nube.
 
@@ -158,7 +158,7 @@ Ego vidi per crucem unum lumen, tractum a nomine, idest a nominatione Iosue, quo
 
 14 Et al nome dell'alto Machabeo\
 &emsp;Vidi muoversi un altro roteando,\
-&emsp;E letitia era forza de paleo.
+&emsp;E letitia era ferza de paleo.
 
 14 Et ad nomen alti Machabei\
 &emsp;Vidi moveri unum aliud roteando,\
@@ -198,9 +198,9 @@ Ego vidi per crucem unum lumen, tractum a nomine, idest a nominatione Iosue, quo
 
 Et ad nomen alti Machabei, idest Iude Machabei, vidi moveri unum aliud roteando, idest in circum se movendo; et letitia erat *ferza*, idest scutica, palei, idest croci. Hic notandum quod in civitate Florentie pueri faciunt aliquando unum talem ludum. Ipsi pueri habent dimidium unius croci. Crocus est unum parvum corpus rotundum, quod volvitur super uno puncto. Modo paleum est dimidietas croci, et bene volvitur; sed ad volvendum pueri habent unum baculum, et in summitate illius baculi habent unam cordulam de cannapo (aliquando est de coreo), et continue percutiunt illam dimidietatem croci, et semper volvitur percussa ab illo baculo cum tali corda; et illud instrumentum, scilicet ille baculus cum illa cordula. Florentie vocatur ferza, sive flagellum, scilicet scutica. Vult dicere auctor, quod sicut scutica est vis que facit volvi paleum, ita letitia istius spiritus, scilicet Iude Machabei, faciebat flammigiare et moveri ipsum spiritum. Sicut igitur crocus movetur per percussionem scutice, ita ille spiritus movebatur ex letitia.
 
-Sic pro Karolo Magno et pro Orolando duo secutus est meus actentus aspectus, idest intuitus, sicut oculus sequitur suum falconem volando, sive volantem. Quia quando quis dimictit falconem, cum oculo respicit falconem volantem. Nota de istis tribus illustribus viris, scilicet de Iuda Machabeo et Karolo Magno et Orlando. Anthiocus, rex Syrie, qui fuit filius Anthioci victi et debellati per Scipionem et qui habebat guerram cum Romanis, iste secundus Anthiocus, filius primi, stetit Rome obses pro patre suo, ut habetur in primo capitulo primi libri Machabeorum. Hic fecit magnam guerram cum Iudeis et populo Dei, devicit civitatem Hierusalem, contaminavit templum sanctum Domini et omnia sancta loca. Aliqui boni Iudei fugerunt ad montes a facie istius Anthioci, inter quos fugit Mathatias et omnes filii sui, inter quos optimus fuit iste Iudas Machabeus, sic dictus a progenie sua. Hic fecit multa prelia contra Anthiocum, et habuit multas victorias. Tandem sparsit sanguinem pro lege sancta, ut in libris Machabeorum habetur. Rex Karolus fuit Theutonicus, fuit rex Frantie, fecit multas victorias contra Sarracenos, acquisivit multas nationes, liberavit Ytaliam a Lombardis, fuit illustrissimus rex. Orolandus fuit suus nepos, qui mortuus est Sitii cum cornu, etc.; fuit illustrissimus homo.
+Sic pro Karolo Magno et pro Orolando duo secutus est meus actentus aspectus, idest intuitus, sicut oculus sequitur suum falconem volando, sive volantem. Quia quando quis dimictit falconem, cum oculo respicit falconem volantem. Nota de istis tribus illustribus viris, scilicet de Iuda Machabeo et Karolo Magno et Orlando. Anthiocus, rex Syrie, qui fuit filius Anthioci victi et debellati per Scipionem et qui habebat guerram cum Romanis, iste secundus Anthiocus, filius primi, stetit Rome obses pro patre suo, ut habetur in primo capitulo primi libri Machabeorum. Hic fecit magnam guerram cum Iudeis et populo Dei, devicit civitatem Hierusalem, contaminavit templum sanctum Domini et omnia sancta loca. Aliqui boni Iudei fugerunt ad montes a facie istius Anthioci, inter quos fugit Mathatias et omnes filii sui, inter quos optimus fuit iste Iudas Machabeus, sic dictus a progenie sua. Hic fecit multa prelia contra Anthiocum, et habuit multas victorias. Tandem sparsit sanguinem pro lege sancta, ut in libris Machabeorum habetur. Rex Karolus fuit Theutonicus, fuit rex Frantie, fecit multas victorias contra Sarracenos, acquisivit multas nationes, liberavit Ytaliam a Lombardis, fuit illustrissimus rex. Orolandus fuit suus nepos, qui mortuus est siti cum cornu, etc.; fuit illustrissimus homo.
 
-Postea traxit Guilhielmum et Reynardum et ducem Gotfreydum mea visio, idest meus oculus, per illam crucem, et Rubertum Guiscardum. Omnes iste anime fuerunt illustres, et in altum valde iverunt cum gloria. Iste Guilhielmus etiam mortuus est pro fide christiana inter infedeles, et rex Reynardus similiter. Dux Gotfreydus fuit de Lochtringia: Lochtringia est regio in Provintia. Iste Gotfreydus cum sotiis suis acquisivit terram sanctam Hierusalem, et fuit ibi dominus; noluit unquam vocari rex propter reverentiam Iesu Christi, qui est rex Iudeorum: cui successit filius suus, rex Baldovinus, qui fuit etiam valentissimus et bonus et sanguinem sparsit pro fide Christi. Iste Rubertus Guiscardus fuit Normandus, filius ducis Normandie; fuit etiam defensor Ecclesie sancte Dei, qui expulit Henricum tertium: mortuus est etiam eundo ad passagium inter Sarracenos.
+Postea traxit Guilhielmum et Reynardum et ducem Gotfreydum mea visio, idest meus oculus, per illam crucem, et Rubertum Guiscardum. Omnes iste anime fuerunt illustres, et in altum valde iverunt cum gloria. Iste Guilhielmus etiam mortuus est pro fide christiana inter infideles, et rex Reynardus similiter. Dux Gotfreydus fuit de Lochtringia: Lochtringia est regio in Provintia. Iste Gotfreydus cum sotiis suis acquisivit terram sanctam Hierusalem, et fuit ibi dominus; noluit unquam vocari rex propter reverentiam Iesu Christi, qui est rex Iudeorum: cui successit filius suus, rex Baldovinus, qui fuit etiam valentissimus et bonus et sanguinem sparsit pro fide Christi. Iste Rubertus Guiscardus fuit Normandus, filius ducis Normandie; fuit etiam defensor Ecclesie sancte Dei, qui expulit Henricum tertium: mortuus est etiam eundo ad passagium inter Sarracenos.
 
 Inde inter alias luces, idest alia lumina et splendores, idest illos spiritus, motam et mixtam monstravit michi animam, que michi loquuta erat, idest Cacciaguide, qualis erat inter cantores celi artista. Textus est fortis. Idest anima Cacciaguide, que michi diu erat loquuta, movit se de loco illo, ubi stabat, ad pedem crucis, propter loqui mecum, et venerat de cornu dextro crucis, et reversa est ad cornu dextrum crucis unde recesserat, et miscuit se cum illis animabus a quibus recesserat, canendo cum illis; et sic canendo michi ostendit qualis artista erat in cantu, idest quomodo sciebat cantare bene dulciter, et sic novi bonam artem cantus in eo fore.
 
@@ -238,7 +238,7 @@ Inde inter alias luces, idest alia lumina et splendores, idest illos spiritus, m
 
 22 Et qualiter in transmutando parvum transitum\
 &emsp;Temporis albescit mulier, quando vultum\
-&emsp;Suum exponeret verecundia oneratum;
+&emsp;Suum exoneret verecundia oneratum;
 
 23 Tal fu negl'ochi miei, quando fui volto,\
 &emsp;Per lo candor de la temprata stella\
@@ -286,7 +286,7 @@ Modo auctor vult describere unam pulchram et mirabilem fantasiam. Pro qua intell
 
 27 Pria cantando a sua nota moveansi;\
 &emsp;Poi, doventando l'un di questi segni,\
-&emsp;Um poco s'arrestavan e taceansi.
+&emsp;Un poco s'arrestavan e taceansi.
 
 27 Prius cantando ad suam notam se movebant;\
 &emsp;Postea, deveniendo unum istorum signorum,\
@@ -401,7 +401,7 @@ Ille qui pingit ibi non habet qui eum conducit, sed ipse ducit (ille est Deus, q
 <!-- p. 1039 (1093) -->
 
 38 L'altra beatitudo, che contenta\
-&emsp;Parea prima d'imgiglarsi a l'Emme,\
+&emsp;Parea prima d'ingiglarsi a l'Emme,\
 &emsp;Con poco moto seguitò la 'mprenta.
 
 38 Alia beatitudo, que contenta\
@@ -414,7 +414,7 @@ Ille qui pingit ibi non habet qui eum conducit, sed ipse ducit (ille est Deus, q
 
 39 O dulcis stella, quales et quante gemme\
 &emsp;Michi demonstrarunt quod nostra iustitia\
-&emsp;Effectus sint celi quod tu ingemmas!
+&emsp;Effectus sit celi quod tu ingemmas!
 
 40 Perch'io prego la mente, in che s'initia\
 &emsp;Tuo moto e tua virtute, che rimiri\
@@ -464,7 +464,7 @@ O dulcis stella, quales et quante gemme michi demonstrarunt, quia vestra iustiti
 
 *Quare ego precor Mentem*. *Perch'io prego la Mente*:
 
-hec est quarta pars huius capituli, in qua auctor supplicat Deo ut faciat ultionem de illis, qui corrumpunt iustitiam, dicens: Quare ego precor Mentem, idest divinam, in qua initiatur, idest principiatur, tuus motus et tua virtus, quod respiciat unde exit fumus, qui totum radium vitiat, idest maculat, scilicet avaritiam, et maxime pastorum Ecclesie; ita quod alia vice ammodo irascatur, idest ad iram moveatur, de emere et vendere, idest de emptionibus et venditionibus, que fiunt intra templum, quod, scilicet templum, muratum fuit de sanguine, Christi idest [et] sanctorum Martyrum, et martyriis. Idest: irascaris, sicut fecisti in templo, quando cum flagello de funiculis eiecisti oves et boves, etc., et quando dixisti: Domus mea, domus orationis vocabitur; vos autem fecistis illam speluncam latronum. Quia sic nunc faciendum esset de istis sacerdotibus, qui sunt avarissimi.
+hec est quarta pars huius capituli, in qua auctor supplicat Deo ut faciat ultionem de illis, qui corrumpunt iustitiam, dicens: Quare ego precor Mentem, idest divinam, in qua initiatur, idest principiatur, tuus motus et tua virtus, quod respiciat unde exit fumus, qui tuum radium vitiat, idest maculat, scilicet avaritiam, et maxime pastorum Ecclesie; ita quod alia vice ammodo irascatur, idest ad iram moveatur, de emere et vendere, idest de emptionibus et venditionibus, que fiunt intra templum, quod, scilicet templum, muratum fuit de sanguine, Christi idest [et] sanctorum Martyrum, et martyriis. Idest: irascaris, sicut fecisti in templo, quando cum flagello de funiculis eiecisti oves et boves, etc., et quando dixisti: Domus mea, domus orationis vocabitur; vos autem fecistis illam speluncam latronum. Quia sic nunc faciendum esset de istis sacerdotibus, qui sunt avarissimi.
 
 O militia celi, quam ego contemplor, adora pro illis, qui sunt in terra, omnes devii retro, idest post, malum exemplum, scilicet quod dat papa et alii pastores Ecclesie, qui deberent dare bonum exemplum.
 

@@ -72,7 +72,7 @@ In prima parte auctor continuat dicta dicendis, quod contingit de Aquila, que si
 
 6 Postquam clari et lucidi lapilli,\
 &emsp;Unde ego vidi ingemmatum sextum lumen,\
-&emsp;Posuerunt silentium angelicis quisquillis,
+&emsp;Posuerunt silentium angelicis squillis,
 
 7 Udir mi parve el mormorar d'un fiume,\
 &emsp;Che scende chiaro giù di pietra in pietra,\
@@ -246,7 +246,7 @@ De quinque, scilicet spiritibus, qui michi faciunt supercilium, ille qui plus ro
 
 est de filio (iste fuit Trayanus, de quo dictum est): nunc cognoscit quantum carum costat, idest quantum malum faciunt scilicet qui non sequuntur Christum, non sequi Christum, idest non esse christianum, propter experientiam, scilicet quam habuit, istius dulcis vite, que scilicet est in celo, et opposite, idest infernalis: quia iste fuit in Inferno, et modo est in celo; ideo expertus est utramque vitam.
 
-Et ille qui sequitur in circumferentia, de quo ratiocinor, per arcum supernum, idest per partem superiorem, arcualem, oculi, mortem distulit propter meram penitentiam (iste erat spiritus Ezechie, regis Iuda, de quo satis dictum est): nunc cognoscit quod iudicium eternum non transmutatur, quando digne preces faciunt crastinum de odierno, idest quando Deus distulit ad tempus aliquam rem, que debebat ante illud tempus fieri. Pro quo notandum est, quod aliqui querunt quomodo dixit verum propheta Ysayas (Ysaye tricesimooctavo capitulo), quando dixit Ezechie: Morieris, et non vives, non evades de ista infirmitate; qui tamen supervixit postmodum quindecim annis. Dicendum est hic, quod Ezechias, secundum suam complexionem intrinsecam et secundum dispositionem causarum secundarum, iam mori debebat, et sic mortuus fuisset nisi humiliatus fuisset et orasset; sed propter penitentiam et orationem Deus suspendit influentiam secundarum causarum; et sie in hoc rege Ezechia evenit et fiebat de hodierno crastinum, idest tardata fuit mors sua; sed iudicium eternum non fuit transmutatum. Iudicium eternum sciebat, quia iste, ex complexione sua et ex influentia secundarum causarum, tunc mori debebat; sed sic etiam sciebat quod ipse debebat facere penitentiam et orare: et sic Deus voluit prolongare dies suos per quindecim annos ab illo quod debebat vivere secundum complexionem suam.
+Et ille qui sequitur in circumferentia, de quo ratiocinor, per arcum supernum, idest per partem superiorem, arcualem, oculi, mortem distulit propter veram penitentiam (iste erat spiritus Ezechie, regis Iuda, de quo satis dictum est): nunc cognoscit quod iudicium eternum non transmutatur, quando digne preces faciunt crastinum de odierno, idest quando Deus distulit ad tempus aliquam rem, que debebat ante illud tempus fieri. Pro quo notandum est, quod aliqui querunt quomodo dixit verum propheta Ysayas (Ysaye tricesimooctavo capitulo), quando dixit Ezechie: Morieris, et non vives, non evades de ista infirmitate; qui tamen supervixit postmodum quindecim annis. Dicendum est hic, quod Ezechias, secundum suam complexionem intrinsecam et secundum dispositionem causarum secundarum, iam mori debebat, et sic mortuus fuisset nisi humiliatus fuisset et orasset; sed propter penitentiam et orationem Deus suspendit influentiam secundarum causarum; et sic in hoc rege Ezechia evenit et fiebat de hodierno crastinum, idest tardata fuit mors sua; sed iudicium eternum non fuit transmutatum. Iudicium eternum sciebat, quia iste, ex complexione sua et ex influentia secundarum causarum, tunc mori debebat; sed sic etiam sciebat quod ipse debebat facere penitentiam et orare: et sic Deus voluit prolongare dies suos per quindecim annos ab illo quod debebat vivere secundum complexionem suam.
 
 Alius qui sequitur, cum legibus, mecum (aliqui volunt hic dicere, quod auctor loquitur hic de Iustiniano, qui condidit leges: sed hoc non est verum, imo intelligitur de Constantino. Et si dicatur: Quales leges fecit et condidit Constantinus? dicit[ur], quod fecit leges pulcherrimas, qui ordinavit et in scriptis redegit, quod nemo degens sub Romano Imperio, deberet molestare Christianos, quod nemo deberet polluere ecclesias Christianorum, et quod nemo adoraret ydola. Omnes enim Imperatores Romani fuerunt usque ad Constantinum persecutores Christianorum et Ecclesie Christi: et in hoc auctor ipsum Constantinum de talibus legibus commendat), sub bona intentione, scilicet dotavit Ecclesiam, que, supple intentio, fecit malum fructum; propter cedere, idest ut cederet, pastori, scilicet Silvestro, se fecit Grecum, idest ivit ad Gretiam ad habitandum in Constantinopolim: nunc cognoscit quomodo malum deductum de suo bono operari non est sibi nocivum, quamquam sit mundus inde destructus.
 
@@ -374,7 +374,7 @@ Postmodum prope, scilicet talia festa, idest subito post, cum oculo magis accens
 
 idest ipsa Aquila, propter non tenere me, idest ut non teneret me, in admiratione suspensum (quia Dantes admirabatur, quod illi duo spiritus essent ibi, qui fuerunt spiritus Paganorum; et maxime spiritus Trayani dabat admirationem, qui persecutus fuit Ecclesiam Christi; ideo dixit: Que res sunt iste, indigne fide et incredibiles, quod duo pagani sunt hic?): Ego video quod tu credis istas res, idest sicut bonus christianus, quia ego illas dico, sed non vides quomodo; ita quod, si creduntur, sunt absconse.
 
-Facis sicut ille qui rem per nomen apprehendit bene; sed suam quidditatem videre non potest, si alius illa non promit.
+Facis sicut ille qui rem per nomen apprehendit bene; sed suam quidditatem videre non potest, si alius illam non promit.
 
 Notandum est hic, quomodo regnum celorum vim patitur. Nam aliquis homo, aliquando habens amicum, volens ipsi inferre verecumdiam aliquam, substinet sibi dampnum propter salvare honorem amici. Sicut, si valens homo, disputans cum amico non multum valente et non bene respondente, tamen ad salvandum honorem amici, laudat amicum, sic loquens: Bene dicis, optima est responsio tua; ego nescio, nec possum te improbare. Etiam, homo recipit aliquando aliquam iniuriam ab amico suo; et ut non vituperet eum, dicit: Bene fecisti, bonum motivum habuisti. Regnum celorum vim patitur, sive violentiam, a calido amore et a viva spe, que vincit divinam voluntatem. Ecce tale exemplum. Iste paganus, quantum est in se et per ea que fecit, deberet dampnari; tamen quia Deus scit, quod unus sanctus, iustus et pius homo, habens fiduciam et spem in Deo et caritatem ad illum paganum, [orabit pro ipso] propter aliquas causas moventes ipsum, ipse permictit se vinci, scilicet Deus, quia ille esset dampnandus de lege, et tamen precamina flectunt Deum ad salutem illius. Modo, sic evenit de Trayano, qui meruerat Infernum et ad Infernum ivit, non per sententiam diffinitivam, sed per interlocutoriam, propter rogamina futura pro ipso facienda per Gregorium; ita quod caritas, quam Gregorius ad Trayanum habuit propter iustitiam quam exercuit, et maxime qua usus est circa illam viduam, et propter spem et fiduciam quam habuit Gregorius in Deo, regnum celorum passum est, quod Trayanus resurgeret a mortuis et fieret Christianus, et tunc moriendo mereretur celum, moriendo ut bonus Christianus. Nota etiam quod, secundum fictionem auctoris, isti duo non sunt mortui pagani, sed christiani: qui[a] Trayanus, resuscitatus precibus Gregorii, factus fuit fidelis Christianus et devotus, et sic mortuus est; Rypheus Troyanus, quia fuit ita iustus et virtuosus, dedit Deus sibi, ex illapsu speciali gratie Spiritus Sancti, fidem, et declaravit sibi Christum incarnandum et crucifigendum: et sic in illo credidit, et sic vivendo sprevit Paganismum, et corrigebat ydolatras, et sic credidit in Christum venturum; et hoc, cum suis virtutibus, sufficit sibi ad salutem; et iste habuit baptisma flaminis.
 
@@ -388,13 +388,13 @@ De corporibus suis non exiverunt, scilicet pagane, sicut tu credis, et gentiles,
 
 36 Chè l'una dell'Inferno, u' non si riede\
 &emsp;Giamai a ben voler, tornò all'ossa:\
-&emsp;E ciò [a] divina speme (1) fu mercede;
+&emsp;E ciò di viva speme (1) fu mercede;
 
 36 Quia una de Inferno, unde non reditur\
 &emsp;Unquam ad bonam voluntatem, redivit ad ossa:\
 &emsp;Et hoc vive spei fuit merces;
 
-37 Divina speme, che misse la possa\
+37 Di viva speme, che misse la possa\
 &emsp;Ne' prieghi facti a Dio (2) per suscitarla,\
 &emsp;Sì che potesse sua vogla esser mossa.
 
@@ -446,7 +446,7 @@ De corporibus suis non exiverunt, scilicet pagane, sicut tu credis, et gentiles,
 &emsp;Che tu vedesti da la dextra rota,\
 &emsp;Dinanzi al baptezar più d'un millesmo.
 
-43 Ille tres domine fuerunt ibi pro baptismate,\
+43 Ille tres domine fuerunt sibi pro baptismate,\
 &emsp;Quas tu vidisti ad dexteram rotam,\
 &emsp;Ante baptisma plus uno millesimo.
 
@@ -502,7 +502,7 @@ Ille tres domine, scilicet virtutes theologice, sibi fuerunt pro baptismate, sci
 &emsp;Facit sequi motum corde,\
 &emsp;In quo plus complacentie cantus acquirit;
 
-49 Sì, mentre che parlo, sì mi ricorda\
+49 Sì, mentre che parlò, sì mi ricorda\
 &emsp;Ch'io vidi le due luci benedecte,\
 &emsp;Pur come batter d'ochi si concorda,\
 &emsp;Con le parole muover le fiammette.
@@ -539,7 +539,7 @@ Certo è che chi entri un poco in sè stesso, di leggeri s'accorge che noi e tut
 
 Per contrario, nel concetto cattolico, che pienamente corrisponde alla ragione, ed in cui essa trova tutta la luce che può desiderare, la vita presente non è che l'avanzare da una penombra, o albore, in cui nel ricever la fede spuntiamo, un avanzare, diciamo, dentro un oceano di luce immensurabile, di cui il riso del creato è appena una languida e misteriosa parvenza; e però qui è albore, e non può essere altro che albore, albore soprannaturale e segno di cosa al presente nascosta, ma che apparirà; quindi non veduta ora in sè, ma posseduta per fede; chè altrimenti ci troveremmo non in via, ma pervenuti al termine, e saremmo non già perfettibili, ma perfetti, non viatori, ma comprensori: e nondimeno questo albore è a noi necessario, se vogliamo giungere con la conoscenza e con l'amore, e però liberamente, a Dio; imperocchè ove esso manchi, non si hanno che tenebre ed abberrazioni.
 
-Ma d'altra parte: coloro dunque che fossero impotenti a ricevere la fede, o per mancanza di relazione con altri credenti, o per qualsiasi altra ragione, si troveranno essi di necessità fuori del fine sovrannaturale della creazione, e quindi andranno senza propria colpa perduti? Ecco ciò che angustia molti, e di cui Dante stesso chiedeva una spiegazione. Ma chi fissi la mente nel domma intero, trova non difficile l'uscita. Coloro che veramente fossero nell'impotenza assoluta di credere, anche per sola mancanza d'interiore illustrazione divina, che pure è necessaria all'atto meritorio della fede, evidentemente non dovrebbero rispondere di ciò, ma sì di quelle altre colpe, delle quali si fecero rei, e che furono ostacolo al conseguimento della grazia, in cui la fede sta inchiusa. Certo, Dio ad alcuni più e ad altri meno, è largo degli aiuti esteriori ed interiori, necessari a ricevere tanto dono; e nella infinita sua sapienza, non mai disgiunta da bontà infinita, ne stanno le ragioni. Tutti pero, o prossimamente, o almeno remotamente, ne hanno quanto basta a conseguire salute; che se non l'ottenessero, dovrebbero rispondere, non della pienezza della fede, che, secondo l'ipotesi, non ebbero mai ed attualmente non possono avere; ma bensi di quegli altri mezzi naturali, preternaturali, ed anche soprannaturali, dei quali, secondo che scrive profondamente San Bonaventura, niuno può mancar mai del tutto, e che bene usati, non per esigenza di giustizia, ma per benigna disposizione divina, non avrebbero mancato di occasionare più copiosa abbondanza di grazia al conseguimento di quella divina virtù.
+Ma d'altra parte: coloro dunque che fossero impotenti a ricevere la fede, o per mancanza di relazione con altri credenti, o per qualsiasi altra ragione, si troveranno essi di necessità fuori del fine sovrannaturale della creazione, e quindi andranno senza propria colpa perduti? Ecco ciò che angustia molti, e di cui Dante stesso chiedeva una spiegazione. Ma chi fissi la mente nel domma intero, trova non difficile l'uscita. Coloro che veramente fossero nell'impotenza assoluta di credere, anche per sola mancanza d'interiore illustrazione divina, che pure è necessaria all'atto meritorio della fede, evidentemente non dovrebbero rispondere di ciò, ma sì di quelle altre colpe, delle quali si fecero rei, e che furono ostacolo al conseguimento della grazia, in cui la fede sta inchiusa. Certo, Dio ad alcuni più e ad altri meno, è largo degli aiuti esteriori ed interiori, necessari a ricevere tanto dono; e nella infinita sua sapienza, non mai disgiunta da bontà infinita, ne stanno le ragioni. Tutti però, o prossimamente, o almeno remotamente, ne hanno quanto basta a conseguire salute; che se non l'ottenessero, dovrebbero rispondere, non della pienezza della fede, che, secondo l'ipotesi, non ebbero mai ed attualmente non possono avere; ma bensì di quegli altri mezzi naturali, preternaturali, ed anche soprannaturali, dei quali, secondo che scrive profondamente San Bonaventura, niuno può mancar mai del tutto, e che bene usati, non per esigenza di giustizia, ma per benigna disposizione divina, non avrebbero mancato di occasionare più copiosa abbondanza di grazia al conseguimento di quella divina virtù.
 
 Nè a intender ciò v'è, o vi potrebbe essere, forza di ragionamento, quanto la fede stessa umilmente e sinceramente ricevuta. Questa è quella misteriosa forza che l'Alighieri dice d'aver ricevuta:
 

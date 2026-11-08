@@ -11,7 +11,7 @@ sed omnia, que tu vides, nota bene, et scribas. Tunc auctor vidit hic multas per
 # Capitulum Tricesimumsecundum
 
 1 Tant'eran gl'ochi miei fixi et attenti\
-&emsp;A disbramarsi la decente sete,\
+&emsp;A disbramarsi la decenne sete,\
 &emsp;Che gl'altri sensi m'eran tucti spenti:
 
 1 Tantum erant oculi mei fixi et actenti\
@@ -85,8 +85,8 @@ Tantum erant oculi mei fixi et actenti, ad disbramandum se, idest ad satiandum d
 &emsp;Priusquam possit tota se mutare;
 
 8 Quella militia del celeste regno,\
-&emsp;Che procedeva, tucta trapassonne\
-&emsp;Pria che piegasse al carro el primo legno (1).
+&emsp;Che precedeva, tucta trapassonne\
+&emsp;Pria che piegasse il carro el primo legno (1).
 
 8 Illa militia celestis regni,\
 &emsp;Que precedebat, tota pertransivit\
@@ -121,7 +121,7 @@ Inde ad rotas redierunt domine, scilicet septem nymphe (ad rotas, quia in duabus
 &emsp;Que fecit orbitam suam cum minori arcu.
 
 11 Sì passeggiando l'alta selva vota,\
-&emsp;Colpa di quella ch'al presente orese,\
+&emsp;Colpa di quella ch'al presente crese,\
 &emsp;Temprava e passi un'angelica nota.
 
 11 Sic passim trahendo altam silvam vacuam,\
@@ -146,11 +146,11 @@ Inde ad rotas redierunt domine, scilicet septem nymphe (ad rotas, quia in duabus
 
 14 La chioma sua, che tanto si dilata\
 &emsp;Più, quanto (2) più va su, fora dall'Yndi\
-&emsp;Ne' bolchi loro per altezza mirata.
+&emsp;Ne' boschi loro per altezza mirata.
 
 14 Coma sua, que tantum dilatatur\
 &emsp;Plus, quanto est plus sursum, esset ab Yndis\
-&emsp;[In] nemoribus ipsorum propter multitudinem admirata.
+&emsp;[In] nemoribus ipsorum propter altitudinem admirata.
 
 15 Beato se', gryfon, che non discindi\
 &emsp;Col becho d'esto legno dolce al gusto,\
@@ -168,7 +168,7 @@ Sic transeundo passim altam silvam vacuam, idest non habitatam, ex culpa illius,
 
 Forsan in tribus volatibus tantum spatium apprehendit, supple aliquis, cum effrenata, idest cum veloci, sagipta, quantum eramus remoti, quando Beatrix descendit, idest quantum traheretur cum arcu vel balista in tribus vicibus.
 
-*Ego sentiebam ab omnibus murmurari*. *Io sentiva mormorare a tulli*: hec est secunda pars huius capituli, in qua describitur reditus istius exercitus ad celum: tunc omnes inceperunt murmurare de Adam, etc. Ego sentiebam ab omnibus murmurari, Adam; postea circumdederunt unam planctam, spoliatam foliis et aliis frondibus in quolibet ramo. Quia Christus fundavit Ecclesiam in vera obedientia, quia factus obediens usque ad mortem (Philipp. II; et Ioann. VI), quia sic descendi, non ut faciam voluntatem meam, sed voluntatem eius, qui misit me, Patris: ideo debuit currus hic sic duci, et murmurabatur de Adam inobediente. Ideo fingitur hic una arbor altissima, ad quam applicuit iste exercitus; et quanto plus in altum extenditur, tanto magis ampliatur et sua viriditas extenditur. Primo tamen videbatur quasi sicca; sed Christus traxit currum ad illam arborem, et cum uno ramo eius arboris ligavit currum ad ipsam arborem. Omnes illi Sancti lamentabantur de Adam inobediente, qui expoliavit illam arborem, quando transgressus est mandatum Dei, non obediendo, quia fecit quod prohibitum fuit ei. Volens auctor describere quantitatem arboris, dicit quod illa pars istius arboris, que superascendit altitudines aliarum arborum, reputaretur una alta arbor in Yndia, ubi sunt altissime arbores. In libro Georgicorum Virgilius facit mentionem de una arbore, que reperitur in Yndia, viridis, similis lauro, et dicit quod est tante altitudinis, quod vix sagipta emissa ab uno bono arcu, attingeret ad summitatem eius; et talis arbor producit poma pulcherrima, sed venenosa. Vult dicere auctor, quod ista arbor, de qua fit sermo, est altior illis arboribus de Yndia; et tantum, quod ab illis de Yndia videretur cum admiratione. Ego sentiebam ab omnibus murmurari, Adam. Postea circumdederunt omnes unam planctam spoliatam foliis et aliis frondibus in quolibet ramo. Iste ternarius positus est supra una alia vice.
+*Ego sentiebam ab omnibus murmurari*. *Io sentiva mormorare a tutti*: hec est secunda pars huius capituli, in qua describitur reditus istius exercitus ad celum: tunc omnes inceperunt murmurare de Adam, etc. Ego sentiebam ab omnibus murmurari, Adam; postea circumdederunt unam planctam, spoliatam foliis et aliis frondibus in quolibet ramo. Quia Christus fundavit Ecclesiam in vera obedientia, quia factus obediens usque ad mortem (Philipp. II; et Ioann. VI), quia sic descendi, non ut faciam voluntatem meam, sed voluntatem eius, qui misit me, Patris: ideo debuit currus hic sic duci, et murmurabatur de Adam inobediente. Ideo fingitur hic una arbor altissima, ad quam applicuit iste exercitus; et quanto plus in altum extenditur, tanto magis ampliatur et sua viriditas extenditur. Primo tamen videbatur quasi sicca; sed Christus traxit currum ad illam arborem, et cum uno ramo eius arboris ligavit currum ad ipsam arborem. Omnes illi Sancti lamentabantur de Adam inobediente, qui expoliavit illam arborem, quando transgressus est mandatum Dei, non obediendo, quia fecit quod prohibitum fuit ei. Volens auctor describere quantitatem arboris, dicit quod illa pars istius arboris, que superascendit altitudines aliarum arborum, reputaretur una alta arbor in Yndia, ubi sunt altissime arbores. In libro Georgicorum Virgilius facit mentionem de una arbore, que reperitur in Yndia, viridis, similis lauro, et dicit quod est tante altitudinis, quod vix sagipta emissa ab uno bono arcu, attingeret ad summitatem eius; et talis arbor producit poma pulcherrima, sed venenosa. Vult dicere auctor, quod ista arbor, de qua fit sermo, est altior illis arboribus de Yndia; et tantum, quod ab illis de Yndia videretur cum admiratione. Ego sentiebam ab omnibus murmurari, Adam. Postea circumdederunt omnes unam planctam spoliatam foliis et aliis frondibus in quolibet ramo. Iste ternarius positus est supra una alia vice.
 
 Coma sua, idest summitas, que tantum dilatatur plus, quanto plus est sursum, idest ascendit, esset ab Yndis, idest ab illis de Yndia, in nemoribus ipsorum, pro idest propter altitudinem, admirata.
 
@@ -184,7 +184,7 @@ Beatus es grifo, qui non scindis cum rostro de isto ligno dulci ad gustum, postq
 &emsp;Clamaverunt alii. Et animal binatum:\
 &emsp;Sic conservatur semen cuiuslibet iusti.
 
-17 E volti al temo ch'elli havea tirato,\
+17 E volto al temo ch'elli havea tirato,\
 &emsp;Trasselo al piè de la vedova frasca;\
 &emsp;E quel di lei a lei lasciò legato.
 
@@ -202,7 +202,7 @@ Beatus es grifo, qui non scindis cum rostro de isto ligno dulci ad gustum, postq
 
 19 Turgide fansi, e poi si rinnovella\
 &emsp;Di suo color ciascuna, pria che'l sole\
-&emsp;Giunct'à li suoi corsier senz'altra stella;
+&emsp;Giunga li suoi corsier sott'altra stella;
 
 19 Turgide fiunt, et postea renovantur\
 &emsp;De suo colore, priusquam sol\
@@ -210,7 +210,7 @@ Beatus es grifo, qui non scindis cum rostro de isto ligno dulci ad gustum, postq
 
 20 Men che di rose e più che di viole\
 &emsp;Color apprende sì nuovo la pianta,\
-&emsp;Che primavera le ramora sì sole.
+&emsp;Che prima avea ramora sì sole.
 
 20 Minus quam rosarum et plusquam violarum\
 &emsp;Colorem apprehendit; sic renovavit se plancta,\
@@ -266,7 +266,7 @@ Iam concludit, quomodo ad omnem effectum sequebatur aliquod gaudium. Nam ille ge
 
 (1) al. com'io.
 
-fictionem: vult enim fingere se dormivisse, propter decurtare materiam et modum, quo iste exercitus ivit ad celum, non tractando quomodo qualiter recessit. Et dicit quod obdormivit et postea fuit excitatus; et vidit currum remansisse ligatum ad planctam cum paucis, scilicet cum septem candelabris et septem nymphis et cum Beatrice, que sola remanserat ad custodiam currus, quia omnes alii iverant ad celum. Et dicit quod nescit describere, quomodo sopitus est, quia nemo poeta sciret describere quomodo quis sopitur, sed bene describitur quomodo quis excitatur; sicut quis non posset describere, quomodo oculi Argi sunt sopiti, qui erant ita crudeles, quia crudeliter tenebat vaccam in custodia, qui tamen a Mercurio fuerunt sopiti. Dicit tamen Dantes, quod fuit excitatus, et hoc bene scit et vult describere. Unde fuit excitatus a quodam sompno et a quadam voce, que dixit, Surge et vide; sicut fuerunt excitati tres apostoli, Petrus, Ioannes et Iacobus, ducti a Christo in montem Thaber, in quo Christus transfiguratus est; et quando facies eius resplenduit sicut sol, vestimenta ut nix, apparuit ibi Moyses et etiam Elyas; quos videntes discipuli obdormiverunt, et fuerunt excitati a verbo Christi. Quod quidem verbum Christi excitavit aliquando a maiori sompno, scilicet resuscitavit Lazarum a morte. Sic Dantes vidit excitatus Lyam, sive Mathyldem, solam sedentem, quam interrogavit ubi esset domina Beatrix, que dixit: Respice et vide eam sub frascha, etc.
+fictionem: vult enim fingere se dormivisse, propter decurtare materiam et modum, quo iste exercitus ivit ad celum, non tractando quomodo qualiter recessit. Et dicit quod obdormivit et postea fuit excitatus; et vidit currum remansisse ligatum ad planctam cum paucis, scilicet cum septem candelabris et septem nymphis et cum Beatrice, que sola remanserat ad custodiam currus, quia omnes alii iverant ad celum. Et dicit quod nescit describere, quomodo sopitus est, quia nemo poeta sciret describere quomodo quis sopitur, sed bene describitur quomodo quis excitatur; sicut quis non posset describere, quomodo oculi Argi sunt sopiti, qui erant ita crudeles, quia crudeliter tenebat vaccam in custodia, qui tamen a Mercurio fuerunt sopiti. Dicit tamen Dantes, quod fuit excitatus, et hoc bene scit et vult describere. Unde fuit excitatus a quodam sompno et a quadam voce, que dixit, Surge et vide; sicut fuerunt excitati tres apostoli, Petrus, Ioannes et Iacobus, ducti a Christo in montem Thabor, in quo Christus transfiguratus est; et quando facies eius resplenduit sicut sol, vestimenta ut nix, apparuit ibi Moyses et etiam Elyas; quos videntes discipuli obdormiverunt, et fuerunt excitati a verbo Christi. Quod quidem verbum Christi excitavit aliquando a maiori sompno, scilicet resuscitavit Lazarum a morte. Sic Dantes vidit excitatus Lyam, sive Mathyldem, solam sedentem, quam interrogavit ubi esset domina Beatrix, que dixit: Respice et vide eam sub frascha, etc.
 
 Hic sunt notande multe hystorie. Una ponitur ab Ovidio in secundo Methamorphoseos, que est hec. Postquam Iuppiter concubuit cum Calistone, propter verba Iunonis, convertit istam Calistonem in vaccam; quam petenti Iunoni donavit: que Iuno faciebat hanc vaccam custodiri ab Argo, qui habebat centum oculos, et nec solebat dormire nisi cum duobus, et vigilare cum nonaginta octo. Cum talibus spietatis, idest crudelibus, [oculis] custodiebat vaccam istam. Deus, compatiens isti vacce, scilicet Iuppiter, vocavit Mercurium, deum eloquentie, et imposuit sibi quod omni modo quo sciret liberaret istam vaccam a tanta custodia et crudelitate. Tunc Mercurius cepit fistulam, quam fecit ex arundine, in quam conversa fuerat Syringa.
 
@@ -337,7 +337,7 @@ Ideo transcurro [ad] quando me excitavi, quia hoc bene scio describere, et dico 
 &emsp;Que ad aliud intelligendum me clauserat.
 
 32 Sola sedeasi in su la terra vera,\
-&emsp;Come guardia lasciata lì dal plaustro,\
+&emsp;Come guardia lasciata lì del plaustro,\
 &emsp;Che legar vidi alla biforme fiera.
 
 32 Sola sedebat super terra vera,\
@@ -366,7 +366,7 @@ Sola sedebat super terram veram, ad differentiam nostre terre, non producentis i
 
 34 Qui sarai tu poco tempo silvano,\
 &emsp;E sarai meco, senza fine, cive\
-&emsp;Di quella torma onde Chrysto è romano;
+&emsp;Di quella Roma onde Chrysto è romano;
 
 34 Hic eris tu pauco tempore silvanus,\
 &emsp;Et eris mecum, sine fine, civis\
@@ -434,7 +434,7 @@ Iam sequitur prima persecutio, quam passa fuit Ecclesia militans in principio su
 
 40 Postea vidi adventari in cunam\
 &emsp;Triumphalis vehiculi unam vulpem,\
-&emsp;Que omnis boni pastus apparebat iciuna.
+&emsp;Que omnis boni pastus apparebat ieiuna.
 
 41 Ma, riprendendo (2) lei di layde colpe,\
 &emsp;La donna mia (3) la volse (4) in tanta futa (5),\
@@ -550,7 +550,7 @@ Iste currus quasi in momento fuit coopertus, et subito coopertus emisit septem c
 
 50 Secura, quasi roccha in alto monte,\
 &emsp;Sedere super ipso una meretrix dissoluta\
-&emsp;Michi apparuit cum superciliis circum pintis.
+&emsp;Michi apparuit cum superciliis circum promptis.
 
 51 E, come perchè non li fusse tolta,\
 &emsp;Viddi da cost'a lei dricto un gigante (5),\
@@ -597,7 +597,7 @@ Postea suspicione plenus et ira crudus, solvit monstrum, et traxit illud per sil
 Tra il cielo e la terra, fra l'immensa gioia e i torrenti di luce che già avvolgono il Poeta, non è senza profondo mistero che torni a riaffacciarglisi l'immagine di quell'albero funesto, di cui già vedemmo un germoglio punire, a purgazione di coloro che se ne fecero rei, gli eccessi della gola; ma esso non è più, come addietro, con rami gravidi e vivaci, ricchi di foglie e di frutti, i quali largamente profumino l'aria d'intorno, sì mostrasi dispogliato e secco, benchè robustissimo, e a mano a mano che più si alza, tanto dilatante la sua chioma, che
 
 . . . . . fora dagli Indi\
-Ne' boschi lor per altezza ammirato.
+Ne' boschi lor per altezza ammirata.
 
 È l'albero della scienza del bene e del male, di cui avendo voluto l'uomo cibarsi senza Dio, n'ebbe tossico mortale; tossico, che contaminò l'albero stesso, già per l'irroramento dell'acque della grazia sì rigoglioso, poi fatto arido e vedovo di fronde e di frutti. Se non che, appena il mistico grifone ebbe tratto il carro della sua Chiesa appiè di esso e ve l'ebbe legato, immantinente si rinnovella, si cuopre di fiori tra punicei e vermigli, come di sangue chiaro, e ripiglia tutta la sua vaghezza.
 

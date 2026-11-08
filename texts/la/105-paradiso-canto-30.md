@@ -134,7 +134,7 @@ Pulchritudo, quam ego vidi, scilicet hic, se transmodat, idest ultra modum vadit
 &emsp;Che quel de la mia tuba, che deduce\
 &emsp;L'ardua sua materia terminando,
 
-12 Talis, qualis ipsam dimicto maiori preconio\
+12 Talis, qualem ipsam dimicto maiori preconio\
 &emsp;Quam illud mee tube, que deducit\
 &emsp;Arduam suam materiam terminando,
 
@@ -156,9 +156,9 @@ Pulchritudo, quam ego vidi, scilicet hic, se transmodat, idest ultra modum vadit
 
 (1) cielo empyreo — (2) che ha — (3) dico — (4) dico — (5) dico.
 
-valde notabilis homo, accersivit Symonidem, philosophum et magnum poetam, cui dixit: Volo quod tu declares michi, quid sit Deus? Tunc ille, respondens, petiit spatium duorum dierum ad cogitandum de responsione facienda. Dati sunt ei duo dies. Vocavit eum rex, dixitque illi: Indica michi quid sit Deus. Ille adhuc petiit spatium quatuor dierum, et spatium quatuor dierum sibi concessum fuit. Post quatuor dies, petiit adhuc spatium octo; post octo, petiit spatium sexdecim dierum; post sexdecim dies, petiit spatium trigintaduo dierum. Tunc rex, putans se deludi, indignatus dixit: Cur me deludis? Respondens Symonides, dixit: Domine rex, ne mireris; quia quanto plus cogito, tanto minus invenio et plus efficior immemor. Et propter hec verba rex absolvit eum. Ergo bene confitetur hic auctor, se victum omnino esse; et si unquam aliquis poeta comicus vel tragedus fuit superatus ab aliquo themate, sic auctor dicit de se hic evenire, quia victus est ab isto puncto, dicens: Ab isto passu vinctum me concedo, plusquam unquam a puncto sui thematis seperatus, idest superatus esset, comicus vel tragedus (quid sit comicus vel tragedus, dictum est sepe, maxime in uno preambulorum in principio libri).
+valde notabilis homo, accersivit Symonidem, philosophum et magnum poetam, cui dixit: Volo quod tu declares michi, quid sit Deus? Tunc ille, respondens, petiit spatium duorum dierum ad cogitandum de responsione facienda. Dati sunt ei duo dies. Vocavit eum rex, dixitque illi: Indica michi quid sit Deus. Ille adhuc petiit spatium quatuor dierum, et spatium quatuor dierum sibi concessum fuit. Post quatuor dies, petiit adhuc spatium octo; post octo, petiit spatium sexdecim dierum; post sexdecim dies, petiit spatium trigintaduo dierum. Tunc rex, putans se deludi, indignatus dixit: Cur me deludis? Respondens Symonides, dixit: Domine rex, ne mireris; quia quanto plus cogito, tanto minus invenio et plus efficior immemor. Et propter hec verba rex absolvit eum. Ergo bene confitetur hic auctor, se victum omnino esse; et si unquam aliquis poeta comicus vel tragedus fuit superatus ab aliquo themate, sic auctor dicit de se hic evenire, quia victus est ab isto puncto, dicens: Ab isto passu victum me concedo, plusquam unquam a puncto sui thematis seperatus, idest superatus esset, comicus vel tragedus (quid sit comicus vel tragedus, dictum est sepe, maxime in uno preambulorum in principio libri).
 
-Sicut sol in visu qui, scilicet visus, magit tremit, idest in visu noctue, sive vespertilionis (nam oculus vespertilionis ponitur ab auctoribus debilissimus inter oculos omnium animalium), sic recordatio dulcis risus, scilicet Beatricis, mentem meam a memetipso scemat, idest demit. Vult dicere auctor, quod efficitur immemor.
+Sicut sol in visu qui, scilicet visus, magis tremit, idest in visu noctue, sive vespertilionis (nam oculus vespertilionis ponitur ab auctoribus debilissimus inter oculos omnium animalium), sic recordatio dulcis risus, scilicet Beatricis, mentem meam a memetipso scemat, idest demit. Vult dicere auctor, quod efficitur immemor.
 
 A prima die, qua ego vidi visum suum, idest faciem suam, in ista vita, usque ad istam vistam, idest visionem, idest intuitum, non sequeretur meum cantare precisum. Quasi dicat, ex quo incepi istud opus, et descripsi pulchritudinem ipsius Beatricis, semper potui addere aliquid ad pulchritudinem suam; sed iam non possum aliquid addere, quia nunc ipsa est in summa sua pulchritudine. Quasi dicat: A prima die, qua vidi ipsam in isto Paradiso, vel in introytu celi, scilicet in primo capitulo Paradisi, vita beata celesti, usque ad visionem Dei deveniens, non possum ulterius ire; sed nunc, idest ammodo, convenit, idest oportet, quod meum sequi plus post suam pulchritudinem, poetando, desistat, idest non ulterius procedat, sicut in ultimo suo quilibet artista. Quando artista facit ultimum de sui potentia, tunc oportet quod desistat, quia non potest ultra suum posse ultimum. Ponit Valerius, quod semel quidam pictor posuit suum ultimum posse in una figura: quia fecit unam tam pulchram, quod nedum unquam potuit facere pulchriorem, sed etiam ita pulchram unquam facere potuit.
 
@@ -246,7 +246,7 @@ Modo Beatrix declarat auctori, quare illa lux eum circumfulsit, dicens, quod opo
 &emsp;Riprofondavan sè nel miro gurge;\
 &emsp;E s'una intrava, un'altra esciva fori.
 
-23 Postea, sicut inebrietate ab odoribus,\
+23 Postea, sicut inebriate ab odoribus,\
 &emsp;Reprofundabant se in mirum gurgitem;\
 &emsp;Quando una intrabat, alia exibat foras.
 
@@ -353,7 +353,7 @@ Modo ostendit, quomodo ipse auctor vidit clare curiam celi per talem comparation
 &emsp;Dammi virtù di dirlo com'io 'l vidi.
 
 33 O splendor divine, per quem ego vidi\
-&emsp;Altum triumphum celi veracis,\
+&emsp;Altum triumphum regni veracis,\
 &emsp;Da michi virtutem ad dicendum quomodo illum vidi.
 
 34 Lume è lassù, che visibile face (1)\
@@ -404,7 +404,7 @@ Modo respondetur cuidam tacite questioni. Posset quis dicere: Quomodo vidisti ta
 
 Quasi dicat, quod istud lumen est maxime distensum in circum.
 
-Exit de radio tota sua apparentia, reflexo ad summum, idest ad summitatem, Mobilis primi, quod apprehendit hinc, sive inde, vivere [et] omnem potentiam et virtutem. Notanda est hic una similitudo talis. Aliquando est unum flumen, cuius aqua est clarissima, et super ripas ex utraque parte fluminis sunt arbores pulchre, habentes flores pulchros, que arbores cum floribus reflectuntur in aqua et figurantur in ea. Ponatur igitur quod sit aliquis monticulus, vel collis, ad cuius radices fluat tale flumen clarum, super quem collem, vel monticulum, sint tales arbores, floride, ut dictum est: tunc ille monticulus, sive collis, speculatur, idest sicut in ispeculo videtur, cum suis arboribus et floribus earum, quando est bene optimus illis floribus, idest quando bene habet satis de illis floribus. Et sicut clivus, idest monticulus, in aqua sui ymi se speculatur, idest sicut in speculo videtur, quasi ut videat se ornatum, idest ut appareat ornatus, quando est in viridi, idest in viriditate, omnis flos optimus; sic suprastans lumen circum circa vidi ego speculari in plus quam millibus scioliis, idest luminibus, que a nobis sursum fecerunt regressum, idest in mille spiritibus humanis, qui a nobis mortalibus sursum, idest ad celum, regressi sunt. Dicuntur spiritus humani redire sursum, quando vadunt ad Paradisum. Sic suprastans, scilicet ego stans supra speram nonam, vidi illud lumen speculari in pluribus, scilicet millibus, scioliis, idest gradibus et sedibus. Nam omnes anime beate speculantur in illo lumine. Ista expositio placet michi plusquam alia, que est immediate supraposita: nam iste trinarius bis est expositus.
+Exit de radio tota sua apparentia, reflexo ad summum, idest ad summitatem, Mobilis primi, quod apprehendit hinc, sive inde, vivere [et] omnem potentiam et virtutem. Notanda est hic una similitudo talis. Aliquando est unum flumen, cuius aqua est clarissima, et super ripas ex utraque parte fluminis sunt arbores pulchre, habentes flores pulchros, que arbores cum floribus reflectuntur in aqua et figurantur in ea. Ponatur igitur quod sit aliquis monticulus, vel collis, ad cuius radices fluat tale flumen clarum, super quem collem, vel monticulum, sint tales arbores, floride, ut dictum est: tunc ille monticulus, sive collis, speculatur, idest sicut in ispeculo videtur, cum suis arboribus et floribus earum, quando est bene opimus illis floribus, idest quando bene habet satis de illis floribus. Et sicut clivus, idest monticulus, in aqua sui ymi se speculatur, idest sicut in speculo videtur, quasi ut videat se ornatum, idest ut appareat ornatus, quando est in viridi, idest in viriditate, omnis flos opimus; sic suprastans lumen circum circa vidi ego speculari in plus quam millibus scioliis, idest luminibus, que a nobis sursum fecerunt regressum, idest in mille spiritibus humanis, qui a nobis mortalibus sursum, idest ad celum, regressi sunt. Dicuntur spiritus humani redire sursum, quando vadunt ad Paradisum. Sic suprastans, scilicet ego stans supra speram nonam, vidi illud lumen speculari in pluribus, scilicet millibus, scioliis, idest gradibus et sedibus. Nam omnes anime beate speculantur in illo lumine. Ista expositio placet michi plusquam alia, que est immediate supraposita: nam iste trinarius bis est expositus.
 
 Iterum hic respondetur une tacite questioni, seu obiectioni. Posset quis dicere: Si illud lumen est tante latitudinis
 
@@ -474,7 +474,7 @@ In fulvo, idest croceo, rose sempiterne (nam rosa habet in medio colorem fulvum,
 
 Et si infimus gradus in se recolligit tam grande lumen, quanta est latitudo istius rose in extremis foliis?
 
-Visio mea, idest aspectus meus, in amplitudine et latitudine non deviabat, idest non errabat, sed totum apprehendebat, idest capiebat, quale et quantum, idest qualitatem et quantitatem, illius gaudii, idest letitie.
+Visio mea, idest aspectus meus, in amplitudine et altitudine non deviabat, idest non errabat, sed totum apprehendebat, idest capiebat, quale et quantum, idest qualitatem et quantitatem, illius gaudii, idest letitie.
 
 Propinquitas, idest distantia, vel longinquitas, ibi, nec ponit nec demit; idest, non prodest nec nocet; quia ubi Deus sine medio gubernat, lex naturalis, que limitat distantiam in visionibus, nihil relevat, idest nihil habet facere, nihil operatur.
 
@@ -517,7 +517,7 @@ Vide nostram civitatem (idest celum Empyreum, quod vocat hic auctor nomine civit
 &emsp;Là dove Symon Mago (7) è per suo merto,\
 &emsp;E farà quel d'Alagna (8) andar più giuso (9).
 
-49 Sed modicum postea adeo sustinebitur\
+49 Sed modicum postea a Deo sustinebitur\
 &emsp;In sancto officio; quod erit detrusus\
 &emsp;Ibi ubi est Symon Magus propter sua merita,\
 &emsp;Et faciet illum de Anania intrare magis infra.
@@ -530,7 +530,7 @@ Modo vult ostendere quid est, quare est, quod Ytalici semper conantur impedire a
 
 Et fiet prefectus in foro divino, idest [quando] ille Henricus erit [imperator], prefectus apud Deum, tunc talis, qui palam et coopertus, idest publice et occulte, non ibit secum, idest non erit concors per unum iter, idest Clemens quartus, vel sextus, qui bene fecit, eum coronari, sed ipse Clemens querebat exterminium ipsius Henrici.
 
-Sed modicum postea a Deo sustinebitur, ipse Clemens Vasco scilicet, in sancto officio, idest in summo pontificatu; quod erit detrusus ibi ubi est Symon Magus, idest in circulo illo, sive in illa Malibolgia, ubi est Symon Magus, ut dictum est in decimo capitulo Inferni; et faciet illum de Anania, idest papam Bonifacium octavum, qui erit sepultus, intrare magis intra, idest inferius descendere. Nam, ut dictum fuit in capitulo decimonono Inferni, est unus puteus, in quo sepeliuntur summi pontifices symoniaci: et unus ultimus mortuus stat in ore putei; quando moritur alius papa symoniacus, tunc ille qui erat in ore putei, cadit in puteo infra; et ille qui nuper moritur, stat etiam in ore illius putei usquequo moriatur alter; et sic de singulis.
+Sed modicum postea a Deo sustinebitur, ipse Clemens Vasco scilicet, in sancto officio, idest in summo pontificatu; quod erit detrusus ibi ubi est Symon Magus, idest in circulo illo, sive in illa Malibolgia, ubi est Symon Magus, ut dictum est in decimo capitulo Inferni; et faciet illum de Anania, idest papam Bonifacium octavum, qui erit sepultus, intrare magis infra, idest inferius descendere. Nam, ut dictum fuit in capitulo decimonono Inferni, est unus puteus, in quo sepeliuntur summi pontifices symoniaci: et unus ultimus mortuus stat in ore putei; quando moritur alius papa symoniacus, tunc ille qui erat in ore putei, cadit in puteo infra; et ille qui nuper moritur, stat etiam in ore illius putei usquequo moriatur alter; et sic de singulis.
 
 <!-- p. [1177] (1231) -->
 
@@ -556,7 +556,7 @@ Che gli occhi miei non si fosser difesi.
 
 Il pensiero e l'amore sono atti vitali che non possono non nascere da energia iniziale e concreata dello spirito, o da nuovo vigore soprainfuso. Or poichè la naturale virtù dell'intelletto non può per sè levarsi alla visione soprannaturale in cui esso quieti, chiaro è che deve ricevere un rinvigorimento dall'alto, per entrare nella piena illuminazione dell'amore beatifico. Ma che cosa è egli cotesto rinvigorimento? Qui è dove la mente nostra, direbbe il Poeta, ha corte l'ali, e dove, volendo varcare i limiti che dividono il finito dall'infinito, si smarrisce: chè se pure ne intravediamo in mistero i lontani orizzonti, non ci è possibile il discernerli nè affermarli con chiarezza. Nè deve far maraviglia. Se in molte questioni, pur naturali, dobbiamo confessar l'impotenza nostra ad esaurirle, stupiremo che ciò avvenga dove si toccano le regioni dell'ineffabile, cioè dell'infinito? Nè fermandoci al suo limitare, si diminuisce il nostro intendere, anzi sente qualcosa che lo tira a sè, al di là di sè stesso, e non ne riceve poco conforto; laddove, perfidiando a valicar que' confini, si sente avvolto in una lotta che lo mette in desolazione.
 
-Ciò che nell'argomento della visione beatifica puo tenersi per certo, si è che il lume naturale del nostro intelletto, il quale ci fa ora tanto superbire, e che sembra ed è in realta si gran cosa (poichè tra le cose della natura s'innalza principe e giudice sopra tutte quante), rimpetto al lume beatifico è nebbia, oscurita, anzi cecita, dice il Poeta con quel suo fraseggiare tutto di rilievo:
+Ciò che nell'argomento della visione beatifica può tenersi per certo, si è che il lume naturale del nostro intelletto, il quale ci fa ora tanto superbire, e che sembra ed è in realtà sì gran cosa (poichè tra le cose della natura s'innalza principe e giudice sopra tutte quante), rimpetto al lume beatifico è nebbia, oscurità, anzi cecità, dice il Poeta con quel suo fraseggiare tutto di rilievo:
 
 E lasciommi fasciato di tal velo\
 Del suo fulgor, che nulla m'appariva.

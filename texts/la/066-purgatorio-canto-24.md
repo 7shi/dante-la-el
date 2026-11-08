@@ -71,7 +71,7 @@ Et ego, continuando meum sermonem (quia [du]dum loquebatur cum Forese), dixi: Ip
 &emsp;In alto Olimpo iam de sua corona.
 
 6 Sì disse pria, e poi (6): Qui non si vieta\
-&emsp;Di nominar ciascun, da ch'è si munta\
+&emsp;Di nominar ciascun, da ch'è sì munta\
 &emsp;Nostra sembianza via per la dieta.
 
 6 Sic dixit michi primo, et postea: Hic non vetatur\
@@ -87,7 +87,7 @@ Et ego, continuando meum sermonem (quia [du]dum loquebatur cum Forese), dixi: Ip
 &emsp;Ultra eum, plus quam alie trapunta,
 
 8 Ebbe la Sancta Chiesa in le sue braccia (10);\
-&emsp;Dal Troso (11) fu, e purga per digiuno\
+&emsp;Dal Torso (11) fu, e purga per digiuno\
 &emsp;L'anguille di Bolsena e la guarnaccia (12).
 
 8 Habuit Sanctam Ecclesiam in suis brachiis;\
@@ -178,7 +178,7 @@ O anima, dixi ego, que appares ita cupida loquendi mecum, fac sic quod ego te in
 
 15 Femmina è nata, e non porta ancor benda,\
 &emsp;Cominciò elli, che ti farà piacere\
-&emsp;La mia città, com' huom che la riprenda.
+&emsp;La mia città, come ch'huom che la riprenda.
 
 15 Femina est nata, et non portat adhuc bindam,\
 &emsp;Dixit ipse ad me, que faciet tibi placere\
@@ -260,7 +260,7 @@ Ego video bene, quomodo vestre penne, idest optime fantasie, vadunt retro dictat
 
 23 Così tutta la gente che lì era,\
 &emsp;Volgendo viso, raffrectò suo passo,\
-&emsp;E per magrezza e per volar leggiera.
+&emsp;E per magrezza e per voler leggiera.
 
 23 Sic tota gens, que ibi erat,\
 &emsp;Volvendo visum, festinavit suum passum,\
@@ -330,7 +330,7 @@ Nescio, respondi ego, quanto, scilicet tempore, ego vivam; sed iam non erit redi
 
 30 Non hanno molto a volger queste ruote,\
 &emsp;E drizzò gl' ochi al ciel, che ti fia chiaro\
-&emsp;Ciò che 'l mi dir più dichiarar non puote.
+&emsp;Ciò che 'l mio dir più dichiarar non puote.
 
 30 Non habent multum volvere iste rote,\
 &emsp;Et direxit oculos ad celum, quod tibi fiet clarum\
@@ -386,7 +386,7 @@ Modo per comparationem describit auctor recessum Foresis a se auctore. Qualis, i
 &emsp;Quod oculi mei fecerunt se apud eum sequaces,\
 &emsp;Sicut mens apud verba sua,
 
-35 Parvemi rami gravidi e vivaci\
+35 Parvermi rami gravidi e vivaci\
 &emsp;D'un altro pomo (3), non molto lontani,\
 &emsp;Per esser pur allora volto in laci (4).
 
@@ -412,7 +412,7 @@ Modo per comparationem describit auctor recessum Foresis a se auctore. Qualis, i
 
 38 Poi si partì (12) sì come ricreduta;\
 &emsp;E noi venimmo al grand'arbore, ad esso (13)\
-&emsp;Che tanti pianti e lagrime rifiuta.
+&emsp;Che tanti prieghi e lagrime rifiuta.
 
 38 Postea recessit, tamquam recreduta;\
 &emsp;Et venimus nos ad grandem arborem illam,\
@@ -444,7 +444,7 @@ Modo per comparationem describit auctor recessum Foresis a se auctore. Qualis, i
 
 (1) Forese — (2) si fe'seguace — (3) arboro — (4) in là — (5) arboro — (6) el padre, o altri — (7) da loro — (8) loro — (9) in mano — (10) pomo, o altro — (11) loro — (12) quella gente — (13) arbore, dico — (14) dell'arboro.
 
-*Et quando ante nos*. *E quando innanti nui*: hec est quarta pars huius capituli in qua et ubi auctor describit secundam arborem eiusdem nature cum supradicta. Sed dicit primo, quod ipse respexit Foresem currentem, dicens: Et quando ante nos ita precesserat, scilicet Foresis, idest intraverat, quod oculi mei fecerunt se apud eum sequaces, idest respexi eum cum oculis meis, sicut mens prima verba sua (quia sicut cum oculis intuebatur illum euntem, sic mens auctoris ipsius cogitabat verba illius), apparuerunt michi rami gravidi, idest pregnantes, vel pleni, unius alterius, arboris supple, et vivaces alterius pomi, et non multum lontani, idest longinqui, et eram solum tunc conversus ad aliam partem. Arbor erat satis vicina, sed non videram adhuc eam, quia solum nunc volveram faciem meam ad ipsam. Vult dicere, quod satis cito apparuerunt sibi rami.
+*Et quando ante nos*. *E innanti a nui*: hec est quarta pars huius capituli in qua et ubi auctor describit secundam arborem eiusdem nature cum supradicta. Sed dicit primo, quod ipse respexit Foresem currentem, dicens: Et quando ante nos ita precesserat, scilicet Foresis, idest intraverat, quod oculi mei fecerunt se apud eum sequaces, idest respexi eum cum oculis meis, sicut mens prima verba sua (quia sicut cum oculis intuebatur illum euntem, sic mens auctoris ipsius cogitabat verba illius), apparuerunt michi rami gravidi, idest pregnantes, vel pleni, unius alterius, arboris supple, et vivaces alterius pomi, et non multum lontani, idest longinqui, et eram solum tunc conversus ad aliam partem. Arbor erat satis vicina, sed non videram adhuc eam, quia solum nunc volveram faciem meam ad ipsam. Vult dicere, quod satis cito apparuerunt sibi rami.
 
 Vidi gentem sub ipsa elevare manum, et clamare nescio quid versus frondes, quasi avidi pueruli et vani, idest famelici (avidi pueruli famescentes, clamant pro cibo; sic faciunt gulosi: clamant hinc inde, quousque habeant quod appetunt, et aliquando [negatur] puerulis sic clamantibus; ita faciebat illa arbor, quia nulli prebet poma sua), qui precantur et precatus non respondet; sed ut faciat bene voluntatem acutam, tenet eorum altum desiderium, idest non abscondit.
 
@@ -584,10 +584,10 @@ Il Poeta n'è rapito, e risponde:
 
 La simpatia ch'egli sente per questa creatura, oltre che dal doppio affettuoso ricordo che ne fa qui nel Purgatorio e poi nel Paradiso, si manifesta da ogni parola de'bellissimi versi, che in ambedue i canti le consacra, ne' quali tu senti qualcosa di celestiale. Pertanto ogni volta che li leggemmo, domandammo a noi stessi, donde ciò potesse derivare, e sempre ci parve vederne la ragione nell'affocatissimo ed eroico amore, che ella ebbe per la castità, a conservar la quale, da violenta forza strappata al chiostro, dove l'aveva consacrata al suo sposo celeste, eroicamente chiedeva e ottenne di non perderla, raggiunta da subita morte. « Picarda, pulcherrima, pudicissima, sponte et quum iam esset adulta, ex certa scientia devoverat suam Christo virginitatem, in monasterio Sanctae Clarae de Florentia. Sed frater eius, dominus Cursius de Donatis, miles famosissimus, cum suis ipsam violenter traxit de loco, quum despondisset eam viro seculari, scilicet cuidam Roselino de nobilibus de la Tosa. Picarda, perseverans in suo sancto proposito, devotissime supplicavit Deo, ut incurreret mortem, vel infirmitatem, per quam posset servare inviolatam suam virginitatem. Et continuo gravis morbus (la lebbra) invasit carnem eius; quo illa moriens, transivit ad meliorem sponsum. » Questo eroismo di lei per l'amore alla castità, che è quanto di più etereo e divino si possa in umana creatura pensare, e che ricorda i più belli e commoventi episodi specialmente dei primi tre secoli della Chiesa; questo eroismo talmente rapì verso di lei l'anima grande e sopraeccellentemente cristiana dell'Alighieri, che se ne mostra innamorato. Nè altrimenti tanto suo entusiasmo si saprebbe spiegare. E dunque il farlo avvertire ci pare oggi più che mai a proposito, oggi che poesia e scienza non sanno più ispirarsi che nella materia e nelle forme per le quali si manifesta, chiuso l'intelletto ed il cuore al *divinum*, di cui sono concetti, e che creandoli dà ad essi la vita.
 
-Ma che cos'è ella cotesta verginita, amore si vivo e caro della cattolica Chiesa, e ideale sommo, in cui vagheggia sè stessa come in uno specchio, che le rende la propria immagine divina? Ci riescirebbe impossibile il dirlo con parole più proprie e più vere, e con un concetto più sublime e più giusto del tratto seguente, che togliamo dalla *Vita di Gesù Cristo* (lib. II, cap. I) dell'illustre Vito Fornari.
+Ma che cos'è ella cotesta verginità, amore sì vivo e caro della cattolica Chiesa, e ideale sommo, in cui vagheggia sè stessa come in uno specchio, che le rende la propria immagine divina? Ci riescirebbe impossibile il dirlo con parole più proprie e più vere, e con un concetto più sublime e più giusto del tratto seguente, che togliamo dalla *Vita di Gesù Cristo* (lib. II, cap. I) dell'illustre Vito Fornari.
 
 « Se il mondo, se anche il mondo corrotto, ha una cosa bella, è un'anima giovanile da'dodici anni a'quindici. È proprio dell'anima in quella età avere una certa trasparenza per la quale essa rassomiglia al cielo, o il cielo a lei. Trasparisce in quel tempo della vita lo spirito umano, trasparisce d'infinità e divinità. Pensieri vaghi ancora, ma vasti ed infiniti, desiderii infiniti; una infinita perfezione pensata e cercata in tutte le cose; tutti gli amori; l'amore di tutti; e non però stancata la forza di amare; anzi crescente sempre e dilatantesi all'infinito. Questa è la trasparenza dell'anima giovanile, la trasparenza
 
 <!-- p. 708 (0762) -->
 
-del divino, il quale la penetra e fa luminosa. Perciò in quell'età, eccetto i mostri, anche uno spirito che incominci a sviare, ha non so che, non dirò celeste, ma splendito o commovente almeno. Lo splendore, o trasparenza, o celestialità che si dica, dello spirito, si chiama con suo proprio nome purità. Non è questa purità una virtù di non fare, o quasi una fredda bianchezza dello spirito, ma un'azione ardente e vigorosa, anzi la più ardente e intensa e feconda azione dello spirito. La purità è un atto col quale lo spirito si amplia a tutte le creature, senza tornare mai addietro sopra sè stesso, nè lasciarsi fermare da alcuna di quelle, ma passando sempre più là e tendente all'infinito continuamente. Come la luce sensibile è un moto intestino della materia, secondo che si dimostra per la meccanica molecolare, così la trasparenza dello spirito, dico la purità, è una tensione, un incessante moto spirituale. È incessante perchè tende a Dio, il quale non si raggiunge mai. Se il termine fosse tale da raggiungersi, il moto cesserebbe, e l'anima ripiegata in sè medesima, e quasi corrugata, si farebbe opaca. Un moto dunque dell'anima a Dio, un moto incessante e incircoscritto, cioè l'amore, è l'essenza della purità. Lo spirito, se egli è puro, non solamente non si ferma con l'amore sopra sè stesso e non si lascia fermare da alcuna creatura, ma eziandio rapisce seco ciò che gli è unito, il suo corpo animale. Così avviene che la purità genera la bellezza e la verginita. Nasce la bellezza umana del corpo umano da riflettersi in esso l'immagine dello spirito; e perciò la genera in sè una persona, che, traendo dietro allo spirito il corpo, fa il suo corpo espressione del suo spirito. Questa è la bellezza umana del corpo umano. La verginità poi, allora che ella è anche una virtù, e non semplicemente uno stato della persona, la verginità è quando l'azione dello spirito sia così gagliarda, che esso imprima la sua propria legge, la legge dello spirito al corpo. La bellezza dà al corpo l'immagine dello spirito, e la verginita gli dà anche la legge dello spirito. Perciò la verginità è perfezione di bellezza. È perfezione di bellezza, ed è l'effetto ultimo ed ottimo della purità. »
+del divino, il quale la penetra e fa luminosa. Perciò in quell'età, eccetto i mostri, anche uno spirito che incominci a sviare, ha non so che, non dirò celeste, ma splendido o commovente almeno. Lo splendore, o trasparenza, o celestialità che si dica, dello spirito, si chiama con suo proprio nome purità. Non è questa purità una virtù di non fare, o quasi una fredda bianchezza dello spirito, ma un'azione ardente e vigorosa, anzi la più ardente e intensa e feconda azione dello spirito. La purità è un atto col quale lo spirito si amplia a tutte le creature, senza tornare mai addietro sopra sè stesso, nè lasciarsi fermare da alcuna di quelle, ma passando sempre più là e tendente all'infinito continuamente. Come la luce sensibile è un moto intestino della materia, secondo che si dimostra per la meccanica molecolare, così la trasparenza dello spirito, dico la purità, è una tensione, un incessante moto spirituale. È incessante perchè tende a Dio, il quale non si raggiunge mai. Se il termine fosse tale da raggiungersi, il moto cesserebbe, e l'anima ripiegata in sè medesima, e quasi corrugata, si farebbe opaca. Un moto dunque dell'anima a Dio, un moto incessante e incircoscritto, cioè l'amore, è l'essenza della purità. Lo spirito, se egli è puro, non solamente non si ferma con l'amore sopra sè stesso e non si lascia fermare da alcuna creatura, ma eziandio rapisce seco ciò che gli è unito, il suo corpo animale. Così avviene che la purità genera la bellezza e la verginità. Nasce la bellezza umana del corpo umano da riflettersi in esso l'immagine dello spirito; e perciò la genera in sè una persona, che, traendo dietro allo spirito il corpo, fa il suo corpo espressione del suo spirito. Questa è la bellezza umana del corpo umano. La verginità poi, allora che ella è anche una virtù, e non semplicemente uno stato della persona, la verginità è quando l'azione dello spirito sia così gagliarda, che esso imprima la sua propria legge, la legge dello spirito al corpo. La bellezza dà al corpo l'immagine dello spirito, e la verginita gli dà anche la legge dello spirito. Perciò la verginità è perfezione di bellezza. È perfezione di bellezza, ed è l'effetto ultimo ed ottimo della purità. »

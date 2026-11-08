@@ -204,7 +204,7 @@ Et ille ad me, scilicet dixit: Illa est anima antique Mirre scellerate, que deve
 
 19 Faceva lui tener le labbra aperte,\
 &emsp;Come l'etyco (9) fa, che per la sete\
-&emsp;L'un (10) verso 'l mento, e l'altro (11) in sn (12) rinverte (13).
+&emsp;L'un (10) verso 'l mento, e l'altro (11) in su (12) rinverte (13).
 
 19 Faciebat eum tenere labia aperta,\
 &emsp;Sicut ethicus facit, qui propter sitim\
@@ -262,7 +262,7 @@ Gravis ydropisis, idest que facit stare ydropicum ita gravem, que sic disparific
 &emsp;Trahit causam de loco ubi ego peccavi,\
 &emsp;Ad mictendum plus mea suspiria in fugam.
 
-25 Ivi (12) è Romena (13) là, dov'io lassai\
+25 Ivi (12) è Romena (13) là, dov'io falsai\
 &emsp;La legha (14) suggellata del Baptista,\
 &emsp;Perch'io el corpo su arso lassai.
 
@@ -272,7 +272,7 @@ Gravis ydropisis, idest que facit stare ydropicum ita gravem, que sic disparific
 
 26 Ma s'io vedessi qui l'anima trista\
 &emsp;Di Guido (15), e d'Alexandro (16), e di lor frate,\
-&emsp;Per Fonte Blanda (17) non darei la vista.
+&emsp;Per Fonte Branda (17) non darei la vista.
 
 26 Sed si ego viderem hic animam tristem\
 &emsp;Guidonis, et Allexandri, et eorum fratris,\
@@ -422,7 +422,7 @@ Una est falsa, scilicet illa, que cepit Ioseph per vestem, et ille aufugit, reli
 &emsp;Respondit ille qui habebat inflatam epam;\
 &emsp;Et tibi sit reum, quod totus mundus scit illud.
 
-41 A te sia reo la sete onde ti crepa,\
+41 A te sia reo la sete onde ti rea,\
 &emsp;Disse'l Greco (30), la lingua, e l'acqua marcia (31),\
 &emsp;Che 'l ventre innanzi agl'ochi ti si siepa (32).
 
@@ -557,4 +557,4 @@ Dio, che ne' sogni si metta fede di sorta: «Haec enim dicit Dominus exercituum,
 
 Nelle sue vision quasi è divina.
 
-Abbiam voluto fermarci su questo argomento, per accennare che, a quella guisa che ogni cosa è legata in natura, eziandio quelle che parrebbero le più disparate, come il sogno e la veglia, quasi due polarità dello spirito, fra le quali si alterna la presente vita; così raggiunto che esso avrà il suo termine, quieterà in uno stato medio tra i due, in cui piglierà il positivo dell'uno e dell'altro, con la chiara coscienza delle relazioni che nella veglia ebbe con la natura, e sì di quelle che dentro ebbe con sè stesso e con Dio: relazioni che la mente, riflettendo, trova anche di presente si rispetto alle prime come alle seconde; quasi aurora, scriveva un filosofo, annunziatrice dell'eterno sole divino, a cui l'umano spirito potentemente e senza posa aspira, e nei cui splendori trovera da ultimo il suo appagamento, la piena sua felicita.
+Abbiam voluto fermarci su questo argomento, per accennare che, a quella guisa che ogni cosa è legata in natura, eziandio quelle che parrebbero le più disparate, come il sogno e la veglia, quasi due polarità dello spirito, fra le quali si alterna la presente vita; così raggiunto che esso avrà il suo termine, quieterà in uno stato medio tra i due, in cui piglierà il positivo dell'uno e dell'altro, con la chiara coscienza delle relazioni che nella veglia ebbe con la natura, e sì di quelle che dentro ebbe con sè stesso e con Dio: relazioni che la mente, riflettendo, trova anche di presente sì rispetto alle prime come alle seconde; quasi aurora, scriveva un filosofo, annunziatrice dell'eterno sole divino, a cui l'umano spirito potentemente e senza posa aspira, e nei cui splendori troverà da ultimo il suo appagamento, la piena sua felicità.

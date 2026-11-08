@@ -254,7 +254,7 @@ In Thessalia, in una contrata, que vocatur Flegra, fuit facta magna pugna gigant
 
 22 La tua superbia, se'tu ben punito:\
 &emsp;Nullo martiro, fuor che la tua rabbia,\
-&emsp;Sarebbe al tuo dolor furor compito.
+&emsp;Sarebbe al furor dolor furor compito.
 
 22 Tua superbia, es tu magis punitus:\
 &emsp;Nullum martyrium, preter quam tua rabies,\
@@ -390,7 +390,7 @@ Ad intelligentiam narrationis sequentis, oportet scire quod in Arcipelago est un
 
 35 Intra montem stat rectus unus magnus vetus,\
 &emsp;Et tenet versa terga versus Damiatam,\
-&emsp;Et Romam respicit tumquam suum speculum.
+&emsp;Et Romam respicit tamquam suum speculum.
 
 36 La testa sua è di fino or formata,\
 &emsp;E puro argento son le braccia e 'l pecto,\
@@ -438,7 +438,7 @@ nunc est deserta, idest destructa, sicut res vetata, idest negata, vel abominata
 
 Rea, sive Berecintia, *la scelse*: idest elegit: *pro cuna*: idest cunabulis: *fida*, idest fidelibus: filii sui; et propter celare ipsum melius, quando plorabat, scilicet filius, faciebat fieri *grida*, idest strepitus, vel clamores. Illa littera, *pro cuna fida*, potest exponi de cunabulis: alio modo potest dici: idest, ut una fida nutrix fideliter nutriret illum filium in ea, idest in silva et in montanea Yda.
 
-*Dentro*: intus, in monte, stat unus grandis, idest magnus, *reglius*, idest antiquus, qui vertit terga, *le spalle*, versus Damiatam (est una civitas in Egipto), et Romam respicit sicut suum *speglium*, idest speculum.
+*Dentro*: intus, in monte, stat unus grandis, idest magnus, *veglius*, idest antiquus, qui vertit terga, *le spalle*, versus Damiatam (est una civitas in Egipto), et Romam respicit sicut suum *speglium*, idest speculum.
 
 Nota quod Damiata est una civitas in Egipto, in qua fuit lapidatus Yeronimus propheta. Iterum nota, quod, hoc dato, quod unus homo esset in illa silva et in illa montanea, que vocatur Yda, si verteret spatulas et renes versus Damiatam, facies eius staret versus Romam. Modo depingit hunc antiquum ad instar statue, quam sompniavit Nabuchodonosor, Danielis secundo capitulo, tali modo. *Testa sua*: idest caput suum, est fini, idest optimi auri: formata de puro argento sunt brachia, et pectus demum de rame usque ad furcata, idest ad tybias; inde deorsum est totum ferrum electum, excepto pede dextro, qui est de terra cocta; et stat super illum plusquam in alio erectus: quelibet pars, excepta aurea, est rupta, idest fixa: de una fixura, idest scissura, que lacrymas stillat: que *accolte*, idest adunate, forant, idest scindunt, illam gruptam. Cursus in hanc vallem se *dirocciat*, idest diruit: efficiunt Stygem, Acherontam et Flegetontam. Demum fluit deorsum per istam strictam *docciam*, idest fluentiam, vel iter, vel cursum, usque quo plus non descenditur, idest usque ad centrum; quia ultra centrum non est descensus. Facit Cochitum, qui fiet illud stagnum, quod tu videbis, et ideo hic non narratur.
 
@@ -463,7 +463,7 @@ Demum nota, quod iste homo antiquus figurat decursum mundi, qui tunc incepit sci
 &emsp;Pur a sinistra giù calando al fondo,
 
 42 Et ipse ad me: Tu scis quod locus est rotundus,\
-&emsp;Et quamquem tu veneris multum\
+&emsp;Et quamquam tu veneris multum\
 &emsp;Plus ad sinistram infra descendendo ad fundum,
 
 43 Non se' ancor per tutto 'l cerchio volto;\
@@ -520,7 +520,7 @@ Et ego adhuc (facit secundam questionem): Magister, ubi reperitur Flegetonta et 
 
 Ecce responsionem Virgilii. In omnibus aliis tuis questionibus michi places, respondit: sed *bullore*, idest furor, aque rubee, debebat bene solvere unam questionum, quas tu facis: quasi dicat: Ubi in sanguine vidisti violentos, debuisti cogitare, intelligere, quod illa vallis sanguinis, erat Flegetonta, quod potest interpretari pena sanguinea, vel tormentum sanguineum.
 
-Lethe videbis, sed extra istam fossam: idest extra istum Infernum, ubi vadunt anime ad lavandum se; que culpa, *pentula*, purgata per penitentiam, est remossa, idest ammota: quasi dicat: Licet alii poete ponant Lethe in Inferno; ego vero, qui sum christianus, in Purgatorio; quia, purgatis peccatis, anime bibunt de illa aqua, ut obliviscantur omnium miseriarum, sicut dicetur loco suo. Demum dixit: Admodo est tempus ad *scostandum*, idest ad recedendum a nemore, vel recedendi a nemore: fac ut retro me venias: margines, idest limites, faciunt viam, idest prebent iter; qui non sunt *arsi*, idest qui non sunt combusti; et super ipsos omnis vapor extinguitur, idest omnis flamma est extincta: admodo intrabitur in arenam.
+Lethe videbis, sed extra istam fossam: idest extra istum Infernum, ubi vadunt anime ad lavandum se; que culpa, *pentuta*, purgata per penitentiam, est remossa, idest ammota: quasi dicat: Licet alii poete ponant Lethe in Inferno; ego vero, qui sum christianus, in Purgatorio; quia, purgatis peccatis, anime bibunt de illa aqua, ut obliviscantur omnium miseriarum, sicut dicetur loco suo. Demum dixit: Admodo est tempus ad *scostandum*, idest ad recedendum a nemore, vel recedendi a nemore: fac ut retro me venias: margines, idest limites, faciunt viam, idest prebent iter; qui non sunt *arsi*, idest qui non sunt combusti; et super ipsos omnis vapor extinguitur, idest omnis flamma est extincta: admodo intrabitur in arenam.
 
 <!-- p. [189] (0243) -->
 

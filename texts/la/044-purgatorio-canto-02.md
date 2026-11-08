@@ -311,7 +311,7 @@ Ego vidi unam de ipsis trahere ante se, ut me amplecteretur cum tam grandi affec
 &emsp;Et totidem redivi cum nihilo ad pectus.
 
 28 Di maravigla, credo, mi dipinsi;\
-&emsp;Perchè l'ombra sorrise e si ritrassi,\
+&emsp;Perchè l'ombra sorrise e si ritrasse,\
 &emsp;Et io, seguendo lei, oltre mi pinsi.
 
 28 Admiratione, credo, me depinxi;\
@@ -391,7 +391,7 @@ Veraciter a tribus mensibus ipse accepit quemcumque, qui voluit intrare cum tota
 &emsp;Quicumque versus Acherontem se non calat.
 
 36 Et io: Se nuova legge non ti togle\
-&emsp;Inamoroso all'amoroso canto,\
+&emsp;Memoria o uso all'amoroso canto,\
 &emsp;Che mi solea quetar tutte mie vogle,
 
 36 Et ego dixi: Si nova lex tibi non subtrahit\
@@ -450,7 +450,7 @@ Nota quod, quia tunc tempore Iubilei multi christiani conversi sunt ad penitenti
 
 42 E come, ricoglendo biada o gioglo (2),\
 &emsp;Li colombi adunati a la pastura,\
-&emsp;Questi senza mostrar l'usato argoglo,
+&emsp;Queti senza mostrar l'usato argoglo,
 
 42 Sicut quando, colligendo bladium vel lolium,\
 &emsp;Columbe adunate ad pasturam,\
@@ -466,7 +466,7 @@ Nota quod, quia tunc tempore Iubilei multi christiani conversi sunt ad penitenti
 
 44 Così vid' io quella masnada frescha\
 &emsp;Lasciar lo canto, e gir in ver la costa,\
-&emsp;Com'huom che va ne sà dove s'arrescha (4):\
+&emsp;Com'huom che va nè sà dove s'arrescha (4):\
 &emsp;Nè la nostra partita fu men tosta.
 
 44 Sic vidi ego illam multitudinem recentem\
@@ -496,7 +496,7 @@ Amor, che nella mente mi ragiona; tutto questo insieme ci tocca così al vivo ne
 
 Nè il Poeta, parlando a chi si trova ancora in via, poteva usare diverso linguaggio, mentre con l'episodio accenna a due importantissimi veri: il primo, che le buone relazioni passate qui tra noi e i cari nostri, i quali in grazia ci precedettero di là, non cessano punto con la morte; il secondo, che quivi ci riconosceremo quegli stessi che fummo quaggiù, e le relazioni si faranno al tutto divine. Ma la verità teologica è, che in Dio, supremo ed unico oggetto della nostra vista e del nostro amore, si effettuerà in modo ineffabile questo mistero; da che l'anima, trapassata in grazia, sia nel Purgatorio, sia in cielo, non possa aver più altro oggetto che l'occupi fuori del sommo bene, Iddio; chè altrimenti non appieno divina sarebbe quivi la sua vita, ma sempre chiusa in finitezze e contrasti come nella presente avviene. Questa sublime dottrina venne nel seguente modo espressa da Caterina da Genova.
 
-« Le anime che sono nel Purgatorio (secondo che mi par comprendere), non possono avere altra elezione che di essere in esso luogo: e questo è per l'ordinazione di Dio, il quale ha fatto questo giustamente. Nè si possono più voltare verso sè stesse, nè dire: Io ho fatto tali peccati, per i quali merito di star qui. Nè possono dire: Io non li vorrei aver fatti, perchè me n'anderei ora in Paradiso. Nè dire: Questi n'esce più presto di me; ovvero: Io n'uscirò più presto di quello. Non possono avere alcuna memoria propria, nè d'altri parimente, in bene, o in male, che in lor faccia maggior afflizione del suo ordinario. Ma hanno un tanto contento di essere nell'ordinazione di Dio, e ch'egli adoperi tutto quello che gli piace, e come gli piace, che di loro medesime non possono pensare con maggiore loro pena. E solamente veggono l'operazione della divina bontà, la quale ha tanta misericordia nell'uomo per condurlo a sè, che di pena o di bene che possa accadere in proprietà, non si può niente da esse vedere; e se 'l potessero vedere, non sariano in carità pura. Non possono vedere altresì che sieno in quelle pene per i loro peccati, e non possono tener quella vista nella mente, la quale non può essere in detto luogo, perchè non vi si può attualmente più peccare. La causa del Purgatorio che hanno in loro, la veggono una volta sola nel passare di questa vita, e poi mai più non la veggono; perchè altrimenti vi sarebbe proprietà. Essendo perciò quelle anime in carità, e da quella non potendo più deviare con attual difetto, non possono più volere nè desiderare se non il puro volere della pura carità; ed essendo in quel fuoco purgatorio, sono nell'ordinazione divina, la quale è carità pura: e non possono più in alcuna cosa da quella deviare; perchè sono private così di attualmente peccare, come il sono di attualmente deviare (*Tratt. del Purg*. cap. I). » Pertanto è verissimo che di là noi ci riconosceremo, come il Casella riconobbe Dante, e Dante riconobbe lui, e che, siccome già ci amammo nel mortal corpo, di là egualmente ci ameremo; ma così rapiti e assorti in Dio fin dal Purgatorio, in cielo poi fatti con lui una cosa sola, che nella visione di lui sarà ogni altra vision nostra, e l'infinito suo amore ogni altro nostro amore, il quale dall'amor di lui si parti e nello stesso amor di lui avrà il suo compimento. L'arrestarsi, che finge il Poeta, degli spiriti ch'erano col Casella, così sorpresi al canto, onde si piegò a contentar l'amico,
+« Le anime che sono nel Purgatorio (secondo che mi par comprendere), non possono avere altra elezione che di essere in esso luogo: e questo è per l'ordinazione di Dio, il quale ha fatto questo giustamente. Nè si possono più voltare verso sè stesse, nè dire: Io ho fatto tali peccati, per i quali merito di star qui. Nè possono dire: Io non li vorrei aver fatti, perchè me n'anderei ora in Paradiso. Nè dire: Questi n'esce più presto di me; ovvero: Io n'uscirò più presto di quello. Non possono avere alcuna memoria propria, nè d'altri parimente, in bene, o in male, che in lor faccia maggior afflizione del suo ordinario. Ma hanno un tanto contento di essere nell'ordinazione di Dio, e ch'egli adoperi tutto quello che gli piace, e come gli piace, che di loro medesime non possono pensare con maggiore loro pena. E solamente veggono l'operazione della divina bontà, la quale ha tanta misericordia nell'uomo per condurlo a sè, che di pena o di bene che possa accadere in proprietà, non si può niente da esse vedere; e se 'l potessero vedere, non sariano in carità pura. Non possono vedere altresì che sieno in quelle pene per i loro peccati, e non possono tener quella vista nella mente, la quale non può essere in detto luogo, perchè non vi si può attualmente più peccare. La causa del Purgatorio che hanno in loro, la veggono una volta sola nel passare di questa vita, e poi mai più non la veggono; perchè altrimenti vi sarebbe proprietà. Essendo perciò quelle anime in carità, e da quella non potendo più deviare con attual difetto, non possono più volere nè desiderare se non il puro volere della pura carità; ed essendo in quel fuoco purgatorio, sono nell'ordinazione divina, la quale è carità pura: e non possono più in alcuna cosa da quella deviare; perchè sono private così di attualmente peccare, come il sono di attualmente deviare (*Tratt. del Purg*. cap. I). » Pertanto è verissimo che di là noi ci riconosceremo, come il Casella riconobbe Dante, e Dante riconobbe lui, e che, siccome già ci amammo nel mortal corpo, di là egualmente ci ameremo; ma così rapiti e assorti in Dio fin dal Purgatorio, in cielo poi fatti con lui una cosa sola, che nella visione di lui sarà ogni altra vision nostra, e l'infinito suo amore ogni altro nostro amore, il quale dall'amor di lui si partì e nello stesso amor di lui avrà il suo compimento. L'arrestarsi, che finge il Poeta, degli spiriti ch'erano col Casella, così sorpresi al canto, onde si piegò a contentar l'amico,
 
 Come a nessun toccasse altro la mente,
 

@@ -74,7 +74,7 @@ Finito hoc, alta curia; Finito questo, l'alta corte, auctor ponit quomodo tota c
 
 (1) pare.
 
-Apostolos, rogat eos ut temptent auctorem de sua affectione et de fide, etc.; et dicit); si per gratiam Dei (idest singularem sibi factam) iste, scilicet auctor, prelibat (idest pregustat, nam prelibare id est pregustare) de illo quod cadit de vestra mensa (mensa apostolica est doctrina, que est necessaria ad salutem, tam de fide, quam de spe, quam caritate, quam etiam de aliis), priusquam mors tempus sibi prescribat (idest antequam mors rapiat eum. Nota, quod prescriptio est alicuius rei possessio per tempus datum a iure cum bona fine; quia possessor male fidei nullo tempore prescribit. Tertio de Regulis iuris in sexto Bonifacii. Quando mors interficit hominem, tunc totum tempus post mortem eius dicitur prescriptum; ita quod Dantes ante mortem, ipse vivens in carne et vadens per Paradisum, prelibavit, idest pregustavit, de hiis que veniunt ex doctrina Apostolorum. Nam auctor supervixit, postquam fecit istud opus, viginti uno annis: opus fiebat millesimo tercentesimo, et ipse moriebatur millesimo tercentesimo vicesimoprimo: ita quod non prescripserat adhuc tempus ipsius auctoris, idest vite eius), ponatis mentem, idest respiciatis, ad affectionem immensam, scilicet quam habet auctor, et roretis, idest irrigate, illam, scilicet affectionem suam, aliquantulum, saltem parum, de rore suo: vos bibitis semper de fonte, unde venit illud quod ipse cogitat. Per hoc probat Beatrix, quod ipsi Apostoli poterant benefacere illud, quod ipsa ab ipsis petebat, quia vos bibitis de fonte divine gratie unde venit quod cogitat, idest ire et pervenire ad summam essentiam contemplandam.
+Apostolos, rogat eos ut temptent auctorem de sua affectione et de fide, etc.; et dicit); si per gratiam Dei (idest singularem sibi factam) iste, scilicet auctor, prelibat (idest pregustat, nam prelibare id est pregustare) de illo quod cadit de vestra mensa (mensa apostolica est doctrina, que est necessaria ad salutem, tam de fide, quam de spe, quam caritate, quam etiam de aliis), priusquam mors tempus sibi prescribat (idest antequam mors rapiat eum. Nota, quod prescriptio est alicuius rei possessio per tempus datum a iure cum bona fide; quia possessor male fidei nullo tempore prescribit. Tertio de Regulis iuris in sexto Bonifacii. Quando mors interficit hominem, tunc totum tempus post mortem eius dicitur prescriptum; ita quod Dantes ante mortem, ipse vivens in carne et vadens per Paradisum, prelibavit, idest pregustavit, de hiis que veniunt ex doctrina Apostolorum. Nam auctor supervixit, postquam fecit istud opus, viginti uno annis: opus fiebat millesimo tercentesimo, et ipse moriebatur millesimo tercentesimo vicesimoprimo: ita quod non prescripserat adhuc tempus ipsius auctoris, idest vite eius), ponatis mentem, idest respiciatis, ad affectionem immensam, scilicet quam habet auctor, et roretis, idest irrigate, illam, scilicet affectionem suam, aliquantulum, saltem parum, de rore suo: vos bibitis semper de fonte, unde venit illud quod ipse cogitat. Per hoc probat Beatrix, quod ipsi Apostoli poterant benefacere illud, quod ipsa ab ipsis petebat, quia vos bibitis de fonte divine gratie unde venit quod cogitat, idest ire et pervenire ad summam essentiam contemplandam.
 
 Sic Beatrix, scilicet locuta est. Tunc ille chorus illorum spirituum, facta tali petitione, ubi prius volvebat se, firmatus [est], idest stetit. Nam motus circularis istorum denotat gaudium eorum; et ideo aliquis eorum movebatur circulariter, velocius quam alter; sic unus est beatior alio: sed tunc quieverunt illi spiritus propter loqui cum auctore, sicut rogati erant a Beatrice. Nota hic, quod illi spiritus stabant et movebantur, sicut quedam spere: erant quedam lumina rotunda in forma sperarum. Et ille anime lete effecte sunt sicut spere supra fixos polos (poli sunt puncta linearum terminantia eas; sicut sunt duo poli mundi, scilicet arthicus et antharticus, qui sunt puncta illius axis, idest linee, super quam movetur primum mobile), flammeando, volute, idest converse, ad instar cometarum. *Flammeando*: idest scintillando. Nota quod cometa non est stella: quia quelibet stella est res incorruptibilis: cometa vero corrumpitur cito, raro unquam durat ultra mensem vel duos ad plus. Dicitur tamen ab aliquibus, quod tempore Mithridatis duravit sex mensibus; sed forte, si sit, non fuit semper una et eadem, sed fuerunt plures, una post aliam. Nam ille vapor, unde fit cometa, consumitur, parumper maturatur, et est vapor accensus, viscosus, adustus, et fit ab influentia diversorum planetarum, et ideo est diversi coloris, et sic significat diversos effectus; nam aliquando a Marte, aliquando a Saturno: semper tamen cometa est signum alicuius mali, vel stragis, sanguinis humani, vel mortis principum, vel occupationum civitatum: et sicut cometa faciebat alios radios, ita faciebant illi spiritus scintillando ibi.
 
@@ -91,7 +91,7 @@ Nota quod auctor ostendit in ista spera octava Ecclesiam triumphantem, propter h
 &emsp;Quod nullum ibi dimisit maioris c[l]aritie;
 
 8 E tre fiate intorno a Beatrice\
-&emsp;Si volse con un canto tanto vivo,\
+&emsp;Si volse con un canto tanto divo,\
 &emsp;Che la mia fantasia non mel ridice;
 
 8 Et tribus vicibus se volvit circa Beatricem\
@@ -114,7 +114,7 @@ Nota quod auctor ostendit in ista spera octava Ecclesiam triumphantem, propter h
 &emsp;Devota, propter tuum ardentem affectum\
 &emsp;Ab illa pulchra spera me dissolvis.
 
-11 Poscia fermato, el corpo benedecto\
+11 Poscia fermato, el foco benedecto\
 &emsp;A la mia donna dirizzò lo spiro,\
 &emsp;Che favellò così, com'io ho detto.
 
@@ -168,7 +168,7 @@ Si ipse amat bene; ecce de caritate: et bene sperat; ecce de spe: et bene credit
 
 16 E come 'l baccellier s'arma, e non parla,\
 &emsp;Finchè 'l maestro la question propone,\
-&emsp;Per aiutarla, e non per terminarla;
+&emsp;Per approvarla, e non per terminarla;
 
 16 Sicut bachalaurius se armat, et non loquitur,\
 &emsp;Quousque magister questionem proponit,\
@@ -199,7 +199,7 @@ Si ipse amat bene; ecce de caritate: et bene sperat; ecce de spe: et bene credit
 &emsp;Aquam extra meum internum fontem.
 
 20 La gratia che mi dà ch'io mi confessi,\
-&emsp;Comincia'io, dell'alto primo pilo,\
+&emsp;Comincia'io, dall'alto primo pilo,\
 &emsp;Faccia li miei concepti esser expressi.
 
 20 Gratia que michi dat quod ego confitear,\
@@ -309,7 +309,7 @@ Notandum est, quod in omni bona diffinitione ponitur genus, quasi loco substanti
 &emsp;Sopra la qual ogni virtù si fonda,
 
 30 Prope hoc exivit de illa luce profunda\
-&emsp;Que ibi splendebat: Istum carum iocale,\
+&emsp;Que ibi splendebat: Istud carum iocale,\
 &emsp;Super quo omnis virtus fundatur,
 
 31 Onde ti venne? Et io: La larga ploia\
@@ -330,7 +330,7 @@ Notandum est, quod in omni bona diffinitione ponitur genus, quasi loco substanti
 
 33 Io udi' poi: L'antica (10) e la novella (11)\
 &emsp;Proposition (12) che così ti conchiude,\
-&emsp;Perche l'hai tu per divina favella?
+&emsp;Perchè l'hai tu per divina favella?
 
 33 Ego audivi postea: Antiquam et novellam\
 &emsp;Propositionem que sic tibi concludit,\
@@ -482,7 +482,7 @@ traxerat me, scilicet in tantum, quod ultimis frondibus, idest particulis, tange
 
 O sancte pater, respondet auctor Sancto Petro, et spiritus, qui vides hic id quod credidisti, scilicet quando eras in terra, ita quod tu vicisti versus sepulchrum iuniores pedes (hoc non videtur fore verum, quia Ioannes, qui erat iuvenis, precessit Petrum; ideo dicitur in Evangelio: Et ille alius discipulus cucurrit citius Petro. Dicendum, quod licet Ioannes prevenerit Petrum, tamen non introivit in Sepulchrum ante Petrum, sed e converso; vel aliter, quod Petrus affectionaliter precessit Ioannem; quasi dicatur: Ioannes non ivit ita cito cum pedibus, sicut Petrus cum affectione), incepi ego, scilicet loqui, tu vis quod ego manifestem formam hic prompti credere mei, idest fidei mee, et etiam causam illius quesisti, idest petivisti.
 
-Et ego respondeo, quod ego credo in Deum solum et eternum (quia solum est unus Deus, qui est eternus), qui totum celum movet, non motus (Exodi capitulo scribitur, Ego sum Dominus Deus tuus qui non mutor: et Boetius. De consolatione libro tertio, cantu nono, Stabilisque manens, dans cuncta moveri), non motus, cum amore et cum desiderio; qui non habuit principium, nec finem habebit. Celum movetur propter amatum et desideratum, non ex necessitate: idest Deus facit quod intelligentie movent propter amatum et desideratum, quia intelligentie moventes amant Deum et desiderant illi placere. Et ad tale credere non habeo ego solum probationes phisicas et metaphisicas (nam tertio Phisicorum concluditur, Deus motor primus; et in secundo Methaphisice, Quod est unus, est princeps); sed dat michi hoc, idest credere, etiam veritas que hic pluit, scilicet Scriptura divina, per Moysen, per Prophetas, per Psalmos, per Evangelium, et per vos qui scripsistis, scilicet Epistolas canonicas, postquam ardens Spiritus vos fecit almos, idest stabiles, intrepidos, et scientes omnia, supple, que sunt de necessitate salutis; idest, postquam Spiritus Sanctus replevit vos.
+Et ego respondeo, quod ego credo in Deum solum et eternum (quia solum est unus Deus, qui est eternus), qui totum celum movet, non motus (Exodi capitulo scribitur, Ego sum Dominus Deus tuus qui non mutor: et Boetius. De consolatione libro tertio, cantu nono, Stabilisque manens, dans cuncta moveri), non motus, cum amore et cum desiderio; qui non habuit principium, nec finem habebit. Celum movetur propter amatum et desideratum, non ex necessitate: idest Deus facit quod intelligentie movent propter amatum et desideratum, quia intelligentie moventes amant Deum et desiderant illi placere. Et ad tale credere non habeo ego solum probationes phisicas et metaphisicas (nam tertio Phisicorum concluditur, Deus motor primus; et in secundo Methaphisice, Quod est unus, est princeps); sed dat michi hoc, idest credere, etiam veritas que hinc pluit, scilicet Scriptura divina, per Moysen, per Prophetas, per Psalmos, per Evangelium, et per vos qui scripsistis, scilicet Epistolas canonicas, postquam ardens Spiritus vos fecit almos, idest stabiles, intrepidos, et scientes omnia, supple, que sunt de necessitate salutis; idest, postquam Spiritus Sanctus replevit vos.
 
 Et credo in tres Personas eternas, et istas credo unam essentiam ita unam et ita trinam, quod sufferunt coniuncte Sunt et Est: ita quod persona tertia presentis temporis verbi substantivi, singularis numeri, verificatur de Deo, de essentia divina; et etiam tertia persona eiusdem verbi, eiusdem modi et temporis, pluralis numeri, verificatur de tribus personis: dicendo tres persone sunt, et etiam dicendo tres persone sunt unus Deus, et unus Deus est tres persone.
 
@@ -544,4 +544,4 @@ Chi non vede in essi la sentenza nostra, dipoi approvata solennemente al Poeta d
 
 Come mai ciò? La ragione sta in questo, che libero nella sua essenza è lo spirito umano, e può pertanto ripugnare ad ogni evidenza, restringendosi in sè stesso, oppure confondendo la naturale cognizione così, che la bella e nativa luce ne resti offuscata. Quindi il bisogno di tenere ordinato il cuore, da cui nascono le perturbatrici procelle, e quindi la possibilità, anzi la necessità, che la fede accompagni la conoscenza; affinchè l'autorità del volere che comanda il consentire, non turbi il cielo sereno dell'anima e non faccia svanire la stessa cognizione. E questo tanto maggiormente è necessario, quanto più poggiamo in alto e ci volgiamo a Dio, regola suprema così del nostro pensare come dell'operare; la cui ricognizione ha influenza sostanziale, principalissima e suprema, su tutto l'uomo; affinchè conoscere e volere procedano armonici, compatti e pieni al conseguimento della verace perfezione.
 
-Pertanto ci pare stranissimo che mentre lo spirito umano non mai sì come oggi miro in tutte cose all'unità (diciamo un'unità suprema, a cui mira per necessità di natura); ci pare stranissimo, diciamo, che alcuni non vogliano riconoscerla in Dio, fuori del quale riuscirà sempre impossibile il ritrovarla. Mirare all'unità suprema è mirare all'infinito, e l'infinito non può essere che Dio.
+Pertanto ci pare stranissimo che mentre lo spirito umano non mai sì come oggi mirò in tutte cose all'unità (diciamo un'unità suprema, a cui mira per necessità di natura); ci pare stranissimo, diciamo, che alcuni non vogliano riconoscerla in Dio, fuori del quale riuscirà sempre impossibile il ritrovarla. Mirare all'unità suprema è mirare all'infinito, e l'infinito non può essere che Dio.
