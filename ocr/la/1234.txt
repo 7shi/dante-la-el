@@ -20,7 +20,7 @@ Et bonitatem que facit illam tantam,
 *candida rosa*: istud est tricesimumprimum capitulum
 huius Paradisi, in quo auctor predictam formam curie ce-
 lestis et celi Empyrei, quod sedes Dei et animarum bea-
-tarum est, describit. Quod d {{viditur|dividitur}} in quatuor partes
+tarum est, describit. Quod {{d viditur|dividitur}} in quatuor partes
 principales. In quarum prima auctor describit actum et
 habitum angelorum, qui sunt multi aulici huius curie.
 In secunda parte, que incipit ibi:

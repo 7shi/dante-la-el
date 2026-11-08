@@ -56,7 +56,7 @@ Procedere per omnes suas vias,
 Ad relevandum nos sursum, fuit contenta.
 38 Nec inter ultimas rotas et primum diem
 Tam altus et tam magnificus processus,
-Sive per unum modum sive per alium, {{fuitvel erit|fuit vel}}.
+Sive per unum modum sive per alium, {{fuitvel|fuit vel}} erit.
 
 Paradiso, fuit remota; idest sicut de Paradiso fuit expulsa,
 ita ab omnibus dignitatibus fuit remota et ab illis privata.

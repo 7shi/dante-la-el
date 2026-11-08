@@ -24,7 +24,7 @@ emisferio nostro — (19) quasi in quel tempo — (20) per l'aurora che si levav
 
 13 Oritur mortalibus per diversas fauces
 Lucerna mundi; sed ab illa,
-Que quatuor circulos iungit cum {{tribus|crucibus}} circulis,
+Que quatuor circulos iungit cum tribus {{circulis|crucibus}},
 14 Cum meliori cursu et cum meliori stella
 Coniunxit se mundane {{terre|cere}},
 Ideo suo modo temperat et sigillat.
