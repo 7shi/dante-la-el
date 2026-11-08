@@ -1,6 +1,22 @@
 page	line	form	decision	note
 010	1	C	misprint	cmp A; the retype and Tesseract `C`, the base `C.`; no period in the print
 011	3	The	printed	cmp B; the retype `THE`: small capitals, the first word of the preface in normal case (README.md)
+022	9	Sì	printed	cmp B; the retype `S̄i`: the accent of the italic `ì` set over the `S`
+022	9	davanti	printed	cmp B; the retype `dauanti`; worn letters, `v` in the print
+023	18	DIVINA	misread	cmp A; was `Divina`; small capitals (README.md)
+023	18	DIVINA	misread	cmp B; was `Divina` (`epithet DIVINA`); small capitals
+026	12	LE TERZE RIME DI DANTE	misread	cmp B; was `Le Terze Rime di Dante`; small capitals, with the two titles after it
+027	3	COMMEDIA DI DANTE …	misread	cmp B; was `Commedia di Dante insieme …`; small capitals
+027	7	DIVINA	misread	cmp A; was `Divina`; small capitals
+029	1	MSS.	misread	cmp B; was `mss.`; small capitals
+029	5	MS.	misread	cmp A; was `ms.`; small capitals
+029	5	Cⁱ	printed	cmp B; the retype `Ci`; a superior `i` in the print
+032	5	MS.	misread	cmp A and B; was `ms.`, twice; small capitals
+032	5	. . .	printed	cmp B; the retype `.`; three points in the print
+034	1	IS	misread	cmp A; was `is`; small capitals, with `MANY YEARS` and `OTTIMO` on the same line
+041	5	1329:	misread	cmp A; was `1329;`
+043	5	TRANSLATIONS	misread	cmp B; was `Translations`; small capitals
 055	3	Licn	misprint	cmp B; the retype `Licn`, the base `Lion`; a `c` for the `o` in the print
+272	18	MSS.	misread	the same as `029`; was `mss.`; small capitals
 375	3	el	misread	cmp A; was `ei`; the retype and Tesseract `el`, as printed
 479	3	Abati	printed	cmp B; the retype `ABATI`: small capitals, the first word of the index in normal case (README.md)

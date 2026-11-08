@@ -83,3 +83,13 @@ The record of the check of `ocr/en` planned in [PLAN.md](PLAN.md), step by step.
   Italian, a word that still makes sense, which the comparison with dante-corpus let pass.
   The verse quotations in the notes (`255`, `415`) the retype set one verse per line, the
   base in one line: the layout only, set aside by the script.
+- **Retype 04** (Gemini 3.8 Flash): 25 pages of the front matter, `019`, `021`–`044`; all
+  written, none mixed up. 24 places (A 10, B 14, C 0):
+  - Small capitals written in normal case by the base, against README.md ("Small
+    capitals in running text are written in uppercase"): `DIVINA` (`023`, `027`), the
+    titles of `026` and `027`, `MS.`/`MSS.` (`029`, `032`), `IS`, `MANY YEARS`, `OTTIMO`
+    (`034`), `TRANSLATIONS` (`043`); corrected, and `272` `MSS.`, the last `mss` of the
+    base, after its image.
+  - `041` `1329;`: a colon in the print, corrected.
+  - The retype wrong, the base as printed: `022` `Sì` (the retype `S̄i`, the accent set
+    over the `S`) and `davanti` (`dauanti`), `029` `Cⁱ` (`Ci`), `032` `. . .` (`.`).
