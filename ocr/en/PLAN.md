@@ -10,11 +10,11 @@ written as the steps go); the conversion into `texts/en/` is described in
 **A new session starts here**: read "State". The rules of ocr/PLAN.md ("Decisions",
 "Read-through") apply.
 
-## State (2026-11-08)
+## State (2026-11-09)
 
-Step 0 and the trial retype done (DONE.md). Next: step 1, the batches of 10 pages in page
-order from `005` (the trial pages and `006`, a frontispiece, left out), each sent to
-la-el-agy after the user's signal, and step 2 on each batch returned.
+Step 1 done to `100` (retypes 01–06, DONE.md). Next: the batches of 25 pages from `101` (the
+pages retyped in retype 03 left out), each checked and decided as it comes back; a commit
+after `200` (decided with the user, 2026-11-09).
 
 ## The text
 
@@ -70,8 +70,16 @@ la-el-agy after the user's signal, and step 2 on each batch returned.
    before each batch; the model of each batch recorded in DONE.md):
    - **Trial**: 5 pages of different kinds: a preface page (`011`), a canto opening with
      the argument (`055`), a canto page with a verse note, a note continued and long notes
-     (`072`), a page of a continued note only (`454`), an index page (`479`). Checked by eye and by the script of step 2; the batch size is set from
-     it (`la`'s retypes: 7–11 pages; Flash grew worse on longer batches).
+     (`072`), a page of a continued note only (`454`), an index page (`479`). Checked by
+     eye and by the script of step 2; the batch size is set from it (`la`'s retypes: 7–11
+     pages; Flash grew worse on longer batches).
+   - **Whether to go on** (decided with the user, 2026-11-09): the trial and retype 02
+     (front matter) found no misreading; ten canto pages across the book (retype 03) found
+     one (`375` `ei` for `el`), which the comparison with dante-corpus had let pass. To
+     `100` (retypes 04–06, 25–28 pages each, no loss of care in the later pages): a few
+     misreadings (a word, a colon, breaks kept at a line end, points), small capitals in
+     normal case against README.md, and misprints the base had corrected silently (turned
+     `n`s). The retype goes on over the whole text, 25 pages a batch.
    - **Batches** in page order; on each reply the next batch is sent first, then the
      returned one checked (pages present, none mixed up).
 2. **Compare and decide**, batch by batch as the retypes come back:
@@ -98,3 +106,9 @@ la-el-agy after the user's signal, and step 2 on each batch returned.
 ## Settled readings
 
 The edition's readings found in the steps go here, and are applied, not asked again.
+
+- **Small capitals** in running text in uppercase (README.md), the base's normal case
+  corrected where a retype shows them (`DIVINA`, `MSS.`, `OTTIMO`); the first word of a
+  section or a canto in normal case (`The`, `Abati`).
+- **A misprint the base had corrected silently** (a turned `n`, `Lion` for `Licn`) is
+  marked and listed when found; it is not sought, as `texts/en` corrects it anyway.
