@@ -167,6 +167,11 @@ Decided with the user (2026-11-08): the misprints are corrected in `texts/la`, w
   4. The checks of the read-through (step 4 there) compared with their previous output: no
      change but the marked words in `texts/la`.
   5. Commits apart: the scripts, `ocr/la` (pages, TSV, PLAN), `texts/la`.
+  6. The place of the marks checked: the 729 marks placed by likeness (printed and fixed
+     forms with a similarity of 0.7 or more), each line as printed and as fixed, read by a
+     delegate in one task. 20 marks sat on the wrong words (0175 `pena` lost, 0599
+     `voler voler`, 0426 the fix on `crepa` for `reo`, …); moved, with their TSV rows, the
+     fixed forms unchanged. The checks of step 4 gave the same output.
 
 ## Standing rules
 
