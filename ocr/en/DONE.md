@@ -43,6 +43,29 @@ The record of the check of `ocr/en` planned in [PLAN.md](PLAN.md), step by step.
     prose (`063` `Grey`) and the two columns of the index (`479`); a narrow page is padded
     in black on the right. A word Tesseract reads otherwise is not found (`056` `Chè`,
     read `Ché`; 0 hits): a word beside it is asked for instead.
+- **`ocr/scripts/cmpread.py`** (step 2), written while the trial retype runs; tried on
+  pages altered by hand: a changed word, a lost verse line (class C), a mark's printed side
+  and Tesseract's agreeing word (class A) found; spacing, quotes and the note markers
+  ignored; a retype identical to the base gives no place. Tesseract's words hyphenated at a
+  line end are joined.
 - **The retype template**: [TEMPLATE-RETYPE.md](TEMPLATE-RETYPE.md), from `la`'s: the
   conventions of [README.md](README.md) and the errors of `la`'s retypes; output
   `tmp/en-retypeNN/PAGE.txt`.
+
+## Step 1: retype, the trial (2026-11-08)
+
+- **Retype 01** (la-el-agy, Gemini 3.8 Flash): `011`, `055`, `072`, `454`, `479`, all five
+  written, none mixed up; the blocks, the verse, the verse note, the continued notes and the
+  two index columns as the template asks.
+- **`cmpread.py`**: 3 places, all class B, none A or C:
+  - `011` `The` (the retype `THE`) and `479` `Abati` (`ABATI`): small capitals, the first
+    word of a section in normal case (README.md): printed.
+  - `055` `Lion`: the print has `Licn` (a `c` for the `o`), which the retype copied and
+    Tesseract read `Lion`: a misprint, marked `{{Licn|Lion}}` and listed.
+- No letter, word or mark of the retype against the print; the only kind of difference
+  is the small capitals of a first word, which the base writes in normal case. Spacing set
+  aside by the script (`072` the print's `wounded(Conv.Tr.`, written so by the retype).
+- After the fixes: `misprints.py ocr/en`, 1 row, 1 mark, no problems; `convert_en.py` as
+  the baseline, `texts/en` unchanged.
+- Tesseract alone against the base is not listed: the trial gives it nothing to find.
+- The batch size: 10 pages.

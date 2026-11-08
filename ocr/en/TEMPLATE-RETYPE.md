@@ -91,7 +91,7 @@ the end of a footnote continued from the page before, without a number …
   rules, ornaments, italics (no `*`, no `_`).
 - **Headings** as printed, each on its own line (`ARGUMENT.`, `CANTO I.`, a title of the front
   matter). Small capitals in running text in uppercase; the first word of a canto
-  in normal case.
+  or of a section (a preface, the index) in normal case.
 - **The index**: one entry per line, as printed (`— Name, xx. 10.`, a dash for a repeated name).
 - A letter that cannot be read: the best reading, listed in the report.
 

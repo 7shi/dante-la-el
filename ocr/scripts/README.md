@@ -27,6 +27,7 @@ misreading is corrected.
 | `findline.py DIR FLAGS [-o OUT] [--min R]` | The lines of `DIR/PAGE.txt` where the reader's flagged phrases are (`page phrase reason`): compared word by word without case, punctuation, italic marks and brackets, across hyphenated line breaks and page breaks; otherwise the most similar run of words (`~`) |
 | `wordcrop.py DIR OUT SPEC... [-t TESS]` | Bands of `DIR/PAGE.png` around words (`PAGE:TEXT[:N]`, the Nth word of Tesseract's `TESS/PAGE.tsv` containing TEXT), stacked into one PNG under labels with the match count, for deciding a flagged place in the image |
 | `txtfix.py DIR FIXES [-n]` | Applies the fixes, `PAGE:LINE old new` (`old` once in the line); writes nothing if a row fails |
+| `cmpread.py DIR RETYPE [-t TESS] [-o OUT] [PAGE...]` | The comparison before the read-through ([ocr/PLAN.md](../PLAN.md), step 2): `DIR/PAGE.txt` (the printed side of the marks), a retype `RETYPE/PAGE.txt` and Tesseract's words aligned word by word (quotes, dashes, spacing and note markers normalized); every place the base differs from the retype, classed A (Tesseract agrees with the retype), B (the retype alone), C (a run one lacks) |
 | `misprints.py DIR [--fix-lines]` | Checks the misprint marks `{{printed\|fixed}}` of `DIR`'s pages against `DIR/misprints.tsv` (every applied row one mark, every mark a row); with `--fix-lines` writes the new line of a mark that has moved |
 
 ## PDF preparation

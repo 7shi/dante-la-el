@@ -12,9 +12,9 @@ written as the steps go); the conversion into `texts/en/` is described in
 
 ## State (2026-11-08)
 
-Step 0 done (DONE.md, "Step 0"). Next: step 1, the trial retype (`011`, `055`, `072`,
-`454`, `479`), sent to la-el-agy after the user's signal; `cmpread.py` (step 2) written
-while it runs.
+Step 0 and the trial retype done (DONE.md). Next: step 1, the batches of 10 pages in page
+order from `005` (the trial pages and `006`, a frontispiece, left out), each sent to
+la-el-agy after the user's signal, and step 2 on each batch returned.
 
 ## The text
 
