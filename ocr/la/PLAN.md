@@ -65,7 +65,7 @@ texts and are in [ocr/PLAN.md](../PLAN.md) ("Read-through"). What is particular 
 - **Checks after a fix**: `texts/scripts/convert_la.py` (no `NO NUMBER` line since the marks
   number 0099 ×2, 0363 and 0856), `ocr/la/scripts/seqcheck.py 79 1270` (0897 tercet 31
   unnumbered in print, its number a mark), `ocr/la/scripts/check.py 79 1287` and
-  `ocr/la/scripts/misprints.py`, each compared with its previous output.
+  `ocr/scripts/misprints.py ocr/la`, each compared with its previous output.
 
 ## Misprint marks
 
@@ -97,7 +97,7 @@ its page and gets its row in `misprints.tsv` at once.
     where the edition does not decide it; `other`, a source named in the note (the
     Vulgate, 0613; the Gospel, 1243). The fixed form is in the edition's spelling (`el`,
     `chiamata`), never a modern one.
-  - `ocr/la/scripts/misprints.py` checks that every `yes` row is one mark at its page and
+  - `ocr/scripts/misprints.py ocr/la` checks that every `yes` row is one mark at its page and
     line, and every mark a `yes` row; with `--fix-lines` it writes the new line of a mark
     that has moved.
 - **The old markup** `{{ocr|glm}}` (DONE.md, "The method") lived only in work copies in
@@ -270,7 +270,8 @@ its page and gets its row in `misprints.tsv` at once.
 
 The scripts are in `ocr/la/scripts/`, described in the order of use in
 [scripts/README.md](scripts/README.md): the verse columns, the two-OCR markup, the page
-checks, the checks after completion and the misprint marks (`misprints.py`). The
+checks, the checks after completion and the misprint marks (`misprints.py`, now in
+`ocr/scripts/`). The
 conversion into `texts/la/` is `texts/scripts/convert_la.py` (procedure, step 11).
 
 The working data of the completed work in `tmp/` (`la-markup/`, `la-mark7/`, the paid

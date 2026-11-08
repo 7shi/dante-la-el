@@ -112,6 +112,7 @@ The misprints are marked in the pages, `{{printed|fixed}}`, and listed in
 `ocr/la/misprints.tsv` (PLAN.md, "Misprint marks"); the scripts above read the left side,
 `texts/scripts/convert_la.py` the right.
 
-- `misprints.py [--fix-lines]`: checks that every applied row of `misprints.tsv` is one mark
-  at its page and line and every mark a row; with `--fix-lines` it writes the new line of a
-  mark that has moved.
+- `ocr/scripts/misprints.py ocr/la [--fix-lines]` (shared by all texts since 2026-11-08,
+  [ocr/scripts/README.md](../../scripts/README.md)): checks that every applied row of
+  `misprints.tsv` is one mark at its page and line and every mark a row; with
+  `--fix-lines` it writes the new line of a mark that has moved.

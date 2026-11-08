@@ -4,7 +4,9 @@ FLAGS is the reader's TSV, `page<TAB>phrase<TAB>reason` (page as in the marker, 
 phrase copied from the converted text (`texts/…`). The phrase is found in the page file
 `DIR/PAGE.txt` word by word, compared without case, punctuation, italic marks and
 brackets, and across a line broken by a hyphen; if it is not there, the page and the next
-(a phrase across the page break), then the page before are searched; if still not found,
+(a phrase across the page break: the foot of the one and the top of the other, or any line
+of the one and the first line of the other, as where the verse and the notes are printed
+below the prose in ocr/en), then the page before are searched; if still not found,
 the most similar run of words, if similar enough, is given with `~`.
 
 Output, a TSV: page, line(s) (`12` or `12-13`), how found (`=`, `~0.85`, `-` not found),
@@ -90,6 +92,34 @@ def neighbour(page, d):
     return str(int(page) + d).zfill(len(page))
 
 
+def joins(head, tail):
+    """Words of each line of page head followed by the first line of page tail, a hyphen at
+    the line end joining the two: a paragraph that runs over the page when the verse and
+    the notes are printed below it (ocr/en)."""
+    got = [words(head), words(tail)]
+    if any(g is None for g in got):
+        return []
+    lines, first = got[0][1], None
+    for n, line in enumerate(got[1][1], 1):
+        if line.strip() and not furniture(line):
+            first = (n, line.split())
+            break
+    if first is None:
+        return []
+    out = []
+    for n, line in enumerate(lines, 1):
+        ws = line.split()
+        if not ws:
+            continue
+        a_ws = [(key(w), head, n, n) for w in ws]
+        b_ws = [(key(w), tail, first[0], first[0]) for w in first[1]]
+        if ws[-1].endswith("-") and len(ws[-1]) > 1:
+            b_ws[0] = (key(ws[-1][:-1] + first[1][0]), head, n, n)
+            a_ws = a_ws[:-1]
+        out.append([w for w in a_ws + b_ws if w[0]])
+    return out
+
+
 def find(page, phrase):
     ph = [k for k in map(key, phrase.split()) if k]
     if not ph:
@@ -109,6 +139,12 @@ def find(page, phrase):
         hits = [i for i in range(len(ks) - len(ph) + 1) if ks[i:i + len(ph)] == ph]
         if hits:
             return "=", [ws[i:i + len(ph)] for i in hits]
+        if len(span) == 2:
+            for ws in joins(*span):
+                ks = [w[0] for w in ws]
+                hits = [i for i in range(len(ks) - len(ph) + 1) if ks[i:i + len(ph)] == ph]
+                if hits:
+                    return "=", [ws[i:i + len(ph)] for i in hits]
         target = " ".join(ph)
         for i in range(max(1, len(ks) - len(ph) + 1)):
             r = difflib.SequenceMatcher(None, target, " ".join(ks[i:i + len(ph)])).ratio()

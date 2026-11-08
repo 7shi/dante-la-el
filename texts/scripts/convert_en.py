@@ -80,8 +80,16 @@ def marker(n):
     return f"<!-- p. {label} ({n:03d}) -->" if label else f"<!-- ({n:03d}) -->"
 
 
+# A misprint mark `{{printed|fixed}}` (ocr/PLAN.md, "Decisions"): the text keeps the fix.
+MISPRINT = re.compile(r"\{\{([^{}|]*)\|([^{}|]*)\}\}")
+
+
+def fixed(t):
+    return MISPRINT.sub(r"\2", t)
+
+
 def read_page(n):
-    text = (SRC / f"{n:03d}.txt").read_text(encoding="utf-8").strip()
+    text = fixed((SRC / f"{n:03d}.txt").read_text(encoding="utf-8")).strip()
     if n in ADDED_MARKERS:
         old, new = ADDED_MARKERS[n]
         assert text.count(old) == 1, n
@@ -107,7 +115,7 @@ def is_italian(lines):
 
 VOCAB = set()
 for f in SRC.glob("*.txt"):
-    VOCAB.update(re.findall(r"[A-Za-zÀ-ÿ’]+(?:-[A-Za-zÀ-ÿ’]+)*", f.read_text(encoding="utf-8")))
+    VOCAB.update(re.findall(r"[A-Za-zÀ-ÿ’]+(?:-[A-Za-zÀ-ÿ’]+)*", fixed(f.read_text(encoding="utf-8"))))
 VOCAB_LOWER = {w.lower() for w in VOCAB}
 UNDECIDED = []
 

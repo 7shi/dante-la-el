@@ -69,7 +69,7 @@ From la/DONE.md:
    - `ocr/DIR/PLAN.md` (the state, the edition's settled readings as they are found) and
      `ocr/DIR/DONE.md`; `misprints.tsv` and `readcheck.tsv` with the columns of `la`.
    - The convert script of the text taught the marks (`fixed()`, as `convert_la.py`), and
-     `la/scripts/misprints.py` made to take the directory; their output before any change
+     `misprints.py` made to take the directory (now `ocr/scripts/misprints.py DIR`); their output before any change
      is kept as the baseline.
    - The other readings, local and free: `ocr/DIR/glm-ocr/` (GLM-OCR, [Makefile](Makefile);
      not for `en`, whose base is GLM-OCR's) and `ocr/DIR/tesseract/` (word boxes, a Makefile as `la/tesseract`, with the text's

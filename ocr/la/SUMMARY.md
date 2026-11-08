@@ -55,7 +55,7 @@ marked with its fix and listed), or **printed** (kept, nothing to do).
   the left side keeps the print, `texts/la` has the right side. `misprints.tsv` lists them
   (1,053 rows, 1,050 marked; 3 left unmarked, the fixed form not certain) with the source
   of each fix: the same page, the edition elsewhere, Dante's text, or a source named.
-  `scripts/misprints.py` checks the marks against the list. The scripts that compare
+  `ocr/scripts/misprints.py` checks the marks against the list. The scripts that compare
   `ocr/la` with the image read the left side; `convert_la.py` writes the right side.
 - **Known limits** (PLAN.md): the read-through has read the whole text, the commentary
   included, but a reading for sense does not see a misreading that reads well: a spelling

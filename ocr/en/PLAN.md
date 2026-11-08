@@ -12,7 +12,9 @@ written as the steps go); the conversion into `texts/en/` is described in
 
 ## State (2026-11-08)
 
-Planned; nothing started. Next: step 0.
+Step 0 done (DONE.md, "Step 0"). Next: step 1, the trial retype (`011`, `055`, `072`,
+`454`, `479`), sent to la-el-agy after the user's signal; `cmpread.py` (step 2) written
+while it runs.
 
 ## The text
 
@@ -47,11 +49,11 @@ Planned; nothing started. Next: step 0.
 0. **Setup**:
    1. `ocr/en/misprints.tsv` and `ocr/en/readcheck.tsv` with the columns of `la`
       (ocr/PLAN.md, "Decisions"); `ocr/en/DONE.md`.
-   2. `ocr/la/scripts/misprints.py` made to take the directory (moved to `ocr/scripts/`
-      if it serves all texts), and `texts/scripts/convert_en.py` taught the marks
-      (`fixed()` as in `convert_la.py`; its hyphen vocabulary from the fixed side). The
-      output of `convert_en.py` before any change kept as the baseline; `texts/en`
-      unchanged by these script changes.
+   2. `ocr/la/scripts/misprints.py` made to take the directory (moved to `ocr/scripts/`),
+      and `texts/scripts/convert_en.py` taught the marks (`fixed()` as in
+      `convert_la.py`; its hyphen vocabulary from the fixed side). The output of
+      `convert_en.py` before any change kept as the baseline; `texts/en` unchanged by
+      these script changes.
    3. `ocr/en/tesseract/`: a Makefile as `ocr/la/tesseract/Makefile`, with `-l eng+ita`
       and the three-digit page names, run over the 469 pages.
    4. The shared tools tried on `ocr/en`: `pages.py texts/en` (its page markers
@@ -66,9 +68,9 @@ Planned; nothing started. Next: step 0.
       the Italian); output one file per page, `tmp/en-retypeNN/PAGE.txt`.
 1. **Retype** (la-el-agy, Gemini 3.8 Flash; the user sets the model and gives the signal
    before each batch; the model of each batch recorded in DONE.md):
-   - **Trial**: 5 pages of different kinds: a preface page, a canto opening with the
-     argument (`055`), a canto page with long notes, a page with a note continued, an
-     index page. Checked by eye and by the script of step 2; the batch size is set from
+   - **Trial**: 5 pages of different kinds: a preface page (`011`), a canto opening with
+     the argument (`055`), a canto page with a verse note, a note continued and long notes
+     (`072`), a page of a continued note only (`454`), an index page (`479`). Checked by eye and by the script of step 2; the batch size is set from
      it (`la`'s retypes: 7–11 pages; Flash grew worse on longer batches).
    - **Batches** in page order; on each reply the next batch is sent first, then the
      returned one checked (pages present, none mixed up).
