@@ -1043,7 +1043,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
 | 1269 | 4 | `die mensi februarii` | `mensis` | Colophon (`mensis` in the next line); found by the read-through. |
 | 1270 | 28, 47, 71 | `de'di nostri`, `ma altresi con`, `nella realta delle` | `dì`, `altresì`, `realtà` | Essay; no accent visible; found by the read-through. |
 | 1276 | 58 | `et concenptum mirabilem` | `concentum` | Appendix (Bartholomaeus a Colle); found by the read-through. |
-| 1277 | 47 | `maun Conditoris` | `manu` | Appendix; found by the read-through. |
+| 1277 | 47, 67 | `maun Conditoris`, `ne porta al fuoco` | `manu`, `el` | Appendix; the lemma: Serravalle's verse (0884) `el fuoco`, and the comment above has fire as the thing carried (`Ignis ... tendit sursum`); found by the read-through. |
 | 1280 | 100 | `S'elli era l'opinione` | `erra` | Appendix lemma (the commentary `errant`); found by the read-through. |
 | 1281 | 27, 48, 104 | `in omuibus inferioribus`, `et etiam in qualitate`, `formas corum` | `omnibus`, `quantitate`, `eorum` | Appendix; `in quantitate corporum` below; the `c` is printed; found by the read-through. |
 | 1283 | 28, 46, 117 | `esser li rifracto`, `magis retrum quam`, `nix liquetit` | `lì`, `retro`, `liquefit` | Appendix lemma; no accent visible; the commentary; found by the read-through. |
