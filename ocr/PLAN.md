@@ -8,7 +8,8 @@ detours (asked by the user, 2026-11-08). The conversion into `texts/` is describ
 
 ## State (2026-11-08)
 
-Planned; nothing started. The order of the texts is set with the user.
+Planned. `en` first (decided with the user, 2026-11-08; its plan in
+[en/PLAN.md](en/PLAN.md)); the order of the other two is set later.
 
 ## The texts
 
@@ -20,8 +21,10 @@ Planned; nothing started. The order of the texts is set with the user.
 | `en-oelsner` (Temple Classics, 1903) | 416 | 104,000 | the Italian against dante-corpus, the English against `texts/en` |
 | `grc` (Musurus, 1882) | 351 | 48,000 | the verse counts and line numbers, misreadings found by a syllable count |
 
-Each has one OCR (Gemini 2.5 Flash), so plain misreadings may remain, not only shared
-ones; what no check has read is mainly prose: Carlyle's English and notes, Oelsner's notes,
+Each has one OCR, proofread once against the images by a model (the READMEs, "Credits"):
+`en` GLM-OCR proofread by Gemini 3.8 Flash, `en-oelsner` Gemini 2.5 Flash by GPT-6 Luna,
+`grc` Gemini 2.5 Flash by GPT-6.1 Sol. No second reading was compared, so plain
+misreadings may remain, not only shared ones; what no check has read is mainly prose: Carlyle's English and notes, Oelsner's notes,
 the Greek prologue, arguments and notes (la/SUMMARY.md, "What differs").
 
 ## Why three steps
@@ -68,8 +71,8 @@ From la/DONE.md:
    - The convert script of the text taught the marks (`fixed()`, as `convert_la.py`), and
      `la/scripts/misprints.py` made to take the directory; their output before any change
      is kept as the baseline.
-   - The other readings, local and free: `ocr/DIR/glm-ocr/` (GLM-OCR, [Makefile](Makefile))
-     and `ocr/DIR/tesseract/` (word boxes, a Makefile as `la/tesseract`, with the text's
+   - The other readings, local and free: `ocr/DIR/glm-ocr/` (GLM-OCR, [Makefile](Makefile);
+     not for `en`, whose base is GLM-OCR's) and `ocr/DIR/tesseract/` (word boxes, a Makefile as `la/tesseract`, with the text's
      languages and its three-digit page names; also for `wordcrop.py`).
    - A retype task template for the text, from
      [la/TEMPLATE-RETYPE.md](la/TEMPLATE-RETYPE.md): the text's conventions of `ocr/DIR`
