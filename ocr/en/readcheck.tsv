@@ -1,4 +1,5 @@
 page	line	form	decision	note
+010	1	C	misprint	cmp A; the retype and Tesseract `C`, the base `C.`; no period in the print
 011	3	The	printed	cmp B; the retype `THE`: small capitals, the first word of the preface in normal case (README.md)
 055	3	Licn	misprint	cmp B; the retype `Licn`, the base `Lion`; a `c` for the `o` in the print
 479	3	Abati	printed	cmp B; the retype `ABATI`: small capitals, the first word of the index in normal case (README.md)

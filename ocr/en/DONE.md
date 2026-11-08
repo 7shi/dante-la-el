@@ -69,3 +69,11 @@ The record of the check of `ocr/en` planned in [PLAN.md](PLAN.md), step by step.
   the baseline, `texts/en` unchanged.
 - Tesseract alone against the base is not listed: the trial gives it nothing to find.
 - The batch size: 10 pages.
+- **Retype 02** (Gemini 3.8 Flash): `005`, `009`, `010`, `012`–`018`, the title pages and
+  the preface. One place, class A: `010` the base `C.`, the retype and Tesseract `C`; no
+  period in the print: a misprint, marked `{{C|C.}}` and listed.
+- Fifteen pages, no misreading of the base; the two finds are misprints the base had
+  corrected silently, which `texts/en` corrects anyway (the user, 2026-11-08). But twelve
+  of the fifteen were the front matter: retype 03 takes ten canto pages across the book
+  (`095`, `136`, `175`, `215`, `255`, `295`, `335`, `375`, `415`, `445`), to decide whether
+  the retype goes on.
