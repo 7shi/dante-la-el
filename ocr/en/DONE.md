@@ -77,3 +77,9 @@ The record of the check of `ocr/en` planned in [PLAN.md](PLAN.md), step by step.
   of the fifteen were the front matter: retype 03 takes ten canto pages across the book
   (`095`, `136`, `175`, `215`, `255`, `295`, `335`, `375`, `415`, `445`), to decide whether
   the retype goes on.
+- **Retype 03** (Gemini 3.8 Flash): ten canto pages across the book. One place, class A:
+  `375` the verse `Pure ei pareva`, the retype and Tesseract `el`, as printed: a misread,
+  corrected (`texts/en/033-canto-27.md` with it). The first misreading of the base: in the
+  Italian, a word that still makes sense, which the comparison with dante-corpus let pass.
+  The verse quotations in the notes (`255`, `415`) the retype set one verse per line, the
+  base in one line: the layout only, set aside by the script.
