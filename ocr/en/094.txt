@@ -19,5 +19,5 @@ Ma non sì, ch’ io non discernessi in parte,
 
 1 Served Laban 14 years.
 2 The undistinguished multitudes, that crowd the dark outer parts of Limbo, are here called a “wood” of spirits; and probably not without some relation to the “dark wood” of the first canto. There Dante saw the mystic Hill, lighted by the Sun; and here he finds a Noble Castle, lighted by all that was highest amongst the Heathen.
-3 Illuminated a hemisphere of the darkness; “conquered” it, around and above, with rays of light.
+3 Illuminated a hemisphere of the {{darkuess|darkness}}; “conquered” it, around and above, with rays of light.
 

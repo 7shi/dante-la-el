@@ -93,3 +93,18 @@ The record of the check of `ocr/en` planned in [PLAN.md](PLAN.md), step by step.
   - `041` `1329;`: a colon in the print, corrected.
   - The retype wrong, the base as printed: `022` `Sì` (the retype `S̄i`, the accent set
     over the `S`) and `davanti` (`dauanti`), `029` `Cⁱ` (`Ci`), `032` `. . .` (`.`).
+- **Retype 05** (Gemini 3.8 Flash): 25 pages, `045`–`054`, `056`–`070`; all written, none
+  mixed up. 6 places, all B, no misreading of the base:
+  - Misprints the base had left unmarked or corrected: `059` `coso` for `cose` (the verse,
+    Inf. i. 40; the retype wrote `cose`), `051` `entrauce` (a turned `n`; the base wrote
+    `entrance`). Marked and listed.
+  - The retype wrong: `052` `rolling-dead` (a speck), `058` `só` (a speck), `066`
+    `lascerò` for `lascierò`, `069` `. . .` for `. . . .`.
+- **Retype 06** (Gemini 3.8 Flash): 28 pages, `071`, `073`–`094`, `096`–`100`; all written,
+  none mixed up. 11 places (A 3, B 8, C 0):
+  - Misreadings of the base: `081` `clear-ness` and `092` `quantum-cumque` (breaks at a
+    line end kept), `096` `. . .` twice for printed `. . . .`. Corrected.
+  - Misprints the base had corrected: `079` `accompauied`, `081` `aud`, `094` `darkuess`
+    (turned `n`s), `096` `tco`. Marked and listed.
+  - The retype wrong: `081` a speck read `.`, `083` `secmed`, `086` `;` for `:`, `099`
+    `Heraclitus` for `Heraclítus`.

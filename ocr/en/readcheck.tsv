@@ -16,7 +16,24 @@ page	line	form	decision	note
 034	1	IS	misread	cmp A; was `is`; small capitals, with `MANY YEARS` and `OTTIMO` on the same line
 041	5	1329:	misread	cmp A; was `1329;`
 043	5	TRANSLATIONS	misread	cmp B; was `Translations`; small capitals
+051	5	entrauce	misprint	cmp B; the retype `entrauce`, the base `entrance`; a turned `n` in the print
+052	3	rolling dead	printed	cmp B; the retype `rolling-dead`; a short mark near the baseline, lower than a hyphen: a speck or a space risen
 055	3	Licn	misprint	cmp B; the retype `Licn`, the base `Lion`; a `c` for the `o` in the print
+058	3	so	printed	cmp B; the retype `só`; a speck above the `o`
+059	13	coso	misprint	cmp B; the retype `cose`, the base `coso` as printed, unmarked
+066	8	lascierò	printed	cmp B; the retype `lascerò`
+069	25	. . . .	printed	cmp B; the retype `. . .`; four points in the print
+079	3	accompauied	misprint	cmp B; the retype `accompauied`, the base `accompanied`; a turned `n` in the print
+081	3	aud	misprint	cmp A; the retype and Tesseract `aud`, the base `and`; a turned `n` in the print
+081	29	clearness	misread	cmp B; was `clear-ness`, a break at the line end; the retype's `.` before it a speck
+083	29	seemed	printed	cmp B; the retype `secmed`
+086	5	:	printed	cmp B; the retype `;`
+092	22	quantumcumque	misread	cmp B; was `quantum-cumque`, a break at the line end
+094	22	darkuess	misprint	cmp B; the retype `darkuess`, the base `darkness`; a turned `n` in the print
+096	27	. . . .	misread	cmp A; was `. . .`; four points in the print
+096	29	. . . .	misread	cmp B; was `. . .`; four points in the print
+096	32	tco	misprint	cmp B; the retype `tco`, the base `too`; a `c` in the print
+099	3	Heraclítus	printed	cmp A; the retype and Tesseract `Heraclitus`; the accent in the print (`Hera-` / `clítus`)
 272	18	MSS.	misread	the same as `029`; was `mss.`; small capitals
 375	3	el	misread	cmp A; was `ei`; the retype and Tesseract `el`, as printed
 479	3	Abati	printed	cmp B; the retype `ABATI`: small capitals, the first word of the index in normal case (README.md)

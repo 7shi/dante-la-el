@@ -10,7 +10,7 @@ Ch’io fui per ritornar più volte vôlto.
 Tempo era dal principio del mattino;
 E il Sol montava in su con quelle stelle
 Ch’eran con lui, quando l’ Amor Divino
-Mosse da prima quelle coso belle;
+Mosse da prima quelle {{coso|cose}} belle;
 Sì che a bene sperar m’ eran cagione
 Di quella fera la gaietta pelle,
 L’ ora del tempo, e la dolce stagione:

@@ -1,3 +1,9 @@
 page	line	printed	fixed	applied	source	note
 010	1	C	C.	yes	edition	The imprint; the period after the initial did not print; the retype and Tesseract read `C`; found by the retype.
+051	5	entrauce	entrance	yes	edition	The sketch of Hell (`047`–`054`); a turned `n`; the retype reads `entrauce`, Tesseract `entrance`; found by the retype.
 055	3	Licn	Lion	yes	edition	The argument of Canto I; a `c` for the `o`; the retype reads `Licn`, Tesseract `Lion`; found by the retype.
+059	13	coso	cose	yes	dante	Inf. i. 40; the retype reads `cose`, Tesseract `coso`; found by the retype.
+079	3	accompauied	accompanied	yes	edition	The argument of Canto III; a turned `n`; the retype reads `accompauied`; found by the retype.
+081	3	aud	and	yes	edition	A turned `n`; the retype and Tesseract read `aud`; found by the retype.
+094	22	darkuess	darkness	yes	edition	Footnote 3; a turned `n`; the retype reads `darkuess`; found by the retype.
+096	32	tco	too	yes	edition	Footnote 3; `c` for the second `o`; the retype reads `tco`; found by the retype.
