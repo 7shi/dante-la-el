@@ -105,3 +105,13 @@ For errors that both OCRs share (PLAN.md, "Checks"; DONE.md, one section each).
     --lines OUT)`: for group 2 the crops of the candidates' words with the masked lines
     (`context.tsv`) for a blind reader, and the comparison of the reader's TSV with the
     forms; for group 3 each word in its lines, for a reader by the sense.
+
+## 5. The misprint marks
+
+The misprints are marked in the pages, `{{printed|fixed}}`, and listed in
+`ocr/la/misprints.tsv` (PLAN.md, "Misprint marks"); the scripts above read the left side,
+`texts/scripts/convert_la.py` the right.
+
+- `misprints.py [--fix-lines]`: checks that every applied row of `misprints.tsv` is one mark
+  at its page and line and every mark a row; with `--fix-lines` it writes the new line of a
+  mark that has moved.

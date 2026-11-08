@@ -35,7 +35,7 @@ import lemmacheck as L
 ROOT = Path(__file__).resolve().parent.parent
 WORD = re.compile(r"[^\W\d_⁰¹²³⁴⁵⁶⁷⁸⁹]+")  # superscripts are \w
 PAIRS = [("c", "e"), ("n", "u"), ("r", "t"), ("rn", "m"), ("li", "h"), ("f", "s"), ("cl", "d")]
-TABLES = ("lexcheck.tsv", "lemmacheck.tsv", "versecheck.tsv")
+TABLES = ("lexcheck.tsv", "lemmacheck.tsv", "versecheck.tsv", "misprints.tsv")
 
 
 def page_words(text):
@@ -109,7 +109,7 @@ def pair_of(a, b):
 
 
 def decided_forms():
-    """{(page, form lowercased)} decided in the tables and the misprints of PLAN.md."""
+    """{(page, form lowercased)} decided in the tables, the misprints (misprints.tsv) included."""
     out = set()
     for name in TABLES:
         tsv = ROOT / name
@@ -119,13 +119,6 @@ def decided_forms():
             if len(r) >= 3 and r[0] != "page":
                 for w in WORD.findall(r[2]):
                     out.add((r[0], w.lower()))
-    plan = (ROOT / "PLAN.md").read_text(encoding="utf-8")
-    part = plan.split("## Suspected misprints", 1)[1].split("\n## ", 1)[0]
-    for l in part.split("\n"):
-        cells = [c.strip() for c in l.split("|")]
-        if len(cells) > 4 and re.fullmatch(r"\d{4}", cells[1]):
-            for w in WORD.findall(" ".join(re.findall(r"`([^`]*)`", cells[3]))):
-                out.add((cells[1], w.lower()))
     return out
 
 

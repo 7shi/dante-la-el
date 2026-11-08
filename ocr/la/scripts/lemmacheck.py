@@ -38,8 +38,10 @@ TESS = ROOT / "tesseract"  # italic.py -t sets it
 
 
 def unmark(t):
-    """The text without the italic marks `*…*` (ocr/la/PLAN.md, "Italics"); a `*` after a
-    digit is printed (1283 `154*`) and stays."""
+    """The printed text: the misprint marks `{{printed|fixed}}` resolved to their left side
+    (ocr/la/PLAN.md, "Misprint marks") and the italic marks `*…*` removed ("Italics"); a `*`
+    after a digit is printed (1283 `154*`) and stays."""
+    t = re.sub(r"\{\{([^{}|]*)\|[^{}|]*\}\}", r"\1", t)
     return re.sub(r"(?<!\d)\*", "", t)
 sys.path.insert(0, str(ROOT.parent.parent / "texts" / "scripts"))
 from convert_la import CANTOS  # noqa: E402

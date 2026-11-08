@@ -34,8 +34,10 @@ ROOT = Path(__file__).resolve().parent.parent
 
 
 def unmark(t):
-    """The text without the italic marks `*…*` (ocr/la/PLAN.md, "Italics"); a `*` after a
-    digit is printed (1283 `154*`) and stays."""
+    """The printed text: the misprint marks `{{printed|fixed}}` resolved to their left side
+    (ocr/la/PLAN.md, "Misprint marks") and the italic marks `*…*` removed ("Italics"); a `*`
+    after a digit is printed (1283 `154*`) and stays."""
+    t = re.sub(r"\{\{([^{}|]*)\|[^{}|]*\}\}", r"\1", t)
     return re.sub(r"(?<!\d)\*", "", t)
 ROMAN = {"I": 1, "V": 5, "X": 10, "L": 50}
 SUPD = "⁰¹²³⁴⁵⁶⁷⁸⁹₀₁₂₃₄₅₆₇₈₉"

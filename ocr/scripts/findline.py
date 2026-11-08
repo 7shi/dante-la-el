@@ -46,6 +46,8 @@ def words(page):
     lines = f.read_text(encoding="utf-8").split("\n")
     out, carry = [], None
     for n, line in enumerate(lines, 1):
+        # the printed side of a misprint mark (ocr/la/PLAN.md, "Misprint marks"), no italic marks
+        line = re.sub(r"\{\{([^{}|]*)\|[^{}|]*\}\}", r"\1", line)
         ws = re.sub(r"(?<!\d)\*", "", line).split()
         if not ws:
             continue

@@ -173,7 +173,7 @@ ESSAYS = {
     "MISERABILE PUNIZIONE CHE IL POETA DÀ AL VIZIO DELL'IRA E PROFONDO INSEGNAMENTO CHE "
     "V'INCHIUSE": "Miserabile punizione che il Poeta dà al vizio dell'ira e profondo insegnamento"
                   " che v'inchiuse",
-    "LA LIBERTA UMANA E LA SUPREMA SUA LEGGE": "La liberta umana e la suprema sua legge",
+    "LA LIBERTÀ UMANA E LA SUPREMA SUA LEGGE": "La libertà umana e la suprema sua legge",  # 0668, a misprint mark
     "L'AMORE VITA DELL'UNIVERSO": "L'amore vita dell'universo",
     "IL CUORE RADICE DEL PENSIERO": "Il cuore radice del pensiero",
     "BASSEZZA DEL VIZIO DELL'ACCIDIA E SUBLIMITÀ DEL SUO CONTRAPPOSTO, LA FATICA E IL DOLORE":
@@ -249,8 +249,16 @@ CLOSING = re.compile(r"(?:FINIT|EXPLICIT) [A-Z ]+\.$")
 GLOSS = re.compile(r"\((?:[¹²³⁴⁵⁶⁷⁸⁹]+|\d{1,2})\)")  # `(1) costui. — (2) sarà.`
 
 
+# A misprint mark `{{printed|fixed}}` (ocr/la/PLAN.md, "Misprint marks"): the text keeps the fix.
+MISPRINT = re.compile(r"\{\{([^{}|]*)\|([^{}|]*)\}\}")
+
+
+def fixed(t):
+    return MISPRINT.sub(r"\2", t)
+
+
 def text_of(n):
-    return (SRC / f"{n:04d}.txt").read_text(encoding="utf-8").replace("’", "'")
+    return fixed((SRC / f"{n:04d}.txt").read_text(encoding="utf-8")).replace("’", "'")
 
 
 def marker(n, printed=True):
@@ -283,7 +291,7 @@ def esc(line):
 WORD = r"[^\W\d_]+"
 VOCAB = set()
 for f in SRC.glob("[0-9][0-9][0-9][0-9].txt"):
-    t = re.sub(r"(?<!\d)\*", "", f.read_text(encoding="utf-8")).replace("’", "'")
+    t = re.sub(r"(?<!\d)\*", "", fixed(f.read_text(encoding="utf-8"))).replace("’", "'")
     # the fragments of words hyphenated at a line end are not words
     t = re.sub(WORD + r"-\n\s*" + WORD, " ", t)
     VOCAB.update(w.lower() for w in re.findall(WORD + r"(?:-" + WORD + r")*", t))
@@ -292,12 +300,10 @@ UNDECIDED = []
 # Line-end hyphens decided by hand: the word as it is to be written.
 HYPHEN_FIXED = {}
 
-# Words broken at a line end with no hyphen printed (PLAN, Suspected misprints): the page,
-# the last word of the line and the first of the next, joined without a space.
-HYPHEN_MISSING = {
-    ("0639", "vir", "tuosus"),  # virtuosus
-    ("1165", "pere", "grini,"),  # peregrini
-}
+# Words broken at a line end with no hyphen printed: the page, the last word of the line and
+# the first of the next, joined without a space. Empty: the two such places (0639 `vir`,
+# 1165 `pere`) are misprint marks now, whose fixed side has the hyphen.
+HYPHEN_MISSING = set()
 
 
 def join_hyphen(head, tail, where):
