@@ -3,8 +3,8 @@
 This is the plan for `ocr/la`, the transcription of Serravalle's translation and commentary
 (1891), now that it is complete. The completed work (the verse, the two-OCR markup, the
 batches, the retyping, the line checks and the conversion), the checks after it (check 1,
-the verse check, the italics and check 2) and the part of the read-through done so far
-are recorded in [DONE.md](DONE.md); the read-through still to do is under "Read-through".
+the verse check, the italics and check 2) and the read-through are recorded in [DONE.md](DONE.md); the
+steps of the read-through, for the other texts, are under "Read-through".
 The "procedure" steps and the "items" cited below are those of DONE.md. The conversion into
 `texts/la/` is described in [texts/PLAN.md](../../texts/PLAN.md) ("`texts/la/`"). A short
 account of the whole work, for checking the other texts, is in [SUMMARY.md](SUMMARY.md).
@@ -18,8 +18,8 @@ apply them, do not ask again.
 for errors that both OCRs share (check 1, the verse check, the italics, check 2) are done
 (DONE.md); what they do not cover is under "Known limits".
 
-The read-through ("Read-through") is done: 0001–1296 are read and decided (0001–0400
-in `43a1f60`, `9b91553`; DONE.md, "Read-through"); the trial pages 0601–0614 were read
+The read-through ("Read-through") is done: 0001–1296 are read and decided (2026-11-05 –
+2026-11-08; DONE.md, "Read-through", with the commits of each range); the trial pages 0601–0614 were read
 again with the batches. `Eunce` (0799–0867) is the edition's spelling throughout
 Serravalle's text (the editors print `Eu[n]ce` on 0867), so it is kept as printed. The
 pages after the index (1291–1296) are blank or the library's, with nothing to read.
@@ -55,8 +55,8 @@ before: check 2, group 3, judged only its candidates. The same steps then serve
 - **Reader**: la-el-agy reads the text, not the images, and flags places; it corrects
   nothing. Every flagged place is decided in the image as above (misread, misprint,
   printed); a damaged letter is restored by the sense.
-- **Done so far** (DONE.md, "Read-through"): the tools, the trial on 0595–0614, the
-  batches of 0001–0400.
+- **Done** (DONE.md, "Read-through"): the tools, the trial on 0595–0614, the batches of
+  0001–1296.
 - **Steps** for each batch of 25 pages (`FIRST`–`LAST`):
   1. `uv run ocr/scripts/pages.py texts/la FIRST LAST -o tmp/read/FIRST-LAST.md` writes the
      pages for the reader; the task file names it and the TSV to write (page, the phrase
@@ -74,6 +74,18 @@ before: check 2, group 3, judged only its candidates. The same steps then serve
      Italian verse that differs from Dante where the Latin shows the right reading, an
      accent missing with none visible, and a sure non-word are misprints. A line-end hyphen
      kept inside an essay line is a misreading.
+     Before a place is decided printed or a misprint:
+     - a quotation of the poem outside the verse (a lemma of the commentary, of the
+       appendix 1271–1287, a verse quoted in an essay) is compared with the verse of the
+       main text and its Latin, found by searching `ocr/la` for the phrase: 1277 `ne porta
+       al fuoco`, first kept as printed for want of a verse beside it, has `el fuoco` on
+       0884 (`portat ignem`), and the comment above it carries fire upward: a misprint;
+     - a form that looks wrong on many pages is searched across the text before it is
+       listed: 0799–0867 `Eunce` is the edition's spelling (`Eu[n]ce` on 0867), and the OCR
+       had normalized it to `Eunoe` on 0810;
+     - a sentence that breaks off or a paragraph that ends in mid-sense is checked in the
+       image for the column order: a paragraph continued across columns had been put out of
+       order on 0474, 0519, 0547, 0602 and 1134.
   4. After the fixes: `texts/scripts/convert_la.py` (only the four `NO NUMBER` lines, 0099
      ×2, 0363, 0856), `ocr/la/scripts/seqcheck.py 79 1270` and
      `ocr/la/scripts/check.py 79 1287`, each compared with its previous output.
@@ -1070,7 +1082,7 @@ refer to `ocr/la/PAGE.txt` at the time of the check.
   Its group 3 (Tesseract read the form itself; 19,817 words, 0.8% misread in the trial) was
   read for sense by la-el-agy, not in the image: only the 185 words it flagged were looked
   at, so a misreading that still gives a sense (a real word, a name, a verse word) or that
-  the reader passed over may remain. The read-through ("Read-through") reads for what
+  the reader passed over may remain. The read-through ("Read-through", done) read for what
   these checks leave; it does not see a misreading that reads well (an OCR normalization,
   an accent; DONE.md, "Read-through").
 - Check 1 needs a lemma of 3 words with 2 equal to the verse, and a word within an edit

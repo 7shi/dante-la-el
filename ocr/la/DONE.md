@@ -6,8 +6,8 @@ the end, the work items, the procedure for a batch, the two-OCR markup method, w
 delegation taught, and the history. It was the body of [PLAN.md](PLAN.md) until the work
 was done; PLAN.md now holds the work still planned; check 1, the verse check,
 the italics and check 2, done, are recorded here ("Check 1", "Verse check", "Italics", "Check 2"),
-with their order and what later work takes from them ("The checks"), and so is the part of
-the read-through done so far ("Read-through"). Sections cited here that are not in
+with their order and what later work takes from them ("The checks"), and so is the
+read-through ("Read-through"). Sections cited here that are not in
 this file ("Standing rules", "Conventions settled during the check", "Suspected misprints",
 "Known limits", "Sources for checking", "Tools") are in PLAN.md. "Remaining work" in the
 text below means "Work items" here.
@@ -1268,11 +1268,10 @@ What later work takes from them:
   accents left out or added, specks read as marks; in batch 11 the tercet numbers of
   three cantos left out and reported as not printed. A report is not taken as true.
 
-## Read-through (2026-11-05 – )
+## Read-through (2026-11-05 – 2026-11-08)
 
 The last reading of `texts/la` for sense (PLAN.md, "Read-through", for its aim and the
-steps of a batch). Done so far: the tools, the trial and the batches of 0001–0400; the
-rest is in PLAN.md.
+steps of a batch). Done: the tools, the trial and the batches of 0001–1296.
 
 - **Tools** (done before the trial): `ocr/scripts/pages.py` writes the pages of
   `texts/la` for a range, cut at the page markers, for the reader; `ocr/scripts/findline.py`
@@ -1297,7 +1296,36 @@ rest is in PLAN.md.
   0221 `Vincis` for `Vineis`, two line-end hyphens kept inside an essay line on 0232, 0271
   `Depictus` for `Depictas`, 0276 a speck read as `à`, 0301 `cum` for `eum`), 76 misprints
   (48 rows added), 259 printed.
-- `readcheck.tsv` holds every decision: 822 rows after 0400.
+- **0351–0400 again** (`587af684`, `45a0dd2c`): read again on a higher model (the first
+  pass ran on a lower one, see below); 78 more places; 12 misread (ten line-end hyphens
+  restored in the summary on 0371, the visible accent of `sì` on 0382 and 0394), 16
+  misprints (16 rows added), 50 printed.
+- **0401–0600** (`425e35c5`, `ea19ee86`): 537 places, the trial pages 0595–0600 read again
+  (a place already in `readcheck.tsv` checked against its decision, not added twice); 41
+  misread on 30 pages (visible accents, damaged letters such as `potent'e`, a line-end
+  `possi-` left out on 0531, the column order of 0474, 0519 and 0547), 105 misprints (81
+  rows added), 391 printed.
+- **0601–0800** (`bade21a3`, `7f8806b4`): 585 places, the trial pages 0601–0614 read again;
+  22 misread on 18 pages (accents, damaged letters, `Denum` for `Demum`, a line doubled on
+  0662, a phrase misread on 0637 and 0653, line-end hyphens kept in the quotation of the
+  essay on 0655), 199 misprints (153 rows added), 364 printed.
+- **0801–1000** (`f6c0c45c`, `26f5ae02`): 582 places; 9 misread on 4 pages (`Eunoe` for the
+  printed `Eunce` five times on 0810, `planctam` and `plan-`/`cte` on 0847, the turned `n`
+  of `corouam` on 0951, a damaged `i` on 0987), 176 misprints (148 rows added), 397
+  printed. `Eunce` (0799–0867) was found to be the edition's spelling (`Eu[n]ce` on 0867):
+  the misprint row of 0799/0800 was removed and its two decisions set to printed.
+- **1001–1200** (`188526ec`, `80155278`): 418 places; 9 misread on 9 pages (1023 `sospiri`
+  with the raised dot of a semicolon, a doubled `tertium` on 1026, `alabau-`, `plancta` on
+  1064 and 1076, `splenderem`, `alia`, `EL`, and the column order of 1134, with the three
+  blank lines the old order left), 220 misprints (107 rows added), 189 printed.
+- **1201–1296** (`2000a919`, `3fc92642`; `be1c5a80`): 1201–1290 read, 1291–1296 blank or
+  the library's; 158 places; 3 misread (1204 `a[d]struunt` with the editors' brackets,
+  the line break of `Dionysius` / `habuit` on 1204, 1264 `mi-`/`nium`), 85 misprints (50
+  rows added), 70 printed. 1277 `ne porta al fuoco`, a lemma of the appendix, was first
+  kept as printed for want of a verse beside it; the user found the verse on 0884 (`el
+  fuoco`), and it was recorded as a misprint (`be1c5a80`).
+- `readcheck.tsv` holds every decision: 3,180 rows (124 misread, 989 misprints, 2,067
+  printed); "Suspected misprints" in PLAN.md has 853 rows.
 
 What the batches showed:
 
@@ -1315,8 +1343,26 @@ What the batches showed:
   page given wrongly (0264 for 0265) is caught when the place is cropped.
 - herdr dropped the reader's name twice (shown as `-` in `herdr agent list`); the user
   restored it each time. From 0351 the reader ran on a lower model (a rate limit): its
-  flags were as many and as well placed, with more of them on Serravalle's Latin.
-- Commits: one pair per range, when the user asked for it (0200, 0400), not per batch.
+  flags were as many and as well placed, with more of them on Serravalle's Latin; the
+  user had 0351–0400 read again on a higher model, which flagged 78 places more.
+- Commits: one pair per range, when the user asked for it (0200, 0400, 0600, 0800, 1000,
+  1200, 1296), not per batch.
+
+What the later batches added (0401–1296; the rules drawn from them are in PLAN.md,
+"Read-through", step 3):
+
+- The misreadings stayed few (84 in 0401–1296), but of kinds no check had looked for: a
+  paragraph continued across two columns put out of reading order (0474, 0519, 0547,
+  1134), a line doubled or a line-end word left out, an accent the OCR dropped where the
+  image shows it.
+- A form that looks like a misprint on many pages may be the edition's spelling: `Eunce`
+  (0799–0867) was listed as a misprint until the editors' `Eu[n]ce` on 0867 was found;
+  the OCR had normalized it on 0810.
+- The share of misprints rose in the Paradiso (220 of 418 places in 1001–1200, 85 of 158
+  in 1201–1296), in the verse, the commentary and the essays alike.
+- A quotation of the poem with no verse beside it (the appendix 1271–1287) is still
+  compared with the verse of the main text: 1277 `al fuoco` was kept as printed until the
+  verse on 0884 showed `el fuoco`.
 
 ## Work items 1–10 (all done)
 
