@@ -33,7 +33,7 @@ est necessaria ad salutem, tam de fide, quam de spe, quam
 caritate, quam etiam de aliis), priusquam mors tempus sibi
 prescribat (idest antequam mors rapiat eum. Nota, quod
 prescriptio est alicuius rei possessio per tempus datum a
-iure cum bona fine; quia possessor male fidei nullo tem-
+iure cum bona {{fine|fide}}; quia possessor male fidei nullo tem-
 pore prescribit. Tertio de Regulis iuris in sexto Bonifacii.
 Quando mors interficit hominem, tunc totum tempus post
 mortem eius dicitur prescriptum; ita quod Dantes ante

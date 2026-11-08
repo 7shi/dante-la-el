@@ -103,6 +103,6 @@ Ecclesie; nec debent comburi nisi obstinati. Ista talia se-
 pulchra ponuntur separata ab aliis penis, in signum quod
 consortia et collegia hereticorum, semper communiter se-
 parata a consortio hominum, per comitatum, non stant in
-civitatibus. Ponuntur heretici iu archis, sive sepulchris, ad
+civitatibus. Ponuntur heretici {{iu|in}} archis, sive sepulchris, ad
 denotandum quod vitium heresis est communiter occultum,
 sepultum quasi occulte in mentibus hereticorum. Carna-

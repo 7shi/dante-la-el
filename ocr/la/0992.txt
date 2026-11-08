@@ -2,7 +2,7 @@
 
 PARADISI
 
-28 E dentro alcun sentii cominciar: Quando
+28 E dentro {{alcun|all'un}} sentii cominciar: Quando
 Lo raggio de la gratia, onde s'accende
 Verace amor, e che poi cresce amando,
 29 Moltiplicato in te tanto risplende,
@@ -48,7 +48,7 @@ terunt a circuire, auctor sumpsit bonam spem de sciendo
 quod optabat, scilicet quis ille esset, qui postmodum lo-
 quutus est sibi, et qui essent sui sotii. Notandum quod
 iste erat spiritus Sancti Thome de Aquino. Aquinum est
-una civitas in regno Apulic, prope Campaniam Rome. Hic
+una civitas in regno {{Apulic|Apulie}}, prope Campaniam Rome. Hic
 fuit magnus doctor, sanctus, qui multa volumina librorum
 composuit. Scripsit super totam loyicam Aristotilis; super
 tota philosophia naturali et morali; scripsit super Senten-

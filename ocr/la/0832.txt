@@ -13,7 +13,7 @@ Che m'intenda colui che di là piagne,
 Perchè sia colpa e duol d'una misura.
 37 Non pur per ovra delle rote magne,
 Che drizzan ciascun seme ad alcun fine,
-Secondo che le rote son compagne;
+Secondo che le {{rote|stelle}} son compagne;
 38 Ma per larghezza di gratie divine,
 Che sì facti vapor han a lor piova,
 Che nostre viste là non van vicine,
@@ -86,7 +86,7 @@ influit Iuppiter coniunctus cum Saturno, et aliter coniun-
 ctus cum Venere, vel cum Marte; aliter influit sol quando
 est in Ariete, et aliter quando in Tauro); sed propter
 largitatem gratie divine, que ita altos vapores habet ad
-corum pluvium, quod nostre visiones ibi non vadunt vicine,
+{{corum pluvium|eorum pluviam}}, quod nostre visiones ibi non vadunt vicine,
 idest quod nostri intellectus non possunt tantum videre
 nec considerare.
 

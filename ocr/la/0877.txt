@@ -15,7 +15,7 @@ Segnata nel mio capo manifesti (20),
 Venir, e coronarmi (23) de le fogle
 Che (24) la materia (25) e tu mi fara' degno
 
-(1) in superioribus Canticis — (2) Cyheron — (3) monte — (4) suffecit mihi — (5) in hac tertia Cantica — (6) Cytheron et Elycon —
+(1) in superioribus Canticis — (2) {{Cyheron|Cytheron}} — (3) monte — (4) suffecit mihi — (5) in hac tertia Cantica — (6) Cytheron et Elycon —
 (7) opus est mihi — (8) cursum operis residui — (9) mente vel corde — (10) insuffla tu — (11) tali modo — (12) Satyro — (13) extraxisti —
 (14) pelle, excoriando eum — (15) gratia — (16) concedi — (17) in tanta quanta — (18) ymagine — (19) beato regno — (20) per con-
 templationem vel ymaginationem narrem aliis — (21) ad stipitem — (22) lauro — (23) tamquam Poeta — (24) quarum — (25) altitudo
@@ -86,7 +86,7 @@ Marsia est sophista verbosus, qui non habet nisi verba.
 Apollo detexit errores suos, scilicet Marsie, et ostendit
 omnibus fallacias ipsius. Sunt etenim sapiens et sophista
 veluti duo utres, unus plenus bono vino, alius plenus
-flato sive vento. Qui utres, licent sint eiusdem magnitu-
+flato sive vento. Qui utres, {{licent|licet}} sint eiusdem magnitu-
 dinis, unus tamen est plenus bono liquore, alter solum
 vento, qui, perforatus acu, subito evanescit. Sic facit sa-
 piens: acu, scilicet veritate, perforat utrem ventosum, et

@@ -10,7 +10,7 @@ E disse: Tace, maledetto lupo,
 Consuma dentro te co' la tua rabbia.
 4 Non è senza cagion l'andar al cupo:
 Vuolsi nell'alto là (2) dove Michele
-Fe'la vendetta dell'eterno strupo.
+Fe'la vendetta dell'{{eterno|superbo}} strupo.
 5 Quali dal vento le gonfiate vele
 Caggion avolte, poi che l'arbor fiacha;
 Tal cadde a terra la fiera crudele.
@@ -40,7 +40,7 @@ Sic cecidit in terram fera crudelis.
 Capiendo plus de dolenti ripa,
 Que malum universi totum insacchat.
 7 Ay iustitia Dei, tanta est que stipat
-Nova tormenta et penas quoquot vidi!
+Nova tormenta et penas {{quoquot|quotquot}} vidi!
 Et quare nostra culpa se dividit?
 8 Sic[ut] facit unda ibi super Caribdi,
 Que se frangit cum illa cui obviat,
@@ -104,5 +104,5 @@ habet unam lineam in medio. Prodigi stant ex una parte
 circuli, dextera: avari stant ex alia parte, sinistra, et habent
 saxa magna rotunda et gravia et vadunt versus medium:
 avari vadunt contra prodigos, et e converso: avari *per*
-*rim*, idest per fortitudinem, *puppis*, idest mammille, per-
+*{{rim|vim}}*, idest per fortitudinem, *puppis*, idest mammille, per-
 cutiunt prodigos volventes illa saxa magna, gravia, rotunda;

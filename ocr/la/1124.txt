@@ -4,9 +4,9 @@ PARADISI
 
 9 Dentr'al cristallo, che'l vocabol porta,
 Cerchiando'l mondo, del suo caro duce,
-Sotto cui giacque ogni militia morta,
+Sotto cui giacque ogni {{militia|malitia}} morta,
 10 Di color d'oro, in che raggio traluce,
-Vid'io uno scalco erecto in suso
+Vid'io uno {{scalco|scaleo}} erecto in suso
 Tanto, che nol seguiva la mia luce.
 11 Vidi anco per li gradi scender giuso
 Tanti splendor, ch'i' pensai ch'ogni lume
@@ -32,7 +32,7 @@ Vidi ego unum gradum erectum versus sursum
 Tantum, quod ipsum non sequebatur mea lux.
 11 Vidi etiam per gradus descendere infra
 Tot splendores, quod ego cogitavi quod omne
-[bonum
+[{{bonum|lumen}}
 Quod apparet in celo, inde esset diffusum.
 12 Et sicut, propter naturalem morem,
 Pole simul, in principio diei,

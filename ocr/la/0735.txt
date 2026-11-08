@@ -8,7 +8,7 @@ Cerchar mi fe' più che'l quarto centesmo (2).
 32 Tu (3) dunque che levato m'hai il coperchio
 Che m'ascondeva quanto ben io dico,
 Mentre che del salir havian soperchio (4),
-33 Dimmi dov'è Terentio nostro amico,
+33 Dimmi dov'è Terentio nostro {{amico|antico}},
 Cecilio, Plauto, Varro, se lo sai,
 Dimmi se son dannati, et in qual vico (5).
 34 Costoro, e Persio, et io, et altri assai,
@@ -36,7 +36,7 @@ Cecilio, Plauto et Varro, si tu scis,
 Dic michi si sunt dampnati, et in quo vico.
 34 Isti, et Persius, et ego, et alii multi,
 Respondit dux meus, sumus, cum illo Greco
-Quem musse lactaverunt plusquam alium unquam,
+Quem {{musse|muse}} lactaverunt plusquam alium unquam,
 35 In primo circulo carceris ceci.
 Sepe ratiocinamur de monte,
 Qui habet memorias nostras semper secum.

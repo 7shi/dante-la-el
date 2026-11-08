@@ -52,7 +52,7 @@ Vel quod ira, vel quod conscientia, eum morderet,
 Fortiter spingabat cum ambabus plantis.
 
 Sanctus Mathias, ut patet in Actibus Apostolorum. Ideo
-stes ibis, idest remane, quia tu es bene, idest iuste, puni-
+stes {{ibis|ibi}}, idest remane, quia tu es bene, idest iuste, puni-
 tus: et custodi bene male ablatam *monetam*; idest, quam
 tulisti, sive acquisivisti, per symoniam; que te esse fecit
 audacem contra Karolum. Quia propter divitias, quas de-

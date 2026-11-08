@@ -13,7 +13,7 @@ Fratris Thome, et discretum latinum;
 Et movit mecum istam sotietatem.
 
 fuit propheta, de quo habetur in rubrica De Summa Tri-
-nitate et fide catholica, capitulo Dampuamus. Hic compo-
+nitate et fide catholica, capitulo {{Dampuamus|Dampnamus}}. Hic compo-
 suit multos libros. Inter alios fecit librum, qui vocatur
 Papalista, in quo descripsit figuras Summorum Pontificum.
 

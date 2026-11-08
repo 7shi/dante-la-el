@@ -8,7 +8,7 @@ se; ita Dantes recucurrit ad dominum Cacciagui-
 dam, propter certificari de hiis que contra se au-
 dierat tam in Inferno quam in Purgatorio, rogans
 ipsum, ut ipsum declaret de hiis, quia sagipta
-previsa lentius nocet. Cui respondidit dominus Cac-
+previsa lentius nocet. Cui {{respondidit|respondit}} dominus Cac-
 ciaguida, non per ambages, sed per verba clara,
 declarans sibi, quod ipse erat expellendus de Flo-
 rentia, et quomodo oportebat eum dimictere res
@@ -17,7 +17,7 @@ non propter suos defectus; sed propter suum be-
 nefacere expelletur, sicut fuit expulsus Ypolitus
 de Athenis, etc. Demum predicit sibi remedium
 quod habebit, scilicet quod dominus Mastinus De
-la Scala recipiet cum benigne, et antequam Dantes
+la Scala recipiet {{cum|eum}} benigne, et antequam Dantes
 petat, ille sibi subveniet; et confortat eum, quia ipse
 videbit vindictam inimicorum suorum. Tunc au-
 ctor dixit: Sum paratus sustinere omnes persecu-

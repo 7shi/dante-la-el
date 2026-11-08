@@ -43,7 +43,7 @@ dernis, magnis alchimistis.
 In quarta, que incipit ibi:
 
 Ed io disse al Poeta;
-Et ego dixi Po te,
+Et ego dixi {{Po te|Poete}},
 
 auctor facit unam exclamationem et irrisionem gentis
 senensis.

@@ -8,7 +8,7 @@ Se d'esser mentovato laggiù degni.
 29 Martia piacque tanto agl'ochi mei,
 Mentre ch'io fui di là, diss'elli allora,
 Che quante gratie volse da me, fei.
-30 Hor che di là dal mar io fo dimora,
+30 Hor che di là dal {{mar io|mal fiume}} fo dimora,
 Più muover non mi può per quella legge
 Che facta fu quando me n'uscii fuora.
 31 Ma se donna del ciel ti muove e regge

@@ -39,7 +39,7 @@ Et illud quod sperat omnis fidelis, sicut ego,
 Traxerunt me de mare amoris tortuosi,
 Et recti amoris posuerunt me ad ripam.
 22 Frondes, unde refrondatur totus hortus
-Ortolani eterni, quero ego tantum,
+Ortolani eterni, {{quero|amo}} ego tantum,
 Quantum est ab eo illis de bono porrectum.
 23 Sicut ego tacui, unus dulcissimus cantus
 Resonuit per celum; et mea domina

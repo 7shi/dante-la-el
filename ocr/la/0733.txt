@@ -4,7 +4,7 @@ CAPITULUM VICESIMUMSECUNDUM
 
 17 E sappi che la colpa, che rimbeccha
 Per dricta opposition alcun peccato
-Commesso, insieme qui suo veder secca.
+Commesso, insieme qui suo {{veder|verde}} secca.
 18 Però, s'io son tra quella gente stato
 Che piange l'avaritia, per purgarmi,
 Per lo contrario (1) suo m'è incontrato.
@@ -22,7 +22,7 @@ Verso Parnaso a ber ne le sue grotte,
 E primo, verso Dio, m'illuminasti.
 
 (1) prodigalità — (2) o Statio — (3) crudeli — (4) Etyocle e Polinice — (5) lor madre — (6) Virgilio — (7) versi — (8) Musa —
-(9) tocha — (9) crystiana.
+(9) tocha — {{(9)|(10)}} crystiana.
 
 17 Et scias quod culpa, que rimbeccat
 Per rectam oppositionem aliquod peccatum

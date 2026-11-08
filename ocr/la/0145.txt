@@ -97,7 +97,7 @@ allegando multos alios peccasse in vitio suo. Aliqui miseri,
 quando reprehenduntur de aliquo vitio, excusant se sic:
 Quare corrigis me, quia et multi hoc faciunt?
 
-*Ego respondidi: Ciacche, tua pena me gravat in tan-*
+*Ego {{respondidi|respondi}}: Ciacche, tua pena me gravat in tan-*
 *tum, quod me invitat ad lacrymandum*.
 *Ma dimme, se tu sai*. *Sed dic michi, si tu scis*: hec est
 tertia pars huius capituli, in qua auctor interrogat hunc

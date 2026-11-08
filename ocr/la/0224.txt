@@ -93,7 +93,7 @@ quod omnia sua consilia secreta ibant per manus istius
 domini Petri. Iste per invidiam fuit diffamatus apud Im-
 peratorem; et sic periit. Sed notetur hic modus pericli-
 tationis istius domini Petri. Quia iste erat ita magnus,
-consilia Imperatoris et oinnia facta Imperii ibant et tran-
+consilia Imperatoris et {{oinnia|omnia}} facta Imperii ibant et tran-
 sibant per manus suas, et omnes sibi invidebant, tunc
 cogitaverunt viginti homines de curia Imperatoris istum
 Petrum destruere, sicut evenit; et composuerunt falso

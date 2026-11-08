@@ -25,7 +25,7 @@ abbatia, que est in civitate Colonie. Isti ypocrite
 sunt quasi picti et vadunt circuendo per unam
 vallem, et vadunt lente propter gravissima pon-
 dera capparum. Vadunt plorando, et sunt continue
-fessi, et vadunt veilata facie, quia trahunt caputia
+fessi, et vadunt {{veilata|velata}} facie, quia trahunt caputia
 sua ante faciem suam, cooperiendo eam cum dictis
 caputiis. Iste incessus istorum bene indicat mores
 ypocritarum, qui de foris apparent aurum, intus

@@ -24,7 +24,7 @@ Qui fuerunt sicut ensis ad Scripturas
 In reddendo tortuosos rectos vultus.
 44 Non sint gentes nimis secure
 Ad iudicandum, sicut ille qui extimat
-Blada in campo prius quam sit matura:
+Blada in campo prius quam {{sit|sint}} matura:
 45 Quia ego vidi in tota yeme prius
 Prunum monstrare se rigidum et ferox,
 Portare rosam postea super summitatem.

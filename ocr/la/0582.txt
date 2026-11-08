@@ -67,7 +67,7 @@ paulo ante nobis dixit: Ite illuc: ibi est porta.
 Et ipsa vestros passus in bonum avanzet, idest promo-
 veat, reincepit curialis portanarius: venite igitur nostros
 gradus ante. Nam sacerdos, [qui] perpendit personam ire
-cum bona intentione ad contitendum, neminem debet rei-
+cum bona intentione ad {{contitendum|confitendum}}, neminem debet rei-
 cere aut excludere, sed dicere: Illa divina gratia, que te
 conduxit, de bono in melius te faciat procedere.
 

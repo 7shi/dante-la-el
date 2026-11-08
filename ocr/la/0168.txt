@@ -11,7 +11,7 @@ Vermigle, come se di fuoco escite
 25 Fosser. Et ei mi disse: El fuoco eterno
 Ch'entro l'affuoca (1), le dimostra rosse,
 Come tu vedi in questo basso Inferno.
-26 Noi pur giugnemmo dentro all'altre fosse,
+26 Noi pur giugnemmo dentro {{all'altre|alte}} fosse,
 Che vallan quella terra sconsolata:
 Le mura mi parean che ferro fosse.
 27 Non senza prima far grande girata,

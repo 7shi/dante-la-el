@@ -30,7 +30,7 @@ E sopra lor ogni vapor si spegne.
 Derivatur sic a nostro mundo,
 Quare nobis apparet solummodo in isto vivagno?
 42 Et ipse ad me: Tu scis quod locus est rotundus,
-Et quamquem tu veneris multum
+Et {{quamquem|quamquam}} tu veneris multum
 Plus ad sinistram infra descendendo ad fundum,
 43 Non es adhuc per totum circulum versus;
 Ex quo, si nobis apparet res nova,
@@ -96,7 +96,7 @@ vel tormentum sanguineum.
 
 Lethe videbis, sed extra istam fossam: idest extra istum
 Infernum, ubi vadunt anime ad lavandum se; que culpa,
-*pentula*, purgata per penitentiam, est remossa, idest am-
+*{{pentula|pentuta}}*, purgata per penitentiam, est remossa, idest am-
 mota: quasi dicat: Licet alii poete ponant Lethe in Inferno;
 ego vero, qui sum christianus, in Purgatorio; quia, pur-
 gatis peccatis, anime bibunt de illa aqua, ut obliviscantur

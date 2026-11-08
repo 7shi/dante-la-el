@@ -72,9 +72,9 @@ tuli, in qua auctor movet unum dubium Sancto Benedicto,
 de quo sibi respondet. Primo tamen auctor ostendit se
 noscere bonam affectionem erga eum illorum spirituum,
 dicens: Et ego ad eum, scilicet Sanctum Benedictum: Af-
-fectus, quem demonstras mecum loquendo, et bona *sen-*
+fectus, quem demonstras mecum loquendo, et bona *{{sen-|sem-}}*
 *bianza*, idest similitudo, vel apparentia, quam ego noto et
-video in cunctis ardoribus vestris, sic michi dilactavit
+video in cunctis ardoribus vestris, sic michi {{dilactavit|dilatavit}}
 meam fiduciam, sicut sol facit rosam, quando aperta tantum
 devenit, quantum ipsa habet de potentia. Bona comparatio.
 Idest sicut sol dilatat rosam quantumcumque dilatari po-
@@ -103,7 +103,7 @@ rium; in illa sola, omnis pars eius, scilicet prime spere,
 ubi est, semper erat; idest nulla pars eius mutat locum
 (nam alii celi, qui circulariter moventur, licet non mutent
 locum quantum ad totum, partes eorum mutant locum;
-sed prima spera, nec quod ad se totam, nec quoad aliquam
+sed prima spera, nec {{quod|quoad}} ad se totam, nec quoad aliquam
 eius partem, mutat locum, quia est omnino immobilis);
 quia non est in loco, nec impolat se, idest non volvitur
 136

@@ -11,7 +11,7 @@ Gl' ochi de la mia donna mi levaro,
 39 E poscia per lo ciel, di lume in lume,
 Ho io appreso quel, che, s'io 'l ridico,
 A molti fie sapor di forte acume;
-40 E s'io al vero son intimo amico,
+40 E s'io al vero son {{intimo|timido}} amico,
 Temo di perder vita tra coloro
 Che questo tempo chiameranno antico.
 41 La luce, in che ridea el mio thesoro,
@@ -91,8 +91,8 @@ magis corusca, idest clara, vel lucens, sicut ad radium
 solis speculum aureum.
 
 Inde respondit, idest sic: Conscientiam fuscam (idest
-obscuram, scilicet sibi, sive conscia de malo) vel proprio,
-vel alterius verecundie, se setiet omnino in tua loquela
+obscuram, scilicet sibi, sive conscia de malo) vel {{proprio|proprie}},
+vel alterius verecundie, se {{setiet|sentiet}} omnino in tua loquela
 aspera: idest, se recognoscet, vel sentiet tuam loquelam
 asperam.
 

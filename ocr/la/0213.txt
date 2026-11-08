@@ -68,7 +68,7 @@ mus Chyronti ibi de propinquo: male fuit velle tuum sem-
 per sic citum, sive velox; idest, pro malo semper fuisti tam
 velox in volendo, scilicet non licita.
 
-*Demum temptarit*: idest, tetigit me; scilicet, magister: et
+*Demum {{temptarit|temptavit}}*: idest, tetigit me; scilicet, magister: et
 dixit: Ille est Nexus, qui moriebatur propter pulchram
 Deyaniram, et fecit de se vindictam ipsemet. Et ille, qui est
 in medio, qui suum pectus intuetur, est magnus Chyron,

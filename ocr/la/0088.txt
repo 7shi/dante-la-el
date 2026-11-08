@@ -35,7 +35,7 @@ bracchi. Et non curo hic tractare, utrum omnes canes sint
 eiusdem speciei, aut differant in specie; saltem differunt
 in quantitate, qualitate et utilitate. Una species canum est,
 cuius supposita, seu individua, in Florentia et Thuscia, vo-
-cantur veltri. Tales maxime nimicantur lupis et sequuntur,
+cantur veltri. Tales maxime {{nimicantur|inimicantur}} lupis et sequuntur,
 plus quam alii canes, per excellentiam.
 Secundo, notandum est de Feltro, quid auctor intelligat
 per Feltrum. Unde sciendum est, quod in hoc passu varii
@@ -110,7 +110,7 @@ in Infernum.
 *Unde invidia ipsam primo extraxit*: hic notandum est,
 quod auctor in hoc loco sequitur sacram Scripturam in fine
 secundi capituli libri Sapientie, ubi sic scribitur: Invidia
-autem diaboli, mors intravit in orbem terram; imitantur
+autem diaboli, mors intravit in orbem {{terram|terrarum}}; imitantur
 autem illam qui sunt ex parte illius. Diabolus, videns se
 de celo eiectum et in Inferno dampnatum, previdens quod
 genus humanum debebat in celum transportari et ad bea-

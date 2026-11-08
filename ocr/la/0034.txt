@@ -21,7 +21,7 @@ carta 50 in cima ad ogni due facciate del volume, l'una ha la parola *Inf*., e l
 numero d'ordine del canto in cifre arabe. A carte 125, a tergo, ha fine l'Inferno, e dopo una carta
 bianca, con la 127 comincia il Purgatorio, premessi i *Preambula* come stanno a pagina 425 di questo
 libro; sol che noi lasciammo il titolo che vi si legge, cioè *Secunda Comedia, sive Purgatorium Dantis*.
-A carte 234, a tergo, termina il Commento del Purgatorio e la scrittura della seconda mano: la quale
+A carte 234, a tergo, termina il Commento del Purgatorio e la scrittura della {{seconda|terza}} mano: la quale
 è molto più unita e regolare della prima, ha i righi profilati ed eguali, lunghi ciascuno tredici cen-
 timetri e mezzo; e tenendosi più stretta, con lo stesso numero di righi per ogni facciata, lascia da
 ogni parte ampio margine, cioè di cinque centimetri al lato esterno ed in fondo, tre e mezzo in cima

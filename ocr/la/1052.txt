@@ -42,7 +42,7 @@ Signo mortalium se supra posuit.
 Fuit ita evacuatus, quod sermo descendit
 Versus signum nostri intellectus;
 
-ubi erat Anchises, pater suus fuit, fuit, scilicet Eneas, pie
+ubi erat Anchises, pater suus {{fuit, fuit,|fuit,}} scilicet Eneas, pie
 susceptus a patre suo, cum dulcibus verbis in Elysio; idest in
 campo Elysio, ubi, secundum opinionem Virgilii et Platonis,
 stant anime illustrium virorum: vocat hic auctor librum Vir-

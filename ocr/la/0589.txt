@@ -45,7 +45,7 @@ huius capituli, in quo tractatur de via, quam ituri erant;
 primo namque iverunt super unum lapidem, qui continue
 movebatur. Hoc habet figurare, quod ille [qui] incipit re-
 linquere vitia et sequi virtutes, oportet eum uti magna
-arte, ne, voleus recedere ab uno extremo vitioso, incidat
+arte, ne, {{voleus|volens}} recedere ab uno extremo vitioso, incidat
 ad aliud: sicut volens fieri liberalis, existens avarus, ca-
 veat ne fiat prodigus.
 Nos ascendebamus per unam petram scissam, idest di-

@@ -69,7 +69,7 @@ genitivus pluralis numeri est Malacotht, idest regnorum.
 Or, modo, apparuit Danti, quod illa substantia Iustiniani,
 idest anima, cantaret talem cantum: Osanna, o Sanctus Deus
 Sabaoth, scilicet exercituum, qui es superillustrans, idest
-illuminans, claritate tua, idest splendore tuo inneffabili, hos
+illuminans, claritate tua, idest splendore tuo {{inneffabili|ineffabili}}, hos
 ignes felices, hos spiritus ignitos igne Spiritus Sancti, et
 beatos horum regnorum, idest locatorum in hiis regnis,
 idest speris. Salva: idest, salvando; alias, salvas. Et dicit

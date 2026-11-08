@@ -66,7 +66,7 @@ tem, et cum filiabus Chirontis commorabatur die noctuque,
 postquam ipse devenit ad tempus adultionis, et idem acci-
 debat Diademie, filie Chirontis, ipsi duo commiscuerunt se
 invicem carnaliter: nec poterat reperiri Achilles, quia nemo
-noscebat eum, cum esset indutus vestibus mulicbribus.
+noscebat eum, cum esset indutus vestibus {{mulicbribus|muliebribus}}.
 Tamen Ulixes scivit sic explorare ab oraculo Dei Apollinis,
 quod habuit tale responsum: scilicet ubi reperiretur una
 mulier, que delectaretur in armis, ut in ense, gladio, in pu-

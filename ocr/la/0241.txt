@@ -25,7 +25,7 @@ Tu lo vedrai, però qui non si conta.
 
 35 Intra montem stat rectus unus magnus vetus,
 Et tenet versa terga versus Damiatam,
-Et Romam respicit tumquam suum speculum.
+Et Romam respicit {{tumquam|tamquam}} suum speculum.
 36 Caput suum est de fino auro formatum,
 Et purum argentum sunt brachia et pectus,
 Postea est de ere usque ad inforcatam:
@@ -53,7 +53,7 @@ dici: idest, ut una fida nutrix fideliter nutriret illum filium
 in ea, idest in silva et in montanea Yda.
 
 *Dentro*: intus, in monte, stat unus grandis, idest magnus,
-*reglius*, idest antiquus, qui vertit terga, *le spalle*, versus
+*{{reglius|veglius}}*, idest antiquus, qui vertit terga, *le spalle*, versus
 Damiatam (est una civitas in Egipto), et Romam respicit
 sicut suum *speglium*, idest speculum.
 Nota quod Damiata est una civitas in Egipto, in qua

@@ -45,8 +45,8 @@ Sed hic oritur dubium; nam dixit in capitulo immediate
 precedenti:
 Tempo era del principio del mattino:
 
-tempus erat matitunale, idest mane, circa ortum solis.
-Respondetur, quod posuit tempus matitunale, quando
+tempus erat {{matitunale|matutinale}}, idest mane, circa ortum solis.
+Respondetur, quod posuit tempus {{matitunale|matutinale}}, quando
 habuit sompnialem visionem; quod tempus dicitur congruum
 ad habendum visionem non procedentem ex crapula, etc.,
 ut est dictum in capitulo precedenti. Hic, modo, describitur

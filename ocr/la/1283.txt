@@ -25,7 +25,7 @@ et instabis iterum contra me, dicens: Quare ostenditur te-
 trum illud, idest turbidum et nigrum, ibi, idest in illo loco
 lune, ubi videntur ille tres umbre predicte, radius solis,
 qui percutit eam magis quam in aliis partibus eiusdem
-lune? *Per esser li rifracto più adietro*? Idest, dices tu
+lune? *Per esser {{li|lì}} rifracto più adietro*? Idest, dices tu
 quomodo hoc sit, quod radius ille repercutitur ibi magis
 retro quam in aliis partibus lune? Et de hoc interrogat eum
 Beatrix, quia hec est causa quam multi assignant super
@@ -43,7 +43,7 @@ rientia que probabit quod predictum est, scilicet quod
 corpus lunare non deberet ostendere aliquam nigredinem,
 quia sol refrangeretur magis retro ibi quam in aliis par-
 tibus lune, est ista, quod capiantur tria specula et ponan-
-tur ante oculos alicuius hominis, unum magis retrum quam
+tur ante oculos alicuius hominis, unum magis {{retrum|retro}} quam
 alia duo, que debent poni in pari distantia. Et retro ad
 illum hominem ponatur lumen, quod respiciat omnia illa
 specula, et videbit ille homo quod lumen illud quod sibi
@@ -114,7 +114,7 @@ seu turbinem, sicut nec maior. —
 declaravit Danti predicta, et veram causam assignavit sue
 false opinionis, facit, seu reddit, eum attentum ad veram
 rationem turbi[ni]s lune; et inducit similitudinem quod si-
-cut nix liquetit ex calore solis et nudus remanet lapis vel
+cut nix {{liquetit|liquefit}} ex calore solis et nudus remanet lapis vel
 mons vestitus ex ea, ita intellectum Dantis nudatum falsa
 opinione ex calore suo vult informare nunc veritate lucida
 et splendenti sicut stella. Ait ergo: *Hor com'a colpi*. Idest,

@@ -22,7 +22,7 @@ Stanno e ranochi pur col muso fuori,
 Sì che celano e piedi e l'altro grosso;
 10 Sì stavan d'ogni parte e peccatori:
 Ma come s'appressava Barbariccia,
-Così si ritrhaen sotto e bollori.
+Così si {{ritrhaen|ritrahen}} sotto e bollori.
 
 (1) el dosso.
 

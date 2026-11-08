@@ -13,10 +13,10 @@ Lor a parlar di me; e cominciarsi (1)
 A dir: Colui non è corpo fictitio.
 5 Poi verso me, quanto potean farsi,
 Certi si feron, sempre con riguardo
-Di non usar dove (2) non fusser arsi (3).
+Di non {{usar|uscir}} dove (2) non fusser arsi (3).
 6 O tu, che vai, non per esser più tardo,
 Ma forse (4) reverente, agl'altri dopo,
-Risponde a me che 'n sete et in foco ardo.
+{{Risponde|Rispondi}} a me che 'n sete et in foco ardo.
 7 Non sol a me la tua risposta è huopo;
 Chè tutti questi n'hanno maggior sete
 Che d'acqua fredda d'Yndo o d'Etyopo.
@@ -24,7 +24,7 @@ Che d'acqua fredda d'Yndo o d'Etyopo.
 Al sol, come se tu non fossi ancora
 Di morte entrato dentro da le rete (5).
 
-2 Fericbat me sol super humerum dextrum,
+2 {{Fericbat|Feriebat}} me sol super humerum dextrum,
 Qui iam, radiando, totum occidentem
 Mutabat in album aspectum celestrem:
 3 Et ego faciebam cum umbra magis roventem

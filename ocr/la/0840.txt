@@ -93,7 +93,7 @@ quam nihil cogitabas, sic te fefellit propter meam mortem,
 qualis res mortalis, idest transitoria, debebat te postea
 trahere in suum desiderium?
 Bene te debebas, propter primam sagiptam rerum falla-
-rium, levare sursum retro et sequi me, supple, quia non
+{{rium|cium}}, levare sursum retro et sequi me, supple, quia non
 eram plus talis, idest mortalis.
 Non debebant te gravare penne infra ad expectandum
 plures ictus, sive Pargolecta idest esset, sive aliqua vanitas,

@@ -89,7 +89,7 @@ dia. Matthei quinto habetur: Beati qui lugent, quoniam ipsi
 consolabuntur: idest, Beati qui lugent peccatum accidie,
 qui lugent se fuisse pigros et tardos et negligentes erga
 Deum, primum su[mm]um ens, etc., quoniam consolabuntur.
-*Animas domns*: idest potestatem et vim consolandi se.
+*Animas {{domns|domnas}}*: idest potestatem et vim consolandi se.
 
 Quid habes, quod solum versus terram respicis? dux
 meus incepit michi dicere, modicum ambo ab angelo sur-

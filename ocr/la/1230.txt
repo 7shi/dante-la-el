@@ -28,7 +28,7 @@ Qui moritur fame et expellit nutricem.
 48 Et fiet prefectus in foro divino
 Tunc talis, qui palam et coopertus
 Non ibit ibi secum per unum iter.
-49 Sed modicum postea adeo sustinebitur
+49 Sed modicum postea {{adeo|a Deo}} sustinebitur
 In sancto officio; quod erit detrusus
 Ibi ubi est Symon Magus propter sua merita,
 Et faciet illum de Anania intrare magis infra.
@@ -80,7 +80,7 @@ quod erit detrusus ibi ubi est Symon Magus, idest in cir-
 culo illo, sive in illa Malibolgia, ubi est Symon Magus, ut
 dictum est in decimo capitulo Inferni; et faciet illum de
 Anania, idest papam Bonifacium octavum, qui erit sepul-
-tus, intrare magis intra, idest inferius descendere. Nam, ut
+tus, intrare magis {{intra|infra}}, idest inferius descendere. Nam, ut
 dictum fuit in capitulo decimonono Inferni, est unus puteus,
 in quo sepeliuntur summi pontifices symoniaci: et unus
 ultimus mortuus stat in ore putei; quando moritur alius

@@ -12,7 +12,7 @@ Se villania nostra iustitia tieni (1).
 Sotto lo 'mperio del buon Barbarossa,
 Di cui dolente ancor Milan ragiona.
 41 E tal ha già un piede intr'alla fossa,
-Che tosto piangerà quel ministero,
+Che tosto piangerà quel {{ministero|monastero}},
 E tristo fia d'haver havuto possa;
 42 Perchè suo figlo, mal del corpo intero (2)
 E de la mente peggio (3), e che mal nacque,

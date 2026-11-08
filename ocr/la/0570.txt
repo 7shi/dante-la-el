@@ -4,8 +4,8 @@ PURGATORII
 
 25 Non credo che la sua madre più m'ami,
 Poscia che trasmutò le bianche bende,
-Le quai convien che, misero, ancor brami.
-26 Per lei assai di lei vi si comprende,
+Le quai convien che, {{misero|misera}}, ancor brami.
+26 Per lei assai {{di lei|di lieve}} vi si comprende,
 Quant'in femina foco d'amor dura,
 Se l'ochio o'l tacto spesso non l'accende.
 27 Non le farà sì bella sepultura

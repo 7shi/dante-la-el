@@ -17,7 +17,7 @@ Spirito electo, se tu vuoi ch'io mova
 Di là in parte ancor li mortai piedi.
 49 O quest' è a udir sì cosa nova,
 Che gran segno pretende che Dio t'ami;
-Però col pregio tuo talhor mi giova
+Però col {{pregio|priego}} tuo talhor mi giova
 50 Richieggioti, per quel che tu più brami (14),
 Se mai calchi la terra di Toscana,
 Ch'a' miei propinqui tu ben mi rinfami.

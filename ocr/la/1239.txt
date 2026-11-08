@@ -78,7 +78,7 @@ tantum distat, quantumcumque, idest etiam, in mari infra
 se derelinquit, se abbandonat, quantum a Beatrice mea
 visio, scilicet visus meus, distabat hic; sed nihil michi fa-
 ciebat, idest obstabat, vel impediebat, quia sua effigies non
-ascendebat ad me per medium mixta, idest impedita, sed
+{{ascendebat|descendebat}} ad me per medium mixta, idest impedita, sed
 libere, sine interpositione alicuius rei impedientis.
 
 Modo ponitur oratio auctoris facta ad ipsam Beatri-

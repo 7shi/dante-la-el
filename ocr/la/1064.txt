@@ -10,11 +10,11 @@ Carbon in fiamma, così vid'io quella
 Luce risplender a' mie' blandimenti:
 11 E com' agl' ochi miei si fe'più bella,
 Così con voce più dolce e suave,
-Ma non con questa mondana favella,
+Ma non con questa {{mondana|moderna}} favella,
 12 Dissemi: Da quel dì che fu detto Ave,
 Al parto in che mia madre, ch'è hor sancta,
 S'alleviò di me ond'era grave,
-13 Al sol Leone cinquecen cinquanta
+13 Al {{sol|suo}} Leone cinquecen cinquanta
 E trenta fiate venn'esto foco
 A rinfiammarsi socto la sua pianta.
 
@@ -32,7 +32,7 @@ Partui in quo mater mea, que nunc est sancta,
 Se alleviavit de me unde erat gravis,
 13 Ad suum Leonem quingentis quinquaginta
 Et triginta vicibus venit iste ignis
-Ad reinflammandum se sub sua plancta.
+Ad reinflammandum se sub sua {{plancta|planta}}.
 
 Dicite ergo michi, o cara mea primitia, idest o origo
 mea et principium originis mee (quia iste fuit pater Aldi-

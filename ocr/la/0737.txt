@@ -9,7 +9,7 @@ Co' pomi ad odorar suavi e buoni.
 Di ramo in ramo, così quello ingiuso,
 Cred' io perchè persona su (3) non vada.
 46 Dal lato onde 'l cammin nostro era chiuso,
-Cadea dell'altra (4) roccia (5) un liquor (6)
+Cadea {{dell'altra|dell'alta}} (4) roccia (5) un liquor (6)
 [chiaro,
 E si spandea per le fogle (7) suso.
 47 Li due poeti all'arbor s'appressaro;
@@ -18,7 +18,7 @@ Gridò: Di questo cibo havrete caro.
 48 Poi disse (8): Più pensava Maria (9), onde
 Fusser le nozze horrevoli et intere (10),
 Ch'alla sua bocha (11), che per voi rispon-
-[de (12.
+[de ({{12.|12).}}
 49 E le Romane antiche per lor bere
 Contente furon d'acqua (13); e Daniello (14)
 Dispregiò 'l cibo (15), et acquistò sapere.
@@ -65,7 +65,7 @@ et potum suavissimum, et nihil possunt inde apprehendere
 nec capere, et sic crescit eorum appetitus. De illa arbore
 audita est una vox, que dixit: Illum cibum nullatenus
 capiatis. Sed cito rupit dulcia ratiocinia una arbor, quam
-reperuimus in medio strate cum pomis ad odorandum
+{{reperuimus|reperimus}} in medio strate cum pomis ad odorandum
 suavibus et bonis: et si[cut] habies in altum digradatur,
 idest dilatatur, per ramos de ramo in ramum, ita illa
 deorsum; credo ego adhuc ut persona sursum non vadat.

@@ -21,7 +21,7 @@ La verità che tanto ci sublima;
 Ch'io ritrasse le ville circunstanti
 Dall'empio culto che'l mondo sedusse.
 
-10 Et maior et loculentior
+10 Et maior et {{loculentior|luculentior}}
 Illarum margaritarum ante se fecit,
 Propter facere de se meam voluntatem contentam.
 11 Postea intra eam audivi: Si tu scires

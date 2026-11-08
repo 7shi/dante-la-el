@@ -7,7 +7,7 @@ dixerat, [et] quod ipse auctor, auditis casibus sibi
 emergentibus et remediis, temperabat unum cum
 alio, dolebat de infortuniis, sed gaudebat de remediis
 sibi dictis. Tunc respiciens auctor in Beatricem,
-vidit cam pulcherrimam. Demum, respiciens in do-
+vidit {{cam|eam}} pulcherrimam. Demum, respiciens in do-
 minum Cacciaguidam, cognovit quod adhuc vole-
 bat ulterius loqui. Et incepit dicere, quomodo in ista
 quinta stella erant spiritus illustres, et nominavit

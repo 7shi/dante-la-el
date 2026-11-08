@@ -18,11 +18,11 @@ Coronati ciascun di verde fronda.
 Le penne piene d'occhi; e gl'occhi d'Argo,
 Se fosser vivi, sarebber cotali.
 33 A descriver lor forma più non spargo
-Lingua (5), lector; ch'altra possa mi strigne
+Lingua (5), lector; ch'altra {{possa|spesa}} mi strigne
 Tanto, ch'a questa non posso esser largo (6).
 34 Ma legge Ezechiel, che le dipigne
 Come le vidde dalla fredda parte
-Venire a lui con nube e con igne;
+Venire a lui {{con nube|con vento}} e con igne;
 
 (1) stella — (2) altra stella — (3) seguita — (4) al loro — (5) al. rime et melius — (6) prolixo nel dire.
 
@@ -38,7 +38,7 @@ Libere fuerunt ab illis gentibus electis;
 31 Sicut lux lucem in celo secundat,
 Venerunt prope eas quatuor animalia,
 Coronata quodlibet viridi fronde.
-32 Quodlibet erat pennatum sex aliis,
+32 Quodlibet erat pennatum sex {{aliis|alis}},
 Penne plene oculis; et oculi Argi,
 Si essent vivi, essent tales.
 33 Ad describendum eorum formas plures non spargo

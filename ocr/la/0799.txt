@@ -17,7 +17,7 @@ tulum, quia distabat multum ab ipso, et illa erat
 ultra fluvium, ita quod flumen dividebat eos ab in-
 vicem. Et illa domina subito appropinquavit usque
 ad ripam fluminis. Forte admiramini, quia ego
-cauto; dixit ipsa, etc.; sed cogitetis de Psalmo qui
+{{cauto|canto}}; dixit ipsa, etc.; sed cogitetis de Psalmo qui
 dicit: Delectasti me, Domine, in factura tua. Et tu,
 qui primitus me rogasti, dic si aliud vis, quia ego
 sum parata solvere omnem tuam questionem. Tunc

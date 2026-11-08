@@ -11,7 +11,7 @@ Che quel da me per c'alor non s'aperse.
 26 Voi sete nuovi, e forse perch'io rido,
 Cominciò ella, in questo luogo electo (4)
 All'humana natura per suo nido,
-27 Maraviglando tieni alcun sospecto;
+27 Maraviglando {{tieni|tienvi}} alcun sospecto;
 Ma luce rende il salmo Delectasti,
 Che puote disnebbiar vostro intellecto.
 28 E tu, che se' dinanzi, e (5) mi pregasti,
@@ -91,7 +91,7 @@ isto loco electo humane nature pro suo nido (quia talis
 locus datus fuit nostris primis parentibus, de quo fuerunt
 expulsi propter inobedientiam), admirando, idest in ad-
 miratione, tenet vos aliqua suspicio; sed lumen reddit
-psalmus Delectasti, qui potest disnebriare, idest extra
+psalmus Delectasti, qui potest {{disnebriare|disnebiare}}, idest extra
 errorem ponere, vestrum intellectum. Quod dicitur: quia
 estis novi hic, non miramini de meo risu, et quia nunc
 appulistis; sed attendite verbum Psalmiste, psalmi septua-

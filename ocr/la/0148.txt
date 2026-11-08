@@ -74,7 +74,7 @@ fundo. Si tantum descenderis, ibi poteris eos videre.
 *me ad mentem aliorum*: idest, dic nova de me. *Plus non*
 *tibi loquor, nec respondebo tibi*.
 
-*Oculos reclos retorsit in obliquum*: cum quibuslibet
+*Oculos {{reclos|rectos}} retorsit in obliquum*: cum quibuslibet
 cecis, par aliis cecis, respiciens me, et ad terram cecidit,
 capite inclinato.
 

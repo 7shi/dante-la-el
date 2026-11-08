@@ -76,7 +76,7 @@ spargendum.
 *Et pars silvestris*: idest alba, expellet aliam, scilicet
 nigram, cum multa offensione. Demum, in brevi, oportet
 quod hec, scilicet pars alba, cadat, idest vincatur infra tres
-solos, idest infra tres annos; et quod alia, scilicet pars nigra,
+{{solos|soles}}, idest infra tres annos; et quod alia, scilicet pars nigra,
 surmontet, idest super ascendat, scilicet vincat.
 *Cum fortitudine talis, qui nunc piagiat*: idest venit ad
 ripam, solum; idest qui nondum venit, nec cognoscitur.

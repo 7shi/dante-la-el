@@ -29,7 +29,7 @@ Sine peccato in vita et in sermonibus.
 26 Moritur non baptizatus, et sine fide:
 Ubi est iustitia que ipsum condempnat?
 Ubi est culpa sua, si ipse non credit?
-27 O tu qui es, qui vis sedere in cathedra
+27 O tu {{qui es|quis es}}, qui vis sedere in cathedra
 Propter iudicare a longe per mille milliaria
 Cum visione curta unius palmi?
 28 Certe illi qui mecum se subtilizat,
@@ -66,7 +66,7 @@ visu brevi, unius spanne, idest unius palmi? Quasi dicens:
 Non sic est faciendum; quia qui paucum vident, non de-
 bent iudicare. Nam sunt quasi infinite res, quas philosophi
 non cognoverunt, et nec causas earum potuerunt videre.
-Quomodo ego credis posse videre iudicia Dei archana et
+Quomodo {{ego|ergo}} credis posse videre iudicia Dei archana et
 profunda? Et dicitur quod molestius est ferendum, si Chri-
 stiani querunt causas iudiciorum Dei, quam si alii hoc
 facerent; ex eo quia Christiani habent Scripturas, que de-

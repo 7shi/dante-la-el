@@ -17,13 +17,13 @@ Cotal amor convien che'n me s'imprenti;
 10 Chè'l ben, in quanto ben, come s' intende,
 Così accende amor, e tanto maggio,
 Quanto più di bontà in sè comprende.
-11 Dunque all'esentia, ov' è tanto vantaggio,
+11 Dunque {{all'esentia|all'essentia}}, ov' è tanto vantaggio,
 Che ciascun ben, che fuor di lei si trova,
 Altro non è ch'un lume di suo raggio,
 
 6 Bonum, quod facit contentam istam curiam,
 Alfa et O [est] quante Scripture
-Michi legit amorem suum leviter sive fortiter.
+Michi legit amorem {{suum|sive}} leviter sive fortiter.
 7 Illa eadem vox, que pavorem
 Subtraxerat michi de subita obfuscatione,
 Ratiocinandi adhuc me misit in curam;
@@ -87,7 +87,7 @@ Et ideo auctor respondit dicens: Et ego: [Per] philosophica
 argumenta, scilicet tam naturalia quam etiam moralia, et
 per auctoritatem, scilicet Sacre Scripture et Doctorum,
 que hinc, scilicet de celo, a Spiritu Sancto descendit, talis
-amor convenit, idest oportet, quod in me exprimatur. Nam
+amor convenit, idest oportet, quod in me {{exprimatur|imprimatur}}. Nam
 omnis bonus philosophus posuit, quod est dare unum pri-
 mum principium. Preterea habeo auctoritates Propheta-
 rum, Evangelistarum et Doctorum, qui scilicet hinc a vobis

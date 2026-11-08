@@ -26,7 +26,7 @@ Quam fecit Netumpnus ad respiciendum oculos
 [Argi.
 33 Sic mens mea, tota suspensa,
 Respiciebat fixe immobilis et actenta,
-Et semper ad respiciendum afficiebatur accensa.
+Et semper ad respiciendum {{afficiebatur|efficiebatur}} accensa.
 34 Ad illam lucem talis quilibet efficitur,
 Quia advertere se ab illa propter alium aspectum
 Est impossibile quod unquam consentiatur;
@@ -56,8 +56,8 @@ deus maris, qui viderat nunquam plus mare navigari, vidit
 navem illam armatam, obstupuit; et quia ipse est deus
 maris, gavisus est quod suum mare habitaretur et navi-
 garetur, et non poterat satiari quovis modo de videri et
-intueri navem illam; et mirabiliter admirabatur, et mi-
-nium admiratione fuit repletus navem illam intuendo; et
+intueri navem illam; et mirabiliter admirabatur, et {{mi-|ni-}}
+{{nium|mium}} admiratione fuit repletus navem illam intuendo; et
 mirabatur quo ingenio, qua arte, tale edificium et opus
 factum fuisset, et quomodo homines essent ausi intrare
 mare tam tempestuosum, tam periculosum, tantum terri-

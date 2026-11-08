@@ -3,7 +3,7 @@
 PURGATORII
 
 33 Mentr'io mi dilectava di guardare
-L'ymagine di tante humilitadi
+{{L'ymagine|L'ymagini}} di tante humilitadi
 E per lo fabro lor (1) a veder care;
 34 Ecco di qua, ma fanno passi radi,
 Mormorava'l Poeta, molte genti:
@@ -19,7 +19,7 @@ Pensa la succession; pensa ch',a peggio,
 Oltra la gran sententia non può ire.
 38 Io cominciai: Maestro, quel ch'io veggio
 Muover a noi, non mi paion persone,
-E non so io che, nel veder, vaneggio.
+E {{non so io che, nel veder|non so che, sì nel veder}}, vaneggio.
 39 Et elli a me: La grave conditione
 Di lor tormento a terra li rannichia
 Sì, ch'e miei ochi pria n'ebber tencione.

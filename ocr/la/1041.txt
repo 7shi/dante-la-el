@@ -97,5 +97,5 @@ Subito post hoc, visum est ibi unum lustrum, sive unus
 splendor, supra alium splendorem, qui ibi par erat ac si
 orizon, quod videtur splendere, [clarificetur]; et apparue-
 runt plurima lumina, que erant anime aliorum doctorum
-et scientiticorum, que lumina describit auctor per talem
+et {{scientiticorum|scientificorum}}, que lumina describit auctor per talem
 comparationem.

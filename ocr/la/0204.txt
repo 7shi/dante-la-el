@@ -38,7 +38,7 @@ peccato malitie et stulta bestialitate pertractat Aristotiles
 primo Ethicorum. Nam stulta bestialitas opponitur sa-
 pientie, saltem prudentie.
 
-*Anchora un poco*. *Adhuc modicum retro te volre*:
+*Anchora un poco*. *Adhuc modicum retro te {{volre|volve}}*:
 hec est quarta pars et ultima istius capituli, in qua auctor
 facit secundam questionem magistro suo, que est ista: Tu
 dixisti quod Caorsa, idest usura, offendit divinam bonita-

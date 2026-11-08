@@ -76,7 +76,7 @@ vivit de summitate, idest habet vitam a Deo, quia stat supra
 in summitate celorum), spiritus sunt beati, qui inferius,
 idest in mundo inferiori, in vita terrena, priusquam ve-
 nirent huc sursum, fuerunt grandis vocis, idest fame, ita,
-idest in tantum, quod omnino musa, idest scientia poetica,
+idest in tantum, quod {{omnino|omnis}} musa, idest scientia poetica,
 de illis, scilicet spiritibus, esset opima, idest satis haberet
 facere, laudando decenter ipsos.
 

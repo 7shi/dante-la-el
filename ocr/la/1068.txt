@@ -22,7 +22,7 @@ Sacchetti, Giuochi, Sifanti e Barucci,
 Galli, et quei ch'arrossan per lo staio.
 36 Lo ceppo, di che nacquero e Calfucci,
 Già era grande, e già eran tracti
-Alle carole Sitii et Arrigucci.
+Alle {{carole|curule}} Sitii et Arrigucci.
 
 30 Ego vidi Ugos et vidi Cattelinos,
 Philippos, Normannos, Grecos et Albericos,
@@ -89,7 +89,7 @@ ensem, habentem elsam et pomum ensis de auro.
 Grandis erat iam columpna Varii (ista erat domus de
 Pigliis, qui portabant unam columpnam de vario), Sachecti,
 Iochi, Sifanti, et Barucci (sunt nomina quatuor domorum),
-et Galla (aliud domus nomen), et illi qui rubefiunt propter
+et {{Galla|Galli}} (aliud domus nomen), et illi qui rubefiunt propter
 sextarium.
 Nunc tangit domum de Chiaramontosis. Pro quo notan-
 dum est, quod unus de domo ista, scilicet de Chiaramonto-

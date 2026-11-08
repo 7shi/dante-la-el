@@ -3,7 +3,7 @@
 PARADISI
 
 46 Creata fu la materia (1) ch'egli hanno,
-Creata fu la materia informante
+Creata fu la {{materia|virtù}} informante
 In queste stelle che 'ntorno a lor vanno.
 47 E l'anima d'ogni bruto e delle piante
 Di complexion potentiata tira
@@ -43,9 +43,9 @@ stellis, que circa ipsam vadunt, idest volvuntur, idest virtus
 que est in celo, scilicet intelligentia movens celum.
 
 Animam omnium brutorum et plantarum de complexio-
-conibus potentionatis trahit radius et motus sancte lucis:
+{{conibus|nibus}} potentionatis trahit radius et motus sancte lucis:
 idest radii et motus stellarum trahunt, idest faciunt, animam
-brutorum et animam plantaram.
+brutorum et animam {{plantaram|plantarum}}.
 
 Sed vestram vitam, idest animam intellectivam, sine
 medio spirat summa bonitas, et eam amore capit, idest

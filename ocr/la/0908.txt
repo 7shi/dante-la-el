@@ -4,7 +4,7 @@ PARADISI
 
 21 Però non fui a rimembrar festino;
 Ma hor m'aiuta ciò che tu mi dici,
-Sicchè transfigurar m'è più latino.
+Sicchè {{transfigurar|raffigurar}} m'è più latino.
 22 Ma dimmi: voi, che sete qui felici,
 Desiderate voi più alto loco
 Per più vedere, o per più farvi amici?

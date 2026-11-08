@@ -16,7 +16,7 @@ Similis illi quem arnie faciunt confusum;
 Currendo, de una turma que transibat
 Sub pluvia asperi martyrii.
 
-*Iam eram in loco*. *Già era in loco, dore*: istud est
+*Iam eram in loco*. *Già era in loco, {{dore|dove}}*: istud est
 decimumsextum capitulum Inferni, in quo auctor prose-
 quitur materiam istius vitii detestabilis, ponendo tres spi-
 ritus illustres in multis virtutibus, qui fuerunt involuti in

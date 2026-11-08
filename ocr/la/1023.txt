@@ -19,7 +19,7 @@ già, cioè, che all'inclita famiglia di San Domenico manchi calor
 d'affetto, senza di cui non può aversi santità, la quale si so-
 stanzia nell'amore; o quella di Francesco difetti di sapienza,
 la quale dal cuore trae anch'essa alimento: ma sì che nel-
-l'una, pur congiunto all'atfetto, abbia predominio il pensiero;
+l'una, pur congiunto {{all'atfetto|all'affetto}}, abbia predominio il pensiero;
 nell'altra, non separato dalla mente, signoreggi l'amore: l'una,
 in somma, abbia scienza scaldata dall'amore, e però non arida
 e vana, ma viva ed efficace; l'altra abbia cuore illuminato
@@ -47,7 +47,7 @@ compagno ed amico Tommaso d'Aquino, venne dichiarato so-
 lenne Dottore della Chiesa, collocava tra'sapienti lo stesso
 Francesco, mentre non negava a' Domenicani l'amore, anzi cantò
 che nel loro Patriarca Domenico fu solennemente manifesto:
-restando cosi la sola ed importantissima differenza, che nell'uno
+restando {{cosi|così}} la sola ed importantissima differenza, che nell'uno
 sull'amore prevalse il pensiero, e nell'altro sul pensiero pre-
 valse l'amore: donde le due scuole sì varie (e chi ne spaccia
 l'unità, o sogna o nulla intende), ma pure, in tanta e sì intima
@@ -67,7 +67,7 @@ potendo tutta capire nell'intelletto di un solo uomo nè di una
 scuola sola (e guai se avvenisse così! ciò significherebbe che
 essa non è divina nè però superiore a tutti i creati intelletti),
 si riflette parzialmente, e però variamente, in ciascuno ed in
-ciascuna. Così fu allora, cosi è di presente, così sarà finchè
+ciascuna. Così fu allora, {{cosi|così}} è di presente, così sarà finchè
 l'uomo resti su la terra. Unica sappiamo che è la scienza; ma
 così unica non è pienamente che in Dio; in Dio e ne' Beati, da
 lui in essi luminosamente unificata: di quaggiù la intrave-

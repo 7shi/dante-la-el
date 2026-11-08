@@ -29,7 +29,7 @@ Depictas mirabili primo vere.
 22 De tali flumaria exibant faville vive,
 Et ab omni parte se mictebant in floribus,
 Qualis rubinus quem aurum circumscribit.
-23 Postea, sicut inebrietate ab odoribus,
+23 Postea, sicut {{inebrietate|inebriate}} ab odoribus,
 Reprofundabant se in mirum gurgitem;
 Quando una intrabat, alia exibat foras.
 24 Altum desiderium quod nunc te inflammat et urget,

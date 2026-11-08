@@ -10,7 +10,7 @@ Meglo di lena ch'io non mi sentia;
 E dissi: Va', ch'io son forte et ardito.
 21 Su per lo scoglo prendemmo la via
 Ch'era ronchioso, strecto e malegevole,
-E cieco più assai che quel di pria.
+E {{cieco|erto}} più assai che quel di pria.
 22 Parland'andavo per non parer fievole,
 Quand'una voce uscì dell'altro fosso,
 Che parole formò disconvenevole.

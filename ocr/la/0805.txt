@@ -15,7 +15,7 @@ Raggiar ivi non lascia sol nè luna.
 Di là dal fiumicel, per ammirare
 La gran varietà (5) de'freschi mai (6):
 13 E là m'apparve, sì com'elli appare
-Subitamente cosa che desia
+Subitamente cosa che {{desia|disvia}}
 Per maravigla tutt'altro pensare,
 14 Una donna soletta, che si gia
 Cantando e riscegliendo fior da fiore,

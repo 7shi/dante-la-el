@@ -9,9 +9,9 @@ Facta com'un scheggion che tutto s'arda;
 Che'l sol infiamma allhor che quel da Roma
 Tra Sardi e Corsi el vede quando cade (1);
 28 E quell'ombra gentil, per cui si noma
-Cortese più che nulla mantovana,
+{{Cortese più che nulla|Pietola più che villa}} mantovana,
 Del mio carchar dispost'havea la soma.
-29 Perch'io quella ragion ch'aperta e chiara
+29 Perch'io quella ragion ch'aperta e {{chiara|piana}}
 Sovra le mie question havea ricolta,
 Stava com'huom che sonnolento vana.
 30 Ma questa sonnolenza mi fu tolta

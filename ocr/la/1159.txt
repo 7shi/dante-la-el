@@ -91,7 +91,7 @@ credere non habeo ego solum probationes phisicas et meta-
 phisicas (nam tertio Phisicorum concluditur, Deus motor
 primus; et in secundo Methaphisice, Quod est unus, est
 princeps); sed dat michi hoc, idest credere, etiam veritas
-que hic pluit, scilicet Scriptura divina, per Moysen, per
+que {{hic|hinc}} pluit, scilicet Scriptura divina, per Moysen, per
 Prophetas, per Psalmos, per Evangelium, et per vos qui
 scripsistis, scilicet Epistolas canonicas, postquam ardens
 Spiritus vos fecit almos, idest stabiles, intrepidos, et scien-

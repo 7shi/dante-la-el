@@ -58,7 +58,7 @@ stans. Pater suus, nomine Felix, mater sua, nomine
 Ioanna, hii sui parentes fuerunt et gratiosi no-
 mine et re. In parvo tempore fuit factus iste San-
 ctus Dominicus maximus clericus, magnus magister
-in Theologia. Iste noluit sequi iuria civilia aut
+in Theologia. Iste noluit sequi {{iuria|iura}} civilia aut
 canonica propter lucrari, sed Sacram Scripturam
 propter impetum facere in hereticos; et subito
 adiit ad Sedem Apostolicam, non propter impe-

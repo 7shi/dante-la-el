@@ -3,7 +3,7 @@
 PARADISI
 
 25 Poi cominciai così: L'affecto e 'l senno,
-Come la prima qualità n'apparse,
+Come la prima {{qualità|equalità}} n'apparse,
 D'un peso per ciascun di voi si fenno;
 26 Però ch'al Sol, che v'allumò et arse
 Col caldo e co' la luce, èn sì equali,
@@ -34,7 +34,7 @@ equaliter cognosceretis in Deo, ideo non plus considerabam
 de vobis quam de aliquo alio vestrum. Scire, in vobis omni-
 bus, et affectum ad me, omnium vestrum, existimavi omnino
 equalia, omnino in vobis videbantur michi equalia et equa-
-liter; quia Deus, qui nos illuminat, allicit et satiat, et in-
+liter; quia Deus, qui {{nos|vos}} illuminat, allicit et satiat, et in-
 flammat, veniens super vos, est omnino sine disparitate,
 sed cum omnimoda paritate. Ad quam paritatem descri-
 bendam, non possem invenire aliquam comparationem, per

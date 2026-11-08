@@ -51,7 +51,7 @@ cuius animalis, sicut Rome sunt multa talia laboreria,
 sicut in atrio Sancti Petri de Roma est illa navicula Petri
 supra portam atrii, et sicut Venetiis in Sancto Marco, et
 etiam alibi. Ita ymaginatur hic. Ab illis animabus regum
-contexeatur et sit contexata una aquila, que habeat col-
+{{contexeatur|contexatur}} et sit contexata una aquila, que habeat col-
 lum, rostrum, alas et cetera membra aquile, et quod illa
 aquila loquitur auctori ut una avis, sicut unum animal,
 licet illa aquila sit plures anime. Et illa aquila loquebatur

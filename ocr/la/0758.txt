@@ -5,7 +5,7 @@ PURGATORII
 34 E quando innanzi a noi intrato fue (1),
 Che gl'ochi miei si fero a lui seguaci,
 Come la mente (2) alle parole sue,
-35 Parvemi rami gravidi e vivaci
+35 {{Parvemi|Parvermi}} rami gravidi e vivaci
 D'un altro pomo (3), non molto lontani,
 Per esser pur allora volto in laci (4).
 36 Vidi gente sott'esso (5) alzar le mani,
@@ -14,9 +14,9 @@ Quasi bramosi fantolini e vani,
 37 Che pregano (6), e'l pregato (7) non risponde;
 Ma per far esser ben la vogla (8) acuta,
 Tien alto (9) lor desio (10), e nol nasconde (11).
-37 Poi si partì (12) sì come ricreduta;
+{{37|38}} Poi si partì (12) sì come ricreduta;
 E noi venimmo al grand'arbore, ad esso (13)
-Che tanti pianti e lagrime rifiuta.
+Che tanti {{pianti|prieghi}} e lagrime rifiuta.
 39 Trapassat'oltre senza farvi presso;
 Legno è più su che fu morso da Eva,
 E questa pianta si levò da esso.
@@ -55,7 +55,7 @@ Theseus pugnare fecit cum duplicatis pectoribus;
 (1) Forese — (2) si fe'seguace — (3) arboro — (4) in là — (5) arboro — (6) el padre, o altri — (7) da loro — (8) loro —
 (9) in mano — (10) pomo, o altro — (11) loro — (12) quella gente — (13) arbore, dico — (14) dell'arboro.
 
-*Et quando ante nos*. *E quando innanti nui*: hec est
+*Et quando ante nos*. *E {{quando innanti nui|innanti a nui}}*: hec est
 quarta pars huius capituli in qua et ubi auctor describit
 secundam arborem eiusdem nature cum supradicta. Sed
 dicit primo, quod ipse respexit Foresem currentem, dicens:

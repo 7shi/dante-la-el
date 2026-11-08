@@ -8,7 +8,7 @@ Dove tra noi et Aquilone intrava.
 21 Ond'elli a me: Se Castor e Polluce
 Fosser in compagnia di quello specchio,
 Che su e giù del suo lume conduce,
-22 Tu yederesti 'l zodiaco rubechio
+22 Tu {{yederesti|vederesti}} 'l zodiaco rubechio
 Ancor a l'Orse più stretto rotare,
 Se non uscisse fuor del cammin vechio.
 23 Come ciò sia, se 'l vuo' poter pensare,
@@ -45,7 +45,7 @@ impossibile est hic in nostro emispirio de talibus dispo-
 sitionibus, ibi in emispirio inferiori contingit; et e converso.
 
 Et ipse ad me, scilicet dixit Virgilius: Si Castor et Polux
-essent in sotictate illius speculi, scilicet solis, quod sursum
+essent in {{sotictate|sotietate}} illius speculi, scilicet solis, quod sursum
 et deorsum de suo lumine conducit, idest si sol in signo
 Geminorum esset, sicut est modo in Ariete, tu videres zo-
 diacum *robecchium*, idest rubentem, adhuc ad Ursas stri-

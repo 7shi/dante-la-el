@@ -44,7 +44,7 @@ porta clausa Purgatorii. Ista pars aieris, que est hic, vol-
 vitur in circum, idest circulariter, ad motum celi, nec de-
 ficiet motus circularis, nisi rumperetur circulus in aliqua
 parte, quod est [im]possibile. In [illa] igitur altitudine, talis
-motus celi, movens arborem, percutit arbores et facit sonare
+motus celi, movens {{arborem|aierem}}, percutit arbores et facit sonare
 ramos et folia, et tunc arbores mote inpregnant aierem et
 alterant aierem propinquum, et postea, rotando, sive cir-
 cumvolvendo, excutit. Tunc terra, prout est bene disposita
@@ -81,7 +81,7 @@ Et tu qui es ante et me rogasti, dicas si aliud vis di-
 cere, quia veni festina ad omnem tuam questionem, sci-
 licet declarandum, tantum quod sufficiat.
 
-Aqua, dixi ego, et sonus, sane, inpugnant intra me novam
+Aqua, dixi ego, et sonus, {{sane|silve}}, inpugnant intra me novam
 fidem rei, quam ego audivi contrariam isti. Idest: quia au-
 divi quod hic superius non erant iste impressiones, et ta-
 men ego video aquam, audio sonum silve, sentio ventum,

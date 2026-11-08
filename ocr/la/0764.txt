@@ -15,7 +15,7 @@ Et vadit ad viam suam, quidquid ei appareat,
 Si est necesse, si stimulus eum transfigit;
 
 *Hora erat in qua ascensus nolebat disturbium*. *L'ora*
-*era onde 'l salir non volca storpio*: istud est vicesi-
+*era onde 'l salir non {{volca|volea}} storpio*: istud est vicesi-
 mumquintum capitulum huius Purgatorii, in quo auctor
 pertractat arduam questionem precedentem de materia
 pertractata, et transit ad alium circulum, scilicet septimum,
@@ -34,7 +34,7 @@ Ma como d'animal doventa infante,
 ponitur productio anime rationalis sive humane.
 In quarta parte, que incipit ibi:
 Et iam ventum ad ultimam torturam;
-E già venute all'ultima tortura,
+E già {{venute|venuti}} all'ultima tortura,
 transit auctor ad materiam luxurie, que purgatur in se-
 ptimo circulo.
 Circa primam partem, auctor volens proponere unam

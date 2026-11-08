@@ -39,7 +39,7 @@ rem; centum et centum, idest ducentis, annis et pluribus,
 avis Dei, idest consecrata Iovi summo, secundum poetas,
 scilicet aquila, in extremo Europe, idest in Constantinopoli,
 se retinuit, idest stetit, vel residentiam fecit, vicina monti-
-bus de quibus privatus exivit (idest montibus qui sunt ibi
+bus de quibus {{privatus|primitus}} exivit (idest montibus qui sunt ibi
 prope ubi erat Troya: aliqui volunt dicere, quod auctor
 intellexit de monte Ide, qui est in insula Crete, ubi Iup-
 piter primitus recepit pro suo signo aquilam; sed hoc non

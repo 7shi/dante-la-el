@@ -24,7 +24,7 @@ Quante di noi lassù facte ritorno.
 (1) facit.
 
 33 O splendor divine, per quem ego vidi
-Altum triumphum celi veracis,
+Altum triumphum {{celi|regni}} veracis,
 Da michi virtutem ad dicendum quomodo illum
 [vidi.
 34 Lumen est ibi, quod visibilem facit
@@ -94,12 +94,12 @@ culus, vel collis, ad cuius radices fluat tale flumen clarum,
 super quem collem, vel monticulum, sint tales arbores,
 floride, ut dictum est: tunc ille monticulus, sive collis,
 speculatur, idest sicut in ispeculo videtur, cum suis arbo-
-ribus et floribus earum, quando est bene optimus illis
+ribus et floribus earum, quando est bene {{optimus|opimus}} illis
 floribus, idest quando bene habet satis de illis floribus. Et
 sicut clivus, idest monticulus, in aqua sui ymi se specu-
 latur, idest sicut in speculo videtur, quasi ut videat se
 ornatum, idest ut appareat ornatus, quando est in viridi,
-idest in viriditate, omnis flos optimus; sic suprastans lumen
+idest in viriditate, omnis flos {{optimus|opimus}}; sic suprastans lumen
 circum circa vidi ego speculari in plus quam millibus scioliis,
 idest luminibus, que a nobis sursum fecerunt regressum,
 idest in mille spiritibus humanis, qui a nobis mortalibus

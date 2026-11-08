@@ -33,7 +33,7 @@ tendenza, uno sforzo, una speranza, un impeto, per arrivare ad
 essa, sentendo che quivi sta il nostro compimento. E tolta di
 mezzo questa aspirazione e speranza, ogni idea di progredimento
 verace, che vuol essere durevole e compiersi, come ogni idea
-di merito, di gloria, di felicita, riduconsi ad un giuoco ignobile
+di merito, di gloria, di {{felicita|felicità}}, riduconsi ad un giuoco ignobile
 e doloroso. Lo sentono gli stessi egoisti, i quali vorrebbero co'
 proprii la concordia di tutti i pensieri e voleri, e in sè stessi
 il vincolo supremo di accentrazione. Lo sentiamo tutti nello
@@ -61,9 +61,9 @@ mortale, in cui tutti questi misteri stanno racchiusi. Perocchè
 la superbia non è, in somma, che il sentimento di una signoria
 e di una sovranità destinateci e che in parte già possedemmo,
 guasta memoria dell'Eden e vaticinio e presagio di una gloria
-futura; della quale bensi, non possedendola noi in proprio, e
+futura; della quale {{bensi|bensì}}, non possedendola noi in proprio, e
 dovendo riceverla, dobbiamo con nobile umiltà prepararci ad
-essere degni. E così l'odio pon è che il sentimento esagerato di
+essere degni. E così l'odio {{pon|non}} è che il sentimento esagerato di
 noi stessi, per saperci individualmente immortali, distinti l'un
 dall'altro nell'universalità delle cose, e da ciascuna di esse,
 dalle quali tutte deve a noi affluire gloria e diletto (protesta

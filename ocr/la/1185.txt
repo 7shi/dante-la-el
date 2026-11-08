@@ -35,7 +35,7 @@ schi, ita quod bonum principium ad malum finem
 tendere videtur: sed divina Providentia, que suc-
 currit glorie romane cum Scipione, etiam succur-
 rat. Demum dicit auctor, quod tota illa militia
-ascendit in celum novum in multitudine, sicut
+ascendit in celum {{novum|nonum}} in multitudine, sicut
 nives in multitudine descendunt de aiere. Tunc
 domina Beatrix dixit auctori: Inclina oculos in-
 ferius versus terram, et inspice quomodo tu es

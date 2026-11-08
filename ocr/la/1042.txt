@@ -103,7 +103,7 @@ ctor in spera Martis. Dicit igitur auctor, quod ex aspectu
 Beatricis oculi sui fuerunt virtute roborati; quia prius
 erant debilitati in aspectu illius lustri, idest illarum ani-
 marum illuminatarum a Sancto Spiro, sive Spiritu. Hoc
-dicit de debilitate, quia contitetur se non sufficere ad de-
+dicit de debilitate, quia {{contitetur|confitetur}} se non sufficere ad de-
 scribendum omnes illas animas que erant ibi; quia non
 solum erant ibi ille vigintiquatuor, sed supervenerunt po-
 stea quasi innumere, valentissime. Ideo dimisit eas, quia cum

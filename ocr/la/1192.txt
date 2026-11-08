@@ -11,7 +11,7 @@ Quando mi volsi al suo viso ridente.
 33 E la virtù, che lo sguardo m'indulse,
 Del bel nido di Leda mi disvelse,
 E nel ciel velocissimo (1) m'impulse.
-34 Le parti sue vicissime et excelse
+34 Le parti sue {{vicissime|vivissime}} et excelse
 Sì uniformi son, ch'io non so dire
 Qual (2) Beatrice per luogo mi scelse.
 35 Ma ella, che vedea el mio desire,
@@ -40,13 +40,13 @@ Ita uniformes sunt, quod ego nescio referre
 Quem Beatrix pro loco sibi deputavit.
 35 Sed ipsa, que videbat meum desiderium,
 Incepit, ridendo, tantum leta,
-Quod Deum apparebat in suo vultu iocundari:
+Quod {{Deum|Deus}} apparebat in suo vultu iocundari:
 36 Natura mundi que quietat
 Medium, et totum reliquum circum movet,
 Hinc incipit sicut a sua meta.
 37 Et istud celum non habet aliud ubi
 Quam mentem divinam, in qua accenditur
-Amor qui volvit ipsum et virtus quam ipsum pluit.
+Amor qui volvit ipsum et virtus {{quam|que}} ipsum pluit.
 
 Et si natura vel res scilicet artificialis fecit pascua ad
 capiendum oculos propter habere mentem, in carne hu-
@@ -98,7 +98,7 @@ universalis, idest Deus), que quietat medium (idest terram,
 quoad se, totam facit immobilem; nam terra quoad se tota
 est immobilis, licet quoad multas sui partes moveatur), et
 totum reliquum, idest omnia alia, circummovet (idest omnes
-alias speras, et incepit a nona), hic incipit, scilicet ab ista
+alias speras, et incepit a nona), {{hic|hinc}} incipit, scilicet ab ista
 nona spera idest principium trahit, sicut a sua meta, idest
 termino.
 

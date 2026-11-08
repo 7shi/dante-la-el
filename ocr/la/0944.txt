@@ -88,7 +88,7 @@ Christus fuit crucifixus et fuit maximum quid); quia divina
 iustitia, que in me, scilicet Iustiniano, spirat, ei, idest signo
 aquile, concessit in manu, scilicet tertii Imperatoris, ad illud
 quod dico, gloriam faciendi vindictam de sua ira. Hor, nunc,
-id respice in eo quod tibi replico: postea cum Tito ad fa-
+{{id|hic}} respice in eo quod tibi replico: postea cum Tito ad fa-
 ciendum vindictam cucurrit de vindicta peccati antiqui;
 quia Titus fecit vindictam de morte Christi, que mors
 Christi fuit vindicta de peccato antiquo.

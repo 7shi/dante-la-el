@@ -76,7 +76,7 @@ Hec est proprietas boni ingenii in addiscente: auditis de-
 clarationibus aliquorum subtilium dubiorum, subito trans-
 currit ad meliora meditanda.
 
-*Et sicut sagipta, que in signum*. E si *come saietta*:
+*Et sicut sagipta, que in signum*. E {{si|sì}} *come saietta*:
 hec est [quarta pars huius capituli, in qua auctor describit
 ascensum [suum] et Beatricis in secundam speram, scilicet
 Mercurii; et vult dicere in effectu, quod velocissime iverunt
@@ -90,7 +90,7 @@ sic currimus in secundum regnum; secundum scilicet ce-
 lum, sive planetam.
 
 Ibi dominam meam vidi ego ita letam, statim quod in
-limine illius se misit, quod lucidior de ea fuit factus ille pla-
+{{limine|lumine}} illius se misit, quod lucidior de ea fuit factus ille pla-
 neta. Nota quod planeta non est lucidior una vice quam alia;
 sed poetice vult dicere, quod planeta fuit lucidior propter
 illos spiritus, qui se ostenderunt valde lucentes, tam propter

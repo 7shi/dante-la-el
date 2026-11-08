@@ -6,7 +6,7 @@ PURGATORII
 E Statio et io, seguitavam la rota
 Che fe' l'orbita (1) sua con minor archo.
 11 Sì passeggiando l'alta selva vota,
-Colpa di quella ch'al presente orese,
+Colpa di quella ch'al presente {{orese|crese}},
 Temprava e passi un'angelica nota.
 12 Forse in tre voli tanto spatio prese
 Disfrenata saetta, quant'eravamo
@@ -16,7 +16,7 @@ Poi cerchiata una pianta dispoglata
 Di fogle e d'ogni fronda con suo ramo.
 14 La chioma sua, che tanto si dilata
 Più, quanto (2) più va su, fora dall'Yndi
-Ne' bolchi loro per altezza mirata.
+Ne' {{bolchi|boschi}} loro per altezza mirata.
 15 Beato se', gryfon, che non discindi
 Col becho d'esto legno dolce al gusto,
 Poscia che mal si torce el ve[n]tre quindi.
@@ -38,7 +38,7 @@ Postea circumdederunt unam planctam spoliatam
 Foliis et aliis frondibus in quolibet ramo.
 14 Coma sua, que tantum dilatatur
 Plus, quanto est plus sursum, esset ab Yndis
-[In] nemoribus ipsorum propter multitudinem
+[In] nemoribus ipsorum propter {{multitudinem|altitudinem}}
 [admirata.
 15 Beatus es, grifo, qui non scindis
 Cum rostro de isto ligno dulci ad gustum,
@@ -70,7 +70,7 @@ quantum eramus remoti, quando Beatrix descendit, idest
 quantum traheretur cum arcu vel balista in tribus vicibus.
 
 *Ego sentiebam ab omnibus murmurari*. *Io sentiva*
-*mormorare a tulli*: hec est secunda pars huius capituli, in
+*mormorare a {{tulli|tutti}}*: hec est secunda pars huius capituli, in
 qua describitur reditus istius exercitus ad celum: tunc
 omnes inceperunt murmurare de Adam, etc. Ego sentiebam
 ab omnibus murmurari, Adam; postea circumdederunt

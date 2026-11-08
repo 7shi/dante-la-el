@@ -47,7 +47,7 @@ intelligere, quam divinitatem.
 Qualis geometra, scilicet Archimenides syracusanus, qui
 totum se fixit pro mensurando, idest quadrando, circulo,
 et non invenit (scilicet quadraturam eius; que si possibilis
-est, nondum et inventa), cogitando, illud principium, idest
+est, nondum {{et|est}} inventa), cogitando, illud principium, idest
 illum punctum a quo incepit, unde indiget (scilicet inci-
 pere, pro quadrando circulum. Supple textum: qui geo-
 metra tantum stabat actentus ad illum circulum, quod non

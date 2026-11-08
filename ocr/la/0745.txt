@@ -8,8 +8,8 @@ Di lor magrezza e di lor triste squama;
 14 Et ecco del profondo de la testa (1)
 Vols'a me gl'ochi un'ombra, e guardò fiso;
 Poi gridò forte: Qual gratia m'è questa?
-15 Mai non l'havrei riconosciuto 'l viso (2);
-Ma nella faccia sua mi fe' palese
+15 Mai non l'havrei riconosciuto {{'l|al}} viso (2);
+Ma nella {{faccia|voce}} sua mi fe' palese
 Ciò che l'aspecto in sè havea conquiso.
 16 Questa favella (3) tucto mi raccese (4)
 Mia conoscenza a la cangiata labbia,
@@ -46,7 +46,7 @@ Due domine que ibi tibi faciunt scortam:
 Ne remaneas quin loquaris.
 19 Facies tua, quam ego fui lacrymatus iam mortuam,
 Michi dat plangendi nunc non minorem dolorem,
-Respondi ego ad eum, videndo ipsam ita tor tam
+Respondi ego ad eum, videndo ipsam ita {{tor tam|tortam}}
 
 extenuaret, generando famem, idest appetitum, et ille, sci-
 licet odor, aquarum, nesciendo qualiter?

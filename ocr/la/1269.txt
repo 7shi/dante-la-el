@@ -1,7 +1,7 @@
 1215
 
 et Principe Firmano, de Ordine Minorum assumpto, quod Comentum fuit prin-
-cipiatum prima die mensi februarii anno Domini millesimo quadringentesimo
+cipiatum prima die {{mensi|mensis}} februarii anno Domini millesimo quadringentesimo
 sextodecimo, et completum fuit sexta die mensis ianuarii anno Domini millesimo
 quadringentesimo decimoseptimo, in civitate Constantiensi, Provintie Maguntine
 in partibus Al[a]manie, vacante Sede Apostolica et tempore generalis Concilii

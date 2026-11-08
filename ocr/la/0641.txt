@@ -13,7 +13,7 @@ Et allora, per stringermi al Poeta,
 Indietro feci e non innanzi 'l passo.
 48 Già era l'aura d'ogni parte cheta,
 Et el mi disse: Quel fu 'l duro camo (5),
-Che dovria l'hom tener dentr'a suo meta (6).
+Che dovria l'hom tener dentr'a {{suo|sua}} meta (6).
 49 Ma voi prendete l'esca, sì che l'hamo
 Dell'antico adversaro a sè vi tira;
 E però poco val freno o richiamo.

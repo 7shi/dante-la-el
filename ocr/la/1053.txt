@@ -22,7 +22,7 @@ Di questa vita miran ne lo speglo,
 In che, prima che pensi, el pensier pandi.
 22 Ma perchè 'l sacro amor, in che io veglo
 Com perpetua vi[s]ta, e che m'asseta
-Di dolce desiar, s'àdempia meglo,
+Di dolce desiar, {{s'àdempia|s'adempia}} meglo,
 23 La voce tua sicura, balda e lieta
 Suoni la volontà, suoni 'l desio,
 A che la mia risposta è già decreta.

@@ -9,7 +9,7 @@ Che carità al suo piacer conforma.
 Fuggìmi, e nel suo habito mi chiusi,
 E promisi la via de la suo secta.
 36 Huomini poi, al mal più ch'al ben usi,
-Fuor mi rapitten de la dolce chiostra;
+Fuor mi {{rapitten|rapiron}} de la dolce chiostra;
 Dio lo si sa qual poi mia vita fusi.
 37 E quell'altro splendor, che ti si mostra
 Da la mia dextra parte, e che s'accende
@@ -38,7 +38,7 @@ Et Deus scit qualis postea mea vita fuit.
 A mea dextra parte, et qui accenditur
 De toto lumine spere nostre,
 38 Quidquid dico de me, intellige de ipso:
-Soror fuit, et sic ei fuit abrecta
+Soror fuit, et sic ei fuit {{abrecta|abrepta}}
 De capite umbra sacrarum bendarum.
 39 Sed postquam solum ad mundum fuit revoluta,
 Contra suam voluntatem et contra bonam consue-
@@ -55,7 +55,7 @@ vestitur, scilicet religiose, et velatur, scilicet velo nigro in
 capite; ad hoc ut usque ad mortem vigiletur et dormiatur,
 idest Deo serviatur, cum illo sponso, idest Christo, qui
 omne votum acceptat, quod caritatem ad complacentiam
-confirmat. Nam vita contemplativa est perfecta; vita etiam
+{{confirmat|conformat}}. Nam vita contemplativa est perfecta; vita etiam
 activa est causa multorum meritorum.
 
 A mundo, propter sequi, idest imitari, illam, scilicet San-

@@ -13,10 +13,10 @@ Pur a Beatrice, ch'è opra di fede.
 Specifica virtù, à 'n sè collecta,
 18 La qual senz'operar non è sentita,
 Nè si dimostra ma (4) che per effecto,
-Come per verdi frondi in pianta vita.
+Come per verdi frondi in pianta {{vita|viva}}.
 19 Però, là onde vegna l'intellecto
 De le prime notitie, homo non sape,
-Et è prima appettibile l'effecto,
+Et è prima appettibile {{l'effecto|l'affecto}},
 20 Che son in voi, sì come studio in ape
 Di far lo mele; e questa prima vogla
 Merto di lode o di biasmo non cape.

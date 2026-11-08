@@ -33,7 +33,7 @@ In tertia, que incipit ibi:
 Quivi il lasciammo:
 Hic eum dimisimus,
 
-ponuntur signa, per que mostratur sibi civitas Inferni.
+ponuntur signa, per que {{mostratur|monstratur}} sibi civitas Inferni.
 In quarta, que incipit ibi:
 Io vidi più di mille;
 Ego vidi plus quam mille,

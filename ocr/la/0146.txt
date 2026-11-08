@@ -3,7 +3,7 @@
 INFERNI
 
 22 Et elli a me: Doppo lunga tencione
-Verrauno al sangue, e la parte selvaggia
+{{Verrauno|Verranno}} al sangue, e la parte selvaggia
 Caccierà l'altra con molt'offensione.
 
 22 Et ipse ad me: Post longam questionem

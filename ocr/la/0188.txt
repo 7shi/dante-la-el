@@ -59,7 +59,7 @@ presentem; fecit tamen res et facta magnanima.
 *O Tosco*: audierat enim Dantem loqui: *vivus*, non
 mortuus, scilicet in aliquo vitio heresis; ymo fuit valde
 catholicus ipse Dantes, ultra omnes poetas, qui eum pre-
-cesserunt; loquor preter sanctos: *honeste*, honorabilis:
+cesserunt; loquor preter sanctos: *honeste*, {{honorabilis|honorabiliter}}:
 honestum dicitur ab honore.
 
 *Tua loquela te facit manifestum*, scilicet tusca: *de illa*

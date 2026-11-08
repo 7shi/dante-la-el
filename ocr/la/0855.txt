@@ -17,7 +17,7 @@ Del carro, e lasciar lei di sè pennuta (9).
 
 40 Postea vidi adventari in cunam
 Triumphalis vehiculi unam vulpem,
-Que omnis boni pastus apparebat iciuna.
+Que omnis boni pastus apparebat {{iciuna|ieiuna}}.
 41 Sed, reprehendendo ipsam de turpibus culpis,
 Domina mea misit ipsam in tantam fugam,
 Quantum sustinuerunt ossa sine pulpis.

@@ -8,7 +8,7 @@ Et eravamo attenti ad altra cura.
 38 Quivi la ripa fiamma in fuor balestra;
 E la cornice spira fiato in suso,
 Che la riflecte, e via da lei sequestra;
-39 Ond'ir ne convenia dall'alto schiuso
+39 Ond'ir ne convenia {{dall'alto|dal lato}} schiuso
 Ad uno ad uno, et io temea el foco
 E quinci e quindi temea cader giuso.
 40 Lo Duca mio dicea: Per questo loco
@@ -42,7 +42,7 @@ Quod volvendi michi fecit desiderare non minus:
 Ex quo respiciebam ad eos et ad meos passus,
 Compartiendo visum ad quando ad quando.
 
-*Et iam ventum ad ultimam torturam*. *E già venuto*
+*Et iam ventum ad ultimam torturam*. *E già {{venuto|venuti}}*
 *all'ultima tortura*: ista est quarta pars huius capituli,
 in qua auctor transit ad materiam luxurie. Sciendum est
 tamen primo, quod pena luxuriosorum est quod stant in

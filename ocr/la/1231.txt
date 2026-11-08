@@ -65,12 +65,12 @@ intendere, anzi sente qualcosa che lo tira a sè, al di là di sè
 stesso, e non ne riceve poco conforto; laddove, perfidiando a
 valicar que' confini, si sente avvolto in una lotta che lo mette
 in desolazione.
-Ciò che nell'argomento della visione beatifica puo tenersi
+Ciò che nell'argomento della visione beatifica {{puo|può}} tenersi
 per certo, si è che il lume naturale del nostro intelletto, il quale
-ci fa ora tanto superbire, e che sembra ed è in realta si gran
+ci fa ora tanto superbire, e che sembra ed è in {{realta|realtà}} {{si|sì}} gran
 cosa (poichè tra le cose della natura s'innalza principe e giu-
 dice sopra tutte quante), rimpetto al lume beatifico è nebbia,
-oscurita, anzi cecita, dice il Poeta con quel suo fraseggiare
+{{oscurita|oscurità}}, anzi {{cecita|cecità}}, dice il Poeta con quel suo fraseggiare
 tutto di rilievo:
 
 E lasciommi fasciato di tal velo

@@ -3,7 +3,7 @@
 CAPITULUM TRICESIMUMTERTIUM
 
 16 E forse che la mia narration buia,
-Qual Temi e Spingi, e metti persuade,
+Qual Temi e Spingi, {{e metti|men ti}} persuade,
 Perch'al lor modo lo 'ntellecto actuia;
 17 Ma tosto fier le Fate e le Nayade,
 Che solveranno questo enygma forte,
@@ -29,7 +29,7 @@ Sine dampno ovium vel bladorum.
 18 Tu nota; et sicut a me sunt porrecta,
 Sic ista verba doceas vivos
 Vivere quod est unum currere ad mortem;
-19 Et scis memor, quando tu illa scribis,
+19 Et {{scis|sis}} memor, quando tu illa scribis,
 Non celare qualem vidisti planctam,
 Que bis nunc est derobata ibi.
 20 Quicumque rubat illam, vel illam rumpit,

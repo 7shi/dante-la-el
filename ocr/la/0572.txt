@@ -17,7 +17,7 @@ Quant'è mestier infin al sommo smalto,
 39 Cominciò ella, se novella vera
 Di Valdimagra, o di parte vicina,
 Sai, dill'a me che già grande là era.
-40 Chiamato fui Currado Melespina:
+40 Chiamato fui Currado {{Melespina|Malaspina}}:
 Non son l'antico, ma di lui discesi;
 A'miei portai l'amor che qui raffina.
 
@@ -85,7 +85,7 @@ ducit in altum, reperiat in tuo arbitrio tantam ceram,
 quanta est necesse usque ad viridem smaltum, idest usque
 ad verticem montis, ubi sunt omnia virid[i]a, arbores et
 herbe, incepit, scilicet loqui, illa, scilicet anima Conradi, si
-novum verum de Valle Magra, vel de parte vicina, scis, die
+novum verum de Valle Magra, vel de parte vicina, scis, {{die|dic}}
 michi illud, quia iam grandis ibi eram. Ista littera, scilicet:
 Si lucerna, etc., potest exponi dupliciter, sic. Videlicet: Si
 lux Virgilii, idest rationis naturalis, que te ducit per mon-

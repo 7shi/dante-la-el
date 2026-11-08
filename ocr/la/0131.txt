@@ -50,7 +50,7 @@ Multus planctus me percutit.
 
 *Mynos*: notandum hystorialiter, quomodo fuit quidam
 rex in insula Cretensi vocatus Mynos, qui fuit iustus
-index, et primo dedit leges Cretensibus, per quas leges
+{{index|iudex}}, et primo dedit leges Cretensibus, per quas leges
 Cretenses optime regebantur. Mynos fingitur rex Inferni,
 sicut fuit iustus et cognitor peccatorum in insula Crete,
 sive Candie. Sed Mynos moraliter est conscientia, que mi-

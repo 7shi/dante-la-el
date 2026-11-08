@@ -4,7 +4,7 @@ PARADISI
 
 25 Dio vede tutto, e'l tuo veder s'illuia,
 Diss'io, beato spirto, sì che nulla
-Vogla di sè a te puot'esser suia.
+Vogla di sè a te puot'esser {{suia|fuia}}.
 26 Dunque la voce tua, che 'l ciel trastulla
 Sempre col canto di quei fochi pii
 Che di sei hali facean la cuculla,
@@ -52,7 +52,7 @@ spiritus, ita quod nihil voluntatis illius, idest nulla voluntas
 eius, Dei, tibi potest esse absconsum; idest, tu vides que
 Deus vult, intuendo in eum.
 
-E[r]go vox tua, que celum letificat semper cum incantu
+E[r]go vox tua, que celum letificat semper cum {{incantu|cantu}}
 illorum ignium piorum, idest spirituum seraphicorum, qui
 de sex alis faciebant cucullam (cuculla est habitus, sive
 tunica, monachorum; Seraphim cum sex alis depingitur ab
@@ -84,7 +84,7 @@ apud Giaffum sive Ioppem), ubi orizontem, idest circulum
 terminantem visum, prius facere solet; quia in Hispania,
 in occidente, ubi incipit tale mare, facit, quando sol occidit,
 orizontem. Non vult aliud dicere, nisi quod illud mare
-Mediterrancum incipit ab occidente, invadit usque ad me-
+{{Mediterrancum|Mediterraneum}} incipit ab occidente, invadit usque ad me-
 ridiem, quia Hierusalem est in meridie sine fallo.
 
 Illius vallis fui ego lictoranus, inter Ebrum (flumen

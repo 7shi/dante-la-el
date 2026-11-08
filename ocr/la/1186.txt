@@ -3,7 +3,7 @@ CAPITULUM VICESIMUMSEPTIMUM
 1 Al Padre, al Figlo, allo Spirito Sancto
 Cominciò gloria tutto 'l Paradiso,
 Sì che m'inebriava el dolce canto.
-2 Ciò ch'io udiva, mi sembrava un riso
+2 Ciò ch'io {{udiva|vedeva}}, mi sembrava un riso
 Dell' universo; per che mia ebrezza
 M'entrava per l'udito e per lo viso.
 3 O gioia! o ineffabile allegrezza!
@@ -48,7 +48,7 @@ auctor describit suum ascensum simul cum Beatrice ad
 speram nonam et ultimam, que dicitur primum mobile.
 In quarta parte, que incipit ibi:
 O cupiditas, que mortales offendis:
-O cupidigia, ch'e mortali offendi.
+O cupidigia, ch'e mortali {{offendi|affonde}}.
 
 auctor exclamat contra omnes viventes in vitiis involutos.
 

@@ -39,7 +39,7 @@ In tertia, que incipit ibi:
 Vidi dominam que prius michi apparuit;
 Vidi la donna che prima m'appario,
 
-ponitur interpretatio Beatricis, quam fecit ipsi Danti.
+ponitur {{interpretatio|increpatio}} Beatricis, quam fecit ipsi Danti.
 In quarta, que incipit ibi:
 Non solum propter operam rotarum magnarum;
 Non pur per l'opre de le rote magne,

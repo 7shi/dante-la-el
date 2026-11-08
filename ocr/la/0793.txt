@@ -61,7 +61,7 @@ custos multorum gregum, qui foris hospitatur iuxta pe-
 culium suum, quietus pernoctat, custodiendo, ut fera illud
 non spargat, idest dividat, vel dampnificet; tales eramus
 omnes tres tunc, ego sicut capra et ipsi sicut pastores,
-fascidiati, idest circumdati hinc et inde, a grupta.
+{{fascidiati|fasciati}}, idest circumdati hinc et inde, a grupta.
 
 Et quia scala erat cavata in saxo, sive excisa, inde pa-
 rum videre poterant de celo. Sed tamen aliquid de ipso

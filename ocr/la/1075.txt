@@ -8,7 +8,7 @@ Segnata bene dell'eterna stampa;
 4 Non perchè nostra conoscenza cresca
 Per tuo parlar, ma perchè tu t'ausi
 A dir la sete, sì che l'huom ti mesca.
-5 O cara pietra mia, che sì t'insusi,
+5 O cara {{pietra|piota}} mia, che sì t'insusi,
 Che, come veggion le terrene menti
 Non caper in triangol due ottusi,
 6 Così vedi le cose contingenti,
@@ -81,7 +81,7 @@ alienis, etc., et quod oporteret te ire per mundum et come-
 dere panem alienum; non quod propterea nostra cognitio
 crescat (quia iam scimus quod tu vis dicere, quia omnia
 videmus in Deo tamquam in speculo, in quo omnia limpi-
-dissime relucent) propter tuum loqui, sed adhuc ut as-
+dissime relucent) propter tuum loqui, sed {{adhuc|ad hoc}} ut as-
 suescas ad dicendum sitim, idest ad indicandum ardorem
 tuum, ut detur tibi potus, idest ut declaretur tibi id quod
 tu appetis scire, ita quod homo tibi mescet, idest propinet.

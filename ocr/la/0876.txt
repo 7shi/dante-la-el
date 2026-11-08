@@ -21,7 +21,7 @@ Nescit, nec potest qui ab inde descendit;
 3 Quia, appropinquante se suo desiderio,
 Noster intellectus se profundat tantum,
 Quod retro memoria non potest ire.
-4 Verum quantum de suo regno
+4 Verum quantum de {{suo|sancto}} regno
 In mea memoria potui facere thesaurum,
 Erit nunc materia mei cantus.
 5 O bone Apollo, ultimo labori

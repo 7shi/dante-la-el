@@ -10,10 +10,10 @@ Sì che per temperanza di vapori
 L'occhio la sostenea lunga fiata (2):
 10 Così dentr' una nuvola di fiori,
 Che dalle mani angeliche saliva,
-E ricidea in giù dentr'e di fuori,
+E {{ricidea|ricadea}} in giù dentr'e di fuori,
 11 Sovra candido vel (3) cincto d'uliva
 Donna m' apparve, socto verde manto,
-Vestito di color di fiamma viva.
+{{Vestito|Vestita}} di color di fiamma viva.
 12 Lo spirto mio, allhorchè già cotanto
 Tempo era stato colla sua presenza,
 Non era di stupor, tremando, affranto,

@@ -66,7 +66,7 @@ Et istas contingentias esse intelligo res generatas, quas
 producit cum semine et sine semine celum se movens; quia
 celum producit aliqua et generat sine propagatione, sicut
 sunt multa animalia imperfecta, et etiam alique alie res.
-Cera istorum, idest materia, generabilium et corrupti-
+Cera istorum, idest materia, generabilium et {{corrupti-|corruptibi-}}
 lium, et quod per illam ducit, scilicet virtus celi, non stat
 uniformiter, scilicet semper uno modo, sed sepissime est
 diversa; et ideo sub signo ydeali plus et minus tralucet,
@@ -95,7 +95,7 @@ tibus bene dispositis: si igitur non sunt bene disposita
 non produceretur bonus effectus.
 
 Ideo si calidi amoris clara visio, idest ars immensa Spi-
-ritus Sancti, a prima virtute, scilicet a divina, sive a medio
+ritus Sancti, a prima virtute, scilicet a divina, sive {{a medio|sine medio}}
 celi, se solo, non concurrente celo, disponit, scilicet aliquam
 rem, et signat, idest operatur, tota perfectio ibi acquiritur:
 idest optimus effectus producitur, sicut agens intendit.

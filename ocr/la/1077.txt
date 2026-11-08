@@ -56,7 +56,7 @@ nire, tota est depicta in conceptu eterno.
 Necessitatem inde non apprehendit; idest quamvis res
 contingentes sint depicte in Deo, propter hoc tamen non
 evenient de necessitate, nisi sicut a visu, idest a facie, in
-quo speculatur, vel videtur, navis que per correntem infra
+quo speculatur, vel videtur, navis que per {{correntem|torrentem}} infra
 descendit. In isto ternario prescripto, respondet ille spi-
 ritus une tacite obiectioni. Posset quis dicere: Si Deus
 videt ista contingentia esse futura, et scientia Dei est in-
@@ -70,7 +70,7 @@ ipsi necessario trahant currum. Et nota quod nihil est fu-
 turum in Deo, quia in Deo non currit tempus, sed ipse
 in istanti eternitatis omnia videt. Sumatur exemplum tale
 satis grossum. Tu stas in lictore maris, et vides navim
-cum bono ventu venire ad portum; tunc tu dices: Ecce
+cum bono {{ventu|vento}} venire ad portum; tunc tu dices: Ecce
 illa navis statim veniet ad portum, et cum salute. Illa tua
 tamen visio non imponit necessitatem illi navi, quod ipsa
 veniet cum salute ad portum, quia posset habere aliquod

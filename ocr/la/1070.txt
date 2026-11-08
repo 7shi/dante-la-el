@@ -15,7 +15,7 @@ Se di nuovi vicin fusser digiuni.
 Per lo giusto disdegno che v'à morti,
 E posto ha fine al vostro viver lieto,
 
-43 Quilibet de pulchro signo portat
+43 {{Quilibet de|Quilibet qui de}} pulchro signo portat
 Grandis Baronis, cuius nomen et cuius pretium
 Festum Sancti Thome reconfortat,
 44 Ab ipso habuit militiam et privilegium;
@@ -54,7 +54,7 @@ Ugo, et est sepultus in illa ecclesia Sancte Marie. Modo
 quilibet de illis quinque domibus, portavit signum, idest
 arma illius boni et optimi militis, sive baronis. Quilibet
 qui de pulchro signo portat grandis baronis, cuius no-
-men et cuius pretium festum Sancti Thome reinconfortat
+men et cuius pretium festum Sancti Thome {{reinconfortat|reconfortat}}
 (illa domus consuevit celebrare omni anno festum Sancti
 Thome, sicut ille dimisit in suo testamento, et sic fit ho-
 diernis temporibus), ab illo, scilicet barone, habuit mili-
@@ -106,7 +106,7 @@ potuit consolari.
 Domus, de qua natus est vester fletus, scilicet domus de
 Bondelmontibus, propter iustam indignationem, que vos in-
 terfecit, idest ad mortem deduxit, et posuit finem vestro vi-
-vere leto, erat honerata ipsa et sui consortes. Aliqui dicunt,
+vere leto, erat {{honerata|honorata}} ipsa et sui consortes. Aliqui dicunt,
 quod auctor loquitur hic de domo Amydeorum, quia pro-
 pter puellam de domo Amideys venerunt tot mala; sed ego
 credo quod auctor loquitur de domo [de] Bondelmontibus,

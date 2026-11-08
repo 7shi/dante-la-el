@@ -95,7 +95,7 @@ adventum istius spiritus Sancti Ioannis. Idest, sicut ho-
 neste, modeste, invitata virgo ad nuptias, intrat in tripu-
 dium, sive in coream, ad honorandum novitiam (Ytalici
 vocant sponsam mulierem, quando vadit ad virum suum,
-novitiam, *noritia*); ita supple Spiritus Sancti Ioannis in-
+novitiam, *{{noritia|novitia}}*); ita supple Spiritus Sancti Ioannis in-
 travit inter istas duas animas, scilicet Sanctorum Petri et
 Iacobi. Et sicut surgit, quando sedit diu, et vadit et intrat
 tripudium virgo leta, solum propter facere honorem no-
@@ -108,5 +108,5 @@ lista semper fuit virgo, ideo Christus in cruce Virginem
 virgini commendavit. *Ardori*: quasi dicens, velociter mo-
 ven[tur], quia ardor amoris volvit eos.
 
-Volvit se in cantum et in notam: et mea domina tenebat
+{{Volvit se|Misit se}} in cantum et in notam: et mea domina tenebat
 in eos aspectum, ac sicut sponsa tacita [et immota]. Quasi

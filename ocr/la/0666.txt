@@ -69,7 +69,7 @@ vita, et magis morali, illos reponat. Illi sunt tres infra-
 scripti: scilicet Conradus de Palatio et bonus Gherardus
 et Guido de Castello, qui melius nominatur gallice, adver-
 bialiter sumitur hic) simplex Lombardus.
-Nota quod isti tres fuerunt valde boni viri. Couradus
+Nota quod isti tres fuerunt valde boni viri. {{Couradus|Conradus}}
 de Palatio fuit de Brixia, civitate Lombardie, virtuosus
 homo et maxime pro republica. Nam dum esset in bello
 pro sua civitate, amputata fuerunt brachia et truncata;

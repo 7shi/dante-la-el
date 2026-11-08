@@ -13,7 +13,7 @@ Aliqui fetores sunt a natura loci, aliqui procedunt
 ab istis spiritibus sic fetentibus. Talis pena bene
 convenit alchimistis et falsantibus metalla. Nam
 stant in fetoribus, quia alchimiste utuntur sulfure
-comburendo ipsum, quod generat maximes feto-
+comburendo ipsum, quod generat {{maximes|maximos}} feto-
 res; utuntur arsinico, losengardo, et aliquibus re-
 bus venenosis, maxime fetentibus. Et sicut lepra est
 corrupcio humorum, et etiam ydropisis, et etiam

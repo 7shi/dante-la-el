@@ -49,7 +49,7 @@ a Florentinis, semper tenuit cum eis partem guelfam, et
 pro eis ubique erat contra Gebellinos; aliter tamen de
 natura erat gebellinus: et ideo in Faventia, in Ymola erat
 gebellinus, in Tuscia erat guelfus; et hoc erat sibi ad in-
-famiam, qued in uno loco esset guelfus et in alio gebel-
+famiam, {{qued|quod}} in uno loco esset guelfus et in alio gebel-
 linus. Ideo dicit textus: Bene facient Pagani, idest de domo
 Paganorum, postquam demonium eorum, idest postquam
 domus eorum, deficiet, quia nemo de tali domo remansit;

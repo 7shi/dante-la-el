@@ -47,7 +47,7 @@ Super aquam levis sicut scola.
 Asperges me ita dulciter fuit auditum,
 Quod nescio reminisci, nedum illud scribam.
 34 Pulchra domina in brachiis se aperuit,
-Amplexata est michi caput, et [de] me subrisit,
+Amplexata est michi caput, et [de] me {{subrisit|submersit}},
 Unde convenit quod aquam inglutirem.
 35 Inde me traxit, et balneatum me obtulit
 Intra coream quatuor pulchrarum,

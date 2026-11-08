@@ -31,7 +31,7 @@ Scias quod quam cito anima tradit,
 44 Sicut feci ego, corpus suum eripitur
 Ab uno demonio, qui postea illud gubernat
 Usquequo tempus suum totum sit volutum.
-45 Ipsa cadit in talem citernam;
+45 Ipsa cadit in talem {{citernam|cisternam}};
 Et forsan apparet adhuc corpus superius
 Umbre que hic me retro vernat.
 46 Tu debes scire, si tu venis primo deorsum:
@@ -44,7 +44,7 @@ Et comedit et bibit et dormit et vestit pannos.
 Ubi bullit tenax pix,
 Non pervenerat adhuc Michael Zancha,
 49 Quando iste dimisit unum dyabolum, in sua vice,
-In corpore suo et unius sui proximani,
+In corpore suo et unius sui {{proximani|proximi}},
 Qui prodicionem simul cum eo fecit.
 
 (1) ghiacciate. — (2) fa tradimento a' suoi consorti e parenti. — (3) muove. — (4) a lui constituito da Dio. — (5) fornito. —

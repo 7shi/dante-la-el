@@ -3,7 +3,7 @@
 CAPITULUM DECIMUMOCTAVUM
 
 38 L'altra beatitudo, che contenta
-Parea prima d'imgiglarsi a l'Emme,
+Parea prima {{d'imgiglarsi|d'ingiglarsi}} a l'Emme,
 Con poco moto seguitò la 'mprenta.
 39 O dolce stella, quali e quante gemme
 Mi dimostraro che nostra iustitia
@@ -31,7 +31,7 @@ Apparebat primo liliare se ad M,
 Cum pauco motu sequuta est impressionem.
 39 O dulcis stella, quales et quante gemme
 Michi demonstrarunt quod nostra iustitia
-Effectus sint celi quod tu ingemmas!
+Effectus {{sint|sit}} celi quod tu ingemmas!
 40 Quare ego precor mentem, in qua initiatur
 Tuus motus et tua virtus, quod respiciat
 Unde exit fumus qui tuum radium vitiat;
@@ -70,7 +70,7 @@ hec est quarta pars huius capituli, in qua auctor sup-
 plicat Deo ut faciat ultionem de illis, qui corrumpunt iu-
 stitiam, dicens: Quare ego precor Mentem, idest divinam,
 in qua initiatur, idest principiatur, tuus motus et tua
-virtus, quod respiciat unde exit fumus, qui totum radium
+virtus, quod respiciat unde exit fumus, qui {{totum|tuum}} radium
 vitiat, idest maculat, scilicet avaritiam, et maxime pasto-
 rum Ecclesie; ita quod alia vice ammodo irascatur, idest ad
 iram moveatur, de emere et vendere, idest de emptionibus

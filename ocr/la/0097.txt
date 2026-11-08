@@ -10,7 +10,7 @@ Dirotti, perch'io venni, e quel ch'io intesi
 Nel primo punto che di te mi dolve (2).
 18 Io era tra color che son sospesi,
 E donna mi chiamò beata e bella,
-Tal che del domandar io la richiesi.
+Tal che {{del domandar|di comandar}} io la richiesi.
 19 Lucevan gl'occhi suoi più che la stella;
 E cominciommi a dir suave e piana,
 Con angelica voce in sua favella:
@@ -62,7 +62,7 @@ propter vilitatem faciebat.
 tibi Danti ostendere, quare ad te venerim, et a quo mictor,
 ut tu a tuo timore te solvas.
 
-*Nel primo puncto che di te me dolui*: quando me tibi
+*Nel primo puncto che di te me {{dolui|dolve}}*: quando me tibi
 obtuli in monte, etc.
 
 *Io era*. *Ego eram*: idest in Limbo, ubi nos sapientes non
@@ -86,7 +86,7 @@ utitur latino plano et suavi, non superbo, sicut faciunt
 poete. Dicit Sanctus Ieronimus, quod aliquando videbatur
 sibi sermo divinus incultus, sed postmodum apparuit sibi
 valde suavis.
-*In angelica fuvella*: quia sacram Scripturam fecerunt
+*In angelica {{fuvella|favella}}*: quia sacram Scripturam fecerunt
 hii qui habuerunt intellectum angelicum, sicut fuerunt Spi-
 ritus Sanctus, Sancti Angeli, Gregorius, Ieronimus, Am-
 brosius, et ceteri Sancti Doctores.

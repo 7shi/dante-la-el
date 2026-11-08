@@ -25,7 +25,7 @@ Octo volte la coda al dosso duro,
 E poi per la gran rabbia la (18) si morse,
 43 Disse: Quest'è de'rei del fuoco furo;
 Perch'io là dove vedi so'perduto,
-E sì vestito (19) andando mi raccuro (20).
+E sì vestito (19) andando mi {{raccuro|rancuro}} (20).
 
 (1) suoi. — (2) in apparentia. — (3) e non consentirli. — (4) hora. — (5) grande. — (6) poco. — (7) al. sull'alto. — (8) sedia papale. —
 (9) sancto. — (10) demoni. — (11) nell'Inferno. — (12) dannati. — (13) decte a papa Bonifatio. — (14) al capo. — (15) pechare. —
@@ -55,7 +55,7 @@ Et postquam propter grandem rabiem illam
 [momordit,
 43 Dixit: Iste est de reis ignis furi;
 Ex quo ubi vides sum perditus,
-Et ira vestitus eundo me rancuro.
+Et {{ira|ita}} vestitus eundo me rancuro.
 
 Tunc me impulerunt argumenta gravia, ubi tacere meum
 fuit apprehendi peius. Quia decreveram tacere, et non re-

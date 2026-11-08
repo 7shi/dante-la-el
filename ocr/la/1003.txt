@@ -90,7 +90,7 @@ Sed ipsa virgo Maria stabat infra in terra, paupertas erat
 cum Christo sursum in cruce.
 
 Sed ut ego non procedam nimis clause, idest obscure,
-Francisci paupertatem pro istis amantibus apprehende,
+{{Francisci paupertatem|Franciscum et Paupertatem}} pro istis amantibus apprehende,
 idest intellige, ammodo in sermone meo diffuso. Ita quod
 matrimonium factum est inter istos duos.
 

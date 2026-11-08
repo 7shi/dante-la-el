@@ -23,7 +23,7 @@ Ubi apponuntur omne ubi et omne quando.
 5 Non propter habere sibi de bono acquisitum,
 Quod esse non potest, sed ad hoc ut suus splendor
 Posset, resplendendo, dicere, Ego subsisto,
-6 In ista eternitate extra tempus,
+6 In {{ista|sua}} eternitate extra tempus,
 Extra omne aliud comprehendere, sicut [s]ibi
 [placuit,
 Aperuit [se] in novem amores eternus Amor.

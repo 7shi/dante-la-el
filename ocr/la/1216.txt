@@ -106,7 +106,7 @@ allegant, illam retorquent, idest male exponunt.
 Non cogitatur ibi, idest apud tales predicatores, quantum
 sanguinem constat seminare illam in mundo, scilicet Sa-
 cram Scripturam, quia sanguis Christi [et] Martyrum propter
-hoc effectus est; idest tantum displicet Deo et toti celesti
+hoc {{effectus|effusus}} est; idest tantum displicet Deo et toti celesti
 curie, quod Sacra Scriptura sic pervertatur et negligatur,
 quantum carus est sanguis Christi et Martyrum, et sic
 per oppositum quantum gratum sit Deo et quantum pla-

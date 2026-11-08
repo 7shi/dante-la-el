@@ -16,7 +16,7 @@ Quand'ella entrò col foco onde sempre
 3 Incipe igitur, et dic ubi punctatur
 Anima tua, et fac rationem quod sit
 Vista tua in te devia sed non defuncta;
-4 Quia domina, que per istum divam
+4 Quia domina, que per {{istum|istam}} divam
 Regionem conducit te, habet in conspectu
 Virtutem quam habuit manus Ananie.
 5 Ego dixi: Ad suum placitum et citum et tardum

@@ -77,7 +77,7 @@ Normandie, idest Ricardi, et fuit probus et sapiens. Ru-
 bertus, semel vadens ad Sepulchrum Christi, transivit per
 Terram Laboris, que est una provintia in regno Apulie. In
 millesimo quadragesimo Domini, dum rediret de Sepulchro
-Christi, memor corum, que viderat in provintia Terre La-
+Christi, memor {{corum|eorum}}, que viderat in provintia Terre La-
 boris in eundo, voluit iterum videre partes illas. Tunc au-
 tem erat *guerra* magna inter principem Capue et princi-
 pem Salerni, qui non bene sciebat facere *guerram*. Sic

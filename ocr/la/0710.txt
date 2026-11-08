@@ -1,6 +1,6 @@
 656
 
-PURGATORI
+{{PURGATORI|PURGATORII}}
 
 21 Mentre che la gran dota Provenzale (1)
 Al sangue mio non tolse la vergogna (2),
@@ -8,7 +8,7 @@ Poco valea (3), ma pur non facea male (4).
 22 Lì cominciò con forza e con menzogna
 La sua rapina; e poscia, per amenda (5),
 Ponti e Normandia prese, e Guascogna.
-23 Karlo (6) venne in Italia, e, per vicenda (7),
+23 Karlo (6) venne in Italia, e, per {{vicenda|ammenda}} (7),
 Victima fe' di Corradino (8); e poi
 Ripinse in ciel Thomaso (9), per emenda.
 24 Tempo vegg'io, non molto dipo'ancoi,

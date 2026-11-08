@@ -29,7 +29,7 @@ Degna più (18) d'esser messa (19) in gelatina (20):
 Dixi ego, qui estis? Et illi plicaverunt colla;
 Et postquam habuerunt ad me visus rectos,
 16 Oculi eorum, qui erant prius intus molles,
-Guctaverunt super labia prius, et gelu strinxit,
+{{Guctaverunt|Gustaverunt}} super labia prius, et gelu strinxit,
 Lacrymas intra ipsos, et eos reclusit.
 17 Cum ligno lignum sprangia nunquam cinxit
 Fortiter sic; unde ipsi, sicut duo yrci,

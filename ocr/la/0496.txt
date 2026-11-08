@@ -5,7 +5,7 @@ PURGATORII
 40 Noi andavàn per lo solingo piano
 Com’huom che torna a la perduta strada,
 Che in fin ad essa li par ir invano.
-41 Quando noi fummo la du’ (1) la rogiada
+41 Quando noi fummo {{la|là}} du’ (1) la rogiada
 Pugna col sole, per essere in parte
 Dove adorezza, poco si dirada;
 42 Ambo le mani in sull’herbetta sparte

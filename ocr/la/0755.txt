@@ -4,7 +4,7 @@ CAPITULUM VICESIMUMQUARTUM
 
 15 Femmina è nata, e non porta ancor benda,
 Cominciò elli, che ti farà piacere
-La mia città, com' huom che la riprenda.
+La mia città, {{com' huom|come ch'huom}} che la riprenda.
 16 Tu te n'andrai con questo antivedere;
 Se nel mio mormorar prendesti errore,
 Dichiareranti ancor le cose vere.

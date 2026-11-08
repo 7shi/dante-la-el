@@ -15,7 +15,7 @@ Sentimo dietro io e li miei saggi (1).
 Fosse orizonte facto d'uno aspecto,
 E nocte (2) avesse tutte sue dispense,
 25 Ciascun di noi d'un grado (3) fece lecto;
-Chè la natura del mondo (4) ci affranse
+Chè la natura del {{mondo|monte}} (4) ci affranse
 La forza del salir più [ch'] el dilecto (5).
 26 Quali si stanno ruminando manse
 Le capre, state rapide e proterve
@@ -28,7 +28,7 @@ Lungo 'l peculio suo queto pernocta,
 Guardando perchè fiera non lo sperga;
 29 Tali eravammo tuct'e tre (6) allocta,
 Io come capra et ei (7) come pastori,
-Fasciati tutti quindi da la grotta.
+Fasciati {{tutti quindi|quinci e quindi}} da la grotta.
 
 (1) savi, Virgilio e Statio — (2) la — (3) scaglone — (4) di quello Purgatorio — (5) del salire più — (6) Virgilio Statio et io —
 (7) Virgilio e Statio.

@@ -15,7 +15,7 @@ E caddi come l'huom che sonno pigla.
 
 (1) al. passò. — (2) memoria.
 
-43 Hac nunquam transirit anima bona;
+43 Hac nunquam {{transirit|transivit}} anima bona;
 Et ideo si Charon de te lamentatur,
 Bene potes scire ammodo, quid sua dicere sonant.
 44 Finito hoc, obscura campania
@@ -59,7 +59,7 @@ ciantur; et ideo ipse Dantes fuit sopitus, idest nihil amplius
 voluit commictere de istis malis, etc., que ducunt ad Infer-
 num esentiale.
 
-*Terra lacrymosa*: idest, vita lacrymosa. *Ledit ventum*:
+*Terra lacrymosa*: idest, vita lacrymosa. *{{Ledit|Dedit}} ventum*:
 idest, aperuit michi oculos mentis ad talia vitia contemplan-
 dum, ut ipsa conculcarem; idest ut cognoscerem condiciones
 peccatorum et penarum eis convenientium; aperuit michi

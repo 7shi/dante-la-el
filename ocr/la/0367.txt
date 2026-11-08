@@ -12,8 +12,8 @@ Pur come sonno o febbre l'assalisse.
 L'un per la piaga, e l'altro per la bocca,
 Fumava forte, e 'l fumo si scontrava.
 32 Taccia Lucano omai, là dove toccha
-Del misero Sabellio e di Massidio,
-Et attend' a udir quel ch'or si toccha.
+Del misero Sabellio e di {{Massidio|Nasidio}},
+Et attend' a udir quel ch'or si {{toccha|scocca}}.
 33 Taccia di Cadmo e d'Arethusa Ovidio:
 Che se quello (2) in serpente, e quella (3)
 [in fonte,

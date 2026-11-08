@@ -2,7 +2,7 @@
 
 PARADISI
 
-6 E dal septomo grado in giù, sì come
+6 E dal {{septomo|septimo}} grado in giù, sì come
 Infino ad esso, succedon Hebree,
 Dirimendo del fior tutte le chiome;
 7 Perchè, secondo lo sguardo che fee

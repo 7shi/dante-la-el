@@ -100,7 +100,7 @@ malum solum et luminis indigentiam. Et sic auctor stetit
 in Inferno tempore quo disposuerat stare, scilicet tribus
 diebus, etc.
 
-*Prima che de l'abisso me direlle*. *Priusquam de abyssu*
+*Prima che de l'abisso me {{direlle|divella}}*. *Priusquam de abyssu*
 *me evellas*: hec est quarta pars huius capituli, in qua
 movet auctor duo dubia Virgilio, que solvuntur. Primum
 est, ubi est glacies, quia ex quo transiverant centrum, non

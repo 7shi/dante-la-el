@@ -17,7 +17,7 @@ Timidette atterrando l'ochio e 'l muso;
 28 E ciò che fa la prima, e l'altre fanno,
 Addossandosi a lei, s'ella s'arresta.
 Semplici e chete, e lo perchè non sanno;
-29 Si vid'io a venir muover la testa
+29 {{Si|Sì}} vid'io a venir muover la testa
 Di quella mandria fortunata allotta,
 Pudica in faccia, e nell'andar honesta.
 30 Come color dinanzi vider rotta
@@ -79,7 +79,7 @@ feras de die in diem, ne forte veniat ira illius et disperdet
 te: homo non deberet differre penitentiam. Etiam ad Ar-
 thonium dicit Seneca: Nemo tam divos habuit faventes, ut
 crastinam diem possit sibi polliceri. Idem Seneca ad Lu-
-cillum: Omnia aliena sunt, tempus autem nostrum est)
+{{cillum|cilium}}: Omnia aliena sunt, tempus autem nostrum est)
 dicite nobis ubi montanea iacet, ita quod possibile sit ire
 sursum, quia perdere tempus illi, qui plus scit, plus dis-
 plicet.

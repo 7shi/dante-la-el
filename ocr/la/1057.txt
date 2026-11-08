@@ -8,7 +8,7 @@ Era per Francia nel lecto deserta.
 41 L'una veglava a studio de la culla,
 E consolando usava l'ydioma
 Che pria le madri e li padri trastulla;
-42 L'altra trhaendo a la rocha la chioma,
+42 L'altra {{trhaendo|traendo}} a la rocha la chioma,
 Favoleggiava co' la sua famigla
 Dei Troyani, di Fiesole, e di Roma.
 43 Saria tenuta allor tal maravigla,
@@ -32,9 +32,9 @@ Erat per Frantiam in lecto deserta.
 41 Una vigilabat ad studium cune,
 Consolando utebatur ydiomathe
 Quo prius patres et matres alludunt;
-42 Alia trahendo collo comam,
+42 Alia trahendo {{collo|colo}} comam,
 Confabulabatur cum sua familia
-De Troyanis, et de Fiesols, et de Roma.
+De Troyanis, et de {{Fiesols|Fiesolis}}, et de Roma.
 43 Fuisset tunc tentum tale mirum,
 Una Cianguella, et unus Lapus Saltarellus,
 Quale esset nunc Cincinnatus et Cornilia.

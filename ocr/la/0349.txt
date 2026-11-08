@@ -42,7 +42,7 @@ Dicitur Genesis secundo capitulo: Sed et serpens
 calidior cunctis animantibus. Serpens dicitur, quia
 serpendo intrat per fixuras; ita latrones intrant
 per foramina et vias subterraneas. Serpens oditur
-ab omnibus, adeo ut quisque fugiat cum et libenter
+ab omnibus, adeo ut quisque fugiat {{cum|eum}} et libenter
 percutiat; ita fur et latro oditur ab omnibus.
 Serpens fundit venenum, sicut fures et latrones
 fundunt suspiciones, faciendo furta, et odia; quia

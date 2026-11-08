@@ -51,7 +51,7 @@ utramque vitam.
 
 Et ille qui sequitur in circumferentia, de quo ratiocinor,
 per arcum supernum, idest per partem superiorem, arcua-
-lem, oculi, mortem distulit propter meram penitentiam (iste
+lem, oculi, mortem distulit propter {{meram|veram}} penitentiam (iste
 erat spiritus Ezechie, regis Iuda, de quo satis dictum est):
 nunc cognoscit quod iudicium eternum non transmuta-
 tur, quando digne preces faciunt crastinum de odierno,
@@ -66,7 +66,7 @@ trinsecam et secundum dispositionem causarum secunda-
 rum, iam mori debebat, et sic mortuus fuisset nisi humi-
 liatus fuisset et orasset; sed propter penitentiam et ora-
 tionem Deus suspendit influentiam secundarum causarum;
-et sie in hoc rege Ezechia evenit et fiebat de hodierno
+et {{sie|sic}} in hoc rege Ezechia evenit et fiebat de hodierno
 crastinum, idest tardata fuit mors sua; sed iudicium eter-
 num non fuit transmutatum. Iudicium eternum sciebat,
 quia iste, ex complexione sua et ex influentia secundarum

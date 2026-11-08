@@ -35,7 +35,7 @@ Indulgentiam de qua ipsum confidit;
 41 Propter quod tanta stultitia in terra crevit,
 Ita et in tantum quod, sine probatione alicuius
 [testis,
-Ad omnem promissionem cucurreretur.
+Ad omnem promissionem {{cucurreretur|curreretur}}.
 42 De isto impinguat porcum Sanctus Antonius,
 Et alii multi, qui sunt plus quam porci,
 Solvendo de moneta sine conio.
@@ -70,7 +70,7 @@ vulgaribus, quidam amore Sancti Antonii, quidam amore
 Spiritus Sancti, quidam amore Sancte Marie [de] Runcivalle;
 et omnes reportant sacculos plenos, et quasi omnes dant
 fidem cerretanis, idest tructanis) ita et in tantum, quod,
-sine probatione alicuius textis, ad omnem professionem
+sine probatione alicuius {{textis|testis}}, ad omnem {{professionem|promissionem}}
 curreretur, idest unicuique trufatori datur fides, dummodo
 dicat aliqua ad ridendum.
 

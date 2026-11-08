@@ -7,7 +7,7 @@ Le septe Nymphe, con quei lumi in mano
 Che son sicuri d'Aquilone e d'Austro.
 34 Qui sarai tu poco tempo silvano,
 E sarai meco, senza fine, cive
-Di quella torma onde Chrysto è romano;
+Di quella {{torma|Roma}} onde Chrysto è romano;
 35 Però, in pro (1) del mondo che mal vive,
 Al carro tien hor gl'ochi; e quel che vedi,
 Ritornato di là, fa'che tu scrive.

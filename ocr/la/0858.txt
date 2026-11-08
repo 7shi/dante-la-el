@@ -11,7 +11,7 @@ mostrasi dispogliato e secco, benchè robustissimo, e a mano a
 mano che più si alza, tanto dilatante la sua chioma, che
 
 . . . . . fora dagli Indi
-Ne' boschi lor per altezza ammirato.
+Ne' boschi lor per altezza {{ammirato|ammirata}}.
 
 È l'albero della scienza del bene e del male, di cui avendo
 voluto l'uomo cibarsi senza Dio, n'ebbe tossico mortale; tos-

@@ -15,8 +15,8 @@ Lasciasser d'operar ogni lor arte (6);
 Cantando, ricevean intra le fogle,
 Che tenean bordone (7) a le sue rime.
 7 Tal, qual di ramo in ramo si raccogle
-Per la pianetta, in sul lito de' Chiassi,
-Quand' Euro e Scirocco fuor disciogle.
+Per la {{pianetta|pineta}}, in sul lito de' Chiassi,
+Quand' {{Euro|Eolo}} e Scirocco fuor disciogle.
 8 Sì (8) m'havien trasportato e lenti passi
 Dentro alla selva già tanto, ch'io
 Non potea riveder ond'io m'entrassi (9):
@@ -26,7 +26,7 @@ Non potea riveder ond'io m'entrassi (9):
 3 Una aura dulcis, sine mutamento
 Habere in se, me feriebat per frontem,
 Non maioris ictus quam suavis venti;
-4 Propter quam tremulando frondes pinte
+4 Propter quam tremulando frondes {{pinte|prompte}}
 Omnes plicabantur ad partem
 Ubi prius umbram proiicit sacer mons:
 5 Non tamen quod ab earum rectitudine essent sparse
@@ -61,7 +61,7 @@ latur quando de mane cantant) cantando recipiebant intra
 folia, que tenebant tenorem rimis suis, idest rithymis (ista
 folia sic mota causabant unum dulcem sonum, qui erat
 bonus tenor cantui avium), talem, scilicet tenorem, qualis
-de ramo in ramum colligitur, idest auditur, per pinctam
+de ramo in ramum colligitur, idest auditur, per {{pinctam|pinetam}}
 super lictore Chiassi, quando Eolus Eurum, ventum sic
 dictum, extra discioglit, idest dissolvit.
 Nota quod prope Ravennam fuit una civitas, vocata

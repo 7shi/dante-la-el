@@ -20,7 +20,7 @@ e i rapimenti, le estasi, la luce, il riso, i tripudii, la vita vera,
 che lo trasumanano in cielo. Udiamone la parola.
 
 Le vostre cose tutte hanno la morte
-Si come voi; ma celasi in alcuna,
+{{Si|Sì}} come voi; ma celasi in alcuna,
 Che dura molto, e le vite son corte.
 . . . . . . . . . . . . . .
 O poca nostra nobiltà di sangue,
@@ -37,7 +37,7 @@ Che della vista della mente infermi,
 Fidanza avete ne'ritrosi passi;
 Non v' accorgete voi che noi siam vermi,
 Nati a formar l'angelica farfalla,
-Che vola alia giustizia senza schermi?
+Che vola {{alia|alla}} giustizia senza schermi?
 Di che l'animo vostro in alto galla?
 Voi siete quasi entomata in difetto,
 Siccome verme, in cui formazion falla,
@@ -81,7 +81,7 @@ Esser potrà ch'al veder non vi nôi.
 Come, da più letizia pinti e tratti,
 Alla fiata quei che vanno a ruota
 Levan la voce e rallegrano gli atti;
-Cosi all'orazion pronta e devota,
+{{Cosi|Così}} all'orazion pronta e devota,
 Li santi cerchi mostrar nuova gioia
 Nel torneare e nella mira nota.
 Qual si lamenta perchè qui si muoia
@@ -106,9 +106,9 @@ Lume che a lui veder ne condiziona:
 Onde la vision crescer conviene,
 Crescer l'ardor che di quella s' accende,
 Crescer lo raggio che da esso viene.
-Ma si come carbon che fiamma rende,
+Ma {{si|sì}} come carbon che fiamma rende,
 E per vivo candor quella soverchia,
-Si che la sua parvenza si difende;
+{{Si|Sì}} che la sua parvenza si difende;
 Così questo fulgor, che già ne cerchia,
 Fia vinto in apparenza dalla carne
 Che tutto dì la terra ricoperchia.

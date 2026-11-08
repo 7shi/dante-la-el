@@ -86,7 +86,7 @@ nec sciunt. Et licet pica proferat verba humana, tamen non
 intelligit illa: ita sunt aliqui presumptuosi, qui volunt ap-
 parere, et nec intelligunt seipsos; nec aliis possunt tradere
 scientiam, cum pro se nesciunt: tales non habent nisi sonum
-verborum, sicut pice. Invocando Dantes Cailiopem, rogat
+verborum, sicut pice. Invocando Dantes {{Cailiopem|Calliopem}}, rogat
 eam, ut sit sibi ita favorabilis, quod ipse possit confundere
 garrulos et volentes sibi detrahere. Nam Dantes habuit
 multos emulos, tam in vita quam post mortem. Tunc Muse

@@ -16,7 +16,7 @@ Ti ponga in pace la verace corte,
 Che mi rilegha nell'eterno esilio.
 7 Come! diss'elli, e parte (5) andavàn forte;
 Se voi sete ombre che Dio su non degni,
-Chi v'à per la sua scala tante scorte?
+Chi v'à per la sua scala {{tante|tanto}} scorte?
 8 E 'l doctor mio (6): Se tu riguardi a'segni
 Che questi porta e che l'angel profila,
 Ben vedrai che cho'buon convien che regni.

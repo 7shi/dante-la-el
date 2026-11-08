@@ -3,25 +3,25 @@
 CAPITULUM QUARTUM
 
 25 Vedrai come costui convien che vada
-Da l'un, quando colui da l'altro canco,
+Da l'un, quando colui da l'altro {{canco|fianco}},
 Se lo'ntellecto tuo ben chiaro bada.
 26 Certo, maestro mio, diss'io, unquanco
 Non vidi chiaro sì, com'io discerno,
 Là dove mio ingegno parea manco:
-27 Chè 'l mezzo cerchio del monte superno,
+27 Chè 'l mezzo cerchio del {{monte|moto}} superno,
 Che si chiama Equator, in alcun'arte,
 E che sempre riman tra 'l sole e 'l verno,
 28 Per la ragion che di', quinci si parte
 Verso septentrion, quando gl'Hebrei
 Vedevan lui verso la calda parte.
 29 Ma se a te piace, volentier saprei
-Quand'havemo ad andar, che 'l poggio sale
+{{Quand'havemo|Quant'havemo}} ad andar, che 'l poggio sale
 Più che salir non posson gl'occhi miei.
 30 Et elli a me: Questa montagna è tale
 Che sempre al cominciar di sotto è grave,
 E quanto più va in suso men fa male.
 31 Però quand' ella ti parrà suave
-Tanto, che 'n andar ti fie leggiero,
+Tanto, che {{'n andar|su andar}} ti fie leggiero,
 Com' a seconda giù andar per nave;
 32 Allor sarai alfin d'esto sentiero:
 Quivi di riposar l'affanno aspecta.
@@ -57,7 +57,7 @@ oppositus monti Syon) ita, quod ambo habent unum solum
 orizonta et diversa emispiria: unde est strata, idest intra
 que, per quam male scivit currum trahere Phetont, videbis
 quomodo isti convenit, idest quomodo istum oportet quod
-vadat ad ymum, quando illi ad aliud latus, *fianco*, idest
+vadat ad {{ymum|unum}}, quando illi ad aliud latus, *fianco*, idest
 latus, si intellectus tuus bene clare intuitur. Quasi dicens:
 oportet solem quandoque declinare versus polum antharti-
 cum, sicut a Cancro usque ad Capricornium; quandoque ad

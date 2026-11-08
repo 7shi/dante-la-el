@@ -38,7 +38,7 @@ Que michi festinabat adhuc aliquantulum anhe-
 Non me impedivit ire ad eum; et postea
 40 Quum ad eum perveni, elevavit caput vix,
 Dicendo: Vidisti bene, sicut sol
-Ad humerum sinistrun currum ducit?
+Ad humerum {{sinistrun|sinistrum}} currum ducit?
 41 Actus sui pigri et brevia verba
 Moverunt labia mea aliquantulum ad risum;
 Postea incepi: Bivilaqua, michi non dolet

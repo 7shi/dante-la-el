@@ -32,7 +32,7 @@ Possim dimictere future genti;
 Et propter sonare aliquantulum in istis versibus,
 Plus concipietur de tua victoria.
 
-recordor) *tanto ultragio*, idest eccessui. Qualis est ille, qui
+recordor) *tanto ultragio*, idest {{eccessui|excessui}}. Qualis est ille, qui
 sompniando videt, et post sompnium passio impressa re-
 manet, et aliud ad mentem non redit (idest recordatur se
 sompniasse, sed nullus illorum recordatur), talis sum ego.
@@ -98,7 +98,7 @@ fectus gentibus futuris); quia propter redire aliquantulum
 ad meam memoriam, et propter sonare aliquantulum in
 istis versibus, plus concipietur de tua victoria: idest, com-
 prehendetur et cognoscetur a mortalibus, quomodo tu
-omnia vincis, quia a nullo intellectu creatu comprehenderis,
+omnia vincis, quia a nullo intellectu {{creatu|creato}} comprehenderis,
 idest perfecte.
 O lector, tu vis videre bene, si in hac oratione auctor fuit
 bene exauditus, scilicet quod isti versus debeant prodesse

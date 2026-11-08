@@ -27,7 +27,7 @@ gli consentì, nella prosa, dire altrimenti.
 
 Ci confermiamo nella nostra opinione, dall'aver egli cono-
 sciuta la legge universale di gravità, che poi acquistò tanta
-gloria al Newton, e dall'averla cosi mirabilmente espressa nel
+gloria al Newton, e dall'averla {{cosi|così}} mirabilmente espressa nel
 
 . . . . . . . . . . . . . . punto,
 Al qual si traggon d'ogni parte i pesi:
@@ -90,7 +90,7 @@ telligenza, per conseguirlo e in esso trovar la luce di cui ab-
 bisogna, ed in questa quietare e aver pace. L'antico mondo non
 disconobbe questa nostra destinazione. Se non che, navigatore
 senza bussola, e appena con qualche lontano barlume, a cui ri-
-volgersi, in sì vasto oceano, se giunse ad intraveder *la nuoca*
+volgersi, in sì vasto oceano, se giunse ad intraveder *la {{nuoca|nuova}}*
 *terra* che cercava, non riuscì a mettervi il piede; anzi nau-
 fragò, e il mare gli si chiuse sopra. Così Socrate presentiva il
 vero dell'unità di Dio, e Platone quello dell'immortalità del-

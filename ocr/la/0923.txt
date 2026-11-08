@@ -103,9 +103,9 @@ non completis, idest non complendo illa ita cum aliis factis
 et pactis, que vestre statere non sunt parva, idest non sunt
 diminuti ponderis.
 
-Beatrix me, scilicet sic dicentem, rexpexit cum oculis
+Beatrix me, scilicet sic dicentem, {{rexpexit|respexit}} cum oculis
 plenis favillis, idest scintillis igneis, amoris, et ita divinis,
 quod, vi[c]ta mea virtute, oppressa a splendore illo, dedi
 renes, idest inclinavi me versus terram, et quasi me perdidi,
-idest defici, cum oculis inclinatis, propter splendorem et
+idest {{defici|defeci}}, cum oculis inclinatis, propter splendorem et
 reverentiam et timorem, et expectando responsionem.

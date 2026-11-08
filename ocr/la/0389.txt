@@ -102,10 +102,10 @@ sed vulpina; idest non fui valens in armis, sed bene fui
 astutus; et de mea astutia et malitia ivit fama usque ad
 extremum Occidentis.
 *Avisamenta*, idest argumenta, et coopertas vias, ego
-scivi omnia, et ita duxi corum artes, quod ad fines terre
+scivi omnia, et ita duxi {{corum|eorum}} artes, quod ad fines terre
 sonus exivit, idest ubique sonuit fama mea: idest fui astu-
 tissimus et subtilissimi ingenii.
 
 Quando me vidi devenisse in illam partem mee etatis,
 scilicet antique, ubi, idest in qua parte etatis, quilibet
-deberet deponere vel eta recolligere sartas, idest funes;
+deberet deponere {{vel eta|vela et}} recolligere sartas, idest funes;

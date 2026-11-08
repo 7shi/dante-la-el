@@ -3,7 +3,7 @@
 PARADISI
 
 25 Sperent in te, nella sua Theodia
-Dice a color che sanno el nome suo:
+Dice a color che sanno el nome {{suo|tuo}}:
 E chi nol sa, s'elli ha fede mia?
 26 Tu mi stillasti collo stillar tuo
 Nell'epistola poi, sì ch'io son pieno,
@@ -32,10 +32,10 @@ Dicunt illi qui sciunt nomen tuum:
 Et qui[s] nescit id, si habet fidem meam?
 26 Tu in me stillasti cum stillatione tua
 In epistolam postmodum, ita quod ego sum plenus,
-[Et] in aliis vestram pluviam repluo.
+[Et] {{in aliis|in alios}} vestram pluviam repluo.
 27 Interim quod ego dicebam, intra vivum sinum
 Illius incendii tremulabat unus lampor
-Subitus et depressus, ad instar lampi.
+Subitus et {{depressus|densus}}, ad instar lampi.
 28 Inde spiravit: Amor, unde ego evampor
 Adhuc versus virtutem, que me sequuta est
 In palmam, et ad exitum campi,

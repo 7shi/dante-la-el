@@ -8,7 +8,7 @@ Chè mal può dir chi è pien d'altra vogla.
 21 Et elli a me: Dell' etterno consiglo
 Cade virtù nell' acqua e ne la pianta
 Rimasa indietro, ond'io sì m' assottiglo.
-22 Tuct'esta gente che piangendo è tanta,
+22 Tuct'esta gente che piangendo è {{tanta|canta}},
 Per seguitar la gola oltre misura,
 In fame e sete qui si rifà santa.
 23 Di bere e di mangiar n'accende cura
@@ -17,7 +17,7 @@ Che si distende su per sua verzura (1).
 24 E non pur una volta, questo spazzo
 Girando, si rinfresca nostra pena;
 Io dico pena e dovrei dir solazzo;
-25 Chè quella vogla agl'alberi ci mena,
+25 Chè quella vogla {{agl'alberi|all'albero}} ci mena,
 Che menò Chrysto lieto a dir Hely,
 Quando ne liberò co'la sua vena (2).
 26 Et io a lui: (3) Forese, da quel dì
@@ -93,7 +93,7 @@ capituli, in qua auctor movet questionem unam isti spi-
 ritui, que talis est. Vix sunt quinque anni, quod tu mo-
 riebaris, et tu tardasti penitentiam usque ad mortem, et
 fuisti negligens penitere te peccatorum tuorum; quare tu
-deberes esse inferius, ubi poniuntur illi qui tardaverunt
+deberes esse inferius, ubi {{poniuntur|puniuntur}} illi qui tardaverunt
 penitentiam, et ubi oportet quod restauretur tempus per-
 ditum et puniatur. Quomodo, ergo, es tu hic, et quomodo
 venisti tam cito ad istam purgationem?

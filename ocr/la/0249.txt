@@ -49,7 +49,7 @@ Iste michi apparuit, redeundo in illam,
 Et reducit me ad domum ad istum callem.
 19 Et ipse ad me: Si tu sequeris stellam,
 Non potes fallere gloriosum portum,
-Si bene comprehendidi in vita pulchra:
+Si bene {{comprehendidi|comprehendi}} in vita pulchra:
 20 Et si ego non essem sic tempestive mortuus,
 Videndo celum tibi sic benignum,
 Dedissem tibi ad operam confortationem.
@@ -84,7 +84,7 @@ Predestinatio est electio Dei, qua quis salvatur.
 Respondet auctor, dicens: Superius, in vita serena, re-
 spondi ad eum, [deviavi] in una valle, antequam etas mea
 esset plena. *Valle*: idest in silva vitiorum: *vita serena*:
-vita temporalis respectu vice infernalis, que est tenebrosa,
+vita temporalis respectu {{vice|vite}} infernalis, que est tenebrosa,
 ut in primo capitulo continetur: *plena*: idest tempore ado-
 lescentie et iuventutis, prius quam haberem usum liberi
 arbitrii, scilicet ante quatuordecim annos; idest solum heri
@@ -99,6 +99,6 @@ scriptionem et contemplationem.
 *tuam stellam*: idest constellationem, sub qua natus es, vel
 influentiam istius constellationis, non potes fallere glo-
 riosum portum, idest quin pervenias, si bene comprehen-
-didi in vita pulchra. Laudat Dantem de isto opere ince-
+{{didi|di}} in vita pulchra. Laudat Dantem de isto opere ince-
 pto, ut virtus laudata crescat. Si tu sequeris: quasi dicat:
 Licet tu habeas optimam constellationem, tu tamen habes

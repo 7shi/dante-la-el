@@ -56,7 +56,7 @@ apprehensos: et quantum erit placitum iusti Domini, idest
 quantum placet Deo, tantum stabimus immobiles et su-
 spensi, idest desiderio, scilicet dissolvi et liberari.
 
-*Ego me iam genuflexeram*. *Già era ingionecchiato*:
+*Ego me iam genuflexeram*. *Già era {{ingionecchiato|inginocchiato}}*:
 hec est quarta pars huius capituli, in qua auctor solvit
 quedam dubia. Unum dubium erat, si iste hic in Purgatorio
 erat adorandus et venerandus honoribus pontificalibus,

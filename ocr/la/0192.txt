@@ -2,7 +2,7 @@
 
 INFERNI
 
-32 De! se riposi mai nostra semenza,
+32 De! se riposi mai {{nostra|vostra}} semenza,
 Prega'io lui, solvetemi quel nodo,
 Che qui ha inviluppata mia sentenza.
 

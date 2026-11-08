@@ -4,7 +4,7 @@ CAPITULUM DECIMUMOCTAVUM
 
 14 Et al nome dell'alto Machabeo
 Vidi muoversi un altro roteando,
-E letitia era forza de paleo.
+E letitia era {{forza|ferza}} de paleo.
 15 Così per Karlo Magno e per Rolando
 Due ne seguì lo mio attento sguardo,
 Com'ochio segue suo falcon volando.
@@ -75,14 +75,14 @@ guinem pro lege sancta, ut in libris Machabeorum habetur.
 Rex Karolus fuit Theutonicus, fuit rex Frantie, fecit mul-
 tas victorias contra Sarracenos, acquisivit multas nationes,
 liberavit Ytaliam a Lombardis, fuit illustrissimus rex.
-Orolandus fuit suus nepos, qui mortuus est Sitii cum
+Orolandus fuit suus nepos, qui mortuus est {{Sitii|siti}} cum
 cornu, etc.; fuit illustrissimus homo.
 
 Postea traxit Guilhielmum et Reynardum et ducem Got-
 freydum mea visio, idest meus oculus, per illam crucem,
 et Rubertum Guiscardum. Omnes iste anime fuerunt illu-
 stres, et in altum valde iverunt cum gloria. Iste Guilhiel-
-mus etiam mortuus est pro fide christiana inter infedeles,
+mus etiam mortuus est pro fide christiana inter {{infedeles|infideles}},
 et rex Reynardus similiter. Dux Gotfreydus fuit de Loch-
 tringia: Lochtringia est regio in Provintia. Iste Gotfreydus
 cum sotiis suis acquisivit terram sanctam Hierusalem, et

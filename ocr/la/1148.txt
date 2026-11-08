@@ -6,7 +6,7 @@ PARADISI
 Tende le braccia poi che'l lacte prese,
 Per l'animo che'nfin di fuor s'infiamma;
 42 Ciascun di quei candor in su si stese
-Co'la sua fiamma, sì che l'alto affecto
+Co'la sua {{fiamma|cima}}, sì che l'alto affecto
 Ch'avevan a Maria mi fu palese.
 43 Indi rimaser lì nel mio aspecto,
 Regina celi cantando sì dolce,
@@ -32,10 +32,10 @@ Propter animum qui usque ad dextrum locum in-
 Cum sua summitate, ita quod altus affectus
 Quem ipsi habebant ad Mariam michi fuit
 [patefactus.
-43 Inde remunsere ibi in meo conspectu,
+43 Inde {{remunsere|remansere}} ibi in meo conspectu,
 Regina celi cantando ita dulciter,
 Quod unquam a me non recessit illa delectatio.
-44 O quantum est ubertas, que suffulcitur
+44 O {{quantum|quanta}} est ubertas, que suffulcitur
 In illis archis ditissimis, que fuerunt
 Ad seminandum hic inferius bone bubulce!
 45 Ibi vivitur et gaudium habetur de thesauro,

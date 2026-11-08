@@ -78,7 +78,7 @@ subito telam. Hystoria poetica patet in Metamorphoseos
 Ovidii.
 
 O Roboam, iam non apparet quod mineris: ibi est tuum
-signum; sed plenum *di sparento*, idest pavefactione, vel
+signum; sed plenum *di {{sparento|spavento}}*, idest pavefactione, vel
 pavore, illud portat unus currus, sine quod alius illum
 impellat. Iste Roboam fuit filius Salomonis regis, filii
 David: qui Roboam, mortuo patre, fuit rogatus a senio-
@@ -93,7 +93,7 @@ meus cecidit vos virgis; ego autem cedam vos scorpionibus.
 Scorpio est genus flagelli ferrei. Tunc decem tribus Israel
 diviserunt se a tribu ista Beniamin, et dimiserunt Ro-
 boam, et constituerunt sibi regem Ieroboam, filium Na-
-bar, de tribu Efraim; et sic facta fuit divisio, et factum
+{{bar|bat}}, de tribu Efraim; et sic facta fuit divisio, et factum
 fuit schisma in Israel. Quod videns Roboam, qui erat super
 currum suum, fugit de campo et venit in Hierusalem, et
 paxus fuit multas tribulationes. Ipse voluit postea miti-

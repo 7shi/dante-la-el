@@ -18,7 +18,7 @@ Che par contr'al dover (1) ch'io t'ho sco-
 13 Convienti ancor seder un poco a mensa,
 Però che 'l cibo rigido c' hai preso
 Richiede ancor aiuto a suo' dispensa.
-14 Apre la mente a quel ch'io ti paleso,
+14 {{Apre|Apri}} la mente a quel ch'io ti paleso,
 E fermalv' entro; chè non fa scienza,
 Senza lo ritener, havere inteso.
 15 Due cose si convengon all'essentia

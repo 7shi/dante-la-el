@@ -4,7 +4,7 @@ CAPITULUM TERTIUMDECIMUM
 
 6 E l'uno ver l'altro haver li raggi suoi,
 Et amendue girarsi per maniera,
-Che l'uno andasse al primo el'altro al poi:
+Che l'uno andasse al primo {{el'altro|e l'altro}} al poi:
 7 Et havrà quasi l'ombra de la vera
 Constellazione, e doppia danza,
 Che circulava al punto dov'io era;
@@ -85,7 +85,7 @@ coronas et earum motum), illud quod ego nunc vidi, et
 retineat ymaginem, idest ymaginationem, dum ego dico,
 tamquam firma rupis vel saxum, quindecim stellas in celo,
 scilicet que efficiunt signum Canis, que in diversis plagis
-celum adiuvant, idest illuminant, sive vivificant, in diversis
+celum {{adiuvant|avivant}}, idest illuminant, sive vivificant, in diversis
 partibus, de tanto sereno, idest claritate, quod vincunt
 omnes alias stellas, quod aieris superant omnem compagi-
 nem, idest omnem compositionem aieris: postmodum, vero,

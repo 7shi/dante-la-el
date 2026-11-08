@@ -20,12 +20,12 @@ Notar (44) si posson per diversi volti (45).
 
 (1) sogghignò Beatrice — (2) rispose — (3) se ella erra — (4) grossa — (5) Beatrice — (6) rozi — (7) in quelle cose — (8) la —
 (9) sentimenti corporali — (10) non apre — (11) certamente e chiaramente — (12) ferire — (13) le saette — (14) di maravigla —
-(15) oggimai — (16) seguitante e sentimenti corporei — (17) tu Dante — (18) humana — (19) l'apprhensiva — (20) tu Dante —
+(15) oggimai — (16) seguitante e sentimenti corporei — (17) tu Dante — (18) humana — (19) {{l'apprhensiva|apprehensiva}} — (20) tu Dante —
 (21) al. da te — (22) di questo turbine de la luna — (23) risposi — (24) a noi mondani in cielo — (25) dal color del cielo —
 (26) che quello che appare diverso — (27) cioè de'cieli ove sono rari o densi — (28) Beatrice disse — (29) certamente — (30) tu Dante —
 (31) affogato — (32) falsa sententia — (33) l'opinione tua — (34) tu — (35) intenderai diligentemente — (36) l'explication degl'ar-
 gomenti — (37) a la tua opinione — (38) contra — (39) el cielo stellato — (40) a voi huomini — (41) stelle — (42) le quali stelle —
-(43) ne la qualità e quantità loro — (44) comprhender — (45) per diverse apparentie loro.
+(43) ne la qualità e quantità loro — (44) {{comprhender|comprehender}} — (45) per diverse apparentie loro.
 
 18 Ipsa subrisit aliquantulum, et postea: Si errat
 Opinio mortalium, michi dixit,
@@ -62,7 +62,7 @@ propter nimiam distantiam, et nemo vestrum unquam fuit
 hic. Quasi dicat: Si iudicium mortalium fallit ibi ubi non
 bene potest haberi notitia rerum per sensum, non est
 mirum si fallit hic, ubi sensus vestri non habent vigorem,
-ubi clavis semper non aperit. Nam ratio vestra habet
+ubi clavis {{semper|sensus}} non aperit. Nam ratio vestra habet
 curtas alas, idest non multum a longe percipit. Sed dicatis
 michi: Que sunt illa signa buia, idest obscura, vel nigra,
 istius corporis, que inferius in terra, idest in mundo, fa-
@@ -70,7 +70,7 @@ ciunt de Cayn confabulari alios, idest homines, in hoc te-
 nentes diversas opiniones? Ipsa subrisit aliquantulum, et
 postea, supple dixit: Opinio mortalium si errat ubi clavis
 sensus non aperit, idest ubi sensus non percipiunt, certe
-non deberent te pingere sagipte, *strali*, idest sagipte, admi-
+non deberent te {{pingere|pungere}} sagipte, *strali*, idest sagipte, admi-
 rationis, ammodo, idest non deberes admirari. Postea retro
 sensus videas; idest percipe quod ratio, scilicet vestra,
 habet curtas, idest breves, alas.
@@ -92,7 +92,7 @@ tum, habet multas stellas, in quali et in quanto, idest in
 qualitate et quantitate, differentes. Si igitur raritas et den-
 sitas causarent maculam lune, sequeretur quod solum una
 virtus esset in omnibus stellis plus et minus distributa,
-vel saltem tantumdem; quod non est dicendam. Sed no-
+vel saltem tantumdem; quod non est {{dicendam|dicendum}}. Sed no-
 tandum est hic primo, quod opinio Aristotilis, Averroys,
 et Alberti, et omnium bonorum philosophorum, est quod
 raritas et densitas sint causa istius macule sine fallo; et ita

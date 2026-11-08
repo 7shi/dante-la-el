@@ -7,7 +7,7 @@ Tanto più trova di can (2) farsi lupi (3)
 La maledetta e sventurata fossa (4).
 18 Discesa poi per più pelaghi cupi,
 Trova le volpi (5) sì piene di froda,
-Che non trovan ingegno che le occupi (6).
+Che non {{trovan|temono}} ingegno che le occupi (6).
 19 Nè lasserò di dir, perch'altri m'oda,
 E buon sarà costui, s'ancor s'ammenta
 Di ciò che vero spirto mi disnoda.

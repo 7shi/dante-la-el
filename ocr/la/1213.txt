@@ -26,7 +26,7 @@ Turbò el subiecto de' vostri elementi.
 12 Puram potentiam tenuit pars yma;
 In medio astrinxit potentiam cum actu
 Tale vimen, quod nunquam devimatur.
-13 Hieronimus nobis scripsit longum tractum
+13 Hieronimus {{nobis|vobis}} scripsit longum tractum
 Seculorum, angelorum, creatorum
 Antequam alius mundus esset factus:
 14 Sed istud verum est scriptum in multis locis
@@ -71,7 +71,7 @@ mundi creationem non erant; ideo non movissent eos, et sic
 fuissent frustra. Aliqui tamen excusant Hieronimum hic, di-
 cendo, quod Hieronimus hic loquutus est more Grecorum, qui
 sequebantur opinionem Platonis, dicentis angelos fuisse, etc.
-Hieronimus vobis bonum tractum, idest spatium, [scripsit]
+Hieronimus vobis {{bonum|longum}} tractum, idest spatium, [scripsit]
 seculorum, angelorum creatorum antequam alius mundus
 esset factus.
 

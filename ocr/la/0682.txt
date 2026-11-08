@@ -2,7 +2,7 @@ CAPITULUM DECIMUMOCTAVUM
 
 1 Posto havea fine al suo ragionamento
 L'alto dottore (1), et attento guardava
-Ne la mia vista s'io parea conto (2):
+Ne la mia vista s'io parea {{conto|contento}} (2):
 2 Et io, cui nuova sete ancor frugava,
 Di fuor taceva, e dentro dicea: Forse
 Lo troppo domandar, ch'io fo, li grava.

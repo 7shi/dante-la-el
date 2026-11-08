@@ -23,7 +23,7 @@ ei: Non perdidisti visum, sed aliquantulum deviavit
 a te; cito ipsum reacquires, quia domina, que te
 conducit, habet in se virtutem circa oculos tuos,
 quam habuit manus Ananie circa Sanctum Paulum.
-Sed interdum quoad reacquires visum, die michi
+Sed interdum quoad reacquires visum, {{die|dic}} michi
 ubi anima tua ponit totam spem suam, et quam
 rem tu maxime amas et in qua posuisti finem
 tuum ultimatum. Cui dixit auctor, quod Alpha et O,

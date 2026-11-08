@@ -64,11 +64,11 @@ stipendiariorum et violentorum, qui capiunt homines labo-
 ratores, aratores, vinitores, qui nemini nocent, neminem
 offendunt, et ipsos torquent, mutilando eos in membris et
 faciendo eos redimere ultra quam habent), et quidam ad
-ad civile negotium (sicut ad mercatores et campsores, in
+{{ad |}}civile negotium (sicut ad mercatores et campsores, in
 quibus commictunt multas fraudes: ecce sextum exerci-
 tium vanum), quidam in delectationibus carnis seu Veneris
 (ecce septimum exercitium) involutus (involvuntur enim
-luxuriosi in luxu, sicut sues involvuntur in cenoso volupta-
+luxuriosi in luxu, sicut sues involvuntur in cenoso {{volupta-|voluta-}}
 bro, et in hoc laborant circumeundo, tripudiando, hastilu-
 dendo, cantando, et sonando instrumenta musica, prandia
 et cenas ministrando, sua bona consumendo, honorem ami-
@@ -102,7 +102,7 @@ ritum, scilicet Sancti Thome de Aquino, que prius michi
 loquuta fuerat subridendo (scilicet in capitulo precedenti,
 declarando sibi illos duodecim spiritus, de quibus dictum
 est), incipere, scilicet loqui, facere se magis meram, idest
-puram et claram, et dixit: Sicut ego de tuo radio resplendeo,
+puram et claram, et dixit: Sicut ego de {{tuo|suo}} radio resplendeo,
 idest sicut ego illuminor a radio divino, sic respiciendo in
 lucem eternam, idest in Deum, sic, scilicet tua cogitamina,
 video supple, [unde] rationem apprehendo et intelligo.

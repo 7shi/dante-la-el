@@ -26,7 +26,7 @@ Quanto Iesu a t[r]e fe' più chiarezza.
 
 (1) al. l'affectione.
 
-5 Inde movit se vivum lumen versus nos
+5 Inde movit se {{vivum|unum}} lumen versus nos
 De illa spera, unde exivit primitia
 Quam dimisit Christus de vicariis suis.
 6 Et domina mea plena letitia
@@ -76,7 +76,7 @@ Apostolus, propter ipsam michi gyravit frontem; ample-
 xando eum ter in gyrum, ut dictum est in fine capituli
 precedentis, laudando que dixerat.
 
-Modo loquitur de spiritu Sancti Iacobi, diceus: Inde
+Modo loquitur de spiritu Sancti Iacobi, {{diceus|dicens}}: Inde
 movit se unum lumen versus nos, de illa spera unde exivit
 primitia (scilicet anima Sancti Petri, qui fuit primus prin-
 ceps Ecclesie), quam Christus fundavit, quam dimisit Chri-
@@ -86,7 +86,7 @@ Et mea domina, scilicet Beatrix, plena letitia, michi dixit:
 Respice, inspice, ecce Baro, propter quem inferius visitatur
 Gallitia. Iste baro est Sanctus Iacobus, ad cuius ecclesiam
 (in qua corpus eius requiescit, quam ecclesiam fecit fieri
-Karolus Magnus, ad quam visitandam, vadunt multi pere
+Karolus Magnus, ad quam visitandam, vadunt multi {{pere|pere-}}
 grini, etc.; que ecclesia est in ultimis partibus occidentalibus
 Christianorum et in regno Hyspanie), [vadunt peregrinantes].
 

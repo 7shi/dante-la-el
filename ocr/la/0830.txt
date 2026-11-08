@@ -2,7 +2,7 @@
 
 PURGATORII
 
-22 Vidi la donna, che lì m'appario
+22 Vidi la donna, che {{lì|pria}} m'appario
 Velata socto l'angelica festa,
 Drizzar gl'occhi ver me di qua dal rio.
 23 Tucto che 'l vel che le scendea di testa,
@@ -77,7 +77,7 @@ Respice bene; bene [sum], bene sum Beatrix; quare distu-
 listi accedere ad montem? (vult dicere auctor, quod licet
 sua domina esset cooperta, perpendit tamen quod erat irata
 propter verba que dixit. Qualis vita fuit tua? dedisti te
-aliis scentiis: dereliquisti me et sequutus es malam vitam
+aliis {{scentiis|scientiis}}: dereliquisti me et sequutus es malam vitam
 et vitiosam, et expendisti tempus tuum in vanitatibus.
 *Realiter*: sicut regina omnium aliarum scientiarum. *Pro-*
 *terva*: idest tenax contra ipsum) quare, idest quomodo,

@@ -4,13 +4,13 @@ CAPITULUM DECIMUM
 
 33 E’ par che voi veggiate, se ben odo,
 Ciò che 'l presente tempo seco adduce,
-E nel futuro tenete altro modo.
+E nel {{futuro|presente}} tenete altro modo.
 34 Noi veggiam, come quei c'ha (1) mala luce (2),
 Le cose, disse, che ne son lontano;
 Tanto ne splende ancor el sommo duce:
 35 Quando s'appressono, o son (3), tutt'è vano
 Nostro intellecto; e s'altri non ci apporta,
-Nulla sapem (4) di nostro stato humano.
+Nulla sapem (4) di {{nostro|vostro}} stato humano.
 36 Però comprendere puoi che tutta morta
 Fie nostra conoscenza, da quel puncto
 Che del futuro fie chiusa la porta.

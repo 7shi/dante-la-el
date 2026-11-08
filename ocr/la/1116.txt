@@ -48,7 +48,7 @@ idest sicut bonus christianus, quia ego illas dico, sed non
 vides quomodo; ita quod, si creduntur, sunt absconse.
 
 Facis sicut ille qui rem per nomen apprehendit bene; sed
-suam quidditatem videre non potest, si alius illa non promit.
+suam quidditatem videre non potest, si alius {{illa|illam}} non promit.
 
 Notandum est hic, quomodo regnum celorum vim pa-
 titur. Nam aliquis homo, aliquando habens amicum, volens

@@ -57,7 +57,7 @@ cum vacaverit, quam tu per te, aut procuratorem tuum ad hoc
 legitime constitutum, etc., infra unius mensis spatium postquam
 tibi, vel eidem procuratori, vacatio illius innotuit, duximus ac-
 ceptandam, conferendam tibi post acceptationem huiusmodi,
-cum omnibus iuribus et pertinentiis suis, moto simili, dona-
+cum omnibus iuribus et pertinentiis suis, {{moto|motu}} simili, dona-
 tioni apostolice reservamus; districtius inhibentes venerabili
 fratri nostro Episcopo et dilectis filiis capitulo Baiocensi, ac illi
 vel illis, ad quem, vel ad quos, in eadem ecclesia prebendarum

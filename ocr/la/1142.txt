@@ -4,7 +4,7 @@ CAPITULUM VICESIMUMTERTIUM
 Posato al nido de'suoi dolci nati,
 La nocte che le cose ci nasconde,
 2 Che, per veder gl'aspecti (2) desiati,
-E per trovar lo cibo onde si pasca,
+E per trovar lo cibo onde {{si pasca|li pasca}},
 In che gravi labor (3) gli son agiati (4),
 3 Previene'l tempo in sull'aperta frasca,
 E con ardente affecto'l sole aspecta,

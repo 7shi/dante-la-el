@@ -7,9 +7,9 @@ Veni, sponsa, de Libano, cantando,
 Gridò tre volte, e tutti gl'altri a presso.
 5 Quali e beati al novissimo (1) bando
 Surgeran presti, ognun di sua caverna (2),
-La rovistata voce alleluiando,
+La {{rovistata|revestita}} voce alleluiando,
 6 Cotali, in su la divina basterna,
-Si levar gente, a voce tanti senis,
+Si levar {{gente|cento}}, a voce tanti senis,
 Ministri e messagger di vita eterna.
 7 Tucti dicean: Benedictus, qui venis;
 E (3), fior gittando di sovra e d'intorno,
@@ -71,7 +71,7 @@ et unam sponsam ad loquendum invicem. Per sponsum
 intelligitur Christus, per sponsam intelligitur Ecclesia Dei,
 et inter alios applausus dicitur ibi: Veni, sponsa, de Libano,
 qui est mons in Arabia, ubi in magna copia nascitur thus,
-quod dicitur etiam Oblibanum. Quasi dicatur: Veni, sponsa
+quod dicitur etiam {{Oblibanum|Olibanum}}. Quasi dicatur: Veni, sponsa
 odorifera mea. Iste senex est quasi de celo missus, quia
 sua profunda sapientia fuit sibi infusa a Deo. Tribus vi-
 cibus dixit: ternarius est numerus valde bonus et perfectus.

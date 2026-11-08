@@ -39,7 +39,7 @@ Quando passa fuit suprema Potentia.
 Cum voce a se tantum transmutata,
 Quod in apparentia non mutavit se plus:
 14 Non fuit sponsa Christi educata
-De sanguine Lini, illius Cleti,
+{{De sanguine Lini|De sanguine meo, Lini}}, illius Cleti,
 Ut illa esset ad acquisitionem auri usitata;
 15 Sed propter acquisitum istius vivere leti
 Et Sixtus et Pius, Calixtus et Urbanus

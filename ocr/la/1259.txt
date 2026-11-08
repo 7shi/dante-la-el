@@ -80,14 +80,14 @@ absque intercessione ipsius Virginis, vult volare in vanum;
 sicut avis volens volare sine alis, idest non habens alas,
 conatur volare in vanum. Domina, es tantum grandis et
 tantum vales, quod quicumque vult gratiam et ad te non
-recurrit, saum desiderium vult volare sine alis. Hoc probat
+recurrit, {{saum|suum}} desiderium vult volare sine alis. Hoc probat
 Sanctus Bernardus effective, quia, [etc.].
 
 Illa est virtus liberalitatis, quando quis servit et donat
 antequam requiratur: sic enim vult Aristotiles in quarto
 libro Ethicorum. Tua benignitas, non solum succurrit illi
 qui petit, sed multis vicibus liberaliter petitionem pre-
-curris. *Benignitas*: idest benigna liberalitas.
+{{curris|currit}}. *Benignitas*: idest benigna liberalitas.
 
 Adhuc ponitur alia laus, complectens omnes virtutes. In
 te est misericordia (misericordia est misero cor dare per

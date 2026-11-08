@@ -5,7 +5,7 @@ L'Angel (1) che n'havea volti al sexto giro,
 Avendomi dal viso un colpo raso (2):
 2 E quei ch'ànno a giustizia lor desiro,
 Decti n'avien, Beati, e le sue voci
-Con Sitio senza o i o forniro.
+Con Sitio {{senza o i o|senz'altro ciò}} forniro.
 
 (1) dico — (2) una ferita di P.
 
@@ -17,7 +17,7 @@ Dixerunt, Beati, in suis vocibus,
 Consitio, sine alia re, et hoc compleverunt.
 
 *Iam angelus retro nos remanserat*. *Già era l'angelo*
-*di retro a noi remaso*: istud est vicesimumsecundum
+*di retro a noi {{remaso|rimaso}}*: istud est vicesimumsecundum
 capitulum Purgatorii, in quo auctor tractat de materia
 prodigalitatis, et tendit versus materiam gule: quod divi-
 ditur in quatuor partes. In quarum prima Virgilius petit

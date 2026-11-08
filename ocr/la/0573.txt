@@ -10,7 +10,7 @@ Grida e'signori, e grida la contrada,
 Sì che ne sa chi non vi fu ancora.
 43 Et io vi giuro, s'io di sopra vada,
 Che vostra gente honrata non si sfregia
-Del pregio di bontade e della spada.
+Del pregio di bontade e {{della spada|della borsa}}.
 44 Uso e natura sì la privilegia,
 Che, perchè 'l capo reo lo mondo torcha,
 Sola va dritta, e'l mal cammin dispregia.

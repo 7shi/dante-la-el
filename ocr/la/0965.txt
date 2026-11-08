@@ -7,7 +7,7 @@ D'un giro, e d'un girare, e d'una sete,
 A' quali tu nel mondo già dicesti:
 13 Voi che 'ntendendo el terzo ciel movete;
 E siam sì pien d'amor, che per piacerti,
-Non fie men dolce um poca di quiete.
+Non fie men dolce {{um|un}} poca di quiete.
 14 Poscia che gl'occhi miei si furo offerti
 A la mia donna reverenti, et essa
 Facti gl'avea di sè contenti e certi,
@@ -68,7 +68,7 @@ licet dicere: Omnes sumus presti, idest citi, sive parati, ad
 tuam complacentiam, sive ad tuum placere, ad hoc ut de
 nobis gaudeas et ut tibi proficiat.
 
-Nos volvimur cum priucipibus celestibus de uno modo,
+Nos volvimur cum {{priucipibus|principibus}} celestibus de uno modo,
 scilicet volvendi, de uno *gyrare*, scilicet circuire, et de una
 siti, idest desiderio (nota: dum auctor erat iuvenis valde et
 philocaptus, fecit unam cantilenam de amore, cuius princi-

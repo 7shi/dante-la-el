@@ -15,11 +15,11 @@ Che fu albergo del nostro desiro;
 Che seguirai tuo Figlo, e fara' dia
 Più la spera supprema, perchè lì entre.
 37 Così la circulata melodia
-Sì rigirava, e tutti gl'altri lumi
+{{Sì rigirava|Si sigillava}}, e tutti gl'altri lumi
 Facea sonar lo nome di Maria.
 38 Lo real manto di tutti e volumi
 Del mondo, che più ferve e più s'avviva
-Nell'habito di Dio e ne'costumi,
+{{Nell'habito|Nell'alito}} di Dio e ne'costumi,
 39 Havea sopra di noi l'interna riva
 Tanto distante, che la sua parvenza
 Là dov'io era ancor non m'appariva.
@@ -29,8 +29,8 @@ Che si levò appresso sua semenza.
 
 33 Quecumque melodia, que magis dulciter sonat
 Hic inferius, et que plus ad se animam trahit,
-Appareret nubes que lacerata sonat,
-34 Comparata ad sonum unius lire,
+Appareret nubes que lacerata {{sonat|tonat}},
+34 Comparata ad sonum {{unius|illius}} lire,
 Unde coronabatur pulcher zaphirus,
 De quo celum magis clarum zaphiratur.
 35 Ego sum amor angelicus, qui gyro

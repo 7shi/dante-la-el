@@ -7,7 +7,7 @@ Per la verace fede, a gloriarla,
 Di lei parlar è buon ch'a lui arrivi.
 16 E come 'l baccellier s'arma, e non parla,
 Finchè 'l maestro la question propone,
-Per aiutarla, e non per terminarla;
+Per {{aiutarla|approvarla}}, e non per terminarla;
 17 Così m'armava io d'ogni ragione,
 Mentre ch'ella dicea, per esser presto
 A tal querente et a tal profexione.
@@ -18,7 +18,7 @@ In quella luce onde spirava questo.
 Sembianze femmi, perch'io spandessi
 L'acqua di fuor del mio interno fonte.
 20 La gratia che mi dà ch'io mi confessi,
-Comincia'io, dell'alto primo pilo,
+Comincia'io, {{dell'alto|dall'alto}} primo pilo,
 Faccia li miei concepti esser expressi.
 
 15 Sed quia istud regnum vos fecit vivos

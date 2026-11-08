@@ -45,7 +45,7 @@ e ne impacciano i moti, rendendoli lenti e faticosi. Nè queste
 leggi si hanno a dire tiranniche; basta osservare che per esse
 si ha il soggetto di quella parte di scienze naturali, che più
 si avvicina al grado di scienza perfetta, vale a dire la mec-
-canica: sono dunque provvidenziali, in quanto che si piccoli di
+canica: sono dunque provvidenziali, in quanto che {{si|sì}} piccoli di
 mente e di cuore come siamo, se quelle non fossero, abuse-
 remmo facilmente della potenza ricevuta, e metteremmo a soq-
 quadro l'universo. E con profonda ragione l'Alighieri, usando
@@ -67,9 +67,9 @@ gli atti soprannaturali di virtù eroica da essi praticata; atti
 di tanto più superiori ai miracoli esterni, di quanto più l'or-
 dine spirituale al materiale soprasta. E questo travalicare le
 leggi naturali della materia e dell'inerzia spirituale, è un vero
-francarsi a liberta, la quale non ha già per norma il libito od
+francarsi a {{liberta|libertà}}, la quale non ha già per norma il libito od
 il piacere, come vorrebbero i licenziosi, ma il bene ed il vero.
-« Veritas liberabit vos » (Ioan. VIII, 131), ha detto chi davvero
+« Veritas liberabit vos » (Ioan. VIII, {{131|32}}), ha detto chi davvero
 ne conosceva l'origine e l'essenza. E però una liberazione è
 al Poeta l'ascendere al cielo; è, diciamo, la liberazione dalle
 leggi di necessità naturale, che oggi vorrebbero predicarsi come

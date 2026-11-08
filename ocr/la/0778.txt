@@ -6,14 +6,14 @@ PURGATORII
 Già manifesto, s'io non fussi atteso
 Ad altra novità ch'apparse allora;
 10 Chè per lo mezzo del cammin acceso
-Venne gente col viso intorno a questa,
+Venne gente col viso {{intorno|incontro}} a questa,
 La qual mi fece a rimirar sospeso.
 11 Lì veggio d'ogni parte farsi presta
 Ciascun'ombra, e baciarsi una con una,
 Senza restar, contente a breve festa.
 12 Così per entro loro schiera bruna
 S'amusa l'una coll'altra formica,
-Forse a spiar lor vita e lor fortuna.
+Forse a spiar lor {{vita|via}} e lor fortuna.
 13 Tosto che parton l'accoglienza amica,
 Prima che'l primo passo lì (1) transcorra,
 Sopra gridar ciascuna s'affatica;

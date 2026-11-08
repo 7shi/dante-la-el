@@ -13,7 +13,7 @@ Aman, quem fecit crucifigi Assuerus, in cuius loco
 positus fuit Mardocheus Iudeus (videantur hystorie
 in Commento). Adhuc in unam aliam hystoriam La-
 vine, filie regis Latini. Iste tres hystorie docent
-refrenare vitium ire, sive iracundie, ex co quod
+refrenare vitium ire, sive iracundie, ex {{co|eo}} quod
 Philomena propter iracundiam conversa fuit in
 avem sui nominis; Aman fuit crucifixus; Amata,
 mater Lavinie, seipsam suspendit. Ideo ne in con-

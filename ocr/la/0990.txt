@@ -46,7 +46,7 @@ Meam mentem unitam in plures res divisit.
 Facere de nobis centrum, et de se facere coronam,
 Magis dulces in voce quam in vista.
 
-Et si phantasie nostre sunt infime, si pro quia, ad tantam
+Et si phantasie nostre sunt {{infime|infirme}}, si pro quia, ad tantam
 altitudinem, idest ad describendam ipsam Beatricem, et fa-
 miliam spirituum qui sunt hic in isto celo solis, non est
 mirum, quia supra solem non fuit oculus qui iret; idest, non
@@ -71,7 +71,7 @@ regratiare (bis dicit ad maiorem expressionem), soli ange-
 lorum, scilicet Deo, qui illuminat angelos et accendit, qui
 ad istum sensibilem te elevavit per suam gratiam.
 
-Cor mortalis, hominis scilicet, non fuit unquam ita de-
+Cor mortalis, hominis scilicet, non fuit unquam ita {{de-|di-}}
 gestum, idest dispositum, ad devotionem, et reddendum se
 Deo, cum omni sua gratuitate tantum festinum, sicut ad
 illa verba me feci ego; et ita totus meus amor in eum se

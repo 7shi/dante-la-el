@@ -2,7 +2,7 @@
 
 PARADISI
 
-30 Or, s'io non processi avanti piue,
+30 Or, s'io non {{processi|procedessi}} avanti piue,
 Dunque costui come fu senza pare?
 Comincerebber le parole tue.
 31 Ma, perchè paia ben ciò che non pare,

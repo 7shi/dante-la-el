@@ -3,7 +3,7 @@
 PURGATORII
 
 49 Nulla ignoranza mai con tanta guerra
-Mi fe' desiderando di sapere,
+Mi fe' {{desiderando|desideroso}} di sapere,
 Se la memoria mia in ciò non erra,
 50 Quanta pariemi allhor pensando havere:
 Nè per la frecta domandar era oso (1),

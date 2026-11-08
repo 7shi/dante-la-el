@@ -47,7 +47,7 @@ Cum instinctu ei dato qui illam portet.
 Istud in cordibus mortalium est promotor;
 Istud terram in se stringit et adymat.
 40 Non solum creaturas que sunt foris
-Intelligentiam iste actus sagiptat,
+Intelligentiam iste {{actus|arcus}} sagiptat,
 Sed illas que habent intellectum et amorem.
 41 Providentia, que tantum assectat,
 De lumine suo celum semper facit quietum,

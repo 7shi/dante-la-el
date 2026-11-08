@@ -20,7 +20,7 @@ Vo per la rosa in giù di fogla in fogla.
 2 Plagam, quam Maria reclusit et unxit,
 Illa que [est] tantum pulchra ad suos pedes
 Est illa que aperuit et que punxit.
-3 In ordinem quem faciunt tertie sedes,
+3 In {{ordinem|ordine}} quem faciunt tertie sedes,
 Sedet Rachael infra istam,
 Cum Beatrice, sicut tu vides.
 4 Sarra[m], Rebeccha[m], Iudith, et illa[m]

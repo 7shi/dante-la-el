@@ -49,7 +49,7 @@ somma in cui la sua composizione dovrebbe allargarsi infini-
 tamente, pigliandovi il suo compimento; ma l'arrivarvi gli è
 impossibile. Ora dunque, questo che quaggiù, così nella musica,
 come nelle scienze e in tutte le arti belle, è conato; conato più
-o meno vigoroso e potente, ma sempre conato, che non puo
+o meno vigoroso e potente, ma sempre conato, che non {{puo|può}}
 arrivare al sommo che dà il pieno e l'infinito; ne'Beati in cielo
 è fine pienamente conseguito, piena perfezione; quindi un'ar-
 monia infinita, un'infinita melodia, che formano una cosa sola,
@@ -65,7 +65,7 @@ O senza brama sicura ricchezza!
 
 In somma, anche questo è uno di que'concetti, de'quali diceva
 Cristo a Nicodemo: «Se dicendovi io cose terrene, non credete,
-come crederete, dicendovi le celesti?» (IAN. III).
+come crederete, dicendovi le celesti?» ({{IAN|IOAN}}. III).
 Abbiamo detto che armonia e melodia in cielo sono una cosa
 sola. La ragione è che in cielo si sta sopra il tempo, il quale
 solo pone divario tra l'una e l'altra. Sono esse quaggiù distinti

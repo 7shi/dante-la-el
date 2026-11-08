@@ -105,5 +105,5 @@ Nunc Virgilius incantat Dantem, quod non timeat, sed
 sit bene audax, et quando rediit ad magistrum, invenit
 eum iam ascendisse super *groppam*, idest super spatulas,
 sive renes, Gerionis; et quia, ne Gerion posset nocere Danti
-cum cauda, veluit Virgilius quod Dantes sederet ante
+cum cauda, {{veluit|voluit}} Virgilius quod Dantes sederet ante
 ipsum, quia ex parte capitis habebat caput benignum, sed

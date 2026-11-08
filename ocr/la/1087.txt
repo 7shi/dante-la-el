@@ -13,7 +13,7 @@ Che, rimirando lei, lo mio affecto,
 Libero fu da ogn'altro desire,
 6 Finchè 'l piacer eterno, che directo
 Raggiava in Beatrice, del bel viso
-Mi contentava col sereno aspecto.
+Mi contentava col {{sereno|secondo}} aspecto.
 7 Vincendomi col lume d'un sorriso,
 Ella mi disse: Volgeti et ascolta,
 Chè non pur ne' miei ochi è paradiso.

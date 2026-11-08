@@ -5,7 +5,7 @@ PURGATORII
 29 Senza restarsi, per sè stessa cade
 Mirabilmente all'una delle rive;
 Quivi conosce prima le sue strade.
-30 Tosto che 'l loco lì lo certo scrive,
+30 Tosto che 'l loco lì {{lo certo scrive|la circonscrive}},
 La virtù formativa raggia intorno,
 Così e quanto nelle membra vive;
 31 E come l'aere, quand'è ben piuorno,
@@ -13,7 +13,7 @@ Per l'altrui raggio che 'n sè si riflecte,
 Di diversi colori doventa adorno;
 32 Così l'aere vicin quivi si mecte
 In quella forma che in lui suggella,
-Virtualmente all'alma che ristecte:
+Virtualmente {{all'alma|l'alma}} che ristecte:
 33 Simigliante poi alla fiammella
 Che segue 'l fuoco là umque si muta,
 Segu'allo spirto sua forma novella.

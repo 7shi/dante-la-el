@@ -40,7 +40,7 @@ Et stringunt se pastori; sed sunt ita pauci,
 Quod cappas ipsorum fulcit paucus pannus.
 45 Or, si verba mea non sunt rauca,
 Et si tua audientia fuit actenta,
-Si quiquid dixi ad mentem revocas,
+Si {{quiquid|quidquid}} dixi ad mentem revocas,
 
 precaram vel preclaram (uterque terminus est bonus); et
 mandavit, scilicet Fratribus, quod amarent eam fideliter; et

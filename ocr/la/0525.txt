@@ -13,7 +13,7 @@ Et additommi un balzo poco in sue,
 Che da quel lato el poggio tutto gira.
 17 Sì mi spronaron (2) le parole sue,
 Che mi sforzai, carpando presso lui,
-Tanto che l'anghio sotto a' piè mi fue.
+Tanto che {{l'anghio|'l cinghio}} sotto a' piè mi fue.
 18 Ponemmoci a seder lì (3) amendue
 Volti a levante, ond'eravam saliti,
 Che suol a riguardar giovar altrue.
@@ -25,7 +25,7 @@ Che da sinistra n'eravam feriti.
 
 14 Summitas erat alta que vincebat visum,
 Et ascensus superbus plus satis,
-Quam a medio quadrante ad ventrum lista.
+Quam a medio quadrante ad {{ventrum|centrum}} lista.
 15 Ego eram fessus, quando incepi:
 O dulcis pater, volve te, et respice,
 Quomodo ego remaneo solus, si non desistis.

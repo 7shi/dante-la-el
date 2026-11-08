@@ -85,7 +85,7 @@ Doc. 29.
 
 Die 25 Ianuarii, lapsi sunt tres menses, quibus fuerunt expe-
 ctati Reverendissimi Domini Cardinales Prenestinus de Barro
-et de Saluciis, et sic remanent partecipantes . . . Carnales.
+et de Saluciis, et sic remanent partecipantes . . . {{Carnales|Cardinales}}.
 (Ex Arch. Vat. *Massar*. cit. pag. 388)
 
 Doc. 30.
@@ -106,7 +106,7 @@ Die Veneris 24 Octobris Dominus noster papa Ioannes XXIII
 declaravit dominos Cardinales Guidonem Prenestinum, Ludo-
 vicum de Barro et *Amedeum de Saluciis* non debere partici-
 pare de communibus servitiis prelatorum promovendorum
-propter eorum absentiam. Ei adhuc remanserunt partecipantes
+propter eorum absentiam. {{Ei|Et}} adhuc remanserunt partecipantes
 Cardinales XIX usque ad tres menses sequentes, quibus fue-
 runt expectati. (Ibid. pag. 385.)
 

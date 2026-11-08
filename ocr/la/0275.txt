@@ -6,7 +6,7 @@ CAPITULUM DECIMUMSEPTIMUM
 Monta dinanzi, ch'io vogl'esser mezzo,
 Sì che la coda (1) non possa far male.
 29 Qual è colui, ch'è sì presso al riprezzo
-De la quartana, c'ha già l'unghia morte,
+De la quartana, c'ha già l'unghia {{morte|smorte}},
 E trema tutto sol guardando el rezzo,
 30 Tal divenn'io a le parole porte;
 Ma vergogna mi fer le sue minacce,

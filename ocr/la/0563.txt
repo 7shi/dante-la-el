@@ -7,7 +7,7 @@ Quanto, più che Beatrice e Margharita,
 Costanza di marito ancor si vanta.
 44 Vedete el re della semplice vita
 Seder là solo, Arrigho d'Inghilterra:
-Questi ha ne'regni suoi miglor uscita.
+Questi ha ne'{{regni|rami}} suoi miglor uscita.
 45 Quel che più basso tra costor s'atterra,
 Guardando in suso, è Guglelmo marchese,
 Per cui Alexandria e la sua guerra

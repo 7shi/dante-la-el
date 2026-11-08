@@ -56,7 +56,7 @@ Et isti septem, cum primo stolo, idest acie, vel sotietate,
 erant habituati; sed de liliis super caput non faciebant
 brolum (brolus Bononie dicitur g[i]ardinum, ubi sunt multi
 fructus: sed hic dicitur sertum vel corona, quam proprie
-solebant portare Sancti), imo de rosis et de liliis, floribus
+solebant portare Sancti), imo de rosis et de {{liliis|aliis}}, floribus
 rubeis: ego iurassem, propter longinquum aspectum, quod
 omnes arderent supra supercilia. Pulchra fictio. Alii habe-
 bant serta de liliis; isti vero non, sed de rosis et aliis flo-

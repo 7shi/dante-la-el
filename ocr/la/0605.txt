@@ -11,7 +11,7 @@ Per cui ell'esce de la terra acerba (3).
 40 Et io a lui: El tuo ver dir m'incuora
 Ad humiltà, e gran tumor (4) m'appiani (5),
 Ma chi è quel (6) di cui (7) tu parlav'hora?
-41 Quelli è, rispose, Provenzan (8) Selvani;
+41 Quelli è, rispose, Provenzan (8) {{Selvani|Salvani}};
 Qui è, però che fu presumptuoso
 A rechar Siena tutta in le sue mani (9).
 42 Ito è così e va (10) senza riposo,
@@ -34,7 +34,7 @@ Que vadit et que venit, et ille eam discolorat
 Per quem ipsa exit de terra acerba.
 40 Et ego ad ipsum: Tuum dictum verum me accorat
 Bonam humilitatem, et grandem timorem michi
-[ecplanas:
+[{{ecplanas|explanas}}:
 Sed quis est ille de quo tu loqueris nunc?
 41 Ille est, respondit, Provintianus Silvanus;
 Et est hic, qui[a] fuit presumptuosus

@@ -3,7 +3,7 @@
 CAPITULUM SEXTUM
 
 4 Tal era io in quella turba spessa,
-Volgendo allora qua e là la faccia,
+Volgendo {{allora|a loro}} qua e là la faccia,
 E promettendo mi scioglea da essa.
 5 Quiv'era l'Aretin, che da le braccia
 Fiere di Ghin di Tacho ebbe la morte,
@@ -15,7 +15,7 @@ Che fe' parer lo buon Marzucho forte.
 Dal corpo suo per astio e per inveggia,
 Come dicea, non per colpa commisa];
 8 Pier de la Broccia dico: e qui proveggia,
-Menar di qua, la donna di Brabante,
+{{Menar|Mentr'è}} di qua, la donna di Brabante,
 Sì che però non sia di peggior greggia.
 
 4 Talis eram ego in illa turba spissa,

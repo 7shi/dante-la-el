@@ -69,5 +69,5 @@ sursum, deorsum, a dextris, a sinistris, ante, retro, etc.,
 ubique erant multi.
 
 *Ego veni* (alias *sum*) *ad tertium circulum pluvie*
-*eterne, maledicte, frigide et gravis, et regola et qualitas*
+*eterne, maledicte, frigide et gravis, et {{regola|regula}} et qualitas*
 *nunquam innovatur*: hic describitur generaliter pena gu-

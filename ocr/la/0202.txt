@@ -16,7 +16,7 @@ Che fa natura, e quel ch'è poi aggiuncto,
 Di che la fede spetial si cria:
 22 Onde nel cerchio minor, dov'è il puncto
 Dell'universo in su che (3) Dite siede,
-Qualunque trade in eterno è consumcto.
+Qualunque trade in eterno è {{consumcto|consunto}}.
 23 Et io: Maestro, assai chiaro procede
 La tua ragione, et assai ben distingue
 Questo baracto e 'l popol che possiede.

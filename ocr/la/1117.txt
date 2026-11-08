@@ -4,8 +4,8 @@ CAPITULUM VICESIMUM
 
 36 Chè l'una dell'Inferno, u' non si riede
 Giamai a ben voler, tornò all'ossa:
-E ciò [a] divina speme (1) fu mercede;
-37 Divina speme, che misse la possa
+E ciò {{[a] divina|di viva}} speme (1) fu mercede;
+37 {{Divina|Di viva}} speme, che misse la possa
 Ne' prieghi facti a Dio (2) per suscitarla,
 Sì che potesse sua vogla esser mossa.
 38 L'anima gloriosa, onde si parla,
@@ -50,7 +50,7 @@ Oculum ad nostram redentionem futuram:
 42 Unde credidit in illam, et non sustulit
 Ab inde putredinem plus Paganismi,
 Et reprehendit de illa gentes perversas.
-43 Ille tres domine fuerunt ibi pro baptismate,
+43 Ille tres domine fuerunt {{ibi|sibi}} pro baptismate,
 Quas tu vidisti ad dexteram rotam,
 Ante baptisma plus uno millesimo.
 

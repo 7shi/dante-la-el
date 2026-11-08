@@ -47,7 +47,7 @@ A me appareva andando,
 auctor facit expressam mentionem de quodam spiritu
 summe invido. Primo tamen auctor continuat dicta di-
 cendis. Quoniam in fine capituli precedentis auctor dixit
-uod ad introytum huius circuli erat una scala ut ascensus
+{{uod|quod}} ad introytum huius circuli erat una scala ut ascensus
 esset facilior, ideo dicit: Nos eramus in summitate sca-
 larum, ubi secundario religatur, ubi cingitur (idest ubi est
 secundus circulus) mons, quem ascendendo alios dismalat,

@@ -46,7 +46,7 @@ Preterea in ecclesia Sancti Sepulchri Domini Nostri Iesu
 Christi in Hierusalem, est vestigium pedis ipsius Iesu Chri-
 sti, ubi fixit pedem ipse Christus, et fertur tunc dixisse,
 ponendo sic pedem: Hic est medium mundi. Et ego Frater
-loannes predictus, episcopus Firmanus, quando fui in Hie-
+{{loannes|Ioannes}} predictus, episcopus Firmanus, quando fui in Hie-
 rusalem, et in ecclesia Sepulchri, in qua fui millesimo ter-
 centesimo nonagesimo octavo, et in qua celebravi missam
 super Sepulchro Christi, prius fui devotius quo potui oscu-

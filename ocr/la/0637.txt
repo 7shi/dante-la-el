@@ -4,7 +4,7 @@ CAPITULUM QUARTUMDECIMUM
 
 23 Come all'annuntio de' futuri (1) danni
 Si turba'l viso di colui ch'ascolta,
-Da quel che parte el perigo e gl'affanni;
+Da quel che parte el perigo e {{gl'affanni|l'assanni}};
 24 Così vid'io l'altr'anima, che volta
 Stava ad udir, turbarsi e farsi trista,
 Poi ch'ebbe la parola a sè raccolta.
@@ -20,7 +20,7 @@ Però sappi ch'io son (4) Guido del Duca (5).
 28 Fu 'l sangue [mio] d'invidia sì riarso,
 Che se veduto havessi huom farsi lieto,
 Visto m'haresti di livore sparso.
-29 Seme d'invidia cotal pigla mieto (6).
+29 {{Seme d'invidia|Di mia semenza}} cotal {{pigla|paglia}} mieto (6).
 O gent'humana, perchè poni 'l core
 Ov'è mestier di consorte divieto?
 30 Questi è Rinieri (7); quest'è'l pregio e l'ho-
@@ -94,7 +94,7 @@ recolligo, idest meto. O gens humana, quare ponis cor,
 idest quare apponis cor, in hiis, que essent omnino re-
 spuenda, idest ibi ubi esset necesse de consortibus divetum,
 idest consortibus vacuari, idest consortibus carere ?
-Idest, o gens humana, exselamando dicit contra invidos,
+Idest, o gens humana, {{exselamando|exclamando}} dicit contra invidos,
 quare ponis cogitationes tuas in bonis temporalibus, que
 non possunt lete possideri cum sotietate, quia quilibet
 vellet habere totum, et cum nullo dividere vellet, et si unus

@@ -2,7 +2,7 @@
 
 CAPITULUM VICESIMUMSEPTIMUM
 
-44 Quand'ebbe suo desir così compiuto,
+44 Quand'ebbe suo {{desir|dir}} così compiuto,
 La fiamma dolorando si partio,
 Torcendo e dibactendo 'l corno acuto.
 45 Noi passamm'oltre, el duca mio et io,

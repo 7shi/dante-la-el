@@ -25,7 +25,7 @@ Col merto, è parte di nostra letitia,
 Perchè non li vedèn minor nè maggi.
 
 34 Unus publico signo lilia fulva
-Apponit, et alter appropriat illud parti,
+{{Apponit|Opponit}}, et alter appropriat illud parti,
 Ita quod est forte ad videndum quis magis erret.
 35 Faciant Gebellini, faciant eorum artem
 Sub alio signo; quia male illum sequuntur
@@ -68,7 +68,7 @@ aurea, opponit, et alter, scilicet Gebellinus, appropriat illud
 parti, scilicet gebelline; ita quod est forte, idest difficile,
 ad videndum, et discernendum, qui plus erret.
 
-Faciant Gebellini, faciant eorum artem sub illo signo;
+Faciant Gebellini, faciant eorum artem sub {{illo|alio}} signo;
 quia male illud sequuntur semper quando iustitiam ab eo
 dividunt: et nec ipsum, scilicet pubblicum signum aquile,
 prosternat, idest deprimat, iste Karolus, scilicet Cioctus,
@@ -90,7 +90,7 @@ mundi, non merentur quantum mererentur si solum hoc
 agerent propter honorem Dei. Ideo dicit: Et quando desi-
 deria, scilicet agentium, sive talium activorum, appodian-
 tur ibi ad famam mundi, deviant, idest non ita recte va-
-dunt; ita quod convenit, idest oportet, quod radii veteris
+dunt; ita quod convenit, idest oportet, quod radii {{veteris|veri}}
 amoris, scilicet Spiritus Sancti, sive sue gratie, sursum
 ascendant, idest versus Deum, minus vivi, idest quod non
 tantum merentur sicut si omnia fierent ad honorem Dei.

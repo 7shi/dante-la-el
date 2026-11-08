@@ -16,7 +16,7 @@ Più strinse mai di non vista persona,
 Sì ch'or mi parran corte queste scale.
 7 Ma dimmi, e come amico mi perdona,
 Se troppa sicurtà m'allarga 'l freno,
-La pura fede in tucto mi scagiona:
+La {{pura fede in tucto mi scagiona|E come amico omai meco ragiona}}:
 8 Come poteo trovar dentr'al tuo seno
 Luogo avaritia, tra cotanto senno
 Di quanto, per tua cura, fosti pieno?

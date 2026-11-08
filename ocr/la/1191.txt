@@ -16,7 +16,7 @@ Ad essa gl'ochi più che mai ardèa:
 Fatuum Ulixis, et citra prope lictus
 In quo de Europa fuit [factum] dulce onus.
 29 Et plus esset michi discoopertus situs
-Illius aiuole; sed sol procedebat,
+Illius aiuole; sed sol {{procedebat|precedebat}},
 Sub meis pedibus, in signum magis divisum.
 30 Mens mea philocapta, que dominatur
 Cum mea domina semper, reducere

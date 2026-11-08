@@ -9,7 +9,7 @@ E 'l ferito ristrinse insieme l'orme.
 S'appiccàr sì, che 'n poco la giuntura
 Non facea segno alcun che si paresse.
 37 Toglea la coda fessa la figura
-Che si perdea ella, e la sua pelle
+Che si perdea ella, e {{la|là}} sua pelle
 Si facea molle, e quella dell'huom dura.
 38 Le braccia ritraheva per l'ascelle,
 E' duo piè de la fiera, ch'eran corti,
@@ -23,7 +23,7 @@ Dall'una parte, e dall'altra el dipela,
 41 L'un si levò, e l'altro cadde giuso,
 Non torcendo però le lucerne (1) empie,
 Sotto le qual (2) ciascun cambiava muso (3).
-42 Quel ch'era dietro, el trasse ver le tempie;
+42 Quel ch'era {{dietro|dritto}}, el trasse ver le tempie;
 E di troppa materia che gl'advenne,
 Uscir gl'orechi de le gote scempie:
 43 Ciò che non corse innanzi, si ritenne,

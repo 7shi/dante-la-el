@@ -28,8 +28,8 @@ Dannò Minós, a cui fallir non lece.
 E Capocchio:
 
 . . . . . . . aguzza ver me l'occhio
-Si che la faccia mia ben ti risponda:
-Si vedrai ch'io son l'ombra di Capocchio,
+{{Si|Sì}} che la faccia mia ben ti risponda:
+{{Si|Sì}} vedrai ch'io son l'ombra di Capocchio,
 Che falsai li metalli per l'alchimia:
 E ten dee ricordar, se ben t'adocchio,
 Com'i'fui di natura buona scimia.
@@ -51,15 +51,15 @@ notato dall'Anonimo, il quale recava un testo della Somma di
 San Tommaso, avvalorato dall'autorità di Sant'Agostino, e di-
 mostrava che l'umano ingegno, per istinto, e meglio per tradi-
 zione di fatti sparsi, ad ardite induzioni collegati, potè presentire
-e presenti quel che la scienza e l'arte arriverebbero a trovare:
+e {{presenti|presentì}} quel che la scienza e l'arte arriverebbero a trovare:
 nè già adulterando alcuni corpi per far credere di averne creati
 altri; ma veramente penetrando nell'opera divina fin dove Dio
-stabili che l'uomo possa arrivare, affinchè cresca ogni dì più
+{{stabili|stabilì}} che l'uomo possa arrivare, affinchè cresca ogni dì più
 nell'ammirazione di lui e nel suo amore. L'alchimia, condan-
 nata dall'Alighieri, venne da lui maravigliosamente espressa
 con le parole messe in bocca a Capocchio:
 
-Si vedrai ch'io son l'ombra di Capocchio,
+{{Si|Sì}} vedrai ch'io son l'ombra di Capocchio,
 Che falsai li metalli per alchimia:
 E ten dee ricordar, se ben t'adocchio,
 Com'i'fui di natura buona scimia.

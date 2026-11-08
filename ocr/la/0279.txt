@@ -65,7 +65,7 @@ volge in un totale rinnegamento di sè stesso.
 Nè riescono meglio certe fantastiche e indefinite idealità,
 oggi tanto vagheggiate, nelle quali non sono concetti reali,
 dove possa trovare vero e sostanziale alimento lo spirito:
-questo, poichè è realtà, e realta potente, chiede ed ha bisogno
+questo, poichè è realtà, e {{realta|realtà}} potente, chiede ed ha bisogno
 di realtà, della somma realtà del vero, del bello e del buono,
 che sia appagamento delle sue aspirazioni, e nel cui possesso
 trovi da ultimo il vero compimento della sua vita.

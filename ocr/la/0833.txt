@@ -20,7 +20,7 @@ Fuor che mostrarli le perdute genti (7).
 47 Per questo visitai l'uscio de' morti (8),
 Et a colui (9), che l'ha quassù condocto,
 Li preghi miei, piangendo, furon porti.
-48 Alto facto (10) di Dio sarebbe rocto,
+48 Alto {{facto|fato}} (10) di Dio sarebbe rocto,
 Se Lethe (11) si passasse, e tal vivanda
 Fosse gustata senz'alcuno scocto
 Di pentimento che lagrime spanda.

@@ -64,7 +64,7 @@ dicentem: Musa, causas mihi memora, etc.
 *Ciò ch'io vidi*: idest, quidquid vidi, scilicet, oculis men-
 talibus.
 *Scrivisti*: idest, noscita in phantasia et cellula memora-
-tiva. Hic apparebit si eris valnes. Hec secure dixit Dantes,
+tiva. Hic apparebit si eris {{valnes|valens}}. Hec secure dixit Dantes,
 quia sciebat semetipsum magne capacitatis, magni ingenii,
 et tenacissime [memorie], et inventionis universalis.
 

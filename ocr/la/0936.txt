@@ -35,7 +35,7 @@ predictus spiritus breviter discurrit et perstringit mira-
 bilia gesta et facta sub signo aquile imperialis.
 In tertia parte, que incipit ibi:
 Ammodo potes iudicare;
-Ormai poi coniudicare,
+Ormai poi {{coniudicare|iudicare}},
 
 arguit illos qui faciunt contra predictum signum, tam Guel-
 fos quam Gebellinos, et sapienter arguit et loquitur.

@@ -2,7 +2,7 @@
 
 CAPITULUM SECUNDUM
 
-31 Hor (1) dirai tu che (2) si dimostra tetro (3)
+{{|31 }}Hor (1) dirai tu che (2) si dimostra tetro (3)
 Ivi (4) lo raggio (5) più che in altre parti (6),
 Per esser (7) lì (8) rifracto più a dietro (9).
 32 Da questa (10) instantia (11) può deliberarti (12)
@@ -18,7 +18,7 @@ E torni (32) a te da tutti (33) ripercosso (34).
 La vista (37) più lontana (38), vederai (39)
 Com'ei (40) convien ch'equalmente risplenda (41).
 36 Or (42) come a'colpi (43) de li caldi rai (44)
-Da la nieve (45) riman nudo (46) el subiecto (47)
+{{Da la|De la}} nieve (45) riman nudo (46) el subiecto (47)
 E dal colore (48) e da'freddi primai (49);
 
 (1) hora insterai tu contra me e domanderami — (2) perchè — (3) turbo e nero in quella parte — (4) de la luna — (5) del sole

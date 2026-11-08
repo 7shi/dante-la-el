@@ -10,7 +10,7 @@ A privilegi venduti e mendaci,
 Ond' io sovente arrosso e disfavillo.
 19 In veste di pastor lupi rapaci
 Si veghon di quassù per tutti e paschi (1):
-O vendetta di Dio, perchè più giaci!
+O {{vendetta|difesa}} di Dio, perchè più giaci!
 20 Del sangue nostro Chaorsini e Guaschi
 S'apparechian di bere: o buon principio,
 A che vil fine convien che tu caschi!
@@ -78,7 +78,7 @@ quando expedit, Ecclesia potest et debet uti brachio seculari;
 et hoc fecit Beatus Gregorius. Videtur etenim quod San-
 ctus Petrus verecundetur, quod figura faciei eius sit in bulla
 falsa etc. symoniaca; irascitur et dicit: Nec quod ego essem
-figuram sigilli privilegiis venditis et mendacibus, unde ego
+{{figuram|figura}} sigilli privilegiis venditis et mendacibus, unde ego
 multo rubeo, idest verecundor et disfavillo, idest inflammor.
 
 Et quare? supple. Quia in veste pastorum lupi rapaces
@@ -100,7 +100,7 @@ una civitas in Frantia, de qua civitate fuit ipse Ioannes
 papa; ideo per Chaorsinos intellige ipsum Ioannem, per
 Vascones ipsum Clementem et suos sequaces) et Vascones
 preparant se ad bibendum sanguinem (nam prelati Ec-
-clesie symoniaci bibunt sanguinem sanctorum); o bone
+clesie symoniaci bibunt sanguinem sanctorum); o {{bone|bonum}}
 principium, ad quem vilem finem convenit, idest oportet,
 quod tu cadas! Quasi dicat: O Ecclesia sancta Dei, que
 habuisti ita bonum principium, ad quid devenisti, idest ad

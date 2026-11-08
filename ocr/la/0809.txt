@@ -6,7 +6,7 @@ CAPITULUM VICESIMUMOCTAVUM
 Per sua difalta in pianto ed in affanno
 Cambiò honesto riso e dolce gioco (1).
 33 Perchè 'l turbar, che sotto di sè fanno
-L'exaltation dell'acqua e de la terra,
+{{L'exaltation|exalation}} dell'acqua e de la terra,
 Che, quanto posson, dietro al calor vanno,
 34 All'uomo non facesse alcuna guerra,
 Questo monte salio verso 'l ciel tanto,
@@ -27,7 +27,7 @@ Di diverse virtù diverse legna (4).
 Udito questo, quand'alcuna pianta
 Senza seme palese (5) vi s'appigla.
 
-32 Propter suam difultam hic demoravit modicum;
+32 Propter suam {{difultam|difaltam}} hic demoravit modicum;
 Propter suum defectum in planctus et angustias
 Mutavit honestum risum et dulce iocum.
 33 Ut turbatio inferior, quam a se faciunt

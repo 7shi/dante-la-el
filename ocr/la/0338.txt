@@ -11,7 +11,7 @@ Dove parlò de la rana e del topo:
 
 1 Taciti, soli, sine sotietate,
 Ibamus unus ante et alter post,
-Sicut Fratres Minores vadunt per vium.
+Sicut Fratres Minores vadunt per {{vium|viam}}.
 2 Voluta erat super fabulam Exopi
 Mea cogitatio propter presentem rixam,
 Ubi locutus est de rana et de mure:

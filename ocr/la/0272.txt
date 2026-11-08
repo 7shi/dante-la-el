@@ -57,7 +57,7 @@ stat bivarus quando insidiatur piscibus, sic ista fera, sci-
 licet Gerion, stat, extra aquam, cum pectore verso, et cau-
 dam tenebat in aqua: caput tenebat super extremitatem
 lapideam, que extremitas lapidea claudit arenam. Dicit
-igitur: Et sicut inter Theuthonicos lurcos bivarus se assen-
+igitur: Et sicut inter Theuthonicos lurcos bivarus se {{assen-|asse-}}
 ctat, idest apte collocat, ad faciendum guerram, idest pi-
 scibus, ad capiendum eos; sic fera pexima stabat super
 orlum, idest extremitatem lapideam, que sabulum serrat,

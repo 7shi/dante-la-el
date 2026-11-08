@@ -21,7 +21,7 @@ Perchè al maestro parve di partirsi.]
 Che'l suon dell'acqua n'era (1) sì vicino,
 Che per parlar saremmo a pena uditi.
 32 Come quel f[i]umo, c'ha proprio cammino
-Prima da monte volto inver levante
+Prima da monte {{volto|Veso}} inver levante
 Da la sinistra costa d'Apennino,
 33 Che si chiama Acquaqueta su, davante (2)
 Che si divalli giù nel basso lecto,

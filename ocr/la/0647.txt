@@ -13,16 +13,16 @@ De le mie cigla, e fecimi el solechio,
 Che del soverchio visibile lima.
 6 Come quando dall'acqua o dallo spe[chio]
 Salta lo raggio all'opposita parte,
-Salendo, su per lo mondo, parechio
+Salendo, su per lo {{mondo|modo}}, parechio
 7 A quel che scende, e tanto si diparte
 Dal cader de la pietra in egual tracta,
 Sì come mostra experientia et arte;
 8 Così m'apparve da luce rifracta
 Ivi dinanzi a me esser percosso,
-Perchè a veder la mia luce fu racta.
+Perchè {{a veder la mia luce|a fuggir la mia vista}} fu racta.
 
 3 Et radii nos feriebant per medium nasum,
-Ex co quia per nos circumdatus erat ita mons,
+Ex {{co|eo}} quia per nos circumdatus erat ita mons,
 Quod iam recti ibamus versus occasum;
 4 Quando ego sensi michi gravari frontem
 A splendore satis plusquam prius,

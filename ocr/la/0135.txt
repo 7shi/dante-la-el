@@ -102,7 +102,7 @@ sic soli, legebant librum Tabule Rotunde, et legendo pun-
 ctum illum, quomodo Lancelloctus fuit philocaptus de Ge-
 nevra, et quomodo opere Galeocti, qui erat princeps de
 Lontana, ducta fuit ista Genevra ad dictum Lancelloctum,
-et ipse verecumdabatur tangere ipsam Genevram. Tunc
+et ipse {{verecumdabatur|verecundabatur}} tangere ipsam Genevram. Tunc
 Galeoctus interposuit se, et fecit tussim, et taliter fecit
 quod Lancelloctus osculatus fuit ipsam Genevram sine ve-
 recundia. Hoc lecto, Paulus Franciscam intuitus fuit, et in

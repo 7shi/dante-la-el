@@ -4,7 +4,7 @@ CAPITULUM PRIMUM
 
 22 Beatrice (1) tutta nell'etterne rote (2)
 Fixa (3) cogl'ochi (4) stava; et io (5) in lei (6)
-Le luci (7) fixi (8), di lassu remote (9).
+Le luci (7) fixi (8), di {{lassu|lassù}} remote (9).
 23 Nel suo (10) aspecto tal dentro mi fei (11),
 Qual si fe'Glauco (12) nel gustar (13) dell'herba,
 Che (14) 'l fe'consorte (15) in mar (16) degl'altri
@@ -85,7 +85,7 @@ prestat tantam gratiam, quantam michi prestitit, scilicet
 quod elevet eum per speculationem mentis, quantum me
 elevavit.
 
-*Si ergo eram solus de me*. *S'io era solo de me*: ista
+*Si {{ergo|ego}} eram solus de me*. *S'io era solo de me*: ista
 est tertia pars huius capituli, in qua describitur ascensus
 auctoris in celum, cum magna admiratione. Primo tamen
 facit quamdam excusationem, asserens semetipsum igno-

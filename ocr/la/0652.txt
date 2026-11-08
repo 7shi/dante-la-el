@@ -6,7 +6,7 @@ PURGATORII
 Con pietre un giovanetto (2) ancider (3),
 [forte (4),
 Gridando a sè (5) pur: Martira, martira (6).
-37 E lui (7) vedea chinarsi (3) per la morte,
+37 E lui (7) vedea chinarsi {{(3)|(8)}} per la morte,
 Che l'aggravava già in vèr la terra,
 Ma degl'ochi (9) facea (10) sempr'al ciel
 [porte (11);
@@ -72,7 +72,7 @@ admicterentur ad consilia. Ex predictis apparet quare textus
 dixit: De cuius nomine inter Deos fuit lis, et unde omnis
 scientia disfavillat. Propter ea apparet quod iste due hysto-
 rie, tam de Virgine Maria, que sine ira aut impetu, sed cum
-maximo moderamine, reprehendit Iesum, et sic de Phsi-
+maximo moderamine, reprehendit Iesum, et sic de {{Phsi-|Phisi-}}
 strato, [dicunt quod] ira est temperanda. Nam ira est ac-
 censio sanguinis prope cor, vel ira est impetuosus appetitus
 vindicte, ubi sine aliqua patientia, aut aliqua tollerantia,

@@ -6,7 +6,7 @@ propter hoc eis, quoad assecutionem prebendarum aut benefi-
 ciorum aliorum preiudicium generari volumus, si prefatis epi-
 scopo et Capitulo vel quibusvis aliis, coniunctim vel divisim a
 dicta sit sede indultum quod, ad receptionem vel provisionem
-aliarum nunc teneantur, et ad id compelli non possint, quodque
+aliarum {{nunc|minime}} teneantur, et ad id compelli non possint, quodque
 de canonicatibus et prebendis ipsius ecclesie, aut aliis beneficiis
 ecclesiasticis, ad earum collationem, provisionem, presentatio-
 nem, seu quamvis aliam dispositionem, coniunctim vel separa-
@@ -15,7 +15,7 @@ non facientes plenam et expressam ac de verbo ad verbum de
 indulto huiusmodi mentionem, et qualibet alia dicte sedis in-
 dulgentia generali vel speciali, cuiuscumque tenoris existat,
 per quam presentibus non expressam vel totaliter non inser-
-tam, effectus huiusmodi gratie impedire valeat quomodolibet
+tam, effectus huiusmodi gratie {{impedire|impediri}} valeat quomodolibet
 vel differri, et de qua cuiusque toto tenore habenda sit in
 nostris litteris mentio specialis, aut si prius non fueris, ad pre-
 standum de observando statuto et consuetudinibus dicte ecclesie
@@ -86,7 +86,7 @@ etiam auctoritate nostra in ecclesia ipsa receptis. . . . . .
 quibus per alias diversas nostras litteras dedimus in mandatis,
 ut nonnullis clericis, quos iidem rex et duces nominarent, ca-
 nonicatus nonnullarum ecclesiarum in regno Francie consisten-
-tium, quas ipsi eligerent, conferirent ac prebendas in eisdem
+tium, quas ipsi eligerent, {{conferirent|conferrent}} ac prebendas in eisdem
 ecclesiis, quas predicti clerici infra certum temporis spatium
 acceptarent, conferendas eisdem clericis, donationi apostolice
 reservarent, iam forsan nominarunt aut in posterum nomi-
@@ -95,7 +95,7 @@ assecutionem prebendarum ac dignitatum, personatum, vel offi-
 ciorum, aut beneficiorum, aliorum preiudicium generare sinit,
 si prefatis archiepiscopo et capitulo, vel quibusvis aliis, co-
 niunctim vel divisim, a dicta sit sede indultum, quod ad re-
-ceptionem vel provisionem alicuius nunc teneantur, et ad id
+ceptionem vel provisionem alicuius {{nunc|minime}} teneantur, et ad id
 compelli non possint, quodque de canonicatibus et prebendis
 ac dignitatibus, personatibus, vel officiis ipsius ecclesie, aut aliis
 beneficiis ecclesiasticis, ad eorum collationem, provisionem, pre-
@@ -116,7 +116,7 @@ ficia, canonicatus, et prebendas ecclesiasticas, et etiam alia
 beneficia ecclesiastica secularia et regularia, cum cura et sine
 cura, obtines et expectas et in nonnullis aliis et ad nonnulla
 alia ius tibi competit, que quotcumque fuerint, presentibus ha-
-benda volumus pro expressis, nos eum tecum ut archidiacona-
+benda volumus pro expressis, nos {{eum|enim}} tecum ut archidiacona-
 tum ipsum recipere, et una cum prioratibus, dignitatibus, perso-
 natibus, officiis, canonicatibus et prebendis ecclesiasticis et aliis
 beneficiis huiusmodi retinere, generalis concilii et quibuscum-

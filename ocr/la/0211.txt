@@ -83,7 +83,7 @@ solis, ivit ad liberandum Patriarcas et Patres, etc.; ideo
 dicit pro prima, idest, duos dies.
 *In chaos conversum*: tangit opinionem Empedoclis et
 Anaxagore. Hi duo philosophi tenuerunt talem opinionem,
-quod lux et amicitia, idest amor et discordia, essent prin-
+quod {{lux|lis}} et amicitia, idest amor et discordia, essent prin-
 cipia rerum naturalium, et quod aliquando omnia centra
 particularia et singularia continebantur et redibant in
 unum chaos, idest in unam confusionem; et istam redu-

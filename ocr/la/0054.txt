@@ -28,7 +28,7 @@ redire, in here et personis secure et libere permittatis, ac ei de
 recepta scorta libero salvoque conductu et omni grata tracta-
 tione, absque solutione alicuius datii, pedagii, theolonii, angarii,
 perangarii, fundinavis, gabelle, seu alterius cuiuscumque oneris
-realis, personalis vel mixti, iudicti vel indicendi, taliter et tam
+realis, personalis vel mixti, {{iudicti|indicti}} vel indicendi, taliter et tam
 liberaliter providere curetis, quod vestra apud nos devotio possit
 non immerito commendari, presentibus post sex menses a data
 presentium computandos minime valituris. Dat. Gebennis, Kal.

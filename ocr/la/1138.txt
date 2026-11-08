@@ -65,7 +65,7 @@ de mense maii, in ortu solis, quando sol erat in Gemini,
 seu in signo Geminorum), vobiscum nascebatur, et abscon-
 debatur vobiscum, ille qui est pater omnis mortalis vite,
 quando ego sensi a principio aierem Tuscum; et postea,
-quando fuit gratia michi largita intrandi idest altam rotam
+quando fuit gratia michi largita intrandi {{idest|in}} altam rotam
 que vos gyrat, idest circumducit, vestra regio michi fuit
 sortita.
 

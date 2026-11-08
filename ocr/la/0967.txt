@@ -45,7 +45,7 @@ Ad hoc ut ego discernam, respiciendo in Deum.
 Omnes iste partes et regiones, scilicet provincia Provin-
 tie, regnum Ungarie, regnum Cicilie, regnum insule Cicilie,
 expectassent me, et reges descendentes a me, pro regibus
-suis, attendendissent suos reges natos ex me, sive per me
+suis, {{attendendissent|attendissent}} suos reges natos ex me, sive per me
 de Karolo et Rodulpho (quia uxor sua fuit filia Rodulphi
 de Alamania Imperatoris), si malum dominium, quod sem-
 per accorat, idest corda accendit vel inflammat, populos

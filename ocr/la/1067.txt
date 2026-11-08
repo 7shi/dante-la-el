@@ -2,7 +2,7 @@
 
 CAPITULUM SEXTUMDECIMUM
 
-25 Se tu rigardi Luni et Orbisagla
+25 Se tu {{rigardi|riguardi}} Luni et Orbisagla
 Come son ite, e come se ne vanno
 Dirieto a esse Chiusi e Sinigagla,
 26 Udir come le schiatte si disfanno,
@@ -70,7 +70,7 @@ nihil est. Vult dicere auctor: Non enim mirum, si familie
 deficiunt, quia et maxime civitates etiam deficiunt, ponens
 exemplum de istis quatuor.
 Si tu respicis Lunim, idest civitatem Luni, et Urbisa-
-liam, idest aliam civitatem, quomodo iverunt, idest defe-
+liam, idest aliam civitatem, quomodo iverunt, idest {{defe-|defece-}}
 runt, et quomodo vadunt, idest deficiunt, retro, idest post
 illam, Clusium (alia civitas), et Senogallium (alia civitas),
 audire quomodo *schiatte*, idest stirpes, destruuntur, non

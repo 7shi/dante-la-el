@@ -17,7 +17,7 @@ Quando li vidi sì turbar la fronte,
 E così tosto al mal giunse l'impiastro:
 7 Chè come noi venimmo al guasto ponte.
 Lo duc'a me si volse con quel piglo
-Dolce, ch'io vidi prima a piè del ponte.
+Dolce, ch'io vidi prima a piè del {{ponte|monte}}.
 8 Le braccia aperse, doppo alcun consiglo
 Ellecto (5) seco, riguardando prima
 Ben la ruina, e diedemi di piglo.

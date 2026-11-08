@@ -10,7 +10,7 @@ Alcuna volta in aer fanno schiera,
 Poi volan più in frecta e vanno in filo;
 23 Così tutta la gente che lì era,
 Volgendo viso, raffrectò suo passo,
-E per magrezza e per volar leggiera.
+E per magrezza e per {{volar|voler}} leggiera.
 24 E come l'huom che di troctare è lasso
 Lass'andar li compagni, e si passeggia
 Finchè si sfoga l'affollar del casso;

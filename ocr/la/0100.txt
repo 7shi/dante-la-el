@@ -65,7 +65,7 @@ trix, scilicet sacra Theologia, hoc facit per excellentiam.
 *Cur non succurris illi, qui te tantum amavit*? Dictum
 est, quod Dantes dilexit Beatricem puellam, allegorice
 Theologiam.
-*Qui exivit pro te et amore tui*. *Le la volgare schira*.
+*Qui exivit pro te et amore tui*. *{{Le la volgare schira|De la volgare schiera}}*.
 *De acie vulgari*: idest, de turba pravorum et stultorum,
 quorum infinitus est numerus (Eccl. I). Et fuit de numero
 paucorum sapientum et beatorum.
@@ -89,7 +89,7 @@ rum; ideo dicit: Venio ad te.
 *Postquam talia dixerat michi*: sic loquitur Virgilius
 Danti.
 *Et ipsa oculos lacrymosos revolvit; quare me fecit*
-*prompliorem ad veniendum ad te*: et sicut ipsa voluit,
+*{{prompliorem|promptiorem}} ad veniendum ad te*: et sicut ipsa voluit,
 veni ad te, eripiens te ab illa fera, idest lupa, de via vi-
 tiorum, maxime de via avaritie.
 *Que ad pulchrum montem breviter te abstulit*: breviter,

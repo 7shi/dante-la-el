@@ -23,7 +23,7 @@ E tu (25) per più (26) ch'alcun'altro demonio.
 40 Ricorditi 'l spergiuro del cavallo,
 Rispose quel (27) ch'havea gonfiata l'epa (28);
 E sieti reo, che tucto 'l mondo sallo (29).
-41 A te sia reo la sete onde ti crepa,
+41 A te sia reo la sete onde ti {{crepa|rea}},
 Disse'l Greco (30), la lingua, e l'acqua
 [marcia (31),
 Che 'l ventre innanzi agl'ochi ti si siepa (32).

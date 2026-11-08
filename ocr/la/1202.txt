@@ -34,7 +34,7 @@ De maiori ad plus, et de minori ad minus,
 In quolibet celo, ad suam intelligentiam.
 27 Sicut remanet splendidum et serenum
 Emispyrium aieris, quando sufflat
-Boreas ab illa gena, ubi est levior,
+Boreas ab illa gena, ubi est {{levior|lenior}},
 28 Ex quo purgat et resolvit roffiam,
 Que prius turbabat, ita quod celum ridet
 Cum pulchritudinibus omnis sue parroffie;
@@ -67,7 +67,7 @@ convenit cum exemplato. Et sic apparet quod auctor non
 bene considerabat; nam si hoc auctor intellexisset, non
 tantum miratus fuisset, sicut mirabatur.
 Circuli qui apparent, sunt ampli et arcti, idest stricti,
-secundum maioritatem et pluralitatem virtutis, que exten-
+secundum {{maioritatem|minoritatem}} et pluralitatem virtutis, que exten-
 ditur per omnes ipsorum partes, idest in omnibus partibus
 operatur.
 Maior bonitas vult facere maiorem salutem, maior salus

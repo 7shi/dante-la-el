@@ -19,7 +19,7 @@ drappi, sive panni, Turcorum habent tot colores,
 quot erant in dorso istius fere. Veniens hec fera
 ad terram, solum faciem extraxit de aqua; totum
 residuum tenebat in aqua, et sepe revolvebat cau-
-dam venenosam, biffurgutam ad instar scorpionis.
+dam venenosam, {{biffurgutam|bifurcatam}} ad instar scorpionis.
 Tunc Virgilius cum auctore descendit versus illam
 feram per decem passus. Qualiter ista fera signi-
 ficet fraudem, videatur in commento super isto
@@ -35,7 +35,7 @@ ipsorum. Hic invenit quinque magnos usurarios
 et feneratores. Leo azurrinus in campo giallo est
 arma illorum de Gianfigliatiis de Florentia. Cam-
 pus albus cum ansere giallo est arma illorum de
-Ubriachis de Florentia. Sxus azurrina, sive de
+Ubriachis de Florentia. {{Sxus|Sus}} azurrina, sive de
 azurio, est arma illorum de Schrovignis de Padua.
 Istis visis, auctor cum Virgilio ascendit super istum
 Gerionem, super istam feram, que portans eos, de-

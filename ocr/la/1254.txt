@@ -5,7 +5,7 @@ PARADISI
 47 Ma perchè 'l tempo fugge, che t' assonna,
 Qui faren punto, come 'l buon sartore
 Che, com'elli ha del panno, fa la gonna;
-48 E dirizzremo gl' ochi al primo Amore,
+48 E {{dirizzremo|dirizzeremo}} gl' ochi al primo Amore,
 Sì che, guardando verso lui, penetri,
 Quant' è possibil (1), per lo suo fulgore.
 49 Veramente, non forse tu t' arretri (2),

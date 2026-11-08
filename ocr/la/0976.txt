@@ -12,7 +12,7 @@ E le fontane di Brenta e di P[i]ava,
 Là onde scese già una facella,
 Che fece a la contrada grand'assalto.
 11 D'una radice nacqui et io et ella;
-Cimisa fui chiamata, e qui rifulgo,
+{{Cimisa|Cunisa}} fui chiamata, e qui rifulgo,
 Perchè mi vinse el lume de la stella.
 12 Ma lietamente a me medesma indulgo
 La cagion di mia sorte, e non mi noia,
@@ -22,7 +22,7 @@ Del nostro cielo, che m'è più propinqua,
 Grande fama rimase, e, pria che muoia,
 14 Questo centesimo anno ancor s'incinqua.
 Vedi se far si de' l'huomo excellente,
-Sì ch'altra vita a la prima relinqua!
+Sì ch'altra vita {{a la prima|la prima}} relinqua!
 
 8 Unde lux que erat adhuc michi nova,
 De suo profundo, unde ipsa prius cantabat,
@@ -58,7 +58,7 @@ vocatur Rivus Altus), et fontes Brente (Brenta est unus
 fluvius, qui fluit iuxta Paduam et etiam in parte per Pa-
 duam) et Piave (Piava est unum magnum flumen, quod
 fluit inter Castrum Francum et Tervisium, alio nomine vo-
-catur Prava), elevatur unus collis, et non surgit multum
+catur {{Prava|Piava}}), elevatur unus collis, et non surgit multum
 alte, qui[a] est satis humilis collis, unde descendit iam una
 facella, imo fax magna, que fecit unum grandem insultum
 contrate, imo maximum. Notandum est, pro intelligentia

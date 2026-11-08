@@ -43,7 +43,7 @@ dictam, que sequitur cito talem culpam; et incipit a gravi
 dampno, quod recepit iste currus duarum rotarum ab illo
 serpente, qui exivit [extra] terram, scilicet a Machometo.
 Primo dat sibi audaciam loquendi, dicendi et interrogandi,
-dicens: Et ipsa ad me: A timore et a verecundia nolo
+dicens: Et ipsa ad me: A timore et a verecundia {{nolo|volo}}
 quod ammodo tu te disviluppes, idest explices, vel dis-
 solvas, ita quod non loquaris plus, sicut homo qui sompniat.
 

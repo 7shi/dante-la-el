@@ -80,7 +80,7 @@ omnia mala opera sunt venenosa.
 schinas, idest miseras ancillas regine eterni planctus:
 Inspice, dixit michi, in feroces Erinas.
 
-Hec est Megera ad sinistrum fiancum, idest latus. Di-
+Hec est Megera ad sinistrum {{fiancum|flancum}}, idest latus. Di-
 citur Megera quasi malum gerens, que ducit in actum et
 operationem. Illa, que plorat ad destrum, est Alecto, que
 cogitat malum. Alecto dicitur Furia impausabilis, et ista

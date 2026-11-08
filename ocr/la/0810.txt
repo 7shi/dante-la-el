@@ -48,7 +48,7 @@ Si hinc et inde prius non est gustatus.
 45 Omnes alios sapores iste est desuper:
 Et ponamus quod satis posset esse satiata
 Sitis tua, quamquam ego ulterius non discooperiam,
-45 Dabo tibi unum corellarium adhuc per gratiam;
+{{45|46}} Dabo tibi unum corellarium adhuc per gratiam;
 Nec credo quod meum dictum sit tibi minus carum,
 Si ultra promissionem tibi per me spatiatur.
 47 Illi qui antiquitus poetarunt
@@ -102,6 +102,6 @@ pro gratia; nec credo quod meum dictum sit tibi minus
 carum, si ultra promissionem, idest tibi per me factam,
 tecum spatiatur, idest ampliatur.
 
-Illi qui antiquitus poetarunt etatem anri et eius statum
+Illi qui antiquitus poetarunt etatem {{anri|auri}} et eius statum
 felicem in Parnaso, monte in Gretia sic dicto, istum locum
 signarunt.

@@ -16,7 +16,7 @@ Et tanto plus doloris, quod pungit ad lamentationes.
 Examinat culpas in introytu,
 Iudicat et mandat, secundum quod invenit.
 
-*Cosi discesi del cerchio primaio*. *Sic descendi de cir-*
+*{{Cosi|Così}} discesi del cerchio primaio*. *Sic descendi de cir-*
 *culo primo in secundum*: istud est quintum capitulum
 Inferni, in quo auctor ponit penam peccatorum carnalium
 luxuriosorum, ibi ponendo multos spiritus antiquos, et
@@ -61,7 +61,7 @@ propter amorem in quo sunt submersi; qui amor fingitur
 a poetis cecus; qui spiritus sine fine sic molestantur ab illo
 vento, sine spe diminutionis talis pene. His dictis, ad ex-
 positionem prime partis.
-*Cosi*: idest sic, scilicet cum solo Virgilio, descendi de cir-
+*{{Cosi|Così}}*: idest sic, scilicet cum solo Virgilio, descendi de cir-
 culo primo, qui dicitur Limbus, in secundum, qui minorem
 locum cingit, quia continet minorem locum, ut supra in
 uno preambulo dictum est. Auctor fingit quod Infernus sit

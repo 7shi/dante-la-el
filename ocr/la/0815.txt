@@ -57,7 +57,7 @@ Et sicut Nymphe, que ibant sole, idest solitarie, per sil-
 vestres umbras, desiderando alique videre, alique fugere,
 solem, tunc se movit, scilicet domina contra flumen, scilicet
 Letheum, eundo super ripam, et ego par cum ea, scilicet
-vadens, parvum passuum cum parvo sequendo, idest seque-
+vadens, parvum {{passuum|passum}} cum parvo sequendo, idest seque-
 bar ipsam plano passu, sicut ipsa ibat.
 
 Nunc describit id quod apparuit subito, scilicet quod,

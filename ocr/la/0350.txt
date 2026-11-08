@@ -3,7 +3,7 @@ CAPITULUM VICESIMUMQUARTUM
 1 In quella parte del giovinetto anno,
 Che 'l sol i crin sotto l'Aquario tempra,
 E già le nocti a mezzo'l dì sen vanno;
-3 Quando la brina in su la terra sempra
+{{3|2}} Quando la brina in su la terra {{sempra|assempra}}
 L'ymagine di sua sorella (1) bianca,
 Ma poco basta a la sua penna tempra;
 

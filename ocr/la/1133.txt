@@ -100,6 +100,6 @@ quia unus informabat alium de vita contemplativa, de modo
 serviendi Deo, visitabant se mutuo, hortando se ad servitia
 Iesu Christi, et unus fiebat melior propter alium.
 
-Ergo stabant sicut ille qui reprimit sibi summitatem,
+{{Ergo stabant|Ego stabam}} sicut ille qui reprimit sibi summitatem,
 idest principium desiderii, et non audet interrogare; ita de
 nimio timet: idest non audebat interrogare, timens ne

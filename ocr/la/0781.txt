@@ -6,7 +6,7 @@ CAPITULUM VICESIMUMSEXTUM
 Se forse a nome vuoi saper chi semo,
 Tempo non è di dire, e non saprei.
 31 Farotti ben di me volere scemo:
-Son Guido Guininzelli; e già mi purgo,
+Son Guido {{Guininzelli|Guinizelli}}; e già mi purgo,
 Per ben dolermi (1) prima ch'allo stremo (2).
 32 Quali nella tristitia di Ligurgo
 Si fer due figli a riveder la madre,

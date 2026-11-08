@@ -20,7 +20,7 @@ Non, se 'l maestro vostro ben vi scrive.
 41 Sì venne deducendo infine a quici;
 Poscia conchiuse: Dunque esser diverse
 Convien de' vostri effecti le radici:
-42 Per che un nasce Absalon e l'altro Xerse,
+42 Per che un nasce {{Absalon|Solon}} e l'altro Xerse,
 L'altro Melchisedech, e l'altro quello (2)
 Che, volando per l'aere, el figlio (3) perse.
 43 La circular natura, ch'è suggello

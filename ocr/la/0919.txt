@@ -7,7 +7,7 @@ Credendo quella quindi esser decisa,
 Quando natura per forma la diede.
 19 E forse sua sententia è d'altra guisa
 Che la voce non suona, et esser puote
-Con intention da non esser decisa.
+Con intention da non esser {{decisa|derisa}}.
 20 S'elli intende tornar a queste ruote
 L'honor dell'influenzia e 'l biasmo, forse
 In alcun vero suo arco percuote.
@@ -37,7 +37,7 @@ In aliquod verum suus arcus percutit.
 Iam totum mundum quasi, ita quod Iovem,
 Mercurium et Martem ad adorandum transcucurrit.
 22 Alia dubitatio que te commovet,
-Habet plus veneni, ex eo quia sua malitia
+Habet {{plus|minus}} veneni, ex eo quia sua malitia
 Non posset te deviare a me alio.
 23 Apparere iniustam nostram iustitiam
 In oculis mortalium, est argumentum

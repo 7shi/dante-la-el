@@ -20,7 +20,7 @@ Ubi sine armis vicit antiquus Alardus;
 7 Et quidam perforatum suum membrum, et quidam
 [abscissum
 Monstraret, ad equandum esset nihil
-Modum nunc bolgie turpis.
+Modum {{nunc|none}} bolgie turpis.
 8 Iam dolium propter mezulium perdere vel ullam,
 Sicut ego vidi unum, sic non perforatur,
 Ructum a mento usque ad locum ubi trullatur:

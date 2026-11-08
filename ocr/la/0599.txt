@@ -5,7 +5,7 @@ CAPITULUM UNDECIMUM
 3 Vegna ver noi la pace del tuo regno,
 Chè noi, ad essa (1) non potiàn (2) da noi,
 S'ella non vien, con tutto nostro ingegno (3).
-4 Come del suo buon voler gl'angeli tuoi
+4 Come {{del suo buon|del suo voler}} voler gl'angeli tuoi
 Fan sacrificio a te, cantando osanna,
 Così faccian li homini de'suoi.
 5 Da'oggi a noi la quotidiana manna,
@@ -18,7 +18,7 @@ Benigno, e non guardar al nostro merto.
 Non spermentar (5) coll'antico adversaro,
 Ma libera da lui, che sì la sprona.
 
-(1) pace. — (2) al. possiam. — (3) possibilità. (4) si veuce. — (5) Noli probare.
+(1) pace. — (2) al. possiam. — (3) possibilità. (4) si {{veuce|vence}}. — (5) Noli probare.
 
 3 Veniat versus nos pax tui regni,
 Quia nos ad ipsam non possumus a nobis,

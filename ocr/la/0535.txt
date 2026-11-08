@@ -18,7 +18,7 @@ Perchè la foga l'un dell'altro insolla.
 Dissilo, alquanto del color (3) consperso
 Che fa l'uom di perdon talvolta degno.
 8 Intanto per la costa da traverso
-Venian genti innanzi a noi um poco,
+Venian genti innanzi a noi {{um|un}} poco,
 Cantando Miserere a verso a verso.
 
 (1) in proposito — (2) al. suo. — (3) rosso.
@@ -71,7 +71,7 @@ gito monstrari et dicier: Hic est. Dicendum est quod Per-
 sius, sic dicens, loquitur ironice, scilicet de illis loquendo,
 qui querunt virtutes propter vanam gloriam. Proculdubio,
 in rei veritate, gloria sequitur sapientem, fugientem ipsam.
-Nemo debet querere gloriam a vulgo, quia vulgus signorat
+Nemo debet querere gloriam a vulgo, quia vulgus {{signorat|ignorat}}
 perfectionem, etc. Dicit Ieronimus, quod popularis aura est
 vile mancipium.
 

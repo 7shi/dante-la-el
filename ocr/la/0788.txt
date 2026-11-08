@@ -4,7 +4,7 @@ CAPITULUM VICESIMUMSEPTIMUM
 Là dove 'l suo Fattor lo sangue sparse,
 Cadendo Ibero sotto l'altra Libra,
 2 E l'onde in Ghange da nona riarse,
-Sì stava il sol, onde il giron sen giva,
+Sì stava il sol, onde il {{giron|giorno}} sen giva,
 Come l'angel di Dio lieto ci apparse.
 
 1 Sicut quando primos radios vibrat

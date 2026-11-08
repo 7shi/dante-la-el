@@ -13,7 +13,7 @@ Che quel dirieto muove ciò ch'el tocha?
 Chyron cepit unam sagiptam, et cum coccha
 Sibi fecit barbam retro maxillas.
 27 Quando sibi discooperuit magnum os,
-Dixit sotiis: Perpendidisti ne vos,
+Dixit sotiis: {{Perpendidisti|Perpendistis}} ne vos,
 Quod ille retro movet quidquid tangit?
 
 captus fuit de una alia femina, nomine Iole; quod per-
@@ -74,7 +74,7 @@ Chyron, ut hic dicit textus: *Ille est Chyron, qui nutrivit*
 *Achillem*. Iste Chyron nutrivit Achillem, postquam dederat
 sibi filiam in uxorem. Docuit eum exercitare in armis, quia
 ipse Chyron erat magnus magister et domitor equorum; fuit
-etiam magnus miscicus et cognitor erbarum. Et sic docuit
+etiam magnus {{miscicus|medicus}} et cognitor erbarum. Et sic docuit
 Chyron Achillem artem bellandi, pugnandi, ensitandi: ha-
 buit ipsum valde charum.
 Follus vero fuit unus homo armorum, iracundus nimis,

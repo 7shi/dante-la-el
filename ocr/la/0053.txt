@@ -42,7 +42,7 @@ hiis nostris litteris esset habenda, vel aliis in contrarium fa-
 cientibus non obstantibus quibuscumque, eadem auctoritate te-
 nore presentium plenam concedimus facultatem. Dat. Gaiete, II.
 Id. Iulii, Pontificatus nostri Anno Sexto.
-M. de Pisis Gradis de mandato Domini nostri pape
+M. de Pisis {{Gradis|Gratis}} de mandato Domini nostri pape
 A. Cricquetr
 (Ex Arch. Vat. *Regest. Greg. cit*. tom. III, fol. 22).
 
@@ -55,7 +55,7 @@ dilectis, Ladislaus Rex Hungarie Jerusalem et Sicilie.
 Reverende in Christo Pater Consiliarie, et venerabiles viri
 oratores et fideles nostri dilecti. Cum magnificus Carolus de
 Malatesta, precipuus noster amicus carissimus, vir justus et
-integer, ad Beatum Bartholomeum Apostolum, magnum genus,
+integer, ad Beatum Bartholomeum Apostolum, magnum {{genus|gerens}},
 singularis devotionis affectum, aliquid Beati illius corporis re-
 liquiarum habere et honorari fideli intentione desideret: cumque
 gloriosi illius Apostoli sanctum illud corpus in ipsa Beneven-

@@ -18,7 +18,7 @@ O quel d'un'acqua (8), non sapendo como?
 (1) quando vendè la figliuola — (2) de'Giudei — (3) al tempo di Tyto — (4) quella vedova — (5) suo — (6) mangiandosel per fame — (7) loro — (8) odore.
 
 9 Non credo quod sic ad pellem extremam
-Crisiton esset factus siccus,
+{{Crisiton|Erisiton}} esset factus siccus,
 Propter ieiunium, quando de illo magis timebat.
 10 Ego dicebam intra me cogitando: Ecce
 Gentem que perdidit Hierusalem,

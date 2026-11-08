@@ -26,7 +26,7 @@ Un, crocifixo in terra con tre pali.
 della Vergine Maria. — (7) chiamato. — (8) altro. — (9) chiamati. — (10) Fiorenza. — (11) solitario e di buona vita. — (12) di Firenze. —
 (13) contrada di Firenze. — (14) che le predecte parole. — (15) perchè. — (16) miei.
 
-32 Et ego ad eos: Ego fui natus ed adultus
+32 Et ego ad eos: Ego fui natus {{ed|et}} adultus
 Supra pulchrum flumen Arni in grandi villa,
 Et sum cum corpore quod semper habui.
 33 Sed vos qui estis, quibus tantus distillat,

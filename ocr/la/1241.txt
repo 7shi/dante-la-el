@@ -40,7 +40,7 @@ Quem male conduxit Phetont, magis inflamma[tur],
 Et hinc et inde lumen diminuitur;
 43 Sic illa pacifica aurea flamma
 In medio vivifica[ba]tur, et ab omni parte
-Per equalem motum alleviabatur flamma.
+Per equalem {{motum|modum}} alleviabatur flamma.
 
 ego, admirando vivacem caritatem illius, scilicet Sancti
 Bernardi, qui in isto mundo, contemplando, gustavit de

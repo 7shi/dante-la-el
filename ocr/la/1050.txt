@@ -7,7 +7,7 @@ Come cupidità fa nell'iniqua (1),
 E fece quietar le sancte corde,
 Che la dextra del ciel allenta e tira.
 
-(1) voloutà.
+(1) {{voloutà|volontà}}.
 
 1 Benigna voluntas, in qua liquefit
 Semper amor qui recte spirat,
@@ -66,7 +66,7 @@ amor procedit, et sic apparet liquido, sive clare), silentium
 imposuit, scilicet benigna voluntas, illi dulci lire, scilicet
 illi sotietati animarum, et fecit quietare sanctas cordas,
 scilicet animas, quas dextera celi allentat (allentare est
-remisse trabere, non nimis tense), et trahit, tendit. Sententia
+remisse {{trabere|trahere}}, non nimis tense), et trahit, tendit. Sententia
 est, quod potentia Dei animarum beatificarum in Marte, sive
 in stella Martis, aliquas magis beatificat, aliquas minus,
 secundum quod meruerunt et passe sunt in suis martyriis.

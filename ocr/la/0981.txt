@@ -49,7 +49,7 @@ imprimitur, quia in eo sum collocatus, sicut ego de illo im-
 pressus fui, idest eius influentia me mirabiliter disposuit.
 Nam ego habui tantum de Venere, fui ita philocaptus et
 in tantum, quod plus non arsit, scilicet in amore, filia Beli,
-scilicet Dido de Carthagine, iniurando Sicheo primo suo ma-
+scilicet Dido de Carthagine, {{iniurando|iniuriando}} Sicheo primo suo ma-
 rito, scilicet diligendo post mortem eius Eneam, et Creuse,
 scilicet prime uxori Enee, quam ego, quousque fuit conve-
 niens pilo, quousque fui iuvenis. Quando homo est senex,
@@ -58,7 +58,7 @@ Venerem.
 
 Nec illa Rodopeya, idest Phylis, sive Phylade, regina
 Tracie, dicta Rodopeya a monte Rodope, que delusa, idest
-decepta, fuit a Denophonte, scilicet filio Thesei, ducis Athe-
+decepta, fuit a {{Denophonte|Demophonte}}, scilicet filio Thesei, ducis Athe-
 narum: nec Alchides, idest Hercules, Altey filius, quando
 Iolem (secunda mulier fuit quam intense amavit ipse Her-
 cules) in corde habuit reclusam, non plus arserunt in amore.
@@ -79,12 +79,12 @@ scilicet per influentiam planetarum, mundus inferior ad
 illum superiorem reducitur, quia fit mundus inferior su-
 periori conformis, per conservationem et perpetuationem.
 
-*Sed adhuc ut omnes tuas voluntates*. *Ma perchè tutte*
+*Sed {{adhuc|ad hoc}} ut omnes tuas voluntates*. *Ma perchè tutte*
 *le tue voglie*: hec est quarta pars huius capituli, in qua
 auctor tractat de una anima antiqua. Hec est anima Raab
 meretricis. Sciendum est quod, quando Moyses, qui fuit dux
 populi Dei, conducens eum de Egipto per desertum qua-
-draginta aunis, quando appropinquavit ad montem Nebo,
+draginta {{aunis|annis}}, quando appropinquavit ad montem Nebo,
 misit in terram promissionis duos exploratores bonos, scili-
 cet Iosue et Caleph: qui intrantes primo civitatem in Ierico,
 venerunt ad domum istius Raab, que erat meretrix, saltem

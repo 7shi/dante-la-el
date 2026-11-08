@@ -16,7 +16,7 @@ Chè 'l velo è ben hor tanto sottile,
 Certo, che 'l trapassar dentro è leggiero.
 8 Io viddi quello exercito gentile
 Tacito poscia riguardare in sue,
-Quasi aspectando tacito et humile:
+Quasi aspectando {{tacito|pallido}} et humile:
 9 E vidi uscir dell'alto, e scender giue,
 Due angeli con due spade affocate,
 Tronche e private delle puncte sue.

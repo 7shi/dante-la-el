@@ -68,7 +68,7 @@ circumeundo recedit.
 
 Principium casus, scilicet illorum angelorum, fuit super-
 bire illius, scilicet Luciferi (dicebatur Lucifer, quasi fe-
-rens lucem, quia lucidissimus erat; idco dicit Iob: Quo-
+rens lucem, quia lucidissimus erat; {{idco|ideo}} dicit Iob: Quo-
 modo cecidisti Lucifer, qui mane oriebaris? Omnis lapis
 pretiosus ornamentum tuum), quem tu vidisti, scilicet in
 Inferno et in centro terre, ab omnibus ponderibus mundi

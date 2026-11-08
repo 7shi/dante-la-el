@@ -4,7 +4,7 @@ PURGATORII
 
 34 Veramente horamai saranno nude
 Le mie parole, quanto converrassi
-Quelle scovrir alla tua vogla rude.
+Quelle scovrir alla tua {{vogla|veduta}} rude.
 35 E più corusco (1), e con più lenti passi,
 Teneva 'l sole el cerchio di merigge,
 Che qua e là, come gl'aspecti, fassi,
@@ -41,7 +41,7 @@ Qui vadit ante gentes pro scorta,
 Si reperit novitatem in suis vestigiis,
 37 Septem domine in fine unius umbre pallide,
 Que sub foliis viridibus et ramis nigris
-Supra supra frigidos rivos Alpes portat.
+{{Supra supra|Supra suos}} frigidos rivos Alpes portat.
 38 Ante ipsas Eufraten et Tigrim
 Videre apparuit exire de uno fonte,
 Et quasi amicos recedere pigros.

@@ -2,7 +2,7 @@
 
 CAPITULUM SEXTUMDECIMUM
 
-16 S'io fossi stato dal loco coperto,
+16 S'io fossi stato dal {{loco|foco}} coperto,
 Gittato mi sarei tra loro disocto,
 E credo che 'l doctor (1) l'havria sofferto.
 17 Ma perch'io mi sarei bruciato e cocto,
@@ -18,7 +18,7 @@ Tanto, che tardi tutta mi dispogla,
 Proiecissem me inter eos infra,
 Et credo quod doctor illud sustulisset.
 17 Sed quia ego me incendissem et decoquissem,
-Vicit timor bonum voluntatem,
+Vicit timor {{bonum|bonam}} voluntatem,
 Que amplexari illos faciebat me avidum.
 18 Postmodum incepi: Non despectum, sed dolorem
 Vestra conditio intra me fixit

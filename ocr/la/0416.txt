@@ -7,7 +7,7 @@ Io mi saprei levar per l'aere a volo.
 E quei, ch'havea vaghezza e senno poco,
 39 Volle ch'io li mostrassi l'arte; e solo
 Perch'io nol feci Dedalo (1), mi fece
-Arder a tal, ch'io havea per figlolo.
+Arder a tal, {{ch'io havea|che l'havea}} per figlolo.
 40 Ma nell'ultima bolgia delle diece
 Me, per l'alchimia ch'io nel mondo usai,
 Dannò (2) Mynos, a cui fallar (3) non lece (4).

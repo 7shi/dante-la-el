@@ -16,7 +16,7 @@ Ma poco tempo andrà, ch'e tuoi vicini (9)
 Faranno sì, che tu potrai chiosarlo (10).
 Quest'opera (11) li tolse quei confini (12).
 
-44 Si bona oratio cum non adiuvat,
+44 Si bona oratio {{cum|eum}} non adiuvat,
 Prius quam transeat tempus quantum vixit,
 Quomodo fuit adventus ei largitus?
 45 Quando vivebat magis gloriosus, dixit,

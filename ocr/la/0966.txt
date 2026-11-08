@@ -76,7 +76,7 @@ Apulie, sive Cicilie, quod idem est, est quasi unum cornu
 
 Ytalie) quod imburgatur, idest suburbiis habitatur, vel or-
 natur edificiis, de Baro, de Gaieta et de Cathona, unde
-Truntus (fluvius est divideus Marchiam Anconitanam a re-
+Truntus (fluvius est {{divideus|dividens}} Marchiam Anconitanam a re-
 gno) et Viridis (fluvius in Apulia) in mare sgorgantur, idest
 in mare fluunt vel descendunt.
 
@@ -93,7 +93,7 @@ Modo ponit dominium, quod habuit in insula Trinacrie,
 dicens: Et pulchra Trinacria, scilicet insula Cicilie, que ca-
 ligat, idest caliginem, scilicet fumum nebulosum, emictit
 inter Pachinum, montem unum, et Pellorum, montem alium,
-in illa insula, supra gulfum, idest brachium maris, ubi surt
+in illa insula, supra gulfum, idest brachium maris, ubi {{surt|sunt}}
 S[c]illa et Caribdis; qui, scilicet gulfus, recipit ab Euro, ab
 illo scilicet vento Euro vocato, qui est quasi veniens ab
 oriente, maiorem brigam, idest maius impedimentum; quia

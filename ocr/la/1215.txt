@@ -27,7 +27,7 @@ L'amor dell'apparenza e 'l suo pensiero,
 (1) angeliche — (2) beate — (3) visione.
 
 23 Ammodo circa istud consistorium
-Potest contemplari satis, si verba
+{{Potest|Potes}} contemplari satis, si verba
 Mea sunt recollecta, sine alio adiutorio.
 24 Sed, quia in terra per vestras scholas
 Legitur quod angelica natura
@@ -66,7 +66,7 @@ sibi presentia, etc. Sic apparet auctori de angelis, quia
 a principio creationis sue et confirmationis habuerunt
 semper Deum presentem, nec unquam volverunt nec re-
 traxerunt oculos suos, scilicet visionem suam, a Deo, in
-quo vident omnia que Deos vult ipsos videre; ideo nec in
+quo vident omnia que {{Deos|Deus}} vult ipsos videre; ideo nec in
 ipsis cadit reminiscentia, nec recordatio, nec reminisci: et
 sic auctor hic trufatur de iis, qui asserunt in angelis esse
 reminiscentiam. Sed quia in terris per vestras scholas le-

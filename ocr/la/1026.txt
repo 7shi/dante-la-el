@@ -5,7 +5,7 @@ Ciò ch'i' hor vidi, e ritegna l'ymage,
 Mentre ch'io dico, come ferma rupe,
 2 Quindici stelle che 'n diverse plage
 El ciel avvivan di tanto sereno,
-Che soverchia dell'arte ogni compage:
+Che soverchia {{dell'arte|dell'aere}} ogni compage:
 3 Ymagini quel carro a cui el seno
 Basta del nostro cielo e nocte e giorno,
 Sì ch'al volger del temo non vien meno:

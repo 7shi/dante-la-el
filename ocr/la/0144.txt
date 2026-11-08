@@ -75,7 +75,7 @@ ducit ad Infernum istud vitium, quod est officium demonis.
 *Sordide*: sepe etenim infirmus gulosus non dolet de se-
 metipso; idest, canis nunquam vellet sotium in corrodendo
 ossa; sic gulosus. Canis aliquando dimictit carnes propter
-umbram carnium, credens quod illa umbra sit malus fru-
+umbram carnium, credens quod illa umbra sit {{malus|maius}} fru-
 stum carnium: sic faciunt gulosi: audientes quod in uno
 loco fit convivium, vel nuptie, currunt illuc, relinquentes
 illud quod habebant paratum, et sepe reperiunt se deceptos,

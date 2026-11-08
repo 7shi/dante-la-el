@@ -91,7 +91,7 @@ fugiat; et interroga eum que culpa ad hunc locum eum pin-
 sit, idest impulit, quia ego vidi eum hominem sanguinis,
 idest effusorem, et de *crucci*, idest rixarum.
 
-Et peccator, qui intellexit, non se fiuxit, idest intelli-
+Et peccator, qui intellexit, non se {{fiuxit|finxit}}, idest intelli-
 gere; sed direxit versus me animum et vultum, et tristi
 verecundia se pinxit. Postea dixit: Plus me dolet, quod tu
 me reperisti in miseria, in qua tu me vides, quam quando

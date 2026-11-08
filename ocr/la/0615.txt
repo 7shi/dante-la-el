@@ -32,7 +32,7 @@ Qui retraheret umbras et tractus, qui erant ibi?
 Mirari facerent omne ingenium subtile.
 23 Mortui mortui, et vivi apparebant vivi:
 Non vidit melius me qui vidit verum,
-Quantum ego calcavi quousquam inclinatus ivi.
+Quantum ego calcavi {{quousquam|quousque}} inclinatus ivi.
 24 Superbite, igitur, et ultra cum visu altero,
 Fili Eve, et non inclinetis visum,
 Ita quod videatis vestram viam malam semitam.

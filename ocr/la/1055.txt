@@ -35,7 +35,7 @@ Tua cognatio, et qui centum annis et pluribus
 Gyravit montem in prima cornice,
 32 Meus filius fuit, et proavus tuus fuit:
 Bene convenit quod longam faticam
-Tu illo abbrevies cum operibus tuis.
+Tu {{illo|illi}} abbrevies cum operibus tuis.
 33 Florentia, intra circulum antiquum,
 Unde ipsa capit adhuc tertiam et nonam,
 Stabat in pace, sobria et pudica.

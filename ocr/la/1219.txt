@@ -12,7 +12,7 @@ Determinato numero si cela.
 Per tanti modi in essa si ricepe,
 Quanti son gli splendori a che s'appaia.
 47 Onde, però ch'all'acto che concepe
-Segue l'effecto d'amare la dolcezza,
+Segue {{l'effecto|l'affecto}} d'amare la dolcezza,
 Diversamente in essa ferve e tepe.
 48 Vedi l'excelso (3) omai e la larghezza
 Dell'eterno valor, poscia che tanti
@@ -40,7 +40,7 @@ Unus manens in se, sicut ante erat.
 
 Vult tangere numerum angelorum, dicens: Ista natura,
 hec natura, tam ultra graduatur, idest multiplicatur, in
-numero, quod unquam fuit loquela, nec conceptus mor-
+numero, quod {{unquam|nunquam}} fuit loquela, nec conceptus mor-
 talis, qui tantum vadat. Idest angeli sunt innumerabiles;
 non sunt infiniti, sed sunt tot quot non possunt dicere
 lingue mortalium.

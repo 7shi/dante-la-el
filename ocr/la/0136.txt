@@ -10,7 +10,7 @@ Su la marina dove 'l Po discende
 Per haver pace co' seguaci soi.
 34 Amor, ch'al cor gentil rapto s'apprende,
 Prese costui de la bella persona
-Che mi fu tolta, e 'l mondo ancor m'offende.
+Che mi fu tolta, e 'l {{mondo|modo}} ancor m'offende.
 35 Amor, ch'a nullo amato amar perdona,
 Mi prese di costui piacer sì forte,
 Che, come vedi, ancor non m'abbandona.
@@ -23,7 +23,7 @@ Quousque ventus, sicut facit, nos quietat.
 33 Sedet terra, ubi nata fui,
 Super marina ubi Padus descendit
 Ut habeat pacem cum sequacibus suis.
-34 Amor, qui cordi gentili ractus se apprehendit,
+34 Amor, qui cordi gentili {{ractus|raptus}} se apprehendit,
 Cepit istum de pulchra persona
 Que fuit michi rapta, et modus adhuc me offendit.
 35 Amor, qui nullo amato amare parcit,

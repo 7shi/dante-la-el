@@ -59,7 +59,7 @@ prodest impio sepultura pretiosa, oberit pio vilis et nulla. Pre-
 claras exsequias, in conspectu hominum, purpurato illi diviti
 exhibuit turba famulorum; sed multo clariores in conspectu
 Domini ulceroso illi pauperi ministerium exhibuit angelorum,
-qui eum extollerunt, non in marmoreum tumulum, sed in
+qui eum {{extollerunt|extulerunt}}, non in marmoreum tumulum, sed in
 Abrahae gremium. — Sit tamen cura mortuos sepeliendi et se-
 pulchra construendi, quia hec in Scripturis Sanctis inter bona
 opera deputata sunt; nec solum in corporibus Patriarcharum
@@ -84,7 +84,7 @@ quamus. Nam esto, quod non sit in pulveribus appetitus, et quod
 fiat resolutio usque ad ultima; non perit aliquid, quod ad re-
 surrectionem spectet, propter hoc quod, sicut dicit Augustinus
 (*Enchir*. LXXXVIII), non perit Deo terrena materies, de qua
-mortalium creatur caro. Sed ih quemlibet pulverem cinerem-
+mortalium creatur caro. Sed {{ih|in}} quemlibet pulverem cinerem-
 que solvatur, in quoslibet halitus aurasque diffugiat, in quam-
 cumque aliorum corporum substantiam, vel in ipsa elementa,
 vertatur, in quemcumque cibum, etc.; illi anime etiam in puncto

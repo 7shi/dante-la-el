@@ -5,7 +5,7 @@ PURGATORII
 22 Perchè in altrui pietà tosto si pogna,
 Non pur per lo sonar delle parole,
 Ma per la vista che non men agogna.
-23 E com'agl'ochi non approda el sole,
+23 E {{com'agl'ochi|com'agl'orbi}} non approda el sole,
 Così all'ombre, quivi ov' io parlo hora,
 Luce del ciel di sè largir non vole;
 24 Ch'a tutti un fil di ferro el ciglo fora,

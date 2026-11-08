@@ -29,7 +29,7 @@ A contemplar quest' (10) ordini (11) si mise,
 Che li nomò e distinse, com'io.
 45 Ma Gregorio da lui poi si divise;
 Onde, sì tosto come gl'ochi aperse
-In questo ciel, di sè medesimo rise (2).
+In questo ciel, di sè medesimo rise {{(2)|(12)}}.
 
 (1) che ama — (2) el quale — (3) prospera — (4) la quale — (5) seconda — (6) balli angelici — (7) giuochi e feste — (8) gl'ordini —
 (9) detto Aryopagita — (10) nove — (11) Lib. De angelica Yerarchia — (12) de la sua opinione prima.
@@ -73,7 +73,7 @@ est ita secundum qualitatem et quantitatem visionis; quam,
 scilicet visionem, gratia Dei precurrit (quia nullus posset
 mereri vitam eternam, nisi adiuvaretur a divina gratia,
 et bona voluntas, scilicet divina, que est causa omnium
-rerum creatarum: sic de grado in gradum proceditur,
+rerum creatarum: sic de {{grado|gradu}} in gradum proceditur,
 idest per bene capientem vel doctrinantem.
 
 Iam auctor tangit secundam Ierarchiam theophaniam.
@@ -86,7 +86,7 @@ liter Osanna svernatur, idest cantatur, cum tribus me-
 lodiis, idest cum tribus ordinibus Angelorum, que sonant
 in tribus ordinibus letitie, unde internantur, idest perpe-
 tuantur. Nunquam letitia ibi deest.
-In ipsa Ierarchia, scilicet secunda, sunt duo alie deitates,
+In ipsa Ierarchia, scilicet secunda, sunt {{duo|due}} alie deitates,
 dee, idest duo alii chori: primo Dominationes, et postea
 Virtutes; ordo tertius Potestatum est.
 

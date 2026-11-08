@@ -8,7 +8,7 @@ Ma per colui che siede e traligna,
 31 Non dispensare o due o tre per sei,
 Non la fortuna del primo vacante,
 Non decimas que sunt pauperum Dei,
-32 Adunando; ma contra el mondo errante
+32 {{Adunando|Addimandò}}; ma contra el mondo errante
 Licentia di combatter per lo seme
 Di che si fascian ventiquattro piante.
 33 Poi con doctrina e con volere inseme
@@ -48,7 +48,7 @@ Ita quod sui arbusculi stant vivaciores.
 Super qua sancta Ecclesia se defendit,
 Et vincit in campo suam civilem brigam,
 
-Et ad sedem, que iam fuit benigna plus pauperiibus
+Et ad sedem, que iam fuit benigna plus {{pauperiibus|pauperibus}}
 iustis, non pro ipsa, idest non defectu ipsius sedis, sed
 propter illum qui sedet et tralignat, idest deviat, delirat, et
 recedit a moribus Sanctorum Patrum; non dispensare duo

@@ -27,7 +27,7 @@ Non sequeretur meum cantare precisum;
 11 Sed nunc oportet quod meum sequi desistat
 Plus post suam pulchritudinem, poetando,
 Sicut in ultimo suo quilibet artista.
-12 Talis, qualis ipsam dimicto maiori preconio
+12 Talis, {{qualis|qualem}} ipsam dimicto maiori preconio
 Quam illud mee tube, que deducit
 Arduam suam materiam terminando,
 13 Cum actu et voce expediti ducis,
@@ -54,12 +54,12 @@ absolvit eum. Ergo bene confitetur hic auctor, se victum
 omnino esse; et si unquam aliquis poeta comicus vel tra-
 gedus fuit superatus ab aliquo themate, sic auctor dicit
 de se hic evenire, quia victus est ab isto puncto, dicens:
-Ab isto passu vinctum me concedo, plusquam unquam a
+Ab isto passu {{vinctum|victum}} me concedo, plusquam unquam a
 puncto sui thematis seperatus, idest superatus esset, co-
 micus vel tragedus (quid sit comicus vel tragedus, dictum
 est sepe, maxime in uno preambulorum in principio libri).
 
-Sicut sol in visu qui, scilicet visus, magit tremit, idest
+Sicut sol in visu qui, scilicet visus, {{magit|magis}} tremit, idest
 in visu noctue, sive vespertilionis (nam oculus vesperti-
 lionis ponitur ab auctoribus debilissimus inter oculos
 omnium animalium), sic recordatio dulcis risus, scilicet

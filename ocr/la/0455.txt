@@ -28,7 +28,7 @@ Michi assimilaris veraciter, quando te audio.
 5 Tu debes scire quod ego fui comes Ugolinus,
 Et iste est archiepiscopus Rogerius:
 Or nunc dicam tibi quare ego sum ei ita malus
-[ricinus.
+[{{ricinus|vicinus}}.
 6 Quod per effectum suorum malorum cogitaminum,
 Confidens me de isto, ego fuerim captus
 Et postea mortuus, dicere non oportet.

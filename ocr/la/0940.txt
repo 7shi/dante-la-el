@@ -49,7 +49,7 @@ Alia hystoria est de Lucretia. Nam dum Tarquinius Su-
 perbus, septimus rex Romanorum, esset in obsidione circa
 Ardeam civitatem, que est lictore maris romani, sive in
 mariptima romana, versus orientem, distantem a Roma per
-trigintiquatuor milliaria, que erat inimica Romanorum, ac-
+{{trigintiquatuor|trigintaquatuor}} milliaria, que erat inimica Romanorum, ac-
 cidit quod, cenando duo filii ipsius regis Tarquinii, scilicet
 Aroris et Sextus, et Collactinus sic dictus a civitate Col-
 lactina, consanguineus eorum, ad invicem dixerunt, quod

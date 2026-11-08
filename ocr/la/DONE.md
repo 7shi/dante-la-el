@@ -8,7 +8,8 @@ was done; PLAN.md now holds the work still planned; check 1, the verse check,
 the italics and check 2, done, are recorded here ("Check 1", "Verse check", "Italics", "Check 2"),
 with their order and what later work takes from them ("The checks"), and so is the
 read-through ("Read-through"). Sections cited here that are not in
-this file ("Standing rules", "Conventions settled during the check", "Suspected misprints",
+this file ("Standing rules", "Conventions settled during the check", "Suspected misprints" (now
+`ocr/la/misprints.tsv`, each place marked in its page: PLAN.md, "Misprint marks"),
 "Known limits", "Sources for checking", "Tools") are in PLAN.md. "Remaining work" in the
 text below means "Work items" here.
 
@@ -1325,7 +1326,8 @@ steps of a batch). Done: the tools, the trial and the batches of 0001–1296.
   kept as printed for want of a verse beside it; the user found the verse on 0884 (`el
   fuoco`), and it was recorded as a misprint (`be1c5a80`).
 - `readcheck.tsv` holds every decision: 3,180 rows (124 misread, 989 misprints, 2,067
-  printed); "Suspected misprints" in PLAN.md has 852 rows (one duplicate merged after the read-through).
+  printed); "Suspected misprints" in PLAN.md had 852 rows (one duplicate merged after the
+  read-through), since become the 1,053 rows of `misprints.tsv` (PLAN.md, "Misprint marks").
 
 What the batches showed:
 

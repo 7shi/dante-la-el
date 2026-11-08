@@ -2,7 +2,7 @@
 
 CAPITULUM DECIMUMSEPTIMUM
 
-4 Sì, pareggiando e miei com passi fidi
+4 Sì, pareggiando e miei {{com|con}} passi fidi
 Del mio maestro, usc' io fuor di tal nube,
 Ai raggi morti già ne' bassi lidi.
 5 O ymaginativa (1), che ne (2) rube (3)

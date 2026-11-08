@@ -53,7 +53,7 @@ Guido, filius istius domini Cavalcantis qui loquebatur cum
 auctore, vixisset, quia dixit *ebbi*, idest habuit, in prete-
 rito; quoniam si dixisset habet, non sic fuisset suspicatus.
 Quando Dantes dixit habuit, suspicatus fuit dominus Ca-
-valcantes, quod filius suus, dominus Guido, esset mortaus;
+valcantes, quod filius suus, dominus Guido, esset {{mortaus|mortuus}};
 ideo dixit: Numquid adhuc vivit? Et quia Dantes non re-
 spondit cito, adhuc fuit magis suspicatus de morte filii sui;
 ideo cecidit, et nihil loquutus fuit amplius, nec apparuit
@@ -75,7 +75,7 @@ plus tormentor quam de isto igne in quo ardeo. Sed iste
 dominus Farinata, ne Dantes gauderet de hoc, quia Dantes
 erat de parte contraria, dixit ipsi Danti aliqua, unde Dan-
 tes haberet materiam tristitie. Dixit namque dominus Fa-
-rinata ipsi Danti: Sed non quinquaginta vicibus erit rea-
+rinata ipsi Danti: Sed non quinquaginta vicibus erit {{rea-|reac-}}
 censa facies domine que hic regit, quod tu scias quantum
 ponderat ars illa. Idest: luna non replebitur, quia repleri
 accipitur hic pro accendi, quinquaginta vicibus, idest non

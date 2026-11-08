@@ -87,7 +87,7 @@ me scilicet solo, in vanum ad hoc contemplor, idest cogito.
 Iam Beatrix vult solvere dubium auctoris; sed primo
 dicit sibi, quod non miretur si ipse dubitat et non intel-
 ligit istud, et reddit ipsum auctorem actentum ad auscul-
-tandum id quod ipsa dicitura est. Dicit igitur Beatrix
+tandum id quod ipsa {{dicitura|dictura}} est. Dicit igitur Beatrix
 auctori: Si digiti tui non sunt ad talem nodum, scilicet
 solvendum, sufficientes, non est mirum, nec admirandum,
 tantum propter non tentare effectum [est] sodum, idest so-

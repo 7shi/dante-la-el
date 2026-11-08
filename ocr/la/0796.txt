@@ -9,7 +9,7 @@ In me ficcò Virgilio gl'occhi suoi,
 Vedut'hai, figlo, e se' venuto in parte
 Dov'io più oltre per me non discerno.
 44 Tracto t'ho qui con ingegno e con arte;
-Lo tuo piacer omai prende per duce:
+Lo tuo piacer omai {{prende|prendi}} per duce:
 Fuor se' dell'erte (4) vie, fuor se' dell'arte (5).
 45 Vedi che 'l sole in fronte ti riluce;
 Vedi l'herbetta, e' fiori e gl'arboscelli,

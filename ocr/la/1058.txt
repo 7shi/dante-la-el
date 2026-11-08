@@ -20,7 +20,7 @@ Tantum pro bono operari deveni sibi gratus.
 Illius legis, cuius populus usurpat,
 Propter culpam pastorum, vestram iustitiam.
 49 Ibi fui ego ab illa gente turpi
-Disvolutus a gente fallaci,
+Disvolutus a {{gente|mundo}} fallaci,
 Cuius amor multas animas deturpat,
 Et veni a martyrio ad istam pacem.
 

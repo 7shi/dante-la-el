@@ -90,12 +90,12 @@ neficiis ecclesiasticis in aliis partibus, speciales aut generales
 Apostolice Sedis vel legatorum eius litteras impetrarunt, etiam
 si per eas ad inibitionem, reservationem et decretum, vel alias
 quomodolibet sit processum, quibus omnibus te in assecutione
-dicti prioratus nolumus anteferri, sed nullum qui hoc eis quoad
+dicti prioratus {{nolumus|volumus}} anteferri, sed nullum qui hoc eis quoad
 assecutionem prioratuum aut beneficiorum aliorum preiudicium
 grave; aut si dilectis filiis, Abbati Monasterii et eiusdem ac
 prioratus predictorum concernentibus, vel quibusvis aliis, com-
 muniter vel divisim, addicta sit; vel indultum quod ad rece-
-ptionem vel provisionem alicuius anime teneantur, et ad id
+ptionem vel provisionem alicuius {{anime|minime}} teneantur, et ad id
 compelli non possint, quodque de prioratibus, dignitatibus, per-
 sonatibus, vel officiis, aut aliis beneficiis ecclesiasticis, ad eorum
 collationem, provisionem, putant electionem seu quamvis aliam

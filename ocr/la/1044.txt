@@ -4,7 +4,7 @@ PARADISI
 
 36 Ma chi prende suo' croce e segue Chrysto,
 Ancor mi scuserà di quel ch'io lasso,
-Vedendo quel arbor balenar Chrysto.
+Vedendo quel {{arbor|albor}} balenar Chrysto.
 37 Di corno in corno, e tra la cima e 'l basso,
 Si movean lumi, scintillando forte
 Nel congiungersi insieme e nel trapasso.
@@ -73,7 +73,7 @@ et meridiem, Galassia, illa constellatio, ita quod facit bene
 sapientes dubitare (quia multi non bene sciunt unde pro-
 cedat ille splendor qui efficit illam viam lacteam, de qua
 aliqui scripserunt errores, quos Aristotiles impugnat in
-Metheor.); sic constellati faciebant in profundo mari, idest
+Metheor.); sic constellati faciebant in profundo {{mari|Marti}}, idest
 intus in profunditate stelle Martis, cum illis radiis venera-
 bile signum, scilicet Crucis (aliquando fuit abominabile
 signum, ante passionem Iesu Christi; postmodum est venera-

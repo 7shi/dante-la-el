@@ -15,7 +15,7 @@ Da loro operation l'ochio (8) comprese.
 Vider Beatrice volta in su la fiera,
 Ch'è sola una persona in due nature.
 28 Socto suo velo, et oltre la riviera,
-Vincer pariemi, sè stessa l'antica
+Vincer pariemi, {{sè stessa l'antica|più sè stessa antica}}
 Vincer, che l'altre qui quando la c'era.
 
 (1) forza — (2) ben radicato arboro — (3) tramontana — (4) vento — (5) d'Affrica, cioè Garbino o vero Affrico — (6) la faccia —
@@ -75,7 +75,7 @@ pulchra isti auctori. Vult dicere auctor, quod dum Beatrix
 vixit, ipsa in pulchritudine excedebat omnes alias mulie-
 res; et quanto ipsa, vivendo, excessit alias mulieres, tanto
 tunc excedit se ipsam in pulchritudine dum erat vivens in
-mundo; ita quod modo longeest pulchrior, quam erat quando
+mundo; ita quod {{modo longeest|longe est}} pulchrior, quam erat quando
 erat viva in Florentia. Figuraliter Theologia est pulchrior
 quando tractat de divinitate et de rebus immortalibus,
 sempiternis et incorruptibilibus, quam quando tractat de

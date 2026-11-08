@@ -15,7 +15,7 @@ causa forsan me dignum fore alicuius laudis vel gratie putassem in hoc sub-
 scripto opere, nisi obstitisset privatio dulcedinis, complacentie et pulchritudinis
 rythimorum libri Comedie Dantis Aldigherii de Aldigheriis de Florentia, theologi
 poete, quam in translatione de vestro mandato facienda admitti oportuit, dum
-ipse liber per me transferreretur de ydiomate vulgari ytalico in illam talem
+ipse liber per me {{transferreretur|transferretur}} de ydiomate vulgari ytalico in illam talem
 qualem prosam rudem et ineptam, quam sic fieri vobis placuit et strictius pre-
 cepistis. Causam puto fuisse preceptorum vestrorum, dubitationem brevitatis
 temporis quo habemus hic Constantie commorari. Considerantes nempe quod,

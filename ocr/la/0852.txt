@@ -35,7 +35,7 @@ Dicit tamen Dantes, quod fuit excitatus, et hoc bene scit
 et vult describere. Unde fuit excitatus a quodam sompno
 et a quadam voce, que dixit, Surge et vide; sicut fuerunt
 excitati tres apostoli, Petrus, Ioannes et Iacobus, ducti
-a Christo in montem Thaber, in quo Christus transfigura-
+a Christo in montem {{Thaber|Thabor}}, in quo Christus transfigura-
 tus est; et quando facies eius resplenduit sicut sol, vesti-
 menta ut nix, apparuit ibi Moyses et etiam Elyas; quos vi-
 dentes discipuli obdormiverunt, et fuerunt excitati a verbo

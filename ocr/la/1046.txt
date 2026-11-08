@@ -34,7 +34,7 @@ me excusare, et videndo me dicere verum; quia compla-
 centia sancta non fuit hic exclusa (idest in re sancta oc-
 cupabar; vel non fuit exclusa complacentia Beatricis, quia
 non videbam nisi quantum ipsa monstrabat, licet non
-facerem intentionem de ipsa hic in littera), et quia fit
+facerem {{intentionem|mentionem}} de ipsa hic in littera), et quia fit
 ascendendo magis sincera. Quia quanto altius per celos
 ascendebat, tanto clarior et sincerior apparebat; vel quanto
 subtilius quis contemplatur Beatricem, tanto fit in eo cla-

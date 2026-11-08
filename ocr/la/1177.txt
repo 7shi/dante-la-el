@@ -8,9 +8,9 @@ El vero, in che si fonda questa prova.
 13 Tal vero all'intelletto mio [dis]cerne
 Colui che mi dimostra 'l primo amore
 Di tutte le substantie sempiterne.
-14 [S]cernel la voce del beato autore,
+14 [S]cernel la voce del {{beato|verace}} autore,
 Che dice a Moyse, di sè parlando:
-Io ti farò sentir ogni valore.
+Io ti farò {{sentir|veder}} ogni valore.
 15 [S]cernimel tu ancora, cominciando
 L'alto preconio, che grida l'arcano
 Di qui laggiù, e sopr'ogn'altro bando.
@@ -21,7 +21,7 @@ De'tuoi amor a Dio guarda 'l sovrano.
 Tirarti verso lui, sì che tu suone
 Con quanti denti questo amor ti morde.
 18 Non fu latente (2) la santa intentione
-Dell'aquila di Chrysto, ancor m'accorsi
+Dell'aquila di Chrysto, {{ancor|anzi}} m'accorsi
 Ove menar volea mia profexione.
 
 (1) per — (2) nascosta.
@@ -52,7 +52,7 @@ amandum; idest omnia bona dependentia non sunt nisi que-
 dam participatio illius boni: concludit ergo dicens), magis
 quam in alia, scilicet quacumque, essentia, convenit, idest
 oportet, quod moveatur mens, amando, cuiuslibet qui
-cernit, idest cognoscit, verum, in quo probatur ista pro-
+cernit, idest cognoscit, verum, in quo {{probatur|fundatur}} ista pro-
 batio. Bene dicit, *qui cernit*: quia aliquando res non bona,
 et apparens bonum, movet mentem ad amorem; sed in ista
 essentia non potest esse deceptio, in qua est omne bonum
@@ -88,7 +88,7 @@ et Evangelistarum, et ultra omnia dicta Doctorum.
 *Et ego audivi*. *E io udii*: hec est secunda pars huius
 capituli, in qua auctor introducit Ioannem Evangelistam,
 facientem ipsi unam petitionem circa Caritatem, ubi ipse
-Sanctus dicit: Quasi bene respondidisti et bene amas; sed
+Sanctus dicit: Quasi bene {{respondidisti|respondisti}} et bene amas; sed
 volo quod exprimas causas particulares, que te induxe-
 runt ad hec, sicut dixisti, et formam quomodo amas et
 modum. Et ideo replicat responsum auctoris. Dicit ergo

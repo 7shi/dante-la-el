@@ -37,9 +37,9 @@ Tibi porrigo, et deprecor quod non sint scarse,
 Sue mortalitatis cum precibus tuis,
 Ita quod summa complacentia ei explicetur.
 12 Adhuc te precor, o Regina, que potes
-Quidquid tu vis, quod conserves ei sanes,
+Quidquid tu vis, quod conserves ei {{sanes|sanos}},
 Post tantum videre, affectus suos.
-13 Vincat tua misericordia motiones humanas:
+13 Vincat tua {{misericordia|custodia}} motiones humanas:
 Videas Beatricem cum quot beatis
 Propter meas preces tibi claudit manus.
 14 Oculi Dei dilecti et venerati,

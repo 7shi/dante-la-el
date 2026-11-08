@@ -4,7 +4,7 @@ SPECIALMENTE NELLA VERA DONNA CRISTIANA
 Due cose specialmente ci hanno sempre fermato in questo
 canto: la pietà, con cui Dante ci fa sapere di aver pianto
 l'amico suo Forese quando fu morto, e che ora sente non
-meno viva verso di lui; e la cara figura di Nella, cosi buona,
+meno viva verso di lui; e la cara figura di Nella, {{cosi|così}} buona,
 così pietosa, e così fedele all'amore del suo sposo diletto pur
 dopo di averlo perduto, che non solamente non ne smesse mai
 l'amoroso pensiero, ma con preghiere continue e caldi sospiri
@@ -27,9 +27,9 @@ fatti, spirito e corpo, una immensa società celeste. Cara dot-
 trina, per la quale quelli che già son di là, ricevono il suffragio
 del nostro amore, e se ne allevia e accorcia la prova, e che
 a noi che tuttavia restiamo, è d'immenso conforto per le be-
-nedizioni che ci attira e la sicurezza che ci da di rivederci tutti
+nedizioni che ci attira e la sicurezza che ci {{da|dà}} di rivederci tutti
 nel cielo.
-La Nella poi, a Dio si cara e si diletta, per aver
+La Nella poi, a Dio {{si|sì}} cara e {{si|sì}} diletta, per aver
 Con suoi prieghi devoti e con sospiri
 fatto salire in alto il caro suo sposo dalla costa, dove senza i
 suffragi di lei sarebbe tuttavia rimasto ad aspettare lungamente;

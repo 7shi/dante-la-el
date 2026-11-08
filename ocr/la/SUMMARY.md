@@ -44,13 +44,15 @@ the whole text for sense came last:
 | Read-through | the whole of `texts/la` read for sense by a delegate in batches of 25 pages (2026-11-05 – 2026-11-08); every flagged place (3,180) decided in the image | 124 misread, 989 misprints |
 
 Each flagged place was decided in the image as one of three: **misread** (corrected in
-`ocr/la`; a damaged letter is restored by the sense), **misprint** (kept as printed and
-listed), or **printed** (kept, nothing to do).
+`ocr/la`; a damaged letter is restored by the sense), **misprint** (kept as printed,
+marked with its fix and listed), or **printed** (kept, nothing to do).
 
 ## 3. What is left
 
-- **Misprints** are not corrected in the text. The 852 rows of PLAN.md ("Suspected
-  misprints") list them with page, line and the probable reading.
+- **Misprints** are marked in `ocr/la` as `{{printed|fixed}}` (PLAN.md, "Misprint marks"):
+  the left side keeps the print, `texts/la` has the right side. `misprints.tsv` lists them
+  (1,053 rows, 1,050 marked; 3 left unmarked, the fixed form not certain) with the source
+  of each fix: the same page, the edition elsewhere, Dante's text, or a source named.
 - **Known limits** (PLAN.md): the read-through has read the whole text, the commentary
   included, but a reading for sense does not see a misreading that reads well: a spelling
   the OCR normalized (`Quae` for `Que`), an accent added or dropped. The italics follow a

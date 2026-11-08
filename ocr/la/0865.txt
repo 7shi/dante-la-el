@@ -52,7 +52,7 @@ Culpam in tua voluntate alibi intenta.
 sicut facit ille, qui portat bordonum, sive contum palma,
 idest ramo olive, sive datillorum, cinctum: et tunc est si-
 gnum, quod talis peregrinus venit de Terra Sancta), volo
-adhuc, si non scultum, saltem depictum, portes intra te,
+adhuc, si non {{scultum|scriptum}}, saltem depictum, portes intra te,
 propter illud propter quod reportatur bordonus de palma
 cinctus; idest, ut tu ostendas te hic fuisse, sicut ostendunt pe-
 regrini loca peregrinationis eorum, per signa que reportant.
@@ -91,7 +91,7 @@ Hic est fumus, ergo est et ignis; ita sequitur: Penitet, ergo
 delinquit; ita sequitur: Bibisti de Lethei fluminis aquam, de
 qua nulli bibunt nisi qui sunt purgati a commissis pec-
 catis; ergo, ex quo bibisti de Lethe, scias te peccasse.
-Et si recordari non potes, subridendo respondidit, or
+Et si recordari non potes, subridendo {{respondidit|respondit}}, or
 reminiscere sicut, idest quomodo, bibisti tu de Lethe hodie.
 Et [sicut] de fumo ignis argumentatur, idest concluditur;
 ita oblivio clare concludit culpam in tua voluntate alibi

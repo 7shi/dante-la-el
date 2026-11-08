@@ -8,7 +8,7 @@ E ciascun è lungo la grotta assiso.
 16 Allora più che pria gl'ochi apersi;
 Guarda'mi innanzi, e vidi ombre con manti
 Al color de la pietra non diversi (1).
-17 E poi che fummo um poco più avanti,
+17 E poi che fummo {{um|un}} poco più avanti,
 Udi' gridar (2): Maria, ora per noi,
 (3) Gridar (4), Michele (5), Pietro, e (6) tutt'i
 [Santi.
@@ -51,7 +51,7 @@ Stant ad indulgentias ad querendum eorum ne-
 Et unus super alium cum capite iacet,
 
 *Sed fige visum per aierem*. *Ma ficca el viso per l'aiere*:
-hec est tertia pars huius cupituli, in qua auctor ponit
+hec est tertia pars huius {{cupituli|capituli}}, in qua auctor ponit
 modum, per quem purgantur invidi, quia invidia est dolor
 de felicitate aliena et livor odiosus. Ideo auctor fingit,
 quod hic in plano stant invidi ad sedendum, ne discur-

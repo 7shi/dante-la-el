@@ -39,8 +39,8 @@ Facti proprie pro humana specie.
 Quin ego favillare viderem circum,
 Qualiter ferrum bulliens exit de igne.
 21 Et statim visum fuit diem diei
-Esse aditum, sicut si ille qui potest
-Celum uno alio celo ornasset.
+Esse {{aditum|additum}}, sicut si ille qui potest
+Celum uno alio {{celo|sole}} ornasset.
 
 rius per oppositum evenit ad id quod hic superius fit.
 Nam si homo in isto nostro emispirio, de mane oriente

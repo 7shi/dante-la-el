@@ -22,7 +22,7 @@ Non pianger anco, non (8) pianger ancora,
 Chè pianger ti convien per altra spada (9).
 20 Quasi ammiraglo, che 'n poppa et in prora
 Vien a veder la gente ch'amministra
-Per gl'alti legni (10), et a ben far l'incora (11),
+Per {{gl'alti|gl'altri}} legni (10), et a ben far l'incora (11),
 21 In su la sponda del carro sinistra,
 Quando mi volsi al suon del nome mio,
 Che di necessità qui si registra,

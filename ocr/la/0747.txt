@@ -7,11 +7,11 @@ A ber lo dolce assentio de'martiri
 La Nella mia (1) col suo pianger dirocto.
 30 Co'suoi preghi devoti e co'sospiri
 Tracto m'ha de la costa (2) ove s'aspecta,
-E liberato m'ha di questi (3) giri.
+E liberato m'ha {{di questi|degl'altri}} (3) giri.
 31 Tant'è a Dio più cara e più dilecta
 La vedovella mia, che molto (4) amai,
 Quanto 'n ben operar è più solecta;
-32 Chè la Bardaggia di Sardigna assai
+32 Chè la {{Bardaggia|Barbagia}} di Sardigna assai
 Ne le femine sue è più pudica,
 Chè la Bardaggia dov' io la lassai.
 33 O dolce frate, che vuoi tu ch'io dica?
@@ -63,7 +63,7 @@ mille et pectora ipsarum; quod est valde inhonestum quid.
 Unde ipse ad me: Ita cito me conduxit ad bibendum
 dulce absintium, idest ad portandum istam dulcem penam,
 martyriorum, Nella mea (uxor sua, sic vocata) cum suo
-planctu diructo, idest continuato.
+planctu {{diructo|dirupto}}, idest continuato.
 Ipse Foresis moriebatur millesimo ducentesimo septua-
 gesimo sexto, et tunc Dantes erat undecim annorum, et
 fuit socius suus in pueritia, cum quo sepe pueriliter egit,
@@ -93,7 +93,7 @@ mulieribus florentinis: quia, antequam fiant pili in barbis
 puerorum infantium qui sunt in cunabulis modo, celo
 disponente et influente, ipse male stabunt; et quod erunt
 tristes et ululabunt, plorando propter mala que superve-
-nient; et cito veniret tempus in quo publice in pulpitu e
+nient; et cito veniret tempus in quo publice in {{pulpitu e|pulpito et}}
 ambone predicabitur contra ipsas inhoneste euntes, et
 dicetur: Nec Saracene nec barbare mulieres irent ita di-
 scooperte et inhoneste propter decipere homines, sicut

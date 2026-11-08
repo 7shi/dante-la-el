@@ -4,7 +4,7 @@ PURGATORII
 
 23 Non altrimenti stupido si turba
 Lo montanaro, e rimirando ammuta (1),
-Quando rozzo e selvatico in se inurba,
+Quando rozzo e selvatico in se {{inurba|s'inurba}},
 24 Che ciascun' ombra fece in sua paruta;
 Ma poi che furon di stupore scarche,
 Lo qual negl' alti cuor tosto si muta,
@@ -20,7 +20,7 @@ Et aiutan l'arsura (4) vergognando.
 28 Nostro peccato fu hermafrodito;
 Ma perchè non servammo humana legge,
 Seguendo come bestie l'appetito (5),
-29 In opbrobrio di noi, per noi si legge,
+29 In {{opbrobrio|obbrobrio}} di noi, per noi si legge,
 Quando partinci (6), el nome di colei (7)
 Che s'imbestiò nell'imbestiate scheggie (8).
 

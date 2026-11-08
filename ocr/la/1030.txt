@@ -70,7 +70,7 @@ Deus produxit creaturas, qui amor est unus Deus, qui est
 trinus et unus, potestate, benignitate et necessitate. Per
 sapientiam suam Deus Pater fecit omnia dependentia, et
 per ydeam, sive artem suam), qui propter suam bonitatem
-radium adunat, quasi speculator, in novas substantias,
+radium adunat, quasi {{speculator|speculatus}}, in novas substantias,
 idest creaturas, semper et eternaliter [remanens] una.
 Idest, primo Deus produxit celum empyreum, novem or-
 dines angelorum; demum celos, planetas, demum elementa
@@ -96,7 +96,7 @@ malivolis planetis, tunc ille qui nasceretur sub eo, et ma-
 teria esset disposita, esset optime dispositus; et si filius
 rustici sic nasceretur, ipse esset dispositus, si indispositio
 materie non obsisteret. Sed natura pro maiori parte dat
-illam, scilicet materiam, et admiuistrat minus bene dispo-
+illam, scilicet materiam, et {{admiuistrat|administrat}} minus bene dispo-
 sitam; et ideo evenit de tali effectu, sicut fabro qui bene
 novit artem, sed manus sibi tremit. Sic etiam aliquando
 accidit cithariste, qui apprehendit citharam, et bene novit

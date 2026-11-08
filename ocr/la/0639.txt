@@ -24,7 +24,7 @@ Che di figlar tai conti più s'impigla.
 (1) o. — (2) rivolta in dietro.
 
 34 Quando in Bononia unus Faber ralignatur?
-Quando in Farentia unus Bernardinus de Fusco,
+Quando in {{Farentia|Faventia}} unus Bernardinus de Fusco,
 Virga gentilis parve graminee?
 35 Non mireris, si ego ploro, Tuscus,
 Quando reminiscor cum Guidone de Prata
@@ -44,7 +44,7 @@ Et male facit Castrocarium, et peius Comium,
 Que ad producendum tales filios se non immiscent.
 
 Iam auctor facit mentionem de quinto illustri viro, de
-Fabro Bononiensi. In Bononia fuit unus bonus homo, vir
+Fabro Bononiensi. In Bononia fuit unus bonus homo, {{vir|vir-}}
 tuosus et curialis, nomine Faber, dignus magna fama.
 Facit adhuc de sexto viro illustri mentionem, qui vo-
 cabatur Bernardinus de Fusco, de civitate Faventie sic dicta.

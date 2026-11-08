@@ -6,10 +6,10 @@ CAPITULUM VICESIMUMNONUM
 Falsava nel parer un lungo tracto
 Del mezzo, ancor la terra tra noi e loro:
 16 E quando fui sì presso di lor facto,
-Che l'obliquo comun, che 'l senso inganna,
+Che {{l'obliquo|l'obiecto}} comun, che 'l senso inganna,
 Non perdea [per] distantia alcun suo acto;
 17 La virtù ch'a ragion discorso ammanna,
-Sì com'elli eran candelabri accese,
+Sì com'elli eran candelabri {{accese|apprese}},
 E nelle voci del cantar, Osanna.
 18 Di sopra fiammeggiava 'l bello arnese
 Più chiar' assai, che luna per sereno

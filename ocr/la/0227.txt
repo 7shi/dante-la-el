@@ -46,7 +46,7 @@ Mynos eam mictit ad septimam faucem.
 33 Cadit in silvam, et non est ei pars electa;
 Sed illuc quo fortuna eam balistat,
 Ibi germinat sicut granum spelte;
-34 Surgit in vermen est plantam silvestrem:
+34 Surgit in vermen {{est|et}} plantam silvestrem:
 Arpie, pascendo postea de suis foliis,
 Faciunt dolorem, et dolori fenestram.
 35 Sicut alie, veniemus pro nostris spoliis,

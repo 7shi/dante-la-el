@@ -9,7 +9,7 @@ Se tu gli guardi ben o se gl'ascolti.
 Ma io dissolverò 'l forte legame,
 In che ti stringon li pensier soctili.
 18 Dentro all'ampiezza di questo reame
-Causal puncto non può haver sito,
+{{Causal|Casual}} puncto non può haver sito,
 Se non come tristitia, o sete, o fame;
 19 Chè per eterna legge è stabilito
 Quantunque vedi, sì che giustamente
@@ -43,7 +43,7 @@ Ad veram vitam, non est sine causa,
 Et stabitur hic plus et minus excellenter.
 21 Rex, per quem istud regnum pausat
 In tanto amore et tanta delectatione,
-Quod nulla voluntas est amplius anxia,
+Quod nulla voluntas est {{amplius|ausa}} anxia,
 22 Mentes omnes in suo leto aspectu,
 Creando, ad suum placitum illas dotat
 Diversimode: et hic sufficiat effectus.

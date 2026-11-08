@@ -51,7 +51,7 @@ de opinione Platonis, que plus habet fellis, idest falsitatis.
 pituli, in qua Beatrix solvit secundum dubium. Nam Plato
 posuit in suo Thimeo, quod anime humane discedant a
 stellis et veniant ad corpora nostra, in quibus stant quo-
-usque vivit corpus; demum redunt ad stellas, a quibus
+usque vivit corpus; demum {{redunt|redeunt}} ad stellas, a quibus
 discesserant, et secundum quarum influentiam operate
 erant in corporibus, in quibus habitaverant. Modo ista
 opinio est falsa et heretica, cum omnes anime creentur a

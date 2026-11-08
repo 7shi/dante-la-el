@@ -83,4 +83,4 @@ sex, septem, et amplius. Nota quod auctor facit magnam
 mentionem de mulieribus, que fuerunt matres multorum
 progenitorum primi ordinis, scilicet antiqui Testamenti. In
 primo gradu est regina celi, scilicet Virgo Maria. Sub pe-
-dibus eius, secundum gradum habet Eva, mater omuium:
+dibus eius, secundum gradum habet Eva, mater {{omuium|omnium}}:

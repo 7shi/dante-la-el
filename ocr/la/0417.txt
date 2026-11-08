@@ -2,7 +2,7 @@
 
 CAPITULUM VICESIMUMNONUM
 
-45 Ma perchè sappi (1) che sì ti seconda
+45 Ma perchè sappi (1) {{che|chi}} sì ti seconda
 Contr'a'Sanesi, aguzza ver me l'ochio (2),
 Sì che la faccia (3) ben ti si risponda (4):
 46 Sì (5) vedrai ch'io son l'ombra di Capochio,

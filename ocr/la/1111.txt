@@ -32,7 +32,7 @@ Que habebant spiritum solum cogitationum san-
 [ctarum!
 6 Postquam clari et lucidi lapilli,
 Unde ego vidi ingemmatum sextum lumen,
-Posuerunt silentium angelicis quisquillis,
+Posuerunt silentium angelicis {{quisquillis|squillis}},
 7 Audire michi apparuit unum murmur fluminis,
 Quod descendit clarum infra de petra in petram,
 Monstrando ubertatem sui cacuminis.

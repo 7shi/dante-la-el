@@ -1,7 +1,7 @@
 CAPITULUM TRICESIMUMSECUNDUM
 
 1 Tant'eran gl'ochi miei fixi et attenti
-A disbramarsi la decente sete,
+A disbramarsi la {{decente|decenne}} sete,
 Che gl'altri sensi m'eran tucti spenti:
 2 Et essi quinci e quindi havean parete
 Di non caler, così lo sancto riso

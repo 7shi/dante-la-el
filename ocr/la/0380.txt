@@ -74,7 +74,7 @@ Fratres, dixi, qui per centum milia pericula pervenistis ad
 occidentem, huic tam parve vigilie, huic brevi scilicet tem-
 pori, quod restat, de vita vestra, vestrorum sensuum, qui
 est de residuo, ne velitis negare experientiam post solem
-mundi sine gente. Quasi dicens: Hucusque bene expendi-
+mundi sine gente. Quasi dicens: Hucusque bene {{expendi-|expen-}}
 distis tempus vestrum; ideo etiam residuum bene expen-
 datis; ergo, istud parum vite, quod restat vobis, sive de
 vita. Ulixes disponebat ire ad aliud emispirium, et ad

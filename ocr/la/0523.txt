@@ -103,5 +103,5 @@ cum una *forcatella*, idest fasciculo parvo, suarum spina-
 rum, homo de villa, quando uva denigratur, idest incipit
 denigrari, idest maturari, quam erat ille callis, unde ascen-
 dit dux meus et ego prope, soli, quia nos ascendimus, illis
-spiribus remanentibus, statim quod a nobis *schiera*, idest
+{{spiribus|spiritibus}} remanentibus, statim quod a nobis *schiera*, idest
 acies, illarum animarum, recessit.

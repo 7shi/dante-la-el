@@ -93,7 +93,7 @@ avium sunt late, discurrentes; sic avari totum mundum
 discurrunt, propter lucra acquirenda. Colla et vultus hu-
 manos habent; *virgo pulchra*; que naturaliter attrahit
 homines ad amorem et ligat: sic avaritia ligat avarum et
-stringit. Virgo est intructuosa, nullum facit fructum; sic
+stringit. Virgo est {{intructuosa|infructuosa}}, nullum facit fructum; sic
 avaritia. Habet pedes ungulatos ad modum uncorum: sic
 avarus est semper paratus ad rapiendum, nec unquam sibi
 sufficit quod habet, cuius venter nunquam impletur, nec

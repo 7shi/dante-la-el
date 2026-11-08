@@ -65,7 +65,7 @@ tuor horis, motu raptus, scilicet diurno.
 
 Modo ostenditur actus Beatricis, quem fecit. Beatrix
 versus sursum, idest respiciebat, et ego in eam respiciebam,
-et forsan in tantum in quantum una sagipta, que escit,
+et forsan in tantum in quantum una sagipta, que {{escit|quiescit}},
 idest ad terram cadit, quando non impellitur, et volat, et
 a nuce dischiavatur, idest dissolvitur, vel dissolvatur, et a
 balista emictit[ur] in balista. Illud instrumentum, quod

@@ -50,9 +50,9 @@ nentes, comparative: sicut rote orologii, que vertuntur fa-
 ciendo unum sonum, quasi *tin tin* dicendo, et maxime in
 hora noctis media, quando Religiosi surgunt hora matu-
 tina ad laudandum Deum.
-Inde [sicut] horologium, quos nos vocet in hora, in qua
+Inde [sicut] horologium, {{quos|quod}} nos vocet in hora, in qua
 sponsa Dei [surgit] ad dicendum matutinum sponso suo, ut
-ipsum amet, quia una pars, scilicet horologii, et altera trahit
+{{ipsum|ipsam}} amet, quia una pars, scilicet horologii, et altera trahit
 et urget, *tin tin* sonando cum tam dulci nota, quod bene
 dispositum spiritum amore turget, idest implet (tintinnus
 est stridor, quem faciunt campanella in horologio); sic vidi

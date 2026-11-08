@@ -27,7 +27,7 @@ Iste sit nunc tibi primus, et ego secundus.
 bantur. Ego vidi sub, usque ad cilia, gentem, idest sub san-
 guine bullientem. Et magnus Centaurus, idest [Chyron],
 dixit: Illi sunt tyrampni, qui dederunt in sanguine et *in*
-*arere*, idest in bonis aliorum, *de piglio*; idest posuerunt
+*{{arere|avere}}*, idest in bonis aliorum, *de piglio*; idest posuerunt
 manum in sanguinem et in bonis aliorum. Ecce quod ty-
 rampni, qui magis fuerunt violenti, plus merguntur in san-
 guine, scilicet usque ad cilia, idest usque ad supra oculos.

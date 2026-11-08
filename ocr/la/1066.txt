@@ -37,7 +37,7 @@ Quam cecus agnus, et multoties incidit
 Plus et melius unus quam quinque enses.
 
 confines, idest extra, quam habere, idest intus, ipsas ad
-substituendum putredinem Villani (nomen proprium fuit
+{{substituendum|sustinendum}} putredinem Villani (nomen proprium fuit
 unius doctoris iuris, malus homo) de Guglione (nomen
 unius ville) et illius de Signa (hic fuit unus alter iurista,
 cuius nomen non ponitur hic, et ille fuit de Signa: est
@@ -99,7 +99,7 @@ tiplicatione tot civium?), dicit quod sepe cecus taurus
 cadit citius quam cecus agnus, et aliquando magis in-
 cidit unus cum bona manu et forti, quam quinque enses.
 Semper confusio personarum principium fuit mali civitatis,
-sicut de vestro malo, vel infirmate vestra, cibus qui super-
+sicut de vestro malo, vel {{infirmate|infirmitate}} vestra, cibus qui super-
 ponitur, scilicet cibo indigesto; et cecus taurus citius cadit
 quam cecus agnus; et multoties plus incidit et melius unus,
 scilicet ensis, quam quinque enses. Vult dicere quod vali-

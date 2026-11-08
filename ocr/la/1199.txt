@@ -84,7 +84,7 @@ apparuisset auctori, propter excellentiam luminis illius
 puncti, minor quam apparet nobis aliqua stella fixa. Nam
 stelle fixe apparent nobis satis parve: et hoc provenit
 propter nimiam distantiam, que est inter firmamentum et
-nos. Et qualis stella apparet hic, idest ubi sumus nos, minor,
+nos. Et qualis stella apparet {{hic|hinc}}, idest ubi sumus nos, minor,
 appareret luna, que est minor omni stella fixa, locata cum
 illo, scilicet puncto, sicut stella cum stella collocatur. Idest:
 quelibet stella, que est maior luna, appareret ita parva

@@ -9,11 +9,11 @@ Ogni tuo dir d'amor m'è caro cenno.
 Che danno a dubitar falsa matera,
 Per le vere cagion che son nascose.
 11 La tua dimanda tuo creder m'avvera
-Esser, ch'io fossi avaro in la tua vita,
+Esser, ch'io fossi avaro in {{la tua|l'altra}} vita,
 Forse per quella cerchia dov'io era:
 12 Or sappia che avaritia fu partita
-Troppo da me; a questa dismisura
-E miglar (1) di lunari (2) hanno punita.
+Troppo da me; {{a|e}} questa dismisura
+{{E miglar|Miglar}} (1) di lunari (2) hanno punita.
 13 E, se non fosse che drizzai mia cura,
 Quand'io intesi là dove tu chiame,
 Cruciato quasi all'umana natura:
@@ -25,7 +25,7 @@ Potean le mani a spender, e pentèmi
 Così di quel come degl'altri mali.
 16 Quanti risorgeran cho' crini scemi,
 Per ignoranza, che a questa pecca
-Tragge 'l pensier vivendo, nelli stremi!
+Tragge 'l {{pensier|penter}} vivendo, nelli stremi!
 
 (1) migliaia — (2) di mesi — (3) al. pingi, vel spingi.
 

@@ -57,7 +57,7 @@ ad complacentiam, scilicet videndi et non videndi), tunc de
 corde unius illorum luminum novorum, idest de una corea
 nova, idest secunda, in qua erat dominus Bonaventura, se
 movit una vox, que acus ad stellam apparere michi fecit,
-volvendo me ad sinum verbi. Nota quod naute et navi-
+volvendo me {{ad sinum verbi|ad suum ubi}}. Nota quod naute et navi-
 gantes utuntur subtilissimo artificio, sine quo non possunt
 navigare. Fit una pixis, sive bussula, in qua est una acus
 erecta, et in eius acumine ponitur una stella facta de carta,

@@ -9,7 +9,7 @@ Con altro assai del ver di questi giri.
 
 (1) Dyonisio — (2) essendo ancora — (3) cioè Paolo suo maestro.
 
-46 Et si tanto veridice protulit
+46 Et si {{tanto|tantum}} veridice protulit
 Mortalis in terra, nolo quod mireris;
 Quia qui vidit hic superius illud sibi discooperuit,
 Cum alio multo vero istorum gyrorum.

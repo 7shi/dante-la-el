@@ -31,7 +31,7 @@ Illuc ubi suus labor efficitur sapidus,
 Tot foliis, et inde reascendebat
 Illuc ubi suus amor soggiornat.
 5 Facies habebant totas de flamma viva,
-Et alas de auro, et reliquum tantum album,
+Et alas de auro, et reliquum {{tantum|totum}} album,
 Quod nulla nix ad illum terminum arrivat.
 6 Quando descendebant in florem, de albo in album
 Porrigebant de pace et de ardore,
@@ -81,8 +81,8 @@ bono, omni perfectione, qui punctus deitatem figurat; et
 vadunt ad flores, idest ad animas hominum beatificatas,
 et ferunt odorem bonarum operationum ante conspectum
 Dei), in grandem florem, idest in rosam, [descendebat], qui
-ornatur tot floribus (omne folium representat unam sedem),
-et inde transcendebat illuc ubi suus amor soggiornat, idest
+ornatur tot {{floribus|foliis}} (omne folium representat unam sedem),
+et inde {{transcendebat|reascendebat}} illuc ubi suus amor soggiornat, idest
 dietim moratur. Labor apum dicitur quod s'insaporat, idest
 sapidus efficitur, idest sapore impletur.
 

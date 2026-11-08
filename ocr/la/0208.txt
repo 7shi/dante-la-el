@@ -7,11 +7,11 @@ Tal, ch'ogni vista ne sarebbe schiva.
 Di qua da Trento l'Adice (1) percosse
 O per tremuoto, o per sostegno manco;
 3 Che da cima del monte, onde si mosse,
-Al piano è sì la roccia disconscesa,
+Al piano è sì la roccia {{disconscesa|discoscesa}},
 Ch'alcuna via darebbe a chi su fosse;
 4 Cotal di quel burrato era la scesa.
 E in su la punta de la rotta laccha
-L'infamia (2) di Creta (3) era discesa,
+L'infamia (2) di Creta (3) era {{discesa|distesa}},
 
 (1) fiume. — (2) Minotauro. — (3) isola.
 
@@ -55,7 +55,7 @@ ponit aliquos violentos famosos. Primo describit auctor pas-
 sum, per quem debebant descendere in istum circulum vio-
 lentorum. Et si capitulum precedens fuit difficile, istud est
 magis.
-Dicit igitur quod lucus, per quem transire in descensu
+Dicit igitur quod {{lucus|locus}}, per quem transire in descensu
 eos oportet, erat alpestris, idest asper et difficilis. Ad bene
 intelligendum, nota quod, si tu esses in alpibus (alpes
 sunt silve et loca aspera super cacumina montium), et ibi

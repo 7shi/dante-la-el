@@ -11,7 +11,7 @@ Ch'è principio a la via di salvatione.
 11 Ma io perchè andarvi? o chi 'l concede?
 Io non Enea, io non Paolo sono;
 Me degno a ciò nè io nè altri el crede.
-12 Perchè se del veder io m'abbandono,
+12 Perchè se del {{veder|venire}} io m'abbandono,
 Temo che la venuta non sia folle:
 Se'savio, intendi me' (1) ch'io non ragiono.
 13 E quale è quel, (2) che disvuol ciò che volle,

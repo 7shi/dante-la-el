@@ -36,7 +36,7 @@ Videre redire animas ad stellas,
 Secundum sententiam Platonis.
 
 hoc eveniret; sed de homine, qui sit compos sui et non
-alteratus a mente, famescente et exsitente inter duo cibaria
+alteratus a mente, famescente et {{exsitente|existente}} inter duo cibaria
 equaliter omnino ipsum moventia, non oporteret ipsum
 mori fame propter hoc quia illa duo cibaria omnino eum
 equaliter moveant, quia ex libertate liberi arbitrii potest

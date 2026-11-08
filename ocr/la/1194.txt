@@ -21,7 +21,7 @@ Ruggiran sì questi cerchi superni,
 49 Chè la fortuna, che tanto s'aspecta,
 Le poppe volgerà u'son le prore,
 Sì che la classe correrà directa;
-O vero fructo verrà doppo 'l fiore.
+{{O|E}} vero fructo verrà doppo 'l fiore.
 
 (1) Cyrce — (2) Sole — (3) ab Oriente — (4) ab Occidente.
 
@@ -106,4 +106,4 @@ sub estate et e converso; et sic ianuarius, qui est mensis
 valde yemalis, veniret estivalis: sed hoc non eveniet, nisi
 in millibus et millibus annorum. Modo vult prophetice di-
 cere hic auctor, quod antequam mensis ianuarius, qui est
-nunc mens yemalis, exeat de yeme scilicet et fiat estivalis,
+nunc {{mens|mensis}} yemalis, exeat de yeme scilicet et fiat estivalis,

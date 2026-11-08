@@ -6,7 +6,7 @@ CAPITULUM SECUNDUM
 Tre volte dietro a lei le mani avinsi,
 E tante mi tornai con esse al pecto.
 28 Di maravigla, credo, mi dipinsi;
-Perchè l'ombra sorrise e si ritrassi,
+Perchè l'ombra sorrise e si {{ritrassi|ritrasse}},
 Et io, seguendo lei, oltre mi pinsi.
 29 Suavemente disse ch'io posassi:
 Allor cognobbi chi era, e 'l pregai

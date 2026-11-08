@@ -109,7 +109,7 @@ nente, quia, sicut dicunt Phylosophi, Deus movet tamquam
 intellectus et amatus, idest sicut res intellecta et amata
 movet intellectorem et amatorem, quamvis ipsa stet im-
 mobilis. Ita intelligentie, que sunt plene amore, rotantur
-circam Deum, quem intelligunt et amant. Et sic se mo-
+{{circam|circa}} Deum, quem intelligunt et amant. Et sic se mo-
 vendo et rotando circa eum, non localiter, sed intelligendo
 et amando eum semper, virtualiter movent res ab eo or-
 dinatas, sicut videmus in nobis ipsis, quod spiritus noster

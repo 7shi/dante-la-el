@@ -7,7 +7,7 @@ Di sè facendo in aer lunga riga;
 Così vid'io venir trahendo guai,
 17 Ombre portate da la decta briga:
 Perch'io dissi: Maestro, chi son quelle
-Ombre portate da la decta briga?
+{{Ombre portate da la decta briga?|Genti, che l'aura nera sì gastiga?}}
 18 La prima di color, di cui novelle
 Tu vuoi saper, mi disse quelli allocta,
 Fu imperadrice di molte favelle.
@@ -51,7 +51,7 @@ sunt ille gentes, quas niger aier sic castigat, idest tormentat?
 *Prima harum*. *La prima di coloro*: hec est tertia pars
 huius capituli, in qua auctor notificat aliquos spiritus an-
 tiquos a nominibus propriis.
-*Prima harum, de quibus nora tu vis scire*, dixit
+*Prima harum, de quibus {{nora|nova}} tu vis scire*, dixit
 michi tunc, scilicet magister, hec est: fuit imperatrix
 multorum ydiomatum; vitio luxurie sic fuit dedicata,
 quod illicitum fecit licitum, ut fugeret infamiam, in quam

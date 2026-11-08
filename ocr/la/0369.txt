@@ -87,7 +87,7 @@ onerate: et vocat istum locum zavorram, idest arenam,
 quia serpentes, saltem in Libia, stant in arena. Excusat se
 auctor, sicut facit Valerius, Iulius. Celsus. Dicit quod fecit
 sicut Sceva, si non probe fecerat. *Fior*, idest penna, stilus.
-*Aborra*, idest obetrat.
+*Aborra*, idest {{obetrat|oberrat}}.
 
 Et quamquam occuli mei confusi essent aliquantulum, et
 animus smagatus, idest timidus vel pavefactus, non potue-

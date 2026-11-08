@@ -31,7 +31,7 @@ La donna me sgridò,
 describuntur in generali exercitus cum suis principibus.
 In quarta parte, que incipit:
 Spatium intra eorum quatuor;
-Lo spatio dentro a le quatro,
+Lo spatio dentro {{a le|a lor}} quatro,
 
 describitur currus triumphalis et ille qui ducit illum cur-
 rum predictum.

@@ -24,7 +24,7 @@ apparent nobis stelle; quem splendorem primum mobile
 habet a celo Empyreo, quod totum est lux et amor, ut
 dicitur infra, in cantu vigesimoseptimo. Et ut ostendat hanc
 opinionem esse falsam, auctor fingit esse suam. Et non
-solum in illo celo, sed etiam in omuibus inferioribus illo,
+solum in illo celo, sed etiam in {{omuibus|omnibus}} inferioribus illo,
 qui sunt de rariori materia quam spera octava. Quod
 probat, quia non impediunt nobis visionem octave spere,
 quam quidem nullatenus videremus, si inferiores essent
@@ -45,7 +45,7 @@ veniens, quo sublato, oportet quod tollatur eius antecedens.
 Sed ad hoc premictit unam propositionem verissimam, que
 est quod octava spera habet multas stellas, que possunt
 videri esse diverse in qualitate splendoris earum, quia una
-est splendidior altera; et etiam in qualitate, quia una est
+est splendidior altera; et etiam in {{qualitate|quantitate}}, quia una est
 maior altera. Unde dicit: *La spera octava* (idest celum
 sidereum, in quo stelle sunt fixe, quod est octavum a celo
 lune, quia celi planetarum sunt septem, et illud superius,
@@ -101,7 +101,7 @@ poribus celestibus. Deus enim [est] formale omnium rerum
 principium sine principio, quia eternus, creavit celestia
 corpora, in quibus suam influxit virtutem, que licet una sit
 et infinita, omnes alias comprehendens, distribuit tamen
-illam per illa corpora secundum species et formas corum
+illam per illa corpora secundum species et formas {{corum|eorum}}
 diversas. Et sic creavit principia formalia secunda, diver-
 sificata secundum eorum formas specificas, sicut apparet
 in diversis effectibus, qui causantur ab illis. Ita quod non

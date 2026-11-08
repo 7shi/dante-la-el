@@ -9,7 +9,7 @@ Gridando'l padre (1) a lui: Mala via tieni;
 Nell'aer, e d'ogni parte, vidi spenta
 Ogni veduta, fuor che della fiera.
 39 Ella sen va notando lenta lenta;
-Rota (2), e discendo, ma non me n'accorgo,
+Rota (2), e {{discendo|discende}}, ma non me n'accorgo,
 Se non ch'al viso e di sotto mi venta.
 
 (1) Dedalo. — (2) al. roto.

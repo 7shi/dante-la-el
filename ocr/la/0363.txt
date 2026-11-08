@@ -6,7 +6,7 @@ CAPITULUM VICESIMUMQUINTUM
 Perch'una li s'avvolse allhor al collo,
 Quasi dicesse: Non vo'che più diche:
 3 Et un'altra a le braccia, e rilegollo
-Ribiadendo sè stessa sì dinanzi,
+{{Ribiadendo|Ribadendo}} sè stessa sì dinanzi,
 Che non potea con esse (1) dar un crollo.
 4 Hay, Pistoia (2), Pistoia (3), che non estanzi (4)
 D'incenerarti (5), sì che più non duri,
@@ -14,7 +14,7 @@ Poi che 'n mal far el seme tuo (6) avanzi?
 5 Per tutti e cerchi dell' Inferno scuri
 Non vidi spirto in Dio tanto superbo,
 Non quel (7) che cadde a Thebe giù da'muri.
-El (8) si partì, che non parlò più verbo:
+{{|6 }}El (8) si partì, che non parlò più verbo:
 Et io vidi un Centauro (9) pien di rabbia
 Venir gridando: Ov'è, ov'è l'acerbo (10)?
 7 Maremma non cred'io che tante n'abbia

@@ -6,7 +6,7 @@ INFERNI
 Le rote larghe, e lo scender sia poco:
 Pensa la nuova soma che tu hai.
 34 Come la navicella esce dal loco
-Indietro indietro, sì quinci mi tolse;
+Indietro indietro, sì quinci {{mi|si}} tolse;
 E poi che tutta si sentì a gioco,
 35 Dov'era'l pecto, la coda rivolse,
 E quella tesa, com'anguilla, mosse,

@@ -44,7 +44,7 @@ Quam sermo monstret, qui tali viste cedit,
 Et cedit memoria tanto excessui.
 20 Qualis est ille qui sompniando videt,
 Et post sompnum passio impressa
-Remanet, et aliud a[d] mentem non reddit;
+Remanet, et aliud a[d] mentem non {{reddit|redit}};
 21 Talis sum ego, quia tota cessat
 Mea visio, et adhuc michi instillat
 In corde dulce quod ab ipsa ortum fuit.

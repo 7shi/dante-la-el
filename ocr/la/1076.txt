@@ -14,7 +14,7 @@ Chè saetta previsa vien più lenta.]
 10 Così diss'io a quella luce stessa
 Che pria m' avea parlato, e come volle
 Beatrice, fu la mia vogla confessa.
-11 Non per ambage, in chi la gente folle
+11 Non per ambage, in {{chi|che}} la gente folle
 Già s'invescava pria che fosse anciso (1)
 L'Agnel di Dio che le peccata tolle,
 12 Ma con chiare parole, e con preciso
@@ -29,7 +29,7 @@ Et descendendo in mundum defunctum,
 8 Dicta michi fuerunt de mea vita futura
 Verba gravia; quamvis ego me sentiam
 Bene thetragonum ad ictus fortune.
-9 Quare voluntas meu esset contenta
+9 Quare voluntas {{meu|mea}} esset contenta
 Intelligere qualis fortuna michi se appropinquat;
 Quia sagipta previsa venit plus lenta.
 10 Sic dixi ego ad illam lucem eamdem
@@ -44,7 +44,7 @@ Clausus et apparens de suo proprio risu:
 
 quia omnia sunt presentia Deo; nihil preteritum, nihil fu-
 turum, est in ipso Deo.
-O cara plancta mea (quia de ea descenderat auctor, ut
+O cara {{plancta|planta}} mea (quia de ea descenderat auctor, ut
 dictum est superius, qui Cacciaguida fuit pater proavi
 auctoris), que sic sursum ascendis in cognoscendo archana,
 quod, sicut vident terrene mentes bene experte in geome-
@@ -78,7 +78,7 @@ fortuna michi se appropinquat, alias appropinquatur, quia
 sagipta previsa venit plus lenta, idest minus nocet. Hic
 auctor assignat causam quare vult prescire de sua for-
 tuna, ut possit sibi providere. Sed queritur si possibile est,
-quod aliquis posset fugere fortuniam, sive posset facere
+quod aliquis posset fugere {{fortuniam|fortunam}}, sive posset facere
 quod futura non eveniant. Dic quod, sicut vult Aristotiles
 in secundo Physicorum, aliqua futura habent causam de-
 terminatam sic et taliter, quod necessario eveniant, sicut

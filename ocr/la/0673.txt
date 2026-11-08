@@ -2,7 +2,7 @@
 
 CAPITULUM DECIMUMSEPTIMUM
 
-14 Come si piange 'l son (1), ove di bucto
+14 Come si {{piange|frange}} 'l son (1), ove di bucto
 Nuova luce percuote el viso chiuso,
 Che fracto guizza pria che mora tucto;
 15 Così la mia ymagin cadde giuso,

@@ -19,7 +19,7 @@ Che tu non ti rivolgi al bel giardino
 Che sotto e raggi di Chrysto s'infiora?
 25 Quivi è la rosa, in che'l Verbo divino
 Carne si fece; e quivi son li gigli,
-Al cui odor s'aperse'l bel cammino.
+Al cui odor {{s'aperse|si prese}}'l bel cammino.
 
 20 Propter adiuvare me, ad millesimam partem veri
 Non pervenirent, cantando dulcem risum,

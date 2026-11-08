@@ -5,7 +5,7 @@ CAPITULUM TRICESIMUMSECUNDUM
 16 Così dintorno all'albero robusto
 Gridaron gl'altri all'animal binato;
 Sì si conserva el seme d'ogni giusto.
-17 E volti al temo ch'elli havea tirato,
+17 E {{volti|volto}} al temo ch'elli havea tirato,
 Trasselo al piè de la vedova frasca;
 E quel di lei a lei lasciò legato.
 18 Come le nostre piante, quando casca
@@ -13,10 +13,10 @@ Giù la gran luce meschiata con quella
 Che ragia retro alla celeste lasca,
 19 Turgide fansi, e poi si rinnovella
 Di suo color ciascuna, pria che'l sole
-Giunct'à li suoi corsier senz'altra stella;
+{{Giunct'à|Giunga}} li suoi corsier {{senz'altra|sott'altra}} stella;
 20 Men che di rose e più che di viole
 Color apprende sì nuovo la pianta,
-Che primavera le ramora sì sole.
+Che {{primavera le|prima avea}} ramora sì sole.
 21 Io non lo 'ntesi, nè qui ancor si canta,
 L'hinno che quella gente allor cantaro,
 Nè la nota soffersi tucta quanta.

@@ -5,7 +5,7 @@ Se non coll’acqua onde la femminetta
 Sammaritana dimandò la gratia,
 2 Mi travaglava, e pungèmi la frecta
 Per la ’mpacciata via dietr’al mio duca,
-E conduceami a la giusta vendecta.
+E {{conduceami|condoleami}} a la giusta vendecta.
 
 1 Sitis naturalis que nunquam satiatur,
 Nisi cum aqua cum qua muliercula
@@ -34,7 +34,7 @@ terremotus predicti et rumoris auditi supra in precedenti
 capitulo.
 In tertia, que incipit ibi:
 Et sapiens dux: Admodo video rethe;
-E ’l savio duca: Omai viggio la rethe,
+E ’l savio duca: Omai {{viggio|veggio}} la rethe,
 Virgilius petit a predicto spiritu, quis ipse fuit in superiori
 mundo.
 

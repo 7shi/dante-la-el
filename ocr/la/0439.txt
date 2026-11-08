@@ -38,7 +38,7 @@ Quod ego voluissem ire per aliam viam:
 48 Sed leviter ad fundum, qui devorat
 Luciferum cum Iuda, nos deposuit;
 Nec sic [inclinatus] ibi fecit moram
-Sed sic[ut] arbor in navi se leravit.
+Sed sic[ut] arbor in navi se {{leravit|levavit}}.
 
 essem famosus. *Qui si brama*: hic appetitur, scilicet
 Inferno morali, ubi tyrampni desiderant magnam famam.

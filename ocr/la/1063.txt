@@ -14,7 +14,7 @@ Al primo fallo scripto di Ginevra.
 6 Io cominciai: Voi sete 'l padre mio;
 Vo' mi date a parlar tutta baldezza,
 Voi mi levate sì, ch'io son più ch'io.
-7 Per tanti rivi sempr' è d'allegrezza
+7 Per tanti rivi {{sempr' è|s'empie}} d'allegrezza
 La mente mia, che di sè fa letitia
 Perchè sostener pò che non si spezza.
 8 Ditemi donque, cara mia primitia,

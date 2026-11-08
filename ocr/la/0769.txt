@@ -3,8 +3,8 @@
 CAPITULUM VICESIMUMQUINTUM
 
 23 Apri la verità che viene al pecto,
-E sappia che, sì tosto com'al feto
-L'articolar del cerchio è perfecto,
+E {{sappia|sappi}} che, sì tosto com'al feto
+L'articolar del {{cerchio|cerebro}} è perfecto,
 24 Lo motor primo (1) a lui si volge lieto (2),
 Sovra tant'arte di natura, e spira
 Spirito nuovo di virtù repleto,

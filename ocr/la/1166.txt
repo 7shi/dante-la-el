@@ -23,7 +23,7 @@ Così seguì 'l secondo lume ancora.
 De le mie hale a così alto volo,
 Alla risposta così (7) mi prevenne.
 
-(1) al. del — (2) alli Apostoli — (3) e quali piegarono e miei occhi — (4) gravità di lor doctrina — (5) al. spene — (6) die quid
+(1) al. del — (2) alli Apostoli — (3) e quali piegarono e miei occhi — (4) gravità di lor doctrina — (5) al. spene — (6) {{die|dic}} quid
 est spes — (7) come seguita.
 
 12 Leva caput, et fac quod te secures;
@@ -36,7 +36,7 @@ Qui incurvaverunt prius cum nimio pondere.
 Noster Imperator, ante mortem,
 In aula magis secreta, cum suis comitibus;
 15 Ita quod, viso vero istius curie,
-Spem, que inferius bene in amore trahit,
+Spem, que inferius bene {{in amore|in amorem}} trahit,
 In te et in aliis de [hoc] horteris;
 16 Dicas quid ipsa est? dicas quomodo floret
 In mente tua? et dicas unde ad te venit?
@@ -59,7 +59,7 @@ resonare Spem, idest facias exprimi bene et sufficienter de
 Spe in ista altitudine, idest in isto celo: tu scis quot vi-
 cibus illam figuras, scilicet in canonica tua Epistola, quot
 Iesus, tribus, scilicet Apostolis, scilicet Petro, Iacobo sci-
-licet et Ioanni Evangeliste, fecit maiorem caritatem. Omni
+licet et Ioanni Evangeliste, fecit maiorem {{caritatem|claritatem}}. Omni
 vice qua legitur in Evangelio, quod Iesus in aliquo actu
 excellenti erat, semper vocabat istos tres apostolos pre-
 scriptos ad omnia secretiora, sicut patet in monte Tabor in

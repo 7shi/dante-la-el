@@ -32,7 +32,7 @@ Cum celo simul acreverat arcum,
 Videndo illud miraculum magis ornatum.
 22 Et qualiter in transmutando parvum transitum
 Temporis albescit mulier, quando vultum
-Suum exponeret verecundia oneratum;
+Suum {{exponeret|exoneret}} verecundia oneratum;
 23 Taliter fuit in oculis meis, quando fui volutus,
 Propter candorem temperate stelle
 Sexte, que intra se me recollegerat.

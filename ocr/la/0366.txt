@@ -18,7 +18,7 @@ In una faccia, ov'eran due perduti.
 Le cosce co'le gambe, e 'l ventre e'l casso,
 Divenner membra che non fur mai viste.
 26 Ogni primaio aspecto quiv'era casso:
-Dov'in nessun l'ymagine perversa
+{{Dov'in|Due e}} nessun l'ymagine perversa
 Pareva, e tal sen gi' con lenti passi.
 27 Com'el ramarro, sotto la gran ferza
 De'dì canicolar, cangiando sepe (1),
@@ -86,7 +86,7 @@ et pectus) devenerunt, idest facta sunt, vel apparuerunt,
 membra que nunquam fuerunt visa. Omnis primarius aspe-
 ctus ibi erat cassus, idest perditus: duo et nullus, ymago
 perversa, idest talis figura trasformata, apparebat, et talis
-ivit, idest recessit, cum lentu passu. Sic usi sunt latrones ire.
+ivit, idest recessit, cum {{lentu|lento}} passu. Sic usi sunt latrones ire.
 
 *Sicut stellio*: hec est tertia pars huius capituli, in qua
 tractatur de tertia specie latrocinii, scilicet de latronibus,

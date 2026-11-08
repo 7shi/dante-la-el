@@ -3,7 +3,7 @@
 CAPITULUM VICESIMUMTERTIUM
 
 42 Indi m'han tracto su li suoi conforti,
-Salendo e riguardando la montagna (1),
+Salendo e {{riguardando|rigirando}} la montagna (1),
 Che drizza voi che 'l (2) mondo fece torti.
 43 Tanto dice (3) di farmi sua compagna (4),
 Ch'io sarò là dove fia Beatrice;

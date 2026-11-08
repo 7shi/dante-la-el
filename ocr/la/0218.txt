@@ -54,7 +54,7 @@ et magnus, qui vocatur Tamisia; et communiter poete li-
 benter denotant res a montibus, fontibus et fluviis. Et hic
 auctor, volens describere penas violentorum, declarat que
 sit illa anima, que sola stabat, dicens: Illa anima est illius,
-scilicet domini Guidonis, qui fixit, idest sciscit cor, quod
+scilicet domini Guidonis, qui fixit, idest {{sciscit|scidit}} cor, quod
 supra Tamisiam colitur, idest videtur. Sic modo prescripto,
 Manfredus, de quo tactum est superius, filius Frederici se-
 cundi, fuit rex Sicilie tali modo, vel quia pater suus Impe-

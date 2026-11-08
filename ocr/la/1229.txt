@@ -74,7 +74,7 @@ vernat, idest facit ibi primum ver, vel semper durat.
 Et si infimus gradus in se recolligit tam grande lumen,
 quanta est latitudo istius rose in extremis foliis?
 
-Visio mea, idest aspectus meus, in amplitudine et lati-
+Visio mea, idest aspectus meus, in amplitudine et {{lati-|alti-}}
 tudine non deviabat, idest non errabat, sed totum apprehen-
 debat, idest capiebat, quale et quantum, idest qualitatem
 et quantitatem, illius gaudii, idest letitie.

@@ -27,7 +27,7 @@ Quousque Verbo Dei descendere placuit,
 Se elongaverat, univit se in persona,
 Cum actu solum sui eterni amoris.
 12 Nunc dirige visum ad id quod nunc ratiocinatur:
-Isia natura suo Factori unita,
+{{Isia|Ista}} natura suo Factori unita,
 [Est], qualis fuit creata, sincera et bona;
 
 sianum fuit iuste vindicata vindicta, facta sub Tiberio per

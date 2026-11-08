@@ -18,7 +18,7 @@ Tra Beatrice e te è questo muro.
 Pyrrhamo, in sulla morte, e riguardolla,
 Allhor che'l gelso (3) divenne vermiglo;
 14 Così, la mia durezza facta solla
-Mi volse al savio duca, udendo 'l nome
+Mi {{volse|volsi}} al savio duca, udendo 'l nome
 Che ne la mente sempre mi rampolla.
 
 (1) al mezzo — (2) o — (3) moro.

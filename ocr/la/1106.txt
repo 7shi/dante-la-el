@@ -33,7 +33,7 @@ Ubi Anchises finivit longam etatem;
 Sua scriptura, fient littere mozze,
 Que non tenebunt multum in parvo loco.
 46 Et apparebunt cuilibet opera turpia
-Patrui et patris, que tantum egregiam
+Patrui et {{patris|fratris}}, que tantum egregiam
 Nationem et duas coronas fecerunt bozzas.
 47 Et ille de Portugallia et de Novergia
 Ibi cognoscentur, et ille de Rascia

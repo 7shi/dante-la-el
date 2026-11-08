@@ -41,7 +41,7 @@ idest sine viri virtute. Depingitur cecus, quia aliquando
 amoris; ideo Petrarcha Franciscus ait: Nam si amor non
 esset cecus, cur eum cecum finxisset antiquitas? nam lu-
 xuriosi efficiuntur ceci corporaliter et mentaliter. Depin-
-gitur a latus, quia velociter transcurrit ad unum contuitum
+gitur {{a latus|alatus}}, quia velociter transcurrit ad unum contuitum
 unius mulieris quis capitur amore. Portat arcum et sagi-
 ptas, quia amor vulnerat corda insipientum, et aliquando
 sapientum. Bene dicitur stella Veneris esse in tertio epi-
@@ -105,7 +105,7 @@ spiritus venerunt ad auctorem, dimictendo motum circula-
 rem eorum; et unus illorum spirituum, inter quos audie-
 batur cantari Osanna, venit ad auctorem, etc. Et sicut in
 flamma favilla, sive scintilla, videtur; vel sicut in voce,
-quando cautatur ad duplum, vel triplum, vox discernitur,
+quando {{cautatur|cantatur}} ad duplum, vel triplum, vox discernitur,
 quando una, scilicet vox tenoris, firma est, et alia, sci-
 licet vox biscantus, vadit et redit; [sic] suple, vidi ego in
 ipsa luce, idest in stella Veneris, spiritus moveri et gyrari

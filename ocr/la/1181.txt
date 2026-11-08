@@ -5,20 +5,20 @@ CAPITULUM VICESIMUMSEXTUM
 40 Quindi, onde mosse (1) tua donna (2) Virgilio,
 Quattromilia trecento e due volumi (3)
 Di sol (4) desiderai questo concilio (5);
-41 E vidi lui (6) tornar a questi lumi
+41 E vidi lui (6) tornar a {{questi|tutti i}} lumi
 Della sua strada novecento trenta
 Fiate, mentre ch'io in terra fu'mi (7).
 42 La lingua ch' io parlai fu tutta spenta,
 Avanti che all'opra inconsumabile
 La gente di Nebrotho fusse attenta;
-43 Chè nullo affecto mai rationabile,
+43 Chè nullo {{affecto|effecto}} mai rationabile,
 Per lo piacer human, che rinnovella
 Seguendo 'l cielo, sempre fu durabile.
 44 Opera natural è ch' uom favella;
 Ma così o così, natura lascia
 Poi fare a voi, secondo che v'abbella.
 45 Pria che scendessi all'infernal ambascia,
-Un s'appellava in terra el sommo Bene,
+{{Un|I}} s'appellava in terra el sommo Bene,
 Onde vien la letitia che mi fascia;
 46 Hely si chiamò poi: e ciò convene;
 Chè l'uso de'mortali è come fronda
@@ -30,7 +30,7 @@ In ramo, che sen va, e l'altra vene.
 Quatuor millibus tercentis et duobus voluminibus
 Solis desideravi istud concilium;
 41 Et vidi eum redire ad omnia lumina
-Sue strate nongintis triginta
+Sue strate {{nongintis|nongentis}} triginta
 Vicibus, interim quod ego in terra fui.
 42 Lingua quam ego fui loquutus fuit tota exstincta,
 Antequam ad opus inconsumabile
@@ -75,7 +75,7 @@ Iam solvit secundam questionem dicendo: Ibi, unde movit
 tua domina, scilicet Beatrix, Virgilium, quatuor millibus
 tercentis et duobus voluminibus solis istud desideravi, istud
 consilium; idest fui in Limbo in anxietate, in obscuritate,
-desiderando venire huc ad istud consilium celeste; et vidi
+desiderando venire huc ad istud {{consilium|concilium}} celeste; et vidi
 eum, scilicet solem, redire ad omnia lumina sue strate
 (scilicet signa zodiaci, que dicuntur lumina, quia quodlibet
 signum constat ex pluribus stellis, sicut Aries, Taurus, etc.)

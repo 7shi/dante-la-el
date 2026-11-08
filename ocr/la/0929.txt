@@ -14,7 +14,7 @@ Se con altra materia si converta.
 19 Ma non transmuti carco a la suo'spalla
 Per suo arbitrio alcun, senza la volta
 E de la bianca chiave e de la gialla;
-20 Et ogni permutanza crede stolta,
+20 Et ogni permutanza {{crede|credi}} stolta,
 Se la cosa dimessa in la sorpresa,
 Come quattro nel sei, non è ricolta.
 21 Però qualunque cosa tanto pesa
@@ -88,7 +88,7 @@ a qua fit permutatio; tertio, quod sit causa legitima, ut in-
 firmitas, senectus et magnum dispendium imminens. Ideo
 dicit auctor: Sed non permutet onus suo humero, idest ma-
 teriam voti, de humero ad humerum, de re in rem, pro suo
-arbitrio, idest ad suum arbitrum, aliquis, sine volutione et
+arbitrio, idest ad suum {{arbitrum|arbitrium}}, aliquis, sine volutione et
 clavis albe et gialle, idest fulve, idest argentee et auree,
 subaudi sine auctoritate Pastoris, habentis potestatem
 commutandi et scientiam discernendi; et omnem permuta-

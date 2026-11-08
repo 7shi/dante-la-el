@@ -7,7 +7,7 @@ La più remota via è una scala,
 Verso di quella (1), agevole et aperta.
 18 Or chi sa da qual man la costa cala,
 Disse 'l maestro mio, fermando 'l passo,
-Che 'nverso 'l ciel più alta si dissala?
+{{Che 'nverso 'l ciel più alta si dissala?|Sì che possa salir chi va senz'ala?}}
 19 E mentre che tenea el viso basso,
 Examinando (2) del cammin la mente,
 Et io mirava suso intorno al sasso,
@@ -22,7 +22,7 @@ Rispose: Andiamo in là, chè vengon piano;
 E tu ferma la speme, o dolce figlo.
 23 Ancor era quel popol di lontano,
 Dico, dopo de' nostri (4) mille passi,
-Quant'um buon gittator trarria con mano,
+{{Quant'um|Quant'un}} buon gittator trarria con mano,
 
 (1) comparatione illius. — (2) al. examinava — (3) al. piglo — (4) passi.
 
@@ -65,7 +65,7 @@ istas civitates est ita mala via et cum ascensu tam ter-
 ribili, quod equi non possunt ascendere nec descendere
 propter mirabiles descensus et ascensus; sed sunt pexime.
 Adhuc dicit quod ista via, per quam erant ascensuri, erat
-deior, et magis aspera, et magis montuosa: ymo peior via,
+{{deior|peior}}, et magis aspera, et magis montuosa: ymo peior via,
 que est inter illas duas civitates, esset una scala aperta
 et agilis respectu istius.
 Inter Lericem et Turpiam, magis deserta, magis silve-

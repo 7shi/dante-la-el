@@ -17,7 +17,7 @@ Data mi fu suave medicina.
 48 E com' a buon cantor buon cytharista
 Fa seguitar lo guizzo de la corda,
 In che più di piacer lo canto acquista;
-49 Sì, mentre che parlo, sì mi ricorda
+49 Sì, mentre che {{parlo|parlò}}, sì mi ricorda
 Ch'io vidi le due luci benedecte,
 Pur come batter d'ochi si concorda,
 Con le parole muover le fiammette.

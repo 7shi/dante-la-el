@@ -5,7 +5,7 @@ Se non con l'acqua onde la femminetta
 Samaritana dimandò la grazia,
 Mi travagliava; e pungeami la fretta,
 Per la 'mpacciata via dietro al mio duca;
-E condoliemi alla giusta vendetta.
+E {{condoliemi|condoleami}} alla giusta vendetta.
 
 Queste due prime terzine del presente canto, accennano alla
 teorica della Scuola Francescana intorno al soprannaturale: ed

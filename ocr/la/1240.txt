@@ -7,7 +7,7 @@ Come parea, sorrise, e riguardommi;
 Poi si tornò all'eterna fontana (1).
 32 E 'l santo sene: A ciò che tu assommi
 Perfectamente, disse, el tuo cammino,
-A chi prego et amor sancto mandommi,
+A {{chi|che}} prego et amor sancto mandommi,
 33 Vola cogl'ochi per questo giardino;
 Chè lui veder t'acconcerà lo sguardo
 Più a montar per lo raggio divino.

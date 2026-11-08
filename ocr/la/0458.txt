@@ -2,7 +2,7 @@
 
 INFERNI
 
-26 Quand'ebbe (1) decto ciò, cho gl'ochi torti
+26 Quand'ebbe (1) decto ciò, {{cho|con}} gl'ochi torti
 Riprese 'l teschio misero (2) coi denti (3),
 Che fur (4) all'osso (5), come (6) d'un can, forti.
 27 Hay Pisa, vituperio delle genti

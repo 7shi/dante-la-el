@@ -29,7 +29,7 @@ Ubi coniungitur cum octava ripa,
 Et postea fuit michi bolgia manifesta:
 28 Et vidi ibi intus terribilem stipam
 Serpentum, et tam diverse qualitatis,
-Quod memoria et sanguis adhuc scipantur.
+Quod memoria et sanguis adhuc {{scipantur|stipantur}}.
 29 Amplius non glorietur Libia cum sua arena;
 Quia si chelidros, iaculos et phareas
 Producit, et centros cum amphisibenis.

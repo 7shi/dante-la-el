@@ -36,10 +36,10 @@ quibuslibet aliis Romanis Pontificibus predecessoribus nostris
 in contrarium editis, et privilegiis, indulgentiis et litteris apo-
 stolicis, generalibus vel specialibus, quorumcumque tenorum
 existant, per que presentibus non expressa vel totaliter non in-
-serta, effectus earum impedi valeat quomodolibet, vel differri,
+serta, effectus earum {{impedi|impediri}} valeat quomodolibet, vel differri,
 et de quibuscumque totis tenoribus habenda sit in nostris
 litteris mentio specialis, tibi auctoritate presentium indulge-
-mus. Nunc tamen intentionis existit quod hiis, quorum facul-
+mus. {{Nunc|Nostre}} tamen intentionis existit quod hiis, quorum facul-
 tates ad integram solutionem summe huiusmodi, supportatis
 aliis oneribus, non suppetunt, ultra quam iuxta suarum huius-
 modi facultatum exigentiam commode possunt illi... qui de
@@ -103,7 +103,7 @@ servationem, decretum, vel alias quomodolibet, sit processum,
 quibus omnibus in assecutione dicti prioratus te volumus an-
 teferri, sed nullum per hoc eis quoad assecutionem prioratuum,
 dignitatum, personatuum vel officiorum aut beneficiorum alio-
-rum preiudicium gravari; seu si eiusdem Abati et Conventui
+rum preiudicium {{gravari|generari}}; seu si eiusdem Abati et Conventui
 vel quibusvis aliis, coniunctim vel divisim, ab eadem sit sede
 indultum quod ad receptionem vel provisionem alicuius nunc
 teneantur, et ad id compelli non possint, quodque de priora-
@@ -117,11 +117,11 @@ Sedis Apostolice indulgentia, generali vel speciali, cuiuscumque
 tenoris existat, per quam presentibus non expressam vel to-
 taliter non insertam, effectus huiusmodi gratie impediri valeat
 quomodolibet vel differri, et de qua cuiuscumque toto tenore
-habenda sit in nostris litteris mentio specialis, nos eum tecum
-ut dictum prioratum si tibi ingere presentium conferatur, li-
+habenda sit in nostris litteris mentio specialis, nos {{eum|enim}} tecum
+ut dictum prioratum si tibi {{ingere|vigore}} presentium conferatur, li-
 bere recipere et una cum prioratibus, dignitatibus, personatibus,
 officiis, canonicatibus et predictis ecclesiis ac aliis beneficiis
 ecclesiasticis secularibus et regularibus, cum cura et sine cura,
 que obtines et expectas, et in quibus et ad que ius tibi quo-
-modolibet competit, quotcumque et qualiacumque,fecerint, gene-
+modolibet competit, quotcumque et qualiacumque,{{fecerint|fuerint}}, gene-
 ralis Concilii et quibuscumque aliis constitutionibus apostolicis

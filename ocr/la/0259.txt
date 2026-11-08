@@ -44,7 +44,7 @@ Antiquum versum; et quando ad nos fuerunt
 [appulsi,
 Fecerunt unam rotam omnes tres.
 8 Qualem solebant facere campiones nudi et uncti,
-Considerando eorum partem et eorum prerogatiram,
+Considerando eorum partem et eorum {{prerogatiram|prerogativam}},
 Prius quam sint inter eos reverberati et puncti;
 9 Sic, rotando, quelibet visum
 Dirigebat ad me, ita quod in contrarium collum

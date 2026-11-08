@@ -10,7 +10,7 @@ Un carro, in su due rote, triumphale,
 Ch'al collo d'un grifon tirato venne.
 37 Esso tendea su l'una (1) e l'altr'hale
 Tra la mezzana e le tre e tre liste,
-Sì che nullo offendendo facea male.
+Sì {{che nullo offendendo|a nulla fendendo}} facea male.
 38 Tanto salivan (2), che non eran viste;
 Le membra d'or (3) havea, quant'era ucello,
 E bianche (4) l'altre (5) di vermiglio miste.
@@ -25,7 +25,7 @@ Quando fu Giove arcanamente giusto (8).
 
 35 Et quales ipsas reperies in suis cartis,
 Tales erant ibi, excepto quod ad pennas
-Ioannes est mecum, et ab ipso descedit.
+Ioannes est mecum, et ab ipso {{descedit|discedit}}.
 36 Spatium intra, eorum quatuor, continuit
 Unum currum triumphalem super duabus rotis,
 Qui a collo unius grifonis tractus venit.
@@ -79,7 +79,7 @@ Spatium intra, eorum quatuor, continuit unum currum
 super duabus rotis, triumphalem, qui, scilicet currus, a collo
 unius grifonis tractus venit, et ipse, scilicet grifo, tendebat
 sursum utramque alam inter mediam et tres et tres listas
-(quia erant septem candelabria et septem luminaria, ideo
+(quia erant septem {{candelabria|candelabra}} et septem luminaria, ideo
 faciebant septem listas, idest lineas variorum colorum, ut
 dictum est superius: quia una lista remanebat intra se, et
 in partibus exterioribus stabant tres ex una parte, et tres

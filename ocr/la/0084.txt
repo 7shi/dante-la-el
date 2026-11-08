@@ -39,7 +39,7 @@ mentat.
 fuit philocaptus, pluriesque voluit redire ad amorem illi-
 citum.
 
-*Tempus erat in principio matini*. Vulgariter: *Tempo*
+*Tempus erat in principio {{matini|matutini}}*. Vulgariter: *Tempo*
 *era del principio del mattino*: hic ponit et notat tempus,
 in quo habuit talem visionem, scilicet, quod inciperet ascen-
 dere montem, qui representat penitentiam, abiectionem

@@ -61,11 +61,11 @@ Ex quo visioni mee, quantum est clara,
 Claritatem flamme parifico.
 31 Sed illa anima in celo que plus clarificatur,
 Illud seraphin quod plus in Deum oculum habet
-[ficum,
+[{{ficum|fixum}},
 Petitioni tue [non] satisfaceret;
 32 Quia ita ultra ponitur in abisso
 Eterni statuti illud quod petis,
-Quod ab omni creatura vista est scissum.
+Quod ab omni {{creatura|creata}} vista est scissum.
 33 Et ad mundum mortalem, quando redis,
 Istud reporta, ita quod non presumant
 Ad tantum signum plus movere pedes.
@@ -93,7 +93,7 @@ vel vides. Responsio stat in hoc: Propter nullam causam
 specialem sic venit iste spiritus propinquus auctori, nisi
 quia Deus sic sortitus est.
 
-*Ego video bene, dixi eo*. *Eo veggio ben, diss'io*: hec
+*Ego video bene, dixi {{eo|ego}}*. *Eo veggio ben, diss'io*: hec
 est tertia pars huius capituli, in qua auctor proponit unum
 dubium isti anime, quod oritur ex responsione data ab ipsa
 anima, dicens: Ego bene video, quod libero amore adim-

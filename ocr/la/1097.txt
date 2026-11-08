@@ -60,7 +60,7 @@ Deus facit, et illud laudare, et credere quia quid-
 quid Deus facit iuste facit, nec querere ulteriorem
 causam. Et dicit aquila talem causam querenti: Tu
 qui sedes in cathedra, qui modicum vides a longe,
-quomodo vis tu indicare illa que distant per mille
+quomodo vis tu {{indicare|iudicare}} illa que distant per mille
 milliaria? Prima voluntas, scilicet divina, que per
 se, a se, et secundum se, est bona, omnia bene facit;
 et tantum res iusta est, quantum illi consonat. Et

@@ -17,13 +17,13 @@ Iohannem de Pestello canonicum Sermodensem ab officio re-
 gistrandi litteras apostolicas, quod tunc exercebat, amovimus,
 et officium ipsum dilecto filio Magistro Iohanni de Venbone,
 archidiacono Senonensi, ipsarum litterarum registratori fami-
-liari nostro commisimus, prout in dorsibus, nostris inde con-
+liari nostro commisimus, prout in {{dorsibus|diversis}}, nostris inde con-
 fectis litteris, plenius continetur. Nos igitur attendentes damna
 gravia et expensarum onera que te maxime propter guerras
 in nonnullis Ecclesie Romane et aliis locis et terris, proh do-
 lor, exortas, oportuit et oportet de necessitate subire, nec non
 subsidia et auxilia varia, per te nobis et eidem Ecclesie pro
-detensione et tuitione terrarum et locorum Ecclesie Romane
+{{detensione|defensione}} et tuitione terrarum et locorum Ecclesie Romane
 predictorum prestita, ac volentes tibi ut onera huiusmodi fa-
 cilius supportare valeas, de alicuius subventionis auxilio provi-
 dere, gratiamque facere specialem, ex iis et aliis causis ratio-
@@ -62,7 +62,7 @@ fecerit de pensione huiusmodi tunc debita, et de iis que ut
 prefectus retinuerit, integre satisfactum, ac Iohannes de Ver-
 bonis, Iohannes de Pestello, aut persona huiusmodi meruerit
 ab huiusmodi sententia absolutionis beneficium obtinere, con-
-travenientes per censuram ecclesiasticam apposita postposita
+travenientes per censuram ecclesiasticam {{apposita|appellatione}} postposita
 compescendo, non obstante si aliquibus, coniunctim vel divisim,
 a Sede Apostolica sit indultum, quod interdici, suspendi vel
 excommunicari non possint per litteras apostolicas non facientes

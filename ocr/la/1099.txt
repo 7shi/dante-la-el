@@ -3,7 +3,7 @@
 CAPITULUM DECIMUMNONUM
 
 3 E quel che mi convien ritrar testeso,
-Non portò voce mai, nè scripse onchiostro,
+Non portò voce mai, nè scripse {{onchiostro|inchiostro}},
 Nè fu per fantasia giamai compreso;
 4 Ch'io vidi, et anco udii parlar lo rostro,
 E sonar ne la voce et Io e Mio,
@@ -68,7 +68,7 @@ sonare et dicere in voce et dicere, Ego et Meum, ubi in
 conceptu erat dicere, Nos et Nostrum.
 Et dixit illud rostrum in persona aquile: Qui[a] fui pius
 et iustus (idest dum eram rex dilexi iustitiam et pietatem,
-idest clementiam, idest rexi in iustitia et elementia regnum:
+idest clementiam, idest rexi in iustitia et {{elementia|clementia}} regnum:
 hec sunt illa duo, que efficiunt bonum regem et dominum,
 scilicet clementia et iustitia. Ideo dicitur Sapientie primo
 capitulo: Diligite iustitiam qui iudicatis terram; et Pro-

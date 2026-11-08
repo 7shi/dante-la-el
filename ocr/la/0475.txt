@@ -28,12 +28,12 @@ tradizioni, nel suo libro *Delle Leggi* ci dice che chiamavansi
 le dimore d'Inferno. Alla terra attribuiva un carattere sacro
 l'Etruria; e da essa, in Delfo, esalava il soffio della divinità, che
 dava alle sacerdotesse le loro profetiche inspirazioni. Insomma,
-tutta la classica antichità adoro la *Tellus* sotto diversi nomi, di
+tutta la classica antichità {{adoro|adorò}} la *Tellus* sotto diversi nomi, di
 Rea, di Cibele, di Isis, di Vesta, di Maia, di Fauna, di Flora, di
 Fatua, di Cerere, di Ops; e la medesima cosa, al riferire di
 Tacito, era la Hartha dei Germani. Come spiegheremo noi questa
 tendenza di tutta l'umanità pagana ad adorar la terra, e una
-divinita nel suo centro, senza un fatto e una tradizione per
+{{divinita|divinità}} nel suo centro, senza un fatto e una tradizione per
 cui ne fosse stata ammaestrata?
 
 Figuravano questa terribile divinità: il Siva, con una collana
@@ -52,7 +52,7 @@ in tentationem, sed libera nos a Malo »,
 
 Nostra virtù, che di leggier s'adona,
 Non spermentar con l'antico avversaro,
-Ma libera da Lui, che si la sprona.
+Ma libera da Lui, che {{si|sì}} la sprona.
 
 Tale personalità si prova anche da questo, che nel mondo vi
 è il male, di cui non potè essere autore Dio infinitamente
@@ -65,7 +65,7 @@ malvagio, in un mostro.
 
 Stupenda è poi la contrapposizione, che ne fa ironicamente
 il Poeta alla Trinità divina, per incidergli nel viso il delitto
-commesso col voler addiventare simile all'Altissimo. Gli da tre
+commesso col voler addiventare simile all'Altissimo. Gli {{da|dà}} tre
 facce di color diverso, che hanno qualcosa di grottesco e di
 ributtante:
 

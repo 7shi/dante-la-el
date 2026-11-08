@@ -21,7 +21,7 @@ Da noi chiarirti, a tuo voler ti satia.
 Decto mi fu; e da Beatrice: Di', di'
 Sicuramente, e crede come a Dii.
 42 Io veggio ben sì come tu t'annidi
-Nel primo lume, e che dagl'ochi traggi;
+Nel {{primo|proprio}} lume, e che dagl'ochi traggi;
 Perchè ei corruscan sì, come tu ridi;
 
 36 Et statim sicut quelibet ad nos veniebat,

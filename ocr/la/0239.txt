@@ -7,7 +7,7 @@ Tanto, ch'io non l'avea sì forte udito:
 O Kapaneo, in ciò che non s'ammorza
 22 La tua superbia, se'tu ben punito:
 Nullo martiro, fuor che la tua rabbia,
-Sarebbe al tuo dolor furor compito.
+Sarebbe al {{tuo dolor|furor dolor}} furor compito.
 23 Poi si rivolse a me con miglor labbia,
 E disse: Quelli è un de'septe regi
 Ch'assiser Thebe, et ebbe, e par

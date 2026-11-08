@@ -55,7 +55,7 @@ facit revolutionem suam in triginta annis; Iupiter in vi-
 gintiduobus; Mars in duodecim; Sol in uno anno et sex
 horis; Venus et Mercurius in totidem; Luna in viginti-
 septem diebus et octo horis. Et isti motus faciunt armoniam
-et concenptum mirabilem, ad cuius similitudinem musica
+et {{concenptum|concentum}} mirabilem, ad cuius similitudinem musica
 instrumentum adinvenit novem cordarum. Quare autem
 talis sonus a mortalibus non audiatur, Macrobius super
 Somnio Scipionis causam assignat. Dicit quod hoc evenit

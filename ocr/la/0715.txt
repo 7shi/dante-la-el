@@ -16,7 +16,7 @@ Dicean, per quel che da vicin (3) compresi,
 Ond' intender lo grido si poteo.
 47 Noi stavamo immobili e sospesi,
 Com' e' pastori che pria udir quel canto (4),
-Finchè 'l tremar cessò, et io 'l compresi.
+Finchè 'l tremar cessò, et {{io 'l compresi|el compièsi}}.
 48 Poi ripiglammo nostro cammin sancto,
 Guardando l'ombre che giacean per terra,
 Tornate già in su l'usato pianto.

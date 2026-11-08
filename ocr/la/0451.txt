@@ -1,6 +1,6 @@
 IL GHIACCIO IN FONDO ALL'INFERNO
 
-Severissimo sempre l'Alighieri si ne'concetti e si ne'modi di
+Severissimo sempre l'Alighieri {{si|sì}} ne'concetti e {{si|sì}} ne'modi di
 esprimerli ove si tratti del domma, non può non far maravi-
 glia, che arrivato al fondo del suo Inferno, trovi quivi, invece
 di una fornace di ardentissimo fuoco,
@@ -24,12 +24,12 @@ perchè meglio è che tu entri monco alla vita con una mano
 sola, che andare con tutte due al tormento nel fuoco inestinguibile,
 dove il verme loro non finisce ed il fuoco non si spegne. »
 E lo ripete del piede, dell'occhio, in somma, di quanto l'uomo
-ha di più caro, sempre conchiudendo che quel fuoco restera
+ha di più caro, sempre conchiudendo che quel fuoco {{restera|resterà}}
 eternamente acceso (MATTH. XVIII). Come mai, domandammo
 più di una volta a noi medesimi, fu qui il Poeta così ardito da
 sostituirvi l'opposto, cioè tal ghiaccia, che
 
-Non fece al corso suo si grosso velo
+Non fece al corso suo {{si|sì}} grosso velo
 Di verno la Danoia in Ostericch
 Nè 'l Tanai là sotto il freddo cielo,
 Com'era quivi: chè se Tambernicch.
@@ -90,5 +90,5 @@ pensa e delibera il tradimento, essa precipita nell'Inferno; mo-
 strandoci la giustizia di Dio scrutatrice de'cuori, così aborrente
 da tal delitto, che lo colpisce formatone appena il pensiero.
 L'anima pensa e delibera il tradimento, e il demonio lo compie:
-quasi delitto, a cui la natura umana, cosi finita nel bene come
+quasi delitto, a cui la natura umana, {{cosi|così}} finita nel bene come
 nel male, è da sè impotente: tanta ne è la spaventevole enormità!

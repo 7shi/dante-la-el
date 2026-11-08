@@ -16,7 +16,7 @@ Lo dolce padre mio, ma disse: Scoccha
 L'arco del dir, che 'nfin al ferro hai tracto.
 7 Allor sicuramente apri' la bocha,
 E cominciai (1): Come si può far magro
-Là dove l'huopo di mirar non toccha?
+Là dove l'huopo di {{mirar|nutrir}} non toccha?
 8 Se t'amentassi (2) come Meleagro
 Si consumò al consumar d'un stizo,
 Non fora, disse (3), a te questo sì agro:
@@ -39,7 +39,7 @@ Arcum dicendi, quem usque ad ferrum traxisti.
 Et incepi: Quomodo potest fieri macredo
 Ubi opus nutriendi non tangit?
 8 Si memor esses sicut Meleager
-Comsumpsit se in consumptione unius torris,
+{{Comsumpsit|Consumpsit}} se in consumptione unius torris,
 Non esset, dixit, ita tibi acrum:
 
 appareat, supple non impedit eum quando vadit, si est

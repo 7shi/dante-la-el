@@ -92,7 +92,7 @@ tuum in tali melodia et tam dulci, quod esset sufficiens
 omni merito; idest nemo posset tantum mereri, qui[n] au-
 dire illam melodiam esset sufficiens et iustum premium.
 Ecce quid dicit Beatrix.
-Isti, scilicet Danti, est necessarium, et nobis, scilicet spi-
+Isti, scilicet Danti, est necessarium, et {{nobis|vobis}}, scilicet spi-
 ritibus beatis, non dicit nec exprimit, nec cum voce etiam,
 nec cogitando ymaginatur, alterius veri, idest veritatis, sive
 de uno alio vero, ire ad radicem, perfecte habere notitiam.

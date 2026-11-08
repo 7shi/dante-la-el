@@ -9,7 +9,7 @@ per ita ignorantem sicut sum ego, fieri huiusmodi translationem decentem in
 bona rethorica et laudabili, nolendo discedere a textu auctoris, nec illi addere,
 nec ab ipso diminuere. Scio etenim, et bene scio, et iam percipio, me ab emulis
 diffamandum, et multipharie multisque modis, verbis dectractoriis et obloquutio-
-nibus variis, inscium in hoc opere, ineptum et prosumptuosum, undique pro-
+nibus variis, inscium in hoc opere, ineptum et {{prosumptuosum|presumptuosum}}, undique pro-
 clamandum. Sed quia a pueritia didici, precamina, sive rogamina, principum et
 dominorum, quemadmodum estis vos, altum gradum tenere in genere prece-
 ptoris, et quomodo obedientia inter servitia primatum tenet; idcirco censui et

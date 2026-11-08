@@ -32,7 +32,7 @@ Che la notturna tenebra, ad ir suso;
 Quella col non poter la voglia intriga.
 Ben si porria con lei tornare in giuso,
 E passeggiar la costa intorno errando,
-Mentre che l'orizzonte il di tien chiuso.
+Mentre che l'orizzonte il {{di|dì}} tien chiuso.
 
 La più sublime metafisica è inchiusa in questi versi dell'im-
 mortale Poeta. Che cosa è la libertà? La libertà, nel puro suo

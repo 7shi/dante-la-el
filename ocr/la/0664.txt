@@ -98,7 +98,7 @@ liceret populo comedere, nisi talia quadrupedia ruminarent
 et haberent ungulas fixas. Hic per ruminari intelligitur
 bene dicere, bene consulere, bene predicare in prelatis: per
 ungulas fixas habere intelligitur bene operare, bene exem-
-plicare. Modo vult dicere hic Marcus, quod prelati bene
+{{plicare|plificare}}. Modo vult dicere hic Marcus, quod prelati bene
 possunt ruminari, et bene ruminantur, idest bene predi-
 cant et dicunt; sed non bene operantur, nec dant bona
 exempla populis et suis subditis.
