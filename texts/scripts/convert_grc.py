@@ -101,6 +101,14 @@ def head_words(s):
     return words if ok else None
 
 
+# A misprint marked in ocr/grc, `{{printed|fixed}}` (ocr/PLAN.md, "Decisions"): the fixed side.
+MISPRINT = re.compile(r"\{\{([^{}|]*)\|([^{}|]*)\}\}")
+
+
+def fixed(t):
+    return MISPRINT.sub(r"\2", t)
+
+
 # Letters missing from the print (the type did not print), supplied here: page -> (as printed, supplied)
 MISSING_TYPE = {265: ("ἶπον τῷ πικρῶς", "Εἶπον τῷ πικρῶς")}  # ΛΒ΄ 86
 
@@ -110,7 +118,7 @@ def read_page(n, head=True):
 
     With head=False, only the page number is removed from the head: on the pages of
     notes, the label is either the running head or the heading of a canto's notes."""
-    text = (SRC / f"{n:03d}.txt").read_text(encoding="utf-8")
+    text = fixed((SRC / f"{n:03d}.txt").read_text(encoding="utf-8"))
     lines = [l.rstrip() for l in text.strip().split("\n")]
     lines = [l for l in lines if l.strip() not in STAMPS.get(n, [])]
     if n in MISSING_TYPE:
@@ -132,9 +140,10 @@ def read_page(n, head=True):
                 lines.pop(0)
         if lines and lines[0].strip() == "Σελ.":
             lines.pop(0)
-    # page number or printer's signature mark (`Β΄ 2`, `C. 2`, `G`) at the foot
+    # page number or printer's signature mark (`Β΄ 2`, `C. 2`, `G`) at the foot; the
+    # first page of the corrigenda (015) has one too (`Ζ`)
     while lines and (re.fullmatch(r"\d+", lines[-1].strip()) and n >= 21
-                     or SIGNATURE.fullmatch(lines[-1].strip()) and n >= 21):
+                     or SIGNATURE.fullmatch(lines[-1].strip()) and (n >= 21 or n == 15)):
         lines.pop()
         while lines and not lines[-1].strip():
             lines.pop()
@@ -159,7 +168,7 @@ def paragraphs(lines):
 WORD = r"[^\W\d_]+"
 VOCAB = set()
 for f in SRC.glob("*.txt"):
-    text = f.read_text(encoding="utf-8")
+    text = fixed(f.read_text(encoding="utf-8"))
     # the fragments of words hyphenated at a line end are not words
     text = re.sub(WORD + r"-\n\s*" + WORD, " ", text)
     VOCAB.update(w.lower() for w in re.findall(WORD + r"(?:-" + WORD + r")*", text))
