@@ -231,11 +231,11 @@ The record of the check of `ocr/en` planned in [PLAN.md](PLAN.md), step by step.
 - **Retype 20** (Gemini 3.8 Flash, stopped by an error after `431`): 25 pages, `429`–`455`
   (without `445`, retype 03, and `454`, retype 01). The retype's `429`–`431` compared (2
   places, B 2: `429` `’` for a broken `”`, `431` `nune` for `none` with a thin `o`; the
-  base kept); `431`–`455` read against the image by la-el-claude instead of a retype, the
+  base kept); `431`–`455` read against the image by la-el-claude (Opus 5.5) instead of a retype, the
   base line by line beside 1.6× crops of each page, doubtful letters enlarged. No
   misreading of the base; misprints the base had corrected: `436` `badst`, `441` `turncd`,
   `447` `Si` (Inf. xxxii. 90, `Sì`). Marked and listed.
-- **Retype 22** (no retype; read by la-el-claude while retype 21 ran): 8 pages, `477`,
+- **Retype 22** (no retype; read by la-el-claude, Opus 5.5, while retype 21 ran): 8 pages, `477`,
   `480`–`486` (the index; `478` excluded, `479` retype 01), read against the image as
   `431`–`455` in retype 20. A misreading of the base: `484` `Mordred`, `Mordrec` in the
   print (as in the note on `444`); corrected. Misprints the base had corrected: `480`
@@ -254,6 +254,6 @@ The record of the check of `ocr/en` planned in [PLAN.md](PLAN.md), step by step.
 - **`401`–`486` done** (retypes 19–22, 79 pages): misreadings of the base in `462`, `467`,
   `468`, `473`, `474`, `484` (points, quotes, a letter); the rest misprints the base had
   corrected, and the retype's own errors. Two batches differ from the plan: in retype 20
-  agy stopped after `431`, and `431`–`455` were read by la-el-claude against the image
+  agy stopped after `431`, and `431`–`455` were read by la-el-claude (Opus 5.5) against the image
   instead; retype 22 (the index) was read the same way, with no retype. Step 1 (with the
   decisions of step 2) is done for all pages.
