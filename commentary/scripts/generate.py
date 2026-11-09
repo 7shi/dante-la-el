@@ -105,6 +105,37 @@ VERBATIM_LINES = {
 USAGE_PATH = None
 
 QUOTE_RE = re.compile(r"^>\s*(\d+)\s+(.*?)\s*$")
+# Quote marks and apostrophes the model may restyle in a quoted original
+QUOTE_MARKS = str.maketrans({"«": '"', "»": '"', "“": '"', "”": '"', "’": "'", "‘": "'"})
+# Other characters a quoted original may differ by (a dropped diaeresis, a
+# changed punctuation mark). Lines up to ten apart in a canto differ by at
+# least 6 (Paradiso 4.4 and 4.6), so even an exact quote of a neighbouring
+# line under the wrong number is still rejected.
+MAX_QUOTE_DIFF = 3
+
+
+def edit_distance(a: str, b: str, limit: int) -> int:
+    """Levenshtein distance, or limit + 1 once it is sure to exceed limit."""
+    if abs(len(a) - len(b)) > limit:
+        return limit + 1
+    prev = list(range(len(b) + 1))
+    for i, ca in enumerate(a, 1):
+        cur = [i]
+        for j, cb in enumerate(b, 1):
+            cur.append(min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (ca != cb)))
+        if min(cur) > limit:
+            return limit + 1
+        prev = cur
+    return prev[-1]
+
+
+def same_line(quoted: str, original: str) -> bool:
+    """A quoted line matches its original up to the style of its quote marks
+    and a few other characters."""
+    return edit_distance(
+        quoted.translate(QUOTE_MARKS), original.translate(QUOTE_MARKS), MAX_QUOTE_DIFF
+    ) <= MAX_QUOTE_DIFF
+
 TRANS_RE = re.compile(r"^>\s*\((.*)\)\s*$")
 FILLED_RE = re.compile(r"^\s*(\d+)\s+(.+?)\s*$")
 MARKER_RE = re.compile(rf"^\**\s*{re.escape(PLACEHOLDER.strip('*'))}\s*\**\s*")
@@ -137,8 +168,9 @@ def canto_text(lines) -> str:
 def extract_translations(commentary: str, lines) -> dict[int, str]:
     """Collect `> N original` / `> (translation)` pairs from a commentary.
 
-    Pairs whose quoted original does not match the corpus line are dropped, so
-    that a partial or misquoted line is left untranslated instead of wrong.
+    Pairs whose quoted original does not match the corpus line (quote marks
+    and a few other characters aside) are dropped, so that a partial or misquoted line is left
+    untranslated instead of wrong.
     """
     originals = {line.no: line.text for line in lines}
     md_lines = commentary.splitlines()
@@ -149,7 +181,7 @@ def extract_translations(commentary: str, lines) -> dict[int, str]:
         if not (trans := TRANS_RE.match(md_lines[i + 1])):
             continue
         no = int(quote.group(1))
-        if originals.get(no) != quote.group(2):
+        if not same_line(quote.group(2), originals.get(no, "")):
             print(f"skip line {no}: quoted text does not match", file=sys.stderr)
             continue
         translations[no] = trans.group(1)
