@@ -71,6 +71,77 @@ page	line	form	decision	note
 194	10	E’	printed	cmp B; the retype `È`, as at `191`
 197	3	Fredcrick	misprint	cmp B; the retype `Fredcrick`, the base `Frederick`
 199	20	fædissima	misprint	cmp B; the retype `fædissima` (`fæ-` at a line end), the base `fœdissima`; an italic `æ`
+213	23	Lit..	misprint	cmp B; the retype `Lit..`, the base `Lit.:`; a period for the colon
+214	19	Com.	printed	cmp B; the retype without the period: set close
+220	1	uot	misprint	cmp A; the retype and Tesseract `uot`, the base `not`
+222	9	diretro	printed	cmp B; the retype `dietro`
+225	22	eyebrows	printed	cmp B; the retype `eye-brows`: a break at a line end
+229	1	carth	misprint	cmp A; the retype and Tesseract `carth`, the base `earth`
+233	1	arisiug	misprint	cmp A; the retype and Tesseract `arisiug`, the base `arising`
+236	9	Già	printed	cmp B; the retype `Gia’`: the first word of a canto in small capitals, a grave set after them
+239	16	Viuse	misprint	cmp B; the retype `Viuse`, the base `Vinse`
+243	16	Po	misprint	cmp A; the retype and Tesseract without the period, the base `Po.`
+244	14	Guidoguerra	misread	cmp B; was `Guido-guerra`: a break at a line end
+246	15	17	misprint	cmp A; the retype and Tesseract `17`, the base `7`
+247	3	leave	printed	cmp B; the retype `lenve`
+248	17	avca	misprint	cmp B; the retype `avca`, the base `avea`
+251	22	accorsi	printed	cmp B; the retype `accorsi,`: a broken `i`, no comma
+258	16	udi’	printed	cmp B; the retype `udì`
+260	18	’	misprint	cmp A; the retype and Tesseract `’`, the base `”`
+261	8	immagine	misread	cmp A; was `imagine`
+265	16	leggieramente	printed	cmp B; the retype `leggiermente`
+269	12	nou	misprint	cmp B; the retype `nou`, the base `non`
+270	3	me!”.	misprint	cmp A; the retype and Tesseract a period after the quote, the base without
+270	21	THR.	misread	cmp B; was `Thr.`; small capitals
+270	21	GN.	misread	cmp B; was `Gn.`; small capitals
+272	17	. . . .	misread	cmp B; was `. . .`: four points in the print
 272	18	MSS.	misread	the same as `029`; was `mss.`; small capitals
+273	12	Giovanui	misprint	cmp B; the retype `Giovanui`, the base `Giovanni`
+279	19	threescore	misread	cmp B; was `three-score`: a break at a line end
+285	3	Forli	printed	cmp B; the retype `Forlì`
+290	17	gìo	printed	cmp B; the retype `giò`
+291	1	betwecn	misprint	cmp B; the retype `betwecn`, the base `between`
+292	19	1	printed	cmp B; the retype without the number: the note's number did not print; kept, as the text has its marker
+296	1	herbs’	misprint	cmp A; the retype and Tesseract `herbs’`, the base `herbs`
+300	3	marvellously	misread	cmp A; was `marvelously`
+301	21	Lit..	misprint	cmp A; the retype and Tesseract `Lit..`, the base `Lit.:`; as at `213`
+308	1	Scaramiglione	misread	cmp A; was `Scarmiglione`; as in the index (`485`); the verse `Scarmiglione`
+309	15	Tramplegrace	misread	cmp A; was `Trample-grace`: a break at a line end
+309	15	farfalla	misread	cmp A; was `far-falla`: a break at a line end
+314	3	have	printed	cmp A; the retype and Tesseract `HAVE`: small capitals, the opening of a canto in normal case (as `136` `I say`)
+314	3	tho	misprint	cmp A; the retype and Tesseract `tho`, the base `the`
+317	22	household	misread	cmp B; was `house-hold`: a break at a line end (`household` at `406`)
+319	8	Poeo	misprint	cmp A; the retype and Tesseract `Poeo`, the base `Poco`
+328	1	casc	misprint	cmp A; the retype and Tesseract `casc`, the base `case`
+328	12	compìo	misread	cmp B; was `compiò`: the grave on the `i` in the print
+328	12	rendcre	misprint	cmp B; the retype `rendcre`, the base `rendere`
+328	22	describcd	misprint	cmp B; the retype `describcd`, the base `described`
+329	3	rcached	misprint	cmp B; the retype `rcached`, the base `reached`
+330	20	somc	misprint	cmp B; the retype `somc`, the base `some`
+336	10	costa,	misread	cmp B; was `costa`: a comma, set close, and a space after it
+338	19	ὢ	printed	cmp B; the retype `ὣ`; the breathing not clear in the print; the base kept
+339	21	cantc	misprint	cmp B; the retype `cantc`, the base `canto`
+344	5	Anfesibena	printed	cmp B; the retype `Anfesiḃena`: a speck
+349	3	transformations	printed	cmp B; the retype `trans-formations`: a break at a line end
+350	3	At	printed	cmp A; the retype and Tesseract `AT`: small capitals, the opening of a canto in normal case
+350	7	Al	printed	cmp B; the retype `AL`: small capitals, the first word of a canto in normal case
+350	19	Lit..	misprint	cmp B; the retype `Lit.:`, the base `Lit..` unmarked; a period for the colon in the print, as at `213`
+352	10	Por	misprint	cmp B; the retype `Per`, the base `Por` unmarked; `Por` in the print
+353	25	ecco.	misread	cmp B; was `ecco,`: a period in the print
+355	16	gìa	printed	cmp B; the retype `già`
+360	21	goes	printed	cmp B; the retype `‘goes`: a speck
+363	15	skort	misprint	cmp A; the retype and Tesseract `skort`, the base `short`
+365	21	levoro	printed	cmp B; the retype `levoron`
+365	23	Elisha.	misread	cmp B; was `Elisha,`: a period in the print
+368	11	Foichè	misprint	cmp B; the retype `Foichè`, the base `Poichè`
+374	3	The	printed	cmp B; the retype `THE`: small capitals, the opening of a canto in normal case
+374	10	un-confuso	misprint	cmp B; the retype `un confuso`, the base `un-confuso` unmarked; a hyphen in the print
 375	3	el	misread	cmp A; was `ei`; the retype and Tesseract `el`, as printed
+377	14	Maltestino	printed	cmp B; the retype `Malatestino`
+378	21	Imolo	misprint	cmp A; the retype and Tesseract `Imolo`, the base `Imola`
+380	14	losened	printed	cmp B; the retype `loosened`
+384	8	partio	printed	cmp B; the retype `partìo`
+390	1	round:	misread	cmp A; was `round;`; the retype and Tesseract `:`, a colon in the print
+396	22	withal:”	printed	cmp B; the retype `’`: the closing quote broken
+397	1	cach	misprint	cmp A; the retype and Tesseract `cach`, the base `each`
 479	3	Abati	printed	cmp B; the retype `ABATI`: small capitals, the first word of the index in normal case (README.md)

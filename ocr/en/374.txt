@@ -7,7 +7,7 @@ Per non dir più; e già da noi sen gía
 Con la licenzia del dolce Poeta:
 Quando un’ altra, che dietro a lei venia,
 Ne fece volger gli occhi alla sua cima,
-Per un-confuso suon che fuor n’ uscia.
+Per {{un-confuso|un confuso}} suon che fuor n’ uscia.
 Come il bue Cicilian, che mugghiò prima
 Col pianto di colui, e ciò fu dritto,
 Che l’ avea temperato con sua lima,

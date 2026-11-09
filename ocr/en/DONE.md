@@ -180,3 +180,44 @@ The record of the check of `ocr/en` planned in [PLAN.md](PLAN.md), step by step.
   `270`, `272`, `279`, `300` (line-end breaks, small capitals, a doubled letter, points);
   the rest misprints the base had corrected or copied unmarked, and the retype's own
   errors, a few a batch.
+- **`readcheck.tsv`** for retypes 11–14: the rows of their places had not been written;
+  added with retype 15.
+- **Retype 15** (Gemini 3.8 Flash): 25 pages, `301`–`325` (`312` blank); all written, none
+  mixed up. 9 places (A 7, B 2, C 0):
+  - Misreadings of the base: `308` `Scarmiglione` for printed `Scaramiglione` (so the index,
+    `485`; the verse `Scarmiglione`), `309` `Trample-grace` and `far-falla`, `317`
+    `house-hold`, breaks at a line end kept. Corrected.
+  - Misprints the base had corrected: `301` `Lit..` (as `213`), `314` `tho`, `319` `Poeo`
+    (Inf. xxii. 67). Marked and listed.
+  - The retype wrong: `314` `HAVE`, the opening of a canto in small capitals.
+- **Retype 16** (Gemini 3.8 Flash): 25 pages, `326`–`334`, `336`–`351`; all written, none
+  mixed up. From `343` on (but `349`), eight pages written line by line as printed: the
+  verse numbers, the breaks at a line end, the two columns of the footnotes side by side
+  (`|`). Compared after a normalization (the numbers dropped, the columns read one after
+  the other, the breaks joined): 14 places (A 2, B 12, C 0):
+  - Misreadings of the base: `328` `compiò` for printed `compìo`, `336` `costa` without its
+    comma. Corrected.
+  - Misprints the base had corrected: `328` `casc`, `rendcre` (Inf. xxiii. 34) and
+    `describcd`, `329` `rcached`, `330` `somc`, `339` `cantc`; and `350` `Lit..`, which
+    the base had copied unmarked. Marked and listed.
+  - The retype wrong: `338` `ὣ` (the breathing not clear; the base kept), `344` a speck,
+    `349` `trans-formations`, `350` `AT`, `AL` (the opening of a canto).
+- **Retype 17** (Gemini 3.8 Flash): 25 pages, `352`–`374`, `376`–`377`; all written, none
+  mixed up, in the layout asked. 11 places (A 1, B 10, C 0):
+  - Misreadings of the base: `353` `ecco,` and `365` `Elisha,`, a period in the print.
+    Corrected.
+  - Misprints the base had corrected: `363` `skort`, `368` `Foichè` (Inf. xxvi. 76); and
+    `352` `Por` (Inf. xxv. 29) and `374` `un-confuso` (Inf. xxvii. 6), which the base had
+    copied unmarked. Marked and listed.
+  - The retype wrong: `355` `già` for `gìa`, `360` a speck, `365` `levoron`, `374` `THE`
+    (the opening of a canto), `377` `Malatestino` for `Maltestino`.
+- **Retype 18** (Gemini 3.8 Flash): 23 pages, `378`–`400` (`398` blank); all written, none
+  mixed up, in the layout asked. 7 places (A 3, B 4, C 0):
+  - A misreading of the base: `390` `round;`, a colon in the print. Corrected.
+  - Misprints the base had corrected: `378` `Imolo`, `397` `cach`. Marked and listed.
+  - The retype wrong: `380` `loosened` for `losened`, `384` `partìo` for `partio`, `396`
+    `’` (a closing quote broken).
+- **`301`–`400` done** (retypes 15–18, 98 pages): misreadings of the base in `308`, `309`,
+  `317`, `328`, `336`, `353`, `365`, `390` (line-end breaks, a letter, an accent, points);
+  the rest misprints the base had corrected or copied unmarked, and the retype's own
+  errors, a few a batch.

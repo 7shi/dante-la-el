@@ -18,4 +18,4 @@ Che sempre par che innanzi si provveggia;
 Così, levando me su vêr la cima
 
 1 See canto xxiii. 146.
-2 Recalls canto i. 64, &c.
+2 Recalls {{cantc|canto}} i. 64, &c.

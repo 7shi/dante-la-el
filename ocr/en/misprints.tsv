@@ -39,3 +39,19 @@ page	line	printed	fixed	applied	source	note
 273	12	Giovanui	Giovanni	yes	dante	Inf. xix. 17; a turned `n`; the retype reads `Giovanui`; found by the retype.
 291	1	betwecn	between	yes	edition	Canto XX; a `c` for the `e`; the retype reads `betwecn`; found by the retype.
 296	1	herbs’	herbs	yes	edition	Canto XX; an apostrophe after `herbs`; the retype and Tesseract read `herbs’`; found by the retype.
+301	21	Lit..	Lit.:	yes	edition	Canto XXI, a footnote; a period for the colon, as at `213`; the retype and Tesseract read `Lit..`; found by the retype.
+314	3	tho	the	yes	edition	Canto XXII; an `o` for the `e`; the retype and Tesseract read `tho`; found by the retype.
+319	8	Poeo	Poco	yes	dante	Inf. xxii. 67; an `e` for the `c`; the retype and Tesseract read `Poeo`; found by the retype.
+328	1	casc	case	yes	edition	Canto XXIII; a `c` for the `e`; the retype and Tesseract read `casc`; found by the retype.
+328	12	rendcre	rendere	yes	dante	Inf. xxiii. 34; a `c` for the `e`; the retype reads `rendcre`; found by the retype.
+328	22	describcd	described	yes	edition	Canto XXIII, a footnote; a `c` for the `e`; the retype reads `describcd`; found by the retype.
+329	3	rcached	reached	yes	edition	Canto XXIII; a `c` for the `e`; the retype reads `rcached`; found by the retype.
+330	20	somc	some	yes	edition	Canto XXIII, a footnote; a `c` for the `e`; the retype reads `somc`; found by the retype.
+339	21	cantc	canto	yes	edition	Canto XXIV, a footnote; a `c` for the `o`; the retype and Tesseract read `cantc`/`cante`; found by the retype.
+350	19	Lit..	Lit.:	yes	edition	Canto XXV, a footnote; a period for the colon, as at `213`; the base copied `Lit..` unmarked; Tesseract reads `Lit..`, the retype `Lit.:`.
+352	10	Por	Per	yes	dante	Inf. xxv. 29; the base copied `Por` unmarked; Tesseract reads `Por`, the retype `Per`.
+363	15	skort	short	yes	edition	Canto XXIV, a footnote; a `k` for the `h`; the retype and Tesseract read `skort`; found by the retype.
+368	11	Foichè	Poichè	yes	dante	Inf. xxvi. 76; an `F` for the `P`; the retype reads `Foichè`; found by the retype.
+374	10	un-confuso	un confuso	yes	dante	Inf. xxvii. 6; a hyphen set between the words; the base copied `un-confuso` unmarked; found by the retype (`un confuso`).
+378	21	Imolo	Imola	yes	edition	Canto XXVII, a footnote; an `o` for the `a`; the retype and Tesseract read `Imolo`; found by the retype.
+397	1	cach	each	yes	edition	Canto XXVIII; a `c` for the `e`; the retype and Tesseract read `cach`; found by the retype.
