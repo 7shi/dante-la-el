@@ -12,7 +12,13 @@ import argparse
 import csv
 from pathlib import Path
 
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw, ImageFont
+
+# A font with Greek for the labels, if one is installed; PIL's default font has none.
+try:
+    FONT = ImageFont.truetype("NotoSans-Regular.ttf", 13)
+except OSError:
+    FONT = ImageFont.load_default()
 
 ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
 ap.add_argument("dir", type=Path, help="directory of the page images (e.g. ocr/la)")
@@ -36,7 +42,7 @@ for spec in a.specs:
         rows = csv.DictReader(fp, delimiter="\t", quoting=csv.QUOTE_NONE)
         hits = [r for r in rows if text in (r["text"] or "").lower()]
     label = Image.new("RGB", (1500, 22), "yellow")
-    ImageDraw.Draw(label).text((4, 5), f"{spec} ({len(hits)} hits)", fill="black")
+    ImageDraw.Draw(label).text((4, 3), f"{spec} ({len(hits)} hits)", fill="black", font=FONT)
     parts.append(label)
     if len(hits) >= n:
         r = hits[n - 1]

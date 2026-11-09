@@ -4,7 +4,10 @@ For each page of RETYPE (`RETYPE/PAGE.txt`), the words and marks of `DIR/PAGE.tx
 base; the printed side of a misprint mark), of the retype and of Tesseract's word boxes
 (`TESS/PAGE.tsv`) are aligned. Normalized first: the quotes and apostrophes straight, any
 dash or run of dashes one `-`, the superscript note markers dropped, the spacing ignored
-(`ch’ io` = `ch’io`, `lontana :` = `lontana:`). Every place where the base differs from the
+(`ch’ io` = `ch’io`, `lontana :` = `lontana:`), a word hyphenated at a line end joined. For
+the Greek: Unicode NFC (the accent `ά` with tonos or oxia alike), the elision marks, the
+numeral signs and `„` as the quotes, the upper dot `·` however written; the accents and
+breathings themselves are compared. Every place where the base differs from the
 retype is listed with Tesseract's words for the same place, in a class:
 
 - A: Tesseract agrees with the retype against the base (case ignored);
@@ -21,6 +24,7 @@ import argparse
 import difflib
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
@@ -36,17 +40,33 @@ tess_dir = a.tess or a.dir / "tesseract"
 MARK = re.compile(r"\{\{([^{}|]*)\|[^{}|]*\}\}")
 SUPER = re.compile(r"[¹²³⁴⁵⁶⁷⁸⁹⁰]+")
 TOKEN = re.compile(r"\w+|-|[^\w\s]")
-QUOTES = str.maketrans({"’": "'", "‘": "'", "“": '"', "”": '"', "´": "'", "`": "'"})
+QUOTES = str.maketrans({"’": "'", "‘": "'", "“": '"', "”": '"', "´": "'", "`": "'",
+                        "„": '"', "«": '"', "»": '"', "\u1fbf": "'", "\u1fbd": "'",
+                        "\u02bc": "'", "\u02b9": "'", "\u0384": "'",
+                        "˙": "·", "•": "·", "\u0387": "·"})
+HYPHEN_END = re.compile(r"(\w)-[ \t]*$")
 
 
 def norm(text):
+    text = unicodedata.normalize("NFC", text)
     text = SUPER.sub("", MARK.sub(r"\1", text)).translate(QUOTES)
     return re.sub(r"[-‐‑‒–—―]+", "-", text)
 
 
 def tokens(lines):
-    """(token, line) over the lines."""
-    return [(t, n) for n, line in enumerate(lines, 1) for t in TOKEN.findall(norm(line))]
+    """(token, line) over the lines; a word hyphenated at a line end is joined and given
+    the first line."""
+    out, join = [], False
+    for n, line in enumerate(lines, 1):
+        toks = TOKEN.findall(norm(line))
+        if join and toks and re.match(r"\w", toks[0]):
+            out[-1] = (out[-1][0] + toks[0], out[-1][1])
+            toks = toks[1:]
+        out += [(t, n) for t in toks]
+        join = bool(HYPHEN_END.search(line)) and len(out) >= 2 and out[-1][0] == "-"
+        if join:
+            out.pop()
+    return out
 
 
 def tess_tokens(page):
