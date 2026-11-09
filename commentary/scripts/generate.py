@@ -53,6 +53,18 @@ LANGUAGES = {
         "quotes": ("«“‘", "»”’"),
         "apostrophe": r"(?<=\w)’(?=\w)|\bde’",
     },
+    "en": {
+        "name": "English",
+        # Shares its script with Italian, as Esperanto does
+        "letters": r"[A-Za-z]",
+        "closing": "Epilogue",
+        "note": "Write quotation marks as “” and ‘’, not as straight quotes.",
+        # ’ is also the apostrophe: inside a word (don’t, Dante’s, d’Este) or
+        # opening one (’tis, ’neath); a ’ after a plural (souls’) still counts
+        # as a closing quote
+        "quotes": ("“‘", "”’"),
+        "apostrophe": r"(?<=\w)’(?=\w)|(?<!\S)’(?=\w)",
+    },
 }
 
 PROMPT = """

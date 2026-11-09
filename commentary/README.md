@@ -26,7 +26,7 @@ make fix-quotes
 
 `CANTO` takes the SPEC syntax of dante-corpus (`N`, `N-M`, `N-`, `-M`, comma-separated); without it, every canto of the canticle is processed. `check-quotes` then reports the quote marks of the translations that do not follow the original; after fixing them in `<NN>.txt`, `fix-quotes` copies the translations into the quote blocks of every commentary and normalizes them (see below).
 
-Every target takes `LANG=<code>` to choose the target language (`el` or `eo`, default `el`), e.g. `make generate CANTICLE=inferno LANG=eo`; the output then goes to `<code>/` and `check/<code>/`. Only a `LANG` given on the command line counts: the `LANG` of the environment is the locale and is ignored.
+Every target takes `LANG=<code>` to choose the target language (`el`, `eo` or `en`, default `el`), e.g. `make generate CANTICLE=inferno LANG=eo`; the output then goes to `<code>/` and `check/<code>/`. Only a `LANG` given on the command line counts: the `LANG` of the environment is the locale and is ignored.
 
 ## scripts/generate.py
 
@@ -54,10 +54,10 @@ Each canto is processed in two steps:
 
 Both prompts are written in English, with the language name filled in. Each language code has an entry in `LANGUAGES` in the script:
 
-- `name`: the name of the language, written into the prompts (`Modern Greek` for `el`, `Esperanto` for `eo`)
-- `letters`: a regular expression for the letters of the language, used to reject copied Italian (for `eo`, which shares the Latin script, it rejects only lines without letters; a verbatim copy is still rejected)
-- `closing`: the word that opens the heading of the closing section (`Επίλογος` for `el`, `Epilogo` for `eo`)
-- `note`: an extra instruction added to both prompts (for `el`, to use the monotonic orthography; for `eo`, to write the letters with diacritics, not in the x- or h-system)
+- `name`: the name of the language, written into the prompts (`Modern Greek` for `el`, `Esperanto` for `eo`, `English` for `en`)
+- `letters`: a regular expression for the letters of the language, used to reject copied Italian (for `eo` and `en`, which share the Latin script, it rejects only lines without letters; a verbatim copy is still rejected)
+- `closing`: the word that opens the heading of the closing section (`Επίλογος` for `el`, `Epilogo` for `eo`, `Epilogue` for `en`)
+- `note`: an extra instruction added to both prompts (for `el`, to use the monotonic orthography; for `eo`, to write the letters with diacritics, not in the x- or h-system; for `en`, to write curly quotation marks, not straight ones)
 
 ## scripts/fix_quote_blocks.py
 

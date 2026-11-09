@@ -20,7 +20,7 @@ help:
 	@echo "       make check-lines [CANTICLE=<canticle>] [CANTO=<spec>] [CHECK_MODEL=<model>]"
 	@echo "       make report-lines [CANTICLE=<canticle>] [CANTO=<spec>] [KIND=\"<kind> ...\"]"
 	@echo "       make apply-lines KIND=\"<kind> ...\" [CANTICLE=<canticle>] [CANTO=<spec>]"
-	@echo "       every target takes LANG=<el|eo> (default: el)"
+	@echo "       every target takes LANG=<el|eo|en> (default: el)"
 	@echo ""
 	@echo "  generate   Write $(DIR)/<canticle>/NN.md (commentary) and NN.txt (translation)"
 	@echo "             in $(LANG_CODE) with $(MODEL); CANTO takes the SPEC syntax"
