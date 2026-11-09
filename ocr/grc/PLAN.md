@@ -16,7 +16,31 @@ Step 0 (setup) done (DONE.md). Step 1–2: retypes 01 (the trial) and 02 (`001`�
 decided, Gemini 4 Argon; retype 03 (`033`–`058` without `038`) decided, Gemini 3.8 Flash
 (Argon's quota reached; a comparison of the two models, asked by the user, 2026-11-10).
 Retypes 04 (`059`–`083`) and 05 (`084`–`108`) decided, Gemini 3.8 Flash (the user's
-choice, 2026-11-10). Next: retype 06 (`109`–), when the user gives the signal.
+choice, 2026-11-10). Next: retype 06 (`109`–`133`), when the user gives the signal.
+
+## The work ahead
+
+1. **Retypes 06–12, the cantos** (`109`–`285`, 177 pages), batches of about 25 in page
+   order: 06 `109`–`133`, 07 `134`–`158`, 08 `159`–`183`, 09 `184`–`208`, 10
+   `209`–`233`, 11 `234`–`258`, 12 `259`–`285`. Each batch decided as in step 2, its
+   section added to DONE.md and the State updated here.
+2. **Retypes 13–15, the notes** (`287`–`351` without `288`, and `292`, `343` done in the
+   trial; 62 pages): 13 `287`–`313`, 14 `314`–`338`, 15 `339`–`351`. Smaller type, with
+   Latin, Italian, French and a little Hebrew and Arabic: the model is chosen again with
+   the user before 13 (Flash is untried on these pages), and the task names the
+   languages (the template's rules already do).
+3. **Read-through** (step 3), then **the corrigenda** with the user (step 4), then **the
+   close** (step 5).
+
+How a batch runs (asked by the user, 2026-11-10):
+
+- The user sets la-el-agy's model by hand and gives the signal; nothing is sent before
+  it. The task file is the last one with its pages, paths and the list of the last
+  batch's errors changed; no new rules.
+- When the reply comes, the batch is checked and decided before anything else is sent;
+  the next batch waits for the user.
+- Commits only when the user asks, `ocr/grc` and `texts/grc` apart; the last ones cover
+  retypes 01–05.
 
 ## The text
 
@@ -48,7 +72,8 @@ read-through (asked by the user, 2026-11-10).
 ## The readings to compare
 
 - **The base**: `ocr/grc` itself, with its fixes kept unless the image says otherwise.
-- **The retype**: every page from the image alone by la-el-agy (step 1), on Gemini 4 Argon.
+- **The retype**: every page from the image alone by la-el-agy (step 1), on Gemini 4 Argon
+  (retypes 01–02), then Gemini 3.8 Flash (03–05), which erred about as often (DONE.md).
 - **Tesseract** (`-l grc`; `grc+lat+ita+fra` on the notes), the third vote and the word
   boxes for `wordcrop.py`. It reads the Greek fairly (`021`: `ἀχληγορική`, `Ἐύρέθην` for
   the printed `ἀλληγορική`, `Εὑρέθην`), and found a misreading in the setup (`021`
@@ -71,8 +96,8 @@ read-through (asked by the user, 2026-11-10).
      (`038`), notes pages (`292`, a canto's notes starting mid-page; `343`, a footnote and a
      signature mark). Checked by eye and by `cmpread.py`; the batch size is set from it
      (`en`: 25 pages).
-   - **Batches** in page order; on each reply the next batch is sent first, then the
-     returned one checked (pages present, none mixed up).
+   - **Batches** in page order; on each reply the returned one is checked (pages present,
+     none mixed up) and decided before the next is sent (asked by the user, 2026-11-10).
 2. **Compare and decide**, batch by batch, as for `en` (ocr/en/PLAN.md, step 2):
    `uv run ocr/scripts/cmpread.py ocr/grc tmp/grc-retypeNN -t ocr/grc/tesseract`; the
    accents and breathings are compared, so their differences are decided too. Classes A
@@ -96,4 +121,15 @@ The edition's readings found in the steps go here, and are applied, not asked ag
   printed lines on one row, the canto and line numbers without their printed comma and
   period. Only the words of the cells are compared.
 - **An iota subscript printed under a capital** where the word has none (`030` `ᾙρέθη`,
-  `038` `ᾈεὶ`) is a misprint, marked.
+  `038` `ᾈεὶ`) is a misprint, marked; so is one under a small letter (`107` `ᾀείποτε`).
+- **A low mark between two words** (or a quote and a word) is a spacing quad's, not a
+  period: not written (`033` 10, `064` 19, …).
+- **The roman rough breathing with an accent** prints as one `^`-like mark, grave and
+  acute alike: the base's accent is kept (`Ὃς`, `Ἓν`).
+- **The marks of the italic type** (read beside sure ones): smooth with circumflex is
+  `3`-shaped (`ἆρ᾽`), smooth with acute a comma and a stroke (`οὔκ`), rough with acute an
+  open `c` with a stroke (`αἵματ᾽`), diaeresis with acute dagger-shaped (`πρωΐα`).
+- **Nested quotes** open `‘“`, go on `‚ „` at the following lines and close `”’` (`034`,
+  `074`).
+- **Signature marks** as the base writes them (`Ε 2`, `F`, `G 2`); `convert_grc.py` drops
+  them.
