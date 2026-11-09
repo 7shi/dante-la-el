@@ -9,3 +9,19 @@ page	line	printed	fixed	applied	source	note
 030	9	ᾙρέθη	Ἡρέθη	yes	edition	II 21; an iota subscript printed under the capital (the aorist of `αἱρέω`); found by the retype.
 038	18	ᾈεὶ	Ἀεὶ	yes	edition	III 29; an iota subscript printed under the capital, as on 030; seen in retype 01, decided with 030.
 157	23	ὀοθῶς	ὀρθῶς	yes	edition	XVIII 132; listed in the corrigenda (016, `ὀοθῶς` / `ὀρθῶς`); the base had corrected it silently; found while checking 016.
+035	1	ΩΔΠ	ΩΔΗ	yes	edition	The running head of II 115–134; a Π for the Η; found by the retype.
+035	13	συῦ	σοῦ	yes	edition	II 125, `ὑπὲρ σοῦ`; an upsilon for the omicron; found by the retype.
+046	18	ἀνδρῶν;	ἀνδρῶν,	yes	edition	IV 30, a list (`ἀνδρῶν, γυναικῶν, παίδων`); a question mark for the comma; found by the retype.
+059	9	πόθους.	πόθους;	yes	edition	V 120, the end of Francesca's question (`εἰς τί καὶ πῶς`); a period for the question mark; found by the retype.
+061	12	τὸν	τοῦ	yes	edition	VI 7, `κύκλον τοῦ ὄμβρου`; an accusative article before the genitive; found by the retype.
+065	4	Τύφος	Τῦφος	yes	edition	VI 74; an acute for the circumflex of `τῦφος`; found by the retype, which wrote the circumflex.
+075	3	Διτός	Διτὸς	yes	edition	The argument of canto VIII; an acute before `πόλις` (VIII 68, `Διτὸς πόλις`); found by the retype, which wrote the grave.
+077	6	ᾈείποτ᾽	Ἀείποτ᾽	yes	edition	VIII 39; an iota subscript printed under the capital, as on 038; found by the retype.
+077	15	κυσμοῦσ᾽	κοσμοῦσ᾽	yes	edition	VIII 48; an upsilon for the omicron; found by the retype.
+079	2	ᾍδῃ	Ἅδῃ	yes	edition	VIII 75; an iota subscript printed under the capital, as on 038; seen in the check of retype 04.
+079	21	θλίψιν	θλῖψιν	yes	edition	VIII 94; an acute for the circumflex; found by the retype.
+099	12	Τόν	Τὸν	yes	edition	XI 43; an acute before `ἑαυτὸν`, not enclitic; found by the retype, which wrote the acute.
+102	5	φὴς	φῂς	yes	edition	XI 95; listed in the corrigenda (014, `ΙΑ’ 95. φὴς` / `φῂς`); the base had `φῇς`; found by Tesseract.
+107	16	ᾀείποτε	ἀείποτε	yes	edition	XII 66; an iota subscript where the word has none, as on 038 and 077; found by the retype.
+107	20	στῆθός	στῆθος	yes	edition	XII 70; an acute before `αὑτοῦ`, not enclitic; found by the retype.
+108	19	φλαύρα	φλαῦρα	yes	edition	XII 90; an acute for the circumflex of `φλαῦρος`; found by the retype.

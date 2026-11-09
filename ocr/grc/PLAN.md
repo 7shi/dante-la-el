@@ -13,8 +13,10 @@ described in [texts/PLAN.md](../../texts/PLAN.md) ("`texts/grc/`"), the transcri
 ## State (2026-11-10)
 
 Step 0 (setup) done (DONE.md). Step 1–2: retypes 01 (the trial) and 02 (`001`–`032`)
-decided, Gemini 4 Argon. Next: retype 03 from `033`, when the user agrees (retype 02
-was checked before sending it, at the user's request, 2026-11-10).
+decided, Gemini 4 Argon; retype 03 (`033`–`058` without `038`) decided, Gemini 3.8 Flash
+(Argon's quota reached; a comparison of the two models, asked by the user, 2026-11-10).
+Retypes 04 (`059`–`083`) and 05 (`084`–`108`) decided, Gemini 3.8 Flash (the user's
+choice, 2026-11-10). Next: retype 06 (`109`–), when the user gives the signal.
 
 ## The text
 
