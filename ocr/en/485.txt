@@ -8,7 +8,7 @@ Polenta, v. 116; xxvii. 41.
 Polydorus, xxx. 17.
 Polynices, xxvi. 54.
 Polyxena, xxx. 17.
-Prato, town, xvi. 9.
+Prato, town, {{xvi|xxvi}}. 9.
 Priam, xxx. 15.
 Priscian, xv. 109.
 Proserpine, ix. 44; x. 80.
@@ -24,7 +24,7 @@ Rhea, xiv. 100.
 Rhone, xxviii. 86.
 Rinier da Corneto, xii. 137.
 — Pazzo, xii. 137.
-Robert Guiscard, xxviii. 114.
+Robert Guiscard, xxviii. {{114|14}}.
 Romagna, xxvii. 37; xxxiii. 154.
 Romagnuols, xxvii. 28.
 Romans, xv. 77; xviii. 28; xxvi. 60; xxviii. 10.
@@ -72,6 +72,6 @@ Tagliacozzo, plain, xxviii. 18.
 Tarquin, iv. 127.
 Tartars, xvii. 17.
 Tegghiaio, vi. 79; xvi. 41.
-Thais, xxviii. 133.
+Thais, {{xxviii|xviii}}. 133.
 Thales, iv. 137.
 Thames, xii. 120.

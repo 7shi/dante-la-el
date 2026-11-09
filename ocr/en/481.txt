@@ -21,7 +21,7 @@ Ceperano, xxviii. 16.
 Cerberus, vi. 13; ix. 98.
 Cervia, xxvii. 42.
 Cesena, xxvii. 52.
-Ceuta, xxvi. 11.
+Ceuta, xxvi. {{11|111}}.
 Chaos, xii. 43.
 Charlemain, xxxi. 17.
 Charon, iii. 94, 109, 128.

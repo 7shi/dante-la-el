@@ -10,10 +10,13 @@ written as the steps go); the conversion into `texts/en/` is described in
 **A new session starts here**: read "State". The rules of ocr/PLAN.md ("Decisions",
 "Read-through") apply.
 
-## State (2026-11-09)
+## State (2026-11-10)
 
 Steps 1–2 done for all pages (retypes 01–22, DONE.md; `431`–`455` and the index read
-against the image instead of a retype). Next: step 3, the read-through, from its trial.
+against the image instead of a retype). Step 3 done: the trial `301`–`320` and the
+batches of 25 scans `005`–`486`, then a survey of the index (DONE.md). Step 4 done: the
+account in [SUMMARY.md](SUMMARY.md), texts/PLAN.md and README.md updated. The check of
+`ocr/en` is complete.
 
 ## The text
 

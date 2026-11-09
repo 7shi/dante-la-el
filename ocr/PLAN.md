@@ -6,11 +6,10 @@ work that follows: the same checks for the other three texts, taken from `la` wi
 detours (asked by the user, 2026-11-08). The conversion into `texts/` is described in
 [texts/PLAN.md](../texts/PLAN.md).
 
-## State (2026-11-09)
+## State (2026-11-10)
 
-`en` in progress (decided with the user, 2026-11-08; its plan and state in
-[en/PLAN.md](en/PLAN.md)): steps 1–2 done for all pages, step 3 next. The order of the
-other two is set later.
+`en` done (decided with the user, 2026-11-08; its plan in [en/PLAN.md](en/PLAN.md), the
+account in [en/SUMMARY.md](en/SUMMARY.md)). The order of the other two is set later.
 
 ## The texts
 

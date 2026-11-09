@@ -20,4 +20,4 @@ Onde l’ ultima pietra si scoscende.
 
 1 That inner boundary.
 2 The whole place tends downwards to Satan; and the valleys, lying like successive rings on the steep hanging ground, have the outer side high and the inner low. Compare canto xviii.
-3 Last stone of the ruin
+3 Last stone of the {{ruin|ruin.}}

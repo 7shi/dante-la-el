@@ -1,10 +1,15 @@
 page	line	form	decision	note
 010	1	C	misprint	cmp A; the retype and Tesseract `C`, the base `C.`; no period in the print
 011	3	The	printed	cmp B; the retype `THE`: small capitals, the first word of the preface in normal case (README.md)
+021	5	at full	printed	read; the note continues on `022` (`length.`): the converter placed the continuation as prose (now `CONT_BLOCKS` in convert_en.py)
+022	5	read-	printed	read; `readings` across the page, joined by the converter once the continued note on `022` is no longer prose
 022	9	Sì	printed	cmp B; the retype `S̄i`: the accent of the italic `ì` set over the `S`
 022	9	davanti	printed	cmp B; the retype `dauanti`; worn letters, `v` in the print
+022	9	nolUEDEA	printed	read; joined in the print, as `laere` in the same quotation of an early edition
 023	18	DIVINA	misread	cmp A; was `Divina`; small capitals (README.md)
 023	18	DIVINA	misread	cmp B; was `Divina` (`epithet DIVINA`); small capitals
+023	20	of Foscolo’s	printed	read; the note of `022` continued: placed as prose by the converter (now `CONT_BLOCKS`)
+025	15	See also	printed	read; the note of `024` continued, three paragraphs: placed as prose by the converter (now `CONT_BLOCKS`)
 026	12	LE TERZE RIME DI DANTE	misread	cmp B; was `Le Terze Rime di Dante`; small capitals, with the two titles after it
 027	3	COMMEDIA DI DANTE …	misread	cmp B; was `Commedia di Dante insieme …`; small capitals
 027	7	DIVINA	misread	cmp A; was `Divina`; small capitals
@@ -18,13 +23,18 @@ page	line	form	decision	note
 043	5	TRANSLATIONS	misread	cmp B; was `Translations`; small capitals
 051	5	entrauce	misprint	cmp B; the retype `entrauce`, the base `entrance`; a turned `n` in the print
 052	3	rolling dead	printed	cmp B; the retype `rolling-dead`; a short mark near the baseline, lower than a hyphen: a speck or a space risen
+054	1	Ibid. v. 118	printed	read; the verse is Par. xvii. 118: the author's reference, not a misprint of a letter
 055	3	Licn	misprint	cmp B; the retype `Licn`, the base `Lion`; a `c` for the `o` in the print
 058	3	so	printed	cmp B; the retype `só`; a speck above the `o`
 059	13	coso	misprint	cmp B; the retype `cose`, the base `coso` as printed, unmarked
 066	8	lascierò	printed	cmp B; the retype `lascerò`
 069	25	. . . .	printed	cmp B; the retype `. . .`; four points in the print
+073	3	O Lady	printed	read; no opening quote printed before `O Lady`
+074	1	circles!¹ So grateful	misread	read; was two lines: one paragraph in the print (`So` not indented)
+077	23	fessis, &c. Ecl. v. 46.	misread	read; was two lines: one verse note running on
 079	3	accompauied	misprint	cmp B; the retype `accompauied`, the base `accompanied`; a turned `n` in the print
 081	3	aud	misprint	cmp A; the retype and Tesseract `aud`, the base `and`; a turned `n` in the print
+081	19	lagrimai	printed	read; no comma printed (Inf. iii. 24)
 081	29	clearness	misread	cmp B; was `clear-ness`, a break at the line end; the retype's `.` before it a speck
 083	29	seemed	printed	cmp B; the retype `secmed`
 086	5	:	printed	cmp B; the retype `;`
@@ -33,84 +43,120 @@ page	line	form	decision	note
 096	27	. . . .	misread	cmp A; was `. . .`; four points in the print
 096	29	. . . .	misread	cmp B; was `. . .`; four points in the print
 096	32	tco	misprint	cmp B; the retype `tco`, the base `too`; a `c` in the print
+098	1	Penthesilea. On	printed	read; a period and `On` in the print
+098	13	Pentesilea.	printed	read; a period in the print (Inf. iv. 124)
 099	3	Heraclítus	printed	cmp A; the retype and Tesseract `Heraclitus`; the accent in the print (`Hera-` / `clítus`)
 104	25	sunlight	printed	cmp B; the retype `sun-light`: `sun-` at a line end, joined (README.md)
+111	26	nostris	misprint	read; Æn. ii. 10 `nostros`
+117	5	lei;	printed	read; a semicolon in the print
+121	9	tanto, scendi,	printed	read; the commas in the print
 121	24	figura.	printed	cmp A; the retype and Tesseract `,`; a period in the print
 123	5	chant	misprint	cmp A; the retype `chant`, the base `chant.`; no period in the print
 124	3	Papè	misread	cmp B; was `PAPÈ`: small capitals, the first word of the canto in normal case (README.md)
 124	7	Pape	misread	cmp B; was `PAPÈ`: the first word of the canto in normal case, and no accent in the print (the retype `Pape`)
 125	25	erowds	misprint	cmp A; the retype and Tesseract `erowds`, the base `crowds`
 126	18	mect	misprint	cmp A; the retype and Tesseract `mect`, the base `meet`
+126	18	30. Burlare	printed	read; two verse notes run on in one printed line
 127	3	squinteyed	printed	cmp B; the retype `squint-eyed`: `squint-` at a line end, joined (README.md)
 129	23	forth	misprint	cmp B; the retype `forth`, the base `forth.`; no period in the print
+132	5	fossato‘che	misprint	read; a turned comma set high
 132	25	vastâque	printed	cmp B; the retype `vastáque`: an italic circumflex
 139	1	Aud	misprint	cmp B; the retype `Aud`, the base `And`; a turned `n`
 139	1	For	printed	cmp A; the retype and Tesseract `Tor`: an `F` with its middle arm broken
 139	27	. . . .	misread	cmp B; was `. . .`: four points in the print
 139	27	diri	misprint	cmp A; the retype and Tesseract `diri`, the base `dira`
+142	19	rightly; ‘for	printed	read; an opening single quote, never closed, in the print (the Ottimo quoted)
+143	20	“more than seven times is put for any indefinite number.”	printed	read; the quotes as printed (Boccaccio's sentence quoted)
 148	7	ìl	misprint	cmp B; the retype `ìl`, the base `il`; an accent in the print
+148	10	i’	misprint	read; Inf. ix. 6 `l’`
 151	6	Vêr	misread	cmp B; was `Vèr`: a circumflex in the print
 156	10	vêr	misread	cmp B; was `vèr`: a circumflex in the print
 158	14	vôlto	misread	cmp B; was `vòlto`: a circumflex in the print
 160	20	. . . . . . .	misread	cmp B; was six points: seven in the print
 166	18	shall	printed	cmp B; the retype `soall`: an `h` whose ascender did not print
+168	1	Ah!	misprint	read; no opening quote printed
 169	19	sapiamo	printed	cmp B; the retype `sappiamo`
+169	22	pain	misprint	read; no closing period printed
+170	6	non	misprint	read; Inf. x. 117 `con`
+173	3	Circle	misprint	read; no closing period printed
 177	3	sccond	misprint	cmp A; the retype and Tesseract `sccond`, the base `second`
 177	20	1	printed	cmp A; the retype and Tesseract without the number: the note's number did not print; kept, as the text has its marker
+180	19	fire	misprint	read; no closing period printed (the only verse note so)
 181	1	tby	misprint	cmp B; the retype `tby`, the base `thy`
 181	5	sentenza.	misprint	cmp B; the retype `sentenza.`, the base `sentenza,`; a period in the print
 183	14	rcceive	misprint	cmp B; the retype `rcceive`, the base `receive`
 183	15	fænerator	printed	cmp B; the retype `fœnerator`, twice (`fæneraretur`): an italic `æ`
+186	14	le	misprint	read; Inf. xii. 10 `la`
 187	22	&c	misprint	cmp B; the retype `&c`, the base `&c.`; no period in the print
 187	22	1	printed	cmp A; the retype and Tesseract without the number: the note's number did not print; kept, as the text has its marker
 187	22	Ovid.	printed	cmp B; the retype `Ovid,`
 188	11	gìa	misprint	cmp B; the retype `[o gìa`, the base `Io già`; the `I` broken, an accent on the `i`
 191	9	E’	printed	cmp B; the retype `È`: the print `E` and a grave set after it, written `E’` by the base throughout
 191	20	Ovid.	printed	cmp B; the retype `Ovid,`
+192	24	way	misprint	read; no closing period printed
 194	9	E’	printed	cmp B; the retype `È`, as at `191`
 194	10	E’	printed	cmp B; the retype `È`, as at `191`
 197	3	Fredcrick	misprint	cmp B; the retype `Fredcrick`, the base `Frederick`
 199	20	fædissima	misprint	cmp B; the retype `fædissima` (`fæ-` at a line end), the base `fœdissima`; an italic `æ`
 213	23	Lit..	misprint	cmp B; the retype `Lit..`, the base `Lit.:`; a period for the colon
 214	19	Com.	printed	cmp B; the retype without the period: set close
+218	23	Astream	printed	read; the quotation of Monarchia as printed; not a misreading
+219	17	Corybantique	misprint	read; Æn. iii. 111 `Corybantiaque`
 220	1	uot	misprint	cmp A; the retype and Tesseract `uot`, the base `not`
 222	9	diretro	printed	cmp B; the retype `dietro`
 225	22	eyebrows	printed	cmp B; the retype `eye-brows`: a break at a line end
+228	5	heaven	misprint	read; Inf. xv. 56 `porto`; ocr/en-oelsner `haven`
 229	1	carth	misprint	cmp A; the retype and Tesseract `carth`, the base `earth`
 233	1	arisiug	misprint	cmp A; the retype and Tesseract `arisiug`, the base `arising`
 236	9	Già	printed	cmp B; the retype `Gia’`: the first word of a canto in small capitals, a grave set after them
 239	16	Viuse	misprint	cmp B; the retype `Viuse`, the base `Vinse`
+240	21	viii. 33	printed	read; the author's reference (Acts viii. 23) as printed
+242	22	i. 103	printed	read; the author's reference (Æn. i. 203) as printed
 243	16	Po	misprint	cmp A; the retype and Tesseract without the period, the base `Po.`
 244	14	Guidoguerra	misread	cmp B; was `Guido-guerra`: a break at a line end
 246	15	17	misprint	cmp A; the retype and Tesseract `17`, the base `7`
 247	3	leave	printed	cmp B; the retype `lenve`
 248	17	avca	misprint	cmp B; the retype `avca`, the base `avea`
+251	1	shoulders.	misprint	read; no closing quote printed after the speech begun on `250`
 251	22	accorsi	printed	cmp B; the retype `accorsi,`: a broken `i`, no comma
 258	16	udi’	printed	cmp B; the retype `udì`
+260	17	place	misprint	read; no closing period printed (found by searching for `192`)
 260	18	’	misprint	cmp A; the retype and Tesseract `’`, the base `”`
 261	8	immagine	misread	cmp A; was `imagine`
 265	16	leggieramente	printed	cmp B; the retype `leggiermente`
+265	23	Lit	misprint	read; `Lit:` printed (found by searching for `316`); `Lit.:` 117 times
 269	12	nou	misprint	cmp B; the retype `nou`, the base `non`
+269	12	er	misprint	read; Inf. xviii. 117 `era`; ocr/en-oelsner `era`
 270	3	me!”.	misprint	cmp A; the retype and Tesseract a period after the quote, the base without
 270	21	THR.	misread	cmp B; was `Thr.`; small capitals
 270	21	GN.	misread	cmp B; was `Gn.`; small capitals
 272	17	. . . .	misread	cmp B; was `. . .`: four points in the print
 272	18	MSS.	misread	the same as `029`; was `mss.`; small capitals
 273	12	Giovanui	misprint	cmp B; the retype `Giovanui`, the base `Giovanni`
+279	17	the the	misprint	read; the word doubled in the print
 279	19	threescore	misread	cmp B; was `three-score`: a break at a line end
+279	20	66	misprint	read; no closing period printed
 285	3	Forli	printed	cmp B; the retype `Forlì`
 290	17	gìo	printed	cmp B; the retype `giò`
 291	1	betwecn	misprint	cmp B; the retype `betwecn`, the base `between`
 292	19	1	printed	cmp B; the retype without the number: the note's number did not print; kept, as the text has its marker
+295	17	Forli:	misread	read; was `Forli :`, the space before the colon against the convention (found by a search after `304`)
 296	1	herbs’	misprint	cmp A; the retype and Tesseract `herbs’`, the base `herbs`
+296	19	times:	misread	read; was `times :`, the space before the colon against the convention (found by a search after `304`)
 300	3	marvellously	misread	cmp A; was `marvelously`
 301	21	Lit..	misprint	cmp A; the retype and Tesseract `Lit..`, the base `Lit.:`; as at `213`
+301	22	round	misprint	read; no closing period printed
+302	14	fornito	misprint	read; Inf. xxi. 40, `fornita` (the rhyme)
+304	9	Disser:	misread	read; was `Disser :`, the space before the colon against the convention
 308	1	Scaramiglione	misread	cmp A; was `Scarmiglione`; as in the index (`485`); the verse `Scarmiglione`
+309	1	treacherous.	printed	read; no closing quote: the speech goes on in the next paragraph
 309	15	Tramplegrace	misread	cmp A; was `Trample-grace`: a break at a line end
 309	15	farfalla	misread	cmp A; was `far-falla`: a break at a line end
 314	3	have	printed	cmp A; the retype and Tesseract `HAVE`: small capitals, the opening of a canto in normal case (as `136` `I say`)
 314	3	tho	misprint	cmp A; the retype and Tesseract `tho`, the base `the`
+316	22	Lit	misprint	read; `Lit:` printed, as at `265`, `395`
 317	22	household	misread	cmp B; was `house-hold`: a break at a line end (`household` at `406`)
+318	21	i. 29	printed	read; the author's reference as printed
 319	8	Poeo	misprint	cmp A; the retype and Tesseract `Poeo`, the base `Poco`
 328	1	casc	misprint	cmp A; the retype and Tesseract `casc`, the base `case`
 328	12	compìo	misread	cmp B; was `compiò`: the grave on the `i` in the print
@@ -121,6 +167,7 @@ page	line	form	decision	note
 336	10	costa,	misread	cmp B; was `costa`: a comma, set close, and a space after it
 338	19	ὢ	printed	cmp B; the retype `ὣ`; the breathing not clear in the print; the base kept
 339	21	cantc	misprint	cmp B; the retype `cantc`, the base `canto`
+340	23	ruin	misprint	read; no closing period printed
 344	5	Anfesibena	printed	cmp B; the retype `Anfesiḃena`: a speck
 349	3	transformations	printed	cmp B; the retype `trans-formations`: a break at a line end
 350	3	At	printed	cmp A; the retype and Tesseract `AT`: small capitals, the opening of a canto in normal case
@@ -134,6 +181,7 @@ page	line	form	decision	note
 365	21	levoro	printed	cmp B; the retype `levoron`
 365	23	Elisha.	misread	cmp B; was `Elisha,`: a period in the print
 368	11	Foichè	misprint	cmp B; the retype `Foichè`, the base `Poichè`
+371	13	polo.	misprint	read; Inf. xxvi. 127, a period before the verb `Vedea`; ocr/en-oelsner no point
 374	3	The	printed	cmp B; the retype `THE`: small capitals, the opening of a canto in normal case
 374	10	un-confuso	misprint	cmp B; the retype `un confuso`, the base `un-confuso` unmarked; a hyphen in the print
 375	3	el	misread	cmp A; was `ei`; the retype and Tesseract `el`, as printed
@@ -142,21 +190,26 @@ page	line	form	decision	note
 380	14	losened	printed	cmp B; the retype `loosened`
 384	8	partio	printed	cmp B; the retype `partìo`
 390	1	round:	misread	cmp A; was `round;`; the retype and Tesseract `:`, a colon in the print
+390	17	eloquence,”	misprint	read; the parenthesis of `(Dulcinus,` not closed in the print; closed after the quotation (decided with the user)
+395	24	Lit	misprint	read; `Lit:` printed (found by searching for `316`)
 396	22	withal:”	printed	cmp B; the retype `’`: the closing quote broken
 397	1	cach	misprint	cmp A; the retype and Tesseract `cach`, the base `each`
 402	8	udîl	printed	cmp B; the retype `udil`: the accent printed
 402	12	lo	misprint	cmp A; the retype and Tesseract `lo`, the base `la`
 402	20	occnpied	misprint	cmp B; the retype `occnpied`, the base `occupied`
 404	21	41.	printed	cmp B; the retype `41,`: a period in the print
+404	21	41,	misread	read; was `41.`, a comma whose tail did not print (a dot at the line end, before `xxi.`)
 407	3	uails	misprint	cmp A; the retype and Tesseract `uails`, the base `nails`
 409	1	sou	misprint	cmp B; the retype `sou`, the base `son`
 413	5	conversatiou	misprint	cmp B; the retype `conversatiou`, the base `conversation`
 414	18	tendcntem	misprint	cmp B; the retype `tendcntem`, the base `tendentem`
 424	3	dreams	printed	cmp A; the retype and Tesseract `dreams.`: a speck below the line
 424	11	E’	printed	cmp A; the retype and Tesseract `E`: the apostrophe printed, broken
+424	18	full eagerly	misread	read; was `fulleagerly`, a narrow word space in a tight line (as `the clear` below)
 429	20	itself,”	printed	cmp B; the retype `’`: the closing quote broken
 431	19	none	printed	cmp B; the retype `nune`: the `o` thin at the top
 436	21	badst	misprint	read; the base `hadst`
+436	21	Ibid	misprint	read; the period of `Ibid.` not printed
 441	3	turncd	misprint	read; the base `turned`; `beneath` in the line below a worn `e`, kept
 447	11	Si	misprint	read; the base `Sì`
 457	1	Thou	misprint	cmp A; the retype `Thou`, the base `‘Thou`: no opening quote printed
@@ -174,9 +227,24 @@ page	line	form	decision	note
 473	18	. . . .	misread	cmp B; was `. . .`; the retype four points, as printed
 474	14	. . . .	misread	cmp B; was `. . .`; the retype four points, as printed
 479	3	Abati	printed	cmp B; the retype `ABATI`: small capitals, the first word of the index in normal case (README.md)
+479	45	133	misprint	read; Inf. xxviii. 77, as `Cagnano, Angiolello` on `480`; `133` repeated from the line above
 480	11	Angustus	misprint	read; the base `Augustus`
+480	31	xi. 83	printed	read; the index, `Bolognese`: no Bolognese in Inf. xi; not a slip of the type, its place not found
+481	24	11	misprint	read; the index, `Ceuta`: Inf. xxvi. 111
 481	44	xxvii. 94.	printed	read; the period after `xxvii` faint
+482	16	xxv	misprint	read; the index, `Flemings`: Inf. xv. 4
+482	54	xx. 88	printed	index survey; `Greece`: no Greece near Inf. xx. 88 (`Grecia` at 108); not a slip of the type
 483	66	Maltestino	printed	read; the edition's spelling (also `377`, `392`)
+483	67	xxv	misprint	index survey; `Malebolge`: Inf. xxi. 5 names it
 484	21	Mordrec	misread	read; was `Mordred`; the print `Mordrec`, as in the note on `444`
+484	41	117	misprint	read; the index, `Obizzo d’ Este`: Inf. xii. 111, as `Este` on `482`
 484	47	xviii	misprint	read; the base `xvii`
+484	61	xxvii	misprint	read; the index, `Phaeton`: Inf. xvii. 107
+484	69	ix	misprint	read; the index, `Photinus`: Inf. xi. 8, as `Anastasius` on `479`
+484	70	128	misprint	index survey; `Piceno’s field`: Inf. xxiv. 148; `128` as the entry below
+484	72	128	misprint	read; the index, `Pier delle Vigne`: Inf. xiii. 58, as `Vigne` on `486`
+485	11	xvi	misprint	read; the index, `Prato`: Inf. xxvi. 9
+485	24	xxviii. 86	printed	read; the index, `Rhone`: Inf. ix. 112 (`Arles` on `479`); not a slip of the type
+485	27	114	misprint	read; the index, `Robert Guiscard`: Inf. xxviii. 14, as `Guiscard` on `482`
+485	75	xxviii	misprint	read; the index, `Thais`: Inf. xviii. 133
 486	27	xxx	misprint	read; the base `xxxiii`

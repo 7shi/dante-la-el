@@ -7,40 +7,61 @@ page	line	printed	fixed	applied	source	note
 081	3	aud	and	yes	edition	A turned `n`; the retype and Tesseract read `aud`; found by the retype.
 094	22	darkuess	darkness	yes	edition	Footnote 3; a turned `n`; the retype reads `darkuess`; found by the retype.
 096	32	tco	too	yes	edition	Footnote 3; `c` for the second `o`; the retype reads `tco`; found by the retype.
+111	26	nostris	nostros	yes	other	Canto V, a footnote; Æn. ii. 10 (`casus cognoscere nostros`); found by the read-through.
 123	5	chant	chant.	yes	edition	The argument of Canto VII; the period after `chant` did not print; the retype reads `chant`; found by the retype.
 125	25	erowds	crowds	yes	edition	Canto VI, a footnote; an `e` for the `c`; the retype and Tesseract read `erowds`; found by the retype.
 126	18	mect	meet	yes	edition	Canto VII, a verse note; a `c` for the `e`; the retype and Tesseract read `mect`; found by the retype.
 129	23	forth	forth.	yes	edition	Canto VII, the end of a footnote; the period did not print; found by the retype.
+132	5	fossato‘che	fossato, che	yes	edition	Inf. vii. 102; the comma turned and set high, no space; found by the read-through.
 132	20	piedo	piedi	yes	dante	Inf. vii. 113; the base copied `piedo` unmarked; the retype reads `piedo`.
 139	1	Aud	And	yes	edition	Canto VIII; a turned `n`; the retype and Tesseract read `Aud`; found by the retype.
 139	27	diri	dira	yes	other	Seneca, Thyestes, 347 (`Et dira mala pectoris`); the retype and Tesseract read `diri`; found by the retype.
 148	7	ìl	il	yes	dante	Inf. ix. 3; an accent on the `i`; the retype reads `ìl`; found by the retype.
+148	10	i’	l’	yes	dante	Inf. ix. 6; `Per l’ aer nero` (as in `ocr/en-oelsner`); found by the read-through.
+168	1	Ah!	“Ah!	yes	edition	Canto X; a speech opening a paragraph without its opening quote (closed by `rest,”`); found by the read-through.
+169	22	pain	pain.	yes	edition	Canto X, a footnote; the closing period not printed; found by the read-through.
+170	6	non	con	yes	dante	Inf. x. 117; `chi con lui si stava` (the prose `who was with him`; `ocr/en-oelsner` `con`); found by the read-through.
+173	3	Circle	Circle.	yes	edition	Canto XI, the Argument; the closing period not printed; found by the read-through.
 177	3	sccond	second	yes	edition	Canto XI; a `c` for the `e`; the retype and Tesseract read `sccond`; found by the retype.
+180	19	fire	fire.	yes	edition	Canto XI, verse note 73; the closing period not printed; found by the read-through.
 181	1	tby	thy	yes	edition	Canto XI; a `b` for the `h`; the retype reads `tby`; found by the retype.
 181	5	sentenza.	sentenza,	yes	dante	Inf. xi. 85, the sentence runs on; the retype reads `sentenza.`; found by the retype.
 183	14	rcceive	receive	yes	edition	Canto XI, a footnote; a `c` for the `e`; the retype reads `rcceive`; found by the retype.
+186	14	le	la	yes	dante	Inf. xii. 10; `era la scesa` (as in `ocr/en-oelsner`); found by the read-through.
 187	22	&c	&c.	yes	edition	Canto XII, a footnote; the period did not print; found by the retype.
 188	11	gìa	già	yes	dante	Inf. xii. 31; the accent on the `i`; the retype reads `gìa`; found by the retype.
+192	24	way	way.	yes	edition	Canto XII, a footnote; the closing period not printed; found by the read-through.
 197	3	Fredcrick	Frederick	yes	edition	The argument of Canto XIII; a `c` for the `e`; the retype reads `Fredcrick`; found by the retype.
 199	20	fædissima	fœdissima	yes	other	Æn. iii. 216 (`foedissima`); an italic `æ`, as in `fænerator` (`183`); the retype reads `fædissima`; found by the retype.
 213	23	Lit..	Lit.:	yes	edition	Canto XIV, a footnote; a period for the colon, as `Lit.:` elsewhere; the retype and Tesseract read `Lit..`; found by the retype.
+219	17	Corybantique	Corybantiaque	yes	other	Canto XIV, a footnote; Æn. iii. 111 (`Corybantiaque aera`); found by the read-through.
 220	1	uot	not	yes	edition	Canto XIV; a turned `n`; the retype and Tesseract read `uot`; found by the retype.
+228	5	heaven	haven	yes	edition	Canto XV; Dante `porto` (Inf. xv. 56), ocr/en-oelsner `haven`; found by the read-through.
 229	1	carth	earth	yes	edition	Canto XV; a `c` for the `e`; the retype and Tesseract read `carth`; found by the retype.
 233	1	arisiug	arising	yes	edition	Canto XV; a turned `n`; the retype and Tesseract read `arisiug`; found by the retype.
 239	16	Viuse	Vinse	yes	dante	Inf. xvi. 50; a turned `n`; the retype reads `Viuse`; found by the retype.
 243	16	Po	Po.	yes	edition	Canto XVI, the end of a footnote; the period did not print; found by the retype.
 246	15	17	7	yes	other	Rev. xi. 7 (`the beast that ascendeth out of the bottomless pit`); the retype and Tesseract read `17`; found by the retype.
 248	17	avca	avea	yes	dante	Inf. xvii. 11; a `c` for the `e`; the retype reads `avca`; found by the retype.
+251	1	shoulders.	shoulders.”	yes	edition	Canto XVII; the closing quote of Virgil's speech begun on `250` not printed; found by the read-through.
+260	17	place	place.	yes	edition	Canto XVIII, a footnote; the closing period not printed; found by a search after `192`.
 260	18	’	”	yes	edition	Canto XVIII, a footnote; a single closing quote after the double opening one; the retype reads `’`; found by the retype.
+265	23	Lit	Lit.	yes	edition	Canto XVIII, a footnote; the period of `Lit.:` not printed (`Lit.:` elsewhere), as at `316`, `395`; found by the read-through.
 269	12	nou	non	yes	dante	Inf. xviii. 117; a turned `n`; the retype reads `nou`; found by the retype.
+269	12	er	era	yes	dante	Inf. xviii. 117; ocr/en-oelsner `era`; found by the read-through.
 270	1	me!”.	me!”	yes	edition	Canto XVIII, the end of a paragraph; a period set after the closing quote; the retype reads `me!” .`; found by the retype.
 270	10	sozzo	sozza	yes	dante	Inf. xviii. 130; the base copied `sozzo` unmarked; the retype reads `sozzo`.
 272	14	delle	dello	yes	dante	Inf. xix. 8; the base copied `delle` unmarked; the retype reads `delle`.
 273	12	Giovanui	Giovanni	yes	dante	Inf. xix. 17; a turned `n`; the retype reads `Giovanui`; found by the retype.
+279	17	the the	the	yes	edition	Canto XIX, a footnote; the word doubled; found by the read-through.
+279	20	66	66.	yes	edition	Canto XIX, the end of a footnote; the closing period not printed; found by the read-through.
 291	1	betwecn	between	yes	edition	Canto XX; a `c` for the `e`; the retype reads `betwecn`; found by the retype.
 296	1	herbs’	herbs	yes	edition	Canto XX; an apostrophe after `herbs`; the retype and Tesseract read `herbs’`; found by the retype.
 301	21	Lit..	Lit.:	yes	edition	Canto XXI, a footnote; a period for the colon, as at `213`; the retype and Tesseract read `Lit..`; found by the retype.
+301	22	round	round.	yes	edition	Canto XXI, a footnote; the closing period not printed; found by the read-through.
+302	14	fornito	fornita	yes	dante	Inf. xxi. 40; `fornita` with `terra` and the rhyme `Zita`; found by the read-through.
 314	3	tho	the	yes	edition	Canto XXII; an `o` for the `e`; the retype and Tesseract read `tho`; found by the retype.
+316	22	Lit	Lit.	yes	edition	Canto XXII, a footnote; the period of `Lit.:` not printed, as at `265`, `395`; found by the read-through.
 319	8	Poeo	Poco	yes	dante	Inf. xxii. 67; an `e` for the `c`; the retype and Tesseract read `Poeo`; found by the retype.
 328	1	casc	case	yes	edition	Canto XXIII; a `c` for the `e`; the retype and Tesseract read `casc`; found by the retype.
 328	12	rendcre	rendere	yes	dante	Inf. xxiii. 34; a `c` for the `e`; the retype reads `rendcre`; found by the retype.
@@ -48,12 +69,16 @@ page	line	printed	fixed	applied	source	note
 329	3	rcached	reached	yes	edition	Canto XXIII; a `c` for the `e`; the retype reads `rcached`; found by the retype.
 330	20	somc	some	yes	edition	Canto XXIII, a footnote; a `c` for the `e`; the retype reads `somc`; found by the retype.
 339	21	cantc	canto	yes	edition	Canto XXIV, a footnote; a `c` for the `o`; the retype and Tesseract read `cantc`/`cante`; found by the retype.
+340	23	ruin	ruin.	yes	edition	Canto XXIV, a footnote; the closing period not printed; found by the read-through.
 350	19	Lit..	Lit.:	yes	edition	Canto XXV, a footnote; a period for the colon, as at `213`; the base copied `Lit..` unmarked; Tesseract reads `Lit..`, the retype `Lit.:`.
 352	10	Por	Per	yes	dante	Inf. xxv. 29; the base copied `Por` unmarked; Tesseract reads `Por`, the retype `Per`.
 363	15	skort	short	yes	edition	Canto XXIV, a footnote; a `k` for the `h`; the retype and Tesseract read `skort`; found by the retype.
 368	11	Foichè	Poichè	yes	dante	Inf. xxvi. 76; an `F` for the `P`; the retype reads `Foichè`; found by the retype.
+371	13	polo.	polo	yes	dante	Inf. xxvi. 127; a period breaking the sentence before `Vedea la notte`; ocr/en-oelsner has no point; found by the read-through.
 374	10	un-confuso	un confuso	yes	dante	Inf. xxvii. 6; a hyphen set between the words; the base copied `un-confuso` unmarked; found by the retype (`un confuso`).
 378	21	Imolo	Imola	yes	edition	Canto XXVII, a footnote; an `o` for the `a`; the retype and Tesseract read `Imolo`; found by the retype.
+390	17	eloquence,”	eloquence,”)	yes	edition	Canto XXVIII, a footnote; the parenthesis of `(Dulcinus,` not closed; closed after the quotation (decided with the user); found by the read-through.
+395	24	Lit	Lit.	yes	edition	Canto XXVIII, a footnote; the period of `Lit.:` not printed, as at `265`, `316`; found by the read-through.
 397	1	cach	each	yes	edition	Canto XXVIII; a `c` for the `e`; the retype and Tesseract read `cach`; found by the retype.
 402	12	lo	la	yes	dante	Inf. xxix. 31; an `o` for the `a`; the retype and Tesseract read `lo`, the base `la`; found by the retype.
 402	20	occnpied	occupied	yes	edition	Canto XXIX, a footnote; a turned `u`; the retype reads `occnpied`, Tesseract `occupied`; found by the retype.
@@ -62,11 +87,24 @@ page	line	printed	fixed	applied	source	note
 413	5	conversatiou	conversation	yes	edition	The argument of Canto XXX; a turned `n`; the retype reads `conversatiou`, Tesseract `conversation`; found by the retype.
 414	18	tendcntem	tendentem	yes	edition	Canto XXX, a footnote (Ovid, Met. iv); a `c` for the `e`; the retype reads `tendcntem`, Tesseract `tendentem`; found by the retype.
 436	21	badst	hadst	yes	edition	Canto XXXI, a footnote; a `b` for the `h`; Tesseract reads `badst`; found in the image (retype 20, read by la-el-claude).
+436	21	Ibid	Ibid.	yes	edition	Canto XXXI, a footnote; the period of `Ibid.` not printed; found by the read-through.
 441	3	turncd	turned	yes	edition	Canto XXXII; a `c` for the `e`; Tesseract reads `turned`; found in the image (retype 20, read by la-el-claude).
 447	11	Si	Sì	yes	dante	Inf. xxxii. 90; the accent did not print; Tesseract reads `Si`; found in the image (retype 20, read by la-el-claude).
 457	1	Thou	‘Thou	yes	edition	Canto XXXIII; the opening quote of Anselm's words did not print; the retype reads `Thou`; found by the retype.
 467	22	Lit..	Lit.:	yes	edition	Canto XXXIV, a footnote; a period for the colon of `Lit.:`; the retype reads `Lit..`; found by the retype.
 468	22	Par	Par.	yes	edition	Canto XXXIV, a footnote; the period after `Par` did not print; the retype reads `Par`; found by the retype.
+479	45	133	77	yes	edition	The index; Inf. xxviii. 77, as the entry `Cagnano, Angiolello` on `480`; `133` repeated from the line above; found by the read-through.
 480	11	Angustus	Augustus	yes	edition	The index; a turned `u`; Tesseract reads `Augustus`; found in the image (retype 22, read by la-el-claude).
+481	24	11	111	yes	edition	The index, `Ceuta`: Inf. xxvi. 111; found by the read-through.
+482	16	xxv	xv	yes	edition	The index, `Flemings`: Inf. xv. 4; found by the read-through.
+483	67	xxv	xxi	yes	edition	The index, `Malebolge`: Inf. xxi. 5 names it; found by the survey of the index.
+484	41	117	111	yes	edition	The index, `Obizzo d’ Este`: Inf. xii. 111, as the entry `Este` on `482`; found by the read-through.
 484	47	xviii	xvii	yes	edition	The index, `Paduans`: they are in Canto XVII (v. 70); Tesseract reads `xviii`; found in the image (retype 22, read by la-el-claude).
+484	61	xxvii	xvii	yes	edition	The index, `Phaeton`: Inf. xvii. 107; found by the read-through.
+484	69	ix	xi	yes	edition	The index, `Photinus`: Inf. xi. 8, as the entry `Anastasius` on `479`; found by the read-through.
+484	70	128	148	yes	edition	The index, `Piceno’s field`: Inf. xxiv. 148; `128` as the entry below; found by the survey of the index.
+484	72	128	58	yes	edition	The index, `Pier delle Vigne`: Inf. xiii. 58, as the entry `Vigne` on `486`; found by the read-through.
+485	11	xvi	xxvi	yes	edition	The index, `Prato`: Inf. xxvi. 9; found by the read-through.
+485	27	114	14	yes	edition	The index, `Robert Guiscard`: Inf. xxviii. 14, as the entry `Guiscard` on `482`; found by the read-through.
+485	75	xxviii	xviii	yes	edition	The index, `Thais`: Inf. xviii. 133; found by the read-through.
 486	27	xxx	xxxiii	yes	edition	The index, `Ugolino`: Canto XXXIII opens with him; Tesseract reads `xx:`; found in the image (retype 22, read by la-el-claude).

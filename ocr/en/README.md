@@ -75,5 +75,6 @@ Italian, using these as references:
 | Proofreading | Gemini 3.8 Flash |
 | Index ([INDEX.md](INDEX.md)) | Gemini 3.8 Flash |
 | Final check | Claude Opus 5.5 |
+| Check: retype and read-through ([SUMMARY.md](SUMMARY.md)) | Gemini 3.8 Flash (la-el-agy); decisions in the images by Claude Opus 5.5 |
 
 Later versions of Ollama loop on this model, so v0.23.4 was used.

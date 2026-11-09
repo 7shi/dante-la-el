@@ -38,7 +38,7 @@ Nimrod, xxxi. 77.
 Ninus, v. 59.
 Nisus, i. 108.
 Novarese, xxviii. 59.
-Obizzo d’ Este, xii. 117; xviii. 56.
+Obizzo d’ Este, xii. {{117|111}}; xviii. 56.
 Ordelaffi, xxvii. 45.
 Orlando, xxxi. 17.
 Orpheus, iv. 140.
@@ -58,7 +58,7 @@ Penthesilea, iv. 124.
 Perillus, xxvii. 7.
 Peschiera, xx. 70.
 Peter, Saint, i. 134; ii. 24; xix. 91, 94.
-Phaeton, xxvii. 107.
+Phaeton, {{xxvii|xvii}}. 107.
 Phalaris, xxvii. 7.
 Pharisees, xxiii. 116; xxvii. 85.
 Philip the Fair, xix. 85.
@@ -66,10 +66,10 @@ Phlegethon, xiv. 116.
 Phlegyas, viii. 19, 24.
 Phœnix, xxiv. 107.
 Pholus, Centaur, xii. 72.
-Photinus, ix. 8.
-Piceno’s field, xxiv. 128.
+Photinus, {{ix|xi}}. 8.
+Piceno’s field, xxiv. {{128|148}}.
 Pier da Medicina, xxviii. 73.
-— delle Vigne, xiii. 128.
+— delle Vigne, xiii. {{128|58}}.
 Pietrapana, mount, xxxii. 29.
 Pinamonte, xx. 96.
 Pisa, xxxiii. 79.

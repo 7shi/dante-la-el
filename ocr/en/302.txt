@@ -11,7 +11,7 @@ Ed ei tenea de’ piè ghermito il nerbo.
 Del nostro ponte, disse, o Malebranche,
 Ecco un degli Anzian di Santa Zita:
 Mettetel sotto, ch’ io torno per anche
-A quella terra che n’ è ben fornito.
+A quella terra che n’ è ben {{fornito|fornita}}.
 
 1 Or: “Light upon his feet.”
 2 A sinner laded the gibbous shoulders of him; and he held the “sinew” (tendon of Achilles that lifts the heel) grasped in his clutches.

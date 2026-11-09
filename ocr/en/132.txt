@@ -2,7 +2,7 @@ We crossed the circle, to the other bank; near a fount, that boils and pours dow
 
 Noi ricidemmo il cerchio all’ altra riva
 Sovr’ una fonte, che bolle, e riversa
-Per un fossato‘che da lei diriva.
+Per un {{fossato‘che|fossato, che}} da lei diriva.
 
 L’ acqua era buia molto più che persa:
 E noi, in compagnia dell’ onde bige,

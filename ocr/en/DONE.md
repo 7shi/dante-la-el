@@ -257,3 +257,121 @@ The record of the check of `ocr/en` planned in [PLAN.md](PLAN.md), step by step.
   agy stopped after `431`, and `431`–`455` were read by la-el-claude (Opus 5.5) against the image
   instead; retype 22 (the index) was read the same way, with no retype. Step 1 (with the
   decisions of step 2) is done for all pages.
+
+## Step 3: read-through, the trial (2026-11-09)
+
+- **Trial** (la-el-agy, Gemini 3.8 Flash): `301`–`320` (19 pages, 5,050 words), as
+  `texts/en` stood before step 2 (`7596bcea`), so that the misreadings step 2 fixed there
+  could be counted. 8 places flagged:
+  - All four misreadings step 2 had fixed were flagged: `308` `Scarmiglione` (the base's
+    form, also the verse's; the print `Scaramiglione`), `309` `Trample-grace`,
+    `far-falla`, `317` `house-hold` (breaks at a line end).
+  - Misprints, new: `301` `round` (no closing period), `302` `fornito` (Inf. xxi. 40,
+    `fornita` by the rhyme; the comparison with dante-corpus let it pass), `316` `Lit:`
+    (the period not printed; found by a search also at `265` and `395`, against `Lit.:`
+    117 times). Marked and listed.
+  - Printed: `309` `treacherous.` without a closing quote (the speech goes on in the next
+    paragraph).
+  - The three misprints of step 2 in these pages (`301` `Lit..`, `314` `tho`, `319`
+    `Poeo`) are corrected in `texts/en`, so the reader could not see them.
+  - `convert_en.py` and `misprints.py` unchanged against the baseline (76 rows, 76 marks).
+
+## Step 3: read-through, the batches (2026-11-09)
+
+- **Read 01** (la-el-agy, Gemini 3.8 Flash): `005`–`029` (22 pages; the title pages
+  `005`–`010` added by hand, their markers `<!-- (005) -->` not cut by `pages.py`). 8
+  places flagged, no misreading:
+  - A fault of the converter: in the front matter a note continued from the previous page
+    became prose (`parse_plain` had no continued notes), and a word broken across the page
+    (`022` `read-`/`023` `ings`) stayed broken. Flagged on `021`–`025`; the other
+    front-matter pages after a page with notes looked at in the image: continued notes
+    also on `033`, `042` and `048` (`035`, `052` none). `convert_en.py` now takes them
+    from a table (`CONT_BLOCKS`; `CONT_VERSE` for `048`, whose continuation begins with a
+    verse quotation as a paragraph of its own).
+  - Printed: `022` `nolUEDEA` (joined in the print, an early edition quoted).
+  - `convert_en.py` (its log) and `misprints.py` unchanged against the baseline.
+- **Read 02** (Gemini 3.8 Flash): `030`–`054` (25 pages), cut before the converter was
+  fixed. 8 places flagged, no misreading: 6 the continued notes of `033`, `042`, `048`
+  (fixed after read 01); `054` `Ibid. v. 118` printed (Par. xvii. 118, the author's
+  reference); `054` `# Canto I`, the next file's heading cut into the batch by `pages.py`.
+- **Read 03** (Gemini 3.8 Flash): `055`–`079` (25 pages). 3 places flagged: misreadings
+  of the line structure, `074` (a paragraph broken after `circles!¹`) and `077` (verse
+  note 127 on two lines), joined; `073` `O Lady` without an opening quote, printed.
+- **Read 04** (Gemini 3.8 Flash): `080`–`104` (25 pages). 3 places flagged, all printed:
+  `081` `lagrimai` without a comma, `098` `Penthesilea. On` and `Pentesilea.` (the reader
+  said "the printed edition has" a comma: not so in the image).
+- **Read 05** (Gemini 3.8 Flash): `105`–`129` (25 pages). 4 places flagged: a misprint,
+  `111` `nostris` (Æn. ii. 10, `nostros`), marked and listed; printed, `117` `lei;`,
+  `121` `tanto, scendi,`, `126` notes 24 and 30 in one line (so printed).
+- **Read 06** (Gemini 3.8 Flash): `130`–`154` (24 pages). 4 places flagged: misprints,
+  `132` `fossato‘che` (a turned comma) and `148` `i’` (Inf. ix. 6, `l’`), marked and
+  listed; printed, `142` `‘for` (an opening quote never closed) and `143` the quotes of
+  Boccaccio's sentence.
+- **Read 07** (Gemini 3.8 Flash): `155`–`179` (25 pages). 4 places flagged, all
+  misprints, marked and listed: `168` `Ah!` (no opening quote), `169` `pain` and `173`
+  `Circle` (no closing period), `170` `non` (Inf. x. 117, `con`).
+- **Read 08** (Gemini 3.8 Flash): `180`–`204` (25 pages). 3 places flagged, all
+  misprints: `180` `fire` and `192` `way` (no closing period), `186` `le` (Inf. xii. 10,
+  `la`). A search for notes ending without a period found one more, `260` `place`. Marked
+  and listed.
+- **Read 09** (Gemini 3.8 Flash): `205`–`229` (25 pages). 3 places flagged: misprints
+  `219` `Corybantique` (Æn. iii. 111, `Corybantiaque`) and `228` `glorious heaven` (Inf. xv.
+  56 `porto`; `haven` in ocr/en-oelsner); `218` `Astream` in the quotation of the Monarchia
+  is printed.
+- **Read 10** (Gemini 3.8 Flash): `230`–`254` (25 pages). 3 places flagged: `251`
+  `shoulders.` a misprint (the closing quote of the speech begun on `250` not printed);
+  `240` `Acts viii. 33` and `242` `Æn. i. 103` the author's references as printed (the
+  reader claimed `23` and `203` were printed; the image shows `33` and `103`).
+- **Read 11** (Gemini 3.8 Flash): `255`–`279` (25 pages). 3 places flagged, all
+  misprints: `269` `s’ er` (Inf. xviii. 117, `era`, as ocr/en-oelsner), `279` `the the`
+  (a word doubled) and `279` `ix. 66` (no closing period). Marked and listed.
+- **Read 12** (Gemini 3.8 Flash): `280`–`304` (23 pages). 1 place flagged: `304` `Disser :`,
+  a space before the colon against the convention (the print spaces every colon,
+  `ocr/en` writes none); a search found two more, `295` and `296`. Fixed as misreadings.
+- **Read 13** (Gemini 3.8 Flash): `305`–`329` (24 pages; the trial pages read again).
+  1 place flagged: `318` `De Vulg. Eloq. i. 29`, the author's reference as printed (the
+  reader claimed `i. 9` was printed).
+- **Read 14** (Gemini 3.8 Flash): `330`–`354` (25 pages). 1 place flagged: `340` `Last
+  stone of the ruin`, a misprint (no closing period; the note is not continued). Marked
+  and listed.
+- **Read 15** (Gemini 3.8 Flash): `355`–`379` (25 pages). 1 place flagged: `371` `altro
+  polo.`, a misprint (Inf. xxvi. 127; a period before the verb `Vedea`, none in
+  ocr/en-oelsner). Marked and listed.
+- **Read 16** (Gemini 3.8 Flash): `380`–`404` (24 pages). 2 places flagged: `404`
+  `xix. 41.` a misreading (a comma whose tail did not print, at the line end; fixed to
+  `41,`); `390` `(Dulcinus,`, the parenthesis never closed: a misprint, closed after the
+  quotation `eloquence,”` (decided with the user).
+- **Read 17** (Gemini 3.8 Flash): `405`–`429` (23 pages). 1 place flagged: `424`
+  `fulleagerly`, a misreading (a narrow word space in a tight line); fixed to `full
+  eagerly`.
+- **Read 18** (Gemini 3.8 Flash): `430`–`454` (25 pages). 1 place flagged: `436` `Ibid
+  596.`, a misprint (the period of `Ibid.` not printed). Marked and listed.
+- **Read 19** (Gemini 3.8 Flash): `455`–`479` (24 pages). 1 place flagged: `479`
+  `Angiolello, Cagnano, xxviii. 133.`, a misprint (Inf. xxviii. 77, as the entry on `480`;
+  `133` repeated from the line above). Marked and listed.
+- **Read 20** (Gemini 3.8 Flash): `480`–`486` (7 pages, the index). 11 references
+  flagged, all as printed. 9 are misprints, a slip of the type each, the place confirmed by
+  the verse in `texts/en` and, for four, by another entry: `481` `Ceuta` `11` (`111`), `482`
+  `Flemings` `xxv` (`xv`), `484` `Obizzo` `117` (`111`), `Phaeton` `xxvii` (`xvii`),
+  `Photinus` `ix` (`xi`), `delle Vigne` `128` (`58`), `485` `Prato` `xvi` (`xxvi`), `Robert
+  Guiscard` `114` (`14`), `Thais` `xxviii` (`xviii`). 2 are printed: `480` `Bolognese, xi.
+  83` and `485` `Rhone, xxviii. 86` (Inf. ix. 112), wrong but no slip of the type, the
+  first with no place found.
+
+The read-through is done for all 469 pages: 20 batches on Gemini 3.8 Flash, 66 places
+flagged (8 more in the trial). With the trial and the searches after a flag, its rows of
+readcheck.tsv (`read`) are 42 misprints marked, 8 misreadings fixed and 24 places as
+printed; besides, one fault of `convert_en.py` found and fixed (the
+continued notes of the front matter).
+
+## Survey of the index (2026-11-10)
+
+Asked by the user after read 20, which found 9 misprinted references in the index. A
+script (in the scratchpad, not kept) took every reference of the index (`479`–`486`), found
+the verse by the printed verse numbers of `texts/en`, and listed those whose name, or a
+like word, is not in the verse or the four on each side: 93 of them. Most name the person
+or place another way (`Annas`, `il suocero`; `Fortune`, `ministra e duce`), read one by one.
+Three are not: `483` `Malebolge, xxv. 5` (Inf. xxi. 5) and `484` `Piceno’s field, xxiv.
+128` (Inf. xxiv. 148; `128` as the entry below) are misprints, marked and listed; `482`
+`Greece, xx. 88` is printed (no slip of the type explains it). misprints.tsv is now 109
+rows.

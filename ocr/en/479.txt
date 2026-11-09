@@ -42,7 +42,7 @@ Anastasius, Pope, xi. 8.
 Anaxagoras, iv. 137.
 Anchises, i. 74.
 Andrea, St., Jacopo da, xiii. 133.
-Angiolello, Cagnano, xxviii. 133.
+Angiolello, Cagnano, xxviii. {{133|77}}.
 Annas, xxiii. 121.
 Anselmuccio, xxxiii. 50.
 Antæus, xxxi. 100.
