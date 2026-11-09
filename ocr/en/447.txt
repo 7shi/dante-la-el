@@ -8,7 +8,7 @@ Then I seized him by the afterscalp, and said: “It will be necessary that thou
 
 Or tu chi sei, che vai per l’ Antenora
 Percotendo, rispose, altrui le gote,
-Sì che, se vivo fossi, troppo fora?
+{{Si|Sì}} che, se vivo fossi, troppo fora?
 Vivo son io; e caro esser ti puote,
 Fu mia risposta, se domandi fama,
 Ch’ io metta il nome tuo tra l’ altre note.

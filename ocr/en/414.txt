@@ -15,4 +15,4 @@ Prendendo l’ un che avea nome Learco,
 E rotollo, e percosselo ad un sasso;
 
 1 Compare Ovid. Metam. iv. 416-561; and note the brevity of Dante, and the fresh touches by which he shews the very heart of the story, here as elsewhere.
-2 His retia tendite silvis: Hic modo cum gemina visa est mihi prole leæna . . . . Deque sinu matris ridentem, et parva Learchum Brachia tendentem, rapit, et bis terque per auras More rotat fundæ, rigidoque infantia saxo Discutit ossa ferox, &c. And then Ino, the mother: Seque super pontum, nullo tardata timore, Mittit, onusque suum, &c. Ibid. iv. 512, &c.
+2 His retia tendite silvis: Hic modo cum gemina visa est mihi prole leæna . . . . Deque sinu matris ridentem, et parva Learchum Brachia {{tendcntem|tendentem}}, rapit, et bis terque per auras More rotat fundæ, rigidoque infantia saxo Discutit ossa ferox, &c. And then Ino, the mother: Seque super pontum, nullo tardata timore, Mittit, onusque suum, &c. Ibid. iv. 512, &c.

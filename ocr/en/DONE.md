@@ -221,3 +221,39 @@ The record of the check of `ocr/en` planned in [PLAN.md](PLAN.md), step by step.
   `317`, `328`, `336`, `353`, `365`, `390` (line-end breaks, a letter, an accent, points);
   the rest misprints the base had corrected or copied unmarked, and the retype's own
   errors, a few a batch.
+- **Retype 19** (Gemini 3.8 Flash): 25 pages, `401`–`428` (without `412` and `426`, blank,
+  and `415`, retype 03); all written, none mixed up, in the layout asked. 10 places (A 4,
+  B 6, C 0):
+  - Misprints the base had corrected: `402` `lo` (Inf. xxix. 31, `la`), `402` `occnpied`,
+    `407` `uails`, `409` `sou`, `413` `conversatiou`, `414` `tendcntem`. Marked and listed.
+  - The retype wrong: `402` `udil` (the accent dropped), `404` `41,` for `41.`, `424`
+    `dreams.` (a speck), `424` `E` for `E’` (the apostrophe broken).
+- **Retype 20** (Gemini 3.8 Flash, stopped by an error after `431`): 25 pages, `429`–`455`
+  (without `445`, retype 03, and `454`, retype 01). The retype's `429`–`431` compared (2
+  places, B 2: `429` `’` for a broken `”`, `431` `nune` for `none` with a thin `o`; the
+  base kept); `431`–`455` read against the image by la-el-claude instead of a retype, the
+  base line by line beside 1.6× crops of each page, doubtful letters enlarged. No
+  misreading of the base; misprints the base had corrected: `436` `badst`, `441` `turncd`,
+  `447` `Si` (Inf. xxxii. 90, `Sì`). Marked and listed.
+- **Retype 22** (no retype; read by la-el-claude while retype 21 ran): 8 pages, `477`,
+  `480`–`486` (the index; `478` excluded, `479` retype 01), read against the image as
+  `431`–`455` in retype 20. A misreading of the base: `484` `Mordred`, `Mordrec` in the
+  print (as in the note on `444`); corrected. Misprints the base had corrected: `480`
+  `Angustus`, `484` `xviii` (the Paduans, Canto XVII), `486` `xxx` (Ugolino, Canto XXXIII).
+  Marked and listed. `483` `Maltestino` is the edition's spelling (`377`, `392`), kept.
+- **Retype 21** (Gemini 3.8 Flash): 21 pages, `456`–`476` (the end of the cantos); all
+  written, none mixed up, in the layout asked. 15 places (A 2, B 13, C 0):
+  - Misreadings of the base: `462` `‘Now … fruit!’` (double quotes in the print, as
+    `“little Alberic”` in the same note), `462` `Hell.”` and `467` `fair;` (commas in the
+    print), `468` `rood. ...` (three points), and `467`, `473`, `474` three points for
+    four. Corrected.
+  - Misprints the base had corrected: `457` `Thou` (no opening quote), `467` `Lit..`,
+    `468` `Par`. Marked and listed.
+  - The retype wrong: `460` `Riempron`, `465` `travailed`, `469` `. .` for one point,
+    `471` a quote for the breathing of `Ἑταῖρε`.
+- **`401`–`486` done** (retypes 19–22, 79 pages): misreadings of the base in `462`, `467`,
+  `468`, `473`, `474`, `484` (points, quotes, a letter); the rest misprints the base had
+  corrected, and the retype's own errors. Two batches differ from the plan: in retype 20
+  agy stopped after `431`, and `431`–`455` were read by la-el-claude against the image
+  instead; retype 22 (the index) was read the same way, with no retype. Step 1 (with the
+  decisions of step 2) is done for all pages.

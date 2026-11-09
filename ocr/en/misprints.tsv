@@ -55,3 +55,18 @@ page	line	printed	fixed	applied	source	note
 374	10	un-confuso	un confuso	yes	dante	Inf. xxvii. 6; a hyphen set between the words; the base copied `un-confuso` unmarked; found by the retype (`un confuso`).
 378	21	Imolo	Imola	yes	edition	Canto XXVII, a footnote; an `o` for the `a`; the retype and Tesseract read `Imolo`; found by the retype.
 397	1	cach	each	yes	edition	Canto XXVIII; a `c` for the `e`; the retype and Tesseract read `cach`; found by the retype.
+402	12	lo	la	yes	dante	Inf. xxix. 31; an `o` for the `a`; the retype and Tesseract read `lo`, the base `la`; found by the retype.
+402	20	occnpied	occupied	yes	edition	Canto XXIX, a footnote; a turned `u`; the retype reads `occnpied`, Tesseract `occupied`; found by the retype.
+407	3	uails	nails	yes	edition	Canto XXIX; a turned `n`; the retype and Tesseract read `uails`; found by the retype.
+409	1	sou	son	yes	edition	Canto XXIX; a turned `n`; the retype reads `sou`, Tesseract `son`; found by the retype.
+413	5	conversatiou	conversation	yes	edition	The argument of Canto XXX; a turned `n`; the retype reads `conversatiou`, Tesseract `conversation`; found by the retype.
+414	18	tendcntem	tendentem	yes	edition	Canto XXX, a footnote (Ovid, Met. iv); a `c` for the `e`; the retype reads `tendcntem`, Tesseract `tendentem`; found by the retype.
+436	21	badst	hadst	yes	edition	Canto XXXI, a footnote; a `b` for the `h`; Tesseract reads `badst`; found in the image (retype 20, read by la-el-claude).
+441	3	turncd	turned	yes	edition	Canto XXXII; a `c` for the `e`; Tesseract reads `turned`; found in the image (retype 20, read by la-el-claude).
+447	11	Si	Sì	yes	dante	Inf. xxxii. 90; the accent did not print; Tesseract reads `Si`; found in the image (retype 20, read by la-el-claude).
+457	1	Thou	‘Thou	yes	edition	Canto XXXIII; the opening quote of Anselm's words did not print; the retype reads `Thou`; found by the retype.
+467	22	Lit..	Lit.:	yes	edition	Canto XXXIV, a footnote; a period for the colon of `Lit.:`; the retype reads `Lit..`; found by the retype.
+468	22	Par	Par.	yes	edition	Canto XXXIV, a footnote; the period after `Par` did not print; the retype reads `Par`; found by the retype.
+480	11	Angustus	Augustus	yes	edition	The index; a turned `u`; Tesseract reads `Augustus`; found in the image (retype 22, read by la-el-claude).
+484	47	xviii	xvii	yes	edition	The index, `Paduans`: they are in Canto XVII (v. 70); Tesseract reads `xviii`; found in the image (retype 22, read by la-el-claude).
+486	27	xxx	xxxiii	yes	edition	The index, `Ugolino`: Canto XXXIII opens with him; Tesseract reads `xx:`; found in the image (retype 22, read by la-el-claude).

@@ -144,4 +144,39 @@ page	line	form	decision	note
 390	1	round:	misread	cmp A; was `round;`; the retype and Tesseract `:`, a colon in the print
 396	22	withal:”	printed	cmp B; the retype `’`: the closing quote broken
 397	1	cach	misprint	cmp A; the retype and Tesseract `cach`, the base `each`
+402	8	udîl	printed	cmp B; the retype `udil`: the accent printed
+402	12	lo	misprint	cmp A; the retype and Tesseract `lo`, the base `la`
+402	20	occnpied	misprint	cmp B; the retype `occnpied`, the base `occupied`
+404	21	41.	printed	cmp B; the retype `41,`: a period in the print
+407	3	uails	misprint	cmp A; the retype and Tesseract `uails`, the base `nails`
+409	1	sou	misprint	cmp B; the retype `sou`, the base `son`
+413	5	conversatiou	misprint	cmp B; the retype `conversatiou`, the base `conversation`
+414	18	tendcntem	misprint	cmp B; the retype `tendcntem`, the base `tendentem`
+424	3	dreams	printed	cmp A; the retype and Tesseract `dreams.`: a speck below the line
+424	11	E’	printed	cmp A; the retype and Tesseract `E`: the apostrophe printed, broken
+429	20	itself,”	printed	cmp B; the retype `’`: the closing quote broken
+431	19	none	printed	cmp B; the retype `nune`: the `o` thin at the top
+436	21	badst	misprint	read; the base `hadst`
+441	3	turncd	misprint	read; the base `turned`; `beneath` in the line below a worn `e`, kept
+447	11	Si	misprint	read; the base `Sì`
+457	1	Thou	misprint	cmp A; the retype `Thou`, the base `‘Thou`: no opening quote printed
+460	10	Riempion	printed	cmp B; the retype `Riempron`
+462	19	“Now	misread	cmp A; was `‘Now … fruit!’`; double quotes in the print, as `“little Alberic”` above
+462	22	Hell,”	misread	cmp B; was `Hell.”`; the retype `Hell,”`, a comma in the print
+465	3	travailled	printed	cmp B; the retype `travailed`
+467	3	fair,	misread	cmp B; was `fair;`; the retype and Tesseract `,`, a comma in the print
+467	22	Lit..	misprint	cmp B; the retype `Lit..`, the base `Lit.:`
+467	22	. . . .	misread	cmp B; was `. . .`; the retype four points, as printed
+468	19	rood. . .	misread	cmp B; was `rood. ...`; three points in the print
+468	22	Par	misprint	cmp B; the retype `Par`, the base `Par.`
+469	19	3 .	printed	cmp B; the retype `. .`: one point in the print
+471	19	Ἑταῖρε	printed	cmp B; the retype `‘Ἑταῖρε`: the mark is the breathing, not a quote
+473	18	. . . .	misread	cmp B; was `. . .`; the retype four points, as printed
+474	14	. . . .	misread	cmp B; was `. . .`; the retype four points, as printed
 479	3	Abati	printed	cmp B; the retype `ABATI`: small capitals, the first word of the index in normal case (README.md)
+480	11	Angustus	misprint	read; the base `Augustus`
+481	44	xxvii. 94.	printed	read; the period after `xxvii` faint
+483	66	Maltestino	printed	read; the edition's spelling (also `377`, `392`)
+484	21	Mordrec	misread	read; was `Mordred`; the print `Mordrec`, as in the note on `444`
+484	47	xviii	misprint	read; the base `xvii`
+486	27	xxx	misprint	read; the base `xxxiii`

@@ -12,9 +12,8 @@ written as the steps go); the conversion into `texts/en/` is described in
 
 ## State (2026-11-09)
 
-Step 1 done to `400` (retypes 01–18, DONE.md). Next: the batches of about 25 pages from
-`401` (the pages retyped in retype 03 left out), each checked and decided as it comes back,
-the next batch sent first.
+Steps 1–2 done for all pages (retypes 01–22, DONE.md; `431`–`455` and the index read
+against the image instead of a retype). Next: step 3, the read-through, from its trial.
 
 ## The text
 

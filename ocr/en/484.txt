@@ -18,7 +18,7 @@ Montagna Parcitati, xxvii. 47.
 Montaperti, xxxii. 81.
 Montereggione, xxxi. 41.
 Montone, river, xvi. 94.
-Mordred, xxxii. 61.
+Mordrec, xxxii. 61.
 Mosca de’ Lamberti, xxviii. 106.
 Moses, iv. 57.
 Mozzi de’, Andrea, xv. 112.
@@ -44,7 +44,7 @@ Orlando, xxxi. 17.
 Orpheus, iv. 140.
 Orsini, xix. 70.
 Ovid, iv. 90; xxv. 97.
-Paduans, xv. 7; xvii. 67.
+Paduans, xv. 7; {{xviii|xvii}}. 67.
 Pagano, Machinardo, xxvii. 50.
 Palladium, xxvi. 63.
 Paris, v. 67.

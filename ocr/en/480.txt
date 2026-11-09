@@ -8,7 +8,7 @@ Athamas, xxx. 4.
 Athens, xii. 17.
 Atropos, xxxiii. 126.
 Attila, xii. 134; xiii. 149.
-Augustus, i. 71.
+{{Angustus|Augustus}}, i. 71.
 Aulis, xx. 111.
 Aventine, mount, xxv. 26.
 Averrhoës, iv. 144.
