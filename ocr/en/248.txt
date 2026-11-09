@@ -14,7 +14,7 @@ E quella sozza imagine di froda,
 Sen venne, ed arrivò la testa e il busto;
 Ma in su la riva non trasse la coda.
 La faccia sua era faccia d’ uom giusto,
-Tanto benigna avea di fuor la pelle;
+Tanto benigna {{avca|avea}} di fuor la pelle;
 E d’ un serpente tutto l’ altro fusto.
 Duo branche avea pilose infin l’ ascelle:
 

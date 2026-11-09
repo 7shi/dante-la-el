@@ -143,3 +143,40 @@ The record of the check of `ocr/en` planned in [PLAN.md](PLAN.md), step by step.
   `151`, `156`, `158`, `160` (a canto's first word in small capitals, circumflexes read as
   graves, points); the rest misprints the base had corrected, and the retype's own errors,
   a few a batch.
+- **Retype 11** (Gemini 3.8 Flash): 24 pages, `201`–`214`, `216`–`225` (`210` blank); all
+  written, none mixed up. 6 places (A 1, B 5, C 0), no misreading of the base:
+  - Misprints the base had corrected: `213` `Lit..` (a period for the colon), `220` `uot`.
+    Marked and listed.
+  - The retype wrong: `214` `Com` (the period set close), `222` `dietro` for `diretro`,
+    `225` `eye-brows` (a break at a line end).
+- **Retype 12** (Gemini 3.8 Flash): 24 pages, `226`–`249`; all written, none mixed up.
+  9 places (A 4, B 5, C 0):
+  - A misreading of the base: `244` `Guido-guerra`, a break at a line end kept
+    (`Guidoguerra` elsewhere). Corrected.
+  - Misprints the base had corrected: `229` `carth`, `233` `arisiug`, `239` `Viuse`
+    (Inf. xvi. 50), `243` `Po` (no period), `246` `17` (Rev. xi. 7), `248` `avca`
+    (Inf. xvii. 11). Marked and listed.
+  - The retype wrong: `236` `Gia’` for the small capitals `GIA` and a grave set after
+    them (`Già`), `247` `lenve`.
+- **Retype 13** (Gemini 3.8 Flash): 24 pages, `250`–`254`, `256`–`274`; all written, none
+  mixed up. 11 places (A 3, B 8, C 0):
+  - Misreadings of the base: `261` `imagine` for printed `immagine`, `270` `Thr.` and `Gn.`
+    in small capitals (`THR.`, `GN.`), `272` `. . .` for printed `. . . .`. Corrected.
+  - Misprints the base had corrected: `260` `belt,’` (a single closing quote), `269` `nou`
+    (Inf. xviii. 117), `270` `me!” .` (a period after the quote), `273` `Giovanui`
+    (Inf. xix. 17); and `270` `sozzo` (Inf. xviii. 130) and `272` `delle` (Inf. xix. 8),
+    which the base had copied unmarked. Marked and listed.
+  - The retype wrong: `251` `accorsi,` (a broken `i`, no comma), `258` `udì` for `udi’`,
+    `265` `leggiermente`.
+- **Retype 14** (Gemini 3.8 Flash): 25 pages, `275`–`294`, `296`–`300` (`284`, `298`
+  blank); all written, none mixed up. 9 places (A 2, B 7, C 0):
+  - Misreadings of the base: `279` `three-score`, a break at a line end kept (`threescore`,
+    as `056` and 2 Macc. iv. 8), `300` `marvelously` for printed `marvel-` / `lously`.
+    Corrected.
+  - Misprints the base had corrected: `291` `betwecn`, `296` `herbs’`. Marked and listed.
+  - The number of a note did not print (`292`); the base keeps it.
+  - The retype wrong: `285` `Forlì` for `Forli`, `290` `giò` for `gìo`.
+- **`201`–`300` done** (retypes 11–14, 96 pages): misreadings of the base in `244`, `261`,
+  `270`, `272`, `279`, `300` (line-end breaks, small capitals, a doubled letter, points);
+  the rest misprints the base had corrected or copied unmarked, and the retype's own
+  errors, a few a batch.

@@ -23,3 +23,19 @@ page	line	printed	fixed	applied	source	note
 188	11	gìa	già	yes	dante	Inf. xii. 31; the accent on the `i`; the retype reads `gìa`; found by the retype.
 197	3	Fredcrick	Frederick	yes	edition	The argument of Canto XIII; a `c` for the `e`; the retype reads `Fredcrick`; found by the retype.
 199	20	fædissima	fœdissima	yes	other	Æn. iii. 216 (`foedissima`); an italic `æ`, as in `fænerator` (`183`); the retype reads `fædissima`; found by the retype.
+213	23	Lit..	Lit.:	yes	edition	Canto XIV, a footnote; a period for the colon, as `Lit.:` elsewhere; the retype and Tesseract read `Lit..`; found by the retype.
+220	1	uot	not	yes	edition	Canto XIV; a turned `n`; the retype and Tesseract read `uot`; found by the retype.
+229	1	carth	earth	yes	edition	Canto XV; a `c` for the `e`; the retype and Tesseract read `carth`; found by the retype.
+233	1	arisiug	arising	yes	edition	Canto XV; a turned `n`; the retype and Tesseract read `arisiug`; found by the retype.
+239	16	Viuse	Vinse	yes	dante	Inf. xvi. 50; a turned `n`; the retype reads `Viuse`; found by the retype.
+243	16	Po	Po.	yes	edition	Canto XVI, the end of a footnote; the period did not print; found by the retype.
+246	15	17	7	yes	other	Rev. xi. 7 (`the beast that ascendeth out of the bottomless pit`); the retype and Tesseract read `17`; found by the retype.
+248	17	avca	avea	yes	dante	Inf. xvii. 11; a `c` for the `e`; the retype reads `avca`; found by the retype.
+260	18	’	”	yes	edition	Canto XVIII, a footnote; a single closing quote after the double opening one; the retype reads `’`; found by the retype.
+269	12	nou	non	yes	dante	Inf. xviii. 117; a turned `n`; the retype reads `nou`; found by the retype.
+270	1	me!”.	me!”	yes	edition	Canto XVIII, the end of a paragraph; a period set after the closing quote; the retype reads `me!” .`; found by the retype.
+270	10	sozzo	sozza	yes	dante	Inf. xviii. 130; the base copied `sozzo` unmarked; the retype reads `sozzo`.
+272	14	delle	dello	yes	dante	Inf. xix. 8; the base copied `delle` unmarked; the retype reads `delle`.
+273	12	Giovanui	Giovanni	yes	dante	Inf. xix. 17; a turned `n`; the retype reads `Giovanui`; found by the retype.
+291	1	betwecn	between	yes	edition	Canto XX; a `c` for the `e`; the retype reads `betwecn`; found by the retype.
+296	1	herbs’	herbs	yes	edition	Canto XX; an apostrophe after `herbs`; the retype and Tesseract read `herbs’`; found by the retype.
