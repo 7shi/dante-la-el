@@ -402,7 +402,7 @@ Montagna Parcitati, xxvii. 47.\
 Montaperti, xxxii. 81.\
 Montereggione, xxxi. 41.\
 Montone, river, xvi. 94.\
-Mordred, xxxii. 61.\
+Mordrec, xxxii. 61.\
 Mosca de’ Lamberti, xxviii. 106.\
 Moses, iv. 57.\
 Mozzi de’, Andrea, xv. 112.\
