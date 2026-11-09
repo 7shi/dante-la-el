@@ -38,6 +38,12 @@ INDEX = ("index-of-proper-names", [477] + list(range(479, 487)))
 # Headings printed in the middle of a page.
 MID_HEADINGS = {"PREFACE TO THE THIRD EDITION."}
 
+# Front-matter pages beginning with the continuation of the previous page's last note:
+# page -> its number of blocks, the last prose blocks before the page's own notes.
+CONT_BLOCKS = {22: 1, 23: 1, 25: 3, 33: 1, 42: 2, 48: 6}
+# Of these, the pages whose continuation begins with verse, a paragraph of its own.
+CONT_VERSE = {48}
+
 # Note markers missing in the print, added so that the note is referenced: page -> (old, new).
 ADDED_MARKERS = {
     132: ("malignant shores.", "malignant shores.²"),
@@ -250,6 +256,9 @@ def parse_plain(n, first_page):
             p.prose.append(("heading", title_case(b[0])))
         else:
             p.prose.append(b)
+    k = CONT_BLOCKS.get(n, 0)
+    if k:
+        p.prose, p.cont = p.prose[:-k], p.prose[-k:]
     return p
 
 
@@ -277,13 +286,16 @@ def link_pages(pages):
             if not last_note:
                 sys.exit(f"{where}: continued note without a note to continue")
             paras = last_note[1]
-            # the first block continues the note's last paragraph
-            if ends_hyphen(paras[-1][-1]):
-                paras[-1][-1] = join_hyphen(paras[-1][-1], cur.cont[0][0], where)
+            # the first block continues the note's last paragraph, unless it is verse
+            if cur.n in CONT_VERSE:
+                paras.extend(cur.cont)
             else:
-                paras[-1][-1] += " " + cur.cont[0][0]
-            paras[-1].extend(cur.cont[0][1:])
-            paras.extend(cur.cont[1:])
+                if ends_hyphen(paras[-1][-1]):
+                    paras[-1][-1] = join_hyphen(paras[-1][-1], cur.cont[0][0], where)
+                else:
+                    paras[-1][-1] += " " + cur.cont[0][0]
+                paras[-1].extend(cur.cont[0][1:])
+                paras.extend(cur.cont[1:])
             cur.cont = []
         if cur.notes:
             last_note = cur.notes[-1]

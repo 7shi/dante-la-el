@@ -8,28 +8,28 @@ Our Earth rests “forever fixed and stable” in the Centre of Dante’s univer
 
 [^xli-1]: These Heavens with their inhabitants form the proper subject of the Paradiso. But Dante also enumerates them in the second Treatise and fourth chapter of his Convito, or Banquet; and mentions the order in which they come—following the Ancient Astronomical System, which makes our Earth stand motionless in the Centre. The Heavens, he tells us, are Ten in number. Of these, the first with regard to our Earth is the Heaven of the Moon, “which has the smallest circles” (Inf. ii. 78), or includes the smallest space in its revolutions, and moves slowest; the second, of Mercury; the third, of Venus; the fourth, of the Sun, which also is regarded as a “Planet” (Inf. i. 17); the fifth, of Mars; the sixth, of Jupiter; the seventh, of Saturn; the eighth, of the Stars proper; the ninth, or Primum Mobile, is the “Crystalline, that is, the diaphanous, or quite transparent Heaven, which is not discernible except by the motion it gives” to the other eight Heavens that it includes. Beyond, or “outside of all these,” he adds, “Catholics place the Empyreal Heaven, that is to say, Heaven of flame, or luminous Heaven; and represent it as being immoveable,” &c. It is also the “divinest Heaven, the Heaven of rest,” or peculiar abode of the Almighty: of which our own Milton thus speaks:
 
+    ‘Under his burning wheels\
+    The steadfast Empyréan shook throughout,\
+    All but the throne itself of God.’
+
+    Par. Lost, vi. 832.
+
+    ‘Now had the Almighty Father from above,\
+    From the pure Empyréan, where he sits\
+    High throned above all height, bent down his eye,’ &c.
+
+    ‘About him all the Sanctities of Heaven\
+    Stood thick as stars,’ &c.
+
+    Ib. iii. 56.
+
+    Beatrice comes from it, ‘from singing Alleluiah’ (Inf. xii. 88; ii. 53, &c.), when she gives Virgil the mission to deliver Dante from the savage beasts in the “dark wood.”
+
 <!-- p. xlii (048) -->
 
 it. Only a comparatively small portion of it is known to be inhabited in his time, and that he calls “the uncovered part,” or “the great dry land” (Ibid. and Infern. xxxiv. 113); and, following the Bible, he places Jerusalem in the centre of it, or ‘in the midst of the nations.’
 
 Immediately below the dry land lies his Hell, as a kind of sink into which all Sin and Misery falls. The successive generations of men stand as it were on a thin earth-rind, with the Heavenly Stars above them, and the “Dark Valley” (valle buia) of Hell beneath. And the Cross on Mount Calvary, where the Divine Man “was consumed” (Inf. xxxiv. 114) for their transgressions, points from the centre of their Temporary Dwelling-place to those same “beautiful Stars,” wherein the “blessed people” dwell forever (Inf. i. 120); and to the all-including Empyrean, which is the “City and High Seat of that Emperor who reigns above, and rules in every part” throughout the universe. And the hollow “Realm of Sorrow” converges beneath (Inf. xxxii. 3), towards its “Emperor” Satan, who has his Seat (Inf. xi. 65; xxxiv. 28) at the very centre
-
-‘Under his burning wheels\
-The steadfast Empyréan shook throughout,\
-All but the throne itself of God.’
-
-Par. Lost, vi. 832.
-
-‘Now had the Almighty Father from above,\
-From the pure Empyréan, where he sits\
-High throned above all height, bent down his eye,’ &c.
-
-‘About him all the Sanctities of Heaven\
-Stood thick as stars,’ &c.
-
-Ib. iii. 56.
-
-Beatrice comes from it, ‘from singing Alleluiah’ (Inf. xii. 88; ii. 53, &c.), when she gives Virgil the mission to deliver Dante from the savage beasts in the “dark wood.”
 
 <!-- p. xliii (049) -->
 

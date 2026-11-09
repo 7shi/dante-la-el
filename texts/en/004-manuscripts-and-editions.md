@@ -4,7 +4,7 @@
 
 The Manuscripts of the Divina Commedia, found in different parts of Italy, and described by various Italian writers who had seen or examined them, were estimated by Ugo Foscolo (Edition of 1842-3, tom. iv. p. 49) as amounting in all to some Two Hundred. Our British Museum, our Oxford and other libraries public and private, also contain several that are not mentioned by those writers; and doubtless there are many more in the libraries of France, Germany, &c. The number of them is indeed very remarkable, considering that printing was introduced into Italy nearly four centuries ago. And valuable readings have been obtained from some of them; but none of ours have as yet been thoroughly examined; and the terms in which most of the Italians speak of theirs are extravagant, vague, and incredible, as Foscolo justly observes: so that one is forced to wait for further evidence, before giving any opinion on the subject of their relative merits. The second volume of the Bibliografia Dantesca[^xv-1] of M. de Batines, if it equals the first, will furnish
 
-[^xv-1]: BIBLIOGRAFIA DANTESCA, ossia Catalogo delle Edizioni, Traduzioni, Codici Manoscritti e Comenti della Divina Commedia e delle Opere Minori di Dante, seguito dalla serie de’ Biografi di lui, compilata dal Sig. Visconte Colomb de Batines. Traduzione Italiana, fatta sul Manoscritto Francese dell’ autore. Tom. i. 8vo, pp. 769. Prato, 1845-6. I have quoted the title of this very useful and meritorious work at full
+[^xv-1]: BIBLIOGRAFIA DANTESCA, ossia Catalogo delle Edizioni, Traduzioni, Codici Manoscritti e Comenti della Divina Commedia e delle Opere Minori di Dante, seguito dalla serie de’ Biografi di lui, compilata dal Sig. Visconte Colomb de Batines. Traduzione Italiana, fatta sul Manoscritto Francese dell’ autore. Tom. i. 8vo, pp. 769. Prato, 1845-6. I have quoted the title of this very useful and meritorious work at full length. The second volume is still unpublished. The first, in two parts, contains an account of the Editions, Translations, and Comments printed and unprinted; and throughout the whole of it, the author carefully distinguishes what he has himself seen from what is reported by others.
 
 <!-- p. xvi (022) -->
 
@@ -12,15 +12,13 @@ the sober and accurate account of them which is still wanted.
 
 The number of Editions hitherto published is upwards of Two Hundred and Fifty. Of these, at least fifteen authentic editions, besides five of doubtful authenticity, were printed within the last thirty years of the fifteenth century; forty-two in the sixteenth; four in the seventeenth, or poorest century of Italian literature; forty in the eighteenth; and, in the present century, more than one hundred and fifty. Ample details, concerning all of them that were published before the year 1845, will be found in the work of M. de Batines. Only a few of the most remarkable can be mentioned here—in the order of their dates.
 
-1472\. The earliest edition is that of Iohanni Numeister, printed at Fuligno in 1472, with very brief arguments and no comment. It is printed in clear type, and upon strong paper; not paged or numbered. There are almost no points; and no capital letters, except at the commencement of the Terzine, and in a very small number of the proper names. In the British Museum there is an excellent copy of it, to which I have often referred, and not always without profit,[^xvi-1] when perplexed by different read-
+1472\. The earliest edition is that of Iohanni Numeister, printed at Fuligno in 1472, with very brief arguments and no comment. It is printed in clear type, and upon strong paper; not paged or numbered. There are almost no points; and no capital letters, except at the commencement of the Terzine, and in a very small number of the proper names. In the British Museum there is an excellent copy of it, to which I have often referred, and not always without profit,[^xvi-1] when perplexed by different readings.
 
-length. The second volume is still unpublished. The first, in two parts, contains an account of the Editions, Translations, and Comments printed and unprinted; and throughout the whole of it, the author carefully distinguishes what he has himself seen from what is reported by others.
-
-[^xvi-1]: Thus, in canto i. ver. 48, I found: Sì che parea che laere ne TREMASSE, though Foscolo says “all the printed copies” have TEMESSE; and, in canto xvii. ver. 124: Et uidi poi che nolUEDEA davanti, instead
+[^xvi-1]: Thus, in canto i. ver. 48, I found: Sì che parea che laere ne TREMASSE, though Foscolo says “all the printed copies” have TEMESSE; and, in canto xvii. ver. 124: Et uidi poi che nolUEDEA davanti, instead of Foscolo’s UDIA davanti. I find TREMESSE also in the very rare Neapolitan edition, printed about 1475. An exact reprint of the Fuligno edition, with the different readings of the other earliest editions, would be very acceptable; and the Museum now possesses good copies of them all.
 
 <!-- p. xvii (023) -->
 
-ings. All the Bibliographers speak of it, and also of two other editions that were printed later in the same year. In particular, the account which M. de Batines gives of it is very accurate. I shall content myself with quoting one or two passages, to show the curious way in which the words flow together, without points or capitals, more especially when the line threatens to be long. Thus:
+All the Bibliographers speak of it, and also of two other editions that were printed later in the same year. In particular, the account which M. de Batines gives of it is very accurate. I shall content myself with quoting one or two passages, to show the curious way in which the words flow together, without points or capitals, more especially when the line threatens to be long. Thus:
 
 Perme siua nellacipta dolente\
 perme siua neleterno dolore\
@@ -39,8 +37,6 @@ Ibid. v. 127-9.
 
 1477\. The next remarkable edition that I have had opportunities of examining, also in the Museum, is that of Vendelin da Spira, printed at Venice in 1477. M. de Batines gives to it the title of La DIVINA Commedia, apparently through inadvertency, as he also does to editions printed in 1473, 1484, 1487, and 1491. The epithet DIVINA occurs in no edition of the fifteenth century; but at the end of this of Vendelin, in some vehement helpless
 
-of Foscolo’s UDIA davanti. I find TREMESSE also in the very rare Neapolitan edition, printed about 1475. An exact reprint of the Fuligno edition, with the different readings of the other earliest editions, would be very acceptable; and the Museum now possesses good copies of them all.
-
 <!-- p. xviii (024) -->
 
 verses, we find the expression, INCLITO et DIUO dante alleghieri Fiorentin poeta; and later editions speak of the EXCELSO, GLORIOSO, DIVINO, or VENERABILE poeta Fiorentino, long before they begin to apply the title[^xviii-1] of DIVINE to the poem itself. The text is in general more accurate than that of Numeister; and is accompanied by a long comment, which the title—falsely as we shall see—attributes to Benvenuto da Imola. I shall give one specimen. The initial letters of the Terzine stand wide apart from the lines, thus:
@@ -57,7 +53,11 @@ D achio intesi &c.
 
 Inf. v. 103-9.
 
-[^xviii-1]: In the Letter to Can Grande, Dante himself, speaking of the Title, says, “Libri titulus est: INCIPIT COMŒDIA DANTIS ALLAGHERII, FLORENTINI NATIONE, NON MORIBUS.” He then gives the derivation of the terms Comedy and Tragedy thus: “Comœdia dicitur a κώμη, villa, et ᾠδή, quod est cantus, unde Comœdia quasi villanus cantus. . . . Tragœdia a τράγος, quod est hircus, et ᾠδή, quasi cantus hircinus, id est fœtidus ad modum hirci.” And after adding that Tragedy “speaks in a style elate and sublime, and at the beginning is admirable and quiet, at the end or exit fetid and horrible;” while “Comedy begins with the asperity of a subject, and ends prosperously, and speaks in a remiss and humble style;” he says it will be easy to see “why the present work is called a Comedy. For if we consider the subject thereof, at the beginning it is horrible and fetid, being Hell; at the end prosperous, desirable, and grateful, being Paradise. And if we consider the style of speech, that style is remiss and humble, being the vulgar speech, in which even the women talk with one another. Wherefore it is evident why the work is called a Comedy.”
+[^xviii-1]: In the Letter to Can Grande, Dante himself, speaking of the Title, says, “Libri titulus est: INCIPIT COMŒDIA DANTIS ALLAGHERII, FLORENTINI NATIONE, NON MORIBUS.” He then gives the derivation of the terms Comedy and Tragedy thus: “Comœdia dicitur a κώμη, villa, et ᾠδή, quod est cantus, unde Comœdia quasi villanus cantus. . . . Tragœdia a τράγος, quod est hircus, et ᾠδή, quasi cantus hircinus, id est fœtidus ad modum hirci.” And after adding that Tragedy “speaks in a style elate and sublime, and at the beginning is admirable and quiet, at the end or exit fetid and horrible;” while “Comedy begins with the asperity of a subject, and ends prosperously, and speaks in a remiss and humble style;” he says it will be easy to see “why the present work is called a Comedy. For if we consider the subject thereof, at the beginning it is horrible and fetid, being Hell; at the end prosperous, desirable, and grateful, being Paradise. And if we consider the style of speech, that style is remiss and humble, being the vulgar speech, in which even the women talk with one another. Wherefore it is evident why the work is called a Comedy.” See also Vulg. Eloq. ii. 4, where Dante again says: “In Tragedy we assume the higher style, in Comedy the lower,” &c.
+
+    The earliest and most other editions of the fifteenth century translate the title simply: COMINCIA LA COMEDIA DI DANTE ALLEGHIERI DI FIRENZE, &c.
+
+    The Letter to Can Grande, as given in the London edition of 1842-3 (tom. iii. p. 269-84) is miserably incorrect, and quite unintelligible. I quote from Fraticelli’s edition.
 
 <!-- p. xix (025) -->
 
@@ -74,12 +74,6 @@ Questi lacaccera &c.
 Inf. i. 103-9.
 
 1481\. The earliest Florentine edition is that of 1481, with the comment of Landino. It is magnificent both in size and form; but greatly inferior to the Milan edition in point of correctness. In the best copy of the Museum I find no fewer than fifteen instances in which verses or whole Terzine are left out, besides other errors. In all the copies I have seen, there are at least Two Engravings, heading the first and second cantos of the poem, while
-
-See also Vulg. Eloq. ii. 4, where Dante again says: “In Tragedy we assume the higher style, in Comedy the lower,” &c.
-
-The earliest and most other editions of the fifteenth century translate the title simply: COMINCIA LA COMEDIA DI DANTE ALLEGHIERI DI FIRENZE, &c.
-
-The Letter to Can Grande, as given in the London edition of 1842-3 (tom. iii. p. 269-84) is miserably incorrect, and quite unintelligible. I quote from Fraticelli’s edition.
 
 <!-- p. xx (026) -->
 

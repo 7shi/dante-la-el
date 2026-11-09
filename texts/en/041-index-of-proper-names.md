@@ -48,7 +48,7 @@ Anastasius, Pope, xi. 8.\
 Anaxagoras, iv. 137.\
 Anchises, i. 74.\
 Andrea, St., Jacopo da, xiii. 133.\
-Angiolello, Cagnano, xxviii. 133.\
+Angiolello, Cagnano, xxviii. 77.\
 Annas, xxiii. 121.\
 Anselmuccio, xxxiii. 50.\
 Antæus, xxxi. 100.\
@@ -170,7 +170,7 @@ Ceperano, xxviii. 16.\
 Cerberus, vi. 13; ix. 98.\
 Cervia, xxvii. 42.\
 Cesena, xxvii. 52.\
-Ceuta, xxvi. 11.\
+Ceuta, xxvi. 111.\
 Chaos, xii. 43.\
 Charlemain, xxxi. 17.\
 Charon, iii. 94, 109, 128.\
@@ -242,7 +242,7 @@ Feltro, i. 105.\
 Fiesole, brutes of, xv. 62.\
 Filippo Argenti, viii. 61.\
 Fishes, sign of, xi. 113.\
-Flemings, xxv. 4.\
+Flemings, xv. 4.\
 Florence, x. 92; xiii. 143; xvi. 75; xxiii. 95; xxiv. 144; xxvi. 1; xxxii. 120.\
 Florentines, viii. 62; xv. 61; xvi. 73; xvii. 70; xxxiii. 12.\
 Focaccia Cancellieri, xxxii. 63.\
@@ -370,7 +370,7 @@ Malacoda, xxi. 76, &c.\
 Malatesta di Rimini, xxvii. 46.\
 — Gianciotti and Paolo, v.\
 — Maltestino, xxviii. 85.\
-Malebolge, xviii. 1; xxiv. 37; xxv. 5; xxix. 41.\
+Malebolge, xviii. 1; xxiv. 37; xxi. 5; xxix. 41.\
 Malebranche, xxiii. 23, &c.\
 Manfredi, Alberigo, xxxiii. 118.\
 — Tribaldello, xxxii. 122.\
@@ -422,7 +422,7 @@ Nimrod, xxxi. 77.\
 Ninus, v. 59.\
 Nisus, i. 108.\
 Novarese, xxviii. 59.\
-Obizzo d’ Este, xii. 117; xviii. 56.\
+Obizzo d’ Este, xii. 111; xviii. 56.\
 Ordelaffi, xxvii. 45.\
 Orlando, xxxi. 17.\
 Orpheus, iv. 140.\
@@ -442,7 +442,7 @@ Penthesilea, iv. 124.\
 Perillus, xxvii. 7.\
 Peschiera, xx. 70.\
 Peter, Saint, i. 134; ii. 24; xix. 91, 94.\
-Phaeton, xxvii. 107.\
+Phaeton, xvii. 107.\
 Phalaris, xxvii. 7.\
 Pharisees, xxiii. 116; xxvii. 85.\
 Philip the Fair, xix. 85.\
@@ -450,10 +450,10 @@ Phlegethon, xiv. 116.\
 Phlegyas, viii. 19, 24.\
 Phœnix, xxiv. 107.\
 Pholus, Centaur, xii. 72.\
-Photinus, ix. 8.\
-Piceno’s field, xxiv. 128.\
+Photinus, xi. 8.\
+Piceno’s field, xxiv. 148.\
 Pier da Medicina, xxviii. 73.\
-— delle Vigne, xiii. 128.\
+— delle Vigne, xiii. 58.\
 Pietrapana, mount, xxxii. 29.\
 Pinamonte, xx. 96.\
 Pisa, xxxiii. 79.
@@ -470,7 +470,7 @@ Polenta, v. 116; xxvii. 41.\
 Polydorus, xxx. 17.\
 Polynices, xxvi. 54.\
 Polyxena, xxx. 17.\
-Prato, town, xvi. 9.\
+Prato, town, xxvi. 9.\
 Priam, xxx. 15.\
 Priscian, xv. 109.\
 Proserpine, ix. 44; x. 80.\
@@ -486,7 +486,7 @@ Rhea, xiv. 100.\
 Rhone, xxviii. 86.\
 Rinier da Corneto, xii. 137.\
 — Pazzo, xii. 137.\
-Robert Guiscard, xxviii. 114.\
+Robert Guiscard, xxviii. 14.\
 Romagna, xxvii. 37; xxxiii. 154.\
 Romagnuols, xxvii. 28.\
 Romans, xv. 77; xviii. 28; xxvi. 60; xxviii. 10.\
@@ -534,7 +534,7 @@ Tagliacozzo, plain, xxviii. 18.\
 Tarquin, iv. 127.\
 Tartars, xvii. 17.\
 Tegghiaio, vi. 79; xvi. 41.\
-Thais, xxviii. 133.\
+Thais, xviii. 133.\
 Thales, iv. 137.\
 Thames, xii. 120.
 

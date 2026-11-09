@@ -6,7 +6,7 @@ The page-by-page transcriptions in `ocr/{dir}/NNN.txt` are reorganized into sect
 
 | Directory | Status |
 |---|---|
-| `texts/en/` | Done: converted, verified against dante-corpus, footnote markers restored on every page. |
+| `texts/en/` | Done: converted, verified against dante-corpus, footnote markers restored on every page; `ocr/en/` checked again against the images (every page retyped and compared, then a read-through), its misprints marked and corrected in `texts/en/`; see [`ocr/en/SUMMARY.md`](../ocr/en/SUMMARY.md). |
 | `texts/en-oelsner/` | Done: `ocr/` normalized (labels, paragraph breaks) and converted; Italian verified against dante-corpus, English against `texts/en`. |
 | `texts/la/` | Done: `ocr/la/` completed batch by batch (the verse from the images, the commentary checked against GLM-OCR, lines and blank lines checked, the italics marked), converted by `convert_la.py` (`texts/la/001`–`110`), and checked again (the lemmas, the verse and the rare forms against the images); see [`ocr/la/DONE.md`](../ocr/la/DONE.md) for the method and the checks and [`ocr/la/PLAN.md`](../ocr/la/PLAN.md) for their limits. |
 | `texts/grc/` | Done: converted; verse counts, line numbers, and arguments checked by the script; misreadings found by a syllable count corrected in `ocr/`. |
@@ -99,6 +99,7 @@ Front matter and the index use the same page markers and footnote labels. Roman 
    - Lines starting with a number followed by a period inside footnotes, which must not be taken as verse notes.
 3. **Verify**: the verse lines of each canto are compared line by line with the Italian text of [dante-corpus](https://github.com/7shi/dante-corpus) (`src/inferno/NN.txt`, one verse per line). For `texts/en` all 4,720 lines align; the five lines below 0.75 similarity (letters only, accents removed) are readings of this edition (e.g. XXIII 63 *in Cologna* / *in Clugnì*), not misplaced lines. Every footnote of `ocr/` appears once.
 4. **Footnote markers**: restored on every page with notes, checked by the script (each note referenced once on its page), by confirming that removing the superscript digits from `ocr/en/` gives back the previous text (nothing else changed), and by spot checks against the images. Three notes have no printed marker and are added by the script (pp. 78, 179, 375).
+5. **Check against the images** (2026-11-08 – 2026-11-10, [`ocr/en/SUMMARY.md`](../ocr/en/SUMMARY.md)): misreadings corrected in `ocr/en/`; misprints marked there as `{{printed|fixed}}` and written by the script with the fixed side (`fixed()`, as `convert_la.py`), listed in [`ocr/en/misprints.tsv`](../ocr/en/misprints.tsv). The pages of the front matter that begin with the end of the previous page's last note are listed in the script (`CONT_BLOCKS`, `CONT_VERSE`), so that the continuation joins the note.
 
 
 ## `texts/en-oelsner/` — Temple Classics edition (`ocr/en-oelsner/`, 1903)
