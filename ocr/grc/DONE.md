@@ -213,3 +213,51 @@ The record of the check of `ocr/grc` planned in [PLAN.md](PLAN.md), step by step
   report). Retypes 03 and 04 (Flash): about 13 and 16.
 - `convert_grc.py`: output as the baseline; `texts/grc` regenerated. `misprints.py`: 26
   rows, 26 marks, 0 problems.
+
+## Step 1–2: retype 06 (2026-11-10)
+
+- **Pages** (25): `109`–`133` (cantos XII–XV). la-el-agy on **Gemini 3.8 Flash**. All
+  written. It wrote the breathing of 33 capitals as a separate character (`᾿Αλλ` for
+  `Ἀλλ`, on `128`–`133`): joined in a copy before the comparison, not counted as places.
+- **Compared**: `cmpread.py`, 108 places (138 before the joining); each read in the image,
+  the marks as in retype 04, and beside sure ones: rough with grave is a caret with a dot
+  at its top (`ἣ` 129 13, as `ὃ`), smooth with grave a comma and a back stroke (`ἂν` 132
+  8); the coronis with circumflex `3`-shaped (`τοὖργον`, `κᾆτα`); the hook under the
+  circumflex open to the right for the rough breathing (`οὗτος`, `Οἷον`), to the left for
+  the smooth (`ἦς` 132 12).
+- **Decided** (readcheck.tsv, 105 rows):
+  - **Misread**, 86, all in the base: accents (enclitics `ἔνθ᾽ ἐστι`, `εἰσι`, `Ἀζελήν
+    ἐστιν`, `βούλομαί σε`, `λαιμόν τ᾽`, `ἤ σε`, `εἴ σ᾽`, `ἀλγεινά θ᾽`, `Κατεσπάραξάν
+    τ᾽`, `ποτάμιόν τι`, `ἐρείπιός τις`, `ἐκώλυσέ με`, `ὄν σοι`, `ἄν σοι` twice,
+    `γενήσεταί σοι`, `ἐστί μοι`; `δρυμὼν`, `χεὶρ`, `βλαβερὰν`, `εἶ`, `ἀπεῖργον`,
+    `ἑταίρα`, `χρονοτρίβει`, `ἀφεῖλ᾽`, `Προσέφυγεν`, `ἀναγνοὺς`, `Προστάτα`,
+    `λυσσόων`, `θῇς`, `Εἶπέ`, `γεγηρακὸς`, `ῥοῶν` twice, `φῄς`, `εἶπας`, `Δεδιότες`,
+    `συγκαθῖσαι`, `Αὔτ᾽`, `πρωῒ`, `Παταυῗνοι`), breathings (`αὑτοῦ` four times,
+    `αὑτῆς`, `ἑψάνης`, `Ἔστης`, `Ἔνθ᾽` twice, `Ἑνὸς`, `Ἕξομεν`, `ἁλλομένων`,
+    `Οἵασπερ`, `ἕξοι`, `ἕπου`, `ἕπεσθαί`, `ἣ`), crasis (`κὠζώδεις`, `τοὖργον`,
+    `τοὖρος`, `κᾆτα` twice, `κἀν`, `ἆρ᾽`), `ῤῥ` three times, the iota subscript
+    (`σιγᾷν`, `περᾷν`, `αὐτοχειρίᾳ`; `Στήσητ᾽` without), words (`Ἐπίστρεψον`, `ζέον`,
+    `Λάνος`, `βλάψῃ`, `ἐπιστρέψῃ`, `Μέσον`, `δεικνύων`, `Ἐδίδων`, `ψαυέσθω`), the
+    nested quotes of `123` 6, the aphaeresis mark of `᾿ρυθρότης`, a second `91` at the
+    foot of `111`, not printed, removed, the page number put after the running head
+    (`117`, `129`), and a breathing that was a separate character (`132` 8).
+  - **Misprints**, 8 (misprints.tsv): `110` and `124` `ᾀεὶ` and `120` `Ἐσᾳεὶ` (an iota
+    subscript, as `107`), `111` `ᾈττίλαν` (one under the capital, as `038`; first
+    decided a blot and printed, read as a subscript by the user in the image), `112` `ΩΔΗ 1Γ΄.` and `124` `ΩΔΗ 1Δ΄.` (the figure `1` for the
+    `Ι` in the heading and a running head), `113` `δε` without its accent, `118`
+    `πρῶτυς`.
+  - **Printed**, 11: the retype's errors (below), the signatures `H` and `H 2` as the
+    base writes them, and the `Ὃν` of `124` 20 left as the base, as `Ὃς`.
+- **An earlier decision corrected**: `011` 11, the `Δάνος` of the table of contents,
+  decided printed in retype 02, is `Λάνος` as in the argument of `112`: the italic Λ has
+  serifs at its feet, the Δ a solid base (`Διτός`, `075`); `convert_grc.py` compares the
+  two. The row of readcheck.tsv was changed to misread.
+- **The retype** (Flash) erred in about 12 places in 25 pages: breathings (`Αὑτοῦ`,
+  `αὑτὸ`, `Οἶον`, `ἧς`), the coronis dropped (`θατέρου` twice, `τοῦργον`, `τοῦρος`), the
+  iota subscript added (`ζῴων`, and `ᾆρ᾽` for a speck), `ὦ` for `ὁ`, and a prime in the
+  signature `H 2`. It found all eight misprints. The task of retype 07, sent before the
+  decision of `111` was changed, lists `ᾈττίλαν` among the retype's errors: looked at
+  when retype 07 is decided (subscripts it may have dropped). Retypes 03–05 (Flash):
+  about 13, 16 and 10.
+- `convert_grc.py`: output as the baseline; `texts/grc` regenerated. `misprints.py`: 34
+  rows, 34 marks, 0 problems.

@@ -41,7 +41,7 @@ page	line	form	decision	note
 007	1	ζ΄.	misread	cmp A; the numeral sign printed; was `ζ.`
 007	9	͵αωπά	printed	cmp B; the thousands sign printed under the alpha, kept as `͵α`; the retype's `ᾳωπά`
 011	10	Ἅρπυιαι	misread	cmp B; rough breathing (as `ἕβδομος`, `Ἕλλην` in this italic); was `Ἄρπυιαι`
-011	11	Δάνος	printed	cmp B; the italic Δ; the retype's `Λάνος`
+011	11	Λάνος	misread	cmp B; was `Δάνος`; the italic Λ with its serifs (against the Δ of `Διτός`, 075, and as `Λατίνης`, 011 18); first decided printed, corrected with 112 3
 011	27	κοπρών	misread	cmp B; was `κοπρὼν`
 012	1	ιβ΄.	misread	cmp B; the period printed; was `ιβ΄`
 012	10	Μαντώ	misread	cmp C; was `Μαντὼ`
@@ -407,7 +407,7 @@ page	line	form	decision	note
 106	22	τάφρον	misread	cmp B; was `τάφρου`
 107	10	ἐξηρτυμένοις.	printed	cmp B; a period; the retype’s `·`
 107	11	ἔκραξε	misread	cmp A; was `ἔκραζε`
-107	16	ᾀείποτε	misprint	cmp B; marked `{{ᾀείποτε|ἀείποτε}}`, an iota subscript where the word has none, as 077 6 (`ἀεὶ` without it on 071, 110)
+107	16	ᾀείποτε	misprint	cmp B; marked `{{ᾀείποτε|ἀείποτε}}`, an iota subscript where the word has none, as 077 6 (`ἀεὶ` without it on 071)
 107	17	Εἶθ	misread	cmp A; was `Εἰθ`
 107	17	ἔσθ	misread	cmp A; was `ἐσθ`
 107	20	στῆθός	misprint	cmp B; marked `{{στῆθός|στῆθος}}`, an acute before `αὑτοῦ`, not enclitic
@@ -416,3 +416,108 @@ page	line	form	decision	note
 108	13	ᾯπερ	printed	cmp A; the iota subscript printed under the capital; the retype’s `Ὧπερ`
 108	17	ἀλληλούϊα	misread	cmp A; was `ἀλληλουΐα`
 108	19	φλαύρα	misprint	cmp B; marked `{{φλαύρα|φλαῦρα}}`, an acute for the circumflex
+109	4	ἐστι	misread	cmp A; was `ἐστὶ`
+109	5	αὑτοῦ	misread	cmp A; was `αὐτοῦ`
+109	8	Ἐπίστρεψον	misread	cmp B; was `Ἐπίστρεφου`
+109	11	ἑψάνης	misread	cmp A; was `ἐψάνης`
+109	15	εἰσι	misread	cmp A; was `εἰσὶ`
+109	20	Ἀζελήν ἐστιν	misread	cmp B; was `Ἀζελὴν ἔστιν`
+109	21	Ἔστης	misread	cmp B; was `Ἕστης`; smooth breathing and acute, as `Ἔνθ᾽` (112 8), against `Ἕξομεν` (117 12)
+110	17	ᾀεὶ	misprint	cmp B; marked `{{ᾀεὶ|ἀεὶ}}`, an iota subscript where the word has none, as 107 16; the base had `ἀεὶ`
+110	18	βούλομαί	misread	cmp A; was `βούλομαι`
+110	20	Αὐτοῦ	printed	cmp B; smooth breathing; the retype’s `Αὑτοῦ`
+111	4	ᾈττίλαν	misprint	cmp B; marked `{{ᾈττίλαν|Ἀττίλαν}}`, an iota subscript printed under the capital, as 038 18 (read by the user in the image; first taken for a blot); the base had `Ἀττίλαν`
+111	6	ζέον	misread	cmp A; was `ξένον`
+111	10	91	misread	cmp B; was `91`; a second page number at the foot, not printed, removed
+112	1	1Γ΄	misprint	cmp B; marked `{{1Γ΄|ΙΓ΄}}`, the heading of canto XIII; the figure `1` for the letter `Ι`
+112	2	δρυμὼν	misread	cmp A; was `δρυμῶν`
+112	3	Λάνος	misread	cmp A; was `Δάνος`
+112	8	Ἔνθ	misread	cmp B; was `Ἐνθ`
+112	10	κὠζώδεις	misread	cmp B; was `κὀζώδεις`
+112	18	λαιμόν	misread	cmp A; was `λαιμὸν`
+113	4	δε	misprint	cmp B; marked `{{δε|δὲ}}`, no accent printed; the base had `δὲ`
+114	7	χεὶρ	misread	cmp A; was `χεῖρ`
+114	10	Ἑνὸς	misread	cmp B; was `Ἐνὸς`
+114	10	θἀτέρου	printed	cmp B; the coronis printed; the retype’s `θατέρου`
+114	15	ἤ	misread	cmp B; was `ἢ`
+114	15	βλάψῃ	misread	cmp A; was `βλάβῃ`
+114	18	βλαβερὰν	misread	cmp A; was `βλαβεράν`
+114	20	τοὖργον	misread	cmp B; was `τοὔργον`; the coronis with circumflex, `3`-shaped; the retype’s `τοῦργον`
+114	21	εἶ	misread	cmp A; was `εἰ`
+115	5	σιγᾷν	misread	cmp B; was `σιγᾶν`; the iota subscript printed
+115	10	ἀπεῖργον	misread	cmp A; was `ἀπείργου`
+115	14	ἑταίρα	misread	cmp A; was `ἑταῖρα`
+116	4	ἐπιστρέψῃ	misread	cmp A; was `ἐπιστρέφῃ`
+116	8	χρονοτρίβει	misread	cmp A; was `χρονοτριβεῖ`
+116	15	εἴ	misread	cmp A; was `εἰ`
+116	16	ἆρ	misread	cmp B; was `ἄρ`; smooth breathing and circumflex, as 108 9; a speck below, not an iota subscript (the retype’s `ᾆρ`)
+116	19	κᾆτα	misread	cmp B; was `κἄτα`; the coronis with circumflex and the iota subscript
+117	1	ΩΔΗ ΙΓ΄. 97	misread	cmp B; was `97`; the page number before the running head; put after it, as on the other pages
+117	4	αὐτοχειρίᾳ	misread	cmp A; was `αὐτοχειρία`
+117	7	ἔῤῥιψεν	misread	cmp A; was `ἐρρίψεν`
+117	11	ἀλγεινά	misread	cmp A; was `ἀλγεινὰ`
+117	12	Ἕξομεν	misread	cmp A; was `Ἔξομεν`; rough breathing and acute
+117	14	αὑτοῦ	misread	cmp A; was `αὐτοῦ`
+117	14	ἀφεῖλ	misread	cmp A; was `ἀφείλ`
+117	15	κἀν	misread	cmp A; was `κἂν`
+117	17	αὑτοῦ	misread	cmp A; was `αὐτοῦ`
+117	23	ζώων	printed	cmp B; no iota subscript printed; the retype’s `ζῴων`
+117	24	H	printed	cmp B; the signature, as the base writes it
+118	5	πρῶτυς	misprint	cmp B; marked `{{πρῶτυς|πρῶτος}}`, an upsilon for the omicron; the base had `πρῶτος`
+118	10	Προσέφυγεν	misread	cmp A; was `Προσεφύγεν`
+118	12	ἁλλομένων	misread	cmp A; was `ἀλλομένων`
+118	15	Κατεσπάραξάν	misread	cmp A; was `Κατεσπάραξαν`
+118	20	ὁ	printed	cmp B; an omicron with the rough breathing; the retype’s `ὦ`
+119	22	H 2	printed	cmp B; the signature; a speck above the letter, the retype’s `Η΄ 2`
+120	14	Ἐσᾳεὶ	misprint	cmp B; marked `{{Ἐσᾳεὶ|Ἐσαεὶ}}`, an iota subscript where the word has none, as `ᾀεὶ` (110 17); the base had `Ἐσαεὶ`
+121	5	ἀναγνοὺς	misread	cmp A; was `ἀναγνοῦς`
+121	19	Οἵασπερ	misread	cmp B; was `Οἴασπερ`; rough breathing and acute
+122	11	Προστάτα	misread	cmp A; was `Προστᾶτα`
+122	15	λυσσόων	misread	cmp A; was `λυσσῶον`
+123	6	‘“Ἥφαιστε, βοήθει δή, βοήθει!”’	misread	cmp B; was `‘Ἥφαιστε, βοήθει δή, βοήθει!’`; nested quotes
+123	8	ἕξοι	misread	cmp A; was `ἔξοι`
+123	19	αὑτοῦ	misread	cmp A; was `αὐτοῦ`
+123	21	ἕπου	misread	cmp B; was `ἔπου`; rough breathing and acute, as 102 22
+123	22	θῇς	misread	cmp A; was `θῂς`
+124	1	1Δ΄	misprint	cmp B; marked `{{1Δ΄|ΙΔ΄}}`, the running head; the figure `1` for the letter `Ι`, as 112 1
+124	2	ᾀεὶ	misprint	cmp B; marked `{{ᾀεὶ|ἀεὶ}}`, an iota subscript where the word has none, as 110 17; the base had `ἀεὶ`
+124	4	ποτάμιόν	misread	cmp A; was `ποτάμιον`
+124	5	᾿ρυθρότης	misread	cmp A; was `ῥυθρότης`; the aphaeresis mark of `ἐρυθρότης`
+124	8	ἔῤῥεεν	misread	cmp A; was `ἔρρεεν`
+124	11	περᾷν	misread	cmp A; was `περᾶν`; the iota subscript printed
+124	20	Ὃν	printed	cmp B; the roman rough breathing with an accent, one mark; left as the base, the retype’s `Ὁν`
+124	21	Μέσον	misread	cmp A; was `Μέσου`
+124	21	ἐρείπιός	misread	cmp A; was `ἐρείπιος`
+125	2	Εἶπέ	misread	cmp B; was `Εἰπέ`
+125	6	γεγηρακὸς	misread	cmp A; was `γεγηρακός`
+125	7	αὐτὸ	printed	cmp B; smooth breathing; the retype’s `αὑτὸ`
+125	8	αὑτῆς	misread	cmp A; was `αὐτῆς`
+125	18	θἀτέρου	printed	cmp B; the coronis printed; the retype’s `θατέρου`
+125	21	τοὖρος	misread	cmp B; was `τοὔρος`; the coronis with circumflex, as 114 20; the retype’s `τοῦρος`
+126	2	ῥοῶν	misread	cmp A; was `ῥόων`
+126	9	φῄς	misread	cmp B; was `φῂς`; the acute
+126	18	εἶπας	misread	cmp A; was `εἴπας`
+126	19	ῥοῶν	misread	cmp A; was `ῥόων`
+127	7	ἕπεσθαί	misread	cmp A; was `ἔπεσθαί`
+128	9	Δεδιότες	misread	cmp B; was `Δεδίοτες`
+128	11	Παταυῗνοι	misread	cmp B; was `Παταῦινοι`; the diaeresis with circumflex
+129	1	ΩΔΗ ΙΕ΄. 109	misread	cmp B; was `109`; the page number before the running head; put after it, as on the other pages
+129	13	ἣ	misread	cmp B; was `ἡ`; rough breathing and grave
+129	14	Οἷον	printed	cmp B; rough breathing and circumflex; the retype’s `Οἶον`
+129	17	ἐκώλυσέ	misread	cmp A; was `ἐκώλυσε`
+130	2	συγκαθῖσαι	misread	cmp A; was `συγκαθίσαι`
+130	5	Στήσητ	misread	cmp B; was `Στήσῃτ`; no iota subscript printed
+130	15	δεικνύων	misread	cmp A; was `δεικνύνων`
+130	19	πρωῒ	misread	cmp B; was `πρωΐ`; the diaeresis with grave, not the dagger shape of `πρωΐα` (023)
+131	7	ὄν σοι	misread	cmp A; was `ὂν σοὶ`
+131	8	Ἐδίδων ἄν	misread	cmp B; was `Ἐδίδουν ἂν`
+131	12	γενήσεταί	misread	cmp A; was `γενήσεται`
+131	22	Αὔτ	misread	cmp B; was `Αὐτ`
+131	22	ψαυέσθω	misread	cmp A; was `ψανέσθω`
+132	8	Ἀπεκρινάμην	misread	cmp B; was `᾽Απεκρινάμην`; the breathing was a separate character
+132	10	ἐστί	misread	cmp A; was `ἐστι`
+132	12	ἦς	printed	cmp A; smooth breathing and circumflex, `3`-shaped (against `οὗτος`, 132 6); the retype’s `ἧς`
+132	22	πρόῤῥησις	misread	cmp A; was `πρόρρησις`
+133	6	κᾆτα	misread	cmp B; was `κᾄτα`; the coronis with circumflex, as 116 19
+133	19	ἄν	misread	cmp A; was `ἂν`
+133	22	Ἔνθ	misread	cmp B; was `Ἐνθ`

@@ -15,32 +15,87 @@ described in [texts/PLAN.md](../../texts/PLAN.md) ("`texts/grc/`"), the transcri
 Step 0 (setup) done (DONE.md). Step 1–2: retypes 01 (the trial) and 02 (`001`–`032`)
 decided, Gemini 4 Argon; retype 03 (`033`–`058` without `038`) decided, Gemini 3.8 Flash
 (Argon's quota reached; a comparison of the two models, asked by the user, 2026-11-10).
-Retypes 04 (`059`–`083`) and 05 (`084`–`108`) decided, Gemini 3.8 Flash (the user's
-choice, 2026-11-10). Next: retype 06 (`109`–`133`), when the user gives the signal.
+Retypes 04 (`059`–`083`), 05 (`084`–`108`) and 06 (`109`–`133`) decided, Gemini 3.8
+Flash (the user's choice, 2026-11-10). Retype 07 (`134`–`158`) returned (files checked: all 25 present, none empty; undecided), retype 08 (`159`–`183`) returned (all 25 present, none empty; undecided), retype 09 (`184`–`208`) returned (all 25 present, none empty; undecided), retype 10 (`209`–`233`) returned (all 25 present, none empty; undecided). Retype 11 (`234`–`258`) returned (all 25 present, none empty; undecided). Stopped here by the user: retype 12 waits several days (rate limit); not sent until they say so. From here the
+batches are sent one after another and not decided as they return ("How a batch runs"):
+the returned and undecided ones are listed here as they come (none yet). Not committed
+yet: retype 06.
 
 ## The work ahead
 
-1. **Retypes 06–12, the cantos** (`109`–`285`, 177 pages), batches of about 25 in page
-   order: 06 `109`–`133`, 07 `134`–`158`, 08 `159`–`183`, 09 `184`–`208`, 10
-   `209`–`233`, 11 `234`–`258`, 12 `259`–`285`. Each batch decided as in step 2, its
-   section added to DONE.md and the State updated here.
-2. **Retypes 13–15, the notes** (`287`–`351` without `288`, and `292`, `343` done in the
-   trial; 62 pages): 13 `287`–`313`, 14 `314`–`338`, 15 `339`–`351`. Smaller type, with
-   Latin, Italian, French and a little Hebrew and Arabic: the model is chosen again with
-   the user before 13 (Flash is untried on these pages), and the task names the
-   languages (the template's rules already do).
+1. **Retypes 07–15, to the last page** (the user, 2026-11-10: batches of 25 pages to
+   the end, all on Gemini 3.8 Flash, sent one after another; "How a batch runs"):
+
+   | retype | pages | number | kind |
+   |---|---|---|---|
+   | 07 | `134`–`158` | 25 | cantos (returned, undecided) |
+   | 08 | `159`–`183` | 25 | cantos (returned, undecided) |
+   | 09 | `184`–`208` | 25 | cantos (returned, undecided) |
+   | 10 | `209`–`233` | 25 | cantos (returned, undecided) |
+   | 11 | `234`–`258` | 25 | cantos (returned, undecided) |
+   | 12 | `259`–`285` | 27 | cantos, to the end of the poem |
+   | 13 | `287`, `289`–`291`, `293`–`313` | 25 | notes |
+   | 14 | `314`–`338` | 25 | notes |
+   | 15 | `339`–`342`, `344`–`351` | 12 | notes |
+
+   Not retyped: `286`, `288` (not in `texts/grc`), `292`, `343` (done in the trial). The
+   batch 12 takes the two last pages of the poem with it, so that no batch mixes verse
+   and notes. The notes are in smaller type, with Latin, Italian, French and a little
+   Hebrew and Arabic; Flash is untried on them, and they go to it all the same (the
+   user's choice). Their task says "the notes" for the cantos; the template's rules
+   already name the languages.
+2. **The deciding** of retypes 07–15 (step 2), when the user asks: batch by batch in
+   page order, each with its section in DONE.md.
 3. **Read-through** (step 3), then **the corrigenda** with the user (step 4), then **the
    close** (step 5).
 
 How a batch runs (asked by the user, 2026-11-10):
 
-- The user sets la-el-agy's model by hand and gives the signal; nothing is sent before
-  it. The task file is the last one with its pages, paths and the list of the last
-  batch's errors changed; no new rules.
-- When the reply comes, the batch is checked and decided before anything else is sent;
-  the next batch waits for the user.
+- **From retype 07 on** (the user, 2026-11-10): when a reply comes, the returned batch is
+  only checked for its files (every page present, none empty), not decided, and the next
+  batch is sent at once, without a new signal, to the last one (retype 15). All on
+  Gemini 3.8 Flash; the user says so if the model is changed. The deciding of the
+  returned batches waits for the user.
+  **Stop after retype 11** (the user, 2026-11-10): the Gemini 3.8 Flash rate limit is
+  expected to be reached with 11, so 12 onward wait several days. When 11 returns, check
+  its files and wait; retype 12 is not sent until the user says so.
+- The task file is the last one with its pages and paths changed; no new rules. The list
+  of the last batch's errors stays that of retype 06 while the batches are undecided,
+  without its `ᾈττίλαν` line ("Open points").
+- Until retype 06 (replaced by the above): the user gave the signal before each batch,
+  and a returned batch was decided before the next was sent.
 - Commits only when the user asks, `ocr/grc` and `texts/grc` apart; the last ones cover
   retypes 01–05.
+
+What the batches taught about the deciding (retype 06):
+
+- **Before the comparison** the retype is copied with its separate breathings joined to
+  their capitals ("Settled readings"), and `cmpread.py` run on the copy: retype 06 had 33
+  of them, 30 places of noise. The retype itself is not changed.
+- **The scans are small** (about 1030 pixels wide): a breathing or an accent is read at
+  eight times its size, in a crop of the word, and a doubtful one beside a sure one of
+  the same type (roman or italic) from the same pages. `wordcrop.py`'s band is enough for
+  letters, not for the marks.
+- **An argument fixed on a canto's first page** is compared by `convert_grc.py` with the
+  table of contents (`009`–`013`): a difference it reports is read in both images, and
+  the table's page fixed too if it was misread (`Λάνος`, `011` and `112`).
+- **`txtfix.py` does not delete a line**: a line that is not printed is emptied (an empty
+  `new`), the blank line left.
+- **The base's own separate breathings** (`᾽Αλλ᾽`) are known on `137`, `144` and `148`:
+  joined when retype 07 is decided.
+
+Open points, for the user:
+
+- **`ᾀεὶ` with the iota subscript** is marked as a misprint by the settled reading, but it
+  is now printed in six places (`038`, `077`, `107`, `110`, `120`, `124`), and `ἀεὶ`
+  without it was read in the image only where a retype differed. It may be the edition's
+  spelling. **Held until the whole text is done** (the user, 2026-11-10): until then each
+  one is marked as before; then they are counted, and kept as misprints or changed to
+  printed, the marks and the rows of misprints.tsv with them.
+- **The task of retype 07** names `ᾈττίλαν` (`111` 4) as an error of retype 06; the user
+  then read the iota subscript in the image, and it is a misprint the retype found. The
+  task was already sent and is not changed: in the deciding of 07, a subscript missing
+  in the retype is not taken as a vote against the base. The task of 08 drops the line.
 
 ## The text
 
@@ -73,7 +128,7 @@ read-through (asked by the user, 2026-11-10).
 
 - **The base**: `ocr/grc` itself, with its fixes kept unless the image says otherwise.
 - **The retype**: every page from the image alone by la-el-agy (step 1), on Gemini 4 Argon
-  (retypes 01–02), then Gemini 3.8 Flash (03–05), which erred about as often (DONE.md).
+  (retypes 01–02), then Gemini 3.8 Flash (03–06), which erred about as often (DONE.md).
 - **Tesseract** (`-l grc`; `grc+lat+ita+fra` on the notes), the third vote and the word
   boxes for `wordcrop.py`. It reads the Greek fairly (`021`: `ἀχληγορική`, `Ἐύρέθην` for
   the printed `ἀλληγορική`, `Εὑρέθην`), and found a misreading in the setup (`021`
@@ -121,14 +176,28 @@ The edition's readings found in the steps go here, and are applied, not asked ag
   printed lines on one row, the canto and line numbers without their printed comma and
   period. Only the words of the cells are compared.
 - **An iota subscript printed under a capital** where the word has none (`030` `ᾙρέθη`,
-  `038` `ᾈεὶ`) is a misprint, marked; so is one under a small letter (`107` `ᾀείποτε`).
+  `038` `ᾈεὶ`) is a misprint, marked; so is one under a small letter (`107` `ᾀείποτε`,
+  `110` and `124` `ᾀεὶ`, `120` `Ἐσᾳεὶ`). A mark under a capital, low and
+  blurred, is the subscript too, not a blot (`111` `ᾈττίλαν`, read by the user).
 - **A low mark between two words** (or a quote and a word) is a spacing quad's, not a
   period: not written (`033` 10, `064` 19, …).
 - **The roman rough breathing with an accent** prints as one `^`-like mark, grave and
   acute alike: the base's accent is kept (`Ὃς`, `Ἓν`).
 - **The marks of the italic type** (read beside sure ones): smooth with circumflex is
   `3`-shaped (`ἆρ᾽`), smooth with acute a comma and a stroke (`οὔκ`), rough with acute an
-  open `c` with a stroke (`αἵματ᾽`), diaeresis with acute dagger-shaped (`πρωΐα`).
+  open `c` with a stroke (`αἵματ᾽`), diaeresis with acute dagger-shaped (`πρωΐα`); rough
+  with grave a caret with a dot at its top (`ἣ`, `ὃ`), smooth with grave a comma and a
+  back stroke (`ἂν`); under a circumflex the hook opens to the right for the rough
+  breathing (`οὗτος`), to the left for the smooth (`ἦς`, `τοὖργον`).
+- **The italic capitals Λ and Δ**: the Λ has serifs at its feet that nearly meet, the Δ a
+  solid base (`Λάνος` 011, 112; `Διτός` 075).
+- **The figure `1` for the `Ι`** of a canto number in a heading or running head (one
+  serif at the top, to the left) is a misprint, marked (`112`, `124`).
+- **The page number** is written on the line after the running head, also where the base
+  had it before; a number at the foot that is not printed is removed.
+- **A breathing written as a separate character** before a capital (`᾿Α`) is the same
+  reading as the joined letter (`Ἀ`): joined in the retype before the comparison, and in
+  the base where it is met.
 - **Nested quotes** open `‘“`, go on `‚ „` at the following lines and close `”’` (`034`,
   `074`).
 - **Signature marks** as the base writes them (`Ε 2`, `F`, `G 2`); `convert_grc.py` drops
