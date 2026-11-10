@@ -41,8 +41,10 @@ yet: retype 06.
    Not retyped: `286`, `288` (not in `texts/grc`), `292`, `343` (done in the trial). The
    batch 12 takes the two last pages of the poem with it, so that no batch mixes verse
    and notes. The notes are in smaller type, with Latin, Italian, French and a little
-   Hebrew and Arabic; Flash is untried on them, and they go to it all the same (the
-   user's choice). Their task says "the notes" for the cantos; the template's rules
+   Hebrew and Arabic. Update (the user, 2026-11-10): because the notes are small, 13–15
+   are planned for Gemini 4 Argon, not Flash (the user switches the model by hand; the
+   model and the task are confirmed with the user before 13 is written). 12 waits with
+   them, several days, for the Flash rate limit. Their task says "the notes" for the cantos; the template's rules
    already name the languages.
 2. **The deciding** of retypes 07–15 (step 2), when the user asks: batch by batch in
    page order, each with its section in DONE.md.
