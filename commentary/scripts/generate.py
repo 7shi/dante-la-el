@@ -58,12 +58,10 @@ LANGUAGES = {
         # Shares its script with Italian, as Esperanto does
         "letters": r"[A-Za-z]",
         "closing": "Epilogue",
-        "note": "Write quotation marks as “” and ‘’, not as straight quotes.",
-        # ’ is also the apostrophe: inside a word (don’t, Dante’s, d’Este) or
-        # opening one (’tis, ’neath); a ’ after a plural (souls’) still counts
-        # as a closing quote
+        "note": "Write quotation marks as “” and ‘’, not as straight quotes; "
+                "write the apostrophe as the straight ' (don't, souls', de' Pazzi), not as ’.",
+        # The apostrophe is the straight ', so every ’ closes a ‘
         "quotes": ("“‘", "”’"),
-        "apostrophe": r"(?<=\w)’(?=\w)|(?<!\S)’(?=\w)",
     },
 }
 

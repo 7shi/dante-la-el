@@ -57,7 +57,7 @@ Both prompts are written in English, with the language name filled in. Each lang
 - `name`: the name of the language, written into the prompts (`Modern Greek` for `el`, `Esperanto` for `eo`, `English` for `en`)
 - `letters`: a regular expression for the letters of the language, used to reject copied Italian (for `eo` and `en`, which share the Latin script, it rejects only lines without letters; a verbatim copy is still rejected)
 - `closing`: the word that opens the heading of the closing section (`Επίλογος` for `el`, `Epilogo` for `eo`, `Epilogue` for `en`)
-- `note`: an extra instruction added to both prompts (for `el`, to use the monotonic orthography; for `eo`, to write the letters with diacritics, not in the x- or h-system; for `en`, to write curly quotation marks, not straight ones)
+- `note`: an extra instruction added to both prompts (for `el`, to use the monotonic orthography; for `eo`, to write the letters with diacritics, not in the x- or h-system; for `en`, to write curly quotation marks, not straight ones, and the apostrophe as the straight `'`, so that `’` always closes a `‘`)
 
 ## scripts/fix_quote_blocks.py
 
