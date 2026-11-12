@@ -10,16 +10,18 @@ described in [texts/PLAN.md](../../texts/PLAN.md) ("`texts/grc/`"), the transcri
 **A new session starts here**: read "State". The rules of ocr/PLAN.md ("Decisions",
 "Read-through") apply.
 
-## State (2026-11-10)
+## State (2026-11-12)
 
 Step 0 (setup) done (DONE.md). Step 1–2: retypes 01 (the trial) and 02 (`001`–`032`)
 decided, Gemini 4 Argon; retype 03 (`033`–`058` without `038`) decided, Gemini 3.8 Flash
 (Argon's quota reached; a comparison of the two models, asked by the user, 2026-11-10).
 Retypes 04 (`059`–`083`), 05 (`084`–`108`) and 06 (`109`–`133`) decided, Gemini 3.8
-Flash (the user's choice, 2026-11-10). Retype 07 (`134`–`158`) returned (files checked: all 25 present, none empty; undecided), retype 08 (`159`–`183`) returned (all 25 present, none empty; undecided), retype 09 (`184`–`208`) returned (all 25 present, none empty; undecided), retype 10 (`209`–`233`) returned (all 25 present, none empty; undecided). Retype 11 (`234`–`258`) returned (all 25 present, none empty; undecided). Stopped here by the user: retype 12 waits several days (rate limit); not sent until they say so. From here the
-batches are sent one after another and not decided as they return ("How a batch runs"):
-the returned and undecided ones are listed here as they come (none yet). Not committed
-yet: retype 06.
+Flash (the user's choice, 2026-11-10); committed. Retypes 07–11 (`134`–`258`) returned
+on Gemini 3.8 Flash (files checked: all 25 present, none empty). Stopped there by the
+user: retype 12 waits several days (rate limit); not sent until they say so. The deciding
+of 07–11, batch by batch (the user, 2026-11-12): retypes 07 (`134`–`158`), 08 (`159`–`183`)
+09 (`184`–`208`), 10 (`209`–`233`) and 11 (`234`–`258`) decided. Retype 12 waits until 2026-11-14 (the
+user, 2026-11-12), and is still not sent until they say so.
 
 ## The work ahead
 
@@ -28,11 +30,11 @@ yet: retype 06.
 
    | retype | pages | number | kind |
    |---|---|---|---|
-   | 07 | `134`–`158` | 25 | cantos (returned, undecided) |
-   | 08 | `159`–`183` | 25 | cantos (returned, undecided) |
-   | 09 | `184`–`208` | 25 | cantos (returned, undecided) |
-   | 10 | `209`–`233` | 25 | cantos (returned, undecided) |
-   | 11 | `234`–`258` | 25 | cantos (returned, undecided) |
+   | 07 | `134`–`158` | 25 | cantos (decided) |
+   | 08 | `159`–`183` | 25 | cantos (decided) |
+   | 09 | `184`–`208` | 25 | cantos (decided) |
+   | 10 | `209`–`233` | 25 | cantos (decided) |
+   | 11 | `234`–`258` | 25 | cantos (decided) |
    | 12 | `259`–`285` | 27 | cantos, to the end of the poem |
    | 13 | `287`, `289`–`291`, `293`–`313` | 25 | notes |
    | 14 | `314`–`338` | 25 | notes |
@@ -83,13 +85,22 @@ What the batches taught about the deciding (retype 06):
   the table's page fixed too if it was misread (`Λάνος`, `011` and `112`).
 - **`txtfix.py` does not delete a line**: a line that is not printed is emptied (an empty
   `new`), the blank line left.
-- **The base's own separate breathings** (`᾽Αλλ᾽`) are known on `137`, `144` and `148`:
-  joined when retype 07 is decided.
+- **The base's own separate breathings** (`᾽Αλλ᾽`) on `137`, `144` and `148`: joined in
+  retype 07.
 
 Open points, for the user:
 
+- **The roman `^` mark on `ἢν`** (the user's question, after retype 10): the same mark as
+  `Ὃς`, `Ἃ` (rough with grave, "Settled readings") stands on `Ἢν` (`190` 9, 20; `232`
+  22), where the word (`ἐάν`) has the smooth breathing; at twelve times the two cannot be
+  told apart. Written `Ἢν` by the grammar for now; if the mark is the rough one, these
+  are misprints (`{{Ἣν|Ἢν}}`).
+- **`231` 10 `εἷς`** (rough, circumflex, final sigma) where the sense ("who are you")
+  would want `εἶ`: written as printed, not marked; for the user.
+
 - **`ᾀεὶ` with the iota subscript** is marked as a misprint by the settled reading, but it
-  is now printed in six places (`038`, `077`, `107`, `110`, `120`, `124`), and `ἀεὶ`
+  is now printed in twelve places (`038`, `077`, `107`, `110`, `120`, `124`, `165`,
+  `219`, `234`, `248`, `252`; `198` `Κᾀεὶ`, the crasis), and `ἀεὶ`
   without it was read in the image only where a retype differed. It may be the edition's
   spelling. **Held until the whole text is done** (the user, 2026-11-10): until then each
   one is marked as before; then they are counted, and kept as misprints or changed to
@@ -98,6 +109,7 @@ Open points, for the user:
   then read the iota subscript in the image, and it is a misprint the retype found. The
   task was already sent and is not changed: in the deciding of 07, a subscript missing
   in the retype is not taken as a vote against the base. The task of 08 drops the line.
+  (Retype 07 decided: no place where it mattered.)
 
 ## The text
 
@@ -183,23 +195,43 @@ The edition's readings found in the steps go here, and are applied, not asked ag
   blurred, is the subscript too, not a blot (`111` `ᾈττίλαν`, read by the user).
 - **A low mark between two words** (or a quote and a word) is a spacing quad's, not a
   period: not written (`033` 10, `064` 19, …).
-- **The roman rough breathing with an accent** prints as one `^`-like mark, grave and
-  acute alike: the base's accent is kept (`Ὃς`, `Ἓν`).
+- **The roman rough breathing with grave** prints as one `^`-like mark (`Ὃς`, `Ἓν`, `Ὃν`,
+  `Οὓς`, `Ἃς`); with acute as a loop with a stroke (`Ἵν`, `Ὅτε`, `Ἅλις`). Each `^` stands
+  where the grammar wants the grave (an oxytone before a word). Earlier read as either
+  accent with the base's kept; settled by the user, 2026-11-12, after retype 08
+  (`165` 12, `172` 10 corrected).
 - **The marks of the italic type** (read beside sure ones): smooth with circumflex is
   `3`-shaped (`ἆρ᾽`), smooth with acute a comma and a stroke (`οὔκ`), rough with acute an
   open `c` with a stroke (`αἵματ᾽`), diaeresis with acute dagger-shaped (`πρωΐα`); rough
   with grave a caret with a dot at its top (`ἣ`, `ὃ`), smooth with grave a comma and a
   back stroke (`ἂν`); under a circumflex the hook opens to the right for the rough
   breathing (`οὗτος`), to the left for the smooth (`ἦς`, `τοὖργον`).
+- **The roman capital's smooth breathing** with acute is a comma and a stroke (`Ἔχομαι`,
+  `Ἤρεισ᾽` 187), as in the italic (retype 09). With grave, see "Open points".
+- **Rough and smooth on a small letter**, when worn or small, read at twelve times in the
+  pixels beside a sure one of the same page: the rough is a `c`, its tail to the right
+  (`ὁ`, `ἑκατόν`), the smooth a `)`, its tail to the left (`ἐπὶ`, `ἐγὼ`) (retype 07).
+- **A roman capital with rough breathing and circumflex** has a hook with a stroke
+  (`ᾯπερ` 140, `Ὧδε` 146); with acute and grave, below.
 - **The italic capitals Λ and Δ**: the Λ has serifs at its feet that nearly meet, the Δ a
   solid base (`Λάνος` 011, 112; `Διτός` 075).
 - **The figure `1` for the `Ι`** of a canto number in a heading or running head (one
   serif at the top, to the left) is a misprint, marked (`112`, `124`).
+- **A running head without a printed period** is written without one (`158`, as `035`,
+  `081`).
 - **The page number** is written on the line after the running head, also where the base
   had it before; a number at the foot that is not printed is removed.
 - **A breathing written as a separate character** before a capital (`᾿Α`) is the same
   reading as the joined letter (`Ἀ`): joined in the retype before the comparison, and in
   the base where it is met.
+- **The crasis lengthens the alpha**: before a short ultima the coronis takes the
+  circumflex (`τἆχθος` 213, `τἆλλα` 256); not a misprint (retype 11).
+- **An iota subscript under a capital** for the augment of `αἰ-` and `εἰδ-` is the
+  word's own (`ᾜδειν` 183, 225; `ᾜτησέ` 243; `ᾜτουν` 252), not a misprint (retype 10).
+- **Letter-spaced words** (`Ἤ δ η`, `Ν ῦ ν`, `189` 12, for Dante's *mo* and *issa*) are
+  written closed up.
+- **An ornament or rule** between a canto's title and its argument is not written: a
+  blank line, as at the other canto openings (`205`).
 - **Nested quotes** open `‘“`, go on `‚ „` at the following lines and close `”’` (`034`,
   `074`).
 - **Signature marks** as the base writes them (`Ε 2`, `F`, `G 2`); `convert_grc.py` drops

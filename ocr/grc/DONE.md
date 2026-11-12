@@ -261,3 +261,201 @@ The record of the check of `ocr/grc` planned in [PLAN.md](PLAN.md), step by step
   about 13, 16 and 10.
 - `convert_grc.py`: output as the baseline; `texts/grc` regenerated. `misprints.py`: 34
   rows, 34 marks, 0 problems.
+
+## Step 2: retype 07 (2026-11-12)
+
+- **Pages** (25): `134`–`158` (cantos XV–XVIII). la-el-agy on **Gemini 3.8 Flash**,
+  returned 2026-11-10 and decided now. All written; no breathing written as a separate
+  character this time, so the copy before the comparison changed nothing.
+- **Compared**: `cmpread.py`, 111 places (A 51, B 60); each read in the image, the marks
+  at eight times their size and, where doubtful, at twelve times in the pixels beside a
+  sure one of the same page: the rough breathing on a small letter is a `c` with its tail
+  to the right (`ὁ`, `ἑκατόν`), the smooth a `)` with its tail to the left (`ἐπὶ`,
+  `ἐγὼ`); the roman capital with rough breathing and acute a loop with a stroke (`Ἵν`
+  145, as on `097` and `106`; `Ἅλις` 156; `Ὅτε` 139), with rough breathing and
+  circumflex as `ᾯπερ` (`Ὧδε` 146).
+- **Decided** (readcheck.tsv, 108 rows; the places of one quote counted once):
+  - **Misread**, 95, all in the base: accents (enclitics `φανήσεταί σοι`, `ὄμνυμί σοι`,
+    `κάτωθέν μου`, `κἀτενίζω σέ`; `ἄν` three times, `ἔστ᾽`, `ἔμ᾽`, `εἴμ᾽`, `Εἴ γ᾽`,
+    `εἴτ᾽`, `ἄλλ᾽`, `ἄπελθ᾽`, `ἀπών`, `καθὼς`, `σπιλάς`, `οἰκτράν`, `καταφρονήτους`,
+    `ἠκουόμεθα`, `γεγόνασιν`, `ἀποῤῥωγάδος` / `ἀποῤῥωγάδα`, `συνεῖναι`, `φλοῖσβον`,
+    `Κακιανιμῖκος`, `αὐλῶνας`, `Ἀτμὸν`, `Τοιόνδ᾽`, `καθεδούμενον`), breathings and
+    their accents (`Ἢ`, `Οἳ`, `Ἦμεν`, `Ἐν`, `Ἐπ᾽` twice, `Ἐστίν`, `Ἔγωγ᾽`, `Ἵν᾽` twice,
+    `Ἅλις`, `Ὧδε`, `ὅς`, `Εἷς`, `Εἶπέ` twice, `ἑλεῖν`, `εἱστήκει`, `Ἑβδόμου`,
+    `ἑστιᾷν`, `ἑλιγμῶν`, `εἱπόμην`, `αὑτοῦ`, `ἠμύνοντο`, `ᾄδετ᾽`), crasis (`κἀν`,
+    `κἀμέτρους`, `τοὖργον`, `καὐτίκ᾽`, `τἀκάτιον`, `κᾆτα`, `Τοὐμβαδὸν`, `τοὖρος`), `ῤῥ`
+    six times, the iota subscript (`ᾐσθάνθη`, `ᾐσθάνθην`, `σιγᾷν`, `διῄρητ᾽`,
+    `Συνῄνεσ᾽`, `ᾬχετο`; `προσηνὴς` without), words (`Τόπον`, `τοιᾶσδ᾽`,
+    `τρίῤῥυγχον`, `διαγράψω`, `Κακόβοθρον`, `ἔκραξεν`, `Ἔκραξε`, `δεισαλέας`, a `δ’`
+    not printed on `155` 5), quotes (`‘ ἤμην,’` 139 14; the nested quotes of `146` 22 and
+    `147` 2; a closing `’` on `153` 21), an upper dot (`148` 19), the base's own
+    separate breathings joined (`137` 18, `144` 7 and 18, `148` 15 and 22), a second
+    `121` at the foot of `141`, not printed, removed, the page number of `157` put after
+    the running head, and a period not printed in the running head of `158`.
+  - **Misprints**, 4 (misprints.tsv): `134` `δὶ` (a grave for the elision mark), `139`
+    `Εἰπόμην` (the smooth breathing for the rough), `146` `και` and `147` `ἀλλ` (the
+    grave and the elision mark did not print).
+  - **Printed**, 9: the retype's errors (below) and the signatures `I`, `K`, `K 2` as the
+    base writes them.
+- **The retype** (Flash) erred in about 8 places in 25 pages: `κείνοι`, `Ποιῇ`,
+  `Γιγδουγγέρας`, `Μαρουλίου`, `ποικιλόδερματον`, `ἐστωσάν`, and two misprints corrected
+  from the sense (`Εἱπόμην`, `ἀλλ᾽`). It found the other two misprints, and none of its
+  readings was a dropped iota subscript (the task's `ᾈττίλαν` line, "Open points" in
+  PLAN.md). Retypes 03–06 (Flash): about 13, 16, 10 and 12.
+- `convert_grc.py`: its report as the baseline; `texts/grc` regenerated (cantos XV–XVIII).
+  `misprints.py`: 38 rows, 38 marks, 0 problems.
+
+## Step 2: retype 08 (2026-11-12)
+
+- **Pages** (25): `159`–`183` (cantos XIX–XXII). la-el-agy on **Gemini 3.8 Flash**,
+  returned 2026-11-10 and decided now. All written; no breathing written as a separate
+  character, the copy before the comparison changed nothing. The base wrote some
+  breathings as a separate `’` (`’Ηκροᾶτο`, `165`) or twice, once as a quote mark
+  (`’Ὠθεῖν`, `176`, `180`): joined as found.
+- **Compared**: `cmpread.py`, 114 places (A 54, B 60); each read in the image as in
+  retype 07.
+- **Decided** (readcheck.tsv, 109 rows):
+  - **Misread**, 101, all in the base: accents (enclitics `εἰδώς με`, `ἐμπνέουσί μοι`,
+    `μού τις`, `μή σ᾽`, `πρός μ᾽`, `Ὑπό θ᾽`; `ἔστ᾽` / `ἔσθ᾽` five times, `ἔστι`,
+    `εἴμ᾽` twice, `εἴσ᾽`, `εἴ γ᾽`, `Οὔ`, `ἔμ᾽`, `εἴωθας`, `δή`, `μή`, `χρηστούς`,
+    `Μαντώ`, `Μιχαὴλ`, `ἐμέ`, `κάλως`, `πλουτίσαι`, `προὶξ`, `δηκτικωτέροις`,
+    `δαίμον᾽`, `προσεῖχον`, `Ἀῤῥητῖνοι`, `Ἀλικῖνε`, `Καλκαβρίνα`, `κευθμώνων`,
+    `δυσμόθεν`, `Κάϊν`, `πλωΐμων`, `εἶς`), breathings and their accents (`Ἠρξάμην`,
+    `Ὑπ᾿`, `Ἅμ᾽`, `Ὅδ᾽`, `Εἵλκυσέ`, `ἣ` twice, `ὅρον`, `ἕκτης`, `ὢ`, `ἆρα`, `Ἆρον,
+    ἆρον`, `Ὧδ᾽`, `εἷς`, `αὑτοῦ`, `αὑτῆς`, `Ἁβρῶς`, `Ἁψῖδος`, `ἁρπάγας`), crasis
+    (`κἀν`, `κὠχυρὸν`, `κἀρτέμον᾽`), `ῤῥ` twice, the iota subscript (`εἴσῃ`, `σῇ`,
+    `ᾖς`, `αἰσχύνῃ`, `ᾔτησε`, `ᾜτησαν`, `ζῇ`, `κατῴκει`, `᾿μῇ`, `θείᾳ`, `τέχνῃ`;
+    `βελόνης` without), words (`Μέσον`, `Δολοφόνον`, `ἔκραξε` twice, `ἔστρεψε`,
+    `ἐγεννήθην`, `Λελυμένοις`, `ὑποσπόνδως`, `Παρόντ᾽ αἴσθωνται`, `Δραγιγνάζος`,
+    `Καριάττος`, `διαφέρετ᾽`), punctuation (upper dots `162` 11, `164` 6, `167` 21;
+    commas `164` 15, `177` 4; the nested quotes of `167` 21–22), the base's separate
+    breathings joined (`165` 11, 15, 22; `176` 6, 15, 17; `180` 5, 6), a second `157`
+    at the foot of `177`, not printed, removed, and the roman `^` mark as rough
+    breathing and grave (`Οὓς` 165, `Ἃς` 172; first decided printed with the base's
+    acute, then settled with the user by the grammar, PLAN.md "Settled readings").
+  - **Misprints**, 5 (misprints.tsv): `165` `ᾀεὶ` (held with the others, "Open points"
+    in PLAN.md), `173` `ἀπατεῶνες` (the period before the dash of the argument did not
+    print; the table of contents has it), `175` `Ζιτας` and `183` `Ἡγητωρ` (the acute did
+    not print), `183` `ᾜδειν` (an iota subscript under the capital).
+  - **Printed**, 3: the retype's errors (below).
+- **The retype** (Flash) erred in about 5 places in 25 pages: `ᾗ` for `ἣ`, `Ἴσπαλιν`,
+  `Τυβάλδῳ`, an upper dot for a period (`163` 10) and one added to the argument of `173`.
+  It read the roman `^` mark as rough with grave (`Οὓς`, `Ἃς`), as now settled. It found
+  all five misprints. Retypes 03–07 (Flash): about 13, 16, 10, 12 and
+  8.
+- `convert_grc.py`: its report as the baseline; `texts/grc` regenerated (cantos XIX–XXII).
+  `misprints.py`: 43 rows, 43 marks, 0 problems.
+
+## Step 2: retype 09 (2026-11-12)
+
+- **Pages** (25): `184`–`208` (cantos XXII–XXV). la-el-agy on **Gemini 3.8 Flash**,
+  returned 2026-11-10 and decided now. All written; 35 breathings written as a separate
+  character, joined in the copy before the comparison. The base had a straight quote for
+  an elision mark (`189` 7), and its ornament lines at the opening of canto XXV (`205`):
+  both changed as found.
+- **Compared**: `cmpread.py`, 96 places (A 59, B 37); each read in the image as in
+  retype 07, the roman breathings beside sure ones of the same pages.
+- **Decided** (readcheck.tsv, 96 rows):
+  - **Misread**, 88, all in the base: accents (`Εἶπέ`, `Λατῖνον`, `ἐξεῖλε`, `Σύνεστιν`,
+    `Πλείον᾽`, `καταπλὴξ`, `ὥς ἐστιν`, `μυκτῆρ᾽`, `εἴμ᾽`, `Ἀλικῖνος`, `χρυσοῦς`,
+    `περιλαμπεῖς`, `προσείχομεν`, `ἔστι`, `ἔστ᾽`, `Ἰδών`, `Ἐστὶν`, `μικρόν`, `πρός`,
+    `ἠδυνάτουν`, `Εἴ`, `ἀποῤῥὼξ`, `ἐμπηγνῦσιν`, `Ἔνθ᾽`, `Χαμᾶζε`, `κευθμών`,
+    `ἀπαντηθείς`, `ἄνοιξον`, `εἶτ᾽`, `Περάνας`, `οἴομαι`, `χεῖρας`), breathings and their
+    accents (`εἷς` three times, `ἑοῦ`, `ἆρά`, `ἆρ᾽`, `Ἤρεισ᾽`, `ἠνώρθωσε`, `ἑψητοὺς`,
+    `Ἢν` twice, `αὑτῆς` / `αὑτὸν` / `αὑτοῦ` six times, `εἷρπ᾽`, `ἑνοῦται`, `ἥφθη`,
+    `εἱλόμην`, `ὃ`, `ἤν`, `Ὦτ᾽`, `Ὅτ᾽`, `Ὁ`, `ἢ`, `Εὕδων`, `Οὑμὸς`, `ἑξάπους`), crasis
+    (`κοὐχὶ`, `τοὐμὸν`, `κοὐρὰν`, `κοὐδαμόσ᾽`), `ῤῥ` four times, the iota subscript
+    (`ᾐσθόμην`, `κἀναζῇν`, `αἰτίᾳ`), words (`Καριάτος`, `Δραγιγνάζος`, `περιέστρεψε`,
+    `Ἐνεπαίχθησαν`, `Στρέφον`, `τετρυμένας`, `στρέψον`, `πάγγυμνος`, `Μέσον`, `Φλοξὶ`,
+    `ἀνθρώπινον`), the aphaeresis mark (`᾽τράφην`), punctuation (upper dots `187` 13,
+    `200` 7; a comma `203` 5; no comma `193` 9), and the two ornament lines of `205`
+    emptied.
+  - **Misprints**, 2 (misprints.tsv): `188` `ὄνυξίν` (a second acute), `198` `Κᾀεὶ` (an
+    iota subscript, held with `ᾀεὶ`, "Open points" in PLAN.md).
+  - **Printed**, 6: the letter-spaced `Ἤ δ η` and `Ν ῦ ν` of `189` 12, written closed up
+    (PLAN.md "Settled readings"), and the retype's errors (below).
+- **The retype** (Flash) erred in about 7 places in 25 pages: `Ἢν` for `Ἤν` (`186` 20),
+  `ἤ` for `ἢ` (`199` 3), `Ἐπόμενος`, `μεῖζον᾽`, an upper dot for a spacing mark (`192`
+  14), and two misprints set right without a mark (`ὄνυξιν`, `Κἀεὶ`). It kept the
+  letter-spacing of `189` 12. Retypes 03–08 (Flash): about 13, 16, 10, 12, 8 and 5.
+- `convert_grc.py`: its report as the baseline but for `193`'s turnover line, which now
+  reads `στρέψον`; `texts/grc` regenerated (cantos XXII–XXV).
+  `misprints.py`: 45 rows, 45 marks, 0 problems.
+
+## Step 2: retype 10 (2026-11-12)
+
+- **Pages** (25): `209`–`233` (cantos XXV–XXVIII). la-el-agy on **Gemini 3.8 Flash**,
+  returned 2026-11-10 and decided now. All written; no breathing written as a separate
+  character. The base had one (`’Ατενὴς`, `222`), the ornament lines of canto XXVI
+  (`213`), a figure `0` in the signature `O 2` (`215`), and no signatures on `213`, `229`,
+  `231`: changed as found.
+- **Compared**: `cmpread.py`, 134 places (A 64, B 70); 22 of them the nested quotes of
+  `218`–`219` and `226`–`227`, read together on the page (`‚ „`, as `074`); the others each
+  in the image as in retype 07.
+- **Decided** (readcheck.tsv, 121 rows):
+  - **Misread**, 110, all in the base: accents (`ὀφείδιόν`, `ἐκεῖνον`, `Σῖγα`, `Σῖγ’`,
+    `συναφῆς`, `μυκτῆρα`, `μυκτῆρ᾽`, `Τά τ᾽`, `Βουῶσος`, `φλοξὶν`, `ἔστ᾿` / `ἔστ᾽` three
+    times, `ὄφλουσι`, `φλὸξ`, `κινεῖσθε`, `τοσούτου`, `ἐξιόντος`, `σύ` twice, `Λατῖνός`,
+    `χλωρούς`, `δέομαί`, `μή`, `ἔῤῥιπτε`, `κάλως`, `συμβουλάς`, `κλείειν`, `κλείεται`,
+    `πυρός`, `Αὐτάς`, `ἀφηγήσαιτ᾽`, `πταῖσμ᾽`, `προεῖπέ`, `Ἐν`), breathings and their
+    accents (`ἅτερος`, `οὑτωσὶ`, `Ἥττονα`, `ἅμ᾽`, `Ὁρμῶντας`, `Οὑμὸς` / `οὑμὸς` three times,
+    `αὑτ-` seven times, `ἁγνὸς`, `Ἠδυνήθησαν`, `Ὅτ᾽`, `Ἥσθημεν`, `εἷλξε`, `Ἠρξάμην`,
+    `εἱστήκει`, `Ἃ`, `ἠμέλει`, `ἁψῖδος`, `ἕν᾿`, `εἷς`, `Ἑκατὸν`, `Ἵν᾽`, `ἕξετε`, `Ἢν`),
+    crasis (`θἀτέρου` twice, `τοὔνομα`, `Κἀκεῖνοι`, `τἀκτὸς`), `ῤῥ`, the iota subscript
+    (`ζῇν`, `χαλᾷν`, `σιωπᾷν`, `ᾔτησε`, `ᾐτήσατό`, `ἐπανίδῃς`; `κἀπήρχετ᾽` and `Ἐπωάζων`
+    without), words (`Ἐλθὸν`, `κἀνείλκυσέ`, `εὐωδοῦτο`, `ἵππου`, `Ἐγρηγορούσας`, `οὖσ’`,
+    `ἰσχναίνειν`, `Τιλακοσσίοις`, `τετρημένον`, `τεθαυμασμένως`, `μονοφθάλμως`,
+    `πρωΐας`), punctuation (upper dots `217` 17, `220` 7; a low mark after `χρόνον`, `218`
+    22, a spacing quad's; the nested quotes, 22 lines), the separate breathing joined, the
+    ornament lines emptied, and the signatures.
+  - **Misprints**, 3 (misprints.tsv): `213` `τἆχθος` (a circumflex for the acute; unmarked
+    in retype 11, the crasis lengthens the alpha), `219` `ᾀεὶ` (held, "Open points" in
+    PLAN.md), `230` `Φρεγελλαις` (no accent).
+  - **Printed**, 8: the retype's errors (below).
+  - **`183` `ᾜδειν`** (retype 08) unmarked: the edition writes `ᾔδειν` with the
+    subscript (`203` 17, `225` 6), the Attic form; its row of misprints.tsv removed and its
+    readcheck row changed to misread.
+- **The retype** (Flash) erred in about 9 places in 25 pages: `Ἴσπαλιν` (as in 08),
+  `μοὖδωκεν`, `ᾘδειν`, `αὑτῷ`, an upper dot for a period (`214` 10) and for three spacing
+  marks (`217` 12, `227` 18, `233` 16), and `τἄχθος` for the printed `τἆχθος`. It wrote the
+  nested quotes `, „` with a comma. Retypes 03–09 (Flash): about 13, 16, 10, 12, 8, 5 and 7.
+- Open, for the user (PLAN.md "Open points"): the roman `^` mark on `Ἢν` (`190`, `232`),
+  and `εἷς` at `231` 10.
+- `convert_grc.py`: its report as the baseline; `texts/grc` regenerated (cantos XXV–XXVIII).
+  `misprints.py`: 47 rows, 47 marks, 0 problems.
+
+## Step 2: retype 11 (2026-11-12)
+
+- **Pages** (25): `234`–`258` (cantos XXVIII–XXXI). la-el-agy on **Gemini 3.8 Flash**,
+  returned 2026-11-10 and decided now. All written; no breathing written as a separate
+  character. The base had ornament lines at the openings of cantos XXIX and XXX (`237`,
+  `245`) and no signatures on `245`, `247`: changed as found.
+- **Compared**: `cmpread.py`, 104 places (A 48, B 56); each read in the image as in
+  retype 07, the roman breathings beside sure ones of the same pages.
+- **Decided** (readcheck.tsv, 96 rows):
+  - **Misread**, 77, all in the base: accents (`πιστός`, `Υἱόν`, `Δαυῒδ`, `Εἴ`, `ἐπεῖπον`,
+    `Ἤκουσά`, `καθειργμένοι`, `κλιβάνῳ`, `μαχαιρὶς`, `Εἴμ᾽`, `οὔ`, `Ἀλλά`, `δή`,
+    `Ἐριννῦς`, `ἔσθ’` / `ἔστ’` / `ἔσθ᾽` three times, `Δωνάτον`, `εἰκών`, `ὁδεῦσαι`,
+    `πλείον᾽`, `θλίψις`, `Ἔγκλειστοι`, `στῆθος`, `μάϊ`, `ἀάλμι`, `ὀργὴ`, `αὐτόν ἐστιν`,
+    `ἅς`, `Ἤλθομεν`), breathings and their accents (`αὑτοῦ`, `Ἄλλα`, `Οὑμὸς` / `οὑμὸς`
+    twice, `Ἤπερ`, `ἆρ᾽`, `Ὧδ᾽`, `ὅ`, `Ἄγος`, `ἥδε`, `ῥ` twice), crasis (`κἀτενίζων`,
+    `τοὖργον`, `θἀτέρου`, `θἄτερον` twice, `χἁπαλοὺς`, `τοὔφελος`, `προὐχώρουν`,
+    `τἆλλα`, `τἀσκεπὲς`), `ῤῥ` twice, the iota subscript (`φυλῇ`, `ᾜτησέ`, `ᾜτουν`,
+    `Τρῳάδες`, `κοιλίᾳ`, `Τοιᾷδ’`, `ὁρᾷν`; `σώζων` without), words (`Ἔκραξε`, `Οἴμοι`,
+    `τοιᾶσδ’`, `Ῥεγιῶνος`, `συνυπάρξῃ`, `διεκλόνησεν`), punctuation (the nested quotes
+    of `234` 7 and `238` 15; a comma `238` 18), the ornament lines emptied (with the
+    dashes of `237` 3 closed up), and the signatures.
+  - **Misprints**, 8 (misprints.tsv): `234`, `252` `ᾀεὶ` and `248` `ᾈεὶ` (held, "Open
+    points" in PLAN.md), `238` `δακτυλῳ` and `252` `θελειν` (no accent), `248` `Α΄` for
+    `Λ΄` in the running head, `250` 7 one comma of `„`, `256` `Ρώμῃ` (no breathing).
+  - **Printed**, 11: the retype's errors (below).
+  - **`213` `τἆχθος`** (retype 10) unmarked: the crasis lengthens the alpha, as `τἆλλα`
+    (`256` 8); its row of misprints.tsv removed and its readcheck row changed to misread
+    (PLAN.md "Settled readings").
+- **The retype** (Flash) erred in about 11 places in 25 pages: an upper dot for a period
+  (`235` 9, 21; `257` 4), for a spacing mark (`237` 11, `242` 12) and for nothing (`243`
+  3, `246` 10), `Ἥν` for `Ἣν`, `τετμημένου`, `Προυειλόμην`, `ζῴων`, `κἁπαλοὺς`. It wrote
+  the nested quotes `, „` with a comma. Retypes 03–10 (Flash): about 13, 16, 10, 12, 8,
+  5, 7 and 9.
+- `convert_grc.py`: its report as the baseline; `texts/grc` regenerated (cantos
+  XXVIII–XXXI). `misprints.py`: 54 rows, 54 marks, 0 problems.

@@ -33,3 +33,23 @@ page	line	printed	fixed	applied	source	note
 120	14	Ἐσᾳεὶ	Ἐσαεὶ	yes	edition	XIV 9; an iota subscript where the word has none, as `ᾀεὶ` on 110; found by the retype.
 124	1	1Δ΄	ΙΔ΄	yes	edition	The running head of XIV 75–94; the figure `1` for the letter `Ι`, as on 112; found by the retype.
 124	2	ᾀεὶ	ἀεὶ	yes	edition	XIV 75; an iota subscript where the word has none, as on 110; found by the retype.
+134	10	δὶ	δι᾽	yes	edition	XV 122; a grave over the iota, no elision mark; found by the retype.
+139	21	Εἰπόμην	Εἱπόμην	yes	edition	XVI 91; the smooth breathing for the rough (`εἱπόμην` on 152); found by the retype.
+146	6	και	καὶ	yes	edition	XVII 56; the grave did not print; found by the retype and Tesseract.
+147	21	ἀλλ	ἀλλ᾽	yes	edition	XVII 92; the elision mark did not print; found by the retype.
+165	11	ᾀεὶ	ἀεὶ	yes	edition	XIX 122; an iota subscript where the word has none, as on 110; found by the retype.
+173	3	ἀπατεῶνες	ἀπατεῶνες.	yes	edition	The argument of canto XXI; the period before the dash did not print (the table of contents, 012, has it); found by the retype.
+175	8	Ζιτας	Ζίτας	yes	edition	XXI 38; the acute did not print; found by the retype and Tesseract.
+183	14	Ἡγητωρ	Ἡγήτωρ	yes	edition	XXII 46; the acute did not print; found by the retype and Tesseract.
+188	8	ὄνυξίν	ὄνυξιν	yes	edition	XXII 140; a second acute printed on the last syllable; found by the retype.
+198	13	Κᾀεὶ	Κἀεὶ	yes	edition	XXIV 26; an iota subscript where the word has none, as `ᾀεὶ` on 110; found by the retype.
+219	14	ᾀεὶ	ἀεὶ	yes	edition	XXVI 126; an iota subscript where the word has none, as on 110; found by the retype.
+230	4	Φρεγελλαις	Φρεγέλλαις	yes	edition	XXVIII 16; the accent did not print; found by the retype and Tesseract.
+234	7	ᾀεὶ	ἀεὶ	yes	edition	XXVIII 99; an iota subscript where the word has none, as on 110; found by the retype.
+238	14	δακτυλῳ	δακτύλῳ	yes	edition	XXIX 26; the acute did not print; found by the retype and Tesseract.
+248	1	Α΄	Λ΄	yes	edition	The running head of canto XXX; `Α` for `Λ`; found by the retype and Tesseract.
+248	17	ᾈεὶ	Ἀεὶ	yes	edition	XXX 67; an iota subscript under the capital where the word has none, as on 038; found by the retype.
+250	7	‚	„	yes	edition	XXX 98; one comma of the continuation quote `„` printed; found by the retype.
+252	15	ᾀεὶ	ἀεὶ	yes	edition	XXX 145; an iota subscript where the word has none, as on 110; found by the retype.
+252	18	θελειν	θέλειν	yes	edition	XXX 148; the acute did not print; found by the retype and Tesseract.
+256	7	Ρώμῃ	Ῥώμῃ	yes	edition	XXXI 59; the rough breathing did not print; found by the retype.
