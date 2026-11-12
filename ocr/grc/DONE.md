@@ -496,3 +496,138 @@ The record of the check of `ocr/grc` planned in [PLAN.md](PLAN.md), step by step
 - `convert_grc.py`: the report as the baseline but the turnover word on `268`
   (`φθέγγομαί`); `texts/grc` regenerated (cantos XXXI–XXXIV). `misprints.py`: 62 rows,
   62 marks, 0 problems.
+
+## Step 2: retype 13 (2026-11-12)
+
+- **Pages** (25): `287`, `289`–`291`, `293`–`313` (the notes to cantos I–XV). Retyped by
+  **Claude (Opus 5.5) directly**, as retype 12: from the page images alone, each page in
+  four strips at twice its size; the form of the notes (running head and page number,
+  headings `Εἰς ᾨδὴν Β΄.`, footnotes, signatures) taken first from `292` and `343`.
+- **Compared**: `cmpread.py`, 130 places (A 78, B 52); each read in the image, the marks
+  at six to twelve times beside sure ones of the same pages.
+- **Decided** (readcheck.tsv, 133 rows: the 130 places less one double, and four marks
+  seen besides):
+  - **Misread**, 116, all in the base: accents (`μέν` four times, `ἔστι` /
+    `ἔστιν` five times, `ἐστὶν`, `Κελεστῖνος`, `Μεσαιῶνα`, `μνηστῆρα`, `ἐπιμᾶλλον`,
+    `Φλωρεντῖνοι`, `δόλιόν`, `μιμεῖταί`, `ἐφάμιλλός`, `δυσερμήνευτός`, `προφητική`,
+    `Βουλίκαμόν`, `Ἐπεισόδιόν`), breathings (`Ἔαρος`, `Ἰερεμίου`, `Ἑωσφόρον`, `ἕκτον`,
+    `ἁρπαγὴν`, `ἁρπαλέος`, `Ἁμάξης`, `Ἀκρ.`, `ὅς`, `ἥ`, `ὂν`; `Ὅρα` and `Ἕλος` by the
+    grammar, the roman mark `″` over the capital), the iota subscript and the
+    diaeresis (`ᾨδῇ` and `ᾨδ.` on capitals, `ῥᾳδιουργοῦσαν`, `ῥᾳθυμίας`, `Παρομοίᾳ
+    μεταφορᾷ`, `Πομπηΐῳ`, `Παταυΐου`, `σώζειν`), `ῤῥ` four times, words and names
+    (`διαλάμποντα`, `φόβον`, `Κορδύβης`, `Ἰάκωβος`, `Πιστωρίᾳ`, `Δωνάτων`, `ἐξητήσαντο`,
+    `ἀνανδρίας`, `σύναμα`, `Μέσον`, `συνάξω`, `καί τοι`, `Βεάτριξ`, `ἔγραψε`,
+    `ἀλχυμισταί`, `σημείου`, `Βιτερβίνῳ` / `Βιτερβίνου`, `Κορνέττον`, `Μαρέμμας`,
+    `Cività`, `συνείχοντο`, `Βονδελμόντης`, `Γουϊνευείρας`, `Γιβελίνων`, `Ἐριννύων`),
+    figures (`19`, `12`), capitals (`λύκαινα`, `λαοῦ`, `βασιλίσσης`, `χριστιανισμόν`
+    small; `Λαγνείας`, `Λαιμαργίας`, `Θανάτου` capital), punctuation (raised dots,
+    colons, a comma), the signatures `T` (`293`) and `T 2` (`295`), and the page number
+    of `311` set after its running head. `311` 5 `Παταυῗνος` (diaeresis with
+    circumflex) was misread by both.
+  - **Misprints**, 17 (misprints.tsv): missing accents (`το`, `διδασκειν`, `ἀρχαιας`) or
+    breathing (`Ιούβα`), wrong accents (`πρός`, `ἄσωτοί`, `νεκρὼν`, `ἐπίκουρειοι`), the
+    subscript of `τοιαύτη`, `ἀλυσίδετον` (smooth for rough), `ἄλλωυς`, `snelleto`,
+    `τῇ ποιητῇ` and `τοῦ κεραυνοὺς` (wrong article), the period after `ὀδύναις`, and
+    the running heads of `298` and `299` (`Ε΄` for `ΣΤ΄`).
+- **The base's lines**: `294`, `299` and `304` had each note joined on one line; they
+  were written from the decided retype, broken as printed (the words checked: only the
+  decided places changed in `texts/grc`; `convert_grc.py` reports three new hyphen
+  joins, `Quadrivium`, `tormenta`, `Uberti`, all right).
+- **The retype** (Opus 5.5) erred in 3 places in 25 pages: `ἐπικούρειοι` for the printed
+  `ἐπίκουρειοι`, `Παταυΐνος` for `Παταυῗνος`, `Ἰούβα` for the printed `Ιούβα`. It found
+  the base's errors in about 115 places.
+- `convert_grc.py`: its key for the Musaeus quotation (`NOTE_VERSE`, `“Ὄλβιος ὃς`)
+  changed to the corrected `“Ὄλβιος ὅς`; the report as the baseline but the three
+  hyphen joins; `texts/grc` regenerated (the notes). `misprints.py`: 79 rows, 79 marks,
+  0 problems.
+
+## Step 2: retype 14 (2026-11-12)
+
+- **Pages** (25): `314`–`338` (the notes to cantos XV–XXVIII). Retyped by **Claude
+  (Opus 5.5) directly**, as retypes 12 and 13, from the page images alone, in four strips
+  at twice the size.
+- **Compared**: `cmpread.py`, 143 places (A 81, B 62); each read in the image, the marks
+  at six times beside sure ones of the same pages.
+- **Decided** (readcheck.tsv, 137 rows: the 143 places less 8 where the base was right
+  and 4 doubles, one place split in two, and five misprints seen besides):
+  - **Misread**, 117, all in the base: accents (`ἐπίμεμπτός`, `οὗτός`, `πρόθεσίν`,
+    `μέν`, `Γηρυών`, `φρούριόν`, `καταφατικόν`, `ἐμπαιγμός`, `ἀγαπητός`, `αἰνίττεταί`
+    before enclitics; `ἀνήρ`, `ἔστι`, `πόλλ᾽`, `Κάϊν`, `Σκροβῖνοι`, `Μαλατεστῖνος`,
+    `Κελεστῖνος`), breathings (`Ἅγιος`, `Ἔστης`, `Ἱσπανίᾳ`, `Ἡλιοὺ`, `ὅρα`, `ὃς`,
+    `αἰσχραῖς`, `ἤκμαζεν`, `ἐφεξῆς`), the iota subscript and the diaeresis (`Πάπᾳ` three
+    times, `ἰδίᾳ`, `διῴκησε`, `διῃρέθησαν`, `Σαρδῷος`, `Παταυΐου`, `Παταυῗνοι`,
+    `Παταυΐῳ`, `Βουϊαμόντην`, `Σαύϊον`, `Θαῒς`, `Thaïs`, `Γουΐδος` three times), `ῤῥ`
+    seven times, words and names (`Λατίνης`, `Κακώνυχες`, `Ἔγραψε`, `παριστάναι`,
+    `Μαμφρέδον`, `Ἐνήδονοι`, `Γαυΐλη`, `Συγγνωστέος`, `μεταῤῥυθμητὴς`, `Βονδελμόντης`,
+    `κόρῃ τινὶ`, `τούτων`, `Φόρον` four times, `Μοντεφέλτρον`, `Μαρκάβον`, `porquoy`,
+    `délitaubles`), figures (`1291`, `94`), capitals (`λίμνης`, `βασιλεῖ` small; `Θεία`
+    capital), punctuation (raised dots, the keraia of `Ι΄`, four dots before `tremuere`),
+    `ἐπισκο-` / `πὴν` (`ἐπίσκο` / `τὴν`), the signature `X 2` on `327` (a Greek chi,
+    without the blank line), and the page numbers of `325`, `329`, `335` and `337` set
+    after their running heads.
+  - **Misprints**, 20 (misprints.tsv): letters (`πυταμὸν`, `Μαρουΐσυ`, `Βοτιφακίου`,
+    `Φλωρεντίων`, `Ἐλισιαιὲ`, `πέμπου`, `δαταγὴν`, `Conrandin`, `précépité`,
+    `differe`), the years `1203` and `1214` for 1303 and 1314, accents (`αὐτοὺ`,
+    `Λιβιου`, `τό`, `ἐξηπατησε`, the running head `ᾨδην` of `323`), punctuation
+    (`μερίδος.`, `ψεύδους..`), and the hyphen not printed after `ἀφανι`. Six of them the
+    base had as printed (`Βοτιφακίου`, `1203`, `1214`, `δαταγὴν`, `Conrandin`, `differe`).
+- **The base's lines**: `321`, `322`, `336` and `338` had notes joined on one line. All 25
+  pages were written from the decided retype, broken as printed; with them the running
+  heads took the form of the notes (`NNN Εἰς ᾨδὴν Χ΄.` / `Εἰς ᾨδὴν Χ΄. NNN`, a blank line
+  after), the elision marks `᾽`, and the apostrophes `’` in Italian and French. The
+  base's spacing of quotes (`“ Καὶ`) and its paragraph break before `Ἀσδέντης` (`324`)
+  were kept. The words checked: only the decided places changed in `texts/grc`.
+- **The retype** (Opus 5.5) erred in 10 places in 25 pages: `Ἅδου` / `Ἅδῃ` / `Ἅδην` for
+  the printed `ᾍδ-` six times (the subscript under the capital, the book's spelling),
+  the hyphen of `Κακοὶ-` / `ὄνυχες` left out, `XVIIIe` for `XVIIIᵉ`, and the corrected
+  `διαταγὴν` and `Μαρουΐου` for the printed `δαταγὴν` and `Μαρουΐσυ`. It found the base's
+  errors in about 120 places.
+- `convert_grc.py`: `κακοὶ-ὄνυχες` added to `HYPHEN_FIXED` (the compound keeps its
+  hyphen, as `Κακὴ-Οὐρά`); its key for the Statius quotation (`NOTE_VERSE`, `. . .
+  tremuere`) changed to the four dots printed. The report as the baseline;
+  `texts/grc` regenerated (the notes). `misprints.py`: 99 rows, 99 marks, 0 problems.
+
+## Step 2: retype 15 (2026-11-12)
+
+- **Pages** (12): `339`–`342` and `344`–`351` (the notes to cantos XXVIII–XXXIV, to the
+  end of the book; `343` was done in the trial). Retyped by **Claude (Opus 5.5) directly**, as
+  retypes 12–14, from the page images alone, in four strips at twice the size.
+- **Compared**: `cmpread.py`, 78 places (A 39, B 39); each read in the image, the marks
+  at six to ten times beside sure ones of the same lines.
+- **Decided** (readcheck.tsv, 71 rows: the 78 places less 7 where the base was right and
+  1 double, and one misprint seen besides):
+  - **Misread**, 66, all in the base: accents (`υἱός`, `Νικολός`, `Λέαρχον`, `πολύτιμον`,
+    `αὗταί`, `ἀνῆκον`, `ἀντιστῆναι`, `Γιβελῖνος`, `Γριφολῖνος`, `Νῖνος`, `πλατεῖαν`,
+    `ἀποκοπεῖσαν`, `ῥηθεῖσιν`, `ἀτμίδες`, `δώδεκα`, `Ἀντιάνων`, `Βελζεβούλ`, `εἰσὶ`,
+    `ἐστὶν`, `καιρός`, `ἥμισύ ἐστιν`, `Ὀβιδ` three times), breathings (`ἑξήκοντα`,
+    `Ἅγιος`, `οἵα`, `ὅ`, `οὓς`, `Ἑωσφόρος` / `Ἑωσφόρου` six times), the iota subscript
+    and the diaeresis (`ἀνῃρέθη` twice, `κατῳκίσθη`, `γηΐνης`, `Πιαντρευῗνον`), `ῤ`
+    (`παρορμήσεσι`, `Μύῤῥα`), words and names (`Γαλλίας` for `Ἰταλίας`, `Γέρης`,
+    `ἠράνιζον`, `ἀλχυμιστὴς`, `Γιάνης`, `τύρσεων`, `Λαγκελώτου`, `Σάσσολις`, `Monfort`,
+    `καί τοι`, `προὔδωκε`, `συνέχεεν`, `προδόντος`), capitals (`βασιλείαν` small, `ᾨδῆς`
+    capital), punctuation (raised dots after `Δαυΐδ`, `ἔλεγεν`, `ᾍδου`; the periods of
+    `Β΄.,`, `ΙΕ΄.,`, `ΙΓ΄.`, `Ι΄.`), the signatures `Y` (`341`, a Greek upsilon) and `Z`
+    (`349`, a small z), and the page number of `351` set after its running head.
+  - **Misprints**, 5 (misprints.tsv): the hyphen not printed after `οὐ` (`οὐ` /
+    `δέποτε`), the running head `ᾨδήν` of `341` (an acute), `Τα` with no accent (a
+    quotation of Aristotle), `Τρῴων` with an iota subscript, and `Alterigo` for
+    Alberigo (the Greek has `Ἀλβερίγος`; the base had it as printed).
+  - **Left as printed, not marked**: `λοιμώδους` (`340`) with a broken `δ`; `ὅπερὰ
+    πέχει` (`350`), a space set one letter late, kept as the base's `ὅπερ ἀπέχει` (word
+    spaces are not marked); `Μεταμ. Ι΄. 567` (`341`, Myrrha), the same line number as
+    Hecuba's just above.
+- **The base's lines**: `339` and `348` had notes joined on one line. All 12 pages were
+  written from the decided retype, broken as printed; with them the running heads took
+  the form of the notes and the elision marks `᾽`. The base's spacing of quotes (`“Καὶ`,
+  no space here) and its paragraph breaks before `“Οἱ δὲ Γίγαντες` and `Πέτρα Ἀπουάνα`
+  (`344`) were kept. `Τριβαλδέλλος` (`346`), a paragraph of its own in print, which the
+  base had run into the note to 122, was set off by a blank line. The words checked:
+  only the decided places changed in `texts/grc`.
+- **The retype** (Opus 5.5) erred in 8 places in 12 pages: `Ἐῤῥίκ-` with the smooth
+  breathing for the printed `Ἑῤῥίκ-` seven times, and a hyphen added after `οὐ` where
+  none is printed. It found the base's errors in about 65 places.
+- `convert_grc.py`: `Τριβαλδέλλος ὁ` added to `NOTE_UNNUMBERED`; `mont-fort` and
+  `trou-vères` added to `HYPHEN_FIXED` (`Mont-fort` on `309` had been joined by the
+  vocabulary from the base's `Montfort` on `346`, now `Monfort` as printed). The report
+  as the baseline; `texts/grc` regenerated (the notes). `misprints.py`: 104 rows, 104
+  marks, 0 problems.

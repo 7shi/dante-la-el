@@ -61,3 +61,45 @@ page	line	printed	fixed	applied	source	note
 271	1	ΑΓ΄	ΛΓ΄	yes	edition	The running head of canto XXXIII; `Α` for `Λ`, as on 248; found by the retype.
 281	4	ὄλμου	ὅλμου	yes	edition	XXXIV 56; the smooth breathing for the rough (the same mark as `ἔθραυε` in the line); found by the retype.
 292	29	28	28.	yes	edition	The note to II. 28; the period after the number did not print, as after the other numbers; found by the retype.
+293	11	ἄλλωυς	ἄλλους	yes	edition	The note to II. 108; an `ω`-like letter for the `ο`; found in the deciding of retype 13.
+293	13	τοιαύτη	τοιαύτῃ	yes	edition	The note to II. 108; the iota subscript did not print (the dative, with `μεταφορᾷ`); found by the retype.
+293	31	snelleto	snelletto	yes	edition	The note to II. 93, quoting Purg. II 41 `snelletto`; one `t` printed; found by the retype.
+297	30	πρός	πρὸς	yes	edition	The note to VI. 64; an acute for the grave before a word; found by the retype.
+298	3	Ε΄	ΣΤ΄	yes	edition	The running head of the notes to canto VI; `Ε΄` for `ΣΤ΄`, as on 299; found in the deciding of retype 13.
+299	1	Ε΄	ΣΤ΄	yes	edition	The running head of the notes to canto VI; `Ε΄` for `ΣΤ΄`, as on 298; found in the deciding of retype 13.
+300	4	ἄσωτοί	ἄσωτοι	yes	edition	The note to VII. 30; an acute on the last syllable, no enclitic follows; found by the retype.
+303	23	ἀλυσίδετον	ἁλυσίδετον	yes	edition	The note to IX. 52; the smooth breathing for the rough (`ἅλυσις`; `ἁρπαγὴν` beside it); found by the retype.
+304	7	νεκρὼν	νεκρῶν	yes	edition	The note to IX. 112; a grave for the circumflex; found by the retype.
+304	11	το	τὸ	yes	edition	The note to IX. 112; no accent printed; found by the retype.
+307	24	ἐπίκουρειοι	ἐπικούρειοι	yes	edition	The note to XI. 90; the accent on the fourth syllable from the end; the base had it as printed.
+308	16	διδασκειν	διδάσκειν	yes	edition	The note to XI. 93; no accent printed; found by the retype.
+309	23	ὀδύναις	ὀδύναις.	yes	edition	The note to XII. 71; the period at the end of the note did not print; found by the retype.
+310	10	τῇ	τῷ	yes	edition	The note to XII. 120; `τῇ` for `τῷ` before `ποιητῇ` (`παρὰ τῷ ποιητῇ` elsewhere); found in the deciding of retype 13.
+311	34	ἀρχαιας	ἀρχαίας	yes	edition	The note to XIII. 143; no accent printed; found by the retype.
+312	32	Ιούβα	Ἰούβα	yes	edition	The note to XIV. 15; no breathing printed on the capital; found in the deciding of retype 13.
+313	5	τοῦ	τοὺς	yes	edition	The note to XIV. 56; `τοῦ` for `τοὺς` before `κεραυνοὺς`; found by the retype.
+315	20	πυταμὸν	ποταμὸν	yes	edition	The note to XV. 112; an upsilon for the omicron, as on 035 and 077; found by the retype.
+316	18	αὐτοὺ	αὐτοῦ	yes	edition	The note to XVI. 70; a grave for the circumflex of the genitive; found by the retype.
+316	29	Λιβιου	Λιβίου	yes	edition	The note to XVI. 99; no accent printed (`Λιβίου` on 333 and 334); found by the retype.
+317	11	Μαρουΐσυ	Μαρουΐου	yes	edition	The note to XVI. 102; a sigma for the omicron; found in the deciding of retype 14.
+319	8	τό	τὸ	yes	edition	The note to XVIII. 29; an acute for the grave before a word; found by the retype.
+319	18	ἐξηπατησε	ἐξηπάτησε	yes	edition	The note to XVIII. 93; no accent printed; found by the retype.
+321	6	Βοτιφακίου	Βονιφακίου	yes	edition	The note to XIX. 53; a tau for the nu; found by the retype; the base had it as printed.
+321	26	1203	1303	yes	edition	The note to XIX. 70; the death of Boniface VIII (`1303` above in the note); found by the retype; the base had it as printed.
+321	28	1214	1314	yes	edition	The note to XIX. 70; the death of Clement V, eleven years after 1303; found by the retype; the base had it as printed.
+323	1	ᾨδην	ᾨδὴν	yes	edition	The running head of the notes to canto XX; no accent printed on the `η`; found by the retype.
+323	22	μερίδος.	μερίδος,	yes	edition	The note to XX. 95; a period before the lowercase `ἀρχηγὸν`, the sentence going on; found by the retype.
+327	19	Φλωρεντίων	Φλωρεντίνων	yes	edition	The note to XXIII. 103; the `ν` not printed (`Φλωρεντῖνοι` below); found by the retype.
+328	18	ψεύδους..	ψεύδους.	yes	edition	The note to XXIII. 144; two periods printed; found by the retype.
+328	23	ἀφανι	ἀφανι-	yes	edition	The note to XXIV. 6; no hyphen printed at the line end; found by the retype.
+331	21	Ἐλισιαιὲ	Ἐλισαιὲ	yes	edition	The note to XXVI. 34, quoting 4 Kings 2:23; an iota added (`Ἐλισαιέ` above); found by the retype.
+332	31	πέμπου	πέμπτου	yes	edition	The note to XXVI. 117; the `τ` not printed; found by the retype.
+333	13	δαταγὴν	διαταγὴν	yes	edition	The note to XXVII. 7; the `ι` not printed; the base had it as printed; seen in the deciding of retype 14.
+336	12	Conrandin	Conradin	yes	edition	The note to XXVIII. 18; an `n` added; found by the retype; the base had it as printed.
+337	21	précépité	précipité	yes	edition	The note to XXVIII. 31, quoting Littré; an `é` for the `i`; found by the retype.
+338	26	differe	differre	yes	edition	The note to XXVIII. 102, quoting Lucan, Phars. I 281; one `r` printed; found by the retype; the base had it as printed.
+339	20	οὐ	οὐ-	yes	edition	The note to XXVIII. 134; no hyphen printed at the line end (`οὐ-` / `δέποτε`); found by the retype.
+341	1	ᾨδήν	ᾨδὴν	yes	edition	The running head of the notes to canto XXIX; an acute printed on the `η`; found by the retype.
+345	25	Τα	Τὰ	yes	edition	The note to XXXII. 73, quoting Aristotle; no accent printed; found by the retype.
+346	3	Τρῴων	Τρώων	yes	edition	The note to XXXII. 88; an iota subscript printed under the `ω`; found by the retype.
+348	5	Alterigo	Alberigo	yes	edition	The note to XXXIII. 118; a `t` for the `b` (the Greek has `Ἀλβερίγος`); the base had it as printed; seen in the deciding of retype 15.

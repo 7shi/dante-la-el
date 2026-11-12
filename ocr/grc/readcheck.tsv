@@ -1154,3 +1154,344 @@ page	line	form	decision	note
 284	7	καθὼς	misread	cmp A; was `καθώς`
 284	16	ἤχῳ	printed	cmp B; the dative of `ἦχος`; the retype’s `ἠχῷ`
 285	6	τἆστρα	misread	cmp B; was `τἄστρα`
+289	5	τριακονταπενταετής	misread	cmp A; was `τριακονταπενταετῆς`; the acute on `-τής` (line 6)
+289	8	ᾨδῇ	misread	cmp B; was `ᾠδῇ`
+289	21	Ἔαρος	misread	cmp A; was `Ἕαρος`
+289	27	Ἰερεμίου	misread	cmp A; was `Ἱερεμίου`
+290	2	ᾨδὴν	misread	cmp B; was `ᾠδὴν`
+290	11	ῥᾳδιουργοῦσαν	misread	cmp B; was `ῥαδιουργοῦσαν`
+290	14	ἐπιῤῥοῆς	misread	cmp A; was `ἐπιρροῆς ·`
+290	15	Γερμανιστί	misread	cmp B; was `Γερμανιστὶ`
+290	21	λύκαινα	misread	cmp B; was `Λύκαινα`
+290	28	ἔστι	misread	cmp A; was `ἐστι`
+290	31	διαλάμποντα	misread	cmp A; was `διαλάμπουτα`
+290	32	λύκαινα	misread	cmp A; was `Λύκαινα`
+290	34	Παρομοίᾳ μεταφορᾷ χρώ	misread	cmp B; was `Παρομοία μεταφορὰ χρῶ`
+291	11	:	misread	cmp A; was `·`
+291	32	Γιβελίνων	misread	cmp B; was `Γιβελλίνων`
+293	3	Ὅρα	misread	cmp B; was `Ὄρα`; the roman mark `″` over the capital, rough by the grammar (Tesseract `Ὅρα`), as `Ἕλος` 300 24
+293	5	μέν	misread	cmp A; was `μὲν`
+293	11	ἄλλωυς	misprint	cmp B; marked `{{ἄλλωυς|ἄλλους}}`, an `ω`-like letter for the `ο`, at twelve times; the base had `ἄλλους`
+293	13	τοιαύτη	misprint	cmp B; marked `{{τοιαύτη|τοιαύτῃ}}`, no subscript under the `η`, beside `μεταφορᾷ` with it; the base had `τοιαύτῃ`
+293	14	ᾨδῇ	misread	cmp B; was `ᾠδῇ`
+293	21	Κελεστῖνος	misread	cmp A; was `Κελεστίνος`
+293	21	φόβον	misread	cmp A; was `φόβου`
+293	31	snelleto	misprint	cmp A; marked `{{snelleto|snelletto}}`, one `t` printed (Purg. II 41 `snelletto`); the base had `snelletto`
+293	34	T	misread	cmp B; the signature mark at the foot, missing in the base
+294	14	φωνὴ	misread	cmp A; was `φωνῇ`
+294	18	μέν	misread	cmp A; was `μὲν`
+294	23	Μεσαιῶνα	misread	cmp A; was `Μεσαίωνα`
+295	3	Πτολεμαῖος	misread	cmp B; was `Πτολεμαῖος,`; no comma printed (the `ς` broken, like `;`)
+295	8	Κορδύβης	misread	cmp B; was `Κορδόβης`
+295	34	T 2	misread	cmp B; the signature mark at the foot, missing in the base
+296	9	τοὔνομα	misread	cmp A; was `τοῦνομα`
+296	9	χωλὸς	misread	cmp A; was `χωλός`
+296	12	δόλιόν	misread	cmp A; was `δόλιον`
+296	13	μνηστῆρα	misread	cmp B; was `μνηστήρα`
+296	32	βασιλίσσης Γουϊνευείρας	misread	cmp B; was `Βασιλίσσης Γουινεΐρας`
+297	17	19	misread	cmp A; was `49`
+297	17	μιμεῖταί	misread	cmp A; was `μιμεῖται`
+297	19	Ἰάκωβος	misread	cmp A; was `Ἰακώβου`
+297	27	Πιστωρίᾳ	misread	cmp A; was `Πιστορίᾳ`
+297	30	πρός	misprint	cmp A; marked `{{πρός|πρὸς}}`, an acute printed before `διάκρισιν`; the base had `πρὸς`
+298	3	Ε΄	misprint	cmp B; marked `{{Ε΄|ΣΤ΄}}`, not a cmp place (both readings agree): the running head of the notes to canto VI; the base had `Ε΄`
+298	6	Δωνάτων	misread	cmp A; was `Δονάτων`
+298	20	ἐξητήσαντο	misread	cmp A; was `ἐζητήσαντο`
+299	1	Ε΄	misprint	cmp B; marked `{{Ε΄|ΣΤ΄}}`, not a cmp place (both readings agree): the running head of the notes to canto VI; the base had `Ε΄`
+299	17	ἐστὶν	misread	cmp A; was `ἐστιν`
+299	20	ἔστιν	misread	cmp A; was `ἐστὶν`
+299	29	τοῦ	misread	cmp B; was `τῶ`
+300	4	ἄσωτοί	misprint	cmp A; marked `{{ἄσωτοί|ἄσωτοι}}`, an acute printed on the last syllable; the base had `ἄσωτοι`
+300	11	ἐφάμιλλός	misread	cmp A; was `ἐφάμιλλος`
+300	12	ᾨδ	misread	cmp B; was `Ὠδ`
+300	14	,	misread	cmp B; was ``
+300	24	Ἕλος	misread	cmp B; was `Ἔλος`; the mark `″` over the capital, rough by the grammar (`ἕλος`), as `Ὅρα` 293 3
+300	35	δυσερμήνευτός	misread	cmp A; was `δυσερμήνευτος`
+301	6	ῥᾳθυμίας	misread	cmp A; was `ῥαθυμίας`
+301	6	προφητική	misread	cmp A; was `προφητικὴ`
+301	10	ἀνανδρίας	misread	cmp A; was `ἀνανδρείας`
+301	11	12	misread	cmp A; was `42`
+301	34	ὅς	misread	cmp B; was `ὃς`; rough with acute, the same mark as `ὅτι` on the page
+301	34	μήτηρ	misread	cmp A; was `μῆτηρ`
+301	35	ἥ	misread	cmp B; was `ἣ`; rough with acute before the enclitic `σ᾽`; `ἣ τέκε` in the line above is the caret with a dot
+302	5	Ἑωσφόρον	misread	cmp B; was `Ἐωσφόρον`
+302	5	Βελζεβούλ	misread	cmp B; was `Βελζεβοῦλ`
+302	5	Δίτα	misread	cmp B; was `Δῖτα`
+302	6	ἕκτον	misread	cmp A; was `ἔκτον`
+302	15	μέν	misread	cmp A; was `μὲν`
+302	18	ἔστι	misread	cmp A; was `ἐστι`
+302	22	πολλάκις	misread	cmp A; was `πολλακὶς`
+303	5	Θεσσαλίς	misread	cmp A; was `Θεσσαλὶς`
+303	8	Πομπηΐῳ	misread	cmp A; was `Πομπήϊῳ`
+303	14	Ἐριννύων	misread	cmp B; was `Ἐρινύων`
+303	18	ἐκδικήσῃ	misread	cmp A; was `ἐκδίκησῃ`
+303	18	·	misread	cmp B; was `.`
+303	20	ἁρπαγὴν	misread	cmp A; was `ἀρπαγὴν`
+303	23	ἀλυσίδετον	misprint	cmp B; marked `{{ἀλυσίδετον|ἁλυσίδετον}}`, the smooth breathing printed, beside the rough of `ἁρπαγὴν` (303 20); the base had `ἀλυσίδετον`
+303	25	·	misread	cmp B; was `.`
+303	33	·	misread	cmp B; was `:`
+304	4	καί	misread	cmp A; was `καὶ`
+304	7	νεκρὼν	misprint	cmp B; marked `{{νεκρὼν|νεκρῶν}}`, a grave printed; the base had `νεκρῶν`
+304	11	το	misprint	cmp B; marked `{{το|τὸ}}`, no accent printed; the base had `τὸ`
+304	12	σύναμα	misread	cmp A; was `σύναιμα`
+304	14	Μέσον	misread	cmp A; was `Μέσου`
+304	20	συνάξω	misread	cmp A; was `συνάζω`
+304	22	Ἰωήλ	misread	cmp B; was `Ἰωὴλ`
+304	30	τοὐλάχιστον	misread	cmp A; was `τουλάχιστον`
+305	19	ἣ	misread	cmp A; was `ἢ`
+305	25	ἐπιμᾶλλον	misread	cmp A; was `ἐπιμάλλον`
+306	7	λαοῦ	misread	cmp A; was `Λαοῦ`
+306	9	καί τοι	misread	cmp A; was `καὶ τοῦ`
+306	13	διά	misread	cmp B; was `διὰ`
+306	21	·	misread	cmp B; was ``
+306	23	Βεάτριξ ἐστὶν	misread	cmp A; was `Βεατρίζ ἐστιν`
+306	31	ἔγραψε	misread	cmp A; was `ἔγραφε`
+307	20	Λαγνείας	misread	cmp A; was `λαγνείας`
+307	20	Λαιμαργίας	misread	cmp B; was `λαιμαργίας`
+307	24	ἐπίκουρειοι	misprint	cmp B; marked `{{ἐπίκουρειοι|ἐπικούρειοι}}`, was `ἐπίκουρειοι`, as printed; the accent on the fourth syllable from the end; the retype’s `ἐπικούρειοι` not printed
+307	34	·	misread	cmp B; was `.`
+307	35	ἀλχυμισταί	misread	cmp A; was `ἀλχημισταί`
+308	15	ἔστιν	misread	cmp A; was `ἐστιν`
+308	16	διδασκειν	misprint	cmp A; marked `{{διδασκειν|διδάσκειν}}`, no accent printed; the base had `διδάσκειν`
+308	17	Ἀκρ	misread	cmp B; was `Ἄκρ`
+308	18	φαγῇ	misread	cmp A; was `φάγῃ`
+308	21	σημείου	misread	cmp A; was `σημείῳ`
+308	22	καιρός	misread	cmp B; was `καιρὸς`
+308	24	Ἁμάξης	misread	cmp B; was `Ἀμάξης`
+309	23	ὀδύναις	misprint	cmp A; marked `{{ὀδύναις|ὀδύναις.}}`, no period printed at the end of the note; the base had `ὀδύναις.`
+309	25	Φεῤῥαῖος	misread	cmp A; was `Φερραῖος`
+309	29	Παταυΐου	misread	cmp A; was `Παταυίου`
+309	34	Φεῤῥαρίας	misread	cmp A; was `Φερραρίας`
+309	35	ἁρπαλέος	misread	cmp A; was `ἀρπαλέος`
+309	38	ἔστι	misread	cmp B; was `ἐστι`
+309	41	Βιτερβίνῳ	misread	cmp B; was `Βιτερβίῳ`
+310	6	Θανάτου	misread	cmp A; was `θανάτου`
+310	10	τῇ	misprint	cmp B; marked `{{τῇ|τῷ}}`, not a cmp place (both readings agree): `τῇ` printed before `ποιητῇ`; the base had `τῇ`
+310	17	Κορνέττον	misread	cmp A; was `Κορνέτου`
+310	19	Cività	misread	cmp A; was `Civita`
+310	20	Μαρέμμας	misread	cmp A; was `Μαρέμμης`
+310	24	Ἐπεισόδιόν	misread	cmp B; was `Ἐπεισόδιον`
+311	1	Εἰς ᾨδὴν ΙΓ΄.	misread	cmp B; the page number `291` before the running head in the base; written after it
+311	5	Παταυῗνος	misread	cmp B; was `Παταυῖνος`; diaeresis with circumflex; the retype’s `Παταυΐνος` not printed
+311	6	ἀποῤῥήτων	misread	cmp B; was `ἀπορρήτων`
+311	24	σώζειν	misread	cmp A; was `σῴζειν`
+311	34	ἀρχαιας	misprint	cmp A; marked `{{ἀρχαιας|ἀρχαίας}}`, no accent printed; the base had `ἀρχαίας`
+311	36	χριστιανισμόν	misread	cmp A; was `Χριστιανισμόν`
+312	13	συνείχοντο	misread	cmp A; was `συνεχοῦντο`
+312	15	Βονδελμόντης	misread	cmp A; was `Βουδελμόντης`
+312	24	Φλωρεντῖνοι	misread	cmp B; was `Φλωρεντίνοι`
+312	32	Ιούβα	misprint	cmp B; marked `{{Ιούβα|Ἰούβα}}`, not a cmp place: no breathing printed on the capital; the retype’s `Ἰούβα` not printed; the base had `Ἰούβα`
+312	34	πλήν	misread	cmp A; was `πλὴν`
+313	5	τοῦ	misprint	cmp A; marked `{{τοῦ|τοὺς}}`, `τοῦ` printed before `κεραυνοὺς`; the base had `τοὺς`
+313	11	·	misread	cmp B; was ``
+313	14	Βουλίκαμόν	misread	cmp A; was `Βουλικάμον`
+313	15	Βιτερβίνου	misread	cmp A; was `Βιτερβίου`
+313	20	ὂν	misread	cmp B; was `ὃν`; smooth with grave, the comma and the back stroke, the participle
+314	4	Παταυΐου	misread	cmp B; was `Παταυίου`; the diaeresis with the acute
+314	6	Τούτου	misread	cmp A; was `Τοῦτου`
+314	9	Παταυῗνοι	misread	cmp B; was `Παταυῖνοι`; the diaeresis with the circumflex
+314	10	Λατίνης	misread	cmp A; was `Λατῖνος`
+314	12	ἀνήρ	misread	cmp A; was `ἀνὴρ`; before the comma
+314	15	τῶν	misread	cmp B; was `τὸν`
+314	20	ἐφεξῆς	misread	cmp A; was `ἑξῆς`
+314	20	porquoy	misread	cmp A; was `pourquoy`; the old French as printed (`porquoy`, `porce-que`)
+314	24	délitaubles	misread	cmp A; was `délitables`; the old French as printed
+314	26	ἐπίμεμπτός	misread	cmp A; was `ἐπίμεμπτος`; the enclitic `ἐστιν` follows
+315	15	χρόνον	misread	cmp A; was `χρόνου`
+315	19	ἐπισκο-	misread	cmp B; was `ἐπίσκο` and `τὴν` at the next line; printed `ἐπισκο-` / `πὴν`, the hyphen faint
+315	20	πυταμὸν	misprint	cmp B; marked `{{πυταμὸν|ποταμὸν}}`, an upsilon for the omicron, as on 035 and 077; the base had `ποταμὸν`
+316	3	γέῤῥας	misread	cmp A; was `γέρρας`
+316	18	αὐτοὺ	misprint	cmp B; marked `{{αὐτοὺ|αὐτοῦ}}`, a grave for the circumflex of the genitive; the base had `αὐτοῦ`
+316	20	οὗτός	misread	cmp B; was `οὗτος`; the enclitic `ἐστιν` follows
+316	21	Βίτις	misread	cmp A; was `Βῖτις`
+316	22	Οὗτις	misread	cmp A; was `Οὖτις`
+316	29	Φόρον	misread	cmp A; was `Φόρου`
+316	29	Λιβιου	misprint	cmp A; marked `{{Λιβιου|Λιβίου}}`, no accent printed (`Λιβίου` on 333 and 334); the base had `Λίβιου`
+317	3	Ἅγιος	misread	cmp A; was `Ἄγιος`
+317	6	Ἅγιος	misread	cmp B; was `Ἄγιος`
+317	9	πρόθεσίν	misread	cmp A; was `πρόθεσιν`; the enclitic `τινα` follows
+317	9	μέν	misread	cmp A; was `μὲν`; the enclitic `ποτε` follows
+317	11	Μαρουΐσυ	misprint	cmp B; marked `{{Μαρουΐσυ|Μαρουΐου}}`, a sigma for the omicron (`Μαρούϊον` above); the base had `Μαρούϊου`
+317	19	ᾨδῇ	misread	cmp B; was `ᾠδῇ`
+317	19	παρδάλεως	misread	cmp B; was `παρδάλως`
+318	5	Γηρυών	misread	cmp B; was `Γηρυὼν`; the enclitic `ἐστι` follows
+318	13	Σκροβῖνοι	misread	cmp A; was `Σκροβίνοι`
+318	15	Βιταλιάνος	misread	cmp A; was `Βιταλιανὸς`
+318	16	Παταυΐῳ	misread	cmp B; was `Παταυίῳ`
+318	17	Βουϊαμόντην	misread	cmp B; was `Βουιαμόντην`
+319	3	χειμάῤῥου	misread	cmp A; was `χειμάρρου`
+319	8	φρούριόν	misread	cmp A; was `φρούριον`; the enclitic `ἐστι` follows
+319	8	τό	misprint	cmp B; marked `{{τό|τὸ}}`, an acute for the grave before a word; the base had `τὸ`
+319	10	Ἔστης	misread	cmp B; was `Ἕστης`; the smooth breathing with acute, the same mark as `ἔτι` in the line
+319	10	Φεῤῥαρίας	misread	cmp A; was `Φερραρίας`
+319	13	καταφατικόν	misread	cmp A; was `καταφατικὸν`; the enclitic `ἐστιν` follows
+319	14	ἐπίῤῥημα	misread	cmp A; was `ἐπίρρημα`
+319	14	si	misread	cmp A; was `sì`
+319	18	ἐξηπατησε	misprint	cmp A; marked `{{ἐξηπατησε|ἐξηπάτησε}}`, no accent printed; the base had `ἐξηπάτησε`
+319	24	Thaïs	misread	cmp B; was `Thais`
+319	24	οἷαι	misread	cmp A; was `οἶαι`
+319	26	ἐμπαιγμός	misread	cmp B; was `ἐμπαιγμὸς`; the enclitic `ἐστι` follows
+319	27	Θαῒς	misread	cmp B; was `Θαΐς`; the diaeresis with the grave
+320	8	ὃς	misread	cmp A; was `ὅς`
+320	22	τούτων	misread	cmp A; was `τοῦτον`
+320	26	ἀνέωξε	misread	cmp A; was `ἀνέῳξε`; no subscript printed
+321	6	Βοτιφακίου	misprint	marked `{{Βοτιφακίου|Βονιφακίου}}`, seen in the retype; a tau for the nu (`Βονιφακίου` in the note); the base had it as printed
+321	11	ἔγνωσται	misread	cmp B; was `ἐγνῶσται`
+321	12	(Ι΄,	misread	cmp B; was `(Ι,`; the keraia
+321	14	πόλλ᾽	misread	cmp A; was `πολλ᾽`
+321	17	διῴκησε	misread	cmp A; was `διώκησε`
+321	20	Ὀρσίνων	misread	cmp A; was `Ὀρσινῶν`
+321	26	1203	misprint	marked `{{1203|1303}}`, seen in the retype; the death of Boniface VIII, 1303 (`ἄχρι τοῦ 1303` above); the base had it as printed
+321	28	1214	misprint	marked `{{1214|1314}}`, seen in the retype; the death of Clement V, 1314 (the eleven years from 1303); the base had it as printed
+322	30	ἰδίᾳ	misread	cmp A; was `ἰδία`
+323	1	ᾨδην	misprint	cmp B; marked `{{ᾨδην|ᾨδὴν}}`, the running head; no accent printed on the `η`; the base had `ᾨδὴν`
+323	5	Ἀρόντας	misread	cmp B; was `Ἀροῦντας`
+323	8	αὐτή	misread	cmp A; was `αὕτη`
+323	12	λίμνης	misread	cmp A; was `Λίμνης`
+323	15	συνενοῦνται	misread	cmp A; was `συνενούνται`
+323	22	μερίδος.	misprint	cmp A; marked `{{μερίδος.|μερίδος,}}`, a period before the lowercase `ἀρχηγὸν`, the sentence going on; the base had `μερίδος,`
+323	25	ἔστι	misread	cmp A; was `ἐστι`
+323	25	οὐδεμιᾶς	misread	cmp A; was `οὐδεμίας`
+324	4	Ἔγραψε	misread	cmp A; was `Ἔγραφε`
+324	20	Κάϊν	misread	cmp B; was `Καῖν`
+324	23	παριστάναι	misread	cmp A; was `παριστᾶν`
+324	23	Κάϊν	misread	cmp A; was `Καῖν`
+324	26	Ἱσπανίᾳ	misread	cmp B; was `Ἰσπανίᾳ`
+324	32	Κακώνυχες	misread	cmp A; was `Κακώπυγες`
+325	1	Εἰς ᾨδὴν ΚΑ΄.	misread	cmp B; the page number `305` before the running head in the base; written after it
+325	15	ἀγαπητός	misread	cmp B; was `ἀγαπητὸς`; the enclitic `τις` follows
+325	26	ἔστι	misread	cmp A; was `ἐστὶ`
+326	11	Ναυάῤῥας	misread	cmp A; was `Ναυάρρας`
+326	12	Ναυάῤῥας	misread	cmp A; was `Ναυάρρας`
+326	14	Σαρδῷος	misread	cmp A; was `Σαρδῶος`
+327	9	Φρᾶτρες	misread	cmp A; was `Φράτρες`
+327	10	Ἐνήδονοι	misread	cmp B; was `Εὐήδονοι`
+327	16	Λοδερίγκος	misread	cmp B; was `Λοδερῖγκος`
+327	19	Φλωρεντίων	misprint	cmp B; marked `{{Φλωρεντίων|Φλωρεντίνων}}`, the `ν` of `Φλωρεντίνων` not printed (`Φλωρεντῖνοι` in the line below); the base had `Φλωρεντίνων`
+327	23	Μαμφρέδον	misread	cmp A; was `Μομφρέδον`
+327	28	πατριᾶς	misread	cmp A; was `πατριάς`
+327	32	πολί-	misread	cmp B; was `πολι-` with the signature `Χ 2` (Greek chi) on the next line; the acute, and the signature `X 2` after a blank line
+328	18	ψεύδους..	misprint	cmp B; marked `{{ψεύδους..|ψεύδους.}}`, two periods printed; the base had `ψεύδους.`
+328	23	ἀφανι	misprint	cmp B; marked `{{ἀφανι|ἀφανι-}}`, no hyphen printed at the line end; the base had `ἀφανι-`
+328	32	Καλανδρίνου·	misread	cmp B; was `Καλανδρίνου`; the upper dot
+329	1	Εἰς ᾨδὴν ΚΔ΄.	misread	cmp B; the page number `309` before the running head in the base; written after it
+329	25	ὅρα	misread	cmp A; was `ὄρα`
+330	14	Γαυΐλη	misread	cmp B; was `Γαύλη`
+331	3	με·	misread	cmp B; was `με`; the upper dot before the closing quote
+331	6	Θεία	misread	cmp B; was `θεία`
+331	19	Ἡλιοὺ	misread	cmp A; was `Ἠλιοὺ`
+331	21	Ἐλισιαιὲ	misprint	cmp B; marked `{{Ἐλισιαιὲ|Ἐλισαιὲ}}`, an iota added (`Ἐλισαιέ` above); the base had `Ἐλισαιέ`
+331	32	διῃρέθησαν	misread	cmp A; was `διηρέθησαν`
+332	6	. . . .	misread	cmp B; was `. . .`; four dots printed
+332	22	αἰνίττεταί	misread	cmp A; was `αἰνίττεται`; the enclitic `πως` follows
+332	31	πέμπου	misprint	cmp B; marked `{{πέμπου|πέμπτου}}`, the `τ` not printed; the base had `πέμπτου`
+333	8	Γουΐδος	misread	cmp A; was `Γουῖδος`
+333	13	δαταγὴν	misprint	cmp B; marked `{{δαταγὴν|διαταγὴν}}`, the `ι` not printed; the base had it as printed
+333	17	Μοντεφέλτρον	misread	cmp A; was `Μοντεφέλτρου`
+333	21	Φικόκλης	misread	cmp A; was `Φικκόκλης`
+333	25	Γουΐδος	misread	cmp A; was `Γουῖδος`
+333	27	Φόρον	misread	cmp A; was `Φόρου`
+333	32	Γουΐδος	misread	cmp B; was `Γουῖδος`
+334	4	Φόρον	misread	cmp B; was `Φόρου`
+334	6	γαμψώνυχα	misread	cmp A; was `γαμφώνυχα`
+334	7	Μαλατεστῖνος	misread	cmp A; was `Μαλατεστίνος`
+334	8	Βεῤῥουκίου	misread	cmp A; was `Βέῤῥουκίου`
+334	15	Φόρον	misread	cmp A; was `Φόρου`
+334	24	Σαύϊον	misread	cmp A; was `Σαύιον`
+334	32	βασιλεῖ	misread	cmp A; was `Βασιλεῖ`
+335	1	Εἰς ᾨδὴν ΚΖ΄.	misread	cmp B; the page number `315` before the running head in the base; written after it
+335	4	1291	misread	cmp B; was `1294`; the fall of Acre
+335	5	94.	misread	cmp A; was `91.`
+335	7	Πάπᾳ	misread	cmp A; was `Πάπα`; the subscript under the `α`
+335	8	Σωράκτον	misread	cmp A; was `Σωράκτου`
+335	9	Πραινεστῖνον	misread	cmp A; was `Πραινεστινοῦ`
+335	15	Πάπᾳ	misread	cmp A; was `Πάπα`
+335	17	Πάπᾳ	misread	cmp A; was `Πάπα`
+335	21	Κελεστῖνος	misread	cmp A; was `Κελεστίνος`
+336	12	Conrandin	misprint	marked `{{Conrandin|Conradin}}`, seen in the retype; an `n` added; the base had it as printed
+336	15	εὐσχημοσύνης	misread	cmp A; was `εὐσχημωσύνης`
+336	19	αἰσχραῖς	misread	cmp B; was `αἱσχραῖς`
+336	30	Συγγνωστέος	misread	cmp A; was `Συγγνωστὸς`
+337	1	Εἰς ᾨδὴν ΚΗ΄.	misread	cmp B; the page number `317` before the running head in the base; written after it
+337	3	ἤκμαζεν	misread	cmp A; was `ἥκμαζεν`; the smooth breathing, the same mark as `ἔτι` beside it
+337	9	ἐφεξῆς	misread	cmp B; was `ἑφεξῆς`
+337	21	précépité	misprint	cmp A; marked `{{précépité|précipité}}`, an `é` for the `i`; the base had `précipité`
+337	26	μεταῤῥυθμητὴς	misread	cmp B; was `μεταῤῥυθμιστὴς`
+337	31	Ναυάῤῥας	misread	cmp B; was `Ναυάρρας`
+338	9	Μαρκάβον	misread	cmp A; was `Μαρκάβου`
+338	14	Καγνόνας	misread	cmp A; was `Καγνώνας`
+338	26	differe	misprint	marked `{{differe|differre}}`, seen in the retype; Lucan, Phars. I 281 `differre`; the base had it as printed
+338	28	Βονδελμόντης	misread	cmp A; was `Βουδελμόντης`
+338	29	Βονδελμοντῶν	misread	cmp A; was `Βουδελμοντῶν`
+338	29	κόρῃ τινὶ	misread	cmp A; was `κόρην τινὰ`
+339	4	ἀνῃρέθη	misread	cmp A; was `ἀνηρέθη`; the iota subscript printed
+339	16	παρορμήσεσι	misread	cmp A; was `παροῤμήσεσι`
+339	18	Γαλλίας	misread	cmp B; was `Ἰταλίας`
+339	20	οὐ	misprint	cmp B; marked `{{οὐ|οὐ-}}`, no hyphen printed at the line end (`οὐ-` / `δέποτε`); the base had `οὐ δέποτε`
+339	21	βασιλείαν	misread	cmp A; was `Βασιλείαν`
+339	26	υἱός	misread	cmp B; was `υἱὸς`; the acute printed
+339	29	Δαυΐδ·—	misread	cmp B; was `Δαυΐδ—`; the colon dot printed before the dash
+339	32	Β΄.,	misread	cmp A; was `Β΄,`
+339	32	ΙΕ΄.,	misread	cmp A; was `ΙΕ΄,`
+340	4	δώδεκα	misread	cmp A; was `δωδέκα`
+340	9	Γέρης	misread	cmp B; was `Γέρσης`
+340	20	κατῳκίσθη	misread	cmp A; was `κατωκίσθη`
+340	21	οὓς	misread	cmp B; was `οὕς`
+340	25	Γριφολῖνος	misread	cmp B; was `Γριφολίνος`
+340	25	ἀλχυμιστὴς	misread	cmp A; was `ἀλχημιστὴς`
+340	32	Νικολός	misread	cmp A; was `Νικολὸς`
+341	1	ᾨδήν	misprint	cmp B; marked `{{ᾨδήν|ᾨδὴν}}`, the running head; an acute printed on the `η`; the base had `ᾨδὴν`
+341	5	ἠράνιζον	misread	cmp B; was `ἠφάνιζον`
+341	21	Λέαρχον	misread	cmp B; was `Λεάρχον`
+341	21	Ὀβιδ	misread	cmp B; was `Ὀβίδ`; no accent printed, as elsewhere
+341	23	Ὀβιδ	misread	cmp A; was `Ὀβίδ`
+341	24	ΙΓ΄.	misread	cmp B; was `ΙΓ΄,`
+341	25	Μύῤῥα	misread	cmp A; was `Μύρρα`
+341	25	Ὀβιδ	misread	cmp A; was `Ὀβίδ`
+341	26	Ι΄.	misread	cmp A; was `Ι΄,`
+341	28	Γιάνης	misread	cmp B; was `Γιάννης`
+341	31	πολύτιμον	misread	cmp A; was `πολυτίμον`
+341	34	Y	misread	cmp B; was `Υ`; the signature, a Latin letter
+342	17	ἔλεγεν·	misread	cmp B; was `ἔλεγεν`; the colon dot printed
+342	22	ἑξήκοντα	misread	cmp A; was `ἐξήκοντα`; the rough breathing, as on `ἑνὸς` in the same line
+342	31	αὗταί	misread	cmp A; was `αὗται`
+344	7	ἀνῆκον	misread	cmp B; was `ἀνήκον`
+344	14	τύρσεων	misread	cmp A; was `πύρσεων`
+344	29	Λαγκελώτου	misread	cmp B; was `Λαγκελώτῳ`
+344	32	ἀνῃρέθη	misread	cmp A; was `ἀνηρέθη`; the iota subscript printed
+345	14	Σάσσολις	misread	cmp A; was `Σάσολις`
+345	20	Πιαντρευῗνον	misread	cmp B; was `Πιαντρευῖνον`; the diaeresis with the circumflex
+345	25	Τα	misprint	cmp B; marked `{{Τα|Τὰ}}`, no accent printed; the base had `Τὰ`
+346	3	Τρῴων	misprint	cmp A; marked `{{Τρῴων|Τρώων}}`, an iota subscript printed under the `ω`; the base had `Τρώων`
+346	6	Monfort	misread	cmp A; was `Montfort`
+346	8	καί τοι	misread	cmp A; was `καὶ τοῦ`
+346	8	ἀντιστῆναι	misread	cmp A; was `ἀντιστήναι`
+346	15	Γιβελῖνος	misread	cmp A; was `Γιβελίνος`
+346	24	προὔδωκε	misread	cmp A; was `προύδωκε`
+346	29	ἀποκοπεῖσαν	misread	cmp A; was `ἀποκοπείσαν`
+347	7	Νῖνος	misread	cmp A; was `Νίνος`
+347	21	πλατεῖαν	misread	cmp A; was `πλατείαν`
+347	21	Ἀντιάνων	misread	cmp B; was `Ἀντιανῶν`
+347	26	Ἅγιος	misread	cmp B; was `Ἄγιος`
+347	32	ἀτμίδες	misread	cmp A; was `ἀτμῖδες`
+348	5	Alterigo	misprint	marked `{{Alterigo|Alberigo}}`, a `t` for the `b` (the Greek has `Ἀλβερίγος`); found in the deciding of retype 15; the base had it as printed
+349	5	Ἑωσφόρος	misread	cmp A; was `Ἐωσφόρος`
+349	5	ᾨδῆς	misread	cmp B; was `ᾠδῆς`
+349	7	Ἑωσφόρου	misread	cmp B; was `Ἐωσφόρου`
+349	9	εἰσὶ	misread	cmp A; was `εἰσι`
+349	17	συνέχεεν	misread	cmp A; was `συνέχεν`
+349	26	καιρός	misread	cmp A; was `καιρὸς`; before `ἐστιν`
+349	28	οἵα	misread	cmp A; was `οἷα`
+349	28	ὅ	misread	cmp B; was `ὃ`
+349	34	Z	misread	cmp B; was `z`; the signature
+350	7	ῥηθεῖσιν	misread	cmp A; was `ῥηθείσιν`
+350	11	ἥμισύ ἐστιν	misread	cmp A; was `ἥμισυ ἔστιν`
+350	15	προδόντος	misread	cmp A; was `προδότου`
+350	19	γηΐνης	misread	cmp A; was `γηίνης`
+350	21	Ἑωσφόρου	misread	cmp B; was `Ἐωσφόρου`
+350	23	Βελζεβούλ	misread	cmp B; was `Βελζεβοὺλ`
+350	23	Ἑωσφόρου	misread	cmp B; was `Ἐωσφόρου`
+350	27	Ἑωσφόρου	misread	cmp B; was `Ἐωσφόρου`
+350	29	ᾍδου·	misread	cmp B; was `ᾍδου.`; the colon dot printed
+350	30	ἐστὶν	misread	cmp A; was `ἐστιν`
+351	1	331	misread	cmp B; the page number after the running head, not before it

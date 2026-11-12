@@ -23,8 +23,9 @@ of 07–11, batch by batch (the user, 2026-11-12): retypes 07 (`134`–`158`), 0
 09 (`184`–`208`), 10 (`209`–`233`) and 11 (`234`–`258`) decided; committed.
 **From retype 12 on, no delegate** (the user, 2026-11-12): Claude (Opus 5.5) retypes the
 pages itself and decides them in the same session ("The work ahead"). Retype 12
-(`259`–`285`) decided; to be committed (the user: after 12, then 13–15 together). Next:
-retype 13, the form of the notes first taken from `292` and `343`.
+(`259`–`285`) decided and committed. Retype 13 (`287`, `289`–`291`, `293`–`313`, the
+notes), retype 14 (`314`–`338`) and retype 15 (`339`–`342`, `344`–`351`) decided; to be
+committed together (the user). Step 2 is done with them.
 
 ## The work ahead
 
@@ -39,9 +40,9 @@ retype 13, the form of the notes first taken from `292` and `343`.
    | 10 | `209`–`233` | 25 | cantos (decided) |
    | 11 | `234`–`258` | 25 | cantos (decided) |
    | 12 | `259`–`285` | 27 | cantos, to the end of the poem (decided) |
-   | 13 | `287`, `289`–`291`, `293`–`313` | 25 | notes |
-   | 14 | `314`–`338` | 25 | notes |
-   | 15 | `339`–`342`, `344`–`351` | 12 | notes |
+   | 13 | `287`, `289`–`291`, `293`–`313` | 25 | notes (decided) |
+   | 14 | `314`–`338` | 25 | notes (decided) |
+   | 15 | `339`–`342`, `344`–`351` | 12 | notes, to the end of the book (decided) |
 
    Not retyped: `286`, `288` (not in `texts/grc`), `292`, `343` (done in the trial). The
    batch 12 takes the two last pages of the poem with it, so that no batch mixes verse
