@@ -12,7 +12,7 @@ I. Incontinence, which includes all wrong action due to the inadequate control o
 
 II. Brutishness, or Bestiality, which is characteristic of morbid states in which what is naturally repulsive becomes attractive ; and
 
-[^393-1]: "Essays on Dante," by Dr Karl Witte, selected, translated and edited, with introduction, notes and appendices by C. Mabel Lawrence, B.A. and Philip H. Wicksteed, M.A. Duckworth, 1898.
+[^393-1]: "Essays on Dante," by Dr Karl Witte, selected, translated and edited with introduction, notes and appendices by C. Mabel Lawrence, B.A. and Philip H. Wicksteed, M.A. Duckworth, 1898.
 
 <!-- p. 394 (404) -->
 

@@ -85,9 +85,18 @@ def is_head(line):
     return bool(s) and HEAD.fullmatch(s) is not None
 
 
+# A misprint marked in ocr/en-oelsner, `{{printed|fixed}}`, or a correction from a
+# corrigenda list, `{{printed|LIST|fixed}}` (ocr/PLAN.md, "Decisions"): the fixed side.
+MISPRINT = re.compile(r"\{\{([^{}|]*)\|(?:([0-9]+(?:&[0-9]+)*)\|)?([^{}|]*)\}\}")
+
+
+def fixed(t):
+    return MISPRINT.sub(r"\3", t)
+
+
 def read_page(n):
     """Lines of a page without running head, page number, and handwritten notes."""
-    text = (SRC / f"{n:03d}.txt").read_text(encoding="utf-8")
+    text = fixed((SRC / f"{n:03d}.txt").read_text(encoding="utf-8"))
     text = re.sub(r" *\(handwritten:[^)]*\)", "", text)
     lines = [l.rstrip() for l in text.strip().split("\n")]
     # running head (and page number), recognized by position: the first lines
@@ -123,7 +132,7 @@ def paragraphs(lines):
 VOCAB = set()
 for d in (SRC, ROOT / "ocr" / "en"):
     for f in d.glob("*.txt"):
-        text = f.read_text(encoding="utf-8")
+        text = fixed(f.read_text(encoding="utf-8"))
         # the fragments of words hyphenated at a line end are not words
         text = re.sub(r"[A-Za-zÀ-ÿ’']+-\n\s*(\*\*[^*]*\*\* )?\*?[A-Za-zÀ-ÿ’']+", " ", text)
         VOCAB.update(re.findall(r"[A-Za-zÀ-ÿ’']+(?:-[A-Za-zÀ-ÿ’']+)*", text))
