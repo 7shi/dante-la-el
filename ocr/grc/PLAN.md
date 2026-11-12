@@ -118,6 +118,12 @@ Open points, for the user:
   spelling. **Held until the whole text is done** (the user, 2026-11-10): until then each
   one is marked as before; then they are counted, and kept as misprints or changed to
   printed, the marks and the rows of misprints.tsv with them.
+  Checked in the image (2026-11-12): the nine places written without it (`053` 17, `061`
+  14, `071` 3, `119` 14, `136` 16, `138` 3 and 9, `157` 17 `ἀείποτ’`, `161` 8) all have
+  the subscript too; the base and the retypes agreed in dropping it, so they were never
+  decided. So all 22 places are printed with it. Whichever way the decision goes, these
+  nine change (to the printed form, or marked). The readcheck.tsv note on `107` 16 ("`ἀεὶ`
+  without it on 071") is wrong and goes with them.
 - **`θλίψις` with the acute** (for `θλῖψις`) is printed in every place found: `079`
   (`θλίψιν`), `252`, `263`, and `θλίβον` on `269`. Marked as misprints, as `079`; it may
   be the edition's spelling. Held with `ᾀεὶ`.
