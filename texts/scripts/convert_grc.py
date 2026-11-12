@@ -35,18 +35,17 @@ FRONT = [
     ("title-page", [1, 2, 3]),
     ("prologos", [5, 6, 7]),
     ("table-of-contents", [9, 10, 11, 12, 13]),
-    ("corrigenda", [14]),
-    ("corrigenda-extended", [15, 16, 17, 18]),
 ]
+# The two corrigenda (014, 015–018) are not written: their entries are marked in the pages,
+# `{{printed|LIST|fixed}}`, and the text has the fixed side (ocr/grc/corrigenda.tsv).
 
 # Printed page numbers of the front matter (Greek numerals; bracketed if not printed).
 FRONT_PAGES = {5: "ε΄", 6: "στ΄", 7: "ζ΄", 9: "[θ΄]", 10: "ι΄", 11: "ια΄", 12: "ιβ΄",
-               13: "ιγ΄", 14: "[ιδ΄]", 15: "[1]", 16: "2", 17: "3", 18: "4"}
+               13: "ιγ΄"}
 
 HEADINGS = {
     "ΠΡΟΛΟΓΟΣ.": "Πρόλογος",
     "ΠΙΝΑΞ ΤΩΝ ΕΝ ΕΚΑΣΤΗι ΩΔΗι ΠΕΡΙΕΧΟΜΕΝΩΝ.": "Πίναξ τῶν ἐν ἑκάστῃ ᾠδῇ περιεχομένων",
-    "ΠΑΡΟΡΑΜΑΤΩΝ ΔΙΟΡΘΩΣΙΣ.": "Παροραμάτων διόρθωσις",
     "ΣΗΜΕΙΩΣΕΙΣ.": "Σημειώσεις",
 }
 
@@ -101,12 +100,13 @@ def head_words(s):
     return words if ok else None
 
 
-# A misprint marked in ocr/grc, `{{printed|fixed}}` (ocr/PLAN.md, "Decisions"): the fixed side.
-MISPRINT = re.compile(r"\{\{([^{}|]*)\|([^{}|]*)\}\}")
+# A misprint marked in ocr/grc, `{{printed|fixed}}`, or a correction from the corrigenda,
+# `{{printed|LIST|fixed}}` (ocr/PLAN.md, "Decisions"): the fixed side.
+MISPRINT = re.compile(r"\{\{([^{}|]*)\|(?:([0-9]+(?:&[0-9]+)*)\|)?([^{}|]*)\}\}")
 
 
 def fixed(t):
-    return MISPRINT.sub(r"\2", t)
+    return MISPRINT.sub(r"\3", t)
 
 
 def read_page(n, head=True):
@@ -121,7 +121,7 @@ def read_page(n, head=True):
         k = next((k for k, l in enumerate(lines[:3]) if re.search(r"\d", l)), None)
         if k is not None and head_words(lines[k]):
             lines[k] = re.sub(r"\s*\d+\s*", " ", lines[k]).strip()
-    elif page_no(n) and not page_no(n).startswith("[") and n not in (5, 15):
+    elif page_no(n) and not page_no(n).startswith("[") and n != 5:
         # running head, recognized by position: a page number and a label on the
         # first lines (`2 ΩΔΗ Α΄`, `ΩΔΗ Α΄.` / `3`), and the TOC column head `Σελ.`
         label = number = False
@@ -133,10 +133,9 @@ def read_page(n, head=True):
                 lines.pop(0)
         if lines and lines[0].strip() == "Σελ.":
             lines.pop(0)
-    # page number or printer's signature mark (`Β΄ 2`, `C. 2`, `G`) at the foot; the
-    # first page of the corrigenda (015) has one too (`Ζ`)
+    # page number or printer's signature mark (`Β΄ 2`, `C. 2`, `G`) at the foot
     while lines and (re.fullmatch(r"\d+", lines[-1].strip()) and n >= 21
-                     or SIGNATURE.fullmatch(lines[-1].strip()) and (n >= 21 or n == 15)):
+                     or SIGNATURE.fullmatch(lines[-1].strip()) and n >= 21):
         lines.pop()
         while lines and not lines[-1].strip():
             lines.pop()
@@ -508,10 +507,6 @@ def convert_front(slug, pages):
                 parts.append(f"# {HEADINGS[s]}")
             elif slug == "title-page":
                 parts.append(render_lines(p))
-            elif p[0].startswith("|"):
-                parts.append("\n".join(p))
-            elif n == 15 and s.startswith("Διορθώσεις"):
-                parts.append("# " + join_lines(p, f"{n:03d}").rstrip("."))
             elif slug == "prologos" and n == 7 and s.startswith("Ἐν Λονδίνῳ"):
                 parts.append(render_lines(p))
             else:

@@ -249,12 +249,13 @@ CLOSING = re.compile(r"(?:FINIT|EXPLICIT) [A-Z ]+\.$")
 GLOSS = re.compile(r"\((?:[¹²³⁴⁵⁶⁷⁸⁹]+|\d{1,2})\)")  # `(1) costui. — (2) sarà.`
 
 
-# A misprint mark `{{printed|fixed}}` (ocr/la/PLAN.md, "Misprint marks"): the text keeps the fix.
-MISPRINT = re.compile(r"\{\{([^{}|]*)\|([^{}|]*)\}\}")
+# A misprint mark `{{printed|fixed}}` (ocr/la/PLAN.md, "Misprint marks"), or a correction from the
+# corrigenda, `{{printed|LIST|fixed}}` (ocr/PLAN.md, "Decisions"): the text keeps the fix.
+MISPRINT = re.compile(r"\{\{([^{}|]*)\|(?:([0-9]+(?:&[0-9]+)*)\|)?([^{}|]*)\}\}")
 
 
 def fixed(t):
-    return MISPRINT.sub(r"\2", t)
+    return MISPRINT.sub(r"\3", t)
 
 
 def text_of(n):

@@ -86,12 +86,13 @@ def marker(n):
     return f"<!-- p. {label} ({n:03d}) -->" if label else f"<!-- ({n:03d}) -->"
 
 
-# A misprint mark `{{printed|fixed}}` (ocr/PLAN.md, "Decisions"): the text keeps the fix.
-MISPRINT = re.compile(r"\{\{([^{}|]*)\|([^{}|]*)\}\}")
+# A misprint mark `{{printed|fixed}}`, or a correction from the corrigenda, `{{printed|LIST|fixed}}`
+# (ocr/PLAN.md, "Decisions"): the text keeps the fix.
+MISPRINT = re.compile(r"\{\{([^{}|]*)\|(?:([0-9]+(?:&[0-9]+)*)\|)?([^{}|]*)\}\}")
 
 
 def fixed(t):
-    return MISPRINT.sub(r"\2", t)
+    return MISPRINT.sub(r"\3", t)
 
 
 def read_page(n):

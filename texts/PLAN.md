@@ -259,12 +259,10 @@ Done. Contents and reading notes: [`grc/README.md`](grc/README.md). Structure re
 | `001-title-page.md` | English title page, imprint, Greek title page | `001`–`003` |
 | `002-prologos.md` | ΠΡΟΛΟΓΟΣ | `005`–`007` |
 | `003-table-of-contents.md` | ΠΙΝΑΞ ΤΩΝ ΕΝ ΕΚΑΣΤΗι ΩΔΗι ΠΕΡΙΕΧΟΜΕΝΩΝ | `009`–`013` |
-| `004-corrigenda.md` | ΠΑΡΟΡΑΜΑΤΩΝ ΔΙΟΡΘΩΣΙΣ | `014` |
-| `005-corrigenda-extended.md` | Διορθώσεις παροραμάτων … (separately paginated 1–4) | `015`–`018` |
-| `006-canto-01.md` … `039-canto-34.md` | ΩΔΗ Α΄ … ΩΔΗ ΛΔ΄; the half-title `019` opens canto 1 | `019`, `021`–`285` |
-| `040-notes.md` | ΣΗΜΕΙΩΣΕΙΣ, with half-title | `287`, `289`–`351` |
+| `004-canto-01.md` … `037-canto-34.md` | ΩΔΗ Α΄ … ΩΔΗ ΛΔ΄; the half-title `019` opens canto 1 | `019`, `021`–`285` |
+| `038-notes.md` | ΣΗΜΕΙΩΣΕΙΣ, with half-title | `287`, `289`–`351` |
 
-Excluded: `004`, `008`, `020`, `286`, `288`, and the library stamps transcribed on `001` and `351`.
+Excluded: `004`, `008`, `020`, `286`, `288`, the library stamps transcribed on `001` and `351`, and the two corrigenda (`014`; `015`–`018`, separately paginated 1–4): their entries are applied to the text (below, "The corrigenda").
 
 ### Layout
 
@@ -283,22 +281,45 @@ Excluded: `004`, `008`, `020`, `286`, `288`, and the library stamps transcribed 
   - The numeral sign is transcribed in several forms (`΄`, `´`, `ʹ`, `’`, …); heads written with `ʹ` (`ΩΔΗ Δʹ.` on `048`) had been counted as verse in the rough count. The ornamental rules around the arguments (`245.png`) are dropped.
   - A long line whose end does not fit is set on the next line, indented (`ῥίπτεις ; ”` on `069`): a short line starting in lowercase is joined to the line before it (11 cases, listed by the script). With the heads and these runovers handled, all 34 cantos have the Italian verse count and every printed line number stands at its line, so no line is missing or doubled.
   - Arguments that differ from the table of contents are listed; the three that remain are printed so (`ARG_CHECKED`: `αἱρετικοί—` / `αἱρετικοί.—`, `μετὰ` / `κατὰ`, `ἔννατον` / `ἕνατον`). The other differences were misreadings of the table (`Σίμων` for `Σίνων`, `ἀλχημισταί` for `ἀλχυμισταί`, …).
-  - The checks do not catch misreadings inside a line, and the transcription tends to replace rare forms with common ones (`λυπηρὸς` for `λυπρὸς`, `βραχέως` for `βραγχῶς`, `πρόνοος` for `πρόνους`, `Ἅδου` for the printed `ᾍδου` throughout; the upper dot also appeared as `˙` and `•`, now `·`). Counting syllables (a vowel group with the diphthongs counted once) finds those that change the metre: of the 4720 lines, 40 did not have twelve; 33 were misreadings and are corrected in `ocr/`, and the 7 left are printed so, some listed in the corrigenda (`ΚΔ΄` 128 and 133, `Λ΄` 137, `ΛΓ΄` 52). Misreadings that keep twelve syllables may remain.
+  - The checks do not catch misreadings inside a line, and the transcription tends to replace rare forms with common ones (`λυπηρὸς` for `λυπρὸς`, `βραχέως` for `βραγχῶς`, `πρόνοος` for `πρόνους`, `Ἅδου` for the printed `ᾍδου` throughout; the upper dot also appeared as `˙` and `•`, now `·`). Counting syllables (a vowel group with the diphthongs counted once) finds those that change the metre: of the 4720 lines, 40 did not have twelve; 33 were misreadings and are corrected in `ocr/`, and the 7 left are printed so, some listed in the corrigenda (`ΚΔ΄` 128 and 133, `Λ΄` 137, `ΛΓ΄` 52), which the text now follows. Misreadings that keep twelve syllables may remain.
   - Notes pages: the page number is removed from the head; the label is the running head unless it names the next canto, then it is the heading of that canto's notes printed at the top of the page (`303`, `318`, `326`, `347`). Misprinted heads are in `HEAD_MISPRINTED`. A note starts with a number that is higher than the last note and within the canto's verse count; `1300.` at a line start on `318` is a year inside a note (`NUMBER_CHECKED`).
   - Quotations in verse set off inside the notes are listed by their first words in `NOTE_VERSE`; the unnumbered paragraphs checked against the images are in `NOTE_UNNUMBERED`.
   - Line-end hyphens: Greek words are always joined (the print hyphenates Greek by syllables); the others are decided by hand in `HYPHEN_FIXED`.
 - Decisions to review if the conventions change (all checked against the images; only the first departs from the print):
-  - `ΛΒ΄` 86 (`265`): the `Ε` of `Εἶπον` did not print. `ocr/` marks it `{{ἶπον|Εἶπον}}`, and the output has `Εἶπον`, with the capital that starts every line; without it the line would start with a lowercase `ἶ`. (The script's own supply of the capital, `MISSING_TYPE`, was removed when the mark came: the two together wrote `ΕΕἶπον`.)
+  - `ΛΒ΄` 86 (`265`): the `Ε` of `Εἶπον` did not print. `ocr/` marks it `{{ἶπον|2|Εἶπον}}` (listed in the corrigenda), and the output has `Εἶπον`, with the capital that starts every line; without it the line would start with a lowercase `ἶ`. (The script's own supply of the capital, `MISSING_TYPE`, was removed when the mark came: the two together wrote `ΕΕἶπον`.)
   - `ΙΖ΄` 92 (`147`): `(ἀλλ οὐ,` without an apostrophe, as printed; `ocr/` and the output keep it.
   - Line-end hyphens outside Greek (`HYPHEN_FIXED`): `veuil-je` and `ci-dessus` keep the hyphen (as `ferois-je`, `fait-elle`); `porce-` / `que` is joined as `porceque` (as `porque` in the same sentence), though Old French also writes `por ce que`.
   - Quotations in verse inside the notes (`NOTE_VERSE`, 11) keep their printed lines with hard breaks, also inside a numbered note (`301`, `309`, `332`); a verse quotation set after a blank line is part of the note it is quoted in.
   - The running heads `Ε΄` on `298` and `299` are misprints for `ΣΤ΄` (`HEAD_MISPRINTED`); `Ἀσδέντης` on `324` is an indented paragraph of note 118 without a number.
 
+### The corrigenda
+
+The book has two lists of corrigenda: `014` (*Παροραμάτων διόρθωσις*, printed with the
+front matter) and `015`–`018` (*Διορθώσεις παροραμάτων τυπογραφικῶν καὶ ἄλλων τινῶν*, a
+separately paginated list, longer; it repeats every verse entry of the first). Besides
+misprints they give the translator's revisions of whole lines (`Α΄` 51, `ΛΔ΄` 139) and the
+end of a note (`284` 12). The text follows them, and the two lists are not written:
+
+- `ocr/grc/` stays as printed. Each applied entry is a mark in its page,
+  `{{printed|LIST|fixed}}`, LIST the list that gives it (`1`, `2`, or `1&2`; ocr/PLAN.md,
+  "Decisions"); the script writes the fixed side, as for a misprint. A misprint the read-through had
+  marked and the corrigenda list became such a mark (8).
+- Every entry, applied or not, is a row of
+  [`ocr/grc/corrigenda.tsv`](../ocr/grc/corrigenda.tsv), checked against the marks by
+  `ocr/scripts/misprints.py`. Where the two lists differ, the second is followed; an entry of the
+  first alone is applied unless it conflicts (2 not applied, with the reasons in the table).
+- The line numbers of the second list are wrong for 7 verse entries (`Γ΄` 7 for 6, `ΙΖ΄` 16
+  for 18, `ΚΕ΄` 13 for 33, …); the phrase decides the line. Five places the base had
+  transcribed in the corrected form are now as printed (`Ὁβίδιος`, `ᾐσθάνθην`, `τοῦδ,`,
+  `ἀλύσεσιν`, `νενεκρωμένω`).
+- After the corrections, the five verse lines of the corrigenda that did not have twelve syllables
+  have twelve, and no corrected line has another count.
+
 ### Procedure for `grc`
 
 All steps are done; the findings are in the conversion notes above.
 
-1. **Script** `convert_grc.py`: page reading (heads, signature marks, stamps), the canto files (argument, verse, computed line numbers), the notes file (per-canto headings, notes split by number, page joins, the asterisk footnotes), and the front matter (prologue, table of contents and corrigenda line by line).
+1. **Script** `convert_grc.py`: page reading (heads, signature marks, stamps), the canto files (argument, verse, computed line numbers), the notes file (per-canto headings, notes split by number, page joins, the asterisk footnotes), and the front matter (prologue and table of contents line by line).
 2. **Verse checks**, reported by the script as errors: the line count of each canto against the Italian verse count; each printed line number against the position of its line, which locates an extra or missing line between two numbers (a rough count shows differences in 22 of the 34 cantos, mostly of one or two lines, partly caused by the rough counting itself); each argument against the table of contents.
 3. **Corrections in `ocr/grc/`**, against the images: missing or doubled verse lines, misplaced or misread line numbers (only where they hide a misplaced line; the numbers themselves are not used), argument/verse separation, misreadings found by the checks. If the cantos with errors are many, delegate them in batches (see Delegated work) with the error list as input; verify the result with the script's checks and the whole-page comparison.
 4. **Notes checks**: every canto has its `Εἰς ᾨδὴν …` heading in order; the note numbers inside each canto increase and do not exceed its verse count; the list of unnumbered note paragraphs is checked against the images.
