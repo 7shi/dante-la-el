@@ -9,7 +9,7 @@ The page-by-page transcriptions in `ocr/{dir}/NNN.txt` are reorganized into sect
 | `texts/en/` | Done: converted, verified against dante-corpus, footnote markers restored on every page; `ocr/en/` checked again against the images (every page retyped and compared, then a read-through), its misprints marked and corrected in `texts/en/`; see [`ocr/en/SUMMARY.md`](../ocr/en/SUMMARY.md). |
 | `texts/en-oelsner/` | Done: `ocr/` normalized (labels, paragraph breaks) and converted; Italian verified against dante-corpus, English against `texts/en`. |
 | `texts/la/` | Done: `ocr/la/` completed batch by batch (the verse from the images, the commentary checked against GLM-OCR, lines and blank lines checked, the italics marked), converted by `convert_la.py` (`texts/la/001`–`110`), and checked again (the lemmas, the verse and the rare forms against the images); see [`ocr/la/DONE.md`](../ocr/la/DONE.md) for the method and the checks and [`ocr/la/PLAN.md`](../ocr/la/PLAN.md) for their limits. |
-| `texts/grc/` | Done: converted; verse counts, line numbers, and arguments checked by the script; misreadings found by a syllable count corrected in `ocr/`. |
+| `texts/grc/` | Done: converted; verse counts, line numbers, and arguments checked by the script; misreadings found by a syllable count corrected in `ocr/`. `ocr/grc` then checked against the images (every page retyped and compared, a read-through; [ocr/grc/SUMMARY.md](../ocr/grc/SUMMARY.md)): misreadings corrected, misprints marked, the corrigenda applied by marks and not converted. |
 
 ## General policy
 
