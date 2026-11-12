@@ -1,20 +1,23 @@
 """
 Explain a canto of the Divina Commedia in a target language, and translate
 every line of it into that language.
-The Italian source (fetched line-by-line from dante_corpus, with line numbers
-so the model can cite them) is sent as its own message, followed by the
-instructions in PROMPT. The translations quoted in the commentary seed the
-line-by-line translation, and TRANSLATE_PROMPT fills in the rest.
+The source (the Italian of dante_corpus, or another source of source.py, sent
+line by line with line numbers so the model can cite them) is sent as its own
+message, followed by the instructions in PROMPT. The translations quoted in
+the commentary seed the line-by-line translation, and TRANSLATE_PROMPT fills
+in the rest. For a source other than the Italian, only the translation is made
+(TRANSLATE_PROMPT fills in every line); its commentary is not written yet.
 """
 
 import argparse
 import re
 import sys
 from pathlib import Path
-from dante_corpus import ref
 from dante_corpus.api import CANTO_SPEC_HELP, check_canto_spec, select_cantos
 from llm7shi import Client
 from llm7shi.usage import append_usage, find_usage_file, print_today_totals
+
+from source import SOURCES, source_lines
 
 CANTICLE_NAMES = {
     "inferno": "Inferno",
@@ -25,7 +28,9 @@ CANTICLE_NAMES = {
 # Per target language (keyed by language code):
 # - name: the name of the language, as written into the prompts
 # - letters: a translation must contain at least one of these, or it is
-#   taken as a copy of the Italian
+#   taken as a copy of the original
+# - reject: (optional) a regex for characters a translation must not contain;
+#   such a line is taken as a copy of the original (polytonic Greek in el)
 # - closing: the word that opens the heading of the closing section
 # - note: an extra instruction appended to both prompts
 # - quotes: the opening and closing quote marks of translations, counted by
@@ -38,6 +43,8 @@ LANGUAGES = {
         "letters": r"[\u0370-\u03ff\u1f00-\u1fff]",
         "closing": "Επίλογος",
         "note": "Use the monotonic orthography.",
+        # Catches a copy of the polytonic source grc
+        "reject": r"[\u1f00-\u1fff]",
         # ’ is the apostrophe of elision (γι’, απ’), so ‘’ do not count
         "quotes": ("«“", "»”"),
     },
@@ -80,14 +87,19 @@ Read the attached Italian text of canto {number} of Dante's Divine Comedy, {cant
 """.strip()
 
 TRANSLATE_PROMPT = """
-Attached are the Italian text of canto {number} of Dante's Divine Comedy, {canticle}, and its translation into {lang}, on alternating lines. Fill in the translation for the lines whose translation is {placeholder}.
+Attached are the {source} of canto {number} of Dante's Divine Comedy, {canticle}, and its translation into {lang}, on alternating lines. Fill in the translation for the lines whose translation is {placeholder}.
 
 - Translate only the lines marked {placeholder}, one per line, in the form `line-number translation`.
-- Follow the style of the existing translations, so that the text reads on smoothly from its context.
+{style}
 - Keep each translation to what its own line says, even if the word order becomes forced; do not carry words over to or from a neighbouring line. Open and close quotation marks on the same lines as the original.
 - Output only the lines you filled in.
 - Write the translation itself on each line. Do not include {placeholder} in the output.{note}
 """.strip()
+
+# The style of the translation in TRANSLATE_PROMPT: a readable one from the
+# Italian, a literal one from any other source
+STYLE = "- Follow the style of the existing translations, so that the text reads on smoothly from its context."
+LITERAL_STYLE = "- Translate as literally as possible, even where it reads stiffly: render every word, and keep the word order, the constructions (a participle as a participle, unless that changes who does what), and the tenses of the original, as far as the line stays correct {lang} that reads as the original means. Do not paraphrase, and add nothing to explain the text."
 
 
 PLACEHOLDER = "**NEED TRANSLATE**"
@@ -146,16 +158,19 @@ def clean_translation(text: str) -> str:
 
 
 def is_translated(
-    trans: str, original: str, letters: re.Pattern, verbatim: bool = False
+    trans: str, original: str, letters: re.Pattern, verbatim: bool = False,
+    reject: re.Pattern | None = None,
 ) -> bool:
-    """The model sometimes copies the Italian line instead of translating it.
+    """The model sometimes copies the original line instead of translating it.
 
-    With verbatim, the line may be left as it is in the original.
+    With verbatim, the line may be left as it is in the original. A line with
+    a character matching reject is taken as a copy too.
     """
     return (
         bool(trans)
         and (verbatim or trans != original)
         and bool(letters.search(trans))
+        and not (reject and reject.search(trans))
     )
 
 
@@ -203,19 +218,21 @@ def translations_only_text(lines, translations: dict[int, str]) -> str:
 
 
 def parse_translations_only(
-    saved: str, lines, letters: re.Pattern, verbatim: set[int]
+    saved: str, lines, letters: re.Pattern, verbatim: set[int],
+    reject: re.Pattern | None = None,
 ) -> dict[int, str]:
     """Read back a saved translations-only file, keeping the lines already translated."""
     translations: dict[int, str] = {}
     for line, text_line in zip(lines, saved.splitlines()):
         trans = clean_translation(text_line)
-        if is_translated(trans, line.text, letters, line.no in verbatim):
+        if is_translated(trans, line.text, letters, line.no in verbatim, reject):
             translations[line.no] = trans
     return translations
 
 
 def parse_filled(
-    filled: str, missing: set[int], lines, letters: re.Pattern, verbatim: set[int]
+    filled: str, missing: set[int], lines, letters: re.Pattern, verbatim: set[int],
+    reject: re.Pattern | None = None,
 ) -> dict[int, str]:
     """Collect `N translation` lines, keeping only the requested line numbers."""
     originals = {line.no: line.text for line in lines}
@@ -224,23 +241,27 @@ def parse_filled(
         if match := FILLED_RE.match(text_line):
             no, trans = int(match.group(1)), clean_translation(match.group(2))
             if no in missing and is_translated(
-                trans, originals.get(no, ""), letters, no in verbatim
+                trans, originals.get(no, ""), letters, no in verbatim, reject
             ):
                 translations[no] = trans
     return translations
 
 
 def generate(client: Client, canticle: str, canto: int, args: argparse.Namespace):
-    lines = ref(f"{canticle} {canto}")
+    lines = source_lines(args.source, canticle, canto)
     text = canto_text(lines)
     language = LANGUAGES[args.lang_code]
     letters = re.compile(language["letters"])
-    verbatim = VERBATIM_LINES.get((canticle, canto), set())
+    reject = re.compile(language["reject"]) if language.get("reject") else None
+    italian = args.source == "it"
+    # Lines left meaningless on purpose are known only for the Italian
+    verbatim = VERBATIM_LINES.get((canticle, canto), set()) if italian else set()
     note = f" {language['note']}" if language.get("note") else ""
     names = dict(
         canticle=CANTICLE_NAMES[canticle], number=canto,
         lang=language["name"], note=note,
     )
+    style = STYLE if italian else LITERAL_STYLE.format(lang=language["name"])
 
     out_dir = args.dir / canticle
     out_path = out_dir / f"{canto:02d}.md"
@@ -250,8 +271,10 @@ def generate(client: Client, canticle: str, canto: int, args: argparse.Namespace
         # Resume: the saved file already holds every translation extracted so far.
         print(f"Resuming from {trans_path}")
         translations = parse_translations_only(
-            trans_path.read_text(), lines, letters, verbatim
+            trans_path.read_text(), lines, letters, verbatim, reject
         )
+    elif not italian:
+        translations = {}  # translation only: every line is filled in below
     else:
         if out_path.exists():
             print(f"Skipped (already exists): {out_path}")
@@ -277,7 +300,10 @@ def generate(client: Client, canticle: str, canto: int, args: argparse.Namespace
             saved = content
             print(f"\nSaved to {trans_path}")
 
-    prompt = TRANSLATE_PROMPT.format(**names, placeholder=PLACEHOLDER)
+    prompt = TRANSLATE_PROMPT.format(
+        **names, source=SOURCES[args.source]["name"], style=style,
+        placeholder=PLACEHOLDER,
+    )
     for round_no in range(1, args.rounds + 1):
         missing = {line.no for line in lines if line.no not in translations}
         if not missing:
@@ -287,7 +313,7 @@ def generate(client: Client, canticle: str, canto: int, args: argparse.Namespace
             [interleaved_text(lines, translations, PLACEHOLDER), prompt]
         )
         if not (added := parse_filled(
-            response.text, missing, lines, letters, verbatim
+            response.text, missing, lines, letters, verbatim, reject
         )):
             print("\nno progress, giving up", file=sys.stderr)
             break
@@ -322,6 +348,13 @@ def main():
         help="Language code of the target language (e.g. el)",
     )
     parser.add_argument(
+        "-s", "--source",
+        choices=list(SOURCES),
+        default="it",
+        help="Source text to explain and translate (default: it, the Italian; "
+             "grc: Musurus's Greek Inferno, translation only)",
+    )
+    parser.add_argument(
         "-r", "--rounds",
         type=int,
         default=5,
@@ -347,6 +380,8 @@ def main():
 
     if err := check_canto_spec([args.canticle], args.canto):
         parser.error(err)
+    if args.canticle not in SOURCES[args.source]["canticles"]:
+        parser.error(f"source {args.source} has no {args.canticle}")
 
     if args.model.startswith(("openai:", "gpt-")) or args.save_usage:
         USAGE_PATH = find_usage_file()

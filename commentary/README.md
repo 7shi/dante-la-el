@@ -16,6 +16,8 @@ For each canto, `<code>/<canticle>/<NN>.*` (`<code>` is `el`, `eo`, or `en`):
 - `<NN>.md` — commentary: headings per scene or theme, each quoting the key lines as `> N original` followed by `> (translation)`, then discussing their allegory and background; it ends with a closing section (`## Επίλογος — ...` in `el`)
 - `<NN>.txt` — translation: one line of the target language per line of the Italian text (blank where still untranslated)
 
+`el-grc/inferno/<NN>.txt` holds a literal Modern Greek translation of Musurus's Greek verse translation of the Inferno ([`texts/grc/`](../texts/grc/)), one line per line of the Greek, which renders the Italian line for line. It has no commentary yet; it is generated with `make generate CANTICLE=inferno SOURCE=grc`.
+
 ## Usage
 
 ```bash
@@ -31,7 +33,7 @@ Every target takes `LANG=<code>` to choose the target language (`el`, `eo` or `e
 ## scripts/generate.py
 
 ```bash
-uv run scripts/generate.py <canticle> -m MODEL -l CODE -d DIR [-c SPEC] [-r ROUNDS] [--no-think] [--save-usage]
+uv run scripts/generate.py <canticle> -m MODEL -l CODE -d DIR [-c SPEC] [-s SOURCE] [-r ROUNDS] [--no-think] [--save-usage]
 ```
 
 argument | description | default
@@ -41,6 +43,7 @@ argument | description | default
 `-l`, `--lang-code` | language code of the target language; selects its entry in `LANGUAGES` | required
 `-d`, `--dir` | output directory | required
 `-c`, `--canto` | cantos to process (SPEC syntax) | all
+`-s`, `--source` | source text: `it` (the Italian of dante-corpus) or `grc` (Musurus's Greek Inferno, translation only) | `it`
 `-r`, `--rounds` | max passes to fill untranslated lines | `5`
 `--no-think` | disable thinking output | enabled
 `--save-usage` | record usage for any model (by default only `openai:` and `gpt-` models are recorded) | -
@@ -51,6 +54,8 @@ Each canto is processed in two steps:
 2. **Translation**: the `> N original` / `> (translation)` pairs quoted in the commentary seed the translation; a pair whose quoted original does not match the corpus line exactly is dropped. The original and the translations so far are then sent on alternating lines, with a placeholder on each untranslated line, and the model fills in those lines only. A filled line is rejected if it still holds the placeholder, copies the Italian, or has no letter of the target language in it; rejected lines are retried in the next round, up to `--rounds` rounds.
 
 `<NN>.txt` is saved after every round. If it already exists, it is read back and only the missing lines are filled, so an interrupted run resumes where it stopped.
+
+With `-s grc`, the source is the verse of `texts/grc/` (read by `scripts/source.py`, without the headings, arguments, page comments and line numbers; every canto has the line count of the Italian), and only step 2 is run: every line starts untranslated. Its prompt asks for a literal translation instead of a readable one: every word rendered, and the word order, the constructions, and the tenses of the original kept as far as the line stays correct and reads as the original means. A filled line is also rejected if it contains polytonic letters (a copy of the Greek).
 
 Both prompts are written in English, with the language name filled in. Each language code has an entry in `LANGUAGES` in the script:
 

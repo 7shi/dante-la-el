@@ -8,7 +8,10 @@ LANG_CODE := $(LANG)
 unexport LANG
 endif
 LANG_CODE ?= el
-DIR = $(LANG_CODE)
+# The source text: it (Italian, default) or grc (Musurus's Greek Inferno);
+# a translation from another source than the Italian goes to <lang>-<source>
+SOURCE ?= it
+DIR = $(if $(filter it,$(SOURCE)),$(LANG_CODE),$(LANG_CODE)-$(SOURCE))
 CHECK_DIR = check/$(LANG_CODE)
 
 .PHONY: help generate fix-quotes check-quotes check-lines report-lines apply-lines
@@ -21,6 +24,7 @@ help:
 	@echo "       make report-lines [CANTICLE=<canticle>] [CANTO=<spec>] [KIND=\"<kind> ...\"]"
 	@echo "       make apply-lines KIND=\"<kind> ...\" [CANTICLE=<canticle>] [CANTO=<spec>]"
 	@echo "       every target takes LANG=<el|eo|en> (default: el)"
+	@echo "       generate takes SOURCE=grc to translate Musurus's Greek Inferno into $(LANG_CODE)-grc/"
 	@echo ""
 	@echo "  generate   Write $(DIR)/<canticle>/NN.md (commentary) and NN.txt (translation)"
 	@echo "             in $(LANG_CODE) with $(MODEL); CANTO takes the SPEC syntax"
@@ -36,7 +40,7 @@ generate:
 ifndef CANTICLE
 	$(error CANTICLE is required: inferno, purgatorio, or paradiso)
 endif
-	uv run scripts/generate.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -m $(MODEL) -l $(LANG_CODE) -d $(DIR)
+	uv run scripts/generate.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -m $(MODEL) -l $(LANG_CODE) -s $(SOURCE) -d $(DIR)
 
 fix-quotes:
 	uv run scripts/fix_quote_blocks.py -d $(DIR)
