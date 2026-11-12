@@ -10,7 +10,7 @@ described in [texts/PLAN.md](../../texts/PLAN.md) ("`texts/grc/`"), the transcri
 **A new session starts here**: read "State". The rules of ocr/PLAN.md ("Decisions",
 "Read-through") apply.
 
-## State (2026-11-12)
+## State (2026-11-13)
 
 Step 0 (setup) done (DONE.md). Step 1–2: retypes 01 (the trial) and 02 (`001`–`032`)
 decided, Gemini 4 Argon; retype 03 (`033`–`058` without `038`) decided, Gemini 3.8 Flash
@@ -27,7 +27,10 @@ pages itself and decides them in the same session ("The work ahead"). Retype 12
 notes), retype 14 (`314`–`338`) and retype 15 (`339`–`342`, `344`–`351`) decided and
 committed together. Step 2 is done with them.
 **Step 3, the read-through** (the user, 2026-11-12): read by Claude (Opus 5.5)
-itself, without la-el-agy (its rate limit not waited for). The trial (`021`–`040`) and batches 01–13 (`041`–`351`, `005`–`013`) done: the read-through is complete.
+itself, without la-el-agy (its rate limit not waited for). The trial (`021`–`040`) and batches 01–13 (`041`–`351`, `005`–`013`) done: the read-through is complete;
+committed. **The held decisions and the open points** decided by Claude's
+recommendation (the user, 2026-11-13): `ᾀεί` and `θλίψις` are the edition's spelling,
+`231` 10 is `εἶς`, `Ἢν` stays ("Settled readings"). Next: the corrigenda (step 4).
 
 ## The work ahead
 
@@ -58,7 +61,8 @@ itself, without la-el-agy (its rate limit not waited for). The trial (`021`–`0
    The corrigenda (`014`–`018`) are not read: step 4. The batch 10 ends with the poem, so
    that no batch mixes verse and notes. Commits only when the user asks (after the whole
    read-through unless they set a range).
-2. **The held decisions** ("Open points": `ᾀεὶ`, `θλίψις`) after the read-through.
+2. **The held decisions** (`ᾀεὶ`, `θλίψις`) after the read-through (done, with the open
+   points `Ἢν` and `231` `εἷς`: "Settled readings").
 3. **The corrigenda** with the user (step 4), then **the close** (step 5).
 
 What the batches taught about the deciding (retype 06):
@@ -80,38 +84,6 @@ What the batches taught about the deciding (retype 06):
 
 Open points, for the user:
 
-- **The roman `^` mark on `ἢν`** (the user's question, after retype 10): the same mark as
-  `Ὃς`, `Ἃ` (rough with grave, "Settled readings") stands on `Ἢν` (`190` 9, 20; `232`
-  22), where the word (`ἐάν`) has the smooth breathing; at twelve times the two cannot be
-  told apart. Written `Ἢν` by the grammar for now; if the mark is the rough one, these
-  are misprints (`{{Ἣν|Ἢν}}`). Retype 12: the same mark stands on `Ἢ` "or" (`265` 4,
-  `278` 10, `279` 19), smooth by the grammar, and on `Ἓξ` "six" (`280` 21), rough: the
-  roman mark seems to be one sort for both, which supports `Ἢν` (`259` 16, `264` 7,
-  `268` 7, `272` 12 written so).
-- **`231` 10 `εἷς`** (rough, circumflex, final sigma) where the sense ("who are you")
-  would want `εἶ`: written as printed, not marked; for the user. The read-through found
-  the epic `εἶς` "thou art" twice, smooth with circumflex and a final sigma (`157` 13
-  `Εἶς Ἀλέξις`, `203` 7 `Ὡς εἶς αὐστηρά`), and at twelve times the hook of `231` looks
-  `3`-shaped, the smooth breathing's form (read-through 08): this supports `εἶς` there.
-  Two more in canto XXXIII, both `τίς εἶς` "who thou art" with the same hook
-  (`269` 14, `275` 6; read-through 10).
-
-- **`ᾀεὶ` with the iota subscript** is marked as a misprint by the settled reading, but it
-  is now printed in thirteen places (`038`, `077`, `107`, `110`, `120`, `124`, `165`,
-  `219`, `234`, `248`, `252`, `264`; `198` `Κᾀεὶ`, the crasis), and `ἀεὶ`
-  without it was read in the image only where a retype differed. It may be the edition's
-  spelling. **Held until the whole text is done** (the user, 2026-11-10): until then each
-  one is marked as before; then they are counted, and kept as misprints or changed to
-  printed, the marks and the rows of misprints.tsv with them.
-  Checked in the image (2026-11-12): the nine places written without it (`053` 17, `061`
-  14, `071` 3, `119` 14, `136` 16, `138` 3 and 9, `157` 17 `ἀείποτ’`, `161` 8) all have
-  the subscript too; the base and the retypes agreed in dropping it, so they were never
-  decided. So all 22 places are printed with it. Whichever way the decision goes, these
-  nine change (to the printed form, or marked). The readcheck.tsv note on `107` 16 ("`ἀεὶ`
-  without it on 071") is wrong and goes with them.
-- **`θλίψις` with the acute** (for `θλῖψις`) is printed in every place found: `079`
-  (`θλίψιν`), `252`, `263`, and `θλίβον` on `269`. Marked as misprints, as `079`; it may
-  be the edition's spelling. Held with `ᾀεὶ`.
 - **The task of retype 07** names `ᾈττίλαν` (`111` 4) as an error of retype 06; the user
   then read the iota subscript in the image, and it is a misprint the retype found. The
   task was already sent and is not changed: in the deciding of 07, a subscript missing
@@ -196,10 +168,28 @@ The edition's readings found in the steps go here, and are applied, not asked ag
 - **The corrigenda tables** (`014`–`018`) keep the base's columns: a cell wrapped over two
   printed lines on one row, the canto and line numbers without their printed comma and
   period. Only the words of the cells are compared.
-- **An iota subscript printed under a capital** where the word has none (`030` `ᾙρέθη`,
-  `038` `ᾈεὶ`) is a misprint, marked; so is one under a small letter (`107` `ᾀείποτε`,
-  `110` and `124` `ᾀεὶ`, `120` `Ἐσᾳεὶ`). A mark under a capital, low and
-  blurred, is the subscript too, not a blot (`111` `ᾈττίλαν`, read by the user).
+- **An iota subscript printed under a capital** where the word has none (`030` `ᾙρέθη`)
+  is a misprint, marked. A mark under a capital, low and blurred, is the subscript too,
+  not a blot (`111` `ᾈττίλαν`, read by the user). Not `ᾀεί` (the next).
+- **`ᾀεί` with the iota subscript** is the edition's spelling, written as printed, not
+  marked (Claude's recommendation, the user, 2026-11-13). It is printed so in all 22
+  places: `038`, `077`, `107`, `110`, `120` (`Ἐσᾳεὶ`), `124`, `165`, `198` (`Κᾀεὶ`, the
+  crasis), `219`, `234`, `248`, `252`, `264`, and the nine places the base and the retypes
+  had written without it (`053` 17, `061` 14, `071` 3, `119` 14, `136` 16, `138` 3 and 9,
+  `157` 17, `161` 8; read in the image, 2026-11-12). The thirteen marks were removed with
+  their rows of misprints.tsv; readcheck.tsv has them as `printed`.
+- **`θλίψις` with the acute** (`θλῖψις` in the grammar) is the edition's spelling, as
+  `ᾀεί`: printed so in every place (`079` `θλίψιν`, `252`, `263`, and `θλίβον` on `269`);
+  not marked, the four rows of misprints.tsv removed.
+- **The roman `^` mark on `Ἢν`** (`190` 9, 20; `232` 22; also `259` 16, `264` 7, `268` 7,
+  `272` 12) is written `Ἢν`, smooth by the grammar (`ἐάν`): at twelve times it cannot be
+  told from the rough breathing with grave (`Ὃς`, `Ἃ`), and the same mark stands on `Ἢ`
+  "or" (`265` 4, `278` 10, `279` 19), smooth, and on `Ἓξ` "six" (`280` 21), rough: one
+  roman sort for both (the user's question after retype 10; settled 2026-11-13).
+- **`231` 10 `εἶς`** "thou art" (`τίς εἶς`, "who art thou"), the epic form, smooth with
+  circumflex and a final sigma: at twelve times its hook is `3`-shaped, the smooth
+  breathing's form, as the four others (`157` 13 `Εἶς`, `203` 7, `269` 14, `275` 6).
+  Earlier written `εἷς`, rough (settled 2026-11-13).
 - **A low mark between two words** (or a quote and a word) is a spacing quad's, not a
   period: not written (`033` 10, `064` 19, …).
 - **The roman rough breathing with grave** prints as one `^`-like mark (`Ὃς`, `Ἓν`, `Ὃν`,

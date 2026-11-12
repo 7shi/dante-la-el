@@ -18,6 +18,15 @@ page	line	form	decision	note
 038	11	μυρίοι	misread	cmp B; was `μύριοι`
 038	15	ὀλολυγμοί	misread	cmp A; was `ὁλολυγμοί`
 038	16	βραγχαὶ	misread	cmp A; was `βραχχαὶ`
+053	17	ᾈεὶ	printed	image check; was `Ἀεὶ`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
+061	14	ᾈεὶ	printed	image check; was `Ἀεὶ`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
+071	3	ᾀεὶ	printed	image check; was `ἀεὶ`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
+119	14	ᾈεὶ	printed	image check; was `Ἀεὶ`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
+136	16	ᾀεὶ	printed	image check; was `ἀεὶ`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
+138	3	ᾈεί	printed	image check; was `Ἀεί`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
+138	9	ᾈεὶ	printed	image check; was `Ἀεὶ`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
+157	17	ᾀείποτ’	printed	image check; was `ἀείποτ’`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
+161	8	ᾀεί	printed	image check; was `ἀεί`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
 292	6	Λατίνοις	misread	cmp A; was `Λατίνους`
 292	13	. . . .	misread	cmp A; was `...`; four spaced dots printed
 292	15	Βεάτριξ	misread	cmp A; was `Βεατρίζ`
@@ -140,7 +149,7 @@ page	line	form	decision	note
 032	14	εὐεπείαις	misread	cmp B; was `εὐεπίαις`
 032	17	Βεάτριξ	misread	cmp A; also `ἐγώ`; was `Βεατρίξ`, `ἐγὼ`
 032	20	τοὐμοῦ	misread	cmp A; was `τοῦμοῦ`
-038	18	ᾈεὶ	misprint	retype 01; marked `{{ᾈεὶ|Ἀεὶ}}`, decided with 030 9
+038	18	ᾈεὶ	printed	retype 01; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
 157	23	ὀοθῶς	misprint	016 29; marked `{{ὀοθῶς|ὀρθῶς}}`, listed in the corrigenda
 033	1	ΩΔΗ Β΄. 13	misread	cmp B; the period of the running head, missing in the base
 033	10	Ἀλλὰ λέγε	printed	cmp B; a low mark between the words, a spacing quad's, not a period; the retype's `Ἀλλὰ.`
@@ -306,7 +315,7 @@ page	line	form	decision	note
 076	16	ἔμ᾽	misread	cmp A; was `ἐμ᾽`
 076	20	ᾧ ᾽τρέχομεν	misread	cmp A; was `ᾧ τρέχομεν`; the aphaeresis mark, `ἐτρέχομεν`
 077	4	ὥς εἰμι	misread	cmp B; was `ὡς εἰμι`; the accent before `εἰμι`
-077	6	ᾈείποτ᾽	misprint	cmp B; marked `{{ᾈείποτ᾽|Ἀείποτ᾽}}`, an iota subscript under the capital, as 038 18
+077	6	ᾈείποτ᾽	printed	cmp B; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
 077	15	κυσμοῦσ᾽	misprint	cmp A; marked `{{κυσμοῦσ᾽|κοσμοῦσ᾽}}`, an upsilon for the omicron
 077	19	Αἶσχος	misread	cmp A; was `Αἴσχος`
 078	6	γάρ σε	misread	cmp A; was `γὰρ σε`; the accent before `σε`
@@ -324,7 +333,7 @@ page	line	form	decision	note
 079	16	Ἐλθὲ	misread	cmp B; was `Ἔλθὲ`; smooth breathing, no accent
 079	17	Ὅς	printed	cmp B; the roman rough breathing with an accent, as 046 12, the base kept; the retype’s `Ὃς`
 079	17	Ὃς	misread	read; the `^` of the roman rough breathing with grave (settled after retype 08), as 046 12; was `Ὅς`, kept from the base before the rule
-079	21	θλίψιν	misprint	cmp B; marked `{{θλίψιν|θλῖψιν}}`, an acute for the circumflex
+079	21	θλίψιν	printed	cmp B; the edition's spelling `θλίψις` / `θλίβω`, printed so in all four places (PLAN.md, "Settled readings")
 080	4	ἐπιστρέψειν	misread	cmp A; was `ἐπιστρέφειν`
 080	13	Δεῖνος	misread	cmp A; was `Δεινοῦ`; `τοῦ Δεῖνος`, the genitive of `ὁ δεῖνα`
 080	14	θάῤῥος	misread	cmp A; was `θάρρος`
@@ -427,7 +436,7 @@ page	line	form	decision	note
 106	22	τάφρον	misread	cmp B; was `τάφρου`
 107	10	ἐξηρτυμένοις.	printed	cmp B; a period; the retype’s `·`
 107	11	ἔκραξε	misread	cmp A; was `ἔκραζε`
-107	16	ᾀείποτε	misprint	cmp B; marked `{{ᾀείποτε|ἀείποτε}}`, an iota subscript where the word has none, as 077 6 (`ἀεὶ` without it on 071)
+107	16	ᾀείποτε	printed	cmp B; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
 107	17	Εἶθ	misread	cmp A; was `Εἰθ`
 107	17	ἔσθ	misread	cmp A; was `ἐσθ`
 107	20	στῆθός	misprint	cmp B; marked `{{στῆθός|στῆθος}}`, an acute before `αὑτοῦ`, not enclitic
@@ -444,7 +453,7 @@ page	line	form	decision	note
 109	20	Ἀζελήν ἐστιν	misread	cmp B; was `Ἀζελὴν ἔστιν`
 109	21	Ἔστης	misread	cmp B; was `Ἕστης`; smooth breathing and acute, as `Ἔνθ᾽` (112 8), against `Ἕξομεν` (117 12)
 110	3	’ν	misread	read; the aphaeresis mark `’`; was `‘ν`
-110	17	ᾀεὶ	misprint	cmp B; marked `{{ᾀεὶ|ἀεὶ}}`, an iota subscript where the word has none, as 107 16; the base had `ἀεὶ`
+110	17	ᾀεὶ	printed	cmp B; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings"); the base had `ἀεὶ`
 110	18	βούλομαί	misread	cmp A; was `βούλομαι`
 110	20	Αὐτοῦ	printed	cmp B; smooth breathing; the retype’s `Αὑτοῦ`
 111	4	ᾈττίλαν	misprint	cmp B; marked `{{ᾈττίλαν|Ἀττίλαν}}`, an iota subscript printed under the capital, as 038 18 (read by the user in the image; first taken for a blot); the base had `Ἀττίλαν`
@@ -493,7 +502,7 @@ page	line	form	decision	note
 118	20	ὁ	printed	cmp B; an omicron with the rough breathing; the retype’s `ὦ`
 119	22	H 2	printed	cmp B; the signature; a speck above the letter, the retype’s `Η΄ 2`
 120	9	ἀφίγμεθ᾽	misread	read; was `ἀφίγμεθ'` (ASCII), found by a search of the text
-120	14	Ἐσᾳεὶ	misprint	cmp B; marked `{{Ἐσᾳεὶ|Ἐσαεὶ}}`, an iota subscript where the word has none, as `ᾀεὶ` (110 17); the base had `Ἐσαεὶ`
+120	14	Ἐσᾳεὶ	printed	cmp B; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings"); the base had `Ἐσαεὶ`
 121	5	ἀναγνοὺς	misread	cmp A; was `ἀναγνοῦς`
 121	19	Οἵασπερ	misread	cmp B; was `Οἴασπερ`; rough breathing and acute
 122	11	Προστάτα	misread	cmp A; was `Προστᾶτα`
@@ -505,7 +514,7 @@ page	line	form	decision	note
 123	21	ἕπου	misread	cmp B; was `ἔπου`; rough breathing and acute, as 102 22
 123	22	θῇς	misread	cmp A; was `θῂς`
 124	1	1Δ΄	misprint	cmp B; marked `{{1Δ΄|ΙΔ΄}}`, the running head; the figure `1` for the letter `Ι`, as 112 1
-124	2	ᾀεὶ	misprint	cmp B; marked `{{ᾀεὶ|ἀεὶ}}`, an iota subscript where the word has none, as 110 17; the base had `ἀεὶ`
+124	2	ᾀεὶ	printed	cmp B; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings"); the base had `ἀεὶ`
 124	4	ποτάμιόν	misread	cmp A; was `ποτάμιον`
 124	5	᾿ρυθρότης	misread	cmp A; was `ῥυθρότης`; the aphaeresis mark of `ἐρυθρότης`
 124	8	ἔῤῥεεν	misread	cmp A; was `ἔρρεεν`
@@ -702,7 +711,7 @@ page	line	form	decision	note
 164	22	διαφέρετ	misread	cmp A; was `διαφέρειτ`
 165	6	προὶξ	misread	cmp A; was `προῖξ`
 165	11	Ἠκροᾶτο	misread	cmp B; was `’Ηκροᾶτο`; the breathing was a separate character
-165	11	ᾀεὶ	misprint	cmp B; marked `{{ᾀεὶ|ἀεὶ}}`, an iota subscript where the word has none, as 110 17 (held, "Open points"); the base had `ἀεὶ`
+165	11	ᾀεὶ	printed	cmp B; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings"); the base had `ἀεὶ`
 165	12	Οὓς	misread	cmp B; was `Οὕς`; the roman `^` mark, rough breathing and grave ("Settled readings")
 165	13	αὑτοῦ	misread	cmp A; was `αὐτοῦ`; the rough breathing
 165	15	Ἀνήγαγ	misread	cmp B; was `’Ανήγαγ`; the breathing was a separate character
@@ -818,7 +827,7 @@ page	line	form	decision	note
 189	12	Νῦν	printed	cmp B; letter-spaced in the print (`Ν ῦ ν`, Dante’s *issa*), written closed up; the retype’s spacing
 189	19	Ἐνεπαίχθησαν	misread	cmp B; was `Ἐπεπαίχθησαν`
 190	7	ᾐσθόμην	misread	cmp B; was `ἠσθόμην`; the iota subscript
-190	9	Ἢν	misread	cmp B; was `Ἤν`; the roman `^` mark, written smooth by the grammar (`ἐάν`; "Open points")
+190	9	Ἢν	misread	cmp B; was `Ἤν`; the roman `^` mark, written smooth by the grammar (`ἐάν`; "Settled readings")
 190	20	Ἢν	misread	cmp B; was `Ἤν`; the roman `^` mark, as 190 9
 191	8	αὑτῆς	misread	cmp A; was `αὐτῆς`
 191	16	Στρέφον	misread	cmp A; was `Στρέφων`
@@ -845,7 +854,7 @@ page	line	form	decision	note
 197	10	αὑτῆς	misread	cmp A; was `αὐτῆς`
 198	7	πρός	misread	cmp A; was `πρὸς`
 198	10	αὑτὸν	misread	cmp A; was `αὐτὸν`
-198	13	Κᾀεὶ	misprint	cmp A; marked `{{Κᾀεὶ|Κἀεὶ}}`, an iota subscript where the word has none, as `ᾀεὶ` 110 17 (held, "Open points"); the base had `Κἀκεῖ`
+198	13	Κᾀεὶ	printed	cmp A; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings"); the base had `Κἀκεῖ`
 198	15	αὑτὸν	misread	cmp A; was `αὐτὸν`
 199	3	ἢ	misread	cmp B; was `ἡ`; smooth breathing and grave, a comma and a back stroke ("than", after `συντομωτέρα`)
 199	4	ἠδυνάτουν	misread	cmp A; was `ἠδύνατουν`
@@ -942,7 +951,7 @@ page	line	form	decision	note
 219	7	‚ „	misread	cmp B; was `„„`; the nested quotes
 219	7	ζῇν	misread	cmp B; was `ζῆν`; the iota subscript, as `κἀναζῇν` (202 15)
 219	8	‚ „ … κἀπιστήμην.”’	misread	cmp B; was `„„ … κἀπιστήμην.”`; the nested quotes, closing `”’`
-219	14	ᾀεὶ	misprint	cmp B; marked `{{ᾀεὶ|ἀεὶ}}`, an iota subscript where the word has none, as 110 17 (held, "Open points"); the base had `ἀεὶ`
+219	14	ᾀεὶ	printed	cmp B; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings"); the base had `ἀεὶ`
 219	15	θἀτέρου	misread	cmp B; was `θατέρου`
 219	21	Ὅτ᾽	misread	cmp B; was `Ὄτ᾽`; rough breathing and acute, the loop with a stroke
 219	22	τοσούτου	misread	cmp A; was `τοσοῦτου`
@@ -996,7 +1005,7 @@ page	line	form	decision	note
 230	5	Τιλακοσσίοις	misread	cmp B; was `Τιλακοσσοίοις`
 230	11	ἕν᾿	misread	cmp A; was `ἔν᾿`
 231	8	κλείεται	misread	cmp A; was `κλεῖεται`
-231	10	εἷς	misread	cmp B; was `εἶ`; rough breathing and circumflex, the hook open to the right, and a final sigma (the sense "who are you" would want `εἶ`)
+231	10	εἶς	misread	cmp B; was `εἶ`; the epic `εἶς` "thou art": the hook `3`-shaped at twelve times, smooth, as `157` 13, `203` 7, `269` 14, `275` 6 (PLAN.md, "Settled readings")
 231	13	πταῖσμ᾽	misread	cmp A; was `πταισμ᾽`
 231	14	οὑμὸς	misread	cmp A; was `οὐμὸς`
 231	18	ἔστ᾽	misread	cmp A; was `ἐστ᾽`
@@ -1010,12 +1019,12 @@ page	line	form	decision	note
 232	12	τετρημένον	misread	cmp A; was `τετμημένον`
 232	14	τεθαυμασμένως	misread	cmp B; was `τεθαυμασμένος`
 232	17	τἀκτὸς	misread	cmp B; was `τάκτος`
-232	22	Ἢν	misread	cmp B; was `Ἦν`; the roman `^` mark, as 190 9 ("Open points"); seen beside `ἐπανίδῃς`
+232	22	Ἢν	misread	cmp B; was `Ἦν`; the roman `^` mark, as 190 9 ("Settled readings"); seen beside `ἐπανίδῃς`
 232	22	ἐπανίδῃς	misread	cmp B; was `ἐπανίδης`; the iota subscript
 233	13	μονοφθάλμως	misread	cmp A; was `μονόφθαλμος`
 233	16	Αὐτοὺς	printed	cmp B; a dot before `εἰς`, a spacing quad's; the retype’s `·`
 234	7	‚ „	misread	cmp B; was `„„`; the nested quotes, as 218 20
-234	7	ᾀεὶ	misprint	cmp B; marked `{{ᾀεὶ|ἀεὶ}}`, an iota subscript where the word has none, as 110 17 (held, "Open points"); the base had `ἀεὶ`
+234	7	ᾀεὶ	printed	cmp B; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings"); the base had `ἀεὶ`
 234	14	Ἔκραξε	misread	cmp B; was `Ἔκραζε`
 234	15	‘“	printed	read; the nested quote inside the speech (`εἶπε,” ‘“Πᾶν …”’`), as printed
 234	18	φυλῇ	misread	cmp A; was `φυλὴ`; the iota subscript
@@ -1082,7 +1091,7 @@ page	line	form	decision	note
 248	14	ῥύακας	misread	cmp A; was `ρύακας`
 248	15	Τοῦ	misread	read; was `“`, the printed `„` of the speech going on
 248	16	χἁπαλοὺς	misread	cmp B; was `χάπαλους`; the retype’s `κἁπαλοὺς`
-248	17	ᾈεὶ	misprint	cmp B; marked `{{ᾈεὶ|Ἀεὶ}}`, an iota subscript under the capital, as 038 (held, "Open points"); the base had `Ἀεὶ`
+248	17	ᾈεὶ	printed	cmp B; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings"); the base had `Ἀεὶ`
 248	18	εἰκών	misread	cmp A; was `εἰκὼν`
 248	20	Κολάζει	misread	read; was `“`, the printed `„` of the speech going on
 249	6	ταὐταδέλφου	printed	read; the crasis written as one word with the accent `-δέλφου`, printed so
@@ -1096,7 +1105,7 @@ page	line	form	decision	note
 252	4	τοιᾶσδ’	misread	cmp A; was `τοιαδ’`
 252	11	ᾜτουν	misread	cmp B; was `Ἤτουν`; the iota subscript under the capital
 252	14	θλίψις	misread	cmp A; was `θλῖψις`
-252	15	ᾀεὶ	misprint	cmp B; marked `{{ᾀεὶ|ἀεὶ}}`, an iota subscript, as 110 17 (held, "Open points"); the base had `ἀεὶ`
+252	15	ᾀεὶ	printed	cmp B; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings"); the base had `ἀεὶ`
 252	17	Τοιᾷδ’	misread	cmp B; was `Τοιαδ’`
 252	18	θελειν	misprint	cmp A; marked `{{θελειν|θέλειν}}`, no accent printed; the base had `θέλειν`
 253	14	Ἣν	printed	cmp B; the roman `^` mark, rough breathing and grave ("Settled readings"); the retype’s `Ἥν`
@@ -1121,7 +1130,7 @@ page	line	form	decision	note
 258	3	ἅς	misread	cmp B; was `ἃς`; the acute before the enclitic `ποτ᾽`
 258	14	διεκλόνησεν	misread	cmp A; was `διεκλόνισεν`
 258	20	Ἤλθομεν	misread	cmp A; was `Ἦλθομεν`
-252	14	θλίψις	misprint	marked `{{θλίψις|θλῖψις}}`, not a cmp place: an acute for the circumflex, as 079 21, seen in the deciding of retype 12 (held, "Open points"); the base had `θλίψις`
+252	14	θλίψις	printed	not a cmp place, seen in the deciding of retype 12; the edition's spelling `θλίψις` / `θλίβω`, printed so in all four places (PLAN.md, "Settled readings"); the base had `θλίψις`
 259	6	παρῆσθα	misread	cmp A; was `παρήσθα`
 259	12	δή	misread	cmp A; was `δὴ`
 259	16	πάρωρον	misread	cmp A; was `πάρορον`
@@ -1132,7 +1141,7 @@ page	line	form	decision	note
 261	15	εἴησάν	misread	cmp B; was `εἴησαν`
 261	19	R	misread	cmp B; the signature mark at the foot, missing in the base
 262	7	Ἤκουσά του	misread	cmp B; was `Ἤκουσα τοῦ`
-263	6	θλίψις	misprint	cmp A; marked `{{θλίψις|θλῖψις}}`, an acute for the circumflex, as 079 21 (held, "Open points"); the base had `θλῖψις`
+263	6	θλίψις	printed	cmp A; the edition's spelling `θλίψις` / `θλίβω`, printed so in all four places (PLAN.md, "Settled readings"); the base had `θλῖψις`
 263	7	κᾆτα	misread	cmp B; was `κᾶτα`
 263	9	συμμεμιγμένας	misread	cmp A; was `συμπεμιγμένας`
 263	12	πρός	misread	cmp A; was `πρὸς`
@@ -1143,7 +1152,7 @@ page	line	form	decision	note
 264	7	Ἢν	misread	cmp B; was `Ἣν`; the roman `^` mark, written `Ἢν` by the grammar ("Open points")
 264	8	Ἀξιωτέραν	misread	cmp A; was `Ἀξιοτέραν`
 264	15	Ἵν	misread	cmp B; was `Ἴν`; rough with acute
-264	20	ᾀεί	misprint	cmp B; marked `{{ᾀεί|ἀεί}}`, an iota subscript where the word has none, as 110 17 (held, "Open points"); the base had `ἀεί`
+264	20	ᾀεί	printed	cmp B; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings"); the base had `ἀεί`
 264	22	ἐπιῤῥέπει	misread	cmp A; was `ἐπιρρέπει`
 265	9	Μονταπέρτου	misread	cmp A; was `Μουταπέρτου`
 265	10	Καγώ	misprint	cmp B; marked `{{Καγώ|Κἀγώ}}`, the coronis did not print; the base had `Κἀγώ`
@@ -1157,7 +1166,7 @@ page	line	form	decision	note
 267	16	πῖλός	misread	cmp A; was `πιλός`
 268	5	Γνούς	misread	cmp B; was `Γνοὺς`
 268	7	φθέγγομαί	misread	cmp B; was `φθέγγομαι`
-269	9	θλίβον	misprint	marked `{{θλίβον|θλῖβον}}`, not a cmp place: an acute for the circumflex, as 079 21 (held, "Open points"); the base had `θλίβον`
+269	9	θλίβον	printed	not a cmp place; the edition's spelling `θλίψις` / `θλίβω`, printed so in all four places (PLAN.md, "Settled readings"); the base had `θλίβον`
 269	12	προδότῃ	misread	cmp A; was `προδότη`
 269	16	Ὄντως	misread	cmp B; was `Οὕτως`
 270	3	ἔσθ	misread	cmp A; was `ἐσθ`

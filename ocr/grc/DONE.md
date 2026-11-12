@@ -874,3 +874,21 @@ the read-through is complete.
     `Ὁ στίχος`; `348` `Λαγοδώρου` against `Λογοδώρου` (`326`); `349` `σημ` without a period.
   - Decided in Step 2 already: `349` `ᾨδῆς`, `350` `ᾍδου· Ἴσως`.
 - `convert_grc.py`: the report as before. `misprints.py`: 123 rows, 123 marks, 0 problems.
+
+## The held decisions and the open points (2026-11-13)
+
+Decided by Claude's recommendation (the user, 2026-11-13); PLAN.md "Settled readings".
+
+- **`ᾀεί`** with the iota subscript, printed so in all 22 places, is the edition's
+  spelling: the thirteen marks (`038`, `077`, `107`, `110`, `120` `Ἐσᾳεὶ`, `124`, `165`,
+  `198` `Κᾀεὶ`, `219`, `234`, `248`, `252`, `264`) removed, the nine places written
+  without it (`053`, `061`, `071`, `119`, `136`, `138` twice, `157`, `161`) changed to the
+  printed form, their rows added to readcheck.tsv as `printed`.
+- **`θλίψις`** with the acute (`079`, `252`, `263`, `269` `θλίβον`) is the edition's
+  spelling: the four marks removed.
+- **`231` 10** changed from `εἷς` to `εἶς` "thou art", the smooth breathing, as the four
+  others.
+- **`Ἢν`** stays as written; the roman `^` mark is one sort for both breathings.
+- misprints.tsv: 17 rows removed; readcheck.tsv: the 17 rows changed to `printed`, nine
+  added, the notes on `190`, `231`, `232` changed.
+- `convert_grc.py`: the report as before. `misprints.py`: 106 rows, 106 marks, 0 problems.
