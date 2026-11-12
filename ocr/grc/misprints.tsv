@@ -5,19 +5,25 @@ page	line	printed	fixed	applied	source	note
 017	5	τον	τὸν	yes	edition	The corrigenda, XX 64, quoting the verse (169: `τὸν Ἀπεννῖνον`); the grave did not print; found by the retype.
 023	20	προς	πρὸς	yes	edition	I 46; the grave did not print; found by the retype.
 024	14	ἒνθ	ἔνθ᾽	yes	edition	I 60; the elision mark not printed and a grave for the acute before `ἥλιος`; found by the retype.
+025	3	Μαντιανοὶ	Μαντυανοὶ	yes	edition	I 69; an iota for the upsilon (`Μαντύας`, II 58); found in the read-through. Listed in the corrigenda (014).
 030	9	ᾙρέθη	Ἡρέθη	yes	edition	II 21; an iota subscript printed under the capital (the aorist of `αἱρέω`); found by the retype.
 035	1	ΩΔΠ	ΩΔΗ	yes	edition	The running head of II 115–134; a Π for the Η; found by the retype.
 035	13	συῦ	σοῦ	yes	edition	II 125, `ὑπὲρ σοῦ`; an upsilon for the omicron; found by the retype.
 038	18	ᾈεὶ	Ἀεὶ	yes	edition	III 29; an iota subscript printed under the capital, as on 030; seen in retype 01, decided with 030.
+040	18	Ὅ	Ὃ	yes	edition	III 68; the relative with an acute for the grave; found in the read-through.
 046	18	ἀνδρῶν;	ἀνδρῶν,	yes	edition	IV 30, a list (`ἀνδρῶν, γυναικῶν, παίδων`); a question mark for the comma; found by the retype.
+057	5	“	„	yes	edition	V 77; an opening quote for the continuation quote; found in the read-through.
 059	9	πόθους.	πόθους;	yes	edition	V 120, the end of Francesca's question (`εἰς τί καὶ πῶς`); a period for the question mark; found by the retype.
 061	12	τὸν	τοῦ	yes	edition	VI 7, `κύκλον τοῦ ὄμβρου`; an accusative article before the genitive; found by the retype.
 065	4	Τύφος	Τῦφος	yes	edition	VI 74; an acute for the circumflex of `τῦφος`; found by the retype, which wrote the circumflex.
 075	3	Διτός	Διτὸς	yes	edition	The argument of canto VIII; an acute before `πόλις` (VIII 68, `Διτὸς πόλις`); found by the retype, which wrote the grave.
+075	5	κεθεξῆς	καθεξῆς	yes	edition	VIII 1; an epsilon for the alpha; found in the read-through.
 077	6	ᾈείποτ᾽	Ἀείποτ᾽	yes	edition	VIII 39; an iota subscript printed under the capital, as on 038; found by the retype.
 077	15	κυσμοῦσ᾽	κοσμοῦσ᾽	yes	edition	VIII 48; an upsilon for the omicron; found by the retype.
 079	2	ᾍδῃ	Ἅδῃ	yes	edition	VIII 75; an iota subscript printed under the capital, as on 038; seen in the check of retype 04.
 079	21	θλίψιν	θλῖψιν	yes	edition	VIII 94; an acute for the circumflex; found by the retype.
+086	21	“	„	yes	edition	IX 94; an opening quote for the continuation quote, as on 057; found in the read-through.
+094	10	τὰ	“τὰ	yes	edition	X 100; the opening quote after `εἶπε,` not printed; found in the read-through.
 099	12	Τόν	Τὸν	yes	edition	XI 43; an acute before `ἑαυτὸν`, not enclitic; found by the retype, which wrote the acute.
 102	5	φὴς	φῂς	yes	edition	XI 95; listed in the corrigenda (014, `ΙΑ’ 95. φὴς` / `φῂς`); the base had `φῇς`; found by Tesseract.
 107	16	ᾀείποτε	ἀείποτε	yes	edition	XII 66; an iota subscript where the word has none, as on 038 and 077; found by the retype.
@@ -31,20 +37,26 @@ page	line	printed	fixed	applied	source	note
 120	14	Ἐσᾳεὶ	Ἐσαεὶ	yes	edition	XIV 9; an iota subscript where the word has none, as `ᾀεὶ` on 110; found by the retype.
 124	1	1Δ΄	ΙΔ΄	yes	edition	The running head of XIV 75–94; the figure `1` for the letter `Ι`, as on 112; found by the retype.
 124	2	ᾀεὶ	ἀεὶ	yes	edition	XIV 75; an iota subscript where the word has none, as on 110; found by the retype.
+126	6	“	„	yes	edition	XIV 119; an opening quote for the continuation quote, as on 057 and 086; found in the read-through.
 134	10	δὶ	δι᾽	yes	edition	XV 122; a grave over the iota, no elision mark; found by the retype.
 139	21	Εἰπόμην	Εἱπόμην	yes	edition	XVI 91; the smooth breathing for the rough (`εἱπόμην` on 152); found by the retype.
 146	6	και	καὶ	yes	edition	XVII 56; the grave did not print; found by the retype and Tesseract.
 147	21	ἀλλ	ἀλλ᾽	yes	edition	XVII 92; the elision mark did not print; found by the retype.
+153	21	’	”	yes	edition	XVIII 51; a single closing quote for the double; found in the read-through.
 157	23	ὀοθῶς	ὀρθῶς	yes	edition	XVIII 132; listed in the corrigenda (016, `ὀοθῶς` / `ὀρθῶς`); the base had corrected it silently; found while checking 016.
 165	11	ᾀεὶ	ἀεὶ	yes	edition	XIX 122; an iota subscript where the word has none, as on 110; found by the retype.
 173	3	ἀπατεῶνες	ἀπατεῶνες.	yes	edition	The argument of canto XXI; the period before the dash did not print (the table of contents, 012, has it); found by the retype.
 175	8	Ζιτας	Ζίτας	yes	edition	XXI 38; the acute did not print; found by the retype and Tesseract.
+175	16	συγκαμπτος	σύγκαμπτος	yes	edition	XXI 46; no accent printed; found in the read-through.
+179	7	βλάβην.	βλάβην.”	yes	edition	XXI 117; the closing quote not printed; found in the read-through.
 183	14	Ἡγητωρ	Ἡγήτωρ	yes	edition	XXII 46; the acute did not print; found by the retype and Tesseract.
 188	8	ὄνυξίν	ὄνυξιν	yes	edition	XXII 140; a second acute printed on the last syllable; found by the retype.
+194	8	λαμπροφορίας;	λαμπροφορίας;”	yes	edition	XXIII 99; the closing quote not printed; found in the read-through.
 198	13	Κᾀεὶ	Κἀεὶ	yes	edition	XXIV 26; an iota subscript where the word has none, as `ᾀεὶ` on 110; found by the retype.
 219	14	ᾀεὶ	ἀεὶ	yes	edition	XXVI 126; an iota subscript where the word has none, as on 110; found by the retype.
 230	4	Φρεγελλαις	Φρεγέλλαις	yes	edition	XXVIII 16; the accent did not print; found by the retype and Tesseract.
 234	7	ᾀεὶ	ἀεὶ	yes	edition	XXVIII 99; an iota subscript where the word has none, as on 110; found by the retype.
+236	11	δίκην.	δίκην.”	yes	edition	XXVIII 142; the closing quote not printed; found in the read-through.
 238	14	δακτυλῳ	δακτύλῳ	yes	edition	XXIX 26; the acute did not print; found by the retype and Tesseract.
 248	1	Α΄	Λ΄	yes	edition	The running head of canto XXX; `Α` for `Λ`; found by the retype and Tesseract.
 248	17	ᾈεὶ	Ἀεὶ	yes	edition	XXX 67; an iota subscript under the capital where the word has none, as on 038; found by the retype.
@@ -59,6 +71,10 @@ page	line	printed	fixed	applied	source	note
 265	14	ἶπον	Εἶπον	yes	edition	XXXII 86; the capital `Ε` did not print; found by the retype.
 269	9	θλίβον	θλῖβον	yes	edition	XXXIII 5; an acute for the circumflex, as on 079; seen in the retype (held, "Open points").
 271	1	ΑΓ΄	ΛΓ΄	yes	edition	The running head of canto XXXIII; `Α` for `Λ`, as on 248; found by the retype.
+274	16	κάτω;	κάτω;”	yes	edition	XXXIII 105; the closing quote not printed; found in the read-through.
+274	18	“	„	yes	edition	XXXIII 107; an opening quote for the continuation quote, as on 126; found in the read-through.
+274	19	“	„	yes	edition	XXXIII 108; an opening quote for the continuation quote, as on 126; found in the read-through.
+274	22	“	„	yes	edition	XXXIII 111; an opening quote for the continuation quote, as on 126; found in the read-through.
 281	4	ὄλμου	ὅλμου	yes	edition	XXXIV 56; the smooth breathing for the rough (the same mark as `ἔθραυε` in the line); found by the retype.
 292	29	28	28.	yes	edition	The note to II. 28; the period after the number did not print, as after the other numbers; found by the retype.
 293	11	ἄλλωυς	ἄλλους	yes	edition	The note to II. 108; an `ω`-like letter for the `ο`; found in the deciding of retype 13.
@@ -68,6 +84,8 @@ page	line	printed	fixed	applied	source	note
 298	3	Ε΄	ΣΤ΄	yes	edition	The running head of the notes to canto VI; `Ε΄` for `ΣΤ΄`, as on 299; found in the deciding of retype 13.
 299	1	Ε΄	ΣΤ΄	yes	edition	The running head of the notes to canto VI; `Ε΄` for `ΣΤ΄`, as on 298; found in the deciding of retype 13.
 300	4	ἄσωτοί	ἄσωτοι	yes	edition	The note to VII. 30; an acute on the last syllable, no enclitic follows; found by the retype.
+300	5	Τοὐτ᾿	Τοῦτ᾿	yes	edition	note VII 30; a smooth breathing for the circumflex; found in the read-through.
+301	35	μακαρτάτη	μακαρτάτη”	yes	edition	note VIII 45; the closing quote of the Musaeus quotation not printed; found in the read-through.
 303	23	ἀλυσίδετον	ἁλυσίδετον	yes	edition	The note to IX. 52; the smooth breathing for the rough (`ἅλυσις`; `ἁρπαγὴν` beside it); found by the retype.
 304	7	νεκρὼν	νεκρῶν	yes	edition	The note to IX. 112; a grave for the circumflex; found by the retype.
 304	11	το	τὸ	yes	edition	The note to IX. 112; no accent printed; found by the retype.
@@ -103,3 +121,4 @@ page	line	printed	fixed	applied	source	note
 345	25	Τα	Τὰ	yes	edition	The note to XXXII. 73, quoting Aristotle; no accent printed; found by the retype.
 346	3	Τρῴων	Τρώων	yes	edition	The note to XXXII. 88; an iota subscript printed under the `ω`; found by the retype.
 348	5	Alterigo	Alberigo	yes	edition	The note to XXXIII. 118; a `t` for the `b` (the Greek has `Ἀλβερίγος`); the base had it as printed; seen in the deciding of retype 15.
+350	9	χώρας.	χώρας.”	yes	edition	note XXXIV 114; the closing quote of the Ezekiel quotation not printed; found in the read-through.

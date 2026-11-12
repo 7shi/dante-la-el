@@ -24,62 +24,42 @@ of 07–11, batch by batch (the user, 2026-11-12): retypes 07 (`134`–`158`), 0
 **From retype 12 on, no delegate** (the user, 2026-11-12): Claude (Opus 5.5) retypes the
 pages itself and decides them in the same session ("The work ahead"). Retype 12
 (`259`–`285`) decided and committed. Retype 13 (`287`, `289`–`291`, `293`–`313`, the
-notes), retype 14 (`314`–`338`) and retype 15 (`339`–`342`, `344`–`351`) decided; to be
-committed together (the user). Step 2 is done with them.
+notes), retype 14 (`314`–`338`) and retype 15 (`339`–`342`, `344`–`351`) decided and
+committed together. Step 2 is done with them.
+**Step 3, the read-through** (the user, 2026-11-12): read by Claude (Opus 5.5)
+itself, without la-el-agy (its rate limit not waited for). The trial (`021`–`040`) and batches 01–13 (`041`–`351`, `005`–`013`) done: the read-through is complete.
 
 ## The work ahead
 
-1. **Retypes 07–15, to the last page** (the user, 2026-11-10: batches of 25 pages to
-   the end, all on Gemini 3.8 Flash, sent one after another; "How a batch runs"):
+1. **Read-through** (step 3; ocr/PLAN.md, "Read-through"): Claude reads `texts/grc` for
+   sense, the pages written by `pages.py` into `tmp/read/`, and lists the flagged places
+   (page, phrase, reason) in a TSV there, as the delegate would; each place is then found
+   with `findline.py` and decided in the image, its row in readcheck.tsv with the note
+   `read`. After each batch: `convert_grc.py` and `misprints.py` compared with their
+   previous output, a section in DONE.md, a short report to the user.
 
-   | retype | pages | number | kind |
-   |---|---|---|---|
-   | 07 | `134`–`158` | 25 | cantos (decided) |
-   | 08 | `159`–`183` | 25 | cantos (decided) |
-   | 09 | `184`–`208` | 25 | cantos (decided) |
-   | 10 | `209`–`233` | 25 | cantos (decided) |
-   | 11 | `234`–`258` | 25 | cantos (decided) |
-   | 12 | `259`–`285` | 27 | cantos, to the end of the poem (decided) |
-   | 13 | `287`, `289`–`291`, `293`–`313` | 25 | notes (decided) |
-   | 14 | `314`–`338` | 25 | notes (decided) |
-   | 15 | `339`–`342`, `344`–`351` | 12 | notes, to the end of the book (decided) |
+   | batch | scans | kind |
+   |---|---|---|
+   | trial | `021`–`040` | cantos I–III (done) |
+   | 01 | `041`–`065` | cantos (done) |
+   | 02 | `066`–`090` | cantos (done) |
+   | 03 | `091`–`115` | cantos (done) |
+   | 04 | `116`–`140` | cantos (done) |
+   | 05 | `141`–`165` | cantos (done) |
+   | 06 | `166`–`190` | cantos (done) |
+   | 07 | `191`–`215` | cantos (done) |
+   | 08 | `216`–`240` | cantos (done) |
+   | 09 | `241`–`265` | cantos (done) |
+   | 10 | `266`–`285` | cantos, to the end of the poem (done) |
+   | 11 | `287`–`313` | notes (done) |
+   | 12 | `314`–`338` | notes (done) |
+   | 13 | `339`–`351`, `005`–`013` | notes, the preface and the table of contents (done) |
 
-   Not retyped: `286`, `288` (not in `texts/grc`), `292`, `343` (done in the trial). The
-   batch 12 takes the two last pages of the poem with it, so that no batch mixes verse
-   and notes. The notes are in smaller type, with Latin, Italian, French and a little
-   Hebrew and Arabic. Update (the user, 2026-11-10): because the notes are small, 13–15
-   are planned for Gemini 4 Argon, not Flash (the user switches the model by hand; the
-   model and the task are confirmed with the user before 13 is written). 12 waits with
-   them, several days, for the Flash rate limit. Their task says "the notes" for the cantos; the template's rules
-   already name the languages.
-   **Update (the user, 2026-11-12): 12–15 are not sent to la-el-agy.** Claude (Opus 5.5)
-   writes each retype from the page images alone, without looking at the base (the base's
-   errors are mostly breathings and accents, which a correction of the base would carry
-   over), into `tmp/grc-retypeNN/` in the usual form, a few pages at a time; the batch is
-   then compared and decided as before (steps 2–6 below). Before 13, the form of the notes
-   is taken from `292` and `343`. Commits: after 12, then one set for 13–15.
-2. **The deciding** of retypes 07–15 (step 2), when the user asks: batch by batch in
-   page order, each with its section in DONE.md.
-3. **Read-through** (step 3), then **the corrigenda** with the user (step 4), then **the
-   close** (step 5).
-
-How a batch runs (asked by the user, 2026-11-10):
-
-- **From retype 07 on** (the user, 2026-11-10): when a reply comes, the returned batch is
-  only checked for its files (every page present, none empty), not decided, and the next
-  batch is sent at once, without a new signal, to the last one (retype 15). All on
-  Gemini 3.8 Flash; the user says so if the model is changed. The deciding of the
-  returned batches waits for the user.
-  **Stop after retype 11** (the user, 2026-11-10): the Gemini 3.8 Flash rate limit is
-  expected to be reached with 11, so 12 onward wait several days. When 11 returns, check
-  its files and wait; retype 12 is not sent until the user says so.
-- The task file is the last one with its pages and paths changed; no new rules. The list
-  of the last batch's errors stays that of retype 06 while the batches are undecided,
-  without its `ᾈττίλαν` line ("Open points").
-- Until retype 06 (replaced by the above): the user gave the signal before each batch,
-  and a returned batch was decided before the next was sent.
-- Commits only when the user asks, `ocr/grc` and `texts/grc` apart; the last ones cover
-  retypes 01–05.
+   The corrigenda (`014`–`018`) are not read: step 4. The batch 10 ends with the poem, so
+   that no batch mixes verse and notes. Commits only when the user asks (after the whole
+   read-through unless they set a range).
+2. **The held decisions** ("Open points": `ᾀεὶ`, `θλίψις`) after the read-through.
+3. **The corrigenda** with the user (step 4), then **the close** (step 5).
 
 What the batches taught about the deciding (retype 06):
 
@@ -109,7 +89,12 @@ Open points, for the user:
   roman mark seems to be one sort for both, which supports `Ἢν` (`259` 16, `264` 7,
   `268` 7, `272` 12 written so).
 - **`231` 10 `εἷς`** (rough, circumflex, final sigma) where the sense ("who are you")
-  would want `εἶ`: written as printed, not marked; for the user.
+  would want `εἶ`: written as printed, not marked; for the user. The read-through found
+  the epic `εἶς` "thou art" twice, smooth with circumflex and a final sigma (`157` 13
+  `Εἶς Ἀλέξις`, `203` 7 `Ὡς εἶς αὐστηρά`), and at twelve times the hook of `231` looks
+  `3`-shaped, the smooth breathing's form (read-through 08): this supports `εἶς` there.
+  Two more in canto XXXIII, both `τίς εἶς` "who thou art" with the same hook
+  (`269` 14, `275` 6; read-through 10).
 
 - **`ᾀεὶ` with the iota subscript** is marked as a misprint by the settled reading, but it
   is now printed in thirteen places (`038`, `077`, `107`, `110`, `120`, `124`, `165`,

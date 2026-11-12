@@ -631,3 +631,246 @@ The record of the check of `ocr/grc` planned in [PLAN.md](PLAN.md), step by step
   vocabulary from the base's `Montfort` on `346`, now `Monfort` as printed). The report
   as the baseline; `texts/grc` regenerated (the notes). `misprints.py`: 104 rows, 104
   marks, 0 problems.
+
+## Step 3: read-through, trial (2026-11-12)
+
+Scans `021`–`040` (cantos I–III, 20 pages), read by Claude (Opus 5.5) itself, without
+la-el-agy (the user, 2026-11-12). The pages by `pages.py` into `tmp/read/`, read for
+sense, the flagged places decided in the image (8 times their size).
+
+- **Flagged**, 3; decided (readcheck.tsv, note `read`):
+  - **Misprints**, 2 (misprints.tsv): `025` `Μαντιανοὶ` (I 69; an iota for the upsilon,
+    against `Μαντύας` of `032`; it is also in the corrigenda, `014`) and `040` `Ὅ` (III
+    68; the relative with an acute for the grave).
+  - **Printed**, 1: `021` `συνήρης`, read in the image as the base has it.
+- **Searched, not flagged**: the infinitives with the iota subscript (`ἐᾷν`, `ὁρᾷν`,
+  `σιγᾷν` and others, 16) are the edition's spelling; one `σιωπᾶν` (`291`) is left for
+  its batch.
+- **The trial**: the pages had been compared twice (the retype and Tesseract), so a
+  reading for sense found few places, all of them breathings, accents or one letter.
+  The batches of 25 scans follow in the same way.
+- `convert_grc.py`: the report as before; only the two marked words changed in
+  `texts/grc`. `misprints.py`: 106 rows, 106 marks, 0 problems.
+
+## Step 3: read-through 01 (2026-11-12)
+
+Scans `041`–`065` (cantos III–VI, 25 pages), read by Claude (Opus 5.5) as the trial.
+
+- **Flagged**, 4 places; decided (readcheck.tsv, note `read`):
+  - **Misreadings**, 2: the five elision marks of `048` transcribed as the numeral sign
+    `ʹ` (`τʹ`, `ποτʹ`, `Ἀλλʹ` twice, `διʹ`), written `᾽`; `064` `Οἷδ᾽` for the printed
+    `Οἵδ᾽` (rough breathing and acute, as `αἵματ᾽` on the same page).
+  - **Misprint**, 1 (misprints.tsv): `057` an opening quote `“` for the continuation `„`
+    (V 77, the speech going on from the line before).
+  - **Printed**, 1: `060` `ὅ, τε` (V 137) with the comma, as `311` `ὅ, τε τρόπος`: the
+    edition's spelling.
+- **Not flagged**: `053` and `061` `Ἀεὶ`, printed with the iota subscript, are held
+  ("Open points" in PLAN.md). `Λαγκιλῶτος` (`059`) and `Λαγκελώτου` in the notes are left
+  for the notes' batches.
+- `convert_grc.py`: the report as before; only the decided places changed in `texts/grc`.
+  `misprints.py`: 107 rows, 107 marks, 0 problems.
+
+## Step 3: read-through 02 (2026-11-12)
+
+Scans `066`–`090` (cantos VI–X, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 11 places; 5 already decided in step 2 (the periods of `066` 3, 19 and
+  `078` 16, `066` `Αὐτός δ’·`, the argument of `089` without its period). The rest
+  decided (readcheck.tsv, note `read`):
+  - **Misreadings**, 3, all on `079`: the closing quote after `Ἅδῃ.` (VIII 75), missing
+    in the base; `᾽κεῖνο` written with a space after the mark; `Ὃς` (VIII 90), the `^` of
+    the roman rough breathing with grave. Step 2 had kept the base's `Ὅς` before the rule
+    was settled after retype 08 ("Settled readings"). A search of the text for an acute
+    monosyllable before a word found no other place: the rest stand before enclitics.
+  - **Misprints**, 2 (misprints.tsv): `075` `κεθεξῆς` for `καθεξῆς` (VIII 1); `086` an
+    opening quote `“` for the continuation `„` (IX 94), as on `057`.
+  - **Printed**, 1: the argument of `075` ends with a dash.
+- `convert_grc.py`: the report as before; only the decided places changed in `texts/grc`.
+  `misprints.py`: 109 rows, 109 marks, 0 problems.
+
+## Step 3: read-through 03 (2026-11-12)
+
+Scans `091`–`115` (cantos X–XIII, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 6 places, and two pages whose elision marks were other characters;
+  decided (readcheck.tsv, note `read`):
+  - **Misreadings**: `110` `ἐγώ ’ν` (XII 114), the aphaeresis mark transcribed as an
+    opening quote `‘`; `115` `Εἴμ’` (XIII 58), smooth breathing and acute, for `Εἶμ’`.
+    **The elision marks as other characters**: `094` (11, `ʼ` U+02BC) and `096` (3, ASCII
+    `'`), written `᾽`; a search of the Greek text found three more with the ASCII mark
+    (`112` `πράσιν'`, `120` `ἀφίγμεθ'`, `173` `δ'` twice), written so too. The running
+    heads `026` and `031` (`Α'`, `Β'`, not in `texts/grc`) are left.
+  - **Misprint**, 1 (misprints.tsv): `094` the opening quote after `εἶπε,` (X 100) not
+    printed, the speech going on; marked `{{τὰ|“τὰ}}`.
+  - **Printed**, 1: `093` `τί πότ’ ἐστιν` (X 81), the acute on the enclitic.
+- `convert_grc.py`: the report as before; only the decided places changed in `texts/grc`.
+  `misprints.py`: 110 rows, 110 marks, 0 problems.
+
+## Step 3: read-through 04 (2026-11-12)
+
+Scans `116`–`140` (cantos XIII–XVI, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 10 places; decided (readcheck.tsv, note `read`):
+  - **Misreadings**, 2: `130` one dash after the closing quote (XV 54), was `——`; `138`
+    `Ἢ ᾽κεῖθεν` (XVI 69), the space before the elision mark, not after it.
+  - **Misprint**, 1 (misprints.tsv): `126` an opening quote `“` for the continuation `„`
+    (XIV 119), as on `057` and `086`.
+  - **Printed**, 6: `122` `Ἔβαλε μ’` (XIV 54), no acute before the elided enclitic;
+    `125` `τοὖρος` (XIV 114), as `τοὖργον`; `131` `ψαυέσθω` (XV 74); `133` `Βρουνέτου`
+    (XV 101), one `τ` against `Βρουνέττος`; `133` `Τογισόνον` (XV 113); `137`
+    `Γιγδογγέρας` (XVI 38). The nested quote of `123` (XIV 58) follows the convention.
+- `convert_grc.py`: the report as before; only the decided places changed in `texts/grc`.
+  `misprints.py`: 111 rows, 111 marks, 0 problems.
+
+## Step 3: read-through 05 (2026-11-12)
+
+Scans `141`–`165` (cantos XVI–XIX, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 10 places; decided (readcheck.tsv, note `read`):
+  - **Misprint**, 1 (misprints.tsv): `153` a single closing quote `’` for the double `”`
+    (XVIII 51), the speech having opened with `“`.
+  - **Printed**, 8: `143` the argument without the period before its last dash; `146`
+    `συαίνης` (XVII 64); `149` `Ὅ,τι` (XVII 124) without the space of `Ὅ, τι`; `157`
+    `Εἶς` (XVIII 122); `158` the quotes of the dialogue (XVIII 133–136); `160`
+    `ὑπέλαβεν.` (XIX 34), a period before the speech; `163` `“ ἀκολούθει μοι ”` (XIX
+    93), double quotes inside the speech.
+  - `157` `σέ` (XVIII 123), the accented pronoun, was already decided in Step 2.
+- `convert_grc.py`: the report as before; only the decided places changed in `texts/grc`.
+  `misprints.py`: 112 rows, 112 marks, 0 problems.
+
+## Step 3: read-through 06 (2026-11-12)
+
+Scans `166`–`190` (cantos XX–XXIII, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 15 places; decided (readcheck.tsv, note `read`):
+  - **Misreading**, 1: `173` `τῇ ᾽μῇ` (XXI 2), the mark transcribed as ASCII `'`. A
+    search of the pages found no other ASCII mark in the Greek.
+  - **Misprints**, 2 (misprints.tsv): `175` `συγκαμπτος` without an accent (XXI 46),
+    marked `{{συγκαμπτος|σύγκαμπτος}}`; `179` the closing quote of Malacoda's speech not
+    printed (XXI 117), marked `{{βλάβην.|βλάβην.”}}`.
+  - **Printed**, 8: `168` the speech going on after the nested quote with `“` (XX 35), as
+    `158`; `175` `πλέεις` (XXI 51); `176` `“Παρόντ’` with a capital (XXI 59); `179`
+    `Γραφικάνης` and `182` `Γραφικάτης` (XXI 122, XXII 34); `180` `ἀλφαστοβράστους` (XXI
+    135); `185` `Κυρὸς` (XXII 88), against `Κὺρ` on `129`, `133`; `185` `Ἀναπαύδητοι`
+    (XXII 90).
+  - Decided in Step 2 already: `180` `ἐμέ δ᾽` (XXI 133); `Καριάττος` (`179`) against
+    `Καριάτος` (`184`).
+- `convert_grc.py`: the report as before; only the decided places changed in `texts/grc`.
+  `misprints.py`: 114 rows, 114 marks, 0 problems.
+
+## Step 3: read-through 07 (2026-11-12)
+
+Scans `191`–`215` (cantos XXIII–XXVI, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 3 places; decided (readcheck.tsv, note `read`):
+  - **Misprint**, 1 (misprints.tsv): `194` the closing quote of Dante's speech not
+    printed (XXIII 99), marked `{{λαμπροφορίας;|λαμπροφορίας;”}}`.
+  - **Printed**, 2: `195` `Φρα—Καταλάνος` (XXIII 114) with a dash, against
+    `Φρα-Γομίτας` (`185`); `211` `συνεκροφεῖ` (XXV 132).
+- `convert_grc.py`: the report as before; only the decided places changed in `texts/grc`.
+  `misprints.py`: 115 rows, 115 marks, 0 problems.
+
+## Step 3: read-through 08 (2026-11-12)
+
+Scans `216`–`240` (cantos XXVI–XXIX, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 10 places; decided (readcheck.tsv, note `read`):
+  - **Misreading**, 1: `232` `σύ γ᾽` (XXVIII 56), the mark transcribed as `΄` (U+0384).
+    A search of the pages found no other such mark in the Greek.
+  - **Misprint**, 1 (misprints.tsv): `236` the closing quote of Bertran's speech at the
+    end of the canto not printed (XXVIII 142), marked `{{δίκην.|δίκην.”}}`.
+  - **Printed**, 6: the quotes of `222` (XXVII 21), `227` `’”` (XXVII 129), closed
+    against the convention's order, and `234` (XXVIII 107); `236` `Βρονίου` (XXVIII 134)
+    against `Βόρνου` in the argument (`229`); `237` the argument without the period
+    before the dash, as `143`.
+  - Held: `231` `εἷς` (XXVIII 43), an open point in PLAN.md; at twelve times the hook
+    under the circumflex looks `3`-shaped, the smooth breathing's form, against the
+    reading of Step 2.
+  - Decided in Step 2 already: the nested quotes of `218` (XXVI 112–120).
+- `convert_grc.py`: the report as before; only the decided places changed in `texts/grc`.
+  `misprints.py`: 116 rows, 116 marks, 0 problems.
+
+## Step 3: read-through 09 (2026-11-12)
+
+Scans `241`–`265` (cantos XXIX–XXXII, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 12 places; decided (readcheck.tsv, note `read`):
+  - **Misreading**, 5: `246` `κύων·` (XXX 20), the upper dot dropped; `248` `„` for `“`
+    twice (XXX 65, 70), the speech going on; `251` `“` for `„` (XXX 120), the speech
+    resuming after the narrator's line; `259` `λάβω·` (XXXI 134), the dot that Step 2
+    had judged not printed: at twelve times it shows, set a little low (the row amended).
+  - **Printed**, 3: `246` `ἀλλ’ οὔτ’ ἀνθρώπους` (XXX 23); `249` `ταὐταδέλφου` (XXX 77);
+    `255` `Μόντος—Ῥεγιῶνος` (XXXI 41).
+  - Decided in Step 2 already: `248` `χἁπαλοὺς` (XXX 66), `257` `ἐμέ.` (XXXI 76),
+    `265` `{{ἶπον|Εἶπον}}` (XXXII 86).
+  - Left for Step 4: `246` `Καπόκκιον` (XXX 28) against `Καποκίου` (`244`, XXIX 136) and
+    the notes; the corrigenda list it.
+  - Not flagged: the space before `;` and `!` and after `“`, as printed elsewhere.
+- `texts/scripts/convert_grc.py`: `265` came out as `ΕΕἶπον` since the retypes 13–15
+  commit, the mark `{{ἶπον|Εἶπον}}` and the script's `MISSING_TYPE` both supplying the
+  capital. `MISSING_TYPE` removed; texts/PLAN.md updated.
+- `convert_grc.py`: the report as before. `misprints.py`: 116 rows, 116 marks, 0 problems.
+
+## Step 3: read-through 10 (2026-11-12)
+
+Scans `266`–`285` (cantos XXXII–XXXIV, 20 pages, to the end of the poem), read by
+Claude (Opus 5.5).
+
+- **Flagged**, 9 places; decided (readcheck.tsv, note `read`):
+  - **Misreading**, 1: `282` `ἐξελθών τινος` (XXXIV 85), the acute before the enclitic.
+  - **Misprint**, 4 (misprints.tsv): on `274`, the closing quote of Dante's question not
+    printed (XXXIII 105, `{{κάτω;|κάτω;”}}`), and `“` for `„` on three continuation
+    lines of Virgil's and Alberigo's speeches (XXXIII 107, 108, 111), marked `{{“|„}}`
+    as `126`.
+  - **Printed**, 1: `267` the line opening with the nested quote `‘“Εἶδον,”’`
+    (XXXII 116), without the outer `„`.
+  - Decided in Step 2 already: `272` the eleven syllables of XXXIII 52 (texts/PLAN.md);
+    `276` `ἐξαπατᾷν με` without punctuation (XXXIII 139).
+  - `231` `εἷς`: two more `τίς εἶς` "who thou art" with the same hook (`269` 14,
+    `275` 6), added to the open point in PLAN.md.
+- `convert_grc.py`: the report as before. `misprints.py`: 120 rows, 120 marks, 0 problems.
+
+## Step 3: read-through 11 (2026-11-12)
+
+Scans `287`–`313` (the notes to cantos I–XV, 27 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 18 places; decided (readcheck.tsv, note `read`):
+  - **Misreading**, 1: `291` `σιωπᾷν` (note I 60), the iota subscript, as the other
+    infinitives in `-ᾷν`; the place held since the trial.
+  - **Misprint**, 2 (misprints.tsv): `300` `{{Τοὐτ᾿|Τοῦτ᾿}}` (note VII 30), a smooth
+    breathing for the circumflex; `301` the closing quote of the Musaeus quotation not
+    printed (note VIII 45).
+  - **Printed**, 15: among them `290` the guillemet `«` never closed (note I 60); `295`
+    `Ὠδ.` without the iota subscript; `296` `Λαγκελῶτος`, `Λαγκελώτου` in the note against
+    the verse's `Λαγκιλῶτος` (`059`), both as printed; `309` `ΙΙ.`; `311` `ὅ, τε`,
+    `Fisole`; `312` `ὁμὲν`; and missing or odd punctuation (`290`, `307`, `308`, `310`).
+  - Decided in Step 2 already: `303` `λίθους· Προσκαλεῖται` and `στίχ·`, `304` `Ἰωήλ`,
+    `307` `10·`, `310` `Θανάτου`.
+- `convert_grc.py`: the report as before. `misprints.py`: 122 rows, 122 marks, 0 problems.
+
+## Step 3: read-through 12 (2026-11-12)
+
+Scans `314`–`338` (the notes to cantos XV–XXVIII, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 8 places, all **printed** (readcheck.tsv, note `read`): punctuation missing
+  or odd (`318` no period before `Δρύφρακτα`, `320` `1579·`, `331` `11 23, 24`, `335`
+  `ἐξόριστος, Τοῦτο`, `337` `v 129`, `338` `ἐκδικήσεως· Ὁ`), `332` `Alternos que` (as
+  `300` `Stygiam que`), and `337` `Mahom` in Littré's French, the old form in spaced
+  italics.
+- Decided in Step 2 already: `328` `Καλανδρίνου·`.
+- No change to the pages. `misprints.py`: 122 rows, 122 marks, 0 problems.
+
+## Step 3: read-through 13 (2026-11-12)
+
+Scans `339`–`351` (the notes to cantos XXVIII–XXXIV, 13 pages) and `005`–`013` (the
+preface and the table of contents, 8 pages), read by Claude (Opus 5.5). The last batch:
+the read-through is complete.
+
+- **Flagged**, 6 places; decided (readcheck.tsv, note `read`):
+  - **Misreading**, 1: `005` `κρῖ-` (`κρῖναι`, the preface), the circumflex.
+  - **Misprint**, 1 (misprints.tsv): `350` the closing quote of the Ezekiel quotation not
+    printed (note XXXIV 114), marked `{{χώρας.|χώρας.”}}`.
+  - **Printed**, 4: `010` `Διτός πόλις`; `343` `κρύφθητι` without a period before
+    `Ὁ στίχος`; `348` `Λαγοδώρου` against `Λογοδώρου` (`326`); `349` `σημ` without a period.
+  - Decided in Step 2 already: `349` `ᾨδῆς`, `350` `ᾍδου· Ἴσως`.
+- `convert_grc.py`: the report as before. `misprints.py`: 123 rows, 123 marks, 0 problems.
