@@ -8,7 +8,7 @@ chevalier.
 je que vous.
 “Lors tous trois se retirent plus à part et font semblant
 de conseiller. La reine voit que le chevalier n'en ose
-plus faire, si le prend par le menton, et la baisa devant
+plus faire, si le prend par le menton, et {{la baisa|1|le baisa}} devant
 Galléhaut assez longuement.”
 
 Εἰς ᾨδὴν ΣΤ΄.

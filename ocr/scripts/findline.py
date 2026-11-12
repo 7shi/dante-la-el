@@ -45,11 +45,12 @@ def words(page):
     if not f.exists():
         cache[page] = None
         return None
-    lines = f.read_text(encoding="utf-8").split("\n")
+    # the printed side of a misprint mark `{{printed|fixed}}` or a correction `{{printed|LIST|fixed}}`
+    # (ocr/PLAN.md, "Decisions"), which may span lines; no italic marks
+    text = re.sub(r"\{\{([^{}|]*)\|(?:[0-9]+(?:&[0-9]+)*\|)?[^{}|]*\}\}", r"\1", f.read_text(encoding="utf-8"))
+    lines = text.split("\n")
     out, carry = [], None
     for n, line in enumerate(lines, 1):
-        # the printed side of a misprint mark (ocr/la/PLAN.md, "Misprint marks"), no italic marks
-        line = re.sub(r"\{\{([^{}|]*)\|[^{}|]*\}\}", r"\1", line)
         ws = re.sub(r"(?<!\d)\*", "", line).split()
         if not ws:
             continue

@@ -13,11 +13,13 @@ page	line	form	decision	note
 021	12	συνήρης	printed	read; flagged for the sense (a rarer word than `συνηρεφής`, which the twelve syllables would not take); printed so
 021	13	Οὗπερ	misread	cmp A; was `Οὔπερ`
 021	16	Β	misread	cmp B; the signature mark at the foot, missing in the base
+035	18	ᾐσθάνθην	misread	corrigenda (015, II 130); image check; marked `{{ᾐσθάνθην|2|ᾐσθόμην}}`; was `ἠσθάνθην`
 038	3	ἐᾷν	misread	cmp A; was `ἐᾶν`
 038	9	θαῤῥεῖν	misread	cmp A; was `θαρρεῖν`
 038	11	μυρίοι	misread	cmp B; was `μύριοι`
 038	15	ὀλολυγμοί	misread	cmp A; was `ὁλολυγμοί`
 038	16	βραγχαὶ	misread	cmp A; was `βραχχαὶ`
+049	18	Ὁβίδιος	misread	corrigenda (014 and 015, IV 90); image check; marked `{{Ὁβίδιος|1&2|Ὀβίδιος}}`; was `Ὀβίδιος`
 053	17	ᾈεὶ	printed	image check; was `Ἀεὶ`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
 061	14	ᾈεὶ	printed	image check; was `Ἀεὶ`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
 071	3	ᾀεὶ	printed	image check; was `ἀεὶ`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
@@ -27,6 +29,9 @@ page	line	form	decision	note
 138	9	ᾈεὶ	printed	image check; was `Ἀεὶ`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
 157	17	ᾀείποτ’	printed	image check; was `ἀείποτ’`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
 161	8	ᾀεί	printed	image check; was `ἀεί`; the iota subscript printed, the base and the retypes agreeing without it; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
+211	8	τοῦδ,	misread	corrigenda (017, XXV 120); image check; marked `{{τοῦδ,|2|τοῦδ᾽,}}`; was `τοῦδ’,`
+258	18	ἀλύσεσιν	misread	corrigenda (017, XXXI 111); image check; marked `{{ἀλύσεσιν|2|ἁλύσεσιν}}`; was `ἁλύσεσιν`
+274	12	νενεκρωμένω	misread	corrigenda (017, XXXIII 101); image check; marked `{{νενεκρωμένω|2|νενεκρωμένῳ}}`; was `νενεκρωμένῳ`
 292	6	Λατίνοις	misread	cmp A; was `Λατίνους`
 292	13	. . . .	misread	cmp A; was `...`; four spaced dots printed
 292	15	Βεάτριξ	misread	cmp A; was `Βεατρίζ`
@@ -84,6 +89,7 @@ page	line	form	decision	note
 016	29	ὀοθῶς	misread	cmp B; the ἀντί. column quotes the misprint of the verse (157 23); γραπτέον. `ὀρθῶς`; was `ὀρθῶς` / `ὀρθὼς`
 016	31	κατά τιν᾽	misread	cmp B; was `κατὰ τίν᾽`
 017	5	τον Ἀπεννῖνον	misprint	cmp B; marked `{{τον|τὸν}}`; was `τοῦ Ἀπεννίνου`; the retype's `τὸν Ἀπέννῖνον`
+017	5	ΤΑ᾽πέννινον	misread	image check (the user); upright capitals, the coronis printed after the `Α`; was `ΤἈπέννινον`
 017	7	χλανῖσί	misread	cmp B; lower case, `χλανίσι` acute in γραπτέον.; was `Χλανῖσί` / `Χλανῖσι`
 017	8	δέ,	misread	cmp B; was `δὲ,`
 017	11	τοῦδ,	misread	cmp B; no elision mark printed in ἀντί.; was `τοῦδὲ,`
@@ -118,7 +124,7 @@ page	line	form	decision	note
 024	4	κάτισχνος	misread	cmp A; was `κάτισχος`
 024	14	ἒνθ	misprint	cmp B; marked `{{ἒνθ|ἔνθ᾽}}`
 025	3	ἄμφω·	misread	cmp B; was `ἄμφω.`
-025	3	Μαντιανοὶ	misprint	read; marked `{{Μαντιανοὶ|Μαντυανοὶ}}`, an iota for the upsilon (`Μαντύας` 032 5)
+025	3	Μαντιανοὶ	misprint	read; marked `{{Μαντιανοὶ|1&2|Μαντυανοὶ}}`, an iota for the upsilon (`Μαντύας` 032 5); a corrigenda mark (corrigenda.tsv)
 025	11	θυμῆρες	misread	cmp A; was `θυμήρες`
 025	13	—„Σὺ	printed	cmp B; the same in base and retype (a fault of the alignment)
 025	21	προσενεγκόν	misread	cmp A; was `προενεγκόν`
@@ -150,7 +156,7 @@ page	line	form	decision	note
 032	17	Βεάτριξ	misread	cmp A; also `ἐγώ`; was `Βεατρίξ`, `ἐγὼ`
 032	20	τοὐμοῦ	misread	cmp A; was `τοῦμοῦ`
 038	18	ᾈεὶ	printed	retype 01; the edition's spelling `ᾀεί`, printed so in all 22 places (PLAN.md, "Settled readings")
-157	23	ὀοθῶς	misprint	016 29; marked `{{ὀοθῶς|ὀρθῶς}}`, listed in the corrigenda
+157	23	ὀοθῶς	misprint	016 29; marked `{{ὀοθῶς|2|ὀρθῶς}}`, listed in the corrigenda; a corrigenda mark (corrigenda.tsv)
 033	1	ΩΔΗ Β΄. 13	misread	cmp B; the period of the running head, missing in the base
 033	10	Ἀλλὰ λέγε	printed	cmp B; a low mark between the words, a spacing quad's, not a period; the retype's `Ἀλλὰ.`
 033	17	αὐτῷ	misread	cmp A; was `αὑτῷ`; a smooth breathing in the print
@@ -416,7 +422,7 @@ page	line	form	decision	note
 101	11	εἴσ	misread	cmp A; was `εἶσ`
 101	20	Ἧττον	misread	cmp A; was `Ἤττον`; rough breathing and circumflex
 102	3	ἧττον	misread	cmp A; was `ἦττον`
-102	5	φὴς	misprint	cmp B; marked `{{φὴς|φῂς}}`, listed in the corrigenda (014, `ΙΑ’ 95. φὴς` / `φῂς`)
+102	5	φὴς	misprint	cmp B; marked `{{φὴς|1&2|φῂς}}`, listed in the corrigenda (014, `ΙΑ’ 95. φὴς` / `φῂς`); a corrigenda mark (corrigenda.tsv)
 102	5	τοκοληψίαν	misread	cmp A/B; was `τοκολῃψίαν`
 102	14	Ὀπαδεῖν	misread	cmp B; was `Ὁπαδεῖν`; smooth breathing
 102	22	ἕπου	misread	cmp B; was `ἔπου`; rough breathing and acute
@@ -1157,7 +1163,7 @@ page	line	form	decision	note
 265	9	Μονταπέρτου	misread	cmp A; was `Μουταπέρτου`
 265	10	Καγώ	misprint	cmp B; marked `{{Καγώ|Κἀγώ}}`, the coronis did not print; the base had `Κἀγώ`
 265	11	Ἵν	misread	cmp B; was `Ἴν`; rough with acute, as 264 15
-265	14	ἶπον	misprint	marked `{{ἶπον|Εἶπον}}`, not a cmp place (both readings agree): the capital did not print; the base had `ἶπον`
+265	14	ἶπον	misprint	marked `{{ἶπον|2|Εἶπον}}`, not a cmp place (both readings agree): the capital did not print; the base had `ἶπον`; a corrigenda mark (corrigenda.tsv)
 265	18	ἐπεῖπε	misread	cmp A; was `ἔπειπε`
 266	15	ἔκραξε	misread	cmp B; was `ἔκραζε`
 267	5	‘“Εἶδον	printed	read; the line opens with the nested quote, without the `„` of the speech going on, printed so
@@ -1321,7 +1327,7 @@ page	line	form	decision	note
 303	18	ἐκδικήσῃ	misread	cmp A; was `ἐκδίκησῃ`
 303	18	·	misread	cmp B; was `.`
 303	20	ἁρπαγὴν	misread	cmp A; was `ἀρπαγὴν`
-303	23	ἀλυσίδετον	misprint	cmp B; marked `{{ἀλυσίδετον|ἁλυσίδετον}}`, the smooth breathing printed, beside the rough of `ἁρπαγὴν` (303 20); the base had `ἀλυσίδετον`
+303	23	ἀλυσίδετον	misprint	cmp B; marked `{{ἀλυσίδετον|2|ἁλυσίδετον}}`, the smooth breathing printed, beside the rough of `ἁρπαγὴν` (303 20); the base had `ἀλυσίδετον`; a corrigenda mark (corrigenda.tsv)
 303	25	·	misread	cmp B; was `.`
 303	33	·	misread	cmp B; was `:`
 304	4	καί	misread	cmp A; was `καὶ`
@@ -1356,7 +1362,7 @@ page	line	form	decision	note
 308	21	σημείου	misread	cmp A; was `σημείῳ`
 308	22	καιρός	misread	cmp B; was `καιρὸς`
 308	24	Ἁμάξης	misread	cmp B; was `Ἀμάξης`
-309	7	ΙΙ.	printed	read; the book in roman numerals, printed so
+309	7	ΙΙ.	printed	read; the book in roman numerals, printed so; 018 corrects it to `Β΄`, marked `{{ΙΙ.|2|Β΄}}`
 309	23	ὀδύναις	misprint	cmp A; marked `{{ὀδύναις|ὀδύναις.}}`, no period printed at the end of the note; the base had `ὀδύναις.`
 309	25	Φεῤῥαῖος	misread	cmp A; was `Φερραῖος`
 309	29	Παταυΐου	misread	cmp A; was `Παταυίου`
@@ -1446,8 +1452,8 @@ page	line	form	decision	note
 321	14	πόλλ᾽	misread	cmp A; was `πολλ᾽`
 321	17	διῴκησε	misread	cmp A; was `διώκησε`
 321	20	Ὀρσίνων	misread	cmp A; was `Ὀρσινῶν`
-321	26	1203	misprint	marked `{{1203|1303}}`, seen in the retype; the death of Boniface VIII, 1303 (`ἄχρι τοῦ 1303` above); the base had it as printed
-321	28	1214	misprint	marked `{{1214|1314}}`, seen in the retype; the death of Clement V, 1314 (the eleven years from 1303); the base had it as printed
+321	26	1203	misprint	marked `{{1203|2|1303}}`, seen in the retype; the death of Boniface VIII, 1303 (`ἄχρι τοῦ 1303` above); the base had it as printed; a corrigenda mark (corrigenda.tsv)
+321	28	1214	misprint	marked `{{1214|2|1314}}`, seen in the retype; the death of Clement V, 1314 (the eleven years from 1303); the base had it as printed; a corrigenda mark (corrigenda.tsv)
 322	30	ἰδίᾳ	misread	cmp A; was `ἰδία`
 323	1	ᾨδην	misprint	cmp B; marked `{{ᾨδην|ᾨδὴν}}`, the running head; no accent printed on the `η`; the base had `ᾨδὴν`
 323	5	Ἀρόντας	misread	cmp B; was `Ἀροῦντας`
@@ -1493,7 +1499,7 @@ page	line	form	decision	note
 332	22	αἰνίττεταί	misread	cmp A; was `αἰνίττεται`; the enclitic `πως` follows
 332	31	πέμπου	misprint	cmp B; marked `{{πέμπου|πέμπτου}}`, the `τ` not printed; the base had `πέμπτου`
 333	8	Γουΐδος	misread	cmp A; was `Γουῖδος`
-333	13	δαταγὴν	misprint	cmp B; marked `{{δαταγὴν|διαταγὴν}}`, the `ι` not printed; the base had it as printed
+333	13	δαταγὴν	misprint	cmp B; marked `{{δαταγὴν|2|διαταγὴν}}`, the `ι` not printed; the base had it as printed; a corrigenda mark (corrigenda.tsv)
 333	17	Μοντεφέλτρον	misread	cmp A; was `Μοντεφέλτρου`
 333	21	Φικόκλης	misread	cmp A; was `Φικκόκλης`
 333	25	Γουΐδος	misread	cmp A; was `Γουῖδος`

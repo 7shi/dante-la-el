@@ -118,6 +118,26 @@ Every decision is a row of `ocr/DIR/readcheck.tsv` (`page line form decision not
 edition's settled readings, as they are found, go into `ocr/DIR/PLAN.md` and are applied,
 not asked again.
 
+### Corrigenda
+
+The edition's own corrigenda (lists of misprints, and of the author's revisions) are
+applied to the text when the user decides so for the text (`grc`, 2026-11-13); the pages
+stay as printed, and the list itself is not converted:
+
+- Each applied entry is marked in its page `{{printed|LIST|fixed}}`: LIST is the list that
+  gives it, numbered in the order of the book (`1`, `2`; `1&2` for an entry of both). The
+  convert script writes the fixed side, as for a misprint mark; a misprint the corrigenda
+  list is marked so, not `{{printed|fixed}}`.
+- Every entry, applied or not, is a row of `ocr/DIR/corrigenda.tsv` (`list entry page line
+  printed fixed applied note`; `entry` the place as the list gives it, `I 69`, `p. 277, l.
+  9`; page and line empty and `applied` `no` for an entry not applied, with the reason in
+  the note). `misprints.py` checks it against the marks, as `misprints.tsv`.
+- A mark may span lines where the correction does (a note replaced, a word divided at the
+  line end): it stays inside one page, the printed side keeps the lines and the hyphen as
+  printed, the fixed side has no line break. Its line is the first; a line break is `\n`
+  in the TSV. Within a verse line, a mark stays in the line. `txtfix.py` writes one line,
+  so such a mark is written by hand.
+
 ## Read-through
 
 One last reading of the whole of `texts/DIR` for sense, for misreadings and misprints

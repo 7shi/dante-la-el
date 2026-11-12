@@ -30,7 +30,9 @@ committed together. Step 2 is done with them.
 itself, without la-el-agy (its rate limit not waited for). The trial (`021`–`040`) and batches 01–13 (`041`–`351`, `005`–`013`) done: the read-through is complete;
 committed. **The held decisions and the open points** decided by Claude's
 recommendation (the user, 2026-11-13): `ᾀεί` and `θλίψις` are the edition's spelling,
-`231` 10 is `εἶς`, `Ἢν` stays ("Settled readings"). Next: the corrigenda (step 4).
+`231` 10 is `εἶς`, `Ἢν` stays ("Settled readings"). **Step 4, the corrigenda** (the
+user, 2026-11-13): applied to `texts/grc` by marks in the pages, the lists not converted
+("The corrigenda"). Next: the close (step 5).
 
 ## The work ahead
 
@@ -63,7 +65,8 @@ recommendation (the user, 2026-11-13): `ᾀεί` and `θλίψις` are the edit
    read-through unless they set a range).
 2. **The held decisions** (`ᾀεὶ`, `θλίψις`) after the read-through (done, with the open
    points `Ἢν` and `231` `εἷς`: "Settled readings").
-3. **The corrigenda** with the user (step 4), then **the close** (step 5).
+3. **The corrigenda** with the user (step 4, done: "The corrigenda"), then **the close**
+   (step 5).
 
 What the batches taught about the deciding (retype 06):
 
@@ -109,13 +112,44 @@ Open points, for the user:
   common ones and to change accents and breathings (texts/PLAN.md; README.md, "Observations
   on the OCR").
 
-## The corrigenda later
+## The corrigenda
 
 The book prints two lists of corrections: `014` (misprints) and `015`–`018` (misprints and
-the translator's revisions of words and lines). The check first follows the print, as for
-`ocr/en`: a reading listed in the corrigenda is decided like any other place, as printed.
-How the corrigenda are used (marks, revisions) is decided with the user after the
-read-through (asked by the user, 2026-11-10).
+the translator's revisions of words, lines, and the end of a note). The check followed the
+print, as for `ocr/en`: a reading listed in the corrigenda was decided like any other
+place, as printed. After the read-through the user decided (2026-11-13) that `texts/grc`
+follows the corrigenda and does not contain them, the pages staying as printed
+(ocr/PLAN.md, "Corrigenda"):
+
+- Every entry is marked in its page `{{printed|LIST|fixed}}`, LIST `1` (`014`), `2`
+  (`015`–`018`) or `1&2`; every entry, applied or not, is a row of
+  [corrigenda.tsv](corrigenda.tsv) (94: 92 applied, 2 not). The 8 misprint marks of places
+  the corrigenda list became such marks, their rows removed from misprints.tsv.
+- Where the lists differ, the second is followed: `ΙΕ΄` 39 (`014` `μὴ δυναμένη`, `015`
+  another order of the line). An entry of the first alone is applied unless it conflicts.
+  `326` 20 `Μαμφρέδων` → `Μομφρέδων` is applied (the user, 2026-11-13): Tebaldello, whose
+  note gives `Tebaldello de’ Monfredi`; `348` 5 keeps `Μαμφρέδων` with `Alberigo de’
+  Manfredi`, the two forms of the notes' parentheses, and the king (`316` 5, `018`
+  `Μαμφρέδης`) is another name. `314` 4 `(πράσινον)`: the `(` is faint in this copy but
+  printed, and in the page; not applied.
+- The place is decided by the phrase: the line numbers of the list are wrong for 7 verse
+  entries (`Γ΄` 7 for 6, `ΙΖ΄` 16 for 18, `ΚΕ΄` 13 for 33, `ΚΖ΄` 122 for 121, `ΛΑ΄` 80 for
+  88, `ΛΑ΄` 131 for 132, `ΛΓ΄` 135 for 139; checked in the image of the list), and of the
+  notes for some (`327` 16 and 21 are on `328`). The quotations differ at times from the
+  print (`θήρας` for `θῆρας`, `Καθάτις` in `014`); the mark has the printed words.
+- Five places the base had in the corrected form were read in the image and are as printed,
+  `misread` rows in readcheck.tsv: `035` 18 `ᾐσθάνθην`, `049` 18 `Ὁβίδιος`, `211` 8
+  `τοῦδ,`, `258` 18 `ἀλύσεσιν`, `274` 12 `νενεκρωμένω`.
+- The fixed side follows the page's apostrophe (`’` or `᾽`); `ΤΑ᾽πέννινον` (`Κ΄` 64)
+  is written as `017` prints it, upright capitals with the coronis (U+1FBD) after the `Α`
+  (the user, 2026-11-13), though the verse writes a crasis after a capital `Τἀρχαῖον`
+  (`076` 18), `Κἀγὼ`.
+- `284` 12, the end of the note to IX 133, is one mark over the two printed lines
+  (ocr/PLAN.md, "Corrigenda").
+- Checks: `misprints.py` (corrigenda.tsv against the marks), `convert_grc.py` (its report
+  unchanged), and the syllable count: the five verse lines of the corrigenda that did not
+  have twelve (`ΙΒ΄` 15, `ΚΔ΄` 128 and 133, `Λ΄` 137, `ΛΓ΄` 52) have twelve, and no corrected
+  line has another count.
 
 ## The readings to compare
 
@@ -154,7 +188,7 @@ read-through (asked by the user, 2026-11-10).
    compared with the baseline and `misprints.py ocr/grc` run.
 3. **Read-through** (ocr/PLAN.md, "Read-through") over `texts/grc`: a trial of about 20
    pages, then batches of 25 scans; decisions as in step 2 (note `read`).
-4. **The corrigenda**, with the user (above).
+4. **The corrigenda**, with the user (above; done).
 5. **Close**: the state here, DONE.md, a SUMMARY.md; texts/PLAN.md "Status" and the README
    of `ocr/grc` (the check in "Credits"); commits, `ocr/grc` and `texts/grc` apart, when the
    user asks.

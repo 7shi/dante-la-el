@@ -892,3 +892,36 @@ Decided by Claude's recommendation (the user, 2026-11-13); PLAN.md "Settled read
 - misprints.tsv: 17 rows removed; readcheck.tsv: the 17 rows changed to `printed`, nine
   added, the notes on `190`, `231`, `232` changed.
 - `convert_grc.py`: the report as before. `misprints.py`: 106 rows, 106 marks, 0 problems.
+
+## Step 4: the corrigenda (2026-11-13)
+
+Decided with the user: `texts/grc` follows the two corrigenda and does not contain them;
+`ocr/grc` stays as printed (PLAN.md "The corrigenda"; ocr/PLAN.md "Corrigenda").
+
+- **The mark** `{{printed|LIST|fixed}}` (LIST `1`, `2`, `1&2`), taught to the shared
+  scripts: `misprints.py` reads the pages whole (a mark may span lines, `\n` in the TSV)
+  and checks `corrigenda.tsv`; `cmpread.py` and `findline.py` take the printed side over
+  the whole page; `convert_grc.py`, `convert_en.py` and `convert_la.py` write the fixed
+  side. Before the marks, the output of `texts/la`, `texts/en` and `texts/grc` and of
+  `cmpread.py` (retypes 03 and 14) was unchanged, and `misprints.py` as before on every
+  text.
+- **corrigenda.tsv**: 94 rows, 92 applied (one of them over two lines, `304` 14–15, the
+  end of the note to IX 133), 2 not (`014` `ΙΕ΄` 39; `018` `314` 4). `014` `326` 20
+  `Μαμφρέδων` → `Μομφρέδων` (Tebaldello, `de’ Monfredi` in the note), first held for
+  `348` 5 `Μαμφρέδων` (Alberigo, `de’ Manfredi`), is applied (the user). The 8 misprint
+  marks the corrigenda list (`025` 3, `102` 5, `157` 23, `265` 14, `303` 23, `321` 26 and
+  28, `333` 13) changed to corrigenda marks, their rows removed from misprints.tsv.
+- **Read in the image**: the line numbers of the list where the phrase stands elsewhere (7,
+  as printed in the list), and five places the base had in the corrected form, now as
+  printed (`035` 18, `049` 18, `211` 8, `258` 18, `274` 12; readcheck.tsv `misread`).
+  readcheck.tsv: five rows added, the notes on the eight converted marks and on `309` 7
+  changed. `Κ΄` 64 `ΤΑ᾽πέννινον` is written as the list prints it (the user), in the mark
+  and on `017` 5 (was `ΤἈπέννινον`; a row added).
+- **texts/grc**: `004-corrigenda.md` and `005-corrigenda-extended.md` no longer written
+  (`FRONT`, and the code for their tables and the signature mark of `015`, removed); the
+  cantos are now `004`–`037` and the notes `038`. README.md and texts/PLAN.md changed to
+  match ("The corrigenda").
+- `convert_grc.py`: the report as before. `misprints.py`: 98 rows, 98 marks; corrigenda.tsv
+  94 rows, 92 applied, 92 marks; 0 problems. Syllables: 5 of the 8 lines not of twelve
+  now have twelve (`ΙΒ΄` 15, `ΚΔ΄` 128, 133, `Λ΄` 137, `ΛΓ΄` 52); no corrected line has
+  another count.

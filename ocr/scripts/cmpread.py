@@ -37,7 +37,9 @@ ap.add_argument("pages", nargs="*", help="pages to compare (default: all of RETY
 a = ap.parse_args()
 tess_dir = a.tess or a.dir / "tesseract"
 
-MARK = re.compile(r"\{\{([^{}|]*)\|[^{}|]*\}\}")
+# a misprint mark `{{printed|fixed}}` or a correction `{{printed|LIST|fixed}}` (ocr/PLAN.md,
+# "Decisions"): the printed side; a mark may span lines
+MARK = re.compile(r"\{\{([^{}|]*)\|(?:[0-9]+(?:&[0-9]+)*\|)?[^{}|]*\}\}")
 SUPER = re.compile(r"[¹²³⁴⁵⁶⁷⁸⁹⁰]+")
 TOKEN = re.compile(r"\w+|-|[^\w\s]")
 QUOTES = str.maketrans({"’": "'", "‘": "'", "“": '"', "”": '"', "´": "'", "`": "'",
@@ -91,8 +93,9 @@ def align(x, y):
 
 
 def compare(page):
-    base_lines = (a.dir / f"{page}.txt").read_text(encoding="utf-8").split("\n")
-    base = tokens(base_lines)
+    base_text = (a.dir / f"{page}.txt").read_text(encoding="utf-8")
+    base_lines = base_text.split("\n")
+    base = tokens(MARK.sub(r"\1", base_text).split("\n"))
     ret = [t for t, _ in tokens((a.retype / f"{page}.txt").read_text(encoding="utf-8").split("\n"))]
     tess = tess_tokens(page)
     bk = [t for t, _ in base]
