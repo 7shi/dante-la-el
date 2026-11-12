@@ -1,0 +1,10 @@
+page	line	form	decision	note
+024	47	117)	misprint	cmp B; marked `{{117)|117).}}`; the base had `117).`
+025	1	FELTRO	misread	cmp C; the map rewritten as printed, the names line by line: the base had expanded `R.` to `River` (`R. Piave`, `R. Arno`), written the capitals in normal case (`VERONA`, `MARSEILLES`, `FLORENCE`, `MEDITERRANEAN SEA`, `S. AGATA FELTRIA`, `MACERATA FELTRIA`), made `S. MARINO` / `MONTE FELTRO` one `Monte San Marino`, added `River Ombrone` (not on the map) and left out `R. Adige` and `R. Reno`
+249	1	HOUSE OF ESTE.	misread	cmp; was `HOUSE OF ESTE`; the period printed (the table read rotated)
+249	3	Obizzo II.,	misread	cmp B; was `Obizzo II,`; the period printed; `OBIZZO` in small capitals, the base's case kept
+249	8	Azzo VIII.,	misread	cmp B; was `Azzo VIII,`; the period printed
+249	19	Francesco (nat.).	misread	cmp; was `Francesco (nat.)`; the period printed
+403	4	The	printed	cmp B; `THE` in small capitals after the drop capital; the base's case kept (PLAN.md, "Settled readings")
+403	16	10	misprint	cmp A; marked `{{10|10.}}`; the base had `10.`
+403	40	edited	misread	cmp A; was `edited,`; no comma printed
