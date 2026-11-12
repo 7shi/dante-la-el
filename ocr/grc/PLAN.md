@@ -32,7 +32,8 @@ committed. **The held decisions and the open points** decided by Claude's
 recommendation (the user, 2026-11-13): `ᾀεί` and `θλίψις` are the edition's spelling,
 `231` 10 is `εἶς`, `Ἢν` stays ("Settled readings"). **Step 4, the corrigenda** (the
 user, 2026-11-13): applied to `texts/grc` by marks in the pages, the lists not converted
-("The corrigenda"). Next: the close (step 5).
+("The corrigenda"). **Step 5, the close**, done: the check of `ocr/grc` is complete
+([SUMMARY.md](SUMMARY.md)).
 
 ## The work ahead
 
@@ -66,7 +67,7 @@ user, 2026-11-13): applied to `texts/grc` by marks in the pages, the lists not c
 2. **The held decisions** (`ᾀεὶ`, `θλίψις`) after the read-through (done, with the open
    points `Ἢν` and `231` `εἷς`: "Settled readings").
 3. **The corrigenda** with the user (step 4, done: "The corrigenda"), then **the close**
-   (step 5).
+   (step 5, done).
 
 What the batches taught about the deciding (retype 06):
 
@@ -189,9 +190,9 @@ follows the corrigenda and does not contain them, the pages staying as printed
 3. **Read-through** (ocr/PLAN.md, "Read-through") over `texts/grc`: a trial of about 20
    pages, then batches of 25 scans; decisions as in step 2 (note `read`).
 4. **The corrigenda**, with the user (above; done).
-5. **Close**: the state here, DONE.md, a SUMMARY.md; texts/PLAN.md "Status" and the README
-   of `ocr/grc` (the check in "Credits"); commits, `ocr/grc` and `texts/grc` apart, when the
-   user asks.
+5. **Close** (done): the state here, DONE.md, [SUMMARY.md](SUMMARY.md); texts/PLAN.md
+   "Status" and the README of `ocr/grc` (the check in "Credits", the marks explained);
+   commits, `ocr/grc` and `texts/grc` apart, when the user asks.
 
 ## Settled readings
 

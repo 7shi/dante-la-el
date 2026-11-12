@@ -92,6 +92,21 @@ and apparent errors in the original are preserved rather than silently
 modernized or corrected. The notes also contain Latin, Italian, French, Arabic,
 and Hebrew, so the directory's `grc` label does not describe every passage.
 
+## Misprints and corrigenda
+
+The pages stay as printed; corrections are marks in the page, and the conversion
+into `texts/grc` writes their corrected side:
+
+- `{{printed|fixed}}`: a misprint found in the check, listed in
+  [misprints.tsv](misprints.tsv).
+- `{{printed|LIST|fixed}}`: an entry of the book's own corrigenda, LIST `1`
+  ([014.txt](014.txt)), `2` ([015.txt](015.txt)–[018.txt](018.txt)) or `1&2`;
+  every entry, applied or not, is listed in [corrigenda.tsv](corrigenda.tsv). Such
+  a mark may span lines within a page.
+
+The check against the images, and what it found, is described in
+[SUMMARY.md](SUMMARY.md).
+
 ## Credits
 
 | Step | Model |
@@ -100,3 +115,4 @@ and Hebrew, so the directory's `grc` label does not describe every passage.
 | Proofreading | GPT-6.1 Sol |
 | Index ([INDEX.md](INDEX.md)) | Gemini 3.8 Flash |
 | Final check | Claude Opus 5.5 |
+| Check: retype, read-through and corrigenda ([SUMMARY.md](SUMMARY.md)) | Retypes 01–02 Gemini 4 Argon and 03–11 Gemini 3.8 Flash (la-el-agy), 12–15 (259–351) Claude Opus 5.5; read-through and decisions by Claude Opus 5.5 |

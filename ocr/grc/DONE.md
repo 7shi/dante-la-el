@@ -925,3 +925,12 @@ Decided with the user: `texts/grc` follows the two corrigenda and does not conta
   94 rows, 92 applied, 92 marks; 0 problems. Syllables: 5 of the 8 lines not of twelve
   now have twelve (`ΙΒ΄` 15, `ΚΔ΄` 128, 133, `Λ΄` 137, `ΛΓ΄` 52); no corrected line has
   another count.
+
+## Step 5: the close (2026-11-13)
+
+- **The last checks**: `misprints.py ocr/grc`: 98 rows, 98 marks; corrigenda.tsv 94 rows,
+  92 applied, 92 marks; 0 problems. `convert_grc.py`: the report as after step 4.
+- **readcheck.tsv**: 1309 misread, 106 misprints (98 in misprints.tsv, 8 now corrigenda
+  marks), 201 printed; by step in [SUMMARY.md](SUMMARY.md).
+- **Written**: [SUMMARY.md](SUMMARY.md); README.md ("Misprints and corrigenda", the check
+  in "Credits"); the state in PLAN.md; texts/PLAN.md "Status".

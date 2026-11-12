@@ -6,10 +6,12 @@ work that follows: the same checks for the other three texts, taken from `la` wi
 detours (asked by the user, 2026-11-08). The conversion into `texts/` is described in
 [texts/PLAN.md](../texts/PLAN.md).
 
-## State (2026-11-10)
+## State (2026-11-13)
 
 `en` done (decided with the user, 2026-11-08; its plan in [en/PLAN.md](en/PLAN.md), the
-account in [en/SUMMARY.md](en/SUMMARY.md)). The order of the other two is set later.
+account in [en/SUMMARY.md](en/SUMMARY.md)). `grc` done (2026-11-13; its plan in
+[grc/PLAN.md](grc/PLAN.md), the account in [grc/SUMMARY.md](grc/SUMMARY.md)). `en-oelsner`
+remains.
 
 ## The texts
 
