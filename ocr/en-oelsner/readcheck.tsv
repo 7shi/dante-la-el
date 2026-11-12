@@ -8,3 +8,125 @@ page	line	form	decision	note
 403	4	The	printed	cmp B; `THE` in small capitals after the drop capital; the base's case kept (PLAN.md, "Settled readings")
 403	16	10	misprint	cmp A; marked `{{10|10.}}`; the base had `10.`
 403	40	edited	misread	cmp A; was `edited,`; no comma printed
+011	7	MDCCCCIII · PUBLISHED · BY · J · M · DENT ·	misread	cmp B; was `MDCCCCIII • PUBLISHED • BY • J.M. DENT •`; the title-page imprint (red) has raised dots between all words and letters, `J·M·`
+011	8	AND · CO: ALDINE · HOUSE · LONDON · W · C ·	misread	cmp A, B; was `AND • CO: • ALDINE • HOUSE • LONDON • W.C. •`; no dot after `CO :`, `W·C·`
+013	4	774552	printed	cmp B; a library's stamped number below the motto, kept as in the base; the retype left it out
+016	23	pelle	misread	cmp A; was `pelle.`; no period printed
+016	24	l' ora	misread	cmp A; was `L' ora`
+016	31	sembiava	misread	cmp A; was `sembrava`; all three readings `sembiava`
+019	5	weeps	printed	cmp D; the label `Virgil`/`Dante` placed elsewhere by Tesseract and GLM-OCR; nothing to do
+019	13	from	printed	cmp D; as the row above
+020	2	INFERNO	printed	cmp B; the base writes the page number `8` on its own line before the running head
+020	4	Vedi	misread	cmp A; was `VEDI`; normal case printed
+020	16	ammoglia	misread	cmp A; was `ammòglia`; no accent printed
+021	24	Feltro.	misread	cmp C; the transcriber's note `(handwritten: _lit. Feltre and Feltre_)` on a reader's pen mark removed
+021	27	Euryalus, and	misread	cmp A; `and` left out at the line end
+021	28	wounds;	misread	cmp A; was `wounds.`
+022	1	10 INFERNO	misread	cmp B; was `IO INFERNO`
+022	20	* * *	printed	cmp B; the asterism `⁂` written `* * *` in the base; kept
+022	27	Convito	misread	cmp A; was `Convitio`
+022	32	Convito	misread	cmp A; was `Convitio`
+023	1	CANTO I 11	misread	cmp B; was `CANTO I II`
+023	12	o happy	misread	cmp A; was `“o happy`; a speck before `o`, no quotation mark
+026	17	sì	printed	cmp D; Tesseract and GLM-OCR `si`; the accent printed
+028	2	INFERNO	printed	cmp B; the page number `16` on its own line in the base
+028	14	folle;	misread	cmp A; was `folle:`
+028	24	viltade	misread	cmp A; was `viltàde`; a speck over `ta`, not an accent
+028	29	venni,	misread	cmp A; was `venni;`; a comma with a faint speck above it (Tesseract `venni;`)
+030	6	l’ amico	misread	cmp A; was `L’ amico`
+031	31	that my obeying,	misread	cmp A; `obeying,` left out (printed close up, `myobeying,`)
+031	35	forbearest	misread	cmp A; was `forbears`
+034	1	22 INFERNO	misread	cmp B; the page number left out
+034	19	proposto	misread	cmp A; was `proposito`
+034	47	vi	misprint	cmp A; marked `{{vi|vi.}}`; the base had `vi.`
+034	50	xii. 2	misread	cmp B; was `xii. 2.`; the sentence goes on overleaf
+035	28	St Paul is called	misread	cmp A; `is called` left out
+037	1	N·P·	misread	cmp B, C; the diagram rewritten as printed: the base had a heading `MAP OF HELL` (not printed; show-through of the next page), periods for the raised dots, the circles `1.`–`7.` and `VIII.`–`XII.` (printed `0`–`7`, `VIII`, `IX`)
+038	5	dell Inferno	misprint	cmp A; marked `{{dell Inferno|dell’Inferno}}` in the label; the base had `dell’Inferno`
+039	4	a	misread	cmp A; was `the`; the scan cuts the first letter, the room and the stroke left are of `a`
+039	9	demon	printed	cmp D; Tesseract and GLM-OCR `lemon`; the scan cuts the `d`; nothing to do
+039	10	glaring	misread	cmp A; was `flaring`; the descender of `g` at the scan edge
+039	16	‘Through	printed	cmp A; the print opens with a single quote; the retype's `“` wrong; nothing to do
+040	1	28	printed	cmp B; the base's page number on its own line, dropped by `--verse-numbers`; nothing to do
+042	3	sì	printed	cmp D; Tesseract and GLM-OCR `si`; the accent printed
+042	17	tastidiosi	misprint	cmp A; marked `{{tastidiosi|fastidiosi}}`; the base had `fastidiosi`
+044	3	costì	printed	cmp D; Tesseract and GLM-OCR `costi`; the accent printed
+044	30	similemente	misread	cmp A; was `similmente`
+046	28	medieval	misread	cmp A; was `mediæval`
+047	26	. .	misread	cmp A; was `*colui che fece*. . . .`; two dots printed between `fece` and `Probably`
+048	1	INFERNO	misread	cmp C; the handwritten note `(handwritten: The Limbo)` removed
+048	18	discernea	misread	cmp A; was `discornea`
+049	13	slumber	misread	cmp A; was `slumber.` in the label; no period printed
+050	35	ubbidiente;	misread	cmp B; was `ubbidiente:`; a semicolon printed
+052	13	quando’	printed	cmp B; the apostrophe printed after `quando`; the retype missed it; nothing to do
+052	25	poeta;	misread	cmp A; was `poeta:`
+054	1	42	printed	cmp B; as 040
+054	11	volsersi	misread	cmp A; was `volserisi`
+054	28	Traemmoci	misread	cmp A; was `Traemmorci`
+056	17	quale,	misread	cmp A; the comma printed, missing in the base
+056	26	si	misread	cmp A; was `sì`; no accent printed
+056	32	1 Peter	misread	cmp A; was `I Peter`; the italics of `Peter` added
+056	32	Nicod.,	misread	cmp A; the comma printed, missing in the base
+058	1	46	printed	cmp B; as 040
+058	4	106-110.	misread	cmp B; was `105-110.`
+058	13	sqq.,	misread	cmp B; was `199.,`
+058	24	510	misread	cmp A; was subscript `₅₁₀`
+058	26	sqq.);	misread	cmp B; was `199.);`
+060	12	Così	printed	cmp D; Tesseract and GLM-OCR `Cosi`; the accent printed
+060	13	cinghia	misread	cmp A; was `cinghìa`
+060	21	essa;	misread	cmp A; was `essa,`
+060	34	vuolsi	misread	cmp A; was `vuolsì`
+062	22	comforta	misprint	cmp A; marked `{{comforta|conforta}}`; the base had `conforta`
+064	8	Cleopatras	misread	cmp A; was `Cleopätras`; no diaeresis printed
+064	27	colombe,	misread	cmp A; the comma printed, missing in the base
+067	24	Caïna	printed	cmp D; Tesseract and GLM-OCR `Caina`; the diaeresis printed
+067	45	reply	printed	cmp D; the label `Her reply` placed elsewhere by Tesseract and GLM-OCR; nothing to do
+068	25	morisse;	misread	cmp A; the semicolon printed, missing in the base
+068	41	Æneas	misread	cmp B; was `Aeneas`; the ligature printed
+068	41	Sichæus	misread	cmp A; was `Sicha͡eus`
+068	43	Æneas	misread	cmp B; was `Aeneas`; the ligature printed
+073	19	tormented	misread	cmp A; the word printed, missing in the base
+074	2	62	printed	cmp B; as 040
+074	46	fiacco;	misread	cmp A; the semicolon printed, missing in the base
+075	23	Ciacco	printed	cmp D; the label `Ciacco` placed elsewhere by Tesseract and GLM-OCR; nothing to do
+077	28	sparks	misread	cmp A; was `sparks .`; the dot is a speck in the margin, apart from the text
+078	9	il	misread	cmp A; was `'l`; `E il duca` printed
+078	14	udirà	printed	cmp D; Tesseract and GLM-OCR `udira`; the accent printed
+078	15	Sì	printed	cmp D; Tesseract and GLM-OCR `Si`; the accent printed
+079	45	Guelfs	misread	cmp A; was `Guelſs`
+080	5	selveggia	misprint	cmp A; marked `{{selveggia|selvaggia}}`; the base had `selvaggia`
+081	6	but,	misread	cmp A; the comma printed, missing in the base
+083	21	Plutus	printed	cmp B; the base sets the label `Plutus` apart from `The Avaricious and the Prodigal.`, two lines lower; nothing to do
+083	23	all,	misread	cmp A; was `all, and`; no `and` printed
+083	25	fear hurt	misread	cmp A; the words printed, missing in the base
+083	26	he shall	misread	cmp A; the words printed, missing in the base
+084	15	lì	printed	cmp D; Tesseract and GLM-OCR `li`; the accent printed
+085	12	surge wherewith	printed	cmp D; Tesseract and GLM-OCR run the words together; spaced in the print
+086	2	74	printed	cmp B; as 040
+087	26	souls.	misread	cmp B; was `souls."`; no closing quote printed (Virgil's speech goes on)
+090	9	‘Tristi	misread	cmp A; was `“Tristi`; a single opening quote printed (closed by `negra.'`)
+090	38	Cf	printed	cmp D; Tesseract and GLM-OCR read `Gf`
+090	38	a'	misread	cmp A; was `sino a`; the apostrophe printed at the line end
+090	41	Convito	misread	cmp A; was `Convivio`; the print has `Convito`
+092	19	senno;	misread	cmp A; the semicolon not in the base
+092	29	quella,	misread	cmp A; the comma not in the base
+093	14	summit,	misread	cmp A; was `summit, and`; no `and` printed
+093	20	turn[ed]	misread	cmp A; was `turn`; the bracketed ending printed
+093	32	[through the water]	misread	cmp A (two places); the brackets not in the base
+093	36	Phlegyas	printed	cmp B; no opening quote visible (the line starts in the gutter shadow); the retype added it from the sense
+094	2	82	printed	cmp B; as 040
+094	30	incinse.	misread	cmp A; was `incinse.”`; no closing quote printed (the speech goes on)
+098	9	sicurtà	printed	cmp D; Tesseract and GLM-OCR drop the accent
+100	25	68.	misread	cmp A; was `63.`; the note is to v. 68
+101	12	punished	misprint	cmp A; marked `{{punished|punished.}}`; the base had `punished.`
+102	3	DANTE	misread	cmp A; was `D ANTE`; a drop capital, one word
+102	23	sì	printed	cmp D; Tesseract and GLM-OCR drop the accent
+105	24	had the	misread	cmp A; was `had the Furies`; the marginal label's second word set in the line
+106	2	94	printed	cmp B; as 040
+106	15	sponde;	misread	cmp A; was `sponde:`
+106	18	rattento	misread	cmp A; was `rattenro`
+106	22	Gli occhi	misread	cmp A; was `Gliocchi`; a narrow space in a tight line
+106	35	volsimi	misread	cmp A; was `volsmi`
+110	11	eresiarche	misread	cmp A; was `eresiarchi`
+110	15	e sepolto	misread	cmp A; was `è sepolto`; no accent printed
+111	28	angel	misread	cmp A; was `Angel`; lower case printed

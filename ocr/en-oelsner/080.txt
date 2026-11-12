@@ -2,7 +2,7 @@
 
 Corso Donati and Vieri de' Cerchi, respectively, came
 to blows on May 1, 1300. In May 1301, the Whites
-(*parte selvaggia*, that is, either “party of the woods”:
+(*parte {{selveggia|selvaggia}}*, that is, either “party of the woods”:
 because the Cerchi came from the wooded district of
 Val di Sieve, in the Mugello; or “wild” party: as
 opposed to the more aristocratic faction of the Donati)

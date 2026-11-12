@@ -1,4 +1,4 @@
-INFERNO
+22 INFERNO
 
 22
 
@@ -16,7 +16,7 @@ e tu cortese, ch’ ubbidisti tosto
 alle vere parole che ti porse!
 Tu m’ hai con desiderio il cuor disposto
 sì al venir, con le parole tue,
-ch’ io son tornato nel primo proposito.
+ch’ io son tornato nel primo proposto.
 Or va, chè un sol volere è d’ ambo due;
 tu duca, tu signore, e tu maestro.”
 Così gli dissi; e poichè mosso fue,
@@ -44,7 +44,7 @@ _De Mon_., _passim_), supplemented each other, are well
 brought out in these lines and in _v_. 27.
 
 25-27. Æneas learns from Anchises the greatness
-of the stock that is to spring from him (cf. _Æn_. vi.
+of the stock that is to spring from him (cf. _Æn_. {{vi|vi.}}
 757, _sqq_.).
 
-28-30. The reference is obviously not to 2 _Cor_. xii. 2.
+28-30. The reference is obviously not to 2 _Cor_. xii. 2

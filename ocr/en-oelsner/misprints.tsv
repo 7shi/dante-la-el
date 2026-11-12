@@ -1,3 +1,9 @@
 page	line	printed	fixed	applied	source	note
 024	47	117)	117).	yes	edition	The last note of Canto I; the closing period not printed (a speck stands well apart); the retype reads `117)`, Tesseract `117)`; found by the retype.
 403	16	10	10.	yes	edition	Note on Dante's Hell; the period before `The primary division` not printed; the retype and Tesseract read `10`; found by the retype.
+034	47	vi	vi.	yes	edition	Canto II, note 25-27, `Æn. vi 757`; the period not printed at the line end (`Æn. vi. 236-900` above); the retype and Tesseract read `vi`; found by the retype.
+038	5	dell Inferno	dell’Inferno	yes	edition	Canto III, the marginal label `Porta dell` / `Inferno`; no apostrophe printed after `dell`; the retype reads `dell Inferno`; found by the retype.
+042	17	tastidiosi	fastidiosi	yes	edition	Canto III, v. 69; the first letter printed as `t` (no ascender); the retype and Tesseract read `tastidiosi`, GLM-OCR `fastidiosi`; found by the retype.
+062	22	comforta	conforta	yes	edition	Canto V, v. 44; `comforta` printed; the retype, Tesseract and GLM-OCR read `comforta`; found by the retype.
+080	5	selveggia	selvaggia	yes	edition	Canto VI, note 64-69, `parte selveggia`; `selvaggia` in v. 65; the retype, Tesseract and GLM-OCR read `selveggia`; found by the retype.
+101	12	punished	punished.	yes	edition	Canto VIII, note 68, `have been / punished Within the City`; the period not printed (a wide space only); the retype and Tesseract read `punished`; found by the retype.

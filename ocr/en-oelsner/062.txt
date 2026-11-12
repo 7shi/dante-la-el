@@ -19,7 +19,7 @@ E come gli stornei ne portan l'ali,
 nel freddo tempo, a schiera larga e piena:
 così quel fiato gli spiriti mali;
 di qua, di là, di giù, di su gli mena.
-Nulla speranza gli conforta mai,
+Nulla speranza gli {{comforta|conforta}} mai,
 non che di posa, ma di minor pena.
 E come i gru van cantando lor lai,
 facendo in aer di sè lunga riga;

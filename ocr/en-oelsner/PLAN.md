@@ -16,8 +16,9 @@ conversion into `texts/en-oelsner/` is described in [texts/PLAN.md](../../texts/
 
 Step 0 (setup) done, and the trial (retype 01: `014`, `015`, `024`, `025`, `249`, `403`)
 decided (DONE.md). GLM-OCR is run over all pages by the user, in page order (its
-batches 1–5); `cmpread.py` takes it (step 0.7, done). Next: retype 02, the batches of 25
-pages in page order from `007`, each decided once GLM-OCR has read its pages ("Steps" 2).
+batches 1–5); `cmpread.py` takes it (step 0.7, done). Retypes 02 (`007`–`037`), 03
+(`038`–`062`), 04 (`063`–`087`) and 05 (`088`–`112`) decided. Next: retype 06, the
+batches of 25 pages in page order from `113`, each decided once GLM-OCR has read its pages ("Steps" 2).
 
 ## The text
 
