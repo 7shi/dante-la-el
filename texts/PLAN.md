@@ -288,7 +288,7 @@ Excluded: `004`, `008`, `020`, `286`, `288`, and the library stamps transcribed 
   - Quotations in verse set off inside the notes are listed by their first words in `NOTE_VERSE`; the unnumbered paragraphs checked against the images are in `NOTE_UNNUMBERED`.
   - Line-end hyphens: Greek words are always joined (the print hyphenates Greek by syllables); the others are decided by hand in `HYPHEN_FIXED`.
 - Decisions to review if the conventions change (all checked against the images; only the first departs from the print):
-  - `ΛΒ΄` 86 (`265`): the `Ε` of `Εἶπον` did not print. `ocr/` has the printed `ἶπον`; the script writes `Εἶπον` (`MISSING_TYPE`), with the capital that starts every line; without it the line would start with a lowercase `ἶ`.
+  - `ΛΒ΄` 86 (`265`): the `Ε` of `Εἶπον` did not print. `ocr/` marks it `{{ἶπον|Εἶπον}}`, and the output has `Εἶπον`, with the capital that starts every line; without it the line would start with a lowercase `ἶ`. (The script's own supply of the capital, `MISSING_TYPE`, was removed when the mark came: the two together wrote `ΕΕἶπον`.)
   - `ΙΖ΄` 92 (`147`): `(ἀλλ οὐ,` without an apostrophe, as printed; `ocr/` and the output keep it.
   - Line-end hyphens outside Greek (`HYPHEN_FIXED`): `veuil-je` and `ci-dessus` keep the hyphen (as `ferois-je`, `fait-elle`); `porce-` / `que` is joined as `porceque` (as `porque` in the same sentence), though Old French also writes `por ce que`.
   - Quotations in verse inside the notes (`NOTE_VERSE`, 11) keep their printed lines with hard breaks, also inside a numbered note (`301`, `309`, `332`); a verse quotation set after a blank line is part of the note it is quoted in.

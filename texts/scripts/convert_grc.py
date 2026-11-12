@@ -109,10 +109,6 @@ def fixed(t):
     return MISPRINT.sub(r"\2", t)
 
 
-# Letters missing from the print (the type did not print), supplied here: page -> (as printed, supplied)
-MISSING_TYPE = {265: ("ἶπον τῷ πικρῶς", "Εἶπον τῷ πικρῶς")}  # ΛΒ΄ 86
-
-
 def read_page(n, head=True):
     """Lines of a page without running head, page number, signature marks and stamps.
 
@@ -121,9 +117,6 @@ def read_page(n, head=True):
     text = fixed((SRC / f"{n:03d}.txt").read_text(encoding="utf-8"))
     lines = [l.rstrip() for l in text.strip().split("\n")]
     lines = [l for l in lines if l.strip() not in STAMPS.get(n, [])]
-    if n in MISSING_TYPE:
-        a, b = MISSING_TYPE[n]
-        lines = [l.replace(a, b) for l in lines]
     if not head:
         k = next((k for k, l in enumerate(lines[:3]) if re.search(r"\d", l)), None)
         if k is not None and head_words(lines[k]):
