@@ -186,6 +186,8 @@ HYPHEN_FIXED = {
     "mar-cello": "Marcello", "dic-tionnaire": "Dictionnaire", "pro-fond\u00e9ment": "profond\u00e9ment",
     "impar-faitement": "imparfaitement", "\u00e9gale-ment": "\u00e9galement", "ron-cevaux": "Roncevaux",
     "masche-roni": "Mascheroni", "vallom-brosa": "Vallombrosa", "julia-no": "Juliano",
+    "mont-fort": "Montfort", "trou-vères": "trouvères",
+    "κακοὶ-ὄνυχες": "Κακοὶ-ὄνυχες",  # a compound printed with the hyphen, as Κακὴ-Οὐρά
 }
 
 
@@ -364,12 +366,12 @@ NOTE_ERRORS = []
 # Quotations in verse, set off inside a note (by their first words): the number of
 # printed lines, with a citation set on a line of its own; they keep their lines.
 NOTE_VERSE = {
-    "“The sun to me": 4, "“ Ὁ δ᾽ εὐτυχήσας": 2, "“Non secus": 2, "“Ὄλβιος ὃς": 2,
-    "“ Σκιρτᾷ δ᾽": 2, "“ Quales mugitus": 3, "“Io credo": 1, ". . . tremuere": 3,
+    "“The sun to me": 4, "“ Ὁ δ᾽ εὐτυχήσας": 2, "“Non secus": 2, "“Ὄλβιος ὅς": 2,
+    "“ Σκιρτᾷ δ᾽": 2, "“ Quales mugitus": 3, "“Io credo": 1, ". . . . tremuere": 3,
     "“ Πολλῶν δ᾽": 1, "“ Qui mores": 1, "“Tolle moras": 1,
 }
 # Note paragraphs without a number, checked against the images (by their first words).
-NOTE_UNNUMBERED = ["Ἀσδέντης,", "“Οἱ δὲ Γίγαντες", "Πέτρα Ἀπουάνα", "Τύποις CLAYTON"]
+NOTE_UNNUMBERED = ["Ἀσδέντης,", "“Οἱ δὲ Γίγαντες", "Πέτρα Ἀπουάνα", "Τριβαλδέλλος ὁ", "Τύποις CLAYTON"]
 VERSE = "\0"  # marks a line of verse among the lines of a note
 
 
