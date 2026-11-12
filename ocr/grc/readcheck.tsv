@@ -1051,3 +1051,106 @@ page	line	form	decision	note
 258	3	ἅς	misread	cmp B; was `ἃς`; the acute before the enclitic `ποτ᾽`
 258	14	διεκλόνησεν	misread	cmp A; was `διεκλόνισεν`
 258	20	Ἤλθομεν	misread	cmp A; was `Ἦλθομεν`
+252	14	θλίψις	misprint	marked `{{θλίψις|θλῖψις}}`, not a cmp place: an acute for the circumflex, as 079 21, seen in the deciding of retype 12 (held, "Open points"); the base had `θλίψις`
+259	6	παρῆσθα	misread	cmp A; was `παρήσθα`
+259	12	δή	misread	cmp A; was `δὴ`
+259	16	πάρωρον	misread	cmp A; was `πάρορον`
+259	18	Ἔλαβ	misread	cmp B; was `Ἐλαβ`
+259	21	λάβω	printed	cmp B; no `·` after `λάβω`; the retype’s `·` not printed
+260	8	προῃρούμην	misread	cmp A; was `προηρούμην`
+261	3	ἢ	misread	cmp B; was `ἡ`
+261	15	εἴησάν	misread	cmp B; was `εἴησαν`
+261	19	R	misread	cmp B; the signature mark at the foot, missing in the base
+262	7	Ἤκουσά του	misread	cmp B; was `Ἤκουσα τοῦ`
+263	6	θλίψις	misprint	cmp A; marked `{{θλίψις|θλῖψις}}`, an acute for the circumflex, as 079 21 (held, "Open points"); the base had `θλῖψις`
+263	7	κᾆτα	misread	cmp B; was `κᾶτα`
+263	9	συμμεμιγμένας	misread	cmp A; was `συμπεμιγμένας`
+263	12	πρός	misread	cmp A; was `πρὸς`
+263	17	Οὑτωσὶ	misread	cmp B; was `Οὕτωσὶ`
+263	18	συνέκρουον·	misread	cmp B; the `·` missing in the base
+263	18	ἐλύσσων	misread	cmp A; was `ἐλύσσον`
+263	21	R 2	misread	cmp B; the signature mark at the foot, missing in the base
+264	7	Ἢν	misread	cmp B; was `Ἣν`; the roman `^` mark, written `Ἢν` by the grammar ("Open points")
+264	8	Ἀξιωτέραν	misread	cmp A; was `Ἀξιοτέραν`
+264	15	Ἵν	misread	cmp B; was `Ἴν`; rough with acute
+264	20	ᾀεί	misprint	cmp B; marked `{{ᾀεί|ἀεί}}`, an iota subscript where the word has none, as 110 17 (held, "Open points"); the base had `ἀεί`
+264	22	ἐπιῤῥέπει	misread	cmp A; was `ἐπιρρέπει`
+265	9	Μονταπέρτου	misread	cmp A; was `Μουταπέρτου`
+265	10	Καγώ	misprint	cmp B; marked `{{Καγώ|Κἀγώ}}`, the coronis did not print; the base had `Κἀγώ`
+265	11	Ἵν	misread	cmp B; was `Ἴν`; rough with acute, as 264 15
+265	14	ἶπον	misprint	marked `{{ἶπον|Εἶπον}}`, not a cmp place (both readings agree): the capital did not print; the base had `ἶπον`
+265	18	ἐπεῖπε	misread	cmp A; was `ἔπειπε`
+266	15	ἔκραξε	misread	cmp B; was `ἔκραζε`
+267	6	‚ „	misread	cmp B; was `„„`; the nested quote
+267	10	Σολδανεῖρον	misread	cmp A; was `Σολδανείρου`
+267	16	πῖλός	misread	cmp A; was `πιλός`
+268	5	Γνούς	misread	cmp B; was `Γνοὺς`
+268	7	φθέγγομαί	misread	cmp B; was `φθέγγομαι`
+269	9	θλίβον	misprint	marked `{{θλίβον|θλῖβον}}`, not a cmp place: an acute for the circumflex, as 079 21 (held, "Open points"); the base had `θλίβον`
+269	12	προδότῃ	misread	cmp A; was `προδότη`
+269	16	Ὄντως	misread	cmp B; was `Οὕτως`
+270	3	ἔσθ	misread	cmp A; was `ἐσθ`
+270	3	ὅδε	misread	cmp B; was `ὧδε`
+270	13	κἄλλους	misread	cmp B; was `κάλλους`
+270	14	ὁρᾷν	misread	cmp A; was `ὁρᾶν`
+270	19	ὁρᾷν	misread	cmp A; was `ὁρᾶν`
+271	1	ΑΓ΄	misprint	cmp B; marked `{{ΑΓ΄|ΛΓ΄}}`, the running head, an `Α` with its bar for the `Λ`, as 248 1; the base had `ΛΓ΄`
+271	9	κἆρτον	misread	cmp B; was `κἄρτου`
+271	11	συνῃσθανόμην	misread	cmp B; was `συνησθανόμην`
+271	12	ἆρ	misread	cmp B; was `ἄρ`
+271	14	βρῶσιν·	misread	cmp B; was `βρῶσιν.`; a raised dot
+271	15	τοὖναρ	misread	cmp B; was `τοῦναρ`; the coronis with the circumflex, as the crasis `τἆλλα`; the retype’s `τοὔναρ` not printed
+271	16	ἔμ	misread	cmp A; was `ἐμ`
+271	16	ἡλουμένην	misread	cmp A; was `ἠλουμένην`
+271	20	Ἀνσελμούκιός	misread	cmp B; was `Ἀνσελμούκιος`
+272	8	ἔδακόν	misread	cmp A; was `ἐδακόν`
+272	10	ὁρμὴν	misread	cmp A; was `ὁρμήν`
+272	12	‚ „	misread	cmp B; the nested quote, the `‚` missing in the base
+272	12	Ἢν	misread	cmp B; was `Ἤν`; the roman `^` mark, written `Ἢν` by the grammar ("Open points")
+272	13	‚ „	misread	cmp B; the nested quote, the `‚` missing in the base
+272	15	᾽κείνην	misread	cmp A; was `κείνην`; the apostrophe of the elision
+273	9	ὀδάξ	misread	cmp A; was `ὀδὰξ`
+273	10	Πίσα	misread	cmp A; was `Πῖσα`
+273	20	Βριγάναν	misread	cmp A; was `Βριγάνων`
+274	11	μου	misread	cmp A; was `μοι`
+274	13	ἀφῄρεσεν	misread	cmp B; was `ἀφήρεσεν`
+274	14	ἄνεμόν	misread	cmp A; was `ἀνεμόν`
+274	17	ἀφίξῃ	misread	cmp A; was `ἄφιξη`
+275	2	ἄρατ	misread	cmp A; was `ἆρατ`
+275	8	εἴμ	misread	cmp A; was `εἰμ`
+275	11	Πῶς;	misread	cmp A; the `;` missing in the base
+276	7	Κὺρ	misread	cmp B; was `Κῦρ`
+276	7	πόλλ	printed	cmp B; the retype’s `πολλ`
+276	8	καθεῖρκται	misread	cmp B; was `καθείρκται`
+276	9	ἐξαπατᾷν	misread	cmp A; was `ἐξαπατᾶν`
+276	9	με	misread	cmp A; was `με·`; nothing printed after `με`
+276	13	Ὕπερθεν	misread	cmp A; was `Ὑπερθεν`
+276	21	Γενεάται	misread	cmp B; was `Γενεᾶται`
+277	7	S	misread	cmp B; the signature mark at the foot, missing in the base
+278	2	—***—	misread	cmp B; an ornament, not text: the line emptied, as 237 2
+278	5	—***—	misread	cmp A; a rule, the line emptied, as 237 5
+278	8	οὑμὸς	misread	cmp A; was `οὐμὸς`
+278	9	ὀμίχλη	printed	cmp B; the retype’s `ὁμίχλη`
+278	12	Μυλών	misread	cmp B; was `Μυλῶν`
+278	14	Τοὐμοῦ	misread	cmp B; was `Τοῦμοῦ`
+278	15	δή	misread	cmp B; was `δὴ`
+279	5	Ἔνθ	misread	cmp B; was `Ἐνθ`
+279	8	εἶπ’·	misread	cmp B; was `εἶπ’.`; a raised dot
+279	16	Κλαυθμώνων	misread	cmp A; was `Κλαυθμῶνων`
+279	22	S 2	misread	cmp B; the signature mark at the foot, missing in the base
+280	4	Ὄντως	misread	cmp A; was `Οὕτως`
+280	5	Ὤ	misread	cmp B; was `Ὦ`; smooth with acute, the interjection `ὤ`
+281	4	ἁμαρτωλὸν	misread	cmp A; was `ἀμαρτωλῶν`
+281	4	ὄλμου	misprint	cmp B; marked `{{ὄλμου|ὅλμου}}`, the smooth breathing, the same mark as `ἔθραυε` in the line; the base had `ὄλμου`
+281	10	Οὑμός	misread	cmp A; was `Οὐμός`
+282	6	Οὑμὸς	misread	cmp B; was `Οὐμὸς`
+282	8	Εἷλε	misread	cmp B; was `Εἶλε`
+282	8	ἵππον	misread	cmp A; was `ἵππου`
+282	10	νῦν·	misread	cmp B; the `·` missing in the base
+283	6	φωτός	misread	cmp A; was `φωτὸς`
+283	9	Ἵν	misread	cmp B; was `Ἴν`
+283	20	ἔστ	misread	cmp A; was `ἐστ`
+284	6	οὗπερ	misread	cmp A; was `οὕπερ`
+284	7	καθὼς	misread	cmp A; was `καθώς`
+284	16	ἤχῳ	printed	cmp B; the dative of `ἦχος`; the retype’s `ἠχῷ`
+285	6	τἆστρα	misread	cmp B; was `τἄστρα`

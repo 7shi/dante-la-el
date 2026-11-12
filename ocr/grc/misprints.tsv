@@ -1,16 +1,14 @@
 page	line	printed	fixed	applied	source	note
 010	4	ποιηταί	ποιηταί.	yes	edition	The table of contents, canto IV; the period before the dash did not print, as in the other entries; found by the retype.
 010	12	λαίμαργοι	λαίμαργοι.	yes	edition	The table of contents, canto VI; the period before the dash did not print; found by the retype.
-292	29	28	28.	yes	edition	The note to II. 28; the period after the number did not print, as after the other numbers; found by the retype.
 015	4	ῼδαῖς	ᾨδαῖς	yes	edition	The heading of the second corrigenda; the iota subscript printed without the breathing (`ᾨδαῖς` on 014, `ᾨδ.` in the column heads); found by the retype.
 017	5	τον	τὸν	yes	edition	The corrigenda, XX 64, quoting the verse (169: `τὸν Ἀπεννῖνον`); the grave did not print; found by the retype.
 023	20	προς	πρὸς	yes	edition	I 46; the grave did not print; found by the retype.
 024	14	ἒνθ	ἔνθ᾽	yes	edition	I 60; the elision mark not printed and a grave for the acute before `ἥλιος`; found by the retype.
 030	9	ᾙρέθη	Ἡρέθη	yes	edition	II 21; an iota subscript printed under the capital (the aorist of `αἱρέω`); found by the retype.
-038	18	ᾈεὶ	Ἀεὶ	yes	edition	III 29; an iota subscript printed under the capital, as on 030; seen in retype 01, decided with 030.
-157	23	ὀοθῶς	ὀρθῶς	yes	edition	XVIII 132; listed in the corrigenda (016, `ὀοθῶς` / `ὀρθῶς`); the base had corrected it silently; found while checking 016.
 035	1	ΩΔΠ	ΩΔΗ	yes	edition	The running head of II 115–134; a Π for the Η; found by the retype.
 035	13	συῦ	σοῦ	yes	edition	II 125, `ὑπὲρ σοῦ`; an upsilon for the omicron; found by the retype.
+038	18	ᾈεὶ	Ἀεὶ	yes	edition	III 29; an iota subscript printed under the capital, as on 030; seen in retype 01, decided with 030.
 046	18	ἀνδρῶν;	ἀνδρῶν,	yes	edition	IV 30, a list (`ἀνδρῶν, γυναικῶν, παίδων`); a question mark for the comma; found by the retype.
 059	9	πόθους.	πόθους;	yes	edition	V 120, the end of Francesca's question (`εἰς τί καὶ πῶς`); a period for the question mark; found by the retype.
 061	12	τὸν	τοῦ	yes	edition	VI 7, `κύκλον τοῦ ὄμβρου`; an accusative article before the genitive; found by the retype.
@@ -37,6 +35,7 @@ page	line	printed	fixed	applied	source	note
 139	21	Εἰπόμην	Εἱπόμην	yes	edition	XVI 91; the smooth breathing for the rough (`εἱπόμην` on 152); found by the retype.
 146	6	και	καὶ	yes	edition	XVII 56; the grave did not print; found by the retype and Tesseract.
 147	21	ἀλλ	ἀλλ᾽	yes	edition	XVII 92; the elision mark did not print; found by the retype.
+157	23	ὀοθῶς	ὀρθῶς	yes	edition	XVIII 132; listed in the corrigenda (016, `ὀοθῶς` / `ὀρθῶς`); the base had corrected it silently; found while checking 016.
 165	11	ᾀεὶ	ἀεὶ	yes	edition	XIX 122; an iota subscript where the word has none, as on 110; found by the retype.
 173	3	ἀπατεῶνες	ἀπατεῶνες.	yes	edition	The argument of canto XXI; the period before the dash did not print (the table of contents, 012, has it); found by the retype.
 175	8	Ζιτας	Ζίτας	yes	edition	XXI 38; the acute did not print; found by the retype and Tesseract.
@@ -50,6 +49,15 @@ page	line	printed	fixed	applied	source	note
 248	1	Α΄	Λ΄	yes	edition	The running head of canto XXX; `Α` for `Λ`; found by the retype and Tesseract.
 248	17	ᾈεὶ	Ἀεὶ	yes	edition	XXX 67; an iota subscript under the capital where the word has none, as on 038; found by the retype.
 250	7	‚	„	yes	edition	XXX 98; one comma of the continuation quote `„` printed; found by the retype.
+252	14	θλίψις	θλῖψις	yes	edition	XXX 144; an acute for the circumflex, as on 079; seen in the deciding of retype 12 (held, "Open points").
 252	15	ᾀεὶ	ἀεὶ	yes	edition	XXX 145; an iota subscript where the word has none, as on 110; found by the retype.
 252	18	θελειν	θέλειν	yes	edition	XXX 148; the acute did not print; found by the retype and Tesseract.
 256	7	Ρώμῃ	Ῥώμῃ	yes	edition	XXXI 59; the rough breathing did not print; found by the retype.
+263	6	θλίψις	θλῖψις	yes	edition	XXXII 39; an acute for the circumflex, as on 079; found by the retype and Tesseract (held, "Open points").
+264	20	ᾀεί	ἀεί	yes	edition	XXXII 72; an iota subscript where the word has none, as on 110; found by the retype (held, "Open points").
+265	10	Καγώ	Κἀγώ	yes	edition	XXXII 82; the coronis did not print; found by the retype and Tesseract.
+265	14	ἶπον	Εἶπον	yes	edition	XXXII 86; the capital `Ε` did not print; found by the retype.
+269	9	θλίβον	θλῖβον	yes	edition	XXXIII 5; an acute for the circumflex, as on 079; seen in the retype (held, "Open points").
+271	1	ΑΓ΄	ΛΓ΄	yes	edition	The running head of canto XXXIII; `Α` for `Λ`, as on 248; found by the retype.
+281	4	ὄλμου	ὅλμου	yes	edition	XXXIV 56; the smooth breathing for the rough (the same mark as `ἔθραυε` in the line); found by the retype.
+292	29	28	28.	yes	edition	The note to II. 28; the period after the number did not print, as after the other numbers; found by the retype.

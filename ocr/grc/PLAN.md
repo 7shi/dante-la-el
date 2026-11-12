@@ -20,8 +20,11 @@ Flash (the user's choice, 2026-11-10); committed. Retypes 07–11 (`134`–`258`
 on Gemini 3.8 Flash (files checked: all 25 present, none empty). Stopped there by the
 user: retype 12 waits several days (rate limit); not sent until they say so. The deciding
 of 07–11, batch by batch (the user, 2026-11-12): retypes 07 (`134`–`158`), 08 (`159`–`183`)
-09 (`184`–`208`), 10 (`209`–`233`) and 11 (`234`–`258`) decided. Retype 12 waits until 2026-11-14 (the
-user, 2026-11-12), and is still not sent until they say so.
+09 (`184`–`208`), 10 (`209`–`233`) and 11 (`234`–`258`) decided; committed.
+**From retype 12 on, no delegate** (the user, 2026-11-12): Claude (Opus 5.5) retypes the
+pages itself and decides them in the same session ("The work ahead"). Retype 12
+(`259`–`285`) decided; to be committed (the user: after 12, then 13–15 together). Next:
+retype 13, the form of the notes first taken from `292` and `343`.
 
 ## The work ahead
 
@@ -35,7 +38,7 @@ user, 2026-11-12), and is still not sent until they say so.
    | 09 | `184`–`208` | 25 | cantos (decided) |
    | 10 | `209`–`233` | 25 | cantos (decided) |
    | 11 | `234`–`258` | 25 | cantos (decided) |
-   | 12 | `259`–`285` | 27 | cantos, to the end of the poem |
+   | 12 | `259`–`285` | 27 | cantos, to the end of the poem (decided) |
    | 13 | `287`, `289`–`291`, `293`–`313` | 25 | notes |
    | 14 | `314`–`338` | 25 | notes |
    | 15 | `339`–`342`, `344`–`351` | 12 | notes |
@@ -48,6 +51,12 @@ user, 2026-11-12), and is still not sent until they say so.
    model and the task are confirmed with the user before 13 is written). 12 waits with
    them, several days, for the Flash rate limit. Their task says "the notes" for the cantos; the template's rules
    already name the languages.
+   **Update (the user, 2026-11-12): 12–15 are not sent to la-el-agy.** Claude (Opus 5.5)
+   writes each retype from the page images alone, without looking at the base (the base's
+   errors are mostly breathings and accents, which a correction of the base would carry
+   over), into `tmp/grc-retypeNN/` in the usual form, a few pages at a time; the batch is
+   then compared and decided as before (steps 2–6 below). Before 13, the form of the notes
+   is taken from `292` and `343`. Commits: after 12, then one set for 13–15.
 2. **The deciding** of retypes 07–15 (step 2), when the user asks: batch by batch in
    page order, each with its section in DONE.md.
 3. **Read-through** (step 3), then **the corrigenda** with the user (step 4), then **the
@@ -94,17 +103,23 @@ Open points, for the user:
   `Ὃς`, `Ἃ` (rough with grave, "Settled readings") stands on `Ἢν` (`190` 9, 20; `232`
   22), where the word (`ἐάν`) has the smooth breathing; at twelve times the two cannot be
   told apart. Written `Ἢν` by the grammar for now; if the mark is the rough one, these
-  are misprints (`{{Ἣν|Ἢν}}`).
+  are misprints (`{{Ἣν|Ἢν}}`). Retype 12: the same mark stands on `Ἢ` "or" (`265` 4,
+  `278` 10, `279` 19), smooth by the grammar, and on `Ἓξ` "six" (`280` 21), rough: the
+  roman mark seems to be one sort for both, which supports `Ἢν` (`259` 16, `264` 7,
+  `268` 7, `272` 12 written so).
 - **`231` 10 `εἷς`** (rough, circumflex, final sigma) where the sense ("who are you")
   would want `εἶ`: written as printed, not marked; for the user.
 
 - **`ᾀεὶ` with the iota subscript** is marked as a misprint by the settled reading, but it
-  is now printed in twelve places (`038`, `077`, `107`, `110`, `120`, `124`, `165`,
-  `219`, `234`, `248`, `252`; `198` `Κᾀεὶ`, the crasis), and `ἀεὶ`
+  is now printed in thirteen places (`038`, `077`, `107`, `110`, `120`, `124`, `165`,
+  `219`, `234`, `248`, `252`, `264`; `198` `Κᾀεὶ`, the crasis), and `ἀεὶ`
   without it was read in the image only where a retype differed. It may be the edition's
   spelling. **Held until the whole text is done** (the user, 2026-11-10): until then each
   one is marked as before; then they are counted, and kept as misprints or changed to
   printed, the marks and the rows of misprints.tsv with them.
+- **`θλίψις` with the acute** (for `θλῖψις`) is printed in every place found: `079`
+  (`θλίψιν`), `252`, `263`, and `θλίβον` on `269`. Marked as misprints, as `079`; it may
+  be the edition's spelling. Held with `ᾀεὶ`.
 - **The task of retype 07** names `ᾈττίλαν` (`111` 4) as an error of retype 06; the user
   then read the iota subscript in the image, and it is a misprint the retype found. The
   task was already sent and is not changed: in the deciding of 07, a subscript missing

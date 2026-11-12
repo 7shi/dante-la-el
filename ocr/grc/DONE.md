@@ -459,3 +459,40 @@ The record of the check of `ocr/grc` planned in [PLAN.md](PLAN.md), step by step
   5, 7 and 9.
 - `convert_grc.py`: its report as the baseline; `texts/grc` regenerated (cantos
   XXVIII–XXXI). `misprints.py`: 54 rows, 54 marks, 0 problems.
+
+## Step 2: retype 12 (2026-11-12)
+
+- **Pages** (27): `259`–`285` (cantos XXXI–XXXIV, to the end of the poem). Retyped by
+  **Claude (Opus 5.5) directly**, not by a delegate (the user, 2026-11-12, PLAN.md "The
+  work ahead"): written from the page images alone, without the base, each page read in
+  three strips at twice its size. The base had ornament lines at the opening of canto
+  XXXIV (`278`) and no signatures on `261`, `263`, `277`, `279`: changed as found.
+- **Compared**: `cmpread.py`, 100 places (A 46, B 54); each read in the image, the marks
+  at eight to twelve times beside sure ones of the same pages.
+- **Decided** (readcheck.tsv, 103 rows: the 100 places and three marks seen besides):
+  - **Misread**, 91, all in the base: accents (`παρῆσθα`, `δή` twice, `Ἤκουσά του`,
+    `πρός με`, `εἴησάν`, `Γνούς`, `φθέγγομαί`, `ἐπεῖπε`, `πῖλός`, `Σολδανεῖρον`,
+    `ἔσθ᾽`, `ἔδακόν`, `ὁρμὴν`, `ὀδάξ`, `Πίσα`, `ἄνεμόν`, `ἄρατ᾽`, `εἴμ᾽`, `Κὺρ`,
+    `καθεῖρκται`, `Γενεάται`, `Μυλών`, `Κλαυθμώνων`, `φωτός`, `ἔστ’`, `οὗπερ`,
+    `καθὼς`, `Ἀνσελμούκιός`), breathings and their accents (`Ἔλαβ᾽`, `Οὑτωσὶ`, `ὅδε`,
+    `Ἵν’` three times, `ἡλουμένην`, `Ὕπερθεν`, `οὑμὸς` / `Οὑμός` / `Οὑμὸς`, `ἁμαρτωλὸν`,
+    `Ἔνθ’`, `Ὄντως` twice, `Ὤ`, `Εἷλε`, `ἢ`), crasis (`κᾆτα`, `κἄλλους`, `κἆρτον`,
+    `τοὖναρ`, `Τοὐμοῦ`, `τἆστρα`), the iota subscript (`προῃρούμην`, `προδότῃ`,
+    `ὁρᾷν` three times, `συνῃσθανόμην`, `ἀφῄρεσεν`, `ἀφίξῃ`), `Ἢν` for the roman `^`
+    (`264` 7, `272` 12), `ῤῥ`, words (`πάρωρον`, `συμμεμιγμένας`, `ἐλύσσων`,
+    `Ἀξιωτέραν`, `Μονταπέρτου`, `ἔκραξε`, `Βριγάναν`, `μου`, `ἵππον`), punctuation
+    (raised dots, a question mark, the nested quotes of `267` 6 and `272` 12–13, an
+    elision mark), the ornament lines emptied, and the signatures.
+  - **Misprints**, 8 (misprints.tsv): `264` `ᾀεί` (held), `265` `Καγώ` (no coronis) and
+    `ἶπον` (no capital; the base had it too), `271` `Α` for `Λ` in the running head,
+    `281` `ὄλμου` (smooth for rough), and the acute of `θλίψις` / `θλίβον` on `252`,
+    `263` and `269`, as `079` (held with `ᾀεὶ`, PLAN.md "Open points").
+  - **Printed**, 4: the retype's errors (below).
+- **The retype** (Opus 5.5) erred in 6 places in 27 pages: an upper dot added (`259` 21),
+  `πολλ᾽` without its accent, the grammar's form written for the printed one (`ὁμίχλη`,
+  `ἠχῷ`, `τοὔναρ`, `ὅλμου`; the last a misprint it found). It found the base's
+  errors in about 90 places. An error shared by the base and the retype would not
+  show (`265` 14 `ἶπον` was seen only in the strips); left to the read-through.
+- `convert_grc.py`: the report as the baseline but the turnover word on `268`
+  (`φθέγγομαί`); `texts/grc` regenerated (cantos XXXI–XXXIV). `misprints.py`: 62 rows,
+  62 marks, 0 problems.
