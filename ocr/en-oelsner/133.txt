@@ -1,17 +1,17 @@
-S. Rises midnight
-Rises 10pm
-Rises 8pm
-W. Rises 6pm
-Rises 4pm
-Rises 2pm
-N. Rises noon
-Rises 10am
-Rises 8am
-E. Rises 6am
-Rises 4am
-Rises 2am
+·S· Rises midnight
+Rises 10 p·m·
+Rises 8 p·m·
+·W· Rises 6 p·m·
+Rises 4 p·m·
+Rises 2 p·m·
+·N· Rises noon
+Rises 10 a·m·
+Rises 8 a·m·
+·E· Rises 6 a·m·
+Rises 4 a·m·
+Rises 2 a·m·
 
-HORIZON
+·HORIZON
 CAPRICORNUS
 SAGITTARIUS
 SCORPIO

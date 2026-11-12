@@ -32,6 +32,6 @@ ma parla, e chiedi a lui se più ti piace.”
 Ond’ io a lui : “Domandal tu ancora 82
 di quel che credi che a me satisfaccia;
 ch’ io non potrei, tanta pietà m’ accora.”
-Però ricominciò : “Se l’ uom ti taccia 85
+Però ricominciò : “Se l’ uom ti {{taccia|faccia}} 85
 liberamente ciò che il tuo dir prega,
 spirito incarcerato, ancor ti piaccia

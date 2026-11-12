@@ -198,3 +198,129 @@ The record of the check ([PLAN.md](PLAN.md)), step by step.
   added from the sense; none is visible (the line starts in the gutter shadow).
 - `convert_en_oelsner.py`: the report as the baseline; `texts/en-oelsner` regenerated
   (`008`, `009`, `010`). `misprints.py`: 8 rows, 8 marks, 0 problems.
+
+## Step 1–2: retype 06 (2026-11-13)
+
+- **Pages** (25): `113`–`137` (the rest of Canto X, Canto XI with the zodiac diagram
+  `133`, the opening of Canto XII). Retyped by **Claude (Opus 5.5)** from the images
+  alone, in three strips at twice the size.
+- **Compared** (`cmpread.py -g --verse-numbers`): 29 places, A 9, B 16, C 2, D 2. No
+  GLM-OCR page left out. After the fixes, 23 places: the diagram `133` (its lines in
+  another order; GLM-OCR left out there, 81 tokens against the base's 128), two page
+  numbers and six class D places, all as printed.
+- **Decided** (readcheck.tsv, 23 rows; the seven places of `133` in one row, the label of
+  `119` in two):
+  - **Misread**, 18:
+    - In the verse: `124` `Fotin` (was `Fotín`); `126` `coscïenza`, `128` `spezïal`
+      (the diaeresis missing); `130` `note,` (was `note’`); `134` `discoscesa` (was
+      `discoscęsa`); `136` `gìa` (was `già`).
+    - In the argument and the English: `119` the label `Prophetic vision of those in
+      Hell` (split in two, `those in Hell` four lines below); `135` `All` (a stray quote
+      before it).
+    - The first letters cut by the scan edge, decided by the room, the stroke left and
+      the sense: `135` `for from` (was `or`), `such` (was `Such`); `137` `so`, `on`,
+      `the` (were capitals) and `But` (was `but`, a new sentence).
+    - In the notes: `120` `in this verse,` (left out at the start of a line); `132`
+      `sqq.` (was `199.`), `ii. 15` (was `ii. 5`).
+    - The diagram `133` rewritten as printed, as `037`: raised dots, not periods
+      (`·S·`, `·HORIZON`), and the times `10 p·m·`, `6 a·m·` (the base `10pm`, `6am`).
+  - **Misprint**, 0.
+  - **Printed**, 4: two class D places (`116` a straight apostrophe, `131` the label
+    `Usury` set in the text); `120`, `130` the page number on its own line in the base.
+- **The retype** made no error found by the comparison.
+- `convert_en_oelsner.py`: the report as the baseline; `texts/en-oelsner` regenerated
+  (`011`, `012`, `013`). `misprints.py`: 8 rows, 8 marks, 0 problems.
+
+## Step 1–2: retype 07 (2026-11-13)
+
+- **Pages** (25): `138`–`162` (the rest of Canto XII, Canto XIII, the opening of Canto
+  XIV). Retyped by **Claude (Opus 5.5)** from the images alone, in three strips at twice
+  the size.
+- **Compared** (`cmpread.py -g --verse-numbers`): 40 places, A 26, B 10, C 0, D 4. No
+  GLM-OCR page left out. After the fixes, 10 places, all decided.
+- **Decided** (readcheck.tsv, 26 rows; the verse numbers of `154` in one, each moved
+  label in one):
+  - **Misread**, 17:
+    - In the verse: `148` `dovrebb’` (was `dovrebbi'`); `152` `spelta;` (the semicolon
+      missing), `Arpíe` (the accent missing); `154` `sanguinenti` (was `sanguimenti`),
+      `miè` (was `mie`), the verse numbers written `^121` (11 lines); `158` `a randa`
+      (was `a' randa`, a speck); `160` `l’ eternale` (was `l'etternale`).
+    - In the English: `153` `again:` (was `again;`), `like` (was `Like`; the scan cuts
+      the first letter); `155` `braches` (was `branches`).
+    - The labels: `149` `Pier delle Vigne`, `155` `Florence` and `161` `Their
+      punishment` each on the wrong line; `159` a stray `plain` (from the label `The
+      sandy plain`) removed.
+    - In the notes: `144` `. .` (was `. . .`); `145` `Æn.` (was `Aen.`).
+  - **Misprint**, 1 (misprints.tsv): `150` `taccia` for `faccia` (v. 85), the first
+    letter printed as `t`, as `042` `tastidiosi`; the base had kept the printed form.
+  - **Printed**, 8: three class D places (`138` `morì`, `152` `sì`, `158` `già`) and
+    `141` the label `Murderers` set in the text by the others; `139` the label `The
+    Centaurs` (between two lines; the base's place kept); `143` the label
+    `Highway-men` (printed over two lines; the column would hold the word unbroken, so
+    the hyphen is kept); `144`, `160` the page number on its own line in the base.
+- **The retype** made three errors: `139` the label `The Centaurs` one line higher (it
+  stands between the lines); `143` `Highwaymen` (the hyphen dropped); `150` `faccia`
+  from the sense (the misprint above).
+- `convert_en_oelsner.py`: the report as the baseline; `texts/en-oelsner` regenerated
+  (`013`, `014`, `015`). `misprints.py`: 9 rows, 9 marks, 0 problems.
+
+## Step 1–2: retype 08 (2026-11-13)
+
+- **Pages** (25): `163`–`187` (the rest of Canto XIV, Canto XV, Canto XVI to v. 123).
+  Retyped by **Claude (Opus 5.5)** from the images alone, in three strips at twice the
+  size.
+- **Compared** (`cmpread.py -g --verse-numbers`): 38 places, A 26, B 9, C 0, D 3. No
+  GLM-OCR page left out. After the fixes, 12 places, all decided.
+- **Decided** (readcheck.tsv, 35 rows):
+  - **Misread**, 24:
+    - In the verse: `164` `si` (was `sì`); `174` `opera`, `rimaser` (were `opra`,
+      `rimasèr`); `176` `servo` (was `serva`, under a pencil stroke), `'Tesoro,'` (was
+      `'Tesoro',`); `180` `Ricominciar` (was `Ricomminciar`); `182` `fussi` (was
+      `fossi`); `184` `disse` (was `disse,`); `186` `parve`, `discoscesa` (were `parvé`,
+      `discosesa`).
+    - In the English: `163` `breast.` (no closing quote printed); `171` `ere` (was
+      `where`), `in` (was `In`); `173` `“There`; `183` `, more` (left out at the line
+      end); `185` `tell` (was `Well`), `“The`, `and the` (was `and, the`), `“If`, `see`
+      (was `See`); `187` `"Surely,"`. Most at the left edge, where the scan cuts the
+      first letter or the quote.
+    - In the notes: `169` `in Crete,` left out (and `‘old man’` given quotes not printed),
+      `.` (was `. . .`; one dot printed); `179` `by Dante` left out at the line end.
+  - **Printed**, 11: six page numbers on their own line in the base (`164`, `168`,
+    `172`, `174`, `176`, `182` — `172` after the running head); three class D places
+    (`169` `Æn.`, `172` `sì`, `tenea`); `169` `17-21` (the retype broke it at the line
+    end as printed); `185` `For` (the first letter cut; the base's capital kept, as
+    `texts/en`).
+- **The retype** made no clear error; `185` `for` (a cut capital) was a judgment the
+  base's reading decided.
+- `convert_en_oelsner.py`: the report as the baseline; `texts/en-oelsner` regenerated
+  (`015`, `016`, `017`). `misprints.py`: 9 rows, 9 marks, 0 problems.
+
+## Step 1–2: retype 09 (2026-11-13)
+
+- **Pages** (25): `188`–`212` (the end of Canto XVI, the map of Romagna, Canto XVII,
+  Canto XVIII). Retyped by **Claude (Opus 5.5)** from the images alone, in three strips
+  at twice the size.
+- **Compared** (`cmpread.py -g --verse-numbers`): 39 places, A 15, B 17, C 0, D 7. No
+  GLM-OCR page left out. After the fixes, 18 places, all decided.
+- **Decided** (readcheck.tsv, 30 rows):
+  - **Misread**, 22:
+    - In the verse: `188` `Commedìa`; `200` `falconiere` (was `Falconiere`) and the
+      dash after `cali!”`; `206` `apprese` (no colon printed), `conio.”` (the quote left
+      out); `208` `viene`, `soprasta` (were `vienè`, `soprastà`), a stray `òl;` after
+      `senno`; `210` `riguardar` (was `rigurardar`).
+    - In the English: `195` `breeses` (was `breezes`); `199` `then`, `there`, `nor`,
+      `than` (the scan cuts the first letters; the base had `Then`, `here`, `or`,
+      `Than`); `201` `so`; `203` `well,` (was `well;`, a speck); `209` `what`.
+    - In the notes: `200` `Guelfs`, `Ubbriachi` (were `Guelphs`, `Ubriachi`).
+    - The signature marks `M` (`189`) and `N` (`205`) left out; on `205` the page
+      number `193` was at the foot, now beside the running head.
+    - The map (`191`): the lower `R. Po` left out.
+  - **Misprint**, 1 (misprints.tsv): `189` `decription` for `description` (note 94-102);
+    the base had corrected it silently.
+  - **Printed**, 7: two page numbers on their own line (`188`, `208`); `196` `sì` (the
+    accent worn; the retype `si`); `202` `Every` / `thing` (the line end cut, as
+    `texts/en`); `206` `la`, `207` `us,` (class D, specks); `207` `If` (the first
+    letter cut; the base's capital kept, as `texts/en`).
+- **The retype** made one error: `196` `si` (the worn accent read as none).
+- `convert_en_oelsner.py`: the report as the baseline; `texts/en-oelsner` regenerated
+  (`017`, `018`, `019`). `misprints.py`: 10 rows, 10 marks, 0 problems.

@@ -7,3 +7,5 @@ page	line	printed	fixed	applied	source	note
 062	22	comforta	conforta	yes	edition	Canto V, v. 44; `comforta` printed; the retype, Tesseract and GLM-OCR read `comforta`; found by the retype.
 080	5	selveggia	selvaggia	yes	edition	Canto VI, note 64-69, `parte selveggia`; `selvaggia` in v. 65; the retype, Tesseract and GLM-OCR read `selveggia`; found by the retype.
 101	12	punished	punished.	yes	edition	Canto VIII, note 68, `have been / punished Within the City`; the period not printed (a wide space only); the retype and Tesseract read `punished`; found by the retype.
+150	35	taccia	faccia	yes	edition	Canto XIII, v. 85; the first letter printed as `t` (no ascender, as `042` `tastidiosi`); the retype reads `faccia` from the sense, Tesseract and GLM-OCR `taccia`; found by the retype.
+189	42	decription	description	yes	edition	Canto XVI, note 94-102, `would answer this decription`; the `s` not printed; the retype and Tesseract read `decription`, GLM-OCR `description`; found by the retype.
