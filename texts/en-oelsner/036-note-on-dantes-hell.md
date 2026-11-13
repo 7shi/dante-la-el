@@ -28,24 +28,24 @@ By sub-division of the first of these categories into 4, and the last into 2, we
 
 <!-- p. 395 (405) -->
 
-Trimmers — 0\
-Heathen — 1
+Trimmers — 0 — 1\
+Heathen — 1 — 2
 
 I. Incontinence\
-&emsp;i. carnality — 2\
-&emsp;ii. gluttony — 3\
-&emsp;iii. avarice — 4\
-&emsp;iv. anger — 5\
-Heretics — 6
+&emsp;i. carnality — 2 — 3\
+&emsp;ii. gluttony — 3 — 4\
+&emsp;iii. avarice — 4 — 5\
+&emsp;iv. anger — 5 — 6\
+Heretics — 6 — 7
 
-II. Violence or Brutishness\
+II. Violence or brutishness\
 &emsp;v. violent — 7\
 &emsp;&emsp;i. against neighbour — 8\
-&emsp;&emsp;ii. against self — 9\
-&emsp;&emsp;iii. against God — 10
+&emsp;&emsp;ii. ,, self — 9\
+&emsp;&emsp;iii. ,, God — 10
 
-III. Fraud or Malice\
-&emsp;vi. simple fraud — 8\
+III. Fraud or malice\
+&emsp;vi. simple — 8\
 &emsp;&emsp;i. seducers and pandars — 11\
 &emsp;&emsp;ii. flatterers — 12\
 &emsp;&emsp;iii. simonists — 13\
@@ -56,10 +56,10 @@ III. Fraud or Malice\
 &emsp;&emsp;viii. evil counsellors — 18\
 &emsp;&emsp;ix. sowers of dissension — 19\
 &emsp;&emsp;x. forgers — 20\
-&emsp;vii. treacherous fraud — 9\
+&emsp;vii. treacherous — 9\
 &emsp;&emsp;i. against kin — 21\
-&emsp;&emsp;ii. against country — 22\
-&emsp;&emsp;iii. against hospitality — 23\
-&emsp;&emsp;iv. against lords and benefactors — 24
+&emsp;&emsp;ii. ,, country — 22\
+&emsp;&emsp;iii. ,, hospitality — 23\
+&emsp;&emsp;iv. ,, lords and benefactors — 24
 
 P. H. W.
