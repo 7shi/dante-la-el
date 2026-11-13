@@ -17,7 +17,7 @@ from dante_corpus.api import CANTO_SPEC_HELP, check_canto_spec, select_cantos
 from llm7shi import Client
 from llm7shi.usage import append_usage, find_usage_file, print_today_totals
 
-from source import SOURCES, source_lines
+from source import SOURCES, TRANSLATED_SOURCES, source_lines
 
 CANTICLE_NAMES = {
     "inferno": "Inferno",
@@ -349,7 +349,7 @@ def main():
     )
     parser.add_argument(
         "-s", "--source",
-        choices=list(SOURCES),
+        choices=TRANSLATED_SOURCES,
         default="it",
         help="Source text to explain and translate (default: it, the Italian; "
              "grc: Musurus's Greek Inferno, translation only)",

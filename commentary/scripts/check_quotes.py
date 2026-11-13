@@ -35,7 +35,7 @@ from pathlib import Path
 
 from dante_corpus.api import CANTO_SPEC_HELP, check_canto_spec, select_cantos
 from generate import LANGUAGES
-from source import SOURCES, source_lines
+from source import SOURCES, TRANSLATED_SOURCES, source_lines
 
 CANTICLES = ["inferno", "purgatorio", "paradiso"]
 
@@ -97,7 +97,7 @@ def main():
     parser.add_argument("-d", "--dir", type=Path, required=True,
                         help="Directory holding <canticle>/<NN>.txt (e.g. el)")
     parser.add_argument("-c", "--canto", help=CANTO_SPEC_HELP)
-    parser.add_argument("-s", "--source", choices=list(SOURCES), default="it",
+    parser.add_argument("-s", "--source", choices=TRANSLATED_SOURCES, default="it",
                         help="Source text the translations follow (default: it)")
     args = parser.parse_args()
     canticles = args.canticles or SOURCES[args.source]["canticles"]

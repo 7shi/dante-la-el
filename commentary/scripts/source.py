@@ -5,8 +5,23 @@ The original text of a canto, line by line, from one of the sources:
 - grc: Musurus's Greek verse translation of the Inferno (1882), read from
   texts/grc/ of this repository; it is line for line, so Greek line n
   renders Italian line n and every canto has the line count of the Italian
+- carlyle: the Italian text printed in Carlyle's Inferno (1889), read from
+  texts/en/ of this repository; its lines are those of dante-corpus (with
+  the readings and the spelling of that edition), and it comes with
+  Carlyle's own English prose translation, so it is only explained
+  (grammar.py), never translated or checked
 
 Each line has .no (the line number) and .text, as the lines of dante-corpus.
+
+The editions printed with an English translation are also read passage by
+passage (Passage: a range of lines, their Italian, and the English that
+renders them):
+
+- carlyle_passages: texts/en, one passage per page, as the English prose of
+  a page renders exactly the verse printed below it
+- oelsner_passages: texts/en-oelsner (the Temple Classics edition, 1903,
+  with Oelsner's Italian text and his revision of Carlyle's translation),
+  one passage per tercet, as the English is printed one paragraph per tercet
 """
 
 import re
@@ -15,27 +30,53 @@ from pathlib import Path
 
 from dante_corpus import ref
 
-GRC_DIR = Path(__file__).resolve().parents[2] / "texts" / "grc"
+TEXTS_DIR = Path(__file__).resolve().parents[2] / "texts"
+GRC_DIR = TEXTS_DIR / "grc"
+CARLYLE_DIR = TEXTS_DIR / "en"
+OELSNER_DIR = TEXTS_DIR / "en-oelsner"
 
 # Per source:
 # - name: the name of the source text, as written into the prompts
+# - language: the language of the source text, as written into the prompts
 # - canticles: the canticles the source covers
+# - prose: (optional) the English prose translation printed with the source,
+#   as written into the prompts; such a source is explained against it, and
+#   is not translated or checked
 SOURCES = {
     "it": {
         "name": "Italian text",
+        "language": "Italian",
         "canticles": ["inferno", "purgatorio", "paradiso"],
     },
     "grc": {
         "name": "Ancient Greek verse translation (by Constantine Musurus, 1882)",
+        "language": "Ancient Greek",
         "canticles": ["inferno"],
     },
+    "carlyle": {
+        "name": "Italian text (as printed in John A. Carlyle's edition, 1889)",
+        "language": "Italian",
+        "canticles": ["inferno"],
+        "prose": "English prose translation by John A. Carlyle (1889)",
+    },
 }
+# The sources that are translated (into <lang>/ or <lang>-<source>/)
+TRANSLATED_SOURCES = [name for name, source in SOURCES.items()
+                      if "prose" not in source]
 
 
 @dataclass
 class Line:
     no: int
     text: str
+
+
+@dataclass
+class Passage:
+    start: int
+    end: int
+    lines: list[Line]
+    english: str
 
 
 # The number printed at the end of every fifth verse line (`… στυγήρης, 5`)
@@ -72,9 +113,180 @@ def grc_lines(canto: int) -> list[Line]:
     return lines
 
 
+# A comment such as the page marker `<!-- p. 2 (056) -->`
+COMMENT_RE = re.compile(r"\s*<!--.*?-->")
+# A paragraph of texts/en that is not verse: a footnote, a heading, or an
+# indented quotation inside a note
+NOT_VERSE = ("[^", "#", " ")
+# Italian verse lines are shorter than this; English prose lines are longer
+MAX_VERSE = 60
+
+
+def verse_block(paragraph: str) -> list[str]:
+    """The verse lines of one paragraph of texts/en, or [] if it is not verse.
+
+    A verse block (one per page, see texts/PLAN.md) has short lines, every
+    one but the last ending with the hard break `\\`; a block of one line is
+    either indented (`&emsp;`) or numbered (a canto's last line, set alone).
+    """
+    rows = [row for row in (COMMENT_RE.sub("", row) for row in paragraph.splitlines())
+            if row.strip()]
+    if not rows or rows[0].startswith(NOT_VERSE):
+        return []
+    if any(not row.endswith("\\") for row in rows[:-1]):
+        return []
+    texts = [row.removesuffix("\\").removeprefix("&emsp;").strip() for row in rows]
+    if any(len(text) > MAX_VERSE for text in texts):
+        return []
+    if len(rows) == 1 and not (rows[0].startswith("&emsp;") or NUMBER_RE.search(texts[0])):
+        return []
+    return texts
+
+
+# A page marker: `<!-- p. 2 (056) -->`, `<!-- p. [1] (013) -->`, or in
+# texts/en-oelsner with its band, `<!-- p. 2 (014), text -->`
+PAGE_RE = re.compile(r"^<!-- p\. \[?(\d+)\]?[^,>]*(?:, (\w+))? -->$")
+# A footnote reference of texts/en, `[^2-1]`
+FOOTNOTE_REF_RE = re.compile(r"\[\^\d+-\d+\]")
+# A verse note of texts/en, `40\. Bruno, brown, …`
+VERSE_NOTE_RE = re.compile(r"^\d+\\\.")
+# The last line of texts/en, after canto XXXIV
+CARLYLE_END = "END OF THE INFERNO."
+
+
+def paragraphs(text: str) -> list[tuple[int | None, str | None, str]]:
+    """(page, band, paragraph) of every paragraph of a texts file, with the
+    page and the band (None if not named) of the last page marker before it."""
+    result = []
+    page = band = None
+    for paragraph in re.split(r"\n\s*\n", text):
+        # Keep the indentation: an indented paragraph is a quotation in a note
+        paragraph = paragraph.strip("\n").rstrip()
+        if match := PAGE_RE.match(paragraph):
+            page, band = int(match.group(1)), match.group(2)
+        elif paragraph:
+            result.append((page, band, paragraph))
+    return result
+
+
+def is_prose(paragraph: str) -> bool:
+    """An English paragraph: not a heading, a footnote, a verse note, an
+    indented quotation, a comment, or verse."""
+    return (not paragraph.startswith(NOT_VERSE + ("<!--",))
+            and not VERSE_NOTE_RE.match(paragraph)
+            and not verse_block(paragraph))
+
+
+def english(paragraph: str) -> str:
+    """A paragraph as plain text: without comments, footnote references, and
+    hard line breaks."""
+    text = FOOTNOTE_REF_RE.sub("", COMMENT_RE.sub("", paragraph))
+    return " ".join(row.removesuffix("\\").strip() for row in text.splitlines())
+
+
+def numbered(lines: list[Line], text: str, path: Path, resync: bool) -> Line:
+    """The next verse line, numbered by the count of lines so far. A printed
+    number must match the count, or, with resync, sets it (after a gap)."""
+    no = lines[-1].no + 1 if lines else 1
+    if match := NUMBER_RE.search(text):
+        number = int(match.group(1))
+        if number != no and not resync:
+            raise ValueError(f"{path}: line {no} numbered {number}")
+        no, text = number, text[: match.start()]
+    return Line(no, text)
+
+
+def carlyle_passages(canto: int) -> list[Passage]:
+    """One passage per page of texts/en: the verse printed on the page and
+    the English prose above it. The pages before the first verse (the
+    argument) are left out."""
+    (path,) = CARLYLE_DIR.glob(f"*-canto-{canto:02d}.md")
+    pages: dict[int, tuple[list[Line], list[str]]] = {}
+    lines: list[Line] = []
+    for page, _, paragraph in paragraphs(path.read_text()):
+        verse, prose = pages.setdefault(page, ([], []))
+        if texts := verse_block(paragraph):
+            for text in texts:
+                lines.append(numbered(lines, text, path, False))
+                verse.append(lines[-1])
+        elif is_prose(paragraph) and paragraph != CARLYLE_END:
+            prose.append(english(paragraph))
+    passages = []
+    for page, (verse, prose) in pages.items():
+        if not passages and not verse:
+            continue  # the argument
+        if not verse or not prose:
+            raise ValueError(f"{path}: p. {page} has no {'prose' if verse else 'verse'}")
+        passages.append(Passage(verse[0].no, verse[-1].no, verse, " ".join(prose)))
+    return passages
+
+
+def carlyle_lines(canto: int) -> list[Line]:
+    """The Italian verse of one canto of texts/en, without the English prose,
+    the notes, the page comments, the indentation, and the line numbers."""
+    return [line for passage in carlyle_passages(canto) for line in passage.lines]
+
+
+def oelsner_passages(canto: int) -> list[Passage]:
+    """One passage per spread of texts/en-oelsner: the Italian of an even
+    page and the English of the odd page facing it, which renders exactly
+    the tercets that begin on the even page (a passage may thus end before
+    the last line of its page, or run past it). The argument and the notes
+    are left out. Where a page is missing (canto XXXIV), the lines it would
+    give or translate are left out, and the line numbers go on from the
+    printed tercet numbers."""
+    lines, italian, english_pages = read_oelsner(canto)
+    last = lines[-1].no
+    by_no = {line.no: line for line in lines}
+    # The tercets that begin on each page; the canto's last line, set alone,
+    # belongs to the last tercet
+    firsts = {page: [line.no for line in verse if line.no % 3 == 1 and line.no != last]
+              for page, verse in italian.items()}
+    passages = []
+    for page, nos in firsts.items():
+        if not nos or not (paras := english_pages.get(page + 1)):
+            continue  # no tercet begins here, or the facing English page is missing
+        end = last if nos[-1] + 3 >= last else nos[-1] + 2
+        verse = [by_no[no] for no in range(nos[0], end + 1) if no in by_no]
+        passages.append(Passage(nos[0], end, verse, " ".join(paras)))
+    return passages
+
+
+def oelsner_lines(canto: int) -> list[Line]:
+    """The Italian verse of one canto of texts/en-oelsner (without the lines
+    of a missing page)."""
+    return read_oelsner(canto)[0]
+
+
+def read_oelsner(canto: int):
+    """The verse lines of a canto of texts/en-oelsner, the verse lines of each
+    page, and the English paragraphs of each odd page."""
+    (path,) = OELSNER_DIR.glob(f"*-canto-{canto:02d}.md")
+    text = path.read_text().split("\n## Notes\n")[0]
+    italian: dict[int, list[Line]] = {}
+    english_pages: dict[int, list[str]] = {}
+    lines: list[Line] = []
+    argument = False
+    for page, band, paragraph in paragraphs(text):
+        if paragraph.startswith("## Argument"):
+            argument = True
+        elif texts := verse_block(paragraph):
+            argument = False
+            for row in texts:
+                lines.append(numbered(lines, row, path, True))
+                italian.setdefault(page, []).append(lines[-1])
+        elif band == "text" or not argument:
+            argument = False
+            if is_prose(paragraph) and page % 2:
+                english_pages.setdefault(page, []).append(english(paragraph))
+    return lines, italian, english_pages
+
+
 def source_lines(source: str, canticle: str, canto: int) -> list[Line]:
     if canticle not in SOURCES[source]["canticles"]:
         raise ValueError(f"source {source} has no {canticle}")
     if source == "grc":
         return grc_lines(canto)
+    if source == "carlyle":
+        return carlyle_lines(canto)
     return [Line(line.no, line.text) for line in ref(f"{canticle} {canto}")]

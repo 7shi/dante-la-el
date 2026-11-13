@@ -52,7 +52,7 @@ from pydantic import BaseModel, Field
 
 from check_quotes import runs
 from generate import CANTICLE_NAMES, LANGUAGES
-from source import SOURCES, source_lines
+from source import SOURCES, TRANSLATED_SOURCES, source_lines
 
 CANTICLES = list(CANTICLE_NAMES)
 KINDS = ["moved", "function", "missing", "added"]
@@ -236,7 +236,7 @@ def main():
     parser.add_argument("-l", "--lang-code", choices=list(LANGUAGES),
                         help="Language code of the target language (e.g. el); "
                              "required to ask the model or to apply")
-    parser.add_argument("-s", "--source", choices=list(SOURCES), default="it",
+    parser.add_argument("-s", "--source", choices=TRANSLATED_SOURCES, default="it",
                         help="Source text the translations follow (default: it)")
     parser.add_argument("-d", "--dir", type=Path, required=True,
                         help="Directory holding <canticle>/<NN>.txt (e.g. el)")
