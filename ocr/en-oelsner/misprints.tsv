@@ -44,15 +44,21 @@ page	line	printed	fixed	applied	source	note
 284	20	85-90	85-90.	yes	edition	Note on Canto XXIV, vv. 85-90, no period after the verse numbers; found by the read-through.
 297	24	*sqq*	*sqq*.	yes	edition	Note on Canto XXV, vv. 94-97, no period at the end of the note; found by the read-through.
 308	3	53, 54,	53, 54.	yes	edition	Canto XXVI, the note `53, 54, Eteocles and Polynices`; a comma after the verse numbers for the period of every other note; the retype, Tesseract and GLM-OCR read the comma; found by the retype.
+311	41	.	:	yes	edition	Canto XXVII, v. 24 (English), `speak with me.` before lowercase `thou seest`; found by the read-through.
 314	33	caiscun	ciascun	yes	edition	Canto XXVII, v. 87, `chè caiscun suo nimico era Cristiano`; the retype, Tesseract and GLM-OCR read `caiscun`; found by the comparison.
 331	35	stratagem	stratagem.	yes	edition	Canto XXVIII, the note on vv. 7-18, `by a stratagem The latter`; no period printed before the next sentence; the retype, Tesseract and GLM-OCR read none; found by the comparison.
+332	6	55-60	55-60.	yes	edition	Note on Canto XXVIII, vv. 55-60, no period after the verse numbers; found by the read-through.
 336	18	Cosi	Così	yes	edition	Canto XXIX, v. 37, `Cosi parlammo infino al loco primo`; the accent not printed; the retype and GLM-OCR read `Cosi`; found by the comparison.
+340	7	risposa	rispose	yes	edition	Canto XXIX, v. 92, `risposa l' un piangendo`; found by the read-through.
 345	26	iv	iv.	yes	edition	the Della Scala table, the footnote `Conv. iv 16: 71, 72`; no period printed after the book number; the retype and Tesseract read none; found by the comparison.
 345	28	xviii	xviii.	yes	edition	the Della Scala table, the footnote `Purg. xviii 124-126`; no period printed after the canto number; the retype read none; found by the comparison.
+351	9	us	us,	yes	edition	Canto XXX, v. 60 (English), `said he to us “look`; found by the read-through.
+357	25	water	water.	yes	edition	Note on Canto XXX, v. 128, no period at the end of the note; found by the read-through.
 360	21	cosi	così	yes	edition	Canto XXXI, v. 37, `cosi forando l' aura grossa e scura`; the accent not printed; the retype and GLM-OCR read `cosi`; found by the comparison.
 361	47	excutioners	executioners	yes	edition	Canto XXXI, v. 51, `taking away such excutioners from Mars`; the retype, Tesseract and GLM-OCR read `excutioners`; found by the comparison.
 362	11	si	sì	yes	edition	Canto XXXI, v. 61, `si che la ripa, ch' era perizoma`; the accent not printed; the retype and GLM-OCR read `si`; found by the comparison.
 364	9	'	"	yes	edition	Canto XXXI, v. 85, `'Questo superbo voll' esser esperto`; Virgil's speech opened with a single quote and closed with a double one (`Giove,"`); the retype and GLM-OCR read `'`; found by the comparison.
+392	31	38	38.	yes	edition	Note on Canto XXXIII, v. 38, no period after the verse number; found by the read-through.
 402	14	rusceletto	ruscelletto	yes	edition	Note on Canto XXXIV, v. 130, quoting `ruscelletto` (printed so in the verse, `400`); the retype, Tesseract and GLM-OCR read `rusceletto`; found by the comparison.
 403	16	10	10.	yes	edition	Note on Dante's Hell; the period before `The primary division` not printed; the retype and Tesseract read `10`; found by the retype.
 406	35	calendar	calendar.	yes	edition	The Chronology of the Inferno; no period before `All discussions`; the retype reads `calendar`; found by the comparison.

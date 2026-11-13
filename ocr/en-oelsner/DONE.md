@@ -754,3 +754,61 @@ Scans `279`–`303` (canto XXIV 88 to canto XXVI 84, 25 pages), read by Claude (
 - `convert_en_oelsner.py`: the report as the baseline; in `texts/en-oelsner` only the
   decided places changed (cantos XVIII–XXVI). `misprints.py`: 58 rows, 58 marks, 0
   problems.
+
+## Step 3: read-through 12 (2026-11-14)
+
+Scans `304`–`328` (canto XXVI 85 to canto XXVIII 120, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 4; decided (readcheck.tsv, note `read`):
+  - **Misprints**, 1 (misprints.tsv): `311` `speak with me.` before lowercase `thou
+    seest` (XXVII 24; Carlyle has a colon).
+  - **Printed**, 3: `309` `( _Æn_.` (a space after the bracket); `316` `perché` (XXVII
+    99); `327` the label `Pier della Medicina` (`Pier da Medicina` in the text).
+- A note continued from the page before after a dash was joined with a space
+  (`it.— Ulysses`, `308`/`309`). `convert_en_oelsner.py` now joins such a note with no
+  space, as within a page; this was the only case.
+
+## Step 3: read-through 13 (2026-11-14)
+
+Scans `329`–`353` (canto XXVIII 88, the English, to canto XXX 120, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 5; decided (readcheck.tsv, note `read`):
+  - **Misreadings**, 1: `335` `), — where` (no spaces at the dash in the image).
+  - **Misprints**, 3 (misprints.tsv): `332` `55-60` with no period; `340` `risposa`
+    (XXIX 92; `rispose` 22 times elsewhere); `351` `said he to us “look` (XXX 60, no
+    comma).
+  - **Printed**, 1: `330` `mai comforti` (XXVIII 135).
+
+## Step 3: read-through 14 (2026-11-14)
+
+Scans `354`–`378` (canto XXX 121 to canto XXXII 139, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 6; decided (readcheck.tsv, note `read`):
+  - **Misreadings**, 3: `354` `«A te` for `“A te` (XXX 121); `358` `( *Zech*`, `( *Gen*`,
+    `( *Job*` (no space after the bracket in the image); `366` `serrà` (XXXI 123; the
+    mark is a speck, rhyme `terra`).
+  - **Misprints**, 1 (misprints.tsv): `357` the note `128. The specchio di
+    Narcisso=water` with no period.
+  - **Printed**, 2: `357` `97-98.`; `375` the label `Bocca degli Abbati`.
+
+## Step 3: read-through 15 (2026-11-14)
+
+Scans `379`–`412` (canto XXXII 121, the English, to the end matter, 34 pages; pp. 385–386 missing),
+read by Claude (Opus 5.5). The last batch took in the end matter (`403`–`412`), being
+only 9 pages after `403`.
+
+- **Flagged**, 7; decided (readcheck.tsv, note `read`):
+  - **Misreadings**, 3: `378` the notes on XXXII 11-62 run into one paragraph in the
+    base, set apart as printed (`28, 29.`, `32, 33.`, `41-60.`, `61, 62.`), and `N. W.`
+    for `N.W.`; `400` `37–45.`, `55–67.` with en dashes for the printed hyphens.
+  - **Misprints**, 1 (misprints.tsv): `392` `38 figliuoli.` with no period (and
+    `figliuoli` italic, as printed).
+  - **Printed**, 3: `380` the note on v. 88 before that on 73-111; `383` `silent as
+    Paolo.` before `(1-90)`; `389` `[down]-` / `wards`.
+- `[down]-` / `wards` (`389`) was joined as `[down]- wards`: `convert_en_oelsner.py` now
+  joins a line ending in `]-` to a lowercase word with no hyphen (`[down]wards`).
+- **Batches 12–15**: 6 misprints and 7 misreadings in 109 pages.
+- `convert_en_oelsner.py`: the report as the baseline; in `texts/en-oelsner` only the
+  decided places changed (cantos XXVI–XXXIV). `misprints.py`: 64 rows, 64 marks, 0
+  problems.
+- **The read-through is done** for every page of `texts/en-oelsner`.

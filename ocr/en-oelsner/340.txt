@@ -4,7 +4,7 @@
 che son quinc' entro, se l' unghia ti basti
 eternalmente a cotesto lavoro.”
 “Latin sem noi, che tu vedi sì guasti 91
-qui ambo e due,” risposa l' un piangendo;
+qui ambo e due,” {{risposa|rispose}} l' un piangendo;
 “ma tu chi se', che di noi domandasti?”
 E il duca disse: “Io son un che discendo 94
 con questo vivo giù di balzo in balzo,

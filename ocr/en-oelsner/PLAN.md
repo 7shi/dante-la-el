@@ -18,7 +18,7 @@ Step 0 (setup) done, and the trial (retype 01: `014`, `015`, `024`, `025`, `249`
 decided (DONE.md). GLM-OCR is run over all pages by the user, in page order (its
 batches 1–5); `cmpread.py` takes it (step 0.7, done). Retypes 02 (`007`–`037`), 03
 (`038`–`062`), 04 (`063`–`087`), 05 (`088`–`112`), 06 (`113`–`137`), 07 (`138`–`162`), 08 (`163`–`187`), 09 (`188`–`212`), 10 (`213`–`237`), 11 (`238`–`262`), 12 (`263`–`287`), 13 (`288`–`312`), 14 (`313`–`337`), 15 (`338`–`362`), 16 (`363`–`387`) and 17 (`388`–`412`) decided:
-steps 1 and 2 are done for every page. Step 3, the read-through: the trial (`007`–`028`) and batches 01–11 (`029`–`303`) done. Next: batch 12 from `304`.
+steps 1 and 2 are done for every page. Step 3, the read-through, done: the trial (`007`–`028`) and batches 01–15 (`029`–`412`). Next: step 4 (close), then step 5 (map images).
 
 ## The text
 
@@ -161,6 +161,11 @@ steps 1 and 2 are done for every page. Step 3, the read-through: the trial (`007
    - texts/PLAN.md "Status", and the README of `ocr/en-oelsner` (the check in "Credits").
    - ocr/PLAN.md "State": all three texts done.
    - Commits, `ocr/en-oelsner` and `texts/en-oelsner` apart, when the user asks.
+5. **Map images** (the user, 2026-11-13), after the read-through: the maps and plates are
+   cut from the scans as images into `texts/en-oelsner/images/`, and the Markdown of
+   `texts/en-oelsner` shows them where they are printed (the text of their names kept).
+   The cutting goes into the conversion or a script of `texts/scripts`, so that it can
+   be run again.
 
 ## Decisions for this text
 

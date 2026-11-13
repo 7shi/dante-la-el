@@ -493,13 +493,16 @@ page	line	form	decision	note
 307	42	to heaven	misread	cmp A; `to heaven` left out at the line end
 308	3	{{53, 54,|53, 54.}}	misprint	cmp A; a comma printed after the verse numbers for the period; the base had `53, 54.`
 309	13	Caïeta	misread	cmp B; was `Caieta`
+309	13	( _Æn_. vii.	printed	read; the space after the bracket as printed
 310	12	gía	misread	cmp A; was `gia`
 310	18	Cicilian … mugghiò	misread	cmp A; was `Sicilian … mugghì`
+311	41	speak with me{{.|:}}	misprint	read; Canto XXVII, v. 24; a period before lowercase `thou seest` (Carlyle has a colon)
 312	9	Tever	misread	cmp A; was `Tevèr`
 313	34	governance, there,	misread	cmp A; was `governance there,`
 314	33	{{caiscun|ciascun}}	misprint	cmp A; marked; the base had `ciascun`
 315	15	Narrative	misread	cmp B; was `narrative` in the label
 315	40	Boniface	misread	cmp A; the label was `Boniface VIII`; `VIII` not printed
+316	11	perché	printed	read; Canto XXVII, v. 99; the acute as printed (`perchè` elsewhere)
 316	15	disserrare	misread	cmp A; was `disserrrare`
 317	48	U	misread	cmp B; the signature mark left out
 318	1	306 INFERNO	misread	cmp B; the running head was split over three lines
@@ -521,18 +524,22 @@ page	line	form	decision	note
 326	7	Noarese	misread	cmp A; was `Novarese`
 326	25	dichina.	misread	cmp A; was `dichina."`; no quotation mark printed
 327	7	Novarese,	misread	cmp A; the comma left out
+327	14	Pier della Medicina	printed	read; the label as printed (`Pier da Medicina` in the text)
 327	23	Latian	misread	cmp A; was `Latin`
 328	2	farà	misread	cmp A; the tercet numbers 88-118 written at the line starts; removed (11 lines)
 328	25	gìo	printed	cmp D; Tesseract and GLM-OCR `gio`; nothing to do
 330	7	;	printed	cmp B; the retype had `,`; the semicolon printed
+330	17	che diedi al re giovane mai comforti.	printed	read; Canto XXVIII, v. 135; `mai comforti` as printed (the old form with `m`), not changed
 330	18	ribelli;	misread	cmp A; was `ribelli:`
 331	35	{{stratagem|stratagem.}}	misprint	cmp A; marked; the base had `stratagem.`
+332	6	{{55-60|55-60.}}	misprint	read; note on XXVIII 55-60; no period after the verse numbers
 333	15	I.	printed	cmp B; the retype had `i.`; the figure read as in the base; nothing to do
 333	32	hostilities,	misread	cmp A; the comma left out
 333	41	X	misread	cmp B; the signature mark left out
 334	17	si	misread	cmp A; was `sì`
 334	29	risposta,	misread	cmp A; the comma left out
 335	8	of Arezzo	misread	cmp A; was `di Arezzo`
+335	10	46-129),—where	misread	read; was `46-129), — where`; no spaces at the dash in the image
 335	37	one of his own kindred	misread	cmp B; was `One` in the label
 336	4	qui	misread	cmp A; was `quì`
 336	8	udi … Geri	misread	cmp A; was `udì … Gerì`
@@ -543,6 +550,7 @@ page	line	form	decision	note
 337	19	Their punishment	misread	cmp B; the label was set two lines lower
 339	29	spotted	misread	cmp A; was `spotted and`; `and` not printed (the label `Capocchio` beside it)
 340	7	piangendo;	misread	cmp A; was `piangendo:`
+340	7	{{risposa|rispose}}	misprint	read; Canto XXIX, v. 92; `risposa` in the image (`rispose` 22 times elsewhere)
 341	26	people; let not	misread	cmp A; `; let not` left out
 341	44	Minos	misread	cmp B; was `Minoe`
 342	15	disperse	misread	cmp A; was `disperşe`
@@ -558,15 +566,20 @@ page	line	form	decision	note
 348	30	anguinaia	misread	cmp A; was `inguinaia`
 349	47	Y	misread	cmp B; the signature mark left out
 350	1	338 INFERNO	misread	cmp B; the running head was split over two lines
+351	9	said he to {{us|us,}}	misprint	read; Canto XXX, v. 60 (English); no comma before the quotation (Carlyle has one)
 352	1	340 INFERNO	misread	cmp B; the running head was split over two lines
 352	3	sì	printed	cmp D; Tesseract and GLM-OCR `si`; nothing to do
 352	15	si	misread	cmp A; was `sì`
 352	29	là	printed	cmp D; Tesseract and GLM-OCR `la`; nothing to do
 352	35	siati	misread	cmp A; was `sìati`
+354	2	“A te sia rea	misread	read; Canto XXX, v. 121; was `«A te`: an English opening quote in the image
 354	4	sì	misread	cmp A; was `si`
 354	14	senti’	misread	cmp A; was `sentí’`
 356	5	Cavalcanti	misread	cmp A; the page was joined into one line per paragraph; rewritten with the printed lines, the italics kept
+357	18	97-98.	printed	read; the verse numbers with a hyphen as printed
 357	22	Æn	misread	cmp B; was `Aen`
+357	25	{{water|water.}}	misprint	read; note on XXX 128; no period at the end of the note
+358	6	(*Zech*.	misread	read; was `( *Zech*`, also `( *Gen*` (13) and `( *Job*` (14); no space after the bracket in the image
 358	15	1-45	misread	cmp A; was `I-45`
 359	4	speech;	printed	cmp B; the retype had `,`; the semicolon printed; nothing to do
 359	6	Eloq.	misread	cmp A; was `Elog.`
@@ -582,6 +595,7 @@ page	line	form	decision	note
 365	4	Ephialtes	printed	cmp D; Tesseract and GLM-OCR set the labels elsewhere; nothing to do
 365	21	Briareus	printed	cmp D; Tesseract and GLM-OCR set the label elsewhere; nothing to do
 365	48	Z	misread	cmp B; the signature mark left out
+366	8	serra.	misread	read; Canto XXXI, v. 123; was `serrà`: the mark above the `a` is a speck, not an accent (rhyme `terra`, `guerra`)
 366	19	prenda";	misread	cmp A; was `prenda"`; the semicolon left out
 366	20	sì	printed	cmp D; Tesseract and GLM-OCR `si`; nothing to do
 368	1	356 NOTES	misread	cmp B; the running head was split over two lines
@@ -599,6 +613,7 @@ page	line	form	decision	note
 375	23	saw a	printed	cmp D; Tesseract and GLM-OCR `sawa`; nothing to do
 375	26	Their punishment	misread	cmp B; the label was set two lines lower
 375	32	Abbati	misread	cmp B; was `Abati` in the label
+375	32	Bocca degli Abbati	printed	read; the label as printed (`Abati` in the argument)
 375	41	me here	printed	cmp D; Tesseract and GLM-OCR `mehere`; nothing to do
 376	1	364 INFERNO	misread	cmp B; the running head was split over two lines
 376	12	cuticagna,	misread	cmp A; the comma left out
@@ -606,16 +621,22 @@ page	line	form	decision	note
 377	13	icy slope	misread	cmp B; was `icyslope`
 377	35	what	misread	cmp A; the lines broken otherwise than printed; set as printed; `ready.”` had a closing quote not printed
 378	28	Tambernic	misread	cmp A; was `Tamubernic`
+378	28	28, 29. Tambernic is apparently a mountain in the	misread	read; the notes on XXXII 11-62 ran as one paragraph in the base; blank lines put before `28, 29.`, `32, 33.`, `41-60.` and `61, 62.`, new paragraphs in the image
+378	30	in N.W.	misread	read; was `N. W.`; no space in the image
+380	12	88. According to medieval tradition (as preserved	printed	read; the note on v. 88 before the note on 73-111, in the printed order
 382	3	WHEREWITHAL	misread	cmp A; was `HEREWITHAL` (the drop capital left out)
 382	4	quæ	misread	cmp B; was `quae`
 382	5	hæc	misread	cmp B; was `haec`
+383	5	silent as Paolo.	printed	read; the point before `(1-90)` as printed
 386	1	374 INFERNO	misread	cmp B; the running head was split over two lines
 386	4	uscio	misread	cmp A; was `uscìo`
 386	6	Come	misread	cmp B; was `Com’`
 387	41	sì	misread	cmp B; was `si`
 388	1	376 INFERNO	misread	cmp B; the running head was split over two lines
 389	8	Uguccione	misread	cmp A; was `Ugccione`
+389	12	not bent [down]-	printed	read; the word hyphenated after the bracket; the converter now joins it as `[down]wards`
 392	1	380 INFERNO	misread	cmp B; the running head was split over two lines
+392	31	{{38|38.}} *figliuoli*.	misprint	read; note on XXXIII 38; no period after the verse number; `figliuoli` italic in the image (roman in the base)
 392	32	Uguccione	misread	cmp A; was `Ugiccione`
 393	20	sqq.,	misread	cmp A; the comma left out
 393	26	1 Maccabees	misread	cmp A; was `I`; the old-style figure 1
@@ -625,6 +646,7 @@ page	line	form	decision	note
 399	23	His doubts	misread	cmp A, B, D; the label `are dispelled by Virgil` was joined to it; set two tercets lower as printed
 400	5	sì	printed	cmp D; Tesseract and GLM-OCR `si`; nothing to do
 400	15	ruscelletto	misread	cmp A; was `ruscelleto`
+400	30	37-45.	misread	read; was `37–45.`, also `55–67.` (36); a hyphen in the image, as in the other notes
 400	37	benefactors,	printed	cmp D; Tesseract and GLM-OCR `benefactors.`; a point before lowercase, written as a comma; nothing to do
 401	22	tortuous	misread	cmp A; the word left out
 401	29	till they regain the outer world	misread	cmp B; was `Till` in the label
