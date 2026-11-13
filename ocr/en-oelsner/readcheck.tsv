@@ -2,6 +2,7 @@ page	line	form	decision	note
 011	7	MDCCCCIII · PUBLISHED · BY · J · M · DENT ·	misread	cmp B; was `MDCCCCIII • PUBLISHED • BY • J.M. DENT •`; the title-page imprint (red) has raised dots between all words and letters, `J·M·`
 011	8	AND · CO: ALDINE · HOUSE · LONDON · W · C ·	misread	cmp A, B; was `AND • CO: • ALDINE • HOUSE • LONDON • W.C. •`; no dot after `CO :`, `W·C·`
 013	4	774552	printed	cmp B; a library's stamped number below the motto, kept as in the base; the retype left it out
+016	9	Poi ch' ei posato	printed	read; Canto I, v. 28; `ei` without an accent in the image (dante-corpus `èi`), the edition's reading
 016	23	pelle	misread	cmp A; was `pelle.`; no period printed
 016	24	l' ora	misread	cmp A; was `L' ora`
 016	31	sembiava	misread	cmp A; was `sembrava`; all three readings `sembiava`
@@ -19,8 +20,10 @@ page	line	form	decision	note
 022	32	Convito	misread	cmp A; was `Convitio`
 023	1	CANTO I 11	misread	cmp B; was `CANTO I II`
 023	12	o happy	misread	cmp A; was `“o happy`; a speck before `o`, no quotation mark
+023	12	o happy	printed	read; the lowercase `o` after the colon in the image (`texts/en` `O happy`)
 024	47	117)	misprint	cmp B; marked `{{117)|117).}}`; the base had `117).`
 025	1	FELTRO	misread	cmp C; the map rewritten as printed, the names line by line: the base had expanded `R.` to `River` (`R. Piave`, `R. Arno`), written the capitals in normal case (`VERONA`, `MARSEILLES`, `FLORENCE`, `MEDITERRANEAN SEA`, `S. AGATA FELTRIA`, `MACERATA FELTRIA`), made `S. MARINO` / `MONTE FELTRO` one `Monte San Marino`, added `River Ombrone` (not on the map) and left out `R. Adige` and `R. Reno`
+025	38	{{Paradiso.|Paradiso,}}	misprint	read; the caption of the map, a period printed after `Paradiso` before `ix.` (a comma after `Inferno`)
 026	17	sì	printed	cmp D; Tesseract and GLM-OCR `si`; the accent printed
 028	2	INFERNO	printed	cmp B; the page number `16` on its own line in the base
 028	14	folle;	misread	cmp A; was `folle:`

@@ -569,3 +569,23 @@ The record of the check ([PLAN.md](PLAN.md)), step by step.
   hyphen joined on `411` (`attach-ment`), and the note line of `401` now ending `of the`;
   the report taken as the new baseline. `texts/en-oelsner` regenerated (`034`–`036`,
   `040`, `041`). `misprints.py`: 28 rows, 28 marks, 0 problems.
+
+## Step 3: read-through, trial (2026-11-13)
+
+Scans `007`–`028` (the front matter and canto I to II 57, 20 pages), read by Claude
+(Opus 5.5) itself. The pages by `pages.py` into `tmp/read/` (it takes the pages from
+`013`; the front matter was read in `001-title-page.md`), read for sense, the flagged
+places decided in the image.
+
+- **Flagged**, 3; decided (readcheck.tsv, note `read`):
+  - **Misprint**, 1 (misprints.tsv): `025` the map caption, `"Paradiso." ix. 82-93`,
+    a period printed for the comma (`"Inferno," i. 105` before it).
+  - **Printed**, 2: `016` `Poi ch' ei posato` (I 28; dante-corpus `èi`), the edition's
+    reading; `023` `o happy` with a lowercase `o` after the colon (`texts/en` `O happy`).
+- **Not flagged**: the spaces before `;` and `:` (`014` `there ;`, `018` `Risposemi :`)
+  are as the base sets them and change no word.
+- **The trial**: the pages had been compared with three readings (the retype,
+  Tesseract, GLM-OCR), so a reading for sense found little: one mark of punctuation.
+  The batches of 25 scans follow in the same way.
+- `convert_en_oelsner.py`: the report as the baseline; only the marked word changed in
+  `texts/en-oelsner`. `misprints.py`: 29 rows, 29 marks, 0 problems.

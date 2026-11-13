@@ -1,5 +1,6 @@
 page	line	printed	fixed	applied	source	note
 024	47	117)	117).	yes	edition	The last note of Canto I; the closing period not printed (a speck stands well apart); the retype reads `117)`, Tesseract `117)`; found by the retype.
+025	38	Paradiso.	Paradiso,	yes	edition	The caption of the map after Canto I; a period printed after `Paradiso` before `ix. 82-93`, against the comma after `"Inferno," i. 105`; found by the read-through.
 034	47	vi	vi.	yes	edition	Canto II, note 25-27, `Æn. vi 757`; the period not printed at the line end (`Æn. vi. 236-900` above); the retype and Tesseract read `vi`; found by the retype.
 038	5	dell Inferno	dell’Inferno	yes	edition	Canto III, the marginal label `Porta dell` / `Inferno`; no apostrophe printed after `dell`; the retype reads `dell Inferno`; found by the retype.
 042	17	tastidiosi	fastidiosi	yes	edition	Canto III, v. 69; the first letter printed as `t` (no ascender); the retype and Tesseract read `tastidiosi`, GLM-OCR `fastidiosi`; found by the retype.
