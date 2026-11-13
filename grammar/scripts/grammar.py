@@ -276,7 +276,9 @@ def check_block(text: str, block: Passage) -> list[str]:
             if (m := RENDERING_RE.search(bullet)) and words(m.group(1)) == words(m.group(2)):
                 problems.append(f"{where}: the word-for-word rendering is the translation's "
                                 f"own words, “{m.group(2)}”: leave out a bullet where "
-                                f"nothing departs")
+                                f"nothing departs; for a change of word order, take "
+                                f"a phrase wide enough to show it (*Alle quai poi* "
+                                f"‘to which then’ → “Then to these”)")
             for quote in ENGLISH_QUOTE_RE.findall(bullet):
                 if not contains(english, quote):
                     problems.append(f"{where}: not in the English of this range: “{quote}”")
