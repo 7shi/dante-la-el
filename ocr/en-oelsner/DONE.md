@@ -692,3 +692,63 @@ Scans `179`–`203` (the notes on canto XV to canto XVIII 15, 25 pages), read by
 - `convert_en_oelsner.py`: the report as the baseline; in `texts/en-oelsner` only the
   decided places changed (cantos IX–XVII). `misprints.py`: 48 rows, 48 marks, 0
   problems.
+
+## Step 3: read-through 08 (2026-11-13)
+
+Scans `204`–`228` (canto XVIII 16 to canto XX 51, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 8; decided (readcheck.tsv, note `read`):
+  - **Misreadings**, 2: `205` `[ on our side` (no space in the image); `225` the note
+    `115-117. See Par. xx. 58-60, note.` italic as a whole in the base, only `Par.` and
+    `note.` in the image.
+  - **Misprints**, 3 (misprints.tsv): `216` `molt 'anni` (XIX 19); `225` `106-111` with
+    no period; `226` `che’ è de’ sommersi` (XX 3).
+  - **Printed**, 3: `213` `Intermine(ll)i`; `226` `the Diviners Augurs` (no comma);
+    `226` `letaníe` (XX 9; the edition's acute, as `potría`, `Tragedía`).
+
+## Step 3: read-through 09 (2026-11-13)
+
+Scans `229`–`253` (canto XX 52 to canto XXII 51, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 10; decided (readcheck.tsv, note `read`):
+  - **Misreadings**, 2: `237` `ad` italic with `Liber introductorius ad Judicia
+    Stellarum`; `246` the note `38. Santa Zita` joined to the note before it, set apart,
+    with `Santa Zita` italic as printed.
+  - **Misprints**, 3 (misprints.tsv): `235` `Val Camomica` (`Camonica` in XX 65) and
+    `south of Sali` (Salò); `236` `Æn. ii: 110` (its italics set as printed too).
+  - **Printed**, 5: `234` the lemma `letanie`; `236` `tiler and astrologer` (no comma at
+    the line end); `240` `disse “o Malebranche` (XXI 37); `242` `atuffare` (XXI 56);
+    `251` `Farfarella` (as in Carlyle's argument).
+  - `239` `THus` (the small capitals opening Canto XXI) was seen again and left: decided
+    already in retype 10 (PLAN.md, "Small capitals").
+
+## Step 3: read-through 10 (2026-11-13)
+
+Scans `254`–`278` (canto XXII 52 to canto XXIV 87, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 4; decided (readcheck.tsv, note `read`):
+  - **Misprints**, 2 (misprints.tsv): `273` `John xii. 49, 50` (the words of Caiaphas are
+    John xi. 49, 50); `274` `quando’ io` (XXIV 17).
+  - **Printed**, 2: `255` `wheeled around around` (XXII 75, as in `texts/en`); `260`
+    `67-79, 81-87.`
+
+## Step 3: read-through 11 (2026-11-13)
+
+Scans `279`–`303` (canto XXIV 88 to canto XXVI 84, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 6; decided (readcheck.tsv, note `read`):
+  - **Misreadings**, 3: `287` `[ _omnes … Pietro_ ]` (no spaces at the brackets, and
+    `Pietro` roman); `297` `*serpen*-` / `*tello*`, an italic word hyphenated at the line
+    end, now `*serpen-` / `tello*` so that it is joined as `serpentello`; `301` a blank
+    line inside the paragraph of XXVI 25-30, taken out.
+  - **Misprints**, 2 (misprints.tsv): `284` `85-90` with no period; `297` the note on
+    XXV 94-97 ending `sqq` with no period.
+  - **Printed**, 1: `294` `Puccio Sciancato.` before `ed era quei` (XXV 148).
+- **Batches 08–11**: 10 misprints and 7 misreadings in 100 pages; the misreadings are
+  again mostly of the layout (a joined note, a blank line, italics, spacing at brackets).
+- Left as they are: number ranges divided at a line end are joined by the converter with
+  a space (`(76- 108)`, `263`; also `1210- 1273` and others in earlier cantos); the ocr has
+  them as printed, so this is a matter of the converter, not decided here.
+- `convert_en_oelsner.py`: the report as the baseline; in `texts/en-oelsner` only the
+  decided places changed (cantos XVIII–XXVI). `misprints.py`: 58 rows, 58 marks, 0
+  problems.

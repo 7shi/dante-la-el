@@ -289,6 +289,7 @@ page	line	form	decision	note
 202	7	Every	printed	cmp B; the line end cut by the scan; the base's `Every` / `thing` kept (as `texts/en`)
 203	5	well,	misread	cmp A; was `well;`; a speck above the comma
 205	1	CANTO XVIII 193	misread	cmp; the page number was at the foot; printed beside the running head (found when the signature mark `N` was added)
+205	14	[on our side	misread	read; was `[ on`; no space after the bracket in the image
 205	46	N	misread	cmp B; the signature mark left out
 206	17	apprese	misread	cmp A; was `apprese:`; no colon printed
 206	25	conio.”	misread	cmp A; the closing quote left out
@@ -301,12 +302,14 @@ page	line	form	decision	note
 208	34	soprasta	misread	cmp A; was `soprastà`
 209	7	what	misread	cmp B; was `What`; the scan cuts the first letter; lower case after `pain:`
 210	6	riguardar	misread	cmp A; was `rigurardar`
+213	4	Intermine(ll)i	printed	read; note on XVIII 116; so in the image
 213	8	129-135.	printed	cmp D; Tesseract and GLM-OCR `:`; a period printed
 213	17	_magnas_,	misread	cmp A; the comma after `magnas` left out
 214	11	(1-12).	misread	cmp A; was `(I-12)`
 215	22	you:	misread	cmp A; was `you;`
 215	33	on the	misread	cmp A; `on the` (before `bottom`) left out
 216	2	INFERNO	printed	cmp B; the page number `204` on its own line in the base
+216	4	{{molt 'anni|molt' anni}}	misprint	read; Canto XIX, v. 19; the apostrophe printed before `anni`
 216	13	sì	printed	cmp D; Tesseract and GLM-OCR `si`; the accent printed
 217	15	surface:	printed	cmp D; Tesseract and GLM-OCR `;`; a colon printed
 218	3	costì	printed	cmp D; Tesseract and GLM-OCR `costi`; the accent printed
@@ -322,7 +325,12 @@ page	line	form	decision	note
 221	48	O	misread	cmp B; the signature mark left out
 222	11	si	misread	cmp A; was `sì`; no accent printed
 223	31	lo	misread	cmp A; was `Io`
+225	12	{{106-111|106-111.}}	misprint	read; note on XIX 106-111; no period after the verse numbers
+225	19	See *Par.* xx. 58-60, *note.*	misread	read; was `*See Par. xx. 58-60, note.*`; only `Par.` and `note.` are italic in the image
+226	3	the Diviners	printed	read; the argument of Canto XX; no comma before `Augurs` in the image
+226	17	{{che'|ch'}} è	misprint	read; Canto XX, v. 3; `che’ è` in the image
 226	18	Io	misread	cmp A; the tercet numbers 4, 7, 10, 13, 16 written at the line starts; removed (5 lines)
+226	23	letaníe	printed	read; Canto XX, v. 9; the edition's accent, as `potría` (XX 69) and `Tragedía` (XX 113); the note on 234 has `letanie`
 227	28	the	misread	cmp A; `the` after `[between]` left out
 228	2	INFERNO	printed	cmp B; the page number `216` on its own line in the base
 228	8	sì	printed	cmp D; Tesseract and GLM-OCR `si`; the accent printed (also line 11)
@@ -342,31 +350,41 @@ page	line	form	decision	note
 232	17	altrimenti	printed	cmp D; Tesseract and GLM-OCR `altrinienti`; a worn `m`
 234	3	{{VII.|VIII.}}	misprint	cmp; the label `Cerchio VII.` printed for `VIII.`; found by the retype
 234	9	malìe	printed	cmp D; Tesseract and GLM-OCR `malie`; the accent printed
+234	20	letanie	printed	read; the lemma of the note on XX 9, with no accent in the image (`letaníe` in the verse, 226)
 234	40	113	printed	cmp B; the retype's line-end number taken as a verse number by the comparison; nothing to do
 235	18	remember:	misread	cmp A; was `remember;`
+235	24	Val {{Camomica|Camonica}}	misprint	read; note on XX 63-78; `Val Camonica` in v. 65
 235	29	Tignalga	misread	cmp A; was `Tignaga`
+235	29	{{Sali|Salò}}	misprint	read; note on XX 63-78; `Sali` in the image
 235	34	Mincio	misread	cmp A; was `Minicio`
 236	11	ii:	misread	cmp A; was `ii.`
+236	11	(*Æn.* {{ii:|ii.}} 110, *sqq.*)	misprint	read; note on XX 106-114; a colon after `ii` in the image; the italics set as printed (was `*Æn. ii: 110, sqq.*`)
 236	12	Tragedia	misread	cmp A; was `Tragœdia`; also `tragediam`, `comediam` (line 13, were `tragœdiam`, `comœdiam`)
+236	25	tiler and astrologer	printed	read; note on XX 118-119; no comma at the line end before `author` (237)
+237	5	*Liber introductorius ad Judicia Stellarum*	misread	read; was `*Liber introductorius* ad *Judicia Stellarum*`; `ad` italic in the image
 237	9	Forlì	printed	cmp D; Tesseract and GLM-OCR `Forli`; the accent printed
 237	30	P	misread	cmp B; the signature mark left out
 238	17	Commedìa	misread	cmp A; was `Commedia`
 239	14	{{58-139)|(58-139)}}.	misprint	cmp A; the opening parenthesis not printed; the base had added it
 239	16	THus	printed	cmp A; small capitals; the base's case kept (Settled readings)
+240	21	disse “o Malebranche	printed	read; Canto XXI, v. 37; no comma after `disse` in the image
 241	5	compressed	misread	cmp A; `compressed` left out and lines 4-5 joined; split as printed
 241	39	writhing convolved;	misread	cmp A; was `` `writhing` convoluted; ``
 242	7	atuffare	misread	cmp A; was `attuffare`
+242	7	atuffare	printed	read; Canto XXI, v. 56; so in the image
 244	7	quatto quatto	misread	cmp A; was `quattro quatto`
 244	29	face.	misread	cmp A; no closing quote printed (a speck); the speech goes on
 245	37	cliff	misread	cmp A; `cliff` left out at the line end
 246	3	Calcabrina	misread	cmp A; was `Calcabrini`
 246	8	Ciriatto	misread	cmp A; was `Ciriato` (also `247` line 9, `254` line 8)
+246	35	38. *Santa Zita*—Lucca	misread	read; the note began on a new line in the image but was joined to the note before it (no blank line); set apart; `Santa Zita` italic in the image (was roman)
 247	4	Calcabrina	misread	cmp A; was `Calcabrino`
 249	1	HOUSE OF ESTE.	misread	cmp; was `HOUSE OF ESTE`; the period printed (the table read rotated)
 249	3	Obizzo II.,	misread	cmp B; was `Obizzo II,`; the period printed; `OBIZZO` in small capitals, the base's case kept
 249	8	Azzo VIII.,	misread	cmp B; was `Azzo VIII,`; the period printed
 249	19	Francesco (nat.).	misread	cmp; was `Francesco (nat.)`; the period printed
 251	3	Barbariccia	misread	cmp A; the argument (13 lines) joined into one line, `question-ing` and `Dragon-face` with it; lines restored as printed
+251	6	Farfarella	printed	read; the argument of Canto XXII; so in the image and in Carlyle's argument (`texts/en`)
 252	19	arroncigliò	printed	cmp B; the retype `arronciglò`
 252	19	impegolate	misread	cmp A; was `impegoiate`
 253	5	ship:	misread	cmp A; was `ship;`
@@ -375,6 +393,7 @@ page	line	form	decision	note
 254	2	INFERNO	printed	cmp B; the page number `242` on its own line in the base
 254	10	sdrucia.	misread	cmp A; was `sdruccia:`
 254	13	inforco.”	misread	cmp A; was `inforco!”`
+255	35	wheeled around around	printed	read; Canto XXII, v. 75; so in the image and in `texts/en`
 256	2	INFERNO	printed	cmp B; the page number `244` on its own line in the base
 256	12	digrigna;	misread	cmp A; the semicolon left out
 256	15	Farfarello	misread	cmp A; no comma printed
@@ -385,6 +404,7 @@ page	line	form	decision	note
 259	4	All	misread	cmp A; was `Each`
 259	25	flying after	misread	cmp A; `flying after` left out at the line end
 260	3	1-9.	misread	cmp B; a stray `¶` before the note numbers removed (lines 3, 8, 12, 18)
+260	18	67-79, 81-87.	printed	read; note on XXII; so in the image
 261	4	at	misread	cmp B; was `At`; lower case printed
 263	4	(76-	misread	cmp A; the whole page joined into one line per paragraph; lines restored as printed, the italics kept
 263	23	Yea pair	misread	cmp A; was `Yea, pair`
@@ -411,6 +431,8 @@ page	line	form	decision	note
 272	5	Calcabrina	misread	cmp A; was `Calcabrīna`
 272	14	Guelf	misread	cmp A; was `Guelph`
 272	16	Podestà	printed	cmp D; Tesseract and GLM-OCR `Podesta`; the accent printed
+273	17	(_John_ {{xii.|xi.}} 49, 50)	misprint	read; note on XXIII 111-123; Caiaphas's words are John xi. 49, 50
+274	30	{{quando'|quand'}} io	misprint	read; Canto XXIV, v. 17; `quando’ io` in the image
 275	14	the Sun	misread	cmp A; words left out at the line ends: `the Sun` (14), `and the` (15), `sister's` (18)
 276	2	INFERNO	printed	cmp B; the page number `264` on its own line in the base
 276	36	accascia.	misread	cmp B; was `accascia.”`; no closing quote printed (Virgil's speech goes on)
@@ -431,9 +453,11 @@ page	line	form	decision	note
 282	18	dipinse;	misread	cmp A; was `dipinse:`
 284	2	NOTES	misread	cmp B; was `V. NOTES`; the `V.` is show-through; the page number `272` on its own line kept
 284	4	i.e.	misread	cmp A; was `i.e.,`
+284	20	{{85-90|85-90.}}	misprint	read; note on XXIV 85-90; no period after the verse numbers
 285	30	Serravalle	misread	cmp A; was `Serraválle`; likewise on 31, with `Montecatíni`
 285	37	S	misread	cmp B; the signature mark left out
 286	18	diche":	misread	cmp A; was `diche" ;`
+287	11	[_omnes de Florentia	misread	read; was `[ _omnes` and `Pietro_ ]`; no spaces at the brackets, and `Pietro` roman in the image
 287	36	Cacus	misread	cmp B; the label left out
 288	11	cessàr	misread	cmp A; was `cessâr`
 290	8	sì	printed	cmp D; Tesseract and GLM-OCR `si`; the accent printed; likewise 310:23
@@ -445,15 +469,19 @@ page	line	form	decision	note
 293	19	not:	misread	cmp A; was `not;`
 293	21	front to	misread	cmp A; `front to` left out at the line end
 293	48	another,	misread	cmp B; was `another;`
+294	48	Puccio Sciancato.	printed	read; Canto XXV, v. 148; a point before `ed era quei` in the image
 295	39	Sciancato:	misread	cmp B; was `Sciancato;`
 296	2	NOTES	printed	cmp B; the page number `284` on its own line in the base
 296	19	Æn.	misread	cmp B; was `AEn.`
 296	22	Virgil's . . .	misread	cmp A; a stray `‘` before the dots removed
 297	10	serpen-	printed	cmp A; the italics marks keep the comparison from joining `serpen-` / `tello`; nothing to do
+297	10	*serpen-	misread	read; was `*serpen*-` and `*tello*`: the italic word hyphenated at the line end, so that it is joined as `serpentello`
 297	24	sqq	misread	cmp B; was `sqq.`; no period printed at the end of the note
+297	24	{{*sqq*|*sqq*.}}	misprint	read; note on XXV 94-97; no period at the end of the note
 298	29	graverà	printed	cmp D; Tesseract and GLM-OCR `gravera`; the accent printed
 300	3	Allor	misread	cmp A; was `Allora`
 300	33	udirti	misread	cmp A; was `udir ti`
+301	13	the hill—at the time that he who lights the	misread	read; a blank line after this line in the base, inside the paragraph; taken out
 301	46	T	misread	cmp B; the signature mark left out
 302	5	Eteòcle	misread	cmp A; was `Etèocle`
 302	13	Deidamìa	printed	cmp D; Tesseract and GLM-OCR `Deidamia`; the accent printed

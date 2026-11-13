@@ -1,7 +1,7 @@
 204
 INFERNO
 
-**Cerchio VIII. Bolgia 3** l' un delli quali, ancor non è molt 'anni, 19
+**Cerchio VIII. Bolgia 3** l' un delli quali, ancor non è {{molt 'anni|molt' anni}}, 19
 rupp' io per un che dentro vi annegava :
 e questo fia suggel ch' ogni uomo sganni.
 

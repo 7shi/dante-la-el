@@ -14,7 +14,7 @@ then Tiresias the Theban prophet, Aruns the Tuscan
 
 **Cerchio VIII. Bolgia 4** Di nuova pena mi convien far versi,
 e dar materia al ventesimo canto
-della prima canzon, che' è de' sommersi.
+della prima canzon, {{che'|ch'}} è de' sommersi.
 Io era già disposto tutto quanto
 a riguardar nello scoperto fondo,
 che si bagnava d' angoscioso pianto ;
