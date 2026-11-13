@@ -445,3 +445,127 @@ The record of the check ([PLAN.md](PLAN.md)), step by step.
 - **The retype** made no clear error.
 - `convert_en_oelsner.py`: the report as the baseline; `texts/en-oelsner` regenerated
   (`026`–`028`). `misprints.py`: 16 rows, 16 marks, 0 problems.
+
+## Step 1–2: retype 14 (2026-11-13)
+
+- **Pages** (25): `313`–`337` (Canto XXVII from v. 37, the Malatesta table, Canto
+  XXVIII, the opening of Canto XXIX). Retyped by **Claude (Opus 5.5)** from the images
+  alone, in three strips at twice the size.
+- **Compared** (`cmpread.py -g --verse-numbers`): 58 places, A 39, B 14, C 2, D 3. No
+  GLM-OCR page left out. After the fixes, 11 places, all decided.
+- **Decided** (readcheck.tsv, 45 rows):
+  - **Misread**, 36:
+    - In the verse: `316` `disserrare`; `318` `il`; `324` `Alì`, `qui`, `crudelmente,`;
+      `326` `breve,` and `dichina.` (no quotation marks printed), `Noarese`; `328` the
+      tercet numbers written at the line starts (11 lines); `330` `ribelli;`; `334`
+      `si`, `risposta,`; `336` `qui`, `udi`, `Geri`, `gío`, `insembre`.
+    - In the English: `313` `governance,`; `319` the line `it in great rage,` left
+      out; `323` `weeping before`; `327` `Novarese,`, `Latian`; `337` `henceforth`, the
+      page joined into one line per paragraph and rewritten with the printed lines.
+    - The labels: `315` `Narrative`, `Boniface` (`VIII` not printed); `325` `Mohammed`
+      two lines lower, `Ali` left out; `335` `one of his own kindred`; `337` `Their
+      punishment` two lines lower.
+    - In the notes and the table: `318` `Forlì`; `320` `IV.` (show-through) removed;
+      `321` `1317-1326` (no period); `333` `hostilities,`; `335` `of Arezzo`.
+    - The running head of `318` split over three lines; the signature marks `U` (`317`)
+      and `X` (`333`) left out.
+  - **Misprint**, 3 (misprints.tsv): `314` `caiscun`; `331` `stratagem` with no period
+    before the next sentence; `336` `Cosi` without its accent. The base had corrected
+    them silently.
+  - **Printed**, 6: `318` `of`, `319` `Forlì`, `328` `gìo` (class D); `321` the order of
+    the table's names; `330` `;`, `333` `I.` (class B).
+- **The retype** made 2 errors: `330` `,` for the printed `;`; `333` `i.` for `I.`.
+- `convert_en_oelsner.py`: the report as the baseline; `texts/en-oelsner` regenerated
+  (`028`–`030`). `misprints.py`: 19 rows, 19 marks, 0 problems.
+
+## Step 1–2: retype 15 (2026-11-13)
+
+- **Pages** (25): `338`–`362` (Canto XXIX from v. 40, the Della Scala table, Canto XXX,
+  Canto XXXI to v. 84). Retyped by **Claude (Opus 5.5)** from the images alone, in three
+  strips at twice the size.
+- **Compared** (`cmpread.py -g --verse-numbers`): 37 places, A 24, B 11, C 0, D 2. No
+  GLM-OCR page left out. After the fixes, 4 places, all decided.
+- **Decided** (readcheck.tsv, 36 rows):
+  - **Misread**, 27:
+    - In the verse: `340` `piangendo;`; `342` `disperse`; `348` `anguinaia`; `352` `si`,
+      `siati`; `354` `sì`, `senti’`; `360` `fuggìemi`; `362` `chè`.
+    - In the English: `339` a stray `and` and `343` a stray `the` removed (beside the
+      labels); `341` `; let not` left out, `Minos`; `347` `whirled`; `361` `errest`,
+      `so whilst`.
+    - The labels: `347` `and of Hecuba` joined to `The madness of Athamas`; set apart.
+    - In the argument, the notes and the table: `345` `Jacopo Fico.`, `1292-1314`; `346`
+      `lamentations` (no semicolon); `356` the page joined into one line per paragraph
+      and rewritten with the printed lines; `357` `Æn`; `358` `1-45`; `359` `Eloq.`.
+    - The running heads of `350` and `352` split over two lines; the signature mark `Y`
+      (`349`) left out.
+  - **Misprint**, 5 (misprints.tsv): `345` `iv` and `xviii` with no period in the
+    table's footnotes; `360` `cosi` and `362` `si` without their accents; `361`
+    `excutioners`. The base had corrected them silently.
+  - **Printed**, 4: `352` `sì`, `là` (class D); `344` `1293,`, `359` `speech;` (class B).
+- **The retype** made 2 errors: `344` the comma after `1293` left out; `359` `,` for the
+  printed `;`.
+- `convert_en_oelsner.py`: the report as the baseline; `texts/en-oelsner` regenerated
+  (`031`–`032`). `misprints.py`: 24 rows, 24 marks, 0 problems.
+
+## Step 1–2: retype 16 (2026-11-13)
+
+- **Pages** (25): `363`–`387` (Canto XXXI from v. 85, Canto XXXII, Canto XXXIII to
+  v. 84). Retyped by **Claude (Opus 5.5)** from the images alone, in three strips at
+  twice the size.
+- **Compared** (`cmpread.py -g --verse-numbers`): 38 places, A 15, B 16, C 0, D 7. No
+  GLM-OCR page left out. After the fixes, 9 places, all decided.
+- **Decided** (readcheck.tsv, 36 rows):
+  - **Misread**, 27:
+    - In the verse: `364` `esperienza`; `366` `prenda";`; `370` `aiutaro`; `372`
+      `Osteric`, `riserrolli`; `374` `a cui`, `teste,`; `376` `cuticagna,`, `‘Io vidi,’`;
+      `386` `uscio`, `Come`; `387` `sì`.
+    - In the English: `371` `and` (was `and.`); `375` `Camicion`; `377` `icy slope`,
+      the lines of one paragraph broken otherwise than printed.
+    - The labels: `371` `Those` left out; `375` `Their punishment` two lines low,
+      `Abbati`.
+    - In the arguments and the notes: `378` `Tambernic`; `382` `WHEREWITHAL` (the drop
+      capital left out), `quæ`, `hæc`.
+    - The running heads of `368`, `376` and `386` split over two lines; the signature
+      mark `Z` (`365`) left out.
+  - **Misprint**, 1 (misprints.tsv): `364` Virgil's speech opened with `'` and closed
+    with `"`. The base had corrected it silently.
+  - **Printed**, 8: `365` the labels `Ephialtes`, `Briareus`; `366`, `374` `sì`; `375`
+    `saw a`, `me here` (class D); `372`, `374` `Caina` in the labels (class B).
+- **The retype** made 2 errors: `372` and `374` `Caïna` in the labels, printed `Caina`.
+- `convert_en_oelsner.py`: the report as the baseline; `texts/en-oelsner` regenerated
+  (`032`–`034`). `misprints.py`: 25 rows, 25 marks, 0 problems.
+
+## Step 1–2: retype 17 (2026-11-13)
+
+- **Pages** (25): `388`–`412` (Canto XXXIII from v. 85, Canto XXXIV, the end matter).
+  Retyped by **Claude (Opus 5.5)** from the images alone, in three strips at twice the
+  size.
+- **Compared** (`cmpread.py -g --verse-numbers`): 66 places, A 20, B 41, C 1, D 4; most
+  in the table of `405` and the leader dots of `412`, where GLM-OCR was left out (length).
+  After the fixes, 38 places: 4 of class D, decided, and 34 in `405`, the dashes of the
+  base's table form, kept.
+- **Decided** (readcheck.tsv, 27 rows):
+  - **Misread**, 19:
+    - In the verse: `396` `armi.”`, and the tercet numbers 19–49 set in a column at the
+      page foot, moved to the line ends; `400` `ruscelletto`.
+    - In the English: `389` `Uguccione`; `401` `tortuous` and `of the` left out.
+    - The labels: `399` `are dispelled by Virgil` joined to `His doubts`, set apart;
+      `401` `till` (was `Till`).
+    - In the notes: `392` `Uguccione`; `393` `sqq.,`, `1 Maccabees`; `402` `sqq.),`
+      (was `129.),`).
+    - The end matter: `405` the table kept in the base's form with its readings as
+      printed (the second column of the first seven rows, the lowercase `brutishness`
+      and `malice`, the ditto marks, no `fraud`); `409` the caption and `411` the
+      editorial note joined into one line per paragraph, set with the printed lines
+      (`411` `version:`; its heading line kept, as the converter takes it as the title);
+      `412` the column heading `PAGE` and the leader dots as printed.
+    - The running heads of `388`, `392` and `398` split over two lines.
+  - **Misprint**, 4 (misprints.tsv): `402` `rusceletto` (the verse has `ruscelletto`);
+    `406` `calendar` with no period; `408` `P. H. W` with no period. The base had
+    corrected them silently.
+  - **Printed**, 4: `394` `là`, `400` `sì`, `benefactors,`, `399` the label (class D).
+- **The retype** made no error found by the comparison.
+- `convert_en_oelsner.py`: two new lines in the report, from the restored lines: a
+  hyphen joined on `411` (`attach-ment`), and the note line of `401` now ending `of the`;
+  the report taken as the new baseline. `texts/en-oelsner` regenerated (`034`–`036`,
+  `040`, `041`). `misprints.py`: 28 rows, 28 marks, 0 problems.

@@ -32,6 +32,6 @@ which meets all these conditions. We are therefore
 in the presence of an ideal date, combining all the
 phenomena which we are accustomed to associate
 with Easter, but not corresponding to any actual day
-in the calendar. All discussions as to whether we are
+in the {{calendar|calendar.}} All discussions as to whether we are
 
 396

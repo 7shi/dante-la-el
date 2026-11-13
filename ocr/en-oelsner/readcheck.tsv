@@ -1,13 +1,4 @@
 page	line	form	decision	note
-024	47	117)	misprint	cmp B; marked `{{117)|117).}}`; the base had `117).`
-025	1	FELTRO	misread	cmp C; the map rewritten as printed, the names line by line: the base had expanded `R.` to `River` (`R. Piave`, `R. Arno`), written the capitals in normal case (`VERONA`, `MARSEILLES`, `FLORENCE`, `MEDITERRANEAN SEA`, `S. AGATA FELTRIA`, `MACERATA FELTRIA`), made `S. MARINO` / `MONTE FELTRO` one `Monte San Marino`, added `River Ombrone` (not on the map) and left out `R. Adige` and `R. Reno`
-249	1	HOUSE OF ESTE.	misread	cmp; was `HOUSE OF ESTE`; the period printed (the table read rotated)
-249	3	Obizzo II.,	misread	cmp B; was `Obizzo II,`; the period printed; `OBIZZO` in small capitals, the base's case kept
-249	8	Azzo VIII.,	misread	cmp B; was `Azzo VIII,`; the period printed
-249	19	Francesco (nat.).	misread	cmp; was `Francesco (nat.)`; the period printed
-403	4	The	printed	cmp B; `THE` in small capitals after the drop capital; the base's case kept (PLAN.md, "Settled readings")
-403	16	10	misprint	cmp A; marked `{{10|10.}}`; the base had `10.`
-403	40	edited	misread	cmp A; was `edited,`; no comma printed
 011	7	MDCCCCIII · PUBLISHED · BY · J · M · DENT ·	misread	cmp B; was `MDCCCCIII • PUBLISHED • BY • J.M. DENT •`; the title-page imprint (red) has raised dots between all words and letters, `J·M·`
 011	8	AND · CO: ALDINE · HOUSE · LONDON · W · C ·	misread	cmp A, B; was `AND • CO: • ALDINE • HOUSE • LONDON • W.C. •`; no dot after `CO :`, `W·C·`
 013	4	774552	printed	cmp B; a library's stamped number below the motto, kept as in the base; the retype left it out
@@ -28,6 +19,8 @@ page	line	form	decision	note
 022	32	Convito	misread	cmp A; was `Convitio`
 023	1	CANTO I 11	misread	cmp B; was `CANTO I II`
 023	12	o happy	misread	cmp A; was `“o happy`; a speck before `o`, no quotation mark
+024	47	117)	misprint	cmp B; marked `{{117)|117).}}`; the base had `117).`
+025	1	FELTRO	misread	cmp C; the map rewritten as printed, the names line by line: the base had expanded `R.` to `River` (`R. Piave`, `R. Arno`), written the capitals in normal case (`VERONA`, `MARSEILLES`, `FLORENCE`, `MEDITERRANEAN SEA`, `S. AGATA FELTRIA`, `MACERATA FELTRIA`), made `S. MARINO` / `MONTE FELTRO` one `Monte San Marino`, added `River Ombrone` (not on the map) and left out `R. Adige` and `R. Reno`
 026	17	sì	printed	cmp D; Tesseract and GLM-OCR `si`; the accent printed
 028	2	INFERNO	printed	cmp B; the page number `16` on its own line in the base
 028	14	folle;	misread	cmp A; was `folle:`
@@ -231,6 +224,7 @@ page	line	form	decision	note
 201	19	so	misread	cmp B; was `So`; the scan cuts the first letter; lower case after `sullen:`
 202	7	Every	printed	cmp B; the line end cut by the scan; the base's `Every` / `thing` kept (as `texts/en`)
 203	5	well,	misread	cmp A; was `well;`; a speck above the comma
+205	1	CANTO XVIII 193	misread	cmp; the page number was at the foot; printed beside the running head (found when the signature mark `N` was added)
 205	46	N	misread	cmp B; the signature mark left out
 206	17	apprese	misread	cmp A; was `apprese:`; no colon printed
 206	25	conio.”	misread	cmp A; the closing quote left out
@@ -243,7 +237,6 @@ page	line	form	decision	note
 208	34	soprasta	misread	cmp A; was `soprastà`
 209	7	what	misread	cmp B; was `What`; the scan cuts the first letter; lower case after `pain:`
 210	6	riguardar	misread	cmp A; was `rigurardar`
-205	1	CANTO XVIII 193	misread	cmp; the page number was at the foot; printed beside the running head (found when the signature mark `N` was added)
 213	8	129-135.	printed	cmp D; Tesseract and GLM-OCR `:`; a period printed
 213	17	_magnas_,	misread	cmp A; the comma after `magnas` left out
 214	11	(1-12).	misread	cmp A; was `(I-12)`
@@ -305,6 +298,10 @@ page	line	form	decision	note
 246	3	Calcabrina	misread	cmp A; was `Calcabrini`
 246	8	Ciriatto	misread	cmp A; was `Ciriato` (also `247` line 9, `254` line 8)
 247	4	Calcabrina	misread	cmp A; was `Calcabrino`
+249	1	HOUSE OF ESTE.	misread	cmp; was `HOUSE OF ESTE`; the period printed (the table read rotated)
+249	3	Obizzo II.,	misread	cmp B; was `Obizzo II,`; the period printed; `OBIZZO` in small capitals, the base's case kept
+249	8	Azzo VIII.,	misread	cmp B; was `Azzo VIII,`; the period printed
+249	19	Francesco (nat.).	misread	cmp; was `Francesco (nat.)`; the period printed
 251	3	Barbariccia	misread	cmp A; the argument (13 lines) joined into one line, `question-ing` and `Dragon-face` with it; lines restored as printed
 252	19	arroncigliò	printed	cmp B; the retype `arronciglò`
 252	19	impegolate	misread	cmp A; was `impegoiate`
@@ -407,3 +404,147 @@ page	line	form	decision	note
 310	12	gía	misread	cmp A; was `gia`
 310	18	Cicilian … mugghiò	misread	cmp A; was `Sicilian … mugghì`
 312	9	Tever	misread	cmp A; was `Tevèr`
+313	34	governance, there,	misread	cmp A; was `governance there,`
+314	33	{{caiscun|ciascun}}	misprint	cmp A; marked; the base had `ciascun`
+315	15	Narrative	misread	cmp B; was `narrative` in the label
+315	40	Boniface	misread	cmp A; the label was `Boniface VIII`; `VIII` not printed
+316	15	disserrare	misread	cmp A; was `disserrrare`
+317	48	U	misread	cmp B; the signature mark left out
+318	1	306 INFERNO	misread	cmp B; the running head was split over three lines
+318	16	il	misread	cmp A; was `’l`
+318	41	Forlì	misread	cmp A; was `Forli`
+318	43	of	printed	cmp D; Tesseract and GLM-OCR `or`; nothing to do
+319	5	it in great rage,	misread	cmp A; the line left out
+319	32	Forlì	printed	cmp D; Tesseract and GLM-OCR `Forli`; nothing to do
+320	1	308 NOTES	misread	cmp B; was `308 IV. NOTES`; `IV.` is show-through
+321	24	1317-1326	misread	cmp C; was `1317-1326.`; no period printed
+321	26	1. Malatestino	printed	cmp C; the order of the table's names is not compared; nothing to do
+323	3	weeping before	misread	cmp A; was `weeping, before`
+324	12	Alì	misread	cmp B; was `Alì,`
+324	14	qui	misread	cmp A; was `quì`
+324	18	crudelmente,	misread	cmp A; was `crudelmente;`
+325	6	Mohammed	misread	cmp B; the label `Mohammed` was set two lines lower, after a paragraph break
+325	17	Ali	misread	cmp B; the label `Ali` left out
+326	4	breve,	misread	cmp A; was `breve,"`; no quotation mark printed
+326	7	Noarese	misread	cmp A; was `Novarese`
+326	25	dichina.	misread	cmp A; was `dichina."`; no quotation mark printed
+327	7	Novarese,	misread	cmp A; the comma left out
+327	23	Latian	misread	cmp A; was `Latin`
+328	2	farà	misread	cmp A; the tercet numbers 88-118 written at the line starts; removed (11 lines)
+328	25	gìo	printed	cmp D; Tesseract and GLM-OCR `gio`; nothing to do
+330	7	;	printed	cmp B; the retype had `,`; the semicolon printed
+330	18	ribelli;	misread	cmp A; was `ribelli:`
+331	35	{{stratagem|stratagem.}}	misprint	cmp A; marked; the base had `stratagem.`
+333	15	I.	printed	cmp B; the retype had `i.`; the figure read as in the base; nothing to do
+333	32	hostilities,	misread	cmp A; the comma left out
+333	41	X	misread	cmp B; the signature mark left out
+334	17	si	misread	cmp A; was `sì`
+334	29	risposta,	misread	cmp A; the comma left out
+335	8	of Arezzo	misread	cmp A; was `di Arezzo`
+335	37	one of his own kindred	misread	cmp B; was `One` in the label
+336	4	qui	misread	cmp A; was `quì`
+336	8	udi … Geri	misread	cmp A; was `udì … Gerì`
+336	15	gío	misread	cmp B; was `gió`
+336	18	{{Cosi|Così}}	misprint	cmp A; marked; the base had `Così`
+336	30	insembre	misread	cmp A; was `insieme`
+337	3	henceforth	misread	cmp A; was `thenceforth`; the page was joined into one line per paragraph; rewritten with the printed lines, the italic `*them*` kept
+337	19	Their punishment	misread	cmp B; the label was set two lines lower
+339	29	spotted	misread	cmp A; was `spotted and`; `and` not printed (the label `Capocchio` beside it)
+340	7	piangendo;	misread	cmp A; was `piangendo:`
+341	26	people; let not	misread	cmp A; `; let not` left out
+341	44	Minos	misread	cmp B; was `Minoe`
+342	15	disperse	misread	cmp A; was `disperşe`
+343	3	ever	misread	cmp A; was `ever the`; `the` not printed
+344	18	1293,	printed	cmp B; the retype had no comma; a point before lowercase, written as a comma; nothing to do
+345	3	Jacopo Fico.	misread	cmp A; the period left out (the table read rotated)
+345	22	1292-1314	misread	cmp B; was `1292-1314.`; no period printed
+345	26	{{iv|iv.}}	misprint	cmp A; marked; the base had `iv.`
+345	28	{{xviii|xviii.}}	misprint	cmp B; marked; the base had `xviii.`
+346	5	lamentations	misread	cmp A; was `lamentations;`; no semicolon printed
+347	17	The madness of Athamas	misread	cmp A; the label `and of Hecuba` was joined to it; set two tercets lower as printed
+347	26	whirled	misread	cmp A; was `hurled`
+348	30	anguinaia	misread	cmp A; was `inguinaia`
+349	47	Y	misread	cmp B; the signature mark left out
+350	1	338 INFERNO	misread	cmp B; the running head was split over two lines
+352	1	340 INFERNO	misread	cmp B; the running head was split over two lines
+352	3	sì	printed	cmp D; Tesseract and GLM-OCR `si`; nothing to do
+352	15	si	misread	cmp A; was `sì`
+352	29	là	printed	cmp D; Tesseract and GLM-OCR `la`; nothing to do
+352	35	siati	misread	cmp A; was `sìati`
+354	4	sì	misread	cmp A; was `si`
+354	14	senti’	misread	cmp A; was `sentí’`
+356	5	Cavalcanti	misread	cmp A; the page was joined into one line per paragraph; rewritten with the printed lines, the italics kept
+357	22	Æn	misread	cmp B; was `Aen`
+358	15	1-45	misread	cmp A; was `I-45`
+359	4	speech;	printed	cmp B; the retype had `,`; the semicolon printed; nothing to do
+359	6	Eloq.	misread	cmp A; was `Elog.`
+360	21	{{cosi|così}}	misprint	cmp A; marked; the base had `così`
+360	23	fuggìemi	misread	cmp A; was `fuggiemi`
+361	9	errest	misread	cmp A; was `errst`
+361	28	so whilst	misread	cmp A; was `80 whilst`
+361	47	{{excutioners|executioners}}	misprint	cmp A; marked; the base had `executioners`
+362	11	{{si|sì}}	misprint	cmp A; marked; the base had `sì`
+362	13	chè	misread	cmp B; was `che`
+364	9	{{'|"}}	misprint	cmp A; marked; the base had `"`
+364	17	esperienza	misread	cmp A; was `esperïenza`
+365	4	Ephialtes	printed	cmp D; Tesseract and GLM-OCR set the labels elsewhere; nothing to do
+365	21	Briareus	printed	cmp D; Tesseract and GLM-OCR set the label elsewhere; nothing to do
+365	48	Z	misread	cmp B; the signature mark left out
+366	19	prenda";	misread	cmp A; was `prenda"`; the semicolon left out
+366	20	sì	printed	cmp D; Tesseract and GLM-OCR `si`; nothing to do
+368	1	356 NOTES	misread	cmp B; the running head was split over two lines
+370	28	aiutaro	misread	cmp A; was `aiutarono`
+371	15	Those guilty of Treacherous Fraud	misread	cmp B; `Those` left out of the label
+371	37	and	misread	cmp B; was `and.`
+372	3	Caina	printed	cmp B; the retype had `Caïna` in the label; no diaeresis printed; nothing to do
+372	7	Osteric	misread	cmp A; was `Ostèric`
+372	29	riserrolli	misread	cmp A; was `riserròlli`
+374	3	Caina	printed	cmp B; the retype had `Caïna` in the label; no diaeresis printed; nothing to do
+374	9	a cui	misread	cmp B; was `a’ cui`
+374	26	teste,	misread	cmp A; the comma left out
+374	32	sì	printed	cmp D; Tesseract and GLM-OCR `si`; nothing to do
+375	20	Camicion	misread	cmp A; was `Camícion`
+375	23	saw a	printed	cmp D; Tesseract and GLM-OCR `sawa`; nothing to do
+375	26	Their punishment	misread	cmp B; the label was set two lines lower
+375	32	Abbati	misread	cmp B; was `Abati` in the label
+375	41	me here	printed	cmp D; Tesseract and GLM-OCR `mehere`; nothing to do
+376	1	364 INFERNO	misread	cmp B; the running head was split over two lines
+376	12	cuticagna,	misread	cmp A; the comma left out
+376	31	‘Io vidi,’	misread	cmp A; was `“Io vidi,’`
+377	13	icy slope	misread	cmp B; was `icyslope`
+377	35	what	misread	cmp A; the lines broken otherwise than printed; set as printed; `ready.”` had a closing quote not printed
+378	28	Tambernic	misread	cmp A; was `Tamubernic`
+382	3	WHEREWITHAL	misread	cmp A; was `HEREWITHAL` (the drop capital left out)
+382	4	quæ	misread	cmp B; was `quae`
+382	5	hæc	misread	cmp B; was `haec`
+386	1	374 INFERNO	misread	cmp B; the running head was split over two lines
+386	4	uscio	misread	cmp A; was `uscìo`
+386	6	Come	misread	cmp B; was `Com’`
+387	41	sì	misread	cmp B; was `si`
+388	1	376 INFERNO	misread	cmp B; the running head was split over two lines
+389	8	Uguccione	misread	cmp A; was `Ugccione`
+392	1	380 INFERNO	misread	cmp B; the running head was split over two lines
+392	32	Uguccione	misread	cmp A; was `Ugiccione`
+393	20	sqq.,	misread	cmp A; the comma left out
+393	26	1 Maccabees	misread	cmp A; was `I`; the old-style figure 1
+394	28	là	printed	cmp D; Tesseract and GLM-OCR `la`; nothing to do
+396	4	armi.”	misread	cmp A; the closing quote left out; the tercet numbers 19-49 had been set in a column at the page foot; moved to the line ends
+398	1	388 INFERNO	misread	cmp B; the running head was split over two lines
+399	23	His doubts	misread	cmp A, B, D; the label `are dispelled by Virgil` was joined to it; set two tercets lower as printed
+400	5	sì	printed	cmp D; Tesseract and GLM-OCR `si`; nothing to do
+400	15	ruscelletto	misread	cmp A; was `ruscelleto`
+400	37	benefactors,	printed	cmp D; Tesseract and GLM-OCR `benefactors.`; a point before lowercase, written as a comma; nothing to do
+401	22	tortuous	misread	cmp A; the word left out
+401	29	till they regain the outer world	misread	cmp B; was `Till` in the label
+401	34	of the	misread	cmp A; the words left out
+402	14	{{rusceletto|ruscelletto}}	misprint	cmp A; marked; the base had `ruscelletto`
+402	15	sqq.),	misread	cmp A; was `129.),`
+403	4	The	printed	cmp B; `THE` in small capitals after the drop capital; the base's case kept (PLAN.md, "Settled readings")
+403	16	10	misprint	cmp A; marked `{{10|10.}}`; the base had `10.`
+403	40	edited	misread	cmp A; was `edited,`; no comma printed
+405	3	Trimmers — 0 — 1	misread	cmp B; the table kept in the base's form (rows, indents, dashes), its readings made as printed: the second column (`1`–`7`) of the first seven rows left out; `brutishness`, `malice` lowercase; the ditto marks `,,` (the base `against`); `fraud` after `simple` and `treacherous` not printed
+406	35	{{calendar|calendar.}}	misprint	cmp A; marked; the base had `calendar.`
+408	45	P. H. {{W|W.}}	misprint	cmp B; marked; the base had `W.`
+409	1	Plan of concentric spheres	misread	the caption joined into one line; set with the printed lines
+411	3	version:	misread	cmp A; was `version;`; the page joined into one line per paragraph; rewritten with the printed lines; the heading line kept as the base had it (the converter takes it as the title), the page number `401` not added
+412	4	PAGE	misread	cmp B, C; the column heading left out; the leader dots counted as printed (the base had more)

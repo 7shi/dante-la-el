@@ -1,5 +1,4 @@
-364
-INFERNO
+364 INFERNO
 
 **Cerchio IX. Cocito 2. Antenora** “Or tu chi se’, che vai per l’ Antenora
 percotendo,” rispose, “altrui le gote
@@ -10,7 +9,7 @@ ch’ io metta il nome tuo tra l’ altre note.” 91
 Ed egli a me: “Del contrario ho io brama; 94
 levati quinci, e non mi dar più lagna:
 chè mal sai lusingar per questa lama.”
-Allor lo presi per la cuticagna 97
+Allor lo presi per la cuticagna, 97
 e dissi: “E’ converrà che tu ti nomi,
 o che capel qui su non ti rimagna.”
 Ond’ egli a me: “Perchè tu mi dischiomi, 100
@@ -29,7 +28,7 @@ io porterò di te vere novelle.”
 ma non tacer, se tu di qua entr’ eschi,
 di quei ch’ ebbe or così la lingua pronta.
 Ei piange qui l’ argento de’ Franceschi. 115
-“Io vidi,’ potrai dir, ‘quel da Duera
+‘Io vidi,’ potrai dir, ‘quel da Duera
 là dove i peccatori stanno freschi.’
 Se fossi domandato altri chi v’ era 118
 tu hai da lato quel di Beccheria,

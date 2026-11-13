@@ -1,6 +1,6 @@
 THE DELLA SCALA FAMILY.
 
-Jacopo Fico
+Jacopo Fico.
 
 Mastino,
     Lord of Verona,
@@ -19,10 +19,10 @@ Alberto,¹
         1311-1329.
     Giuseppe,⁵
         Abbot of San Zeno,
-        1292-1314.
+        1292-1314
 
 ¹ Purg. xviii. 121.
 ² Par. xvii. 71.
-³ Conv. iv. 16: 71, 72.
+³ Conv. {{iv|iv.}} 16: 71, 72.
 ⁴ Inf. i. 101; Purg. xxxiii. 43; Par. xvii. 76, sqq., etc.
-⁵ Purg. xviii. 124-126.
+⁵ Purg. {{xviii|xviii.}} 124-126.

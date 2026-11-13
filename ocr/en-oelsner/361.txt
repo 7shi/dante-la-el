@@ -6,7 +6,7 @@ towers; whereat I: "Master! say, what town
 is this?"
 
 And he to me: "Because thou traversest the
-darkness too far off, it follows that thou errst
+darkness too far off, it follows that thou errest
 in thy imagining.
 
 Thou shalt see right well, [if] thou arrivest there,
@@ -25,7 +25,7 @@ As when a mist is vanishing, the eye by little and
 little reshapes that which the air-crowding
 vapour hides;
 
-80 whilst piercing through that gross and dark-
+so whilst piercing through that gross and dark-
 some air, more and more approaching towards
 the brink, error [fled] from me, and [my] fear
 [increased].
@@ -44,4 +44,4 @@ the belly, and down along his sides both arms.
 
 Nature certainly, when she left off the art of
 making animals like these, did very well, in
-taking away such executioners from Mars;
+taking away such {{excutioners|executioners}} from Mars;

@@ -30,6 +30,6 @@ Quando mi vidi giunto in quella parte 79
 Lo principe de' nuovi Farisei, 85
          avendo guerra presso a Laterano,
          e non con Saracin, nè con Giudei,
-         chè ciascun suo nimico era Cristiano, 88
+         chè {{caiscun|ciascun}} suo nimico era Cristiano, 88
          e nessuno era stato a vincer Acri,
          nè mercatante in terra di Soldano ;
