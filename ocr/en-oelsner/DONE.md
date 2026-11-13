@@ -324,3 +324,124 @@ The record of the check ([PLAN.md](PLAN.md)), step by step.
 - **The retype** made one error: `196` `si` (the worn accent read as none).
 - `convert_en_oelsner.py`: the report as the baseline; `texts/en-oelsner` regenerated
   (`017`, `018`, `019`). `misprints.py`: 10 rows, 10 marks, 0 problems.
+
+## Step 1–2: retype 10 (2026-11-13)
+
+- **Pages** (25): `213`–`237` (the end of Canto XVIII, Canto XIX, Canto XX). Retyped by
+  **Claude (Opus 5.5)** from the images alone, in three strips at twice the size.
+- **Compared** (`cmpread.py -g --verse-numbers`): 59 places, A 36, B 11, C 1, D 11. No
+  GLM-OCR page left out. After the fixes, 16 places, all decided.
+- **Decided** (readcheck.tsv, 49 rows):
+  - **Misread**, 34:
+    - In the verse: `218` `‘Non` (was `“Non`), `Laggiù` (was `Lagguìù`), `coi` (was
+      `co’`); `220` `‘Maccabei’` (the opening quote left out), `retro.’`, a stray `dì`
+      before `chè`; `222` `si` (was `sì`); `226` the tercet numbers 4–16 written at the
+      line starts (5 lines); `228` `Teban`, the handwritten note `(handwritten: ? /)`
+      removed; `230` `dove nacqu’` (was `do m’acqu’`, a stain), `gìo`, `discese.`;
+      `232` `mattìa`.
+    - In the English: `213` `magnas,`; `214` `(1-12)`; `215` `you:`, `on the` left out;
+      `219` the label `Boniface VIII.` two lines low, a stray `then`; `227` `the` left
+      out; `229` the label `Amphiaräus` five lines low, `looks` (was `looks,`),
+      `Carrarese`; `231` `hair[y skin]`, `[A]pennine` (the brackets left out); `235`
+      `remember:`.
+    - In the notes: `223` `lo scritto` (was `Io`); `235` `Tignalga`, `Mincio` (were
+      `Tignaga`, `Minicio`); `236` `ii:`, `Tragedia`, `tragediam`, `comediam` (were
+      `Tragœdia` etc.).
+    - The signature marks `O` (`221`) and `P` (`237`) left out.
+  - **Misprint**, 1 (misprints.tsv): `234` the label `Cerchio VII.` for `VIII.`; the
+    base had it as printed, now marked.
+  - **Printed**, 14: four page numbers on their own line (`216`, `220`, `228`, `232`);
+    class D accents and stops (`213` `.`, `216` `sì`, `217` `:`, `218` `costì`, `228`
+    `sì` twice, `232` `altrimenti`, `234` `malìe`, `237` `Forlì`); `229` the labels
+    `Tiresias`, `Aruns`; `234` `113` (the comparison's verse-number reading).
+- **The retype** made no clear error.
+- `convert_en_oelsner.py`: the report as the baseline; `texts/en-oelsner` regenerated
+  (`019`–`021`). `misprints.py`: 11 rows, 11 marks, 0 problems.
+
+## Step 1–2: retype 11 (2026-11-13)
+
+- **Pages** (25): `238`–`262` (Canto XXI, Canto XXII, the table of the House of Este,
+  the opening of Canto XXIII). Retyped by **Claude (Opus 5.5)** from the images alone,
+  in three strips at twice the size.
+- **Compared** (`cmpread.py -g --verse-numbers`): 40 places, A 33, B 6, C 0, D 1. No
+  GLM-OCR page left out. After the fixes, 5 places, all decided.
+- **Decided** (readcheck.tsv, 32 rows):
+  - **Misread**, 26:
+    - In the verse: `238` `Commedìa`; `242` `atuffare`; `244` `quatto quatto`, `face.`
+      (no closing quote); `246` `Calcabrina`, `Ciriatto` (also `254`); `252`
+      `impegolate`; `254` `sdrucia.`, `inforco.”`; `256` `digrigna;`, `Farfarello` (no
+      comma), `l’ali;`; `258` `Irato`.
+    - In the English: `241` `compressed` left out (two lines joined), `writhing
+      convolved` (was `` `writhing` convoluted ``); `245` `cliff`; `247` `Calcabrina`,
+      `Ciriatto`; `251` the argument joined into one line, restored; `253` `ship:`,
+      `servant of a lord` (the quotes were specks); `257` `come.` (no closing quote);
+      `259` `All` (was `Each`), `flying after` left out.
+    - In the notes: `260` a stray `¶` before four notes; `261` `at` (was `At`).
+    - The signature mark `Q` (`253`) left out.
+  - **Misprint**, 1 (misprints.tsv): `239` `58-139).` without the opening parenthesis;
+    the base had corrected it silently.
+  - **Printed**, 5: two page numbers on their own line (`254`, `256`); `239` `THus`
+    (small capitals, the base's case kept); `252` `arroncigliò`; `256` `lui:` (class D).
+- **The retype** made one error: `252` `arronciglò` for `arroncigliò`.
+- `convert_en_oelsner.py`: the report as the baseline; `texts/en-oelsner` regenerated
+  (`022`, `023`). `misprints.py`: 12 rows, 12 marks, 0 problems.
+
+## Step 1–2: retype 12 (2026-11-13)
+
+- **Pages** (25): `263`–`287` (Canto XXIII from its argument, Canto XXIV, the opening of
+  Canto XXV). Retyped by **Claude (Opus 5.5)** from the images alone, in three strips at
+  twice the size.
+- **Compared** (`cmpread.py -g --verse-numbers`): 64 places, A 36, B 23, C 0, D 5. No
+  GLM-OCR page left out. After the fixes, 14 places, all decided.
+- **Decided** (readcheck.tsv, 49 rows):
+  - **Misread**, 36:
+    - In the verse: `264` `io gl’` (the dash was show-through), `compiè`, `volerne`;
+      `266` `viso, … meco;`; `268` `e s’ei`, `io veggio` (the `il` was show-through),
+      `guance,`, `sì`, `son` (was `peson`), and false accents (`Loderíngo`, `uôm`,
+      `soffíando`, `convenía`); `270` `incarcati`; `276` `accascia.` (no closing quote);
+      `278` `uscìo`, `mena,`, `rena;`; `280` `si scrisse`, `amomo,`, `fasce.` (a
+      handwritten `qs` removed); `282` `dipinse;`; `286` `diche”:`.
+    - In the English: `263` the whole page joined into one line per paragraph, restored
+      (`Yea pair`, no comma); `265` `chase.`, `as my`; `275` words left out at three
+      line ends (`the Sun`, `and the`, `sister’s`); `281` `the ground,` left out,
+      `Phœnix` (also `285` `phœnix`).
+    - Labels: `267` `Two "Jovial Friars"`; `279` `The Thieves`; `281` `The Thieves` and
+      `Their punishment` a paragraph late; `287` `Cacus` left out.
+    - In the notes: `272` `Calcabrina`, `Guelf`; `284` `NOTES` (a show-through `V.`),
+      `i.e.`; `285` `Serravalle`, `Montecatini`.
+    - The signature marks `R` (`269`) and `S` (`285`) left out.
+  - **Misprint**, 3 (misprints.tsv): `271` `answerd`; `278` the page number `206` for
+    `266`; `280` `cinquencentesimo`.
+  - **Printed**, 10: six page numbers on their own line (`264`, `268`, `270`, `272`,
+    `276`, `282`); `270` `gì`, `272` `Podestà`, `278` and `280` `sì` (class D).
+- **The retype** made three errors, all misprints corrected: `271` `answered`, `278`
+  `266`, `280` `cinquecentesimo`.
+- `convert_en_oelsner.py`: the report as the baseline; `texts/en-oelsner` regenerated
+  (`024`–`026`). `misprints.py`: 15 rows, 15 marks, 0 problems.
+
+## Step 1–2: retype 13 (2026-11-13)
+
+- **Pages** (25): `288`–`312` (Canto XXV from v. 22, Canto XXVI, the opening of Canto
+  XXVII). Retyped by **Claude (Opus 5.5)** from the images alone, in three strips at
+  twice the size.
+- **Compared** (`cmpread.py -g --verse-numbers`): 36 places, A 23, B 8, C 0, D 5. No
+  GLM-OCR page left out. After the fixes, 9 places, all decided.
+- **Decided** (readcheck.tsv, 33 rows):
+  - **Misread**, 25:
+    - In the verse: `288` `cessàr`; `290` `di`; `292` a stray `Il` removed, `dura.`,
+      `dirietro`, `diventaron`; `300` `Allor`, `udirti`; `302` `Eteòcle`, `audivi`;
+      `304` a stray `la` removed, `Morrocco`; `310` `gía`, `Cicilian`, `mugghiò`; `312`
+      `Tever`.
+    - In the English: `293` `not:`, `front to` left out at a line end, `another,`;
+      `295` `Sciancato:`; `303` `of you` left out; `307` `to heaven` left out.
+    - In the notes: `296` `Æn.`, a stray `‘`; `297` `sqq` (no period printed); `309`
+      `Caïeta`.
+    - The signature mark `T` (`301`) left out.
+  - **Misprint**, 1 (misprints.tsv): `308` `53, 54,` with a comma for the period after
+    the verse numbers; the base had corrected it silently.
+  - **Printed**, 7: two page numbers on their own line (`296`, `304`); `290` and `310`
+    `sì`, `mischiâr`, `298` `graverà`, `302` `Deidamìa` (class D); `297` `serpen-`
+    (italics marks keep the comparison from joining it).
+- **The retype** made no clear error.
+- `convert_en_oelsner.py`: the report as the baseline; `texts/en-oelsner` regenerated
+  (`026`–`028`). `misprints.py`: 16 rows, 16 marks, 0 problems.

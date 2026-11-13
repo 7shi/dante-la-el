@@ -244,3 +244,166 @@ page	line	form	decision	note
 209	7	what	misread	cmp B; was `What`; the scan cuts the first letter; lower case after `pain:`
 210	6	riguardar	misread	cmp A; was `rigurardar`
 205	1	CANTO XVIII 193	misread	cmp; the page number was at the foot; printed beside the running head (found when the signature mark `N` was added)
+213	8	129-135.	printed	cmp D; Tesseract and GLM-OCR `:`; a period printed
+213	17	_magnas_,	misread	cmp A; the comma after `magnas` left out
+214	11	(1-12).	misread	cmp A; was `(I-12)`
+215	22	you:	misread	cmp A; was `you;`
+215	33	on the	misread	cmp A; `on the` (before `bottom`) left out
+216	2	INFERNO	printed	cmp B; the page number `204` on its own line in the base
+216	13	sì	printed	cmp D; Tesseract and GLM-OCR `si`; the accent printed
+217	15	surface:	printed	cmp D; Tesseract and GLM-OCR `;`; a colon printed
+218	3	costì	printed	cmp D; Tesseract and GLM-OCR `costi`; the accent printed
+218	13	‘Non	misread	cmp A; was `“Non`; a single quote printed (the double one opens on line 12)
+218	27	Laggiù	misread	cmp A; was `Lagguìù`
+218	32	coi	misread	cmp A; was `co’`
+219	7	Boniface VIII.	misread	cmp A, B; the label was on line 9; printed beside `By several years`
+219	38	thee when	misread	cmp A; a stray `then` removed
+220	2	INFERNO	printed	cmp B; the page number `208` on its own line in the base
+220	7	‘Maccabei’	misread	cmp A; the opening quote left out
+220	14	retro.’	misread	cmp A; was `retro,’`
+220	25	chè	misread	cmp A; a stray `dì` (a speck in the margin) removed
+221	48	O	misread	cmp B; the signature mark left out
+222	11	si	misread	cmp A; was `sì`; no accent printed
+223	31	lo	misread	cmp A; was `Io`
+226	18	Io	misread	cmp A; the tercet numbers 4, 7, 10, 13, 16 written at the line starts; removed (5 lines)
+227	28	the	misread	cmp A; `the` after `[between]` left out
+228	2	INFERNO	printed	cmp B; the page number `216` on its own line in the base
+228	8	sì	printed	cmp D; Tesseract and GLM-OCR `si`; the accent printed (also line 11)
+228	13	Qui	misread	cmp C; the handwritten note `(handwritten: ? /)` on a reader's pen mark removed
+228	17	Teban	misread	cmp A; was `Tebàn`
+229	19	Amphiaräus	misread	cmp A, B; the label was on line 24; printed beside `Raise up thy head`
+229	30	looks	misread	cmp A; was `looks,`
+229	32	Tiresias	printed	cmp D; the label as in the base (Tesseract and GLM-OCR read it into the line; also `Aruns`, line 40)
+229	42	Carrarese	misread	cmp A; was `Cararrese`
+230	8	dove nacqu’	misread	cmp B; was `do m’acqu’`; a stain over `ve n`
+230	13	gìo	misread	cmp A; was `gio`
+230	29	discese.	misread	cmp A; was `discese:`
+231	5	hair[y skin]	misread	cmp A; the brackets left out
+231	20	[A]pennine	misread	cmp A; the brackets left out
+232	2	INFERNO	printed	cmp B; the page number `220` on its own line in the base
+232	14	mattìa	misread	cmp A; was `mattia`
+232	17	altrimenti	printed	cmp D; Tesseract and GLM-OCR `altrinienti`; a worn `m`
+234	3	{{VII.|VIII.}}	misprint	cmp; the label `Cerchio VII.` printed for `VIII.`; found by the retype
+234	9	malìe	printed	cmp D; Tesseract and GLM-OCR `malie`; the accent printed
+234	40	113	printed	cmp B; the retype's line-end number taken as a verse number by the comparison; nothing to do
+235	18	remember:	misread	cmp A; was `remember;`
+235	29	Tignalga	misread	cmp A; was `Tignaga`
+235	34	Mincio	misread	cmp A; was `Minicio`
+236	11	ii:	misread	cmp A; was `ii.`
+236	12	Tragedia	misread	cmp A; was `Tragœdia`; also `tragediam`, `comediam` (line 13, were `tragœdiam`, `comœdiam`)
+237	9	Forlì	printed	cmp D; Tesseract and GLM-OCR `Forli`; the accent printed
+237	30	P	misread	cmp B; the signature mark left out
+238	17	Commedìa	misread	cmp A; was `Commedia`
+239	14	{{58-139)|(58-139)}}.	misprint	cmp A; the opening parenthesis not printed; the base had added it
+239	16	THus	printed	cmp A; small capitals; the base's case kept (Settled readings)
+241	5	compressed	misread	cmp A; `compressed` left out and lines 4-5 joined; split as printed
+241	39	writhing convolved;	misread	cmp A; was `` `writhing` convoluted; ``
+242	7	atuffare	misread	cmp A; was `attuffare`
+244	7	quatto quatto	misread	cmp A; was `quattro quatto`
+244	29	face.	misread	cmp A; no closing quote printed (a speck); the speech goes on
+245	37	cliff	misread	cmp A; `cliff` left out at the line end
+246	3	Calcabrina	misread	cmp A; was `Calcabrini`
+246	8	Ciriatto	misread	cmp A; was `Ciriato` (also `247` line 9, `254` line 8)
+247	4	Calcabrina	misread	cmp A; was `Calcabrino`
+251	3	Barbariccia	misread	cmp A; the argument (13 lines) joined into one line, `question-ing` and `Dragon-face` with it; lines restored as printed
+252	19	arroncigliò	printed	cmp B; the retype `arronciglò`
+252	19	impegolate	misread	cmp A; was `impegoiate`
+253	5	ship:	misread	cmp A; was `ship;`
+253	43	servant of a lord;	misread	cmp A; the quotes around `servant of a lord` are specks
+253	47	Q	misread	cmp B; the signature mark left out
+254	2	INFERNO	printed	cmp B; the page number `242` on its own line in the base
+254	10	sdrucia.	misread	cmp A; was `sdruccia:`
+254	13	inforco.”	misread	cmp A; was `inforco!”`
+256	2	INFERNO	printed	cmp B; the page number `244` on its own line in the base
+256	12	digrigna;	misread	cmp A; the semicolon left out
+256	15	Farfarello	misread	cmp A; no comma printed
+256	34	lui:	printed	cmp D; Tesseract and GLM-OCR `;`; a colon printed
+256	36	l’ali;	misread	cmp A; the semicolon left out
+257	21	come.	misread	cmp A; no closing quote printed; the speech goes on
+258	22	Irato	misread	cmp A; was `Iratò`
+259	4	All	misread	cmp A; was `Each`
+259	25	flying after	misread	cmp A; `flying after` left out at the line end
+260	3	1-9.	misread	cmp B; a stray `¶` before the note numbers removed (lines 3, 8, 12, 18)
+261	4	at	misread	cmp B; was `At`; lower case printed
+263	4	(76-	misread	cmp A; the whole page joined into one line per paragraph; lines restored as printed, the italics kept
+263	23	Yea pair	misread	cmp A; was `Yea, pair`
+264	2	INFERNO	printed	cmp B; the page number `252` on its own line in the base
+264	5	io gl'	misread	cmp A; was `—io gl'`; the dash is show-through
+264	15	compiè	misread	cmp B; was `compie`
+264	17	volerne	misread	cmp A; was `volerle`
+265	15	chase.	misread	cmp A; was `chase!`
+265	37	as my	misread	cmp B; was `is my`; the `a` half cut off at the scan's edge
+266	31	viso, d' esser meco;	misread	cmp B; was `viso d' esser meco`
+267	37	Two "Jovial Friars"	misread	cmp B; the quotes of the label left out
+268	2	INFERNO	printed	cmp B; the page number `256` on its own line in the base
+268	6	e s'ei	misread	cmp A; was `che s'ei`
+268	15	io veggio, … guance,	misread	cmp A; was `io il veggio` and `guance;`; the `il` is show-through
+268	16	sì	misread	cmp A; was `si`
+268	18	son	misread	cmp A; was `peson`
+268	21	Loderingo	misread	cmp A; was `Loderíngo`; likewise `uôm` (23, 34), `soffíando` (30), `convenía` (33)
+269	44	R	misread	cmp B; the signature mark left out
+270	2	INFERNO	printed	cmp B; the page number `258` on its own line in the base
+270	28	gì	printed	cmp D; Tesseract and GLM-OCR `gi`; the accent printed
+270	30	incarcati	misread	cmp A; was `incaricati`
+271	19	{{answerd|answered}}	misprint	cmp D; `answerd` printed; the base and the retype had `answered`; found by Tesseract and GLM-OCR
+272	2	NOTES	printed	cmp B; the page number `260` on its own line in the base
+272	5	Calcabrina	misread	cmp A; was `Calcabrīna`
+272	14	Guelf	misread	cmp A; was `Guelph`
+272	16	Podestà	printed	cmp D; Tesseract and GLM-OCR `Podesta`; the accent printed
+275	14	the Sun	misread	cmp A; words left out at the line ends: `the Sun` (14), `and the` (15), `sister's` (18)
+276	2	INFERNO	printed	cmp B; the page number `264` on its own line in the base
+276	36	accascia.	misread	cmp B; was `accascia.”`; no closing quote printed (Virgil's speech goes on)
+278	1	{{206|266}}	misprint	cmp B; the page number `206` printed for `266`; the retype read `266`
+278	5	sì	printed	cmp D; Tesseract and GLM-OCR `si`; the accent printed
+278	13	uscìo	misread	cmp A; was `uscio`
+278	31	mena,	misread	cmp A; the comma left out; likewise `rena;` (33)
+279	35	The Thieves	misread	cmp B; was `Thieves`
+280	3	sì	printed	cmp D; Tesseract and GLM-OCR `si`; the accent printed
+280	15	si scrisse	misread	cmp A; was `sì scrisse`
+280	23	{{cinquencentesimo|cinquecentesimo}}	misprint	cmp B; `cinquencentesimo` printed; the retype had `cinquecentesimo`
+280	25	amomo,	misread	cmp A; the comma left out
+280	26	fasce.	misread	cmp A; was `fasce. qs`; a handwritten note
+281	3	The Thieves	misread	cmp B; the labels `The Thieves` and `Their punishment` a paragraph late (lines 7, 11); moved as printed
+281	23	the ground,	misread	cmp A; `the ground,` left out at the line end
+281	27	Phœnix	misread	cmp A; was `Phoenix`; likewise `phœnix` on 285:9
+282	2	INFERNO	printed	cmp B; the page number `270` on its own line in the base
+282	18	dipinse;	misread	cmp A; was `dipinse:`
+284	2	NOTES	misread	cmp B; was `V. NOTES`; the `V.` is show-through; the page number `272` on its own line kept
+284	4	i.e.	misread	cmp A; was `i.e.,`
+285	30	Serravalle	misread	cmp A; was `Serraválle`; likewise on 31, with `Montecatíni`
+285	37	S	misread	cmp B; the signature mark left out
+286	18	diche":	misread	cmp A; was `diche" ;`
+287	36	Cacus	misread	cmp B; the label left out
+288	11	cessàr	misread	cmp A; was `cessâr`
+290	8	sì	printed	cmp D; Tesseract and GLM-OCR `si`; the accent printed; likewise 310:23
+290	11	mischiâr	printed	cmp D; Tesseract and GLM-OCR `mischiàr`; the circumflex printed
+290	38	di	misread	cmp A; was `dì`
+292	4	anzi	misread	cmp A; a stray `Il` at the line start removed
+292	26	dura.	misread	cmp A; was `dura:`; a speck above the period
+292	30	dirietro	misread	cmp A; was `drietro`; `diventaron` on 31 was `diventarono`
+293	19	not:	misread	cmp A; was `not;`
+293	21	front to	misread	cmp A; `front to` left out at the line end
+293	48	another,	misread	cmp B; was `another;`
+295	39	Sciancato:	misread	cmp B; was `Sciancato;`
+296	2	NOTES	printed	cmp B; the page number `284` on its own line in the base
+296	19	Æn.	misread	cmp B; was `AEn.`
+296	22	Virgil's . . .	misread	cmp A; a stray `‘` before the dots removed
+297	10	serpen-	printed	cmp A; the italics marks keep the comparison from joining `serpen-` / `tello`; nothing to do
+297	24	sqq	misread	cmp B; was `sqq.`; no period printed at the end of the note
+298	29	graverà	printed	cmp D; Tesseract and GLM-OCR `gravera`; the accent printed
+300	3	Allor	misread	cmp A; was `Allora`
+300	33	udirti	misread	cmp A; was `udir ti`
+301	46	T	misread	cmp B; the signature mark left out
+302	5	Eteòcle	misread	cmp A; was `Etèocle`
+302	13	Deidamìa	printed	cmp D; Tesseract and GLM-OCR `Deidamia`; the accent printed
+302	29	audivi	misread	cmp A; was `udivi`
+303	41	of you	misread	cmp A; `of you` left out at the line end
+304	2	INFERNO	printed	cmp B; the page number `292` on its own line in the base
+304	21	picciola	misread	cmp A; a stray `la` at the line start removed
+304	23	Morrocco	misread	cmp A; was `Marrocco`
+307	42	to heaven	misread	cmp A; `to heaven` left out at the line end
+308	3	{{53, 54,|53, 54.}}	misprint	cmp A; a comma printed after the verse numbers for the period; the base had `53, 54.`
+309	13	Caïeta	misread	cmp B; was `Caieta`
+310	12	gía	misread	cmp A; was `gia`
+310	18	Cicilian … mugghiò	misread	cmp A; was `Sicilian … mugghì`
+312	9	Tever	misread	cmp A; was `Tevèr`

@@ -9,3 +9,9 @@ page	line	printed	fixed	applied	source	note
 101	12	punished	punished.	yes	edition	Canto VIII, note 68, `have been / punished Within the City`; the period not printed (a wide space only); the retype and Tesseract read `punished`; found by the retype.
 150	35	taccia	faccia	yes	edition	Canto XIII, v. 85; the first letter printed as `t` (no ascender, as `042` `tastidiosi`); the retype reads `faccia` from the sense, Tesseract and GLM-OCR `taccia`; found by the retype.
 189	42	decription	description	yes	edition	Canto XVI, note 94-102, `would answer this decription`; the `s` not printed; the retype and Tesseract read `decription`, GLM-OCR `description`; found by the retype.
+234	3	VII.	VIII.	yes	edition	Canto XX, the marginal label `Cerchio VII. / Bolgia 4`; `Cerchio VIII.` on the facing pages and on `230`, `232`; the retype, Tesseract and GLM-OCR read `VII.`; found by the retype.
+239	14	58-139)	(58-139)	yes	edition	Canto XXI, the argument, `escort of Ten / 58-139).`; the opening parenthesis not printed; the retype reads `58-139).`, GLM-OCR `(58-139).`; found by the retype.
+271	19	answerd	answered	yes	edition	Canto XXIII, `So he answerd: "Nearer than thou dost hope,`; the `e` not printed; Tesseract and GLM-OCR read `answerd`, the base and the retype `answered`.
+278	1	206	266	yes	edition	Canto XXIV, the page number `206` for `266` (between `265` and `267`); Tesseract and GLM-OCR do not read it; found by the comparison.
+280	23	cinquencentesimo	cinquecentesimo	yes	edition	Canto XXIV, v. 108, `quando al cinquencentesimo anno appressa`; Tesseract and GLM-OCR read `cinquencentesimo`, the retype `cinquecentesimo`; found by the comparison.
+308	3	53, 54,	53, 54.	yes	edition	Canto XXVI, the note `53, 54, Eteocles and Polynices`; a comma after the verse numbers for the period of every other note; the retype, Tesseract and GLM-OCR read the comma; found by the retype.
