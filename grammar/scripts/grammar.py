@@ -16,18 +16,29 @@ model has rewritten is caught. An answer that fails is asked again, up to
 (as fix_quote_blocks.py does) and appended to <NN>.md, so an interrupted run
 resumes after the last section saved. A last call adds the closing summary.
 
-A source printed with a prose translation of its own (carlyle: the Italian
-of Carlyle's Inferno and his English) is explained against that translation
-instead (PROSE_PROMPT): the canto is sent page by page, the lines of a page
-followed by the English prose that renders them; the quotes give the
-originals alone, and the model quotes Carlyle's words in its explanation in
-double quotation marks, each of which must be found in his translation of
-the canto (up to punctuation and case). No translation directory is needed.
-
 The model does not change the translation; where it finds the translation
 wrong, it says so in a paragraph opening with `Translation note:`. With
 --notes, these are listed from the saved commentaries without calling the
 model.
+
+A source printed with a prose translation of its own (carlyle: the Italian
+of Carlyle's Inferno and his English) is compared with that translation
+instead, block by block (source.carlyle_blocks: lines of the Italian and the
+part of the English that renders exactly them). Each block is one call
+(BLOCK_PROMPT), with the block alone in <italian> and <english>: the model
+writes a title, then goes through the lines a sentence or clause at a time,
+each as a range `[a–b]` with the English that renders it, followed by
+bullets on every place where the English departs from a word-for-word
+rendering (word order, wording, words left out or supplied, changes of
+construction). An answer is checked: the ranges must cover the block's
+lines once and in order, their English joined must be the block's English
+(word for word, up to punctuation and case), and every phrase in double
+quotation marks must be found in the English of its range. An answer that
+fails is sent back with its problems to be corrected (REPAIR_PROMPT), up to
+--tries answers in all. The quote blocks of the lines and the English (as
+printed, cut where the ranges part) are then written by the script, under
+the heading `## Lines a–b — title`. These comparisons have no translation
+notes: the translation is a printed text, not one to be corrected.
 """
 
 import argparse
@@ -44,10 +55,11 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "commentary" / "scr
 
 from fix_quote_blocks import ORIG_RE, TRANS_RE, rebuild_lines
 from generate import CANTICLE_NAMES, LANGUAGES, same_line
-from source import SOURCES, Line, Passage, carlyle_passages, source_lines
+from source import SOURCES, Line, Passage, carlyle_blocks, source_lines
 
-# The passages of a source printed with a prose translation
-PASSAGES = {"carlyle": carlyle_passages}
+# The blocks of a source printed with a prose translation: lines of the
+# source and the part of the translation that renders exactly them
+BLOCKS = {"carlyle": carlyle_blocks}
 
 # Per language of the source text: what the commentary should look at, on
 # top of what every language has (forms, constructions, particles)
@@ -76,18 +88,31 @@ Write, in English and in Markdown, a commentary on the grammar and usage of line
 - Do not rewrite the translation. If it gets the grammar of a line wrong, add a paragraph opening with `Translation note:` that says what is wrong and what the line means.
 """.strip()
 
-PROSE_PROMPT = """
-Attached are the {source} of canto {number} of Dante's Divine Comedy, {canticle}, line by line, with the {prose}, as printed page by page: each block gives the lines of a page, and then the English that renders them. The translation is fixed: it is not to be changed.
+BLOCK_PROMPT = """
+Attached are lines {start}–{end} of canto {number} of Dante's Divine Comedy, {canticle}: the {source} in <italian>, each line with its number, and in <english> the part of the {prose} that renders exactly these lines. The translation is fixed: it is not to be changed.
 
-Write, in English and in Markdown, a commentary on the grammar and usage of lines {start}–{end} of the {language} text, as compared with this translation.
+Write, in English and in Markdown, a comparison of the translation with the {language} text: where the translation departs from a word-for-word rendering, and how.
 
-- Begin with the heading `## Lines {start}–{end} — <a short title>`, the title naming what these lines say in a few words. Write no other heading.
-- Go through the lines in order. Quote one sentence or clause at a time, one to four lines, and explain it right after the quote. Every line from {start} to {end} must be quoted exactly once.
-- Quote each line as `> line-number original`, copying it exactly from the attachment. Put consecutive lines in one quote block. Do not put the translation in the quote block.
-- Explain the grammar: the form of the words that need it (tense, mood, voice, person, case, number, the dictionary form), the syntax (what governs what, participles, infinitives, subordinate clauses, agreement, word order), the particles and conjunctions, and the usage of the text, especially {focus}.
-- Say how the translation renders the constructions, where it renders them differently and why. Quote its words in double quotation marks (“…”), copied exactly from the attachment; write the {language} words in italics, not in quotation marks.
-- Do not explain the content: no story, allegory, background, sources, or meter.
-- If the translation gets the grammar of a line wrong, add a paragraph opening with `Translation note:` that says what is wrong and what the line means.
+- On the first line, write a short title naming what these lines say, in a few words, and nothing else.
+- Then go through the lines in order, one sentence or clause at a time (one to four lines). For each, write a line `[a–b]` (or `[a]` for a single line) followed by the English that renders lines a to b, copied exactly from <english>. The ranges must cover every line from {start} to {end} once, in order; joined, their English must give the whole of <english>, in order, with no word left out, added, or changed.
+- After each such line, list in Markdown bullets every place where the translation departs from a word-for-word rendering: a change of word order; another word or turn of phrase; a word left out or supplied; a change of construction, part of speech, tense, mood, or number. Write each as `- *{language} words* ‘word-for-word rendering’ → “the translation's words”: what has changed`, and, where it helps, why (what the {language} construction is, and what English needs instead). Where the translation follows another reading or interpretation of the {language}, say so in the same way. If the lines are rendered word for word, write only `- Literal.`
+- Write {language} words in italics, your own renderings in single quotation marks (‘…’), and only words copied exactly from the English of that range in double quotation marks (“…”).
+- Do not explain the content: no story, allegory, background, sources, or meter. Write no headings and no quote blocks.
+
+For example, for lines 1–3 of canto 1 of the Inferno:
+
+[1–3] In the middle of the journey of our life, I found myself in a dark wood; for the straight way was lost.
+- *Mi ritrovai* ‘I found myself again’ → “I found myself”: the prefix *ri-* is not rendered.
+- *per una selva oscura* ‘through a dark wood’ → “in a dark wood”: *per* (through, about) is rendered by a preposition of rest.
+""".strip()
+
+# Sent after a rejected answer to a block, with the answer before it
+REPAIR_PROMPT = """
+Your answer has these problems:
+
+{problems}
+
+Correct them, and give the whole answer again, changing nothing else. A phrase in double quotation marks must be copied exactly from the English of its range; if it is your own rendering, put it in single quotation marks instead.
 """.strip()
 
 SUMMARY_PROMPT = """
@@ -96,9 +121,14 @@ Attached are the {source} of canto {number} of Dante's Divine Comedy, {canticle}
 Write, in English and in Markdown, the closing section of that commentary: the heading `## Summary — <a short title>`, followed by a few paragraphs that sum up the forms, constructions, and usages that recur in this canto, and how the translation deals with them. Quote no lines and do not explain the content (story, allegory, background, meter). Output only this section.
 """.strip()
 
+PROSE_SUMMARY_PROMPT = """
+Attached are the {source} of canto {number} of Dante's Divine Comedy, {canticle}, block by block (in <italian> the lines, each with its number, and in <english> the part of the {prose} that renders them), and a comparison of the translation with the {language} text.
+
+Write, in English and in Markdown, the closing section of that comparison: the heading `## Summary — <a short title>`, followed by a few paragraphs that sum up how the translation departs from a word-for-word rendering in this canto: the kinds of departure that recur (word order, choice of words, words left out or supplied, changes of construction), with a few examples, and where it keeps close to the {language}. Quote no lines and do not explain the content (story, allegory, background, meter). Output only this section.
+""".strip()
+
 # The layout of the attachment, in SUMMARY_PROMPT
 LAYOUT = "each line followed by its translation into {lang} in parentheses"
-PROSE_LAYOUT = "with the {prose}, as printed page by page"
 
 SECTION_RE = re.compile(r"^## Lines (\d+)\s*[–-]\s*(\d+)\b")
 SUMMARY_HEADING = "## Summary"
@@ -148,40 +178,120 @@ def canto_text(lines: list[Line], translations: list[str]) -> str:
     )
 
 
-def prose_text(passages: list[Passage]) -> str:
-    """Page by page: the lines of a page, then its English."""
-    return "\n\n".join(
-        "\n".join(f"{line.no} {line.text}" for line in passage.lines)
-        + f"\n\nEnglish: {passage.english}"
-        for passage in passages
-    )
+def block_text(block: Passage) -> str:
+    """A block as attached: its lines, then the English that renders them."""
+    lines = "\n".join(f"{line.no} {line.text}" for line in block.lines)
+    return f"<italian>\n{lines}\n</italian>\n<english>\n{block.english}\n</english>"
 
 
-# A quotation of the translation in the explanation
-ENGLISH_QUOTE_RE = re.compile(r"“([^“”]+)”")
 WORD_RE = re.compile(r"\w+")
+# A quotation of the translation in the comparison
+ENGLISH_QUOTE_RE = re.compile(r"“([^“”]+)”")
+# A range of lines and the English that renders it, `[1–3] In the middle …`
+RANGE_RE = re.compile(r"^\[(\d+)(?:\s*[–-]\s*(\d+))?\]\s*(.*)$")
 
 
-def words(text: str) -> str:
-    return " ".join(WORD_RE.findall(text.replace("’", "'").lower()))
+def words(text: str) -> list[str]:
+    """The words of a text, without punctuation and case."""
+    return WORD_RE.findall(text.replace("’", "'").lower())
 
 
-def english_quotes(text: str, english: str) -> list[str]:
-    """The quotations of two words or more in the explanations (outside the
-    quote blocks) that are not in english, up to punctuation and case; a
-    quotation cut with an ellipsis is checked piece by piece."""
-    found = words(english)
-    missing = []
-    for row in text.splitlines():
-        if row.startswith(">"):
+def contains(text: str, quote: str) -> bool:
+    """Whether the words of quote (piece by piece, if cut with an ellipsis)
+    occur in text, up to punctuation and case."""
+    found = f" {' '.join(words(text))} "
+    return all(f" {' '.join(piece)} " in found
+               for part in re.split(r"…|\.\.\.", quote) if (piece := words(part)))
+
+
+def parse_block(text: str) -> tuple[str, list[tuple[int, int, str, list[str]]], list[str]]:
+    """(title, ranges, problems) of an answer to BLOCK_PROMPT; a range is
+    (first line, last line, English, bullets)."""
+    rows = text.strip().splitlines()
+    title = rows[0].strip().strip("#*_ ") if rows else ""
+    problems = []
+    if not title or RANGE_RE.match(title) or title.startswith(("-", ">")):
+        problems.append("the first line is not a title")
+    ranges: list[tuple[int, int, str, list[str]]] = []
+    for row in rows[1:]:
+        if not row.strip():
             continue
-        for quote in ENGLISH_QUOTE_RE.findall(row):
-            for piece in re.split(r"…|\.\.\.", quote):
-                if len(piece := words(piece)) and " " in piece \
-                        and f" {piece} " not in f" {found} ":
-                    missing.append(quote)
-                    break
-    return missing
+        if m := RANGE_RE.match(row.strip()):
+            first = int(m.group(1))
+            ranges.append((first, int(m.group(2) or first), m.group(3).strip(), []))
+        elif ranges and row.startswith("- "):
+            ranges[-1][3].append(row.strip())
+        elif ranges and ranges[-1][3] and row.startswith(" "):
+            ranges[-1][3][-1] += " " + row.strip()  # a bullet continued
+        else:
+            problems.append(f"a line that is neither a range `[a–b] English` nor a bullet: {row.strip()[:60]}")
+    return title, ranges, problems
+
+
+def check_block(text: str, block: Passage) -> list[str]:
+    """The problems of one answer to BLOCK_PROMPT; [] if it can be kept."""
+    title, ranges, problems = parse_block(text)
+    if not ranges:
+        return problems + ["no ranges `[a–b] English`"]
+    expected = block.start
+    for first, last, _, _ in ranges:
+        if first != expected or last < first:
+            problems.append(f"the ranges are {[f'{a}-{b}' for a, b, _, _ in ranges]}, "
+                            f"not lines {block.start}–{block.end} once each in order")
+            break
+        expected = last + 1
+    else:
+        if expected != block.end + 1:
+            problems.append(f"the ranges end at line {expected - 1}, not {block.end}")
+    joined = words(" ".join(english for _, _, english, _ in ranges))
+    given = words(block.english)
+    if joined != given:
+        i = next((i for i, (a, b) in enumerate(zip(joined, given)) if a != b),
+                 min(len(joined), len(given)))
+        problems.append("the English of the ranges, joined, is not the English given: "
+                        f"after “{' '.join(given[max(0, i - 5):i])}” it has "
+                        f"“{' '.join(joined[i:i + 5])}”, not “{' '.join(given[i:i + 5])}”")
+    for first, last, english, bullets in ranges:
+        where = f"[{first}–{last}]" if last > first else f"[{first}]"
+        if not bullets:
+            problems.append(f"{where}: no bullets")
+        for bullet in bullets:
+            for quote in ENGLISH_QUOTE_RE.findall(bullet):
+                if not contains(english, quote):
+                    problems.append(f"{where}: not in the English of this range: “{quote}”")
+    return problems
+
+
+def split_english(english: str, counts: list[int]) -> list[str]:
+    """english cut into pieces of counts[i] words (as words() counts them),
+    each piece keeping the rest of its last word (Peter’s, sixty-six, which
+    words() splits) and the punctuation after it, up to a space or a dash."""
+    ends = [m.end() for m in WORD_RE.finditer(english.replace("’", "'"))]
+    pieces, start, total = [], 0, 0
+    for count in counts:
+        total += count
+        cut = ends[total - 1] if total else 0
+        while cut < len(english) and not english[cut].isspace() \
+                and english[cut - 1] != "—":
+            cut += 1
+        pieces.append(english[start:cut].strip())
+        start = cut
+    pieces[-1] = (pieces[-1] + english[start:]).strip()
+    return pieces
+
+
+def render_block(text: str, block: Passage) -> str:
+    """The section of a checked answer: the heading, then for every range the
+    lines, the English as printed, and the bullets."""
+    title, ranges, _ = parse_block(text)
+    pieces = split_english(block.english,
+                           [len(words(english)) for _, _, english, _ in ranges])
+    lines = {line.no: line.text for line in block.lines}
+    rows = [f"## Lines {block.start}–{block.end} — {title}"]
+    for (first, last, _, bullets), piece in zip(ranges, pieces):
+        rows += [""] + [f"> {no} {lines[no]}  " for no in range(first, last + 1)]
+        rows += ["", piece, ""] + bullets
+    return "\n".join(rows)
 
 
 def quoted_pairs(text: str) -> list[tuple[int, str, str | None]]:
@@ -197,10 +307,8 @@ def quoted_pairs(text: str) -> list[tuple[int, str, str | None]]:
 
 
 def check_section(text: str, start: int, end: int, lines: list[Line],
-                  translations: list[str] | None, english: str = "") -> list[str]:
-    """The problems of one answer; [] if it can be kept. Without
-    translations, the quotes must give the originals alone, and the
-    quotations of the translation must be found in english."""
+                  translations: list[str]) -> list[str]:
+    """The problems of one answer; [] if it can be kept."""
     problems = []
     headings = [row for row in text.splitlines() if row.startswith("#")]
     if not headings or not (m := SECTION_RE.match(headings[0])) \
@@ -217,23 +325,31 @@ def check_section(text: str, start: int, end: int, lines: list[Line],
             continue
         if not same_line(orig, lines[no - 1].text):
             problems.append(f"line {no}: the quoted original does not match")
-        if translations is None:
-            if trans is not None:
-                problems.append(f"line {no}: a translation in the quote")
-        elif trans is None:
+        if trans is None:
             problems.append(f"line {no}: no translation after the quote")
         elif not same_line(trans, translations[no - 1]):
             problems.append(f"line {no}: the quoted translation does not match")
-    if translations is None:
-        for quote in english_quotes(text, english):
-            problems.append(f"not in the translation: “{quote}”")
     return problems
 
 
-def ask(client: Client, messages: list[str], check, tries: int) -> str | None:
-    """The first answer with no problems, or None after tries answers."""
+def ask(client: Client, messages: list[str], check, tries: int,
+        repair: bool = False) -> str | None:
+    """The first answer with no problems, or None after tries answers. With
+    repair, a rejected answer is sent back with its problems to be
+    corrected; otherwise the question is asked again."""
+    text, problems = None, []
     for attempt in range(1, tries + 1):
-        text = client(messages).text.strip()
+        if repair and text is not None:
+            history = client.history
+            client.history = [{"role": "user", "content": m} for m in messages] \
+                + [{"role": "assistant", "content": text}]
+            try:
+                listed = "\n".join(f"- {problem}" for problem in problems)
+                text = client(REPAIR_PROMPT.format(problems=listed)).text.strip()
+            finally:
+                client.history = history
+        else:
+            text = client(messages).text.strip()
         if not (problems := check(text)):
             return text
         print(f"\nanswer {attempt} rejected:", file=sys.stderr)
@@ -242,65 +358,82 @@ def ask(client: Client, messages: list[str], check, tries: int) -> str | None:
     return None
 
 
+def open_commentary(path: Path, canticle: str, canto: int) -> str | None:
+    """The commentary saved so far (or its title, if none), or None if it is
+    complete."""
+    if path.exists():
+        saved = path.read_text()
+        if any(row.startswith(SUMMARY_HEADING) for row in saved.splitlines()):
+            print(f"Skipped (already complete): {path}")
+            return None
+        print(f"Resuming from {path}")
+        return saved
+    return f"# {CANTICLE_NAMES[canticle]} {canto}\n"
+
+
+def save(path: Path, saved: str, part: str) -> str:
+    """saved with part appended, written to path."""
+    saved = saved.rstrip("\n") + "\n\n" + part.strip("\n") + "\n"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(saved)
+    print(f"\nSaved to {path}")
+    return saved
+
+
+def done_sections(saved: str) -> set[int]:
+    """The last lines of the sections saved."""
+    return {int(m.group(2)) for row in saved.splitlines() if (m := SECTION_RE.match(row))}
+
+
+def summarize(client: Client, messages: list[str], tries: int) -> str | None:
+    answer = ask(
+        client, messages,
+        lambda answer: [] if answer.startswith(f"{SUMMARY_HEADING} — ")
+        else [f"does not open with `{SUMMARY_HEADING} — ...`"],
+        tries,
+    )
+    return answer
+
+
 def explain(client: Client, canticle: str, canto: int, args: argparse.Namespace) -> bool:
     """Write or continue <out>/<canticle>/<NN>.md; False if a section failed."""
     source = SOURCES[args.source]
+    if "prose" in source:
+        return compare(client, canticle, canto, args)
     lines = source_lines(args.source, canticle, canto)
     names = dict(
         source=source["name"], language=source["language"],
         canticle=CANTICLE_NAMES[canticle], number=canto,
+        lang=LANGUAGES[args.lang_code]["name"],
     )
-    if "prose" in source:
-        passages = PASSAGES[args.source](canto)
-        translations = None
-        english = " ".join(passage.english for passage in passages)
-        text = prose_text(passages)
-        names["prose"] = source["prose"]
-        prompt_template = PROSE_PROMPT
-        layout = PROSE_LAYOUT.format(prose=source["prose"])
-    else:
-        trans_path = args.dir / canticle / f"{canto:02d}.txt"
-        translations = trans_path.read_text().splitlines()
-        if len(translations) != len(lines) or not all(translations):
-            print(f"{trans_path}: not one translation per line of the source, skipped",
-                  file=sys.stderr)
-            return False
-        english = ""
-        text = canto_text(lines, translations)
-        names["lang"] = LANGUAGES[args.lang_code]["name"]
-        prompt_template = PROMPT
-        layout = LAYOUT.format(lang=names["lang"])
+    trans_path = args.dir / canticle / f"{canto:02d}.txt"
+    translations = trans_path.read_text().splitlines()
+    if len(translations) != len(lines) or not all(translations):
+        print(f"{trans_path}: not one translation per line of the source, skipped",
+              file=sys.stderr)
+        return False
+    text = canto_text(lines, translations)
     originals = {line.no: line.text for line in lines}
 
     out_path = args.out / canticle / f"{canto:02d}.md"
-    if out_path.exists():
-        saved = out_path.read_text()
-        if any(row.startswith(SUMMARY_HEADING) for row in saved.splitlines()):
-            print(f"Skipped (already complete): {out_path}")
-            return True
-        print(f"Resuming from {out_path}")
-    else:
-        saved = f"# {CANTICLE_NAMES[canticle]} {canto}\n"
-    done = {int(m.group(2)) for row in saved.splitlines() if (m := SECTION_RE.match(row))}
+    if (saved := open_commentary(out_path, canticle, canto)) is None:
+        return True
+    done = done_sections(saved)
 
     def append(part: str):
         nonlocal saved
         rows = rebuild_lines(out_path, part.splitlines(), originals, translations)
-        saved = saved.rstrip("\n") + "\n\n" + "\n".join(rows) + "\n"
-        out_path.parent.mkdir(parents=True, exist_ok=True)
-        out_path.write_text(saved)
-        print(f"\nSaved to {out_path}")
+        saved = save(out_path, saved, "\n".join(rows))
 
     for start, end in sections(lines, source["language"], args.size):
         if end in done:
             continue
         print(f"\n--- canto {canto}, lines {start}-{end} ---")
-        prompt = prompt_template.format(**names, start=start, end=end,
-                                        focus=FOCUS[source["language"]])
+        prompt = PROMPT.format(**names, start=start, end=end,
+                               focus=FOCUS[source["language"]])
         answer = ask(
             client, [text, prompt],
-            lambda answer: check_section(answer, start, end, lines, translations,
-                                         english),
+            lambda answer: check_section(answer, start, end, lines, translations),
             args.tries,
         )
         if answer is None:
@@ -310,17 +443,48 @@ def explain(client: Client, canticle: str, canto: int, args: argparse.Namespace)
         append(answer)
 
     print(f"\n--- canto {canto}, summary ---")
-    prompt = SUMMARY_PROMPT.format(**names, layout=layout)
-    answer = ask(
-        client, [text, saved, prompt],
-        lambda answer: [] if answer.startswith(f"{SUMMARY_HEADING} — ")
-        else [f"does not open with `{SUMMARY_HEADING} — ...`"],
-        args.tries,
-    )
-    if answer is None:
+    prompt = SUMMARY_PROMPT.format(**names, layout=LAYOUT.format(lang=names["lang"]))
+    if (answer := summarize(client, [text, saved, prompt], args.tries)) is None:
         print(f"\ncanto {canto}: no summary passed", file=sys.stderr)
         return False
     append(answer)
+    return True
+
+
+def compare(client: Client, canticle: str, canto: int, args: argparse.Namespace) -> bool:
+    """Write or continue <out>/<canticle>/<NN>.md for a source printed with a
+    prose translation, block by block; False if a block failed."""
+    source = SOURCES[args.source]
+    blocks = BLOCKS[args.source](canto)
+    names = dict(
+        source=source["name"], language=source["language"], prose=source["prose"],
+        canticle=CANTICLE_NAMES[canticle], number=canto,
+    )
+    out_path = args.out / canticle / f"{canto:02d}.md"
+    if (saved := open_commentary(out_path, canticle, canto)) is None:
+        return True
+    done = done_sections(saved)
+
+    for block in blocks:
+        if block.end in done:
+            continue
+        print(f"\n--- canto {canto}, lines {block.start}-{block.end} ---")
+        prompt = BLOCK_PROMPT.format(**names, start=block.start, end=block.end)
+        answer = ask(client, [block_text(block), prompt],
+                     lambda answer: check_block(answer, block), args.tries, repair=True)
+        if answer is None:
+            print(f"\ncanto {canto}, lines {block.start}-{block.end}: no answer passed, "
+                  f"canto left unfinished", file=sys.stderr)
+            return False
+        saved = save(out_path, saved, render_block(answer, block))
+
+    print(f"\n--- canto {canto}, summary ---")
+    text = "\n\n".join(block_text(block) for block in blocks)
+    prompt = PROSE_SUMMARY_PROMPT.format(**names)
+    if (answer := summarize(client, [text, saved, prompt], args.tries)) is None:
+        print(f"\ncanto {canto}: no summary passed", file=sys.stderr)
+        return False
+    saved = save(out_path, saved, answer)
     return True
 
 

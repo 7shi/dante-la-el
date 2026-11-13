@@ -25,8 +25,8 @@ argument | description | default
 `-o`, `--out` | output directory for `<canticle>/<NN>.md` | required
 `-c`, `--canto` | cantos to process (SPEC syntax) | all
 `-s`, `--source` | source text to explain: `it`, `grc`, or `carlyle` | `it`
-`--size` | lines per section, roughly | `30`
-`-t`, `--tries` | answers asked for one section before giving up | `3`
+`--size` | lines per section, roughly (not with `-s carlyle`, cut in blocks) | `30`
+`-t`, `--tries` | answers asked for one section (or block) before giving up | `3`
 `-n`, `--notes` | only list the translation notes of the saved commentaries | -
 `--no-think` | disable thinking output | enabled
 `--save-usage` | record usage for any model | -
@@ -46,6 +46,14 @@ Each canto is cut into sections of about `--size` lines that end where a sentenc
 
 An answer is kept only if its heading names the section's lines, it quotes every line of the section exactly once and in order, and every quoted original and translation matches the source and the `.txt` (as `generate.py` matches quotes: up to the style of the quote marks and three other characters). The model must not rewrite the translation, so a quoted translation that does not match rejects the answer. A rejected answer is asked again, up to `--tries` times; if none passes, the canto is left unfinished and the run goes on with the next one (the exit status is then 1). The quote blocks of a kept answer are rebuilt from the source and the `.txt` (as `fix_quote_blocks.py` does) and the section is appended to `<NN>.md`, under the heading `# <Canticle> <N>`, so an interrupted run resumes after the last section saved. After the last section, a closing section `## Summary — <short title>` is asked for, with the canto and the commentary so far; a canto with a summary is complete and skipped.
 
-With `-s carlyle`, the commentary compares the Italian with Carlyle's English instead. His translation is prose, printed page by page above the verse it renders, so the canto is sent page by page (`../commentary/scripts/source.py` reads the pages of `texts/en/`: the verse lines, then the English prose of the page, without the argument, the notes, and the footnote references). The quotes give the originals alone (`> N original`, consecutive lines in one block, no translation line), and the model quotes Carlyle's words in its explanation in double quotation marks `“…”`; an answer is also rejected if one of these quotations (of two words or more, each piece of one cut with an ellipsis) is not found in Carlyle's English of the canto, up to punctuation and case.
+With `-s carlyle`, the Italian is compared with Carlyle's English instead, block by block: `../commentary/scripts/source.py` cuts `texts/en/` into blocks of Italian lines and the English that renders exactly them (`../editions/carlyle-blocks.txt`, see [scripts/align_carlyle.py](../editions/README.md#scriptsalign_carlylepy)), without the argument, the notes, and the footnote references, and `--size` is not used. Each block is one call, with the block alone, the lines in `<italian>` and the English in `<english>`. The model writes a short title on the first line, then goes through the lines a sentence or clause at a time, each as a range `[a–b]` followed by the English that renders it, copied from the block, and after it bullets on every place where the English departs from a word-for-word rendering (word order, wording, words left out or supplied, changes of construction, another reading), as `- *Italian* ‘word-for-word rendering’ → “Carlyle's words”: what has changed`, or `- Literal.`:
+
+```
+The dark wood at the midpoint of life
+[1–3] In the middle of the journey of our life, I found myself in a dark wood; for the straight way was lost.
+- *Mi ritrovai* ‘I found myself again’ → “I found myself”: the prefix *ri-* is not rendered.
+```
+
+An answer is kept only if the ranges cover the block's lines once and in order, their English, joined, is the block's English word for word (up to punctuation and case), and every phrase in double quotation marks is found in the English of its range; the model's own renderings go in single quotation marks. A rejected answer is sent back with its problems to be corrected (the rest kept as it is), up to `--tries` answers in all. The script then writes the section: the heading `## Lines a–b — <title>`, and for each range the quote block of its lines (`> N original`), the English as printed (cut where the ranges part), and the bullets. The summary sums up the kinds of departure that recur in the canto. These comparisons have no translation notes: Carlyle's English is a printed text, not one to be corrected.
 
 Where the model finds that the translation gets the grammar of a line wrong, it writes a paragraph opening with `Translation note:` instead of changing the translation. `--notes` lists these paragraphs with the lines quoted before them; after the `.txt` is corrected, `make fix-grammar-quotes` copies the corrected lines into the quote blocks.

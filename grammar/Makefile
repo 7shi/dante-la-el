@@ -9,7 +9,7 @@ unexport LANG
 endif
 LANG_CODE ?= el
 # The source text: it (Italian, default), grc (Musurus's Greek Inferno), or
-# carlyle (the Italian of Carlyle's Inferno, explained by grammar against
+# carlyle (the Italian of Carlyle's Inferno, compared by grammar with
 # Carlyle's own English, so it takes no LANG)
 SOURCE ?= it
 PROSE_SOURCES = carlyle
@@ -31,7 +31,7 @@ help:
 	@echo ""
 	@echo "  grammar      Write $(OUT)/<canticle>/NN.md, a grammar commentary in English on"
 	@echo "               every line of the $(SOURCE) source, quoting the translations of $(DIR)/"
-	@echo "               (for carlyle, Carlyle's English)"
+	@echo "               (for carlyle, a comparison with Carlyle's English, block by block)"
 	@echo "  grammar-notes List the translation notes of the grammar commentaries, without calling the model"
 	@echo "  fix-grammar-quotes Rebuild the quote blocks of $(OUT)/*/NN.md from the source and $(DIR)/"
 	@echo "               (for carlyle, from the source alone)"

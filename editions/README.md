@@ -11,6 +11,8 @@ Reports on the texts behind the `carlyle` source of [grammar.py](../grammar/READ
 
 Neither lists every difference. The differences of spelling, punctuation, and the forms of words are described by their features with examples; the differences of words are listed in full.
 
+The directory also holds [carlyle-blocks.txt](carlyle-blocks.txt), the cuts of Carlyle's Inferno into blocks of Italian lines and the English that renders them, which the `carlyle` source of grammar.py is explained by: on a page of Carlyle's edition the English is cut where the page ends, often in mid-sentence, so each block is cut where the English and the Italian part together near a page break. The cuts were drafted by [`scripts/align_carlyle.py`](scripts/align_carlyle.py) and checked by hand (see [its section](#scriptsalign_carlylepy) of the README).
+
 ## How they are made
 
 1. [`scripts/compare_editions.py`](scripts/compare_editions.py) collects the differences and sorts out what can be told mechanically (orthography, forms of the same word, punctuation, case), and lists the rest:
@@ -58,4 +60,19 @@ Collects the differences between the editions of the Inferno, as material for th
 
 The judgments made by hand on its output, and the tables rendered from them by `scripts/render_editions.py`, are described under [How they are made](#how-they-are-made).
 
-`../commentary/scripts/source.py` reads the editions printed with an English translation passage by passage: Carlyle's edition one page at a time (the verse of the page and the English prose above it, which renders exactly that verse), Oelsner's one spread at a time (the Italian of an even page and the English of the odd page facing it, which renders the tercets that begin on the even page).
+`../commentary/scripts/source.py` reads the editions printed with an English translation passage by passage: Carlyle's edition one page at a time (the verse of the page and the English prose above it, which is cut where the page ends, often in mid-sentence, so that it may run a clause or a few lines ahead of the verse or behind it), Oelsner's one spread at a time (the Italian of an even page and the English of the odd page facing it, which renders the tercets that begin on the even page).
+
+## scripts/align_carlyle.py
+
+```bash
+uv run scripts/align_carlyle.py draft [-o OUT]
+uv run scripts/align_carlyle.py check [FILE]
+```
+
+Cuts Carlyle's Inferno into blocks of Italian lines and the English that renders them. On a page of his edition the English is cut where the page ends, often in mid-sentence, while the Italian is cut at a whole line, so at a page break the two may be a clause or a few lines apart. `carlyle-blocks.txt` gives for each block but the last of a canto the Italian line it ends with and the place where its English ends, as words around a `|` that occur only once in the English of the canto:
+
+```
+1:21	passed so piteously.|And as he,
+```
+
+`draft` writes a first cut for every page break, at the clause ends nearest the break, chosen by the length of the English and the Italian moved across it. That guess is wrong at about a fifth of the breaks, so every cut of the file was checked against the text by hand (56 of the 345 corrected, and two blocks of one line joined to the block before them); `draft` is not to be written over it. `check` reads the file through `source.carlyle_blocks` (every cut must be found once, in order) and lists the blocks whose English is unusually long or short for their lines (about ten words a line).

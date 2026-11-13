@@ -17,8 +17,13 @@ The editions printed with an English translation are also read passage by
 passage (Passage: a range of lines, their Italian, and the English that
 renders them):
 
-- carlyle_passages: texts/en, one passage per page, as the English prose of
-  a page renders exactly the verse printed below it
+- carlyle_passages: texts/en, one passage per page, the verse printed on
+  the page and the English prose above it; the English is cut where the
+  page ends, often in mid-sentence, so at a page break it may run a clause
+  or a few lines ahead of the verse or behind it
+- carlyle_blocks: texts/en in blocks whose English renders exactly their
+  verse, cut near every page break as editions/carlyle-blocks.txt gives
+  (checked by hand; see scripts/align_carlyle.py)
 - oelsner_passages: texts/en-oelsner (the Temple Classics edition, 1903,
   with Oelsner's Italian text and his revision of Carlyle's translation),
   one passage per tercet, as the English is printed one paragraph per tercet
@@ -34,6 +39,8 @@ TEXTS_DIR = Path(__file__).resolve().parents[2] / "texts"
 GRC_DIR = TEXTS_DIR / "grc"
 CARLYLE_DIR = TEXTS_DIR / "en"
 OELSNER_DIR = TEXTS_DIR / "en-oelsner"
+# The cuts of Carlyle's pages into blocks (see editions/scripts/align_carlyle.py)
+BLOCKS_PATH = Path(__file__).resolve().parents[2] / "editions" / "carlyle-blocks.txt"
 
 # Per source:
 # - name: the name of the source text, as written into the prompts
@@ -219,6 +226,59 @@ def carlyle_passages(canto: int) -> list[Passage]:
             raise ValueError(f"{path}: p. {page} has no {'prose' if verse else 'verse'}")
         passages.append(Passage(verse[0].no, verse[-1].no, verse, " ".join(prose)))
     return passages
+
+
+def carlyle_english(passages: list[Passage]) -> tuple[str, list[int]]:
+    """The English of the pages in one text, and the position in it where
+    each page's English ends."""
+    text, ends = "", []
+    for passage in passages:
+        if text and not text.endswith("—"):
+            text += " "
+        text += passage.english
+        ends.append(len(text))
+    return text, ends
+
+
+def cut_positions(text: str, spec: str) -> list[int]:
+    """The positions in text of the cut marked | in spec, `words before|words
+    after`, whitespace aside."""
+    before, after = spec.split("|")
+    pattern = r"\s+".join(map(re.escape, before.split())) + r"(?=\s+" \
+        + r"\s+".join(map(re.escape, after.split())) + ")"
+    return [m.end() for m in re.finditer(pattern, text)]
+
+
+def carlyle_blocks(canto: int, path: Path | None = None) -> list[Passage]:
+    """The blocks of one canto of texts/en: lines of the Italian and the
+    English that renders them, cut as editions/carlyle-blocks.txt gives (see
+    scripts/align_carlyle.py)."""
+    passages = carlyle_passages(canto)
+    text, _ = carlyle_english(passages)
+    lines = [line for passage in passages for line in passage.lines]
+    path = path or BLOCKS_PATH
+    cuts = []
+    for row in path.read_text().splitlines():
+        row = row.split("\t#")[0].rstrip()
+        if not row or row.startswith("#") or not row.startswith(f"{canto}:"):
+            continue
+        spec_line, spec = row.split("\t")
+        no = int(spec_line.split(":")[1])
+        found = cut_positions(text, spec)
+        if len(found) != 1:
+            raise ValueError(f"{path}: {spec_line}: the cut `{spec}` occurs {len(found)} times")
+        if cuts and (no <= cuts[-1][0] or found[0] <= cuts[-1][1]):
+            raise ValueError(f"{path}: {spec_line}: not after the cut before it")
+        if no >= lines[-1].no:
+            raise ValueError(f"{path}: {spec_line}: not before the last line")
+        cuts.append((no, found[0]))
+    blocks = []
+    first, position = lines[0].no, 0
+    for no, cut in cuts + [(lines[-1].no, len(text))]:
+        block = [line for line in lines if first <= line.no <= no]
+        blocks.append(Passage(first, no, block, text[position:cut].strip()))
+        first, position = no + 1, cut
+    return blocks
 
 
 def carlyle_lines(canto: int) -> list[Line]:
