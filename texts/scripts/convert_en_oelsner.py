@@ -188,6 +188,9 @@ def join_lines(lines, where):
     for l in lines[1:]:
         if re.search(r"[A-Za-zÀ-ÿ’']-$", text):
             text = join_hyphen(text, l, where)
+        elif text.endswith("]-") and l[:1].islower():
+            # a word hyphenated after an editor's bracket (`[down]-` / `wards`)
+            text = text[:-1] + l
         elif text.endswith("—") or l.startswith("—") or range_split(text, l):
             text += l
         else:
@@ -390,7 +393,7 @@ def canto_notes(canto, n, paras, band=""):
                     or n in NOTE_CONTINUED:
                 if re.search(r"[A-Za-z]-$", prev_text):
                     joined = join_hyphen(prev_text, text, f"{where} (note)")
-                elif range_split(prev_text, text):
+                elif prev_text.endswith("—") or range_split(prev_text, text):
                     joined = prev_text + text
                 else:
                     joined = prev_text + " " + text
