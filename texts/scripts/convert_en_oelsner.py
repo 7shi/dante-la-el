@@ -177,13 +177,18 @@ def join_hyphen(head, tail, where):
     return head[:-1] + sep + tail
 
 
+def range_split(head, tail):
+    """A number range divided at a line end (`76-` / `108`): joined with no space."""
+    return bool(re.search(r"\d-$", head)) and tail[:1].isdigit()
+
+
 def join_lines(lines, where):
     """Join the printed lines of a paragraph into one line."""
     text = lines[0]
     for l in lines[1:]:
         if re.search(r"[A-Za-zÀ-ÿ’']-$", text):
             text = join_hyphen(text, l, where)
-        elif text.endswith("—") or l.startswith("—"):
+        elif text.endswith("—") or l.startswith("—") or range_split(text, l):
             text += l
         else:
             text += " " + l
@@ -385,6 +390,8 @@ def canto_notes(canto, n, paras, band=""):
                     or n in NOTE_CONTINUED:
                 if re.search(r"[A-Za-z]-$", prev_text):
                     joined = join_hyphen(prev_text, text, f"{where} (note)")
+                elif range_split(prev_text, text):
+                    joined = prev_text + text
                 else:
                     joined = prev_text + " " + text
                 parts[i] = esc(joined)
