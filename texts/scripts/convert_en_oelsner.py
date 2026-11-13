@@ -33,6 +33,25 @@ PLATES = {25, 37, 133, 191, 249, 321, 345}
 MISSING_AFTER = 396
 MISSING_VERSES = range(52, 85)
 
+# The figures cut from the scans by crop_en_oelsner_images.py (texts/en-oelsner/images),
+# shown where they are printed: at the top of their page, or after the note that
+# introduces them (IMAGE_AFTER_NOTE, the end of that note). Their names and captions
+# stay as text.
+IMAGES = {
+    25: "Map: Dante's geographical description",
+    37: "Section of the Earth: Hell, Purgatory and the passage of the poets",
+    133: "The hours at which the signs of the Zodiac rise",
+    191: "Map: the rivers of Romagna and the mouth of the Po",
+    284: "Diagram for Canto XXIV 34-40 (after Scartazzini)",
+    409: "Plan of concentric spheres",
+    410: "Section of the Universe",
+}
+IMAGE_AFTER_NOTE = {284: "will make these verses clear:"}
+
+
+def image(n):
+    return f"![{IMAGES[n]}](images/{n:03d}.jpg)"
+
 FRONT = ("title-page", [7, 8, 10, 11, 13])
 BACK = [
     ("note-on-dantes-hell", [403, 404, 405]),
@@ -292,6 +311,8 @@ def convert_canto(c, first, last, errors):
     while n <= last:
         if n in PLATES:
             parts.append(marker(n))
+            if n in IMAGES:
+                parts.append(image(n))
             parts.append(render_plate(read_page(n)))
             n += 1
             continue
@@ -406,12 +427,14 @@ def canto_notes(canto, n, paras, band=""):
             BREAK_CHECK.append(f"{where}: …{prev[1][-30:]} | {text[:30]}")
         parts.append(esc(text))
         canto.last_note = (len(parts) - 1, text)
+        if n in IMAGE_AFTER_NOTE and text.endswith(IMAGE_AFTER_NOTE[n]):
+            parts.append(image(n))
 
 
 # The first note paragraph of a page after a finished sentence, checked against the
 # images: continued from the previous page (flush left) or a new paragraph (indented).
 NOTE_CONTINUED = {189, 356}
-NOTE_NEW = {69, 211, 225, 237, 332}
+NOTE_NEW = {69}
 
 CONTINUED_CHECK = []
 NOTE_START_CHECK = []
@@ -477,6 +500,8 @@ def convert_plain(pages, title_page=False):
     parts = []
     for i, n in enumerate(pages):
         parts.append(marker(n))
+        if n in IMAGES:
+            parts.append(image(n))
         lines = page_lines(n)
         note = None
         if n in FOOTNOTES:

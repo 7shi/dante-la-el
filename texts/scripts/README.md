@@ -10,6 +10,7 @@ are in [texts/PLAN.md](../PLAN.md).
 |---|---|---|
 | `convert_en.py` | Carlyle's edition (`ocr/en/`, 1889) | `texts/en/` |
 | `convert_en_oelsner.py` | Temple Classics edition, revised by Oelsner (`ocr/en-oelsner/`, 1903) | `texts/en-oelsner/` |
+| `crop_en_oelsner_images.py` | the maps, diagrams and plates of the same, cut from the scans | `texts/en-oelsner/images/` |
 | `convert_la.py` | Serravalle's translation and commentary (`ocr/la/`, 1891) | `texts/la/` |
 | `convert_grc.py` | Musurus's Greek translation (`ocr/grc/`, 1882) | `texts/grc/` |
 

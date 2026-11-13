@@ -13,7 +13,7 @@ These files are generated from the proofread page transcriptions in [`ocr/en-oel
 - **English**: one paragraph per tercet, as printed. Words in square brackets (`I [came to] myself`) are Oelsner's revisions of Carlyle's text.
 - **Marginal labels**: the editor's sidenotes (`Proemio`, `Cerchio VIII. Bolgia 3` beside the Italian; `Dante`, `The Leopard` beside the English) are comments at the end of the line or paragraph they stand beside: `<!-- label: Il Colle -->`.
 - **Notes**: keyed to verse numbers (`73-75. …`), as plain paragraphs. A note continued on the next page is joined to its start.
-- **Maps, plates, tables**: kept where they are printed, with their text line by line.
+- **Maps, plates, tables**: kept where they are printed, with their text line by line. The maps, diagrams and plates are shown as images cut from the scans (`images/NNN.jpg`, NNN the scan), above their text; the diagram in the note on Canto XXIV 34-40 follows the note. The genealogical tables are text only.
 - **Missing leaf**: pp. 385–386 (Canto XXXIV, the English of vv. 19–51 and the Italian of vv. 52–84) are missing from the scan; the place is marked `<!-- pp. 385–386 missing from the scan -->`.
 - **Not transcribed**: the physical copy's covers, bookplate, blank pages, library stamps and loan slips, and pencil notes.
 
