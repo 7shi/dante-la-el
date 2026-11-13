@@ -7,7 +7,7 @@ a quel parlar che mi parea nemico.
 Egli si mosse; e poi così andando
 mi disse: “Perchè sei tu sì smarrito?”
 Ed io li soddisfeci al suo dimando.
-‘La mente tua conservi quel che udito
+{{‘|“}}La mente tua conservi quel che udito
 hai contra te,” mi comandò quel saggio,
 “ed ora attendi qui”; e drizzò il dito.
 “Quando sarai dinanzi al dolce raggio
@@ -24,7 +24,6 @@ che in fin lassù facea spiacer suo lezzo.
 is that the highest happiness is of a negative nature,
 consisting in absence of pain. This is how Dante
 himself expounds the philosophy in Conv. iv. 6:
-
 100-110. The present passage contains rather a
 corollary of Epicurus’ teaching. Epicurus’ *summum*
 *bonum* is conceivable on earth, whereas the Catholic

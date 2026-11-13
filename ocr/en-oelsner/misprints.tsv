@@ -1,14 +1,33 @@
 page	line	printed	fixed	applied	source	note
 024	47	117)	117).	yes	edition	The last note of Canto I; the closing period not printed (a speck stands well apart); the retype reads `117)`, Tesseract `117)`; found by the retype.
 025	38	Paradiso.	Paradiso,	yes	edition	The caption of the map after Canto I; a period printed after `Paradiso` before `ix. 82-93`, against the comma after `"Inferno," i. 105`; found by the read-through.
+030	19	Di	di	yes	edition	Canto II, v. 74, `Di te mi loderò sovente a lui`; a capital printed in the middle of the sentence (`Quando sarò dinanzi al Signor mio,` before it); found by the read-through.
 034	47	vi	vi.	yes	edition	Canto II, note 25-27, `Æn. vi 757`; the period not printed at the line end (`Æn. vi. 236-900` above); the retype and Tesseract read `vi`; found by the retype.
 038	5	dell Inferno	dell’Inferno	yes	edition	Canto III, the marginal label `Porta dell` / `Inferno`; no apostrophe printed after `dell`; the retype reads `dell Inferno`; found by the retype.
+039	16	'	“	yes	edition	Canto III, the English of v. 1, the inscription on the gate; opened with a single quote and closed with a double one (`ye that enter.”`); found by the read-through.
+040	19	mischiate	Mischiate	yes	edition	Canto III, v. 37; a lowercase initial after `senza lodo.` (the English `They are mixed`, a new sentence); found by the read-through.
 042	17	tastidiosi	fastidiosi	yes	edition	Canto III, v. 69; the first letter printed as `t` (no ascender); the retype and Tesseract read `tastidiosi`, GLM-OCR `fastidiosi`; found by the retype.
+054	30	tuttie	tutti	yes	edition	Canto IV, v. 117, `sì che veder si potean tuttie quanti`; an `e` printed after `tutti`; found by the read-through.
+058	28	Graccus	Gracchus	yes	edition	Canto IV, note 127, 128, `Tiberius Sempronius Graccus`; the `h` not printed; found by the read-through.
 062	22	comforta	conforta	yes	edition	Canto V, v. 44; `comforta` printed; the retype, Tesseract and GLM-OCR read `comforta`; found by the retype.
+070	17	or	of	yes	edition	Canto V, note 97-99, `close by the shore or the Adriatic Sea`; `or` printed for `of`; found by the read-through.
+072	34	de	de’	yes	edition	Canto VI, v. 20, `dell’ un de lati`; no apostrophe printed after the article; found by the read-through.
 080	5	selveggia	selvaggia	yes	edition	Canto VI, note 64-69, `parte selveggia`; `selvaggia` in v. 65; the retype, Tesseract and GLM-OCR read `selveggia`; found by the retype.
+088	23	fossata	fossato	yes	edition	Canto VII, v. 102, `per un fossata che da lei diriva`; the feminine ending after the masculine article; found by the read-through.
+093	36	Phlegyas	“Phlegyas	yes	edition	Canto VIII, the English of v. 19; Virgil's words with no opening quote (`Phlegyas, Phlegyas,” said my Lord, “this`); found by the read-through.
 101	12	punished	punished.	yes	edition	Canto VIII, note 68, `have been / punished Within the City`; the period not printed (a wide space only); the retype and Tesseract read `punished`; found by the retype.
+101	17	cxxix	cxix	yes	edition	Canto VIII, note 97, `cf. Psalms cxxix. 164`; Psalm cxxix has eight verses: the verse is cxix. 164 ("Seven times a day do I praise thee"); found by the read-through.
+110	15	e	è	yes	edition	Canto IX, v. 130, `Simile qui con simile e sepolto`; the accent not printed; found by the read-through.
+110	49	regions	regions.	yes	edition	Note on Canto IX, v. 54, `from the lower regions According`; no period before the next sentence; found by the read-through.
+113	34	asketh	askest	yes	edition	Canto X, the English of v. 16, `which thou asketh me`; the third-person ending after `thou` (`thou holdest` follows); found by the read-through.
+119	11	Ah	"Ah	yes	edition	Canto X, the English of v. 94; Dante's words with no opening quote (`Ah! so may thy seed sometime have rest," I prayed him`); found by the read-through.
+120	10	‘	“	yes	edition	Canto X, v. 127, `‘La mente tua conservi`; Virgil's speech opened with a single quote and closed with a double one (`hai contra te,”`); found by the read-through.
 150	35	taccia	faccia	yes	edition	Canto XIII, v. 85; the first letter printed as `t` (no ascender, as `042` `tastidiosi`); the retype reads `faccia` from the sense, Tesseract and GLM-OCR `taccia`; found by the retype.
+154	33	miè	mie	yes	edition	Canto XIII, v. 151, `Io fei giubbetto a me delle miè case`; a grave accent printed over the `e`; found by the read-through.
+154	35	Marte	Marta	yes	edition	Note on Canto XIII, v. 9, `The river Cecina and the Marte, on whose banks stands the town of Corneto`; the river is the Marta; found by the read-through.
+157	12	Toppe	Toppo	yes	edition	Note on Canto XIII, vv. 115-129, `a ford called Pieve del Toppe`; `del Toppo` in v. 121; found by the read-through.
 189	42	decription	description	yes	edition	Canto XVI, note 94-102, `would answer this decription`; the `s` not printed; the retype and Tesseract read `decription`, GLM-OCR `description`; found by the retype.
+192	8	or	of	yes	edition	The argument of Canto XVII, `to see the last class or sinners`; found by the read-through.
 234	3	VII.	VIII.	yes	edition	Canto XX, the marginal label `Cerchio VII. / Bolgia 4`; `Cerchio VIII.` on the facing pages and on `230`, `232`; the retype, Tesseract and GLM-OCR read `VII.`; found by the retype.
 239	14	58-139)	(58-139)	yes	edition	Canto XXI, the argument, `escort of Ten / 58-139).`; the opening parenthesis not printed; the retype reads `58-139).`, GLM-OCR `(58-139).`; found by the retype.
 271	19	answerd	answered	yes	edition	Canto XXIII, `So he answerd: "Nearer than thou dost hope,`; the `e` not printed; Tesseract and GLM-OCR read `answerd`, the base and the retype `answered`.

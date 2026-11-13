@@ -12,7 +12,7 @@ Ed egli a me: “ Qui son gli eresiarche
 co’ lor seguaci d’ ogni setta, e molto
 più che non credi, son le tombe carche.
 
-Simile qui con simile e sepolto;
+Simile qui con simile {{e|è}} sepolto;
 e i monimenti son più, e men caldi.
 E poi ch’ alla man destra si fu volto,
 passammo tra i martiri e gli alti spaldi.
@@ -46,7 +46,7 @@ and became queen of the lower world.
 as to turn anyone that beheld it into stone.
 
 54. Theseus, King of Athens, made an unsuccessful
-attempt to carry off Proserpine from the lower regions
+attempt to carry off Proserpine from the lower {{regions|regions.}}
 According to the more common form of the legend, he
 
 121

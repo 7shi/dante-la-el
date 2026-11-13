@@ -589,3 +589,106 @@ places decided in the image.
   The batches of 25 scans follow in the same way.
 - `convert_en_oelsner.py`: the report as the baseline; only the marked word changed in
   `texts/en-oelsner`. `misprints.py`: 29 rows, 29 marks, 0 problems.
+
+## Step 3: read-through 01 (2026-11-13)
+
+Scans `029`–`053` (canto II 58 to canto IV 90, 25 pages), read by Claude (Opus 5.5) as
+the trial.
+
+- **Flagged**, 7; decided (readcheck.tsv, note `read`):
+  - **Misprints**, 3 (misprints.tsv): `030` `Di te` (II 74, a capital in the middle of
+    the sentence); `039` the inscription opened with a single quote `‘` and closed with a
+    double one; `040` `mischiate` (III 37, lowercase after `lodo.`).
+  - **Printed**, 4: `041` `Master what` (no comma; `texts/en` has one); `050` `porte`
+    (IV 36); `052` `quando’ io` (IV 68; the mark over `qua` is a speck); `052` `sovrano`
+    with no punctuation (IV 88).
+
+## Step 3: read-through 02 (2026-11-13)
+
+Scans `054`–`078` (canto IV 91 to canto VI 99, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 8; decided (readcheck.tsv, note `read`):
+  - **Misreadings**, 2: two notes joined to the note before them, as the base had no
+    blank line (`057` `104, 105.`, `069` `65, 66.`); each begins its own line in the
+    image, set apart.
+  - **Misprints**, 4 (misprints.tsv): `054` `tuttie` (IV 117); `058` `Graccus`; `070`
+    `shore or the Adriatic`; `072` `de lati` (VI 20, no apostrophe).
+  - **Printed**, 2: `063` `Master who` (no comma, as `041`); `071` `Guinivere`.
+
+## Step 3: read-through 03 (2026-11-13)
+
+Scans `079`–`103` (canto VI 100 to canto IX 21, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 9; decided (readcheck.tsv, note `read`):
+  - **Misprints**, 3 (misprints.tsv): `088` `un fossata` (VII 102); `093` no opening
+    quote before `Phlegyas, Phlegyas,”` (the English of VIII 19); `101` `Psalms cxxix.
+    164` (the psalm has eight verses; cxix. 164).
+  - **Printed**, 6: the argument of `083`, `descent(67-99)` and `(100 to 114)`; the
+    labels `The Avaricious and the Prodigal.` (`083`, with a period) and `Cerchio IV`
+    (`084`, without); `090` `Venimmo` with a capital after `;` (VII 130); `101` the note
+    on 97 set before the note on 82, 3.
+- **The three batches**: a reading for sense finds about three misprints in 25 pages
+  that the comparisons passed, as the four readings agreed with the print; the
+  misreadings found are of the layout (notes joined), not of words.
+- `convert_en_oelsner.py`: the report as the baseline; in `texts/en-oelsner` only the
+  decided places changed (cantos II–VIII). `misprints.py`: 39 rows, 39 marks, 0
+  problems.
+
+## Step 3: read-through 04 (2026-11-13)
+
+Scans `104`–`128` (canto IX 22 to canto XI 90, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 11; decided (readcheck.tsv, note `read`):
+  - **Misreadings**, 2: `120` `100-110.` set as a note, but it is not indented in the
+    image: the lines of `Conv. iv. 6`, ending note 15 (the blank line taken out); `123`
+    the note `107, 108.` joined to the note before it, set apart.
+  - **Misprints**, 5 (misprints.tsv): `110` `simile e sepolto` (IX 130, no accent);
+    `110` `lower regions According` (no period); `113` `thou asketh`; `119` no opening
+    quote before `Ah!` (the English of X 94); `120` `‘La mente tua` (X 127, a single
+    quote opening, a double one closing).
+  - **Printed**, 4: `105` `Erynnis`, `Tesiphone`; `123` `sqq.)` ending a note with no
+    period; `126` `la suo facultade` (XI 44).
+
+## Step 3: read-through 05 (2026-11-13)
+
+Scans `129`–`153` (canto XI 91 to canto XIII 120, 25 pages), read by Claude (Opus 5.5).
+
+- **Flagged**, 6; decided (readcheck.tsv, note `read`):
+  - **Misreadings**, 2: `132` `112–114` (a hyphen in the image); `143` the note
+    `42, 43.` joined to the note before it, set apart.
+  - **Printed**, 4: `144` two dots before `Pholum`; `145` `(433 - 453)`, and `sqq.*) Or`
+    with no period; `146` `Vigne, is` (the argument of Canto XIII).
+
+## Step 3: read-through 06 (2026-11-13)
+
+Scans `154`–`178` (canto XIII 121 to the notes on canto XV, 25 pages), read by Claude
+(Opus 5.5).
+
+- **Flagged**, 13; decided (readcheck.tsv, note `read`):
+  - **Misreadings**, 6: notes joined to the note before them, as the base had no blank
+    lines on these pages: `166` `22-24.`, `31-36.`; `167` `46.`; `178` `7-9.`, `23.`,
+    `61-79.`; each begins its own indented line in the image, set apart.
+  - **Misprints**, 3 (misprints.tsv): `154` `miè case` (XIII 151); `154` `the Marte`
+    (the river by Corneto is the Marta); `157` `Pieve del Toppe` (`Toppo` in XIII 121).
+  - **Printed**, 4: `156` `1190-1249)` with no comma; `169` `*fuor di questa fossa* .`
+    (one clear point); `170` `towards the ring of Hell` (the argument of Canto XV); `174`
+    `risposi lui “voi` (XV 80, no comma).
+
+## Step 3: read-through 07 (2026-11-13)
+
+Scans `179`–`203` (the notes on canto XV to canto XVIII 15, 25 pages), read by Claude
+(Opus 5.5).
+
+- **Flagged**, 7; decided (readcheck.tsv, note `read`):
+  - **Misreadings**, 5: notes joined to the note before them (`188` `28.`; `200`
+    `21, 22.`, `62, 63.`, `64.`, `68.`), set apart.
+  - **Misprints**, 1 (misprints.tsv): `192` `the last class or sinners` (the argument of
+    Canto XVII).
+  - **Printed**, 1: `198` `l’ aria sè raccolse` (XVII 105, no `a`).
+- **Batches 04–07**: the misprints found by reading for sense fall to about one to five
+  in 25 pages; the misreadings are again of the layout only, notes joined for want of a
+  blank line (13 in these batches), most on pages whose notes the base had set with no
+  blank lines at all.
+- `convert_en_oelsner.py`: the report as the baseline; in `texts/en-oelsner` only the
+  decided places changed (cantos IX–XVII). `misprints.py`: 48 rows, 48 marks, 0
+  problems.

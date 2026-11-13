@@ -30,7 +30,7 @@ rimane ancor di lui alcuna vista,
 quei cittadin, che poi la rifondarno 148
 sopra il cener che d’ Attila rimase,
 avrebber fatto lavorare indarno.
-Io fei giubbetto a me delle miè case.” 151
+Io fei giubbetto a me delle {{miè|mie}} case.” 151
 
-9. The river Cecina and the Marte, on whose banks
+9. The river Cecina and the {{Marte|Marta}}, on whose banks
 stands the town of Corneto, indicate the northern and
