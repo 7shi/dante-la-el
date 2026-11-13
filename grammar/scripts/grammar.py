@@ -15,8 +15,8 @@ model has rewritten is caught. An answer that fails is asked again, up to
 --tries times. Its quote blocks are then rebuilt from the sources of truth
 (as fix_quote_blocks.py does) and appended to <NN>.md, so an interrupted run
 resumes after the last section saved. A last call adds the closing summary.
-At the end of the run, the calls that had answers rejected are listed with
-the count of all the rejected answers.
+At the end of the run, the calls that had answers rejected are listed, each
+with the first problem of every rejected answer, and the count of all.
 
 The model does not change the translation; where it finds the translation
 wrong, it says so in a paragraph opening with `Translation note:`. With
@@ -40,7 +40,11 @@ may give the translation's own words as the word-for-word rendering. An
 answer that fails is sent back with its problems to be corrected (REPAIR_PROMPT), up to
 --tries answers in all. The quote blocks of the lines and the English (as
 printed, cut where the ranges part) are then written by the script, under
-the heading `## Lines a–b — title`. These comparisons have no translation
+the heading `## Lines a–b — title`. The general changes (a subject
+supplied from the verb ending, the article before a possessive left out)
+get no bullets of their own and are summed up in the summary, whose phrases
+in double quotation marks must also be found in the English (a summary that
+fails is sent back to be corrected too). These comparisons have no translation
 notes: the translation is a printed text, not one to be corrected.
 """
 
@@ -101,6 +105,7 @@ Write, in English and in Markdown, a comparison of the translation with the {lan
 - After each such line, list in Markdown bullets every place where the translation departs from a word-for-word rendering: a change of word order; another word or turn of phrase; a word left out or supplied; a change of construction, part of speech, tense, mood, or number. Write each as `- *{language} words* ‘word-for-word rendering’ → “the translation's words”: what has changed`, and, where it helps, why (what the {language} construction is, and what English needs instead). Where the translation follows another reading or interpretation of the {language}, say so in the same way. If the lines are rendered word for word, write only `- Literal.`
 - Take up each {language} word or phrase in one bullet only: do not come back to the same words in a wider or narrower phrase.
 - Write no bullet where the translation's words are the word-for-word rendering, and none on capitals, punctuation, or the spelling of names.
+- Write no bullet only to say that a subject given by the ending of the verb is supplied, or that the article before a possessive is left out: these changes are general and are summed up at the end of the canto. Mention them only within a bullet on another change.
 - Write {language} words in italics, your own renderings in single quotation marks (‘…’), and only words copied exactly from the English of that range in double quotation marks (“…”).
 - Do not explain the content: no story, allegory, background, sources, or meter. Write no headings and no quote blocks.
 
@@ -118,7 +123,7 @@ Your answer has these problems:
 
 {problems}
 
-Correct them, and give the whole answer again, changing nothing else. A phrase in double quotation marks must be copied exactly from the English of its range; if it is your own rendering, put it in single quotation marks instead.
+Correct them, and give the whole answer again, changing nothing else. A phrase in double quotation marks must be copied exactly from the translation (in a block, from the English of its range); if it is your own rendering, put it in single quotation marks instead.
 """.strip()
 
 SUMMARY_PROMPT = """
@@ -130,7 +135,7 @@ Write, in English and in Markdown, the closing section of that commentary: the h
 PROSE_SUMMARY_PROMPT = """
 Attached are the {source} of canto {number} of Dante's Divine Comedy, {canticle}, block by block (in <italian> the lines, each with its number, and in <english> the part of the {prose} that renders them), and a comparison of the translation with the {language} text.
 
-Write, in English and in Markdown, the closing section of that comparison: the heading `## Summary — <a short title>`, followed by a few paragraphs that sum up how the translation departs from a word-for-word rendering in this canto: the kinds of departure that recur (word order, choice of words, words left out or supplied, changes of construction), with a few examples, and where it keeps close to the {language}. Quote no lines and do not explain the content (story, allegory, background, meter). Output only this section.
+Write, in English and in Markdown, the closing section of that comparison: the heading `## Summary — <a short title>`, followed by a few paragraphs that sum up how the translation departs from a word-for-word rendering in this canto: the kinds of departure that recur (word order, choice of words, words left out or supplied, changes of construction), with a few examples, and where it keeps close to the {language}. Sum up here also the general changes that the comparison leaves out: subjects given by the ending of the verb supplied, and articles before possessives left out. Quote no lines and do not explain the content (story, allegory, background, meter). Write {language} words in italics, your own renderings in single quotation marks (‘…’), and only words copied exactly from the {prose} in double quotation marks (“…”). Output only this section.
 """.strip()
 
 # The layout of the attachment, in SUMMARY_PROMPT
@@ -150,8 +155,9 @@ CLAUSE_END = re.compile(r"[.!?;:·][»”’“\"]*$")
 
 # Set the path only when usage should be recorded
 USAGE_PATH = None
-# Every call of ask() in this run: (what was asked, answers, passed)
-ASKED: list[tuple[str, int, bool]] = []
+# Every call of ask() in this run: (what was asked, the first problem of
+# every rejected answer, passed)
+ASKED: list[tuple[str, list[str], bool]] = []
 
 
 def sections(lines: list[Line], language: str, size: int) -> list[tuple[int, int]]:
@@ -353,7 +359,7 @@ def ask(client: Client, messages: list[str], check, tries: int, label: str,
     repair, a rejected answer is sent back with its problems to be
     corrected; otherwise the question is asked again. The call is recorded
     in ASKED under label."""
-    text, problems = None, []
+    text, problems, rejected = None, [], []
     for attempt in range(1, tries + 1):
         if repair and text is not None:
             history = client.history
@@ -367,24 +373,29 @@ def ask(client: Client, messages: list[str], check, tries: int, label: str,
         else:
             text = client(messages).text.strip()
         if not (problems := check(text)):
-            ASKED.append((label, attempt, True))
+            ASKED.append((label, rejected, True))
             return text
         print(f"\nanswer {attempt} rejected:", file=sys.stderr)
         for problem in problems:
             print(f"  {problem}", file=sys.stderr)
-    ASKED.append((label, tries, False))
+        more = f" (and {len(problems) - 1} more)" if len(problems) > 1 else ""
+        rejected.append(problems[0] + more)
+    ASKED.append((label, rejected, False))
     return None
 
 
 def print_rejections():
-    """List the calls that had answers rejected, and the count of all."""
+    """List the calls that had answers rejected, each with the first problem
+    of every rejected answer, and the count of all."""
     print("\n--- Rejections ---")
-    for label, answers, passed in ASKED:
-        if answers > 1 or not passed:
-            result = f"passed on answer {answers}" if passed else "none passed"
-            print(f"{label}: {answers - passed} ({result})")
-    rejected = sum(answers - passed for _, answers, passed in ASKED)
-    print(f"{rejected} rejected answer(s) in {len(ASKED)} call(s)")
+    for label, rejected, passed in ASKED:
+        if rejected:
+            result = f"passed on answer {len(rejected) + 1}" if passed else "none passed"
+            print(f"{label}: {len(rejected)} ({result})")
+            for attempt, problem in enumerate(rejected, 1):
+                print(f"  answer {attempt}: {problem}")
+    count = sum(len(rejected) for _, rejected, _ in ASKED)
+    print(f"{count} rejected answer(s) in {len(ASKED)} call(s)")
 
 
 def open_commentary(path: Path, canticle: str, canto: int) -> str | None:
@@ -414,14 +425,21 @@ def done_sections(saved: str) -> set[int]:
     return {int(m.group(2)) for row in saved.splitlines() if (m := SECTION_RE.match(row))}
 
 
-def summarize(client: Client, messages: list[str], tries: int, canto: int) -> str | None:
-    answer = ask(
-        client, messages,
-        lambda answer: [] if answer.startswith(f"{SUMMARY_HEADING} — ")
-        else [f"does not open with `{SUMMARY_HEADING} — ...`"],
-        tries, f"canto {canto}, summary",
-    )
-    return answer
+def summarize(client: Client, messages: list[str], tries: int, canto: int,
+              english: str | None = None) -> str | None:
+    """The closing summary; with english (a prose translation), every phrase
+    in double quotation marks must be found in it, and a rejected summary
+    is sent back to be corrected."""
+    def check(answer: str) -> list[str]:
+        problems = [] if answer.startswith(f"{SUMMARY_HEADING} — ") \
+            else [f"does not open with `{SUMMARY_HEADING} — ...`"]
+        if english is not None:
+            problems += [f"not in the English: “{quote}”"
+                         for quote in ENGLISH_QUOTE_RE.findall(answer)
+                         if not contains(english, quote)]
+        return problems
+    return ask(client, messages, check, tries, f"canto {canto}, summary",
+               repair=english is not None)
 
 
 def explain(client: Client, canticle: str, canto: int, args: argparse.Namespace) -> bool:
@@ -511,7 +529,9 @@ def compare(client: Client, canticle: str, canto: int, args: argparse.Namespace)
     print(f"\n--- canto {canto}, summary ---")
     text = "\n\n".join(block_text(block) for block in blocks)
     prompt = PROSE_SUMMARY_PROMPT.format(**names)
-    if (answer := summarize(client, [text, saved, prompt], args.tries, canto)) is None:
+    english = " ".join(block.english for block in blocks)
+    if (answer := summarize(client, [text, saved, prompt], args.tries, canto,
+                            english)) is None:
         print(f"\ncanto {canto}: no summary passed", file=sys.stderr)
         return False
     saved = save(out_path, saved, answer)
