@@ -19,9 +19,11 @@ by line instead: Musurus's Greek opens a speech with “, closes it with ” or 
 opens every line inside it with „ (‚ „ inside a quote within it, which opens
 with ‘“ and closes with ”’), so the depth cannot be counted from the marks
 alone. The translation writes the same marks, so each line must hold the
-same sequence of marks as its original: “”«» count as one kind, and ’ after
-a letter is an apostrophe of elision. Each run of consecutive lines whose
-sequences differ is reported.
+same sequence of marks as its original: “”«» count as one kind. A ’ next to
+a letter is an apostrophe in the original (ἔλθετ’, ’κεῖνος), but in the
+translation only one before a letter, or after a letter and before a space
+and a word (σ’ εμάς): there a ’ after a letter may close a quote (‘ήμουν’).
+Each run of consecutive lines whose sequences differ is reported.
 
 The model is not called.
 """
@@ -42,16 +44,17 @@ ORIG_OPEN, ORIG_CLOSE = "«“‘", "»”’"
 # Quote marks compared line by line for a source other than the Italian;
 # “”«» are one kind, the others are kept apart
 MARK_KINDS = str.maketrans({"”": "“", "«": "“", "»": "“"})
-MARKS_RE = re.compile(r"[“”«»„‚‘]|(?<!\w)’")
+ORIG_MARKS_RE = re.compile(r"[“”«»„‚‘]|(?<!\w)’(?!\w)")
+TRANS_MARKS_RE = re.compile(r"[“”«»„‚‘]|’(?!\w|(?<=\w’)\s+\w)")
 
 
 def count(text: str, marks: str) -> int:
     return sum(text.count(c) for c in marks)
 
 
-def marks(text: str) -> str:
+def marks(text: str, pattern: re.Pattern) -> str:
     """The quote marks of a line, in order, by kind."""
-    return "".join(MARKS_RE.findall(text)).translate(MARK_KINDS)
+    return "".join(pattern.findall(text)).translate(MARK_KINDS)
 
 
 def add_run(result: list[list[int]], no: int):
@@ -69,7 +72,7 @@ def runs(canticle: str, canto: int, translations: list[str],
     result: list[list[int]] = []
     if source != "it":
         for line, trans in zip(lines, translations):
-            if marks(line.text) != marks(trans):
+            if marks(line.text, ORIG_MARKS_RE) != marks(trans, TRANS_MARKS_RE):
                 add_run(result, line.no)
         return [(first, last) for first, last in result]
     trans_open, trans_close = language["quotes"]
