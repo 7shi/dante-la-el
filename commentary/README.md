@@ -16,7 +16,7 @@ For each canto, `<code>/<canticle>/<NN>.*` (`<code>` is `el`, `eo`, or `en`):
 - `<NN>.md` — commentary: headings per scene or theme, each quoting the key lines as `> N original` followed by `> (translation)`, then discussing their allegory and background; it ends with a closing section (`## Επίλογος — ...` in `el`)
 - `<NN>.txt` — translation: one line of the target language per line of the Italian text (blank where still untranslated)
 
-`el-grc/inferno/<NN>.txt` holds a literal Modern Greek translation of Musurus's Greek verse translation of the Inferno ([`texts/grc/`](../texts/grc/)), one line per line of the Greek, which renders the Italian line for line. It has no commentary yet; it is generated with `make generate CANTICLE=inferno SOURCE=grc`.
+`el-grc/inferno/<NN>.txt` holds a literal Modern Greek translation of Musurus's Greek verse translation of the Inferno ([`texts/grc/`](../texts/grc/)), one line per line of the Greek, which renders the Italian line for line. It has no commentary yet; it is generated with `make generate CANTICLE=inferno SOURCE=grc`. Every target takes `SOURCE=grc` for it, and the checks save their answers in `check/el-grc/`.
 
 ## Usage
 
@@ -90,7 +90,7 @@ A separator line (`>` alone) is inserted between two pairs that have none; exist
 ## scripts/check_quotes.py
 
 ```bash
-uv run scripts/check_quotes.py [canticle ...] -d DIR [-c SPEC]
+uv run scripts/check_quotes.py [canticle ...] -l CODE -d DIR [-c SPEC] [-s SOURCE]
 ```
 
 argument | description | default
@@ -98,10 +98,13 @@ argument | description | default
 `canticle` | canticles to check | all
 `-d`, `--dir` | directory holding `<canticle>/<NN>.txt` | required
 `-c`, `--canto` | cantos to check (SPEC syntax) | all
+`-s`, `--source` | source text the translations follow: `it` or `grc` | `it`
 
 Each line is translated on its own, so the model may drop or add a quotation mark where a speech opens or closes on a line of its own. This script compares the quotation marks of each `<NN>.txt` with the original. The original nests its quotes as `«»` > `“”` > `‘’`, while the translation writes them mostly as `«»`, so the kind of mark is not compared; instead the nesting depth (opening marks minus closing marks, counted from the start of the canto) is compared at the end of every line. In the translation `’` is the apostrophe of elision (`γι’`, `απ’`), so only `«»` and `“”` are counted there.
 
 The translation must follow the original line by line, even at the cost of a forced word order, so each run of consecutive lines whose depths differ is reported as a mismatch: a mark is missing or extra (the difference is then carried on to the end of the speech or the canto), or the translation's word order has moved a quote boundary to a neighbouring line.
+
+With `-s grc`, the marks are compared line by line instead. Musurus's Greek opens a speech with `“`, closes it with `”` or `“`, and opens every line inside it with `„` (`‚ „` inside a quote within a speech, which opens with `‘“` and closes with `”’`), so the depth cannot be counted from the marks alone. The translation writes the same marks, so each line must hold the same sequence of marks as its original: `“”«»` count as one kind, and `’` after a letter is an apostrophe of elision. Each run of lines whose sequences differ is reported.
 
 The exit status is 1 if there is a mismatch. The model is not called; mismatches are fixed by hand in `<NN>.txt`. A missing or extra mark is added or removed without touching the wording. When an inner quote of the original (`“”`, `‘’`) inside a speech is written as `«»` and the depths no longer match, it is written as `“”` instead. A moved boundary is fixed by rewording the lines so that each holds what its original line holds, as in Inferno 13.133-134:
 
@@ -116,9 +119,9 @@ che t'è giovato di me fare schermo?
 ## scripts/check_lines.py
 
 ```bash
-uv run scripts/check_lines.py [canticle ...] -m MODEL -l CODE -d DIR -o OUT [-c SPEC] [--no-think] [--save-usage]
-uv run scripts/check_lines.py [canticle ...] -r -d DIR -o OUT [-c SPEC] [-k KIND ...]
-uv run scripts/check_lines.py [canticle ...] -a -k KIND [-k KIND ...] -l CODE -d DIR -o OUT [-c SPEC]
+uv run scripts/check_lines.py [canticle ...] -m MODEL -l CODE -d DIR -o OUT [-c SPEC] [-s SOURCE] [--no-think] [--save-usage]
+uv run scripts/check_lines.py [canticle ...] -r -d DIR -o OUT [-c SPEC] [-s SOURCE] [-k KIND ...]
+uv run scripts/check_lines.py [canticle ...] -a -k KIND [-k KIND ...] -l CODE -d DIR -o OUT [-c SPEC] [-s SOURCE]
 ```
 
 argument | description | default
@@ -129,6 +132,7 @@ argument | description | default
 `-l`, `--lang-code` | language code of the target language | required to ask the model or to apply
 `-d`, `--dir` | directory holding `<canticle>/<NN>.txt` | required
 `-o`, `--out` | directory for the saved answers, `<out>/<canticle>/<NN>.json` | required
+`-s`, `--source` | source text the translations follow: `it` or `grc` | `it`
 `-r`, `--report` | only report the saved answers, without calling the model | -
 `-a`, `--apply` | apply the fixes of the saved, up-to-date answers, without calling the model | -
 `-k`, `--kind` | report or apply only issues of this kind (repeatable) | all to report; required to apply

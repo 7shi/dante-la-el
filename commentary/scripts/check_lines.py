@@ -45,7 +45,6 @@ import sys
 from pathlib import Path
 from typing import Literal
 
-from dante_corpus import ref
 from dante_corpus.api import CANTO_SPEC_HELP, check_canto_spec, select_cantos
 from llm7shi import Client
 from llm7shi.usage import append_usage, find_usage_file, print_today_totals
@@ -53,17 +52,18 @@ from pydantic import BaseModel, Field
 
 from check_quotes import runs
 from generate import CANTICLE_NAMES, LANGUAGES
+from source import SOURCES, source_lines
 
 CANTICLES = list(CANTICLE_NAMES)
 KINDS = ["moved", "function", "missing", "added"]
 
 PROMPT = """
-Attached are the Italian text of canto {number} of Dante's Divine Comedy, {canticle}, and its translation into {lang}. Each line number is followed by the original line and, on the next line, its translation.
+Attached are the {source} of canto {number} of Dante's Divine Comedy, {canticle}, and its translation into {lang}. Each line number is followed by the original line and, on the next line, its translation.
 
 The translation must follow the original line by line: each translated line must render what its own original line says, and nothing from another line, even if the word order becomes forced. Find every place where this does not hold, and classify it:
 
 - moved: a content word or phrase of one original line rendered on another line (carried over the line break, in either direction)
-- function: a function word, auxiliary verb, clitic pronoun, or degree word (such as "sì", "tanto") rendered on another line; report these too, even where the grammar of {lang} seems to force it
+- function: a function word, auxiliary verb, clitic pronoun, or degree word{degree} rendered on another line; report these too, even where the grammar of {lang} seems to force it
 - missing: part of a line's content not rendered in its translation
 - added: content in a translation that belongs to no line of the original
 
@@ -88,6 +88,12 @@ class Issue(BaseModel):
 class Result(BaseModel):
     issues: list[Issue]
 
+
+# Examples of degree words in the prompt, per source
+DEGREE_WORDS = {
+    "it": ' (such as "sì", "tanto")',
+    "grc": ' (such as "οὕτως", "τοσοῦτον")',
+}
 
 # Set the path only when usage should be recorded
 USAGE_PATH = None
@@ -121,11 +127,12 @@ def check(client: Client, canticle: str, canto: int, args: argparse.Namespace):
     translations, saved, stale = load(canticle, canto, args)
     if translations is None or (saved is not None and not stale):
         return
-    lines = ref(f"{canticle} {canto}")
+    lines = source_lines(args.source, canticle, canto)
     language = LANGUAGES[args.lang_code]
     note = f" {language['note']}" if language.get("note") else ""
     prompt = PROMPT.format(
-        canticle=CANTICLE_NAMES[canticle], number=canto, lang=language["name"], note=note
+        canticle=CANTICLE_NAMES[canticle], number=canto, lang=language["name"], note=note,
+        source=SOURCES[args.source]["name"], degree=DEGREE_WORDS[args.source],
     )
     print(f"\n=== {canticle} {canto} ===")
     response = client([paired_text(lines, translations), prompt], Result)
@@ -196,9 +203,9 @@ def apply(canticle: str, canto: int, args: argparse.Namespace) -> tuple[int, int
             candidate = list(current)
             for no, text in fixes.items():
                 candidate[no - 1] = text
-            before = {no for first, last in runs(canticle, canto, current, language)
+            before = {no for first, last in runs(canticle, canto, current, language, args.source)
                       for no in range(first, last + 1)}
-            after = {no for first, last in runs(canticle, canto, candidate, language)
+            after = {no for first, last in runs(canticle, canto, candidate, language, args.source)
                      for no in range(first, last + 1)}
             if after - before:
                 reason = f"quote marks no longer follow the original at {span(sorted(after - before))}"
@@ -229,6 +236,8 @@ def main():
     parser.add_argument("-l", "--lang-code", choices=list(LANGUAGES),
                         help="Language code of the target language (e.g. el); "
                              "required to ask the model or to apply")
+    parser.add_argument("-s", "--source", choices=list(SOURCES), default="it",
+                        help="Source text the translations follow (default: it)")
     parser.add_argument("-d", "--dir", type=Path, required=True,
                         help="Directory holding <canticle>/<NN>.txt (e.g. el)")
     parser.add_argument("-o", "--out", type=Path, required=True,
@@ -246,9 +255,11 @@ def main():
     parser.add_argument("--save-usage", action="store_true",
                         help="Record usage regardless of model name")
     args = parser.parse_args()
-    canticles = args.canticles or CANTICLES
+    canticles = args.canticles or SOURCES[args.source]["canticles"]
     if err := check_canto_spec(canticles, args.canto):
         parser.error(err)
+    if missing := set(canticles) - set(SOURCES[args.source]["canticles"]):
+        parser.error(f"source {args.source} has no {', '.join(sorted(missing))}")
     if args.report and args.apply:
         parser.error("--report and --apply cannot be combined")
     if args.apply and not (args.lang_code and args.kind):

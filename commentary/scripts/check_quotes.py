@@ -14,6 +14,15 @@ The translation must follow the original line by line, so each run of
 consecutive lines whose depths differ is reported as a mismatch: a mark is
 missing or extra, or a quote boundary has moved to a neighbouring line.
 
+With a source other than the Italian (-s grc), the marks are compared line
+by line instead: Musurus's Greek opens a speech with “, closes it with ” or “,
+opens every line inside it with „ (‚ „ inside a quote within it, which opens
+with ‘“ and closes with ”’), so the depth cannot be counted from the marks
+alone. The translation writes the same marks, so each line must hold the
+same sequence of marks as its original: “”«» count as one kind, and ’ after
+a letter is an apostrophe of elision. Each run of consecutive lines whose
+sequences differ is reported.
+
 The model is not called.
 """
 
@@ -22,37 +31,57 @@ import re
 import sys
 from pathlib import Path
 
-from dante_corpus import ref
 from dante_corpus.api import CANTO_SPEC_HELP, check_canto_spec, select_cantos
 from generate import LANGUAGES
+from source import SOURCES, source_lines
 
 CANTICLES = ["inferno", "purgatorio", "paradiso"]
 
 ORIG_OPEN, ORIG_CLOSE = "«“‘", "»”’"
+
+# Quote marks compared line by line for a source other than the Italian;
+# “”«» are one kind, the others are kept apart
+MARK_KINDS = str.maketrans({"”": "“", "«": "“", "»": "“"})
+MARKS_RE = re.compile(r"[“”«»„‚‘]|(?<!\w)’")
 
 
 def count(text: str, marks: str) -> int:
     return sum(text.count(c) for c in marks)
 
 
+def marks(text: str) -> str:
+    """The quote marks of a line, in order, by kind."""
+    return "".join(MARKS_RE.findall(text)).translate(MARK_KINDS)
+
+
+def add_run(result: list[list[int]], no: int):
+    if result and result[-1][1] == no - 1:
+        result[-1][1] = no
+    else:
+        result.append([no, no])
+
+
 def runs(canticle: str, canto: int, translations: list[str],
-         language: dict) -> list[tuple[int, int]]:
-    """[first, last] line numbers of each run whose depths differ."""
+         language: dict, source: str = "it") -> list[tuple[int, int]]:
+    """[first, last] line numbers of each run whose depths (or, for a source
+    other than the Italian, whose marks) differ."""
+    lines = source_lines(source, canticle, canto)
+    result: list[list[int]] = []
+    if source != "it":
+        for line, trans in zip(lines, translations):
+            if marks(line.text) != marks(trans):
+                add_run(result, line.no)
+        return [(first, last) for first, last in result]
     trans_open, trans_close = language["quotes"]
     apostrophe = re.compile(language["apostrophe"]) if language.get("apostrophe") else None
-    lines = ref(f"{canticle} {canto}")
     depth_orig = depth_trans = 0
-    result: list[list[int]] = []
     for line, trans in zip(lines, translations):
         depth_orig += count(line.text, ORIG_OPEN) - count(line.text, ORIG_CLOSE)
         if apostrophe:
             trans = apostrophe.sub("", trans)
         depth_trans += count(trans, trans_open) - count(trans, trans_close)
         if depth_orig != depth_trans:
-            if result and result[-1][1] == line.no - 1:
-                result[-1][1] = line.no
-            else:
-                result.append([line.no, line.no])
+            add_run(result, line.no)
     return [(first, last) for first, last in result]
 
 
@@ -65,10 +94,14 @@ def main():
     parser.add_argument("-d", "--dir", type=Path, required=True,
                         help="Directory holding <canticle>/<NN>.txt (e.g. el)")
     parser.add_argument("-c", "--canto", help=CANTO_SPEC_HELP)
+    parser.add_argument("-s", "--source", choices=list(SOURCES), default="it",
+                        help="Source text the translations follow (default: it)")
     args = parser.parse_args()
-    canticles = args.canticles or CANTICLES
+    canticles = args.canticles or SOURCES[args.source]["canticles"]
     if err := check_canto_spec(canticles, args.canto):
         parser.error(err)
+    if missing := set(canticles) - set(SOURCES[args.source]["canticles"]):
+        parser.error(f"source {args.source} has no {', '.join(sorted(missing))}")
 
     mismatches = 0
     for canticle in canticles:
@@ -78,7 +111,7 @@ def main():
                 continue
             translations = path.read_text().splitlines()
             for first, last in runs(canticle, canto, translations,
-                                    LANGUAGES[args.lang_code]):
+                                    LANGUAGES[args.lang_code], args.source):
                 span = f"{first}" if first == last else f"{first}-{last}"
                 print(f"{path}: {span}")
                 mismatches += 1

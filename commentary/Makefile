@@ -12,7 +12,7 @@ LANG_CODE ?= el
 # a translation from another source than the Italian goes to <lang>-<source>
 SOURCE ?= it
 DIR = $(if $(filter it,$(SOURCE)),$(LANG_CODE),$(LANG_CODE)-$(SOURCE))
-CHECK_DIR = check/$(LANG_CODE)
+CHECK_DIR = check/$(DIR)
 
 .PHONY: help generate fix-quotes check-quotes check-lines report-lines apply-lines
 
@@ -24,7 +24,7 @@ help:
 	@echo "       make report-lines [CANTICLE=<canticle>] [CANTO=<spec>] [KIND=\"<kind> ...\"]"
 	@echo "       make apply-lines KIND=\"<kind> ...\" [CANTICLE=<canticle>] [CANTO=<spec>]"
 	@echo "       every target takes LANG=<el|eo|en> (default: el)"
-	@echo "       generate takes SOURCE=grc to translate Musurus's Greek Inferno into $(LANG_CODE)-grc/"
+	@echo "       every target takes SOURCE=grc for the translation of Musurus's Greek Inferno in $(LANG_CODE)-grc/"
 	@echo ""
 	@echo "  generate   Write $(DIR)/<canticle>/NN.md (commentary) and NN.txt (translation)"
 	@echo "             in $(LANG_CODE) with $(MODEL); CANTO takes the SPEC syntax"
@@ -46,16 +46,16 @@ fix-quotes:
 	uv run scripts/fix_quote_blocks.py -d $(DIR)
 
 check-quotes:
-	uv run scripts/check_quotes.py -l $(LANG_CODE) -d $(DIR)
+	uv run scripts/check_quotes.py -l $(LANG_CODE) -s $(SOURCE) -d $(DIR)
 
 check-lines:
-	uv run scripts/check_lines.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -m $(CHECK_MODEL) -l $(LANG_CODE) -d $(DIR) -o $(CHECK_DIR)
+	uv run scripts/check_lines.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -m $(CHECK_MODEL) -l $(LANG_CODE) -s $(SOURCE) -d $(DIR) -o $(CHECK_DIR)
 
 report-lines:
-	uv run scripts/check_lines.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -r $(foreach k,$(KIND),-k $(k)) -d $(DIR) -o $(CHECK_DIR)
+	uv run scripts/check_lines.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -r $(foreach k,$(KIND),-k $(k)) -s $(SOURCE) -d $(DIR) -o $(CHECK_DIR)
 
 apply-lines:
 ifndef KIND
 	$(error KIND is required: one or more of moved, function, missing, added)
 endif
-	uv run scripts/check_lines.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -a $(foreach k,$(KIND),-k $(k)) -l $(LANG_CODE) -d $(DIR) -o $(CHECK_DIR)
+	uv run scripts/check_lines.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -a $(foreach k,$(KIND),-k $(k)) -l $(LANG_CODE) -s $(SOURCE) -d $(DIR) -o $(CHECK_DIR)
