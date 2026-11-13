@@ -12,6 +12,8 @@ Scanned page images of the sources (see the root [README](../README.md)) and the
 | `en-oelsner/` | English and Italian pages, Temple Classics edition revised by H. Oelsner (1903; `001.png`, `001.txt`, ...; 416 pages) |
 | `Makefile` | Runs the OCR for each language directory |
 | `scripts/` | The scripts that prepare and transcribe the pages ([scripts/README.md](scripts/README.md)) |
+| `PLAN.md` | The plan of the checks against the images, and their state |
+| `GUIDE.md` | General lessons of the checks: the shortest path for checking an OCR transcription in a new project |
 
 Each `.png` has its transcription in the `.txt` with the same name.
 

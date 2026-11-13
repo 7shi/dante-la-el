@@ -13,7 +13,8 @@ All three texts done. `en` (decided with the user, 2026-11-08; its plan in
 (2026-11-13; [grc/PLAN.md](grc/PLAN.md), [grc/SUMMARY.md](grc/SUMMARY.md)); `en-oelsner`
 (2026-11-14; [en-oelsner/PLAN.md](en-oelsner/PLAN.md),
 [en-oelsner/SUMMARY.md](en-oelsner/SUMMARY.md)). The maps and plates of `en-oelsner` are shown
-as images in `texts/en-oelsner` (its PLAN.md, step 5).
+as images in `texts/en-oelsner` (its PLAN.md, step 5). The lessons for a new project are
+gathered in [GUIDE.md](GUIDE.md).
 
 ## The texts
 
