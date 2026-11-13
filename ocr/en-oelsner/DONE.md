@@ -746,9 +746,11 @@ Scans `279`–`303` (canto XXIV 88 to canto XXVI 84, 25 pages), read by Claude (
   - **Printed**, 1: `294` `Puccio Sciancato.` before `ed era quei` (XXV 148).
 - **Batches 08–11**: 10 misprints and 7 misreadings in 100 pages; the misreadings are
   again mostly of the layout (a joined note, a blank line, italics, spacing at brackets).
-- Left as they are: number ranges divided at a line end are joined by the converter with
-  a space (`(76- 108)`, `263`; also `1210- 1273` and others in earlier cantos); the ocr has
-  them as printed, so this is a matter of the converter, not decided here.
+- Number ranges divided at a line end were joined by the converter with a space
+  (`(76- 108)`, `263`); the ocr has them as printed. `convert_en_oelsner.py` now joins a
+  line ending in a digit and a hyphen to a line beginning with a digit with no space
+  (`range_split()`): 6 ranges changed in `texts/en-oelsner` (cantos X, XXI, XXIII, XXVII
+  and the Chronology); none is left.
 - `convert_en_oelsner.py`: the report as the baseline; in `texts/en-oelsner` only the
   decided places changed (cantos XVIII–XXVI). `misprints.py`: 58 rows, 58 marks, 0
   problems.
