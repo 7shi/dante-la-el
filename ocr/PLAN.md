@@ -6,12 +6,14 @@ work that follows: the same checks for the other three texts, taken from `la` wi
 detours (asked by the user, 2026-11-08). The conversion into `texts/` is described in
 [texts/PLAN.md](../texts/PLAN.md).
 
-## State (2026-11-13)
+## State (2026-11-14)
 
-`en` done (decided with the user, 2026-11-08; its plan in [en/PLAN.md](en/PLAN.md), the
-account in [en/SUMMARY.md](en/SUMMARY.md)). `grc` done (2026-11-13; its plan in
-[grc/PLAN.md](grc/PLAN.md), the account in [grc/SUMMARY.md](grc/SUMMARY.md)). `en-oelsner`
-remains.
+All three texts done. `en` (decided with the user, 2026-11-08; its plan in
+[en/PLAN.md](en/PLAN.md), the account in [en/SUMMARY.md](en/SUMMARY.md)); `grc`
+(2026-11-13; [grc/PLAN.md](grc/PLAN.md), [grc/SUMMARY.md](grc/SUMMARY.md)); `en-oelsner`
+(2026-11-14; [en-oelsner/PLAN.md](en-oelsner/PLAN.md),
+[en-oelsner/SUMMARY.md](en-oelsner/SUMMARY.md)). The maps and plates of `en-oelsner` are shown
+as images in `texts/en-oelsner` (its PLAN.md, step 5).
 
 ## The texts
 

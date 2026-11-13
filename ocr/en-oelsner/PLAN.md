@@ -12,13 +12,13 @@ conversion into `texts/en-oelsner/` is described in [texts/PLAN.md](../../texts/
 **A new session starts here**: read "State". The rules of ocr/PLAN.md ("Decisions",
 "Read-through") apply.
 
-## State (2026-11-13)
+## State (2026-11-14)
 
 Step 0 (setup) done, and the trial (retype 01: `014`, `015`, `024`, `025`, `249`, `403`)
 decided (DONE.md). GLM-OCR is run over all pages by the user, in page order (its
 batches 1–5); `cmpread.py` takes it (step 0.7, done). Retypes 02 (`007`–`037`), 03
 (`038`–`062`), 04 (`063`–`087`), 05 (`088`–`112`), 06 (`113`–`137`), 07 (`138`–`162`), 08 (`163`–`187`), 09 (`188`–`212`), 10 (`213`–`237`), 11 (`238`–`262`), 12 (`263`–`287`), 13 (`288`–`312`), 14 (`313`–`337`), 15 (`338`–`362`), 16 (`363`–`387`) and 17 (`388`–`412`) decided:
-steps 1 and 2 are done for every page. Step 3, the read-through, done: the trial (`007`–`028`) and batches 01–15 (`029`–`412`). Next: step 4 (close), then step 5 (map images).
+steps 1 and 2 are done for every page. Step 3, the read-through, done: the trial (`007`–`028`) and batches 01–15 (`029`–`412`). Step 4 (close) done ([SUMMARY.md](SUMMARY.md)), and step 5 (the map images): the check is complete.
 
 ## The text
 

@@ -50,3 +50,4 @@ the offset is 10.
 | Proofreading | GPT-6 Luna |
 | Index ([INDEX.md](INDEX.md)) | Gemini 3.8 Flash |
 | Final check | Claude Opus 5.5 |
+| Check: retype and read-through ([SUMMARY.md](SUMMARY.md)) | Claude Opus 5.5 (retype, comparison with Tesseract and GLM-OCR, read-through, decisions in the images) |

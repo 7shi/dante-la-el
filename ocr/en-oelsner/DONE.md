@@ -812,3 +812,32 @@ only 9 pages after `403`.
   decided places changed (cantos XXVI–XXXIV). `misprints.py`: 64 rows, 64 marks, 0
   problems.
 - **The read-through is done** for every page of `texts/en-oelsner`.
+
+## Step 4: close (2026-11-14)
+
+- **Notes run together**, searched over all pages (a note number at a line start after a
+  non-blank line): `210` (`1.`, `6.`, `28-33.`, `40-63.`, and the italics `Malebolge`,
+  `sqq`, `ponte`, `monte`) and `222` (`16-21.`, `31.`, `49-51.`) set apart; `024` `76-93.`
+  is the end of the reference `Cf. Par. xvii. 76-93`, not a note (`xvii.` set roman, as
+  printed). 3 rows (readcheck.tsv, note `read (close)`).
+- **Notes cut at a page turn**, searched in `texts/en-oelsner` (a note paragraph starting
+  lowercase after a page marker): `211`, `225`, `237`, `332` were listed in
+  `NOTE_NEW` of `convert_en_oelsner.py` as beginning a new note, and the note continued
+  from the page before was left cut (`con-` / `spiracy` on `224`/`225`). Taken out of
+  the list (only `069` is left); the four notes joined.
+- `convert_en_oelsner.py`: the report as the baseline. `misprints.py`: 64 rows, 64
+  marks, 0 problems.
+- [SUMMARY.md](SUMMARY.md) written; the state here, texts/PLAN.md "Status", the
+  README's "Credits" and ocr/PLAN.md "State" updated.
+
+## Step 5: map images (2026-11-14)
+
+- `texts/scripts/crop_en_oelsner_images.py` cuts the seven figures from the scans into
+  `texts/en-oelsner/images/NNN.jpg` (grey JPEG, the paper made white, 0.7 MB in all), each by a fixed box checked
+  in the crop: the maps `025` (two maps) and `191`, the diagrams `037`, `133` and `284`
+  (Scartazzini's, inside the notes), the plates `409` and `410`. The captions and the
+  names stay as text; the pencil notes below `409` are left out.
+- `convert_en_oelsner.py` links each image at the top of its page (`IMAGES`), and the
+  diagram of `284` after the note that introduces it (`IMAGE_AFTER_NOTE`). The
+  genealogical tables (`249`, `321`, `345`) and the table of `405` stay text only.
+- The report as the baseline; in `texts/en-oelsner` only the seven image lines added.
