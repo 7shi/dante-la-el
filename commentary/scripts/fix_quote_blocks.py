@@ -6,9 +6,15 @@ quote block:
     > 1 Nel mezzo del cammin di nostra vita
     > (Στη μέση του δρόμου της ζωής μας)
 
-The original comes from dante_corpus, the translation from the sibling
-<canticle>/<NN>.txt file (same line numbering, one verse per physical line).
-A file whose sibling .txt is missing is skipped entirely and reported once.
+The original comes from dante_corpus (or another source of source.py, with
+-s), the translation from the sibling <canticle>/<NN>.txt file (same line
+numbering, one verse per physical line), or from <canticle>/<NN>.txt under
+the directory given with -t (for the grammar commentaries of grammar.py,
+which are kept apart from the translations). A file whose .txt is missing is
+skipped entirely and reported once. A source printed with a prose
+translation of its own (carlyle) has no .txt: its commentaries quote the
+originals alone, `> N original` with the two-space hard break, and only
+these are rebuilt.
 
 For each quote block (a maximal run of lines starting with ">") in a file
 that has a sibling .txt:
@@ -16,7 +22,7 @@ that has a sibling .txt:
 1. Flatten the block to a string.
 2. If it opens with `> <line-number> ...`, find the lowest and highest
    quoted line numbers.
-3. Rebuild every numbered pair from dante_corpus and the .txt file, in the
+3. Rebuild every numbered pair from the source and the .txt file, in the
    canonical layout (original line ends with a two-space hard break,
    translation follows with no trailing spaces). Anything else in the
    block — separators, gaps where lines are skipped, unnumbered lines — is
@@ -34,7 +40,7 @@ import re
 import sys
 from pathlib import Path
 
-from dante_corpus.api import canto
+from source import SOURCES, source_lines
 
 CANTICLES = ["inferno", "purgatorio", "paradiso"]
 
@@ -63,20 +69,13 @@ def find_blocks(lines: list[str]) -> list[tuple[int, int]]:
     return blocks
 
 
-def rebuild_block(path: Path, canticle: str, number: int,
-                   translations: list[str], block: list[str]) -> list[str] | None:
-    """Rebuild one quote block from dante_corpus + the sibling .txt.
+def rebuild_block(path: Path, originals: dict[int, str],
+                  translations: list[str] | None, block: list[str]) -> list[str] | None:
+    """Rebuild one quote block from the source lines + the .txt lines (or
+    the source lines alone, if translations is None).
 
     Returns None if the block doesn't open with a numbered original line."""
     if not ORIG_RE.match(block[0]):
-        return None
-
-    numbers = [int(mm.group(1)) for line in block if (mm := ORIG_RE.match(line))]
-    start, end = min(numbers), max(numbers)
-    try:
-        originals = {line.no: line.text for line in canto(canticle, number).lines(start, end)}
-    except ValueError as e:
-        print(f"{path}: {e}, block left as-is", file=sys.stderr)
         return None
 
     out: list[str] = []
@@ -88,6 +87,15 @@ def rebuild_block(path: Path, canticle: str, number: int,
             i += 1
             continue
         n = int(orig.group(1))
+        if translations is None:
+            if n not in originals:
+                print(f"{path}: line {n} out of range for the source text, "
+                      f"left as-is", file=sys.stderr)
+                out.append(block[i])
+            else:
+                out.append(f"> {n} {originals[n]}  ")
+            i += 1
+            continue
         trans = TRANS_RE.match(block[i + 1]) if i + 1 < len(block) else None
         if not trans:
             print(f"{path}: line {n} has no translation on the next line, "
@@ -113,10 +121,26 @@ def rebuild_block(path: Path, canticle: str, number: int,
     return out
 
 
-def normalize_file(path: Path, dry_run: bool) -> bool:
-    """Rewrite the quote blocks of one commentary from dante_corpus + its
-    sibling .txt. True if changed; False (with a warning) if the file has no
-    sibling .txt or its canticle/canto can't be resolved from its path."""
+def rebuild_lines(path: Path, lines: list[str], originals: dict[int, str],
+                  translations: list[str] | None) -> list[str]:
+    """Every quote block of a commentary (its lines) rebuilt."""
+    out = list(lines)
+    # Back to front: a rebuilt block can be longer than the original (a
+    # missing separator is inserted), which would shift every later block's
+    # position in out and overwrite the prose between them.
+    for start, end in reversed(find_blocks(lines)):
+        block = lines[start:end]
+        rebuilt = rebuild_block(path, originals, translations, block)
+        if rebuilt is not None:
+            out[start:end] = rebuilt
+    return out
+
+
+def normalize_file(path: Path, source: str, trans_dir: Path | None,
+                   dry_run: bool) -> bool:
+    """Rewrite the quote blocks of one commentary from the source + its .txt.
+    True if changed; False (with a warning) if the file has no .txt or its
+    canticle/canto can't be resolved from its path."""
     m = PATH_RE.search(path.as_posix())
     if not m:
         print(f"{path}: can't resolve canticle/canto from path, file left as-is",
@@ -124,26 +148,27 @@ def normalize_file(path: Path, dry_run: bool) -> bool:
         return False
     canticle, number = m.group(1), int(m.group(2))
 
-    txt_path = path.with_suffix(".txt")
-    if not txt_path.exists():
-        print(f"{path}: no sibling {txt_path.name}, file left as-is", file=sys.stderr)
+    if "prose" in SOURCES[source]:
+        translations = None
+    else:
+        if trans_dir is None:
+            txt_path = path.with_suffix(".txt")
+        else:
+            txt_path = trans_dir / canticle / f"{number:02d}.txt"
+        if not txt_path.exists():
+            print(f"{path}: no {txt_path}, file left as-is", file=sys.stderr)
+            return False
+        translations = txt_path.read_text(encoding="utf-8").splitlines()
+    try:
+        originals = {line.no: line.text
+                     for line in source_lines(source, canticle, number)}
+    except ValueError as e:
+        print(f"{path}: {e}, file left as-is", file=sys.stderr)
         return False
-    translations = txt_path.read_text(encoding="utf-8").splitlines()
 
     lines = path.read_text().splitlines()
-    out = list(lines)
-    changed = False
-    # Back to front: a rebuilt block can be longer than the original (a
-    # missing separator is inserted), which would shift every later block's
-    # position in out and overwrite the prose between them.
-    for start, end in reversed(find_blocks(lines)):
-        block = lines[start:end]
-        rebuilt = rebuild_block(path, canticle, number, translations, block)
-        if rebuilt is not None and rebuilt != block:
-            out[start:end] = rebuilt
-            changed = True
-
-    if not changed:
+    out = rebuild_lines(path, lines, originals, translations)
+    if out == lines:
         return False
     if not dry_run:
         path.write_text("\n".join(out) + "\n")
@@ -156,6 +181,11 @@ def main():
                         required=True, metavar="DIR",
                         help="Directory holding <canticle>/<NN>.md files (e.g. el); "
                              "repeatable")
+    parser.add_argument("-s", "--source", choices=list(SOURCES), default="it",
+                        help="Source text of the quoted originals (default: it)")
+    parser.add_argument("-t", "--translations", type=Path, metavar="DIR",
+                        help="Directory holding <canticle>/<NN>.txt "
+                             "(default: next to each <NN>.md)")
     parser.add_argument("-n", "--dry-run", action="store_true",
                         help="Report the changes without writing them back")
     args = parser.parse_args()
@@ -171,7 +201,7 @@ def main():
 
     rewritten = 0
     for path in paths:
-        if normalize_file(path, args.dry_run):
+        if normalize_file(path, args.source, args.translations, args.dry_run):
             print(f"{'Would rewrite' if args.dry_run else 'Rewrote'} {path}")
             rewritten += 1
     print(f"\n{rewritten} file(s) "

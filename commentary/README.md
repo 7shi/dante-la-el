@@ -18,6 +18,8 @@ For each canto, `<code>/<canticle>/<NN>.*` (`<code>` is `el`, `eo`, or `en`):
 
 `el-grc/inferno/<NN>.txt` holds a literal Modern Greek translation of Musurus's Greek verse translation of the Inferno ([`texts/grc/`](../texts/grc/)), one line per line of the Greek, which renders the Italian line for line. It has no commentary yet; it is generated with `make generate CANTICLE=inferno SOURCE=grc`. Every target takes `SOURCE=grc` for it, and the checks save their answers in `check/el-grc/`.
 
+Grammar commentaries in English on these sources, quoting the translations of this directory, are in [`grammar/`](../grammar/); their scripts use `scripts/source.py`, `generate.py`, and `fix_quote_blocks.py` of this directory.
+
 ## Usage
 
 ```bash
@@ -73,6 +75,8 @@ uv run scripts/fix_quote_blocks.py -d DIR [-d DIR ...] [-n]
 argument | description | default
 ---|---|---
 `-d`, `--dir` | directory holding `<canticle>/<NN>.md` (repeatable) | required
+`-s`, `--source` | source text of the quoted originals: `it`, `grc`, or `carlyle` (whose quotes have no translation line, so only the originals are rebuilt) | `it`
+`-t`, `--translations` | directory holding `<canticle>/<NN>.txt` | next to each `<NN>.md`
 `-n`, `--dry-run` | report the files that would change without writing them | write
 
 The model tends to drop the two trailing spaces that make each quoted original a line of its own in Markdown, and may quote a line slightly differently from the corpus. This script rebuilds every quote block of each `<canticle>/<NN>.md` from the sources of truth: for each `> N ...` line followed by a `> (...)` line, the original is replaced by line N of dante-corpus, with two trailing spaces, and the translation by line N of the sibling `<NN>.txt`:
