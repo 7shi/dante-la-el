@@ -13,10 +13,12 @@ The work done is to be recorded in DONE.md, as the steps go.
 
 ## State (2026-11-15)
 
-The scan is chosen (README.md, "Choice of the scan"). The script that downloads its PDF
-and renders the pages is written and run by the user (outside the repository, in `tmp/`):
-the pages as `NNN.png`, NNN the PDF page = the leaf of Internet Archive's OCR, at 300 dpi.
-Nothing else is done; the next step is 1.
+The scan is chosen (README.md, "Choice of the scan"). The pages are rendered as `NNN.png`
+(NNN the PDF page = the leaf of Internet Archive's OCR, 300 dpi) by a script of the user's,
+outside the repository. `ia-ocr/` is written for all pages; Tesseract and GLM-OCR run by
+the user with their Makefiles (`tesseract/`, `glm-ocr/`), over all pages. The trial (step
+5) is done on `014`–`038` (DONE.md): no retype; its fixes are in `readcheck.tsv` and
+`misprints.tsv`. Next: steps 1 and 2, then the base of the other pages (step 3).
 
 ## The text (to be filled in by step 1)
 
@@ -35,11 +37,10 @@ Nothing else is done; the next step is 1.
 
 | Reading | By | Where |
 |---|---|---|
-| The base (Gemini 3.8 Flash) | la-el-agy, from this PLAN, on its own | `NNN.txt` |
+| The base (agy's Orchestrator mode: Gemini 4 Argon, with Gemini 4 Hydrogen workers) | la-el-agy, from a task file, on its own | `NNN.txt` |
 | Tesseract (`-l eng+ita`), with its word boxes | the user (a Makefile as `en-oelsner`'s) | `tesseract/` |
 | GLM-OCR | the user (a Makefile as `en-oelsner`'s) | `glm-ocr/` |
 | Internet Archive's OCR | Claude (`iascan.py pages`) | `ia-ocr/` |
-| A retype from the images alone (the trial, step 5) | Claude, in strips at twice the size | outside the repository |
 
 `cmpread.py -g glm-ocr -i ia-ocr`: GLM-OCR votes (class D), Internet Archive's OCR is a
 column that does not vote (GUIDE.md, step 1).
@@ -65,18 +66,16 @@ column that does not vote (GUIDE.md, step 1).
      images, end matter), writing `texts/en-purgatorio/`; the *Inferno*'s output checked
      byte for byte unchanged.
 3. **The readings.**
-   - The base: la-el-agy reads this PLAN and transcribes the pages of INDEX.md into
-     `NNN.txt` by the conventions above, from the images alone. The rules stay basic; no
-     subagents, no git; it writes only `NNN.txt`. It stops after the first 25 pages of
-     the cantos, for step 5. The user switches its model (Gemini 3.8 Flash) and signals.
-     (Another way, if agy does not suit: `ocr.py -m gemini-3.8-flash` with the
-     conventions in its prompt.)
+   - The base: la-el-agy reads a task file and transcribes the pages of INDEX.md into
+     `NNN.txt` by the conventions above, from the images alone. The rules stay basic: no
+     git, Python as `uv run python`; it writes only `NNN.txt` and its report. The trial's
+     25 pages (`014`–`038`) are done; the user switches its mode and signals.
    - Tesseract and GLM-OCR by the user; `ia-ocr/` by Claude.
 4. **Mechanical checks first** (GUIDE.md, step 1): convert at once; the verse count and
    tercet numbers of each canto; the English paragraphs against the tercets of the facing
    page; the order of the note numbers; a paragraph starting lowercase after a page
    boundary. dante-corpus only to find a difference; the image decides.
-5. **The trial: is a retype needed?** On the first 25 pages of the cantos:
+5. **The trial: is a retype needed?** (done: no retype; DONE.md) On the first 25 pages of the cantos:
    - Claude retypes them from the images alone and decides every difference
      (`cmpread.py`), giving the checked text.
    - Against it, counted: the errors of the base that the OCRs alone would have found
@@ -100,9 +99,17 @@ Then `ocr/en-paradiso` by the same steps; step 2 mostly reused.
 
 - **The scan** (the user, 2026-11-15): purgatorioofdant00dant_0, the Fourth Edition
   (November 1904), by GUIDE.md's "Choosing the scan" (README.md).
-- **The base from Gemini 3.8 Flash at once** (the user, 2026-11-15): not an older model
-  proofread afterwards, as `en-oelsner` was; whether a retype is still needed is decided by
-  the trial (step 5).
+- **The base from a strong model at once** (the user, 2026-11-15): not an older model
+  proofread afterwards, as `en-oelsner` was. The trial was made in agy's Orchestrator mode
+  (Gemini 4 Argon directing Gemini 4 Hydrogen workers; the workers could not name their
+  model).
+- **No retype** (the user, 2026-11-15, on the trial's counts, DONE.md): 2 errors of the
+  base in 25 pages, one found by the OCRs (`fora`), one a missing paragraph break that only
+  a reading found; no word error that all the OCRs passed. The pages are checked by the
+  comparison of the base with Tesseract, GLM-OCR and Internet Archive (`cmpread.py` with
+  GLM-OCR as the second reading), every place decided in the image; the paragraph breaks
+  and the misprints all readings pass are left to the mechanical checks (step 4) and the
+  read-through (step 7).
 - **All the OCRs as readings** (the user, 2026-11-15): Tesseract and GLM-OCR cost little
   and are kept; Internet Archive's OCR added as a column, not a vote.
 

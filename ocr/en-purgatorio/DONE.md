@@ -1,0 +1,36 @@
+# Done: checking `ocr/en-purgatorio`
+
+The record of the check ([PLAN.md](PLAN.md)), step by step.
+
+## Step 5: the trial on `014`–`038` (2026-11-15)
+
+The first 25 pages of the cantos (Cantos I–III, pp. 2–26, with the two diagrams of pp. 12
+and 13), to decide whether the base needs a retype.
+
+- **The base**: la-el-agy in its Orchestrator mode (Gemini 4 Argon directing workers,
+  Gemini 4 Hydrogen by the mode's description; asked, none could name its model), from a
+  task file with the conventions of PLAN.md, step 2. Five workers wrote five pages each;
+  the orchestrator checked every page against its image and changed two places (the
+  diagram's `BETWEEN 10 & 11 A.M.`, the spacing of `1 : 63-65`), both right. Its report
+  listed about 50 uncertain places; none was wrong.
+- **The other readings**: Tesseract and GLM-OCR (`make` in `tesseract/` and `glm-ocr/`),
+  Internet Archive's OCR (`iascan.py pages`, all 462 leaves into `ia-ocr/`).
+- **The check**: `014`–`018` retyped from the images alone; no difference from the base.
+  Retyping the rest stopped (the output of whole pages was filtered); `019`–`038` were
+  read line by line against their images instead, small marks and the diagram labels in
+  crops at four to six times their size. `cmpread.py` with GLM-OCR as the second reading
+  (`-i ia-ocr`, `--verse-numbers`): 87 places (A 19, B 54, C 14), mostly the marginal
+  labels and running heads placed elsewhere and accents GLM-OCR dropped; about ten
+  decided in the image.
+- **Found**: 2 errors of the base in 25 pages.
+  - `020` 8 `fora` for the printed `fuora`: Tesseract, GLM-OCR and Internet Archive all
+    read `fuora` (class A).
+  - `021` 18: the blank line before `for ’twere` (a new tercet) missing; no reading
+    compares paragraph breaks.
+  - And a misprint every reading passed: `020` 8 `che fatta tu` for `fu` (Canto I 89),
+    the letter printed as a `t`; marked `{{tu|fu}}`.
+- **Internet Archive's column** agreed with the others on `fuora` and decided nothing
+  alone.
+- **Decision** (the user): no retype (PLAN.md, "Decisions"). The fixes are rows of
+  [readcheck.tsv](readcheck.tsv) and [misprints.tsv](misprints.tsv) (`misprints.py
+  ocr/en-purgatorio`: 1 row, 1 mark, 0 problems).

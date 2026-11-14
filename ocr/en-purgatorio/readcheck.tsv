@@ -1,0 +1,4 @@
+page	line	form	decision	note
+020	8	fuora	misread	cmp A (Tesseract, GLM-OCR, IA); was `fora`
+020	8	{{tu|fu}}	misprint	trial check; was `tu`, as printed
+021	18	(blank line)	misread	trial check; `for ’twere` begins a new paragraph (tercet 97); the blank line was missing
