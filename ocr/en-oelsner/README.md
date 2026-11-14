@@ -4,7 +4,10 @@ This directory contains page images and proofread OCR transcriptions of
 *The Inferno of Dante Alighieri* in The Temple Classics (London: J. M. Dent &
 Co., 1903), with the Italian text edited by H. Oelsner and the English prose
 translation by John Aitken Carlyle. Publication details appear in
-[008.txt](008.txt) and [011.txt](011.txt).
+[008.txt](008.txt) and [011.txt](011.txt). By the General Editorial Note
+([413.txt](413.txt)), the translation and the arguments are Carlyle's, reprinted
+from his second edition (1867) with Oelsner's alterations in square brackets,
+and the notes are Oelsner's.
 
 This is a later edition revised by Oelsner, so its layout and text differ from
 Carlyle's own edition in [../en/](../en/).

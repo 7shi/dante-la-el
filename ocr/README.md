@@ -10,6 +10,8 @@ Scanned page images of the sources (see the root [README](../README.md)) and the
 | `grc/` | Ancient Greek pages (`001.png`, `001.txt`, ...; about 350 pages) |
 | `en/` | English and Italian pages, Carlyle's own edition (5th ed., 1889; `001.png`, `001.txt`, ...; 514 pages) |
 | `en-oelsner/` | English and Italian pages, Temple Classics edition revised by H. Oelsner (1903; `001.png`, `001.txt`, ...; 418 pages) |
+| `en-purgatorio/` | Planned: the Temple Classics *Purgatorio* (Okey's translation, the Italian text by Oelsner); only its [README](en-purgatorio/README.md) |
+| `en-paradiso/` | Planned: the Temple Classics *Paradiso* (Wicksteed's translation, the Italian text by Oelsner); only its [README](en-paradiso/README.md) |
 | `Makefile` | Runs the OCR for each language directory |
 | `scripts/` | The scripts that prepare and transcribe the pages ([scripts/README.md](scripts/README.md)) |
 | `PLAN.md` | The plan of the checks against the images, and their state |
@@ -28,6 +30,12 @@ make check     # list empty .txt files
 
 The scripts themselves, the PDF preparation for a new source and the commands behind the
 Makefile are in [scripts/README.md](scripts/README.md).
+
+## Planned
+
+* [en-purgatorio/](en-purgatorio/README.md) and [en-paradiso/](en-paradiso/README.md):
+  the other two volumes of the Temple Classics Dante, the companions of `en-oelsner/`, in
+  the same layout. Their READMEs give the source and who did what; not started.
 
 ## Notes
 
