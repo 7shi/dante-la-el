@@ -14,21 +14,27 @@ conversion into `texts/en-oelsner/` is described in [texts/PLAN.md](../../texts/
 
 ## State (2026-11-14)
 
-Step 0 (setup) done, and the trial (retype 01: `014`, `015`, `024`, `025`, `249`, `403`)
+Step 0 (setup) done, and the trial (retype 01: `014`, `015`, `024`, `025`, `249`, `405`)
 decided (DONE.md). GLM-OCR is run over all pages by the user, in page order (its
 batches 1–5); `cmpread.py` takes it (step 0.7, done). Retypes 02 (`007`–`037`), 03
-(`038`–`062`), 04 (`063`–`087`), 05 (`088`–`112`), 06 (`113`–`137`), 07 (`138`–`162`), 08 (`163`–`187`), 09 (`188`–`212`), 10 (`213`–`237`), 11 (`238`–`262`), 12 (`263`–`287`), 13 (`288`–`312`), 14 (`313`–`337`), 15 (`338`–`362`), 16 (`363`–`387`) and 17 (`388`–`412`) decided:
-steps 1 and 2 are done for every page. Step 3, the read-through, done: the trial (`007`–`028`) and batches 01–15 (`029`–`412`). Step 4 (close) done ([SUMMARY.md](SUMMARY.md)), and step 5 (the map images): the check is complete.
+(`038`–`062`), 04 (`063`–`087`), 05 (`088`–`112`), 06 (`113`–`137`), 07 (`138`–`162`), 08 (`163`–`187`), 09 (`188`–`212`), 10 (`213`–`237`), 11 (`238`–`262`), 12 (`263`–`287`), 13 (`288`–`312`), 14 (`313`–`337`), 15 (`338`–`362`), 16 (`363`–`387`) and 17 (`388`–`414`) decided:
+steps 1 and 2 are done for every page (the file numbers here are those after the renumbering below). Step 3, the read-through, done: the trial (`007`–`028`) and batches 01–15 (`029`–`414`). Step 4 (close) done ([SUMMARY.md](SUMMARY.md)), and step 5 (the map images): the check is complete.
+
+**The leaf pp. 385–386** (2026-11-15): missing from the first scan, it was found in another
+scan of the same edition (README.md, "Layout") and added as `397`–`398`; the files from
+`397` on were renumbered by two (`399`–`418`). The two pages were transcribed by Claude
+from the images and compared with Carlyle's own edition and dante-corpus, outside the
+steps above (no retype, Tesseract or GLM-OCR).
 
 ## The text
 
-- **Pages**: 416 scans; 404 of them are in `texts/en-oelsner`, and only these are checked.
-  The excluded scans are `001`–`006`, `009`, `012` and `413`–`416`: covers, library leaves
-  and blank leaves (texts/PLAN.md, "Files"). The leaf with pp. 385–386 (Canto XXXIV) is
-  missing from the scan and is not checked.
+- **Pages**: 418 scans; 406 of them are in `texts/en-oelsner`, and only these are checked.
+  The excluded scans are `001`–`006`, `009`, `012` and `415`–`418`: covers, library leaves
+  and blank leaves (texts/PLAN.md, "Files"). The leaf with pp. 385–386 (`397`–`398`) was
+  added after the check ("State").
 - **Kinds of page**:
   - The front matter (`007`, `008`, `010`, `011`, `013`): a few lines each.
-  - The cantos `014`–`402`, on facing pages:
+  - The cantos `014`–`404`, on facing pages:
     - The even pages carry the Italian verse, with the editor's marginal labels and the
       tercet numbers.
     - The odd pages carry the English, one paragraph per tercet, with their own labels.
@@ -37,7 +43,7 @@ steps 1 and 2 are done for every page. Step 3, the read-through, done: the trial
       quoting Italian and Latin.
   - The maps, plates and tables printed after some cantos (`025`, `037`, `133`, `191`,
     `249`, `284`, `321`, `345`): their captions and names.
-  - The end matter (`403`–`412`): Wicksteed's two essays (`405` a table), the two plates,
+  - The end matter (`405`–`414`): Wicksteed's two essays (`407` a table), the two plates,
     the editorial note, and the index to the maps.
 - **Its transcription**: Gemini 2.5 Flash, proofread against the images by GPT-6 Luna,
   then a final check (README.md, "Credits"). Lines are as printed, with line-end hyphens,
@@ -67,7 +73,7 @@ steps 1 and 2 are done for every page. Step 3, the read-through, done: the trial
 - **GLM-OCR** (`ocr/en-oelsner/glm-ocr/`, run by the user with its
   [Makefile](glm-ocr/Makefile), the la way): the fourth reading, compared with the others
   after the retype (step 2). On the trial pages it repeated text (`024`, `025`), dropped
-  words and normalized (`Eneid`, a period after `10` on `403`), and found nothing new;
+  words and normalized (`Eneid`, a period after `10` on `405`), and found nothing new;
   it is used for two things, not alone:
   - a vote beside Tesseract's, so that a place where the retype differs from the base
     is decided with two independent readings in view;
@@ -126,7 +132,7 @@ steps 1 and 2 are done for every page. Step 3, the read-through, done: the trial
      - a page of notes with italics (`024`);
      - a map (`025`);
      - a genealogical table (`249`);
-     - an essay page (`403`).
+     - an essay page (`405`).
 
      The pages are checked by eye and by `cmpread.py`. The trial decides two things: the
      batch size (25 pages for `en` and `grc`), and whether GLM-OCR helps.
@@ -186,7 +192,7 @@ steps 1 and 2 are done for every page. Step 3, the read-through, done: the trial
 
 The edition's readings found in the steps go here, and are applied, not asked again.
 
-- **Small capitals** (the first word after a drop capital, `THE` on `403`; a name in a
+- **Small capitals** (the first word after a drop capital, `THE` on `405`; a name in a
   table, `OBIZZO` on `249`): the base's case is kept, as `ocr/en-oelsner` set no rule for
   them; a difference of case alone is not corrected.
 - **Maps and tables**: their names are read in the image one by one; the order of the lines,

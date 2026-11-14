@@ -645,6 +645,7 @@ page	line	form	decision	note
 393	26	1 Maccabees	misread	cmp A; was `I`; the old-style figure 1
 394	28	là	printed	cmp D; Tesseract and GLM-OCR `la`; nothing to do
 396	4	armi.”	misread	cmp A; the closing quote left out; the tercet numbers 19-49 had been set in a column at the page foot; moved to the line ends
+398	16	Bruto:	printed	cmp D; Tesseract and GLM-OCR `Bruto;`; a colon, the tail below it a show-through, as the Fifth Edition scan (`inferno00dant_3`) prints it clearly; nothing to do
 400	1	388 INFERNO	misread	cmp B; the running head was split over two lines
 401	23	His doubts	misread	cmp A, B, D; the label `are dispelled by Virgil` was joined to it; set two tercets lower as printed
 402	5	sì	printed	cmp D; Tesseract and GLM-OCR `si`; nothing to do

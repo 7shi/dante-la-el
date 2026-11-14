@@ -8,21 +8,17 @@
 
 ## Overview and Pagination Offsets
 
-The physical book contains no formal printed Table of Contents for the individual Cantos. The only printed index in the volume is the **Index to Maps, Plates and Tables** on printed page 402 ([`412.txt`](412.txt)).
+The physical book contains no formal printed Table of Contents for the individual Cantos. The only printed index in the volume is the **Index to Maps, Plates and Tables** on printed page 402 ([`414.txt`](414.txt)).
 
-The relationship between file numbers (`NNN.txt`) and printed book page numbers is characterized by two distinct offsets due to a omitted scanning leaf:
+The relationship between file numbers (`NNN.txt`) and printed book page numbers is a single offset of +12 throughout the paginated text:
 
 1. **Front Matter (`001.txt`–`013.txt`)**:
    - Front cover, library leaves, half-title, frontispiece, title page, and Seneca epigraph (unpaginated).
-2. **Main Text and Notes: Cantos I through XXXIV early portion (`014.txt`–`396.txt`)**:
-   - Printed pages 2 through 384.
+2. **Main Text, Notes, End Matter, and Index (`014.txt`–`414.txt`)**:
+   - Printed pages 2 through 402.
    - **Offset: +12** (`file_number = printed_page + 12`).
-3. **Omitted Scan Leaf (printed pages 385–386)**:
-   - Between [`396.txt`](396.txt) (p. 384, Italian vv. 19–49) and [`397.txt`](397.txt) (p. 387, English vv. 50–81), printed pages 385 (English translation of vv. 19–49) and 386 (Italian text of vv. 50–84) were omitted during scanning/digitization.
-4. **Canto XXXIV conclusion, End Matter, and Index (`397.txt`–`412.txt`)**:
-   - Printed pages 387 through 402.
-   - **Offset: +10** (`file_number = printed_page + 10`).
-5. **Back Matter (`413.txt`–`416.txt`)**:
+   - The leaf with printed pages 385–386 ([`397.txt`](397.txt), [`398.txt`](398.txt)) is missing from the main scan and is taken from another scan of the same edition (see "Verification Notes", 2).
+3. **Back Matter (`415.txt`–`418.txt`)**:
    - Unpaginated library date slip, barcode label, and endpapers.
 
 ---
@@ -84,7 +80,7 @@ The relationship between file numbers (`NNN.txt`) and printed book page numbers 
 | **Canto XXXI** | Well of Malebolge: The Giants (Nimrod, Ephialtes, Briareus); Antaeus lowers Dante and Virgil into the Ninth Circle | pp. 346–357 | [`358.txt`](358.txt)–[`369.txt`](369.txt) | `358`–`367` | `368`–`369` | — | +12 |
 | **Canto XXXII** | Circle IX (Cocytus - Treachery): Caïna (Traitors to Kin: Camicion); Antenora (Traitors to Country: Bocca degli Abati, Ugolino & Ruggieri) | pp. 358–369 | [`370.txt`](370.txt)–[`381.txt`](381.txt) | `370`–`379` | `380`–`381` | — | +12 |
 | **Canto XXXIII** | Circle IX, Antenora & Ptolomaea: Count Ugolino's tragedy in the Tower of Famine; Ptolomaea (Traitors to Guests: Friar Alberigo, Branca d'Oria) | pp. 370–381 | [`382.txt`](382.txt)–[`393.txt`](393.txt) | `382`–`392` (top) | `392` (bot)–`393` | — | +12 |
-| **Canto XXXIV** | Circle IX, Judecca: Lucifer / Satan chewing Judas, Brutus, and Cassius; Descent past center of Earth; Exit from Hell (*a riveder le stelle*) | pp. 382–392 [omits 385–386] | [`394.txt`](394.txt)–[`402.txt`](402.txt) | `394`–`401` | `402` | — | +12 (pp. 382–384), then +10 (pp. 387–392) |
+| **Canto XXXIV** | Circle IX, Judecca: Lucifer / Satan chewing Judas, Brutus, and Cassius; Descent past center of Earth; Exit from Hell (*a riveder le stelle*) | pp. 382–392 | [`394.txt`](394.txt)–[`404.txt`](404.txt) | `394`–`403` | `404` | — | +12 |
 
 ---
 
@@ -92,18 +88,18 @@ The relationship between file numbers (`NNN.txt`) and printed book page numbers 
 
 | Section | Author / Title | Printed Page Range | File Range | Description | Offset |
 |---|---|---|---|---|---|
-| **Note on Dante's Hell** | P. H. W. (Philip H. Wicksteed) | pp. 393–395 | [`403.txt`](403.txt)–[`405.txt`](405.txt) | Essay on the ethical and numerical systems of the *Inferno* (Aristotelian & Ciceronian basis; 3, 7, 9, 10 scheme), concluding with a full classification table on p. 395 ([`405.txt`](405.txt)). | +10 |
-| **The Chronology of the "Inferno"** | P. H. W. (Philip H. Wicksteed) | pp. 396–398 | [`406.txt`](406.txt)–[`408.txt`](408.txt) | Detailed chronological analysis of the journey through Hell, calculating days and hours from Good Friday evening through Easter Sunday morning and beyond. | +10 |
-| **Cosmological Plate 1** | Plan of Concentric Spheres | p. 399 | [`409.txt`](409.txt) | Diagram illustrating Earth enclosed in the sphere of the Moon and the sphere bearing the epicycle of Mercury. | +10 |
-| **Cosmological Plate 2** | Section of the Universe | p. 400 | [`410.txt`](410.txt) | Diagram of Earth, the nine revolving celestial spheres, epicycles of Mercury and Venus, and the Empyrean. | +10 |
-| **General Editorial Note** | H. Oelsner & I. Gollancz | p. 401 | [`411.txt`](411.txt) | Editorial note explaining the edition's sources (Witte, Moore, Casini for Italian; Carlyle's 1849/1867 translation edited by Oelsner; new notes by Oelsner; dated Nov. 16, 1900). | +10 |
-| **Index to Maps, Plates and Tables** | Publisher / Colophon | p. 402 | [`412.txt`](412.txt) | The printed volume index of maps and charts, concluding with the printer's mark: *Turnbull and Spears, Printers, Edinburgh*. | +10 |
+| **Note on Dante's Hell** | P. H. W. (Philip H. Wicksteed) | pp. 393–395 | [`405.txt`](405.txt)–[`407.txt`](407.txt) | Essay on the ethical and numerical systems of the *Inferno* (Aristotelian & Ciceronian basis; 3, 7, 9, 10 scheme), concluding with a full classification table on p. 395 ([`407.txt`](407.txt)). | +12 |
+| **The Chronology of the "Inferno"** | P. H. W. (Philip H. Wicksteed) | pp. 396–398 | [`408.txt`](408.txt)–[`410.txt`](410.txt) | Detailed chronological analysis of the journey through Hell, calculating days and hours from Good Friday evening through Easter Sunday morning and beyond. | +12 |
+| **Cosmological Plate 1** | Plan of Concentric Spheres | p. 399 | [`411.txt`](411.txt) | Diagram illustrating Earth enclosed in the sphere of the Moon and the sphere bearing the epicycle of Mercury. | +12 |
+| **Cosmological Plate 2** | Section of the Universe | p. 400 | [`412.txt`](412.txt) | Diagram of Earth, the nine revolving celestial spheres, epicycles of Mercury and Venus, and the Empyrean. | +12 |
+| **General Editorial Note** | H. Oelsner & I. Gollancz | p. 401 | [`413.txt`](413.txt) | Editorial note explaining the edition's sources (Witte, Moore, Casini for Italian; Carlyle's 1849/1867 translation edited by Oelsner; new notes by Oelsner; dated Nov. 16, 1900). | +12 |
+| **Index to Maps, Plates and Tables** | Publisher / Colophon | p. 402 | [`414.txt`](414.txt) | The printed volume index of maps and charts, concluding with the printer's mark: *Turnbull and Spears, Printers, Edinburgh*. | +12 |
 
 ---
 
 ## Index to Maps, Plates and Tables (Printed Book Index)
 
-Transcribed directly from printed page 402 ([`412.txt`](412.txt)), cross-referenced with corresponding page files:
+Transcribed directly from printed page 402 ([`414.txt`](414.txt)), cross-referenced with corresponding page files:
 
 | # | Title in Printed Index | Printed Page | Target File | Context / Location |
 |---|---|---|---|---|
@@ -115,8 +111,8 @@ Transcribed directly from printed page 402 ([`412.txt`](412.txt)), cross-referen
 | 6 | SECTION OF MALEBOLGE | p. 272 | [`284.txt`](284.txt) | Embedded diagram on p. 272 within Canto XXIV Notes (illustrating verses 34, 35, 40 from Scartazzini). |
 | 7 | THE MALATESTA FAMILY | p. 309 | [`321.txt`](321.txt) | Following Canto XXVII Notes; genealogical table of the lords of Rimini (*Inf.* v, xxvii, xxviii). |
 | 8 | THE DELLA SCALA FAMILY | p. 333 | [`345.txt`](345.txt) | Following Canto XXIX Notes; genealogical table of the Scaliger dynasty of Verona (*Inf.* i; *Purg.* xviii; *Par.* xvii). |
-| 9 | PLAN OF CONCENTRIC SPHERES, SHOWING EARTH ENCLOSED IN THE SPHERE OF THE MOON, AND THAT AGAIN ENCLOSED IN THE SPHERE BEARING THE EPICYCLE OF MERCURY | p. 399 | [`409.txt`](409.txt) | Following the Chronology; Ptolemaic cosmological diagram of terrestrial and planetary spheres. |
-| 10 | SECTION OF THE UNIVERSE, INDICATING EARTH, THE NINE REVOLVING SPHERES AND THE EMPYREAN | p. 400 | [`410.txt`](410.txt) | Following Plate 1; cross-section of medieval cosmology from the central Earth to the Empyrean. |
+| 9 | PLAN OF CONCENTRIC SPHERES, SHOWING EARTH ENCLOSED IN THE SPHERE OF THE MOON, AND THAT AGAIN ENCLOSED IN THE SPHERE BEARING THE EPICYCLE OF MERCURY | p. 399 | [`411.txt`](411.txt) | Following the Chronology; Ptolemaic cosmological diagram of terrestrial and planetary spheres. |
+| 10 | SECTION OF THE UNIVERSE, INDICATING EARTH, THE NINE REVOLVING SPHERES AND THE EMPYREAN | p. 400 | [`412.txt`](412.txt) | Following Plate 1; cross-section of medieval cosmology from the central Earth to the Empyrean. |
 
 ---
 
@@ -124,10 +120,10 @@ Transcribed directly from printed page 402 ([`412.txt`](412.txt)), cross-referen
 
 | Item | Printed Page | File | Description |
 |---|---|---|---|
-| Flyleaf | — | [`413.txt`](413.txt) | Blank flyleaf |
-| Library Date Due Slip | — | [`414.txt`](414.txt) | University of California Berkeley 14-day loan slip |
-| Library Barcode | — | [`415.txt`](415.txt) | UC Berkeley barcode `C021056232` / `YA 00103` |
-| Endpaper / Back Cover | — | [`416.txt`](416.txt) | Blank dark back cover leaf |
+| Flyleaf | — | [`415.txt`](415.txt) | Blank flyleaf |
+| Library Date Due Slip | — | [`416.txt`](416.txt) | University of California Berkeley 14-day loan slip |
+| Library Barcode | — | [`417.txt`](417.txt) | UC Berkeley barcode `C021056232` / `YA 00103` |
+| Endpaper / Back Cover | — | [`418.txt`](418.txt) | Blank dark back cover leaf |
 
 ---
 
@@ -136,12 +132,11 @@ Transcribed directly from printed page 402 ([`412.txt`](412.txt)), cross-referen
 1. **Heading & Text Verification**:
    - Every file mapping was verified against actual headings, argument openers, verse text, and running headers in `ocr/en-oelsner/*.txt`.
    - Running headers on even pages consistently read `[page] INFERNO` alongside circle/subdivision labels (e.g. `Cerchio`, `Bolgia`, `Cocito`), while odd pages read `CANTO [NUM] [page]`.
-2. **Missing Leaf Between `396.txt` and `397.txt`**:
-   - File [`396.txt`](396.txt) contains printed page 384 (Italian vv. 19–49).
-   - File [`397.txt`](397.txt) contains printed page 387 (English vv. 50–81).
-   - The leaf containing printed pages 385 (English vv. 19–49) and 386 (Italian vv. 50–84) is omitted from the Internet Archive scan. This drops the file-to-page offset from +12 to +10 for all subsequent pages (`397.txt`–`412.txt`).
+2. **Leaf Supplied from Another Scan (`397.txt`, `398.txt`)**:
+   - The leaf with printed pages 385 (English of vv. 19–51) and 386 (Italian vv. 52–84) is missing from the main Internet Archive scan (`infernoofdanteal00dantrich`), between p. 384 ([`396.txt`](396.txt)) and p. 387 ([`399.txt`](399.txt)).
+   - [`397.png`](397.png) and [`398.png`](398.png) are taken from another scan of the same Fourth Edition (`infernoofdanteal00dant`, its pages 393–394), whose pp. 384 and 387 match the main scan line for line. The files after them were renumbered by two, so the offset is +12 throughout.
 3. **Plates Embedded vs. Separate**:
-   - Nine of the items in the *Index to Maps, Plates and Tables* occupy dedicated un-headed or specially-headed leaves (`025`, `037`, `133`, `191`, `249`, `321`, `345`, `409`, `410`), but all participate normally in the printed page count.
+   - Nine of the items in the *Index to Maps, Plates and Tables* occupy dedicated un-headed or specially-headed leaves (`025`, `037`, `133`, `191`, `249`, `321`, `345`, `411`, `412`), but all participate normally in the printed page count.
    - Item 6 (*Section of Malebolge*, p. 272) is an inline diagram embedded on [`284.txt`](284.txt) among the Notes to Canto XXIV.
 4. **Minor OCR Artifacts in Running Headers**:
    - File [`023.txt`](023.txt) (p. 11): Header transcribed as `CANTO I II` (Roman numeral II misread for 11).

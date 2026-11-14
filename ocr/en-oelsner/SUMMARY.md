@@ -28,8 +28,8 @@ an Oelsner variant could remain.
 Each place was decided in the image as **misread** (corrected in `ocr/en-oelsner`),
 **misprint** (kept as printed, marked `{{printed|fixed}}` and listed) or **printed**
 (kept); every decision is a row of [readcheck.tsv](readcheck.tsv) (note `cmp A`–`D` for
-step 2, `read` for step 3). The leaf with pp. 385–386 is missing from the scan and was not
-checked; the book prints no corrigenda.
+step 2, `read` for step 3). The leaf with pp. 385–386 (`397`–`398`), missing from the scan,
+was added from another scan after the check (PLAN.md, "State"); the book prints no corrigenda.
 
 ## 3. What was found
 

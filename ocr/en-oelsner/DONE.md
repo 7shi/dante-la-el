@@ -1,6 +1,8 @@
 # Done: checking `ocr/en-oelsner`
 
-The record of the check ([PLAN.md](PLAN.md)), step by step.
+The record of the check ([PLAN.md](PLAN.md)), step by step. The page numbers are those
+of the time: the files from `397` on were later renumbered by two, when the missing leaf
+was added as `397`–`398` (PLAN.md, "State", 2026-11-15).
 
 ## Step 0: setup (2026-11-13)
 

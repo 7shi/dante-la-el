@@ -9,7 +9,7 @@ Scanned page images of the sources (see the root [README](../README.md)) and the
 | `la/` | Latin pages (`0001.png`, `0001.txt`, ...; about 1,300 pages) |
 | `grc/` | Ancient Greek pages (`001.png`, `001.txt`, ...; about 350 pages) |
 | `en/` | English and Italian pages, Carlyle's own edition (5th ed., 1889; `001.png`, `001.txt`, ...; 514 pages) |
-| `en-oelsner/` | English and Italian pages, Temple Classics edition revised by H. Oelsner (1903; `001.png`, `001.txt`, ...; 416 pages) |
+| `en-oelsner/` | English and Italian pages, Temple Classics edition revised by H. Oelsner (1903; `001.png`, `001.txt`, ...; 418 pages) |
 | `Makefile` | Runs the OCR for each language directory |
 | `scripts/` | The scripts that prepare and transcribe the pages ([scripts/README.md](scripts/README.md)) |
 | `PLAN.md` | The plan of the checks against the images, and their state |
