@@ -1,4 +1,4 @@
-<!-- p. 393 (403) -->
+<!-- p. 393 (405) -->
 
 # Note on Dante's Hell
 
@@ -14,7 +14,7 @@ II. Brutishness, or Bestiality, which is characteristic of morbid states in whic
 
 [^393-1]: "Essays on Dante," by Dr Karl Witte, selected, translated and edited with introduction, notes and appendices by C. Mabel Lawrence, B.A. and Philip H. Wicksteed, M.A. Duckworth, 1898.
 
-<!-- p. 394 (404) -->
+<!-- p. 394 (406) -->
 
 III. Malice or Vice, which consists of those evil actions which involve the abuse of the specifically human attribute of reason.
 
@@ -26,7 +26,7 @@ Aristotle distinctly asserts that brutishness is a "different kind of thing" fro
 
 By sub-division of the first of these categories into 4, and the last into 2, we obtain the total of 7. Add to these unbelief (heathen and unbaptized) and misbelief (heretics) as standing outside the Aristotelian classification, but demanding a place in Hell as conceived by the mediæval catholic, and we have the nine circles of Hell. Add again the circle outside the river of Acheron, where are the Trimmers, rejected alike by Heaven and Hell, and we then have a tenfold division (9 + 1) corresponding to those of Purgatory and Paradise. There is, however, a further sub-division peculiar to the Inferno; for the three last circles, 7, 8, 9, are sub-divided respectively into 3, 10, and 4 divisions, so that the locally distinct abiding-places of unblest souls mount in all to twenty-four. These divisions are set forth in the appended table.
 
-<!-- p. 395 (405) -->
+<!-- p. 395 (407) -->
 
 Trimmers — 0 — 1\
 Heathen — 1 — 2
