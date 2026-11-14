@@ -7,7 +7,7 @@ The page-by-page transcriptions in `ocr/{dir}/NNN.txt` are reorganized into sect
 | Directory | Status |
 |---|---|
 | `texts/en/` | Done: converted, verified against dante-corpus, footnote markers restored on every page; `ocr/en/` checked again against the images (every page retyped and compared, then a read-through), its misprints marked and corrected in `texts/en/`; see [`ocr/en/SUMMARY.md`](../ocr/en/SUMMARY.md). |
-| `texts/en-oelsner/` | Done: `ocr/` normalized (labels, paragraph breaks) and converted; Italian verified against dante-corpus, English against `texts/en`. `ocr/en-oelsner` then checked against the images (every page retyped and compared, a read-through; [ocr/en-oelsner/SUMMARY.md](../ocr/en-oelsner/SUMMARY.md)): misreadings corrected, misprints marked. The maps, diagrams and plates shown as images cut from the scans (`texts/en-oelsner/images/`, by `crop_en_oelsner_images.py`). |
+| `texts/en-oelsner/` | Done: `ocr/` normalized (labels, paragraph breaks) and converted; Italian verified against dante-corpus, English against `texts/en`. `ocr/en-oelsner` then checked against the images (every page retyped and compared, a read-through; [ocr/en-oelsner/SUMMARY.md](../ocr/en-oelsner/SUMMARY.md)): misreadings corrected, misprints marked. The maps, diagrams and plates shown as images cut from the scans (`texts/en-oelsner/images/`, by `crop_en_oelsner_images.py`), those of the Fifth Edition (1904), whose two pages of plates (`411`–`412`) replace ours. |
 | `texts/la/` | Done: `ocr/la/` completed batch by batch (the verse from the images, the commentary checked against GLM-OCR, lines and blank lines checked, the italics marked), converted by `convert_la.py` (`texts/la/001`–`110`), and checked again (the lemmas, the verse and the rare forms against the images); see [`ocr/la/DONE.md`](../ocr/la/DONE.md) for the method and the checks and [`ocr/la/PLAN.md`](../ocr/la/PLAN.md) for their limits. |
 | `texts/grc/` | Done: converted; verse counts, line numbers, and arguments checked by the script; misreadings found by a syllable count corrected in `ocr/`. `ocr/grc` then checked against the images (every page retyped and compared, a read-through; [ocr/grc/SUMMARY.md](../ocr/grc/SUMMARY.md)): misreadings corrected, misprints marked, the corrigenda applied by marks and not converted. |
 
@@ -114,8 +114,8 @@ Done. Contents and reading notes: [`en-oelsner/README.md`](en-oelsner/README.md)
 | `002-canto-01.md` … `035-canto-34.md` | CANTO I … CANTO XXXIV (file number = canto + 1), each with its notes and the maps, plates, or tables printed after it | `014`–`404`, see INDEX.md |
 | `036-note-on-dantes-hell.md` | NOTE ON DANTE’S HELL | `405`–`407` |
 | `037-the-chronology-of-the-inferno.md` | THE CHRONOLOGY OF THE “INFERNO” | `408`–`410` |
-| `038-plan-of-concentric-spheres.md` | Plate | `411` |
-| `039-section-of-the-universe.md` | Plate | `412` |
+| `038-plan-of-concentric-spheres.md` | Plate: Fig. I (Fifth Edition) | `411` |
+| `039-section-of-the-universe.md` | Plate: Fig. II (Fifth Edition) | `411`–`412` |
 | `040-editorial-note.md` | EDITORIAL NOTE | `413` |
 | `041-index-to-maps-plates-and-tables.md` | INDEX TO MAPS, PLATES AND TABLES | `414` |
 
@@ -133,7 +133,8 @@ Excluded: `001`–`006`, `009`, `012`, `415`–`418`.
 
 ### Conversion notes for `ocr/en-oelsner/`
 
-- Images: [`crop_en_oelsner_images.py`](scripts/crop_en_oelsner_images.py) cuts the seven figures (the maps `025`, `191`; the diagrams `037`, `133`, `284`; the plates `411`, `412`) from the scans by fixed boxes into `texts/en-oelsner/images/NNN.jpg`, without their captions; `convert_en_oelsner.py` links each at the top of its page (`IMAGES`), or after the note that introduces it (`IMAGE_AFTER_NOTE`, `284`). Run the crop again only if the scans change.
+- Images: [`crop_en_oelsner_images.py`](scripts/crop_en_oelsner_images.py) cuts the seven figures (the maps `025`, `191`; the diagrams `037`, `133`, `284`; the plates `411`, `412`) from the Fifth Edition's pages (`ocr/en-oelsner/fifth/`, and `411`–`412` themselves) by fixed boxes into `texts/en-oelsner/images/NNN.jpg`, without their captions; `convert_en_oelsner.py` links each at the top of its page (`IMAGES`), or after the note that introduces it (`IMAGE_AFTER_NOTE`, `284`). Run the crop again only if the scans change.
+- The plates `411`–`412` (Fifth Edition): `convert_en_oelsner.py` makes a section of each figure (`FIGURES`): Fig. I with `411` up to the label `**Fig. II.**`, Fig. II with the rest of `411` and with `412`, whose first paragraph continues the last of `411`; the image of Fig. II after its text.
 - Script: [`convert_en_oelsner.py`](scripts/convert_en_oelsner.py) (`uv run texts/scripts/convert_en_oelsner.py`). It is separate from `convert_en.py`: the two books share little beyond hyphen handling and title case.
 - Lines are broken as printed, with line-end hyphenation (`de-` / `serted`, `014`); the script joins them, deciding with a word list from `ocr/en-oelsner` and `ocr/en` (the same translation), from which the fragments of hyphenated words are excluded, and lists the undecided cases. The cases decided by hand against the images and `ocr/en` are in `HYPHEN_FIXED` (`re-erected`, `father-in-law`, `praiseworthy`, …); an undecided case that looks like no word (`ap-` / `have`) is a misreading to correct in `ocr/`.
 - Running heads and page numbers are transcribed (`CANTO I` on `015`, `8` / `INFERNO` on two lines on `020`, page number `2` at the end of `014`), and so are the printer's signature marks at the foot of some pages (`B` on `029`, `2 C` on `413`); the script removes them. Some heads are misread (`CANTO I II` on `023`, `206 INFERNO` for 266 on `278`, `V. NOTES` on `284`), so they are recognized by position (first lines and last line of the page), not by an exact pattern.

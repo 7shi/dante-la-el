@@ -1,5 +1,7 @@
 """Cut the maps, diagrams and plates of ocr/en-oelsner from the scans into
-texts/en-oelsner/images/NNN.jpg (NNN the scan). The captions and names stay as text
+texts/en-oelsner/images/NNN.jpg (NNN the scan). The figures are taken from the Fifth
+Edition (1904), which prints them without show-through: 411 and 412 are its pages in
+ocr/en-oelsner itself, the others its pages in ocr/en-oelsner/fifth/. The captions and names stay as text
 in the Markdown; the images show the figures only. The grey paper is made white: the
 levels are stretched from the darkest ink to a little below the paper (the 75th
 percentile: the paper is most of a figure, the fill of 284 too much for the median), so
@@ -14,17 +16,23 @@ from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[2]
 SRC = ROOT / "ocr" / "en-oelsner"
+FIFTH = SRC / "fifth"
 
 # scan: (left, top, right, bottom) in the scan's pixels, the figure without its caption
 BOXES = {
-    25: (0, 150, 635, 998),    # Dante's geographical description (two maps)
-    37: (20, 255, 690, 850),   # section of the Earth: Hell and Purgatory
-    133: (5, 200, 705, 880),   # the hours at which the signs of the Zodiac rise
-    191: (20, 240, 690, 890),  # the rivers of Romagna
-    284: (140, 440, 745, 860), # Scartazzini's diagram (note on XXIV 34-40)
-    411: (10, 335, 640, 815),  # plan of concentric spheres
-    412: (155, 25, 787, 1140), # section of the Universe
+    25: (60, 240, 1192, 1757),    # Dante's geographical description (two maps)
+    37: (33, 454, 1206, 1518),    # section of the Earth: Hell and Purgatory
+    133: (37, 356, 1279, 1581),  # the hours at which the signs of the Zodiac rise
+    191: (59, 404, 1186, 1537),   # the rivers of Romagna
+    284: (278, 820, 1295, 1561),  # Scartazzini's diagram (note on XXIV 34-40)
+    411: (110, 33, 1239, 965),    # plan of concentric spheres (Fig. I)
+    412: (370, 293, 1232, 2261),  # section of the eight heavens (Fig. II)
 }
+
+
+def source(n):
+    fifth = FIFTH / f"{n:03d}.png"
+    return fifth if fifth.exists() else SRC / f"{n:03d}.png"
 
 
 WHITE_MARGIN = 14  # below the paper's level, still made white
@@ -54,7 +62,7 @@ def main():
     out = Path(args.outdir)
     out.mkdir(parents=True, exist_ok=True)
     for n, box in BOXES.items():
-        im = whiten(Image.open(SRC / f"{n:03d}.png").convert("L").crop(box))
+        im = whiten(Image.open(source(n)).convert("L").crop(box))
         path = out / f"{n:03d}.jpg"
         im.save(path, quality=QUALITY, optimize=True)
         print(f"{path.relative_to(ROOT) if path.is_relative_to(ROOT) else path}: {im.width}x{im.height}")

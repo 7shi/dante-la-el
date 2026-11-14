@@ -22,6 +22,8 @@ English (Carlyle's literal prose translation, with the Italian text)
   (edited by Oelsner: The Temple Classics, London: J. M. Dent & Co., 1903; the Carlyle text in [Inferno/](Inferno/) is taken from this edition)
 * [The Inferno of Dante Alighieri (another copy of the same edition) : Internet Archive](https://archive.org/details/infernoofdanteal00dant)
   (the leaf with pp. 385–386, missing from the scan above, is taken from it)
+* [The Inferno of Dante Alighieri (Fifth Edition, 1904) : Internet Archive](https://archive.org/details/inferno00dant_3)
+  (the two pages of plates, pp. 399–400, rewritten in this edition, and the images of the figures are taken from it)
 
 ## OCR
 

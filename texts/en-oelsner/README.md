@@ -13,7 +13,8 @@ These files are generated from the proofread page transcriptions in [`ocr/en-oel
 - **English**: one paragraph per tercet, as printed. Words in square brackets (`I [came to] myself`) are Oelsner's revisions of Carlyle's text.
 - **Marginal labels**: the editor's sidenotes (`Proemio`, `Cerchio VIII. Bolgia 3` beside the Italian; `Dante`, `The Leopard` beside the English) are comments at the end of the line or paragraph they stand beside: `<!-- label: Il Colle -->`.
 - **Notes**: keyed to verse numbers (`73-75. …`), as plain paragraphs. A note continued on the next page is joined to its start.
-- **Maps, plates, tables**: kept where they are printed, with their text line by line. The maps, diagrams and plates are shown as images cut from the scans (`images/NNN.jpg`, NNN the scan), above their text; the diagram in the note on Canto XXIV 34-40 follows the note. The genealogical tables are text only.
+- **Maps, plates, tables**: kept where they are printed, with their text line by line. The maps, diagrams and plates are shown as images cut from the scans of the Fifth Edition (1904), which prints them without show-through (`images/NNN.jpg`, NNN the scan), above their text; the diagram in the note on Canto XXIV 34-40 follows the note. The genealogical tables are text only.
+- **The two plates (pp. 399–400)** are those of the Fifth Edition, which rewrote these two pages (see [`ocr/en-oelsner/README.md`](../../ocr/en-oelsner/README.md), "Layout"): Fig. I and Fig. II, each with its explanation as paragraphs, its marginal label in bold at the start (`**Fig. I. (on this page).**`). The explanation of Fig. II runs from the foot of p. 399 onto p. 400, so it makes the second file with the rest of p. 399; its figure is printed after it, on p. 400.
 - **Not transcribed**: the physical copy's covers, bookplate, blank pages, library stamps and loan slips, and pencil notes.
 
 ## Contents
@@ -67,7 +68,7 @@ These files are generated from the proofread page transcriptions in [`ocr/en-oel
 |---|---|---|
 | [036-note-on-dantes-hell.md](036-note-on-dantes-hell.md) | Note on Dante's Hell | 393–395 |
 | [037-the-chronology-of-the-inferno.md](037-the-chronology-of-the-inferno.md) | The Chronology of the “Inferno” | 396–398 |
-| [038-plan-of-concentric-spheres.md](038-plan-of-concentric-spheres.md) | Plate: plan of concentric spheres | 399 |
-| [039-section-of-the-universe.md](039-section-of-the-universe.md) | Plate: section of the universe | 400 |
+| [038-plan-of-concentric-spheres.md](038-plan-of-concentric-spheres.md) | Plate: Fig. I, plan of concentric spheres (Fifth Edition) | 399 |
+| [039-section-of-the-universe.md](039-section-of-the-universe.md) | Plate: Fig. II, section of the eight revolving heavens (Fifth Edition) | 399–400 |
 | [040-editorial-note.md](040-editorial-note.md) | General Editorial Note | 401 |
 | [041-index-to-maps-plates-and-tables.md](041-index-to-maps-plates-and-tables.md) | Index to Maps, Plates and Tables | 402 |

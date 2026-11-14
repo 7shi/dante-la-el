@@ -39,8 +39,8 @@ IMAGES = {
     133: "The hours at which the signs of the Zodiac rise",
     191: "Map: the rivers of Romagna and the mouth of the Po",
     284: "Diagram for Canto XXIV 34-40 (after Scartazzini)",
-    411: "Plan of concentric spheres",
-    412: "Section of the Universe",
+    411: "Fig. I: plan of concentric spheres",
+    412: "Fig. II: section of the eight revolving heavens",
 }
 IMAGE_AFTER_NOTE = {284: "will make these verses clear:"}
 
@@ -474,6 +474,30 @@ def render_lines(p):
     return "\\\n".join(out)
 
 
+# Pages 411-412 are taken from the Fifth Edition (1904), which rewrote them: the
+# explanation of Fig. I under its figure on 411, then that of Fig. II from the foot of 411
+# onto 412, above its figure. Each figure is a section of its own: Fig. I with 411 up to
+# the label of Fig. II, Fig. II with the rest of 411 and with 412.
+FIGURES = (411, 412, "**Fig. II.")
+
+
+def convert_figures(n):
+    first, second, start = FIGURES
+    paras = paragraphs_raw(page_lines(first))
+    k = next(i for i, p in enumerate(paras) if p[0].startswith(start))
+    text = lambda p: esc(join_lines([l.strip() for l in p], f"{n:03d}"))
+    if n == first:
+        return [marker(first), image(first)] + [text(p) for p in paras[:k]]
+    rest, after = paras[k:], paragraphs_raw(page_lines(second))
+    # the last paragraph of 411 runs on into the first of 412, in one italic span
+    tail, head = rest[-1], after[0]
+    if tail[-1].endswith("*") and head[0].startswith("*"):
+        tail, head = tail[:-1] + [tail[-1][:-1]], [head[0][1:]] + head[1:]
+    rest[-1] = tail + head
+    return [marker(first)] + [text(p) for p in rest[:-1]] + [text(rest[-1]), marker(second)] \
+        + [text(p) for p in after[1:]] + [image(second)]
+
+
 def convert_plain(pages, title_page=False):
     parts = []
     for i, n in enumerate(pages):
@@ -533,7 +557,10 @@ def main():
         write(num, f"canto-{c:02d}", convert_canto(c, first, last, errors))
     for slug, pages in BACK:
         num += 1
-        write(num, slug, convert_plain(pages))
+        if pages[0] in FIGURES:
+            write(num, slug, convert_figures(pages[0]))
+        else:
+            write(num, slug, convert_plain(pages))
     for e in errors:
         print("ERROR", e)
     for u in UNDECIDED:
