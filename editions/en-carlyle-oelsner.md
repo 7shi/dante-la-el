@@ -2,6 +2,7 @@
 
 This report compares John A. Carlyle's prose translation of the Inferno, as printed in his own fifth edition (1889; [`texts/en/`](../texts/en/)), with the same translation revised by Hermann Oelsner for The Temple Classics (1903; [`texts/en-oelsner/`](../texts/en-oelsner/)). Oelsner printed his own Italian text beside it, and marked many of his revisions with square brackets (`I [came to] myself`). It does not list every difference: the differences of punctuation, spelling, and grammatical endings are described by their features with examples, and only the changes of words are listed in full.
 
+
 ## Method
 
 The two English texts are not divided alike: Carlyle's edition prints the prose page by page above the verse it renders, Oelsner's prints it one paragraph per tercet facing the Italian. So each canto is compared as a whole, word by word, by [`scripts/compare_editions.py`](scripts/compare_editions.py) `en`, and each difference is placed on the page of Carlyle's edition where it falls; the lines of that page (`I 22–33`) locate it. The English of the leaf missing from the scan of Oelsner's edition (canto XXXIV, the English of lines 19–51) is left out. Oelsner's square brackets and his italics are not counted as differences; a difference is "marked" if Oelsner's brackets cover his side of it.
@@ -99,6 +100,7 @@ Every change of words where Oelsner's Italian differs from Carlyle's in the same
 | Lines | Carlyle | Oelsner | Marked | Italian (Carlyle / Oelsner) |
 |---|---|---|---|---|
 | I 22–33 | … had rested my wearied body, I took the way … | … had rested my wearied body **a short while**, I took the way … | yes | 28: Poi ch’ ebbi riposato il corpo lasso, / Poi ch' ei posato un poco il corpo lasso, |
+| I 48–60 | … that the air seemed to **quake** thereat. And a She … | … that the air seemed to **have fear** thereat; and a She … | yes | 48: Sì che parea che l’aer ne tremesse. / sì che parea che l' aer ne temesse; |
 | III 29–42 | … dyed, as sand when **the** whirlwind **breathes**. And I, my … | … dyed, as sand when **it eddies in a** whirlwind. And I, my … | partly | 30: Come la rena quando il turbo spira. / come la rena quando a turbo spira. |
 | III 29–42 | … , my head begirt with **error**, said: “Master … | … , my head begirt with **horror**, said: “Master … | no | 31: Ed io, ch’ avea d’ error la testa cinta, / Ed io, ch' avea d' orror la testa cinta, |
 | III 58–69 | … some amongst them, I **looked** and **saw** the shadow of him who … | … some amongst them, I **saw** and **knew** the shadow of him who … | yes | 59: Guardai, e vidi l’ ombra di colui / vidi e conobbi l’ombra di colui |
@@ -149,7 +151,7 @@ Every change of words where Oelsner's Italian differs from Carlyle's in the same
 | XX 48–62 | … that dwells beneath, amongst white marbles had the cave … | … that dwells beneath, amongst **the** white marbles had the cave … | yes | 49: Ebbe tra bianchi marmi la spelonca / ebbe tra i bianchi marmi la spelonca |
 | XX 48–62 | … Germany above the Tyrol, **and it** is called Benacus. Through … | … Germany above the Tyrol, **which** is called Benacus. Through … | yes | 63: Sovra Tiralli, ed ha nome Benaco. / sopra Tiralli, ch’ ha nome Benaco. |
 | XXI 29–40 | … others to that city which **is** well **provided** with them. Every man … | … others to that city which **I have provided** well with them: every one … | partly | 40: A quella terra che n’ è ben fornita. / a quella terra ch' i' n' ho ben fornita: |
-| XXII 124–138 | … each suddenly was stung with **rage**; but he most who … | … Thereat each was stung with **guilt**; but he most who … | yes | 124: Di che ciascun di colpo fu compunto, / Di che ciascun di colpa fu compunto, |
+| XXII 124–138 | … freed himself. Thereat each **suddenly** was stung with **rage**; but he most who … | … freed himself. Thereat each was stung with **guilt**; but he most who … | partly | 124: Di che ciascun di colpo fu compunto, / Di che ciascun di colpa fu compunto, |
 | XXII 124–138 | … ” But little it availed; for wings could not … | … ” But little it availed **him**; for wings could not … | yes | 127: Ma poco valse; chè l’ ale al sospetto / Ma poco i valse, chè l’ ale al sospetto |
 | XXIII 1–10 | … the other after; as **the** Minor Friars go their way … | … the other after; as Minor Friars go their way … | no | 3: Come i frati Minor vanno per via. / come frati minor vanno per via. |
 | XXIII 11–26 | … pursue us, fiercer than **a** dog that leveret which he … | … pursue us, fiercer than **the** dog that leveret which he … | yes | 18: Che cane a quella levre ch’ egli acceffa. / che il cane a quella lepre ch' egli acceffa.” |
@@ -188,7 +190,6 @@ Every other change of words: a closer rendering of the same Italian, a correctio
 | I 34–47 | … was covered with a spotted **skin: and** it went not from before … | … which was covered with spotted **hair. And** it went not from before … | yes |
 | I 34–47 | … things: so that the **gay skin of that animal, the** hour of time, and … | … things: so that the hour of time and the … | no |
 | I 34–47 | … , and the sweet season **, were causes** to **me of** good hope; yet not so, … | … time and the sweet season **caused me** to **have** good hope **of that animal with the gay skin**; yet not so, … | yes |
-| I 48–60 | … that the air seemed to **quake** thereat. And a She … | … that the air seemed to **have fear** thereat; and a She … | yes |
 | I 107–121 | … each calls for second death **. And** thou shalt see those who … | … calls for a second death **; and then** thou shalt see those who … | yes |
 | I 122–136 | … he rules; and there **he dwells. There** is his city, and … | … parts he rules and there **holds sway; there** is his city, and … | yes |
 | I 122–136 | … by that God whom thou **knewest** not: in order that … | … by that God whom thou **knowest** not: in order that … | no |
@@ -267,7 +268,6 @@ Every other change of words: a closer rendering of the same Italian, a correctio
 | XXII 38–52 | … My Guide drew close to **him,** and asked him whence he … | … My Guide drew close to **his side** and asked him whence he … | yes |
 | XXII 66–80 | … was a neighbour of theirs **. Would** I still were covered with … | … was a neighbour of theirs **on the other side; would** I still were covered with … | yes |
 | XXII 95–109 | … come. But let the **Malebranche stand** a little **back**, that they may not … | … come. But let the **evil claws hold back** a little, that they may not … | partly |
-| XXII 124–138 | … freed himself. Thereat each **suddenly** was stung with rage; … | … freed himself. Thereat each was stung with guilt; … | no |
 | XXIII 1–10 | … to Æsop’s fable where he **speaks** of the frog and mouse … | … to Æsop’s fable where he **spoke** of the frog and mouse … | yes |
 | XXIII 27–42 | … . Even now thy thoughts **have entered** among mine, with similar … | … . Even now thy thoughts **were entering** among mine, with similar … | yes |
 | XXIII 122–136 | … stone that moves from the **Great Barrier**, and bridges all the … | … stone that moves from the **great circular wall**, and bridges all the … | no |

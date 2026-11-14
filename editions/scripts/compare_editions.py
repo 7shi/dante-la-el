@@ -17,7 +17,9 @@ sorts out what can be told mechanically and lists the rest for reading).
   and sorted: punctuation, case, spelling (close in spelling), marked
   (Oelsner's [ ] marks), and substituted, inserted, or deleted words. The
   counts are printed, then every word difference with its context and the
-  lines of the page where the Italian of the two editions differs. The
+  lines of the page where the Italian of the two editions differs: in other
+  words, or in forms close in spelling (marked as such), which may hide two
+  words (tremesse / temesse, colpo / colpa); elided forms are left out. The
   English of the page missing from Oelsner's edition (canto XXXIV) is left
   out.
 """
@@ -67,15 +69,24 @@ def segments(a: list[str], b: list[str]):
             yield " ".join(a[i1:i2]), " ".join(b[j1:j2])
 
 
-def is_form(a: str, b: str) -> bool:
+def form_kind(a: str, b: str) -> str | None:
+    """How two segments are forms of the same word: "elided" (an elided or
+    apocopated form, or a pair of FORM_PAIRS), "close" (close in spelling
+    only, which may also be two words: tremesse / temesse, colpo / colpa),
+    or None (other words)."""
     if not (a and b):
-        return False
+        return None
     if (a, b) in FORM_PAIRS or (b, a) in FORM_PAIRS:
-        return True
+        return "elided"
     x, y = a.replace(" ", ""), b.replace(" ", "")
     short, full = sorted((x, y), key=len)
-    return (full.startswith(short) or full.endswith(short)
-            or SequenceMatcher(None, x, y).ratio() >= FORM_RATIO)
+    if full.startswith(short) or full.endswith(short):
+        return "elided"
+    return "close" if SequenceMatcher(None, x, y).ratio() >= FORM_RATIO else None
+
+
+def is_form(a: str, b: str) -> bool:
+    return form_kind(a, b) is not None
 
 
 # Orthographic features of a line pair (Carlyle, dante-corpus)
@@ -250,11 +261,17 @@ def compare_en(out):
         b = [t for t, _ in d.ob[d.j1:d.j2]]
         context = " ".join(d.ca[max(0, d.i1 - 6):d.i1]) + " [" + " ".join(a) + "] " \
             + " ".join(d.ca[d.i2:d.i2 + 6])
-        italian = [f"{no}: C {c_lines[no]} | O {o_lines.get(no, '(missing)')}"
-                   for no in range(d.page.start, d.page.end + 1)
-                   if no in o_lines
-                   and any(not is_form(x, y) for x, y in
-                           segments(it_words(c_lines[no]), it_words(o_lines[no])))]
+        italian = []
+        for no in range(d.page.start, d.page.end + 1):
+            if no not in o_lines:
+                continue
+            kinds_ = [(form_kind(x, y), x, y) for x, y in
+                      segments(it_words(c_lines[no]), it_words(o_lines[no]))]
+            row = f"{no}: C {c_lines[no]} | O {o_lines[no]}"
+            if any(kind is None for kind, _, _ in kinds_):
+                italian.append(row)
+            elif close := [f"{x} / {y}" for kind, x, y in kinds_ if kind == "close"]:
+                italian.append(f"{row}  (close forms: {', '.join(close)})")
         listed.append((d.canto, d.page.start, d.page.end, d.kind, d.marked,
                        " ".join(a) or "-", " ".join(b) or "-", context, italian))
     print("# Differences by kind (a difference is counted once by kind, "
@@ -263,7 +280,8 @@ def compare_en(out):
         print(f"{kind}\t{count}", file=out)
     print(f"\n# Word differences ({len(listed)}): canto, Carlyle's page lines, kind, "
           f"Carlyle / Oelsner, Carlyle's context, Italian lines of the page that "
-          f"differ in other words (C Carlyle, O Oelsner)", file=out)
+          f"differ in other words or in forms close in spelling, which may be "
+          f"other words too (C Carlyle, O Oelsner)", file=out)
     for canto, start, end, kind, marked, a, b, context, italian in listed:
         mark = " [marked]" if marked else ""
         print(f"{canto}:{start}-{end}\t{kind}{mark}\t{a} / {b}\n\t{context}", file=out)
