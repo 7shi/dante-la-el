@@ -20,6 +20,8 @@ English (Carlyle's literal prose translation, with the Italian text)
   (Carlyle's own edition: John A. Carlyle, fifth edition, London: George Bell & Sons, 1889)
 * [The Inferno of Dante Alighieri : Dante Alighieri, 1265-1321; Oelsner, Hermann, 1871- ed; Carlyle, John Aitken, 1801-1879, tr : Internet Archive](https://archive.org/details/infernoofdanteal00dantrich)
   (edited by Oelsner: The Temple Classics, London: J. M. Dent & Co., 1903; the Carlyle text in [Inferno/](Inferno/) is taken from this edition)
+* [The Inferno of Dante Alighieri (another copy of the same edition) : Internet Archive](https://archive.org/details/infernoofdanteal00dant)
+  (the leaf with pp. 385–386, missing from the scan above, is taken from it)
 
 ## OCR
 

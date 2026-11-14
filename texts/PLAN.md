@@ -104,22 +104,22 @@ Front matter and the index use the same page markers and footnote labels. Roman 
 
 ## `texts/en-oelsner/` — Temple Classics edition (`ocr/en-oelsner/`, 1903)
 
-Done. Contents and reading notes: [`en-oelsner/README.md`](en-oelsner/README.md). Structure reference: [`ocr/en-oelsner/INDEX.md`](../ocr/en-oelsner/INDEX.md). The leaf with pp. 385–386 (Canto XXXIV) is missing from the scan.
+Done. Contents and reading notes: [`en-oelsner/README.md`](en-oelsner/README.md). Structure reference: [`ocr/en-oelsner/INDEX.md`](../ocr/en-oelsner/INDEX.md). The leaf with pp. 385–386 (Canto XXXIV), missing from the scan, is taken from another scan of the same edition (`397`–`398`).
 
 ### Files
 
 | File | Section | Scans |
 |---|---|---|
 | `001-title-page.md` | Series half-title, publishing history, frontispiece, title page, epigraph | `007`, `008`, `010`, `011`, `013` |
-| `002-canto-01.md` … `035-canto-34.md` | CANTO I … CANTO XXXIV (file number = canto + 1), each with its notes and the maps, plates, or tables printed after it | `014`–`402`, see INDEX.md |
-| `036-note-on-dantes-hell.md` | NOTE ON DANTE’S HELL | `403`–`405` |
-| `037-the-chronology-of-the-inferno.md` | THE CHRONOLOGY OF THE “INFERNO” | `406`–`408` |
-| `038-plan-of-concentric-spheres.md` | Plate | `409` |
-| `039-section-of-the-universe.md` | Plate | `410` |
-| `040-editorial-note.md` | EDITORIAL NOTE | `411` |
-| `041-index-to-maps-plates-and-tables.md` | INDEX TO MAPS, PLATES AND TABLES | `412` |
+| `002-canto-01.md` … `035-canto-34.md` | CANTO I … CANTO XXXIV (file number = canto + 1), each with its notes and the maps, plates, or tables printed after it | `014`–`404`, see INDEX.md |
+| `036-note-on-dantes-hell.md` | NOTE ON DANTE’S HELL | `405`–`407` |
+| `037-the-chronology-of-the-inferno.md` | THE CHRONOLOGY OF THE “INFERNO” | `408`–`410` |
+| `038-plan-of-concentric-spheres.md` | Plate | `411` |
+| `039-section-of-the-universe.md` | Plate | `412` |
+| `040-editorial-note.md` | EDITORIAL NOTE | `413` |
+| `041-index-to-maps-plates-and-tables.md` | INDEX TO MAPS, PLATES AND TABLES | `414` |
 
-Excluded: `001`–`006`, `009`, `012`, `413`–`416`.
+Excluded: `001`–`006`, `009`, `012`, `415`–`418`.
 
 ### Layout
 
@@ -130,21 +130,20 @@ Excluded: `001`–`006`, `009`, `012`, `413`–`416`.
 - **Marginal labels** are the editor's sidenotes, not part of the text: on the Italian pages the place in Hell (`Proemio`, `Vestibolo`, `Cerchio VIII. Bolgia 3`, repeated at the top of each page) and occasional scenes (`Selva oscura`, `Il Colle`); on the English pages the subject or speaker (`Dante and Virgil`, `The Leopard`, `Charon`). They are kept out of the text as machine-readable comments at the end of the verse line or English paragraph they stand beside (`… giunto, 13 <!-- label: Il Colle -->`), one comment per label, including the repetitions at the top of each page. Their rendering can be changed later by processing these comments.
 - **Notes** are keyed to verse numbers (`73-75. …`) and begin right after the canto's last verse, running across the bottoms of the remaining pages and over whole pages. The book prints no heading for them (`NOTES` is only the running head of the pages of notes); `## Notes` is added at their start, after the text band of the spread where they begin. They stay plain paragraphs, no footnote syntax. A paragraph running over a page is joined on the earlier page.
 - **Maps, plates, tables** are kept where they are printed, with their transcribed text line by line. The *Section of Malebolge* diagram on p. 272 (`284`) has no text.
-- **Missing leaf**: `<!-- pp. 385–386 missing from the scan -->` between `396` (p. 384, Italian vv. 19–51 of Canto XXXIV) and `397` (p. 387, English vv. 52–84).
 
 ### Conversion notes for `ocr/en-oelsner/`
 
-- Images: [`crop_en_oelsner_images.py`](scripts/crop_en_oelsner_images.py) cuts the seven figures (the maps `025`, `191`; the diagrams `037`, `133`, `284`; the plates `409`, `410`) from the scans by fixed boxes into `texts/en-oelsner/images/NNN.jpg`, without their captions; `convert_en_oelsner.py` links each at the top of its page (`IMAGES`), or after the note that introduces it (`IMAGE_AFTER_NOTE`, `284`). Run the crop again only if the scans change.
+- Images: [`crop_en_oelsner_images.py`](scripts/crop_en_oelsner_images.py) cuts the seven figures (the maps `025`, `191`; the diagrams `037`, `133`, `284`; the plates `411`, `412`) from the scans by fixed boxes into `texts/en-oelsner/images/NNN.jpg`, without their captions; `convert_en_oelsner.py` links each at the top of its page (`IMAGES`), or after the note that introduces it (`IMAGE_AFTER_NOTE`, `284`). Run the crop again only if the scans change.
 - Script: [`convert_en_oelsner.py`](scripts/convert_en_oelsner.py) (`uv run texts/scripts/convert_en_oelsner.py`). It is separate from `convert_en.py`: the two books share little beyond hyphen handling and title case.
 - Lines are broken as printed, with line-end hyphenation (`de-` / `serted`, `014`); the script joins them, deciding with a word list from `ocr/en-oelsner` and `ocr/en` (the same translation), from which the fragments of hyphenated words are excluded, and lists the undecided cases. The cases decided by hand against the images and `ocr/en` are in `HYPHEN_FIXED` (`re-erected`, `father-in-law`, `praiseworthy`, …); an undecided case that looks like no word (`ap-` / `have`) is a misreading to correct in `ocr/`.
-- Running heads and page numbers are transcribed (`CANTO I` on `015`, `8` / `INFERNO` on two lines on `020`, page number `2` at the end of `014`), and so are the printer's signature marks at the foot of some pages (`B` on `029`, `2 C` on `411`); the script removes them. Some heads are misread (`CANTO I II` on `023`, `206 INFERNO` for 266 on `278`, `V. NOTES` on `284`), so they are recognized by position (first lines and last line of the page), not by an exact pattern.
+- Running heads and page numbers are transcribed (`CANTO I` on `015`, `8` / `INFERNO` on two lines on `020`, page number `2` at the end of `014`), and so are the printer's signature marks at the foot of some pages (`B` on `029`, `2 C` on `413`); the script removes them. Some heads are misread (`CANTO I II` on `023`, `206 INFERNO` for 266 on `278`, `V. NOTES` on `284`), so they are recognized by position (first lines and last line of the page), not by an exact pattern.
 - `ocr/` is normalized so that the script can tell the layers apart (all against the images; delegated, then checked):
   - Marginal labels: written once, whole, as `**Label**` at the start of the line where the label begins. In the transcription they had run into the line ends on the English pages (`I [came Dante` / `to] myself` on `015`), stood unmarked at the line start or on lines of their own on most Italian pages (`Cerchio` / `VIII.` / `Bolgia 3`), or were set bold only in places.
   - Other bold (drop capitals, first words, running heads) is removed.
   - English paragraph breaks (Argument, tercets, notes) are blank lines; they were missing on most pages, which made the tercets impossible to tell apart.
   - Transcriber's notes that are not printed (`Line numbers on the right:`, `*Side notes*:` with a list of the labels, `*Map 1: …*`, `*Caption below maps:*`, marker asterisks in the genealogical tables) are deleted; `[Blank page]` stays, as the pages it marks are not converted.
 - Checks: the words of each normalized page are compared with the previous version (only `**`, label moves, and blank lines may differ); the Italian lines are compared with dante-corpus (labels left in the line or misread lines show up as mismatches); the English is compared with `texts/en` (Carlyle's own edition of the same translation), where every difference must be an Oelsner revision (`[came to]`) or a variant, not a stray label; the number of English paragraphs on each page is compared with the number of tercets that begin on the facing Italian page (one fewer on a canto's last page). The script reports as errors a canto whose verse count is wrong, a numbered note among the English tercets, and a note running over from an Italian page whose continuation is not found on the English page; on a canto's last page a missing paragraph break otherwise lets the next note fill the last tercet's place unnoticed. It lists note paragraphs that start after an unfinished sentence and English pages whose notes start without a verse number (normally a continued note). The first note paragraph of a page after a finished sentence is a new paragraph unless the page is in `NOTE_CONTINUED` (flush left in the image, `189`, `356`); the pages checked as new paragraphs are in `NOTE_NEW`.
-- Unlike `ocr/en`, italics are transcribed, mostly as `*…*` and on some pages as `_…_`. They are kept as they are, except on `411`, which is printed in italics with the names in roman; the transcription marked a few sentences at random, so the marks were removed there.
+- Unlike `ocr/en`, italics are transcribed, mostly as `*…*` and on some pages as `_…_`. They are kept as they are, except on `413`, which is printed in italics with the names in roman; the transcription marked a few sentences at random, so the marks were removed there.
 
 ## `texts/la/` — Serravalle's translation and commentary (`ocr/la/`, 1891)
 

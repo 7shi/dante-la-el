@@ -23,15 +23,11 @@ CANTO_PAGES = [(14, 25), (26, 37), (38, 47), (48, 59), (60, 71), (72, 81), (82, 
                (170, 179), (180, 191), (192, 201), (202, 213), (214, 225), (226, 237),
                (238, 249), (250, 261), (262, 273), (274, 285), (286, 297), (298, 309),
                (310, 321), (322, 333), (334, 345), (346, 357), (358, 369), (370, 381),
-               (382, 393), (394, 402)]
+               (382, 393), (394, 404)]
 
 # Full-page maps, plates and tables printed after a canto's notes.
 PLATES = {25, 37, 133, 191, 249, 321, 345}
 
-# The leaf with pp. 385-386 is missing between these scans: p. 385 (English of
-# vv. 19-51 of Canto XXXIV) and p. 386 (Italian of vv. 52-84).
-MISSING_AFTER = 396
-MISSING_VERSES = range(52, 85)
 
 # The figures cut from the scans by crop_en_oelsner_images.py (texts/en-oelsner/images),
 # shown where they are printed: at the top of their page, or after the note that
@@ -43,8 +39,8 @@ IMAGES = {
     133: "The hours at which the signs of the Zodiac rise",
     191: "Map: the rivers of Romagna and the mouth of the Po",
     284: "Diagram for Canto XXIV 34-40 (after Scartazzini)",
-    409: "Plan of concentric spheres",
-    410: "Section of the Universe",
+    411: "Plan of concentric spheres",
+    412: "Section of the Universe",
 }
 IMAGE_AFTER_NOTE = {284: "will make these verses clear:"}
 
@@ -54,12 +50,12 @@ def image(n):
 
 FRONT = ("title-page", [7, 8, 10, 11, 13])
 BACK = [
-    ("note-on-dantes-hell", [403, 404, 405]),
-    ("the-chronology-of-the-inferno", [406, 407, 408]),
-    ("plan-of-concentric-spheres", [409]),
-    ("section-of-the-universe", [410]),
-    ("editorial-note", [411]),
-    ("index-to-maps-plates-and-tables", [412]),
+    ("note-on-dantes-hell", [405, 406, 407]),
+    ("the-chronology-of-the-inferno", [408, 409, 410]),
+    ("plan-of-concentric-spheres", [411]),
+    ("section-of-the-universe", [412]),
+    ("editorial-note", [413]),
+    ("index-to-maps-plates-and-tables", [414]),
 ]
 
 ROMAN = [(1000, "m"), (900, "cm"), (500, "d"), (400, "cd"), (100, "c"), (90, "xc"),
@@ -84,7 +80,7 @@ def page_no(n):
         return "[1]"  # the epigraph
     if n < 13:
         return None
-    return str(n - 12 if n <= MISSING_AFTER else n - 10)
+    return str(n - 12)
 
 
 def marker(n, band=""):
@@ -128,7 +124,7 @@ def read_page(n):
     if lines and re.fullmatch(r"[\dIlO]+|(\d+ ?)?[A-Z]( \d+)?", lines[-1].strip()):
         lines.pop()
     # tercet numbers transcribed as a column of their own (`016`, `046`)
-    if n not in PLATES and 14 <= n <= 402:
+    if n not in PLATES and 14 <= n <= 404:
         lines = [l for l in lines if not re.fullmatch(r"\s*\d+\s*", l)]
     return lines
 
@@ -273,8 +269,6 @@ class Canto:
                 rest = lines[k:]
                 break
             self.verse += 1
-            if self.c == 34 and self.verse in MISSING_VERSES:
-                self.errors.append(f"{n:03d}: verse {self.verse} expected on the missing leaf")
             verse_lines.append((self.verse, verse_text(l)))
         return start, self.verse, rest
 
@@ -317,7 +311,7 @@ def convert_canto(c, first, last, errors):
             n += 1
             continue
         it_lines = read_page(n)
-        en_n = n + 1 if n != MISSING_AFTER else None
+        en_n = n + 1
         en_lines = read_page(en_n) if en_n and en_n <= last and en_n not in PLATES else None
         arg = None
         if n == first:
@@ -332,18 +326,6 @@ def convert_canto(c, first, last, errors):
             n += 1
             continue
         verse_lines = []
-        if n == MISSING_AFTER + 1:
-            # an English page whose Italian page is missing
-            v1, v2 = MISSING_VERSES[0], MISSING_VERSES[-1]
-            canto.verse = v2
-            eng, rest = split_english(it_lines, tercets(v1, v2))
-            parts.append(f"<!-- pp. 385–386 missing from the scan -->")
-            parts.append(marker(n))
-            parts.extend(join_prose(p, f"{n:03d}") for p in eng)
-            if rest:
-                errors.append(f"{n:03d}: text after the English tercets")
-            n += 1
-            continue
         v1, v2, it_rest = canto.italian(n, it_lines, verse_lines)
         if arg:
             parts.append(marker(n))
@@ -372,8 +354,7 @@ def convert_canto(c, first, last, errors):
                     errors.append(f"{en_n:03d}: note in the English tercets: {p[0][:40]}")
         else:
             en_rest = []
-            if n != MISSING_AFTER:
-                errors.append(f"{n:03d}: no facing English page")
+            errors.append(f"{n:03d}: no facing English page")
         if en_rest and not NOTE_START.match(en_rest[0][0]):
             NOTE_START_CHECK.append(f"{en_n:03d}: {en_rest[0][0][:50]}")
         it_notes = paragraphs(it_rest)
@@ -383,11 +364,8 @@ def convert_canto(c, first, last, errors):
             # a missing paragraph break has pulled them into the English tercets
             errors.append(f"{en_n:03d}: the note continued from {n:03d} is missing")
         if paragraphs(it_rest) or en_rest:
-            if n == MISSING_AFTER:
-                errors.append(f"{n:03d}: notes before the missing leaf")
             canto_notes(canto, n, paragraphs(it_rest), band="notes")
-            if en_n:
-                canto_notes(canto, en_n, en_rest, band="notes")
+            canto_notes(canto, en_n, en_rest, band="notes")
         n += 2 if en_lines is not None else 1
     if canto.verse != canto.total:
         errors.append(f"canto {c}: {canto.verse} verses, expected {canto.total}")
@@ -469,11 +447,11 @@ def title_case(s):
 
 
 # Physical-copy and printer's marks transcribed on pages with printed text.
-DROP_LINES = {13: ["774552"], 411: ["2 C"]}
+DROP_LINES = {13: ["774552"], 413: ["2 C"]}
 # Pages printed as tables or plates: kept line by line.
-TABLES = {405}
+TABLES = {407}
 # Footnotes without a printed number: page -> (marker in the text, note text start).
-FOOTNOTES = {403: ("translation.¹", "Essays on Dante,")}
+FOOTNOTES = {405: ("translation.¹", "Essays on Dante,")}
 
 
 def page_lines(n):

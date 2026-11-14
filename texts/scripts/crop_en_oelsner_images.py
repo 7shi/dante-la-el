@@ -22,8 +22,8 @@ BOXES = {
     133: (5, 200, 705, 880),   # the hours at which the signs of the Zodiac rise
     191: (20, 240, 690, 890),  # the rivers of Romagna
     284: (140, 440, 745, 860), # Scartazzini's diagram (note on XXIV 34-40)
-    409: (10, 335, 640, 815),  # plan of concentric spheres
-    410: (155, 25, 787, 1140), # section of the Universe
+    411: (10, 335, 640, 815),  # plan of concentric spheres
+    412: (155, 25, 787, 1140), # section of the Universe
 }
 
 
