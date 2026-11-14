@@ -1,0 +1,17 @@
+block_num	par_num	line_num	left	top	width	height	text
+1	1	1	367	727	63	22	First
+1	1	1	446	727	105	24	Edition,
+1	1	1	569	728	127	22	November
+1	1	1	712	733	50	21	1901
+1	1	2	383	768	87	22	Second
+1	1	2	483	768	107	25	Edition,
+1	1	2	603	768	72	27	April
+1	1	2	688	773	53	21	1902
+1	1	3	362	809	73	22	Third
+1	1	3	449	809	107	24	Edition,
+1	1	3	572	810	129	26	September
+1	1	3	717	814	52	22	1903
+1	1	4	355	850	87	22	Fourth
+1	1	4	459	850	108	26	Edition,
+1	1	4	580	850	126	22	November
+1	1	4	722	855	53	21	1904
