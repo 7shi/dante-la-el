@@ -8,7 +8,7 @@ middle of a sentence, while the Italian is cut at a whole line; at a page
 break the two can be a clause or a few lines apart. The blocks are cut where
 the English and the Italian part together, one cut near every page break
 (or none, where a block of a line or two is joined to the one before it),
-and kept in editions/carlyle-blocks.txt (read by source.carlyle_blocks):
+and kept in editions/en-blocks.txt (read by source.carlyle_blocks):
 
     canto:line<TAB>English before|English after
 
@@ -20,7 +20,7 @@ the words around it must occur only once in the English of the canto.
   Italian added to or taken from the page agree best in length (about ten
   words a line); the cuts where they do not agree are marked `# ?`. Length
   is a poor guide (a fifth of the cuts it chose were wrong), so every cut of
-  editions/carlyle-blocks.txt was then checked against the text by hand:
+  editions/en-blocks.txt was then checked against the text by hand:
   the draft is not to be written over it
 - check: read the file (checking that every cut is found once and in
   order), and list the blocks whose English and Italian disagree in length

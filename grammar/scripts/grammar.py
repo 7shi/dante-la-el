@@ -23,7 +23,7 @@ wrong, it says so in a paragraph opening with `Translation note:`. With
 --notes, these are listed from the saved commentaries without calling the
 model.
 
-A source printed with a prose translation of its own (carlyle: the Italian
+A source printed with a prose translation of its own (en: the Italian
 of Carlyle's Inferno and his English) is compared with that translation
 instead, block by block (source.carlyle_blocks: lines of the Italian and the
 part of the English that renders exactly them). Each block is one call
@@ -66,7 +66,7 @@ from source import SOURCES, Line, Passage, carlyle_blocks, source_lines
 
 # The blocks of a source printed with a prose translation: lines of the
 # source and the part of the translation that renders exactly them
-BLOCKS = {"carlyle": carlyle_blocks}
+BLOCKS = {"en": carlyle_blocks}
 
 # Per language of the source text: what the commentary should look at, on
 # top of what every language has (forms, constructions, particles)

@@ -5,7 +5,7 @@ The original text of a canto, line by line, from one of the sources:
 - grc: Musurus's Greek verse translation of the Inferno (1882), read from
   texts/grc/ of this repository; it is line for line, so Greek line n
   renders Italian line n and every canto has the line count of the Italian
-- carlyle: the Italian text printed in Carlyle's Inferno (1889), read from
+- en: the Italian text printed in Carlyle's Inferno (1889), read from
   texts/en/ of this repository; its lines are those of dante-corpus (with
   the readings and the spelling of that edition), and it comes with
   Carlyle's own English prose translation, so it is only explained
@@ -22,7 +22,7 @@ renders them):
   page ends, often in mid-sentence, so at a page break it may run a clause
   or a few lines ahead of the verse or behind it
 - carlyle_blocks: texts/en in blocks whose English renders exactly their
-  verse, cut near every page break as editions/carlyle-blocks.txt gives
+  verse, cut near every page break as editions/en-blocks.txt gives
   (checked by hand; see scripts/align_carlyle.py)
 - oelsner_passages: texts/en-oelsner (the Temple Classics edition, 1903,
   with Oelsner's Italian text and his revision of Carlyle's translation),
@@ -40,7 +40,7 @@ GRC_DIR = TEXTS_DIR / "grc"
 CARLYLE_DIR = TEXTS_DIR / "en"
 OELSNER_DIR = TEXTS_DIR / "en-oelsner"
 # The cuts of Carlyle's pages into blocks (see editions/scripts/align_carlyle.py)
-BLOCKS_PATH = Path(__file__).resolve().parents[2] / "editions" / "carlyle-blocks.txt"
+BLOCKS_PATH = Path(__file__).resolve().parents[2] / "editions" / "en-blocks.txt"
 
 # Per source:
 # - name: the name of the source text, as written into the prompts
@@ -60,7 +60,7 @@ SOURCES = {
         "language": "Ancient Greek",
         "canticles": ["inferno"],
     },
-    "carlyle": {
+    "en": {
         "name": "Italian text (as printed in John A. Carlyle's edition, 1889)",
         "language": "Italian",
         "canticles": ["inferno"],
@@ -251,7 +251,7 @@ def cut_positions(text: str, spec: str) -> list[int]:
 
 def carlyle_blocks(canto: int, path: Path | None = None) -> list[Passage]:
     """The blocks of one canto of texts/en: lines of the Italian and the
-    English that renders them, cut as editions/carlyle-blocks.txt gives (see
+    English that renders them, cut as editions/en-blocks.txt gives (see
     scripts/align_carlyle.py)."""
     passages = carlyle_passages(canto)
     text, _ = carlyle_english(passages)
@@ -347,6 +347,6 @@ def source_lines(source: str, canticle: str, canto: int) -> list[Line]:
         raise ValueError(f"source {source} has no {canticle}")
     if source == "grc":
         return grc_lines(canto)
-    if source == "carlyle":
+    if source == "en":
         return carlyle_lines(canto)
     return [Line(line.no, line.text) for line in ref(f"{canticle} {canto}")]

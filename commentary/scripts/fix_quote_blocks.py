@@ -12,7 +12,7 @@ numbering, one verse per physical line), or from <canticle>/<NN>.txt under
 the directory given with -t (for the grammar commentaries of grammar.py,
 which are kept apart from the translations). A file whose .txt is missing is
 skipped entirely and reported once. A source printed with a prose
-translation of its own (carlyle) has no .txt: its commentaries quote the
+translation of its own (en) has no .txt: its commentaries quote the
 originals alone, `> N original` with the two-space hard break, and only
 these are rebuilt.
 

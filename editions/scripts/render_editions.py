@@ -113,7 +113,7 @@ def agree(tc, td, segments, oelsner: str | None) -> str:
 
 def it_row(spec: str) -> str:
     canto, no = map(int, spec.split(":"))
-    c = source_lines("carlyle", "inferno", canto)[no - 1].text
+    c = source_lines("en", "inferno", canto)[no - 1].text
     d = source_lines("it", "inferno", canto)[no - 1].text
     o = {line.no: line.text for line in oelsner_lines(canto)}.get(no)
     tc, td = it_tokens(c), it_tokens(d)
@@ -206,7 +206,7 @@ def render_en(judgments, categories: str, italian_column: bool, out):
         cells = [f"{roman(first.canto)} {first.page.start}–{first.page.end}", c, o,
                  "yes" if all(marked) else "no" if not any(marked) else "partly"]
         if italian_column:
-            c_lines = {line.no: line.text for line in source_lines("carlyle", "inferno", first.canto)}
+            c_lines = {line.no: line.text for line in source_lines("en", "inferno", first.canto)}
             o_lines = {line.no: line.text for line in oelsner_lines(first.canto)}
             nos = sorted({italian[n] for n in group if n in italian})
             cells.append("<br>".join(f"{no}: {c_lines[no]} / {o_lines[no]}" for no in nos))

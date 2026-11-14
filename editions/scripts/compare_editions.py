@@ -103,7 +103,7 @@ def compare_it(out):
     forms = Counter()
     others = []
     for canto in CANTOS:
-        carlyle = source_lines("carlyle", "inferno", canto)
+        carlyle = source_lines("en", "inferno", canto)
         corpus = source_lines("it", "inferno", canto)
         oelsner = {line.no: line.text for line in oelsner_lines(canto)}
         for c, d in zip(carlyle, corpus):
@@ -194,7 +194,7 @@ def en_differences():
     canto, in the order of the text."""
     for canto in CANTOS:
         pages = carlyle_passages(canto)
-        gap = len(oelsner_lines(canto)) < len(source_lines("carlyle", "inferno", canto))
+        gap = len(oelsner_lines(canto)) < len(source_lines("en", "inferno", canto))
         ca: list[str] = []
         page_of: list[int] = []
         for index, page in enumerate(pages):
@@ -243,7 +243,7 @@ def compare_en(out):
             continue
         if d.canto not in lines:
             lines[d.canto] = (
-                {line.no: line.text for line in source_lines("carlyle", "inferno", d.canto)},
+                {line.no: line.text for line in source_lines("en", "inferno", d.canto)},
                 {line.no: line.text for line in oelsner_lines(d.canto)})
         c_lines, o_lines = lines[d.canto]
         a = d.ca[d.i1:d.i2]

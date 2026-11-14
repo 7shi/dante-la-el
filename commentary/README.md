@@ -75,7 +75,7 @@ uv run scripts/fix_quote_blocks.py -d DIR [-d DIR ...] [-n]
 argument | description | default
 ---|---|---
 `-d`, `--dir` | directory holding `<canticle>/<NN>.md` (repeatable) | required
-`-s`, `--source` | source text of the quoted originals: `it`, `grc`, or `carlyle` (whose quotes have no translation line, so only the originals are rebuilt) | `it`
+`-s`, `--source` | source text of the quoted originals: `it`, `grc`, or `en` (whose quotes have no translation line, so only the originals are rebuilt) | `it`
 `-t`, `--translations` | directory holding `<canticle>/<NN>.txt` | next to each `<NN>.md`
 `-n`, `--dry-run` | report the files that would change without writing them | write
 

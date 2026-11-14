@@ -1,6 +1,6 @@
 # editions
 
-Reports on the texts behind the `carlyle` source of [grammar.py](../grammar/README.md#scriptsgrammarpy): the Italian printed in John A. Carlyle's Inferno (fifth edition, 1889; [`texts/en/`](../texts/en/)), the Italian of [dante-corpus](https://github.com/7shi/dante-corpus), and Oelsner's edition of the Temple Classics (1903; [`texts/en-oelsner/`](../texts/en-oelsner/)), with its own Italian text and its revision of Carlyle's English.
+Reports on the texts behind the `en` source of [grammar.py](../grammar/README.md#scriptsgrammarpy): the Italian printed in John A. Carlyle's Inferno (fifth edition, 1889; [`texts/en/`](../texts/en/)), the Italian of [dante-corpus](https://github.com/7shi/dante-corpus), and Oelsner's edition of the Temple Classics (1903; [`texts/en-oelsner/`](../texts/en-oelsner/)), with its own Italian text and its revision of Carlyle's English.
 
 ## Reports
 
@@ -11,7 +11,7 @@ Reports on the texts behind the `carlyle` source of [grammar.py](../grammar/READ
 
 Neither lists every difference. The differences of spelling, punctuation, and the forms of words are described by their features with examples; the differences of words are listed in full.
 
-The directory also holds [carlyle-blocks.txt](carlyle-blocks.txt), the cuts of Carlyle's Inferno into blocks of Italian lines and the English that renders them, which the `carlyle` source of grammar.py is explained by: on a page of Carlyle's edition the English is cut where the page ends, often in mid-sentence, so each block is cut where the English and the Italian part together near a page break. The cuts were drafted by [`scripts/align_carlyle.py`](scripts/align_carlyle.py) and checked by hand (see [its section](#scriptsalign_carlylepy) of the README).
+The directory also holds [en-blocks.txt](en-blocks.txt), the cuts of Carlyle's Inferno into blocks of Italian lines and the English that renders them, which the `en` source of grammar.py is explained by: on a page of Carlyle's edition the English is cut where the page ends, often in mid-sentence, so each block is cut where the English and the Italian part together near a page break. The cuts were drafted by [`scripts/align_carlyle.py`](scripts/align_carlyle.py) and checked by hand (see [its section](#scriptsalign_carlylepy) of the README).
 
 ## How they are made
 
@@ -69,7 +69,7 @@ uv run scripts/align_carlyle.py draft [-o OUT]
 uv run scripts/align_carlyle.py check [FILE]
 ```
 
-Cuts Carlyle's Inferno into blocks of Italian lines and the English that renders them. On a page of his edition the English is cut where the page ends, often in mid-sentence, while the Italian is cut at a whole line, so at a page break the two may be a clause or a few lines apart. `carlyle-blocks.txt` gives for each block but the last of a canto the Italian line it ends with and the place where its English ends, as words around a `|` that occur only once in the English of the canto:
+Cuts Carlyle's Inferno into blocks of Italian lines and the English that renders them. On a page of his edition the English is cut where the page ends, often in mid-sentence, while the Italian is cut at a whole line, so at a page break the two may be a clause or a few lines apart. `en-blocks.txt` gives for each block but the last of a canto the Italian line it ends with and the place where its English ends, as words around a `|` that occur only once in the English of the canto:
 
 ```
 1:21	passed so piteously.|And as he,
