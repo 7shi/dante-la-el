@@ -14,6 +14,8 @@ By the closing note of the series editor (I. G., Israel Gollancz, October 1901):
   *Inferno*);
 - the arguments are by Philip H. Wicksteed.
 
+See [PLAN.md](PLAN.md) for the plan of the transcription and the check.
+
 ## Source
 
 * [The Purgatorio of Dante Alighieri : Internet Archive](https://archive.org/details/purgatorioofdant00dant_0)

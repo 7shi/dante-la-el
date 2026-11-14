@@ -15,6 +15,9 @@ By its Editorial Note (signed P. H. W. and H. O.):
 - the English prose translation and the arguments are by Philip H. Wicksteed;
 - the notes are by both.
 
+It is to follow the plan of [../en-purgatorio/PLAN.md](../en-purgatorio/PLAN.md), with
+the tools made there.
+
 ## Source
 
 * [The Paradiso of Dante Alighieri : Internet Archive](https://archive.org/details/paradisoofdante00dant)
