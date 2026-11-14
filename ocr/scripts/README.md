@@ -30,6 +30,19 @@ misreading is corrected.
 | `cmpread.py DIR RETYPE [-t TESS] [-o OUT] [PAGE...]` | The comparison before the read-through ([ocr/PLAN.md](../PLAN.md), step 2): `DIR/PAGE.txt` (the printed side of the marks), a retype `RETYPE/PAGE.txt` and Tesseract's words aligned word by word (quotes, dashes, spacing and note markers normalized); every place the base differs from the retype, classed A (Tesseract agrees with the retype), B (the retype alone), C (a run one lacks) |
 | `misprints.py DIR [--fix-lines]` | Checks the misprint marks `{{printed\|fixed}}` of `DIR`'s pages against `DIR/misprints.tsv` (every applied row one mark, every mark a row); with `--fix-lines` writes the new line of a mark that has moved |
 
+## Choosing the scan
+
+Before a new source is added, its scans on Internet Archive are compared
+([../GUIDE.md](../GUIDE.md), "Choosing the scan"), run from the repository root:
+
+| Script | Description |
+|---|---|
+| `iascan.py fetch -d DIR ID...` | Downloads the OCR files that Internet Archive provides (`_djvu.txt`, `_djvu.xml`, `_page_numbers.json`) into `DIR/ID/` |
+| `iascan.py image -d DIR ID LEAF...` | Downloads leaf images (`ID-nLEAF.jpg`), to compare the same page across scans |
+| `iascan.py leaves ID_djvu.xml` | The printed page number of each leaf minus the leaf number: the runs of a constant offset, the leaves off it, and repeated leaves |
+| `iascan.py heads ID_djvu.xml FIRST LAST` | The first and last line of some leaves, to look at a place `leaves` marked |
+| `iascan.py diff A_djvu.txt B_djvu.txt [--min 5]` | A word diff of two printings, only the blocks of MIN words or more: the revisions above the OCR noise |
+
 ## PDF preparation
 
 For adding a new source, in this order:

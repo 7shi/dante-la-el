@@ -19,6 +19,30 @@ is [PLAN.md](PLAN.md).
 
 ## Steps
 
+### Before 0. Choosing the scan
+
+In `en-oelsner` a missing leaf and an edition that had rewritten two pages of plates
+were found only at the end; both are cheap to find before any work. Of every scan of
+the book (Internet Archive lists several copies and printings), fetch the OCR the
+library already provides (`_djvu.xml`, with its pages, and `_djvu.txt`) and check
+([scripts/iascan.py](scripts/iascan.py)):
+
+- **The edition**: the list of editions or reprints on the title verso. The year in the
+  catalogue record may be wrong (a copy dated 1899 was the reprint of 1910).
+- **Missing and repeated leaves**: the printed page number of each leaf (from the head
+  or foot) minus the leaf index should stay constant; a change marks a missing,
+  repeated or inserted leaf. Leaves whose text repeats another's are repeated scans.
+- **Revisions between printings**: a word diff of two printings' OCR, keeping only the
+  blocks of five words or more, leaves the rewritten passages above the OCR noise. A
+  reprint not called a new edition can still be revised; plates and the index to them
+  are worth comparing too.
+- **The image**: the same printed page from each candidate side by side, one text page
+  and one figure: show-through, contrast, margins cut, pages binarized.
+
+Choose the latest complete printing with the cleanest images, and record the reasons,
+the candidates and the offset in the directory's README. If the best scan still lacks a
+leaf, the leaf is supplied from another copy of the same printing.
+
 ### 0. Setup: decided once, not changed later
 
 - The transcription's conventions: line-end hyphens, running heads, marginal labels,
