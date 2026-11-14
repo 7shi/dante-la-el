@@ -26,12 +26,18 @@ scan of the same edition (README.md, "Layout") and added as `397`–`398`; the f
 from the images and compared with Carlyle's own edition and dante-corpus, outside the
 steps above (no retype, Tesseract or GLM-OCR).
 
+**The plates pp. 399–400 from the Fifth Edition** (2026-11-15): `411`–`412` were replaced
+by the pages of the Fifth Edition (1904), which rewrote them (README.md, "Layout"), and
+transcribed by Claude from the images; their Tesseract and GLM-OCR readings were made
+again (by the user) and compared (DONE.md). The figures of `texts/en-oelsner/images` are cut from the Fifth
+Edition (`fifth/`, and `411`–`412`).
+
 ## The text
 
 - **Pages**: 418 scans; 406 of them are in `texts/en-oelsner`, and only these are checked.
   The excluded scans are `001`–`006`, `009`, `012` and `415`–`418`: covers, library leaves
   and blank leaves (texts/PLAN.md, "Files"). The leaf with pp. 385–386 (`397`–`398`) was
-  added after the check ("State").
+  added after the check ("State"), and `411`–`412` replaced by the Fifth Edition's pages.
 - **Kinds of page**:
   - The front matter (`007`, `008`, `010`, `011`, `013`): a few lines each.
   - The cantos `014`–`404`, on facing pages:

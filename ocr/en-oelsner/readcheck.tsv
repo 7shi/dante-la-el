@@ -663,6 +663,8 @@ page	line	form	decision	note
 407	3	Trimmers — 0 — 1	misread	cmp B; the table kept in the base's form (rows, indents, dashes), its readings made as printed: the second column (`1`–`7`) of the first seven rows left out; `brutishness`, `malice` lowercase; the ditto marks `,,` (the base `against`); `fraud` after `simple` and `treacherous` not printed
 408	35	{{calendar|calendar.}}	misprint	cmp A; marked; the base had `calendar.`
 410	45	P. H. {{W|W.}}	misprint	cmp B; marked; the base had `W.`
-411	1	Plan of concentric spheres	misread	the caption joined into one line; set with the printed lines
+411	1	**Fig. I. (on this page).**	printed	cmp D (lines 2-3); the Fifth Edition's page, transcribed by Claude; the marginal labels `Fig. I. (on this page).` and `Fig. II. (over page).` placed beside their lines by Tesseract and GLM-OCR, set at the start of their paragraphs; nothing to do
+411	8	{{mag itudes|magnitudes}}	misprint	cmp —; marked; the `n` not printed (GLM-OCR `magitudes`); the planet signs, which GLM-OCR misreads (`♊`, `♏`), checked in the image
+411	19	**Fig. II. (over page).**	printed	cmp D (lines 19-20); the label as on line 1; nothing to do
 413	3	version:	misread	cmp A; was `version;`; the page joined into one line per paragraph; rewritten with the printed lines; the heading line kept as the base had it (the converter takes it as the title), the page number `401` not added
 414	4	PAGE	misread	cmp B, C; the column heading left out; the leader dots counted as printed (the base had more)

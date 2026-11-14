@@ -90,8 +90,8 @@ The relationship between file numbers (`NNN.txt`) and printed book page numbers 
 |---|---|---|---|---|---|
 | **Note on Dante's Hell** | P. H. W. (Philip H. Wicksteed) | pp. 393–395 | [`405.txt`](405.txt)–[`407.txt`](407.txt) | Essay on the ethical and numerical systems of the *Inferno* (Aristotelian & Ciceronian basis; 3, 7, 9, 10 scheme), concluding with a full classification table on p. 395 ([`407.txt`](407.txt)). | +12 |
 | **The Chronology of the "Inferno"** | P. H. W. (Philip H. Wicksteed) | pp. 396–398 | [`408.txt`](408.txt)–[`410.txt`](410.txt) | Detailed chronological analysis of the journey through Hell, calculating days and hours from Good Friday evening through Easter Sunday morning and beyond. | +12 |
-| **Cosmological Plate 1** | Plan of Concentric Spheres | p. 399 | [`411.txt`](411.txt) | Diagram illustrating Earth enclosed in the sphere of the Moon and the sphere bearing the epicycle of Mercury. | +12 |
-| **Cosmological Plate 2** | Section of the Universe | p. 400 | [`412.txt`](412.txt) | Diagram of Earth, the nine revolving celestial spheres, epicycles of Mercury and Venus, and the Empyrean. | +12 |
+| **Cosmological Plate 1** | Plan of Concentric Spheres (Fig. I) | p. 399 | [`411.txt`](411.txt) | From the Fifth Edition (README.md, "Layout"): Earth enclosed in the sphere of the Moon, and these in the sphere of Mercury, each bearing its epicycle; below it the explanation of Fig. I (scale after Alfraganus) and the first part of that of Fig. II. | +12 |
+| **Cosmological Plate 2** | Section of the eight revolving heavens (Fig. II) | p. 400 | [`412.txt`](412.txt) | From the Fifth Edition: the end of the explanation of Fig. II above a section of the heavens of the Moon, Mercury, Venus, the Sun, Mars, Jupiter, Saturn and the fixed stars, with their epicycles. | +12 |
 | **General Editorial Note** | H. Oelsner & I. Gollancz | p. 401 | [`413.txt`](413.txt) | Editorial note explaining the edition's sources (Witte, Moore, Casini for Italian; Carlyle's 1849/1867 translation edited by Oelsner; new notes by Oelsner; dated Nov. 16, 1900). | +12 |
 | **Index to Maps, Plates and Tables** | Publisher / Colophon | p. 402 | [`414.txt`](414.txt) | The printed volume index of maps and charts, concluding with the printer's mark: *Turnbull and Spears, Printers, Edinburgh*. | +12 |
 
@@ -111,8 +111,8 @@ Transcribed directly from printed page 402 ([`414.txt`](414.txt)), cross-referen
 | 6 | SECTION OF MALEBOLGE | p. 272 | [`284.txt`](284.txt) | Embedded diagram on p. 272 within Canto XXIV Notes (illustrating verses 34, 35, 40 from Scartazzini). |
 | 7 | THE MALATESTA FAMILY | p. 309 | [`321.txt`](321.txt) | Following Canto XXVII Notes; genealogical table of the lords of Rimini (*Inf.* v, xxvii, xxviii). |
 | 8 | THE DELLA SCALA FAMILY | p. 333 | [`345.txt`](345.txt) | Following Canto XXIX Notes; genealogical table of the Scaliger dynasty of Verona (*Inf.* i; *Purg.* xviii; *Par.* xvii). |
-| 9 | PLAN OF CONCENTRIC SPHERES, SHOWING EARTH ENCLOSED IN THE SPHERE OF THE MOON, AND THAT AGAIN ENCLOSED IN THE SPHERE BEARING THE EPICYCLE OF MERCURY | p. 399 | [`411.txt`](411.txt) | Following the Chronology; Ptolemaic cosmological diagram of terrestrial and planetary spheres. |
-| 10 | SECTION OF THE UNIVERSE, INDICATING EARTH, THE NINE REVOLVING SPHERES AND THE EMPYREAN | p. 400 | [`412.txt`](412.txt) | Following Plate 1; cross-section of medieval cosmology from the central Earth to the Empyrean. |
+| 9 | PLAN OF CONCENTRIC SPHERES, SHOWING EARTH ENCLOSED IN THE SPHERE OF THE MOON, AND THAT AGAIN ENCLOSED IN THE SPHERE BEARING THE EPICYCLE OF MERCURY | p. 399 | [`411.txt`](411.txt) | Following the Chronology; Ptolemaic cosmological diagram of terrestrial and planetary spheres. The title is that of the Fourth Edition's plate; the page itself is the Fifth Edition's (README.md, "Layout"). |
+| 10 | SECTION OF THE UNIVERSE, INDICATING EARTH, THE NINE REVOLVING SPHERES AND THE EMPYREAN | p. 400 | [`412.txt`](412.txt) | Following Plate 1; the Fourth Edition's title, kept in the Fifth Edition's index, though its plate is now a section of the eight revolving heavens (Fig. II). |
 
 ---
 

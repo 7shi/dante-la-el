@@ -22,6 +22,9 @@ Each `.png` has its transcription in the `.txt` with the same name
 * [The Inferno of Dante Alighieri : Dante Alighieri, 1265-1321; Oelsner, Hermann, 1871- ed; Carlyle, John Aitken, 1801-1879, tr : Internet Archive](https://archive.org/details/infernoofdanteal00dantrich)
 * [The Inferno of Dante Alighieri (another copy of the same edition) : Internet Archive](https://archive.org/details/infernoofdanteal00dant)
   (only the leaf missing from the first scan, [397.png](397.png) and [398.png](398.png))
+* [The Inferno of Dante Alighieri (Fifth Edition, 1904) : Internet Archive](https://archive.org/details/inferno00dant_3)
+  (only the two pages of plates, [411.png](411.png) and [412.png](412.png), and the pages
+  of the other figures, [fifth/](fifth/))
 
 The Carlyle text in [../../Inferno/](../../Inferno/) (e.g. `compare-en.md`) is
 taken from this edition.
@@ -44,6 +47,19 @@ the second scan (its pages 393–394), whose pages 384 and 387 match the first
 scan line for line. They were transcribed by Claude Opus 5.5 from the images
 and compared with Carlyle's own edition ([../../texts/en/](../../texts/en/))
 and dante-corpus.
+
+The two pages of plates, printed pages 399–400 ([411.png](411.png) and
+[412.png](412.png)), are taken from the third scan, the Fifth Edition (November
+1904), which rewrote them: Fig. I (the plan of concentric spheres) and Fig. II
+(a section of the eight revolving heavens, replacing the section of the
+universe) with a long explanation that runs from the foot of page 399 onto page
+400. The pages before and after them (398, 401) and the index of page 402 list
+the same contents in both editions, so the rest stays the Fourth Edition
+(1903). The two pages were transcribed by Claude Opus 5.5 from the images. The
+Fifth Edition also prints the other figures without show-through: the pages
+with them (`025`, `037`, `133`, `191`, `284`) are in [fifth/](fifth/), the same
+file numbers, for the images of `texts/en-oelsner` only. All the Fifth Edition
+pages were rendered from its PDF at 400 dpi.
 
 ## Credits
 

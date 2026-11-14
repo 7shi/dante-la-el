@@ -23,7 +23,7 @@ an Oelsner variant could remain.
 | 0. Setup | the tables, `convert_en_oelsner.py` taught the misprint marks, Tesseract's word boxes (`-l eng+ita`), GLM-OCR over all pages (run by the user), `cmpread.py` with `--verse-numbers` and `-g` (GLM-OCR as a fourth reading, class D where both OCRs agree against base and retype), a retype template | the baseline of `convert_en_oelsner.py` kept |
 | 1–2. Retype and compare | every page retyped from the image alone by Claude (Opus 5.5), in three strips at twice the size: a trial of 6 pages, then 16 batches of 25; `cmpread.py` aligns the base, the retype, Tesseract and GLM-OCR word by word; every difference read in the image; the maps and tables read name by name | 401 misread, 28 misprints, 120 printed |
 | 3. Read-through | the whole of `texts/en-oelsner` read for sense by Claude (Opus 5.5): a trial of 20 pages, then 15 batches of 25 scans (the last of 34, the end matter included); a search for notes run together closed it | 34 misread, 36 misprints, 47 printed |
-| 5. Map images | the seven maps, diagrams and plates cut from the scans into `texts/en-oelsner/images/` (`crop_en_oelsner_images.py`) and shown where they are printed, their text kept | — |
+| 5. Map images | the seven maps, diagrams and plates cut from the scans into `texts/en-oelsner/images/` (`crop_en_oelsner_images.py`) and shown where they are printed, their text kept; later cut from the Fifth Edition, whose plate pages `411`–`412` replaced ours (DONE.md) | — |
 
 Each place was decided in the image as **misread** (corrected in `ocr/en-oelsner`),
 **misprint** (kept as printed, marked `{{printed|fixed}}` and listed) or **printed**

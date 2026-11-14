@@ -843,3 +843,26 @@ only 9 pages after `403`.
   diagram of `284` after the note that introduces it (`IMAGE_AFTER_NOTE`). The
   genealogical tables (`249`, `321`, `345`) and the table of `405` stay text only.
 - The report as the baseline; in `texts/en-oelsner` only the seven image lines added.
+
+## The Fifth Edition's plates and figures (2026-11-15)
+
+The page numbers here are those after the renumbering.
+
+- The Fifth Edition (1904) prints the figures without show-through, and rewrote the two
+  pages of plates (pp. 399–400): Fig. I with a long explanation, and Fig. II, a section
+  of the eight revolving heavens. `411`–`412` were replaced by its pages, and the pages
+  of the other figures put in `fifth/` (README.md, "Layout"), all rendered from its PDF
+  at 400 dpi. The rest of the end matter (`410`, `413`, `414`) lists the same contents
+  in both editions and stays the Fourth Edition.
+- `411.txt` and `412.txt` transcribed by **Claude (Opus 5.5)** from the images, in strips:
+  the marginal labels `**Fig. I. (on this page).**` and `**Fig. II. (over page).**` at the
+  start of their paragraphs; the italics with the roman `A.D.`, numbers, `cf.` and
+  `logarithms` outside; the planet signs as Unicode (`☾ ☿ ♀ ☉ ♂ ♃ ♄`), the fixed stars as
+  printed (`* * * *`). One misprint marked: `411` `mag itudes` (misprints.tsv).
+- Tesseract and GLM-OCR read `411`–`412` again (the user); `cmpread.py -g` against the
+  transcription: class D only, the two marginal labels set beside their lines by both
+  OCRs. The readcheck row of the old `411` removed, three rows for the new one added.
+- `crop_en_oelsner_images.py` reads the Fifth Edition's pages, the boxes measured again;
+  `convert_en_oelsner.py` makes Fig. I and Fig. II a section each (`FIGURES`): Fig. I
+  with `411` up to the label of Fig. II, Fig. II with the rest of `411` and `412`, its
+  figure after the text.
