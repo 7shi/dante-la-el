@@ -60,6 +60,12 @@ leaf, the leaf is supplied from another copy of the same printing.
 
 - OCR with a strong vision model; run Tesseract too, for its word boxes (to crop lines
   for checking).
+- Take the scan's OCR from Internet Archive too (`iascan.py pages`), as a column beside
+  the other readings that does not vote. It costs nothing, but in `en-oelsner` it read
+  only 134 of the 355 word corrections of the check (Tesseract 168, GLM-OCR 228), 6 of
+  them alone, and differed from the final text more than Tesseract; its use is a hint at
+  a place already listed (numbers, accents). Count it again on the first batch of a new
+  scan, whose OCR may be better or worse.
 - **Convert at once, and run every mechanical check first:**
   - the counts of the structure (lines, verse numbers, the table of contents);
   - the layout: a note number at a line start after a non-blank line, a paragraph
@@ -104,8 +110,9 @@ leaf, the leaf is supplied from another copy of the same printing.
 - **Delegating a proofreading of the base by reading it.** Delegates changed colons to
   semicolons, modernized spellings, and reported checks they had not made; their work
   has to be verified by a diff against a snapshot, which costs more than it saves.
-- **A fourth reading (GLM-OCR and the like).** It normalized and repeated text, and its
-  vote alone decided nothing; worth it only for a hard script.
+- **Relying on a fourth reading (GLM-OCR and the like).** It normalized and repeated
+  text, and its vote alone decided nothing. It is cheap to run, so it can be kept as a
+  vote, but nothing is decided by it without the image.
 - **Whole-page retypes by weaker models.** Their errors only add places to compare.
 - **Waiting for approval between batches, and commits in the middle.**
 

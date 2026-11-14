@@ -27,7 +27,7 @@ misreading is corrected.
 | `findline.py DIR FLAGS [-o OUT] [--min R]` | The lines of `DIR/PAGE.txt` where the reader's flagged phrases are (`page phrase reason`): compared word by word without case, punctuation, italic marks and brackets, across hyphenated line breaks and page breaks; otherwise the most similar run of words (`~`) |
 | `wordcrop.py DIR OUT SPEC... [-t TESS]` | Bands of `DIR/PAGE.png` around words (`PAGE:TEXT[:N]`, the Nth word of Tesseract's `TESS/PAGE.tsv` containing TEXT), stacked into one PNG under labels with the match count, for deciding a flagged place in the image |
 | `txtfix.py DIR FIXES [-n]` | Applies the fixes, `PAGE:LINE old new` (`old` once in the line); writes nothing if a row fails |
-| `cmpread.py DIR RETYPE [-t TESS] [-o OUT] [PAGE...]` | The comparison before the read-through ([ocr/PLAN.md](../PLAN.md), step 2): `DIR/PAGE.txt` (the printed side of the marks), a retype `RETYPE/PAGE.txt` and Tesseract's words aligned word by word (quotes, dashes, spacing and note markers normalized); every place the base differs from the retype, classed A (Tesseract agrees with the retype), B (the retype alone), C (a run one lacks) |
+| `cmpread.py DIR RETYPE [-t TESS] [-g GLM] [-i IA] [-o OUT] [PAGE...]` | The comparison before the read-through ([ocr/PLAN.md](../PLAN.md), step 2): `DIR/PAGE.txt` (the printed side of the marks), a retype `RETYPE/PAGE.txt` and Tesseract's words aligned word by word (quotes, dashes, spacing and note markers normalized); every place the base differs from the retype, classed A (Tesseract agrees with the retype), B (the retype alone), C (a run one lacks); with `-g` GLM-OCR as a fourth reading (class D), with `-i` Internet Archive's OCR as a column that does not vote |
 | `misprints.py DIR [--fix-lines]` | Checks the misprint marks `{{printed\|fixed}}` of `DIR`'s pages against `DIR/misprints.tsv` (every applied row one mark, every mark a row); with `--fix-lines` writes the new line of a mark that has moved |
 
 ## Choosing the scan
@@ -42,6 +42,7 @@ Before a new source is added, its scans on Internet Archive are compared
 | `iascan.py leaves ID_djvu.xml` | The printed page number of each leaf minus the leaf number: the runs of a constant offset, the leaves off it, and repeated leaves |
 | `iascan.py heads ID_djvu.xml FIRST LAST` | The first and last line of some leaves, to look at a place `leaves` marked |
 | `iascan.py diff A_djvu.txt B_djvu.txt [--min 5]` | A word diff of two printings, only the blocks of MIN words or more: the revisions above the OCR noise |
+| `iascan.py pages ID_djvu.xml -d DIR [--first L] [--last L] [--shift K]` | The chosen scan's OCR as page files `DIR/PAGE.txt` (leaf + K), for `cmpread.py -i` |
 
 ## PDF preparation
 

@@ -8,6 +8,7 @@ of each leaf, `_djvu.txt` the running text.
     uv run ocr/scripts/iascan.py leaves tmp/ia/ID/ID_djvu.xml    # page offsets, repeated leaves
     uv run ocr/scripts/iascan.py heads tmp/ia/ID/ID_djvu.xml 396 424
     uv run ocr/scripts/iascan.py diff A_djvu.txt B_djvu.txt      # revisions between printings
+    uv run ocr/scripts/iascan.py pages ID_djvu.xml -d ocr/X/ia-ocr [--first 1 --last 400 --shift 0]
 
 `leaves`: the printed page number of each leaf, from the first or last word of its first
 or last line, minus the leaf number (1-based); the runs of a constant offset, and the
@@ -16,6 +17,8 @@ leaf; a single one is mostly a misread number), and the leaves whose text repeat
 `heads`: the first and last line of leaves FIRST–LAST, to look at a place `leaves` marked.
 `diff`: a word diff of two OCR texts, only the blocks where at least MIN words differ,
 which leaves the rewritten passages above the OCR noise.
+`pages`: the OCR of the chosen scan as page files, `DIR/PAGE.txt` (leaf + SHIFT, three
+digits), one printed line per line, for `cmpread.py -i` (a reference column).
 """
 import argparse
 import difflib
@@ -124,6 +127,19 @@ def cmd_diff(a):
     print(f"{n} blocks of {a.min} words or more, in {len(x)} and {len(y)} words")
 
 
+def cmd_pages(a):
+    a.dir.mkdir(parents=True, exist_ok=True)
+    i = 0
+    for _, el in ET.iterparse(a.xml):
+        if el.tag == "OBJECT":
+            i += 1
+            if a.first <= i <= (a.last or i):
+                lines = [" ".join(w.text or "" for w in l.iter("WORD")) for l in el.iter("LINE")]
+                (a.dir / f"{i + a.shift:0{a.width}d}.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
+            el.clear()
+    print(f"{a.dir}: leaves {a.first}-{a.last or i} as {a.first + a.shift}-{(a.last or i) + a.shift}")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -150,6 +166,14 @@ def main():
     p.add_argument("b", type=Path, help="ID_djvu.txt of the later printing")
     p.add_argument("--min", type=int, default=5, help="least words in a block (5)")
     p.set_defaults(func=cmd_diff)
+    p = sub.add_parser("pages", help="the OCR as page files, for cmpread.py -i")
+    p.add_argument("xml", type=Path, help="ID_djvu.xml")
+    p.add_argument("-d", "--dir", type=Path, required=True, help="output directory")
+    p.add_argument("--first", type=int, default=1, help="first leaf (1)")
+    p.add_argument("--last", type=int, default=0, help="last leaf (default: all)")
+    p.add_argument("--shift", type=int, default=0, help="page file = leaf + SHIFT (0)")
+    p.add_argument("--width", type=int, default=3, help="digits of the page file (3)")
+    p.set_defaults(func=cmd_pages)
     a = ap.parse_args()
     a.func(a)
 

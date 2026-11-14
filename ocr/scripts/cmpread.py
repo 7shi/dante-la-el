@@ -14,7 +14,10 @@ number alone, are dropped in all three readings (the tercet numbers of `ocr/en-o
 transcribed inconsistently). With -g, a fourth reading (GLM-OCR's pages, `GLM/PAGE.txt`,
 normalized as the retype) is aligned too; a page it lacks, or one whose length is not
 within --glm-ratio of the base's (a run-away page, a loop), is compared without it, and
-said so on stderr. Every
+said so on stderr. With -i, Internet Archive's OCR of the scan (`IA/PAGE.txt`, from
+`iascan.py pages`) is shown as a column beside the others, for deciding a place in the
+image; it does not vote in the classes (in `en-oelsner` it read only 6 of 355 corrections
+the others missed, and differed from the text more than Tesseract). Every
 place where the base differs from the retype is listed with Tesseract's (and GLM-OCR's)
 words for the same place, in a class:
 
@@ -27,7 +30,7 @@ words for the same place, in a class:
   not listed (a margin label or a head they set elsewhere); marks both lack are.
 
 Output, a TSV sorted by page and line: page, line (of the base), class, base, retype,
-tesseract, (glm,) and the text of the base line; in class D the retype column has the
+tesseract, (glm,) (ia,) and the text of the base line; in class D the retype column has the
 base's form, the other two their reading.
 
     uv run ocr/scripts/cmpread.py ocr/en tmp/en-retype01 -t ocr/en/tesseract -o cmp.tsv
@@ -44,6 +47,8 @@ ap.add_argument("dir", type=Path, help="directory of the page files (e.g. ocr/en
 ap.add_argument("retype", type=Path, help="directory of the retyped pages (PAGE.txt)")
 ap.add_argument("-t", "--tess", type=Path, help="Tesseract's TSVs (default: DIR/tesseract)")
 ap.add_argument("-g", "--glm", type=Path, help="directory of GLM-OCR's pages, a fourth reading")
+ap.add_argument("-i", "--ia", type=Path,
+                help="directory of Internet Archive's OCR pages, a reference column")
 ap.add_argument("--glm-ratio", type=float, default=1.3,
                 help="GLM-OCR page used if its tokens are within 1/R..R of the base's (1.3)")
 ap.add_argument("-o", "--output", type=Path, help="output TSV (default: stdout)")
@@ -125,6 +130,9 @@ def compare(page):
     gf = a.glm / f"{page}.txt" if a.glm else None
     glm = ([t for t, _ in tokens(gf.read_text(encoding="utf-8").split("\n"))]
            if gf and gf.exists() else None)
+    xf = a.ia / f"{page}.txt" if a.ia else None
+    ia = ([t for t, _ in tokens(xf.read_text(encoding="utf-8").split("\n"))]
+          if xf and xf.exists() else None)
     bk = [t for t, _ in base]
     if glm is not None and bk and not 1 / a.glm_ratio <= len(glm) / len(bk) <= a.glm_ratio:
         print(f"{page}: GLM-OCR not used ({len(glm)} tokens, the base {len(bk)})", file=sys.stderr)
@@ -150,12 +158,15 @@ def compare(page):
 
     tess_span = spanner(tess)
     glm_span = spanner(glm) if glm is not None else None
+    ia_span = spanner(ia) if ia is not None else None
     show = lambda ws: "?" if ws is None else " ".join(ws)
 
-    def row(line, cls, b, r, t, g):
+    def row(line, cls, b, r, t, g, span):
         cols = [page, line, cls, b, r, show(t)]
         if a.glm:
             cols.append("-" if glm is None else show(g))
+        if a.ia:
+            cols.append("-" if ia is None else show(ia_span(*span)))
         return tuple(cols + [base_lines[line - 1]])
 
     out, differ = [], set()
@@ -173,7 +184,7 @@ def compare(page):
             cls = "A"
         else:
             cls = "B"
-        out.append(row(line, cls, " ".join(b), " ".join(r), t, g))
+        out.append(row(line, cls, " ".join(b), " ".join(r), t, g, (i1, i2)))
     if glm is not None:
         # class D: where base and retype agree, Tesseract and GLM-OCR read the same other
         # form; the ligatures folded (both OCRs write `Æ` as `AE` or `Ae`)
@@ -188,7 +199,7 @@ def compare(page):
             if not g and any(re.match(r"\w", x) for x in bk[i1:i2]):
                 continue
             line = base[i1][1] if i1 < len(base) else base[-1][1]
-            out.append(row(line, "D", " ".join(bk[i1:i2]), " ".join(bk[i1:i2]), t, g))
+            out.append(row(line, "D", " ".join(bk[i1:i2]), " ".join(bk[i1:i2]), t, g, (i1, i2)))
         out.sort(key=lambda r: r[1])
     return out
 
@@ -200,7 +211,7 @@ for p in pages:
         print(f"{p}: no retype", file=sys.stderr)
         continue
     rows += compare(p)
-head = "page\tline\tclass\tbase\tretype\ttesseract\t" + ("glm\t" if a.glm else "") + "text"
+head = "page\tline\tclass\tbase\tretype\ttesseract\t" + ("glm\t" if a.glm else "") + ("ia\t" if a.ia else "") + "text"
 text = "\n".join([head]
                  + ["\t".join(map(str, r)) for r in rows]) + "\n"
 if a.output:
