@@ -1,37 +1,44 @@
-DANTE’S HELL 395
+NOTE ON
+DANTE'S HELL
 
-Trimmers — 0 — 1
-Heathen — 1 — 2
+The arrangement of the sins in Dante's Hell has been
+the subject of protracted and sometimes heated con-
+troversy. The reader who wishes to know some-
+thing of the different views that have been taken,
+and the arguments brought in their support may
+consult Dr Witte's essay on "The Ethical Systems
+of the Inferno and the Purgatory," together with the
+Appendix in the English translation.¹ The present
+note simply aims at stating the view which seems to
+the writer the most satisfactory.
 
-I. Incontinence
-  i. carnality — 2 — 3
-  ii. gluttony — 3 — 4
-  iii. avarice — 4 — 5
-  iv. anger — 5 — 6
-Heretics — 6 — 7
+All three portions of the poem are built upon the
+number scheme of 3, 7, 9, {{10|10.}} The primary division
+into 3 being raised by sub-division to 7, then by two
+somewhat unlike additions to 9, and lastly, by a
+member of a markedly different kind, to 10. This
+scheme is carried out in all the three Cantiche,
+though it is not so clearly and symmetrically de-
+veloped in the *Inferno* as in the other two.
 
-II. Violence or brutishness
-  v. violent — 7
-    i. against neighbour — 8
-    ii. ,, self — 9
-    iii. ,, God — 10
+In Dante's Hell the primary division of repre-
+hensible actions into three classes is based upon
+Aristotle ; but some ambiguity is introduced by the
+adoption in the first instance of a nomenclature for a
+portion of the subject matter derived from Cicero.
+The Aristotelian division is into—
 
-III. Fraud or malice
-  vi. simple — 8
-    i. seducers and pandars — 11
-    ii. flatterers — 12
-    iii. simonists — 13
-    iv. diviners — 14
-    v. peculators — 15
-    vi. hypocrites — 16
-    vii. thieves — 17
-    viii. evil counsellors — 18
-    ix. sowers of dissension — 19
-    x. forgers — 20
-  vii. treacherous — 9
-    i. against kin — 21
-    ii. ,, country — 22
-    iii. ,, hospitality — 23
-    iv. ,, lords and benefactors — 24
+I. Incontinence, which includes all wrong action
+due to the inadequate control of natural
+appetites or desires.
 
-P. H. W.
+II. Brutishness, or Bestiality, which is characteristic
+of morbid states in which what is naturally
+repulsive becomes attractive ; and
+
+"Essays on Dante," by Dr Karl Witte, selected, translated
+and edited with introduction, notes and appendices by C.
+Mabel Lawrence, B.A. and Philip H. Wicksteed, M.A.
+Duckworth, 1898.
+
+393
