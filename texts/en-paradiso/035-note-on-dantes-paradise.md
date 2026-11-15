@@ -24,7 +24,7 @@ The accompanying table will shew the general scheme of the poem. Dante’s numbe
 
 In the infra-solar heavens, Dante meets souls whom some earthy weakness or stain has so far shorn of what once were their spiritual possibilities, that though the quality of their joy is entirely pure and unalloyed, it is of lesser intensity than it might have been had they been altogether true. Perhaps we may trace, specifically, want of unshaken *faith*, and the partial substitution of earthy for heavenly *hope* and of earthy for heavenly *love* in those three heavens. It was believed that the conical shadow cast through space by the earth, reached as far as the sphere of Venus. The symbolic significance of this does not need further insisting upon.
 
-The sun, the great *luminary* is connected with *prudence*, the leader of the moral or cardinal virtues see *Purg.* xxix. 130-132), taken in its widest sense; and the other cardinal virtues follow; indicating that the tone and colour of the spiritual fruition of the souls is influenced by the incidence of the moral warfare by which it was earned.
+The sun, the great *luminary* is connected with *prudence*, the leader of the moral or cardinal virtues (see *Purg.* xxix. 130-132), taken in its widest sense; and the other cardinal virtues follow; indicating that the tone and colour of the spiritual fruition of the souls is influenced by the incidence of the moral warfare by which it was earned.
 
 Subtle analogies and hints throughout suggest the
 
