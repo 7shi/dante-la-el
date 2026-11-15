@@ -128,8 +128,7 @@ the cantos from III (`009`). The delegate is gpt-6-luna (Codex).
   `ocr/` and `texts/` are made on `main`, and reach this branch when the user brings them
   over. The record is a by-product, not a check: in the trial the delegate recorded
   nothing, and smoothed over what it met (see "Trial").
-- **An error of the author** (a wrong date, as Foscolo's death on "the 14th of September
-  1827", p. xxiv) is not a misprint: it is translated as printed, and recorded in the same
+- **An error of the author** (a wrong date) is not a misprint: it is translated as printed, and recorded in the same
   TSV with that reason.
 
 ## Not settled
@@ -156,13 +155,13 @@ to Lucia. These are what the review looks for.
 - `007-canto-01.md`, in two passes: first the Argument and the 24 footnotes, with the
   prose and the verse taken out (five places corrected); then the prose, with the
   Japanese of the notes given to copy, which came back identical. One paragraph was split
-  in two (p. 5), joined here. The delegate split the Milton quotation of `[^7-1]` into its
-  two verse lines without recording it (see "For `main`").
+  in two (p. 5), joined here. The delegate split a verse quotation into its lines, as
+  printed, without recording that the transcription has it on one line (`for-main.tsv`).
 - `008-canto-02.md`, in one pass (the flow above): Argument, prose, 9 glosses and 21
   footnotes. Eight places corrected. The speech came back in mixed registers (です in one
   speech, あなた and お前 in another), which led to the rule of plain speech; Cantos I
-  and II were brought in line with it. Two quotation marks missing in the print were found
-  in the review, not by the delegate (`ja/en/misprints.tsv`).
+  and II were brought in line with it. Two misprints were found in the review, not by the
+  delegate (`ja/en/misprints.tsv`).
 
 The prefaces and essays (`003`–`006`) came back with the structure unchanged, but for
 three references of `004` set apart from the verse they belong to (removed here). The
@@ -177,12 +176,14 @@ one was an error of the author, which it had corrected in the translation.
 
 Found by this work, to be done on `main` (not on this branch):
 
-- [`for-main.tsv`](for-main.tsv) (columns `file`, `page`, `text`, `change`): changes to
-  `ocr/` and `texts/` that are not misprints, such as an error of the transcription. A
-  row is removed when the change has come over from `main`.
-- `ja/{dir}/misprints.tsv`: the rows that are misprints, to be marked as such or left as
-  printed (see "Misprints"). A row whose reason says it is not a misprint (an error of
-  the author, translated as printed) needs nothing on `main`.
+- [`for-main.tsv`](for-main.tsv) (columns `file`, `page`, `part`, `text`, `change`;
+  `part` is `poem` for the text of the poem and its translations, which other branches
+  use, or `notes` for the rest: notes, glosses, arguments, prefaces, essays): everything
+  to be done or decided on `main`, one row each: an error of the transcription, and each
+  misprint of `ja/{dir}/misprints.tsv` (to be marked as such or left as printed; see
+  "Misprints"). A row is removed when the change has come over from `main`, or the
+  decision is made. A row of `misprints.tsv` whose reason says it is not a misprint (an
+  error of the author, translated as printed) needs nothing on `main` and has no row here.
 
 ## Steps
 
