@@ -1,6 +1,7 @@
 """Cut the maps, diagrams and plates of a Temple Classics volume edited by Oelsner from
-the scans: ocr/en-oelsner into texts/en-oelsner/images/NNN.jpg (NNN the scan), or
-ocr/en-purgatorio into texts/en-purgatorio/images/NNN.jpg.
+the scans: ocr/en-oelsner into texts/en-oelsner/images/NNN.jpg (NNN the scan),
+ocr/en-purgatorio into texts/en-purgatorio/images/NNN.jpg, or ocr/en-paradiso into
+texts/en-paradiso/images/NNN.jpg.
 
 The Inferno's figures are taken from the Fifth
 Edition (1904), which prints them without show-through: 411 and 412 are its pages in
@@ -11,7 +12,7 @@ percentile: the paper is most of a figure, the fill of 284 too much for the medi
 that the show-through from the other side fades too. The Purgatorio's are cut from its own
 scan (the Fourth Edition, 1904), in the same way.
 
-    uv run texts/scripts/crop_en_oelsner_images.py [inferno|purgatorio] [-o OUTDIR]
+    uv run texts/scripts/crop_en_oelsner_images.py [inferno|purgatorio|paradiso] [-o OUTDIR]
 """
 import argparse
 from pathlib import Path
@@ -44,7 +45,13 @@ PURGATORIO = {
     389: (30, 15, 975, 1694),     # the same, east
 }
 
-VOLUMES = {"inferno": (INFERNO, "en-oelsner"), "purgatorio": (PURGATORIO, "en-purgatorio")}
+# The Paradiso: the maps and diagrams, cut from its own scan (the reprint of November
+# 1910); the boxes are measured in step 6 (ocr/en-paradiso/PLAN.md): 22, 69, 98, 99, 110,
+# 111, 125, 151, 201, 217, 406, 407.
+PARADISO = {}
+
+VOLUMES = {"inferno": (INFERNO, "en-oelsner"), "purgatorio": (PURGATORIO, "en-purgatorio"),
+           "paradiso": (PARADISO, "en-paradiso")}
 
 
 def source(n, src):

@@ -1,13 +1,14 @@
 """Convert the page transcriptions of a Temple Classics volume edited by Oelsner into
-section files: ocr/en-oelsner/NNN.txt (the Inferno, 1903) into texts/en-oelsner/, or
-ocr/en-purgatorio/NNN.txt (the Purgatorio, 1904) into texts/en-purgatorio/.
+section files: ocr/en-oelsner/NNN.txt (the Inferno, 1903) into texts/en-oelsner/,
+ocr/en-purgatorio/NNN.txt (the Purgatorio, 1904) into texts/en-purgatorio/, or
+ocr/en-paradiso/NNN.txt (the Paradiso, 1910) into texts/en-paradiso/.
 
 The volumes share their layout; what differs (verses per canto, the pages of each canto,
 the plates and figures, the front and end matter, the decisions by hand) is in the
 settings of each volume below. See texts/PLAN.md for the layout. Run from the repository
 root:
 
-    uv run texts/scripts/convert_en_oelsner.py [inferno|purgatorio]
+    uv run texts/scripts/convert_en_oelsner.py [inferno|purgatorio|paradiso]
 """
 
 import argparse
@@ -672,7 +673,65 @@ PURGATORIO["TABLES"] = set()
 PURGATORIO["FOOTNOTES"] = {}
 PURGATORIO["FIGURES"] = ()
 
-VOLUMES = {"inferno": INFERNO, "purgatorio": PURGATORIO}
+# ================================================================ the Paradiso (1910)
+# The structure from ocr/en-paradiso/INDEX.md; the decisions by hand (FIGURE_FROM,
+# SIGNATURE_ABOVE, HYPHEN_FIXED, NOTE_CONTINUED, NOTE_NEW, ...) are filled in by the
+# mechanical checks once the base is there (ocr/en-paradiso/PLAN.md, step 2).
+
+PARADISO = {}
+PARADISO["src"] = ROOT / "ocr" / "en-paradiso"
+PARADISO["dst"] = ROOT / "texts" / "en-paradiso"
+PARADISO["vocab"] = [PARADISO["src"], PURGATORIO["src"], INFERNO["src"], ROOT / "ocr" / "en"]
+
+PARADISO["VERSES"] = [142, 148, 130, 142, 139, 142, 148, 148, 142, 148, 139, 145, 142, 139,
+                      148, 154, 142, 136, 148, 148, 142, 154, 139, 154, 139, 142, 148, 139,
+                      145, 148, 142, 151, 145]
+
+_FIRST = [12, 24, 36, 46, 58, 70, 86, 100, 112, 126, 140, 152, 166, 178, 190, 202, 218, 228,
+          238, 254, 266, 278, 290, 300, 312, 324, 336, 348, 360, 372, 384, 396, 408]
+PARADISO["CANTO_PAGES"] = [(f, l - 1) for f, l in zip(_FIRST, _FIRST[1:] + [420])]
+
+# The maps with pages of their own (pp. 115, 191, 207), the Tables of Kings (pp. 240-243)
+# and the table of Dante's descent (p. 373), each at the end of a canto's notes.
+PARADISO["PLATES"] = {125, 201, 217, 250, 251, 252, 253, 383}
+PARADISO["IMAGES"] = {
+    22: "Diagram of the four circles and three crosses",
+    69: "Diagram of the three mirrors",
+    98: "Map illustrating the boundaries of Provence",
+    99: "Map of Naples and Sicily",
+    110: "Map of Hungary, Rascia, etc.",
+    111: "Map of the Mediterranean, shewing the position of Marseilles",
+    125: "Map of the district about Romano",
+    151: "Map shewing the position of Assisi",
+    201: "Map of the district about Florence",
+    217: "Map of Cacciaguida's Florence",
+    406: "Map of the World west of Jerusalem",
+    407: "Map of the World east of Jerusalem",
+}
+PARADISO["IMAGE_AFTER_NOTE"] = {}
+# The first line of each figure printed among the notes (22, 69, 98, 99, 110, 111, 151,
+# 406, 407), as the base writes it: step 2.
+PARADISO["FIGURE_FROM"] = {}
+PARADISO["SIGNATURE_ABOVE"] = set()
+PARADISO["ITALIC_JOIN"] = True
+
+PARADISO["FRONT"] = ("title-page", [5, 6, 8, 9, 11])
+PARADISO["BACK"] = [
+    ("note-on-dantes-paradise", [420, 421, 422, 423]),
+    ("epigraph", [424]),
+    ("general-editorial-note", [425]),
+    ("editorial-note", [426, 427, 428]),
+    ("index-to-maps-diagrams-and-tables", [429]),
+]
+PARADISO["HYPHEN_FIXED"] = {}
+PARADISO["NOTE_CONTINUED"] = set()
+PARADISO["NOTE_NEW"] = set()
+PARADISO["DROP_LINES"] = {}
+PARADISO["TABLES"] = set()
+PARADISO["FOOTNOTES"] = {}
+PARADISO["FIGURES"] = ()
+
+VOLUMES = {"inferno": INFERNO, "purgatorio": PURGATORIO, "paradiso": PARADISO}
 
 
 def configure(name):
