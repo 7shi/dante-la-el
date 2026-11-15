@@ -58,3 +58,29 @@ The other 424 pages (`007`–`013`, `039`–`455`), compared at once, without ba
     51).
 - **Not compared here**: the paragraph breaks and the verse counts (step 4), the tables'
   line division.
+
+## Step 7: the read-through (2026-11-15)
+
+All 449 pages (`007`–`455`) read for sense in `ocr/` (no converter yet), in two passes:
+first the doubtful places listed (168), then each decided in the image, 100 pages at a
+time (GUIDE.md, step 3).
+
+- **Misreadings** (70 rows of readcheck.tsv):
+  - accents agy dropped where the `ì` is printed as a dotless `ı` with a faint accent
+    (`sì`, `dì`, `così`, `partì`; 12);
+  - the blank line before the page number or signature at the foot, missing on 43 of
+    agy's pages from `240` on;
+  - a missing paragraph break (`051`), stray quotes (`199`, `276`), `pescata`, `HoIy`,
+    `--`;
+  - the colon in citations written `N: N` on 5 pages that had `N : N` (printed spaced
+    on both sides everywhere).
+- **Misprints** (68 marks, misprints.tsv now 72 rows): tercet numbers (`146`, `3`, `117`,
+  `93`, `35`); marginal labels (`Girone`, `Girone I` for II, `irone`); letters in the
+  Italian (`motte`, `torcessse`, `piauger`, `sirrocchia`, `essse`, `Menrenti`, `verderti`,
+  `n ciel`) and accents not printed (`ricomincio`, `giu`, `appario`); letters and spaces
+  in the English (`woulds`, `Lonis`, `tnere`, `Tne`, `humanrace`, `fourages`, `feel`,
+  `of of`, `I` printed twice); quotations (`erescit`, `beatudinem`); missing stops and
+  quotes in the notes.
+- **Kept as printed**: Italian elisions set close (`d'udir`, `s'avviva`, 13), split
+  elisions before an enclitic (`rife' mi`, `leva' mi`, 18), `twixt` (twice), the
+  editor's own slips in references (`Metam. xiv. 139`, `Matt. xxviii. 46`).
