@@ -1,0 +1,34 @@
+N
+E
+S
+W
+Rises Midnight
+Rises 2 a.m.
+Rises 4 a.m.
+Rises 6 a.m.
+Rises 8 a.m.
+Rises 10 a.m.
+Rises noon
+Rises 2 p.m.
+Rises 4 p.m.
+Rises 6 p.m.
+Rises 8 p.m.
+Rises 10 p.m.
+CAPRICORNUS
+AQUARIUS
+PISCES
+ARIES
+TAURUS
+GEMINI
+CANCER
+LEO
+VIRGO
+LIBRA
+SCORPIO
+SAGITTARIUS
+HORIZON
+
+*Showing the hours at which the several signs of the Zodiac*
+*begin to rise at the spring equinox. Each sign begins to set*
+*twelve hours after it begins to rise. The spectator is looking*
+*North.*
