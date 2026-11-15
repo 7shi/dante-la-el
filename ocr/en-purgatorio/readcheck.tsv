@@ -58,6 +58,7 @@ page	line	form	decision	note
 202	22	ance	misread	cmp A; `insist-` / `ance`; was `ence`
 204	8	{{Guarda|“Guarda}}	misprint	read-through; as printed
 210	15	v' en	printed	read-through; `en` (= sono) without an accent; kept, the edition's form
+213	6	(no blank line)	misread	mechanical check; `So turned he back` (v. 145, the canto's last line) ends the last paragraph; the blank line before it was stray
 227	13	(46-75.)	printed	read-through; the period inside the bracket, also `(82-138.)`; kept, the same twice
 227	36	said;	printed	read-through; `;` before a quotation (also `disse;` on 404); kept, may be the edition's
 237	12	{{intelligence|intelligences}}	misprint	read-through; as printed
@@ -206,6 +207,7 @@ page	line	form	decision	note
 431	39	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 436	12	{{35|85}}	misprint	read-through; as printed
 443	33	{{*sqq*,|*sqq*.}}	misprint	read-through; as printed
+443	34	(blank line)	misread	mechanical check; the signature `H. O.` stands on a line of its own, apart from the last note
 444	4	§ I.	misread	cmp A; was `§ 1.`
 444	41	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 445	29	§ 2.	printed	read-through; `§ I.` on 444; undecided which numbering is meant
@@ -215,3 +217,8 @@ page	line	form	decision	note
 447	27	{{viii|viii.}}	misprint	read-through; as printed
 448	34	{{76-81)|76-81).}}	misprint	read-through; as printed
 449	25	{{P|P.}}	misprint	read-through; as printed
+451	1	(italics)	misread	mechanical check; the note is printed in italic with the titles and names in roman; all lines were italic
+451	15	(blank line)	misread	mechanical check; the signature `I. G.` and the date stand on lines of their own
+452	40	(blank line)	misread	mechanical check; the signature `T. O.` stands on a line of its own
+453	26	(blank line)	misread	mechanical check; the signature `H. O.` stands on a line of its own
+454	4	(blank line)	misread	mechanical check; `PAGE` heads the column of page numbers, apart from `DIAGRAMS SHOWING—` (as in en-oelsner 414)

@@ -25,9 +25,14 @@ English (Carlyle's literal prose translation, with the Italian text)
 * [The Inferno of Dante Alighieri (Fifth Edition, 1904) : Internet Archive](https://archive.org/details/inferno00dant_3)
   (the two pages of plates, pp. 399–400, rewritten in this edition, and the images of the figures are taken from it)
 
+English (Okey's prose translation of the *Purgatorio*, with the Italian text)
+
+* [The Purgatorio of Dante Alighieri : Internet Archive](https://archive.org/details/purgatorioofdant00dant_0)
+  (edited by Oelsner, translated by Thomas Okey: The Temple Classics, London: J. M. Dent & Co., Fourth Edition, 1904)
+
 ## OCR
 
-[ocr/](ocr/) contains the scanned page images of the Latin (`la/`), Ancient Greek (`grc/`), and English/Italian (`en/` for Carlyle's own edition, `en-oelsner/` for Oelsner's edition) sources, their OCR transcriptions (`.txt`), and the scripts used to produce them. See [ocr/README.md](ocr/README.md) for details.
+[ocr/](ocr/) contains the scanned page images of the Latin (`la/`), Ancient Greek (`grc/`), and English/Italian (`en/` for Carlyle's own edition, `en-oelsner/` for Oelsner's edition, `en-purgatorio/` for the *Purgatorio* of the same series) sources, their OCR transcriptions (`.txt`), and the scripts used to produce them. See [ocr/README.md](ocr/README.md) for details.
 
 ## Dependency
 

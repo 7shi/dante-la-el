@@ -93,3 +93,57 @@ time (GUIDE.md, step 3).
   marked `undecided` there: `Purg. xxviii. 121-12` (cut short, `069`), `Metam. xiv. 139`
   (`189`), the note numbers that differ from the verses (`159`, `160`, `173`, `238`),
   `§ I.` / `§ 2.`, `exchange of friends`, and two stops (`115`, `185`).
+
+## Steps 1 and 2: the structure and the converter (2026-11-15)
+
+- **The structure** (step 1): [INDEX.md](INDEX.md) from the page heads and the printed
+  Index to Plates, Tables, etc. (p. 442): the front matter, the 33 cantos with their pages,
+  the leaf where the notes begin and their first line, the plates, tables and diagrams, the
+  end matter, the leaves left out. README.md has "Layout", "Transcription" and "Credits".
+  The offset is constant (printed page = leaf − 12, pp. 2–443).
+- **The converter made general** (step 2): `texts/scripts/convert_en_oelsner.py` keeps the
+  settings of each volume apart (`INFERNO`, `PURGATORIO`) and takes the volume as an
+  argument (`purgatorio`; the *Inferno* by default); `crop_en_oelsner_images.py` likewise.
+  The *Inferno*'s output, its report and its seven images stay the same byte for byte.
+  New for the *Purgatorio*: the running heads `*PURGATORIO*`, `DANTE’S PURGATORY` and
+  `CHRONOLOGY OF “PURGATORIO”`; the diagrams printed below the notes of a page
+  (`FIGURE_FROM`); the signature mark above the page number of `253`; italic spans
+  joined across a line end (`ITALIC_JOIN`).
+
+## Step 4: the mechanical checks (2026-11-15)
+
+On the converted text, `texts/en-purgatorio/` (after the read-through, not before it as
+the plan had it: the converter did not exist yet).
+
+- **The verse count** of each canto: all 33 as in the standard text, no error.
+- **The tercet numbers** printed in the Italian against the count: all agree. One number
+  stands on the second line of its tercet, `134` on `170` (Canto XIII 133–134): the first
+  line is long; printed so, and the converter computes the numbers.
+- **The English paragraphs against the tercets**: the converter takes as many paragraphs
+  as tercets begin on the facing page, and lists the English pages whose notes start
+  without a verse number (23). All but one were notes continued from the Italian page;
+  on `213` the canto's last line (`So turned he back…`, XVI 145) had a blank line before
+  it, made a paragraph of its own: a misreading (readcheck.tsv).
+- **The note paragraphs at a page top** after a finished sentence (9): decided in the
+  image, continued (flush left) on 7 pages, new (indented) on `267`; listed in the
+  converter.
+- **Line-end hyphens**: 62 joins the word list could not decide, read through; 10 decided
+  by hand (`HYPHEN_FIXED`).
+- **The end matter**: on `451` the italics were reversed (the note is printed in italic,
+  the titles and names in roman; the base had set every line in italic), rewritten; the
+  signatures (`443`, `451`–`453`) and `PAGE` on `454` set apart by a blank line, as
+  printed. 7 rows `misread` in readcheck.tsv in all.
+
+## Step 8: the figures (2026-11-15)
+
+`crop_en_oelsner_images.py purgatorio` cuts nine figures from the scan itself (clean, no
+show-through) into `texts/en-purgatorio/images/`: the six diagrams below the notes (`024`,
+`025`, `046`, `047`, `059`, `115`), the plate of the Zodiac (`071`) and the two pages of
+the map (`388`, `389`), each without its caption; the boxes found from the ink of each
+page and checked in a contact sheet. The family tables stay text. The labels of the
+diagrams and the map stay as text, line by line, after the image.
+
+## Step 9: the close (2026-11-15)
+
+[SUMMARY.md](SUMMARY.md) written; README.md ("Credits"), INDEX.md, the root README,
+ocr/README.md and texts/PLAN.md, texts/README.md, texts/scripts/README.md updated.

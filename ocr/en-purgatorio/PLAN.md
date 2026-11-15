@@ -13,26 +13,24 @@ The work done is to be recorded in DONE.md, as the steps go.
 
 ## State (2026-11-15)
 
-The scan is chosen (README.md, "Choice of the scan"). The pages are rendered as `NNN.png`
-(NNN the PDF page = the leaf of Internet Archive's OCR, 300 dpi) by a script of the user's,
-outside the repository. `ia-ocr/` is written for all pages; Tesseract and GLM-OCR run by
-the user with their Makefiles (`tesseract/`, `glm-ocr/`), over all pages. Done
-(DONE.md): the base of all pages (step 3, `007`–`455`), the trial (step 5, no retype),
-the comparison (step 6, 19 errors of the base) and the read-through (step 7, 70 fixes and
-90 misprints); the decisions are rows of `readcheck.tsv` and `misprints.tsv`. Next: steps 1
-and 2 (INDEX.md, README.md "Layout", the converter made general), then the mechanical
-checks (step 4) on the converted text, the figures (step 8) and the close (step 9).
+Done (DONE.md): all steps. The base of all pages (step 3, `007`–`455`), the trial (step 5,
+no retype), the comparison (step 6, 19 errors of the base), the read-through (step 7, 70
+fixes and 90 misprints), the structure and the converter (steps 1–2), the mechanical
+checks on the converted text (step 4, 7 fixes), the figures (step 8) and the close
+(step 9, SUMMARY.md). The text is `texts/en-purgatorio/`; the decisions are rows of
+`readcheck.tsv` and `misprints.tsv`. Next: `ocr/en-paradiso` by the same steps.
 
-## The text (to be filled in by step 1)
+## The text
 
-- **Pages**: 462 leaves; the printed page = leaf − 12 (README.md). The pages to
-  transcribe and those left out (covers, library leaves, blank leaves) go into INDEX.md.
-- **Kinds of page**, expected from `en-oelsner`: the front matter; the cantos on facing
-  pages (the Italian with marginal labels and tercet numbers on the even pages, the
-  English, one paragraph per tercet, on the odd pages; the argument across the first
-  spread; the notes across the page bottoms and over whole pages); the plates, diagrams
-  and family tables (the Index to Plates, Tables, etc.: pp. 12, 13, 34–35, 47, 59, 86–91,
-  103, 241, 376–377); the end matter (the editorial and translator's notes, the index).
+- **Pages**: 462 leaves; the printed page = leaf − 12 (README.md, "Layout"). The pages
+  transcribed and those left out are in INDEX.md.
+- **Kinds of page**: the front matter; the cantos on facing pages (the Italian with
+  marginal labels and tercet numbers on the even pages, the English, one paragraph per
+  tercet, on the odd pages; the argument across the first spread; the notes across the
+  page bottoms and over whole pages); the diagrams below the notes (pp. 12, 13, 34, 35, 47,
+  103), the plate of the Zodiac (p. 59), the family tables (pp. 86–91, 241) and the map
+  (pp. 376–377); the end matter (Wicksteed's two papers, the editorial and translator's
+  notes, the Index to Plates, Tables, etc.).
 - **No second edition of the translation** to compare with, unlike Carlyle's own edition
   for the *Inferno*: the English is decided against the image alone.
 
