@@ -21,8 +21,9 @@ through `ocr/scripts/glmocr.py`). Step 0 is done; of step 1, `ia-ocr/`, INDEX.md
 README.md "Layout" are done, and the task file for the base's trial pages (`012`–`036`)
 is written; the base of the trial's pages (`012`–`036`) is done by agy, and the trial
 (step 3) read them: 4 errors of marks and spacing, no word (DONE.md); no retype (the
-user). Next: the base of the other pages (the front and end matter, `037`–`430`) by agy
-in two or three runs, its task file with the settled readings below; then step 2.
+user). The base of all the other pages is done by agy in two runs, and step 2 (the
+conversion and the mechanical checks) is done (DONE.md). Next: step 4, once GLM-OCR has
+run over all the pages (the user; waited for, as planned, 2026-11-15).
 
 ## The text
 

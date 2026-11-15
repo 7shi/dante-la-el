@@ -1,3 +1,5 @@
+240
+
 Thick letters indicate persons mentioned in *Paradiso XIX.*
 *Italics* indicate persons mentioned elsewhere by Dante.
 
@@ -13,5 +15,3 @@ Eleanor=Frederick§ (Sicily, 1296-1336)
 \* *See Table II.*
 † *See Table III.*
 § *See Table IV*
-
-§
