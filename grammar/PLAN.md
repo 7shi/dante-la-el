@@ -8,18 +8,32 @@ The grammar commentaries still to be made, in this order. Each is written in Eng
 | 2 | `grammar/en-oelsner/` | the Italian of Oelsner's edition (`texts/en-oelsner/`) | Oelsner's revision of Carlyle's English | Inferno |
 | 3 | `commentary/en-grc/`, then `grammar/grc/` | Musurus's Greek (`texts/grc/`) | Oelsner's Italian and English beside the Greek and a literal English of it (`commentary/en-grc/`) | Inferno |
 | 4 | `grammar/el-grc/` | Musurus's Greek (`texts/grc/`) | the Modern Greek translation of it (`commentary/el-grc/`) | Inferno |
-| 5 | `grammar/la/` | Serravalle's Latin (`texts/la/`) | undecided | Inferno (Purgatorio and Paradiso on hold) |
+| 5 | `grammar/la/` | Serravalle's Latin (`texts/la/`) | undecided | Inferno (Purgatorio and Paradiso undecided) |
 
 ## 1. grammar/en
 
 `make grammar CANTICLE=inferno SOURCE=en`: the Italian of Carlyle's edition compared block by block with his English (`editions/en-blocks.txt`): where the English departs from a word-for-word rendering, and how. Cantos 1–2 were tried and the prompt tuned on them; the rest of the Inferno is being generated. To do: review all 34 cantos once they are done.
+
+## Rebase onto main
+
+Once `grammar/en/` has been reviewed, the el branch is rebased onto main, which has since added to `texts/` what the later steps need:
+
+- The leaf of Oelsner's Inferno with pp. 385–386 (canto XXXIV), from another scan, so the gap in canto XXXIV is closed; the files of `ocr/en-oelsner/` after it are shifted by two.
+- Three misprints of Oelsner's Italian corrected (`abbandono` II 34, `corrono` XV 122, `rimanga` XXIX 22).
+- `texts/en-purgatorio/` and `texts/en-paradiso/`: the Temple Classics Purgatorio and Paradiso, with Oelsner's Italian and Okey's English facing it tercet by tercet, as in `texts/en-oelsner/`.
+
+After the rebase, before step 2:
+
+- Run `compare_editions.py en` again: the added leaf brings new differences (the English of lines 19–51 and the Italian of lines 52–84), so the numbers of `editions/judge-en.txt` shift and its judgments are checked against the new list; render the tables of `en-carlyle-oelsner.md` again and update its counts.
+- Remove the notes on the missing leaf from `editions/README.md`, `editions/en-carlyle-oelsner.md`, and this plan; drop the `<!-- pp. 385–386 missing from the scan -->` handling if any script relies on it.
+- Check that `source.oelsner_passages` reads the canto XXXIV spreads in full.
 
 ## 2. grammar/en-oelsner
 
 The same comparison for Oelsner's edition: his English against his own Italian, which differs from Carlyle's in many readings (see [editions/en-carlyle-oelsner.md](../editions/en-carlyle-oelsner.md): the English follows Oelsner's Italian where the two differ, so each English is read with its own Italian).
 
 - A source `en-oelsner` in `commentary/scripts/source.py` and `grammar.py`, cut by `source.oelsner_passages`: the Italian of an even page and the English of the odd page facing it. No hand-checked cuts are needed, since Oelsner prints the English one paragraph per tercet; whether a spread is small enough for one call, or is to be cut by tercets, is to be decided on a trial.
-- Canto XXXIV: pp. 385–386 are missing from the scan, and no other copy has been found, so the gap stays for now. The Italian of p. 384 (lines 19–51) has no English, and the Italian of p. 386 (lines 52–84) is missing, though its English (p. 387) is there. The commentary must state the gap where it falls (lines 19–84, pp. 385–386 missing from the scan) rather than skip it silently; these lines are explained from Carlyle's edition in `grammar/en/`.
+- Canto XXXIV: pp. 385–386 are missing from the scan on this branch; main has added them from another scan, so after the rebase the canto is complete and needs no special handling.
 - The Italian of the two editions is compared in [editions/it-carlyle.md](../editions/it-carlyle.md); a block on a line where Oelsner reads otherwise than Carlyle needs no special handling, as each commentary keeps to its own edition.
 
 ## 3. grammar/grc
@@ -33,8 +47,7 @@ Steps:
 
 1. Generate and check `commentary/en-grc/` (all 34 cantos).
 2. A new mode of `grammar.py` for `grammar/grc/` (how it is called, beside the existing grc mode of step 4, is settled then): the Greek and `en-grc` line by line, Oelsner's Italian and English by tercet (`source.oelsner_passages`), sent passage by passage, with the repair of a rejected answer and the rejections listed at the end of a run, as in the en mode.
-3. Canto XXXIV, where Oelsner's pp. 385–386 are missing: lines 19–84 take the Italian and the English of Carlyle's edition instead, as printed, and the commentary states that they do. Carlyle's English is not revised after Oelsner's manner: a text made up so would be neither edition. Oelsner's English of lines 52–84 (p. 387) survives, but not his Italian of them, so it is not used either: it would pair one edition's English with the other's Italian. Carlyle's English is cut by pages, so its part for lines 19–84 is cut by hand at the tercets (before line 19 and after line 84), as `editions/en-blocks.txt` was.
-4. Trial on a canto or two, tune the prompt, then the whole Inferno.
+3. Trial on a canto or two, tune the prompt, then the whole Inferno.
 
 `commentary/el-grc/` is not quoted in `grammar/grc/`: a third translation beside each line would make the commentary too complex. It has a commentary of its own in step 4. Where `el-grc` and `en-grc` read a line differently, the Greek may be hard there; this can be used when reviewing.
 
@@ -53,7 +66,7 @@ Serravalle's Latin translation (`texts/la/`), printed line by line beside the It
 - The Italian of this edition differs widely from the modern text and from Oelsner's (see [texts/la/README.md](../texts/la/README.md)), and there is no English translation of it; whether the Italian side takes Oelsner's English, or something else, is undecided.
 - A literal English of the Latin (`commentary/en-la/`, made like `commentary/en-grc/`) would be the counterpart of `commentary/en-grc/`.
 - `commentary/scripts/source.py` has no `la` source yet: it is to read the Latin verse of `texts/la/` (interleaved with the Italian per tercet, with counted tercet numbers).
-- The Purgatorio and the Paradiso have no English beside the Italian (both Carlyle's and Oelsner's editions are of the Inferno alone); they are on hold.
+- The Purgatorio and the Paradiso: after the rebase, the Temple Classics volumes (`texts/en-purgatorio/`, `texts/en-paradiso/`) give Oelsner's Italian with Okey's English, as `texts/en-oelsner/` does for the Inferno, so the Latin of all three canticles could be set beside them; whether to go beyond the Inferno is decided with the rest of this step.
 
 ## After the merge into main
 
