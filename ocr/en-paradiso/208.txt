@@ -10,7 +10,7 @@ per che non dee parer mirabil cosa 85
 ciò ch' io dirò degli alti Fiorentini,
 onde la fama nel tempo è nascosa.
 Io vidi gli Ughi, e vidi i Catellini, 88
-Filippi, Greci, Ormanni ed Aberichi,
+Filippi, Greci, Ormanni ed {{Aberichi|Alberichi}},
 già nel calare, illustri cittadini;
 e vidi così grandi come antichi, 91
 con quel della Sannella, quel dell' Arca,

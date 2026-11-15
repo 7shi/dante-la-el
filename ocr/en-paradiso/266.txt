@@ -11,7 +11,7 @@ from her countenance, whereon they feasted; and he
 sees the golden Jacob’s ladder stretch up from Saturn;
 while a throng of splendours descends, as though all
 heaven had been emptied, and splashes in light upon a
-certain step of the ladder (19-42), Dante addresses
+certain step of the ladder {{(19-42),|(19-42).}} Dante addresses
 the light that arrests itself nearest to him, first with
 silent thought, then, when Beatrice gives him leave,
 with open speech; and asks why he more than others

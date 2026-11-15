@@ -21,7 +21,7 @@ tom, and Anselm, and that Donatus who
 deigned to set his hand to the first art;
 
 Rabanus is here, and there shineth at my side
-the Calabrian abbott Joachim, dowed with
+the Calabrian {{abbott|abbot}} Joachim, dowed with
 prophetic spirit.
 
 To emulous speech of so great paladin moved

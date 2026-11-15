@@ -139,3 +139,31 @@ All 424 pages of the base (`005`–`430`) at once, without batches.
   `Empir`, `211` `The Pere gate`, left to the read-through.
 - The converter's report unchanged against step 2; the *Inferno*'s and the
   *Purgatorio*'s output not touched.
+
+## Step 5: the read-through (2026-11-15)
+
+All 424 pages of the base (`005`–`430`) read for sense in `ocr/`, in two passes (GUIDE.md,
+"Read-through for sense"): first the doubtful places listed (94, with a list of the
+words found in neither the other two volumes, the Commedia nor a word list), then each
+decided in the image, by crops of its line.
+
+- **Misprints** (38 marks, misprints.tsv now 55 rows): in the Italian `ch` for `che`,
+  `cio`, `sara` (accents not printed), `comforti`, `quante` for `quanto`, `se'` and `chi'`
+  for `s'` and `ch'`, `Aberichi` (the English has `Alberichi`), two lines ending a tercet
+  without their stop, and the tercet number `100` printed `10` (XXV); in the English
+  `vengence`, `lead` for `led`, `abbott`, `aud` (a turned `n`), `witholding`, `therewas`,
+  `Ostragoths`, `Ghibil-line`; the label `Empir` (`Empireo`); citations (`ii. 6; 40`,
+  `ix. i`, `2 Cor,`, `sqq;`); missing or wrong stops and brackets in the arguments, the
+  notes and the end matter, and the signatures of the editorial note (`P H. W.`, `H. O`).
+- **Misreadings** (4): `of the` dropped at a line end (`155`), a comma for the printed
+  period (`288`), `6,7` for the spaced `6, 7` (`347`), and a map's label (`098`).
+- **Kept as printed** (34 rows `printed`): spellings the edition prints (`Bernadone`,
+  `Cassale`, `d’Aquaspata`, `Guinivere`, `Rachael`, `Gesù` beside `Jesù`), elisions set
+  close (`fe'da`), `’t is` and spaced dashes; undecided: `l. 6` (`083`, perhaps
+  `l. 67`), the label `The Pere gate` (`211`, `Pera` in the Italian), the dates of
+  Frederick in Tables I and IV (`1296` and `1295`), `month!` (`337`).
+- **Left from steps 2 and 4**: `Ghibil-line` marked; `Com-machio` (`277`) kept, in
+  Toynbee's words; `Empir` marked; `The Pere gate` kept (above).
+- The map labels (`099`, `217`) are left to the figures (step 6).
+- The converter's report: the line `HYPHEN 070: Ghibil-line` is gone (the mark joins it);
+  otherwise unchanged. The *Inferno*'s and the *Purgatorio*'s output not touched.

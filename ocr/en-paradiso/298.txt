@@ -2,7 +2,7 @@
 
 **Cielo Stellato** avea sopra di noi l' interna riva 115
 tanto distante, che la sua parvenza
-là dov' io era ancor non m' appariva
+là dov' io era ancor non m' {{appariva|appariva.}}
 Però non ebber gli occhi miei potenza 118
 di seguitar la coronata fiamma,
 che si levò appresso sua semenza.
@@ -33,7 +33,7 @@ of the stars he sees in varied groups the whole fruit
 of creation and history gathered together, as typifying
 the “one home.” The “circling of these spheres”
 signifies the whole cosmic evolution, and the working
-of the spirit of God upon man. *Cf.* xiii. 52-66, *note*
+of the spirit of God upon man. *Cf.* xiii. 52-66, {{*note*|*note*.}}
 
 30. See xx. 6, *note*.
 

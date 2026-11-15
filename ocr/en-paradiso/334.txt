@@ -44,7 +44,7 @@ express description of the *Apocalypse*.
 72. The various coats of the eye.
 
 106-108. Both the construing and the interpreta-
-tion of this passage have given rise to much dispute
+tion of this passage have given rise to much {{dispute|dispute.}}
 The translation here given takes it to mean that
 everything is perfectly reflected in God, and there-
 fore he who looks on God sees everything perfectly.

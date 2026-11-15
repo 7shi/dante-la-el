@@ -29,8 +29,8 @@ best of Dante scholars (Benvenuto da Imola) has re-
 marked: “It is rather great wit than great learning
 that is needed for the understanding of this book.”
 
-H. O
-P. H. W
+{{H. O|H. O.}}
+{{P. H. W|P. H. W.}}
 
 ¹ *A Dictionary of Proper Names and Notable Matters in*
 *the Works of Dante*, by Paget Toynbee, M.A. Oxford.

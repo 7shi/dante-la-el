@@ -13,7 +13,7 @@ for them who have all gone astray on earth,
 following the ill example.
 
 Erst ’twas the wont to make war with swords; now
-it is made by witholding, now here, now there,
+it is made by {{witholding|withholding}}, now here, now there,
 the bread the tender father bars from none;
 
 but thou, who but to cancel, dost record, reflect

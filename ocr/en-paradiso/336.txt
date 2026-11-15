@@ -32,7 +32,7 @@ Dinanzi agli occhi miei le quattro face 10
 stavano accese, e quella che pria venne
 incominciò a farsi più vivace;
 e tal nella sembianza sua divenne, 13
-qual diverrebbe Giove, se' egli e Marte
+qual diverrebbe Giove, {{se'|s'}} egli e Marte
 fossero augelli, e cambiassersi penne.
 
 326

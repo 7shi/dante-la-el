@@ -29,7 +29,7 @@ per lo giusto disdegno che v' ha morti
 e posto fine al vostro viver lieto,
 era onorata ed essa e suoi consorti. 139
 O Buondelmonte, quanto mal fuggisti
-le nozze sue per gli altrui comforti!
+le nozze sue per gli altrui {{comforti|conforti}}!
 Molti sarebbon lieti, che son tristi, 142
 se Dio t' avesse conceduto ad Ema
 la prima volta che a città venisti.

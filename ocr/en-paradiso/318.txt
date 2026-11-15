@@ -8,7 +8,7 @@ di lei; ed emmi a grato che tu diche
 quello che la speranza ti promette.”
 Ed io: “Le nuove e le scritture antiche 88
 pongono il segno, ed esso lo mi addita.
-Dell' anime che Dio s' ha fatte amiche
+Dell' anime che Dio s' ha fatte {{amiche|amiche.}}
 Dice Isaia che ciascuna vestita 91
 nella sua terra fia di doppia vesta,
 e la sua terra è questa dolce vita.
@@ -18,7 +18,7 @@ questa rivelazion ci manifesta.”
 E prima, appresso al fin d' este parole, 97
 *Sperent in te*, di sopra noi s' udì,
 a che risposer tutte le carole;
-poscia tra esse un lume si schiarì, 10
+poscia tra esse un lume si schiarì, {{10|100}}
 sì che, se il Cancro avesse un tal cristallo,
 l' inverno avrebbe un mese d' un sol dì.
 E come surge, e va, ed entra in ballo 103

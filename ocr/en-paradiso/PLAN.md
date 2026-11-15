@@ -24,7 +24,8 @@ is written; the base of the trial's pages (`012`–`036`) is done by agy, and th
 user). The base of all the other pages is done by agy in two runs, and step 2 (the
 conversion and the mechanical checks) is done (DONE.md). GLM-OCR has run over all the
 pages, and step 4 (the comparison) is done: 16 errors of the base, 15 misprints marked
-(DONE.md). Next: step 5, the read-through.
+(DONE.md). Step 5 (the read-through) is done: 4 misreadings, 38 misprints marked
+(DONE.md). Next: step 6, the figures.
 
 ## The text
 
@@ -125,6 +126,8 @@ The edition's readings found in the steps go here, and are applied, not asked ag
   spaced it (trial, `020`, `023`, `035`).
 - **The colon in citations**, printed spaced, is written `N: N` (`Conv.` iii. 14: 29-50),
   as in `en-purgatorio`; the base wrote it so throughout the trial.
+- **Elisions set close and `’t is` spaced** are kept as printed (`fe'da`, `ch'udir`),
+  as in `en-purgatorio` (step 5).
 - **The Italian as printed**, not as the standard text: the base had made ten forms
   the standard ones (`servizio` for the printed `servigio`, `Gesù` for `Jesù`, a colon
   for a semicolon; step 4). A form that differs from the standard text is checked in the

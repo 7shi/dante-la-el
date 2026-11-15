@@ -23,7 +23,7 @@ whom Jupiter wooed in the form of a swan.
 138 can only mean “the Sun”; and since he is the
 “father of each mortal life” (xxii. 116), and since
 man is “begotten by man and by the sun” (Compare
-*De Monarchia*, i. 9: 6,7), we are perhaps right in taking
+*De Monarchia*, i. 9: 6, 7), we are perhaps right in taking
 his “fair daughter” to be *Humanity*.
 
 142, 143. The Julian calendar (which we rectified
@@ -32,7 +32,7 @@ one hundredth of a day) too long. In Dante’s time,
 therefore, January began, by calendar, a little later in
 the real year every season; and thus, in the course of
 ages, it would begin so late that winter would really
-be over before we came to New Year’s Day by calendar
+be over before we came to New Year’s Day by {{calendar|calendar.}}
 The substitution of an immense period for a short
 one is parallel to our “not a thousand miles hence.”
 
