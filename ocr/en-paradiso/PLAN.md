@@ -24,7 +24,7 @@ is written; the base of the trial's pages (`012`–`036`) is done by agy, and th
 user). The base of all the other pages is done by agy in two runs, and step 2 (the
 conversion and the mechanical checks) is done (DONE.md). GLM-OCR has run over all the
 pages, and step 4 (the comparison) is done: 16 errors of the base, 15 misprints marked
-(DONE.md). Step 5 (the read-through) is done: 4 misreadings, 38 misprints marked
+(DONE.md). Step 5 (the read-through) is done: 4 misreadings, 39 misprints marked
 (DONE.md). Next: step 6, the figures.
 
 ## The text

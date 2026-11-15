@@ -16,7 +16,7 @@ page	line	form	decision	note
 073	45	{{Repnblic|Republic}}	misprint	step 4; agy's uncertain place; the base had it as printed, unmarked
 074	15	fe'da	printed	step 5; Canto VI 58; the elision set close, the edition's way
 081	13	{{Ostragoths|Ostrogoths}}	misprint	step 5; Canto VI, notes, 25
-083	12	*l.* 6	printed	step 5; Lucan's Troad; perhaps `l. 67` (Antandros, line 67), not sure: undecided
+083	12	*l.* 6	printed	step 5; Lucan's Troad (lines 67-68), referred to line 6, the mountains whence the eagle came: right
 098	26	R.Rhone	misread	step 5; the map's label, printed as the one above it; was `R. Rhône`
 107	11	’t is	printed	step 5; spaced, printed so (also `’t will` on 381)
 110	12	it ” *Averroes.*	printed	step 5; no stop before the closing quote, printed so
@@ -51,7 +51,7 @@ page	line	form	decision	note
 208	13	{{Aberichi|Alberichi}}	misprint	step 5; Canto XVI 89; the English has `Alberichi`
 209	36	{{aud|and}}	misprint	step 5; Canto XVI, the English; a turned `n`
 210	32	{{comforti|conforti}}	misprint	step 5; Canto XVI 141 `per gli altrui conforti`
-211	18	**The Pere gate**	printed	step 5; the label printed so; `Pera` in the Italian: undecided
+211	18	**The {{Pere|Pera}} gate**	misprint	step 5; Canto XVI, a label; `Pera` in the Italian, the English, the notes and the map; the user
 211	32	afasting	printed	step 5; printed so
 213	34	{{43-45,|43-45.}}	misprint	step 4; the base had the fixed form unmarked (`43-45.`)
 214	47	Sinigalia	printed	step 5; printed so (the Italian `Sinigaglia`)
@@ -64,7 +64,12 @@ page	line	form	decision	note
 248	53	{{1302|1302.}}	misprint	step 4; agy's uncertain place; the base had it as printed, unmarked
 249	43	{{i|1}}	misprint	step 5; Canto XIX, notes, 142 (`Compare ix. 1, note.`); an `i` for the `1`
 250	1	240	misread	step 2; the page number, printed sideways at the left edge; was `§` at the foot
-250	13	1296-1336	printed	step 5; printed so; Table IV (253) has `1295-1336`: undecided
+250	3	*Paradise XIX.*	misread	step 5; the base had `Paradiso` (the English is printed)
+250	3	**Thick letters**	misread	step 5; the thick letters (persons named in Par. xix.) written plain by the base; bold, in the image (also `James`, `Frederick`)
+250	13	1296-1336	printed	step 5; printed so; Table IV (253) has `1295-1336`: both current (proclaimed king 11 December 1295, crowned 25 March 1296), kept (the user)
+251	6	**Albert**	misread	step 5; the thick letters (persons named in Par. xix.) written plain by the base; bold, in the image (also `Wencislas IV`, `Andrew III`, `Urosius II`)
+252	10	**Edward I**	misread	step 5; the thick letters (persons named in Par. xix.) written plain by the base; bold, in the image (also `Joanna`, `Philip the Fair`, `Hakon VI`)
+253	7	**James**	misread	step 5; the thick letters (persons named in Par. xix.) written plain by the base; bold, in the image (also `James`, `Frederick`, `Denis`, `Henry II`, `Ferdinand IV`; the wives on this page are inked heavier but in the text size, plain as in Table I)
 266	14	{{(19-42),|(19-42).}}	misprint	step 5; Canto XXI, the argument; a comma before the new sentence (`Dante addresses`)
 270	8	{{domando”|domando.”}}	misprint	step 4; agy's uncertain place; the base had it as printed, unmarked
 272	29	{{assuma”|assuma.”}}	misprint	step 4; agy's uncertain place; the base had it as printed, unmarked
@@ -87,7 +92,7 @@ page	line	form	decision	note
 334	47	{{dispute|dispute.}}	misprint	step 5; Canto XXVI, notes, 106-108; no period before the next sentence
 336	35	{{se'|s'}}	misprint	step 5; Canto XXVII 14 `s' egli e Marte`
 337	14	{{(121-138)|(121-138).}}	misprint	step 5; Canto XXVII, the argument; no period before the next sentence
-337	19	month!	printed	step 5; printed so: undecided
+337	19	month!	printed	step 5; printed so; an exclamation within the sentence, the next word lower case, as the usage of the time allows: kept (the user)
 340	33	{{chi'|ch'}}	misprint	step 5; Canto XXVII 79 `Dall' ora ch' io avea guardato prima`
 346	20	{{family|family.}}	misprint	step 5; Canto XXVII, notes, 49-51; no period before `Compare`
 347	26	6, 7	misread	step 5; Canto XXVII, notes; spaced as printed; was `6,7`
