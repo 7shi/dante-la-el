@@ -73,12 +73,18 @@ leaf, the leaf is supplied from another copy of the same printing.
   - In `en-oelsner` these searches came at the end and found what the batches had
     missed; they belong at the start.
 
-### 2. Retype and compare: where most errors are found
+### 2. Compare: where most errors are found
 
-- Retype every page from the image alone, without showing the base. Claude itself,
-  reading each page in strips at twice the size, erred least (0–3 places in 25 pages).
-- Align the base, the retype and Tesseract word by word, and decide each difference in
-  the image. In `en-oelsner`, 401 of the 435 misreadings were found here.
+- Align the base with the other readings (Tesseract, GLM-OCR, Internet Archive) word by
+  word, and decide each difference in the image. In `en-purgatorio`, a base from a strong
+  model checked this way had 21 errors in 449 pages (2 in the trial of 25, 19 in the
+  rest).
+- **No retype as a rule.** Retyping every page from the image alone was a transitional
+  step, needed while the base was an existing OCR of doubtful quality (`ocr/la`, `ocr/en`,
+  `ocr/grc`, `en-oelsner`, made or proofread by older models). Retype only in that case:
+  then Claude itself, reading each page in strips at twice the size, erred least (0–3
+  places in 25 pages), and in `en-oelsner` 401 of the 435 misreadings were found by
+  comparing the base, the retype and Tesseract.
 - Work in batches of 25 pages; after each, compare the converter's report with the
   baseline.
 - Read small marks (accents, breathings) at eight to twelve times their size, beside a
@@ -113,7 +119,8 @@ leaf, the leaf is supplied from another copy of the same printing.
 - **Relying on a fourth reading (GLM-OCR and the like).** It normalized and repeated
   text, and its vote alone decided nothing. It is cheap to run, so it can be kept as a
   vote, but nothing is decided by it without the image.
-- **Whole-page retypes by weaker models.** Their errors only add places to compare.
+- **Whole-page retypes**, when the base is from a strong model (step 2). By weaker
+  models, never: their errors only add places to compare.
 - **Waiting for approval between batches, and commits in the middle.**
 
 ## Decided in advance
