@@ -1,6 +1,6 @@
 400 PURGATORIO
 
-**Paradiso Terrestre** Cosi cantando cominciaro; e poi 112
+**Paradiso Terrestre** Così cantando cominciaro; e poi 112
 al petto del grifon seco menarmi,
 ove Beatrice volta stava a noi.
 Disser: “Fa che le viste non risparmi; 115
@@ -23,7 +23,7 @@ negli atti, l' altre tre si fero avanti,
 danzando al loro angelico caribo.
 “Volgi, Beatrice, volgi gli occhi santi,” 133
 era la lor canzone, “al tuo fedele
-che, per verderti, ha mossi passi tanti.
+che, per {{verderti|vederti}}, ha mossi passi tanti.
 Per grazia fa noi grazia che disvele 136
 a lui la bocca tua, sì che discerna
 la seconda bellezza che tu cele.”

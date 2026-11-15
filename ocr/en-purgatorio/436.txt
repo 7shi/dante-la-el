@@ -9,7 +9,7 @@ segnato è or da voi lo mio cervello.
 Ma perchè tanto sopra mia veduta 82
 vostra parola disiata vola,
 che più la perde quanto più s' aiuta?”
-“Perchè conoschi,” disse, “quella scuola 35
+“Perchè conoschi,” disse, “quella scuola {{35|85}}
 ch' hai seguitata, e veggi sua dottrina
 come può seguitar la mia parola;
 e veggi vostra via dalla divina 88

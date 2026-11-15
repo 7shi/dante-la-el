@@ -1,7 +1,7 @@
 342 PURGATORIO
 
 **Salita al Paradiso Terrestre** le tenebre fuggian da tutti i lati, 112
-e il sonno mio con essse; ond' io leva' mi,
+e il sonno mio con {{essse|esse}}; ond' io leva' mi,
 veggendo i gran maestri già levati.
 “Quel dolce pome, che per tanti rami 115
 cercando va la cura dei mortali,

@@ -1,5 +1,73 @@
 page	line	printed	fixed	applied	source	note
 020	8	tu	fu	yes	edition	Canto I 89 `che fatta fu`; the letter is printed as a `t` (4x crop), and every reading has `tu`; found by the trial check.
+046	23	103-145	103-145.	yes	edition	Canto III, the note number; no period printed; found by the read-through.
+083	28	133-135	133-135;	yes	edition	Canto V, `Purg. iv. 133-135 xi. 33`; no semicolon between the references; found by the read-through.
+112	29	sermone.	sermone,	yes	dante	Canto VIII 138; the sentence goes on (`se corso di giudizio non s' arresta`); found by the read-through.
+114	43	xxiv	xxiv.	yes	edition	Canto VIII, notes; `Inf. xxiv 143-150`, no period after the canto; found by the read-through.
+120	33	più	più e più	yes	dante	Canto IX 79 `E come l' occhio più e più v' apersi`; the line printed short; found by the read-through.
+124	33	146	145	yes	edition	Canto IX, the tercet number of the last line (the canto has 145 lines); found by the read-through.
+134	3	Girone	Girone I	yes	edition	Canto X 85, the label; `Girone I` on the pages around; found by the read-through.
+168	3	Girone I	Girone II	yes	edition	Canto XIII 76, the label; `Girone II` on the pages around; found by the read-through.
+170	35	motte	motto	yes	dante	Canto XIII 141, rhyming with `sotto`, `condotto`; found by the read-through.
+188	35	Frederico	Federico	yes	edition	Canto XIV, notes; `Federico Tignoso` in the verse and the English (182, 183); found by the read-through.
+192	27	irone	Girone	yes	edition	Canto XV 40, the label `Salita al Girone III`; the G not printed; found by the read-through.
+194	7	torcessse	torcesse	yes	dante	Canto XV 53; found by the read-through.
+197	28	Pisistratus.	Pisistratus.”	yes	edition	Canto XV, the English; the closing quote of the mother's words not printed; found by the read-through.
+204	8	Guarda	“Guarda	yes	edition	Canto XVI 15; the opening quote of Virgil's words not printed (the closing one is); found by the read-through.
+241	5	(76-87)	(76-87).	yes	edition	Canto XIX, the argument; no period before `It is Pope Adrian V.`; found by the read-through.
+244	6	' ali	l' ali	yes	dante	Canto XIX 46 `Con l' ali aperte`; the `l` not printed (`Con ’ ali`); found by the read-through.
+247	28	woulds	wouldst	yes	edition	Canto XIX, the English; found by the read-through.
+248	34	piauger	pianger	yes	dante	Canto XIX 140; the `n` printed as a `u`; found by the read-through.
+265	22	Lonis	Louis	yes	edition	Canto XX, notes; the `u` printed as an `n`; found by the read-through.
+272	21	sirrocchia	sirocchia	yes	dante	Canto XXI 28; found by the read-through.
+272	24	3	31	yes	edition	Canto XXI, the tercet number of verse 31 printed without the `1`; found by the read-through.
+280	18	cf	cf.	yes	edition	Canto XXI, notes; `cf Par. vi. 92`, no period after `cf`; found by the read-through.
+287	41	outlineI	outline I	yes	edition	Canto XXII, the English; no space printed between `outline` and `I`; found by the read-through.
+290	9	117	118	yes	edition	Canto XXII, the tercet number of verse 118 (`e già le quattro ancelle`); found by the read-through.
+295	13	came	come	yes	edition	Canto XXII, notes; `had not her sons came to the rescue`; found by the read-through.
+306	7	will of God	will of God.	yes	edition	Canto XXIII, notes; the note ends without a period; found by the read-through.
+307	24	112-126	112-126.	yes	edition	Canto XXIII, notes; the note ends without a period; found by the read-through.
+319	32	correct.	correct,	yes	edition	Canto XXIV, notes; `is correct. and that the lady`; found by the read-through.
+322	25	embriology	embryology	yes	edition	Canto XXV, the argument; found by the read-through.
+322	27	posseses	possesses	yes	edition	Canto XXV, the argument; found by the read-through.
+332	51	(Averroës)	(Averroës).	yes	edition	Canto XXV, notes; the note ends without a period; found by the read-through.
+333	49	Arcas.	Arcas,	yes	edition	Canto XXV, notes; `pursued by Arcas. when Jupiter`; found by the read-through.
+338	25	ricomincio	ricominciò	yes	dante	Canto XXVI 74; the accent not printed (crop at 7x); found by the read-through.
+339	12	wherefor	wherefore	yes	edition	Canto XXVI, the English; found by the read-through.
+341	23	 I		yes	edition	Canto XXVI, the English; `pondering I` / `I went`, the `I` printed twice across the line; found by the read-through.
 344	43	Hermaphoditus	Hermaphroditus	yes	edition	note to Canto XXVI 82-87; printed without the `r`, read by Tesseract, GLM-OCR and IA.
+348	21	giu	giù	yes	dante	Canto XXVII 31; the accent not printed (`pon giù` later in the line); found by the read-through.
+348	30	là	la	yes	dante	Canto XXVII 40 `così la mia durezza`; found by the read-through.
+354	4	essse	esse	yes	dante	Canto XXVII 113; found by the read-through.
+356	33	himself	himself.	yes	edition	Canto XXVII, notes; `stabbed himself Thisbe returned`; found by the read-through.
+356	38	erescit	erexit	yes	other	Ovid, Met. iv. 146 `Pyramus erexit`; found by the read-through.
+358	14	Conv	Conv.	yes	edition	Canto XXVII, notes; `Conv iv. 12`; found by the read-through.
+364	10	se,	sè,	yes	dante	Canto XXVIII 54 `intra sè`; no accent printed (crop at 4x); found by the read-through.
+365	23	tnere	there	yes	edition	Canto XXVIII, the English; found by the read-through.
+365	45	humanrace	human race	yes	edition	Canto XXVIII, the English; no space printed; found by the read-through.
+373	17	139-144	139-144.	yes	edition	Canto XXVIII, notes; no period after the note number; found by the read-through.
+378	3	si presso	sì presso	yes	dante	Canto XXIX 46; printed `si` with its dot (crop at 7x); found by the read-through.
+380	15	n ciel	in ciel	yes	dante	Canto XXIX 91 `sì come luce luce in ciel seconda`; the `i` not printed; found by the read-through.
+380	18	93	94	yes	edition	Canto XXIX, the tercet number of verse 94 (`Ognuno era pennuto`); found by the read-through.
+386	26	Tne	The	yes	edition	Canto XXIX, notes; found by the read-through.
+390	34	appresso	appresso.	yes	dante	Canto XXX 12; the tercet ends without a stop; found by the read-through.
+394	18	appario	apparìo	yes	dante	Canto XXX 64; printed `appario` with the dot (crop at 7x); found by the read-through.
 395	44	pitv	pity	yes	edition	Canto XXX, the English (last tercet of the page); the `y` printed as a `v` (crop); read so by Tesseract, GLM-OCR and IA.
+402	5	delights)	delights”)	yes	edition	Canto XXX, notes; the closing quote of `“the enamoured spirits ...` not printed; found by the read-through.
+402	13	fourages	four ages	yes	edition	Canto XXX, notes; no space printed; found by the read-through.
+410	33	Menrenti	Merrenti	yes	dante	Canto XXXI 109; the `r` printed as an `n`; found by the read-through.
+411	13	to me	to me.	yes	edition	Canto XXXI, the English; the tercet ends without a period (`So much remorse` begins the next); found by the read-through.
+412	26	verderti	vederti	yes	dante	Canto XXXI 135; found by the read-through.
+414	4	of of	of	yes	edition	Canto XXXI, notes; `of` printed twice; found by the read-through.
+415	3	xxx,	xxx.	yes	edition	Canto XXXI, notes; `Par. xxx, 114`; found by the read-through.
+415	40	106-111)	106-111).	yes	edition	Canto XXXI, notes; the note ends without a period; found by the read-through.
+421	29	feel	fell	yes	edition	Canto XXXII, the English (`addormentai`); found by the read-through.
+426	17	xxx,	xxx.	yes	edition	Canto XXXII, notes; `Canto xxx, 121-125`; found by the read-through.
+428	30	beatudinem	beatitudinem	yes	other	De Mon. iii. 15 `beatitudinem huius vite`; found by the read-through.
+436	12	35	85	yes	edition	Canto XXXIII, the tercet number of verse 85 (`Perchè conoschi`); found by the read-through.
+443	33	*sqq*,	*sqq*.	yes	edition	Canto XXXIII, notes; the last note ends with a comma; found by the read-through.
 447	16	Belaqua	Belacqua	yes	edition	Chronology; `Belacqua` elsewhere in the book (Canto IV, the label `Dante and Belacqua`).
+447	22	43)	43).	yes	edition	Chronology; `(vii. 43) At sunset`; found by the read-through.
+447	27	viii	viii.	yes	edition	Chronology; `(viii 43-51)`; found by the read-through.
+448	34	76-81)	76-81).	yes	edition	Chronology; `(xviii. 76-81) Before dawn`; found by the read-through.
+449	25	P	P.	yes	edition	Translator's Note, the signature `P H. W.`; found by the read-through.

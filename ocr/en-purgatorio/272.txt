@@ -18,10 +18,10 @@ ben vedrai che coi buon convien ch' ei regni.
 Ma perchè lei che dì e notte fila 25
 non gli avea tratta ancora la conocchia,
 che Cloto impone a ciascuno e compila,
-l' anima sua, ch' è tua e mia sirrocchia, 28
+l' anima sua, ch' è tua e mia {{sirrocchia|sirocchia}}, 28
 venendo su, non potea venir sola,
 però ch' al nostro modo non adocchia:
-ond' io fui tratto fuor dell' ampia gola 3
+ond' io fui tratto fuor dell' ampia gola {{3|31}}
 d' inferno, per mostrargli, e mostrerolli
 oltre, quanto il potrà menar mia scuola.
 Ma dinne, se tu sai, perchè tai crolli 34

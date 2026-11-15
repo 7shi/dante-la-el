@@ -19,12 +19,12 @@ poets are almost on the due east portion of the
 mountain, it is not long ere the sun disappears behind
 the hill (vi. 51). So Dante casts no shadow, and is
 not recognized as a living man by Sordello, with whom
-Virgil converses till day is declining (vii. 43) At
+Virgil converses till day is declining (vii. {{43)|43).}} At
 sunset the souls in the valley of the kings sing their
 evening hymn (viii. 1-18); very soon after which the
 poets descend (descent being possible after sunset,
 though they could not have ascended, *cf.* vii. 58, 59)
-into the valley, as twilight deepens (viii 43-51).
+into the valley, as twilight deepens ({{viii|viii.}} 43-51).
 Taking the moment of full moon to have been at
 sunrise on the Friday morning, it is now 3 × 24 hours
 since full moon, and the retardation of the moon is

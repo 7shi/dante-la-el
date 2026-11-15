@@ -25,7 +25,7 @@ whose name was so great strife among the gods,
 and whence all knowledge sparkles,
 
 avenge thee of those daring arms which embraced
-our daughter, O Pisistratus. And the lord
+our daughter, O {{Pisistratus.|Pisistratus.”}} And the lord
 seemed to me kindly and gently
 
 to answer her with placid mien: “What shall we

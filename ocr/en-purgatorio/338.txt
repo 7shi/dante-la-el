@@ -22,7 +22,7 @@ che ciascun' ombra fece in sua paruta; 70
 ma poichè furon di stupore scarche,
 lo qual negli alti cor tosto s' attuta,
 “Beato te, che delle nostre marche,” 73
-ricomincio colei che pria m' inchiese,
+{{ricomincio|ricominciò}} colei che pria m' inchiese,
 “per viver meglio, esperienza inbarche!
 La gente che non vien con noi offese 76
 di ciò per che già Cesar, trionfando,

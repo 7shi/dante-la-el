@@ -30,7 +30,7 @@ udir in voce mista al dolce suono.
 Tale imagine appunto mi rendea 142
 ciò ch' io udiva, qual prender si suole
 quando a cantar con organi si stea:
-che or sì or no s' intendon le parole. 146
+che or sì or no s' intendon le parole. {{146|145}}
 
 1-9. Dante never distinguishes between the signs
 and the constellations of the Zodiac; that is to say,

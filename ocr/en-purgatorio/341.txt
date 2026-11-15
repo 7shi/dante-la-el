@@ -20,7 +20,7 @@ when I hear name himself the father of me, and
 of others my betters, who ever used sweet and
 graceful rhymes of love;
 
-and without hearing and speaking, pondering I
+and without hearing and speaking, pondering{{ I|}}
 I went, long time gazing at him, nor because
 of the fire drew I nigher thither.
 

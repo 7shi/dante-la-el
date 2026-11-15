@@ -15,7 +15,7 @@ per gli altri legni, ed a ben far la incuora,
 in su la sponda del carro sinistra, 61
 quando mi volsi al suon del nome mio,
 che di necessità qui si regista,
-vidi la donna, che pria m' appario 64
+vidi la donna, che pria m' {{appario|apparìo}} 64
 velata sotto l' angelica festa,
 drizzar gli occhi ver me di qua dal rio.
 Tutto che il vel che le scendea di testa, 67

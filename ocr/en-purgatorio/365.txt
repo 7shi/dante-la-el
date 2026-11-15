@@ -20,7 +20,7 @@ and made my prayers satisfied, drawing so near
 that the sweet sound reached me with its
 meaning
 
-Soon as she was tnere, where the grass is already
+Soon as she was {{tnere|there}}, where the grass is already
 bathed by the waves of the fair river, she
 vouchsafed to raise her eyes to me.
 
@@ -42,5 +42,6 @@ that did from me, because it opened not then.
 
 “New-comers are ye,” she began, “and per-
 chance, because I am smiling in this place,
-chosen for nest of the humanrace,
+chosen for nest of the {{humanrace|human race}},
+
 Z

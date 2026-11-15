@@ -12,10 +12,10 @@ sieno in eterno le bellezze tue.”
 Poscia che i fiori e l' altre fresche erbette, 88
 a rimpetto di me dall' altra sponda,
 libere fur da quelle genti elette,
-sì come luce luce n ciel seconda, 91
+sì come luce luce {{n ciel|in ciel}} seconda, 91
 vennero appresso lor quattro animali,
 coronato ciascun di verde fronda.
-Ognuno era pennuto di sei ali, 93
+Ognuno era pennuto di sei ali, {{93|94}}
 le penne piene d' occhi; e gli occhi d' Argo,
 se fosser vivi, sarebber cotali.
 A descriver lor forme più non spargo 97

@@ -31,8 +31,9 @@ venuta prima tra il grifone ed esso,
 al carro volse sè, come a sua pace;
 ed un di loro, quasi da ciel messo, 10
 “*Veni, sponsa, de Libano*” cantando
-gridò tre volte, e tutti gli altri appresso
+gridò tre volte, e tutti gli altri {{appresso|appresso.}}
 Quali i beati al novissimo bando 13
 surgeran presti ognun di sua caverna,
 la rivestita voce alleluiando,
+
 378

@@ -30,12 +30,12 @@ which she fled, dropping a garment in her haste.
 This the beast stained with blood, having just devoured
 an ox. When Pyramus came up and saw it on the
 ground, he thought that Thisbe was dead and stabbed
-himself Thisbe returned just in time to see her
+{{himself|himself.}} Thisbe returned just in time to see her
 lover die and then slew herself too; whereupon the
 colour of the mulberries changed from white to red.
 Dante knew the story from Ovid, *Met.* iv. 55-166,
 and refers here specially to *vv.* 145, 146: *Ad nomen*
-*Thisbes oculos jam morte gravatos Pyramus erescit, visaque*
+*Thisbes oculos jam morte gravatos Pyramus {{erescit|erexit}}, visaque*
 *recondidit illa.* See below, Canto xxxiii. 69, and *cf. De*
 *Mon.* ii. 9: 30-34.
 

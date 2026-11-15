@@ -38,7 +38,7 @@ new progeny descends from heaven.’
 
 Through thee I was a poet, through thee a
 Christian, but that thou mayst see better what
-I outlineI will put forth my hand to fill in colour.
+I {{outlineI|outline I}} will put forth my hand to fill in colour.
 
 Already the whole world was big with the true
 belief, sown by the apostles of the everlasting

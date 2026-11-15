@@ -3,7 +3,7 @@
 **Salita al Girone V** quand' io udi': “Venite, qui si varca,” 43
 parlare in modo soave e benigno,
 qual non si sente in questa mortal marca.
-Con 'ali aperte che parean di cigno, 46
+Con {{' ali|l' ali}} aperte che parean di cigno, 46
 volseci in su colui che sì parlonne,
 tra' due pareti del duro macigno.
 Mosse le penne poi e ventilonne, 49

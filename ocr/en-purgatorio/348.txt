@@ -18,7 +18,7 @@ non ti potrebbe far d' un capel calvo;
 e se tu credi forse ch' io t' inganni, 28
 fatti ver lei, e fatti far credenza
 con le tue mani al lembo de' tuoi panni.
-Pon giu omai, pon giù ogni temenza; 31
+Pon {{giu|giù}} omai, pon giù ogni temenza; 31
 volgiti in qua, e vieni oltre sicuro.”
 Ed io pur fermo e contro a coscienza.
 Quando mi vide star pur fermo e duro, 34
@@ -27,7 +27,7 @@ tra Beatrice e te è questo muro.”
 Come al nome di Tisbe aperse il ciglio 37
 Piramo in su la morte, e riguardolla,
 allor che il gelso diventò vermiglio:
-così, là mia durezza fatta solla, 40
+così, {{là|la}} mia durezza fatta solla, 40
 mi volsi al savio duca, udendo il nome
 che nella mente sempre mi rampolla.
 Ond' ei crollò la testa e disse: “Come? 43

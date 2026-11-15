@@ -22,9 +22,9 @@ Aristotle’s doctrine which none save Christian philo-
 sophers have had vision clear enough truly to expound
 (22-30). Statius, after a polite disclaimer, proceeds to
 expound the Aristotelian doctrines of generation and
-embriology, showing how the human fœtus passes
+{{embriology|embryology}}, showing how the human fœtus passes
 through every stage, differing only from the lower
-forms of plant, polype, or animal, in that it posseses the
+forms of plant, polype, or animal, in that it {{posseses|possesses}} the
 potentiality of further development; whereas they
 have reached their goal (31-60). At the critical
 
@@ -34,4 +34,5 @@ lasciato al Tauro e la notte allo Scorpio.
 Per che, come fa l' uom che non s' affigge, 4
 ma vassi alla via sua, checchè gli appaia,
 se di bisogno stimolo il trafigge:
+
 310

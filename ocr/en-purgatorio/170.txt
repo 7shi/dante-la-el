@@ -32,4 +32,4 @@ l' anima mia, del tormento di sotto,
 che già lo incarco di laggiù mi pesa.”
 Ed ella a me: “Chi t' ha dunque condotto 139
 quassù tra noi, se giù ritornar credi?”
-Ed io: “Costui ch' è meco, e non fa motte:
+Ed io: “Costui ch' è meco, e non fa {{motte|motto}}:

@@ -2,7 +2,7 @@
 
 no room for ambiguity: *Gli spirti innamorati cui diletta*
 *Questa lor nova vita* (“the enamoured spirits, whom
-this new life of theirs delights).
+this new life of theirs {{delights)|delights”)}}.
 
 121-123. For sixteen years, from 1274, the year in
 which Dante first met Beatrice, till 1290, the year of
@@ -10,7 +10,7 @@ her death.
 
 124-125. Beatrice was twenty-five years old when
 she died—a period that covers the first of Dante’s
-fourages. “The first is called Adolescence, that is
+{{fourages|four ages}}. “The first is called Adolescence, that is
 the growth of life. . . . Of the first no one doubts,
 but each wise man agrees that it lasts even to the
 twenty-fifth year; and up to that time our soul waits

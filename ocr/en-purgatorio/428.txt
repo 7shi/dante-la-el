@@ -27,7 +27,7 @@ Church (the *plaustro* of *v.* 95).
 
 100. Mr Butler holds that *qui* “signifies ‘in this
 world,’ denoted by the Earthly Paradise”; and he
-quotes (from the *De Mon.* iii. 15: 45-47): *beatudinem*
+quotes (from the *De Mon.* iii. 15: 45-47): *{{beatudinem|beatitudinem}}*
 . . . *hujus vitæ, quæ* . . . *per terrestrem Paradisum*
 *figuratur.*
 

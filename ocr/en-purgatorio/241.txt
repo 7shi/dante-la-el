@@ -2,7 +2,7 @@
 
 mount wherein sins are purged by which they them-
 selves are unstained. He silently asks Virgil’s leave to
-stay and question the soul that has spoken (76-87)
+stay and question the soul that has spoken {{(76-87)|(76-87).}}
 It is Pope Adrian V. who for little over a month bore
 the weight of the papal mantle, scarce tolerable to him
 who would keep it from defilement; and in answer to
@@ -34,4 +34,5 @@ which short time remains dark to it,
 **Dante dreams of the Siren** there came to me in a dream, a stuttering woman,
 with eyes asquint, and crooked on her feet,
 with maimed hands, and of sallow hue.
+
 229

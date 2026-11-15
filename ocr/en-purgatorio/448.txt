@@ -31,7 +31,7 @@ are occupied by Virgil’s discourse, which ends towards
 midnight, when the moon, which rose at 9.28, a good
 way south of east, now first appears due east, or a
 trifle north of due east, from behind the mountain
-(xviii. 76-81) Before dawn (xix. 1-6) on what we
+(xviii. {{76-81)|76-81).}} Before dawn (xix. 1-6) on what we
 may call Wednesday, Dante has his vision of the Siren,
 and it is full daylight when he wakes. They still
 travel due, or nearly due, west, with the newly risen

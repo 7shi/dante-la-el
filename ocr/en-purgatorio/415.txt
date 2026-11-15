@@ -1,6 +1,6 @@
 CANTO XXXI 403
 
-28: 5-10; *Purg.* xx. 68, 69; xxi. 44; *Par.* xxx, 114
+28: 5-10; *Purg.* xx. 68, 69; xxi. 44; *Par.* {{xxx,|xxx.}} 114
 —all indicating that the soul comes from heaven.
 From the assertion that the ascent to heaven at death
 is a *return*, it is but a very small step to describe the
@@ -37,4 +37,4 @@ commentary to the words *Dico negli occhi e nel*
 *seconda bellezza*, to which the theological virtues are
 now leading Dante, is the *smile* of Beatrice; the car-
 dinal virtues having guided him to her *eyes* (see above,
-*vv.* 106-111)
+*vv.* {{106-111)|106-111).}}
