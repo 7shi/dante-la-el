@@ -1,7 +1,7 @@
 # Guide: checking an OCR transcription by the shortest path
 
-General lessons from the checks of `ocr/la`, `ocr/en`, `ocr/grc`, `ocr/en-oelsner` and
-`ocr/en-purgatorio` (their SUMMARY.md files), for a new project. The flow the older checks
+General lessons from the checks of `ocr/la`, `ocr/en`, `ocr/grc`, `ocr/en-oelsner`,
+`ocr/en-purgatorio` and `ocr/en-paradiso` (their SUMMARY.md files), for a new project. The flow the older checks
 followed in detail is [PLAN.md](PLAN.md); the steps below are the standard flow, as
 `en-purgatorio` ran it from the scan to the converted text in one day
 ([en-purgatorio/PLAN.md](en-purgatorio/PLAN.md), [DONE.md](en-purgatorio/DONE.md)).
@@ -135,7 +135,12 @@ OCR's leaves.
   with the baseline.
 - Read small marks (accents, breathings) at eight to twelve times their size, beside a
   sure example of the same type.
-- Read maps and tables name by name, not by line order.
+- Read maps and tables name by name, not by line order, and for their type as well:
+  in `en-paradiso` the thick letters that mark the persons of a canto in the tables
+  were lost by every reading.
+- A strong base still makes the edition's forms the standard ones: in `en-paradiso` 10
+  of the 16 errors the comparison found, and even the English `Paradise` in a table's
+  head made `Paradiso`.
 
 ### 5. Read-through for sense: once
 
@@ -161,6 +166,11 @@ OCR's leaves.
   together, in the image; the decision goes into "Settled readings".
 - The converter's own faults (joins across pages and lines) also show in its output;
   fix the converter, not `ocr/`.
+- After the read-through, set the verse against the standard text word by word and list
+  the words that differ by a letter or two and are rare in the edition's own verse; decide
+  them in the image. Almost all are the edition's readings, but in `en-paradiso` the list
+  found two misprints that every reading and the read-through had passed, both in the
+  first line of a canto. The standard text only points; it decides nothing.
 
 ### 6. Figures
 

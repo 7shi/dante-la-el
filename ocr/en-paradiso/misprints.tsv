@@ -29,6 +29,7 @@ page	line	printed	fixed	applied	source	note
 270	8	domando”	domando.”	yes	dante	Canto XXI 48; the stop not printed before the closing quote (a gap); found by the comparison (agy's report).
 272	29	assuma”	assuma.”	yes	dante	Canto XXI 102; the stop not printed before the closing quote (a gap); found by the comparison (agy's report).
 275	44	them	them-	yes	edition	Canto XXI, the English (`them-` / `selves`); no hyphen printed at the line end; found by the comparison (agy's report).
+278	25	Oppreso	Oppresso	yes	dante	Canto XXII 1; found by the comparison of the Italian with the standard text (step 7).
 289	4	therewas	there was	yes	edition	Canto XXII, the English; no space printed; found by the read-through.
 298	5	appariva	appariva.	yes	dante	Canto XXIII 117; the tercet and sentence end without a stop; found by the read-through.
 298	36	*note*	*note*.	yes	edition	Canto XXIII, notes, 19-21; no period at the end of the note; found by the read-through.
@@ -47,6 +48,7 @@ page	line	printed	fixed	applied	source	note
 380	24	giù	già	yes	dante	Canto XXX 136 `che fia già agosta`; the `u` is clear (4x crop); found by the comparison.
 380	33	sara	sarà	yes	dante	Canto XXX 145; the accent not printed; found by the read-through.
 382	9	jar.	jar.”	yes	edition	Canto XXX, notes, 79-81; the quote opened (`“repellent to the mind`) is not closed; found by the read-through.
+396	17	comtemplante	contemplante	yes	dante	Canto XXXII 1; found by the comparison of the Italian with the standard text (step 7).
 409	32	(106-145)	(106-145).	yes	edition	Canto XXXIII, the argument; no period at the end; found by the read-through.
 418	3	Empir	Empireo	yes	edition	Canto XXXIII, the marginal label (`Empireo` on every other page); found by the read-through.
 422	44	see	(see	yes	edition	Note on Dante's Paradise; the bracket closed (`130-132),`) but not opened; found by the read-through.

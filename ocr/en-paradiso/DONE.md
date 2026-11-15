@@ -173,3 +173,38 @@ decided in the image, by crops of its line.
 - The map labels (`099`, `217`) are left to the figures (step 6).
 - The converter's report: the line `HYPHEN 070: Ghibil-line` is gone (the mark joins it);
   otherwise unchanged. The *Inferno*'s and the *Purgatorio*'s output not touched.
+
+## Step 6: the figures (2026-11-15)
+
+- **The boxes** of the twelve figures (2 diagrams, 10 maps) in
+  `crop_en_oelsner_images.py` (`PARADISO`): found from the ink of each page (a speck
+  left out where it widened a box), each figure with its labels and without its caption
+  and the map numbers `I`, `II` printed above the two retrospects; checked in a contact
+  sheet. `uv run texts/scripts/crop_en_oelsner_images.py paradiso` writes
+  `texts/en-paradiso/images/` (`022`, `069`, `098`, `099`, `110`, `111`, `125`, `151`,
+  `201`, `217`, `406`, `407`); every image the Markdown links to is there.
+- **The map labels** left from the read-through, read in enlarged crops: `099` `R.Tronto`
+  printed close, as `R.Rhone` on `098`; on `217` `SANNELLA` (set along a street and
+  crossed by it; the base had `SANTHELLA`) and `CIUFFAGNI` (the base had `GIUFFAGNI`), as
+  the text names them, and a line `ER` removed, the end of the upper `? ALIGHIERI`
+  written again apart.
+- The tables (`250`–`253`, `383`) stay text.
+- The *Inferno*'s and the *Purgatorio*'s images cut again into a scratch directory: the
+  same byte for byte. The converter's report unchanged.
+
+## Step 7: close (2026-11-15)
+
+- **The Italian against the standard text**, word by word (dante-corpus; a list, not a
+  check: each place decided in the image): the words that differ by a letter or two and
+  occur at most twice in the Italian of the three volumes, about 300, almost all the
+  edition's readings (`diliberarti`, `satisfare`, the diaeresis not printed). Two
+  misprints the read-through had passed, both the first line of a canto: `Oppreso`
+  (XXII 1) and `comtemplante` (XXXII 1), marked; six readings checked in the image and
+  kept (`arrosemi`, `sfocato`, `Casino`, `assolti`, `pasciuto`, `sospinta`).
+- **The printer's imprint** (`430`), left out by the converter, put after the index
+  (`039-index-to-maps-diagrams-and-tables.md`), as the *Purgatorio*'s.
+- **SUMMARY.md** written; README.md ("Credits", the state), INDEX.md (the first line of
+  each canto), the root README, ocr/README.md, ocr/GUIDE.md (the lessons), texts/PLAN.md,
+  texts/README.md, texts/scripts/README.md and texts/en-paradiso/README.md updated.
+- The final counts (readcheck.tsv): 34 misread, 58 misprints, 41 printed;
+  misprints.tsv 58 rows, `misprints.py` no problems.

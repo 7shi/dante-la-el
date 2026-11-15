@@ -14,7 +14,7 @@ saints, the one tale being already full and the other
 near upon it. Midway across the cleaving lines runs
 the circle that divides the infants who died ere they
 
-**Empireo** Affetto al suo piacer, quel comtemplante
+**Empireo** Affetto al suo piacer, quel {{comtemplante|contemplante}}
 libero ufficio di dottore assunse,
 e cominciò queste parole sante:
 “La piaga, che Maria richiuse ed unse, 4

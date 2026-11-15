@@ -1,9 +1,9 @@
 # English and Italian text: Paradiso
 
-In progress (PLAN.md, "State"). This directory contains the page images and the OCR
-transcriptions of *The Paradiso of Dante Alighieri* in The Temple Classics
-(London: J. M. Dent & Co.; first issued December 1899, the scan below the reprint
-of November 1910), the first volume of the three, which
+This directory contains the page images and the checked transcriptions of *The
+Paradiso of Dante Alighieri* in The Temple Classics (London: J. M. Dent & Co.; first
+issued December 1899, the scan below the reprint of November 1910), the first volume of
+the three, which
 [../en-oelsner/](../en-oelsner/) (the *Inferno*) and
 [../en-purgatorio/](../en-purgatorio/) follow in the same layout: the Italian
 and the English face each other tercet by tercet.
@@ -15,9 +15,22 @@ By its Editorial Note (signed P. H. W. and H. O.):
 - the English prose translation and the arguments are by Philip H. Wicksteed;
 - the notes are by both.
 
-See [PLAN.md](PLAN.md) for the plan of the transcription and the check: the standard
-flow of [../GUIDE.md](../GUIDE.md), as [../en-purgatorio/](../en-purgatorio/) ran it,
-with the tools made there.
+The check is finished ([SUMMARY.md](SUMMARY.md)): the base compared with three OCRs
+and read through, every place decided in the image; the text is converted into
+[../../texts/en-paradiso/](../../texts/en-paradiso/), with the maps and diagrams cut from
+the scan. See [PLAN.md](PLAN.md) for the plan and the settled readings (the standard
+flow of [../GUIDE.md](../GUIDE.md), as [../en-purgatorio/](../en-purgatorio/) ran it, with
+the tools made there) and [DONE.md](DONE.md) for each step.
+
+## Credits
+
+| Step | By |
+|---|---|
+| The base (`NNN.txt`) | la-el-agy in its Orchestrator mode, its subagents called through `invoke_subagent` on Gemini 4 Hydrogen |
+| Tesseract (`tesseract/`), GLM-OCR (`glm-ocr/`, through [../scripts/glmocr.py](../scripts/glmocr.py)) | run by the user |
+| Internet Archive's OCR (`ia-ocr/`) | the library's own OCR, fetched by Claude (`iascan.py pages`) |
+| The check: comparison, read-through, mechanical checks, decisions in the images ([SUMMARY.md](SUMMARY.md)) | Claude Opus 5.5; the doubtful places left to the user decided by the user |
+| Index ([INDEX.md](INDEX.md)), the conversion and the figures | Claude Opus 5.5 |
 
 ## Layout
 

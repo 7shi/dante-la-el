@@ -18,6 +18,7 @@ page	line	form	decision	note
 081	13	{{Ostragoths|Ostrogoths}}	misprint	step 5; Canto VI, notes, 25
 083	12	*l.* 6	printed	step 5; Lucan's Troad (lines 67-68), referred to line 6, the mountains whence the eagle came: right
 098	26	R.Rhone	misread	step 5; the map's label, printed as the one above it; was `R. Rhône`
+099	21	R.Tronto	printed	step 6; the map's label printed close, as `R.Rhone` on 098
 107	11	’t is	printed	step 5; spaced, printed so (also `’t will` on 381)
 110	12	it ” *Averroes.*	printed	step 5; no stop before the closing quote, printed so
 110	42	XIX.	misread	step 4; the map's caption `To Cantos VIII. and XIX.`; was `IX.`
@@ -42,6 +43,8 @@ page	line	form	decision	note
 183	40	began perceive	printed	step 5; printed so
 186	30	{{fa,montando|fa, montando}}	misprint	step 4; agy's uncertain place; the base had it as printed, unmarked
 191	3	{{bide|bids}}	misprint	step 4; the base had the fixed form unmarked (`bids`)
+192	28	sfocato	printed	step 7; the edition's reading, against the standard text's `sfogato`; printed so
+194	22	arrosemi	printed	step 7; the edition's reading, against the standard text's `arrisemi`; printed so
 196	26	{{cio|ciò}}	misprint	step 5; Canto XV 108; the accent not printed
 199	23	Mary — with	printed	step 5; dashes spaced, printed so (also 385)
 200	40	{{Imolose|Imolese}}	misprint	step 4; the base had the fixed form unmarked (`Imolese`)
@@ -55,12 +58,17 @@ page	line	form	decision	note
 211	32	afasting	printed	step 5; printed so
 213	34	{{43-45,|43-45.}}	misprint	step 4; the base had the fixed form unmarked (`43-45.`)
 214	47	Sinigalia	printed	step 5; printed so (the Italian `Sinigaglia`)
+217	24	? ALIGHIERI	misread	step 6; the map's labels: a line `ER` before `? ALIGHIERI`, the end of the upper `? ALIGHIERI` (broken by a building) written again apart; removed
+217	34	SANNELLA	misread	step 6; the map's label, set along a street and crossed by it; was `SANTHELLA` (`della Sannella`, Canto XVI 92)
+217	62	CIUFFAGNI	misread	step 6; the map's label; was `GIUFFAGNI` (`the Ciuffagni`, 216)
 227	40	Benedict xi.	printed	step 5; printed so
 228	28	reddire	misread	step 4; Canto XVIII 11, as printed; was `redire`
 235	27	more than thousand	printed	step 5; printed so (also 379)
 236	39	Hippocrēnë	printed	step 5; printed so
 237	16	{{witholding|withholding}}	misprint	step 5; Canto XVIII, the English
 239	31	ere	printed	step 5; printed so (`e’er`)
+244	13	pasciuto	printed	step 7; the edition's reading, against the standard text's `pasciuti`; printed so
+244	17	sospinta	printed	step 7; the edition's reading, against the standard text's `sospinte`; printed so
 248	53	{{1302|1302.}}	misprint	step 4; agy's uncertain place; the base had it as printed, unmarked
 249	43	{{i|1}}	misprint	step 5; Canto XIX, notes, 142 (`Compare ix. 1, note.`); an `i` for the `1`
 250	1	240	misread	step 2; the page number, printed sideways at the left edge; was `§` at the foot
@@ -76,6 +84,8 @@ page	line	form	decision	note
 274	8	servigio	misread	step 4; Canto XXI 114, as printed; was `servizio`
 275	44	{{them|them-}}	misprint	step 4; agy's uncertain place; the base had it as printed, unmarked
 277	25	Com-	printed	step 5; `Com-machio` in Toynbee's words, printed so
+278	25	{{Oppreso|Oppresso}}	misprint	step 7; Canto XXII 1; missed by the read-through, found by the comparison of the Italian with the standard text
+280	27	Casino	printed	step 7; the edition's reading, against the standard text's `Cassino`; printed so
 288	19	questions.’	misread	step 5; Canto XXII, notes, 33; a period printed; was `questions,’`
 289	4	{{therewas|there was}}	misprint	step 5; Canto XXII, the English; no space printed
 294	12	millesmo	misread	step 4; Canto XXIII 58, as printed; was `millesimo`
@@ -109,7 +119,9 @@ page	line	form	decision	note
 387	3	they descended	misread	step 4; agy's uncertain place; set tight, as the next line (`they proffered`); was `theydescended`
 390	28	Gesù	printed	step 5; Canto XXXI 107, printed so (`Jesù` on 314)
 393	43	Boötes	printed	step 5; printed so, `Bootes` on line 45
+396	17	{{comtemplante|contemplante}}	misprint	step 7; Canto XXXII 1; missed by the read-through, found by the comparison of the Italian with the standard text
 397	26	Rachael	printed	step 5; printed so
+398	28	assolti	printed	step 7; the edition's reading, against the standard text's `ascolti`; printed so
 409	32	{{(106-145)|(106-145).}}	misprint	step 5; Canto XXXIII, the argument; no period at the end
 410	34	vuoli	misread	step 4; Canto XXXIII 35, as printed; was `vuoi`
 418	3	{{Empir|Empireo}}	misprint	step 5; Canto XXXIII, the marginal label (`Empireo` on every other page)
