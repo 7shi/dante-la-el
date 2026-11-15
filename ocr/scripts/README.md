@@ -43,6 +43,7 @@ Before a new source is added, its scans on Internet Archive are compared
 | `iascan.py heads ID_djvu.xml FIRST LAST` | The first and last line of some leaves, to look at a place `leaves` marked |
 | `iascan.py diff A_djvu.txt B_djvu.txt [--min 5]` | A word diff of two printings, only the blocks of MIN words or more: the revisions above the OCR noise |
 | `iascan.py pages ID_djvu.xml -d DIR [--first L] [--last L] [--shift K]` | The chosen scan's OCR as page files `DIR/PAGE.txt` (leaf + K), for `cmpread.py -i` |
+| `iapdf.py URL -o OUT [-d DIR] [--dpi 300] [--first P] [--last P]` | The chosen scan's PDF (named by its URL `archive.org/details/ID`, or by ID) downloaded into `DIR/ID/ID.pdf` (default `tmp`; an interrupted download resumes) and rendered as `OUT/NNN.png`, NNN the PDF page = the leaf of the OCR (pages already rendered skipped); the page count checked against `DIR/ID/ID_djvu.xml` if fetched. Needs `poppler-utils` |
 
 ## PDF preparation
 
