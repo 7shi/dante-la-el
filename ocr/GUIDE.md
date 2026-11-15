@@ -93,10 +93,22 @@ leaf, the leaf is supplied from another copy of the same printing.
 
 ### 3. Read-through for sense: once
 
-- Read the converted text for sense. It finds:
+- Read the converted text for sense; before the converter exists, read the pages in
+  `ocr/` themselves (as in `en-purgatorio`). It finds:
   - misprints that every reading passed because all agreed with the print (one to five
     in 25 pages);
   - layout errors: notes run together, stray blank lines, spaces at brackets.
+- Two passes: first read every page and only list the doubtful places
+  (`PAGE:LINE text — guess`); then decide the list in the image, in batches (100 pages
+  in `en-purgatorio`). Reading stays fast while nothing is cropped, and the list shows
+  which doubts recur.
+- Each place is decided as in "Decided in advance": a misreading is corrected in `ocr/`
+  and recorded in the decision TSV; a misprint is marked `{{printed|fixed}}` and listed
+  in the misprint table too; a reading as printed is kept with no record.
+- Doubts that recur across the book (an Italian elision with no space after the
+  apostrophe, a split elision before an enclitic, the spacing at a colon in citations)
+  are not decided place by place: search every place at the end and decide them
+  together, in the image.
 - The converter's own faults (joins across pages and lines) also show in its output;
   fix the converter, not `ocr/`.
 
