@@ -200,7 +200,8 @@ decided in the image, by crops of its line.
   edition's readings (`diliberarti`, `satisfare`, the diaeresis not printed). Two
   misprints the read-through had passed, both the first line of a canto: `Oppreso`
   (XXII 1) and `comtemplante` (XXXII 1), marked; six readings checked in the image and
-  kept (`arrosemi`, `sfocato`, `Casino`, `assolti`, `pasciuto`, `sospinta`).
+  kept (`arrosemi`, `sfocato`, `Casino`, `assolti`, `pasciuto`, `sospinta`). Run then on
+  the other two volumes too (their DONE.md); kept as `ocr/scripts/stdcmp.py`.
 - **The printer's imprint** (`430`), left out by the converter, put after the index
   (`039-index-to-maps-diagrams-and-tables.md`), as the *Purgatorio*'s.
 - **SUMMARY.md** written; README.md ("Credits", the state), INDEX.md (the first line of

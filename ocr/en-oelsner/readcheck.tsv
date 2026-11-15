@@ -27,6 +27,7 @@ page	line	form	decision	note
 025	38	{{Paradiso.|Paradiso,}}	misprint	read; the caption of the map, a period printed after `Paradiso` before `ix.` (a comma after `Inferno`)
 026	17	sì	printed	cmp D; Tesseract and GLM-OCR `si`; the accent printed
 028	2	INFERNO	printed	cmp B; the page number `16` on its own line in the base
+028	13	m' {{abbando|abbandono}},	misprint	the Italian against the standard text (2026-11-15); Canto II 34; the rhyme
 028	14	folle;	misread	cmp A; was `folle:`
 028	24	viltade	misread	cmp A; was `viltàde`; a speck over `ta`, not an accent
 028	29	venni,	misread	cmp A; was `venni;`; a comma with a faint speck above it (Tesseract `venni;`)
@@ -156,6 +157,7 @@ page	line	form	decision	note
 110	49	{{regions|regions.}}	misprint	read; note on IX 54; no period before `According`
 111	28	angel	misread	cmp A; was `Angel`; lower case printed
 113	34	{{asketh|askest}}	misprint	read; the English of X 16; `thou asketh` in the image (`thou holdest` follows)
+116	17	lome	printed	the Italian against the standard text (2026-11-15); the old form, as Carlyle's edition (`lume` in the standard text)
 116	25	quell’ arte	printed	cmp D; Tesseract and GLM-OCR a straight apostrophe; nothing to do
 119	11	{{Ah|"Ah}}!	misprint	read; the English of X 94; no opening quote printed (the closing one after `rest,`)
 119	19	Prophetic vision of those in Hell	misread	cmp B; the label was split, `Prophetic vision of Hell` here and `those in Hell` on line 27; one label printed
@@ -167,6 +169,7 @@ page	line	form	decision	note
 123	15	107, 108.	misread	read; the note began on a new line in the image but was joined to the note before it (no blank line); set apart
 123	50	sqq.)	printed	read; the note on X 130-132 ends with no period in the image
 124	20	Fotin	misread	cmp A; was `Fotín`; no accent printed
+126	4	sutto	printed	the Italian against the standard text (2026-11-15); the old form, as Carlyle's edition (`sotto` in the standard text)
 126	22	suo facultade	printed	read; Canto XI, v. 44; `suo` in the image
 126	30	coscïenza	misread	cmp B; was `coscienza`; the diaeresis printed
 128	8	spezïal	misread	cmp B; was `spezial`; the diaeresis printed
@@ -247,6 +250,7 @@ page	line	form	decision	note
 176	2	INFERNO	printed	cmp B; the page number `164` on its own line in the base
 176	24	servo	misread	cmp A; was `serva`; a pencil stroke over the word
 176	31	'Tesoro,'	misread	cmp A; was `'Tesoro',`
+176	34	{{coronno|corrono}}	misprint	the Italian against the standard text (2026-11-15); Canto XV 122
 178	7	7-9.	misread	read; the note began on a new line in the image but was joined to the note before it (no blank line); set apart
 178	13	23.	misread	read; the note began on a new line in the image but was joined to the note before it (no blank line); set apart
 178	30	61-79.	misread	read; the note began on a new line in the image but was joined to the note before it (no blank line); set apart
@@ -534,6 +538,7 @@ page	line	form	decision	note
 330	7	;	printed	cmp B; the retype had `,`; the semicolon printed
 330	17	che diedi al re giovane mai comforti.	printed	read; Canto XXVIII, v. 135; `mai comforti` as printed (the old form with `m`), not changed
 330	18	ribelli;	misread	cmp A; was `ribelli:`
+330	19	Ansalone	printed	the Italian against the standard text (2026-11-15); the old form (`Absalone` in Carlyle's edition and the standard text)
 331	35	{{stratagem|stratagem.}}	misprint	cmp A; marked; the base had `stratagem.`
 332	6	{{55-60|55-60.}}	misprint	read; note on XXVIII 55-60; no period after the verse numbers
 333	15	I.	printed	cmp B; the retype had `i.`; the figure read as in the base; nothing to do
@@ -545,6 +550,7 @@ page	line	form	decision	note
 335	10	46-129),—where	misread	read; was `46-129), — where`; no spaces at the dash in the image
 335	37	one of his own kindred	misread	cmp B; was `One` in the label
 336	4	qui	misread	cmp A; was `quì`
+336	5	{{ramanga|rimanga}}	misprint	the Italian against the standard text (2026-11-15); Canto XXIX 22
 336	8	udi … Geri	misread	cmp A; was `udì … Gerì`
 336	15	gío	misread	cmp B; was `gió`
 336	18	{{Cosi|Così}}	misprint	cmp A; marked; the base had `Così`

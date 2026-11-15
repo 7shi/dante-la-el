@@ -1,6 +1,7 @@
 page	line	printed	fixed	applied	source	note
 024	47	117)	117).	yes	edition	The last note of Canto I; the closing period not printed (a speck stands well apart); the retype reads `117)`, Tesseract `117)`; found by the retype.
 025	38	Paradiso.	Paradiso,	yes	edition	The caption of the map after Canto I; a period printed after `Paradiso` before `ix. 82-93`, against the comma after `"Inferno," i. 105`; found by the read-through.
+028	13	abbando	abbandono	yes	dante	Canto II 34; the rhyme (`sono`, `ragiono`) needs `abbandono`, as Carlyle's edition; found by the Italian against the standard text (2026-11-15).
 030	19	Di	di	yes	edition	Canto II, v. 74, `Di te mi loderò sovente a lui`; a capital printed in the middle of the sentence (`Quando sarò dinanzi al Signor mio,` before it); found by the read-through.
 034	47	vi	vi.	yes	edition	Canto II, note 25-27, `Æn. vi 757`; the period not printed at the line end (`Æn. vi. 236-900` above); the retype and Tesseract read `vi`; found by the retype.
 038	5	dell Inferno	dell’Inferno	yes	edition	Canto III, the marginal label `Porta dell` / `Inferno`; no apostrophe printed after `dell`; the retype reads `dell Inferno`; found by the retype.
@@ -26,6 +27,7 @@ page	line	printed	fixed	applied	source	note
 154	33	miè	mie	yes	edition	Canto XIII, v. 151, `Io fei giubbetto a me delle miè case`; a grave accent printed over the `e`; found by the read-through.
 154	35	Marte	Marta	yes	edition	Note on Canto XIII, v. 9, `The river Cecina and the Marte, on whose banks stands the town of Corneto`; the river is the Marta; found by the read-through.
 157	12	Toppe	Toppo	yes	edition	Note on Canto XIII, vv. 115-129, `a ford called Pieve del Toppe`; `del Toppo` in v. 121; found by the read-through.
+176	34	coronno	corrono	yes	dante	Canto XV 122; `corrono`, as Carlyle's edition; found by the Italian against the standard text (2026-11-15).
 189	42	decription	description	yes	edition	Canto XVI, note 94-102, `would answer this decription`; the `s` not printed; the retype and Tesseract read `decription`, GLM-OCR `description`; found by the retype.
 192	8	or	of	yes	edition	The argument of Canto XVII, `to see the last class or sinners`; found by the read-through.
 216	4	molt 'anni	molt' anni	yes	edition	Canto XIX, v. 19, the apostrophe set before `anni`; found by the read-through.
@@ -48,6 +50,7 @@ page	line	printed	fixed	applied	source	note
 314	33	caiscun	ciascun	yes	edition	Canto XXVII, v. 87, `chè caiscun suo nimico era Cristiano`; the retype, Tesseract and GLM-OCR read `caiscun`; found by the comparison.
 331	35	stratagem	stratagem.	yes	edition	Canto XXVIII, the note on vv. 7-18, `by a stratagem The latter`; no period printed before the next sentence; the retype, Tesseract and GLM-OCR read none; found by the comparison.
 332	6	55-60	55-60.	yes	edition	Note on Canto XXVIII, vv. 55-60, no period after the verse numbers; found by the read-through.
+336	5	ramanga	rimanga	yes	dante	Canto XXIX 22; `rimanga`, as Carlyle's edition; found by the Italian against the standard text (2026-11-15).
 336	18	Cosi	Così	yes	edition	Canto XXIX, v. 37, `Cosi parlammo infino al loco primo`; the accent not printed; the retype and GLM-OCR read `Cosi`; found by the comparison.
 340	7	risposa	rispose	yes	edition	Canto XXIX, v. 92, `risposa l' un piangendo`; found by the read-through.
 345	26	iv	iv.	yes	edition	the Della Scala table, the footnote `Conv. iv 16: 71, 72`; no period printed after the book number; the retype and Tesseract read none; found by the comparison.

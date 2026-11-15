@@ -2,7 +2,7 @@
 
 **Cerchio VIII. Cammino alla Bolgia 10** Allor disse il maestro: “Non si franga
 lo tuo pensier da qui innanzi sopr’ ello;
-attendi ad altro, ed ei là si ramanga:
+attendi ad altro, ed ei là si {{ramanga|rimanga}}:
 ch’ io vidi lui a piè del ponticello
 mostrarti, e minacciar forte col dito,
 ed udi ’l nominar Geri del Bello.

@@ -167,10 +167,10 @@ OCR's leaves.
 - The converter's own faults (joins across pages and lines) also show in its output;
   fix the converter, not `ocr/`.
 - After the read-through, set the verse against the standard text word by word and list
-  the words that differ by a letter or two and are rare in the edition's own verse; decide
-  them in the image. Almost all are the edition's readings, but in `en-paradiso` the list
+  the words that differ by a letter or two and are rare in the edition's own verse
+  (`scripts/stdcmp.py`); decide them in the image. Almost all are the edition's readings, but in `en-paradiso` the list
   found two misprints that every reading and the read-through had passed, both in the
-  first line of a canto. The standard text only points; it decides nothing.
+  first line of a canto, and in `en-oelsner` three more (one breaking the rhyme). The standard text only points; it decides nothing.
 
 ### 6. Figures
 

@@ -31,7 +31,9 @@ readings to compare with it.
 Each place was decided in the image as **misread** (corrected), **misprint** (kept as
 printed, marked `{{printed|fixed}}`, listed in [misprints.tsv](misprints.tsv)) or
 **printed** (kept); every decision is a row of [readcheck.tsv](readcheck.tsv): 95 misread,
-94 misprints, 34 printed (`misprints.py`: 94 rows, 94 marks, no problems).
+94 misprints, 34 printed (`misprints.py`: 94 rows, 94 marks, no problems). The Italian set
+against the standard text word by word afterwards (2026-11-15) found no misprint more:
+four readings checked in the image and kept (rows `printed`).
 
 ## 3. What was found
 

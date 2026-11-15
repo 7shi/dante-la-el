@@ -44,8 +44,9 @@ was added from another scan after the check (PLAN.md, "State"); the book prints 
   - **Notes run together**: where the base had no blank line between notes, the
     converter joined them into one paragraph (19 rows, some covering a whole page of
     notes); each set apart as printed.
-- **Misprints**: 64 rows in [misprints.tsv](misprints.tsv), all marked (`misprints.py`: 64
-  rows, 64 marks, no problems): a period missing after a note's verse numbers or at its
+- **Misprints**: 68 rows in [misprints.tsv](misprints.tsv), all marked (`misprints.py`: 68
+  rows, 68 marks, no problems; the last three found when the Italian was set against the
+  standard text word by word, 2026-11-15: `abbando`, `coronno`, `ramanga`): a period missing after a note's verse numbers or at its
   end, quotation marks unopened or of the wrong kind, a letter in the Italian (`risposa`,
   `tuttie`, `un fossata`), a name in the notes (`Camomica`, `Sali` for Salò, `the Marte`),
   a reference (`Psalms cxxix.`, `John xii.`). The base had corrected many silently; the

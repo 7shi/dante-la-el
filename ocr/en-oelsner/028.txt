@@ -10,7 +10,7 @@ Andovvi poi lo Vas d' elezione,
 Ma io, perchè venirvi? o chi 'l concede?
     Io non Enea, io non Paolo sono;
     me degno a ciò nè io nè altri 'l crede.       31
-Per che se del venire io m' abbando,
+Per che se del venire io m' {{abbando|abbandono}},
     temo che la venuta non sia folle;
     se' savio, intendi me' ch' io non ragiono.”    34
 E quale è quei, che disvuol ciò che volle,

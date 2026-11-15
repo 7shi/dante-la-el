@@ -866,3 +866,16 @@ The page numbers here are those after the renumbering.
   `convert_en_oelsner.py` makes Fig. I and Fig. II a section each (`FIGURES`): Fig. I
   with `411` up to the label of Fig. II, Fig. II with the rest of `411` and `412`, its
   figure after the text.
+
+## The Italian against the standard text (2026-11-15)
+
+As for `en-paradiso` (its DONE.md, step 7): the verse of `texts/en-oelsner` set against
+dante-corpus word by word, the words that differ by a letter or two and occur at most
+twice in the Italian of the three volumes listed (about 400 once the accents are left
+aside), almost all the edition's readings (`sospicar`, `Quarnaro`, `Monte Veso`). Six
+read in the image, all printed so. Three misprints marked, which the retype and the
+read-through had passed: `abbando` (II 34; the rhyme needs `abbandono`), `coronno`
+(XV 122), `ramanga` (XXIX 22), Carlyle's edition having `abbandono`, `corrono`,
+`rimanga`. Kept: `lome`, `sutto` (Carlyle's edition has them too), `Ansalone`.
+
+The comparison is kept as `ocr/scripts/stdcmp.py` (`uv run ocr/scripts/stdcmp.py VOLUME`).

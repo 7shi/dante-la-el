@@ -31,7 +31,7 @@ Gente vien con la quale esser non deggio;
 sieti raccomandato il mio 'Tesoro,'
 nel quale io vivo ancora; e più non cheggio."
 Poi si rivolse, e parve di coloro
-che coronno a Verona il drappo verde
+che {{coronno|corrono}} a Verona il drappo verde
 per la campagna; e parve di costoro
 quegli che vince e non colui che perde.
 

@@ -147,3 +147,14 @@ diagrams and the map stay as text, line by line, after the image.
 
 [SUMMARY.md](SUMMARY.md) written; README.md ("Credits"), INDEX.md, the root README,
 ocr/README.md and texts/PLAN.md, texts/README.md, texts/scripts/README.md updated.
+
+## The Italian against the standard text (2026-11-15)
+
+As for `en-paradiso` (its DONE.md, step 7): the verse of `texts/en-purgatorio` set against
+dante-corpus word by word, the words that differ by a letter or two and occur at most
+twice in the Italian of the three volumes listed (about 330 once the accents are left
+aside), almost all the edition's readings. Four read in the image, all printed so and
+kept: `diventai`, `Eresitone`, `sorvenisse`, `coronato`; `inbarche` had been kept by the
+read-through. No misprint found.
+
+The comparison is kept as `ocr/scripts/stdcmp.py` (`uv run ocr/scripts/stdcmp.py VOLUME`).
