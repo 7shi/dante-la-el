@@ -46,9 +46,22 @@ PURGATORIO = {
 }
 
 # The Paradiso: the maps and diagrams, cut from its own scan (the reprint of November
-# 1910); the boxes are measured in step 6 (ocr/en-paradiso/PLAN.md): 22, 69, 98, 99, 110,
-# 111, 125, 151, 201, 217, 406, 407.
-PARADISO = {}
+# 1910), with their labels, without the captions and the map numbers (I, II) printed
+# with them; the boxes from the ink of each page, specks left out (ocr/en-paradiso, step 6).
+PARADISO = {
+    22: (205, 462, 1200, 1290),   # the four circles and three crosses (between two notes)
+    69: (425, 830, 765, 1455),    # the three mirrors
+    98: (380, 1042, 1005, 1662),  # Provence
+    99: (240, 1027, 900, 1648),   # Naples and Sicily
+    110: (235, 785, 1157, 2006),  # Hungary, Rascia, etc.
+    111: (30, 1446, 1110, 2023),  # the Mediterranean (Marseilles)
+    125: (52, 217, 1062, 1908),   # the district about Romano, with an inset (full page)
+    151: (88, 694, 1025, 1808),   # Assisi
+    201: (0, 98, 1226, 1886),     # the district about Florence (full page; to the edge)
+    217: (62, 112, 1132, 1874),   # Cacciaguida's Florence (full page)
+    406: (318, 1048, 1135, 1862), # the world west of Jerusalem (II)
+    407: (125, 1035, 938, 1852),  # the world east of Jerusalem (I)
+}
 
 VOLUMES = {"inferno": (INFERNO, "en-oelsner"), "purgatorio": (PURGATORIO, "en-purgatorio"),
            "paradiso": (PARADISO, "en-paradiso")}

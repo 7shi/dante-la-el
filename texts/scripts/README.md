@@ -9,8 +9,8 @@ are in [texts/PLAN.md](../PLAN.md).
 | Script | Book | Output |
 |---|---|---|
 | `convert_en.py` | Carlyle's edition (`ocr/en/`, 1889) | `texts/en/` |
-| `convert_en_oelsner.py` | Temple Classics volumes edited by Oelsner: the *Inferno* (`ocr/en-oelsner/`, 1903; the default) and, with `purgatorio`, the *Purgatorio* (`ocr/en-purgatorio/`, 1904) | `texts/en-oelsner/`, `texts/en-purgatorio/` |
-| `crop_en_oelsner_images.py` | the maps, diagrams and plates of the same, cut from the scans (`inferno` or `purgatorio`) | `texts/en-oelsner/images/`, `texts/en-purgatorio/images/` |
+| `convert_en_oelsner.py` | Temple Classics volumes edited by Oelsner: the *Inferno* (`ocr/en-oelsner/`, 1903; the default) and, with `purgatorio` or `paradiso`, the *Purgatorio* (`ocr/en-purgatorio/`, 1904) and the *Paradiso* (`ocr/en-paradiso/`, 1910) | `texts/en-oelsner/`, `texts/en-purgatorio/` |
+| `crop_en_oelsner_images.py` | the maps, diagrams and plates of the same, cut from the scans (`inferno`, `purgatorio` or `paradiso`) | `texts/en-oelsner/images/`, `texts/en-purgatorio/images/`, `texts/en-paradiso/images/` |
 | `convert_la.py` | Serravalle's translation and commentary (`ocr/la/`, 1891) | `texts/la/` |
 | `convert_grc.py` | Musurus's Greek translation (`ocr/grc/`, 1882) | `texts/grc/` |
 

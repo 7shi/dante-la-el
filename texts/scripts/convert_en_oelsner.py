@@ -775,7 +775,7 @@ PARADISO["BACK"] = [
     ("epigraph", [424]),
     ("general-editorial-note", [425]),
     ("editorial-note", [426, 427, 428]),
-    ("index-to-maps-diagrams-and-tables", [429]),
+    ("index-to-maps-diagrams-and-tables", [429, 430]),
 ]
 PARADISO["HYPHEN_FIXED"] = {
     "establish-ment": "establishment", "signa-ture": "signature", "endow-ment": "endowment",

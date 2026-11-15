@@ -29,3 +29,7 @@ Tables of Kings, to illustrate Par. xix. . 240-243
 Map of the World east of Jerusalem, illustrating Dante’s first retrospect (Par. xxii. 151-154) . . . . . 397
 
 Map of the World west of Jerusalem, illustrating Dante’s second retrospect (Par. xxvii. 79-87) . . . . . 396
+
+<!-- p. 420 (430) -->
+
+PRINTED BY TURNBULL AND SPEARS, EDINBURGH

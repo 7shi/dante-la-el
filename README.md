@@ -30,7 +30,7 @@ English (the other two volumes of the Temple Classics, with the Italian text edi
 * [The Purgatorio of Dante Alighieri : Internet Archive](https://archive.org/details/purgatorioofdant00dant_0)
   (Thomas Okey's prose translation: London: J. M. Dent & Co., Fourth Edition, 1904; [ocr/en-purgatorio/](ocr/en-purgatorio/), converted into [texts/en-purgatorio/](texts/en-purgatorio/))
 * [The Paradiso of Dante Alighieri : Internet Archive](https://archive.org/details/paradisoofdante00dant)
-  (Philip H. Wicksteed's prose translation: London: J. M. Dent & Co., reprint of November 1910; [ocr/en-paradiso/](ocr/en-paradiso/), in progress)
+  (Philip H. Wicksteed's prose translation: London: J. M. Dent & Co., reprint of November 1910; [ocr/en-paradiso/](ocr/en-paradiso/), converted into [texts/en-paradiso/](texts/en-paradiso/))
 
 ## OCR
 
