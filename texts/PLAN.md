@@ -8,6 +8,7 @@ The page-by-page transcriptions in `ocr/{dir}/NNN.txt` are reorganized into sect
 |---|---|
 | `texts/en/` | Done: converted, verified against dante-corpus, footnote markers restored on every page; `ocr/en/` checked again against the images (every page retyped and compared, then a read-through), its misprints marked and corrected in `texts/en/`; see [`ocr/en/SUMMARY.md`](../ocr/en/SUMMARY.md). |
 | `texts/en-oelsner/` | Done: `ocr/` normalized (labels, paragraph breaks) and converted; Italian verified against dante-corpus, English against `texts/en`. `ocr/en-oelsner` then checked against the images (every page retyped and compared, a read-through; [ocr/en-oelsner/SUMMARY.md](../ocr/en-oelsner/SUMMARY.md)): misreadings corrected, misprints marked. The maps, diagrams and plates shown as images cut from the scans (`texts/en-oelsner/images/`, by `crop_en_oelsner_images.py`), those of the Fifth Edition (1904), whose two pages of plates (`411`–`412`) replace ours. |
+| `texts/en-purgatorio/` | Done: the Temple Classics *Purgatorio* (1904), converted by `convert_en_oelsner.py purgatorio` from `ocr/en-purgatorio`, checked against the images before the conversion (the base compared with three OCRs, a read-through) and by the conversion's mechanical checks after it ([ocr/en-purgatorio/SUMMARY.md](../ocr/en-purgatorio/SUMMARY.md)); the diagrams, the plate and the map shown as images cut from its own scan (`texts/en-purgatorio/images/`). |
 | `texts/la/` | Done: `ocr/la/` completed batch by batch (the verse from the images, the commentary checked against GLM-OCR, lines and blank lines checked, the italics marked), converted by `convert_la.py` (`texts/la/001`–`110`), and checked again (the lemmas, the verse and the rare forms against the images); see [`ocr/la/DONE.md`](../ocr/la/DONE.md) for the method and the checks and [`ocr/la/PLAN.md`](../ocr/la/PLAN.md) for their limits. |
 | `texts/grc/` | Done: converted; verse counts, line numbers, and arguments checked by the script; misreadings found by a syllable count corrected in `ocr/`. `ocr/grc` then checked against the images (every page retyped and compared, a read-through; [ocr/grc/SUMMARY.md](../ocr/grc/SUMMARY.md)): misreadings corrected, misprints marked, the corrigenda applied by marks and not converted. |
 
@@ -145,6 +146,38 @@ Excluded: `001`–`006`, `009`, `012`, `415`–`418`.
   - Transcriber's notes that are not printed (`Line numbers on the right:`, `*Side notes*:` with a list of the labels, `*Map 1: …*`, `*Caption below maps:*`, marker asterisks in the genealogical tables) are deleted; `[Blank page]` stays, as the pages it marks are not converted.
 - Checks: the words of each normalized page are compared with the previous version (only `**`, label moves, and blank lines may differ); the Italian lines are compared with dante-corpus (labels left in the line or misread lines show up as mismatches); the English is compared with `texts/en` (Carlyle's own edition of the same translation), where every difference must be an Oelsner revision (`[came to]`) or a variant, not a stray label; the number of English paragraphs on each page is compared with the number of tercets that begin on the facing Italian page (one fewer on a canto's last page). The script reports as errors a canto whose verse count is wrong, a numbered note among the English tercets, and a note running over from an Italian page whose continuation is not found on the English page; on a canto's last page a missing paragraph break otherwise lets the next note fill the last tercet's place unnoticed. It lists note paragraphs that start after an unfinished sentence and English pages whose notes start without a verse number (normally a continued note). The first note paragraph of a page after a finished sentence is a new paragraph unless the page is in `NOTE_CONTINUED` (flush left in the image, `189`, `356`); the pages checked as new paragraphs are in `NOTE_NEW`.
 - Unlike `ocr/en`, italics are transcribed, mostly as `*…*` and on some pages as `_…_`. They are kept as they are, except on `413`, which is printed in italics with the names in roman; the transcription marked a few sentences at random, so the marks were removed there.
+
+## `texts/en-purgatorio/` — Temple Classics *Purgatorio* (`ocr/en-purgatorio/`, 1904)
+
+Done. Contents and reading notes: [`en-purgatorio/README.md`](en-purgatorio/README.md). Structure reference: [`ocr/en-purgatorio/INDEX.md`](../ocr/en-purgatorio/INDEX.md).
+
+### Files
+
+| File | Section | Scans |
+|---|---|---|
+| `001-title-page.md` | Series half-title, editions, frontispiece, title page, epigraph | `007`, `008`, `010`, `011`, `013` |
+| `002-canto-01.md` … `034-canto-33.md` | CANTO I … CANTO XXXIII (file number = canto + 1), each with its notes and the diagrams, plate, tables or map printed with it | `014`–`443`, see INDEX.md |
+| `035-note-on-dantes-purgatory.md` | NOTE ON DANTE’S PURGATORY | `444`–`446` |
+| `036-the-chronology-of-the-purgatorio.md` | THE CHRONOLOGY OF THE “PURGATORIO” | `447`–`449` |
+| `037-general-editorial-note.md` | The general editorial note (no heading printed) | `451` |
+| `038-translators-note.md` | TRANSLATOR’S NOTE | `452` |
+| `039-editorial-note.md` | EDITORIAL NOTE | `453` |
+| `040-index-to-plates-tables-etc.md` | INDEX TO PLATES, TABLES, ETC., and the printer’s imprint | `454`, `455` |
+
+### Layout
+
+As `texts/en-oelsner/` (above), with these differences:
+
+- **Diagrams below the notes** (pp. 12, 13, 34, 35, 47, 103): printed under the notes of a page, they follow that page's notes: the image, the labels line by line, the caption as a paragraph. The plate of the Zodiac (p. 59) and the two pages of the map (pp. 376–377) are plates as in the *Inferno*: the image, then the text line by line. The family tables (pp. 86–91, 241) are text only.
+- **Signatures** (`H. O.` after the last note, `I. G.`, `T. O.`) are paragraphs of their own.
+
+### Conversion notes for `ocr/en-purgatorio/`
+
+- Script: the same [`convert_en_oelsner.py`](scripts/convert_en_oelsner.py), run with `purgatorio`. What differs between the volumes is in the settings of each (`INFERNO`, `PURGATORIO`): the verses per canto, the first and last page of each canto, the plates, the images, the figures below the notes (`FIGURE_FROM`: the first label of each), the front and end matter, the hyphens and page-top notes decided by hand. Made general without changing the *Inferno*: its output and report stay the same byte for byte.
+- Two behaviours are new and set for the *Purgatorio* only: a signature mark on its own line above the page number (`SIGNATURE_ABOVE`, `253`), and an italic span closed at a line end and opened on the next line joined into one (`ITALIC_JOIN`: `*com-*` / `*pare*` → `*compare*`, across pages too).
+- Line-end hyphens: the word list is built from `ocr/en-purgatorio`, `ocr/en-oelsner` and `ocr/en`; the cases decided by hand are in `HYPHEN_FIXED` (`father-in-law`, `overheard`, `otherwhere`, `Fossanuova`, `distinguishing` divided across pages, …).
+- Notes: the first note paragraph of a page after a finished sentence was decided in the image: continued (flush left) on `045`, `069`, `113`, `252`, `343`, `415`, `428` (`NOTE_CONTINUED`), new (indented) on `267` (`NOTE_NEW`).
+- Images: [`crop_en_oelsner_images.py`](scripts/crop_en_oelsner_images.py) `purgatorio` cuts the nine figures (`024`, `025`, `046`, `047`, `059`, `071`, `115`, `388`, `389`) by fixed boxes from the scan itself, which is clean, without their captions.
 
 ## `texts/la/` — Serravalle's translation and commentary (`ocr/la/`, 1891)
 
@@ -342,5 +375,6 @@ How the delegation is run (via herdr, to the agent `la-el-codex`; replies go to 
 
 1. `texts/en`: write the conversion script and generate the files. **Done.**
 2. `texts/en-oelsner`: normalize `ocr/`, write the conversion script, and generate the files. **Done.**
+   `texts/en-purgatorio`: the same script made general and run on the *Purgatorio*. **Done** (2026-11-15).
 3. `texts/grc`: see *Procedure for `grc`* above. **Done.**
 4. `la`: complete `ocr/la/` (missing verse columns, commentary checked against GLM-OCR) batch by batch, then convert; see *Procedure for `la`* above. **Done** (2026-11-01).

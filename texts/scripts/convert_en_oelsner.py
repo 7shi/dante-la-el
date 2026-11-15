@@ -1,24 +1,35 @@
-"""Convert ocr/en-oelsner/NNN.txt (Temple Classics edition, 1903) into texts/en-oelsner/NNN-title.md.
+"""Convert the page transcriptions of a Temple Classics volume edited by Oelsner into
+section files: ocr/en-oelsner/NNN.txt (the Inferno, 1903) into texts/en-oelsner/, or
+ocr/en-purgatorio/NNN.txt (the Purgatorio, 1904) into texts/en-purgatorio/.
 
-See texts/PLAN.md for the layout. Run from the repository root:
+The volumes share their layout; what differs (verses per canto, the pages of each canto,
+the plates and figures, the front and end matter, the decisions by hand) is in the
+settings of each volume below. See texts/PLAN.md for the layout. Run from the repository
+root:
 
-    uv run texts/scripts/convert_en_oelsner.py
+    uv run texts/scripts/convert_en_oelsner.py [inferno|purgatorio]
 """
 
+import argparse
 import re
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-SRC = ROOT / "ocr" / "en-oelsner"
-DST = ROOT / "texts" / "en-oelsner"
+
+# ================================================================ the Inferno (1903)
+
+INFERNO = {}
+INFERNO["src"] = ROOT / "ocr" / "en-oelsner"
+INFERNO["dst"] = ROOT / "texts" / "en-oelsner"
+INFERNO["vocab"] = [INFERNO["src"], ROOT / "ocr" / "en"]
 
 # Verses per canto in the Inferno.
-VERSES = [136, 142, 136, 151, 142, 115, 130, 130, 133, 136, 115, 139, 151, 142, 124, 136, 136,
+INFERNO["VERSES"] = [136, 142, 136, 151, 142, 115, 130, 130, 133, 136, 115, 139, 151, 142, 124, 136, 136,
           136, 133, 130, 139, 151, 148, 151, 151, 142, 136, 142, 139, 148, 145, 139, 157, 139]
 
 # Canto n (1-based): first page (Argument), last page (notes or plate).
-CANTO_PAGES = [(14, 25), (26, 37), (38, 47), (48, 59), (60, 71), (72, 81), (82, 91), (92, 101),
+INFERNO["CANTO_PAGES"] = [(14, 25), (26, 37), (38, 47), (48, 59), (60, 71), (72, 81), (82, 91), (92, 101),
                (102, 111), (112, 123), (124, 133), (134, 145), (146, 157), (158, 169),
                (170, 179), (180, 191), (192, 201), (202, 213), (214, 225), (226, 237),
                (238, 249), (250, 261), (262, 273), (274, 285), (286, 297), (298, 309),
@@ -26,14 +37,14 @@ CANTO_PAGES = [(14, 25), (26, 37), (38, 47), (48, 59), (60, 71), (72, 81), (82, 
                (382, 393), (394, 404)]
 
 # Full-page maps, plates and tables printed after a canto's notes.
-PLATES = {25, 37, 133, 191, 249, 321, 345}
+INFERNO["PLATES"] = {25, 37, 133, 191, 249, 321, 345}
 
 
 # The figures cut from the scans by crop_en_oelsner_images.py (texts/en-oelsner/images),
 # shown where they are printed: at the top of their page, or after the note that
 # introduces them (IMAGE_AFTER_NOTE, the end of that note). Their names and captions
 # stay as text.
-IMAGES = {
+INFERNO["IMAGES"] = {
     25: "Map: Dante's geographical description",
     37: "Section of the Earth: Hell, Purgatory and the passage of the poets",
     133: "The hours at which the signs of the Zodiac rise",
@@ -42,14 +53,18 @@ IMAGES = {
     411: "Fig. I: plan of concentric spheres",
     412: "Fig. II: section of the eight revolving heavens",
 }
-IMAGE_AFTER_NOTE = {284: "will make these verses clear:"}
+INFERNO["IMAGE_AFTER_NOTE"] = {284: "will make these verses clear:"}
+# Figures printed below the notes of a page, from the line given to the page's end:
+# their labels and caption (none in the Inferno).
+INFERNO["FIGURE_FROM"] = {}
+# Pages whose signature mark stands on its own line above the page number.
+INFERNO["SIGNATURE_ABOVE"] = set()
+# Italic spans closed at a line end and opened again on the next line joined into one
+# (`*com-*` / `*pare*`); not in the Inferno, whose texts were made before.
+INFERNO["ITALIC_JOIN"] = False
 
-
-def image(n):
-    return f"![{IMAGES[n]}](images/{n:03d}.jpg)"
-
-FRONT = ("title-page", [7, 8, 10, 11, 13])
-BACK = [
+INFERNO["FRONT"] = ("title-page", [7, 8, 10, 11, 13])
+INFERNO["BACK"] = [
     ("note-on-dantes-hell", [405, 406, 407]),
     ("the-chronology-of-the-inferno", [408, 409, 410]),
     ("plan-of-concentric-spheres", [411]),
@@ -91,8 +106,9 @@ def marker(n, band=""):
 
 # ---------------------------------------------------------------- reading
 
-HEAD = re.compile(r"[\dIlO ]*(INFERNO|CANTO [IVXL1 ]+|([IVX]+\. )?NOTES|DANTE['’]S HELL"
-                  r"|CHRONOLOGY OF [\"“]INFERNO[\"”])?[\dIlO ]*")
+HEAD = re.compile(r"[\dIlO ]*(INFERNO|PURGATORIO|CANTO [IVXL1 ]+|([IVX]+\. )?NOTES"
+                  r"|DANTE['’]S (HELL|PURGATORY)"
+                  r"|CHRONOLOGY OF [\"“](INFERNO|PURGATORIO)[\"”])?[\dIlO ]*")
 
 
 def is_head(line):
@@ -109,11 +125,21 @@ def fixed(t):
     return MISPRINT.sub(r"\3", t)
 
 
+FIGURE_LINES = {}  # page -> the lines of the figure below its notes (FIGURE_FROM)
+
+
 def read_page(n):
     """Lines of a page without running head, page number, and handwritten notes."""
     text = fixed((SRC / f"{n:03d}.txt").read_text(encoding="utf-8"))
     text = re.sub(r" *\(handwritten:[^)]*\)", "", text)
     lines = [l.rstrip() for l in text.strip().split("\n")]
+    if n in FIGURE_FROM:
+        # a figure below the notes, to the page's end: kept apart, not read as notes
+        k = min(i for i, l in enumerate(lines) if l.strip() == FIGURE_FROM[n])
+        FIGURE_LINES[n] = lines[k:]
+        lines = lines[:k]
+        while lines and not lines[-1].strip():
+            lines.pop()
     # running head (and page number), recognized by position: the first lines
     for _ in range(2):
         if lines and is_head(lines[0]):
@@ -121,10 +147,14 @@ def read_page(n):
             while lines and not lines[0].strip():
                 lines.pop(0)
     # page number or printer's signature mark (`B`, `2 C`) at the foot of the page
-    if lines and re.fullmatch(r"[\dIlO]+|(\d+ ?)?[A-Z]( \d+)?", lines[-1].strip()):
+    if n not in FIGURE_LINES and lines \
+            and re.fullmatch(r"[\dIlO]+|(\d+ ?)?[A-Z]( \d+)?", lines[-1].strip()):
         lines.pop()
+        # a signature mark on the line above the page number (`Q` / `241`)
+        if n in SIGNATURE_ABOVE and re.fullmatch(r"(\d+ ?)?[A-Z]", lines[-1].strip()):
+            lines.pop()
     # tercet numbers transcribed as a column of their own (`016`, `046`)
-    if n not in PLATES and 14 <= n <= 404:
+    if n not in PLATES and CANTO_PAGES[0][0] <= n <= CANTO_PAGES[-1][1]:
         lines = [l for l in lines if not re.fullmatch(r"\s*\d+\s*", l)]
     return lines
 
@@ -144,19 +174,24 @@ def paragraphs(lines):
 
 # ---------------------------------------------------------------- hyphenation
 
-VOCAB = set()
-for d in (SRC, ROOT / "ocr" / "en"):
-    for f in d.glob("*.txt"):
-        text = fixed(f.read_text(encoding="utf-8"))
-        # the fragments of words hyphenated at a line end are not words
-        text = re.sub(r"[A-Za-zÀ-ÿ’']+-\n\s*(\*\*[^*]*\*\* )?\*?[A-Za-zÀ-ÿ’']+", " ", text)
-        VOCAB.update(re.findall(r"[A-Za-zÀ-ÿ’']+(?:-[A-Za-zÀ-ÿ’']+)*", text))
-VOCAB_LOWER = {w.lower() for w in VOCAB}
+VOCAB_LOWER = set()
 UNDECIDED = []
 
 
+def build_vocab(dirs):
+    """The words of the transcriptions, unbroken: the joins of line-end hyphens."""
+    vocab = set()
+    for d in dirs:
+        for f in d.glob("*.txt"):
+            text = fixed(f.read_text(encoding="utf-8"))
+            # the fragments of words hyphenated at a line end are not words
+            text = re.sub(r"[A-Za-zÀ-ÿ’']+-\n\s*(\*\*[^*]*\*\* )?\*?[A-Za-zÀ-ÿ’']+", " ", text)
+            vocab.update(re.findall(r"[A-Za-zÀ-ÿ’']+(?:-[A-Za-zÀ-ÿ’']+)*", text))
+    return {w.lower() for w in vocab}
+
+
 # Line-end hyphens decided by hand: the word as it is to be written.
-HYPHEN_FIXED = {
+INFERNO["HYPHEN_FIXED"] = {
     "re-erected": "re-erected", "in-law": "in-law",  # father-in- / law
     "half-horses": "half-horses", "vicar-general": "Vicar-General",
     "evil-doing": "evil-doing", "heart-felt": "heart-felt",  # as in ocr/en
@@ -201,7 +236,15 @@ def join_lines(lines, where):
     """Join the printed lines of a paragraph into one line."""
     text = lines[0]
     for l in lines[1:]:
-        if re.search(r"[A-Za-zÀ-ÿ’']-$", text):
+        if ITALIC_JOIN and re.search(r"[^*]\*$", text) and re.match(r"\*[^*]", l):
+            # an italic span closed at the line end and opened again on the next line:
+            # one span, across a line-end hyphen too (`*com-*` / `*pare*`)
+            text, l = text[:-1], l[1:]
+            if re.search(r"[A-Za-zÀ-ÿ’']-$", text):
+                text = join_hyphen(text, l, where)
+            else:
+                text += " " + l
+        elif re.search(r"[A-Za-zÀ-ÿ’']-$", text):
             text = join_hyphen(text, l, where)
         elif text.endswith("]-") and l[:1].islower():
             # a word hyphenated after an editor's bracket (`[down]-` / `wards`)
@@ -375,6 +418,9 @@ def convert_canto(c, first, last, errors):
 
 def canto_notes(canto, n, paras, band=""):
     if not paras:
+        if n in FIGURE_LINES:
+            canto.parts.append(marker(n, band))
+            canto.parts.extend(figure(n))
         return
     parts = canto.parts
     if not getattr(canto, "notes_heading", False):
@@ -390,7 +436,10 @@ def canto_notes(canto, n, paras, band=""):
             i, prev_text = prev
             if not re.search(r"[.!?”\"):]$", prev_text) or text[:1].islower() \
                     or n in NOTE_CONTINUED:
-                if re.search(r"[A-Za-z]-$", prev_text):
+                if ITALIC_JOIN and re.search(r"[^*]\*$", prev_text) \
+                        and re.match(r"\*[^*]", text):
+                    joined = join_lines([prev_text, text], f"{where} (note)")
+                elif re.search(r"[A-Za-z]-$", prev_text):
                     joined = join_hyphen(prev_text, text, f"{where} (note)")
                 elif prev_text.endswith("—") or range_split(prev_text, text):
                     joined = prev_text + text
@@ -407,12 +456,27 @@ def canto_notes(canto, n, paras, band=""):
         canto.last_note = (len(parts) - 1, text)
         if n in IMAGE_AFTER_NOTE and text.endswith(IMAGE_AFTER_NOTE[n]):
             parts.append(image(n))
+    if n in FIGURE_LINES:
+        parts.extend(figure(n))
+
+
+def figure(n):
+    """A figure below the notes: its image, its labels line by line, its caption (the
+    last paragraph, italic lines joined into one span)."""
+    paras = paragraphs(FIGURE_LINES[n])
+    caption = paras.pop() if paras[-1][0].startswith("*") else None
+    out = [image(n)]
+    if paras:
+        out.append(render_plate([l for p in paras for l in p]))
+    if caption:
+        out.append(esc(join_lines(caption, f"{n:03d}")))
+    return out
 
 
 # The first note paragraph of a page after a finished sentence, checked against the
 # images: continued from the previous page (flush left) or a new paragraph (indented).
-NOTE_CONTINUED = {189, 356}
-NOTE_NEW = {69}
+INFERNO["NOTE_CONTINUED"] = {189, 356}
+INFERNO["NOTE_NEW"] = {69}
 
 CONTINUED_CHECK = []
 NOTE_START_CHECK = []
@@ -447,11 +511,11 @@ def title_case(s):
 
 
 # Physical-copy and printer's marks transcribed on pages with printed text.
-DROP_LINES = {13: ["774552"], 413: ["2 C"]}
+INFERNO["DROP_LINES"] = {13: ["774552"], 413: ["2 C"]}
 # Pages printed as tables or plates: kept line by line.
-TABLES = {407}
+INFERNO["TABLES"] = {407}
 # Footnotes without a printed number: page -> (marker in the text, note text start).
-FOOTNOTES = {405: ("translation.¹", "Essays on Dante,")}
+INFERNO["FOOTNOTES"] = {405: ("translation.¹", "Essays on Dante,")}
 
 
 def page_lines(n):
@@ -478,7 +542,7 @@ def render_lines(p):
 # explanation of Fig. I under its figure on 411, then that of Fig. II from the foot of 411
 # onto 412, above its figure. Each figure is a section of its own: Fig. I with 411 up to
 # the label of Fig. II, Fig. II with the rest of 411 and with 412.
-FIGURES = (411, 412, "**Fig. II.")
+INFERNO["FIGURES"] = (411, 412, "**Fig. II.")
 
 
 def convert_figures(n):
@@ -547,7 +611,87 @@ def write(num, slug, parts):
     path.write_text("\n\n".join(parts) + "\n", encoding="utf-8")
 
 
+# ================================================================ the Purgatorio (1904)
+
+PURGATORIO = {}
+PURGATORIO["src"] = ROOT / "ocr" / "en-purgatorio"
+PURGATORIO["dst"] = ROOT / "texts" / "en-purgatorio"
+PURGATORIO["vocab"] = [PURGATORIO["src"], INFERNO["src"], ROOT / "ocr" / "en"]
+
+PURGATORIO["VERSES"] = [136, 133, 145, 139, 136, 151, 136, 139, 145, 139, 142, 136, 154, 151,
+                        145, 145, 139, 145, 145, 151, 136, 154, 133, 154, 139, 148, 142, 148,
+                        154, 145, 145, 160, 145]
+
+_FIRST = [14, 26, 36, 48, 60, 72, 86, 104, 116, 128, 138, 150, 162, 176, 190, 202, 214, 226,
+          240, 254, 270, 282, 296, 308, 322, 334, 346, 360, 374, 390, 404, 416, 430]
+PURGATORIO["CANTO_PAGES"] = [(f, l - 1) for f, l in zip(_FIRST, _FIRST[1:] + [444])]
+
+# The plate of the Zodiac (p. 59), the family tables (pp. 86-91, 241), the map (pp. 376-377).
+PURGATORIO["PLATES"] = {71, 98, 99, 100, 101, 102, 103, 253, 388, 389}
+PURGATORIO["IMAGES"] = {
+    24: "The course of the Poets round and up the northern half of the Mount of Purgatory",
+    25: "The mountain under light and shade at 6 a.m.",
+    46: "Clock marking simultaneous hours at different regions of the earth",
+    47: "The longitudes of Purgatory, Spain, Italy, Jerusalem and India",
+    59: "The mountain under light and shade at noonday",
+    71: "The hours at which the signs of the Zodiac begin to rise at the spring equinox",
+    115: "The mountain under light and shade at 6 p.m.",
+    388: "Map of Upper and Central Italy in Dante's time (west)",
+    389: "Map of Upper and Central Italy in Dante's time (east)",
+}
+PURGATORIO["IMAGE_AFTER_NOTE"] = {}
+PURGATORIO["FIGURE_FROM"] = {24: "N", 25: "N", 46: "NOON", 47: "Purgatory.", 59: "N",
+                             115: "N"}
+PURGATORIO["SIGNATURE_ABOVE"] = {253}
+PURGATORIO["ITALIC_JOIN"] = True
+
+PURGATORIO["FRONT"] = ("title-page", [7, 8, 10, 11, 13])
+PURGATORIO["BACK"] = [
+    ("note-on-dantes-purgatory", [444, 445, 446]),
+    ("the-chronology-of-the-purgatorio", [447, 448, 449]),
+    ("general-editorial-note", [451]),
+    ("translators-note", [452]),
+    ("editorial-note", [453]),
+    ("index-to-plates-tables-etc", [454, 455]),
+]
+# Line-end hyphens decided by hand (as INFERNO's): the word as it is to be written.
+PURGATORIO["HYPHEN_FIXED"] = {
+    "distin-guishing": "distinguishing",  # divided across pages (149)
+    "father-in": "father-in-law",  # father- / in-law
+    "mid-quadrant": "mid-quadrant", "foster-mothers": "foster-mothers",
+    "supernatural-rationalistic": "supernatural-rationalistic",
+    "over-heard": "overheard", "over-taking": "overtaking", "o’er-shadows": "o’ershadows",
+    "other-where": "otherwhere", "fossa-nuova": "Fossanuova",
+}
+# The first note paragraph of a page after a finished sentence, checked in the images
+# (as NOTE_CONTINUED above).
+PURGATORIO["NOTE_CONTINUED"] = {45, 69, 113, 252, 343, 415, 428}
+PURGATORIO["NOTE_NEW"] = {267}
+PURGATORIO["DROP_LINES"] = {}
+PURGATORIO["TABLES"] = set()
+PURGATORIO["FOOTNOTES"] = {}
+PURGATORIO["FIGURES"] = ()
+
+VOLUMES = {"inferno": INFERNO, "purgatorio": PURGATORIO}
+
+
+def configure(name):
+    """Make the settings of a volume the module's globals, read by the functions above."""
+    global SRC, DST, VOCAB_LOWER
+    vol = VOLUMES[name]
+    SRC, DST = vol["src"], vol["dst"]
+    globals().update({k: v for k, v in vol.items() if k.isupper()})
+    VOCAB_LOWER = build_vocab(vol["vocab"])
+
+
+def image(n):
+    return f"![{IMAGES[n]}](images/{n:03d}.jpg)"
+
+
 def main():
+    ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
+    ap.add_argument("volume", nargs="?", default="inferno", choices=VOLUMES)
+    configure(ap.parse_args().volume)
     DST.mkdir(parents=True, exist_ok=True)
     errors = []
     write(1, FRONT[0], convert_plain(FRONT[1], title_page=True))
