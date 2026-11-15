@@ -26,7 +26,7 @@ questo rapporta, sì che non presuma
 a tanto segno più mover li piedi.
 La mente che qui luce, in terra fuma; 100
 onde riguarda come può laggiùe
-quel che non puote, perchè il ciel l' assuma”
+quel che non puote, perchè il ciel l' {{assuma”|assuma.”}}
 Sì mi prescrisser le parole sue, 103
 ch' io lasciai la questione, e mi ritrassi
 a domandarla umilmente chi fue.

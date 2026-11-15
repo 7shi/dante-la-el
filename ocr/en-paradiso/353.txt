@@ -41,6 +41,6 @@ Wherefore, if thou draw thy measure round the
 virtue, not the semblance of the substances
 which appear to thee in circles,
 
-thou wilt see a wondrous congruence of greater
+thou wilt see a wondrous {{congruance|congruence}} of greater
 unto more and smaller unto less in every
 heaven to its intelligence.”

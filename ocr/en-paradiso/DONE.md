@@ -99,3 +99,43 @@ the diagram of p. 12), to decide whether the base needs a retype.
   the left edge, written `§` at the foot; `331` the signature mark `X` written `x` (the
   signatures run U 315, X 331, Y 347).
 - The *Inferno*'s and the *Purgatorio*'s output unchanged.
+
+## Step 4: the comparison (2026-11-15)
+
+All 424 pages of the base (`005`–`430`) at once, without batches.
+
+- **The readings**: GLM-OCR over all 436 leaves (the user, `ocr/scripts/glmocr.py`);
+  `--check` listed 6 pages with a repetition, the poem's own (`338`, `339` `il loco
+  mio`) or GLM-OCR's, which `cmpread.py` leaves out by their length (`006`, `201`,
+  `217`, `429`).
+- **The comparison**: `cmpread.py` with GLM-OCR as the second reading (`-i ia-ocr`,
+  `--verse-numbers`): 1422 places (A 402, B 925, C 95), as in the *Purgatorio* mostly
+  the marginal labels and running heads placed elsewhere, the accents GLM-OCR dropped,
+  its repeated runs and its misreadings of `fi` and `fl` (`siamma`). A second run with
+  Tesseract's lines (joined from its word boxes) as the second reading; from the two,
+  the places where two of GLM-OCR, Tesseract and Internet Archive read the same against
+  the base, the accents, ligatures, `l`/`1`/`I`, labels and heads left out: 129, each
+  decided in the image (most a comma for a period or a straight quote, read alike by
+  Tesseract and Internet Archive). Then the places where all three differ from the base,
+  and the 95 runs of class C: no line lost by the base.
+- **agy's uncertain places** (208 in the two reports): 64 where a reading differs,
+  decided with the rest; the 144 others where every reading agrees with the base, read
+  for a misprint or a missing mark the comparison cannot see (a hyphen, a stop).
+- **Found** (readcheck.tsv): 16 errors of the base and 15 misprints marked.
+  - The Italian made as the standard text has it (10): the spellings `egualemente`,
+    `donde`, `reddire`, `servigio`, `millesmo`, `Jesù`, `produtto`, `vuoli`, and two
+    semicolons (after `vista`, `Paradiso`) made a colon and a comma. Also `behooves` for
+    `behoves`, `whereof` for `wherefrom`, `IX.` for `XIX.` (a map's caption), `ard`
+    for `and`, a faint line-end hyphen (`includ-`) and a word space (`they descended`).
+  - Misprints corrected silently by the base, now marked (5): `bide`, `Imolose`,
+    `43-45,`, `congruance`, `giù`.
+  - Misprints kept by the base unmarked, now marked (10): `him.`, `Repnblic` (a turned
+    `u`), `be` for `he`, `second.`, `fa,montando`, `1302` and two Italian lines without
+    their stop, `them` without its hyphen, `all.`.
+  - Of the first batch of the base (`005`–`041`, before agy's subagents switched to
+    `invoke_subagent`), one error (`040`).
+- **Decided printed**: `334` `ego` (the italic `o` worn open, as the `e` before it);
+  `050` `possendo`, `254` `can` (broken letters); `083` `Modĕna`; `418` the label
+  `Empir`, `211` `The Pere gate`, left to the read-through.
+- The converter's report unchanged against step 2; the *Inferno*'s and the
+  *Purgatorio*'s output not touched.

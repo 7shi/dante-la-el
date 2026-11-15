@@ -5,7 +5,7 @@ si fe' sì chiaro, ch' io dicea pensando:
 “Io veggio ben l' amor che tu m' accenne.
 Ma quella, ond' io aspetto il come e il quando 46
 del dire e del tacer, si sta, ond' io
-contra il disio fo ben ch' io non domando”
+contra il disio fo ben ch' io non {{domando”|domando.”}}
 Perch' ella, che vedeva il tacer mio 49
 nel veder di colui che tutto vede,
 mi disse: “Solvi il tuo caldo disio.”

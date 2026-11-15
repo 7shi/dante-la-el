@@ -23,7 +23,7 @@ we have endeavoured to deal, however concisely, with
 the more serious difficulties of the thought and teach-
 ing of the poem, so as to make our Commentary,
 within its limits, as complete as possible. But in
-these weightier matters the reader must, after all. be
+these weightier matters the reader must, after {{all.|all,}} be
 his own commentator; for, as one of the earliest and
 best of Dante scholars (Benvenuto da Imola) has re-
 marked: “It is rather great wit than great learning
