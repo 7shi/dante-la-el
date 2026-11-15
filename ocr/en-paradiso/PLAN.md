@@ -16,9 +16,13 @@ The work done is to be recorded in DONE.md, as the steps go.
 The scan is chosen (README.md, "Choice of the scan"): paradisoofdante00dant, the reprint
 of November 1910. The pages are rendered as `NNN.png` (436, NNN the leaf of Internet
 Archive's OCR, 300 dpi; by the script that became `ocr/scripts/iapdf.py`). Tesseract has run over all pages
-(`tesseract/`); GLM-OCR has begun (`glm-ocr/`, a few pages, not committed). Not done yet:
-`ia-ocr/`, the base, and every step below. Next: step 0 (the converter's settings) and
-step 1 (the task file for the base, `ia-ocr/`, INDEX.md).
+(`tesseract/`); GLM-OCR has begun (`glm-ocr/`, a few pages, not committed; now run
+through `ocr/scripts/glmocr.py`). Step 0 is done; of step 1, `ia-ocr/`, INDEX.md and
+README.md "Layout" are done, and the task file for the base's trial pages (`012`–`036`)
+is written; the base of the trial's pages (`012`–`036`) is done by agy, and the trial
+(step 3) read them: 4 errors of marks and spacing, no word (DONE.md); no retype (the
+user). Next: the base of the other pages (the front and end matter, `037`–`430`) by agy
+in two or three runs, its task file with the settled readings below; then step 2.
 
 ## The text
 
@@ -104,7 +108,17 @@ No waiting for approval and no commits between the steps' batches.
 - **The scan** (the user, 2026-11-15): paradisoofdante00dant, the reprint of November
   1910, by GUIDE.md's "Choosing the scan" (README.md): the latest complete printing with
   the cleanest images; the 1904 scan lacks pp. 406–407.
+- **No retype** (the user, 2026-11-15): the trial found 4 errors of the base in 25
+  pages, all of marks and spacing (DONE.md, step 3); the base of the other pages is
+  checked by the comparison and the read-through, as the *Purgatorio*'s.
 
 ## Settled readings
 
 The edition's readings found in the steps go here, and are applied, not asked again.
+
+- **The three-dot mark** before a general note is written `∵`, as in `en-purgatorio`
+  (trial, `020`).
+- **`=` between words** is written as printed, close (`Apollo=the Sun=God`); the base
+  spaced it (trial, `020`, `023`, `035`).
+- **The colon in citations**, printed spaced, is written `N: N` (`Conv.` iii. 14: 29-50),
+  as in `en-purgatorio`; the base wrote it so throughout the trial.
