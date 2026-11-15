@@ -1,2 +1,5 @@
 page	line	printed	fixed	applied	source	note
 020	8	tu	fu	yes	edition	Canto I 89 `che fatta fu`; the letter is printed as a `t` (4x crop), and every reading has `tu`; found by the trial check.
+344	43	Hermaphoditus	Hermaphroditus	yes	edition	note to Canto XXVI 82-87; printed without the `r`, read by Tesseract, GLM-OCR and IA.
+395	44	pitv	pity	yes	edition	Canto XXX, the English (last tercet of the page); the `y` printed as a `v` (crop); read so by Tesseract, GLM-OCR and IA.
+447	16	Belaqua	Belacqua	yes	edition	Chronology; `Belacqua` elsewhere in the book (Canto IV, the label `Dante and Belacqua`).

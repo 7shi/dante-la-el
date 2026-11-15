@@ -34,3 +34,27 @@ and 13), to decide whether the base needs a retype.
 - **Decision** (the user): no retype (PLAN.md, "Decisions"). The fixes are rows of
   [readcheck.tsv](readcheck.tsv) and [misprints.tsv](misprints.tsv) (`misprints.py
   ocr/en-purgatorio`: 1 row, 1 mark, 0 problems).
+
+## Step 6: the comparison of the rest (2026-11-15)
+
+The other 424 pages (`007`–`013`, `039`–`455`), compared at once, without batches.
+
+- **The base**: la-el-agy in the same mode, in two runs from task files (`039`–`239`;
+  `007`–`013` and `240`–`455`), workers writing about eight pages each.
+- **The comparison**: `cmpread.py` with GLM-OCR as the second reading (`-i ia-ocr`,
+  `--verse-numbers`): 1429 places (A 332, B 858, C 239). Mostly as in the trial: the
+  marginal labels and running heads placed elsewhere, the accents GLM-OCR and Tesseract
+  dropped, GLM-OCR's joined lines and repeated blocks (`225`). A second run with
+  Tesseract's lines as the retype listed the places where Tesseract and Internet Archive
+  read the same against the base and GLM-OCR. The places left after that filtering
+  (about 60) were decided in the image; the 17 accents GLM-OCR and Internet Archive
+  dropped against the base were all printed as the base has them.
+- **Found**: 19 errors of the base (readcheck.tsv).
+  - Spellings made modern: `condicion`, `agevolmente`, `ecstasy`, `poter`, `behooves`,
+    `behooved`, `familiari`, `esempio` (twice), `ence` for `ance`.
+  - Misprints corrected silently, now marked: `Hermaphoditus`, `pitv`, `Belaqua`.
+  - Other misreadings: `Phililistines`, `p!unged`, `115-126`, `§ 1.`.
+  - Lost text: a line (`067`, `fore robbest thou me?`) and a two-line note (`319`, note
+    51).
+- **Not compared here**: the paragraph breaks and the verse counts (step 4), the tables'
+  line division.
