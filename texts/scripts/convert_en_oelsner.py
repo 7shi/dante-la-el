@@ -24,6 +24,9 @@ INFERNO = {}
 INFERNO["src"] = ROOT / "ocr" / "en-oelsner"
 INFERNO["dst"] = ROOT / "texts" / "en-oelsner"
 INFERNO["vocab"] = [INFERNO["src"], ROOT / "ocr" / "en"]
+# The printed page = leaf - 12; the epigraph on 013 is p. [1].
+INFERNO["PAGE_OFFSET"] = 12
+INFERNO["EPIGRAPH"] = 13
 
 # Verses per canto in the Inferno.
 INFERNO["VERSES"] = [136, 142, 136, 151, 142, 115, 130, 130, 133, 136, 115, 139, 151, 142, 124, 136, 136,
@@ -58,6 +61,9 @@ INFERNO["IMAGE_AFTER_NOTE"] = {284: "will make these verses clear:"}
 # Figures printed below the notes of a page, from the line given to the page's end:
 # their labels and caption (none in the Inferno).
 INFERNO["FIGURE_FROM"] = {}
+# A figure between two notes, its labels from the first line given to the last (none in
+# the Inferno).
+INFERNO["FIGURE_BETWEEN"] = {}
 # Pages whose signature mark stands on its own line above the page number.
 INFERNO["SIGNATURE_ABOVE"] = set()
 # Italic spans closed at a line end and opened again on the next line joined into one
@@ -92,11 +98,11 @@ def roman(n):
 
 
 def page_no(n):
-    if n == 13:
+    if n == EPIGRAPH:
         return "[1]"  # the epigraph
-    if n < 13:
+    if n < EPIGRAPH:
         return None
-    return str(n - 12)
+    return str(n - PAGE_OFFSET)
 
 
 def marker(n, band=""):
@@ -107,8 +113,8 @@ def marker(n, band=""):
 
 # ---------------------------------------------------------------- reading
 
-HEAD = re.compile(r"[\dIlO ]*(INFERNO|PURGATORIO|CANTO [IVXL1 ]+|([IVX]+\. )?NOTES"
-                  r"|DANTE['’]S (HELL|PURGATORY)"
+HEAD = re.compile(r"[\dIlO ]*(INFERNO|PURGATORIO|PARADISO|CANTO [IVXL1 ]+|([IVX]+\. )?NOTES"
+                  r"|DANTE['’]S (HELL|PURGATORY|PARADISE)|\d+ EDITORIAL NOTE|EDITORIAL NOTE \d+"
                   r"|CHRONOLOGY OF [\"“](INFERNO|PURGATORIO)[\"”])?[\dIlO ]*")
 
 
@@ -127,6 +133,7 @@ def fixed(t):
 
 
 FIGURE_LINES = {}  # page -> the lines of the figure below its notes (FIGURE_FROM)
+FIGURE_LINES_BETWEEN = {}  # page -> the labels of the figure between notes (FIGURE_BETWEEN)
 
 
 def read_page(n):
@@ -141,6 +148,13 @@ def read_page(n):
         lines = lines[:k]
         while lines and not lines[-1].strip():
             lines.pop()
+    if n in FIGURE_BETWEEN:
+        # a figure between two notes: its labels kept apart, shown after its image
+        first, last = FIGURE_BETWEEN[n]
+        k = lines.index(first)
+        m = lines.index(last, k)
+        FIGURE_LINES_BETWEEN[n] = lines[k:m + 1]
+        lines = lines[:k] + lines[m + 1:]
     # running head (and page number), recognized by position: the first lines
     for _ in range(2):
         if lines and is_head(lines[0]):
@@ -457,6 +471,8 @@ def canto_notes(canto, n, paras, band=""):
         canto.last_note = (len(parts) - 1, text)
         if n in IMAGE_AFTER_NOTE and text.endswith(IMAGE_AFTER_NOTE[n]):
             parts.append(image(n))
+            if n in FIGURE_LINES_BETWEEN:
+                parts.append(render_plate(FIGURE_LINES_BETWEEN[n]))
     if n in FIGURE_LINES:
         parts.extend(figure(n))
 
@@ -515,6 +531,10 @@ def title_case(s):
 INFERNO["DROP_LINES"] = {13: ["774552"], 413: ["2 C"]}
 # Pages printed as tables or plates: kept line by line.
 INFERNO["TABLES"] = {407}
+# Pages of the end matter kept line by line from the paragraph that begins with the line
+# given (a scheme below the text), and indexes printed without space between entries.
+INFERNO["LINES_FROM"] = {}
+INFERNO["INDEX_ENTRIES"] = set()
 # Footnotes without a printed number: page -> (marker in the text, note text start).
 INFERNO["FOOTNOTES"] = {405: ("translation.¹", "Essays on Dante,")}
 
@@ -575,9 +595,16 @@ def convert_plain(pages, title_page=False):
             ref, start = FOOTNOTES[n]
             k = next(k for k, l in enumerate(lines) if start in l[:len(start) + 3])
             note = join_lines([l.strip() for l in lines[k:] if l.strip()], f"{n:03d}")
+            note = re.sub(r"^¹\s*", "", note)  # the mark, when the base writes it
             lines = lines[:k]
-        for j, p in enumerate(paragraphs_raw(lines)):
-            if title_page or n in TABLES:
+        paras = paragraphs_raw(lines)
+        if n in INDEX_ENTRIES:
+            paras = index_entries(paras)
+        from_k = None
+        if n in LINES_FROM:
+            from_k = next(k for k, p in enumerate(paras) if p[0].strip() == LINES_FROM[n])
+        for j, p in enumerate(paras):
+            if title_page or n in TABLES or (from_k is not None and j >= from_k):
                 parts.append(render_lines(p))
             elif i == 0 and j == 0 and is_title(p):
                 parts.append("# " + title_case(" ".join(p).replace("*", "")))
@@ -591,6 +618,22 @@ def convert_plain(pages, title_page=False):
             parts = [x.replace(ref, ref.rstrip("¹") + label) for x in parts]
             parts.append(f"{label}: {note}")
     return parts
+
+
+def index_entries(paras):
+    """An index printed without space between its entries: each entry, ended by the line
+    with its page number, a paragraph of its own."""
+    out = []
+    for p in paras:
+        cur = []
+        for l in p:
+            cur.append(l)
+            if re.search(r"\d+(-\d+)?$", l.strip()):
+                out.append(cur)
+                cur = []
+        if cur:
+            out.append(cur)
+    return out
 
 
 def paragraphs_raw(lines):
@@ -618,6 +661,8 @@ PURGATORIO = {}
 PURGATORIO["src"] = ROOT / "ocr" / "en-purgatorio"
 PURGATORIO["dst"] = ROOT / "texts" / "en-purgatorio"
 PURGATORIO["vocab"] = [PURGATORIO["src"], INFERNO["src"], ROOT / "ocr" / "en"]
+PURGATORIO["PAGE_OFFSET"] = 12
+PURGATORIO["EPIGRAPH"] = 13
 
 PURGATORIO["VERSES"] = [136, 133, 145, 139, 136, 151, 136, 139, 145, 139, 142, 136, 154, 151,
                         145, 145, 139, 145, 145, 151, 136, 154, 133, 154, 139, 148, 142, 148,
@@ -643,6 +688,7 @@ PURGATORIO["IMAGES"] = {
 PURGATORIO["IMAGE_AFTER_NOTE"] = {}
 PURGATORIO["FIGURE_FROM"] = {24: "N", 25: "N", 46: "NOON", 47: "Purgatory.", 59: "N",
                              115: "N"}
+PURGATORIO["FIGURE_BETWEEN"] = {}
 PURGATORIO["SIGNATURE_ABOVE"] = {253}
 PURGATORIO["ITALIC_JOIN"] = True
 
@@ -670,6 +716,8 @@ PURGATORIO["NOTE_CONTINUED"] = {45, 69, 113, 252, 343, 415, 428}
 PURGATORIO["NOTE_NEW"] = {267}
 PURGATORIO["DROP_LINES"] = {}
 PURGATORIO["TABLES"] = set()
+PURGATORIO["LINES_FROM"] = {}
+PURGATORIO["INDEX_ENTRIES"] = set()
 PURGATORIO["FOOTNOTES"] = {}
 PURGATORIO["FIGURES"] = ()
 
@@ -682,6 +730,9 @@ PARADISO = {}
 PARADISO["src"] = ROOT / "ocr" / "en-paradiso"
 PARADISO["dst"] = ROOT / "texts" / "en-paradiso"
 PARADISO["vocab"] = [PARADISO["src"], PURGATORIO["src"], INFERNO["src"], ROOT / "ocr" / "en"]
+# The printed page = leaf - 10; the epigraph on 011 is p. [1] (ocr/en-paradiso/README.md).
+PARADISO["PAGE_OFFSET"] = 10
+PARADISO["EPIGRAPH"] = 11
 
 PARADISO["VERSES"] = [142, 148, 130, 142, 139, 142, 148, 148, 142, 148, 139, 145, 142, 139,
                       148, 154, 142, 136, 148, 148, 142, 154, 139, 154, 139, 142, 148, 139,
@@ -708,10 +759,13 @@ PARADISO["IMAGES"] = {
     406: "Map of the World west of Jerusalem",
     407: "Map of the World east of Jerusalem",
 }
-PARADISO["IMAGE_AFTER_NOTE"] = {}
-# The first line of each figure printed among the notes (22, 69, 98, 99, 110, 111, 151,
-# 406, 407), as the base writes it: step 2.
-PARADISO["FIGURE_FROM"] = {}
+# The diagram on 022 stands between two notes: after the note that ends so, its labels
+# (FIGURE_BETWEEN: the first and the last) after the image.
+PARADISO["IMAGE_AFTER_NOTE"] = {22: "it at the same spot."}
+PARADISO["FIGURE_BETWEEN"] = {22: ("S.P.", "N.P.")}
+# The figures below the notes, from their first line to the page's end.
+PARADISO["FIGURE_FROM"] = {69: "*Canto II*", 98: "R.Rhone", 99: "R.Tronto", 110: "BOHEMIA",
+                           111: "MARSEILLES", 151: "S. UBALDO", 406: "II", 407: "I"}
 PARADISO["SIGNATURE_ABOVE"] = set()
 PARADISO["ITALIC_JOIN"] = True
 
@@ -723,12 +777,20 @@ PARADISO["BACK"] = [
     ("editorial-note", [426, 427, 428]),
     ("index-to-maps-diagrams-and-tables", [429]),
 ]
-PARADISO["HYPHEN_FIXED"] = {}
-PARADISO["NOTE_CONTINUED"] = set()
-PARADISO["NOTE_NEW"] = set()
+PARADISO["HYPHEN_FIXED"] = {
+    "establish-ment": "establishment", "signa-ture": "signature", "endow-ment": "endowment",
+    "inter-change": "interchange",
+    "new-create": "new-create", "diverse-natured": "diverse-natured", "things-to": "things-to",
+    "a-moving": "a-moving", "three-stringed": "three-stringed", "tooth-grips": "tooth-grips",
+}
+PARADISO["NOTE_CONTINUED"] = {35}
+PARADISO["NOTE_NEW"] = {57}
 PARADISO["DROP_LINES"] = {}
 PARADISO["TABLES"] = set()
-PARADISO["FOOTNOTES"] = {}
+# The scheme of the heavens below the text of 423; the index on 429.
+PARADISO["LINES_FROM"] = {423: "Empyrean"}
+PARADISO["INDEX_ENTRIES"] = {429}
+PARADISO["FOOTNOTES"] = {420: ("*Essays on Dante*¹", "*Essays on Dante.*")}
 PARADISO["FIGURES"] = ()
 
 VOLUMES = {"inferno": INFERNO, "purgatorio": PURGATORIO, "paradiso": PARADISO}
