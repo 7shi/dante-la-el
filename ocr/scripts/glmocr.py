@@ -9,7 +9,8 @@ on a page), but llm7shi watches the stream: a page that runs away (repeats itsel
 stopped instead of filling the screen. A stopped page is written as it stood when stopped
 and listed at the end, to be looked at and cut by hand (GLM-OCR runs at temperature 0, so
 trying again gives the same text: there is no retry). Pages whose NNN.txt exists are
-skipped; a file is written only when its page is finished or stopped, so an interrupted
+skipped, checked at the start and again just before each page is read (another run may
+have written it in the meantime); a file is written only when its page is finished or stopped, so an interrupted
 run (Ctrl+C) leaves no partial file.
 
 --check reads nothing: it lists the NNN.txt already written (all of OUT, or those of the
@@ -132,10 +133,15 @@ def main():
     todo = [p for p in a.images if not (a.outdir / f"{p.stem}.txt").exists()]
     print(f"{len(a.images)} images, {len(a.images) - len(todo)} done, {len(todo)} to read",
           file=sys.stderr)
-    stopped = []
+    stopped, skipped = [], []
     for i, image in enumerate(todo, 1):
         out = a.outdir / f"{image.stem}.txt"
         print(f"\n=== {image} ({i}/{len(todo)}) ===", file=sys.stderr)
+        # checked again here: another run may have written it since the list was made
+        if out.exists():
+            skipped.append(image.stem)
+            print(f"-> {out} exists now, skipped", file=sys.stderr)
+            continue
         resp = read(image, a.model)
         text = resp.text.strip()
         out.write_text(text + "\n" if text else "", encoding="utf-8")
@@ -144,6 +150,9 @@ def main():
             print(f"\n-> {out} (ran away)", file=sys.stderr)
         else:
             print(f"\n-> {out}", file=sys.stderr)
+    if skipped:
+        print(f"\n{len(skipped)} pages written meanwhile by another run, skipped: "
+              f"{' '.join(skipped)}", file=sys.stderr)
     if stopped:
         print(f"\n{len(stopped)} pages ran away (stopped or with a sign), written as they stood: "
               f"{' '.join(stopped)}", file=sys.stderr)
