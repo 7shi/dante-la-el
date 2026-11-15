@@ -41,7 +41,7 @@ reference is to Lucius Varius Rufus, author of a
 tragedy and epics, who lived in the Augustan Age
 and is mentioned by Horace, *Ars Poet.*, 54, 55,
 together with Caecilius and Plautus]; Persius
-(34-62): the satirist.—Euripides (480-441, B.C.),
+(34-62): the satirist.—Euripides ({{480-441|480-406}}, B.C.),
 Antiphon and Agathon (*ca.* 448-400, B.C.): tragic
 poets; Simonides (*ca.* 556-467, B.C.): lyric poet.
 

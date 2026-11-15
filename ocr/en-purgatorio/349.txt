@@ -30,7 +30,7 @@ rooted, and with accusing conscience.
 
 When he saw me stand yet rooted and stubborn,
 troubled a little he said: “Now look my son,
-twixt Beatrice and thee is this wall.”
+{{twixt|’twixt}} Beatrice and thee is this wall.”
 
 As at Thisbe’s name Pyramus opened his eyes
 at the point of death, and gazed at her, when

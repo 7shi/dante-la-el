@@ -37,7 +37,7 @@ We were journeying on through the evening,
 straining our eyes forward, as far as we could,
 against the evening and shining rays;
 
-and lo, little by little,a smoke, dark as night, rolling
+and lo, little by {{little,a|little, a}} smoke, dark as night, rolling
 towards us, nor any room was there to escape
 from it. This reft us of sight and the pure air.
 

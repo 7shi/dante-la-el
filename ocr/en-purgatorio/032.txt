@@ -8,7 +8,7 @@ per che l' ombra sorrise e si ritrasse,
 ed io, seguendo lei, oltre mi pinsi.
 Soavemente disse ch' io posasse; 85
 allor conobbi chi era e 'l pregai
-che per parlarmi un poco s 'arrestasse.
+che per parlarmi un poco {{s 'arrestasse|s' arrestasse}}.
 Risposemi: “Così com' io t' amai 88
 nel mortal corpo, così t' amo sciolta:
 però m' arresto; ma tu perchè vai?”

@@ -19,7 +19,7 @@ outside the repository. `ia-ocr/` is written for all pages; Tesseract and GLM-OC
 the user with their Makefiles (`tesseract/`, `glm-ocr/`), over all pages. Done
 (DONE.md): the base of all pages (step 3, `007`–`455`), the trial (step 5, no retype),
 the comparison (step 6, 19 errors of the base) and the read-through (step 7, 70 fixes and
-68 misprints); the decisions are rows of `readcheck.tsv` and `misprints.tsv`. Next: steps 1
+90 misprints); the decisions are rows of `readcheck.tsv` and `misprints.tsv`. Next: steps 1
 and 2 (INDEX.md, README.md "Layout", the converter made general), then the mechanical
 checks (step 4) on the converted text, the figures (step 8) and the close (step 9).
 
@@ -119,3 +119,13 @@ Then `ocr/en-paradiso` by the same steps; step 2 mostly reused.
 ## Settled readings
 
 The edition's readings found in the steps go here, and are applied, not asked again.
+
+- **Italian elisions set close** (`m'ami`, `d'udir`, `s'avviva`, `ch'allo`; 13 places,
+  `013`–`416`): printed without the space the edition usually leaves (`d’ inferno`); kept
+  as printed.
+- **Elisions split before an enclitic** (`rife' mi`, `leva' mi`, `senti' mi`; 18 places):
+  the edition's way; kept.
+- **The colon in citations** (`Conv. iii. 5: 90`): printed spaced on both sides; written
+  `N: N` everywhere.
+- **The `ì` printed as a dotless `ı`** whose accent is faint or lost: read as `ì` (`sì`,
+  `dì`, `così`, `partì`); a dotted `i` where the accent belongs is a misprint.

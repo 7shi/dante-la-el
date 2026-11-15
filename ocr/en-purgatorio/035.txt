@@ -40,7 +40,7 @@ canzone *Amor che nella mente mi ragiona* (see verse
 112) which was subsequently annotated by the poet
 in the third book of his *Convito*.
 
-98. *da tre mesi,i.e.,* since the beginning of the Jubilee
+98. *da tre {{mesi,i.e.,|mesi, i.e.,}}* since the beginning of the Jubilee
 (*cf. Inf.* xviii. 28-33).
 
 100-105. Salvation is to be attained only in the true

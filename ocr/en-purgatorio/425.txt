@@ -20,7 +20,7 @@ And as a voice comes from a heart that sorroweth,
 such voice came from heaven, and thus it spake:
 “O my little bark, how ill art thou laden!”
 
-**The Dragon** Then it seemed to me that the earth opened twixt
+**The Dragon** Then it seemed to me that the earth opened {{twixt|’twixt}}
 the two wheels, and I saw a dragon come forth
 that fixed his tail up through the car;
 

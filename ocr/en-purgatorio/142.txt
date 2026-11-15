@@ -10,7 +10,7 @@ E s' io non fossi impedito dal sasso, 52
 che la cervice mia superba doma,
 onde portar convienmi il viso basso,
 cotesti che ancor vive, e non si noma, 55
-guardere 'io, per veder s' io 'l conosco,
+{{guardere 'io|guardere' io}}, per veder s' io 'l conosco,
 e per farlo pietoso a questa soma.
 Io fui Latino, e nato d' un gran Tosco: 58
 Guglielmo Aldobrandesco fu mio padre:

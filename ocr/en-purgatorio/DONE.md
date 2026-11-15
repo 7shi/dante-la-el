@@ -74,13 +74,22 @@ time (GUIDE.md, step 3).
     `--`;
   - the colon in citations written `N: N` on 5 pages that had `N : N` (printed spaced
     on both sides everywhere).
-- **Misprints** (68 marks, misprints.tsv now 72 rows): tercet numbers (`146`, `3`, `117`,
+- **Misprints** (90 marks, misprints.tsv now 94 rows): tercet numbers (`146`, `3`, `117`,
   `93`, `35`); marginal labels (`Girone`, `Girone I` for II, `irone`); letters in the
   Italian (`motte`, `torcessse`, `piauger`, `sirrocchia`, `essse`, `Menrenti`, `verderti`,
   `n ciel`) and accents not printed (`ricomincio`, `giu`, `appario`); letters and spaces
   in the English (`woulds`, `Lonis`, `tnere`, `Tne`, `humanrace`, `fourages`, `feel`,
   `of of`, `I` printed twice); quotations (`erescit`, `beatudinem`); missing stops and
-  quotes in the notes.
-- **Kept as printed**: Italian elisions set close (`d'udir`, `s'avviva`, 13), split
-  elisions before an enclitic (`rife' mi`, `leva' mi`, 18), `twixt` (twice), the
-  editor's own slips in references (`Metam. xiv. 139`, `Matt. xxviii. 46`).
+  quotes in the notes. Then (the user: what is clearly wrong is a misprint) 22 more of
+  the places first kept: apostrophes set after the space (`s 'arrestasse`, `ond 'ei`,
+  `guardere 'io`, `ch 'è`), missing spaces (`Fat,of`, `little,a`, `mesi,i.e.,`),
+  `twixt` (twice), `la dolce assenzio`, `intelligence`, `remind`, stray or missing
+  stops, and the editor's slips whose right form is sure (`Matt. xxviii. 46`,
+  Euripides `480-441`, `De Vulg. El. 10: 12-16`).
+- **Kept as printed**: Italian elisions set close (`d'udir`, `s'avviva`, 13) and split
+  elisions before an enclitic (`rife' mi`, `leva' mi`, 18), the edition's way (PLAN.md,
+  "Settled readings"). The places doubted and kept, 34, are rows `printed` of
+  readcheck.tsv with the doubt in the note; those whose right form is not sure are
+  marked `undecided` there: `Purg. xxviii. 121-12` (cut short, `069`), `Metam. xiv. 139`
+  (`189`), the note numbers that differ from the verses (`159`, `160`, `173`, `238`),
+  `§ I.` / `§ 2.`, `exchange of friends`, and two stops (`115`, `185`).

@@ -28,7 +28,7 @@ Here have I brought thee with wit and with art;
 now take thy pleasure for guide; forth art thou
 from the steep ways, forth art from the narrow.
 
-Behold there the sun that shineth on thy brow. be-
+Behold there the sun that shineth on thy {{brow.|brow;}} be-
 hold the tender grass, the flowers, and the shrubs,
 which the ground here of itself alone brings forth.
 

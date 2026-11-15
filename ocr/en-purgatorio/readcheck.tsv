@@ -8,32 +8,60 @@ page	line	form	decision	note
 024	13	N: N	misread	read-through; the colon in a citation written `N: N`, as on the other pages (printed with a space on both sides); was `N : N`
 025	6	N: N	misread	read-through; the colon in a citation written `N: N`, as on the other pages (printed with a space on both sides); was `N : N`
 025	14	N: N	misread	read-through; the colon in a citation written `N: N`, as on the other pages (printed with a space on both sides); was `N : N`
+032	11	{{s 'arrestasse|s' arrestasse}}	misprint	read-through; as printed
 034	38	N: N	misread	read-through; the colon in a citation written `N: N`, as on the other pages (printed with a space on both sides); was `N : N`
+035	43	{{mesi,i.e.,|mesi, i.e.,}}	misprint	read-through; as printed
 044	36	N: N	misread	read-through; the colon in a citation written `N: N`, as on the other pages (printed with a space on both sides); was `N : N`
 046	23	{{103-145|103-145.}}	misprint	read-through; as printed
 051	11	(blank line)	misread	read-through; `for one faculty` begins a new paragraph (tercet 10); the blank line was missing
+057	35	Brother what	printed	read-through; no comma after `Brother`; kept, may be the edition's
+060	10	(22-42)	printed	read-through; the argument skips 13-21 after (1-12); kept, an argument need not cover every verse
 062	11	condizion	misread	cmp A (Tesseract, GLM-OCR, IA); was `condicion`
+065	25	offences,	printed	read-through; a comma at the end of the tercet; kept, the sentence may run on
 067	26	fore robbest thou me?	misread	cmp A; the line was missing after `where-`
+069	45	121-12	printed	read-through; the reference cut short (`Purg. xxviii. 121-12`, nothing after `12` in the image); undecided: 121-123 or 121-126
 083	28	{{133-135|133-135;}}	misprint	read-through; as printed
 084	17	N: N	misread	read-through; the colon in a citation written `N: N`, as on the other pages (printed with a space on both sides); was `N : N`
+095	40	{{Fat,of|Fat, of}}	misprint	read-through; as printed
 112	29	{{sermone.|sermone,}}	misprint	read-through; as printed
+114	3	{{Nino’|Nino}}	misprint	read-through; as printed
 114	43	{{xxiv|xxiv.}}	misprint	read-through; as printed
+115	15	(*v.* 113). material	printed	read-through; a period before a lowercase word; undecided: `:` or `=` or nothing
 117	10	peccata	misread	read-through; was `pescata`
 120	33	{{più|più e più}}	misprint	read-through; as printed
+122	5	in vano,	printed	read-through; a comma at the end of the tercet (verse 84); kept, the edition's pointing of the Italian
 124	33	{{146|145}}	misprint	read-through; as printed
 134	3	{{Girone|Girone I}}	misprint	read-through; as printed
+134	4	Ed quella	printed	read-through; also line 7; `Ed` before a consonant, twice; kept, the edition's reading
+139	14	Colle de Valdelsa	printed	read-through; `de` for `di`; kept, the editor's form
+140	34	{{ond 'ei|ond' ei}}	misprint	read-through; as printed
+142	13	{{guardere 'io|guardere' io}}	misprint	read-through; as printed
 156	14	agevolemente	misread	cmp A; was `agevolmente`
+157	33	safe.	printed	read-through; a period before `even so` (next tercet); kept, may be the edition's
+159	36	30-32.	printed	read-through; the note number against the verses (31-33?); undecided which verses the editor meant
 160	7	Philistines	misread	cmp A; was `Phililistines`
+160	15	44-45.	printed	read-through; the note number against the verses (43-45?); undecided
+164	10	conduci;”	printed	read-through; `;` inside the closing quote; kept, the edition's pointing
 168	3	{{Girone I|Girone II}}	misprint	read-through; as printed
+170	28	134	printed	read-through; the tercet number on the second line of the tercet (verse 134; the tercet begins at 133); kept, right for its line
 170	35	{{motte|motto}}	misprint	read-through; as printed
+173	31	51, 52.	printed	read-through; the note number against the verses (50, 51?); undecided
+185	35	stone”	printed	read-through; no stop after the quote before `and then`; undecided which stop
 188	35	{{Frederico|Federico}}	misprint	read-through; as printed
+189	40	*Metam.* xiv. 139	printed	read-through; Aglauros is in Met. ii.; undecided which lines the editor meant
 192	27	{{irone|Girone}}	misprint	read-through; as printed
 194	7	{{torcessse|torcesse}}	misprint	read-through; as printed
 197	8	ecstacy	misread	cmp A; was `ecstasy`, as printed `ecstacy`
 197	28	{{Pisistratus.|Pisistratus.”}}	misprint	read-through; as printed
 199	13	overcomes?”	misread	read-through; was `overcomes?’”`
+199	40	{{little,a|little, a}}	misprint	read-through; as printed
 202	22	ance	misread	cmp A; `insist-` / `ance`; was `ence`
 204	8	{{Guarda|“Guarda}}	misprint	read-through; as printed
+210	15	v' en	printed	read-through; `en` (= sono) without an accent; kept, the edition's form
+227	13	(46-75.)	printed	read-through; the period inside the bracket, also `(82-138.)`; kept, the same twice
+227	36	said;	printed	read-through; `;` before a quotation (also `disse;` on 404); kept, may be the edition's
+237	12	{{intelligence|intelligences}}	misprint	read-through; as printed
+238	11	75.	printed	read-through; note 75 after 79-81, out of order; undecided which verse
 240	10	plunged	misread	cmp A; the `l` printed broken, like `!`; was `p!unged`
 240	36	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 241	5	{{(76-87)|(76-87).}}	misprint	read-through; as printed
@@ -44,9 +72,11 @@ page	line	form	decision	note
 247	28	{{woulds|wouldst}}	misprint	read-through; as printed
 248	34	{{piauger|pianger}}	misprint	read-through; as printed
 250	5	esemplo	misread	Tesseract and IA; was `esempio`
+253	6	{{*m,*|*m.*}}	misprint	read-through; as printed
 254	36	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 255	42	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 262	11	poder	misread	cmp A; was `poter`
+264	23	an exchange of friends	printed	read-through; Fabricius negotiated an exchange of prisoners; undecided whether a misprint
 265	22	{{Lonis|Louis}}	misprint	read-through; as printed
 269	41	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 270	36	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
@@ -55,23 +85,29 @@ page	line	form	decision	note
 272	24	{{3|31}}	misprint	read-through; as printed
 276	31	“Taci.”	misread	read-through; was `“‘Taci.”`
 280	18	{{cf|cf.}}	misprint	read-through; as printed
+281	29	{{will.|will}}	misprint	read-through; as printed
 282	37	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 283	40	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 285	46	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 287	41	{{outlineI|outline I}}	misprint	read-through; as printed
 290	9	{{117|118}}	misprint	read-through; as printed
 291	15	behoves	misread	Tesseract and IA; was `behooves`
+294	44	{{480-441|480-406}}	misprint	read-through; as printed
 295	13	{{came|come}}	misprint	read-through; as printed
 296	37	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 297	41	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 300	12	che sì vi	misread	read-through; was `che si vi`
 300	30	quel dì	misread	read-through; was `quel di`
 301	46	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
+302	7	{{la dolce|lo dolce}}	misprint	read-through; as printed
+302	7	assenzio	printed	read-through; `assenzio` kept (`la dolce` marked a misprint); some editions `assenzo`
 304	18	così	misread	read-through; was `cosi`
+306	5	{{xxviii.|xxvii.}}	misprint	read-through; as printed
 306	7	{{will of God|will of God.}}	misprint	read-through; as printed
 307	24	{{112-126|112-126.}}	misprint	read-through; as printed
 308	35	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 309	37	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
+310	12	Questi	printed	read-through; no opening quote before Forese's words; kept, the edition's pointing (the quote may run on)
 314	20	teco sì a	misread	read-through; was `teco si a`
 314	24	tal sì partì	misread	read-through; was `tal si parti`
 317	47	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
@@ -89,28 +125,39 @@ page	line	form	decision	note
 335	13	115-125	misread	cmp A; was `115-126`; as printed
 335	41	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 338	25	{{ricomincio|ricominciò}}	misprint	read-through; as printed
+338	26	inbarche	printed	read-through; `inbarche` for `imbarche`; kept, an older spelling
 339	12	{{wherefor|wherefore}}	misprint	read-through; as printed
+341	7	knowst	printed	read-through; no apostrophe (`know’st`); kept, the only instance
 341	23	{{ I|}}	misprint	read-through; as printed
+342	15	di un	printed	read-through; `di un` for `d' un`; kept, the edition's reading
+343	35	Arnault	printed	read-through; the English `Arnault`, the Italian and the notes `Arnaut`; kept, the translator's form
 344	43	{{Hermaphoditus|Hermaphroditus}}	misprint	cmp A; was `Hermaphroditus`
+345	43	{{10:|i. 10:}}	misprint	read-through; as printed
 346	35	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 347	38	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 348	21	{{giu|giù}}	misprint	read-through; as printed
 348	30	{{là|la}}	misprint	read-through; as printed
+349	33	{{twixt|’twixt}}	misprint	read-through; as printed
 349	46	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 352	15	Sì ruminando	misread	read-through; was `Si ruminando`
 354	4	{{essse|esse}}	misprint	read-through; as printed
+355	31	{{brow.|brow;}}	misprint	read-through; as printed
 356	33	{{himself|himself.}}	misprint	read-through; as printed
 356	38	{{erescit|erexit}}	misprint	read-through; as printed
 358	14	{{Conv|Conv.}}	misprint	read-through; as printed
 360	36	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 361	39	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 364	10	{{se,|sè,}}	misprint	read-through; as printed
+365	21	{{meaning|meaning.}}	misprint	read-through; as printed
 365	23	{{tnere|there}}	misprint	read-through; as printed
 365	45	{{humanrace|human race}}	misprint	read-through; as printed
 365	46	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
+368	3	{{ch 'è|ch' è}}	misprint	read-through; as printed
 373	17	{{139-144|139-144.}}	misprint	read-through; as printed
 374	36	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 375	38	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
+376	6	ed ecco	printed	read-through; lowercase at the tercet start; kept, the sentence runs on
+377	35	holy, holy,	printed	read-through; `O holy, holy, Virgins`; kept
 378	3	{{si presso|sì presso}}	misprint	read-through; as printed
 380	15	{{n ciel|in ciel}}	misprint	read-through; as printed
 380	18	{{93|94}}	misprint	read-through; as printed
@@ -118,8 +165,11 @@ page	line	form	decision	note
 382	27	famigliari	misread	cmp A; was `familiari`
 384	42	Holy	misread	read-through; was `HoIy`
 386	26	{{Tne|The}}	misprint	read-through; as printed
+386	49	{{thousand|thousand.}}	misprint	read-through; as printed
+386	50	{{. . .|. . .”}}	misprint	read-through; as printed
 390	34	{{appresso|appresso.}}	misprint	read-through; as printed
 390	38	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
+391	17	The deep fate of God	printed	read-through; `deep` (high?); kept, plausible
 391	41	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 394	18	{{appario|apparìo}}	misprint	read-through; as printed
 395	44	{{pitv|pity}}	misprint	cmp A; was `pity`
@@ -127,6 +177,8 @@ page	line	form	decision	note
 397	46	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 402	5	{{delights)|delights”)}}	misprint	read-through; as printed
 402	13	{{fourages|four ages}}	misprint	read-through; as printed
+404	15	{{remind|reminds}}	misprint	read-through; as printed
+404	33	disse;	printed	read-through; `;` before a quotation (also `said;` on 227); kept, may be the edition's
 404	36	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 405	40	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 410	33	{{Menrenti|Merrenti}}	misprint	read-through; as printed
@@ -135,6 +187,7 @@ page	line	form	decision	note
 412	26	{{verderti|vederti}}	misprint	read-through; as printed
 413	47	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 414	4	{{of of|of}}	misprint	read-through; as printed
+414	19	pennatorum	printed	read-through; printed in roman after the italic `jacitur rete ante oculos`; kept as printed
 414	23	—	misread	read-through; was `--`
 415	3	{{xxx,|xxx.}}	misprint	read-through; as printed
 415	40	{{106-111)|106-111).}}	misprint	read-through; as printed
@@ -144,6 +197,8 @@ page	line	form	decision	note
 418	33	Così	misread	read-through; was `Cosi`
 420	21	esemplo	misread	Tesseract and IA; was `esempio`
 421	29	{{feel|fell}}	misprint	read-through; as printed
+423	7	“where is Beatrice!”	printed	read-through; lowercase and `!`; kept, may be the translator's
+425	23	{{twixt|’twixt}}	misprint	read-through; as printed
 426	17	{{xxx,|xxx.}}	misprint	read-through; as printed
 428	30	{{beatudinem|beatitudinem}}	misprint	read-through; as printed
 429	42	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
@@ -153,6 +208,7 @@ page	line	form	decision	note
 443	33	{{*sqq*,|*sqq*.}}	misprint	read-through; as printed
 444	4	§ I.	misread	cmp A; was `§ 1.`
 444	41	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
+445	29	§ 2.	printed	read-through; `§ I.` on 444; undecided which numbering is meant
 445	48	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 447	16	{{Belaqua|Belacqua}}	misprint	cmp A; was `Belacqua`
 447	22	{{43)|43).}}	misprint	read-through; as printed
