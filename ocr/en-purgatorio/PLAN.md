@@ -44,7 +44,7 @@ checks on the converted text (step 4, 7 fixes), the figures (step 8) and the clo
 | Internet Archive's OCR | Claude (`iascan.py pages`) | `ia-ocr/` |
 
 `cmpread.py -g glm-ocr -i ia-ocr`: GLM-OCR votes (class D), Internet Archive's OCR is a
-column that does not vote (GUIDE.md, step 1).
+column that does not vote (GUIDE.md, "The readings and the structure").
 
 ## Steps
 
@@ -54,7 +54,7 @@ column that does not vote (GUIDE.md, step 1).
    - INDEX.md: each canto's argument, text and notes; the plates and tables; the end
      matter; the pages left out. Built from Internet Archive's OCR (`iascan.py heads`)
      and the printed index.
-2. **Setup** (GUIDE.md, step 0).
+2. **Setup** (GUIDE.md, "Setup").
    - The conventions of `en-oelsner` taken over: lines as printed, line-end hyphens, the
      running heads, page numbers, signature marks and tercet numbers kept; the marginal
      labels `**Label**` at the start of their line; italics `*…*`; curly quotes `“ ”`
@@ -72,7 +72,7 @@ column that does not vote (GUIDE.md, step 1).
      git, Python as `uv run python`; it writes only `NNN.txt` and its report. The trial's
      25 pages (`014`–`038`) are done; the user switches its mode and signals.
    - Tesseract and GLM-OCR by the user; `ia-ocr/` by Claude.
-4. **Mechanical checks first** (GUIDE.md, step 1): convert at once; the verse count and
+4. **Mechanical checks first** (GUIDE.md, "Convert at once"): convert at once; the verse count and
    tercet numbers of each canto; the English paragraphs against the tercets of the facing
    page; the order of the note numbers; a paragraph starting lowercase after a page
    boundary. dante-corpus only to find a difference; the image decides.
@@ -84,13 +84,13 @@ column that does not vote (GUIDE.md, step 1).
      form), and those they would have missed; how often Internet Archive's column helped.
    - Few misses: the other pages are checked without a retype. Many: the retype goes on.
      The user decides on the counts; recorded under "Decisions".
-6. **The batches** (GUIDE.md, step 2): 25 pages each, compared, every place decided in
+6. **The batches** (GUIDE.md, "Compare"): 25 pages each, compared, every place decided in
    the image, readcheck.tsv and misprints.tsv filled; the converter's report against its
    baseline after each. No waiting for approval and no commits between batches.
-7. **Read-through** for sense, once (GUIDE.md, step 3).
-8. **Figures** (GUIDE.md, step 5): the boxes of the plates and diagrams, the images into
+7. **Read-through** for sense, once (GUIDE.md, "Read-through for sense").
+8. **Figures** (GUIDE.md, "Figures"): the boxes of the plates and diagrams, the images into
    `texts/en-purgatorio/images/`.
-9. **Close** (GUIDE.md, step 4): SUMMARY.md; README.md ("Credits"), INDEX.md, the root
+9. **Close** (GUIDE.md, "Close"): SUMMARY.md; README.md ("Credits"), INDEX.md, the root
    README and texts/PLAN.md; the commits at the end, `ocr/en-purgatorio` and
    `texts/en-purgatorio` apart.
 

@@ -63,7 +63,7 @@ The other 424 pages (`007`–`013`, `039`–`455`), compared at once, without ba
 
 All 449 pages (`007`–`455`) read for sense in `ocr/` (no converter yet), in two passes:
 first the doubtful places listed (168), then each decided in the image, 100 pages at a
-time (GUIDE.md, step 3).
+time (GUIDE.md, "Read-through for sense").
 
 - **Misreadings** (70 rows of readcheck.tsv):
   - accents agy dropped where the `ì` is printed as a dotless `ı` with a faint accent
