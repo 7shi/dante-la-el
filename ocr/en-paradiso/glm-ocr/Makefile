@@ -3,9 +3,8 @@
 # (ocr/scripts/glmocr.py: the same output as `ollama run glm-ocr`).
 # Usage (in this directory): make (all pages), or make NNN.txt; the pages already done
 # are skipped.
-# A page that runs away (loops) is stopped and tried once more; if it runs away again,
-# no file is written and it is listed at the end. Blank pages run away: give them an
-# empty NNN.txt. Ctrl+C leaves no partial file.
+# A page that runs away (loops) is stopped, written as it stood and listed at the end.
+# Blank pages run away: empty their NNN.txt. Ctrl+C leaves no partial file.
 
 OCR = uv run ../../scripts/glmocr.py -o .
 
