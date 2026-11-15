@@ -21,6 +21,15 @@ English (Carlyle's literal prose translation, with the Italian text)
 
 English (The Temple Classics: the three volumes, with the Italian text edited by H. Oelsner; London: J. M. Dent & Co.)
 
+Carlyle's prose translation was valued for its fidelity to the Italian, but he translated
+only the *Inferno*. The Temple Classics (1899–1901) completed it: Carlyle's *Inferno*
+revised by Oelsner, with the *Purgatorio* by Thomas Okey and the *Paradiso* by Philip H.
+Wicksteed, on one Italian text edited by Oelsner, in one layout (the Italian and the
+English facing tercet by tercet, an argument and notes to each canto). The set was
+reprinted by Dent into the 1960s, but no later edition or usable digital text of it has
+been found. Here the three volumes are transcribed, checked against the page images and
+converted, so that the whole *Comedy* in this translation can be read and used again.
+
 * [The Inferno of Dante Alighieri : Dante Alighieri, 1265-1321; Oelsner, Hermann, 1871- ed; Carlyle, John Aitken, 1801-1879, tr : Internet Archive](https://archive.org/details/infernoofdanteal00dantrich)
   (Carlyle's prose translation revised by Oelsner, 1903; the Carlyle text in [Inferno/](Inferno/) is taken from this edition; [ocr/en-oelsner/](ocr/en-oelsner/), converted into [texts/en-oelsner/](texts/en-oelsner/))
   * [The Inferno of Dante Alighieri (another copy of the same edition) : Internet Archive](https://archive.org/details/infernoofdanteal00dant)
