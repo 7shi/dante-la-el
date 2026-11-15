@@ -9,8 +9,8 @@ directory name of `ocr/` and `texts/`. The work is done on the branch `translati
 
 The trial is done ("Trial"): the flow below is tried on three files of `en`
 (`002-preface-first-edition.md`, `007-canto-01.md`, `008-canto-02.md`), which are in
-`ja/en/`. Next: the rest of `en`, one file at a time, the prefaces and essays first
-(`003`–`006`), then the cantos from III. The delegate is gpt-6-luna (Codex).
+`ja/en/`. The prefaces and essays of `en` (`003`–`006`) followed, by the same flow. Next:
+the cantos from III (`009`). The delegate is gpt-6-luna (Codex).
 
 ## What is settled
 
@@ -128,6 +128,9 @@ The trial is done ("Trial"): the flow below is tried on three files of `en`
   `ocr/` and `texts/` are made on `main`, and reach this branch when the user brings them
   over. The record is a by-product, not a check: in the trial the delegate recorded
   nothing, and smoothed over what it met (see "Trial").
+- **An error of the author** (a wrong date, as Foscolo's death on "the 14th of September
+  1827", p. xxiv) is not a misprint: it is translated as printed, and recorded in the same
+  TSV with that reason.
 
 ## Not settled
 
@@ -161,16 +164,25 @@ to Lucia. These are what the review looks for.
   and II were brought in line with it. Two quotation marks missing in the print were found
   in the review, not by the delegate (`ja/en/misprints.tsv`).
 
+The prefaces and essays (`003`–`006`) came back with the structure unchanged, but for
+three references of `004` set apart from the verse they belong to (removed here). The
+review found errors of the same kinds as in the trial, and two more: Italian and Latin
+put into katakana or translated where they are kept as written (titles such as *Ottimo
+Comento*, *Libri titulus est*), and references turned into Japanese (`Inf. x. 85` as
+『地獄篇』x. 85). The names of editions are kept the same across the essays (ニドベアティーナ版,
+コミーノ版, ジュンタ版). The delegate recorded two suspected misprints, neither a misprint;
+one was an error of the author, which it had corrected in the translation.
+
 ## For `main`
 
 Found by this work, to be done on `main` (not on this branch):
 
-- `ocr/en/061.txt`, `[^7-1]`: the Milton quotation is printed in two verse lines,
-  `“Unchanged` / `To hoarse or mute, though fallen on evil days.”` (*Paradise Lost* vii.
-  24–25); the transcription has them on one line. The translation already has the two
-  lines.
-- `ja/en/misprints.tsv`: two quotation marks missing in the print of Canto II (`073`,
-  `076`), to be marked as misprints or left as printed.
+- [`for-main.tsv`](for-main.tsv) (columns `file`, `page`, `text`, `change`): changes to
+  `ocr/` and `texts/` that are not misprints, such as an error of the transcription. A
+  row is removed when the change has come over from `main`.
+- `ja/{dir}/misprints.tsv`: the rows that are misprints, to be marked as such or left as
+  printed (see "Misprints"). A row whose reason says it is not a misprint (an error of
+  the author, translated as printed) needs nothing on `main`.
 
 ## Steps
 
