@@ -174,7 +174,7 @@ read-through").
      they set.
 - **The reader's task** (basic rules only, not new ones each round): flag, do not correct;
   the edition's spellings are not errors; the printed punctuation is not normalized; no
-  subagents and no git commands; the TSV written as a file (a script it runs takes `-o`, no
+  git commands; the TSV written as a file (a script it runs takes `-o`, no
   shell redirection). On each reply the next batch is sent first, then the returned one
   decided; after the user switches the reader's model, wait for their signal; the model of
   each batch is recorded.

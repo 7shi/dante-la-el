@@ -74,10 +74,10 @@ The steps of GUIDE.md, in its order; the *Purgatorio*'s step numbers are not kep
      outputs of the *Inferno* and the *Purgatorio* checked byte for byte unchanged.
 1. **The readings and the structure** (GUIDE.md, "The readings and the structure").
    - The base: a task file for la-el-agy, as the *Purgatorio*'s (one printed line per
-     line, spell as printed, labels, italics, figures; only the page images; no git, no
-     subagents of its own beyond the mode's workers; Python as `uv run python`; it writes
-     only `NNN.txt` and its report). First the trial's pages, then the rest in two or
-     three runs; the user switches agy's mode and signals before each.
+     line, spell as printed, labels, italics, figures; only the page images; no git;
+     Python as `uv run python`; it writes only `NNN.txt` and its report). First the
+     trial's pages, then the rest in two or three runs; the user switches agy's mode
+     and signals before each.
    - GLM-OCR finished by the user; `ia-ocr/` by Claude (`iascan.py pages`).
    - INDEX.md and README.md "Layout": from `iascan.py heads` and the printed index; the
      figures' pages read in the image.
