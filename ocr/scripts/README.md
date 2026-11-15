@@ -44,7 +44,7 @@ Before a new source is added, its scans on Internet Archive are compared
 | `iascan.py diff A_djvu.txt B_djvu.txt [--min 5]` | A word diff of two printings, only the blocks of MIN words or more: the revisions above the OCR noise |
 | `iascan.py pages ID_djvu.xml -d DIR [--first L] [--last L] [--shift K]` | The chosen scan's OCR as page files `DIR/PAGE.txt` (leaf + K), for `cmpread.py -i` |
 | `iapdf.py URL -o OUT [-d DIR] [--dpi 300] [--first P] [--last P]` | The chosen scan's PDF (named by its URL `archive.org/details/ID`, or by ID) downloaded into `DIR/ID/ID.pdf` (default `tmp`; an interrupted download resumes) and rendered as `OUT/NNN.png`, NNN the PDF page = the leaf of the OCR (pages already rendered skipped); the page count checked against `DIR/ID/ID_djvu.xml` if fetched. Needs `poppler-utils` |
-| `glmocr.py IMAGE... -o OUT [-m ollama:glm-ocr]` | GLM-OCR on page images through llm7shi (Ollama): `OUT/NNN.txt` for `NNN.png`, the same output as `ollama run glm-ocr "Text Recognition: FILE"`; a page that runs away is stopped, written as it stood and listed at the end (blank pages run away: empty their files); pages done are skipped, no partial files |
+| `glmocr.py IMAGE... -o OUT [-m ollama:glm-ocr]`, `glmocr.py --check -o OUT` | GLM-OCR on page images through llm7shi (Ollama): `OUT/NNN.txt` for `NNN.png`, the same output as `ollama run glm-ocr "Text Recognition: FILE"`; a page that runs away is stopped, written as it stood and listed at the end (blank pages run away: empty their files); pages done are skipped, no partial files. `--check` lists the files written that show a runaway (a repetition, or a code fence ```) |
 
 ## PDF preparation
 
