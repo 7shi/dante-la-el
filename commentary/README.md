@@ -9,6 +9,8 @@ All output is generated with `gpt-6-astra`; the model and the default target lan
 
 The scripts were copied from [dante-commentary](https://github.com/7shi/dante-commentary) (as of commit `cf5a3ab`), which generates the same kind of commentary in Japanese, and adapted here; this directory does not depend on or refer to that repository at run time.
 
+The translations still to be made for the grammar commentaries are planned in [PLAN.md](PLAN.md).
+
 ## Output
 
 For each canto, `<code>/<canticle>/<NN>.*` (`<code>` is `el`, `eo`, or `en`):

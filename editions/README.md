@@ -2,6 +2,8 @@
 
 Reports on the texts behind the `en` source of [grammar.py](../grammar/README.md#scriptsgrammarpy): the Italian printed in John A. Carlyle's Inferno (fifth edition, 1889; [`texts/en/`](../texts/en/)), the Italian of [dante-corpus](https://github.com/7shi/dante-corpus), and Oelsner's edition of the Temple Classics (1903; [`texts/en-oelsner/`](../texts/en-oelsner/)), with its own Italian text and its revision of Carlyle's English.
 
+What remains to be done on the reports is in [PLAN.md](PLAN.md), and what has been done since they were written in [DONE.md](DONE.md).
+
 ## Reports
 
 | File | Compares |

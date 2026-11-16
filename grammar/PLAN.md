@@ -1,45 +1,36 @@
 # Plan
 
-The grammar commentaries still to be made, in this order. Each is written in English by [scripts/grammar.py](README.md#scriptsgrammarpy); the user runs the model, and each set is reviewed once all its cantos are done.
+The grammar commentaries still to be made, in this order; step 1, `grammar/en/`, is done (see [DONE.md](DONE.md)). Each is written in English by [scripts/grammar.py](README.md#scriptsgrammarpy); the user runs the model, and each set is reviewed once all its cantos are done. The translations they need from `commentary/` are planned in [commentary/PLAN.md](../commentary/PLAN.md), and what remains on the reports of `editions/` in [editions/PLAN.md](../editions/PLAN.md).
 
 | Step | Output | Source | Explained against | Canticles |
 |---|---|---|---|---|
-| 1 | `grammar/en/` | the Italian of Carlyle's edition (`texts/en/`) | Carlyle's English | Inferno |
 | 2 | `grammar/en-oelsner/`, `grammar/en-purgatorio/`, `grammar/en-paradiso/` | the Italian of the Temple Classics (`texts/en-oelsner/`, `texts/en-purgatorio/`, `texts/en-paradiso/`) | the English printed with it (Oelsner's revision of Carlyle; Okey) | Inferno, then Purgatorio and Paradiso |
 | 3 | `commentary/en-grc/`, then `grammar/grc/` | Musurus's Greek (`texts/grc/`) | Oelsner's Italian and English beside the Greek and a literal English of it (`commentary/en-grc/`) | Inferno |
 | 4 | `grammar/el-grc/` | Musurus's Greek (`texts/grc/`) | the Modern Greek translation of it (`commentary/el-grc/`) | Inferno (Purgatorio and Paradiso: see the step) |
 | 5 | `grammar/la/` | Serravalle's Latin (`texts/la/`) | the Italian of the same edition; both with a new English translation | Inferno, Purgatorio, Paradiso |
 
-## 1. grammar/en
+## Rebase onto main again
 
-`make grammar CANTICLE=inferno SOURCE=en`: the Italian of Carlyle's edition compared block by block with his English (`editions/en-blocks.txt`): where the English departs from a word-for-word rendering, and how. Cantos 1–2 were tried and the prompt tuned on them; all 34 cantos have been generated and reviewed.
-
-## Rebase onto main
-
-The el branch has been rebased onto main, which added to `texts/` what the later steps need: the leaf of Oelsner's Inferno with pp. 385–386 (canto XXXIV), so that `source.oelsner_passages` reads every spread of the Inferno; three misprints of Oelsner's Italian corrected; and `texts/en-purgatorio/` and `texts/en-paradiso/`, the Temple Classics Purgatorio and Paradiso, with Oelsner's Italian and Okey's English facing it tercet by tercet. The comparison of the English was run again: the added leaf brings three differences in words (all `W`), and the reports were updated.
-
-The texts are not settled yet: errors of transcription found while translating on the translations branch (`translations/for-main.tsv`) go into `ocr/` and `texts/` on main. The el branch is to be rebased again once the translations branch has been merged into main, and before it is merged itself. If `texts/en/` or `texts/en-oelsner/` change, `compare_editions.py en` is run again, the numbers of `editions/judge-en.txt` are checked against the new list, and the tables and counts of `editions/en-carlyle-oelsner.md` are updated; a change to the English of `texts/en/` may also call for a block of `grammar/en/` to be made again.
+The el branch has been rebased onto main once (see [DONE.md](DONE.md)), but the texts are not settled yet: errors of transcription found while translating on the translations branch (`translations/for-main.tsv`) go into `ocr/` and `texts/` on main. The el branch is to be rebased again once the translations branch has been merged into main, and before it is merged itself; the reports are then checked as [editions/PLAN.md](../editions/PLAN.md) says. A change to the English of `texts/en/` may also call for a block of `grammar/en/` to be made again.
 
 ## 2. grammar/en-oelsner
 
-The same comparison for Oelsner's edition: his English against his own Italian, which differs from Carlyle's in many readings (see [editions/en-carlyle-oelsner.md](../editions/en-carlyle-oelsner.md): the English follows Oelsner's Italian where the two differ, so each English is read with its own Italian).
+The comparison of step 1 for Oelsner's edition: his English against his own Italian, which differs from Carlyle's in many readings (see [editions/en-carlyle-oelsner.md](../editions/en-carlyle-oelsner.md): the English follows Oelsner's Italian where the two differ, so each English is read with its own Italian).
 
 - A source `en-oelsner` in `commentary/scripts/source.py` and `grammar.py`, cut by `source.oelsner_passages`: the Italian of an even page and the English of the odd page facing it. No hand-checked cuts are needed, since Oelsner prints the English one paragraph per tercet; whether a spread is small enough for one call, or is to be cut by tercets, is to be decided on a trial.
 - The Italian of the two editions is compared in [editions/it-carlyle.md](../editions/it-carlyle.md); a block on a line where Oelsner reads otherwise than Carlyle needs no special handling, as each commentary keeps to its own edition.
 - Then the Purgatorio and the Paradiso of the Temple Classics (`texts/en-purgatorio/`, `texts/en-paradiso/`): Oelsner's Italian with Okey's English, printed facing it tercet by tercet as in the Inferno, so the same source and mode serve, once `source.py` reads these volumes. As for `grammar/en/`, the commentary on `texts/<dir>/` is written to `grammar/<dir>/`: `grammar/en-purgatorio/` and `grammar/en-paradiso/`.
-
-`commentary/en/` (the commentary and the line-by-line English translation of the Italian of dante-corpus, generated by the model for all three canticles) was made while the Temple Classics gave no English beyond the Inferno. With the printed English of the Purgatorio and the Paradiso it is no longer needed for that, but it is kept, as it cost much to generate; how it is to be used is open.
 
 ## 3. grammar/grc
 
 The main subject is how Musurus translated the Italian into Greek, so that learners of Italian and of Greek can follow a translation of the poem into the older language. As the commentary is written in English, both sides are given with a literal English translation, and the Greek is explained against the Italian:
 
 - **(it, en-oelsner)**: the Italian of Oelsner's edition with Oelsner's English, tercet by tercet. Oelsner's English renders his own Italian, so the two are kept together: Oelsner's English is not set beside the Italian of dante-corpus, whose readings differ from his in many lines (see [editions/it-carlyle.md](../editions/it-carlyle.md)). Which Italian text Musurus translated is not known, so no edition matches the Greek everywhere; where the Greek follows another reading, the commentary says so.
-- **(grc, en-grc)**: the Greek with a literal English translation of it. Musurus departs from the Italian in places, so the English of the Italian cannot stand for the Greek. `commentary/en-grc/inferno/<NN>.txt` is made like `commentary/el-grc/` (`make generate CANTICLE=inferno LANG=en SOURCE=grc`, one line per line of the Greek) and checked with `check-quotes` and `check-lines` before it is used.
+- **(grc, en-grc)**: the Greek with a literal English translation of it, `commentary/en-grc/`. Musurus departs from the Italian in places, so the English of the Italian cannot stand for the Greek.
 
 Steps:
 
-1. Generate and check `commentary/en-grc/` (all 34 cantos).
+1. Generate and check `commentary/en-grc/` (all 34 cantos; see [commentary/PLAN.md](../commentary/PLAN.md)).
 2. A new mode of `grammar.py` for `grammar/grc/` (how it is called, beside the existing grc mode of step 4, is settled then): the Greek and `en-grc` line by line, Oelsner's Italian and English by tercet (`source.oelsner_passages`), sent passage by passage, with the repair of a rejected answer and the rejections listed at the end of a run, as in the en mode.
 3. Trial on a canto or two, tune the prompt, then the whole Inferno.
 
@@ -59,15 +50,12 @@ Musurus translated only the Inferno, so `commentary/el-grc/` has no Purgatorio o
 
 Serravalle's Latin translation (`texts/la/`) of all three canticles, printed line by line beside the Italian of Bartolommeo da Colle's manuscript. The aim is much the same as with Musurus's Greek in step 3: to let learners of Italian and of Latin follow a medieval translation of the poem. So both sides get an English translation, and the Latin is explained against the Italian:
 
-- **(it, en)**: the Italian of this edition with a new English translation of it, line by line. The Italian differs widely from the modern text and from Oelsner's (see [texts/la/README.md](../texts/la/README.md)), so no existing English renders it: neither Oelsner's and Okey's English nor `commentary/en/` (which renders dante-corpus).
-- **(la, en-la)**: the Latin with a literal English translation of it, made like `commentary/en-grc/`, one line per line of the Latin.
-- `commentary/scripts/source.py` has no `la` source yet: it is to read the Latin verse of `texts/la/` and the Italian beside it (interleaved per tercet, with counted tercet numbers). Both English translations are generated and checked before the commentary.
+- **(it, en)**: the Italian of this edition with a new English translation of it, line by line. The Italian differs widely from the modern text and from Oelsner's (see [texts/la/README.md](../texts/la/README.md)), so no existing English renders it.
+- **(la, en-la)**: the Latin with a literal English translation of it, `commentary/en-la/`.
+- The two sources of `commentary/scripts/source.py` and both English translations are made and checked first (see [commentary/PLAN.md](../commentary/PLAN.md)).
 - The mode of `grammar.py` is to follow the one made for `grammar/grc/` in step 3; the details are settled after that step has been tried.
 - The Purgatorio and the Paradiso are done as in step 2: the Inferno first, then the other two canticles.
 
 ## After the merge into main
 
-On the el branch the files of main are not changed; these wait for the merge:
-
-- Update the root README for `commentary/`, `grammar/`, and `editions/`.
-- Check against the page images the twelve unmarked one-word changes listed at the end of [editions/en-carlyle-oelsner.md](../editions/en-carlyle-oelsner.md); corrections go into `ocr/en/` or `ocr/en-oelsner/`.
+- Update the root README for this directory.
