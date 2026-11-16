@@ -10,6 +10,10 @@ The original text of a canto, line by line, from one of the sources:
   the readings and the spelling of that edition), and it comes with
   Carlyle's own English prose translation, so it is only explained
   (grammar.py), never translated or checked
+- en-oelsner: the Italian text printed in the Temple Classics Inferno (1903),
+  read from texts/en-oelsner/ of this repository, with Oelsner's own readings,
+  and with the English prose translation printed with it (Carlyle's, revised
+  by Oelsner), so it is only explained (grammar.py), as en
 
 Each line has .no (the line number) and .text, as the lines of dante-corpus.
 
@@ -65,6 +69,13 @@ SOURCES = {
         "language": "Italian",
         "canticles": ["inferno"],
         "prose": "English prose translation by John A. Carlyle (1889)",
+    },
+    "en-oelsner": {
+        "name": "Italian text (as edited by H. Oelsner in the Temple Classics, 1903)",
+        "language": "Italian",
+        "canticles": ["inferno"],
+        "prose": "English prose translation by John A. Carlyle, revised by H. Oelsner "
+                 "(1903; his revisions are in square brackets)",
     },
 }
 # The sources that are translated (into <lang>/ or <lang>-<source>/)
@@ -346,4 +357,6 @@ def source_lines(source: str, canticle: str, canto: int) -> list[Line]:
         return grc_lines(canto)
     if source == "en":
         return carlyle_lines(canto)
+    if source == "en-oelsner":
+        return oelsner_lines(canto)
     return [Line(line.no, line.text) for line in ref(f"{canticle} {canto}")]

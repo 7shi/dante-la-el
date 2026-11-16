@@ -8,11 +8,12 @@ LANG_CODE := $(LANG)
 unexport LANG
 endif
 LANG_CODE ?= el
-# The source text: it (Italian, default), grc (Musurus's Greek Inferno), or
-# en (the Italian of Carlyle's Inferno in texts/en/, compared by grammar with
-# Carlyle's own English, so it takes no LANG)
+# The source text: it (Italian, default), grc (Musurus's Greek Inferno), en
+# (the Italian of Carlyle's Inferno in texts/en/), or en-oelsner (the Italian
+# of the Temple Classics Inferno in texts/en-oelsner/); en and en-oelsner are
+# compared by grammar with the English printed with them, so they take no LANG
 SOURCE ?= it
-PROSE_SOURCES = en
+PROSE_SOURCES = en en-oelsner
 PROSE = $(filter $(PROSE_SOURCES),$(SOURCE))
 # The translations quoted, in ../commentary/ (see its Makefile)
 DIR = ../commentary/$(if $(filter it,$(SOURCE)),$(LANG_CODE),$(LANG_CODE)-$(SOURCE))
@@ -26,15 +27,16 @@ help:
 	@echo "       make grammar-notes CANTICLE=<canticle> [CANTO=<spec>]"
 	@echo "       make fix-grammar-quotes"
 	@echo "       every target takes LANG=<el|eo|en> (default: el) and SOURCE=<it|grc> (default: it)"
-	@echo "       every target also takes SOURCE=en, the Italian of Carlyle's Inferno"
-	@echo "       explained against his English (without LANG), in en/"
+	@echo "       every target also takes SOURCE=en (the Italian of Carlyle's Inferno) or"
+	@echo "       SOURCE=en-oelsner (that of the Temple Classics), explained against the"
+	@echo "       English printed with it (without LANG), in en/ or en-oelsner/"
 	@echo ""
 	@echo "  grammar      Write $(OUT)/<canticle>/NN.md, a grammar commentary in English on"
 	@echo "               every line of the $(SOURCE) source, quoting the translations of $(DIR)/"
-	@echo "               (for en, a comparison with Carlyle's English, block by block)"
+	@echo "               (for en and en-oelsner, a comparison with the English, block by block)"
 	@echo "  grammar-notes List the translation notes of the grammar commentaries, without calling the model"
 	@echo "  fix-grammar-quotes Rebuild the quote blocks of $(OUT)/*/NN.md from the source and $(DIR)/"
-	@echo "               (for en, from the source alone)"
+	@echo "               (for en and en-oelsner, from the source alone)"
 
 grammar:
 ifndef CANTICLE
