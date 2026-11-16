@@ -292,9 +292,7 @@ def oelsner_passages(canto: int) -> list[Passage]:
     page and the English of the odd page facing it, which renders exactly
     the tercets that begin on the even page (a passage may thus end before
     the last line of its page, or run past it). The argument and the notes
-    are left out. Where a page is missing (canto XXXIV), the lines it would
-    give or translate are left out, and the line numbers go on from the
-    printed tercet numbers."""
+    are left out."""
     lines, italian, english_pages = read_oelsner(canto)
     last = lines[-1].no
     by_no = {line.no: line for line in lines}
@@ -305,7 +303,7 @@ def oelsner_passages(canto: int) -> list[Passage]:
     passages = []
     for page, nos in firsts.items():
         if not nos or not (paras := english_pages.get(page + 1)):
-            continue  # no tercet begins here, or the facing English page is missing
+            continue  # no tercet begins here
         end = last if nos[-1] + 3 >= last else nos[-1] + 2
         verse = [by_no[no] for no in range(nos[0], end + 1) if no in by_no]
         passages.append(Passage(nos[0], end, verse, " ".join(paras)))
@@ -313,8 +311,7 @@ def oelsner_passages(canto: int) -> list[Passage]:
 
 
 def oelsner_lines(canto: int) -> list[Line]:
-    """The Italian verse of one canto of texts/en-oelsner (without the lines
-    of a missing page)."""
+    """The Italian verse of one canto of texts/en-oelsner."""
     return read_oelsner(canto)[0]
 
 

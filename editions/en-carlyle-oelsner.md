@@ -2,25 +2,25 @@
 
 This report compares John A. Carlyle's prose translation of the Inferno, as printed in his own fifth edition (1889; [`texts/en/`](../texts/en/)), with the same translation revised by Hermann Oelsner for The Temple Classics (1903; [`texts/en-oelsner/`](../texts/en-oelsner/)). Oelsner printed his own Italian text beside it, and marked many of his revisions with square brackets (`I [came to] myself`). It does not list every difference: the differences of punctuation, spelling, and grammatical endings are described by their features with examples, and only the changes of words are listed in full.
 
-In short, Oelsner's revision goes deep, yet it is still Carlyle's translation. Oelsner set the English against an Italian text of his own, and where that text reads otherwise, he made the English follow it (109 of the 355 differences in words): *Livio* → *Lino* is "Livy" → "Linus", *dal sommo* → *dal sonno* is "within the topmost part" → "since my slumber", *tre dì* → *due dì* is "three days" → "two days". Still more often (165 differences) he changed the words where the two Italian texts agree, mostly to render the Italian more closely: *Mi ritrovai* is no longer "I found myself" but "I [came to] myself", with a note that "the *ri*- has escaped the notice of the great majority of translators"; *del maggior Piero* is no longer "of great Peter" but "of [the greatest] Peter". He also gives some names in the form of his Italian text or of later usage, and repunctuates throughout. But the 355 changes of words come to about ten a canto, and the rest of the prose is Carlyle's; most of the changes are marked with square brackets, so that the edition shows itself as Carlyle's translation revised, not as a new one. Each English is thus to be read with its own Italian: Carlyle's with the Italian of his edition (the `en` source of [grammar.py](../grammar/README.md#scriptsgrammarpy)), Oelsner's with Oelsner's.
+In short, Oelsner's revision goes deep, yet it is still Carlyle's translation. Oelsner set the English against an Italian text of his own, and where that text reads otherwise, he made the English follow it (109 of the 358 differences in words): *Livio* → *Lino* is "Livy" → "Linus", *dal sommo* → *dal sonno* is "within the topmost part" → "since my slumber", *tre dì* → *due dì* is "three days" → "two days". Still more often (168 differences) he changed the words where the two Italian texts agree, mostly to render the Italian more closely: *Mi ritrovai* is no longer "I found myself" but "I [came to] myself", with a note that "the *ri*- has escaped the notice of the great majority of translators"; *del maggior Piero* is no longer "of great Peter" but "of [the greatest] Peter". He also gives some names in the form of his Italian text or of later usage, and repunctuates throughout. But the 358 changes of words come to about ten a canto, and the rest of the prose is Carlyle's; most of the changes are marked with square brackets, so that the edition shows itself as Carlyle's translation revised, not as a new one. Each English is thus to be read with its own Italian: Carlyle's with the Italian of his edition (the `en` source of [grammar.py](../grammar/README.md#scriptsgrammarpy)), Oelsner's with Oelsner's.
 
 ## Method
 
-The two English texts are not divided alike: Carlyle's edition prints the prose page by page above the verse it renders, Oelsner's prints it one paragraph per tercet facing the Italian. So each canto is compared as a whole, word by word, by [`scripts/compare_editions.py`](scripts/compare_editions.py) `en`, and each difference is placed on the page of Carlyle's edition where it falls; the lines of that page (`I 22–33`) locate it. The English of the leaf missing from the scan of Oelsner's edition (canto XXXIV, the English of lines 19–51) is left out. Oelsner's square brackets and his italics are not counted as differences; a difference is "marked" if Oelsner's brackets cover his side of it.
+The two English texts are not divided alike: Carlyle's edition prints the prose page by page above the verse it renders, Oelsner's prints it one paragraph per tercet facing the Italian. So each canto is compared as a whole, word by word, by [`scripts/compare_editions.py`](scripts/compare_editions.py) `en`, and each difference is placed on the page of Carlyle's edition where it falls; the lines of that page (`I 22–33`) locate it. Oelsner's square brackets and his italics are not counted as differences; a difference is "marked" if Oelsner's brackets cover his side of it.
 
 | Kind of difference | Count |
 |---|---|
-| punctuation only | 596 |
-| case only, or punctuation with a change of case (`. And` / `; and`) | 374 |
-| words: substituted, inserted, or deleted | 355 |
+| punctuation only | 603 |
+| case only, or punctuation with a change of case (`. And` / `; and`) | 377 |
+| words: substituted, inserted, or deleted | 358 |
 
-The 355 differences in words were read and sorted by hand into the sections below; differences close together are shown as one row. 210 of them are marked by Oelsner (some only in part); the words he deleted cannot be marked, and a number of changes of single words are unmarked as well.
+The 358 differences in words were read and sorted by hand into the sections below; differences close together are shown as one row. 212 of them are marked by Oelsner (some only in part); the words he deleted cannot be marked, and a number of changes of single words are unmarked as well.
 
 The judgments are kept in [judge-en.txt](judge-en.txt), and the tables are rendered from them by [`scripts/render_editions.py`](scripts/render_editions.py) `en`. In the tables, the differing words are in bold, with a few words of context. "Marked" says whether Oelsner's brackets cover the change (yes, no, or partly).
 
 ## Punctuation and case
 
-Oelsner repunctuates throughout: he often joins Carlyle's sentences with a semicolon or colon (*. And* → *; and*; most of the 374 differences of case are of this kind), and exchanges semicolons and colons (*;* → *:* 94 times, *:* → *;* 68 times). Most of the other differences of punctuation are of quotation marks: the transcription of Oelsner's edition has straight quotation marks (`"`) in many places where Carlyle's has curly ones (`“ ”`, about 250 times), which is a matter of the transcription, not of the edition.
+Oelsner repunctuates throughout: he often joins Carlyle's sentences with a semicolon or colon (*. And* → *; and*; most of the 377 differences of case are of this kind), and exchanges semicolons and colons (*;* → *:* 96 times, *:* → *;* 71 times). Most of the other differences of punctuation are of quotation marks: the transcription of Oelsner's edition has straight quotation marks (`"`) in many places where Carlyle's has curly ones (`“ ”`, about 250 times), which is a matter of the transcription, not of the edition.
 
 ## Spelling
 
@@ -317,6 +317,9 @@ Every other change of words: a closer rendering of the same Italian, a correctio
 | XXXIII 107–118 | … ice.” He answered: “**Then** I am Friar Alberigo, … | … ice. " He answered **therefore**: “I am Friar Alberigo, … | partly |
 | XXXIII 119–129 | … “then art thou dead **too**?” And he to … | … “then art thou dead **already**?” And he to … | yes |
 | XXXIII 130–143 | … above. Thou must know, if thou art but … | … above. Thou must know **it**, if thou art but … | yes |
+| XXXIV 39–51 | … ; and they were joined **up to** his crest; and the … | … ; and they were joined **at** his crest; and the … | yes |
+| XXXIV 39–51 | … come from where the Nile **begins his valley**. Under each there issued … | … come from where the Nile **descends**. Under each there issued … | yes |
+| XXXIV 39–51 | … winds went forth from him **, whereby** Cocytus all was frozen. … | … winds went forth from him **. Thereby** Cocytus all was frozen; … | no |
 | XXXIV 78–93 | … that I had passed, **even they may** judge if I grew **toil-worn** then. “Rise up … | … which I had passed, **let them** judge if I grew **perplexed** then. “Rise up … | yes |
 | XXXIV 94–105 | … difficult the road; and **now** to middle tierce the Sun … | … difficult the road; and **already** to middle tierce the Sun … | yes |
 

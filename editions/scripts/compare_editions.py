@@ -19,9 +19,7 @@ sorts out what can be told mechanically and lists the rest for reading).
   counts are printed, then every word difference with its context and the
   lines of the page where the Italian of the two editions differs: in other
   words, or in forms close in spelling (marked as such), which may hide two
-  words (tremesse / temesse, colpo / colpa); elided forms are left out. The
-  English of the page missing from Oelsner's edition (canto XXXIV) is left
-  out.
+  words (tremesse / temesse, colpo / colpa); elided forms are left out.
 """
 
 import argparse
@@ -40,10 +38,6 @@ from source import (Passage, carlyle_passages, oelsner_lines, oelsner_passages,
                     source_lines)
 
 CANTOS = range(1, 35)
-# A run of Carlyle's English this long with nothing in Oelsner's, in a canto
-# with lines missing from Oelsner's edition, is the English of the missing
-# page, not a deletion
-MISSING_RUN = 40
 # Segments at least this close (difflib ratio of their letters) are taken as
 # forms of the same word (luogo / loco, duo / due, ale / ali); so are an
 # elided or apocopated word and its full form (il / l, io / i, ed / e,
@@ -196,8 +190,7 @@ class EnDifference:
 
 
 # The kinds of difference that are not differences of words
-NOT_WORDS = ("punctuation", "case or punctuation with case",
-             "left out: English of a page missing from Oelsner's edition")
+NOT_WORDS = ("punctuation", "case or punctuation with case")
 
 
 def en_differences():
@@ -205,7 +198,6 @@ def en_differences():
     canto, in the order of the text."""
     for canto in CANTOS:
         pages = carlyle_passages(canto)
-        gap = len(oelsner_lines(canto)) < len(source_lines("en", "inferno", canto))
         ca: list[str] = []
         page_of: list[int] = []
         for index, page in enumerate(pages):
@@ -219,9 +211,7 @@ def en_differences():
             if op == "equal":
                 continue
             a, b = ca[i1:i2], words_b[j1:j2]
-            if gap and op == "delete" and len(a) > MISSING_RUN:
-                kind = NOT_WORDS[2]
-            elif not any(map(is_word, a + b)):
+            if not any(map(is_word, a + b)):
                 kind = "punctuation"
             elif [t.lower() for t in a if is_word(t)] == [t.lower() for t in b if is_word(t)]:
                 kind = "case or punctuation with case"
@@ -247,8 +237,6 @@ def compare_en(out):
     lines = {}
     for d in en_differences():
         kinds[d.kind] += 1
-        if d.kind == NOT_WORDS[2]:
-            continue
         kinds["marked [ ]" if d.marked else "unmarked"] += 1
         if d.kind in NOT_WORDS:
             continue
