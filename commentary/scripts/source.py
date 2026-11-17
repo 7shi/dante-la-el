@@ -14,6 +14,11 @@ The original text of a canto, line by line, from one of the sources:
   read from texts/en-oelsner/ of this repository, with Oelsner's own readings,
   and with the English prose translation printed with it (Carlyle's, revised
   by Oelsner), so it is only explained (grammar.py), as en
+- en-purgatorio, en-paradiso: the Italian text of the Temple Classics
+  Purgatorio (1904) and Paradiso (1910), read from texts/en-purgatorio/ and
+  texts/en-paradiso/, edited by Oelsner as the Inferno and printed in the
+  same layout with an English prose translation (Okey's of the Purgatorio,
+  Wicksteed's of the Paradiso), so they are only explained, as en-oelsner
 
 Each line has .no (the line number) and .text, as the lines of dante-corpus.
 
@@ -28,9 +33,10 @@ renders them):
 - carlyle_blocks: texts/en in blocks whose English renders exactly their
   verse, cut near every page break as editions/en-blocks.txt gives
   (checked by hand; see scripts/align_carlyle.py)
-- oelsner_passages: texts/en-oelsner (the Temple Classics edition, 1903,
-  with Oelsner's Italian text and his revision of Carlyle's translation),
-  one passage per tercet, as the English is printed one paragraph per tercet
+- oelsner_passages: texts/en-oelsner, texts/en-purgatorio, or
+  texts/en-paradiso (the Temple Classics, with Oelsner's Italian text and
+  the English facing it), one passage per spread: the English is printed
+  one paragraph per tercet, facing the Italian
 """
 
 import re
@@ -42,7 +48,9 @@ from dante_corpus import ref
 TEXTS_DIR = Path(__file__).resolve().parents[2] / "texts"
 GRC_DIR = TEXTS_DIR / "grc"
 CARLYLE_DIR = TEXTS_DIR / "en"
-OELSNER_DIR = TEXTS_DIR / "en-oelsner"
+# The Temple Classics volumes, per source: the same layout in all three
+OELSNER_DIRS = {source: TEXTS_DIR / source
+                for source in ("en-oelsner", "en-purgatorio", "en-paradiso")}
 # The cuts of Carlyle's pages into blocks (see editions/scripts/align_carlyle.py)
 BLOCKS_PATH = Path(__file__).resolve().parents[2] / "editions" / "en-blocks.txt"
 
@@ -76,6 +84,18 @@ SOURCES = {
         "canticles": ["inferno"],
         "prose": "English prose translation by John A. Carlyle, revised by H. Oelsner "
                  "(1903; his revisions are in square brackets)",
+    },
+    "en-purgatorio": {
+        "name": "Italian text (as edited by H. Oelsner in the Temple Classics, 1904)",
+        "language": "Italian",
+        "canticles": ["purgatorio"],
+        "prose": "English prose translation by Thomas Okey (1904)",
+    },
+    "en-paradiso": {
+        "name": "Italian text (as edited by H. Oelsner in the Temple Classics, 1910)",
+        "language": "Italian",
+        "canticles": ["paradiso"],
+        "prose": "English prose translation by Philip H. Wicksteed (1910)",
     },
 }
 # The sources that are translated (into <lang>/ or <lang>-<source>/)
@@ -298,13 +318,14 @@ def carlyle_lines(canto: int) -> list[Line]:
     return [line for passage in carlyle_passages(canto) for line in passage.lines]
 
 
-def oelsner_passages(canto: int) -> list[Passage]:
-    """One passage per spread of texts/en-oelsner: the Italian of an even
+def oelsner_passages(canto: int, source: str = "en-oelsner") -> list[Passage]:
+    """One passage per spread of a Temple Classics volume (source: en-oelsner,
+    en-purgatorio, or en-paradiso): the Italian of an even
     page and the English of the odd page facing it, which renders exactly
     the tercets that begin on the even page (a passage may thus end before
     the last line of its page, or run past it). The argument and the notes
     are left out."""
-    lines, italian, english_pages = read_oelsner(canto)
+    lines, italian, english_pages = read_oelsner(canto, source)
     last = lines[-1].no
     by_no = {line.no: line for line in lines}
     # The tercets that begin on each page; the canto's last line, set alone,
@@ -321,15 +342,15 @@ def oelsner_passages(canto: int) -> list[Passage]:
     return passages
 
 
-def oelsner_lines(canto: int) -> list[Line]:
-    """The Italian verse of one canto of texts/en-oelsner."""
-    return read_oelsner(canto)[0]
+def oelsner_lines(canto: int, source: str = "en-oelsner") -> list[Line]:
+    """The Italian verse of one canto of a Temple Classics volume."""
+    return read_oelsner(canto, source)[0]
 
 
-def read_oelsner(canto: int):
-    """The verse lines of a canto of texts/en-oelsner, the verse lines of each
-    page, and the English paragraphs of each odd page."""
-    (path,) = OELSNER_DIR.glob(f"*-canto-{canto:02d}.md")
+def read_oelsner(canto: int, source: str = "en-oelsner"):
+    """The verse lines of a canto of a Temple Classics volume (texts/<source>),
+    the verse lines of each page, and the English paragraphs of each odd page."""
+    (path,) = OELSNER_DIRS[source].glob(f"*-canto-{canto:02d}.md")
     text = path.read_text().split("\n## Notes\n")[0]
     italian: dict[int, list[Line]] = {}
     english_pages: dict[int, list[str]] = {}
@@ -357,6 +378,6 @@ def source_lines(source: str, canticle: str, canto: int) -> list[Line]:
         return grc_lines(canto)
     if source == "en":
         return carlyle_lines(canto)
-    if source == "en-oelsner":
-        return oelsner_lines(canto)
+    if source in OELSNER_DIRS:
+        return oelsner_lines(canto, source)
     return [Line(line.no, line.text) for line in ref(f"{canticle} {canto}")]

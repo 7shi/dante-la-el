@@ -24,11 +24,12 @@ wrong, it says so in a paragraph opening with `Translation note:`. With
 model.
 
 A source printed with a prose translation of its own (en: the Italian
-of Carlyle's Inferno and his English; en-oelsner: the Italian of the Temple
-Classics Inferno and the English printed with it) is compared with that
-translation instead, block by block (lines of the Italian and the part of
-the English that renders exactly them: source.carlyle_blocks for en, cut by
-hand; source.oelsner_passages for en-oelsner, one spread each). Each block is one call
+of Carlyle's Inferno and his English; en-oelsner, en-purgatorio,
+en-paradiso: the Italian of the Temple Classics and the English printed
+with it) is compared with that translation instead, block by block (lines
+of the Italian and the part of the English that renders exactly them:
+source.carlyle_blocks for en, cut by hand; source.oelsner_passages for the
+Temple Classics, one spread each). Each block is one call
 (BLOCK_PROMPT), with the block alone in <italian> and <english>: the model
 writes a title, then goes through the lines a sentence or clause at a time,
 each as a range `[a–b]` with the English that renders it, followed by
@@ -53,6 +54,7 @@ notes: the translation is a printed text, not one to be corrected.
 import argparse
 import re
 import sys
+from functools import partial
 from pathlib import Path
 
 from dante_corpus.api import CANTO_SPEC_HELP, check_canto_spec, select_cantos
@@ -64,12 +66,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "commentary" / "scr
 
 from fix_quote_blocks import ORIG_RE, TRANS_RE, rebuild_lines
 from generate import CANTICLE_NAMES, LANGUAGES, same_line
-from source import SOURCES, Line, Passage, carlyle_blocks, oelsner_passages, source_lines
+from source import (OELSNER_DIRS, SOURCES, Line, Passage, carlyle_blocks, oelsner_passages,
+                    source_lines)
 
 # The blocks of a source printed with a prose translation: lines of the
 # source and the part of the translation that renders exactly them (for
-# en-oelsner, a spread: the English faces the Italian tercet by tercet)
-BLOCKS = {"en": carlyle_blocks, "en-oelsner": oelsner_passages}
+# the Temple Classics, a spread: the English faces the Italian tercet by tercet)
+BLOCKS = {"en": carlyle_blocks,
+          **{source: partial(oelsner_passages, source=source) for source in OELSNER_DIRS}}
 
 # Per language of the source text: what the commentary should look at, on
 # top of what every language has (forms, constructions, particles)

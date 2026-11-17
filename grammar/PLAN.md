@@ -4,7 +4,7 @@ The grammar commentaries still to be made, in this order; step 1, `grammar/en/`,
 
 | Step | Output | Source | Explained against | Canticles |
 |---|---|---|---|---|
-| 2 | `grammar/en-oelsner/`, `grammar/en-purgatorio/`, `grammar/en-paradiso/` | the Italian of the Temple Classics (`texts/en-oelsner/`, `texts/en-purgatorio/`, `texts/en-paradiso/`) | the English printed with it (Oelsner's revision of Carlyle; Okey) | Inferno, then Purgatorio and Paradiso |
+| 2 | `grammar/en-oelsner/`, `grammar/en-purgatorio/`, `grammar/en-paradiso/` | the Italian of the Temple Classics (`texts/en-oelsner/`, `texts/en-purgatorio/`, `texts/en-paradiso/`) | the English printed with it (Oelsner's revision of Carlyle; Okey; Wicksteed) | Inferno, then Purgatorio and Paradiso |
 | 3 | `commentary/en-grc/`, then `grammar/grc/` | Musurus's Greek (`texts/grc/`) | Oelsner's Italian and English beside the Greek and a literal English of it (`commentary/en-grc/`) | Inferno |
 | 4 | `grammar/el-grc/` | Musurus's Greek (`texts/grc/`) | the Modern Greek translation of it (`commentary/el-grc/`) | Inferno (Purgatorio and Paradiso: see the step) |
 | 5 | `grammar/la/` | Serravalle's Latin (`texts/la/`) | the Italian of the same edition; both with a new English translation | Inferno, Purgatorio, Paradiso |
@@ -19,7 +19,7 @@ The comparison of step 1 for Oelsner's edition: his English against his own Ital
 
 - A source `en-oelsner` in `commentary/scripts/source.py` and `grammar.py`, cut by `source.oelsner_passages`: the Italian of an even page and the English of the odd page facing it. No hand-checked cuts are needed, since Oelsner prints the English one paragraph per tercet; whether a spread is small enough for one call, or is to be cut by tercets, is to be decided on a trial.
 - The Italian of the two editions is compared in [editions/it-carlyle.md](../editions/it-carlyle.md); a block on a line where Oelsner reads otherwise than Carlyle needs no special handling, as each commentary keeps to its own edition.
-- Then the Purgatorio and the Paradiso of the Temple Classics (`texts/en-purgatorio/`, `texts/en-paradiso/`): Oelsner's Italian with Okey's English, printed facing it tercet by tercet as in the Inferno, so the same source and mode serve, once `source.py` reads these volumes. As for `grammar/en/`, the commentary on `texts/<dir>/` is written to `grammar/<dir>/`: `grammar/en-purgatorio/` and `grammar/en-paradiso/`.
+- Then the Purgatorio and the Paradiso of the Temple Classics (`texts/en-purgatorio/`, `texts/en-paradiso/`): Oelsner's Italian with Okey's English (Purgatorio) and Wicksteed's (Paradiso), printed facing it tercet by tercet as in the Inferno, so the same mode serves: `source.py` reads these volumes as the sources `en-purgatorio` and `en-paradiso`. As for `grammar/en/`, the commentary on `texts/<dir>/` is written to `grammar/<dir>/`: `grammar/en-purgatorio/` and `grammar/en-paradiso/`.
 
 ## 3. grammar/grc
 
