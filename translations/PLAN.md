@@ -225,8 +225,7 @@ Found by this work, to be done on `main` (not on this branch):
 1. Done: `pages.py` (prepare, check, finish).
 2. Done: the trial; the points decided are written above.
 3. Done for `001`–`041` of `en` (one file at a time, the prefaces and essays first, then
-   `001` and `041`); remaining for `en`: the `for-main.tsv` / misprint items to be
-   decided and corrected on `main`.
+   `001` and `041`, and the `for-main.tsv` / misprint items resolved on `main`).
 4. The other texts, in the order and scope then decided.
 5. A README of `translations/`, and the conversion into HTML.
 
