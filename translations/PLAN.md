@@ -5,12 +5,11 @@ the English prose translation of the poem, is translated into Japanese from the 
 files of [`texts/`](../texts/), into `translations/ja/{dir}/`, where `{dir}` is the
 directory name of `ocr/` and `texts/`. The work is done on the branch `translations`.
 
-## State (2026-11-15)
+## State (2026-11-18)
 
-The trial is done ("Trial"): the flow below is tried on three files of `en`
-(`002-preface-first-edition.md`, `007-canto-01.md`, `008-canto-02.md`), which are in
-`ja/en/`. The prefaces and essays of `en` (`003`–`006`) followed, by the same flow. Next:
-the cantos from III (`009`). The delegate is gpt-6-luna (Codex).
+Files `002`–`040` of `en` (the prefaces, essays, and Cantos I–XXXIV) are done in `ja/en/`,
+all checked `same structure` with `pages.py check`, with gpt-6-luna (Codex) as delegate.
+Remaining in `texts/en/`: `001` (title page) and `041` (index), to be decided.
 
 ## What is settled
 
@@ -71,8 +70,14 @@ the cantos from III (`009`). The delegate is gpt-6-luna (Codex).
   prose of a page is looked for before its verse, glosses and footnotes; a footnote
   reference at its end is ignored. In the cantos a page often ends in a weak stop (`;`,
   `:`, `,`, an abbreviation such as `MSS.`) and the next begins in lower case. A weak stop
-  followed by upper case is listed as doubtful, not joined (five in `en`: pp. 40, 45, 54,
-  153, 268), to be decided in the image when their cantos are done.
+  followed by upper case is listed as doubtful, not joined. All five doubtful places in
+  `en` (pp. 40, 45, 54, 153, 268) have been decided (`yes`) in [`joins.tsv`](joins.tsv)
+  (`file`, `page`, `join` yes or no, `note`), along with two pages where a speech runs on
+  after a full stop with an unclosed quote (pp. 376, 402; `pages.py` does not flag a
+  full stop before upper case).
+- **Verse vs. prose in `pages.py`**: `is_verse` treats a one-line verse block ending in
+  its line number as verse (`LONE_VERSE`, p. 243 of Canto XX), and treats a block with
+  `\` line breaks whose lines exceed 100 chars as prose (p. 368 of Canto XXX).
 
 ### The delegate and the flow
 
@@ -86,7 +91,8 @@ the cantos from III (`009`). The delegate is gpt-6-luna (Codex).
   2. The task is written to `tmp/translate/task-{NNN}.md`, after the last one (the rules
      of "Style"), and the delegate is told to read it and carry it out. It writes
      `tmp/translate/out/{file}` and a TSV of suspected misprints beside it, and nothing
-     else (seen by `git status`). `tmp/` is not tracked; it is working space, and nothing
+     else (seen by `git status`). It does not search the web (a cost); what it is unsure
+     of it lists in its report, for the review. `tmp/` is not tracked; it is working space, and nothing
      that must last is kept there.
   3. `check texts/{dir}/{file} tmp/translate/out/{file}` compares the structure with the
      input (markers, headings, footnote IDs, paragraphs with their footnote references;
@@ -107,13 +113,23 @@ the cantos from III (`009`). The delegate is gpt-6-luna (Codex).
 - Plain written Japanese (である調), nothing added or left out. The prose of the poem
   word for word as far as natural Japanese allows, following the English where it differs
   from the Italian; in the past tense where the English is; the narrator is 私.
-- **Speech** is in plain form (常体) for every speaker; `thou` is あなた, `ye`/`you`
-  あなたがた, as the English uses `thou` to everyone. Quotation marks as 「」, a quotation
-  within one as 『』.
-- Proper names of persons and places in katakana; titles of works in 『』.
+- **Speech** is in plain form (常体), except Dante’s speeches to Virgil, which are in
+  polite form (敬語 / です・ます調). `thou` is あなた (never お前), `ye`/`you` plural is
+  あなたがた, as the English uses `thou` to everyone. A `you` of respect to one person
+  (Italian `voi`, as to Brunetto Latini) is あなた too.
+- **Virgil and titles**: Virgil addressed as `"Master"` in speech is 師よ (`"My Master"`
+  is 我が師よ; never 先生); `"Master"` in narration is 師 (`"my Master"` / `"My Master"`
+  is 我が師); `"Guide"` is 導き手; `"Leader"` is 先導者.
+- **Quotation marks and footnotes**: Quotation marks as 「」, a quotation within one as
+  『』; a speech continuing into the next paragraph (no closing `”` in English) has no
+  closing 」 at the end of the paragraph. Footnote references (`[^N-M]`) stand immediately
+  after the word they belong to, before `。`, `、`, and `」`.
+- Proper names of persons and places in katakana (reflecting relay translation from English,
+  e.g. `Lucifer` = ルシファー, `Cocytus` = コキュートス); titles of works in 『』.
 - Quotations in English are translated; words and quotations in Italian, Latin or Greek
   are kept as written, with a Japanese gloss in （） where the text does not give one;
-  references (`Psalm xc. 10`, `Convito, Tr. iv. c. 23`) are kept as written.
+  references (`Psalm xc. 10`, `Convito, Tr. iv. c. 23`) are kept as written. `Lit.:` is
+  直訳では; `"See X"` is `X を参照`; `"Compare X"` is `X と比較せよ`.
 - Glosses keep the line number and the Italian word: `12\. Alto：高い、深い、あるいは困難な。`
 
 ### Misprints
@@ -160,7 +176,8 @@ to Lucia. These are what the review looks for.
 - `008-canto-02.md`, in one pass (the flow above): Argument, prose, 9 glosses and 21
   footnotes. Eight places corrected. The speech came back in mixed registers (です in one
   speech, あなた and お前 in another), which led to the rule of plain speech; Cantos I
-  and II were brought in line with it. Two misprints were found in the review, not by the
+  and II were brought in line with it (Dante’s speeches to Virgil were later changed to
+  polite form [敬語] with 師よ across all cantos). Two misprints were found in the review, not by the
   delegate (`ja/en/misprints.tsv`).
 
 The prefaces and essays (`003`–`006`) came back with the structure unchanged, but for
@@ -189,8 +206,9 @@ Found by this work, to be done on `main` (not on this branch):
 
 1. Done: `pages.py` (prepare, check, finish).
 2. Done: the trial; the points decided are written above.
-3. `en`, one file at a time, the prefaces and essays first; the suspected misprints looked
-   into after each file or at the end, as the user decides, and corrected on `main`.
+3. Done for `002`–`040` of `en` (one file at a time, the prefaces and essays first);
+   remaining in `en`: `001`, `041`, and the `for-main.tsv` / misprint items to be
+   decided and corrected on `main`.
 4. The other texts, in the order and scope then decided.
 5. A README of `translations/`, and the conversion into HTML.
 
