@@ -85,22 +85,29 @@ Remaining in `texts/en/`: `001` (title page) and `041` (index), to be decided.
   the read-through of `ocr/` (ocr/PLAN.md, "Read-through"); details are handled by scripts
   before and after, and by the review here, not by more rules.
 - **A batch is one file.** The flow, with [`scripts/pages.py`](scripts/pages.py)
-  (`uv run python translations/scripts/pages.py …`):
-  1. `prepare texts/{dir}/{file} -o tmp/translate/in/{file}` writes the input with the
+  (`uv run python translations/scripts/pages.py …`, or `python3 translations/scripts/pages.py …`
+  when `uv run` cannot see `../dante-corpus` in a sandbox):
+  1. `prepare texts/{dir}/{file} -o tmp/translate/{dir}/in/{file}` writes the input with the
      paragraphs joined, and lists the joins and the doubtful places.
-  2. The task is written to `tmp/translate/task-{NNN}.md`, after the last one (the rules
+  2. The task is written to `tmp/translate/{dir}/task-{NNN}.md`, after the last one (the rules
      of "Style"), and the delegate is told to read it and carry it out. It writes
-     `tmp/translate/out/{file}` and a TSV of suspected misprints beside it, and nothing
+     `tmp/translate/{dir}/out/{file}` and a TSV of suspected misprints beside it, and nothing
      else (seen by `git status`). It does not search the web (a cost); what it is unsure
      of it lists in its report, for the review. `tmp/` is not tracked; it is working space, and nothing
      that must last is kept there.
-  3. `check texts/{dir}/{file} tmp/translate/out/{file}` compares the structure with the
+  3. `check texts/{dir}/{file} tmp/translate/{dir}/out/{file}` compares the structure with the
      input (markers, headings, footnote IDs, paragraphs with their footnote references;
      the verse left out). Footnote references in another order within a paragraph, as
      Japanese word order may need, are reported apart, not as a difference.
-  4. The translation is read against the English, paragraph by paragraph, and corrected
-     here, not sent back; the corrected copy is `tmp/translate/fixed-{NNN}.md`.
-  5. `finish texts/{dir}/{file} tmp/translate/fixed-{NNN}.md -o translations/ja/{dir}/{file}`
+  4. The translation is read against the English, paragraph by paragraph (optionally paired
+     with `pair2.py`), and corrected here, not sent back; the corrected copy is
+     `tmp/translate/{dir}/fixed-{NNN}.md` (typically via a `fix-{NNN}.py` replacement script).
+     Common delegate errors to check: `お前`, `師よ` / plain speech from Dante to Virgil,
+     footnote refs after `。` or followed by full-width spaces, `」。`, `」` closing
+     continuing speeches, missing `\` on multiline footnote continuation lines, translated
+     references, added words around ellipses/dashes, missing refs, split or moved paragraphs,
+     readings from notes brought into the text, `"my Master"` misread, and wrong subjects.
+  5. `finish texts/{dir}/{file} tmp/translate/{dir}/fixed-{NNN}.md -o translations/ja/{dir}/{file}`
      adds the comments of the joins; `check` is run on the result once more.
 - **A canto file is handed over whole** and translated in one pass: the Argument, the
   English prose, the glosses, the footnotes, and the Italian verse for reference only (not
@@ -124,13 +131,21 @@ Remaining in `texts/en/`: `001` (title page) and `041` (index), to be decided.
   『』; a speech continuing into the next paragraph (no closing `”` in English) has no
   closing 」 at the end of the paragraph. Footnote references (`[^N-M]`) stand immediately
   after the word they belong to, before `。`, `、`, and `」`.
-- Proper names of persons and places in katakana (reflecting relay translation from English,
-  e.g. `Lucifer` = ルシファー, `Cocytus` = コキュートス); titles of works in 『』.
+- Proper names of persons and places in katakana following the source spelling (reflecting
+  relay translation from English in `en`, e.g. `Lucifer` = ルシファー, `Cocytus` =
+  コキュートス); titles of works in 『』 (e.g. *Comedy* = 『喜劇』). Settled terms for
+  `Inferno` (`en`): `chasm` = 裂け目, `foss` = 濠, `ditch` = 溝, `Barrators` = 汚職役人,
+  `Falsifiers` = 偽造者.
 - Quotations in English are translated; words and quotations in Italian, Latin or Greek
   are kept as written, with a Japanese gloss in （） where the text does not give one;
-  references (`Psalm xc. 10`, `Convito, Tr. iv. c. 23`) are kept as written. `Lit.:` is
-  直訳では; `"See X"` is `X を参照`; `"Compare X"` is `X と比較せよ`.
+  references (`Psalm xc. 10`, `Convito, Tr. iv. c. 23`, `verse 94`, `ver. 82`, `Verses 141-4`)
+  and commentator names cited as references (`Benv. da Imola`, `Ottimo Com.`, `Landino`)
+  are kept as written (as sentence subjects, use katakana such as オッティモ注釈,
+  ベンヴェヌート・ダ・イーモラ). `Lit.:` is 直訳では; `"See X"` is `X を参照`;
+  `"Compare X"` is `X と比較せよ`; `"line N"` / `"verse N"` in poem prose is `N行`.
 - Glosses keep the line number and the Italian word: `12\. Alto：高い、深い、あるいは困難な。`
+- Multiline footnotes keep `\` at the end of continuation-preceding lines and 4-space
+  indentation on continuation lines.
 
 ### Misprints
 
