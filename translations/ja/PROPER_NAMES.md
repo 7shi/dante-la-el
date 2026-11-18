@@ -1,6 +1,6 @@
-# Proper Names Review (`translations/ja/en/`)
+# Proper Names (`translations/ja/`)
 
-Review of Japanese proper-name renderings across `translations/ja/en/002`–`040`, based on [PROPER_NAMES.tsv](PROPER_NAMES.tsv) (aligned against [texts/en/PROPER_NAMES.tsv](../../../texts/en/PROPER_NAMES.tsv)) and katakana-skeleton scanning of all 39 files.
+Shared Japanese proper-name conventions for `translations/ja/`, based on the review of `translations/ja/en/002`–`040` and [en/041-index-of-proper-names.md](en/041-index-of-proper-names.md). [PROPER_NAMES.tsv](PROPER_NAMES.tsv) (aligned 1-to-1 with [texts/en/PROPER_NAMES.tsv](../../texts/en/PROPER_NAMES.tsv)) is generated from `en/041-index-of-proper-names.md`.
 
 ## Settled Decisions
 

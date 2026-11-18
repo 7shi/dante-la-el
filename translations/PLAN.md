@@ -136,7 +136,7 @@ English headwords with Japanese forms from `PROPER_NAMES.tsv`).
   closing 」 at the end of the paragraph. Footnote references (`[^N-M]`) stand immediately
   after the word they belong to, before `。`, `、`, and `」`.
 - Proper names of persons and places in katakana (per-text decisions in
-  `ja/{dir}/PROPER_NAMES.md`); titles of works in 『』 (e.g. *Comedy* = 『喜劇』). Settled terms for
+  `ja/PROPER_NAMES.md`); titles of works in 『』 (e.g. *Comedy* = 『喜劇』). Settled terms for
   `Inferno` (`en`): `chasm` = 裂け目, `foss` = 濠, `ditch` = 溝, `Barrators` = 汚職役人,
   `Falsifiers` = 偽造者.
 - Quotations in English are translated; words and quotations in Italian, Latin or Greek
@@ -149,6 +149,12 @@ English headwords with Japanese forms from `PROPER_NAMES.tsv`).
 - Glosses keep the line number and the Italian word: `12\. Alto：高い、深い、あるいは困難な。`
 - Multiline footnotes keep `\` at the end of continuation-preceding lines and 4-space
   indentation on continuation lines.
+- `en-oelsner` (`001`–`041`, all files): proper names conform to `ja/PROPER_NAMES.tsv`
+  and `ja/PROPER_NAMES.md` (filtered per canto with `scripts/proper_names.py`);
+  marginal labels (`<!-- label: ... -->`) on translated English paragraphs are
+  translated inside the comment, while Italian verse labels stay as-is; Oelsner's
+  revision square brackets `[...]` are omitted, treating their contents as plain
+  prose.
 
 ### Misprints
 
@@ -168,10 +174,11 @@ English headwords with Japanese forms from `PROPER_NAMES.tsv`).
 ## Not settled
 
 - **Style, the rest**: the words in italics (other texts).
-- **The scope beyond `en`**: the notes of the three Temple Classics volumes, which repeat
-  much of Carlyle's; the commentary of `la`, which is most of that book (about 1300 scans);
-  the Greek prologue, arguments and notes of `grc`; the indexes.
-- **The order of the texts** after `en`.
+- **The scope beyond `en`**: `en-oelsner` (`001`–`041`, all files) is settled; remaining
+  are the notes of `en-purgatorio` and `en-paradiso`, the commentary of `la` (about
+  1300 scans), the Greek prologue, arguments and notes of `grc`, and the indexes.
+- **The order of the texts**: `en-oelsner` after `en`; the order of the rest (`en-purgatorio`,
+  `en-paradiso`, `la`, `grc`).
 
 ## Trial
 
@@ -226,7 +233,7 @@ Found by this work, to be done on `main` (not on this branch):
 2. Done: the trial; the points decided are written above.
 3. Done for `001`–`041` of `en` (one file at a time, the prefaces and essays first, then
    `001` and `041`, and the `for-main.tsv` / misprint items resolved on `main`).
-4. The other texts, in the order and scope then decided.
+4. Next: `en-oelsner` (`001`–`041`), then the other texts in the order and scope decided.
 5. A README of `translations/`, and the conversion into HTML.
 
 Commits when the user asks.
