@@ -29,8 +29,9 @@ page	line	form	decision	note
 059	13	coso	misprint	cmp B; the retype `cose`, the base `coso` as printed, unmarked
 066	8	lascierò	printed	cmp B; the retype `lascerò`
 069	25	. . . .	printed	cmp B; the retype `. . .`; four points in the print
-073	3	O Lady	printed	read; no opening quote printed before `O Lady`
+073	3	O Lady	misprint	read; no opening quote printed before `O Lady` (marked `‘O` in translation review)
 074	1	circles!¹ So grateful	misread	read; was two lines: one paragraph in the print (`So` not indented)
+076	1	sea?	misprint	translation; no closing quote printed after Lucia’s words
 077	23	fessis, &c. Ecl. v. 46.	misread	read; was two lines: one verse note running on
 079	3	accompauied	misprint	cmp B; the retype `accompauied`, the base `accompanied`; a turned `n` in the print
 081	3	aud	misprint	cmp A; the retype and Tesseract `aud`, the base `and`; a turned `n` in the print
@@ -58,6 +59,7 @@ page	line	form	decision	note
 126	18	mect	misprint	cmp A; the retype and Tesseract `mect`, the base `meet`
 126	18	30. Burlare	printed	read; two verse notes run on in one printed line
 127	3	squinteyed	printed	cmp B; the retype `squint-eyed`: `squint-` at a line end, joined (README.md)
+129	1	souls.	misprint	translation; no closing quote printed at the end of Virgil’s speech
 129	23	forth	misprint	cmp B; the retype `forth`, the base `forth.`; no period in the print
 132	5	fossato‘che	misprint	read; a turned comma set high
 132	25	vastâque	printed	cmp B; the retype `vastáque`: an italic circumflex
@@ -110,7 +112,7 @@ page	line	form	decision	note
 233	1	arisiug	misprint	cmp A; the retype and Tesseract `arisiug`, the base `arising`
 236	9	Già	printed	cmp B; the retype `Gia’`: the first word of a canto in small capitals, a grave set after them
 239	16	Viuse	misprint	cmp B; the retype `Viuse`, the base `Vinse`
-240	21	viii. 33	printed	read; the author's reference (Acts viii. 23) as printed
+240	21	viii. 33	misprint	read; Acts viii. 23 (`33` marked as misprint in translation review)
 242	22	i. 103	printed	read; the author's reference (Æn. i. 203) as printed
 243	16	Po	misprint	cmp A; the retype and Tesseract without the period, the base `Po.`
 244	14	Guidoguerra	misread	cmp B; was `Guido-guerra`: a break at a line end
@@ -152,6 +154,7 @@ page	line	form	decision	note
 309	1	treacherous.	printed	read; no closing quote: the speech goes on in the next paragraph
 309	15	Tramplegrace	misread	cmp A; was `Trample-grace`: a break at a line end
 309	15	farfalla	misread	cmp A; was `far-falla`: a break at a line end
+313	3	Farfarella	misprint	translation; `Farfarello` in the poem and notes
 314	3	have	printed	cmp A; the retype and Tesseract `HAVE`: small capitals, the opening of a canto in normal case (as `136` `I say`)
 314	3	tho	misprint	cmp A; the retype and Tesseract `tho`, the base `the`
 316	22	Lit	misprint	read; `Lit:` printed, as at `265`, `395`
@@ -166,6 +169,7 @@ page	line	form	decision	note
 330	20	somc	misprint	cmp B; the retype `somc`, the base `some`
 336	10	costa,	misread	cmp B; was `costa`: a comma, set close, and a space after it
 338	19	ὢ	printed	cmp B; the retype `ὣ`; the breathing not clear in the print; the base kept
+338	19	xx	misprint	translation; Ezek. xxi. 12
 339	21	cantc	misprint	cmp B; the retype `cantc`, the base `canto`
 340	23	ruin	misprint	read; no closing period printed
 344	5	Anfesibena	printed	cmp B; the retype `Anfesiḃena`: a speck
