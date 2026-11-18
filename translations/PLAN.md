@@ -5,11 +5,12 @@ the English prose translation of the poem, is translated into Japanese from the 
 files of [`texts/`](../texts/), into `translations/ja/{dir}/`, where `{dir}` is the
 directory name of `ocr/` and `texts/`. The work is done on the branch `translations`.
 
-## State (2026-11-18)
+## State (2026-11-19)
 
-Files `002`–`040` of `en` (the prefaces, essays, and Cantos I–XXXIV) are done in `ja/en/`,
-all checked `same structure` with `pages.py check`, with gpt-6-luna (Codex) as delegate.
-Remaining in `texts/en/`: `001` (title page) and `041` (index), to be decided.
+All 41 files (`001`–`041`) of `en` are done in `ja/en/`: `002`–`040` (prefaces, essays,
+and Cantos I–XXXIV) checked `same structure` with `pages.py check` (with gpt-6-luna
+(Codex) as delegate), plus `001` (title page) and `041` (index of proper names, keeping
+English headwords with Japanese forms from `PROPER_NAMES.tsv`).
 
 ## What is settled
 
@@ -220,8 +221,8 @@ Found by this work, to be done on `main` (not on this branch):
 
 1. Done: `pages.py` (prepare, check, finish).
 2. Done: the trial; the points decided are written above.
-3. Done for `002`–`040` of `en` (one file at a time, the prefaces and essays first);
-   remaining in `en`: `001`, `041`, and the `for-main.tsv` / misprint items to be
+3. Done for `001`–`041` of `en` (one file at a time, the prefaces and essays first, then
+   `001` and `041`); remaining for `en`: the `for-main.tsv` / misprint items to be
    decided and corrected on `main`.
 4. The other texts, in the order and scope then decided.
 5. A README of `translations/`, and the conversion into HTML.
