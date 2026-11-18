@@ -1,4 +1,4 @@
-MODEL = gpt-6-astra
+MODEL = gpt-6.2-astra
 # The language of the translations quoted is given as LANG on the command line
 # (make LANG=eo). LANG from the environment is the locale and is ignored; when
 # LANG is given, it is not passed on to the scripts, so they do not get it as a
