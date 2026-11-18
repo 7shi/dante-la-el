@@ -131,9 +131,8 @@ Remaining in `texts/en/`: `001` (title page) and `041` (index), to be decided.
   『』; a speech continuing into the next paragraph (no closing `”` in English) has no
   closing 」 at the end of the paragraph. Footnote references (`[^N-M]`) stand immediately
   after the word they belong to, before `。`, `、`, and `」`.
-- Proper names of persons and places in katakana following the source spelling (reflecting
-  relay translation from English in `en`, e.g. `Lucifer` = ルシファー, `Cocytus` =
-  コキュートス); titles of works in 『』 (e.g. *Comedy* = 『喜劇』). Settled terms for
+- Proper names of persons and places in katakana (per-text decisions in
+  `ja/{dir}/PROPER_NAMES.md`); titles of works in 『』 (e.g. *Comedy* = 『喜劇』). Settled terms for
   `Inferno` (`en`): `chasm` = 裂け目, `foss` = 濠, `ditch` = 溝, `Barrators` = 汚職役人,
   `Falsifiers` = 偽造者.
 - Quotations in English are translated; words and quotations in Italian, Latin or Greek
