@@ -12,9 +12,10 @@ numbering, one verse per physical line), or from <canticle>/<NN>.txt under
 the directory given with -t (for the grammar commentaries of grammar.py,
 which are kept apart from the translations). A file whose .txt is missing is
 skipped entirely and reported once. A source printed with a prose
-translation of its own (en) has no .txt: its commentaries quote the
-originals alone, `> N original` with the two-space hard break, and only
-these are rebuilt.
+translation of its own (en, en-oelsner, en-purgatorio, en-paradiso) has no
+.txt: its commentaries, named as its files in texts/ (as 007-canto-01.md),
+quote the originals alone, `> N original` with the two-space hard break, and
+only these are rebuilt.
 
 For each quote block (a maximal run of lines starting with ">") in a file
 that has a sibling .txt:
@@ -49,6 +50,8 @@ ORIG_RE = re.compile(r"^>\s*(\d+)[.:)]?\s+(.*?)\s*$")
 # comma of the original outside, as in `> («...»),`
 TRANS_RE = re.compile(r"^>\s*\((.*)\)[,.;:!?·»”’]*\s*$")
 PATH_RE = re.compile(r"(?:^|/)(inferno|purgatorio|paradiso)/(\d+)\.md$")
+# A commentary on a source printed with a prose translation, named as in texts/
+TEXT_NAME_RE = re.compile(r"-canto-(\d+)\.md$")
 
 SEPARATOR = ">"
 
@@ -141,12 +144,16 @@ def normalize_file(path: Path, source: str, trans_dir: Path | None,
     """Rewrite the quote blocks of one commentary from the source + its .txt.
     True if changed; False (with a warning) if the file has no .txt or its
     canticle/canto can't be resolved from its path."""
-    m = PATH_RE.search(path.as_posix())
+    if "prose" in SOURCES[source]:
+        m = TEXT_NAME_RE.search(path.name)
+        canticle = SOURCES[source]["canticles"][0]
+        number = int(m.group(1)) if m else 0
+    elif m := PATH_RE.search(path.as_posix()):
+        canticle, number = m.group(1), int(m.group(2))
     if not m:
         print(f"{path}: can't resolve canticle/canto from path, file left as-is",
               file=sys.stderr)
         return False
-    canticle, number = m.group(1), int(m.group(2))
 
     if "prose" in SOURCES[source]:
         translations = None
@@ -179,8 +186,9 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[1])
     parser.add_argument("-d", "--dir", dest="dirs", action="append", type=Path,
                         required=True, metavar="DIR",
-                        help="Directory holding <canticle>/<NN>.md files (e.g. el); "
-                             "repeatable")
+                        help="Directory holding <canticle>/<NN>.md files (e.g. el), "
+                             "or the files named as in texts/ for a source with "
+                             "its own prose translation; repeatable")
     parser.add_argument("-s", "--source", choices=list(SOURCES), default="it",
                         help="Source text of the quoted originals (default: it)")
     parser.add_argument("-t", "--translations", type=Path, metavar="DIR",
@@ -190,14 +198,17 @@ def main():
                         help="Report the changes without writing them back")
     args = parser.parse_args()
 
-    paths = [
-        path
-        for dir in args.dirs
-        for canticle in CANTICLES
-        for path in sorted((dir / canticle).glob("*.md"))
-    ]
+    if "prose" in SOURCES[args.source]:
+        paths = [path for dir in args.dirs for path in sorted(dir.glob("*-canto-*.md"))]
+    else:
+        paths = [
+            path
+            for dir in args.dirs
+            for canticle in CANTICLES
+            for path in sorted((dir / canticle).glob("*.md"))
+        ]
     if not paths:
-        parser.error("no <canticle>/*.md files found under the given directories")
+        parser.error("no commentaries found under the given directories")
 
     rewritten = 0
     for path in paths:

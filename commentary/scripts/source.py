@@ -103,6 +103,15 @@ TRANSLATED_SOURCES = [name for name, source in SOURCES.items()
                       if "prose" not in source]
 
 
+def text_path(source: str, canto: int) -> Path:
+    """The file of texts/ holding a canto of a source printed with its own
+    English (texts/en/ for en, texts/<source>/ for the Temple Classics), as
+    texts/en/007-canto-01.md."""
+    folder = CARLYLE_DIR if source == "en" else OELSNER_DIRS[source]
+    (path,) = folder.glob(f"*-canto-{canto:02d}.md")
+    return path
+
+
 @dataclass
 class Line:
     no: int
@@ -238,7 +247,7 @@ def carlyle_passages(canto: int) -> list[Passage]:
     """One passage per page of texts/en: the verse printed on the page and
     the English prose above it. The pages before the first verse (the
     argument) are left out."""
-    (path,) = CARLYLE_DIR.glob(f"*-canto-{canto:02d}.md")
+    path = text_path("en", canto)
     pages: dict[int, tuple[list[Line], list[str]]] = {}
     lines: list[Line] = []
     for page, _, paragraph in paragraphs(path.read_text()):
@@ -350,7 +359,7 @@ def oelsner_lines(canto: int, source: str = "en-oelsner") -> list[Line]:
 def read_oelsner(canto: int, source: str = "en-oelsner"):
     """The verse lines of a canto of a Temple Classics volume (texts/<source>),
     the verse lines of each page, and the English paragraphs of each odd page."""
-    (path,) = OELSNER_DIRS[source].glob(f"*-canto-{canto:02d}.md")
+    path = text_path(source, canto)
     text = path.read_text().split("\n## Notes\n")[0]
     italian: dict[int, list[Line]] = {}
     english_pages: dict[int, list[str]] = {}

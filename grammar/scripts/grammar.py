@@ -48,7 +48,9 @@ supplied from the verb ending, the article before a possessive left out)
 get no bullets of their own and are summed up in the summary, whose phrases
 in double quotation marks must also be found in the English (a summary that
 fails is sent back to be corrected too). These comparisons have no translation
-notes: the translation is a printed text, not one to be corrected.
+notes: the translation is a printed text, not one to be corrected. The
+commentary takes the name of the file of texts/ it explains: texts/en/
+007-canto-01.md is explained in <out>/007-canto-01.md.
 """
 
 import argparse
@@ -67,7 +69,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "commentary" / "scr
 from fix_quote_blocks import ORIG_RE, TRANS_RE, rebuild_lines
 from generate import CANTICLE_NAMES, LANGUAGES, same_line
 from source import (OELSNER_DIRS, SOURCES, Line, Passage, carlyle_blocks, oelsner_passages,
-                    source_lines)
+                    source_lines, text_path)
 
 # The blocks of a source printed with a prose translation: lines of the
 # source and the part of the translation that renders exactly them (for
@@ -451,6 +453,15 @@ def summarize(client: Client, messages: list[str], tries: int, canto: int,
                repair=english is not None)
 
 
+def commentary_path(out: Path, source: str, canticle: str, canto: int) -> Path:
+    """The commentary on a canto: <out>/<canticle>/<NN>.md, or, for a source
+    printed with a prose translation, <out>/ and the name of its file of
+    texts/ (as <out>/007-canto-01.md)."""
+    if "prose" in SOURCES[source]:
+        return out / text_path(source, canto).name
+    return out / canticle / f"{canto:02d}.md"
+
+
 def explain(client: Client, canticle: str, canto: int, args: argparse.Namespace) -> bool:
     """Write or continue <out>/<canticle>/<NN>.md; False if a section failed."""
     source = SOURCES[args.source]
@@ -471,7 +482,7 @@ def explain(client: Client, canticle: str, canto: int, args: argparse.Namespace)
     text = canto_text(lines, translations)
     originals = {line.no: line.text for line in lines}
 
-    out_path = args.out / canticle / f"{canto:02d}.md"
+    out_path = commentary_path(args.out, args.source, canticle, canto)
     if (saved := open_commentary(out_path, canticle, canto)) is None:
         return True
     done = done_sections(saved)
@@ -508,15 +519,15 @@ def explain(client: Client, canticle: str, canto: int, args: argparse.Namespace)
 
 
 def compare(client: Client, canticle: str, canto: int, args: argparse.Namespace) -> bool:
-    """Write or continue <out>/<canticle>/<NN>.md for a source printed with a
-    prose translation, block by block; False if a block failed."""
+    """Write or continue the commentary (commentary_path) on a source printed
+    with a prose translation, block by block; False if a block failed."""
     source = SOURCES[args.source]
     blocks = BLOCKS[args.source](canto)
     names = dict(
         source=source["name"], language=source["language"], prose=source["prose"],
         canticle=CANTICLE_NAMES[canticle], number=canto,
     )
-    out_path = args.out / canticle / f"{canto:02d}.md"
+    out_path = commentary_path(args.out, args.source, canticle, canto)
     if (saved := open_commentary(out_path, canticle, canto)) is None:
         return True
     done = done_sections(saved)
@@ -547,12 +558,12 @@ def compare(client: Client, canticle: str, canto: int, args: argparse.Namespace)
     return True
 
 
-def list_notes(canticle: str, cantos, out: Path):
+def list_notes(canticle: str, cantos, out: Path, source: str):
     """Print every `Translation note:` paragraph with the lines quoted last
     before it."""
     count = 0
     for canto in cantos:
-        path = out / canticle / f"{canto:02d}.md"
+        path = commentary_path(out, source, canticle, canto)
         if not path.exists():
             continue
         quoted: list[int] = []
@@ -593,7 +604,9 @@ def main():
                         help="Directory holding the translations <canticle>/<NN>.txt; "
                              "required unless --notes or the source has its own prose translation")
     parser.add_argument("-o", "--out", type=Path, required=True,
-                        help="Output directory for <canticle>/<NN>.md")
+                        help="Output directory for <canticle>/<NN>.md, or for the "
+                             "files named as in texts/ for a source with its own "
+                             "prose translation")
     parser.add_argument("--size", type=int, default=30,
                         help="Lines per section, roughly (default: 30)")
     parser.add_argument("-t", "--tries", type=int, default=3,
@@ -612,7 +625,7 @@ def main():
         parser.error(f"source {args.source} has no {args.canticle}")
     cantos = select_cantos(args.canticle, args.canto)
     if args.notes:
-        list_notes(args.canticle, cantos, args.out)
+        list_notes(args.canticle, cantos, args.out, args.source)
         return
     required = ["model"] if "prose" in SOURCES[args.source] else ["model", "lang_code", "dir"]
     for name in required:

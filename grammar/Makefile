@@ -31,11 +31,12 @@ help:
 	@echo "       SOURCE=en-oelsner, en-purgatorio, en-paradiso (that of the Temple Classics),"
 	@echo "       explained against the English printed with it (without LANG), in <source>/"
 	@echo ""
-	@echo "  grammar      Write $(OUT)/<canticle>/NN.md, a grammar commentary in English on"
+	@echo "  grammar      Write $(OUT)/<canticle>/NN.md (for en and the Temple Classics, named"
+	@echo "               as in ../texts/<source>/), a grammar commentary in English on"
 	@echo "               every line of the $(SOURCE) source, quoting the translations of $(DIR)/"
 	@echo "               (for en and the Temple Classics, a comparison with the English, block by block)"
 	@echo "  grammar-notes List the translation notes of the grammar commentaries, without calling the model"
-	@echo "  fix-grammar-quotes Rebuild the quote blocks of $(OUT)/*/NN.md from the source and $(DIR)/"
+	@echo "  fix-grammar-quotes Rebuild the quote blocks of the commentaries in $(OUT)/ from the source and $(DIR)/"
 	@echo "               (for en and the Temple Classics, from the source alone)"
 
 grammar:

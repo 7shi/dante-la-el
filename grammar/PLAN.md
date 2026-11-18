@@ -19,7 +19,7 @@ The comparison of step 1 for Oelsner's edition: his English against his own Ital
 
 - A source `en-oelsner` in `commentary/scripts/source.py` and `grammar.py`, cut by `source.oelsner_passages`: the Italian of an even page and the English of the odd page facing it. No hand-checked cuts are needed, since Oelsner prints the English one paragraph per tercet; whether a spread is small enough for one call, or is to be cut by tercets, is to be decided on a trial.
 - The Italian of the two editions is compared in [editions/it-carlyle.md](../editions/it-carlyle.md); a block on a line where Oelsner reads otherwise than Carlyle needs no special handling, as each commentary keeps to its own edition.
-- Then the Purgatorio and the Paradiso of the Temple Classics (`texts/en-purgatorio/`, `texts/en-paradiso/`): Oelsner's Italian with Okey's English (Purgatorio) and Wicksteed's (Paradiso), printed facing it tercet by tercet as in the Inferno, so the same mode serves: `source.py` reads these volumes as the sources `en-purgatorio` and `en-paradiso`. As for `grammar/en/`, the commentary on `texts/<dir>/` is written to `grammar/<dir>/`: `grammar/en-purgatorio/` and `grammar/en-paradiso/`.
+- Then the Purgatorio and the Paradiso of the Temple Classics (`texts/en-purgatorio/`, `texts/en-paradiso/`): Oelsner's Italian with Okey's English (Purgatorio) and Wicksteed's (Paradiso), printed facing it tercet by tercet as in the Inferno, so the same mode serves: `source.py` reads these volumes as the sources `en-purgatorio` and `en-paradiso`. As for `grammar/en/`, the commentary on `texts/<dir>/` is written to `grammar/<dir>/`, file by file under the same names: `grammar/en-purgatorio/` and `grammar/en-paradiso/`.
 
 ## 3. grammar/grc
 
