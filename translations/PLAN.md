@@ -118,9 +118,12 @@ English headwords with Japanese forms from `PROPER_NAMES.tsv`).
 
 ### Style
 
-- Plain written Japanese (である調), nothing added or left out. The prose of the poem
-  word for word as far as natural Japanese allows, following the English where it differs
-  from the Italian; in the past tense where the English is; the narrator is 私.
+- Plain written Japanese (である調), nothing added or left out. Keep literal translation
+  as the principle while attending to readability (avoid Japanese em-dashes `——`), and
+  do not restructure sentences or clause order unless specifically instructed. The prose
+  of the poem word for word as far as natural Japanese allows, following the English
+  where it differs from the Italian; in the past tense where the English is; the narrator
+  is 私.
 - **Speech** is in plain form (常体), except Dante’s speeches to Virgil, which are in
   polite form (敬語 / です・ます調). `thou` is あなた (never お前), `ye`/`you` plural is
   あなたがた, as the English uses `thou` to everyone. A `you` of respect to one person
