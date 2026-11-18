@@ -10,7 +10,10 @@ paragraph the comment `<!-- first paragraph joined to p. X (NNN) -->`, and write
 A paragraph is taken as running over when the next page begins with prose and either that
 prose begins in lower case or the last prose of the page before (before its verse, glosses
 and footnotes, if any) does not end in punctuation. A page ending in a weak stop (; : , —)
-followed by prose in upper case is reported as doubtful, not joined. A paragraph may run over several pages; all their markers follow it.
+followed by prose in upper case is reported as doubtful, not joined, until it is decided in
+the image and written in translations/joins.tsv (`file`, `page`, `join` yes or no, `note`;
+`page` as in the marker, `40 (094)`). A paragraph may run over several pages; all their
+markers follow it.
 
 The verse (lines ending in a backslash) is handed over as it is, for reference; it is not
 translated, and the check expects it left out of the translation. A footnote's further
@@ -43,8 +46,31 @@ def load(src):
     return blocks(src.read_text(encoding="utf-8"))
 
 
+DECISIONS = Path(__file__).resolve().parent.parent / "joins.tsv"
+
+
+def decided(src):
+    """The doubtful places of src decided in joins.tsv: {marker: True to join, False not}."""
+    out = {}
+    if DECISIONS.exists():
+        rows = DECISIONS.read_text(encoding="utf-8").splitlines()[1:]
+        for row in rows:
+            f, page, join, *_ = row.split("\t")
+            if f == src.name:
+                out[f"<!-- p. {page} -->"] = join == "yes"
+    return out
+
+
+LONE_VERSE = re.compile(r"^(&emsp;)?[^\[\n]{1,90} \d{1,3}$")
+
+
 def is_verse(block):
-    return "\\\n" in block or block.rstrip().endswith("\\")
+    """Lines ending in a backslash; or a verse block of one line, which has no backslash
+    but ends in its line number (`Sì mi parlava, ed andavamo introcque. 130`)."""
+    b = block.strip("\n")
+    if any(len(l) > 100 for l in b.splitlines()):
+        return False  # prose with line breaks (p. 368 of Canto XXX); verse lines are short
+    return "\\\n" in b or b.rstrip().endswith("\\") or bool(LONE_VERSE.match(b))
 
 
 def is_prose(block):
@@ -68,8 +94,9 @@ def last_prose(bs, i):
     return None
 
 
-def joins(bs):
-    """(i, j, k): the marker bs[i], the prose bs[j] that runs on, its continuation bs[k]."""
+def joins(bs, dec={}):
+    """(i, j, k): the marker bs[i], the prose bs[j] that runs on, its continuation bs[k].
+    dec: the decided places (decided())."""
     out = []
     for i, b in enumerate(bs):
         if not MARKER.match(b) or i + 1 >= len(bs) or not is_prose(bs[i + 1]):
@@ -77,7 +104,8 @@ def joins(bs):
         j = last_prose(bs, i)
         if j is None:
             continue
-        if bs[i + 1].lstrip()[:1].islower() or not ending(bs[j]).endswith(END):
+        if (bs[i + 1].lstrip()[:1].islower() or not ending(bs[j]).endswith(END)
+                or dec.get(b)):
             out.append((i, j, i + 1))
     return out
 
@@ -86,12 +114,13 @@ def ending(block):
     return REF.sub("", block).rstrip()
 
 
-def doubtful(bs):
-    """Markers not joined where the page before ends in a weak stop (; : , —)."""
-    joined = {i for i, _, _ in joins(bs)}
+def doubtful(bs, dec={}):
+    """Markers not joined where the page before ends in a weak stop (; : , —), and not
+    decided."""
+    joined = {i for i, _, _ in joins(bs, dec)}
     out = []
     for i, b in enumerate(bs):
-        if not MARKER.match(b) or i in joined or i + 1 >= len(bs) or not is_prose(bs[i + 1]):
+        if not MARKER.match(b) or i in joined or b in dec or i + 1 >= len(bs) or not is_prose(bs[i + 1]):
             continue
         j = last_prose(bs, i)
         if j is not None and ending(bs[j]).rstrip("”’").endswith(tuple(";:,—")):
@@ -99,10 +128,10 @@ def doubtful(bs):
     return out
 
 
-def roots(bs):
+def roots(bs, dec={}):
     """For each join: the index of the block where the paragraph begins."""
     root, out = {}, []
-    for i, j, k in joins(bs):
+    for i, j, k in joins(bs, dec):
         r = root.get(j, j)
         root[k] = r
         out.append((i, r, k))
@@ -118,13 +147,13 @@ def page_before(bs, i):
 
 
 def prepare(src):
-    bs = load(src)
+    bs, dec = load(src), decided(src)
     text, removed, report = list(bs), set(), []
-    for i, r, k in roots(bs):
+    for i, r, k in roots(bs, dec):
         report.append(f"{bs[i]}\t…{text[r].rstrip()[-30:]} | {bs[k].lstrip()[:30]}…")
         text[r] = text[r].rstrip() + " " + bs[k].lstrip()
         removed.add(k)
-    for i in doubtful(bs):
+    for i in doubtful(bs, dec):
         report.append(f"{bs[i]}\tdoubtful, not joined: {bs[i + 1].lstrip()[:30]}…")
     out = [t for n, t in enumerate(text) if n not in removed]
     return "\n\n".join(out) + "\n", report
@@ -133,7 +162,7 @@ def prepare(src):
 def finish(src, translated):
     bs = load(src)
     joined = {}
-    for i, r, k in roots(bs):
+    for i, r, k in roots(bs, decided(src)):
         p, n = page_before(bs, r)
         joined[bs[i]] = f"<!-- first paragraph joined to p. {p} ({n}) -->"
     lines, missing = [], set(joined)
