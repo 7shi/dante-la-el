@@ -9,17 +9,17 @@ The grammar commentaries still to be made, in this order; step 1, `grammar/en/`,
 | 4 | `grammar/el-grc/` | Musurus's Greek (`texts/grc/`) | the Modern Greek translation of it (`commentary/el-grc/`) | Inferno (Purgatorio and Paradiso: see the step) |
 | 5 | `grammar/la/` | Serravalle's Latin (`texts/la/`) | the Italian of the same edition; both with a new English translation | Inferno, Purgatorio, Paradiso |
 
-## Rebase onto main again
+## Rebase onto main
 
-The el branch has been rebased onto main once (see [DONE.md](DONE.md)), but the texts are not settled yet: errors of transcription found while translating on the translations branch (`translations/for-main.tsv`) go into `ocr/` and `texts/` on main. The el branch is to be rebased again once the translations branch has been merged into main, and before it is merged itself; the reports are then checked as [editions/PLAN.md](../editions/PLAN.md) says. A change to the English of `texts/en/` may also call for a block of `grammar/en/` to be made again.
+The `el` branch has been merged into `main` (see [DONE.md](DONE.md)), and work continues on the `commentary` branch. If `translations` or other work on `main` changes `texts/` before `commentary` is merged, `commentary` is to be rebased onto `main` and the reports checked as [editions/PLAN.md](../editions/PLAN.md) says. A change to the English of `texts/en/` may also call for a block of `grammar/en/` to be updated.
 
-## 2. grammar/en-oelsner
+## 2. grammar/en-oelsner, en-purgatorio, en-paradiso
 
-The comparison of step 1 for Oelsner's edition: his English against his own Italian, which differs from Carlyle's in many readings (see [editions/en-carlyle-oelsner.md](../editions/en-carlyle-oelsner.md): the English follows Oelsner's Italian where the two differ, so each English is read with its own Italian).
+The comparison of step 1 for the Temple Classics edition: each English against its own Italian, which differs from Carlyle's in many readings (see [editions/en-carlyle-oelsner.md](../editions/en-carlyle-oelsner.md): the English follows Oelsner's Italian where the two differ, so each English is read with its own Italian).
 
-- A source `en-oelsner` in `commentary/scripts/source.py` and `grammar.py`, cut by `source.oelsner_passages`: the Italian of an even page and the English of the odd page facing it. No hand-checked cuts are needed, since Oelsner prints the English one paragraph per tercet; whether a spread is small enough for one call, or is to be cut by tercets, is to be decided on a trial.
+- `commentary/scripts/source.py` and `grammar.py` support `en-oelsner`, `en-purgatorio`, and `en-paradiso`, cut by `source.oelsner_passages` (one spread per call: the Italian of an even page and the English of the odd page facing it, one paragraph per tercet; no hand-checked cuts are needed). The commentary on `texts/<dir>/` is written to `grammar/<dir>/` under the same file names.
 - The Italian of the two editions is compared in [editions/it-carlyle.md](../editions/it-carlyle.md); a block on a line where Oelsner reads otherwise than Carlyle needs no special handling, as each commentary keeps to its own edition.
-- Then the Purgatorio and the Paradiso of the Temple Classics (`texts/en-purgatorio/`, `texts/en-paradiso/`): Oelsner's Italian with Okey's English (Purgatorio) and Wicksteed's (Paradiso), printed facing it tercet by tercet as in the Inferno, so the same mode serves: `source.py` reads these volumes as the sources `en-purgatorio` and `en-paradiso`. As for `grammar/en/`, the commentary on `texts/<dir>/` is written to `grammar/<dir>/`, file by file under the same names: `grammar/en-purgatorio/` and `grammar/en-paradiso/`.
+- Status: `grammar/en-oelsner/` (Inferno, 34 cantos) is generated and awaiting review; `grammar/en-purgatorio/` (Okey's English) and `grammar/en-paradiso/` (Wicksteed's English) are in progress.
 
 ## 3. grammar/grc
 

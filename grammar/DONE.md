@@ -21,3 +21,11 @@ The el branch was rebased onto main (903e1f18), which added to `texts/` what the
 - `texts/en-purgatorio/` and `texts/en-paradiso/`, the Temple Classics Purgatorio and Paradiso, with Oelsner's Italian and Okey's English facing it tercet by tercet.
 
 The reports of `editions/` were checked and updated after it (see [editions/DONE.md](../editions/DONE.md)).
+
+## Merge into main and texts/en update
+
+The `el` branch was merged into `main`, and the `translations/for-main.tsv` fixes in `texts/en/` (`c3119649`, including three missing quotation marks in Carlyle's English in cantos II and VII) were checked against `grammar/en/`:
+
+- `fix_quote_blocks.py -s en -d en -n` reported no changes to the Italian quote blocks.
+- The three missing quotation marks in Carlyle's English were restored in `grammar/en/008-canto-02.md` (lines 78 and 108) and `grammar/en/013-canto-07.md` (line 66).
+- Work continues on the `commentary` branch, branched from `main` (`8498fc85`).
