@@ -149,12 +149,16 @@ English headwords with Japanese forms from `PROPER_NAMES.tsv`).
 - Glosses keep the line number and the Italian word: `12\. Alto：高い、深い、あるいは困難な。`
 - Multiline footnotes keep `\` at the end of continuation-preceding lines and 4-space
   indentation on continuation lines.
-- `en-oelsner` (`001`–`041`, all files): proper names conform to `ja/PROPER_NAMES.tsv`
-  and `ja/PROPER_NAMES.md` (filtered per canto with `scripts/proper_names.py`);
-  marginal labels (`<!-- label: ... -->`) on translated English paragraphs are
-  translated inside the comment, while Italian verse labels stay as-is; Oelsner's
-  revision square brackets `[...]` are omitted, treating their contents as plain
-  prose.
+- `en-oelsner` (`001`–`041`), `en-purgatorio` (`001`–`040`), `en-paradiso` (`001`–`039`):
+  all files in scope; proper names conform to `ja/PROPER_NAMES.tsv` and `ja/PROPER_NAMES.md`
+  (`en-oelsner` cantos filtered per canto with `scripts/proper_names.py`); marginal labels
+  (`<!-- label: ... -->`) on translated English paragraphs are translated inside the
+  comment, while Italian verse labels stay as-is; editorial revision square brackets
+  `[...]` are omitted, treating their contents as plain prose.
+- Batch delegation workflow (`en-oelsner`, `en-purgatorio`, `en-paradiso`): prepare inputs
+  in `tmp/translate/{dir}/in/` and cold-start prompts `task-NNN.md`; the delegate writes
+  `{stem}.md`, `{stem}.tsv` (suspected misprints), and `{stem}.txt` (unclear points and
+  work notes) to `tmp/translate/{dir}/out/` for batch review before `pages.py finish`.
 
 ### Misprints
 
@@ -174,11 +178,12 @@ English headwords with Japanese forms from `PROPER_NAMES.tsv`).
 ## Not settled
 
 - **Style, the rest**: the words in italics (other texts).
-- **The scope beyond `en`**: `en-oelsner` (`001`–`041`, all files) is settled; remaining
-  are the notes of `en-purgatorio` and `en-paradiso`, the commentary of `la` (about
-  1300 scans), the Greek prologue, arguments and notes of `grc`, and the indexes.
-- **The order of the texts**: `en-oelsner` after `en`; the order of the rest (`en-purgatorio`,
-  `en-paradiso`, `la`, `grc`).
+- **The scope beyond `en`**: the three Temple Classics volumes (`en-oelsner`,
+  `en-purgatorio`, `en-paradiso`) are settled; remaining are the commentary of `la`
+  (about 1300 scans), the Greek prologue, arguments and notes of `grc`, and the
+  plate/map/table indexes (`en-oelsner/041`, `en-purgatorio/040`, `en-paradiso/039`).
+- **The order of the texts**: `en-oelsner`, `en-purgatorio`, `en-paradiso` after `en`;
+  the order of the rest (`la`, `grc`).
 
 ## Trial
 
@@ -233,7 +238,10 @@ Found by this work, to be done on `main` (not on this branch):
 2. Done: the trial; the points decided are written above.
 3. Done for `001`–`041` of `en` (one file at a time, the prefaces and essays first, then
    `001` and `041`, and the `for-main.tsv` / misprint items resolved on `main`).
-4. Next: `en-oelsner` (`001`–`041`), then the other texts in the order and scope decided.
+4. In progress: `en-oelsner`, `en-purgatorio`, `en-paradiso` (`001` title pages
+   translated; `002`–`040` / `002`–`039` / `002`–`038` prepared with cold-start prompts
+   for GPT-6 Luna in `tmp/translate/{dir}/`, awaiting batch review and split commits),
+   then `la` and `grc`.
 5. A README of `translations/`, and the conversion into HTML.
 
 Commits when the user asks.
