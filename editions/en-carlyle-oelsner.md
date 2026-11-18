@@ -10,7 +10,7 @@ The two English texts are not divided alike: Carlyle's edition prints the prose 
 
 | Kind of difference | Count |
 |---|---|
-| punctuation only | 603 |
+| punctuation only | 602 |
 | case only, or punctuation with a change of case (`. And` / `; and`) | 377 |
 | words: substituted, inserted, or deleted | 358 |
 
