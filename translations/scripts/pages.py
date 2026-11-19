@@ -180,9 +180,10 @@ def finish(src, translated):
     return "\n".join(lines).rstrip("\n") + "\n"
 
 
-def shape(text):
+def shape(text, count_verse_lines=False):
     """The structure of a text: markers and footnote IDs as they are, headings by level,
-    verse as V, a paragraph as P with the footnote references in it."""
+    verse as V (or V:N with line count when count_verse_lines is True), a paragraph as P
+    with the footnote references in it."""
     out = []
     for b in blocks(text):
         b = b.strip()
@@ -193,19 +194,23 @@ def shape(text):
         elif b.startswith("[^"):
             out.append(b.split(":", 1)[0])
         elif is_verse(b):
-            out.append("V")
+            out.append(f"V:{len(b.splitlines())}" if count_verse_lines else "V")
         else:
             out.append("P" + "".join(REF.findall(b)))
     return out
 
 
-def check(src, translated):
+def check(src, translated, keep_verse=False):
     """Compare the translator's output with the input it was given. Returns the
     differences, and the paragraphs whose footnote references come in another order (which
     Japanese word order may need; reported, not counted as a difference)."""
     import difflib
-    a = [x for x in shape(prepare(src)[0]) if x != "V"]  # verse is not translated
-    b = shape(translated)
+    if keep_verse:
+        a = shape(prepare(src)[0], count_verse_lines=True)
+        b = shape(translated, count_verse_lines=True)
+    else:
+        a = [x for x in shape(prepare(src)[0]) if x != "V"]  # verse is not translated
+        b = shape(translated)
     norm = lambda xs: ["P" + "".join(sorted(REF.findall(x))) if x.startswith("P") else x
                        for x in xs]
     diff = list(difflib.unified_diff(norm(a), norm(b), "input", "translation", lineterm=""))
@@ -226,6 +231,8 @@ def main():
     c = sub.add_parser("check", help="compare the structure of the translation")
     c.add_argument("source", type=Path, help="texts/{dir}/{file}.md")
     c.add_argument("translation", type=Path, help="the translator's output")
+    c.add_argument("--keep-verse", action="store_true",
+                   help="include verse blocks (with line counts) in the comparison")
     a = ap.parse_args()
 
     if a.cmd == "prepare":
@@ -236,7 +243,8 @@ def main():
             print(r)
         print(f"{len(report)} joined", file=sys.stderr)
     elif a.cmd == "check":
-        diff, order = check(a.source, a.translation.read_text(encoding="utf-8"))
+        diff, order = check(a.source, a.translation.read_text(encoding="utf-8"),
+                            keep_verse=a.keep_verse)
         print("\n".join(diff) if diff else "same structure")
         for o in order:
             print(f"references reordered: {o}")
