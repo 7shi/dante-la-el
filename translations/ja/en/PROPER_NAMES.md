@@ -22,7 +22,7 @@ Shared Japanese proper-name conventions for `translations/ja/`, based on the rev
 - `Focaccia` → **フォカッチャ** (single `c` in Italian; applied in `038`).
 - `Geri del Bello` → **ジェーリ・デル・ベッロ** / **ジェーリ** (Italian `/dʒ/`; applied in `035`).
 - `Vellutello` → **ヴェッルテッロ** (Italian geminate `ll`; applied in `015`).
-- `Benedict XI` → **ベネディクトゥス十一世** (Latin papal form; applied in `en-paradiso/018`).
+- `Benedict XI` → **ベネディクトゥス11世** (Latin papal form; applied in `en-paradiso/018`).
 - `Luni` → **ルーニ** (applied across Inferno, Purgatorio, Paradiso).
 - `Tiber` / `Tevere` → **テヴェレ川** (modern Italian river name; applied across Inferno, Purgatorio, Paradiso).
 - `Pachynus` / `Pelorus` → **パッセロ岬** / **ペロロ岬** (modern Sicilian cape names; applied across Purgatorio, Paradiso).

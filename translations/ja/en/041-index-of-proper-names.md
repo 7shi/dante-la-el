@@ -254,7 +254,7 @@ Francesca, フランチェスカ, v. 74 &c.\
 Francesco d’ Accorso, フランチェスコ・ダッコルソ, xv. 110.\
 Francis, Saint, フランチェスコ, xxvii. 112.\
 French, フランス人, xxvii. 44; xxix. 123; xxxii. 115.\
-Frederick II., Emperor, 皇帝フリードリヒ二世, x. 121; xiii. 59, 68; xxiii. 66.\
+Frederick II., Emperor, 皇帝フリードリヒ2世, x. 121; xiii. 59, 68; xxiii. 66.\
 Frieselanders, フリースラント人, xxxi. 64.\
 Fucci, Vanni, ヴァンニ・フッチ, xxiv. 125.\
 Furies, 復讐の女神, ix. 38, &c.\

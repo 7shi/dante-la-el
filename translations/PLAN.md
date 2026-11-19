@@ -51,6 +51,10 @@ handling follow [`GUIDE.md`](GUIDE.md). Project-specific decisions:
 
 - Plain written Japanese (である調), literal with readability (avoid Japanese em-dashes
   `——`), past tense where the source is; narrator is 私.
+- **Numbers**: use Arabic numerals rather than kanji numerals (e.g., `# 第1歌`, `12音節`,
+  `1881年10月`, `3頭の獣`, `第2の死`, `ボニファティウス8世`), except inside fixed kanji
+  compounds, established terms, and idiomatic expressions (such as `一貫`, `万人`, `万物`,
+  `第一質料`, `黄道十二宮`, `もう一つ`, `誰一人`, `一度も`).
 - **Speech**: plain form (常体) for all speakers (except Dante’s speeches to Virgil in
   `en`, which use polite form 敬語). `thou` / respectful `you` (`voi`) is あなた (never
   お前); plural `ye`/`you` is あなたがた.
