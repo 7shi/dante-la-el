@@ -6,16 +6,16 @@ from the section files of [`texts/`](../texts/), into `translations/ja/{dir}/`, 
 `{dir}` is the directory name of `ocr/` and `texts/`. The work is done on the branch
 `translations`. Completed work is recorded in [`DONE.md`](DONE.md).
 
-## State (2026-11-19)
+## State (2026-11-20)
 
 - **Done** ([`DONE.md`](DONE.md)):
   - `ja/en/` (`001`–`041`, Carlyle's *Inferno*): all 41 files translated, checked, and committed; `for-main.tsv` items resolved.
-  - `ja/en-oelsner/` (`001`–`040`, Temple Classics *Inferno*): title page, Cantos I–XXXIV, and end matter translated, reviewed, checked, and committed (with 5 misprints in `ja/en-oelsner/misprints.tsv` and 3 text items in `for-main.tsv`; `041` index pending).
-  - `ja/en-purgatorio/` (`001`–`039`, Temple Classics *Purgatorio*): title page, Cantos I–XXXIII, and end matter translated, reviewed, checked, and committed (with 10 misprints/author errors in `ja/en-purgatorio/misprints.tsv`, 7 items in `for-main.tsv`, and 1 entry in `joins.tsv`; `040` index pending).
-  - `ja/en-paradiso/` (`001`–`038`, Temple Classics *Paradiso*): title page, Cantos I–XXXIII, and end matter translated, reviewed, checked, and committed (with 6 misprints in `ja/en-paradiso/misprints.tsv` and 9 items in `for-main.tsv`; `039` index pending).
+  - `ja/en-oelsner/` (`001`–`041`, Temple Classics *Inferno*): all 41 files (title page, Cantos I–XXXIV, end matter, and index) translated, reviewed, and checked (with 5 misprints in `ja/en-oelsner/misprints.tsv` and 3 text items in `for-main.tsv`).
+  - `ja/en-purgatorio/` (`001`–`040`, Temple Classics *Purgatorio*): all 40 files (title page, Cantos I–XXXIII, end matter, and index) translated, reviewed, and checked (with 10 misprints/author errors in `ja/en-purgatorio/misprints.tsv`, 7 items in `for-main.tsv`, and 2 entries in `joins.tsv`).
+  - `ja/en-paradiso/` (`001`–`039`, Temple Classics *Paradiso*): all 39 files (title page, Cantos I–XXXIII, end matter, and index) translated, reviewed, and checked (with 6 misprints in `ja/en-paradiso/misprints.tsv`, 9 items in `for-main.tsv`, and 1 entry in `joins.tsv`).
   - Proper-name audit & tables: generated `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` and `ja/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` (449 / 363 / 379 poem-body entries), unified transliterations across all sections of all four English volumes, and moved `ja/PROPER_NAMES.{md,tsv}` to `ja/en/PROPER_NAMES.{md,tsv}`.
 - **Next**:
-  - Translate the plate/map/table index files (`en-oelsner/041`, `en-purgatorio/040`, `en-paradiso/039`).
+  - Plan and execute the `grc` and `la` translations (two-stage workflow: EN conforming to Temple Classics `PROPER_NAMES.tsv`, then direct `grc`/`la` → JA refined with EN).
 
 ## What is settled
 
@@ -184,9 +184,6 @@ Found by this work, to be done on `main` (not on this branch):
 
 ## Not settled
 
-- **Plate/map/table indexes**: `en-oelsner/041-index-to-maps-plates-and-tables.md`,
-  `en-purgatorio/040-index-to-plates-tables-etc.md`, and
-  `en-paradiso/039-index-to-maps-diagrams-and-tables.md`.
 - **Beyond the English editions**: the commentary of `la` (about 1300 scans), the Greek
   prologue, arguments and notes of `grc`, and how words in italics are handled there.
   - **Two-stage workflow for `grc` / `la`**: first translate `grc` / `la` into English,
@@ -197,9 +194,7 @@ Found by this work, to be done on `main` (not on this branch):
 
 ## Remaining steps
 
-1. Translate the plate/map/table index files (`en-oelsner/041`, `en-purgatorio/040`,
-   `en-paradiso/039`).
-2. `la` and `grc`.
-3. A README of `translations/`, and the conversion into HTML.
+1. `la` and `grc`.
+2. A README of `translations/`, and the conversion into HTML.
 
 Commits when the user asks.

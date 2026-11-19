@@ -7,7 +7,7 @@ The record of completed work ([PLAN.md](PLAN.md)).
 - [`scripts/pages.py`](scripts/pages.py): `prepare` (joins paragraphs across page markers and reports doubtful places), `check` (compares headings, page markers, footnote IDs, and paragraph structure, leaving verse out), and `finish` (inserts `<!-- first paragraph joined to p. ... -->` comments after page markers).
   - `is_verse` treats a one-line verse block ending in its line number as verse (`LONE_VERSE`, p. 243 of Canto XX in `en`), and treats a block with `\` line breaks whose lines exceed 100 chars as prose (p. 368 of Canto XXX in `en`).
   - Explicit `joins.tsv` decisions (`yes`/`no`) override the auto-join heuristic, and `file` entries are matched as `{dir}/{file}`.
-- [`joins.tsv`](joins.tsv): decided (`yes`) for all five doubtful places in `en` (pp. 40, 45, 54, 153, 268), along with two pages where a speech runs on after a full stop with an unclosed quote (pp. 376, 402), and one `no` entry for `en-purgatorio/006-canto-05.md` (p. 58 (070), after a truncated misprint without a full stop).
+- [`joins.tsv`](joins.tsv): decided (`yes`) for all five doubtful places in `en` (pp. 40, 45, 54, 153, 268), along with two pages where a speech runs on after a full stop with an unclosed quote (pp. 376, 402), and three `no` entries (`en-purgatorio/006-canto-05.md` p. 58 (070) after a truncated misprint without a full stop; `en-purgatorio/040-index-to-plates-tables-etc.md` p. 443 (455) and `en-paradiso/039-index-to-maps-diagrams-and-tables.md` p. 420 (430) before colophons on new pages).
 - [`ja/en/PROPER_NAMES.md`](ja/en/PROPER_NAMES.md), [`ja/en/PROPER_NAMES.tsv`](ja/en/PROPER_NAMES.tsv), [`ja/en-oelsner/PROPER_NAMES.tsv`](ja/en-oelsner/PROPER_NAMES.tsv), [`ja/en-purgatorio/PROPER_NAMES.tsv`](ja/en-purgatorio/PROPER_NAMES.tsv), [`ja/en-paradiso/PROPER_NAMES.tsv`](ja/en-paradiso/PROPER_NAMES.tsv), and [`scripts/proper_names.py`](scripts/proper_names.py): shared proper-name tables (aligned 1-to-1 with `texts/{en,en-oelsner,en-purgatorio,en-paradiso}/PROPER_NAMES.tsv`) and canto-filtering script for the English volumes.
 
 ## `ja/en/` — Carlyle's *Inferno* (`001`–`041`, 2026-11-18 – 2026-11-19)
@@ -22,9 +22,9 @@ The record of completed work ([PLAN.md](PLAN.md)).
 - **Title page and index** (`001-title-page.md`, `041-index-of-proper-names.md`): translated (`041` keeping English headwords with Japanese forms from `PROPER_NAMES.tsv`).
 - **`for-main.tsv` & misprints**: all `en` misprints and transcription fixes resolved on `main` and reflected in `ja/en/`.
 
-## `ja/en-oelsner/` — Temple Classics *Inferno* (`001`–`040`, 2026-11-19)
+## `ja/en-oelsner/` — Temple Classics *Inferno* (`001`–`041`, 2026-11-19 – 2026-11-20)
 
-- **`001-title-page.md`**: translated directly.
+- **`001-title-page.md` and `041-index-to-maps-plates-and-tables.md`**: translated directly (`041` aligned with in-volume map/diagram/table captions, 14 blocks 1-to-1).
 - **Cantos I–XXXIV and end matter** (`002`–`040`): prepared with `pages.py prepare` in `tmp/translate/en-oelsner/in/` and delegated to GPT-6 Luna (Codex) via cold-start task files `task-002.md`–`task-040.md` (speech in plain form [常体] for all speakers).
 - **Batch review and landing** (`002`–`010`, `011`–`020`, `021`–`030`, `031`–`040`):
   - Checked all `{stem}.md`, `{stem}.tsv`, and `{stem}.txt` outputs against `texts/en-oelsner/` and `translations/ja/en/`.
@@ -34,9 +34,9 @@ The record of completed work ([PLAN.md](PLAN.md)).
   - Recorded 5 misprints in [`ja/en-oelsner/misprints.tsv`](ja/en-oelsner/misprints.tsv) (2 unclosed/extra quotation marks in `008-canto-07.md` and `010-canto-09.md`, 2 map-image spellings `S. Beneddeto` and `Verruchio` in `017-canto-16.md`, and `Farfarella` for `Farfarello` in the Argument of `023-canto-22.md`), and added the 3 editable-text items to [`for-main.tsv`](for-main.tsv).
   - Verified all files with `pages.py finish` and `pages.py check` (`same structure` on all prose-only files; expected `+V` only on files containing `\`-broken map/table blocks).
 
-## `ja/en-purgatorio/` — Temple Classics *Purgatorio* (`001`–`039`, 2026-11-19)
+## `ja/en-purgatorio/` — Temple Classics *Purgatorio* (`001`–`040`, 2026-11-19 – 2026-11-20)
 
-- **`001-title-page.md`**: translated directly.
+- **`001-title-page.md` and `040-index-to-plates-tables-etc.md`**: translated directly (`040` aligned with in-volume diagram/table captions, 14 blocks 1-to-1; added `p. 443 (455)` `no` entry to `joins.tsv`).
 - **Cantos I–XXXIII and end matter** (`002`–`039`): prepared with `pages.py prepare` in `tmp/translate/en-purgatorio/in/` and delegated to GPT-6 Luna (Codex) via cold-start task files `task-002.md`–`task-039.md` (speech in plain form [常体] for all speakers).
 - **Batch review and landing** (`002`–`010`, `011`–`020`, `021`–`030`, `031`–`039`):
   - Checked all `{stem}.md`, `{stem}.tsv`, and `{stem}.txt` outputs block-by-block against `texts/en-purgatorio/` and `translations/ja/en/PROPER_NAMES.{md,tsv}`.
@@ -45,9 +45,9 @@ The record of completed work ([PLAN.md](PLAN.md)).
   - Recorded 10 verified misprints/author errors in [`ja/en-purgatorio/misprints.tsv`](ja/en-purgatorio/misprints.tsv) (checked against `ocr/en-purgatorio/*.png`), added 7 editable-text items (6 misprints + 1 OCR signature/page-number leak in `036-the-chronology-of-the-purgatorio.md`) to [`for-main.tsv`](for-main.tsv), and added `en-purgatorio/006-canto-05.md` (`58 (070)`, `no`) to [`joins.tsv`](joins.tsv).
   - Verified all 39 files with `pages.py finish` and `pages.py check` (`same structure` on all prose-only files; expected `+V` [and `-P/+V` on `008` p. 86] only on files containing `\`-broken map/diagram/table blocks).
 
-## `ja/en-paradiso/` — Temple Classics *Paradiso* (`001`–`038`, 2026-11-19)
+## `ja/en-paradiso/` — Temple Classics *Paradiso* (`001`–`039`, 2026-11-19 – 2026-11-20)
 
-- **`001-title-page.md`**: translated directly.
+- **`001-title-page.md` and `039-index-to-maps-diagrams-and-tables.md`**: translated directly (`039` aligned with in-volume map/diagram/table captions, 18 blocks 1-to-1; added `p. 420 (430)` `no` entry to `joins.tsv`).
 - **Cantos I–XXXIII and end matter** (`002`–`038`): prepared with `pages.py prepare` in `tmp/translate/en-paradiso/in/` and delegated to GPT-6 Luna (Codex) via cold-start task files `task-002.md`–`task-038.md` (speech in plain form [常体] for all speakers).
 - **Batch review and landing** (`002`–`010`, `011`–`020`, `021`–`030`, `031`–`038`):
   - Checked all `{stem}.md`, `{stem}.tsv`, and `{stem}.txt` outputs block-by-block against `texts/en-paradiso/`.
