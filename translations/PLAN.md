@@ -11,8 +11,8 @@ from the section files of [`texts/`](../texts/), into `translations/ja/{dir}/`, 
 - **Done** ([`DONE.md`](DONE.md)):
   - `ja/en/` (`001`–`041`, Carlyle's *Inferno*): all 41 files translated, checked, and committed; `for-main.tsv` items resolved.
   - `ja/en-oelsner/` (`001`–`040`, Temple Classics *Inferno*): title page, Cantos I–XXXIV, and end matter translated, reviewed, checked, and committed (with 5 misprints in `ja/en-oelsner/misprints.tsv` and 3 text items in `for-main.tsv`; `041` index pending).
+  - `ja/en-purgatorio/` (`001`–`039`, Temple Classics *Purgatorio*): title page, Cantos I–XXXIII, and end matter translated, reviewed, checked, and committed (with 10 misprints/author errors in `ja/en-purgatorio/misprints.tsv`, 7 items in `for-main.tsv`, and 1 entry in `joins.tsv`; `040` index pending).
 - **In progress**:
-  - `ja/en-purgatorio/` (`001`–`040`, Temple Classics *Purgatorio*): `001-title-page.md` translated (uncommitted); `002`–`039` prepared and translated by GPT-6 Luna (Codex) in `tmp/translate/en-purgatorio/{in,out}/`, awaiting batch review and landing; `040` index pending.
   - `ja/en-paradiso/` (`001`–`039`, Temple Classics *Paradiso*): `001-title-page.md` translated (uncommitted); `002`–`038` prepared and translated by GPT-6 Luna (Codex) in `tmp/translate/en-paradiso/{in,out}/`, awaiting batch review and landing; `039` index pending.
 
 ## What is settled
@@ -74,8 +74,8 @@ from the section files of [`texts/`](../texts/), into `translations/ja/{dir}/`, 
   and footnotes; a footnote reference at its end is ignored. In the cantos a page often
   ends in a weak stop (`;`, `:`, `,`, an abbreviation such as `MSS.`) and the next begins
   in lower case. A weak stop followed by upper case is listed as doubtful, not joined;
-  decided places are recorded in [`joins.tsv`](joins.tsv) (`file`, `page`, `join` yes or
-  no, `note`).
+  decided places are recorded in [`joins.tsv`](joins.tsv) (`file` as `{dir}/{file}`,
+  `page`, `join` yes or no, `note`).
 - **Verse vs. prose in `pages.py`**: `is_verse` treats a one-line verse block ending in
   its line number as verse (`LONE_VERSE`), and treats a block with `\` line breaks whose
   lines exceed 100 chars as prose. Because translated map captions, genealogical tables,
@@ -190,13 +190,11 @@ Found by this work, to be done on `main` (not on this branch):
 
 ## Remaining steps
 
-1. `en-purgatorio`: review and land `002`–`039` from `tmp/translate/en-purgatorio/out/`
-   into `translations/ja/en-purgatorio/` (with `001-title-page.md`).
-2. `en-paradiso`: review and land `002`–`038` from `tmp/translate/en-paradiso/out/`
+1. `en-paradiso`: review and land `002`–`038` from `tmp/translate/en-paradiso/out/`
    into `translations/ja/en-paradiso/` (with `001-title-page.md`).
-3. Translate the plate/map/table index files (`en-oelsner/041`, `en-purgatorio/040`,
+2. Translate the plate/map/table index files (`en-oelsner/041`, `en-purgatorio/040`,
    `en-paradiso/039`).
-4. `la` and `grc`.
-5. A README of `translations/`, and the conversion into HTML.
+3. `la` and `grc`.
+4. A README of `translations/`, and the conversion into HTML.
 
 Commits when the user asks.

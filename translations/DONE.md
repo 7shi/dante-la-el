@@ -6,7 +6,8 @@ The record of completed work ([PLAN.md](PLAN.md)).
 
 - [`scripts/pages.py`](scripts/pages.py): `prepare` (joins paragraphs across page markers and reports doubtful places), `check` (compares headings, page markers, footnote IDs, and paragraph structure, leaving verse out), and `finish` (inserts `<!-- first paragraph joined to p. ... -->` comments after page markers).
   - `is_verse` treats a one-line verse block ending in its line number as verse (`LONE_VERSE`, p. 243 of Canto XX in `en`), and treats a block with `\` line breaks whose lines exceed 100 chars as prose (p. 368 of Canto XXX in `en`).
-- [`joins.tsv`](joins.tsv): decided (`yes`) for all five doubtful places in `en` (pp. 40, 45, 54, 153, 268), along with two pages where a speech runs on after a full stop with an unclosed quote (pp. 376, 402).
+  - Explicit `joins.tsv` decisions (`yes`/`no`) override the auto-join heuristic, and `file` entries are matched as `{dir}/{file}`.
+- [`joins.tsv`](joins.tsv): decided (`yes`) for all five doubtful places in `en` (pp. 40, 45, 54, 153, 268), along with two pages where a speech runs on after a full stop with an unclosed quote (pp. 376, 402), and one `no` entry for `en-purgatorio/006-canto-05.md` (p. 58 (070), after a truncated misprint without a full stop).
 - [`ja/PROPER_NAMES.md`](ja/PROPER_NAMES.md), [`ja/PROPER_NAMES.tsv`](ja/PROPER_NAMES.tsv), and [`scripts/proper_names.py`](scripts/proper_names.py): shared proper-name table and canto-filtering script for `en`, `en-oelsner`, `en-purgatorio`, and `en-paradiso`.
 
 ## `ja/en/` — Carlyle's *Inferno* (`001`–`041`, 2026-11-18 – 2026-11-19)
@@ -32,3 +33,14 @@ The record of completed work ([PLAN.md](PLAN.md)).
   - Preserved trailing `\` line breaks in map captions, genealogical tables (House of Este, Malatesta, Della Scala), and the classification table in `036-note-on-dantes-hell.md`.
   - Recorded 5 misprints in [`ja/en-oelsner/misprints.tsv`](ja/en-oelsner/misprints.tsv) (2 unclosed/extra quotation marks in `008-canto-07.md` and `010-canto-09.md`, 2 map-image spellings `S. Beneddeto` and `Verruchio` in `017-canto-16.md`, and `Farfarella` for `Farfarello` in the Argument of `023-canto-22.md`), and added the 3 editable-text items to [`for-main.tsv`](for-main.tsv).
   - Verified all files with `pages.py finish` and `pages.py check` (`same structure` on all prose-only files; expected `+V` only on files containing `\`-broken map/table blocks).
+
+## `ja/en-purgatorio/` — Temple Classics *Purgatorio* (`001`–`039`, 2026-11-19)
+
+- **`001-title-page.md`**: translated directly.
+- **Cantos I–XXXIII and end matter** (`002`–`039`): prepared with `pages.py prepare` in `tmp/translate/en-purgatorio/in/` and delegated to GPT-6 Luna (Codex) via cold-start task files `task-002.md`–`task-039.md` (speech in plain form [常体] for all speakers).
+- **Batch review and landing** (`002`–`010`, `011`–`020`, `021`–`030`, `031`–`039`):
+  - Checked all `{stem}.md`, `{stem}.tsv`, and `{stem}.txt` outputs block-by-block against `texts/en-purgatorio/` and `translations/ja/PROPER_NAMES.{md,tsv}`.
+  - Normalized canto headings (`# 第一歌`–`# 第三十三歌`), pronouns and titles (`あなた` / `あなたがた`, `師` / `師よ` / `我が師よ`, `導き手`, `案内人`, `先導者`), plain form in dialogue and prayers, quotation marks across multi-paragraph speeches, nested quotes (`『...』`), initial signatures (`H. O.`, `P. H. W.`, `I. G.`, `T. O.`), and `## 注` reference citations (`*v.*`, `*vv.*`, `p.`, `pp.`, `cf.` → `と比較せよ`, `See X` → `X を参照`).
+  - Restored and aligned all marginal labels (`<!-- label: ... -->`) on English paragraphs, removed editorial square brackets (`[...]` / `［...］`), and preserved trailing `\` line breaks in maps, diagrams, and genealogical tables.
+  - Recorded 10 verified misprints/author errors in [`ja/en-purgatorio/misprints.tsv`](ja/en-purgatorio/misprints.tsv) (checked against `ocr/en-purgatorio/*.png`), added 7 editable-text items (6 misprints + 1 OCR signature/page-number leak in `036-the-chronology-of-the-purgatorio.md`) to [`for-main.tsv`](for-main.tsv), and added `en-purgatorio/006-canto-05.md` (`58 (070)`, `no`) to [`joins.tsv`](joins.tsv).
+  - Verified all 39 files with `pages.py finish` and `pages.py check` (`same structure` on all prose-only files; expected `+V` [and `-P/+V` on `008` p. 86] only on files containing `\`-broken map/diagram/table blocks).
