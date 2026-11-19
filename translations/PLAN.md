@@ -13,14 +13,15 @@ from the section files of [`texts/`](../texts/), into `translations/ja/{dir}/`, 
   - `ja/en-oelsner/` (`001`–`040`, Temple Classics *Inferno*): title page, Cantos I–XXXIV, and end matter translated, reviewed, checked, and committed (with 5 misprints in `ja/en-oelsner/misprints.tsv` and 3 text items in `for-main.tsv`; `041` index pending).
   - `ja/en-purgatorio/` (`001`–`039`, Temple Classics *Purgatorio*): title page, Cantos I–XXXIII, and end matter translated, reviewed, checked, and committed (with 10 misprints/author errors in `ja/en-purgatorio/misprints.tsv`, 7 items in `for-main.tsv`, and 1 entry in `joins.tsv`; `040` index pending).
   - `ja/en-paradiso/` (`001`–`038`, Temple Classics *Paradiso*): title page, Cantos I–XXXIII, and end matter translated, reviewed, checked, and committed (with 6 misprints in `ja/en-paradiso/misprints.tsv` and 9 items in `for-main.tsv`; `039` index pending).
+  - Proper-name audit & tables: generated `texts/en-{purgatorio,paradiso}/PROPER_NAMES.tsv` and `ja/en-{purgatorio,paradiso}/PROPER_NAMES.tsv` (363 / 379 poem-body entries), unified transliterations across all sections of all four English volumes, and updated `ja/PROPER_NAMES.{md,tsv}` (`de2c9aea`).
 - **Next**:
-  - Cross-volume proper-name transliteration audit across the English volumes (`en`, `en-oelsner`, `en-purgatorio`, `en-paradiso`).
+  - Translate the plate/map/table index files (`en-oelsner/041`, `en-purgatorio/040`, `en-paradiso/039`).
 
 ## What is settled
 
 ### Scope and output
 
-- **On this branch only `translations/` is touched.** Everything of this work is there:
+- **On this branch only `translations/` is touched** (with the explicit exception of the newly added `texts/en-{purgatorio,paradiso}/PROPER_NAMES.tsv` index tables). Everything of this work is there:
   the translations, the scripts (`translations/scripts/`), the records. Nothing outside it
   is changed on the branch, neither `ocr/` and `texts/` nor the files of the root (the
   README). What the work finds for them (a misprint, a line for the README) is recorded
@@ -191,12 +192,9 @@ Found by this work, to be done on `main` (not on this branch):
 
 ## Remaining steps
 
-1. Compile a table of proper-name occurrences and their Japanese transliterations across the
-   English volumes (including `en-purgatorio` and `en-paradiso`, which are not covered by
-   the *Inferno*-only `ja/PROPER_NAMES.tsv`) to check and align transliteration consistency.
-2. Translate the plate/map/table index files (`en-oelsner/041`, `en-purgatorio/040`,
+1. Translate the plate/map/table index files (`en-oelsner/041`, `en-purgatorio/040`,
    `en-paradiso/039`).
-3. `la` and `grc`.
-4. A README of `translations/`, and the conversion into HTML.
+2. `la` and `grc`.
+3. A README of `translations/`, and the conversion into HTML.
 
 Commits when the user asks.
