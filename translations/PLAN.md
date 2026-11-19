@@ -12,8 +12,9 @@ from the section files of [`texts/`](../texts/), into `translations/ja/{dir}/`, 
   - `ja/en/` (`001`–`041`, Carlyle's *Inferno*): all 41 files translated, checked, and committed; `for-main.tsv` items resolved.
   - `ja/en-oelsner/` (`001`–`040`, Temple Classics *Inferno*): title page, Cantos I–XXXIV, and end matter translated, reviewed, checked, and committed (with 5 misprints in `ja/en-oelsner/misprints.tsv` and 3 text items in `for-main.tsv`; `041` index pending).
   - `ja/en-purgatorio/` (`001`–`039`, Temple Classics *Purgatorio*): title page, Cantos I–XXXIII, and end matter translated, reviewed, checked, and committed (with 10 misprints/author errors in `ja/en-purgatorio/misprints.tsv`, 7 items in `for-main.tsv`, and 1 entry in `joins.tsv`; `040` index pending).
-- **In progress**:
-  - `ja/en-paradiso/` (`001`–`039`, Temple Classics *Paradiso*): `001-title-page.md` translated (uncommitted); `002`–`038` prepared and translated by GPT-6 Luna (Codex) in `tmp/translate/en-paradiso/{in,out}/`, awaiting batch review and landing; `039` index pending.
+  - `ja/en-paradiso/` (`001`–`038`, Temple Classics *Paradiso*): title page, Cantos I–XXXIII, and end matter translated, reviewed, checked, and committed (with 6 misprints in `ja/en-paradiso/misprints.tsv` and 9 items in `for-main.tsv`; `039` index pending).
+- **Next**:
+  - Cross-volume proper-name transliteration audit across the English volumes (`en`, `en-oelsner`, `en-purgatorio`, `en-paradiso`).
 
 ## What is settled
 
@@ -190,15 +191,12 @@ Found by this work, to be done on `main` (not on this branch):
 
 ## Remaining steps
 
-1. `en-paradiso`: review and land `002`–`038` from `tmp/translate/en-paradiso/out/`
-   into `translations/ja/en-paradiso/` (with `001-title-page.md`).
-2. After `en-paradiso` is finalized, compile a table of proper-name occurrences and their
-   Japanese transliterations across the English volumes (including `en-purgatorio` and
-   `en-paradiso`, which are not covered by the *Inferno*-only `ja/PROPER_NAMES.tsv`) to
-   check and align transliteration consistency.
-3. Translate the plate/map/table index files (`en-oelsner/041`, `en-purgatorio/040`,
+1. Compile a table of proper-name occurrences and their Japanese transliterations across the
+   English volumes (including `en-purgatorio` and `en-paradiso`, which are not covered by
+   the *Inferno*-only `ja/PROPER_NAMES.tsv`) to check and align transliteration consistency.
+2. Translate the plate/map/table index files (`en-oelsner/041`, `en-purgatorio/040`,
    `en-paradiso/039`).
-4. `la` and `grc`.
-5. A README of `translations/`, and the conversion into HTML.
+3. `la` and `grc`.
+4. A README of `translations/`, and the conversion into HTML.
 
 Commits when the user asks.

@@ -44,3 +44,14 @@ The record of completed work ([PLAN.md](PLAN.md)).
   - Restored and aligned all marginal labels (`<!-- label: ... -->`) on English paragraphs, removed editorial square brackets (`[...]` / `［...］`), and preserved trailing `\` line breaks in maps, diagrams, and genealogical tables.
   - Recorded 10 verified misprints/author errors in [`ja/en-purgatorio/misprints.tsv`](ja/en-purgatorio/misprints.tsv) (checked against `ocr/en-purgatorio/*.png`), added 7 editable-text items (6 misprints + 1 OCR signature/page-number leak in `036-the-chronology-of-the-purgatorio.md`) to [`for-main.tsv`](for-main.tsv), and added `en-purgatorio/006-canto-05.md` (`58 (070)`, `no`) to [`joins.tsv`](joins.tsv).
   - Verified all 39 files with `pages.py finish` and `pages.py check` (`same structure` on all prose-only files; expected `+V` [and `-P/+V` on `008` p. 86] only on files containing `\`-broken map/diagram/table blocks).
+
+## `ja/en-paradiso/` — Temple Classics *Paradiso* (`001`–`038`, 2026-11-19)
+
+- **`001-title-page.md`**: translated directly.
+- **Cantos I–XXXIII and end matter** (`002`–`038`): prepared with `pages.py prepare` in `tmp/translate/en-paradiso/in/` and delegated to GPT-6 Luna (Codex) via cold-start task files `task-002.md`–`task-038.md` (speech in plain form [常体] for all speakers).
+- **Batch review and landing** (`002`–`010`, `011`–`020`, `021`–`030`, `031`–`038`):
+  - Checked all `{stem}.md`, `{stem}.tsv`, and `{stem}.txt` outputs block-by-block against `texts/en-paradiso/`.
+  - Normalized canto headings (`# 第一歌`–`# 第三十三歌`), pronouns (`あなた` / `あなたがた` / `あなたたち`), plain form in dialogue and prayers, quotation marks across multi-paragraph speeches, nested quotes (`『...』`), initial signatures (`I. G.`, `P. H. W.`, `H. O.`), and `## 注` reference citations (removing `『...』` around Latin/abbreviated titles and fixing Italian/Latin leakage into English translations).
+  - Restored, aligned, and unified all marginal labels (`<!-- label: ... -->`), including consistent sphere labels (`移ろいやすい者`, `名誉を求める者`, `愛欲の霊`, `思慮深い者`, `勇敢な者たち`, `正義の者たち`, `観想する者`, `救われた者たち`, `天使たち`, `勝利の教会`), and preserved trailing `\` line breaks in maps, diagrams, genealogical tables, and classification tables.
+  - Recorded 6 verified misprints in [`ja/en-paradiso/misprints.tsv`](ja/en-paradiso/misprints.tsv) (checked against `ocr/en-paradiso/*.png`), and added 9 items (5 editable-text misprints, 1 unclosed quotation mark in `032`, and 3 OCR transcription errors in `009`, `017`, `020`) to [`for-main.tsv`](for-main.tsv).
+  - Verified all 38 files with `pages.py finish` and `pages.py check` (`same structure` on all prose-only files; expected `+V` only on files containing `\`-broken map/diagram/table blocks).

@@ -9,3 +9,12 @@ en-purgatorio/028-canto-27.md	343 (355)	poem	wherefore I do crown and mitre thee
 en-purgatorio/030-canto-29.md	377 (389)	map	Vincenza	printed as `Vincensa` in `ocr/en-purgatorio/389.png` (map misprint for `Vicenza`)
 en-purgatorio/032-canto-31.md	393 (405)	poem	thee are not yet destroyed by the water.	no closing quotation mark at the end of Beatrice's speech (opened at `“What thinkest thou?...`), also missing in `ocr/en-purgatorio/405.png`
 en-purgatorio/036-the-chronology-of-the-purgatorio.md	435 (447)	text	chronological 2 E* 435 note	bottom-of-page signature mark `2 E*` and page number `435` from `ocr/en-purgatorio/447.png` leaked into the body text; remove `2 E* 435 `
+en-paradiso/007-canto-06.md	73 (083)	notes	Dyracchium	misprint in note 31-96 for `Dyrrachium` (printed as `Dyracchium` in `ocr/en-paradiso/083.png`)
+en-paradiso/009-canto-08.md	101 (111)	map	BOUGIAN	printed as `BOUGIAH` on the map in `ocr/en-paradiso/111.png` (cf. `Bougiah` in Canto IX v. 92); transcribed as `BOUGIAN`
+en-paradiso/013-canto-12.md	154 (164)	notes	Ubertino of Cassale	misprint in note 124-126 for `Casale` (printed as `Cassale` in `ocr/en-paradiso/164.png`)
+en-paradiso/013-canto-12.md	154 (164)	notes	Matteo d’Aquaspata	misprint in note 124-126 for `d’Acquasparta` (printed as `d’Aquaspata` in `ocr/en-paradiso/164.png`)
+en-paradiso/017-canto-16.md	207 (217)	map	BARDINGHI	printed as `ARDINGHI` with a house-marker square on the left in `ocr/en-paradiso/217.png` (cf. `Ardinghi` in Canto XVI v. 93); transcribed as `BARDINGHI`
+en-paradiso/020-canto-19.md	239 (249)	notes	1x. i	printed as `ix. i` in `ocr/en-paradiso/249.png` (note 142); OCR misread `i` as `1`
+en-paradiso/032-canto-31.md	383 (393)	poem	subject and devoted.	no closing quotation mark at the end of Bernard's speech (opened at p. 381 (391) `“Son of grace!`), also missing in `ocr/en-paradiso/393.png` (present as `devoto.”` in the Italian verse on p. 382 (392))
+en-paradiso/032-canto-31.md	383 (393)	notes	her son (Orcas)	misprint in note 31-33 for `Arcas` (printed as `Orcas` in `ocr/en-paradiso/393.png`)
+en-paradiso/033-canto-32.md	387 (397)	poem	annointed	misprint in v. 4 for `anointed` (printed as `annointed` in `ocr/en-paradiso/397.png`)
