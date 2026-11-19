@@ -1,0 +1,11 @@
+file	page	text	reason
+006-canto-05.md	57 (069)	Purg. xxviii. 121-12	truncated reference at the end of note 85-129 (missing final digit and full stop; printed as "121-12" in ocr/en-purgatorio/069.png); translated as Purg. xxviii. 121-123
+008-canto-07.md	82 (094)	1218-1272-1292	author error for Rudolf I's election and death dates (historically 1218-1273-1291); printed clearly in ocr/en-purgatorio/094.png; translated as printed
+013-canto-12.md	143 (155)	O Ilion, thee how base and vile [discerned! It showed—the sculpture which there is	typesetting turn-over bracket "[discerned!" from the end of the next line ("...which there is discerned!") kept in place from ocr/en-purgatorio/155.png; translated in the intended reading order
+017-canto-16.md	190 (202)	insistance	printed as "insist- / ance" in ocr/en-purgatorio/202.png (period variant or misprint for "insistence"); translated according to the intended sense
+023-canto-22.md	281 (293)	revealed to you.	no closing quotation mark at the end of the voice's speech (opened at p. 279 (291) "Mary thought more...") in ocr/en-purgatorio/293.png; closed in translation
+028-canto-27.md	343 (355)	wherefore I do crown and mitre thee over thyself.	no closing quotation mark at the end of Virgil's speech (opened at "Son, the temporal fire...") in ocr/en-purgatorio/355.png; closed in translation
+030-canto-29.md	377 (389)	M. Charentana	map label printed as "M. Charentana" in ocr/en-purgatorio/389.png (misprint for M. Chiarentana); translated as モンテ・キアレンターナ
+030-canto-29.md	377 (389)	Vincenza	map label printed as "Vincensa" in ocr/en-purgatorio/389.png and transcribed as "Vincenza" (misprint for Vicenza); translated as ヴィチェンツァ
+030-canto-29.md	377 (389)	Cast. Marrado	map label printed as "Cast. Marrado" in ocr/en-purgatorio/389.png (misprint on map, likely for Cast. Marradi or Cast. Marcabò); translated as マッラーディ城
+032-canto-31.md	393 (405)	thee are not yet destroyed by the water.	no closing quotation mark at the end of Beatrice's speech (opened at "What thinkest thou?...") in ocr/en-purgatorio/405.png; closed in translation
