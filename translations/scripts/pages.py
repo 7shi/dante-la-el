@@ -12,7 +12,7 @@ prose begins in lower case or the last prose of the page before (before its vers
 and footnotes, if any) does not end in punctuation. A page ending in a weak stop (; : , —)
 followed by prose in upper case is reported as doubtful, not joined, until it is decided in
 the image and written in translations/joins.tsv (`file`, `page`, `join` yes or no, `note`;
-`page` as in the marker, `40 (094)`). A paragraph may run over several pages; all their
+`file` as `{dir}/{file}`, `page` as in the marker, `40 (094)`). A paragraph may run over several pages; all their
 markers follow it.
 
 The verse (lines ending in a backslash) is handed over as it is, for reference; it is not
@@ -52,11 +52,12 @@ DECISIONS = Path(__file__).resolve().parent.parent / "joins.tsv"
 def decided(src):
     """The doubtful places of src decided in joins.tsv: {marker: True to join, False not}."""
     out = {}
+    key = f"{src.resolve().parent.name}/{src.name}"
     if DECISIONS.exists():
         rows = DECISIONS.read_text(encoding="utf-8").splitlines()[1:]
         for row in rows:
             f, page, join, *_ = row.split("\t")
-            if f == src.name:
+            if f == key:
                 out[f"<!-- p. {page} -->"] = join == "yes"
     return out
 
