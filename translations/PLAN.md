@@ -192,9 +192,13 @@ Found by this work, to be done on `main` (not on this branch):
 
 1. `en-paradiso`: review and land `002`–`038` from `tmp/translate/en-paradiso/out/`
    into `translations/ja/en-paradiso/` (with `001-title-page.md`).
-2. Translate the plate/map/table index files (`en-oelsner/041`, `en-purgatorio/040`,
+2. After `en-paradiso` is finalized, compile a table of proper-name occurrences and their
+   Japanese transliterations across the English volumes (including `en-purgatorio` and
+   `en-paradiso`, which are not covered by the *Inferno*-only `ja/PROPER_NAMES.tsv`) to
+   check and align transliteration consistency.
+3. Translate the plate/map/table index files (`en-oelsner/041`, `en-purgatorio/040`,
    `en-paradiso/039`).
-3. `la` and `grc`.
-4. A README of `translations/`, and the conversion into HTML.
+4. `la` and `grc`.
+5. A README of `translations/`, and the conversion into HTML.
 
 Commits when the user asks.
