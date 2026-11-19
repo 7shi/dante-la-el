@@ -2,7 +2,7 @@ CANTO XXXI 383
 
 **Church triumphant** but look upon the circles, even to the remotest,
 until thou seest enthroned the Queen to whom
-this realm is subject and devoted.
+this realm is subject and {{devoted.|devoted.”}}
 
 I lifted up mine eyes, and as at morn the oriental
 regions of the horizon overcome that where
@@ -39,7 +39,7 @@ turned his eyes to her, with so much love that
 he made mine more ardent to re-gaze.
 
 jealousy, and then transferred by Jupiter to the heavens,
-as the constellation of the Great Bear; her son (Orcas)
+as the constellation of the Great Bear; her son ({{Orcas|Arcas}})
 being changed into Boötes.
 
 33. The brightest star in Bootes is Arctūrus, to

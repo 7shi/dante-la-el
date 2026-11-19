@@ -9,9 +9,9 @@ documented in [`GUIDE.md`](GUIDE.md); completed work is recorded in [`DONE.md`](
 
 - **Done** ([`DONE.md`](DONE.md)):
   - `ja/en/` (`001`–`041`, Carlyle's *Inferno*): all 41 files translated, checked, and committed; `for-main.tsv` items resolved.
-  - `ja/en-oelsner/` (`001`–`041`, Temple Classics *Inferno*): all 41 files (title page, Cantos I–XXXIV, end matter, and index) translated, reviewed, checked, and committed (5 misprints in `ja/en-oelsner/misprints.tsv`, 3 text items in `for-main.tsv`).
-  - `ja/en-purgatorio/` (`001`–`040`, Temple Classics *Purgatorio*): all 40 files (title page, Cantos I–XXXIII, end matter, and index) translated, reviewed, checked, and committed (10 misprints/author errors in `ja/en-purgatorio/misprints.tsv`, 7 items in `for-main.tsv`, 2 entries in `joins.tsv`).
-  - `ja/en-paradiso/` (`001`–`039`, Temple Classics *Paradiso*): all 39 files (title page, Cantos I–XXXIII, end matter, and index) translated, reviewed, checked, and committed (6 misprints in `ja/en-paradiso/misprints.tsv`, 9 items in `for-main.tsv`, 1 entry in `joins.tsv`).
+  - `ja/en-oelsner/` (`001`–`041`, Temple Classics *Inferno*): all 41 files (title page, Cantos I–XXXIV, end matter, and index) translated, reviewed, checked, and committed (5 misprints in `ja/en-oelsner/misprints.tsv`; `for-main.tsv` items resolved on `main`).
+  - `ja/en-purgatorio/` (`001`–`040`, Temple Classics *Purgatorio*): all 40 files (title page, Cantos I–XXXIII, end matter, and index) translated, reviewed, checked, and committed (10 misprints/author errors in `ja/en-purgatorio/misprints.tsv`, 1 entry in `joins.tsv`; `for-main.tsv` items resolved on `main`).
+  - `ja/en-paradiso/` (`001`–`039`, Temple Classics *Paradiso*): all 39 files (title page, Cantos I–XXXIII, end matter, and index) translated, reviewed, checked, and committed (6 misprints in `ja/en-paradiso/misprints.tsv`, 1 entry in `joins.tsv`; `for-main.tsv` items resolved on `main`).
   - Proper-name audit & tables: generated `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` and `ja/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` (449 / 363 / 379 poem-body entries), unified transliterations across all sections of all four English volumes, and moved `ja/PROPER_NAMES.{md,tsv}` to `ja/en/PROPER_NAMES.{md,tsv}`.
 - **Next**:
   - Plan and execute the `grc` and `la` translations (see [`GUIDE.md`](GUIDE.md) Step 6).

@@ -674,3 +674,6 @@ page	line	form	decision	note
 411	19	**Fig. II. (over page).**	printed	cmp D (lines 19-20); the label as on line 1; nothing to do
 413	3	version:	misread	cmp A; was `version;`; the page joined into one line per paragraph; rewritten with the printed lines; the heading line kept as the base had it (the converter takes it as the title), the page number `401` not added
 414	4	PAGE	misread	cmp B, C; the column heading left out; the leader dots counted as printed (the base had more)
+087	26	{{souls.|souls."}}	misprint	translation review (for-main.tsv); no closing quote at the end of Virgil's speech
+110	16	{{caldi.|caldi.”}}	misprint	translation review (for-main.tsv); no closing quote at the end of Virgil's speech in v. 131
+251	6	{{Farfarella|Farfarello}}	misprint	translation review (for-main.tsv); misprint in the Argument for Farfarello

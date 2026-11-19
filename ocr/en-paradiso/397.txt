@@ -18,7 +18,7 @@ his eyes right upon the Primal Love (115-151).
 templating saint took the free office of the
 teacher on him, and began these sacred words:
 
-“The wound which Mary closed and annointed,
+“The wound which Mary closed and {{annointed|anointed}},
 she who is so beauteous at her feet opened
 and thrust.
 

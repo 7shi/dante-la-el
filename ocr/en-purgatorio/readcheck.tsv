@@ -226,3 +226,10 @@ page	line	form	decision	note
 452	40	(blank line)	misread	mechanical check; the signature `T. O.` stands on a line of its own
 453	26	(blank line)	misread	mechanical check; the signature `H. O.` stands on a line of its own
 454	4	(blank line)	misread	mechanical check; `PAGE` heads the column of page numbers, apart from `DIAGRAMS SHOWING—` (as in en-oelsner 414)
+069	45	{{121-12|121-123.}}	misprint	translation review (for-main.tsv); truncated reference at end of note 85-129
+155	21	(turn-over)	misread	translation review (for-main.tsv); typesetting turn-over `[discerned!` moved from end of line 21 to end of line 22
+293	14	{{you.|you.”}}	misprint	translation review (for-main.tsv); no closing quote at end of voice's speech
+355	42	{{thyself.|thyself.”}}	misprint	translation review (for-main.tsv); no closing quote at end of Virgil's speech
+389	27	{{Vincensa|Vicenza}}	misprint	translation review (for-main.tsv); printed as Vincensa on map (was Vincenza)
+405	39	{{water.|water.”}}	misprint	translation review (for-main.tsv); no closing quote at end of Beatrice's speech
+447	37	2 E* 435	misread	translation review (for-main.tsv); bottom signature mark and page number leaked into text, removed
