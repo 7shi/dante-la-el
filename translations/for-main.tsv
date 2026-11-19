@@ -1,1 +1,20 @@
 file	page	part	text	change
+grc/038-notes.md	269 (290)	note	ἐπιῤῥοῆς ὁ δὲ λύκος	mark misprint {{ἐπιῤῥοῆς|ἐπιῤῥοῆς·}} in ocr/grc/290.txt (missing middle dot)
+grc/038-notes.md	270 (290)	note	ἐρημώσεως.	mark misprint {{ἐρημώσεως.|ἐρημώσεως.»}} in ocr/grc/290.txt (missing closing guillemet)
+grc/038-notes.md	275 (295)	note	Ὀρέσιος	mark misprint {{Ὀρέσιος|Ὀρόσιος}} in ocr/grc/295.txt (Orosius)
+grc/038-notes.md	283 (303)	note	στίχ·	mark misprint {{στίχ·|στίχ.}} in ocr/grc/303.txt (middle dot for period)
+grc/038-notes.md	284 (304)	note	{{νεκρὼν|νεκρῶν}}	revert erroneous misprint mark in ocr/grc/304.txt and ocr/grc/misprints.tsv: printed νεκρὼν is correct (masc. nom. sg. νεκρών 'burial ground' with grave accent before Ἠλύσιον, not gen. pl. νεκρῶν)
+grc/038-notes.md	284 (304)	note	ἐκεῖ (Ἰωήλ, Γ΄, 2).	mark misprint {{ἐκεῖ|ἐκεῖ”}} in ocr/grc/304.txt (missing closing quote)
+grc/038-notes.md	287 (307)	note	10·	mark misprint {{10·|10.}} in ocr/grc/307.txt (middle dot for period)
+grc/038-notes.md	291 (311)	note	(Fisole)	mark misprint {{Fisole|Fiesole}} in ocr/grc/311.txt
+grc/038-notes.md	292 (312)	note	ὁμὲν	mark misprint {{ὁμὲν|ὁ μὲν}} in ocr/grc/312.txt (missing space)
+grc/038-notes.md	292 (312)	note	Λυβικῆς	mark misprint {{Λυβικῆς|Λιβυκῆς}} in ocr/grc/312.txt
+grc/038-notes.md	295 (315)	note	Γιγδογέῤῥας	mark misprint {{Γιγδο-|Γουϊδο-}} in ocr/grc/315.txt (Guidoguerra)
+grc/038-notes.md	304 (324)	note	William Livy	mark misprint {{Livy|Lilly}} in ocr/grc/324.txt (William Lilly)
+grc/038-notes.md	306 (326)	note	κλωπειῶν	mark misprint {{κλωπειῶν|κλοπειῶν}} in ocr/grc/326.txt
+grc/038-notes.md	309 (329)	note	Ciamfa	mark misprint {{Ciamfa|Cianfa}} in ocr/grc/329.txt
+grc/038-notes.md	314 (334)	note	(Colona)	mark misprint {{Colona|Colonna}} in ocr/grc/334.txt
+grc/038-notes.md	315 (335)	note	ἐξόριστος, Τοῦτο	mark misprint {{ἐξόριστος,|ἐξόριστος.}} in ocr/grc/335.txt (comma for period)
+grc/038-notes.md	317 (337)	note	μεταῤῥυθμητὴς	mark misprint {{ῥυθμητὴς|ῥυθμιστὴς}} in ocr/grc/337.txt
+grc/038-notes.md	322 (343)	note	κρύφθητι	mark misprint {{κρύφθητι|κρύφθητι.}} in ocr/grc/343.txt (missing period)
+grc/038-notes.md	329 (349)	note	Ὅρα σημ 68	mark misprint {{σημ|σημ.}} in ocr/grc/349.txt (missing period)
