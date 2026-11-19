@@ -1,6 +1,10 @@
 # Proper Names (`translations/ja/`)
 
-Shared Japanese proper-name conventions for `translations/ja/`, based on the review of `translations/ja/en/002`–`040` and [en/041-index-of-proper-names.md](en/041-index-of-proper-names.md). [PROPER_NAMES.tsv](PROPER_NAMES.tsv) (aligned 1-to-1 with [texts/en/PROPER_NAMES.tsv](../../texts/en/PROPER_NAMES.tsv)) is generated from `en/041-index-of-proper-names.md`.
+Shared Japanese proper-name conventions for `translations/ja/`, based on the review of `translations/ja/en/002`–`040`, [en/041-index-of-proper-names.md](en/041-index-of-proper-names.md), `translations/ja/en-purgatorio/`, and `translations/ja/en-paradiso/`.
+
+- Inferno: [PROPER_NAMES.tsv](PROPER_NAMES.tsv) (aligned 1-to-1 with [texts/en/PROPER_NAMES.tsv](../../texts/en/PROPER_NAMES.tsv), generated from `en/041-index-of-proper-names.md`).
+- Purgatorio: [en-purgatorio/PROPER_NAMES.tsv](en-purgatorio/PROPER_NAMES.tsv) (aligned 1-to-1 with [texts/en-purgatorio/PROPER_NAMES.tsv](../../texts/en-purgatorio/PROPER_NAMES.tsv), poem body occurrences only).
+- Paradiso: [en-paradiso/PROPER_NAMES.tsv](en-paradiso/PROPER_NAMES.tsv) (aligned 1-to-1 with [texts/en-paradiso/PROPER_NAMES.tsv](../../texts/en-paradiso/PROPER_NAMES.tsv), poem body occurrences only).
 
 ## Settled Decisions
 
@@ -17,6 +21,21 @@ Shared Japanese proper-name conventions for `translations/ja/`, based on the rev
 - `Focaccia` → **フォカッチャ** (single `c` in Italian; applied in `038`).
 - `Geri del Bello` → **ジェーリ・デル・ベッロ** / **ジェーリ** (Italian `/dʒ/`; applied in `035`).
 - `Vellutello` → **ヴェッルテッロ** (Italian geminate `ll`; applied in `015`).
+- `Benedict XI` → **ベネディクトゥス十一世** (Latin papal form; applied in `en-paradiso/018`).
+- `Luni` → **ルーニ** (applied across Inferno, Purgatorio, Paradiso).
+- `Tiber` / `Tevere` → **テヴェレ川** (modern Italian river name; applied across Inferno, Purgatorio, Paradiso).
+- `Pachynus` / `Pelorus` → **パッセロ岬** / **ペロロ岬** (modern Sicilian cape names; applied across Purgatorio, Paradiso).
+- `Sordello` → **ソルデッロ** (Italian geminate `ll`; applied across Purgatorio, Paradiso).
+- `Scala` → **スカーラ** (applied across Inferno, Purgatorio, Paradiso).
+- `Urbisaglia` → **ウルビザーリア**, `Sinigaglia` → **シニガーリャ**, `Pratomagno` → **プラトマーニョ**, `Eliseo` → **エリゼーオ**, `Alagia` → **アラージャ**, `Guittone` → **グイットーネ**, `Corrado` (Italian) → **コッラード**, `Ugolino` → **ウゴリーノ**, `Macra` / `Magra` → **マグラ川**, `Elsa` → **エルザ川**, `Apulia` → **アプリア**, `Valdi...` compounds without middle dot (**ヴァルダルノ** / **ヴァルディキアーナ** / **ヴァルディシエーヴェ** / **ヴァルディマグラ** / **ヴァルディグレーヴェ**) (applied across Inferno, Purgatorio, Paradiso).
+
+### Origin-country rule for distinct medieval persons
+
+When the same given name belongs to distinct medieval figures, use the form matching each person's country/language of origin:
+
+- `Bernard` → **ベルナール** for St. Bernard of Clairvaux (French; applied across Purgatorio, Paradiso); **ベルナルド** for Bernardo of Assisi (Italian; `en-paradiso/012`).
+- `Charles` → **シャルル** / **シャルル・マルテル** for the House of Anjou (French royal branch; applied across Purgatorio, Paradiso).
+- `Henry` (of Navarre) → **アンリ**, `Joanna` (of Navarre / Queen of France) → **ジャンヌ**, `Raymond Berengar` (Count of Provence) → **レーモン・ベランジェ** (French; applied across Purgatorio, Paradiso).
 
 ### Long vowel mark (`ー`) rule
 
@@ -32,7 +51,11 @@ As a general rule, Latin/Greek-based forms omit `ー` unless conventional Japane
 - `Priscian` → **プリスキアヌス** (applied in `021`).
 - `Imola` → **イーモラ** (applied in `021`, `033`, `034`).
 - `Jacopo` → **ヤーコポ** (applied in `004`, `012`, `022`, `038`, `039`).
-- Conventional `ー` kept (verified against Japanese Wikipedia): `Brutus` (ブルートゥス), `Cato` (カトー), `Medusa` (メドゥーサ), `Moses` (モーセ), `Thebes` (テーバイ), `Alecto` (アレクトー), `Arethusa` (アレトゥーサ), `Chiron` (ケイローン), `Erichtho` (エリクトー), `Lethe` (レーテー), `Phaeton` (パエトーン), `Plutus` (プルートー), `Semele` (セメレー).
+- `Lethe` → **レテ**, `Eunoe` → **エウノエ** (applied across Inferno, Purgatorio, Paradiso).
+- `Juno` → **ユノ**, `Diana` → **ディアナ**, `Venus` → **ウェヌス**, `Apollo` → **アポロン**, `Muses` → **ムーサ** (applied across Inferno, Purgatorio, Paradiso).
+- `Troas` → **トロアス**, `Hippocrene` → **ヒッポクレネ**, `Lycurgus` → **リュクルゴス**, `Cincinnatus` → **キンキナトゥス**, `Isidore` → **イシドールス**, `Dionysius` (the Areopagite) → **ディオニュシウス**, `Peter Lombard` → **ペトルス・ロンバルドゥス**, `Æneid` → **アエネイス**, `Aurora` → **アウロラ**, `Antenor` → **アンテノル**, `Catiline` → **カティリナ**, `Deianeira` → **デイアネイラ**, `Diomedes` → **ディオメデス**, `Pelion` → **ペリオン** (applied across Inferno, Purgatorio, Paradiso).
+- `Eve` → **エヴァ**, `Tigris` → **ティグリス**, `drachma` → **ドラクマ** (applied across Purgatorio, Paradiso).
+- Conventional `ー` kept (verified against Japanese Wikipedia): `Brutus` (ブルートゥス), `Cato` (カトー), `Medusa` (メドゥーサ), `Moses` (モーセ), `Thebes` (テーバイ), `Alecto` (アレクトー), `Arethusa` (アレトゥーサ), `Chiron` (ケイローン), `Erichtho` (エリクトー), `Phaeton` (パエトーン), `Plutus` (プルートー), `Semele` (セメレー).
 
 ### Greek/Latin vs. distinct persons/terms (already consistent)
 

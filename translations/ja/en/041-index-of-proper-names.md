@@ -175,7 +175,7 @@ Chaos, カオス, xii. 43.\
 Charlemain, シャルルマーニュ, xxxi. 17.\
 Charon, カロン, iii. 94, 109, 128.\
 Charybdis, カリュブディス, vii. 22.\
-Chiana, Val. di, ヴァル・ディ・キアーナ, xxix. 47.\
+Chiana, Val. di, ヴァルディキアーナ, xxix. 47.\
 Chiarentana, キアレンターナ, xv. 9.\
 Chiron, ケイローン, xii. 65 &c.\
 Christians, キリスト教徒, xxvii. 88.\
@@ -203,7 +203,7 @@ Damietta, ダミエッタ, xiv. 104.\
 Danube, ドナウ川, xxxii. 27.\
 David, ダビデ, iv. 58; xxviii. 138.\
 Deidamia, デイダメイア, xxvi. 62.\
-Dejanira, デイアニラ, xii. 68.\
+Dejanira, デイアネイラ, xii. 68.\
 Democritus, デモクリトス, iv. 136.\
 Dido, ディド, v. 61, 85.\
 Diogenes, ディオゲネス, iv. 137.\
@@ -331,7 +331,7 @@ Italy, イタリア, i. 106; ix. 114; xx. 61.\
 Judas Iscariot, ユダ・イスカリオテ, ix. 27; xix. 96; xxxi. 143; xxxiv. 62.\
 Judecca, ジュデッカ, xxxiv. 117.\
 Julia, ユリア, iv. 128.\
-Juno, ユーノー, xxx. 1.\
+Juno, ユノ, xxx. 1.\
 Lamberti de’, Mosca, モスカ・デ・ランベルティ, xxviii. 106.\
 Lamone, river, ラモーネ川, xxvii. 49.\
 Lancelot, ランスロット, v. 128.\
@@ -345,7 +345,7 @@ Latium, ラティウム, xxvii. 27; xxviii. 71.\
 Lavinia, ラウィニア, iv. 126.\
 Learchus, レアルコス, xxx. 5, 10.\
 Lemnos, isle, レムノス, xviii. 88.\
-Lethe, レーテー, xiv. 131, 136.\
+Lethe, レテ, xiv. 131, 136.\
 Libicocco, リビコッコ, xxi. 121; xxii. 70.\
 Libya, リビア, xxiv. 85.\
 Limbo, リンボ, iv. 45, &c.\
@@ -360,10 +360,10 @@ Lucca, ルッカ, xviii. 122; xxi. 38; xxxiii. 30.\
 Lucia, ルチア, ii. 97, 100.\
 Lucifer, ルシファー, xxxi. 143; xxxiv. 89.\
 Lucretia, ルクレティア, iv. 128.\
-Luni Mountains, ルニの山々, xx. 47.\
+Luni Mountains, ルーニの山々, xx. 47.\
 Maccabees, マカバイ, xix. 86.\
 Machinardo Pagani, マキナルド・パガーニ, xxvii. 50.\
-Magra, Val di, ヴァル・ディ・マグラ, xxiv. 145.\
+Magra, Val di, ヴァルディマグラ, xxiv. 145.\
 Mahomet, マホメット, xxviii. 31, &c.\
 Majorca, マヨルカ, xxviii. 82.\
 Malacoda, マラコーダ, xxi. 76, &c.\
@@ -544,7 +544,7 @@ Thebans, テーバイ人, xx. 32; xxx. 2.\
 Thebes, テーバイ, xiv. 69; xx. 59; xxv. 15; xxx. 22; xxxii. 11; xxxiii. 89.\
 Theseus, テセウス, ix. 54.\
 Thibault, King, ティボー王, xxii. 52.\
-Tiber, ティベリス川, xxvii. 30.\
+Tiber, テヴェレ川, xxvii. 30.\
 Tiresias, ティレシアス, xx. 40.\
 Tisiphone, テシポネ, ix. 48.\
 Tityos, ティテュオス, xxxi. 124.\
