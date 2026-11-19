@@ -69,3 +69,14 @@ The record of completed work ([PLAN.md](PLAN.md)).
   - Audited all sections (poem body, marginal labels, Arguments, Notes, maps, genealogical tables, and appendices) across `ja/en/`, `ja/en-oelsner/`, `ja/en-purgatorio/`, and `ja/en-paradiso/`.
   - Applied agreed unifications across 74 translation files and [`ja/en/PROPER_NAMES.tsv`](ja/en/PROPER_NAMES.tsv) (e.g., `ルーニ`, `ユノ`, `テヴェレ川`, `レテ`, `エウノエ`, `パッセロ岬`, `ペロロ岬`, `ソルデッロ`, `スカーラ`, `ウルビザーリア`, `シニガーリャ`, `プラトマーニョ`, `エリゼーオ`, `ウゴリーノ`, `マグラ川`, `アプリア`, `Valdi...` without middle dots; origin-country rule for `ベルナール`/`ベルナルド`, `シャルル・マルテル`, `アンリ`, `ジャンヌ`, `レーモン・ベランジェ`; Latin/Greek forms `ウェヌス`, `アエネイス`, `カティリナ`, `デイアネイラ`, `キンキナトゥス`, `イシドールス`, `ディオニュシウス`, `ペトルス・ロンバルドゥス`, `ベネディクトゥス十一世`).
   - Updated [`ja/en/PROPER_NAMES.md`](ja/en/PROPER_NAMES.md) with all settled conventions (committed as `de2c9aea`, then moved `ja/PROPER_NAMES.{md,tsv}` into `ja/en/` to mirror the per-volume layout).
+
+## `{en,ja}/grc/` — Musurus's Greek *Inferno* (`001`–`038`, 2026-11-20)
+
+- **Arabic numerals unification** (`9acc78ae`): unified all four English volumes (`ja/en*`) to Arabic numerals, keeping kanji numerals only in fixed compounds and idioms.
+- **`pages.py --keep-verse`** (`758566c7`): extended `translations/scripts/pages.py` to verify verse-block structure 1:1 alongside prose blocks.
+- **Front/back matter (`001`–`003`, `038`) and Cantos I–XXXIV (`004`–`037`)**:
+  - Completed all 38 files in two stages: Stage 1 English reference translations (`translations/en/grc/001`–`038`) → Stage 2 direct Japanese translations from Greek (`translations/ja/grc/001`–`038`, cross-checked against EN).
+  - Preserved exact 1:1 line structure, `<!-- p. ... -->` page comments, trailing `\`, and 5-line numbers (`pages.py check --keep-verse` → `same structure` on `002-prologos.md` and all 34 cantos `004`–`037`; added 4 `no` entries to [`joins.tsv`](joins.tsv) for `grc/003-table-of-contents.md`).
+  - Conformed proper names to `texts/en-oelsner/PROPER_NAMES.tsv` (EN) and `translations/ja/en-oelsner/PROPER_NAMES.tsv` (JA), while faithfully translating Musurus's Greek where it diverges from Dante's Italian.
+  - Verified plain style (`常体`), Arabic numerals, balanced `「`/`」` quotes, and zero em-dashes across all 38 Japanese files.
+  - Recorded 51 confirmed print/author misprints in [`ja/grc/misprints.tsv`](ja/grc/misprints.tsv) and 39 source/OCR/misprint items in [`for-main.tsv`](for-main.tsv) (including 3 genuine OCR/conversion fixes: `012-canto-09.md` p. 67 `Ἀλλ᾿ ἢ` → `Ἀλλ᾿ ἣ`, `021-canto-18.md` p. 138 dropped quotes, and `032-canto-29.md` p. 221 `Οὐμὸς` → `Οὑμὸς`).

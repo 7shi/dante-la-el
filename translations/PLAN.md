@@ -10,11 +10,11 @@ completed work is recorded in [`DONE.md`](DONE.md).
 
 - **Done** ([`DONE.md`](DONE.md)): all four English volumes (`ja/en/` `001`–`041`,
   `ja/en-oelsner/` `001`–`041`, `ja/en-purgatorio/` `001`–`040`, `ja/en-paradiso/`
-  `001`–`039`), cross-volume proper-name audit and `PROPER_NAMES.tsv` tables,
-  [`GUIDE.md`](GUIDE.md), and all `for-main.tsv` fixes merged and applied on `main`
-  (`71c2b827`).
-- **Next**: `grc` (Greek edition, 39 files), then `la` (Latin edition, 111 files),
-  following the two-stage workflow in [`GUIDE.md`](GUIDE.md) Step 6.
+  `001`–`039`), Musurus's Greek *Inferno* (`{en,ja}/grc/` `001`–`038`, 38 files),
+  cross-volume proper-name audit and `PROPER_NAMES.tsv` tables, [`GUIDE.md`](GUIDE.md),
+  and all `en*` `for-main.tsv` fixes merged and applied on `main` (`71c2b827`).
+- **Next**: `la` (Serravalle Latin edition, 111 files), following the two-stage workflow
+  in [`GUIDE.md`](GUIDE.md) Step 6.
 
 ## Project-specific conventions
 
@@ -72,29 +72,28 @@ handling follow [`GUIDE.md`](GUIDE.md). Project-specific decisions:
 
 ## Not settled
 
-- **`grc` (39 files)** and **`la` (111 files, ~1,300 scans)**:
-  - Format for parallel-text translations of the Greek (`grc`) and Latin (`la`) verse
-    translations (line/tercet alignment, line numbers, trailing `\`, and how `pages.py`
-    handles translated verse blocks vs. skipped Italian verse).
-  - How italics, Greek/Latin lemmas, and cross-page commentary structure are handled with
+- **`la` (111 files, ~1,300 scans)**:
+  - Format for parallel-text translations of Serravalle's Latin tercet translations alongside
+    the skipped Italian tercets and Latin commentary (tercet/line alignment, line numbers,
+    trailing `\`, and how `pages.py` handles translated Latin verse blocks vs. skipped
+    Italian verse).
+  - How italics, Latin lemmas, and cross-page commentary structure are handled with
     `pages.py`.
-  - Two-stage workflow ([`GUIDE.md`](GUIDE.md) Step 6):
-    1. Translate `grc` / `la` into English first under `translations/en/{grc,la}/`,
-       conforming proper names to `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv`
-       and `translations/ja/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` (plus
+  - Two-stage workflow ([`GUIDE.md`](GUIDE.md) Step 6, already proven on `grc`):
+    1. Translate `la` into English first under `translations/en/la/`, conforming proper
+       names to `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` and
+       `translations/ja/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` (plus
        [`ja/en/PROPER_NAMES.md`](ja/en/PROPER_NAMES.md)).
-    2. Translate directly from `grc` / `la` into Japanese under `translations/ja/{grc,la}/`,
-       using `translations/en/{grc,la}/` as reference for verification and refinement
-       (not relay translation).
+    2. Translate directly from `la` into Japanese under `translations/ja/la/`, using
+       `translations/en/la/` as reference for verification and refinement (not relay
+       translation).
 
 ## Remaining steps
 
-1. `grc` (Greek prologue, arguments, verse-translation reading aids, and notes; 39 files):
-   `translations/en/grc/` → `translations/ja/grc/`.
-2. `la` (Latin front/back matter, verse-translation reading aids, and commentary; 111 files):
+1. `la` (Latin front/back matter, verse-translation reading aids, and commentary; 111 files):
    `translations/en/la/` → `translations/ja/la/`.
-3. `translations/README.md` (structure, excluded files, usage).
-4. HTML side-by-side conversion pairing `texts/` and `translations/{en,ja}/`.
-5. Resolve any new `for-main.tsv` items on `main` and merge.
+2. `translations/README.md` (structure, excluded files, usage).
+3. HTML side-by-side conversion pairing `texts/` and `translations/{en,ja}/`.
+4. Resolve all `for-main.tsv` items on `main` (`ocr/` → reconvert `texts/`) and merge.
 
 Commits when the user asks.
