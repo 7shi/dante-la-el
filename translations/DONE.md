@@ -8,7 +8,7 @@ The record of completed work ([PLAN.md](PLAN.md)).
   - `is_verse` treats a one-line verse block ending in its line number as verse (`LONE_VERSE`, p. 243 of Canto XX in `en`), and treats a block with `\` line breaks whose lines exceed 100 chars as prose (p. 368 of Canto XXX in `en`).
   - Explicit `joins.tsv` decisions (`yes`/`no`) override the auto-join heuristic, and `file` entries are matched as `{dir}/{file}`.
 - [`joins.tsv`](joins.tsv): decided (`yes`) for all five doubtful places in `en` (pp. 40, 45, 54, 153, 268), along with two pages where a speech runs on after a full stop with an unclosed quote (pp. 376, 402), and one `no` entry for `en-purgatorio/006-canto-05.md` (p. 58 (070), after a truncated misprint without a full stop).
-- [`ja/PROPER_NAMES.md`](ja/PROPER_NAMES.md), [`ja/PROPER_NAMES.tsv`](ja/PROPER_NAMES.tsv), [`ja/en-purgatorio/PROPER_NAMES.tsv`](ja/en-purgatorio/PROPER_NAMES.tsv), [`ja/en-paradiso/PROPER_NAMES.tsv`](ja/en-paradiso/PROPER_NAMES.tsv), and [`scripts/proper_names.py`](scripts/proper_names.py): shared proper-name tables (aligned 1-to-1 with `texts/{en,en-purgatorio,en-paradiso}/PROPER_NAMES.tsv`) and canto-filtering script for the English volumes.
+- [`ja/en/PROPER_NAMES.md`](ja/en/PROPER_NAMES.md), [`ja/en/PROPER_NAMES.tsv`](ja/en/PROPER_NAMES.tsv), [`ja/en-oelsner/PROPER_NAMES.tsv`](ja/en-oelsner/PROPER_NAMES.tsv), [`ja/en-purgatorio/PROPER_NAMES.tsv`](ja/en-purgatorio/PROPER_NAMES.tsv), [`ja/en-paradiso/PROPER_NAMES.tsv`](ja/en-paradiso/PROPER_NAMES.tsv), and [`scripts/proper_names.py`](scripts/proper_names.py): shared proper-name tables (aligned 1-to-1 with `texts/{en,en-oelsner,en-purgatorio,en-paradiso}/PROPER_NAMES.tsv`) and canto-filtering script for the English volumes.
 
 ## `ja/en/` — Carlyle's *Inferno* (`001`–`041`, 2026-11-18 – 2026-11-19)
 
@@ -39,7 +39,7 @@ The record of completed work ([PLAN.md](PLAN.md)).
 - **`001-title-page.md`**: translated directly.
 - **Cantos I–XXXIII and end matter** (`002`–`039`): prepared with `pages.py prepare` in `tmp/translate/en-purgatorio/in/` and delegated to GPT-6 Luna (Codex) via cold-start task files `task-002.md`–`task-039.md` (speech in plain form [常体] for all speakers).
 - **Batch review and landing** (`002`–`010`, `011`–`020`, `021`–`030`, `031`–`039`):
-  - Checked all `{stem}.md`, `{stem}.tsv`, and `{stem}.txt` outputs block-by-block against `texts/en-purgatorio/` and `translations/ja/PROPER_NAMES.{md,tsv}`.
+  - Checked all `{stem}.md`, `{stem}.tsv`, and `{stem}.txt` outputs block-by-block against `texts/en-purgatorio/` and `translations/ja/en/PROPER_NAMES.{md,tsv}`.
   - Normalized canto headings (`# 第一歌`–`# 第三十三歌`), pronouns and titles (`あなた` / `あなたがた`, `師` / `師よ` / `我が師よ`, `導き手`, `案内人`, `先導者`), plain form in dialogue and prayers, quotation marks across multi-paragraph speeches, nested quotes (`『...』`), initial signatures (`H. O.`, `P. H. W.`, `I. G.`, `T. O.`), and `## 注` reference citations (`*v.*`, `*vv.*`, `p.`, `pp.`, `cf.` → `と比較せよ`, `See X` → `X を参照`).
   - Restored and aligned all marginal labels (`<!-- label: ... -->`) on English paragraphs, removed editorial square brackets (`[...]` / `［...］`), and preserved trailing `\` line breaks in maps, diagrams, and genealogical tables.
   - Recorded 10 verified misprints/author errors in [`ja/en-purgatorio/misprints.tsv`](ja/en-purgatorio/misprints.tsv) (checked against `ocr/en-purgatorio/*.png`), added 7 editable-text items (6 misprints + 1 OCR signature/page-number leak in `036-the-chronology-of-the-purgatorio.md`) to [`for-main.tsv`](for-main.tsv), and added `en-purgatorio/006-canto-05.md` (`58 (070)`, `no`) to [`joins.tsv`](joins.tsv).
@@ -59,10 +59,11 @@ The record of completed work ([PLAN.md](PLAN.md)).
 ## Proper-Name Audit and Tables (English volumes, 2026-11-19)
 
 - **Poem-body proper-name tables**:
-  - Generated 1-to-1 aligned alphabetical tables for *Purgatorio* (363 entries) and *Paradiso* (379 entries), covering poem-body occurrences (`canto:line`) only:
+  - Generated 1-to-1 aligned alphabetical tables for Temple Classics *Inferno* (449 entries), *Purgatorio* (363 entries), and *Paradiso* (379 entries), covering poem-body occurrences (`canto:line`) only:
+    - [`texts/en-oelsner/PROPER_NAMES.tsv`](../texts/en-oelsner/PROPER_NAMES.tsv) ⇔ [`ja/en-oelsner/PROPER_NAMES.tsv`](ja/en-oelsner/PROPER_NAMES.tsv)
     - [`texts/en-purgatorio/PROPER_NAMES.tsv`](../texts/en-purgatorio/PROPER_NAMES.tsv) ⇔ [`ja/en-purgatorio/PROPER_NAMES.tsv`](ja/en-purgatorio/PROPER_NAMES.tsv)
     - [`texts/en-paradiso/PROPER_NAMES.tsv`](../texts/en-paradiso/PROPER_NAMES.tsv) ⇔ [`ja/en-paradiso/PROPER_NAMES.tsv`](ja/en-paradiso/PROPER_NAMES.tsv)
 - **Cross-volume transliteration unification**:
   - Audited all sections (poem body, marginal labels, Arguments, Notes, maps, genealogical tables, and appendices) across `ja/en/`, `ja/en-oelsner/`, `ja/en-purgatorio/`, and `ja/en-paradiso/`.
-  - Applied agreed unifications across 74 translation files and [`ja/PROPER_NAMES.tsv`](ja/PROPER_NAMES.tsv) (e.g., `ルーニ`, `ユノ`, `テヴェレ川`, `レテ`, `エウノエ`, `パッセロ岬`, `ペロロ岬`, `ソルデッロ`, `スカーラ`, `ウルビザーリア`, `シニガーリャ`, `プラトマーニョ`, `エリゼーオ`, `ウゴリーノ`, `マグラ川`, `アプリア`, `Valdi...` without middle dots; origin-country rule for `ベルナール`/`ベルナルド`, `シャルル・マルテル`, `アンリ`, `ジャンヌ`, `レーモン・ベランジェ`; Latin/Greek forms `ウェヌス`, `アエネイス`, `カティリナ`, `デイアネイラ`, `キンキナトゥス`, `イシドールス`, `ディオニュシウス`, `ペトルス・ロンバルドゥス`, `ベネディクトゥス十一世`).
-  - Updated [`ja/PROPER_NAMES.md`](ja/PROPER_NAMES.md) with all settled conventions (committed as `de2c9aea`).
+  - Applied agreed unifications across 74 translation files and [`ja/en/PROPER_NAMES.tsv`](ja/en/PROPER_NAMES.tsv) (e.g., `ルーニ`, `ユノ`, `テヴェレ川`, `レテ`, `エウノエ`, `パッセロ岬`, `ペロロ岬`, `ソルデッロ`, `スカーラ`, `ウルビザーリア`, `シニガーリャ`, `プラトマーニョ`, `エリゼーオ`, `ウゴリーノ`, `マグラ川`, `アプリア`, `Valdi...` without middle dots; origin-country rule for `ベルナール`/`ベルナルド`, `シャルル・マルテル`, `アンリ`, `ジャンヌ`, `レーモン・ベランジェ`; Latin/Greek forms `ウェヌス`, `アエネイス`, `カティリナ`, `デイアネイラ`, `キンキナトゥス`, `イシドールス`, `ディオニュシウス`, `ペトルス・ロンバルドゥス`, `ベネディクトゥス十一世`).
+  - Updated [`ja/en/PROPER_NAMES.md`](ja/en/PROPER_NAMES.md) with all settled conventions (committed as `de2c9aea`, then moved `ja/PROPER_NAMES.{md,tsv}` into `ja/en/` to mirror the per-volume layout).

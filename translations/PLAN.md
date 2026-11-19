@@ -13,7 +13,7 @@ from the section files of [`texts/`](../texts/), into `translations/ja/{dir}/`, 
   - `ja/en-oelsner/` (`001`–`040`, Temple Classics *Inferno*): title page, Cantos I–XXXIV, and end matter translated, reviewed, checked, and committed (with 5 misprints in `ja/en-oelsner/misprints.tsv` and 3 text items in `for-main.tsv`; `041` index pending).
   - `ja/en-purgatorio/` (`001`–`039`, Temple Classics *Purgatorio*): title page, Cantos I–XXXIII, and end matter translated, reviewed, checked, and committed (with 10 misprints/author errors in `ja/en-purgatorio/misprints.tsv`, 7 items in `for-main.tsv`, and 1 entry in `joins.tsv`; `040` index pending).
   - `ja/en-paradiso/` (`001`–`038`, Temple Classics *Paradiso*): title page, Cantos I–XXXIII, and end matter translated, reviewed, checked, and committed (with 6 misprints in `ja/en-paradiso/misprints.tsv` and 9 items in `for-main.tsv`; `039` index pending).
-  - Proper-name audit & tables: generated `texts/en-{purgatorio,paradiso}/PROPER_NAMES.tsv` and `ja/en-{purgatorio,paradiso}/PROPER_NAMES.tsv` (363 / 379 poem-body entries), unified transliterations across all sections of all four English volumes, and updated `ja/PROPER_NAMES.{md,tsv}` (`de2c9aea`).
+  - Proper-name audit & tables: generated `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` and `ja/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` (449 / 363 / 379 poem-body entries), unified transliterations across all sections of all four English volumes, and moved `ja/PROPER_NAMES.{md,tsv}` to `ja/en/PROPER_NAMES.{md,tsv}`.
 - **Next**:
   - Translate the plate/map/table index files (`en-oelsner/041`, `en-purgatorio/040`, `en-paradiso/039`).
 
@@ -21,7 +21,7 @@ from the section files of [`texts/`](../texts/), into `translations/ja/{dir}/`, 
 
 ### Scope and output
 
-- **On this branch only `translations/` is touched** (with the explicit exception of the newly added `texts/en-{purgatorio,paradiso}/PROPER_NAMES.tsv` index tables). Everything of this work is there:
+- **On this branch only `translations/` is touched** (with the explicit exception of the newly added `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` index tables). Everything of this work is there:
   the translations, the scripts (`translations/scripts/`), the records. Nothing outside it
   is changed on the branch, neither `ocr/` and `texts/` nor the files of the root (the
   README). What the work finds for them (a misprint, a line for the README) is recorded
@@ -138,7 +138,7 @@ from the section files of [`texts/`](../texts/), into `translations/ja/{dir}/`, 
   closing 」 at the end of the paragraph. Footnote references (`[^N-M]`) stand immediately
   after the word they belong to, before `。`, `、`, and `」`.
 - **Proper names and terms**: Proper names of persons and places in katakana (per-text
-  decisions in `ja/PROPER_NAMES.md` and `ja/PROPER_NAMES.tsv`; filtered per canto with
+  decisions in `ja/en/PROPER_NAMES.md` and `ja/{dir}/PROPER_NAMES.tsv`; filtered per canto with
   `scripts/proper_names.py`); titles of works in 『』 (e.g. *Comedy* = 『喜劇』).
 - **Quotations and references**: Quotations in English are translated; words and quotations
   in Italian, Latin or Greek are kept as written, with a Japanese gloss in （） where the
@@ -189,6 +189,11 @@ Found by this work, to be done on `main` (not on this branch):
   `en-paradiso/039-index-to-maps-diagrams-and-tables.md`.
 - **Beyond the English editions**: the commentary of `la` (about 1300 scans), the Greek
   prologue, arguments and notes of `grc`, and how words in italics are handled there.
+  - **Two-stage workflow for `grc` / `la`**: first translate `grc` / `la` into English,
+    conforming proper names to the Temple Classics tables (`texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv`
+    and `translations/ja/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv`, plus `ja/en/PROPER_NAMES.md`);
+    then translate directly from `grc` / `la` into Japanese, using the English translation as
+    reference for verification and refinement (not relay translation).
 
 ## Remaining steps
 

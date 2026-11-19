@@ -1,7 +1,7 @@
 """Extract proper-name translations for a given Inferno canto.
 
 Uses `texts/en/PROPER_NAMES.tsv` (canto:line index) and
-`translations/ja/PROPER_NAMES.tsv` (Japanese renderings) to list the proper
+`translations/ja/en/PROPER_NAMES.tsv` (Japanese renderings) to list the proper
 names appearing in a target canto for inclusion in translation prompts.
 
     python3 translations/scripts/proper_names.py 1
@@ -15,7 +15,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_EN = ROOT / "texts/en/PROPER_NAMES.tsv"
-DEFAULT_JA = ROOT / "translations/ja/PROPER_NAMES.tsv"
+DEFAULT_JA = ROOT / "translations/ja/en/PROPER_NAMES.tsv"
 
 
 def parse_canto(target: str) -> int:
@@ -63,7 +63,7 @@ def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     ap.add_argument("target", help="canto number (1-34) or canto filename (e.g. 002-canto-01.md)")
     ap.add_argument("--en", type=Path, default=DEFAULT_EN, help="path to texts/en/PROPER_NAMES.tsv")
-    ap.add_argument("--ja", type=Path, default=DEFAULT_JA, help="path to translations/ja/PROPER_NAMES.tsv")
+    ap.add_argument("--ja", type=Path, default=DEFAULT_JA, help="path to translations/ja/en/PROPER_NAMES.tsv")
     ap.add_argument("--tsv", action="store_true", help="output as TSV instead of prompt list")
     a = ap.parse_args()
 

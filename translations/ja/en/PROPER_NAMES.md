@@ -1,10 +1,11 @@
 # Proper Names (`translations/ja/`)
 
-Shared Japanese proper-name conventions for `translations/ja/`, based on the review of `translations/ja/en/002`–`040`, [en/041-index-of-proper-names.md](en/041-index-of-proper-names.md), `translations/ja/en-purgatorio/`, and `translations/ja/en-paradiso/`.
+Shared Japanese proper-name conventions for `translations/ja/`, based on the review of `translations/ja/en/002`–`040`, [041-index-of-proper-names.md](041-index-of-proper-names.md), `translations/ja/en-oelsner/`, `translations/ja/en-purgatorio/`, and `translations/ja/en-paradiso/`.
 
-- Inferno: [PROPER_NAMES.tsv](PROPER_NAMES.tsv) (aligned 1-to-1 with [texts/en/PROPER_NAMES.tsv](../../texts/en/PROPER_NAMES.tsv), generated from `en/041-index-of-proper-names.md`).
-- Purgatorio: [en-purgatorio/PROPER_NAMES.tsv](en-purgatorio/PROPER_NAMES.tsv) (aligned 1-to-1 with [texts/en-purgatorio/PROPER_NAMES.tsv](../../texts/en-purgatorio/PROPER_NAMES.tsv), poem body occurrences only).
-- Paradiso: [en-paradiso/PROPER_NAMES.tsv](en-paradiso/PROPER_NAMES.tsv) (aligned 1-to-1 with [texts/en-paradiso/PROPER_NAMES.tsv](../../texts/en-paradiso/PROPER_NAMES.tsv), poem body occurrences only).
+- Inferno (`en`): [PROPER_NAMES.tsv](PROPER_NAMES.tsv) (aligned 1-to-1 with [texts/en/PROPER_NAMES.tsv](../../../texts/en/PROPER_NAMES.tsv), generated from `en/041-index-of-proper-names.md`).
+- Inferno (`en-oelsner`): [en-oelsner/PROPER_NAMES.tsv](../en-oelsner/PROPER_NAMES.tsv) (aligned 1-to-1 with [texts/en-oelsner/PROPER_NAMES.tsv](../../../texts/en-oelsner/PROPER_NAMES.tsv), poem body occurrences only).
+- Purgatorio: [en-purgatorio/PROPER_NAMES.tsv](../en-purgatorio/PROPER_NAMES.tsv) (aligned 1-to-1 with [texts/en-purgatorio/PROPER_NAMES.tsv](../../../texts/en-purgatorio/PROPER_NAMES.tsv), poem body occurrences only).
+- Paradiso: [en-paradiso/PROPER_NAMES.tsv](../en-paradiso/PROPER_NAMES.tsv) (aligned 1-to-1 with [texts/en-paradiso/PROPER_NAMES.tsv](../../../texts/en-paradiso/PROPER_NAMES.tsv), poem body occurrences only).
 
 ## Settled Decisions
 
