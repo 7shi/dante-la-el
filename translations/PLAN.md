@@ -1,16 +1,19 @@
 # Plan: Japanese translations in `translations/ja/`
 
-What the editions print around the poem (prefaces, essays, arguments, notes), and for `en`
-the English prose translation of the poem, is translated into Japanese from the section
-files of [`texts/`](../texts/), into `translations/ja/{dir}/`, where `{dir}` is the
-directory name of `ocr/` and `texts/`. The work is done on the branch `translations`.
+What the editions print around the poem (prefaces, essays, arguments, notes), and for the
+English editions the English prose translation of the poem, is translated into Japanese
+from the section files of [`texts/`](../texts/), into `translations/ja/{dir}/`, where
+`{dir}` is the directory name of `ocr/` and `texts/`. The work is done on the branch
+`translations`. Completed work is recorded in [`DONE.md`](DONE.md).
 
 ## State (2026-11-19)
 
-All 41 files (`001`–`041`) of `en` are done in `ja/en/`: `002`–`040` (prefaces, essays,
-and Cantos I–XXXIV) checked `same structure` with `pages.py check` (with gpt-6-luna
-(Codex) as delegate), plus `001` (title page) and `041` (index of proper names, keeping
-English headwords with Japanese forms from `PROPER_NAMES.tsv`).
+- **Done** ([`DONE.md`](DONE.md)):
+  - `ja/en/` (`001`–`041`, Carlyle's *Inferno*): all 41 files translated, checked, and committed; `for-main.tsv` items resolved.
+  - `ja/en-oelsner/` (`001`–`040`, Temple Classics *Inferno*): title page, Cantos I–XXXIV, and end matter translated, reviewed, checked, and committed (with 5 misprints in `ja/en-oelsner/misprints.tsv` and 3 text items in `for-main.tsv`; `041` index pending).
+- **In progress**:
+  - `ja/en-purgatorio/` (`001`–`040`, Temple Classics *Purgatorio*): `001-title-page.md` translated (uncommitted); `002`–`039` prepared and translated by GPT-6 Luna (Codex) in `tmp/translate/en-purgatorio/{in,out}/`, awaiting batch review and landing; `040` index pending.
+  - `ja/en-paradiso/` (`001`–`039`, Temple Classics *Paradiso*): `001-title-page.md` translated (uncommitted); `002`–`038` prepared and translated by GPT-6 Luna (Codex) in `tmp/translate/en-paradiso/{in,out}/`, awaiting batch review and landing; `039` index pending.
 
 ## What is settled
 
@@ -27,11 +30,11 @@ English headwords with Japanese forms from `PROPER_NAMES.tsv`).
   checked ([ocr/PLAN.md](../ocr/PLAN.md)), so `texts/` changes from now on only by a
   misprint here and there; after a reconversion the diff of `texts/` shows which
   translations to look at.
-- **What is translated**: the prefaces, essays, arguments and notes; for `en` also the
-  English prose translation of the poem, translated from the English (not from the
-  Italian), to read the English with Japanese help, and the glosses under the verse
-  (`1\. Bruno, brown, dark, obscure.`, 97 in `en`). The text of the poem (the Italian) and
-  the verse translations of `la` and `grc` are not translated now.
+- **What is translated**: the prefaces, essays, arguments and notes; for the English
+  editions also the English prose translation of the poem, translated from the English (not
+  from the Italian), to read the English with Japanese help, and the glosses under the
+  verse (`1\. Bruno, brown, dark, obscure.`, 97 in `en`). The text of the poem (the
+  Italian) and the verse translations of `la` and `grc` are not translated now.
 - **The output** is `translations/ja/{dir}/`, one file per file of `texts/{dir}/` under the
   same name. A file with nothing to translate is not made; what is left out is listed in a
   README of `translations/` when there is something to list.
@@ -67,54 +70,51 @@ English headwords with Japanese forms from `PROPER_NAMES.tsv`).
   already joined in `texts/`.
 - **A paragraph runs over a page** when prose follows the page marker and either it begins
   in lower case or the last prose of the page before does not end in punctuation
-  (`. ! ? : ; ” ’ ) —`; `xii (018)` of the preface goes on with "Original"). The last
-  prose of a page is looked for before its verse, glosses and footnotes; a footnote
-  reference at its end is ignored. In the cantos a page often ends in a weak stop (`;`,
-  `:`, `,`, an abbreviation such as `MSS.`) and the next begins in lower case. A weak stop
-  followed by upper case is listed as doubtful, not joined. All five doubtful places in
-  `en` (pp. 40, 45, 54, 153, 268) have been decided (`yes`) in [`joins.tsv`](joins.tsv)
-  (`file`, `page`, `join` yes or no, `note`), along with two pages where a speech runs on
-  after a full stop with an unclosed quote (pp. 376, 402; `pages.py` does not flag a
-  full stop before upper case).
+  (`. ! ? : ; ” ’ ) —`). The last prose of a page is looked for before its verse, glosses
+  and footnotes; a footnote reference at its end is ignored. In the cantos a page often
+  ends in a weak stop (`;`, `:`, `,`, an abbreviation such as `MSS.`) and the next begins
+  in lower case. A weak stop followed by upper case is listed as doubtful, not joined;
+  decided places are recorded in [`joins.tsv`](joins.tsv) (`file`, `page`, `join` yes or
+  no, `note`).
 - **Verse vs. prose in `pages.py`**: `is_verse` treats a one-line verse block ending in
-  its line number as verse (`LONE_VERSE`, p. 243 of Canto XX), and treats a block with
-  `\` line breaks whose lines exceed 100 chars as prose (p. 368 of Canto XXX).
+  its line number as verse (`LONE_VERSE`), and treats a block with `\` line breaks whose
+  lines exceed 100 chars as prose. Because translated map captions, genealogical tables,
+  and classification tables with trailing `\` often have short lines (`<= 100` chars),
+  `pages.py check` reports `+V` on those blocks; verify that all `\` line breaks are kept.
 
 ### The delegate and the flow
 
 - **The translator is a lightweight model**, as a delegate. Its rules stay basic, as for
   the read-through of `ocr/` (ocr/PLAN.md, "Read-through"); details are handled by scripts
   before and after, and by the review here, not by more rules.
-- **A batch is one file.** The flow, with [`scripts/pages.py`](scripts/pages.py)
+- **Workflow with [`scripts/pages.py`](scripts/pages.py)**
   (`uv run python translations/scripts/pages.py …`, or `python3 translations/scripts/pages.py …`
   when `uv run` cannot see `../dante-corpus` in a sandbox):
   1. `prepare texts/{dir}/{file} -o tmp/translate/{dir}/in/{file}` writes the input with the
      paragraphs joined, and lists the joins and the doubtful places.
-  2. The task is written to `tmp/translate/{dir}/task-{NNN}.md`, after the last one (the rules
-     of "Style"), and the delegate is told to read it and carry it out. It writes
-     `tmp/translate/{dir}/out/{file}` and a TSV of suspected misprints beside it, and nothing
-     else (seen by `git status`). It does not search the web (a cost); what it is unsure
-     of it lists in its report, for the review. `tmp/` is not tracked; it is working space, and nothing
-     that must last is kept there.
+  2. Cold-start task prompts are written to `tmp/translate/{dir}/task-{NNN}.md` (following
+     the rules of "Style"). The delegate writes `{stem}.md` (translation), `{stem}.tsv`
+     (suspected misprints), and `{stem}.txt` (unclear points and work notes) to
+     `tmp/translate/{dir}/out/`. `tmp/` is untracked working space.
   3. `check texts/{dir}/{file} tmp/translate/{dir}/out/{file}` compares the structure with the
      input (markers, headings, footnote IDs, paragraphs with their footnote references;
      the verse left out). Footnote references in another order within a paragraph, as
      Japanese word order may need, are reported apart, not as a difference.
-  4. The translation is read against the English, paragraph by paragraph (optionally paired
-     with `pair2.py`), and corrected here, not sent back; the corrected copy is
-     `tmp/translate/{dir}/fixed-{NNN}.md` (typically via a `fix-{NNN}.py` replacement script).
-     Common delegate errors to check: `お前`, `師よ` / plain speech from Dante to Virgil,
-     footnote refs after `。` or followed by full-width spaces, `」。`, `」` closing
-     continuing speeches, missing `\` on multiline footnote continuation lines, translated
-     references, added words around ellipses/dashes, missing refs, split or moved paragraphs,
-     readings from notes brought into the text, `"my Master"` misread, and wrong subjects.
-  5. `finish texts/{dir}/{file} tmp/translate/{dir}/fixed-{NNN}.md -o translations/ja/{dir}/{file}`
+  4. The translation is reviewed in batches against the English, paragraph by paragraph,
+     and corrected in `tmp/translate/{dir}/out/{file}` before running `finish`.
+     Common delegate errors to check:
+     - Canto headings not in `# 第一歌`–`# 第三十四歌` format (`# 歌二十`, `# 第23歌`).
+     - Dropped, shifted, or inconsistently translated marginal labels (`<!-- label: ... -->`).
+     - `お前` / `おまえ`, `先生`, or polite forms (`です/ます/なさい/ください/でしょう`) in plain-form dialogue.
+     - `」。` (period outside closing quote), unclosed or prematurely closed `」` across multi-paragraph speeches, or single quotes not rendered as `『...』`.
+     - Cross-paragraph clause shifts or duplicated sentences across tercet boundaries.
+     - Translated or katakana-ized citation references in `## Notes`, or missing trailing `\` in tables and diagrams.
+  5. `finish texts/{dir}/{file} tmp/translate/{dir}/out/{file} -o translations/ja/{dir}/{file}`
      adds the comments of the joins; `check` is run on the result once more.
 - **A canto file is handed over whole** and translated in one pass: the Argument, the
-  English prose, the glosses, the footnotes, and the Italian verse for reference only (not
+  English prose, the glosses/notes, and the Italian verse for reference only (not
   translated, left out of the output), so that the notes and the Italian help the reading
-  of the prose, and the words agree between prose and notes. No Argument runs over a page
-  in `en`.
+  of the prose, and the words agree between prose and notes.
 
 ### Style
 
@@ -124,41 +124,34 @@ English headwords with Japanese forms from `PROPER_NAMES.tsv`).
   of the poem word for word as far as natural Japanese allows, following the English
   where it differs from the Italian; in the past tense where the English is; the narrator
   is 私.
-- **Speech** is in plain form (常体), except Dante’s speeches to Virgil, which are in
-  polite form (敬語 / です・ます調). `thou` is あなた (never お前), `ye`/`you` plural is
-  あなたがた, as the English uses `thou` to everyone. A `you` of respect to one person
-  (Italian `voi`, as to Brunetto Latini) is あなた too.
+- **Speech**:
+  - In `en`: plain form (常体), except Dante’s speeches to Virgil, which are in polite form (敬語 / です・ます調).
+  - In the Temple Classics volumes (`en-oelsner`, `en-purgatorio`, `en-paradiso`): plain form (常体) for every speaker, as specified in their task prompts.
+  - `thou` is あなた (never お前), `ye`/`you` plural is あなたがた. A `you` of respect to one person (Italian `voi`, as to Brunetto Latini) is あなた too.
 - **Virgil and titles**: Virgil addressed as `"Master"` in speech is 師よ (`"My Master"`
   is 我が師よ; never 先生); `"Master"` in narration is 師 (`"my Master"` / `"My Master"`
-  is 我が師); `"Guide"` is 導き手; `"Leader"` is 先導者.
+  is 我が師); `"Guide"` is 導き手; `"Escort"` is 案内人; `"Leader"` is 先導者.
 - **Quotation marks and footnotes**: Quotation marks as 「」, a quotation within one as
   『』; a speech continuing into the next paragraph (no closing `”` in English) has no
   closing 」 at the end of the paragraph. Footnote references (`[^N-M]`) stand immediately
   after the word they belong to, before `。`, `、`, and `」`.
-- Proper names of persons and places in katakana (per-text decisions in
-  `ja/PROPER_NAMES.md`); titles of works in 『』 (e.g. *Comedy* = 『喜劇』). Settled terms for
-  `Inferno` (`en`): `chasm` = 裂け目, `foss` = 濠, `ditch` = 溝, `Barrators` = 汚職役人,
-  `Falsifiers` = 偽造者.
-- Quotations in English are translated; words and quotations in Italian, Latin or Greek
-  are kept as written, with a Japanese gloss in （） where the text does not give one;
-  references (`Psalm xc. 10`, `Convito, Tr. iv. c. 23`, `verse 94`, `ver. 82`, `Verses 141-4`)
-  and commentator names cited as references (`Benv. da Imola`, `Ottimo Com.`, `Landino`)
-  are kept as written (as sentence subjects, use katakana such as オッティモ注釈,
-  ベンヴェヌート・ダ・イーモラ). `Lit.:` is 直訳では; `"See X"` is `X を参照`;
-  `"Compare X"` is `X と比較せよ`; `"line N"` / `"verse N"` in poem prose is `N行`.
-- Glosses keep the line number and the Italian word: `12\. Alto：高い、深い、あるいは困難な。`
-- Multiline footnotes keep `\` at the end of continuation-preceding lines and 4-space
-  indentation on continuation lines.
-- `en-oelsner` (`001`–`041`), `en-purgatorio` (`001`–`040`), `en-paradiso` (`001`–`039`):
-  all files in scope; proper names conform to `ja/PROPER_NAMES.tsv` and `ja/PROPER_NAMES.md`
-  (`en-oelsner` cantos filtered per canto with `scripts/proper_names.py`); marginal labels
-  (`<!-- label: ... -->`) on translated English paragraphs are translated inside the
-  comment, while Italian verse labels stay as-is; editorial revision square brackets
-  `[...]` are omitted, treating their contents as plain prose.
-- Batch delegation workflow (`en-oelsner`, `en-purgatorio`, `en-paradiso`): prepare inputs
-  in `tmp/translate/{dir}/in/` and cold-start prompts `task-NNN.md`; the delegate writes
-  `{stem}.md`, `{stem}.tsv` (suspected misprints), and `{stem}.txt` (unclear points and
-  work notes) to `tmp/translate/{dir}/out/` for batch review before `pages.py finish`.
+- **Proper names and terms**: Proper names of persons and places in katakana (per-text
+  decisions in `ja/PROPER_NAMES.md` and `ja/PROPER_NAMES.tsv`; filtered per canto with
+  `scripts/proper_names.py`); titles of works in 『』 (e.g. *Comedy* = 『喜劇』).
+- **Quotations and references**: Quotations in English are translated; words and quotations
+  in Italian, Latin or Greek are kept as written, with a Japanese gloss in （） where the
+  text does not give one; references (`Psalm xc. 10`, `Convito, Tr. iv. c. 23`, `verse 94`,
+  `v. 42`, `Canto xii. 37-41`) and commentator/author names cited in parenthetical
+  references (`Benv. da Imola`, `Ottimo Com.`, `Landino`, `Ovid, *Metam*.`) are kept as
+  written (as sentence subjects, use katakana such as オッティモ注釈, ベンヴェヌート・ダ・イーモラ,
+  オウィディウス). `Lit.:` is 直訳では; `"See X"` is `X を参照`; `"Compare X"` is `X と比較せよ`.
+- **Temple Classics conventions** (`en-oelsner`, `en-purgatorio`, `en-paradiso`):
+  - Marginal labels (`<!-- label: ... -->`) on translated English paragraphs are translated
+    inside the comment, while Italian verse labels stay as-is.
+  - Editorial revision square brackets `[...]` are omitted, treating their contents as
+    plain prose.
+  - Multiline map captions, diagrams, and genealogical/chronological tables preserve trailing
+    `\` line breaks on every line.
 
 ### Misprints
 
@@ -170,54 +163,9 @@ English headwords with Japanese forms from `PROPER_NAMES.tsv`).
   `ocr/{dir}/readcheck.tsv`, a misprint marked and listed in `misprints.tsv`, then the
   reconversion. The looking may be done here, since it changes nothing; the changes to
   `ocr/` and `texts/` are made on `main`, and reach this branch when the user brings them
-  over. The record is a by-product, not a check: in the trial the delegate recorded
-  nothing, and smoothed over what it met (see "Trial").
-- **An error of the author** (a wrong date) is not a misprint: it is translated as printed, and recorded in the same
-  TSV with that reason.
-
-## Not settled
-
-- **Style, the rest**: the words in italics (other texts).
-- **The scope beyond `en`**: the three Temple Classics volumes (`en-oelsner`,
-  `en-purgatorio`, `en-paradiso`) are settled; remaining are the commentary of `la`
-  (about 1300 scans), the Greek prologue, arguments and notes of `grc`, and the
-  plate/map/table indexes (`en-oelsner/041`, `en-purgatorio/040`, `en-paradiso/039`).
-- **The order of the texts**: `en-oelsner`, `en-purgatorio`, `en-paradiso` after `en`;
-  the order of the rest (`la`, `grc`).
-
-## Trial
-
-Three files of `en`, all returned with the structure unchanged and the TSVs of misprints
-empty. The Japanese reads well and follows the English closely; the review here found a
-few errors in each file, of the same kinds throughout: a word or a clause left out ("See"
-of a reference, "our own", "all", "good"), something added (古形 in a gloss, あなたが直面し),
-a sense shifted ("deserted" as 荒れ果てた, "though it was late" as 遅すぎた, "So Milton"
-as "therefore"), and once a closing quotation mark misplaced, which gave Beatrice's words
-to Lucia. These are what the review looks for.
-
-- `002-preface-first-edition.md`: seven joins, one paragraph over pp. viii–x. One
-  mistranslation ("saying, Peace, peace; when there is no peace?") and one shifted
-  sentence ("All anger and indignation…") corrected.
-- `007-canto-01.md`, in two passes: first the Argument and the 24 footnotes, with the
-  prose and the verse taken out (five places corrected); then the prose, with the
-  Japanese of the notes given to copy, which came back identical. One paragraph was split
-  in two (p. 5), joined here. The delegate split a verse quotation into its lines, as
-  printed, without recording that the transcription has it on one line (`for-main.tsv`).
-- `008-canto-02.md`, in one pass (the flow above): Argument, prose, 9 glosses and 21
-  footnotes. Eight places corrected. The speech came back in mixed registers (です in one
-  speech, あなた and お前 in another), which led to the rule of plain speech; Cantos I
-  and II were brought in line with it (Dante’s speeches to Virgil were later changed to
-  polite form [敬語] with 師よ across all cantos). Two misprints were found in the review, not by the
-  delegate (`ja/en/misprints.tsv`).
-
-The prefaces and essays (`003`–`006`) came back with the structure unchanged, but for
-three references of `004` set apart from the verse they belong to (removed here). The
-review found errors of the same kinds as in the trial, and two more: Italian and Latin
-put into katakana or translated where they are kept as written (titles such as *Ottimo
-Comento*, *Libri titulus est*), and references turned into Japanese (`Inf. x. 85` as
-『地獄篇』x. 85). The names of editions are kept the same across the essays (ニドベアティーナ版,
-コミーノ版, ジュンタ版). The delegate recorded two suspected misprints, neither a misprint;
-one was an error of the author, which it had corrected in the translation.
+  over.
+- **An error of the author** (a wrong date) is not a misprint: it is translated as printed,
+  and recorded in the same TSV with that reason.
 
 ## For `main`
 
@@ -227,21 +175,28 @@ Found by this work, to be done on `main` (not on this branch):
   `part` is `poem` for the text of the poem and its translations, which other branches
   use, or `notes` for the rest: notes, glosses, arguments, prefaces, essays): everything
   to be done or decided on `main`, one row each: an error of the transcription, and each
-  misprint of `ja/{dir}/misprints.tsv` (to be marked as such or left as printed; see
-  "Misprints"). A row is removed when the change has come over from `main`, or the
-  decision is made. A row of `misprints.tsv` whose reason says it is not a misprint (an
-  error of the author, translated as printed) needs nothing on `main` and has no row here.
+  editable-text misprint of `ja/{dir}/misprints.tsv` (to be marked as such or left as
+  printed; see "Misprints"). A row is removed when the change has come over from `main`,
+  or the decision is made. Misprints inside scan images (such as map labels in
+  `images/NNN.jpg`) or author errors translated as printed have no row in `for-main.tsv`.
 
-## Steps
+## Not settled
 
-1. Done: `pages.py` (prepare, check, finish).
-2. Done: the trial; the points decided are written above.
-3. Done for `001`–`041` of `en` (one file at a time, the prefaces and essays first, then
-   `001` and `041`, and the `for-main.tsv` / misprint items resolved on `main`).
-4. In progress: `en-oelsner`, `en-purgatorio`, `en-paradiso` (`001` title pages
-   translated; `002`–`040` / `002`–`039` / `002`–`038` prepared with cold-start prompts
-   for GPT-6 Luna in `tmp/translate/{dir}/`, awaiting batch review and split commits),
-   then `la` and `grc`.
+- **Plate/map/table indexes**: `en-oelsner/041-index-to-maps-plates-and-tables.md`,
+  `en-purgatorio/040-index-to-plates-tables-etc.md`, and
+  `en-paradiso/039-index-to-maps-diagrams-and-tables.md`.
+- **Beyond the English editions**: the commentary of `la` (about 1300 scans), the Greek
+  prologue, arguments and notes of `grc`, and how words in italics are handled there.
+
+## Remaining steps
+
+1. `en-purgatorio`: review and land `002`–`039` from `tmp/translate/en-purgatorio/out/`
+   into `translations/ja/en-purgatorio/` (with `001-title-page.md`).
+2. `en-paradiso`: review and land `002`–`038` from `tmp/translate/en-paradiso/out/`
+   into `translations/ja/en-paradiso/` (with `001-title-page.md`).
+3. Translate the plate/map/table index files (`en-oelsner/041`, `en-purgatorio/040`,
+   `en-paradiso/039`).
+4. `la` and `grc`.
 5. A README of `translations/`, and the conversion into HTML.
 
 Commits when the user asks.
