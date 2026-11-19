@@ -1,4 +1,7 @@
 file	page	part	text	change
+grc/006-canto-03.md	20 (040)	verse	ἀγενῶς	mark misprint {{ἀγενῶς|ἀγεννῶς}} in ocr/grc/040.txt (v. 60)
+grc/010-canto-07.md	54 (074)	verse	ὅλας.	mark misprint {{ὅλας.|ὅλας.”}} in ocr/grc/074.txt (v. 126, missing closing quote)
+grc/012-canto-09.md	67 (087)	verse	Ἀλλ᾿ ἢ	fix OCR misread ἢ -> ἣ in ocr/grc/087.txt (v. 96, rough breathing printed in scan 087)
 grc/038-notes.md	269 (290)	note	ἐπιῤῥοῆς ὁ δὲ λύκος	mark misprint {{ἐπιῤῥοῆς|ἐπιῤῥοῆς·}} in ocr/grc/290.txt (missing middle dot)
 grc/038-notes.md	270 (290)	note	ἐρημώσεως.	mark misprint {{ἐρημώσεως.|ἐρημώσεως.»}} in ocr/grc/290.txt (missing closing guillemet)
 grc/038-notes.md	275 (295)	note	Ὀρέσιος	mark misprint {{Ὀρέσιος|Ὀρόσιος}} in ocr/grc/295.txt (Orosius)
