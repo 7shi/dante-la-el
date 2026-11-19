@@ -104,8 +104,10 @@ def joins(bs, dec={}):
         j = last_prose(bs, i)
         if j is None:
             continue
-        if (bs[i + 1].lstrip()[:1].islower() or not ending(bs[j]).endswith(END)
-                or dec.get(b)):
+        if b in dec:
+            if dec[b]:
+                out.append((i, j, i + 1))
+        elif bs[i + 1].lstrip()[:1].islower() or not ending(bs[j]).endswith(END):
             out.append((i, j, i + 1))
     return out
 
