@@ -1,9 +1,10 @@
-# Plan: Japanese translations in `translations/ja/`
+# Plan: Translations in `translations/{en,ja}/`
 
 Project plan for translating the editions in [`texts/`](../texts/) into
-`translations/ja/{dir}/` on the `translations` branch. The reusable workflow, script
-usage (`pages.py`, `proper_names.py`), review checklist, and issue disposition rules are
-documented in [`GUIDE.md`](GUIDE.md); completed work is recorded in [`DONE.md`](DONE.md).
+`translations/en/{dir}/` (for `grc` and `la`) and `translations/ja/{dir}/` on the
+`translations` branch. The reusable workflow, script usage (`pages.py`, `proper_names.py`),
+review checklist, and issue disposition rules are documented in [`GUIDE.md`](GUIDE.md);
+completed work is recorded in [`DONE.md`](DONE.md).
 
 ## State (2026-11-20)
 
@@ -27,8 +28,13 @@ handling follow [`GUIDE.md`](GUIDE.md). Project-specific decisions:
   Everything to fix in `ocr/` or `texts/` is recorded in [`for-main.tsv`](for-main.tsv)
   and applied on `main`.
 - **What is translated**: prefaces, essays, arguments, and notes (plus English prose and
-  verse glosses for the English volumes, now complete). The Italian verse and the verse
-  translations of `grc` and `la` are not translated now.
+  verse glosses for the English volumes, now complete), and translations of the Greek
+  (`grc`) and Latin (`la`) verse translations (as reading aids to be paired alongside the
+  Greek/Latin text, not to replace it). The Italian verse itself is not translated.
+  As with `en*`, files under `translations/{en,ja}/{dir}/` hold target-language text only
+  (no copied source text, to keep translation output compact); pairing with the
+  English/Greek/Latin source text (including any adjustments for `en*`) is deferred until
+  after `la` is done.
 - **Scripts and records**:
   - Run [`scripts/pages.py`](scripts/pages.py) with `uv run python translations/scripts/pages.py …`
     (or `python3 translations/scripts/pages.py …` when `uv run` cannot see `../dante-corpus`
@@ -63,22 +69,28 @@ handling follow [`GUIDE.md`](GUIDE.md). Project-specific decisions:
 ## Not settled
 
 - **`grc` (39 files)** and **`la` (111 files, ~1,300 scans)**:
+  - Format for parallel-text translations of the Greek (`grc`) and Latin (`la`) verse
+    translations (line/tercet alignment, line numbers, trailing `\`, and how `pages.py`
+    handles translated verse blocks vs. skipped Italian verse).
   - How italics, Greek/Latin lemmas, and cross-page commentary structure are handled with
     `pages.py`.
   - Two-stage workflow ([`GUIDE.md`](GUIDE.md) Step 6):
-    1. Translate `grc` / `la` into English first, conforming proper names to
-       `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` and
-       `translations/ja/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` (plus
+    1. Translate `grc` / `la` into English first under `translations/en/{grc,la}/`,
+       conforming proper names to `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv`
+       and `translations/ja/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` (plus
        [`ja/en/PROPER_NAMES.md`](ja/en/PROPER_NAMES.md)).
-    2. Translate directly from `grc` / `la` into Japanese, using the English translation
-       as reference for verification and refinement (not relay translation).
+    2. Translate directly from `grc` / `la` into Japanese under `translations/ja/{grc,la}/`,
+       using `translations/en/{grc,la}/` as reference for verification and refinement
+       (not relay translation).
 
 ## Remaining steps
 
-1. `grc` (Greek prologue, arguments, and notes; 39 files).
-2. `la` (Latin commentary and front/back matter; 111 files).
+1. `grc` (Greek prologue, arguments, verse-translation reading aids, and notes; 39 files):
+   `translations/en/grc/` → `translations/ja/grc/`.
+2. `la` (Latin front/back matter, verse-translation reading aids, and commentary; 111 files):
+   `translations/en/la/` → `translations/ja/la/`.
 3. `translations/README.md` (structure, excluded files, usage).
-4. HTML side-by-side conversion pairing `texts/` and `translations/ja/`.
+4. HTML side-by-side conversion pairing `texts/` and `translations/{en,ja}/`.
 5. Resolve any new `for-main.tsv` items on `main` and merge.
 
 Commits when the user asks.
