@@ -1,1 +1,40 @@
 file	page	part	text	change
+grc/006-canto-03.md	20 (040)	verse	ἀγενῶς	mark misprint {{ἀγενῶς|ἀγεννῶς}} in ocr/grc/040.txt (v. 60)
+grc/010-canto-07.md	54 (074)	verse	ὅλας.	mark misprint {{ὅλας.|ὅλας.”}} in ocr/grc/074.txt (v. 126, missing closing quote)
+grc/012-canto-09.md	67 (087)	verse	Ἀλλ᾿ ἢ	fix OCR misread ἢ -> ἣ in ocr/grc/087.txt (v. 96, rough breathing printed in scan 087)
+grc/016-canto-13.md	[92] (112)	verse	γυπὰς	mark misprint {{γυπὰς|γύπας}} in ocr/grc/112.txt (v. 10)
+grc/017-canto-14.md	106 (126)	verse	ἐκ ποίων	mark misprint {{ποίων|τοίων}} in ocr/grc/126.txt (v. 132)
+grc/018-canto-15.md	111 (131)	verse	Βόσκην	mark misprint {{Βόσκην|Βοσκὴν}} in ocr/grc/131.txt (v. 73)
+grc/021-canto-18.md	137 (157)	verse	λυτρώνων	mark misprint {{λυτρώνων|λουτρώνων}} in ocr/grc/157.txt (v. 114)
+grc/021-canto-18.md	138 (158)	verse	Ἀλλὰ νῦν ἅλις ἡμῶν τὰ βλέμματ᾽ εἶδεν.	restore dropped opening/closing quotes “ ... ” in texts/grc/021-canto-18.md (v. 136, present in scan 158 and ocr/grc/158.txt)
+grc/022-canto-19.md	[139] (159)	verse	δι᾽ ἡμᾶς	mark misprint {{ἡμᾶς|ὑμᾶς}} in ocr/grc/159.txt (v. 5)
+grc/022-canto-19.md	141 (161)	verse	πατάλου	mark misprint {{πατάλου|παττάλου}} in ocr/grc/161.txt (v. 47)
+grc/024-canto-21.md	155 (175)	verse	πλέεις	mark misprint {{πλέεις|πλέῃς}} in ocr/grc/175.txt (v. 51)
+grc/024-canto-21.md	156 (176)	verse	κρεάργαις	mark misprint {{κρεάργαις|κρεάγραις}} in ocr/grc/176.txt (v. 57)
+grc/024-canto-21.md	159 (179)	verse	Κογνάζε	mark misprint {{Κογνάζε|Καγνάζε}} in ocr/grc/179.txt (v. 119)
+grc/025-canto-22.md	167 (187)	verse	κέρκου	mark misprint {{κέρκου|κίρκου}} in ocr/grc/187.txt (v. 130)
+grc/029-canto-26.md	[193] (213)	verse	αἰσχύνη	mark misprint {{αἰσχύνη|αἰσχύνῃ}} in ocr/grc/213.txt (v. 5, missing iota subscript)
+grc/032-canto-29.md	221 (241)	verse	Οὐμὸς	fix OCR misread Οὐμὸς -> Οὑμὸς in ocr/grc/241.txt (v. 86, rough breathing printed in scan 241)
+grc/033-canto-30.md	[225] (245)	verse	περιτρέψας	mark misprint {{περιτρέψας|περιστρέψας}} in ocr/grc/245.txt (v. 11)
+grc/033-canto-30.md	228 (248)	verse	τῇ δίψει	mark misprint {{δίψει|δίψῃ}} in ocr/grc/248.txt (v. 56)
+grc/033-canto-30.md	232 (252)	verse	Ἀγενὲς	mark misprint {{Ἀγενὲς|Ἀγεννὲς}} in ocr/grc/252.txt (v. 148)
+grc/035-canto-32.md	244 (264)	verse	πυκτὴν	mark misprint {{πυκτὴν|πηκτὴν}} in ocr/grc/264.txt (v. 60)
+grc/038-notes.md	269 (290)	note	ἐπιῤῥοῆς ὁ δὲ λύκος	mark misprint {{ἐπιῤῥοῆς|ἐπιῤῥοῆς·}} in ocr/grc/290.txt (missing middle dot)
+grc/038-notes.md	270 (290)	note	ἐρημώσεως.	mark misprint {{ἐρημώσεως.|ἐρημώσεως.»}} in ocr/grc/290.txt (missing closing guillemet)
+grc/038-notes.md	275 (295)	note	Ὀρέσιος	mark misprint {{Ὀρέσιος|Ὀρόσιος}} in ocr/grc/295.txt (Orosius)
+grc/038-notes.md	283 (303)	note	στίχ·	mark misprint {{στίχ·|στίχ.}} in ocr/grc/303.txt (middle dot for period)
+grc/038-notes.md	284 (304)	note	{{νεκρὼν|νεκρῶν}}	revert erroneous misprint mark in ocr/grc/304.txt and ocr/grc/misprints.tsv: printed νεκρὼν is correct (masc. nom. sg. νεκρών 'burial ground' with grave accent before Ἠλύσιον, not gen. pl. νεκρῶν)
+grc/038-notes.md	284 (304)	note	ἐκεῖ (Ἰωήλ, Γ΄, 2).	mark misprint {{ἐκεῖ|ἐκεῖ”}} in ocr/grc/304.txt (missing closing quote)
+grc/038-notes.md	287 (307)	note	10·	mark misprint {{10·|10.}} in ocr/grc/307.txt (middle dot for period)
+grc/038-notes.md	291 (311)	note	(Fisole)	mark misprint {{Fisole|Fiesole}} in ocr/grc/311.txt
+grc/038-notes.md	292 (312)	note	ὁμὲν	mark misprint {{ὁμὲν|ὁ μὲν}} in ocr/grc/312.txt (missing space)
+grc/038-notes.md	292 (312)	note	Λυβικῆς	mark misprint {{Λυβικῆς|Λιβυκῆς}} in ocr/grc/312.txt
+grc/038-notes.md	295 (315)	note	Γιγδογέῤῥας	mark misprint {{Γιγδο-|Γουϊδο-}} in ocr/grc/315.txt (Guidoguerra)
+grc/038-notes.md	304 (324)	note	William Livy	mark misprint {{Livy|Lilly}} in ocr/grc/324.txt (William Lilly)
+grc/038-notes.md	306 (326)	note	κλωπειῶν	mark misprint {{κλωπειῶν|κλοπειῶν}} in ocr/grc/326.txt
+grc/038-notes.md	309 (329)	note	Ciamfa	mark misprint {{Ciamfa|Cianfa}} in ocr/grc/329.txt
+grc/038-notes.md	314 (334)	note	(Colona)	mark misprint {{Colona|Colonna}} in ocr/grc/334.txt
+grc/038-notes.md	315 (335)	note	ἐξόριστος, Τοῦτο	mark misprint {{ἐξόριστος,|ἐξόριστος.}} in ocr/grc/335.txt (comma for period)
+grc/038-notes.md	317 (337)	note	μεταῤῥυθμητὴς	mark misprint {{ῥυθμητὴς|ῥυθμιστὴς}} in ocr/grc/337.txt
+grc/038-notes.md	322 (343)	note	κρύφθητι	mark misprint {{κρύφθητι|κρύφθητι.}} in ocr/grc/343.txt (missing period)
+grc/038-notes.md	329 (349)	note	Ὅρα σημ 68	mark misprint {{σημ|σημ.}} in ocr/grc/349.txt (missing period)

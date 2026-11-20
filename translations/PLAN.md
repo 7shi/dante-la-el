@@ -1,20 +1,20 @@
-# Plan: Japanese translations in `translations/ja/`
+# Plan: Translations in `translations/{en,ja}/`
 
 Project plan for translating the editions in [`texts/`](../texts/) into
-`translations/ja/{dir}/` on the `translations` branch. The reusable workflow, script
-usage (`pages.py`, `proper_names.py`), review checklist, and issue disposition rules are
-documented in [`GUIDE.md`](GUIDE.md); completed work is recorded in [`DONE.md`](DONE.md).
+`translations/en/{dir}/` (for `grc` and `la`) and `translations/ja/{dir}/` on the
+`translations` branch. The reusable workflow, script usage (`pages.py`, `proper_names.py`),
+review checklist, and issue disposition rules are documented in [`GUIDE.md`](GUIDE.md);
+completed work is recorded in [`DONE.md`](DONE.md).
 
 ## State (2026-11-20)
 
-- **Done** ([`DONE.md`](DONE.md)):
-  - `ja/en/` (`001`–`041`, Carlyle's *Inferno*): all 41 files translated, checked, and committed; `for-main.tsv` items resolved.
-  - `ja/en-oelsner/` (`001`–`041`, Temple Classics *Inferno*): all 41 files (title page, Cantos I–XXXIV, end matter, and index) translated, reviewed, checked, and committed (5 misprints in `ja/en-oelsner/misprints.tsv`; `for-main.tsv` items resolved on `main`).
-  - `ja/en-purgatorio/` (`001`–`040`, Temple Classics *Purgatorio*): all 40 files (title page, Cantos I–XXXIII, end matter, and index) translated, reviewed, checked, and committed (10 misprints/author errors in `ja/en-purgatorio/misprints.tsv`, 1 entry in `joins.tsv`; `for-main.tsv` items resolved on `main`).
-  - `ja/en-paradiso/` (`001`–`039`, Temple Classics *Paradiso*): all 39 files (title page, Cantos I–XXXIII, end matter, and index) translated, reviewed, checked, and committed (6 misprints in `ja/en-paradiso/misprints.tsv`, 1 entry in `joins.tsv`; `for-main.tsv` items resolved on `main`).
-  - Proper-name audit & tables: generated `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` and `ja/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` (449 / 363 / 379 poem-body entries), unified transliterations across all sections of all four English volumes, and moved `ja/PROPER_NAMES.{md,tsv}` to `ja/en/PROPER_NAMES.{md,tsv}`.
-- **Next**:
-  - Plan and execute the `grc` and `la` translations (see [`GUIDE.md`](GUIDE.md) Step 6).
+- **Done** ([`DONE.md`](DONE.md)): all four English volumes (`ja/en/` `001`–`041`,
+  `ja/en-oelsner/` `001`–`041`, `ja/en-purgatorio/` `001`–`040`, `ja/en-paradiso/`
+  `001`–`039`), Musurus's Greek *Inferno* (`{en,ja}/grc/` `001`–`038`, 38 files),
+  cross-volume proper-name audit and `PROPER_NAMES.tsv` tables, [`GUIDE.md`](GUIDE.md),
+  and all `en*` `for-main.tsv` fixes merged and applied on `main` (`71c2b827`).
+- **Next**: `la` (Serravalle Latin edition, 111 files), following the two-stage workflow
+  in [`GUIDE.md`](GUIDE.md) Step 6.
 
 ## Project-specific conventions
 
@@ -27,31 +27,37 @@ handling follow [`GUIDE.md`](GUIDE.md). Project-specific decisions:
   explicit exception of `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv`).
   Everything to fix in `ocr/` or `texts/` is recorded in [`for-main.tsv`](for-main.tsv)
   and applied on `main`.
-- **What is translated**: prefaces, essays, arguments, and notes; for the English editions,
-  also the English prose translation of the poem (translated from the English, not from the
-  Italian) and the glosses under the verse (`1\. Bruno, brown, dark, obscure.`, 97 in `en`).
-  The Italian verse and the verse translations of `la` and `grc` are not translated now.
+- **What is translated**: prefaces, essays, arguments, and notes (plus English prose and
+  verse glosses for the English volumes, now complete), and translations of the Greek
+  (`grc`) and Latin (`la`) verse translations (as reading aids to be paired alongside the
+  Greek/Latin text, not to replace it). The Italian verse itself is not translated.
+  As with `en*`, files under `translations/{en,ja}/{dir}/` hold target-language text only
+  (no copied source text, to keep translation output compact); pairing with the
+  English/Greek/Latin source text (including any adjustments for `en*`) is deferred until
+  after `la` is done.
 - **Scripts and records**:
   - Run [`scripts/pages.py`](scripts/pages.py) with `uv run python translations/scripts/pages.py …`
     (or `python3 translations/scripts/pages.py …` when `uv run` cannot see `../dante-corpus`
     in a sandbox).
   - Cross-page join overrides: [`joins.tsv`](joins.tsv).
-  - Proper-name conventions & per-canto filter: [`ja/en/PROPER_NAMES.md`](ja/en/PROPER_NAMES.md),
-    `ja/{dir}/PROPER_NAMES.tsv`, and [`scripts/proper_names.py`](scripts/proper_names.py).
+  - Proper-name references: [`ja/en/PROPER_NAMES.md`](ja/en/PROPER_NAMES.md),
+    `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv`,
+    `ja/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv`, and
+    [`scripts/proper_names.py`](scripts/proper_names.py).
   - Verified misprints/author errors: `ja/{dir}/misprints.tsv`; items for `main`:
     [`for-main.tsv`](for-main.tsv).
 
 ### Style (Japanese)
 
 - Plain written Japanese (である調), literal with readability (avoid Japanese em-dashes
-  `——`), past tense where the English is; narrator is 私.
-- **Speech**:
-  - `en`: plain form (常体), except Dante’s speeches to Virgil, which are in polite form
-    (敬語 / です・ます調).
-  - Temple Classics (`en-oelsner`, `en-purgatorio`, `en-paradiso`): plain form (常体) for
-    every speaker.
-  - `thou` / respectful `you` (Italian `voi`) is あなた (never お前); plural `ye`/`you` is
-    あなたがた.
+  `——`), past tense where the source is; narrator is 私.
+- **Numbers**: use Arabic numerals rather than kanji numerals (e.g., `# 第1歌`, `12音節`,
+  `1881年10月`, `3頭の獣`, `第2の死`, `ボニファティウス8世`), except inside fixed kanji
+  compounds, established terms, and idiomatic expressions (such as `一貫`, `万人`, `万物`,
+  `第一質料`, `黄道十二宮`, `もう一つ`, `誰一人`, `一度も`).
+- **Speech**: plain form (常体) for all speakers (except Dante’s speeches to Virgil in
+  `en`, which use polite form 敬語). `thou` / respectful `you` (`voi`) is あなた (never
+  お前); plural `ye`/`you` is あなたがた.
 - **Virgil and titles**: `"Master"` in speech is 師よ (`"My Master"` is 我が師よ; never
   先生); `"Master"` in narration is 師 (`"my Master"` is 我が師); `"Guide"` is 導き手;
   `"Escort"` is 案内人; `"Leader"` is 先導者.
@@ -63,23 +69,31 @@ handling follow [`GUIDE.md`](GUIDE.md). Project-specific decisions:
   bibliographic references and parenthetical commentator citations (`Benv. da Imola`,
   `Ottimo Com.`, `Ovid, *Metam*.`) as written (katakana when used as sentence subjects);
   `Lit.:` → 直訳では, `"See X"` → `X を参照`, `"Compare X"` → `X と比較せよ`.
-- **Temple Classics markup**: translate `<!-- label: ... -->` inside the comment on English
-  paragraphs (leave Italian verse labels out); omit editorial revision brackets `[...]`;
-  preserve trailing `\` line breaks in map captions, diagrams, and genealogical/chronological
-  tables.
 
 ## Not settled
 
-- **Classical editions (`la` and `grc`)**: the Latin commentary of `la` (about 1,300 scans),
-  the Greek prologue, arguments, and notes of `grc`, and how words in italics are handled
-  there. Follow the two-stage workflow in [`GUIDE.md`](GUIDE.md) Step 6, conforming Stage 1
-  English proper names to `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` and
-  `translations/ja/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` (plus
-  [`ja/en/PROPER_NAMES.md`](ja/en/PROPER_NAMES.md)).
+- **`la` (111 files, ~1,300 scans)**:
+  - Format for parallel-text translations of Serravalle's Latin tercet translations alongside
+    the skipped Italian tercets and Latin commentary (tercet/line alignment, line numbers,
+    trailing `\`, and how `pages.py` handles translated Latin verse blocks vs. skipped
+    Italian verse).
+  - How italics, Latin lemmas, and cross-page commentary structure are handled with
+    `pages.py`.
+  - Two-stage workflow ([`GUIDE.md`](GUIDE.md) Step 6, already proven on `grc`):
+    1. Translate `la` into English first under `translations/en/la/`, conforming proper
+       names to `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` and
+       `translations/ja/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` (plus
+       [`ja/en/PROPER_NAMES.md`](ja/en/PROPER_NAMES.md)).
+    2. Translate directly from `la` into Japanese under `translations/ja/la/`, using
+       `translations/en/la/` as reference for verification and refinement (not relay
+       translation).
 
 ## Remaining steps
 
-1. `la` and `grc`.
-2. A README of `translations/`, and the conversion into HTML.
+1. `la` (Latin front/back matter, verse-translation reading aids, and commentary; 111 files):
+   `translations/en/la/` → `translations/ja/la/`.
+2. `translations/README.md` (structure, excluded files, usage).
+3. HTML side-by-side conversion pairing `texts/` and `translations/{en,ja}/`.
+4. Resolve all `for-main.tsv` items on `main` (`ocr/` → reconvert `texts/`) and merge.
 
 Commits when the user asks.
