@@ -29,7 +29,7 @@ The main subject is how Musurus translated the Italian into Greek, so that learn
 
 Steps:
 
-1. Generate and check `commentary/en-grc/` (all 34 cantos; see [commentary/PLAN.md](../commentary/PLAN.md)).
+1. Generate and check `commentary/en-grc/` (all 34 cantos; see [commentary/PLAN.md](../commentary/PLAN.md)). Note: `translations/en/grc/` (merged on `main` in `524fe966`) already provides a line-by-line English translation of Musurus's Greek; decide before starting step 3 whether to reuse it instead of generating `commentary/en-grc/`.
 2. A new mode of `grammar.py` for `grammar/grc/` (how it is called, beside the existing grc mode of step 4, is settled then): the Greek and `en-grc` line by line, Oelsner's Italian and English by tercet (`source.oelsner_passages`), sent passage by passage, with the repair of a rejected answer and the rejections listed at the end of a run, as in the en mode.
 3. Trial on a canto or two, tune the prompt, then the whole Inferno.
 
@@ -39,6 +39,7 @@ Steps:
 
 `commentary/el-grc/` is a Modern Greek translation of Musurus's Greek, made for speakers of Modern Greek. `grammar/el-grc/` compares the two in English: Musurus's Greek explained line by line, and how the Modern Greek renders its forms and constructions. This is what the grc mode of `grammar.py` was first written for (`make grammar CANTICLE=inferno SOURCE=grc`, with the default `LANG=el`), and it is kept apart from `grammar/grc/`, whose subject is the translation from the Italian.
 
+- Before starting step 4, check `commentary/el-grc/` against the `texts/grc/` misprint fixes applied on `main` (`524fe966`, 14 cantos) with `make check-quotes` and update any affected lines.
 - The grc mode still works by sections of about 30 lines and retries a rejected answer from scratch; it is reworked like the en mode (repair of a rejected answer, rejections listed at the end of a run), keeping its own check that every line and its translation are quoted unchanged.
 - The model does not change the translation; where it finds `el-grc` wrong, it writes a `Translation note:`. After the run: `make grammar-notes` lists them, the `.txt` of `commentary/el-grc/` is corrected by hand, and `make fix-grammar-quotes` rebuilds the quotes.
 - Trial on a canto or two, tune the prompt, then the whole Inferno.
