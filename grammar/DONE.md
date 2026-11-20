@@ -21,3 +21,44 @@ The el branch was rebased onto main (903e1f18), which added to `texts/` what the
 - `texts/en-purgatorio/` and `texts/en-paradiso/`, the Temple Classics Purgatorio and Paradiso, with Oelsner's Italian and Okey's English facing it tercet by tercet.
 
 The reports of `editions/` were checked and updated after it (see [editions/DONE.md](../editions/DONE.md)).
+
+## Merge into main and texts/en update
+
+The `el` branch was merged into `main`, and the `translations/for-main.tsv` fixes in `texts/en/` (`c3119649`, including three missing quotation marks in Carlyle's English in cantos II and VII) were checked against `grammar/en/`:
+
+- `fix_quote_blocks.py -s en -d en -n` reported no changes to the Italian quote blocks.
+- The three missing quotation marks in Carlyle's English were restored in `grammar/en/008-canto-02.md` (lines 78 and 108) and `grammar/en/013-canto-07.md` (line 66).
+- Work continues on the `commentary` branch, branched from `main` (`8498fc85`).
+
+## 2. grammar/en-oelsner
+
+`make grammar CANTICLE=inferno SOURCE=en-oelsner`: the Italian of the Temple Classics Inferno (`texts/en-oelsner/`, edited by Oelsner) compared spread by spread (`source.oelsner_passages`) with Carlyle's English revised by Oelsner (keeping his square brackets; see [editions/en-carlyle-oelsner.md](../editions/en-carlyle-oelsner.md) and [editions/it-carlyle.md](../editions/it-carlyle.md)). All 34 cantos of the Inferno were generated (`gpt-6-astra`).
+
+The review (2026-11-19):
+
+- `fix_quote_blocks.py -s en-oelsner -d grammar/en-oelsner -n` reported no changes, and `grammar.py --notes` found no translation notes.
+- Checked by script over all 34 cantos: every canto has its summary; the sections match `source.oelsner_passages` from line 1 to the last line of the canto with no gap or overlap; the English joined per section matches the source word for word; every double-quoted phrase in the bullets and summaries is found in the English. Bullets per line (1.23–1.60, mean 1.41) and the length of the summaries (354–431 words, mean 392) are even over the cantos.
+- No bullet is given only to a subject supplied from the verb ending, an article before a possessive left out, or capitals, punctuation, or spelling. The bullets whose rendering differs from the translation only in an article (148) are kept. Of the three Italian phrases not matching verbatim within their range, two are an unelided or shortened form (*non par che* VI 45, *tante nuove travaglie e pene, quante* VII 19–20) and one takes up a word of the next range of the same block (*Quante … lucciole* XXVI 25–28). Oelsner's bracketed revisions are handled cleanly against the Italian.
+- Read: cantos II 13–45, XVII 109–134, and XXXIII 1–39 (with summaries of I, IX, and XXXIII) in full, and 40 bullets drawn at random from all cantos.
+- Corrected (3 files):
+  - `029-canto-28.md` (lines 75, 79): balanced emphasis markers (`*`) inside two quoted English spans.
+  - `033-canto-32.md` (line 93): normalized the literal gloss of *il nome tuo* to `‘the name thy’ → “thy name”`.
+  - `034-canto-33.md` (line 15 and summary): recognized Old Italian dative *i* (‘to him’) in *perchè i son tal vicino* rather than treating “to him” as supplied, and replaced that summary example with *di sopra* → “above on earth”.
+
+## 2. grammar/en-purgatorio
+
+`make grammar CANTICLE=purgatorio SOURCE=en-purgatorio`: the Italian of the Temple Classics Purgatorio (`texts/en-purgatorio/`, edited by Oelsner) compared spread by spread (`source.oelsner_passages`) with Thomas Okey's English translation. All 33 cantos of the Purgatorio were generated (`gpt-6.2-astra`).
+
+The review (2026-11-20):
+
+- `fix_quote_blocks.py -s en-purgatorio -d grammar/en-purgatorio -n` reported no changes, and `grammar.py --notes` found no translation notes.
+- Checked by script over all 33 cantos: every canto has its summary; the sections match `source.oelsner_passages` from line 1 to the last line of the canto with no gap or overlap; the English joined per section matches the source word for word; every double-quoted phrase in the bullets and summaries is found in the English with balanced emphasis markers (`*`, `_`). Bullets per line (1.24–1.53, mean 1.36) and the length of the summaries (246–324 words, mean 286) are even over the cantos.
+- No bullet is given only to a subject supplied from the verb ending, an article before a possessive left out, or capitals, punctuation, or spelling. The bullets whose rendering differs from the translation only in an article (133) are kept. Of the four remaining Italian phrases not matching verbatim within their range, all take up words of the end of the preceding line carried over into the English of that range (*ma, se a voi piace cosa ch' io possa* V 60–61, *io scoppio* XVI 54, *ch' io venni presta ad ogni tua question* XXVIII 84, *ed esso mi rispose* XXIX 57).
+- Read: cantos III 115–145, XVI 1–39, and XXX 1–39 (with summaries of III, XVI, and XXX) in full, and 40 bullets drawn at random from all cantos.
+- Corrected (6 files):
+  - `003-canto-02.md` (line 118): fixed Italian typo *apparsen ali* → *apparser ali*.
+  - `004-canto-03.md` (line 601, summary): fixed doubled article in `becomes a “sharp a sting” in the exclamation “how sharp a sting”` → `becomes “how sharp a sting” in the exclamation`.
+  - `006-canto-05.md` (line 154): removed soft hyphen (`U+00AD`) in *facciangli onore*.
+  - `015-canto-14.md` (line 204): fixed Italian typo *ad a lor* → *a lor*.
+  - `020-canto-19.md` (line 317): corrected *agli alti saliri* to the source reading *verso gli alti saliri* and dropped the claim of a preposition change.
+  - `031-canto-30.md` (line 226): fixed Italian typo *ad ben far* → *a ben far*.

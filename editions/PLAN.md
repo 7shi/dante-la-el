@@ -2,9 +2,9 @@
 
 What remains to be done on the reports of this directory; what is done is in [DONE.md](DONE.md).
 
-## After the next rebase onto main
+## After a rebase onto main
 
-The el branch has been rebased onto main once (see [DONE.md](DONE.md)), but the texts are not settled yet: errors of transcription found while translating on the translations branch (`translations/for-main.tsv`) go into `ocr/` and `texts/` on main, and the el branch is to be rebased again once the translations branch has been merged into main. If `texts/en/` or `texts/en-oelsner/` change then:
+The `el` branch has been merged into `main` (see [DONE.md](DONE.md)). If `texts/en/` or `texts/en-oelsner/` change on `main` while work continues on the `commentary` branch, check them again after rebasing onto `main`:
 
 - Run `uv run scripts/compare_editions.py en` again and check the numbers of `judge-en.txt` against the new list (see [README.md](README.md#how-they-are-made)); judge any new difference.
 - Render the tables of `en-carlyle-oelsner.md` again with `scripts/render_editions.py`, and update its counts.

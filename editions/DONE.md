@@ -10,3 +10,12 @@ The rebase added the leaf of Oelsner's Inferno with pp. 385–386 (canto XXXIV: 
 - `en-carlyle-oelsner.md`: the three rows were added to the table of other changes, and the tables of every category were rendered again and found to match. The counts were updated: differences of punctuation 596 → 603, of case 374 → 377, in words 355 → 358 (marked 210 → 212, `W` 165 → 168), *;* → *:* 94 → 96, *:* → *;* 68 → 71.
 - The handling of the missing page was dropped from `compare_editions.py` and `commentary/scripts/source.py`, with the output unchanged, and the notes on the missing leaf were removed from the reports.
 - `compare_editions.py it` and the tables of `it-carlyle.md` were unchanged: the three misprints are on lines that are not in its tables.
+
+## After the merge into main (c3119649)
+
+`el` was merged into `main`, and the `translations/for-main.tsv` fixes in `texts/en/` (`c3119649`: three missing quotation marks in Carlyle's English, plus footnote and Argument fixes) were checked (`8498fc85`):
+
+- `uv run scripts/align_carlyle.py check` passed (`377 blocks`).
+- `uv run scripts/compare_editions.py en` was run again: `punctuation only` changed from `603` to `602`; all other counts and word differences were unchanged.
+- `en-carlyle-oelsner.md` was updated (`603` → `602`).
+- `uv run scripts/compare_editions.py it` was unchanged.
