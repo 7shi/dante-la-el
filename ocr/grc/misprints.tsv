@@ -65,7 +65,6 @@ page	line	printed	fixed	applied	source	note
 300	4	ἄσωτοί	ἄσωτοι	yes	edition	The note to VII. 30; an acute on the last syllable, no enclitic follows; found by the retype.
 300	5	Τοὐτ᾿	Τοῦτ᾿	yes	edition	note VII 30; a smooth breathing for the circumflex; found in the read-through.
 301	35	μακαρτάτη	μακαρτάτη”	yes	edition	note VIII 45; the closing quote of the Musaeus quotation not printed; found in the read-through.
-304	7	νεκρὼν	νεκρῶν	yes	edition	The note to IX. 112; a grave for the circumflex; found by the retype.
 304	11	το	τὸ	yes	edition	The note to IX. 112; no accent printed; found by the retype.
 307	24	ἐπίκουρειοι	ἐπικούρειοι	yes	edition	The note to XI. 90; the accent on the fourth syllable from the end; the base had it as printed.
 308	16	διδασκειν	διδάσκειν	yes	edition	The note to XI. 93; no accent printed; found by the retype.
@@ -97,3 +96,38 @@ page	line	printed	fixed	applied	source	note
 346	3	Τρῴων	Τρώων	yes	edition	The note to XXXII. 88; an iota subscript printed under the `ω`; found by the retype.
 348	5	Alterigo	Alberigo	yes	edition	The note to XXXIII. 118; a `t` for the `b` (the Greek has `Ἀλβερίγος`); the base had it as printed; seen in the deciding of retype 15.
 350	9	χώρας.	χώρας.”	yes	edition	note XXXIV 114; the closing quote of the Ezekiel quotation not printed; found in the read-through.
+040	10	ἀγενῶς	ἀγεννῶς	yes	edition	III 60; single nu for double nu (`ἀγεννῶς`); found by translation review.
+074	14	ὅλας.	ὅλας.”	yes	edition	VII 126; missing closing quote; found by translation review.
+112	15	γυπὰς	γύπας	yes	edition	XIII 10; wrong accent (`γυπὰς` for `γύπας`, vultures); found by translation review.
+126	19	ποίων	τοίων	yes	edition	XIV 132; `ποίων` for `τοίων`; found by translation review.
+131	21	Βόσκην	Βοσκὴν	yes	edition	XV 73; wrong accent (`Βόσκην` for `Βοσκὴν`); found by translation review.
+157	5	λυτρώνων	λουτρώνων	yes	edition	XVIII 114; `λυτρώνων` for `λουτρώνων`; found by translation review.
+159	8	ἡμᾶς	ὑμᾶς	yes	edition	XIX 5; `ἡμᾶς` for `ὑμᾶς`; found by translation review.
+161	16	πατάλου	παττάλου	yes	edition	XIX 47; single tau for double tau (`παττάλου`); found by translation review.
+175	21	πλέεις	πλέῃς	yes	edition	XXI 51; indicative `πλέεις` for subjunctive `πλέῃς` after `μὴ`; found by translation review.
+176	6	κρεάργαις	κρεάγραις	yes	edition	XXI 57; transposed letters (`κρεάργαις` for `κρεάγραις`); found by translation review.
+179	9	Κογνάζε	Καγνάζε	yes	edition	XXI 119; `Κογνάζε` for `Καγνάζε` (Cagnazzo); found by translation review.
+187	18	κέρκου	κίρκου	yes	edition	XXII 130; `κέρκου` for `κίρκου` (falcon); found by translation review.
+213	10	αἰσχύνη	αἰσχύνῃ	yes	edition	XXVI 5; missing iota subscript (dative `αἰσχύνῃ`); found by translation review.
+245	21	περιτρέψας	περιστρέψας	yes	edition	XXX 11; missing sigma (`περιστρέψας`); found by translation review.
+248	6	δίψει	δίψῃ	yes	edition	XXX 56; `δίψει` for `δίψῃ` with feminine article `τῇ`; found by translation review.
+252	18	Ἀγενὲς	Ἀγεννὲς	yes	edition	XXX 148; single nu for double nu (`Ἀγεννὲς`); found by translation review.
+264	8	πυκτὴν	πηκτὴν	yes	edition	XXXII 60; `πυκτὴν` for `πηκτὴν` (frozen); found by translation review.
+290	14	ἐπιῤῥοῆς	ἐπιῤῥοῆς·	yes	edition	Note to I; missing middle dot; found by translation review.
+290	34	ἐρημώσεως.	ἐρημώσεως.»	yes	edition	Note to I; missing closing guillemet; found by translation review.
+295	17	Ὀρέσιος	Ὀρόσιος	yes	edition	Note to V. 57; `Ὀρέσιος` for `Ὀρόσιος` (Orosius); found by translation review.
+303	25	στίχ·	στίχ.	yes	edition	Note to IX; middle dot for period; found by translation review.
+304	21	ἐκεῖ	ἐκεῖ”	yes	edition	Note to X; missing closing quote before `(Ἰωήλ, Γ΄, 2)`; found by translation review.
+307	34	10·	10.	yes	edition	Note to XI; middle dot for period; found by translation review.
+311	35	Fisole	Fiesole	yes	edition	Note to XIII; `Fisole` for `Fiesole`; found by translation review.
+312	25	ὁμὲν	ὁ μὲν	yes	edition	Note to XIII; missing space (`ὁ μὲν`); found by translation review.
+312	30	Λυβικῆς	Λιβυκῆς	yes	edition	Note to XIV. 15; `Λυβικῆς` for `Λιβυκῆς`; found by translation review.
+315	32	Γιγδο-	Γουϊδο-	yes	edition	Note to XVI. 37; `Γιγδο-` for `Γουϊδο-` (Guidoguerra); found by translation review.
+324	15	Livy	Lilly	yes	edition	Note to XX; `William Livy` for `William Lilly`; found by translation review.
+326	13	κλωπειῶν	κλοπειῶν	yes	edition	Note to XXII; `κλωπειῶν` for `κλοπειῶν`; found by translation review.
+329	26	Ciamfa	Cianfa	yes	edition	Note to XXV. 43; `Ciamfa` for `Cianfa`; found by translation review.
+334	28	Colona	Colonna	yes	edition	Note to XXVII; `Colona` for `Colonna`; found by translation review.
+335	20	ἐξόριστος,	ἐξόριστος.	yes	edition	Note to XXVII; comma for period before `Τοῦτο`; found by translation review.
+337	27	ῥυθμητὴς	ῥυθμιστὴς	yes	edition	Note to XXVIII. 55; `ῥυθμητὴς` for `ῥυθμιστὴς`; found by translation review.
+343	16	κρύφθητι	κρύφθητι.	yes	edition	Note to XXXI; missing period at end of sentence; found by translation review.
+349	5	σημ	σημ.	yes	edition	Note to XXXIV. 20; missing period after `σημ`; found by translation review.

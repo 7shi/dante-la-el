@@ -1615,3 +1615,41 @@ page	line	form	decision	note
 350	29	ᾍδου·	misread	cmp B; was `ᾍδου.`; the colon dot printed
 350	30	ἐστὶν	misread	cmp A; was `ἐστιν`
 351	1	331	misread	cmp B; the page number after the running head, not before it
+040	10	{{ἀγενῶς|ἀγεννῶς}}	misprint	translation review (for-main.tsv); III 60; single nu for double nu (`ἀγεννῶς`); found by translation review.
+074	14	{{ὅλας.|ὅλας.”}}	misprint	translation review (for-main.tsv); VII 126; missing closing quote; found by translation review.
+087	5	Ἀλλ᾿ ἣ	misread	translation review (for-main.tsv); was `Ἀλλ᾿ ἢ`; IX 96; rough breathing printed in scan 087; found by translation review.
+112	15	{{γυπὰς|γύπας}}	misprint	translation review (for-main.tsv); XIII 10; wrong accent (`γυπὰς` for `γύπας`, vultures); found by translation review.
+126	19	{{ποίων|τοίων}}	misprint	translation review (for-main.tsv); XIV 132; `ποίων` for `τοίων`; found by translation review.
+131	21	{{Βόσκην|Βοσκὴν}}	misprint	translation review (for-main.tsv); XV 73; wrong accent (`Βόσκην` for `Βοσκὴν`); found by translation review.
+157	5	{{λυτρώνων|λουτρώνων}}	misprint	translation review (for-main.tsv); XVIII 114; `λυτρώνων` for `λουτρώνων`; found by translation review.
+159	8	{{ἡμᾶς|ὑμᾶς}}	misprint	translation review (for-main.tsv); XIX 5; `ἡμᾶς` for `ὑμᾶς`; found by translation review.
+161	16	{{πατάλου|παττάλου}}	misprint	translation review (for-main.tsv); XIX 47; single tau for double tau (`παττάλου`); found by translation review.
+175	21	{{πλέεις|πλέῃς}}	misprint	translation review (for-main.tsv); XXI 51; indicative `πλέεις` for subjunctive `πλέῃς` after `μὴ`; found by translation review.
+176	6	{{κρεάργαις|κρεάγραις}}	misprint	translation review (for-main.tsv); XXI 57; transposed letters (`κρεάργαις` for `κρεάγραις`); found by translation review.
+179	9	{{Κογνάζε|Καγνάζε}}	misprint	translation review (for-main.tsv); XXI 119; `Κογνάζε` for `Καγνάζε` (Cagnazzo); found by translation review.
+187	18	{{κέρκου|κίρκου}}	misprint	translation review (for-main.tsv); XXII 130; `κέρκου` for `κίρκου` (falcon); found by translation review.
+213	10	{{αἰσχύνη|αἰσχύνῃ}}	misprint	translation review (for-main.tsv); XXVI 5; missing iota subscript (dative `αἰσχύνῃ`); found by translation review.
+241	14	Οὑμὸς	misread	translation review (for-main.tsv); was `Οὐμὸς`; XXIX 86; rough breathing printed in scan 241; found by translation review.
+245	21	{{περιτρέψας|περιστρέψας}}	misprint	translation review (for-main.tsv); XXX 11; missing sigma (`περιστρέψας`); found by translation review.
+248	6	{{δίψει|δίψῃ}}	misprint	translation review (for-main.tsv); XXX 56; `δίψει` for `δίψῃ` with feminine article `τῇ`; found by translation review.
+252	18	{{Ἀγενὲς|Ἀγεννὲς}}	misprint	translation review (for-main.tsv); XXX 148; single nu for double nu (`Ἀγεννὲς`); found by translation review.
+264	8	{{πυκτὴν|πηκτὴν}}	misprint	translation review (for-main.tsv); XXXII 60; `πυκτὴν` for `πηκτὴν` (frozen); found by translation review.
+290	14	{{ἐπιῤῥοῆς|ἐπιῤῥοῆς·}}	misprint	translation review (for-main.tsv); Note to I; missing middle dot; found by translation review.
+290	34	{{ἐρημώσεως.|ἐρημώσεως.»}}	misprint	translation review (for-main.tsv); Note to I; missing closing guillemet; found by translation review.
+295	17	{{Ὀρέσιος|Ὀρόσιος}}	misprint	translation review (for-main.tsv); Note to V. 57; `Ὀρέσιος` for `Ὀρόσιος` (Orosius); found by translation review.
+303	25	{{στίχ·|στίχ.}}	misprint	translation review (for-main.tsv); Note to IX; middle dot for period; found by translation review.
+304	7	νεκρὼν	printed	translation review (for-main.tsv); Note to IX. 112; revert erroneous misprint mark: printed `νεκρὼν` (masc. nom. sg. νεκρών, burial ground, with grave before Ἠλύσιον) is correct; found by translation review.
+304	21	{{ἐκεῖ|ἐκεῖ”}}	misprint	translation review (for-main.tsv); Note to X; missing closing quote before `(Ἰωήλ, Γ΄, 2)`; found by translation review.
+307	34	{{10·|10.}}	misprint	translation review (for-main.tsv); Note to XI; middle dot for period; found by translation review.
+311	35	{{Fisole|Fiesole}}	misprint	translation review (for-main.tsv); Note to XIII; `Fisole` for `Fiesole`; found by translation review.
+312	25	{{ὁμὲν|ὁ μὲν}}	misprint	translation review (for-main.tsv); Note to XIII; missing space (`ὁ μὲν`); found by translation review.
+312	30	{{Λυβικῆς|Λιβυκῆς}}	misprint	translation review (for-main.tsv); Note to XIV. 15; `Λυβικῆς` for `Λιβυκῆς`; found by translation review.
+315	32	{{Γιγδο-|Γουϊδο-}}	misprint	translation review (for-main.tsv); Note to XVI. 37; `Γιγδο-` for `Γουϊδο-` (Guidoguerra); found by translation review.
+324	15	{{Livy|Lilly}}	misprint	translation review (for-main.tsv); Note to XX; `William Livy` for `William Lilly`; found by translation review.
+326	13	{{κλωπειῶν|κλοπειῶν}}	misprint	translation review (for-main.tsv); Note to XXII; `κλωπειῶν` for `κλοπειῶν`; found by translation review.
+329	26	{{Ciamfa|Cianfa}}	misprint	translation review (for-main.tsv); Note to XXV. 43; `Ciamfa` for `Cianfa`; found by translation review.
+334	28	{{Colona|Colonna}}	misprint	translation review (for-main.tsv); Note to XXVII; `Colona` for `Colonna`; found by translation review.
+335	20	{{ἐξόριστος,|ἐξόριστος.}}	misprint	translation review (for-main.tsv); Note to XXVII; comma for period before `Τοῦτο`; found by translation review.
+337	27	{{ῥυθμητὴς|ῥυθμιστὴς}}	misprint	translation review (for-main.tsv); Note to XXVIII. 55; `ῥυθμητὴς` for `ῥυθμιστὴς`; found by translation review.
+343	16	{{κρύφθητι|κρύφθητι.}}	misprint	translation review (for-main.tsv); Note to XXXI; missing period at end of sentence; found by translation review.
+349	5	{{σημ|σημ.}}	misprint	translation review (for-main.tsv); Note to XXXIV. 20; missing period after `σημ`; found by translation review.

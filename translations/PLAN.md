@@ -12,7 +12,7 @@ completed work is recorded in [`DONE.md`](DONE.md).
   `ja/en-oelsner/` `001`–`041`, `ja/en-purgatorio/` `001`–`040`, `ja/en-paradiso/`
   `001`–`039`), Musurus's Greek *Inferno* (`{en,ja}/grc/` `001`–`038`, 38 files),
   cross-volume proper-name audit and `PROPER_NAMES.tsv` tables, [`GUIDE.md`](GUIDE.md),
-  and all `en*` `for-main.tsv` fixes merged and applied on `main` (`71c2b827`).
+  and all `en*` (`71c2b827`) and `grc` `for-main.tsv` fixes merged and applied on `main`.
 - **Next**: `la` (Serravalle Latin edition, 111 files), following the two-stage workflow
   in [`GUIDE.md`](GUIDE.md) Step 6.
 
