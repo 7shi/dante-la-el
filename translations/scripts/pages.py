@@ -82,34 +82,61 @@ def is_prose(block):
 
 
 GLOSS = re.compile(r"^\d{1,3}\\\. ")
+LA_GLOSS = re.compile(r"^\(\d+\) ")
+SIG_MARK = re.compile(r"^(?:[0-9]{1,2}|[IVX]{1,4})$")
+TERCET_NUM = re.compile(r"^(?:\[)?(\d{1,2}) ")
+
+
+def is_la_src(src):
+    return src.resolve().parent.name == "la"
 
 
 def last_prose(bs, i):
     """The last prose block of the page that ends before the marker bs[i]; the glosses
-    under the verse (`12\\. Alto, high, …`) are not counted."""
+    under the verse (`12\\. Alto, high, …` or `(1) costui.`) and stray signature marks
+    are not counted."""
     for j in range(i - 1, -1, -1):
         if MARKER.match(bs[j]) or bs[j].startswith("#"):
             return None
-        if is_prose(bs[j]) and not GLOSS.match(bs[j]):
+        if (is_prose(bs[j]) and not GLOSS.match(bs[j])
+                and not LA_GLOSS.match(bs[j]) and not SIG_MARK.match(bs[j].strip())):
             return j
     return None
 
 
-def joins(bs, dec={}):
+def first_prose(bs, i, skip_verse=False):
+    """The first prose block after the marker bs[i]. When skip_verse is True (used for
+    `la`), verse blocks and gloss lines immediately following the page marker are skipped."""
+    if not skip_verse:
+        return i + 1 if i + 1 < len(bs) and is_prose(bs[i + 1]) else None
+    for k in range(i + 1, len(bs)):
+        b = bs[k]
+        if MARKER.match(b) or b.startswith(("#", "[^")):
+            return None
+        if is_verse(b) or GLOSS.match(b) or LA_GLOSS.match(b):
+            continue
+        return k if is_prose(b) else None
+    return None
+
+
+def joins(bs, dec={}, skip_verse=False):
     """(i, j, k): the marker bs[i], the prose bs[j] that runs on, its continuation bs[k].
     dec: the decided places (decided())."""
     out = []
     for i, b in enumerate(bs):
-        if not MARKER.match(b) or i + 1 >= len(bs) or not is_prose(bs[i + 1]):
+        if not MARKER.match(b):
+            continue
+        k = first_prose(bs, i, skip_verse=skip_verse)
+        if k is None:
             continue
         j = last_prose(bs, i)
         if j is None:
             continue
         if b in dec:
             if dec[b]:
-                out.append((i, j, i + 1))
-        elif bs[i + 1].lstrip()[:1].islower() or not ending(bs[j]).endswith(END):
-            out.append((i, j, i + 1))
+                out.append((i, j, k))
+        elif bs[k].lstrip()[:1].islower() or not ending(bs[j]).endswith(END):
+            out.append((i, j, k))
     return out
 
 
@@ -117,24 +144,27 @@ def ending(block):
     return REF.sub("", block).rstrip()
 
 
-def doubtful(bs, dec={}):
+def doubtful(bs, dec={}, skip_verse=False):
     """Markers not joined where the page before ends in a weak stop (; : , —), and not
     decided."""
-    joined = {i for i, _, _ in joins(bs, dec)}
+    joined = {i for i, _, _ in joins(bs, dec, skip_verse=skip_verse)}
     out = []
     for i, b in enumerate(bs):
-        if not MARKER.match(b) or i in joined or b in dec or i + 1 >= len(bs) or not is_prose(bs[i + 1]):
+        if not MARKER.match(b) or i in joined or b in dec:
+            continue
+        k = first_prose(bs, i, skip_verse=skip_verse)
+        if k is None:
             continue
         j = last_prose(bs, i)
         if j is not None and ending(bs[j]).rstrip("”’").endswith(tuple(";:,—")):
-            out.append(i)
+            out.append((i, k))
     return out
 
 
-def roots(bs, dec={}):
+def roots(bs, dec={}, skip_verse=False):
     """For each join: the index of the block where the paragraph begins."""
     root, out = {}, []
-    for i, j, k in joins(bs, dec):
+    for i, j, k in joins(bs, dec, skip_verse=skip_verse):
         r = root.get(j, j)
         root[k] = r
         out.append((i, r, k))
@@ -150,14 +180,14 @@ def page_before(bs, i):
 
 
 def prepare(src):
-    bs, dec = load(src), decided(src)
+    bs, dec, sv = load(src), decided(src), is_la_src(src)
     text, removed, report = list(bs), set(), []
-    for i, r, k in roots(bs, dec):
+    for i, r, k in roots(bs, dec, skip_verse=sv):
         report.append(f"{bs[i]}\t…{text[r].rstrip()[-30:]} | {bs[k].lstrip()[:30]}…")
         text[r] = text[r].rstrip() + " " + bs[k].lstrip()
         removed.add(k)
-    for i in doubtful(bs, dec):
-        report.append(f"{bs[i]}\tdoubtful, not joined: {bs[i + 1].lstrip()[:30]}…")
+    for i, k in doubtful(bs, dec, skip_verse=sv):
+        report.append(f"{bs[i]}\tdoubtful, not joined: {bs[k].lstrip()[:30]}…")
     out = [t for n, t in enumerate(text) if n not in removed]
     return "\n\n".join(out) + "\n", report
 
@@ -165,7 +195,7 @@ def prepare(src):
 def finish(src, translated):
     bs = load(src)
     joined = {}
-    for i, r, k in roots(bs, decided(src)):
+    for i, r, k in roots(bs, decided(src), skip_verse=is_la_src(src)):
         p, n = page_before(bs, r)
         joined[bs[i]] = f"<!-- first paragraph joined to p. {p} ({n}) -->"
     lines, missing = [], set(joined)
@@ -180,13 +210,20 @@ def finish(src, translated):
     return "\n".join(lines).rstrip("\n") + "\n"
 
 
-def shape(text, count_verse_lines=False):
+def shape(text, count_verse_lines=False, skip_italian_tercets=False):
     """The structure of a text: markers and footnote IDs as they are, headings by level,
     verse as V (or V:N with line count when count_verse_lines is True), a paragraph as P
     with the footnote references in it."""
+    bs = blocks(text)
     out = []
-    for b in blocks(text):
+    for i, b in enumerate(bs):
         b = b.strip()
+        if skip_italian_tercets and is_verse(b):
+            m = TERCET_NUM.match(b)
+            if m and i + 1 < len(bs) and is_verse(bs[i + 1].strip()):
+                m2 = TERCET_NUM.match(bs[i + 1].strip())
+                if m2 and m2.group(1) == m.group(1):
+                    continue
         if b.startswith("<!--"):
             out.extend(l for l in b.splitlines() if "paragraph joined to" not in l)
         elif b.startswith("#"):
@@ -200,12 +237,15 @@ def shape(text, count_verse_lines=False):
     return out
 
 
-def check(src, translated, keep_verse=False):
+def check(src, translated, keep_verse=False, skip_italian_tercets=False):
     """Compare the translator's output with the input it was given. Returns the
     differences, and the paragraphs whose footnote references come in another order (which
     Japanese word order may need; reported, not counted as a difference)."""
     import difflib
-    if keep_verse:
+    if skip_italian_tercets:
+        a = shape(prepare(src)[0], count_verse_lines=True, skip_italian_tercets=True)
+        b = shape(translated, count_verse_lines=True)
+    elif keep_verse:
         a = shape(prepare(src)[0], count_verse_lines=True)
         b = shape(translated, count_verse_lines=True)
     else:
@@ -233,6 +273,8 @@ def main():
     c.add_argument("translation", type=Path, help="the translator's output")
     c.add_argument("--keep-verse", action="store_true",
                    help="include verse blocks (with line counts) in the comparison")
+    c.add_argument("--skip-italian-tercets", action="store_true",
+                   help="for `la`: skip Italian tercets and keep Latin tercets/other verse with line counts")
     a = ap.parse_args()
 
     if a.cmd == "prepare":
@@ -244,7 +286,8 @@ def main():
         print(f"{len(report)} joined", file=sys.stderr)
     elif a.cmd == "check":
         diff, order = check(a.source, a.translation.read_text(encoding="utf-8"),
-                            keep_verse=a.keep_verse)
+                            keep_verse=a.keep_verse,
+                            skip_italian_tercets=a.skip_italian_tercets)
         print("\n".join(diff) if diff else "same structure")
         for o in order:
             print(f"references reordered: {o}")

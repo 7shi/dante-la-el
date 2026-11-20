@@ -13,8 +13,9 @@ completed work is recorded in [`DONE.md`](DONE.md).
   `001`–`039`), Musurus's Greek *Inferno* (`{en,ja}/grc/` `001`–`038`, 38 files),
   cross-volume proper-name audit and `PROPER_NAMES.tsv` tables, [`GUIDE.md`](GUIDE.md),
   and all `en*` (`71c2b827`) and `grc` `for-main.tsv` fixes merged and applied on `main`.
-- **Next**: `la` (Serravalle Latin edition, 111 files), following the two-stage workflow
-  in [`GUIDE.md`](GUIDE.md) Step 6.
+- **Next / In progress**: `la` (Serravalle Latin edition, 110 files), following the two-stage workflow
+  in [`GUIDE.md`](GUIDE.md) Step 6. Trial completed (`006-epistola.md`, `008-inferno-canto-01.md`);
+  remaining 108 files prepared in `tmp/translate/la/` for Codex delegation.
 
 ## Project-specific conventions
 
@@ -70,27 +71,44 @@ handling follow [`GUIDE.md`](GUIDE.md). Project-specific decisions:
   `Ottimo Com.`, `Ovid, *Metam*.`) as written (katakana when used as sentence subjects);
   `Lit.:` → 直訳では, `"See X"` → `X を参照`, `"Compare X"` → `X と比較せよ`.
 
-## Not settled
+## Settled conventions for `la` (Serravalle, 110 files)
 
-- **`la` (111 files, ~1,300 scans)**:
-  - Format for parallel-text translations of Serravalle's Latin tercet translations alongside
-    the skipped Italian tercets and Latin commentary (tercet/line alignment, line numbers,
-    trailing `\`, and how `pages.py` handles translated Latin verse blocks vs. skipped
-    Italian verse).
-  - How italics, Latin lemmas, and cross-page commentary structure are handled with
-    `pages.py`.
-  - Two-stage workflow ([`GUIDE.md`](GUIDE.md) Step 6, already proven on `grc`):
-    1. Translate `la` into English first under `translations/en/la/`, conforming proper
-       names to `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` and
-       `translations/ja/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` (plus
-       [`ja/en/PROPER_NAMES.md`](ja/en/PROPER_NAMES.md)).
-    2. Translate directly from `la` into Japanese under `translations/ja/la/`, using
-       `translations/en/la/` as reference for verification and refinement (not relay
-       translation).
+- **Scope**: Translate all Latin front/back matter, *Summarium*, Latin tercet translations
+  (as reading aids), Latin commentary, and all 1891 Italian editorial matter (`002`, `003`,
+  end-of-canto essays, and `(1) ...` manuscript gloss lines under the tercets). **Skip
+  Italian verse tercets only.**
+- **Latin tercet format**: Preserve tercet number (`1 `, `2 `, …), `&emsp;` indentation on
+  lines 2–3 (and line 4 where present), and trailing `\` line breaks 1-to-1 with the Latin
+  source.
+- **Lemmas (`*...*`) and incipit quotations**: Keep Italian lemmas and standalone Italian
+  incipit lines verbatim in Italian; translate Latin lemmas and standalone Latin incipit
+  lines into the target language (EN keeps `*...*`; JA renders translated lemmas in `「…」`).
+- **Headings**: Keep `#` level (`# Infernus` → `# Inferno` / `# 地獄篇`,
+  `# Capituli N Summarium` → `# Summary of Canto N` / `# 第N歌 要約`,
+  `# Capitulum N` → `# Canto N` / `# 第N歌`, essay titles translated).
+- **`pages.py` support**:
+  - `prepare` / `finish` / `check` automatically skip leading verse blocks and `(1) ...`
+    gloss lines when joining cross-page commentary paragraphs in `texts/la/`, and skip stray
+    signature marks (`III`/`IV`/`V`/`2`/`3`, logged in [`for-main.tsv`](for-main.tsv)).
+  - `check --skip-italian-tercets` skips Italian tercets (the first block of each numbered
+    tercet pair) and verifies Latin tercets and all other verse blocks 1-to-1 (`V:N`).
+  - All 7 doubtful boundaries and `110-index.md` p. 1236 (1290) are decided in
+    [`joins.tsv`](joins.tsv).
+- **Two-stage workflow** ([`GUIDE.md`](GUIDE.md) Step 6):
+  1. Stage 1 (`translations/en/la/`): translate `la` into English, conforming proper names
+     to `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv` (and `texts/en/PROPER_NAMES.tsv`).
+  2. Stage 2 (`translations/ja/la/`): translate directly from `texts/la/` into Japanese,
+     using `translations/en/la/` as reference for cross-checking and refinement (not relay
+     translation), conforming proper names to `translations/ja/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv`
+     and [`ja/en/PROPER_NAMES.md`](ja/en/PROPER_NAMES.md).
+- **Trial completed**: `006-epistola.md` and `008-inferno-canto-01.md` landed in
+  `translations/{en,ja}/la/` (`pages.py check --skip-italian-tercets` → `same structure`).
+- **Delegation**: Remaining 108 files prepared in `tmp/translate/la/in/` with per-file
+  cold-start prompts `tmp/translate/la/task-{NNN}.md` for Codex.
 
 ## Remaining steps
 
-1. `la` (Latin front/back matter, verse-translation reading aids, and commentary; 111 files):
+1. `la` (Latin front/back matter, verse-translation reading aids, and commentary; 110 files):
    `translations/en/la/` → `translations/ja/la/`.
 2. `translations/README.md` (structure, excluded files, usage).
 3. HTML side-by-side conversion pairing `texts/` and `translations/{en,ja}/`.
