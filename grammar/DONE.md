@@ -44,3 +44,21 @@ The review (2026-11-19):
   - `029-canto-28.md` (lines 75, 79): balanced emphasis markers (`*`) inside two quoted English spans.
   - `033-canto-32.md` (line 93): normalized the literal gloss of *il nome tuo* to `‘the name thy’ → “thy name”`.
   - `034-canto-33.md` (line 15 and summary): recognized Old Italian dative *i* (‘to him’) in *perchè i son tal vicino* rather than treating “to him” as supplied, and replaced that summary example with *di sopra* → “above on earth”.
+
+## 2. grammar/en-purgatorio
+
+`make grammar CANTICLE=purgatorio SOURCE=en-purgatorio`: the Italian of the Temple Classics Purgatorio (`texts/en-purgatorio/`, edited by Oelsner) compared spread by spread (`source.oelsner_passages`) with Thomas Okey's English translation. All 33 cantos of the Purgatorio were generated (`gpt-6.2-astra`).
+
+The review (2026-11-20):
+
+- `fix_quote_blocks.py -s en-purgatorio -d grammar/en-purgatorio -n` reported no changes, and `grammar.py --notes` found no translation notes.
+- Checked by script over all 33 cantos: every canto has its summary; the sections match `source.oelsner_passages` from line 1 to the last line of the canto with no gap or overlap; the English joined per section matches the source word for word; every double-quoted phrase in the bullets and summaries is found in the English with balanced emphasis markers (`*`, `_`). Bullets per line (1.24–1.53, mean 1.36) and the length of the summaries (246–324 words, mean 286) are even over the cantos.
+- No bullet is given only to a subject supplied from the verb ending, an article before a possessive left out, or capitals, punctuation, or spelling. The bullets whose rendering differs from the translation only in an article (133) are kept. Of the four remaining Italian phrases not matching verbatim within their range, all take up words of the end of the preceding line carried over into the English of that range (*ma, se a voi piace cosa ch' io possa* V 60–61, *io scoppio* XVI 54, *ch' io venni presta ad ogni tua question* XXVIII 84, *ed esso mi rispose* XXIX 57).
+- Read: cantos III 115–145, XVI 1–39, and XXX 1–39 (with summaries of III, XVI, and XXX) in full, and 40 bullets drawn at random from all cantos.
+- Corrected (6 files):
+  - `003-canto-02.md` (line 118): fixed Italian typo *apparsen ali* → *apparser ali*.
+  - `004-canto-03.md` (line 601, summary): fixed doubled article in `becomes a “sharp a sting” in the exclamation “how sharp a sting”` → `becomes “how sharp a sting” in the exclamation`.
+  - `006-canto-05.md` (line 154): removed soft hyphen (`U+00AD`) in *facciangli onore*.
+  - `015-canto-14.md` (line 204): fixed Italian typo *ad a lor* → *a lor*.
+  - `020-canto-19.md` (line 317): corrected *agli alti saliri* to the source reading *verso gli alti saliri* and dropped the claim of a preposition change.
+  - `031-canto-30.md` (line 226): fixed Italian typo *ad ben far* → *a ben far*.
