@@ -9,9 +9,9 @@ The grammar commentaries still to be made, in this order; step 1, `grammar/en/`,
 | 4 | `grammar/el-grc/` | Musurus's Greek (`texts/grc/`) | the Modern Greek translation of it (`commentary/el-grc/`) | Inferno (Purgatorio and Paradiso: see the step) |
 | 5 | `grammar/la/` | Serravalle's Latin (`texts/la/`) | the Italian of the same edition; both with a new English translation | Inferno, Purgatorio, Paradiso |
 
-## Rebase onto main
+## Sync with main
 
-The `el` branch has been merged into `main` (see [DONE.md](DONE.md)), and work continues on the `commentary` branch. If `translations` or other work on `main` changes `texts/` before `commentary` is merged, `commentary` is to be rebased onto `main` and the reports checked as [editions/PLAN.md](../editions/PLAN.md) says. A change to the English of `texts/en/` may also call for a block of `grammar/en/` to be updated.
+The `el` and `commentary` branches have been merged into `main` (see [DONE.md](DONE.md)), and work continues on a fresh `commentary` branch from `main`. If `translations` or other work on `main` changes `texts/en*`, run `fix_quote_blocks.py`, check any affected English quotes and bullets in `grammar/`, and check the reports as [editions/PLAN.md](../editions/PLAN.md) says.
 
 ## 2. grammar/en-paradiso
 

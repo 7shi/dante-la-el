@@ -19,3 +19,10 @@ The rebase added the leaf of Oelsner's Inferno with pp. 385–386 (canto XXXIV: 
 - `uv run scripts/compare_editions.py en` was run again: `punctuation only` changed from `603` to `602`; all other counts and word differences were unchanged.
 - `en-carlyle-oelsner.md` was updated (`603` → `602`).
 - `uv run scripts/compare_editions.py it` was unchanged.
+
+## After the merge into main (71c2b827)
+
+`commentary` was merged into `main` (`b565e9da`), and the `translations/for-main.tsv` fixes in `texts/en-oelsner/` (`71c2b827`: a missing quotation mark in canto VII's English, a missing quotation mark in canto IX line 131's Italian, and an Argument name fix in canto XXII) were checked:
+
+- `uv run scripts/compare_editions.py en` was run again: all counts (`punctuation 602`, `case 377`, `words 358`, `marked 212`) and tables in `en-carlyle-oelsner.md` were unchanged.
+- `uv run scripts/compare_editions.py it` was unchanged (`160 / 1874 / 2367 / 194 / 125`), and the affected lines are not in the tables of `it-carlyle.md`.

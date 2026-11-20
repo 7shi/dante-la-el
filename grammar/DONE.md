@@ -62,3 +62,13 @@ The review (2026-11-20):
   - `015-canto-14.md` (line 204): fixed Italian typo *ad a lor* → *a lor*.
   - `020-canto-19.md` (line 317): corrected *agli alti saliri* to the source reading *verso gli alti saliri* and dropped the claim of a preposition change.
   - `031-canto-30.md` (line 226): fixed Italian typo *ad ben far* → *a ben far*.
+
+## Merge into main and texts/en-* update (71c2b827)
+
+The `commentary` branch was merged into `main` (`b565e9da`), and the `translations/for-main.tsv` fixes in `texts/en-oelsner/` and `texts/en-purgatorio/` (`71c2b827`) were applied:
+
+- `fix_quote_blocks.py -s en-oelsner -d grammar/en-oelsner` updated `grammar/en-oelsner/010-canto-09.md` (closing quotation mark on line 131); `en-purgatorio` had no Italian quote-block changes.
+- Restored missing closing quotation marks in the English of `grammar/en-oelsner/008-canto-07.md` (line 66) and `grammar/en-purgatorio/` (`023-canto-22.md` line 154, `028-canto-27.md` line 142, `032-canto-31.md` line 12).
+- Fixed the displaced turnover `[discerned!` in the English of `grammar/en-purgatorio/013-canto-12.md` (lines 61–63) and updated the bullet for *che lì si discerne*.
+- `grammar/en-paradiso/` has not been generated yet, so the `texts/en-paradiso/` fixes will be picked up automatically.
+- Work continues on the `commentary` branch, recreated from `main` (`b565e9da`).
