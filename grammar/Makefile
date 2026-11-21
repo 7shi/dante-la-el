@@ -15,10 +15,13 @@ LANG_CODE ?= el
 SOURCE ?= it
 PROSE_SOURCES = en en-oelsner en-purgatorio en-paradiso
 PROSE = $(filter $(PROSE_SOURCES),$(SOURCE))
+# Musurus's Greek explained against Oelsner's Italian/English + translations/en/grc/
+GRC_EN = $(if $(filter grc,$(SOURCE)),$(filter en,$(LANG_CODE)))
+BLOCK_MODE = $(or $(PROSE),$(GRC_EN))
 # The translations quoted, in ../commentary/ (see its Makefile)
 DIR = ../commentary/$(if $(filter it,$(SOURCE)),$(LANG_CODE),$(LANG_CODE)-$(SOURCE))
-# The output: <lang>-<source>, or <source> for a source printed with its own translation
-OUT = $(if $(PROSE),$(SOURCE),$(LANG_CODE)-$(SOURCE))
+# The output: <lang>-<source>, or <source> for a block-mode source (prose or grc with LANG=en)
+OUT = $(if $(BLOCK_MODE),$(SOURCE),$(LANG_CODE)-$(SOURCE))
 
 .PHONY: help grammar grammar-notes fix-grammar-quotes
 
@@ -27,29 +30,30 @@ help:
 	@echo "       make grammar-notes CANTICLE=<canticle> [CANTO=<spec>]"
 	@echo "       make fix-grammar-quotes"
 	@echo "       every target takes LANG=<el|eo|en> (default: el) and SOURCE=<it|grc> (default: it)"
+	@echo "       with SOURCE=grc LANG=en, Musurus's Greek (and translations/en/grc/) is explained"
+	@echo "       against Oelsner's Italian and English, in grc/"
 	@echo "       every target also takes SOURCE=en (the Italian of Carlyle's Inferno) or"
 	@echo "       SOURCE=en-oelsner, en-purgatorio, en-paradiso (that of the Temple Classics),"
 	@echo "       explained against the English printed with it (without LANG), in <source>/"
 	@echo ""
-	@echo "  grammar      Write $(OUT)/<canticle>/NN.md (for en and the Temple Classics, named"
-	@echo "               as in ../texts/<source>/), a grammar commentary in English on"
-	@echo "               every line of the $(SOURCE) source, quoting the translations of $(DIR)/"
-	@echo "               (for en and the Temple Classics, a comparison with the English, block by block)"
+	@echo "  grammar      Write $(OUT)/<canticle>/NN.md (for en, the Temple Classics, and"
+	@echo "               SOURCE=grc LANG=en, named as in ../texts/<source>/), a grammar"
+	@echo "               commentary in English on every line of the $(SOURCE) source"
 	@echo "  grammar-notes List the translation notes of the grammar commentaries, without calling the model"
 	@echo "  fix-grammar-quotes Rebuild the quote blocks of the commentaries in $(OUT)/ from the source and $(DIR)/"
-	@echo "               (for en and the Temple Classics, from the source alone)"
+	@echo "               (for en, the Temple Classics, and SOURCE=grc LANG=en, from texts/ and translations/)"
 
 grammar:
 ifndef CANTICLE
 	$(error CANTICLE is required: inferno, purgatorio, or paradiso)
 endif
-	uv run scripts/grammar.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -m $(MODEL) $(if $(PROSE),,-l $(LANG_CODE) -d $(DIR)) -s $(SOURCE) -o $(OUT)
+	uv run scripts/grammar.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -m $(MODEL) $(if $(PROSE),,-l $(LANG_CODE)) $(if $(BLOCK_MODE),,-d $(DIR)) -s $(SOURCE) -o $(OUT)
 
 grammar-notes:
 ifndef CANTICLE
 	$(error CANTICLE is required: inferno, purgatorio, or paradiso)
 endif
-	uv run scripts/grammar.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -n -s $(SOURCE) -o $(OUT)
+	uv run scripts/grammar.py $(CANTICLE) $(if $(CANTO),-c $(CANTO)) -n $(if $(PROSE),,-l $(LANG_CODE)) -s $(SOURCE) -o $(OUT)
 
 fix-grammar-quotes:
-	uv run ../commentary/scripts/fix_quote_blocks.py -d $(OUT) -s $(SOURCE) $(if $(PROSE),,-t $(DIR))
+	uv run ../commentary/scripts/fix_quote_blocks.py -d $(OUT) -s $(SOURCE) $(if $(BLOCK_MODE),,-t $(DIR))
