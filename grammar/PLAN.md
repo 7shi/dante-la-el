@@ -1,10 +1,9 @@
 # Plan
 
-The grammar commentaries still to be made, in this order; step 1, `grammar/en/`, and the Inferno and Purgatorio of step 2 (`grammar/en-oelsner/`, `grammar/en-purgatorio/`) are done (see [DONE.md](DONE.md)). Each is written in English by [scripts/grammar.py](README.md#scriptsgrammarpy); the user runs the model, and each set is reviewed once all its cantos are done. The translations they need from `commentary/` are planned in [commentary/PLAN.md](../commentary/PLAN.md), and what remains on the reports of `editions/` in [editions/PLAN.md](../editions/PLAN.md).
+The grammar commentaries still to be made, in this order; step 1 (`grammar/en/`) and step 2 (`grammar/en-oelsner/`, `grammar/en-purgatorio/`, `grammar/en-paradiso/`) are done (see [DONE.md](DONE.md)). Each is written in English by [scripts/grammar.py](README.md#scriptsgrammarpy); the user runs the model, and each set is reviewed once all its cantos are done. The translations they need from `commentary/` are planned in [commentary/PLAN.md](../commentary/PLAN.md), and what remains on the reports of `editions/` in [editions/PLAN.md](../editions/PLAN.md).
 
 | Step | Output | Source | Explained against | Canticles |
 |---|---|---|---|---|
-| 2 | `grammar/en-paradiso/` | the Italian of the Temple Classics (`texts/en-paradiso/`) | the English printed with it (Wicksteed) | Paradiso (`grammar/en-oelsner/`, Inferno, and `grammar/en-purgatorio/`, Purgatorio, are done) |
 | 3 | `commentary/en-grc/`, then `grammar/grc/` | Musurus's Greek (`texts/grc/`) | Oelsner's Italian and English beside the Greek and a literal English of it (`commentary/en-grc/`) | Inferno |
 | 4 | `grammar/el-grc/` | Musurus's Greek (`texts/grc/`) | the Modern Greek translation of it (`commentary/el-grc/`) | Inferno (Purgatorio and Paradiso: see the step) |
 | 5 | `grammar/la/` | Serravalle's Latin (`texts/la/`) | the Italian of the same edition; both with a new English translation | Inferno, Purgatorio, Paradiso |
@@ -12,13 +11,6 @@ The grammar commentaries still to be made, in this order; step 1, `grammar/en/`,
 ## Sync with main
 
 The `el` and `commentary` branches have been merged into `main` (see [DONE.md](DONE.md)), and work continues on a fresh `commentary` branch from `main`. If `translations` or other work on `main` changes `texts/en*`, run `fix_quote_blocks.py`, check any affected English quotes and bullets in `grammar/`, and check the reports as [editions/PLAN.md](../editions/PLAN.md) says.
-
-## 2. grammar/en-paradiso
-
-The comparison of step 1 for the remaining volume of the Temple Classics edition (`grammar/en-oelsner/`, Inferno, and `grammar/en-purgatorio/`, Purgatorio, are done; see [DONE.md](DONE.md#2-grammaren-oelsner) and [DONE.md](DONE.md#2-grammaren-purgatorio)): Wicksteed's English against Oelsner's Italian.
-
-- `commentary/scripts/source.py` and `grammar.py` support `en-paradiso`, cut by `source.oelsner_passages` (one spread per call: the Italian of an even page and the English of the odd page facing it, one paragraph per tercet; no hand-checked cuts are needed). The commentary on `texts/<dir>/` is written to `grammar/<dir>/` under the same file names.
-- Status: `grammar/en-paradiso/` (Wicksteed's English) is in progress (`gpt-6.2-astra`).
 
 ## 3. grammar/grc
 
