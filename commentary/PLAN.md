@@ -1,16 +1,21 @@
 # Plan
 
-The translations still to be made in this directory, for the grammar commentaries of [`grammar/`](../grammar/) (see [grammar/PLAN.md](../grammar/PLAN.md), which gives the order). Each is generated with `make generate` and checked with `check-quotes` and `check-lines` before it is used; the user runs the model.
+The translations still to be made in this directory, for the grammar commentaries of [`grammar/`](../grammar/) (see [grammar/PLAN.md](../grammar/PLAN.md), which gives the order). Each is generated with `make generate`, or, for the literal English translations (`en-grc/`, `en-la/`), converted from the English made first in [`translations/en/`](../translations/en/) (see below; the fixes of `check-lines` are reflected back there), and checked with `check-quotes` and `check-lines` before it is used; the user runs the model.
 
 | Translation | Of | For |
 |---|---|---|
-| `en-grc/` | Musurus's Greek (`texts/grc/`), Inferno | `grammar/grc/` (step 3) |
+| `en-grc/` (to be checked) | Musurus's Greek (`texts/grc/`), Inferno | `grammar/grc/` (step 3) |
 | an English translation of the Italian of `texts/la/` | the Italian of Bartolommeo da Colle's manuscript, three canticles | `grammar/la/` (step 5) |
 | `en-la/` | Serravalle's Latin (`texts/la/`), three canticles | `grammar/la/` (step 5) |
 
 ## en-grc
 
-A literal English translation of Musurus's Greek, one line per line of the Greek, made like `el-grc/`: `make generate CANTICLE=inferno LANG=en SOURCE=grc`, then `make check-quotes LANG=en SOURCE=grc` and `make check-lines CANTICLE=inferno LANG=en SOURCE=grc` (the answers saved in `check/en-grc/`), with the fixes applied as for `el-grc/`. Musurus departs from the Italian in places, so the English of the Italian cannot stand for the Greek; `grammar/grc/` sets this translation beside the Greek.
+A literal English translation of Musurus's Greek, one line per line of the Greek. The English of `translations/en/grc/` is made first, since there the translation is made together with its layout; `en-grc/` has been converted from it (see [README.md](README.md)) and passes `make check-quotes LANG=en SOURCE=grc`. What remains:
+
+1. `make check-lines CANTICLE=inferno LANG=en SOURCE=grc` (the answers saved in `check/en-grc/`), with the fixes applied as for `el-grc/`.
+2. The fixes reflected in `translations/en/grc/`, so that it stays the same as `en-grc/`.
+
+Musurus departs from the Italian in places, so the English of the Italian cannot stand for the Greek; `grammar/grc/` sets this translation beside the Greek.
 
 ## The Italian and the Latin of texts/la
 
@@ -18,7 +23,7 @@ Serravalle's Latin translation is printed line by line beside the Italian of Bar
 
 - `scripts/source.py` has no `la` source yet: it is to read the Latin verse of `texts/la/` and the Italian beside it (interleaved per tercet, with counted tercet numbers), as two sources, one for each language.
 - The Italian: a new English translation, line by line. The Italian of this edition differs widely from the modern text and from Oelsner's (see [texts/la/README.md](../texts/la/README.md)), so no existing English renders it: neither Oelsner's and Okey's English nor `en/` (which renders dante-corpus). Its directory is named with the source.
-- The Latin: `en-la/`, a literal English translation, made like `en-grc/`.
+- The Latin: `en-la/`, a literal English translation, made like `en-grc/`: the English of `translations/en/la/` first, then converted into `en-la/`, checked with `check-quotes` and `check-lines`, and the fixes reflected in `translations/en/la/`.
 - The Inferno first, then the Purgatorio and the Paradiso, as `grammar/la/` goes.
 
 ## en/

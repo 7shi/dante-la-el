@@ -20,6 +20,8 @@ For each canto, `<code>/<canticle>/<NN>.*` (`<code>` is `el`, `eo`, or `en`):
 
 `el-grc/inferno/<NN>.txt` holds a literal Modern Greek translation of Musurus's Greek verse translation of the Inferno ([`texts/grc/`](../texts/grc/)), one line per line of the Greek, which renders the Italian line for line. It has no commentary yet; it is generated with `make generate CANTICLE=inferno SOURCE=grc`. Every target takes `SOURCE=grc` for it, and the checks save their answers in `check/el-grc/`.
 
+`en-grc/inferno/<NN>.txt` holds a literal English translation of the same Greek, in the same layout. It was not generated here: it is the verse of the English reading translation of [`translations/en/grc/`](../translations/en/grc/), one line per line of the Greek, with the quote marks rewritten to follow the Greek as in `el-grc` (`„` opening every line inside a speech, `‘“ ”’` around a quote within it); the English apostrophe stays the straight `'`. Its quote marks pass `make check-quotes LANG=en SOURCE=grc`; it is yet to be checked with `check-lines` (see [PLAN.md](PLAN.md)).
+
 Grammar commentaries in English on these sources, quoting the translations of this directory, are in [`grammar/`](../grammar/), and reports on the printed editions behind them in [`editions/`](../editions/); their scripts use `scripts/source.py`, `generate.py`, and `fix_quote_blocks.py` of this directory.
 
 ## Usage
