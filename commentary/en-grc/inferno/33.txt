@@ -12,7 +12,7 @@ Began speaking: “You wish me to renew
 „ In truth, as I gather from your speech.
 „ Know that I was once Count Ugolino,
 „ And this is the Archbishop Ruggieri;
-„ Now I will tell you how I am thus neighbour to him.
+„ And now I will tell you how I am thus neighbour to him.
 „ How, yielding to his wicked counsels
 „ And trusting in him, I was seized and underwent
 „ Death thereafter, there is no need to tell.
@@ -37,7 +37,7 @@ Began speaking: “You wish me to renew
 „ And when I awoke from my bed before the dawn,
 „ I heard weeping the imprisoned
 „ Children with me in their sleep, and asking for bread.
-„ Cruel would you be, if you do not grieve with me,
+„ Cruel would you be, if indeed you do not grieve with me,
 „ Considering what I felt within my heart;
 „ And if you weep not, when then are you wont to weep?
 „ They were awake by now, and near was
@@ -47,7 +47,7 @@ Began speaking: “You wish me to renew
 „ Of the horrible tower. Silent then
 „ I looked into the faces of my children;
 „ I wept not, but within I turned to stone.
-„ They wept; and my little Anselm
+„ And they wept; and my little Anselm
 „ Said: ‘“Why do you look so, father? what ails you?”’
 „ Yet I shed no tear, nor did I answer
 „ All that day, nor the following night,
@@ -59,8 +59,8 @@ Began speaking: “You wish me to renew
 „ And my sons, supposing this
 „ To be an impulse of hunger, rose up suddenly,
 „ Saying: ‘“It will be less painful for us,
-‚ „ If you eat of us; for you who gave us this
-‚ „ Piteous flesh of ours, take it back again.”’
+‚ „ If you eat of us; for you who gave the flesh,
+‚ „ This piteous one of ours, you take it back again.”’
 „ Then I calmed myself, so as not to grieve them more.
 „ We were silent that day and the next.
 „ Ah! hard earth, why did you not open then?
@@ -77,16 +77,16 @@ Having spoken thus, with askance eyes the wretched
 Skull again he seized, biting into
 The bone with his teeth, like a mad dog.
 Ah, wretched Pisa! shame of the inhabitants
-Of the fair land where the Sì sounds!
+Of the fair land where the Sì indeed sounds!
 Since your neighbours neglect to punish you,
 Let Gorgona and Caprara move,
 And let them dam up the mouth of the Arno,
 So that it may drown all your inhabitants.
-For if Count Ugolino was guilty
-Of having faithlessly betrayed your strongholds,
+For if liable Count Ugolino
+Was for having faithlessly betrayed your strongholds,
 You ought not so to have punished his children;
-For innocent, O new Thebes, did
-Their youth make Brigata and Uguccione,
+For innocent made, O new Thebes,
+Their youth Brigata and Uguccione,
 And the other two, whom I mentioned before.
 Advancing onward we came where the ice
 Roughly swathes other souls,
@@ -98,8 +98,8 @@ For the first tears freeze solid,
 And like crystal visors all
 The hollow beneath the eyebrows fill.
 And although the cold, having numbed me,
-As in a deadened callus, had taken all
-Feeling away from my face,
+As in a deadened callus, all
+Feeling it took away from my face,
 Yet I seemed to feel some wind.
 Wherefore, “Protector, what moves this?” I said.
 “Has not all vapour ceased here below?”
@@ -115,7 +115,7 @@ Cried out: “O souls devoid of all pity,
 And I: “If you wish aid from me,
 „ Tell me who you are; and if I do not free you,
 „ May I be cast into the depth of this ice.”
-He answered: “I am Friar Alberigo,
+And he answered: “I am Friar Alberigo,
 „ He of the fruits from the deadly garden;
 „ And here I receive dates in return for figs.”
 I said to him: “What? are you then already dead?”
@@ -133,13 +133,13 @@ And he to me: “How my body has fared
 „ While the soul itself is rolled down into such a pit.
 „ And perchance the body still appears alive above
 „ Of the shivering shade here behind me.
-„ You must know this, if indeed you come from above;
+„ And you must know this, if indeed you come from above;
 „ It is Ser Branca d’Oria, and not many years
 „ Have passed since he was shut up in this pit.”—
 —“You seem to me,” I said, “to wish to deceive me,
 „ For Branca d’Oria has not died, but lives,
 „ Eating, drinking, sleeping, and wearing clothes.”—
-He said: “In the pit of the Evil-claws
+And he said: “In the pit of the Evil-claws
 „ Above, where the sticky pitch boils,
 „ Michel Zanche had not yet arrived,
 „ When this man left a demon in his own stead
