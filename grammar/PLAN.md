@@ -5,7 +5,7 @@ The grammar commentaries still to be made, in this order; step 1, `grammar/en/`,
 | Step | Output | Source | Explained against | Canticles |
 |---|---|---|---|---|
 | 2 | `grammar/en-paradiso/` | the Italian of the Temple Classics (`texts/en-paradiso/`) | the English printed with it (Wicksteed) | Paradiso (`grammar/en-oelsner/`, Inferno, and `grammar/en-purgatorio/`, Purgatorio, are done) |
-| 3 | `commentary/en-grc/`, then `grammar/grc/` | Musurus's Greek (`texts/grc/`) | Oelsner's Italian and English beside the Greek and a literal English of it (`commentary/en-grc/`) | Inferno |
+| 3 | `grammar/grc/` (`commentary/en-grc/` is done) | Musurus's Greek (`texts/grc/`) | Oelsner's Italian and English beside the Greek and a literal English of it (`commentary/en-grc/`) | Inferno |
 | 4 | `grammar/el-grc/` | Musurus's Greek (`texts/grc/`) | the Modern Greek translation of it (`commentary/el-grc/`) | Inferno (Purgatorio and Paradiso: see the step) |
 | 5 | `grammar/la/` | Serravalle's Latin (`texts/la/`) | the Italian of the same edition; both with a new English translation | Inferno, Purgatorio, Paradiso |
 
@@ -29,7 +29,7 @@ The main subject is how Musurus translated the Italian into Greek, so that learn
 
 Steps:
 
-1. Generate and check `commentary/en-grc/` (all 34 cantos; see [commentary/PLAN.md](../commentary/PLAN.md)).
+1. `commentary/en-grc/` (all 34 cantos) is done: converted from `translations/en/grc/`, checked with `check-quotes` and `check-lines`, and the fixes reflected back (see [commentary/PLAN.md](../commentary/PLAN.md#en-grc)).
 2. A new mode of `grammar.py` for `grammar/grc/` (how it is called, beside the existing grc mode of step 4, is settled then): the Greek and `en-grc` line by line, Oelsner's Italian and English by tercet (`source.oelsner_passages`), sent passage by passage, with the repair of a rejected answer and the rejections listed at the end of a run, as in the en mode.
 3. Trial on a canto or two, tune the prompt, then the whole Inferno.
 

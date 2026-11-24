@@ -4,16 +4,12 @@ The translations still to be made in this directory, for the grammar commentarie
 
 | Translation | Of | For |
 |---|---|---|
-| `en-grc/` (to be checked) | Musurus's Greek (`texts/grc/`), Inferno | `grammar/grc/` (step 3) |
 | an English translation of the Italian of `texts/la/` | the Italian of Bartolommeo da Colle's manuscript, three canticles | `grammar/la/` (step 5) |
 | `en-la/` | Serravalle's Latin (`texts/la/`), three canticles | `grammar/la/` (step 5) |
 
 ## en-grc
 
-A literal English translation of Musurus's Greek, one line per line of the Greek. The English of `translations/en/grc/` is made first, since there the translation is made together with its layout; `en-grc/` has been converted from it (see [README.md](README.md)) and passes `make check-quotes LANG=en SOURCE=grc`. What remains:
-
-1. `make check-lines CANTICLE=inferno LANG=en SOURCE=grc` (the answers saved in `check/en-grc/`), with the fixes applied as for `el-grc/`.
-2. The fixes reflected in `translations/en/grc/`, so that it stays the same as `en-grc/`.
+A literal English translation of Musurus's Greek, one line per line of the Greek. The English of `translations/en/grc/` is made first, since there the translation is made together with its layout; `en-grc/` has been converted from it, checked with `check-quotes` and `check-lines` (four rounds over the Inferno: 285, 61, and 26 lines fixed, the last round leaving only issues rejected or with no fix), and the fixes reflected in `translations/en/grc/` (see [README.md](README.md)). It is done; `en-la/` is to be made the same way.
 
 Musurus departs from the Italian in places, so the English of the Italian cannot stand for the Greek; `grammar/grc/` sets this translation beside the Greek.
 
