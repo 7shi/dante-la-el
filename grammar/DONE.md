@@ -122,3 +122,4 @@ PR #1 (`commentary/en-grc/`, the literal English of Musurus's Greek checked with
 - `fix_quote_blocks.py -s grc -d grammar/grc` rewrote the English of 363 Greek lines in all 34 cantos (most of them words moved to another line, particles added, or words the Greek does not have dropped).
 - No bullet refers to the English of the Greek; the bullets on the lines whose English changed most (a word moved across lines, as *τὴν σὴν βίβλον* I 83–84 or *ὄφει ἐχθρῷ* IX 76–77) explain the Greek itself and stand as written.
 - The checks of the review were run again with no findings.
+- After the verse of `translations/en/grc/` took the quote marks of the Greek (`198d3447`), `fix_quote_blocks.py` rewrote the English of 2,497 Greek lines in all 34 cantos (quote marks and apostrophes only); the checks were run again with no findings.
