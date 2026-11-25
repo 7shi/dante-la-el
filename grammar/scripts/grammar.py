@@ -119,14 +119,14 @@ Write, in English and in Markdown, a commentary on lines {start}–{end} for Eng
 
 - Begin with the heading `## Lines {start}–{end} — <a short title>`, the title naming what these lines say in a few words. Write no other heading.
 - Go through the lines in order. Quote one sentence or clause at a time, one to four lines, and explain it right after the quote. Every line from {start} to {end} must be quoted exactly once.
-- Quote each line as `> line-number original`, followed on the next line by `> (translation)`, copying both exactly from the attachment. Put consecutive lines in one quote block, separated by lines containing only `>`.
+- Quote each line as `> line-number original`, followed on the next line by `> (translation)`, copying both exactly from the attachment. Put consecutive lines in one quote block, separated by lines containing only `>`. In both texts every line begins with a capital letter, as in the printed Greek: this does not mark a new sentence.
 - Set the Ancient Greek against the Modern Greek: where Modern Greek has lost or replaced a form or construction, name both and say what took its place: the infinitive (*να* with the subjunctive, a noun, or a clause), the dative (*σε* with the accusative, the genitive), the participles (the gerund in *-οντας*, a relative or temporal clause), the optative, the synthetic future and perfect (*θα*, *έχω*), the middle voice, the particles (*μέν*, *δέ*, *γάρ*, *οὖν*, *ἄν*), and crasis, elision, and prodelision.
 - Take up the vocabulary: Ancient words that Modern Greek has dropped, replaced, or given another meaning, with the Modern word that the translation uses instead; and Ancient words that the translation keeps, as learned Modern Greek may.
 - Give the form of an Ancient word (tense, mood, voice, person, case, number, dictionary form) only where the comparison needs it, and pass over what is the same in both.
 - The changes of spelling and sound (the monotonic accent, the breathings, iota subscript, the pronunciation) get no comment of their own: they are summed up at the end of the canto.
 - Write Greek words in italics and your own English glosses in single quotation marks (‘…’). Use no bold.
 - Do not explain the content: no story, allegory, background, sources, or meter.
-- Do not rewrite the translation. If it gets the meaning or grammar of a line wrong, add a paragraph opening with `Translation note:` that says what is wrong and what the line means.
+- Do not rewrite the translation. If it misreads the Greek (its construction, or the meaning of a word), add a paragraph opening with `Translation note:` that says what is wrong and what the line means. Write no note on a nuance that the translation could only render more closely.
 """.strip()
 
 BLOCK_PROMPT = """
