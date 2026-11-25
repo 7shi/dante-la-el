@@ -132,3 +132,12 @@ Before step 4, the breathings of `texts/grc/` were checked, as [PLAN.md](PLAN.md
 - Seen in the images and decided: *οὑμὸς* (XXX 143), a misread, corrected; *Ἱερεμίου* (note to I. 45), printed smooth, marked as a misprint; *χἁπαλοὺς* (XXX 66), printed with the rough breathing, kept as printed (the bullet explains it so).
 - On `main` (`23f607ee`): `ocr/grc/252.txt` and `289.txt`, `misprints.tsv`, `readcheck.tsv`, and `texts/grc/` reconverted (two lines changed).
 - Here: `fix_quote_blocks.py -s grc -d grammar/grc` rewrote XXX 143 in `033-canto-30.md`, and its bullet now gives *οὑμός* as printed; the note is not in `grammar/`. `make check-quotes LANG=el SOURCE=grc`: 0 mismatches; no line of `commentary/el-grc/` depends on the breathing.
+
+## Step 4 preparation: commentary/el-grc and the misprint fixes
+
+`commentary/el-grc/` was checked against the `texts/grc/` misprint fixes of `main` (`524fe966`, 19 verse lines) and *οὑμὸς* (XXX 143), line by line with the Greek before and after.
+
+- Three lines still rendered the misprint, and were corrected: IX 96 (*ἣ*, ‘but which’, for *ἢ*), XIV 132 (*τοίων* ‘such’ for *ποίων*), XIX 5 (*ὑμᾶς* ‘you’ for *ἡμᾶς*); the other lines already followed the corrected reading.
+- XIV 132 and XIX 5 were wrong in the same way in `commentary/en-grc/` and `translations/en/grc/` (and `translations/ja/grc/` on `main`): now "from such streams" and "for you". `fix_quote_blocks.py` updated `grammar/grc/`, and the bullet on XIX 5 no longer contrasts the English (“not "for us"”).
+- *Κογνάζε* (XXI 119), marked as a misprint for *Καγνάζε* in `524fe966`, is printed *Κογνάζ-* in both its places (XXII 106 *Κογνάζος*): Musurus's spelling, so the mark was reverted on `main`, and `grammar/grc/024-canto-21.md` quotes and explains *Κογνάζε*.
+- `make check-quotes` with `LANG=el` and `LANG=en`, `SOURCE=grc`: 0 mismatches.
