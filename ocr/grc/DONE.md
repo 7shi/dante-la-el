@@ -951,3 +951,8 @@ Before `grammar/el-grc/`, the breathings of `texts/grc/` were checked ([grammar/
   note and the note to XXVIII. 130 have `Ἱερεμ-`, marked as a misprint.
 - `misprints.py ocr/grc`: 133 rows, 133 marks; 0 problems. `texts/grc/` reconverted: the two
   lines changed.
+- **Follow-up** (in checking `commentary/el-grc/` against the misprint fixes of
+  `524fe966`): the mark `{{Κογνάζε|Καγνάζε}}` in `179` 9 (XXI 119) reverted. The name is
+  printed `Κογνάζ-` in both its places (`186` 13, XXII 106, `Κογνάζος`), so it is Musurus's
+  spelling of Cagnazzo, as `Δραγιγνάζος` is of Draghignazzo, not a misprint; a `printed`
+  row added to readcheck.tsv. `misprints.py ocr/grc`: 132 rows, 132 marks; 0 problems.
