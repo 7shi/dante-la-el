@@ -11,20 +11,11 @@ The grammar commentaries still to be made, in this order; step 1 (`grammar/en/`)
 
 The `el` and `commentary` branches have been merged into `main` (see [DONE.md](DONE.md)), and work continues on a fresh `commentary` branch from `main`. If `translations` or other work on `main` changes `texts/en*`, run `fix_quote_blocks.py`, check any affected English quotes and bullets in `grammar/`, and check the reports as [editions/PLAN.md](../editions/PLAN.md) says.
 
-## Breathings of texts/grc (before step 4)
-
-In Inferno XXX 143, `texts/grc/` (and `ocr/grc/252.txt`) has *οὐμὸς* where the page has *οὑμὸς*. Other breathings may have been misread in the same way, so they are checked before step 4, which explains the Greek word by word:
-
-1. List the candidates (reading only): the words that occur with both breathings (27 forms, such as *ἐν*/*ἕν*, *αὐτοῦ*/*αὑτοῦ*, *ἦν*/*ἥν*), with the rarer use in context, judged by the grammar; the reflexive *αὑτ-* is kept apart, as it may be Musurus's usage; the crasis forms (*οὑμ-*, *τοὐ-*, *ταὐτ-*, *θἀτέρου*, *ἅτερος*, *χὠ*, *χἠ*), for a coronis read as a rough breathing or the reverse; and words beginning with a vowel with no breathing.
-2. Check only the suspect ones on the page images; doubtful ones are listed for the user.
-3. On `main`: correct `texts/grc/` and `ocr/grc/*.txt`, *οὑμός* included, and see whether `translations/` is affected.
-4. On `commentary`: run `fix_quote_blocks.py -s grc -d grammar/grc`, correct the bullets that quote a corrected word, check `commentary/el-grc/` with `make check-quotes`, and record it in [DONE.md](DONE.md).
-
 ## 4. grammar/el-grc
 
 `grammar/el-grc/` shows English readers how Ancient Greek differs from Modern Greek: Musurus's Greek is explained in English line by line against `commentary/el-grc/`, a Modern Greek translation of it. The Greek explained is Musurus's printed text, as in `grammar/grc/`; the Modern Greek, made by the model, is set beside it as an aid, as the English of `translations/en/grc/` is in `grammar/grc/`. This is what the grc mode of `grammar.py` was first written for (`make grammar CANTICLE=inferno SOURCE=grc`, with the default `LANG=el`), and it is kept apart from `grammar/grc/`, whose subject is the translation from the Italian.
 
-- Before starting step 4, check `commentary/el-grc/` against the `texts/grc/` misprint fixes applied on `main` (`524fe966`, 14 cantos) and the breathings corrected above with `make check-quotes` and update any affected lines.
+- Before starting step 4, check `commentary/el-grc/` against the `texts/grc/` misprint fixes applied on `main` (`524fe966`, 14 cantos) with `make check-quotes` and update any affected lines (the breathing check of `texts/grc/` is done and touched none: see [DONE.md](DONE.md#breathings-of-textsgrc)).
 - `grammar/grc/` already explains the forms of the same Greek (tense, case, dictionary forms), so the prompt is to weight what has changed in Modern Greek (the infinitive, the dative, the participles, the optative, the vocabulary), not to explain the Greek a second time; this is tuned in the trial.
 - The grc mode still works by sections of about 30 lines and retries a rejected answer from scratch; it is reworked like the en mode (repair of a rejected answer, rejections listed at the end of a run), keeping its own check that every line and its translation are quoted unchanged.
 - The model does not change the translation; where it finds `el-grc` wrong, it writes a `Translation note:`. After the run: `make grammar-notes` lists them, the `.txt` of `commentary/el-grc/` is corrected by hand, and `make fix-grammar-quotes` rebuilds the quotes.
