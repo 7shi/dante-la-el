@@ -104,7 +104,7 @@ The review (2026-11-26):
 - Every italic quotation of two or more words was looked up in the lines of its range. The Italian ones not found there take up a neighbouring line or reorder a phrase, except one, corrected below. Of the Greek ones, about 70 take up a neighbouring line (Musurus's lines do not always match the Italian line for line), and the rest resolve crasis or elision (*καὶ ἐγώ* for *κἀγώ*) or give dictionary forms. The crasis resolutions were all checked.
 - The main fault was in explanations of elision before a rough breathing: for *ἔνθ᾽*, *ἐνταῦθ᾽*, *ἄπιθ᾽*, and *εἴθ᾽* the model often claimed that *τ* had been aspirated to *θ*, though the *θ* belongs to the word, and in several places it called smoothly breathed words (*ὀλολυγμούς*, *ἔδει*, *ἤλθομεν*, *ἦν*, *ἐντεῦθεν*, *ἠχεῖ*) rough. Every claim of a rough breathing was then checked by script against the breathing of the word named.
 - Read: cantos XVII 1–21 and XXXIV 85–139 (with the summary of XXXIV) in full, and 40 bullets drawn at random from all cantos.
-- `texts/grc/` prints *οὐμὸς* for *οὑμός* in XXX 143; the bullet now says so, and the text is left to `main`.
+- `texts/grc/` (and `ocr/grc/252.txt`) had *οὐμὸς* in XXX 143, where the page has *οὑμὸς*: a misread, corrected on `main` (see [Breathings of texts/grc](#breathings-of-textsgrc)); the bullet gives *οὑμός*.
 - Corrected (24 files):
   - The Greek koronis (`᾽`) used as the apostrophe in 37 Italian elisions in the bullets of cantos XI, XVIII, XXI, and XXXI (*l᾽ occhio*) replaced by `’`.
   - *ἔνθα*, *ἐνταῦθα*, *ἄπιθι*, *εἴθε* claimed as aspirated on elision (26 bullets in 21 files): now simply elided. Three of these were garbled beyond the claim (`012-canto-09.md` line 126, `021-canto-18.md` line 88, `030-canto-27.md` line 392) and were rewritten.
@@ -112,7 +112,7 @@ The review (2026-11-26):
   - `036-canto-33.md` (line 559): *ἠχεῖ* is not rough-breathed.
   - `023-canto-20.md` (line 245): split word *ciasc heduno* → *ciascheduno*.
   - `015-canto-12.md` (line 342): *the supplied e ria e folle* → *Oelsner’s e ria e folle* (the Greek follows the reading *ira folle*).
-  - `033-canto-30.md` (line 974): the printed *οὐμός* noted as standing for *οὑμός*.
+  - `033-canto-30.md` (line 974): *οὐμός* → *οὑμός*, as printed.
   - `025-canto-22.md` (line 813): *ἡμῶν* with *σὺ μόνος* is partitive (‘you alone of us’), not comparative.
 
 ## Merge of PR #1 (en-grc) and grammar/grc update
@@ -123,3 +123,12 @@ PR #1 (`commentary/en-grc/`, the literal English of Musurus's Greek checked with
 - No bullet refers to the English of the Greek; the bullets on the lines whose English changed most (a word moved across lines, as *τὴν σὴν βίβλον* I 83–84 or *ὄφει ἐχθρῷ* IX 76–77) explain the Greek itself and stand as written.
 - The checks of the review were run again with no findings.
 - After the verse of `translations/en/grc/` took the quote marks of the Greek (`198d3447`), `fix_quote_blocks.py` rewrote the English of 2,497 Greek lines in all 34 cantos (quote marks and apostrophes only); the checks were run again with no findings.
+
+## Breathings of texts/grc
+
+Before step 4, the breathings of `texts/grc/` were checked, as [PLAN.md](PLAN.md) set out after *οὐμὸς* was found in XXX 143; the list and the images are recorded in [ocr/grc/DONE.md](../ocr/grc/DONE.md) ("After the close: the breathing check").
+
+- Listed: the words with both breathings (17 forms; all but two homographs used rightly), the reflexive *αὑτ-* kept apart as Musurus's usage, the crasis forms, and the words beginning with a vowel with no breathing.
+- Seen in the images and decided: *οὑμὸς* (XXX 143), a misread, corrected; *Ἱερεμίου* (note to I. 45), printed smooth, marked as a misprint; *χἁπαλοὺς* (XXX 66), printed with the rough breathing, kept as printed (the bullet explains it so).
+- On `main` (`23f607ee`): `ocr/grc/252.txt` and `289.txt`, `misprints.tsv`, `readcheck.tsv`, and `texts/grc/` reconverted (two lines changed).
+- Here: `fix_quote_blocks.py -s grc -d grammar/grc` rewrote XXX 143 in `033-canto-30.md`, and its bullet now gives *οὑμός* as printed; the note is not in `grammar/`. `make check-quotes LANG=el SOURCE=grc`: 0 mismatches; no line of `commentary/el-grc/` depends on the breathing.
