@@ -47,10 +47,13 @@ from dante_corpus import ref
 
 TEXTS_DIR = Path(__file__).resolve().parents[2] / "texts"
 GRC_DIR = TEXTS_DIR / "grc"
+EN_GRC_DIR = Path(__file__).resolve().parents[2] / "translations" / "en" / "grc"
 CARLYLE_DIR = TEXTS_DIR / "en"
 # The Temple Classics volumes, per source: the same layout in all three
 OELSNER_DIRS = {source: TEXTS_DIR / source
                 for source in ("en-oelsner", "en-purgatorio", "en-paradiso")}
+# The directory of texts/ for each source that has one
+TEXT_DIRS = {"en": CARLYLE_DIR, "grc": GRC_DIR, **OELSNER_DIRS}
 # The cuts of Carlyle's pages into blocks (see editions/scripts/align_carlyle.py)
 BLOCKS_PATH = Path(__file__).resolve().parents[2] / "editions" / "en-blocks.txt"
 
@@ -104,11 +107,10 @@ TRANSLATED_SOURCES = [name for name, source in SOURCES.items()
 
 
 def text_path(source: str, canto: int) -> Path:
-    """The file of texts/ holding a canto of a source printed with its own
-    English (texts/en/ for en, texts/<source>/ for the Temple Classics), as
+    """The file of texts/ holding a canto of a source (texts/en/ for en,
+    texts/grc/ for grc, texts/<source>/ for the Temple Classics), as
     texts/en/007-canto-01.md."""
-    folder = CARLYLE_DIR if source == "en" else OELSNER_DIRS[source]
-    (path,) = folder.glob(f"*-canto-{canto:02d}.md")
+    (path,) = TEXT_DIRS[source].glob(f"*-canto-{canto:02d}.md")
     return path
 
 
@@ -128,15 +130,15 @@ class Passage:
 
 # The number printed at the end of every fifth verse line (`… στυγήρης, 5`)
 NUMBER_RE = re.compile(r"\s+(\d+)$")
-# The last line of the Inferno, after canto XXXIV
-END_MARK = "ΤΕΛΟΣ."
+# The last line of the Inferno, after canto XXXIV (in texts/grc and translations/en/grc)
+END_MARKS = ("ΤΕΛΟΣ.", "THE END.")
 
 
-def grc_lines(canto: int) -> list[Line]:
-    """The verse of one canto of texts/grc: everything after the heading and
-    the argument, without the page comments, the line-end backslashes, and
-    the line numbers."""
-    (path,) = GRC_DIR.glob(f"*-canto-{canto:02d}.md")
+def grc_lines(canto: int, folder: Path = GRC_DIR) -> list[Line]:
+    """The verse of one canto of texts/grc (or its line-for-line English in
+    translations/en/grc): everything after the heading and the argument,
+    without the page comments, the line-end backslashes, and the line numbers."""
+    (path,) = folder.glob(f"*-canto-{canto:02d}.md")
     lines: list[Line] = []
     heading = argument = False
     for raw in path.read_text().splitlines():
@@ -149,7 +151,7 @@ def grc_lines(canto: int) -> list[Line]:
         if not argument:
             argument = True  # the first paragraph after the heading
             continue
-        if text == END_MARK:
+        if text in END_MARKS:
             continue
         if match := NUMBER_RE.search(text):
             number = int(match.group(1))
@@ -158,6 +160,12 @@ def grc_lines(canto: int) -> list[Line]:
             text = text[: match.start()]
         lines.append(Line(len(lines) + 1, text))
     return lines
+
+
+def en_grc_lines(canto: int) -> list[Line]:
+    """The English translation of one canto of texts/grc, read from
+    translations/en/grc/."""
+    return grc_lines(canto, EN_GRC_DIR)
 
 
 # A comment such as the page marker `<!-- p. 2 (056) -->`

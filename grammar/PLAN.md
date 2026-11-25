@@ -1,11 +1,9 @@
 # Plan
 
-The grammar commentaries still to be made, in this order; step 1, `grammar/en/`, and the Inferno and Purgatorio of step 2 (`grammar/en-oelsner/`, `grammar/en-purgatorio/`) are done (see [DONE.md](DONE.md)). Each is written in English by [scripts/grammar.py](README.md#scriptsgrammarpy); the user runs the model, and each set is reviewed once all its cantos are done. The translations they need from `commentary/` are planned in [commentary/PLAN.md](../commentary/PLAN.md), and what remains on the reports of `editions/` in [editions/PLAN.md](../editions/PLAN.md).
+The grammar commentaries still to be made, in this order; step 1 (`grammar/en/`), step 2 (`grammar/en-oelsner/`, `grammar/en-purgatorio/`, `grammar/en-paradiso/`), and step 3 (`grammar/grc/`) are done (see [DONE.md](DONE.md)). Each is written in English by [scripts/grammar.py](README.md#scriptsgrammarpy); the user runs the model, and each set is reviewed once all its cantos are done. The translations they need from `commentary/` are planned in [commentary/PLAN.md](../commentary/PLAN.md), and what remains on the reports of `editions/` in [editions/PLAN.md](../editions/PLAN.md).
 
 | Step | Output | Source | Explained against | Canticles |
 |---|---|---|---|---|
-| 2 | `grammar/en-paradiso/` | the Italian of the Temple Classics (`texts/en-paradiso/`) | the English printed with it (Wicksteed) | Paradiso (`grammar/en-oelsner/`, Inferno, and `grammar/en-purgatorio/`, Purgatorio, are done) |
-| 3 | `commentary/en-grc/`, then `grammar/grc/` | Musurus's Greek (`texts/grc/`) | Oelsner's Italian and English beside the Greek and a literal English of it (`commentary/en-grc/`) | Inferno |
 | 4 | `grammar/el-grc/` | Musurus's Greek (`texts/grc/`) | the Modern Greek translation of it (`commentary/el-grc/`) | Inferno (Purgatorio and Paradiso: see the step) |
 | 5 | `grammar/la/` | Serravalle's Latin (`texts/la/`) | the Italian of the same edition; both with a new English translation | Inferno, Purgatorio, Paradiso |
 
@@ -13,32 +11,11 @@ The grammar commentaries still to be made, in this order; step 1, `grammar/en/`,
 
 The `el` and `commentary` branches have been merged into `main` (see [DONE.md](DONE.md)), and work continues on a fresh `commentary` branch from `main`. If `translations` or other work on `main` changes `texts/en*`, run `fix_quote_blocks.py`, check any affected English quotes and bullets in `grammar/`, and check the reports as [editions/PLAN.md](../editions/PLAN.md) says.
 
-## 2. grammar/en-paradiso
-
-The comparison of step 1 for the remaining volume of the Temple Classics edition (`grammar/en-oelsner/`, Inferno, and `grammar/en-purgatorio/`, Purgatorio, are done; see [DONE.md](DONE.md#2-grammaren-oelsner) and [DONE.md](DONE.md#2-grammaren-purgatorio)): Wicksteed's English against Oelsner's Italian.
-
-- `commentary/scripts/source.py` and `grammar.py` support `en-paradiso`, cut by `source.oelsner_passages` (one spread per call: the Italian of an even page and the English of the odd page facing it, one paragraph per tercet; no hand-checked cuts are needed). The commentary on `texts/<dir>/` is written to `grammar/<dir>/` under the same file names.
-- Status: `grammar/en-paradiso/` (Wicksteed's English) is in progress (`gpt-6.2-astra`).
-
-## 3. grammar/grc
-
-The main subject is how Musurus translated the Italian into Greek, so that learners of Italian and of Greek can follow a translation of the poem into the older language. As the commentary is written in English, both sides are given with a literal English translation, and the Greek is explained against the Italian:
-
-- **(it, en-oelsner)**: the Italian of Oelsner's edition with Oelsner's English, tercet by tercet. Oelsner's English renders his own Italian, so the two are kept together: Oelsner's English is not set beside the Italian of dante-corpus, whose readings differ from his in many lines (see [editions/it-carlyle.md](../editions/it-carlyle.md)). Which Italian text Musurus translated is not known, so no edition matches the Greek everywhere; where the Greek follows another reading, the commentary says so.
-- **(grc, en-grc)**: the Greek with a literal English translation of it, `commentary/en-grc/`. Musurus departs from the Italian in places, so the English of the Italian cannot stand for the Greek.
-
-Steps:
-
-1. Generate and check `commentary/en-grc/` (all 34 cantos; see [commentary/PLAN.md](../commentary/PLAN.md)).
-2. A new mode of `grammar.py` for `grammar/grc/` (how it is called, beside the existing grc mode of step 4, is settled then): the Greek and `en-grc` line by line, Oelsner's Italian and English by tercet (`source.oelsner_passages`), sent passage by passage, with the repair of a rejected answer and the rejections listed at the end of a run, as in the en mode.
-3. Trial on a canto or two, tune the prompt, then the whole Inferno.
-
-`commentary/el-grc/` is not quoted in `grammar/grc/`: a third translation beside each line would make the commentary too complex. It has a commentary of its own in step 4. Where `el-grc` and `en-grc` read a line differently, the Greek may be hard there; this can be used when reviewing.
-
 ## 4. grammar/el-grc
 
 `commentary/el-grc/` is a Modern Greek translation of Musurus's Greek, made for speakers of Modern Greek. `grammar/el-grc/` compares the two in English: Musurus's Greek explained line by line, and how the Modern Greek renders its forms and constructions. This is what the grc mode of `grammar.py` was first written for (`make grammar CANTICLE=inferno SOURCE=grc`, with the default `LANG=el`), and it is kept apart from `grammar/grc/`, whose subject is the translation from the Italian.
 
+- Before starting step 4, check `commentary/el-grc/` against the `texts/grc/` misprint fixes applied on `main` (`524fe966`, 14 cantos) with `make check-quotes` and update any affected lines.
 - The grc mode still works by sections of about 30 lines and retries a rejected answer from scratch; it is reworked like the en mode (repair of a rejected answer, rejections listed at the end of a run), keeping its own check that every line and its translation are quoted unchanged.
 - The model does not change the translation; where it finds `el-grc` wrong, it writes a `Translation note:`. After the run: `make grammar-notes` lists them, the `.txt` of `commentary/el-grc/` is corrected by hand, and `make fix-grammar-quotes` rebuilds the quotes.
 - Trial on a canto or two, tune the prompt, then the whole Inferno.

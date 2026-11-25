@@ -68,8 +68,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "commentary" / "scr
 
 from fix_quote_blocks import ORIG_RE, TRANS_RE, rebuild_lines
 from generate import CANTICLE_NAMES, LANGUAGES, same_line
-from source import (OELSNER_DIRS, SOURCES, Line, Passage, carlyle_blocks, oelsner_passages,
-                    source_lines, text_path)
+from source import (OELSNER_DIRS, SOURCES, Line, Passage, carlyle_blocks, en_grc_lines,
+                    grc_lines, oelsner_passages, source_lines, text_path)
 
 # The blocks of a source printed with a prose translation: lines of the
 # source and the part of the translation that renders exactly them (for
@@ -147,6 +147,31 @@ Attached are the {source} of canto {number} of Dante's Divine Comedy, {canticle}
 Write, in English and in Markdown, the closing section of that comparison: the heading `## Summary — <a short title>`, followed by a few paragraphs that sum up how the translation departs from a word-for-word rendering in this canto: the kinds of departure that recur (word order, choice of words, words left out or supplied, changes of construction), with a few examples, and where it keeps close to the {language}. Sum up here also the general changes that the comparison leaves out: subjects given by the ending of the verb supplied, and articles before possessives left out. Quote no lines and do not explain the content (story, allegory, background, meter). Write {language} words in italics, your own renderings in single quotation marks (‘…’), and only words copied exactly from the {prose} in double quotation marks (“…”). Output only this section.
 """.strip()
 
+GRC_BLOCK_PROMPT = """
+Attached are lines {start}–{end} of canto {number} of Dante's Divine Comedy, {canticle}: in <italian> the {italian_source}, each line with its number; in <english> the part of the {prose} that renders exactly these Italian lines; and in <greek> the {source}, each line with its number and followed in parentheses by its line-by-line English translation. The texts and translations are fixed: they are not to be changed.
+
+Write, in English and in Markdown, a commentary on the Greek translation and its grammar and usage against the Italian: how Musurus translated the Italian into Ancient Greek, and the forms and constructions of his Greek.
+
+- On the first line, write a short title naming what these lines say, in a few words in Title Case, and nothing else.
+- Then go through the lines in order, one sentence or clause at a time (one to four lines). For each, write a line `[a–b]` (or `[a]` for a single line) followed by the English that renders lines a to b, copied exactly from <english>. The ranges must cover every line from {start} to {end} once, in order; joined, their English must give the whole of <english>, in order, with no word left out, added, or changed.
+- After each such line, explain the Greek translation of lines a to b against the Italian in flat Markdown bullets (`- ...`, no nested bullets): cover how the Greek renders the Italian (word order, choice of words, words supplied or left out, changes of construction, part of speech, tense, mood, voice, or case, and where the Greek follows another reading or interpretation of the Italian), and the grammar and usage of the Greek words that need it (the form — tense, mood, voice, person, case, number, and dictionary form — the syntax, participles, infinitives, subordinate clauses, agreement, particles and conjunctions, and {focus}).
+- Write Greek and Italian words in italics, your own literal glosses in single quotation marks (‘…’), and quotations of the English translations in double quotation marks (“…”).
+- Do not explain the content: no story, allegory, background, sources, or meter. Write no headings and no quote blocks (the script writes the Italian and Greek quote blocks from `[a–b]`).
+
+For example, for lines 1–3 of canto 1 of the Inferno:
+
+[1–3] In the middle of the journey of our life I [came to] myself in a dark wood [where] the straight way was lost.
+- *τοῦ βίου τούτου* ‘of this life’ renders *di nostra vita* ‘of our life’: Musurus replaces the possessive with the demonstrative *τούτου* (gen. sg. masc. of *οὗτος*), in the normal Greek post-nominal position after the articular noun.
+- *Εὑρέθην ἐν σκοτεινῷ τινι δρυμῶνι* ‘I was found in a certain dark forest’ renders *mi ritrovai per una selva oscura*: the Italian reflexive becomes the aorist passive *εὑρέθην* (1st sg. aor. pass. ind. of *εὑρίσκω*), *per* becomes static *ἐν* + dative, and the indefinite article *una* is rendered by the enclitic indefinite *τινι* (dat. sg. masc. of *τις*).
+- *Τῆς γὰρ εὐθείας ὁδοῦ παρεξετράπην* ‘for I turned aside from the straight road’ renders *che la diritta via era smarrita*: Musurus reads *che* as causal (*γάρ*, postpositive) and recasts the passive clause with the 1st sg. aor. pass. ind. *παρεξετράπην* (from *παρεκτρέπομαι*) governing the genitive of separation *τῆς εὐθείας ὁδοῦ*.
+""".strip()
+
+GRC_SUMMARY_PROMPT = """
+Attached are the {italian_source} (with the {prose}) and the {source} (with its line-by-line English translation) of canto {number} of Dante's Divine Comedy, {canticle}, block by block, and a commentary on the Greek translation against the Italian.
+
+Write, in English and in Markdown, the closing section of that commentary: the heading `## Summary — <a short title>`, followed by a few paragraphs that sum up how Musurus translates the Italian into Ancient Greek in this canto (the forms, constructions, particles, and turns of phrase that recur, where he departs from a literal rendering or follows the Italian syntax, and any notable readings), with a few examples. Quote no lines and do not explain the content (story, allegory, background, meter). Write Greek and Italian words in italics and literal glosses in single quotation marks (‘…’). Output only this section.
+""".strip()
+
 # The layout of the attachment, in SUMMARY_PROMPT
 LAYOUT = "each line followed by its translation into {lang} in parentheses"
 
@@ -201,10 +226,16 @@ def canto_text(lines: list[Line], translations: list[str]) -> str:
     )
 
 
-def block_text(block: Passage) -> str:
-    """A block as attached: its lines, then the English that renders them."""
+def block_text(block: Passage, greek: dict[int, tuple[str, str]] | None = None) -> str:
+    """A block as attached: its lines, then the English that renders them
+    (and, with greek, the Greek lines and their English translation)."""
     lines = "\n".join(f"{line.no} {line.text}" for line in block.lines)
-    return f"<italian>\n{lines}\n</italian>\n<english>\n{block.english}\n</english>"
+    text = f"<italian>\n{lines}\n</italian>\n<english>\n{block.english}\n</english>"
+    if greek is not None:
+        grc = "\n".join(f"{line.no} {greek[line.no][0]}\n({greek[line.no][1]})"
+                        for line in block.lines)
+        text += f"\n<greek>\n{grc}\n</greek>"
+    return text
 
 
 WORD_RE = re.compile(r"\w+")
@@ -254,8 +285,9 @@ def parse_block(text: str) -> tuple[str, list[tuple[int, int, str, list[str]]], 
     return title, ranges, problems
 
 
-def check_block(text: str, block: Passage) -> list[str]:
-    """The problems of one answer to BLOCK_PROMPT; [] if it can be kept."""
+def check_block(text: str, block: Passage, check_quotes: bool = True) -> list[str]:
+    """The problems of one answer to BLOCK_PROMPT (or GRC_BLOCK_PROMPT, with
+    check_quotes=False); [] if it can be kept."""
     title, ranges, problems = parse_block(text)
     if not ranges:
         return problems + ["no ranges `[a–b] English`"]
@@ -281,6 +313,8 @@ def check_block(text: str, block: Passage) -> list[str]:
         where = f"[{first}–{last}]" if last > first else f"[{first}]"
         if not bullets:
             problems.append(f"{where}: no bullets")
+        if not check_quotes:
+            continue
         for bullet in bullets:
             if (m := RENDERING_RE.search(bullet)) and words(m.group(1)) == words(m.group(2)):
                 problems.append(f"{where}: the word-for-word rendering is the translation's "
@@ -312,9 +346,11 @@ def split_english(english: str, counts: list[int]) -> list[str]:
     return pieces
 
 
-def render_block(text: str, block: Passage) -> str:
+def render_block(text: str, block: Passage,
+                 greek: dict[int, tuple[str, str]] | None = None) -> str:
     """The section of a checked answer: the heading, then for every range the
-    lines, the English as printed, and the bullets."""
+    lines, the English as printed, (with greek, the Greek lines and their
+    English translation,) and the bullets."""
     title, ranges, _ = parse_block(text)
     pieces = split_english(block.english,
                            [len(words(english)) for _, _, english, _ in ranges])
@@ -322,7 +358,12 @@ def render_block(text: str, block: Passage) -> str:
     rows = [f"## Lines {block.start}–{block.end} — {title}"]
     for (first, last, _, bullets), piece in zip(ranges, pieces):
         rows += [""] + [f"> {no} {lines[no]}  " for no in range(first, last + 1)]
-        rows += ["", piece, ""] + bullets
+        rows += ["", piece]
+        if greek is not None:
+            pairs = [f"> {no} {greek[no][0]}  \n> ({greek[no][1]})"
+                     for no in range(first, last + 1)]
+            rows += ["", "\n>\n".join(pairs)]
+        rows += [""] + bullets
     return "\n".join(rows)
 
 
@@ -437,7 +478,7 @@ def done_sections(saved: str) -> set[int]:
 
 
 def summarize(client: Client, messages: list[str], tries: int, canto: int,
-              english: str | None = None) -> str | None:
+              english: str | None = None, repair: bool | None = None) -> str | None:
     """The closing summary; with english (a prose translation), every phrase
     in double quotation marks must be found in it, and a rejected summary
     is sent back to be corrected."""
@@ -450,14 +491,21 @@ def summarize(client: Client, messages: list[str], tries: int, canto: int,
                          if not contains(english, quote)]
         return problems
     return ask(client, messages, check, tries, f"canto {canto}, summary",
-               repair=english is not None)
+               repair=(english is not None) if repair is None else repair)
 
 
-def commentary_path(out: Path, source: str, canticle: str, canto: int) -> Path:
+def is_grc_en(source: str, lang_code: str | None) -> bool:
+    """Whether source is grc explained against Oelsner's Italian and English
+    with translations/en/grc/ (Step 3: grammar/grc/)."""
+    return source == "grc" and lang_code == "en"
+
+
+def commentary_path(out: Path, source: str, canticle: str, canto: int,
+                    lang_code: str | None = None) -> Path:
     """The commentary on a canto: <out>/<canticle>/<NN>.md, or, for a source
-    printed with a prose translation, <out>/ and the name of its file of
-    texts/ (as <out>/007-canto-01.md)."""
-    if "prose" in SOURCES[source]:
+    printed with a prose translation (or grc with en), <out>/ and the name of
+    its file of texts/ (as <out>/007-canto-01.md)."""
+    if "prose" in SOURCES[source] or is_grc_en(source, lang_code):
         return out / text_path(source, canto).name
     return out / canticle / f"{canto:02d}.md"
 
@@ -467,6 +515,8 @@ def explain(client: Client, canticle: str, canto: int, args: argparse.Namespace)
     source = SOURCES[args.source]
     if "prose" in source:
         return compare(client, canticle, canto, args)
+    if is_grc_en(args.source, args.lang_code):
+        return compare_grc(client, canticle, canto, args)
     lines = source_lines(args.source, canticle, canto)
     names = dict(
         source=source["name"], language=source["language"],
@@ -482,7 +532,7 @@ def explain(client: Client, canticle: str, canto: int, args: argparse.Namespace)
     text = canto_text(lines, translations)
     originals = {line.no: line.text for line in lines}
 
-    out_path = commentary_path(args.out, args.source, canticle, canto)
+    out_path = commentary_path(args.out, args.source, canticle, canto, args.lang_code)
     if (saved := open_commentary(out_path, canticle, canto)) is None:
         return True
     done = done_sections(saved)
@@ -515,6 +565,51 @@ def explain(client: Client, canticle: str, canto: int, args: argparse.Namespace)
         print(f"\ncanto {canto}: no summary passed", file=sys.stderr)
         return False
     append(answer)
+    return True
+
+
+def compare_grc(client: Client, canticle: str, canto: int, args: argparse.Namespace) -> bool:
+    """Write or continue the commentary on Musurus's Greek (grammar/grc/)
+    against Oelsner's Italian and English, spread by spread; False if a block
+    failed."""
+    source = SOURCES["grc"]
+    oelsner = SOURCES["en-oelsner"]
+    blocks = oelsner_passages(canto)
+    greek = {g.no: (g.text, e.text)
+             for g, e in zip(grc_lines(canto), en_grc_lines(canto))}
+    names = dict(
+        source=source["name"], italian_source=oelsner["name"], prose=oelsner["prose"],
+        canticle=CANTICLE_NAMES[canticle], number=canto,
+        focus=FOCUS[source["language"]],
+    )
+    out_path = commentary_path(args.out, args.source, canticle, canto, args.lang_code)
+    if (saved := open_commentary(out_path, canticle, canto)) is None:
+        return True
+    done = done_sections(saved)
+
+    for block in blocks:
+        if block.end in done:
+            continue
+        print(f"\n--- canto {canto}, lines {block.start}-{block.end} ---")
+        prompt = GRC_BLOCK_PROMPT.format(**names, start=block.start, end=block.end)
+        answer = ask(client, [block_text(block, greek), prompt],
+                     lambda answer: check_block(answer, block, check_quotes=False),
+                     args.tries, f"canto {canto}, lines {block.start}-{block.end}",
+                     repair=True)
+        if answer is None:
+            print(f"\ncanto {canto}, lines {block.start}-{block.end}: no answer passed, "
+                  f"canto left unfinished", file=sys.stderr)
+            return False
+        saved = save(out_path, saved, render_block(answer, block, greek))
+
+    print(f"\n--- canto {canto}, summary ---")
+    text = "\n\n".join(block_text(block, greek) for block in blocks)
+    prompt = GRC_SUMMARY_PROMPT.format(**names)
+    if (answer := summarize(client, [text, saved, prompt], args.tries, canto,
+                            repair=True)) is None:
+        print(f"\ncanto {canto}: no summary passed", file=sys.stderr)
+        return False
+    saved = save(out_path, saved, answer)
     return True
 
 
@@ -558,12 +653,13 @@ def compare(client: Client, canticle: str, canto: int, args: argparse.Namespace)
     return True
 
 
-def list_notes(canticle: str, cantos, out: Path, source: str):
+def list_notes(canticle: str, cantos, out: Path, source: str,
+               lang_code: str | None = None):
     """Print every `Translation note:` paragraph with the lines quoted last
     before it."""
     count = 0
     for canto in cantos:
-        path = commentary_path(out, source, canticle, canto)
+        path = commentary_path(out, source, canticle, canto, lang_code)
         if not path.exists():
             continue
         quoted: list[int] = []
@@ -625,9 +721,12 @@ def main():
         parser.error(f"source {args.source} has no {args.canticle}")
     cantos = select_cantos(args.canticle, args.canto)
     if args.notes:
-        list_notes(args.canticle, cantos, args.out, args.source)
+        list_notes(args.canticle, cantos, args.out, args.source, args.lang_code)
         return
-    required = ["model"] if "prose" in SOURCES[args.source] else ["model", "lang_code", "dir"]
+    if "prose" in SOURCES[args.source] or is_grc_en(args.source, args.lang_code):
+        required = ["model"]
+    else:
+        required = ["model", "lang_code", "dir"]
     for name in required:
         if getattr(args, name) is None:
             parser.error(f"--{name.replace('_', '-')} is required")

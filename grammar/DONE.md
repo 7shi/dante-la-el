@@ -72,3 +72,45 @@ The `commentary` branch was merged into `main` (`b565e9da`), and the `translatio
 - Fixed the displaced turnover `[discerned!` in the English of `grammar/en-purgatorio/013-canto-12.md` (lines 61–63) and updated the bullet for *che lì si discerne*.
 - `grammar/en-paradiso/` has not been generated yet, so the `texts/en-paradiso/` fixes will be picked up automatically.
 - Work continues on the `commentary` branch, recreated from `main` (`b565e9da`).
+
+## 2. grammar/en-paradiso
+
+`make grammar CANTICLE=paradiso SOURCE=en-paradiso`: the Italian of the Temple Classics Paradiso (`texts/en-paradiso/`, edited by Oelsner) compared spread by spread (`source.oelsner_passages`) with Philip H. Wicksteed's English translation. All 33 cantos of the Paradiso were generated (`gpt-6.2-astra`).
+
+The review (2026-11-21):
+
+- `fix_quote_blocks.py -s en-paradiso -d grammar/en-paradiso -n` reported no changes, and `grammar.py --notes` found no translation notes.
+- Checked by script over all 33 cantos: every canto has its summary; the sections match `source.oelsner_passages` from line 1 to the last line of the canto with no gap or overlap; the English joined per section matches the source word for word; every double-quoted phrase in the bullets and summaries is found in the English with balanced emphasis markers (`*`, `_`). Bullets per line (1.24–1.54, mean 1.40) and the length of the summaries (246–344 words, mean 292) are even over the cantos.
+- No bullet is given only to a subject supplied from the verb ending, an article before a possessive left out, or capitals, punctuation, or spelling. The bullets whose rendering differs from the translation only in an article (123) are kept. Of the remaining Italian phrases not matching verbatim within their range, two give an unelided form (*se egli avesse sol da sè dimesso* VII 115–117, *che uscir dovea* XII 64–66), one joins a word hyphenated across a line break (*differentemente danzando* XXIV 16–17), and ten take up words of the end of the preceding line carried over into the English of that range (*e così stolto ritrovar puoi* V 68–69, *e le palle dell' oro* XVI 110–111, *e già era buon cittadino Giuda ed Infangato* XVI 122–123, *sapete quale è quello dubbio* XIX 32–33, *in quella sola* XXII 65–66, *Quel medesmo* XXIV 104–105, *per che* XXVII 5–6, *quella* and *pria venne* XXVII 11–12, *ch’* XXX 146–147).
+- Read: cantos I 1–45, XVII 40–72, and XXXIII 1–39 and 136–145 (with summaries of I, XVII, and XXXIII) in full, and 40 bullets drawn at random from all cantos.
+- Corrected (8 files):
+  - `004-canto-03.md` (line 404): dropped the stray prefix `*a più su* — in the text,` before `*donna più su*`.
+  - `005-canto-04.md` (line 306): removed soft hyphen (`U+00AD`) in *possendo ritornare*.
+  - `008-canto-07.md` (lines 310–311): folded the no-op `- *l' umana creatura* → “the human creature”: literal.` bullet into the preceding bullet on *Di tutte queste cose s' avvantaggia l' umana creatura*.
+  - `010-canto-09.md` (line 227): fixed *lo pesasse* to the source reading *il pesasse*.
+  - `011-canto-10.md` (line 261): fixed corrupted Thai characters in *cinger la figlia di Latona vedem talvolta*.
+  - `012-canto-11.md` (line 58): fixed split word *fer mossi* → *fermossi*.
+  - `016-canto-15.md` (line 514): cleaned up self-correction phrasing in `- *Saria tenuta allor tal maraviglia* ‘would be held then such a marvel’ → “Then” … “would have been as great a marvel”`.
+  - `034-canto-33.md` (lines 455–456): merged the empty-quote bullet `- *guardando* ‘in looking’ → “”` into the preceding bullet on *s' avvalorava in me, guardando*.
+
+## 3. grammar/grc
+
+`make grammar CANTICLE=inferno LANG=en SOURCE=grc`: Musurus's Greek (`texts/grc/`) explained against the Italian of Oelsner's edition with his English (`texts/en-oelsner/`, spread by spread by `source.oelsner_passages`), each Greek line followed by its English from `translations/en/grc/`. Canto 1 was tried first (`de236eb7`); then all 34 cantos of the Inferno were generated (`gpt-6.2-astra`, `465ca7d6`).
+
+The review (2026-11-26):
+
+- `fix_quote_blocks.py -s grc -d grammar/grc -n` reported no changes, and `grammar.py --notes` found no translation notes.
+- Checked by script over all 34 cantos: every canto has its summary; the sections match `source.oelsner_passages` from line 1 to the last line of the canto with no gap or overlap; every range has its Italian quote, Oelsner's English, the Greek and its English as quoted from the sources, and a list of bullets with no nesting; the English joined per section matches the source word for word. No invisible or stray characters, and no unbalanced `*` or quotation marks. Bullets per line (1.07–1.21, mean 1.13) and the length of the summaries (308–422 words, mean 350) are even over the cantos. Bold (`**…**`, about 100 times) is used for contrastive emphasis (*designated **as***, *genitive **singular***) and is kept.
+- Every italic quotation of two or more words was looked up in the lines of its range. The Italian ones not found there take up a neighbouring line or reorder a phrase, except one, corrected below. Of the Greek ones, about 70 take up a neighbouring line (Musurus's lines do not always match the Italian line for line), and the rest resolve crasis or elision (*καὶ ἐγώ* for *κἀγώ*) or give dictionary forms. The crasis resolutions were all checked.
+- The main fault was in explanations of elision before a rough breathing: for *ἔνθ᾽*, *ἐνταῦθ᾽*, *ἄπιθ᾽*, and *εἴθ᾽* the model often claimed that *τ* had been aspirated to *θ*, though the *θ* belongs to the word, and in several places it called smoothly breathed words (*ὀλολυγμούς*, *ἔδει*, *ἤλθομεν*, *ἦν*, *ἐντεῦθεν*, *ἠχεῖ*) rough. Every claim of a rough breathing was then checked by script against the breathing of the word named.
+- Read: cantos XVII 1–21 and XXXIV 85–139 (with the summary of XXXIV) in full, and 40 bullets drawn at random from all cantos.
+- `texts/grc/` prints *οὐμὸς* for *οὑμός* in XXX 143; the bullet now says so, and the text is left to `main`.
+- Corrected (24 files):
+  - The Greek koronis (`᾽`) used as the apostrophe in 37 Italian elisions in the bullets of cantos XI, XVIII, XXI, and XXXI (*l᾽ occhio*) replaced by `’`.
+  - *ἔνθα*, *ἐνταῦθα*, *ἄπιθι*, *εἴθε* claimed as aspirated on elision (26 bullets in 21 files): now simply elided. Three of these were garbled beyond the claim (`012-canto-09.md` line 126, `021-canto-18.md` line 88, `030-canto-27.md` line 392) and were rewritten.
+  - `017-canto-14.md` (line 39): *ἀφίγμεθα* is perfect, not aorist; the garbled note on aspiration before *εἰς* was removed.
+  - `036-canto-33.md` (line 559): *ἠχεῖ* is not rough-breathed.
+  - `023-canto-20.md` (line 245): split word *ciasc heduno* → *ciascheduno*.
+  - `015-canto-12.md` (line 342): *the supplied e ria e folle* → *Oelsner’s e ria e folle* (the Greek follows the reading *ira folle*).
+  - `033-canto-30.md` (line 974): the printed *οὐμός* noted as standing for *οὑμός*.
+  - `025-canto-22.md` (line 813): *ἡμῶν* with *σὺ μόνος* is partitive (‘you alone of us’), not comparative.

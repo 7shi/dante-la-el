@@ -41,7 +41,7 @@ import re
 import sys
 from pathlib import Path
 
-from source import SOURCES, source_lines
+from source import SOURCES, en_grc_lines, oelsner_lines, source_lines
 
 CANTICLES = ["inferno", "purgatorio", "paradiso"]
 
@@ -144,7 +144,8 @@ def normalize_file(path: Path, source: str, trans_dir: Path | None,
     """Rewrite the quote blocks of one commentary from the source + its .txt.
     True if changed; False (with a warning) if the file has no .txt or its
     canticle/canto can't be resolved from its path."""
-    if "prose" in SOURCES[source]:
+    grc_en = source == "grc" and trans_dir is None and bool(TEXT_NAME_RE.search(path.name))
+    if "prose" in SOURCES[source] or grc_en:
         m = TEXT_NAME_RE.search(path.name)
         canticle = SOURCES[source]["canticles"][0]
         number = int(m.group(1)) if m else 0
@@ -154,6 +155,36 @@ def normalize_file(path: Path, source: str, trans_dir: Path | None,
         print(f"{path}: can't resolve canticle/canto from path, file left as-is",
               file=sys.stderr)
         return False
+
+    if grc_en:
+        try:
+            it_originals = {line.no: line.text for line in oelsner_lines(number)}
+            grc_originals = {line.no: line.text
+                             for line in source_lines("grc", canticle, number)}
+            grc_translations = [line.text for line in en_grc_lines(number)]
+        except ValueError as e:
+            print(f"{path}: {e}, file left as-is", file=sys.stderr)
+            return False
+        lines = path.read_text().splitlines()
+        out = list(lines)
+        for start, end in reversed(find_blocks(lines)):
+            block = lines[start:end]
+            if not ORIG_RE.match(block[0]):
+                continue
+            has_trans = len(block) > 1 and bool(TRANS_RE.match(block[1]))
+            rebuilt = rebuild_block(
+                path,
+                grc_originals if has_trans else it_originals,
+                grc_translations if has_trans else None,
+                block,
+            )
+            if rebuilt is not None:
+                out[start:end] = rebuilt
+        if out == lines:
+            return False
+        if not dry_run:
+            path.write_text("\n".join(out) + "\n")
+        return True
 
     if "prose" in SOURCES[source]:
         translations = None
@@ -198,7 +229,7 @@ def main():
                         help="Report the changes without writing them back")
     args = parser.parse_args()
 
-    if "prose" in SOURCES[args.source]:
+    if "prose" in SOURCES[args.source] or (args.source == "grc" and args.translations is None):
         paths = [path for dir in args.dirs for path in sorted(dir.glob("*-canto-*.md"))]
     else:
         paths = [
