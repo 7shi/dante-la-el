@@ -92,3 +92,25 @@ The review (2026-11-21):
   - `012-canto-11.md` (line 58): fixed split word *fer mossi* → *fermossi*.
   - `016-canto-15.md` (line 514): cleaned up self-correction phrasing in `- *Saria tenuta allor tal maraviglia* ‘would be held then such a marvel’ → “Then” … “would have been as great a marvel”`.
   - `034-canto-33.md` (lines 455–456): merged the empty-quote bullet `- *guardando* ‘in looking’ → “”` into the preceding bullet on *s' avvalorava in me, guardando*.
+
+## 3. grammar/grc
+
+`make grammar CANTICLE=inferno LANG=en SOURCE=grc`: Musurus's Greek (`texts/grc/`) explained against the Italian of Oelsner's edition with his English (`texts/en-oelsner/`, spread by spread by `source.oelsner_passages`), each Greek line followed by its English from `translations/en/grc/`. Canto 1 was tried first (`de236eb7`); then all 34 cantos of the Inferno were generated (`gpt-6.2-astra`, `465ca7d6`).
+
+The review (2026-11-26):
+
+- `fix_quote_blocks.py -s grc -d grammar/grc -n` reported no changes, and `grammar.py --notes` found no translation notes.
+- Checked by script over all 34 cantos: every canto has its summary; the sections match `source.oelsner_passages` from line 1 to the last line of the canto with no gap or overlap; every range has its Italian quote, Oelsner's English, the Greek and its English as quoted from the sources, and a list of bullets with no nesting; the English joined per section matches the source word for word. No invisible or stray characters, and no unbalanced `*` or quotation marks. Bullets per line (1.07–1.21, mean 1.13) and the length of the summaries (308–422 words, mean 350) are even over the cantos. Bold (`**…**`, about 100 times) is used for contrastive emphasis (*designated **as***, *genitive **singular***) and is kept.
+- Every italic quotation of two or more words was looked up in the lines of its range. The Italian ones not found there take up a neighbouring line or reorder a phrase, except one, corrected below. Of the Greek ones, about 70 take up a neighbouring line (Musurus's lines do not always match the Italian line for line), and the rest resolve crasis or elision (*καὶ ἐγώ* for *κἀγώ*) or give dictionary forms. The crasis resolutions were all checked.
+- The main fault was in explanations of elision before a rough breathing: for *ἔνθ᾽*, *ἐνταῦθ᾽*, *ἄπιθ᾽*, and *εἴθ᾽* the model often claimed that *τ* had been aspirated to *θ*, though the *θ* belongs to the word, and in several places it called smoothly breathed words (*ὀλολυγμούς*, *ἔδει*, *ἤλθομεν*, *ἦν*, *ἐντεῦθεν*, *ἠχεῖ*) rough. Every claim of a rough breathing was then checked by script against the breathing of the word named.
+- Read: cantos XVII 1–21 and XXXIV 85–139 (with the summary of XXXIV) in full, and 40 bullets drawn at random from all cantos.
+- `texts/grc/` prints *οὐμὸς* for *οὑμός* in XXX 143; the bullet now says so, and the text is left to `main`.
+- Corrected (24 files):
+  - The Greek koronis (`᾽`) used as the apostrophe in 37 Italian elisions in the bullets of cantos XI, XVIII, XXI, and XXXI (*l᾽ occhio*) replaced by `’`.
+  - *ἔνθα*, *ἐνταῦθα*, *ἄπιθι*, *εἴθε* claimed as aspirated on elision (26 bullets in 21 files): now simply elided. Three of these were garbled beyond the claim (`012-canto-09.md` line 126, `021-canto-18.md` line 88, `030-canto-27.md` line 392) and were rewritten.
+  - `017-canto-14.md` (line 39): *ἀφίγμεθα* is perfect, not aorist; the garbled note on aspiration before *εἰς* was removed.
+  - `036-canto-33.md` (line 559): *ἠχεῖ* is not rough-breathed.
+  - `023-canto-20.md` (line 245): split word *ciasc heduno* → *ciascheduno*.
+  - `015-canto-12.md` (line 342): *the supplied e ria e folle* → *Oelsner’s e ria e folle* (the Greek follows the reading *ira folle*).
+  - `033-canto-30.md` (line 974): the printed *οὐμός* noted as standing for *οὑμός*.
+  - `025-canto-22.md` (line 813): *ἡμῶν* with *σὺ μόνος* is partitive (‘you alone of us’), not comparative.
