@@ -124,7 +124,7 @@ Write, in English and in Markdown, a commentary on lines {start}–{end} for Eng
 - Take up the vocabulary: Ancient words that Modern Greek has dropped, replaced, or given another meaning, with the Modern word that the translation uses instead; and Ancient words that the translation keeps, as learned Modern Greek may.
 - Give the form of an Ancient word (tense, mood, voice, person, case, number, dictionary form) only where the comparison needs it, and pass over what is the same in both.
 - The changes of spelling and sound (the monotonic accent, the breathings, iota subscript, the pronunciation) get no comment of their own: they are summed up at the end of the canto.
-- Write Greek words in italics and your own English glosses in single quotation marks (‘…’).
+- Write Greek words in italics and your own English glosses in single quotation marks (‘…’). Use no bold.
 - Do not explain the content: no story, allegory, background, sources, or meter.
 - Do not rewrite the translation. If it gets the meaning or grammar of a line wrong, add a paragraph opening with `Translation note:` that says what is wrong and what the line means.
 """.strip()
@@ -178,7 +178,7 @@ Write, in English and in Markdown, the closing section of that commentary: the h
 GRC_EL_SUMMARY_PROMPT = """
 Attached is the {source} of canto {number} of Dante's Divine Comedy, {canticle}, line by line, each line followed by its translation into Modern Greek in parentheses, and a commentary on how the Ancient Greek differs from the Modern Greek.
 
-Write, in English and in Markdown, the closing section of that commentary: the heading `## Summary — <a short title>`, followed by a few paragraphs that sum up the differences between Musurus's Ancient Greek and the Modern Greek translation that recur in this canto (the forms and constructions lost or replaced, the particles, the vocabulary dropped, replaced, or kept), with a few examples, and the changes of spelling and sound that the commentary leaves out (the monotonic accent, the breathings, iota subscript, the pronunciation). Quote no lines and do not explain the content (story, allegory, background, meter). Write Greek words in italics and English glosses in single quotation marks (‘…’). Output only this section.
+Write, in English and in Markdown, the closing section of that commentary: the heading `## Summary — <a short title>`, followed by a few paragraphs that sum up the differences between Musurus's Ancient Greek and the Modern Greek translation that recur in this canto (the forms and constructions lost or replaced, the particles, the vocabulary dropped, replaced, or kept), with a few examples, and the changes of spelling and sound that the commentary leaves out (the monotonic accent, the breathings, iota subscript, the pronunciation). Quote no lines and do not explain the content (story, allegory, background, meter). Write Greek words in italics and English glosses in single quotation marks (‘…’), and use no bold. Output only this section.
 """.strip()
 
 PROSE_SUMMARY_PROMPT = """
