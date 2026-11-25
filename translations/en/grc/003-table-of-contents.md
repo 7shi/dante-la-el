@@ -36,7 +36,7 @@ Page
 
 CANTO XII.—The seventh circle, having three divisions for the violent.—Minotaur.—The Centaurs.—Nessus.—Chiron.—The violent against others.—Phlegethon . . . 84
 
-CANTO XIII.—The violent against themselves.—The forest of the suicides.—The Harpies.—Pier delle Vigne.—Lano.—Jacomo da Sant’ Andrea . . . 92
+CANTO XIII.—The violent against themselves.—The forest of the suicides.—The Harpies.—Pier delle Vigne.—Lano.—Jacomo da Sant' Andrea . . . 92
 
 CANTO XIV.—The violent against God.—The burning sand and the rain of fire.—Capaneus.—The source of the four rivers of Hell . . . 100
 
@@ -84,6 +84,6 @@ CANTO XXXI.—The Giants.—Nimrod.—Ephialtes.—Antaeus.—Descent into the n
 
 CANTO XXXII.—Cocytus, or the lake of ice.—Caina.—Antenora.—The Traitors . . . 241
 
-CANTO XXXIII.—Continuation.—Ugolino.—Ptolomaea.—Alberigo.—Branca d’Oria . . . 249
+CANTO XXXIII.—Continuation.—Ugolino.—Ptolomaea.—Alberigo.—Branca d'Oria . . . 249
 
 CANTO XXXIV.—Judecca.—Lucifer.—Judas Iscariot.—Brutus and Cassius.—Exit from Hell . . . 258

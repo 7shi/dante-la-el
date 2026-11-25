@@ -22,7 +22,7 @@ NOTES.
 
 <!-- p. 270 (290) -->
 
-60\. The poet means not the physical, but the mystical sun, that is, illuminating, virtuous felicity; for with the poet light is a symbol of felicity, and darkness of misery. He calls it silent metaphorically for not shining forth, as if he were saying: “the she-wolf was driving me out from the fair hopes of the ascent up the hill toward the former valley of desolation.” Using a similar metaphor, the poet said elsewhere: ‘in loco d’ogni luce muto’ (V, 28), that is, into a speechless, mute place, instead of devoid, deprived of light. Of a like kind would be the metaphor in Sophocles in his use of the word τυφλός (“blind”) instead of devoid, deprived: “Thou art blind in ears and mind and eyes” (Oed. Tyr. 371), and “in his art he was born blind” (ibid. 389). Perhaps Dante imitated in his use of the word *tacere* (to be silent) Virgil, who said: ‘loca tacentia’ (Aen. VI, 265), which words our Eugenius Voulgaris translated “ἄναυδοι χῶροι” (“voiceless regions”), just as the English poet Milton, imitating Dante, represents the sun as silent, saying:\
+60\. The poet means not the physical, but the mystical sun, that is, illuminating, virtuous felicity; for with the poet light is a symbol of felicity, and darkness of misery. He calls it silent metaphorically for not shining forth, as if he were saying: «the she-wolf was driving me out from the fair hopes of the ascent up the hill toward the former valley of desolation.» Using a similar metaphor, the poet said elsewhere: ‘in loco d'ogni luce muto’ (V, 28), that is, into a speechless, mute place, instead of devoid, deprived of light. Of a like kind would be the metaphor in Sophocles in his use of the word τυφλός (“blind”) instead of devoid, deprived: “Thou art blind in ears and mind and eyes” (Oed. Tyr. 371), and “in his art he was born blind” (ibid. 389). Perhaps Dante imitated in his use of the word *tacere* (to be silent) Virgil, who said: ‘loca tacentia’ (Aen. VI, 265), which words our Eugenius Voulgaris translated “ἄναυδοι χῶροι” (“voiceless regions”), just as the English poet Milton, imitating Dante, represents the sun as silent, saying:\
 “The sun to me is dark,\
 And silent as the moon\
 When she deserts the night\
@@ -104,7 +104,7 @@ Hid in her vacant interlunar cave.” (S. Ag.)
 
 ## On Canto V
 
-28\. In the original “in loco d’ogni luce muto,” that is, “into a place mute of all light.” (See Note on Canto I, 60.)
+28\. In the original “in loco d'ogni luce muto,” that is, “into a place mute of all light.” (See Note on Canto I, 60.)
 
 57\. Paulus Orosius, Christian historian, a Spanish presbyter, writing about Semiramis says the following (I, 4): “Privatam ignominiam publico scelere obtexit. Precepit enim ut . . . cuique libitum esset, liberum fieret.”
 
@@ -124,7 +124,7 @@ Hid in her vacant interlunar cave.” (S. Ag.)
 “He who once prospered, having fallen into misfortune,\
 Wanders in soul far from his former well-being.”
 
-128\. Lancelot, one of the knights of the Round Table (Table Ronde) and lover of Queen Guinevere in the romance of Lancelot. The passage to which the poet alludes at the end of the narrative runs as follows in an old French translation of the book: “ Galléhaut ajouta que toutes les prouesses qu’avait faites depuis Lancelot n’avaient eu pour but que de plaire à la reine, et qu'il en était passionnément amoureux, et sur-le-champ exigea qu'en récompense de si nobles services la reine donnât un baiser à son chevalier. “De quoy me ferois-je prier? fait-elle, plus le veuil-je que vous. “Lors tous trois se retirent plus à part et font semblant de conseiller. La reine voit que le chevalier n'en ose plus faire, si le prend par le menton, et le baisa devant Galléhaut assez longuement.”
+128\. Lancelot, one of the knights of the Round Table (Table Ronde) and lover of Queen Guinevere in the romance of Lancelot. The passage to which the poet alludes at the end of the narrative runs as follows in an old French translation of the book: “ Galléhaut ajouta que toutes les prouesses qu'avait faites depuis Lancelot n'avaient eu pour but que de plaire à la reine, et qu'il en était passionnément amoureux, et sur-le-champ exigea qu'en récompense de si nobles services la reine donnât un baiser à son chevalier. “De quoy me ferois-je prier? fait-elle, plus le veuil-je que vous. “Lors tous trois se retirent plus à part et font semblant de conseiller. La reine voit que le chevalier n'en ose plus faire, si le prend par le menton, et le baisa devant Galléhaut assez longuement.”
 
 <!-- p. 277 (297) -->
 
@@ -148,13 +148,13 @@ Wanders in soul far from his former well-being.”
 
 ## On Canto VII
 
-1\. None of the interpretations by which many have tried to explain these cries of the Demon is easily acceptable; perhaps simpler is the following: “Papai Satan, papai Satan! (exclamatorily) my Alpha! (in Hebrew Aleph), that is, Ruler, by analogy with the first letter of the alphabet.” Note that the poet, confusing Pluto (Πλούτων), as other non-Greek writers also do, with Plutus (Πλοῦτος), represents him as presiding over the torments of the avaricious and prodigal, just as Cerberus over those of the gluttons. It is also worthy of note that, as among the Greeks there is a similarity between the names of the two gods Pluto and Plutus, so too among the Latins Dis is the name both of the god of Hell and of the god of wealth.
+1\. None of the interpretations by which many have tried to explain these cries of the Demon is easily acceptable; perhaps simpler is the following: Papai Satan, papai Satan! (exclamatorily) my Alpha! (in Hebrew Aleph), that is, Ruler, by analogy with the first letter of the alphabet. Note that the poet, confusing Pluto (Πλούτων), as other non-Greek writers also do, with Plutus (Πλοῦτος), represents him as presiding over the torments of the avaricious and prodigal, just as Cerberus over those of the gluttons. It is also worthy of note that, as among the Greeks there is a similarity between the names of the two gods Pluto and Plutus, so too among the Latins Dis is the name both of the god of Hell and of the god of wealth.
 
 11\. He alludes to the war in heaven mentioned in the Apocalypse and the victory of Michael over the Dragon.
 
 <!-- p. 280 (300) -->
 
-30\. “Why do you hold?” (*perchè tieni?*) thus speak the prodigals to the avaricious; “why do you cast away?” (*perchè burli?*) thus the avaricious to the prodigals. That is, why do you hoard silver, stint money? and why do you scatter silver, squander your substance? Speaking thus, they reproach one another with the cause of their condemnation.
+30\. Why do you hold? (*perchè tieni?*) thus speak the prodigals to the avaricious; why do you cast away? (*perchè burli?*) thus the avaricious to the prodigals. That is, why do you hoard silver, stint money? and why do you scatter silver, squander your substance? Speaking thus, they reproach one another with the cause of their condemnation.
 
 68\. This description of Fortune rivals that of Horace (Odes I, 35).
 
@@ -224,9 +224,9 @@ Displaying their counter-blowing strife.” (Prom. 1086-1087.)
 
 112\. Arles (in Strabo and certain Latin writers *Arelate*, instead of Ptolemy's *Arelatai*), a marshy region beside the Rhone. In it there is an ancient burial ground called the Elysian Field (*Campus Elysius*, now *Eliscamp*), in which there are many gravestones both of pagans and of Christians. Pola, a city in Istria, near the gulf called *Quarnaro* by the poet, now *Quarnero*, anciently that of Flanona.
 
-130\. “Here like lies together with like,” because each tomb contains followers of the same heresy.
+130\. Here like lies together with like, because each tomb contains followers of the same heresy.
 
-133\. “Between the walls and the *martyria*.” The word “μαρτύρια” (“martyria”), in the Poet *martiri*, in Latin *martyria*, means here not tortures, as almost all interpreters, both Italian and non-Italian, have supposed, but, in ecclesiastical usage, the tombs and cemeteries of the heretics, in which they buried their prominent men, calling these cemeteries of their co-religionists *martyria* (μαρτύρια). See Canon IX of the Council of Laodicea, and the notes of Zonaras, Balsamon, and Aristenus.
+133\. Between the walls and the *martyria*. The word “μαρτύρια” (“martyria”), in the Poet *martiri*, in Latin *martyria*, means here not tortures, as almost all interpreters, both Italian and non-Italian, have supposed, but, in ecclesiastical usage, the tombs and cemeteries of the heretics, in which they buried their prominent men, calling these cemeteries of their co-religionists *martyria* (μαρτύρια). See Canon IX of the Council of Laodicea, and the notes of Zonaras, Balsamon, and Aristenus.
 
 ## On Canto X
 
@@ -236,19 +236,19 @@ Displaying their counter-blowing strife.” (Prom. 1086-1087.)
 
 32\. Farinata degli Uberti, a great leader of the Ghibellines. He is placed here as denying the immortality of the soul and holding the doctrines of Epicurus.
 
-46\. Dante’s ancestors were Guelphs, as was he himself, at least until their division into Blacks and Whites, when the White party, since the Pope joined the Blacks, naturally became Ghibelline. They were expelled from Florence by the Ghibellines in 1248, and again in 1260 after the battle of Montaperti; but they returned, so that in 1300 the Guelphs were once more in power in Florence, the Ghibellines having been banished.
+46\. Dante's ancestors were Guelphs, as was he himself, at least until their division into Blacks and Whites, when the White party, since the Pope joined the Blacks, naturally became Ghibelline. They were expelled from Florence by the Ghibellines in 1248, and again in 1260 after the battle of Montaperti; but they returned, so that in 1300 the Guelphs were once more in power in Florence, the Ghibellines having been banished.
 
 <!-- p. 285 (305) -->
 
 48\. The first time in 1248, the second in 1260. (See the preceding note.)
 
-52\. This shade is Cavalcante dei Cavalcanti, father of Dante’s friend Guido Cavalcanti, who was himself a poet and philosopher. Guido was Farinata’s son-in-law, though he belonged to the opposite party, and was still among the living at Easter 1300, dying in December of the same year.
+52\. This shade is Cavalcante dei Cavalcanti, father of Dante's friend Guido Cavalcanti, who was himself a poet and philosopher. Guido was Farinata's son-in-law, though he belonged to the opposite party, and was still among the living at Easter 1300, dying in December of the same year.
 
 63\. Probably as not admiring Virgil so much as Dante did.
 
 79\. The Lady in question is Persephone, who is also the Moon; as if he were saying: fifty lunar months will pass, that is, four years and some days.
 
-81\. Banished in 1300, the Whites made a final attempt in 1304—that is, nine months after Farinata’s prophecy—to return to Florence; but from that time on their return became ever more hopeless, and in fact was never accomplished.
+81\. Banished in 1300, the Whites made a final attempt in 1304—that is, nine months after Farinata's prophecy—to return to Florence; but from that time on their return became ever more hopeless, and in fact was never accomplished.
 
 85\. Farinata commanded the allied army of the Ghibellines when he utterly defeated the Florentines and the other Guelphs of Etruria at Montaperti, by the river Arbia, on 4 September 1260. Immediately after the battle, a council of the Ghibelline cities was held at Empoli, in which a proposal was made to raze Florence to the ground and destroy its entire political existence. But Farinata opposed the annihilation of his native city, and thus saved it from utter ruin.
 
@@ -256,17 +256,17 @@ Displaying their counter-blowing strife.” (Prom. 1086-1087.)
 
 87\. In Florence, the assemblies of the people were held in the church of San Giovanni.
 
-99\. For this reason, even though Farinata had foretold Dante’s exile, Cavalcanti did not know that his son was still among the living.
+99\. For this reason, even though Farinata had foretold Dante's exile, Cavalcanti did not know that his son was still among the living.
 
 119\. The Emperor Frederick II (who died in 1250) was excommunicated by the Church of Rome both for his political resistance to the papacy and as a promoter of enlightened learning and favorably disposed toward his Saracen subjects in Sicily; for this reason he was also slandered in popular opinion as guilty of Epicureanism and heresy.
 
-120\. Ottavio degli Ubaldini, who died about 1273, and was called “the Cardinal.” He used to say blasphemously: “If I have a soul, I have lost it for the sake of the Ghibellines.”
+120\. Ottavio degli Ubaldini, who died about 1273, and was called the Cardinal. He used to say blasphemously: “If I have a soul, I have lost it for the sake of the Ghibellines.”
 
 131\. It is Beatrice to whom the poet alludes.
 
 ## On Canto XI
 
-8\. One of the Popes of this name (probably Anastasius II) was erroneously believed in the poet’s time to have died struck by lightning, as having embraced the heresy of Photinus, Deacon of Thessalonica, who lived in the fourth century and wrote against the divinity of Jesus Christ. The chronicler Martin of Poland (Frère Martin de Pologne), and after him Dante, confused the Pope with the Emperor of the same name.
+8\. One of the Popes of this name (probably Anastasius II) was erroneously believed in the poet's time to have died struck by lightning, as having embraced the heresy of Photinus, Deacon of Thessalonica, who lived in the fourth century and wrote against the divinity of Jesus Christ. The chronicler Martin of Poland (Frère Martin de Pologne), and after him Dante, confused the Pope with the Emperor of the same name.
 
 <!-- p. 287 (307) -->
 
@@ -274,7 +274,7 @@ Displaying their counter-blowing strife.” (Prom. 1086-1087.)
 
 80\. Arist. *Nic. Eth.* VII, 1: “Of things to be avoided in respect of character there are three kinds: malice, incontinence, bestiality.”
 
-90\. The first circle is the Forecourt (Limbo), that is, the dwelling of the virtuous pagans. In circles II, III, IV, and V are punished the Christian deadly sins of carnal Lust, Gluttony, Avarice and its opposite, Prodigality, Anger, and Sloth, referred to the Aristotelian head of Incontinence. In the sixth circle lie the heretics and Epicureans. In the seventh, the violent, divided into three classes—those violent against others, against themselves, and against God—this last class being subdivided into those who offend against God in His own person, in nature, and in art. In the eighth circle, namely Evil-pit (Malebolge), lie the fraudulent, divided into ten classes: 1. seducers of women; 2. flatterers; 3. simoniacs; 4. sorcerers; 5. swindlers; 6. hypocrites; 7. thieves; 8. evil counselors; 9. authors of political divisions; 10. falsifiers, among whom are included alchemists, impostors (those who fraudulently assume false names or wickedly pass under another’s name), counterfeiters, and liars. All these are referred to the Aristotelian head of Malice, corresponding to the deadly sin of Envy. The ninth circle contains the traitors, divided into four classes—namely against kinsmen, country, friends, and benefactors—and referred to the Aristotelian head of Bestiality, corresponding to Pride, the seventh and last of the seven deadly sins.
+90\. The first circle is the Forecourt (Limbo), that is, the dwelling of the virtuous pagans. In circles II, III, IV, and V are punished the Christian deadly sins of carnal Lust, Gluttony, Avarice and its opposite, Prodigality, Anger, and Sloth, referred to the Aristotelian head of Incontinence. In the sixth circle lie the heretics and Epicureans. In the seventh, the violent, divided into three classes—those violent against others, against themselves, and against God—this last class being subdivided into those who offend against God in His own person, in nature, and in art. In the eighth circle, namely Evil-pit (Malebolge), lie the fraudulent, divided into ten classes: 1. seducers of women; 2. flatterers; 3. simoniacs; 4. sorcerers; 5. swindlers; 6. hypocrites; 7. thieves; 8. evil counselors; 9. authors of political divisions; 10. falsifiers, among whom are included alchemists, impostors (those who fraudulently assume false names or wickedly pass under another's name), counterfeiters, and liars. All these are referred to the Aristotelian head of Malice, corresponding to the deadly sin of Envy. The ninth circle contains the traitors, divided into four classes—namely against kinsmen, country, friends, and benefactors—and referred to the Aristotelian head of Bestiality, corresponding to Pride, the seventh and last of the seven deadly sins.
 
 <!-- p. 288 (308) -->
 
@@ -292,7 +292,7 @@ Displaying their counter-blowing strife.” (Prom. 1086-1087.)
 
 5\. *Atison*, the river called *Adige* in the poet.
 
-12\. The Minotaur was slain by Theseus, the hero of Athens, who was guided into the labyrinth in Crete by the thread given him by the monster’s sister Ariadne. He is placed here as guardian of the circle of the violent.
+12\. The Minotaur was slain by Theseus, the hero of Athens, who was guided into the labyrinth in Crete by the thread given him by the monster's sister Ariadne. He is placed here as guardian of the circle of the violent.
 
 <!-- p. 289 (309) -->
 
@@ -301,7 +301,7 @@ Displaying their counter-blowing strife.” (Prom. 1086-1087.)
 Taurus, et incertam excussit cervice securim.”\
 (*Aen.* II, 223).
 
-40\. In the earthquake at the Crucifixion, when Christ’s descent into Hell took place.
+40\. In the earthquake at the Crucifixion, when Christ's descent into Hell took place.
 
 43\. Empedocles held that through the operation of certain forces of Hatred (Repulsion) and Love (Attraction), the world in alternating periods was reduced to chaos and returned again to order.
 
@@ -348,7 +348,7 @@ Taurus, et incertam excussit cervice securim.”\
 
 120\. Lano, a nobleman of Siena (*Sena*, commonly Siena, in Ptolemy *Saena*), having squandered his patrimony, sought and found death in the battle at Toppo between the Florentines and the Aretines in 1288, when he might have saved himself by flight.
 
-133\. Jacomo da Sant’ Andrea, having foolishly squandered all his wealth, committed suicide. It is said that, among his other follies, he set fire to one of his country houses in order to provide the spectacle of a great conflagration for a convivial friend who happened to visit him.
+133\. Jacomo da Sant' Andrea, having foolishly squandered all his wealth, committed suicide. It is said that, among his other follies, he set fire to one of his country houses in order to provide the spectacle of a great conflagration for a convivial friend who happened to visit him.
 
 143\. Florence was built on the Field of Mars (*Campus Martius*) of the earlier ancient city of Fiesole (*Fisole*), and was placed under the protection of Mars. When Florence embraced Christianity, the ancient temple of Mars was converted into a church dedicated to Saint John the Baptist; the statue of the god was removed and placed on the bank of the Arno, and is said to have fallen into the river at the falsely supposed capture of Florence by Attila; but it was recovered before the city was rebuilt by Charlemagne, when it was set up on the end of the Old Bridge, the planet Mars being then in a favorable aspect. The remaining fragments of the statue were in subsequent times somewhat superstitiously connected with the fortunes of the city; for at its feet Buondelmonte was slain in the affray whose consequence was the formation of the Guelph and Ghibelline factions, in 1275; and its removal occurred one year before the divisions of the Blacks and Whites broke out.
 
@@ -384,17 +384,17 @@ Taurus, et incertam excussit cervice securim.”\
 
 9\. *Klarentana*, in the poet *Chiarentana*, a mountain forming part of the Alps near Trent. Its snow, melting in summer, swells the waters of the Brenta and causes floods, against which the Paduans are forced to guard.
 
-30\. Brunetto Latini, born in 1220 and died in 1294, an eminent Florentine philosopher and statesman, and Dante’s teacher in his youth. He composed the *Treasure* (*Tesoro*), as a kind of compendium of all knowledge, including also a version of Aristotle’s *Ethics*. The book was written in French by Brunetto, though it was published only in an Italian translation by Bono Gamboni. The author, defending his use of the French language, speaks as follows: “ Et si d’aucuns demande porquoy chis’ livres est écrit en romans, selon le patois de France, puisque nous somes Italiens, je diroé que c’est por deux raisons: l’une porque nous somes en France, l’autre si est porceque françois est plus délitaubles langages et plus communs que moult autres.” Brunetto was considered prone to sensuality; yet the poet is nonetheless censurable for placing his own teacher among those punished for abominable sins.
+30\. Brunetto Latini, born in 1220 and died in 1294, an eminent Florentine philosopher and statesman, and Dante's teacher in his youth. He composed the *Treasure* (*Tesoro*), as a kind of compendium of all knowledge, including also a version of Aristotle's *Ethics*. The book was written in French by Brunetto, though it was published only in an Italian translation by Bono Gamboni. The author, defending his use of the French language, speaks as follows: “ Et si d'aucuns demande porquoy chis' livres est écrit en romans, selon le patois de France, puisque nous somes Italiens, je diroé que c'est por deux raisons: l'une porque nous somes en France, l'autre si est porceque françois est plus délitaubles langages et plus communs que moult autres.” Brunetto was considered prone to sensuality; yet the poet is nonetheless censurable for placing his own teacher among those punished for abominable sins.
 
-62\. The inhabitants of the ancient hill town of Fiesole mingled with the Roman colonists by whom the city of Florence was founded. The factions and lawlessness of the city are traced back to their descendants, living in the midst of families that prided themselves on pure Roman descent. Dante’s family was one of these, claiming to trace its descent from the Elisei back to the ancient consular line of the Frangipani.
+62\. The inhabitants of the ancient hill town of Fiesole mingled with the Roman colonists by whom the city of Florence was founded. The factions and lawlessness of the city are traced back to their descendants, living in the midst of families that prided themselves on pure Roman descent. Dante's family was one of these, claiming to trace its descent from the Elisei back to the ancient consular line of the Frangipani.
 
 <!-- p. 295 (315) -->
 
 107\. Priscian, of Caesarea, the well-known grammarian of the sixth century.
 
-110\. Francesco d’Accorso, a Florentine, the famous jurist of Bologna, who flourished in the thirteenth century. His son, bearing the same name as his father and likewise a jurist, was in the service of Edward I and resided for some time in Oxford.
+110\. Francesco d'Accorso, a Florentine, the famous jurist of Bologna, who flourished in the thirteenth century. His son, bearing the same name as his father and likewise a jurist, was in the service of Edward I and resided for some time in Oxford.
 
-112\. This was Andrea de’ Mozzi, Bishop of Florence on the Arno, who on account of his scandalous life was transferred by the Pope (“Servant of the Servants of God”) to the less distinguished bishopric of Vicenza on the river *Togisonus* (the ancient name of what is now, as also in the poet, called the Bacchiglione), where he died.
+112\. This was Andrea de' Mozzi, Bishop of Florence on the Arno, who on account of his scandalous life was transferred by the Pope (“Servant of the Servants of God”) to the less distinguished bishopric of Vicenza on the river *Togisonus* (the ancient name of what is now, as also in the poet, called the Bacchiglione), where he died.
 
 120\. A cloth of a specific color used to be given as a prize to the winners in the foot-races of those times. At Verona the color of the cloth was green.
 
@@ -420,7 +420,7 @@ Taurus, et incertam excussit cervice securim.”\
 
 <!-- p. 297 (317) -->
 
-102\. Either because *Maruvium* was in the poet’s day properly a monastery named San Benedetto, capable of holding more than a thousand monks if it were well administered; or because, according to some, the poet alludes to a design, once entertained but later abandoned, of founding a new town near *Maruvium*.
+102\. Either because *Maruvium* was in the poet's day properly a monastery named San Benedetto, capable of holding more than a thousand monks if it were well administered; or because, according to some, the poet alludes to a design, once entertained but later abandoned, of founding a new town near *Maruvium*.
 
 106\. An allegorical sense is given to this passage by some, who maintain that Dante in his youth became a tertiary, that is, a lay member of the Order of Saint Francis, and wore the cord forming part of the habit of the order, thinking that in such a profession and by outward discipline he could subdue the temptations symbolized by the spotted hide of the leopard in Canto I; wherefore he fittingly laid aside the cord as soon as he had passed through the circles in which are punished the sins combated by such discipline—namely those of Incontinence, and indeed those of Malice whenever Fraud is not in them—and just as he was about to descend into the circles where are punished the sins of a hypocritical and wicked heart and of an inherently evil disposition.
 
@@ -444,17 +444,17 @@ Taurus, et incertam excussit cervice securim.”\
 
 1\. Evil-pit (Malebolge), rendering the word *Malebolge* (“evil pits”), which the poet uses.
 
-29\. A countless multitude of people gathered in Rome in the first year of the indulgence (the Jubilee), instituted by Pope Boniface VIII in 1300. G. Villani says that two hundred thousand were constantly in Rome throughout the year. Barriers were set up down the middle of the bridge of Sant’ Angelo, to divide the stream-like crowd of pilgrims coming and returning from visiting Saint Peter’s. The hill is the Janiculum, and especially the part on which the church of Saint Peter stands; and the castle is that of Sant’ Angelo.
+29\. A countless multitude of people gathered in Rome in the first year of the indulgence (the Jubilee), instituted by Pope Boniface VIII in 1300. G. Villani says that two hundred thousand were constantly in Rome throughout the year. Barriers were set up down the middle of the bridge of Sant' Angelo, to divide the stream-like crowd of pilgrims coming and returning from visiting Saint Peter's. The hill is the Janiculum, and especially the part on which the church of Saint Peter stands; and the castle is that of Sant' Angelo.
 
 <!-- p. 299 (319) -->
 
-50\. A Bolognese, who sold his sister to Obizzo II d’Este, Marquis of Ferrara.
+50\. A Bolognese, who sold his sister to Obizzo II d'Este, Marquis of Ferrara.
 
 61\. Savena and Reno, small rivers flowing parallel for a great distance; between them lies Bologna. *Sipa* (*sipa*, nowadays *sipo*) is an affirmative adverb which the Bolognese used instead of the *sì* (“yes”) of the other Italians. Something of the same kind is the Attic *naichi* (“yes indeed”), as well as the diminutive *Naiske* common among us.
 
 93\. At the slaughter of the men of Lemnos, Hypsipyle deceived the other women and saved her father Thoas.
 
-133\. Thais, the famous courtesan of Athens mentioned here, is not in character the same as the one represented in the *Eunuchus* of Terence. The words of the play are as follows: “Magnas vero agere gratias Thaïs mihi?—Ingentes ” (Act III, Sc. 1), just as they were translated in Dante’s text. This entire scene of the play is a mockery of parasites; yet Thais does not appear on stage, and the reply attributed by Dante to the courtesan is spoken by Gnatho. This passage of Terence is cited by Cicero as an example of eager parasitic assent (*De Amicitiâ*, XXVI), where Dante probably read it rather than in Terence; and this in some measure explains the cause of the oversight.
+133\. Thais, the famous courtesan of Athens mentioned here, is not in character the same as the one represented in the *Eunuchus* of Terence. The words of the play are as follows: “Magnas vero agere gratias Thaïs mihi?—Ingentes ” (Act III, Sc. 1), just as they were translated in Dante's text. This entire scene of the play is a mockery of parasites; yet Thais does not appear on stage, and the reply attributed by Dante to the courtesan is spoken by Gnatho. This passage of Terence is cited by Cicero as an example of eager parasitic assent (*De Amicitiâ*, XXVI), where Dante probably read it rather than in Terence; and this in some measure explains the cause of the oversight.
 
 <!-- p. 300 (320) -->
 
@@ -462,13 +462,13 @@ Taurus, et incertam excussit cervice securim.”\
 
 1\. Simon, a magician of Samaria, who, having offered money to Saint Peter, asked for the power of giving the Holy Spirit through the laying on of hands. (Acts, ch. VIII.)
 
-21\. In the time of Dante and until 1579, there were around the central font of the Baptistery of San Giovanni in Florence four circular holes or stands, in which the officiating priests stood, both in order to approach the water more easily and to protect themselves from the press of the crowd that gathered in throngs on account of the baptism of many people, which was performed at fixed seasons of the year. Something similar still exists today in Pisa. During the year of Dante’s priorate, while some boys were playing around the church, it happened that one of them fell headfirst into one of the holes, in which he became so tightly wedged that he was in danger of suffocating. Then the people rushed together, and since they did not know what to do to save the boy, Dante came, broke open the hole with an axe, and brought the boy out unharmed. It is probable that on account of this deed Dante was accused of impiety and sacrilege.
+21\. In the time of Dante and until 1579, there were around the central font of the Baptistery of San Giovanni in Florence four circular holes or stands, in which the officiating priests stood, both in order to approach the water more easily and to protect themselves from the press of the crowd that gathered in throngs on account of the baptism of many people, which was performed at fixed seasons of the year. Something similar still exists today in Pisa. During the year of Dante's priorate, while some boys were playing around the church, it happened that one of them fell headfirst into one of the holes, in which he became so tightly wedged that he was in danger of suffocating. Then the people rushed together, and since they did not know what to do to save the boy, Dante came, broke open the hole with an axe, and brought the boy out unharmed. It is probable that on account of this deed Dante was accused of impiety and sacrilege.
 
 51\. According to the law of Florence, murderers were punished by being buried alive headfirst. Hence the posture of Dante, leaning down to hear the answer to his questions, resembled that of the priest hearing confession at the execution of such a punishment.
 
 <!-- p. 301 (321) -->
 
-53\. The sinner mistakes Dante for Boniface VIII, whose arrival was expected among the Simoniac Popes, as he did not die until 1303; and he wonders how he stands upright outside and is not cast headfirst into the hole to pay the penalty for his misdeeds. The true time of Boniface’s death is known to the sinner through the power of foreseeing the future that the souls possess (X, 100); and this is what the phrase “ἐψεύσθη μοι τὸ γραπτὸν κατὰ τιν᾽ ἔτη” signifies. And the fair Lady is the Church, deceived and outraged by the means through which Boniface brought about his election as successor to Celestine V, and afterwards administered the affairs of the Pontificate.
+53\. The sinner mistakes Dante for Boniface VIII, whose arrival was expected among the Simoniac Popes, as he did not die until 1303; and he wonders how he stands upright outside and is not cast headfirst into the hole to pay the penalty for his misdeeds. The true time of Boniface's death is known to the sinner through the power of foreseeing the future that the souls possess (X, 100); and this is what the phrase “ἐψεύσθη μοι τὸ γραπτὸν κατὰ τιν᾽ ἔτη” signifies. And the fair Lady is the Church, deceived and outraged by the means through which Boniface brought about his election as successor to Celestine V, and afterwards administered the affairs of the Pontificate.
 
 70\. This man, namely the aforementioned sinner who mistook Dante for Boniface, is Nicholas III, of the house of the Orsini (Orsini or Ursini, “bear-like”), notorious for Simony and Nepotism (Népotisme); and he waits until he is thrust deeper down upon the arrival of Boniface. Pope Nicholas III died in 1281; hence he remained in the mouth of the hole for nineteen years, whereas between the death of Boniface in 1303 and the arrival of Clement V, the Simoniac Pope expected after him, who died in 1314, only eleven years remained.
 
@@ -498,9 +498,9 @@ Taurus, et incertam excussit cervice securim.”\
 
 55\. Manto, daughter of Tiresias, herself also a prophetess, left Thebes (the city of Bacchus) when it was enslaved by Creon. The following passage describes the source of the waters of the Mincio in the Apennine Alps, and their course through Lake Benacus, also called Garda (Lago di Garda), to Mantua, a city worthy of note as the birthplace of Virgil. The episcopal dioceses of Trent, Brescia, and Verona meet at a place called the Meadow of Hunger (Prato della Fame).
 
-95\. Alberto di Casalodi, Lord of Mantua, was persuaded by Pinamonte de’ Buonacossi to banish some of the nobles who were well disposed toward him; after which the rest were put to death by the popular party, having Pinamonte as its leader, who seized Mantua for himself.
+95\. Alberto di Casalodi, Lord of Mantua, was persuaded by Pinamonte de' Buonacossi to banish some of the nobles who were well disposed toward him; after which the rest were put to death by the popular party, having Pinamonte as its leader, who seized Mantua for himself.
 
-102\. “Ἐσβηκὼς ἄνθραξ” (“an extinguished coal”), that is, empty, worthy of no attention. The phrase is Dante’s; it must be said, however, that the word *ἄνθραξ* (“coal”) is also used among us to express a vain hope, as in the proverb applied to those disappointed in what they hoped for: “Ἄνθρακες ὁ θησαυρός” (“The treasure turned out to be coals”).
+102\. Ἐσβηκὼς ἄνθραξ (“an extinguished coal”), that is, empty, worthy of no attention. The phrase is Dante's; it must be said, however, that the word *ἄνθραξ* (“coal”) is also used among us to express a vain hope, as in the proverb applied to those disappointed in what they hoped for: “Ἄνθρακες ὁ θησαυρός” (“The treasure turned out to be coals”).
 
 112\. *Aen.* II, 114.
 
@@ -522,15 +522,15 @@ Asdente, a shoemaker in Parma, who abandoned his trade and took up divination.
 
 38\. One of the Senators of Lucca by the Aesar, the ancient name of the river now—and in the poet—called the Serchio. The people of Lucca still revere their Santa Zita, a nun born in a village not far from Lucca, who died in 1272 or 1278 and was canonized after her death.
 
-41\. Bonturo de’ Dati, who betrayed his own city to the Pisans for money, and whom the poet ironically pretends to exempt from the other cheats.
+41\. Bonturo de' Dati, who betrayed his own city to the Pisans for money, and whom the poet ironically pretends to exempt from the other cheats.
 
 48\. The famous image of the Savior in the cathedral of Lucca; “By the Holy Face of Lucca” was a favorite oath of William the Conqueror.
 
-76\. Evil-tail (Malacoda) in place of the poet’s word *Malacoda* (“evil-tail”).
+76\. Evil-tail (Malacoda) in place of the poet's word *Malacoda* (“evil-tail”).
 
 95\. Caprona, a Pisan fortress on the Arno, was besieged in 1290 and captured by the Lucchese and other Guelphs of Tuscany. Deprived of water, the garrison marched out under pledges of safe-conduct; but it was suddenly surrounded by a crowd of country folk shouting, “Hang them, hang them!” Dante was perhaps present at this scene with the Florentine army.
 
-114\. That is, shattered by the earthquake that occurred at the ninth hour upon the death of Christ. Adding 34 years (Christ’s age at the crucifixion) to the year 1266 gives the year 1300, in which Dante’s descent into Hell took place, beginning on Good Friday.
+114\. That is, shattered by the earthquake that occurred at the ninth hour upon the death of Christ. Adding 34 years (Christ's age at the crucifixion) to the year 1266 gives the year 1300, in which Dante's descent into Hell took place, beginning on Good Friday.
 
 <!-- p. 306 (326) -->
 
@@ -540,13 +540,13 @@ Asdente, a shoemaker in Parma, who abandoned his trade and took up divination.
 
 52\. Thibault (Tebaldi, Thibauld) II, King of Navarre, died in 1270. Ciampolo of Navarre was, as tradition has preserved it, the perpetrator of these thefts.
 
-81\. Fra Gomita, a Sardinian friar, abused the trust of Nino de’ Visconti, whose deputy he was as Judge or Governor of Gallura, one of the four jurisdictions—Gallura, Cagliari, Alborea, and Logodoro—through which the Pisans governed the island. Condemned for treason against his lord, as having sold liberty to the prisoners entrusted to his guard, he paid the penalty for his deeds by hanging.
+81\. Fra Gomita, a Sardinian friar, abused the trust of Nino de' Visconti, whose deputy he was as Judge or Governor of Gallura, one of the four jurisdictions—Gallura, Cagliari, Alborea, and Logodoro—through which the Pisans governed the island. Condemned for treason against his lord, as having sold liberty to the prisoners entrusted to his guard, he paid the penalty for his deeds by hanging.
 
 88\. Michel Zanche, Judge or Governor of Logodoro, was the steward, and afterwards the husband, of Adelasia, widow of Enzo, viceroy of Sardinia and natural son of Frederick II.
 
 ## On Canto XXIII
 
-6\. The fable in question, in which a frog dragged a mouse across the water, but both were carried off by a kite, is not one of Æsop’s.
+6\. The fable in question, in which a frog dragged a mouse across the water, but both were carried off by a kite, is not one of Æsop's.
 
 <!-- p. 307 (327) -->
 
@@ -574,7 +574,7 @@ Asdente, a shoemaker in Parma, who abandoned his trade and took up divination.
 
 9\. “Μηρὼ πληξάμενος.”—Hom. *Il.* XVI, 125.
 
-82\. An imitation of Lucan’s passage on serpents (*Phars.* IX, 706–21).
+82\. An imitation of Lucan's passage on serpents (*Phars.* IX, 706–21).
 
 93\. The heliotrope or bloodstone, a precious stone having, according to an ancient superstition, the property of rendering invisible those who wear it. Boccaccio is the first to make mention of such a superstition in the tale of Calandrino (*Decam.* VIII, 3).
 
@@ -582,7 +582,7 @@ Asdente, a shoemaker in Parma, who abandoned his trade and took up divination.
 
 106\. As Ovid attests, *Metamorph.* XV, 392.
 
-125\. Vanni Fucci, natural son of Fuccio de’ Lazzari, a nobleman of Pistoia, stole the vessels and ornaments from the sacristy of the Cathedral in 1293; and he falsely accused his friend Rampino, with whom he had deposited the stolen goods, of being the perpetrator of the sacrilege. It is conjectured that this sacrilegious man was already known to Dante for the violent deeds he had committed. He foretells to Dante the bloody victory which the Marquis Marcello or Moroello Malaspina, leader of the Blacks, won over the Whites on the field of Piceno, near Pistoia. The following year the Whites were driven out of Florence by Charles of Valois, and Dante was banished.
+125\. Vanni Fucci, natural son of Fuccio de' Lazzari, a nobleman of Pistoia, stole the vessels and ornaments from the sacristy of the Cathedral in 1293; and he falsely accused his friend Rampino, with whom he had deposited the stolen goods, of being the perpetrator of the sacrilege. It is conjectured that this sacrilegious man was already known to Dante for the violent deeds he had committed. He foretells to Dante the bloody victory which the Marquis Marcello or Moroello Malaspina, leader of the Blacks, won over the Whites on the field of Piceno, near Pistoia. The following year the Whites were driven out of Florence by Charles of Valois, and Dante was banished.
 
 ## On Canto XXV
 
@@ -592,7 +592,7 @@ Asdente, a shoemaker in Parma, who abandoned his trade and took up divination.
 
 25\. Concerning Cacus, see Virg. *Aen.* VIII.
 
-43\. Cianfa de’ Donati, a Florentine robber, of whom, as of his companions, only the name has been preserved.
+43\. Cianfa de' Donati, a Florentine robber, of whom, as of his companions, only the name has been preserved.
 
 68\. Agnolo Brunelleschi, a Florentine robber.
 
@@ -620,9 +620,9 @@ Asdente, a shoemaker in Parma, who abandoned his trade and took up divination.
 
 <!-- p. 311 (331) -->
 
-24\. “Ἐμαυτῷ μὴ φθονεῖν με” (“that I do not grudge it to myself”): a literal translation of the poet’s words, “ch’ io stesso nol m’ invidi.” And the sense is: so that, if the influence of some auspicious star, or Divine Providence itself, has given me distinguished talent, I may not grudge it to myself, as one might grudge it to another who possesses such a gift and makes a virtuous, rather than an evil, use of it; that is, so that I may not deprive myself of the fruits of that gift and lose them, and, worst of all, render them harmful. This moral reflection was prompted in the poet by the recollection of what he saw in the eighth chasm, whose description now begins, where those are punished who misused the natural talent and intellectual superiority bestowed upon them.
+24\. “Ἐμαυτῷ μὴ φθονεῖν με” (“that I do not grudge it to myself”): a literal translation of the poet's words, “ch' io stesso nol m' invidi.” And the sense is: so that, if the influence of some auspicious star, or Divine Providence itself, has given me distinguished talent, I may not grudge it to myself, as one might grudge it to another who possesses such a gift and makes a virtuous, rather than an evil, use of it; that is, so that I may not deprive myself of the fruits of that gift and lose them, and, worst of all, render them harmful. This moral reflection was prompted in the poet by the recollection of what he saw in the eighth chasm, whose description now begins, where those are punished who misused the natural talent and intellectual superiority bestowed upon them.
 
-34\. The Prophet Elisha: “And it came to pass, as they went on, they walked and talked; and behold, a chariot of fire and horses of fire, and they parted them both asunder; and Elijah was taken up in a whirlwind as it were into heaven. And he [Elisha] went up from thence unto Bethel; and as he was going up by the way, little children came forth out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head. And he turned back after them, and looked on them, and cursed them in the name of the Lord, and said, Children of transgression and idleness. And behold, there came forth two bears out of the wood, and tare forty and two children of them.” (2 Kings II, 11, 23, 24.)
+34\. The Prophet Elisha: “And it came to pass, as they went on, they walked and talked; and behold, a chariot of fire and horses of fire, and they parted them both asunder; and Elijah was taken up in a whirlwind as it were into heaven. “And he [Elisha] went up from thence unto Bethel; and as he was going up by the way, little children came forth out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head. “And he turned back after them, and looked on them, and cursed them in the name of the Lord, and said, Children of transgression and idleness. And behold, there came forth two bears out of the wood, and tare forty and two children of them.” (2 Kings II, 11, 23, 24.)
 
 54\. The flames of the funeral pyre of the brothers Eteocles and Polynices divided in two, thus showing the enmity existing between them. (Stat. *Theb.* XII, 431–432.)\
 . . . . tremuere rogi, et novus advena bustis\
@@ -654,13 +654,13 @@ translated by Horace thus:\
 
 4\. He who is wrapped in this flame is Guido da Montefeltro.
 
-7\. The famous brazen bull, which Perillus or Perilaus fashioned and presented to Phalaris, tyrant of Agrigentum in Sicily, and in which this very craftsman himself was the first to be shut up and tortured at the tyrant’s command.
+7\. The famous brazen bull, which Perillus or Perilaus fashioned and presented to Phalaris, tyrant of Agrigentum in Sicily, and in which this very craftsman himself was the first to be shut up and tortured at the tyrant's command.
 
 28\. *Ῥωμάνοι*, *Ῥωμανία*, in the poet *Romagnuoli*, *Romagna*.
 
 30\. The town of Montefeltro lies between Urbino in Romagna and the sources of the Thymbris or Tiber in the Apennines.
 
-41\. The house of Polenta (da Polenta), Lords of Ravenna and of Ficocle, formerly so called, and in the poet called Cervia. It bore an eagle as its family crest. Francesca de’ Rimini was of this house, to which also belonged Guido Novello da Polenta, the last and dearest friend of Dante in his exile.
+41\. The house of Polenta (da Polenta), Lords of Ravenna and of Ficocle, formerly so called, and in the poet called Cervia. It bore an eagle as its family crest. Francesca de' Rimini was of this house, to which also belonged Guido Novello da Polenta, the last and dearest friend of Dante in his exile.
 
 43\. The poet means the city of Forli. This city was besieged for nearly a year by a Guelph army, to which Pope Martin IV also contributed by sending some French troops. The siege was raised after a great slaughter by Guido in 1282. In 1296 Guido became a Cordelier (Cordigliero), that is, a Franciscan friar. And the city of Forli passed into the lordship of the Ordelaffi, who bore as their crest a green lion with hooked claws.
 
@@ -684,7 +684,7 @@ translated by Horace thus:\
 
 105\. Celestine V.
 
-129\. Concerning this story, see Voltaire’s *Dictionnaire Philosophique*, under the word *Dante*.
+129\. Concerning this story, see Voltaire's *Dictionnaire Philosophique*, under the word *Dante*.
 
 ## On Canto XXVIII
 
@@ -698,7 +698,7 @@ translated by Horace thus:\
 
 18\. Alardo Valéry (Alard Valéry), an aged French knight, was with Charles of Anjou at the battle of Tagliacozzo (in the Poet, *Tagliacozzo*), in which Conradin, nephew of Manfred, was defeated in 1268, Alardo having advised the stratagem of a feigned defeat.
 
-31\. Out of respect for the vast Muslim peoples, many millions of whom live peacefully together with Christian fellow citizens in the Ottoman Empire, I judged it less unseemly, in place of Mahomet—whom the Poet quite improperly subjected to shameful torments in the enclosure of the schismatics—to substitute Arius, the great arch-schismatic, who, being a Christian and a presbyter priest, brought upon the Christian peoples, through his doctrine against the consubstantial divinity of Christ, that ruinous schism which tore the Church apart for many years, though it died out many centuries ago. On the contrary, Mahomet was not the author of a schism, since he was not a Christian; rather, he was the lawgiver of the Arabs, who abolished polytheism among them and introduced the worship of one sole God. Dante might be pardoned as having written his poems in the midst of Christians and at the beginning of the fourteenth century, when religious fanaticism still flourished in Western Europe—not in the present nineteenth century of religious toleration and enlightened civilization. In support of this opinion of mine, I cite here that of the learned Frenchman Littré, who declares in his translation of Dante's *Inferno* as follows: “Dante a soustrait le célèbre Sultan Saladin à toute peine, et l’a dignement placé à côté des sages et des grands hommes de l’antiquité Païenne (Voyez ci-dessus, Chant IV, v 129). Il eût été digne de sa haute intelligence de penser semblablement de Mahomet, et de ne pas nous le faire voir traité comme les vulgaires semeurs de scandale et de schisme. Ce n’est pas un schisme dont Mahomet fut auteur, c’est une religion. Il prêcha l’unité de Dieu au milieu de populations profondément polythéistes, et réussit à les transformer; mais le préjugé qui, dans le moyen âge, régnait en Occident contre Mahom et son prétendu paganisme prévalut, et le grand réformateur religieux de l’Arabie fut précipité dans la neuvième bouge. Il est curieux de remarquer que l’esprit théologique du moyen âge et l’esprit imparfaitement philosophique du XVIIIᵉ siècle furent également injustes envers Mahomet.”
+31\. Out of respect for the vast Muslim peoples, many millions of whom live peacefully together with Christian fellow citizens in the Ottoman Empire, I judged it less unseemly, in place of Mahomet—whom the Poet quite improperly subjected to shameful torments in the enclosure of the schismatics—to substitute Arius, the great arch-schismatic, who, being a Christian and a presbyter priest, brought upon the Christian peoples, through his doctrine against the consubstantial divinity of Christ, that ruinous schism which tore the Church apart for many years, though it died out many centuries ago. On the contrary, Mahomet was not the author of a schism, since he was not a Christian; rather, he was the lawgiver of the Arabs, who abolished polytheism among them and introduced the worship of one sole God. Dante might be pardoned as having written his poems in the midst of Christians and at the beginning of the fourteenth century, when religious fanaticism still flourished in Western Europe—not in the present nineteenth century of religious toleration and enlightened civilization. In support of this opinion of mine, I cite here that of the learned Frenchman Littré, who declares in his translation of Dante's *Inferno* as follows: “Dante a soustrait le célèbre Sultan Saladin à toute peine, et l'a dignement placé à côté des sages et des grands hommes de l'antiquité Païenne (Voyez ci-dessus, Chant IV, v 129). Il eût été digne de sa haute intelligence de penser semblablement de Mahomet, et de ne pas nous le faire voir traité comme les vulgaires semeurs de scandale et de schisme. Ce n'est pas un schisme dont Mahomet fut auteur, c'est une religion. Il prêcha l'unité de Dieu au milieu de populations profondément polythéistes, et réussit à les transformer; mais le préjugé qui, dans le moyen âge, régnait en Occident contre Mahom et son prétendu paganisme prévalut, et le grand réformateur religieux de l'Arabie fut précipité dans la neuvième bouge. Il est curieux de remarquer que l'esprit théologique du moyen âge et l'esprit imparfaitement philosophique du XVIIIᵉ siècle furent également injustes envers Mahomet.”
 
 <!-- p. 317 (337) -->
 
@@ -741,7 +741,7 @@ translated by Horace thus:\
 
 109\. Griffolino, an alchemist of Arezzo, boasted to Albero, the reputed son of the Bishop of Siena (in the Poet, *Siena*), that he could teach him the art of flying. When the promise was not fulfilled, Albero, disappointed in his hope, accused him of sorcery before the Bishop of Siena, who condemned him to death by fire.
 
-125\. Stricca, Niccolò (Nicolò), and Caccia of Asciano (Caccia d’ Ascian), of whom the Poet thus makes ironical mention, were Sienese nobles belonging to a company whose members pooled their fortunes together and squandered them in profligate and senseless extravagance. The new use of the clove was devised for roasting pheasants and capons. By *garden* the Poet metaphorically means Siena.
+125\. Stricca, Niccolò (Nicolò), and Caccia of Asciano (Caccia d' Ascian), of whom the Poet thus makes ironical mention, were Sienese nobles belonging to a company whose members pooled their fortunes together and squandered them in profligate and senseless extravagance. The new use of the clove was devised for roasting pheasants and capons. By *garden* the Poet metaphorically means Siena.
 
 <!-- p. 321 (341) -->
 
@@ -809,17 +809,17 @@ Petra Apuana (Pietrapana), a lofty peak of the Apennines between Modena and Lucc
 
 41\. These were Alessandro and Napoleone, sons of Alberto degli Alberti, Lord of Falerona (Fallerona), through which the small river Bisenzio flows to join the Arno; they slew each other after their father's death.
 
-62\. In the romance of Lancelot, Mordred (Mordred, Mordaret, or Mordrac), the treacherous and rebellious son of Arthur, lying in ambush to slay his own father, was killed by him with a lance that pierced his breast in such a way that the ray of the sun was seen passing through the wound. Therefore the Poet said, “a cui fu rotto il petto e l’ombra” (him whose breast and shadow were pierced), that is, who had his breast pierced through in such a way that his shadow upon the ground also appeared pierced by the sunbeam passing right through the wound.
+62\. In the romance of Lancelot, Mordred (Mordred, Mordaret, or Mordrac), the treacherous and rebellious son of Arthur, lying in ambush to slay his own father, was killed by him with a lance that pierced his breast in such a way that the ray of the sun was seen passing through the wound. Therefore the Poet said, “a cui fu rotto il petto e l'ombra” (him whose breast and shadow were pierced), that is, who had his breast pierced through in such a way that his shadow upon the ground also appeared pierced by the sunbeam passing right through the wound.
 
 <!-- p. 325 (345) -->
 
 63\. Focaccia, of the White branch of the Cancellieri family of Pistoia, treacherously cut off the hand of his own cousin and murdered his own uncle, both belonging to the other branch. From this sprang the outbreak of the destructive factions of the Whites and Blacks.
 
-65\. Sassol Mascheroni de’ Toschi (Sasso Mascheroni de’ Toschi), a Florentine, murdered his own nephew in order to obtain his inheritance.
+65\. Sassol Mascheroni de' Toschi (Sasso Mascheroni de' Toschi), a Florentine, murdered his own nephew in order to obtain his inheritance.
 
-68\. Camicion de’ Pazzi treacherously murdered his kinsman Ubertino.
+68\. Camicion de' Pazzi treacherously murdered his kinsman Ubertino.
 
-69\. Carlino de’ Pazzi, having been bribed, surrendered to the Blacks the fortress of Piantrevigne (Piantrevigne or Piano di Trevigne), which he was holding for the Ghibellines and the Whites of Florence, in 1302.
+69\. Carlino de' Pazzi, having been bribed, surrendered to the Blacks the fortress of Piantrevigne (Piantrevigne or Piano di Trevigne), which he was holding for the Ghibellines and the Whites of Florence, in 1302.
 
 73\. *Μέσον* (Middle) means the centre, namely of the Earth. “Heavy bodies move toward the middle of the earth.” Arist. *De Caelo* II, 14.
 
@@ -833,11 +833,11 @@ Petra Apuana (Pietrapana), a lofty peak of the Apennines between Modena and Lucc
 
 119\. One of the house of Beccheria of Pavia, Abbot of Vallombrosa and Papal Legate, who was beheaded—according to some, unjustly—in Florence in 1258, on a charge of conspiring with the exiled Ghibellines.
 
-121\. Gianni de’ Soldanier (Gianni Soldanieri), a Florentine Ghibelline, who, moved by ambition, played the demagogue to the detriment of his own party.
+121\. Gianni de' Soldanier (Gianni Soldanieri), a Florentine Ghibelline, who, moved by ambition, played the demagogue to the detriment of his own party.
 
 122\. Ganellone (Ganellone according to the Poet, according to others Canellon), the traitor at Roncesvalles, of whom mention is made in the fabulous history of Charlemagne.
 
-Tribaldello de’ Manfredi (Tribaldello according to the Poet, according to others Tebaldello de’ Monfredi) betrayed Faenza, opening the gates of the city to its enemies in 1282.
+Tribaldello de' Manfredi (Tribaldello according to the Poet, according to others Tebaldello de' Monfredi) betrayed Faenza, opening the gates of the city to its enemies in 1282.
 
 130\. Tydeus and Melanippus, mortally wounded in battle before Thebes. Tydeus, surviving, furiously gnawed the head of his adversary, which had been cut off and brought to him by the Greeks. (Stat. Theb. VIII, 140 ff.)
 
@@ -845,7 +845,7 @@ Tribaldello de’ Manfredi (Tribaldello according to the Poet, according to othe
 
 ## On Canto XXXIII
 
-13\. In July 1283, Ugolino, Count of the Gherardeschi (de’ Geraldeschi), and his kinsman Nino Visconti (de’ Visconti), Judge of Gallura, both Guelfs, were rivals for the supreme power in Pisa. Hostile to both was Archbishop Ruggieri (Ruggieri or Roger) degli Ubaldini (de’ Ubaldini), together with the Gualandi, Sismondi, and Lanfranchi, and other Ghibelline houses. Ugolino, having treacherously joined forces with the Archbishop against Nino and his supporters, obtained the lordship of Pisa, but was in turn betrayed by the Archbishop, who stirred up the people against him on the charge that he had been a traitor to Pisa by surrendering the fortresses to the Florentines and the Lucchese. Ugolino, together with his two sons and two grandsons, was cast into the tower on the Piazza degli Anziani, which from that tragedy was thereafter called the Dungeon of Hunger, where they all died of starvation, the keys of the tower having been thrown into the Arno by order of the Archbishop.
+13\. In July 1283, Ugolino, Count of the Gherardeschi (de' Geraldeschi), and his kinsman Nino Visconti (de' Visconti), Judge of Gallura, both Guelfs, were rivals for the supreme power in Pisa. Hostile to both was Archbishop Ruggieri (Ruggieri or Roger) degli Ubaldini (de' Ubaldini), together with the Gualandi, Sismondi, and Lanfranchi, and other Ghibelline houses. Ugolino, having treacherously joined forces with the Archbishop against Nino and his supporters, obtained the lordship of Pisa, but was in turn betrayed by the Archbishop, who stirred up the people against him on the charge that he had been a traitor to Pisa by surrendering the fortresses to the Florentines and the Lucchese. Ugolino, together with his two sons and two grandsons, was cast into the tower on the Piazza degli Anziani, which from that tragedy was thereafter called the Dungeon of Hunger, where they all died of starvation, the keys of the tower having been thrown into the Arno by order of the Archbishop.
 
 29\. Toward Mount San Giuliano (Monte San Juliano), between Pisa and Lucca.
 
@@ -857,11 +857,11 @@ Tribaldello de’ Manfredi (Tribaldello according to the Poet, according to othe
 
 <!-- p. 328 (348) -->
 
-118\. Friar Alberigo de’ Manfredi, of Faenza in Romagna, belonging to the order of the Frati Gaudenti (Jovial Friars; XXIII, 103), avenged an insult received from a certain kinsman by feigning a reconciliation and inviting the offender together with his father to a banquet; after dinner he cried out to his servants, “Bring the fruit.” They, as soon as this signal was given, fell upon the father and the son and slew them both.
+118\. Friar Alberigo de' Manfredi, of Faenza in Romagna, belonging to the order of the Frati Gaudenti (Jovial Friars; XXIII, 103), avenged an insult received from a certain kinsman by feigning a reconciliation and inviting the offender together with his father to a banquet; after dinner he cried out to his servants, “Bring the fruit.” They, as soon as this signal was given, fell upon the father and the son and slew them both.
 
 124\. This division of the ninth circle was so named from Ptolemy, son of Abubus, who treacherously slew Simon and his sons at a banquet (Maccab. 16:11–16).
 
-137\. Branca d’Oria (Branca d’ Oria), of Genoa, murdered Michel Zanche of Logodoro (Michael Zanche di’ Logodoro, for whom see XXII, 88), his father-in-law, in order to seize his possessions, with the help of a nephew.
+137\. Branca d'Oria (Branca d' Oria), of Genoa, murdered Michel Zanche of Logodoro (Michael Zanche di' Logodoro, for whom see XXII, 88), his father-in-law, in order to seize his possessions, with the help of a nephew.
 
 154\. That is, with Friar Alberigo.
 
