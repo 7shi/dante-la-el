@@ -934,3 +934,20 @@ Decided with the user: `texts/grc` follows the two corrigenda and does not conta
   marks), 201 printed; by step in [SUMMARY.md](SUMMARY.md).
 - **Written**: [SUMMARY.md](SUMMARY.md); README.md ("Misprints and corrigenda", the check
   in "Credits"); the state in PLAN.md; texts/PLAN.md "Status".
+
+## After the close: the breathing check (2026-11-26)
+
+Before `grammar/el-grc/`, the breathings of `texts/grc/` were checked ([grammar/PLAN.md](../../grammar/PLAN.md),
+"Breathings of texts/grc"), after `οὐμὸς` was found for the printed `οὑμὸς` in XXX 143:
+
+- **Listed**: the words with both breathings (17 forms; all but two are homographs used
+  rightly, such as `ἡ`/`ἤ`/`ἥ`, `ἥν`/`ἤν`, `εἷς`/`εἶς`, `ὅρους`/`ὄρους`), with the reflexive
+  `αὑτ-` (32 places) kept as Musurus's usage; the crasis forms (`οὑμ-` rough in 47 of 48,
+  the coronis everywhere else but `χἁπαλοὺς`); the words beginning with a vowel with no
+  breathing (only capitals and numerals).
+- **Seen in the images**: `252` 13 `οὑμὸς` (XXX 143), a misread, now fixed; `248` 16
+  `χἁπαλοὺς` (XXX 66), printed with the rough breathing, the same sign as `ὑ` in the same
+  line, kept as printed; `289` 27 `Ἰερεμίου` (note to I. 45), printed smooth where the same
+  note and the note to XXVIII. 130 have `Ἱερεμ-`, marked as a misprint.
+- `misprints.py ocr/grc`: 133 rows, 133 marks; 0 problems. `texts/grc/` reconverted: the two
+  lines changed.
