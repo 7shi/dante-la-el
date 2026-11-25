@@ -114,3 +114,11 @@ The review (2026-11-26):
   - `015-canto-12.md` (line 342): *the supplied e ria e folle* → *Oelsner’s e ria e folle* (the Greek follows the reading *ira folle*).
   - `033-canto-30.md` (line 974): the printed *οὐμός* noted as standing for *οὑμός*.
   - `025-canto-22.md` (line 813): *ἡμῶν* with *σὺ μόνος* is partitive (‘you alone of us’), not comparative.
+
+## Merge of PR #1 (en-grc) and grammar/grc update
+
+PR #1 (`commentary/en-grc/`, the literal English of Musurus's Greek checked with `check-lines`, and its fixes reflected in `translations/en/grc/`) was merged into `main` (`807c3794`), after `grammar/grc/` had been merged (`b01e124e`). `commentary/en-grc/` and the verse of `translations/en/grc/` now have the same words line for line; `grammar/grc/` goes on quoting `translations/en/grc/`.
+
+- `fix_quote_blocks.py -s grc -d grammar/grc` rewrote the English of 363 Greek lines in all 34 cantos (most of them words moved to another line, particles added, or words the Greek does not have dropped).
+- No bullet refers to the English of the Greek; the bullets on the lines whose English changed most (a word moved across lines, as *τὴν σὴν βίβλον* I 83–84 or *ὄφει ἐχθρῷ* IX 76–77) explain the Greek itself and stand as written.
+- The checks of the review were run again with no findings.
