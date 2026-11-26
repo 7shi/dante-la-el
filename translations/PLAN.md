@@ -1,8 +1,9 @@
 # Plan: Translations in `translations/{en,ja}/`
 
 Project plan for translating the editions in [`texts/`](../texts/) into
-`translations/en/{dir}/` (for `grc` and `la`) and `translations/ja/{dir}/` on the
-`translations` branch. The reusable workflow, script usage (`pages.py`, `proper_names.py`),
+`translations/en/{dir}/` (for `grc` and `la`) and `translations/ja/{dir}/`, on the
+`translations` branch (merged into `main` up to the `la` trial) and now, for `la`, on the
+`la` branch. The reusable workflow, script usage (`pages.py`, `proper_names.py`),
 review checklist, and issue disposition rules are documented in [`GUIDE.md`](GUIDE.md);
 completed work is recorded in [`DONE.md`](DONE.md).
 
@@ -26,10 +27,12 @@ handling follow [`GUIDE.md`](GUIDE.md). Project-specific decisions:
 
 ### Scope and files
 
-- **Branch boundary**: on `translations`, only `translations/` is touched (with the
-  explicit exception of `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv`).
-  Everything to fix in `ocr/` or `texts/` is recorded in [`for-main.tsv`](for-main.tsv)
-  and applied on `main`.
+- **Branch boundary**: on `translations`, only `translations/` was touched (with the
+  explicit exception of `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv`). The
+  rest of `la` is done on the `la` branch (from `main` at `8e162c88`, 2026-11-26), which
+  touches `commentary/` and `translations/` (its verse goes through `commentary/en-la-la/`
+  first; `grammar/` only where its plan names them). On both, everything to fix in `ocr/`
+  or `texts/` is recorded in [`for-main.tsv`](for-main.tsv) and applied on `main`.
 - **What is translated**: prefaces, essays, arguments, and notes (plus English prose and
   verse glosses for the English volumes, now complete), and translations of the Greek
   (`grc`) and Latin (`la`) verse translations (as reading aids to be paired alongside the
