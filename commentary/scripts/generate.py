@@ -339,7 +339,7 @@ def main():
     parser.add_argument(
         "-m", "--model",
         required=True,
-        help="Model name with optional vendor prefix (e.g. gpt-6-astra)",
+        help="Model name with optional vendor prefix (e.g. gpt-6.2-astra)",
     )
     parser.add_argument(
         "-l", "--lang-code",

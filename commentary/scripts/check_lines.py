@@ -233,7 +233,7 @@ def main():
                         help="Canticles to check (default: all)")
     parser.add_argument("-c", "--canto", help=CANTO_SPEC_HELP)
     parser.add_argument("-m", "--model",
-                        help="Model name with optional vendor prefix (e.g. gpt-6-astra); "
+                        help="Model name with optional vendor prefix (e.g. gpt-6.2-astra); "
                              "required to ask the model")
     parser.add_argument("-l", "--lang-code", choices=list(LANGUAGES),
                         help="Language code of the target language (e.g. el); "

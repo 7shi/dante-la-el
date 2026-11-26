@@ -1,4 +1,4 @@
-MODEL = gpt-6-astra
+MODEL = gpt-6.2-astra
 CHECK_MODEL = $(MODEL)
 # The target language is given as LANG on the command line (make LANG=eo).
 # LANG from the environment is the locale and is ignored; when LANG is given,
