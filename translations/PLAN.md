@@ -130,13 +130,23 @@ handling follow [`GUIDE.md`](GUIDE.md). Project-specific decisions:
   skip 22 while the Japanese text is shifted.
 - **Decision**: the verse is checked line by line in `commentary/en-la-la/` first (see
   [commentary/PLAN.md](../commentary/PLAN.md)), and the verse of `translations/en/la/` is
-  taken from it, with the gloss markers (`(1)`) put back. The prose (summaries, commentary,
+  taken from it as it is: the Latin tercets have no gloss markers (`(1)` stands in the
+  Italian only, as in the trial `008`), so none are added. The prose (summaries, commentary,
   essays, front and back matter) is translated anew, and the delegate is shown the prose only,
   without the verse, so that verse and prose cannot be mixed up; the translated prose and the
   checked verse are then put together in the order of the source. It goes in smaller units
   (parts of a canto) with one added rule (no summarizing, condensing, or omitting), and each
   output passes length-ratio, duplicate-block, and lemma checks before review. The draft is
   kept until then as a reference for spotting omissions.
+- **Prose parts**: [`scripts/la_prose.py`](scripts/la_prose.py) `split` gives the prose of a
+  file as `pages.py prepare` does, with each run of tercet pairs replaced by a placeholder
+  `<!-- verse N-M -->` (by which the verse is put back), cut into parts of about 10,000
+  characters (the 108 files make 362 parts); `check` compares a translated part with its
+  input (structure, then the paragraphs short for their source, repeated, or, in English,
+  with fewer italic spans). The parts are delegated to agy, English first and then Japanese
+  from the source, part by part. Still to be written: putting a file together from its parts
+  and the verse of `commentary/en-la-la/`, without gloss markers, before
+  `pages.py finish`.
 
 ## Remaining steps
 
