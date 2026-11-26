@@ -145,3 +145,26 @@ Before step 4, the breathings of `texts/grc/` were checked, as [PLAN.md](PLAN.md
 ## Bold removed
 
 The commentaries had used bold for emphasis in a few places (one or a few words: **not**, **singular**, **of**): 100 in `grc/` (31 files), one each in `en-oelsner/`, `en-purgatorio/`, and `en-paradiso/`, none in `en/`. The markers were removed, leaving the words as plain text (checked: the files differ from before only by `**`), and the prompts of `el-grc/` ask for no bold.
+
+## 4. grammar/el-grc
+
+`make grammar CANTICLE=inferno SOURCE=grc` (with the default `LANG=el`): Musurus's Greek (`texts/grc/`) explained in English, section by section (about 30 lines, cut by `sections()`), against the Modern Greek translation of `commentary/el-grc/`, for English readers who want to see how Ancient Greek differs from Modern Greek. All 34 cantos of the Inferno were generated (`gpt-6.2-astra`).
+
+The trial on cantos 1 and 2 tuned `GRC_EL_PROMPT` and `GRC_EL_SUMMARY_PROMPT`: no bold; the capital at the head of every line does not mark a new sentence; a `Translation note:` only where the translation misreads the Greek, not on a nuance it could only render more closely. Their output was corrected by hand (canto 1: bold removed, *ἐκλέξῃ* in line 129 is an active subjunctive, not a middle; canto 2: two notes on nuances replaced by explanations in the text).
+
+The review (2026-11-27):
+
+- `fix_quote_blocks.py -d grammar/el-grc -s grc -t commentary/el-grc -n` reported no changes.
+- Checked by script over all 34 cantos: every canto has its summary; the sections match `sections()` from line 1 to the last line of the canto with no gap or overlap, and every line and its translation are quoted as in the sources (`check_section()`). No bold, no invisible or stray characters, and no unbalanced `*`. The length (59–70 words per line, mean 66) and the summaries (364–457 words, mean 419) are even over the cantos.
+- Breathings are mentioned only in the summaries and in one bullet (*μεθ’ ὁρμῆς* XXI 67, rightly rough); the elisions of *ἔνθα*, *ἐνταῦθα*, *εἴθε* are explained as plain elisions, without the false aspiration found in `grammar/grc/`.
+- Every italic Greek phrase of two or more words was looked up in the Ancient and Modern lines of its section. Those not found resolve crasis or elision (*τὸ ἀνθρώπινον* for *τἀνθρώπινον*) or give dictionary forms; the crasis resolutions were all checked.
+- Read: canto XVII 91–120 and XXXIV 121–139 (with the summary of XXXIV) in full, and 40 paragraphs drawn at random from all cantos. No error was found in the forms (tense, mood, voice, case), in the Modern equivalents, or in the vocabulary, beyond those corrected below.
+- Corrected:
+  - `06.md` (line 256): *ταὐτόν* is crasis for *τὸ αὐτό* (with the Attic *-ν*), not *τὸ αὐτόν*.
+  - `29.md` (line 304): *οἰκτρὰ τρίβος* (a nominative with the grave accent kept) replaced by the phrase as printed, *τῆς οἰκτρᾶς τρίβου*.
+  - `32.md` (line 30): *ἔκρικεν* is the second aorist of *κρίζω*, not an unaugmented pluperfect.
+
+The 43 translation notes (`grammar.py --notes`) were weighed against the Greek and the Italian:
+
+- 21 found real misreadings, and the lines of `commentary/el-grc/` were corrected (22 lines in 16 cantos): III 68 (*πέφτοντας*, whose subject would be the worms, → *καθώς έπεφτε*), IV 48 (*εκείνη* set off as apposition to *την πίστη*), IV 50 (*με άλλου* → *μέσω άλλου* for *δι᾽ ἄλλου*), V 8 (*πᾶσ᾽* is feminine: *τα πάντα* → *ολόκληρη*), VI 105 (*λιγότερα* → *μικρότερα*), IX 26 (*μέσα από* → *μέσα σε*), X 5 (*ασεβών* → *ασεβείς*, agreeing with *κύκλους*), XIII 106 (future *συροῦμεν*: *σέρνουμε* → *θα σύρουμε*), XIII 148 (*οἰκίσαντες*: *κατοίκησαν* → *ίδρυσαν*), XV 50 (*περιπλανήθηκα* → *χάθηκα*), XVI 103 (*κάτω από* → *από … προς τα κάτω*), XVI 135 (*ἄλλως*: *αλλού* → *αλλιώς*), XVII 92–93 (one negative: *όχι, όπως νόμιζα, / Δεν ήρθε* → *όχι όπως νόμιζα / Ήρθε*), XIX 4 (*αντί για* ‘instead of’ → *για*), XXIII 23 (*στα πόδια μας* → *στο κατόπι μας*), XXIII 146 (*Φαίνοντας* → *Δείχνοντας*), XXIX 70 (*με βήμα αργό* → *βήμα βήμα*), XXX 148 (*αγενές* ‘impolite’ → *ποταπό*), XXXII 30 (*θα ράγιζε* → *θα έτριζε*), XXXII 121 (*Τον Γιάννη Σολδανείρο* → nominative before the *πως* clause), XXXIV 90 (*έχοντας* → *να έχει*). `make check-quotes LANG=el SOURCE=grc`: 0 mismatches; `make fix-grammar-quotes SOURCE=grc` rewrote 16 files. The notes became explanations in the text, and the text that named the old wording was rewritten.
+- 22 were on nuances, on renderings that follow Dante's sense (*φοβερά* II 90, *πιγούνι* IX 99, *κουβέρτες* XXIV 48), on idioms rendered by their sense (*εἴ τι* as *ό,τι* XIII 81 and XXXII 112, *εἴπερ τι* VIII 123, *Σ’ έπιασα* XXII 126), on Musurus's order kept in the translation (XV 31, XVIII 58–61), or on what is right in Modern Greek (the nominative subject of the *να* clause, XXIX 76–78): the translation was kept, and the notes were rewritten as explanations of the difference in the text, except I 116 (*τετληκότα* → *βασανισμένα*), already explained there, which was removed. `grammar.py --notes` now finds none.
