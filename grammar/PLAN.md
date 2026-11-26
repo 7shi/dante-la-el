@@ -26,8 +26,8 @@ Musurus translated only the Inferno, so `commentary/el-grc/` has no Purgatorio o
 
 Serravalle's Latin translation (`texts/la/`) of all three canticles, printed line by line beside the Italian of Bartolommeo da Colle's manuscript. The aim is much the same as with Musurus's Greek in step 3: to let learners of Italian and of Latin follow a medieval translation of the poem. So both sides get an English translation, and the Latin is explained against the Italian:
 
-- **(it, en)**: the Italian of this edition with a new English translation of it, line by line. The Italian differs widely from the modern text and from Oelsner's (see [texts/la/README.md](../texts/la/README.md)), so no existing English renders it.
-- **(la, en-la)**: the Latin with a literal English translation of it, `commentary/en-la/`.
+- **(it, en)**: the Italian of this edition with a new English translation of it, line by line. The Italian differs widely from the modern text and from Oelsner's (see [texts/la/README.md](../texts/la/README.md)), so no existing English renders it: `commentary/en-la-it/`.
+- **(la, en)**: the Latin with a literal English translation of it, `commentary/en-la-la/`.
 - The two sources of `commentary/scripts/source.py` and both English translations are made and checked first (see [commentary/PLAN.md](../commentary/PLAN.md)).
 - The mode of `grammar.py` is to follow the one made for `grammar/grc/` in step 3; the details are settled after that step has been tried.
 - The Purgatorio and the Paradiso are done as in step 2: the Inferno first, then the other two canticles.

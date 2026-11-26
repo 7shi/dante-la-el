@@ -1,25 +1,25 @@
 # Plan
 
-The translations still to be made in this directory, for the grammar commentaries of [`grammar/`](../grammar/) (see [grammar/PLAN.md](../grammar/PLAN.md), which gives the order). Each is generated with `make generate`, or, for the literal English translations (`en-grc/`, `en-la/`), converted from the English made first in [`translations/en/`](../translations/en/) (see below; the fixes of `check-lines` are reflected back there), and checked with `check-quotes` and `check-lines` before it is used; the user runs the model.
+The translations still to be made in this directory, for the grammar commentaries of [`grammar/`](../grammar/) (see [grammar/PLAN.md](../grammar/PLAN.md), which gives the order). Each is generated with `make generate`, or, for a literal English translation of a printed translation (`en-grc/`, `en-la-la/`), converted from an English translation made in [`translations/en/`](../translations/en/), and checked with `check-quotes` and `check-lines` before it is used; the user runs the model. This directory is the reference for such a translation: the fixes of `check-lines` are reflected in the verse of `translations/en/`, so that the two stay the same.
 
 | Translation | Of | For |
 |---|---|---|
-| an English translation of the Italian of `texts/la/` | the Italian of Bartolommeo da Colle's manuscript, three canticles | `grammar/la/` (step 5) |
-| `en-la/` | Serravalle's Latin (`texts/la/`), three canticles | `grammar/la/` (step 5) |
+| `en-la-it/` | the Italian of Bartolommeo da Colle's manuscript (`texts/la/`), three canticles | `grammar/la/` (step 5) |
+| `en-la-la/` | Serravalle's Latin (`texts/la/`), three canticles | `grammar/la/` (step 5) |
 
 ## en-grc
 
-A literal English translation of Musurus's Greek, one line per line of the Greek. The English of `translations/en/grc/` is made first, since there the translation is made together with its layout; `en-grc/` has been converted from it, checked with `check-quotes` and `check-lines` (four rounds over the Inferno: 285, 61, and 26 lines fixed, the last round leaving only issues rejected or with no fix), and the fixes reflected in `translations/en/grc/` (see [README.md](README.md)). It is done; `en-la/` is to be made the same way.
+A literal English translation of Musurus's Greek, one line per line of the Greek. The English of `translations/en/grc/` is made first, since there the translation is made together with its layout; `en-grc/` has been converted from it, checked with `check-quotes` and `check-lines` (four rounds over the Inferno: 285, 61, and 26 lines fixed, the last round leaving only issues rejected or with no fix), and the fixes reflected in `translations/en/grc/` (see [README.md](README.md)). It is done; `en-la-la/` is made the same way (see below).
 
 Musurus departs from the Italian in places, so the English of the Italian cannot stand for the Greek; `grammar/grc/` sets this translation beside the Greek, quoting it from `translations/en/grc/`, which has the same words.
 
 ## The Italian and the Latin of texts/la
 
-Serravalle's Latin translation is printed line by line beside the Italian of Bartolommeo da Colle's manuscript, in all three canticles. `grammar/la/` explains the Latin against the Italian, both with an English translation:
+Serravalle's Latin translation is printed line by line beside the Italian of Bartolommeo da Colle's manuscript, in all three canticles. `grammar/la/` explains the Latin against the Italian, both with an English translation. As `texts/la/` holds both languages, the two sources are named after the edition and the language, `la-la` (the Latin) and `la-it` (the Italian), and their translations go to `en-la-la/` and `en-la-it/` (`<lang>-<source>`, as `en-grc/`).
 
-- `scripts/source.py` has no `la` source yet: it is to read the Latin verse of `texts/la/` and the Italian beside it (interleaved per tercet, with counted tercet numbers), as two sources, one for each language.
-- The Italian: a new English translation, line by line. The Italian of this edition differs widely from the modern text and from Oelsner's (see [texts/la/README.md](../texts/la/README.md)), so no existing English renders it: neither Oelsner's and Okey's English nor `en/` (which renders dante-corpus). Its directory is named with the source.
-- The Latin: `en-la/`, a literal English translation, made like `en-grc/`: the English of `translations/en/la/` first, then converted into `en-la/`, checked with `check-quotes` and `check-lines`, and the fixes reflected in `translations/en/la/`.
+- `scripts/source.py` has no `la-la` or `la-it` source yet: they are to read the verse of the cantos of `texts/la/` (`008`–`041`, `043`–`075`, `076`–`108`; the Latin and the Italian interleaved per tercet), one source for each language, with line numbers counted from the tercet numbers.
+- `en-la-la/`: a literal English translation of the Latin, one line per line of the Latin. It starts from the English of the Latin tercets in a delegated draft of `translations/en/la/` (2026-11), taken out line by line as it is. The draft was not landed: its prose was condensed in many places, but its verse kept the tercets, with words moved between lines. Its quote marks are removed, as the Latin has none, and so are the gloss markers (`(1)`, which point to the glosses of the Italian). It is checked with `check-quotes` and `check-lines`; then the verse of `translations/en/la/` is taken from it, with the gloss markers put back. Unlike `en-grc/`, it is checked before the English lands in `translations/en/la/`.
+- `en-la-it/`: a new literal English translation of the Italian, one line per line of the Italian, generated with `make generate LANG=en SOURCE=la-it` and checked with `check-quotes` and `check-lines`. The Italian of this edition differs widely from the modern text and from Oelsner's (see [texts/la/README.md](../texts/la/README.md)), so no existing English renders it: neither Oelsner's and Okey's English nor `en/` (which renders dante-corpus). It is used in `grammar/la/` only; `translations/` does not translate the Italian verse.
 - The Inferno first, then the Purgatorio and the Paradiso, as `grammar/la/` goes.
 
 ## en/

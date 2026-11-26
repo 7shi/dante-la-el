@@ -6,7 +6,7 @@ Project plan for translating the editions in [`texts/`](../texts/) into
 review checklist, and issue disposition rules are documented in [`GUIDE.md`](GUIDE.md);
 completed work is recorded in [`DONE.md`](DONE.md).
 
-## State (2026-11-20)
+## State (2026-11-26)
 
 - **Done** ([`DONE.md`](DONE.md)): all four English volumes (`ja/en/` `001`–`041`,
   `ja/en-oelsner/` `001`–`041`, `ja/en-purgatorio/` `001`–`040`, `ja/en-paradiso/`
@@ -15,7 +15,9 @@ completed work is recorded in [`DONE.md`](DONE.md).
   and all `en*` (`71c2b827`) and `grc` `for-main.tsv` fixes merged and applied on `main`.
 - **Next / In progress**: `la` (Serravalle Latin edition, 110 files), following the two-stage workflow
   in [`GUIDE.md`](GUIDE.md) Step 6. Trial completed (`006-epistola.md`, `008-inferno-canto-01.md`);
-  remaining 108 files prepared in `tmp/translate/la/` for Codex delegation.
+  the delegated draft of the other 108 files was not landed (see [`la` delegation
+  result](#la-delegation-result)): the verse goes through `commentary/en-la-la/` first, and
+  the prose is to be delegated again in smaller units.
 
 ## Project-specific conventions
 
@@ -103,13 +105,43 @@ handling follow [`GUIDE.md`](GUIDE.md). Project-specific decisions:
      and [`ja/en/PROPER_NAMES.md`](ja/en/PROPER_NAMES.md).
 - **Trial completed**: `006-epistola.md` and `008-inferno-canto-01.md` landed in
   `translations/{en,ja}/la/` (`pages.py check --skip-italian-tercets` → `same structure`).
-- **Delegation**: Remaining 108 files prepared in `tmp/translate/la/in/` with per-file
-  cold-start prompts `tmp/translate/la/task-{NNN}.md` for Codex.
+- **Delegation**: the remaining 108 files were delegated to Codex whole, one file per task
+  (2026-11); see the result below.
+
+### `la` delegation result
+
+- **Structure**: all 216 outputs (`en`, `ja`) reported `same structure`, and the Japanese
+  style audit found no polite forms or dashes.
+- **Prose condensed**: compared block by block with the source (English/source length; the
+  reviewed trial `008` has no block below 0.79), many commentary paragraphs and essays were
+  summarized rather than translated, a source paragraph of 2,000 characters becoming one
+  sentence. 14 files are condensed throughout (`036`, `043`, `045`, `056`, `062`, `066`,
+  `076`, `078`, `082`, `084`, `086`, `091`, `094`, `109`), 10 in many paragraphs (`054`,
+  `068`, `072`, `073`, `079`, `087`, `093`, `099`, `101`, `108`), 23 in one or two; the
+  Japanese is shortened on its own in a few more. The delegate's notes admitted this for
+  some files only. Paragraphs were also merged and a verse quotation duplicated to keep the
+  block count (`097`), and blocks shifted (`039`).
+- **Verse sound by tercet**: the 4,711 Latin tercets (14,233 lines) all have the source's
+  line count, with English about as long as the Latin line for line; but words are moved
+  between the lines of a tercet (often in Japanese), and in `039` the English tercet numbers
+  skip 22 while the Japanese text is shifted.
+- **Decision**: the verse is checked line by line in `commentary/en-la-la/` first (see
+  [commentary/PLAN.md](../commentary/PLAN.md)), and the verse of `translations/en/la/` is
+  taken from it, with the gloss markers (`(1)`) put back. The prose (summaries, commentary,
+  essays, front and back matter) is translated anew, and the delegate is shown the prose only,
+  without the verse, so that verse and prose cannot be mixed up; the translated prose and the
+  checked verse are then put together in the order of the source. It goes in smaller units
+  (parts of a canto) with one added rule (no summarizing, condensing, or omitting), and each
+  output passes length-ratio, duplicate-block, and lemma checks before review. The draft is
+  kept until then as a reference for spotting omissions.
 
 ## Remaining steps
 
 1. `la` (Latin front/back matter, verse-translation reading aids, and commentary; 110 files):
-   `translations/en/la/` → `translations/ja/la/`.
+   the verse from `commentary/en-la-la/` once checked; the prose translated anew from the prose
+   alone, in smaller units, checked, and put together with the verse; then `translations/en/la/` → `translations/ja/la/`. Unify on landing:
+   三行連 (not 三行詩), half-width `(1)` markers, `# 煉獄篇` for *Purgatorium*, one rendering
+   of *Preambula* (`007`, `042`) distinct from *Notizie Preliminari* (`003`).
 2. `translations/README.md` (structure, excluded files, usage).
 3. HTML side-by-side conversion pairing `texts/` and `translations/{en,ja}/`.
 4. Resolve all `for-main.tsv` items on `main` (`ocr/` → reconvert `texts/`) and merge.
