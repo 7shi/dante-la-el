@@ -11,12 +11,19 @@ lines of that section. An answer is checked before it is kept: its heading
 must name the section's lines, it must quote every line of the section once
 and in order, and every quoted original and translation must match the
 source and the .txt (up to a few characters), so that a translation the
-model has rewritten is caught. An answer that fails is asked again, up to
---tries times. Its quote blocks are then rebuilt from the sources of truth
+model has rewritten is caught. An answer that fails is sent back with its
+problems to be corrected (SECTION_REPAIR_PROMPT), up to --tries answers in
+all. Its quote blocks are then rebuilt from the sources of truth
 (as fix_quote_blocks.py does) and appended to <NN>.md, so an interrupted run
 resumes after the last section saved. A last call adds the closing summary.
 At the end of the run, the calls that had answers rejected are listed, each
 with the first problem of every rejected answer, and the count of all.
+
+Musurus's Greek with the Modern Greek translation of commentary/el-grc/
+(-s grc -l el, grammar/el-grc/) is explained in the same way, with GRC_EL_PROMPT
+and GRC_EL_SUMMARY_PROMPT: for English readers, what has changed from Ancient
+to Modern Greek (constructions lost or replaced, the vocabulary), set against
+the translation; the forms of the Greek alone are explained in grammar/grc/.
 
 The model does not change the translation; where it finds the translation
 wrong, it says so in a paragraph opening with `Translation note:`. With
@@ -104,6 +111,24 @@ Write, in English and in Markdown, a commentary on the grammar and usage of line
 - Do not rewrite the translation. If it gets the grammar of a line wrong, add a paragraph opening with `Translation note:` that says what is wrong and what the line means.
 """.strip()
 
+# For Musurus's Greek with the Modern Greek translation (-s grc -l el)
+GRC_EL_PROMPT = """
+Attached is the {source} of canto {number} of Dante's Divine Comedy, {canticle}, line by line, each line followed by its translation into Modern Greek in parentheses. The translation is fixed: it is not to be changed.
+
+Write, in English and in Markdown, a commentary on lines {start}–{end} for English readers who want to see how Musurus's Ancient Greek differs from Modern Greek, line by line against the translation.
+
+- Begin with the heading `## Lines {start}–{end} — <a short title>`, the title naming what these lines say in a few words. Write no other heading.
+- Go through the lines in order. Quote one sentence or clause at a time, one to four lines, and explain it right after the quote. Every line from {start} to {end} must be quoted exactly once.
+- Quote each line as `> line-number original`, followed on the next line by `> (translation)`, copying both exactly from the attachment. Put consecutive lines in one quote block, separated by lines containing only `>`. In both texts every line begins with a capital letter, as in the printed Greek: this does not mark a new sentence.
+- Set the Ancient Greek against the Modern Greek: where Modern Greek has lost or replaced a form or construction, name both and say what took its place: the infinitive (*να* with the subjunctive, a noun, or a clause), the dative (*σε* with the accusative, the genitive), the participles (the gerund in *-οντας*, a relative or temporal clause), the optative, the synthetic future and perfect (*θα*, *έχω*), the middle voice, the particles (*μέν*, *δέ*, *γάρ*, *οὖν*, *ἄν*), and crasis, elision, and prodelision.
+- Take up the vocabulary: Ancient words that Modern Greek has dropped, replaced, or given another meaning, with the Modern word that the translation uses instead; and Ancient words that the translation keeps, as learned Modern Greek may.
+- Give the form of an Ancient word (tense, mood, voice, person, case, number, dictionary form) only where the comparison needs it, and pass over what is the same in both.
+- The changes of spelling and sound (the monotonic accent, the breathings, iota subscript, the pronunciation) get no comment of their own: they are summed up at the end of the canto.
+- Write Greek words in italics and your own English glosses in single quotation marks (‘…’). Use no bold.
+- Do not explain the content: no story, allegory, background, sources, or meter.
+- Do not rewrite the translation. If it misreads the Greek (its construction, or the meaning of a word), add a paragraph opening with `Translation note:` that says what is wrong and what the line means. Write no note on a nuance that the translation could only render more closely.
+""".strip()
+
 BLOCK_PROMPT = """
 Attached are lines {start}–{end} of canto {number} of Dante's Divine Comedy, {canticle}: the {source} in <italian>, each line with its number, and in <english> the part of the {prose} that renders exactly these lines. The translation is fixed: it is not to be changed.
 
@@ -135,10 +160,25 @@ Your answer has these problems:
 Correct them, and give the whole answer again, changing nothing else. A phrase in double quotation marks must be copied exactly from the translation (in a block, from the English of its range); if it is your own rendering, put it in single quotation marks instead.
 """.strip()
 
+# Sent after a rejected answer to a section, with the answer before it
+SECTION_REPAIR_PROMPT = """
+Your answer has these problems:
+
+{problems}
+
+Correct them, and give the whole answer again, changing nothing else. Quote every line and its translation exactly as they are attached, each line once and in order.
+""".strip()
+
 SUMMARY_PROMPT = """
 Attached are the {source} of canto {number} of Dante's Divine Comedy, {canticle}, line by line, {layout}, and a commentary on its grammar and usage.
 
 Write, in English and in Markdown, the closing section of that commentary: the heading `## Summary — <a short title>`, followed by a few paragraphs that sum up the forms, constructions, and usages that recur in this canto, and how the translation deals with them. Quote no lines and do not explain the content (story, allegory, background, meter). Output only this section.
+""".strip()
+
+GRC_EL_SUMMARY_PROMPT = """
+Attached is the {source} of canto {number} of Dante's Divine Comedy, {canticle}, line by line, each line followed by its translation into Modern Greek in parentheses, and a commentary on how the Ancient Greek differs from the Modern Greek.
+
+Write, in English and in Markdown, the closing section of that commentary: the heading `## Summary — <a short title>`, followed by a few paragraphs that sum up the differences between Musurus's Ancient Greek and the Modern Greek translation that recur in this canto (the forms and constructions lost or replaced, the particles, the vocabulary dropped, replaced, or kept), with a few examples, and the changes of spelling and sound that the commentary leaves out (the monotonic accent, the breathings, iota subscript, the pronunciation). Quote no lines and do not explain the content (story, allegory, background, meter). Write Greek words in italics and English glosses in single quotation marks (‘…’), and use no bold. Output only this section.
 """.strip()
 
 PROSE_SUMMARY_PROMPT = """
@@ -406,11 +446,11 @@ def check_section(text: str, start: int, end: int, lines: list[Line],
 
 
 def ask(client: Client, messages: list[str], check, tries: int, label: str,
-        repair: bool = False) -> str | None:
+        repair: bool = False, repair_prompt: str = REPAIR_PROMPT) -> str | None:
     """The first answer with no problems, or None after tries answers. With
     repair, a rejected answer is sent back with its problems to be
-    corrected; otherwise the question is asked again. The call is recorded
-    in ASKED under label."""
+    corrected (repair_prompt); otherwise the question is asked again. The
+    call is recorded in ASKED under label."""
     text, problems, rejected = None, [], []
     for attempt in range(1, tries + 1):
         if repair and text is not None:
@@ -419,7 +459,7 @@ def ask(client: Client, messages: list[str], check, tries: int, label: str,
                 + [{"role": "assistant", "content": text}]
             try:
                 listed = "\n".join(f"- {problem}" for problem in problems)
-                text = client(REPAIR_PROMPT.format(problems=listed)).text.strip()
+                text = client(repair_prompt.format(problems=listed)).text.strip()
             finally:
                 client.history = history
         else:
@@ -478,7 +518,8 @@ def done_sections(saved: str) -> set[int]:
 
 
 def summarize(client: Client, messages: list[str], tries: int, canto: int,
-              english: str | None = None, repair: bool | None = None) -> str | None:
+              english: str | None = None, repair: bool | None = None,
+              repair_prompt: str = REPAIR_PROMPT) -> str | None:
     """The closing summary; with english (a prose translation), every phrase
     in double quotation marks must be found in it, and a rejected summary
     is sent back to be corrected."""
@@ -491,13 +532,20 @@ def summarize(client: Client, messages: list[str], tries: int, canto: int,
                          if not contains(english, quote)]
         return problems
     return ask(client, messages, check, tries, f"canto {canto}, summary",
-               repair=(english is not None) if repair is None else repair)
+               repair=(english is not None) if repair is None else repair,
+               repair_prompt=repair_prompt)
 
 
 def is_grc_en(source: str, lang_code: str | None) -> bool:
     """Whether source is grc explained against Oelsner's Italian and English
     with translations/en/grc/ (Step 3: grammar/grc/)."""
     return source == "grc" and lang_code == "en"
+
+
+def is_grc_el(source: str, lang_code: str | None) -> bool:
+    """Whether source is grc explained against the Modern Greek translation
+    of commentary/el-grc/ (Step 4: grammar/el-grc/)."""
+    return source == "grc" and lang_code == "el"
 
 
 def commentary_path(out: Path, source: str, canticle: str, canto: int,
@@ -531,6 +579,7 @@ def explain(client: Client, canticle: str, canto: int, args: argparse.Namespace)
         return False
     text = canto_text(lines, translations)
     originals = {line.no: line.text for line in lines}
+    grc_el = is_grc_el(args.source, args.lang_code)
 
     out_path = commentary_path(args.out, args.source, canticle, canto, args.lang_code)
     if (saved := open_commentary(out_path, canticle, canto)) is None:
@@ -546,12 +595,16 @@ def explain(client: Client, canticle: str, canto: int, args: argparse.Namespace)
         if end in done:
             continue
         print(f"\n--- canto {canto}, lines {start}-{end} ---")
-        prompt = PROMPT.format(**names, start=start, end=end,
-                               focus=FOCUS[source["language"]])
+        if grc_el:
+            prompt = GRC_EL_PROMPT.format(**names, start=start, end=end)
+        else:
+            prompt = PROMPT.format(**names, start=start, end=end,
+                                   focus=FOCUS[source["language"]])
         answer = ask(
             client, [text, prompt],
             lambda answer: check_section(answer, start, end, lines, translations),
             args.tries, f"canto {canto}, lines {start}-{end}",
+            repair=True, repair_prompt=SECTION_REPAIR_PROMPT,
         )
         if answer is None:
             print(f"\ncanto {canto}, lines {start}-{end}: no answer passed, "
@@ -560,8 +613,12 @@ def explain(client: Client, canticle: str, canto: int, args: argparse.Namespace)
         append(answer)
 
     print(f"\n--- canto {canto}, summary ---")
-    prompt = SUMMARY_PROMPT.format(**names, layout=LAYOUT.format(lang=names["lang"]))
-    if (answer := summarize(client, [text, saved, prompt], args.tries, canto)) is None:
+    if grc_el:
+        prompt = GRC_EL_SUMMARY_PROMPT.format(**names)
+    else:
+        prompt = SUMMARY_PROMPT.format(**names, layout=LAYOUT.format(lang=names["lang"]))
+    if (answer := summarize(client, [text, saved, prompt], args.tries, canto,
+                            repair=True, repair_prompt=SECTION_REPAIR_PROMPT)) is None:
         print(f"\ncanto {canto}: no summary passed", file=sys.stderr)
         return False
     append(answer)

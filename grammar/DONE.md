@@ -141,3 +141,7 @@ Before step 4, the breathings of `texts/grc/` were checked, as [PLAN.md](PLAN.md
 - XIV 132 and XIX 5 were wrong in the same way in `commentary/en-grc/` and `translations/en/grc/` (and `translations/ja/grc/` on `main`): now "from such streams" and "for you". `fix_quote_blocks.py` updated `grammar/grc/`, and the bullet on XIX 5 no longer contrasts the English (“not "for us"”).
 - *Κογνάζε* (XXI 119), marked as a misprint for *Καγνάζε* in `524fe966`, is printed *Κογνάζ-* in both its places (XXII 106 *Κογνάζος*): Musurus's spelling, so the mark was reverted on `main`, and `grammar/grc/024-canto-21.md` quotes and explains *Κογνάζε*.
 - `make check-quotes` with `LANG=el` and `LANG=en`, `SOURCE=grc`: 0 mismatches.
+
+## Bold removed
+
+The commentaries had used bold for emphasis in a few places (one or a few words: **not**, **singular**, **of**): 100 in `grc/` (31 files), one each in `en-oelsner/`, `en-purgatorio/`, and `en-paradiso/`, none in `en/`. The markers were removed, leaving the words as plain text (checked: the files differ from before only by `**`), and the prompts of `el-grc/` ask for no bold.
