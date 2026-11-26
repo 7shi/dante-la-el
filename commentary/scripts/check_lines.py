@@ -93,6 +93,8 @@ class Result(BaseModel):
 DEGREE_WORDS = {
     "it": ' (such as "sì", "tanto")',
     "grc": ' (such as "οὕτως", "τοσοῦτον")',
+    "la-la": ' (such as "sic", "tantum")',
+    "la-it": ' (such as "sì", "tanto")',
 }
 
 # Set the path only when usage should be recorded

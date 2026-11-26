@@ -352,7 +352,8 @@ def main():
         choices=TRANSLATED_SOURCES,
         default="it",
         help="Source text to explain and translate (default: it, the Italian; "
-             "grc: Musurus's Greek Inferno, translation only)",
+             "grc: Musurus's Greek Inferno; la-la, la-it: Serravalle's Latin and "
+             "the Italian printed with it; translation only)",
     )
     parser.add_argument(
         "-r", "--rounds",

@@ -19,6 +19,12 @@ The original text of a canto, line by line, from one of the sources:
   texts/en-paradiso/, edited by Oelsner as the Inferno and printed in the
   same layout with an English prose translation (Okey's of the Purgatorio,
   Wicksteed's of the Paradiso), so they are only explained, as en-oelsner
+- la-la, la-it: Serravalle's Latin verse translation (1416) and the Italian
+  text it is printed with (Bartolommeo da Colle's manuscript), all three
+  canticles, read from texts/la/ of this repository, where they are
+  interleaved per tercet (the Italian first); the Latin is line for line, so
+  both have the line count of dante-corpus. The gloss markers of the Italian
+  (`(1)`, pointing to the glosses under the verse) are left out
 
 Each line has .no (the line number) and .text, as the lines of dante-corpus.
 
@@ -47,6 +53,7 @@ from dante_corpus import ref
 
 TEXTS_DIR = Path(__file__).resolve().parents[2] / "texts"
 GRC_DIR = TEXTS_DIR / "grc"
+LA_DIR = TEXTS_DIR / "la"
 EN_GRC_DIR = Path(__file__).resolve().parents[2] / "translations" / "en" / "grc"
 CARLYLE_DIR = TEXTS_DIR / "en"
 # The Temple Classics volumes, per source: the same layout in all three
@@ -99,6 +106,16 @@ SOURCES = {
         "language": "Italian",
         "canticles": ["paradiso"],
         "prose": "English prose translation by Philip H. Wicksteed (1910)",
+    },
+    "la-la": {
+        "name": "Latin verse translation (by Giovanni da Serravalle, 1416)",
+        "language": "Latin",
+        "canticles": ["inferno", "purgatorio", "paradiso"],
+    },
+    "la-it": {
+        "name": "Italian text (as written in Bartolommeo da Colle's manuscript, 1480)",
+        "language": "Italian",
+        "canticles": ["inferno", "purgatorio", "paradiso"],
     },
 }
 # The sources that are translated (into <lang>/ or <lang>-<source>/)
@@ -159,6 +176,53 @@ def grc_lines(canto: int, folder: Path = GRC_DIR) -> list[Line]:
                 raise ValueError(f"{path}: line {len(lines) + 1} numbered {number}")
             text = text[: match.start()]
         lines.append(Line(len(lines) + 1, text))
+    return lines
+
+
+# The number that opens a tercet of texts/la (`12 E non mi si partia (1) …`)
+TERCET_RE = re.compile(r"^(\d{1,2}) ")
+# A gloss marker of the Italian of texts/la, `(1)`
+GLOSS_MARK_RE = re.compile(r"\s*\(\d+\)")
+# Verse lines of texts/la are shorter than this; prose lines are longer
+MAX_LA_VERSE = 100
+
+
+def la_lines(canticle: str, canto: int, language: str) -> list[Line]:
+    """The verse of one canto of texts/la in one language (`la` or `it`).
+
+    Each tercet is a paragraph opening with its number, the lines but the
+    last ending with `\\`; the Italian tercet comes first, then the Latin
+    with the same number. Page comments, numbers, indents, line-end
+    backslashes, and (in the Italian) gloss markers are left out."""
+    (path,) = LA_DIR.glob(f"*-{canticle}-canto-{canto:02d}.md")
+    lines: list[Line] = []
+    seen: dict[int, int] = {}  # how many times each tercet number was printed
+    tercets = 0  # the tercets of the language read so far
+    for paragraph in re.split(r"\n\s*\n", path.read_text()):
+        rows = [row for row in paragraph.strip("\n").splitlines()
+                if row.strip() and not row.startswith("<!--")]
+        if not rows or not (match := TERCET_RE.match(rows[0])):
+            continue
+        if any(not row.endswith("\\") for row in rows[:-1]):
+            continue
+        if any(len(row) > MAX_LA_VERSE for row in rows):
+            continue
+        number = int(match.group(1))
+        seen[number] = seen.get(number, 0) + 1
+        if seen[number] > 2:
+            raise ValueError(f"{path}: tercet {number} printed more than twice")
+        if (seen[number] == 1) != (language == "it"):
+            continue
+        tercets += 1
+        if number != tercets:
+            raise ValueError(f"{path}: tercet {tercets} numbered {number}")
+        for row in rows:
+            text = row.removesuffix("\\").removeprefix("&emsp;")
+            if row is rows[0]:
+                text = text[match.end():]
+            if language == "it":
+                text = GLOSS_MARK_RE.sub("", text)
+            lines.append(Line(len(lines) + 1, text.strip()))
     return lines
 
 
@@ -397,4 +461,6 @@ def source_lines(source: str, canticle: str, canto: int) -> list[Line]:
         return carlyle_lines(canto)
     if source in OELSNER_DIRS:
         return oelsner_lines(canto, source)
+    if source in ("la-la", "la-it"):
+        return la_lines(canticle, canto, source.removeprefix("la-"))
     return [Line(line.no, line.text) for line in ref(f"{canticle} {canto}")]
