@@ -16,8 +16,9 @@ apply them, do not ask again.
 
 `ocr/la` is complete (`0001`–`1296`) and converted into `texts/la/001`–`110`. All the
 checks are done (DONE.md): check 1, the verse check, the italics, check 2, the read-through
-(0001–1296, 2026-11-05 – 2026-11-08) and the misprint marks (2026-11-08). No work is open;
-what the checks do not cover is under "Known limits".
+(0001–1296, 2026-11-05 – 2026-11-08) and the misprint marks (2026-11-08). No work is open
+but one on hold, the author's errors among the misprint marks ("Misprint marks"); what
+the checks do not cover is under "Known limits".
 
 ## Checks
 
@@ -113,6 +114,15 @@ its page and gets its row in `misprints.tsv` at once.
   `markprep.py` stops at its assert and `markresolve.py` refuses to write. A `{{…|…}}` in
   `ocr/la` is a misprint mark.
 - **Done** (DONE.md, "Misprint marks"): the table converted, the marks written and checked.
+- **On hold: the author's errors** (2026-11-28). ocr/GUIDE.md (step 5) now keeps as
+  printed what only outside knowledge corrects (a reference, a quotation, a fact of place
+  or person), a spelling the book prints alike in more than one place, and a real word
+  that reads; the other five texts were reviewed on it (their DONE.md, "The author's
+  errors back to the print"). The rows of `misprints.tsv` outside the Italian verse (the
+  prose, the Latin, the notes; `source` `other`, and `edition` rows resting on outside
+  facts) are still to be reviewed on this rule. Held while `commentary/en-la-it/` and
+  `commentary/en-la-la/` are being worked on, since a reverted mark changes their source
+  lines.
 
 ## Standing rules
 
