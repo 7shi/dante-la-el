@@ -1,13 +1,14 @@
 # Plan: Translations in `translations/{en,ja}/`
 
 Project plan for translating the editions in [`texts/`](../texts/) into
-`translations/en/{dir}/` (for `grc` and `la`) and `translations/ja/{dir}/`, on the
-`translations` branch (merged into `main` up to the `la` trial) and now, for `la`, on the
-`la` branch. The reusable workflow, script usage (`pages.py`, `proper_names.py`),
-review checklist, and issue disposition rules are documented in [`GUIDE.md`](GUIDE.md);
-completed work is recorded in [`DONE.md`](DONE.md).
+`translations/en/{dir}/` (for `grc` and `la`) and `translations/ja/{dir}/`, first on the
+`translations` branch (merged into `main` up to the `la` trial), then on the `la` branch
+(merged on 2026-11-28); work now continues on `main`, with no branch. The reusable
+workflow, script usage (`pages.py`, `proper_names.py`), review checklist, and issue
+disposition rules are documented in [`GUIDE.md`](GUIDE.md); completed work is recorded in
+[`DONE.md`](DONE.md).
 
-## State (2026-11-26)
+## State (2026-11-28)
 
 - **Done** ([`DONE.md`](DONE.md)): all four English volumes (`ja/en/` `001`–`041`,
   `ja/en-oelsner/` `001`–`041`, `ja/en-purgatorio/` `001`–`040`, `ja/en-paradiso/`
@@ -17,8 +18,8 @@ completed work is recorded in [`DONE.md`](DONE.md).
 - **Next / In progress**: `la` (Serravalle Latin edition, 110 files), following the two-stage workflow
   in [`GUIDE.md`](GUIDE.md) Step 6. Trial completed (`006-epistola.md`, `008-inferno-canto-01.md`);
   the delegated draft of the other 108 files was not landed (see [`la` delegation
-  result](#la-delegation-result)): the verse goes through `commentary/en-la-la/` first, and
-  the prose is to be delegated again in smaller units.
+  result](#la-delegation-result)): the verse has gone through `commentary/en-la-la/`, now
+  checked (2026-11-28), and the prose is to be delegated again in smaller units.
 
 ## Project-specific conventions
 
@@ -27,12 +28,12 @@ handling follow [`GUIDE.md`](GUIDE.md). Project-specific decisions:
 
 ### Scope and files
 
-- **Branch boundary**: on `translations`, only `translations/` was touched (with the
-  explicit exception of `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv`). The
-  rest of `la` is done on the `la` branch (from `main` at `8e162c88`, 2026-11-26), which
-  touches `commentary/` and `translations/` (its verse goes through `commentary/en-la-la/`
-  first; `grammar/` only where its plan names them). On both, everything to fix in `ocr/`
-  or `texts/` is recorded in [`for-main.tsv`](for-main.tsv) and applied on `main`.
+- **Branches, now ended**: on `translations`, only `translations/` was touched (with the
+  explicit exception of `texts/en-{oelsner,purgatorio,paradiso}/PROPER_NAMES.tsv`); on
+  `la` (from `main` at `8e162c88`, 2026-11-26, merged 2026-11-28), `commentary/` and
+  `translations/`. The rest of `la` is done on `main`, with no branch (its verse goes
+  through `commentary/en-la-la/` first). Everything to fix in `ocr/` or `texts/` is still
+  recorded in [`for-main.tsv`](for-main.tsv) and applied together (step 4 below).
 - **What is translated**: prefaces, essays, arguments, and notes (plus English prose and
   verse glosses for the English volumes, now complete), and translations of the Greek
   (`grc`) and Latin (`la`) verse translations (as reading aids to be paired alongside the
@@ -151,12 +152,12 @@ handling follow [`GUIDE.md`](GUIDE.md). Project-specific decisions:
 ## Remaining steps
 
 1. `la` (Latin front/back matter, verse-translation reading aids, and commentary; 110 files):
-   the verse from `commentary/en-la-la/` once checked; the prose translated anew from the prose
+   the verse from `commentary/en-la-la/` (now checked); the prose translated anew from the prose
    alone, in smaller units, checked, and put together with the verse; then `translations/en/la/` → `translations/ja/la/`. Unify on landing:
    三行連 (not 三行詩), half-width `(1)` markers, `# 煉獄篇` for *Purgatorium*, one rendering
    of *Preambula* (`007`, `042`) distinct from *Notizie Preliminari* (`003`).
 2. `translations/README.md` (structure, excluded files, usage).
 3. HTML side-by-side conversion pairing `texts/` and `translations/{en,ja}/`.
-4. Resolve all `for-main.tsv` items on `main` (`ocr/` → reconvert `texts/`) and merge.
+4. Resolve all `for-main.tsv` items (`ocr/` → reconvert `texts/`).
 
 Commits when the user asks.

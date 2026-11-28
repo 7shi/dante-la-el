@@ -4,7 +4,7 @@ What remains to be done on the reports of this directory; what is done is in [DO
 
 ## If texts/en/ or texts/en-oelsner/ change
 
-The `el` and `commentary` branches have been merged into `main` (see [DONE.md](DONE.md)). If `texts/en/` or `texts/en-oelsner/` change further on `main` while work continues on a branch, check them again after rebasing or merging:
+The `el`, `commentary`, and `la` branches have been merged into `main` (see [DONE.md](DONE.md)), and work now continues on `main`, with no branch. If `texts/en/` or `texts/en-oelsner/` change further, check them again:
 
 - Run `uv run scripts/compare_editions.py en` again and check the numbers of `judge-en.txt` against the new list (see [README.md](README.md#how-they-are-made)); judge any new difference.
 - Render the tables of `en-carlyle-oelsner.md` again with `scripts/render_editions.py`, and update its counts.
