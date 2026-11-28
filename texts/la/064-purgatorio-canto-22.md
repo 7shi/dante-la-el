@@ -84,7 +84,7 @@ Ista litera est valde fortis: ideo oportet hic notare, quod auctor facit hic unu
 
 7 Ma dimmi, e come amico mi perdona,\
 &emsp;Se troppa sicurtà m'allarga 'l freno,\
-&emsp;La E come amico omai meco ragiona:
+&emsp;La pura fede in tucto mi scagiona:
 
 7 Sed dicas, et sicut amicus michi parcas,\
 &emsp;Si nimia securitas michi ampliat frenum,\
