@@ -208,7 +208,7 @@ Inter turpes porcos, magis dignos gallis, idest glandibus, quam alio cibo facto 
 
 18 Discesa poi per più pelaghi cupi,\
 &emsp;Trova le volpi (5) sì piene di froda,\
-&emsp;Che non temono ingegno che le occupi (6).
+&emsp;Che non trovan ingegno che le occupi (6).
 
 18 Desce[n]sa postea per plures pelagos cupos,\
 &emsp;Reperit vulpes ita plenas fraudibus,\
@@ -308,7 +308,7 @@ Sanguinolentus exit de tristi silva; dimictit eam talem, quod tunc ad mille anno
 &emsp;Quod si vidissem hominem fieri letum,\
 &emsp;Vidisses me de livore conspersum.
 
-29 Di mia semenza cotal paglia mieto (6).\
+29 Seme d'invidia cotal paglia mieto (6).\
 &emsp;O gent'humana, perchè poni 'l core\
 &emsp;Ov'è mestier di consorte divieto?
 

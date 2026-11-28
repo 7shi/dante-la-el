@@ -568,7 +568,7 @@ Aliqui dicunt, humilis Ytalia: humilis, idest fertilis, suavis, palpabilis, abun
 
 41 Alle quai poi se tu vorrai salire,\
 &emsp;Anima fia di ciò più di me degna,\
-&emsp;Con lei ti lasserò nel mio partire:
+&emsp;Con lor ti lasserò nel mio partire:
 
 41 Ad quas postmodum, si tu voles ascendere,\
 &emsp;Anima erit ad hoc me dignior;\

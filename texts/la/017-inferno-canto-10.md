@@ -386,7 +386,7 @@ Adhuc est notandum, quod primus rex romanorum de Theutonicis fuit Fredericus Bar
 
 33 E' par che voi veggiate, se ben odo,\
 &emsp;Ciò che 'l presente tempo seco adduce,\
-&emsp;E nel presente tenete altro modo.
+&emsp;E nel futuro tenete altro modo.
 
 33 Videtur quod vos videatis, si bene audio,\
 &emsp;Ante, illud quod tempus secum adducit,\

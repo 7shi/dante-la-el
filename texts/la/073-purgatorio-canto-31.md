@@ -313,7 +313,7 @@ Quales pueri verecundi et muti, cum oculis ad terram stantes, auscultando et se 
 &emsp;Que est solum una persona in duabus naturis.
 
 28 Socto suo velo, et oltre la riviera,\
-&emsp;Vincer pariemi, più sè stessa antica\
+&emsp;Vincer pariemi, sè stessa l'antica\
 &emsp;Vincer, che l'altre qui quando la c'era.
 
 28 Sub suo velo, et ultra ripariam,\

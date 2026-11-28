@@ -152,9 +152,9 @@ Igitur ad essentiam, que habet tantam prerogativam, quia quodlibet bonum quod ex
 &emsp;Ille, qui michi demonstrat primum amorem\
 &emsp;Omnium substantiarum sempiternarum.
 
-14 [S]cernel la voce del verace autore,\
+14 [S]cernel la voce del beato autore,\
 &emsp;Che dice a Moyse, di sè parlando:\
-&emsp;Io ti farò veder ogni valore.
+&emsp;Io ti farò sentir ogni valore.
 
 14 Sternit vox veracis auctoris,\
 &emsp;Qui dixit Moysi, de se loquendo:\
@@ -185,7 +185,7 @@ Igitur ad essentiam, que habet tantam prerogativam, quia quodlibet bonum quod ex
 &emsp;Cum quot dentibus iste amor te mordet.
 
 18 Non fu latente (2) la santa intentione\
-&emsp;Dell'aquila di Chrysto, anzi m'accorsi\
+&emsp;Dell'aquila di Chrysto, ancor m'accorsi\
 &emsp;Ove menar volea mia profexione.
 
 18 Non fuit latens sancta oratio\
@@ -436,7 +436,7 @@ Inde spiravit, idest cepit loqui (quasi dicat: Tu dicis verum, quod absque hoc q
 &emsp;Quatuor millibus tercentis et duobus voluminibus\
 &emsp;Solis desideravi istud concilium;
 
-41 E vidi lui (6) tornar a tutti i lumi\
+41 E vidi lui (6) tornar a questi lumi\
 &emsp;Della sua strada novecento trenta\
 &emsp;Fiate, mentre ch'io in terra fu'mi (7).
 
@@ -469,7 +469,7 @@ Inde spiravit, idest cepit loqui (quasi dicat: Tu dicis verum, quod absque hoc q
 &emsp;Postea facere vobis, secundum quod placet.
 
 45 Pria che scendessi all'infernal ambascia,\
-&emsp;I s'appellava in terra el sommo Bene,\
+&emsp;Un s'appellava in terra el sommo Bene,\
 &emsp;Onde vien la letitia che mi fascia;
 
 45 Antequam ego descenderem ad infernalem angustiam,\

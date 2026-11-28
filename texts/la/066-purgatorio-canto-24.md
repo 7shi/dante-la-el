@@ -412,7 +412,7 @@ Modo per comparationem describit auctor recessum Foresis a se auctore. Qualis, i
 
 38 Poi si partì (12) sì come ricreduta;\
 &emsp;E noi venimmo al grand'arbore, ad esso (13)\
-&emsp;Che tanti prieghi e lagrime rifiuta.
+&emsp;Che tanti pianti e lagrime rifiuta.
 
 38 Postea recessit, tamquam recreduta;\
 &emsp;Et venimus nos ad grandem arborem illam,\

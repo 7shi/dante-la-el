@@ -242,7 +242,7 @@ Inde reddi[di] aspectum altis rebus, idest ad illa candelabra me volvi, que se m
 
 21 La donna mi sgridò: Perchè pur ardi\
 &emsp;Sì nell'aspecto delle vive luci,\
-&emsp;E ciò che vien dirieto a lor non guardi?
+&emsp;E ciò che vien dirieto a noi non guardi?
 
 21 Domina michi clamavit: Quare tantum ardes\
 &emsp;In aspectu vive lucis,\
@@ -353,7 +353,7 @@ Ista ostendalia (ostendale proprie est vexillum Imperatorum: nam vicinus erat Im
 &emsp;Si essent vivi, essent tales.
 
 33 A descriver lor forma più non spargo\
-&emsp;Lingua (5), lector; ch'altra spesa mi strigne\
+&emsp;Lingua (5), lector; ch'altra possa mi strigne\
 &emsp;Tanto, ch'a questa non posso esser largo (6).
 
 33 Ad describendum eorum formas plures non spargo\
@@ -362,7 +362,7 @@ Ista ostendalia (ostendale proprie est vexillum Imperatorum: nam vicinus erat Im
 
 34 Ma legge Ezechiel, che le dipigne\
 &emsp;Come le vidde dalla fredda parte\
-&emsp;Venire a lui con vento e con igne;
+&emsp;Venire a lui con nube e con igne;
 
 34 Sed lege Ezechielem, qui eas pingit\
 &emsp;Sicut eas vidit a frigida parte\
@@ -406,7 +406,7 @@ Sed lege Ezechielem, prophetam scilicet, qui eas pingit, idest describit, sicut 
 
 37 Esso tendea su l'una (1) e l'altr'hale\
 &emsp;Tra la mezzana e le tre e tre liste,\
-&emsp;Sì a nulla fendendo facea male.
+&emsp;Sì che nullo offendendo facea male.
 
 37 Et ipse tendebat sursum utramque alam\
 &emsp;Inter mediam et tres et tres listas,\

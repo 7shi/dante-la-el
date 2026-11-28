@@ -301,7 +301,7 @@ Nobilem virtutem, scilicet hanc, Beatrix, scilicet Theologia, intelligit per lib
 &emsp;Inter Sardos et Corsos illum videt quando occidit;
 
 28 E quell'ombra gentil, per cui si noma\
-&emsp;Pietola più che villa mantovana,\
+&emsp;Cortese più che nulla mantovana,\
 &emsp;Del mio carchar dispost'havea la soma.
 
 28 Et illa umbra gentilis, per quam nominatur\

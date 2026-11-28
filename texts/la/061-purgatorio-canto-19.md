@@ -10,7 +10,7 @@ In decimonono capitulo, scilicet isto, quod incipit: *In hora, qua calor diurnus
 
 1 Nell'hora che non può 'l calor diurno\
 &emsp;Intepidar più 'l freddo de la luna,\
-&emsp;Vinto da Saturno, o talhor dall'autumpno (1);
+&emsp;Vinto da terra, o talhor dall'autumpno (1);
 
 1 In hora qua non potest calor diurnus\
 &emsp;Tepefieri plus a frigiditate lune,\

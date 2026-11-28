@@ -442,7 +442,7 @@ Et ideo quantumcumque iste arcus sagiptat, idest ista influentia celorum operatu
 &emsp;Postea conclusit: Ergo esse diversas\
 &emsp;Oportet nostrorum affectuum radices;
 
-42 Per che un nasce Solon e l'altro Xerse,\
+42 Per che un nasce Absalon e l'altro Xerse,\
 &emsp;L'altro Melchisedech, e l'altro quello (2)\
 &emsp;Che, volando per l'aere, el figlio (3) perse.
 

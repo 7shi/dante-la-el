@@ -16,7 +16,7 @@ In isto vicesimoseptimo capitulo quod incipit: *Patri, Filio et Spiritui Sancto*
 &emsp;Incepit gloriam totus Paradisus,\
 &emsp;Ita quod inebriabar dulci cantu.
 
-2 Ciò ch'io vedeva, mi sembrava un riso\
+2 Ciò ch'io udiva, mi sembrava un riso\
 &emsp;Dell' universo; per che mia ebrezza\
 &emsp;M'entrava per l'udito e per lo viso.
 
@@ -212,7 +212,7 @@ Nota quod iste partialitates, scilicet gebellina et guelfa, multum vigent in Yta
 
 19 In veste di pastor lupi rapaci\
 &emsp;Si veghon di quassù per tutti e paschi (1):\
-&emsp;O difesa di Dio, perchè più giaci!
+&emsp;O vendetta di Dio, perchè più giaci!
 
 19 Quia in veste pastoris lupi rapaces\
 &emsp;Videntur abhinc per omnia pascua:\

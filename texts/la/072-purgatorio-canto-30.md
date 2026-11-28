@@ -236,7 +236,7 @@ Ponit bonam comparationem, volens ostendere quomodo fecit secum Beatrix. Sicut a
 
 <!-- p. 776 (0830) -->
 
-22 Vidi la donna, che pria m'appario\
+22 Vidi la donna, che lì m'appario\
 &emsp;Velata socto l'angelica festa,\
 &emsp;Drizzar gl'occhi ver me di qua dal rio.
 
@@ -394,7 +394,7 @@ Gelu, quod michi erat circa cor de pectore (quia cor est in pectore) restrictum,
 
 37 Non pur per ovra delle rote magne,\
 &emsp;Che drizzan ciascun seme ad alcun fine,\
-&emsp;Secondo che le stelle son compagne;
+&emsp;Secondo che le rote son compagne;
 
 37 Non solum propter operam rotarum magnarum,\
 &emsp;Que dirigunt quodlibet semen ad aliquem bonum finem,\

@@ -320,7 +320,7 @@ Inde ego fui; sed scilicet profunda foramina, unde exivit sanguis, super quo ego
 
 30 Io fui da Monte Feltro, io fui Buonconte:\
 &emsp;Giovanna e gl'altri non han di me cura;\
-&emsp;Perch'io vo'tra costor con bassa fronte.
+&emsp;Perch'io vo'tra costor con lieta fronte.
 
 30 Ego fui de Monte Feretri, et sum Boncontes:\
 &emsp;Ioanna et alii non habent de me curam;\

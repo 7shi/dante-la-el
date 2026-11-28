@@ -412,7 +412,7 @@ Ille qui nunquam vidit rem novam, scilicet Deus cui nihil est novum, produxit is
 
 38 Io cominciai: Maestro, quel ch'io veggio\
 &emsp;Muover a noi, non mi paion persone,\
-&emsp;E non so che, sì nel veder, vaneggio.
+&emsp;E non so io che, nel veder, vaneggio.
 
 38 Ego incepi: Magister, illud quod ego video\
 &emsp;Venire ad nos, non michi apparent persone,\

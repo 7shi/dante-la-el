@@ -73,7 +73,7 @@ describitur prima pena illorum, qui sunt in civitate, que reperitur ibi in intro
 &emsp;Que fuerunt verba a primis diversa.
 
 5 Ma nondimen paura el suo dir dienne,\
-&emsp;Perch'io traeva la parola tronca\
+&emsp;Perch'io teneva la parola tronca\
 &emsp;Fors'a peggior sententia che non tenne.
 
 5 Sed nihilominus pavorem suum dicere dedit,\

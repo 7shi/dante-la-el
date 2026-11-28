@@ -129,7 +129,7 @@ Nota quod quia Virgilius reperit Statium in circulo, ubi purgatur avaritia, cred
 &emsp;Propter veras rationes que sunt absconse.
 
 11 La tua dimanda tuo creder m'avvera\
-&emsp;Esser, ch'io fossi avaro in l'altra vita,\
+&emsp;Esser, ch'io fossi avaro in la tua vita,\
 &emsp;Forse per quella cerchia dov'io era:
 
 11 Tua petitio tuum credere michi averat\
@@ -170,7 +170,7 @@ Nota quod quia Virgilius reperit Statium in circulo, ubi purgatur avaritia, cred
 
 16 Quanti risorgeran cho' crini scemi,\
 &emsp;Per ignoranza, che a questa pecca\
-&emsp;Tragge 'l penter vivendo, nelli stremi!
+&emsp;Tragge 'l pensier vivendo, nelli stremi!
 
 16 Quot resurgent cum crinibus scemis,\
 &emsp;Propter ignorantiam, que de isto peccato\

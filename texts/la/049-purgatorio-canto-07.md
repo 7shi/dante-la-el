@@ -478,7 +478,7 @@ Etiam ad nasutum vadunt verba mea, idest ad Karolum primum, non minus quam ad al
 
 44 Vedete el re della semplice vita\
 &emsp;Seder là solo, Arrigho d'Inghilterra:\
-&emsp;Questi ha ne'rami suoi miglor uscita.
+&emsp;Questi ha ne'regni suoi miglor uscita.
 
 44 Videte regem simplicis vite\
 &emsp;Sedere ibi solum, Henricum de Anglia;\

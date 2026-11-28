@@ -97,6 +97,14 @@ its page and gets its row in `misprints.tsv` at once.
     where the edition does not decide it; `other`, a source named in the note (the
     Vulgate, 0613; the Gospel, 1243). The fixed form is in the edition's spelling (`el`,
     `chiamata`), never a modern one.
+  - The Italian verse is the manuscript's, not a text made to agree with the Latin
+    (decided 2026-11-28): a reading that differs from the Latin or from Dante's text is
+    kept as printed when it is Italian that fits the grammar, the metre and the rhyme. A
+    misprint is a form that is not a word, a broken agreement or construction, a short or
+    long line, a broken rhyme, or a slip of a letter or two; the Latin may give the fixed
+    form, but a difference from it is not enough. 80 rows were taken back to the print on
+    this rule (0731 and 79 others, among them the whole lines of 0133 and 0514), their
+    `readcheck.tsv` rows now `printed`.
   - `ocr/scripts/misprints.py ocr/la` checks that every `yes` row is one mark at its page and
     line, and every mark a `yes` row; with `--fix-lines` it writes the new line of a mark
     that has moved.

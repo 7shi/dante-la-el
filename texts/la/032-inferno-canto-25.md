@@ -295,7 +295,7 @@ Edera *abbracciata*, idest amplexata, nunquam fuit ad arborem sic, sicut horribi
 &emsp;Devenerunt membra que nunquam fuerunt visa.
 
 26 Ogni primaio aspecto quiv'era casso:\
-&emsp;Due e nessun l'ymagine perversa\
+&emsp;Dov'in nessun l'ymagine perversa\
 &emsp;Pareva, e tal sen gi' con lenti passi.
 
 26 Omnis primus aspectus ibi erat cassus:\
@@ -358,7 +358,7 @@ Idest, volens auctor procedere de tertia specie furti, ponit unam comparacionem.
 
 32 Taccia Lucano omai, là dove toccha\
 &emsp;Del misero Sabellio e di Nasidio,\
-&emsp;Et attend' a udir quel ch'or si scocca.
+&emsp;Et attend' a udir quel ch'or si toccha.
 
 32 Taceat Lucanus ammodo, ibi ubi tangit\
 &emsp;De misero Sabell[i]o et de Nassidio,\
@@ -448,7 +448,7 @@ Taceat de Cadmo et de Arethusa Ovidius, quia, si illum in serpentem et illam in 
 &emsp;Non torquendo ideo lucernas impias,\
 &emsp;Sub quibus quilibet mutabat musum.
 
-42 Quel ch'era dritto, el trasse ver le tempie;\
+42 Quel ch'era dietro, el trasse ver le tempie;\
 &emsp;E di troppa materia che gl'advenne,\
 &emsp;Uscir gl'orechi de le gote scempie:
 

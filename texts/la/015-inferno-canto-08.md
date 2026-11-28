@@ -300,7 +300,7 @@ benedicta illa, que in te s'encense. Virgilius iustificat quidquid fecit hic Dan
 &emsp;Qui intus eas ignitat, ostendit eas rubeas,\
 &emsp;Prout vides, in isto infimo Inferno.
 
-26 Noi pur giugnemmo dentro alte fosse,\
+26 Noi pur giugnemmo dentro all'altre fosse,\
 &emsp;Che vallan quella terra sconsolata:\
 &emsp;Le mura mi parean che ferro fosse.
 

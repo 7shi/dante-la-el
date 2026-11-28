@@ -114,7 +114,7 @@ Nota quod auctor ostendit in ista spera octava Ecclesiam triumphantem, propter h
 &emsp;Devota, propter tuum ardentem affectum\
 &emsp;Ab illa pulchra spera me dissolvis.
 
-11 Poscia fermato, el foco benedecto\
+11 Poscia fermato, el corpo benedecto\
 &emsp;A la mia donna dirizzò lo spiro,\
 &emsp;Che favellò così, com'io ho detto.
 
@@ -168,7 +168,7 @@ Si ipse amat bene; ecce de caritate: et bene sperat; ecce de spe: et bene credit
 
 16 E come 'l baccellier s'arma, e non parla,\
 &emsp;Finchè 'l maestro la question propone,\
-&emsp;Per approvarla, e non per terminarla;
+&emsp;Per aiutarla, e non per terminarla;
 
 16 Sicut bachalaurius se armat, et non loquitur,\
 &emsp;Quousque magister questionem proponit,\

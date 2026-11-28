@@ -170,7 +170,7 @@ Iste sequitur Virgilium invocantem in primo Eneydos, sic dicentem: Musa, causas 
 &emsp;Ego non Eneas, non Paulus sum;\
 &emsp;Me dignum ad hoc neque ego, neque alter credit.
 
-12 Perchè se del venire io m'abbandono,\
+12 Perchè se del veder io m'abbandono,\
 &emsp;Temo che la venuta non sia folle:\
 &emsp;Se'savio, intendi me' (1) ch'io non ragiono.
 
@@ -244,7 +244,7 @@ pro sacerdotio summo; in qua Roma sedere debet successor magni Petri, idest, qui
 
 18 Io era tra color che son sospesi,\
 &emsp;E donna mi chiamò beata e bella,\
-&emsp;Tal che di comandar io la richiesi.
+&emsp;Tal che del domandar io la richiesi.
 
 18 Ego eram inter illos qui sunt suspensi,\
 &emsp;Et mulier me vocavit beata et pulchra,\

@@ -483,7 +483,7 @@ Nunc respondet: Angeli, o frater, et regio sincera in qua tu es, scilicet celum,
 <!-- p. 904 (0958) -->
 
 46 Creata fu la materia (1) ch'egli hanno,\
-&emsp;Creata fu la virtù informante\
+&emsp;Creata fu la materia informante\
 &emsp;In queste stelle che 'ntorno a lor vanno.
 
 46 Creata fuit materia quam ipsa habent,\

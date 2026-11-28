@@ -177,7 +177,7 @@ Sed quia fraus est malum proprium hominis, plus displicet Deo, et ideo stant inf
 &emsp;Girone oportet quod eos sine profecto peniteat
 
 15 Qualunque priva sè del vostro mondo,\
-&emsp;Biscazza e fonde la sua facultade,\
+&emsp;Biscazza e froda la sua facultade,\
 &emsp;E piange dove debba esser giocondo.
 
 15 Quicumque privat se de vestro mundo,\
@@ -415,7 +415,7 @@ Notanda sunt hic aliqua, quorum primum est, quare natura et ars dicantur res Dei
 &emsp;Prendere suam vitam, et multiplicare gentem.
 
 37 Ma perchè l'usurier altra via tiene,\
-&emsp;Per sè natura, e per lo suo seguace\
+&emsp;Per sua natura, e per lo suo seguace\
 &emsp;Dispregia, poi ch'in altro pon la spene.
 
 37 Et quia usurarius aliam viam tenet,\

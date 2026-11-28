@@ -68,7 +68,7 @@ Pluto fuit quartus filius regis Saturni, qui fingitur a poetis rex Inferni, qui 
 
 4 Non è senza cagion l'andar al cupo:\
 &emsp;Vuolsi nell'alto là (2) dove Michele\
-&emsp;Fe'la vendetta dell'superbo strupo.
+&emsp;Fe'la vendetta dell'eterno strupo.
 
 4 Non est sine causa ire ad secreta:\
 &emsp;Sic est voluntas in alto, ubi Michael\

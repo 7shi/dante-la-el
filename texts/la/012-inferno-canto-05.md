@@ -226,7 +226,7 @@ Nunc ponitur pena descripta peccatorum carnalium, quomodo transportantur a venti
 
 17 Ombre portate da la decta briga:\
 &emsp;Perch'io dissi: Maestro, chi son quelle\
-&emsp;Genti, che l'aura nera sì gastiga?
+&emsp;Ombre portate da la decta briga?
 
 17 Umbras portatas a dicta briga:\
 &emsp;Ex quo ego dixi: Magister, que sunt ille\

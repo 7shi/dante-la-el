@@ -258,7 +258,7 @@ Filius fui unius macellarii parisiensis. Quando reges antiqui defecerunt omnes, 
 &emsp;Suam rapinam; et postea, pro emenda,\
 &emsp;Pontem et Normandiam cepit, et Vasconiam.
 
-23 Karlo (6) venne in Italia, e, per ammenda (7),\
+23 Karlo (6) venne in Italia, e, per vicenda (7),\
 &emsp;Victima fe' di Corradino (8); e poi\
 &emsp;Ripinse in ciel Thomaso (9), per emenda.
 
@@ -532,7 +532,7 @@ Aliquando loquitur unus alte, aliquando submisse, secundum affectionem, que ad d
 
 47 Noi stavamo immobili e sospesi,\
 &emsp;Com' e' pastori che pria udir quel canto (4),\
-&emsp;Finchè 'l tremar cessò, et el compièsi.
+&emsp;Finchè 'l tremar cessò, et io 'l compresi.
 
 47 Nos stabamus immobiles et suspensi,\
 &emsp;Sicut pastores qui prius audierunt illum cantum,\

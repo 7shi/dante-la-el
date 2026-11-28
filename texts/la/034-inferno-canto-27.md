@@ -500,7 +500,7 @@ Ad Mynoem, scilicet iudicem Inferni, me portavit; et ille *attorsit*, scilicet c
 
 <!-- p. 339 (0393) -->
 
-44 Quand'ebbe suo dir così compiuto,\
+44 Quand'ebbe suo desir così compiuto,\
 &emsp;La fiamma dolorando si partio,\
 &emsp;Torcendo e dibactendo 'l corno acuto.
 

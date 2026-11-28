@@ -78,7 +78,7 @@ Modo ponitur dispositio auctoris. Ex quo, idest propter quid, sicut facit homo, 
 
 7 Allor sicuramente apri' la bocha,\
 &emsp;E cominciai (1): Come si può far magro\
-&emsp;Là dove l'huopo di nutrir non toccha?
+&emsp;Là dove l'huopo di mirar non toccha?
 
 7 Tunc secure apperui os meum,\
 &emsp;Et incepi: Quomodo potest fieri macredo\
@@ -192,7 +192,7 @@ Aliqui dicunt hic, quod ideo Virgilius imposuit Statio hunc laborem, ex eo quia 
 &emsp;Coagulando prius, et postea vivificat\
 &emsp;Id quod per suam materiam fecit constare.
 
-18 Anima facta la virtute activa,\
+18 L'anima facta alla virtute activa,\
 &emsp;Qual d'una pianta, in tanto è differente\
 &emsp;Che quest'è in via, e quell'è già a riva:
 

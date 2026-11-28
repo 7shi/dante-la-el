@@ -250,7 +250,7 @@ Modo excusat se auctor si non plene describit Ecclesiam triumphantem, maxime Chr
 
 25 Quivi è la rosa, in che'l Verbo divino\
 &emsp;Carne si fece; e quivi son li gigli,\
-&emsp;Al cui odor si prese'l bel cammino.
+&emsp;Al cui odor s'aperse'l bel cammino.
 
 25 Ibi est rosa, ubi Verbum divinum\
 &emsp;Carnem se fecit; ibi sunt lilia,\
@@ -379,7 +379,7 @@ Modo describit auctor dulcedinem cantus, quem cantavit Gabriel coram Virgine, pe
 &emsp;Magis speram supremam, et ipse illam intret.
 
 37 Così la circulata melodia\
-&emsp;Si sigillava, e tutti gl'altri lumi\
+&emsp;Sì rigirava, e tutti gl'altri lumi\
 &emsp;Facea sonar lo nome di Maria.
 
 37 Sic circulata melodia\
@@ -431,7 +431,7 @@ Ideo non habuerunt oculi mei potentiam sequi coronatam flammam, idest Virginem M
 &emsp;Propter animum qui usque ad dextrum locum inflammatur:
 
 42 Ciascun di quei candor in su si stese\
-&emsp;Co'la sua cima, sì che l'alto affecto\
+&emsp;Co'la sua fiamma, sì che l'alto affecto\
 &emsp;Ch'avevan a Maria mi fu palese.
 
 42 Sic quilibet illorum cantorum se extendit\

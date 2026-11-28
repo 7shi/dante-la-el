@@ -164,7 +164,7 @@ Modo ad textum. Notandum est, quod aliquis textus in vulgari habet sic: *De l'em
 
 <!-- p. 619 (0673) -->
 
-14 Come si frange 'l son (1), ove di bucto\
+14 Come si piange 'l son (1), ove di bucto\
 &emsp;Nuova luce percuote el viso chiuso,\
 &emsp;Che fracto guizza pria che mora tucto;
 

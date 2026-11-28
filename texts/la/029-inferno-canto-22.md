@@ -162,7 +162,7 @@ Proponit unam comparationem de ranis, sic dicens: Et sicut ad ripam aque unius f
 
 16 Lo Duca mio li s'accostò allato,\
 &emsp;Domandollo onde fusse, e quei rispose:\
-&emsp;Io fui del regno di Navarra nato.
+&emsp;Io fui del regno di Ravenna nato.
 
 16 Dux meus adhesit eius lateri,\
 &emsp;Interrogavit eum unde esset, et ille respondit:\

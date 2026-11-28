@@ -10,7 +10,7 @@ In isto vicesimotertio capitulo, quod incipit: *Dum oculos per frondes*, etc., a
 
 1 Mentre che gl'ochi per le frondi verde (1)\
 &emsp;Ficcavo (2) pur così, come far suole\
-&emsp;Chi dietro agl'ucellin sua (3) vita perde;
+&emsp;Chi dietro agl'ucellin lor (3) vita perde;
 
 1 Dum oculos per frondem viridem\
 &emsp;Figebam ego, sicut facere solet\
@@ -181,7 +181,7 @@ Quis crederet quod odor unius pomi, sic gubernaret, idest
 &emsp;Postea clamavit fortiter: Qualis gratia est ista?
 
 15 Mai non l'havrei riconosciuto al viso (2);\
-&emsp;Ma nella voce sua mi fe' palese\
+&emsp;Ma nella faccia sua mi fe' palese\
 &emsp;Ciò che l'aspecto in sè havea conquiso.
 
 15 Nunquam recognovissem ipsum ad faciem;\
@@ -280,7 +280,7 @@ Facies tua, quam ego fui lacrymatus iam mortuam, quia auctor flevit quando sepul
 &emsp;Circumeundo, fit recens nostra pena;\
 &emsp;Ego dico penam, et deberem dicere solatium;
 
-25 Chè quella vogla all'albero ci mena,\
+25 Chè quella vogla agl'alberi ci mena,\
 &emsp;Che menò Chrysto lieto a dir Hely,\
 &emsp;Quando ne liberò co'la sua vena (2).
 
@@ -344,7 +344,7 @@ Et ego ad eum: Foresis (nomen proprium), ab illo die. In quo mutasti mundum ad m
 
 30 Co'suoi preghi devoti e co'sospiri\
 &emsp;Tracto m'ha de la costa (2) ove s'aspecta,\
-&emsp;E liberato m'ha degl'altri (3) giri.
+&emsp;E liberato m'ha di questi (3) giri.
 
 30 Cum suis precibus devotis et cum suspiriis\
 &emsp;Traxit me de costa ubi expectatur,\
@@ -477,7 +477,7 @@ De illa vita, scilicet vitiosa, me volvit, idest extraxit, iste qui vadit ante m
 <!-- p. 695 (0749) -->
 
 42 Indi m'han tracto su li suoi conforti,\
-&emsp;Salendo e rigirando la montagna (1),\
+&emsp;Salendo e riguardando la montagna (1),\
 &emsp;Che drizza voi che 'l (2) mondo fece torti.
 
 42 Inde me traxerunt sue persuasiones,\

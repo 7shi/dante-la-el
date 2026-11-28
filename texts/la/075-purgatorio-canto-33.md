@@ -378,7 +378,7 @@ Sed ad hoc ut Dantes cognoscat se peccasse, dat sibi unum documentum quod est ta
 
 34 Veramente horamai saranno nude\
 &emsp;Le mie parole, quanto converrassi\
-&emsp;Quelle scovrir alla tua veduta rude.
+&emsp;Quelle scovrir alla tua vogla rude.
 
 34 Vere ammodo erunt nuda\
 &emsp;Verba mea, quantum erit conveniens\

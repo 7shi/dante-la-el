@@ -397,7 +397,7 @@ Misit se in cantum et in notam: et mea domina tenebat in eos aspectum, ac sicut 
 &emsp;De Cruce ad grande officium electus.
 
 39 La donna mia così; nè però piue\
-&emsp;Mosse la vista sua di stare attenta\
+&emsp;Mostrò la vista sua di stare attenta\
 &emsp;Pos[ci]a, che prima, a le parole sue.
 
 39 Domina mea [sic]; nec propter hoc plus movit\

@@ -372,7 +372,7 @@ Et ipse ad me: Tue preces sunt digne multa laude, et ego ideo illas accepto. Sed
 
 33 Vincer poterono dentr'a me l'ardore\
 &emsp;Ch'io ebbi a divenir (11) del mondo experto,\
-&emsp;E delli vizi humani (12) e del valore:
+&emsp;E delli sensi humani (12) e del valore:
 
 33 Vincere potuerunt intra me ardorem\
 &emsp;Quem habui ad veniendum de mundo expertum,\

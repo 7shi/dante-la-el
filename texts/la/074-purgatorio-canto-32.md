@@ -202,7 +202,7 @@ Beatus es grifo, qui non scindis cum rostro de isto ligno dulci ad gustum, postq
 
 19 Turgide fansi, e poi si rinnovella\
 &emsp;Di suo color ciascuna, pria che'l sole\
-&emsp;Giunga li suoi corsier sott'altra stella;
+&emsp;Giunga li suoi corsier senz'altra stella;
 
 19 Turgide fiunt, et postea renovantur\
 &emsp;De suo colore, priusquam sol\

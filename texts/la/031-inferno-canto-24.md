@@ -214,7 +214,7 @@ Nota quod famam quisque appetit homo sapiens, et maxime
 
 21 Su per lo scoglo prendemmo la via\
 &emsp;Ch'era ronchioso, strecto e malegevole,\
-&emsp;E erto più assai che quel di pria.
+&emsp;E cieco più assai che quel di pria.
 
 21 Super scopulum cepimus viam,\
 &emsp;Qui erat runcosus, strictus et difficilis,\

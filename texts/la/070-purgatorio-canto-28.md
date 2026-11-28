@@ -98,7 +98,7 @@ Vagus, idest avidus, factus iam, scilicet propter verba Virgilii, querendi intus
 
 7 Tal, qual di ramo in ramo si raccogle\
 &emsp;Per la pineta, in sul lito de' Chiassi,\
-&emsp;Quand' Eolo e Scirocco fuor disciogle.
+&emsp;Quand' Euro e Scirocco fuor disciogle.
 
 7 Talis, qualis de ramo in ramum colligitur,\
 &emsp;Per pinetam, super littore Chiassii,\

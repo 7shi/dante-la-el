@@ -16,7 +16,7 @@ In isto octavo capitulo, quod incipit: *Iam erat hora*, auctor prosequitur predi
 &emsp;Navigantibus et tenerefacit cor,\
 &emsp;In die quo dixerunt dulcibus amicis: Ad Deum;
 
-2 E che lo nuovo peregrin d'amore\
+2 Così lo nuovo peregrin d'amore\
 &emsp;Punge, se ode squilla di lontano,\
 &emsp;Che paia 'l giorno pianger che si more;
 
@@ -86,7 +86,7 @@ Notandum est quod mos est illorum, qui incipiunt longum iter, sive per mare, siv
 
 8 Io viddi quello exercito gentile\
 &emsp;Tacito poscia riguardare in sue,\
-&emsp;Quasi aspectando pallido et humile:
+&emsp;Quasi aspectando tacito et humile:
 
 8 Ego vidi illum exercitum gentilem\
 &emsp;Tacitum postmodum respicere sursum,\
@@ -464,7 +464,7 @@ Fui vocatus Conradus Malaspina, non antiquus, sed ab eo descendi; idest ab uno a
 
 43 Et io vi giuro, s'io di sopra vada,\
 &emsp;Che vostra gente honrata non si sfregia\
-&emsp;Del pregio di bontade e della borsa.
+&emsp;Del pregio di bontade e della spada.
 
 43 Et ego vobis iuro, si ego sursum vadam,\
 &emsp;Quod vestra gens honorata non sfregiatur\

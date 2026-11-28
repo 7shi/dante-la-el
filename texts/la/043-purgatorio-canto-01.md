@@ -340,7 +340,7 @@ Non sunt edicta eterna per nos destructa: quia iste est vivus et Mynos me non li
 &emsp;Quousque ego fui ab illa parte, dixit ipse tunc\
 &emsp;Quod quantas gratias voluit a me, eidem feci.
 
-30 Hor che di là dal mal fiume fo dimora,\
+30 Hor che di là dal mar io fo dimora,\
 &emsp;Più muover non mi può per quella legge\
 &emsp;Che facta fu quando me n'uscii fuora.
 

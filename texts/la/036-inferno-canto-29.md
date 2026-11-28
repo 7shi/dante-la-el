@@ -414,7 +414,7 @@ Ego fui de Aretio, et Alberus de Senis, respondit ille, me fecit micti in ignem.
 
 39 Volle ch'io li mostrassi l'arte; e solo\
 &emsp;Perch'io nol feci Dedalo (1), mi fece\
-&emsp;Arder a tal, che l'havea per figlolo.
+&emsp;Arder a tal, ch'io havea per figlolo.
 
 39 Voluit quod ego monstrarem sibi artem; et solum\
 &emsp;Quia ego non feci illum Dedalum, me fecit\

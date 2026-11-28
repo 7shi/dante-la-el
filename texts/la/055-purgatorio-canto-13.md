@@ -254,7 +254,7 @@ De vili cilicio michi apparebant cooperti; et unus sufferebat, idest sustinebat,
 &emsp;Non solum propter [sonum] verborum,\
 &emsp;Sed propter visum qui non minus agognat.
 
-23 E com'agl'orbi non approda el sole,\
+23 E com'agl'ochi non approda el sole,\
 &emsp;Così all'ombre, quivi ov' io parlo hora,\
 &emsp;Luce del ciel di sè largir non vole;
 

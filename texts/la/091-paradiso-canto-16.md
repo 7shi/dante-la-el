@@ -415,7 +415,7 @@ Modo tangit aliam domum, scilicet domum de Donatis, de qua descendit alia domus,
 &emsp;Sive bursiam, sicut agnus placatur,
 
 40 Già venia su, ma di piccola gente,\
-&emsp;Sì che non piacque ad Ubertin Donato\
+&emsp;Sì che non piacque agl' Uberti Donato\
 &emsp;Che poi el socer lo fe' lor parente.
 
 40 Iam veniebat sursum, sed de parva gente,\

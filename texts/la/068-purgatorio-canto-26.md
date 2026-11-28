@@ -115,7 +115,7 @@ Dic nobis, quomodo est quod facis de te parietem, idest obstaculum, soli, ac si 
 &emsp;Ad aliam novitatem que apparuit tunc;
 
 10 Chè per lo mezzo del cammin acceso\
-&emsp;Venne gente col viso incontro a questa,\
+&emsp;Venne gente col viso intorno a questa,\
 &emsp;La qual mi fece a rimirar sospeso.
 
 10 Quia per medium itineris igniti\

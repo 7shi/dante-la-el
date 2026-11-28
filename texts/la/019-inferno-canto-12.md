@@ -384,7 +384,7 @@ Quando discooperuit magnum os, dixit sotiis: Perpendistis vos, *sete voi accorti
 &emsp;Prope proram bulloris rubei,\
 &emsp;Ubi bulliti faciebant grandes stridores.
 
-35 Io vidi gente sotto in fin al ciglo;\
+35 Vi vidi gente sotto in fin al ciglo;\
 &emsp;E'l gran Centauro disse: E' son tiranni,\
 &emsp;Che dier nel sangue e nell'haver di piglo.
 

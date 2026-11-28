@@ -333,7 +333,7 @@ Quomodo hoc sit, si vis id posse cogitare, intra scilicet te, idest in mente tua
 &emsp;Et quanto homo plus vadit sursum minus malum facit.
 
 31 Però quand' ella ti parrà suave\
-&emsp;Tanto, che su andar ti fie leggiero,\
+&emsp;Tanto, che 'n andar ti fie leggiero,\
 &emsp;Com' a seconda giù andar per nave;
 
 31 Ideo quando ipsa apparebit tibi suavis\

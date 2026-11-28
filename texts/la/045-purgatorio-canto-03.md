@@ -204,7 +204,7 @@ Nos devenimus interim ad pedes montis: hic reperuimus rupem tantum altam, quod i
 
 18 Or chi sa da qual man la costa cala,\
 &emsp;Disse 'l maestro mio, fermando 'l passo,\
-&emsp;Sì che possa salir chi va senz'ala?
+&emsp;Che 'nverso 'l ciel più alta si dissala?
 
 18 Or nunc quis scit ad quam manum ascensus declinat\
 &emsp;Dixit magister meus, firmando passum,\

@@ -58,7 +58,7 @@ Circa primam partem, primo oportet notare unam fabulam, que ponitur in principio
 &emsp;Propter tuum loqui, sed ad hoc ut assuescas\
 &emsp;Ad dicendum sitim, ita quod homo tibi mescet.
 
-5 O cara piota mia, che sì t'insusi,\
+5 O cara pietra mia, che sì t'insusi,\
 &emsp;Che, come veggion le terrene menti\
 &emsp;Non caper in triangol due ottusi,
 

@@ -92,7 +92,7 @@ Sed hic oritur dubium: quod videtur, secundum multa predicta, quod, quando est m
 
 8 Così m'apparve da luce rifracta\
 &emsp;Ivi dinanzi a me esser percosso,\
-&emsp;Perchè a fuggir la mia vista fu racta.
+&emsp;Perchè a veder la mia luce fu racta.
 
 8 Sic fuit michi visum a luce refracta\
 &emsp;Unum ante me esse percussum,\

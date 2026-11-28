@@ -72,7 +72,7 @@ Et illa domina, scilicet Beatrix, que ad Deum me ducebat (quia Sacra Theologia e
 
 6 Finchè 'l piacer eterno, che directo\
 &emsp;Raggiava in Beatrice, del bel viso\
-&emsp;Mi contentava col secondo aspecto.
+&emsp;Mi contentava col sereno aspecto.
 
 6 Quousque complacentia eterna fuit directa,\
 &emsp;Radiabat in Beatricem, a pulchro visu\
