@@ -26,3 +26,7 @@ The rebase added the leaf of Oelsner's Inferno with pp. 385–386 (canto XXXIV: 
 
 - `uv run scripts/compare_editions.py en` was run again: all counts (`punctuation 602`, `case 377`, `words 358`, `marked 212`) and tables in `en-carlyle-oelsner.md` were unchanged.
 - `uv run scripts/compare_editions.py it` was unchanged (`160 / 1874 / 2367 / 194 / 125`), and the affected lines are not in the tables of `it-carlyle.md`.
+
+## Unmarked changes checked against the page images
+
+The twelve unmarked changes of a single word listed at the end of [en-carlyle-oelsner.md](en-carlyle-oelsner.md) were checked against the page images of both books (2026-11-28; `ocr/en/` 066, 073, 129, 130, 192, 245, 257, 307, 377, 434, 443, 449; `ocr/en-oelsner/` 023, 031, 087, 089, 141, 187, 201, 245, 313, 365, 373, 377). Every one is printed as transcribed, so none is an error of transcription, and `ocr/` and the comparison are unchanged. Two take up Carlyle's own footnotes (XII *wild*, XXI *nick it for him*); the section of the report was renamed and says so.

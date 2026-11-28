@@ -40,12 +40,12 @@ The directory also holds [en-blocks.txt](en-blocks.txt), the cuts of Carlyle's I
    uv run scripts/render_editions.py en judge-en.txt F --italian  # W, O, N, M, A
    ```
 
-   The tables are pasted into the reports; the rest of the reports (the counts, the descriptions and examples of the features, the table of spellings in `en-carlyle-oelsner.md`, and the list of changes to check against the page images) is written by hand.
+   The tables are pasted into the reports; the rest of the reports (the counts, the descriptions and examples of the features, the table of spellings in `en-carlyle-oelsner.md`, and the list of changes checked against the page images) is written by hand.
 
 ## Notes
 
 - Carlyle's edition prints the English prose page by page above the Italian verse it renders; Oelsner's prints the English one paragraph per tercet facing the Italian, though a paragraph may render two tercets (XXVI 25–30). So the English is compared over the whole canto, and each difference is located by the page of Carlyle's edition where it falls.
-- The unmarked changes of a single word listed at the end of `en-carlyle-oelsner.md` may be errors of transcription and are to be checked against the page images; corrections belong in `ocr/en/` or `ocr/en-oelsner/`, not here.
+- The unmarked changes of a single word listed at the end of `en-carlyle-oelsner.md` could have been errors of transcription; all were checked against the page images and are printed so. Corrections found by such a check belong in `ocr/en/` or `ocr/en-oelsner/`, not here.
 
 ## scripts/compare_editions.py
 

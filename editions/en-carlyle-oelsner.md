@@ -182,7 +182,7 @@ Every change of words where Oelsner's Italian differs from Carlyle's in the same
 
 ## Other changes of words
 
-Every other change of words: a closer rendering of the same Italian, a correction, or a change of style. Some unmarked changes of a single word may be errors of transcription in either text (see the last section).
+Every other change of words: a closer rendering of the same Italian, a correction, or a change of style. The unmarked changes of a single word that have no counterpart in the Italian were checked against the page images (see the last section).
 
 | Lines | Carlyle | Oelsner | Marked |
 |---|---|---|---|
@@ -362,9 +362,9 @@ Oelsner adds or removes an article or an *and* here and there, mostly unmarked:
 | XXX 1–11 | … seeing his wife, with **the** two sons, come laden … | … seeing his wife, with two sons, go laden … | no |
 | XXXI 54–67 | … ; for where argument of mind is joined to evil … | … for where the instrument of **the** mind is joined to evil … | yes |
 
-## To check against the page images
+## Checked against the page images
 
-These unmarked changes of a single word or ending have no counterpart in the Italian and may be errors of transcription in `texts/en/` or `texts/en-oelsner/`, rather than revisions; they should be checked against the page images before they are taken as Oelsner's:
+These unmarked changes of a single word or ending have no counterpart in the Italian, so they could have been errors of transcription in `texts/en/` or `texts/en-oelsner/`. All were checked against the page images, and every one is printed so in both books: they are Oelsner's revisions. Two of them take up Carlyle's own footnotes: *wild* (XII 81–93; Carlyle's note: "Or: 'wild,' obstructed way") and *nick it for him* (XXI 92–103; "Properly, 'nick it for him.'").
 
 | Lines | Carlyle | Oelsner |
 |---|---|---|
