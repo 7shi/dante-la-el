@@ -34,10 +34,8 @@ page	line	printed	fixed	applied	source	note
 281	29	will.	will	yes	edition	Canto XXI, notes; a stray period in `the practical will. in Par. iv.`; found by the read-through.
 287	41	outlineI	outline I	yes	edition	Canto XXII, the English; no space printed between `outline` and `I`; found by the read-through.
 290	9	117	118	yes	edition	Canto XXII, the tercet number of verse 118 (`e già le quattro ancelle`); found by the read-through.
-294	44	480-441	480-406	yes	edition	Canto XXII, notes; Euripides died in 406 B.C.; found by the read-through.
 295	13	came	come	yes	edition	Canto XXII, notes; `had not her sons came to the rescue`; found by the read-through.
 302	7	la dolce	lo dolce	yes	dante	Canto XXIII 86; `assenzio` is masculine; found by the read-through.
-306	5	xxviii.	xxvii.	yes	other	Canto XXIII, notes; `My God, my God, why hast thou forsaken me?` is Matt. xxvii. 46; found by the read-through.
 306	7	will of God	will of God.	yes	edition	Canto XXIII, notes; the note ends without a period; found by the read-through.
 307	24	112-126	112-126.	yes	edition	Canto XXIII, notes; the note ends without a period; found by the read-through.
 319	32	correct.	correct,	yes	edition	Canto XXIV, notes; `is correct. and that the lady`; found by the read-through.
@@ -49,7 +47,6 @@ page	line	printed	fixed	applied	source	note
 339	12	wherefor	wherefore	yes	edition	Canto XXVI, the English; found by the read-through.
 341	23	 I		yes	edition	Canto XXVI, the English; `pondering I` / `I went`, the `I` printed twice across the line; found by the read-through.
 344	43	Hermaphoditus	Hermaphroditus	yes	edition	note to Canto XXVI 82-87; printed without the `r`, read by Tesseract, GLM-OCR and IA.
-345	43	10:	i. 10:	yes	edition	Canto XXVI, notes; `De Vulg. El. 10: 12-16`, the book not printed (De Vulg. El. i. 10); found by the read-through.
 348	21	giu	giù	yes	dante	Canto XXVII 31; the accent not printed (`pon giù` later in the line); found by the read-through.
 348	30	là	la	yes	dante	Canto XXVII 40 `così la mia durezza`; found by the read-through.
 349	33	twixt	’twixt	yes	edition	Canto XXVII, the English; `’twixt` on 055 and 365; found by the read-through.
@@ -96,5 +93,4 @@ page	line	printed	fixed	applied	source	note
 069	45	121-12	121-123.	yes	edition	Canto V, note 85-129 (`cf. Purg. xxviii. 121-12`); truncated reference without final digit and period; found by translation review.
 293	14	you.	you.”	yes	edition	Canto XXII, the English; no closing quote at the end of the voice's speech (opened on p. 279); found by translation review.
 355	42	thyself.	thyself.”	yes	edition	Canto XXVII, the English; no closing quote at the end of Virgil's speech; found by translation review.
-389	27	Vincensa	Vicenza	yes	edition	Map of Upper and Central Italy (east); printed as `Vincensa` (transcribed as `Vincenza`); found by translation review.
 405	39	water.	water.”	yes	edition	Canto XXXI, the English; no closing quote at the end of Beatrice's speech; found by translation review.

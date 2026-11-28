@@ -158,8 +158,15 @@ OCR's leaves.
   and recorded in the decision TSV; a misprint is marked `{{printed|fixed}}` and listed
   in the misprint table too; a reading kept as printed is a row `printed` with the doubt
   in its note (`undecided` where the right form is not sure).
-- What is clearly wrong in the print is a misprint, numbers and stops included; a doubt
-  whose right form is not sure stays as printed.
+- A misprint is the printer's error, not the author's: a slip of the type (a turned or
+  wrong letter, a letter or figure dropped, doubled or transposed, a stop) whose right
+  form the book itself shows (the same word elsewhere, the verse a note quotes, the
+  page an index cites), or a word that is not a word at all. What only outside
+  knowledge corrects (a chapter or verse of the Bible or of a classic, a misquotation, a
+  fact of place or person) may be the author's own, and stays as printed, with the right
+  form in the note of a `printed` row; so does a spelling the book prints the same way
+  in more than one place, and a real word that reads in its place. A doubt whose right
+  form is not sure stays as printed.
 - Doubts that recur across the book (an Italian elision with no space after the
   apostrophe, a split elision before an enclitic, the spacing at a colon in citations)
   are not decided place by place: search every place at the end and decide them
@@ -202,6 +209,7 @@ OCR's leaves.
 - A trial of 25 pages; then the comparison of all pages at once with a strong base, or
   batches of 25 with a weak one; the read-through's decisions in batches of 100.
 - Three decisions only: **misread** (corrected in `ocr/`), **misprint** (kept as
-  printed, marked and listed), **printed** (kept).
+  printed, marked and listed), **printed** (kept). A misprint is the printer's error
+  that the book itself corrects; the author's errors stay printed (step 5).
 - A spelling that looks like the edition's own is searched in every place before it is
   decided (`ᾀεί` in `grc`), not decided from one place.

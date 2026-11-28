@@ -956,3 +956,46 @@ Before `grammar/el-grc/`, the breathings of `texts/grc/` were checked ([grammar/
   printed `Κογνάζ-` in both its places (`186` 13, XXII 106, `Κογνάζος`), so it is Musurus's
   spelling of Cagnazzo, as `Δραγιγνάζος` is of Draghignazzo, not a misprint; a `printed`
   row added to readcheck.tsv. `misprints.py ocr/grc`: 132 rows, 132 marks; 0 problems.
+
+## The author's errors back to the print (2026-11-28)
+
+The marks were reviewed against the rule now in ocr/GUIDE.md (step 5): a misprint is the
+printer's error that the book itself corrects, or a word that is no word; what only
+outside knowledge corrects (a reference, a quotation, a fact of place or person) may be
+the author's, and stays as printed, as does a spelling the book prints alike in more than
+one place and a real word that reads in its place. Most of the rows taken back had come
+from the translations (translations/for-main.tsv). Each is a `printed` row of
+readcheck.tsv now, the right form in its note; the translations quoting the form
+(translations/) follow the print.
+
+- `040` 10 `ἀγενῶς` (was `ἀγεννῶς`): Musurus's spelling, single `ν` in both places (252
+  `Ἀγενὲς`); `ἀγενής` is a word.
+- `252` 18 `Ἀγενὲς` (was `Ἀγεννὲς`): Musurus's spelling, single `ν` in both places (040
+  `ἀγενῶς`); `ἀγενής` is a word.
+- `161` 16 `πατάλου` (was `παττάλου`): single `τ`; not sure it is not Musurus's spelling
+  (as `ἀγενῶς`).
+- `175` 21 `πλέεις` (was `πλέῃς`): the indicative is a real form; the mood is Musurus's,
+  not the printer's.
+- `245` 21 `περιτρέψας` (was `περιστρέψας`): `περιτρέπω` is a real verb and reads in its
+  place.
+- `295` 17 `Ὀρέσιος` (was `Ὀρόσιος`): `Ὀρόσιος` by outside knowledge only; perhaps
+  Musurus's.
+- `311` 35 `Fisole` (was `Fiesole`): `Fiesole` by outside knowledge only; perhaps
+  Musurus's.
+- `324` 15 `Livy` (was `Lilly`): William Lilly by outside knowledge only; perhaps
+  Musurus's.
+- `326` 13 `κλωπειῶν` (was `κλοπειῶν`): Musurus's spelling, as `κλωπείας` (183 21);
+  `κλωπεία` is a word.
+- `329` 26 `Ciamfa` (was `Cianfa`): Musurus's form: the Greek is `Κιάμφας` (here and 207
+  11).
+- `334` 28 `Colona` (was `Colonna`): `Colonna` by outside knowledge only; perhaps
+  Musurus's.
+- `336` 12 `Conrandin` (was `Conradin`): `Conradin` by outside knowledge only; perhaps
+  Musurus's.
+- `337` 27 `ῥυθμητὴς` (was `ῥυθμιστὴς`): not sure it is not Musurus's word (`ῥυθμιστὴς`).
+- `338` 26 `differe` (was `differre`): misquotation of Lucan I 281 (`differre`); `differe`
+  is a word; perhaps Musurus's.
+
+- misprints.tsv: 132 rows before, 118 now (`misprints.py`: all marked, no problems);
+  `texts/grc` reconverted. The fixed form of `112` 15 corrected to `γῦπας` (the accusative
+  plural of `γύψ`; was `γύπας`).

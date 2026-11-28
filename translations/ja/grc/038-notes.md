@@ -696,7 +696,7 @@ Alternos que apices abrupta luce coruscant.
 
 <!-- p. 316 (336) -->
 
-18\. アラルド・ヴァレリ（Alard Valéry）、年老いたフランスの騎士は、1268年、マンフレーディの甥コンラーディン（Conradin）が敗れたティラコッシオン、詩人において Tagliacozzo の戦いでアンジューのシャルルとともにあり、その際アラルドは偽りの敗北という計略を進言した。
+18\. アラルド・ヴァレリ（Alard Valéry）、年老いたフランスの騎士は、1268年、マンフレーディの甥コンラーディン（Conrandin）が敗れたティラコッシオン、詩人において Tagliacozzo の戦いでアンジューのシャルルとともにあり、その際アラルドは偽りの敗北という計略を進言した。
 
 31\. 無数のムスリム諸民族に対する礼節のために（その何百万もの人々がオスマン帝国においてキリスト教徒の同胞市民とともに平和に暮らしている）、私は、詩人がまったく不当にも分裂者の区画で恥ずべき責め苦にさらしたマホメットの代わりに、偉大な分裂の首謀者アリウスを置き換えるほうが不適切さが少ないと判断した。アリウスはキリスト教徒であり長老司祭であって、キリストの同質的神性に反する教説によってキリスト教諸民族のあいだに、長年にわたり教会を引き裂きながらもすでに何世紀も前に消滅したあの破滅的な分裂をもたらしたのである。これに対して、マホメットはキリスト教徒ではなかった以上、分裂の首謀者ではなく、アラブ人のあいだの多神教を廃し、唯一の神への礼拝を導入したアラブ人の立法者であった。もっとも、ダンテはキリスト教徒たちの只中で、宗教的狂信がまだ西ヨーロッパで盛んであった14世紀初頭にその詩作を書いたのであり、信教の寛容と開明された文明の現代19世紀に書いたのではないから、許されてしかるべきであろう。この私の見解を裏づけるため、私はここにフランスの博学者リトレがダンテ『地獄篇』の翻訳において次のように述べている見解を引用する。「Dante a soustrait le célèbre Sultan Saladin à toute peine, et l’a dignement placé à côté des sages et des grands hommes de l’antiquité Païenne (Voyez ci-dessus, Chant IV, v 129). Il eût été digne de sa haute intelligence de penser semblablement de Mahomet, et de ne pas nous le faire voir traité comme les vulgaires semeurs de scandale et de schisme. Ce n’est pas un schisme dont Mahomet fut auteur, c’est une religion. Il prêcha l’unité de Dieu au milieu de populations profondément polythéistes, et réussit à les transformer; mais le préjugé qui, dans le moyen âge, régnait en Occident contre Mahom et son prétendu paganisme prévalut, et le grand réformateur religieux de l’Arabie fut précipité dans la neuvième bouge. Il est curieux de remarquer que l’esprit théologique du moyen âge et l’esprit imparfaitement philosophique du XVIIIᵉ siècle furent également injustes envers Mahomet.」
 
@@ -717,7 +717,7 @@ Alternos que apices abrupta luce coruscant.
 89\. フォカーラ（Focara）はカットーリカ近くの山であり、そこから吹く非常に危険な風によって知られている。
 
 102\. ルカヌス（『ファルサリア』第1巻281行）は、同じくローマからの亡命者であったクリオが、次の激励の言葉によってカエサルを説得し、リミニからほど遠からぬルビコン川を渡らせたものとして描いている。\
-「Tolle moras, nocuit semper differre paratis.」
+「Tolle moras, nocuit semper differe paratis.」
 
 106\. 1215年、ブオンデルモンティ家（Buondelmonte）に属するあるブオンデルモンテが、アミデイ家（Amidei）の娘と婚約しながら、その約定を破ってドナーティ家（Donati）の別の娘と結婚した。侮辱された家の親族たちは復讐について協議するために集まった。そしてモスカ・ランベルティ（Mosca Lamberti）が侮辱者の殺害を提案し、この者は待ち伏せに遭ってモスカの手にかかり殺された。この出来事はフィレンツェにとって多くの災いの原因となり、フィレンツェはこのような私的な争いのためにグエルフ派とギベリン派とに分裂した。
 

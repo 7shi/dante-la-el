@@ -48,7 +48,7 @@ page	line	form	decision	note
 098	13	Pentesilea.	printed	read; a period in the print (Inf. iv. 124)
 099	3	Heraclítus	printed	cmp A; the retype and Tesseract `Heraclitus`; the accent in the print (`Hera-` / `clítus`)
 104	25	sunlight	printed	cmp B; the retype `sun-light`: `sun-` at a line end, joined (README.md)
-111	26	nostris	misprint	read; Æn. ii. 10 `nostros`
+111	26	nostris	printed	kept as printed (was misprint `nostros`): misquotation of Æn. ii. 10 (`nostros`), perhaps the author's; earlier: read; Æn. ii. 10 `nostros`
 117	5	lei;	printed	read; a semicolon in the print
 121	9	tanto, scendi,	printed	read; the commas in the print
 121	24	figura.	printed	cmp A; the retype and Tesseract `,`; a period in the print
@@ -66,7 +66,7 @@ page	line	form	decision	note
 139	1	Aud	misprint	cmp B; the retype `Aud`, the base `And`; a turned `n`
 139	1	For	printed	cmp A; the retype and Tesseract `Tor`: an `F` with its middle arm broken
 139	27	. . . .	misread	cmp B; was `. . .`: four points in the print
-139	27	diri	misprint	cmp A; the retype and Tesseract `diri`, the base `dira`
+139	27	diri	printed	kept as printed (was misprint `dira`): misquotation of Seneca, Thyestes 347 (`dira`), perhaps the author's; earlier: cmp A; the retype and Tesseract `diri`, the base `dira`
 142	19	rightly; ‘for	printed	read; an opening single quote, never closed, in the print (the Ottimo quoted)
 143	20	“more than seven times is put for any indefinite number.”	printed	read; the quotes as printed (Boccaccio's sentence quoted)
 148	7	ìl	misprint	cmp B; the retype `ìl`, the base `il`; an accent in the print
@@ -99,7 +99,7 @@ page	line	form	decision	note
 194	9	E’	printed	cmp B; the retype `È`, as at `191`
 194	10	E’	printed	cmp B; the retype `È`, as at `191`
 197	3	Fredcrick	misprint	cmp B; the retype `Fredcrick`, the base `Frederick`
-199	20	fædissima	misprint	cmp B; the retype `fædissima` (`fæ-` at a line end), the base `fœdissima`; an italic `æ`
+199	20	fædissima	printed	kept as printed (was misprint `fœdissima`): the italic `æ` for `œ`, as in `fænerator` (183): the book's type; earlier: cmp B; the retype `fædissima` (`fæ-` at a line end), the base `fœdissima`; an italic `æ`
 213	23	Lit..	misprint	cmp B; the retype `Lit..`, the base `Lit.:`; a period for the colon
 214	19	Com.	printed	cmp B; the retype without the period: set close
 218	23	Astream	printed	read; the quotation of Monarchia as printed; not a misreading
@@ -107,16 +107,16 @@ page	line	form	decision	note
 220	1	uot	misprint	cmp A; the retype and Tesseract `uot`, the base `not`
 222	9	diretro	printed	cmp B; the retype `dietro`
 225	22	eyebrows	printed	cmp B; the retype `eye-brows`: a break at a line end
-228	5	heaven	misprint	read; Inf. xv. 56 `porto`; ocr/en-oelsner `haven`
+228	5	heaven	printed	kept as printed (was misprint `haven`): a real word that reads (Dante `porto`; ocr/en-oelsner `haven`); earlier: read; Inf. xv. 56 `porto`; ocr/en-oelsner `haven`
 229	1	carth	misprint	cmp A; the retype and Tesseract `carth`, the base `earth`
 233	1	arisiug	misprint	cmp A; the retype and Tesseract `arisiug`, the base `arising`
 236	9	Già	printed	cmp B; the retype `Gia’`: the first word of a canto in small capitals, a grave set after them
 239	16	Viuse	misprint	cmp B; the retype `Viuse`, the base `Vinse`
-240	21	viii. 33	misprint	read; Acts viii. 23 (`33` marked as misprint in translation review)
+240	21	33	printed	kept as printed (was misprint `23`): Acts viii. 23 by outside knowledge only, perhaps the author's; earlier: read; Acts viii. 23 (`33` marked as misprint in translation review)
 242	22	i. 103	printed	read; the author's reference (Æn. i. 203) as printed
 243	16	Po	misprint	cmp A; the retype and Tesseract without the period, the base `Po.`
 244	14	Guidoguerra	misread	cmp B; was `Guido-guerra`: a break at a line end
-246	15	17	misprint	cmp A; the retype and Tesseract `17`, the base `7`
+246	15	17	printed	kept as printed (was misprint `7`): Rev. xi. 7 by outside knowledge only, perhaps the author's; earlier: cmp A; the retype and Tesseract `17`, the base `7`
 247	3	leave	printed	cmp B; the retype `lenve`
 248	17	avca	misprint	cmp B; the retype `avca`, the base `avea`
 251	1	shoulders.	misprint	read; no closing quote printed after the speech begun on `250`
@@ -154,7 +154,7 @@ page	line	form	decision	note
 309	1	treacherous.	printed	read; no closing quote: the speech goes on in the next paragraph
 309	15	Tramplegrace	misread	cmp A; was `Trample-grace`: a break at a line end
 309	15	farfalla	misread	cmp A; was `far-falla`: a break at a line end
-313	3	Farfarella	misprint	translation; `Farfarello` in the poem and notes
+313	3	Farfarella	printed	kept as printed (was misprint `Farfarello`): printed so in the argument of both Carlyle and Oelsner (`ocr/en-oelsner` 251): the author's form; `Farfarello` in the poem; earlier: translation; `Farfarello` in the poem and notes
 314	3	have	printed	cmp A; the retype and Tesseract `HAVE`: small capitals, the opening of a canto in normal case (as `136` `I say`)
 314	3	tho	misprint	cmp A; the retype and Tesseract `tho`, the base `the`
 316	22	Lit	misprint	read; `Lit:` printed, as at `265`, `395`
@@ -169,7 +169,7 @@ page	line	form	decision	note
 330	20	somc	misprint	cmp B; the retype `somc`, the base `some`
 336	10	costa,	misread	cmp B; was `costa`: a comma, set close, and a space after it
 338	19	ὢ	printed	cmp B; the retype `ὣ`; the breathing not clear in the print; the base kept
-338	19	xx	misprint	translation; Ezek. xxi. 12
+338	19	xx	printed	kept as printed (was misprint `xxi`): Ezek. xxi. 12 by outside knowledge only, perhaps the author's; earlier: translation; Ezek. xxi. 12
 339	21	cantc	misprint	cmp B; the retype `cantc`, the base `canto`
 340	23	ruin	misprint	read; no closing period printed
 344	5	Anfesibena	printed	cmp B; the retype `Anfesiḃena`: a speck

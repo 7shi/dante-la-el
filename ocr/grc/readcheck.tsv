@@ -1522,7 +1522,7 @@ page	line	form	decision	note
 335	17	Πάπᾳ	misread	cmp A; was `Πάπα`
 335	20	ἐξόριστος,	printed	read; a comma before `Τοῦτο`, printed so
 335	21	Κελεστῖνος	misread	cmp A; was `Κελεστίνος`
-336	12	Conrandin	misprint	marked `{{Conrandin|Conradin}}`, seen in the retype; an `n` added; the base had it as printed
+336	12	Conrandin	printed	kept as printed (was misprint `Conradin`): `Conradin` by outside knowledge only; perhaps Musurus's; earlier: marked `{{Conrandin|Conradin}}`, seen in the retype; an `n` added; the base had it as printed
 336	15	εὐσχημοσύνης	misread	cmp A; was `εὐσχημωσύνης`
 336	19	αἰσχραῖς	misread	cmp B; was `αἱσχραῖς`
 336	30	Συγγνωστέος	misread	cmp A; was `Συγγνωστὸς`
@@ -1536,7 +1536,7 @@ page	line	form	decision	note
 337	31	Ναυάῤῥας	misread	cmp B; was `Ναυάρρας`
 338	9	Μαρκάβον	misread	cmp A; was `Μαρκάβου`
 338	14	Καγνόνας	misread	cmp A; was `Καγνώνας`
-338	26	differe	misprint	marked `{{differe|differre}}`, seen in the retype; Lucan, Phars. I 281 `differre`; the base had it as printed
+338	26	differe	printed	kept as printed (was misprint `differre`): misquotation of Lucan I 281 (`differre`); `differe` is a word; perhaps Musurus's; earlier: marked `{{differe|differre}}`, seen in the retype; Lucan, Phars. I 281 `differre`; the base had it as printed
 338	28	Βονδελμόντης	misread	cmp A; was `Βουδελμόντης`
 338	29	Βονδελμοντῶν	misread	cmp A; was `Βουδελμοντῶν`
 338	29	κόρῃ τινὶ	misread	cmp A; was `κόρην τινὰ`
@@ -1615,42 +1615,42 @@ page	line	form	decision	note
 350	29	ᾍδου·	misread	cmp B; was `ᾍδου.`; the colon dot printed
 350	30	ἐστὶν	misread	cmp A; was `ἐστιν`
 351	1	331	misread	cmp B; the page number after the running head, not before it
-040	10	{{ἀγενῶς|ἀγεννῶς}}	misprint	translation review (for-main.tsv); III 60; single nu for double nu (`ἀγεννῶς`); found by translation review.
+040	10	ἀγενῶς	printed	kept as printed (was misprint `ἀγεννῶς`): Musurus's spelling, single `ν` in both places (252 `Ἀγενὲς`); `ἀγενής` is a word; earlier: translation review (for-main.tsv); III 60; single nu for double nu (`ἀγεννῶς`); found by translation review.
 074	14	{{ὅλας.|ὅλας.”}}	misprint	translation review (for-main.tsv); VII 126; missing closing quote; found by translation review.
 087	5	Ἀλλ᾿ ἣ	misread	translation review (for-main.tsv); was `Ἀλλ᾿ ἢ`; IX 96; rough breathing printed in scan 087; found by translation review.
-112	15	{{γυπὰς|γύπας}}	misprint	translation review (for-main.tsv); XIII 10; wrong accent (`γυπὰς` for `γύπας`, vultures); found by translation review.
+112	15	{{γυπὰς|γῦπας}}	misprint	translation review (for-main.tsv); XIII 10; wrong accent (`γυπὰς` for `γύπας`, vultures); found by translation review.
 126	19	{{ποίων|τοίων}}	misprint	translation review (for-main.tsv); XIV 132; `ποίων` for `τοίων`; found by translation review.
 131	21	{{Βόσκην|Βοσκὴν}}	misprint	translation review (for-main.tsv); XV 73; wrong accent (`Βόσκην` for `Βοσκὴν`); found by translation review.
 157	5	{{λυτρώνων|λουτρώνων}}	misprint	translation review (for-main.tsv); XVIII 114; `λυτρώνων` for `λουτρώνων`; found by translation review.
 159	8	{{ἡμᾶς|ὑμᾶς}}	misprint	translation review (for-main.tsv); XIX 5; `ἡμᾶς` for `ὑμᾶς`; found by translation review.
-161	16	{{πατάλου|παττάλου}}	misprint	translation review (for-main.tsv); XIX 47; single tau for double tau (`παττάλου`); found by translation review.
-175	21	{{πλέεις|πλέῃς}}	misprint	translation review (for-main.tsv); XXI 51; indicative `πλέεις` for subjunctive `πλέῃς` after `μὴ`; found by translation review.
+161	16	πατάλου	printed	kept as printed (was misprint `παττάλου`): single `τ`; not sure it is not Musurus's spelling (as `ἀγενῶς`); earlier: translation review (for-main.tsv); XIX 47; single tau for double tau (`παττάλου`); found by translation review.
+175	21	πλέεις	printed	kept as printed (was misprint `πλέῃς`): the indicative is a real form; the mood is Musurus's, not the printer's; earlier: translation review (for-main.tsv); XXI 51; indicative `πλέεις` for subjunctive `πλέῃς` after `μὴ`; found by translation review.
 176	6	{{κρεάργαις|κρεάγραις}}	misprint	translation review (for-main.tsv); XXI 57; transposed letters (`κρεάργαις` for `κρεάγραις`); found by translation review.
 179	9	{{Κογνάζε|Καγνάζε}}	misprint	translation review (for-main.tsv); XXI 119; `Κογνάζε` for `Καγνάζε` (Cagnazzo); found by translation review.
 187	18	{{κέρκου|κίρκου}}	misprint	translation review (for-main.tsv); XXII 130; `κέρκου` for `κίρκου` (falcon); found by translation review.
 213	10	{{αἰσχύνη|αἰσχύνῃ}}	misprint	translation review (for-main.tsv); XXVI 5; missing iota subscript (dative `αἰσχύνῃ`); found by translation review.
 241	14	Οὑμὸς	misread	translation review (for-main.tsv); was `Οὐμὸς`; XXIX 86; rough breathing printed in scan 241; found by translation review.
-245	21	{{περιτρέψας|περιστρέψας}}	misprint	translation review (for-main.tsv); XXX 11; missing sigma (`περιστρέψας`); found by translation review.
+245	21	περιτρέψας	printed	kept as printed (was misprint `περιστρέψας`): `περιτρέπω` is a real verb and reads in its place; earlier: translation review (for-main.tsv); XXX 11; missing sigma (`περιστρέψας`); found by translation review.
 248	6	{{δίψει|δίψῃ}}	misprint	translation review (for-main.tsv); XXX 56; `δίψει` for `δίψῃ` with feminine article `τῇ`; found by translation review.
-252	18	{{Ἀγενὲς|Ἀγεννὲς}}	misprint	translation review (for-main.tsv); XXX 148; single nu for double nu (`Ἀγεννὲς`); found by translation review.
+252	18	Ἀγενὲς	printed	kept as printed (was misprint `Ἀγεννὲς`): Musurus's spelling, single `ν` in both places (040 `ἀγενῶς`); `ἀγενής` is a word; earlier: translation review (for-main.tsv); XXX 148; single nu for double nu (`Ἀγεννὲς`); found by translation review.
 264	8	{{πυκτὴν|πηκτὴν}}	misprint	translation review (for-main.tsv); XXXII 60; `πυκτὴν` for `πηκτὴν` (frozen); found by translation review.
 290	14	{{ἐπιῤῥοῆς|ἐπιῤῥοῆς·}}	misprint	translation review (for-main.tsv); Note to I; missing middle dot; found by translation review.
 290	34	{{ἐρημώσεως.|ἐρημώσεως.»}}	misprint	translation review (for-main.tsv); Note to I; missing closing guillemet; found by translation review.
-295	17	{{Ὀρέσιος|Ὀρόσιος}}	misprint	translation review (for-main.tsv); Note to V. 57; `Ὀρέσιος` for `Ὀρόσιος` (Orosius); found by translation review.
+295	17	Ὀρέσιος	printed	kept as printed (was misprint `Ὀρόσιος`): `Ὀρόσιος` by outside knowledge only; perhaps Musurus's; earlier: translation review (for-main.tsv); Note to V. 57; `Ὀρέσιος` for `Ὀρόσιος` (Orosius); found by translation review.
 303	25	{{στίχ·|στίχ.}}	misprint	translation review (for-main.tsv); Note to IX; middle dot for period; found by translation review.
 304	7	νεκρὼν	printed	translation review (for-main.tsv); Note to IX. 112; revert erroneous misprint mark: printed `νεκρὼν` (masc. nom. sg. νεκρών, burial ground, with grave before Ἠλύσιον) is correct; found by translation review.
 304	21	{{ἐκεῖ|ἐκεῖ”}}	misprint	translation review (for-main.tsv); Note to X; missing closing quote before `(Ἰωήλ, Γ΄, 2)`; found by translation review.
 307	34	{{10·|10.}}	misprint	translation review (for-main.tsv); Note to XI; middle dot for period; found by translation review.
-311	35	{{Fisole|Fiesole}}	misprint	translation review (for-main.tsv); Note to XIII; `Fisole` for `Fiesole`; found by translation review.
+311	35	Fisole	printed	kept as printed (was misprint `Fiesole`): `Fiesole` by outside knowledge only; perhaps Musurus's; earlier: translation review (for-main.tsv); Note to XIII; `Fisole` for `Fiesole`; found by translation review.
 312	25	{{ὁμὲν|ὁ μὲν}}	misprint	translation review (for-main.tsv); Note to XIII; missing space (`ὁ μὲν`); found by translation review.
 312	30	{{Λυβικῆς|Λιβυκῆς}}	misprint	translation review (for-main.tsv); Note to XIV. 15; `Λυβικῆς` for `Λιβυκῆς`; found by translation review.
 315	32	{{Γιγδο-|Γουϊδο-}}	misprint	translation review (for-main.tsv); Note to XVI. 37; `Γιγδο-` for `Γουϊδο-` (Guidoguerra); found by translation review.
-324	15	{{Livy|Lilly}}	misprint	translation review (for-main.tsv); Note to XX; `William Livy` for `William Lilly`; found by translation review.
-326	13	{{κλωπειῶν|κλοπειῶν}}	misprint	translation review (for-main.tsv); Note to XXII; `κλωπειῶν` for `κλοπειῶν`; found by translation review.
-329	26	{{Ciamfa|Cianfa}}	misprint	translation review (for-main.tsv); Note to XXV. 43; `Ciamfa` for `Cianfa`; found by translation review.
-334	28	{{Colona|Colonna}}	misprint	translation review (for-main.tsv); Note to XXVII; `Colona` for `Colonna`; found by translation review.
+324	15	Livy	printed	kept as printed (was misprint `Lilly`): William Lilly by outside knowledge only; perhaps Musurus's; earlier: translation review (for-main.tsv); Note to XX; `William Livy` for `William Lilly`; found by translation review.
+326	13	κλωπειῶν	printed	kept as printed (was misprint `κλοπειῶν`): Musurus's spelling, as `κλωπείας` (183 21); `κλωπεία` is a word; earlier: translation review (for-main.tsv); Note to XXII; `κλωπειῶν` for `κλοπειῶν`; found by translation review.
+329	26	Ciamfa	printed	kept as printed (was misprint `Cianfa`): Musurus's form: the Greek is `Κιάμφας` (here and 207 11); earlier: translation review (for-main.tsv); Note to XXV. 43; `Ciamfa` for `Cianfa`; found by translation review.
+334	28	Colona	printed	kept as printed (was misprint `Colonna`): `Colonna` by outside knowledge only; perhaps Musurus's; earlier: translation review (for-main.tsv); Note to XXVII; `Colona` for `Colonna`; found by translation review.
 335	20	{{ἐξόριστος,|ἐξόριστος.}}	misprint	translation review (for-main.tsv); Note to XXVII; comma for period before `Τοῦτο`; found by translation review.
-337	27	{{ῥυθμητὴς|ῥυθμιστὴς}}	misprint	translation review (for-main.tsv); Note to XXVIII. 55; `ῥυθμητὴς` for `ῥυθμιστὴς`; found by translation review.
+337	27	ῥυθμητὴς	printed	kept as printed (was misprint `ῥυθμιστὴς`): not sure it is not Musurus's word (`ῥυθμιστὴς`); earlier: translation review (for-main.tsv); Note to XXVIII. 55; `ῥυθμητὴς` for `ῥυθμιστὴς`; found by translation review.
 343	16	{{κρύφθητι|κρύφθητι.}}	misprint	translation review (for-main.tsv); Note to XXXI; missing period at end of sentence; found by translation review.
 349	5	{{σημ|σημ.}}	misprint	translation review (for-main.tsv); Note to XXXIV. 20; missing period after `σημ`; found by translation review.
 252	13	οὑμὸς	misread	breathing check; was `οὐμὸς`; XXX 143; rough breathing printed in scan 252, as in the other 47 places

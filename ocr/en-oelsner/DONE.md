@@ -879,3 +879,30 @@ read-through had passed: `abbando` (II 34; the rhyme needs `abbandono`), `coronn
 `rimanga`. Kept: `lome`, `sutto` (Carlyle's edition has them too), `Ansalone`.
 
 The comparison is kept as `ocr/scripts/stdcmp.py` (`uv run ocr/scripts/stdcmp.py VOLUME`).
+
+## The author's errors back to the print (2026-11-28)
+
+The marks were reviewed against the rule now in ocr/GUIDE.md (step 5): a misprint is the
+printer's error that the book itself corrects, or a word that is no word; what only
+outside knowledge corrects (a reference, a quotation, a fact of place or person) may be
+the author's, and stays as printed, as does a spelling the book prints alike in more than
+one place and a real word that reads in its place. Most of the rows taken back had come
+from the translations (translations/for-main.tsv). Each is a `printed` row of
+readcheck.tsv now, the right form in its note; the translations quoting the form
+(translations/) follow the print.
+
+- `154` 35 `Marte` (was `Marta`): the river is the Marta, by outside knowledge only;
+  perhaps the author's.
+- `058` 28 `Graccus` (was `Gracchus`): `Gracchus` by outside knowledge only; perhaps the
+  author's.
+- `101` 17 `cxxix` (was `cxix`): Psalm cxix. 164 by outside knowledge only; perhaps the
+  author's.
+- `235` 29 `Sali` (was `Salò`): the town is Salò, by outside knowledge only; perhaps the
+  author's.
+- `251` 6 `Farfarella` (was `Farfarello`): printed so in the argument of both Carlyle
+  (`ocr/en` 313) and Oelsner: the author's form; `Farfarello` in v. 94.
+- `273` 17 `xii.` (was `xi.`): John xi. 49, 50 by outside knowledge only; perhaps the
+  author's.
+
+- misprints.tsv: 71 rows before, 65 now (`misprints.py`: all marked, no problems);
+  `texts/en-oelsner` reconverted.

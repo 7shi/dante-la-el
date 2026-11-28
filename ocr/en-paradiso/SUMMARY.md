@@ -45,6 +45,10 @@ misread, 58 misprints, 41 printed (`misprints.py`: 58 rows, 58 marks, no problem
   figures found what no OCR compares: the thick letters of the Tables of Kings written
   plain and `Paradise` made `Paradiso` in their head note; `of the` dropped at a line
   end; map labels (`SANTHELLA` for `SANNELLA`, a fragment written twice).
+- **Misprints now**: 59 rows, all marked, after the fixes from the translations and the
+  review of 2026-11-28, which took the author's errors and the edition's own spellings
+  back to the print (DONE.md, "The author's errors back to the print"). The counts below
+  are those of the close.
 - **Misprints**: 58, two thirds from the read-through: accents and letters in the Italian
   (`ch`, `cio`, `sara`, `comforti`), English spellings (`vengence`, `abbott`,
   `witholding`, `Ostragoths`), a tercet number (`10` for `100`), citations and stops in

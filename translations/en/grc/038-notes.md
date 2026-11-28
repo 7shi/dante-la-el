@@ -592,7 +592,7 @@ Asdente, a shoemaker in Parma, who abandoned his trade and took up divination.
 
 25\. Concerning Cacus, see Virg. *Aen.* VIII.
 
-43\. Cianfa de' Donati, a Florentine robber, of whom, as of his companions, only the name has been preserved.
+43\. Ciamfa de' Donati, a Florentine robber, of whom, as of his companions, only the name has been preserved.
 
 68\. Agnolo Brunelleschi, a Florentine robber.
 
@@ -717,7 +717,7 @@ translated by Horace thus:\
 89\. Focara is a mountain near Cattolica, notorious for the very dangerous wind that blows from it.
 
 102\. Lucan (Phars. I, 281) represents Curio, himself an exile from Rome, as persuading Caesar to cross the river Rubicon not far from Rimini with the following hortatory words:\
-“Tolle moras, nocuit semper differre paratis.”
+“Tolle moras, nocuit semper differe paratis.”
 
 106\. In 1215 a certain Buondelmonte, belonging to the house of the Buondelmonti (Buondelmonte), having betrothed himself to a maiden of the house of the Amidei, broke his pledge and married another of the house of the Donati. The kinsmen of the slighted house met to deliberate upon vengeance; and Mosca Lamberti proposed the death of the insulter, who was waylaid and slain by the hand of Mosca. This event became the cause of many evils to Florence, which was divided by such a private quarrel into Guelfs and Ghibellines.
 

@@ -9,7 +9,6 @@ page	line	printed	fixed	applied	source	note
 040	19	mischiate	Mischiate	yes	edition	Canto III, v. 37; a lowercase initial after `senza lodo.` (the English `They are mixed`, a new sentence); found by the read-through.
 042	17	tastidiosi	fastidiosi	yes	edition	Canto III, v. 69; the first letter printed as `t` (no ascender); the retype and Tesseract read `tastidiosi`, GLM-OCR `fastidiosi`; found by the retype.
 054	30	tuttie	tutti	yes	edition	Canto IV, v. 117, `sì che veder si potean tuttie quanti`; an `e` printed after `tutti`; found by the read-through.
-058	28	Graccus	Gracchus	yes	edition	Canto IV, note 127, 128, `Tiberius Sempronius Graccus`; the `h` not printed; found by the read-through.
 062	22	comforta	conforta	yes	edition	Canto V, v. 44; `comforta` printed; the retype, Tesseract and GLM-OCR read `comforta`; found by the retype.
 070	17	or	of	yes	edition	Canto V, note 97-99, `close by the shore or the Adriatic Sea`; `or` printed for `of`; found by the read-through.
 072	34	de	de’	yes	edition	Canto VI, v. 20, `dell’ un de lati`; no apostrophe printed after the article; found by the read-through.
@@ -17,7 +16,6 @@ page	line	printed	fixed	applied	source	note
 088	23	fossata	fossato	yes	edition	Canto VII, v. 102, `per un fossata che da lei diriva`; the feminine ending after the masculine article; found by the read-through.
 093	36	Phlegyas	“Phlegyas	yes	edition	Canto VIII, the English of v. 19; Virgil's words with no opening quote (`Phlegyas, Phlegyas,” said my Lord, “this`); found by the read-through.
 101	12	punished	punished.	yes	edition	Canto VIII, note 68, `have been / punished Within the City`; the period not printed (a wide space only); the retype and Tesseract read `punished`; found by the retype.
-101	17	cxxix	cxix	yes	edition	Canto VIII, note 97, `cf. Psalms cxxix. 164`; Psalm cxxix has eight verses: the verse is cxix. 164 ("Seven times a day do I praise thee"); found by the read-through.
 110	15	e	è	yes	edition	Canto IX, v. 130, `Simile qui con simile e sepolto`; the accent not printed; found by the read-through.
 110	49	regions	regions.	yes	edition	Note on Canto IX, v. 54, `from the lower regions According`; no period before the next sentence; found by the read-through.
 113	34	asketh	askest	yes	edition	Canto X, the English of v. 16, `which thou asketh me`; the third-person ending after `thou` (`thou holdest` follows); found by the read-through.
@@ -25,7 +23,6 @@ page	line	printed	fixed	applied	source	note
 120	10	‘	“	yes	edition	Canto X, v. 127, `‘La mente tua conservi`; Virgil's speech opened with a single quote and closed with a double one (`hai contra te,”`); found by the read-through.
 150	35	taccia	faccia	yes	edition	Canto XIII, v. 85; the first letter printed as `t` (no ascender, as `042` `tastidiosi`); the retype reads `faccia` from the sense, Tesseract and GLM-OCR `taccia`; found by the retype.
 154	33	miè	mie	yes	edition	Canto XIII, v. 151, `Io fei giubbetto a me delle miè case`; a grave accent printed over the `e`; found by the read-through.
-154	35	Marte	Marta	yes	edition	Note on Canto XIII, v. 9, `The river Cecina and the Marte, on whose banks stands the town of Corneto`; the river is the Marta; found by the read-through.
 157	12	Toppe	Toppo	yes	edition	Note on Canto XIII, vv. 115-129, `a ford called Pieve del Toppe`; `del Toppo` in v. 121; found by the read-through.
 176	34	coronno	corrono	yes	dante	Canto XV 122; `corrono`, as Carlyle's edition; found by the Italian against the standard text (2026-11-15).
 189	42	decription	description	yes	edition	Canto XVI, note 94-102, `would answer this decription`; the `s` not printed; the retype and Tesseract read `decription`, GLM-OCR `description`; found by the retype.
@@ -35,11 +32,9 @@ page	line	printed	fixed	applied	source	note
 226	17	che'	ch'	yes	edition	Canto XX, v. 3, `che’ è de’ sommersi`; found by the read-through.
 234	3	VII.	VIII.	yes	edition	Canto XX, the marginal label `Cerchio VII. / Bolgia 4`; `Cerchio VIII.` on the facing pages and on `230`, `232`; the retype, Tesseract and GLM-OCR read `VII.`; found by the retype.
 235	24	Camomica	Camonica	yes	edition	Note on Canto XX, vv. 63-78, `the Val Camomica` (`Val Camonica` in v. 65); found by the read-through.
-235	29	Sali	Salò	yes	edition	Note on Canto XX, vv. 63-78, `some miles south of Sali` (the town on the lake is Salò); found by the read-through.
 236	11	ii:	ii.	yes	edition	Note on Canto XX, vv. 106-114, `Æn. ii: 110`; found by the read-through.
 239	14	58-139)	(58-139)	yes	edition	Canto XXI, the argument, `escort of Ten / 58-139).`; the opening parenthesis not printed; the retype reads `58-139).`, GLM-OCR `(58-139).`; found by the retype.
 271	19	answerd	answered	yes	edition	Canto XXIII, `So he answerd: "Nearer than thou dost hope,`; the `e` not printed; Tesseract and GLM-OCR read `answerd`, the base and the retype `answered`.
-273	17	xii.	xi.	yes	edition	Note on Canto XXIII, vv. 111-123, `John xii. 49, 50` (the words of Caiaphas are John xi. 49, 50); found by the read-through.
 274	30	quando'	quand'	yes	edition	Canto XXIV, v. 17, `quando’ io gli vidi`; found by the read-through.
 278	1	206	266	yes	edition	Canto XXIV, the page number `206` for `266` (between `265` and `267`); Tesseract and GLM-OCR do not read it; found by the comparison.
 280	23	cinquencentesimo	cinquecentesimo	yes	edition	Canto XXIV, v. 108, `quando al cinquencentesimo anno appressa`; Tesseract and GLM-OCR read `cinquencentesimo`, the retype `cinquecentesimo`; found by the comparison.
@@ -69,4 +64,3 @@ page	line	printed	fixed	applied	source	note
 411	8	mag itudes	magnitudes	yes	edition	Fig. I, the explanation printed in the Fifth Edition (pages 411-412 are taken from it); the `n` not printed, a space left in its place; found by the transcription.
 087	26	souls.	souls."	yes	edition	Canto VII, the English; no closing quote at the end of Virgil's speech (carried over from Carlyle); found by translation review.
 110	16	caldi.	caldi.”	yes	edition	Canto IX 131; no closing quote at the end of Virgil's speech (opened at v. 127); found by translation review.
-251	6	Farfarella	Farfarello	yes	edition	Canto XXII, the argument; `Farfarello` in v. 94 (carried over from Carlyle); found by translation review.

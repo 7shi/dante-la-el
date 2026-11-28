@@ -9,7 +9,6 @@ page	line	printed	fixed	applied	source	note
 081	3	aud	and	yes	edition	A turned `n`; the retype and Tesseract read `aud`; found by the retype.
 094	22	darkuess	darkness	yes	edition	Footnote 3; a turned `n`; the retype reads `darkuess`; found by the retype.
 096	32	tco	too	yes	edition	Footnote 3; `c` for the second `o`; the retype reads `tco`; found by the retype.
-111	26	nostris	nostros	yes	other	Canto V, a footnote; Æn. ii. 10 (`casus cognoscere nostros`); found by the read-through.
 123	5	chant	chant.	yes	edition	The argument of Canto VII; the period after `chant` did not print; the retype reads `chant`; found by the retype.
 125	25	erowds	crowds	yes	edition	Canto VI, a footnote; an `e` for the `c`; the retype and Tesseract read `erowds`; found by the retype.
 126	18	mect	meet	yes	edition	Canto VII, a verse note; a `c` for the `e`; the retype and Tesseract read `mect`; found by the retype.
@@ -18,7 +17,6 @@ page	line	printed	fixed	applied	source	note
 132	5	fossato‘che	fossato, che	yes	edition	Inf. vii. 102; the comma turned and set high, no space; found by the read-through.
 132	20	piedo	piedi	yes	dante	Inf. vii. 113; the base copied `piedo` unmarked; the retype reads `piedo`.
 139	1	Aud	And	yes	edition	Canto VIII; a turned `n`; the retype and Tesseract read `Aud`; found by the retype.
-139	27	diri	dira	yes	other	Seneca, Thyestes, 347 (`Et dira mala pectoris`); the retype and Tesseract read `diri`; found by the retype.
 148	7	ìl	il	yes	dante	Inf. ix. 3; an accent on the `i`; the retype reads `ìl`; found by the retype.
 148	10	i’	l’	yes	dante	Inf. ix. 6; `Per l’ aer nero` (as in `ocr/en-oelsner`); found by the read-through.
 168	1	Ah!	“Ah!	yes	edition	Canto X; a speech opening a paragraph without its opening quote (closed by `rest,”`); found by the read-through.
@@ -35,17 +33,13 @@ page	line	printed	fixed	applied	source	note
 188	11	gìa	già	yes	dante	Inf. xii. 31; the accent on the `i`; the retype reads `gìa`; found by the retype.
 192	24	way	way.	yes	edition	Canto XII, a footnote; the closing period not printed; found by the read-through.
 197	3	Fredcrick	Frederick	yes	edition	The argument of Canto XIII; a `c` for the `e`; the retype reads `Fredcrick`; found by the retype.
-199	20	fædissima	fœdissima	yes	other	Æn. iii. 216 (`foedissima`); an italic `æ`, as in `fænerator` (`183`); the retype reads `fædissima`; found by the retype.
 213	23	Lit..	Lit.:	yes	edition	Canto XIV, a footnote; a period for the colon, as `Lit.:` elsewhere; the retype and Tesseract read `Lit..`; found by the retype.
 219	17	Corybantique	Corybantiaque	yes	other	Canto XIV, a footnote; Æn. iii. 111 (`Corybantiaque aera`); found by the read-through.
 220	1	uot	not	yes	edition	Canto XIV; a turned `n`; the retype and Tesseract read `uot`; found by the retype.
-228	5	heaven	haven	yes	edition	Canto XV; Dante `porto` (Inf. xv. 56), ocr/en-oelsner `haven`; found by the read-through.
 229	1	carth	earth	yes	edition	Canto XV; a `c` for the `e`; the retype and Tesseract read `carth`; found by the retype.
 233	1	arisiug	arising	yes	edition	Canto XV; a turned `n`; the retype and Tesseract read `arisiug`; found by the retype.
 239	16	Viuse	Vinse	yes	dante	Inf. xvi. 50; a turned `n`; the retype reads `Viuse`; found by the retype.
-240	21	33	23	yes	other	Canto XVI, a footnote; Acts viii. 23 (`Gall of bitterness, and the bond of iniquity`); found in translation.
 243	16	Po	Po.	yes	edition	Canto XVI, the end of a footnote; the period did not print; found by the retype.
-246	15	17	7	yes	other	Rev. xi. 7 (`the beast that ascendeth out of the bottomless pit`); the retype and Tesseract read `17`; found by the retype.
 248	17	avca	avea	yes	dante	Inf. xvii. 11; a `c` for the `e`; the retype reads `avca`; found by the retype.
 251	1	shoulders.	shoulders.”	yes	edition	Canto XVII; the closing quote of Virgil's speech begun on `250` not printed; found by the read-through.
 260	17	place	place.	yes	edition	Canto XVIII, a footnote; the closing period not printed; found by a search after `192`.
@@ -64,7 +58,6 @@ page	line	printed	fixed	applied	source	note
 301	21	Lit..	Lit.:	yes	edition	Canto XXI, a footnote; a period for the colon, as at `213`; the retype and Tesseract read `Lit..`; found by the retype.
 301	22	round	round.	yes	edition	Canto XXI, a footnote; the closing period not printed; found by the read-through.
 302	14	fornito	fornita	yes	dante	Inf. xxi. 40; `fornita` with `terra` and the rhyme `Zita`; found by the read-through.
-313	3	Farfarella	Farfarello	yes	edition	Canto XXII, Argument; the poem and notes have `Farfarello`; found in translation.
 314	3	tho	the	yes	edition	Canto XXII; an `o` for the `e`; the retype and Tesseract read `tho`; found by the retype.
 316	22	Lit	Lit.	yes	edition	Canto XXII, a footnote; the period of `Lit.:` not printed, as at `265`, `395`; found by the read-through.
 319	8	Poeo	Poco	yes	dante	Inf. xxii. 67; an `e` for the `c`; the retype and Tesseract read `Poeo`; found by the retype.
@@ -73,7 +66,6 @@ page	line	printed	fixed	applied	source	note
 328	22	describcd	described	yes	edition	Canto XXIII, a footnote; a `c` for the `e`; the retype reads `describcd`; found by the retype.
 329	3	rcached	reached	yes	edition	Canto XXIII; a `c` for the `e`; the retype reads `rcached`; found by the retype.
 330	20	somc	some	yes	edition	Canto XXIII, a footnote; a `c` for the `e`; the retype reads `somc`; found by the retype.
-338	19	xx	xxi	yes	other	Canto XXIV, a footnote; Ezek. xxi. 12 (`Cry and howl . . . . smite therefore upon thy thigh`); found in translation.
 339	21	cantc	canto	yes	edition	Canto XXIV, a footnote; a `c` for the `o`; the retype and Tesseract read `cantc`/`cante`; found by the retype.
 340	23	ruin	ruin.	yes	edition	Canto XXIV, a footnote; the closing period not printed; found by the read-through.
 350	19	Lit..	Lit.:	yes	edition	Canto XXV, a footnote; a period for the colon, as at `213`; the base copied `Lit..` unmarked; Tesseract reads `Lit..`, the retype `Lit.:`.

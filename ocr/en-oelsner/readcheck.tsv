@@ -79,7 +79,7 @@ page	line	form	decision	note
 058	13	sqq.,	misread	cmp B; was `199.,`
 058	24	510	misread	cmp A; was subscript `₅₁₀`
 058	26	sqq.);	misread	cmp B; was `199.);`
-058	28	{{Graccus|Gracchus}}	misprint	read; `Graccus` in the image
+058	28	Graccus	printed	kept as printed (was misprint `Gracchus`): `Gracchus` by outside knowledge only; perhaps the author's; earlier: read; `Graccus` in the image
 060	12	Così	printed	cmp D; Tesseract and GLM-OCR `Cosi`; the accent printed
 060	13	cinghia	misread	cmp A; was `cinghìa`
 060	21	essa;	misread	cmp A; was `essa,`
@@ -139,7 +139,7 @@ page	line	form	decision	note
 098	9	sicurtà	printed	cmp D; Tesseract and GLM-OCR drop the accent
 100	25	68.	misread	cmp A; was `63.`; the note is to v. 68
 101	12	punished	misprint	cmp A; marked `{{punished|punished.}}`; the base had `punished.`
-101	17	{{cxxix|cxix}}. 164	misprint	read; `cxxix` in the image; Psalm cxxix has eight verses, the seven times a day are cxix. 164
+101	17	cxxix	printed	kept as printed (was misprint `cxix`): Psalm cxix. 164 by outside knowledge only; perhaps the author's; earlier: read; `cxxix` in the image; Psalm cxxix has eight verses, the seven times a day are cxix. 164
 101	19	82, 3.	printed	read; the note after the note on 97 in the image, as the base has it
 102	3	DANTE	misread	cmp A; was `D ANTE`; a drop capital, one word
 102	23	sì	printed	cmp D; Tesseract and GLM-OCR drop the accent
@@ -213,7 +213,7 @@ page	line	form	decision	note
 154	14	sanguinenti	misread	cmp A; was `sanguimenti`
 154	33	miè	misread	cmp A; was `mie`; the grave printed
 154	33	{{miè|mie}} case	misprint	read; Canto XIII, v. 151; a grave accent printed over the `e`
-154	35	{{Marte|Marta}}	misprint	read; note on XIII 9; the river by Corneto is the Marta
+154	35	Marte	printed	kept as printed (was misprint `Marta`): the river is the Marta, by outside knowledge only; perhaps the author's; earlier: read; note on XIII 9; the river by Corneto is the Marta
 155	8	braches	misread	cmp A; was `branches`
 155	31	Florence	misread	cmp A, B; the label was on line 32; printed beside `O gather them`
 156	11	1190-1249)	printed	read; no comma after the parenthesis in the image
@@ -362,7 +362,7 @@ page	line	form	decision	note
 235	18	remember:	misread	cmp A; was `remember;`
 235	24	Val {{Camomica|Camonica}}	misprint	read; note on XX 63-78; `Val Camonica` in v. 65
 235	29	Tignalga	misread	cmp A; was `Tignaga`
-235	29	{{Sali|Salò}}	misprint	read; note on XX 63-78; `Sali` in the image
+235	29	Sali	printed	kept as printed (was misprint `Salò`): the town is Salò, by outside knowledge only; perhaps the author's; earlier: read; note on XX 63-78; `Sali` in the image
 235	34	Mincio	misread	cmp A; was `Minicio`
 236	11	ii:	misread	cmp A; was `ii.`
 236	11	(*Æn.* {{ii:|ii.}} 110, *sqq.*)	misprint	read; note on XX 106-114; a colon after `ii` in the image; the italics set as printed (was `*Æn. ii: 110, sqq.*`)
@@ -438,7 +438,7 @@ page	line	form	decision	note
 272	5	Calcabrina	misread	cmp A; was `Calcabrīna`
 272	14	Guelf	misread	cmp A; was `Guelph`
 272	16	Podestà	printed	cmp D; Tesseract and GLM-OCR `Podesta`; the accent printed
-273	17	(_John_ {{xii.|xi.}} 49, 50)	misprint	read; note on XXIII 111-123; Caiaphas's words are John xi. 49, 50
+273	17	xii.	printed	kept as printed (was misprint `xi.`): John xi. 49, 50 by outside knowledge only; perhaps the author's; earlier: read; note on XXIII 111-123; Caiaphas's words are John xi. 49, 50
 274	30	{{quando'|quand'}} io	misprint	read; Canto XXIV, v. 17; `quando’ io` in the image
 275	14	the Sun	misread	cmp A; words left out at the line ends: `the Sun` (14), `and the` (15), `sister's` (18)
 276	2	INFERNO	printed	cmp B; the page number `264` on its own line in the base
@@ -676,4 +676,4 @@ page	line	form	decision	note
 414	4	PAGE	misread	cmp B, C; the column heading left out; the leader dots counted as printed (the base had more)
 087	26	{{souls.|souls."}}	misprint	translation review (for-main.tsv); no closing quote at the end of Virgil's speech
 110	16	{{caldi.|caldi.”}}	misprint	translation review (for-main.tsv); no closing quote at the end of Virgil's speech in v. 131
-251	6	{{Farfarella|Farfarello}}	misprint	translation review (for-main.tsv); misprint in the Argument for Farfarello
+251	6	Farfarella	printed	kept as printed (was misprint `Farfarello`): printed so in the argument of both Carlyle (`ocr/en` 313) and Oelsner: the author's form; `Farfarello` in v. 94; earlier: translation review (for-main.tsv); misprint in the Argument for Farfarello

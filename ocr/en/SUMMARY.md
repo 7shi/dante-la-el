@@ -32,6 +32,10 @@ decision is a row of [readcheck.tsv](readcheck.tsv).
   `Mordred` for `Mordrec`), points and quotes, words joined in a tight line, a paragraph
   split in two, small capitals in normal case. The retype found most of them; the
   read-through found the rest (8).
+- **Misprints now**: 107 rows, all marked, after the fixes from the translations and the
+  review of 2026-11-28, which took the author's errors and the edition's own spellings
+  back to the print (DONE.md, "The author's errors back to the print"). The counts below
+  are those of the close.
 - **Misprints**: 109 rows in [misprints.tsv](misprints.tsv), all marked (`misprints.py`:
   109 rows, 109 marks, no problems). Many the base had corrected silently (turned `n`s,
   `c` for `e`), found by the retype; the read-through found misprints no comparison sees: a

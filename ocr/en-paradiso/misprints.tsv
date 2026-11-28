@@ -5,7 +5,6 @@ page	line	printed	fixed	applied	source	note
 055	45	*sqq*;	*sqq.*;	yes	edition	Canto IV, notes, 24; the abbreviation without its period (`sqq.` on the next line); found by the read-through.
 070	17	Ghibil	Ghibel	yes	edition	Canto VI, the argument (`Ghibil-` / `line`); `Ghibelline` elsewhere in the volume; found by the read-through.
 073	45	Repnblic	Republic	yes	edition	Canto VI, the marginal label `The Republic`; the `u` printed turned (`n`); found by the comparison (agy's report).
-081	13	Ostragoths	Ostrogoths	yes	edition	Canto VI, notes, 25; found by the read-through.
 111	6	6;	6:	yes	edition	Canto VIII, notes (`Conv. ii. 6: 40`); a semicolon for the colon of a citation; found by the read-through.
 113	18	vengence	vengeance	yes	edition	Canto IX, the argument; found by the read-through.
 126	8	be	he	yes	edition	Canto X, the argument (`that art of God which he himself ever contemplates`); found by the comparison (agy's report).
@@ -45,7 +44,6 @@ page	line	printed	fixed	applied	source	note
 352	27	quante	quanto	yes	dante	Canto XXVIII 70 `che tutto quanto rape`; found by the read-through.
 353	44	congruance	congruence	yes	edition	Canto XXVIII, the English; every reading has `congruance`; found by the comparison.
 359	42	*Cor,*	*Cor.*	yes	edition	Canto XXVIII, notes, 138; a comma for the abbreviation's period; found by the read-through.
-380	24	giù	già	yes	dante	Canto XXX 136 `che fia già agosta`; the `u` is clear (4x crop); found by the comparison.
 380	33	sara	sarà	yes	dante	Canto XXX 145; the accent not printed; found by the read-through.
 382	9	jar.	jar.”	yes	edition	Canto XXX, notes, 79-81; the quote opened (`“repellent to the mind`) is not closed; found by the read-through.
 396	17	comtemplante	contemplante	yes	dante	Canto XXXII 1; found by the comparison of the Italian with the standard text (step 7).
@@ -57,9 +55,6 @@ page	line	printed	fixed	applied	source	note
 428	26	all.	all,	yes	edition	Editorial note (`the reader must, after all, be`); found by the comparison (agy's report).
 428	32	H. O	H. O.	yes	edition	Editorial note, the signature; found by the read-through.
 428	33	P. H. W	P. H. W.	yes	edition	Editorial note, the signature; found by the read-through.
-083	7	Dyracchium	Dyrrachium	yes	edition	Canto VI, note 31-96; found by translation review.
 164	7	Cassale	Casale	yes	edition	Canto XII, note 124-126 (`Ubertino of Cassale`); found by translation review.
 164	9	d’Aquaspata	d’Acquasparta	yes	edition	Canto XII, note 124-126 (`Matteo d’Aquaspata`); found by translation review.
 393	5	devoted.	devoted.”	yes	edition	Canto XXXI, the English; no closing quote at the end of Bernard's speech (present in Italian `devoto.”`); found by translation review.
-393	42	Orcas	Arcas	yes	edition	Canto XXXI, note 31-33 (`her son (Orcas)`); found by translation review.
-397	21	annointed	anointed	yes	edition	Canto XXXII, the English (v. 4); found by translation review.

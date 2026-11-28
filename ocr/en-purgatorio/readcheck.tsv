@@ -94,7 +94,7 @@ page	line	form	decision	note
 287	41	{{outlineI|outline I}}	misprint	read-through; as printed
 290	9	{{117|118}}	misprint	read-through; as printed
 291	15	behoves	misread	Tesseract and IA; was `behooves`
-294	44	{{480-441|480-406}}	misprint	read-through; as printed
+294	44	480-441	printed	kept as printed (was misprint `480-406`): Euripides died in 406 B.C., by outside knowledge only; perhaps the author's; earlier: read-through; as printed
 295	13	{{came|come}}	misprint	read-through; as printed
 296	37	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 297	41	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
@@ -106,7 +106,7 @@ page	line	form	decision	note
 302	7	{{la dolce|lo dolce}}	misprint	read-through; as printed
 302	7	assenzio	printed	read-through; `assenzio` kept (`la dolce` marked a misprint); some editions `assenzo`
 304	18	così	misread	read-through; was `cosi`
-306	5	{{xxviii.|xxvii.}}	misprint	read-through; as printed
+306	5	xxviii.	printed	kept as printed (was misprint `xxvii.`): Matt. xxvii. 46 by outside knowledge only; perhaps the author's; earlier: read-through; as printed
 306	7	{{will of God|will of God.}}	misprint	read-through; as printed
 307	24	{{112-126|112-126.}}	misprint	read-through; as printed
 308	35	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
@@ -136,7 +136,7 @@ page	line	form	decision	note
 342	15	di un	printed	read-through; `di un` for `d' un`; kept, the edition's reading
 343	35	Arnault	printed	read-through; the English `Arnault`, the Italian and the notes `Arnaut`; kept, the translator's form
 344	43	{{Hermaphoditus|Hermaphroditus}}	misprint	cmp A; was `Hermaphroditus`
-345	43	{{10:|i. 10:}}	misprint	read-through; as printed
+345	43	10:	printed	kept as printed (was misprint `i. 10:`): De Vulg. El. i. 10 by outside knowledge only; perhaps the author's; earlier: read-through; as printed
 346	35	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 347	38	(blank line)	misread	read-through; the blank line before the foot line (page number or signature) was missing
 348	21	{{giu|giù}}	misprint	read-through; as printed
@@ -230,6 +230,6 @@ page	line	form	decision	note
 155	21	(turn-over)	misread	translation review (for-main.tsv); typesetting turn-over `[discerned!` moved from end of line 21 to end of line 22
 293	14	{{you.|you.”}}	misprint	translation review (for-main.tsv); no closing quote at end of voice's speech
 355	42	{{thyself.|thyself.”}}	misprint	translation review (for-main.tsv); no closing quote at end of Virgil's speech
-389	27	{{Vincensa|Vicenza}}	misprint	translation review (for-main.tsv); printed as Vincensa on map (was Vincenza)
+389	27	Vincensa	printed	kept as printed (was misprint `Vicenza`): the map's spelling (Vicenza); by outside knowledge only; earlier: translation review (for-main.tsv); printed as Vincensa on map (was Vincenza)
 405	39	{{water.|water.”}}	misprint	translation review (for-main.tsv); no closing quote at end of Beatrice's speech
 447	37	2 E* 435	misread	translation review (for-main.tsv); bottom signature mark and page number leaked into text, removed

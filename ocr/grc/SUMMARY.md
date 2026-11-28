@@ -41,6 +41,10 @@ line).
   `ἀθανατισθεῖσα` for `ἀπαθανατισθεῖσα`, `343` `μνημονευσομένων` for
   `μνημονευθησομένων`. In the corrigenda many readings had been taken from the verse they
   correct.
+- **Misprints now**: 118 rows, all marked, after the fixes from the translations and the
+  review of 2026-11-28, which took the author's errors and the edition's own spellings
+  back to the print (DONE.md, "The author's errors back to the print"). The counts below
+  are those of the close.
 - **Misprints**: 98 rows in [misprints.tsv](misprints.tsv), all marked (`misprints.py`: 98
   rows, 98 marks, no problems): accents and breathings, an iota subscript under a capital
   (`030` `ᾙρέθη`), a figure `1` for the `Ι` of a canto number, closing quotes and periods

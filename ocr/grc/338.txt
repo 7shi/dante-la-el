@@ -23,7 +23,7 @@
 Καίσαρα διαβῆναι τὸν Ῥουβίκωνα ποταμὸν οὐ μακρὰν
 τοῦ Ἀριμίνου διὰ τῶν ἑξῆς προτρεπτικῶν λόγων·
 
-“Tolle moras, nocuit semper {{differe|differre}} paratis.”
+“Tolle moras, nocuit semper differe paratis.”
 
 106. Τῷ 1215 Βονδελμόντης τις, ἀνήκων εἰς τὸν οἶκον
 τῶν Βονδελμοντῶν (Buondelmonte), μνηστευθεὶς κόρῃ

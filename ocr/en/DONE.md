@@ -375,3 +375,32 @@ Three are not: `483` `Malebolge, xxv. 5` (Inf. xxi. 5) and `484` `Piceno’s fie
 128` (Inf. xxiv. 148; `128` as the entry below) are misprints, marked and listed; `482`
 `Greece, xx. 88` is printed (no slip of the type explains it). misprints.tsv is now 109
 rows.
+
+## The author's errors back to the print (2026-11-28)
+
+The marks were reviewed against the rule now in ocr/GUIDE.md (step 5): a misprint is the
+printer's error that the book itself corrects, or a word that is no word; what only
+outside knowledge corrects (a reference, a quotation, a fact of place or person) may be
+the author's, and stays as printed, as does a spelling the book prints alike in more than
+one place and a real word that reads in its place. Most of the rows taken back had come
+from the translations (translations/for-main.tsv). Each is a `printed` row of
+readcheck.tsv now, the right form in its note; the translations quoting the form
+(translations/) follow the print.
+
+- `111` 26 `nostris` (was `nostros`): misquotation of Æn. ii. 10 (`nostros`), perhaps the
+  author's.
+- `139` 27 `diri` (was `dira`): misquotation of Seneca, Thyestes 347 (`dira`), perhaps the
+  author's.
+- `199` 20 `fædissima` (was `fœdissima`): the italic `æ` for `œ`, as in `fænerator` (183):
+  the book's type.
+- `228` 5 `heaven` (was `haven`): a real word that reads (Dante `porto`; ocr/en-oelsner
+  `haven`).
+- `240` 21 `33` (was `23`): Acts viii. 23 by outside knowledge only, perhaps the author's.
+- `246` 15 `17` (was `7`): Rev. xi. 7 by outside knowledge only, perhaps the author's.
+- `313` 3 `Farfarella` (was `Farfarello`): printed so in the argument of both Carlyle and
+  Oelsner (`ocr/en-oelsner` 251): the author's form; `Farfarello` in the poem.
+- `338` 19 `xx` (was `xxi`): Ezek. xxi. 12 by outside knowledge only, perhaps the
+  author's.
+
+- misprints.tsv: 115 rows before, 107 now (`misprints.py`: all marked, no problems);
+  `texts/en` reconverted.

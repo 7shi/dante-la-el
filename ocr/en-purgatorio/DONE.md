@@ -158,3 +158,26 @@ kept: `diventai`, `Eresitone`, `sorvenisse`, `coronato`; `inbarche` had been kep
 read-through. No misprint found.
 
 The comparison is kept as `ocr/scripts/stdcmp.py` (`uv run ocr/scripts/stdcmp.py VOLUME`).
+
+## The author's errors back to the print (2026-11-28)
+
+The marks were reviewed against the rule now in ocr/GUIDE.md (step 5): a misprint is the
+printer's error that the book itself corrects, or a word that is no word; what only
+outside knowledge corrects (a reference, a quotation, a fact of place or person) may be
+the author's, and stays as printed, as does a spelling the book prints alike in more than
+one place and a real word that reads in its place. Most of the rows taken back had come
+from the translations (translations/for-main.tsv). Each is a `printed` row of
+readcheck.tsv now, the right form in its note; the translations quoting the form
+(translations/) follow the print.
+
+- `294` 44 `480-441` (was `480-406`): Euripides died in 406 B.C., by outside knowledge
+  only; perhaps the author's.
+- `306` 5 `xxviii.` (was `xxvii.`): Matt. xxvii. 46 by outside knowledge only; perhaps the
+  author's.
+- `345` 43 `10:` (was `i. 10:`): De Vulg. El. i. 10 by outside knowledge only; perhaps the
+  author's.
+- `389` 27 `Vincensa` (was `Vicenza`): the map's spelling (Vicenza); by outside knowledge
+  only.
+
+- misprints.tsv: 99 rows before, 95 now (`misprints.py`: all marked, no problems);
+  `texts/en-purgatorio` reconverted.

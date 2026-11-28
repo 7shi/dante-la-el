@@ -209,3 +209,26 @@ decided in the image, by crops of its line.
   texts/README.md, texts/scripts/README.md and texts/en-paradiso/README.md updated.
 - The final counts (readcheck.tsv): 34 misread, 58 misprints, 41 printed;
   misprints.tsv 58 rows, `misprints.py` no problems.
+
+## The author's errors back to the print (2026-11-28)
+
+The marks were reviewed against the rule now in ocr/GUIDE.md (step 5): a misprint is the
+printer's error that the book itself corrects, or a word that is no word; what only
+outside knowledge corrects (a reference, a quotation, a fact of place or person) may be
+the author's, and stays as printed, as does a spelling the book prints alike in more than
+one place and a real word that reads in its place. Most of the rows taken back had come
+from the translations (translations/for-main.tsv). Each is a `printed` row of
+readcheck.tsv now, the right form in its note; the translations quoting the form
+(translations/) follow the print.
+
+- `081` 13 `Ostragoths` (was `Ostrogoths`): `Ostrogoths` by outside knowledge only;
+  perhaps the author's.
+- `083` 7 `Dyracchium` (was `Dyrrachium`): `Dyrrachium` by outside knowledge only; perhaps
+  the author's.
+- `380` 24 `giù` (was `già`): the edition's reading (the English: `on earth 't will be
+  imperial`); `già` in other texts.
+- `393` 42 `Orcas` (was `Arcas`): `Arcas` by outside knowledge only; perhaps the author's.
+- `397` 21 `annointed` (was `anointed`): a spelling of the time.
+
+- misprints.tsv: 64 rows before, 59 now (`misprints.py`: all marked, no problems);
+  `texts/en-paradiso` reconverted.

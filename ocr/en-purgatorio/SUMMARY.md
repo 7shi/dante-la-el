@@ -44,6 +44,10 @@ four readings checked in the image and kept (rows `printed`).
   missing paragraph break, and above all the layout at the page foot (the blank line before
   the page number, missing on 43 pages). The mechanical checks found a stray paragraph
   break no reading compares (`213`), reversed italics (`451`) and the signatures.
+- **Misprints now**: 95 rows, all marked, after the fixes from the translations and the
+  review of 2026-11-28, which took the author's errors and the edition's own spellings
+  back to the print (DONE.md, "The author's errors back to the print"). The counts below
+  are those of the close.
 - **Misprints**: 94, almost all from the read-through: tercet numbers, marginal labels,
   letters in the Italian and the English, missing stops and quotes in the notes, the
   editor's slips whose right form is sure. The base had corrected three silently.
