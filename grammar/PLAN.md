@@ -16,7 +16,7 @@ Serravalle's Latin translation (`texts/la/`) of all three canticles, printed lin
 
 - **(it, en)**: the Italian of this edition with a new English translation of it, line by line. The Italian differs widely from the modern text and from Oelsner's (see [texts/la/README.md](../texts/la/README.md)), so no existing English renders it: `commentary/en-la-it/`.
 - **(la, en)**: the Latin with a literal English translation of it, `commentary/en-la-la/`.
-- The two sources of `commentary/scripts/source.py` and both English translations are made and checked first (see [commentary/PLAN.md](../commentary/PLAN.md)).
+- The two sources of `commentary/scripts/source.py` and both English translations are made and checked first (see [commentary/PLAN.md](../commentary/PLAN.md)), on the `la` branch: the sources are in place, and `commentary/en-la-la/` has been taken from a draft for all three canticles, to be checked with `check-lines`; `commentary/en-la-it/` is still to be generated. This step begins with the Inferno once both are checked for it.
 - The mode of `grammar.py` is to follow the one made for `grammar/grc/` in step 3; the details are settled after that step has been tried.
 - The Purgatorio and the Paradiso are done as in step 2: the Inferno first, then the other two canticles.
 
