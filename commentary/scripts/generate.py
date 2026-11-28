@@ -33,6 +33,8 @@ CANTICLE_NAMES = {
 #   such a line is taken as a copy of the original (polytonic Greek in el)
 # - closing: the word that opens the heading of the closing section
 # - note: an extra instruction appended to both prompts
+# - unquoted_note: (optional) the note for a source with no quote marks, in
+#   place of a note that asks for them; without it, NO_QUOTES_NOTE is appended
 # - quotes: the opening and closing quote marks of translations, counted by
 #   check_quotes.py
 # - apostrophe: (optional) a regex for a mark that is an apostrophe, not a
@@ -67,6 +69,8 @@ LANGUAGES = {
         "closing": "Epilogue",
         "note": "Write quotation marks as “” and ‘’, not as straight quotes; "
                 "write the apostrophe as the straight ' (don't, souls', de' Pazzi), not as ’.",
+        "unquoted_note": "The original has no quotation marks, so write none; "
+                         "write the apostrophe as the straight ' (don't, souls', de' Pazzi), not as ’.",
         # The apostrophe is the straight ', so every ’ closes a ‘
         "quotes": ("“‘", "”’"),
     },
@@ -104,12 +108,20 @@ LITERAL_STYLE = "- Translate as literally as possible, even where it reads stiff
 
 PLACEHOLDER = "**NEED TRANSLATE**"
 
-# Lines Dante made meaningless on purpose, keyed by (canticle, canto):
-# a verbatim copy of these is a valid rendering, not a missed translation
-VERBATIM_LINES = {
+# Lines Dante made meaningless on purpose, keyed by source and then by
+# (canticle, canto): a verbatim copy of these is a valid rendering, not a
+# missed translation
+DANTE_VERBATIM = {
     ("inferno", 7): {1},  # Plutus: «Pape Satàn, pape Satàn aleppe!»
     ("inferno", 31): {67},  # Nimrod: «Raphèl maì amècche zabì almi»
 }
+VERBATIM_LINES = {
+    "it": DANTE_VERBATIM,
+    "la-la": DANTE_VERBATIM,  # Pape Sathan, pape Sathan alepp; Raphel malbi ameth zabi [almy]
+    "la-it": DANTE_VERBATIM,  # Pape Satan, pape Satan aleppe; Raphel hay hameth zabi et almi
+}
+
+NO_QUOTES_NOTE = "The original has no quotation marks, so write none."
 
 # Set the path only when usage should be recorded
 USAGE_PATH = None
@@ -254,9 +266,11 @@ def generate(client: Client, canticle: str, canto: int, args: argparse.Namespace
     letters = re.compile(language["letters"])
     reject = re.compile(language["reject"]) if language.get("reject") else None
     italian = args.source == "it"
-    # Lines left meaningless on purpose are known only for the Italian
-    verbatim = VERBATIM_LINES.get((canticle, canto), set()) if italian else set()
-    note = f" {language['note']}" if language.get("note") else ""
+    verbatim = VERBATIM_LINES.get(args.source, {}).get((canticle, canto), set())
+    note = language.get("note", "")
+    if SOURCES[args.source].get("unquoted"):
+        note = language.get("unquoted_note") or f"{note} {NO_QUOTES_NOTE}".strip()
+    note = f" {note}" if note else ""
     names = dict(
         canticle=CANTICLE_NAMES[canticle], number=canto,
         lang=language["name"], note=note,

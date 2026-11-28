@@ -71,6 +71,8 @@ BLOCKS_PATH = Path(__file__).resolve().parents[2] / "editions" / "en-blocks.txt"
 # - prose: (optional) the English prose translation printed with the source,
 #   as written into the prompts; such a source is explained against it, and
 #   is not translated or checked
+# - unquoted: (optional) True for a source with no quote marks, whose
+#   translations are to have none either
 SOURCES = {
     "it": {
         "name": "Italian text",
@@ -111,11 +113,13 @@ SOURCES = {
         "name": "Latin verse translation (by Giovanni da Serravalle, 1416)",
         "language": "Latin",
         "canticles": ["inferno", "purgatorio", "paradiso"],
+        "unquoted": True,
     },
     "la-it": {
         "name": "Italian text (as written in Bartolommeo da Colle's manuscript, 1480)",
         "language": "Italian",
         "canticles": ["inferno", "purgatorio", "paradiso"],
+        "unquoted": True,
     },
 }
 # The sources that are translated (into <lang>/ or <lang>-<source>/)

@@ -68,9 +68,10 @@ With `-s grc`, the source is the verse of `texts/grc/` (read by `scripts/source.
 Both prompts are written in English, with the language name filled in. Each language code has an entry in `LANGUAGES` in the script:
 
 - `name`: the name of the language, written into the prompts (`Modern Greek` for `el`, `Esperanto` for `eo`, `English` for `en`)
-- `letters`: a regular expression for the letters of the language, used to reject copied Italian (for `eo` and `en`, which share the Latin script, it rejects only lines without letters; a verbatim copy is still rejected)
+- `letters`: a regular expression for the letters of the language, used to reject copied Italian (for `eo` and `en`, which share the Latin script, it rejects only lines without letters; a verbatim copy is still rejected, except for the lines Dante made meaningless on purpose, Inferno VII 1 and XXXI 67, which `VERBATIM_LINES` lists for `it`, `la-la`, and `la-it`)
 - `closing`: the word that opens the heading of the closing section (`Επίλογος` for `el`, `Epilogo` for `eo`, `Epilogue` for `en`)
 - `note`: an extra instruction added to both prompts (for `el`, to use the monotonic orthography; for `eo`, to write the letters with diacritics, not in the x- or h-system; for `en`, to write curly quotation marks, not straight ones, and the apostrophe as the straight `'`, so that `’` always closes a `‘`)
+- `unquoted_note`: the note for a source with no quote marks (`la-la`, `la-it`, marked `unquoted` in `SOURCES` of `scripts/source.py`), in place of one that asks for them (for `en`, to write no quotation marks, and the apostrophe as the straight `'`); for a language without it, a sentence asking for no quotation marks is added to its `note`
 
 ## scripts/fix_quote_blocks.py
 
