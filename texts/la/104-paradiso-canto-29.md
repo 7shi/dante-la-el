@@ -503,7 +503,7 @@ De isto impinguat porcum Sanctus Antonius (idest de talibus predicationibus et d
 &emsp;Quot sunt splendores qui hic apparent.
 
 47 Onde, però ch'all'acto che concepe\
-&emsp;Segue l'affecto d'amare la dolcezza,\
+&emsp;Segue l'effecto d'amare la dolcezza,\
 &emsp;Diversamente in essa ferve e tepe.
 
 47 Unde, quia actus qui concipit\

@@ -1405,6 +1405,31 @@ of PLAN.md before the marks.
      `voler voler`, 0426 the fix on `crepa` for `reo`, …); moved, with their TSV rows, the
      fixed forms unchanged. The checks of step 4 gave the same output.
 
+## The Italian verse back to the print (2026-11-28)
+
+The marks of the Italian verse were reviewed on the rule of PLAN.md ("Misprint marks": the
+verse is the manuscript's, a word that reads as printed is not exchanged), the rows taken
+back removed from `misprints.tsv` with their marks, their `readcheck.tsv` rows now
+`printed`, and `texts/la` regenerated.
+
+- **First pass**: 97 rows, 0731 and 96 others where the fix had made the verse agree with
+  the Latin, among them the whole lines of 0133 and 0514; 17 of them read in the image.
+- **The rest**: every other applied row of the Italian verse, 228 rows. The gloss marks
+  and tercet numbers (13) and the missing accents stay marked, unless the unaccented word
+  reads (0368 `la`, 1118 `parlo`); a form that is not a word stays marked, unless it is a
+  spelling of the edition (0167 `orgoglosa`, 1067 `rigardi`, 1176 `esentia`); a word stays
+  marked only where the line breaks without the fix (0426 `reo` with `la sete`, 0641 `suo
+  meta`, 0828 `Vestito`, the rhyme of 0685 and 0687, the short lines of 0175, 0581, 0682,
+  0736 and 1032, 0883 `Ha un` with `le cose`, 0594 `L'ymagine` with `care`), and `m` for `n`
+  (`um`, `com`). A line that reads, even one away from the sense (0730 `senza o i o`, 0861
+  `con la rota`), went back to the print: 126 rows, each read in the image.
+- **Unapplied rows**: 0259 `tra loro e'l` (`'n contrario il`) and 0790 `'n qua` (`oltre`,
+  which the Latin `huc` … `ultra` puts in place of `entra`) were listed only, the wording
+  not certain; both lines read as printed, and the rows were removed, their `readcheck.tsv`
+  rows now `printed`. 0138 `morirer`, in the Latin, stays listed.
+- `misprints.tsv` has 828 rows, 827 marked; `ocr/scripts/misprints.py ocr/la` reports no
+  problem.
+
 ## Work items 1–10 (all done)
 
 In this order (decided with the user, 2026-10-15):

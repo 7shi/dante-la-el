@@ -10,7 +10,7 @@ In isto octavo capitulo, quod incipit: *Iam erat hora*, auctor prosequitur predi
 
 1 Era già l'hora che volge 'l desio\
 &emsp;A'naviganti e 'ntenerisce 'l core,\
-&emsp;Lo dì ch'àn dicto a' dolci amici: A Dio;
+&emsp;Lo dì ch'àn dicto e'dolci amici: A Dio;
 
 1 Erat iam hora que vertit desiderium\
 &emsp;Navigantibus et tenerefacit cor,\
@@ -274,13 +274,13 @@ Modo fit hic conversatio. Postea conversi ad me, scilicet dixerunt: Per illum si
 
 25 Non credo che la sua madre più m'ami,\
 &emsp;Poscia che trasmutò le bianche bende,\
-&emsp;Le quai convien che, misera, ancor brami.
+&emsp;Le quai convien che, misero, ancor brami.
 
 25 Non credo quod sua mater plus me amet,\
 &emsp;Postquam transmutavit albas bendas,\
 &emsp;Quas convenit quod misera adhuc bramet.
 
-26 Per lei assai di lieve vi si comprende,\
+26 Per lei assai di lei vi si comprende,\
 &emsp;Quant'in femina foco d'amor dura,\
 &emsp;Se l'ochio o'l tacto spesso non l'accende.
 

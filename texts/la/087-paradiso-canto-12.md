@@ -344,7 +344,7 @@ Non propter mundum, pro quo modo affaticantur, idest laborantur, idest homines l
 &emsp;Non fortunam prime vacantis,\
 &emsp;Non decimas que sunt pauperum Dei,
 
-32 Addimandò; ma contra el mondo errante\
+32 Adunando; ma contra el mondo errante\
 &emsp;Licentia di combatter per lo seme\
 &emsp;Di che si fascian ventiquattro piante.
 

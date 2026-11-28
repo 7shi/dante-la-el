@@ -491,7 +491,7 @@ Sequitur textus: Trahas te ante, idest venias coram me. Alichine et Calcabrina, 
 46 Per l'argine sinistro volta dienno;\
 &emsp;Ma prim'havea a ciascun la lingua strecta\
 &emsp;Co'denti, verso 'l mio duca per cenno,\
-&emsp;Et elli havea del cul facto trombetta.
+&emsp;Et elli havean del cul facto trombetta.
 
 46 Per aggerem sinistrum voltam dederunt;\
 &emsp;Sed prius habebat quilibet linguam strictam\

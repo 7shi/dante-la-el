@@ -470,7 +470,7 @@ Alter leprosus, qui erat hic, fuit magister Capochius de Florentia, singularissi
 
 <!-- p. 363 (0417) -->
 
-45 Ma perchè sappi (1) chi sì ti seconda\
+45 Ma perchè sappi (1) che sì ti seconda\
 &emsp;Contr'a'Sanesi, aguzza ver me l'ochio (2),\
 &emsp;Sì che la faccia (3) ben ti si risponda (4):
 

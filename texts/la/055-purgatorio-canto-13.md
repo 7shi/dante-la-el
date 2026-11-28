@@ -512,7 +512,7 @@ Sed tu quisquis es, qui nostras conditiones vadis interrogando, et portas oculos
 
 49 O quest' è a udir sì cosa nova,\
 &emsp;Che gran segno pretende che Dio t'ami;\
-&emsp;Però col priego tuo talhor mi giova
+&emsp;Però col pregio tuo talhor mi giova
 
 49 Or ista est ad audiendum res nova,\
 &emsp;Respondit, quod grande signum est quod Deus te amet:\

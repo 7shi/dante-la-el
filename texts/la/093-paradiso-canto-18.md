@@ -158,7 +158,7 @@ Ego vidi per crucem unum lumen, tractum a nomine, idest a nominatione Iosue, quo
 
 14 Et al nome dell'alto Machabeo\
 &emsp;Vidi muoversi un altro roteando,\
-&emsp;E letitia era ferza de paleo.
+&emsp;E letitia era forza de paleo.
 
 14 Et ad nomen alti Machabei\
 &emsp;Vidi moveri unum aliud roteando,\

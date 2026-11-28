@@ -450,7 +450,7 @@ Nota quod, quia tunc tempore Iubilei multi christiani conversi sunt ad penitenti
 
 42 E come, ricoglendo biada o gioglo (2),\
 &emsp;Li colombi adunati a la pastura,\
-&emsp;Queti senza mostrar l'usato argoglo,
+&emsp;Questi senza mostrar l'usato argoglo,
 
 42 Sicut quando, colligendo bladium vel lolium,\
 &emsp;Columbe adunate ad pasturam,\

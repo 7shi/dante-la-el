@@ -473,7 +473,7 @@ Nos sumus hic, scilicet in Ecclesia militanti, nymphe, idest vagantes, sive pere
 &emsp;Qui, satiando de se, sitibundos reddit;
 
 44 Sè dimostrando del più alto tribo\
-&emsp;Negl'atti, l'altre tre si fero avanti,\
+&emsp;Negl'altri, gl'altri tre si fero avanti,\
 &emsp;Danzando a lor angelico choribo.
 
 44 Se demonstrando de altiori tribu\

@@ -359,7 +359,7 @@ Quando rota, scilicet celum, quam tu sempiternas, desiderosum ad se me fecit act
 &emsp;Id quod videres, si illam haberes excussam.
 
 31 Tu (37) non se'in terra (38), sì come tu credi (39);\
-&emsp;Ma fulgure (40), fuggendo (41) 'l primo sito (42),\
+&emsp;Mai fulgure (40), fuggendo (41) 'l primo sito (42),\
 &emsp;Non corre (43) come tu ch'adesso (44) riedi (45).
 
 31 Tu non es in terra, sicut tu credis,\

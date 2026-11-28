@@ -233,7 +233,7 @@ Nunc respice altum, idest profundissimum, videre divinum, idest Providentiam div
 &emsp;In quo te stringunt cogitationes subtiles.
 
 18 Dentro all'ampiezza di questo reame\
-&emsp;Casual puncto non può haver sito,\
+&emsp;Causal puncto non può haver sito,\
 &emsp;Se non come tristitia, o sete, o fame;
 
 18 Intra amplitudinem istius regni\

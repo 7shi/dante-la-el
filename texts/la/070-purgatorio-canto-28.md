@@ -97,7 +97,7 @@ Vagus, idest avidus, factus iam, scilicet propter verba Virgilii, querendi intus
 &emsp;Que tenebant tenorem suis rithymis.
 
 7 Tal, qual di ramo in ramo si raccogle\
-&emsp;Per la pineta, in sul lito de' Chiassi,\
+&emsp;Per la pianetta, in sul lito de' Chiassi,\
 &emsp;Quand' Euro e Scirocco fuor disciogle.
 
 7 Talis, qualis de ramo in ramum colligitur,\
@@ -157,7 +157,7 @@ Iam me transportaverant lenti passus intra silvam antiquam (quia primi parentes 
 &emsp;Grandem variationem recentium maiorum:
 
 13 E là m'apparve, sì com'elli appare\
-&emsp;Subitamente cosa che disvia\
+&emsp;Subitamente cosa che desia\
 &emsp;Per maravigla tutt'altro pensare,
 
 13 Et ibi michi apparuit, sicut aliquando apparet\
@@ -304,7 +304,7 @@ Ipsa ridebat ab alia [ripa] recta, trahendo, idest eligendo, plures colores, ide
 &emsp;Incepit illa, in isto loco electo\
 &emsp;Humane nature pro suo nido,
 
-27 Maraviglando tienvi alcun sospecto;\
+27 Maraviglando tieni alcun sospecto;\
 &emsp;Ma luce rende il salmo Delectasti,\
 &emsp;Che puote disnebbiar vostro intellecto.
 
@@ -381,7 +381,7 @@ Summum bonum, idest Deus, quod solum sibi placet, quia solus ipse seipsum intell
 &emsp;Mutavit honestum risum et dulce iocum.
 
 33 Perchè 'l turbar, che sotto di sè fanno\
-&emsp;L'exalation dell'acqua e de la terra,\
+&emsp;L'exaltation dell'acqua e de la terra,\
 &emsp;Che, quanto posson, dietro al calor vanno,
 
 33 Ut turbatio inferior, quam a se faciunt\

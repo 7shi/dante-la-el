@@ -388,13 +388,13 @@ De corporibus suis non exiverunt, scilicet pagane, sicut tu credis, et gentiles,
 
 36 Chè l'una dell'Inferno, u' non si riede\
 &emsp;Giamai a ben voler, tornò all'ossa:\
-&emsp;E ciò di viva speme (1) fu mercede;
+&emsp;E ciò [a] divina speme (1) fu mercede;
 
 36 Quia una de Inferno, unde non reditur\
 &emsp;Unquam ad bonam voluntatem, redivit ad ossa:\
 &emsp;Et hoc vive spei fuit merces;
 
-37 Di viva speme, che misse la possa\
+37 Divina speme, che misse la possa\
 &emsp;Ne' prieghi facti a Dio (2) per suscitarla,\
 &emsp;Sì che potesse sua vogla esser mossa.
 
@@ -502,7 +502,7 @@ Ille tres domine, scilicet virtutes theologice, sibi fuerunt pro baptismate, sci
 &emsp;Facit sequi motum corde,\
 &emsp;In quo plus complacentie cantus acquirit;
 
-49 Sì, mentre che parlò, sì mi ricorda\
+49 Sì, mentre che parlo, sì mi ricorda\
 &emsp;Ch'io vidi le due luci benedecte,\
 &emsp;Pur come batter d'ochi si concorda,\
 &emsp;Con le parole muover le fiammette.

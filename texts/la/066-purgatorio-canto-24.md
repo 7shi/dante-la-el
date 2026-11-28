@@ -178,7 +178,7 @@ O anima, dixi ego, que appares ita cupida loquendi mecum, fac sic quod ego te in
 
 15 Femmina è nata, e non porta ancor benda,\
 &emsp;Cominciò elli, che ti farà piacere\
-&emsp;La mia città, come ch'huom che la riprenda.
+&emsp;La mia città, com' huom che la riprenda.
 
 15 Femina est nata, et non portat adhuc bindam,\
 &emsp;Dixit ipse ad me, que faciet tibi placere\
@@ -260,7 +260,7 @@ Ego video bene, quomodo vestre penne, idest optime fantasie, vadunt retro dictat
 
 23 Così tutta la gente che lì era,\
 &emsp;Volgendo viso, raffrectò suo passo,\
-&emsp;E per magrezza e per voler leggiera.
+&emsp;E per magrezza e per volar leggiera.
 
 23 Sic tota gens, que ibi erat,\
 &emsp;Volvendo visum, festinavit suum passum,\
@@ -330,7 +330,7 @@ Nescio, respondi ego, quanto, scilicet tempore, ego vivam; sed iam non erit redi
 
 30 Non hanno molto a volger queste ruote,\
 &emsp;E drizzò gl' ochi al ciel, che ti fia chiaro\
-&emsp;Ciò che 'l mio dir più dichiarar non puote.
+&emsp;Ciò che 'l mi dir più dichiarar non puote.
 
 30 Non habent multum volvere iste rote,\
 &emsp;Et direxit oculos ad celum, quod tibi fiet clarum\
@@ -386,7 +386,7 @@ Modo per comparationem describit auctor recessum Foresis a se auctore. Qualis, i
 &emsp;Quod oculi mei fecerunt se apud eum sequaces,\
 &emsp;Sicut mens apud verba sua,
 
-35 Parvermi rami gravidi e vivaci\
+35 Parvemi rami gravidi e vivaci\
 &emsp;D'un altro pomo (3), non molto lontani,\
 &emsp;Per esser pur allora volto in laci (4).
 

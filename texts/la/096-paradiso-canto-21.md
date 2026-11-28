@@ -114,14 +114,14 @@ Qualis, vel quiscumque, sciret qualis erat pastura vultus mei, idest oculorum me
 
 9 Dentr'al cristallo, che'l vocabol porta,\
 &emsp;Cerchiando'l mondo, del suo caro duce,\
-&emsp;Sotto cui giacque ogni malitia morta,
+&emsp;Sotto cui giacque ogni militia morta,
 
 9 Intra cristallum, quod vocabulum portat,\
 &emsp;Circuendo mundum, sui cari ducis,\
 &emsp;Sub quo iacuit omnis malitia mortua,
 
 10 Di color d'oro, in che raggio traluce,\
-&emsp;Vid'io uno scaleo erecto in suso\
+&emsp;Vid'io uno scalco erecto in suso\
 &emsp;Tanto, che nol seguiva la mia luce.
 
 10 Coloris aurei, in quo radius tralucet,\

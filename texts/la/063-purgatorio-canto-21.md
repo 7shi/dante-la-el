@@ -18,7 +18,7 @@ In isto vicesimoprimo capitulo, quod incipit: *Sitis naturalis, que nunquam*, et
 
 2 Mi travaglava, e pungèmi la frecta\
 &emsp;Per la 'mpacciata via dietr'al mio duca,\
-&emsp;E condoleami a la giusta vendecta.
+&emsp;E conduceami a la giusta vendecta.
 
 2 Me movebat, et pungebat me festinantia\
 &emsp;Per impeditam viam, retro meum ducem,\
@@ -76,7 +76,7 @@ auctor manifestat Virgilium illi spiritui predicto. Primo tamen auctor continuat
 
 7 Come! diss'elli, e parte (5) andavàn forte;\
 &emsp;Se voi sete ombre che Dio su non degni,\
-&emsp;Chi v'à per la sua scala tanto scorte?
+&emsp;Chi v'à per la sua scala tante scorte?
 
 7 Quomodo! dixit ipse, et nos ibamus fortiter;\
 &emsp;Si vos estis umbre quas Deus superius non dignetur,\
@@ -140,7 +140,7 @@ Et doctor, supple ait: Si tu respicis signa que iste portat, idest peccata que d
 &emsp;Dedit paulo ante mons, et quare omnes simul\
 &emsp;Visi sunt clamare usque ad eius pedes molles?
 
-13 Sì mi diè, domandando, per la cruna\
+13 Sì mi diè, domandando, per la cuna\
 &emsp;Del mio desio, che pur colla speranza\
 &emsp;Fece allor la mia sete men digiuna.
 
@@ -221,7 +221,7 @@ Tunc respondens illa umbra dicebat, quod in illo monte nil eveniebat sine ordine
 &emsp;Propter ascendere sursum, et talis clamor sequitur.
 
 21 Dell'immonditia solver si fa prova,\
-&emsp;Che, tutta libera a mutar convento,\
+&emsp;Che, tutt'è libero a mutar convento,\
 &emsp;L'alma sorprende, e di volar le giova.
 
 21 De [im]munditia solvenda fit experientia,\
@@ -450,7 +450,7 @@ Statius cepit aliquam suspitionem de risu Dantis; ideo coniurat Dantem ipsum dic
 
 42 Questi, che guida in alto gl'ochi miei,\
 &emsp;È quel Virgilio, dal qual tu toglesti\
-&emsp;Forza (10) a cantar degl'huomini e de' Dei.
+&emsp;Forse (10) a cantar degl'huomini e de' Dei.
 
 42 Iste, qui conducit in altum oculos meos,\
 &emsp;Est ille Virgilius, a quo tu sumpsisti\

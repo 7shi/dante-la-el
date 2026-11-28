@@ -300,7 +300,7 @@ Quomodo hoc sit, si vis id posse cogitare, intra scilicet te, idest in mente tua
 &emsp;Non vidi clare sicut nunc ego discerno,\
 &emsp;Ubi meum ingenium apparebat deficere:
 
-27 Chè 'l mezzo cerchio del moto superno,\
+27 Chè 'l mezzo cerchio del monte superno,\
 &emsp;Che si chiama Equator, in alcun'arte,\
 &emsp;E che sempre riman tra 'l sole e 'l verno,
 
@@ -317,7 +317,7 @@ Quomodo hoc sit, si vis id posse cogitare, intra scilicet te, idest in mente tua
 &emsp;Videbant illum versus callidam partem.
 
 29 Ma se a te piace, volentier saprei\
-&emsp;Quant'havemo ad andar, che 'l poggio sale\
+&emsp;Quand'havemo ad andar, che 'l poggio sale\
 &emsp;Più che salir non posson gl'occhi miei.
 
 29 Sed si tibi placet, libenter scirem\

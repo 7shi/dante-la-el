@@ -265,7 +265,7 @@ Hiis auditis, auctor volvit se ad Beatricem, quasi petens licentiam ab ipsa loqu
 <!-- p. 1000 (1054) -->
 
 25 Poi cominciai così: L'affecto e 'l senno,\
-&emsp;Come la prima equalità n'apparse,\
+&emsp;Come la prima qualità n'apparse,\
 &emsp;D'un peso per ciascun di voi si fenno;
 
 25 Postea incepi sic: Affectus et sensus,\

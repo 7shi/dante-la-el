@@ -38,7 +38,7 @@ et quia celi diversimode influunt, dum influunt ad bonum, utile esset quod homin
 
 4 E da costei, ond'io principio piglo,\
 &emsp;Piglia[va]no el vocabol de la stella\
-&emsp;Che 'l sol vagheggia hor da coppa or da ciglo.
+&emsp;Che 'l sol vagheggia hor da poppa or da ciglo.
 
 4 Et ab ista, unde principium sumo,\
 &emsp;Capiebant vocabulum stelle\
@@ -340,7 +340,7 @@ Sua natura, idest fratris mei regis Ruberti, qui de larga parca, idest avara, id
 
 <!-- p. 914 (0968) -->
 
-31 Facto m'ài lieto, e così mi fa' chiaro,\
+31 Facto m'è lieto, e così mi fa' chiaro,\
 &emsp;Poichè, parlando, a dubitar m'ài mosso,\
 &emsp;Com' uscir può di dolce seme amaro.
 

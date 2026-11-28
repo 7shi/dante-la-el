@@ -442,7 +442,7 @@ Modo auctor in persona Boncontis dicit id quod fecit dyabolus sua potestate. Ben
 
 42 Lo corpo mio gelato in su la foce\
 &emsp;Trovò l'Archian rubesto; e quel sospinse\
-&emsp;Nell'Arno, e sciolse al mio pecto la croce,
+&emsp;Nell'altro, e sciolse al mio pecto la croce,
 
 42 Corpus meum gelatum super fauce\
 &emsp;Reperuit Archianum rubestum; et illud impulit\

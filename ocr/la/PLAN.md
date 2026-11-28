@@ -89,8 +89,7 @@ its page and gets its row in `misprints.tsv` at once.
   mark: `page line printed fixed applied source note`.
   - `applied`: `yes`, the mark is in the page; `no`, listed only (the fixed form is not
     certain, as two readings equally possible), with the reason in `note`: 0138
-    `morirer` (perhaps the manuscript's spelling), 0259 `tra loro e'l` and 0790 `'n qua`
-    (the edition's wording not certain).
+    `morirer` (perhaps the manuscript's spelling).
   - `source`, where the fixed form comes from, in this order: `page`, the Latin, the verse
     or the commentary of the same page; `edition`, the edition elsewhere, its spelling or
     plainly the word meant (a turned letter, a missing accent); `dante`, Dante's text, only
@@ -104,8 +103,8 @@ its page and gets its row in `misprints.tsv` at once.
     long line, or a broken rhyme, and its fix changes a few letters; a word that reads as
     printed is not exchanged for another, even one a letter away (`mondo` for `modo`,
     `loco` for `foco`). The Latin may give the fixed form, but a difference from it is not
-    enough. 97 rows were taken back to the print on this rule (0731 and 96 others, among them the whole lines of 0133 and 0514), their
-    `readcheck.tsv` rows now `printed`.
+    enough. The rows taken back to the print on this rule are in DONE.md ("The Italian
+    verse back to the print").
   - `ocr/scripts/misprints.py ocr/la` checks that every `yes` row is one mark at its page and
     line, and every mark a `yes` row; with `--fix-lines` it writes the new line of a mark
     that has moved.

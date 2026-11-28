@@ -144,7 +144,7 @@ hec est secunda pars capituli huius, in qua ostendit si in voto potest dispensar
 &emsp;Quia cibus rigidus quem sumpsisti,\
 &emsp;Requirit adiutorium ad tuam dispensam.
 
-14 Apri la mente a quel ch'io ti paleso,\
+14 Apre la mente a quel ch'io ti paleso,\
 &emsp;E fermalv' entro; chè non fa scienza,\
 &emsp;Senza lo ritener, havere inteso.
 
@@ -210,7 +210,7 @@ Due res conveniunt essentie istius sacrificii: una est illa, scilicet materia, d
 &emsp;Pro suo arbitrio aliquis, sine volutione\
 &emsp;Et clavis albe et gialle;
 
-20 Et ogni permutanza credi stolta,\
+20 Et ogni permutanza crede stolta,\
 &emsp;Se la cosa dimessa in la sorpresa,\
 &emsp;Come quattro nel sei, non è ricolta.
 

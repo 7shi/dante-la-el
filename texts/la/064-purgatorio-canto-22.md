@@ -18,7 +18,7 @@ In isto vicesimosecundo capitulo, quod incipit: *Iam erat angelus*, auctor prose
 
 2 E quei ch'ànno a giustizia lor desiro,\
 &emsp;Decti n'avien, Beati, e le sue voci\
-&emsp;Con Sitio senz'altro ciò forniro.
+&emsp;Con Sitio senza o i o forniro.
 
 2 Et illi qui habent ad iustitiam eorum desiderium\
 &emsp;Dixerunt, Beati, in suis vocibus,\
@@ -137,8 +137,8 @@ Nota quod quia Virgilius reperit Statium in circulo, ubi purgatur avaritia, cred
 &emsp;Forsan propter illum circulum ubi eram:
 
 12 Or sappia che avaritia fu partita\
-&emsp;Troppo da me; e questa dismisura\
-&emsp;Miglar (1) di lunari (2) hanno punita.
+&emsp;Troppo da me; a questa dismisura\
+&emsp;E miglar (1) di lunari (2) hanno punita.
 
 12 Nunc scias quod avaritia distans\
 &emsp;Nimis a me fuit; et hanc malam mensuram\
@@ -192,7 +192,7 @@ Nunc exclamatur hic contra prodigos. Tunc perpendi quod nimis aperire alas poter
 
 17 E sappi che la colpa, che rimbeccha\
 &emsp;Per dricta opposition alcun peccato\
-&emsp;Commesso, insieme qui suo verde secca.
+&emsp;Commesso, insieme qui suo veder secca.
 
 17 Et scias quod culpa, que rimbeccat\
 &emsp;Per rectam oppositionem aliquod peccatum\
@@ -356,7 +356,7 @@ Et prius quam ego ducerem Grecos ad flumina Thebarum poetando, habui ego baptism
 &emsp;Quod michi abscondebat quantum bonum ego dico,\
 &emsp;Interim quod ascendendi habemus superfluum,
 
-33 Dimmi dov'è Terentio nostro antico,\
+33 Dimmi dov'è Terentio nostro amico,\
 &emsp;Cecilio, Plauto, Varro, se lo sai,\
 &emsp;Dimmi se son dannati, et in qual vico (5).
 
@@ -425,7 +425,7 @@ Euripides est ibi nobiscum, et Antifons, Symonides, Agathon et multi alii, idest
 &emsp;Liberi ab ascensu et parietibus;
 
 40 E già le quattro ancelle eran del giorno\
-&emsp;Rimase indietro, e la quinta era al temo (12),\
+&emsp;Rimase indietro, et a la quinta el temo (12),\
 &emsp;Drizzando pur in su l'ardente corno;
 
 40 Et iam quatuor ancille diei\
@@ -485,7 +485,7 @@ Sic consuetudo fuit ibi nostrum signum; et apprehendimus viam cum maiori suspici
 &emsp;Credo ego ad hoc ut persona sursum non vadat.
 
 46 Dal lato onde 'l cammin nostro era chiuso,\
-&emsp;Cadea dell'alta (4) roccia (5) un liquor (6) chiaro,\
+&emsp;Cadea dell'altra (4) roccia (5) un liquor (6) chiaro,\
 &emsp;E si spandea per le fogle (7) suso.
 
 46 A latere, unde erat iter nostrum clausum,\

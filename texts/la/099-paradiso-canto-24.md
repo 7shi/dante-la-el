@@ -91,7 +91,7 @@ Nota quod auctor ostendit in ista spera octava Ecclesiam triumphantem, propter h
 &emsp;Quod nullum ibi dimisit maioris c[l]aritie;
 
 8 E tre fiate intorno a Beatrice\
-&emsp;Si volse con un canto tanto divo,\
+&emsp;Si volse con un canto tanto vivo,\
 &emsp;Che la mia fantasia non mel ridice;
 
 8 Et tribus vicibus se volvit circa Beatricem\
@@ -199,7 +199,7 @@ Si ipse amat bene; ecce de caritate: et bene sperat; ecce de spe: et bene credit
 &emsp;Aquam extra meum internum fontem.
 
 20 La gratia che mi dà ch'io mi confessi,\
-&emsp;Comincia'io, dall'alto primo pilo,\
+&emsp;Comincia'io, dell'alto primo pilo,\
 &emsp;Faccia li miei concepti esser expressi.
 
 20 Gratia que michi dat quod ego confitear,\

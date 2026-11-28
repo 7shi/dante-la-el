@@ -123,7 +123,7 @@ Modo incipit auctor describere ordines angelorum, qui sunt novem. Quorum primus 
 &emsp;A quinto quartus, et postmodum a sexto quintus.
 
 11 Sopra seguia el septimo sì sparto\
-&emsp;Già di larghezza, che'l messo (1) di Iuno\
+&emsp;Già di lunghezza, che'l messo (1) di Iuno\
 &emsp;Intero a contenerlo sarebbe arcto.
 
 11 Desuper sequebatur septimus ita sparsus\

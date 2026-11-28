@@ -255,8 +255,8 @@ Nunc explicatur, fili, nunc extenditur virtus, que [est] a corde generantis, ubi
 <!-- p. 715 (0769) -->
 
 23 Apri la verità che viene al pecto,\
-&emsp;E sappi che, sì tosto com'al feto\
-&emsp;L'articolar del cerebro è perfecto,
+&emsp;E sappia che, sì tosto com'al feto\
+&emsp;L'articolar del cerchio è perfecto,
 
 23 Aperias veritati que venit ad pectus,\
 &emsp;Et scias quod anima quam cito sicut ad fetum\
@@ -324,7 +324,7 @@ Alie potentie omnes mute, idest sunt, sicut sentire, vegetare, audire, videre, d
 &emsp;Mirabiliter ad unam riparum;\
 &emsp;Ibi cognoscit prius suas stratas.
 
-30 Tosto che 'l loco lì la circonscrive,\
+30 Tosto che 'l loco lì lo certo scrive,\
 &emsp;La virtù formativa raggia intorno,\
 &emsp;Così e quanto nelle membra vive;
 
@@ -342,7 +342,7 @@ Alie potentie omnes mute, idest sunt, sicut sentire, vegetare, audire, videre, d
 
 32 Così l'aere vicin quivi si mecte\
 &emsp;In quella forma che in lui suggella,\
-&emsp;Virtualmente l'alma che ristecte:
+&emsp;Virtualmente all'alma che ristecte:
 
 32 Sic aier vicinus ibi immictitur\
 &emsp;In illam formam quam in eo sigillat\
@@ -402,7 +402,7 @@ Modo vult dicere auctor, quod statim quando ista anima, separata a corpore, est 
 &emsp;Et cornix spirat flatum in sursum,\
 &emsp;Qui eam reflectit, et viam ab ea sequestrat;
 
-39 Ond'ir ne convenia dal lato schiuso\
+39 Ond'ir ne convenia dall'alto schiuso\
 &emsp;Ad uno ad uno, et io temea el foco\
 &emsp;E quinci e quindi temea cader giuso.
 

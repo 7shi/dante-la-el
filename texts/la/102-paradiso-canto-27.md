@@ -525,7 +525,7 @@ Fides et innocentia sunt reperte solum in parvulis, quia non plus cognoscunt don
 49 Chè la fortuna, che tanto s'aspecta,\
 &emsp;Le poppe volgerà u'son le prore,\
 &emsp;Sì che la classe correrà directa;\
-&emsp;E vero fructo verrà doppo 'l fiore.
+&emsp;O vero fructo verrà doppo 'l fiore.
 
 49 Quod fortuna, que tantum expectatur,\
 &emsp;Puppes volvet ubi sunt prore,\

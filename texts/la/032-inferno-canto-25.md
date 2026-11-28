@@ -409,7 +409,7 @@ Taceat de Cadmo et de Arethusa Ovidius, quia, si illum in serpentem et illam in 
 &emsp;Non faciebat signum aliquod quod appareret.
 
 37 Toglea la coda fessa la figura\
-&emsp;Che si perdea ella, e là sua pelle\
+&emsp;Che si perdea ella, e la sua pelle\
 &emsp;Si facea molle, e quella dell'huom dura.
 
 37 Tollebat cauda fixa figuram\

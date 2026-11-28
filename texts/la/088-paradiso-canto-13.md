@@ -18,7 +18,7 @@ In isto decimotertio capitulo, quod incipit: *Ymaginetur qui bene intelligere cu
 
 2 Quindici stelle che 'n diverse plage\
 &emsp;El ciel avvivan di tanto sereno,\
-&emsp;Che soverchia dell'aere ogni compage:
+&emsp;Che soverchia dell'arte ogni compage:
 
 2 Quindecim stellas que in diversis plagis\
 &emsp;Celum avivant de tanto sereno,\
@@ -114,7 +114,7 @@ Ymaginetur, qui bene intelligere cupit (idest istas duas coronas et earum motum)
 &emsp;Sed tres personas in divina natura,\
 &emsp;Et in una persona ipsam et humanam.
 
-10 Compiè 'l cantar a volger suo'misura,\
+10 Compiè 'l cantor a volger suo'misura,\
 &emsp;Et attesersi a noi quei sancti lumi,\
 &emsp;Felicitando sè di cura in cura.
 

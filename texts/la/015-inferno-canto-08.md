@@ -198,7 +198,7 @@ Collum meum postmodum cum brachiis me magister cinxit; osculabatur michi vultum,
 
 <!-- p. 113 (0167) -->
 
-16 Quei fu al mondo persona orgogliosa:\
+16 Quei fu al mondo persona orgoglosa:\
 &emsp;Bontà non è che sua memoria fregi:\
 &emsp;Così s'è l'ombra sua (1) qui furiosa.
 

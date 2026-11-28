@@ -420,7 +420,7 @@ Modo vult dicere, quod non sufficit esse baptizatum et habere nomen Christianita
 
 39 Lì si vedrà, tra l'opere d'Alberto.\
 &emsp;Quella che tosto moverà la penna,\
-&emsp;Perchè 'l regno di Praga fi' deserto:
+&emsp;Perchè 'l regno di Plaga fi' deserto:
 
 39 Ibi videbitur, intra opera Alberti,\
 &emsp;Illa que cito movebit pennam,\

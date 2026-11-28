@@ -116,7 +116,7 @@ Ego dixi: Ad suum placitum et citum et tardum veniet remedium oculis, scilicet m
 &emsp;Sic accendit amorem, et tanto [maiorem],\
 &emsp;Quanto plus bonitatis in se comprehendit.
 
-11 Dunque all'essentia, ov' è tanto vantaggio,\
+11 Dunque all'esentia, ov' è tanto vantaggio,\
 &emsp;Che ciascun ben, che fuor di lei si trova,\
 &emsp;Altro non è ch'un lume di suo raggio,
 
@@ -452,7 +452,7 @@ Inde spiravit, idest cepit loqui (quasi dicat: Tu dicis verum, quod absque hoc q
 &emsp;Antequam ad opus inconsumabile\
 &emsp;Esset gens Nembroth attenta;
 
-43 Chè nullo effecto mai rationabile,\
+43 Chè nullo affecto mai rationabile,\
 &emsp;Per lo piacer human, che rinnovella\
 &emsp;Seguendo 'l cielo, sempre fu durabile.
 

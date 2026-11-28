@@ -108,7 +108,7 @@ Trascie insule, in qua est gens cruda et ferox, accepit in uxorem primam filiam 
 &emsp;Derelicti sui a Ganimede,\
 &emsp;Quando fuit raptus ad summum consistorium.
 
-9 Fra me pensava: Forse questa fiede\
+9 Fra me pensava: Forse questa siede\
 &emsp;Pur qui per uso, e forse d'altro loco\
 &emsp;Disdegna di portarne suso in piede.
 
@@ -116,7 +116,7 @@ Trascie insule, in qua est gens cruda et ferox, accepit in uxorem primam filiam 
 &emsp;Solum hic pro usu, et forsan de alio loco\
 &emsp;Dedignatur portare sursum in pedibus.
 
-10 Poi mi parea, che più rotata un poco,\
+10 Poi mi parea, che giù rotata un poco,\
 &emsp;Terribil come folgor descendesse,\
 &emsp;E me rapisse suso infin al fuoco.
 

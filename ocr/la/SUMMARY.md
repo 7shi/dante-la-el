@@ -53,7 +53,7 @@ marked with its fix and listed), or **printed** (kept, nothing to do).
 
 - **Misprints** are marked in `ocr/la` as `{{printed|fixed}}` (PLAN.md, "Misprint marks"):
   the left side keeps the print, `texts/la` has the right side. `misprints.tsv` lists them
-  (956 rows, 953 marked; 3 left unmarked, the fixed form not certain) with the source
+  (828 rows, 827 marked; 1 left unmarked, the fixed form not certain) with the source
   of each fix: the same page, the edition elsewhere, Dante's text, or a source named.
   `ocr/scripts/misprints.py` checks the marks against the list. The scripts that compare
   `ocr/la` with the image read the left side; `convert_la.py` writes the right side.

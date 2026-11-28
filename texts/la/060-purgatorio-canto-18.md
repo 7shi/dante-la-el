@@ -206,7 +206,7 @@ Nunc tibi potest apparere, idest potest esse notum per ea que dixi, quantum est 
 
 19 Però, là onde vegna l'intellecto\
 &emsp;De le prime notitie, homo non sape,\
-&emsp;Et è prima appettibile l'affecto,
+&emsp;Et è prima appettibile l'effecto,
 
 19 Ergo, unde veniant intellectus\
 &emsp;Primarum noticiarum, homo non scit,\
@@ -435,7 +435,7 @@ Cito, cito, quod tempus non perdatur propter paucum amorem, clamabant alii prope
 &emsp;De quo dolens adhuc Mediolanum ratiocinatur.
 
 41 E tal ha già un piede intr'alla fossa,\
-&emsp;Che tosto piangerà quel monastero,\
+&emsp;Che tosto piangerà quel ministero,\
 &emsp;E tristo fia d'haver havuto possa;
 
 41 Et talis iam habet unum pedem intra foveam,\

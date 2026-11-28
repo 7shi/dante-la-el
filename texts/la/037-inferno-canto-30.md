@@ -272,7 +272,7 @@ Gravis ydropisis, idest que facit stare ydropicum ita gravem, que sic disparific
 
 26 Ma s'io vedessi qui l'anima trista\
 &emsp;Di Guido (15), e d'Alexandro (16), e di lor frate,\
-&emsp;Per Fonte Branda (17) non darei la vista.
+&emsp;Per Fonte Blanda (17) non darei la vista.
 
 26 Sed si ego viderem hic animam tristem\
 &emsp;Guidonis, et Allexandri, et eorum fratris,\

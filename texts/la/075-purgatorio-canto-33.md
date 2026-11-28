@@ -50,7 +50,7 @@ Et plangit Beatrix, dicens verba, que dixit Christus suis
 
 3 Ma poi che l'altre vergini dier loco\
 &emsp;A lei di dir, levata dricta in pe' (1),\
-&emsp;Rispose, colorata come foco:
+&emsp;Rispose, con la rota come foco:
 
 3 Sed postquam alie virgines dederunt locum\
 &emsp;Ei dicendi, elevata recta in pede,\
@@ -183,7 +183,7 @@ In quo, scilicet tempore, [erit] unum quingentesimum decem et quinque, nuntius D
 <!-- p. 809 (0863) -->
 
 16 E forse che la mia narration buia,\
-&emsp;Qual Temi e Spingi, men ti persuade,\
+&emsp;Qual Temi e Spingi, e metti persuade,\
 &emsp;Perch'al lor modo lo 'ntellecto actuia;
 
 16 Et forsan quod narratio mea obscura,\
@@ -272,7 +272,7 @@ Quicumque rubat, idest furatur, illam, vel illam rumpit, idest frangit, vel scin
 
 25 Ma perch'io veggio te nell'intellecto\
 &emsp;Facto di pietra et in petrato tincto,\
-&emsp;Sì che t'abbagla il lume del mio decto;
+&emsp;Sì che t'abbagla al lume del mio decto;
 
 25 Sed quia ego video te in intellectu\
 &emsp;Factum de petra et in petratum tinctum,\

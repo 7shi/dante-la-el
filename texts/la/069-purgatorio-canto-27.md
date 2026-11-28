@@ -17,7 +17,7 @@ In isto vicesimoseptimo capitulo, quod incipit: *Sicut quando primi radii*, auct
 &emsp;Cadendo Ybero sub alia Libra,
 
 2 E l'onde in Ghange da nona riarse,\
-&emsp;Sì stava il sol, onde il giorno sen giva,\
+&emsp;Sì stava il sol, onde il giron sen giva,\
 &emsp;Come l'angel di Dio lieto ci apparse.
 
 2 Et undas in Gange de novo rearsit,\
@@ -151,7 +151,7 @@ Recorderis, et recorderis, (dicit bis propter maiorem expressionem): si ego supe
 &emsp;Tunc quando morus effecta est rubea;
 
 14 Così, la mia durezza facta solla\
-&emsp;Mi volsi al savio duca, udendo 'l nome\
+&emsp;Mi volse al savio duca, udendo 'l nome\
 &emsp;Che ne la mente sempre mi rampolla.
 
 14 Sic, mea duritie facta solla,\
@@ -304,7 +304,7 @@ Venite, venite, benedicti Patris mei (verba sunt evangelica Matthei vicesimoquin
 
 29 Tali eravammo tuct'e tre (6) allocta,\
 &emsp;Io come capra et ei (7) come pastori,\
-&emsp;Fasciati quinci e quindi da la grotta.
+&emsp;Fasciati tutti quindi da la grotta.
 
 29 Tales eramus omnes tres tunc,\
 &emsp;Ego sicut capra, et ipsi sicut pastores,\
@@ -469,7 +469,7 @@ Tantum velle et voluntas, vel appetitus, supra velle michi venit esse sursum, sc
 &emsp;Ubi ego per me ulterius non discerno.
 
 44 Tracto t'ho qui con ingegno e con arte;\
-&emsp;Lo tuo piacer omai prendi per duce:\
+&emsp;Lo tuo piacer omai prende per duce:\
 &emsp;Fuor se' dell'erte (4) vie, fuor se' dell'arte (5).
 
 44 Traxi te huc cum ingenio et cum arte;\

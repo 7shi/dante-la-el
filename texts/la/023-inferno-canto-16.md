@@ -333,7 +333,7 @@ Modo respondit auctor huic petitioni, dicens: Gens nova et subita lucra arrogant
 &emsp;Quod quamquam loquuti fuissemus, non essemus auditi.
 
 32 Come quel f[i]umo, c'ha proprio cammino\
-&emsp;Prima da monte Veso inver levante\
+&emsp;Prima da monte volto inver levante\
 &emsp;Da la sinistra costa d'Apennino,
 
 32 Sicut ille fluvius, qui habet proprium iter\

@@ -55,7 +55,7 @@ Quantum ad primam partem notandum, quod tres species ludorum communiter ponuntur
 <!-- p. 491 (0545) -->
 
 4 Tal era io in quella turba spessa,\
-&emsp;Volgendo a loro qua e là la faccia,\
+&emsp;Volgendo allora qua e là la faccia,\
 &emsp;E promettendo mi scioglea da essa.
 
 4 Talis eram ego in illa turba spissa,\
@@ -87,7 +87,7 @@ Quantum ad primam partem notandum, quod tres species ludorum communiter ponuntur
 &emsp;Sicut dicebat, non propter culpam commissam,
 
 8 Pier de la Broccia dico: e qui proveggia,\
-&emsp;Mentr'è di qua, la donna di Brabante,\
+&emsp;Menar di qua, la donna di Brabante,\
 &emsp;Sì che però non sia di peggior greggia.
 
 8 Pierius de Broccia: et hinc provideat,\

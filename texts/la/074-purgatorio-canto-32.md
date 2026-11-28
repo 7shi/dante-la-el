@@ -11,7 +11,7 @@ sed omnia, que tu vides, nota bene, et scribas. Tunc auctor vidit hic multas per
 # Capitulum Tricesimumsecundum
 
 1 Tant'eran gl'ochi miei fixi et attenti\
-&emsp;A disbramarsi la decenne sete,\
+&emsp;A disbramarsi la decente sete,\
 &emsp;Che gl'altri sensi m'eran tucti spenti:
 
 1 Tantum erant oculi mei fixi et actenti\
@@ -85,7 +85,7 @@ Tantum erant oculi mei fixi et actenti, ad disbramandum se, idest ad satiandum d
 &emsp;Priusquam possit tota se mutare;
 
 8 Quella militia del celeste regno,\
-&emsp;Che precedeva, tucta trapassonne\
+&emsp;Che procedeva, tucta trapassonne\
 &emsp;Pria che piegasse il carro el primo legno (1).
 
 8 Illa militia celestis regni,\
@@ -184,7 +184,7 @@ Beatus es grifo, qui non scindis cum rostro de isto ligno dulci ad gustum, postq
 &emsp;Clamaverunt alii. Et animal binatum:\
 &emsp;Sic conservatur semen cuiuslibet iusti.
 
-17 E volto al temo ch'elli havea tirato,\
+17 E volti al temo ch'elli havea tirato,\
 &emsp;Trasselo al piè de la vedova frasca;\
 &emsp;E quel di lei a lei lasciò legato.
 
@@ -202,7 +202,7 @@ Beatus es grifo, qui non scindis cum rostro de isto ligno dulci ad gustum, postq
 
 19 Turgide fansi, e poi si rinnovella\
 &emsp;Di suo color ciascuna, pria che'l sole\
-&emsp;Giunga li suoi corsier senz'altra stella;
+&emsp;Giunct'à li suoi corsier senz'altra stella;
 
 19 Turgide fiunt, et postea renovantur\
 &emsp;De suo colore, priusquam sol\
@@ -337,7 +337,7 @@ Ideo transcurro [ad] quando me excitavi, quia hoc bene scio describere, et dico 
 &emsp;Que ad aliud intelligendum me clauserat.
 
 32 Sola sedeasi in su la terra vera,\
-&emsp;Come guardia lasciata lì del plaustro,\
+&emsp;Come guardia lasciata lì dal plaustro,\
 &emsp;Che legar vidi alla biforme fiera.
 
 32 Sola sedebat super terra vera,\

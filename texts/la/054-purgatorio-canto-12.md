@@ -390,7 +390,7 @@ De reverentia visum et actum orna, ita quod eum, scilicet delectet, inviare nos 
 
 36 Così s'allenta la ripa che cade\
 &emsp;Quivi ben rapta da l'altro girone:\
-&emsp;Ma quinci e quindi l'alta pietra rade.
+&emsp;Ma quinci e quindi l'altra pietra rade.
 
 36 Sic allentatur ripa que cadit\
 &emsp;Ibi bene ratta in alium gyronem:\
@@ -429,7 +429,7 @@ Sicut ad manum dextram, pro ascendendo ad montem, ubi sedet, scilicet Sancti Min
 &emsp;Sentiebam, et ibi infra per lamenta ferocia.
 
 39 Già montavàn su per li scaglon sancti,\
-&emsp;Et esser mi parea troppo più lieve,\
+&emsp;Et esser mi parea troppo pur lieve,\
 &emsp;Che per lo pian non mi parea davanti;
 
 39 Iam ascendebamus super scalas sanctas,\

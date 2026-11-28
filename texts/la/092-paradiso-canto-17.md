@@ -116,7 +116,7 @@ Modo auctor, confortatus a Beatrice de petendo, incipit petere ab isto spiritu d
 &emsp;Que prius loquuta michi erat, et sicut voluit\
 &emsp;Beatrix, fuit mea voluntas confessa.
 
-11 Non per ambage, in che la gente folle\
+11 Non per ambage, in chi la gente folle\
 &emsp;Già s'invescava pria che fosse anciso (1)\
 &emsp;L'Agnel di Dio che le peccata tolle,
 
@@ -424,7 +424,7 @@ Ego incepi, scilicet dicere, sicut ille, qui bramat, idest desiderat vel appetit
 &emsp;Apprehendi ego illud, quod, si ego refero,\
 &emsp;Multis erit sapor fortis et amarus;
 
-40 E s'io al vero son timido amico,\
+40 E s'io al vero son intimo amico,\
 &emsp;Temo di perder vita tra coloro\
 &emsp;Che questo tempo chiameranno antico.
 

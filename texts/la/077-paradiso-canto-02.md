@@ -377,7 +377,7 @@ Sed forte dabitur secunda pars, quod raritas illa non penetret totum corpus luna
 &emsp;Quomodo convenit quod equaliter resplendeat.
 
 36 Or (42) come a'colpi (43) de li caldi rai (44)\
-&emsp;De la nieve (45) riman nudo (46) el subiecto (47)\
+&emsp;Da la nieve (45) riman nudo (46) el subiecto (47)\
 &emsp;E dal colore (48) e da'freddi primai (49);
 
 36 Or, sicut ab ictibus calidorum radiorum\

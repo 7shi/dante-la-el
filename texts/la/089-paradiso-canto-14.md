@@ -372,7 +372,7 @@ Et non erat adhuc de meo pectore exhaustus, idest nondum erat completus ardor, i
 
 36 Ma chi prende suo' croce e segue Chrysto,\
 &emsp;Ancor mi scuserà di quel ch'io lasso,\
-&emsp;Vedendo quel albor balenar Chrysto.
+&emsp;Vedendo quel arbor balenar Chrysto.
 
 36 Sed qui apprehendit suam crucem et sequitur Christum,\
 &emsp;Aduc me excusabit de illo quod ego dimicto,\

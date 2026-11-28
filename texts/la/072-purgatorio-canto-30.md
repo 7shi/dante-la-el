@@ -64,14 +64,14 @@ Primo auctor more suo continuat dicta dicendis, ponendo quomodo firmavit se ille
 
 5 Quali e beati al novissimo (1) bando\
 &emsp;Surgeran presti, ognun di sua caverna (2),\
-&emsp;La revestita voce alleluiando,
+&emsp;La rovistata voce alleluiando,
 
 5 Quales beati in novissimo bando\
 &emsp;Surgent festini quilibet de sua caverna,\
 &emsp;Revestitam carnem alleluiando,
 
 6 Cotali, in su la divina basterna,\
-&emsp;Si levar cento, a voce tanti senis,\
+&emsp;Si levar gente, a voce tanti senis,\
 &emsp;Ministri e messagger di vita eterna.
 
 6 Tales super divina basterna,\
@@ -208,7 +208,7 @@ Et spiritus meus, qui iam tanto tempore steterat, [quod] cum sua presentia, scil
 
 20 Quasi ammiraglo, che 'n poppa et in prora\
 &emsp;Vien a veder la gente ch'amministra\
-&emsp;Per gl'altri legni (10), et a ben far l'incora (11),
+&emsp;Per gl'alti legni (10), et a ben far l'incora (11),
 
 20 Quasi admiralus, qui in puppi et in prora\
 &emsp;Venit ad videndum gentem que ministrat\
@@ -492,7 +492,7 @@ Aliquo tempore sustinui eum cum meo vultu, monstrando oculos iuvenculos sibi (se
 &emsp;Et illi, qui eum conduxit,\
 &emsp;Preces mee, plangendo, fuerunt porrecte.
 
-48 Alto fato (10) di Dio sarebbe rocto,\
+48 Alto facto (10) di Dio sarebbe rocto,\
 &emsp;Se Lethe (11) si passasse, e tal vivanda\
 &emsp;Fosse gustata senz'alcuno scocto\
 &emsp;Di pentimento che lagrime spanda.
@@ -525,7 +525,7 @@ La parte oriental tutta rosata\
 E l'altro ciel di bel sereno adorno,\
 E la faccia del sol nascere ombrata,\
 Sì che, per temperanza di vapori,\
-L'occhio la sostenea lunga fiata:\
+L'occhio lo sostenea lunga fiata:\
 Così dentro una nuvola di fiori,\
 Che dalle mani angeliche saliva\
 E ricadeva giù dentro e di fuori,\

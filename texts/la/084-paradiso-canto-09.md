@@ -74,7 +74,7 @@ Primo igitur auctor continuat dicta dicendis, a primo, apostrophando ad Karolum 
 &emsp;Super me, sicut prius, de caro assensu\
 &emsp;Ad meum desiderium certificatum me fecerunt.
 
-7 De! metti al mio voler tosto compenso,\
+7 De! mette al mio voler tosto compenso,\
 &emsp;Beato spirto, dissi, e fammi prova\
 &emsp;Che possa in te riflecter quel ch'io penso.
 
@@ -150,7 +150,7 @@ De! mictas, idest reponas, meo velle (dativi casus) cito compensum, scilicet com
 
 14 Questo centesimo anno ancor s'incinqua.\
 &emsp;Vedi se far si de' l'huomo excellente,\
-&emsp;Sì ch'altra vita la prima relinqua!
+&emsp;Sì ch'altra vita a la prima relinqua!
 
 14 Iste centesimus annus adhuc quintuplicabitur.\
 &emsp;Videas si homo fieri debet excellens,\

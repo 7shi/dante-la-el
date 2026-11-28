@@ -180,7 +180,7 @@ Quis crederet quod odor unius pomi, sic gubernaret, idest
 &emsp;Volvit ad me oculos una umbra, et respexit me fixe,\
 &emsp;Postea clamavit fortiter: Qualis gratia est ista?
 
-15 Mai non l'havrei riconosciuto al viso (2);\
+15 Mai non l'havrei riconosciuto 'l viso (2);\
 &emsp;Ma nella faccia sua mi fe' palese\
 &emsp;Ciò che l'aspecto in sè havea conquiso.
 
@@ -256,7 +256,7 @@ Facies tua, quam ego fui lacrymatus iam mortuam, quia auctor flevit quando sepul
 &emsp;Cadit virtus in aquam et in plantam\
 &emsp;Que remansit retro, unde ego me sic subtilio.
 
-22 Tuct'esta gente che piangendo è canta,\
+22 Tuct'esta gente che piangendo è tanta,\
 &emsp;Per seguitar la gola oltre misura,\
 &emsp;In fame e sete qui si rifà santa.
 

@@ -60,7 +60,7 @@ Notandum est quod ipse due gentes sic euntes, una contra aliam, fuerunt peccator
 
 5 Poi verso me, quanto potean farsi,\
 &emsp;Certi si feron, sempre con riguardo\
-&emsp;Di non uscir dove (2) non fusser arsi (3).
+&emsp;Di non usar dove (2) non fusser arsi (3).
 
 5 Postea versus me, quantum poterant facere se.\
 &emsp;Certi fecerunt se, et semper cum provisione\
@@ -68,7 +68,7 @@ Notandum est quod ipse due gentes sic euntes, una contra aliam, fuerunt peccator
 
 6 O tu, che vai, non per esser più tardo,\
 &emsp;Ma forse (4) reverente, agl'altri dopo,\
-&emsp;Rispondi a me che 'n sete et in foco ardo.
+&emsp;Risponde a me che 'n sete et in foco ardo.
 
 6 O tu, qui vadis, ut non sis magis tardus,\
 &emsp;Sed forsan reverens, post alios,\
@@ -132,7 +132,7 @@ Dic nobis, quomodo est quod facis de te parietem, idest obstaculum, soli, ac si 
 
 12 Così per entro loro schiera bruna\
 &emsp;S'amusa l'una coll'altra formica,\
-&emsp;Forse a spiar lor via e lor fortuna.
+&emsp;Forse a spiar lor vita e lor fortuna.
 
 12 Sic intra per earum aciem brunam\
 &emsp;Musat una cum alia formica,\
@@ -248,7 +248,7 @@ Modo auctor coniurat istas animas, ut indicent sibi, que anime sunt in illis dua
 
 23 Non altrimenti stupido si turba\
 &emsp;Lo montanaro, e rimirando ammuta (1),\
-&emsp;Quando rozzo e selvatico in se s'inurba,
+&emsp;Quando rozzo e selvatico in se inurba,
 
 23 Non aliter stupefactus turbatur\
 &emsp;Montanarius, et respiciendo obmutit,\
@@ -436,7 +436,7 @@ Versibus amoris et prosis romantie superavit, idest excessit, omnes; et permicte
 &emsp;Et sic firmarunt suam oppinionem\
 &emsp;Prius quam ars vel ratio per eos auscultetur.
 
-42 Così fer molti antichi di Guictone,\
+42 Così fer molti antichi di Guidone,\
 &emsp;Di grido in grido pur lui dando pregio,\
 &emsp;Finchè l'ha vincto el ver con più persone.
 

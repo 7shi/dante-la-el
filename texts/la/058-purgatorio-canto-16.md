@@ -123,7 +123,7 @@ Solum Agnus Dei erant ipsorum exordia: unum verbum erat in omnibus (Agnus assimi
 &emsp;Et interroga si hinc itur sursum.
 
 11 Et io (7): O creatura, che ti mondi\
-&emsp;Per tornar bella a colui che ti (8) fece,\
+&emsp;Per tornar bella a colui che mi (8) fece,\
 &emsp;Maravigla udirai se mi secondi (9).
 
 11 Et ego: O creatura, que te mundas\

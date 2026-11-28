@@ -259,7 +259,7 @@ Sicut discens, idest discipulus, qui doctorem sequitur, promptus et libens, in e
 <!-- p. 1114 (1168) -->
 
 25 Sperent in te, nella sua Theodia\
-&emsp;Dice a color che sanno el nome tuo:\
+&emsp;Dice a color che sanno el nome suo:\
 &emsp;E chi nol sa, s'elli ha fede mia?
 
 25 Sperent in te, in sua Theodia\

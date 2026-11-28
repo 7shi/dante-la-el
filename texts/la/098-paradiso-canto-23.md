@@ -17,7 +17,7 @@ In vicesimotertio capitulo, quod incipit: *Sicut avis inter amatas frondes*, auc
 &emsp;In nocte, que res nobis abscondit,
 
 2 Che, per veder gl'aspecti (2) desiati,\
-&emsp;E per trovar lo cibo onde li pasca,\
+&emsp;E per trovar lo cibo onde si pasca,\
 &emsp;In che gravi labor (3) gli son agiati (4),
 
 2 Que, propter videre aspectus desideratos,\
@@ -388,7 +388,7 @@ Modo describit auctor dulcedinem cantus, quem cantavit Gabriel coram Virgine, pe
 
 38 Lo real manto di tutti e volumi\
 &emsp;Del mondo, che più ferve e più s'avviva\
-&emsp;Nell'alito di Dio e ne'costumi,
+&emsp;Nell'habito di Dio e ne'costumi,
 
 38 Regale mantum omnium voluminum\
 &emsp;Mundi, quod magis fervet et magis vivificatur\

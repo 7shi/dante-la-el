@@ -47,7 +47,7 @@ Ille sol, qui prius amore michi calefecerat pectus, qui [est] Beatrix, que novem
 <!-- p. 851 (0905) -->
 
 3 Ma visione apparve, che ritenne\
-&emsp;A sè me tanto streto per vedersi,\
+&emsp;Sè a me tanto streto per vedersi,\
 &emsp;Che di mia confexion non mi sovvenne.
 
 3 Sed visio apparuit, que retinuit\
@@ -230,7 +230,7 @@ Nostri affectus, qui sunt inflammati solum in complacentia Spiritus Sancti, leti
 
 21 Però non fui a rimembrar festino;\
 &emsp;Ma hor m'aiuta ciò che tu mi dici,\
-&emsp;Sicchè raffigurar m'è più latino.
+&emsp;Sicchè transfigurar m'è più latino.
 
 21 Ideo non fui ad recognoscendum festinus;\
 &emsp;Sed nunc adiuvat me illud quod dicis,\

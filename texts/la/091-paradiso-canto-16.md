@@ -74,7 +74,7 @@ O pauca nostra nobilitas sanguinis, si de te facis gloriari gentem hic inferius,
 &emsp;Vos michi datis ad loquendum tantam audaciam,\
 &emsp;Vos me elevatis ita, quod ego sum plus quam ego.
 
-7 Per tanti rivi s'empie d'allegrezza\
+7 Per tanti rivi sempr' è d'allegrezza\
 &emsp;La mente mia, che di sè fa letitia\
 &emsp;Perchè sostener pò che non si spezza.
 
@@ -120,7 +120,7 @@ Ex quo igitur michi datis tantum gaudium, peto a vobis quatuor: scilicet, qui fu
 
 11 E com' agl' ochi miei si fe'più bella,\
 &emsp;Così con voce più dolce e suave,\
-&emsp;Ma non con questa moderna favella,
+&emsp;Ma non con questa mondana favella,
 
 11 Et sicut oculis meis fuit facta pulchrior,\
 &emsp;Sic cum voce magis dulci et suavi,\
@@ -134,7 +134,7 @@ Ex quo igitur michi datis tantum gaudium, peto a vobis quatuor: scilicet, qui fu
 &emsp;Partui in quo mater mea, que nunc est sancta,\
 &emsp;Se alleviavit de me unde erat gravis,
 
-13 Al suo Leone cinquecen cinquanta\
+13 Al sol Leone cinquecen cinquanta\
 &emsp;E trenta fiate venn'esto foco\
 &emsp;A rinfiammarsi socto la sua pianta.
 
@@ -264,7 +264,7 @@ Modo dicit auctor, quod confusio et commixtio personarum, maxime forensium, prin
 
 <!-- p. 1013 (1067) -->
 
-25 Se tu riguardi Luni et Orbisagla\
+25 Se tu rigardi Luni et Orbisagla\
 &emsp;Come son ite, e come se ne vanno\
 &emsp;Dirieto a esse Chiusi e Sinigagla,
 
@@ -424,7 +424,7 @@ Modo tangit aliam domum, scilicet domum de Donatis, de qua descendit alia domus,
 
 41 Già era Caponsacho nel mercato\
 &emsp;Disceso giù da Fiesole, e già era\
-&emsp;Buon cittadino Guido et Infangato.
+&emsp;Buon cittadino Guida et Infangato.
 
 41 Iam erat Capoinsacco in mercato\
 &emsp;Descendens a Fiesolis, et iam erat\

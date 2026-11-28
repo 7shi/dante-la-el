@@ -116,7 +116,7 @@ Modo describitur sonus suavis qui erat ibi. Et unum melos dulce currebat per aie
 
 <!-- p. 762 (0816) -->
 
-9 Che, là ove ubbidia la terra e 'l cielo,\
+9 Che, là ove ubbidia la terra al cielo,\
 &emsp;Femina (1) pur testè testè formata (2),\
 &emsp;Non sofferse di star socto alcun velo;
 
@@ -157,7 +157,7 @@ Modo describitur sonus suavis qui erat ibi. Et unum melos dulce currebat per aie
 &emsp;Causa me stimulat ut ad vos mercedem clamem.
 
 14 Hor convien ch' Elycona (8) per me versi,\
-&emsp;E Urania me aïuti col suo choro (9),\
+&emsp;Et hora me aïuti col suo choro (9),\
 &emsp;Forti cose a pensar (10), mecter in versi (11).
 
 14 Nunc convenit quod Elicona pro me versit,\
@@ -193,7 +193,7 @@ Iam auctor, volens describere istam Ecclesiam, invocat merito, quia nedum in max
 &emsp;Non perdebat propter distantiam aliquem suum actum;
 
 17 La virtù ch'a ragion discorso ammanna,\
-&emsp;Sì com'elli eran candelabri apprese,\
+&emsp;Sì com'elli eran candelabri accese,\
 &emsp;E nelle voci del cantar, Osanna.
 
 17 Virtus que rationabiliter discursum adducit,\
@@ -258,7 +258,7 @@ Inde reddi[di] aspectum altis rebus, idest ad illa candelabra me volvi, que se m
 
 23 L'acqua imprendea dal sinistro fianco,\
 &emsp;E rendeami (2) la mia sinistra costa,\
-&emsp;S' i' riguardava in lei, come specchio anco.
+&emsp;S' i' riguardava in lei, come specchi anco.
 
 23 Aqua representabat a sinistro latere,\
 &emsp;Et reddebat michi meam sinistram costam,\
@@ -282,7 +282,7 @@ Inde reddi[di] aspectum altis rebus, idest ad illa candelabra me volvi, que se m
 
 26 Sì che di sopra rimanea distincto\
 &emsp;Di septe liste, tucte in quei colori,\
-&emsp;Onde fa l'arco el sol (4), et Delia il cinto.
+&emsp;Onde fa l'arco el sol (4), et Elya il cinto.
 
 26 De quibus ipse desuper remanebat distinctus\
 &emsp;In septem listas, omnes in illis coloribus,\

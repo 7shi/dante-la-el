@@ -214,7 +214,7 @@ Hic magister, idest dixit: Ut totam plenam experientiam istius gironis, idest ci
 
 19 Che dal collo a ciascun pend' (4) una tasca,\
 &emsp;C'havea certo color e certo segno,\
-&emsp;E quindi par che l'occhio (5) si pasca.
+&emsp;E quindi par che l'orechie (5) si pasca.
 
 19 Quod a collo cuilibet pendebat una tasca,\
 &emsp;Que habebat certum colorem et certum signum,\
@@ -323,7 +323,7 @@ Nunc Virgilius incantat Dantem, quod non timeat, sed sit bene audax, et quando r
 &emsp;Ita ut cauda non possit tibi facere malum.
 
 29 Qual è colui, ch'è sì presso al riprezzo\
-&emsp;De la quartana, c'ha già l'unghia smorte,\
+&emsp;De la quartana, c'ha già l'unghia morte,\
 &emsp;E trema tutto sol guardando el rezzo,
 
 29 Qualis est ille, cui appropinquat riprezzum\
@@ -433,7 +433,7 @@ Ad intelligendum duas comparationes hic positas, oportet notare duas hystorias, 
 &emsp;Omnem visionem, excepta illius fere.
 
 39 Ella sen va notando lenta lenta;\
-&emsp;Rota (2), e discende, ma non me n'accorgo,\
+&emsp;Rota (2), e discendo, ma non me n'accorgo,\
 &emsp;Se non ch'al viso e di sotto mi venta.
 
 39 Illa ibat natando lenta, lenta;\

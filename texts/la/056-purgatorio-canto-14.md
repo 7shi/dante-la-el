@@ -262,7 +262,7 @@ Sanguinolentus exit de tristi silva; dimictit eam talem, quod tunc ad mille anno
 
 23 Come all'annuntio de' futuri (1) danni\
 &emsp;Si turba'l viso di colui ch'ascolta,\
-&emsp;Da quel che parte el perigo e l'assanni;
+&emsp;Da quel che parte el perigo e gl'affanni;
 
 23 Sicut [ad] annuntiationem dolorosorum dampnorum\
 &emsp;Turbatur visus illius qui auscultat,\

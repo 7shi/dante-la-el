@@ -350,7 +350,7 @@ Iam auctor facit petitionem, dicens: Sicut michi bonum
 
 32 E 'l santo sene: A ciò che tu assommi\
 &emsp;Perfectamente, disse, el tuo cammino,\
-&emsp;A che prego et amor sancto mandommi,
+&emsp;A chi prego et amor sancto mandommi,
 
 32 Et sanctus senex: Ad hoc ut tu assumas\
 &emsp;Perfecte, dixit, tuum iter,\

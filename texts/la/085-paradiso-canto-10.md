@@ -306,7 +306,7 @@ Postea [quam], sic cantantes, illi ardentes, idest splendentes, soles, idest ani
 
 <!-- p. 938 (0992) -->
 
-28 E dentro all'un sentii cominciar: Quando\
+28 E dentro alcun sentii cominciar: Quando\
 &emsp;Lo raggio de la gratia, onde s'accende\
 &emsp;Verace amor, e che poi cresce amando,
 
