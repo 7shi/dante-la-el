@@ -368,7 +368,7 @@ Modo applicat ad propositum ea que dicta sunt, dicens: Quare non debet apparere 
 
 36 Lo ceppo, di che nacquero e Calfucci,\
 &emsp;Già era grande, e già eran tracti\
-&emsp;Alle curule Sitii et Arrigucci.
+&emsp;Alle carole Sitii et Arrigucci.
 
 36 Cippus, de quo nati sunt Galfucii,\
 &emsp;Erat iam grandis, et iam erant tracti\

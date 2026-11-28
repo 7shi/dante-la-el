@@ -381,7 +381,7 @@ Sed ipse, scilicet Virgilius, qui aliis vicibus michi subvenerat in aliis puncti
 &emsp;Cogita novam salmam quam habes.
 
 34 Come la navicella esce dal loco\
-&emsp;Indietro indietro, sì quinci si tolse;\
+&emsp;Indietro indietro, sì quinci mi tolse;\
 &emsp;E poi che tutta si sentì a gioco,
 
 34 Sicut navicula exit de loco\

@@ -71,7 +71,6 @@ page	line	printed	fixed	applied	source	note
 0131	53	index	iudex	yes	edition	A turned `u`; GLM-OCR and Tesseract read `index` too.
 0133	54	nora	nova	yes	page	Italic lemma; the image shows `nora`; the Latin verse has `nova`.
 0135	105	verecumdabatur	verecundabatur	yes	edition	Printed `m`. Possibly the edition's spelling.
-0136	13	mondo	modo	yes	page	Italian verse V 102 (the Latin `modus`); found by the read-through.
 0136	26	ractus	raptus	yes	edition	`ct` for `pt` may be the manuscript's spelling.
 0138	80	morirer	morerer	no	page	May be the manuscript's spelling.
 0139	19	moltiplicita	moltiplicità	yes	edition	Essay; no accent visible; found by the read-through.
@@ -111,15 +110,12 @@ page	line	printed	fixed	applied	source	note
 0189	57	spondidi	spondi	yes	page	Italic lemma (`re-` / `spondidi`); the Latin verse 17 has `Respondi`.
 0190	56	mortaus	mortuus	yes	edition	Commentary; `a` for `u`; found by check 2.
 0190	78	rea-	reac-	yes	page	Commentary (`rea-` / `censa`), quoting the Latin verse 27 (`reaccensa`); one `c`.
-0192	5	nostra	vostra	yes	page	Italian verse X 94 (the Latin `vestrum semen`); found by the read-through.
-0193	13	nostro	vostro	yes	page	Italian verse X 99 and 105 (the Latin `in presenti`, `de vestro statu`); found by the read-through.
 0196	8	di	dì	yes	edition	Essay; no accent visible; found by the read-through.
 0196	13	svani	svanì	yes	edition	Essay; no accent visible; found by the read-through.
 0201	20	prima	priva	yes	page	Italian verse XI 43–44 (the Latin `privat se`, `fundit`); found by the read-through.
 0202	19	consumcto	consunto	yes	page	Italian verse XI 66; not a word; found by the read-through.
 0204	41	volre	volve	yes	page	Italic lemma (Latin verse `te volve`); `r` for `v`, as 0154.
 0208	10	disconscesa	discoscesa	yes	page	Italian verse XII 9 and 12 (the Latin `erat distensa`; the rhyme); found by the read-through.
-0208	14	discesa	distesa	yes	page	Italian verse XII 9 and 12 (the Latin `erat distensa`; the rhyme); found by the read-through.
 0208	58	lucus	locus	yes	edition	The sense needs `locus`.
 0211	86	lux	lis	yes	page	Empedocles' strife and love (`amor et discordia`); found by the read-through.
 0213	71	temptarit	temptavit	yes	page	Italic lemma (Latin verse `temptavit`); `r` for `v`, as 0154 and 0204; found by the read-through.
@@ -143,7 +139,6 @@ page	line	printed	fixed	applied	source	note
 0258	19	dore	dove	yes	page	Italic lemma; the italic `r` of `era` beside it, as 0154 and 0204; found by check 2.
 0259	25	tra loro e'l	'n contrario il	no	dante	Italian verse XVI (the Latin `in contrarium collum`); the wording of the edition's line is not certain; found by the read-through.
 0259	47	prerogatiram	prerogativam	yes	page	Latin verse 23; an italic `r` for `v`, as 0154 `traraglia`.
-0261	5	loco	foco	yes	page	Italian verse XVI (the Latin `ab igne coopertus`); found by the read-through.
 0261	21	bonum	bonam	yes	page	Latin verse; an open `u`.
 0263	24	volto	Veso	yes	page	Italian verse XVI (the Latin `a monte Veso`); found by the read-through.
 0267	3	societa	società	yes	edition	Essay; no accent visible; found by the read-through.
@@ -156,7 +151,6 @@ page	line	printed	fixed	applied	source	note
 0273	22	l'orechie	l'occhio	yes	page	Italian verse XVII (the Latin `exibat dolor`, `oculus`); found by the read-through.
 0274	108	veluit	voluit	yes	edition	Found by check 2.
 0275	9	morte	smorte	yes	page	Italian verse XVII (the commentary `smorte`); found by the read-through.
-0276	9	mi	si	yes	page	Italian verse XVII (the Latin `inde se tollit`); found by the read-through.
 0277	12	discendo	discende	yes	page	Italian verse XVII (the Latin `Rotat et descendit`); found by the read-through.
 0279	68	realta	realtà	yes	edition	Essay; no accent visible; found by the read-through.
 0295	70	st	est	yes	edition	Commentary; the `e` not printed; found by check 2.
@@ -176,7 +170,6 @@ page	line	printed	fixed	applied	source	note
 0349	45	cum	eum	yes	edition	Commentary; found by the read-through.
 0350	6	3	2	yes	page	Italian verse; the first tercet is `1`, the Latin column has `2`.
 0350	6	sempra	assempra	yes	page	Italian verse XXIV (the Latin `exemplatur`); found by the read-through.
-0351	20	ponte	monte	yes	page	Italian verse XXIV (the Latin `ad pedem montis`); found by the read-through.
 0354	32	scipantur	stipantur	yes	page	Latin verse (the commentary `stipantur`); found by the read-through.
 0356	94	fiuxit	finxit	yes	edition	Commentary; `u` for `n`; found by check 2.
 0359	14	facolta	facoltà	yes	edition	Essay; no accent visible; found by the read-through.
@@ -213,7 +206,6 @@ page	line	printed	fixed	applied	source	note
 0418	57	stabili	stabilì	yes	edition	Essay; no accent visible; found by the read-through.
 0418	62	Si	Sì	yes	edition	Essay; no accent visible; found by the read-through.
 0423	18	sn	su	yes	edition	Italian verse runover; the image shows `sn` (a turned `u`).
-0424	20	lassai	falsai	yes	page	Italian verse XXX (the Latin `falsificavi`); found by the read-through.
 0424	25	Blanda	Branda	yes	page	Italian verse XXX (the Latin `Fontem Brandam`); found by the read-through.
 0426	26	reo	rea	yes	page	Italian verse XXX (the Latin `rea sitis`); found by the read-through.
 0429	86	si	sì	yes	edition	Essay; no accent visible; found by the read-through.
@@ -344,7 +336,6 @@ page	line	printed	fixed	applied	source	note
 0643	68	liberta	libertà	yes	edition	Essay; no accent visible; found by the read-through.
 0643	93	puo	può	yes	edition	Essay; no accent visible; found by the read-through.
 0643	96	piu	più	yes	edition	Essay; no accent visible; found by the read-through.
-0647	16	mondo	modo	yes	page	Italian verse XV (the Latin `per modum`); found by the read-through.
 0647	25	co	eo	yes	page	Latin verse; an italic `c` without the eye, as 0085 `co`; found by the verse reading; found again by the read-through.
 0652	9	(3)	(8)	yes	page	Italian verse 37; gloss mark `(3)` for `(8)`, whose note is `in ginocchione` (the `(3)` of the page is `lapidare`); found by the verse reading.
 0652	75	Phsi-	Phisi-	yes	edition	Commentary (`Phsi-` / `strato`); `Phisistrato` on line 35 of the page; both OCRs read `Phsi-`.
@@ -383,8 +374,6 @@ page	line	printed	fixed	applied	source	note
 0720	8	conduceami	condoleami	yes	page	Italian verse XXI (the Latin `condolebam`); found by the read-through.
 0720	37	viggio	veggio	yes	page	Italian verse XXI; found by the read-through.
 0721	19	tante	tanto	yes	page	Italian verse XXI (the Latin `tantum`); found by the read-through.
-0722	5	per colei	perchè lei	yes	page	Italian verse XXI (the Latin `Sed quia illa`); found by the read-through.
-0722	10	mondo	modo	yes	page	Italian verse XXI (the Latin `ad modum`); found by the read-through.
 0722	17	cuna	cruna	yes	page	Italian verse XXI (the Latin `crunam`); found by the read-through.
 0723	24	tutt'è libero	tutta libera	yes	page	Italian verse XXI (the Latin `tota libera`); found by the read-through.
 0723	25	sorpiendo	sorprende	yes	page	Italian verse XXI (the Latin `tota libera`); found by the read-through.
@@ -488,7 +477,6 @@ page	line	printed	fixed	applied	source	note
 0788	7	giron	giorno	yes	page	Italian verse XXVII (the Latin `dies`); found by the read-through.
 0790	12	'n qua	oltre	no	page	Italian verse XXVII (the Latin `ultra`); where `oltre` stands in the edition's line is not certain; found by the read-through.
 0790	21	volse	volsi	yes	page	Italian verse XXVII (the Latin `Volvi me`); found by the read-through.
-0792	18	mondo	monte	yes	page	Italian verse XXVII (the Latin `montis`); found by the read-through.
 0792	31	tutti quindi	quinci e quindi	yes	page	Italian verse XXVII (the Latin `hinc et inde`); found by the read-through.
 0793	64	fascidiati	fasciati	yes	edition	Commentary; found by the read-through.
 0796	12	prende	prendi	yes	page	Italian verse XXVII (the Latin `apprehendas`); found by the read-through.
@@ -516,7 +504,6 @@ page	line	printed	fixed	applied	source	note
 0816	21	Et hora	E Urania	yes	page	Italian verse (the Latin `Eurania me adiuvet`); found by the read-through.
 0816	32	Sensisset	Sensissem	yes	page	Latin verse (the Italian `Havrei`); found by the read-through.
 0816	74	delitie	primitie	yes	page	Commentary, the lemma (the verse `tra tante primitie`); found by the read-through.
-0817	9	l'obliquo	l'obiecto	yes	page	Italian verse (the Latin `obiectum comune`); found by the read-through.
 0817	12	accese	apprese	yes	page	Italian verse (the Latin `apprehensa`); found by the read-through.
 0818	13	specchi	specchio	yes	page	Italian verse (the Latin `sicut in speculo`); found by the read-through.
 0818	22	Elya	Delia	yes	page	Italian verse (the Latin `et Delia cinctum`); found by the read-through.
@@ -556,7 +543,6 @@ page	line	printed	fixed	applied	source	note
 0851	19	primavera	prima avea	yes	page	Italian verse (the Latin `Que prius habebat`; the essay on 0858); found by the read-through.
 0852	38	Thaber	Thabor	yes	edition	Commentary (line 87 `Thabor`); found by the read-through.
 0853	27	dal	del	yes	page	Italian verse (the Latin `plaustri`); found by the read-through.
-0854	10	torma	Roma	yes	page	Italian verse (the Latin `Illius Rome`); found by the read-through.
 0855	20	iciuna	ieiuna	yes	page	Latin verse; an italic `c` without the eye; the commentary has `ieiuna`.
 0856	8		44 	yes	page	Italian tercet 44 has no number, as 0363; found by the verse reading.
 0857	21	pintis	promptis	yes	page	Latin verse (the commentary `circum promptis`); as 0804 `pinte`; found by the read-through.
@@ -580,7 +566,6 @@ page	line	printed	fixed	applied	source	note
 0881	7	lassu	lassù	yes	edition	Italian verse; no accent visible; found by the read-through.
 0881	88	ergo	ego	yes	page	Commentary, the lemma (the verse `Si ego eram`); found by the read-through.
 0882	19	Mai	Ma	yes	page	Italian verse (the Latin `Sed fulgur fugiens a proprio situ`); found by the read-through.
-0882	19	primo	proprio	yes	page	Italian verse (the Latin `Sed fulgur fugiens a proprio situ`); found by the read-through.
 0883	17	Ha un ordine	Hanno ordine	yes	page	Italian verse (the Latin `Habent ordinem`); found by the read-through.
 0884	50	actus	arcus	yes	page	Latin verse (the Italian `arco`, the commentary `iste arcus`); found by the read-through.
 0886	11	si si	si	yes	edition	Gloss; a word doubled; found by the read-through.
@@ -621,7 +606,6 @@ page	line	printed	fixed	applied	source	note
 0929	91	arbitrum	arbitrium	yes	edition	Commentary; the `i` not printed; found by check 2.
 0931	79	si	sì	yes	edition	Commentary, the lemma; no accent visible; found by the read-through.
 0931	93	limine	lumine	yes	page	Commentary (`in` / `limine illius`; the verse `in lumine illius`); found by the read-through.
-0932	24	primo	proprio	yes	page	Italian verse (the Latin `In proprio lumine`); found by the read-through.
 0934	33	Si	Sì	yes	edition	Essay; no accent visible; found by the read-through.
 0934	61	unita	unità	yes	edition	Essay; no accent visible; found by the read-through.
 0936	38	coniudicare	iudicare	yes	edition	Commentary, the division (0944 `Omai poi iudicare`); found by the read-through.
@@ -735,7 +719,6 @@ page	line	printed	fixed	applied	source	note
 1066	102	infirmate	infirmitate	yes	edition	Commentary; `it` not printed; found by check 2.
 1067	5	rigardi	riguardi	yes	edition	Italian verse XVI 73 (`riguardi` where it is quoted again); the commentary; found by the read-through.
 1067	73	defe-	defece-	yes	edition	Commentary (`idest defe-` / `runt`, for `defecerunt`); found by the read-through.
-1068	25	carole	curule	yes	page	Italian verse XVI 108 (the Latin `curules`); the commentary (the verse `Galli`); found by the read-through.
 1068	92	Galla	Galli	yes	page	Italian verse XVI 108 (the Latin `curules`); the commentary (the verse `Galli`); found by the read-through.
 1069	19	Guida	Guido	yes	page	Italian verse XVI 119 and 123 (the Latin `Ubertino`, `Guido`); the commentary, `c` for `e`; found by the read-through.
 1069	77	mansuctus	mansuetus	yes	page	Italian verse XVI 119 and 123 (the Latin `Ubertino`, `Guido`); the commentary, `c` for `e`; found by the read-through.

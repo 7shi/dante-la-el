@@ -366,7 +366,7 @@ Sola sedebat super terram veram, ad differentiam nostre terre, non producentis i
 
 34 Qui sarai tu poco tempo silvano,\
 &emsp;E sarai meco, senza fine, cive\
-&emsp;Di quella Roma onde Chrysto è romano;
+&emsp;Di quella torma onde Chrysto è romano;
 
 34 Hic eris tu pauco tempore silvanus,\
 &emsp;Et eris mecum, sine fine, civis\

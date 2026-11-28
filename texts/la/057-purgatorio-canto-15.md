@@ -76,7 +76,7 @@ Sed hic oritur dubium: quod videtur, secundum multa predicta, quod, quando est m
 
 6 Come quando dall'acqua o dallo spe[chio]\
 &emsp;Salta lo raggio all'opposita parte,\
-&emsp;Salendo, su per lo modo, parechio
+&emsp;Salendo, su per lo mondo, parechio
 
 6 Sicut quando ab aqua vel a speculo\
 &emsp;Saltat [radius] ad oppositam partem,\

@@ -34,7 +34,7 @@ In duodecimo capitulo, quod incipit: *Locus per quem descendere*, etc., auctor d
 
 4 Cotal di quel burrato era la scesa.\
 &emsp;E in su la punta de la rotta laccha\
-&emsp;L'infamia (2) di Creta (3) era distesa,
+&emsp;L'infamia (2) di Creta (3) era discesa,
 
 4 Talis illius buracti erat descensus.\
 &emsp;Et in principio rupte lacche\

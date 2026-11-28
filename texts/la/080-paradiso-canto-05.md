@@ -441,7 +441,7 @@ Modo per talem comparationem ostendit, quomodo vidit spiritus multos in isto pla
 &emsp;Secure, et crede sicut Diis.
 
 42 Io veggio ben sì come tu t'annidi\
-&emsp;Nel proprio lume, e che dagl'ochi traggi;\
+&emsp;Nel primo lume, e che dagl'ochi traggi;\
 &emsp;Perchè ei corruscan sì, come tu ridi;
 
 42 Ego video bene sicut tu te annidas\

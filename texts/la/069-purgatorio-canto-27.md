@@ -271,7 +271,7 @@ Venite, venite, benedicti Patris mei (verba sunt evangelica Matthei vicesimoquin
 &emsp;Et nox haberet omnes suas dispensationes,
 
 25 Ciascun di noi d'un grado (3) fece lecto;\
-&emsp;Chè la natura del monte (4) ci affranse\
+&emsp;Chè la natura del mondo (4) ci affranse\
 &emsp;La forza del salir più [ch'] el dilecto (5).
 
 25 Quilibet de uno gradu fecit lectum;\

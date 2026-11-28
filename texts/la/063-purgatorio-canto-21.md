@@ -108,7 +108,7 @@ Et doctor, supple ait: Si tu respicis signa que iste portat, idest peccata que d
 
 <!-- p. 668 (0722) -->
 
-9 Ma perchè lei (1) che dì e nocte fila.\
+9 Ma per colei (1) che dì e nocte fila.\
 &emsp;Non gli havea tracto ancora la conochia,\
 &emsp;Che Cloto impone a ciascuno e compila,
 
@@ -118,7 +118,7 @@ Et doctor, supple ait: Si tu respicis signa que iste portat, idest peccata que d
 
 10 L'anima sua, ch'è tua e mia sirochia,\
 &emsp;Venendo su non potea venir sola;\
-&emsp;Però ch'al nostro modo non adochia.
+&emsp;Però ch'al nostro mondo non adochia.
 
 10 Anima sua, que est tua et mea soror,\
 &emsp;Veniendo sursum, non poterat venire sola;\

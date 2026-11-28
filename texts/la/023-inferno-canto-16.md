@@ -184,7 +184,7 @@ Dicit: Bene scio quod tu deberes habere nos ad sc[h]ivum, idest ad fastidium, tu
 
 <!-- p. 207 (0261) -->
 
-16 S'io fossi stato dal foco coperto,\
+16 S'io fossi stato dal loco coperto,\
 &emsp;Gittato mi sarei tra loro disocto,\
 &emsp;E credo che 'l doctor (1) l'havria sofferto.
 

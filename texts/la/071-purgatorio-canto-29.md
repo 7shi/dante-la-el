@@ -185,7 +185,7 @@ Iam auctor, volens describere istam Ecclesiam, invocat merito, quia nedum in max
 &emsp;Medietatis, adhuc inter nos et ipsas:
 
 16 E quando fui sì presso di lor facto,\
-&emsp;Che l'obiecto comun, che 'l senso inganna,\
+&emsp;Che l'obliquo comun, che 'l senso inganna,\
 &emsp;Non perdea [per] distantia alcun suo acto;
 
 16 Sed quando ego fui ita prope eas factus,\

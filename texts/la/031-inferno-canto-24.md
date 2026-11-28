@@ -76,7 +76,7 @@ Dicit hic auctor: In illa parte iuvenculi anni. Vocat hic auctor annum iuvenculu
 
 7 Chè come noi venimmo al guasto ponte.\
 &emsp;Lo duc'a me si volse con quel piglo\
-&emsp;Dolce, ch'io vidi prima a piè del monte.
+&emsp;Dolce, ch'io vidi prima a piè del ponte.
 
 7 Quia sicut nos venimus ad destructum pontem,\
 &emsp;Dux ad me se vertit cum illo aspectu\

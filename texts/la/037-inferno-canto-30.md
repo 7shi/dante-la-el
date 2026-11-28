@@ -262,7 +262,7 @@ Gravis ydropisis, idest que facit stare ydropicum ita gravem, que sic disparific
 &emsp;Trahit causam de loco ubi ego peccavi,\
 &emsp;Ad mictendum plus mea suspiria in fugam.
 
-25 Ivi (12) è Romena (13) là, dov'io falsai\
+25 Ivi (12) è Romena (13) là, dov'io lassai\
 &emsp;La legha (14) suggellata del Baptista,\
 &emsp;Perch'io el corpo su arso lassai.
 

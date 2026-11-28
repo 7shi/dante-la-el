@@ -416,7 +416,7 @@ Dantes hic istos, sicut de more fit ab aliquibus dicentibus alicui: Facias hoc s
 
 34 Amor, ch'al cor gentil rapto s'apprende,\
 &emsp;Prese costui de la bella persona\
-&emsp;Che mi fu tolta, e 'l modo ancor m'offende.
+&emsp;Che mi fu tolta, e 'l mondo ancor m'offende.
 
 34 Amor, qui cordi gentili raptus se apprehendit,\
 &emsp;Cepit istum de pulchra persona\

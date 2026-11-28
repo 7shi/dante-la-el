@@ -101,9 +101,10 @@ its page and gets its row in `misprints.tsv` at once.
     (decided 2026-11-28): a reading that differs from the Latin or from Dante's text is
     kept as printed when it is Italian that fits the grammar, the metre and the rhyme. A
     misprint is a form that is not a word, a broken agreement or construction, a short or
-    long line, a broken rhyme, or a slip of a letter or two; the Latin may give the fixed
-    form, but a difference from it is not enough. 80 rows were taken back to the print on
-    this rule (0731 and 79 others, among them the whole lines of 0133 and 0514), their
+    long line, or a broken rhyme, and its fix changes a few letters; a word that reads as
+    printed is not exchanged for another, even one a letter away (`mondo` for `modo`,
+    `loco` for `foco`). The Latin may give the fixed form, but a difference from it is not
+    enough. 97 rows were taken back to the print on this rule (0731 and 96 others, among them the whole lines of 0133 and 0514), their
     `readcheck.tsv` rows now `printed`.
   - `ocr/scripts/misprints.py ocr/la` checks that every `yes` row is one mark at its page and
     line, and every mark a `yes` row; with `--fix-lines` it writes the new line of a mark

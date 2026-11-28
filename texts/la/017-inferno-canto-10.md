@@ -370,7 +370,7 @@ Notandum quod tempore illo, quo dominus Farinata erat extra exul et expulsus cum
 
 <!-- p. 138 (0192) -->
 
-32 De! se riposi mai vostra semenza,\
+32 De! se riposi mai nostra semenza,\
 &emsp;Prega'io lui, solvetemi quel nodo,\
 &emsp;Che qui ha inviluppata mia sentenza.
 
@@ -402,7 +402,7 @@ Adhuc est notandum, quod primus rex romanorum de Theutonicis fuit Fredericus Bar
 
 35 Quando s'appressono, o son (3), tutt'è vano\
 &emsp;Nostro intellecto; e s'altri non ci apporta,\
-&emsp;Nulla sapem (4) di vostro stato humano.
+&emsp;Nulla sapem (4) di nostro stato humano.
 
 35 Quando se appropinquant, et sunt, totus est vanus\
 &emsp;Noster intellectus, et si alter non nobis apportat,\

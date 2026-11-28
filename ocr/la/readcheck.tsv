@@ -277,7 +277,7 @@ page	line	form	decision	note
 0134	61	quos	printed	Italic lemma; Serravalle's Latin
 0135	6	Muove	printed	Italian verse; the edition's reading
 0135	28	dulce nidum	printed	Latin verse; Serravalle's Latin
-0136	13	mondo	misprint	Italian verse V 102; Dante has modo (the Latin modus)
+0136	13	mondo	printed	the manuscript's reading, kept against the Latin (was misprint: Italian verse V 102; Dante has modo (the Latin modus))
 0136	20	tibi	printed	Latin verse; Serravalle's Latin
 0136	29	nullo amato	printed	Latin verse; Serravalle's Latin
 0136	33	Dic quod	printed	Italic lemma; as printed
@@ -421,12 +421,12 @@ page	line	form	decision	note
 0191	35	nunquam	printed	Serravalle's Latin
 0191	40	Lustratio	printed	Italic lemma; as printed
 0191	77	liberetis	printed	Serravalle's Latin
-0192	5	nostra	misprint	Italian verse X 94; Dante has vostra (the Latin vestrum semen)
+0192	5	nostra	printed	the manuscript's reading, kept against the Latin (was misprint: Italian verse X 94; Dante has vostra (the Latin vestrum semen))
 0192	10	solvitis	printed	Latin verse; Serravalle's Latin
 0192	88	proverbiam	misread	was proverbiam; the image has proverbium (Tesseract too)
 0193	6	presente	printed	Italian verse; the edition's reading
 0193	7	futuro	printed	the manuscript's reading, kept against the Latin (was misprint: Italian verse X 99; Dante has presente (the Latin in presenti))
-0193	13	nostro	misprint	Italian verse X 105; Dante has vostro (the Latin de vestro statu)
+0193	13	nostro	printed	the manuscript's reading, kept against the Latin (was misprint: Italian verse X 105; Dante has vostro (the Latin de vestro statu))
 0193	31	Et futuri	printed	Latin verse; Serravalle's Latin
 0193	38	duo Frederici	printed	Serravalle's gloss
 0193	42	Admodum	printed	Serravalle's word
@@ -459,7 +459,7 @@ page	line	form	decision	note
 0205	34	viam,	printed	vitam expected
 0205	42	admodum	printed	ammodo expected; the lemma as printed
 0208	10	disconscesa,	misprint	discoscesa
-0208	14	discesa,	misprint	distesa (the Latin distensa)
+0208	14	discesa,	printed	the manuscript's reading, kept against the Latin (was misprint: distesa (the Latin distensa))
 0208	58	lucus,	misprint	already in Suspected misprints
 0210	76	siccat,	printed	fiaccat expected
 0211	49	que	printed	qui expected
@@ -541,7 +541,7 @@ page	line	form	decision	note
 0260	27	Redit	printed	Reddit expected
 0260	78	redit	printed	reddit expected
 0260	101	Rustitutii,	printed	Rusticutii expected; Serravalle's name
-0261	5	loco	misprint	foco (the Latin ab igne)
+0261	5	loco	printed	the manuscript's reading, kept against the Latin (was misprint: foco (the Latin ab igne))
 0261	21	bonum	misprint	already in Suspected misprints
 0262	87	unquam	printed	nuper expected
 0263	24	volto	misprint	Veso (the Latin a monte Veso)
@@ -568,7 +568,7 @@ page	line	form	decision	note
 0274	60	idest	printed	et expected
 0274	108	veluit	misprint	already in Suspected misprints
 0275	9	morte,	misprint	smorte (the commentary smorte)
-0276	9	mi	misprint	si (the Latin inde se tollit)
+0276	9	mi	printed	the manuscript's reading, kept against the Latin (was misprint: si (the Latin inde se tollit))
 0276	13	à	misread	was à; a speck above a, not an accent
 0276	28	brachiis	printed	branchiis expected; Serravalle's Latin
 0276	40	admodum:	printed	ammodo expected
@@ -673,7 +673,7 @@ page	line	form	decision	note
 0349	45	cum	misprint	eum
 0350	6	sempra	misprint	assempra (the Latin exemplatur)
 0350	15	exemplatur	printed	exemplat in the commentary; Latin verse
-0351	20	ponte.	misprint	monte (the Latin ad pedem montis)
+0351	20	ponte.	printed	the manuscript's reading, kept against the Latin (was misprint: monte (the Latin ad pedem montis))
 0351	83	sotium,	printed	Serravalle's Latin
 0351	84	sotium,	printed	secum in the verse; Serravalle's Latin
 0353	12	malegevole,	printed	old Italian spelling
@@ -919,7 +919,7 @@ page	line	form	decision	note
 0423	18	sn	misprint	already listed
 0423	85	commutundum	printed	Serravalle's Latin
 0424	12	Discenden	printed	the edition's Italian reading
-0424	20	lassai	misprint	falsai; the Latin falsificavi
+0424	20	lassai	printed	the manuscript's reading, kept against the Latin (was misprint: falsai; the Latin falsificavi)
 0424	25	Blanda	misprint	Branda; the Latin Fontem Brandam
 0424	35	heu nunc	printed	Serravalle's Latin
 0425	11	queste	printed	the edition's Italian reading
@@ -1526,7 +1526,7 @@ page	line	form	decision	note
 0643	96	piu	misprint	for più; no accent visible
 0645	17	Santo	printed	the commentary
 0646	54	opera	printed	the commentary; spera above
-0647	16	mondo,	misprint	for modo (the Latin per modum)
+0647	16	mondo,	printed	the manuscript's reading, kept against the Latin (was misprint: for modo (the Latin per modum))
 0647	22	veder	printed	the manuscript's reading, kept against the Latin (was misprint: for fuggir (the Latin ad fugiendum))
 0647	22	luce	printed	the manuscript's reading, kept against the Latin (was misprint: for vista (the Latin visio))
 0647	25	co	misprint	for eo
@@ -1719,8 +1719,8 @@ page	line	form	decision	note
 0720	53	compaxiebatur	printed	the commentary
 0721	19	tante	misprint	for tanto (the Latin tantum)
 0721	61	pingebat	printed	the commentary
-0722	5	colei	misprint	per colei for perchè lei (the Latin Sed quia illa)
-0722	10	mondo	misprint	for modo (the Latin ad modum)
+0722	5	colei	printed	the manuscript's reading, kept against the Latin (was misprint: per colei for perchè lei (the Latin Sed quia illa))
+0722	10	mondo	printed	the manuscript's reading, kept against the Latin (was misprint: for modo (the Latin ad modum))
 0722	17	cuna	misprint	for cruna (the Latin crunam)
 0722	76	adocchiat,	printed	the commentary
 0722	96	tonitrui	printed	the commentary
@@ -1982,7 +1982,7 @@ page	line	form	decision	note
 0791	32	fuimus	printed	Latin verse
 0791	47	solebant	printed	the commentary
 0792	7	ci	printed	Italian verse
-0792	18	mondo	misprint	for monte (the Latin montis)
+0792	18	mondo	printed	the manuscript's reading, kept against the Latin (was misprint: for monte (the Latin montis))
 0792	29	eravammo	printed	Italian verse
 0792	31	tutti	misprint	tutti quindi for quinci e quindi (the Latin hinc et inde)
 0792	40	tollebat	printed	Latin verse
@@ -2066,7 +2066,7 @@ page	line	form	decision	note
 0816	74	delitie*:	misprint	for primitie (the verse); the lemma
 0816	81	totaliter,	printed	the commentary
 0817	7	terra	printed	Italian verse; the Latin does not show the word
-0817	9	l'obliquo	misprint	for obiecto (the Latin obiectum comune)
+0817	9	l'obliquo	printed	the manuscript's reading, kept against the Latin (was misprint: for obiecto (the Latin obiectum comune))
 0817	12	accese,	misprint	for apprese (the Latin apprehensa)
 0817	27	Falsificat	printed	Latin verse
 0817	39	plenum	printed	Latin verse
@@ -2171,7 +2171,7 @@ page	line	form	decision	note
 0853	34	faciunt	printed	Latin verse
 0853	42	conduxit;	printed	Latin verse
 0853	55	Quem	printed	Latin verse
-0854	10	torma	misprint	for Roma (the Latin Illius Rome)
+0854	10	torma	printed	the manuscript's reading, kept against the Latin (was misprint: for Roma (the Latin Illius Rome))
 0854	37	improperium	printed	Latin verse; the commentary has it too
 0854	42	ipsam	printed	Latin verse
 0854	44	deprehensa	printed	Latin verse
@@ -2238,7 +2238,7 @@ page	line	form	decision	note
 0881	40	qui	printed	Latin verse
 0881	52	gebat	printed	conti-/gebat; the commentary, as 0794
 0881	88	ergo	misprint	for ego (the verse); the lemma
-0882	19	Mai	misprint	Mai ... primo for Ma ... proprio (the Latin Sed fulgur ... a proprio situ)
+0882	19	Mai	printed	the manuscript's reading, kept against the Latin (was misprint: Mai ... primo for Ma ... proprio (the Latin Sed fulgur ... a proprio situ))
 0882	38	censeram	printed	Latin verse
 0883	13	que'	printed	Italian verse
 0883	17	Ha	misprint	Ha un ordine for hanno ordine (the Latin Habent ordinem)
@@ -2388,7 +2388,7 @@ page	line	form	decision	note
 0931	79	si	misprint	E si come for E sì come; no accent visible; the lemma
 0931	93	limine	misprint	for lumine (the verse in lumine illius)
 0931	103	stellam	printed	the commentary
-0932	24	primo	misprint	for proprio (the Latin In proprio lumine)
+0932	24	primo	printed	the manuscript's reading, kept against the Latin (was misprint: for proprio (the Latin In proprio lumine))
 0932	29	ipso	printed	Latin verse
 0932	34	desiderium	printed	Latin verse; the commentary has it too
 0932	81	derium	printed	desi-/derium; the commentary
@@ -2692,7 +2692,7 @@ page	line	form	decision	note
 1067	5	rigardi	misprint	Italian verse; riguardi where the verse is quoted again
 1067	68	Gallium	printed	Commentary; Serravalle's etymology
 1067	73	defe-	misprint	Commentary; defecerunt
-1068	25	carole	misprint	Italian verse; the Latin curules
+1068	25	carole	printed	the manuscript's reading, kept against the Latin (was misprint: Italian verse; the Latin curules)
 1068	92	Galla	misprint	Commentary; the verse Galli
 1069	15	agl'	printed	the manuscript's reading, kept against the Latin (was misprint: Italian verse; the Latin Ubertino)
 1069	19	Guida	misprint	Italian verse; the Latin and commentary Guido
